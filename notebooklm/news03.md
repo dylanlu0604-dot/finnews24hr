@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-15 05:09:04_
-_本檔包含 3432 則快訊，約 702715 字_
+_更新時間：2026-07-15 06:09:40_
+_本檔包含 3411 則快訊，約 700839 字_
+
+---
+
+### 2026-07-12 22:21:22  #公司
+
+【安達智慧回覆年報問詢函，內容涵蓋經營業績等七大方面】7月12日，安達智慧（SH688125，股價153.36元，市值125.95億元）釋出《關於2025年年度報告資訊披露監管問詢函的回覆公告》（以下簡稱回覆公告），就上交所關於公司2025年年度報告的資訊披露監管問詢函進行了詳細回覆，內容涵蓋公司經營業績、期間費用、應付票據、應收賬款、存貨、其他非流動資產及募投專案等七大方面。（每經）
+
+---
+
+### 2026-07-12 22:19:13  #公司 #觀點
+
+【首批4只REITs指數基金募集收官 12億元增量資金入市】隨著7月10日中金基金披露旗下中證REITs全收益指數基金認購確認比例公告，易方達、華夏、南方、中金四大公募旗下首批4只REITs指數基金募集順利收官，近12億元增量資金為公募REITs市場注入新動力。作為國內首批標準化REITs指數投資工具，本次4只產品的成立推動國內公募REITs市場正式進入指數化發展的新階段，補齊了REITs指數化投資產品空白。有業內人士表示，REITs指數基金可以吸引險資、理財佈局，而且邏輯比股基ETF更順。（上證報）
+
+---
+
+### 2026-07-12 22:12:37  #宏觀 #國際
+
+【外交部亞洲司負責人就日方涉“南海仲裁案裁決”惡劣言行提出嚴正交涉】2026年7月12日，外交部亞洲司負責人就日本外相炒作“南海仲裁案裁決”出臺十年發表談話、日夥同他國發表所謂聯合宣告緊急約見日駐華使館首席公使，提出嚴正交涉、表達強烈不滿和抗議。中方指出，日本在南海問題上負有歷史罪責且並未清算，沒有任何資格說三道四。日方惡劣言行挑戰戰後國際秩序和國際法治，奉行雙重標準，搬弄是非，破壞南海和平穩定，違背地區國家共同利益和意願，引起包括中國在內國際社會對日本近代以來侵略殖民暴行的歷史警覺和強烈憤慨。中方將堅決有力回擊日方挑釁，堅定捍衛自身領土主權和海洋權益。 中方還就臺灣問題、日遺化武、日國會議員妄議中國民族政策以及日方軍事安全系列負面動向等提出嚴厲交涉。（外交部網站）
+
+---
+
+### 2026-07-12 22:11:14  #MKT News #Market Regions #Greater China #Japan & APAC #XAUUSD #Impact bullish #USDJPY #Impact bearish #Nikkei 225
+
+【China's MFA Asia Department lodges stern protest with Japan over South China Sea arbitration remarks】On July 12, 2026, the head of the Ministry of Foreign Affairs' Asia Department summoned the charge d’affaires of the Japanese embassy in Beijing, lodging stern representations and expressing strong dissatisfaction and protest over Japanese public comments marking the 10th anniversary of the South China Sea arbitration ruling and a related joint statement. China said Japan bears historical responsibility on the South China Sea issue, has not come to terms with its past, and therefore lacks the standing to criticise; it accused Japan of challenging the post‑war international order and rule of law, applying double standards, stirring up trouble and undermining peace and stability in the South China Sea. Beijing said Japan’s actions have provoked international vigilance and indignation over its modern‑era aggression and colonial violence, warned it will firmly and forcefully counter provocations to defend its territorial sovereignty and maritime rights, and lodged additional stern representations on Taiwan, Japan’s abandoned chemical weapons, comments by Japanese lawmakers on China’s ethnic policies, and a series of adverse Japanese military‑security developments.
+
+---
+
+### 2026-07-12 22:06:36  #國際
+
+【印尼中蘇拉威西省發生5.4級地震】據印度尼西亞氣象、氣候和地球物理局釋出的報告，當地時間7月12日20時46分，印尼中蘇拉威西省布奧爾市東北37公里處發生5.4級地震。震源深度10公里，暫無海嘯風險。（央視新聞）
+
+---
+
+### 2026-07-12 22:04:51  #公司
+
+市場訊息：蘋果公司將於明年春季推出新的 Apple Pencil，包括 Apple Pencil Pro 的新版本和低端 USB-C Apple Pencil。這些產品將與下一代 iPad Pro 一起首次亮相。
+
+---
+
+### 2026-07-12 22:04:06  #MKT News
+
+CENC auto-determined a magnitude ~3.1 earthquake at 22:01 on July 12 near Xinghua, Taizhou, Jiangsu (32.69N, 120.10E). Final parameters subject to formal quick bulletin.
+
+---
+
+### 2026-07-12 22:03:51  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+【Trump: Iran agreed to 'perfect deal' yesterday, then launched drone attack on ship】Trump said in an interview that Iran agreed to a "perfect deal" yesterday, including no nuclear weapons and abandoning all conditions. He said they left the room and, less than an hour later, used drones to attack a vessel.
+
+---
+
+### 2026-07-12 22:03:32  #國際
+
+【萬斯發文：我將為格雷厄姆及其家人祈禱】林賽・格雷厄姆出身平凡，最終躋身全球最強國家最具影響力的議員之列，他的人生是典型的美國式奮鬥故事。 我們之間固然存在諸多分歧，但我打心底裡欣賞他。他是政壇獨一無二的人物。我會為他及其家人祈禱。
+
+---
+
+### 2026-07-12 22:00:34  #其他
+
+伊拉克總理表示： 我此次前往華盛頓，將傳遞這樣一份信心——伊拉克不依附任何聯盟，置身地區衝突之外。
+
+---
+
+### 2026-07-12 21:59:31  #宏觀
+
+【熊貓債市場存量規模首超5000億元】熊貓債，是註冊地在境外的機構，在中國境內發行、以人民幣計價的還本付息的債券。今年以來，我國熊貓債市場持續保持高景氣度，規模大幅增長、發行主體多元擴容，目前發行規模已突破1700億元，同比增長超七成。截至目前，今年以來，熊貓債發行規模已突破1700億元，同比增長超七成。其中，境外金融機構、外資企業、外國政府發行熊貓債的規模近900億元，佔比超過50%。目前，熊貓債市場存量規模首次邁上5000億元。今年以來，熊貓債發行人出現了多張新面孔，既有斯洛維尼亞、巴基斯坦、哈薩克等主權國家，也有法國巴黎銀行、薩穆魯克—卡澤納主權財富基金等金融機構，就在6月末，巴西財政部遞交首筆在中國境內發行熊貓債申請，獲批註冊後，將成為拉丁美洲首個註冊發行主權熊貓債的國家。業內人士表示，境內市場流動性保持合理充裕，債券融資利率維持相對低位，為發行熊貓債創造了良好定價視窗，大幅提升境外主體來境內發債融資的意願和動力。 （央視財經）
+
+---
+
+### 2026-07-12 21:58:25  #其他
+
+市場訊息：南卡羅來納州共和黨代表團領袖、78 歲的喬・威爾遜有意角逐格雷厄姆空出的參議員席位，同時也計劃參選該席位完整任期。
+
+---
+
+### 2026-07-12 21:51:30  #MKT News
+
+Israeli military said it killed two Hamas militants in the northern Gaza Strip.
+
+---
+
+### 2026-07-12 21:51:01  #MKT News #Market Themes #AI Revolution #China Tech Giants #Magnificent 7 #Star Stocks #Meta Platforms #Alibaba #CSI300 #Impact mixed #Hang Seng Index #Impact bullish #BABA.N
+
+【China Merchants Securities: Overseas tech volatility lifts A‑share swings; flag domestic compute opportunity】China Merchants Securities says recent A‑share volatility has risen partly from spillovers of overseas tech turbulence, with leverage in Korea and comments from Meta driving sharp moves. At the industry level it highlights domestic compute as a near‑term catalyst ahead of a major AI conference where Huawei will first demonstrate the Atlas 950 SuperPoD — billed as the industry’s largest super‑node. The recent Hong Kong rebound, led by Alibaba’s earnings preview, may reflect an oversold bounce; further upside depends on upward revisions to aggregate Hong Kong earnings and a higher AI revenue share at leading tech firms, to be tested in upcoming interim results.
+
+---
+
+### 2026-07-12 21:50:32  #其他
+
+【“張雪機車”車手獲世界超級摩托車錦標賽多寧頓站次回合第十名】當地時間7月12日，2026世界超級摩托車錦標賽（WSBK）英國站WorldSSP組別第二回合正賽在英國多寧頓公園賽道舉行。中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯最終獲得第十名。在前一天的第一回合比賽中，德比斯位列第八名。WSBK英國多寧頓站比賽結束，賽事將進入休賽期，下一站比賽將於當地時間9月4日在法國舉行。（央視新聞）
+
+---
+
+### 2026-07-12 21:50:08  #MKT News
+
+【Trump says he spoke with Sen. Lindsey Graham hours before death; 'apart from being a bit tired, he was fine'】According to a CNN reporter, Trump said he spoke by phone with Sen. Lindsey Graham a few hours before Graham's death. Trump said Graham called around 7pm saying 'the Save America Act is ready' and that he felt 'a little tired.' Trump described Graham's death as 'very sudden' and said Graham had seemed 'fine, apart from being a bit tired.'
+
+---
+
+### 2026-07-12 21:49:19  #國際
+
+【招商證券：海外科技波動加大 關注國產算力機會】招商證券策略報告指出，近期A股波動率加大，一定程度上是海外科技高波動向A股的對映，韓國市場的槓桿與美股Meta的表述造成市場劇烈波動。產業層面，建議關注國產算力的最新催化，主要是即將到來的人工智慧大會上，華為將首次展出業界最大規模超節點Atlas 950 SuperPoD真機。近期港股市場大幅反彈，主要催化來自於阿里的業績preview，研報認為港股基於超跌反彈的修復或已告一段落，市場進一步上行的動力來自於港股整體盈利的上修，以及頭部大廠AI收入佔比的提升，這都需要等到即將到來的半年報期進行驗證。
+
+---
+
+### 2026-07-12 21:49:14  #國際
+
+以色列國防軍：7月9日來以軍在加沙地帶北部擊斃兩名哈馬斯武裝人員。
+
+---
+
+### 2026-07-12 21:45:25  #MKT News #XAUUSD #Impact bullish #WTI
+
+【Trump says US struck Iran 'very heavily' last night, CNN reports】According to CNN, Trump said in an interview the US 'struck them very, very heavily last night' and added he 'didn't want to talk about it,' offering no further details.
+
+---
+
+### 2026-07-12 21:44:22  #國際
+
+【葉門：我們將支援伊朗抵禦美國的侵略】葉門外交部在一份宣告中強調，葉門將堅定支援伊朗，共同抵禦美國和以色列的“野蠻侵略”。宣告明確指出，美國和以色列對伊朗的持續襲擊，葉門絕不會讓他們實現其目標。
+
+---
+
+### 2026-07-12 21:42:16  #公司 #國際
+
+【烏克蘭官員：現任總理或將出任烏克蘭駐美大使】烏克蘭官員表示，烏克蘭國家油氣公司總裁謝爾蓋・科列茨基是總理一職的首要候選人，國防部長費奧多羅夫、前總理什米加爾以及哈爾科夫市長捷列霍夫也在總理候選人名單之中。  這名議員透露，任命科列茨基出任總理一事基本已成定局，而現任總理尤利婭・斯維裡登科將出任駐美國大使。 還稱，本次政府 “大換血” 將涉及多名高官調整，其中包括烏克蘭國家安全域性局長與國家調查局局長。
+
+---
+
+### 2026-07-12 21:39:40  #國際
+
+特朗普：就我們而言，霍爾木茲海峽是開放的。
+
+---
+
+### 2026-07-12 21:39:14  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Advisor to Iran's supreme leader Rezaei said the Strait of Hormuz is a strategic deterrent whose importance exceeds that of dozens of nuclear bombs and that Iran will guard the vital waterway.
+
+---
+
+### 2026-07-12 21:38:19  #國際
+
+特朗普談伊朗無人機襲擊：他們肯定有問題。
+
+---
+
+### 2026-07-12 21:37:15  #國際
+
+特朗普：伊朗放棄了一切，並在兩小時後襲擊了一艘油輪。
+
+---
+
+### 2026-07-12 21:36:50  #國際
+
+特朗普：我非常支援以色列，格雷厄姆當然也是。
+
+---
+
+### 2026-07-12 21:36:30  #國際
+
+特朗普：昨晚在伊朗發動無人機襲擊之前，我們和伊朗達成了協議。
+
+---
+
+### 2026-07-12 21:36:11  #公司 #國際
+
+【美伊就霍爾木茲海峽通行權再起交鋒：伊朗稱海峽無法通行，美軍駁斥並強調航行自由】圍繞霍爾木茲海峽的通行權問題，美伊雙方於12日在媒體上再度爆發激烈交鋒。伊朗波斯灣海峽管理局當日釋出公告宣佈，霍爾木茲海峽目前無法通行，並表示待局勢平靜後，將恢復稽核海峽通行申請並按計劃發放必要的許可證。伊朗伊斯蘭革命衛隊海軍指揮官也在媒體上重申了對海峽的管控要求。針對伊朗方面的宣告，美國中央司令部在社交平臺連續發文予以駁斥。美軍強調，伊朗並不控制霍爾木茲海峽，該海峽仍是國際水道。儘管伊朗方面進行無端侵略、騷擾與武斷宣告，美軍已部署就位並準備就緒，隨時準備維持現狀，確保航行自由持續得到保障，目前海峽航運仍在正常進行。而，美國總統特朗普亦表態稱，霍爾木茲海峽是開放的。美伊雙方圍繞海峽控制權與通行狀態的表態針鋒相對，局勢走向仍存不確定性。
+
+---
+
+### 2026-07-12 21:34:34  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+【Russian Defence Ministry says forces carried out large-scale strikes on Ukrainian facilities】The Russian Defence Ministry said on the 12th that overnight from the 11th to early the 12th Russian forces carried out large-scale strikes that damaged Ukrainian fuel, power and transport infrastructure, long-range drone storage sites, ammunition depots and temporary deployment points for Ukrainian troops and foreign mercenaries at 158 locations. The ministry said Russian forces destroyed 585 Ukrainian-launched drones and 11 aerial bombs in the past 24 hours. Belgorod acting governor Shuvaev said on social media that over the same 24-hour period Ukraine struck 11 districts of the region with more than 100 attacks, killing one and wounding seven; Russian authorities said 111 drones were intercepted. Russian media reported that drone attacks prompted temporary restrictions on civilian flights overnight in multiple Russian cities, delaying dozens of flights.
+
+---
+
+### 2026-07-12 21:28:39  #其他
+
+【開源和人工智慧邊會探討共建開放普惠的數字未來】以“開源和人工智慧促進可持續發展：數字基礎設施、開放資料和多利益相關方合作”為主題的2026年資訊社會世界峰會論壇邊會近日在日內瓦舉辦。邊會以圓桌對話的形式展開，圍繞開源和AI促進實現聯合國可持續發展目標、開放資料與閉源資料的矛盾以及不同模態的大模型在開源生態中的面貌等議題展開深入討論。與會嘉賓一致認為，可持續發展目標的實現離不開開放、可信、可協作的數字基礎設施。開源與AI的交匯正在為全球可持續發展注入前所未有的動力。全球各界應攜手成為這場數字化變革的參與者和推動者，共同構建開放、包容、普惠的數字未來。（新華社）
+
+---
+
+### 2026-07-12 21:28:22  #國際
+
+【俄國防部：俄軍大規模打擊烏軍設施】俄羅斯國防部12日釋出訊息說，11日夜間至12日凌晨，俄軍大規模打擊並破壞了烏克蘭軍隊的多個設施。俄國防部訊息說，俄軍打擊並破壞了烏軍的燃料、能源和運輸設施，遠端無人機儲存點，彈藥庫以及烏軍和外國僱傭兵在158個地區的臨時部署點。過去24小時，俄軍共摧毀烏軍發射的585架無人機和11枚航空炸彈。俄羅斯別爾哥羅德州代理州長舒瓦耶夫12日在社交媒體發文說，過去24小時，烏軍對該州11個地區發動100多次襲擊，造成1人死亡、7人受傷。俄方共攔截111架無人機。另據俄媒報道，由於遭無人機襲擊，多個俄羅斯城市11日夜間至12日凌晨臨時限制民用飛機起降，數十個航班被延誤。（新華社）
+
+---
+
+### 2026-07-12 21:27:43  #公司 #國際
+
+【Meta面臨1.4萬億美元罰款，被指控侵害未成年人權益】美國4州聯合指控“元”公司（Meta）利用成癮演算法誘導未成年人，並隱瞞其對青少年心理健康的負面影響，索賠高達1.4萬億美元；全美已有29州就此提起訴訟。與此同時，歐盟委員會依據《數字服務法》釋出初步報告，要求Meta修改“自動播放”“無限滾動”等成癮性設計，否則面臨全球年收入6%的鉅額罰款。Meta否認指控，並表示將繼續抗辯。（環球網）
+
+---
+
+### 2026-07-12 21:26:12  #MKT News #Important #WTI #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+【U.S. military rebuts Iranian claim of control over Strait of Hormuz, says strait is international waterway】CENTCOM said on social media that a recent claim by Iran’s Islamic Revolutionary Guard Corps navy commander — that foreign vessels may not transit the Strait of Hormuz without identification, tracking and monitoring by Iranian forces — is false. Iran does not control the Strait of Hormuz; it remains an international waterway. U.S. forces are deployed and ready to maintain that status and ensure freedom of navigation, and shipping in the strait is continuing normally.
+
+---
+
+### 2026-07-12 21:21:42  #國際
+
+美國中央司令部澄清：伊朗無法掌控霍爾木茲海峽，它仍然是一條國際水道。美國部隊已部署並準備保持這一現狀。
+
+---
+
+### 2026-07-12 21:18:14  #其他
+
+內塔尼亞胡表示：格雷厄姆去世後，他感到震驚。
+
+---
+
+### 2026-07-12 21:18:04  #國際
+
+提示：特朗普發言結束。
+
+---
+
+### 2026-07-12 21:16:06  #國際
+
+特朗普提及昨夜對伊朗實施打擊，但拒絕詳述細節。
+
+---
+
+### 2026-07-12 21:15:13  #MKT News #Important #WTI #Impact bearish #Brent
+
+MSNBC cited President Trump saying the Strait of Hormuz is open.
+
+---
+
+### 2026-07-12 21:14:51  #國際
+
+特朗普：霍爾木茲海峽暢通無阻，我們曾對其實施猛烈轟炸。
 
 ---
 
@@ -20502,371 +20736,5 @@ CATL shares fall more than 5% on turnover exceeding 11.8 billion yuan.
 ### 2026-07-10 13:30:11  #Trading Economics #Markets #Crypto #Importance 1
 
 Crypto Updates: Ether Appreciates by 1.59% — Top crypto gainers are Ether (1.59%), Binance (1.34%) and Bitcoin (1.13%).
-
----
-
-### 2026-07-10 13:27:38  #市場
-
-【航天航空板塊走強，航天環宇20%漲停】航天航空板塊走強，航天環宇20%漲停，中國衛星、中天火箭漲停，天微電子、航宇科技等跟漲。
-
----
-
-### 2026-07-10 13:25:46  #其他
-
-太陽紙業捐贈1000萬元馳援南寧橫州市抗洪救災。
-
----
-
-### 2026-07-10 13:25:19  #其他
-
-【上半年百億私募平均收益率達13.36%】私募排排網資料顯示，上半年百億私募平均收益率達13.36%，大幅跑贏同期滬深300指數7.55%的漲幅。
-
----
-
-### 2026-07-10 13:24:41  #市場
-
-衛星ETF全線漲停，衛星ETF鵬華、衛星ETF易方達、衛星ETF廣發、衛星ETF富國均漲停。
-
----
-
-### 2026-07-10 13:24:34  #MKT News #01364.HK #Impact mixed
-
-【HSBC trims Guming PT 7% to HK$27.1, retains Buy】HSBC cut its PT for Guming (01364.HK) by 7% to HK$27.1 from HK$29.1 and kept a Buy rating. After full adjustment of delivery subsidies and given healthy franchisee single-store economics, HSBC says the company’s earnings-revision cycle could improve in 2027. Demand for freshly made drinks remains strong; HSBC expects store expansion to resume in 2027 and estimates 15,554 outlets by end-2026.
-
----
-
-### 2026-07-10 13:24:31  #MKT News #Important #CSI300 #Impact bullish
-
-Satellite ETFs all hit daily limit-up; Penghua, E Fund, GF and Fullgoal satellite ETFs were limit-up. The Long March 10B carrier rocket is expected to complete a reuse flight of one stage before year-end.
-
----
-
-### 2026-07-10 13:22:09  #其他
-
-【百億私募6月平均收益率達2.18%】私募排排網資料顯示，截至2026年6月30日，有業績記錄的100家百億私募，6月平均收益率達2.18%，跑贏同期滬深300指數1.78%的漲幅。
-
----
-
-### 2026-07-10 13:22:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
-
-【100 private fund managers with ≥¥10bn AUM average 2.18% return in June】Data from private fund tracker Simuwang show that as of June 30, 2026, 100 private fund managers with performance records and AUM ≥¥10bn posted an average June return of 2.18%, outperforming the CSI 300’s 1.78% gain.
-
----
-
-### 2026-07-10 13:21:40  #MKT News #Commodities #Energy
-
-ADNOC L&S has ordered four newbuild 175,000 m3 LNG carriers for about $900 million, with delivery scheduled in 2029. The order brings ADNOC L&S’s planned LNG carrier fleet to 18 vessels.
-
----
-
-### 2026-07-10 13:20:16  #市場
-
-【航天裝備板塊持續走強，多支衛星ETF逼近漲停】 航天裝備板塊持續走強，中國衛星、中國衛通等漲停。衛星ETF廣發（512630）、衛星ETF易方達（563530）、衛星ETF鵬華（563790）等多支ETF逼近漲停。訊息面上，據新華社報道，長征十號乙運載火箭在海南商業航天發射場發射升空，將衛星順利送入預定軌道。火箭一二級分離後，一子級垂直返回，在海上回收平臺透過網系捕獲方式回收，發射及一子級回收任務取得圓滿成功。此次任務是我國首次成功實施運載火箭一子級可控回收，標誌著我國重複使用火箭技術取得重大突破。
-
----
-
-### 2026-07-10 13:19:54
-
-【長征十號乙運載火箭預計年底前完成一子級火箭複用飛行】長征十號乙運載火箭7月10日成功實現一子級可控回收。後續，長征十號乙運載火箭研製團隊將持續最佳化火箭效能，加快重複使用火箭技術的迭代升級，預計將在今年年底前完成一子級火箭複用飛行。
-
----
-
-### 2026-07-10 13:19:32  #市場
-
-衛星ETF廣發、衛星ETF易方達雙雙觸達漲停。
-
----
-
-### 2026-07-10 13:19:25  #MKT News #Important #Market Regions #Greater China
-
-Guangfa Satellite ETF and E Fund Satellite ETF both hit their daily limit-up.
-
----
-
-### 2026-07-10 13:18:04  #MKT News #Important
-
-【Long March 10B expected to complete first-stage reuse flight by year-end】Long March 10B achieved a controlled recovery of a first-stage booster on July 10. The rocket development team will continue optimizing performance and accelerating iterative upgrades to reusable-rocket technology, and expects to complete a first-stage reuse flight before year-end.
-
----
-
-### 2026-07-10 13:17:41  #其他
-
-【榮耀釋出首款與張雪機車聯名產品】7月10日，榮耀釋出首款與張雪機車聯名產品榮耀手錶6 Plus張雪機車聯名款，搭載專屬機車騎行模式，可實時檢視騎行速度、心率以及路線軌跡等，並內建專屬張雪機車影片錶盤，配備1000mAh青海湖大電池。
-
----
-
-### 2026-07-10 13:17:26  #其他
-
-【百億私募數量達142家 再次重新整理歷史紀錄】 私募排排網資料顯示，截至2026年6月30日，百億私募數量達142家，較5月末的139家增加3家，較去年底的113家增加29家，再次重新整理歷史紀錄。
-
----
-
-### 2026-07-10 13:17:17  #國際
-
-【 外交部發言人點贊中國“預製房”：歡迎入住中國製造的家 】 7月9日，外交部發言人毛寧在海外社交平臺轉發點贊央視財經報道的中國模組化建築，並配文：“開箱從中國運來的全新公寓。在工廠全屋預製完工，在現場快速拼裝搭建，價效比高，綠色環保。歡迎入住中國製造的家。”（央視）
-
----
-
-### 2026-07-10 13:16:25  #公司
-
-阿布扎比國家石油公司物流與服務部（ADNOC L&S）：最新訂單使其新建液化天然氣運輸船專案總規模達18艘。
-
----
-
-### 2026-07-10 13:15:41  #MKT News #Star Stocks #MSFT.O #Impact bearish
-
-HSBC lowers Microsoft (MSFT.O) PT to $567 from $571.
-
----
-
-### 2026-07-10 13:15:30  #其他
-
-滙豐將微軟目標價從571美元下調至567美元。
-
----
-
-### 2026-07-10 13:15:11  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Japanese Yen Rises by 0.52% — Top currency gainers are Japanese Yen (0.52%), New Zealand Dollar (0.34%), Swiss Franc (0.30%), British Pound (0.16%) and Euro (0.09%). Biggest losers are South Korean Won (-0.36%) and Dollar Index (-0.18%).
-
----
-
-### 2026-07-10 13:15:06  #MKT News
-
-China A-share satellite navigation sector rallied in afternoon trade; Tianli Fuhe gained over 24%, Hangtian Huanyu over 19%, Huashi Technology over 18%, Xingchen Technology over 16%, Xingtu Cekong and Xice Testing each rose more than 13%.
-
----
-
-### 2026-07-10 13:15:05  #公司
-
-阿布扎比國家石油公司物流與服務部訂購的四艘新建17.5萬立方米液化天然氣運輸船定於2029年交付。
-
----
-
-### 2026-07-10 13:14:45  #公司
-
-阿布扎比國家石油公司物流與服務部（ADNOC L&S）：訂購四艘新運輸船，擴大液化天然氣（LNG）船隊規模。
-
----
-
-### 2026-07-10 13:14:22  #央行 #國際
-
-【機構分析認為美聯儲對通脹感到不安】SEB的Jussi Hiljanen在一份報告中表示，美聯儲的會議紀要凸顯出美聯儲對通貨膨脹感到不安。該首席策略師表示，週三公佈的6月會議紀要還凸顯出，立即收緊政策只能提供有限的支撐，因此美聯儲不願在增長不確定性不斷增加之際加息。他說：“這可能會使加息的門檻保持在相對較高的水平，並在通貨膨脹改善和勞動力市場疲軟變得更加明顯時，為降息敞開大門。“考慮到風險平衡，SEB認為目前計入約1.5次加息是合理的。
-
----
-
-### 2026-07-10 13:12:36  #公司
-
-【北交所首批非公開發行公司債券正式掛牌】2026年7月10日，北交所首批非公開發行公司債券（以下簡稱私募債）掛牌儀式在京舉辦，首批6只私募債正式掛牌。中國證監會公眾司、債券司、相關派出機構和單位負責同志，北京市政府副秘書長，北京市金融管理、國資監管和西城區政府代表同志，河北、江蘇、山東等省市金融管理、國資監管部門負責同志，以及發行人、承銷機構、投資機構、擔保機構代表參加儀式。
-
-首批私募債的發行人分別為首創集團、石家莊交投集團、國泰租賃、無錫錫山金投、鴻仕達、駿創科技，涵蓋京津冀區域重點企業、山東省級國企、科創投資平臺、國家級專精特新“小巨人”、民營上市公司等，市場代表性突出。債券發行規模合計27.6億元，商業銀行、銀行理財、證券公司、信託機構等多種型別金融機構積極參與申購，4只債券票面利率創發行人公司債券利率新低，2只債券為發行人首次亮相債券市場。債券品種包含科創債、鄉村振興債以及“京津冀協同發展”“服務首都高質量發展”等貼標債券，具有良好的示範效應。
-
-推出私募債業務，是北交所豐富債券產品體系，服務多層次債券市場建設、促進提高直接融資比重的重要舉措，有利於進一步拓寬中小企業融資渠道，更好服務實體經濟和國家戰略。首批私募債掛牌，標誌著北交所債券市場建設邁上新臺階，股債聯動服務科技創新進入新階段，對於交易所債券市場擴大服務覆蓋面具有積極意義。
-
-下一步，北交所將在中國證監會的領導下，研究最佳化市場基礎制度，著力提升制度包容性適應性，深入推進主陣地建設。在債券市場建設方面，將著力加強債券產品和服務創新，推進債券回購、做市等功能建設，更好滿足市場需求；完善債券全鏈條監管制度機制，不斷提升監管和風險防控能力，推動市場在規範中發展、在發展中提升；強化股債協同服務，凝聚改革發展合力，更好服務實體經濟高質量發展。
-
----
-
-### 2026-07-10 13:12:12  #MKT News
-
-【Beijing Stock Exchange lists first private-placement corporate bonds】July 10, 2026 — The Beijing Stock Exchange formally listed its first batch of non-public corporate bonds: six private-placement issues totaling CNY2.76 billion. Issuers included Shouchuang Group, Shijiazhuang Transport Investment Group, Guotai Leasing, Wuxi Xishan Jintou, Hongshida and Junchuang Technology, spanning Beijing–Tianjin–Hebei regional firms, a Shandong provincial SOE, a tech-investment platform, a national-level specialized “little giant” and a private listed company. Commercial banks, bank wealth-management products, securities firms and trust institutions were active buyers. Four issues priced at issuer-record low coupons and two were bond-market debuts. Offerings comprised sci‑tech innovation bonds, rural-revitalization bonds and labeled issues tied to Beijing–Tianjin–Hebei coordinated development and serving the capital’s high-quality development.
-
----
-
-### 2026-07-10 13:10:56  #公司 #市場 #國際
-
-【印度Lux Industries公司因與銳步達成品牌授權協議而股價上漲】印度Lux Industries股價上漲6.2%，至1,298.20盧比，創下自2026年6月17日以來的最高水平。該股在連續三個交易日下跌後反彈。這家紡織服裝公司表示，其Vertical B業務部門已與RILUK IPCO簽署獨家品牌授權協議，獲准在印度使用銳步（Reebok）商標。
-
----
-
-### 2026-07-10 13:09:39  #其他
-
-【河南全省首個低空經濟巡回法庭在鄭揭牌】“低空經濟”起飛，法治如何護航？7月9日，鄭州市上街區低空經濟巡回法庭揭牌執行。這是河南省首個專門面向低空經濟領域的巡回法庭。 據瞭解，新成立的低空經濟巡回法庭聚焦合同糾紛、智慧財產權侵權、勞動爭議等三類涉企糾紛，組建專業化審判團隊實行集中管轄、歸口審理，統一裁判尺度，提升辦案質效。法庭在鄭州國家通航示範區設立巡迴審判點，定期開展巡迴開庭、現場調解、以案釋法，讓企業“足不出園”即可享受訴前調解、立案諮詢、快速審判等全鏈條服務。同時，法庭建立“快立快審快執”綠色通道，對涉低空經濟案件優先受理、優先保全、優先執行，最大限度降低司法週期對企業經營的影響。（河南日報）
-
----
-
-### 2026-07-10 13:08:51  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-A-share defense informatization sector rallied in the afternoon; Jiayuan Technology hit the daily limit, Xingtu Measurement & Control rose more than 14%, Tianwei Electronics rose more than 10%, and Guobo Electronics and Haige Communication rose more than 9%.
-
----
-
-### 2026-07-10 13:07:34  #公司 #國際
-
-【鋁供應衝擊使長期停產的西方電解鋁廠重啟】伊朗戰爭引發的供應衝擊，正促使西方老舊的鋁冶煉廠重煥生機。在美國，Magnitude 7 Metals公司正在重啟位於密蘇里州的新馬德里電解鋁廠。大西洋彼岸，挪威生產商海德魯公司已宣佈部分重啟位於斯洛伐克的斯洛瓦爾科合資電解鋁廠。這兩家工廠已完全停產數年，是鋁價低迷以及2022年俄烏衝突後能源價格飆升的受害者。此次復產對華盛頓和布魯塞爾而言具有重大政治意義，雙方都迫切希望降低對這種廣泛應用於各工業領域的金屬的進口依賴。雖然這兩項舉措都不會對全球格局產生太大影響，但這些“殭屍電解鋁廠”的復產，卻顯示出自今年2月中東衝突爆發以來，鋁市場發生了巨大的變化。
-
----
-
-### 2026-07-10 13:07:12
-
-【商業航天ETF午後拉漲，衛星ETF易方達、衛星ETF富國雙雙漲超8％，衛星ETF廣發、衛星ETF鵬華漲超7％；訊息面上，我國首次成功實施運載火箭一子級可控回收。】
-
----
-
-### 2026-07-10 13:06:15  #公司
-
-【歷史一刻！中國重複使用火箭歷史性突破】今天，長征十號乙運載火箭在海南商業航天發射場發射升空，將衛星順利送入預定軌道，火箭一二級分離後，一子級垂直返回，在海上回收平臺透過網系捕獲方式成功回收，發射及一子級回收任務取得圓滿成功。此次任務是我國首次成功實施運載火箭一子級可控回收，同時也是全球首次運載火箭網系回收，標誌著我國在重複使用火箭技術領域取得歷史性突破，將為加快提升我國進出空間能力奠定堅實基礎。長征十號乙運載火箭成為我國首型成功實施回收的重複使用運載火箭。 長征十號乙運載火箭由中國航天科技集團有限公司所屬中國運載火箭技術研究院抓總研製，為5米直徑兩級串聯構型大型液體運載火箭，芯一級沿用長征十號甲運載火箭一子級狀態，採用液氧煤油推進劑，芯二級採用液氧甲烷推進劑，全箭起飛推力約890噸，起飛重量約760噸，首飛箭全箭長度約63米，重複使用狀態下近地軌道運載能力16噸，可滿足低軌衛星網際網路星座部署、大型商業衛星發射等各類任務需求，複用狀態下可大幅降低發射成本，具有大運力、高價效比的優勢。此次任務是繼長征十號系列運載火箭低空演示驗證飛行並在海上安全濺落後對重複使用火箭回收技術的進一步驗證。 本次首飛任務成功驗證了組合構型總體最佳化設計技術、大推力箱底傳力技術、甲烷自生增壓技術等核心關鍵技術，特別是成功驗證了基於隔板貯箱的推進劑管理技術、發動機多次啟動和高空點火、複雜力熱環境適應性、高精度導航控制、海上平臺網系捕獲回收等多項一子級重複使用關鍵核心技術。 後續，長征十號乙運載火箭研製團隊將持續最佳化火箭效能，加快重複使用火箭技術的迭代升級，預計將在今年年底前完成一子級火箭複用飛行。（央視）
-
----
-
-### 2026-07-10 13:04:30  #市場 #焦點
-
-科創50日內跌幅達1.03%，成分股中，晶合整合跌12.91%，華潤微跌9.03%，芯聯整合跌5.99%，芯原股份跌5.64%。
-
----
-
-### 2026-07-10 13:04:07  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-Commercial aerospace ETFs jumped in afternoon trade: satellite ETFs from E Fund and Fullgoal rose over 8%, while GF Fund and Penghua satellite ETFs gained more than 7%, after reports that China completed its first controlled recovery of a carrier-rocket stage.
-
----
-
-### 2026-07-10 13:04:05  #公司
-
-【兆易創新A股成交額超400億元】7月10日下午，兆易創新A股成交額超400億元，現跌0.86%。
-
----
-
-### 2026-07-10 13:03:18  #公司
-
-【星宇股份與金髮科技加速創新材料戰略合作】7月10日，星宇股份與金髮科技創新材料戰略合作簽約儀式在上海圓滿舉行。本次戰略合作，雙方將聚焦機器人專用新材料開展聯合研發與最佳化應用。透過資源共享、技術互補，進一步夯實產品效能、縮短技術落地週期，助力雙方在機器人賽道持續提升核心競爭力。
-
----
-
-### 2026-07-10 13:02:22  #Trading Economics #Markets #Commodity #Importance 1
-
-Palm Oil Falls Further, Eyes First Weekly Rise in Three Weeks — Malaysian palm oil futures extended their decline, slipping below MYR 4,600 per tonne amid a stronger ringgit and weaker edible oils on the Dalian Exchange. Fresh data from the Malaysian Palm Oil Board showed June inventories rose to a four-month high of 4.8% from May, while production climbed 8.1% on stronger seasonal output. Production has accelerated further as mills in Perak struggle to process an influx of fresh fruit bunches. On the demand side, India's palm oil imports fell to a 14-month low in June due to sluggish consumption and a narrowing price discount over competing edible oils. Still, contracts remain on track for their first weekly gain in three, driven by the B50 mandate in top supplier Indonesia, which is expected to spur consumption to 16.3–17.0 million metric tons this year from 15.2 million previously. Meanwhile, cargo surveyors noted palm oil exports during July 1–5 rose 10.6%–11.1% from the same period in June, with traders awaiting full ten-day shipment data.
-
----
-
-### 2026-07-10 13:02:11  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
-
-China A-share commercial space sector rallied in the afternoon after state media reported a Long March-10B booster was successfully recovered on an offshore platform — the first controlled sea recovery of a carrier-rocket first stage in China. Hailanxin hit a 20% daily limit, Chaojie jumped over 14% in a straight-line move, and Tianli Composite, Feiwo Technology, Xingtú Measurement & Control and Chuangyuan Xinke also advanced.
-
----
-
-### 2026-07-10 13:01:32  #市場
-
-【商業航天板塊午後拉昇，海蘭信20cm漲停】商業航天板塊午後拉昇，海蘭信20cm漲停，佳緣科技、信科移動、電科藍天、星圖測控多股直線拉昇。訊息面上，長征十號乙運載火箭成功實現一子級可控回收。
-
----
-
-### 2026-07-10 13:01:30  #市場 #焦點
-
-北證50日內漲幅達2.06%，成分股中，天力複合漲23.24%，星圖測控漲15.95%，富士達漲9.72%，XD連城數漲8.10%。
-
----
-
-### 2026-07-10 13:01:29  #市場
-
-截止13:01，兩市104只個股漲停。
-
----
-
-### 2026-07-10 13:01:09  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields #USDJPY #Impact bearish
-
-【Allianz chief economist: If Japan shifts its portfolio, cuts to overseas assets would become a global market focus】Allianz chief adviser Mohamed El-Erian said Japan's finance minister Katayama identified as a priority encouraging households and pensions, including the Government Pension Investment Fund (GPIF), to raise allocations to Japanese financial assets. Katayama's comments pushed the 10-year JGB yield down about 9bps and the yen up roughly 0.5% in Tokyo trade. If this marks a reorientation of Japan's large portfolio—still a significant uncertainty—the immediate market question is which overseas holdings would be pared first.
-
----
-
-### 2026-07-10 13:01:04  #市場 #焦點
-
-【A股應急產業板塊異動拉昇】恆久退、華勝天成觸及漲停，烽火電子、中科星圖、中國衛通、佳訊飛鴻、萊斯資訊跟漲。
-
----
-
-### 2026-07-10 13:01:04  #市場 #焦點
-
-【A股時空大資料板塊異動拉昇】華勝天成、中通國脈觸及漲停，華是科技、縱橫股份、海格通訊、吉視傳媒、天億馬跟漲。
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股軍工資訊化板塊異動拉昇】佳緣科技、恆久退、鋮昌科技、星網宇達觸及漲停，海蘭信、星圖測控、創遠信科跟漲。
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股火箭回收板塊異動拉昇】巨力索具觸及漲停，海蘭信、超捷股份、斯瑞新材、航天電器、中航機載跟漲。
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股國防軍工板塊異動拉昇】中船防務、鋮昌科技、高德紅外、星網宇達觸及漲停，海蘭信、西測測試、天微電子跟漲。
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股軍工電子Ⅲ板塊異動拉昇】鋮昌科技、高德紅外觸及漲停，西測測試、天微電子、霍萊沃、陝西華達、航天發展跟漲。
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股SpaceX概念板塊異動拉昇】晉拓股份觸及漲停，超捷股份、雙良節能、東方日升、西部材料、通宇通訊、派克新材跟漲。
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股軍工電子Ⅱ板塊異動拉昇】鋮昌科技、高德紅外觸及漲停，西測測試、天微電子、霍萊沃、陝西華達、航天發展跟漲。
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股軍民融合板塊異動拉昇】佳緣科技、華勝天成、神劍股份、航天工程、旭光電子、潤建股份、鋮昌科技觸及漲停
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股低空經濟板塊異動拉昇】神劍股份、華建集團、旭光電子、潤建股份、中鼎股份、學大教育、金帝股份觸及漲停
-
----
-
-### 2026-07-10 13:01:03  #市場 #焦點
-
-【A股軍工央企板塊異動拉昇】航天工程、中船防務觸及漲停，航天動力、航天發展、航天晨光、中天火箭、航天電子跟漲。
-
----
-
-### 2026-07-10 13:01:02  #市場 #焦點
-
-【A股中國電科集團板塊異動拉昇】電科藍天漲9.89%，普天科技、國博電子、萊斯資訊、天奧電子、東方通訊、太極股份跟漲。
-
----
-
-### 2026-07-10 13:01:02  #市場 #焦點
-
-【A股其他通用裝置板塊異動拉昇】金沃股份漲13.72%，鮑斯股份、鉑力特、鑫磊股份、航天動力、濰柴重機、上海滬工跟漲。
-
----
-
-### 2026-07-10 13:01:02  #市場 #焦點
-
-【A股超寬頻（UWB）板塊異動拉昇】超訊科技觸及漲停，天銀機電、雷科防務、智明達、合眾思壯、梅安森、中海達跟漲。
-
----
-
-### 2026-07-10 13:01:02  #市場 #焦點
-
-【A股太空算力板塊異動拉昇】天銀機電漲10.65%，陝西華達、乾照光電、順灝股份、航天電子、航天智裝、上海滬工跟漲。
-
----
-
-### 2026-07-10 13:01:02  #市場 #焦點
-
-【A股風電裝置板塊異動拉昇】泰勝風能漲13.63%，電氣風電、飛沃科技、金風科技、廣大特材、中船科技、宏德股份跟漲。
-
----
-
-### 2026-07-10 13:01:02  #市場 #焦點
-
-【A股飛行汽車板塊異動拉昇】星網宇達觸及漲停，藍海華騰、超捷股份、鉑力特、廣聯航空、瑞瑪精密、雅創電子跟漲。
 
 ---

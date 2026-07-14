@@ -1,7 +1,373 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-15 05:09:04_
-_本檔包含 3649 則快訊，約 702747 字_
+_更新時間：2026-07-15 06:09:40_
+_本檔包含 3645 則快訊，約 702004 字_
+
+---
+
+### 2026-07-10 13:27:38  #市場
+
+【航天航空板塊走強，航天環宇20%漲停】航天航空板塊走強，航天環宇20%漲停，中國衛星、中天火箭漲停，天微電子、航宇科技等跟漲。
+
+---
+
+### 2026-07-10 13:25:46  #其他
+
+太陽紙業捐贈1000萬元馳援南寧橫州市抗洪救災。
+
+---
+
+### 2026-07-10 13:25:19  #其他
+
+【上半年百億私募平均收益率達13.36%】私募排排網資料顯示，上半年百億私募平均收益率達13.36%，大幅跑贏同期滬深300指數7.55%的漲幅。
+
+---
+
+### 2026-07-10 13:24:41  #市場
+
+衛星ETF全線漲停，衛星ETF鵬華、衛星ETF易方達、衛星ETF廣發、衛星ETF富國均漲停。
+
+---
+
+### 2026-07-10 13:24:34  #MKT News #01364.HK #Impact mixed
+
+【HSBC trims Guming PT 7% to HK$27.1, retains Buy】HSBC cut its PT for Guming (01364.HK) by 7% to HK$27.1 from HK$29.1 and kept a Buy rating. After full adjustment of delivery subsidies and given healthy franchisee single-store economics, HSBC says the company’s earnings-revision cycle could improve in 2027. Demand for freshly made drinks remains strong; HSBC expects store expansion to resume in 2027 and estimates 15,554 outlets by end-2026.
+
+---
+
+### 2026-07-10 13:24:31  #MKT News #Important #CSI300 #Impact bullish
+
+Satellite ETFs all hit daily limit-up; Penghua, E Fund, GF and Fullgoal satellite ETFs were limit-up. The Long March 10B carrier rocket is expected to complete a reuse flight of one stage before year-end.
+
+---
+
+### 2026-07-10 13:22:09  #其他
+
+【百億私募6月平均收益率達2.18%】私募排排網資料顯示，截至2026年6月30日，有業績記錄的100家百億私募，6月平均收益率達2.18%，跑贏同期滬深300指數1.78%的漲幅。
+
+---
+
+### 2026-07-10 13:22:00  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish
+
+【100 private fund managers with ≥¥10bn AUM average 2.18% return in June】Data from private fund tracker Simuwang show that as of June 30, 2026, 100 private fund managers with performance records and AUM ≥¥10bn posted an average June return of 2.18%, outperforming the CSI 300’s 1.78% gain.
+
+---
+
+### 2026-07-10 13:21:40  #MKT News #Commodities #Energy
+
+ADNOC L&S has ordered four newbuild 175,000 m3 LNG carriers for about $900 million, with delivery scheduled in 2029. The order brings ADNOC L&S’s planned LNG carrier fleet to 18 vessels.
+
+---
+
+### 2026-07-10 13:20:16  #市場
+
+【航天裝備板塊持續走強，多支衛星ETF逼近漲停】 航天裝備板塊持續走強，中國衛星、中國衛通等漲停。衛星ETF廣發（512630）、衛星ETF易方達（563530）、衛星ETF鵬華（563790）等多支ETF逼近漲停。訊息面上，據新華社報道，長征十號乙運載火箭在海南商業航天發射場發射升空，將衛星順利送入預定軌道。火箭一二級分離後，一子級垂直返回，在海上回收平臺透過網系捕獲方式回收，發射及一子級回收任務取得圓滿成功。此次任務是我國首次成功實施運載火箭一子級可控回收，標誌著我國重複使用火箭技術取得重大突破。
+
+---
+
+### 2026-07-10 13:19:54
+
+【長征十號乙運載火箭預計年底前完成一子級火箭複用飛行】長征十號乙運載火箭7月10日成功實現一子級可控回收。後續，長征十號乙運載火箭研製團隊將持續最佳化火箭效能，加快重複使用火箭技術的迭代升級，預計將在今年年底前完成一子級火箭複用飛行。
+
+---
+
+### 2026-07-10 13:19:32  #市場
+
+衛星ETF廣發、衛星ETF易方達雙雙觸達漲停。
+
+---
+
+### 2026-07-10 13:19:25  #MKT News #Important #Market Regions #Greater China
+
+Guangfa Satellite ETF and E Fund Satellite ETF both hit their daily limit-up.
+
+---
+
+### 2026-07-10 13:18:04  #MKT News #Important
+
+【Long March 10B expected to complete first-stage reuse flight by year-end】Long March 10B achieved a controlled recovery of a first-stage booster on July 10. The rocket development team will continue optimizing performance and accelerating iterative upgrades to reusable-rocket technology, and expects to complete a first-stage reuse flight before year-end.
+
+---
+
+### 2026-07-10 13:17:41  #其他
+
+【榮耀釋出首款與張雪機車聯名產品】7月10日，榮耀釋出首款與張雪機車聯名產品榮耀手錶6 Plus張雪機車聯名款，搭載專屬機車騎行模式，可實時檢視騎行速度、心率以及路線軌跡等，並內建專屬張雪機車影片錶盤，配備1000mAh青海湖大電池。
+
+---
+
+### 2026-07-10 13:17:26  #其他
+
+【百億私募數量達142家 再次重新整理歷史紀錄】 私募排排網資料顯示，截至2026年6月30日，百億私募數量達142家，較5月末的139家增加3家，較去年底的113家增加29家，再次重新整理歷史紀錄。
+
+---
+
+### 2026-07-10 13:17:17  #國際
+
+【 外交部發言人點贊中國“預製房”：歡迎入住中國製造的家 】 7月9日，外交部發言人毛寧在海外社交平臺轉發點贊央視財經報道的中國模組化建築，並配文：“開箱從中國運來的全新公寓。在工廠全屋預製完工，在現場快速拼裝搭建，價效比高，綠色環保。歡迎入住中國製造的家。”（央視）
+
+---
+
+### 2026-07-10 13:16:25  #公司
+
+阿布扎比國家石油公司物流與服務部（ADNOC L&S）：最新訂單使其新建液化天然氣運輸船專案總規模達18艘。
+
+---
+
+### 2026-07-10 13:15:41  #MKT News #Star Stocks #MSFT.O #Impact bearish
+
+HSBC lowers Microsoft (MSFT.O) PT to $567 from $571.
+
+---
+
+### 2026-07-10 13:15:30  #其他
+
+滙豐將微軟目標價從571美元下調至567美元。
+
+---
+
+### 2026-07-10 13:15:11  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Japanese Yen Rises by 0.52% — Top currency gainers are Japanese Yen (0.52%), New Zealand Dollar (0.34%), Swiss Franc (0.30%), British Pound (0.16%) and Euro (0.09%). Biggest losers are South Korean Won (-0.36%) and Dollar Index (-0.18%).
+
+---
+
+### 2026-07-10 13:15:06  #MKT News
+
+China A-share satellite navigation sector rallied in afternoon trade; Tianli Fuhe gained over 24%, Hangtian Huanyu over 19%, Huashi Technology over 18%, Xingchen Technology over 16%, Xingtu Cekong and Xice Testing each rose more than 13%.
+
+---
+
+### 2026-07-10 13:15:05  #公司
+
+阿布扎比國家石油公司物流與服務部訂購的四艘新建17.5萬立方米液化天然氣運輸船定於2029年交付。
+
+---
+
+### 2026-07-10 13:14:45  #公司
+
+阿布扎比國家石油公司物流與服務部（ADNOC L&S）：訂購四艘新運輸船，擴大液化天然氣（LNG）船隊規模。
+
+---
+
+### 2026-07-10 13:14:22  #央行 #國際
+
+【機構分析認為美聯儲對通脹感到不安】SEB的Jussi Hiljanen在一份報告中表示，美聯儲的會議紀要凸顯出美聯儲對通貨膨脹感到不安。該首席策略師表示，週三公佈的6月會議紀要還凸顯出，立即收緊政策只能提供有限的支撐，因此美聯儲不願在增長不確定性不斷增加之際加息。他說：“這可能會使加息的門檻保持在相對較高的水平，並在通貨膨脹改善和勞動力市場疲軟變得更加明顯時，為降息敞開大門。“考慮到風險平衡，SEB認為目前計入約1.5次加息是合理的。
+
+---
+
+### 2026-07-10 13:12:36  #公司
+
+【北交所首批非公開發行公司債券正式掛牌】2026年7月10日，北交所首批非公開發行公司債券（以下簡稱私募債）掛牌儀式在京舉辦，首批6只私募債正式掛牌。中國證監會公眾司、債券司、相關派出機構和單位負責同志，北京市政府副秘書長，北京市金融管理、國資監管和西城區政府代表同志，河北、江蘇、山東等省市金融管理、國資監管部門負責同志，以及發行人、承銷機構、投資機構、擔保機構代表參加儀式。
+
+首批私募債的發行人分別為首創集團、石家莊交投集團、國泰租賃、無錫錫山金投、鴻仕達、駿創科技，涵蓋京津冀區域重點企業、山東省級國企、科創投資平臺、國家級專精特新“小巨人”、民營上市公司等，市場代表性突出。債券發行規模合計27.6億元，商業銀行、銀行理財、證券公司、信託機構等多種型別金融機構積極參與申購，4只債券票面利率創發行人公司債券利率新低，2只債券為發行人首次亮相債券市場。債券品種包含科創債、鄉村振興債以及“京津冀協同發展”“服務首都高質量發展”等貼標債券，具有良好的示範效應。
+
+推出私募債業務，是北交所豐富債券產品體系，服務多層次債券市場建設、促進提高直接融資比重的重要舉措，有利於進一步拓寬中小企業融資渠道，更好服務實體經濟和國家戰略。首批私募債掛牌，標誌著北交所債券市場建設邁上新臺階，股債聯動服務科技創新進入新階段，對於交易所債券市場擴大服務覆蓋面具有積極意義。
+
+下一步，北交所將在中國證監會的領導下，研究最佳化市場基礎制度，著力提升制度包容性適應性，深入推進主陣地建設。在債券市場建設方面，將著力加強債券產品和服務創新，推進債券回購、做市等功能建設，更好滿足市場需求；完善債券全鏈條監管制度機制，不斷提升監管和風險防控能力，推動市場在規範中發展、在發展中提升；強化股債協同服務，凝聚改革發展合力，更好服務實體經濟高質量發展。
+
+---
+
+### 2026-07-10 13:12:12  #MKT News
+
+【Beijing Stock Exchange lists first private-placement corporate bonds】July 10, 2026 — The Beijing Stock Exchange formally listed its first batch of non-public corporate bonds: six private-placement issues totaling CNY2.76 billion. Issuers included Shouchuang Group, Shijiazhuang Transport Investment Group, Guotai Leasing, Wuxi Xishan Jintou, Hongshida and Junchuang Technology, spanning Beijing–Tianjin–Hebei regional firms, a Shandong provincial SOE, a tech-investment platform, a national-level specialized “little giant” and a private listed company. Commercial banks, bank wealth-management products, securities firms and trust institutions were active buyers. Four issues priced at issuer-record low coupons and two were bond-market debuts. Offerings comprised sci‑tech innovation bonds, rural-revitalization bonds and labeled issues tied to Beijing–Tianjin–Hebei coordinated development and serving the capital’s high-quality development.
+
+---
+
+### 2026-07-10 13:10:56  #公司 #市場 #國際
+
+【印度Lux Industries公司因與銳步達成品牌授權協議而股價上漲】印度Lux Industries股價上漲6.2%，至1,298.20盧比，創下自2026年6月17日以來的最高水平。該股在連續三個交易日下跌後反彈。這家紡織服裝公司表示，其Vertical B業務部門已與RILUK IPCO簽署獨家品牌授權協議，獲准在印度使用銳步（Reebok）商標。
+
+---
+
+### 2026-07-10 13:09:39  #其他
+
+【河南全省首個低空經濟巡回法庭在鄭揭牌】“低空經濟”起飛，法治如何護航？7月9日，鄭州市上街區低空經濟巡回法庭揭牌執行。這是河南省首個專門面向低空經濟領域的巡回法庭。 據瞭解，新成立的低空經濟巡回法庭聚焦合同糾紛、智慧財產權侵權、勞動爭議等三類涉企糾紛，組建專業化審判團隊實行集中管轄、歸口審理，統一裁判尺度，提升辦案質效。法庭在鄭州國家通航示範區設立巡迴審判點，定期開展巡迴開庭、現場調解、以案釋法，讓企業“足不出園”即可享受訴前調解、立案諮詢、快速審判等全鏈條服務。同時，法庭建立“快立快審快執”綠色通道，對涉低空經濟案件優先受理、優先保全、優先執行，最大限度降低司法週期對企業經營的影響。（河南日報）
+
+---
+
+### 2026-07-10 13:08:51  #MKT News #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+A-share defense informatization sector rallied in the afternoon; Jiayuan Technology hit the daily limit, Xingtu Measurement & Control rose more than 14%, Tianwei Electronics rose more than 10%, and Guobo Electronics and Haige Communication rose more than 9%.
+
+---
+
+### 2026-07-10 13:07:34  #公司 #國際
+
+【鋁供應衝擊使長期停產的西方電解鋁廠重啟】伊朗戰爭引發的供應衝擊，正促使西方老舊的鋁冶煉廠重煥生機。在美國，Magnitude 7 Metals公司正在重啟位於密蘇里州的新馬德里電解鋁廠。大西洋彼岸，挪威生產商海德魯公司已宣佈部分重啟位於斯洛伐克的斯洛瓦爾科合資電解鋁廠。這兩家工廠已完全停產數年，是鋁價低迷以及2022年俄烏衝突後能源價格飆升的受害者。此次復產對華盛頓和布魯塞爾而言具有重大政治意義，雙方都迫切希望降低對這種廣泛應用於各工業領域的金屬的進口依賴。雖然這兩項舉措都不會對全球格局產生太大影響，但這些“殭屍電解鋁廠”的復產，卻顯示出自今年2月中東衝突爆發以來，鋁市場發生了巨大的變化。
+
+---
+
+### 2026-07-10 13:07:12
+
+【商業航天ETF午後拉漲，衛星ETF易方達、衛星ETF富國雙雙漲超8％，衛星ETF廣發、衛星ETF鵬華漲超7％；訊息面上，我國首次成功實施運載火箭一子級可控回收。】
+
+---
+
+### 2026-07-10 13:06:15  #公司
+
+【歷史一刻！中國重複使用火箭歷史性突破】今天，長征十號乙運載火箭在海南商業航天發射場發射升空，將衛星順利送入預定軌道，火箭一二級分離後，一子級垂直返回，在海上回收平臺透過網系捕獲方式成功回收，發射及一子級回收任務取得圓滿成功。此次任務是我國首次成功實施運載火箭一子級可控回收，同時也是全球首次運載火箭網系回收，標誌著我國在重複使用火箭技術領域取得歷史性突破，將為加快提升我國進出空間能力奠定堅實基礎。長征十號乙運載火箭成為我國首型成功實施回收的重複使用運載火箭。 長征十號乙運載火箭由中國航天科技集團有限公司所屬中國運載火箭技術研究院抓總研製，為5米直徑兩級串聯構型大型液體運載火箭，芯一級沿用長征十號甲運載火箭一子級狀態，採用液氧煤油推進劑，芯二級採用液氧甲烷推進劑，全箭起飛推力約890噸，起飛重量約760噸，首飛箭全箭長度約63米，重複使用狀態下近地軌道運載能力16噸，可滿足低軌衛星網際網路星座部署、大型商業衛星發射等各類任務需求，複用狀態下可大幅降低發射成本，具有大運力、高價效比的優勢。此次任務是繼長征十號系列運載火箭低空演示驗證飛行並在海上安全濺落後對重複使用火箭回收技術的進一步驗證。 本次首飛任務成功驗證了組合構型總體最佳化設計技術、大推力箱底傳力技術、甲烷自生增壓技術等核心關鍵技術，特別是成功驗證了基於隔板貯箱的推進劑管理技術、發動機多次啟動和高空點火、複雜力熱環境適應性、高精度導航控制、海上平臺網系捕獲回收等多項一子級重複使用關鍵核心技術。 後續，長征十號乙運載火箭研製團隊將持續最佳化火箭效能，加快重複使用火箭技術的迭代升級，預計將在今年年底前完成一子級火箭複用飛行。（央視）
+
+---
+
+### 2026-07-10 13:04:30  #市場 #焦點
+
+科創50日內跌幅達1.03%，成分股中，晶合整合跌12.91%，華潤微跌9.03%，芯聯整合跌5.99%，芯原股份跌5.64%。
+
+---
+
+### 2026-07-10 13:04:07  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+Commercial aerospace ETFs jumped in afternoon trade: satellite ETFs from E Fund and Fullgoal rose over 8%, while GF Fund and Penghua satellite ETFs gained more than 7%, after reports that China completed its first controlled recovery of a carrier-rocket stage.
+
+---
+
+### 2026-07-10 13:04:05  #公司
+
+【兆易創新A股成交額超400億元】7月10日下午，兆易創新A股成交額超400億元，現跌0.86%。
+
+---
+
+### 2026-07-10 13:03:18  #公司
+
+【星宇股份與金髮科技加速創新材料戰略合作】7月10日，星宇股份與金髮科技創新材料戰略合作簽約儀式在上海圓滿舉行。本次戰略合作，雙方將聚焦機器人專用新材料開展聯合研發與最佳化應用。透過資源共享、技術互補，進一步夯實產品效能、縮短技術落地週期，助力雙方在機器人賽道持續提升核心競爭力。
+
+---
+
+### 2026-07-10 13:02:22  #Trading Economics #Markets #Commodity #Importance 1
+
+Palm Oil Falls Further, Eyes First Weekly Rise in Three Weeks — Malaysian palm oil futures extended their decline, slipping below MYR 4,600 per tonne amid a stronger ringgit and weaker edible oils on the Dalian Exchange. Fresh data from the Malaysian Palm Oil Board showed June inventories rose to a four-month high of 4.8% from May, while production climbed 8.1% on stronger seasonal output. Production has accelerated further as mills in Perak struggle to process an influx of fresh fruit bunches. On the demand side, India's palm oil imports fell to a 14-month low in June due to sluggish consumption and a narrowing price discount over competing edible oils. Still, contracts remain on track for their first weekly gain in three, driven by the B50 mandate in top supplier Indonesia, which is expected to spur consumption to 16.3–17.0 million metric tons this year from 15.2 million previously. Meanwhile, cargo surveyors noted palm oil exports during July 1–5 rose 10.6%–11.1% from the same period in June, with traders awaiting full ten-day shipment data.
+
+---
+
+### 2026-07-10 13:02:11  #MKT News #Important #CSI300 #Impact bullish #SSE Composite
+
+China A-share commercial space sector rallied in the afternoon after state media reported a Long March-10B booster was successfully recovered on an offshore platform — the first controlled sea recovery of a carrier-rocket first stage in China. Hailanxin hit a 20% daily limit, Chaojie jumped over 14% in a straight-line move, and Tianli Composite, Feiwo Technology, Xingtú Measurement & Control and Chuangyuan Xinke also advanced.
+
+---
+
+### 2026-07-10 13:01:32  #市場
+
+【商業航天板塊午後拉昇，海蘭信20cm漲停】商業航天板塊午後拉昇，海蘭信20cm漲停，佳緣科技、信科移動、電科藍天、星圖測控多股直線拉昇。訊息面上，長征十號乙運載火箭成功實現一子級可控回收。
+
+---
+
+### 2026-07-10 13:01:30  #市場 #焦點
+
+北證50日內漲幅達2.06%，成分股中，天力複合漲23.24%，星圖測控漲15.95%，富士達漲9.72%，XD連城數漲8.10%。
+
+---
+
+### 2026-07-10 13:01:29  #市場
+
+截止13:01，兩市104只個股漲停。
+
+---
+
+### 2026-07-10 13:01:09  #MKT News #Market Regions #Japan & APAC #Macro & Rates #Treasury Yields #USDJPY #Impact bearish
+
+【Allianz chief economist: If Japan shifts its portfolio, cuts to overseas assets would become a global market focus】Allianz chief adviser Mohamed El-Erian said Japan's finance minister Katayama identified as a priority encouraging households and pensions, including the Government Pension Investment Fund (GPIF), to raise allocations to Japanese financial assets. Katayama's comments pushed the 10-year JGB yield down about 9bps and the yen up roughly 0.5% in Tokyo trade. If this marks a reorientation of Japan's large portfolio—still a significant uncertainty—the immediate market question is which overseas holdings would be pared first.
+
+---
+
+### 2026-07-10 13:01:04  #市場 #焦點
+
+【A股應急產業板塊異動拉昇】恆久退、華勝天成觸及漲停，烽火電子、中科星圖、中國衛通、佳訊飛鴻、萊斯資訊跟漲。
+
+---
+
+### 2026-07-10 13:01:04  #市場 #焦點
+
+【A股時空大資料板塊異動拉昇】華勝天成、中通國脈觸及漲停，華是科技、縱橫股份、海格通訊、吉視傳媒、天億馬跟漲。
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股軍工資訊化板塊異動拉昇】佳緣科技、恆久退、鋮昌科技、星網宇達觸及漲停，海蘭信、星圖測控、創遠信科跟漲。
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股火箭回收板塊異動拉昇】巨力索具觸及漲停，海蘭信、超捷股份、斯瑞新材、航天電器、中航機載跟漲。
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股國防軍工板塊異動拉昇】中船防務、鋮昌科技、高德紅外、星網宇達觸及漲停，海蘭信、西測測試、天微電子跟漲。
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股軍工電子Ⅲ板塊異動拉昇】鋮昌科技、高德紅外觸及漲停，西測測試、天微電子、霍萊沃、陝西華達、航天發展跟漲。
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股SpaceX概念板塊異動拉昇】晉拓股份觸及漲停，超捷股份、雙良節能、東方日升、西部材料、通宇通訊、派克新材跟漲。
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股軍工電子Ⅱ板塊異動拉昇】鋮昌科技、高德紅外觸及漲停，西測測試、天微電子、霍萊沃、陝西華達、航天發展跟漲。
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股軍民融合板塊異動拉昇】佳緣科技、華勝天成、神劍股份、航天工程、旭光電子、潤建股份、鋮昌科技觸及漲停
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股低空經濟板塊異動拉昇】神劍股份、華建集團、旭光電子、潤建股份、中鼎股份、學大教育、金帝股份觸及漲停
+
+---
+
+### 2026-07-10 13:01:03  #市場 #焦點
+
+【A股軍工央企板塊異動拉昇】航天工程、中船防務觸及漲停，航天動力、航天發展、航天晨光、中天火箭、航天電子跟漲。
+
+---
+
+### 2026-07-10 13:01:02  #市場 #焦點
+
+【A股中國電科集團板塊異動拉昇】電科藍天漲9.89%，普天科技、國博電子、萊斯資訊、天奧電子、東方通訊、太極股份跟漲。
+
+---
+
+### 2026-07-10 13:01:02  #市場 #焦點
+
+【A股其他通用裝置板塊異動拉昇】金沃股份漲13.72%，鮑斯股份、鉑力特、鑫磊股份、航天動力、濰柴重機、上海滬工跟漲。
+
+---
+
+### 2026-07-10 13:01:02  #市場 #焦點
+
+【A股超寬頻（UWB）板塊異動拉昇】超訊科技觸及漲停，天銀機電、雷科防務、智明達、合眾思壯、梅安森、中海達跟漲。
+
+---
+
+### 2026-07-10 13:01:02  #市場 #焦點
+
+【A股太空算力板塊異動拉昇】天銀機電漲10.65%，陝西華達、乾照光電、順灝股份、航天電子、航天智裝、上海滬工跟漲。
+
+---
+
+### 2026-07-10 13:01:02  #市場 #焦點
+
+【A股風電裝置板塊異動拉昇】泰勝風能漲13.63%，電氣風電、飛沃科技、金風科技、廣大特材、中船科技、宏德股份跟漲。
+
+---
+
+### 2026-07-10 13:01:02  #市場 #焦點
+
+【A股飛行汽車板塊異動拉昇】星網宇達觸及漲停，藍海華騰、超捷股份、鉑力特、廣聯航空、瑞瑪精密、雅創電子跟漲。
 
 ---
 
@@ -21601,389 +21967,5 @@ Indonesia Motorbike Sales Rise 1.1% in June — Motorbike sales in Indonesia cli
 ### 2026-07-09 08:45:53  #Trading Economics #Markets #Australia #Stock Market #Importance 1
 
 Australian Stocks Slip for Fourth Session — Australian shares dipped 73 points or 0.8% to 8,711 in early deals on Thursday, sliding for the fourth straight session amid weakness in most sectors, notably non-energy minerals, healthcare, process industries, and financials. Nerves persisted ahead of June CPI and PPI data in main trading partner China later in the day. Locally, Reserve Bank Assistant Governor Sarah Hunter warned that if inflation expectations rise, restoring stability may require “some period of low inflation and higher unemployment.” Still, losses were capped by U.S. stock futures that edged higher following a mixed session on Wall Street overnight as geopolitical tensions and rising oil prices weighed on sentiment. The four big banks lost between 0.8% and 1.4% while other notable decliners included heavyweight BHP Group (-1.6%), Pro Medicus (-2.7%), Wisetech Global (-2.1%), and Sonic Healthcare (-1.8%). In contrast, energy names gained, such as Woodside Energy (1.2%) and Santos (0.9%).
-
----
-
-### 2026-07-09 08:45:47  #其他
-
-科威特陸軍參謀部：科威特防空系統目前正在攔截敵方的導彈及無人機攻擊。聽到的任何爆炸聲均源自防空系統攔截了敵方攻擊。
-
----
-
-### 2026-07-09 08:45:36  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Kuwait Army General Staff: Kuwait’s air defense systems are currently intercepting enemy missile and drone attacks. Any explosions heard are the result of those interceptions.
-
----
-
-### 2026-07-09 08:45:10  #市場 #國際
-
-【上半年韓國農林畜水產品及食品價格兩位數上漲】韓國國家資料處7月9日釋出的消費者物價統計顯示，今年上半年黃花魚價格同比上漲16.9%，漲幅居主要農林畜水產品前列。分析認為，國際油價上漲推高了韓國漁船的燃油成本，部分漁船因此減少出海或暫停作業，導致國產黃花魚供應減少，價格隨之走高。與此同時，大米、人參和土豆價格同比分別上漲15.1%、14.6%和10.5%。進口芒果價格上漲13.1%，主要原因是異常天氣導致產量下降，加之韓元貶值推高了進口成本。不過，部分蔬菜價格明顯回落，胡蘿蔔、捲心菜、白蘿蔔、韭菜、梨、洋蔥和白菜價格同比分別下降37.8%、35%、33.7%、21.4%、20.9%、19.8%和18.5%。高油價和高匯率不僅推高了農產品價格，也帶動加工食品和餐飲價格上漲。加工食品中，鱈魚乾價格同比上漲15.1%，漲幅居首；韓式辣椒醬、醃海產品和醃蘿蔔價格分別上漲12.1%、10.5%和10.4%，大醬和醬油的漲幅也均超過8%。業內分析認為，進口原材料價格上漲、能源成本增加以及塑膠包裝成本上升，是加工食品漲價的主要原因。
-
----
-
-### 2026-07-09 08:44:11  #MKT News
-
-Alarms were sounded in Kuwait, Kuwaiti state media reported.
-
----
-
-### 2026-07-09 08:43:49  #國際
-
-【伊朗東北部鐵路橋遭襲】伊朗媒體9日報道，伊朗東北部戈爾甘-因切博倫鐵路線上的阿格泰凱橋遭美軍襲擊，暫無人員傷亡報告。報道說，救援力量和相關機構已抵達現場。襲擊造成的人員傷亡、設施損毀等具體細節，伊朗官方暫未公佈，調查仍在進行中。(新華社)
-
----
-
-### 2026-07-09 08:43:39  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bullish
-
-Japan's Nikkei 225 gained as much as 2.00% intraday.
-
----
-
-### 2026-07-09 08:42:21  #MKT News
-
-Sources: Mobile users in Qatar received an alert cancellation notification reading "threat eliminated".
-
----
-
-### 2026-07-09 08:42:10  #其他
-
-目擊者稱，卡達已向手機使用者傳送“解除警報”簡訊，稱威脅已消除。
-
----
-
-### 2026-07-09 08:41:57  #其他
-
-鄭州市氣象臺2026年7月9日6時4分繼續釋出高溫橙色預警訊號：預計今天12時至17時，鄭州市主城區、上街區、航空港區所轄鄉鎮及街道最高氣溫將升至37℃以上，請注意防範高溫天氣帶來的不利影響。
-
----
-
-### 2026-07-09 08:41:38  #MKT News #USDJPY #Impact bearish #DXY
-
-Japan 30-year bond yield rose 2bps to 4.020%.
-
----
-
-### 2026-07-09 08:41:10  #國際
-
-【巴林拉響防空警報】巴林內政部9日說，巴林拉響防空警報。 此前，美軍對伊朗軍事設施發動打擊後，伊朗方面很快會對位於巴林等海灣國家的美軍設施發動報復性打擊。（新華社）
-
----
-
-### 2026-07-09 08:40:58  #市場 #國際
-
-20年期日本國債收益率上漲1.0個基點，至3.880%。日本30年期國債收益率上升2.0個基點，至4.020%。
-
----
-
-### 2026-07-09 08:40:18  #MKT News #WTI #Impact bullish #DXY #XAUUSD
-
-【Bahrain raises air‑defense alert】Bahrain’s Interior Ministry said on the 9th it raised an air‑defense alert. The move follows a US strike on Iranian military facilities; Iran said it would soon carry out retaliatory strikes on US military facilities in Bahrain and other Gulf states.
-
----
-
-### 2026-07-09 08:37:40  #其他
-
-【商務部等9部門：鼓勵零售經營主體穩定員工隊伍，更多采用勞動合同制用工，改善員工福利】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，強化人力支撐。鼓勵零售經營主體穩定員工隊伍，更多采用勞動合同制用工，改善員工福利，吸納困難群體就業。加強靈活就業和新就業形態勞動者權益保障，對零售經營主體符合實行特殊工時制度的崗位，加快審批流程。完善零售人才培養體系，支援零售經營主體與院校、商協會合作，培養複合型、技能型人才，並納入各地急需、緊缺人才目錄。支援將符合條件的零售從業人員納入各地人才引進政策範圍。
-
----
-
-### 2026-07-09 08:36:31  #公司
-
-【託倫斯精密製造（江蘇）股份有限公司將於2026年7月10日在深交所上市】託倫斯精密製造（江蘇）股份有限公司人民幣普通股股票將於2026年7月10日在本所上市。證券簡稱為“託倫斯”，證券程式碼為“301583”。公司人民幣普通股股份總數為1.85億股，其中3083.14萬股股票自上市之日起開始上市交易。
-
----
-
-### 2026-07-09 08:36:00  #MKT News
-
-Shenzhen Stock Exchange added Puyuan Jingdian and Dingtai Gaoke to the Shenzhen–Hong Kong Stock Connect eligible securities list, effective July 9.
-
----
-
-### 2026-07-09 08:35:58  #其他
-
-深交所港股通標的證券名單調入普源精電、鼎泰高科，7月9日起生效。
-
----
-
-### 2026-07-09 08:35:44  #其他
-
-【商務部等9部門：推動平臺經營者依法向監管部門開放演算法必要資料，促進演算法推薦、流量分配公平透明】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，促進公平競爭。落實《中華人民共和國反不正當競爭法》，線上線下零售一視同仁。推動平臺經營者遵循合法、公平、誠信原則合理收費，降低平臺內經營者成本。強化平臺領域經營者集中反壟斷審查，維護公平競爭秩序。推動平臺經營者依法向監管部門開放演算法必要資料，促進演算法推薦、流量分配公平透明。推動平臺經營者建立多元化演算法推薦指標體系，不得僅以商品價格作為演算法推薦核心引數。鼓勵同品同款商品線上線下“同標同質”。
-
----
-
-### 2026-07-09 08:34:49  #其他
-
-目擊者稱，卡達手機收到安全威脅升級警告。
-
----
-
-### 2026-07-09 08:34:29  #其他
-
-【商務部等9部門：支援大型零售經營主體以自建渠道、合作、併購等方式“走出去”】商務部等9部門印發關於加快零售業創新發展的意見，其中提出，鼓勵零售經營主體從商品經營轉向多業態綜合運營，強化消費者服務體驗，改變收通道費等傳統經營方式，發展深度聯營、自採自營、批零兼營、製造型零售，創新全渠道零售、即時零售、“線上引流+線下成交”等模式。鼓勵中小零售經營主體聯盟合作、自願連鎖，聯合研發、採購。支援大型零售經營主體以自建渠道、合作、併購等方式“走出去”。
-
----
-
-### 2026-07-09 08:34:11  #公司
-
-倩碧控股有限公司在香港暫停交易。
-
----
-
-### 2026-07-09 08:34:02  #MKT News
-
-Qatar's Interior Ministry says security threat level is elevated and urges people to remain at home or in secure locations.
-
----
-
-### 2026-07-09 08:32:41  #MKT News #CSI300 #Impact bullish #Hang Seng Index
-
-【MOFCOM, eight ministries back listings for eligible new high-quality retail firms】MOFCOM and eight other ministries issued guidance to accelerate retail-sector innovation and provide financing support. Key measures: back IPOs for eligible new, high-quality retail firms; permit qualified retail operators to issue asset-backed securities (ABS) and commercial REITs; encourage financial institutions to offer retail-tailored industry credit policies; extend service-sector loan interest-subsidy schemes to eligible retail borrowers. The guidance also supports eligible department stores, shopping centers, community retail and wet-market projects issuing infrastructure REITs, and calls for increased financing for energy-saving, decarbonization and digital upgrades of facilities and equipment, subject to legal compliance and controllable risk.
-
----
-
-### 2026-07-09 08:32:40  #觀點 #國際
-
-【銀河證券：沙特原油碼頭恢復作業，歐對美天然氣進口下降】中信建投研報表示，沙特重要原油碼頭恢復作業。沙特阿美拉斯塔努拉原油碼頭於6月26日恢復裝載作業，該港自3月初起受地緣衝突及霍爾木茲海峽通行受限影響停擺，原油此前只能繞道紅海延布港外運。歐盟對美液化天然氣進口降至兩年來最低水平。因歐洲基準TTF價格為每百萬英熱單位13.19美元，低於亞洲基準17.33美元，美國LNG大量轉向亞洲及埃及市場。據LSEG資料，6月歐洲買家進口美國LNG不足此前一半；而歐盟去年7月已與美國簽署貿易協議，承諾三年內採購7500億美元美國能源商品。與此同時歐盟天然氣庫存跌至15年來冬季最低水平，中東局勢與卡達供應中斷加劇短缺，歐洲買家卻因擔憂過度依賴單一供應商而回避長期協議。有智庫預測歐盟液化天然氣進口對美依賴度未來將升至80%，高於去年的58%。
-
----
-
-### 2026-07-09 08:31:58  #公司 #市場 #國際
-
-【韓國股市KOSPI指數上漲 晶片製造商SK海力士和三星電子反彈】韓國股市KOSPI指數上漲高達4.1%，收窄本週跌幅，晶片製造商股價反彈，儘管美伊緊張局勢再度升級且油價上漲。SK海力士和三星電子分別上漲9.2%和5.1%，成為指數上漲最大推動力。“人工智慧AI投資的理念正在實時演變，”中信里昂證券韓國的分析師Jongmin Shim表示，“鑑於當前AI部署週期仍處於早期階段，加上未來十年物理AI和人形機器人相關需求的預期，我們認為半導體需求在可預見的未來不太可能出現顯著的結構性放緩。”
-
----
-
-### 2026-07-09 08:31:56  #MKT News #Important
-
-Bahrain's Interior Ministry says an alarm has been sounded and urges citizens and residents to remain calm and move to the nearest safe location.
-
----
-
-### 2026-07-09 08:31:32  #其他
-
-巴林內政部：巴林響起警報。
-
----
-
-### 2026-07-09 08:31:21  #其他
-
-【商務部等9部門：依法依規整治零售領域網路虛假資訊】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，完善法治市場。健全規範涉企執法長效機制，糾治零售領域涉企“亂收費、亂罰款、亂檢查、亂查封”及違規異地執法、趨利性執法等問題。規制惡意索賠，依法嚴厲打擊騙取賠償、敲詐勒索行為，維護市場秩序。依法依規整治零售領域網路虛假資訊。加強零售環節食品安全管理。落實《商務領域經營者使用、報告一次性塑膠製品管理辦法》，推廣綠色替代產品，促進使用減量。
-
----
-
-### 2026-07-09 08:30:28  #宏觀
-
-【商務部等9部門：支援符合條件的新型優質零售企業上市】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，提供融資支援。支援符合條件的新型優質零售企業上市。支援符合條件的零售經營主體發行資產支援型證券和商業不動產投資信託基金。支援金融機構出臺適合零售業特點的行業授信政策。推動符合條件的零售經營主體享受服務業經營主體貸款貼息政策。支援符合條件的百貨商場、購物中心、社群商業、農貿市場等消費基礎設施專案發行基礎設施領域不動產投資信託基金。在依法合規、風險可控前提下，加大對設施裝置節能降碳和數字化改造的金融支援。
-
----
-
-### 2026-07-09 08:29:49  #Trading Economics #Economy #South Korea #Government Bond Korea #Importance 1
-
-South Korea 10Y Bond Yield Hits 4-week High — South Korea 10 Year Government Bond Yield increased to 4.29%, the highest since June 2026. Over the past 4 weeks, South Korea 10Y Bond Yield lost 2.30 basis points, and in the last 12 months, it increased 138.90 basis points.
-
----
-
-### 2026-07-09 08:29:30  #其他
-
-【商務部等9部門：禁止對連鎖零售企業跨區域經營設定註冊獨立法人、最低投資規模等准入壁壘】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，減輕企業負擔。落實統一大市場建設要求，禁止對連鎖零售企業跨區域經營設定註冊獨立法人、最低投資規模等准入壁壘。支援零售企業參與綠證綠電交易。對符合條件的零售企業，按規定落實穩崗促就業相關政策。
-
----
-
-### 2026-07-09 08:29:10  #MKT News #Market Regions #Greater China #CNH
-
-【MOFCOM and eight ministries push digital RMB for consumer voucher issuance and settlement】MOFCOM and eight ministries issued guidance to accelerate retail-sector innovation, including promoting use of the digital RMB for consumer voucher issuance and settlement. The guidance calls for leveraging digital RMB smart contracts to enable more efficient circulation and precise, rapid delivery of subsidy funds. It backs full-chain digitization of retail operators—procurement, inventory, logistics and online-offline integration—and encourages platforms and third‑party tech vendors to provide digital management systems and shared resources to small and medium retailers. The document also promotes AI+ applications such as intelligent shopping assistance, low-altitude delivery and unmanned vending.
-
----
-
-### 2026-07-09 08:28:53  #MKT News
-
-CENC reported a magnitude 4.8 earthquake at 07:44 on July 9 (Beijing time) in Gaoxian County, Yibin, Sichuan. Epicenter 28.51°N, 104.68°E; focal depth 6 km.
-
----
-
-### 2026-07-09 08:28:20  #其他
-
-【商務部等9部門：支援品牌商構建合理價格體系，透過完善定價策略縮小線上線下價差】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，加強價格治理。支援品牌商構建合理價格體系，透過完善定價策略縮小線上線下價差。落實《網際網路平臺價格行為規則》《網路交易平臺規則監督管理辦法》，引導平臺經營者自覺規範價格和補貼行為。重點整治虛假宣傳、虛假促銷、虛假打折和不公平定價行為。推動落實明碼標價，公示促銷活動規則、期限、適用範圍，禁止平臺經營者強制或變相強制商戶承擔補貼、參與促銷活動，向商戶轉嫁促銷成本，以及“0元購”等行為。
-
----
-
-### 2026-07-09 08:27:20  #市場
-
-【商務部等9部門：推廣“人工智慧+”，拓展智慧導購、低空配送、無人售貨等場景】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，提升數智化能力。支援零售經營主體數字化改造，實現進銷存、物流配送等全鏈條數字化，打通線上線下渠道、商品、服務和資料。鼓勵平臺對中小零售經營主體技術賦能，資源共享。支援第三方科技企業開發面向中小零售經營主體的數字化管理系統，提供綜合解決方案。推廣“人工智慧+”，拓展智慧導購、低空配送、無人售貨等場景。推動消費券發放、結算等環節使用數字人民幣，依託數字人民幣智慧合約實現補貼資金高效週轉、精準直達。
-
----
-
-### 2026-07-09 08:26:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-U.S. officials told Axios the U.S. military struck Iranian infrastructure for the first time since the April 8 ceasefire, targeting two railway bridges.
-
----
-
-### 2026-07-09 08:26:28  #其他
-
-【注意防禦！西江洪峰正入境廣東】西江洪峰正在入境廣東。廣東省水文局釋出通報稱，7月8日23時45分，西江封開江口站（肇慶市封開縣）出現19.96米的洪峰水位，超警戒2.16米。目前水位緩慢回落，請相關部門和沿河民眾繼續做好退水期間的洪水防禦工作。
-
----
-
-### 2026-07-09 08:24:14  #其他
-
-【全國首個海陸一體柔直工程換流站啟運】記者從南方電網瞭解到，我國首個海陸一體海上風電柔直輸電工程迎來關鍵節點，工程核心樞紐——海上換流站開始發運，預計一週後到達廣東陽江。在江蘇南通振華碼頭，陽江三山島海上風電專案的海上換流站正式裝船出發，船隊將航行近1000海里，抵達廣東陽江深海作業區完成海上就位安裝。這座海上換流站體量龐大，整體高度43米，相當於15層樓高，單層平臺面積接近一個標準足球場。（央視）
-
----
-
-### 2026-07-09 08:22:53  #MKT News #Important #Market Regions #Emerging Markets #000660.KS #Impact bullish
-
-South Korea's KOSPI index rose 4.0% intraday; SK Hynix extended gains to 9%.
-
----
-
-### 2026-07-09 08:22:31  #市場 #焦點 #國際
-
-韓國綜合股價指數上漲4%，至7538.26。SK海力士漲超9%，三星電子漲超4%。
-
----
-
-### 2026-07-09 08:20:34  #公司 #國際
-
-【特朗普從土耳其返回美國途中在英國停留並更換“空軍一號”專機】美國總統唐納德·特朗普從土耳其返回美國途中，在英國一處軍事基地更換“空軍一號”專機，使這趟返程之旅出現了一次特殊的中途轉換。特朗普此前乘坐一架由卡達贈送的波音公司747-8型新“空軍一號”專機前往土耳其安卡拉參加北約峰會。不過，在特朗普離開土耳其之前，這架飛機已被提前調往英國米爾登霍爾空軍基地。隨後，特朗普乘坐較舊版本的“空軍一號”從安卡拉飛往英國。抵達米爾登霍爾後，特朗普下機，短暫會見駐紮當地的美國軍人，隨後穿過停機坪，登上這架由卡達贈送的新專機，繼續飛往華盛頓。週三稍早，特朗普透過社交媒體首次披露相關安排，稱之所以提前將新飛機調往米爾登霍爾，是為了向駐當地基地的美軍官兵展示這架飛機。
-
----
-
-### 2026-07-09 08:20:00  #市場 #國際
-
-日本晶片和其他電子股領漲市場，鎧俠上漲8%，愛德萬測試上漲4.9%，村田製作所上漲4.5%。
-
----
-
-### 2026-07-09 08:18:05  #國際
-
-【特朗普稱駐歐美軍人數將取決於格陵蘭和伊朗問題】美國總統唐納德·特朗普表示，美國在歐洲的駐軍人數將取決於盟友如何解決他對格陵蘭和伊朗戰爭的關切。此番言論可能會加劇北約成員國對他是否致力於集體安全的擔憂。特朗普在土耳其安卡拉參加完北約峰會，在返回華盛頓的空軍一號上告訴記者：“我還沒有做出最終決定。”“很多事情都取決於格陵蘭，”特朗普補充說，暗示他可能會就這個島嶼達成“非常好的協議”。“很多事情也取決於伊朗。”他說。
-
----
-
-### 2026-07-09 08:18:04  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Al Arabiya reported Iran's Islamic Revolutionary Guard Corps (IRGC) said it will respond to an attack on a bridge in northern Agala.
-
----
-
-### 2026-07-09 08:17:11  #市場
-
-納斯達克指數期貨收復早盤失地，上漲0.3%，標普500指數期貨持平。
-
----
-
-### 2026-07-09 08:17:03  #市場 #國際
-
-韓國綜合股價指數上漲3.9%，SK海力士股價上漲超過9%。
-
----
-
-### 2026-07-09 08:16:54  #市場 #國際
-
-日本日經平均指數擴大漲幅，最新上漲2.0%，報68,155.31點。
-
----
-
-### 2026-07-09 08:16:16  #市場 #國際
-
-日本東證股價指數上漲0.5%，報4027.42點。
-
----
-
-### 2026-07-09 08:15:59  #市場 #國際
-
-歐洲斯托克50指數期貨反彈0.9%，德國DAX指數期貨上漲0.6%，富時指數期貨上揚0.2%。
-
----
-
-### 2026-07-09 08:15:49  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Futures Steady Amid Iran Strikes — US stock futures stabilized on Thursday as investors assessed the impact of escalating tensions in the Middle East after the US military confirmed it had carried out strikes on Iran for a second straight day. Markets remain concerned that higher energy prices could reignite inflationary pressures and prompt the Federal Reserve to raise interest rates sooner than previously expected. In regular trading on Wednesday, the Dow and S&P 500 fell 1.09% and 0.28%, respectively, while the Nasdaq Composite edged up 0.2%. Materials, financials, and real estate were the weakest-performing sectors, whereas energy and technology stocks posted gains. Investors are now awaiting the latest weekly jobless claims and existing home sales figures for fresh clues on the interest rate outlook. Earnings reports from PepsiCo, Progressive, Cintas, and other major companies are also due.
-
----
-
-### 2026-07-09 08:15:44  #公司
-
-【早間公告：貝達藥業恩沙替尼術後輔助治療臨床研究成果在《新英格蘭醫學雜誌》發表】①探路者：向特定物件發行股票申請獲得深圳證券交易所上市稽核中心稽核透過。②金埔園林：向特定物件發行股票申請獲得深圳證券交易所上市稽核中心稽核透過。③貝達藥業：鹽酸恩沙替尼膠囊（商品名：貝美納®）術後輔助治療IBIIIB（T3N2M0）期間變性淋巴瘤激酶（ALK）陽性非小細胞肺癌（NSCLC）研究在《新英格蘭醫學雜誌》上線上全文發表。
-
----
-
-### 2026-07-09 08:15:09  #其他
-
-【航行警告！北部灣實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，7月9日至11日，北部灣部分海域進行實彈射擊，禁止駛入。
-
----
-
-### 2026-07-09 08:15:04  #公司
-
-【長鑫科技披露招股意向書，預計7月16日發行】7月9日凌晨，長鑫科技公佈科創板IPO招股意向書，預計發行日期為7月16日。據披露，公司本次擬初始公開發行股票66.88億股，發行股份佔公司發行後總股本的比例約為10.00%（超額配售選擇權行使前）；發行初始戰略配售發行數量為33.44億股，佔初始發行數量的50.00%。
-
----
-
-### 2026-07-09 08:14:56  #公司 #市場 #國際
-
-【資料中心建設熱潮提振航空貨運需求】人工智慧(AI)基礎設施建設所需的笨重伺服器機架和薄如晶圓的半導體，正佔據著貨機上的艙位，而此前這些空間主要用於運輸低價服裝和各類小商品包裹。為推動全美資料中心的快速建設，企業正支付高昂運費從亞洲空運物資，而不是等待速度較慢、價格較低的海運。這種需求正在推高航空貨運量，與此同時，美國更高的關稅正侵蝕著廉價電商包裹市場，這些包裹在過去幾年裡曾充斥著貨運網路。“航空貨運市場似乎在逆勢上揚，”物流分析公司Xeneta的首席航空貨運官Niall van de Wouw說，“目前最大的增長引擎是與AI相關的一切。”國際航空運輸協會(International Air Transport Association)的資料顯示，5月份從亞洲到北美的航空貨運量較上年同期增長近20%。全球貨運量整體增長6%。美國商務部的資料顯示，5月份美國商品進口額增至3,170億美元，較上年同期增長15%，這是因為美國進口了更多半導體和計算機配件等與AI建設相關的商品。“關鍵的驅動因素是各方正爭分奪秒地推動新算力上線，”貨運代理公司Kuehne + Nagel International的雲基礎設施和半導體戰略全球主管羅.夏爾馬(Ro Sharma)說。由於需求增加，加之伊朗戰爭導致航空燃油價格走高，在通常是航空貨運淡季的時期，運費卻出現了上漲。Xeneta的資料顯示，6月份從亞太地區到北美的航空貨運平均即期運費較上年同期攀升36%。
-
----
-
-### 2026-07-09 08:14:55  #MKT News #XAUUSD #Impact bullish #Brent
-
-【Iran says US shells struck northern railway bridge】Iran says a railway bridge west of Aghala in Golestan province was struck by multiple US artillery shells in the early hours of the 9th, local time, and several explosions were reported.
-
----
-
-### 2026-07-09 08:14:14  #國際
-
-【伊朗稱北部一鐵路橋遭美軍炮彈襲擊】總檯記者當地時間9日獲悉，伊朗北部戈勒斯坦省阿加拉市以西的一座鐵路橋當天凌晨被數枚美軍炮彈擊中，當地傳出多次爆炸聲。（央視）
-
----
-
-### 2026-07-09 08:12:08  #MKT News #XAUUSD #Impact bullish #WTI #Brent
-
-According to Axios, U.S. officials said the U.S. Air Force bombed two railway bridges in Iran in strikes on Wednesday.
-
----
-
-### 2026-07-09 08:11:46  #MKT News #Star Stocks #Xiaomi
-
-【Lei Jun on Xiaomi Auto's 'Pengcheng' series positioning】On July 9 Xiaomi unveiled its second vehicle series, SkyNomad (Pengcheng). Lei Jun said the SU7/YU7 line is a "driver's car," while the Pengcheng series is an "intelligent, configurable large-cabin SUV."
-
----
-
-### 2026-07-09 08:11:33  #公司
-
-【國家計算機病毒應急處理中心檢測發現72款違法違規收集使用個人資訊的移動應用】7月9日，國家網路安全通報中心釋出通報：根據中央網信辦、工業和資訊化部、公安部聯合釋出的《關於開展2026年個人資訊保護系列專項行動的公告》，依據《網路安全法》《個人資訊保護法》《網路資料安全管理條例》《App違法違規收集使用個人資訊行為認定方法》等法律法規和有關規定，經國家計算機病毒應急處理中心檢測，72款移動應用存在一項或者多項違法違規收集使用個人資訊情況。
-
----
-
-### 2026-07-09 08:11:19  #市場 #國際
-
-2年期日本國債收益率上升1.0個基點，至1.440%。5年期日本國債收益率升至1.995%。
-
----
-
-### 2026-07-09 08:10:20  #MKT News
-
-Australia's S&P/ASX 200 opened down 75.30 points (-0.86%) at 8,709.80 on July 9 (Thursday).
-
----
-
-### 2026-07-09 08:10:17  #國際
-
-印度航空成立臨時管理委員會。
-
----
-
-### 2026-07-09 08:09:54  #市場
-
-鎧俠股價上漲8%。
-
----
-
-### 2026-07-09 08:09:21  #MKT News #Commodities #Precious Metals #Market Regions #Europe & UK #XAUUSD
-
-Venezuela's interim president Rodriguez has written to the UK government requesting the release of Venezuela's gold reserves frozen at the Bank of England.
 
 ---
