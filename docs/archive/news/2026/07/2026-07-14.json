@@ -1,7 +1,91 @@
 {
   "date": "2026-07-14",
-  "count": 1762,
+  "count": 1770,
   "items": [
+    {
+      "id": "4986297",
+      "time": "2026-07-14 14:55:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓集團：已制定相關計劃以確保運營可安全持續開展。"
+    },
+    {
+      "id": "te:markets:566709",
+      "time": "2026-07-14 14:54:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Ends Muted, China GDP in Focus — The ASX 200 closed flat at 8,808 on Tuesday, marking a second subdued session as traders tracked escalating tensions in the Middle East. The U.S. launched a third night of strikes against Iran, while two tankers were hit in the Strait of Hormuz after Washington reinstated its blockade of Iranian shipping. Domestic data showed Australia's consumer sentiment rebounded in July but remained among the weakest readings in the survey’s 50-year history, underscoring vulnerability to global shocks. Business confidence, however, climbed to a four-month high in June. In main trading partner China, record June trade figures set the stage for Q2 GDP due Wednesday. Logistics, tech, and utilities slipped, offset by gains in energy, consumer services, and healthcare. Rio Tinto eased 0.3% ahead of production results, and the big four banks fell 0.9–1.5%. Nextdc, Pro Medicus, and Qantas also declined. On the upside, BHP rose 0.9%, along with Woodside (3.3%) and Santos (1.3%)."
+    },
+    {
+      "id": "4986296",
+      "time": "2026-07-14 14:54:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "必和必拓集團：勞資談判未達預期，工會已決定按原計劃於週四發起工業行動。"
+    },
+    {
+      "id": "mkt:019f5f67-d8e3-7aab-8d72-cc6937d0ee4e",
+      "time": "2026-07-14 14:54:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【JP Morgan: Tencent remains China internet’s highest-quality compounding growth stock, reiterates Overweight】JP Morgan reiterates Overweight on Tencent Holdings (00700.HK) and keeps its HKD690 target. The bank says Tencent’s durable user engagement, improving game and advertising monetisation, strong margins and balance sheet, and AI monetisation optionality make it the highest-quality compounding growth play in China’s internet sector. JP Morgan expects AI-related depreciation to begin in H2, and has cut its FY26 Non-IFRS EPS forecast by 5% to 28.47 yuan while raising FY26 capex to 200 bln yuan; the firm stresses these changes reflect heavier AI investment and depreciation, not a deterioration in core operations. JP Morgan projects Q2 revenue up about 9% YoY, with value-added services +5–6%, games +9–10%, advertising +18–19% and fintech ~+5%, broadly in line with market expectations."
+    },
+    {
+      "id": "mkt:019f5f67-9ad6-7aab-8d72-c78259f78407",
+      "time": "2026-07-14 14:54:13",
+      "tags": [
+        "MKT News",
+        "01816.HK",
+        "Impact bearish"
+      ],
+      "text": "【Citigroup trims CGN Power (01816.HK) PT to HK$2.45, cuts profit forecasts】Citigroup cut its price target on CGN Power (01816.HK) to HK$2.45 from HK$3.20 and kept a Sell rating. It said 1H grid-delivered generation fell 3.3% YoY to 109.6 million MWh and average unit utilization hours fell 6.1% YoY to 3,554 hours, while market-priced sales share rose 9.8pp to 65.9%. Citigroup forecasts Q2 net profit down 7.8% YoY to RMB2.7bn, chiefly due to the higher share of market-priced sales, and said Guangdong’s Q2 spot-price rise should have limited impact because over 95% of market-priced volume is sold under long-term contracts. Lower utilization leads Citigroup to cut 2026–28 net profit forecasts by 3–6%. It flagged a 2026 forecast dividend yield of 3.8% and said the current share price is not attractive."
+    },
+    {
+      "id": "4986295",
+      "time": "2026-07-14 14:53:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂事薯片中國超半數分支機構已登出】據媒體報道，近日，有消費者稱在樂事薯片中發現藍色異物，對此，樂事相關負責人回應稱，希望可以取回產品作內部核查。天眼查App顯示，樂事薯片中國關聯公司百事食品（中國）有限公司成立於1998年11月，法定代表人為謝長安，註冊資本9900萬美元，經營範圍包括食品生產、食品銷售、農作物種子經營等，由PEPSICO FOOD & BEVERAGE HOLDINGS HONG KONG LIMITED全資持股。分支機構資訊顯示，該公司旗下超十家分支機構已登出。控制企業資訊顯示，該公司實際控制6家企業。"
+    },
+    {
+      "id": "mkt:019f5f65-e82c-7aab-8d72-bdd44e0c27d1",
+      "time": "2026-07-14 14:52:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Abu Dhabi National Oil Company (ADNOC) confirmed that tankers Al Bahyah and Mombasa B came under attack in the Strait of Hormuz."
+    },
+    {
+      "id": "te:economy:566706",
+      "time": "2026-07-14 14:51:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Construction Output",
+        "Importance 1"
+      ],
+      "text": "Hungary Construction Output at 4-Month Low — Hungary’s construction output fell by 10.7% year-on-year in May 2026, following a 2.6% rise in the previous month. This marked the weakest reading since January, as production in civil engineering works plunged 21.9% from a 13.9% increase, driven mainly by a 46.2% contraction in road and railway construction, which reduced the overall performance of the civil engineering segment by 38 percentage points. Meanwhile, output in building construction contracted at a slower pace at 4.2%, easing from a 6.2% decline in April, as a 12.4% increase in specialised construction activities, the industry's largest segment, partially offset a 19.1% drop in building construction and a 34.9% slump in civil engineering output. On a seasonally adjusted monthly basis, construction activity dropped by 6.5% in May, following a 6.9% increase in the preceding period. For the Janury–May period, the total volume of construction fell by 4.3% compared to the same period a year earlier."
+    },
     {
       "id": "4986294",
       "time": "2026-07-14 14:51:42",
