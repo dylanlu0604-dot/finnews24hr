@@ -1,7 +1,37 @@
 {
   "date": "2026-07-15",
-  "count": 665,
+  "count": 668,
   "items": [
+    {
+      "id": "4988587",
+      "time": "2026-07-15 07:08:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度公司創始人李彥宏人民日報撰文：為智慧經濟打造科學評價體系】文章稱，過去幾年，大模型引數規模不斷重新整理紀錄，算力投入持續增長，Token（詞元）消耗快速攀升。相關數量指標能夠反映技術能力和資源投入情況，很有必要。但如果AI的價值標尺僅停留在“投入了多少”“消耗了多少”，就容易形成“重投入、輕產出”的傾向，比如盲目追風、不顧實際應用搞大模型，一哄而上搞“Token排行榜”“燒Token比賽”等。如何應對？一個有效方式是為智慧經濟打造科學的評價體系，透過科學指標衡量其實際應用、實際產出。目前看，“日活智慧體數”（Daily Active Agents，簡稱DAA）可作為一個重要指標。如果說Token衡量的是智慧消耗，那麼DAA衡量的則是智慧生產力，即每天有多少智慧體完成了交付任務。中國擁有全球最豐富的應用場景、最完整的產業鏈、最大的數字消費市場，每天都在產生海量真實需求，訂機票、訂酒店、預約體檢、撰寫研究報告、投資理財等，都將成為智慧體生長的肥沃土壤。充分利用這樣的優勢和條件，更加註重人工智慧技術與實體經濟結合、與真實場景結合、與群眾訴求結合，我們定能走出一條以解決實際問題為導向、以滿足真實需求為目標的智慧經濟發展新路徑。AI不能只在實驗室裡“刷榜”，必須到工廠車間裡“幹活”。用AI服務人類，這是科技界、產業界的初衷。錨定這個目標踏踏實實往前走，把技術優勢真正轉化為產業升級的勝勢，高質量發展將擁有更強勁的引擎。"
+    },
+    {
+      "id": "mkt:019f62e3-a016-7aab-8d8b-ad67fbdcd314",
+      "time": "2026-07-15 07:08:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "【Japan manufacturing confidence steady on chip demand; services pressured by costs】REUTERS TANKAN: Robust semiconductor demand kept Japanese manufacturing confidence relatively upbeat in July, with the manufacturing business conditions index steady at 13. Non-manufacturing confidence fell to 25 from 32 as Middle East tensions, a weak yen and rising interest rates raised costs. Manufacturers reported a semiconductor market recovery — including memory-related demand — and rapidly expanding orders for chip applications and AI-server products; electronic component orders broadly increased. A precision machinery firm said order volumes and values are at unprecedented levels and flagged capacity constraints. Services firms said Middle East tensions show early signs of easing but the situation remains unsettled. Looking ahead, manufacturers expect sentiment to stay stable and the October manufacturing index to nudge to 14, while non-manufacturing is forecast to remain at 25 as firms assess geopolitical and supply-chain risks."
+    },
+    {
+      "id": "4988586",
+      "time": "2026-07-15 07:08:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：北交所長鷹硬科今日申購】今日可申購北交所新股長鷹硬科，長鷹硬科發行總數約1810萬股，發行市盈率14.99倍，申購程式碼920238，申購價格18.89元。"
+    },
     {
       "id": "4988585",
       "time": "2026-07-15 07:05:19",

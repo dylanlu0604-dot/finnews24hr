@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-15 07:08:17",
-  "count": 18777,
+  "updated": "2026-07-15 07:12:13",
+  "count": 18771,
   "items": [
+    {
+      "id": "4988587",
+      "time": "2026-07-15 07:08:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百度公司創始人李彥宏人民日報撰文：為智慧經濟打造科學評價體系】文章稱，過去幾年，大模型引數規模不斷重新整理紀錄，算力投入持續增長，Token（詞元）消耗快速攀升。相關數量指標能夠反映技術能力和資源投入情況，很有必要。但如果AI的價值標尺僅停留在“投入了多少”“消耗了多少”，就容易形成“重投入、輕產出”的傾向，比如盲目追風、不顧實際應用搞大模型，一哄而上搞“Token排行榜”“燒Token比賽”等。如何應對？一個有效方式是為智慧經濟打造科學的評價體系，透過科學指標衡量其實際應用、實際產出。目前看，“日活智慧體數”（Daily Active Agents，簡稱DAA）可作為一個重要指標。如果說Token衡量的是智慧消耗，那麼DAA衡量的則是智慧生產力，即每天有多少智慧體完成了交付任務。中國擁有全球最豐富的應用場景、最完整的產業鏈、最大的數字消費市場，每天都在產生海量真實需求，訂機票、訂酒店、預約體檢、撰寫研究報告、投資理財等，都將成為智慧體生長的肥沃土壤。充分利用這樣的優勢和條件，更加註重人工智慧技術與實體經濟結合、與真實場景結合、與群眾訴求結合，我們定能走出一條以解決實際問題為導向、以滿足真實需求為目標的智慧經濟發展新路徑。AI不能只在實驗室裡“刷榜”，必須到工廠車間裡“幹活”。用AI服務人類，這是科技界、產業界的初衷。錨定這個目標踏踏實實往前走，把技術優勢真正轉化為產業升級的勝勢，高質量發展將擁有更強勁的引擎。"
+    },
+    {
+      "id": "mkt:019f62e3-a016-7aab-8d8b-ad67fbdcd314",
+      "time": "2026-07-15 07:08:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "【Japan manufacturing confidence steady on chip demand; services pressured by costs】REUTERS TANKAN: Robust semiconductor demand kept Japanese manufacturing confidence relatively upbeat in July, with the manufacturing business conditions index steady at 13. Non-manufacturing confidence fell to 25 from 32 as Middle East tensions, a weak yen and rising interest rates raised costs. Manufacturers reported a semiconductor market recovery — including memory-related demand — and rapidly expanding orders for chip applications and AI-server products; electronic component orders broadly increased. A precision machinery firm said order volumes and values are at unprecedented levels and flagged capacity constraints. Services firms said Middle East tensions show early signs of easing but the situation remains unsettled. Looking ahead, manufacturers expect sentiment to stay stable and the October manufacturing index to nudge to 14, while non-manufacturing is forecast to remain at 25 as firms assess geopolitical and supply-chain risks."
+    },
+    {
+      "id": "4988586",
+      "time": "2026-07-15 07:08:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：北交所長鷹硬科今日申購】今日可申購北交所新股長鷹硬科，長鷹硬科發行總數約1810萬股，發行市盈率14.99倍，申購程式碼920238，申購價格18.89元。"
+    },
     {
       "id": "4988585",
       "time": "2026-07-15 07:05:19",
@@ -171841,88 +171871,6 @@
         "其他"
       ],
       "text": "俄勒岡州請求法院命令派拉蒙Skydance遵守與合併相關的調查要求。"
-    },
-    {
-      "id": "4975093",
-      "time": "2026-07-08 07:11:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺稱，阿巴斯港市和格什姆島局勢已恢復正常，錫裡克地區仍有爆炸聲。"
-    },
-    {
-      "id": "mkt:019f3ed9-a513-7aab-8cd8-6e6fa913e45f",
-      "time": "2026-07-08 07:11:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state TV said the situation in Bandar Abbas and Qeshm has returned to normal, while explosions were still heard in the Sirik area."
-    },
-    {
-      "id": "4975092",
-      "time": "2026-07-08 07:11:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄勒岡州總檢察長在法庭檔案中表示，派拉蒙計劃在7月16日或之後立即完成對華納兄弟的收購。"
-    },
-    {
-      "id": "4975091",
-      "time": "2026-07-08 07:10:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：三星將於 7月 22日釋出新款摺疊屏手機——搶在可摺疊iPhone之前上市。"
-    },
-    {
-      "id": "em:qqyh_rbyh:202607083797192788",
-      "time": "2026-07-08 07:10:40",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "日本政府據悉考慮修改貨幣政策措辭。"
-    },
-    {
-      "id": "mkt:019f3ed9-0423-7aab-8cd8-623c28100869",
-      "time": "2026-07-08 07:10:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. Defense Secretary Hegseth plans Wednesday visit to Israel, sources say】CNN, citing three people, says U.S. Defense Secretary Hegseth plans his first visit to Israel since taking office on Wednesday. Sources say it is unclear whether recent U.S. strikes on Iran would affect the trip. Hegseth is expected to meet Prime Minister Netanyahu and Defense Minister Katz to address Israeli concerns about a possible U.S. sale of F-35 stealth fighters to Turkey, a proposal raised by Trump at the NATO summit. Israel remains the only Middle Eastern operator of F-35s."
-    },
-    {
-      "id": "4975090",
-      "time": "2026-07-08 07:08:33",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、中歐經貿完全能夠在發展中實現動態平衡（鐘聲）\n2、上半年國家鐵路完成貨物傳送量20.15億噸 同比增長1.8%\n3、前5月全國農業保險賠付370億元 糧食作物保險賠付60.47億元\n4、人工智慧如何幫助“決策”（新語）\n5、湖北釋出“文化旅遊+”三年行動方案\n6、發展新質生產力 推進品牌強國建設——2026中國品牌論壇綜述\n7、雄安新區高質量發展樣板研究正式啟動\n8、《中國品牌發展實踐與成果研究報告（2026）》釋出\n9、科技金融高質量發展創新實踐研究啟動\n10、《工業加速器法案》持續引發擔憂——歐盟保護主義政策或將反噬自身（深度觀察）\n11、日本激進財政政策加劇經濟風險（經濟透視）\n12、今年前4個月接待遊客超80萬人次 寮國琅勃拉邦古城旅遊業發展迅速\n13、從能源之穩看中國經濟確定性（每週經濟評論）\n14、全球每四塊顯示螢幕，就有一塊產自京東方 “中國屏”為何耀眼？（強國建設故事匯·百業千企煥新記）\n15、雙江口水電站首臺機組併網發電 高山峽谷間建起世界第一高壩（探訪全球第一）\n16、汽車後市場，一片“新藍海”（商海觀潮）。"
-    },
-    {
-      "id": "4975089",
-      "time": "2026-07-08 07:08:25",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平對防汛救災工作作出重要指示強調 要全力組織搶險救援、傷員救治、群眾安置 紮實做好防災救災各項工作 確保人民群眾生命財產安全 李強作出批示\n2、加快實現高水平科技自立自強——習近平總書記引領科技強國建設\n3、堅決貫徹落實習近平總書記重要指示精神——盯緊壓實責任 全力搶險救援（紮實做好防災救災各項工作）\n4、全國政協召開主席會議成員務虛會 王滬寧主持並講話\n5、從四個新資料讀懂上半年中國經濟。"
-    },
-    {
-      "id": "4975088",
-      "time": "2026-07-08 07:08:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本政府考慮修改貨幣政策措辭】日本朝日新聞援引未具名官員的話報道，日本政府正在考慮修改其“骨太方針”（honebuto，經濟財政運營和改革基本方針）中有關貨幣政策的表述。 報道稱，之所以考慮修改相關措辭，是因為投資者將此前的草案內容解讀為政府在向日本央行施壓。"
     }
   ]
 }
