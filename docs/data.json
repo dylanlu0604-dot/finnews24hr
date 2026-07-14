@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-15 02:32:15",
-  "count": 18830,
+  "updated": "2026-07-15 02:36:11",
+  "count": 18829,
   "items": [
+    {
+      "id": "4988413",
+      "time": "2026-07-15 02:34:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽確認加拿大評級為“AA+”，展望穩定。"
+    },
+    {
+      "id": "4988412",
+      "time": "2026-07-15 02:34:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽：加拿大經濟仍持續受貿易不確定性與長期結構性問題拖累。"
+    },
+    {
+      "id": "mkt:019f61e8-698d-7aab-8d87-a1790cd6a797",
+      "time": "2026-07-15 02:34:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Fitch says the Canadian economy remains hampered by persistent trade uncertainty and long-term structural challenges."
+    },
+    {
+      "id": "4988411",
+      "time": "2026-07-15 02:34:04",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "【芝加哥聯儲行長：服務業通脹仍過高 但最新CPI資料意外溫和】芝加哥聯儲行長奧斯坦·古爾斯比表示，週二公佈的消費者價格指數報告“意外溫和”，但決策者需要不止一個月的資料來評估通脹是否朝著央行2%的目標回落。古爾斯比周二在威斯康星州Kenosha出席活動時表示，服務業通脹一直“過高”，但週二公佈的資料“令人鼓舞”。他說：“如果能有幾個月像這樣，我會感覺更好，我們越早能夠證明通脹向2%回落，就越早能夠正常化”。"
+    },
+    {
+      "id": "mkt:019f61e8-3466-7aab-8d87-9a6556f83290",
+      "time": "2026-07-15 02:33:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FITCH affirms Canada's sovereign rating at AA+; outlook stable."
+    },
+    {
+      "id": "4988410",
+      "time": "2026-07-15 02:31:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶79.34美元，上漲1.20美元，漲幅1.54%。"
+    },
     {
       "id": "mkt:019f61e6-34c1-7aab-8d87-94ad7f82d2e5",
       "time": "2026-07-15 02:31:44",
@@ -172271,77 +172323,6 @@
         "MKT News"
       ],
       "text": "Netanyahu said if the agreement achieves its stated objectives, Iran would receive sanctions relief and use it to regain economic strength, but he does not expect that to occur in the near term."
-    },
-    {
-      "id": "mkt:019f3ddc-4476-7aab-8cd4-f36d23e16ddf",
-      "time": "2026-07-08 02:34:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Alaghaqi said Iran is closely monitoring the situation and is committed to ending Israel's aggression and occupation of Lebanon."
-    },
-    {
-      "id": "mkt:019f3ddb-f48b-7aab-8cd4-ec2f17465bb4",
-      "time": "2026-07-08 02:34:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi said Tehran reaffirmed it will continue to fully support Lebanon's unity and national sovereignty."
-    },
-    {
-      "id": "mkt:019f3dda-f95b-7aab-8cd4-e0bd9d366d95",
-      "time": "2026-07-08 02:33:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Saudi foreign ministry said Iran should bear full responsibility for such attacks and their consequences."
-    },
-    {
-      "id": "mkt:019f3dda-c721-7aab-8cd4-d983f4d3b231",
-      "time": "2026-07-08 02:32:55",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "Saudi foreign ministry condemned attacks on Saudi tankers and called on Iran to immediately cease all actions that endanger international maritime navigation and the security of global energy supplies."
-    },
-    {
-      "id": "mkt:019f3dda-b067-7aab-8cd4-d4310d9109d9",
-      "time": "2026-07-08 02:32:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi foreign ministry says Iran attacked a Saudi tanker transiting the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f3dda-35a3-7aab-8cd4-ca5cc45e032f",
-      "time": "2026-07-08 02:32:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Night session main contracts close】As of 02:30 local time, Shanghai night-session front-month contracts closed: Shanghai gold main contract up 0.08% at 906 yuan/gram; Shanghai silver main contract down 0.70% at 14,855 yuan/kg; SC crude (Shanghai crude) main contract up 2.82% at 452 yuan/barrel."
-    },
-    {
-      "id": "4974843",
-      "time": "2026-07-08 02:32:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交部稱，此類襲擊及其引發的一切後果均由伊朗承擔全部責任。"
     }
   ]
 }
