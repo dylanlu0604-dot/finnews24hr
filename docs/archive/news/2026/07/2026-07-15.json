@@ -1,7 +1,74 @@
 {
   "date": "2026-07-15",
-  "count": 521,
+  "count": 528,
   "items": [
+    {
+      "id": "4988505",
+      "time": "2026-07-15 04:47:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國鋁業公司：將在西澳大利亞州韋傑普氧化鋁精煉廠配套建設並運營鎵提煉工廠， 完成場地最終籌備工作後，鎵提煉工廠將啟動施工建設。 公司參與該合資專案預計不會對自身財務狀況及經營業績產生重大影響。"
+    },
+    {
+      "id": "mkt:019f6262-1597-7aab-8d8a-2dcb70cf1053",
+      "time": "2026-07-15 04:47:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "OpenAI said its AI smart speaker product did not infringe Apple Inc.'s (AAPL.O) trade secrets."
+    },
+    {
+      "id": "mkt:019f6261-c395-7aab-8d8a-275f397e753f",
+      "time": "2026-07-15 04:46:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI plans to launch an AI smart speaker as its first hardware product, positioned as an AI companion assistant."
+    },
+    {
+      "id": "4988504",
+      "time": "2026-07-15 04:46:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞、日本、美國與美國鋁業宣佈西澳鎵專案完成最終投資審批。"
+    },
+    {
+      "id": "4988503",
+      "time": "2026-07-15 04:45:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月15日美股成交額前20：IBM業績預警股價重挫逾25%】週二美股成交額第4名IBM收跌25.21%，創該公司115年歷史上的最大單日跌幅，成交146.63億美元，市值蒸發690億美元。在此之前，該公司歷史最大單日跌幅出現在1987年10月19日的“黑色星期一”，當天收跌23.7%。該公司週二盤前公佈的第二季度初步業績顯示營收和利潤均低於市場預期，公司執行長阿溫德·克里希納承認未能及時適應客戶支出模式的急劇變化。克里希納承認公司在快速適應市場方面應對不力，多筆大型交易未能按預期時間完成，構成了業績缺口的主要部分。他表示，這些情況要求團隊完美執行，而本季度出現了失誤。"
+    },
+    {
+      "id": "mkt:019f625f-e39a-7aab-8d8a-1bf664e6eca6",
+      "time": "2026-07-15 04:44:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. Energy Secretary Wright said the U.S. must ensure oil can flow from the Arabian Gulf."
+    },
+    {
+      "id": "mkt:019f625e-d202-7aab-8d8a-178f789852fe",
+      "time": "2026-07-15 04:43:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary Wright said the DOE is no longer considering charging a 20% fee."
+    },
     {
       "id": "mkt:019f625e-6ac3-7aab-8d8a-0a6f9bf36ed1",
       "time": "2026-07-15 04:43:02",
