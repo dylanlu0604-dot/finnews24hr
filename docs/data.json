@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-15 01:11:01",
-  "count": 18778,
+  "updated": "2026-07-15 01:14:55",
+  "count": 18782,
   "items": [
+    {
+      "id": "4988336",
+      "time": "2026-07-15 01:14:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：我們將以實際行動回應特朗普的言論，捍衛本國每一寸土地。"
+    },
+    {
+      "id": "mkt:019f619e-18fa-7aab-8d86-ad20ffb53198",
+      "time": "2026-07-15 01:12:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Bahrain's Interior Ministry said the country had sounded an air defense alert."
+    },
+    {
+      "id": "4988335",
+      "time": "2026-07-15 01:11:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "兩艘賴比瑞亞籍油輪在阿曼海岸附近遭襲。"
+    },
+    {
+      "id": "mkt:019f619b-f27a-7aab-8d86-a7805d858fdb",
+      "time": "2026-07-15 01:10:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【U.S. Commerce official says chip and AI rules imminent; Trump team won't replace Biden-era AI chip export curbs】U.S. Commerce Department export-control chief Jeffrey Kessler told a congressional hearing Tuesday that new chip and AI regulatory measures are imminent. He said the Trump administration does not intend to replace the Biden-era AI chip export restrictions."
+    },
     {
       "id": "mkt:019f619b-9df2-7aab-8d86-9cec288c78f1",
       "time": "2026-07-15 01:10:16",
