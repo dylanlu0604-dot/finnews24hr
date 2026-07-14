@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-15 04:32:03",
-  "count": 18823,
+  "updated": "2026-07-15 04:35:56",
+  "count": 18821,
   "items": [
+    {
+      "id": "te:markets:566906",
+      "time": "2026-07-15 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index gained 45 points or 0.09 percent on Tuesday to close at 52544 points. Gains were led by Goldman Sachs (9.20%), Nvidia (4.08%) and JPMorgan (2.54%). Biggest losers were IBM (-25.37%), Merck (-2.60%) and Nike (-2.06%)."
+    },
+    {
+      "id": "mkt:019f6256-98e7-7aab-8d89-6915c2e48d32",
+      "time": "2026-07-15 04:34:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Bank of England governor Bailey pushes back against calls to loosen regulation】Bank of England Governor Bailey told the City of London annual dinner that blanket deregulation would be unhelpful and that well‑designed regulation is essential to support economic growth. He said UK economic activity remains fairly weak and conceded that current BoE rules are imperfect, arguing that simplistic calls for ‘more’ or ‘less’ regulation are not a reasonable position. Bailey noted that a year ago Chancellor Reeves had compared burdensome rules to a straitjacket. He also called for stronger international coordination on testing frontier AI models before broad deployment. Andy Burnham, who is expected to replace Starmer as prime minister next week, is expected to remove Reeves — a change that could alter fiscal policy direction."
+    },
+    {
+      "id": "mkt:019f6255-b2c5-7aab-8d89-678abcf9f4cf",
+      "time": "2026-07-15 04:33:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple accuses OpenAI of stealing trade secrets; OpenAI calls allegations baseless】Apple filed a trade-secret lawsuit alleging OpenAI used former Apple employees to obtain internal materials for an AI hardware product, saying OpenAI’s hardware team induced applicants to bring Apple documents and helped candidates evade company security checks. Apple also says a former iPhone engineer who left for OpenAI this year illegally took engineering demo slides and other internal files. OpenAI said it has found \"no evidence\" supporting the claims, emphasized respect for fair competition and talent mobility, and said it is focused on developing its own technology."
+    },
+    {
+      "id": "4988493",
+      "time": "2026-07-15 04:33:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：美方期待美國企業參與推進伊拉克 — 敘利亞原油輸油管道重建工作。"
+    },
+    {
+      "id": "mkt:019f6254-840c-7aab-8d89-5b84a71d7f36",
+      "time": "2026-07-15 04:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Dept official said the US supports Iraq and Syria enhancing connectivity and building forward-looking trade and prosperity corridors."
+    },
+    {
+      "id": "4988492",
+      "time": "2026-07-15 04:31:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：美國正支援伊拉克與敘利亞推進電網互聯互通建設，並打造惠及繁榮的未來貿易通道。"
+    },
     {
       "id": "te:markets:566905",
       "time": "2026-07-15 04:23:59",
@@ -172233,83 +172294,6 @@
         "其他"
       ],
       "text": "Anthropic擬租賃紐約曼哈頓哈德遜廣場一棟16層寫字樓。"
-    },
-    {
-      "id": "mkt:019f3e4a-e7f6-7aab-8cd6-3b6c563fe34f",
-      "time": "2026-07-08 04:35:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. Chief of Naval Operations said Iran aims to force commercial vessels to transit the Strait of Hormuz close to Iran's coast."
-    },
-    {
-      "id": "mkt:019f3e4a-e154-7aab-8cd6-3620b9c168d2",
-      "time": "2026-07-08 04:35:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Navy operations chief said the U.S. has accounted for the number of sea mines deployed in the Strait of Hormuz; the figure is classified intelligence and he will not disclose how it was obtained."
-    },
-    {
-      "id": "te:markets:564979",
-      "time": "2026-07-08 04:35:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.25% Lower — The Dow Jones Index dropped 131 points or 0.25 percent on Tuesday to close at 52925 points. Losses were led by Caterpillar (-3.14%), Honeywell International (-2.62%) and Sherwin-Williams (-1.87%). Offsetting the fall, top gainers were Chevron (3.50%), J&J (3.09%) and Salesforce (3.04%)."
-    },
-    {
-      "id": "4974946",
-      "time": "2026-07-08 04:34:42",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "韓美日簽署小型模組化反應堆部署合作諒解備忘錄。"
-    },
-    {
-      "id": "4974945",
-      "time": "2026-07-08 04:33:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達就其運輸船遇襲向伊朗發出照會】卡達外交部7日召見伊朗駐卡達副大使，就卡方一艘運輸船日前在霍爾木茲海峽附近航行時遭襲，向伊方遞交抗議照會。卡達外交部當天發表宣告說，照會指出，襲擊卡達運輸船“阿爾-魯凱亞特”號嚴重危害國際海上航行安全，直接威脅全球能源供應安全，公然違反國際法。卡達要求伊朗儘快就此次襲擊作出說明。（新華社）"
-    },
-    {
-      "id": "4974944",
-      "time": "2026-07-08 04:33:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊拉克今天為哈梅內伊送葬】當地時間7月7日晚，伊朗總統佩澤希齊揚及其隨行代表團抵達伊拉克的什葉派聖城納傑夫。伊拉克總理扎伊迪到機場迎接。載有伊朗已故最高領袖阿里·哈梅內伊遺體的飛機也已抵達納傑夫。 據伊拉克總理辦公室釋出的宣告，佩澤希齊揚此行率代表團出席哈梅內伊的送葬儀式。扎伊迪就哈梅內伊遇害向伊朗人民和政府再次表示哀悼，強調兩國關係深厚，承諾將在各領域鞏固並深化雙邊合作。 根據伊朗方面此前公佈的哈梅內伊葬禮安排，在結束於德黑蘭為期三天的悼念及送葬儀式後，應伊拉克方面要求，今天（7月8日）將在伊拉克兩座什葉派聖城納傑夫和卡爾巴拉舉行送葬儀式；7月9日，哈梅內伊及其多位遇害家人的送葬儀式將在伊朗聖城馬什哈德舉行。儀式結束後，哈梅內伊的遺體將被安葬。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:564978",
-      "time": "2026-07-08 04:32:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Energy Gains Offset Mining Losses — The S&P/TSX Composite Index gained 0.2% to close at 35,273 on Tuesday, supported by the energy sector and strong trade data. Canadian Natural rose 3.2%, Suncor added 3.2%, Imperial Oil gained 3%, and Cenovus advanced 3.5% as oil prices climbed after reports that the US would revoke the waiver allowing Iran to sell its oil following recent attacks on tankers in the Strait of Hormuz. Financials traded mixed as investors awaited the minutes from the Fed's June meeting for clues on monetary policy. RBC gained 0.5%, TD Bank rose 0.6%, and BMO added 1.2%, while Scotiabank and Brookfield lost 1%. Meanwhile, lower gold prices weighed on miners, with Agnico Eagle and WPM falling 3.2% and Barrick dropping 3.5%."
-    },
-    {
-      "id": "4974943",
-      "time": "2026-07-08 04:32:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "火箭實驗室（Rocket Lab）宣佈為美國太空軍執行的發射任務圓滿成功。"
     }
   ]
 }

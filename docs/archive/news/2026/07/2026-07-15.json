@@ -1,7 +1,68 @@
 {
   "date": "2026-07-15",
-  "count": 485,
+  "count": 491,
   "items": [
+    {
+      "id": "te:markets:566906",
+      "time": "2026-07-15 04:35:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index gained 45 points or 0.09 percent on Tuesday to close at 52544 points. Gains were led by Goldman Sachs (9.20%), Nvidia (4.08%) and JPMorgan (2.54%). Biggest losers were IBM (-25.37%), Merck (-2.60%) and Nike (-2.06%)."
+    },
+    {
+      "id": "mkt:019f6256-98e7-7aab-8d89-6915c2e48d32",
+      "time": "2026-07-15 04:34:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Bank of England governor Bailey pushes back against calls to loosen regulation】Bank of England Governor Bailey told the City of London annual dinner that blanket deregulation would be unhelpful and that well‑designed regulation is essential to support economic growth. He said UK economic activity remains fairly weak and conceded that current BoE rules are imperfect, arguing that simplistic calls for ‘more’ or ‘less’ regulation are not a reasonable position. Bailey noted that a year ago Chancellor Reeves had compared burdensome rules to a straitjacket. He also called for stronger international coordination on testing frontier AI models before broad deployment. Andy Burnham, who is expected to replace Starmer as prime minister next week, is expected to remove Reeves — a change that could alter fiscal policy direction."
+    },
+    {
+      "id": "mkt:019f6255-b2c5-7aab-8d89-678abcf9f4cf",
+      "time": "2026-07-15 04:33:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Apple accuses OpenAI of stealing trade secrets; OpenAI calls allegations baseless】Apple filed a trade-secret lawsuit alleging OpenAI used former Apple employees to obtain internal materials for an AI hardware product, saying OpenAI’s hardware team induced applicants to bring Apple documents and helped candidates evade company security checks. Apple also says a former iPhone engineer who left for OpenAI this year illegally took engineering demo slides and other internal files. OpenAI said it has found \"no evidence\" supporting the claims, emphasized respect for fair competition and talent mobility, and said it is focused on developing its own technology."
+    },
+    {
+      "id": "4988493",
+      "time": "2026-07-15 04:33:10",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：美方期待美國企業參與推進伊拉克 — 敘利亞原油輸油管道重建工作。"
+    },
+    {
+      "id": "mkt:019f6254-840c-7aab-8d89-5b84a71d7f36",
+      "time": "2026-07-15 04:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State Dept official said the US supports Iraq and Syria enhancing connectivity and building forward-looking trade and prosperity corridors."
+    },
+    {
+      "id": "4988492",
+      "time": "2026-07-15 04:31:45",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員：美國正支援伊拉克與敘利亞推進電網互聯互通建設，並打造惠及繁榮的未來貿易通道。"
+    },
     {
       "id": "te:markets:566905",
       "time": "2026-07-15 04:23:59",
