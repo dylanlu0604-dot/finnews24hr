@@ -1,7 +1,241 @@
 {
   "date": "2026-07-15",
-  "count": 491,
+  "count": 513,
   "items": [
+    {
+      "id": "mkt:019f625b-042f-7aab-8d89-f71ebf596bb8",
+      "time": "2026-07-15 04:39:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "State Dept official said the US expects American companies to play an important role in advancing reconstruction of the Iraq–Syria oil pipeline."
+    },
+    {
+      "id": "mkt:019f625a-5df6-7aab-8d89-ed1ae7c9e338",
+      "time": "2026-07-15 04:38:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. refinery crude runs in the week to July 10 were up 56,000 b/d, prior up 34,000 b/d."
+    },
+    {
+      "id": "mkt:019f625a-2d26-7aab-8d89-e43c66c612f9",
+      "time": "2026-07-15 04:38:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Jul.10) | actual 56000M | previous 34000M"
+    },
+    {
+      "id": "mkt:019f6259-ec39-7aab-8d89-da0b333d5b3e",
+      "time": "2026-07-15 04:38:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. refined product imports in the week to July 10 -188,000 b/d; prior -325,000 b/d."
+    },
+    {
+      "id": "mkt:019f6259-c73f-7aab-8d89-d5fe85b9e607",
+      "time": "2026-07-15 04:37:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Jul.10) | actual -188000M | previous -325000M"
+    },
+    {
+      "id": "mkt:019f6259-b639-7aab-8d89-cf64b9525245",
+      "time": "2026-07-15 04:37:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US API weekly crude oil imports for week to July 10: -119k barrels; prior +159k barrels."
+    },
+    {
+      "id": "4988497",
+      "time": "2026-07-15 04:37:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國電網運營巨頭PJM Interconnection LLC：價格上限機制阻止了容量價格飆升至554.72美元/兆瓦天。"
+    },
+    {
+      "id": "mkt:019f6259-9186-7aab-8d89-c6d06dd36db8",
+      "time": "2026-07-15 04:37:44",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Jul.10) | actual -119000M | previous 159000M"
+    },
+    {
+      "id": "mkt:019f6259-8726-7aab-8d89-bdf41be10974",
+      "time": "2026-07-15 04:37:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. heating oil inventories fell 73,000 barrels in the week to July 10; prior draw was 434,000 barrels."
+    },
+    {
+      "id": "4988496",
+      "time": "2026-07-15 04:37:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）：擬修訂醫師收費標準（PFS），以落實特朗普政府從疾病治療向健康管護轉型的政策目標。"
+    },
+    {
+      "id": "mkt:019f6259-6432-7aab-8d89-b33467d42196",
+      "time": "2026-07-15 04:37:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Jul.10) | actual -73000M | previous -434000M"
+    },
+    {
+      "id": "mkt:019f6259-4ee2-7aab-8d89-ae4ef3a6e2f4",
+      "time": "2026-07-15 04:37:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. Cushing crude inventories +238,000 barrels in the week to July 10; prior -69,000 barrels."
+    },
+    {
+      "id": "mkt:019f6259-2a13-7aab-8d89-a479b8e8a226",
+      "time": "2026-07-15 04:37:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. refined product inventories rose 2.259 mln bbl in the week to July 10 vs +1.06 mln expected; prior -1.801 mln."
+    },
+    {
+      "id": "mkt:019f6259-2246-7aab-8d89-9e02d2eaf347",
+      "time": "2026-07-15 04:37:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jul.10) | actual 238000M | previous -69000M"
+    },
+    {
+      "id": "4988495",
+      "time": "2026-07-15 04:37:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國醫療保險和醫療補助服務中心（CMS）：擬大幅最佳化聯邦醫療保險共享儲蓄計劃，擬於 2029 年終止傳統績效激勵支付體系（MIPS）申報機制。"
+    },
+    {
+      "id": "mkt:019f6259-021d-7aab-8d89-91d1c28f2ca3",
+      "time": "2026-07-15 04:37:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Jul.10) | actual 2259000M | consensus 1060000M | previous -1801000M"
+    },
+    {
+      "id": "mkt:019f6258-f1fe-7aab-8d89-8eb950adfb6f",
+      "time": "2026-07-15 04:37:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. gasoline stocks fell 1.664 mln barrels in the week ended July 10, versus an expected 0.6 mln-barrel build; prior -2.929 mln barrels."
+    },
+    {
+      "id": "mkt:019f6258-ce3c-7aab-8d89-82fc9cdde942",
+      "time": "2026-07-15 04:36:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Jul.10) | actual -1664000M | consensus 600000M | previous -2929000M"
+    },
+    {
+      "id": "mkt:019f6258-b6eb-7aab-8d89-7a5b0e46298c",
+      "time": "2026-07-15 04:36:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "API weekly U.S. crude inventories for week to July 10: -564,000 barrels; expected -2.736 mln; prior -399,000."
+    },
+    {
+      "id": "4988494",
+      "time": "2026-07-15 04:36:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月10日當週API原油庫存 -56.4萬桶，預期-273.6萬桶，前值-39.9萬桶。"
+    },
+    {
+      "id": "mkt:019f6258-9637-7aab-8d89-75bb95c060f6",
+      "time": "2026-07-15 04:36:40",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Jul.10) | actual -564000M | consensus -2736000M | previous -399000M"
+    },
+    {
+      "id": "te:markets:566907",
+      "time": "2026-07-15 04:36:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rebounds on Softer US Inflation — The Ibovespa added 0.5% to close at 176,641 on Tuesday, recovering from the previous session's losses after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Most financial stocks traded higher, with Itaúsa up 0.6% and Banco do Brasil adding 1.7%. Utilities also posted gains, with Axia up 0.5%. Meanwhile, Vale jumped 1.5% as iron ore prices surged on expectations that impending Chinese restrictions on selected Fortescue portside cargoes will tighten supply. Vivo advanced 2.3% after recording a net gain of 23,000 customers, its largest increase since March 2025. Rede D'Or gained 1.4% as it advanced its joint venture with Bradsaúde (+0.7%). Bradsaúde announced on Monday that it had completed the transaction to contribute Rede D'Or's real estate assets to Atlântica D'Or."
+    },
     {
       "id": "te:markets:566906",
       "time": "2026-07-15 04:35:12",
