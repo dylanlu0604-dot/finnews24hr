@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-15 06:41:09",
+  "updated": "2026-07-15 06:45:09",
   "count": 18777,
   "items": [
+    {
+      "id": "mkt:019f62cc-c0c6-7aab-8d8b-477d62b846b5",
+      "time": "2026-07-15 06:43:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump threatens strikes on Iranian power plants and bridges if Iran refuses talks next week】On July 14 local time, US media reported President Trump told reporters that 'if Iran still refuses to return to the negotiating table next week, US forces will carry out air strikes on Iran's power plants and bridges'."
+    },
+    {
+      "id": "mkt:019f62ca-d885-7aab-8d8b-39fe0d822693",
+      "time": "2026-07-15 06:41:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Indian media: developers quietly shift to Chinese AI large models】Telugu Times reports an increasing number of Indian tech firms are adopting Chinese AI large models, citing cost and public availability. The report gives example pricing for a Chinese model at USD 0.19–1.74 per MLN input tokens and USD 0.51–5.40 per MLN output tokens, versus OpenAI GPT-5.5 at USD 5–12 per MLN input tokens and USD 30–54 per MLN output tokens."
+    },
     {
       "id": "4988569",
       "time": "2026-07-15 06:40:11",
@@ -171896,26 +171918,6 @@
         "其他"
       ],
       "text": "科威特電力部表示，多條輸電線路停運，導致該國部分地區停電。"
-    },
-    {
-      "id": "te:markets:564986",
-      "time": "2026-07-08 06:45:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Binance Depreciates by 1.19% — Top crypto losers are Binance (-1.19%), Ether (-1.14%) and Bitcoin (-0.64%)."
-    },
-    {
-      "id": "4975069",
-      "time": "2026-07-08 06:41:32",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "四川高縣連發多次3級以上地震。"
     }
   ]
 }
