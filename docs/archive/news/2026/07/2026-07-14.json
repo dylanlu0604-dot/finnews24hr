@@ -1,7 +1,404 @@
 {
   "date": "2026-07-14",
-  "count": 3511,
+  "count": 3550,
   "items": [
+    {
+      "id": "4987756",
+      "time": "2026-07-14 20:35:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "SOFTSERVE公司：SOFTSERVE收購NEWVISION軟體，新增印度專業技術，包括AGENTIC保障和智慧技術。"
+    },
+    {
+      "id": "mkt:019f609f-c690-7aab-8d7c-eaeb5f04b40c",
+      "time": "2026-07-14 20:35:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver up 3.00% intraday, now at $59.50/oz."
+    },
+    {
+      "id": "4987755",
+      "time": "2026-07-14 20:35:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "德國兩年期政府債券收益率<DE2YT=RR>在美國經濟資料公佈後回落漲幅，最新上漲2.5個基點，報2.74%。"
+    },
+    {
+      "id": "4987754",
+      "time": "2026-07-14 20:34:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀<XAG=>漲幅超3%，報每盎司59.52美元。"
+    },
+    {
+      "id": "te:economy:566815",
+      "time": "2026-07-14 20:34:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "US Core Consumer Prices Unexpectedly Hold — Core consumer prices in the United States, which exclude food and energy, were unchanged from the previous month in June of 2026, holding the 0.2% increase in May and undershooting market expectations that they would have risen by 0.2%. I)t was the first month without increases since January 2021. Prices fell for transportation services (-0.3% vs -0.6% in May), apparel (-0.6% vs 0.3%), and medical care services (-0.1% vs 0.5%). In turn, prices inched higher for shelter (0.1% vs 0.3%). From the previous year, core consumer prices were 2.6% higher."
+    },
+    {
+      "id": "4987753",
+      "time": "2026-07-14 20:34:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "美銀全球研究將百度公司目標價從180美元下調至165美元。"
+    },
+    {
+      "id": "mkt:019f609f-634b-7aab-8d7c-e7a6b4f7c951",
+      "time": "2026-07-14 20:34:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【U.S. June energy inflation falls MoM; YoY pace slows】Bureau of Labor Statistics: seasonally adjusted U.S. energy inflation fell 5.7% MoM in June (May +3.9%). Energy commodities -9.5% MoM (May +6.7%); gasoline -9.7% MoM (May +7.0%); fuel oil -9.2% MoM (May +3.8%). Not seasonally adjusted YoY, energy +15.7% (May +23.5%); energy commodities +27.1% (May +40.6%); gasoline +26.7% (May +40.5%); fuel oil +42.9% (May +58.9%)."
+    },
+    {
+      "id": "mkt:019f609f-3525-7aab-8d7c-dd95db1a7763",
+      "time": "2026-07-14 20:34:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose $100.06 intraday to $4,102.04/oz, up 2.50%."
+    },
+    {
+      "id": "mkt:019f609f-2b91-7aab-8d7c-d7a4ab0a7516",
+      "time": "2026-07-14 20:34:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. two-year Treasury yield fell 10 bps on the day to 4.18%."
+    },
+    {
+      "id": "4987751",
+      "time": "2026-07-14 20:34:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國兩年期國債收益率當日下跌10個基點至4.18%。"
+    },
+    {
+      "id": "4987750",
+      "time": "2026-07-14 20:34:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【利歐股份：2026年上半年淨利潤1.1-1.5億元 同比降68.63%-77%】利歐股份公告稱，2026年上半年歸屬於上市公司股東的淨利潤為1.1-1.5億元，同比下降68.63%-77%；扣除非經常性損益後的淨利潤虧損0.9-1.3億元，上年同期盈利1.48億元。主要因公司持有的理想汽車股票確認的損益約為-3.57億元，影響歸母淨利潤約-2.68億元；機械製造業務板塊受市場等因素影響當期虧損；數字營銷業務板塊業績向好，收入和淨利潤同比均增長。"
+    },
+    {
+      "id": "te:economy:566814",
+      "time": "2026-07-14 20:34:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "US Inflation Rate Falls More than Expected — The annual inflation rate in the US fell to 3.5% in June 2026, the first decline in four months, compared to 4.2% in May and below forecasts of 3.8%. The energy index increased 15.7% and food prices rose 3%. Compared to the previous month, the CPI decreased 0.4%, more than forecasts of a 0.1% decrease, and the largest fall since April 2020"
+    },
+    {
+      "id": "4987749",
+      "time": "2026-07-14 20:34:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：美聯儲對持續高通脹“零容忍”。商業投資是當前經濟最顯著的特徵。美國經濟具有韌性，增長步伐穩健。消費增長溫和，住房市場持續滯後。AI機遇對決策者構成挑戰。正在監測AI對通脹和勞動力市場的影響。勞動力市場總體穩定，名義工資增長穩健。"
+    },
+    {
+      "id": "4987748",
+      "time": "2026-07-14 20:34:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱美特氣：2026年上半年淨利潤1900-2400萬元 同比降57.02%-65.98%】凱美特氣公告稱，預計2026年1月1日至6月30日，歸屬於上市公司股東的淨利潤為1900-2400萬元，較上年同期的5584.61萬元下降65.98%-57.02%；扣除非經常性損益後的淨利潤為1240-1580萬元，同比下降75.05%-68.21%。業績下降主要因部分產品利潤貢獻減少、專案完工轉固後費用增加及計提資產減值損失。"
+    },
+    {
+      "id": "4987747",
+      "time": "2026-07-14 20:34:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中免：2026年上半年營收275.92億元 淨利潤同比增19.49%】中國中免公告稱，2026年上半年，公司營業總收入275.92億元，同比下降1.99%；歸屬於上市公司股東的淨利潤31.06億元，同比增長19.49%。公司把握海南自貿港機遇，鞏固海南市場優勢，推進機場免稅店面運營改善，收購DFS大中華區零售業務取得良好成效。主營業務毛利率持續改善，同比提升0.73個百分點，二季度同比提升1.44個百分點。上述資料為初步核算，具體以半年度報告為準。"
+    },
+    {
+      "id": "mkt:019f609e-83ff-7aab-8d7c-c83036c403c5",
+      "time": "2026-07-14 20:33:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said employment growth is keeping pace with labor force expansion. The unemployment rate remains low and has changed little over the past year. Layoffs are relatively limited."
+    },
+    {
+      "id": "mkt:019f609e-5d63-7aab-8d7c-c4758656768f",
+      "time": "2026-07-14 20:33:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "After the CPI release, the dollar index (DXY) briefly slid about 50 points to 100.68."
+    },
+    {
+      "id": "4987746",
+      "time": "2026-07-14 20:33:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國美元指數(USD)資料公佈後下跌0.59%，報100.66。"
+    },
+    {
+      "id": "4987745",
+      "time": "2026-07-14 20:33:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊/美元<GBP=D3>上漲0.63%，報1.3430美元。"
+    },
+    {
+      "id": "4987744",
+      "time": "2026-07-14 20:33:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4100美元/盎司，日內漲2.53%。"
+    },
+    {
+      "id": "mkt:019f609e-01cb-7aab-8d7c-b9dbdcd7a605",
+      "time": "2026-07-14 20:33:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Market pricing shows bets on a Fed rate hike this month have been trimmed."
+    },
+    {
+      "id": "4987743",
+      "time": "2026-07-14 20:33:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲2.62%。"
+    },
+    {
+      "id": "4987742",
+      "time": "2026-07-14 20:33:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內漲3.50%。"
+    },
+    {
+      "id": "4987741",
+      "time": "2026-07-14 20:33:12",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "美元兌日元<JPY=>在CPI資料公佈後跌幅擴大，最新報161.74，下跌0.42%。"
+    },
+    {
+      "id": "4987740",
+      "time": "2026-07-14 20:33:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：交易員減少了本月對美聯儲加息的押注。"
+    },
+    {
+      "id": "mkt:019f609d-a73e-7aab-8d7c-b5e39d88f248",
+      "time": "2026-07-14 20:32:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 futures rose 0.5%; Nasdaq 100 futures rose 1.3%."
+    },
+    {
+      "id": "mkt:019f609d-7c62-7aab-8d7c-a8a0ec6fa778",
+      "time": "2026-07-14 20:32:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said the U.S. economy remains resilient and growth is steady."
+    },
+    {
+      "id": "mkt:019f609d-5c66-7aab-8d7c-a121dda4c7a7",
+      "time": "2026-07-14 20:32:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the labor market is broadly stable and nominal wage growth remains solid."
+    },
+    {
+      "id": "4987739",
+      "time": "2026-07-14 20:32:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報59.40美元/盎司。"
+    },
+    {
+      "id": "mkt:019f609d-50f5-7aab-8d7c-98110e8c985d",
+      "time": "2026-07-14 20:32:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "After CPI data were released, spot gold briefly rose $13 to $4,096.2/oz."
+    },
+    {
+      "id": "mkt:019f609d-2ffa-7aab-8d7c-9586ee336988",
+      "time": "2026-07-14 20:32:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed has zero tolerance for persistently high inflation."
+    },
+    {
+      "id": "em:qqyh_mlc:202607143805944020",
+      "time": "2026-07-14 20:32:06",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國6月通脹資料公佈後 交易員大幅削減對美聯儲加息的押注】美國6月通脹資料公佈後，美國短期利率期貨大幅跳漲，交易員大幅削減對美聯儲加息的押注。"
+    },
+    {
+      "id": "4987738",
+      "time": "2026-07-14 20:31:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報59.72美元/盎司。"
+    },
+    {
+      "id": "mkt:019f609c-a099-7aab-8d7c-8dc1eb569f7b",
+      "time": "2026-07-14 20:31:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "After CPI data were released, silver rose $2 intraday to $59.15/oz."
+    },
+    {
+      "id": "4987737",
+      "time": "2026-07-14 20:31:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國消費者物價指數公佈後，斯托克歐洲600指數抹去了跌幅。"
+    },
+    {
+      "id": "mkt:019f609c-97b9-7aab-8d7c-80dfcf51910e",
+      "time": "2026-07-14 20:31:42",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US June NSA housing inflation YoY 3.3%, vs 3.4% prior."
+    },
+    {
+      "id": "em:qqyh_mlc:202607143805943432",
+      "time": "2026-07-14 20:31:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，美聯儲對持續高通脹“零容忍”。"
+    },
     {
       "id": "mkt:019f609c-7b1e-7aab-8d7c-7f3cb8753313",
       "time": "2026-07-14 20:31:35",
@@ -27,6 +424,15 @@
         "Economic Calendar"
       ],
       "text": "United States | Shelter Inflation Rate (YoY) (Jun) | actual 3.3% | previous 3.4%"
+    },
+    {
+      "id": "4987736",
+      "time": "2026-07-14 20:31:34",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國6月核心通脹月率意外下降】美國6月未季調核心CPI年率錄得2.6%，市場預期為2.8%；美國6月未季調核心CPI月率錄得0%，為2021年1月來最小增幅。"
     },
     {
       "id": "mkt:019f609c-5904-7aab-8d7c-62cef4d88177",
@@ -214,6 +620,15 @@
         "Importance 0"
       ],
       "text": "Gold is up by 2.08% — Gold increased 2.08% to 4085.02 USD/t.oz"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607143805943375",
+      "time": "2026-07-14 20:30:33",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月核心CPI同比增長2.6% 低於預期】美國6月核心CPI同比增長2.6%，預估為2.8%，前值為2.9%。美國6月核心CPI環比持平，預估增長0.2%。"
     },
     {
       "id": "mkt:019f609b-7178-7aab-8d7c-1ef342c9df1f",
