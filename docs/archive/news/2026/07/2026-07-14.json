@@ -1,7 +1,210 @@
 {
   "date": "2026-07-14",
-  "count": 1797,
+  "count": 1819,
   "items": [
+    {
+      "id": "4986332",
+      "time": "2026-07-14 15:07:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "愛立信股價下跌10%，創2025年1月以來最大跌幅。"
+    },
+    {
+      "id": "4986331",
+      "time": "2026-07-14 15:07:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年上半年重慶出入境旅客大幅增長】今年以來，重慶江北國際機場口岸出入境客流呈現整體高速增長、外籍客流激增等特點。2026年上半年，江北機場口岸出入境旅客148萬餘人次，同比增長39.5%。（新華社）"
+    },
+    {
+      "id": "mkt:019f5f73-a52a-7aab-8d73-34d5e0495335",
+      "time": "2026-07-14 15:07:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "HLAG.DE",
+        "Impact bullish"
+      ],
+      "text": "German shipping giant Hapag-Lloyd shares rose 5.7%."
+    },
+    {
+      "id": "te:economy:566718",
+      "time": "2026-07-14 15:07:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate",
+        "Importance 3"
+      ],
+      "text": "US Inflation Rate Seen Falling for 1st Time in 4 Months — The annual inflation rate in the US is expected to ease to 3.8% in June 2026 from 4.2% in May, marking its first slowdown in four months after reaching its highest level since April 2023. On a monthly basis, the CPI is forecast to edge down 0.1%, which would be the first decline since May 2020, largely reflecting lower energy prices. Gasoline prices are estimated to have fallen by approximately 9% following the ceasefire between the US and Iran, alleviating inflationary pressures from the energy component. Moderate increases are expected in airfares and rents, while prices for services, particularly hotel and motel accommodations, are likely to rise amid increased demand related to the FIFA World Cup. Motor vehicle insurance prices are also expected to rebound. Meanwhile, core consumer prices likely rose 0.2% for a second consecutive month, leaving the annual core inflation rate unchanged at 2.9%."
+    },
+    {
+      "id": "mkt:019f5f73-55a1-7aab-8d73-2ee3c205c392",
+      "time": "2026-07-14 15:07:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "【China A-shares close: three major indexes surge in afternoon; oil & gas and pharma distributors outperform】China A-shares closed sharply higher after an afternoon rally. Shanghai Composite +1.36%, Shenzhen Component +2.77%, ChiNext +3.43%. Turnover 2.7 tln yuan, down 113.8 bln yuan from the previous session. Oil & gas exploration and services led gains with multiple stocks hitting daily limit-up. Pharmaceutical distributors recovered intraday and recorded several limit-ups. Electronic components stocks rallied in the afternoon with multiple limit-ups. Commercial space-related names extended declines; several securities hit limit-down and a number fell more than 10%."
+    },
+    {
+      "id": "4986330",
+      "time": "2026-07-14 15:06:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率觸及5.038%，創下八週新高。"
+    },
+    {
+      "id": "4986328",
+      "time": "2026-07-14 15:05:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【珞博智慧完成億元級Pre-A輪融資 廣和通聯合領投】近日，AI潮玩品牌珞博智慧（Robopoet）正式宣佈完成億元級Pre-A輪融資，廣和通作為聯合領投方參與本輪融資，進一步深化雙方在AI陪伴硬體、全球連線服務及AI終端落地方面的戰略協同。"
+    },
+    {
+      "id": "4986327",
+      "time": "2026-07-14 15:05:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "道達爾能源公司股價上漲1.9%，位居法國CAC 40指數漲幅榜首。"
+    },
+    {
+      "id": "mkt:019f5f72-0b90-7aab-8d73-2716550367bd",
+      "time": "2026-07-14 15:05:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures extend gains to 2%."
+    },
+    {
+      "id": "mkt:019f5f71-f9a5-7aab-8d73-1d2c06dd59a0",
+      "time": "2026-07-14 15:05:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK two-year bond yield rose to an eight-week high of 4.446%."
+    },
+    {
+      "id": "4986326",
+      "time": "2026-07-14 15:05:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【富時中國A50指數期貨漲2%】富時中國A50指數期貨漲幅擴大至2%。"
+    },
+    {
+      "id": "mkt:019f5f71-cd8d-7aab-8d73-119ab5a058a9",
+      "time": "2026-07-14 15:05:21",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports NVIDIA (NVDA.O) will partner with Mitsubishi Heavy Industries on AI data-center technology."
+    },
+    {
+      "id": "4986325",
+      "time": "2026-07-14 15:05:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "赫伯羅特股價上漲4.8%，此前該公司上調了其全年EBITDA預期。"
+    },
+    {
+      "id": "4986324",
+      "time": "2026-07-14 15:04:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌將Chrome的Gemini人工智慧功能拓展至英國桌面端使用者，iOS端將於下月推出。"
+    },
+    {
+      "id": "4986323",
+      "time": "2026-07-14 15:04:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "愛立信股價下跌9.1%，此前該公司發出網路利潤率承壓警告。"
+    },
+    {
+      "id": "4986322",
+      "time": "2026-07-14 15:04:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【荷蘭國際：特朗普推出霍爾木茲海峽通行費，霍爾木茲海峽海運成本或將翻倍】特朗普週一稱，美國將對所有經該海峽運輸的貨物收取 20%的費用，以此彌補為航道船隻提供軍事護航產生的開支。航運企業經營者與物流領域專家表示，特朗普計劃對途經霍爾木茲海峽的船隻徵收通行費，此舉將大幅抬升這條關鍵航道的原油及其他貨物運輸成本。荷蘭國際集團研究院物流高階經濟師里科・盧曼表示，油輪公司將原油從波斯灣運往歐洲的運費約為每桶 10 美元。當前原油價格約每桶 80 美元，以此計算，特朗普提出的通行費會讓每桶原油的海峽運輸成本再增加 16 美元，整體運費將達到每桶 26 美元。一艘可裝載 200 萬桶原油的大型油輪，僅這筆通行費就會增加超 3000 萬美元成本。石油進口商極有可能將部分成本轉嫁給終端消費者。"
+    },
+    {
+      "id": "4986321",
+      "time": "2026-07-14 15:04:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【魯比奧：美國將採取一切可用手段在必要時“逐步瓦解”國際刑事法院】據美國有線電視新聞網7月13日報道，美國國務卿魯比奧稱，美國將採取一切手段“瓦解”國際刑事法院，因為該機構“敵視美國”。據報道，魯比奧在一篇評論文章中稱，國際刑事法院“不是用子彈或導彈，而是用所謂國際法的力量，對美國發動戰爭”。“美國從未同意設立一個可以凌駕於我們自己法院和憲法之上的國際法庭。”“我們將採取政府所能掌握的一切可用手段，與所有能夠達成共識的盟友合作，在必要時逐步瓦解國際刑事法院。”魯比奧說。他表示，這些手段包括旅行禁令、吊銷簽證和加大制裁力度。此前，美國政府對國際刑事法院九名工作人員實施了制裁，原因是他們參與調查美國軍隊涉嫌在阿富汗和以色列在加沙地帶犯下的戰爭罪行。（環球網）"
+    },
+    {
+      "id": "mkt:019f5f71-1658-7aab-8d73-0a590ded525e",
+      "time": "2026-07-14 15:04:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Disaster Reduction and Relief C.BANK activates national level-4 emergency response for Liaoning floods】China's National Disaster Reduction and Relief C.BANK on July 14 activated a national level-4 emergency response for heavy rain and flooding in Liaoning province, dispatching a team to the disaster zone to assess damage and assist local authorities with basic living support for affected residents."
+    },
+    {
+      "id": "4986320",
+      "time": "2026-07-14 15:04:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利銀行業指數早盤下跌0.9%。"
+    },
+    {
+      "id": "4986319",
+      "time": "2026-07-14 15:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家防災減災救災委員會啟動國家四級救災應急響應】按照《國家自然災害救助應急預案》，7月14日，國家防災減災救災委員會針對遼寧省暴雨洪澇災害，啟動國家四級救災應急響應，派出工作組赴災區實地檢視災情，指導和協助地方做好受災群眾基本生活保障等救災救助工作。（央視新聞）"
+    },
+    {
+      "id": "4986318",
+      "time": "2026-07-14 15:03:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國漢莎航空與途易股價下跌約3%。"
+    },
     {
       "id": "4986317",
       "time": "2026-07-14 15:03:08",
@@ -138,6 +341,14 @@
         "焦點"
       ],
       "text": "A股收盤，上證指數漲1.36%，深證成指漲2.77%，創業板指漲3.43%。"
+    },
+    {
+      "id": "4986307",
+      "time": "2026-07-14 15:01:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖北農業發展集團有限公司原總經理陳華志接受審查調查】中央紀委國家監委網站7月14日通報，據湖北省紀委監委訊息：湖北農業發展集團有限公司原黨委副書記、總經理陳華志涉嫌嚴重違紀違法，目前正接受湖北省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "mkt:019f5f6d-9a63-7aab-8d72-d9347eecde2d",
