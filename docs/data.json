@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-15 01:23:00",
-  "count": 18784,
+  "updated": "2026-07-15 01:26:57",
+  "count": 18789,
   "items": [
+    {
+      "id": "4988347",
+      "time": "2026-07-15 01:26:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：如果未來幾個月都能保持當前這種形勢，我會感覺更樂觀。"
+    },
+    {
+      "id": "mkt:019f61aa-34ce-7aab-8d86-e52c8e000994",
+      "time": "2026-07-15 01:26:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor GOOLSBEE said he would feel more comfortable if CPI readings remain low over the next few months."
+    },
+    {
+      "id": "mkt:019f61a9-e128-7aab-8d86-d85a0b982052",
+      "time": "2026-07-15 01:25:50",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Goolsbee said June CPI was very strong but he does not want to overreact to a single month's reading."
+    },
+    {
+      "id": "4988346",
+      "time": "2026-07-15 01:25:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：這一點很不錯，但永遠不要對單月資料反應過度。"
+    },
+    {
+      "id": "mkt:019f61a9-6165-7aab-8d86-d47303f95e02",
+      "time": "2026-07-15 01:25:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve's GOOLSBEE said June CPI inf was unexpectedly moderate."
+    },
+    {
+      "id": "4988345",
+      "time": "2026-07-15 01:24:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：6月消費者物價指數通脹資料意外溫和。"
+    },
+    {
+      "id": "mkt:019f61a8-fee5-7aab-8d86-cb114c60e679",
+      "time": "2026-07-15 01:24:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple in talks with AI startup to run large models on iPhone】CNBC reports Apple has held preliminary talks with AI startup PrismML to assess model-compression tech that would let large AI models run on iPhones without cloud compute. PrismML says it can reduce model memory footprint 10–15x, enabling a 27 billion-parameter model to run on iPhone 15 and later, with 6–8x faster response and 3–6x lower energy use. If validated at scale, Apple could shift more Siri and generative-AI functions on‑device, improving latency, privacy, offline use and cutting cloud costs; real-world impacts on battery life, stability and long-term performance remain untested."
+    },
+    {
+      "id": "4988344",
+      "time": "2026-07-15 01:22:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部表示已拉響防空警報，呼籲本國公民與居民保持冷靜，並前往就近安全場所避險。"
+    },
+    {
+      "id": "4988343",
+      "time": "2026-07-15 01:22:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUCID股票恢復交易；目前下跌39%。"
+    },
     {
       "id": "4988342",
       "time": "2026-07-15 01:20:34",
@@ -171865,50 +171965,6 @@
         "MKT News"
       ],
       "text": "According to the Daily Mirror, the governing Labour Party will not contest the Clacton by-election triggered by Reform UK leader Nigel Farage."
-    },
-    {
-      "id": "4974824",
-      "time": "2026-07-08 01:25:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮： 俄羅斯僅在自身生存受到威脅時，才準備動用核武器。俄羅斯絕不會挑起第三次世界大戰，但會採取一切必要措施保障自身安全。"
-    },
-    {
-      "id": "mkt:019f3d9c-c881-7aab-8cd3-e2edad35c98d",
-      "time": "2026-07-08 01:25:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Kremlin says Russia will never start a third world war but will take all necessary measures to ensure its security."
-    },
-    {
-      "id": "mkt:019f3d9c-9452-7aab-8cd3-da1505dd51e6",
-      "time": "2026-07-08 01:24:59",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Kremlin says Russia would be prepared to use nuclear weapons only if its survival is threatened."
-    },
-    {
-      "id": "mkt:019f3d9c-9420-7aab-8cd3-d31b758f984c",
-      "time": "2026-07-08 01:24:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Jordan's Foreign Ministry condemned Iran for an attack on a Qatari tanker transiting the Strait of Hormuz."
     }
   ]
 }
