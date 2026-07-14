@@ -1,7 +1,27 @@
 {
   "date": "2026-07-15",
-  "count": 560,
+  "count": 562,
   "items": [
+    {
+      "id": "4988522",
+      "time": "2026-07-15 05:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國會眾議院透過永久實行夏令時法案】當地時間7月14日，美國國會眾議院投票透過永久實行夏令時的法案，並將法案提交參議院審議。今年5月，美國國會眾議院能源和商業委員會以48比1的結果透過了《陽光保護法案》，該法案旨在永久取消美國每年兩次調整時間的做法，讓夏令時全年永久化。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6289-e143-7aab-8d8a-9ded3c93759d",
+      "time": "2026-07-15 05:30:30",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran first vice president says US breach of commitments was expected】Iran's first vice president Aref said, \"The U.S. breaching its commitments was to be expected. The U.S. tore up recently signed documents, showing its words cannot be trusted.\""
+    },
     {
       "id": "4988521",
       "time": "2026-07-15 05:27:54",
