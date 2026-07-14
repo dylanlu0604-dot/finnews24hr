@@ -1,7 +1,255 @@
 {
-  "updated": "2026-07-15 00:11:53",
-  "count": 18651,
+  "updated": "2026-07-15 00:15:53",
+  "count": 18672,
   "items": [
+    {
+      "id": "mkt:019f6169-29b0-7aab-8d84-d30f3a72c503",
+      "time": "2026-07-15 00:15:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said he had given Iran an opportunity to reach an agreement."
+    },
+    {
+      "id": "mkt:019f6169-2305-7aab-8d84-cafe064b82f9",
+      "time": "2026-07-15 00:15:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair KEVIN WARSH said an intense near-term debate is likely over the timing and extent of deploying policy tools to achieve price stability."
+    },
+    {
+      "id": "mkt:019f6168-f5af-7aab-8d84-c258de06d919",
+      "time": "2026-07-15 00:14:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "US President Trump said Iran fired first and called it a big mistake."
+    },
+    {
+      "id": "4988237",
+      "time": "2026-07-15 00:14:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：巴塞爾協議的最終方案並非美國的最終訴求。"
+    },
+    {
+      "id": "mkt:019f6168-d5df-7aab-8d84-be6cdcdacf5c",
+      "time": "2026-07-15 00:14:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraqi Prime Minister al-Zaidi said on OPEC that Iraq needs to secure a fair share."
+    },
+    {
+      "id": "4988236",
+      "time": "2026-07-15 00:14:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧帶來的供給衝擊來得比我預想的更快。"
+    },
+    {
+      "id": "4988235",
+      "time": "2026-07-15 00:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗制裁豁免政策：我對此毫不後悔。"
+    },
+    {
+      "id": "4988234",
+      "time": "2026-07-15 00:13:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "監管機構稱，奈及利亞養老金資產暴漲51%，至228億美元。"
+    },
+    {
+      "id": "mkt:019f6167-fedf-7aab-8d84-b38a2b9898c5",
+      "time": "2026-07-15 00:13:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media reported explosions heard in Andimeshk, Khuzestan province, southern Iran."
+    },
+    {
+      "id": "4988233",
+      "time": "2026-07-15 00:13:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：未來一段時間，我們會就動用工具實現物價穩定的必要性規模與時機展開一番激烈的內部爭論。"
+    },
+    {
+      "id": "mkt:019f6167-9bde-7aab-8d84-aab94f207554",
+      "time": "2026-07-15 00:13:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed aims to achieve price stability and has the tools to do so."
+    },
+    {
+      "id": "mkt:019f6167-8565-7aab-8d84-a2fc3e476212",
+      "time": "2026-07-15 00:13:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said higher inf is unacceptable."
+    },
+    {
+      "id": "4988231",
+      "time": "2026-07-15 00:13:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們有意實現價格穩定，我們也具備所需政策工具。"
+    },
+    {
+      "id": "mkt:019f6167-5cf8-7aab-8d84-9f4b800ef5ff",
+      "time": "2026-07-15 00:13:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh, asked how to achieve price stability, said the Fed will not abandon its commitment to price stability."
+    },
+    {
+      "id": "4988230",
+      "time": "2026-07-15 00:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克總理扎伊迪就歐佩克表態：我們需要為伊拉克爭取公平份額。"
+    },
+    {
+      "id": "4988229",
+      "time": "2026-07-15 00:12:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及格雷厄姆參議員離世一事：我真希望他當初能多保重身體，但他身上出現的病症實際上極難提前察覺。"
+    },
+    {
+      "id": "mkt:019f6166-c8d2-7aab-8d84-9263ca5cd9f7",
+      "time": "2026-07-15 00:12:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chair Kevin Warsh said any agreement with international counterparts must serve the U.S. economy."
+    },
+    {
+      "id": "4988228",
+      "time": "2026-07-15 00:12:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：安迪梅什克地區傳來爆炸聲。"
+    },
+    {
+      "id": "te:markets:566889",
+      "time": "2026-07-15 00:12:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.10% Higher — The FTSE MIB Index gained 53 points or 0.10 percent on Tuesday to close at 52863 points. Gains were led by Prysmian (3.09%), Fincantieri (2.66%) and Avio (2.04%). Biggest losers were Infrastrutture Wire (-2.99%), Davide Campari-Milano (-1.60%) and Brunello Cucinelli (-1.46%)."
+    },
+    {
+      "id": "mkt:019f6166-5635-7aab-8d84-88c1b70f369f",
+      "time": "2026-07-15 00:12:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said the U.S. needs a highly competitive, diversified banking system."
+    },
+    {
+      "id": "4988227",
+      "time": "2026-07-15 00:12:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們與國際同行達成的任何協議都必須服務於美國經濟。"
+    },
+    {
+      "id": "4988226",
+      "time": "2026-07-15 00:11:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普被問及伊拉克是否退出歐佩克時表示：我支援伊拉克總理。"
+    },
+    {
+      "id": "4988225",
+      "time": "2026-07-15 00:11:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們需要一個極具競爭力、多元化的銀行體系。"
+    },
+    {
+      "id": "mkt:019f6165-d40d-7aab-8d84-80e7c3fc0a72",
+      "time": "2026-07-15 00:11:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he does not like the idea of charging fees for use of the Strait of Hormuz."
+    },
+    {
+      "id": "4988224",
+      "time": "2026-07-15 00:11:26",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛執行長聲稱，（美國）經濟具備“出色的靈活應變能力”，能夠在遭遇衝擊後自行調整。"
+    },
     {
       "id": "te:markets:566888",
       "time": "2026-07-15 00:11:18",
@@ -170561,46 +170809,6 @@
         "國際"
       ],
       "text": "克里姆林宮：我們最終將走向與歐洲開展對話。"
-    },
-    {
-      "id": "te:markets:564951",
-      "time": "2026-07-08 00:14:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Falls on Tech Sell-Off — The FTSE MIB fell 1% to close at 52,455 on Tuesday, pressured by AI-related stocks amid renewed overspending concerns. STMicroelectronics tumbled 8.1% as semiconductor shares came under pressure following a broad sell-off in the tech sector, despite Samsung reporting a 19-fold increase in second-quarter operating profit. Prysmian also posted steep losses, falling 6.6%, while automaker Stellantis slipped 0.8%. Renewed geopolitical tensions weighed on financial stocks, led by Banca Mediolanum (-1.2%) and Mediobanca (-0.8%), and asset manager Azimut falling 1.9%. Insurers also traded lower, with Unipol dropping 3% and Generali easing 1.1%. Meanwhile, Leonardo reversed the previous session's gains to fall 1.8%, despite expectations that defence spending will increase following the NATO summit, while Fincantieri led gains at 3%. Energy stocks outperformed amid rising demand due to high temperatures, with Hera up 1%."
-    },
-    {
-      "id": "4974789",
-      "time": "2026-07-08 00:13:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【24小時內三艘船隻被通報在霍爾木茲海峽遇襲】英國海上貿易行動辦公室7日釋出通報說，又有一艘油輪當天透過霍爾木茲海峽時遭無人機襲擊。這是該機構24小時內通報的第三起該海域船隻遇襲事件。通報顯示，遇襲油輪被一架身份不明的無人機擊中，船體出現輕微結構性損傷。目前未報告人員傷亡或環境汙染情況，船隻仍保持航行狀態，並繼續駛往下一停靠港。（新華社）"
-    },
-    {
-      "id": "4974788",
-      "time": "2026-07-08 00:12:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "貿易訊息人士稱：受需求疲軟拖累，銷往印度市場的俄羅斯烏拉爾原油相對布倫特原油貼水擴大至每桶 10 美元以上。"
-    },
-    {
-      "id": "te:markets:564950",
-      "time": "2026-07-08 00:12:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.95% Lower — The FTSE MIB Index dropped 504 points or 0.95 percent on Tuesday to close at 52455 points. Losses were led by STMicroelectronics (-7.93%), Prysmian (-7.00%) and Diasorin (-4.50%). Offsetting the fall, top gainers were Fincantieri (2.96%), Davide Campari-Milano (2.91%) and Hera (1.01%)."
     }
   ]
 }
