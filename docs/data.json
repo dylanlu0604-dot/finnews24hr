@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-14 08:50:00",
-  "count": 17332,
+  "updated": "2026-07-14 08:53:51",
+  "count": 17339,
   "items": [
+    {
+      "id": "mkt:019f5e1c-ea50-7aab-8d67-5682ed4a91a9",
+      "time": "2026-07-14 08:53:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister KATAYAMA said the US-Japan joint statement on the Government Pension Investment Fund (GPIF) remains unchanged."
+    },
+    {
+      "id": "4985596",
+      "time": "2026-07-14 08:52:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本厚生勞動大臣上野賢一郎：如果需要，將對日本政府養老投資基金（GPIF）的投資組合進行調整。GPIF原則上基於基本投資組合獲取收益。GPIF是為了被保險人的利益進行投資。"
+    },
+    {
+      "id": "mkt:019f5e1c-48d6-7aab-8d67-4d9dbd224ded",
+      "time": "2026-07-14 08:52:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KATAYAMA, Japan's finance minister, said she hopes to present concrete details as soon as possible on measures to enhance the attractiveness of Japanese government bonds (JGBs)."
+    },
+    {
+      "id": "mkt:019f5e1c-29c2-7aab-8d67-439fd83d6774",
+      "time": "2026-07-14 08:52:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "NZD/USD intraday gain widened to 0.50%, trading at 0.5777."
+    },
+    {
+      "id": "mkt:019f5e1b-7009-7aab-8d67-3b20f4fbf041",
+      "time": "2026-07-14 08:51:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said that as the government advances its growth strategy, the attractiveness of Japanese assets will increase."
+    },
+    {
+      "id": "4985595",
+      "time": "2026-07-14 08:51:12",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率下跌0.5個基點，至3.740%。"
+    },
+    {
+      "id": "4985594",
+      "time": "2026-07-14 08:51:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：隨著政府推行增長戰略，日本資產的吸引力將會增強。"
+    },
+    {
+      "id": "4985593",
+      "time": "2026-07-14 08:50:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀與Sierra達成合作，在日本推出人工智慧客服服務】軟銀集團與Sierra建立戰略合作伙伴關係，將在日本市場推出由智慧AI代理驅動的客戶服務方案。自7月14日起，軟銀成為Sierra在日本的獨家合作方。軟銀旗下線上手機品牌Linemo已接入Sierra相關技術；公司計劃後續將該技術應用於軟銀、Y!mobile等自有品牌及集團其他業務線。"
+    },
     {
       "id": "mkt:019f5e19-9b16-7aab-8d67-35da6ed2b09b",
       "time": "2026-07-14 08:49:24",
@@ -158494,14 +158571,6 @@
         "國際"
       ],
       "text": "美國阿克西奧斯新聞網站6日援引一名美國官員的話報道說，伊朗伊斯蘭革命衛隊向數艘透過霍爾木茲海峽的商船發射了至少兩枚導彈。兩艘商船被擊中且受損嚴重，無人員傷亡。（新華社）"
-    },
-    {
-      "id": "4973175",
-      "time": "2026-07-07 08:53:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普證實曾要求國際足聯主席複核對美國球員的停賽處罰】美國總統特朗普證實，他曾致電國際足聯(FIFA)主席詹尼.因凡蒂諾(Gianni Infantino)，要求他複核對美國隊前鋒弗拉林.巴洛貢(Folarin Balogun)停賽一場的處罰。特朗普此舉在全世界球迷中引發了軒然大波。“我所做的只是要求複核。我不認為那是犯規，”特朗普當地時間週一在白宮橢圓形辦公室對記者說。談到因凡蒂諾時，他補充道：“我不能告訴他該怎麼做。”國際足聯週日宣佈撤銷停賽處罰，允許美國隊頭號射手巴洛貢出戰週一美國對陣比利時的16強比賽，這場比賽備受矚目。"
     }
   ]
 }
