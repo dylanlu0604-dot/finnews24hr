@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-15 05:52:01",
-  "count": 18776,
+  "updated": "2026-07-15 05:55:56",
+  "count": 18774,
   "items": [
+    {
+      "id": "4988526",
+      "time": "2026-07-15 05:55:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息，霍爾木茲甘省東部及西里克海域傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019f629e-d416-7aab-8d8a-cdc00fa2328e",
+      "time": "2026-07-15 05:53:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Warren Buffett will be interviewed on CNBC at 6:00 a.m. ET on Wednesday (6:00 p.m. Beijing time Wednesday)."
+    },
     {
       "id": "mkt:019f629b-0635-7aab-8d8a-c70228473cb2",
       "time": "2026-07-15 05:49:14",
@@ -171877,48 +171893,6 @@
         "Impact bearish"
       ],
       "text": "Ukrainian armed forces said Kyiv was hit by missile strikes."
-    },
-    {
-      "id": "4975029",
-      "time": "2026-07-08 05:54:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【41家機構參與，香港黃金中央清算系統試運營】7月7日上午，中國香港特區行政長官李家超在香港固定收益及貨幣峰會暨債券通論壇宣佈，香港黃金中央清算及結算系統今日開始試運營，首筆黃金交易結算已完成。據中國香港財經事務及庫務局（“香港財庫局”）官網訊息，隨著試運營開展，首批黃金已成功存入指定倉庫，首批交易及結算活動亦已完成。試運營獲主要市場參與者大力支援，當中包括銀行及金融機構、金礦公司、精煉商、珠寶商和機構參與者。香港財庫局釋出了參與試運營的主要市場參與者名單，包括18家銀行、9家證券公司、4家礦業公司、5家精煉廠、4家珠寶商以及1家科技公司。"
-    },
-    {
-      "id": "mkt:019f3e93-93ac-7aab-8cd7-91e8419290d2",
-      "time": "2026-07-08 05:54:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Plane carrying the body of Iran's late Supreme Leader Khamenei arrives in Iraq】On July 7 local time Iranian President Pezeshkian and his delegation arrived in Najaf and a plane carrying the body of Iran's late Supreme Leader Khamenei also landed in Iraq. Official schedule sets a burial service in Qom on July 7; at the request of Iraqi figures, funeral rites will be held in the Shiite holy cities of Najaf and Karbala on July 8; interment is scheduled in Mashhad, Khamenei's birthplace, on July 9."
-    },
-    {
-      "id": "4975028",
-      "time": "2026-07-08 05:54:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：美方襲擊嚴重違反諒解備忘錄】據伊朗伊斯蘭共和國廣播電視臺8日凌晨報道，伊朗政府表示，美國對伊朗的襲擊嚴重違反伊美伊斯蘭堡諒解備忘錄。（新華社）"
-    },
-    {
-      "id": "mkt:019f3e91-e7a8-7aab-8cd7-8d79bb7002de",
-      "time": "2026-07-08 05:52:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's Foreign Ministry condemned Iran's attack on a Saudi tanker transiting the Strait of Hormuz."
     }
   ]
 }

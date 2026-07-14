@@ -1,7 +1,23 @@
 {
   "date": "2026-07-15",
-  "count": 570,
+  "count": 572,
   "items": [
+    {
+      "id": "4988526",
+      "time": "2026-07-15 05:55:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社訊息，霍爾木茲甘省東部及西里克海域傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019f629e-d416-7aab-8d8a-cdc00fa2328e",
+      "time": "2026-07-15 05:53:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Warren Buffett will be interviewed on CNBC at 6:00 a.m. ET on Wednesday (6:00 p.m. Beijing time Wednesday)."
+    },
     {
       "id": "mkt:019f629b-0635-7aab-8d8a-c70228473cb2",
       "time": "2026-07-15 05:49:14",
