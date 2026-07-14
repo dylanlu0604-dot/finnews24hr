@@ -1,7 +1,106 @@
 {
   "date": "2026-07-14",
-  "count": 1513,
+  "count": 1524,
   "items": [
+    {
+      "id": "mkt:019f5f1c-179d-7aab-8d70-1cd884101ea1",
+      "time": "2026-07-14 13:31:44",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 20-year bond yield fell 12.5 bps to 3.620%."
+    },
+    {
+      "id": "4986132",
+      "time": "2026-07-14 13:31:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數剛剛突破67800.00關口，最新報67800.18，日內漲0.83%"
+    },
+    {
+      "id": "4986131",
+      "time": "2026-07-14 13:31:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.10%，成分股中，則成電子漲29.97%，科力股份漲14.52%，戈碧迦漲9.32%，國航遠洋漲9.11%。"
+    },
+    {
+      "id": "4986130",
+      "time": "2026-07-14 13:30:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1335億元。"
+    },
+    {
+      "id": "4986129",
+      "time": "2026-07-14 13:30:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.00%，成分股中，生益電子漲13.09%，源傑科技漲11.94%，瀾起科技漲6.02%，佰維儲存漲5.45%。"
+    },
+    {
+      "id": "mkt:019f5f1a-d998-7aab-8d70-13395defcc85",
+      "time": "2026-07-14 13:30:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lula calls Trump plan for 20% Strait of Hormuz toll 'pirate behavior'】Brazilian President Lula on July 13 in São Paulo criticized U.S. President Trump’s proposal to impose a 20% fee on shipments transiting the Strait of Hormuz, calling the measure \"pirate behavior\" and saying a country long fighting piracy cannot become a pirate itself."
+    },
+    {
+      "id": "4986128",
+      "time": "2026-07-14 13:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報8131.40點。"
+    },
+    {
+      "id": "4986127",
+      "time": "2026-07-14 13:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4692.40點。"
+    },
+    {
+      "id": "4986126",
+      "time": "2026-07-14 13:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7780.40點。"
+    },
+    {
+      "id": "mkt:019f5f1a-850e-7aab-8d70-09b26cfe7c3e",
+      "time": "2026-07-14 13:30:01",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share electronic-chemicals sector rose in the afternoon; Honghe Technology hit the daily limit-up, while Tiancheng Technology, Xingfu Electronics, Fangbang Co., Huate Gas and Lite Optoelectronics also advanced."
+    },
+    {
+      "id": "4986125",
+      "time": "2026-07-14 13:28:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【科技股反彈，MLCC、PCB概念等漲幅居前】科技股反彈，MLCC、PCB概念、複合銅箔、CPO概念等漲幅居前。個股方面，博傑股份、滬電股份、金安國紀等一批個股漲停。"
+    },
     {
       "id": "mkt:019f5f18-6d19-7aab-8d70-04d3f592b69e",
       "time": "2026-07-14 13:27:43",
