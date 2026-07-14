@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-14 08:30:47",
+  "updated": "2026-07-14 08:34:36",
   "count": 17319,
   "items": [
+    {
+      "id": "te:economy:566543",
+      "time": "2026-07-14 08:32:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Business Confidence",
+        "Importance 0"
+      ],
+      "text": "Brazil Industrial Confidence Weakest Since 2020 — Brazil’s Industrial Business Confidence Index fell 2.3 points to 44.4 in July 2026 from the previous month, marking its second consecutive decline and the 19th consecutive reading below the 50-point threshold, according to the National Confederation of Industry (CNI). The reading was also the lowest since June 2020, reflecting more widespread pessimism among manufacturers. The Current Conditions Index slipped 0.7 point to 41.6, as assessments of the Brazilian economy fell 1.3 points to 34.7 and firms’ own conditions declined 0.3 point to 45.1, indicating businesses continued to view conditions as worse than six months earlier. Meanwhile, the Expectations Index dropped 3.1 points to 45.8, its steepest decline since November 2022. Expectations for the Brazilian economy fell 3.8 points to 37.2, while firms’ own outlook weakened 2.7 points to 50.1, nearly eliminating the optimism recorded in previous months."
+    },
+    {
+      "id": "4985567",
+      "time": "2026-07-14 08:31:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億華通交付首套儲能系統】據億華通訊息，近日，億華通正式向客戶交付儲能系統，這也是億華通成立儲能公司以來，交付的首套儲能系統。"
+    },
+    {
+      "id": "4985566",
+      "time": "2026-07-14 08:31:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：仍在進行具體的修改和進度安排，現在還不方便發表評論。"
+    },
+    {
+      "id": "4985565",
+      "time": "2026-07-14 08:31:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：有關內閣決議日期因調整基本政策方針措辭而推遲的說法並不屬實。"
+    },
+    {
+      "id": "mkt:019f5e08-731f-7aab-8d66-fa955be66a25",
+      "time": "2026-07-14 08:30:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia July Westpac-Melbourne consumer confidence index 83.9, prior 80.6."
+    },
+    {
+      "id": "mkt:019f5e08-5c79-7aab-8d66-f61326c3fe3e",
+      "time": "2026-07-14 08:30:33",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (Jul) | actual 83.9 | previous 80.6"
+    },
     {
       "id": "mkt:019f5e07-f5bf-7aab-8d66-e82e817f9253",
       "time": "2026-07-14 08:30:07",
@@ -158349,57 +158403,6 @@
         "市場"
       ],
       "text": "【銀河證券：水泥成本支撐下6月價格小幅反彈 預計7月水泥價格呈低位趨弱執行】中國銀河證券研報表示，6月份受高溫、梅雨等多重因素影響，水泥需求季節性低迷；各區域市場熟料線停窯情況略有差異，隨著淡季來臨，企業加速產能調控，熟料庫容率逐步下降；6月在成本壓力驅動下，各區域市場不同程度嘗試推漲水泥價格，全國水泥均價環比小幅上漲。後續來看，7月需求淡季對價格支撐不足，錯峰生產調控效果邊際減弱，成本端對水泥支撐作用減少，預計7月水泥價格呈低位趨弱執行。"
-    },
-    {
-      "id": "4973159",
-      "time": "2026-07-07 08:34:34",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【穩樓市政策託底顯效 核心城市率先釋放企穩訊號 】《經濟參考報》7月7日刊發文章《2026年中市場觀察丨穩樓市政策託底顯效 核心城市率先釋放企穩訊號》。文章稱，2026年上半年，中央多部委持續出臺系統性穩樓市組合政策，各地因城施策，落地限購最佳化、公積金提額、以舊換新及房貸降息等配套舉措，政策託底效應持續釋放。當前，房地產市場呈現“築底企穩、結構分化、存量主導”的特徵，二手房市場活躍度優於新房，核心城市率先釋放出強勁企穩訊號。在政策紅利與市場需求的雙重驅動下，核心城市新房與二手房市場均展現出極強韌性。"
-    },
-    {
-      "id": "4973158",
-      "time": "2026-07-07 08:33:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：電子布價格每月提漲，高景氣厚增企業業績】中國銀河證券研報表示，電子紗價格每月提漲，粗紗市場整體趨穩。粗紗方面，6月部分地區供應量增加，但對全國市場整體影響有限，多數企業產品結構調整下，庫存壓力尚可；剛需表現一般，整體粗紗需求支撐顯乏力；在供需未見較大波動背景下，6月粗紗企業報價以穩為主。後續來看，預計社會庫存持續低位執行，深加工以訂單量適當補貨為主，但因供應端未見明顯縮減，預計粗紗價格或將承壓。電子紗方面，6月初電子紗/布價格進一步提漲，電子紗供應量小幅增加，但因下游CCL訂單需求進一步增加，市場仍延續供不應求狀態，需求缺口明顯。後續來看，7月初電子紗/布再次提價，當前企業處於零庫存水平，預計行業供需趨緊格局將延續，電子紗/布價格仍存繼續上行預期。"
-    },
-    {
-      "id": "4973157",
-      "time": "2026-07-07 08:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國證監會任命保羅·奈特為營運長】美國證券交易委員會（SEC）當地時間7月6日宣佈，正式任命保羅·奈特（Paul Knight）為該機構的營運長（COO）。奈特將負責監督美國證券交易委員會的運營和行政職能，涵蓋人力資源、財務管理、採購、EDGAR業務、首席資料官及首席風險官辦公室等關鍵核心部門。"
-    },
-    {
-      "id": "4973156",
-      "time": "2026-07-07 08:32:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國通號卡斯柯將攜手迪拜RTA共建軌交實驗室】近日，迪拜道路與交通管理局（RTA）代表團赴華開展技術交流。代表團與中國通號卡斯柯公司就迪拜地鐵藍線在建專案推進事宜開展深度磋商，雙方圍繞中長期技術協同達成多項重要共識。本次交流取得標誌性合作成果，迪拜道路與交通管理局局長、執行董事會主席馬塔爾·阿爾·塔耶爾與卡斯柯公司主要領導共同簽署共建軌道交通聯合實驗室諒解備忘錄。此舉標誌著雙方合作從工程專案共建層面，升級至技術聯合研發、協同創新的戰略協作新階段。"
-    },
-    {
-      "id": "4973155",
-      "time": "2026-07-07 08:31:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國CISA使用Anthropic的Mythos排查政府程式碼漏洞】三位知情人士週一表示，美國網路安全與基礎設施安全域性(CISA)正在使用Anthropic公司的人工智慧(AI)模型Mythos對政府軟體進行審查。這再次表明，在該公司與白宮關係持續緊張之際，政府仍熱衷於採用這家AI初創企業的工具。訊息人士稱，CISA正在利用Mythos掃描政府程式碼庫，以排查可能讓外國間諜和網路犯罪分子有機可乘的漏洞。其中兩位訊息人士稱，審查工作已發現大量漏洞，但未作詳細說明。"
-    },
-    {
-      "id": "4973154",
-      "time": "2026-07-07 08:31:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股指Kospi下跌 三星構成最大拖累】受三星電子股價下跌拖累，韓國股市基準指數KOSPI一度下跌4.1%。儘管這家儲存晶片製造商的利潤飆升了18倍，但其股票依然遭到拋售，分析師稱業績預期之前已被計入股價。三星一度跌6.3%，SK海力士一度跌3.8%。韓華海洋下跌逾20%，此前該公司未能獲得加拿大潛艇交易。"
     }
   ]
 }
