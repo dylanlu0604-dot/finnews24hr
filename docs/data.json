@@ -1,7 +1,241 @@
 {
-  "updated": "2026-07-15 00:07:49",
-  "count": 18632,
+  "updated": "2026-07-15 00:11:53",
+  "count": 18651,
   "items": [
+    {
+      "id": "te:markets:566888",
+      "time": "2026-07-15 00:11:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.13% Higher — The DAX Index went up by 33 points or 0.13 percent on Tuesday to close at 25147 points. The rise was led by Brenntag (2.40%), Siemens Energy (2.28%) and Zalando (1.95%). On the downside, the weakerst performers were Scout24 (-3.71%), Siemens Healthineers (-3.54%) and SAP (-3.08%)."
+    },
+    {
+      "id": "mkt:019f6165-8527-7aab-8d84-7c82041dbbc3",
+      "time": "2026-07-15 00:11:10",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Copper"
+      ],
+      "text": "Goldman Sachs CEO Solomon said capital investment in technology is a trend, not a bubble."
+    },
+    {
+      "id": "mkt:019f6165-58f7-7aab-8d84-76238dcf739a",
+      "time": "2026-07-15 00:10:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "UK Treasury expects that, if the US-Iran conflict escalates further, oil prices could reach $150 per barrel."
+    },
+    {
+      "id": "mkt:019f6165-502d-7aab-8d84-68ad82c37234",
+      "time": "2026-07-15 00:10:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "The UK Treasury expects the Bank of England to raise rates at least once in 2026."
+    },
+    {
+      "id": "4988223",
+      "time": "2026-07-15 00:10:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我不贊成徵收霍爾木茲海峽通行費這一方案。"
+    },
+    {
+      "id": "4988222",
+      "time": "2026-07-15 00:10:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我不認為格雷厄姆的死因有任何“邪惡”之處。"
+    },
+    {
+      "id": "4988221",
+      "time": "2026-07-15 00:10:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海灣國家的投資遠勝於收取運輸費。"
+    },
+    {
+      "id": "4988220",
+      "time": "2026-07-15 00:09:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：（被問及霍爾木茲海峽通行費時）任何人都不應該收費。"
+    },
+    {
+      "id": "mkt:019f6163-fe49-7aab-8d84-60790ad38a02",
+      "time": "2026-07-15 00:09:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he believes no one should charge fees for the strait."
+    },
+    {
+      "id": "4988219",
+      "time": "2026-07-15 00:09:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：多個國家致電我，表示他們願意投資美國，而不是讓美國對霍爾木茲海峽通行收取過路費。"
+    },
+    {
+      "id": "mkt:019f6163-8650-7aab-8d84-5896be246000",
+      "time": "2026-07-15 00:09:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y"
+      ],
+      "text": "U.S. President Trump said several countries have contacted him saying they would rather invest in the United States than pay transit fees for the Strait of Hormuz, and that Gulf states will invest in the U.S., which he said he prefers."
+    },
+    {
+      "id": "4988218",
+      "time": "2026-07-15 00:08:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛執行長表示，將資本配置投資於科技是一種長期趨勢，而非泡沫。"
+    },
+    {
+      "id": "4988217",
+      "time": "2026-07-15 00:08:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海灣國家將對美國進行投資，我認為這再好不過。"
+    },
+    {
+      "id": "4988216",
+      "time": "2026-07-15 00:08:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海灣國家建議投資（美國）而非收費。"
+    },
+    {
+      "id": "4988215",
+      "time": "2026-07-15 00:08:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團首席財務官談及信用卡業務時表示，未來幾個季度該業務的費用增速將高於收入增速。"
+    },
+    {
+      "id": "4988214",
+      "time": "2026-07-15 00:08:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在釋出有關（霍爾木茲海峽）費用的帖子後，海灣國家聯絡了我。"
+    },
+    {
+      "id": "mkt:019f6162-a33e-7aab-8d84-51d8fe7251ac",
+      "time": "2026-07-15 00:08:01",
+      "tags": [
+        "MKT News",
+        "GS.O",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs CEO David Solomon said the firm is in a \"very advantageous\" position and can seize opportunities presented by the current environment."
+    },
+    {
+      "id": "4988213",
+      "time": "2026-07-15 00:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：要求海灣國家以不同的方式繳納霍爾木茲海峽費用。"
+    },
+    {
+      "id": "4988212",
+      "time": "2026-07-15 00:07:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：與賽普里斯克裡克能源公司及密西西比縣社群成員合作，打造更清潔、更穩固的能源未來。"
+    },
+    {
+      "id": "4988211",
+      "time": "2026-07-15 00:07:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：斯蒂爾河專案將創造700個就業崗位，帶來3億美元稅收收入。"
+    },
+    {
+      "id": "te:markets:566887",
+      "time": "2026-07-15 00:07:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.20% Higher — The FTSE 100 Index gained 21 points or 0.20 percent on Tuesday to close at 10520 points. Gains were led by Airtel Africa (3.37%), Glencore (3.21%) and Rio Tinto (3.04%). Biggest losers were Pearson (-6.68%), Smith & Nephew (-3.64%) and Intercontinental Hotels (-3.60%)."
+    },
+    {
+      "id": "4988210",
+      "time": "2026-07-15 00:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 伊朗如今的軍事實力僅為四個月前的一小部分。 因此伊拉克不會再受伊朗問題困擾。"
+    },
+    {
+      "id": "mkt:019f6161-9038-7aab-8d84-4d34bf2f0680",
+      "time": "2026-07-15 00:06:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O) said it will roll out an English-language AI image-generation overview to all regions that support AI image generation over the coming weeks."
+    },
+    {
+      "id": "mkt:019f6161-8252-7aab-8d84-44d579ca7e27",
+      "time": "2026-07-15 00:06:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said oil companies are moving into Iraq and that the U.S. has good relations with Iraq."
+    },
     {
       "id": "4988209",
       "time": "2026-07-15 00:06:15",
@@ -170367,61 +170601,6 @@
         "Importance 1"
       ],
       "text": "The FTSE MIB Index Closes 0.95% Lower — The FTSE MIB Index dropped 504 points or 0.95 percent on Tuesday to close at 52455 points. Losses were led by STMicroelectronics (-7.93%), Prysmian (-7.00%) and Diasorin (-4.50%). Offsetting the fall, top gainers were Fincantieri (2.96%), Davide Campari-Milano (2.91%) and Hera (1.01%)."
-    },
-    {
-      "id": "te:markets:564949",
-      "time": "2026-07-08 00:11:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 1.37% Lower — The DAX Index decreased 353 points or 1.37 percent on Tuesday to close at 25465 points. The decline was led by Siemens Energy (-8.88%), Infineon (-8.31%) and Siemens (-4.57%)."
-    },
-    {
-      "id": "te:markets:564946",
-      "time": "2026-07-08 00:10:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.31% Lower — The CAC 40 Index fell 26 points or 0.31 percent on Tuesday to close at 8454 points. Leading the losses are STMicroelectronics (-8.39%), Schneider Electric (-3.52%) and Safran (-2.81%). Top gainers were Pernod Ricard (5.36%), Carrefour (3.71%) and L'Oréal (2.98%)."
-    },
-    {
-      "id": "4974787",
-      "time": "2026-07-08 00:09:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所阿拉比卡咖啡期貨（程式碼 KCc2）大跌 9%，報每磅 3.1850 美元。"
-    },
-    {
-      "id": "te:markets:564940",
-      "time": "2026-07-08 00:09:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Index Edges Up — The dollar index edged higher toward the 101 mark on Tuesday after posting small losses in the previous two sessions, showing only a modest reaction to another increase in oil prices. Oil gained after reports that vessels had been attacked near the Strait of Hormuz, highlighting the fragile security situation in the Middle East and the potential risks to global energy supplies. The rise in oil prices revived inflation concerns and prompted traders to modestly increase bets on additional Fed rate hikes this year. Market-implied odds of a rate increase as early as September climbed to around 58%, up from 56% a day earlier. Investors are now awaiting the release of the FOMC meeting minutes on Wednesday for further clues about the Fed's policy outlook, following the central bank's more hawkish stance at its June meeting. The dollar posted modest gains against most major currencies but remained slightly weaker against the yen."
-    },
-    {
-      "id": "4974786",
-      "time": "2026-07-08 00:08:37",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛稱重資產類股下一輪漲勢將由盈利推動 料進一步跑贏輕資產類股】高盛集團策略師表示，資本密集型公司本財報季可能公佈穩健業績，進一步跑贏那些更依賴人力或數字資產的同行。“隨著實物資產、基礎設施和工業產能重拾戰略重要性，投資者對此佈局仍然不足，”Guillaume Jaisson等人表示。他們指的是“HALO”類公司，即重資產、低淘汰風險公司。一籃子歐洲資本密集型行業股票今年已上漲15%，其中包括公用事業和能源。另一方面，追蹤輕資產股票的指數下跌2%，因投資者對人工智慧相關高估值持懷疑態度。高盛策略師表示，盈利預估也反映出類似分化，重資本股票今年以來盈利預期上修幅度最大。"
     }
   ]
 }
