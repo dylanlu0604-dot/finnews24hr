@@ -1,7 +1,59 @@
 {
   "date": "2026-07-15",
-  "count": 563,
+  "count": 568,
   "items": [
+    {
+      "id": "mkt:019f6299-3b0a-7aab-8d8a-b98562a68268",
+      "time": "2026-07-15 05:47:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Explosion sounds reported on Iran's Hengam Island and Bandar Abbas port】Early on the 15th local time, sounds of explosions were reported on Hengam Island and again at Bandar Abbas port in southern Iran."
+    },
+    {
+      "id": "mkt:019f6296-a0ee-7aab-8d8a-b42f20704fb6",
+      "time": "2026-07-15 05:44:26",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Tasnim News reports Iran's military said drone operations against U.S. bases in the region will continue until \"final victory\"."
+    },
+    {
+      "id": "mkt:019f6296-89c6-7aab-8d8a-ae7a93c8aee1",
+      "time": "2026-07-15 05:44:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS: Iran's military said it launched unmanned aerial vehicles to strike US F-18 positions, personnel accommodation and equipment warehouses at the Al Azraq base in Jordan. It said it had previously carried out six rounds of strikes on US bases in the region."
+    },
+    {
+      "id": "4988524",
+      "time": "2026-07-15 05:44:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗亨賈姆島及阿巴斯港傳出爆炸聲】總檯記者當地時間15日凌晨獲悉，伊朗南部亨賈姆島傳出爆炸聲，阿巴斯港再次傳出爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "4988523",
+      "time": "2026-07-15 05:43:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方：已使用無人機打擊約旦阿茲拉克基地內美軍據點。 針對該地區美軍基地的無人機打擊行動將持續直至取得 “最終勝利”。"
+    },
     {
       "id": "mkt:019f628e-4e7b-7aab-8d8a-a286e5e33bbc",
       "time": "2026-07-15 05:35:21",
