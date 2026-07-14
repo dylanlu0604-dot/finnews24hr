@@ -1,7 +1,93 @@
 {
   "date": "2026-07-15",
-  "count": 645,
+  "count": 654,
   "items": [
+    {
+      "id": "mkt:019f62db-ef47-7aab-8d8b-8c3230d81570",
+      "time": "2026-07-15 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Reuters Tankan manufacturing sentiment index 13 in July, unchanged from previous 13."
+    },
+    {
+      "id": "mkt:019f62db-edf0-7aab-8d8b-83c248207ace",
+      "time": "2026-07-15 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June unemployment rate 2.7%; May 2.8%."
+    },
+    {
+      "id": "mkt:019f62db-cff2-7aab-8d8b-7ada0328d440",
+      "time": "2026-07-15 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Manufacturing Index (Jul) | actual 13 | previous 13"
+    },
+    {
+      "id": "mkt:019f62db-cfe8-7aab-8d8b-75f8bd1d349c",
+      "time": "2026-07-15 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Unemployment Rate (Jun) | actual 2.7% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019f62db-564e-7aab-8d8b-6e0f0be3c00b",
+      "time": "2026-07-15 06:59:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM commander General Cooper said Iranian forces also launched dozens of missiles and drones at neighboring Gulf states."
+    },
+    {
+      "id": "mkt:019f62da-eec6-7aab-8d8b-67d37ec86aba",
+      "time": "2026-07-15 06:59:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM commander Admiral Cooper said that over the past seven days Iran has deliberately attacked multiple civilian vessels in the region, striking seven commercial ships and leaving nearly 10 civilian crew members killed, missing or wounded."
+    },
+    {
+      "id": "mkt:019f62da-8909-7aab-8d8b-5b61d99de74a",
+      "time": "2026-07-15 06:58:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【White House launches 'Golden Eagle' AI cybersecurity initiative】The White House launched the 'Golden Eagle' initiative, a platform to coordinate responses to cybersecurity vulnerabilities, streamline procedures and advance AI innovation. The White House, Treasury Department, Department of Homeland Security and Department of Defense are cooperating on the initiative to prioritize remediation of cyber vulnerabilities."
+    },
+    {
+      "id": "4988578",
+      "time": "2026-07-15 06:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令稱，伊朗蓄意襲擊七艘商船，將平民作為整個地區的攻擊目標。"
+    },
+    {
+      "id": "4988577",
+      "time": "2026-07-15 06:57:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證報：劍指財務造假頑疾，資本市場持續釋放嚴監管訊號】天際股份因涉嫌資訊披露違法違規，於7月13日收到行政處罰事先告知書；ST荃銀、倍輕鬆7月11日公告，因資訊披露違法違規收到行政處罰決定書……這是監管部門從嚴打擊財務造假等資訊披露違法違規行為的最新案例。市場人士認為，隨著打擊和防範上市公司財務造假專項行動深入推進，監管部門依法從嚴從快、全鏈條追訴，行政、民事、刑事多重懲戒同步發力，央地協同持續走深走實，防假打假的合力正在凝聚，“不敢造假、不能造假、不想造假”的市場生態加速形成。"
+    },
     {
       "id": "4988576",
       "time": "2026-07-15 06:56:01",

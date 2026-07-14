@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-15 06:56:48",
-  "count": 18777,
+  "updated": "2026-07-15 07:04:16",
+  "count": 18774,
   "items": [
+    {
+      "id": "mkt:019f62db-ef47-7aab-8d8b-8c3230d81570",
+      "time": "2026-07-15 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan Reuters Tankan manufacturing sentiment index 13 in July, unchanged from previous 13."
+    },
+    {
+      "id": "mkt:019f62db-edf0-7aab-8d8b-83c248207ace",
+      "time": "2026-07-15 07:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June unemployment rate 2.7%; May 2.8%."
+    },
+    {
+      "id": "mkt:019f62db-cff2-7aab-8d8b-7ada0328d440",
+      "time": "2026-07-15 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Manufacturing Index (Jul) | actual 13 | previous 13"
+    },
+    {
+      "id": "mkt:019f62db-cfe8-7aab-8d8b-75f8bd1d349c",
+      "time": "2026-07-15 07:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Unemployment Rate (Jun) | actual 2.7% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019f62db-564e-7aab-8d8b-6e0f0be3c00b",
+      "time": "2026-07-15 06:59:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM commander General Cooper said Iranian forces also launched dozens of missiles and drones at neighboring Gulf states."
+    },
+    {
+      "id": "mkt:019f62da-eec6-7aab-8d8b-67d37ec86aba",
+      "time": "2026-07-15 06:59:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM commander Admiral Cooper said that over the past seven days Iran has deliberately attacked multiple civilian vessels in the region, striking seven commercial ships and leaving nearly 10 civilian crew members killed, missing or wounded."
+    },
+    {
+      "id": "mkt:019f62da-8909-7aab-8d8b-5b61d99de74a",
+      "time": "2026-07-15 06:58:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【White House launches 'Golden Eagle' AI cybersecurity initiative】The White House launched the 'Golden Eagle' initiative, a platform to coordinate responses to cybersecurity vulnerabilities, streamline procedures and advance AI innovation. The White House, Treasury Department, Department of Homeland Security and Department of Defense are cooperating on the initiative to prioritize remediation of cyber vulnerabilities."
+    },
+    {
+      "id": "4988578",
+      "time": "2026-07-15 06:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部司令稱，伊朗蓄意襲擊七艘商船，將平民作為整個地區的攻擊目標。"
+    },
+    {
+      "id": "4988577",
+      "time": "2026-07-15 06:57:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中證報：劍指財務造假頑疾，資本市場持續釋放嚴監管訊號】天際股份因涉嫌資訊披露違法違規，於7月13日收到行政處罰事先告知書；ST荃銀、倍輕鬆7月11日公告，因資訊披露違法違規收到行政處罰決定書……這是監管部門從嚴打擊財務造假等資訊披露違法違規行為的最新案例。市場人士認為，隨著打擊和防範上市公司財務造假專項行動深入推進，監管部門依法從嚴從快、全鏈條追訴，行政、民事、刑事多重懲戒同步發力，央地協同持續走深走實，防假打假的合力正在凝聚，“不敢造假、不能造假、不想造假”的市場生態加速形成。"
+    },
     {
       "id": "4988576",
       "time": "2026-07-15 06:56:01",
@@ -171819,112 +171905,6 @@
         "國際"
       ],
       "text": "據伊朗IRIB：美國中央司令部正在攻擊特朗普四個月前聲稱已經摧毀的目標，所以其中一方在撒謊。"
-    },
-    {
-      "id": "mkt:019f3ed2-7a37-7aab-8cd8-49cac09895e8",
-      "time": "2026-07-08 07:03:28",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Iranian state broadcaster IRIB said CENTCOM is striking targets Trump said he destroyed four months ago, suggesting one side is lying."
-    },
-    {
-      "id": "4975082",
-      "time": "2026-07-08 07:01:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統佩澤希齊揚在美國對伊朗南部地區發動空襲後，已離開伊拉克返回伊朗。"
-    },
-    {
-      "id": "mkt:019f3ed0-6ab9-7aab-8cd8-4226ad982d7d",
-      "time": "2026-07-08 07:01:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state TV reported President Pezeshkian left Iraq and returned to Iran after US airstrikes on southern Iran."
-    },
-    {
-      "id": "mkt:019f3ed0-4d52-7aab-8cd8-3ebf3b396b11",
-      "time": "2026-07-08 07:01:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's current account posted the largest single-month surplus on record in May."
-    },
-    {
-      "id": "4975081",
-      "time": "2026-07-08 07:00:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞政府統計機構資料顯示，截至上月，哥倫比亞年度通脹率為6.14%。"
-    },
-    {
-      "id": "4975080",
-      "time": "2026-07-08 07:00:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國5月經常專案差額錄得有記錄以來最大月度順差。"
-    },
-    {
-      "id": "4975079",
-      "time": "2026-07-08 07:00:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國5月經季節因素調整後經常專案盈餘381.2億美元。"
-    },
-    {
-      "id": "mkt:019f3ecf-6bed-7aab-8cd8-31608aaae044",
-      "time": "2026-07-08 07:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea May current account, not seasonally adjusted (NSA): $38.61 bln. Prior revised from $28.2923 bln to $28.29 bln."
-    },
-    {
-      "id": "mkt:019f3ecf-4ad4-7aab-8cd8-2e91aa9613a5",
-      "time": "2026-07-08 07:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "South Korea | Current Account NSA (May) | actual 38610000000B | previous 28292300000B"
-    },
-    {
-      "id": "mkt:019f3ece-ff81-7aab-8cd8-21d2238aa4ac",
-      "time": "2026-07-08 06:59:40",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Iran state media reported fragments from an \"enemy shell\" at the Sirik commercial port injured several people."
-    },
-    {
-      "id": "4975078",
-      "time": "2026-07-08 06:58:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱，錫裡克商業碼頭遭“敵方炮彈”碎片擊中，造成多人受傷。"
-    },
-    {
-      "id": "4975077",
-      "time": "2026-07-08 06:57:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美襲伊朗規模強度是10天前四五倍】當地時間今天（7月8日）凌晨，伊朗最大島嶼格什姆島及位於波斯灣沿岸的錫裡克、阿巴斯港等多地接連傳出爆炸聲。據伊朗媒體報道，錫裡克的商業碼頭和漁業碼頭“被多枚發射物擊中”，阿巴斯港東部和西部地區傳出爆炸聲。 美軍中央司令部在社交媒體發宣告稱，已開始對伊朗發動一系列強力打擊，“以回應伊朗攻擊三艘途經霍爾木茲海峽的商船”。宣告稱，“伊朗所展現的侵略行徑毫無正當理由、極度危險，且公然違反停火協議。” 據路透社援引一名美國官員的話報道稱，美國此次對伊朗發動的打擊，目標包括伊朗的防空系統、沿海監視系統、地對空導彈、反艦巡航導彈以及無人機發射場。 一名美國官員表示，美國對伊朗發動的本次打擊，其規模和強度是10天前打擊的四五倍。 據美國有線電視新聞網（CNN）報道，一名美國官員表示，美國正在對伊朗境內目標實施的軍事打擊“不是對等回應”，而是對伊朗的“懲罰”，且打擊“不會很快結束”，目的是讓伊朗“付出沉重代價”。（CCTV國際時訊）"
     }
   ]
 }
