@@ -1,7 +1,124 @@
 {
   "date": "2026-07-14",
-  "count": 4013,
+  "count": 4026,
   "items": [
+    {
+      "id": "mkt:019f6117-af50-7aab-8d81-aeda5d424a36",
+      "time": "2026-07-14 22:46:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said 30-year mortgage rates remain elevated due to inflation."
+    },
+    {
+      "id": "4988052",
+      "time": "2026-07-14 22:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國移民與海關執法局（ICE）獲指令，今後將停止絕大多數車輛臨檢行動。"
+    },
+    {
+      "id": "4988051",
+      "time": "2026-07-14 22:45:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【惠達衛浴：出售廣西新高盛股權及相關債權，預計將減少2026年度歸母淨利潤3200萬元】惠達衛浴公告，公司控股子公司北流市新盛達新型材料有限公司擬向北流市聖力華福物流倉儲有限公司轉讓其持有的廣西新高盛薄型建陶有限公司100%的股權，並同步轉讓公司及北流新盛達對廣西新高盛的相關債權。股權轉讓價格為1元，債權轉讓金額為6800萬元，合計6800萬元。本次交易完成後，廣西新高盛將不再納入公司財務報表合併範圍內。經財務初步測算，本次交易預計將減少公司2026年度歸母淨利潤3200萬元左右。"
+    },
+    {
+      "id": "te:markets:566864",
+      "time": "2026-07-14 22:45:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Gains on Cooling US Inflation — The Ibovespa gained more than 0.5% to trade near 177,000 on Tuesday, recovering from the previous session's losses after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with Itaú, Bradesco, and Itaúsa up nearly 1%. Utilities also posted gains, with Axia and Sabesp adding 0.5%. Meanwhile, Vale jumped more than 2% as iron ore prices surged on expectations that impending Chinese restrictions on selected Fortescue portside cargoes will tighten supply. Other notable gainers included Ambev (+1%), Rede D'Or (+1%), and Vivo (+1.5%)."
+    },
+    {
+      "id": "mkt:019f6116-3a7a-7aab-8d81-a2fbabdec07c",
+      "time": "2026-07-14 22:44:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he does not believe any change in communication would be intended to conceal the truth."
+    },
+    {
+      "id": "4988050",
+      "time": "2026-07-14 22:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：不要指望在隱瞞真相的溝通方式上會有任何改變。"
+    },
+    {
+      "id": "mkt:019f6115-ac9e-7aab-8d81-9a31b845d02f",
+      "time": "2026-07-14 22:43:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "KEVIN WARSH said high inflation underscores the need for communication reform."
+    },
+    {
+      "id": "4988049",
+      "time": "2026-07-14 22:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：高通脹表明通訊改革至關重要。"
+    },
+    {
+      "id": "4988048",
+      "time": "2026-07-14 22:43:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，截至7月14日22時，2026年年度總票房（含預售）突破190億，《飛馳人生3》《給阿嬤的情書》《鏢人：風起大漠》暫列年度票房榜前三位。"
+    },
+    {
+      "id": "mkt:019f6115-347c-7aab-8d81-94db5063785a",
+      "time": "2026-07-14 22:43:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 cumulative box office tops 19 bln yuan】Maoyan Pro data: as of 22:00 on July 14, 2026, 2026 cumulative box office including presales exceeded 19 bln yuan. Top three titles by revenue: Feichi Rensheng 3; A Letter to Grandma; Biaoren: Wind Rises in the Desert."
+    },
+    {
+      "id": "4988047",
+      "time": "2026-07-14 22:43:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "FASTENAL股價一度下跌3.4%，管理層召開財報電話會議。"
+    },
+    {
+      "id": "4988046",
+      "time": "2026-07-14 22:43:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普：由於盈利強勁、槓桿率低，CARPENTER科技公司展望被上調至正面；“BB+”評級得到確認。"
+    },
+    {
+      "id": "4988045",
+      "time": "2026-07-14 22:42:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國用電負荷達15.51億千瓦再創新高 電力供需形勢總體平穩】記者從國家能源局瞭解到，繼7月10日全國用電負荷15.18億千瓦首創新高後，7月14日全國用電負荷再創新高，達到15.51億千瓦。國家發展改革委、國家能源局充分發揮全國統一電力市場體系作用，加強電力互濟，7月10日跨省跨區跨網最大輸送電力合計2.63億千瓦，7月14日合計2.78億千瓦，有力支撐全國用電保障。目前，全國能源電力供需形勢總體平穩。（央視新聞）"
+    },
     {
       "id": "4988044",
       "time": "2026-07-14 22:42:16",
