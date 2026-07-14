@@ -1,7 +1,81 @@
 {
   "date": "2026-07-15",
-  "count": 513,
+  "count": 521,
   "items": [
+    {
+      "id": "mkt:019f625e-6ac3-7aab-8d8a-0a6f9bf36ed1",
+      "time": "2026-07-15 04:43:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said roughly 15 mln barrels per day of oil are exported from the Arabian Gulf."
+    },
+    {
+      "id": "mkt:019f625e-68bf-7aab-8d8a-0214fc291b13",
+      "time": "2026-07-15 04:43:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US Energy Secretary Wright said the Strait of Hormuz will not charge transit fees."
+    },
+    {
+      "id": "4988502",
+      "time": "2026-07-15 04:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特： 消耗掉的石油庫存將會得到補充。"
+    },
+    {
+      "id": "4988501",
+      "time": "2026-07-15 04:42:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：以色列總理內塔尼亞胡此次訪問美國並不在其行程安排之中。"
+    },
+    {
+      "id": "mkt:019f625d-7730-7aab-8d89-fe1e6ac26278",
+      "time": "2026-07-15 04:42:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios: A White House official denied Israeli media reports that Prime Minister Benjamin Netanyahu will visit Washington next week, saying President Trump currently has no Netanyahu visit on his schedule."
+    },
+    {
+      "id": "4988500",
+      "time": "2026-07-15 04:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特： 阿拉伯海灣每日原油外運量約 1500 萬桶。"
+    },
+    {
+      "id": "4988499",
+      "time": "2026-07-15 04:41:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國能源部長賴特：我們必須保障海灣石油運輸暢通，20% 收費方案已作廢，不再納入討論。 霍爾木茲海峽不會徵收通行費。"
+    },
+    {
+      "id": "4988498",
+      "time": "2026-07-15 04:40:07",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "OpenAI 計劃推出家用智慧音箱，作為首款硬體產品。"
+    },
     {
       "id": "mkt:019f625b-042f-7aab-8d89-f71ebf596bb8",
       "time": "2026-07-15 04:39:19",
