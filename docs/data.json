@@ -1,7 +1,175 @@
 {
-  "updated": "2026-07-14 09:31:07",
-  "count": 17336,
+  "updated": "2026-07-14 09:35:07",
+  "count": 17340,
   "items": [
+    {
+      "id": "mkt:019f5e42-de9d-7aab-8d68-7b463aa71604",
+      "time": "2026-07-14 09:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong PCB-related stocks rebounded: Kingboard Laminates (01888.HK) rose 5%, Kingboard Holdings (00148.HK) rose 4.38%, Guanghe Technology (01989.HK) rose 3%, Shenghong Technology (02476.HK) rose 2.7%."
+    },
+    {
+      "id": "4985685",
+      "time": "2026-07-14 09:34:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4629.630點；恒生指數現跌0.552%。"
+    },
+    {
+      "id": "4985684",
+      "time": "2026-07-14 09:34:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業航天板塊短線下挫，中國衛星跌停】商業航天板塊短線下挫，中國衛星、巨力索具、航天動力等股跌停。航天發展、通宇通訊、神劍股份、航天科技、上海滬工紛紛大幅下跌。"
+    },
+    {
+      "id": "mkt:019f5e42-6794-7aab-8d68-72b7c849cf27",
+      "time": "2026-07-14 09:33:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China retail cash yields snapshot】Tencent Licaitong (current+7-day) 7-day annualized yield ranged 0.7850%–1.3500%; WeChat Lingqiantong 7-day annualized yield ranged 0.8450%–1.0280%; Alipay Yu'e Bao 7-day annualized yield ranged 0.9390%–1.0200%."
+    },
+    {
+      "id": "mkt:019f5e42-5338-7aab-8d68-6d166545cfd8",
+      "time": "2026-07-14 09:33:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share telecom cable and ancillary sector rose in early trade; Huamai Technology hit the daily limit. Changyingtong, Zhaolong Interconnect, Shenyu, Changjin Photon and Huiyuan Communication were among the top gainers."
+    },
+    {
+      "id": "4985683",
+      "time": "2026-07-14 09:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "腦機介面概念開盤活躍，力合科創漲停，翔宇醫療漲超10%，立方製藥、倍益康、美好醫療漲幅居前，"
+    },
+    {
+      "id": "4985682",
+      "time": "2026-07-14 09:33:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海工裝備板塊盤初走弱，巨力索具跌停】海工裝備板塊盤初走弱，巨力索具跌停，海蘭信跌超13%，華菱線纜、中船防務、鳳形股份、東方電纜、中超控股等跟跌。"
+    },
+    {
+      "id": "4985681",
+      "time": "2026-07-14 09:33:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【通訊線纜及配套板塊短線拉昇，華脈科技漲停】通訊線纜及配套板塊短線拉昇，華脈科技漲停，長盈通、兆龍互連、神宇股份、長進光子、匯源通訊等紛紛走高。"
+    },
+    {
+      "id": "te:markets:566568",
+      "time": "2026-07-14 09:33:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Extends Surge — European natural gas prices climbed to around €52.8 per MWh on Tuesday, the highest in more than three months, after President Donald Trump restarted a blockade on Iranian ports and imposed a 20% surcharge on all other cargo passing through the Strait of Hormuz. The blockade is set to take effect at 4:00 p.m. EDT on Tuesday, dashing hopes for a near-term normalization of shipping activity through the waterway. LNG exports from the Middle East had only recently begun to recover, with Qatar ramping up production and shipments following the US-Iran interim agreement in June. However, the renewed hostilities have abruptly halted that recovery, raising concerns over fresh disruptions to LNG exports from the region. Such disruptions could tighten global gas supplies just as Europe is scrambling for supply to refill storage facilities ahead of the next winter."
+    },
+    {
+      "id": "4985680",
+      "time": "2026-07-14 09:32:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌1個基點，至2.775%。"
+    },
+    {
+      "id": "mkt:019f5e41-165e-7aab-8d68-649fd6cfcdd2",
+      "time": "2026-07-14 09:32:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share oil sector opened higher; Keli Co. rose over 8%, while Tongyuan Petroleum, Zhongman Petroleum and Taishan Petroleum also opened higher."
+    },
+    {
+      "id": "4985679",
+      "time": "2026-07-14 09:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【2026年7月上旬流通領域重要生產資料市場價格變動情況】據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年7月上旬與6月下旬相比，17種產品價格上漲，31種下降，2種持平。（國家統計局）"
+    },
+    {
+      "id": "mkt:019f5e3f-f875-7aab-8d68-5dbe14140495",
+      "time": "2026-07-14 09:31:18",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Chinese government bond futures open】2-year government bond futures (TS) main contract fell 0.01%, 5-year (TF) main contract fell 0.02%, 10-year (T) main contract fell 0.04%, 30-year (TL) main contract fell 0.16% at the morning open."
+    },
+    {
+      "id": "mkt:019f5e3f-e8dd-7aab-8d68-5228dcb9ec6d",
+      "time": "2026-07-14 09:31:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 5-year government bond yield fell 1.5 bps to 1.980%. Japan 30-year government bond yield fell 3.0 bps to 3.875%."
+    },
+    {
+      "id": "mkt:019f5e3f-e777-7aab-8d68-4d4c3cba344e",
+      "time": "2026-07-14 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China stock index futures open (morning session)】China stock index futures opened in the morning session: CSI 300 (IF) front-month +0.16%; SSE 50 (IH) front-month -0.11%; CSI 500 (IC) front-month +0.11%; CSI 1000 (IM) front-month +0.23%."
+    },
+    {
+      "id": "mkt:019f5e3f-ab9a-7aab-8d68-451ba7b6ce89",
+      "time": "2026-07-14 09:30:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI convertible bond index opened up 0.02%. Top gainers: Yihua CB +30.00%, Honglu CB +4.26%, Aike CB +4.04%, Tianyuan CB +3.02%, Huicheng CB +3.00%. Top decliners: Shuiyang CB -4.36%, Heda CB -2.10%, Qizhong CB -2.03%, Daimei CB -1.28%, Hangyang CB -1.25%."
+    },
+    {
+      "id": "te:markets:566565",
+      "time": "2026-07-14 09:30:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Trade Modestly Lower — Australian stocks slipped 35 points, or 0.4%, to 8,773 in early trade on Tuesday, after a muted prior session. Weaker U.S. futures dampened sentiment following Wall Street’s overnight retreat, triggered by President Donald Trump’s vow to reinstate a blockade on Iranian shipping through the Strait of Hormuz. Traders also kept a cautious stance ahead of June trade figures later today from China, a key partner, after robust export and import growth in May. Locally, consumer confidence showed some recovery in July, though the index remains historically fragile and exposed to global shocks. Selling pressure weighed on electronic technology, healthcare, logistics, and financials, while gains in energy minerals, commercial services, and communications helped cap losses. The four major banks dropped between 0.7% and 1.6%, with notable declines in Caricorn Metals (-3.6%), Nextdc Ltd. (-2.8%), Greatland Resources (-2.5%), and Perseus Mining (-1.6%)."
+    },
+    {
+      "id": "4985678",
+      "time": "2026-07-14 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.13%，成分股中，科力股份漲12.22%，國航遠洋漲7.94%，奧迪威漲5.96%，曙光數創漲4.62%。"
+    },
     {
       "id": "4985677",
       "time": "2026-07-14 09:30:11",
@@ -158422,143 +158590,6 @@
         "09888.HK"
       ],
       "text": "Hong Kong stocks opened lower then rallied: Hang Seng Tech Index rose over 1% and the Hang Seng Index gained 0.7%. Tech/internet names led the move — Meituan (03690.HK) +4.7%, Xiaomi Group (01810.HK) +3.5%, Baidu (09888.HK) +2.5%, Alibaba Group (09988.HK) nearly +2%."
-    },
-    {
-      "id": "4973260",
-      "time": "2026-07-07 09:34:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥板塊盤初調整，海南海藥觸及跌停】創新藥板塊盤初調整，海南海藥觸及跌停，雙鷺藥業、新贛江、三元基因、峆一藥業、三生國健跟跌。"
-    },
-    {
-      "id": "4973259",
-      "time": "2026-07-07 09:34:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2446.50點。"
-    },
-    {
-      "id": "4973258",
-      "time": "2026-07-07 09:34:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "城內實：貨幣政策的具體細節應由日本央行決定。"
-    },
-    {
-      "id": "4973257",
-      "time": "2026-07-07 09:33:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【人形機器人概念股盤初活躍，巨輪智慧漲停】人形機器人概念股盤初活躍，巨輪智慧漲停，力王股份漲超15%，肇民科技、奧迪威、眾誠科技跟漲。"
-    },
-    {
-      "id": "mkt:019f3a35-abb6-7aab-8cbf-3f67601b1d7e",
-      "time": "2026-07-07 09:33:43",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "00700.HK",
-        "Impact bullish",
-        "01024.HK",
-        "Impact bearish"
-      ],
-      "text": "Tencent Holdings (00700.HK) rose over 4% while Kuaishou (01024.HK) opened down about 6.8% after Tencent reduced its stake in Kuaishou, realizing roughly HKD 10 billion in proceeds."
-    },
-    {
-      "id": "4973256",
-      "time": "2026-07-07 09:33:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超1%，現報4586.710點；恒生指數現漲0.527%。"
-    },
-    {
-      "id": "4973255",
-      "time": "2026-07-07 09:33:00",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【韓國綜指跌幅擴大至6%】韓國綜指跌幅擴大至6%，現報7568.59點。個股方面，三星電子跌超7%，SK海力士跌超6%。"
-    },
-    {
-      "id": "4973254",
-      "time": "2026-07-07 09:32:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內漲幅達1.00%，成分股中，奧迪威漲6.93%，廣信科技漲6.42%，萬達軸承漲4.59%，鼎智科技漲4.73%。"
-    },
-    {
-      "id": "te:markets:564622",
-      "time": "2026-07-07 09:32:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Rebound — European natural gas prices rose toward €45 per MWh on Tuesday, retracing part of the previous session’s decline amid forecasts of a summer heatwave in the region. Weather models indicate that another spell of extreme heat is set to hit Northwest Europe, which is expected to significantly boost air-conditioning use and power demand. The increase in demand comes as the region’s gas inventories remain relatively low, with storage facilities currently around 49% full, well below the nearly 60% level recorded at the same time last year. This has heightened concerns over whether Europe will be able to rebuild sufficient reserves ahead of winter. Moreover, market participants noted that LNG inflows into Europe have not yet risen enough to ease regional supply constraints, even as shipping activity through the Strait of Hormuz surged following progress in US-Iran peace talks."
-    },
-    {
-      "id": "4973253",
-      "time": "2026-07-07 09:32:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池板塊盤初拉昇，容百科技漲超10%】電池板塊盤初拉昇，容百科技漲超10%，雄韜股份、豐元股份、聖陽股份、恩捷股份紛紛拉昇。"
-    },
-    {
-      "id": "mkt:019f3a34-2819-7aab-8cbf-326c7ce40b59",
-      "time": "2026-07-07 09:32:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY briefly dropped about 30 pips to 161.82."
-    },
-    {
-      "id": "4973252",
-      "time": "2026-07-07 09:32:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西貴港防汛防颱風應急響應提升為一級】受今年10號颱風“美莎克”影響，廣西貴港市大部地區出現暴雨到大暴雨、局地特大暴雨，多條河流超警，預計鬱江貴港水文站斷面將於7日23時左右出現47.5米的洪峰水位，超警6.3米。根據《貴港市防汛抗旱應急預案》規定，經會商研判，並報貴港市防汛抗旱指揮部批准，決定於2026年7月7日8時將貴港市防汛防颱風二級應急響應提升為防汛防颱風（城市防洪）一級應急響應。"
-    },
-    {
-      "id": "te:economy:564621",
-      "time": "2026-07-07 09:31:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Inflation Rate",
-        "Importance 2"
-      ],
-      "text": "Philippines Inflation Rate Cools to 6.4% — The annual inflation rate in the Philippines eased to 6.4% in June 2026, a three-month low, from 6.8% in May. Transport inflation slowed sharply to 12.8% from 16.2%, reflecting lower fuel price pressures, though it remained the largest contributor to overall inflation. Inflation also eased for food and non-alcoholic beverages (5.2% vs. 5.7%) and furnishings and household equipment (3.7% vs. 3.9%). Meanwhile, price growth accelerated for housing and utilities (8.0% vs. 7.8%), alcoholic beverages and tobacco (5.9% vs. 5.4%), health (4.6% vs. 4.1%), education services (3.9% vs. 2.9%), and restaurants and accommodation services (7.0% vs. 6.7%). On a monthly basis, the CPI fell 0.3%, defying expectations of a 0.05% increase and following a 0.5% decline in May. Meanwhile, annual core inflation accelerated to 4.4%, above both market forecasts and May's 4.1% reading, marking the highest level since December 2023. Overall inflation remained above the government's 2% to 4% target range."
-    },
-    {
-      "id": "4973251",
-      "time": "2026-07-07 09:31:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋰礦概念盤初活躍 雅化集團一字漲停】早盤鋰礦概念盤初活躍，雅化集團一字漲停，天華新能、融捷股份、盛新鋰能、贛鋒鋰業、天齊鋰業跟漲。"
     }
   ]
 }

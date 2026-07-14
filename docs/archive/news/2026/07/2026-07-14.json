@@ -1,7 +1,175 @@
 {
   "date": "2026-07-14",
-  "count": 859,
+  "count": 877,
   "items": [
+    {
+      "id": "mkt:019f5e42-de9d-7aab-8d68-7b463aa71604",
+      "time": "2026-07-14 09:34:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong PCB-related stocks rebounded: Kingboard Laminates (01888.HK) rose 5%, Kingboard Holdings (00148.HK) rose 4.38%, Guanghe Technology (01989.HK) rose 3%, Shenghong Technology (02476.HK) rose 2.7%."
+    },
+    {
+      "id": "4985685",
+      "time": "2026-07-14 09:34:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4629.630點；恒生指數現跌0.552%。"
+    },
+    {
+      "id": "4985684",
+      "time": "2026-07-14 09:34:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【商業航天板塊短線下挫，中國衛星跌停】商業航天板塊短線下挫，中國衛星、巨力索具、航天動力等股跌停。航天發展、通宇通訊、神劍股份、航天科技、上海滬工紛紛大幅下跌。"
+    },
+    {
+      "id": "mkt:019f5e42-6794-7aab-8d68-72b7c849cf27",
+      "time": "2026-07-14 09:33:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China retail cash yields snapshot】Tencent Licaitong (current+7-day) 7-day annualized yield ranged 0.7850%–1.3500%; WeChat Lingqiantong 7-day annualized yield ranged 0.8450%–1.0280%; Alipay Yu'e Bao 7-day annualized yield ranged 0.9390%–1.0200%."
+    },
+    {
+      "id": "mkt:019f5e42-5338-7aab-8d68-6d166545cfd8",
+      "time": "2026-07-14 09:33:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share telecom cable and ancillary sector rose in early trade; Huamai Technology hit the daily limit. Changyingtong, Zhaolong Interconnect, Shenyu, Changjin Photon and Huiyuan Communication were among the top gainers."
+    },
+    {
+      "id": "4985683",
+      "time": "2026-07-14 09:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "腦機介面概念開盤活躍，力合科創漲停，翔宇醫療漲超10%，立方製藥、倍益康、美好醫療漲幅居前，"
+    },
+    {
+      "id": "4985682",
+      "time": "2026-07-14 09:33:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【海工裝備板塊盤初走弱，巨力索具跌停】海工裝備板塊盤初走弱，巨力索具跌停，海蘭信跌超13%，華菱線纜、中船防務、鳳形股份、東方電纜、中超控股等跟跌。"
+    },
+    {
+      "id": "4985681",
+      "time": "2026-07-14 09:33:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【通訊線纜及配套板塊短線拉昇，華脈科技漲停】通訊線纜及配套板塊短線拉昇，華脈科技漲停，長盈通、兆龍互連、神宇股份、長進光子、匯源通訊等紛紛走高。"
+    },
+    {
+      "id": "te:markets:566568",
+      "time": "2026-07-14 09:33:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Extends Surge — European natural gas prices climbed to around €52.8 per MWh on Tuesday, the highest in more than three months, after President Donald Trump restarted a blockade on Iranian ports and imposed a 20% surcharge on all other cargo passing through the Strait of Hormuz. The blockade is set to take effect at 4:00 p.m. EDT on Tuesday, dashing hopes for a near-term normalization of shipping activity through the waterway. LNG exports from the Middle East had only recently begun to recover, with Qatar ramping up production and shipments following the US-Iran interim agreement in June. However, the renewed hostilities have abruptly halted that recovery, raising concerns over fresh disruptions to LNG exports from the region. Such disruptions could tighten global gas supplies just as Europe is scrambling for supply to refill storage facilities ahead of the next winter."
+    },
+    {
+      "id": "4985680",
+      "time": "2026-07-14 09:32:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債<JP10YTN=JBTC>收益率下跌1個基點，至2.775%。"
+    },
+    {
+      "id": "mkt:019f5e41-165e-7aab-8d68-649fd6cfcdd2",
+      "time": "2026-07-14 09:32:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share oil sector opened higher; Keli Co. rose over 8%, while Tongyuan Petroleum, Zhongman Petroleum and Taishan Petroleum also opened higher."
+    },
+    {
+      "id": "4985679",
+      "time": "2026-07-14 09:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【2026年7月上旬流通領域重要生產資料市場價格變動情況】據對全國流通領域9大類50種重要生產資料市場價格的監測顯示，2026年7月上旬與6月下旬相比，17種產品價格上漲，31種下降，2種持平。（國家統計局）"
+    },
+    {
+      "id": "mkt:019f5e3f-f875-7aab-8d68-5dbe14140495",
+      "time": "2026-07-14 09:31:18",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【Chinese government bond futures open】2-year government bond futures (TS) main contract fell 0.01%, 5-year (TF) main contract fell 0.02%, 10-year (T) main contract fell 0.04%, 30-year (TL) main contract fell 0.16% at the morning open."
+    },
+    {
+      "id": "mkt:019f5e3f-e8dd-7aab-8d68-5228dcb9ec6d",
+      "time": "2026-07-14 09:31:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "Japan 5-year government bond yield fell 1.5 bps to 1.980%. Japan 30-year government bond yield fell 3.0 bps to 3.875%."
+    },
+    {
+      "id": "mkt:019f5e3f-e777-7aab-8d68-4d4c3cba344e",
+      "time": "2026-07-14 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China stock index futures open (morning session)】China stock index futures opened in the morning session: CSI 300 (IF) front-month +0.16%; SSE 50 (IH) front-month -0.11%; CSI 500 (IC) front-month +0.11%; CSI 1000 (IM) front-month +0.23%."
+    },
+    {
+      "id": "mkt:019f5e3f-ab9a-7aab-8d68-451ba7b6ce89",
+      "time": "2026-07-14 09:30:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CSI convertible bond index opened up 0.02%. Top gainers: Yihua CB +30.00%, Honglu CB +4.26%, Aike CB +4.04%, Tianyuan CB +3.02%, Huicheng CB +3.00%. Top decliners: Shuiyang CB -4.36%, Heda CB -2.10%, Qizhong CB -2.03%, Daimei CB -1.28%, Hangyang CB -1.25%."
+    },
+    {
+      "id": "te:markets:566565",
+      "time": "2026-07-14 09:30:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Trade Modestly Lower — Australian stocks slipped 35 points, or 0.4%, to 8,773 in early trade on Tuesday, after a muted prior session. Weaker U.S. futures dampened sentiment following Wall Street’s overnight retreat, triggered by President Donald Trump’s vow to reinstate a blockade on Iranian shipping through the Strait of Hormuz. Traders also kept a cautious stance ahead of June trade figures later today from China, a key partner, after robust export and import growth in May. Locally, consumer confidence showed some recovery in July, though the index remains historically fragile and exposed to global shocks. Selling pressure weighed on electronic technology, healthcare, logistics, and financials, while gains in energy minerals, commercial services, and communications helped cap losses. The four major banks dropped between 0.7% and 1.6%, with notable declines in Caricorn Metals (-3.6%), Nextdc Ltd. (-2.8%), Greatland Resources (-2.5%), and Perseus Mining (-1.6%)."
+    },
+    {
+      "id": "4985678",
+      "time": "2026-07-14 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.13%，成分股中，科力股份漲12.22%，國航遠洋漲7.94%，奧迪威漲5.96%，曙光數創漲4.62%。"
+    },
     {
       "id": "4985677",
       "time": "2026-07-14 09:30:11",
