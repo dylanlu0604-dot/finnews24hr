@@ -1,7 +1,133 @@
 {
   "date": "2026-07-14",
-  "count": 3846,
+  "count": 3859,
   "items": [
+    {
+      "id": "4987953",
+      "time": "2026-07-14 21:55:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：優步（Uber）據悉正在就收購德國線上外賣訂餐平臺Delivery Hero進行深入談判。"
+    },
+    {
+      "id": "4987952",
+      "time": "2026-07-14 21:55:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "百健下跌逾7%，料創2020年11月以來最大百分比跌幅。"
+    },
+    {
+      "id": "mkt:019f60e9-02ae-7aab-8d7f-ddf24cc4cdb2",
+      "time": "2026-07-14 21:55:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "White House National Economic Council director Hassett said the US is confident it can get oil flowing from the Gulf region to calm markets."
+    },
+    {
+      "id": "4987951",
+      "time": "2026-07-14 21:54:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：我有信心將石油從墨西哥灣運出，以穩定市場。"
+    },
+    {
+      "id": "mkt:019f60e8-323e-7aab-8d7f-d622442887e0",
+      "time": "2026-07-14 21:54:17",
+      "tags": [
+        "MKT News",
+        "UBER.N",
+        "Impact mixed",
+        "DHER.DE",
+        "Impact bullish"
+      ],
+      "text": "Uber (UBER.N) is in advanced talks to acquire Delivery Hero."
+    },
+    {
+      "id": "4987950",
+      "time": "2026-07-14 21:54:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：海軍在幫助海灣地區的友軍艦艇方面取得了進展。"
+    },
+    {
+      "id": "4987949",
+      "time": "2026-07-14 21:54:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海市政府常務會議部署，全力推進2026世界人工智慧大會籌備衝刺階段各項任務】上海市委副書記、市長龔正今天（7月14日）主持召開市政府常務會議，要求在市委堅強領導下，全力推進2026世界人工智慧大會暨人工智慧全球治理高階別會議籌備衝刺階段各項任務；大力推動農業綠色低碳發展。會議指出，世界人工智慧大會承擔著國家在人工智慧領域對外合作交流的重要使命。本屆大會恰逢全球人工智慧從“輔助工具”邁向“智慧夥伴”的關鍵節點，與往屆相比規模更大、能級更高，我們要以最高標準、最優服務、最新成果，向世界呈現一場國際化、高階化、專業化、年輕化的人工智慧盛會。要突出創新引領，提升國際影響，精心策劃“首展首秀”，全方位展示高質量創新成果，讓前沿思想在浦江之畔交流交融，打造具有全球公信力的人工智慧技術風向標。要突出精準精細，做優服務保障，各成員單位要細化工作方案，對重大活動全流程推演、清單化管理，確保各環節銜接緊密、運轉高效，同時要在會場內外全面部署智慧應用，讓大會成為人工智慧賦能大型活動的最佳實踐。要突出生態營造，放大溢位效應，依託創投、連結、智識、青創、出海五大生態矩陣，構建覆蓋資本、人才、技術等全鏈條創新支撐體系，營造國際一流發展環境，加快集聚高能級主體。同時，加速創新成果轉化，把實驗室的新技術、展會的新成果，快速轉化為可落地的新產品、新應用，持續培育壯大新質生產力，以人工智慧賦能各行業高質量發展。（上觀）"
+    },
+    {
+      "id": "mkt:019f60e7-8955-7aab-8d7f-cf578715f044",
+      "time": "2026-07-14 21:53:34",
+      "tags": [
+        "MKT News",
+        "JPM.O"
+      ],
+      "text": "JP Morgan expects net interest income for fiscal 2026 to be about $105.5 billion."
+    },
+    {
+      "id": "mkt:019f60e7-8708-7aab-8d7f-c4a6df74d0b9",
+      "time": "2026-07-14 21:53:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "WHITE HOUSE National Economic Council director HASSETT said he saw signs in CPI data that Trump's policies are working."
+    },
+    {
+      "id": "4987948",
+      "time": "2026-07-14 21:53:20",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "哈塞特：我們在消費者物價指數（CPI）中看到了特朗普政策取得成功的跡象。"
+    },
+    {
+      "id": "mkt:019f60e5-ce5f-7aab-8d7f-bf3dfdb2677f",
+      "time": "2026-07-14 21:51:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "White House National Economic Council director HASSETT said prices had fluctuated due to Iranian influence."
+    },
+    {
+      "id": "4987946",
+      "time": "2026-07-14 21:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：由於伊朗人，價格出現了一些波動。"
+    },
+    {
+      "id": "4987945",
+      "time": "2026-07-14 21:51:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀金期貨突破1300美元/盎司，日內漲3.79%。"
+    },
     {
       "id": "mkt:019f60e5-2e0e-7aab-8d7f-b5a1e49999af",
       "time": "2026-07-14 21:50:59",
