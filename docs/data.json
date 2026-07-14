@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-15 07:37:49",
-  "count": 18760,
+  "updated": "2026-07-15 07:41:45",
+  "count": 18761,
   "items": [
+    {
+      "id": "4988628",
+      "time": "2026-07-15 07:40:17",
+      "tags": [
+        "央行"
+      ],
+      "text": "【央行將開展1.4萬億元買斷式逆回購操作 分析人士：後期有望持續加量續作】中國央行7月15日將開展1.4萬億元買斷式逆回購操作，當日操作後，該期限買斷式逆回購將淨投放5000億元，餘額對應增至6.1萬億元。觀察近期買斷式逆回購動態，從縮量操作到等量續作，再到持續增量操作，呈現出逐漸放量態勢。 東方金誠首席宏觀分析師王青分析，後期買斷式逆回購有望持續加量續作，支援政府債券發行和銀行配套信貸投放。這也是下半年貨幣政策加大逆週期調節力度的一個重要發力點。（每經）"
+    },
+    {
+      "id": "te:markets:566939",
+      "time": "2026-07-15 07:39:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Gains on Soft US Inflation — Gold traded around $4,050 an ounce on Wednesday, holding onto gains of more than 1% from the previous session as softer-than-expected US inflation data prompted traders to dial back expectations for Federal Reserve interest rates hikes. The annual US inflation rate slowed to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped ease energy-related inflation. Consumer prices also fell 0.4% from the previous month, marking the first monthly decline since 2020. Meanwhile, Fed Chair Kevin Warsh reiterated the central bank’s commitment to restoring price stability during congressional testimony on Tuesday but refrained from signaling a more aggressive policy stance. Markets continue to price in roughly a 50% chance of a Fed rate hike in September, as renewed tensions between the US and Iran lifted oil prices and kept inflation concerns firmly on investors’ radar."
+    },
+    {
+      "id": "4988627",
+      "time": "2026-07-15 07:37:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【荷蘭主要河流水位偏低 航運和工業受影響】據荷蘭方面14日訊息，受持續的高溫和乾旱天氣影響，流經荷蘭的萊茵河、馬斯河等主要河流水位降至7月同期的異常低位，對內河航運、工業生產和水資源供應造成壓力。荷蘭國家水利部門表示，萊茵河流域來水持續減少，未來一週河流水位預計仍將繼續下降。（央視新聞）"
+    },
+    {
+      "id": "4988626",
+      "time": "2026-07-15 07:37:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【產業鏈量價齊升 PCB行業上半年業績分化】歷經近半個月回撥，7月14日A股PCB（印製電路板）板塊迎來強勢反彈，東山精密、滬電股份、生益科技等上半年業績預增的行業龍頭午後漲停。據證券時報記者採訪瞭解，近期PCB行業遭遇算力客戶訂單延期甚至降價等傳聞擾動，但行業景氣度仍在強勢抬升，產業鏈顯著加大了擴產力度，同時，電子玻纖布（簡稱“電子布”）等上游關鍵原材料出現產能“擠兌”，導致漲價潮從高階產品向中低端品類外溢；另外，持續擴產潮加劇了產能過剩擔憂。從2026年上半年業績預告來看，產業鏈盈利分化特徵十分鮮明。覆銅板板塊整體業績大幅預喜，生益科技盈利規模目前領先。南亞新材、華正新材、寶鼎科技等覆銅板相關上市公司業績也將同比大幅增長。也有PCB上市公司受價格傳導滯後性、產能爬坡拖累等因素影響，業績下滑。"
+    },
     {
       "id": "4988625",
       "time": "2026-07-15 07:37:13",
@@ -171727,38 +171763,6 @@
         "觀點"
       ],
       "text": "【中信建投：超級衛星工廠透過貫通評審，繼續看好商業航天投資機會】中信建投研報指出，6月17日10時44分，長征十二號運載火箭在海南商業航天發射場點火起飛，隨後成功將衛星網際網路低軌22組衛星送入預定軌道，發射任務取得圓滿成功。衛星網際網路低軌22組衛星由中國航天科技集團有限公司五院抓總研製。近期商業航天板塊受到部分火箭發射失利/推遲以及市場風偏變化等影響，出現較大幅度回撥，後續催化密集，隨著市場風偏的修復，看好商業航天板塊後續表現。衛星環節重點關注載荷總體、天線及配套、鐳射通訊終端及配套、太陽翼及能源系統相關，火箭環節重點關注發動機及其3D列印、箭體結構件相關，地面裝置環節重點關注民用終端及手機直連相關，運營服務環節重點關注具備稀缺資質的公司。"
-    },
-    {
-      "id": "4975135",
-      "time": "2026-07-08 07:41:23",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：繼續關注“去日化”交易，關注溼電子化學品和光刻膠單體】中信建投研報指出，當前AI通脹來到了材料端，而材料環節的標的更加分散，而且多數強勢公司在日本，2025年下半年以來雙邊關係的緊張更有加速跡象。供給端“去日化”，需求端AI通脹成為幾乎完美的組合。中信建投判斷，“去日化”主題會有更多演繹空間，繼續關注“去日化”交易，關注粉體材料和含氟高分子材料國內標的的成長速度和進口替代加速的機會。"
-    },
-    {
-      "id": "mkt:019f3ef4-c599-7aab-8cd8-c84a1106560a",
-      "time": "2026-07-08 07:40:56",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "【Asahi: Japanese government may revise monetary-policy wording in annual policy guidelines】Asahi Shimbun reports the Japanese government may revise monetary-policy wording in its draft annual economic and fiscal policy guidelines to avoid giving the impression it is pressuring the Bank of Japan. The earlier draft described the \"appropriate implementation\" of monetary policy as \"extremely important,\" a phrase some read as signaling opposition to further BOJ tightening. The updated draft adds inflation language, calling for appropriate monetary policy to promote stable price rises; a government official said the change reflects some market participants' misreading of the original wording."
-    },
-    {
-      "id": "mkt:019f3ef3-f7d2-7aab-8cd8-c077307192ac",
-      "time": "2026-07-08 07:40:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "USDJPY",
-        "Impact mixed"
-      ],
-      "text": "Japan's May trade balance due in 10 minutes."
     }
   ]
 }
