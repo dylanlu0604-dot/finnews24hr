@@ -1,7 +1,142 @@
 {
   "date": "2026-07-14",
-  "count": 3436,
+  "count": 3450,
   "items": [
+    {
+      "id": "mkt:019f6094-799b-7aab-8d7b-c255228bbfbb",
+      "time": "2026-07-14 20:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "After a fuel shortage was announced, a U.S. tanker aircraft landed at Ben Gurion Airport."
+    },
+    {
+      "id": "4987698",
+      "time": "2026-07-14 20:22:46",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：提議修訂規則，以簡化共同基金、保險公司、養老基金後續收購銀行主要股權的審批流程。"
+    },
+    {
+      "id": "4987697",
+      "time": "2026-07-14 20:22:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST美麗：2026年上半年淨虧損1300萬-1900萬元 同比收窄】*ST美麗公告稱，2026年1月1日至6月30日，預計歸屬於上市公司股東的淨利潤虧損1300萬元-1900萬元，較上年同期虧損4864.48萬元，同比增長60.94%-73.28%；扣非後淨利潤虧損1290萬元-1890萬元，較上年同期虧損5466.95萬元，同比增長65.43%-76.40%。業績變動因長賬齡專案回款改善，資產減值損失同比減少。此外，公司因2025年年報被出具無法表示意見審計報告，股票自2026年4月30日起被實施退市和其他風險警示，2026年度若出現規定情形，股票存在被終止上市風險。"
+    },
+    {
+      "id": "mkt:019f6094-092c-7aab-8d7b-bffa9e2fa4e1",
+      "time": "2026-07-14 20:22:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "JP Morgan CEO Dimon said a strong economy does not rule out a tipping point."
+    },
+    {
+      "id": "mkt:019f6093-f74a-7aab-8d7b-b099a1b2fd7c",
+      "time": "2026-07-14 20:22:17",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "JP Morgan CEO Dimon said the global economy has shown greater resilience than expected."
+    },
+    {
+      "id": "4987696",
+      "time": "2026-07-14 20:21:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【僑銀股份：預計2026年上半年淨利潤同比下降43.89%-62.33%】僑銀股份公告，預計2026年1月1日至2026年6月30日，歸屬於上市公司股東的淨利潤為盈利4700萬元–7000萬元，比上年同期下降43.89%–62.33%。扣除非經常性損益後的淨利潤為盈利6300萬元–8600萬元，比上年同期下降34.56%–52.06%。"
+    },
+    {
+      "id": "4987695",
+      "time": "2026-07-14 20:21:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美年健康：預計2026年上半年淨虧損1.66億元-1.97億元】美年健康公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤虧損1.66億元–1.97億元，比上年同期減虧11.01%–25.01%。報告期內，業績變動主要原因：1、公司所處行業具有較強的季節性特徵，在上半年傳統淡季，受節假日分佈、企事業單位的財務核算週期影響，部分企業預算後置、到檢後置；2、公司整體訂單簽訂相對穩定，受到檢節奏影響的業務將在下半年逐步釋放。"
+    },
+    {
+      "id": "4987694",
+      "time": "2026-07-14 20:21:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加福爾瑟姆海峽東南方向 105 公里處發生 5.4 級地震。"
+    },
+    {
+      "id": "4987693",
+      "time": "2026-07-14 20:21:40",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通CEO戴蒙：經濟強勁不代表不存在臨界點。"
+    },
+    {
+      "id": "4987692",
+      "time": "2026-07-14 20:21:32",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通CEO戴蒙：全球經濟韌性超出預期。"
+    },
+    {
+      "id": "mkt:019f6091-f93e-7aab-8d7b-afe788e02d3a",
+      "time": "2026-07-14 20:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US June CPI due in 10 minutes: seasonally adjusted CPI and core CPI MoM, and unadjusted CPI and core CPI YoY."
+    },
+    {
+      "id": "4987691",
+      "time": "2026-07-14 20:20:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【緯德資訊攜手多方組建“生物醫藥領域量子技術創新聯合體”】近日，“廣東省量子科技應用場景釋出與產業對接會”在廣州舉行。在本次對接會的簽約儀式上，廣東省首批5個量子科技創新聯合體正式宣告組建。緯德資訊與廣東移動、廣州實驗室、中山大學附屬第三醫院、廣州醫科大學、百奧泰生物製藥達成深度合作，共同組建“生物醫藥領域量子技術創新聯合體”。該聯合體旨在聚合“產、學、研、醫、用”各方優勢力量，圍繞生物醫藥研發、智慧醫療、醫療健康大資料安全等關鍵應用場景，開展前沿技術攻關，打通量子技術從實驗室走向臨床與醫藥市場的轉化通道。"
+    },
+    {
+      "id": "mkt:019f6091-c359-7aab-8d7b-a167087861bb",
+      "time": "2026-07-14 20:19:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel approved 1.3 billion shekels in funding for new West Bank settlements."
+    },
+    {
+      "id": "te:economy:566806",
+      "time": "2026-07-14 20:19:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Poland's Trade Deficit Narrows in May — Poland's trade deficit narrowed to €4.5 billion in May 2026 from €5.0 billion in the same month a year earlier, as export growth outpaced imports. Exports rose 5.2% year-on-year, driven by higher shipments of raw silver, refined copper, and computer equipment, while exports of petroleum products also increased significantly. However, weaker sales from the automotive sector continued to weigh on overall export growth. Imports increased at a slower pace of 3.4%, despite a nearly 70% surge in oil import prices. Higher purchases of computers parts and components supported import growth, although lower imports of passenger cars helped limit the overall increase."
+    },
     {
       "id": "te:economy:566805",
       "time": "2026-07-14 20:18:53",
