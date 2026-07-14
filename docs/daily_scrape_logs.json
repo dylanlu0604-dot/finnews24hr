@@ -1,6 +1,155 @@
 {
-  "updated": "2026-07-14 07:54:25",
+  "updated": "2026-07-14 09:25:23",
   "items": [
+    {
+      "id": "2026071409",
+      "date": "2026-07-14",
+      "run_hour": 9,
+      "started_at": "2026-07-14 09:24:51",
+      "finished_at": "2026-07-14 09:25:23",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 8,
+      "failure_count": 4,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "nomura",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac",
+        "uob"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "factset",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉川普恢復封鎖伊朗 油價狂飆 費半下殺近5% SK海力士ADR暴跌超9% | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6533197",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-07-13，預期日期是 2026-07-14",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-13"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-07-13，預期日期是 2026-07-14",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-13"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-07-13",
+          "actual_date": "2026-07-13"
+        },
+        {
+          "source": "nomura",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.nomura-am.co.jp/market/marketcomment/20260714_Global_TECH_Equity.pdf",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-07-10，預期日期是 2026-07-13",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-13",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/224326",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202607140526012465.shtml",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-july-13-2026/",
+          "expected_date": "2026-07-13",
+          "actual_date": "2026-07-13"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport14Jul2026.pdf",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260714.pdf",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-07-13，預期日期是 2026-07-14",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-13"
+        }
+      ]
+    },
     {
       "id": "2026071407",
       "date": "2026-07-14",
