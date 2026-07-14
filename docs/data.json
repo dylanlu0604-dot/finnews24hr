@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-15 05:01:10",
-  "count": 18830,
+  "updated": "2026-07-15 05:05:08",
+  "count": 18832,
   "items": [
+    {
+      "id": "4988509",
+      "time": "2026-07-15 05:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡水河谷：任命Wilfred Brujin為董事會主席，有效期直至7月22日投票表決。"
+    },
+    {
+      "id": "mkt:019f626f-9ee3-7aab-8d8a-613585da077f",
+      "time": "2026-07-15 05:01:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【OpenAI to enter Apple's hardware turf with screenless smart speaker; Apple sues over poaching】People familiar with the matter say OpenAI's first consumer device will be a portable, screenless smart speaker positioned as a home 'computer' for the AI era, driven by an advanced GPT-Live voice system for natural dialogue and proactive information. The device will combine email and environment-sensing data to learn user habits, act as an 'AI partner' for smart‑home control, media playback and message replies; OpenAI may announce it this year with a target market launch in 2027. The company also plans future AI phone-class terminals, wearables and home robots. Separately, Apple has filed a lawsuit alleging trade-secret theft and says OpenAI has hired more than 400 Apple employees, escalating competition in AI hardware."
+    },
     {
       "id": "4988508",
       "time": "2026-07-15 05:00:13",
