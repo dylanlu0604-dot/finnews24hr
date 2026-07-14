@@ -1,7 +1,172 @@
 {
   "date": "2026-07-14",
-  "count": 4167,
+  "count": 4184,
   "items": [
+    {
+      "id": "4988150",
+      "time": "2026-07-14 23:34:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲獨立性不容侵犯。"
+    },
+    {
+      "id": "4988149",
+      "time": "2026-07-14 23:34:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：花旗佈局長期增長，謀求更高回報。"
+    },
+    {
+      "id": "4988148",
+      "time": "2026-07-14 23:34:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究顯示喀斯特天坑或限制植物演化】中國科學院華南植物園與廣西植物研究所聯合研究發現，喀斯特天坑能為瀕危植物香木蓮提供微環境庇護，但也會限制種群間的基因流，導致遺傳多樣性降低和有害突變累積，削弱其應對未來環境變化的潛力。相關成果於14日發表在國際學術期刊《當代生物學》。（新華社）"
+    },
+    {
+      "id": "mkt:019f6143-15a7-7aab-8d83-3ac2bcea585b",
+      "time": "2026-07-14 23:33:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikkei reports a summit between Japanese Prime Minister Takaichi and German Chancellor Merz is expected to cover defense cooperation, drones and supply-chain issues."
+    },
+    {
+      "id": "4988147",
+      "time": "2026-07-14 23:33:33",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.14%，斯托克歐洲指數上漲0.22%；歐元區藍籌股指數上漲0.19%。法國CAC 40指數上漲0.01%，西班牙IBEX指數上漲0.1%，英國富時100指數上漲0.2%，德國DAX指數上漲0.12%。"
+    },
+    {
+      "id": "mkt:019f6142-b6b7-7aab-8d83-373bf5198944",
+      "time": "2026-07-14 23:33:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reported explosions heard on Iran's Qeshm Island; cause unknown."
+    },
+    {
+      "id": "mkt:019f6142-9309-7aab-8d83-29ff03bd66c1",
+      "time": "2026-07-14 23:33:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 6-week Treasury auction to July 14: stop-out yield 3.64%, unchanged from prior 3.64%."
+    },
+    {
+      "id": "4988146",
+      "time": "2026-07-14 23:32:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗格什姆島聽到爆炸聲，起因不明。"
+    },
+    {
+      "id": "4988145",
+      "time": "2026-07-14 23:32:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗逾180名議員發表宣告要求“懲罰”襲擊肇事者】伊朗伊斯蘭議會超過180名議員發表宣告，強調有必要對襲擊伊朗的肇事者實施“復仇”和“懲罰”。這些議員在宣告中呼籲伊朗國家機關採取堅定立場，強化防禦威懾能力；要求成立專門委員會審查相關談判和伊美諒解備忘錄，加快制定霍爾木茲海峽管理法等法案，全力支援伊朗武裝部隊行動。目前簽署宣告的議員人數仍在增加。（新華社）"
+    },
+    {
+      "id": "mkt:019f6142-6a70-7aab-8d83-21cf9d12aa2a",
+      "time": "2026-07-14 23:32:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 6-week Treasury auction on July 14: share of awards at the stop-out yield 63.1%, prior 86.48%."
+    },
+    {
+      "id": "mkt:019f6142-5257-7aab-8d83-1dd8bba97cbb",
+      "time": "2026-07-14 23:32:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-week Treasury auction for the week to July 14: bid-cover ratio 2.84, prior 2.74."
+    },
+    {
+      "id": "4988144",
+      "time": "2026-07-14 23:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨與日本首相高市早苗的峰會將涵蓋防務合作、無人機與供應鏈議題。"
+    },
+    {
+      "id": "te:markets:566879",
+      "time": "2026-07-14 23:31:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Citigroup Stock Price Hits 4-week Low — Citigroup shares decreased to 137.13 USD, the lowest since June 2026. Over the past 4 weeks, Citigroup lost 2.42%, and in the last 12 months, it increased 51.88%."
+    },
+    {
+      "id": "mkt:019f6141-4c85-7aab-8d83-1264df3f02e2",
+      "time": "2026-07-14 23:31:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Chancellor Merz plans his first visit to Japan in October, market sources say."
+    },
+    {
+      "id": "4988143",
+      "time": "2026-07-14 23:31:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科威特稱攔截敵對空中目標】科威特軍方當地時間今天（7月14日）下午6點20分（北京時間晚上11點20分）左右釋出訊息稱，防空系統正在攔截“敵對”空中目標。攔截過程可能會造成爆炸聲響，民眾不必驚慌，但應遵守相關部門此前釋出的安全指南。（CCTV國際時訊）"
+    },
+    {
+      "id": "4988142",
+      "time": "2026-07-14 23:31:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國總理默茨擬10月首次訪問日本。"
+    },
+    {
+      "id": "mkt:019f6140-ab86-7aab-8d83-088338ab2ddc",
+      "time": "2026-07-14 23:30:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Kevin Warsh: Fed's dual mandate not in conflict】Fed chair Kevin Warsh said the economy is solid and financial markets appear to be functioning, but the housing market is uneven, partly because inf has remained above the Fed’s target. He said maintaining price stability would help and that the Fed’s goals of price stability and full employment are not in conflict—better control of inf would make employers more willing to hire. Warsh added the labor market has shown remarkable resilience, the Fed still has work to do on inf, and it is not fearful of AI-driven productivity-led growth."
+    },
     {
       "id": "4988141",
       "time": "2026-07-14 23:30:37",
