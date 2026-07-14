@@ -1,7 +1,148 @@
 {
   "date": "2026-07-14",
-  "count": 626,
+  "count": 641,
   "items": [
+    {
+      "id": "4985527",
+      "time": "2026-07-14 08:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧渾河瀋陽水文站洪水黃色預警降級為藍色預警】渾河瀋陽水文站（瀋陽市和平區南京街工農橋）7月14日6時水位37.94米（相應流量2740立方米每秒），低於黃色預警標準，並持續下降。根據《遼寧省洪水預警釋出管理辦法》的規定，遼寧省河庫管理服務中心（遼寧省水文局）將洪水黃色預警降級為藍色預警，請沿河各有關單位及社會公眾加強防範。（遼寧水利）"
+    },
+    {
+      "id": "mkt:019f5df2-84e9-7aab-8d66-69f90f7ea474",
+      "time": "2026-07-14 08:06:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【CITIC Securities: Current U.S.-Iran stalemate risks becoming protracted】CITIC Securities says renewed U.S.-Iran tensions reflect fundamental flaws in the U.S.-Iran memorandum of understanding that make implementation difficult. The current stalemate carries a risk of becoming prolonged, characterized by failure to form a stable agreement, episodic fighting and intermittent disruptions to transit through the Strait of Hormuz. Markets typically expect this year’s U.S. midterm elections to restrain the Trump administration’s use of force, but CITIC notes that if the probability of Republicans losing the Senate remains low, political pressure on issues such as Supreme Court appointments, impeachment probes and election disputes will be limited — so markets may be overestimating the midterms’ constraining effect."
+    },
+    {
+      "id": "4985526",
+      "time": "2026-07-14 08:06:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌3.5%。"
+    },
+    {
+      "id": "te:markets:566529",
+      "time": "2026-07-14 08:06:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Hits 4-week High — Crude Oil increased to 79.62 USD/Bbl, the highest since June 2026. Over the past 4 weeks, Crude Oil WTI lost 1.45%, and in the last 12 months, it increased 18.81%."
+    },
+    {
+      "id": "4985525",
+      "time": "2026-07-14 08:05:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.2%，報8,788.00點。"
+    },
+    {
+      "id": "mkt:019f5df1-66a8-7aab-8d66-65545adb01d3",
+      "time": "2026-07-14 08:05:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bearish",
+        "Nasdaq100",
+        "US10Y"
+      ],
+      "text": "【SK Hynix rout underscores widening cross-market contagion risk】SK Hynix fell nearly 10% on its second day of US trading. Underlying volatility in Korea has been acute: after Korean regulators warned of a chip-sector overheat, the KOSPI plunged almost 10% on June 23; three days later (June 26) memory-demand worries triggered an index circuit breaker; on July 13 KOSPI dropped about 9% amid Iran-related risk, again tripping a market-wide circuit breaker. These moves have shown early global transmission—following the June 23 selloff the Nasdaq fell more than 2%, and it closed down 1.55% after the July 13 KOSPI decline. SK Hynix’s US listing, reportedly ~7x oversubscribed, effectively embeds one of Korea’s most leveraged, volatility-prone stocks into US investor portfolios. Market mechanics cited in the note: amplified retail leverage in Korea magnifies chip-sector swings, weighing on global AI demand expectations, while repricing of US Treasuries tightens liquidity—together increasing potential for broader spillovers. This is not a forecast of imminent systemic crisis: semiconductor demand supporting Samsung and SK Hynix remains real and growing, but KOSPI concentration and leverage-driven volatility raise the risk that shocks in Korea propagate more widely than expected."
+    },
+    {
+      "id": "4985524",
+      "time": "2026-07-14 08:05:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數跌幅擴大至1%】日經225指數跌幅擴大至1%，現報66521.3點。"
+    },
+    {
+      "id": "mkt:019f5df1-153c-7aab-8d66-58111747b33a",
+      "time": "2026-07-14 08:05:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI extended losses to 2%; SK Hynix fell 3%."
+    },
+    {
+      "id": "4985523",
+      "time": "2026-07-14 08:05:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋兩艘油輪在霍爾木茲海峽遭襲致1死8傷】阿聯酋國防部表示，兩艘阿聯酋國家油輪當天在霍爾木茲海峽南部航道遭兩枚來自伊朗方向的巡航導彈襲擊，造成1人死亡、8人受傷。報道稱，遭襲油輪分別為“蒙巴薩”號和“巴希婭”號。襲擊造成“蒙巴薩”號上1名印度籍船員死亡，另有6名印度籍船員和兩名烏克蘭籍船員受傷，其中4人傷勢嚴重。襲擊還導致這兩艘油輪起火、船體受損，目前火勢已被撲滅。（新華社）"
+    },
+    {
+      "id": "4985522",
+      "time": "2026-07-14 08:04:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌2%，至6668.60。"
+    },
+    {
+      "id": "4985521",
+      "time": "2026-07-14 08:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本味之素將於10月1日起上調部分冷凍食品價格。"
+    },
+    {
+      "id": "mkt:019f5df0-63ed-7aab-8d66-5303d5a87f79",
+      "time": "2026-07-14 08:04:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose above $84 per barrel, up 1.48% intraday."
+    },
+    {
+      "id": "4985520",
+      "time": "2026-07-14 08:04:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報告：超級富豪已不滿足於購置豪宅，他們想要買下整個街區】億萬富豪終極的炫富方式已不再是買下一棟豪宅，甚至也不是買兩棟。財力雄厚的買家正越來越多地搶購相鄰房產以打造私人莊園，裡面配有從專屬停車場到籠式網球場等各種設施。Coldwell Banker的一份最新年中報告顯示，“土地最大化”(Landmaxxing)-即透過收購更多土地來最佳化個人土地資產的做法-在今年初推動了豪宅市場的發展。該報告稱，今年前五個月，美國豪宅的搜尋量較2025年增長了一倍。其中，對可建設用地的搜尋量同比增長97%，而對包括私人島嶼和莊園在內的特色房產的搜尋量則增長了一倍以上。"
+    },
+    {
+      "id": "4985519",
+      "time": "2026-07-14 08:03:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報84.18美元/桶。"
+    },
+    {
+      "id": "4985518",
+      "time": "2026-07-14 08:03:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡元兌美元匯率持穩，稍早新加坡公佈第二季度GDP資料。"
+    },
     {
       "id": "mkt:019f5def-8ee1-7aab-8d66-4bc510ba63a2",
       "time": "2026-07-14 08:03:28",
