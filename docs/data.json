@@ -1,7 +1,192 @@
 {
-  "updated": "2026-07-15 00:03:00",
-  "count": 18625,
+  "updated": "2026-07-15 00:07:49",
+  "count": 18632,
   "items": [
+    {
+      "id": "4988209",
+      "time": "2026-07-15 00:06:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：該（阿肯色州2.5吉瓦直流太陽能）專案將創造約700個就業崗位，帶來約3億美元稅收收入。"
+    },
+    {
+      "id": "mkt:019f6160-cf6a-7aab-8d84-3f80146ad3f5",
+      "time": "2026-07-15 00:06:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Google (GOOG.O) added image-generation capability to the AI Overview in Google Search, powered by the Nano Banana model."
+    },
+    {
+      "id": "mkt:019f6160-b76e-7aab-8d84-36533a6b2b17",
+      "time": "2026-07-15 00:05:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the US does not need troops stationed in Iraq."
+    },
+    {
+      "id": "mkt:019f6160-ab34-7aab-8d84-2bf9f4053835",
+      "time": "2026-07-15 00:05:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US President Trump said the US will provide support if Iraq needs protection."
+    },
+    {
+      "id": "4988208",
+      "time": "2026-07-15 00:05:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：AI概覽功能中的影象生成將在未來幾周面向所有支援AI模式影象建立的地區推出英語版本。"
+    },
+    {
+      "id": "4988207",
+      "time": "2026-07-15 00:04:39",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：石油公司現在進入伊拉克是為了建立合作伙伴關係。"
+    },
+    {
+      "id": "4988206",
+      "time": "2026-07-15 00:04:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：若伊拉克需要保護，美方隨時提供支援。"
+    },
+    {
+      "id": "4988205",
+      "time": "2026-07-15 00:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不需要美國軍隊進駐伊拉克。"
+    },
+    {
+      "id": "4988204",
+      "time": "2026-07-15 00:04:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：為谷歌圖片推出探索與創作視覺化內容的新功能。"
+    },
+    {
+      "id": "4988203",
+      "time": "2026-07-15 00:03:59",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "高盛首席執行所羅門：沃什清楚美聯儲的職能不侷限於貨幣政策範疇。"
+    },
+    {
+      "id": "4988202",
+      "time": "2026-07-15 00:03:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌阿肯色州2.5吉瓦直流太陽能專案正式動工。"
+    },
+    {
+      "id": "4988201",
+      "time": "2026-07-15 00:02:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【巴菲特擬8年內處置全部所持伯克希爾股份 蓋茨基金會未獲捐贈】沃倫·巴菲特正加快每年向由三個子女運營的慈善基金會捐贈伯克希爾股票的步伐，這意味著他勢將在未來八年內全部處置所持伯克希爾股份。這是巴菲特二十年來首次決定不在年中向蓋茨基金會捐贈股票，並且也未將該基金會列入未來受贈機構名單。今年早些時候，美國司法部公佈的一批檔案，再次引發外界對比爾·蓋茨與傑弗裡·愛潑斯坦關係的關注。根據週二釋出的宣告，95歲的巴菲特計劃分別向舍伍德基金會、霍華德·G·巴菲特基金會和諾沃基金會各捐贈100萬股柏克夏BB類股票，這三家基金會分別由他的三個子女掌管。此外，他還將向以已故妻子命名的蘇珊·湯普森·巴菲特基金會捐贈900萬股股票。"
+    },
+    {
+      "id": "mkt:019f615d-a918-7aab-8d84-251928142772",
+      "time": "2026-07-15 00:02:35",
+      "tags": [
+        "MKT News",
+        "C.N",
+        "Impact bullish"
+      ],
+      "text": "Citigroup CEO Fraser says the bank aims to deliver the investment plan outlined at Investor Day ahead of schedule."
+    },
+    {
+      "id": "mkt:019f615d-962a-7aab-8d84-1ed05e0e451e",
+      "time": "2026-07-15 00:02:30",
+      "tags": [
+        "MKT News",
+        "C.O",
+        "Impact mixed"
+      ],
+      "text": "Citigroup CEO Fraser said the firm will not pursue non-organic investments and will focus solely on organic growth."
+    },
+    {
+      "id": "mkt:019f615d-8c31-7aab-8d84-10a635727169",
+      "time": "2026-07-15 00:02:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he does not want monetary policy to tilt toward one generation if it undermines affordability for first‑time homebuyers."
+    },
+    {
+      "id": "mkt:019f615c-c7f9-7aab-8d84-0c47cb9871fa",
+      "time": "2026-07-15 00:01:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed is resolute in preventing inflation from spreading."
+    },
+    {
+      "id": "mkt:019f615c-c560-7aab-8d84-0253f180bb59",
+      "time": "2026-07-15 00:01:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iraq possesses substantial untapped wealth."
+    },
+    {
+      "id": "4988200",
+      "time": "2026-07-15 00:01:32",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在首次購房可負擔性問題上，不希望貨幣政策厚此薄彼，偏袒某一代人。"
+    },
+    {
+      "id": "mkt:019f615c-a382-7aab-8d83-ff3d1cfe4313",
+      "time": "2026-07-15 00:01:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he will announce an Iraqi oil partnership this week or next."
+    },
     {
       "id": "4988199",
       "time": "2026-07-15 00:01:06",
@@ -170237,130 +170422,6 @@
         "國際"
       ],
       "text": "【高盛稱重資產類股下一輪漲勢將由盈利推動 料進一步跑贏輕資產類股】高盛集團策略師表示，資本密集型公司本財報季可能公佈穩健業績，進一步跑贏那些更依賴人力或數字資產的同行。“隨著實物資產、基礎設施和工業產能重拾戰略重要性，投資者對此佈局仍然不足，”Guillaume Jaisson等人表示。他們指的是“HALO”類公司，即重資產、低淘汰風險公司。一籃子歐洲資本密集型行業股票今年已上漲15%，其中包括公用事業和能源。另一方面，追蹤輕資產股票的指數下跌2%，因投資者對人工智慧相關高估值持懷疑態度。高盛策略師表示，盈利預估也反映出類似分化，重資本股票今年以來盈利預期上修幅度最大。"
-    },
-    {
-      "id": "4974785",
-      "time": "2026-07-08 00:07:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報74.15美元/桶。"
-    },
-    {
-      "id": "te:markets:564939",
-      "time": "2026-07-08 00:07:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Falls as Losses in Tech and Industrials Weigh — The CAC 40 fell 0.5% to close at 8,436 on Tuesday as industrial and technology stocks declined. STMicroelectronics tumbled 8%, tracking renewed global selling in chipmakers as investors questioned whether AI-driven earnings growth can be sustained if supply bottlenecks ease. Industrials also came under pressure as higher oil prices linked to renewed US-Iran tensions lifted bond yields and revived inflation concerns. Airbus fell 2.6%, Safran lost 2.8%, and Schneider Electric dropped 3.7%. In contrast, luxury stocks advanced after JPMorgan highlighted resilient consumer demand and encouraging second-quarter sales trends. LVMH gained 0.9%, L'Oréal rose 2.7%, and Hermès added 0.8%. TotalEnergies climbed 0.9% as higher oil prices supported energy shares."
-    },
-    {
-      "id": "te:markets:564938",
-      "time": "2026-07-08 00:07:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.30% Higher — The FTSE 100 Index gained 32 points or 0.30 percent on Tuesday to close at 10684 points. Gains were led by Diageo (3.77%), Associated British Foods (3.77%) and Shell (3.28%). Biggest losers were Airtel Africa (-5.26%), Anglo American (-4.60%) and Halma (-4.35%)."
-    },
-    {
-      "id": "mkt:019f3d53-7c25-7aab-8cd3-05d473868f36",
-      "time": "2026-07-08 00:05:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Natural Gas Production Estimate (Next Year) (Jul) | actual 115300000000B | previous 113600000000B"
-    },
-    {
-      "id": "mkt:019f3d53-6ba5-7aab-8cd2-fba7405fbd5c",
-      "time": "2026-07-08 00:05:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Natural Gas Production Estimate (Current Year) (Jul) | actual 111200000000B | previous 111000000000B"
-    },
-    {
-      "id": "mkt:019f3d53-1524-7aab-8cd2-f72e64524fc4",
-      "time": "2026-07-08 00:04:42",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Crude Oil Production Estimate (Next Year) (Jul) | actual 14030000M | previous 14150000M"
-    },
-    {
-      "id": "mkt:019f3d53-00ea-7aab-8cd2-ec57073059a5",
-      "time": "2026-07-08 00:04:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "EIA Short-Term Energy Outlook forecasts global oil demand of 102.8 mln b/d in 2026, down from a prior 102.9 mln b/d estimate; and 104.8 mln b/d in 2027, down from a prior 105.3 mln b/d."
-    },
-    {
-      "id": "mkt:019f3d52-fe56-7aab-8cd2-e76024dc6f45",
-      "time": "2026-07-08 00:04:36",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | EIA US Crude Oil Production Estimate (Current Year) (Jul) | actual 13780000M | previous 13720000M"
-    },
-    {
-      "id": "4974784",
-      "time": "2026-07-08 00:03:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署：美國 7 月原油日均產量預計 1384 萬桶，6 月為 1389 萬桶；8 月原油日均產量預計 1381 萬桶。"
-    },
-    {
-      "id": "mkt:019f3d52-32f3-7aab-8cd2-dc012b86d985",
-      "time": "2026-07-08 00:03:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【EIA cuts 2026-27 WTI and Brent price forecasts】EIA Short-Term Energy Outlook: 2026 WTI forecast lowered to $76.26/bbl from $88.32; 2027 WTI to $60.76/bbl from $74.39. 2026 Brent forecast lowered to $81.91/bbl from $95.39; 2027 Brent to $64.76/bbl from $79.39."
-    },
-    {
-      "id": "4974783",
-      "time": "2026-07-08 00:03:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署（EIA）：預計 2026 年全球原油日需求量 1.028 億桶，此前預測值為 1.029 億桶；預計 2027 年全球原油日需求量 1.048 億桶，此前預測值為 1.053 億桶。"
-    },
-    {
-      "id": "mkt:019f3d51-8f8a-7aab-8cd2-d7674da36c1e",
-      "time": "2026-07-08 00:03:03",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "U.S. EIA's July outlook projects this year's average Brent at $81.91/bbl, down from a prior $95.39/bbl."
     }
   ]
 }
