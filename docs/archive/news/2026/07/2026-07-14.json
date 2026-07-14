@@ -1,7 +1,60 @@
 {
   "date": "2026-07-14",
-  "count": 1322,
+  "count": 1328,
   "items": [
+    {
+      "id": "4985986",
+      "time": "2026-07-14 12:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾綜指跌幅一度收窄至0.4%，此前跌超5%。"
+    },
+    {
+      "id": "4985985",
+      "time": "2026-07-14 12:40:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率<JP20YTN=JBTC>下跌11.5個基點，至3.630%。"
+    },
+    {
+      "id": "te:economy:566652",
+      "time": "2026-07-14 12:39:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Japan Industrial Output Growth Revised Sharply Lower — Japan’s industrial production edged up 0.1% month-over-month in May 2026, easing from April’s 0.5% increase and falling short of the preliminary estimate, which had pointed to a similar gain. While output expanded for a second consecutive month, the softer reading highlighted persistent risks to supply chains and energy costs from prolonged Middle East tensions. On an annual basis, industrial output declined 2.1%, reversing a 2.0% rise in April and marking the first drop in six months."
+    },
+    {
+      "id": "mkt:019f5eeb-0df2-7aab-8d6e-a7a2716cf775",
+      "time": "2026-07-14 12:38:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reported the Islamic Revolutionary Guard Corps (IRGC) said it used ballistic missiles to strike a US Air Force base in Jordan."
+    },
+    {
+      "id": "4985984",
+      "time": "2026-07-14 12:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱用彈道導彈襲擊了美國在約旦的空軍基地。"
+    },
+    {
+      "id": "4985983",
+      "time": "2026-07-14 12:37:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天承科技：上半年淨利潤同比預增63.34%—76.95%】天承科技(688603)7月14日午間披露業績預告，預計2026年半年度實現歸屬於母公司所有者的淨利潤6000萬元到6500萬元，同比增加63.34%到76.95%。上半年，公司業績較上年同期實現增長，主要系報告期內PCB行業景氣度提升、下游客戶訂單增長，公司PCB專用溼電子化學品銷售規模較上年同期增加。報告期內，公司高附加值產品銷售佔比提升，主要產品出貨量同比增長，帶動營業收入和盈利能力同步提升。"
+    },
     {
       "id": "4985982",
       "time": "2026-07-14 12:35:04",

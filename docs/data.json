@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-14 12:38:01",
-  "count": 17486,
+  "updated": "2026-07-14 12:41:53",
+  "count": 17483,
   "items": [
+    {
+      "id": "4985986",
+      "time": "2026-07-14 12:41:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾綜指跌幅一度收窄至0.4%，此前跌超5%。"
+    },
+    {
+      "id": "4985985",
+      "time": "2026-07-14 12:40:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率<JP20YTN=JBTC>下跌11.5個基點，至3.630%。"
+    },
+    {
+      "id": "te:economy:566652",
+      "time": "2026-07-14 12:39:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Industrial Production Mom",
+        "Importance 1"
+      ],
+      "text": "Japan Industrial Output Growth Revised Sharply Lower — Japan’s industrial production edged up 0.1% month-over-month in May 2026, easing from April’s 0.5% increase and falling short of the preliminary estimate, which had pointed to a similar gain. While output expanded for a second consecutive month, the softer reading highlighted persistent risks to supply chains and energy costs from prolonged Middle East tensions. On an annual basis, industrial output declined 2.1%, reversing a 2.0% rise in April and marking the first drop in six months."
+    },
+    {
+      "id": "mkt:019f5eeb-0df2-7aab-8d6e-a7a2716cf775",
+      "time": "2026-07-14 12:38:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reported the Islamic Revolutionary Guard Corps (IRGC) said it used ballistic missiles to strike a US Air Force base in Jordan."
+    },
+    {
+      "id": "4985984",
+      "time": "2026-07-14 12:37:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱用彈道導彈襲擊了美國在約旦的空軍基地。"
+    },
+    {
+      "id": "4985983",
+      "time": "2026-07-14 12:37:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天承科技：上半年淨利潤同比預增63.34%—76.95%】天承科技(688603)7月14日午間披露業績預告，預計2026年半年度實現歸屬於母公司所有者的淨利潤6000萬元到6500萬元，同比增加63.34%到76.95%。上半年，公司業績較上年同期實現增長，主要系報告期內PCB行業景氣度提升、下游客戶訂單增長，公司PCB專用溼電子化學品銷售規模較上年同期增加。報告期內，公司高附加值產品銷售佔比提升，主要產品出貨量同比增長，帶動營業收入和盈利能力同步提升。"
+    },
     {
       "id": "4985982",
       "time": "2026-07-14 12:35:04",
@@ -159988,91 +160041,6 @@
         "其他"
       ],
       "text": "【生態環境部發布新規 規範工業園區汙水處理標準】生態環境部近日釋出《工業園區汙水集中處理設施水汙染物排放標準制訂技術導則》，為各地工業園區汙水排放標準提供明確技術指引。新規明確地方制定排放標準需堅持分類管理、全面防控、科學可行、依法合規原則。將工業園區分為單一行業型和綜合型兩類，綜合型工業園區可再細分行業類似型、主導型、差異型三個小類。地方根據實際情況和環境管理需要，篩選排放量大、有毒有害水汙染物種類多、對受納水體水生態環境風險高且現行排放標準不適用的一類園區，開展園區排放標準的制訂；行業差異型園區優先考慮制訂“一園一策”管控要求。"
-    },
-    {
-      "id": "4973492",
-      "time": "2026-07-07 12:41:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：澳大利亞超市的通脹紅利可能受限】Jefferies分析師警告稱，澳大利亞超市可能不會像過去那樣可靠地從通脹中獲益。他們將該投資銀行專有超市調查所顯示的近期包裝商品價格上漲歸因於伊朗衝突，並認為化肥和柴油價格高企將在中期內推動食品價格繼續上漲。他們在一份報告中告訴客戶，超市歷來受益於通脹，但目前政治和媒體的密切關注可能會阻礙其擴大毛利率的能力。調查顯示，與一年前相比，超市打折的商品範圍縮小了，但降價幅度更大了。"
-    },
-    {
-      "id": "mkt:019f3ae1-c4fa-7aab-8cc2-9fc6654d1f17",
-      "time": "2026-07-07 12:41:42",
-      "tags": [
-        "MKT News",
-        "BX.N",
-        "Impact bearish"
-      ],
-      "text": "Jefferies cut Blackstone (BX.N) PT to $145 from $152."
-    },
-    {
-      "id": "4973491",
-      "time": "2026-07-07 12:41:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將黑石集團目標價從152美元下調至145美元。"
-    },
-    {
-      "id": "4973490",
-      "time": "2026-07-07 12:41:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大皇家銀行（RBC）將特斯拉目標股價從475美元上調至500美元。"
-    },
-    {
-      "id": "mkt:019f3ae0-f0ee-7aab-8cc2-92b6809ce363",
-      "time": "2026-07-07 12:40:47",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "RBC raised Tesla (TSLA.O) price target to $500 from $475."
-    },
-    {
-      "id": "4973489",
-      "time": "2026-07-07 12:40:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光通訊模組製造商中際旭創一度漲3.3% 野村上調目標價】中際旭創週二早盤一度升3.3%，報1,135元，午間收盤上漲1.6%。野村在報告中表示，將中際旭創目標價由1,015元上調至1,325元，市場雖存在零部件供貨緊缺、大型雲AI（人工智慧）客戶重複下單的擔憂，但高階光通訊器件依舊是AI資料中心的關鍵瓶頸。中際旭創今年迄今暴漲83%，同期滬深300指數上揚3.7%。中證5G通訊主題指數早盤收跌1.3%。"
-    },
-    {
-      "id": "te:markets:564682",
-      "time": "2026-07-07 12:40:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Climbs for Fifth Straight Day — India’s BSE Sensex edged up about 0.2% to 78,412, marking a fifth consecutive session of gains, as continued foreign fund inflows and upbeat corporate business updates offset caution ahead of the June-quarter earnings season. Sentiment remained supported by sustained foreign portfolio investor inflows, with overseas investors net buyers for a fourth straight session, alongside easing crude oil prices and favourable monsoon progress. Stock-specific moves were in focus following pre-earnings business updates. Titan advanced 3.4% after reporting robust growth in its consumer business, driven by strong jewellery sales, while Jubilant FoodWorks gained 3.2% after posting higher consolidated revenue. On the downside, Trent fell 11.1% and came under pressure after its quarterly revenue growth came in below some market expectations. Other notable gainers were IOL Chemicals (18.9%), RITES (8.3%), and Ramco (6.3%), while the biggest losers included Kalyan (-6.8%), Apollo (-5.0%), and BSE (-3.8%)."
-    },
-    {
-      "id": "4973488",
-      "time": "2026-07-07 12:38:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交通運輸部：優先保障廣西防汛搶險人員、防汛救災物資運輸，做好災害損毀路段搶通保通】7月7日，交通運輸部影片排程廣西、廣東、海南、湖北、安徽、江蘇、遼寧、吉林、山東、內蒙古、雲南省(區)交通運輸主管部門及省交投、高速集團，山東、廣西、長江海事局，要求各單位要提高思想認識，樹牢底線思維，極限思維，始終把保障人民生命財產安全放在首位，重點做好交通運輸領域防汛工作，優先保障廣西防汛搶險人員、防汛救災物資運輸，做好災害損毀路段的搶通保通。"
-    },
-    {
-      "id": "mkt:019f3ade-a39b-7aab-8cc2-8a53abaf15a8",
-      "time": "2026-07-07 12:38:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhongfu Information wins contract to supply endpoint confidentiality inspection systems to specialized industrial unit】Zhongfu Information has won a procurement contract to deploy its Computer Confidentiality Security Inspection System and Confidentiality Guard system at a specialized industrial unit. The project implements Zhongfu’s computer confidentiality inspection solution in a business‑network environment."
     }
   ]
 }
