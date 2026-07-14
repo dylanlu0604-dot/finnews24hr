@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-15 02:24:23",
-  "count": 18823,
+  "updated": "2026-07-15 02:28:19",
+  "count": 18825,
   "items": [
+    {
+      "id": "te:markets:566900",
+      "time": "2026-07-15 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Canola Drops by 2.00% — Top commodity losers are Canola (-2%), Oat (-1.82%) and Coffee (-0.91%). Gains are led by Cocoa (1.61%) and Wheat (1.33%)."
+    },
+    {
+      "id": "mkt:019f61e0-10bc-7aab-8d87-72deba3ad774",
+      "time": "2026-07-15 02:25:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported US shells struck targets on Iran's Qeshm Island."
+    },
+    {
+      "id": "4988404",
+      "time": "2026-07-15 02:24:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什稱現有基礎通脹指標不理想 “超有興趣”找到新監測工具】美聯儲主席凱文·沃什表示，他“超有興趣”找到新的指標來更好地監測通脹，從而幫助央行做決策。沃什說，他沒有偏好的通脹衡量指標，“當然”有興趣找到大型零售商銷售商品的平均或中位價。沃什還在回答議員提問時表示，受密切關注的兩項剔除食品和能源價格的基礎通脹指標並非很好的衡量標準。"
+    },
+    {
+      "id": "4988403",
+      "time": "2026-07-15 02:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國炮彈擊中伊朗格什姆島目標。"
+    },
     {
       "id": "mkt:019f61de-362a-7aab-8d87-69d1a99e369e",
       "time": "2026-07-15 02:23:00",
@@ -172248,25 +172288,6 @@
         "市場"
       ],
       "text": "上期所原油期貨夜盤收漲2.82%，報451.80元人民幣/桶。滬金夜盤收漲0.08%，滬銀收跌0.70%。"
-    },
-    {
-      "id": "4974839",
-      "time": "2026-07-08 02:25:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜發行250億美元債券，獲得620億美元認購需求。"
-    },
-    {
-      "id": "te:markets:564971",
-      "time": "2026-07-08 02:25:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Plunges by 9.30% — Top commodity losers are Coffee (-9.30%) and Sugar (-0.79%). Gains are led by Cotton (3.76%) and Rice (2.32%)."
     }
   ]
 }

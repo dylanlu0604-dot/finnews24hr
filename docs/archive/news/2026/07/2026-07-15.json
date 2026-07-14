@@ -1,7 +1,47 @@
 {
   "date": "2026-07-15",
-  "count": 331,
+  "count": 335,
   "items": [
+    {
+      "id": "te:markets:566900",
+      "time": "2026-07-15 02:25:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Canola Drops by 2.00% — Top commodity losers are Canola (-2%), Oat (-1.82%) and Coffee (-0.91%). Gains are led by Cocoa (1.61%) and Wheat (1.33%)."
+    },
+    {
+      "id": "mkt:019f61e0-10bc-7aab-8d87-72deba3ad774",
+      "time": "2026-07-15 02:25:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state media reported US shells struck targets on Iran's Qeshm Island."
+    },
+    {
+      "id": "4988404",
+      "time": "2026-07-15 02:24:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【沃什稱現有基礎通脹指標不理想 “超有興趣”找到新監測工具】美聯儲主席凱文·沃什表示，他“超有興趣”找到新的指標來更好地監測通脹，從而幫助央行做決策。沃什說，他沒有偏好的通脹衡量指標，“當然”有興趣找到大型零售商銷售商品的平均或中位價。沃什還在回答議員提問時表示，受密切關注的兩項剔除食品和能源價格的基礎通脹指標並非很好的衡量標準。"
+    },
+    {
+      "id": "4988403",
+      "time": "2026-07-15 02:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國炮彈擊中伊朗格什姆島目標。"
+    },
     {
       "id": "mkt:019f61de-362a-7aab-8d87-69d1a99e369e",
       "time": "2026-07-15 02:23:00",
