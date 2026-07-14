@@ -1,7 +1,114 @@
 {
-  "updated": "2026-07-14 09:15:28",
-  "count": 17349,
+  "updated": "2026-07-14 09:19:22",
+  "count": 17355,
   "items": [
+    {
+      "id": "mkt:019f5e34-50cd-7aab-8d67-d77d32e5c3ac",
+      "time": "2026-07-14 09:18:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The container shipping index (Europe route) main contract rose more than 5.0% intraday to 2,544.5 points."
+    },
+    {
+      "id": "4985655",
+      "time": "2026-07-14 09:18:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2544.50點。"
+    },
+    {
+      "id": "4985654",
+      "time": "2026-07-14 09:16:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾擎機器人慾收購公司以借殼上市？森霸感測：目前不存在傳聞情形】有投資者在互動平臺提問森霸感測(300701)：近來市場傳聞南陽籍企業家眾擎機器人趙同陽與公司洽談，欲收購同為南陽本土企業森霸感測以借殼上市，是否屬實？森霸感測回覆：目前公司不存在傳聞的情形，生產經營情況一切正常。"
+    },
+    {
+      "id": "4985653",
+      "time": "2026-07-14 09:16:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北上深住宅租金已連續4個月環比上漲 畢業季支撐需求持續釋放】6月，隨著高校畢業季啟動，全國住房租賃市場需求加速釋放。中指研究院監測資料顯示，50城住宅平均租金在連續兩月小幅調整後止跌轉漲，市場修復態勢進一步明確。其中，北京、上海、深圳住宅租金已連續4個月環比上漲，上海租金漲勢持續領跑。根據中指院50城住宅租賃價格指數，6月，50城住宅平均租金為33.97元/平方米/月，環比結束連續兩個月的小幅調整，漲幅為0.08%；同比下跌2.82%，跌幅較5月收窄0.35個百分點。6月高校畢業季住房租賃需求集中入市，帶動重點城市住房租賃市場活躍度明顯提升，業主掛牌價格預期也隨之修復。"
+    },
+    {
+      "id": "mkt:019f5e31-fad7-7aab-8d67-cc8f70b4a177",
+      "time": "2026-07-14 09:16:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Container shipping index (Europe route) front-month contract up over 4.00% intraday at 2,520.0 pts."
+    },
+    {
+      "id": "4985652",
+      "time": "2026-07-14 09:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳果：上證3900不宜看空】東方財富研究所副所長、首席策略官陳果表示，寬基大幅淨流入強烈訊號，下半年微觀流動性好於上半年，無論外部如何動盪，上證3900不宜看空，指數下行空間有限，且下半年有上升空間，先加錯殺資產、中報業績超預期品種和藍籌老登 。"
+    },
+    {
+      "id": "mkt:019f5e31-acd3-7aab-8d67-c7ec647ea722",
+      "time": "2026-07-14 09:15:41",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Orient Jincheng: Convertible allocations should remain defensive near term】Orient Jincheng said renewed US–Iran hostilities, firmer Fed rate‑hike expectations and a weakening tech narrative have accelerated sector rotation and heightened trading volatility; convertibles are likely to follow underlying equities and remain under pressure, so short‑term allocations should emphasize defensive characteristics. Structurally, large‑cap, steady‑earnings sectors should outperform amid risk‑off flows, and recent inflows into convertible ETFs tilted to big‑cap issues will accentuate that relative strength. Faster issuance is expanding listings at the margin and supports new‑issue valuations, making primary deals an important source of incremental yield. With underlying stocks under strain, short‑dated convertibles may offer opportunistic trades tied to potential downward conversion‑price adjustments."
+    },
+    {
+      "id": "4985651",
+      "time": "2026-07-14 09:15:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7990，較上日調低18點】人民幣兌美元中間價報6.7990，較上日調低18點。"
+    },
+    {
+      "id": "4985650",
+      "time": "2026-07-14 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7990元。"
+    },
+    {
+      "id": "4985649",
+      "time": "2026-07-14 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.29%，報24131.47點，低水82.25點。"
+    },
+    {
+      "id": "4985648",
+      "time": "2026-07-14 09:15:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【東方金誠：短期內轉債配置仍需以防禦屬性為主】7月14日，東方金誠釋出研究報告表示，在美伊衝突再起、美聯儲加息預期強化，以及科技敘事承壓的三重影響下，當前題材輪動較快，博弈情緒激烈的特徵預計仍將延續，轉債市場仍將跟隨正股有所承壓，短期內轉債配置仍需以防禦屬性為主。結構上，業績穩健性較強的大盤績優板塊，在資金避險需求下有望表現佔優，近期轉債ETF逆勢加倉也將進一步放大大盤轉債相對優勢；隨著轉債發行端提速，轉債上市數量邊際擴容，新券估值水平也有較強支撐，可成為增厚收益的重要渠道；此外，隨著正股端承壓，剩餘期限較短轉債的下修博弈機會也可持續關注。"
+    },
+    {
+      "id": "4985647",
+      "time": "2026-07-14 09:15:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "對二甲苯連續主力合約日內漲4%，現報8164.00元。"
+    },
     {
       "id": "mkt:019f5e30-032a-7aab-8d67-bdab277c2384",
       "time": "2026-07-14 09:13:52",
@@ -158615,62 +158722,6 @@
         "GOOGL.O"
       ],
       "text": "【AI firms wage free-compute war; startups net large cloud/token credits】WSJ reports Silicon Valley startups are receiving a surge in free compute and token credits as AI model vendors compete for new enterprise clients. Cursor, the AI coding firm acquired by SpaceX, offered a 75% discount through July 5. OpenAI and Anthropic sales teams are presenting highly generous terms. Some founders say fundraising has been delayed and they can negotiate between AI vendors. Combined cloud and token credits from some providers can exceed $3m, roughly the median US seed round. Google Cloud is granting select startups up to $500k in cloud credits plus early access to Gemini; Microsoft and AWS are offering similar packages. Vendors are pushing such deals to lock in early customers and secure durable revenue while facing competition from increasingly capable free and lower-cost models."
-    },
-    {
-      "id": "mkt:019f3a27-f1a0-7aab-8cbe-8aac2ced2fb9",
-      "time": "2026-07-07 09:18:43",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell as much as 1.00% intraday."
-    },
-    {
-      "id": "4973219",
-      "time": "2026-07-07 09:18:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "日經225指數跌幅擴大至1%，現報69006.61點。"
-    },
-    {
-      "id": "4973218",
-      "time": "2026-07-07 09:17:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海螺新材等成立智慧裝修公司，含AI及物聯網業務】企查查APP顯示，近日，安徽海螺智慧裝修有限公司成立，經營範圍包含：人工智慧應用軟體開發；人工智慧行業應用系統整合服務；物聯網技術服務；專業設計服務等。企查查股權穿透顯示，該公司由海螺新材等共同持股。"
-    },
-    {
-      "id": "4973217",
-      "time": "2026-07-07 09:16:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【正大天晴1類新藥TQB3126首次獲批臨床】近日，中國生物製藥（1177.HK）核心企業正大天晴自主開發的1類創新藥TQB3126片首次獲得國家藥品監督管理局藥品審評中心（CDE）批准開展臨床研究，擬開發用於晚期乳腺癌。"
-    },
-    {
-      "id": "mkt:019f3a25-6eac-7aab-8cbe-85861d4b13a1",
-      "time": "2026-07-07 09:15:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng index futures opened down 0.06% at 23,530, trading at an 88-point discount to the cash index."
-    },
-    {
-      "id": "4973216",
-      "time": "2026-07-07 09:15:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8054，較上日調高12點】人民幣兌美元中間價報6.8054，較上日調高12點。"
     }
   ]
 }
