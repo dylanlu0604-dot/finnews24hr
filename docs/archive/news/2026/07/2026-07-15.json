@@ -1,7 +1,47 @@
 {
   "date": "2026-07-15",
-  "count": 637,
+  "count": 641,
   "items": [
+    {
+      "id": "4988573",
+      "time": "2026-07-15 06:50:25",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【7月15日隔夜要聞一覽】\n1、美國總統特朗普表示，對伊朗的打擊將繼續，“直到我說夠了為止”。\n2、特朗普：美國官員已於週二與伊朗舉行會談，美國敦促伊朗達成協議。\n3、伊朗軍隊發表宣告稱，伊朗軍隊持續對地區內美軍基地展開無人機打擊。\n4、週二美股成交額第4名IBM收跌25.21%，創該公司115年歷史上的最大單日跌幅，成交146.63億美元，市值蒸發690億美元。\n5、美國中央司令部：美國東部時間今日下午4時，美軍恢復對往返伊朗港口及沿岸地區船隻實施海上封鎖。\n6、美國支援伊拉克-敘利亞輸油管道專案，避開霍爾木茲海峽，以削弱伊朗影響力。\n7、蘋果股票獲得罕見的看跌評級，KeyBanc表示需求和估值令人擔心。\n8、美聯儲沃什：現有基礎通脹指標不理想，“超有興趣”找到新監測工具。\n9、特朗普宣稱將與伊拉克達成“龐大”的石油交易。"
+    },
+    {
+      "id": "mkt:019f62d2-8bd4-7aab-8d8b-54fef523485f",
+      "time": "2026-07-15 06:49:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. Treasury’s Office of Foreign Assets Control sanctioned multiple wallets linked to Iran’s central bank and froze more than $130 million."
+    },
+    {
+      "id": "mkt:019f62d2-6861-7aab-8d8b-4c1a9da99b36",
+      "time": "2026-07-15 06:49:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran local government: exchange of fire in Strait of Hormuz】State media early on the 15th, citing Hormozgan provincial authorities, reported exchange of fire in the Strait of Hormuz, with explosions heard in the province's coastal counties, Bandar Abbas and nearby Persian Gulf islands. Mehr news agency earlier reported multiple explosions in Sirik county, at the mouth of the Strait, which it said may be linked to crossfire in adjacent waters."
+    },
+    {
+      "id": "4988572",
+      "time": "2026-07-15 06:48:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗地方政府：霍爾木茲海峽發生交火】伊朗邁赫爾通訊社15日凌晨援引伊朗霍爾木茲甘省政府訊息報道說，霍爾木茲海峽發生交火，該省沿海各縣、阿巴斯港和位於波斯灣的島嶼傳出爆炸聲。另據伊朗邁赫爾通訊社當天稍早時候報道，霍爾木茲甘省錫裡克縣多次傳出爆炸聲，這或與附近水域發生交火有關。錫裡克位於霍爾木茲海峽入口處。（新華社）"
+    },
     {
       "id": "4988571",
       "time": "2026-07-15 06:47:46",

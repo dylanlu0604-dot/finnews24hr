@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-15 06:49:01",
-  "count": 18776,
+  "updated": "2026-07-15 06:52:55",
+  "count": 18775,
   "items": [
+    {
+      "id": "4988573",
+      "time": "2026-07-15 06:50:25",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【7月15日隔夜要聞一覽】\n1、美國總統特朗普表示，對伊朗的打擊將繼續，“直到我說夠了為止”。\n2、特朗普：美國官員已於週二與伊朗舉行會談，美國敦促伊朗達成協議。\n3、伊朗軍隊發表宣告稱，伊朗軍隊持續對地區內美軍基地展開無人機打擊。\n4、週二美股成交額第4名IBM收跌25.21%，創該公司115年歷史上的最大單日跌幅，成交146.63億美元，市值蒸發690億美元。\n5、美國中央司令部：美國東部時間今日下午4時，美軍恢復對往返伊朗港口及沿岸地區船隻實施海上封鎖。\n6、美國支援伊拉克-敘利亞輸油管道專案，避開霍爾木茲海峽，以削弱伊朗影響力。\n7、蘋果股票獲得罕見的看跌評級，KeyBanc表示需求和估值令人擔心。\n8、美聯儲沃什：現有基礎通脹指標不理想，“超有興趣”找到新監測工具。\n9、特朗普宣稱將與伊拉克達成“龐大”的石油交易。"
+    },
+    {
+      "id": "mkt:019f62d2-8bd4-7aab-8d8b-54fef523485f",
+      "time": "2026-07-15 06:49:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. Treasury’s Office of Foreign Assets Control sanctioned multiple wallets linked to Iran’s central bank and froze more than $130 million."
+    },
+    {
+      "id": "mkt:019f62d2-6861-7aab-8d8b-4c1a9da99b36",
+      "time": "2026-07-15 06:49:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran local government: exchange of fire in Strait of Hormuz】State media early on the 15th, citing Hormozgan provincial authorities, reported exchange of fire in the Strait of Hormuz, with explosions heard in the province's coastal counties, Bandar Abbas and nearby Persian Gulf islands. Mehr news agency earlier reported multiple explosions in Sirik county, at the mouth of the Strait, which it said may be linked to crossfire in adjacent waters."
+    },
+    {
+      "id": "4988572",
+      "time": "2026-07-15 06:48:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗地方政府：霍爾木茲海峽發生交火】伊朗邁赫爾通訊社15日凌晨援引伊朗霍爾木茲甘省政府訊息報道說，霍爾木茲海峽發生交火，該省沿海各縣、阿巴斯港和位於波斯灣的島嶼傳出爆炸聲。另據伊朗邁赫爾通訊社當天稍早時候報道，霍爾木茲甘省錫裡克縣多次傳出爆炸聲，這或與附近水域發生交火有關。錫裡克位於霍爾木茲海峽入口處。（新華社）"
+    },
     {
       "id": "4988571",
       "time": "2026-07-15 06:47:46",
@@ -171864,56 +171904,6 @@
         "其他"
       ],
       "text": "科威特電力部表示，應急搶修隊伍正在排查故障原因、恢復供電，並呼籲民眾以官方釋出資訊為準。"
-    },
-    {
-      "id": "4975074",
-      "time": "2026-07-08 06:52:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月08日06時48分在四川宜賓市高縣（北緯28.53度，東經104.67度）發生3.2級地震，震源深度8千米。"
-    },
-    {
-      "id": "mkt:019f3ec8-358b-7aab-8cd8-1ea9cdec38b3",
-      "time": "2026-07-08 06:52:15",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "An adviser to Ukraine's interior minister said a drone attack in Russia's Voronezh region set the Borisoglebsk air base ablaze, and that Ukraine is continuing to degrade Russia's military capability."
-    },
-    {
-      "id": "4975073",
-      "time": "2026-07-08 06:51:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "在世界盃十六強賽中，瑞士隊透過點球大戰以4-3擊敗哥倫比亞隊。"
-    },
-    {
-      "id": "4975072",
-      "time": "2026-07-08 06:50:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【日本政府擬修改貨幣政策相關表述】日本朝日新聞援引匿名官員訊息稱，日本政府正考慮修改年度經濟財政基本方針中有關貨幣政策的措辭，該方針將制定日本下一年度的經濟與財政工作規劃。此次修改的背景是市場投資者認為方針草案原有表述暗含施壓日本央行的意味。"
-    },
-    {
-      "id": "te:markets:564987",
-      "time": "2026-07-08 06:50:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Falls Ahead of RBNZ Decision — The NZX 50 dropped 42 points, or 0.3%, to 13,720 in Wednesday morning trade, after being flat in the previous session, pulling back from a record high reached over the previous two consecutive sessions, as traders remained cautious ahead of the RBNZ's monetary policy decision due later today. The market expects the central bank to raise its policy rate by 25 bps to 2.5%. Traders also anticipated the release of the Fed's June meeting minutes for guidance on the outlook for interest rates. Rising oil prices also pressured sentiment, as inflation concerns raised expectations of further interest rate hikes. Financials, healthcare, technology, and utilities mainly weighed on the index. Fisher & Paykel Healthcare dropped 2.0%, Ebos Group fell 1.2%, Mainfreight lost 1.0%, Infratil declined 0.6%, and F&C Investment went down 0.4%."
     }
   ]
 }
