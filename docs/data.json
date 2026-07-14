@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-15 02:40:07",
+  "updated": "2026-07-15 02:44:02",
   "count": 18832,
   "items": [
+    {
+      "id": "4988418",
+      "time": "2026-07-15 02:43:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員稱美軍正對伊朗發動新一輪空襲】央視記者當地時間14日獲悉，一名美國官員證實，美軍正在對伊朗發動新一輪空襲，相關行動已持續數小時。（央視新聞）"
+    },
+    {
+      "id": "4988417",
+      "time": "2026-07-15 02:41:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名美國官員透露，美軍已於週二早些時候對伊朗境內的多處軍事目標發動了額外打擊。"
+    },
+    {
+      "id": "mkt:019f61ee-dd41-7aab-8d87-bfba286b9d41",
+      "time": "2026-07-15 02:41:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said acting Attorney General Todd Blanche \"has performed outstandingly\" and urged the Senate to promptly confirm him as the permanent attorney general."
+    },
+    {
+      "id": "mkt:019f61ee-3f76-7aab-8d87-b4ac09143b87",
+      "time": "2026-07-15 02:40:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "According to CNBC, citing US officials, the US military on Tuesday carried out multiple additional strikes on Iranian military targets aimed at eliminating an emerging threat."
+    },
     {
       "id": "4988416",
       "time": "2026-07-15 02:39:18",
@@ -172314,41 +172350,6 @@
         "MKT News"
       ],
       "text": "IRNA reported Lebanon's Shia Supreme Islamic Council deputy chairman Ali Hatib met with Iranian foreign minister Araghchi."
-    },
-    {
-      "id": "4974846",
-      "time": "2026-07-08 02:42:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油局（ANP）：根據協議，巴西石油公司將向該局支付 3 億雷亞爾。"
-    },
-    {
-      "id": "mkt:019f3de3-81f8-7aab-8cd5-04f9f5841ae6",
-      "time": "2026-07-08 02:42:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "PETR4.SA"
-      ],
-      "text": "Brazil's National Petroleum Agency said Petrobras will pay 300 mln reais to the agency under an agreement."
-    },
-    {
-      "id": "4974845",
-      "time": "2026-07-08 02:42:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 加密貨幣交易所 Kraken 正申請歐洲全能銀行牌照。"
-    },
-    {
-      "id": "4974844",
-      "time": "2026-07-08 02:40:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "巴西國家石油局（ANP）釋出宣告稱，巴西石油公司（巴西國家石油）承諾對 335 口海上油井完成合規整改。"
     }
   ]
 }
