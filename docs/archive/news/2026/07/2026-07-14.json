@@ -1,7 +1,106 @@
 {
   "date": "2026-07-14",
-  "count": 3621,
+  "count": 3630,
   "items": [
+    {
+      "id": "4987804",
+      "time": "2026-07-14 20:51:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【再創世界紀錄，隆基鈣鈦礦疊層電池效率重新整理至35.5%】7月14日，隆基綠能在2026光儲創新技術釋出會上公佈了經由義大利EuropeanSolarTestInstallation（ESTI）認證的鈣鈦礦疊層電池最新的效率紀錄——35.5%。這是該公司自2023年以來，第12次重新整理鈣/矽疊層電池世界紀錄，也是繼2024年後，第5次打破鈣/矽元件效率世界紀錄。"
+    },
+    {
+      "id": "4987803",
+      "time": "2026-07-14 20:51:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴菲特不再將60億美元伯克希爾股權捐贈給蓋茨慈善基金會。"
+    },
+    {
+      "id": "mkt:019f60ad-55a1-7aab-8d7d-c595d41f56c9",
+      "time": "2026-07-14 20:50:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "TIMIRAOS: June CPI readings were broadly muted. Core goods prices fell for a second consecutive month, down 0.09%. Housing rose only 0.12%. Core services ex-housing declined 0.2%, the weakest since the pandemic."
+    },
+    {
+      "id": "mkt:019f60ad-079d-7aab-8d7d-ba657595ae60",
+      "time": "2026-07-14 20:49:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Federal Reserve Chair Kevin Warsh optimistic on economy, cautious on AI boom】Federal Reserve Chair Kevin Warsh said he is optimistic on the overall economy, noting a broadly stable labor market, few layoffs and some nominal wage growth. He warned he is more cautious about the AI boom, saying AI has boosted corporate investment but adds uncertainty and “we are not yet clear on the extent to which the economy will benefit from AI’s development.” The Fed is closely monitoring AI’s effects on inflation and the labor market."
+    },
+    {
+      "id": "4987801",
+      "time": "2026-07-14 20:48:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉任命新任駐美國代辦】當地時間14日，委內瑞拉代總統德爾西·羅德里格斯透過社交媒體通報，任命約翰·阿爾瓦雷斯·馬爾克斯為新的委內瑞拉駐美國代辦。委政府日前將外交部和外貿部合併為外交與外貿部，原委駐美代辦費利克斯·普拉森西亞被任命為該新部門的部長。（央視新聞）"
+    },
+    {
+      "id": "4987800",
+      "time": "2026-07-14 20:48:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：紐約市本週對全市建築工地開展檢查。"
+    },
+    {
+      "id": "mkt:019f60ab-8969-7aab-8d7d-b05a8998307d",
+      "time": "2026-07-14 20:48:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【U.S. June CPI below expectations as energy prices retreat】U.S. consumer prices fell more than expected in June, recording the largest monthly drop since April 2020 as a sharp fall in energy eased recent inflationary pressure. Headline CPI declined 0.4% m/m (seasonally adjusted), taking the y/y rate to 3.5%; economists had penciled in -0.2% m/m and 3.8% y/y. Core CPI (ex food and energy) was unchanged m/m, with the 12-month rate at 2.6% versus market expectations of +0.2% m/m and 2.9% y/y. The energy index plunged 5.7% m/m (still +15.7% y/y); gasoline and fuel oil each fell more than 9%. Services inflation excluding energy eased noticeably—a key Fed-watch category—with housing up just 0.1% and transportation services down 0.3%. Food rose 0.2% m/m; new vehicle prices were flat; used cars and trucks fell 0.2%; apparel declined 0.6%."
+    },
+    {
+      "id": "4987799",
+      "time": "2026-07-14 20:47:49",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "格雷夫公司股價盤前下跌1.3%，此前美國銀行全球研究部將其評級從中性下調至表現不佳。"
+    },
+    {
+      "id": "4987798",
+      "time": "2026-07-14 20:47:37",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲主席沃什：美聯儲不會容忍通脹過高】美聯儲主席凱文·沃什表示，央行決策者絕不會容忍高通脹現象。他再次重申了控制物價上漲的決心，因為物價上漲問題已經持續了五年之久。他在美聯儲公佈的講稿中表示：“我們的委員會成員絕不能容忍持續居高不下的通脹現象”。“我們都決心要恢復價格穩定。”“如果我們能夠制定出正確的政策——而我們一定能夠做到——那麼過去五年中的通脹問題就將成為歷史。”沃什的講稿是6月份美國CPI資料公佈之前準備好的。"
+    },
     {
       "id": "mkt:019f60ab-1f1c-7aab-8d7d-adc37b0c94a8",
       "time": "2026-07-14 20:47:35",
