@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-15 03:23:44",
-  "count": 18814,
+  "updated": "2026-07-15 03:29:31",
+  "count": 18816,
   "items": [
+    {
+      "id": "4988457",
+      "time": "2026-07-15 03:28:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員科扎克：美國不反對馬查多返回委內瑞拉， 正尋求敲定委內瑞拉大選時間的折中方案。"
+    },
+    {
+      "id": "4988456",
+      "time": "2026-07-15 03:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：倘若美國以為憑藉軍事打擊與封鎖就能迫使我方主動談判，那便是打錯了算盤。"
+    },
+    {
+      "id": "mkt:019f6218-7acb-7aab-8d88-676fd1fcd504",
+      "time": "2026-07-15 03:26:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed Governor Bowman says Fed should not over-intervene in banks' use of AI】Fed Governor Bowman said lenders understand innovation risks better and should be allowed to decide when to adopt AI and other new technologies. Speaking at a financial inclusion conference, Bowman said, \"When and how to innovate is up to each bank and its management; they know their customers, communities and risk tolerance better than we do.\" He added the Fed should \"set clear expectations, be transparent and refrain from intervening in individual business decisions related to innovation.\" Bowman’s remarks come as officials assess rapid AI developments, including Anthropic’s new Mythos model. Earlier at the same event, Fed Governor Barr said it remains unclear whether AI will reduce or exacerbate income and wealth inequality."
+    },
+    {
+      "id": "4988455",
+      "time": "2026-07-15 03:25:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗阿巴斯港傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019f6216-715e-7aab-8d88-5d466cd009da",
+      "time": "2026-07-15 03:24:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian media report explosions were heard again on Qeshm Island and in Bandar Abbas."
+    },
     {
       "id": "4988454",
       "time": "2026-07-15 03:22:06",
@@ -218,6 +267,16 @@
         "Brent"
       ],
       "text": "Revised bill would cap tariffs on buyers of Russian oil and gas at up to 100%, down from a previously proposed flat 500% tariff."
+    },
+    {
+      "id": "mkt:019f6219-bba8-7aab-8d88-69afce8e56e7",
+      "time": "2026-07-15 03:03:41",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.18% at 24,400, trading 59 points above the cash index."
     },
     {
       "id": "4988439",
@@ -172130,41 +172189,6 @@
         "其他"
       ],
       "text": "國際奧林匹克委員會宣佈，2030年冬奧會將增設自由式野雪滑雪、單板野雪以及花樣滑冰集體專案，同時取消北歐兩項賽事。"
-    },
-    {
-      "id": "4974898",
-      "time": "2026-07-08 03:24:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西食糖行業警告稱，美國加徵關稅會威脅巴西東北部食糖出口。"
-    },
-    {
-      "id": "te:markets:564975",
-      "time": "2026-07-08 03:24:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Tops $76 — Brent extended its gains on Tuesday, rising about 6% to around $76 per barrel as geopolitical tensions in the Middle East intensify. A US official told CNBC that the Treasury Department is revoking the waiver allowing Iran to sell its oil after recent attacks on tankers in the Strait of Hormuz. According to Qatar’s Ministry of Foreign Affairs, Iran attacked the Qatari LNG tanker Al-Rekayyat and another tanker transiting the strait was reportedly struck by an unidentified projectile. Iran’s foreign minister said that final peace negotiations would not move forward as long as security threats persist. President Trump warned that the two countries would either reach an agreement or the US would \"finish the job,\" renewing the prospect of military action. Meanwhile, Saudi Aramco cut the official selling price of its Arab Light crude for Asian buyers by $1.10 per barrel for next month, widening the discount to $1.50 below the regional benchmark amid softer market conditions."
-    },
-    {
-      "id": "4974897",
-      "time": "2026-07-08 03:24:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，伊朗正根據諒解備忘錄認真履行其在霍爾木茲海峽管控必要措施方面所承擔的義務。"
-    },
-    {
-      "id": "4974896",
-      "time": "2026-07-08 03:23:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮一名官員透露，黎巴嫩總統約瑟夫·奧翁預計將於7月21日訪問白宮。"
     }
   ]
 }

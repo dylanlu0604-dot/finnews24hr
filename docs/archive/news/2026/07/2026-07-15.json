@@ -1,7 +1,56 @@
 {
   "date": "2026-07-15",
-  "count": 413,
+  "count": 419,
   "items": [
+    {
+      "id": "4988457",
+      "time": "2026-07-15 03:28:15",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員科扎克：美國不反對馬查多返回委內瑞拉， 正尋求敲定委內瑞拉大選時間的折中方案。"
+    },
+    {
+      "id": "4988456",
+      "time": "2026-07-15 03:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：倘若美國以為憑藉軍事打擊與封鎖就能迫使我方主動談判，那便是打錯了算盤。"
+    },
+    {
+      "id": "mkt:019f6218-7acb-7aab-8d88-676fd1fcd504",
+      "time": "2026-07-15 03:26:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed Governor Bowman says Fed should not over-intervene in banks' use of AI】Fed Governor Bowman said lenders understand innovation risks better and should be allowed to decide when to adopt AI and other new technologies. Speaking at a financial inclusion conference, Bowman said, \"When and how to innovate is up to each bank and its management; they know their customers, communities and risk tolerance better than we do.\" He added the Fed should \"set clear expectations, be transparent and refrain from intervening in individual business decisions related to innovation.\" Bowman’s remarks come as officials assess rapid AI developments, including Anthropic’s new Mythos model. Earlier at the same event, Fed Governor Barr said it remains unclear whether AI will reduce or exacerbate income and wealth inequality."
+    },
+    {
+      "id": "4988455",
+      "time": "2026-07-15 03:25:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗阿巴斯港傳來爆炸聲。"
+    },
+    {
+      "id": "mkt:019f6216-715e-7aab-8d88-5d466cd009da",
+      "time": "2026-07-15 03:24:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian media report explosions were heard again on Qeshm Island and in Bandar Abbas."
+    },
     {
       "id": "4988454",
       "time": "2026-07-15 03:22:06",
@@ -205,6 +254,16 @@
         "國際"
       ],
       "text": "美國一名法官裁定，阻止特朗普政府推行一項針對社交媒體虛假資訊研究人員的簽證限制政策。"
+    },
+    {
+      "id": "mkt:019f6219-bba8-7aab-8d88-69afce8e56e7",
+      "time": "2026-07-15 03:03:41",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed up 0.18% at 24,400, trading 59 points above the cash index."
     },
     {
       "id": "mkt:019f6203-76fd-7aab-8d88-0be6b48a17fd",
