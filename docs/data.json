@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-14 08:34:36",
-  "count": 17319,
+  "updated": "2026-07-14 08:38:27",
+  "count": 17321,
   "items": [
+    {
+      "id": "4985574",
+      "time": "2026-07-14 08:37:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美駐伊拉克使館附近拉響防空警報 】當地時間今天（7月14日）凌晨3點30分（北京時間上午8點30分）左右，位於伊拉克首都巴格達“綠區”的美國使館附近拉響防空警報。"
+    },
+    {
+      "id": "mkt:019f5e0d-c126-7aab-8d67-0158994a15e5",
+      "time": "2026-07-14 08:36:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "A Reuters survey showed 36 of 37 economists expect the Bank of Korea to raise its policy rate to 2.75% at the July 16 meeting. Of 31 economists, 28 expect the policy rate to reach 3.00% by year-end."
+    },
+    {
+      "id": "te:markets:566546",
+      "time": "2026-07-14 08:36:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Fall for Second Straight Session — The Nikkei 225 Index fell 0.8% to around 66,700 on Tuesday, declining for a second consecutive session and touching its lowest level in a month as escalating tensions in the Middle East dampened investor sentiment. President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz, sending oil prices sharply higher and weighing on global equities amid renewed concerns that central banks may need to raise interest rates to contain inflation. Japanese stocks also followed a tech-led selloff on Wall Street overnight, as chipmakers came under heavy selling pressure on mounting concerns over the sustainability of the artificial intelligence trade. Technology and AI-related shares led the declines in Japan, including Kioxia Holdings (-1.5%), Taiyo Yuden (-2.3%), Murata Manufacturing (-3.1%), SoftBank Group (-2.2%), and Fujikura (-6.7%)."
+    },
+    {
+      "id": "4985573",
+      "time": "2026-07-14 08:36:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲3%。"
+    },
+    {
+      "id": "4985572",
+      "time": "2026-07-14 08:35:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：韓國央行料在7月16日進行逾三年來首次升息，將基準利率提高至2.75%。"
+    },
+    {
+      "id": "4985571",
+      "time": "2026-07-14 08:35:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "路透調查：31位經濟學家中有28位預計，韓國央行將在年底前將基準利率上調至3.00%。"
+    },
+    {
+      "id": "4985570",
+      "time": "2026-07-14 08:35:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：AI產業趨勢再次成為影響美股科技股下半年走勢核心變數 關注Hyperscaler、應用軟體&網際網路廠商】中信證券研報表示，伴隨宏觀尾部風險的下降，AI產業趨勢再次成為影響美股科技股下半年走勢的核心變數。展望下半年，我們對各科技子板塊的判斷為：1）硬體&半導體，料將持續處於高波動狀態當中，市場交易廣度持續收窄，並集中於產業鏈中最具議價能力&價格彈性環節，以及技術創新帶來顯著增量的領域；2）Hyperscaler廠商，宏觀預期的改善，料將顯著改善市場對其傳統網際網路、軟體業務的預期。部分關於Hyperscaler廠商資本開支囚徒困境的觀點，顯然也過於誇大，參考META歷史經驗，華爾街態度、董事會壓力或是打破僵局最好的途徑，市場不應低估其資本開支節奏主動調節能力；3）軟體&網際網路，伴隨市場對AI模型的逐步祛魅，軟體&網際網路企業的悲觀定價正逐步改善，但營收增速的觸底回升仍是股價反彈的必要條件，宏觀預期改善+超過1年的業務調整&最佳化正在增加這種可能性。"
+    },
+    {
+      "id": "4985569",
+      "time": "2026-07-14 08:34:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "受紐西蘭儲備銀行加息預期提振，紐西蘭2年期國債收益率上漲10個基點。"
+    },
+    {
+      "id": "4985568",
+      "time": "2026-07-14 08:34:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "大韓航空：正在評估於2027年第一季度前整合真航空、釜山航空及首爾航空的計劃。"
+    },
     {
       "id": "te:economy:566543",
       "time": "2026-07-14 08:32:52",
@@ -158334,75 +158415,6 @@
         "Impact bullish"
       ],
       "text": "【CITIC Securities bullish on Chinese-made gas turbines' overseas prospects】CITIC Securities research note says it remains strongly positive on Chinese-made gas turbines exporting overseas. Demand: Siemens Energy raised its multi-year annual gas-turbine demand estimate to about 110–120 GW (from 90–100 GW) on its latest call and reported no sign of demand slowing. Supply: Siemens described industry capacity additions as measured and said industrial gas-turbine expansion will not correct the supply–demand imbalance; over the medium term capacity, efficiency and life‑cycle cost matter more than short‑term availability, and industrial units cannot substitute for large-frame gas turbines. Siemens also flagged short lead-times as a scarce, premium-paying resource for data-center and hyperscale cloud projects. CITIC says recent price/volume pullbacks do not change the medium-term tight balance in the gas-turbine market."
-    },
-    {
-      "id": "4973163",
-      "time": "2026-07-07 08:38:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4150美元/盎司，日內跌0.33%。"
-    },
-    {
-      "id": "4973162",
-      "time": "2026-07-07 08:37:50",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信建投：堅定看好國產燃機出海】中信建投研報表示，堅定看好國產燃機出海。需求端：西門子能源最新電話會繼續強化燃機高景氣，公司將未來幾年燃機行業年均需求上修至約110—120GW（原90—100GW），明確表示目前沒有看到需求放緩。供給端：公司表示當前業內企業擴產行為非常理性，工業型燃氣輪機的擴產並不能改變市場的供需失衡，中長期維度來看，當容量、效率和全生命週期成本比短期可獲得性更重要時，工業性燃氣輪機無法替代大型燃機。此外，公司明確指出在資料中心與超大規模雲廠商專案中短交期為稀缺資源，短交期能獲得更高的溢價。中信建投認為：回撥不改燃機中期緊張平衡。短期市場可能交易訂單節奏和海外供給擴張，但產業層面真正稀缺的仍是2028年—2030年的燃機產能和交付能力。且國產燃機本身就是短交期產能補充，對國內燃機鏈來說，海外進入業績期有望步入上行空間，展現持續接單能力的公司有望脫穎而出。"
-    },
-    {
-      "id": "4973161",
-      "time": "2026-07-07 08:37:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：沙烏地阿拉伯正考慮主辦一場伊朗與其阿拉伯鄰國的和解峰會，不過目前雙方均未確認官方參會人員，峰會也尚未制定清晰議程框架。"
-    },
-    {
-      "id": "mkt:019f3a02-24a7-7aab-8cbd-f008fe3e7aa1",
-      "time": "2026-07-07 08:37:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China Galaxy Securities: June cement prices edged up on cost support; July expected to weaken at low levels】China Galaxy Securities says June cement demand was seasonally weak due to high temperatures and Meiyu rains; clinker-line shutdowns varied by region as firms accelerated capacity curtailment and clinker inventories declined. Cost pressures in June prompted regional attempts to lift prices, leaving the national average cement price slightly up MoM. Looking ahead, off-season demand in July is unlikely to support prices, the marginal effect of staggered production controls will fade, and cost-side support will lessen; the firm expects cement prices to trend weaker at low levels in July."
-    },
-    {
-      "id": "mkt:019f3a01-bc0d-7aab-8cbd-e844b152c38d",
-      "time": "2026-07-07 08:36:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【U.S. Treasury draft warns AI bubble risk may rival dot‑com era】A draft U.S. Treasury report warns AI market risks could be comparable to the dot‑com bubble, digital outlet NOTUS reports. Prepared by Treasury staff for Treasury Secretary Bessent, Fed Chair Kevin Warsh and several federal financial regulators, the draft was completed weeks ago and is awaiting formal sign‑off before distribution to intended recipients and likely public release. The report says AI firms are more deeply embedded in the U.S. economy than internet‑era companies and could pose systemic risks if financial conditions shift, projected productivity gains fail to materialize, or supply‑chain and other bottlenecks constrain the sector. It flags heightened vulnerability if financing for infrastructure projects dries up or long‑term growth expectations are unmet, drawing parallels with conditions before the internet crash. A Treasury spokesperson called the draft unaudited and not department policy, saying the official position is that AI will be a key driver of a new \"golden age,\" delivering unprecedented productivity gains, expanding economic opportunities and empowering U.S. workers and firms."
-    },
-    {
-      "id": "te:markets:564600",
-      "time": "2026-07-07 08:36:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Hitachi Stock Price Hits 4-week High — Hitachi shares increased to 4949.00 JPY, the highest since June 2026. Over the past 4 weeks, Hitachi lost 2.03%, and in the last 12 months, it increased 23.94%."
-    },
-    {
-      "id": "4973160",
-      "time": "2026-07-07 08:35:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "【銀河證券：水泥成本支撐下6月價格小幅反彈 預計7月水泥價格呈低位趨弱執行】中國銀河證券研報表示，6月份受高溫、梅雨等多重因素影響，水泥需求季節性低迷；各區域市場熟料線停窯情況略有差異，隨著淡季來臨，企業加速產能調控，熟料庫容率逐步下降；6月在成本壓力驅動下，各區域市場不同程度嘗試推漲水泥價格，全國水泥均價環比小幅上漲。後續來看，7月需求淡季對價格支撐不足，錯峰生產調控效果邊際減弱，成本端對水泥支撐作用減少，預計7月水泥價格呈低位趨弱執行。"
     }
   ]
 }
