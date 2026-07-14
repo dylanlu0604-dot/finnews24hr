@@ -1,7 +1,115 @@
 {
   "date": "2026-07-14",
-  "count": 1457,
+  "count": 1467,
   "items": [
+    {
+      "id": "mkt:019f5f06-a2e6-7aab-8d6f-43a6956ff370",
+      "time": "2026-07-14 13:08:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Zhongji Xuchuang turnover reached 30 bln yuan; shares currently up 6.06%."
+    },
+    {
+      "id": "mkt:019f5f06-8cf3-7aab-8d6f-3f0346a94854",
+      "time": "2026-07-14 13:08:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's CSI 500 index futures (IC) main contract rose above 8,100, up 0.84% on the day."
+    },
+    {
+      "id": "mkt:019f5f06-2d8c-7aab-8d6f-361bb5709c91",
+      "time": "2026-07-14 13:07:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【51Job: About 80% of AI vacancies are general AI and algorithm roles】51Job's 2026 AI Talent Insight shows roughly 80% of AI-related vacancies are in general AI and algorithm roles; robotics and large models make up the secondary segments. Median monthly pay for AI roles is 25,340 yuan. Over 40% of roles require a master's degree or higher and 60% require 5–10 years of industry-specific experience. Employers are paying premiums for senior hires who combine technical skill with industry-domain knowledge and the ability to deliver commercial implementation."
+    },
+    {
+      "id": "mkt:019f5f06-15fc-7aab-8d6f-2a70fd51fe85",
+      "time": "2026-07-14 13:07:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 futures extended gains to 1%."
+    },
+    {
+      "id": "mkt:019f5f05-b77c-7aab-8d6f-2196936053f2",
+      "time": "2026-07-14 13:07:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares agrochemical names rebounded intraday after earlier volatility; Lianhua Technology hit an afternoon limit-up, with Hebang Bio, Runfeng, Asia-Pacific Industrial, Yuanda Holdings, Lanfeng Biochemical and Guangkang Biochemical also higher."
+    },
+    {
+      "id": "4986104",
+      "time": "2026-07-14 13:06:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "mkt:019f5f04-9570-7aab-8d6f-1f499f5d8b99",
+      "time": "2026-07-14 13:06:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Heat, fuel costs lift Japan day-ahead power price to six-week high】Japan day-ahead spot electricity prices rose to a six-week high as heat-driven demand in Tokyo met higher fuel costs after renewed shipping disruptions in the Strait of Hormuz. Japan Electric Power Exchange data showed national day-ahead spot power at 20.13 yen/kWh on Tuesday, up 64% week-on-week and the highest since early June. Weather forecasts show a persistent high-pressure ridge transporting warm air and humid southerly flow; Tokyo hit its highest temperature of the year on Tuesday and is expected to reach 34–35°C midweek, with Osaka and Kyoto forecast to hit about 36°C later in the week."
+    },
+    {
+      "id": "mkt:019f5f03-cfd3-7aab-8d6f-14bda11231f9",
+      "time": "2026-07-14 13:05:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's ChiNext index broke above 3,800 points, with intraday gains widening to about 2%."
+    },
+    {
+      "id": "4986103",
+      "time": "2026-07-14 13:05:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "午後創新藥概念午後異動拉昇，迪哲醫藥直線拉昇封20cm漲停，此前哈藥股份3連板，辰欣藥業、甘李藥業、歐林生物、賽倫生物跟漲。"
+    },
+    {
+      "id": "4986102",
+      "time": "2026-07-14 13:04:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2％突破3800點，上證指數漲0.24％，深證成指漲1.38％。算力硬體、油氣、醫藥生物、煤炭等方向漲幅居前。"
+    },
     {
       "id": "mkt:019f5f03-5620-7aab-8d6f-0db8def9e384",
       "time": "2026-07-14 13:04:41",

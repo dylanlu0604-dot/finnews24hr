@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-14 13:05:14",
-  "count": 17563,
+  "updated": "2026-07-14 13:09:13",
+  "count": 17565,
   "items": [
+    {
+      "id": "mkt:019f5f06-a2e6-7aab-8d6f-43a6956ff370",
+      "time": "2026-07-14 13:08:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Zhongji Xuchuang turnover reached 30 bln yuan; shares currently up 6.06%."
+    },
+    {
+      "id": "mkt:019f5f06-8cf3-7aab-8d6f-3f0346a94854",
+      "time": "2026-07-14 13:08:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China's CSI 500 index futures (IC) main contract rose above 8,100, up 0.84% on the day."
+    },
+    {
+      "id": "mkt:019f5f06-2d8c-7aab-8d6f-361bb5709c91",
+      "time": "2026-07-14 13:07:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【51Job: About 80% of AI vacancies are general AI and algorithm roles】51Job's 2026 AI Talent Insight shows roughly 80% of AI-related vacancies are in general AI and algorithm roles; robotics and large models make up the secondary segments. Median monthly pay for AI roles is 25,340 yuan. Over 40% of roles require a master's degree or higher and 60% require 5–10 years of industry-specific experience. Employers are paying premiums for senior hires who combine technical skill with industry-domain knowledge and the ability to deliver commercial implementation."
+    },
+    {
+      "id": "mkt:019f5f06-15fc-7aab-8d6f-2a70fd51fe85",
+      "time": "2026-07-14 13:07:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 futures extended gains to 1%."
+    },
+    {
+      "id": "mkt:019f5f05-b77c-7aab-8d6f-2196936053f2",
+      "time": "2026-07-14 13:07:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-shares agrochemical names rebounded intraday after earlier volatility; Lianhua Technology hit an afternoon limit-up, with Hebang Bio, Runfeng, Asia-Pacific Industrial, Yuanda Holdings, Lanfeng Biochemical and Guangkang Biochemical also higher."
+    },
+    {
+      "id": "4986104",
+      "time": "2026-07-14 13:06:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "mkt:019f5f04-9570-7aab-8d6f-1f499f5d8b99",
+      "time": "2026-07-14 13:06:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Heat, fuel costs lift Japan day-ahead power price to six-week high】Japan day-ahead spot electricity prices rose to a six-week high as heat-driven demand in Tokyo met higher fuel costs after renewed shipping disruptions in the Strait of Hormuz. Japan Electric Power Exchange data showed national day-ahead spot power at 20.13 yen/kWh on Tuesday, up 64% week-on-week and the highest since early June. Weather forecasts show a persistent high-pressure ridge transporting warm air and humid southerly flow; Tokyo hit its highest temperature of the year on Tuesday and is expected to reach 34–35°C midweek, with Osaka and Kyoto forecast to hit about 36°C later in the week."
+    },
+    {
+      "id": "mkt:019f5f03-cfd3-7aab-8d6f-14bda11231f9",
+      "time": "2026-07-14 13:05:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China's ChiNext index broke above 3,800 points, with intraday gains widening to about 2%."
+    },
+    {
+      "id": "4986103",
+      "time": "2026-07-14 13:05:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "午後創新藥概念午後異動拉昇，迪哲醫藥直線拉昇封20cm漲停，此前哈藥股份3連板，辰欣藥業、甘李藥業、歐林生物、賽倫生物跟漲。"
+    },
+    {
+      "id": "4986102",
+      "time": "2026-07-14 13:04:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲2％突破3800點，上證指數漲0.24％，深證成指漲1.38％。算力硬體、油氣、醫藥生物、煤炭等方向漲幅居前。"
+    },
     {
       "id": "mkt:019f5f03-5620-7aab-8d6f-0db8def9e384",
       "time": "2026-07-14 13:04:41",
@@ -160640,85 +160748,6 @@
         "國際"
       ],
       "text": "【摩根大通：機器人和自動駕駛汽車或成為下一個AI贏家】摩根資產管理全球市場策略師Raisah Rasid在一場吹風會上表示，機器人和自動駕駛汽車概念股可能成為人工智慧(AI)交易的下一個贏家。”AI是一個將長期存在的主題，”Rasid說。“大規模採用的速度真的非常非常快，尤其是在生成式AI方面。“她補充說，隨著與AI相關的贏家從超大規模雲服務提供商向外擴充套件，盈利增長（尤其是硬體領域的盈利增長）一直在推動主要市場的回報。不過她表示，韓國綜合指數在上半年實現的三位數百分比回報率不太可能在下半年重演，而是可能會有所放緩，因為企業不太可能維持其在硬體方面的強勁定價權。"
-    },
-    {
-      "id": "mkt:019f3afa-be8e-7aab-8cc3-61a2dd0b0b38",
-      "time": "2026-07-07 13:08:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Indian government officials said India will supply Indonesia with BrahMos cruise missile systems and Astra air-to-air missiles."
-    },
-    {
-      "id": "4973519",
-      "time": "2026-07-07 13:08:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【富時中國A50指數期貨跌1%】富時中國A50指數期貨跌幅擴大至1%。"
-    },
-    {
-      "id": "mkt:019f3afa-a07a-7aab-8cc3-5d5a153eb92e",
-      "time": "2026-07-07 13:08:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 futures fell 1%."
-    },
-    {
-      "id": "4973518",
-      "time": "2026-07-07 13:08:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府官員：印度將向印度尼西亞出口布拉莫斯巡航導彈系統與阿斯特拉空空導彈。"
-    },
-    {
-      "id": "4973517",
-      "time": "2026-07-07 13:07:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌2%至270.00點。"
-    },
-    {
-      "id": "4973516",
-      "time": "2026-07-07 13:06:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數下跌8% 股市暫停交易20分鐘】據韓國交易所，Kospi指數下跌超過8%，於當地時間下午1點51分觸發熔斷機制。交易將暫停20分鐘。三星和SK海力士股價均下跌超過10%。外國投資者賣出價值3.3萬億韓元（21.7億美元）的Kospi股票，而散戶投資者則買入了數額相近的股票。“我認為盈利表現強勁，但股價反應看起來像是典型的‘賣事實’行為，”Eugene Asset Management首席投資官Ha SeokKeun表示，“這種模式在韓國相當常見，因為市場預期在公告發布前就已經被消化了。所以我認為現在還不至於是根本性的負面走勢。”注：自2000年以來，韓國交易所已對Kospi指數啟動了12次熔斷，其中6次是在2026年發生的。"
-    },
-    {
-      "id": "mkt:019f3af8-1163-7aab-8cc3-53bb24d8b4f5",
-      "time": "2026-07-07 13:06:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the Save America Act, together with full funding for the Department of Defense, is likely to pass quickly and will ensure the United States remains free for generations."
-    },
-    {
-      "id": "mkt:019f3af7-6d65-7aab-8cc3-4b8aa4889e1b",
-      "time": "2026-07-07 13:05:21",
-      "tags": [
-        "MKT News",
-        "SZSE Component",
-        "Impact bearish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "China A-share PCB-related stocks weakened in afternoon trade; Shennan Circuits hit the daily limit down, while China Jushi, Xingsen Technology, Baoding Technology and Hongban Technology declined."
     }
   ]
 }
