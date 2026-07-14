@@ -1,7 +1,51 @@
 {
   "date": "2026-07-15",
-  "count": 579,
+  "count": 584,
   "items": [
+    {
+      "id": "4988535",
+      "time": "2026-07-15 06:07:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報80.15美元/桶。"
+    },
+    {
+      "id": "mkt:019f62aa-131b-7aab-8d8a-e6c53762cd08",
+      "time": "2026-07-15 06:05:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "【Two major press briefings on China economic and financial data scheduled for July 15】The State Council Information Office will hold two press conferences on July 15, 2026: at 10:00 National Bureau of Statistics (NBS) deputy director Mao Shengyong will present 1H 2026 national economic performance and take questions; at 15:00 the People’s Bank of China (PBOC) spokesperson and deputy governor Zou Lan will brief on 1H 2026 monetary policy execution and financial statistics and answer questions."
+    },
+    {
+      "id": "4988534",
+      "time": "2026-07-15 06:05:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【厄瓜多釋出國家綜合安全計劃 打擊有組織犯罪】當地時間7月14日，厄瓜多總統府釋出公告稱，總統諾沃亞簽署第448號行政令，將《2025—2029年國家綜合安全計劃》確立為國家公共政策，將打擊和瓦解有組織武裝團體列為優先任務。公告稱，該計劃首次將全國各個國家機構納入統一安全戰略框架，重點應對國內武裝衝突、恢復國家對領土的控制、提升國家安全能力，並以可量化的目標和責任機制打擊有組織犯罪。（央視新聞）"
+    },
+    {
+      "id": "4988533",
+      "time": "2026-07-15 06:04:54",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【事關國民經濟、金融資料今天將舉行兩場重磅釋出會】國務院新聞辦公室將於2026年7月15日（星期三）上午10時舉行新聞釋出會，請國家統計局副局長毛盛勇介紹2026年上半年國民經濟執行情況，並答記者問。國務院新聞辦公室將於2026年7月15日（星期三）下午3時舉行新聞釋出會，請中國人民銀行新聞發言人、副行長鄒瀾介紹2026年上半年貨幣政策執行和金融統計資料情況，並答記者問。（央視新聞）"
+    },
+    {
+      "id": "4988532",
+      "time": "2026-07-15 06:04:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國體育傳媒與德甲聯賽宣佈簽署多年獨家美國地區媒體轉播權協議。"
+    },
     {
       "id": "4988531",
       "time": "2026-07-15 06:00:40",
