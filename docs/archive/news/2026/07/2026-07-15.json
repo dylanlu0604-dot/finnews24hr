@@ -1,7 +1,104 @@
 {
   "date": "2026-07-15",
-  "count": 125,
+  "count": 135,
   "items": [
+    {
+      "id": "mkt:019f6177-cfeb-7aab-8d85-6b57eac539cd",
+      "time": "2026-07-15 00:31:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump has concluded his remarks."
+    },
+    {
+      "id": "4988274",
+      "time": "2026-07-15 00:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普評價伊拉克總理：此人必將成為一位出色的領導人。我當初的決策沒有錯。記住我今天說的話。"
+    },
+    {
+      "id": "4988273",
+      "time": "2026-07-15 00:30:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "記者：您會簽署這份對俄製裁法案嗎？\n特朗普：林賽（剛去世的參議員格雷厄姆）十分推動這項法案。他們還可能在法案中新增針對伊朗與真主黨的制裁條款。這份法案大機率能順利透過落地。"
+    },
+    {
+      "id": "mkt:019f6176-e2d0-7aab-8d85-66afeaf6b53a",
+      "time": "2026-07-15 00:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Governor Barr is scheduled to speak on artificial intelligence in 10 minutes at the Fed’s annual financial inclusion conference."
+    },
+    {
+      "id": "4988272",
+      "time": "2026-07-15 00:29:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗： 信不信由你，我認為中東各方正在走向團結。 我們正在剷除中東地區的霸權勢力。 伊朗曾是中東的強權，欺壓伊拉克，脅迫區域內所有國家，整個中東都籠罩在恐懼之中。 如今這份恐懼已然不復存在。"
+    },
+    {
+      "id": "4988271",
+      "time": "2026-07-15 00:29:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及北約安卡拉峰會： 峰會盛況空前，說實話，現場氛圍十分融洽。 各國都十分親近美國。他們甚至對我抱有好感，但更熱愛美國。 整場峰會令人印象深刻。"
+    },
+    {
+      "id": "te:markets:566894",
+      "time": "2026-07-15 00:28:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Slightly Higher — The FTSE MIB rose 0.1% to close at 52,862 on Tuesday, supported by lower-than-expected inflation data in the US. The data eased expectations of a July Fed rate hike, although financial stocks posted mixed performances. Fincantieri jumped 2.7% after unveiling plans to integrate artificial intelligence into its technological innovation strategy, while Intesa Sanpaolo (0.3%) reaffirmed its buy rating on the stock. Utilities also advanced amid increased cooling demand, led by A2A (1.8%). Hera gained 1.2% after signing a binding agreement to acquire a 70% stake in Kronos Polymer Polska, while oil major Eni added 0.7%, supported by volatile oil prices. Inwit was the session's worst performer, falling 3.8% after an Italian court rejected its request to suspend the Fastweb+Vodafone termination from the MSA. Meanwhile, the European Central Bank selected banks and payment firms for the digital euro project, including BPMS (0.7%), Nexi (0.2%) and UniCredit (-0.5%)."
+    },
+    {
+      "id": "4988270",
+      "time": "2026-07-15 00:28:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓南部海域發生6.5級地震 】菲律賓火山地震研究所14日釋出訊息說，菲律賓南部棉蘭老島附近海域當地時間14日23時49分發生6.5級地震。訊息說，震中位於北緯4.50度、東經125.21度，在菲律賓西達沃省巴盧特島西南方向約104公里海域處，震源深度約10公里。棉蘭老島南部地區有震感。菲律賓位於環太平洋火山地震帶，地震頻發。"
+    },
+    {
+      "id": "mkt:019f6174-cef3-7aab-8d85-5dc298eb4ec7",
+      "time": "2026-07-15 00:27:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair KEVIN WARSH said we need to continue candid \"internal discussions\" about high inflation."
+    },
+    {
+      "id": "4988269",
+      "time": "2026-07-15 00:27:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：價格穩定與充分就業並非二選一的命題。"
+    },
     {
       "id": "mkt:019f6174-6ca5-7aab-8d85-57640bfd6962",
       "time": "2026-07-15 00:27:27",
