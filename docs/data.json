@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-15 03:49:07",
-  "count": 18817,
+  "updated": "2026-07-15 03:53:01",
+  "count": 18820,
   "items": [
+    {
+      "id": "4988469",
+      "time": "2026-07-15 03:50:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國涉伊朗通用許可允許逐步終止相關業務、開展特定交易，並解除安裝 7 月 14 日遭凍結的特定個人或船隻名下貨物。"
+    },
+    {
+      "id": "mkt:019f622d-fe31-7aab-8d88-c1b1aaddd48e",
+      "time": "2026-07-15 03:50:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "Bank of England Governor Bailey to speak in 10 minutes."
+    },
+    {
+      "id": "4988468",
+      "time": "2026-07-15 03:50:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：美國計劃 9 月 30 日前從伊拉克撤軍。"
+    },
+    {
+      "id": "4988467",
+      "time": "2026-07-15 03:49:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部官網：美國出臺針對伊朗的新一輪制裁措施。"
+    },
+    {
+      "id": "mkt:019f622d-2663-7aab-8d88-badbc4582e4a",
+      "time": "2026-07-15 03:49:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "LCID.O",
+        "Impact bearish"
+      ],
+      "text": "【Lucid denies privatization, Chapter 11 reports after shares plunge】Lucid Group (LCID.O) shares plunged more than 50% intraday, triggering multiple trading halts after 1:00 p.m. ET; they fell as much as 57% to $2.37 and were about 15% lower near the close. The company denied a blog post saying it was pursuing a privatization transaction or seeking U.S. Chapter 11 protection, calling the report \"completely untrue.\" Lucid said it has sufficient liquidity to fund operations into next year, has not formed a special committee to consider the scenarios in the blog, and that restructuring adviser AlixPartners is assisting with execution and operations and has not recommended bankruptcy."
+    },
+    {
+      "id": "mkt:019f622c-eb11-7aab-8d88-b03b309a57c1",
+      "time": "2026-07-15 03:48:58",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Hormozgan provincial government said a US military strike hit an area near Sirik in southern Iran at about 2300 local time."
+    },
     {
       "id": "mkt:019f622b-825c-7aab-8d88-ac8488b1f9a0",
       "time": "2026-07-15 03:47:26",
@@ -172185,31 +172246,6 @@
         "公司"
       ],
       "text": "【巴基斯坦一貨機在飛往卡拉奇途中失聯】據巴基斯坦機場管理局當地時間7日晚通報，一架隸屬於巴基斯坦K2航空（K2 Airways）的波音737貨機當晚在執行從阿聯酋沙迦飛往巴基斯坦卡拉奇的貨運航班任務時，在距離卡拉奇以西約155海里（約287公里）處失聯。據巴基斯坦機場管理局的通報，巴基斯坦當地時間7日21時18分，該貨機報告導航系統出現故障，需要獲得卡拉奇區域管制中心的引導協助；之後在21時21分，雷達顯示飛機突然快速下降，並伴隨航向急劇改變。此後，飛機在距離卡拉奇以西約155海里處失聯。事故發生後，巴基斯坦搜救協調中心立即啟動應急響應，並協調多個部門在相關海域展開聯合搜救行動，尋找失聯飛機。據瞭解，失聯貨機上共有5名機組人員。K2航空是巴基斯坦一家民營貨運航空公司。（央視新聞）"
-    },
-    {
-      "id": "4974913",
-      "time": "2026-07-08 03:51:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "委內瑞拉宣佈國有石化企業佩基文公司（Pequiven）和國家稅務管理局（Seniat）領導層人事變動。"
-    },
-    {
-      "id": "4974912",
-      "time": "2026-07-08 03:49:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼對挪威首相表示： 下一屆世界盃，若能把哈蘭德借我們用一用，我們將不勝感激。"
-    },
-    {
-      "id": "4974911",
-      "time": "2026-07-08 03:49:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲理事會就修訂銀行反洗錢制度相關監管規定的提案徵求公眾意見】美聯儲理事會週二釋出提案，徵求公眾意見，擬修訂針對銀行建立反洗錢合規體系的監管要求。本次修訂旨在與其餘四家監管機構各自提出的反洗錢制度新規保持統一標準。提案包含多項調整，核心要求銀行依據風險等級分配反洗錢核查資源，加大對高風險客戶與業務活動的審查力度。修訂方案同時規定，銀行需將美國金融犯罪執法網路劃定的反洗錢重點監管事項納入自身風險評估流程。依照該提案，銀行搭建起合規反洗錢體系後，美聯儲後續監管與執法工作將重點針對體系執行層面的重大疏漏開展。公眾可在《聯邦公報》刊登該提案後的60天內提交意見。"
     }
   ]
 }
