@@ -1,7 +1,94 @@
 {
   "date": "2026-07-14",
-  "count": 3965,
+  "count": 3975,
   "items": [
+    {
+      "id": "mkt:019f610b-e0c2-7aab-8d80-fc9c88a20af6",
+      "time": "2026-07-14 22:33:16",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish",
+        "7011.T"
+      ],
+      "text": "【NVIDIA to explore partnership with Mitsubishi Heavy Industries on AI data-centre cooling and power】Nikkei reports NVIDIA is considering a partnership with Mitsubishi Heavy Industries to supply cooling systems and energy-management equipment for next-generation AI data centres, which NVIDIA calls \"AI factories\". Mitsubishi Heavy manufactures data-centre air conditioning, high-efficiency cooling and backup power equipment and provides integrated energy-management systems; it also holds a global-leading share in gas turbines and is expected to pursue collaboration with NVIDIA on power infrastructure. SK Group is working with NVIDIA on a Japan AI factory targeted for 2028-29. As AI data-centre power demand climbs, markets including the US are increasingly deploying gas-fired power plants to supply data centres."
+    },
+    {
+      "id": "mkt:019f610b-c7da-7aab-8d80-f7b9461cacfb",
+      "time": "2026-07-14 22:33:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed will adhere to its responsibilities; the more it does so, the less it will be drawn into politics."
+    },
+    {
+      "id": "4988025",
+      "time": "2026-07-14 22:32:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：美聯儲將專注於自身職責範圍。"
+    },
+    {
+      "id": "4988024",
+      "time": "2026-07-14 22:31:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "西爾維拉：對可再生能源的補貼不再合理。"
+    },
+    {
+      "id": "4988023",
+      "time": "2026-07-14 22:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：TECHERA 工程首席財務官SANDIP SHINDE辭職。"
+    },
+    {
+      "id": "4988022",
+      "time": "2026-07-14 22:30:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務管理局表示，將於2026年7月21日透過拍賣發售50億英鎊的2029年到期、票息4.000%的英國國債。"
+    },
+    {
+      "id": "mkt:019f6109-2662-7aab-8d80-efbc1e16a7c7",
+      "time": "2026-07-14 22:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh said the Fed has the commitment, capacity and responsibility to carry out the tasks assigned to it by the Committee."
+    },
+    {
+      "id": "te:markets:566860",
+      "time": "2026-07-14 22:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Up for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for the fourth session on Tuesday, rising about 0.7% to a new high since June 5 at 2,980 points, driven by gains across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, advanced for the fourth day, increasing by 1% to its highest in over a month at 4,751 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, edged up 0.1% to 2,251 points. Among smaller vessels, the supramax index increased by 0.2% to a peak since June 2022 at 1,710 points."
+    },
+    {
+      "id": "mkt:019f6108-bc63-7aab-8d80-e18c6b8aabae",
+      "time": "2026-07-14 22:29:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "7011.T",
+        "Impact bullish"
+      ],
+      "text": "According to Nikkei, under an agreement Mitsubishi Heavy Industries will supply cooling systems and energy-management equipment for AI data centers."
+    },
     {
       "id": "4988021",
       "time": "2026-07-14 22:29:28",
@@ -130,6 +217,15 @@
         "Impact mixed"
       ],
       "text": "Fed chair Kevin Warsh said the Fed's 2020 policy framework was a mistake and did not succeed."
+    },
+    {
+      "id": "em:qqyh_mlc:202607143806110719",
+      "time": "2026-07-14 22:27:08",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什表示 現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。"
     },
     {
       "id": "4988014",
