@@ -1,7 +1,41 @@
 {
   "date": "2026-07-15",
-  "count": 351,
+  "count": 355,
   "items": [
+    {
+      "id": "4988416",
+      "time": "2026-07-15 02:39:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "LUCID股票恢復交易，股價跌幅收窄至23%。"
+    },
+    {
+      "id": "4988415",
+      "time": "2026-07-15 02:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普敦促共和黨參議員確認布蘭奇擔任司法部長。"
+    },
+    {
+      "id": "mkt:019f61eb-99a7-7aab-8d87-aec73ba958f5",
+      "time": "2026-07-15 02:37:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's deputy foreign minister said Iran currently has no commitments under the Islamabad Memorandum of Understanding with the US."
+    },
+    {
+      "id": "4988414",
+      "time": "2026-07-15 02:36:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗副外長表示，我們目前就與美國簽署的伊斯蘭堡諒解備忘錄而言沒有作出任何承諾。"
+    },
     {
       "id": "4988413",
       "time": "2026-07-15 02:34:41",
