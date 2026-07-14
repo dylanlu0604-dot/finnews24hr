@@ -1,7 +1,133 @@
 {
   "date": "2026-07-14",
-  "count": 641,
+  "count": 653,
   "items": [
+    {
+      "id": "4985533",
+      "time": "2026-07-14 08:11:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "伊拉克總理稱政府計劃在三年內\"大幅\"提高石油產量。"
+    },
+    {
+      "id": "mkt:019f5df6-64fe-7aab-8d66-933c3608b33c",
+      "time": "2026-07-14 08:10:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's prime minister said the government plans to significantly increase oil production within three years."
+    },
+    {
+      "id": "4985532",
+      "time": "2026-07-14 08:10:21",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【紐西蘭央行警告：企業轉嫁成本的意願顯著增強】紐西蘭央行強調，在反覆出現全球燃料價格衝擊的背景下，企業目前正快速將成本轉嫁給消費者。這加劇了外界對該央行需進一步加息的擔憂。紐西蘭央行首席經濟學家保羅.康威(Paul Conway)說：“油價下跌緩解了近期的通脹壓力，這反映出中東衝突的解決取得了一定進展。然而，這場衝突仍引發了又一次重大的通脹衝擊。當前貨幣政策面臨的挑戰，正是要確保這種衝擊不會演變為持續性通脹。”他補充道：“研究表明，與過去相比，紐西蘭企業現在更急於轉嫁上漲的成本，而在成本回落時，降價的意願卻有所降低。”“在同等條件下，這加劇了暫時性衝擊演變為持續通脹的風險，”康威在一次商業集會上發表演講時稱，“在通脹率長期高於目標水平之後，我們不能再想當然地認為通脹預期會繼續牢牢錨定。”"
+    },
+    {
+      "id": "mkt:019f5df5-cc20-7aab-8d66-8bf7df6ba2dd",
+      "time": "2026-07-14 08:10:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australian S&P/ASX 200 index opened down 19.2 points, or 0.22%, at 8,789.30 on Tuesday, July 14."
+    },
+    {
+      "id": "mkt:019f5df5-395b-7aab-8d66-875efb87af76",
+      "time": "2026-07-14 08:09:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Bahrain's royal media adviser said Bahrain's air defenses intercepted and destroyed an aerial attack from Iran."
+    },
+    {
+      "id": "4985531",
+      "time": "2026-07-14 08:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林國王媒體顧問稱，巴林防空系統攔截並摧毀了伊朗發動的空襲。"
+    },
+    {
+      "id": "4985530",
+      "time": "2026-07-14 08:09:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部布什爾市傳出爆炸聲】伊朗南部布什爾市當地時間14日3時10分傳出爆炸聲，伊朗官方尚未就此表態。(新華社)"
+    },
+    {
+      "id": "4985529",
+      "time": "2026-07-14 08:08:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：建議配置龍頭水電、煤電一體化、估值對於行業風險已經充分釋放的H股綠電和核電】中信證券研報稱，2026H1，行業基本面整體疲弱、成本端煤價走高、收入端綜合上網電價下降、行業層面產能過剩等因素持續壓制行業；分電源看，我們預計僅來水偏豐且電價穩定的水電中報業績表現優異，火電、風光、核電等非水電源中報或普遍不佳；基本面偏弱環境下，高確定性和估值是篩選標的關鍵，建議配置龍頭水電、煤電一體化、估值對於行業風險已經充分釋放的H股綠電和核電。"
+    },
+    {
+      "id": "mkt:019f5df3-aacf-7aab-8d66-79a71a5b5a1e",
+      "time": "2026-07-14 08:07:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Spot silver was down 1.00% intraday at $57.07/oz. WTI crude rose more than 2.00% intraday to $79.36/bbl."
+    },
+    {
+      "id": "mkt:019f5df3-5fed-7aab-8d66-7145a3c7e7e6",
+      "time": "2026-07-14 08:07:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【CITIC Securities: Hardware semiconductor trading likely to concentrate on short-term, high-certainty segments】CITIC Securities says in a research note that with macro tail risks easing, AI is again the key variable for U.S. tech stocks in H2. Recent sharp market moves have been noisy, but investor views on AI are normalizing and near-term ROI focus is intensifying. Into H2, AI monetization pace, sustainability of big-tech AI CAPEX and AI value-chain allocation will dominate market debate; elevated volatility is likely to persist. Market emphasis should be on hyperscalers and application software/internet names where revenue growth has troughed and is rebounding; exercise caution on cybersecurity and foundational software stocks with high expectations. Hardware semiconductor trading should narrow toward short-term, high-certainty opportunities."
+    },
+    {
+      "id": "4985528",
+      "time": "2026-07-14 08:07:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報57.35美元/盎司。"
+    },
+    {
+      "id": "te:economy:566530",
+      "time": "2026-07-14 08:07:26",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Construction PMI",
+        "Importance 1"
+      ],
+      "text": "Irish Construction Shrinks the Most in 9 Months — The AIB Ireland Construction PMI fell to 45.4 in June 2026 from 50.2 in May, marking the sharpest contraction in construction activity since September 2025. The downturn was broad-based, with activity declining across all three sectors, led by the residential segment, which recorded its steepest fall in nearly four years, while commercial activity contracted for the first time in five months. New orders also declined at the fastest pace since August 2023 as sharply rising prices discouraged clients from committing to new projects. In response, firms reduced purchasing activity for the first time in eight months, although employment continued to grow for an eighth consecutive month. Supplier delivery times lengthened due to shipping disruptions linked to the Middle East conflict, while input costs remained elevated amid higher oil and raw material prices, despite inflation easing slightly for a second straight month. Lastly, business confidence improved for a second consecutive month."
+    },
     {
       "id": "4985527",
       "time": "2026-07-14 08:06:57",
