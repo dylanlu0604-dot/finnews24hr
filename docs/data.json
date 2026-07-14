@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-15 02:51:52",
-  "count": 18832,
+  "updated": "2026-07-15 02:55:47",
+  "count": 18833,
   "items": [
+    {
+      "id": "4988428",
+      "time": "2026-07-15 02:53:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：襲擊了科威特阿里薩勒姆空軍基地的無人機停機坪，今日發動的襲擊是對美國襲擊伊朗的回應。"
+    },
+    {
+      "id": "mkt:019f61f9-51ce-7aab-8d87-e20fb52fdc2c",
+      "time": "2026-07-15 02:52:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $84.73 a barrel, up $1.43, or 1.72%."
+    },
+    {
+      "id": "4988427",
+      "time": "2026-07-15 02:52:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨收於每桶84.73美元，上漲1.43美元，漲幅1.72%。"
+    },
+    {
+      "id": "4988426",
+      "time": "2026-07-15 02:51:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國公共衛生團體、兒科醫生與家長聯盟起訴美國食品藥品監督管理局，指控其允許未獲授權的電子煙與尼古丁袋營銷的政策。"
+    },
     {
       "id": "4988425",
       "time": "2026-07-15 02:48:38",
@@ -172315,34 +172351,6 @@
         "Impact bearish"
       ],
       "text": "Spot gold dipped intraday to $4,125/oz."
-    },
-    {
-      "id": "4974853",
-      "time": "2026-07-08 02:54:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲4%，現報74.87美元/桶。"
-    },
-    {
-      "id": "te:economy:564973",
-      "time": "2026-07-08 02:54:20",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Costa Rica",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Costa Rica Extends Deflation in June — Costa Rica's consumer prices fell 0.32% year-on-year in June 2026 after declining 0.97% in May, extending the country's deflationary trend. The largest price declines were recorded in food and non-alcoholic beverages (-3.7%), clothing and footwear (-2.3%), and furniture and household services (-1.6%). Prices also fell for recreation and culture (-0.9%), housing and utilities (-0.8%), information and communication (-0.8%), and insurance and financial services (-0.5%). In contrast, transport prices rose 4.3%, while education and healthcare increased 2.7% and 1.8%, respectively. On a monthly basis, consumer prices increased 0.71% after rising 0.27% in May."
-    },
-    {
-      "id": "4974852",
-      "time": "2026-07-08 02:51:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥斯大黎加太平洋沿岸發生5.3級地震】據德國地球科學研究中心訊息，當地時間7月7日12時11分，哥斯大黎加太平洋沿岸發生5.3級地震。初步測定顯示，震中位於北緯9.75度、西經84.77度，震源深度29公里。目前暫無人員傷亡和財產損失報告。（央視新聞）"
     }
   ]
 }
