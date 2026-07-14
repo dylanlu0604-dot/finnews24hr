@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-15 02:02:40",
-  "count": 18811,
+  "updated": "2026-07-15 02:08:36",
+  "count": 18820,
   "items": [
+    {
+      "id": "mkt:019f61cf-2663-7aab-8d87-5f58e582e539",
+      "time": "2026-07-15 02:06:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "HXSC.O",
+        "Impact bullish",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "【SK Hynix ADR premium to Korea-listed shares nears 50%】Three days after its U.S. listing, SK Hynix ADRs are trading at about a 46% premium to Korea-listed common shares, approaching 50%. The ADR surged as much as 23% on Tuesday after a record sell-off in Korea the prior day had pushed the ADR down more than 9% in U.S. trading. The premium has widened sharply from the roughly 3% spread set at issuance. An SEC filing shows one ADR represents one-tenth of a common share. The rebound coincided with the start of U.S. options trading on the ADR, increasing access for derivatives traders."
+    },
+    {
+      "id": "4988397",
+      "time": "2026-07-15 02:05:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "杜克能源公司宣佈派發季度現金股息，每股派息1.09美元，股息將於2026年9月16日支付。"
+    },
+    {
+      "id": "4988396",
+      "time": "2026-07-15 02:05:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lucid：未成立董事會特別委員會來評估各種情景。"
+    },
+    {
+      "id": "4988395",
+      "time": "2026-07-15 02:05:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lucid：AlixPartners協助公司最佳化運營執行效率，並未建議公司申請破產。"
+    },
+    {
+      "id": "mkt:019f61cd-a8a9-7aab-8d87-54bab929f4e2",
+      "time": "2026-07-15 02:04:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to ABC, a U.S. official confirmed U.S. forces are carrying out airstrikes inside Iran; the official said the strikes have been ongoing for several hours."
+    },
+    {
+      "id": "4988394",
+      "time": "2026-07-15 02:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "Lucid：（破產重組）相關傳聞純屬不實訊息。"
+    },
+    {
+      "id": "mkt:019f61cd-1b88-7aab-8d87-4d1d8edddd36",
+      "time": "2026-07-15 02:03:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A State Dept official said Israel-Lebanon talks in Rome were productive and will continue on Wednesday."
+    },
+    {
+      "id": "4988393",
+      "time": "2026-07-15 02:03:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lucid：公司流動性充足，可保障運營持續至明年很長一段時間。"
+    },
+    {
+      "id": "4988392",
+      "time": "2026-07-15 02:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一名官員證實，美軍目前正在伊朗境內實施空襲。"
+    },
+    {
+      "id": "4988391",
+      "time": "2026-07-15 02:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列批准撥款4.34億美元，用於在約旦河西岸新建34處非法定居點。"
+    },
+    {
+      "id": "4988390",
+      "time": "2026-07-15 02:02:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林境內的謝赫伊薩基地以及美國第五艦隊駐地遭到密集導彈襲擊。"
+    },
     {
       "id": "4988389",
       "time": "2026-07-15 02:01:55",
@@ -172136,28 +172235,6 @@
         "其他"
       ],
       "text": "勒龐：法院賦予法國民眾投票自由，我對此感到欣慰。 將就法院的判決提起上訴。"
-    },
-    {
-      "id": "mkt:019f3dc0-de43-7aab-8cd4-aa7c39a1eb10",
-      "time": "2026-07-08 02:04:37",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms will roll out Muse video aimed at creators and Meta AI, and introduced its first image-generation model developed by the Meta Superintelligence Lab, \"Muse Image\"."
-    },
-    {
-      "id": "mkt:019f3dc0-add0-7aab-8cd4-a18af4cc8632",
-      "time": "2026-07-08 02:04:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fitch says credit fundamentals of Peru's major banks are stable."
     }
   ]
 }
