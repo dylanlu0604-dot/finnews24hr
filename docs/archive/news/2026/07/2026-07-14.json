@@ -1,7 +1,134 @@
 {
   "date": "2026-07-14",
-  "count": 4139,
+  "count": 4152,
   "items": [
+    {
+      "id": "4988130",
+      "time": "2026-07-14 23:22:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：不認為能將資產負債表恢復至2006年的規模水平。"
+    },
+    {
+      "id": "4988129",
+      "time": "2026-07-14 23:21:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：能夠實現資產負債表的其他均衡狀態。"
+    },
+    {
+      "id": "mkt:019f6137-a623-7aab-8d82-e598cd61dad8",
+      "time": "2026-07-14 23:21:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Cuban state media reports the national power grid has collapsed."
+    },
+    {
+      "id": "4988128",
+      "time": "2026-07-14 23:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "古巴國家媒體稱，古巴全國電網發生全面癱瘓。"
+    },
+    {
+      "id": "4988127",
+      "time": "2026-07-14 23:20:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（美聯儲）花了近18年才形成當前的資產負債表規模，不可能在一夜之間完成調整。"
+    },
+    {
+      "id": "mkt:019f6136-b87f-7aab-8d82-d9ec35e63fc0",
+      "time": "2026-07-14 23:20:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he does not expect a return to the Fed's 2006 balance-sheet size."
+    },
+    {
+      "id": "mkt:019f6136-619a-7aab-8d82-d21d0dc7b5e2",
+      "time": "2026-07-14 23:19:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed can begin seriously considering when to buy Treasuries."
+    },
+    {
+      "id": "4988126",
+      "time": "2026-07-14 23:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：美國移民與海關執法局暫停車輛臨檢執法行動。"
+    },
+    {
+      "id": "4988125",
+      "time": "2026-07-14 23:19:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們將繼續改革並完善監管體系。"
+    },
+    {
+      "id": "4988124",
+      "time": "2026-07-14 23:19:10",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲可以認真考量我們何時開始從財政部購入債券這一問題。"
+    },
+    {
+      "id": "4988123",
+      "time": "2026-07-14 23:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院聽證會：美國商務部官員凱斯勒近日訪問荷蘭。"
+    },
+    {
+      "id": "4988122",
+      "time": "2026-07-14 23:18:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普取消在霍爾木茲海峽收費決定】美國總統特朗普今天（7月14日）在社交媒體平臺“真實社交”發文稱，“得益於美軍的強大實力，石油正以前所未有的規模順暢流動，霍爾木茲海峽向除伊朗以外的所有船隻開放。”特朗普稱，鑑於與中東國家領導人“富有成效的會談”，他決定取消“20%美國補償費”這一做法，轉而由海灣各國與美國達成貿易和投資協議——“這些投資規模將極其巨大，同時也將極大地造福這些國家及其未來，工廠、設施、裝置將以前所未有的規模湧入美國，從而創造數百萬個高薪就業崗位”。特朗普稱，“美國正在重獲勝利，而且是前所未有的勝利。”（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f6135-3816-7aab-8d82-ca0c07f6126a",
+      "time": "2026-07-14 23:18:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said data-center operator Switch has hired Goldman Sachs and JP Morgan to lead its IPO, targeting an $80 billion valuation and possibly launching as early as Q4."
+    },
     {
       "id": "4988121",
       "time": "2026-07-14 23:18:06",

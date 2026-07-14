@@ -1,7 +1,134 @@
 {
-  "updated": "2026-07-14 23:18:47",
-  "count": 18569,
+  "updated": "2026-07-14 23:23:06",
+  "count": 18576,
   "items": [
+    {
+      "id": "4988130",
+      "time": "2026-07-14 23:22:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：不認為能將資產負債表恢復至2006年的規模水平。"
+    },
+    {
+      "id": "4988129",
+      "time": "2026-07-14 23:21:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：能夠實現資產負債表的其他均衡狀態。"
+    },
+    {
+      "id": "mkt:019f6137-a623-7aab-8d82-e598cd61dad8",
+      "time": "2026-07-14 23:21:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Cuban state media reports the national power grid has collapsed."
+    },
+    {
+      "id": "4988128",
+      "time": "2026-07-14 23:21:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "古巴國家媒體稱，古巴全國電網發生全面癱瘓。"
+    },
+    {
+      "id": "4988127",
+      "time": "2026-07-14 23:20:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（美聯儲）花了近18年才形成當前的資產負債表規模，不可能在一夜之間完成調整。"
+    },
+    {
+      "id": "mkt:019f6136-b87f-7aab-8d82-d9ec35e63fc0",
+      "time": "2026-07-14 23:20:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he does not expect a return to the Fed's 2006 balance-sheet size."
+    },
+    {
+      "id": "mkt:019f6136-619a-7aab-8d82-d21d0dc7b5e2",
+      "time": "2026-07-14 23:19:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed can begin seriously considering when to buy Treasuries."
+    },
+    {
+      "id": "4988126",
+      "time": "2026-07-14 23:19:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：美國移民與海關執法局暫停車輛臨檢執法行動。"
+    },
+    {
+      "id": "4988125",
+      "time": "2026-07-14 23:19:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們將繼續改革並完善監管體系。"
+    },
+    {
+      "id": "4988124",
+      "time": "2026-07-14 23:19:10",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲可以認真考量我們何時開始從財政部購入債券這一問題。"
+    },
+    {
+      "id": "4988123",
+      "time": "2026-07-14 23:18:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院聽證會：美國商務部官員凱斯勒近日訪問荷蘭。"
+    },
+    {
+      "id": "4988122",
+      "time": "2026-07-14 23:18:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普取消在霍爾木茲海峽收費決定】美國總統特朗普今天（7月14日）在社交媒體平臺“真實社交”發文稱，“得益於美軍的強大實力，石油正以前所未有的規模順暢流動，霍爾木茲海峽向除伊朗以外的所有船隻開放。”特朗普稱，鑑於與中東國家領導人“富有成效的會談”，他決定取消“20%美國補償費”這一做法，轉而由海灣各國與美國達成貿易和投資協議——“這些投資規模將極其巨大，同時也將極大地造福這些國家及其未來，工廠、設施、裝置將以前所未有的規模湧入美國，從而創造數百萬個高薪就業崗位”。特朗普稱，“美國正在重獲勝利，而且是前所未有的勝利。”（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f6135-3816-7aab-8d82-ca0c07f6126a",
+      "time": "2026-07-14 23:18:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said data-center operator Switch has hired Goldman Sachs and JP Morgan to lead its IPO, targeting an $80 billion valuation and possibly launching as early as Q4."
+    },
     {
       "id": "4988121",
       "time": "2026-07-14 23:18:06",
@@ -169762,62 +169889,6 @@
         "其他"
       ],
       "text": "【2030年冬奧會將設定126個小項】國際奧委會7日表示，2030年法國阿爾卑斯冬奧會預計約3046名運動員參加，其中將包括1525名女運動員和1521名男運動員。2030年冬奧會將設定126個小項，其中女子專案56個，男子專案55個，混合15個專案。高山自由滑雪（freeride）和花樣滑冰九人制佇列滑（synchro 9）專案將首次亮相奧運舞臺。國際奧委會執行委員會當天還確認，單板滑雪平行大回轉專案將被保留，而北歐兩項則未被保留。"
-    },
-    {
-      "id": "4974755",
-      "time": "2026-07-07 23:23:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國參議院民主黨成員Warren施壓五角大樓與多家AI公司，要求披露合同。（NBC）"
-    },
-    {
-      "id": "mkt:019f3d2c-446f-7aab-8cd2-0236d558e346",
-      "time": "2026-07-07 23:22:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sen. Warren presses the Pentagon and AI firms to disclose contract information."
-    },
-    {
-      "id": "te:markets:564924",
-      "time": "2026-07-07 23:21:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Arabica Coffee Futures Halt Rally — Arabica coffee futures fell nearly 8% to around $3.20 per pound, as profit-taking followed a rally to a five-month high of nearly $3.50 on July 6. The earlier advance was underpinned by weather concerns in top producer Brazil, where colder forecasts, potential El Niño-related risks, harvest delays, and tight coffee supplies triggered buying and short covering. However, updated forecasts from Climatempo pointed to mostly dry weather across Brazil's main coffee-growing regions, supporting harvest progress and easing frost concerns. Safras & Mercado reported that Brazil's 2026/27 coffee harvest had reached only 52% of the planted area by July 1, below last year's 60% pace and the five-year average of 55%, highlighting the slower arrival of new supplies."
-    },
-    {
-      "id": "4974754",
-      "time": "2026-07-07 23:21:13",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【阿波羅Slok：美股七巨頭以外公司利潤率停滯對科技巨頭估值構成風險】阿波羅全球管理公司（Apollo Global Management Inc.）首席經濟學家Torsten Slok警告稱，科技巨頭以外的公司未能展現其人工智慧支出帶來盈利能力提升，這給大型科技股估值帶來風險。“我們需要看到美股七巨頭以外的公司利潤率上升，”Slok週二表示，他使用的是美國科技巨頭的簡稱。“換句話說，標普500指數中其餘493只成份股的情況變得非常、非常關鍵。”Slok表示，華爾街需要看到他所說的標普500指數中其餘493只成份股在採用人工智慧後，盈利和利潤率方面出現積極結果。否則，對估值的懷疑可能會加深，包括對大型科技公司估值的懷疑。"
-    },
-    {
-      "id": "mkt:019f3d2a-3de9-7aab-8cd1-fe9772933ae3",
-      "time": "2026-07-07 23:20:06",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "Macquarie initiates coverage of SpaceX (SPCX.O), assigns Outperform rating and sets PT at $250."
-    },
-    {
-      "id": "4974753",
-      "time": "2026-07-07 23:19:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "SpaceX：麥格理首次覆蓋，給予跑贏大盤評級，目標價 250 美元。"
     }
   ]
 }
