@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-15 02:08:36",
-  "count": 18820,
+  "updated": "2026-07-15 02:12:32",
+  "count": 18821,
   "items": [
+    {
+      "id": "mkt:019f61d4-1790-7aab-8d87-64ddedf013b7",
+      "time": "2026-07-15 02:11:57",
+      "tags": [
+        "MKT News",
+        "LCID.O",
+        "Impact bullish"
+      ],
+      "text": "Lucid Group (LCID.O) said reports it is considering privatization or a Chapter 11 filing are false, that it has sufficient liquidity to fund operations into next year, and that AlixPartners did not recommend bankruptcy to management or the board."
+    },
+    {
+      "id": "4988400",
+      "time": "2026-07-15 02:09:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月15日01時59分在西藏阿里地區改則縣（北緯34.15度，東經84.90度）發生3.4級地震，震源深度10千米。"
+    },
+    {
+      "id": "4988399",
+      "time": "2026-07-15 02:08:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度天然氣交易所遞交IPO招股草案。"
+    },
+    {
+      "id": "4988398",
+      "time": "2026-07-15 02:08:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克真主黨旅：如果針對伊朗的戰爭爆發，抵抗力量將立即且堅決地參與其中。這一決定基於堅定的信念，沒有任何談判的餘地。"
+    },
     {
       "id": "mkt:019f61cf-2663-7aab-8d87-5f58e582e539",
       "time": "2026-07-15 02:06:33",
@@ -172211,30 +172245,6 @@
         "MKT News"
       ],
       "text": "Congo: confirmed Ebola cases have risen to 1,624, including 521 deaths."
-    },
-    {
-      "id": "mkt:019f3dc6-7e67-7aab-8cd4-b1ca010e01f5",
-      "time": "2026-07-08 02:10:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French far-right leader Marine Le Pen says she will run for president in the 2027 election."
-    },
-    {
-      "id": "4974837",
-      "time": "2026-07-08 02:10:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "勒龐：我將在不佩戴電子腳鐐的情況下參加2027年總統選舉。"
-    },
-    {
-      "id": "4974836",
-      "time": "2026-07-08 02:09:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "勒龐：法院賦予法國民眾投票自由，我對此感到欣慰。 將就法院的判決提起上訴。"
     }
   ]
 }

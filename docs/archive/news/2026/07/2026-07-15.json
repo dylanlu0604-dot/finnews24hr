@@ -1,7 +1,41 @@
 {
   "date": "2026-07-15",
-  "count": 321,
+  "count": 325,
   "items": [
+    {
+      "id": "mkt:019f61d4-1790-7aab-8d87-64ddedf013b7",
+      "time": "2026-07-15 02:11:57",
+      "tags": [
+        "MKT News",
+        "LCID.O",
+        "Impact bullish"
+      ],
+      "text": "Lucid Group (LCID.O) said reports it is considering privatization or a Chapter 11 filing are false, that it has sufficient liquidity to fund operations into next year, and that AlixPartners did not recommend bankruptcy to management or the board."
+    },
+    {
+      "id": "4988400",
+      "time": "2026-07-15 02:09:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月15日01時59分在西藏阿里地區改則縣（北緯34.15度，東經84.90度）發生3.4級地震，震源深度10千米。"
+    },
+    {
+      "id": "4988399",
+      "time": "2026-07-15 02:08:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度天然氣交易所遞交IPO招股草案。"
+    },
+    {
+      "id": "4988398",
+      "time": "2026-07-15 02:08:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克真主黨旅：如果針對伊朗的戰爭爆發，抵抗力量將立即且堅決地參與其中。這一決定基於堅定的信念，沒有任何談判的餘地。"
+    },
     {
       "id": "mkt:019f61cf-2663-7aab-8d87-5f58e582e539",
       "time": "2026-07-15 02:06:33",
