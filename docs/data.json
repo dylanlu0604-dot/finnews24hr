@@ -1,7 +1,140 @@
 {
-  "updated": "2026-07-14 09:46:51",
-  "count": 17353,
+  "updated": "2026-07-14 09:50:48",
+  "count": 17360,
   "items": [
+    {
+      "id": "mkt:019f5e51-2807-7aab-8d69-1ea74c709f69",
+      "time": "2026-07-14 09:50:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "State Council Information Office to hold a press conference in 10 minutes on China's 1H 2026 imports and exports."
+    },
+    {
+      "id": "mkt:019f5e50-db7f-7aab-8d69-14d3ad7cdaf6",
+      "time": "2026-07-14 09:49:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Tech Index extended losses to 2%; Hang Seng Index down 1.12%."
+    },
+    {
+      "id": "mkt:019f5e50-d8a3-7aab-8d69-0ca2b26a8582",
+      "time": "2026-07-14 09:49:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Bank of Korea set to hike this week, first rate rise in over three years】A July 7-13 survey of 37 economists shows the Bank of Korea is expected to deliver its first policy-rate increase in more than three years on Thursday, July 16, raising the benchmark to 2.75% (36 of 37 respondents). June CPI rose to 3.2% YoY, a two-and-a-half-year high and the fourth month above the BOK’s 2% target; respondents expect H2 inflation to average about 3%, supporting a tightening cycle. Strong Q1 growth (near six-year highs), rising house prices and elevated household debt were cited as creating scope for rate increases. Governor Shin said higher oil prices linked to the Middle East conflict will keep inflation above target for some time, making a rate hike necessary. In a subset of 31 respondents, 28 expect an additional hike by end-Q4 taking the rate to 3.00%; one expects 3.25% and two expect rates to remain at 2.75%. The survey median projects the policy rate at 3.25% in Q1 2027 and held at least through end-2027, 25bps above the May survey."
+    },
+    {
+      "id": "4985726",
+      "time": "2026-07-14 09:49:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丁二烯橡膠連續主力合約日內漲5%，現報13525.00元。"
+    },
+    {
+      "id": "4985725",
+      "time": "2026-07-14 09:49:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利亞德與中電科二十七所達成戰略合作】據利亞德集團訊息，近日，利亞德與中國電子科技集團公司第二十七研究所（簡稱“中電科二十七所”）舉行戰略合作簽約儀式，雙方將圍繞“低空安全防護裝備技術的聯合開發”和“反無領域科技成果的聯合轉化”展開深度合作。"
+    },
+    {
+      "id": "4985724",
+      "time": "2026-07-14 09:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱絕不允許美干涉霍爾木茲管理】伊朗武裝部隊哈塔姆安比亞中央司令部發言人7月13日表示，美國一再採取冒險主義和敵對行動並干涉霍爾木茲海峽的管理，這嚴重危及地區安全國際貿易以及油輪和商船的通行，伊朗絕對不會允許美國干涉霍爾木茲海峽的管理。佐勒法加里還表示，伊朗武裝部隊將對美軍未經伊朗授權、擅自闖入指定航道、干擾商船和油輪通行的行為予以強力回擊。"
+    },
+    {
+      "id": "4985723",
+      "time": "2026-07-14 09:49:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2％，恒生指數現跌1.11％。"
+    },
+    {
+      "id": "mkt:019f5e4f-a36a-7aab-8d69-05d60e8047e8",
+      "time": "2026-07-14 09:48:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran Nour News: Parts of Bushehr province in southern Iran were hit by a new round of US strikes."
+    },
+    {
+      "id": "4985722",
+      "time": "2026-07-14 09:48:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港口航運板塊短線拉昇，國航遠洋漲超10%】港口航運板塊短線拉昇，國航遠洋漲超10%，招商南油、招商港口、青島港、南京港、寧波遠洋等跟漲。"
+    },
+    {
+      "id": "mkt:019f5e4f-8030-7aab-8d68-fe72c6dc5cb3",
+      "time": "2026-07-14 09:48:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share port and shipping sector spiked intraday; Guohang Yuanyang jumped over 10%, with China Merchants Nanyou, China Merchants Port, Qingdao Port, Nanjing Port and Ningbo Yuanyang also rising."
+    },
+    {
+      "id": "mkt:019f5e4f-40d9-7aab-8d68-f674cbbde041",
+      "time": "2026-07-14 09:47:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "A-shares coal mining and processing sector rallied briefly; Dayou Energy hit the daily limit-up, while Haohua Energy, Yankuang Energy, Jinkong Coal, China Coal Energy and Shanxi Coal International also advanced."
+    },
+    {
+      "id": "4985721",
+      "time": "2026-07-14 09:47:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部布什爾地區在美軍新一輪攻擊中遭到襲擊。"
+    },
+    {
+      "id": "4985720",
+      "time": "2026-07-14 09:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【芯海科技CPW3240透過USB PD3.2認證】近日，芯海科技旗下雙口Type-C介面控制器晶片CPW3240正式透過USB PD3.2認證（TID：15994），標誌著該產品已獲得國際標準認可，能夠為AIPC、筆記本及平板等裝置提供安全、高速且完全合規的快充與資料連線方案。"
+    },
+    {
+      "id": "4985719",
+      "time": "2026-07-14 09:47:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭開採加工板塊短線拉昇，大有能源漲停】煤炭開採加工板塊短線拉昇，大有能源漲停，昊華能源、兗礦能源、晉控煤業、中煤能源、山煤國際跟漲。"
+    },
     {
       "id": "4985718",
       "time": "2026-07-14 09:45:23",
@@ -158633,70 +158766,6 @@
         "MKT News"
       ],
       "text": "Market sources said the USD/KRW FX transaction linked to SK Hynix's ADR listing is expected to take place on or around July 15."
-    },
-    {
-      "id": "4973284",
-      "time": "2026-07-07 09:50:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【西江水位不斷上漲，廣東省水文局釋出今年首個洪水紅色預警】受上游來水影響，西江水位不斷上漲。2026年7月7日8時，西江封開江口站（廣東省肇慶市封開縣江口鎮）水位17.24米（警戒水位17.80米）。根據當前雨水情分析，預計該站水位將於7月7日中午前後漲至警戒水位，7月8日上午漲至22.0米左右（超過封開縣江口街道舊城區堤頂高程），後續仍將繼續上漲。鑑於當前形勢，廣東省水文局已於7月7日8時升級釋出西江封開河段洪水紅色預警。（澎湃新聞）"
-    },
-    {
-      "id": "4973283",
-      "time": "2026-07-07 09:50:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，與SK海力士美國存託憑證(ADR)上市相關的美元/韓元外匯交易預計將在7月15日左右進行。"
-    },
-    {
-      "id": "4973282",
-      "time": "2026-07-07 09:49:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股科網股盤初衝高，美團漲超7%】港股科網股盤初衝高，美團-W漲超7%，騰訊控股漲超4%，小米集團-W漲近3%，阿里巴巴-W、百度集團-SW漲超1%。"
-    },
-    {
-      "id": "mkt:019f3a43-554b-7aab-8cbf-a88bb1782f3c",
-      "time": "2026-07-07 09:48:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Macro & Rates",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "【Capital Economics: Slower Japanese wage growth unlikely to stop BOJ hikes】Capital Economics senior Asia-Pacific economist Abhijit Suriya says slower May wage growth is unlikely to deter further Bank of Japan tightening. Preliminary data showed Japan's cash earnings growth slowed to 3.2% YoY in May from 3.6% in April. Suriya said core/base wage indicators remain well above their 2025 average and at historically high levels, and that the print is unlikely to alter the BOJ's view that the labour market remains tight. Capital Economics maintains its forecast that the BOJ will raise rates to 2% by end-2027."
-    },
-    {
-      "id": "4973281",
-      "time": "2026-07-07 09:48:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【光韻達等在新疆成立數智科技公司，含半導體相關業務】企查查APP顯示，近日，新疆光韻達數智科技有限公司成立，經營範圍包含：積體電路晶片及產品銷售；半導體器件專用裝置銷售；電子元器件零售；人工智慧通用應用系統；網際網路資料服務；雲端計算裝備技術服務等。企查查股權穿透顯示，該公司由光韻達全資子公司深圳市光韻達智算科技有限公司等共同持股。"
-    },
-    {
-      "id": "4973280",
-      "time": "2026-07-07 09:47:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "LG電子第二季度營業利潤1.58萬億韓元，營收23.83萬億韓元。"
-    },
-    {
-      "id": "4973279",
-      "time": "2026-07-07 09:46:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念震盪拉昇 沐曦股份漲超10%】早盤算力晶片概念震盪拉昇，沐曦股份漲超10%，萬通發展、芯原股份、海光資訊、寒武紀、摩爾執行緒、龍芯中科跟漲。"
     }
   ]
 }
