@@ -1,7 +1,191 @@
 {
-  "updated": "2026-07-14 17:29:29",
-  "count": 18012,
+  "updated": "2026-07-14 17:34:06",
+  "count": 18002,
   "items": [
+    {
+      "id": "mkt:019f5ff8-d4a4-7aab-8d78-0234a5c945d9",
+      "time": "2026-07-14 17:32:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A subsidiary of Indian billionaire Kumar Mangalam Birla's group has obtained about $1.5 billion of acquisition financing from Mitsubishi UFJ Financial Group (MUFG) to acquire Shell's renewable energy assets in India."
+    },
+    {
+      "id": "mkt:019f5ff7-d3ac-7aab-8d77-f9afd5a15550",
+      "time": "2026-07-14 17:31:44",
+      "tags": [
+        "MKT News",
+        "9999.HK",
+        "Impact bullish",
+        "1024.HK",
+        "3690.HK",
+        "Impact bearish"
+      ],
+      "text": "Southbound funds net-bought 10.997 billion yuan today. On the Shanghai-Hong Kong Stock Connect leg, Zhipu and GigaDevice were the biggest net buys at HK$2.29 bln and HK$810 mln respectively; Xiaomi Group-W was the top net seller at HK$43 mln. On the Shenzhen-Hong Kong Stock Connect leg, NetEase and Kuaishou-W led net buying at HK$2.87 bln and HK$1.46 bln; Meituan-W was the largest net sell at HK$558 mln."
+    },
+    {
+      "id": "4986976",
+      "time": "2026-07-14 17:31:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百大集團：預計2026年上半年淨利潤同比減少82.72%】百大集團公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1000萬元，與上年同期相比，將減少4785.95萬元，同比減少82.72%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤2700萬元，與上年同期相比，將減少523.49萬元，同比減少16.24%。本期業績預減主要源於非經常性損益的影響。"
+    },
+    {
+      "id": "4986975",
+      "time": "2026-07-14 17:31:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首開股份：預計2026年上半年淨利潤為虧損17億元至22億元】首開股份公告，預計2026年上半年淨利潤為虧損17億元至22億元。報告期內歸屬於母公司所有者的淨利潤為負的主要原因為公司房地產專案結轉規模同比下降、毛利率較低，期間費用規模較大。"
+    },
+    {
+      "id": "4986974",
+      "time": "2026-07-14 17:31:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【有研新材：擬轉讓有研稀土45%股份及有研國晶輝51%股權】有研新材公告，公司擬將持有的有研稀土新材料股份有限公司45%股份及有研國晶輝新材料有限公司51%股權透過非公開協議方式轉讓給中國有研科技集團公司。其中，有研稀土45%股份的轉讓價格為4.54億元，有研國晶輝51%股權的轉讓價格為2.43億元。本次交易構成關聯交易，不構成重大資產重組。交易資金來自於中國有研自有資金，不存在使用募集資金的情形。"
+    },
+    {
+      "id": "4986973",
+      "time": "2026-07-14 17:31:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金開新能：預計上半年淨利潤6200萬元，同比下降85.89%】金開新能公告，預計2026年上半年實現歸屬於母公司所有者的淨利潤6200萬元，與上年同期相比，減少3.77億元，同比減少85.89%。預計2026年上半年實現歸屬於母公司所有者的扣除非經常性損益的淨利潤6300萬元，與上年同期相比，減少3.37億元，同比減少84.27%。上年同期歸屬於母公司所有者的淨利潤為4.39億元，歸屬於母公司所有者的扣除非經常性損益的淨利潤為4億元。"
+    },
+    {
+      "id": "mkt:019f5ff7-335f-7aab-8d77-f2488945644d",
+      "time": "2026-07-14 17:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Statistics South Africa revised April gold production to a 0.4% YoY decline, versus an initial 0.2% YoY drop."
+    },
+    {
+      "id": "4986972",
+      "time": "2026-07-14 17:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非鉑族金屬產量或同比下降4.4%。"
+    },
+    {
+      "id": "4986971",
+      "time": "2026-07-14 17:30:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "南非統計局資料顯示，南非5月礦業總產量同比下降5.4%，市場共識預期為同比增長1.5%。南非4月礦業總產量修正後同比增長8.0%，初值為增長8.2%。"
+    },
+    {
+      "id": "mkt:019f5ff7-0993-7aab-8d77-ecddecde3aa7",
+      "time": "2026-07-14 17:30:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Stats South Africa said South Africa’s May platinum-group metals production fell 4.4% year-on-year."
+    },
+    {
+      "id": "4986970",
+      "time": "2026-07-14 17:30:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非統計局資料顯示，南非4月黃金產量經修正後同比下降0.4%，此前初值為同比下降0.2%。"
+    },
+    {
+      "id": "4986969",
+      "time": "2026-07-14 17:30:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "南非黃金產量五月同比下降4.3%。"
+    },
+    {
+      "id": "mkt:019f5ff6-a084-7aab-8d77-e02796c716b4",
+      "time": "2026-07-14 17:30:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Statistics South Africa said May gold production fell 4.3% year-on-year."
+    },
+    {
+      "id": "4986968",
+      "time": "2026-07-14 17:29:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交運股份：預計2026年上半年淨利潤約為2160萬元】交運股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤約為2160萬元，與上年同期相比（上年同期法定披露資料即2025年半年度報告資料為-6143萬元），將實現扭虧為盈。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤約為-1.41億元。"
+    },
+    {
+      "id": "4986967",
+      "time": "2026-07-14 17:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國際海事組織秘書長呼籲停止對國際航運的無端襲擊】國際海事組織秘書長多明格斯13日發表宣告，呼籲停止因地緣政治衝突引發的針對國際航運的一切無端襲擊。多明格斯表示，過去一週，亞速海和黑海海域多艘民用商船遭襲，國際海事組織對此深表譴責。他表示，儘管近期國際社會關注焦點集中在霍爾木茲海峽及周邊局勢，但世界其他地區的海員仍持續面臨嚴重安全威脅。（央視新聞）"
+    },
+    {
+      "id": "4986966",
+      "time": "2026-07-14 17:29:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贛粵高速：預計2026年上半年淨利潤1.8億-2.6億元，同比下降65.96%-76.43%】贛粵高速公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1.8億元到2.6億元，與2025年同期法定披露資料7.64億元相比，將減少5.84億元到5.04億元，同比減少76.43%到65.96%。預計扣非淨利潤4.3億元到6.2億元，同比減少31.27%到0.91%。2026年上半年公司通行服務收入18.6億元（含稅），同比增加0.56%。業績預減主要為公司持有的金融資產產生的公允價值變動損益較2025年同期大幅下降所致；扣非淨利潤下降主要為公路資產折舊增加及競爭性業務盈利減少所致。"
+    },
+    {
+      "id": "mkt:019f5ff5-ba7b-7aab-8d77-d81c9032b636",
+      "time": "2026-07-14 17:29:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iranian media reported explosions heard in Bushehr city."
+    },
+    {
+      "id": "4986965",
+      "time": "2026-07-14 17:29:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昆藥集團：預計2026年上半年淨利潤虧損3.3億-4億元，同比減少302%-266%】昆藥集團公告，預計2026年半年度歸屬於上市公司股東的淨利潤為-4億元到-3.3億元，與上年同期（淨利潤1.98億元）相比由盈轉虧，同比減少302%-266%；預計歸屬於上市公司股東的扣除非經常性損益的淨利潤為-4.3億元到-3.5億元，同比減少385%-332%。業績預虧主要因中成藥集採擴圍、醫保控費深化、院外終端競爭加劇等外部因素，疊加公司最佳化渠道庫存、推進營銷模式轉型等內部調整，經營改善進度不及預期。"
+    },
+    {
+      "id": "4986964",
+      "time": "2026-07-14 17:29:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天士力：2026年上半年淨利潤8.93億元，同比增長15.23%】天士力公告，2026年半年度實現營業總收入42.01億元，同比下降2.03%；歸母淨利潤8.93億元，同比增長15.23%；扣非淨利潤8.71億元，同比增長36.01%。上年同期歸母淨利潤為7.75億元。業績變動主要因中藥注射劑行業性下滑及感冒發燒藥銷售收入下降所致。"
+    },
+    {
+      "id": "4986963",
+      "time": "2026-07-14 17:28:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘元綠能：預計2026年上半年淨虧損5.9億元到6.9億元】弘元綠能公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤-5.9億元到-6.9億元，預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤-4億元到-5億元。報告期內，光伏行業階段性供需錯配矛盾尚未根本緩解，報告期末產業鏈部分產品價格較年初有較大幅度下降。"
+    },
+    {
+      "id": "4986962",
+      "time": "2026-07-14 17:28:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航發動力：預計2026年上半年淨利潤1.4億-1.55億元，同比增長52.54%-68.89%】航發動力公告，預計2026年半年度歸屬於母公司所有者的淨利潤1.4億元-1.55億元，與上年同期9177.79萬元相比，同比增長52.54%-68.89%；預計扣除非經常性損益的淨利潤1.95億元-2.1億元，同比增長407.62%-446.67%。業績預增主要因報告期內公司生產交付任務有序推進，營業收入實現增長，推動盈利水平同比提升。本期業績預告未經註冊會計師審計。"
+    },
     {
       "id": "4986961",
       "time": "2026-07-14 17:28:40",
@@ -164443,307 +164627,6 @@
         "NOC"
       ],
       "text": "Ukrainian President Zelenskiy said Ukraine's top priority at the summit is new air-defense systems and missiles."
-    },
-    {
-      "id": "4974051",
-      "time": "2026-07-07 17:33:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【南華期貨：決定撤銷哈爾濱營業部】南華期貨公告，為進一步最佳化營業網點佈局、整合經營資源、提升整體服務效能，公司決定撤銷哈爾濱營業部，其各項業務轉由黑龍江分公司承接。公司將按照《期貨公司監督管理辦法》等規定，妥善處理分支機構客戶資產、結清分支機構相關業務並終止經營場所等事宜。"
-    },
-    {
-      "id": "mkt:019f3bed-32d0-7aab-8cca-73861b70b8f4",
-      "time": "2026-07-07 17:33:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Bank of England: UK households and firms remain broadly resilient, but some low-income households and small businesses remain vulnerable."
-    },
-    {
-      "id": "mkt:019f3bed-249d-7aab-8cca-6edc0e1bfdcb",
-      "time": "2026-07-07 17:33:44",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "Bank of England to consult on removing the countercyclical leverage buffer, calibrating the additional leverage ratio to global standards, and increasing the releasability of capital buffers."
-    },
-    {
-      "id": "4974050",
-      "time": "2026-07-07 17:33:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【郭明錤：臺積電7月對GCS/CoPoS提供重大更新的機會可能不高】分析師郭明錤在社交平臺發文稱，從過去歷史經驗看，臺積電在接下來的7月，對玻璃核心載板（GCS）/CoPoS提供重大更新的機會可能不高，特別是才剛在6月份的日本研討會中，提供過關鍵研發成果且罕見提到合作供應商。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202607073796828375",
-      "time": "2026-07-07 17:33:07",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "【英國央行：股票市場槓桿率上升加劇金融穩定威脅】英國央行表示，股票市場槓桿率上升加劇金融穩定威脅。"
-    },
-    {
-      "id": "4974049",
-      "time": "2026-07-07 17:33:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【南華期貨：預計2026年上半年淨利潤同比增長62.16%-75.13%】南華期貨公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為3.75億元到4.05億元，同比增加62.16%到75.13%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為3.77億元到4.07億元，同比增加62.65%到75.59%。預計2026年半年度實現基本每股收益為0.53元到0.58元，同比增加39.47%到52.63%。報告期內，地緣衝突、海外利率預期反覆、大宗商品供需分化等因素，推動了國內外市場波動率的抬升，實體企業風險管理需求持續釋放。"
-    },
-    {
-      "id": "mkt:019f3bec-8496-7aab-8cca-61a853129f3d",
-      "time": "2026-07-07 17:33:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England says the Prudential Regulation Authority is clarifying it may release capital buffers for other systemically important banks (O-SIIs) during periods of systemic stress."
-    },
-    {
-      "id": "4974048",
-      "time": "2026-07-07 17:32:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏克蘭在此次峰會上的首要訴求是獲取新型防空系統與導彈。"
-    },
-    {
-      "id": "mkt:019f3beb-e937-7aab-8cca-5af56888e13c",
-      "time": "2026-07-07 17:32:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Bank of England maintains countercyclical capital buffer at 2%."
-    },
-    {
-      "id": "4974047",
-      "time": "2026-07-07 17:32:05",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行：股票市場槓桿率上升加劇金融穩定威脅。"
-    },
-    {
-      "id": "mkt:019f3beb-9c77-7aab-8cca-55d7953f721d",
-      "time": "2026-07-07 17:32:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Bank of England said AI-related companies now account for a larger share of equity market valuations and debt issuance."
-    },
-    {
-      "id": "mkt:019f3beb-7fcc-7aab-8cca-4928432deb77",
-      "time": "2026-07-07 17:31:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of England says by historical standards UK household and business indebtedness remains low; debt vulnerabilities are at average levels."
-    },
-    {
-      "id": "mkt:019f3beb-3c0b-7aab-8cca-432142bdfe76",
-      "time": "2026-07-07 17:31:39",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "Meituan",
-        "0700.HK",
-        "Impact bullish",
-        "3690.HK",
-        "981.HK",
-        "Impact mixed"
-      ],
-      "text": "Southbound Stock Connect flows net bought 497 mln yuan today. Via Hong Kong Stock Connect (Shanghai), Tencent was net bought HKD 983 mln and SMIC HKD 901 mln; Kingboard Laminates was the largest net sell at HKD 966 mln. Via Hong Kong Stock Connect (Shenzhen), Tencent and Meituan‑W were net bought HKD 1.341 bln and HKD 1.241 bln respectively; SMIC was the top net sell at HKD 1.979 bln."
-    },
-    {
-      "id": "mkt:019f3beb-31af-7aab-8cca-3bc9434d00a7",
-      "time": "2026-07-07 17:31:37",
-      "tags": [
-        "MKT News",
-        "LLOY.L",
-        "Impact bullish",
-        "BARC.L",
-        "HSBA.L"
-      ],
-      "text": "Bank of England says it will pursue a simpler, more effective capital buffer framework focused on a single buffer releasable in periods of stress."
-    },
-    {
-      "id": "4974046",
-      "time": "2026-07-07 17:31:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貴州茅臺今日大宗交易成交18.5萬股 成交額2.21億元】7月7日，貴州茅臺大宗交易成交18.5萬股，成交額2.21億元，佔當日總成交額的6.33%，成交均價1192.14元，較市場收盤價1188.8元溢價0.28%，其中最高成交價1193.12元，最低成交價1188.8元。"
-    },
-    {
-      "id": "4974045",
-      "time": "2026-07-07 17:31:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國建築：2025年度擬派發現金紅利11.23億元】中國建築公告稱，公司2025年度利潤分配方案已獲2026年5月19日的年度股東會審議透過。本次利潤分配以總股本413.20億股為基數，每股派發現金紅利0.2718元（含稅），共計派發現金紅利11.23億元（含稅）。股權登記日為2026年7月15日，除權（息）日和現金紅利發放日為7月16日。"
-    },
-    {
-      "id": "4974044",
-      "time": "2026-07-07 17:31:02",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行：英國家庭和企業整體保持韌性，部分低收入家庭和小型企業較為脆弱。"
-    },
-    {
-      "id": "4974043",
-      "time": "2026-07-07 17:30:55",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行：按歷史標準衡量，英國家庭和企業負債水平仍較低，債務脆弱性處於平均水平。"
-    },
-    {
-      "id": "mkt:019f3bea-8c4d-7aab-8cca-30ad740cbd17",
-      "time": "2026-07-07 17:30:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of England: enhanced capabilities of frontier AI models increase cyberattack and operational risks."
-    },
-    {
-      "id": "4974042",
-      "time": "2026-07-07 17:30:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行：股市和債市容易受到人工智慧應用不及預期、建設速度放緩或融資渠道減少的影響。"
-    },
-    {
-      "id": "4974041",
-      "time": "2026-07-07 17:30:41",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士大幅波動放大槓桿ETF風險 韓國政府稱將研究完善措施】隨著SK海力士股價波動加劇，追蹤SK海力士股價兩倍漲跌幅的單隻股票槓桿交易所交易基金（ETF）之間，收益率差距也擴大至超過5個百分點。市場指出，由於產品結構和基金管理能力的差異正在直接反映到收益率上，投資者需要提高警惕。與此同時，韓國副總理兼企劃財政部長官具潤哲表示，針對單一個股槓桿產品，“正在討論完善方案”。 不過，也有觀點認為，除了產品結構之外，基金管理能力同樣是重要因素。 由於近期三星電子和SK海力士股價反覆出現單日約10%的大漲大跌，基金公司在實時管理淨值偏離率和調整投資組合方面面臨更大壓力。當天市場暴跌後，三星電子和SK海力士相關的14只單隻股票槓桿產品，盤中一度全部跌破上市發行價2萬韓元。韓國副總理具潤哲當天在企劃財政委員會全體會議上表示：“我非常清楚，目前市場存在槓桿ETF給股票市場帶來較大波動性的擔憂。” 他解釋稱：“在引入相關政策時，曾同時考慮外匯市場和資本市場，但目前也出現了一些問題。”“我們正在討論如何完善相關制度，並將這些問題和負面影響降到最低。”"
-    },
-    {
-      "id": "mkt:019f3bea-4e7f-7aab-8cca-2b9d7c3d7b2e",
-      "time": "2026-07-07 17:30:38",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "FTSE100",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Bank of England says stock market leverage has risen sharply."
-    },
-    {
-      "id": "te:markets:564820",
-      "time": "2026-07-07 17:30:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Rubber Futures Rebound — Rubber futures rose to near 214 US cents per kilogram, up from recent two-month lows of $208.6 cents per kilogram, supported by rising prices of crude oil. Natural rubber prices closely track crude oil, as higher oil prices make synthetic rubber more expensive and boost demand for natural rubber. Meanwhile, the persistent weakness in the tyre sector demand and improving supply prospects limited the upside. Chinese broker Gouxin Futures said the semi-steel tire segment remains under pressure as manufacturers contend with weak new-order expectations and rising inventories. It added that some companies have begun shutting down for maintenance since early this month, reducing near-term rubber consumption."
-    },
-    {
-      "id": "4974040",
-      "time": "2026-07-07 17:30:33",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：英國央行槓桿率相關提案將把監管要求下調20個基點。"
-    },
-    {
-      "id": "mkt:019f3bea-3615-7aab-8cca-24a1f4ad7dfe",
-      "time": "2026-07-07 17:30:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine plans to reach a new drone agreement at the NATO summit in Ankara."
-    },
-    {
-      "id": "4974039",
-      "time": "2026-07-07 17:30:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雲頂新耀：交割完成，收取前期付款1.12億美元】雲頂新耀公告，公司此前於2026年6月2日披露與Travere Therapeutics簽訂獨家許可與合作協議，董事會宣佈交割已根據該協議條款進行。授權人將收取1.12億美元的前期付款，並有資格就最多五個適應症收取合共高達10.3億美元的開發、監管及商業里程碑付款，以及基於未來年度淨銷售額門檻的分級特許權使用費（百分比介乎高個位數至雙位數之間）。"
-    },
-    {
-      "id": "4974038",
-      "time": "2026-07-07 17:30:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，烏克蘭計劃在安卡拉舉行的北約峰會上達成新的無人機協議。"
-    },
-    {
-      "id": "mkt:019f3be9-9b07-7aab-8cca-1ea56d53c0ae",
-      "time": "2026-07-07 17:29:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China Huadian's largest overseas wind project reaches full commercial operation】China Huadian said July 6 the Vietnam Dak Lak 4×50MW wind farm, built, invested and operated by Huadian Science & Technology Investment, reached full-capacity commercial operation at 16:00 local time. The 200MW project is the company’s largest overseas wind investment to date."
-    },
-    {
-      "id": "4974037",
-      "time": "2026-07-07 17:29:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美埃科技：收購控股子公司少數股權完成，持股比例升至86.75%】美埃科技公告，公司此前披露擬以現金人民幣1.16億元收購控股子公司MayAir HK Holdings Limited少數股東Ng Yew Sum先生等合計持有的535股股份（約佔18.36%）。截至2026年7月7日，本次交易已完成相應的股份登記手續，收購控股子公司少數股東部分股權的交易已全部完成，公司持有美埃香港控股的股權比例由68.39%提升至86.75%。"
-    },
-    {
-      "id": "mkt:019f3be9-6676-7aab-8cca-1627859020de",
-      "time": "2026-07-07 17:29:39",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "USD/INR rose past 95.00, leaving the Indian rupee about 0.4% weaker intraday."
-    },
-    {
-      "id": "mkt:019f3be9-5060-7aab-8cca-0be024454705",
-      "time": "2026-07-07 17:29:33",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "Wells Fargo initiates coverage of SpaceX (SPCX.O) with an Overweight rating and a $230 target price."
     }
   ]
 }
