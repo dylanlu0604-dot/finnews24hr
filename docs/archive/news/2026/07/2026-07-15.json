@@ -1,7 +1,88 @@
 {
   "date": "2026-07-15",
-  "count": 135,
+  "count": 145,
   "items": [
+    {
+      "id": "mkt:019f617b-e52b-7aab-8d85-7e4ba0740d47",
+      "time": "2026-07-15 00:35:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said that despite today's CPI beating market expectations, he does not support cherry-picking favorable data."
+    },
+    {
+      "id": "4988282",
+      "time": "2026-07-15 00:35:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：如果能有更優質的資料為決策提供依據，我會更有信心。"
+    },
+    {
+      "id": "4988281",
+      "time": "2026-07-15 00:35:09",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：並不是說美聯儲在危機時期不會擴大資產負債表。"
+    },
+    {
+      "id": "4988279",
+      "time": "2026-07-15 00:34:36",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "花旗預計，隨著通脹緩解，美聯儲加息壓力減輕，鉑族金屬價格將會回升。"
+    },
+    {
+      "id": "4988278",
+      "time": "2026-07-15 00:34:30",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗維持0-3個月鈀金價格目標不變，仍為每盎司1500美元。"
+    },
+    {
+      "id": "mkt:019f617a-c7e8-7aab-8d85-723d7e0b02cd",
+      "time": "2026-07-15 00:34:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Citigroup maintains 3-month PT for platinum at $1,950/oz."
+    },
+    {
+      "id": "4988277",
+      "time": "2026-07-15 00:34:01",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：儘管今日CPI資料好於預期，但我不贊成挑著資料解讀。"
+    },
+    {
+      "id": "4988276",
+      "time": "2026-07-15 00:33:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我承諾將確保美國所有勞動者，無論其背景如何，都享有平等機會。"
+    },
+    {
+      "id": "4988275",
+      "time": "2026-07-15 00:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克總理：美軍今年9月30日前須撤出伊拉克】當地時間14日，伊拉克總理扎伊迪在與美國總統特朗普會晤時表示，美軍今年9月30日前須撤出伊拉克。當天，扎伊迪抵達美國白宮，與特朗普舉行會晤。（央視新聞）"
+    },
     {
       "id": "mkt:019f6177-cfeb-7aab-8d85-6b57eac539cd",
       "time": "2026-07-15 00:31:09",
@@ -38,6 +119,15 @@
         "AI Revolution"
       ],
       "text": "Federal Reserve Governor Barr is scheduled to speak on artificial intelligence in 10 minutes at the Fed’s annual financial inclusion conference."
+    },
+    {
+      "id": "em:qqyh_mlc:202607153806237631",
+      "time": "2026-07-15 00:29:39",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，美聯儲絕對致力於實現充分就業的目標。"
     },
     {
       "id": "4988272",
