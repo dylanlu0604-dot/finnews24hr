@@ -1,7 +1,43 @@
 {
   "date": "2026-07-15",
-  "count": 572,
+  "count": 576,
   "items": [
+    {
+      "id": "mkt:019f62a2-546b-7aab-8d8a-df59a73364d1",
+      "time": "2026-07-15 05:57:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to Iran's Mehr News Agency, explosion sounds appear linked to exchanges of fire and clashes in waters of the Persian Gulf, the Gulf of Oman and the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f62a1-8748-7aab-8d8a-d4bf0fe6a461",
+      "time": "2026-07-15 05:56:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported explosions were heard in the eastern waters of Hormozgan province and near Sirik, Iran."
+    },
+    {
+      "id": "4988528",
+      "time": "2026-07-15 05:56:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本金融廳將針對地方銀行開展利率風險專項調查。"
+    },
+    {
+      "id": "4988527",
+      "time": "2026-07-15 05:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社稱，爆炸聲疑似與波斯灣、阿曼灣及霍爾木茲海峽水域交火衝突有關。"
+    },
     {
       "id": "4988526",
       "time": "2026-07-15 05:55:03",

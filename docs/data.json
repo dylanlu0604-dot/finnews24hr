@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-15 05:55:56",
-  "count": 18774,
+  "updated": "2026-07-15 05:59:48",
+  "count": 18772,
   "items": [
+    {
+      "id": "mkt:019f62a2-546b-7aab-8d8a-df59a73364d1",
+      "time": "2026-07-15 05:57:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to Iran's Mehr News Agency, explosion sounds appear linked to exchanges of fire and clashes in waters of the Persian Gulf, the Gulf of Oman and the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f62a1-8748-7aab-8d8a-d4bf0fe6a461",
+      "time": "2026-07-15 05:56:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported explosions were heard in the eastern waters of Hormozgan province and near Sirik, Iran."
+    },
+    {
+      "id": "4988528",
+      "time": "2026-07-15 05:56:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本金融廳將針對地方銀行開展利率風險專項調查。"
+    },
+    {
+      "id": "4988527",
+      "time": "2026-07-15 05:55:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社稱，爆炸聲疑似與波斯灣、阿曼灣及霍爾木茲海峽水域交火衝突有關。"
+    },
     {
       "id": "4988526",
       "time": "2026-07-15 05:55:03",
@@ -171834,65 +171870,6 @@
         "市場"
       ],
       "text": "WTI原油日內漲2%，現報72.33美元/桶。"
-    },
-    {
-      "id": "4975033",
-      "time": "2026-07-08 05:58:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方媒體稱，阿巴斯港東西兩側均聽到爆炸聲。"
-    },
-    {
-      "id": "mkt:019f3e97-65f6-7aab-8cd7-a42c16be8cd1",
-      "time": "2026-07-08 05:58:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Sky News, citing sources, said U.S. military strike operations remain ongoing. Compared with earlier U.S. strikes on Iran during the so-called ceasefire, the current operation appears longer in duration and larger in scale."
-    },
-    {
-      "id": "4975032",
-      "time": "2026-07-08 05:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭武裝部隊稱，烏克蘭首都基輔遭受導彈襲擊。"
-    },
-    {
-      "id": "4975031",
-      "time": "2026-07-08 05:58:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺7月8日06時繼續釋出暴雨橙色預警。"
-    },
-    {
-      "id": "4975030",
-      "time": "2026-07-08 05:57:52",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【標普道瓊斯指數公司將印尼列為市場分類可能被調整的國家】標普道瓊斯指數公司將印尼列為市場分類可能被調整的國家，並表示如果情況惡化，可能會考慮對印尼證券實施特殊處理。標普道瓊斯指數公司稱，繼續關注印尼持股透明度相關進展，以及印尼證券交易所旨在解決披露相關的關切和潛在流動性影響的配套指引。如果相關問題在一個日曆年度內仍未解決，將在下一次年度評審中評估印尼的市場分類土耳其和奈及利亞也被列為市場分類可能被調整的國家。"
-    },
-    {
-      "id": "mkt:019f3e95-f073-7aab-8cd7-9955e6cafeb5",
-      "time": "2026-07-08 05:57:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Ukrainian armed forces said Kyiv was hit by missile strikes."
     }
   ]
 }
