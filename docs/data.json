@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-14 12:57:29",
-  "count": 17479,
+  "updated": "2026-07-14 13:01:22",
+  "count": 17474,
   "items": [
+    {
+      "id": "mkt:019f5efe-cf26-7aab-8d6e-dc9467181495",
+      "time": "2026-07-14 12:59:45",
+      "tags": [
+        "MKT News",
+        "SKH.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix ADRs rose more than 5% in after-hours trading."
+    },
+    {
+      "id": "4986008",
+      "time": "2026-07-14 12:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯襲擊了烏克蘭皮夫登尼港的燃料儲存設施。"
+    },
+    {
+      "id": "4986007",
+      "time": "2026-07-14 12:58:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1265.42美元/盎司。"
+    },
+    {
+      "id": "4986006",
+      "time": "2026-07-14 12:58:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科曙光、鄭州國資等成立智算資訊科技公司】企查查APP顯示，近日，曙光智算資訊科技（河南）有限公司成立，法定代表人為曹志廣，註冊資本為1億元，經營範圍包含：資料處理和儲存支援服務；計算機系統服務；計算機及通訊裝置租賃；基礎電信業務等。企查查股權穿透顯示，該公司由中科曙光全資子公司曙光智算資訊科技有限公司、鄭州數智科技人才集團有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019f5efd-6ce6-7aab-8d6e-d5f326a54ae8",
+      "time": "2026-07-14 12:58:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ride-hailing regulatory data exchange recorded 979 mln orders in June】According to monitoring by the ride‑hailing regulatory information exchange system, as of June 30, 2026, 401 ride‑hailing platform companies nationwide held operating permits, one more than the previous month. The system recorded 979 million order records in June."
+    },
+    {
+      "id": "4986005",
+      "time": "2026-07-14 12:58:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數最新上漲0.3%，報6,830點，此前一度跌超5%。SK海力士現漲0.21%，此前一度跌超8%。"
+    },
+    {
+      "id": "4986004",
+      "time": "2026-07-14 12:57:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【業績前瞻：臺積電第二季度利潤或增長57%創紀錄】臺積電定於週四公佈第二季度業績。關注要點：淨利潤：這家全球最大晶片代工商的淨利潤可能較上年同期攀升57%，達到新臺幣6,240億元（合193.8億美元）。在人工智慧(AI)需求持續強勁的推動下，這將是該公司連續第五個季度實現創紀錄盈利。收入：這家臺灣晶片製造商的第二季度收入增長36%，達到新臺幣1.270萬億元，符合該公司給出的390億至402億美元的預期。該公司股價在第二季度上漲37%，今年迄今累計漲幅達到55%。臺積電與其他AI硬體製造商——即那些生產為AI資料中心提供算力的晶片和伺服器的公司——是今年上半年最大的受益者。這些公司不受地緣政治不確定性的影響，從超大規模雲服務提供商的大舉投資所推動的AI硬體需求飆升中獲利。"
+    },
     {
       "id": "4986003",
       "time": "2026-07-14 12:56:50",
@@ -159875,128 +159935,6 @@
         "XAUUSD"
       ],
       "text": "Iranian foreign minister Araghchi said if threats persist, negotiations on a final agreement will not start and called on parties to honor their commitments."
-    },
-    {
-      "id": "mkt:019f3af3-6848-7aab-8cc3-20ce70be324c",
-      "time": "2026-07-07 13:00:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's coincident index preliminary for May was 118.5, up from 118.1 previously."
-    },
-    {
-      "id": "mkt:019f3af3-4a52-7aab-8cc3-186b44b327ad",
-      "time": "2026-07-07 13:00:50",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Coincident Index Flash (May) | actual 118.5 | previous 118.1"
-    },
-    {
-      "id": "mkt:019f3af3-47dd-7aab-8cc3-166d2f26ef7e",
-      "time": "2026-07-07 13:00:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan May preliminary Leading Index 116.8, prior 116.1."
-    },
-    {
-      "id": "4973510",
-      "time": "2026-07-07 13:00:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日經225指數日內下跌2%】日經225指數日內下跌2%。科技和晶片相關股領跌，鎧俠股價跌超10%，Lasertec跌超7%。"
-    },
-    {
-      "id": "mkt:019f3af3-2fa1-7aab-8cc3-0e03998005c4",
-      "time": "2026-07-07 13:00:43",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Leading Index Flash (May) | actual 116.8 | previous 116.1"
-    },
-    {
-      "id": "mkt:019f3af2-ab3d-7aab-8cc3-01dc9c63a7ad",
-      "time": "2026-07-07 13:00:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan May coincident index preliminary MoM +0.4%; prior +1.3%."
-    },
-    {
-      "id": "mkt:019f3af2-a235-7aab-8cc2-fc7f61a646f2",
-      "time": "2026-07-07 13:00:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan May leading economic index preliminary MoM +0.7%; prior +0.7%."
-    },
-    {
-      "id": "mkt:019f3af2-8952-7aab-8cc2-f1144f5b3c87",
-      "time": "2026-07-07 13:00:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Coincident Index Flash (MoM) (May) | actual 0.4% | previous 1.3%"
-    },
-    {
-      "id": "4973509",
-      "time": "2026-07-07 13:00:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：國會復會時，我們必須透過3.0版和解法案，包含3500億美元國防撥款，外加《拯救美國法案》！呼籲眾議院和參議院領導層將此作為首要任務，確保在國會復會後，儘快將第三階段經濟刺激方案中的3500億美元從預算委員會撥出。"
-    },
-    {
-      "id": "mkt:019f3af2-882a-7aab-8cc2-eba37e9633e1",
-      "time": "2026-07-07 13:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Leading Index Flash (MoM) (May) | actual 0.7% | previous 0.7%"
-    },
-    {
-      "id": "mkt:019f3af2-1f80-7aab-8cc2-e00182143881",
-      "time": "2026-07-07 12:59:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump said the U.S. military has never been stronger or more formidable and that no other country can match it."
-    },
-    {
-      "id": "4973508",
-      "time": "2026-07-07 12:58:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙多地山火蔓延加泰羅尼亞地區逾4萬人受影響】受持續熱浪影響，5日至6日，西班牙發生多起山火併蔓延，其中加泰羅尼亞自治區逾4萬人受影響。 據西班牙媒體報道，加泰羅尼亞自治區6日下午同時發生多起較大山火，其中巴塞羅那省兩處山火一度失控，共導致超過4萬人就地避險；列伊達省塞格雷河畔阿爾特薩附近的火災已於當晚得到控制。加泰羅尼亞自治區民防部門已在多個地區啟動最高階別森林火險預警。"
     }
   ]
 }
