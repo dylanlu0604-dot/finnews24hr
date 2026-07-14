@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-15 02:20:28",
-  "count": 18820,
+  "updated": "2026-07-15 02:24:23",
+  "count": 18823,
   "items": [
+    {
+      "id": "mkt:019f61de-362a-7aab-8d87-69d1a99e369e",
+      "time": "2026-07-15 02:23:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oil futures rose after Ukrainian attacks on Russian energy facilities stoked supply concerns; U.S. diesel futures gained 5%."
+    },
+    {
+      "id": "4988402",
+      "time": "2026-07-15 02:20:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "石油期貨延續漲勢，受烏克蘭襲擊俄羅斯能源基礎設施引發供應中斷擔憂影響，美國柴油期貨上漲5%。"
+    },
+    {
+      "id": "te:markets:566899",
+      "time": "2026-07-15 02:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Rises by 2.15% — Top commodity gainers are Iron Ore CNY (2.15%), Silver (2.05%), Platinum (1.80%) and Gold (1.52%)."
+    },
     {
       "id": "te:markets:566898",
       "time": "2026-07-15 02:15:14",
@@ -187,6 +220,15 @@
         "國際"
       ],
       "text": "美國國務院官員：以色列-黎巴嫩問題羅馬會談富有成效，會談將於週三繼續舉行。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607153806262549",
+      "time": "2026-07-15 01:59:47",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲古爾斯比：沃什曾就點陣圖和資產負債表表達不同看法】美聯儲古爾斯比表示，沃什曾就點陣圖和資產負債表表達不同看法，重新審視這些問題是健康的。"
     },
     {
       "id": "mkt:019f61c8-bf7e-7aab-8d87-4601475d6d4b",
@@ -172225,15 +172267,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Coffee Plunges by 9.30% — Top commodity losers are Coffee (-9.30%) and Sugar (-0.79%). Gains are led by Cotton (3.76%) and Rice (2.32%)."
-    },
-    {
-      "id": "4974838",
-      "time": "2026-07-08 02:20:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數跌超0.5%，盛豐物流跌7.12%，中進醫療跌7.07%，中比能源跌6.90%，嘉楠科技跌6.55%，禾賽科技跌6.44%。"
     }
   ]
 }
