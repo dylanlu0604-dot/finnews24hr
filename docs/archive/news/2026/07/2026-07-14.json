@@ -1,7 +1,218 @@
 {
   "date": "2026-07-14",
-  "count": 4086,
+  "count": 4108,
   "items": [
+    {
+      "id": "4988099",
+      "time": "2026-07-14 23:07:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普宣佈全面封鎖伊朗航運】特朗普表示，霍爾木茲海峽將繼續對所有船舶開放，但與伊朗相關的船隻除外。此次全面封鎖將針對往返伊朗港口、或運載伊朗貨物的船舶。特朗普還提議，以海灣地區貿易與投資協議取代美國20%補償性收費。"
+    },
+    {
+      "id": "mkt:019f612b-7a55-7aab-8d82-8a19c03cb6c2",
+      "time": "2026-07-14 23:07:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Peru's Ministry of Energy and Mines reported May copper production rose 2.3% YoY to 226,096 tonnes."
+    },
+    {
+      "id": "4988098",
+      "time": "2026-07-14 23:07:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指漲1.00%，現報26132.041點；道指漲0.10%，現報52550.520點；標普500指數漲0.49%，現報7551.800點。"
+    },
+    {
+      "id": "4988097",
+      "time": "2026-07-14 23:07:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所：羅布斯塔咖啡期貨大漲近6%，報每噸4033美元。"
+    },
+    {
+      "id": "4988096",
+      "time": "2026-07-14 23:06:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "秘魯能源與礦業部：5月秘魯銅產量同比增長2.3%，至226,096噸。"
+    },
+    {
+      "id": "4988095",
+      "time": "2026-07-14 23:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合國人權事務高階專員：美國與伊朗重啟敵對狀態對該地區平民而言是重大挫折，且會破壞和平努力。"
+    },
+    {
+      "id": "4988094",
+      "time": "2026-07-14 23:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：決定以貿易協議取代（霍爾木茲海峽通航）20%補償性收費。"
+    },
+    {
+      "id": "mkt:019f612a-7907-7aab-8d82-8311ac0051db",
+      "time": "2026-07-14 23:06:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump said Gulf states will invest in the US."
+    },
+    {
+      "id": "mkt:019f612a-315b-7aab-8d82-7cf248602ebe",
+      "time": "2026-07-14 23:06:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "President Trump said the U.S. will impose a full blockade limited to vessels traveling to and from Iranian ports."
+    },
+    {
+      "id": "mkt:019f612a-2d08-7aab-8d82-760d5a3601e5",
+      "time": "2026-07-14 23:06:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said he has decided to replace a planned 20% transit fee with trade and investment agreements with Gulf states."
+    },
+    {
+      "id": "4988093",
+      "time": "2026-07-14 23:06:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：新技術革命正對美聯儲和經濟產生影響，帶來了巨大機遇。"
+    },
+    {
+      "id": "4988092",
+      "time": "2026-07-14 23:05:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：海灣國家將對美國進行投資。"
+    },
+    {
+      "id": "mkt:019f6129-965c-7aab-8d82-6ffd0654d601",
+      "time": "2026-07-14 23:05:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【Analyst: June CPI supports view markets are overpricing Fed rate-hike odds】Tony Welch of SignatureFD says weak June CPI strengthens the case that markets have overestimated the odds of a near-term Fed rate hike. Futures now show a low probability of a move this month, though CME Group pricing still leaves at least one hike this year possible. Welch says inflation is trending down even allowing for fuel swings and that wage growth is not broad enough to sustain economy-wide inflation. He expects Fed Chair Warsh to use his rhetoric to help anchor inflation expectations near the Fed’s 2% target."
+    },
+    {
+      "id": "mkt:019f6129-81cc-7aab-8d82-606b908cb5a7",
+      "time": "2026-07-14 23:05:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said the Strait of Hormuz is open to all vessels except Iran, saying Iran's habitually deceptive leadership is driving the country toward total ruin."
+    },
+    {
+      "id": "4988091",
+      "time": "2026-07-14 23:05:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將（對霍爾木茲海峽）實施全面封鎖，但僅針對往返伊朗港口的船隻。"
+    },
+    {
+      "id": "mkt:019f6129-1b81-7aab-8d82-5b6cca64ccd5",
+      "time": "2026-07-14 23:05:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "President Trump said oil flows are unprecedented and credited the strength of the U.S. military."
+    },
+    {
+      "id": "4988090",
+      "time": "2026-07-14 23:05:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：霍爾木茲海峽對所有船舶開放，伊朗船隻除外。"
+    },
+    {
+      "id": "4988089",
+      "time": "2026-07-14 23:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：石油產量空前高漲。"
+    },
+    {
+      "id": "te:markets:566871",
+      "time": "2026-07-14 23:04:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Rises for 2nd Session — Crude oil rose toward $79 per barrel on Tuesday, the highest in about one month, following a 9.4% surge in the previous session, as the collapse of the US-Iran truce reignited concerns over supply disruptions. The United Arab Emirates said two of its tankers were struck while transiting the waterway, highlighting growing risks to one of the world's busiest energy routes. The attacks came after the US resumed its blockade on Iranian oil exports, launched new strikes against Iran, and proposed charging vessels protected by the US Navy. Supply concerns also intensified as Saudi Arabia intercepted missiles launched by Yemen's Houthis, while Washington backed tougher sanctions on Russian energy exports. The renewed escalation has raised fears of prolonged disruptions to global oil supplies and higher geopolitical risk premiums."
+    },
+    {
+      "id": "4988088",
+      "time": "2026-07-14 23:04:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "Anthropic推出面向教師的Claude工具，美國經認證的K-12階段教育工作者可免費使用Claude高階版全部功能。"
+    },
+    {
+      "id": "4988087",
+      "time": "2026-07-14 23:04:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic宣佈，教育從業者完成身份核驗後，即可免費使用教師版Claude。"
+    },
+    {
+      "id": "4988086",
+      "time": "2026-07-14 23:04:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic上線專為教師打造的AI工具Claude。"
+    },
     {
       "id": "mkt:019f6127-5bc5-7aab-8d82-505e932fe270",
       "time": "2026-07-14 23:03:17",
