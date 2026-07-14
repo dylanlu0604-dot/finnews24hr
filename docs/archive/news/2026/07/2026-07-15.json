@@ -1,7 +1,70 @@
 {
   "date": "2026-07-15",
-  "count": 620,
+  "count": 626,
   "items": [
+    {
+      "id": "4988565",
+      "time": "2026-07-15 06:31:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "鳳凰城大學宣佈與 OpenAI 展開合作，推進人工智慧驅動教學、職場創新及相關研究。"
+    },
+    {
+      "id": "4988564",
+      "time": "2026-07-15 06:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特消防部門表示，一處遭伊朗方面襲擊的場地發生火情，目前火勢已得到控制，暫無人員受傷報告。"
+    },
+    {
+      "id": "te:markets:566912",
+      "time": "2026-07-15 06:30:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rallies by 5.72% — Top commodity gainers are Natural Gas EU (5.72%), Natural Gas UK (4.91%), Heating Oil (4.73%), Brent Crude Oil (2.53%) and Crude Oil WTI (2.27%). Biggest losers are Ethanol (-2.04%) and Uranium (-0.53%)."
+    },
+    {
+      "id": "4988563",
+      "time": "2026-07-15 06:30:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：霍爾木茲甘省官方證實，伊朗南部哈吉阿巴德附近區域遭炮彈襲擊。"
+    },
+    {
+      "id": "4988562",
+      "time": "2026-07-15 06:29:45",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】\n① 07:50 日本5月核心機械訂單；\n② 時間待定 中國（西部）國際人工智慧與具身智慧機器人產業鏈大會；\n③ 09:30 國家統計局公佈70個大中城市住宅銷售價格月度報告；\n④ 10:00 中國二季度GDP，1至6月社會消費品零售總額、規模以上工業增加值、城鎮固定資產投資、全國房地產開發投資，6月城鎮調查失業率，國新辦就國民經濟執行情況舉行新聞釋出會；\n⑤ 歐股開盤之前 阿斯麥控股釋出業績報告；\n⑥ 14:00 Salesforce和阿里雲在上海舉辦年度峰會；\n⑦ 16:00 歐洲央行管委Panetta講話；\n⑧ 美股盤前 摩根士丹利、強生公司釋出業績報告；\n⑨ 18:30 英國央行首席經濟學家Pill講話；\n⑩ 20:30 美國6月PPI，7月紐約聯儲製造業指數；\n20:45 美國紐約聯儲主席（享有FOMC永久投票權、號稱美聯儲三把手）威廉姆斯講話；\n21:45 加拿大央行公佈利率決議宣告；\n22:00 美聯儲主席沃什出席美國參議院銀行委員會聽證會；\n22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n22:45 加拿大央行行長麥克勒姆和高階副行長羅傑斯召開貨幣政策新聞釋出會；\n次日00:00 歐洲央行管委兼德國央行行長Nagel講話；\n次日01:00 美聯儲理事庫克談論美國經濟前景；\n次日02:00 美聯儲釋出褐皮書；\n次日06:30 美國聖路易斯聯儲主席穆薩萊姆（Alberto Musalem，2028年FOMC票委）為一場活動致歡迎辭。"
+    },
+    {
+      "id": "mkt:019f62bf-f647-7aab-8d8b-343b72ce619c",
+      "time": "2026-07-15 06:29:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump says US held talks with Iran; threatens to destroy Iranian power plants, bridges】President Trump said strikes on Iran will continue \"until I say 'enough'.\" He said the US held talks with Iran on Tuesday and urged Tehran to reach an agreement. He warned he would reserve strikes on Iranian energy facilities until last and would destroy Iran's power plants and bridges next week unless Tehran returns to the negotiating table."
+    },
     {
       "id": "4988561",
       "time": "2026-07-15 06:25:55",
