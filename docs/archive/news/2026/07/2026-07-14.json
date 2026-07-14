@@ -1,7 +1,64 @@
 {
   "date": "2026-07-14",
-  "count": 806,
+  "count": 812,
   "items": [
+    {
+      "id": "mkt:019f5e30-032a-7aab-8d67-bdab277c2384",
+      "time": "2026-07-14 09:13:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS: Iran's Islamic Revolutionary Guard Corps navy warned parties that cooperating with an aggressor who has come thousands of miles to violate regional rights, or insisting on transiting mined waters, would only bring regret and loss and would delay Strait of Hormuz transit while triggering a global energy crisis."
+    },
+    {
+      "id": "4985646",
+      "time": "2026-07-14 09:13:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊表示，若與霍爾木茲海峽的“敵對侵略者”開展合作，將會推遲該航道重新開放，並引發全球能源危機。"
+    },
+    {
+      "id": "4985645",
+      "time": "2026-07-14 09:13:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元微漲 片山稱現在是時候考慮將日債納入個人儲蓄賬戶可投資產品了】日本財務大臣片山皋月表示，現在是時候考慮將日本政府債券納入免稅投資計劃個人儲蓄賬戶(NISA)的相關產品了。她還表示，政府養老投資基金會評估投資環境，並在必要時調整其投資組合。片山在東京舉行的新聞釋出會上發表講話期間，日元兌美元走強，一度上漲0.1%至162.24。10年期日本國債期貨價格一度上漲27點。"
+    },
+    {
+      "id": "4985644",
+      "time": "2026-07-14 09:12:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊表示，這些油輪無視警告、關閉導航系統，並試圖從“佈設水雷的航道”透過。"
+    },
+    {
+      "id": "mkt:019f5e2e-50c8-7aab-8d67-b125b372ffa5",
+      "time": "2026-07-14 09:12:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS reports a large explosion at an air base near Mafraq in eastern Jordan; Arab sources say Jordanian military targets were hit by a missile strike."
+    },
+    {
+      "id": "4985643",
+      "time": "2026-07-14 09:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體報道：伊朗革命衛隊稱，兩艘“違規超大型油輪”在霍爾木茲海峽遭擊中癱瘓。"
+    },
     {
       "id": "4985642",
       "time": "2026-07-14 09:10:07",
