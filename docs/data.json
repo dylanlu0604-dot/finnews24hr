@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-15 05:59:48",
-  "count": 18772,
+  "updated": "2026-07-15 06:04:08",
+  "count": 18763,
   "items": [
+    {
+      "id": "4988531",
+      "time": "2026-07-15 06:00:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為84.5%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為84.5%，累計加息25個基點的機率為15.5%。 美聯儲到9月維持利率不變的機率為42.2%，累計加息25個基點的機率為50%，累計加息50個基點的機率為7.8%。"
+    },
+    {
+      "id": "4988530",
+      "time": "2026-07-15 06:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破80美元/桶，日內漲0.50%。"
+    },
+    {
+      "id": "4988529",
+      "time": "2026-07-15 05:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國公共衛生專家組赴“突發事件管理支援小組”支援埃博拉疫情防控】記者從國家疾病預防控制局獲悉，應非洲疾控中心和世界衛生組織的聯合邀請，今日（7月15日）凌晨，我國赴“突發事件管理支援小組”（IMST）公共衛生專家組從北京啟程，前往烏干達，協同開展埃博拉疫情的防控國際合作。據瞭解，本次共有兩名技術專家前往，由國家疾控局選派，在重大傳染病現場處置和國際公共衛生合作方面，均具備豐富實戰經驗。兩名技術專家到達後將加入IMST工作小組，與各國專家一同參與埃博拉疫情研判、防控方案制定和現場應急協調等工作。（央視新聞）"
+    },
     {
       "id": "mkt:019f62a2-546b-7aab-8d8a-df59a73364d1",
       "time": "2026-07-15 05:57:13",
@@ -171751,125 +171777,6 @@
         "其他"
       ],
       "text": "中國生物製藥：與阿斯利康就TQC3721簽訂獨家許可協議，阿斯利康獲得TQC3721在中國境外的獨家授權，該協議可獲得2億美元首付款、最高19億美元以及分級特許權使用費。"
-    },
-    {
-      "id": "mkt:019f3e9b-1210-7aab-8cd7-c85e751f495d",
-      "time": "2026-07-08 06:02:57",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says US strike seriously violates Iran-US Islamabad memorandum】State broadcaster IRIB reported early on the 8th that Iran’s government said the US strike on Iran seriously violates the Iran‑US Islamabad memorandum of understanding."
-    },
-    {
-      "id": "4975040",
-      "time": "2026-07-08 06:02:26",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國10年期國債期貨下跌7個基點，30年期國債期貨下跌12個基點。"
-    },
-    {
-      "id": "mkt:019f3e9a-581e-7aab-8cd7-c2cbf60a1791",
-      "time": "2026-07-08 06:02:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state media reported explosions heard east and west of Hormuz port."
-    },
-    {
-      "id": "mkt:019f3e99-8f6f-7aab-8cd7-bf30fc1a77ba",
-      "time": "2026-07-08 06:01:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped below $4,100/oz in early trade, down 0.28% on the day."
-    },
-    {
-      "id": "4975039",
-      "time": "2026-07-08 06:01:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克期貨下跌0.2%，標普500期貨下跌0.1%，布倫特油價漲幅超5%。"
-    },
-    {
-      "id": "mkt:019f3e99-594f-7aab-8cd7-b6e51a1cdb1c",
-      "time": "2026-07-08 06:01:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude opened 0.3% higher on Wednesday after the US military said it had begun a series of strikes against Iran."
-    },
-    {
-      "id": "mkt:019f3e98-fb92-7aab-8cd7-acdcffdfeeac",
-      "time": "2026-07-08 06:00:40",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "U.S. stock index futures for the three major benchmarks opened slightly lower on Wednesday."
-    },
-    {
-      "id": "4975038",
-      "time": "2026-07-08 06:00:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油日內漲3%，現報72.57美元/桶。"
-    },
-    {
-      "id": "4975037",
-      "time": "2026-07-08 06:00:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1264.93美元/盎司。"
-    },
-    {
-      "id": "4975036",
-      "time": "2026-07-08 06:00:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱，導彈擊中錫裡克港商用碼頭和漁業碼頭後，港口區域發生多起爆炸。"
-    },
-    {
-      "id": "4975035",
-      "time": "2026-07-08 06:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報60.25美元/盎司。"
-    },
-    {
-      "id": "4975034",
-      "time": "2026-07-08 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報72.33美元/桶。"
     }
   ]
 }
