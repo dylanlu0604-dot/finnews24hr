@@ -1,7 +1,75 @@
 {
   "date": "2026-07-14",
-  "count": 1285,
+  "count": 1293,
   "items": [
+    {
+      "id": "4985967",
+      "time": "2026-07-14 12:21:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部：週二該國第三次響起防空警報。"
+    },
+    {
+      "id": "4985966",
+      "time": "2026-07-14 12:21:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【韓元擴大漲幅 升至5月以來最強水平】韓元升至兩個月來的最強水平，受SK海力士ADR相關美元資金流入當地外匯市場的預期提振。美元/韓元上漲幅度一度達0.7%，至1486.20。"
+    },
+    {
+      "id": "mkt:019f5edb-64da-7aab-8d6e-333045c61dd4",
+      "time": "2026-07-14 12:21:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain issued its third alert of the day."
+    },
+    {
+      "id": "4985965",
+      "time": "2026-07-14 12:20:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【李樂成會見沙特通訊和資訊科技大臣阿卜杜拉·蘇瓦哈】7月14日，工業和資訊化部部長李樂成在京會見沙特通訊和資訊科技大臣阿卜杜拉·蘇瓦哈，雙方就深化中沙資訊通訊領域合作進行深入交流。李樂成表示，中沙在資訊通訊和數字領域合作基礎紮實，潛力巨大。工業和資訊化部願同沙方加強數字基礎設施、人工智慧等領域的政策經驗交流，充分發揮各自產業優勢，鼓勵和支援兩國企業開展務實合作，進一步豐富中沙全面戰略伙伴關係內涵。蘇瓦哈高度評價中國在資訊通訊和數字領域取得的成就，表示沙方願同中方探索人才培養、能力建設等方面合作，共同為兩國資訊通訊和數字領域互利共贏合作創造有利條件。沙方歡迎更多中國企業在沙投資，持續深化海纜、雲端計算等領域合作。"
+    },
+    {
+      "id": "4985964",
+      "time": "2026-07-14 12:20:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱與美就愛國者生產許可達成協議】當地時間7月13日，烏克蘭總統澤連斯基出席在法國巴黎的“意願聯盟”峰會並在社交媒體發文稱，他與美國總統特朗普已就“愛國者”防空系統的生產許可達成一項重要協議。目前，雙方團隊正致力於落實這一協議。#烏總統再呼籲歐洲提供愛國者攔截彈#澤連斯基同時也表示，希望“意願聯盟”成員繼續向烏方提供“愛國者”反導攔截彈。 上週北約峰會期間，特朗普在與澤連斯基會面時稱，將向烏克蘭發放“愛國者”的生產許可。不過目前雙方均未就生產許可的具體內容，包括許可是否涵蓋除攔截彈之外的發射裝置、雷達系統等作出說明。有專家表示，建造組裝廠以及組織承包商需要相當長的時間，因此短期內該計劃對俄烏局勢的影響有限。"
+    },
+    {
+      "id": "mkt:019f5eda-a610-7aab-8d6e-28b22d199fae",
+      "time": "2026-07-14 12:20:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Springer Nature: nearly 40% of citations to China's 2022 gold open-access articles came from abroad by July 2025】Springer Nature's July 13 white paper shows that, as of July 2025, nearly 40% of citations to gold open-access (OA) articles by Chinese researchers published in 2022 originated outside China. Springer Nature Greater China said the 2022 gold OA output drew strong attention from Global South researchers, underscoring open access's role in international knowledge sharing and facilitating global research collaboration."
+    },
+    {
+      "id": "4985963",
+      "time": "2026-07-14 12:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "IDC釋出《全球季度手機追蹤報告》初步資料顯示，2026年第二季度，中國智慧手機市場出貨量約為6601萬臺，同比下降4.3%，已連續五個季度出現同比下滑。"
+    },
+    {
+      "id": "mkt:019f5ed9-244e-7aab-8d6e-2124407c5864",
+      "time": "2026-07-14 12:18:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Li Lecheng meets Saudi communications minister Abdullah Al‑Swaha】July 14 — Ministry of Industry and Information Technology minister Li Lecheng met in Beijing with Saudi Communications and Information Technology Minister Abdullah Al‑Swaha to discuss deepening China‑Saudi cooperation in information and communications. Li said MIIT is willing to step up policy exchanges on digital infrastructure and artificial intelligence and to encourage and support practical partnerships between Chinese and Saudi firms. Al‑Swaha said Saudi Arabia is willing to explore cooperation on talent development and capacity building, welcomed more Chinese investment in Saudi Arabia, and seeks to deepen collaboration on subsea cables and cloud computing."
+    },
     {
       "id": "mkt:019f5ed8-0af4-7aab-8d6e-1c47e4d483a0",
       "time": "2026-07-14 12:17:24",
