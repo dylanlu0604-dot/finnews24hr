@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-15 01:50:46",
+  "updated": "2026-07-15 01:54:44",
   "count": 18803,
   "items": [
+    {
+      "id": "4988377",
+      "time": "2026-07-15 01:54:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗向科威特、巴林發射導彈和無人機。"
+    },
+    {
+      "id": "4988376",
+      "time": "2026-07-15 01:53:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lucid聘請重組諮詢機構AlixPartners對公司開展評估。"
+    },
     {
       "id": "4988375",
       "time": "2026-07-15 01:49:29",
@@ -172059,28 +172075,6 @@
         "MKT News"
       ],
       "text": "Al Jazeera cited Lebanese diplomatic sources saying Israel is seeking to use talks in Rome to relieve pressure from the United States."
-    },
-    {
-      "id": "mkt:019f3db5-b953-7aab-8cd4-6878f28b4eda",
-      "time": "2026-07-08 01:52:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Al Jazeera cited Lebanese diplomatic sources saying they refuse to hold a sixth round of talks in Rome."
-    },
-    {
-      "id": "mkt:019f3db5-0ede-7aab-8cd4-63829b76407d",
-      "time": "2026-07-08 01:51:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Qatar lodges protest over attack on LNG vessel in Strait of Hormuz】Qatar's foreign ministry summoned Iran's deputy ambassador and delivered a formal protest after a Qatari liquefied natural gas carrier was attacked in the Strait of Hormuz. Doha demanded Iran immediately cease actions that endanger regional security and threaten international shipping and global energy supplies, and said it reserves the right to take measures under international law to protect its interests. The démarche comes as security tensions in the Strait of Hormuz continue to escalate."
     }
   ]
 }
