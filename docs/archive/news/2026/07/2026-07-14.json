@@ -1,7 +1,244 @@
 {
   "date": "2026-07-14",
-  "count": 2434,
+  "count": 2460,
   "items": [
+    {
+      "id": "mkt:019f5fdd-9cdc-7aab-8d77-279818ba6b3e",
+      "time": "2026-07-14 17:03:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump responds to suggestion Russia poisoned hawkish senator Lindsey Graham】Newsmax anchor Greg Kelly on Monday asked Trump whether he suspected Russia had poisoned Lindsey Graham, citing Russia’s history of poisonings and Graham’s prior calls to remove Putin. Graham, 71, a leading Republican hawk known for strong support for U.S. military action, backing for Ukraine and Israel, and hardline stances on Russia and Iran, died Saturday after a \"brief, acute illness.\" Trump said: \"I'd love to say the answer is 'yes,' but I think he actually did have some health issues... and his father died at about the same age...\" He added that doctors told him a part of Graham's body \"actually ruptured.\""
+    },
+    {
+      "id": "4986871",
+      "time": "2026-07-14 17:02:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【克明食品：預計2026年上半年淨虧損3500萬元-6000萬元】克明食品公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損3500萬元-6000萬元，上年同期淨利潤1億元。扣除非經常性損益後的淨虧損3000萬元-5500萬元，上年同期淨利潤9303.87萬元。主要影響因素如下:1、報告期內，公司養殖板塊業務透過加強生豬育肥健康管理、最佳化飼料配方、做好育種管理、投入研發力量等舉措，持續實現了生產成本降低，但由於生豬銷售價格同比出現較大幅度下降，公司生豬養殖業務利潤同比下降。2、報告期內，公司食品板塊業務由於受到原材料成本波動的影響，導致公司產品毛利率有所下降，利潤有所降低。"
+    },
+    {
+      "id": "4986870",
+      "time": "2026-07-14 17:02:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江南新材：預計2026年上半年淨利潤同比增加51.53%到65.74%】江南新材公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1.6億元到1.75億元，與上年同期相比，將增加5441.09萬元到6941.09萬元，同比增加51.53%到65.74%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤1.45億元到1.59億元，與上年同期相比，將增加5164.89萬元到6664.89萬元，同比增加55.63%到71.78%。2026年上半年，受益於AI算力產業蓬勃發展，有效推動高階PCB、伺服器液冷散熱等領域需求持續上行，從而帶動公司主營產品市場需求隨之快速增加，同時公司產品結構不斷最佳化升級，公司2026年上半年淨利潤較上年同期實現較快增長。"
+    },
+    {
+      "id": "4986869",
+      "time": "2026-07-14 17:02:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國檢集團：預計2026年上半年淨虧損2059.44萬元】國檢集團公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為-2059.44萬元，與上年同期（法定披露資料）相比，將出現虧損，同比下降2640.65萬元。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤為-3897.64萬元，同比下降2200.26萬元。報告期內，公司營業收入保持穩定，利潤端受階段性因素影響有所波動。從外部環境看，傳統業務板塊受上下游行業景氣度不足、市場競爭加劇影響，業務量和價格承壓；從內部發展看，公司戰新產業轉型仍在投入期，尚未完全對沖傳統業務的週期性影響，此外，公司在精益化管理、數智化水平以及業務協同機制方面仍存在提升空間；財務方面，受下游客戶資金安排及專案付款進度影響，公司應收賬款回收週期有所拉長，公司嚴格執行會計準則，按照既定壞賬計提政策審慎計提信用減值準備，本期信用減值損失同比增加。"
+    },
+    {
+      "id": "mkt:019f5fdc-a226-7aab-8d77-1b3b20092888",
+      "time": "2026-07-14 17:02:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Turkey's energy minister said if the Kirkuk-Ceyhan pipeline is extended to Basra, Kuwait could also export its oil via that pipeline."
+    },
+    {
+      "id": "mkt:019f5fdc-25e9-7aab-8d77-13881686a517",
+      "time": "2026-07-14 17:01:30",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "A statement said New York Governor Kathy Hochul signed an executive order pausing new construction of hyperscale data centers."
+    },
+    {
+      "id": "4986866",
+      "time": "2026-07-14 17:01:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "宣告顯示：美國紐約州長霍楚爾簽署命令，暫停新建超大規模資料中心。"
+    },
+    {
+      "id": "4986865",
+      "time": "2026-07-14 17:01:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其能源部長：伊拉克根據協議請求保留75萬桶/日的輸油能力，以透過基爾庫克-傑伊漢管道繼續運輸石油12個月。"
+    },
+    {
+      "id": "mkt:019f5fdb-faf9-7aab-8d77-0e44cc1b7965",
+      "time": "2026-07-14 17:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "S&P500"
+      ],
+      "text": "The People's Bank of China (PBOC) said it will conduct a 1.4 tln yuan outright reverse repo on 15 July 2026 to keep banking-system liquidity ample, using a fixed-quantity, rate-based tender with multi-price allotment. The operation is for a six-month (184-day) term and matures on 15 Jan 2027; maturity will be deferred to the next business day if it falls on a holiday."
+    },
+    {
+      "id": "4986864",
+      "time": "2026-07-14 17:01:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行：為保持銀行體系流動性充裕，2026年7月15日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展14000億元買斷式逆回購操作，期限為6個月（184天），到期日為2027年1月15日（遇節假日順延）。"
+    },
+    {
+      "id": "4986863",
+      "time": "2026-07-14 17:01:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【6月份太陽能佔歐盟發電量的25%，創下新高】智庫Ember釋出的一項研究顯示，6月份歐盟四分之一的發電量來自太陽能，創下該可再生能源的月度新高。Ember表示，這使得太陽能成為當月最大的單一電力來源，超過了核能和天然氣。研究顯示，隨著歐盟成員國加快太陽能電池板的安裝步伐，太陽能的佔比已從五年前同期的僅10%大幅增長。Ember補充道，在歐洲太陽能及其他可再生能源發展的領先國家西班牙，上個月太陽能發電佔全國電力供應超過三分之一。"
+    },
+    {
+      "id": "4986862",
+      "time": "2026-07-14 17:00:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昌紅科技：董秘劉力增持0.0225%】昌紅科技公告，公司董事會秘書劉力先生於2026年7月14日以自有資金透過集中競價交易方式累計增持公司股份12萬股，增持均價約為18.73元/股，增持總金額約為224.74萬元（不含交易稅費），佔公司總股本的0.0225%。本次增持前，劉力先生持有公司股份50萬股。"
+    },
+    {
+      "id": "4986861",
+      "time": "2026-07-14 17:00:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【事關安全與應急宣傳教育 又一國家標準釋出】記者今天瞭解到，市場監管總局（國家標準委）批准釋出了《安全與應急宣傳教育體驗基地通用要求》國家標準。該標準是我國首部面向安全與應急宣教實踐載體的國家級通用技術規範，標誌著我國公共安全教育從經驗探索、地方試點邁向標準引領、體系支撐、質量可控的新階段。該標準系統規定了安全與應急宣傳教育體驗基地的基本要求、建設要求、管理要求及持續改進等通用技術規範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f5fdb-76bb-7aab-8d77-027695ec3524",
+      "time": "2026-07-14 17:00:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "The European Central Bank has selected 36 payment service providers to participate in its digital euro pilot."
+    },
+    {
+      "id": "mkt:019f5fdb-69bb-7aab-8d76-fc482858e58f",
+      "time": "2026-07-14 17:00:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Turkish energy minister said Iraq has requested under an agreement to retain oil export capacity of 750,000 barrels per day to continue shipping crude via the Kirkuk-Ceyhan pipeline for 12 months."
+    },
+    {
+      "id": "4986860",
+      "time": "2026-07-14 17:00:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海電影：2026年上半年淨利潤預計為1500萬元至1950萬元，同比減少72.10%到63.73%】 上海電影公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為1500萬元至1950萬元，與上年同期相比，將減少3875.84萬元至3425.84萬元，同比減少72.10%到63.73%。預計2026年半年度實現歸屬於上市公司股東的扣除非經常性損益後的淨利潤為-260萬元至-200萬元，將減少3700.63萬元至3640.63萬元，同比減少107.56%到105.81%。"
+    },
+    {
+      "id": "4986859",
+      "time": "2026-07-14 17:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勝天成：預計2026年上半年淨虧損2.2億元到3.3億元】 華勝天成公告，預計2026年半年度實現營業收入25億元人民幣左右，歸屬於母公司所有者的淨虧損2.2億元人民幣到3.3億元人民幣，與上年同期相比呈虧損態勢。扣除非經常性損益後歸屬於母公司所有者的淨虧損2.48億元人民幣到3.72億元人民幣。報告期內，公司實現營業務收入約25億元人民幣左右，較上年同期增長約10.5%，主營業務保持良好的增長勢頭，公司整體經營基本面持續夯實。"
+    },
+    {
+      "id": "4986857",
+      "time": "2026-07-14 17:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其、伊拉克部長會面磋商提升石油管道輸油量事宜。"
+    },
+    {
+      "id": "te:markets:566768",
+      "time": "2026-07-14 17:00:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Rises by 0.82% — Top currency gainers are New Zealand Dollar (0.82%), Norwegian Krone (0.54%), Canadian Dollar (0.44%), British Pound (0.20%), Euro (0.16%) and Japanese Yen (0.10%). Biggest losers are Indian Rupee (-0.49%) and Dollar Index (-0.13%)."
+    },
+    {
+      "id": "4986856",
+      "time": "2026-07-14 16:59:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【福達合金：預計2026年上半年淨利潤同比增長937.99%至1438.23%】福達合金公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤2.58億元至3.83億元，與上年同期相比，預計增加2.33億元到3.58億元，同比增長937.99%至1438.23%。預計公司2026年半年度實現歸屬於上市公司股東的扣除非經常性損益的淨利潤2.53億元至3.75億元，與上年同期相比，預計增加2.43億元到3.65億元，同比增長2389.75%到3589.63%。"
+    },
+    {
+      "id": "mkt:019f5fda-94e4-7aab-8d76-f0c261cef53b",
+      "time": "2026-07-14 16:59:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Solar supplied 25% of EU power in June, a record — Ember】Think tank Ember said solar accounted for 25% of EU power generation in June, a monthly record and the single largest generation source for the month, surpassing nuclear and natural gas. Ember said the share has risen from about 10% five years earlier as member states accelerated solar-panel installations. In Spain, a European leader in solar deployment, solar provided more than one-third of national electricity supply in June. Ember analyst Chris Rosslowe said solar has moved from a marginal role to an indispensable part of Europe’s power system as governments and consumers seek low-cost, easily deployed domestic generation."
+    },
+    {
+      "id": "4986854",
+      "time": "2026-07-14 16:59:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金鷹股份：預計2026年上半年淨利潤1800萬元到2100萬元】金鷹股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1800萬元到2100萬元，與上年同期相比，將實現扭虧為盈。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤1600萬元到1900萬元。公司主營業務收入佔比較高的紡織業務2026年上半年的產品售價及產品毛利率較上年同期有較大提升；公司塑膠機械及紡織機械業務的收入與盈利情況在2026年上半年仍保持穩定。"
+    },
+    {
+      "id": "4986853",
+      "time": "2026-07-14 16:59:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【祖名股份：預計2026年上半年淨利潤同比下降141.92%】祖名股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為-2500萬元至-2200萬元，同比下降174.91%至-141.92%。扣除非經常性損益後的淨利潤為-2450萬元至-2150萬元，同比下降139.10%至-109.83%。基本每股收益為-0.2元至-0.17元，上年同期為-0.07元。預計營業收入為10億元至10.5億元，上年同期為9.21億元。主要原因是大豆和能源價格上漲，導致公司生產成本、配送成本明顯增加。"
+    },
+    {
+      "id": "4986852",
+      "time": "2026-07-14 16:59:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【傑克科技：實控人擬3000萬元—6000萬元增持公司股份】傑克科技(603337)7月14日公告，公司實際控制人之一胡彩芳擬以集中競價方式增持公司股份，合計增持金額不低於3000萬元，不超過6000萬元。"
+    },
+    {
+      "id": "4986851",
+      "time": "2026-07-14 16:59:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國工商銀行蘇州分行專家楊磊接受審查調查】中央紀委國家監委網站7月14日通報，據中央紀委國家監委駐中國工商銀行紀檢監察組、江蘇省紀委監委訊息：中國工商銀行蘇州分行專家楊磊涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國工商銀行紀檢監察組紀律審查和江蘇省蘇州市監察委員會監察調查。"
+    },
+    {
+      "id": "4986850",
+      "time": "2026-07-14 16:58:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江省水利廳原副廳長楊炯接受審查調查】中央紀委國家監委網站7月14日通報，據浙江省紀委監委訊息：浙江省水利廳原黨組成員、副廳長楊炯涉嫌嚴重違紀違法，主動投案，目前正接受浙江省紀委監委紀律審查和監察調查。"
+    },
     {
       "id": "4986849",
       "time": "2026-07-14 16:58:51",
