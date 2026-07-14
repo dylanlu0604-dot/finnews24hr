@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-15 04:04:42",
-  "count": 18829,
+  "updated": "2026-07-15 04:08:36",
+  "count": 18832,
   "items": [
+    {
+      "id": "mkt:019f623d-f7bc-7aab-8d89-30c82b863506",
+      "time": "2026-07-15 04:07:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "Dow"
+      ],
+      "text": "On Tuesday, July 14, the Dow Jones Industrial Average closed up 10.02 points, or 0.02%, at 52,508.66. The S&P 500 rose 28.55 points, or 0.38%, to 7,543.89. The Nasdaq Composite added 233.83 points, or 0.90%, to 26,107.01."
+    },
+    {
+      "id": "mkt:019f623d-f0f9-7aab-8d89-2c9eb244f0d6",
+      "time": "2026-07-15 04:07:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Japan trims U.S. Treasury holdings in May】U.S. Treasury data show Japan held $1.143 tln of U.S. Treasuries in May, down from $1.210 tln in April; the UK held $949 bln in May, up from $938 bln; China held $659 bln in May, up from $651 bln."
+    },
+    {
+      "id": "mkt:019f623c-d256-7aab-8d89-258666916b64",
+      "time": "2026-07-15 04:06:20",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said the U.S. military resumed a maritime blockade of vessels bound to/from Iranian ports and coastal waters at 4:00 p.m. ET today. More than 20 U.S. Navy warships and several hundred military aircraft are deployed in the Middle East; U.S. forces are on high alert with lethal strike capability and ready to act."
+    },
+    {
+      "id": "4988483",
+      "time": "2026-07-15 04:06:05",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國軍方稱已恢復對伊朗的封鎖】美國中央司令部：美國東部時間今日下午 4 時，美軍恢復對往返伊朗港口及沿岸地區船隻實施海上封鎖。目前美軍在中東部署逾 20 艘海軍戰艦、數百架軍用飛機。美軍保持高度戒備，具備強大作戰能力，隨時待命。"
+    },
+    {
+      "id": "mkt:019f623b-8d4e-7aab-8d89-1c0fedd8e0ce",
+      "time": "2026-07-15 04:04:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "White House says it will establish an AI and cybersecurity coordination working group."
+    },
+    {
+      "id": "4988482",
+      "time": "2026-07-15 04:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：美國將成立人工智慧與網路安全協調小組。"
+    },
     {
       "id": "mkt:019f6239-d21a-7aab-8d89-176c502370bd",
       "time": "2026-07-15 04:03:04",
@@ -172305,38 +172372,6 @@
         "MKT News"
       ],
       "text": "Syrian presidential adviser said today's incident in Damascus was not unexpected. The explosion did not affect the security perimeter around Macron's motorcade."
-    },
-    {
-      "id": "te:markets:564976",
-      "time": "2026-07-08 04:06:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Fall on Chipmakers Selloff — US stock indices closed lower on Tuesday amid a selloff in chipmakers. The S&P 500 fell 0.4%, the Nasdaq 100 dropped 1.8%, and the Dow Jones lost 131 points, pulling back from a record high. Semiconductor stocks came under pressure as investors questioned whether AI hyperscalers can justify elevated infrastructure spending. Samsung's 19-fold surge in quarterly profit failed to support market sentiment, which came under renewed pressure following reports that China's DeepSeek is developing its own AI chip. Broadcom fell 0.8%, Micron lost 4.7%, AMD retreated 6.5%, and Intel slumped 9.7%. Nvidia on the other hand, added 0.7%. Higher bond yields weighed on broader markets after attacks on tankers in the Strait of Hormuz renewed concerns over energy-driven inflation. Visa fell 1.4%, while Caterpillar lost 3.1%."
-    },
-    {
-      "id": "4974923",
-      "time": "2026-07-08 04:06:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本清水建設株式會社同時也在開發機械臂型機器人，用於完成噴漆與抹灰等專業性複雜作業。"
-    },
-    {
-      "id": "mkt:019f3e2f-e9cd-7aab-8cd6-05b6fd55235a",
-      "time": "2026-07-08 04:05:55",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equity benchmarks closed lower on Tuesday, July 7: the Dow Jones Industrial Average fell 131.35 points, or 0.25%, to 52,924.56; the S&P 500 dropped 33.66 points, or 0.45%, to 7,503.77; the Nasdaq Composite slid 302.47 points, or 1.16%, to 25,818.69."
     }
   ]
 }
