@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-14 08:15:28",
-  "count": 17308,
+  "updated": "2026-07-14 08:19:17",
+  "count": 17310,
   "items": [
+    {
+      "id": "mkt:019f5dfc-f1f9-7aab-8d66-b29e3c547bf9",
+      "time": "2026-07-14 08:18:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【Guojin Securities: real‑time data show sustained activity in China secondary housing market】Guojin Securities research note: after developers ended quarter‑end volume pushes, primary‑market new‑home sold area fell markedly MoM while YoY decline remained limited. Secondary‑market transactions continue to improve — 22‑city second‑hand transaction volume rose 10.0% YoY. Leading real‑time data show July second‑hand sales widened their YoY gain versus June. Listings have edged down since early July, with the decline versus end‑June increasing, suggesting listing‑growth pressure is weaker than a year ago."
+    },
+    {
+      "id": "4985546",
+      "time": "2026-07-14 08:17:46",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：繼續看好AI鏈 關注火箭成功回收帶來的投資機會】中信建投證券研報稱，Meta扎克伯格出來解釋佈局AI雲業務是順應外部客戶對模型和算力的旺盛需求，同時提升基礎設施投入的利用率和變現效率，並不意味著Meta削減AI投入或算力需求見頂。Meta仍計劃將計算能力由2026年約7GW提升至2027年14GW。DeepSeek與智譜傳出佈局自研AI晶片的訊息。兩家公司向晶片環節延伸，將推動國產算力產業鏈持續迭代。持續看好國內大模型廠商及算力產業鏈（含國內與北美）。我國長征十號乙運載火箭於海南商業航天發射場首飛，一子級透過全球首創海上網系捕獲方案，實現我國首次大運力入軌火箭一子級完整可控回收，標誌著中國成為繼美國後，第二個掌握大運力可回收液體火箭完整工程體系的國家。這對國內商業航天、衛星網際網路、太空算力等發展意義重大，建議關注。"
+    },
+    {
+      "id": "4985545",
+      "time": "2026-07-14 08:17:17",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普恢復對伊朗的封鎖，布倫特原油價格上漲至每桶85美元。"
+    },
+    {
+      "id": "4985544",
+      "time": "2026-07-14 08:17:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數下跌1.4%，追隨華爾街跌勢】日本股市早盤走低，追隨華爾街隔夜跌勢。日經指數下跌1.4%，至66287.24點。澳大利亞國民銀行外匯戰略主管Ray Attrill在評論中表示，出現了諸如“伊朗和美國在週日和週一的雙向軍事行動加劇“等事態發展，這使得“風險資產本週開局非常糟糕“。在日本基準指數表現最差的成分股中，安川電機下跌8.8%，Fujikura下跌6.4%，國際電氣下跌6.4%。"
+    },
+    {
+      "id": "4985543",
+      "time": "2026-07-14 08:16:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報85.02美元/桶。"
+    },
+    {
+      "id": "4985542",
+      "time": "2026-07-14 08:16:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破85美元/桶，日內漲2.06%。"
+    },
+    {
+      "id": "mkt:019f5dfb-6b94-7aab-8d66-ae1503d273a2",
+      "time": "2026-07-14 08:16:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude rose as much as 2.00% intraday to $84.47/bbl."
+    },
+    {
+      "id": "4985541",
+      "time": "2026-07-14 08:16:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報79.71美元/桶。"
+    },
+    {
+      "id": "mkt:019f5dfa-b87a-7aab-8d66-a4b281ec272c",
+      "time": "2026-07-14 08:15:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai Securities: KOSPI medium-to-long-term trend still hinges on industry fundamentals】Huatai Securities says KOSPI's >20% pullback from the June 19 peak through July 10 was not driven by fundamentals; FactSet consensus EPS for 2026E and 2027E were revised up 3.15% and 6.05% over that period. The current pressure stems from high index concentration and leverage, which raise volatility; marginal tightening in USD liquidity and a tougher Korean regulatory stance on leveraged trading can structurally amplify even small moves. Near-term risks include product redemption pressure and the implementation of regulatory measures. Over the medium-to-long term, KOSPI's direction still depends on industry fundamentals."
+    },
+    {
+      "id": "4985540",
+      "time": "2026-07-14 08:15:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，7月14日至7月16日每日9時至18時，北部灣部分海域進行軍事訓練，禁止船舶駛入。"
+    },
     {
       "id": "4985539",
       "time": "2026-07-14 08:14:12",
@@ -158217,83 +158313,6 @@
         "焦點"
       ],
       "text": "上金所：同意吸收香港貴金屬中央結算系統有限公司成為上海黃金交易所國際會員。"
-    },
-    {
-      "id": "4973140",
-      "time": "2026-07-07 08:19:11",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金公司：2026H1國內機器人估值整體縮水 看好下半年風格再平衡機會】中金公司研報表示，7月份全球人形機器人板塊催化密集：1）優必選釋出仿生機器人，填補家庭陪伴空白；2）海外Agility Robotics（美）、NEURA Robotics（德）資本程序加快；3）2026H2起Optimus進入小批次產階段；4）證監會同意宇樹科技科創板IPO註冊申請。我們認為2026H1國內機器人估值整體縮水，看好下半年風格再平衡機會。"
-    },
-    {
-      "id": "te:markets:564595",
-      "time": "2026-07-07 08:17:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Toyota Motor Stock Price Hits 5-week High — Toyota Motor shares increased to 2950.00 JPY, the highest since June 2026. Over the past 4 weeks, Toyota Motor gained 3.97%, and in the last 12 months, it increased 19.6%."
-    },
-    {
-      "id": "mkt:019f39f0-0540-7aab-8cbd-c196937e0867",
-      "time": "2026-07-07 08:17:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index plunged 4.00% intraday to 7,717.82 points."
-    },
-    {
-      "id": "4973139",
-      "time": "2026-07-07 08:17:33",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【三星股價在財報釋出後下跌 拖累了記憶體晶片行業的競爭對手】三星電子公佈初步業績後，其股價在韓國交易所下跌高達5%。儘管業績好於預期，但負面反應拖累了近幾個月人工智慧驅動股價大幅上漲的同行。三星供應商股價漲跌互現，供應商在韓國市場普遍上漲，而日本市場則普遍下跌。該公司公佈的最新季度初步營業收入為89.4萬億韓元，高於分析師預期的84.2萬億韓元。三星競爭對手儲存器製造商SK海力士股價一度下跌2.4%，之後跌幅收窄。資料顯示，在三星供應商中，三星SDS股價上漲高達6.3%；Eugene Technology上漲6.4%，Wonik IPS上漲3.5%，Global Standard Technology上漲2.6%；這三家公司超過50%的銷售額都來自三星電子。日本儲存器製造商鎧俠(Kioxia)股價下跌高達4.9%。三星供應商中，Lasertec 跌4.1%，Kokusai Electric 跌3.3%，Micronics Japan 下跌3%，Advantest 跌1.5%。"
-    },
-    {
-      "id": "4973138",
-      "time": "2026-07-07 08:17:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌4.1%，至7717.82點。"
-    },
-    {
-      "id": "mkt:019f39ee-e0db-7aab-8cbd-bc46205bdddc",
-      "time": "2026-07-07 08:16:24",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "CSI300",
-        "CNH"
-      ],
-      "text": "【June China Warehousing Index Back in Expansionary Territory】The China Federation of Logistics and Purchasing said the June China Warehousing Index rose to 50.2, up 0.6 ppt MoM, returning to expansionary territory as a wave of major national infrastructure project starts and a synchronized rebound in manufacturing supply-demand boosted warehousing demand."
-    },
-    {
-      "id": "4973137",
-      "time": "2026-07-07 08:15:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星電子股價延續跌勢，跌幅達6%。"
-    },
-    {
-      "id": "4973136",
-      "time": "2026-07-07 08:15:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【6月中國倉儲指數重回擴張區間 行業執行恢復向好】中國物流與採購聯合會今天公佈6月份中國倉儲指數。隨著全國重大基建專案集中開工、製造業供需同步回暖，倉儲業務需求明顯改善，指數重回擴張區間。6月份中國倉儲指數為50.2%，較上月上升0.6個百分點。從分項指數看，新訂單指數明顯回升，基建相關大宗商品倉儲需求表現較好。6月份新訂單指數為54%，較上月上升2.3個百分點，達到較高水平，倉儲業務需求加快增長。分品種來看，鋼材、建材、機械裝置等與重大工程專案開工相關的大宗商品品種新訂單指數有所回升，倉儲業務活動較為活躍。消費品方面，受端午假期消費需求釋放和電商促銷活動推動，食品、家電等品種的新訂單指數保持在擴張區間。"
     }
   ]
 }
