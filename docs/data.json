@@ -1,7 +1,488 @@
 {
-  "updated": "2026-07-14 20:28:09",
-  "count": 18360,
+  "updated": "2026-07-14 20:32:10",
+  "count": 18387,
   "items": [
+    {
+      "id": "mkt:019f609c-7b1e-7aab-8d7c-7f3cb8753313",
+      "time": "2026-07-14 20:31:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US June core inflation unexpectedly eases】US not seasonally adjusted core CPI YoY 2.6% vs 2.8% consensus; not seasonally adjusted core CPI MoM 0.0%, smallest monthly increase since Jan 2021."
+    },
+    {
+      "id": "mkt:019f609c-7780-7aab-8d7c-70ccb6dd2b9e",
+      "time": "2026-07-14 20:31:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US June unadjusted used cars and trucks inflation YoY -1.8% (prior -2.0%)."
+    },
+    {
+      "id": "mkt:019f609c-75ec-7aab-8d7c-6f50d0410e85",
+      "time": "2026-07-14 20:31:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Shelter Inflation Rate (YoY) (Jun) | actual 3.3% | previous 3.4%"
+    },
+    {
+      "id": "mkt:019f609c-5904-7aab-8d7c-62cef4d88177",
+      "time": "2026-07-14 20:31:26",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Used Car and Truck Inflation Rate (YoY) (Jun) | actual -1.8% | previous -2%"
+    },
+    {
+      "id": "mkt:019f609c-566c-7aab-8d7c-5c0233fc8b85",
+      "time": "2026-07-14 20:31:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US June unadjusted new-vehicle inflation YoY 0.5%, prior 0.2%."
+    },
+    {
+      "id": "4987735",
+      "time": "2026-07-14 20:31:22",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美國通脹資料公佈後，短期利率期貨大幅上漲，交易員大幅削減對美聯儲加息的押注。"
+    },
+    {
+      "id": "mkt:019f609c-3932-7aab-8d7c-50d0739ea557",
+      "time": "2026-07-14 20:31:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | New Vehicle Inflation Rate (YoY) (Jun) | actual 0.5% | previous 0.2%"
+    },
+    {
+      "id": "4987734",
+      "time": "2026-07-14 20:31:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲2.31%。"
+    },
+    {
+      "id": "mkt:019f609c-1f53-7aab-8d7c-48d4e377aa6f",
+      "time": "2026-07-14 20:31:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US June unadjusted energy inflation YoY 15.7%, down from 23.5% in prior month."
+    },
+    {
+      "id": "4987733",
+      "time": "2026-07-14 20:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1280.64美元/盎司。"
+    },
+    {
+      "id": "4987732",
+      "time": "2026-07-14 20:31:08",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國6月整體通脹如期回落】美國6月未季調CPI年率錄得3.5%（前值4.2%），市場預期為3.8%；美國6月季調後CPI月率錄得-0.4%，為2020年4月以來最大降幅。"
+    },
+    {
+      "id": "mkt:019f609c-1090-7aab-8d7c-453f4834aa2b",
+      "time": "2026-07-14 20:31:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US June not seasonally adjusted food inf YoY 3.0% vs 3.1% prior."
+    },
+    {
+      "id": "mkt:019f609c-0778-7aab-8d7c-3ace90c7ee22",
+      "time": "2026-07-14 20:31:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Energy Inflation Rate (YoY) (Jun) | actual 15.7% | previous 23.5%"
+    },
+    {
+      "id": "4987731",
+      "time": "2026-07-14 20:31:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲2.41%。"
+    },
+    {
+      "id": "4987730",
+      "time": "2026-07-14 20:30:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲對持續高通脹“零容忍”。"
+    },
+    {
+      "id": "mkt:019f609b-e655-7aab-8d7c-31df2b16e93d",
+      "time": "2026-07-14 20:30:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | Food Inflation Rate (YoY) (Jun) | actual 3% | previous 3.1%"
+    },
+    {
+      "id": "mkt:019f609b-c9ce-7aab-8d7c-2b7135a08850",
+      "time": "2026-07-14 20:30:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【US June headline inflation cools as expected】US June unadjusted CPI YoY 3.5% (prev 4.2%), market expected 3.8%. June seasonally adjusted CPI MoM -0.4%, the largest monthly drop since April 2020."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607143805942648",
+      "time": "2026-07-14 20:30:39",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月消費者價格指數同比增長3.5% 低於預期】美國6月消費者價格指數（CPI）同比增長3.5%，預估為增長3.8%，前值為增長4.2%。美國6月CPI環比下降0.4%，預估為下降0.1%，前值為增長0.5%。"
+    },
+    {
+      "id": "4987729",
+      "time": "2026-07-14 20:30:37",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月未季調CPI年率 3.5%，預期3.8%，前值4.20%。美國6月未季調核心CPI年率 2.6%，預期2.8%，前值2.90%。美國6月季調後核心CPI月率 0%，預期0.2%，前值0.20%。美國6月季調後CPI月率 -0.4%，預期-0.10%，前值0.50%。"
+    },
+    {
+      "id": "mkt:019f609b-90c0-7aab-8d7c-20454475c0aa",
+      "time": "2026-07-14 20:30:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US June CPI index (not seasonally adjusted) 333.952; consensus 334.697; prior 335.123."
+    },
+    {
+      "id": "te:markets:566813",
+      "time": "2026-07-14 20:30:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gold is up by 2.08% — Gold increased 2.08% to 4085.02 USD/t.oz"
+    },
+    {
+      "id": "mkt:019f609b-7178-7aab-8d7c-1ef342c9df1f",
+      "time": "2026-07-14 20:30:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI (Jun) | actual 333.952 | consensus 334.697 | previous 335.123"
+    },
+    {
+      "id": "mkt:019f609b-63dc-7aab-8d7c-12770287da51",
+      "time": "2026-07-14 20:30:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US June seasonally adjusted CPI m/m -0.4% (exp -0.1%; prior 0.5%)"
+    },
+    {
+      "id": "mkt:019f609b-6314-7aab-8d7c-08efe939c3d2",
+      "time": "2026-07-14 20:30:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US June core CPI (seasonally adjusted) 0.0% m/m vs 0.2% expected; prior 0.2%."
+    },
+    {
+      "id": "4987728",
+      "time": "2026-07-14 20:30:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4081.87美元/盎司。"
+    },
+    {
+      "id": "4987727",
+      "time": "2026-07-14 20:30:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4080美元/盎司，日內漲2.03%。"
+    },
+    {
+      "id": "4987726",
+      "time": "2026-07-14 20:30:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報59.09美元/盎司。"
+    },
+    {
+      "id": "4987725",
+      "time": "2026-07-14 20:30:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破59美元/盎司，日內漲2.55%。"
+    },
+    {
+      "id": "mkt:019f609b-4ad4-7aab-8d7c-037b73c51150",
+      "time": "2026-07-14 20:30:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US unadjusted CPI YoY for June 3.5% vs 3.8% expected; prior 4.2%."
+    },
+    {
+      "id": "mkt:019f609b-48e1-7aab-8d7b-ffd6551bf007",
+      "time": "2026-07-14 20:30:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US core CPI YoY (NSA) June 2.6% vs 2.8% forecast; May 2.9%."
+    },
+    {
+      "id": "mkt:019f609b-448c-7aab-8d7b-f220f0434a7a",
+      "time": "2026-07-14 20:30:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI (MoM) (Jun) | actual -0.4% | consensus -0.10% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019f609b-3b39-7aab-8d7b-ed3ffd379d2b",
+      "time": "2026-07-14 20:30:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI excluding Food and Energy (MoM) (Jun) | actual 0% | consensus 0.2% | previous 0.20%"
+    },
+    {
+      "id": "4987724",
+      "time": "2026-07-14 20:30:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4090美元/盎司，日內漲2.13%。"
+    },
+    {
+      "id": "4987723",
+      "time": "2026-07-14 20:30:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4090.91美元/盎司。"
+    },
+    {
+      "id": "mkt:019f609b-2679-7aab-8d7b-e7da41e15d52",
+      "time": "2026-07-14 20:30:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI excluding Food and Energy (YoY) (Jun) | actual 2.6% | consensus 2.8% | previous 2.90%"
+    },
+    {
+      "id": "mkt:019f609b-2296-7aab-8d7b-db44937c946e",
+      "time": "2026-07-14 20:30:07",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | CPI (YoY) (Jun) | actual 3.5% | consensus 3.8% | previous 4.20%"
+    },
+    {
+      "id": "4987722",
+      "time": "2026-07-14 20:30:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4080美元/盎司，日內漲1.91%。"
+    },
+    {
+      "id": "4987721",
+      "time": "2026-07-14 20:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲2%，現報59.17美元/盎司。"
+    },
+    {
+      "id": "4987720",
+      "time": "2026-07-14 20:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4070美元/盎司，日內漲1.73%。"
+    },
+    {
+      "id": "4987719",
+      "time": "2026-07-14 20:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破59美元/盎司，日內漲1.83%。"
+    },
+    {
+      "id": "4987718",
+      "time": "2026-07-14 20:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲1%，現報4061.21美元/盎司。"
+    },
+    {
+      "id": "4987717",
+      "time": "2026-07-14 20:30:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4060美元/盎司，日內漲1.39%。"
+    },
+    {
+      "id": "4987716",
+      "time": "2026-07-14 20:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門提示警惕借保險客戶旅遊等名義侵害消費者權益】據新華社北京7月14日電，金融監管總局、文化和旅遊部7月14日釋出關於警惕借“保險客戶旅遊”名義侵害消費者權益的風險提示，提醒廣大消費者選擇正規旅行社組織的旅遊團出遊，保護人身安全和財產安全。"
+    },
+    {
+      "id": "4987715",
+      "time": "2026-07-14 20:29:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：BEUSA 投資公司宣佈發行 6 億美元高階債券。"
+    },
+    {
+      "id": "4987714",
+      "time": "2026-07-14 20:29:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普路通：預計2026年上半年淨利潤同比下降48.99%~59.49%】普路通公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為1350-1700萬元，同比下降48.99%~59.49%。扣除非經常性損益後的淨利潤預計為1340-1690萬元，同比下降45.28%~56.61%。報告期內，本期其他應收款期末餘額較上年末大幅減少，系公司全面加強應收款項催收力度，回款情況持續向好，其他應收款已於前期大規模收回且本期新增規模有限。由於相應衝回的前期信用減值損失規模同比下降，本期歸屬於上市公司股東的淨利潤較上年同期下滑。"
+    },
+    {
+      "id": "4987713",
+      "time": "2026-07-14 20:29:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣宇集團：預計2026年上半年淨虧損2500萬元至1250萬元】廣宇集團公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為2500萬元至1250萬元，上年同期為盈利9065.8萬元。扣除非經常性損益後的淨虧損為3500萬元至1750萬元，上年同期為盈利8835.47萬元。報告期內，公司營業收入及利潤主要依託地產存量尾盤實現。因無新增開發專案竣工交付；在與上年同期“錦上雲瀾”專案竣工交付，形成的較高營業收入與毛利的對比影響下，本期營業收入和毛利同比下降；本期歸屬於上市公司股東的淨利潤同比下降。"
+    },
+    {
+      "id": "mkt:019f6099-2e05-7aab-8d7b-d4bf86c1f64e",
+      "time": "2026-07-14 20:27:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O"
+      ],
+      "text": "Google is rolling out Gemini to Chrome users in the UK."
+    },
+    {
+      "id": "4987712",
+      "time": "2026-07-14 20:27:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Chrome 人工智慧功能下月將拓展至蘋果 iOS 系統。"
+    },
     {
       "id": "4987711",
       "time": "2026-07-14 20:27:25",
@@ -167363,203 +167844,6 @@
         "Important"
       ],
       "text": "United States | Exports (May) | actual 317700000000B | previous 327100000000B"
-    },
-    {
-      "id": "4974453",
-      "time": "2026-07-07 20:31:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月資本貨物進口額為1280億美元，4月進口額為1268.9億美元。"
-    },
-    {
-      "id": "4974452",
-      "time": "2026-07-07 20:31:35",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國5月石油進口價格為每桶87.44美元，4月為每桶78.24美元；較2025年5月的每桶62.10美元上漲40.8%。"
-    },
-    {
-      "id": "4974451",
-      "time": "2026-07-07 20:31:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "F126護衛艦專案取消後，萊茵金屬集團暫停其造船部門的員工擴招計劃。"
-    },
-    {
-      "id": "4974450",
-      "time": "2026-07-07 20:31:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大5月貿易順差創2022年5月以來新高。"
-    },
-    {
-      "id": "4974449",
-      "time": "2026-07-07 20:31:11",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【市場監管總局將開展公平競爭審查抽查】 記者今天（7日）瞭解到，公平競爭審查制度積極有效地發揮了促進市場公平競爭和保障全國統一大市場建設的重要作用，市場監管總局近期將組織開展2026年度公平競爭審查抽查，指導各地做到“應審盡審”“凡審必嚴”。對重點領域開展專項抽查，統籌運用抽查、約談、通報等監管工具，切實強化公平競爭審查剛性約束。各地市場監管部門也將在下半年強化抽查、舉報處理等監管手段，對抽查發現的違規檔案將督促立行立改；對問題多發、整改不力，經督促逾期未整改或者整改不到位的，將按照規定予以約談、曝光，切實加強行為懲戒。同時，將持續完善監管規則、加強制度供給，充分發揮法治在綜合整治“內卷式”競爭工作中的保障作用。目前，市場監管總局正在積極推進《中華人民共和國價格法》的修改，進一步完善低價傾銷等不正當價格行為的認定規則，充實價格監管執法手段，完善法律責任體系，為防範和制止經營者無底線“卷價格”“打價格戰”提供更有力的治理武器。同時按照急用先行原則，擬圍繞健全審查機制、規範審查程式、強化監督保障等方面，對《公平競爭審查條例實施辦法》進行有針對性的修改完善，以進一步加大對政府部門出臺各類政策措施的公平競爭審查力度，增強競爭政策制度剛性和基礎性地位，為各類經營主體平等參與市場競爭提供更為堅實的制度保障。（央視新聞）"
-    },
-    {
-      "id": "4974448",
-      "time": "2026-07-07 20:30:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月出口環比下降3.2%，進口環比增長3.3%。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607073796942528",
-      "time": "2026-07-07 20:30:40",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月貿易逆差為776億美元】美國5月貿易逆差為776億美元，預期逆差785億美元。"
-    },
-    {
-      "id": "4974447",
-      "time": "2026-07-07 20:30:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【IBM推出新型資料中心繫統，以應對資料中心空間和成本限制】7月7日，IBM宣佈推出新型z17和LinuxONE 5系統，以應對資料中心空間和成本限制問題。這些系統將於8月12日正式上市。"
-    },
-    {
-      "id": "mkt:019f3c8e-dcab-7aab-8cce-59062bbf7bfc",
-      "time": "2026-07-07 20:30:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "US May trade balance: -$77.6 bln vs -$78.5 bln expected; April revised from -$55.9 bln to -$54.6 bln."
-    },
-    {
-      "id": "mkt:019f3c8e-d22b-7aab-8cce-520a35063e93",
-      "time": "2026-07-07 20:30:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "U.S. May trade deficit widened to $77.6 bln, the largest since March 2025."
-    },
-    {
-      "id": "4974446",
-      "time": "2026-07-07 20:30:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大5月進口 728.6億加元，前值由724.4億加元修正為730億加元。\n加拿大5月出口 771億加元，前值由751.6億加元修正為764億加元。\n加拿大5月貿易帳 42.4億加元，預期28.5億加元，前值由27.2億加元修正為34.1億加元。"
-    },
-    {
-      "id": "mkt:019f3c8e-b54d-7aab-8cce-4ff5bfbb59a9",
-      "time": "2026-07-07 20:30:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada May imports C$72.86 bln; April revised from C$72.44 bln to C$73.00 bln."
-    },
-    {
-      "id": "mkt:019f3c8e-b40d-7aab-8cce-41206f01e197",
-      "time": "2026-07-07 20:30:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada's May exports were C$77.1 bln; prior figure revised from C$75.16 bln to C$76.4 bln."
-    },
-    {
-      "id": "mkt:019f3c8e-b3c8-7aab-8cce-3f4385bb359c",
-      "time": "2026-07-07 20:30:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada's trade surplus widened to CAD 4.24 bln in May, versus consensus CAD 2.85 bln; April's surplus was revised up to CAD 3.41 bln from CAD 2.72 bln."
-    },
-    {
-      "id": "4974445",
-      "time": "2026-07-07 20:30:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月貿易帳 -776億美元，預期-785億美元，前值由-559億美元修正為-546億美元。"
-    },
-    {
-      "id": "4974444",
-      "time": "2026-07-07 20:30:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新產業回應實控人翁先定被留置】7月7日，診斷試劑上市公司新產業公告，公司於7月6日收到實際控制人翁先定家屬的通知，根據相關監察委員會的《留置通知書》，翁先定被實施留置。新產業表示，自2021年9月8日以來，公司實際控制人翁先定一直未在公司擔任任何職務。公司全體董事和高階管理人員均正常履職，董事會運作及生產經營管理情況正常，上述事項不涉及公司，不會對公司生產經營產生重大影響。7月7日，介面新聞以投資者身份致電新產業。新產業董秘辦工作人員向介面新聞表示，翁先定在公司定位為財務投資人，未參與公司實際經營，與上市公司主體經營無關。該工作人員表示，翁先定此次涉及事項可能與其其他投資有關，但具體涉及哪個投資專案，公司也暫未掌握。公司經營決策一直由董事長饒微主持。（介面）"
-    },
-    {
-      "id": "mkt:019f3c8e-86e0-7aab-8cce-2ffe4f344c8b",
-      "time": "2026-07-07 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Trade Balance (May) | actual -77600000000B | consensus -78500000000B | previous -55900000000B"
-    },
-    {
-      "id": "mkt:019f3c8e-865f-7aab-8cce-2310f66d9663",
-      "time": "2026-07-07 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Imports (May) | actual 72860000000B | previous 72440000000B"
-    },
-    {
-      "id": "mkt:019f3c8e-86e1-7aab-8cce-303c7ca6ffbb",
-      "time": "2026-07-07 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Exports (May) | actual 77100000000B | previous 75160000000B"
-    },
-    {
-      "id": "mkt:019f3c8e-865e-7aab-8cce-1cfeb1d96b52",
-      "time": "2026-07-07 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Trade Balance (May) | actual 4240000000B | consensus 2850000000B | previous 2720000000B"
-    },
-    {
-      "id": "4974443",
-      "time": "2026-07-07 20:29:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭無人系統部隊司令羅伯特·布羅夫迪：針對經由亞速海運往克里米亞的燃料的爭奪戰仍在繼續。"
     }
   ]
 }
