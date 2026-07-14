@@ -1,7 +1,151 @@
 {
   "date": "2026-07-14",
-  "count": 4058,
+  "count": 4073,
   "items": [
+    {
+      "id": "4988078",
+      "time": "2026-07-14 22:59:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什表示，美聯儲調整資產負債表將提前充分告知市場。"
+    },
+    {
+      "id": "4988077",
+      "time": "2026-07-14 22:58:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：同事們的開放思想給我留下了深刻的印象。"
+    },
+    {
+      "id": "4988076",
+      "time": "2026-07-14 22:58:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士ADR股價上漲15%，報175.280美元/股，總市值報1.28萬億美元。"
+    },
+    {
+      "id": "4988075",
+      "time": "2026-07-14 22:58:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金上漲3%，報每盎司1652.49美元。"
+    },
+    {
+      "id": "te:economy:566869",
+      "time": "2026-07-14 22:57:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ecuador",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Ecuador Inflation Rises in June — Ecuador's annual inflation rate rose to 1.65% in June 2026 from 0.92% in the previous month. The strongest price pressures were recorded in transport (7.8%) and healthcare (3.6%). Prices also increased for education (1.6%), recreation and culture (1.2%), communication (0.7%), and furniture and household articles (1.0%). Meanwhile, deflation persisted in food and non-alcoholic beverages (-0.2%), alcoholic beverages and tobacco (-0.9%), clothing and footwear (-4.3%), and housing and utilities (-2.7%). On a monthly basis, consumer prices rose 0.8% after falling 0.6% in May."
+    },
+    {
+      "id": "te:markets:566868",
+      "time": "2026-07-14 22:57:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trade Higher — US stocks moved higher on Tuesday after softer inflation data shut the door on a Fed rate hike this month. The S&P 500 and Nasdaq 100 rose up to 0.5%, while the Dow swung to hover above the flatline. Both headline and core inflation rates declined, easing the impact of another rally in energy prices after the US and Iran maintained strikes against each other. Chip producers rebounded from yesterday's selloff with Micron and Sandisk adding 4% each, tracking major memory producers, while Nvidia rose 1%. On top of that, financial companies rebounded from early losses. JPMorgan jumped 3% after posting its strongest profit level ever, while Bank of America, and Citi gained over 2% after releasing their results. Among capital markets, Goldman Sachs surged over 7% after beating earnings estimates. On the other hand, IBM tanked 25% after missing expectations and warning of low spending from clients, which have opted for spending on chips and memory this quarter instead."
+    },
+    {
+      "id": "mkt:019f6122-23cd-7aab-8d82-2e5913be396b",
+      "time": "2026-07-14 22:57:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed plans to eliminate taxes that are inflationary."
+    },
+    {
+      "id": "4988074",
+      "time": "2026-07-14 22:57:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：我們計劃取消本身會推高通脹的稅收。"
+    },
+    {
+      "id": "mkt:019f6121-dcd9-7aab-8d82-21ea909d2340",
+      "time": "2026-07-14 22:57:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed will undertake reforms across all areas, including supervision, regulation and payments."
+    },
+    {
+      "id": "4988073",
+      "time": "2026-07-14 22:57:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：美聯儲將在各方面推進改革，包括監管、規制和支付系統。"
+    },
+    {
+      "id": "4988072",
+      "time": "2026-07-14 22:57:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：短短六週，我們就帶來了思維的巨大變革。"
+    },
+    {
+      "id": "4988071",
+      "time": "2026-07-14 22:56:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：普雷西迪奧投資公司宣佈將Elevate半導體出售給達爾科技。"
+    },
+    {
+      "id": "4988070",
+      "time": "2026-07-14 22:55:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國債務管理局(DMO)表示，國內投資者佔英國2038年到期、票息1.75%通脹掛鉤國債需求的89%。"
+    },
+    {
+      "id": "te:markets:566867",
+      "time": "2026-07-14 22:55:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium is up by 5.07% — Palladium increased 5.07% to 1316.5 USD/t.oz"
+    },
+    {
+      "id": "mkt:019f611f-f0d8-7aab-8d82-18330e1e0eef",
+      "time": "2026-07-14 22:55:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed does not want to be in the bailout business and hopes to be positioned so it will not have to rescue any entity."
+    },
     {
       "id": "mkt:019f611f-407a-7aab-8d82-10a2d5a84ca9",
       "time": "2026-07-14 22:54:25",
