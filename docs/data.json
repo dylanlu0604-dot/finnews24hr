@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-15 03:04:15",
-  "count": 18830,
+  "updated": "2026-07-15 03:08:07",
+  "count": 18832,
   "items": [
+    {
+      "id": "mkt:019f6205-b81f-7aab-8d88-1e1d7fa439c8",
+      "time": "2026-07-15 03:06:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A U.S. judge has blocked the Trump administration from enforcing visa restrictions targeting researchers who study social-media misinformation."
+    },
+    {
+      "id": "mkt:019f6205-b4b9-7aab-8d88-12808e0df08f",
+      "time": "2026-07-15 03:06:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "The revised bill provides that countries whose imports of Russian natural gas account for less than 15% of Russia's total gas exports and that are taking significant steps to reduce those imports may be granted an exemption."
+    },
+    {
+      "id": "4988442",
+      "time": "2026-07-15 03:05:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：霍爾木茲海峽屬於 “伊朗國家安全範疇”。"
+    },
+    {
+      "id": "4988441",
+      "time": "2026-07-15 03:05:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普道瓊斯指數：擬於 2027 年 9 月指數調整生效時實施行業重新分類。"
+    },
+    {
+      "id": "4988440",
+      "time": "2026-07-15 03:03:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一名法官裁定，阻止特朗普政府推行一項針對社交媒體虛假資訊研究人員的簽證限制政策。"
+    },
+    {
+      "id": "mkt:019f6203-76fd-7aab-8d88-0be6b48a17fd",
+      "time": "2026-07-15 03:03:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Revised bill would cap tariffs on buyers of Russian oil and gas at up to 100%, down from a previously proposed flat 500% tariff."
+    },
+    {
+      "id": "4988439",
+      "time": "2026-07-15 03:03:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿根廷國家統計與普查局（INDEC）資料：6 月阿根廷消費者物價指數環比上漲 1.9%。"
+    },
     {
       "id": "mkt:019f6202-4bd5-7aab-8d88-05f11a8bf285",
       "time": "2026-07-15 03:02:25",
@@ -172263,48 +172326,6 @@
         "Impact bearish"
       ],
       "text": "Spot silver fell 3.0% intraday to $60.16/oz; spot gold dropped $50, or 1.24%, to $4,112.65/oz."
-    },
-    {
-      "id": "4974868",
-      "time": "2026-07-08 03:07:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守60美元/盎司，日內跌3.29%。"
-    },
-    {
-      "id": "4974867",
-      "time": "2026-07-08 03:07:57",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4120美元/盎司，日內跌1.16%。"
-    },
-    {
-      "id": "4974866",
-      "time": "2026-07-08 03:07:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報60.03美元/盎司。"
-    },
-    {
-      "id": "4974865",
-      "time": "2026-07-08 03:07:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報60.46美元/盎司。"
-    },
-    {
-      "id": "4974864",
-      "time": "2026-07-08 03:07:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內跌1%，現報4125.78美元/盎司。"
     }
   ]
 }
