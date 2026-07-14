@@ -1,7 +1,126 @@
 {
   "date": "2026-07-14",
-  "count": 3422,
+  "count": 3436,
   "items": [
+    {
+      "id": "te:economy:566805",
+      "time": "2026-07-14 20:18:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Poland",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Poland Current Account Gap Smaller than Expected — Poland posted a current account gap of €1,071 million in May 2026, narrowing from €1,168 million a year earlier and coming in below market expectations of a €1,674 million deficit. The goods shortfall shrank to €1,182 million from €1,637 million in May 2025, as the rate of increase in exports (+5.5%) outpaced that of imports (+3.7%). At the same time, the services surplus rose slightly to €3,379 million from €3,361 million, mainly due to positive balances in other services and transport services. On the other hand, the primary income deficit widened to €3,160 million from €2,843 million; and the secondary income gap went up to €108 million from €49 million."
+    },
+    {
+      "id": "4987690",
+      "time": "2026-07-14 20:18:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天健集團：預計2026年上半年淨虧損2.8億元–3.8億元】天健集團公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤虧損2.8億元–3.8億元，上年同期盈利4142.37萬元。報告期內，國內建築行業下行壓力持續增強，市場競爭日益激烈，合同簽約減少，利潤水平低，同時受施工專案結算減少影響，施工業務毛利下降；房地產市場仍處於低迷狀態，地產銷售結轉減少、價格較低，且高毛利專案結轉同比減少，地產業務利潤下降。"
+    },
+    {
+      "id": "mkt:019f6090-6a23-7aab-8d7b-985f805ff796",
+      "time": "2026-07-14 20:18:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr news agency reports Iran’s parliament is reviewing a strategic plan for the Strait of Hormuz; 11 related security measures have been examined by specialist committees and will be consolidated into a single bill for plenary debate."
+    },
+    {
+      "id": "4987689",
+      "time": "2026-07-14 20:18:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【思朗科技將首發超智量融合算力叢集等新品】2026世界人工智慧大會將於7月17日至7月20日在上海舉行。記者獲悉，思朗科技將對超智量融合算力叢集、天穹3D科學計算機進行首發首秀。超智量融合算力叢集由思朗科技、上海儀電、資料港三方共建，打造國內首個自主化、規模化、可商用的超智量融合算力叢集。天穹3D科學計算機適配求解各類三維模擬的科學問題，相較於二維架構的傳統超算可帶來2至4個數量級的計算加速效果。"
+    },
+    {
+      "id": "te:economy:566804",
+      "time": "2026-07-14 20:18:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change Weekly",
+        "Importance 0"
+      ],
+      "text": "US Private Job Growth Slows for Third Week — US private employers added an average of 19,750 jobs per week in the four weeks ending June 27, 2026, according to the ADP Research Institute, a slight decline from the previous period’s 21,000 weekly gain. This marks the third consecutive week of slowing job growth, consistent with ADP’s June report showing private businesses added 98,000 jobs, the lowest in three months and below forecasts of 113,000."
+    },
+    {
+      "id": "mkt:019f6090-01ad-7aab-8d7b-91be2aac9e68",
+      "time": "2026-07-14 20:17:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Head of Ukraine's state-owned arms producer Ukroboronprom, Smetanin, said he will step down."
+    },
+    {
+      "id": "4987688",
+      "time": "2026-07-14 20:17:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST嶺南：2025年營收降86.99% 面臨多項風險】*ST嶺南公告稱，2025年度，公司營收1.12億元，同比下降86.99%；歸屬於上市公司股東的淨利潤虧損23.36億元，虧損增加137.29%。2026年1-3月，營收3970.25萬元，同比下滑41.27%；淨利潤虧損13352.78萬元，虧損增加101.10%。公司面臨“嶺南轉債”無法按期兌付、持續經營、增信計劃抵質押資產變現、股票退市、訴訟等風險。近日，“嶺南轉債”受託管理人申請據實調整債券權利主張，公司股票也存在因股價低於面值被終止上市的風險。"
+    },
+    {
+      "id": "4987687",
+      "time": "2026-07-14 20:17:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭國有軍工企業烏克蘭國防工業集團負責人斯梅塔寧宣佈辭職。"
+    },
+    {
+      "id": "4987686",
+      "time": "2026-07-14 20:16:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德石股份：股東顏世明減持11.14萬股 減持計劃實施完畢】德石股份公告稱，股東顏世明原計劃減持12萬股（佔當時剔除回購專戶股份數後總股本的0.0810%）。2026年5月28日公司實施轉增股本。截至7月13日減持時間屆滿，顏世明透過集中競價於5月18 - 20日減持11.14萬股，佔剔除回購專用賬戶股份後總股本的0.0576%，減持價格26 - 27.01元/股。減持後其持股降至47.92萬股，佔總股本的0.2457%。本次減持計劃實施完畢，未導致公司控制權變更，不影響持續經營。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607143805935917",
+      "time": "2026-07-14 20:16:12",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國上週ADP就業人數增加1.975萬人，前值2.1萬人。"
+    },
+    {
+      "id": "4987685",
+      "time": "2026-07-14 20:16:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加福爾瑟斯通道東南 111 公里處發生 5.2 級地震。"
+    },
+    {
+      "id": "mkt:019f608d-c8b6-7aab-8d7b-8d4af4c588ee",
+      "time": "2026-07-14 20:15:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ADP weekly employment report: In the four weeks ending June 27, 2026, private-sector employers added an average of 19,750 jobs per week."
+    },
+    {
+      "id": "4987684",
+      "time": "2026-07-14 20:15:28",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨跌0.57%，標普500指數期貨跌0.15%，納指期貨漲0.46%。\n②德國DAX指數跌0.86%，英國富時100指數跌0.43%，法國CAC40指數跌0.72%，歐洲斯托克50指數跌0.65%。\n③WTI原油漲2.44%，報80.10美元/桶。布倫特原油漲3.95%，報86.58美元/桶。\n④特朗普稱美國計劃控制霍爾木茲海峽並從中獲利，對經過霍爾木茲海峽運輸的貨物收取20%的費用，以補償美方守護霍爾木茲海峽成本成本，相關部署工作將立即啟動。\n⑤美聯儲7月維持利率不變的機率為58.3%，累計加息25個基點的機率為41.7%。\n⑥美國銀行最新分析顯示，SK海力士至2028年實際可新增的儲存晶片產能，可能僅為原計劃的六分之一，這一判斷不僅令韓國政府的產能擴張藍圖大打折扣，更為正在進行中的DRAM價格操縱集體訴訟提供了關鍵佐證。\n⑦IBM盤前股價下跌23.5%，此前IBM公佈的初步季度營收低於分析師預期\n⑧微軟盤前跌幅擴大至 3.3%。\n⑨美國銀行股價在盤前交易時段公佈第二財季業績後上漲1.6%。"
+    },
     {
       "id": "mkt:019f608d-b5e4-7aab-8d7b-842428118a2f",
       "time": "2026-07-14 20:15:27",
@@ -10,6 +129,14 @@
         "Important"
       ],
       "text": "US ADP weekly employment change for week through June 27: +19.75k; prior +21.0k."
+    },
+    {
+      "id": "4987683",
+      "time": "2026-07-14 20:15:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "ADP：截至 6 月 27 日的四周內，美國私營企業就業崗位平均每週新增 19750 個 。"
     },
     {
       "id": "4987682",
