@@ -1,7 +1,83 @@
 {
   "date": "2026-07-14",
-  "count": 4160,
+  "count": 4167,
   "items": [
+    {
+      "id": "4988141",
+      "time": "2026-07-14 23:30:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們的目標是制定正確的政策，這需要保持開放的心態。"
+    },
+    {
+      "id": "mkt:019f613f-9783-7aab-8d83-05879c085f5e",
+      "time": "2026-07-14 23:29:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tasnim News Agency reports loud explosions heard in Kuwait."
+    },
+    {
+      "id": "mkt:019f613f-21e1-7aab-8d82-ffbd93639215",
+      "time": "2026-07-14 23:29:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed Chairman Kevin Warsh said the central bank will conduct deeper, more serious deliberations and reduce the frequency of public statements."
+    },
+    {
+      "id": "4988140",
+      "time": "2026-07-14 23:29:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲將增加深度研討，減少公開表態。"
+    },
+    {
+      "id": "mkt:019f613d-ad21-7aab-8d82-f1d50590d4bf",
+      "time": "2026-07-14 23:27:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwaiti media report the Kuwaiti armed forces are engaging in air combat with 'hostile' targets."
+    },
+    {
+      "id": "4988139",
+      "time": "2026-07-14 23:27:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特表示其武裝部隊正在對“敵對”空中目標進行攔截。"
+    },
+    {
+      "id": "mkt:019f613c-e475-7aab-8d82-ebf0666fe42a",
+      "time": "2026-07-14 23:26:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix ADR (SKHY.O) extends gains to 19%."
+    },
     {
       "id": "4988138",
       "time": "2026-07-14 23:25:28",

@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-14 23:27:12",
-  "count": 18580,
+  "updated": "2026-07-14 23:31:25",
+  "count": 18582,
   "items": [
+    {
+      "id": "4988141",
+      "time": "2026-07-14 23:30:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們的目標是制定正確的政策，這需要保持開放的心態。"
+    },
+    {
+      "id": "mkt:019f613f-9783-7aab-8d83-05879c085f5e",
+      "time": "2026-07-14 23:29:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Tasnim News Agency reports loud explosions heard in Kuwait."
+    },
+    {
+      "id": "mkt:019f613f-21e1-7aab-8d82-ffbd93639215",
+      "time": "2026-07-14 23:29:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "Fed Chairman Kevin Warsh said the central bank will conduct deeper, more serious deliberations and reduce the frequency of public statements."
+    },
+    {
+      "id": "4988140",
+      "time": "2026-07-14 23:29:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲將增加深度研討，減少公開表態。"
+    },
+    {
+      "id": "mkt:019f613d-ad21-7aab-8d82-f1d50590d4bf",
+      "time": "2026-07-14 23:27:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwaiti media report the Kuwaiti armed forces are engaging in air combat with 'hostile' targets."
+    },
+    {
+      "id": "4988139",
+      "time": "2026-07-14 23:27:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特表示其武裝部隊正在對“敵對”空中目標進行攔截。"
+    },
+    {
+      "id": "mkt:019f613c-e475-7aab-8d82-ebf0666fe42a",
+      "time": "2026-07-14 23:26:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix ADR (SKHY.O) extends gains to 19%."
+    },
     {
       "id": "4988138",
       "time": "2026-07-14 23:25:28",
@@ -169876,52 +169952,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 12-Month Bill Auction High Yield Rate (Jul.7) | actual 3.86% | previous 3.75%"
-    },
-    {
-      "id": "4974760",
-      "time": "2026-07-07 23:30:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收跌1.19%，報25510.62點，脫離歷史最高位。法國股指初步收跌0.34%，義大利股指初步收跌0.69%、銀行指數漲0.27%，英國股指初步收漲0.35%。"
-    },
-    {
-      "id": "4974759",
-      "time": "2026-07-07 23:30:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收跌0.51%，報647.17點，持續脫離歷史最高位。歐元區STOXX 50指數初步收跌1.08%，報6328.97點。富時泛歐績優300指數初步收跌0.56%，報2589.93點。"
-    },
-    {
-      "id": "te:economy:564929",
-      "time": "2026-07-07 23:29:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Global Dairy Trade Price Index",
-        "Importance 1"
-      ],
-      "text": "Global Dairy Prices Post Sharpest Drop Since 2024 — The Global Dairy Trade Price Index fell 4.9% in the two weeks ending July 7, 2026, following a 2.8% decline in the prior period, marking the third straight weekly drop and the steepest since July 2024. The decrease was led by sharp falls in cheddar (-12.3%), skim milk powder (-7.0%), butter (-5.0%), whole milk powder (-4.4%), anhydrous milk fat (-3.9%), and lactose (-3.6%). Meanwhile, buttermilk powder rose 8.2% and mozzarella gained 3.8%."
-    },
-    {
-      "id": "4974758",
-      "time": "2026-07-07 23:28:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國議員將在北約峰會間隙就俄羅斯制裁法案向美國財長貝森特施壓。"
-    },
-    {
-      "id": "mkt:019f3d31-010f-7aab-8cd2-1aa36122d93e",
-      "time": "2026-07-07 23:27:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. Department of Transportation: U.S. airlines' fuel costs nearly doubled in May to $6.7 billion."
     }
   ]
 }
