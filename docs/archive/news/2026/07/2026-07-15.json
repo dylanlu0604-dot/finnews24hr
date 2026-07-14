@@ -1,7 +1,81 @@
 {
   "date": "2026-07-15",
-  "count": 225,
+  "count": 233,
   "items": [
+    {
+      "id": "mkt:019f619b-9df2-7aab-8d86-9cec288c78f1",
+      "time": "2026-07-15 01:10:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Axios: Trump urges Netanyahu to withdraw Israeli forces from Syria and Lebanon】Axios, citing U.S. and Israeli officials, reported President Trump told Prime Minister Netanyahu in a recent call that Israeli forces should begin redeploying from areas of Syria and urged a similar pullback from Lebanon, saying they don't want you there, you should redeploy. Netanyahu said Israel needs to retain a security buffer on its borders. The Trump administration has for months pushed for new security arrangements to enable a phased Israeli withdrawal from Syrian territory held since the Assad regime's fall at end-2024, but U.S. officials believe Netanyahu is unwilling to make those concessions. The U.S. has also been mediating implementation of the Israel-Lebanon ceasefire framework, pressing for partial Israeli withdrawals from southern Lebanon, though the withdrawal timetable remains disputed."
+    },
+    {
+      "id": "4988334",
+      "time": "2026-07-15 01:09:21",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "LUCID股價跌幅擴大至21%。"
+    },
+    {
+      "id": "4988333",
+      "time": "2026-07-15 01:09:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "RIVIAN股價下跌1%。"
+    },
+    {
+      "id": "4988332",
+      "time": "2026-07-15 01:09:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普宣稱將與伊拉克達成“龐大”的石油交易】美國總統特朗普在白宮接待伊拉克總理阿里·扎伊迪時表示，將會很快宣佈與伊拉克達成的“龐大”新石油交易，他還宣揚了美國企業在伊拉克開展更多業務的前景。“伊拉克有巨大潛力，因為他們有石油，也因為其他東西，”特朗普週二在白宮表示。“我們將為兩國創造大量就業機會，我們將開採大量石油。大量石油正在開採，而且是美國公司在做這件事。”特朗普表示，將會有“很多協議”，相關宣佈可能會在“本週或下週”釋出。他沒有透露任何細節，只是形容這些協議“龐大，屬於最大規模之列”。特朗普迴避了有關他是否支援伊拉克對OPEC施壓的問題，稱他支援伊拉克總理，並表示“至於OPEC，那是他的決定”。"
+    },
+    {
+      "id": "4988331",
+      "time": "2026-07-15 01:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果正洽談一家可壓縮人工智慧模型、使其能在iPhone本地執行的初創企業】蘋果正在評估PrismML公司的技術。這家初創企業稱，該技術可對高效能AI模型進行深度壓縮，使其能直接在iPhone上執行，記憶體佔用最高可降低15倍。這項技術突破有望讓更多人工智慧運算在手機本地完成，無需向雲端傳送請求，從而提升Siri執行速度、強化使用者隱私保護。若PrismML宣稱的效能在實測中全部兌現，該技術或將重塑記憶體與資料中心算力的市場需求；不過分析師表示，人工智慧產業整體仍會持續消耗大量晶片資源。"
+    },
+    {
+      "id": "mkt:019f6199-6152-7aab-8d86-93b9baee1949",
+      "time": "2026-07-15 01:07:49",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "CNBC reports Apple (AAPL.O) is in talks with PrismML to compress AI models for on-device deployment on iPhone."
+    },
+    {
+      "id": "4988330",
+      "time": "2026-07-15 01:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果正與能壓縮人工智慧模型以實現其在iPhone上執行的PrismML洽談合作。"
+    },
+    {
+      "id": "4988329",
+      "time": "2026-07-15 01:06:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普與以色列總理內塔尼亞胡上週四曾通電話。"
+    },
     {
       "id": "4988328",
       "time": "2026-07-15 01:04:44",
