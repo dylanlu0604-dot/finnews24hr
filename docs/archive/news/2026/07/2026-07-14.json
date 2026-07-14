@@ -1,7 +1,206 @@
 {
   "date": "2026-07-14",
-  "count": 1777,
+  "count": 1797,
   "items": [
+    {
+      "id": "4986317",
+      "time": "2026-07-14 15:03:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱重工將與英偉達合作共建人工智慧資料中心。"
+    },
+    {
+      "id": "mkt:019f5f6f-ab9b-7aab-8d73-01acbc1940c1",
+      "time": "2026-07-14 15:03:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed up 53.33 points, or 1.36 pct, at 3,967.13 on Tuesday, July 14; Shenzhen Composite Index closed up 402.01 points, or 2.77 pct, at 14,924.87; CSI 300 Index closed up 101.12 points, or 2.15 pct, at 4,796.50; ChiNext Index closed up 127.62 points, or 3.43 pct, at 3,851.14; China STAR 50 Index closed up 15.41 points, or 0.77 pct, at 2,009.73."
+    },
+    {
+      "id": "4986316",
+      "time": "2026-07-14 15:02:54",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【開源證券：維持紫光股份“買入”評級，AI交換機和伺服器雙輪驅動】開源證券研報指出，紫光股份業績超預期，AI交換機和伺服器雙輪驅動。公司釋出2026年上半年業績預告，隨著ICT市場在AI算力需求的驅動下快速增長，公司持續深耕行業市場並專注產品研發和技術創新，有望持續受益於國產算力和超節點帶來的市場機遇。2026年上半年，公司營業收入實現快速增長且毛利水平持續提升，對子公司新華三的持股比例提升進一步增厚了公司歸母淨利潤，上調2026-2028年盈利預測，預計2026-2028年歸母淨利潤分別從33.19、47.16、56.34億元上調至43.21、57.44、70.18億元，當前收盤價對應PE為25.4、19.1、15.7倍，維持“買入”評級。"
+    },
+    {
+      "id": "4986315",
+      "time": "2026-07-14 15:02:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利埃尼集團股價早盤上漲1.9%。"
+    },
+    {
+      "id": "4986314",
+      "time": "2026-07-14 15:02:31",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛將依視路陸遜梯卡評級下調至中性，該股下跌3%。"
+    },
+    {
+      "id": "4986313",
+      "time": "2026-07-14 15:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報5824.12億元，較昨日此時縮量2.74億元】截至目前，ETF兩市成交額報5824.12億元，較昨日此時縮量2.74億元，分型別來看，股票型ETF成交額2306.71億元，債券型ETF成交額2008.73億元，貨幣型ETF成交額226.89億元，商品型ETF成交額57.23億元，QDII型ETF成交額1224.56億元。"
+    },
+    {
+      "id": "4986312",
+      "time": "2026-07-14 15:01:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債收益率週二早盤上漲4至7個基點。"
+    },
+    {
+      "id": "mkt:019f5f6e-7570-7aab-8d72-fb0bf4f910a4",
+      "time": "2026-07-14 15:01:42",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK government bond yields rose 4-7 bps in early Tuesday trade."
+    },
+    {
+      "id": "mkt:019f5f6e-685f-7aab-8d72-f0af30e58e63",
+      "time": "2026-07-14 15:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities opened lower on Tuesday, July 14: Germany's DAX down 185.26 pts (-0.74%) to 24,901.92; UK's FTSE 100 down 30.03 pts (-0.29%) to 10,468.26; France's CAC 40 down 72.25 pts (-0.86%) to 8,292.40; Euro Stoxx 50 down 48.27 pts (-0.77%) to 6,222.75; Spain's IBEX 35 down 154.89 pts (-0.80%) to 19,172.21; Italy's FTSE MIB down 311.85 pts (-0.59%) to 52,497.50."
+    },
+    {
+      "id": "mkt:019f5f6e-674f-7aab-8d72-e99761378397",
+      "time": "2026-07-14 15:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China index futures midday close】China index futures at midday: CSI 300 (IF) most-active contract +1.31%; SSE 50 (IH) +0.77%; CSI 500 (IC) +1.05%; CSI 1000 (IM) +1.30%."
+    },
+    {
+      "id": "mkt:019f5f6e-36d0-7aab-8d72-e228e729603b",
+      "time": "2026-07-14 15:01:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian grain export industry group says Russia will fully meet its grain export obligations."
+    },
+    {
+      "id": "4986310",
+      "time": "2026-07-14 15:01:13",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【A股收評：滬指探底回升漲1.36%，油氣開採及服務、元件、醫藥商業板塊漲幅居前】A股三大指數今日集體上漲，截至收盤，上證指數漲1.36%，深證成指漲2.77%，創業板指漲3.43%，北證50漲2.25%，科創50指數漲0.77%。全市場成交額27195億元，較上日縮量1152億元，全市場超4200只個股上漲。板塊題材上，油氣開採及服務、元件、醫藥商業、煤炭開採加工、工業金屬板塊漲幅居前；軍工電子、國產航母、軍工裝備、通訊服務、衛星導航板塊跌幅居前。盤面上，美國總統特朗普已正式通知國會，伊朗戰事重新爆發。油氣開採及服務高開高走，通源石油、中曼石油、藍焰控股漲停，科力股份一度漲超25%，潛能恆信、首華燃氣、海油發展跟漲。醫藥商業板塊低開高走，藥易購、人民同泰漲停，建發致新、華人健康、大參林漲幅居前。元件板塊午後爆發，生益科技、滬電股份、金安國紀、東山精密等多股漲停，南亞新材、生益電子、逸豪新材漲幅居前。通訊服務板塊表現低迷，三維通訊跌停，資料港、潤澤科技、奧菲資料跌幅居前。商業航天概念股延續跌勢，中國衛星、上海港灣、星網宇達、航天動力、巨力索具等股跌停，航天環宇、超捷股份等股跌超10%。"
+    },
+    {
+      "id": "4986309",
+      "time": "2026-07-14 15:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【松花江吉林段出現2026年第1號洪水】7月14日14時，松花江流域松花江吉林段豐滿水庫6小時入庫流量10900立方米每秒，依據《全國主要江河洪水編號清單》，此次洪水編號為“松花江吉林段2026年第1號洪水”。請各級防汛部門、沿河各有關單位及社會公眾加強防範，注意避險。"
+    },
+    {
+      "id": "4986308",
+      "time": "2026-07-14 15:01:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數漲1.36%，深證成指漲2.77%，創業板指漲3.43%。"
+    },
+    {
+      "id": "mkt:019f5f6d-9a63-7aab-8d72-d9347eecde2d",
+      "time": "2026-07-14 15:00:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Precious Metals",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "At midday, China's most-active domestic futures contracts were mixed. SC crude led gains, rising over 9%; fuel oil climbed more than 8% and low-sulfur fuel oil (LU) gained over 7%. Propylene, styrene (EB) and plastics advanced over 6%, and container shipping rates on the Europe route rose nearly 6%. On the downside, eggs fell about 2%, while polysilicon, Shanghai silver, Shanghai gold and soda ash were down more than 1%."
+    },
+    {
+      "id": "te:markets:566715",
+      "time": "2026-07-14 15:00:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "BP Stock Price Hits 4-week High — BP shares increased to 512.60 GBp, the highest since June 2026. Over the past 4 weeks, BP lost 2.32%, and in the last 12 months, it increased 27.14%."
+    },
+    {
+      "id": "4986306",
+      "time": "2026-07-14 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨收盤】上海原油連續漲8.82%，燃料油連續漲8.45%，低硫燃料油連續漲7.73%，苯乙烯連續漲6.37%，丙烯連續漲6.36%，塑膠連續漲6.05%，集運指數歐線期貨連續漲5.78%，瀝青連續漲5.44%，純苯連續漲5.39%，乙二醇連續漲5.30%。"
+    },
+    {
+      "id": "4986305",
+      "time": "2026-07-14 15:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐股開盤普漲，德國DAX指數漲0.19%，英國富時100指數漲0.01%，法國CAC40指數漲0.31%，歐洲斯托克50指數漲0.02%，義大利富時MIB指數漲0.37%。"
+    },
+    {
+      "id": "4986304",
+      "time": "2026-07-14 15:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨午盤收盤】 中證1000指數期貨連續漲1.30%， 滬深300指數期貨連續漲1.31%， 中證500指數期貨連續漲1.05%， 上證50指數期貨連續漲0.77%。"
+    },
+    {
+      "id": "4986303",
+      "time": "2026-07-14 14:59:50",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "伊朗議員易卜拉欣・阿齊茲： 昨晚，恰逢美方無人機被擊落之際，《保障霍爾木茲海峽與波斯灣安全及可持續發展戰略行動法案》正式提交伊朗議會。我們將堅定捍衛自身紅線，尤其是霍爾木茲海峽管轄權相關立場。這只是第一步，後續配套舉措即將出臺。"
+    },
     {
       "id": "4986302",
       "time": "2026-07-14 14:58:06",
