@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-14 23:39:51",
-  "count": 18594,
+  "updated": "2026-07-14 23:44:02",
+  "count": 18601,
   "items": [
+    {
+      "id": "4988167",
+      "time": "2026-07-14 23:42:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：考慮到同意令整改工作的進展，目前銀行業務大體已按花旗的目標狀態執行。"
+    },
+    {
+      "id": "4988166",
+      "time": "2026-07-14 23:42:30",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：今日（CPI）資料並未表明（抗通脹）“任務已完成”。"
+    },
+    {
+      "id": "mkt:019f614b-3120-7aab-8d83-82a5eae9f667",
+      "time": "2026-07-14 23:42:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said today's data does not mean \"mission accomplished\"."
+    },
+    {
+      "id": "4988165",
+      "time": "2026-07-14 23:41:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團股價在財報電話會議期間跌幅擴大至5.5%。"
+    },
+    {
+      "id": "4988164",
+      "time": "2026-07-14 23:41:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗首席財務官：儘管未上調2026年目標已實現有形股本回報率，本行並不預期下半年表現轉差。"
+    },
+    {
+      "id": "4988162",
+      "time": "2026-07-14 23:41:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：人工智慧短期內或會衝擊就業，但長期將創造新崗位。"
+    },
+    {
+      "id": "mkt:019f6149-f0fe-7aab-8d83-7ccb77befb75",
+      "time": "2026-07-14 23:41:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact mixed",
+        "Nasdaq100"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said artificial intelligence could disrupt employment in the short term but will also create new jobs."
+    },
+    {
+      "id": "mkt:019f6149-ce41-7aab-8d83-71ef3e7abae2",
+      "time": "2026-07-14 23:40:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he judges AI will augment jobs rather than replace them."
+    },
+    {
+      "id": "4988161",
+      "time": "2026-07-14 23:40:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：推測人工智慧更多是賦能增效工作，而非取代崗位。"
+    },
+    {
+      "id": "4988160",
+      "time": "2026-07-14 23:40:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：銀行監管機構制定規則時，各方內部及相互間展開“良性內部爭議”才是最佳狀態。"
+    },
+    {
+      "id": "4988159",
+      "time": "2026-07-14 23:39:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "一艘阿聯酋油輪在阿曼海岸附近遇襲。另有一艘賴比瑞亞註冊、阿聯酋運營的油輪也遭到襲擊。"
+    },
     {
       "id": "mkt:019f6148-3084-7aab-8d83-6c4781eadf24",
       "time": "2026-07-14 23:39:08",
@@ -170011,41 +170120,6 @@
         "Importance 2"
       ],
       "text": "US Equities Retreat — US stock indices retreated on Tuesday amid losses for the heavyweight chip sector and fresh deterioration in the macroeconomic backdrop. The S&P 500 fell 0.7%, the Nasdaq 100 tanked 2.7%, while the Dow pulled back from a record high reached in morning exchanges. Memory producers sank even though Samsung posted a 19-fold surge in profit last quarter, as markets grow increasingly skeptical on whether AI hyperscalers can justify elevated levels of capital expenditure on infrastructure. Micron, Sandisk, and Applied Materials lost between 8%-10%. Consistently, SpaceX dropped 6% amid its inclusion in the Nasdaq 100. On top of that, Nvidia fell 1.5% and AMD slid 8% on reports that China's Deepseek is developing its own AI chip. In turn, broader sectors were pressured by higher bond yields after strikes on tankers in the Strait of Hormuz rekindled worries of energy inflation. Caterpillar, Deere, and GE Vernovia lost between 5% and 10%."
-    },
-    {
-      "id": "mkt:019f3d3f-c6ca-7aab-8cd2-88c8e00e04d4",
-      "time": "2026-07-07 23:43:37",
-      "tags": [
-        "MKT News",
-        "RIVN.O",
-        "Impact bearish"
-      ],
-      "text": "Rivian (RIVN.O) shares fell as much as 15% after the electric-truck maker said it planned a share sale, the largest decline since November 2024."
-    },
-    {
-      "id": "4974769",
-      "time": "2026-07-07 23:43:00",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "“特斯拉勁敵”Rivian跌幅擴大至15%，創2024年11月份以來最差盤中表現，該公司釋出業績報告時宣佈股票增發計劃。"
-    },
-    {
-      "id": "4974768",
-      "time": "2026-07-07 23:41:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：對北約在美對伊軍事行動中表現感到“失望”】美國總統特朗普7日在土耳其首都安卡拉表示，他對北約國家在美國對伊朗軍事行動中的表現感到“失望”。特朗普當天抵達安卡拉出席北約峰會，並與土耳其總統埃爾多安舉行會晤。特朗普對媒體表示，“我對北約非常失望”。他說，如果這次峰會不是在土耳其舉行，他很可能就不會出席了。（新華社）"
-    },
-    {
-      "id": "mkt:019f3d3c-ad9e-7aab-8cd2-85d315168ab0",
-      "time": "2026-07-07 23:40:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Canada-led global defence bank wins nine founding members; major G7 states absent】Prime Minister Carney said nine countries have committed to a Canada-led global defence bank, naming Canada, Albania, Belgium, Greece, Latvia, Luxembourg, Romania, Turkey and Ukraine. Apart from Canada, other G7 members have not joined, which could constrain the bank's initial capital base. Canada’s foreign minister said the institution remains open to additional members. A think tank noted launch conditions have been met but founders had hoped for participation from larger European powers. The bank is slated to begin operations in 2027 and aims to mobilise defence-industrial investment to strengthen allies’ collective security capacity."
     }
   ]
 }
