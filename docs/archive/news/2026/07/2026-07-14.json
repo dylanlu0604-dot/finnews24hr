@@ -1,7 +1,99 @@
 {
   "date": "2026-07-14",
-  "count": 671,
+  "count": 680,
   "items": [
+    {
+      "id": "mkt:019f5e00-b018-7aab-8d66-c13a82536b20",
+      "time": "2026-07-14 08:22:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "US 10-year Treasury yield rose 2.0 bps to 4.630%. Japan 30-year government bond yield fell 1.5 bps to 3.890%."
+    },
+    {
+      "id": "4985552",
+      "time": "2026-07-14 08:22:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧釋出暴雨、強對流天氣紅色預警】遼寧省氣象臺7月14日6時繼續釋出暴雨、強對流天氣紅色預警：\n\n7月12日20時至14日6時，瀋陽南部、大連北部、鞍山中北部、撫順、本溪西部、錦州、營口北部、遼陽、鐵嶺中南部、盤錦、葫蘆島地區出現暴雨到大暴雨，其中瀋陽、鞍山、撫順、遼陽、鐵嶺地區區域性出現特大暴雨，其他地區出現小雨到中雨，區域性大雨。\n\n預計14日6時至14日20時，鞍山中南部、撫順、本溪、丹東、營口南部、遼陽南部地區和沈撫示範區及黃海北部有暴雨（70～90毫米），個別鄉鎮（街道）大暴雨（120～200毫米），瀋陽南部、大連、鞍山北部、營口北部、遼陽北部、鐵嶺南部、盤錦地區有中雨到大雨（20～40毫米），區域性暴雨（60～80毫米）；上述地區區域性伴有短時強降水、雷暴大風等強對流天氣，最大小時降雨量40～60毫米，區域性60～100毫米，雷雨時最大風力8～10級。\n\n過程總降雨量（12日20時到14日20時），瀋陽中南部、鞍山中北部、撫順、本溪西部、遼陽、鐵嶺南部、盤錦地區和沈撫示範區為150～280毫米，區域性300～400毫米，個別鄉鎮（街道）可達520毫米，瀋陽北部、大連中北部、鞍山南部、本溪東部、丹東、錦州、營口、鐵嶺中部、葫蘆島中南部地區為50～150毫米，區域性200～250毫米，其他大部地區為25～50毫米。請注意防範。"
+    },
+    {
+      "id": "mkt:019f5e00-0ccb-7aab-8d66-b952718c35ee",
+      "time": "2026-07-14 08:21:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WTI tops $80/bbl; Brent above $85/bbl】WTI crude rose 2.9% intraday, breaching $80/bbl for the first time in a month. Brent crude climbed above $85/bbl, marking the highest level since June 12."
+    },
+    {
+      "id": "4985551",
+      "time": "2026-07-14 08:21:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期國債收益率上漲2.0個基點，報4.630%。"
+    },
+    {
+      "id": "te:economy:566537",
+      "time": "2026-07-14 08:21:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Calendar",
+        "Importance 1"
+      ],
+      "text": "New Zealand Q2 Business Confidence Improves: NZIER — New Zealand’s business confidence improved in the second quarter of 2026, with a net 12% of firms expecting the economy to improve over the next 12 months, up from 4% in the prior quarter, according to the New Zealand Institute of Economic Research’s Quarterly Survey of Business Opinion. The rebound was supported by lower fuel prices during the survey period following a tentative US-Iran peace agreement, though renewed Middle East tensions are expected to weigh on sentiment. Firms remained cautious, with a net 10% cutting staff in the quarter, while 1% and 3% expect to reduce employment and investment, respectively, in the current quarter. A net 1% reported improved trading activity, while 10% expect gains next quarter. Cost pressures also intensified, with a net 54% reporting higher costs and expecting further increases, while the same share plans to raise prices, signaling persistent inflation pressures."
+    },
+    {
+      "id": "4985550",
+      "time": "2026-07-14 08:20:12",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金價跌回4000美元之下 霍爾木茲海峽重陷封鎖和鷹派美聯儲造成壓力】金價下跌，因為霍爾木茲海峽緊張局勢升級以及一位美聯儲官員的言論增強了加息以抑制通脹的可能性。黃金現貨目前跌回每盎司4000美元下方；其週一下跌近3%，創兩週多來最大跌幅。在美軍重新對伊朗港口實施海上封鎖並連日開火後，美國總統唐納德·特朗普提出對經該水道運輸的貨物收取20%的補償。油價進一步上漲，中東硝煙再起重新引發了人們對該地區原油供應的擔憂。能源價格高企提振了對於美聯儲可能需要將高利率維持更長時間以應對頑固通脹的預期。"
+    },
+    {
+      "id": "4985549",
+      "time": "2026-07-14 08:19:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【WTI原油漲破80美元 布油站上85美元】WTI原油日內漲幅擴大至2.9%，為一個月來首次漲穿80美元/桶關口。布倫特原油站上85美元/桶，創6月12日以來新高。"
+    },
+    {
+      "id": "4985548",
+      "time": "2026-07-14 08:19:44",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：2026版基藥目錄持續擴容 納入4款國產I類新藥】中信建投證券研報稱，2026年版基藥目錄釋出呈現三大特徵：首先，時隔約8年重啟調整，總品種由2018版685種增至794種（淨增109種，增長15.9%），化學藥品和生物製品476種、中成藥318種，中成藥佔比提升至約40%。其次，新增16種創新藥（含4種國產I類新藥），在全面支援中國創新藥企業發展的同時，擴大基層藥品種類，加強基層用藥的銜接；三是堅持中西醫並重、中西藥並用的原則，新增中成藥品種48個，除基本覆蓋了中醫臨床分科外，新增的中成藥品種主要聚焦在中醫優勢病種，如在心繫、肺系、腦系、婦科等相關疾病用藥和兒科專用藥等。中信建投認為，2026年基藥目錄調整結果釋放出積極訊號：基藥目錄品種數量持續擴容，納入的創新藥品種數量上升，體現了基藥目錄調整對創新藥發展的全面支援，創新藥醫保準入效率有望進一步提升。"
+    },
+    {
+      "id": "4985547",
+      "time": "2026-07-14 08:19:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【味之素將從10月1日起上調部分冷凍食品價格】7月14日，據報道，受原材料和燃料成本上漲影響，味之素將把部分冷凍食品的價格上調5%至8%。新價格適用於10月1日起發貨的產品。"
+    },
     {
       "id": "mkt:019f5dfc-f1f9-7aab-8d66-b29e3c547bf9",
       "time": "2026-07-14 08:18:05",
