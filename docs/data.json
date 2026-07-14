@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-14 10:02:30",
-  "count": 17376,
+  "updated": "2026-07-14 10:06:32",
+  "count": 17378,
   "items": [
+    {
+      "id": "mkt:019f5e5f-7c43-7aab-8d69-8a64e400e057",
+      "time": "2026-07-14 10:05:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【CUSTOMS: China's private enterprises' 1H imports and exports totaled 14.53 tln yuan, +17%】CUSTOMS data show China’s 1H trade remained diversified. Trade with Belt and Road countries totaled 12.97 tln yuan, +14.8%, accounting for 50.9% of total foreign trade; trade with neighboring countries was 9.44 tln yuan, +20.6%. Trade with Latin America and Africa rose 16.2% and 19.6%, respectively; trade with the EU rose 10.2%. By operator type, private enterprises' imports and exports totaled 14.53 tln yuan, +17%, accounting for 57% of foreign trade; foreign-invested and state-owned enterprises rose 17.1% and 16.8%, respectively."
+    },
+    {
+      "id": "mkt:019f5e5e-b462-7aab-8d69-855d7857dd36",
+      "time": "2026-07-14 10:04:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【Customs: China 1H machinery & electrical exports 9.36 trn yuan, up 20.1%】Customs data: China’s 1H exports of machinery and electrical products totaled 9.36 trn yuan, up 20.1%, accounting for 63.5% of total exports (up 3.5 ppts year‑on‑year). High‑technology exports were 3.26 trn yuan, up 39%. Imports rose 28.8% in 1H, outpacing export growth by 8.7 ppts; import growth by category: energy and other bulk commodities +3.4%, machinery & electrical +28%, agricultural products +8.6%."
+    },
+    {
+      "id": "mkt:019f5e5e-3f8a-7aab-8d69-7b6021eae756",
+      "time": "2026-07-14 10:04:22",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share semiconductor materials sector fell intraday; Shanghai Hejing dropped over 10%, with Youyan Silicon, Hu Silicon Industry, Zhenbao Technology and Zhongjing Technology also sliding."
+    },
+    {
+      "id": "te:markets:566579",
+      "time": "2026-07-14 10:03:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Philippines",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Philippine Peso Falls Toward Record Low — The Philippine peso fell to around 61.70 per US dollar in mid-July, moving back toward record lows as renewed conflict in the Middle East drove oil prices higher and weighed on emerging-market currencies. The decline highlighted the Philippines' vulnerability to rising energy costs, given its heavy reliance on imported fuel. Crude prices surged after fresh US and Iranian strikes, with Washington reimposing a blockade on shipping through the Strait of Hormuz, raising concerns over global oil supplies. The peso has lost more than 4% against the US dollar this year, heightening risks of imported inflation and adding pressure on the Bangko Sentral ng Pilipinas to support the currency. The central bank has already raised its benchmark interest rate by 25 basis points to 4.75% in June, its second consecutive increase, as policymakers sought to contain persistent inflationary pressures."
+    },
+    {
+      "id": "4985759",
+      "time": "2026-07-14 10:03:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率下跌5個基點至3.855%。"
+    },
+    {
+      "id": "4985758",
+      "time": "2026-07-14 10:03:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【今年上半年我國貨物貿易進出口同比增長16.9%】海關總署相關負責人介紹了今年以來我國外貿執行情況並回答記者提問，同時公佈了上半年外貿資料，我國貨物貿易進出口同比增長16.9%，外貿保持良好運營態勢。據海關統計，今年上半年，我國貨物貿易進出口25.47萬億元，同比增長16.9%，其中，出口14.73萬億元，增長13.4%，進口10.74萬億元，增長22.1%。其中，6月進出口4.78萬億元，同比增長24.2%，連續17個月保持增長。從出口來看，產品結構進一步最佳化，上半年我國出口機電產品9.36萬億元，增長20.1%，佔出口總值的63.5%，較去年同期提升了3.5個百分點。高技術產品出口3.26萬億元，增長39%。從進口來看，上半年我國進口增速高於出口8.7個百分點，推動進出口平衡發展。其中能源等大宗商品、機電產品、農產品分別增長了3.4%、28%、8.6%。從貿易伙伴看，我國多元化市場持續鞏固，上半年，我國對共建“一帶一路”國家進出口12.97萬億元，增長14.8%，佔外貿總值的50.9%。對周邊國家進出口9.44萬億元，增長20.6%。對拉美、非洲分別增長16.2%和19.6%，對歐盟增長10.2%。從經營主體看，我國各類經營主體增勢良好，民營企業進出口14.53萬億元，增長17%，佔外貿總值的57%。外商投資企業、國有企業，進出口分別增長17.1%、16.8%。總體看，今年上半年，我國外貿穩規模、優結構成效明顯。（央視新聞）"
+    },
+    {
+      "id": "te:markets:566578",
+      "time": "2026-07-14 10:01:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Fall as Investors Turn Cautious — The Hang Seng Index slipped 1.0%, or 240 points, to 23,970 on Tuesday, as renewed geopolitical tensions and broad-based weakness across Asian markets weighed on sentiment. Weaker US futures further dampened market sentiment after Wall Street retreated overnight, following President Trump's pledge to reinstate a blockade on Iranian shipping through the Strait of Hormuz. The renewed geopolitical tensions fueled risk aversion and lifted oil prices, prompting investors to shift toward safer assets. Meanwhile, traders remained cautious ahead of China's June trade data, due later in the day, as they looked for fresh clues on the strength of the country's economic recovery following stronger-than-expected export and import growth in May. Investors are also awaiting upcoming US economic data and central bank signals that could influence global market direction. Notable laggards were Tencent (-1.5%), Knowledge Atlas (-4.9%), Xiaomi (-0.5%), Meituan (-1.5%), and MiniMax (-3.1%)."
+    },
+    {
+      "id": "4985757",
+      "time": "2026-07-14 10:01:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本20年期國債收益率下跌5個基點至3.695%。"
+    },
     {
       "id": "4985756",
       "time": "2026-07-14 10:01:44",
@@ -158853,63 +158941,6 @@
         "其他"
       ],
       "text": "【科創50指數漲幅擴大至2%】科創50指數漲幅擴大至2%，現報2036.35點。"
-    },
-    {
-      "id": "4973304",
-      "time": "2026-07-07 10:05:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【重慶證監局舉辦轄區上市公司治理與規範運作專題培訓】為認真貫徹落實中國證監會上市公司治理專項行動有關部署，進一步強化“關鍵少數”合規意識，提升重慶上市公司規範治理水平，近日，重慶證監局舉辦轄區上市公司治理與規範運作專題培訓。重慶證監局相關負責同志出席會議，轄區80家上市公司、部分擬上市公司主要負責人、董事會秘書及相關高管等160餘人參加培訓。本次培訓聚焦上市公司治理專項行動，圍繞規範“雙控人”行為、獨立董事和審計委員會履職、董事會秘書任職要求和履職規範、引導業財融合等方面詳細解讀了上市公司治理相關要求，並結合典型案例，系統剖析了上市公司治理中的常見風險點與履職要點，進一步幫助轄區上市公司築牢合規底線，提升治理效能。（證監會）"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607073796227427",
-      "time": "2026-07-07 10:05:26",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【世界銀行維持2026年中國經濟增速預期不變】世界銀行7月7日在京釋出最新一期中國經濟簡報。報告稱，儘管面臨供強需弱和全球能源供應衝擊，中國經濟增長總體保持韌性，預計2026年中國經濟增長4.4%，相較去年12月釋出的上期簡報，增速預期維持不變。"
-    },
-    {
-      "id": "mkt:019f3a51-8ed0-7aab-8cc0-04f5969f44f9",
-      "time": "2026-07-07 10:04:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "CSI300"
-      ],
-      "text": "【WBG holds 2026 China growth forecast at 4.4%】The WBG on July 7 in Beijing released its latest China economic brief, saying that despite strong supply/weak demand dynamics and global energy-supply shocks China’s economy remains resilient and it forecasts 4.4% GDP growth in 2026, unchanged from its December outlook."
-    },
-    {
-      "id": "mkt:019f3a51-2483-7aab-8cbf-feabf0392055",
-      "time": "2026-07-07 10:03:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kiuchi rejects reports government is pushing BoJ to lower rates】Kiuchi said reports that Prime Minister Takaichi's government is attempting to steer interest rates lower are incorrect and the government has no intention of pressuring the Bank of Japan to ease policy. He spoke in Tokyo as markets watch how Takaichi plans large-scale investment without increasing Japan's already heavy debt burden. Kiuchi said he attended last month's BOJ policy meeting as a government representative, where policymakers raised the benchmark rate to 1% — the highest in 31 years."
-    },
-    {
-      "id": "4973303",
-      "time": "2026-07-07 10:03:30",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【煤炭板塊震盪走弱，凱瑞德跌停】煤炭板塊震盪走弱，凱瑞德跌停，山煤國際、昊華能源、新集能源、大有能源、遼寧能源、平煤股份等跟跌。"
-    },
-    {
-      "id": "4973302",
-      "time": "2026-07-07 10:02:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星河動力等在北京成立新科技公司 註冊資本 1 億】天眼查App顯示，近日，北京星河天算基石科技有限公司成立，法定代表人為夏東坤，註冊資本1億人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣，工程和技術研究和試驗發展，計算機系統服務，人工智慧應用軟體開發等。股東資訊顯示，該公司由北京星河動力航天科技股份有限公司、北京至算探索管理諮詢中心（有限合夥）共同持股。"
     }
   ]
 }
