@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-15 01:18:59",
-  "count": 18783,
+  "updated": "2026-07-15 01:23:00",
+  "count": 18784,
   "items": [
+    {
+      "id": "4988342",
+      "time": "2026-07-15 01:20:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯莫斯科市長索比亞寧：今日已擊落36架無人機，防空部隊擊落了七架接近莫斯科的無人機。"
+    },
+    {
+      "id": "te:economy:566897",
+      "time": "2026-07-15 01:20:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Angola",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Angola Cuts Key Policy Rate to 15.75% — The National Bank of Angola cut its key interest rate by 125 basis points to 15.75% at its July 2026 meeting, marking the second rate cut in 2026 and citing easing inflation and an improving economic outlook. Annual inflation slowed to 10.11% in June from 10.88% in May, with Governor Manuel Tiago Dias saying price pressures are expected to continue easing despite uncertainties stemming from the conflict in the Middle East. Meanwhile, the economy grew 5.3% year-on-year in the first quarter, accelerating from 5.1% in the previous quarter. Growth was driven by the non-oil sector, which expanded 6.2%, while the oil sector contracted 0.2%. Looking ahead, the central bank lowered its year-end inflation forecast to 8.6% from 11.5% and raised its 2026 growth forecast to 3.6% from 3.5%, supported by growth on non-oil sectors and benefiting from elevated global energy prices as an oil exporter."
+    },
+    {
+      "id": "mkt:019f61a4-a6f9-7aab-8d86-c15034515583",
+      "time": "2026-07-15 01:20:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Lisa Cook will speak in ten minutes at the Federal Reserve’s annual conference on financial inclusion."
+    },
+    {
+      "id": "4988341",
+      "time": "2026-07-15 01:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：關稅法案將賦予特朗普全新許可權。"
+    },
     {
       "id": "4988340",
       "time": "2026-07-15 01:17:24",
@@ -171870,34 +171909,6 @@
         "XAUUSD"
       ],
       "text": "Jordan's Foreign Ministry condemned Iran for an attack on a Qatari tanker transiting the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f3d9a-41c4-7aab-8cd3-cc7cea3abc64",
-      "time": "2026-07-08 01:22:27",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "The UAE Foreign Ministry strongly condemned Iran's attack on a Qatari oil tanker."
-    },
-    {
-      "id": "4974823",
-      "time": "2026-07-08 01:21:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲3%，現報70.61美元/桶。"
-    },
-    {
-      "id": "mkt:019f3d97-9243-7aab-8cd3-c1cca5118de8",
-      "time": "2026-07-08 01:19:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy says Ukraine and Denmark have signed a drone cooperation agreement and agreed to accelerate delivery of Patriot missiles, strengthen air defenses and advance development of European missile‑defense capabilities."
     }
   ]
 }
