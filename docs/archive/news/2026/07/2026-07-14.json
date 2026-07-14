@@ -1,7 +1,80 @@
 {
   "date": "2026-07-14",
-  "count": 653,
+  "count": 661,
   "items": [
+    {
+      "id": "4985539",
+      "time": "2026-07-14 08:14:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭商務部長尋求對資本市場規則進行現代化改革。"
+    },
+    {
+      "id": "4985538",
+      "time": "2026-07-14 08:13:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國金融市場協會（KFIFA）資料顯示，66%的債券市場參與者預計韓國央行將在7月上調基準利率。"
+    },
+    {
+      "id": "4985537",
+      "time": "2026-07-14 08:13:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：產能去化加速，豬週期或築底向上】華泰證券研報表示，7月9日，Wind行業生豬價格由6月平均9.6元/公斤平臺反彈至11.3元/公斤，且湧益諮詢披露6月產能資料，顯示26Q2行業產能去化加速，此外，正邦科技釋出公告，預計廣西洪澇災害造成的公司資產損失或超過公司25年淨利潤的10%，印證了異常天氣對行業被動去產能的作用。我們認為，產能去化加速與中長期豬價築底回升趨勢逐漸明確，生豬養殖板塊或迎配置時點。"
+    },
+    {
+      "id": "mkt:019f5df8-37b6-7aab-8d66-9ffa069c983b",
+      "time": "2026-07-14 08:12:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS"
+      ],
+      "text": "Seoul's KOSPI quickly moved back into positive territory in early trade after earlier falling more than 2%; SK Hynix was trading around flat."
+    },
+    {
+      "id": "4985536",
+      "time": "2026-07-14 08:12:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾綜指收復失地，稍早一度跌2.5%。"
+    },
+    {
+      "id": "4985535",
+      "time": "2026-07-14 08:12:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【新加坡第二季度經濟增長放緩】新加坡第二季度經濟增長放緩，中東緊張局勢拖累了化工和生物醫藥製造業。週二公佈的初步預估資料顯示，新加坡第二季度國內生產總值(GDP)同比增長5.7%。該增速低於第一季度經修正後的6.3%，但高於媒體調查的經濟學家預測的5.3%的中值。經季節性調整後，該國經濟環比增長1.1%，第一季度經修正後的增幅為1.3%。接受調查的經濟學家此前預期為增長1.0%。新加坡貿易與工業部表示，該增長主要受電子和精密工程領域產出增加的推動，同時與人工智慧(AI)相關的半導體和半導體制造裝置需求強勁。該部補充稱，但化工和生物醫藥製造產業叢集出現萎縮，其中前者受到中東衝突導致的原料供應中斷的衝擊。"
+    },
+    {
+      "id": "te:economy:566535",
+      "time": "2026-07-14 08:11:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "GDP Annual Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Singapore Q2 GDP Growth Beats Forecasts — Singapore’s economy advanced 5.7% year-on-year in Q2 2026, slowing from a 6.0% expansion in Q1, which was the strongest annual growth since Q3 2024, but remaining above market estimates of 5.5%, according to preliminary estimates. Growth was mainly supported by manufacturing output, which rose 12.2%, accelerating from 8.0% in the previous quarter due to strong AI-related demand. On a quarterly basis, the economy grew 1.1%, following an upwardly revised 1.3% expansion in Q1 and marking a third consecutive quarter of growth, in line with market estimates."
+    },
+    {
+      "id": "4985534",
+      "time": "2026-07-14 08:11:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：金剛石銅複合材料適用於封裝蓋板及冷板/微通道 短期有望率先放量】中信建投證券研報稱，金剛石憑藉超高導熱（最高2000W/m·K）與低熱膨脹係數，當下其複合材料已在高效能消費電子與AI伺服器落地應用。展望未來，短期，金剛石銅複合材料（600—800W，成本僅為純金剛石10%—20%，根據行業調研）技術成熟度高、產業化價效比突出，適用於封裝蓋板及冷板/微通道，有望率先放量；中期，多晶金剛石熱沉片透過鍵合貼合晶片，核心突破點在於表面光滑度與捲曲控制，未來1—3年有望進一步走向成熟；遠期，單晶金剛石晶圓級鍵合直抵晶片基底，但受制於尺寸與成本，尚處於技術探索中。從未來幾年產業價值來看，技術難度高的能生產8英寸多晶金剛石的MPCVD裝置及鍵合裝置是核心，板塊機遇主要關注終端廠商金剛石散熱方案的推進進展。"
+    },
     {
       "id": "4985533",
       "time": "2026-07-14 08:11:03",
