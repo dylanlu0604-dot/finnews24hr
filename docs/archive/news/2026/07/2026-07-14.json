@@ -1,7 +1,239 @@
 {
   "date": "2026-07-14",
-  "count": 3570,
+  "count": 3595,
   "items": [
+    {
+      "id": "mkt:019f60a7-85db-7aab-8d7d-581aabff83e4",
+      "time": "2026-07-14 20:43:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JP Morgan CEO Dimon: Markets are clearly exhibiting extreme risk appetite."
+    },
+    {
+      "id": "4987784",
+      "time": "2026-07-14 20:43:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲的首要目標是將貨幣政策做對——或者說儘可能做對。"
+    },
+    {
+      "id": "mkt:019f60a7-5eac-7aab-8d7d-568de0cdb429",
+      "time": "2026-07-14 20:43:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's primary objective is to get monetary policy right—or to get it as right as possible."
+    },
+    {
+      "id": "4987783",
+      "time": "2026-07-14 20:43:28",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通巴納姆：市場明顯處於極高風險偏好狀態。"
+    },
+    {
+      "id": "4987782",
+      "time": "2026-07-14 20:43:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆達股份：2026年上半年營收預增50%-75% 淨利潤大幅提升】隆達股份公告稱，預計2026年半年度營收12.43億元至14.51億元，同比增長50%到75%；歸屬於母公司所有者的淨利潤1.01億元至1.19億元，同比增長90%至125%；扣非淨利潤0.98億元至1.13億元，同比增長95%至125%。業績增長因全球航空發動機及燃氣輪機市場需求增長，公司市場份額提升，且開展降本增效工作，毛利率提高。不過，公司面臨行業競爭、原材料波動等風險。"
+    },
+    {
+      "id": "4987781",
+      "time": "2026-07-14 20:43:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "招商蛇口：預計上半年淨利潤最多6.5億元，同比下降55%。"
+    },
+    {
+      "id": "4987780",
+      "time": "2026-07-14 20:43:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "ARGUS RESEARCH將達美航空<DAL.N>目標價從100美元上調至105美元。"
+    },
+    {
+      "id": "4987779",
+      "time": "2026-07-14 20:42:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什未就利率前景發表評論。"
+    },
+    {
+      "id": "mkt:019f60a6-8190-7aab-8d7d-4efda8b77b34",
+      "time": "2026-07-14 20:42:32",
+      "tags": [
+        "MKT News",
+        "JPM.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan CEO Dimon said the investment-banking pipeline remains robust."
+    },
+    {
+      "id": "4987778",
+      "time": "2026-07-14 20:42:22",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通巴納姆：投行業務儲備專案“相當充足”。"
+    },
+    {
+      "id": "te:economy:566820",
+      "time": "2026-07-14 20:42:19",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "US Consumer Prices Drop For First Time Since 2020 — US consumer prices fell 0.4% month-over-month in June 2026, following a 0.5% rise in May and exceeding market expectations of a 0.1% drop. This marked the first monthly decline since May 2020 and the largest since April 2020, driven primarily by a 5.7% drop in energy prices after increases of 3.9% in May, 3.8% in April, and 10.9% in March. Additional downward pressure came from motor vehicle insurance, communication, apparel, medical care, and used cars and trucks. Meanwhile, food prices rose 0.2%, with both food at home and food away from home increasing by the same margin. Other rising indexes included recreation, household furnishings and operations, and personal care. The core CPI, which excludes food and energy, remained unchanged, below forecasts of a 0.2% rise."
+    },
+    {
+      "id": "4987777",
+      "time": "2026-07-14 20:42:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：勞動力市場總體穩定，名義工資增長穩健。"
+    },
+    {
+      "id": "4987776",
+      "time": "2026-07-14 20:41:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【立陶宛新政府正式就職】立陶宛議會14日投票透過立陶宛新總理明道加斯·辛克維丘斯的內閣名單和施政綱領，其領導的新政府正式就職。根據辛克維丘斯3日公佈的施政綱領，新政府將以國家安全、經濟增長和改善民生作為施政重點。新政府將繼續加強與北約盟國的合作。(新華社)"
+    },
+    {
+      "id": "4987775",
+      "time": "2026-07-14 20:41:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：監測人工智慧對通貨膨脹和勞動力市場的影響。"
+    },
+    {
+      "id": "mkt:019f60a5-5e46-7aab-8d7d-45f9b3827db1",
+      "time": "2026-07-14 20:41:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Fed Chairman Kevin Warsh: consumer spending growth is moderate; housing market continues to lag."
+    },
+    {
+      "id": "4987774",
+      "time": "2026-07-14 20:41:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：消費增長溫和，住房市場持續滯後。"
+    },
+    {
+      "id": "4987773",
+      "time": "2026-07-14 20:40:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首創證券：股東城市動力擬減持不超過0.6870%】首創證券公告，股東城市動力（北京）投資有限公司計劃於2026年8月6日～2026年11月6日透過集中競價減持不超過1877.91萬股公司A股股份，佔不超過公司總股本的0.6870%，擬減持股份來源為IPO前取得。"
+    },
+    {
+      "id": "mkt:019f60a5-0827-7aab-8d7d-3f8c1abe31ad",
+      "time": "2026-07-14 20:40:55",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【China to reshape land-reserve framework】The Ministry of Natural Resources said China will reform its 25-year-old land‑reserve system as urbanization shifts from an expansion to a stock phase. Vice Minister Zhang Wentong said the system will move from concentrating on single plots and near-term economic value to district‑level, multi‑resource management (land, forest, mineral) that balances economic, social and ecological value. Land reserves will be used beyond supplying vacant development plots to raise infrastructure and urban functions, improve living environments and support job creation."
+    },
+    {
+      "id": "4987772",
+      "time": "2026-07-14 20:40:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "沃什：美國經濟具有韌性，保持穩健增長。"
+    },
+    {
+      "id": "4987771",
+      "time": "2026-07-14 20:40:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國將重構土地儲備的底層邏輯】隨著城鎮化和城市發展進入存量時代，實施25年的土地儲備制度將不斷創新改革，實現生產、生活、生態兼顧的底層邏輯重構。自然資源部副部長張文彤指出，土地儲備曾被稱為“經營城市”，關注點集中在土地本身、單一地塊以及土地自身的經濟價值特別是即期價值迅速實現。隨著城鎮化和城市發展由增量時代進入存量時代，城市內涵式發展要求土地儲備制度創新改革，從過去注重土地資源儲備，向土地、林礦等多種類轉變，既推動經濟發展，也推動生態文明建設；從單宗地塊向片區式各類資源有效組合轉變，在一定區域範圍內系統提高人居環境水平。土地儲備工作將從相對追求經濟價值，向追求經濟價值、社會價值、生態價值系統性轉變；不僅關注“淨地”自身產生的作用和價值，更關注透過土地儲備進一步提高基礎設施水平、完善城市功能，達到生產、生活、生態的高度統一，提供更多就業崗位、良好人居環境。（新華社）"
+    },
+    {
+      "id": "mkt:019f60a4-cf86-7aab-8d7d-3438b4a03b58",
+      "time": "2026-07-14 20:40:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US stock-index futures surged to intraday highs after US CPI fell MoM."
+    },
+    {
+      "id": "4987770",
+      "time": "2026-07-14 20:40:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通執行長戴蒙表示，執行長繼任時間表並未發生變動。"
+    },
+    {
+      "id": "mkt:019f60a4-5090-7aab-8d7d-2f4571a06e42",
+      "time": "2026-07-14 20:40:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【U.S. CPI posts first monthly decline since 2020; core flat】U.S. consumer prices fell 0.4% MoM in June — the first monthly drop since 2020 — and rose 3.5% YoY, the Bureau of Labor Statistics said Tuesday. Core CPI (ex food and energy) was unchanged MoM and rose 2.6% YoY. The report said a retreat from the peak energy-price shock linked to the Iran war drove gasoline lower, while declines in apparel and used-car prices and a large drop in motor-vehicle insurance restrained core inflation. The print eases some near-term pressure on Fed tightening ahead of the Fed’s month-end meeting; investors pared bets on a July rate hike, U.S. equity futures rose and Treasury yields fell. Renewed U.S.-Iran hostilities lifting oil prices could, however, prolong conflict-driven inflationary effects."
+    },
+    {
+      "id": "4987769",
+      "time": "2026-07-14 20:40:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！渤海濰坊港實彈射擊】據中國海事局網站訊息，濰坊海事局釋出航行警告，7月15日0時至17日24時，渤海濰坊港部分海域進行實彈射擊，禁止駛入。 （央視軍事）"
+    },
+    {
+      "id": "mkt:019f60a4-0a4e-7aab-8d7d-2687a147a5e3",
+      "time": "2026-07-14 20:39:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Navigation warning: live-fire exercises near Weifang port (Bohai Sea)】China Maritime Safety Administration website: Weifang MSA issued a navigation warning — parts of the Bohai Sea near Weifang port will be closed for live-fire exercises from 0000 on July 15 to 2400 on July 17; entry prohibited."
+    },
     {
       "id": "4987768",
       "time": "2026-07-14 20:39:06",
