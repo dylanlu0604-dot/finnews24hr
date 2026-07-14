@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-15 02:28:19",
-  "count": 18825,
+  "updated": "2026-07-15 02:32:15",
+  "count": 18830,
   "items": [
+    {
+      "id": "mkt:019f61e6-34c1-7aab-8d87-94ad7f82d2e5",
+      "time": "2026-07-15 02:31:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Rep. Jamie Raskin has sent a letter to Paramount CEO Ellison asking whether he has pressured CBS News to tailor coverage in favor of Donald Trump."
+    },
+    {
+      "id": "4988409",
+      "time": "2026-07-15 02:31:35",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國6月CPI漲幅回落 但通脹壓力仍存】美國勞工部14日釋出的資料顯示，受能源價格下跌影響，美國6月消費者價格指數（CPI）漲幅回落，但依然面臨較大通脹壓力。資料顯示，儘管美國6月CPI同比漲幅從5月的4.2%回落至3.5%，但仍顯著高於美聯儲2%的通脹目標。勞工部表示，能源價格下跌是當月消費者價格指數漲幅回落的最大因素，抵消了住房和食品等其他領域的價格上漲影響。美國行業金融機構專家表示，雖然通脹壓力6月有所緩解，但隨著美國與伊朗的軍事對抗再度升溫，通脹放緩趨勢恐將是短暫的。"
+    },
+    {
+      "id": "mkt:019f61e6-094b-7aab-8d87-8ccd75ac5d98",
+      "time": "2026-07-15 02:31:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $79.34/bbl, up $1.20 or 1.54%."
+    },
+    {
+      "id": "mkt:019f61e6-06b8-7aab-8d87-878a5d5bfad8",
+      "time": "2026-07-15 02:31:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close of the night session, Shanghai gold main contract rose 0.89% to 886 yuan/gram; Shanghai silver main contract rose 1.98% to 14,381 yuan/kg; SC crude oil main contract rose 2.82% to 511 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f61e6-0116-7aab-8d87-79ee82efe770",
+      "time": "2026-07-15 02:31:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.95% at 885.59 yuan/gram in the July 14 evening session. Shanghai Gold Exchange silver T+D closed up 2.45% at 14,405 yuan/kg."
+    },
+    {
+      "id": "4988408",
+      "time": "2026-07-15 02:31:09",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【蘋果股票獲得罕見的看跌評級 KeyBanc表示需求和估值令人擔心】蘋果公司罕見地獲得看跌評級，KeyBanc Capital Markets將該股評級下調至低配，理由是擔心需求和估值。Brandon Nispel此前對蘋果股票的評級相當於“持有”，他表示，該股相對於大盤的估值差距“沒有道理”。蘋果股票的預期市盈率超過33倍，遠高於23倍的10年均值，也高於納斯達克100指數22.8倍的水平。“我們看到美國運營商正在減少裝置補貼，升級速度放緩，因此國際市場可能需要承擔更多增長壓力。在價格上漲的環境下，這會變得困難，我們認為市場共識預期的2027年iPhone增長8%過於激進，”Nispel在7月13日的一份報告中寫道。"
+    },
+    {
+      "id": "4988407",
+      "time": "2026-07-15 02:30:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國眾議院資深議員拉斯金要求派拉蒙執行長大衛·埃裡森回應，他是否在刻意歪曲哥倫比亞廣播公司（CBS）新聞報道以迎合特朗普。"
+    },
+    {
+      "id": "te:markets:566901",
+      "time": "2026-07-15 02:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Soars by 5.42% — Top crypto gainers are Ether (5.42%), Bitcoin (3.62%) and Binance (2.34%)."
+    },
+    {
+      "id": "4988406",
+      "time": "2026-07-15 02:30:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲沃什：致力於同時實現通脹和就業目標】美聯儲主席沃什週二表示，他對美聯儲的就業目標與通脹目標同樣重視，自接任主席以來，他一直反覆強調後者。“你們賦予我們的職責中，沒有哪一項是不受重視的，”沃什對眾議院金融服務委員會表示。“物價穩定與充分就業並不是非此即彼的關係。我致力於同時實現這兩專案標。”稍後被問及是否願意採取有針對性的措施，以縮小黑人與白人之間在失業率和就業機會方面的差距時，沃什表示：“美國承受不起讓任何人掉隊的代價。經濟機會對美國未來五年和十年的增長軌跡至關重要，這意味著每一位美國人都需要獲得發揮生產力的機會。”"
+    },
+    {
+      "id": "4988405",
+      "time": "2026-07-15 02:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.77%，報515.90元人民幣/桶。滬金夜盤收漲0.89%，滬銀收漲1.98%。"
+    },
     {
       "id": "te:markets:566900",
       "time": "2026-07-15 02:25:13",
@@ -172241,53 +172342,6 @@
         "國際"
       ],
       "text": "沙特外交部稱，此類襲擊及其引發的一切後果均由伊朗承擔全部責任。"
-    },
-    {
-      "id": "mkt:019f3dda-2655-7aab-8cd4-c061faf82d44",
-      "time": "2026-07-08 02:32:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D closed up 0.24% at 905.0 yuan/gram in Tuesday evening trade on July 7; Silver T+D closed down 0.09% at 14,850 yuan/kg."
-    },
-    {
-      "id": "4974842",
-      "time": "2026-07-08 02:31:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙特外交部表示，該國譴責針對沙特油輪的襲擊事件，呼籲伊朗立即停止一切威脅國際海上航運與全球能源供應的行為。"
-    },
-    {
-      "id": "4974841",
-      "time": "2026-07-08 02:31:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 8月原油期貨收漲1.89美元，漲幅2.76%，報70.44美元/桶。NYMEX 8月天然氣期貨收報3.2650美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9539美元/加侖，NYMEX 8月取暖油期貨收報3.3017美元/加侖。"
-    },
-    {
-      "id": "te:markets:564972",
-      "time": "2026-07-08 02:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: XRP Depreciates by 1.50% — Today's cryptos market is characterized by modest daily movements, with XRP standing out as the frontrunner with a -1.50% decrease."
-    },
-    {
-      "id": "4974840",
-      "time": "2026-07-08 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收漲2.82%，報451.80元人民幣/桶。滬金夜盤收漲0.08%，滬銀收跌0.70%。"
     }
   ]
 }
