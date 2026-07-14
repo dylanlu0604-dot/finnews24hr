@@ -1,7 +1,51 @@
 {
   "date": "2026-07-15",
-  "count": 543,
+  "count": 548,
   "items": [
+    {
+      "id": "mkt:019f627c-e65d-7aab-8d8a-71f9b0c54650",
+      "time": "2026-07-15 05:16:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr news agency reported air-defense systems near Iran's Bushehr nuclear power plant were activated."
+    },
+    {
+      "id": "4988514",
+      "time": "2026-07-15 05:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.48%，報15145點。"
+    },
+    {
+      "id": "te:economy:566909",
+      "time": "2026-07-15 05:13:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Export Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Export Prices Jump in June — South Korea's export prices surged 48.9% year-on-year in June 2026, marking the largest increase since 1998 during the Asian financial crisis. Among the major categories, prices for manufactured goods climbed 48.9%, with computers, electronic and optical equipment soaring 117.4%. Prices also increased for coal and petroleum products (56.1%), basic metal products (34.3%), and chemical products (28.4%). Meanwhile, prices for agricultural, forestry, and marine products rose 40.5%. On a monthly basis, the Export Price Index was unchanged in June. South Korea's net barter terms of trade index, which compares export and import price growth, rose 15.6% year-on-year. The Export Volume Index increased 29.8%, while the Export Value Index surged 74.8%."
+    },
+    {
+      "id": "mkt:019f6279-7abf-7aab-8d8a-6df8245d5736",
+      "time": "2026-07-15 05:12:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian outlet Fars News reports multiple explosions in Bampur and Chabahar; cause unclear."
+    },
+    {
+      "id": "4988513",
+      "time": "2026-07-15 05:12:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "Lionsgate Studio Corp.（LION）美股盤後漲11%。"
+    },
     {
       "id": "4988512",
       "time": "2026-07-15 05:11:53",

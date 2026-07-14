@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-15 05:12:59",
-  "count": 18833,
+  "updated": "2026-07-15 05:16:52",
+  "count": 18828,
   "items": [
+    {
+      "id": "mkt:019f627c-e65d-7aab-8d8a-71f9b0c54650",
+      "time": "2026-07-15 05:16:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr news agency reported air-defense systems near Iran's Bushehr nuclear power plant were activated."
+    },
+    {
+      "id": "4988514",
+      "time": "2026-07-15 05:15:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.48%，報15145點。"
+    },
+    {
+      "id": "te:economy:566909",
+      "time": "2026-07-15 05:13:32",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Export Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Export Prices Jump in June — South Korea's export prices surged 48.9% year-on-year in June 2026, marking the largest increase since 1998 during the Asian financial crisis. Among the major categories, prices for manufactured goods climbed 48.9%, with computers, electronic and optical equipment soaring 117.4%. Prices also increased for coal and petroleum products (56.1%), basic metal products (34.3%), and chemical products (28.4%). Meanwhile, prices for agricultural, forestry, and marine products rose 40.5%. On a monthly basis, the Export Price Index was unchanged in June. South Korea's net barter terms of trade index, which compares export and import price growth, rose 15.6% year-on-year. The Export Volume Index increased 29.8%, while the Export Value Index surged 74.8%."
+    },
+    {
+      "id": "mkt:019f6279-7abf-7aab-8d8a-6df8245d5736",
+      "time": "2026-07-15 05:12:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian outlet Fars News reports multiple explosions in Bampur and Chabahar; cause unclear."
+    },
+    {
+      "id": "4988513",
+      "time": "2026-07-15 05:12:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "Lionsgate Studio Corp.（LION）美股盤後漲11%。"
+    },
     {
       "id": "4988512",
       "time": "2026-07-15 05:11:53",
@@ -172338,101 +172382,6 @@
         "國際"
       ],
       "text": "伊朗國家媒體稱，伊朗南部錫裡克地區聽到七次爆炸聲。"
-    },
-    {
-      "id": "mkt:019f3e70-991d-7aab-8cd6-f850e1efc06f",
-      "time": "2026-07-08 05:16:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said U.S. forces have begun a series of powerful strikes against Iran."
-    },
-    {
-      "id": "4974971",
-      "time": "2026-07-08 05:16:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：此次美國發動打擊，是對伊朗襲擊三艘途經霍爾木茲海峽的商用船隻的回應。"
-    },
-    {
-      "id": "4974970",
-      "time": "2026-07-08 05:16:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部部隊已開始對伊朗發動一系列打擊。"
-    },
-    {
-      "id": "4974969",
-      "time": "2026-07-08 05:16:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：打擊伊朗，令其為針對並襲擊商船付出代價。"
-    },
-    {
-      "id": "4974968",
-      "time": "2026-07-08 05:16:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：美軍已開始對伊朗發起一系列強力打擊。"
-    },
-    {
-      "id": "4974967",
-      "time": "2026-07-08 05:15:59",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "市場資訊：美國已對伊朗發動襲擊。"
-    },
-    {
-      "id": "4974966",
-      "time": "2026-07-08 05:15:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱，週三凌晨西里克市傳來爆炸聲。 目前尚無官方及安全部門證實爆炸的起因。"
-    },
-    {
-      "id": "4974965",
-      "time": "2026-07-08 05:14:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體稱，伊朗南部格什姆島與阿巴斯港均聽到爆炸聲。"
-    },
-    {
-      "id": "mkt:019f3e6e-917a-7aab-8cd6-f1944b26942e",
-      "time": "2026-07-08 05:14:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iranian media reported explosions were heard on southern Qeshm Island and at Bandar Abbas port."
-    },
-    {
-      "id": "mkt:019f3e6e-6ad8-7aab-8cd6-ed1faa76f75c",
-      "time": "2026-07-08 05:14:11",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "Per an SEC filing, Amazon (AMZN.O) priced a $24.25 billion multi‑tranche bond offering, with coupons ranging from 4.6% to 6.25%."
     }
   ]
 }
