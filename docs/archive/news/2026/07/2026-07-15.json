@@ -1,7 +1,77 @@
 {
   "date": "2026-07-15",
-  "count": 712,
+  "count": 720,
   "items": [
+    {
+      "id": "4988635",
+      "time": "2026-07-15 07:44:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今日入伏 全國多地開啟“高溫烘烤”模式】今年三伏天從今天（15日）開啟，至8月23日出伏，全程共計40天，我國將迎來全年最熱的時段。昨天下午，南京氣溫衝上35℃，也是當地今年首個高溫。結合溼度，體感溫度能達到40℃左右。今明兩天，四川盆地到江南、江淮等地仍將有大範圍高溫。由於溼度較大，悶熱感將十分突出，湖北、湖南、浙江、四川、江西、陝西、河南等地部分地區體感溫度將在40℃以上，有的地方炎熱將貫穿全天，大家注意防暑降溫。"
+    },
+    {
+      "id": "4988634",
+      "time": "2026-07-15 07:44:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "訊息人士稱，CoreWeave正探索使用金融衍生品，對沖未來儲存晶片價格下跌的風險。"
+    },
+    {
+      "id": "4988633",
+      "time": "2026-07-15 07:43:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI回應蘋果商業秘密訴訟：訴訟沒有事實依據】OpenAI當地時間7月14日表示，沒有任何證據表明蘋果公司的商業秘密訴訟具有事實依據。OpenAI稱，公司嚴肅對待相關指控，但相信公平競爭和人才自由流動，並將繼續專注於開發自主創新技術。蘋果上週起訴OpenAI，指控其硬體團隊透過招募前蘋果員工獲取涉及AI硬體裝置的商業秘密，並稱部分員工在離職前非法獲取內部工程資料，用於支援OpenAI新一代AI硬體研發。OpenAI曾表示，對其他公司的商業秘密“不感興趣”，將專注於自主研發。"
+    },
+    {
+      "id": "4988632",
+      "time": "2026-07-15 07:43:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：7月電視面板市場供需錯配加劇，價格全線走弱】7月15日，CINNO Research研報指出，進入7月，國內618大促收官後終端品牌開啟去庫存週期，歐美旺季備貨尚未啟動，LCD TV面板短期需求走弱。頭部面板廠預計持續高稼動生產，行業供需錯配矛盾擴大，全尺寸面板價格預計同步小幅下調。"
+    },
+    {
+      "id": "4988631",
+      "time": "2026-07-15 07:42:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股分紅派息轉增一覽：46股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，46只A股今日股權登記。其中，43股擬派息，3股派息、轉增或送股同時實施。分紅派息方面，43只個股分紅派息的股權登記日為7月15日。五糧液、青島啤酒、寧波銀行分紅力度最大，每10股分別派息25.80元、23.50元、9.00元。3股派息、轉增或送股同時實施，股權登記日為7月15日。新亞強、泓博醫藥、華蘭股份分紅力度最大，每10股分別派息3.50元、2.00元、0.50元。"
+    },
+    {
+      "id": "4988630",
+      "time": "2026-07-15 07:42:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【交易新規落地首周投資者諮詢扎堆 證券公司備戰到位】A股交易新規落地，備受市場關注。此次調整涵蓋盤後固定價格交易擴容、ST股漲跌幅限制放寬、基金尾盤競價機制最佳化等核心內容。新規實施首周，各家券商迅速響應，透過系統升級、投教前置、配套改進、員工培訓等多種方式，積極應對新規帶來的交易生態變革，“邊做邊行”不斷最佳化服務內容，提升投資者體驗。證券時報記者調研獲悉，多家券商不約而同認為，“盤後固定價格交易”是目前投資者諮詢最高頻的關鍵詞。廣發證券表示，過去一週，客服中心受理涉及交易新規的諮詢中，投資者集中關注盤後固定價格交易相關問題（如系統的操作選單路徑等）、不同時段的委託規則、撤單規則等具體交易細節。整體而言，由於各家券商普遍在新規落地前一週就已啟動針對性的投教宣傳，因此投資者誤操作的情況雖偶有發生，但均得到了有效應對。"
+    },
+    {
+      "id": "4988629",
+      "time": "2026-07-15 07:41:44",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "中信證券首席經濟學家明明團隊分析認為，本週人民銀行公開市場操作轉向淨投放，同時6個月期買斷式逆回購從上月的等額續作轉向5000億元的大幅淨投放，一方面是對沖近期流動性波動，另一方面也起到了穩定市場信心的作用。7月份央行操作寬鬆力度加大，預計後續MLF和國債買賣等長期流動性工具投放也可能維持相對積極的操作方式。"
+    },
+    {
+      "id": "te:markets:566941",
+      "time": "2026-07-15 07:41:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Firm on Soft US Inflation — Silver traded just below $59 an ounce on Wednesday after gaining nearly 2% in the previous session, as softer-than-expected US inflation data prompted traders to dial back expectations for Federal Reserve interest rates hikes. The annual US inflation rate slowed to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped ease energy-related inflation. Consumer prices also fell 0.4% from the previous month, marking the first monthly decline since 2020. Meanwhile, Fed Chair Kevin Warsh reiterated the central bank’s commitment to restoring price stability during congressional testimony on Tuesday but refrained from signaling a more aggressive policy stance. Markets continue to price in roughly a 50% chance of a Fed rate hike in September, as renewed tensions between the US and Iran lifted oil prices and kept inflation concerns firmly on investors’ radar."
+    },
     {
       "id": "4988628",
       "time": "2026-07-15 07:40:17",
