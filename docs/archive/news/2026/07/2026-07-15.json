@@ -1,7 +1,69 @@
 {
   "date": "2026-07-15",
-  "count": 180,
+  "count": 186,
   "items": [
+    {
+      "id": "4988305",
+      "time": "2026-07-15 00:54:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：關於我偏好達拉斯聯儲截尾均值通脹指標的說法是不正確的。"
+    },
+    {
+      "id": "mkt:019f618c-5c6d-7aab-8d86-06b809d4b550",
+      "time": "2026-07-15 00:53:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "【Incoming UK prime minister faces immediate tests as economy strains and Iran risk rises】Andy Burnham, set to replace Starmer next Monday, will receive a Treasury economic assessment on his first day. The report projects Q4 inflation revised up to 3.2%, says gilt yields and financing costs will continue rising, and anticipates the Bank of England will raise rates at least once more before year-end. It warns that if a US–Iran ceasefire is not quickly restored, international oil could reach $150/bbl, lifting energy, food and jet-fuel prices, pushing up living costs and increasing downside pressure on the UK economy. Officials also cite elevated cyberattack risk from Iran and Russia and imminent policy decisions on Ukraine, Russia sanctions and Strait of Hormuz security as early challenges for the new administration."
+    },
+    {
+      "id": "4988304",
+      "time": "2026-07-15 00:53:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇拉威西海發生6.2級地震 震源深度50公里】中國地震臺網正式測定：7月14日23時49分，在蘇拉威西海（北緯5.30度，東經125.10度）發生6.2級地震，震源深度50公里。"
+    },
+    {
+      "id": "mkt:019f618b-2f70-7aab-8d85-fd6f0b37f078",
+      "time": "2026-07-15 00:52:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraqi prime minister says US forces must withdraw from Iraq by Sept. 30】Iraqi prime minister Zaydi told President Trump at a White House meeting on the 14th that US forces must withdraw from Iraq by Sept. 30 this year."
+    },
+    {
+      "id": "mkt:019f618a-caa1-7aab-8d85-f5fdf38e0428",
+      "time": "2026-07-15 00:51:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed should be responsible and held accountable."
+    },
+    {
+      "id": "4988303",
+      "time": "2026-07-15 00:51:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們應當做到履職盡責、接受問責。"
+    },
     {
       "id": "mkt:019f6189-35dd-7aab-8d85-ec7e73c85dcd",
       "time": "2026-07-15 00:50:09",
