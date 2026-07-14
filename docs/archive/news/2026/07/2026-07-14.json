@@ -1,7 +1,141 @@
 {
   "date": "2026-07-14",
-  "count": 3999,
+  "count": 4013,
   "items": [
+    {
+      "id": "4988044",
+      "time": "2026-07-14 22:42:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "當被問及若特朗普試圖干預美聯儲他會作何應對時，沃什表示將繼續履行自身職責。"
+    },
+    {
+      "id": "4988043",
+      "time": "2026-07-14 22:41:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：致力於實施獨立貨幣政策。"
+    },
+    {
+      "id": "4988042",
+      "time": "2026-07-14 22:41:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：最高法院回答了有關美聯儲獨立性的問題，我在美聯儲的目標是消除政治因素。"
+    },
+    {
+      "id": "mkt:019f6113-448a-7aab-8d81-8a013b1f92ca",
+      "time": "2026-07-14 22:41:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【SK Hynix ADR options open with tilt toward short-dated contracts】Options on SK Hynix ADRs began trading on the U.S. options exchange Tuesday. As of 10:25 a.m. New York time total volume was about 33,000 contracts, with more than two-thirds concentrated in options expiring this Friday. The most active contract was the $185 call (≈2,900 contracts), followed by the $145 put. A $200 call expiring in August also traded heavily (over 1,500 contracts). Daniel Kirsch, head of options at Piper Sandler, said traders are positioning for further near-term upside in the ADR and that demand for short-dated bullish options—especially calls expiring this Friday—is expected to be strong, likely drawing rapid retail participation."
+    },
+    {
+      "id": "mkt:019f6113-1b4b-7aab-8d81-806b1d355872",
+      "time": "2026-07-14 22:41:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China peak power load hits 1.551 billion kW; cross-region transfers rise to 278 GW】China's peak electricity load reached 1.551 billion kilowatts (1,551 GW) on July 14, up from 1.518 billion kW on July 10, the National Energy Administration said. The National Development and Reform Commission and the NEA said the national unified power market supported increased cross‑province/region/grid transfers, with maximum transfers totaling 263 GW on July 10 and 278 GW on July 14. Authorities said nationwide power supply-demand conditions are overall stable."
+    },
+    {
+      "id": "mkt:019f6112-e9f5-7aab-8d81-78cdbe83adc3",
+      "time": "2026-07-14 22:40:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said his goal within the Fed is to prevent political interference."
+    },
+    {
+      "id": "mkt:019f6112-8ee6-7aab-8d81-733aa538e6fa",
+      "time": "2026-07-14 22:40:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the Supreme Court has already answered the question about the Fed’s independence."
+    },
+    {
+      "id": "mkt:019f6112-5e63-7aab-8d81-6984ba1c240d",
+      "time": "2026-07-14 22:40:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said he understands that central banks need to intervene in markets during crises."
+    },
+    {
+      "id": "4988041",
+      "time": "2026-07-14 22:40:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：美聯儲很榮幸能成為一家獨立的中央銀行。我理解在危機時期，央行需要介入市場。"
+    },
+    {
+      "id": "mkt:019f6112-01d4-7aab-8d81-65040d20e372",
+      "time": "2026-07-14 22:39:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed is honored to be an independent central bank."
+    },
+    {
+      "id": "4988040",
+      "time": "2026-07-14 22:39:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：深圳市威兆半導體股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "mkt:019f6110-e5ac-7aab-8d81-5a6159ebe4e5",
+      "time": "2026-07-14 22:38:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to HKEX filings, Shenzhen Weizhao Semiconductor Co., Ltd. has filed a listing application with HKEX."
+    },
+    {
+      "id": "mkt:019f6110-7a8f-7aab-8d81-56b8964aae3b",
+      "time": "2026-07-14 22:38:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed's balance-sheet framework has changed materially."
+    },
     {
       "id": "mkt:019f6110-1ca2-7aab-8d81-4d32a8989298",
       "time": "2026-07-14 22:37:53",
@@ -9,6 +143,15 @@
         "MKT News"
       ],
       "text": "Federal Reserve Chair Kevin Warsh said the Fed must do its job to avoid interference from fiscal policy."
+    },
+    {
+      "id": "4988039",
+      "time": "2026-07-14 22:37:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：美聯儲必須採取強有力的措施，避免財政政策干預。"
     },
     {
       "id": "4988038",
