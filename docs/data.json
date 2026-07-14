@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-15 04:20:18",
-  "count": 18833,
+  "updated": "2026-07-15 04:24:10",
+  "count": 18832,
   "items": [
+    {
+      "id": "4988491",
+      "time": "2026-07-15 04:22:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲負責監管的副主席鮑曼稱不應在AI等問題上“微觀管理”銀行】美聯儲負責監管的副主席米歇爾·鮑曼表示，銀行更瞭解與創新相關的風險，應由其自行決定何時採用人工智慧（AI）等新技術。“何時以及如何創新的決定權在每家銀行及其管理層手中，”鮑曼在為金融包容性會議預先準備的發言中表示，“他們比我們更瞭解自己的客戶、所在社群和風險偏好。”這位美聯儲最高銀行監管官員還表示，美聯儲應當圍繞創新設定明確預期、保持透明，而不是微觀管理個別商業決策。鮑曼發表上述言論之際，高層官員一直在權衡AI平臺快速發展的影響，包括Anthropic PBC新的Mythos AI模型等。"
+    },
+    {
+      "id": "te:markets:566904",
+      "time": "2026-07-15 04:22:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher on Softer US Inflation — The S&P/TSX Composite Index added 0.2% to close at 35,320 on Tuesday following the release of US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with RBC up 1%, TD Bank adding 1.2%, and Brookfield gaining 1.3%. Meanwhile, the BoC is widely expected to keep its key policy rate unchanged at 2.25% on Wednesday. Gold prices advanced, supporting mining stocks. Barrick gained 0.9%, while Franco-Nevada added 0.6%. Meanwhile, energy stocks traded lower after US President Trump abandoned plans to impose a 20% fee on cargo passing through the Strait of Hormuz under US military protection. Canadian Natural lost 1.6%, Suncor shed 1%, and Imperial Oil was down 1.6%."
+    },
+    {
+      "id": "te:markets:566903",
+      "time": "2026-07-15 04:22:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Back on the Rise — Crude oil rose above $79 a barrel on Tuesday after the US military launched additional airstrikes against Iran, as Washington prepared to reimpose a blockade on the country's ports and coastal areas. Early in the session, oil prices softened from session-highs after President Donald Trump abandoned plans to impose a 20% fee on cargo passing through the Strait of Hormuz under US military protection. Trump said the expected revenue would be offset by future investments in the US. “I have decided to replace the 20% United States Reimbursement Fee with Trade and Investment Deals that the various Gulf States will be making into the United States,” Trump posted on social media, a day after announcing the fee. Meanwhile, tensions remained elevated with Iran’s Revolutionary Guard claiming attacks on two oil tankers transiting Hormuz without active tracking signals. The UAE’s ADNOC reported that two vessels were hit while crossing the strait."
+    },
+    {
+      "id": "mkt:019f624a-e594-7aab-8d89-5738105f5d4c",
+      "time": "2026-07-15 04:21:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Channel 12 reports Prime Minister NETANYAHU is expected to visit Washington next week; itinerary remains subject to change."
+    },
+    {
+      "id": "mkt:019f6249-67eb-7aab-8d89-48e6bf7affcf",
+      "time": "2026-07-15 04:20:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. API weekly crude stocks for the week to July 10 due in 10 minutes."
+    },
     {
       "id": "4988490",
       "time": "2026-07-15 04:19:17",
@@ -172328,61 +172381,6 @@
         "MKT News"
       ],
       "text": "Fox News reported U.S. Trade Representative GREER said Canada and Mexico have not fully fulfilled their commitments under the USMCA."
-    },
-    {
-      "id": "4974933",
-      "time": "2026-07-08 04:23:58",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾談及美墨加協定：加拿大與墨西哥並未完全履行全部承諾。"
-    },
-    {
-      "id": "mkt:019f3e3f-b166-7aab-8cd6-20a23e73eb58",
-      "time": "2026-07-08 04:23:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index up 0.17% to 101.023 at New York close on the 7th】The dollar index, which measures the currency against six major peers, rose 0.17% to 101.023 at the New York close. The euro traded at $1.1419, down from $1.1443; the pound at $1.3363, down from $1.3395. The dollar was ¥161.94, below ¥162.06 previously; it traded at 0.8076 Swiss francs, above 0.8050; at C$1.4195, below C$1.4209; and at 9.6784 Swedish krona, above 9.6255."
-    },
-    {
-      "id": "4974932",
-      "time": "2026-07-08 04:22:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚：與第一季度相比，利潤率變動將對第二季度能源產品收益產生20億至24億美元的影響。"
-    },
-    {
-      "id": "4974931",
-      "time": "2026-07-08 04:22:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃克森美孚：預計2026年第二季度油價將為公司帶來37億美元收益增量。"
-    },
-    {
-      "id": "4974930",
-      "time": "2026-07-08 04:22:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃克森美孚：與第一季度相比，利潤率變動將令第二季度化工產品收益減少10億至12億美元。"
-    },
-    {
-      "id": "4974929",
-      "time": "2026-07-08 04:21:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美元指數7日上漲】美元指數7日上漲。衡量美元對六種主要貨幣的美元指數當天上漲0.17%，在匯市尾市收於101.023。截至紐約匯市尾市，1歐元兌換1.1419美元，低於前一交易日的1.1443美元；1英鎊兌換1.3363美元，低於前一交易日的1.3395美元。1美元兌換161.94日元，低於前一交易日的162.06日元；1美元兌換0.8076瑞士法郎，高於前一交易日的0.8050瑞士法郎；1美元兌換1.4195加元，低於前一交易日的1.4209加元；1美元兌換9.6784瑞典克朗，高於前一交易日的9.6255瑞典克朗。"
     }
   ]
 }
