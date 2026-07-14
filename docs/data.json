@@ -1,7 +1,130 @@
 {
-  "updated": "2026-07-14 13:09:13",
+  "updated": "2026-07-14 13:13:13",
   "count": 17565,
   "items": [
+    {
+      "id": "mkt:019f5f0a-34f6-7aab-8d6f-70ec97c6b111",
+      "time": "2026-07-14 13:12:12",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish",
+        "SKHY.O"
+      ],
+      "text": "Seoul-listed SK Hynix shares are up more than 3%; its ADR (SKHY.O) is up over 6% in overnight trading."
+    },
+    {
+      "id": "4986110",
+      "time": "2026-07-14 13:12:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3.00%，現報3835.379點；上證指數漲0.61%，現報3937.697點；深證成指漲2.05%，現報14819.998點。"
+    },
+    {
+      "id": "4986109",
+      "time": "2026-07-14 13:11:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨剛剛突破15000.00關口，最新報15001.00，日內漲1.39%。"
+    },
+    {
+      "id": "mkt:019f5f09-8085-7aab-8d6f-6805e3ce9601",
+      "time": "2026-07-14 13:11:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A‑shares extended afternoon gains: Shenzhen Composite Index up 2.00%, ChiNext Index up 2.87%, China's Shanghai Composite Index up 0.58%."
+    },
+    {
+      "id": "mkt:019f5f09-7efd-7aab-8d6f-65ffbb11137d",
+      "time": "2026-07-14 13:11:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI climbed over 1% intraday, with SK Hynix up 2.9% and Samsung Electronics up 4%."
+    },
+    {
+      "id": "4986108",
+      "time": "2026-07-14 13:11:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報14813.365點；上證指數漲0.57%，現報3936.060點；創業板指漲2.88%，現報3830.780點。"
+    },
+    {
+      "id": "4986107",
+      "time": "2026-07-14 13:10:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4030美元/盎司，日內漲0.61%。"
+    },
+    {
+      "id": "4986106",
+      "time": "2026-07-14 13:10:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥概念午後異動拉昇，迪哲醫藥20cm漲停】創新藥概念午後異動拉昇，迪哲醫藥直線拉昇封20cm漲停，此前哈藥股份3連板，辰欣藥業、甘李藥業、歐林生物、賽倫生物跟漲。"
+    },
+    {
+      "id": "4986105",
+      "time": "2026-07-14 13:10:05",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【《重複使用運載火箭科研專案指南（第三批）》已正式釋出】記者從國家航天局系統工程司獲悉，《關於印發重複使用運載火箭科研專案指南（第三批）的通知》已正式釋出。各類企業、事業單位可按相應渠道查閱申報要求和指南內容，積極申報。"
+    },
+    {
+      "id": "mkt:019f5f08-0a33-7aab-8d6f-5d9b49f33f1e",
+      "time": "2026-07-14 13:09:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The Systems Engineering Department of the China National Space Administration has formally issued the Guidelines for Reusable Launch Vehicle Research Projects (third batch)."
+    },
+    {
+      "id": "mkt:019f5f07-29af-7aab-8d6f-53f5862f49dc",
+      "time": "2026-07-14 13:08:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share PCB sector rallied in afternoon trade; Shengyi Technology and Guanghe Technology hit limit-up, while Dingtai Hi‑Tech, Jiayuan Technology and Huazheng New Materials gained."
+    },
+    {
+      "id": "mkt:019f5f07-1531-7aab-8d6f-4a5fd6029df7",
+      "time": "2026-07-14 13:08:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A fire broke out at the Afipsky oil refinery in Russia's Krasnodar region following a drone attack."
+    },
     {
       "id": "mkt:019f5f06-a2e6-7aab-8d6f-43a6956ff370",
       "time": "2026-07-14 13:08:18",
@@ -160630,124 +160753,6 @@
         "市場"
       ],
       "text": "鎧俠股價跌幅擴大，最新下跌12%。"
-    },
-    {
-      "id": "4973527",
-      "time": "2026-07-07 13:13:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破63000美元，日內跌1.74%。"
-    },
-    {
-      "id": "mkt:019f3afe-4ae6-7aab-8cc3-8e635149079f",
-      "time": "2026-07-07 13:12:51",
-      "tags": [
-        "MKT News",
-        "1368.HK",
-        "Impact bearish"
-      ],
-      "text": "【Daiwa cuts Xtep PT to HKD3.9, downgrades to Hold】Daiwa said channel checks show sporting-goods retail sales value (RSV) slowed QoQ in Q2 and monthly volatility rose, reducing Xtep’s (1368.HK) near-term predictability. The bank flagged that a core-brand transformation will disrupt wholesale channels and require upfront investment, likely diluting near-term revenue and margins; Saucony can sustain high growth but Xtep’s core brand faces slowing growth and intensifying competition. Daiwa trims EPS forecasts by about 12%, lowers its PT to HKD3.9 from HKD5.2 and downgrades the stock to Hold from Outperform."
-    },
-    {
-      "id": "4973526",
-      "time": "2026-07-07 13:11:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）在熔斷機制解除後恢復交易。"
-    },
-    {
-      "id": "4973524",
-      "time": "2026-07-07 13:11:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拼多多雄安公司員工已超1200人，成為新區員工規模最大的民營企業】7月7日訊息，拼多多雄安公司員工數量已突破1200人，成為新區員工規模最大的民營企業。拼多多相關負責人表示，集團初步計劃將雄安公司打造為資料處理服務中心和傳統製造業高質量發展中心，未來一年的員工規模將達到5000人，推動更多的優秀人才深入參與到雄安新區的建設中。"
-    },
-    {
-      "id": "mkt:019f3afc-963f-7aab-8cc3-80c3d6b6a4aa",
-      "time": "2026-07-07 13:10:59",
-      "tags": [
-        "MKT News",
-        "9984.T",
-        "Impact bearish"
-      ],
-      "text": "SoftBank Group shares pared earlier gains and were down 4%."
-    },
-    {
-      "id": "mkt:019f3afc-1a6d-7aab-8cc3-7886e83a6c4f",
-      "time": "2026-07-07 13:10:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's TOPIX fell 1%."
-    },
-    {
-      "id": "4973523",
-      "time": "2026-07-07 13:10:15",
-      "tags": [],
-      "text": "A股三大股指午後持續下挫，創業板指跌2％，深證成指跌1.9％，滬指跌1.5％。"
-    },
-    {
-      "id": "mkt:019f3afb-dec3-7aab-8cc3-710ee86bcdb2",
-      "time": "2026-07-07 13:10:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share storage-chip sector weakened in afternoon trade; Beijing Junzheng fell more than 10%, with Puran Co., Demingli, Jiangbolong, Shannon Xinchuang and Baiwei Storage among the largest decliners."
-    },
-    {
-      "id": "4973522",
-      "time": "2026-07-07 13:09:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "軟銀集團股價回吐早盤漲幅，最新下跌4%。"
-    },
-    {
-      "id": "mkt:019f3afb-6a5d-7aab-8cc3-6d1d2b51d8af",
-      "time": "2026-07-07 13:09:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "A-shares extended losses in afternoon trade; ChiNext down 2%, Shenzhen Composite down 1.9% and Shanghai Composite down 1.5%."
-    },
-    {
-      "id": "4973521",
-      "time": "2026-07-07 13:09:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.00%，現報3869.743點；上證指數跌1.53%，現報3979.414點；深證成指跌1.92%，現報15120.729點。"
-    },
-    {
-      "id": "4973520",
-      "time": "2026-07-07 13:09:16",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：機器人和自動駕駛汽車或成為下一個AI贏家】摩根資產管理全球市場策略師Raisah Rasid在一場吹風會上表示，機器人和自動駕駛汽車概念股可能成為人工智慧(AI)交易的下一個贏家。”AI是一個將長期存在的主題，”Rasid說。“大規模採用的速度真的非常非常快，尤其是在生成式AI方面。“她補充說，隨著與AI相關的贏家從超大規模雲服務提供商向外擴充套件，盈利增長（尤其是硬體領域的盈利增長）一直在推動主要市場的回報。不過她表示，韓國綜合指數在上半年實現的三位數百分比回報率不太可能在下半年重演，而是可能會有所放緩，因為企業不太可能維持其在硬體方面的強勁定價權。"
     }
   ]
 }

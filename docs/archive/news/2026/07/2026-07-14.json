@@ -1,7 +1,130 @@
 {
   "date": "2026-07-14",
-  "count": 1467,
+  "count": 1479,
   "items": [
+    {
+      "id": "mkt:019f5f0a-34f6-7aab-8d6f-70ec97c6b111",
+      "time": "2026-07-14 13:12:12",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish",
+        "SKHY.O"
+      ],
+      "text": "Seoul-listed SK Hynix shares are up more than 3%; its ADR (SKHY.O) is up over 6% in overnight trading."
+    },
+    {
+      "id": "4986110",
+      "time": "2026-07-14 13:12:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3.00%，現報3835.379點；上證指數漲0.61%，現報3937.697點；深證成指漲2.05%，現報14819.998點。"
+    },
+    {
+      "id": "4986109",
+      "time": "2026-07-14 13:11:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨剛剛突破15000.00關口，最新報15001.00，日內漲1.39%。"
+    },
+    {
+      "id": "mkt:019f5f09-8085-7aab-8d6f-6805e3ce9601",
+      "time": "2026-07-14 13:11:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A‑shares extended afternoon gains: Shenzhen Composite Index up 2.00%, ChiNext Index up 2.87%, China's Shanghai Composite Index up 0.58%."
+    },
+    {
+      "id": "mkt:019f5f09-7efd-7aab-8d6f-65ffbb11137d",
+      "time": "2026-07-14 13:11:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI climbed over 1% intraday, with SK Hynix up 2.9% and Samsung Electronics up 4%."
+    },
+    {
+      "id": "4986108",
+      "time": "2026-07-14 13:11:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.00%，現報14813.365點；上證指數漲0.57%，現報3936.060點；創業板指漲2.88%，現報3830.780點。"
+    },
+    {
+      "id": "4986107",
+      "time": "2026-07-14 13:10:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4030美元/盎司，日內漲0.61%。"
+    },
+    {
+      "id": "4986106",
+      "time": "2026-07-14 13:10:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥概念午後異動拉昇，迪哲醫藥20cm漲停】創新藥概念午後異動拉昇，迪哲醫藥直線拉昇封20cm漲停，此前哈藥股份3連板，辰欣藥業、甘李藥業、歐林生物、賽倫生物跟漲。"
+    },
+    {
+      "id": "4986105",
+      "time": "2026-07-14 13:10:05",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【《重複使用運載火箭科研專案指南（第三批）》已正式釋出】記者從國家航天局系統工程司獲悉，《關於印發重複使用運載火箭科研專案指南（第三批）的通知》已正式釋出。各類企業、事業單位可按相應渠道查閱申報要求和指南內容，積極申報。"
+    },
+    {
+      "id": "mkt:019f5f08-0a33-7aab-8d6f-5d9b49f33f1e",
+      "time": "2026-07-14 13:09:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The Systems Engineering Department of the China National Space Administration has formally issued the Guidelines for Reusable Launch Vehicle Research Projects (third batch)."
+    },
+    {
+      "id": "mkt:019f5f07-29af-7aab-8d6f-53f5862f49dc",
+      "time": "2026-07-14 13:08:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share PCB sector rallied in afternoon trade; Shengyi Technology and Guanghe Technology hit limit-up, while Dingtai Hi‑Tech, Jiayuan Technology and Huazheng New Materials gained."
+    },
+    {
+      "id": "mkt:019f5f07-1531-7aab-8d6f-4a5fd6029df7",
+      "time": "2026-07-14 13:08:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A fire broke out at the Afipsky oil refinery in Russia's Krasnodar region following a drone attack."
+    },
     {
       "id": "mkt:019f5f06-a2e6-7aab-8d6f-43a6956ff370",
       "time": "2026-07-14 13:08:18",
