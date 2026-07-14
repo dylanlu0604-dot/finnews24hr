@@ -1,7 +1,181 @@
 {
   "date": "2026-07-15",
-  "count": 161,
+  "count": 180,
   "items": [
+    {
+      "id": "mkt:019f6189-35dd-7aab-8d85-ec7e73c85dcd",
+      "time": "2026-07-15 00:50:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Chicago Fed President Goolsbee, a 2027 FOMC voting member, will participate in a fireside chat in ten minutes."
+    },
+    {
+      "id": "mkt:019f6189-16ab-7aab-8d85-e138989df9a8",
+      "time": "2026-07-15 00:50:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Governor Barr said there is little evidence so far that artificial intelligence has broadly caused job losses."
+    },
+    {
+      "id": "4988302",
+      "time": "2026-07-15 00:49:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：伊朗或被新增到可能透過的對俄製裁法案中】美國總統特朗普表示，與伊朗相關的處罰措施可能會被新增到國會正在制定、且得到白宮支援的俄羅斯制裁法案中。特朗普補充說，該法案有可能成為法律。"
+    },
+    {
+      "id": "mkt:019f6188-b28d-7aab-8d85-da80703ff1af",
+      "time": "2026-07-15 00:49:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Governor BARR said if most firms and their workers cannot adequately access ongoing AI resources, productivity growth will slow."
+    },
+    {
+      "id": "4988301",
+      "time": "2026-07-15 00:49:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUCID股價迅速下跌，跌幅高達5.8%。"
+    },
+    {
+      "id": "mkt:019f6187-efe6-7aab-8d85-d4eefd60c617",
+      "time": "2026-07-15 00:48:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed should maintain transparency on the rationale for its policy decisions."
+    },
+    {
+      "id": "4988300",
+      "time": "2026-07-15 00:48:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們應當公開決策的理據，保證透明度。"
+    },
+    {
+      "id": "4988299",
+      "time": "2026-07-15 00:48:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通敦促員工慎用高價AI處理簡單任務，企業高管開始憂心成本】隨著可供金融業使用的人工智慧（AI）工具不斷增多，摩根大通正在嘗試更有策略地決定何時使用更為成熟、也更為昂貴的模型。“總結一份分析師報告，真的不需要最新、最前沿且極其昂貴的模型，”摩根大通首席財務官Jeremy Barnum週二在該公司釋出第二季度業績後舉行的分析師電話會上表示。“因此，思路就是為合適的用途使用合適的模型。”"
+    },
+    {
+      "id": "4988298",
+      "time": "2026-07-15 00:47:42",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：絕大多數企業及其員工若難以獲取持續迭代升級的人工智慧資源，其生產率增長速度將會放緩。"
+    },
+    {
+      "id": "4988297",
+      "time": "2026-07-15 00:47:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲發言理應具備分量。"
+    },
+    {
+      "id": "mkt:019f6186-bcf5-7aab-8d85-cfe275b44fda",
+      "time": "2026-07-15 00:47:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's communications should carry influence."
+    },
+    {
+      "id": "4988296",
+      "time": "2026-07-15 00:47:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：人工智慧有望大幅提振生產效率，對低技能、從業經驗不足的勞動者尤為明顯。"
+    },
+    {
+      "id": "4988295",
+      "time": "2026-07-15 00:46:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：人工智慧未來帶來的影響仍存在不確定性，它既可能縮小、也可能擴大收入與財富差距。"
+    },
+    {
+      "id": "mkt:019f6186-38e6-7aab-8d85-c79b8bcde504",
+      "time": "2026-07-15 00:46:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "【Fed Chair Kevin Warsh: Committed to fulfilling both inf and employment mandates】Fed Chair Kevin Warsh told the House Financial Services Committee he places equal weight on the Fed’s employment and inf goals, reiterating he has emphasized the latter since taking office. He said the Fed does not favor one part of its mandate over the other and that price stability and full employment are not mutually exclusive; he is committed to achieving both. When asked about targeted measures to narrow Black-white unemployment and opportunity gaps, Warsh said the U.S. must not leave anyone behind and that broad economic opportunity is critical to growth over the next five to 10 years, meaning every American needs the chance to be productive."
+    },
+    {
+      "id": "mkt:019f6186-32ee-7aab-8d85-bf9f8756e33a",
+      "time": "2026-07-15 00:46:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said payment systems must be sufficiently resilient."
+    },
+    {
+      "id": "4988294",
+      "time": "2026-07-15 00:46:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：目前幾乎沒有證據表明人工智慧已大規模造成崗位流失。"
+    },
+    {
+      "id": "mkt:019f6185-ebd2-7aab-8d85-b19237edeb08",
+      "time": "2026-07-15 00:46:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Governor Barr said AI has the potential to significantly boost productivity, particularly benefiting low-skilled and inexperienced workers."
+    },
+    {
+      "id": "4988293",
+      "time": "2026-07-15 00:46:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們所支援的支付體系必須不偏不倚，且具備抵禦衝擊的能力。"
+    },
+    {
+      "id": "4988292",
+      "time": "2026-07-15 00:46:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們所支援的支付系統必須具備韌性。"
+    },
     {
       "id": "4988291",
       "time": "2026-07-15 00:45:05",
