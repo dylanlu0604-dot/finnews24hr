@@ -1,7 +1,158 @@
 {
   "date": "2026-07-14",
-  "count": 1479,
+  "count": 1494,
   "items": [
+    {
+      "id": "mkt:019f5f0d-ff99-7aab-8d6f-b57735bb3e41",
+      "time": "2026-07-14 13:16:20",
+      "tags": [
+        "MKT News",
+        "006400.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung SDI AI-dedicated battery passes UL fire-safety test】Samsung SDI said on Tuesday its battery system for uninterruptible power supplies (UPS) passed fire-safety testing by global safety certifier UL Solutions. The approval may strengthen Samsung SDI’s position in the expanding AI data center market; UPS units provide immediate backup during outages or voltage instability and are critical to continuous operation of AI facilities."
+    },
+    {
+      "id": "4986115",
+      "time": "2026-07-14 13:16:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【土耳其擬加入加拿大牽頭的防務銀行】一名土耳其官員13日告訴路透社，土方已通報加拿大，將作為創始成員加入加方牽頭籌建的一家多邊防務融資銀行。加拿大總理卡尼7日在土耳其首都安卡拉舉行的北約峰會期間發表宣告說，加拿大、阿爾巴尼亞、比利時、希臘、拉脫維亞、盧森堡、羅馬尼亞、土耳其、烏克蘭等9國有意共同建立“防務、安全與韌性銀行”。宣告說，各方將共同推進籌建該行，預期最早於2027年投入運營。不過，截至11日，土耳其國防部訊息人士仍表示，土方“正在評估”是否正式參與該計劃。這家擬議中的多邊銀行總部將設在加拿大，旨在擴大防務融資渠道、減少融資成本，以資助成員國擴大國防工業產能。相關方案仍有待各參與國批准方能確認。（新華社）"
+    },
+    {
+      "id": "mkt:019f5f0d-5782-7aab-8d6f-af78b181b498",
+      "time": "2026-07-14 13:15:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【South Korea finance ministry: chipmakers, shipbuilders selling dollars heavily in forwards market】South Korea's finance ministry said on Tuesday that heavy dollar sales by major chipmakers and shipbuilders in the forwards market have improved conditions in the foreign-exchange market. The ministry said that, supported by a record trade surplus and other strong fundamentals, it expects a structural shift in FX supply-demand conditions in H2. The won rose 0.75% to 1,486.30 per dollar on Tuesday, its strongest level since May 12."
+    },
+    {
+      "id": "te:markets:566660",
+      "time": "2026-07-14 13:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Increases by 0.74% — Top currency gainers are New Zealand Dollar (0.74%), South Korean Won (0.55%), Norwegian Krone (0.31%), Euro (0.10%), British Pound (0.10%) and Japanese Yen (0.08%). Biggest losers are Indian Rupee (-0.39%) and Dollar Index (-0.12%)."
+    },
+    {
+      "id": "te:markets:566659",
+      "time": "2026-07-14 13:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Rebounds on Firmer Energy Prices, Export Strength — Malaysian palm oil futures climbed almost 1% to above MYR 4,550 per tonne, recovering from recent losses as a weaker ringgit and firmer edible oil markets in Dalian and Chicago markets lifted sentiment. Gains were further supported by a rally in oil prices on concerns over potential disruptions to energy flows through the Strait of Hormuz. Exports also improved, with cargo surveyors noting July 1–10 shipments rose 1.6%–5.1% from June. In top supplier Indonesia, rising biodiesel mandates to B50 are expected to boost domestic consumption. However, upside was capped by news that EU imports of palm oil derivatives will be subject to the bloc's anti-deforestation rules from Dec 2027, while June data showed Malaysian inventories grew 4.8% mom as production rose 8.1% on seasonal output. In India, imports fell to a 14-month low in June amid weak demand and narrowing discounts to rival oils. Traders stayed cautious ahead of China’s Q2 GDP prints after solid June trade data from the major buyer."
+    },
+    {
+      "id": "mkt:019f5f0c-8018-7aab-8d6f-a150b76f1c2d",
+      "time": "2026-07-14 13:14:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Local officials said drone wreckage fell in an industrial area in Salavat, Republic of Bashkortostan, Russia."
+    },
+    {
+      "id": "mkt:019f5f0c-4454-7aab-8d6f-9cd1f001b16a",
+      "time": "2026-07-14 13:14:27",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "TME.O",
+        "Impact bullish"
+      ],
+      "text": "【Huace Film & TV, Tencent Music sign strategic partnership to develop \"film+music\" cross‑sector model】Huace Film & TV and Tencent Music Entertainment (TME) agreed a deep strategic partnership to explore a \"film+music\" cross‑sector model. Collaboration will cover audiovisual co‑creation, mutual artist development, joint marketing and IP derivative projects to deepen industry‑chain value extraction. The partners plan to produce bespoke music content and events to boost film project reach and memorability and to establish dual‑track \"film+music\" development channels for artists."
+    },
+    {
+      "id": "mkt:019f5f0c-3cbe-7aab-8d6f-92c4a558572d",
+      "time": "2026-07-14 13:14:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Xinyisheng rose 10.05% intraday to 564.00 yuan."
+    },
+    {
+      "id": "mkt:019f5f0b-a480-7aab-8d6f-8af3b55315d9",
+      "time": "2026-07-14 13:13:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chongqing issues first red high-temperature warning; daytime highs to reach 40-42°C】Chongqing issued its first red high-temperature warning of the year this morning, forecasting that between 13:00 and 20:00 today daily maximum temperatures will reach 40–42°C across 31 districts and counties — including Yuzhong, Shapingba, Dadukou, Jiulongpo, Nan'an, Liangjiang New Area and the High-tech Zone — and 37–40°C in seven districts including Wansheng Economic Development Zone, Nanchuan, Wulong, Chengkou, Shizhu, Qianjiang and Xiushan."
+    },
+    {
+      "id": "mkt:019f5f0b-9690-7aab-8d6f-855e4b9166b3",
+      "time": "2026-07-14 13:13:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "ChiNext rose more than 3%, Shanghai Composite rose 0.61%, Shenzhen Component rose 2.05%; over 4,100 stocks advanced across the market."
+    },
+    {
+      "id": "4986114",
+      "time": "2026-07-14 13:13:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "新易盛盤中漲10.05%，現報564.00元。"
+    },
+    {
+      "id": "4986113",
+      "time": "2026-07-14 13:13:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華策影視與騰訊音樂達成深度戰略合作 探索“影視+音樂”跨界聯動新模式】據華策影視訊息，近日，華策影視與騰訊音樂娛樂集團達成深度戰略合作。未來，雙方將在影音共創、雙方藝人賦能、宣發聯動、IP衍生開發等多個維度展開深度合作，共同探索IP全產業鏈價值深挖；共同為影視專案打造兼具傳播度與記憶點的專屬音樂內容和活動。同時，雙方也將打通藝人“影視+音樂”雙棲發展通道，探索更多元的跨界聯動創新模式。"
+    },
+    {
+      "id": "4986112",
+      "time": "2026-07-14 13:13:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士（韓股）現漲超3%，SK海力士ADR(SKHY.O)夜盤漲超6%。"
+    },
+    {
+      "id": "4986111",
+      "time": "2026-07-14 13:12:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念區域性回暖 行雲科技20cm漲停】午後算力租賃概念區域性回暖，行雲科技20cm漲停，艾布魯漲超10%，凱添燃氣、電光科技、高樂股份、朗源股份、長信科技跟漲。"
+    },
+    {
+      "id": "mkt:019f5f0a-d5d2-7aab-8d6f-7e2fbe929525",
+      "time": "2026-07-14 13:12:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share innovative drugs sector jumped in afternoon trade; Dizhe Pharmaceutical rallied straight to and was locked at the 20% limit-up. Harbin Pharmaceutical posted a third consecutive limit-up earlier. Chenxin Pharmaceutical, Gan & Lee Pharmaceuticals, Olin Biotech and Sailun Biotech also gained."
+    },
     {
       "id": "mkt:019f5f0a-34f6-7aab-8d6f-70ec97c6b111",
       "time": "2026-07-14 13:12:12",
