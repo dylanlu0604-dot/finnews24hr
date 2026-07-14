@@ -1,7 +1,42 @@
 {
   "date": "2026-07-15",
-  "count": 366,
+  "count": 370,
   "items": [
+    {
+      "id": "4988425",
+      "time": "2026-07-15 02:48:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：打擊了位於巴林和科威特境內的敵方武器及零部件存放設施。"
+    },
+    {
+      "id": "4988424",
+      "time": "2026-07-15 02:48:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：戰時必須控制整個霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f61f4-dfe9-7aab-8d87-dd97b7bcc32f",
+      "time": "2026-07-15 02:47:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said that so long as what it called the US's \"evil actions\" in the region persist, there will be no oil or gas exported from the region."
+    },
+    {
+      "id": "4988423",
+      "time": "2026-07-15 02:47:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國力推伊拉克—敘利亞輸油管道專案，意在削弱伊朗對霍爾木茲海峽的掌控力。"
+    },
     {
       "id": "4988422",
       "time": "2026-07-15 02:47:10",
