@@ -1,7 +1,175 @@
 {
   "date": "2026-07-14",
-  "count": 842,
+  "count": 859,
   "items": [
+    {
+      "id": "4985677",
+      "time": "2026-07-14 09:30:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "澳大利亞6月NAB商業景氣指數 3，前值3。澳大利亞6月NAB商業信心指數 -5，前值-14。"
+    },
+    {
+      "id": "mkt:019f5e3e-e571-7aab-8d68-3a908a983704",
+      "time": "2026-07-14 09:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June NAB business confidence index 3, unchanged from prior 3."
+    },
+    {
+      "id": "mkt:019f5e3e-df47-7aab-8d68-31dba2bd43a3",
+      "time": "2026-07-14 09:30:06",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia June NAB business confidence index -5, prior -14."
+    },
+    {
+      "id": "4985676",
+      "time": "2026-07-14 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.40%， 滬深300指數期貨連續漲0.25%， 中證500指數期貨連續漲0.30%， 上證50指數期貨連續漲0.16%。"
+    },
+    {
+      "id": "4985675",
+      "time": "2026-07-14 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.17%， 10年期主力合約跌0.03%， 5年期主力合約跌0.03%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "mkt:019f5e3e-c6f9-7aab-8d68-2a4653aacbf2",
+      "time": "2026-07-14 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business Confidence Index (Jun) | actual -5 | previous -14"
+    },
+    {
+      "id": "mkt:019f5e3e-c6c8-7aab-8d68-20c55c13493a",
+      "time": "2026-07-14 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | NAB Business conditions Index (Jun) | actual 3 | previous 3"
+    },
+    {
+      "id": "mkt:019f5e3e-c1ca-7aab-8d68-1e5fce697af4",
+      "time": "2026-07-14 09:29:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen early‑July secondary‑home signings +20% YoY, near six‑year high】Beike Research monitoring showed July 1–12 signed contracts at Beike’s Shenzhen partner second‑hand stores rose 20% YoY, the strongest for the period in nearly six years. Contrary to the normal July seasonal slowdown, transaction volumes have climbed as genuine owner‑occupier demand continues to be released. The institute cites two main drivers: sustained benefit from the April 29 housing measures that are unlocking backlog first‑time and replacement demand, and continued strength in high‑end/luxury sales, which through expectations, replacement chains and regional spillovers is lifting overall second‑hand market activity."
+    },
+    {
+      "id": "4985674",
+      "time": "2026-07-14 09:29:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月上旬淡季不淡，深圳二手房成交創近六年新高】7月上旬深圳二手房成交依然保持增長，各類購房需求穩步釋放。深圳貝殼研究院監測資料顯示：7月1-12日貝殼深圳合作門店二手房簽約量較去年同期增長20%，創下近6年同期新高。據深圳貝殼研究院監測，往年7月受高溫多雨天氣、小孩暑假出遊、置業者觀望情緒影響，樓市通常迎來階段性降溫，但今年深圳二手房市場走出明顯“淡季不淡”的逆勢行情，成交規模穩步上行，真實自住需求保持穩定釋放態勢。該研究院分析認為，行情回暖主要源於兩大支撐：其一，“429新政”紅利持續發酵，前期積壓的首次購房、置換改善需求有序釋放；另一方面，高階豪宅持續熱銷，從市場預期、置換鏈條、區域熱度傳導等多個層面拉動整體二手房市場回暖，成為本輪成交熱度走高的重要助推力量。（羊城派）"
+    },
+    {
+      "id": "4985673",
+      "time": "2026-07-14 09:29:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【深交所：“宜化轉債”盤中臨時停牌 於14時57分00秒復牌】深交所釋出公告，“宜化轉債”（127114）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
+    },
+    {
+      "id": "4985672",
+      "time": "2026-07-14 09:29:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.02%。宜化轉債、鴻路轉債、愛科轉債、天源轉債、惠城轉債漲幅居前，分別漲30.00%、4.26%、4.04%、3.02%、3.00%。水羊轉債、赫達轉債、頎中轉債、岱美轉債、杭氧轉債跌幅居前，分別跌4.36%、2.10%、2.03%、1.28%、1.25%。"
+    },
+    {
+      "id": "4985671",
+      "time": "2026-07-14 09:29:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣開採及服務板塊高開，科力股份漲超8%】油氣開採及服務板塊高開，科力股份漲超8%，通源石油、中曼石油、首華燃氣紛紛高開。"
+    },
+    {
+      "id": "4985670",
+      "time": "2026-07-14 09:28:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "軟銀CEO孫正義：詢問人工智慧是否是泡沫“極其愚蠢”。"
+    },
+    {
+      "id": "mkt:019f5e3c-c242-7aab-8d68-12793433c437",
+      "time": "2026-07-14 09:27:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【IRGC says it attacked and destroyed two foreign oil tankers near Strait of Hormuz】On the 14th, Iran’s Islamic Revolutionary Guard Corps (IRGC) public relations office said two foreign oil tankers near the Strait of Hormuz ignored repeated Iranian navigation warnings, entered relevant waters illegally and switched off their navigation systems, posing a serious threat to navigation safety. The IRGC navy, citing applicable laws and regulations, said it took necessary measures and lawfully dealt with the vessels; the two tankers were attacked and destroyed. Iran said security and openness of the Strait of Hormuz are vital to global energy supplies, that it will continue to lawfully safeguard normal passage and respond firmly to any illegal acts that threaten regional security. Relevant Iranian authorities have launched an investigation and will release further information in due course."
+    },
+    {
+      "id": "4985669",
+      "time": "2026-07-14 09:27:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗伊斯蘭革命衛隊稱攻擊並摧毀兩艘“違規船隻”】當地時間14日，據伊朗伊斯蘭革命衛隊公共關係部稱，兩艘外國油輪在霍爾木茲海峽附近無視伊朗方面多次航行警告，非法進入相關水域，並關閉導航系統，嚴重危及航行安全。伊朗伊斯蘭革命衛隊海軍依據相關法律法規，採取必要措施，依法對上述“違規船隻”予以處置，目前該兩艘油輪遭到攻擊並被摧毀。伊朗同時表示，霍爾木茲海峽的安全與暢通對全球能源供應至關重要，伊方將繼續依法保障海峽正常通航，同時堅決應對任何威脅地區安全的非法行為。對於此次事件的具體情況，伊朗有關部門已展開進一步調查，並將適時公佈更多資訊。"
+    },
+    {
+      "id": "mkt:019f5e3c-8b33-7aab-8d68-089e6aefb57b",
+      "time": "2026-07-14 09:27:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "On July 14, China’s Shanghai Composite opened down 4.52 points (-0.12%) at 3,909.27; Shenzhen Composite opened up 9.51 points (+0.07%) at 14,532.36. The CSI 300 opened down 4.26 points (-0.09%) at 4,691.12; ChiNext opened up 6.10 points (+0.16%) at 3,729.61; STAR 50 opened up 0.12 points (+0.01%) at 1,994.44."
+    },
+    {
+      "id": "mkt:019f5e3c-1d57-7aab-8d68-066cbadfbd7c",
+      "time": "2026-07-14 09:27:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Analysts: Trump's 20% Strait of Hormuz transit fee could double shipping costs】President Trump said on Monday the US will charge a 20% fee on all goods transiting the Strait of Hormuz to recoup the cost of US military protection. Shipping operators and logistics experts say such a levy would sharply raise transport costs for oil and other cargoes, though some analysts doubt it will be implemented because of the high expense. Trump gave no calculation method for the 20% fee; if levied on cargo value it could more than double oil transport costs. ING senior economist Rico Luman estimates current tanker freight from the Gulf to Europe at about $10/bbl; with oil near $80/bbl, a 20% value fee would add roughly $16/bbl, lifting transport costs toward $26/bbl. For a 2m-barrel cargo, that would increase costs by more than $30m."
+    },
     {
       "id": "4985668",
       "time": "2026-07-14 09:25:58",
