@@ -1,7 +1,98 @@
 {
   "date": "2026-07-15",
-  "count": 216,
+  "count": 225,
   "items": [
+    {
+      "id": "4988328",
+      "time": "2026-07-15 01:04:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase官網發宣告稱，已知悉部分使用者在coinbase.com平臺交易多類產品時出現交易效能下降的問題。"
+    },
+    {
+      "id": "mkt:019f6196-201c-7aab-8d86-8cd73a0682fc",
+      "time": "2026-07-15 01:04:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Axios reports President Trump asked Israeli Prime Minister Netanyahu to withdraw Israeli forces from Syria and Lebanon."
+    },
+    {
+      "id": "mkt:019f6195-f05d-7aab-8d86-8335a2c9a1af",
+      "time": "2026-07-15 01:04:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "【Key takeaways from Fed Chair Kevin Warsh's House testimony】Warsh said today's CPI does not mean \"mission accomplished\" and the Fed will firmly support a 2% inflation target; the Fed has \"zero tolerance\" for high inflation, expects more limited inflation upticks, will review its inflation framework and plans to eliminate tax provisions with inflationary effects. On the balance sheet, any policy shift would be signaled well in advance to markets; the Fed can begin seriously considering when to resume purchases of Treasury securities. If challenged by Trump, he said he will \"fulfill his duties\" and seeks to insulate the Fed from political interference. Long term, AI implies substantial productivity gains and is broadly positive for the economy, but he warned against complacency. On employment, price stability and full employment are not mutually exclusive and he is committed to achieving both."
+    },
+    {
+      "id": "mkt:019f6195-caa6-7aab-8d86-7ca9af9421b1",
+      "time": "2026-07-15 01:03:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media said the explosion in Andimeshk was a controlled demolition and not the result of an enemy attack."
+    },
+    {
+      "id": "4988327",
+      "time": "2026-07-15 01:03:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特境內再度傳來爆炸聲。"
+    },
+    {
+      "id": "4988326",
+      "time": "2026-07-15 01:03:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普要求內塔尼亞胡將部隊撤出敘利亞與黎巴嫩。"
+    },
+    {
+      "id": "4988325",
+      "time": "2026-07-15 01:03:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍駐科威特基地再度遭到導彈與無人機襲擊，現場可聽見爆炸聲。"
+    },
+    {
+      "id": "4988324",
+      "time": "2026-07-15 01:02:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：安迪梅什克傳出的爆炸聲為“受控爆破所致，並非敵方襲擊”。"
+    },
+    {
+      "id": "mkt:019f6194-76c4-7aab-8d86-74f4ea567701",
+      "time": "2026-07-15 01:02:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh's hearing has concluded."
+    },
     {
       "id": "mkt:019f6193-d9da-7aab-8d86-6cb3e8c86e23",
       "time": "2026-07-15 01:01:47",
