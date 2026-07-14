@@ -1,7 +1,249 @@
 {
   "date": "2026-07-14",
-  "count": 4026,
+  "count": 4048,
   "items": [
+    {
+      "id": "mkt:019f611b-92a5-7aab-8d81-feb4a91da751",
+      "time": "2026-07-14 22:50:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the central bank still has work to do on inflation."
+    },
+    {
+      "id": "mkt:019f611b-1220-7aab-8d81-f0efdc98eec9",
+      "time": "2026-07-14 22:49:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed's dual mandate is not in conflict."
+    },
+    {
+      "id": "4988063",
+      "time": "2026-07-14 22:49:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：通脹方面仍有一些工作要做。"
+    },
+    {
+      "id": "4988062",
+      "time": "2026-07-14 22:49:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息:俄羅斯從哈薩克拜科努爾航天發射場將一名美國宇航員和兩名俄羅斯宇航員送往國際空間站，執行為期八個月的任務。"
+    },
+    {
+      "id": "mkt:019f611a-ba8e-7aab-8d81-ead0d778d6a1",
+      "time": "2026-07-14 22:49:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "Fed Chair Kevin Warsh said the labor market appears to be in a relatively good balance."
+    },
+    {
+      "id": "mkt:019f611a-aeed-7aab-8d81-e570970d8427",
+      "time": "2026-07-14 22:49:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "AZN.O",
+        "Impact bullish"
+      ],
+      "text": "【Jiangsu party chief Xin Changxing and governor Liu Xiaotao meet AstraZeneca delegation】On July 14 in Nanjing, Jiangsu Party Secretary Xin Changxing and Governor Liu Xiaotao met AstraZeneca global executive vice president and head of international business Yin Sirui. Following the meeting, AstraZeneca and Dizhe Pharmaceuticals signed an exclusive licensing agreement for Shuwozhe (Shuwotini), a novel oral, irreversible EGFR inhibitor for treating lung cancer."
+    },
+    {
+      "id": "4988061",
+      "time": "2026-07-14 22:49:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：美聯儲雙重使命之間並不衝突。"
+    },
+    {
+      "id": "4988060",
+      "time": "2026-07-14 22:49:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯從拜科努爾發射場發射載人飛船。"
+    },
+    {
+      "id": "mkt:019f611a-54cd-7aab-8d81-dfa54810c710",
+      "time": "2026-07-14 22:49:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "HKEX filings show Jinan Jianbang Metal Materials Co., Ltd. has filed for a Hong Kong listing."
+    },
+    {
+      "id": "mkt:019f611a-3305-7aab-8d81-d3a0e8a2f8c4",
+      "time": "2026-07-14 22:48:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said nominal wage growth remains robust."
+    },
+    {
+      "id": "4988059",
+      "time": "2026-07-14 22:48:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：名義工資增長穩健。"
+    },
+    {
+      "id": "mkt:019f6119-ee79-7aab-8d81-cb636e9b8a45",
+      "time": "2026-07-14 22:48:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the labor market has shown marked resilience."
+    },
+    {
+      "id": "4988058",
+      "time": "2026-07-14 22:48:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：遏制通脹將推動美債長端收益率下行，房貸成本隨之降低。"
+    },
+    {
+      "id": "mkt:019f6119-d7ca-7aab-8d81-c5c7cbc6133c",
+      "time": "2026-07-14 22:48:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed is not afraid of productivity-driven economic growth."
+    },
+    {
+      "id": "4988057",
+      "time": "2026-07-14 22:48:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：勞動力市場表現出了驚人的韌性。"
+    },
+    {
+      "id": "4988056",
+      "time": "2026-07-14 22:47:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
+    },
+    {
+      "id": "4988055",
+      "time": "2026-07-14 22:47:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列透過法律，暫停逮捕逃避兵役的哈雷迪教徒。"
+    },
+    {
+      "id": "mkt:019f6118-a656-7aab-8d81-bfbc8b7fc759",
+      "time": "2026-07-14 22:47:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Timiraos: June CPI helps Fed chair Walsh ahead of congressional testimony】Nick Timiraos said June CPI gave Fed chair Kevin Walsh room entering a two-day congressional testimony, his first Hill appearance since April confirmation. Softer-than-expected inflation allows Walsh to stick to his written testimony, avoid fresh forward guidance and protect FOMC consensus without being boxed in. Timiraos notes Walsh favors responding to data rather than pre-feeding markets; he can endure lengthy questioning while using prepared language on tariffs, AI investment and whether policy remains restrictive — stressing price stability — which reduces the likelihood the hearings produce new market-moving policy signals."
+    },
+    {
+      "id": "te:markets:566865",
+      "time": "2026-07-14 22:47:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "GlaxoSmithKline Stock Price Hits 4-week Low — GlaxoSmithKline shares decreased to 1906.00 GBp, the lowest since June 2026. Over the past 4 weeks, GlaxoSmithKline lost 2.6%, and in the last 12 months, it increased 35.97%."
+    },
+    {
+      "id": "mkt:019f6118-63a2-7aab-8d81-b335c076767e",
+      "time": "2026-07-14 22:46:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh: Price stability is consistent with lower long-term yields."
+    },
+    {
+      "id": "4988054",
+      "time": "2026-07-14 22:46:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：30年期抵押貸款利率因通脹而高企。"
+    },
+    {
+      "id": "4988053",
+      "time": "2026-07-14 22:46:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：物價穩定對應長期收益率走低。"
+    },
     {
       "id": "mkt:019f6117-af50-7aab-8d81-aeda5d424a36",
       "time": "2026-07-14 22:46:09",
