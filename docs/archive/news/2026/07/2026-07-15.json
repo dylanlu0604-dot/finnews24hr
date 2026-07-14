@@ -1,7 +1,25 @@
 {
   "date": "2026-07-15",
-  "count": 282,
+  "count": 284,
   "items": [
+    {
+      "id": "4988369",
+      "time": "2026-07-15 01:45:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "LUCID恢復交易，跌幅擴大至55%。"
+    },
+    {
+      "id": "mkt:019f61ba-cafb-7aab-8d87-16d1ed5431ad",
+      "time": "2026-07-15 01:44:19",
+      "tags": [
+        "MKT News",
+        "LCID.O",
+        "Impact bearish"
+      ],
+      "text": "Lucid Group (LCID.O) shares plunged 49% after reports the company is evaluating possible privatization or bankruptcy restructuring."
+    },
     {
       "id": "4988368",
       "time": "2026-07-15 01:41:03",

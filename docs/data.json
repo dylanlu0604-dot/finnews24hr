@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-15 01:42:47",
+  "updated": "2026-07-15 01:46:47",
   "count": 18801,
   "items": [
+    {
+      "id": "4988369",
+      "time": "2026-07-15 01:45:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "LUCID恢復交易，跌幅擴大至55%。"
+    },
+    {
+      "id": "mkt:019f61ba-cafb-7aab-8d87-16d1ed5431ad",
+      "time": "2026-07-15 01:44:19",
+      "tags": [
+        "MKT News",
+        "LCID.O",
+        "Impact bearish"
+      ],
+      "text": "Lucid Group (LCID.O) shares plunged 49% after reports the company is evaluating possible privatization or bankruptcy restructuring."
+    },
     {
       "id": "4988368",
       "time": "2026-07-15 01:41:03",
@@ -172047,22 +172065,6 @@
         "MKT News"
       ],
       "text": "Qatar's foreign ministry said it reserves the right under international law to take measures it deems appropriate to protect its interests."
-    },
-    {
-      "id": "mkt:019f3daf-4271-7aab-8cd4-3adb695e2018",
-      "time": "2026-07-08 01:45:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Incoming Panama Canal Authority administrator says there are currently no plans to reduce vessel transits."
-    },
-    {
-      "id": "4974829",
-      "time": "2026-07-08 01:43:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴拿馬運河新任管理局長：受降雨量影響，2027 年夏季新巴拿馬船閘允許船舶通行的最大吃水深度或將下調至 44。運河目前暫不考慮削減船舶通行班次。"
     }
   ]
 }
