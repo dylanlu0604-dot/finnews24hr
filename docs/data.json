@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-15 07:24:07",
-  "count": 18768,
+  "updated": "2026-07-15 07:28:02",
+  "count": 18766,
   "items": [
+    {
+      "id": "te:markets:566929",
+      "time": "2026-07-15 07:26:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Extends Gains on Threat of More US Strikes — Crude oil climbed toward $80 per barrel on Wednesday, advancing for a third consecutive session after President Donald Trump threatened additional military strikes on Iran after reinstating a US blockade against Tehran in the Strait of Hormuz. Trump said military operations would continue and warned that the US could target Iranian power plants and bridges next week unless Tehran returns to the negotiating table. Meanwhile, he dropped plans to impose a 20% fee on cargo transiting the Strait of Hormuz, saying any forgone revenue would be more than compensated by future investments from Gulf nations into the US. Oil prices have rallied this week as renewed tensions between Washington and Tehran heightened supply concerns, adding fresh uncertainty after Persian Gulf producers increased exports following the signing of the interim peace agreement."
+    },
+    {
+      "id": "mkt:019f62f3-bad9-7aab-8d8b-b2ea4160612b",
+      "time": "2026-07-15 07:26:07",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Mercer: S&P 1500 corporate pension funded status drops to 109% in June】Mercer said the estimated funded status of pension plans sponsored by S&P 1500 companies fell 1 percentage point in June to 109% following US equity declines. Mercer estimates the aggregate surplus fell $7.0 bln to $139.0 bln at end-June from $146.0 bln at end-May. Mercer partner Matt McDaniel said strong May nonfarm payrolls increased market bets on Fed hikes later this year, weighing on equities in early June."
+    },
+    {
+      "id": "4988609",
+      "time": "2026-07-15 07:26:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗打擊科威特 力度為6月襲擊機場以來最大】在最近一輪針對科威特的襲擊中，四名科威特海軍人員受傷。隨著美國重新封鎖伊朗港口和沿海地區，地區緊張局勢升級，科威特仍然是伊朗的主要打擊目標。科威特國防部稱，此次襲擊使用了5枚巡航導彈、1枚彈道導彈以及33架無人機。這是自上個月該國國際機場第二次遭到襲擊以來，單日使用彈藥數量和傷亡人數最多的一次。當時機場遭襲造成1人死亡，60餘人受傷。軍方稱，週二的襲擊主要針對一些“重要的”和民用機構，但未提供更多細節。軍方表示，碎片散落在不同地點，造成破壞；一艘科威特海軍艦艇遭到襲擊，導致4名國防人員受傷。科威特是戰爭期間該地區受打擊最嚴重的國家之一，其軍事基地、煉油廠和科威特石油公司總部、機場和其他關鍵基礎設施多次遭到襲擊。"
+    },
+    {
+      "id": "4988608",
+      "time": "2026-07-15 07:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "勁方醫藥：根據一般授權配售新H股，H股配售價每股34.69港元。"
+    },
+    {
+      "id": "4988607",
+      "time": "2026-07-15 07:25:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗向位於約旦的美軍基地發動報復性襲擊】據伊朗國家電視臺15日凌晨報道，伊朗武裝部隊向位於約旦的美軍基地發動報復性無人機襲擊。（新華社）"
+    },
+    {
+      "id": "4988606",
+      "time": "2026-07-15 07:24:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【最高超900% 光通訊企業上半年業績普遍預增】受益於算力需求激增，國內外新型光纖光纜產品量價齊升，相關公司上半年業績普遍大幅預增。7月14日，多家光通訊企業披露上半年業績大幅增長預告。長飛光纖公告，預計公司2026年上半年淨利潤為24億元—30億元，同比增長711%—914%。東山精密7月14日晚披露，預計2026年上半年淨利潤29億元—30億元，同比增長282.58%—295.78%。"
+    },
+    {
+      "id": "4988605",
+      "time": "2026-07-15 07:23:46",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【監管發聲提振信心 流動性階段性改善 港股配置價值持續攀升】從央行行長潘功勝發聲為香港資本市場的發展注入更多動能，到南向資金7月以來加速入市，近期內外部一系列積極因素的出現形成了推動港股反彈的合力。Wind資料顯示，截至7月14日收盤，恒生指數、恒生中國企業指數、恒生科技指數自6月29日以來均反彈逾7%。在業內人士看來，港股目前處於補漲視窗期，指數大幅下行的空間相對有限，且市場流動性有望在7月中下旬至9月中旬迎來階段性改善，不過考慮到市場對地緣政治等因素尚未形成一致的正面訊號，因此港股短期仍可能維持區間震盪和結構分化態勢；配置上，建議避免追漲短期漲幅較大的板塊，中長期可關注具備真實訂單和業績兌現能力的行業和板塊。（中國證券報）"
+    },
     {
       "id": "4988604",
       "time": "2026-07-15 07:22:42",
@@ -171750,91 +171813,6 @@
         "公司"
       ],
       "text": "【高溫熱浪催生多維降溫剛需 清涼經濟擴容升級】入夏以來，全國大範圍高溫天氣持續出現，民生消暑、工業生產、算力散熱等多層次降溫需求集中爆發，重塑傳統夏日消費格局。高溫天氣不僅帶動家用商用製冷裝置海內外訂單走高，啟用傳統清涼消費旺季行情，更推動全社會用電負荷屢創歷史新高，電力保供剛需持續釋放，同時倒逼AI資料中心加速液冷技術迭代落地。分析人士指出，從民用家電產銷兩旺、電力產業鏈穩供增效，到數字基建熱管理賽道擴容，清涼經濟正擺脫單一季節性屬性，實現向實體產業、數字經濟的全域延伸與業態升級。上市公司正搶抓結構性風口，在傳統賽道提質增效、新興賽道搶先佈局，全方位開啟夏日經濟增長新空間。（中國證券報）"
-    },
-    {
-      "id": "te:markets:564996",
-      "time": "2026-07-08 07:26:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Jumps on Fresh US Strikes Against Iran — Brent surged above $76 per barrel on Wednesday and was up more than about 6% so far this week, after the US military carried out fresh air strikes in Iran and revoked a waiver that had allowed the country to sell crude on global markets. The actions followed a series of recent attacks on vessels transiting the Strait of Hormuz, including a Qatari LNG carrier and a Saudi oil tanker. The renewed conflict has put the interim US-Iran peace agreement at risk and raised the prospect of fresh disruptions to global energy supplies by deterring shipowners and regional producers from using the vital waterway. The escalation marks a sharp reversal from earlier expectations of a supply glut, after OPEC+ increased production quotas and Middle Eastern producers moved to ramp up output."
-    },
-    {
-      "id": "4975116",
-      "time": "2026-07-08 07:26:22",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中泰證券：科技行情尚未走完 情緒修復後仍是最重要的主線】中泰證券研報表示，7月中報業績預告披露、海外大廠財報披露等視窗期到來，預計權益市場階段性機會有望增多並帶動賺錢效應改善，結構上科技主線內部的擴散與非科技方向的底部修復有望並行。中泰證券認為，科技行情尚未走完，多資產團隊在最新報告中提到，將主要雲廠商資本開支與科技硬體總市值進行擬合，英偉達等美國核心科技股的定價與資本開支依然高度吻合，情緒修復後科技仍是最重要的主線。"
-    },
-    {
-      "id": "4975115",
-      "time": "2026-07-08 07:26:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉臨時總統德爾茜·羅德里格斯任命卡利斯托·奧爾特加·桑切斯出任委內瑞拉銀行行長。"
-    },
-    {
-      "id": "4975114",
-      "time": "2026-07-08 07:26:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【行業景氣度持續回暖 多家化工企業上半年業績預喜】受益於全球能源價格傳導、國內行業供需格局最佳化、企業產業鏈佈局完善及內部降本增效等多重因素共振，今年上半年化工行業整體盈利中樞顯著上移，煉化—化纖、新能源化工、高階精細化工等多個細分賽道龍頭企業盈利表現突出。據記者不完全統計，截至7月7日發稿，已有20餘家化工行業上市公司披露2026年上半年業績預告，其中18家公司歸母淨利潤預計同比增幅上限突破100%，佔比超過八成。恆逸石化、東方盛虹兩家企業上半年淨利潤預增上限超過10倍。（上海證券報）"
-    },
-    {
-      "id": "te:markets:564995",
-      "time": "2026-07-08 07:25:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Jumps on Fresh US Strikes Against Iran — Crude oil surged above $72 per barrel on Wednesday and was up more than 5% so far this week, after the US military carried out fresh air strikes in Iran and revoked a waiver that had allowed the country to sell crude on global markets. The actions followed a series of recent attacks on vessels transiting the Strait of Hormuz, including a Qatari LNG carrier and a Saudi oil tanker. The renewed conflict has put the interim US-Iran peace agreement at risk and raised the prospect of fresh disruptions to global energy supplies by deterring shipowners and regional producers from using the vital waterway. The escalation marks a sharp reversal from earlier expectations of a supply glut, after OPEC+ increased production quotas and Middle Eastern producers moved to ramp up output."
-    },
-    {
-      "id": "mkt:019f3ee6-a5a6-7aab-8cd8-9eb77180a49a",
-      "time": "2026-07-08 07:25:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WMT.N",
-        "Impact mixed"
-      ],
-      "text": "The Wall Street Journal reports the USDA informed the White House of Walmart's (WMT.N) planned price cuts. On Monday Trump tweeted this was the result of government pressure. Minutes later Walmart announced it would cut prices on thousands of items to help consumers."
-    },
-    {
-      "id": "4975113",
-      "time": "2026-07-08 07:24:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【環球時報社評：拿中國導彈說事，北約有些“幼稚”】北約在安卡拉峰會前炒作“中國導彈威脅”，這種強行“加戲”的行為有些幼稚，也很可悲。無中生有出“中國威脅”，是北約證明自身存在必要性的算計，也是其為向亞太滲透尋找藉口。太平洋足夠大，容得下各國的共同發展，但決不允許一個冷戰的幽靈興風作浪。 北約秘書長呂特近日強行給自己“加戲”。在北約峰會召開前夕，他竟就中國7月6日進行的潛射戰略導彈試射宣稱，“不能對中國抱有天真的幻想”。一次不針對任何特定國家和目標的例行軍事訓練，被強行納入北約的“中國威脅論”敘事框架，呂特“入戲”之深讓人不禁質疑：究竟是中國“威脅”到了北約，還是北約需要無中生有出“中國威脅”來證明自身存在的必要性？"
-    },
-    {
-      "id": "mkt:019f3ee6-00be-7aab-8cd8-93edaadb351e",
-      "time": "2026-07-08 07:24:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Wall Street Journal reported that days before the July 4 Independence Day holiday the chief of staff to U.S. Agriculture Secretary Rollins contacted several food retailers to ask about beef retail pricing ahead of the holiday weekend. In a USDA call with Walmart, the retailer said it planned summer price cuts across multiple items, including beef."
-    },
-    {
-      "id": "4975112",
-      "time": "2026-07-08 07:24:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲能需求爆發 鋰電池產業鏈半年報預喜】近日，藏格礦業、雅化集團、聯泓新科等多家鋰電池相關上市公司釋出2026年半年度業績預告，多數實現淨利潤同比翻倍式增長。鋰電池產業鏈上半年業績全線飄紅，主要得益於碳酸鋰價格同比大幅上漲。資料顯示，今年5月份，廣期所碳酸鋰期貨一度衝上20萬元/噸，此後雖然有所回落，但二季度均價仍達到17.7萬元/噸，高於一季度均價，且相比去年同期大幅上漲。在碳酸鋰帶動下，鋰電上下游材料均出現價格走高，包括電解液、正極材料等，隔膜和銅鋁箔加工費等也小幅上漲。碳酸鋰價格大幅走高，主要得益於儲能需求爆發。資料顯示，2026年一季度，我國儲能鋰電池出貨225GWh，同比增長139%，儲能鋰電池佔比顯著提升至42.86%。其中出口貢獻了較大增量，海關資料顯示，今年一季度，作為儲能、新能源汽車核心零部件的鋰離子蓄電池出口同比大增超50%。華西證券表示，全球動儲發展共振，帶動鋰電池需求持續向上，供需格局趨於緊張的背景下，各個環節價格和盈利能力有望不斷修復。隨著後續旺季的到來，鋰電預計需求可能再上臺階，各環節出貨量以及價格有望實現雙升，帶動業績實現明確增長。"
     }
   ]
 }
