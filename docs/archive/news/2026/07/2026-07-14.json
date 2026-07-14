@@ -1,7 +1,220 @@
 {
   "date": "2026-07-14",
-  "count": 3975,
+  "count": 3999,
   "items": [
+    {
+      "id": "mkt:019f6110-1ca2-7aab-8d81-4d32a8989298",
+      "time": "2026-07-14 22:37:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed must do its job to avoid interference from fiscal policy."
+    },
+    {
+      "id": "4988038",
+      "time": "2026-07-14 22:37:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國原油價格短暫回落，WTI原油價格接近每桶79美元。"
+    },
+    {
+      "id": "mkt:019f610f-df76-7aab-8d81-46ee40fb4a1a",
+      "time": "2026-07-14 22:37:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said any changes to balance-sheet policy will be given advance notice."
+    },
+    {
+      "id": "4988037",
+      "time": "2026-07-14 22:37:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：資產負債表絕非僅是體系搭建問題。"
+    },
+    {
+      "id": "mkt:019f610f-a746-7aab-8d81-3ee527652462",
+      "time": "2026-07-14 22:37:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said the balance sheet is part of monetary policy."
+    },
+    {
+      "id": "4988036",
+      "time": "2026-07-14 22:37:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什談及專項工作組：我已要求各專項工作組迴歸第一性原則開展工作。"
+    },
+    {
+      "id": "4988035",
+      "time": "2026-07-14 22:36:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "英雄摩托公司批准對ATHER ENERGY投資高達100億盧比。"
+    },
+    {
+      "id": "mkt:019f610f-09de-7aab-8d81-3101f9d9b5ae",
+      "time": "2026-07-14 22:36:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he has tasked working groups with returning to first principles."
+    },
+    {
+      "id": "4988034",
+      "time": "2026-07-14 22:36:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：部分工作組的邊界將會重疊。"
+    },
+    {
+      "id": "mkt:019f610e-c276-7aab-8d81-2b369304fe96",
+      "time": "2026-07-14 22:36:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the boundaries of some working groups will overlap."
+    },
+    {
+      "id": "mkt:019f610e-9641-7aab-8d81-254490a16fd9",
+      "time": "2026-07-14 22:36:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he will hold public discussions and is willing to regularly share results and his thinking."
+    },
+    {
+      "id": "4988033",
+      "time": "2026-07-14 22:36:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：將定期分享工作組的想法。"
+    },
+    {
+      "id": "4988032",
+      "time": "2026-07-14 22:36:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：工作組的任何資訊都不會保密。"
+    },
+    {
+      "id": "4988031",
+      "time": "2026-07-14 22:35:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "墨西哥主要股指漲幅擴大至1.35%。"
+    },
+    {
+      "id": "mkt:019f610e-0ee5-7aab-8d81-19e633300392",
+      "time": "2026-07-14 22:35:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said an external working group will first share its findings with policymakers."
+    },
+    {
+      "id": "mkt:019f610e-0d1a-7aab-8d81-12564ec71c22",
+      "time": "2026-07-14 22:35:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's main stock index extended gains to 1.35%."
+    },
+    {
+      "id": "4988030",
+      "time": "2026-07-14 22:35:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：各特別工作組將先與19位政策制定者交換意見。"
+    },
+    {
+      "id": "4988029",
+      "time": "2026-07-14 22:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行首席財務官預計未來還將進一步裁員。"
+    },
+    {
+      "id": "mkt:019f610d-72a3-7aab-8d81-0d824cae1801",
+      "time": "2026-07-14 22:34:58",
+      "tags": [
+        "MKT News",
+        "WFC.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo CFO says the bank expects further job cuts ahead."
+    },
+    {
+      "id": "4988028",
+      "time": "2026-07-14 22:34:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：目前各專項工作組正處於調研摸底階段。"
+    },
+    {
+      "id": "mkt:019f610d-0b55-7aab-8d81-02fbc989f575",
+      "time": "2026-07-14 22:34:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said several working groups he established are currently in an investigative stage."
+    },
+    {
+      "id": "4988027",
+      "time": "2026-07-14 22:34:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交平臺上宣揚美日貿易和投資協議。"
+    },
+    {
+      "id": "4988026",
+      "time": "2026-07-14 22:34:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲5%，現報1315.80美元/盎司。"
+    },
+    {
+      "id": "te:markets:566861",
+      "time": "2026-07-14 22:34:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on Softer US Inflation Data — The S&P/TSX Composite Index rose 0.5% to trade near 35,500 on Tuesday following the release of US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with RBC, TD Bank, BMO, and CIBC each gaining nearly 1%. Meanwhile, the BoC is widely expected to keep its key policy rate unchanged at 2.25% on Wednesday. In contrast, oil prices rose on renewed concerns over crude shipments through the Strait of Hormuz amid the escalating US-Iran conflict, fueling worries about higher energy costs. Gold prices also advanced, supporting mining stocks. Agnico Eagle, Franco-Nevada, and WPM gained more than 2%, while Barrick added over 2.5%."
+    },
     {
       "id": "mkt:019f610b-e0c2-7aab-8d80-fc9c88a20af6",
       "time": "2026-07-14 22:33:16",
