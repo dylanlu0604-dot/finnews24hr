@@ -1,7 +1,212 @@
 {
   "date": "2026-07-14",
-  "count": 1848,
+  "count": 1868,
   "items": [
+    {
+      "id": "mkt:019f5f7e-c5f7-7aab-8d73-a7915f1a078e",
+      "time": "2026-07-14 15:19:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RUSSIAN CENBANK deputy governor said the bank can, through \"carefully calibrated\" monetary policy, ensure inf returns to target by 2027."
+    },
+    {
+      "id": "mkt:019f5f7e-8085-7aab-8d73-9dea8b3d840b",
+      "time": "2026-07-14 15:19:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "BofA Fund Manager Survey: fund managers raised US equity allocations to the largest overweight since December 2024."
+    },
+    {
+      "id": "mkt:019f5f7e-2f56-7aab-8d73-97132e72df6f",
+      "time": "2026-07-14 15:18:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "BofA fund manager survey: fund managers cut their end-2026 oil price forecast to $71 from $86 in June."
+    },
+    {
+      "id": "mkt:019f5f7d-ee75-7aab-8d73-8a14d93251ca",
+      "time": "2026-07-14 15:18:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Bank of America fund manager survey: 83% of respondents expect the Fed will not raise rates before the U.S. midterm elections in November."
+    },
+    {
+      "id": "4986363",
+      "time": "2026-07-14 15:18:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海未來產業基金擬參與投資2只子基金】7月14日，上海未來產業基金公示，投資決策委員會近期審議透過擬參與投資以下2只子基金：上海海聚英才一期創業投資合夥企業（有限合夥）、深圳君聯君智創業投資基金合夥企業（有限合夥）。"
+    },
+    {
+      "id": "4986362",
+      "time": "2026-07-14 15:18:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行基金經理調查（FMS）顯示，61%的投資者預計人工智慧超大規模企業今年不會削減資本支出，僅28%的投資者預計其會削減資本支出。"
+    },
+    {
+      "id": "4986361",
+      "time": "2026-07-14 15:17:59",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "美銀全球基金經理調查（FMS）顯示：基金經理已將美股配置上調至2024年12月以來最高超配水平。"
+    },
+    {
+      "id": "4986360",
+      "time": "2026-07-14 15:17:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球基金經理調查（FMS）顯示：82%的投資者認為做多全球半導體是當前全球最擁擠的交易，投資者在7月削減了對科技股的多頭頭寸，但無人做空半導體板塊。"
+    },
+    {
+      "id": "4986359",
+      "time": "2026-07-14 15:17:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球基金經理調查顯示：創紀錄的54%的基金經理預計全球經濟將“不著陸”，僅2%認為會出現硬著陸。"
+    },
+    {
+      "id": "4986358",
+      "time": "2026-07-14 15:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀全球基金經理調查顯示：基金經理將2026年末油價預測從6月的每桶86美元下調至71美元。"
+    },
+    {
+      "id": "4986357",
+      "time": "2026-07-14 15:17:46",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國銀行基金經理調查顯示：83%的投資者預計美聯儲不會在美國11月中期選舉前加息。"
+    },
+    {
+      "id": "4986356",
+      "time": "2026-07-14 15:17:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀基金經理調查：現金比例降至3.6%的“優步級低位”（此前為4.1%），觸發了美銀現金規則的賣出訊號。"
+    },
+    {
+      "id": "4986355",
+      "time": "2026-07-14 15:17:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國銀行7月基金經理調查：受宏觀經濟“繁榮”樂觀情緒、AI資本支出、美聯儲政策轉向鴿派推動，全球投資者信心創2月以來新高。"
+    },
+    {
+      "id": "te:markets:566726",
+      "time": "2026-07-14 15:17:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Rebound Amid Strong Trade Data — The Hang Seng Index rose 0.6%, or 145 points, to 24,354 on Tuesday, rebounding from morning losses as investors digested stronger-than-expected China trade data. June exports and imports both exceeded forecasts, pointing to resilient external demand. Sentiment was also supported by optimism over Hong Kong's IPO pipeline, though gains remained capped by geopolitical tensions and elevated oil prices. Shein stayed in focus after Executive Chairman Donald Tang stepped down ahead of its planned Hong Kong IPO, with founder and CEO Sky Xu assuming the chairman role. While the change is not expected to derail the listing, investors are watching corporate governance developments closely. Attention now turns to China's second-quarter GDP and other key economic data due on Wednesday. Among the top gainers were Kingboard Laminates (13.7%), China Hongqiao (7.1%), Kuaishou (2.8%), Shanghai Iluvatar CoreX (1.6%), and Meituan (1.4%)."
+    },
+    {
+      "id": "4986354",
+      "time": "2026-07-14 15:17:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【塞力斯市值蒸發1000億】7月13日，其掌舵的賽力斯，A股股價大跌10%，市值未能守住1000億元關口，較年初蒸發超1000億元。一天前，這家重慶車企發出公告，預計上半年淨虧損15億元-18億元。張興海為首的董事會，給出兩個理由：原材料漲價、計提資產減值。 “收入端，整車廠缺乏對終端消費者的議價權，無法透過新品提價轉嫁成本；成本端，儲存晶片、碳酸鋰等核心原材料價格成倍上漲，單車成本急劇攀升。”記者以投資者身份致電賽力斯，對方表示，兩頭擠壓之下，毛利率下滑，業績承壓。（21財經）"
+    },
+    {
+      "id": "mkt:019f5f7c-667e-7aab-8d73-83143a8fd6a5",
+      "time": "2026-07-14 15:16:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "【China bond futures midday close】2-year (TS) most-active contract flat; 5-year (TF) +0.01%; 10-year (T) flat; 30-year (TL) +0.04%."
+    },
+    {
+      "id": "mkt:019f5f7c-4b1a-7aab-8d73-79dfffbd5519",
+      "time": "2026-07-14 15:16:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Strait of Hormuz transit volumes plunge】KPLER data show a sharp slowdown in vessel transits through the Strait of Hormuz. From July 1-10, after a memorandum of understanding was reached, confirmed transits of bulk-commodity vessels totaled 296, about 30 per day. From July 11-13 confirmed transits fell to 32, roughly 11 per day. KPLER recorded only 12 confirmed transits between July 12-13 as of the evening of July 13."
+    },
+    {
+      "id": "te:markets:566725",
+      "time": "2026-07-14 15:16:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.34% Higher — The Shangai Composite Index rose 52 points or 1.34 percent on Tuesday to close at 3966 points. Leading the gains are Aluminum Corporation of China (8.26%), China Molybdenum (6.46%) and Zijin Mining (5.88%)."
+    },
+    {
+      "id": "mkt:019f5f7b-a648-7aab-8d73-7537085da050",
+      "time": "2026-07-14 15:16:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Japan & APAC",
+        "CSI300",
+        "Impact bullish",
+        "S&P500",
+        "005930.KS"
+      ],
+      "text": "【A50 surges; Asia stocks rally after Korea stabilisation move and big A‑share ETF buying】Asia stocks rallied in the afternoon: FTSE China A50 jumped, South Korea's KOSPI staged a deep-V rebound from earlier >5% losses to gain over 1% while Samsung Electronics rose about 4%; Japan turned positive and US equity futures flipped higher. Market participants cited two catalysts: South Korea's market-stabilisation actions — likely the primary driver — and large-scale buying of A‑share ETFs. Data from Xingzheng JinGong showed July 13 net inflows into core mainland ETFs of roughly CNY 8.49 bln to a CSI 300 ETF, CNY 7.35 bln to a CSI 500 ETF and CNY 11.92 bln to a CSI 1000 ETF, suggesting sizable investor buying interest at current levels."
+    },
+    {
+      "id": "4986353",
+      "time": "2026-07-14 15:15:59",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【午後A50直線飆漲 亞太集體拉昇 兩大利好突襲】今日下午開盤後，韓國KOSPI指數上演“深V”反彈，持續拉昇，一度漲超1%，此前一度跌超5%，三星電子漲超4%。日本股指亦跟隨轉漲，A50更是直線拉昇，外圍美股期指亦翻紅。分析人士認為，兩則利好訊息，刺激了這波上漲：一是韓國穩市，二是A股ETF再現大手筆買入。從市場聯動的結構來看，韓國政府的動作可能是主要原因。從A股的角度來看，來自興證金工的資料顯示，7月13日三大指數的核心ETF出現較大規模淨流入，其中，滬深300ETF流入84.93億元；中證500ETF流入73.52億元；中證1000ETF大幅增加119.23億元。這可能意味著，當下這個點位也是大資金認可的點位。（券商中國）"
+    },
     {
       "id": "4986352",
       "time": "2026-07-14 15:15:34",
