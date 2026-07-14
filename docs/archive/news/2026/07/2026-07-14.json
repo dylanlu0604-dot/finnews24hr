@@ -1,7 +1,95 @@
 {
   "date": "2026-07-14",
-  "count": 4241,
+  "count": 4251,
   "items": [
+    {
+      "id": "4988195",
+      "time": "2026-07-14 23:59:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們將堅決遏制通脹擴散蔓延。"
+    },
+    {
+      "id": "4988194",
+      "time": "2026-07-14 23:59:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（與伊拉克）石油合作伙伴關係是在過去短時間內形成的。"
+    },
+    {
+      "id": "4988193",
+      "time": "2026-07-14 23:59:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊拉克擁有巨大的潛在財富。"
+    },
+    {
+      "id": "4988192",
+      "time": "2026-07-14 23:59:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊拉克擁有巨大的石油儲量和潛力。"
+    },
+    {
+      "id": "4988191",
+      "time": "2026-07-14 23:59:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗格什姆島政府辦公室：該島於當地時間19:00遭美軍炮彈擊中。"
+    },
+    {
+      "id": "4988190",
+      "time": "2026-07-14 23:58:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在橢圓形辦公室與伊拉克總理發表講話。"
+    },
+    {
+      "id": "4988189",
+      "time": "2026-07-14 23:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我和伊拉克總理很有默契。"
+    },
+    {
+      "id": "te:markets:566886",
+      "time": "2026-07-14 23:58:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Steady on Finance and Energy Gains — The CAC 40 inched up to close at 8,367 on Tuesday after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with BNP Paribas up 1.4% and Credit Agricole adding 1.6%. Meanwhile, TotalEnergies advanced 1.1% as oil prices rose amid ongoing tensions in the Middle East. Other notable gainers included Schneider Electric (+1.7%) and Engie (+0.9%). In contrast, luxury stocks tumbled on rising geopolitical risks. LVMH lost 1.7%, L'Oreal shed 0.8%, and Kering retreated 2.4%. Safran (-0.7%), Sanofi (-2.1%), and EssilorLuxottica (-2.5%) also posted losses."
+    },
+    {
+      "id": "4988188",
+      "time": "2026-07-14 23:58:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯盧布6月實際有效匯率環比上漲0.3%。"
+    },
+    {
+      "id": "mkt:019f6158-da58-7aab-8d83-d98fc090ad6a",
+      "time": "2026-07-14 23:57:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he is inclined to pursue monetary policy aimed at preventing large swings in economic activity."
+    },
     {
       "id": "mkt:019f6158-4c65-7aab-8d83-d0b1a954844d",
       "time": "2026-07-14 23:56:44",
