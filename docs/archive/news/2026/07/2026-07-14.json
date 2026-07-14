@@ -1,7 +1,240 @@
 {
   "date": "2026-07-14",
-  "count": 754,
+  "count": 780,
   "items": [
+    {
+      "id": "4985622",
+      "time": "2026-07-14 09:00:55",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一，SC原油、燃料油漲超8％，低硫燃料油（LU）漲超7％。聚丙烯（PP）、瀝青、乙二醇（EG）漲超6％。跌幅方面，滬銀跌近3％。"
+    },
+    {
+      "id": "mkt:019f5e24-1df8-7aab-8d67-806884138fe9",
+      "time": "2026-07-14 09:00:52",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 futures opened down 0.11%."
+    },
+    {
+      "id": "mkt:019f5e23-a80b-7aab-8d67-78a2e601b9d0",
+      "time": "2026-07-14 09:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the open, Chinese front-month futures were mixed: Shanghai crude (SC) and fuel oil rose over 8%, low-sulfur fuel oil (LU) gained more than 7%; polypropylene (PP), asphalt and ethylene glycol (EG) were up over 6%, while Shanghai silver fell nearly 3%."
+    },
+    {
+      "id": "4985621",
+      "time": "2026-07-14 09:00:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數開盤變動不大，報45,364.40。"
+    },
+    {
+      "id": "4985620",
+      "time": "2026-07-14 09:00:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報2686.00元。"
+    },
+    {
+      "id": "4985619",
+      "time": "2026-07-14 09:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲5%，現報7388.00元。"
+    },
+    {
+      "id": "4985618",
+      "time": "2026-07-14 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲5%，現報7696.00元。"
+    },
+    {
+      "id": "4985617",
+      "time": "2026-07-14 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲7%，現報4625.00元。"
+    },
+    {
+      "id": "4985616",
+      "time": "2026-07-14 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲5%，現報8366.00元。"
+    },
+    {
+      "id": "4985615",
+      "time": "2026-07-14 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內漲6%，現報7600.00元。"
+    },
+    {
+      "id": "4985614",
+      "time": "2026-07-14 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報5776.00元。"
+    },
+    {
+      "id": "4985613",
+      "time": "2026-07-14 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報2673.00元。"
+    },
+    {
+      "id": "4985612",
+      "time": "2026-07-14 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲8%，現報3504.00元。"
+    },
+    {
+      "id": "4985611",
+      "time": "2026-07-14 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲6%，現報4106.00元。"
+    },
+    {
+      "id": "4985610",
+      "time": "2026-07-14 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報513.40元。"
+    },
+    {
+      "id": "4985609",
+      "time": "2026-07-14 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲7%，現報4406.00元。"
+    },
+    {
+      "id": "4985608",
+      "time": "2026-07-14 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】燃料油連續漲8.51%，上海原油連續漲7.52%，低硫燃料油連續漲7.09%，乙二醇連續漲6.76%，瀝青連續漲6.64%，甲醇連續漲6.00%，丙烯連續漲5.93%，塑膠連續漲5.64%，聚丙烯連續漲5.61%，液化石油氣連續漲5.44%。"
+    },
+    {
+      "id": "4985607",
+      "time": "2026-07-14 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲5%，現報8098.00元。"
+    },
+    {
+      "id": "4985606",
+      "time": "2026-07-14 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.03%。"
+    },
+    {
+      "id": "4985605",
+      "time": "2026-07-14 08:59:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【博世首家美國半導體工廠啟動試生產】德國汽車零部件和晶片製造商博世週一表示，該公司首家美國半導體工廠正開始試生產，並已與美國商務部敲定一項價值2.25億美元的協議，旨在加強碳化矽晶片的國內製造能力。在特朗普總統任內，一些汽車製造商和零部件供應商擴大了在美國的製造業務，旨在規避高昂的關稅並防範地緣政治風險。博世2023年從TSI Semiconductors手中收購位於加州羅斯維爾的晶片工廠並進行了改造，總成本達20億美元（包括美國商務部的資金），並將於今年晚些時候開始商業化量產。"
+    },
+    {
+      "id": "4985604",
+      "time": "2026-07-14 08:59:11",
+      "tags": [],
+      "text": "韓國KOSPI指數漲幅擴大至2％，此前跌近3％。"
+    },
+    {
+      "id": "4985603",
+      "time": "2026-07-14 08:59:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6944.24點。個股方面，三星電子漲超5%，SK海力士漲超3%。"
+    },
+    {
+      "id": "mkt:019f5e22-4c57-7aab-8d67-75f548ef33ae",
+      "time": "2026-07-14 08:58:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI index extends gains to 2% after earlier falling nearly 3%."
+    },
+    {
+      "id": "mkt:019f5e21-994f-7aab-8d67-6d4d09326655",
+      "time": "2026-07-14 08:58:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global oil posts largest one-day gain since May 2020】Oil futures jumped on July 13 after US‑Iran tensions escalated and the US said it would resume maritime interdiction of Iranian shipping. NYMEX August WTI rose $6.73 to $78.14/bbl (+9.42%) and ICE September Brent rose $7.29 to $83.30/bbl (+9.59%), the biggest single‑day gains since May 2020. Prices extended gains by more than 1% at the start of the next trading session on the evening of the 13th. Analysts at a Dutch commercial bank said Strait of Hormuz flows have fallen to low levels, reviving concerns about third‑quarter supply tightness, and an XS Group senior market analyst said the move looks like a geopolitical‑risk repricing rather than a purely technical rebound."
+    },
+    {
+      "id": "4985602",
+      "time": "2026-07-14 08:57:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【廣西貴港釋出暴雨紅色、洪水黃色預警】廣西貴港市氣象臺2026年7月14日4時7分將覃塘區、港北區暴雨橙色預警訊號提升為紅色：過去1小時港北荷城已出現70毫米以上強降雨，目前強降雨雲團穩定少動，強度維持，預計3小時內覃塘區、港北區大部鄉鎮仍將出現20到40毫米，局地50毫米以上的強降雨，城鄉積澇、山洪地質災害氣象風險很大。貴港水文中心站升級釋出洪水黃色預警：受強降雨影響，港北區馬草江公園河段水位持續上漲，預計未來1~3小時將出現超警0.5米左右洪水。當前轄區內東博江、石梯江水位仍超警0.88~1.20米。貴港水文中心站於7月14日6時30分升級釋出洪水黃色預警，提請沿江相關區域有關單位及社會公眾密切關注水情變化，加強防範中小河流洪水、城鄉積澇等災害，及時避險。"
+    },
+    {
+      "id": "4985601",
+      "time": "2026-07-14 08:57:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【片山皋月：如有需要 GPIF的投資組合將進行調整】日本財務大臣片山皋月稱，如果資產管理環境發生劇烈變化，政府退休金投資基金(GPIF)的投資組合可能需要調整。資產管理投資組合的任何變更，都將以GPIF的規定為依據。不評論GPIF資產配置調整是否會導致GPIF對海外資產投資減少。希望能儘快公佈提高日本公債吸引力的詳細方案。關於日美聯合宣告中有關GPIF的內容沒有改變。"
+    },
     {
       "id": "te:markets:566555",
       "time": "2026-07-14 08:56:42",
