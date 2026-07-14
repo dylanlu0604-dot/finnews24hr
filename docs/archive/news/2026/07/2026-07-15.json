@@ -1,7 +1,26 @@
 {
   "date": "2026-07-15",
-  "count": 626,
+  "count": 628,
   "items": [
+    {
+      "id": "te:markets:566913",
+      "time": "2026-07-15 06:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Iron Ore CNY Rises by 2.15% — Top commodity gainers are Iron Ore CNY (2.15%), Silver (1.89%), Platinum (1.69%) and Gold (1.27%)."
+    },
+    {
+      "id": "4988566",
+      "time": "2026-07-15 06:34:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【績優基金二季報密集披露：更加聚焦硬科技，錨定產業發展趨勢】績優基金2026年二季報密集披露，多隻績優基金二季度規模大幅增長。從持倉變動情況看，多隻績優基金對持倉結構進行了調整，更加聚焦硬科技。多位基金經理表示，後續將緊密跟蹤產業發展趨勢，關注上市公司基本面。（上證報）"
+    },
     {
       "id": "4988565",
       "time": "2026-07-15 06:31:44",
