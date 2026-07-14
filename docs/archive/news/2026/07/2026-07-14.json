@@ -1,7 +1,136 @@
 {
   "date": "2026-07-14",
-  "count": 3904,
+  "count": 3917,
   "items": [
+    {
+      "id": "te:markets:566859",
+      "time": "2026-07-14 22:16:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "IBM earnings below expectations at 2.93 USD — IBM (IBM) released earnings per share at 2.93 USD, compared to market expectations of 3.01 USD."
+    },
+    {
+      "id": "4987991",
+      "time": "2026-07-14 22:16:15",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛股價創歷史新高，最新上漲8.1%。"
+    },
+    {
+      "id": "4987990",
+      "time": "2026-07-14 22:15:58",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "道瓊斯指數上漲138點，領漲個股為高盛與摩根大通。"
+    },
+    {
+      "id": "te:markets:566858",
+      "time": "2026-07-14 22:15:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AstraZeneca Stock Price Hits 4-week Low — AstraZeneca shares decreased to 12386.00 GBp, the lowest since June 2026. Over the past 4 weeks, AstraZeneca lost 6.09%, and in the last 12 months, it increased 18.1%."
+    },
+    {
+      "id": "mkt:019f60fb-6720-7aab-8d80-4f6bdaa384e7",
+      "time": "2026-07-14 22:15:16",
+      "tags": [
+        "MKT News",
+        "GS.O",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs CEO Solomon said its M&A business will produce a significant multiplier effect."
+    },
+    {
+      "id": "mkt:019f60fb-25d4-7aab-8d80-41fc0c60c8b2",
+      "time": "2026-07-14 22:14:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "BAC.O",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "BofA CEO says consumer credit is improving."
+    },
+    {
+      "id": "4987989",
+      "time": "2026-07-14 22:14:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛執行長：併購業務將產生顯著乘數效應。"
+    },
+    {
+      "id": "mkt:019f60fa-be13-7aab-8d80-3fcac194227b",
+      "time": "2026-07-14 22:14:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said weekly usage of its agent products, Codex and ChatGPT Work, rose 2.5x week-on-week."
+    },
+    {
+      "id": "4987988",
+      "time": "2026-07-14 22:14:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西能源部長：新型乙醇汽油混合燃料或將成為永久性燃料。"
+    },
+    {
+      "id": "4987987",
+      "time": "2026-07-14 22:13:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "基什水電公司釋出宣告稱，伊朗基什島一座發電廠的部分設施於週二凌晨遭美軍襲擊受損。"
+    },
+    {
+      "id": "mkt:019f60f9-ebcc-7aab-8d80-3365b233f176",
+      "time": "2026-07-14 22:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. envoy to the United Nations said concrete measures are needed to enforce a resolution banning arms transfers to Houthi forces."
+    },
+    {
+      "id": "mkt:019f60f9-d017-7aab-8d80-28a1a0ab866b",
+      "time": "2026-07-14 22:13:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. ambassador to the United Nations said an Iranian plane transported military equipment to Houthi forces."
+    },
+    {
+      "id": "4987986",
+      "time": "2026-07-14 22:12:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "據訊息人士透露，義大利法官駁回了電信塔運營商Inwit請求暫停Fastweb退出租賃合同的申請。"
+    },
     {
       "id": "mkt:019f60f7-73c3-7aab-8d80-2370b06b44b5",
       "time": "2026-07-14 22:10:57",

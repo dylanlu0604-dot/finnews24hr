@@ -1,7 +1,136 @@
 {
-  "updated": "2026-07-14 22:13:10",
-  "count": 18438,
+  "updated": "2026-07-14 22:17:41",
+  "count": 18440,
   "items": [
+    {
+      "id": "te:markets:566859",
+      "time": "2026-07-14 22:16:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "IBM earnings below expectations at 2.93 USD — IBM (IBM) released earnings per share at 2.93 USD, compared to market expectations of 3.01 USD."
+    },
+    {
+      "id": "4987991",
+      "time": "2026-07-14 22:16:15",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛股價創歷史新高，最新上漲8.1%。"
+    },
+    {
+      "id": "4987990",
+      "time": "2026-07-14 22:15:58",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "道瓊斯指數上漲138點，領漲個股為高盛與摩根大通。"
+    },
+    {
+      "id": "te:markets:566858",
+      "time": "2026-07-14 22:15:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AstraZeneca Stock Price Hits 4-week Low — AstraZeneca shares decreased to 12386.00 GBp, the lowest since June 2026. Over the past 4 weeks, AstraZeneca lost 6.09%, and in the last 12 months, it increased 18.1%."
+    },
+    {
+      "id": "mkt:019f60fb-6720-7aab-8d80-4f6bdaa384e7",
+      "time": "2026-07-14 22:15:16",
+      "tags": [
+        "MKT News",
+        "GS.O",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs CEO Solomon said its M&A business will produce a significant multiplier effect."
+    },
+    {
+      "id": "mkt:019f60fb-25d4-7aab-8d80-41fc0c60c8b2",
+      "time": "2026-07-14 22:14:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "BAC.O",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "BofA CEO says consumer credit is improving."
+    },
+    {
+      "id": "4987989",
+      "time": "2026-07-14 22:14:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛執行長：併購業務將產生顯著乘數效應。"
+    },
+    {
+      "id": "mkt:019f60fa-be13-7aab-8d80-3fcac194227b",
+      "time": "2026-07-14 22:14:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said weekly usage of its agent products, Codex and ChatGPT Work, rose 2.5x week-on-week."
+    },
+    {
+      "id": "4987988",
+      "time": "2026-07-14 22:14:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西能源部長：新型乙醇汽油混合燃料或將成為永久性燃料。"
+    },
+    {
+      "id": "4987987",
+      "time": "2026-07-14 22:13:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "基什水電公司釋出宣告稱，伊朗基什島一座發電廠的部分設施於週二凌晨遭美軍襲擊受損。"
+    },
+    {
+      "id": "mkt:019f60f9-ebcc-7aab-8d80-3365b233f176",
+      "time": "2026-07-14 22:13:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. envoy to the United Nations said concrete measures are needed to enforce a resolution banning arms transfers to Houthi forces."
+    },
+    {
+      "id": "mkt:019f60f9-d017-7aab-8d80-28a1a0ab866b",
+      "time": "2026-07-14 22:13:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. ambassador to the United Nations said an Iranian plane transported military equipment to Houthi forces."
+    },
+    {
+      "id": "4987986",
+      "time": "2026-07-14 22:12:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "據訊息人士透露，義大利法官駁回了電信塔運營商Inwit請求暫停Fastweb退出租賃合同的申請。"
+    },
     {
       "id": "mkt:019f60f7-73c3-7aab-8d80-2370b06b44b5",
       "time": "2026-07-14 22:10:57",
@@ -168396,104 +168525,6 @@
         "其他"
       ],
       "text": "【注意避險 兩部門聯合釋出地質災害橙色預警】自然資源部與中國氣象局7月7日18時聯合釋出橙色地質災害氣象風險預警：2026年7月7日20時至8日20時，遼寧東部、廣西南部、雲南西部等部分地區發生地質災害的風險較高（黃色預警）；廣西南部區域性、雲南西部區域性發生地質災害的風險高（橙色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。請社會公眾及時關注地質災害氣象風險預警資訊，謹慎前往地質災害預警區域。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f3cf0-3531-7aab-8cd1-56a25ddf3a59",
-      "time": "2026-07-07 22:16:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Nasdaq100",
-        "Impact bearish",
-        "SNDK.O",
-        "WDC.O"
-      ],
-      "text": "U.S. stocks opened lower and extended losses: the Nasdaq-100 fell more than 2%, the Philadelphia Semiconductor Index dropped over 6%, and SanDisk (SNDK.O) and Western Digital (WDC.O) are each down more than 10%."
-    },
-    {
-      "id": "4974688",
-      "time": "2026-07-07 22:16:36",
-      "tags": [],
-      "text": "費交所半導體股指數跌超7％"
-    },
-    {
-      "id": "4974687",
-      "time": "2026-07-07 22:16:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華盛昌：伽藍特二季度以來營運狀態環比大幅提升】華盛昌(002980)7月7日接受機構調研時表示，公司2026年2月底釋出收購意向性協議，截至目前，伽藍特已完成了股權交割和工商變更登記手續，整體交易推進順利。2026年1—5月伽藍特實現淨利潤約4925萬元。其中4—5月實現淨利潤約2633萬元，單兩個月淨利潤超過一季度，二季度以來營運狀態環比大幅提升。伽藍特訂單增長來自兩方面因素：一方面是下游客戶持續擴產，帶動了伽藍特基礎光學測試儀器的訂單量提升；另一方面是伽藍特與華盛昌協同提升產能，獲得下游客戶認可，拿到了更多訂單。當前交付能力是行業競爭的重點，公司在交付能力提升上已有較大進步。"
-    },
-    {
-      "id": "4974686",
-      "time": "2026-07-07 22:16:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華髮股份：擬向控股股東募資不超26.5億元】華髮股份公告稱，公司擬向控股股東華髮集團發行A股股票，募集資金總額預計不超26.5億元，該事項構成關聯交易，但不構成重大資產重組。華髮集團及其一致行動人目前持股比例為29.64%。本次發行認購數量不超8.08億股，發行價格不低於定價基準日前20個交易日公司A股股票交易均價。本次交易尚需公司股東會審議透過、上交所稽核透過並取得中國證監會同意註冊的批覆。"
-    },
-    {
-      "id": "4974685",
-      "time": "2026-07-07 22:14:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅擴大至2%。"
-    },
-    {
-      "id": "4974684",
-      "time": "2026-07-07 22:14:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美股晶片股持續走低，閃迪跌超11%】美股晶片股持續走低，閃迪跌超11%，西部資料跌近10%，美光科技 、希捷科技跌超7%， 英偉達跌1.3%。"
-    },
-    {
-      "id": "4974683",
-      "time": "2026-07-07 22:14:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "斯托克歐洲600指數跌至當日低點，下跌0.5%。"
-    },
-    {
-      "id": "te:markets:564902",
-      "time": "2026-07-07 22:14:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Lam Research Stock Price Hits 4-week Low — Lam Research shares decreased to 318.61 USD, the lowest since June 2026. Over the past 4 weeks, Lam Research lost 1.56%, and in the last 12 months, it increased 225.44%."
-    },
-    {
-      "id": "4974682",
-      "time": "2026-07-07 22:14:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "多諾萬：委內瑞拉地震後重建之路漫長。"
-    },
-    {
-      "id": "4974681",
-      "time": "2026-07-07 22:13:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍南方司令部多諾萬：美方將持續援助委內瑞拉直至其不再求助。"
-    },
-    {
-      "id": "4974680",
-      "time": "2026-07-07 22:13:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "墨西哥比索、南非蘭特和巴西雷亞爾觸及盤中低點，美元和原油價格上漲。"
     }
   ]
 }
