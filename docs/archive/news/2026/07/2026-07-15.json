@@ -1,7 +1,126 @@
 {
   "date": "2026-07-15",
-  "count": 727,
+  "count": 739,
   "items": [
+    {
+      "id": "4988648",
+      "time": "2026-07-15 07:52:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或將上漲，追隨華爾街漲勢】日本股市或將上漲，追隨華爾街隔夜的漲勢。強勁的銀行盈利和低於預期的美國通脹報告提振了市場情緒。國內科技股也可能受到科技股密集的納斯達克綜合指數週二上漲0.9%的提振。不過，在持續的中東緊張局勢下，該日本基準指數的漲幅可能受限。在新加坡交易所，日經指數期貨上漲710點，至68355點。日經指數週二收盤上漲0.7%，報67743.50點。"
+    },
+    {
+      "id": "4988647",
+      "time": "2026-07-15 07:52:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上市公司起訴審計機構案例增多 背後權責爭議待釐清】近日，已退市至股轉系統的恆立實業起訴深圳旭泰會計師事務所（下稱“旭泰所”）及核心專案責任人的案件，已獲深圳市福田區法院立案受理。因審計機構擬出具非標審計意見，上市公司發起千萬元級索賠，引發行業爭議。據公開資料，恆立實業2023年年報被前任審計機構出具保留意見，因營收不足1億元、持續經營能力存疑被實施退市風險警示。在保殼關鍵節點，恆立實業2024年12月末臨時更換年審機構，但雙方合作矛盾不斷，2025年4月旭泰所擬出具無法表示意見的審計報告，與上市公司產生分歧，年報未能在法定期限內披露。不久後，恆立實業退市，隨即發起訴訟，向旭泰所索賠3827萬元，專案核心人員承擔無限連帶責任。近兩年，A股上市公司起訴年審會計師事務所的案例顯著增多，多家公司因審計進度、非標審計意見等糾紛對審計機構發起訴訟。一樁樁訴訟背後，會計責任與審計責任劃分不清、審計委託模式存在短板等現實難題，亟待各方理順規則。"
+    },
+    {
+      "id": "4988646",
+      "time": "2026-07-15 07:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股定增一覽：7家公司披露定增進展】Wind資料顯示，7月15日，A股共7家公司釋出定增相關公告。其中4家定增預案獲股東大會透過，2家定增預案獲交易所透過，1家定增方案停止實施。今年以來，已有97家公司公告定增方案已完成，32家公司定增金額超10億元。具體來看，中國國航、中國神華、中國能建定增募資金額最高，募資總額分別為200.0億元、200.0億元、65.0億元。"
+    },
+    {
+      "id": "4988645",
+      "time": "2026-07-15 07:51:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本5月核心機械訂單同比下降1.9%，調查預期為增長12.9%。日本5月核心機械訂單環比下降12.4%，調查預期為下降4.2%。"
+    },
+    {
+      "id": "4988644",
+      "time": "2026-07-15 07:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普威脅打擊伊朗橋樑和發電廠 施壓伊重啟談判】美國總統特朗普14日在接受美國福克斯新聞頻道專訪時說，除非伊朗重返談判桌，否則美軍將在下週打擊其橋樑和發電廠。特朗普說：“我們明後晚將對他們進行猛烈打擊，而到了下週，情況對他們來說將會變得非常糟糕，因為下週的目標將是橋樑和發電廠。除非他們坐下來談判，否則我們將摧毀他們所有橋樑和發電廠。”"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607153806431849",
+      "time": "2026-07-15 07:50:56",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本5月核心機械訂單同比下降1.9%，預期12.90%，前值15.60%。"
+    },
+    {
+      "id": "mkt:019f6309-b591-7aab-8d8b-e3d2c463ea3a",
+      "time": "2026-07-15 07:50:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan May core machinery orders YoY -1.9% vs +12.9% expected; prior +15.6%."
+    },
+    {
+      "id": "mkt:019f6309-b461-7aab-8d8b-deab13de3a75",
+      "time": "2026-07-15 07:50:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan core machinery orders (May) -12.4% MoM vs -4.2% expected; April +8.7%."
+    },
+    {
+      "id": "mkt:019f6309-aed8-7aab-8d8b-d5fd93f5ba12",
+      "time": "2026-07-15 07:50:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump threatens strikes on Iranian bridges and power plants to force Tehran back to talks】In a Fox News interview on the 14th, US President Trump warned US forces will strike Iranian bridges and power plants next week unless Iran returns to the negotiating table. He said US negotiators spoke with Iranian officials on the 14th and told them to reach a deal or 'you will cease to exist.' Trump added military strikes would continue 'until I say stop,' said Iran's capabilities have been significantly degraded but can still retaliate, and did not rule out deploying ground troops, offering no further details."
+    },
+    {
+      "id": "mkt:019f6309-9867-7aab-8d8b-c98e9fbcb430",
+      "time": "2026-07-15 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (YoY) (May) | actual -1.9% | consensus 12.90% | previous 15.60%"
+    },
+    {
+      "id": "mkt:019f6309-96cc-7aab-8d8b-c2dc6e0117d5",
+      "time": "2026-07-15 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core Machinery Orders (MoM) (May) | actual -12.4% | consensus -4.2% | previous 8.70%"
+    },
+    {
+      "id": "4988642",
+      "time": "2026-07-15 07:49:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國：霍爾木茲海峽必須保持航運自由】當地時間14日，聯合國方面表示，美國與伊朗重新陷入更廣泛的敵對行動，是地區局勢的一次重大倒退。聯合國方面同時強調，霍爾木茲海峽必須保持航運自由，反對任何一方限制船舶通行或徵收通行費。"
+    },
     {
       "id": "4988641",
       "time": "2026-07-15 07:49:00",
