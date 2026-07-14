@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-15 01:38:50",
+  "updated": "2026-07-15 01:42:47",
   "count": 18801,
   "items": [
+    {
+      "id": "4988368",
+      "time": "2026-07-15 01:41:03",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "LUCID股票因波動劇烈而暫停交易，此前股價暴跌49%，創歷史新低。"
+    },
+    {
+      "id": "mkt:019f61b7-1e2f-7aab-8d87-08ad1b13bba4",
+      "time": "2026-07-15 01:40:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli military says it killed several Hamas militants in northern Gaza】The Israeli military said on the 14th it conducted an airstrike in northern Gaza that killed the head of Hamas's military security in the Jabalia refugee camp and several other militants. The military said those killed had recently planned and carried out attacks against Israel."
+    },
+    {
+      "id": "4988367",
+      "time": "2026-07-15 01:40:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉國民議會議長羅德里格斯：將向地震受災流離家庭交付首批200套住房。"
+    },
+    {
+      "id": "4988366",
+      "time": "2026-07-15 01:39:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "LUCID股票在創紀錄下跌後再次停牌。"
+    },
     {
       "id": "4988365",
       "time": "2026-07-15 01:37:37",
@@ -172030,42 +172063,6 @@
         "其他"
       ],
       "text": "巴拿馬運河新任管理局長：受降雨量影響，2027 年夏季新巴拿馬船閘允許船舶通行的最大吃水深度或將下調至 44。運河目前暫不考慮削減船舶通行班次。"
-    },
-    {
-      "id": "mkt:019f3dac-d37a-7aab-8cd4-31a94b0b5945",
-      "time": "2026-07-08 01:42:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Incoming Panama Canal Authority administrator said if rainfall is insufficient the maximum draft for the Neo‑Panamax locks could be reduced to 44 feet in summer 2027."
-    },
-    {
-      "id": "mkt:019f3daa-2715-7aab-8cd4-2b60d148688a",
-      "time": "2026-07-08 01:39:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Qatar's foreign ministry demanded that Iran immediately stop any actions threatening regional security and cease jeopardizing the safety of global shipping and energy supplies."
-    },
-    {
-      "id": "4974828",
-      "time": "2026-07-08 01:39:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達外交部表示，抗議照會要求伊朗立即停止一切威脅地區安全、危害全球航運與能源供應安全的行為。"
-    },
-    {
-      "id": "mkt:019f3da9-d194-7aab-8cd4-2541180e99b6",
-      "time": "2026-07-08 01:39:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's foreign ministry said it firmly rejects Iran's attack, saying the action undermines the safety of international navigation."
     }
   ]
 }
