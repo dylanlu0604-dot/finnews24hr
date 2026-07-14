@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-15 05:09:04",
+  "updated": "2026-07-15 05:12:59",
   "count": 18833,
   "items": [
+    {
+      "id": "4988512",
+      "time": "2026-07-15 05:11:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方法爾斯通訊社訊息，班普爾與恰巴哈爾地區傳來數聲爆炸巨響，爆炸起因暫未明確。"
+    },
     {
       "id": "4988511",
       "time": "2026-07-15 05:06:27",
@@ -172425,15 +172433,6 @@
         "Magnificent 7"
       ],
       "text": "Per an SEC filing, Amazon (AMZN.O) priced a $24.25 billion multi‑tranche bond offering, with coupons ranging from 4.6% to 6.25%."
-    },
-    {
-      "id": "mkt:019f3e6b-e7ed-7aab-8cd6-e300fe374119",
-      "time": "2026-07-08 05:11:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iran's Press TV reported multiple explosions in the southern port city of Sirik."
     }
   ]
 }
