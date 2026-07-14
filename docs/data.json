@@ -1,7 +1,214 @@
 {
-  "updated": "2026-07-14 17:38:38",
-  "count": 18003,
+  "updated": "2026-07-14 17:42:53",
+  "count": 18012,
   "items": [
+    {
+      "id": "4987007",
+      "time": "2026-07-14 17:41:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈鎢新能：上半年淨利潤4.91億元，同比增長46.62%】廈鎢新能公告，2026年半年度公司實現營業總收入144.88億元，同比增長91.09%；歸屬於母公司所有者的淨利潤4.91億元，同比增長46.62%。報告期內，公司產品銷量、售價同比增長，推動主營業務實現營收規模、盈利能力同步增長。"
+    },
+    {
+      "id": "mkt:019f6000-b0d9-7aab-8d78-25ce7d1a0a94",
+      "time": "2026-07-14 17:41:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Poland's finance minister said construction of the country's first nuclear power plant is accelerating."
+    },
+    {
+      "id": "4987006",
+      "time": "2026-07-14 17:41:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國一重：預計2026年半年度淨利潤為負值】中國一重公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為-260萬元至-380萬元，預計實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤為-1400萬元至-2200萬元。"
+    },
+    {
+      "id": "mkt:019f6000-71be-7aab-8d78-183deec9745b",
+      "time": "2026-07-14 17:41:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【DeepMind CEO urges US-led global AI regulator with power to review top models】AXIOS reports DeepMind co-founder and CEO Demis Hassabis called for a US-led global AI regulator empowered to review the world’s most advanced models and to coordinate industry-wide slowdowns if risks escalate. He said the agency should be industry-funded, staffed by top technical experts, and accountable to the US government. Hassabis warned current cyber risks are an early signal and that within 18 months similar capabilities — and more severe biological and nuclear-security risks — could emerge in open-source models beyond any government’s control; he added these risks will also come from future proprietary models. He has briefed the Trump administration, other AI lab chiefs and European officials and said feedback has been positive."
+    },
+    {
+      "id": "4987005",
+      "time": "2026-07-14 17:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【享界G9獲批北京市L3級自動駕駛道路測試牌照】據享界汽車訊息，享界G9正式獲批北京市L3級自動駕駛道路測試牌照，成為首款獲批北京市時速120公里L3級自動駕駛道路測試牌照的車型。"
+    },
+    {
+      "id": "4987004",
+      "time": "2026-07-14 17:41:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國晟科技：預計2026年上半年淨利潤為虧損1.5億元到7500萬元】國晟科技公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為虧損1.5億元到7500萬元，扣除非經常性損益事項後，預計公司2026年半年度歸屬於上市公司股東的淨利潤為虧損1.45億元到7000萬元。上年同期歸屬於母公司所有者的淨利潤為虧損9633.84萬元。由於光伏行業競爭日益加劇，公司上半年開工率不足，產能利用率低，固定成本高，盈利能力不足。"
+    },
+    {
+      "id": "4987003",
+      "time": "2026-07-14 17:40:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【水井坊：預計2026年上半年淨虧損622.21萬元】水井坊公告，預計2026年半年度公司實現歸屬於母公司所有者的淨利潤為-622.21萬元，與上年同期相比，預計虧損；預計2026年半年度公司實現營業收入10.82億元，預計減少4.16億元，同比下降27.78%。"
+    },
+    {
+      "id": "4987002",
+      "time": "2026-07-14 17:40:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "一份宣告顯示，4月至7月印度淨直接稅收入同比增長16.4%，達到6.5萬億盧比。"
+    },
+    {
+      "id": "4987001",
+      "time": "2026-07-14 17:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱歐盟針對俄羅斯MAX通訊應用的制裁荒謬且不會奏效。"
+    },
+    {
+      "id": "4987000",
+      "time": "2026-07-14 17:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：歐盟國家關於俄羅斯參與網路攻擊的指控毫無根據。"
+    },
+    {
+      "id": "4986999",
+      "time": "2026-07-14 17:40:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就亞塞拜然總統支援烏克蘭領土完整的宣告表態：我們認為這一觀點是錯誤的。"
+    },
+    {
+      "id": "mkt:019f5fff-b83d-7aab-8d78-10f68dd3ec75",
+      "time": "2026-07-14 17:40:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The Kremlin said security guarantees for Ukraine cannot be provided without Russia's participation."
+    },
+    {
+      "id": "4986998",
+      "time": "2026-07-14 17:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，沒有俄羅斯的參與，就不可能為烏克蘭提供安全保障。"
+    },
+    {
+      "id": "4986997",
+      "time": "2026-07-14 17:40:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入109.97億港元】港股通（滬）方面，智譜、兆易創新分別獲淨買入22.90億港元、8.10億港元；小米集團-W淨賣出額居首，金額為4262.42萬港元；港股通（深）方面，網易、快手-W分別獲淨買入28.70億港元、14.60億港元；美團-W淨賣出額居首，金額為5.58億港元。"
+    },
+    {
+      "id": "te:markets:566779",
+      "time": "2026-07-14 17:40:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lumber Slips From Two-Week High — Lumber prices slipped below $620 per thousand board feet after reaching a two-week high of $627 on July 8th, as sawmill capacity remained subdued amid changing trade flows. US sawmill output declined for a second consecutive quarter, while production capacity fell 6% from a year earlier. American logs are pouring into China after lifting its pest-control ban, while US lawmakers push for policies favoring hardwood lumber exports over raw logs, arguing that raw material shipments reduce domestic feedstock and displace workers, which contributed to a 48.3% drop in lumber output since 2018. High borrowing and labor costs are also weighing on the housing market, dampening construction lumber demand. Canada is simultaneously urging the US to lift softwood lumber tariffs, with Premier David Eby calling on Ottawa to treat the dispute as a national priority, arguing that cumulative duties have forced mills, particularly in British Columbia, to scale back or shut down."
+    },
+    {
+      "id": "mkt:019f5fff-1784-7aab-8d78-0fa2f161b2ec",
+      "time": "2026-07-14 17:39:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Xiangjie G9 granted Beijing L3 road-test permit for up to 120 km/h】Xiangjie Auto said the G9 has been approved for L3 autonomous driving road testing in Beijing, becoming the first model authorised in Beijing for L3 road tests at speeds up to 120 km/h."
+    },
+    {
+      "id": "4986996",
+      "time": "2026-07-14 17:39:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST聞泰：預計2026年半年度淨虧損4億元-6億元 同比轉虧】*ST聞泰(600745.SH)公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為虧損4億元-6億元，同比轉虧。業績變動主要系子公司安世半導體控制權受限，半導體業務規模較上年同期大幅下降所致。公司Q2淨利潤預計虧損2.11億-虧損4.11億，Q1淨利潤-1.89億，據此計算，Q2淨利潤預計環比持續虧損。"
+    },
+    {
+      "id": "4986995",
+      "time": "2026-07-14 17:39:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽智慧：預計2026年上半年淨利潤同比下降75.41%-83.60%】明陽智慧公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為1億元到1.5億元，與上年同期相比將減少4.6億元到5.1億元，同比減少75.41%到83.60%。公司預計2026年半年度實現歸屬於上市公司股東的扣除非經常性損益的淨利潤為500萬元到-4500萬元，與上年同期相比將減少4.8億元到5.3億元，同比減少98.97%到109.27%。"
+    },
+    {
+      "id": "4986994",
+      "time": "2026-07-14 17:39:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億嘉和：預計2026年半年度淨利潤虧損1.28億元】億嘉和公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為－1.28億元左右。受市場環境等因素影響，同時因部分專案交付節奏未達預期，公司機器人業務營業收入下滑，相應毛利額減少。公司持續推進“機器人+行業”的發展戰略，保持在電網、商用清潔等行業的資源投入，雖然公司積極開展各項管理最佳化工作，但本期整體費用率仍處於較高水平。綜合上述因素，導致公司本期虧損。"
+    },
+    {
+      "id": "4986993",
+      "time": "2026-07-14 17:38:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【富佳股份：預計2026年上半年淨利潤同比下降60.22%】富佳股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為3000萬元左右，與上年同期相比，將減少4541.76萬元左右，同比減少60.22%左右。報告期內，受國際地緣衝突持續發酵影響，原油產業鏈波動推高塑膠粒子價格，疊加電子物料、銅、鋁等主要原材料價格同比上漲，公司核心原材料採購成本較去年同期明顯上升。由於客戶訂單定價具備延續性，產品調價落地存在一定時滯，成本壓力難以快速轉嫁。同時，公司清潔家電主營業務規模持續擴張，產銷體量增加使得原材料漲價帶來的成本總額同步擴大，盈利空間受到擠壓，導致半年度業績同比大幅下滑。"
+    },
+    {
+      "id": "4986992",
+      "time": "2026-07-14 17:38:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "KEYBANC將蘋果公司評級從行業配比下調至減持。"
+    },
+    {
+      "id": "4986991",
+      "time": "2026-07-14 17:37:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【城市傳媒：預計2026年上半年淨虧損1900萬元到2700萬元】城市傳媒公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤-1900萬元到-2700萬元，與上年同期4027.71萬元相比，將減少5927.71萬元到6727.71萬元，同比下降147.17%到167.04%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤6100萬元到6900萬元，與上年同期5655.8萬元相比，將增加444.2萬元到1244.2萬元，同比增長7.85%到22.00%。"
+    },
+    {
+      "id": "4986990",
+      "time": "2026-07-14 17:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "投行KeyBanc將英特爾目標價從110美元上調至155美元。"
+    },
+    {
+      "id": "4986989",
+      "time": "2026-07-14 17:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "投行KeyBanc將AMD目標價從530美元上調至725美元。"
+    },
     {
       "id": "4986988",
       "time": "2026-07-14 17:37:08",
@@ -164497,135 +164704,6 @@
         "宏觀"
       ],
       "text": "法國財政部表示，將2026年經濟增長預測從原本的0.9%下調至0.7%。"
-    },
-    {
-      "id": "4974071",
-      "time": "2026-07-07 17:42:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巨星農牧：和邦集團6月11日至7月6日減持377萬股】巨星農牧公告稱，資訊披露義務人四川和邦投資集團有限公司及其一致行動人賀正剛，於2026年6月11日至7月6日，透過集中競價、大宗交易方式減持公司股份377萬股，佔總股本的0.72%。本次權益變動後，和邦集團及其一致行動人持股降至7844.69萬股，佔比15%。截至報告書籤署日，二者合計質押公司股份4150萬股，佔其持股比例的50.48%，佔公司總股本的7.94%。未來12個月內，不排除繼續減持的可能。"
-    },
-    {
-      "id": "4974070",
-      "time": "2026-07-07 17:41:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美瑞健康國際：2026年上半年淨利潤不少於2700萬港元，同比增長約79%】美瑞健康國際公告，預計截至2026年6月30日止六個月錄得股東應占溢利不少於2700萬港元，而2025年同期約為1510萬港元，同比增長約79%。增長主要由於澳洲房地產專案開始陸續交付，物業相關業務收入及利潤增長。"
-    },
-    {
-      "id": "mkt:019f3bf4-8ebc-7aab-8cca-91074560ebbf",
-      "time": "2026-07-07 17:41:50",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bullish"
-      ],
-      "text": "UBS initiates coverage of SpaceX (SPCX.O), assigns a Buy rating and sets a PT of $210."
-    },
-    {
-      "id": "4974069",
-      "time": "2026-07-07 17:41:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家發展改革委緊急安排3000萬元中央預算內投資支援甘肅省隴南市宕昌縣山體滑坡災害災後應急恢復】7月7日，甘肅省隴南市宕昌縣遭受山體滑坡災害，造成人員傷亡和財產損失。國家防災減災救災委員會啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》，國家發展改革委緊急安排中央預算內投資3000萬元，支援災區基礎設施和公共服務設施災後應急恢復建設。"
-    },
-    {
-      "id": "mkt:019f3bf4-5316-7aab-8cca-886d71d3249d",
-      "time": "2026-07-07 17:41:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shanghai Stock Exchange: Silang Technology's STAR Market IPO review status changed to \"accepted\"; sponsor is Guotai Haitong."
-    },
-    {
-      "id": "4974068",
-      "time": "2026-07-07 17:41:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基簽署總統令對俄軍工企業等實施制裁】烏克蘭總統澤連斯基7日簽署兩項總統令，正式生效烏國家安全與國防委員會此前透過的新一輪制裁決定，制裁物件包括俄羅斯軍工供應鏈企業、俄宣傳人員以及部分俄羅斯組織和個人。根據烏總統府釋出的資訊，其中一項總統令對14名俄羅斯公民實施制裁，包括多名俄羅斯宣傳人士和莫斯科市杜馬議員等。另一項總統令則針對42名俄羅斯公民和30家俄羅斯企業，重點涉及向俄羅斯軍工企業供應高精度機床及相關裝置的企業及其負責人。烏總統辦公室表示，這些裝置被用於生產導彈等武器零部件。（央視新聞）"
-    },
-    {
-      "id": "4974067",
-      "time": "2026-07-07 17:41:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀啟動覆蓋 SPACEX <SPCX.O> ，給予買入評級；目標價210美元。"
-    },
-    {
-      "id": "4974066",
-      "time": "2026-07-07 17:40:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【開灤股份：獨立董事就私募基金投資問詢事項發表意見】開灤股份公告稱，公司於2026年6月2日收到上交所問詢函，要求就私募基金投資相關事項補充披露並請獨立董事發表意見。匯鑫基金由公司與關聯方2022年11月共同設立，規模25億元，公司認繳6億元。獨立董事認為，公司與其他合夥人按認繳比例分期實繳出資，投資方向符合約定，未發現利益輸送等問題。公司構建了有效風險防控體系，資金流向關聯方具備商業合理性，目前未發現重大資金回收風險，相關安排未損害公司及中小股東利益。"
-    },
-    {
-      "id": "4974065",
-      "time": "2026-07-07 17:40:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【南向資金今日淨買入4.97億港元】港股通（滬）方面，騰訊控股、中芯國際分別獲淨買入9.83億港元、9.01億港元；建滔積層板淨賣出額居首，金額為9.66億港元；港股通（深）方面，騰訊控股、美團-W分別獲淨買入13.41億港元、12.41億港元；中芯國際淨賣出額居首，金額為19.79億港元。"
-    },
-    {
-      "id": "4974064",
-      "time": "2026-07-07 17:39:59",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗研究將華僑銀行目標價從24.50新元上調至28.40新元>。"
-    },
-    {
-      "id": "4974063",
-      "time": "2026-07-07 17:39:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "授權公告顯示，韓國已聘請多家銀行，籌劃可能推出的歐元計價債券發售事宜。"
-    },
-    {
-      "id": "te:economy:564823",
-      "time": "2026-07-07 17:39:29",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Treasury Yields Edge Higher — The yield on the US 10-year Treasury note edged up to 4.50% on Tuesday, reaching its highest level in two weeks, as a renewed rise in oil prices fueled inflation concerns. Oil gained more than 1% after an LNG carrier was struck by a projectile while exiting the Strait of Hormuz, underscoring the fragile security situation in the Middle East and the risks to global energy supplies. The rebound in oil prices slightly increased expectations that the Federal Reserve could raise interest rates, with market-implied odds of a rate hike as early as September rising to around 58%, up from 56% the previous day. Investors are now awaiting the release of the FOMC meeting minutes on Wednesday for further clues on the Fed's policy outlook, after the central bank adopted a more hawkish tone at its June meeting."
-    },
-    {
-      "id": "4974062",
-      "time": "2026-07-07 17:39:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【王進軍任西南大學黨委書記，辛賢任西南大學校長】2026年7月7日，教育部人事司在西南大學宣佈了教育部黨組的任免決定，王進軍同志由西南大學校長轉任黨委書記，辛賢同志任西南大學校長、黨委副書記。"
-    },
-    {
-      "id": "4974061",
-      "time": "2026-07-07 17:39:03",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將英國獨立電視臺評級從增持下調至中性。"
-    },
-    {
-      "id": "4974060",
-      "time": "2026-07-07 17:38:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股儲存概念股盤前走低】西部資料美股盤前跌逾7%，美光科技、閃迪跌逾6%，希捷科技跌逾5%。"
     }
   ]
 }

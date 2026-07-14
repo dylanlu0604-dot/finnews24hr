@@ -1,7 +1,214 @@
 {
   "date": "2026-07-14",
-  "count": 2608,
+  "count": 2632,
   "items": [
+    {
+      "id": "4987007",
+      "time": "2026-07-14 17:41:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廈鎢新能：上半年淨利潤4.91億元，同比增長46.62%】廈鎢新能公告，2026年半年度公司實現營業總收入144.88億元，同比增長91.09%；歸屬於母公司所有者的淨利潤4.91億元，同比增長46.62%。報告期內，公司產品銷量、售價同比增長，推動主營業務實現營收規模、盈利能力同步增長。"
+    },
+    {
+      "id": "mkt:019f6000-b0d9-7aab-8d78-25ce7d1a0a94",
+      "time": "2026-07-14 17:41:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Poland's finance minister said construction of the country's first nuclear power plant is accelerating."
+    },
+    {
+      "id": "4987006",
+      "time": "2026-07-14 17:41:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國一重：預計2026年半年度淨利潤為負值】中國一重公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為-260萬元至-380萬元，預計實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤為-1400萬元至-2200萬元。"
+    },
+    {
+      "id": "mkt:019f6000-71be-7aab-8d78-183deec9745b",
+      "time": "2026-07-14 17:41:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【DeepMind CEO urges US-led global AI regulator with power to review top models】AXIOS reports DeepMind co-founder and CEO Demis Hassabis called for a US-led global AI regulator empowered to review the world’s most advanced models and to coordinate industry-wide slowdowns if risks escalate. He said the agency should be industry-funded, staffed by top technical experts, and accountable to the US government. Hassabis warned current cyber risks are an early signal and that within 18 months similar capabilities — and more severe biological and nuclear-security risks — could emerge in open-source models beyond any government’s control; he added these risks will also come from future proprietary models. He has briefed the Trump administration, other AI lab chiefs and European officials and said feedback has been positive."
+    },
+    {
+      "id": "4987005",
+      "time": "2026-07-14 17:41:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【享界G9獲批北京市L3級自動駕駛道路測試牌照】據享界汽車訊息，享界G9正式獲批北京市L3級自動駕駛道路測試牌照，成為首款獲批北京市時速120公里L3級自動駕駛道路測試牌照的車型。"
+    },
+    {
+      "id": "4987004",
+      "time": "2026-07-14 17:41:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國晟科技：預計2026年上半年淨利潤為虧損1.5億元到7500萬元】國晟科技公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為虧損1.5億元到7500萬元，扣除非經常性損益事項後，預計公司2026年半年度歸屬於上市公司股東的淨利潤為虧損1.45億元到7000萬元。上年同期歸屬於母公司所有者的淨利潤為虧損9633.84萬元。由於光伏行業競爭日益加劇，公司上半年開工率不足，產能利用率低，固定成本高，盈利能力不足。"
+    },
+    {
+      "id": "4987003",
+      "time": "2026-07-14 17:40:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【水井坊：預計2026年上半年淨虧損622.21萬元】水井坊公告，預計2026年半年度公司實現歸屬於母公司所有者的淨利潤為-622.21萬元，與上年同期相比，預計虧損；預計2026年半年度公司實現營業收入10.82億元，預計減少4.16億元，同比下降27.78%。"
+    },
+    {
+      "id": "4987002",
+      "time": "2026-07-14 17:40:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "一份宣告顯示，4月至7月印度淨直接稅收入同比增長16.4%，達到6.5萬億盧比。"
+    },
+    {
+      "id": "4987001",
+      "time": "2026-07-14 17:40:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱歐盟針對俄羅斯MAX通訊應用的制裁荒謬且不會奏效。"
+    },
+    {
+      "id": "4987000",
+      "time": "2026-07-14 17:40:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：歐盟國家關於俄羅斯參與網路攻擊的指控毫無根據。"
+    },
+    {
+      "id": "4986999",
+      "time": "2026-07-14 17:40:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮就亞塞拜然總統支援烏克蘭領土完整的宣告表態：我們認為這一觀點是錯誤的。"
+    },
+    {
+      "id": "mkt:019f5fff-b83d-7aab-8d78-10f68dd3ec75",
+      "time": "2026-07-14 17:40:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "The Kremlin said security guarantees for Ukraine cannot be provided without Russia's participation."
+    },
+    {
+      "id": "4986998",
+      "time": "2026-07-14 17:40:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，沒有俄羅斯的參與，就不可能為烏克蘭提供安全保障。"
+    },
+    {
+      "id": "4986997",
+      "time": "2026-07-14 17:40:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入109.97億港元】港股通（滬）方面，智譜、兆易創新分別獲淨買入22.90億港元、8.10億港元；小米集團-W淨賣出額居首，金額為4262.42萬港元；港股通（深）方面，網易、快手-W分別獲淨買入28.70億港元、14.60億港元；美團-W淨賣出額居首，金額為5.58億港元。"
+    },
+    {
+      "id": "te:markets:566779",
+      "time": "2026-07-14 17:40:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lumber Slips From Two-Week High — Lumber prices slipped below $620 per thousand board feet after reaching a two-week high of $627 on July 8th, as sawmill capacity remained subdued amid changing trade flows. US sawmill output declined for a second consecutive quarter, while production capacity fell 6% from a year earlier. American logs are pouring into China after lifting its pest-control ban, while US lawmakers push for policies favoring hardwood lumber exports over raw logs, arguing that raw material shipments reduce domestic feedstock and displace workers, which contributed to a 48.3% drop in lumber output since 2018. High borrowing and labor costs are also weighing on the housing market, dampening construction lumber demand. Canada is simultaneously urging the US to lift softwood lumber tariffs, with Premier David Eby calling on Ottawa to treat the dispute as a national priority, arguing that cumulative duties have forced mills, particularly in British Columbia, to scale back or shut down."
+    },
+    {
+      "id": "mkt:019f5fff-1784-7aab-8d78-0fa2f161b2ec",
+      "time": "2026-07-14 17:39:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Xiangjie G9 granted Beijing L3 road-test permit for up to 120 km/h】Xiangjie Auto said the G9 has been approved for L3 autonomous driving road testing in Beijing, becoming the first model authorised in Beijing for L3 road tests at speeds up to 120 km/h."
+    },
+    {
+      "id": "4986996",
+      "time": "2026-07-14 17:39:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST聞泰：預計2026年半年度淨虧損4億元-6億元 同比轉虧】*ST聞泰(600745.SH)公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為虧損4億元-6億元，同比轉虧。業績變動主要系子公司安世半導體控制權受限，半導體業務規模較上年同期大幅下降所致。公司Q2淨利潤預計虧損2.11億-虧損4.11億，Q1淨利潤-1.89億，據此計算，Q2淨利潤預計環比持續虧損。"
+    },
+    {
+      "id": "4986995",
+      "time": "2026-07-14 17:39:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽智慧：預計2026年上半年淨利潤同比下降75.41%-83.60%】明陽智慧公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為1億元到1.5億元，與上年同期相比將減少4.6億元到5.1億元，同比減少75.41%到83.60%。公司預計2026年半年度實現歸屬於上市公司股東的扣除非經常性損益的淨利潤為500萬元到-4500萬元，與上年同期相比將減少4.8億元到5.3億元，同比減少98.97%到109.27%。"
+    },
+    {
+      "id": "4986994",
+      "time": "2026-07-14 17:39:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億嘉和：預計2026年半年度淨利潤虧損1.28億元】億嘉和公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為－1.28億元左右。受市場環境等因素影響，同時因部分專案交付節奏未達預期，公司機器人業務營業收入下滑，相應毛利額減少。公司持續推進“機器人+行業”的發展戰略，保持在電網、商用清潔等行業的資源投入，雖然公司積極開展各項管理最佳化工作，但本期整體費用率仍處於較高水平。綜合上述因素，導致公司本期虧損。"
+    },
+    {
+      "id": "4986993",
+      "time": "2026-07-14 17:38:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【富佳股份：預計2026年上半年淨利潤同比下降60.22%】富佳股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為3000萬元左右，與上年同期相比，將減少4541.76萬元左右，同比減少60.22%左右。報告期內，受國際地緣衝突持續發酵影響，原油產業鏈波動推高塑膠粒子價格，疊加電子物料、銅、鋁等主要原材料價格同比上漲，公司核心原材料採購成本較去年同期明顯上升。由於客戶訂單定價具備延續性，產品調價落地存在一定時滯，成本壓力難以快速轉嫁。同時，公司清潔家電主營業務規模持續擴張，產銷體量增加使得原材料漲價帶來的成本總額同步擴大，盈利空間受到擠壓，導致半年度業績同比大幅下滑。"
+    },
+    {
+      "id": "4986992",
+      "time": "2026-07-14 17:38:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "KEYBANC將蘋果公司評級從行業配比下調至減持。"
+    },
+    {
+      "id": "4986991",
+      "time": "2026-07-14 17:37:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【城市傳媒：預計2026年上半年淨虧損1900萬元到2700萬元】城市傳媒公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤-1900萬元到-2700萬元，與上年同期4027.71萬元相比，將減少5927.71萬元到6727.71萬元，同比下降147.17%到167.04%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤6100萬元到6900萬元，與上年同期5655.8萬元相比，將增加444.2萬元到1244.2萬元，同比增長7.85%到22.00%。"
+    },
+    {
+      "id": "4986990",
+      "time": "2026-07-14 17:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "投行KeyBanc將英特爾目標價從110美元上調至155美元。"
+    },
+    {
+      "id": "4986989",
+      "time": "2026-07-14 17:37:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "投行KeyBanc將AMD目標價從530美元上調至725美元。"
+    },
     {
       "id": "4986988",
       "time": "2026-07-14 17:37:08",
