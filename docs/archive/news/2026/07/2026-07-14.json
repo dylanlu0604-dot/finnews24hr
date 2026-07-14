@@ -1,7 +1,145 @@
 {
   "date": "2026-07-14",
-  "count": 3267,
+  "count": 3283,
   "items": [
+    {
+      "id": "4987573",
+      "time": "2026-07-14 19:34:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【*ST英飛：轉讓印度子公司100%股權掛牌流拍 擬協議轉讓】*ST英飛公告稱，2026年7月10日公司董事會審議透過掛牌轉讓全資子公司印度英飛拓100%股權的議案。該股權在2026年7月14日9時-18時競拍期間因無意向方出價而流拍。本次流拍對公司經營無重大影響，不損害股東利益。公司擬在全球範圍找意向方，以協議轉讓方式出售該子公司100%股權。"
+    },
+    {
+      "id": "4987572",
+      "time": "2026-07-14 19:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長表示，他相信該工廠的產量將在數日內恢復。"
+    },
+    {
+      "id": "4987571",
+      "time": "2026-07-14 19:34:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【魏建軍回應長城汽車利潤下降】7月14日，長城汽車創始人、董事長魏建軍發文表示，長城汽車今天釋出了上半年的業績預告，整體銷量和營業收入都同比增長。關於利潤下降的真實原因，也給大家如實反饋一下。第一個是海外稅收政策補貼收益收回延期；第二個是受匯率波動影響。特別要說明的是，表面的數字雖然重要，但我們更在意企業的健康發展。在渠道經營層面，我們賣得多、發得少。國內庫銷比優於行業平均水平，確保企業和經銷商健康經營。"
+    },
+    {
+      "id": "mkt:019f6067-f899-7aab-8d7a-9087191ce6fe",
+      "time": "2026-07-14 19:34:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Great Wall Motor chairman Wei Jianjun addresses profit decline】On July 14, Great Wall Motor founder and chairman Wei Jianjun said the company’s 1H preview showed overall sales and revenue rose YoY. He attributed the reported profit decline to delayed recoupment of overseas tax subsidy benefits and foreign-exchange volatility. Wei said headline figures matter but the company prioritizes healthy development. At the channel level he added the firm is selling more than it is shipping; domestic inventory-to-sales ratios are better than the industry average, supporting healthy operations for the company and dealers."
+    },
+    {
+      "id": "mkt:019f6067-cdac-7aab-8d7a-8bfd773232d5",
+      "time": "2026-07-14 19:34:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Ukrainian drones struck Russia's Salavat petrochemical plant."
+    },
+    {
+      "id": "4987570",
+      "time": "2026-07-14 19:33:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國總統馬克龍表示： 各方已就新型武器裝備的生產授權達成共識，涵蓋遠端防空導彈系統、阿斯特防空導彈、斯卡爾普巡航導彈，這將助力烏克蘭本土大幅提速量產上述裝備。"
+    },
+    {
+      "id": "4987569",
+      "time": "2026-07-14 19:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長表示，該工廠的主要機組未受損。"
+    },
+    {
+      "id": "mkt:019f6067-5917-7aab-8d7a-8110ea23c5d3",
+      "time": "2026-07-14 19:33:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's transport minister said Israel has banned additional US tanker aircraft from landing at its airports."
+    },
+    {
+      "id": "4987568",
+      "time": "2026-07-14 19:33:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪回應唐車型後電機總成脫落：底盤發生嚴重磕碰，非產品質量問題】網傳影片顯示，事發時瀋陽部分道路出現積水。一輛黑色比亞迪唐在積水路段行駛過程中，後電機總成從車輛底部脫落，並由橙色高壓線束與車身相連，在積水中被車輛拖行。相關影片在網路傳播後，引發外界對車輛故障原因及新能源汽車涉水安全問題的關注。對於事故原因，比亞迪方面表示，車輛涉水時發生了嚴重的底盤磕碰，外力衝擊造成後電機總成脫落。此次事件並非後電機總成在正常行駛狀態下自行脫落，也不屬於產品質量問題。截至目前，涉事車輛的具體年款、底盤受損部位及維修進展尚未披露。（中證金牛座）"
+    },
+    {
+      "id": "4987567",
+      "time": "2026-07-14 19:33:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列禁止更多美軍加油飛機降落本國機場。"
+    },
+    {
+      "id": "mkt:019f6067-3a80-7aab-8d7a-7ea3d752e715",
+      "time": "2026-07-14 19:33:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "1211.HK"
+      ],
+      "text": "【BYD says Tang rear motor assembly detached after severe chassis impact; not a product-quality issue】A circulated video shows a black BYD Tang driving through a waterlogged road in Shenyang when the rear motor assembly detached from the vehicle underside; the unit remained connected by an orange high‑voltage harness and was dragged through the water. BYD says the car experienced a severe chassis impact while涉水, and external force caused the rear motor assembly to separate; the company denies the unit detached during normal driving and says this is not a product‑quality issue. BYD has not disclosed the vehicle’s model year, the exact chassis damage location, or repair status."
+    },
+    {
+      "id": "4987566",
+      "time": "2026-07-14 19:32:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯州長稱，烏克蘭無人機襲擊了俄羅斯薩拉瓦特石化工廠。"
+    },
+    {
+      "id": "mkt:019f6066-84c3-7aab-8d7a-74c4acd72e10",
+      "time": "2026-07-14 19:32:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Huning meets Vietnamese Communist Party delegation】Beijing, July 14, 2026 — Wang Huning, member of the CPC Politburo Standing Committee and CPPCC chairman, met a Vietnamese Communist Party delegation led by Politburo member and minister of internal affairs Le Minh Tri. Wang said General Secretary Xi and Vietnam General Secretary Su Lin have maintained close strategic communication; Su Lin’s April visit to China produced a new important consensus. China said it will work with Vietnam to implement that leaders’ consensus and deepen China‑Vietnam strategic cooperation, with the CPPCC offering support."
+    },
+    {
+      "id": "4987565",
+      "time": "2026-07-14 19:32:20",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗石油部長稱石油出口“照常”】伊朗石油部長穆赫辛·帕克內賈德14日說，儘管美國取消對伊朗的石油制裁豁免並威脅恢復海上封鎖，伊朗的石油出口未受影響，一切“照常”。帕克內賈德在社交媒體“電報”上說，伊朗多年來發展出一套可以“抵消美國製裁影響”的國家機制，其石油出口“不會有問題”。英國《金融時報》先前報道，面對西方制裁，伊朗數十年來一直奉行“抵抗經濟”政策，鼓勵自力更生和本國生產，建立了獨立自主的國民經濟和國防產業，抗壓能力較強。一名伊朗前經濟官員認為，哪怕戰事持續一年，伊朗經濟仍能挺過難關。美國財政部外國資產控制辦公室上週釋出公告，宣佈撤銷日前對伊朗石油的生產、交付和銷售為期60天的授權，從而限制伊朗在公開市場上出售石油。美國和伊朗上月遠端簽署旨在結束戰事的諒解備忘錄。作為第一步，伊朗立即重新開放霍爾木茲海峽，美國立即解除海上封鎖。然而，美國上月26日以伊朗攻擊霍爾木茲海峽商船為由，恢復對伊軍事打擊。特朗普本月13日稱，將恢復對伊朗的海上封鎖，並將對所有經由霍爾木茲海峽運輸的貨物收取20%的費用。美國《紐約時報》13日報道，特朗普已正式通知國會，伊朗戰事重新爆發。（新華社）"
+    },
+    {
+      "id": "4987564",
+      "time": "2026-07-14 19:32:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皓宸醫療：預計2026上半年虧損1200萬-1800萬，上年同期虧損2375萬】皓宸醫療公告，預計2026年上半年歸屬於上市公司股東的淨利潤虧損1200萬元至1800萬元，上年同期虧損2375.11萬元；扣非淨利潤虧損1300萬元至1900萬元。業績變動原因：口腔醫療服務業務營業收入小幅提升，盈利能力提高；永磁開關業務受市場環境影響，客戶訂單量縮減，營業收入下降，盈利能力下滑。"
+    },
+    {
+      "id": "4987563",
+      "time": "2026-07-14 19:31:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【三家中企再獲歐洲儲能訂單 合計1.8GWh】歐洲儲能賽道頻傳中國企業捷報：天合儲能、雲能魔方CECB、天啟鴻源分別在瑞典、德國、英國拿下重磅儲能訂單，合計規模超1.8GWh，業務覆蓋電網側與戶用側，涵蓋系統供應、總包服務、長期運營合作等多元模式。"
+    },
     {
       "id": "4987562",
       "time": "2026-07-14 19:31:47",
