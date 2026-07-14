@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-14 22:00:27",
-  "count": 18441,
+  "updated": "2026-07-14 22:04:37",
+  "count": 18442,
   "items": [
+    {
+      "id": "4987969",
+      "time": "2026-07-14 22:03:52",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛漲幅擴大，盤中最高漲7.4%。"
+    },
+    {
+      "id": "4987968",
+      "time": "2026-07-14 22:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "提示：沃什出席眾議院小組聽證會作證 。"
+    },
+    {
+      "id": "4987967",
+      "time": "2026-07-14 22:02:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "標普將義大利聯合信貸銀行（UNICREDIT SPA）長期信託基金（L-T RTG）的評級上調至“A-”；展望穩定。"
+    },
+    {
+      "id": "mkt:019f60ef-c4db-7aab-8d80-0d72b8852230",
+      "time": "2026-07-14 22:02:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium rose above $1,300/oz, up 4.09% intraday."
+    },
+    {
+      "id": "4987966",
+      "time": "2026-07-14 22:02:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將Carpenter Tech的目標價從470.00美元上調至705.00美元。"
+    },
+    {
+      "id": "4987965",
+      "time": "2026-07-14 22:01:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【川投能源：廣西農光受颱風影響造成一定資產損失】川投能源(600674)7月14日公告，受“美莎克”颱風天氣影響，公司所屬公司廣西玉柴農光電力有限公司（簡稱“廣西農光”）位於廣西貴港市桂平市的光伏電站（裝機規模18.36萬千瓦）受到一定資產損失，未發生人員傷亡。根據現場初步排查情況，電站光伏元件、逆變器、箱變等大部分裝置遭受水害，相關資產前期已購買財產保險，實際損失金額需根據受損裝置排查情況、保險理賠情況進一步確定，最終以公司年度審計結果為準。"
+    },
+    {
+      "id": "4987964",
+      "time": "2026-07-14 22:01:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲4%，現報1303.00美元/盎司。"
+    },
+    {
+      "id": "4987963",
+      "time": "2026-07-14 22:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "BRINC完成1.25億美元融資，摩托羅拉領投。"
+    },
+    {
+      "id": "4987962",
+      "time": "2026-07-14 22:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮經濟顧問哈塞特被問及20%的貨船收費時說：這是一個想法。"
+    },
+    {
+      "id": "4987961",
+      "time": "2026-07-14 21:59:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "百度評級維持買入，美銀證券給出該評級。"
+    },
     {
       "id": "4987960",
       "time": "2026-07-14 21:59:20",
@@ -168454,92 +168537,6 @@
         "其他"
       ],
       "text": "【山東印發虛擬電廠建設執行管理辦法】7月7日，山東省印發《山東省虛擬電廠建設執行管理辦法》，該檔案首次以省級管理辦法形式，明確虛擬電廠可以對分散式光伏等發電側資源進行聚合，並直接參與電力市場交易和接受電網排程，為分散式光伏+虛擬電廠的商業模式提供了制度依據。其中，檔案要求虛擬電廠分散式發電類聚合單元應按照資料接入質量要求，將執行資訊實時上傳至電力排程機構，具備接收和執行電力排程機構下發的調節控制指令能力，實現分散式光伏出力的直接採集和調控。"
-    },
-    {
-      "id": "mkt:019f3ce4-c79a-7aab-8cd1-0c97395e6e77",
-      "time": "2026-07-07 22:04:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China fuel oil front-month main contract rose 2.00% intraday to 2,983 yuan/ton."
-    },
-    {
-      "id": "4974663",
-      "time": "2026-07-07 22:04:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：GridMarket與Deployable Energy合作推進225億美元核能專案管道，為資料中心客戶提供電力至2035年。"
-    },
-    {
-      "id": "te:markets:564898",
-      "time": "2026-07-07 22:03:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Steadies as Middle East Tensions Weigh on Markets — Gold trimmed earlier losses to trade flat at $4,170 per ounce on Tuesday, as investors assessed escalating Middle East hostilities and awaited the Federal Reserve’s June meeting minutes for clues on monetary policy. The precious metal had reached a two-week high on Monday after a softer-than-expected US jobs report led markets to scale back expectations for near-term interest rate hikes. However, persistent inflation concerns suggest the Fed may still maintain a \"higher for longer\" stance, with traders pricing in a 60% chance of a September rate hike. Meanwhile, oil prices edged higher after two tankers were struck in the Strait of Hormuz, and Iran stated it would halt peace talks unless President Trump ceased his repeated threats to restart the war. Elsewhere, China extended its gold-buying streak to 20 months, with reserves at 75.44M oz, while Hong Kong launched a gold clearing system and revived futures trading to boost its regional hub status."
-    },
-    {
-      "id": "4974662",
-      "time": "2026-07-07 22:02:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟官方資料顯示，截至6月30日，2025/26年度歐盟軟小麥出口量達2,342萬噸，上年同期為2,162萬噸。"
-    },
-    {
-      "id": "4974661",
-      "time": "2026-07-07 22:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "SpaceX股價跌幅擴大，最新下跌4%。"
-    },
-    {
-      "id": "4974660",
-      "time": "2026-07-07 22:01:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西6月汽車產量降至246,015輛，6月新車銷量降至272,474輛。"
-    },
-    {
-      "id": "mkt:019f3ce2-0247-7aab-8cd1-0522fc736996",
-      "time": "2026-07-07 22:01:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO allies signed a $50 billion defense-industrial agreement in Ankara."
-    },
-    {
-      "id": "mkt:019f3ce1-8cd4-7aab-8cd0-f8ebd8693043",
-      "time": "2026-07-07 22:00:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UKMTO reports another tanker attacked in Strait of Hormuz】UKMTO said it received a report of another incident in the Strait of Hormuz. The tanker reportedly encountered an attack by an unidentified drone and sustained minor damage; no casualties or environmental impact were reported. The vessel is proceeding to its next port of call."
-    },
-    {
-      "id": "4974659",
-      "time": "2026-07-07 22:00:41",
-      "tags": [
-        "資料"
-      ],
-      "text": "加拿大6月Ivey未季調PMI 59.7，前值61.3。加拿大6月Ivey季調後PMI 56.2，前值58.2。"
     }
   ]
 }
