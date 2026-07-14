@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-14 12:49:48",
-  "count": 17478,
+  "updated": "2026-07-14 12:53:38",
+  "count": 17479,
   "items": [
+    {
+      "id": "4985999",
+      "time": "2026-07-14 12:52:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數抹去一度達5.3%的跌幅。"
+    },
+    {
+      "id": "mkt:019f5ef8-8de6-7aab-8d6e-c5b9fef8465f",
+      "time": "2026-07-14 12:52:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI turned positive after earlier plunging more than 5% intraday; Samsung Electronics rose over 3%."
+    },
+    {
+      "id": "mkt:019f5ef8-8bd0-7aab-8d6e-bbafe7a67593",
+      "time": "2026-07-14 12:52:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Euro STOXX 50 futures narrow losses, trading 0.6% lower; DAX futures down 0.6%; FTSE 100 futures down 0.2%."
+    },
+    {
+      "id": "4985998",
+      "time": "2026-07-14 12:52:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國法院暫停FTC認定Coupang創始人金範為實際控制人】據媒體週二報道，韓國一家法院暫停了韓國公平交易委員會關於將Coupang創始人金範指定為該電商集團實際控制人的決定。"
+    },
+    {
+      "id": "4985997",
+      "time": "2026-07-14 12:51:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50期貨收窄跌幅，目前下跌0.6%；德國DAX期貨下跌0.6%；富時期貨下跌0.2%。"
+    },
+    {
+      "id": "4985996",
+      "time": "2026-07-14 12:50:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部警告說德國參與襲俄不可接受】俄羅斯外交部13日召見德國駐俄大使亞歷山大·蘭布斯多夫，向他通報德國參與烏克蘭襲擊俄民用設施情況，並警告德國此類支援烏方的行為不可接受。據俄外交部網站釋出的訊息，俄方在召見蘭布斯多夫時說，德方加大力度支援烏克蘭不可接受，這類支援包括與烏方締結軍事和軍事技術協定；直接提供裝備；透過聯合企業發展攻擊俄民用目標的力量和手段，例如研製偵察和攻擊型無人機、防空導彈和打擊俄民用設施的火箭彈。此外，“德國試圖對他國與俄如何發展關係指手畫腳”同樣不可接受。"
+    },
+    {
+      "id": "mkt:019f5ef6-15e1-7aab-8d6e-b7c92deca6a7",
+      "time": "2026-07-14 12:50:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq futures reversed earlier losses, up 0.07%; S&P 500 futures down 0.06%."
+    },
+    {
+      "id": "4985995",
+      "time": "2026-07-14 12:49:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克期貨收復早前跌幅，目前上漲0.07%，標普500期貨下跌0.06%."
+    },
+    {
+      "id": "4985994",
+      "time": "2026-07-14 12:49:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【俄羅斯石化重鎮薩拉瓦特工業區遭到無人機襲擊】俄羅斯巴什科爾託斯坦共和國行政長官Radiy Khabirov表示，針對薩拉瓦特工業區的一次“大規模”無人機襲擊已被成功擊退。Khabirov在Telegram上發文稱，被擊落的無人機殘骸墜落後，現場發現了數處冒煙點。他表示，應急部門已展開清理工作，事件未造成人員傷亡。薩拉瓦特是俄羅斯天然氣工業股份公司旗下的薩拉瓦特石化綜合體所在地。該設施集煉油、石化和化肥生產於一體，生產汽油、柴油等產品。"
+    },
     {
       "id": "4985993",
       "time": "2026-07-14 12:48:49",
@@ -159911,90 +160001,6 @@
         "其他"
       ],
       "text": "【法國檢方：拉利克博物館被盜，損失超450萬歐元】法國媒體6日援引當地檢方訊息稱，位於法國東北部莫代河畔的拉利克博物館5日清晨遭遇入室盜竊，共計被盜走價值超450萬歐元的27件展品。法媒援引檢察官弗朗索瓦·安東納的話說，失竊案發生在5日清晨5時25分許，三名戴著面罩和手套的竊賊在強行開啟一道緊急出口和一扇防火門後，進入拉利克博物館主展廳。竊賊砸碎了六個展櫃並盜走27件展品。據初步估算，被盜物品的價值超過450萬歐元。（新華社）"
-    },
-    {
-      "id": "4973504",
-      "time": "2026-07-07 12:53:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將貝萊德目標價從1,199美元上調至1,222美元。"
-    },
-    {
-      "id": "mkt:019f3aeb-73f9-7aab-8cc2-cf36e8f378ae",
-      "time": "2026-07-07 12:52:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "KOSPI",
-        "Impact bearish"
-      ],
-      "text": "Korea Exchange halted trading for 20 minutes after the KOSPI index fell 8%, triggering a circuit breaker."
-    },
-    {
-      "id": "4973503",
-      "time": "2026-07-07 12:52:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數(KOSPI)下跌8%後，韓國交易所啟動熔斷機制，暫停交易20分鐘。"
-    },
-    {
-      "id": "mkt:019f3aeb-4093-7aab-8cc2-c5ce3f844e5f",
-      "time": "2026-07-07 12:52:03",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Moscow mayor says over 430 drones headed to Moscow overnight; most intercepted, 36 destroyed near city】Moscow Mayor Sobyanin said on social media that between the evening of July 6 and 0600 on July 7 local time more than 430 drones flew toward the Moscow region; most were intercepted at long range by air defenses and 36 hostile drones were destroyed as they neared the city."
-    },
-    {
-      "id": "te:markets:564686",
-      "time": "2026-07-07 12:51:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Shares Reverse After Early Gains — The Hang Seng Index fell 0.4%, or 99 points, to 23,518 on Tuesday, reversing earlier gains as property stocks led declines and investors turned cautious ahead of key US and Chinese economic events. Sentiment weakened after the World Bank projected China's economic growth would slow to 4.4% in 2026 and 4.3% in 2027, citing the prolonged property downturn and subdued consumer demand. Investors also awaited the US Federal Reserve's latest policy meeting and China's June CPI and PPI data due this week for clues on the policy outlook. Property developers led losses after the sector index dropped more than 3%, while technology shares also traded lower. Meanwhile, Beijing and Hong Kong announced new measures to expand currency, bond, and gold trading, aiming to strengthen the city's role as a leading offshore yuan hub. Among notable losers were Kuaishou (-9.5%), Kingboard Laminates (-8.9%), Pop Mart (-4.8%), SMIC (-3.2%), and AIA (-2.2%)."
-    },
-    {
-      "id": "mkt:019f3aea-71b6-7aab-8cc2-bf6ec857760a",
-      "time": "2026-07-07 12:51:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01888.HK",
-        "Impact bullish"
-      ],
-      "text": "【Citigroup raises Kingboard Laminates PT to HK$130, keeps Buy】Citigroup said Kingboard Laminates (01888.HK) announced price increases above expectations and raised earnings forecasts, lifting its PT to HK$130 from HK$120 while retaining a Buy rating. The bank said recent share weakness reflects rotation out of high-valuation AI hardware into non-tech, Meta selling excess compute and a sell-down by largest shareholder Hallgain, but views the pullback as a buying opportunity. Key catalysts include potentially stronger-than-expected average selling prices for electronic fiberglass cloth, which could produce a 1H earnings beat and prompt upward revisions after 1H results. Citigroup raised 2026-28 profit forecasts by 11-12% to about 9.61 bln yuan, 14.28 bln yuan and 19.52 bln yuan. The stock is on Citigroup’s upside-catalyst watchlist, expiring Aug. 2."
-    },
-    {
-      "id": "4973502",
-      "time": "2026-07-07 12:50:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄稱一夜擊落400餘架飛往莫斯科無人機】  7月7日，俄羅斯首都莫斯科市長索比亞寧透過社交媒體通報，從當地時間6日傍晚至7日清晨6時期間，飛向莫斯科地區的無人機超過430架。大部分已在遠距離被防空部隊攔截。36架敵方無人機在接近莫斯科時被摧毀。"
-    },
-    {
-      "id": "4973501",
-      "time": "2026-07-07 12:50:22",
-      "tags": [
-        "央行",
-        "公司",
-        "國際"
-      ],
-      "text": "【荷蘭國際：儘管通脹放緩，菲律賓央行仍可能加息】荷蘭國際集團的Deepali Bhargava在一份報告中表示，儘管6月份通脹放緩，但菲律賓央行仍可能進一步加息。上個月價格有所回落，讓人們對通脹已經見頂感到些許安心。然而，核心價格壓力依然居高不下，這可能會讓菲律賓央行在政策立場上保持謹慎。Bhargava補充說，整體通脹也可能保持波動，因為潛在的強厄爾尼諾現象可能會在未來幾個月推高食品價格。荷蘭國際集團預計，菲律賓央行將在下半年再加息50個基點。"
     }
   ]
 }
