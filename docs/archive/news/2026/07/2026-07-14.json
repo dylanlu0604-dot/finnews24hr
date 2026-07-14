@@ -1,7 +1,83 @@
 {
   "date": "2026-07-14",
-  "count": 3896,
+  "count": 3904,
   "items": [
+    {
+      "id": "mkt:019f60f7-73c3-7aab-8d80-2370b06b44b5",
+      "time": "2026-07-14 22:10:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: U.S. Supreme Court Justices Elena Kagan and Amy C. Barrett testified before a House committee on the court's budget request."
+    },
+    {
+      "id": "4987985",
+      "time": "2026-07-14 22:10:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院大法官卡根和巴雷特出席眾議院委員會，就法院預算請求作證詞陳述。"
+    },
+    {
+      "id": "te:markets:566857",
+      "time": "2026-07-14 22:09:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Stock Price Hits 21-week High — American Express shares increased to 359.67 USD, the highest since February 2026. Over the past 4 weeks, American Express gained 7.17%, and in the last 12 months, it increased 15.7%."
+    },
+    {
+      "id": "4987984",
+      "time": "2026-07-14 22:09:20",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛釋出財報後，摩根士丹利股價攀升至盤中高點4.7%。"
+    },
+    {
+      "id": "4987983",
+      "time": "2026-07-14 22:08:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "英格蘭銀行：自保保險制度提案擬設定4-6周審批時限，將自保公司排除在英國償付能力監管及消費者責任規則之外。"
+    },
+    {
+      "id": "te:economy:566856",
+      "time": "2026-07-14 22:08:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Spain’s Consumer Confidence Highest Since Pre-War February — Spain’s consumer confidence climbed to 81.2 in June 2026, up from 77.7 in the previous two months, marking the strongest reading since February, before the Iran war began. Households’ assessment of the current economic situation surged by 5.3 points to 77.4, while future expectations improved by 1.7 points to 85.1."
+    },
+    {
+      "id": "4987982",
+      "time": "2026-07-14 22:08:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Delivery Hero股價上漲，最新漲幅達6.5%，此前有媒體報道稱，優步(Uber)正與該公司進行深入收購談判。"
+    },
+    {
+      "id": "4987981",
+      "time": "2026-07-14 22:08:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長鑫科技發行價8.66元/股，朱一明身家超300億元】7月14日，長鑫科技公佈公司科創板IPO發行價為8.66元/股。根據長鑫科技創始人、董事長朱一明持有股份1592430946股計算，他持有股份對應的長鑫科技市值為137.9億元。此外根據朱一明持有兆易創新5.13%股份及兆易創新7月14日收盤市值4103億元計算，他持有長鑫科技及兆易創新市值共計348億元。（第一財經）"
+    },
     {
       "id": "4987980",
       "time": "2026-07-14 22:07:28",

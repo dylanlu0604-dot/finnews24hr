@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-14 22:08:52",
-  "count": 18442,
+  "updated": "2026-07-14 22:13:10",
+  "count": 18438,
   "items": [
+    {
+      "id": "mkt:019f60f7-73c3-7aab-8d80-2370b06b44b5",
+      "time": "2026-07-14 22:10:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: U.S. Supreme Court Justices Elena Kagan and Amy C. Barrett testified before a House committee on the court's budget request."
+    },
+    {
+      "id": "4987985",
+      "time": "2026-07-14 22:10:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國最高法院大法官卡根和巴雷特出席眾議院委員會，就法院預算請求作證詞陳述。"
+    },
+    {
+      "id": "te:markets:566857",
+      "time": "2026-07-14 22:09:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "American Express Stock Price Hits 21-week High — American Express shares increased to 359.67 USD, the highest since February 2026. Over the past 4 weeks, American Express gained 7.17%, and in the last 12 months, it increased 15.7%."
+    },
+    {
+      "id": "4987984",
+      "time": "2026-07-14 22:09:20",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛釋出財報後，摩根士丹利股價攀升至盤中高點4.7%。"
+    },
+    {
+      "id": "4987983",
+      "time": "2026-07-14 22:08:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "英格蘭銀行：自保保險制度提案擬設定4-6周審批時限，將自保公司排除在英國償付能力監管及消費者責任規則之外。"
+    },
+    {
+      "id": "te:economy:566856",
+      "time": "2026-07-14 22:08:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Spain’s Consumer Confidence Highest Since Pre-War February — Spain’s consumer confidence climbed to 81.2 in June 2026, up from 77.7 in the previous two months, marking the strongest reading since February, before the Iran war began. Households’ assessment of the current economic situation surged by 5.3 points to 77.4, while future expectations improved by 1.7 points to 85.1."
+    },
+    {
+      "id": "4987982",
+      "time": "2026-07-14 22:08:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Delivery Hero股價上漲，最新漲幅達6.5%，此前有媒體報道稱，優步(Uber)正與該公司進行深入收購談判。"
+    },
+    {
+      "id": "4987981",
+      "time": "2026-07-14 22:08:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【長鑫科技發行價8.66元/股，朱一明身家超300億元】7月14日，長鑫科技公佈公司科創板IPO發行價為8.66元/股。根據長鑫科技創始人、董事長朱一明持有股份1592430946股計算，他持有股份對應的長鑫科技市值為137.9億元。此外根據朱一明持有兆易創新5.13%股份及兆易創新7月14日收盤市值4103億元計算，他持有長鑫科技及兆易創新市值共計348億元。（第一財經）"
+    },
     {
       "id": "4987980",
       "time": "2026-07-14 22:07:28",
@@ -168418,106 +168494,6 @@
         "市場"
       ],
       "text": "墨西哥比索、南非蘭特和巴西雷亞爾觸及盤中低點，美元和原油價格上漲。"
-    },
-    {
-      "id": "mkt:019f3cec-ce62-7aab-8cd1-48ed0261d8a4",
-      "time": "2026-07-07 22:12:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SpaceX (SPCX.O) shares fell more than 5%."
-    },
-    {
-      "id": "4974679",
-      "time": "2026-07-07 22:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "SPACEX股價跌幅擴大至5%。"
-    },
-    {
-      "id": "te:economy:564901",
-      "time": "2026-07-07 22:12:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Business Confidence",
-        "Importance 1"
-      ],
-      "text": "Canada Economic Activity Slows in June — Canada's Ivey PMI fell to 56.2 in June 2026 from 58.2 in the previous month, missing market expectations of 59.1. The decline ended a three-month streak of gains, signalling a slowdown in business activity. The employment index edged down to 53.6 from 54.3, but remained in expansionary territory. Meanwhile, the prices index eased to 73.7 from 78.0, indicating that price pressures softened, though they remained elevated. The supplier deliveries index slipped to 44.3 from 44.7, remaining broadly stable around the 44 level since April, while the inventories index rose to 50.9 from 47.9, returning to expansionary territory."
-    },
-    {
-      "id": "4974678",
-      "time": "2026-07-07 22:11:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "閃迪跌幅擴大至10%，自最高點累計下跌超34%，總市值報2315億美元。"
-    },
-    {
-      "id": "4974677",
-      "time": "2026-07-07 22:11:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "【亞太政商領袖敦促加強合作以維持可持續增長】6日，由中國貿促會牽頭組織的中方工商界代表團赴泰國曼谷，主持召開2026年亞太經合組織工商諮詢理事會（ABAC）第三次會議。泰國總理阿努廷出席開幕式並發表致辭。他表示，當前的商業環境正變得越來越複雜，而地緣政治不確定性繼續影響商業決策。他指出，這些挑戰單靠政府是無法解決的，如果政府不創造合適的環境，企業也無法克服這些挑戰，政商合作是可持續增長的關鍵。ABAC泰國代表陳卓綿說：“挑戰固然嚴峻，但我們攻堅克難的決心同樣堅定。工商界隨時準備與各國政府攜手合作，建設一個更開放、聯絡更緊密、更繁榮的亞太。”此次會議為期4天，亞太工商界圍繞區域經濟一體化、互聯互通、可持續發展、數字創新等議題開展深入討論。同時，會議致力於為深化亞太區域經貿合作建言獻策。（新華社）"
-    },
-    {
-      "id": "mkt:019f3ceb-37ec-7aab-8cd1-4430b3f64d9c",
-      "time": "2026-07-07 22:11:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to the New York Times, a building in Midtown Manhattan was evacuated after a collapse warning."
-    },
-    {
-      "id": "4974676",
-      "time": "2026-07-07 22:10:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "彭博美元現貨指數觸及日內高點，上漲0.1%。"
-    },
-    {
-      "id": "mkt:019f3cea-8ea5-7aab-8cd1-3b4744a59c7d",
-      "time": "2026-07-07 22:10:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Treasury requires entities holding positions of $8.4 billion or more in Treasury floating-rate notes maturing January 2026 to file large-position reports."
-    },
-    {
-      "id": "4974675",
-      "time": "2026-07-07 22:10:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：紐約市中心一棟大樓因坍塌警報而疏散。"
-    },
-    {
-      "id": "4974674",
-      "time": "2026-07-07 22:10:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴雷特：我們的支援已惠及超過8000人。"
-    },
-    {
-      "id": "4974673",
-      "time": "2026-07-07 22:09:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐委內瑞拉臨時代辦巴雷特： 針對委內瑞拉相關行動轉向人道主義救援。美國對委內瑞拉的人道主義援助超過3.1億美元。"
-    },
-    {
-      "id": "mkt:019f3ce9-a8f0-7aab-8cd1-325cb794b9a6",
-      "time": "2026-07-07 22:09:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Report: Shortened ban restores Le Pen's eligibility for 2027 but candidacy remains uncertain】Holger Schmieding said in a note the court shortened Marine Le Pen's ban on holding public office, restoring her eligibility for France's 2027 presidential election, but uncertainty remains over whether she will be the National Rally's candidate. The court upheld her conviction for misappropriating EU funds and ordered her to wear an electronic monitoring bracelet for one year. Le Pen has suggested she might not run under those conditions; if she declines, protégé Jordan Bardella — more popular with the public and less hardline on the EU — could become the National Rally's candidate."
     }
   ]
 }
