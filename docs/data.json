@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-14 23:48:28",
-  "count": 18605,
+  "updated": "2026-07-14 23:53:23",
+  "count": 18608,
   "items": [
+    {
+      "id": "mkt:019f6154-2831-7aab-8d83-b9b83e195b13",
+      "time": "2026-07-14 23:52:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he is prepared to do everything he can to ensure the independence of monetary policy."
+    },
+    {
+      "id": "4988178",
+      "time": "2026-07-14 23:51:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士在美國上市的第三個交易日大漲】受半導體相關股票普遍上漲的影響，SK海力士的美國存託憑證在其上市後的第三個交易日一度上漲高達20%。SK海力士股價在週一下跌9.3%，週二的反彈使其自上週四定價149美元以來的累計漲幅超過20%。費城證券交易所半導體指數一度上漲高達4%，美國最大的儲存晶片製造商美光上漲6.2%注：此前，SK海力士股價兩日暴跌逾20% AI交易有退潮之兆。"
+    },
+    {
+      "id": "mkt:019f6153-6036-7aab-8d83-b6649a3bd1c1",
+      "time": "2026-07-14 23:51:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said a broader price-stability goal remains on his mind; he will assess whether further reforms are needed and hopes price moves will quiet public discussion."
+    },
+    {
+      "id": "4988177",
+      "time": "2026-07-14 23:50:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：英偉達H200晶片出貨量“極少”。"
+    },
+    {
+      "id": "4988176",
+      "time": "2026-07-14 23:50:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：更廣泛的價格穩定目標仍在我的考量之中，我們將觀察是否還需要推出進一步改革。"
+    },
+    {
+      "id": "4988175",
+      "time": "2026-07-14 23:49:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：堅持2%的通脹目標不動搖。"
+    },
+    {
+      "id": "mkt:019f6151-42b5-7aab-8d83-ae492ca531b6",
+      "time": "2026-07-14 23:49:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve Chair Warsh said he will firmly support a 2% inf target."
+    },
+    {
+      "id": "mkt:019f6150-11de-7aab-8d83-a2be631ad61a",
+      "time": "2026-07-14 23:47:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim News Agency reports Iran says a US strike on Kish Island port today damaged several vessels."
+    },
     {
       "id": "4988174",
       "time": "2026-07-14 23:47:23",
@@ -170117,52 +170199,6 @@
         "市場"
       ],
       "text": "【法意希三國主權債收益率漲約6個基點】週二（7月7日）歐市尾盤，法國10年期國債收益率漲5.8個基點，報3.792%，全天處於上漲狀態；兩年期法債收益率漲4.2個基點，30年期法債收益率漲4.9個基點。義大利10年期國債收益率漲5.9個基點，報3.776%。西班牙10年期國債收益率漲4.8個基點，報3.477%。希臘10年期國債收益率漲5.8個基點，報3.682%。"
-    },
-    {
-      "id": "mkt:019f3d47-6d14-7aab-8cd2-af305375261d",
-      "time": "2026-07-07 23:51:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Denmark's prime minister said they expect all allies to respect Danish sovereignty and that Greenland will never be sold."
-    },
-    {
-      "id": "mkt:019f3d45-c7cb-7aab-8cd2-a258e269bf15",
-      "time": "2026-07-07 23:50:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "People familiar with the matter said SK Hynix's U.S. IPO was multiple times oversubscribed, with about 1,000 retail investors participating in a July 6 management marketing call."
-    },
-    {
-      "id": "4974774",
-      "time": "2026-07-07 23:50:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "丹麥首相：我期望所有盟友尊重丹麥主權，格陵蘭島絕不售賣。"
-    },
-    {
-      "id": "mkt:019f3d45-b372-7aab-8cd2-9f9fec13cda1",
-      "time": "2026-07-07 23:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI"
-      ],
-      "text": "EIA to publish monthly Short-Term Energy Outlook in 10 minutes."
-    },
-    {
-      "id": "4974773",
-      "time": "2026-07-07 23:48:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱將取消對土耳其制裁】美國總統特朗普7日在土耳其首都安卡拉表示，美國將取消對土耳其的制裁，並就土耳其迴歸F-35戰鬥機專案作出決定。特朗普當天抵達安卡拉出席北約峰會。在與土耳其總統埃爾多安舉行的聯合新聞釋出會上，特朗普表示，當前美土關係良好，美方正著手解除對土製裁，並將就土耳其迴歸F-35戰鬥機專案作出決定。（新華社）"
     }
   ]
 }
