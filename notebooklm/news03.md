@@ -1,7 +1,289 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-15 02:12:32_
-_本檔包含 3448 則快訊，約 701668 字_
+_更新時間：2026-07-15 03:53:01_
+_本檔包含 3453 則快訊，約 701644 字_
+
+---
+
+### 2026-07-12 19:12:37  #其他
+
+【上海終止中心城區及多區防汛防颱Ⅲ級響應 颱風預警降為藍色】鑑於中心城區、閔行區、松江區、青浦區、嘉定區風力較小，上海市防汛指揮部決定於18時30分終止上述區域防汛防颱Ⅲ級響應行動 ;同時將浦東新區、金山區、奉賢區、寶山區、崇明區的防汛防颱Ⅲ級響應行動同步更新為防汛防颱Ⅳ級響應行動。上海市氣象臺7月12日18時30分更新上海市颱風黃色預警訊號為颱風藍色預警訊號，今年第9號颱風“巴威”18時已進入安徽省和縣境內，預計今天夜裡到明天白天，上海大部地區仍會出現7~8級偏南大風，沿江沿海地區和高層建築陣風可達8~9級，颱風黃色預警訊號更新為颱風藍色預警訊號，請注意防範颱風對高空作業、交通出行、農業生產等的不利影響。（央視新聞）
+
+---
+
+### 2026-07-12 19:12:10  #國際
+
+市場訊息：烏克蘭議員表示，根據與德國簽訂的合同，烏克蘭最早要到 2028 年才能收到愛國者導彈。
+
+---
+
+### 2026-07-12 19:11:32  #公司
+
+【近一週融資資金加碼多隻光模組龍頭股 撤離儲存等賽道】據證券時報·資料寶統計，近一週（7月3日至9日），A股融資餘額有所下降，但仍維持在高位，交易所披露的最新資料為29341.64億元（7月9日）。A股融資資金近一週總體呈現淨償還態勢，金額合計677.77億元。分行業來看，電子行業融資淨償還額居首，高達211.08億元；電力裝置、有色金屬、機械裝置行業融資淨償還額均超過70億元。融資淨買入方面，石油石化、鋼鐵、美容護理行業淨買入額分別為5.28億元、1.73億元、1.12億元。據資料寶統計，近一週，共計15股融資淨買入額在3億元以上。新易盛、東山精密淨買入額居前，分別為24.25億元、15.73億元。佰維儲存、中際旭創、飛龍股份、浪潮資訊緊隨其後，融資淨買入額均在5億元以上。據資料寶統計，近一週共20股融資淨償還額超過5億元。寒武紀居首，融資淨償還額高達31.29億元；大族鐳射、雲南鍺業、亨通光電、海光資訊、瀾起科技等融資淨償還額均在10億元以上。分行業來看，寒武紀、海光資訊、瀾起科技、北京君正等多隻儲存概念股遭到融資客淨償還。
+
+---
+
+### 2026-07-12 19:10:07  #MKT News
+
+TASNIM NEWS reported the Islamic Revolutionary Guard Corps' air-defense system intercepted an enemy cruise missile near Khorramabad in Lorestan province in western Iran.
+
+---
+
+### 2026-07-12 19:08:54  #觀點
+
+【中信證券：港股擾動趨緩賣空料將收斂 短期推薦創新藥、航空、機器人及工業金屬】中信證券最新研報指出，目前港股未平倉賣空佔市值比例雖已從6月中旬的高點小幅回落至2.43%，但仍接近歷史均值三倍標準差以上的水平，內外部擾動因素逐步緩和下，預計未來將有較大的回落空間。但近期港股也有較為明顯的pair trading跡象，短期我們仍建議關注基本面確定性較高和有事件催化的方向，包括：創新藥、航空、機器人和強工業屬性金屬。
+
+---
+
+### 2026-07-12 19:08:53  #MKT News #Commodities #Industrial Metals #Hang Seng Index #Impact bullish #Copper #Impact mixed
+
+【CICC: Hong Kong short-selling stress easing; near-term picks — innovative drugs, airlines, robotics, industrial metals】CICC said in a research note that outstanding short positions in Hong Kong as a share of market value have fallen from a mid‑June peak to 2.43% but remain roughly more than three standard deviations above the historical mean. As domestic and external shocks ease, CICC expects significant further unwinding of shorts. Trading shows notable pair‑trading activity; near term CICC recommends focusing on high-fundamental-certainty, event‑driven sectors: innovative drugs, airlines, robotics and industrial metals.
+
+---
+
+### 2026-07-12 19:07:46  #公司 #市場
+
+【儲存鋰電中報業績預告高增，利好落地股價反跌】#截至目前，A股共計349家上市公司釋出2026年半年度業績預告。從預告型別分佈來看，預增公司196家，佔比56.2%；扭虧37家，續虧33家，首虧31家，預減24家，略增19家，略減6家，續盈3家。 在今年上半年科技極致行情背景下，科技龍頭股的業績表現尤為引人關注，儲存板塊的江波龍（301308.SZ）、兆易創新（603986.SH）、夏農芯創（300475.SZ）三家公司預計淨利潤同比增長下限均超過10倍。半導體裝置龍頭長川科技（300604.SZ），晶片設計企業復旦微電（688385.SH）、瑞芯微（603893.SH），以及萬億市值的工業富聯（601138.SH）均披露了亮眼業績。 電子行業以外，鋰電、化工板塊的多隻個股淨利潤也同比翻倍。不過，業績高增並未同步帶動股價上行。江波龍、兆易創新等儲存龍頭披露預告後衝高回落，三日累計回撤約10%；天賜材料（002709.SZ）、天華新能（300390.SZ）等鋰電股同樣出現“利好落地即下跌”，高景氣板塊集體面臨獲利盤兌現壓力。 （一財）
+
+---
+
+### 2026-07-12 19:04:39  #其他
+
+【多家券商正按監管要求穩步出清經紀人，一年半減員近1.2萬】證券經紀人的出清或有開快之勢。對於經紀人清退，行業執行力度有所差別。有地方局強調規範清退流程，但無統一時間表，後續監管層會對清退過程規範性進行核查。資料顯示，2025年以來券商行業經紀人已減少近1.2萬。監管層早在2024年已傳達券商應順應財富管理轉型方向、逐步實現經紀人清零，目前部分頭部券商基本完成清零，中小券商仍存較大規模經紀人。有券商表示，將結合頭部實踐、監管導向及行業趨勢，加快清退步伐，但採用平穩方式推進，如合同到期不續約、考核淘汰等，並同步調整傳統佣金依賴模式，匹配財富管理轉型，清退過程中，符合條件的經紀人可轉為財富經理、投顧等正式崗位。對於可能出現的客戶流失，業內人士認為行業整體處於經紀人出清階段的背景下，客戶流失的整體影響不大，僅區域性區域或受小幅衝擊。
+
+---
+
+### 2026-07-12 18:58:42  #國際
+
+【伊朗革命衛隊：美軍巡航導彈已被新型防空系統所擊落】伊朗革命衛隊發文表示，今日在美軍的軍事行動中，革命衛隊新型的防空系統擊落一枚美軍的巡航導彈，該系統目前納入伊朗國家綜合防空網路。
+
+---
+
+### 2026-07-12 18:48:40  #MKT News
+
+Oman said 23 crew from the vessel GFS Galaxy have been rescued; one crew member remains missing and search operations are ongoing.
+
+---
+
+### 2026-07-12 18:47:46  #公司
+
+【今年A股最大IPO要來了 上半年長鑫科技淨利潤預計漲超1700%】根據發行安排，7月16日（下週四），長鑫科技IPO將迎來網上申購，作為國產儲存晶片巨頭，5月27日IPO過會，6月12日註冊生效，長鑫科技此次科創板上市，擬融資金額高達295億元，將成為今年A股市場規模最大的IPO，也是科創板史上的第二大IPO，僅次於中芯國際的532億元。 記者瞭解到，長鑫科技網上發行申購上限為167.2萬股，頂格申購需配滬市市值1672萬元。Wind資料顯示，長鑫科技是今年以來發行股票數量最多的新股，同時也是科創板歷史上發行股票數量最多的新股。這意味著，長鑫科技的中籤率預計較高。 業績方面，長鑫科技表現亮眼，公司預計上半年營收1100億元至1200億元之間，同比增長612.53%至677.31%之間；淨利潤660億元至750億元之間，同比增長1714.67%至1934.85%之間；歸母淨利潤500億元至570億元之間，同比增長2244.03%至2544.19%之間。（央視財經）
+
+---
+
+### 2026-07-12 18:46:59  #公司
+
+【88家次滬市公司獲2025年度國家科學技術獎】近日，2025年度國家科學技術獎揭曉，共評選出258個專案和11名科技專家。據不完全統計，88家次滬市上市公司（含控股子公司及參股公司）牽頭或參與完成的科技創新成果獲得2025年度國家科技獎，較2023年度的66家次明顯增長。據悉，上述獲獎專案多為國家科學技術進步獎和國家技術發明獎，涉及高階裝備、新材料、新能源、現代交通、電力裝備、海洋工程、資訊通訊等多個領域。
+
+---
+
+### 2026-07-12 18:37:34  #MKT News
+
+Jordan's government said Iran's drone and missile attack flagrantly violated Jordanian sovereignty, threatened its security, stability and territorial integrity, represented a dangerous escalation, and violated international law and the UN Charter.
+
+---
+
+### 2026-07-12 18:36:03  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Bahrain military says Iran continues 'systemic aggression'】Al Jazeera reported Bahrain's military said Iran has launched missile and drone attacks targeting civilians and that Bahrain's air defences intercepted the strikes. The military said its forces are at highest readiness and described Iran's actions as "systemic aggression" that violate international humanitarian law. US forces carried out overnight strikes on multiple Iranian cities earlier. Kuwait, Bahrain, Jordan, Qatar and Oman said Iran's Islamic Revolutionary Guard Corps attacked their territory.
+
+---
+
+### 2026-07-12 18:34:15  #其他
+
+英國警方：在嫌疑人因涉嫌謀殺被捕後，無跡象表明前保守黨議員安·威德科姆之死有政治動機。
+
+---
+
+### 2026-07-12 18:33:28  #國際
+
+【一名伊朗海軍軍官在美軍襲擊中身亡】據伊朗媒體12日報道，一名伊朗海軍軍官在當天上午的美軍襲擊中身亡。（新華社）
+
+---
+
+### 2026-07-12 18:30:37  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iranian state media reported one Iranian military officer was killed on Sunday in US-Israeli strikes on Iran.
+
+---
+
+### 2026-07-12 18:30:11  #其他
+
+東盟緬甸問題特使：緬甸外長向部長們通報昂山素季健康狀況良好，將對她予以照顧。
+
+---
+
+### 2026-07-12 18:30:00  #MKT News #WTI #Impact bearish #Brent
+
+【US-led maritime information center: southern route of Strait of Hormuz remains open】On the 12th local time, a US-led maritime information center said the southern route of the Strait of Hormuz off Oman's coast remains open to two-way traffic despite Iranian claims the strait had been closed. The center said US forces are prepared, under international law, to defend freedom of navigation and lawful commercial activity. It added the security threat level in and around the strait remains "serious".
+
+---
+
+### 2026-07-12 18:29:29  #宏觀 #國際
+
+【外交部發言人就日本外務大臣炒作“南海仲裁案裁決”出臺十年發表談話】7月12日，日本外務大臣茂木敏充就“南海仲裁案裁決”出臺十年發表談話，公然為非法“裁決”張目，攻擊指責中國合法主張，妄稱日本是南海事務的利益攸關方。中方對此表示強烈譴責和堅決反對。日本不是南海當事國，沒有資格對中國在南海的領土主權和海洋權益說三道四。二戰時，日本在中國犯下累累罪行，其中就包括非法侵佔中國南海島礁，給中國和中國人民帶來了深重災難。現在日本打著所謂“利益攸關方”旗號，再次妄圖介入南海，這隻會讓世界人民再次想起日本對外侵略擴張的歷史，更加警惕日本“再軍事化”圖謀。我們奉勸日本停止汙衊攻擊中國，停止在南海問題上搬弄是非，停止破壞南海和平穩定。中國將繼續堅定捍衛自身在南海的領土主權和海洋權益。任何試圖挑戰中國合法權益、破壞南海和平穩定的圖謀都註定破產。（外交部）
+
+---
+
+### 2026-07-12 18:29:19  #國際
+
+【聯合海上資訊中心：霍爾木茲海峽南部航道仍然開放】由美國主導的聯合海上資訊中心表示，儘管伊朗方面表示霍爾木茲海峽已經關閉，但位於阿曼沿岸的霍爾木茲海峽南部航道仍保持雙向通行。聯合海上資訊中心當天釋出通告稱，美軍已準備好依據國際法維護航行自由和合法商業活動，霍爾木茲海峽南部航道仍處於開放狀態。不過，該機構同時表示，霍爾木茲海峽及周邊水域的安全威脅等級仍然處於“嚴重”水平。當地時間12日凌晨，伊朗伊斯蘭革命衛隊海軍釋出宣告稱，對霍爾木茲海峽內一艘船隻進行警告射擊。宣告稱，由於此次不安全域性勢是“由外國勢力非法干預造成的”，霍爾木茲海峽將暫時關閉，直到另行通知。在美國結束對該地區的干預之前，任何船隻都不得通行。（央視新聞）
+
+---
+
+### 2026-07-12 18:29:09  #MKT News #XAUUSD #Impact bullish #CNH #Impact bearish #Hang Seng Index
+
+【China condemns Motegi's comments on 10th anniversary of South China Sea arbitration ruling】On July 12 China's foreign ministry strongly condemned remarks by Japanese foreign minister Motegi on the 10th anniversary of the "South China Sea arbitration ruling", saying Japan is not a party to the disputes and has no standing to challenge China's territorial and maritime claims. Beijing accused Tokyo of invoking the "interested party" label to justify intervention, cited Japan's wartime seizure of Chinese South China Sea features, warned against attempts at "re-militarization", and reiterated it will firmly defend its territorial sovereignty and maritime rights, saying any attempt to challenge China or destabilize the South China Sea is doomed to fail.
+
+---
+
+### 2026-07-12 18:23:53  #國際
+
+據伊朗媒體：一名伊朗海軍軍官在週日襲擊中身亡。
+
+---
+
+### 2026-07-12 18:23:25  #MKT News #WTI #Impact bearish #Brent
+
+A maritime advisory said the southern channel of the Strait of Hormuz remained open to shipping on Sunday despite reciprocal US‑Iran attacks and Iran's announcement that it had closed the strait.
+
+---
+
+### 2026-07-12 18:20:23  #MKT News
+
+Iraq's foreign ministry reiterated that national sovereignty must be respected and its stability not undermined to help consolidate regional security.
+
+---
+
+### 2026-07-12 18:19:49  #MKT News
+
+【Ministry of Water Resources and China Meteorological Administration issue red flash-flood warning at 18:00 on July 12】The Ministry of Water Resources and the China Meteorological Administration issued a red mountain flash-flood meteorological warning at 18:00 on July 12. Forecast for 20:00 July 12–20:00 July 13: parts of northeastern Liaoning, southwestern Jilin, southern Anhui and northeastern Jiangxi face a high likelihood of mountain flash floods (orange warning); northeastern Liaoning, southwestern Jilin and southern Anhui carry a very high likelihood (red warning). County-level areas are listed in the bulletin. Other areas may see localized, short-duration intense rainfall that could trigger flash floods. Authorities urged real-time monitoring, flood-control warnings and relocation/evacuation measures.
+
+---
+
+### 2026-07-12 18:19:35  #其他
+
+【水利部和中國氣象局7月12日18時聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局7月12日18時聯合釋出紅色山洪災害氣象預警：預計，7月12日20時至7月13日20時，遼寧東北部、吉林西南部、安徽南部、江西東北部等地部分地區發生山洪災害可能性大（橙色預警），其中，遼寧東北部、吉林西南部、安徽南部局地發生山洪災害可能性很大（紅色預警），預警區域涉及的縣（市、區）見下表。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
+
+---
+
+### 2026-07-12 18:19:30  #國際
+
+俄羅斯國防部通報：俄羅斯武裝力量對敖德薩州一艘渡輪實施打擊。
+
+---
+
+### 2026-07-12 18:16:55  #公司
+
+【卡達建議本國公民暫停所有海上活動】卡達交通部12日釋出公告，建議公民即日起暫停所有海上活動。公告說，為保障公眾安全，建議包括休閒遊艇、漁船、摩托艇等在內所有海上船舶的所有者和使用者，自即日起暫停航行等一切相關海上活動，直至另行通知。（新華社）
+
+---
+
+### 2026-07-12 18:12:33  #MKT News #Important
+
+China's Ministry of Foreign Affairs issued a statement criticizing some countries for politicizing the 10th anniversary of the South China Sea arbitration ruling, Xinhua reported.
+
+---
+
+### 2026-07-12 18:12:30  #宏觀 #國際
+
+【中華人民共和國外交部關於有關國家炒作“南海仲裁案裁決”出臺十年的宣告】關於美國、菲律賓、澳大利亞、加拿大、愛沙尼亞、德國、義大利、日本、拉脫維亞、立陶宛、紐西蘭、羅馬尼亞、斯洛維尼亞、英國等國於2026年7月12日發表所謂“紀念南海仲裁案裁決”十年聯合宣告，中華人民共和國外交部鄭重宣告如下。一、中國對南海諸島，包括東沙群島、西沙群島、中沙群島和南沙群島擁有主權；中國南海諸島擁有內水、領海、毗連區、專屬經濟區和大陸架；中國在南海擁有歷史性權利。中國對南海諸島的主權和在南海的相關權益，是在漫長的歷史過程中確立的。早在公元前2世紀的西漢時期，中國人民就在南海航行，並在長期實踐中發現了南海諸島。中國最早並持續、和平、有效地對南海諸島及相關海域行使主權和管轄。南海諸島屬於中國早已成為國際社會的普遍共識。二、南海是世界上最安全的海上通道之一，南海的航行和飛越自由從來不存在任何問題。中國堅定維護在南海的領土主權和海洋權益，堅定維護南海的和平穩定。針對有關國家在南海的侵權挑釁，中國採取堅定措施捍衛自身權益，合理合法，專業剋制。美國等域外國家持續在南海強化軍力部署，橫衝直撞、煽風點火，此種軍事化、脅迫性行徑才是當前南海局勢面臨的主要挑戰。（央視新聞）
+
+---
+
+### 2026-07-12 18:09:13  #MKT News #WTI #Impact bearish #Brent
+
+Iraq's prime minister will sign multiple oil and gas memoranda of understanding during a Washington visit, a government spokesman said.
+
+---
+
+### 2026-07-12 18:08:33  #其他
+
+伊拉克政府發言人表示，總理訪問華盛頓期間將簽署多項石油和天然氣諒解備忘錄。
+
+---
+
+### 2026-07-12 18:06:27  #其他
+
+【京津冀建立協同防控機制 綜合研判次生災害風險】受第9號颱風“巴威”遠距離水汽輸送影響，近日京津冀多地出現持續性強降雨天氣。記者12日從北京市規劃和自然資源委員會獲悉，為應對地質災害誘發風險，京津冀已建立協同防控機制，實時共享三地資料，提高地災防控工作能力。 據瞭解，京津冀三地依託整合全域監測資源，部署18類3649臺套監測裝置，共享京津冀8133臺雨量站資料，可結合雨情、水情、土壤飽和度綜合研判災害風險。同時，13臺無人機、3臺邊坡雷達、2臺三維鐳射掃描器等高科技應急監測裝備助力一線精準排查、高效處置險情。 目前，北京市降級釋出地質災害氣象風險預警等級，密雲、平谷為黃色預警，房山、門頭溝、昌平、延慶、石景山、海淀、豐臺、懷柔為藍色預警。（新華社）
+
+---
+
+### 2026-07-12 18:03:35  #MKT News
+
+Iraq government spokesman says the Iraqi prime minister will travel to Washington on Monday.
+
+---
+
+### 2026-07-12 18:03:16  #資料 #國際
+
+市場訊息：以色列6月消費者信心指數跌至84。
+
+---
+
+### 2026-07-12 18:03:06  #MKT News #600660.SS
+
+【Fuyao Glass chairman Cao Hui visits Aolide to discuss in‑vehicle optoelectronics cooperation】Fuyao Glass Industry Group Co. chairman Cao Hui led a delegation to Aolide on July 12 to discuss in‑vehicle optoelectronics applications. The companies held in‑depth talks on supply‑chain collaboration, joint technology R&D and commercialization of application scenarios.
+
+---
+
+### 2026-07-12 18:02:28  #公司
+
+【福耀玻璃董事長曹暉一行到奧來德考察交流】據奧來德訊息，7月12日，福耀玻璃工業集團股份有限公司董事長曹暉一行到奧來德考察交流。雙方圍繞車載光電前沿應用展開深度研討，就產業鏈協同、技術聯合創新、場景拓展落地等方向充分交換意見，共謀合作發展新路徑。
+
+---
+
+### 2026-07-12 18:01:03  #MKT News
+
+【Hong Kong begins publicity for 2026 APEC finance ministers meeting】HONG KONG GOVT Financial Services and the Treasury Bureau said July 12 the 2026 APEC finance ministers meeting has entered its 100-day countdown and official publicity has begun. Large promotional banners were installed on the Wan Chai government building in early July and electronic displays on Central pedestrian overpasses are running. The bureau said it will continue coordinating with relevant departments to finalise arrangements ahead of the meeting and to receive APEC delegations, aiming to showcase Hong Kong as an international financial centre.
+
+---
+
+### 2026-07-12 18:00:42  #國際
+
+【美議員遭以色列定居者扣留影片公佈】當地時間7月11日，美國民主黨籍聯邦眾議員羅·卡納的團隊公佈了此前他在約旦河西岸遭以色列定居者扣留的影片。影片顯示，羅·卡納所在的車隊遭到手持步槍的以色列定居者圍堵。羅·卡納表示，他在訪問巴勒斯坦村莊途中遭到了攔截，並被扣留約一小時。他同時表示，如果不願為巴勒斯坦人的人權發聲，不願譴責加沙的種族滅絕和約旦河西岸的種族隔離，這就是道德淪喪。（CCTV國際時訊）
+
+---
+
+### 2026-07-12 18:00:02  #市場
+
+未來一週將有沃華醫藥、優彩資源等4家AB股公司披露業績。
+
+---
+
+### 2026-07-12 17:59:26  #MKT News #Market Themes #China Tech Giants #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+【Kaiyuan Securities: Risk Unwinding Underway, Search for Next Wave of Tech Leaders】Kaiyuan Securities says markets underwent a correction this week: tech staged a strong rebound on Thursday but fell again on Friday, boosting volatility. The broker views the pullback not as the end of the tech trend but as a concentrated short-term risk release amid high growth, high valuations and crowded positioning; the market is digesting valuations and crowding. Looking ahead, technology remains the primary theme and the adjustment is seen as a reset for a healthier relaunch. Tech is still deemed the most attractive sector with marginally improving fundamentals; the STAR Market and ChiNext retain higher relative earnings advantages. After the current phase of rebalancing, the market will hunt for the next cohort that can absorb risk appetite while showing marginal fundamental improvement — a further tech re‑selection.
+
+---
+
+### 2026-07-12 17:59:10  #國際
+
+【日本擬對菲律賓出口二手護衛艦 引發強烈質疑和批評】據日本方面訊息，日本防衛大臣小泉進次郎近日就日本向菲律賓出口海上自衛隊二手護衛艦一事表示，希望“與菲律賓國防部長加快討論”。對此，一些日本媒體表達強烈質疑和批評。對此，一些日本主流媒體表達強烈質疑，認為日本政府此舉違背了和平憲法精神。《朝日新聞》評論認為，一旦完成交付，將開創戰後日本對外出口殺傷性武器的先例。愛知縣和平委員會也在社交媒體發文表示，堅決反對日本透過武器出口加劇地區衝突風險的舉動。（央視新聞）
+
+---
+
+### 2026-07-12 17:57:47  #宏觀
+
+【香港展開亞太經合組織財政部長會議宣傳工作】香港特區政府財經事務及庫務局今日（12日）表示，2026年亞太經合組織財政部長會議踏入倒數100天，局方的宣傳工作正式展開。會議相關的大型宣傳掛畫已於7月初在灣仔特區政府大樓外牆懸掛，中環行人天橋的電子顯示屏也同步展示，為會議揭開序幕。財經事務及庫務局接下來會繼續與各相關政策局及部門緊密協作，全力辦好、辦妥會議，迎接各亞太經合組織成員代表蒞臨香港，共同推進亞太經濟合作，向世界展現香港作為國際金融中心的獨特優勢。（大灣區之聲）
+
+---
+
+### 2026-07-12 17:56:17  #國際
+
+【以媒：內塔尼亞胡或將出席格雷厄姆的葬禮】據報道，內塔尼亞胡目前正在考慮飛往美國南卡羅來納州，參加格雷厄姆參議員的葬禮。報道稱，如果內塔尼亞胡前往參加格雷厄姆的葬禮，他極有可能在此次行程中會見美國總統唐納德·特朗普。
+
+---
+
+### 2026-07-12 17:54:13  #國際
+
+【美國消費信貸自2024年以來首次下降】美國聯邦儲備委員會日前公佈的資料顯示，美國5月消費信貸出現自2024年以來的首次月度下降，表明在通脹壓力下美國消費者借貸趨於謹慎，折射經濟隱憂。報告顯示，美國5月消費信貸總額下降1.82億美元。其中，信用卡等迴圈信貸餘額創下自2024年以來的最大降幅。美國微軟網路網站文章分析認為，消費信貸減少主要是因為信用卡年利率處於高位，推高了信貸成本，這一變化表明部分家庭正在減少對高息債務的依賴，而信貸緊縮趨勢可能會影響未來幾個月的非必要消費。如果消費信貸持續收緊，最終可能影響住房需求及其他大額消費支出。（新華社）
+
+---
+
+### 2026-07-12 17:50:09  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #Impact mixed
+
+【BOC Securities: Short-term equilibrium does not alter growth-led trend】BOC Securities says debate over a "growth-to-value rotation" has intensified but concludes K-shaped fundamental divergence has not reversed and conditions for a style switch are insufficient. Cloud providers' capex remains on an upward path and global semiconductor sales continue to expand, indicating the AI cycle is still trending higher. Recovery in traditional cyclical sectors is heavily policy-dependent; current macro policy is focused on "consolidating fundamentals" with limited urgency or room for broad aggregate stimulus, leaving traditional sectors without systemic earnings elasticity. Growth therefore retains a relative earnings advantage, and the market is in a consolidation phase rather than at a bull–bear regime turning point.
 
 ---
 
@@ -20712,257 +20994,5 @@ Sensex Advances on Tech-Led Buying — India’s BSE Sensex rose about 1.1% to 7
 ### 2026-07-10 12:24:43  #其他
 
 【 國家衛健委：加強居民連續用藥管理 】 國家衛生健康委今天釋出了《關於加強居民連續用藥管理工作的通知》，《通知》為建立科學規範的居民連續用藥管理機制，形成公平可及、系統連續、優質高效的用藥服務體系提供了政策支撐，主要從三個方面作出具體規定。一是建立健全多層次管理機制。根據省、市、縣和緊密型醫聯體資訊化建設實際，拓展區域內居民連續用藥管理功能。二是推進用藥資訊共建共享，主要包括資料採集優先採用國家標準、記錄居民完整用藥資訊、規範患者個體化用藥管理、建立健全區域用藥監測分析機制、助力臨床藥學服務能力提升、加強便民惠民服務供給、建立臨床用藥反饋機制。三是規範居民連續用藥全流程管理，主要明確了各級衛生健康行政部門和緊密型醫聯體牽頭醫院管理責任。《通知》要求各級衛生健康行政部門和醫療衛生機構要嚴格落實網路安全等級保護制度和資料安全管理制度，明確安全風險和責任，實行最小必要授權原則。
-
----
-
-### 2026-07-10 12:23:07  #國際
-
-【美機構說厄爾尼諾現象將持續增強並可能延續至明年】美國國家海洋和大氣管理局下屬的國家氣象局氣候預測中心9日釋出分析報告說，厄爾尼諾現象將持續增強至今年年底並有極大機率持續至2027年初春。（新華社）
-
----
-
-### 2026-07-10 12:22:40  #Trading Economics #Markets #Commodity #Importance 1
-
-Wheat Futures Retreat on Robust China Harvest — Wheat futures slipped to around $6.1 per bushel in early July, retreating from a three-week high reached on July 9, as strong production data from China reinforced expectations of ample global supplies. According to the National Bureau of Statistics, the world's top wheat grower's harvest increased to 138.95 million metric tons, from 138.16 million metric tons a year earlier, despite a 0.3% decline in planted area to 23.01 million hectares. While excessive rainfall delayed winter wheat sowing, favorable growing conditions, effective pest control, and government support helped crops recover, resulting in another strong harvest. Market participants are now turning their attention to Friday's USDA World Agricultural Supply and Demand Estimates (WASDE) report, which is expected to play a pivotal role in shaping grain markets, including wheat.
-
----
-
-### 2026-07-10 12:21:36  #公司 #市場
-
-三星電子股價延續漲勢；最新上漲7.0%，報297,500韓元。
-
----
-
-### 2026-07-10 12:21:01  #公司 #觀點
-
-摩根大通將可口可樂公司目標價從85美元上調至90美元。
-
----
-
-### 2026-07-10 12:19:50  #公司
-
-【李斌稱蔚來銷量單價均超BBA】蔚來ES8大五座版上市釋出會後，蔚來創始人、董事長、CEO李斌，蔚來聯合創始人、總裁秦力洪與媒體對話。 終端資料顯示，今年5月蔚來公司在全國48個城市和地區銷量超越BBA。價格方面，5月蔚來品牌成交均價38.22萬元，同時超越BBA等豪華品牌；6月均價進一步升至44.3萬元，領先幅度持續擴大。 李斌表示，這意味著蔚來不光在量上取得了成績，在單價上也全面超越了BBA。 他還提到，從蔚來ES8的使用者來源來說，超過68%來自寶馬、賓士、奧迪和保時捷這四個品牌使用者的增購，如果把別的二線豪華品牌加進來就更多了。“我們的使用者經常開玩笑說，BBA的下一站是蔚來。”
-
----
-
-### 2026-07-10 12:18:54  #市場
-
-巴基斯坦KSE-100指數開盤後上漲0.5%，至182,235.60點。
-
----
-
-### 2026-07-10 12:18:15  #其他
-
-【滙豐擬為旗下香港恒生銀行風險貸款尋找買家】英國《金融時報》援引兩名知情匿名人士訊息報道，滙豐正向投資者兜售恒生銀行發放的高風險貸款。知情人士透露，近數月該行已向債權投資者開放查閱其香港子行的貸款資產組合。其中一名訊息人士表示，談判過程或將阻力重重，私人債務基金購入這批貸款會要求大幅折價。資料顯示，截至去年年末，滙豐香港第三階段商業地產不良貸款總額 63 億美元，其中超半數集中在恒生銀行，規模約 35 億美元。報道引述滙豐表態：“我們的首要任務始終是服務客戶。”“我們將持續採取常規舉措管理整體信貸資產組合，這是我們審慎風控策略的一環。”
-
----
-
-### 2026-07-10 12:17:26  #其他
-
-【重慶釋出高溫橙色預警訊號，局地可達40℃】重慶市氣象臺2026年7月10日11時50分發布“高溫橙色預警訊號”，預計10日13:00-20:00，渝中、沙坪壩、大渡口、九龍坡、南岸、兩江新區、高新區、北碚、巴南、潼南、合川、大足、銅梁、璧山、榮昌、永川、江津、綦江、萬盛、長壽、墊江、涪陵、豐都、忠縣、梁平、萬州、開州、雲陽、奉節、巫溪、巫山、武隆、彭水、石柱等34個區縣，日最高氣溫將升至37℃以上，局地可達40℃。
-
----
-
-### 2026-07-10 12:17:21  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude up 1.0% intraday at $76.70/bbl.
-
----
-
-### 2026-07-10 12:16:08  #公司
-
-滙豐銀行正為香港子公司恒生銀行的風險貸款尋找買家。
-
----
-
-### 2026-07-10 12:15:10  #市場
-
-【訊息稱臺積電CoWoS 2027年月產能目標至少20萬片】供應鏈指出，臺積電所有新廠工程幾乎都是24小時輪班施工，加速建設進度。裝置廠商表示，據臺積電釋放出的資訊來看，CoWoS月產能2024年約3萬多片，2025年達7萬片，2026年底原訂11萬片，但最終突破13萬片，2027年擴產目標約20萬片，但應為低標。市場樂觀看待2027年底CoWoS月產能有望拉昇至24萬~26萬片。不過，臺積電至今仍未確立裝置商的訂單分配，導致供應鏈如坐針氈，擔心形成降價搶單氛圍，此外裝置下單至生產出貨時程至少7~9個月，供應商擔心無法如期交付裝置。（臺灣電子時報）
-
----
-
-### 2026-07-10 12:14:34  #MKT News #Market Themes #Chip Wars #TSM.O #Impact bullish #Nasdaq100
-
-【Sources: TSMC targets at least 200k CoWoS wafers/month in 2027】Industry sources say TSMC has accelerated new-fab construction with near 24-hour shifts. Based on information from TSMC, CoWoS monthly capacity is roughly 30k+ wafers in 2024, about 70k in 2025, and a 2026 plan of 110k that surpassed 130k. TSMC’s 2027 expansion target is about 200k wafers/month (described as a low-end estimate); market participants expect capacity could reach 240k–260k wpm by end-2027. TSMC has not finalized equipment-vendor order allocations, prompting supplier concern over potential price competition and order fragmentation. Equipment lead times from order to production shipments are at least 7–9 months, and vendors warn they may struggle to meet delivery schedules.
-
----
-
-### 2026-07-10 12:14:26  #其他
-
-【發生山洪可能性很大！北京門頭溝釋出山洪災害紅色預警】門頭溝區水務局與門頭溝區氣象局7月10日11時聯合釋出山洪災害紅色風險預警：預計7月10日14時至7月12日08時，我區發生山洪災害可能性很大（紅色風險）。請各鎮街做好實時監測、預警叫應和避險轉移等防範工作。
-
----
-
-### 2026-07-10 12:13:54  #市場 #國際
-
-印度NIFTY指數上漲1%，至24202.80點。
-
----
-
-### 2026-07-10 12:13:05  #MKT News
-
-National Bank of Kazakhstan said Kazakhstan's net gold and foreign-exchange reserves were $60.161 billion in June, down 7.8% MoM.
-
----
-
-### 2026-07-10 12:12:47  #央行 #市場
-
-哈薩克央行公佈，6月該國黃金與外匯儲備淨額為601.61億美元，環比下降7.8%。
-
----
-
-### 2026-07-10 12:12:36  #Trading Economics #Economy #Malaysia #Retail Sales YoY #Importance 2
-
-Malaysia Retail Sales Rise 7.2% in May — Retail sales in Malaysia increased 7.2% year-on-year in May 2026, accelerating from April's three-month low of 6.3%. Sales growth accelerated for non-specialised stores (8.2% vs 6.1% in April), food, beverages and tobacco (7.2% vs 5.8%), retail sales via stalls and markets (8.1% vs 6.4%), automotive fuel (12.8% vs 12.5%), cultural and recreational goods (4.1% vs 3.8%), and trade not in stores, stalls or markets (9.8% vs 8.8%). Meanwhile, sales growth moderated for information and communication equipment (3.5% vs 3.7%), other household equipment (3.4% vs 3.5%), and other goods (6.7% vs 6.8%). On a monthly basis, retail sales grew by 1.3%, rebounding from a downwardly revised 1.5% fall in April, which was the sharpest decline since February 2025. Meanwhile, wholesale trade increased 18.4%, following a 24.1% surge in April.
-
----
-
-### 2026-07-10 12:12:30  #MKT News #Market Regions #Emerging Markets
-
-India's NIFTY 50 index rose 1%.
-
----
-
-### 2026-07-10 12:11:06  #其他
-
-【宇樹科技王興興：機器人最終會走向普通消費者】宇樹科技創始人王興興7月10日在2026王府井論壇上表示，當前人工智慧正在以前所未有的速度走進產業，走進城市，並走進每一個普通人的生活。人工智慧已經不再只是實驗室的技術概念，而是正在成為推動經濟發展、產業升級、消費變革的重要力量。“機器人最終一定會走向更廣闊的市場，走向普通消費者，走向真實的生活。因此我們很早就開始探索麵向普通大眾使用者的產品和渠道建設。一個新技術真正進入消費市場，不能只靠技術引數打動人，而是讓消費者清楚地感受到它和自己生活之間的關係。”王興興說。（中證金牛座）
-
----
-
-### 2026-07-10 12:11:02  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Nikkei 225
-
-South Korea's KOSPI index breached 7,700, rising 5.6% intraday.
-
----
-
-### 2026-07-10 12:10:44  #其他
-
-【內蒙古二連浩特鐵路口岸運量已超1000萬噸】記者從鐵路部門獲悉，今年以來，內蒙古二連浩特鐵路口岸運量穩定增長，截至7月9日，年內進出口運量達1002.89萬噸，較去年提前17天實現1000萬噸，同比增長9.5％。其中進口貨物運量834.82萬噸，同比增長7.0％；出口貨物運量168.07萬噸，同比增長23.8％。今年以來，鐵路部門持續最佳化運輸組織，協調蒙方改善寬軌入境車流結構，擴大中蒙間敞頂箱使用範圍，並深化與邊檢、海關協作、加強資料互通，有效提升了口岸通關和運輸效率。（央視新聞）
-
----
-
-### 2026-07-10 12:10:36  #MKT News #Market Themes #AI Revolution
-
-【Yushi Technology founder says robots will reach mainstream consumers】At the 2026 Wangfujing Forum on July 10, Yushi Technology founder Wang Xingxing said AI is entering industry, cities and households at unprecedented speed and is shifting from a lab concept to a driver of economic growth, industrial upgrade and consumption change. He said robots will ultimately reach mass consumer markets and everyday life; Yushi has begun developing consumer-facing products and distribution channels. He stressed that for new technology to enter the consumer market it must demonstrate clear relevance to daily life, not rely only on technical specifications.
-
----
-
-### 2026-07-10 12:10:30  #MKT News
-
-Korea Exchange activated the KOSDAQ temporary trading-halt mechanism after KOSDAQ 150 futures rose 6%, suspending program trading for five minutes.
-
----
-
-### 2026-07-10 12:10:25  #其他
-
-【河北釋出山洪災害氣象橙色預警】河北省水利廳和河北省氣象局7月10日11時聯合釋出山洪災害氣象風險預警： 預計，7月10日11時至7月11日11時，唐山市（豐潤區、遷西縣、玉田縣、遵化市）、承德市（承德縣、興隆縣、鷹手營子礦區、寬城滿族自治縣）等地局地發生山洪災害可能性大（橙色預警）。唐山市（遷安市、灤州市）、秦皇島市（青龍滿族自治縣、盧龍縣）、承德市（雙橋區、雙灤區、高新區、灤平縣、隆化縣、豐寧滿族自治縣、圍場滿族蒙古族自治縣、平泉市）、保定市（淶水縣、易縣）等地局地發生山洪災害可能性較大（黃色預警）。張家口市、秦皇島市、保定市、石家莊市等地局地可能發生山洪災害（藍色預警）。請各地密切關注降雨情況，確保人民群眾生命安全。
-
----
-
-### 2026-07-10 12:10:14  #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買入。
-
----
-
-### 2026-07-10 12:09:44  #其他
-
-【國家能源局：鼓勵相關專案開展綠電、綠氫規模化替代，逐步降低化石燃料制氫用量】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》，其中提出，加快煉油、煤制油氣行業升級轉型。有序推動電驅系統替代蒸汽透平驅動。推動煤制油氣、煉油產業和新能源深度融合，鼓勵相關專案開展綠電、綠氫規模化替代，逐步降低化石燃料制氫用量。開展CCUS規模化應用。
-
----
-
-### 2026-07-10 12:07:09  #公司 #市場
-
-【港股午評：恒生指數漲1.86%，恒生科技指數漲2.69%】港股午間收盤，恒生指數漲1.86%，恒生科技指數漲2.69%。恒指港股通ETF銀華（159318）漲1.68%，港股通科技ETF鵬華（159751）漲2.14%。板塊方面，生命科學工具、客運航空公司板塊漲幅靠前；能源裝置與服務板塊跌幅靠前。個股方面，珞石機器人漲23.46%，昭衍新藥漲14.32%，康龍化成漲13.85%，百奧賽圖-B漲11.28%，映恩生物-B漲11.26%；天數智芯跌13.91%，MINIMAX-W跌12.31%，智譜跌11.81%，迅策跌9.38%，怡俊集團控股跌7.29%。
-
----
-
-### 2026-07-10 12:07:03  #其他
-
-【國家能源局：推進建立熱力管網智慧排程體系】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》，其中提出，推動熱力系統綠色低碳轉型。因地制宜發展風光供熱、地熱能、生物質供熱、核能供熱、餘熱資源化利用等技術，推進多熱源互補高效利用。推進有條件的大型熱源、熱網主幹線科學合理建設儲熱（冷）系統，鼓勵支援新能源供熱專案、工業園區等冷熱負荷集中區域配套建設儲熱（冷）系統，在具備條件的區域探索開展長時儲熱（冷）。推進建立熱力管網智慧排程體系。
-
----
-
-### 2026-07-10 12:05:55  #Trading Economics #Economy #Malaysia #Unemployment Rate #Importance 1
-
-Malaysia Jobless Rate Unchanged at Eight-Month High — Malaysia’s unemployment rate held steady at 3.0% in May 2026, unchanged from the previous month and staying at its highest level since October 2025. The number of unemployed persons increased to 513.4 thousand from 511.8 thousand in April, indicating continued softness in the labor market. Meanwhile, total employment was little changed at 16.82 million. The labor force rose marginally to 17.34 million from 17.33 million in April, with the labor force participation rate remaining stable at 70.9%. The number of people outside the labor force was steady at 7.10 million. Looking ahead, Malaysia’s labor market is expected to remain resilient, supported by favourable economic conditions, sustained investment activity and ongoing structural transformation.
-
----
-
-### 2026-07-10 12:05:36  #宏觀
-
-【國家能源局：推動核電納入綠電綠證體系】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》，其中提出，加強碳排放統計核算管理。圍繞煤炭開採和洗選，油氣勘探開發、輸送及儲存，電力生產輸配及儲存，氫能製取及儲運，煉油，煤制燃料等領域和環節，組織開展碳排放統計核算，逐步完善形成定期統計核算機制，加快推進基礎能源等產品碳足跡標準制定和因子研製。常態化跟蹤監測電力、煤炭、油氣、煉油等行業碳排放，並開展碳排放形勢分析預測。完善綠色能源消費促進機制。建立可再生能源消費最低比重目標制度，完善可再生能源電力消納責任權重製度，壓實重點用能行業可再生能源消費責任和各方消納責任。持續擴大綠色電力證書（以下簡稱綠證）市場，釋出綠證價格指數，引導綠證價格在合理區間執行。推動核電納入綠電綠證體系。建立綠證和綠電消費標準體系，制定出臺綠證核算、認證、標識等標準，加快推進綠證標準與國際對接。推動綠證納入碳排放核算體系。健全促進節能降碳的市場機制。完善全國統一電力市場體系，充分利用各省區電力供需時段和調節能力的差異，促進清潔能源在更大範圍內消納。健全綠證綠電交易機制，鼓勵透過綠電交易方式落實省間新能源優先發電規模計劃，推動發用側雙方以多年期交易合同、聚合交易等方式開展綠電交易。研究CCUS、可再生能源非電利用等低碳零碳負碳專案納入溫室氣體自願減排專案方法學的具體專案型別。
-
----
-
-### 2026-07-10 12:05:19
-
-【銀行股集體破淨！紅利低波ETF華泰柏瑞（512890）半日成交4.39億領跑同類 機構：AI未走完 紅利可“打底”】7月10日，三大指數早盤分化，滬指震盪拉昇漲0.76％，創業板指、科創50指數衝高回落。受大盤風格帶動，紅利低波ETF華泰柏瑞（512890）上漲0.45％，報1.110元，換手率1.32％，半日成交額4.39億元，居同類標的ETF首位。訊息面上，2026年以來A股銀行板塊持續承壓，截至7月9日收盤，42家上市銀行集體破淨。銀行股價調整之際，各路資金態度分化，今年以來不少資金對該板塊進行增配，也有一些資金根據自身考量選擇減持。業內人士認為，未來險資對於銀行板塊的配置比例與投資力度仍具備進一步提升空間。機構策略方面，廣發證券策略首席分析師劉晨明表示，在各大類資產裡進行選擇，至少往下半年看，還是會聚焦在人工智慧這個大的方向裡。對於不願承受高波動或難以理解科技方向的投資者，若僅追求絕對收益，紅利指數、紅利ETF及相關增強型基金在當前價位的價效比優於現金、定存和理財，可作為替代配置。中信建投指出，未來A股有望延續震盪格局。算力硬體高波動期，市場擔憂AI算力需求見頂或行業景氣度下行。但從行業供需格局來看，AI算力需求的中長期驅動邏輯並未因Meta的單一行為而受損，關鍵環節也仍然制約著有效供給的釋放。在此真空期與驗證期交織的背景下，行情有望從極度集中的算力硬體端向更具價效比的領域延伸，形成“高低切換、多點開花”的擴散格局。行業重點關注：AI（半導體、光通訊、MLCC等）、機器人、券商、有色金屬、紅利資產等。投資者可將紅利低波ETF華泰柏瑞（512890）作為底倉配置，無股票賬戶的投資者也可透過其場外聯接基金進行配置（A類：007466；C類：007467；I類：022678；Y類：022951）。
-
----
-
-### 2026-07-10 12:04:28  #其他
-
-【國家能源局：鼓勵能源領域人工智慧模型創新】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》，其中提出，加強節能降碳技術裝備研發推廣。加強節能型能源裝備研發，提升能源開採、轉換、儲存、輸送全過程能源裝備的能效水平。依託能源領域國家科技重大專項和重點專項，支援節能降碳關鍵共性技術裝備研發與攻關；依託能源領域首臺（套）重大技術裝備相關政策，支援具有顯著節能降碳效益的技術裝備應用推廣。強化數字化智慧化賦能。深入推進能源產供儲銷用各環節的數字化、智慧化改造，支援企業建設數字化碳管理平臺，推動能耗精準計量、實時採集和智慧分析，實現能耗與碳排放線上監測、核算與靈活調控。鼓勵能源領域人工智慧模型創新，探索數智化節能降碳解決方案，挖掘人工智慧在節能降碳過程中的高價值場景。開展低碳零碳負碳前沿技術研發。聚焦化石能源清潔高效利用、可再生能源大規模利用等關鍵領域，加大前瞻性、戰略性的重大前沿科技攻關力度，加快突破超臨界二氧化碳發電、CCUS等關鍵技術，攻關風光靈活高效制氫、規模安全儲氫關鍵技術，突破綠氫合成催化、低碳合成工藝、長距離儲運等核心技術。
-
----
-
-### 2026-07-10 12:04:24  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Russia responds to US license allowing Ukraine to produce Patriot interceptors】Kremlin spokesman Dmitry Peskov said on July 9 Moscow is fully clear on how it will respond after the US moved to license Ukraine to produce Patriot interceptor missiles and that the Russian government has taken all necessary measures to protect national interests. He said Moscow views the US belief that escalation and military pressure can promote a settlement as mistaken and accused Washington of a double standard by supplying weapons while seeking a peace process, urging genuine US efforts toward a peaceful resolution. Peskov added that, despite disagreements, a constructive channel of presidential dialogue remains open.
-
----
-
-### 2026-07-10 12:03:50  #其他
-
-【天津水務部門全力防禦颱風“巴威” 】近日，受颱風“巴威”影響，天津面臨大範圍強降雨過程。記者10日從天津市水務局獲悉，當地水務部門已於9日晚啟動洪澇災害防禦二級應急響應，並透過加強水情監測聯合會商、預騰調蓄空間、落實堤防巡查防守熱備、強化局域性洪澇災害防範等舉措，做好防禦颱風“巴威”準備，確保安全度汛。 水情監測預警方面，天津與氣象、水利部海河水利委員會、京冀水文等部門開展多次聯合會商，實時共享水文監測資料；全面投用雨水情監測預報“三道防線”，6部測雨雷達全天候監測“雲中雨”，138處雨量站、96處水文站、208處水位站線上監測“落地雨”“河中水”，80臺套無人機、無人船等保持熱備，百餘位水文測報突擊隊員隨時待命。
-
----
-
-### 2026-07-10 12:02:02  #MKT News #Hang Seng Index #Impact bullish #03750.HK #Impact bearish #02359.HK
-
-【Hong Kong midday: HSI up 1.86%, Hang Seng Tech up 2.69%】Midday in Hong Kong, the HSI rose 1.86% and the Hang Seng Tech Index gained 2.69%; first-half turnover reached HKD 188.435 bln. Sector leaders: optical communications, biotechnology and autos. Weakness: memory/storage, coal and mobile gaming. Notable movers: CK Hutchison (00001.HK), CSPC PHARMA (01093.HK) and 01347.HK climbed over 7%; 09863.HK rose nearly 7%; WuXi AppTec (02359.HK) added over 6%; Lenovo Group (00992.HK) and Xiaomi (01810.HK) were up more than 4%. Worst performers: MINIMAX-W (00100.HK) down over 12%, 02513.HK down over 11%, CATL (03750.HK) slipped about 2%.
-
----
-
-### 2026-07-10 12:01:41  #國際
-
-【俄回應美授權烏生產愛國者攔截彈】當地時間7月9日，俄羅斯總統新聞秘書佩斯科夫表示，俄羅斯完全清楚在美國計劃向烏克蘭提供“愛國者”防空系統攔截彈生產許可後該採取何種行動，俄羅斯政府正在盡最大努力保護國家，一切保護國家利益的必要措施均已採取。佩斯科夫還表示，俄方關注到美國政府進入了某種誤區，即認為透過沖突升級和軍事施壓可以促進烏克蘭問題的和平解決。同時，俄方看到美方立場存在某種雙重性，在持續向烏克蘭提供武器的同時，又試圖促成和平程序。俄方希望美方能夠維持其和平解決俄烏衝突的意願，並做出真正努力。佩斯科夫當天還表示，儘管立場上仍然存在分歧，但俄美總統之間仍維持著建設性對話的渠道。
-
----
-
-### 2026-07-10 12:01:29  #市場 #國際
-
-韓國綜合股價指數上漲5%。
-
----
-
-### 2026-07-10 12:01:14  #MKT News #Important #005930.KS #Impact bullish #000660.KS
-
-South Korea's KOSPI rose more than 5%; Samsung Electronics jumped 6.5% and SK Hynix gained 2.7%.
-
----
-
-### 2026-07-10 12:00:46  #其他
-
-【國家能源局：大力推動新能源重卡規模化應用】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》，其中提出，推動交通用能清潔化。支援交通與能源設施一體化規劃、開發，充分利用鐵路、公路、樞紐場站及沿線周邊等空間，開發利用風電、光伏等可再生能源。加強規劃佈局，大力推動新能源重卡規模化應用，推動近海和內河船舶運輸燃料液化天然氣（LNG）、綠色氫氨醇和生物柴油規模化替代。推進港口、船舶岸電改造和使用，推動機場飛機輔助動力系統替代設施改造和使用。建設快充為主、慢充為輔、大功率充電為有益補充的城市公共充電網路，加強高速公路沿線大功率充電設施、電動重卡充換電設施建設，率先對重大節假日期間利用率超過40%的充電設施實施大功率改造。進一步下沉建設農村地區充電網路。
-
----
-
-### 2026-07-10 11:59:33  #MKT News
-
-【China NEA issues 2026–28 energy-saving and carbon-reduction R&D plan】China's National Energy Administration issued the Energy Sector Energy-Saving and Carbon Reduction Action Plan (2026–2028), calling for R&D on low-, zero- and negative-carbon frontier technologies. The plan prioritizes clean, high-efficiency use of fossil fuels and large-scale renewables, ramps up strategic frontier R&D to accelerate breakthroughs in supercritical CO2 (sCO2) power generation and CCUS, and targets flexible, high-efficiency wind/solar-to-hydrogen production, large-scale safe hydrogen storage, green hydrogen synthesis catalysis, low-carbon synthesis processes and long-distance hydrogen storage and transport.
-
----
-
-### 2026-07-10 11:58:08  #MKT News #Important #Copper #Impact bullish #CSI300 #SSE Composite
-
-【National Energy Administration: Tap spatiotemporal flexibility of computing loads to promote coordinated power‑compute operation】The National Energy Administration issued the Energy Sector Energy‑saving and Decarbonization Action Plan (2026–2028), promoting coordinated development of green power and emerging industries. The plan urges joint planning and construction of new‑energy bases with compute facilities and supports measures for compute facilities to raise green‑power consumption, explicitly calling for tapping the spatiotemporal adjustability of computing loads to enable coordinated operation with the power system. It mandates uptake of energy‑saving technologies — efficient cooling, high‑performance power delivery and advanced waste‑heat recovery — to boost compute facility energy efficiency, and directs construction of self‑consumption renewable bases and basin‑scale hydro‑wind‑solar integration to align power supply with advanced manufacturing and industrial demand.
-
----
-
-### 2026-07-10 11:57:51  #市場 #原創
-
-【7月10日午間漲停分析】滬指低開高走漲0.76%，全市場近4500股上漲，醫藥股全線反彈、半導體板塊跳水。恆尚節能9連板，一圖看懂>>
 
 ---
