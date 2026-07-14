@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-14 12:26:25",
+  "updated": "2026-07-14 12:30:17",
   "count": 17476,
   "items": [
+    {
+      "id": "4985974",
+      "time": "2026-07-14 12:29:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普加大威脅之際 伊朗油輪關閉應答器透過霍爾木茲海峽】船舶追蹤資料顯示，過去一週，六艘受美國製裁的超級油輪在關閉應答器的情況下，透過霍爾木茲海峽進入阿曼灣。這些油輪總共可裝載1200萬桶原油。這些船隻以及其他與伊朗有關的船隻，都是在華盛頓7月7日撤銷臨時許可、禁止進行新的伊朗石油銷售之後航行的。"
+    },
+    {
+      "id": "4985973",
+      "time": "2026-07-14 12:27:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【委內瑞拉政府更換外長 】委內瑞拉代總統德爾西·羅德里格斯13日宣佈，委政府已將外交部和外貿部合併為外交與外貿部，費利克斯·普拉森西亞將出任新部門的部長。羅德里格斯透過社交媒體發文表示，普拉森西亞將負責外交與外貿部，原外交部長伊萬·希爾將出任科技部長。普拉森西亞曾於2021年至2022年擔任委內瑞拉外交部長，今年早些時候曾被羅德里格斯委派出任委駐美外交代表。"
+    },
+    {
+      "id": "4985972",
+      "time": "2026-07-14 12:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴林境內再次拉響防空警報】當地時間14日上午7時20分左右，巴林境內拉響防空警報。這是當天凌晨以來巴林境內拉響的第三輪防空警報。（央視新聞）"
+    },
+    {
+      "id": "4985971",
+      "time": "2026-07-14 12:26:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【梁文鋒已成全球身家最高的AI公司創始人 得益於DeepSeek估值飆升】據報道， 在DeepSeek完成最新一輪融資後，創始人梁文鋒的淨值翻了一倍多，成為人工智慧模型開發者中身家最高的一位。根據彭博億萬富豪指數，梁文鋒目前的淨值為360億美元，使其排名遠高於Anthropic PBC的聯合創始人Dario Amodei以及OpenAI的Greg Brockman。"
+    },
     {
       "id": "mkt:019f5edf-cbd6-7aab-8d6e-38caa2fe6f00",
       "time": "2026-07-14 12:25:52",
@@ -159909,42 +159941,6 @@
         "其他"
       ],
       "text": "【洪災已致廣西橫州4死8失聯】記者從7日中午舉行的南寧市防汛救災新聞釋出會獲悉，截至7日10時，南寧橫州市死亡4人、失聯8人。（新華社）"
-    },
-    {
-      "id": "4973479",
-      "time": "2026-07-07 12:29:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【快粼光電完成千萬級天使輪融資，推動超高速光探測晶片量產落地】7月7日訊息，介面新聞獲悉，快粼光電已於6月完成數千萬元人民幣的天使輪融資。本輪融資由小苗朗程領投，一村資本跟投。此次募集資金將用於公司超高速光探測晶片的研發迭代、推動國產單波200G/400G PD晶片量產落地以及企業高階人才引進。自2024年成立以來，快粼光電卡位AI算力叢集與DCI（資料中心互聯）對光電器件的迫切需求，專注於高速、高功率III-V族光電探測晶片的研發，產品可應用於 800G、1.6T、3.2T 高速光互連，以及 LPO/LRO、NPO/CPO 等下一代資料中心網路架構。"
-    },
-    {
-      "id": "4973478",
-      "time": "2026-07-07 12:28:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滙豐暫停向風險較高的私募信貸客戶提供貸款】根據媒體援引三位知情人士的話報道，滙豐最近幾周告知部分客戶，將不再續簽其貸款協議；滙豐此前停止向那些未能提供足夠回報以彌補風險的私募信貸基金提供貸款。滙豐將專注於向風險較低的私募信貸基金提供貸款。滙豐表示，將聚焦在全球範圍內為最重要的客戶在該公司認為最具增長潛力的地區支援相關交易。"
-    },
-    {
-      "id": "te:economy:564680",
-      "time": "2026-07-07 12:27:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Egypt",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Egypt Non-Oil Private Sector Activity Lowest Since 2023 — The S&P Global Egypt PMI fell to 46.0 in June 2026 from 47.1 in May, signaling the sharpest contraction in the non-oil private sector in nearly three and a half years. Business conditions weakened as new orders fell at the fastest pace since November 2022, pressured by weak liquidity, supply disruptions, raw material shortages, and the Middle East conflict. Output, purchasing activity, and employment all contracted, although job losses eased slightly from May. Supply chain pressures remained elevated, with delivery times lengthening further due to shipping disruptions in the Strait of Hormuz, raw material shortages, and higher fuel costs. Meanwhile, input cost and output price inflation moderated from May's near-record highs, though fuel, raw material, and wage pressures remained significant. Looking ahead, business confidence stayed positive despite easing slightly from May, supported by expectations of reduced geopolitical disruptions and stronger government support."
-    },
-    {
-      "id": "4973477",
-      "time": "2026-07-07 12:26:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【螞蟻靈波釋出空間感知模型LingBot-Depth 2.0 聯合奧比中光加速產業落地】螞蟻集團旗下具身智慧公司靈波科技釋出空間感知模型LingBot-Depth2.0，基於1.5億規模資料進行訓練。此次還同步推出了LingBot-Depth2.0的視覺基座模型——LingBot-Vision。據瞭解，奧比中光最新推出的無本體資料採集產品矩陣中，RGB-D版本的EGO裝置會適配靈波科技專門為數採場景最佳化的LingBot-Depth版本，後續還將進一步整合更高階別商業版本模型。"
     }
   ]
 }
