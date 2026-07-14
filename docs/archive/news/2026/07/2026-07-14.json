@@ -1,7 +1,72 @@
 {
   "date": "2026-07-14",
-  "count": 690,
+  "count": 697,
   "items": [
+    {
+      "id": "mkt:019f5e07-f5bf-7aab-8d66-e82e817f9253",
+      "time": "2026-07-14 08:30:07",
+      "tags": [
+        "MKT News",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia July Westpac-Melbourne consumer confidence index MoM +4.1% vs -2.9% prior."
+    },
+    {
+      "id": "mkt:019f5e07-d824-7aab-8d66-e0c24368a8f7",
+      "time": "2026-07-14 08:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac/Melbourne Institute Consumer Sentiment Index (MoM) (Jul) | actual 4.1% | previous -2.90%"
+    },
+    {
+      "id": "4985564",
+      "time": "2026-07-14 08:29:43",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：上半年核心城市銷售呈現強韌性】華泰證券研報稱，回顧2026年上半年，房地產新房市場供需同比仍有所下降，但二手房市場延續高景氣，房價“止跌”訊號區域性顯現。結構上，一線城市新房銷售同比降幅明顯收窄；改善型需求為新房市場重要支撐，二手房市場主要對接剛需，低總價房源佔比持續提升。華泰證券認為隨著租金跌幅持續收窄，租售比的改善為市場全面修復鋪墊，後續關注房價止跌訊號能否從上海向更多核心城市擴散。一線城市房價韌性、掛牌結構最佳化及新興產業強承載城市結構性復甦邏輯未變，行業配置價效比凸顯，建議堅守新興產業集聚城市佈局思路。"
+    },
+    {
+      "id": "4985563",
+      "time": "2026-07-14 08:29:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：汽車行業主線將轉向出口兌現與盈利修復】中信證券研報稱，覆盤2026年上半年，國內乘用車市場受購置稅退坡、需求前置及價格觀望影響整體承壓，出口成為核心增量，奇瑞、比亞迪、吉利等大型自主車企海外銷量同比均70%以上增長。展望2026年下半年及2027年，中信證券認為行業主線將轉向出口兌現與盈利修復，頭部車企有望透過多動力型別並進、海外建廠及對外合作實現量利增長；國內競爭雖仍激烈，但高階化主線仍值得關注。"
+    },
+    {
+      "id": "4985562",
+      "time": "2026-07-14 08:29:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟財政大臣城內實：關注中東局勢對日本物價和經濟的影響。"
+    },
+    {
+      "id": "mkt:019f5e05-2f8b-7aab-8d66-da721bc5a8e1",
+      "time": "2026-07-14 08:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BANK OF KOREA minutes signal possible July rate-hike decision】BANK OF KOREA June minutes flagged rate-hike risks and repeated language used ahead of prior tightening, suggesting a possible policy move in July while aiming to limit market disruption. The minutes stressed the side-effects of higher borrowing costs, echoing June 2022 wording that questioned whether corporate credit demand would remain resilient; roughly three weeks after that meeting the bank implemented a historic 50bp hike. The pattern offers fresh clues ahead of Thursday’s rate decision. Committee members warned rising borrowing costs will exacerbate distress in vulnerable sectors and said fiscal support may be needed while urging banks to tighten loan screening and firms to pursue restructuring."
+    },
+    {
+      "id": "mkt:019f5e05-2625-7aab-8d66-d4424732bae5",
+      "time": "2026-07-14 08:27:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equity futures slipped: Euro Stoxx 50 futures down 0.9%, DAX futures down 0.8%, FTSE 100 futures down 0.1%."
+    },
     {
       "id": "4985561",
       "time": "2026-07-14 08:26:15",
