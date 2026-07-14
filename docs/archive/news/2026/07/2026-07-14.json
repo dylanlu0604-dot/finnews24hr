@@ -1,7 +1,121 @@
 {
   "date": "2026-07-14",
-  "count": 1721,
+  "count": 1734,
   "items": [
+    {
+      "id": "4986274",
+      "time": "2026-07-14 14:44:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍在夜間發動的叢集打擊中，摧毀了基輔與巡航導彈和無人機生產相關的工廠。"
+    },
+    {
+      "id": "te:economy:566698",
+      "time": "2026-07-14 14:43:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Wholesale Prices YoY",
+        "Importance 2"
+      ],
+      "text": "India Wholesale Inflation Hits Highest Since 2022 — India’s wholesale prices increased 9.87% year-on-year in June 2026, surpassing expectations of 9.15%. This marked the fastest growth since September 2022, mainly driven by faster increases in food prices and a surge in fuel prices, while manufacturing prices also increased."
+    },
+    {
+      "id": "4986273",
+      "time": "2026-07-14 14:42:50",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "英國利率期貨顯示，截至12月英國央行將累計收緊貨幣政策約50個基點，週一該預期為約40個基點。"
+    },
+    {
+      "id": "4986272",
+      "time": "2026-07-14 14:42:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊衝突持續升級 亞洲轉而加大采購美國原油】美伊衝突持續升級，霍爾木茲海峽可監測航運近乎停滯，亞洲煉油廠因此轉而加大采購美國原油。三名負責美國原油外銷、對接亞洲煉廠採購業務的高管透露，他們已重啟美國原油現貨船貨談判；因未獲對外發聲授權，相關人士要求匿名。此前中東積壓原油大批次湧入現貨市場，相關洽談一度陷入停滯，市場對美油的採購需求隨之降溫。如今停火協議基本形同作廢，中東原油外運通道面臨巨大風險，買家再度踴躍求購美油。近日商船遇襲事件頻發，美國重啟對伊朗港口的海上封鎖；特朗普總統還提議，凡經美方安保護航透過霍爾木茲海峽的貨物，均需繳納 20% 通行費。按當前油價測算，一艘超大型油輪單次通行需繳納約 3000 萬美元。對比戰爭初期，伊朗同期單次通航僅收取約 200 萬美元。"
+    },
+    {
+      "id": "mkt:019f5f5c-9ce8-7aab-8d72-960afd52ec0b",
+      "time": "2026-07-14 14:42:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's SNN news agency says a railway bridge in northeast Iran that was attacked last week has reopened after repairs."
+    },
+    {
+      "id": "4986271",
+      "time": "2026-07-14 14:41:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家新聞通訊社（SNN）稱，上週在伊朗東北部遭襲的鐵路橋樑經修復後已重新開放。"
+    },
+    {
+      "id": "te:markets:566696",
+      "time": "2026-07-14 14:41:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Gas Prices Climb to Over 3-Month High — UK natural gas prices rose toward 128 pence per therm on Tuesday, hitting their highest level in more than three months after President Donald Trump reimposed a US blockade on Iranian ports and announced a 20% security fee on all cargo shipped through the Strait of Hormuz. The blockade, scheduled to take effect at 4:00 p.m. EDT on Tuesday, has dampened expectations for a near-term normalization of shipping activity through the vital waterway. LNG exports from the Middle East had only recently begun to recover, with Qatar ramping up production and shipments following the US-Iran interim agreement in June. However, the renewed hostilities have abruptly halted that recovery, raising concerns over fresh disruptions to LNG exports from the region. Such disruptions could tighten global gas supplies just as Europe is racing to refill storage facilities ahead of next winter."
+    },
+    {
+      "id": "4986270",
+      "time": "2026-07-14 14:41:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞製造業工人聯盟（AMWU）已通知，工人及其代表擬於7月16日開展受法律保護的工業行動。"
+    },
+    {
+      "id": "4986269",
+      "time": "2026-07-14 14:41:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1332億元。"
+    },
+    {
+      "id": "4986268",
+      "time": "2026-07-14 14:41:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國10年期國債收益率升至3.111%，創八週新高。"
+    },
+    {
+      "id": "4986266",
+      "time": "2026-07-14 14:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月14日：“農產品批發價格200指數”比昨天上升0.30個點】據農業農村部監測，7月14日“農產品批發價格200指數”為111.39，比昨天上升0.30個點，“菜籃子”產品批發價格指數為111.18，比昨天上升0.36個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為16.05元/公斤，比昨天上升0.6%；牛肉66.55元/公斤，比昨天下降0.2%；羊肉64.64元/公斤，比昨天上升0.2%；雞蛋9.85元/公斤，比昨天上升0.4%；白條雞17.57元/公斤，比昨天上升0.2%。重點監測的28種蔬菜平均價格為4.18元/公斤，比昨天上升0.2%；重點監測的6種水果平均價格為7.00元/公斤，比昨天下降1.3%。鯽魚20.20元/公斤，比昨天下降1.4%；鯉魚14.63元/公斤，比昨天下降0.8%；白鰱魚10.47元/公斤，與昨天持平；大帶魚40.64元/公斤，比昨天下降2.1%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是黃瓜、菠菜、油菜、蔥頭和生菜，幅度分別為7.5%、3.8%、3.1%、1.7%和1.5%；價格降幅前五名的是萵筍、花鰱魚、大帶魚、冬瓜和菠蘿，幅度分別為3.7%、2.3%、2.1%、2.0%和1.8%。"
+    },
+    {
+      "id": "4986265",
+      "time": "2026-07-14 14:40:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "交易員增加對英國央行加息的押注，充分消化了9月份加息25個基點的預期。"
+    },
+    {
+      "id": "4986264",
+      "time": "2026-07-14 14:40:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華熙生物在天津新設智慧製造公司】企查查APP顯示，近日，華熙生物智慧製造（天津）有限公司成立，經營範圍包含：第二類醫療器械生產；第三類醫療器械生產；第三類醫療器械經營等。企查查股權穿透顯示，該公司由華熙生物全資持股。"
+    },
     {
       "id": "4986263",
       "time": "2026-07-14 14:39:55",
