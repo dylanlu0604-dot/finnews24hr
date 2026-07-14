@@ -1,7 +1,149 @@
 {
   "date": "2026-07-14",
-  "count": 3697,
+  "count": 3713,
   "items": [
+    {
+      "id": "mkt:019f60c1-e098-7aab-8d7e-6e297057f108",
+      "time": "2026-07-14 21:12:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil approved raising the ethanol blend in gasoline to 32%."
+    },
+    {
+      "id": "4987860",
+      "time": "2026-07-14 21:12:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【自然資源部：探索建立資源權益指標市場化交易機制】7月14日，國新辦舉行新聞釋出會，介紹完善自然資源資產管理制度體系有關情況。健全自然資源資產產權制度和管理制度體系，是黨的二十屆三中全會明確的改革任務。近日，中共中央辦公廳、國務院辦公廳印發《關於完善自然資源資產管理制度體系的意見》（以下簡稱《意見》），這是自然資源資產管理領域的綱領性檔案，構建了統一履行全民所有自然資源資產所有者職責的“四梁八柱”。（每經）"
+    },
+    {
+      "id": "mkt:019f60c1-2b24-7aab-8d7e-624f65ac2bcd",
+      "time": "2026-07-14 21:11:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine defense industry group general manager Herman Smetanin resigns】Herman Smetanin, general manager of Ukraine's defense industry group, said on the 14th local time he had stepped down with immediate effect and gave no reason."
+    },
+    {
+      "id": "4987859",
+      "time": "2026-07-14 21:11:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技：本次發行的初步詢價報價區間為7.26元/股-65.19元/股】長鑫科技公告，本次發行的初步詢價期間為2026年7月13日（T-3日）9：30-15：00。截至2026年7月13日（T-3日）15：00，聯席主承銷商透過上交所業務管理系統平臺（發行承銷業務）共收到333家網下投資者管理的11537個配售物件的初步詢價報價資訊，報價區間為7.26元/股-65.19元/股，擬申購數量總和為12860.62億股。"
+    },
+    {
+      "id": "4987858",
+      "time": "2026-07-14 21:11:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏克蘭國防工業集團總經理斯梅塔寧宣佈辭職】烏克蘭國防工業集團總經理赫爾曼·斯梅塔寧發表宣告稱，他當天結束擔任該公司總經理職務。他在宣告中並沒有說明辭職的具體原因。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f60c0-d118-7aab-8d7e-5df89abb37ce",
+      "time": "2026-07-14 21:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Persian Gulf Sea Lanes Organization said 200 non-Iranian vessels transited the Strait of Hormuz in a coordinated manner between the signing of a memorandum of understanding and before the U.S. created tensions in the strait."
+    },
+    {
+      "id": "4987857",
+      "time": "2026-07-14 21:10:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡警告伊朗不得襲擊以色列。"
+    },
+    {
+      "id": "mkt:019f60c0-7c47-7aab-8d7e-517bae96987c",
+      "time": "2026-07-14 21:10:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Prime Minister Netanyahu said Hezbollah now possesses only 7–8% of the missiles it held at the start of the war."
+    },
+    {
+      "id": "4987856",
+      "time": "2026-07-14 21:10:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "內塔尼亞胡：伊朗若再度發動襲擊，以色列將予以力度遠強於以往的反擊。"
+    },
+    {
+      "id": "4987855",
+      "time": "2026-07-14 21:10:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西能源理事會批准將汽油中強制新增的乙醇混合比例從30%上調至32%。"
+    },
+    {
+      "id": "te:economy:566840",
+      "time": "2026-07-14 21:10:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Interest Rate",
+        "Importance 3"
+      ],
+      "text": "Warsh Reaffirms Fed's Commitment to Price Stability — Fed Chair Warsh said policymakers remain fully committed to restoring price stability and have no tolerance for persistently elevated inflation, according to prepared remarks released ahead of his Semiannual Monetary Policy Report to Congress. Warsh added, \"If we get policy right - and we will - the inflation surge of the last five years will be a thing of the past\". The Fed Chair also said the US economy continues to expand at a solid pace, demonstrating resilience despite recent developments. Household consumption is growing at a moderate rate, while manufacturing output has risen steadily this year. He highlighted business investment as the economy's most notable strength, driven largely by the construction of data centers and robust demand for AI-related equipment and software. On the labor market, Warsh noted that job creation has kept pace with labor force growth, the unemployment rate remains low while nominal wages continue to post solid growth."
+    },
+    {
+      "id": "mkt:019f60bf-bbd5-7aab-8d7e-4e5adcedc23e",
+      "time": "2026-07-14 21:10:05",
+      "tags": [
+        "MKT News",
+        "BAC.N",
+        "Impact bullish"
+      ],
+      "text": "BofA (BAC.N) holds a constructive view on loan growth in H2."
+    },
+    {
+      "id": "4987854",
+      "time": "2026-07-14 21:09:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行高管表示，對下半年貸款增長持樂觀態度。"
+    },
+    {
+      "id": "4987853",
+      "time": "2026-07-14 21:09:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【段建軍接任上海沃爾沃汽車研發有限公司法定代表人】天眼查App顯示，7月9日，上海沃爾沃汽車研發有限公司發生工商變更，袁小林卸任法定代表人，由段建軍接任。該公司成立於2014年1月，註冊資本約6.19億人民幣，經營範圍含汽車、零部件、發動機製造、IT基礎設施技術有關的研發和測試，汽車銷售等。股東資訊顯示，該公司由沃爾沃汽車（中國）投資有限公司、浙江吉利控股集團有限公司分別持股50%。"
+    },
+    {
+      "id": "mkt:019f60be-e35e-7aab-8d7e-422aa9241e80",
+      "time": "2026-07-14 21:09:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: June CPI positive for Walsh and the Fed】Analyst David Russell said June CPI was positive for Walsh and the Federal Reserve. Markets broadly expected energy to fall, while vehicle prices, housing costs and apparel showed upside. Russell cautioned these gains could be undone if renewed Middle East tensions push oil prices higher."
+    },
+    {
+      "id": "4987852",
+      "time": "2026-07-14 21:08:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行首席財務官表示，針對任何加息舉措，我們顯然會對各業務板塊的定價作出調整，但整體而言，我們預計加息對我們而言是利好。"
+    },
     {
       "id": "4987851",
       "time": "2026-07-14 21:08:28",
