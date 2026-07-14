@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-14 13:20:57",
-  "count": 17566,
+  "updated": "2026-07-14 13:24:53",
+  "count": 17562,
   "items": [
+    {
+      "id": "mkt:019f5f14-95db-7aab-8d6f-e081e1b5720d",
+      "time": "2026-07-14 13:23:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Won strength drives dollar dip-buying; South Korea USD deposits at top five banks highest since Dec 2022】South Korea's top five commercial banks held $70.9bn in USD deposits as of July 9, the highest level since Dec 2022, after a sharp July increase. Corporate USD deposits totaled $58.69bn, up $5.6bn versus end-June and accounting for about 96% of the rise; household USD deposits rose to $12.2bn, up $244m. Banks say corporates received large dollar inflows after 1H financial settlements and are retaining USD for import payments and FX risk management. Market participants note the won’s appreciation from roughly KRW1,500/USD to around KRW1,400 has eased profit-taking and spurred dip-buying of dollars."
+    },
+    {
+      "id": "4986121",
+      "time": "2026-07-14 13:22:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4986120",
+      "time": "2026-07-14 13:21:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "麥格米特觸及漲停，成交額57.44億元。"
+    },
+    {
+      "id": "mkt:019f5f12-c15c-7aab-8d6f-dd378ff02a62",
+      "time": "2026-07-14 13:21:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share liquid-cooled server sector rallied after choppy trading; Feilong and Bojie hit daily limit-ups, while Audiwei, Fenghua High-Tech, Kaitian Gas and Guangxun Technology also rose."
+    },
     {
       "id": "te:economy:566661",
       "time": "2026-07-14 13:20:14",
@@ -160690,83 +160731,6 @@
         "宏觀"
       ],
       "text": "【習近平對防汛救災工作作出重要指示】中共中央總書記、國家主席、中央軍委主席習近平對防汛救災工作作出重要指示。習近平指出，近日，廣西、湖北、甘肅等地因降雨大風天氣，接連發生水庫潰壩、山體滑坡等災情，造成重大人員傷亡和經濟損失。要全力組織搶險救援、傷員救治、群眾安置等工作，最大限度減少人員傷亡，防範次生災害。習近平強調，當前防汛形勢嚴峻複雜，各地各有關部門要抓好既定部署措施落實，堅決克服麻痺思想和僥倖心理，盯緊壓實防災救災責任，深入開展江河湖泊、病險水庫、地質災害易發區等風險隱患排查整治，強化監測預警和應急救援準備，紮實做好防災救災各項工作，確保人民群眾生命財產安全。中共中央政治局常委、國務院總理李強作出批示指出，近期極端天氣多發，國家防辦、國家防減救災辦要指導各地密切關注雨情汛情，加強險情監測預警，全力開展搶險救援，深入排查災害風險隱患，落實落細各項防汛救災措施，嚴防發生重大次生災害。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f3b08-dac8-7aab-8cc3-d40465a212a0",
-      "time": "2026-07-07 13:24:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "300750.SZ",
-        "Impact bullish"
-      ],
-      "text": "【CATL's Jianxiawo lithium mine granted safety production permit】CATL's Jianxiawo lithium mine has been granted a safety production permit issued to Yichun Times New Energy Mining Co. by the Yichun Emergency Management Bureau. The administrative decision was dated 29 June 2026; the permit is effective from 28 February 2025 to 27 February 2028 and authorizes a change to the non-coal mine safety production permit for the Jianxiawo lithium mine covering Zhenkouli (Yifeng County) and Fengxin County in Jiangxi province."
-    },
-    {
-      "id": "4973547",
-      "time": "2026-07-07 13:24:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信用中國官網顯示，寧德時代梘下窩鋰礦已獲安全生產許可證】從信用中國官網查詢到，宜春時代新能源礦業有限公司已經獲得安全生產許可證。其中，許可單位為宜春市應急管理局，行政許可決定文書號為宜應急礦山許決字〔2026〕第009號，行政許可決定文書名稱為非煤礦礦山企業安全生產企業變更許可，許可編號為（贛）FM安許證字〔2025〕C054號。該許可決定日期為2026年6月29日，有效期自2025年2月28日至2028年2月27日。安全生產許可證許可內容為宜春時代新能源礦業有限公司江西省宜豐縣圳口裡-奉新縣梘下窩鋰礦變更。（每經）"
-    },
-    {
-      "id": "4973546",
-      "time": "2026-07-07 13:23:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電梯板塊震盪走弱，快意電梯跌停】電梯板塊震盪走弱，快意電梯跌停，廣日股份、展鵬科技、世嘉科技、同力天啟、上海電氣等跟跌。"
-    },
-    {
-      "id": "4973545",
-      "time": "2026-07-07 13:22:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【哥倫比亞對原產於中國的成條訂書釘啟動反傾銷調查】據中國貿易救濟資訊網，6月22日，哥倫比亞貿工旅遊部在官方公報釋出2026年第305號公告稱，應哥倫比亞生產商申請，對原產於中國的成條訂書釘啟動反傾銷調查。本案傾銷調查期為2025年4月9日至2026年4月8日。涉案產品的哥倫比亞稅號為8305.20.00.00。公告自發布次日起生效。"
-    },
-    {
-      "id": "mkt:019f3b06-64bd-7aab-8cc3-cbff2457e1e4",
-      "time": "2026-07-07 13:21:42",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan's 2-year bond yield rose 1.0bp to 1.400%; the 5-year yield rose 3.5bp to 1.975%."
-    },
-    {
-      "id": "4973544",
-      "time": "2026-07-07 13:21:35",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率<JP5YTN=JBTC>上漲3.5個基點，至1.975%."
-    },
-    {
-      "id": "4973543",
-      "time": "2026-07-07 13:21:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率上漲1.0個基點，至1.400%。"
-    },
-    {
-      "id": "mkt:019f3b06-200b-7aab-8cc3-c60b15a33eb5",
-      "time": "2026-07-07 13:21:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran's foreign minister says final talks won't start if threats continue】On the 7th Iran's foreign minister Araghchi said on social media that under the terms of the Iran‑US memorandum of understanding, final agreement negotiations will not begin if threats persist."
     }
   ]
 }

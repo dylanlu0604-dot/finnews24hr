@@ -1,7 +1,48 @@
 {
   "date": "2026-07-14",
-  "count": 1502,
+  "count": 1506,
   "items": [
+    {
+      "id": "mkt:019f5f14-95db-7aab-8d6f-e081e1b5720d",
+      "time": "2026-07-14 13:23:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Won strength drives dollar dip-buying; South Korea USD deposits at top five banks highest since Dec 2022】South Korea's top five commercial banks held $70.9bn in USD deposits as of July 9, the highest level since Dec 2022, after a sharp July increase. Corporate USD deposits totaled $58.69bn, up $5.6bn versus end-June and accounting for about 96% of the rise; household USD deposits rose to $12.2bn, up $244m. Banks say corporates received large dollar inflows after 1H financial settlements and are retaining USD for import payments and FX risk management. Market participants note the won’s appreciation from roughly KRW1,500/USD to around KRW1,400 has eased profit-taking and spurred dip-buying of dollars."
+    },
+    {
+      "id": "4986121",
+      "time": "2026-07-14 13:22:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4986120",
+      "time": "2026-07-14 13:21:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "麥格米特觸及漲停，成交額57.44億元。"
+    },
+    {
+      "id": "mkt:019f5f12-c15c-7aab-8d6f-dd378ff02a62",
+      "time": "2026-07-14 13:21:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share liquid-cooled server sector rallied after choppy trading; Feilong and Bojie hit daily limit-ups, while Audiwei, Fenghua High-Tech, Kaitian Gas and Guangxun Technology also rose."
+    },
     {
       "id": "te:economy:566661",
       "time": "2026-07-14 13:20:14",
