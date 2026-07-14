@@ -1,7 +1,62 @@
 {
   "date": "2026-07-15",
-  "count": 237,
+  "count": 243,
   "items": [
+    {
+      "id": "4988340",
+      "time": "2026-07-15 01:17:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "LUCID股票因波動劇烈而暫停交易，跌幅高達30%。"
+    },
+    {
+      "id": "mkt:019f61a1-7fc8-7aab-8d86-b91909f733c3",
+      "time": "2026-07-15 01:16:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $278 mln from four counterparties in a fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "4988339",
+      "time": "2026-07-15 01:16:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週二（7月14日），美聯儲隔夜逆回購協議（RRP）使用規模為2.78億美元（交易對手4家），上個交易日報7.95億美元。"
+    },
+    {
+      "id": "4988338",
+      "time": "2026-07-15 01:16:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：安迪梅什克發生的爆炸並非遭襲擊所致。"
+    },
+    {
+      "id": "4988337",
+      "time": "2026-07-15 01:16:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "LUCID股價暴跌30%。"
+    },
+    {
+      "id": "mkt:019f61a0-25bf-7aab-8d86-b5261fc91038",
+      "time": "2026-07-15 01:15:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian President PEZESHKIAN said Tehran will respond with concrete action to Trump's provocations and will defend every inch of Iranian territory."
+    },
     {
       "id": "4988336",
       "time": "2026-07-15 01:14:04",
