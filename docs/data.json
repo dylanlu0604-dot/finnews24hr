@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-15 05:20:47",
-  "count": 18821,
+  "updated": "2026-07-15 05:24:43",
+  "count": 18810,
   "items": [
+    {
+      "id": "mkt:019f6283-bd6f-7aab-8d8a-8c77ef0b4da1",
+      "time": "2026-07-15 05:23:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS: Iranian local and security officials deny any explosions occurred in Chabahar."
+    },
+    {
+      "id": "4988518",
+      "time": "2026-07-15 05:22:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社訊息，當地安全官員否認恰巴哈爾發生任何爆炸事件。"
+    },
+    {
+      "id": "te:economy:566910",
+      "time": "2026-07-15 05:22:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Import Prices YoY",
+        "Importance 1"
+      ],
+      "text": "South Korea Import Price Growth Eases in June — South Korea's import prices rose 20.6% year-on-year in June 2026, easing from an upwardly revised 25.4% increase in May. Price gains were led by mining products, which climbed 25.2%, driven by higher costs for coal, crude petroleum and natural gas (23.3%), as well as metallic and non-metallic mineral products (36.8%). Prices for manufactured goods also increased, with coal and petroleum products up 38.9% and basic metal products rising 34.3%. Meanwhile, prices for agricultural, forestry, and marine products increased 15.2%. By end use, intermediate goods recorded the largest increase, rising 25.4%, followed by raw materials (24.1%) and capital goods (7.7%). On a monthly basis, the Import Price Index fell 4.4%."
+    },
+    {
+      "id": "mkt:019f6281-fed8-7aab-8d8a-82fb8299b272",
+      "time": "2026-07-15 05:21:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "IRNA reports US forces shelled Iran's Hengam Island."
+    },
     {
       "id": "mkt:019f627f-e4c5-7aab-8d8a-7b57d0f2d02c",
       "time": "2026-07-15 05:19:36",
@@ -172161,148 +172201,6 @@
         "其他"
       ],
       "text": "奈飛、迪士尼、YouTube有意競標拿下2030年、2034年世界盃轉播權。"
-    },
-    {
-      "id": "4974986",
-      "time": "2026-07-08 05:24:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "超過1500名美國國會工作人員正敦促參眾兩院領袖全面改革國會山處理性騷擾投訴的機制。上一次國會更新相關舉報流程是2018年，彼時MeToo運動正處於高潮。"
-    },
-    {
-      "id": "mkt:019f3e77-ed6b-7aab-8cd7-4f0743343dd6",
-      "time": "2026-07-08 05:24:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's foreign ministry said Iran holds the US government responsible for the consequences of its \"violation\" of the Islamabad Memorandum of Understanding that ended the war."
-    },
-    {
-      "id": "mkt:019f3e77-ec7d-7aab-8cd7-46004566cf7c",
-      "time": "2026-07-08 05:24:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said it will take all measures it deems necessary to safeguard its interests and national security."
-    },
-    {
-      "id": "4974985",
-      "time": "2026-07-08 05:23:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部稱，伊朗將採取一切其認為必要的措施，維護本國利益與國家安全。"
-    },
-    {
-      "id": "4974984",
-      "time": "2026-07-08 05:23:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：伊朗要求美國政府為“違反”結束戰爭的《伊斯蘭堡備忘錄》承擔一切後果。"
-    },
-    {
-      "id": "4974983",
-      "time": "2026-07-08 05:23:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "奈飛、迪士尼、YouTube有意競標世界盃美國地區轉播權。"
-    },
-    {
-      "id": "mkt:019f3e76-f112-7aab-8cd7-394c4b8743c4",
-      "time": "2026-07-08 05:23:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry condemned the US Treasury's revocation of a temporary suspension of sanctions on Iranian oil sales."
-    },
-    {
-      "id": "mkt:019f3e76-bd88-7aab-8cd7-376bfd79cc97",
-      "time": "2026-07-08 05:23:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US launches strikes on multiple sites in southern Iran】Iranian media reported explosions in the early hours of July 8 local time on Qeshm Island and near Sirik and Bandar Abbas. US Central Command (CENTCOM) said it has begun a series of strong strikes against Iran in response to Iranian attacks on three merchant vessels transiting the Strait of Hormuz."
-    },
-    {
-      "id": "te:economy:564981",
-      "time": "2026-07-08 05:23:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "API Crude Oil Stock Change",
-        "Importance 1"
-      ],
-      "text": "US Oil Stockpiles Fall for Another Week — US crude oil inventories fell by 399,000 barrels in the week ending July 3, following a 6.072 million-barrel draw the previous week. Commercial crude inventories, excluding the SPR, have declined by nearly 60 million barrels over the past 12 weeks but remain only 8.6 million barrels lower year-to-date. The SPR fell by another 6.2 million barrels to 325.7 million, leaving inventories about 405 million barrels below maximum capacity. Cushing inventories declined by 69,000 barrels after rising 503,000 barrels the week before. Gasoline and distillate inventories fell by 2.929 million and 1.801 million barrels, respectively. Meanwhile, US oil production edged down to 13.810 million bpd from 13.819 million bpd."
-    },
-    {
-      "id": "4974982",
-      "time": "2026-07-08 05:23:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗南部多座城市及島嶼上空傳來戰鬥機轟鳴聲。"
-    },
-    {
-      "id": "4974981",
-      "time": "2026-07-08 05:22:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "伊朗外交部宣告：譴責美國財政部取消伊朗石油銷售制裁臨時豁免的舉措。"
-    },
-    {
-      "id": "4974980",
-      "time": "2026-07-08 05:22:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部多地再遭美軍襲擊】據伊朗媒體報道，當地時間今天（7月8日）凌晨，伊朗南部格什姆島及錫裡克、阿巴斯港等多地傳出爆炸聲。美軍中央司令部稱，已開始對伊朗發動一系列強力打擊，“以回應伊朗攻擊三艘途經霍爾木茲海峽的商船”。"
-    },
-    {
-      "id": "mkt:019f3e75-bca8-7aab-8cd7-2be0f1a523b5",
-      "time": "2026-07-08 05:22:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian media reported six missiles struck the Tahrui dock area in Sirik, southern Iran."
-    },
-    {
-      "id": "4974979",
-      "time": "2026-07-08 05:21:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收跌0.11%，報14873點。"
-    },
-    {
-      "id": "4974978",
-      "time": "2026-07-08 05:21:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱，六枚炮彈擊中伊朗南部錫裡克的塔赫魯伊碼頭區域。"
     }
   ]
 }
