@@ -1,7 +1,72 @@
 {
   "date": "2026-07-15",
-  "count": 153,
+  "count": 161,
   "items": [
+    {
+      "id": "4988291",
+      "time": "2026-07-15 00:45:05",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：人工智慧將從諸多方面重塑勞動力市場與整體經濟，目前尚無法確定人工智慧會縮小還是加劇收入及財富不平等問題。"
+    },
+    {
+      "id": "mkt:019f6184-89ac-7aab-8d85-ae03fdd341e8",
+      "time": "2026-07-15 00:45:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Governor Barr said AI will affect the labor market and the broader economy in multiple ways; it is not yet possible to determine whether it will narrow or widen income and wealth inequality."
+    },
+    {
+      "id": "4988290",
+      "time": "2026-07-15 00:44:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲巴爾：人工智慧究竟會全面提升民眾生活水平，還是加劇收入與財富分配不均？"
+    },
+    {
+      "id": "4988289",
+      "time": "2026-07-15 00:43:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以黎在羅馬舉行談判 聚焦落實試點區撤軍計劃】當地時間14日，以色列與黎巴嫩在義大利羅馬開始舉行第六輪談判。本輪談判為期兩天，首日會談已於以色列時間當天晚間結束。這是兩國上個月在美國首都華盛頓簽署框架協議以來的首次會晤。據悉，本次談判重點聚焦一項試點計劃，即討論以軍從黎巴嫩南部兩個試點區域實施首批撤軍的具體落實方案。根據該計劃，黎巴嫩政府軍將進入以軍撤出的區域，以確保該地區沒有黎巴嫩真主黨的武器。本週早些時候，美國軍事代表團已在貝魯特與黎巴嫩軍方高層會面，就落實撤軍方案進行了前期討論。"
+    },
+    {
+      "id": "mkt:019f6183-2cf7-7aab-8d85-a757b1b2f7ca",
+      "time": "2026-07-15 00:43:34",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "Samsung plans to launch a new Galaxy Watch on July 22."
+    },
+    {
+      "id": "mkt:019f6181-72f0-7aab-8d85-9ae4ccdbf874",
+      "time": "2026-07-15 00:41:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Israeli Defense Forces says it killed four senior Hamas members from the Jabalia battalion in Gaza, including the battalion's military security chief."
+    },
+    {
+      "id": "4988288",
+      "time": "2026-07-15 00:41:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【E·吉恩·卡羅爾收到特朗普支付的560萬美元民事案件賠償金】美國聯邦法院卷宗記錄顯示，特朗普已向作家E·吉恩·卡羅爾付清560萬美元賠償金。陪審團認定，20世紀90年代特朗普在曼哈頓一家百貨商店內對卡羅爾實施性侵，後續又公開誹謗她，據此裁定特朗普承擔賠償責任。2023年陪審團作出賠付裁決後，特朗普提起上訴，這筆賠償金此前一直交由第三方託管。案件線上庭審記錄於本週二新增備註顯示，託管款項已於上週撥付至卡羅爾賬戶。此次付款的前提是美國最高法院駁回了特朗普針對該判決的最後一次上訴申請，審理該案的法官隨即下令將託管賠償金髮放給卡羅爾。卡羅爾的代理律師羅伯塔·卡普蘭發表宣告表示，她與當事人“十分欣慰地告知公眾，當事人已收到陪審團依據判決裁定的損害賠償金”。"
+    },
     {
       "id": "4988287",
       "time": "2026-07-15 00:40:18",
@@ -23,6 +88,15 @@
         "DXY"
       ],
       "text": "Kish Island Water and Power Engineering Company said a projectile exploded near water and power supply facilities on Iran's Kish Island during a US-launched strike in the early hours of Tuesday. The blast, which occurred close to generator sets, altered the technical parameters of some generators."
+    },
+    {
+      "id": "em:qqyh_mlc:202607153806245232",
+      "time": "2026-07-15 00:39:10",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，儘管今天的CPI資料好於市場預期，但不贊成只挑有利的資料來看。若能獲得更完善的資料支援決策，將更有信心。"
     },
     {
       "id": "4988286",
