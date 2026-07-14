@@ -1,7 +1,31 @@
 {
   "date": "2026-07-14",
-  "count": 605,
+  "count": 609,
   "items": [
+    {
+      "id": "4985509",
+      "time": "2026-07-14 07:59:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天賜材料：預計公司三季度電解液排產數量環比進一步增長】天賜材料(002709)在分析師會議上表示，公司電解液和六氟磷酸鋰產能利用率接近滿產水平。根據下游客戶的需求預測，在儲能電池需求增長的提振下，預計公司2026年三季度電解液排產數量環比進一步增長，下游需求持續旺盛。公司六氟磷酸鋰原規劃的3.5萬噸新增技改產能目前正按計劃推進，公司將按市場及訂單需求情況調整投放節奏，預計於2026年下半年投產。"
+    },
+    {
+      "id": "mkt:019f5deb-8cb9-7aab-8d66-05740ed2fee8",
+      "time": "2026-07-14 07:59:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tinci Materials expects Q3 2026 electrolyte volumes to rise QoQ; 35,000-tonne LiPF6 expansion on track for H2 2026】At an analyst meeting Tinci Materials said electrolyte and LiPF6 capacity utilization is near full. Citing downstream customer forecasts and stronger energy-storage battery demand, the company expects electrolyte production/scheduling to rise QoQ in Q3 2026 and said downstream demand remains robust. A planned 35,000-tonne LiPF6 capacity upgrade is proceeding as scheduled; the company will time commissioning to market and order conditions and expects start-up in H2 2026."
+    },
+    {
+      "id": "4985508",
+      "time": "2026-07-14 07:57:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【10只液冷概念股年內獲融資資金淨買入超1億元】隨著頭部企業落地全液冷算力架構，疊加各地算力能耗管控政策不斷收緊，多重驅動因素形成共振，液冷技術已然成為超高密度AI算力中心建設剛需，行業滲透速度持續加快。A股市場方面，今年以來，液冷概念股平均漲幅超19%，其中冰輪環境、鼎通科技和申菱環境均漲超144%。從年內機構調研情況來看，19只液冷概念股獲得機構調研，其中三花智控、鼎通科技、冰輪環境、領益智造和銀輪股份等個股年內獲得多家機構調研。資金方面，有10只液冷概念股年內獲融資資金淨買入超1億元，包括巨化股份、申菱環境、飛龍股份和高瀾股份等。"
+    },
     {
       "id": "4985507",
       "time": "2026-07-14 07:55:44",
@@ -9,6 +33,15 @@
         "國際"
       ],
       "text": "據伊朗媒體14日報道，伊朗格什姆島、阿巴斯港等地傳出多起爆炸聲。胡齊斯坦省部分地區當天凌晨遭到美軍襲擊，造成4人受傷。（新華社）"
+    },
+    {
+      "id": "em:qqyh_mlc:202607143804323839",
+      "time": "2026-07-14 07:55:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲改革成算幾何】上週，美聯儲宣佈最近所設工作組的負責人名單和工作目標，以改進貨幣政策執行情況。新任主席凱文·沃什主導的貨幣政策改革進入推進階段。這場改革受到全球資本市場密切關注，其中蘊含的風險不容忽視。若改革推進不力或設計存在缺陷，無論是對美國自身還是全球經濟，都可能帶來顯著衝擊。"
     },
     {
       "id": "4985506",
