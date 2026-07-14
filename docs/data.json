@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-15 03:19:51",
-  "count": 18817,
+  "updated": "2026-07-15 03:23:44",
+  "count": 18814,
   "items": [
+    {
+      "id": "4988454",
+      "time": "2026-07-15 03:22:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗西南部胡齊斯坦省首府傳出爆炸聲】當地時間14日晚獲悉，伊朗西南部胡齊斯坦省的首府阿瓦士傳出爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6214-2b0c-7aab-8d88-55d05e6339da",
+      "time": "2026-07-15 03:21:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's deputy foreign minister said the US is mistaken if it believes sanctions can force Tehran to proactively request negotiations."
+    },
+    {
+      "id": "4988453",
+      "time": "2026-07-15 03:20:07",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院官員科扎克出席國會聽證會併發言：委內瑞拉政府與反對派將磋商選舉相關議程。"
+    },
     {
       "id": "4988452",
       "time": "2026-07-15 03:16:30",
@@ -172140,64 +172165,6 @@
         "其他"
       ],
       "text": "白宮一名官員透露，黎巴嫩總統約瑟夫·奧翁預計將於7月21日訪問白宮。"
-    },
-    {
-      "id": "te:markets:564974",
-      "time": "2026-07-08 03:23:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Prices Rise 5% — Crude oil extended its gains on Tuesday, rising about 5% to around $72 per barrel as geopolitical tensions in the Middle East intensify. A US official told CNBC that the Treasury Department is revoking the waiver allowing Iran to sell its oil after recent attacks on tankers in the Strait of Hormuz. According to Qatar’s Ministry of Foreign Affairs, Iran attacked the Qatari LNG tanker Al-Rekayyat and another tanker transiting the strait was reportedly struck by an unidentified projectile. Iran’s foreign minister said that final peace negotiations would not move forward as long as security threats persist. President Trump warned that the two countries would either reach an agreement or the US would \"finish the job,\" renewing the prospect of military action. Meanwhile, Saudi Aramco cut the official selling price of its Arab Light crude for Asian buyers by $1.10 per barrel for next month, widening the discount to $1.50 below the regional benchmark amid softer market conditions."
-    },
-    {
-      "id": "4974895",
-      "time": "2026-07-08 03:23:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，商船行經伊朗水域時不按照協調路線航行、或是篡改船舶追蹤裝置，將面臨風險，且會干擾伊朗為保障霍爾木茲海峽航行安全所做的努力。"
-    },
-    {
-      "id": "4974894",
-      "time": "2026-07-08 03:22:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，卡達就霍爾木茲海峽一艘與卡達有關聯船隻遇襲一事對伊朗提出指控，此舉令人費解，且不符合睦鄰原則。"
-    },
-    {
-      "id": "4974893",
-      "time": "2026-07-08 03:20:53",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國恢復對伊朗石油制裁】根據美國財政部外國資產控制辦公室當地時間7月7日訊息，美國撤銷一項授權允許伊朗石油銷售的通用許可，相關收尾交易將被允許持續至美國東部時間7月17日零點。受此影響，國際油價應聲上漲。伊朗方面暫未對此作出回應。 據匿名美國官員稱，初步跡象顯示“伊朗近日在霍爾木茲海峽向三艘商船開火”，這一行為“完全不可接受”，將招致相應後果。美方官員同時還稱，儘管局勢升級，但美方談判代表“仍在誠意推進與伊朗達成最終協議”。 美國財長貝森特6月22日曾宣佈，作為美國與伊朗談判框架的一部分，美國財政部發布一份為期60天的通用許可，授權允許伊朗石油的生產、交付和銷售。根據美國財政部外國資產控制辦公室當天釋出的公告，此前被美國多個行政令和規定禁止的伊朗原油、石化和石油產品的生產、交付及銷售交易均得到豁免，期限至2026年8月21日。（CCTV國際時訊）"
-    },
-    {
-      "id": "4974892",
-      "time": "2026-07-08 03:20:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦法官駁回了美國司法部調取佐治亞州富爾頓縣2020年選舉工作人員名單的傳票申請。"
-    },
-    {
-      "id": "mkt:019f3e05-c4a4-7aab-8cd5-b0b39135e7da",
-      "time": "2026-07-08 03:19:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Iran's foreign ministry spokesman said some commercial vessels are sailing without coordination and have switched off or tampered with AIS transponders, raising shipping safety and environmental risks and impeding safe navigation through the Strait of Hormuz."
     }
   ]
 }
