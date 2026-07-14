@@ -1,7 +1,118 @@
 {
-  "updated": "2026-07-14 20:52:27",
-  "count": 18411,
+  "updated": "2026-07-14 20:56:29",
+  "count": 18404,
   "items": [
+    {
+      "id": "mkt:019f60b2-8650-7aab-8d7d-e27eea2b0d2b",
+      "time": "2026-07-14 20:55:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media Fars News reports about 180 MPs issued a statement calling for retaliation, an end to any understandings with the US, formation of a special parliamentary committee to review negotiations, passage of a Strait of Hormuz management law, and full support for the armed forces."
+    },
+    {
+      "id": "4987811",
+      "time": "2026-07-14 20:55:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST海王：股票交易異常波動 多項風險需關注】ST海王公告稱，2026年7月13 - 14日，公司股票連續兩個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。公司2023 - 2025年淨利潤分別為 - 16.90億元、 - 11.93億元、 - 5.63億元，未來盈利有不確定性。控股子公司擬收購晉百慧生物部分股權，該公司2025年營收5017.63萬元，淨利潤 - 107.02萬元，合作尚處意向階段，存在不確定性。此外，公司因審計報告問題被實施其他風險警示，若不滿足相關規定，股票將被實施退市風險警示。"
+    },
+    {
+      "id": "4987810",
+      "time": "2026-07-14 20:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST海王：2026年上半年淨虧損1.3億-1.8億元】ST海王公告稱，預計2026年1月1日至6月30日，歸屬於上市公司股東的淨利潤虧損1.3億-1.8億元，上年同期盈利3168.17萬元；扣非後淨虧損1.1億-1.6億元，上年同期虧損7052.61萬元。業績變動主因行業集採政策深化、公司最佳化業務結構致營收和毛利率下滑，資產剝離及處置子公司形成非經常性損失，應收賬款計提信用減值損失。公司提醒，若連續兩年內控審計報告被否定，股票將被實施退市風險警示。"
+    },
+    {
+      "id": "te:economy:566829",
+      "time": "2026-07-14 20:55:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Fall Sharply after CPI — The yield on the US 10-year Treasury note fell about 6 basis points to 4.57% on Tuesday, retreating from the two-month high of 4.62% reached in the previous session, prompted investors to scale back bets on Fed tightening this year. Both headline and core inflation came in below forecasts, at 3.5% and 2.6%, respectively. Meanwhile, the CPI fell 0.4% from May, as the ceasefire between the US and Iran weighed on oil prices and eased inflationary pressures. Core CPI was unchanged from the previous month. Following the data release, traders priced in a nearly 60% probability of a Federal Reserve rate hike in September, down from around 70% the previous day."
+    },
+    {
+      "id": "mkt:019f60b2-0dfa-7aab-8d7d-d89ea556ac67",
+      "time": "2026-07-14 20:55:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Redbook weekly same-store retail sales YoY for the week through July 11 were 8.2%, down from 11.5% previously."
+    },
+    {
+      "id": "mkt:019f60b1-e9bd-7aab-8d7d-d006cbb84652",
+      "time": "2026-07-14 20:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (Jul.11) | actual 8.2% | previous 11.5%"
+    },
+    {
+      "id": "4987809",
+      "time": "2026-07-14 20:54:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴西總統批評巴西國家隊】當地時間7月13日，巴西總統盧拉在一場公開活動上批評巴西國家隊出征時“浩浩蕩蕩”，但折戟八分之一決賽後回國的飛機上只有一名球員，“其他人全留在那邊了”，“多丟人啊”。盧拉說，如果贏球了，他們早就回國“載歌載舞”了。 盧拉還打趣道，自己看到一個能“一腳能把球踢上天”的機器人，“長得既像姆巴佩，又像哈蘭德”，建議巴西國家隊主教練安切洛蒂“把它簽下來”，“這樣巴西準能拿下世界盃冠軍”。（CMG國際時訊）"
+    },
+    {
+      "id": "4987808",
+      "time": "2026-07-14 20:54:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠程科技：實施資本公積金轉增股本用於償債及引入投資人】惠程科技公告稱，為挽救公司，避免退市和破產清算，將對出資人權益進行調整。以總股本784,163,368股為基數，每10股轉增6.42049股，共計轉增503,471,302股，轉增後總股本增至1,287,634,670股。轉增股票不分配給原有出資人，74,000,000股用於向債權人抵償債務，429,471,302股引入重整投資人，對價7.90億元。產業投資人認購股票鎖定期36個月，財務投資人鎖定期12個月。"
+    },
+    {
+      "id": "4987807",
+      "time": "2026-07-14 20:53:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉林梅河口：全員居家，非必要不外出】水利部門預計7月14日21時左右輝發河洪峰將到達滕龍閣處，7月15日2時左右將到達海龍鎮、新合鎮，輝發河將全線超警，達到歷史極值。洪峰具有滯後性，請市民群眾高度重視。為全力保障市民生命財產安全，現就緊急防控要求通告如下，請所有人嚴格遵守：即時起，城區所有市民居家避險，無緊急情況一律不要外出。嚴禁前往河道、堤岸、低窪路段、濱河區域、地下空間等危險地帶逗留、觀望、拍照、捕魚、直播，避免遭遇積水、漫水、突發險情，最大程度規避安全風險。洪峰過境期間，城區部分道路、橋樑將啟動臨時交通管制。濱河道路、低窪路段、沿江沿線道路全面禁止車輛、行人通行，全力保障防汛搶險通道暢通。"
+    },
+    {
+      "id": "4987806",
+      "time": "2026-07-14 20:53:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鋰礦狂歡車企買單】7月14日晚間，天齊鋰業釋出2026年半年度業績預告，預計上半年歸母淨利潤為28.5億元至42.5億元，同比增長3276.35%至4934.91%。這一超過30倍的增幅，只是上半年鋰礦板塊業績全面爆發的縮影。 除天齊鋰業外，在記者統計的已披露中期業績預告的十餘家鋰礦概念股中，無一例外全部預喜，淨利潤增幅從翻倍左右到超20倍不等，行業整體呈現“全員盈利、大幅預增、沾鋰便漲”的復甦態勢。 鋰礦企業業績集體報喜的另一面，是下游整車企業的集體“失血”。 行業普遍測算，搭載60kWh左右電池的純電車型，碳酸鋰每上漲1萬元/噸，單車成本增加300元上下。而終端市場存量競爭白熱化，各家品牌還在持續打“價格戰”，成本向下傳導的通道基本被堵死。 上游鋰礦企業大賺、下游整車企業成本承壓——2026年上半年的汽車產業鏈，正在上演一場冰火兩重天的利潤再分配。（一財）"
+    },
+    {
+      "id": "4987805",
+      "time": "2026-07-14 20:52:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：由於通脹互換價格暴跌，利率交易員現在預計10月份將加息。"
+    },
+    {
+      "id": "mkt:019f60af-07bb-7aab-8d7d-c8a2da37167f",
+      "time": "2026-07-14 20:51:51",
+      "tags": [
+        "MKT News",
+        "BAC.N",
+        "Impact bullish"
+      ],
+      "text": "BofA (BAC.N) expects net interest income guidance to settle toward the upper end of a 6-8% range."
+    },
     {
       "id": "4987804",
       "time": "2026-07-14 20:51:15",
@@ -167973,171 +168084,6 @@
         "國際"
       ],
       "text": "特朗普稱讚美國經濟。"
-    },
-    {
-      "id": "mkt:019f3ca5-c4a7-7aab-8ccf-92ccfdffb670",
-      "time": "2026-07-07 20:55:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reports Ukrainian President Zelenskiy has signed a drone agreement with Estonia."
-    },
-    {
-      "id": "4974517",
-      "time": "2026-07-07 20:55:13",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國至7月4日當週紅皮書商業零售銷售年率 11.5%，前值10.5%。"
-    },
-    {
-      "id": "mkt:019f3ca5-9024-7aab-8ccf-8e1c6a78246d",
-      "time": "2026-07-07 20:55:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US Redbook weekly retail sales YoY for week ended July 4: 11.5% vs 10.5% prior."
-    },
-    {
-      "id": "mkt:019f3ca5-6581-7aab-8ccf-846df37eef47",
-      "time": "2026-07-07 20:55:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Redbook Retail Sales (YoY) (Jul.4) | actual 11.5% | previous 10.5%"
-    },
-    {
-      "id": "mkt:019f3ca5-5760-7aab-8ccf-7edeea44b0d1",
-      "time": "2026-07-07 20:54:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he is not at all concerned about ties with Turkey and that US-Turkey relations may be stronger than ever."
-    },
-    {
-      "id": "4974516",
-      "time": "2026-07-07 20:54:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【皇氏集團：股價異常波動 股份轉讓交易存終止可能】皇氏集團公告稱，公司股票於2026年7月6日、7月7日連續兩個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。公司4月11日披露控股股東協議轉讓部分股份，受讓方未按約定支付1.5億元，交易存在不確定性，不排除終止。目前公司經營正常，計劃8月29日披露半年報，如達業績預告情形將依規披露。"
-    },
-    {
-      "id": "4974515",
-      "time": "2026-07-07 20:54:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基與愛沙尼亞簽署無人機合作協議。"
-    },
-    {
-      "id": "mkt:019f3ca4-f851-7aab-8ccf-756253fe9ff0",
-      "time": "2026-07-07 20:54:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【China Defense Ministry: submarine-launched strategic missile test met objectives; will not enter nuclear arms race】The Defense Ministry said PLA Navy submarine-launched strategic missile test achieved its intended objectives as part of routine annual training. The ministry said the exercise complied with international law and norms and that Beijing notified relevant countries in advance. It reiterated China follows a peaceful development path and a defensive nuclear policy, adheres to a self-defense nuclear strategy, maintains nuclear forces at the minimum level necessary for national security, will not engage in a nuclear arms race, and is modernizing its nuclear forces to protect national strategic security and uphold global strategic stability."
-    },
-    {
-      "id": "mkt:019f3ca4-d315-7aab-8ccf-68baaa344d35",
-      "time": "2026-07-07 20:54:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkish President Erdogan says he has secured a U.S. commitment to provide five aircraft and expects the pledge to move in a positive direction at the leaders' summit."
-    },
-    {
-      "id": "4974514",
-      "time": "2026-07-07 20:54:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我對土耳其關係沒有任何擔憂。"
-    },
-    {
-      "id": "4974513",
-      "time": "2026-07-07 20:53:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：我們期望這一承諾在領導人峰會期間取得積極進展。"
-    },
-    {
-      "id": "4974512",
-      "time": "2026-07-07 20:53:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【未來3天降雨仍將持續 廣西防災救災面臨三項艱鉅任務】7月7日晚，廣西舉行防汛救災新聞釋出會，介紹有關情況並回答記者提問。目前，防災救災依然面臨艱鉅任務和嚴峻挑戰。一是經氣象部門分析，未來3天全區一些地方降雨仍將持續，局地有大雨或暴雨，導致土壤含水量飽和、岩土穩定性下降，極易誘發滑坡、泥石流等地質災害。二是因前期“龍舟水”影響底水較高，疊加颱風降雨，目前全區仍有超汛限水庫341個，鬱江、潯江、黔江等41條河流56個站超警戒水位，一些水庫和江河堤防長時間高水位浸泡，發生管湧、滑坡、垮塌的風險很高。三是南寧、欽州、貴港一些災情嚴重地區飲用水、道路、電力、通訊裝置等受災較為嚴重，尚未完全恢復正常。（央視新聞）"
-    },
-    {
-      "id": "4974511",
-      "time": "2026-07-07 20:53:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：我們此前已與美國就此事進行過討論。"
-    },
-    {
-      "id": "4974510",
-      "time": "2026-07-07 20:53:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：我方已獲得五架戰機的承諾。"
-    },
-    {
-      "id": "mkt:019f3ca3-9cc8-7aab-8ccf-66a8726db8a4",
-      "time": "2026-07-07 20:53:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ERDOGAN said the matter had previously been discussed with the US."
-    },
-    {
-      "id": "mkt:019f3ca3-8c06-7aab-8ccf-5a5aef3380d7",
-      "time": "2026-07-07 20:52:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Erdogan said the F-35 issue is not new to Turkey."
-    },
-    {
-      "id": "te:economy:564870",
-      "time": "2026-07-07 20:52:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Chile Trade Surplus Larger Than Expected — Chile’s trade surplus rose to $3.3 billion in June 2026 from $1.5 billion in the same month a year ealier and surpassing market forecasts of $2.9 billion. This marked the largest trade surplus since January, as exports jumped 25.1% to a six-month high of $10.8 billion, led by key copper sales, which rose 17.6%. Lithium carbonate (208.3%), gold (160%), silver (128.2%), and molybdenum concentrates (47.5%) also contributed significantly. At the same time, shiipments of industrial products advanced by 27.1%, mainly supported by chemical products (84%); metallic products, machinery and equipments (20.5%) and food products (9.5%). Sales of agricultural, forestry and fishing rose by 5.3%. Meanwhile, imports advanced 4.7% to $7.5 billion, as higher purchases of intermediate goods (12.8%) and consumer goods (1.2%) more than offset a 9.5% decline for capital goods."
-    },
-    {
-      "id": "4974509",
-      "time": "2026-07-07 20:52:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃爾多安：F-35相關議題對土耳其而言並非新鮮事。"
-    },
-    {
-      "id": "4974508",
-      "time": "2026-07-07 20:52:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍：法國將任命駐敘利亞大使。"
     }
   ]
 }
