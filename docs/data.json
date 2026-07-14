@@ -1,7 +1,139 @@
 {
-  "updated": "2026-07-14 21:13:26",
-  "count": 18399,
+  "updated": "2026-07-14 21:17:28",
+  "count": 18394,
   "items": [
+    {
+      "id": "4987867",
+      "time": "2026-07-14 21:16:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度電商企業 Udaan 宣佈完成 1.6 億美元融資。"
+    },
+    {
+      "id": "4987866",
+      "time": "2026-07-14 21:16:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1290.50美元/盎司。"
+    },
+    {
+      "id": "4987865",
+      "time": "2026-07-14 21:16:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滙豐銀行下調IBM評級】滙豐銀行將IBM評級從持有下調至減持，目標價從231美元下調至191美元。"
+    },
+    {
+      "id": "mkt:019f60c5-566b-7aab-8d7e-93dea5ce4607",
+      "time": "2026-07-14 21:16:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish"
+      ],
+      "text": "【European Commission to propose easing bank capital requirements this week】The European Commission will propose lowering capital requirements for some banks this week to mirror recent US and UK regulatory loosening, saying overlapping rules from different supervisors leave EU banks at a competitive disadvantage and force higher capital allocation. The change appears in a draft report due Friday that outlines the scope of legislative proposals expected next year. The draft says the Commission will propose removing leverage-related Pillar 2 capital add-ons — discretionary extra requirements set by supervisors such as the ECB — and urges reducing the number and size of other additional capital buffers and improving their design and calibration."
+    },
+    {
+      "id": "mkt:019f60c5-4bcf-7aab-8d7e-88b5d4a7842c",
+      "time": "2026-07-14 21:16:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "JPM.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan CEO Dimon said some roles have seen headcount reductions of 30-40% due to AI deployment, though most affected employees have been redeployed to other positions."
+    },
+    {
+      "id": "mkt:019f60c5-0a07-7aab-8d7e-870fa9d4e6eb",
+      "time": "2026-07-14 21:15:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ICE near-month UK wholesale gas 130.3 p/therm, up 5.01% intraday."
+    },
+    {
+      "id": "4987864",
+      "time": "2026-07-14 21:15:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "摩根大通戴蒙稱，我們部分業務已因人工智慧裁員30%至40%，且我們為大部分被裁員工安排了公司其他崗位。"
+    },
+    {
+      "id": "mkt:019f60c4-95b8-7aab-8d7e-7c23e629fc5d",
+      "time": "2026-07-14 21:15:23",
+      "tags": [
+        "MKT News",
+        "BIIB.O",
+        "Impact bullish"
+      ],
+      "text": "Biogen (BIIB.O) will advance Alzheimer’s drug Diranersen into Phase III clinical trials."
+    },
+    {
+      "id": "te:markets:566843",
+      "time": "2026-07-14 21:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Rises on UK Political Shift, Rate Hikes Bets — The pound rose to $1.34, returning to mid-June levels, as investors turned their attention to UK politics. Andy Burnham, set to replace Keir Starmer as prime minister on July 20, and his choice of finance minister are now in the spotlight. Betting markets currently favor Ed Miliband, widely viewed as fiscally expansive, for the role. Investors also weighed escalating Middle East tensions, rising oil prices, and inflation concerns. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, heightening uncertainty over energy flows. Markets responded by pricing in further Bank of England rate hikes, nearly fully expecting two increases in 2026, with a September hike now fully priced in. In the US, softer June inflation data eased Fed rate hike pressure, though Governor Christopher Waller warned of possible action if inflation stays above 2%."
+    },
+    {
+      "id": "4987863",
+      "time": "2026-07-14 21:14:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧佳華：2026年上半年預計淨虧損6000萬-9000萬元】奧佳華公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤虧損6000萬元-9000萬元，上年同期盈利2703.14萬元；扣除非經常性損益後的淨利潤虧損7800萬元-1.17億元，上年同期盈利1654.31萬元；基本每股收益虧損0.10元/股-0.14元/股。業績變動主要因人民幣匯率升值、市場競爭等使毛利率下降，外幣兌人民幣匯率貶值產生約7200萬元匯兌損失，且擬對部分資產計提約2300萬元減值準備。"
+    },
+    {
+      "id": "mkt:019f60c3-e6c9-7aab-8d7e-738310435ef0",
+      "time": "2026-07-14 21:14:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bearish",
+        "DXY",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "【White House deputy press secretary says June CPI validates Trump on inflation】After the US June CPI print, White House deputy press secretary Kush Desai posted that President Trump’s claim—that resumption of shipping through the Strait of Hormuz would trigger a sharp fall in oil and headline inflation—has been validated. Desai said June CPI came in well below expectations and marked the largest decline since April 2020, led by lower energy prices. He added the administration’s agenda was cutting prescription drug, healthcare, auto and insurance costs and raising real wages for ordinary Americans."
+    },
+    {
+      "id": "4987862",
+      "time": "2026-07-14 21:14:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【希爾頓探泊品牌落地中國，首批專案正式簽署】7月14日，希爾頓集團宣佈簽署多個酒店專案，將旗下生活方式酒店品牌希爾頓探泊（Tempo by Hilton）引入亞太市場，首批酒店將落地中國多個目的地。即將在中國亮相的希爾頓探泊酒店專案包括廈門、北京、成都、嘉興等重要目的地城市，已與多位業主達成合作協議。"
+    },
+    {
+      "id": "4987861",
+      "time": "2026-07-14 21:13:08",
+      "tags": [
+        "公司",
+        "觀點",
+        "焦點"
+      ],
+      "text": "【長鑫科技：發行價格為8.66元/股 7月16日進行網上和網下申購】長鑫科技公告，公司首次公開發行股票並在科創板上市，發行價格為8.66元/股。投資者請按此價格在2026年7月16日（T日）進行網上和網下申購，申購時無需繳付申購資金。其中，網下申購時間為9:30-15:00，網上申購時間為9:30-11:30，13:00-15:00。本次初始發行股份數量為668,808.8608萬股，佔發行後總股本約10.00%，並授予中金公司不超過初始發行股份15.00%的超額配售選擇權。發行價格對應的2025年扣非前後孰低攤薄後市盈率為308.92倍(未行使超額配售選擇權)，高於行業平均市盈率76.32倍及可比公司平均市盈率134.62倍。預計募集資金總額約579.19億元(超額配售選擇權行使前)，扣除發行費用後淨額約576.38億元。"
+    },
     {
       "id": "mkt:019f60c1-e098-7aab-8d7e-6e297057f108",
       "time": "2026-07-14 21:12:26",
@@ -167914,159 +168046,6 @@
         "其他"
       ],
       "text": "英國改革黨法拉奇：另一項標準調查正在進行中。標準正被用作政治工具。"
-    },
-    {
-      "id": "te:markets:564882",
-      "time": "2026-07-07 21:17:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Rise on Trade Balance Data — Futures tracking the S&P/TSX Composite Index rose on Tuesday after Canada's exports climbed to a record C$77.1 billion in May. Higher shipments of gold ores and concentrates to China lended support to mining stocks. Oil prices, which had retreated to near pre-conflict levels following the Iran-Israel ceasefire, edged higher after reports of new attacks on vessels in the Strait of Hormuz. The rebound offered some support to energy stocks but also lifted Canadian bond yields slightly on renewed inflation concerns, limiting gains for financials and the broader market. Investors also awaited the minutes from the Fed's June meeting."
-    },
-    {
-      "id": "4974586",
-      "time": "2026-07-07 21:16:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉奇：我收到一筆大額私人饋贈，數額堪比彩票頭獎。"
-    },
-    {
-      "id": "4974585",
-      "time": "2026-07-07 21:16:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山金國際：選舉畢洪濤為公司董事長】山金國際(000975)7月7日公告，公司董事會會議審議透過議案，同意選舉畢洪濤為公司第九屆董事會董事長，任期自此次董事會透過之日起至第九屆董事會屆滿之日止。"
-    },
-    {
-      "id": "4974584",
-      "time": "2026-07-07 21:16:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部部長劉偉在內蒙古調研時強調 全力推進“十五五”規劃落地實施支撐 打造我國向北開放重要橋頭堡】7月6日至7日，交通運輸部黨組書記、部長劉偉在內蒙古自治區就深入學習貫徹習近平總書記關於交通強國的重要論述，圍繞全力推進“十五五”規劃落地實施，調研口岸執行、服務區提質升級、物流樞紐建設、智慧交通發展等工作。調研期間，劉偉與內蒙古自治區黨委書記王偉中、自治區政府主席包鋼座談，就推動交通運輸高質量發展進行深入交流。"
-    },
-    {
-      "id": "4974583",
-      "time": "2026-07-07 21:15:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "綠城中國公告稱，6月集團自投專案銷售金額約為114億元。"
-    },
-    {
-      "id": "4974582",
-      "time": "2026-07-07 21:15:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "《每日郵報》出版商聯合報業集團就哈里王子判決一事發聲：這是《每日郵報》及其記者的壓倒性勝利。"
-    },
-    {
-      "id": "4974581",
-      "time": "2026-07-07 21:15:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "敦豪集團預計全年息稅前利潤至少為65億歐元。"
-    },
-    {
-      "id": "4974580",
-      "time": "2026-07-07 21:15:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "敦豪集團第二季度息稅前利潤為18.5億歐元。"
-    },
-    {
-      "id": "4974579",
-      "time": "2026-07-07 21:14:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國改革黨領袖法拉奇：賺錢並非犯罪。"
-    },
-    {
-      "id": "mkt:019f3cb7-a687-7aab-8cd0-52b37a29db9e",
-      "time": "2026-07-07 21:14:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Monaco bombing suspect found dead in Kyiv; Ukrainian intelligence officer admits killing】The Security Service of Ukraine (SBU) said on Tuesday it found Anastasiia Berezovska, a Ukrainian national wanted by Monaco and Interpol over a June 29 bombing in Monaco that targeted businessman Vadim Yermolaev and his family, dead in Kyiv with a gunshot wound to the head. The SBU said an officer serving in the Defense Ministry's intelligence branch has confessed, with the assistance of a former law-enforcement officer, to killing Berezovska; the officer said the act was personal and was not reported to superiors. The Monaco blast injured three people, including a child; Interpol had issued a red notice for the 39-year-old suspect."
-    },
-    {
-      "id": "4974578",
-      "time": "2026-07-07 21:14:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江啟動水旱災害防禦（防颱）Ⅳ級應急響應】浙江省水利廳決定於7日18時啟動水旱災害防禦（防颱）Ⅳ級應急響應，並要求各地水利部門按預案啟動相應的應急響應，密切關注颱風發展，防範颱風帶來的強降雨，切實做好水情監測預警、水工程排程和防汛搶險技術支撐工作，確保人民群眾生命財產安全。（央視新聞）"
-    },
-    {
-      "id": "4974577",
-      "time": "2026-07-07 21:14:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶利國際：出資3000萬元認購高投宏騰部分份額】寶利國際(300135)7月7日公告，公司作為有限合夥人參與認購了私募基金管理人上海高信私募基金管理有限公司設立的私募基金青島高投宏騰投資合夥企業（有限合夥）（簡稱“高投宏騰”）的有限合夥份額。高投宏騰總出資額9300萬元，公司認繳出資3000萬元，出資比例為32.26%。該合夥企業投資領域為高階製造行業。"
-    },
-    {
-      "id": "4974576",
-      "time": "2026-07-07 21:14:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱將考慮向土耳其出售F-35戰鬥機】特朗普再次發出強烈訊號，表示其可能很快會尋求推翻禁止土耳其從美國購買F-35戰鬥機的禁令。“這是我們將要作出的決定，”特朗普週二在安卡拉北約峰會間隙與土耳其總統埃爾多安會晤前表示。“這無疑是我們會考慮的事情。”儘管今年盟國領導人齊聚一堂的峰會氣氛緊張，但這兩位領導人推動了雙邊關係的改善。特朗普表示，他之所以出席，完全是因為埃爾多安。特朗普是17年來首位訪問安卡拉的美國總統，兩國正尋求在防務、能源、貿易和地區安全等領域深化戰略合作。"
-    },
-    {
-      "id": "4974575",
-      "time": "2026-07-07 21:14:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國改革黨領袖法拉奇：我已遵守議會規則。"
-    },
-    {
-      "id": "4974574",
-      "time": "2026-07-07 21:13:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國改革黨領袖法拉奇：我沒有任何不當行為，我從未挪用公款。"
-    },
-    {
-      "id": "4974573",
-      "time": "2026-07-07 21:13:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "法拉奇：我沒有任何過錯，完全沒有觸犯法律。"
-    },
-    {
-      "id": "mkt:019f3cb6-4eee-7aab-8cd0-4884e41a8fc2",
-      "time": "2026-07-07 21:13:28",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Trump says he may seek to overturn US ban on F-35 sales to Turkey】Trump signaled he may soon seek to overturn the US ban on Turkey purchasing F-35 fighters, saying a decision on the matter is forthcoming, ahead of a meeting with Turkish President Erdogan during the NATO summit in Ankara. The visit—Trump’s first trip to Ankara by a US president in 17 years—saw the leaders push to improve bilateral ties and discuss deeper cooperation on defense, energy, trade and regional security."
-    },
-    {
-      "id": "4974572",
-      "time": "2026-07-07 21:13:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國改革黨黨魁奈傑爾·法拉奇：建制派已經認定，他們無法正大光明地擊敗改革黨。"
     }
   ]
 }
