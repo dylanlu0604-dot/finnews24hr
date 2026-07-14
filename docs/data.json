@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-14 13:17:02",
-  "count": 17568,
+  "updated": "2026-07-14 13:20:57",
+  "count": 17566,
   "items": [
+    {
+      "id": "te:economy:566661",
+      "time": "2026-07-14 13:20:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Finnish Inflation Rate Unchanged in June — The annual inflation rate in Finland stood at 2.1% in June 2026, unchanged from the previous month. It remained the highest reading since March 2024, as prices increased at a faster pace for housing and utilities (1.9% vs 0.6% in May) and restaurants and accommodation (2.1% vs 1.8%) while deflation softened for insurance and financial services (-1.6% vs -2.6%) and personal care, social protection, and miscellaneous goods and services (-1.8% vs -2.2%). Meanwhile, costs particularly slowed for food and non-alcoholic beverages (0.7% vs 1.1%), transport (6.2% vs 7.1%), furnishings, household equipment and routine household maintenance (3.5% vs 4.3%), health (4% vs 6.2%), and information and communication (1.5% vs 4.3%). On a monthly basis, consumer prices fell 0.2%, reversing a 0.5% gain in May and marking the first monthly decline since January. Meanwhile, harmonized consumer prices, the ECB's preferred measure, rose 2.7% year-on-year in June, following a 2.8% rise in the prior month."
+    },
+    {
+      "id": "mkt:019f5f10-c5cb-7aab-8d6f-d099c000fad9",
+      "time": "2026-07-14 13:19:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to Sputnik, Russian forces carried out precision strikes on military-industrial targets in Kyiv and on port infrastructure at Yuzhny port in Ukraine’s Odesa region."
+    },
+    {
+      "id": "4986119",
+      "time": "2026-07-14 13:18:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊走高，飛龍股份漲停】液冷伺服器板塊走高，飛龍股份、博傑股份漲停，日科化學盤中創新高，奧迪威、風華高科、凱添燃氣、光迅科技跟漲。"
+    },
+    {
+      "id": "4986118",
+      "time": "2026-07-14 13:18:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克一季度經常賬戶赤字為20億美元。"
+    },
+    {
+      "id": "mkt:019f5f0f-a656-7aab-8d6f-c9ead7d482d2",
+      "time": "2026-07-14 13:18:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim News Agency quoted a senior Iranian security official telling U.S. President Trump that the Strait of Hormuz is governed by Iran's will, not by his tweets."
+    },
+    {
+      "id": "4986117",
+      "time": "2026-07-14 13:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗在格什姆島以北海域救起一艘散貨船的外國船員，該船此前與另一艘船隻相撞。"
+    },
+    {
+      "id": "mkt:019f5f0e-9e5f-7aab-8d6f-c671902e83b9",
+      "time": "2026-07-14 13:17:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share CPO-concept stocks rallied in the afternoon; Zecheng Electronics jumped more than 27%, while Changguang Huaxin, Nanya New Materials, Yuanjie Technology and Shengyi Electronics each rose over 10%."
+    },
+    {
+      "id": "mkt:019f5f0e-6c26-7aab-8d6f-bd847ab8bc2b",
+      "time": "2026-07-14 13:16:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News reported Iran rescued foreign crew from a bulk carrier that collided with another vessel in waters north of Qeshm Island."
+    },
     {
       "id": "mkt:019f5f0d-ff99-7aab-8d6f-b57735bb3e41",
       "time": "2026-07-14 13:16:20",
@@ -160686,103 +160767,6 @@
         "XAUUSD"
       ],
       "text": "【Iran's foreign minister says final talks won't start if threats continue】On the 7th Iran's foreign minister Araghchi said on social media that under the terms of the Iran‑US memorandum of understanding, final agreement negotiations will not begin if threats persist."
-    },
-    {
-      "id": "4973542",
-      "time": "2026-07-07 13:20:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部長阿拉格齊7日在社交媒體發文說，根據伊美簽署的諒解備忘錄條款，若威脅持續，最終協議談判將不會啟動。"
-    },
-    {
-      "id": "4973541",
-      "time": "2026-07-07 13:20:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【凡拓數創成立物理智慧科技公司 含AI業務】企查查APP顯示，近日，凡拓物理智慧科技（深圳）有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；衛星遙感應用系統整合；地理遙感資訊服務等。企查查股權穿透顯示，該公司由凡拓數創全資持股。"
-    },
-    {
-      "id": "4973540",
-      "time": "2026-07-07 13:20:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【農夫山泉開放橫州廠區安置受災群眾並捐贈1000萬元】7月6日，農夫山泉方面對介面新聞表示，公司全面放開南寧區域全部飲用水庫存，聯動內部員工與各地經銷商分批、持續運送天然飲用水直達救災一線。同時，公司已開放剛建成的橫州茉莉花生產廠區，作為臨時災民安置點，為受災群眾提供避風港。此外，農夫山泉將捐贈現金 1000 萬元，專項用於廣西災區災後家園重建、農業生產恢復工作。（介面新聞）"
-    },
-    {
-      "id": "mkt:019f3b04-8945-7aab-8cc3-bf849527878f",
-      "time": "2026-07-07 13:19:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【KRW 24‑hour trading launches orderly; turnover ~6% below 30‑day average】South Korea launched a 24‑hour FX trading mechanism for the won; first‑day trading was orderly. Broker data showed USD/KRW spot turnover around $15.1 bln, roughly 6% below the 30‑day daily average. Trading hours were extended from 17 to 24 hours to close the previous gap with New York; volume concentrated in Seoul’s regular session while London and New York remained thin. The won is still more than 2% stronger than its weakest level since 2009. The change represents an unprecedented loosening of won controls and signals a policy shift away from the post‑1997 framework as Seoul seeks to shed emerging‑market status and attract more global capital."
-    },
-    {
-      "id": "4973539",
-      "time": "2026-07-07 13:19:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭州長稱，無人機襲擊引發俄羅斯卡盧加州一處工業設施起火。"
-    },
-    {
-      "id": "4973538",
-      "time": "2026-07-07 13:19:27",
-      "tags": [
-        "宏觀",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根大通：美國三年期國債拍賣的估值支撐減弱】摩根大通策略師在一份報告中表示，在美國財政部週二進行580億美元三年期國債拍賣之前，估值的支撐力度似乎有所減弱。鑑於估值支撐減弱以及更廣泛的宏觀環境，他們認為此次拍賣“可能需要做出更多讓步才能被順利消化“。策略師們表示，過去一個月，三年期國債收益率在一個相當偏窄的區間內交易，目前的交易水平僅比6月份拍賣時的水平低5個基點。不過他們表示，與其他期限相比，該期限國債的估值已變得更高，在對過去三到六個月的利率水平和收益率曲線形狀進行調整後，目前看來其估值大致合理至略微偏高。"
-    },
-    {
-      "id": "4973537",
-      "time": "2026-07-07 13:18:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪在過去兩年曾兩次與雷諾接洽，商討入股事宜，雷諾在兩次情況下均決定不予推進。（法國回聲報）"
-    },
-    {
-      "id": "te:economy:564694",
-      "time": "2026-07-07 13:18:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Estonia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Estonia June Inflation Lowest Since 2020 — The annual inflation rate in Estonia slowed to 2.3% in June 2026 from a four-month high of 3.7% in the previous month. This marked the softest rise since April 2020, driven largely by declines in prices for food and non-alcoholic beverages (-1.5% vs 0.9% in May), clothing and footwear (-6.2% vs -3.9%), and household goods (-0.5% vs 1.5%). Costs also decreased for recreation, sport and culture (-0.2% vs 4.2%), restaurants and accommodation services (-2% vs 3.2%), and insurance and financial services (-7.2% vs -11.1%). In contrast, inflation remained elevated for housing (7.6% vs 5.4%) and transport (7.5% vs 10.4%), driven by higher electricity, natural gas, gasoline, and diesel prices. Costs also rose for alcoholic beverages and tobacco (8.9% vs 8.1%), partly due to excise duty increases and higher tobacco taxes. On a monthly basis, consumer prices fell by 0.5% in June, marking the first decline in six months and reversing a 0.4% gain in the preceding period."
-    },
-    {
-      "id": "4973536",
-      "time": "2026-07-07 13:18:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期公債收益率上漲1.8個基點至4.497%。"
-    },
-    {
-      "id": "mkt:019f3b02-f519-7aab-8cc3-b76c4345ca6e",
-      "time": "2026-07-07 13:17:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US 10-year Treasury yield rose 1.8 bps to 4.497%."
     }
   ]
 }

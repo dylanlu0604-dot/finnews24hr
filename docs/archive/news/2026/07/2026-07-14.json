@@ -1,7 +1,88 @@
 {
   "date": "2026-07-14",
-  "count": 1494,
+  "count": 1502,
   "items": [
+    {
+      "id": "te:economy:566661",
+      "time": "2026-07-14 13:20:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Finnish Inflation Rate Unchanged in June — The annual inflation rate in Finland stood at 2.1% in June 2026, unchanged from the previous month. It remained the highest reading since March 2024, as prices increased at a faster pace for housing and utilities (1.9% vs 0.6% in May) and restaurants and accommodation (2.1% vs 1.8%) while deflation softened for insurance and financial services (-1.6% vs -2.6%) and personal care, social protection, and miscellaneous goods and services (-1.8% vs -2.2%). Meanwhile, costs particularly slowed for food and non-alcoholic beverages (0.7% vs 1.1%), transport (6.2% vs 7.1%), furnishings, household equipment and routine household maintenance (3.5% vs 4.3%), health (4% vs 6.2%), and information and communication (1.5% vs 4.3%). On a monthly basis, consumer prices fell 0.2%, reversing a 0.5% gain in May and marking the first monthly decline since January. Meanwhile, harmonized consumer prices, the ECB's preferred measure, rose 2.7% year-on-year in June, following a 2.8% rise in the prior month."
+    },
+    {
+      "id": "mkt:019f5f10-c5cb-7aab-8d6f-d099c000fad9",
+      "time": "2026-07-14 13:19:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to Sputnik, Russian forces carried out precision strikes on military-industrial targets in Kyiv and on port infrastructure at Yuzhny port in Ukraine’s Odesa region."
+    },
+    {
+      "id": "4986119",
+      "time": "2026-07-14 13:18:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊走高，飛龍股份漲停】液冷伺服器板塊走高，飛龍股份、博傑股份漲停，日科化學盤中創新高，奧迪威、風華高科、凱添燃氣、光迅科技跟漲。"
+    },
+    {
+      "id": "4986118",
+      "time": "2026-07-14 13:18:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈薩克一季度經常賬戶赤字為20億美元。"
+    },
+    {
+      "id": "mkt:019f5f0f-a656-7aab-8d6f-c9ead7d482d2",
+      "time": "2026-07-14 13:18:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim News Agency quoted a senior Iranian security official telling U.S. President Trump that the Strait of Hormuz is governed by Iran's will, not by his tweets."
+    },
+    {
+      "id": "4986117",
+      "time": "2026-07-14 13:17:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗在格什姆島以北海域救起一艘散貨船的外國船員，該船此前與另一艘船隻相撞。"
+    },
+    {
+      "id": "mkt:019f5f0e-9e5f-7aab-8d6f-c671902e83b9",
+      "time": "2026-07-14 13:17:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "A-share CPO-concept stocks rallied in the afternoon; Zecheng Electronics jumped more than 27%, while Changguang Huaxin, Nanya New Materials, Yuanjie Technology and Shengyi Electronics each rose over 10%."
+    },
+    {
+      "id": "mkt:019f5f0e-6c26-7aab-8d6f-bd847ab8bc2b",
+      "time": "2026-07-14 13:16:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News reported Iran rescued foreign crew from a bulk carrier that collided with another vessel in waters north of Qeshm Island."
+    },
     {
       "id": "mkt:019f5f0d-ff99-7aab-8d6f-b57735bb3e41",
       "time": "2026-07-14 13:16:20",
