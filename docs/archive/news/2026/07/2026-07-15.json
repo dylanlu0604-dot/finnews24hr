@@ -1,7 +1,18 @@
 {
   "date": "2026-07-15",
-  "count": 484,
+  "count": 485,
   "items": [
+    {
+      "id": "te:markets:566905",
+      "time": "2026-07-15 04:23:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $85 — Brent rose above $85 a barrel on Tuesday after the US military launched additional airstrikes against Iran, as Washington prepared to reimpose a blockade on the country's ports and coastal areas. Early in the session, oil prices softened from session-highs after President Donald Trump abandoned plans to impose a 20% fee on cargo passing through the Strait of Hormuz under US military protection. Trump said the expected revenue would be offset by future investments in the US. “I have decided to replace the 20% United States Reimbursement Fee with Trade and Investment Deals that the various Gulf States will be making into the United States,” Trump posted on social media, a day after announcing the fee. Meanwhile, tensions remained elevated with Iran’s Revolutionary Guard claiming attacks on two oil tankers transiting Hormuz without active tracking signals. The UAE’s ADNOC reported that two vessels were hit while crossing the strait."
+    },
     {
       "id": "te:markets:566904",
       "time": "2026-07-15 04:22:47",

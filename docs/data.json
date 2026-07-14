@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-15 04:24:10",
-  "count": 18832,
+  "updated": "2026-07-15 04:28:10",
+  "count": 18825,
   "items": [
+    {
+      "id": "te:markets:566905",
+      "time": "2026-07-15 04:23:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $85 — Brent rose above $85 a barrel on Tuesday after the US military launched additional airstrikes against Iran, as Washington prepared to reimpose a blockade on the country's ports and coastal areas. Early in the session, oil prices softened from session-highs after President Donald Trump abandoned plans to impose a 20% fee on cargo passing through the Strait of Hormuz under US military protection. Trump said the expected revenue would be offset by future investments in the US. “I have decided to replace the 20% United States Reimbursement Fee with Trade and Investment Deals that the various Gulf States will be making into the United States,” Trump posted on social media, a day after announcing the fee. Meanwhile, tensions remained elevated with Iran’s Revolutionary Guard claiming attacks on two oil tankers transiting Hormuz without active tracking signals. The UAE’s ADNOC reported that two vessels were hit while crossing the strait."
+    },
     {
       "id": "4988491",
       "time": "2026-07-15 04:22:47",
@@ -172316,71 +172327,6 @@
         "公司"
       ],
       "text": "納斯達克釋出醫療資訊化服務商TruBridge合併相關公告，該公司股票預計7月8日為最後交易日。"
-    },
-    {
-      "id": "4974940",
-      "time": "2026-07-08 04:27:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技AWS：為AWS開放資料登錄檔推出MCP伺服器。"
-    },
-    {
-      "id": "4974939",
-      "time": "2026-07-08 04:26:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受美國天氣擔憂以及市場需求回暖訊號推動，芝加哥期貨交易所（CBOT）大豆價格上漲。"
-    },
-    {
-      "id": "4974938",
-      "time": "2026-07-08 04:26:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃克森美孚：預計第二季度其他中東因素對能源產品的影響為負1億至負3億美元。"
-    },
-    {
-      "id": "4974937",
-      "time": "2026-07-08 04:25:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "T-Mobile：邁克·卡茨將卸任首席業務與產品官一職，將留任顧問至2026年12月。"
-    },
-    {
-      "id": "4974936",
-      "time": "2026-07-08 04:25:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "T-Mobile任命克里斯·桑巴爾為首席企業官，並最佳化領導團隊架構，以推動下一階段戰略增長與創新發展。"
-    },
-    {
-      "id": "4974935",
-      "time": "2026-07-08 04:25:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃克森美孚：預計第二季度其他中東因素對上游業務的影響區間為負1億美元至正1億美元。"
-    },
-    {
-      "id": "4974934",
-      "time": "2026-07-08 04:25:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "埃克森美孚：預估2026年第二季度受伊朗戰事影響，將產生約12億美元收益損失。"
-    },
-    {
-      "id": "mkt:019f3e41-1539-7aab-8cd6-2c80f2b614a7",
-      "time": "2026-07-08 04:24:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fox News reported U.S. Trade Representative GREER said Canada and Mexico have not fully fulfilled their commitments under the USMCA."
     }
   ]
 }
