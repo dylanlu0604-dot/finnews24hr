@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-15 04:53:28",
+  "updated": "2026-07-15 04:57:20",
   "count": 18827,
   "items": [
+    {
+      "id": "mkt:019f626a-d162-7aab-8d8a-3bb4afb939cb",
+      "time": "2026-07-15 04:56:35",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index down 0.31% to 100.919 at New York FX close】Dollar index fell 0.31% to 100.919 at the New York FX close. EUR/USD 1.1423, up from 1.1387; GBP/USD 1.3382, up from 1.3360. USD/JPY 162.20, down from 162.36; USD/CHF 0.8092, down from 0.8141; USD/CAD 1.4067, down from 1.4151; USD/SEK 9.6586, down from 9.7079."
+    },
+    {
+      "id": "mkt:019f626a-b2c6-7aab-8d8a-30e91bca0d7f",
+      "time": "2026-07-15 04:56:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "IRNA said missiles launched by the US military struck a site on Qeshm Island at 00:10 local time."
+    },
+    {
+      "id": "4988506",
+      "time": "2026-07-15 04:55:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數14日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.31%，在匯市尾市收於100.919。截至紐約匯市尾市，1歐元兌換1.1423美元，高於前一交易日的1.1387美元；1英鎊兌換1.3382美元，高於前一交易日的1.3360美元。1美元兌換162.20日元，低於前一交易日的162.36日元；1美元兌換0.8092瑞士法郎，低於前一交易日的0.8141瑞士法郎；1美元兌換1.4067加元，低於前一交易日的1.4151加元；1美元兌換9.6586瑞典克朗，低於前一交易日的9.7079瑞典克朗。"
+    },
     {
       "id": "te:economy:566908",
       "time": "2026-07-15 04:50:52",
@@ -172342,30 +172375,6 @@
         "市場"
       ],
       "text": "【7月8日美股成交額前20：閃迪資料中心業務營收同比增長645%】週二美股成交額第3名閃迪收跌7.26%，成交225.76億美元。閃迪公佈2026財年第三財季業績強勁，營收59.50億美元，同比大增251%，淨利潤36.15億美元，同比增長287%，均超出市場預期。增長主要由資料中心業務驅動，該業務收入同比增長645%至14.67億美元；邊緣業務收入同比增長295%至36.63億美元。公司毛利率大幅提升至78.4%。經營現金流達30.38億美元，同比劇增。公司預計第四財季營收在77.5億至82.5億美元之間，目前無負債且已獲股票回購授權，財務狀況穩健。"
-    },
-    {
-      "id": "4974960",
-      "time": "2026-07-08 04:57:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們和特朗普幾乎在所有事情上立場一致，但雙方仍存在部分分歧。其中一項分歧就是美國向土耳其交付F-35戰機一事。"
-    },
-    {
-      "id": "4974959",
-      "time": "2026-07-08 04:54:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SpaceXAI擬最快於週三上線搭載Cursor功能的全新大模型】一份內部員工備忘錄顯示，SpaceXAI與Cursor計劃最快於本週三推出雙方聯合打造的首款人工智慧大模型。備忘錄提及，兩家企業本週初推遲了該模型的上線計劃，目的是最佳化模型執行效率。該模型資訊處理速度突出，部分效能可對標Anthropic的Opus 4.8與OpenAI的GPT 5.5。SpaceX將以600億美元股票對價收購Cursor。SpaceX執行長馬斯克上月表示，SpaceX與特斯拉內部人員已在測試這款聯合研發模型。Cursor執行長邁克爾·特魯埃爾在面向程式碼工具客戶的活動中稱，Cursor正在自研一款全新大模型，該模型基於xAI的“巨像”資料中心從零訓練，將直接對標Anthropic與OpenAI旗下各類大模型。"
-    },
-    {
-      "id": "mkt:019f3e5b-af1e-7aab-8cd6-dc7c01ce9d91",
-      "time": "2026-07-08 04:53:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to The Information, SpaceXAI plans to release as early as Wednesday a new AI model developed in partnership with Cursor."
     }
   ]
 }

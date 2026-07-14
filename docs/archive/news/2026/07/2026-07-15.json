@@ -1,7 +1,40 @@
 {
   "date": "2026-07-15",
-  "count": 529,
+  "count": 532,
   "items": [
+    {
+      "id": "mkt:019f626a-d162-7aab-8d8a-3bb4afb939cb",
+      "time": "2026-07-15 04:56:35",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index down 0.31% to 100.919 at New York FX close】Dollar index fell 0.31% to 100.919 at the New York FX close. EUR/USD 1.1423, up from 1.1387; GBP/USD 1.3382, up from 1.3360. USD/JPY 162.20, down from 162.36; USD/CHF 0.8092, down from 0.8141; USD/CAD 1.4067, down from 1.4151; USD/SEK 9.6586, down from 9.7079."
+    },
+    {
+      "id": "mkt:019f626a-b2c6-7aab-8d8a-30e91bca0d7f",
+      "time": "2026-07-15 04:56:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "IRNA said missiles launched by the US military struck a site on Qeshm Island at 00:10 local time."
+    },
+    {
+      "id": "4988506",
+      "time": "2026-07-15 04:55:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數14日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.31%，在匯市尾市收於100.919。截至紐約匯市尾市，1歐元兌換1.1423美元，高於前一交易日的1.1387美元；1英鎊兌換1.3382美元，高於前一交易日的1.3360美元。1美元兌換162.20日元，低於前一交易日的162.36日元；1美元兌換0.8092瑞士法郎，低於前一交易日的0.8141瑞士法郎；1美元兌換1.4067加元，低於前一交易日的1.4151加元；1美元兌換9.6586瑞典克朗，低於前一交易日的9.7079瑞典克朗。"
+    },
     {
       "id": "te:economy:566908",
       "time": "2026-07-15 04:50:52",
