@@ -1,7 +1,192 @@
 {
   "date": "2026-07-14",
-  "count": 3550,
+  "count": 3570,
   "items": [
+    {
+      "id": "4987768",
+      "time": "2026-07-14 20:39:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "美銀全球研究將國際紙業公司（股票程式碼：IP.N）目標股價從44美元下調至41美元。"
+    },
+    {
+      "id": "mkt:019f60a3-45d5-7aab-8d7d-1b035e745103",
+      "time": "2026-07-14 20:39:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli Prime Minister Netanyahu, addressing Iran's leadership, warned that if Iran attacks Israel \"this time will not be a replay\" and that the response would be far stronger than in the past."
+    },
+    {
+      "id": "4987767",
+      "time": "2026-07-14 20:38:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST同德：2026年上半年淨虧損3800萬-5500萬元】ST同德公告稱，預計2026年1月1日至6月30日，歸屬於上市公司股東的淨利潤為-5500萬元至-3800萬元，同比下降595.86%-442.59%；扣除非經常性損益後的淨利潤為-5432萬元至-3732萬元，同比下降1183.56%-844.45%。業績變動主要因二季度母公司炸藥生產線檢修致產銷量下降、子公司專案融資費用化、電力業務產能利用不足持續虧損。"
+    },
+    {
+      "id": "mkt:019f60a2-c21d-7aab-8d7d-109df2712fca",
+      "time": "2026-07-14 20:38:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said AI opportunities pose challenges for policymakers and that the Fed is monitoring AI’s impact on inflation and the labor market."
+    },
+    {
+      "id": "te:economy:566819",
+      "time": "2026-07-14 20:38:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "US Core Inflation Rate Below Forecasts — The US core inflation rate, excluding volatile food and fuel costs, fell to 2.6% in June 2026 from a seven-month high of 2.9% in May and below the expected 2.8%. The heavyweight shelter index increased 3.3%, down slightly from a 3.4% rise in May. Other indexes with notable increases included airline fares (+26.5%), medical care (+2%), recreation (+2.8%), and household furnishings and operations (+2.5%). Month-over-month, core consumer prices were flat, after a 0.2% increase in May and undershooting market estimates of a 0.2% rise."
+    },
+    {
+      "id": "4987766",
+      "time": "2026-07-14 20:38:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萊茵生物：預計上半年淨利潤同比增長30%-60%】萊茵生物公告，預計2026年上半年淨利潤為4954.3萬元–6097.6萬元，同比增長30%-60%。主要原因系公司一方面持續提升產品品質、增強客戶粘性，推動營業收入同比穩步增長；另一方面公司不斷最佳化產品結構，綜合毛利率較上年同期有一定修復。收入同比增長與毛利改善同步推動公司報告期業績實現較高增長。"
+    },
+    {
+      "id": "4987765",
+      "time": "2026-07-14 20:37:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美元指數短線約30點，現貨黃金短線拉昇約70美元】美元指數短線走低約30點，現報100.69。美股期貨短線拉昇，納斯達克100指數期貨漲1.4%。美國10年期國債收益率短線走低，現報4.604%；美國兩年期國債收益率日內下跌10個基點，至4.18%。現貨黃金短線拉昇約70美元，現報4096.20美元/盎司。"
+    },
+    {
+      "id": "mkt:019f60a2-44b8-7aab-8d7d-0a078d6eed2e",
+      "time": "2026-07-14 20:37:54",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "USD/JPY dropped more than 50 pips intraday to 161.84."
+    },
+    {
+      "id": "te:markets:566817",
+      "time": "2026-07-14 20:37:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "DXY Falls after Inflation Report — The dollar index fell more than 0.5% to around 100.7 on Tuesday after softer-than-expected US inflation reduced expectations of Federal Reserve rate hikes. Annual consumer inflation slowed to 3.5% in June from 4.2% in May, below forecasts of 3.8%, as lower energy prices helped ease overall price pressures. Core inflation also moderated to 2.6%, while monthly consumer prices fell 0.4%, marking the first monthly decline since 2020. The data offset recent hawkish remarks from Federal Reserve Chair Kevin Warsh, who reiterated the central bank's commitment to restoring price stability and stressed that policymakers have no tolerance for persistently elevated inflation. Meanwhile, renewed geopolitical tensions limited the dollar's decline after the interim US-Iran peace agreement unraveled. The US resumed strikes on Iran and reinstated a naval blockade, while Tehran launched fresh attacks on shipping in the Strait of Hormuz, reviving concerns over global energy supplies."
+    },
+    {
+      "id": "4987763",
+      "time": "2026-07-14 20:37:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.5%，納斯達克100指數期貨上漲1.3%。"
+    },
+    {
+      "id": "mkt:019f60a1-b911-7aab-8d7d-078fda9a9440",
+      "time": "2026-07-14 20:37:19",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "GBP/USD climbed above 1.34, up 0.66% intraday."
+    },
+    {
+      "id": "mkt:019f60a1-6e4a-7aab-8d7c-fae966d04cd3",
+      "time": "2026-07-14 20:36:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact mixed",
+        "EURUSD",
+        "US10Y"
+      ],
+      "text": "After US CPI data, German bunds erased earlier losses; 10-year yield held at 3.11%."
+    },
+    {
+      "id": "4987762",
+      "time": "2026-07-14 20:36:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國通脹資料公佈後，英國金邊期貨上漲約25個基點。"
+    },
+    {
+      "id": "4987761",
+      "time": "2026-07-14 20:36:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兄弟科技：2026年上半年淨利潤預增39.45%-70.43%】兄弟科技公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為9000萬元-11000萬元，較上年同期的6454.10萬元增長39.45%-70.43%。扣除非經常性損益後的淨利潤為8500萬元-10500萬元，同比增長35.93%-67.92%。業績增長主要因維生素、香料等產品市場需求增加，銷售量同比增加、單位成本下降及毛利率上升。"
+    },
+    {
+      "id": "4987760",
+      "time": "2026-07-14 20:36:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海南海藥：2026年上半年淨虧損1.5-2.2億元 營收毛利下降】海南海藥公告稱，2026年上半年，公司預計歸屬於上市公司股東的淨利潤虧損1.5-2.2億元，上年同期虧損1.58億元；扣非後淨虧損1.8-2.6億元，上年同期虧損1.81億元。業績變動主因營業收入、毛利同比下降，折舊攤銷費用同比增加。公司預計歸母淨資產為負。後續公司將在研發、銷售體系、生產方面採取舉措提升核心競爭力和市場業績。"
+    },
+    {
+      "id": "mkt:019f60a0-e0d3-7aab-8d7c-f779e2f683c6",
+      "time": "2026-07-14 20:36:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "After CPI data was released, WTI and Brent futures saw little immediate reaction, trading at $79.76/bbl and $85.50/bbl, respectively."
+    },
+    {
+      "id": "4987759",
+      "time": "2026-07-14 20:36:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國銀行執行長布萊恩·莫伊尼漢表示，當前經濟環境仍極具利好性。"
+    },
+    {
+      "id": "4987758",
+      "time": "2026-07-14 20:36:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國6月通脹資料公佈後 交易員大幅削減對美聯儲加息的押注】美國6月通脹資料公佈後，美國短期利率期貨大幅跳漲，交易員大幅削減對美聯儲加息的押注。"
+    },
+    {
+      "id": "4987757",
+      "time": "2026-07-14 20:35:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信維通訊：擬11億元收購參股公司55%股份並取得控股權】信維通訊公告稱，公司擬透過全資子公司信維通訊（益陽）有限公司收購參股公司信維電子科技（益陽）有限公司55%股份。收購完成後，全資子公司持股比例預計提升至70%並取得控制權，各方還就後續增資事項約定。因浩容電子執行事務合夥人彭宇斐系公司董事，本次事項構成關聯事項，但不構成重大資產重組。董事會同意以不超11億元自有或自籌資金推進收購，關聯董事彭浩、彭宇斐迴避表決，議案以7票同意透過。"
+    },
     {
       "id": "4987756",
       "time": "2026-07-14 20:35:12",
@@ -155,6 +340,15 @@
         "公司"
       ],
       "text": "【中國中免：2026年上半年營收275.92億元 淨利潤同比增19.49%】中國中免公告稱，2026年上半年，公司營業總收入275.92億元，同比下降1.99%；歸屬於上市公司股東的淨利潤31.06億元，同比增長19.49%。公司把握海南自貿港機遇，鞏固海南市場優勢，推進機場免稅店面運營改善，收購DFS大中華區零售業務取得良好成效。主營業務毛利率持續改善，同比提升0.73個百分點，二季度同比提升1.44個百分點。上述資料為初步核算，具體以半年度報告為準。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607143805945965",
+      "time": "2026-07-14 20:34:02",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "交易員降低本月美聯儲加息的賭注。"
     },
     {
       "id": "mkt:019f609e-83ff-7aab-8d7c-c83036c403c5",
