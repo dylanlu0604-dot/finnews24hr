@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-15 04:00:47",
-  "count": 18827,
+  "updated": "2026-07-15 04:04:42",
+  "count": 18829,
   "items": [
+    {
+      "id": "mkt:019f6239-d21a-7aab-8d89-176c502370bd",
+      "time": "2026-07-15 04:03:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bullish",
+        "MU.O",
+        "SNDK.O"
+      ],
+      "text": "【US close: major indexes up; SK Hynix jumps over 27%】US equities closed higher on Tuesday: Dow +0.02%, S&P 500 +0.38%, Nasdaq +0.90%. SanDisk (SNDK.O) and Micron Technology (MU.O) rose ~5%; SK Hynix ADR (SKHY.O) surged 27.2%. Nasdaq Golden Dragon China Index -0.1%; Baidu (BIDU.O) -3.0%."
+    },
+    {
+      "id": "4988481",
+      "time": "2026-07-15 04:02:52",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士ADR飆升27%，收盤時較韓國上市股票溢價51%。"
+    },
+    {
+      "id": "4988480",
+      "time": "2026-07-15 04:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM股價收跌25%，市值蒸發690億美元。"
+    },
+    {
+      "id": "4988479",
+      "time": "2026-07-15 04:01:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗股價收跌5.3%，創2月12日以來最大單日跌幅。"
+    },
+    {
+      "id": "4988478",
+      "time": "2026-07-15 04:01:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：英國需要優先實現經濟增長。"
+    },
+    {
+      "id": "4988477",
+      "time": "2026-07-15 04:01:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本 5 月持有美國國債規模為 1.143 萬億美元，4 月為 1.210 萬億美元。"
+    },
+    {
+      "id": "4988476",
+      "time": "2026-07-15 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.02%，標普500指數漲0.38%，納指漲0.90%。CrowdStrike漲12.14%，高盛漲9.16%，Carvana Co.漲8.31%，ZS漲7.24%，戴爾漲7.13%。“七姐妹”方面：英偉達漲4.06%，谷歌漲1.90%，Meta Platforms漲0.66%，特斯拉漲0.36%，亞馬遜漲0.07%，蘋果跌0.77%，微軟跌1.55%。"
+    },
+    {
+      "id": "4988475",
+      "time": "2026-07-15 04:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月國際資本淨流入 1322億美元，前值由261億美元修正為766億美元。\n美國5月長期資本淨流入 2327億美元，前值由1031億美元修正為1048億美元。\n美國5月長期資本淨流入 2327億美元，前值由1031億美元修正為1048億美元。"
+    },
+    {
+      "id": "mkt:019f6237-6eb3-7aab-8d89-0ace659ef3e0",
+      "time": "2026-07-15 04:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US military maritime blockade against Iranian ports and coastal areas has begun to take effect."
+    },
     {
       "id": "mkt:019f6237-3349-7aab-8d89-0386c46a35a9",
       "time": "2026-07-15 04:00:12",
@@ -172250,71 +172337,6 @@
         "Nasdaq100"
       ],
       "text": "U.S. equity benchmarks closed lower on Tuesday, July 7: the Dow Jones Industrial Average fell 131.35 points, or 0.25%, to 52,924.56; the S&P 500 dropped 33.66 points, or 0.45%, to 7,503.77; the Nasdaq Composite slid 302.47 points, or 1.16%, to 25,818.69."
-    },
-    {
-      "id": "4974922",
-      "time": "2026-07-08 04:03:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方談判人員仍在積極推進磋商，力求（與伊朗）達成最終協議。"
-    },
-    {
-      "id": "mkt:019f3e2d-60b2-7aab-8cd5-fe4906fcdb71",
-      "time": "2026-07-08 04:03:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An adviser to Iran's supreme leader, Rezaei, told opponents of negotiations to be patient, saying the Americans will destroy the talks themselves."
-    },
-    {
-      "id": "4974921",
-      "time": "2026-07-08 04:02:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：07月08日04時01分在四川宜賓市高縣附近（北緯28.54度，東經104.68度）發生3.7級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4974920",
-      "time": "2026-07-08 04:01:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "RIVIAN汽車股價收盤下跌18%，創2024年2月以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019f3e2b-f2cf-7aab-8cd5-f2d4b7fff1fe",
-      "time": "2026-07-08 04:01:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "SNDK.O",
-        "Impact bearish",
-        "WDC.O",
-        "MU.O"
-      ],
-      "text": "【U.S. stocks close lower; SanDisk down 7%】U.S. equities closed lower on Tuesday: the Dow fell 0.25%, the S&P 500 fell 0.45% and the Nasdaq fell 1.16%. Storage-chip names extended losses—SanDisk (SNDK.O) -7%, Western Digital (WDC.O) down nearly 8%, Micron Technology (MU.O) -4.7%. SpaceX (SPCX.O) slid about 7%. The Nasdaq Golden Dragon China Index fell 0.57%; iQiyi (IQ.O) dropped nearly 7%."
-    },
-    {
-      "id": "4974919",
-      "time": "2026-07-08 04:01:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SPACEX股價下跌6.8%，收於IPO以來最低。"
-    },
-    {
-      "id": "4974918",
-      "time": "2026-07-08 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.25%，標普500指數跌0.45%，納指跌1.15%。英特爾跌9.72%，泰瑞達跌9.59%，Generac控股跌8.56%，西部資料跌7.86%，邁威爾科技跌7.45%。“七姐妹”方面：Meta Platforms漲2.53%，亞馬遜漲0.73%，英偉達漲0.68%，微軟漲0.48%，谷歌跌0.41%，蘋果跌0.72%，特斯拉跌4.02%。"
     }
   ]
 }

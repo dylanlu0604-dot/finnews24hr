@@ -1,7 +1,94 @@
 {
   "date": "2026-07-15",
-  "count": 455,
+  "count": 464,
   "items": [
+    {
+      "id": "mkt:019f6239-d21a-7aab-8d89-176c502370bd",
+      "time": "2026-07-15 04:03:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bullish",
+        "MU.O",
+        "SNDK.O"
+      ],
+      "text": "【US close: major indexes up; SK Hynix jumps over 27%】US equities closed higher on Tuesday: Dow +0.02%, S&P 500 +0.38%, Nasdaq +0.90%. SanDisk (SNDK.O) and Micron Technology (MU.O) rose ~5%; SK Hynix ADR (SKHY.O) surged 27.2%. Nasdaq Golden Dragon China Index -0.1%; Baidu (BIDU.O) -3.0%."
+    },
+    {
+      "id": "4988481",
+      "time": "2026-07-15 04:02:52",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士ADR飆升27%，收盤時較韓國上市股票溢價51%。"
+    },
+    {
+      "id": "4988480",
+      "time": "2026-07-15 04:02:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM股價收跌25%，市值蒸發690億美元。"
+    },
+    {
+      "id": "4988479",
+      "time": "2026-07-15 04:01:25",
+      "tags": [
+        "觀點"
+      ],
+      "text": "花旗股價收跌5.3%，創2月12日以來最大單日跌幅。"
+    },
+    {
+      "id": "4988478",
+      "time": "2026-07-15 04:01:04",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行行長貝利：英國需要優先實現經濟增長。"
+    },
+    {
+      "id": "4988477",
+      "time": "2026-07-15 04:01:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本 5 月持有美國國債規模為 1.143 萬億美元，4 月為 1.210 萬億美元。"
+    },
+    {
+      "id": "4988476",
+      "time": "2026-07-15 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.02%，標普500指數漲0.38%，納指漲0.90%。CrowdStrike漲12.14%，高盛漲9.16%，Carvana Co.漲8.31%，ZS漲7.24%，戴爾漲7.13%。“七姐妹”方面：英偉達漲4.06%，谷歌漲1.90%，Meta Platforms漲0.66%，特斯拉漲0.36%，亞馬遜漲0.07%，蘋果跌0.77%，微軟跌1.55%。"
+    },
+    {
+      "id": "4988475",
+      "time": "2026-07-15 04:00:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國5月國際資本淨流入 1322億美元，前值由261億美元修正為766億美元。\n美國5月長期資本淨流入 2327億美元，前值由1031億美元修正為1048億美元。\n美國5月長期資本淨流入 2327億美元，前值由1031億美元修正為1048億美元。"
+    },
+    {
+      "id": "mkt:019f6237-6eb3-7aab-8d89-0ace659ef3e0",
+      "time": "2026-07-15 04:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US military maritime blockade against Iranian ports and coastal areas has begun to take effect."
+    },
     {
       "id": "mkt:019f6237-3349-7aab-8d89-0386c46a35a9",
       "time": "2026-07-15 04:00:12",
