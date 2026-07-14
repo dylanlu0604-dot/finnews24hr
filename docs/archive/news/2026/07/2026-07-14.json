@@ -1,7 +1,169 @@
 {
   "date": "2026-07-14",
-  "count": 609,
+  "count": 626,
   "items": [
+    {
+      "id": "mkt:019f5def-8ee1-7aab-8d66-4bc510ba63a2",
+      "time": "2026-07-14 08:03:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI index fell 1.00% intraday."
+    },
+    {
+      "id": "4985516",
+      "time": "2026-07-14 08:03:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數下跌1.1%，至6735.40點。"
+    },
+    {
+      "id": "4985515",
+      "time": "2026-07-14 08:02:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破84美元/桶，日內漲0.86%。"
+    },
+    {
+      "id": "mkt:019f5ded-dd2c-7aab-8d66-451f19bb47c2",
+      "time": "2026-07-14 08:01:37",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "Samsung Electronics shares rose 2%; SK Hynix rose 0.5%."
+    },
+    {
+      "id": "mkt:019f5ded-989b-7aab-8d66-392ee9d360b1",
+      "time": "2026-07-14 08:01:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 opened down 197.99 points (-0.29%) at 67,044.74 on July 14 (Tuesday)."
+    },
+    {
+      "id": "mkt:019f5ded-943b-7aab-8d66-362fd89d3e43",
+      "time": "2026-07-14 08:01:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "On Tuesday, July 14, South Korea's KOSPI opened 21.79 points higher, up 0.32% at 6,828.72."
+    },
+    {
+      "id": "mkt:019f5ded-52dc-7aab-8d66-2e1177a1c8f0",
+      "time": "2026-07-14 08:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore Q2 GDP rose 1.1% QoQ, in line with the 1.1% consensus and up from 1.0% in Q1."
+    },
+    {
+      "id": "mkt:019f5ded-30c1-7aab-8d66-239d3de625ee",
+      "time": "2026-07-14 08:00:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | GDP (QoQ) (Q2) | actual 1.1% | consensus 1.1% | previous 1.00%"
+    },
+    {
+      "id": "4985514",
+      "time": "2026-07-14 08:00:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.6%，至6769.06點。"
+    },
+    {
+      "id": "te:markets:566527",
+      "time": "2026-07-14 08:00:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Losses as Trump Reinstates Blockade — Silver held below $58 an ounce on Tuesday after sliding nearly 4% in the previous session, as President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz and sought reimbursement from countries benefiting from US efforts to secure the vital shipping lane. The move drove oil prices sharply higher, reviving concerns over inflation and the interest rate outlook. The measures followed renewed hostilities between Washington and Tehran, with the US targeting Iran’s ability to disrupt maritime shipping while Tehran retaliated against US allies in the region. Investors also awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s testimony before the US Congress later today, with markets closely parsing his remarks for further policy guidance. Markets now price in roughly a 51% chance of a Fed rate hike in September, compared with a 23% probability that the central bank will leave rates unchanged."
+    },
+    {
+      "id": "4985513",
+      "time": "2026-07-14 08:00:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報67002.94點，跌幅0.36％。韓國綜合股價指數（KOSPI）開盤下跌0.6％，至6769.06點。"
+    },
+    {
+      "id": "4985512",
+      "time": "2026-07-14 08:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡第二季度GDP環比增長1.1%；預期增長1.3%。"
+    },
+    {
+      "id": "mkt:019f5dec-854c-7aab-8d66-1b579c2f030c",
+      "time": "2026-07-14 08:00:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reported explosions were heard again in Bushehr in southern Iran."
+    },
+    {
+      "id": "4985511",
+      "time": "2026-07-14 08:00:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "新加坡第二季度GDP同比增長5.7%；預估5.5%。"
+    },
+    {
+      "id": "mkt:019f5dec-7ee3-7aab-8d66-1627ce858587",
+      "time": "2026-07-14 08:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore Q2 GDP YoY 5.7%, vs. 5.5% expected; prior revised from 6.0% to 6.3%."
+    },
+    {
+      "id": "mkt:019f5dec-61ad-7aab-8d66-0aa41bb51cc8",
+      "time": "2026-07-14 08:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | GDP (YoY) (Q2) | actual 5.7% | consensus 5.5% | previous 6.00%"
+    },
+    {
+      "id": "te:markets:566526",
+      "time": "2026-07-14 07:59:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds Decline as Trump Reinstates Blockade — Gold held just below $4,000 an ounce on Tuesday after tumbling nearly 3% in the previous session, as President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz and sought reimbursement from countries benefiting from US efforts to secure the vital shipping lane. The move drove oil prices sharply higher, reviving concerns over inflation and the interest rate outlook. The measures followed renewed hostilities between Washington and Tehran, with the US targeting Iran’s ability to disrupt maritime shipping while Tehran retaliated against US allies in the region. Investors also awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s testimony before the US Congress later today, with markets closely parsing his remarks for further policy guidance. Markets now price in roughly a 51% chance of a Fed rate hike in September, compared with a 23% probability that the central bank will leave rates unchanged."
+    },
     {
       "id": "4985509",
       "time": "2026-07-14 07:59:07",
