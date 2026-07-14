@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-15 07:12:13",
+  "updated": "2026-07-15 07:16:10",
   "count": 18771,
   "items": [
+    {
+      "id": "4988591",
+      "time": "2026-07-15 07:15:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【績優基金二季報密集披露：更加聚焦硬科技 錨定產業發展趨勢】績優基金2026年二季報密集披露，多隻績優基金二季度規模大幅增長。從持倉變動情況看，多隻績優基金對持倉結構進行了調整，更加聚焦硬科技。多位基金經理表示，後續將緊密跟蹤產業發展趨勢，關注上市公司基本面。（上海證券報）"
+    },
+    {
+      "id": "4988590",
+      "time": "2026-07-15 07:15:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技IPO定價出爐 專家呼籲理性看待企業創新成長價值】7月14日晚間，長鑫科技披露IPO上市發行安排及初步詢價公告，透過網下詢價方式確定公司發行價為8.66元/股。結合公司上市後的總股本推算，長鑫科技的上市估值為5791.88億元。對於這一發行定價，不少投資者難免疑惑：說好的市值衝擊萬億，詢價結果是不是低於預期？市場專家告訴記者，長鑫科技的發行定價，是充分考慮了企業當下的實際情況，公司估值隨著企業的成長逐步提升，才是真正的“長期主義”。（上證報）"
+    },
+    {
+      "id": "4988589",
+      "time": "2026-07-15 07:13:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國人工智慧股票暴跌正成為槓桿過度擴張的典型案例】韓國由人工智慧熱潮催生的股市繁榮，正淪為一則警示案例——當槓桿對市場的作用力遠超企業基本面時，會引發怎樣的後果。週一SK海力士暴跌15%，創下史上最大單日跌幅，迫使掛鉤韓國晶片企業的槓桿類產品管理人拋售數十億美元股票。原本只是全球市場重新評估AI板塊估值，最終演變為全面股市暴跌。持續拋售令韓國綜合股價指數（Kospi）短短三週累計下挫25%，也暴露了融資融券、單一股票槓桿型交易所交易基金，再加上指數權重高度集中這三重因素會相互助推，放大市場漲跌波動。這一市場傳導機制正受到首爾以外全球市場的密切關注。韓國身處AI硬體供應鏈核心，SK海力士與三星電子兩家企業在韓國綜合指數中的權重合計過半。如今SK海力士還發行美國存託憑證，可在美國交易時段交易。投資者表示，市場情緒會在華爾街與亞洲市場全天候互相傳導，韓國槓桿催生的劇烈波動，或將擴散至全球。"
+    },
+    {
+      "id": "te:economy:566922",
+      "time": "2026-07-15 07:13:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Unemployment Rate",
+        "Importance 2"
+      ],
+      "text": "South Korea Jobless Rate Falls to 2.7% in June — South Korea’s seasonally adjusted unemployment rate fell to 2.7% in June 2026, from 2.8% in May, matching the lowest level since March. The economy added 34,000 jobs during the month, bringing total employment to 29.154 million. Meanwhile, the number of unemployed declined to 834,000 from 858,000 in May, while the labor force increased to 29.988 million from 29.813 million. The labor force participation rate edged up to 65.2% from 64.9%, and the employment rate rose to 63.4% from 63.0%, pointing to further improvement in labor market conditions. The economically inactive population fell to 16.009 million from 16.152 million in the previous month."
+    },
+    {
+      "id": "te:economy:566921",
+      "time": "2026-07-15 07:13:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Reuters Tankan Index",
+        "Importance 1"
+      ],
+      "text": "Japan's Reuters Tankan Index Holds Steady in July — The Reuters Tankan index for Japanese manufacturers stood at +13 in July 2026, unchanged from the previous month after rising over the previous two months, supported by solid semiconductor demand."
+    },
+    {
+      "id": "4988588",
+      "time": "2026-07-15 07:12:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI正在開發化身AI伴侶的智慧音箱，作為其首款硬體產品】7月15日，據報道，OpenAI備受期待的首款硬體裝置將是一臺可移動、無螢幕的智慧音箱，定位人工智慧時代的新型家用電腦。這款仍在開發中的產品將成為具備人類特質的居家AI伴侶,，該裝置將幫助使用者控制智慧家居裝置、播放媒體內容、回答問題、回覆訊息，並呼叫ChatGPT的廣泛功能。不過，OpenAI的硬體佈局已經遭遇阻力。蘋果上週起訴OpenAI竊取商業秘密。OpenAI認為這款裝置與蘋果目前在售的任何產品都有顯著區別，也不太可能侵犯這家iPhone製造商的商業秘密。"
+    },
     {
       "id": "4988587",
       "time": "2026-07-15 07:08:59",
@@ -171818,59 +171875,6 @@
         "其他"
       ],
       "text": "【河北釋出山洪災害預警 冀東強降水或將持續】近期河北省降雨頻繁，河北省水利廳和河北省氣象局昨天（7日）12時聯合釋出山洪災害氣象風險預警。預計至今天（8日）12時，唐山市、承德市等地局地可能發生山洪災害，其他地區也可能因局地短時強降水引發山洪災害，請注意防範。"
-    },
-    {
-      "id": "4975097",
-      "time": "2026-07-08 07:15:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【美的庫卡簽約英科 超3億元加碼智造升級】2026年7月7日，美的集團旗下庫卡與英科醫療、英科再生簽署戰略合作協議，在工業機器人、物流自動化、產線智慧化等領域開展全方位深化合作。根據本次戰略合作協議，雙方合作規模超3億元，涵蓋1500套工業機器人、500套移動及具身智慧機器人、50套自動立庫及配套全鏈路自動化解決方案。雙方將聚焦自動裝配、智慧檢測、智慧物流等核心工序落地方案，遵循“單點先行—全基地覆蓋—整線攻堅”實施路徑，融合AI視覺識別與自適應抓取技術破解小批次多品種生產難點，構建柔性智造體系。"
-    },
-    {
-      "id": "4975096",
-      "time": "2026-07-08 07:15:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星將於7月搶在iPhone之前推出新款摺疊屏手機】三星電子公司將於7月22日舉辦下一場Galaxy Unpacked釋出會，屆時這家領先的摺疊屏手機製造商預計將推出一款設計更短、更寬的Galaxy Z Fold 8，其外觀與蘋果公司計劃推出的摺疊式iPhone相似。 據三星週二向媒體發出的邀請函顯示，此次Unpacked活動將在倫敦舉行。在釋出會上，該公司將推出一系列新產品，預計包括三款摺疊屏手機，以及智慧手錶和可夾式無線耳機等可穿戴裝置。"
-    },
-    {
-      "id": "mkt:019f3edc-d6cb-7aab-8cd8-79374346151f",
-      "time": "2026-07-08 07:14:47",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bearish"
-      ],
-      "text": "Court records show Oregon is seeking documents related to Paramount's lobbying of the Trump administration to secure support for the merger."
-    },
-    {
-      "id": "4975095",
-      "time": "2026-07-08 07:13:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄勒岡州正尋求獲取有關派拉蒙遊說特朗普政府支援該合併案的檔案。"
-    },
-    {
-      "id": "mkt:019f3edb-c8d3-7aab-8cd8-737286753dcd",
-      "time": "2026-07-08 07:13:38",
-      "tags": [
-        "MKT News",
-        "PARA.O",
-        "Impact bearish",
-        "WBD.O"
-      ],
-      "text": "Court records show Oregon has asked a court to order Paramount to comply with merger-related investigative requests. Oregon's attorney general said in filings that Paramount intends to close its acquisition of Warner Bros. on July 16."
-    },
-    {
-      "id": "4975094",
-      "time": "2026-07-08 07:12:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "俄勒岡州請求法院命令派拉蒙Skydance遵守與合併相關的調查要求。"
     }
   ]
 }
