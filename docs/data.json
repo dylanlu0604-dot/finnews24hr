@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-15 03:53:01",
+  "updated": "2026-07-15 03:56:55",
   "count": 18820,
   "items": [
+    {
+      "id": "4988470",
+      "time": "2026-07-15 03:56:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國製裁伊朗央行。"
+    },
+    {
+      "id": "mkt:019f6233-6594-7aab-8d88-ce0f432477ed",
+      "time": "2026-07-15 03:56:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury issued a general license related to Iran and updated its sanctions list, adding 10 individuals, more than 20 entities and multiple vessels, and revising sanctions information on the Central Bank of Iran."
+    },
     {
       "id": "4988469",
       "time": "2026-07-15 03:50:48",
@@ -172230,22 +172252,6 @@
         "XAUUSD"
       ],
       "text": "Fars news agency reported Iran's Major General Razai said it is clear the US will cause the negotiations to fail."
-    },
-    {
-      "id": "mkt:019f3e26-b622-7aab-8cd5-d9254750be2d",
-      "time": "2026-07-08 03:55:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan cargo plane missing en route to Karachi】A K2Airways Boeing 737 cargo aircraft went missing on the evening of the 7th while flying from Sharjah, UAE, to Karachi. Pakistan airport authority said the aircraft reported a navigation-system fault at 21:18 Pakistan time and requested guidance from Karachi area control; radar at 21:21 showed a sudden rapid descent and abrupt heading change, and contact was lost about 155 nm (≈287 km) west of Karachi. Five crew were onboard. Pakistan’s search-and-rescue coordination centre launched an emergency response and is coordinating multi-agency searches in the area."
-    },
-    {
-      "id": "4974915",
-      "time": "2026-07-08 03:54:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【巴基斯坦一貨機在飛往卡拉奇途中失聯】據巴基斯坦機場管理局當地時間7日晚通報，一架隸屬於巴基斯坦K2航空（K2 Airways）的波音737貨機當晚在執行從阿聯酋沙迦飛往巴基斯坦卡拉奇的貨運航班任務時，在距離卡拉奇以西約155海里（約287公里）處失聯。據巴基斯坦機場管理局的通報，巴基斯坦當地時間7日21時18分，該貨機報告導航系統出現故障，需要獲得卡拉奇區域管制中心的引導協助；之後在21時21分，雷達顯示飛機突然快速下降，並伴隨航向急劇改變。此後，飛機在距離卡拉奇以西約155海里處失聯。事故發生後，巴基斯坦搜救協調中心立即啟動應急響應，並協調多個部門在相關海域展開聯合搜救行動，尋找失聯飛機。據瞭解，失聯貨機上共有5名機組人員。K2航空是巴基斯坦一家民營貨運航空公司。（央視新聞）"
     }
   ]
 }

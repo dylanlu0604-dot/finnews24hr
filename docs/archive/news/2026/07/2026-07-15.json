@@ -1,7 +1,29 @@
 {
   "date": "2026-07-15",
-  "count": 442,
+  "count": 444,
   "items": [
+    {
+      "id": "4988470",
+      "time": "2026-07-15 03:56:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國製裁伊朗央行。"
+    },
+    {
+      "id": "mkt:019f6233-6594-7aab-8d88-ce0f432477ed",
+      "time": "2026-07-15 03:56:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "U.S. Treasury issued a general license related to Iran and updated its sanctions list, adding 10 individuals, more than 20 entities and multiple vessels, and revising sanctions information on the Central Bank of Iran."
+    },
     {
       "id": "4988469",
       "time": "2026-07-15 03:50:48",
