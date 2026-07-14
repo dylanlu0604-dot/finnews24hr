@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-15 02:16:28",
-  "count": 18821,
+  "updated": "2026-07-15 02:20:28",
+  "count": 18820,
   "items": [
     {
       "id": "te:markets:566898",
@@ -172234,17 +172234,6 @@
         "焦點"
       ],
       "text": "納斯達克中國金龍指數跌超0.5%，盛豐物流跌7.12%，中進醫療跌7.07%，中比能源跌6.90%，嘉楠科技跌6.55%，禾賽科技跌6.44%。"
-    },
-    {
-      "id": "te:markets:564970",
-      "time": "2026-07-08 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Silver Drops by 1.71% — Top commodity losers are Silver (-1.71%) and Gold (-0.55%). Gains are led by Platinum (1.21%)."
     }
   ]
 }
