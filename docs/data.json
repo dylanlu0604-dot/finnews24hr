@@ -1,7 +1,173 @@
 {
-  "updated": "2026-07-14 09:39:02",
-  "count": 17348,
+  "updated": "2026-07-14 09:42:55",
+  "count": 17358,
   "items": [
+    {
+      "id": "te:economy:566571",
+      "time": "2026-07-14 09:42:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Australia Business Confidence Hits 4-Month High — Australia’s NAB Business Confidence Index jumped to -5 in June 2026 from -14 in May, marking its strongest reading since February as sentiment improved following the easing of geopolitical tensions. Meanwhile, business conditions held steady at 3 for a third consecutive month after the U.S. and Iran reached an agreement to end their multi-month conflict in the Middle East. Price pressures also moderated, with product price growth slowing to its weakest pace since February and retail prices falling for the first time in seven years, according to the survey. Despite the improvement in confidence, the results continued to point to subdued business activity through the first half of 2026. NAB noted that while the Middle East conflict had raised concerns over growth and inflation, its impact on business activity and pricing proved less severe than initially feared, helping support a more resilient business environment."
+    },
+    {
+      "id": "4985712",
+      "time": "2026-07-14 09:42:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股OpenClaw概念板塊短線走低】蓮花控股觸及跌停，ST信源跟跌。"
+    },
+    {
+      "id": "4985711",
+      "time": "2026-07-14 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股5.5G概念板塊短線走低】通宇通訊觸及跌停，曠達科技、方邦股份、飛榮達、華正新材、博傑股份、廣合科技跟跌。"
+    },
+    {
+      "id": "4985710",
+      "time": "2026-07-14 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股通訊工程及服務板塊短線走低】三維通訊觸及跌停，中通國脈、中富通跟跌。"
+    },
+    {
+      "id": "4985709",
+      "time": "2026-07-14 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股IT服務概念板塊短線走低】南威軟體跌8.94%，ST易聯眾、立方控股、漢鑫科技、ST銀江、ST浩豐、曙光數創跟跌。"
+    },
+    {
+      "id": "4985708",
+      "time": "2026-07-14 09:42:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股鐳射概念板塊短線走低】天奧電子觸及跌停，光智科技、炬光科技、帝爾鐳射、同飛股份跟跌。"
+    },
+    {
+      "id": "4985707",
+      "time": "2026-07-14 09:41:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數下跌1%至5415.39點。"
+    },
+    {
+      "id": "4985706",
+      "time": "2026-07-14 09:41:35",
+      "tags": [],
+      "text": "上證綜指盤初走低，下破3900點關口，日內跌幅擴大至0.41％。"
+    },
+    {
+      "id": "mkt:019f5e49-2667-7aab-8d68-d47c7e335d27",
+      "time": "2026-07-14 09:41:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Dongfang Jincheng: bond market to remain slightly firm and choppy】Dongfang Jincheng said upcoming June financial, trade and macro releases should show Q2 GDP around 4.4% and a K-shaped divergence: external demand and new-economy sectors outperform while domestic demand and traditional sectors remain weak. Liquidity stays broadly stable and loose, institutional under-allocation pressure persists, and rigid allocation demand is resilient—supporting bonds despite weak fundamentals. Market focus will shift toward a late-month Politburo meeting; changes in fiscal or monetary policy expectations could trigger episodic bond volatility. Ahead of clearer policy direction, a sustained trend is unlikely, and the bond market is expected to trade slightly firm and choppy this week."
+    },
+    {
+      "id": "mkt:019f5e48-e98d-7aab-8d68-c83c8742c9d6",
+      "time": "2026-07-14 09:41:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish"
+      ],
+      "text": "【China's Shanghai Composite falls below 3,900】China's Shanghai Composite opened lower and slipped below the 3,900 level, with intraday losses widening to 0.41%."
+    },
+    {
+      "id": "4985705",
+      "time": "2026-07-14 09:40:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置板塊震盪回升 屹唐股份漲超10%】早盤半導體裝置板塊震盪回升，屹唐股份漲超10%，拓荊科技、華峰測控、聯動科技、中科飛測等跟漲。"
+    },
+    {
+      "id": "mkt:019f5e48-bbc1-7aab-8d68-c408649c1c40",
+      "time": "2026-07-14 09:40:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【LG Electronics, GS E&C to co-develop next-generation AI home solutions】South Korea's LG Electronics said on Monday it signed a memorandum of understanding with GS Engineering & Construction (GS E&C) to co-develop next-generation AI home solutions by integrating its AI home hub 'ThinQ ON' with GS E&C's apartment platform to create a more interconnected smart-home ecosystem."
+    },
+    {
+      "id": "4985704",
+      "time": "2026-07-14 09:40:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瀋陽今天繼續停課、居家辦公】13日下午，遼寧省瀋陽市防汛抗旱指揮部已啟動全市防汛一級應急響應。14日，瀋陽市還將迎來暴雨、大暴雨降水天氣過程。市防汛抗旱指揮部再次通告全市，將繼續執行以下緊急避險措施：全市中小學校、幼兒園、校外培訓機構停止授課；全市戶外各類集體性活動、大型群眾性活動停止舉辦；全市在建工地一律停工；全市涉山涉水景區景點、早夜市停止營業；全市機關、企事業單位（保障城市基本執行的除外）原則上居家辦公。同時，提醒廣大市民和有關單位密切關注天氣動態，減少非必要出行，做好應急避險準備。"
+    },
+    {
+      "id": "4985703",
+      "time": "2026-07-14 09:40:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.19%，成分股中，國博電子跌8.43%，盛科通訊跌6.42%，中科星圖跌6.12%，恆玄科技跌5.70%。"
+    },
+    {
+      "id": "4985702",
+      "time": "2026-07-14 09:39:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【晶片概念板塊短線拉昇，華脈科技漲停】晶片概念板塊短線拉昇，信通電子、華脈科技、淳中科技漲停，力合科創此前封板, 屹唐股份、同飛股份漲超10%，帝奧微、深科技、甬矽電子、埃科光電、華天科技等跟漲。"
+    },
+    {
+      "id": "mkt:019f5e46-be66-7aab-8d68-b95beaa369bf",
+      "time": "2026-07-14 09:38:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share liquid-cooled server concept stocks rose in early trade; Chunzhong Technology hit the daily limit, while Tongfei, Dayuan Pump, Binglun Environment, Southern Pump and Feilong advanced."
+    },
+    {
+      "id": "4985701",
+      "time": "2026-07-14 09:38:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【住宅開發板塊短線走低，合肥城建跌停】住宅開發板塊短線走低，合肥城建跌停，粵宏遠A、深振業A、西藏城投、中洲控股、廣宇集團等跟跌。"
+    },
+    {
+      "id": "4985700",
+      "time": "2026-07-14 09:38:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華納藥廠7個品種新進入《2026版國家基本藥物目錄》】近日，國家衛生健康委、國家中醫藥局、國家疾控局三部門聯合印發《國家基本藥物目錄（2026年版）》，自2026年9月1日起施行。華納藥廠新增7個品種納入國家基藥目錄，覆蓋消化、呼吸、心血管、抗腫瘤等多個治療領域。"
+    },
     {
       "id": "4985699",
       "time": "2026-07-14 09:38:04",
@@ -158578,81 +158744,6 @@
         "市場"
       ],
       "text": "【PCB概念震盪反彈 光華科技等多股漲停】早盤PCB概念震盪反彈，光華科技、天海電子、威爾高、諾德股份漲停，金安國紀、山東玻纖、鼎泰高科、聖泉集團跟漲。"
-    },
-    {
-      "id": "mkt:019f3a3d-dde9-7aab-8cbf-8778a1e3030d",
-      "time": "2026-07-07 09:42:40",
-      "tags": [
-        "MKT News",
-        "AUDUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Deloitte says Australia may enter longest downturn in 30 years; cuts 2026-27 growth to 1.3%, 2026 at 1.1%】Deloitte said falling oil prices may help but rising interest rates, weak consumer and business confidence, stalled housing investment and a persistent cost‑of‑living squeeze have weakened Australia’s growth outlook. It cut its 2026–27 real GDP growth forecast from 1.9% to 1.3% and now expects annual growth below 2% over the next two years, with 2026 at 1.1% — the slowest pace since the early 1990s downturn."
-    },
-    {
-      "id": "mkt:019f3a3d-5b14-7aab-8cbf-7ce93b2f99cb",
-      "time": "2026-07-07 09:42:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【PBOC'S PAN: Dim sum bond outstanding tops 2 tln yuan over past year】PBOC'S PAN said in Hong Kong that multi-currency issuance (HKD, USD, EUR, JPY) developed steadily over the past year. Dim sum bond outstanding has surpassed 2 tln yuan, the issuer base has broadened and market liquidity has improved."
-    },
-    {
-      "id": "mkt:019f3a3d-4db3-7aab-8cbf-736cb6ed7188",
-      "time": "2026-07-07 09:42:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Japanese 40-year bond yield rose 1.0 bp to 3.935%."
-    },
-    {
-      "id": "4973270",
-      "time": "2026-07-07 09:41:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銅箔板塊震盪上揚，光華科技、諾德股份雙雙漲停】銅箔板塊震盪上揚，光華科技、諾德股份雙雙漲停，萬順新材、雙星新材、璞泰來、納科諾爾、洪田股份跟漲。"
-    },
-    {
-      "id": "4973269",
-      "time": "2026-07-07 09:41:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【潘功勝：港幣美元歐元日元等多幣種債券穩定發展，點心債存量規模突破兩萬億元】中國人民銀行行長潘功勝7日在香港固定收益及貨幣峰會暨債券通論壇上表示，過去一年，港幣美元歐元日元等多幣種債券穩定發展，點心債存量規模突破兩萬億元，相關發債主體更加豐富，市場流動性不斷提升。（新華財經）"
-    },
-    {
-      "id": "4973268",
-      "time": "2026-07-07 09:40:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "40年期日本國債收益率<JP40YTN=JBTC>上升1個基點，至3.935%。"
-    },
-    {
-      "id": "4973267",
-      "time": "2026-07-07 09:40:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【端側AI概念震盪走強 瑞芯微漲停】早盤端側AI概念震盪走強，瑞芯微漲停，傳音控股、全志科技、品茗科技、樂鑫科技、芯原股份、恆玄科技跟漲。"
-    },
-    {
-      "id": "4973266",
-      "time": "2026-07-07 09:39:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體材料板塊短線拉昇，有研矽漲超10%】半導體材料板塊短線拉昇，有研矽漲超10%，有研新材、滬矽產業、先導基電、天嶽先進、中晶科技跟漲。"
     }
   ]
 }
