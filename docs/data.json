@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-15 06:17:37",
-  "count": 18779,
+  "updated": "2026-07-15 06:21:33",
+  "count": 18787,
   "items": [
+    {
+      "id": "mkt:019f62b8-35a7-7aab-8d8b-20f0b3392899",
+      "time": "2026-07-15 06:21:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Democratic Republic of Congo reports Ebola confirmed cases have risen to 2,011, with 754 deaths."
+    },
+    {
+      "id": "4988556",
+      "time": "2026-07-15 06:20:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "力拓二季度銅產量21.32萬噸。"
+    },
+    {
+      "id": "mkt:019f62b6-2017-7aab-8d8b-1cbb1bcdd231",
+      "time": "2026-07-15 06:18:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Foreign Office summoned Iran's chargé d’affaires in London over an attack carried out by a proxy group."
+    },
+    {
+      "id": "4988555",
+      "time": "2026-07-15 06:18:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗相關行動：我方會盡力規避傷及平民。"
+    },
+    {
+      "id": "mkt:019f62b5-bc7f-7aab-8d8b-15191a7cd8c8",
+      "time": "2026-07-15 06:18:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "AFP: U.S. President Trump threatened to strike Iranian power plants next week if no agreement is reached."
+    },
+    {
+      "id": "4988554",
+      "time": "2026-07-15 06:18:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國外交部：就代理人武裝發動襲擊一事召見伊朗臨時代辦。"
+    },
+    {
+      "id": "4988553",
+      "time": "2026-07-15 06:17:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：現在我不想與伊朗對話。"
+    },
+    {
+      "id": "4988552",
+      "time": "2026-07-15 06:17:30",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：美國官員已於週二與伊朗舉行會談，美國敦促伊朗達成協議。"
+    },
     {
       "id": "mkt:019f62b4-3ae2-7aab-8d8b-0c1998aa37d9",
       "time": "2026-07-15 06:16:46",
