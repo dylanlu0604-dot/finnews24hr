@@ -1,7 +1,136 @@
 {
   "date": "2026-07-14",
-  "count": 4184,
+  "count": 4198,
   "items": [
+    {
+      "id": "mkt:019f6148-3084-7aab-8d83-6c4781eadf24",
+      "time": "2026-07-14 23:39:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported a U.S. missile exploded near hydropower facilities on Iran's Kish Island."
+    },
+    {
+      "id": "4988158",
+      "time": "2026-07-14 23:38:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國一枚炮彈在伊朗基什島水電設施附近爆炸。"
+    },
+    {
+      "id": "4988157",
+      "time": "2026-07-14 23:38:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：目標是與其他銀行監管機構協調規則制定工作。"
+    },
+    {
+      "id": "4988156",
+      "time": "2026-07-14 23:38:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：力爭在最後期限前完成與《天才法案》配套規則的制定。"
+    },
+    {
+      "id": "4988155",
+      "time": "2026-07-14 23:37:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體14日報道，伊朗格什姆島傳出數次爆炸聲。"
+    },
+    {
+      "id": "mkt:019f6146-568a-7aab-8d83-673cb0d2824d",
+      "time": "2026-07-14 23:37:07",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on July 14. Germany's DAX rose 44.36 pts (0.18%) to 25,131.54; FTSE 100 gained 23.66 pts (0.23%) to 10,521.95; France's CAC 40 added 2.20 pts (0.03%) to 8,366.85; STOXX Europe 50 increased 6.18 pts (0.10%) to 6,277.20; Spain's IBEX 35 was up 18.10 pts (0.09%) at 19,345.20; Italy's FTSE MIB rose 42.15 pts (0.08%) to 52,851.50."
+    },
+    {
+      "id": "mkt:019f6146-280a-7aab-8d83-5a991302ff5b",
+      "time": "2026-07-14 23:36:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Interfax reports Russia says International Space Station operations are expected to end in 2030."
+    },
+    {
+      "id": "mkt:019f6146-0bf9-7aab-8d83-5168e1a2ea51",
+      "time": "2026-07-14 23:36:48",
+      "tags": [
+        "MKT News",
+        "C.O",
+        "Impact bullish"
+      ],
+      "text": "Citigroup CEO Fraser said the bank will accelerate its investment pace if favorable conditions persist."
+    },
+    {
+      "id": "4988154",
+      "time": "2026-07-14 23:36:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯表示國際空間站運營工作預計將於2030年終止。"
+    },
+    {
+      "id": "mkt:019f6145-b7d4-7aab-8d83-4cd60bdeb86a",
+      "time": "2026-07-14 23:36:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Three oil tankers attacked off Oman; three missing, six injured】The Oman Maritime Safety Centre said on July 14 that three Liberian-flagged oil tankers were sequentially attacked in waters off Oman, leaving three people missing and six injured. The centre gave no timing, method or attribution for the attacks and said it is monitoring the situation and taking necessary measures."
+    },
+    {
+      "id": "4988153",
+      "time": "2026-07-14 23:36:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：若良好市場環境得以延續，將加大投資推進力度。"
+    },
+    {
+      "id": "4988152",
+      "time": "2026-07-14 23:35:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【三艘油輪在阿曼附近海域遇襲 已致3人失蹤】阿曼海事安全中心當地時間14日釋出通報稱，三艘懸掛賴比瑞亞國旗的油輪在阿曼附近海域先後遭遇襲擊，目前已導致3人失蹤，6人受傷。通報未提及襲擊發生時間，也未透露襲擊方式和來源。阿曼海事安全中心表示，正持續監測事態發展，並採取必要措施應對事件。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6145-264e-7aab-8d83-45a0cd591a00",
+      "time": "2026-07-14 23:35:49",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Kuwait's military said its armed forces are currently intercepting hostile aerial targets entering Kuwaiti airspace; any explosions heard are due to air-defence systems intercepting enemy attacks."
+    },
+    {
+      "id": "4988151",
+      "time": "2026-07-14 23:35:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲的權力源自信譽。"
+    },
     {
       "id": "4988150",
       "time": "2026-07-14 23:34:43",
