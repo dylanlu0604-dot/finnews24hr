@@ -1,7 +1,77 @@
 {
   "date": "2026-07-14",
-  "count": 1506,
+  "count": 1513,
   "items": [
+    {
+      "id": "mkt:019f5f18-6d19-7aab-8d70-04d3f592b69e",
+      "time": "2026-07-14 13:27:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Hormozgan province Ports and Maritime Department rescued 23 crew from a vessel in distress in coastal waters off Bandar Abbas and safely transferred them to Qeshm Island."
+    },
+    {
+      "id": "mkt:019f5f17-86c7-7aab-8d6f-f8874fc6186a",
+      "time": "2026-07-14 13:26:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver topped $58/oz, up 0.58% intraday."
+    },
+    {
+      "id": "4986124",
+      "time": "2026-07-14 13:26:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電子化學品板塊走高，宏和科技漲停】電子化學品板塊走高，宏和科技漲停，天承科技、興福電子、方邦股份、華特氣體、萊特光電等紛紛走高。"
+    },
+    {
+      "id": "mkt:019f5f16-f2de-7aab-8d6f-f5efbcc5e211",
+      "time": "2026-07-14 13:26:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【HSBC: Too early to fear storage-cycle peak】HSBC analysts said in a research note it is too early to assume the storage cycle has peaked. Agentic AI-driven productivity gains and workflow changes could extend a storage supercycle, while improving AI service margins continue to support robust cloud spending; hyperscale cloud providers are unlikely to slow compute-capacity expansion. The phased introduction of next-generation high-bandwidth memory HBM4 should sustain upward pressure on HBM prices. Given SK Hynix’s large HBM exposure, HSBC prefers the stock among Korean techs and expects SK Hynix to hold roughly 50-55% of the HBM market once HBM4 reaches mass deployment around 2027."
+    },
+    {
+      "id": "mkt:019f5f16-c810-7aab-8d6f-eae913ae6825",
+      "time": "2026-07-14 13:25:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share oil and gas sector extended gains: Zhongman Petroleum hit limit-up; Tongyuan Petroleum, Keli Co., and Qianneng Hengxin rose over 10%; Shandong Molong, Sinopec Oilfield Service and CNOOC Development were among other top gainers."
+    },
+    {
+      "id": "4986123",
+      "time": "2026-07-14 13:25:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【油氣板塊持續走高 中曼石油封漲停】午後油氣板塊持續走高，中曼石油封漲停，通源石油、科力股份、潛能恆信漲超10%，山東墨龍、石化油服、海油發展等漲幅靠前。"
+    },
+    {
+      "id": "4986122",
+      "time": "2026-07-14 13:24:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "玻璃基板概念持續走高，截至發稿，麥格米特漲停，大族數控、三孚新科、東威科技等跟漲。"
+    },
     {
       "id": "mkt:019f5f14-95db-7aab-8d6f-e081e1b5720d",
       "time": "2026-07-14 13:23:32",
