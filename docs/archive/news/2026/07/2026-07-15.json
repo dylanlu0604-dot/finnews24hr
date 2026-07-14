@@ -1,7 +1,146 @@
 {
   "date": "2026-07-15",
-  "count": 186,
+  "count": 200,
   "items": [
+    {
+      "id": "mkt:019f6190-6b00-7aab-8d86-312ab04ef913",
+      "time": "2026-07-15 00:58:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said he has no preference among regional Fed inflation measures."
+    },
+    {
+      "id": "4988313",
+      "time": "2026-07-15 00:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府：一名印度公民在阿曼沿海遇襲船隻事件中身亡。"
+    },
+    {
+      "id": "4988312",
+      "time": "2026-07-15 00:57:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "LUCID股價跌幅擴大至11%。"
+    },
+    {
+      "id": "4988311",
+      "time": "2026-07-15 00:57:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我認為量化寬鬆本身並不具有通脹屬性。"
+    },
+    {
+      "id": "4988310",
+      "time": "2026-07-15 00:57:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：如果我心中已有偏好的通脹衡量指標，就不會要求專項工作組迴歸基礎原理重新研究。"
+    },
+    {
+      "id": "mkt:019f618f-94e3-7aab-8d86-2cf4948fcc2f",
+      "time": "2026-07-15 00:57:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed chair Kevin Warsh said quantitative easing does not necessarily cause inflation, particularly during crisis periods."
+    },
+    {
+      "id": "mkt:019f618e-d2c0-7aab-8d86-2743a283c407",
+      "time": "2026-07-15 00:56:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh: inflation reflects the policy preferences of the Fed and fiscal policymakers."
+    },
+    {
+      "id": "mkt:019f618e-cf21-7aab-8d86-1e8b16d62c75",
+      "time": "2026-07-15 00:56:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed has greater control over price levels than over the unemployment rate."
+    },
+    {
+      "id": "4988309",
+      "time": "2026-07-15 00:56:07",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：不認為量化寬鬆（QE）本身就會引發通脹，在危機時期尤其如此。"
+    },
+    {
+      "id": "mkt:019f618e-371b-7aab-8d86-14898519873b",
+      "time": "2026-07-15 00:55:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said new indicators are needed to gauge underlying inflation."
+    },
+    {
+      "id": "mkt:019f618e-23ef-7aab-8d86-0d58d3bd0d5c",
+      "time": "2026-07-15 00:55:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh said it is inaccurate to characterize him as favoring the Dallas Fed's trimmed-mean inflation gauge."
+    },
+    {
+      "id": "4988308",
+      "time": "2026-07-15 00:55:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：美聯儲對物價水平的控制力強於對失業率的控制力。"
+    },
+    {
+      "id": "4988307",
+      "time": "2026-07-15 00:54:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：通脹（結果）是美聯儲和財政政策制定者做出的選擇。"
+    },
+    {
+      "id": "4988306",
+      "time": "2026-07-15 00:54:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們需要全新指標來研判核心通脹走勢。"
+    },
     {
       "id": "4988305",
       "time": "2026-07-15 00:54:01",
