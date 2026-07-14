@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-14 12:22:35",
-  "count": 17477,
+  "updated": "2026-07-14 12:26:25",
+  "count": 17476,
   "items": [
+    {
+      "id": "mkt:019f5edf-cbd6-7aab-8d6e-38caa2fe6f00",
+      "time": "2026-07-14 12:25:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【After DeepSeek funding, founder Liang Wenfeng's net worth tops Anthropic's Dario Amodei and OpenAI's Greg Brockman】Bloomberg Billionaires Index estimates Liang Wenfeng's net worth rose to $36.0 bln from about $16.7 bln after DeepSeek's latest financing, making him the wealthiest founder among companies whose primary revenue derives from large AI models. DeepSeek reportedly closed a 50 bln yuan funding round in June at a valuation above 330 bln yuan; Liang personally invested 20 bln yuan. Bloomberg estimates his stake was diluted to roughly 78%; the bulk of his wealth comes from his controlling share in DeepSeek. The Bloomberg comparison excludes diversified tech groups (e.g. Alibaba, Tencent) and AI-industry suppliers such as data centers and semiconductor firms."
+    },
+    {
+      "id": "4985970",
+      "time": "2026-07-14 12:25:22",
+      "tags": [
+        "宏觀",
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【印度要求國有銀行增加外幣存款】印度政府要求國有銀行加大力度，從3500萬海外印裔群體中吸納外幣存款，以此擴充國家對外儲備、提振持續走弱的盧比。一份宣告顯示，印度財政部長尼爾瑪拉・西塔拉曼於週一召開會議，督促國有銀行透過線下推廣活動、線上數字渠道，同時推出創新存款產品，進一步加強與海外印度僑民的對接。知情人士透露，印度央行行長桑傑・馬爾霍特拉（Sanjay Malhotra）定於週二會見私營銀行與國有銀行執行長，制定方案吸引海外存款流入，並解決阻礙資金吸納的各類運營難題。"
+    },
+    {
+      "id": "4985969",
+      "time": "2026-07-14 12:23:40",
+      "tags": [],
+      "text": "【算力硬體H1進出口增長56.6％！創業板50ETF華安(159949)半日成交15.88億領跑 機構：新一輪上漲動能正在積蓄】7月14日，市場衝高回落，三大股指半日收跌，科創50跌超3％，創業板指下跌0.29％。在此背景下，創業板50ETF華安（159949）逆市上漲0.11％，報1.775元，換手率7.77％，半日成交額15.88億元，居同類標的ETF首位。訊息面上，海關總署副署長王軍在國新辦新聞釋出會上表示，隨著人工智慧的快速發展，我國相關產品進出口動力強勁。上半年，我國電子元件、電腦零部件等算力硬體進出口額度達到5.13萬億元，增長56.6％；眼鏡、翻譯器、機械外骨骼等智慧產品快速迭代，各類創新產品不斷湧現。機構觀點方面，招商證券認為，近期A股波動率加大，一定程度上是海外科技高波動向A股的對映，韓國市場的槓桿與美股Meta的表述造成市場劇烈波動。產業層面，建議關注國產算力的最新催化，主要是即將到來的人工智慧大會。興業證券進一步指出，站在當前這個時點和位置，大波動背後不乏一些積極的訊號正在積累。隨著海外流動性和情緒拖累、全球AI產業敘事這兩個此前影響市場調整的核心因素，均在近期迎來關鍵變化和積極訊號的驗證，新一輪上漲的動能正在波動中積蓄、醞釀。對於長期看好科技板塊的投資者，可直接透過股票賬戶交易創業板50ETF華安（159949），也可透過聯接基金（A類：160422；C類：160424；I類：022654；Y類：022976）參與。"
+    },
+    {
+      "id": "4985968",
+      "time": "2026-07-14 12:22:27",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本20年期國債拍賣需求強於12個月平均水平】週二日本20年期國債拍賣需求強於12個月平均水平，高收益率支撐了買盤。此次發行的投標倍數為4.52，高於上次的2.97，以及過去12個月的平均值3.54。另一個反映投資者興趣強勁的指標是平均中標價格與最低中標價格之差，本次為0.00，而上月為0.24，與2010年創下的紀錄低點持平。20年期國債拍賣後，日本國債期貨漲幅擴大。日本財務大臣片山皋月上週五呼籲該國政府養老投資基金(GPIF)增加對國內資產的投資，日本國債收益率有所回落。不過，媒體隨後的一篇報道緩和了這種預期，稱政府沒有計劃全面改革GPIF的資產配置。"
+    },
     {
       "id": "4985967",
       "time": "2026-07-14 12:21:38",
@@ -159911,53 +159945,6 @@
         "公司"
       ],
       "text": "【螞蟻靈波釋出空間感知模型LingBot-Depth 2.0 聯合奧比中光加速產業落地】螞蟻集團旗下具身智慧公司靈波科技釋出空間感知模型LingBot-Depth2.0，基於1.5億規模資料進行訓練。此次還同步推出了LingBot-Depth2.0的視覺基座模型——LingBot-Vision。據瞭解，奧比中光最新推出的無本體資料採集產品矩陣中，RGB-D版本的EGO裝置會適配靈波科技專門為數採場景最佳化的LingBot-Depth版本，後續還將進一步整合更高階別商業版本模型。"
-    },
-    {
-      "id": "mkt:019f3ad2-e8d3-7aab-8cc2-757599f2db1c",
-      "time": "2026-07-07 12:25:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "SSE Composite"
-      ],
-      "text": "【China State Planner says AI-related industry to grow over 30% this year】Deputy director Wang Ruomeng of the China State Planner’s Department of Innovation and High Technology Development said China’s AI-related industry exceeded CNY1 trillion last year and is preliminarily forecast to grow by more than 30% this year."
-    },
-    {
-      "id": "mkt:019f3ad2-d5b7-7aab-8cc2-683cdf4f4b1d",
-      "time": "2026-07-07 12:25:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Taiwan Weighted Index fell more than 2%."
-    },
-    {
-      "id": "4973475",
-      "time": "2026-07-07 12:24:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數下跌2%至45,622.91點。"
-    },
-    {
-      "id": "4973474",
-      "time": "2026-07-07 12:23:31",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【花旗再從摩根大通挖來一位高管 聘請Anuja Desai負責評級顧問業務】花旗集團挖來摩根大通訊用評級顧問Anuja Desai，該行在近期的招聘程序中從競爭對手那裡挖走了一系列高階銀行家。據媒體看到的一份內部備忘錄顯示，Desai將於9月下旬加入花旗，擔任董事總經理兼評級諮詢主管，常駐紐約。她將為全球客戶提供評級策略方面的諮詢，並與公司投資銀行業務的各個團隊緊密合作。Desai將向David Friedland彙報工作，後者是北美投資銀行業務聯席主管。自2022年以來，Desai一直擔任摩根大通評級諮詢業務的董事總經理。花旗集團的一位代表證實了備忘錄的內容。"
-    },
-    {
-      "id": "4973473",
-      "time": "2026-07-07 12:23:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【加拿大告知阿聯酋當下不宜投資 境內可落地專案不足】英國《金融時報》援引三位不願具名官員訊息稱，加拿大重大專案辦公室於6月中旬向阿聯酋官方代表團表示，現階段並不適合阿聯酋赴加投資。阿聯酋代表團成員前來尋求投資合作，但加拿大重大專案辦公室予以婉拒，原因是境內暫無足夠可即時落地投建的專案。加拿大總理馬克・卡尼去年11月促成阿聯酋承諾的500億加元投資，目前資金尚未實際落地一分。阿聯酋外交部未回應置評請求；加拿大重大專案辦公室亦未作出回應。加拿大國際貿易部長曼德爾・錫杜發言人在答覆問詢時稱：“我們珍視與阿聯酋穩固且持續深化的雙邊關係。”"
     }
   ]
 }
