@@ -1,7 +1,60 @@
 {
   "date": "2026-07-15",
-  "count": 532,
+  "count": 538,
   "items": [
+    {
+      "id": "4988508",
+      "time": "2026-07-15 05:00:13",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "韓國6月出口物價指數年率 48.9%，前值由46.90%修正為47.1%。\n韓國6月進口物價指數年率 20.6%，前值由24.80%修正為25.4%。"
+    },
+    {
+      "id": "mkt:019f626e-1934-7aab-8d8a-5deff76659b6",
+      "time": "2026-07-15 05:00:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June export price index YoY 48.9%; prior value revised from 46.90% to 47.1%."
+    },
+    {
+      "id": "mkt:019f626e-17fc-7aab-8d8a-501ddb1842fb",
+      "time": "2026-07-15 05:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June import price index YoY 20.6%; prior reading revised to 25.4% from 24.8%."
+    },
+    {
+      "id": "mkt:019f626d-f312-7aab-8d8a-4b2548e1e630",
+      "time": "2026-07-15 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Import Price Index (YoY) (Jun) | actual 20.6% | previous 24.80%"
+    },
+    {
+      "id": "mkt:019f626d-f23c-7aab-8d8a-43168b58334b",
+      "time": "2026-07-15 05:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | Export Price Index (YoY) (Jun) | actual 48.9% | previous 46.90%"
+    },
+    {
+      "id": "4988507",
+      "time": "2026-07-15 04:59:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙闖進世界盃決賽】剛剛結束的一場世界盃半決賽中，西班牙2比0力克法國，率先闖進世界盃決賽。"
+    },
     {
       "id": "mkt:019f626a-d162-7aab-8d8a-3bb4afb939cb",
       "time": "2026-07-15 04:56:35",
