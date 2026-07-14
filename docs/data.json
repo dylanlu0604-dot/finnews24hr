@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-15 03:56:55",
-  "count": 18820,
+  "updated": "2026-07-15 04:00:47",
+  "count": 18827,
   "items": [
+    {
+      "id": "mkt:019f6237-3349-7aab-8d89-0386c46a35a9",
+      "time": "2026-07-15 04:00:12",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US net long-term capital inflows were $232.7 billion in May; the prior month was revised up to $104.8 billion from $103.1 billion."
+    },
+    {
+      "id": "mkt:019f6237-297f-7aab-8d88-f9c86b6ea965",
+      "time": "2026-07-15 04:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foreign investors net bought $56.6bn of US Treasuries in May, up from $50.5bn previously."
+    },
+    {
+      "id": "mkt:019f6237-2722-7aab-8d88-f7b4630a7fe6",
+      "time": "2026-07-15 04:00:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. net international capital inflows in May: $132.2 bln; April revised from $26.1 bln to $76.6 bln."
+    },
+    {
+      "id": "4988474",
+      "time": "2026-07-15 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.08%】優品車跌9.02%，海天網路跌6.25%，金山雲跌6.21%，聲網跌4.68%，360數科跌4.22%。"
+    },
+    {
+      "id": "mkt:019f6237-03cb-7aab-8d88-e731887aed8f",
+      "time": "2026-07-15 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net Foreign Purchases of Treasury Securities (May) | actual 56600000000B | previous 50500000000B"
+    },
+    {
+      "id": "mkt:019f6237-03cc-7aab-8d88-eb624226542b",
+      "time": "2026-07-15 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm TIC Flows (May) | actual 232700000000B | previous 103100000000B"
+    },
+    {
+      "id": "mkt:019f6237-03c0-7aab-8d88-d95803814be7",
+      "time": "2026-07-15 04:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Net LongTerm International Capital Flows (May) | actual 132200000000B | previous 26100000000B"
+    },
+    {
+      "id": "4988473",
+      "time": "2026-07-15 03:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：希望衝突範圍不會擴大，並警告相關各方，一旦衝突升級，將承受更為嚴重的後果。"
+    },
+    {
+      "id": "4988472",
+      "time": "2026-07-15 03:59:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：部分阿拉伯國家並未從四十日戰爭中吸取教訓，再度允許美軍進駐本國領土。"
+    },
+    {
+      "id": "4988471",
+      "time": "2026-07-15 03:58:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗副外長：伊朗仍有可能重返談判，並在霍爾木茲海峽問題上展現靈活立場。"
+    },
+    {
+      "id": "mkt:019f6233-e0b8-7aab-8d88-d54def241a74",
+      "time": "2026-07-15 03:56:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reports Hormozgan provincial government said a missile fired by US forces struck an area near Sirik in Hormozgan province, Iran; no damage to residential or commercial areas."
+    },
     {
       "id": "4988470",
       "time": "2026-07-15 03:56:21",
@@ -172211,47 +172315,6 @@
         "焦點"
       ],
       "text": "【美股收盤：三大股指集體收跌】道指跌0.25%，標普500指數跌0.45%，納指跌1.15%。英特爾跌9.72%，泰瑞達跌9.59%，Generac控股跌8.56%，西部資料跌7.86%，邁威爾科技跌7.45%。“七姐妹”方面：Meta Platforms漲2.53%，亞馬遜漲0.73%，英偉達漲0.68%，微軟漲0.48%，谷歌跌0.41%，蘋果跌0.72%，特斯拉跌4.02%。"
-    },
-    {
-      "id": "mkt:019f3e2b-07e8-7aab-8cd5-e82db631310e",
-      "time": "2026-07-08 04:00:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Adviser to Iran's supreme leader Rezai said the US is seeking to have its warships transit the Strait of Hormuz."
-    },
-    {
-      "id": "4974917",
-      "time": "2026-07-08 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.64%】中比能源跌7.81%，禾賽科技跌7.58%，盛豐物流跌7.12%，中進醫療跌7.07%，嘉楠科技跌6.21%。"
-    },
-    {
-      "id": "4974916",
-      "time": "2026-07-08 03:59:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖顧問穆赫辛·禮薩伊表示：形勢十分明朗，美國會將這場談判引向失敗。"
-    },
-    {
-      "id": "mkt:019f3e28-f8e6-7aab-8cd5-e08a6757b18f",
-      "time": "2026-07-08 03:58:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fars news agency reported Iran's Major General Razai said it is clear the US will cause the negotiations to fail."
     }
   ]
 }
