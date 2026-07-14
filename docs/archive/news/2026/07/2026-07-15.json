@@ -1,7 +1,105 @@
 {
   "date": "2026-07-15",
-  "count": 654,
+  "count": 665,
   "items": [
+    {
+      "id": "4988585",
+      "time": "2026-07-15 07:05:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【產能持續去化，生豬價格下半年執行重心或上移】進入7月，低迷許久的生豬市場出現回暖跡象，現貨價格止跌反彈。國家統計局資料顯示，截至7月10日，國內外三元生豬市場價為10.9元/千克，較6月底累計上漲13.54%。業內人士表示，本輪生豬行情反彈並非消費回暖帶動，而是大肥豬庫存緊缺帶來的結構性行情。目前生豬產能去化大趨勢確定，但力度和持續性還需進一步驗證。疊加受夏季處於消費淡季、凍品庫存偏高、養殖戶壓欄延後供給等多重因素影響，下半年生豬價格很難出現單邊大漲行情，整體或以震盪上漲為主，真正意義上的週期反轉和趨勢性上漲或許要到2027年才會逐步顯現。（中證報）"
+    },
+    {
+      "id": "4988584",
+      "time": "2026-07-15 07:05:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞軍方營救45名被綁架平民】哥倫比亞軍方14日說，政府軍當日在該國西部喬科省營救出被反政府武裝“哥倫比亞民族解放武裝”綁架的45名平民。行動中，兩名士兵犧牲，另有5名士兵受傷。哥軍方透過社交媒體說，其行動成功迫使武裝分子釋放全部扣押人員，包括4名未成年人。目前，這些平民已搭乘軍用直升機安全抵達一處軍營。"
+    },
+    {
+      "id": "4988583",
+      "time": "2026-07-15 07:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本正考慮解除對美國土豆進口的禁令。"
+    },
+    {
+      "id": "4988582",
+      "time": "2026-07-15 07:03:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【力拓第二財季鐵礦石發貨量上升，銅業務成本預期下調】力拓表示，第二財季其澳大利亞採礦業務的鐵礦石銷量達到2020年以來最高水平，同時以金價高於預期和生產率提高為由，下調了銅業務的成本預期。該公司是全球最大的鐵礦石生產商之一，其大部分收入來自銷售這種鍊鋼原料。該公司表示，在截至6月的三個月裡，其皮爾巴拉(Pilbara)業務發運了8,530萬噸鐵礦石。這一數字同比增長7%，較前一財季增長18%。根據Visible Alpha編制的平均預期，分析師預計第二財季的發貨量約為8,340萬噸。在銅業務方面，力拓表示，目前預計2026年C1淨單位成本將在每磅30-50美分之間。該公司此前的年度成本預估為每磅65-75美分。"
+    },
+    {
+      "id": "mkt:019f62dd-55c3-7aab-8d8b-a2a652f091f5",
+      "time": "2026-07-15 07:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Statistics Korea: seasonally adjusted unemployment rate 2.7% in June (May 2.8%). June employment up 63,000 YoY, after a 40,000 YoY decline in May."
+    },
+    {
+      "id": "4988581",
+      "time": "2026-07-15 07:01:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【資金借道股票型ETF流入市場，寬基產品獲大舉增持】7月13日A股大幅回撥之際，近600億元抄底資金借道股票型ETF流入市場，資金規模創下2025年4月8日以來的單日新高，中證1000、滬深300、中證500等寬基ETF獲大舉增持。業內機構提示，前期科技成長賽道持續走強，積累了較大規模的融資盤，隨著市場波動加劇，部分槓桿資金開始主動或被動撤離。中期視角來看，支撐A股市場向上的核心邏輯並未因本輪槓桿出清而發生改變，當前調整更多是交易結構的修正，市場正處於由極致結構性行情向風格再平衡過渡的階段。AI產業趨勢未被證偽，三季度或轉向“選細分、驗業績”階段。（中證報）"
+    },
+    {
+      "id": "te:markets:566920",
+      "time": "2026-07-15 07:01:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Edge Up in Morning Trade — The NZX 50 climbed 24 points, or 0.2%, to 13,675 in Wednesday morning trade, erasing losses from the previous two sessions, tracking gains on Wall Street overnight as softer inflation eased expectations of a Fed interest rate hike. The energy, materials, and healthcare sectors mainly drove the index. However, declines in real estate and information technology capped the gains. Traders also continued to assess a warning from RBNZ Chief Economist Paul Conway that sticky inflation caused by recent Middle East supply shocks could lead to further interest rate hikes. They also studied a statement from Fed Chair Warsh, who said he remained fully committed to restoring price stability and had no tolerance for persistently elevated inflation. On the data front, New Zealand's electronic card spending fell 1.4% mom in June, reversing a downwardly revised 1.6% increase in May. Among early gainers were AFT Pharmaceuticals (0.8%), Ebos Group (0.8%), and Fisher & Paykel (0.6%)."
+    },
+    {
+      "id": "mkt:019f62dc-62c6-7aab-8d8b-9f8dada425b8",
+      "time": "2026-07-15 07:00:38",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan July Refinitiv Tankan non-manufacturing business sentiment index 25, previous 32."
+    },
+    {
+      "id": "mkt:019f62dc-4188-7aab-8d8b-93d48ece31d6",
+      "time": "2026-07-15 07:00:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Non-manufacturing Index (Jul) | actual 25 | previous 32"
+    },
+    {
+      "id": "4988580",
+      "time": "2026-07-15 07:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月路透短觀製造業景氣判斷指數 13，前值13。\n日本7月路透短觀非製造業景氣判斷指數 25，前值32。"
+    },
+    {
+      "id": "4988579",
+      "time": "2026-07-15 07:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月失業率 2.7%，前值2.80%。"
+    },
     {
       "id": "mkt:019f62db-ef47-7aab-8d8b-8c3230d81570",
       "time": "2026-07-15 07:00:08",

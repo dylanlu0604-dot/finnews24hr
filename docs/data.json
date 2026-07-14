@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-15 07:04:16",
-  "count": 18774,
+  "updated": "2026-07-15 07:08:17",
+  "count": 18777,
   "items": [
+    {
+      "id": "4988585",
+      "time": "2026-07-15 07:05:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【產能持續去化，生豬價格下半年執行重心或上移】進入7月，低迷許久的生豬市場出現回暖跡象，現貨價格止跌反彈。國家統計局資料顯示，截至7月10日，國內外三元生豬市場價為10.9元/千克，較6月底累計上漲13.54%。業內人士表示，本輪生豬行情反彈並非消費回暖帶動，而是大肥豬庫存緊缺帶來的結構性行情。目前生豬產能去化大趨勢確定，但力度和持續性還需進一步驗證。疊加受夏季處於消費淡季、凍品庫存偏高、養殖戶壓欄延後供給等多重因素影響，下半年生豬價格很難出現單邊大漲行情，整體或以震盪上漲為主，真正意義上的週期反轉和趨勢性上漲或許要到2027年才會逐步顯現。（中證報）"
+    },
+    {
+      "id": "4988584",
+      "time": "2026-07-15 07:05:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞軍方營救45名被綁架平民】哥倫比亞軍方14日說，政府軍當日在該國西部喬科省營救出被反政府武裝“哥倫比亞民族解放武裝”綁架的45名平民。行動中，兩名士兵犧牲，另有5名士兵受傷。哥軍方透過社交媒體說，其行動成功迫使武裝分子釋放全部扣押人員，包括4名未成年人。目前，這些平民已搭乘軍用直升機安全抵達一處軍營。"
+    },
+    {
+      "id": "4988583",
+      "time": "2026-07-15 07:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本正考慮解除對美國土豆進口的禁令。"
+    },
+    {
+      "id": "4988582",
+      "time": "2026-07-15 07:03:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【力拓第二財季鐵礦石發貨量上升，銅業務成本預期下調】力拓表示，第二財季其澳大利亞採礦業務的鐵礦石銷量達到2020年以來最高水平，同時以金價高於預期和生產率提高為由，下調了銅業務的成本預期。該公司是全球最大的鐵礦石生產商之一，其大部分收入來自銷售這種鍊鋼原料。該公司表示，在截至6月的三個月裡，其皮爾巴拉(Pilbara)業務發運了8,530萬噸鐵礦石。這一數字同比增長7%，較前一財季增長18%。根據Visible Alpha編制的平均預期，分析師預計第二財季的發貨量約為8,340萬噸。在銅業務方面，力拓表示，目前預計2026年C1淨單位成本將在每磅30-50美分之間。該公司此前的年度成本預估為每磅65-75美分。"
+    },
+    {
+      "id": "mkt:019f62dd-55c3-7aab-8d8b-a2a652f091f5",
+      "time": "2026-07-15 07:01:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Statistics Korea: seasonally adjusted unemployment rate 2.7% in June (May 2.8%). June employment up 63,000 YoY, after a 40,000 YoY decline in May."
+    },
+    {
+      "id": "4988581",
+      "time": "2026-07-15 07:01:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【資金借道股票型ETF流入市場，寬基產品獲大舉增持】7月13日A股大幅回撥之際，近600億元抄底資金借道股票型ETF流入市場，資金規模創下2025年4月8日以來的單日新高，中證1000、滬深300、中證500等寬基ETF獲大舉增持。業內機構提示，前期科技成長賽道持續走強，積累了較大規模的融資盤，隨著市場波動加劇，部分槓桿資金開始主動或被動撤離。中期視角來看，支撐A股市場向上的核心邏輯並未因本輪槓桿出清而發生改變，當前調整更多是交易結構的修正，市場正處於由極致結構性行情向風格再平衡過渡的階段。AI產業趨勢未被證偽，三季度或轉向“選細分、驗業績”階段。（中證報）"
+    },
+    {
+      "id": "te:markets:566920",
+      "time": "2026-07-15 07:01:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Edge Up in Morning Trade — The NZX 50 climbed 24 points, or 0.2%, to 13,675 in Wednesday morning trade, erasing losses from the previous two sessions, tracking gains on Wall Street overnight as softer inflation eased expectations of a Fed interest rate hike. The energy, materials, and healthcare sectors mainly drove the index. However, declines in real estate and information technology capped the gains. Traders also continued to assess a warning from RBNZ Chief Economist Paul Conway that sticky inflation caused by recent Middle East supply shocks could lead to further interest rate hikes. They also studied a statement from Fed Chair Warsh, who said he remained fully committed to restoring price stability and had no tolerance for persistently elevated inflation. On the data front, New Zealand's electronic card spending fell 1.4% mom in June, reversing a downwardly revised 1.6% increase in May. Among early gainers were AFT Pharmaceuticals (0.8%), Ebos Group (0.8%), and Fisher & Paykel (0.6%)."
+    },
+    {
+      "id": "mkt:019f62dc-62c6-7aab-8d8b-9f8dada425b8",
+      "time": "2026-07-15 07:00:38",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan July Refinitiv Tankan non-manufacturing business sentiment index 25, previous 32."
+    },
+    {
+      "id": "mkt:019f62dc-4188-7aab-8d8b-93d48ece31d6",
+      "time": "2026-07-15 07:00:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Reuters-Tankan Non-manufacturing Index (Jul) | actual 25 | previous 32"
+    },
+    {
+      "id": "4988580",
+      "time": "2026-07-15 07:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月路透短觀製造業景氣判斷指數 13，前值13。\n日本7月路透短觀非製造業景氣判斷指數 25，前值32。"
+    },
+    {
+      "id": "4988579",
+      "time": "2026-07-15 07:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國6月失業率 2.7%，前值2.80%。"
+    },
     {
       "id": "mkt:019f62db-ef47-7aab-8d8b-8c3230d81570",
       "time": "2026-07-15 07:00:08",
@@ -171825,86 +171923,6 @@
         "國際"
       ],
       "text": "【日本政府考慮修改貨幣政策措辭】日本朝日新聞援引未具名官員的話報道，日本政府正在考慮修改其“骨太方針”（honebuto，經濟財政運營和改革基本方針）中有關貨幣政策的表述。 報道稱，之所以考慮修改相關措辭，是因為投資者將此前的草案內容解讀為政府在向日本央行施壓。"
-    },
-    {
-      "id": "4975087",
-      "time": "2026-07-08 07:08:00",
-      "tags": [
-        "宏觀",
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【7月8日隔夜要聞一覽】\n1、根據美國財政部外國資產控制辦公室當地時間7月7日訊息，美國撤銷一項授權允許伊朗石油銷售的通用許可，相關收尾交易將被允許持續至美國東部時間7月17日零點。受此影響，國際油價應聲上漲。\n2、當地時間7月7日，美國中央司令部表示，美軍中央司令部部隊已開始對伊朗發動一系列強力打擊，以回應伊朗針對國際水道中由平民船員操作的商業航運實施瞄準和襲擊。\n3、美國總統特朗普7日在土耳其首都安卡拉與土耳其總統埃爾多安舉行雙邊會議前，再次聲稱格陵蘭島“應該由美國控制”，而不是丹麥。\n4、伊朗外交部發表宣告，強烈譴責美國財政部撤銷暫停伊朗石油銷售制裁的措施，稱該行動“嚴重違反”6月18日簽署的《伊斯蘭堡諒解備忘錄》第10條，並要求美國為相關後果負責。\n5、美國總統特朗普7日在土耳其首都安卡拉表示，美國將取消對土耳其的制裁，並就土耳其迴歸F-35戰鬥機專案作出決定。\n6、Meta 釋出一款新的影象生成式人工智慧（AI）模型 Muse Image，這是該公司一年前斥資數十億美元重建AI實驗室、由Alexandr Wang擔任首席AI官以來首次釋出此類模型。\n7、美國能源資訊管理局（EIA）在月度報告中表示，因戰爭停產的大部分原油生產預計將在2027年第一季度前恢復。EIA目前預計，布倫特原油價格在2026年第三季度平均為每桶74美元，2027年為每桶65美元。\n8、法國極右翼領導人、國民聯盟在法國國民議會的黨團主席瑪麗娜·勒龐在法國電視一臺節目中宣佈，她將參加2027年總統競選。"
-    },
-    {
-      "id": "mkt:019f3ed6-2bfb-7aab-8cd8-5ee300d6b888",
-      "time": "2026-07-08 07:07:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran President PEZESHKIAN returns to Iran early after U.S. strike】Iran state TV said on July 8 a U.S. military strike on Sirik in southern Iran wounded several. Hours after arriving in Najaf to attend a funeral for the late Supreme Leader Ali Khamenei, President PEZESHKIAN left Iraq and returned to Iran early following the strike."
-    },
-    {
-      "id": "4975086",
-      "time": "2026-07-08 07:07:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【納斯達克：SK海力士預計將於7月10日掛牌交易】SK海力士預計將於7月10日在Nasdaq Global Select Market掛牌交易，屆時將以發行前交易(when issued)模式進行，股票程式碼為SKHYV。股票程式碼預計將於7月13日變更為SKHY，並轉為常規模式交易。所有發行前交易的結算日預計為7月14日。"
-    },
-    {
-      "id": "4975085",
-      "time": "2026-07-08 07:06:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗總統因美軍襲擊提前回國】據伊朗國家電視臺今天（7月8日）報道，美軍對伊朗南部錫裡克的襲擊已造成多人受傷。 幾個小時前剛剛抵達伊拉克什葉派聖城納傑夫的伊朗總統佩澤希齊揚已離開伊拉克，提前回國。佩澤希齊揚原定於今天出席伊拉克為已故伊朗最高領袖阿里·哈梅內伊舉行的送葬儀式。"
-    },
-    {
-      "id": "4975084",
-      "time": "2026-07-08 07:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴林譴責伊朗襲擊沙特、卡達油輪。"
-    },
-    {
-      "id": "te:economy:564989",
-      "time": "2026-07-08 07:05:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "South Korea Posts Record Current Account Surplus — South Korea’s current account surplus widened sharply to a record high of USD 38.61 billion in May 2026, up from USD 28.29 billion in the previous month. The increase was mainly driven by a widening of the goods surplus to USD 37.86 billion in May from USD 33.88 billion in April, as exports rose 62.9% year-on-year, outpacing the 22.2% increase in imports."
-    },
-    {
-      "id": "mkt:019f3ed3-d9c8-7aab-8cd8-55962c8479de",
-      "time": "2026-07-08 07:04:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Bahrain's foreign ministry condemned Iran's attacks on Saudi and Qatari oil tankers, calling the incidents \"serious violations of international law\" and saying they threaten maritime security and global energy supplies."
-    },
-    {
-      "id": "4975083",
-      "time": "2026-07-08 07:04:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗IRIB：美國中央司令部正在攻擊特朗普四個月前聲稱已經摧毀的目標，所以其中一方在撒謊。"
     }
   ]
 }
