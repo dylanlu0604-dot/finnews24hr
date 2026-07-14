@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-15 04:49:34",
-  "count": 18830,
+  "updated": "2026-07-15 04:53:28",
+  "count": 18827,
   "items": [
+    {
+      "id": "te:economy:566908",
+      "time": "2026-07-15 04:50:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Inflation Rate MoM",
+        "Importance 1"
+      ],
+      "text": "Argentina Monthly Inflation Eases in June — Argentina's consumer price index rose 1.9% month-over-month in June 2026, easing from 2.1% in the previous month and matching market expectations. Seasonal prices increased 3.4%, reflecting higher prices for vegetables and tourism services, including airfares, hotels, and package holidays, partly offset by lower fruit prices. Regulated prices advanced 2.3%, led by electricity and public transportation. The largest monthly increase was recorded in recreation and culture, which rose 4.2% due to higher package holiday prices, followed by housing, water, electricity, gas, and other fuels, up 3.3%. Communications (0.9%) and clothing and footwear (0.4%) posted the smallest increases. Core inflation rose 1.6%, driven by higher prices for bread and cereals, pharmaceuticals, and housing rents. On an annual basis, consumer prices increased 33.5%."
+    },
     {
       "id": "4988505",
       "time": "2026-07-15 04:47:31",
@@ -172354,39 +172366,6 @@
         "MKT News"
       ],
       "text": "According to The Information, SpaceXAI plans to release as early as Wednesday a new AI model developed in partnership with Cursor."
-    },
-    {
-      "id": "4974958",
-      "time": "2026-07-08 04:53:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紐約曼哈頓中城一棟高樓出現結構險情 周邊人員緊急疏散】紐約市官員正採取緊急措施加固曼哈頓中城一棟高層建築，該建築多根立柱出現裂縫且樓層開始下沉。這起事件導致紐約最繁忙路段之一實施封路。週二早些時候，紐約市消防局接報稱，位於東42街235號的輝瑞前總部大樓附近有磚塊墜落。消防員和市建築部門官員隨後疏散了樓內人員，並持續監測建築狀況，以評估如何確保施工人員安全進入現場，對受影響樓層進行加固。紐約市長佐赫蘭·馬姆達尼在新聞釋出會上表示，“這棟建築仍處於不穩定狀態。這是一起極其嚴重的事件，我感謝我們的應急人員迅速趕赴現場。”馬姆達尼表示，自救援人員抵達以來，“我們持續觀察到建築結構發生位移”。"
-    },
-    {
-      "id": "4974957",
-      "time": "2026-07-08 04:52:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "AISA完成650萬美元融資，由阿里巴巴與Tribe Capital聯合領投，用於搭建人工智慧智慧體交易網路。"
-    },
-    {
-      "id": "4974956",
-      "time": "2026-07-08 04:51:43",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "SpaceX旗下人工智慧部門計劃最快於週三推出搭載Cursor的新模型。"
-    },
-    {
-      "id": "4974955",
-      "time": "2026-07-08 04:49:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "蓋蒂圖片社通知快門相簿，終止雙方合併協議。"
     }
   ]
 }
