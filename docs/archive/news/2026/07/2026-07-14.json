@@ -1,7 +1,107 @@
 {
   "date": "2026-07-14",
-  "count": 4209,
+  "count": 4219,
   "items": [
+    {
+      "id": "4988174",
+      "time": "2026-07-14 23:47:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古巴再次發生全國性停電】當地時間7月14日上午，古巴電力聯盟釋出訊息稱，國家電力系統再次完全斷開。2026年以來，古巴已多次發生全國性停電。本次為7月發生的第三次。（央視新聞）"
+    },
+    {
+      "id": "4988173",
+      "time": "2026-07-14 23:47:03",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "沃什淡化6月CPI資料後，美國國債漲幅收窄。"
+    },
+    {
+      "id": "4988172",
+      "time": "2026-07-14 23:45:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什講話期間，美元現貨指數跌幅收窄。"
+    },
+    {
+      "id": "mkt:019f614e-2ff9-7aab-8d83-9f871f9263a8",
+      "time": "2026-07-14 23:45:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the Treasury may use the Exchange Stabilization Fund (ESF) to arrange swap lines unrelated to Fed monetary policy."
+    },
+    {
+      "id": "4988171",
+      "time": "2026-07-14 23:45:40",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：財政部可將匯率穩定基金（ESF）用於與美聯儲貨幣政策無關的互換額度。"
+    },
+    {
+      "id": "4988170",
+      "time": "2026-07-14 23:45:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威近海工業集團：石油服務業罷工與停工已結束，工會與企業同意透過自願仲裁解決爭議。"
+    },
+    {
+      "id": "mkt:019f614d-7da0-7aab-8d83-92483d6b149b",
+      "time": "2026-07-14 23:44:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said dollar liquidity swap line capacity is part of monetary policy."
+    },
+    {
+      "id": "4988169",
+      "time": "2026-07-14 23:44:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：我們仍有與完善資料治理相關的未竟工作，這方面工作尤其針對監管報告領域，目前我們正持續穩步推進相關程序。"
+    },
+    {
+      "id": "mkt:019f614c-c7a0-7aab-8d83-8de517c7b479",
+      "time": "2026-07-14 23:44:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【U.S. June CPI slows but inflationary pressure remains】U.S. Labor Department data on the 14th showed June CPI rose 3.5% YoY, down from 4.2% in May but still well above the Fed’s 2% target. The Labor Department said energy price declines were the main driver of the slowdown, offsetting price gains in housing and food. Navy Federal Credit Union chief economist Heather Long said inflation eased in June but the moderation may be short-lived as renewed U.S.-Iran military tensions could reaccelerate inflationary pressure."
+    },
+    {
+      "id": "4988168",
+      "time": "2026-07-14 23:43:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我不想“選擇性挑選”資料。"
+    },
     {
       "id": "4988167",
       "time": "2026-07-14 23:42:55",

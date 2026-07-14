@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-14 23:44:02",
-  "count": 18601,
+  "updated": "2026-07-14 23:48:28",
+  "count": 18605,
   "items": [
+    {
+      "id": "4988174",
+      "time": "2026-07-14 23:47:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【古巴再次發生全國性停電】當地時間7月14日上午，古巴電力聯盟釋出訊息稱，國家電力系統再次完全斷開。2026年以來，古巴已多次發生全國性停電。本次為7月發生的第三次。（央視新聞）"
+    },
+    {
+      "id": "4988173",
+      "time": "2026-07-14 23:47:03",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "沃什淡化6月CPI資料後，美國國債漲幅收窄。"
+    },
+    {
+      "id": "4988172",
+      "time": "2026-07-14 23:45:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什講話期間，美元現貨指數跌幅收窄。"
+    },
+    {
+      "id": "mkt:019f614e-2ff9-7aab-8d83-9f871f9263a8",
+      "time": "2026-07-14 23:45:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said the Treasury may use the Exchange Stabilization Fund (ESF) to arrange swap lines unrelated to Fed monetary policy."
+    },
+    {
+      "id": "4988171",
+      "time": "2026-07-14 23:45:40",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：財政部可將匯率穩定基金（ESF）用於與美聯儲貨幣政策無關的互換額度。"
+    },
+    {
+      "id": "4988170",
+      "time": "2026-07-14 23:45:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威近海工業集團：石油服務業罷工與停工已結束，工會與企業同意透過自願仲裁解決爭議。"
+    },
+    {
+      "id": "mkt:019f614d-7da0-7aab-8d83-92483d6b149b",
+      "time": "2026-07-14 23:44:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said dollar liquidity swap line capacity is part of monetary policy."
+    },
+    {
+      "id": "4988169",
+      "time": "2026-07-14 23:44:10",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團執行長：我們仍有與完善資料治理相關的未竟工作，這方面工作尤其針對監管報告領域，目前我們正持續穩步推進相關程序。"
+    },
+    {
+      "id": "mkt:019f614c-c7a0-7aab-8d83-8de517c7b479",
+      "time": "2026-07-14 23:44:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【U.S. June CPI slows but inflationary pressure remains】U.S. Labor Department data on the 14th showed June CPI rose 3.5% YoY, down from 4.2% in May but still well above the Fed’s 2% target. The Labor Department said energy price declines were the main driver of the slowdown, offsetting price gains in housing and food. Navy Federal Credit Union chief economist Heather Long said inflation eased in June but the moderation may be short-lived as renewed U.S.-Iran military tensions could reaccelerate inflationary pressure."
+    },
+    {
+      "id": "4988168",
+      "time": "2026-07-14 23:43:46",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我不想“選擇性挑選”資料。"
+    },
     {
       "id": "4988167",
       "time": "2026-07-14 23:42:55",
@@ -170063,63 +170163,6 @@
         "國際"
       ],
       "text": "【特朗普稱將取消對土耳其制裁】美國總統特朗普7日在土耳其首都安卡拉表示，美國將取消對土耳其的制裁，並就土耳其迴歸F-35戰鬥機專案作出決定。特朗普當天抵達安卡拉出席北約峰會。在與土耳其總統埃爾多安舉行的聯合新聞釋出會上，特朗普表示，當前美土關係良好，美方正著手解除對土製裁，並將就土耳其迴歸F-35戰鬥機專案作出決定。（新華社）"
-    },
-    {
-      "id": "4974772",
-      "time": "2026-07-07 23:48:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據知情人士透露，SK海力士美國IPO獲得數倍超額認購，大約1000名散戶投資者參與了7月6日的（管理層營銷）電話會。"
-    },
-    {
-      "id": "4974771",
-      "time": "2026-07-07 23:47:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "空客：本協議不具備法律約束力，尚需完成常規監管審批以及歐盟與各成員國層面勞工相關流程。全新合資企業預計 2027 年正式運營。"
-    },
-    {
-      "id": "te:markets:564935",
-      "time": "2026-07-07 23:47:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises to 4-Month High — The FTSE 100 rose 0.3% to a four-month high on Tuesday, outpacing losses in both Europe and the US amid gains in energy stocks and limited exposure to the tech sector. Shell added 3.8% after saying that it expects gas trading in its second quarter to be “significantly” higher than in the first. BP also gained 1.7% as oil prices climbed following fresh attacks on shipping vessels in the Strait of Hormuz. Meanwhile, Diageo and AB Foods rose by around 3.7% each, Unilever gained 3.2% and Relx nearly 3%. On the other hand, mining stocks were under pressure, with Anglo American and Antofagasta retreating by over 4%, Fresnillo down 3.9% and Endeavour falling 2.9%. On the economic front, domestic data encouraged home buyers as the Lloyds house price index, formerly branded under Halifax, reported a 0.2% monthly price increase for June, marking the first gain in four months due to easing mortgage rates."
-    },
-    {
-      "id": "4974770",
-      "time": "2026-07-07 23:46:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "空客：將與 MTU 航空發動機公司成立合資企業，研發全電動氫燃料電池航空發動機。"
-    },
-    {
-      "id": "mkt:019f3d41-efbe-7aab-8cd2-94ddc105deaf",
-      "time": "2026-07-07 23:45:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index rises to near one-month high on capesize gains】Baltic Dry Index (BDI) closed up 78 pts (+2.79%) at 2,875, its highest in nearly a month, led by a 205-pt (4.76%) gain in the Capesize index to 4,514. Panamax rose 14 pts (0.63%) to 2,230, Supramax ticked up 1 pt to 1,676, while Handysize eased 7 pts to 929."
-    },
-    {
-      "id": "te:markets:564933",
-      "time": "2026-07-07 23:44:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Equities Retreat — US stock indices retreated on Tuesday amid losses for the heavyweight chip sector and fresh deterioration in the macroeconomic backdrop. The S&P 500 fell 0.7%, the Nasdaq 100 tanked 2.7%, while the Dow pulled back from a record high reached in morning exchanges. Memory producers sank even though Samsung posted a 19-fold surge in profit last quarter, as markets grow increasingly skeptical on whether AI hyperscalers can justify elevated levels of capital expenditure on infrastructure. Micron, Sandisk, and Applied Materials lost between 8%-10%. Consistently, SpaceX dropped 6% amid its inclusion in the Nasdaq 100. On top of that, Nvidia fell 1.5% and AMD slid 8% on reports that China's Deepseek is developing its own AI chip. In turn, broader sectors were pressured by higher bond yields after strikes on tankers in the Strait of Hormuz rekindled worries of energy inflation. Caterpillar, Deere, and GE Vernovia lost between 5% and 10%."
     }
   ]
 }
