@@ -1,7 +1,249 @@
 {
-  "updated": "2026-07-14 20:44:18",
-  "count": 18415,
+  "updated": "2026-07-14 20:48:15",
+  "count": 18421,
   "items": [
+    {
+      "id": "mkt:019f60ab-1f1c-7aab-8d7d-adc37b0c94a8",
+      "time": "2026-07-14 20:47:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Federal Reserve Chair KEVIN WARSH: Fed will not tolerate high inflation】Federal Reserve Chair KEVIN WARSH said Fed policymakers \"must not tolerate persistently high inflation\" and are determined to restore price stability after five years of elevated price gains. The remarks were in a Fed-released speech prepared ahead of June's US CPI release."
+    },
+    {
+      "id": "mkt:019f60ab-029f-7aab-8d7d-a699c8e553bb",
+      "time": "2026-07-14 20:47:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: Israeli Prime Minister Netanyahu said he inspected the Dimona nuclear reactor today."
+    },
+    {
+      "id": "te:markets:566826",
+      "time": "2026-07-14 20:47:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Rebound on Soft CPI — Futures tracking US stock indices rebounded on Tuesday after softer inflation data erased the risk of a Federal Reserve rate hike this month. Contracts for the S&P 500 swung to 0.3% higher and those for the Nasdaq 100 gained nearly 1%, while the Dow erased a 500 point deficit to set up a flat open. The US CPI fell more than expected and the core gauge surprisingly refrained from increasing, easing concerns that higher underlying price growth would force the Fed to start hiking rates by their next meeting. This was magnified by another rally in energy prices after the US and Iran maintained strikes against each other. Chip producers rebounded from yesterday's selloff with Micron and Sandisk adding 5% each premarket. On the other hand, the country's largest banks were lower. JPMorgan fell 2.5% despite posting its strongest profit level ever, and Bank of America dropped 0.8% despite beating earnings. Likewise, Wells Fargo sank 2% even though its earnings report was also seen as a beat."
+    },
+    {
+      "id": "4987797",
+      "time": "2026-07-14 20:47:05",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通高管稱，存款業務上半年表現強於預期。"
+    },
+    {
+      "id": "te:economy:566825",
+      "time": "2026-07-14 20:47:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Energy Inflation",
+        "Importance 0"
+      ],
+      "text": "US Energy Inflation Slows in June — US energy inflation dropped to 15.7% year-over-year in June 2026 from 23.5% in May, which was the steepest since August 2022. Prices slowed down for gasoline (27.1% vs 40.5% in May); fuel oil (42.9% vs 58.9%) and electricity (4% vs 5.9%). Piped gas services costs increased by 3%, the same pace as in May. On a monthly basis, energy prices slipped by 5.7%, after a 3.9% increase in the month before."
+    },
+    {
+      "id": "4987796",
+      "time": "2026-07-14 20:46:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行首席財務官表示，目前我們預計全年經營槓桿率將處於300至400個基點區間。"
+    },
+    {
+      "id": "mkt:019f60aa-25d1-7aab-8d7d-9c9ff777bf0a",
+      "time": "2026-07-14 20:46:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair KEVIN WARSH said a working group on an inf framework will study inf drivers and weigh approaches to achieving price stability."
+    },
+    {
+      "id": "mkt:019f60a9-e03f-7aab-8d7d-97507d9053f0",
+      "time": "2026-07-14 20:46:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed's productivity and employment task force will examine the pace, scope and impact of advances in next-generation general-purpose technologies."
+    },
+    {
+      "id": "4987795",
+      "time": "2026-07-14 20:46:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南京新百：預計2026年上半年淨利潤同比下降77.15%到78.90%】南京新百公告，預計2026年上半年淨利潤為3512.02萬元到3804.69萬元，同比下降77.15%到78.90%。報告期內，公司全資子公司世鼎生物技術（香港）有限公司控制的Dendreon Pharmaceuticals LLC的產品PROVENGE銷售下滑，減少世鼎香港淨利潤約1.42億元。"
+    },
+    {
+      "id": "mkt:019f60a9-c6b0-7aab-8d7d-8c7cc1f501e1",
+      "time": "2026-07-14 20:46:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he has appointed a working group in each of five areas to improve the Fed’s monetary policy decision-making, saying those areas are critical to implementing monetary policy."
+    },
+    {
+      "id": "4987794",
+      "time": "2026-07-14 20:46:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SK董事長：AI賽道需要巨量資金持續投入】在被問及未來五年內（集團定下儲存晶片產能翻倍的目標週期）最擔憂的風險因素時，崔泰源點名地緣政治風險與資金供給問題。他表示：“突發地緣事件極易推高能源價格；AI產業發展途中若遭遇各類意外衝擊，即便只是短期影響，也會讓行業丟失增長勢頭。” 關於資金層面，他坦言：“AI賽道需要巨量資金持續投入，一旦資金供給跟不上，當前強勁的行業發展動能就會消退。” 崔泰源對此解釋：“之所以會面臨這類壓力，本質是現階段人工智慧技術尚不成熟。預計五年左右，AI技術會如同孩童長成一般趨於成熟穩定、可靠性大幅提升，屆時將顯著拉動全社會生產效率，開啟良性產業迴圈。”"
+    },
+    {
+      "id": "4987793",
+      "time": "2026-07-14 20:45:27",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通首席財務官表示，我們預計今年消費者存款將實現低個位數增長，這一預期目前保持不變。"
+    },
+    {
+      "id": "4987792",
+      "time": "2026-07-14 20:45:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST春天：2026年上半年淨虧損3228萬-3752萬元】*ST春天公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為-3228.00萬元至-3752.00萬元，扣除非經常性損益後的淨利潤為-3455.00萬元至-3979.00萬元，上年同期淨利潤為131.70萬元。業績虧損主要因所處行業整體經營狀況不佳、消費市場萎縮、需求下降，且二季度為行業淡季，白酒行業仍處深度調整期，銷售承壓、業績不及預期。"
+    },
+    {
+      "id": "mkt:019f60a8-e9a5-7aab-8d7d-86442bd70b0a",
+      "time": "2026-07-14 20:45:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said it remains unclear how much the economy will benefit from AI buildout."
+    },
+    {
+      "id": "4987791",
+      "time": "2026-07-14 20:44:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行首席財務官表示，預計淨利息收入將落在6%-8%區間的上端。"
+    },
+    {
+      "id": "mkt:019f60a8-9d8a-7aab-8d7d-79f517f9d6f3",
+      "time": "2026-07-14 20:44:50",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed chair KEVIN WARSH said the most prominent feature of the current economy is business investment. Its rapid pace — and what appears to be further acceleration — largely reflects data-center construction and strong demand for AI-related equipment and software to outfit those centers."
+    },
+    {
+      "id": "4987790",
+      "time": "2026-07-14 20:44:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：當前經濟最突出的特徵是商業投資。其快速步伐——且似乎還在加快——在很大程度上反映了資料中心的建設以及填滿這些中心的AI相關裝置和軟體的龐大需求。"
+    },
+    {
+      "id": "4987789",
+      "time": "2026-07-14 20:44:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天融信：預計2026年上半年淨虧損2.4億元至2.9億元】天融信公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為2.4億元至2.9億元，上年同期虧損6469.35萬元。因傳統網路安全產品需求復甦不及預期，新方向產品形成規模尚需時日，報告期營業收入階段性承壓。"
+    },
+    {
+      "id": "mkt:019f60a8-45dd-7aab-8d7d-7304eaae8d32",
+      "time": "2026-07-14 20:44:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Chair Kevin Warsh said the FOMC is firmly committed to restoring price stability, which is the central issue for the June meeting."
+    },
+    {
+      "id": "4987788",
+      "time": "2026-07-14 20:44:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭議會批准總理斯維裡堅科辭職】烏克蘭最高拉達（議會）14日批准總理尤利婭·斯維裡堅科辭職。在當天舉行的最高拉達全體會議上，關於批准斯維裡堅科辭職的第15407號決議獲得258名議員支援並獲透過。（新華社）"
+    },
+    {
+      "id": "mkt:019f60a8-0204-7aab-8d7d-6fa36452862f",
+      "time": "2026-07-14 20:44:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he and his colleagues recognize that high inflation has been an undue burden on U.S. households and businesses, and that over the longer run potential inflation is largely determined by monetary policy."
+    },
+    {
+      "id": "4987787",
+      "time": "2026-07-14 20:44:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST正平：預計2026年上半年淨虧損1.3億-1.8億元】*ST正平公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為-1.3億元至-1.8億元，同比虧損增加；扣非淨利潤為-1.31億元至-1.81億元，同比虧損增加。上年同期淨利潤為-8812.21萬元。業績變動主要因地方基建投資縮減，公司新增訂單減少、施工業務收入下降，訴訟費用等增加，專案回款減少，信用減值損失計提額同比增加。"
+    },
+    {
+      "id": "mkt:019f60a7-cfb0-7aab-8d7d-65ae17948b05",
+      "time": "2026-07-14 20:43:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Federal Reserve Chair KEVIN WARSH said if the Fed gets policy right, the past five years' surge in inflation will be history."
+    },
+    {
+      "id": "4987786",
+      "time": "2026-07-14 20:43:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SK董事長：當前AI成本過高 半導體供給短期難改善】SK集團會長崔泰源表示：“目前人工智慧（AI）相關成本過高，各方應當攜手尋找技術突破口，壓降相關成本。” 當地時間13日，崔泰源做客節目時談及：“當下半導體價格居高不下，供給也無法充分保障，給行業帶來沉重負擔。而擴充產能存在固定交付週期，該問題無法在短期內徹底解決。” 針對這一現狀，崔泰源介紹了集團規劃：作為韓國政府推進的三大國家級超大型重點專案之一，SK將分階段建設總規模達15吉瓦的AI資料中心。 崔泰源稱：“我們將重點打造能夠以更低運營成本、更高效率生成Token算力的新型AI資料中心，目前正與所有合作方就此展開溝通洽談。” 他還補充道：“集團最初制定1萬億美元規模投資計劃時，並未預料到業務體量會擴張至如今級別，而人工智慧產業的爆發讓這一佈局落地成為現實。AI產業耗資巨大，必須配套建設一定體量以上的資料中心作為支撐。”"
+    },
+    {
+      "id": "4987785",
+      "time": "2026-07-14 20:43:49",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通執行長戴蒙稱，大型交易提前完成對第二季度業績貢獻顯著 。"
+    },
     {
       "id": "mkt:019f60a7-85db-7aab-8d7d-581aabff83e4",
       "time": "2026-07-14 20:43:39",
@@ -60,6 +302,15 @@
         "其他"
       ],
       "text": "ARGUS RESEARCH將達美航空<DAL.N>目標價從100美元上調至105美元。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607143805967959",
+      "time": "2026-07-14 20:43:05",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什未就利率前景發表評論。"
     },
     {
       "id": "4987779",
@@ -167960,197 +168211,6 @@
         "MKT News"
       ],
       "text": "US President Trump, asked about withdrawing US troops from Europe, said the US needs to watch."
-    },
-    {
-      "id": "4974494",
-      "time": "2026-07-07 20:47:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普被問及歐洲撤軍問題時回答說：我們拭目以待。"
-    },
-    {
-      "id": "4974493",
-      "time": "2026-07-07 20:47:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及土耳其與F-35戰機：我們將就此作出決定。F-35是一款出色的飛機。"
-    },
-    {
-      "id": "4974492",
-      "time": "2026-07-07 20:47:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美莎克在廣西停留長達26小時】7月5日凌晨3時左右，“美莎克”進入廣西防城港東興市後，處於西太平洋副熱帶高壓和大陸高壓之間的鞍形場中，移動速度緩慢、強度減弱慢，以熱帶風暴級以上強度在廣西停留長達26個小時，遠超以往颱風在廣西停留的平均時間15.6小時，停留時間越長，降雨就越多。同時，“美莎克”東南側有非常強盛的季風輸送帶，把南海、北部灣以及印度洋的水汽源源不斷輸送到廣西，這是造成此次過程降雨持續時間長、雨量累計大、致災性強的主要原因。 （央視新聞）"
-    },
-    {
-      "id": "4974491",
-      "time": "2026-07-07 20:47:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【津藥藥業：倍他米松原料藥獲巴西衛生監督局批准上市】津藥藥業(600488)7月7日公告，公司收到巴西衛生監督局簽發的關於倍他米松原料藥的批准通知，標誌著公司可滿足關聯製劑客戶需求，將對公司拓展巴西市場、提升業績帶來積極影響。倍他米松適用於低腎素低醛固酮綜合徵和植物神經病變所致體位性低血壓及過敏性與自身免疫性炎症性疾病，現多用於活動性風溼病、類風溼性關節炎、紅斑狼瘡、嚴重支氣管哮喘、嚴重皮炎、急性白血病等，也用於某些感染的綜合治療。"
-    },
-    {
-      "id": "4974490",
-      "time": "2026-07-07 20:46:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "菲律賓央行：截至6月末，外匯儲備總額為1048億美元。"
-    },
-    {
-      "id": "mkt:019f3c9d-aff0-7aab-8ccf-273ff08abcb6",
-      "time": "2026-07-07 20:46:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Williams said that, given uncertainty, providing explicit forward guidance is not appropriate."
-    },
-    {
-      "id": "4974489",
-      "time": "2026-07-07 20:46:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：預計人工智慧領域將持續保持強勁投資。鑑於存在不確定性，不宜提供明確的指導。"
-    },
-    {
-      "id": "mkt:019f3c9d-721b-7aab-8ccf-1adfca84bff6",
-      "time": "2026-07-07 20:46:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the F-35 is an outstanding aircraft."
-    },
-    {
-      "id": "4974488",
-      "time": "2026-07-07 20:46:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：土耳其比其他國家更忠誠。"
-    },
-    {
-      "id": "mkt:019f3c9d-5573-7aab-8ccf-13b67ad24063",
-      "time": "2026-07-07 20:46:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump on Turkey's F-35 fighter said this is a decision we are going to make."
-    },
-    {
-      "id": "mkt:019f3c9d-3cca-7aab-8ccf-091d2be0d7ac",
-      "time": "2026-07-07 20:46:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fed's Williams expects continued strong investment in AI."
-    },
-    {
-      "id": "mkt:019f3c9c-0e45-7aab-8ccf-0393ca59daf1",
-      "time": "2026-07-07 20:44:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CSRC opened a formal investigation into an individual surnamed An for allegedly fabricating and disseminating false information about Offcn Education."
-    },
-    {
-      "id": "mkt:019f3c9b-fa7d-7aab-8cce-fd65ccaeaa6f",
-      "time": "2026-07-07 20:44:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed's Williams says his recent view on inflation has become more upbeat due to energy prices."
-    },
-    {
-      "id": "4974487",
-      "time": "2026-07-07 20:44:39",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "【證監會對安某編造傳播涉中公教育虛假資訊立案調查】證監會現已查明，7月2日，安某（男，網名：南京路寶寶總）編造傳播涉及上市公司中公教育的虛假誤導性資訊，嚴重擾亂證券市場秩序，嚴重破壞公序良俗，涉嫌違反證券法，我會決定對安某立案調查。下一步，我會將在全面調查的基礎上嚴肅追究相關當事人的違法責任。涉嫌犯罪的，依法移送公安機關。網路絕非法外之地。編造傳播虛假誤導性資訊是證券期貨法律法規嚴格禁止的行為，歷來是證監會打擊重點。我會將繼續對編造傳播證券期貨虛假誤導性資訊行為嚴密盯防、快速反應、嚴肅查處，全力維護資本市場資訊傳播秩序。"
-    },
-    {
-      "id": "4974486",
-      "time": "2026-07-07 20:44:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：受能源價格影響，我對短期通脹形勢更為樂觀。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607073796974794",
-      "time": "2026-07-07 20:44:29",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【紐約聯儲主席威廉姆斯：經濟增長穩健 勞動力市場穩定】紐約聯儲主席威廉姆斯表示，經濟增長穩健，勞動力市場穩定，預計整體通脹率將隨著能源價格走低。"
-    },
-    {
-      "id": "te:economy:564863",
-      "time": "2026-07-07 20:44:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Exports",
-        "Importance 1"
-      ],
-      "text": "Canadian Exports Reach New Record in May — Canadian goods exports rose 0.9% month-over-month to a record C$77.1 billion in May 2026, marking a fourth consecutive monthly increase. Exports of metal ores and non-metallic minerals surged 16.1%, led by a 37.0% jump in diamonds and other non-metallic minerals, mainly due to higher sulphur shipments. Exports of other metal ores and concentrates more than doubled on new gold ore shipments to China. Exports of metal and non-metallic mineral products rose 1.5%, supported by a 50.7% increase in unwrought aluminum and aluminum alloys. Consumer goods (3.9%), chemicals, plastics and rubber (5.6%), and farm and food products (2.4%) also posted solid gains. The increase was partly offset by a 2.0% decline in energy exports, driven by a 5.4% drop in crude oil shipments."
-    },
-    {
-      "id": "4974485",
-      "time": "2026-07-07 20:44:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Equinor授予60億挪威克朗海底專案合同】7月7日，Equinor代表合作伙伴，就挪威大陸架上四個海底專案授予了總值約60億挪威克朗的合同。這四個專案預計將貢獻1.3億至2.2億桶油當量的可採儲量。"
-    },
-    {
-      "id": "mkt:019f3c9b-b10d-7aab-8cce-f208f72eb22e",
-      "time": "2026-07-07 20:44:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said he will discuss trade and military affairs today."
-    },
-    {
-      "id": "te:markets:564862",
-      "time": "2026-07-07 20:44:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "UniCredit Stock Price Hits 16-year High — UniCredit shares increased to 83.61 EUR, the highest since October 2009. Over the past 4 weeks, UniCredit gained 15.19%, and in the last 12 months, it increased 41.29%."
     }
   ]
 }
