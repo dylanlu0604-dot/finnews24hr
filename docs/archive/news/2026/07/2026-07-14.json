@@ -1,7 +1,217 @@
 {
   "date": "2026-07-14",
-  "count": 3943,
+  "count": 3965,
   "items": [
+    {
+      "id": "4988021",
+      "time": "2026-07-14 22:29:28",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【7月14日增減持彙總】據不完全統計，7月14日盤後，賽力斯、傑克科技、箭牌家居、泓淋電力4家公司披露增持情況。天馬科技、中持股份、麗尚國潮、東嶽矽材、嘉誠國際、首創證券6家A股公司披露擬減持情況。"
+    },
+    {
+      "id": "mkt:019f6108-3f50-7aab-8d80-dfa4cb70bb6c",
+      "time": "2026-07-14 22:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hubei peak load hits record 60.34 GW】State Grid Hubei Electric Power Co said Hubei’s grid load reached 60.338 GW at 12:38 on July 14, a record high. Prolonged heat drove rapid demand growth, with Wuhan, Xiangyang, Yichang, Jingzhou and Jingmen each setting all-time peak loads; the operator forecasts the province’s maximum load will exceed 62 GW this year."
+    },
+    {
+      "id": "4988020",
+      "time": "2026-07-14 22:29:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：資產管理激勵費將於第三、四季度上行。"
+    },
+    {
+      "id": "4988019",
+      "time": "2026-07-14 22:28:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達據悉與三菱重工就人工智慧資料中心的冷卻與供電展開合作。"
+    },
+    {
+      "id": "4988018",
+      "time": "2026-07-14 22:28:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行首席財務官邁克·桑托馬西莫表示，第四季度平均貸款規模同比增速很可能會高於預期。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607143806109898",
+      "time": "2026-07-14 22:28:28",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什：現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。"
+    },
+    {
+      "id": "4988017",
+      "time": "2026-07-14 22:28:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱與法國就防空系統及戰機採購等達成合作協議】烏克蘭總統澤連斯基14日表示，烏克蘭與法國達成多項防務合作協議，內容包括導彈許可生產、防空反導系統供應以及採購“陣風”戰鬥機等。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6107-410a-7aab-8d80-d0dd988b22ef",
+      "time": "2026-07-14 22:28:13",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Nikkei reports NVIDIA is in talks with Japan’s Mitsubishi Heavy Industries on cooling and power solutions for AI data centers."
+    },
+    {
+      "id": "4988016",
+      "time": "2026-07-14 22:27:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：將重新審視通脹框架，以理解通脹成因及應對之策。"
+    },
+    {
+      "id": "mkt:019f6106-ffc8-7aab-8d80-ca2a590b59a1",
+      "time": "2026-07-14 22:27:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he will reassess the inf framework to better understand its drivers and the measures available to address it."
+    },
+    {
+      "id": "mkt:019f6106-ee00-7aab-8d80-c51da35ea19b",
+      "time": "2026-07-14 22:27:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed chair Kevin Warsh said he was pleased his predecessor later abandoned the Fed's 2020 framework."
+    },
+    {
+      "id": "4988015",
+      "time": "2026-07-14 22:27:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "T-Mobile <TMUS.O>：BERNSTEIN將目標價從245美元下調至220美元。"
+    },
+    {
+      "id": "mkt:019f6106-574e-7aab-8d80-bf97c2b91c43",
+      "time": "2026-07-14 22:27:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed chair Kevin Warsh said the Fed's 2020 policy framework was a mistake and did not succeed."
+    },
+    {
+      "id": "4988014",
+      "time": "2026-07-14 22:27:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：我樂見前任摒棄2020年美聯儲政策框架。"
+    },
+    {
+      "id": "mkt:019f6106-2690-7aab-8d80-b5b3faa5eb82",
+      "time": "2026-07-14 22:27:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said he is highly critical of the Fed's 2020 policy framework and that this is no secret."
+    },
+    {
+      "id": "4988013",
+      "time": "2026-07-14 22:26:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "沃什：我此前對2020年美聯儲政策框架持強烈批評態度，這一點眾所周知。"
+    },
+    {
+      "id": "4988012",
+      "time": "2026-07-14 22:26:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們希望，通脹升幅更加受限。這並非美聯儲在通脹問題上推卸責任（pass the buck）的時刻。"
+    },
+    {
+      "id": "mkt:019f6105-5bca-7aab-8d80-aa9d9fc0c26a",
+      "time": "2026-07-14 22:26:08",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bullish"
+      ],
+      "text": "Bernstein raises Eli Lilly (LLY.N) price target to $1,385 from $1,300."
+    },
+    {
+      "id": "4988011",
+      "time": "2026-07-14 22:25:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什：我們有可用工具來實現這一目標。"
+    },
+    {
+      "id": "4988010",
+      "time": "2026-07-14 22:25:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃什： 將致力於實現價格穩定。"
+    },
+    {
+      "id": "mkt:019f6104-ef0e-7aab-8d80-a4e1387bc8f4",
+      "time": "2026-07-14 22:25:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh said the Fed has the tools to achieve price stability."
+    },
+    {
+      "id": "mkt:019f6104-e3cf-7aab-8d80-9daa2e153097",
+      "time": "2026-07-14 22:25:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed is committed to price stability and maintains a 2% inf target."
+    },
     {
       "id": "mkt:019f6104-b908-7aab-8d80-90a40f555a20",
       "time": "2026-07-14 22:25:27",
