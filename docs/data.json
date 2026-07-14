@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-14 08:42:19",
+  "updated": "2026-07-14 08:46:08",
   "count": 17321,
   "items": [
+    {
+      "id": "4985582",
+      "time": "2026-07-14 08:45:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "日 日本財務大臣片山皋月發：將緊急採取具體措施，使政府債券對個人投資者更具吸引力，並審查其產品特點。"
+    },
+    {
+      "id": "4985581",
+      "time": "2026-07-14 08:44:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本厚生勞動大臣：GPIF的運作將以參保人的利益為出發點。"
+    },
+    {
+      "id": "4985580",
+      "time": "2026-07-14 08:44:58",
+      "tags": [],
+      "text": "【伊朗方面稱襲擊了美國海軍第五艦隊司令部】據伊朗媒體14日訊息，位於巴林的美國海軍第五艦隊司令部遭到伊朗導彈襲擊。"
+    },
+    {
+      "id": "4985579",
+      "time": "2026-07-14 08:43:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "富士通：推出人工智慧驅動的現代化服務。"
+    },
+    {
+      "id": "4985578",
+      "time": "2026-07-14 08:42:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國資料中心開發商加速拋售鉅額股權資產】美國資料中心開發商正藉著人工智慧行業熱潮變現離場。多位知情人士透露，今年夏季，全美多家資料中心建設及運營企業正聯合投行，計劃出售公司價值數百億美元的多數股權。投行正在接洽多家企業的股權轉讓事宜，包括 Netrality 資料中心、DataBank、Edged、EdgeCore 數字基礎設施等企業，其產業佈局覆蓋鳳凰城至亞特蘭大多地。當前算力需求持續旺盛，資料中心成為熱門資產，投行正向私募股權機構大力推介這類標的。"
+    },
     {
       "id": "te:markets:566548",
       "time": "2026-07-14 08:40:50",
@@ -158365,51 +158404,6 @@
         "Importance 0"
       ],
       "text": "Silver Eases Ahead of FOMC Minutes — Silver slipped below $62 an ounce on Tuesday, but held most of last week's gains as investors awaited the minutes of the Federal Reserve’s June meeting for fresh clues on the outlook for interest rates. Data released last week showed US job growth slowed sharply in June, while payroll figures for the previous two months were revised lower, leading markets to scale back expectations of a near-term rate hike. Traders are now pricing in roughly a 50% chance of a Fed rate increase in September, down from about two-thirds before the latest employment report. The metal also drew support from lower oil prices as traffic through the key Strait of Hormuz continued to recover following the implementation of the interim US-Iran peace agreement. Meanwhile, Middle Eastern producers ramped up output and cut prices in response to changing market conditions, while OPEC+ agreed to increase production quotas for next month."
-    },
-    {
-      "id": "te:markets:564602",
-      "time": "2026-07-07 08:44:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies as FOMC Minutes Eyed — Gold steadied around $4,150 an ounce on Tuesday after a volatile start to the week, as investors awaited the minutes of the Federal Reserve’s June meeting for fresh clues on the outlook for interest rates. Data released last week showed US job growth slowed sharply in June, while payroll figures for the previous two months were revised lower, leading markets to scale back expectations of a near-term rate hike. Traders are now pricing in roughly a 50% chance of a Fed rate increase in September, down from about two-thirds before the latest employment report. The precious metal also drew support from lower oil prices as traffic through the key Strait of Hormuz continued to recover following the implementation of the interim US-Iran peace agreement. Meanwhile, Middle Eastern producers ramped up output and cut prices in response to changing market conditions, while OPEC+ agreed to increase production quotas for next month."
-    },
-    {
-      "id": "4973170",
-      "time": "2026-07-07 08:44:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳擴大分割槽暴雨橙色預警訊號範圍】過去3小時，龍華區、南山區（南頭、西麗、桃源街道）、寶安區（新安、西鄉、福永、石巖、航城、福海、燕羅街道）、龍崗區（坂田街道）和光明區（公明街道）已出現強降雨，預計未來1-2小時還將出現20-40毫米降水，深圳市氣象臺2026年07月07日08時05分在上述區域釋出暴雨橙色預警訊號，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域，上述區域山洪風險較大，注意防禦暴雨可能引發的區域性內澇、山洪、滑坡、泥石流等災害。"
-    },
-    {
-      "id": "4973169",
-      "time": "2026-07-07 08:44:00",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：第二增長曲線賦能，鋰電裝備邁入成長新階段】中信建投研報表示，為對沖週期波動，鋰電裝備企業透過平臺化、多元化轉型打造第二增長曲線且成效顯現，該轉型具備雙重價值：經營端平滑主業業績波動，改善現金流與收入質量；估值端推動企業由“週期類鋰電裝置商”重估為“平臺型高階裝備商”，實現估值中樞上移。目前行業第二增長曲線分為三大方向：一是基於自動化、精密控制等通用技術，將成套解決方案外拓至光伏、3C、半導體、智慧物流等非鋰電領域；二是依託技術與成本優勢出海，透過配套國內客戶出海、服務海外電池廠商、搭建本地化服務體系獲取海外增量；三是前瞻佈局鈉電池、固態電池、幹法電極、等靜壓、複合集流體等新工藝配套裝置，卡位技術迭代紅利。鋰電裝置行業正迎來週期復甦+成長擴容雙重紅利，技術平臺化能力已驗證、疊加新技術佈局期權的鋰電裝備企業，具備穿越週期、享受行業擴容的長期成長與配置價值。"
-    },
-    {
-      "id": "4973168",
-      "time": "2026-07-07 08:43:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌4.4%，至2,240,000韓元。"
-    },
-    {
-      "id": "4973167",
-      "time": "2026-07-07 08:43:20",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【日本發行人推動亞洲離岸債發行創新高】日本借款人推動亞太地區離岸債券市場季度發行規模創下歷史新高，超過了此前中資發行人主導市場時期所達到的前高點。作為亞洲最大的離岸債券承銷機構之一，花旗集團的銀行家預計，下半年債券發行仍將維持高位，因為發行人希望提前籌資，以規避未來利率上升的風險。彙編資料顯示，截至6月30日的季度，亞太地區借款人共發行1540億美元等值的美元和歐元債券，創下歷史新高。其中，日本發行人貢獻了約40%的發行量。"
     }
   ]
 }
