@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-15 01:30:53",
-  "count": 18797,
+  "updated": "2026-07-15 01:34:55",
+  "count": 18800,
   "items": [
+    {
+      "id": "mkt:019f61b1-9007-7aab-8d87-03a3abcdc974",
+      "time": "2026-07-15 01:34:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's state oil company is restructuring $1.2 bln of Eurobonds."
+    },
+    {
+      "id": "4988360",
+      "time": "2026-07-15 01:33:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭石油天然氣公司：歐元債券到期日將延長至2032年，美元債券到期日將延長至2033年。"
+    },
+    {
+      "id": "4988359",
+      "time": "2026-07-15 01:33:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭國家石油天然氣公司表示，正在對12億歐元的歐洲債券進行債務重組。"
+    },
+    {
+      "id": "4988358",
+      "time": "2026-07-15 01:33:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利政府選舉改革法案議會投票未獲透過。"
+    },
+    {
+      "id": "4988357",
+      "time": "2026-07-15 01:32:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "威瑞森將於週四上午宣佈裁員計劃。"
+    },
+    {
+      "id": "4988356",
+      "time": "2026-07-15 01:31:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哥倫比亞反政府武裝綁架39名平民】哥倫比亞軍方14日說，該國西部喬科省當日發生一起大規模綁架事件，39名平民被反政府武裝人員扣押，其中包括一名未成年人。"
+    },
+    {
+      "id": "4988355",
+      "time": "2026-07-15 01:31:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱正攔截伊朗發起的襲擊。"
+    },
     {
       "id": "4988354",
       "time": "2026-07-15 01:30:19",
@@ -172011,45 +172069,6 @@
         "XAUUSD"
       ],
       "text": "【UKMTO raises Strait of Hormuz threat level to 'severe'】The UK Maritime Trade Operations (UKMTO) said three attacks on tankers near the Strait of Hormuz on Tuesday prompted it to raise the maritime threat level to 'severe', the second-highest. An unnamed LNG carrier suffered a fire after an unidentified object struck the port side of its engine room while transiting the strait. A very large crude carrier (VLCC) was hit by an unidentified object as it departed the strait; the vessel continued to its destination and no casualties were reported. A third tanker was attacked near Oman's Musandam peninsula, sustaining minor structural damage. UKMTO said the likelihood of deliberate hostile action has increased, navigational disruption persists and vessels should remain highly vigilant. It added that Iran's Islamic Revolutionary Guard Corps' hailing and route-interference activity continues, notably targeting ships with their automatic identification system (AIS) active."
-    },
-    {
-      "id": "mkt:019f3da4-0662-7aab-8cd4-0e6ed9f6a09f",
-      "time": "2026-07-08 01:33:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A Turkish official said Erdogan discussed Iran with Trump and urged an end to the conflict and reopening of the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f3da4-02f1-7aab-8cd4-04a44042b3d3",
-      "time": "2026-07-08 01:33:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkish official says Iran can secure its security and economic interests through negotiation; war would benefit neither side."
-    },
-    {
-      "id": "mkt:019f3da2-cb76-7aab-8cd3-f97681ba6a0a",
-      "time": "2026-07-08 01:31:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Macron said France will continue to engage in Syrian affairs but will not compromise on security."
-    },
-    {
-      "id": "mkt:019f3da2-8c40-7aab-8cd3-f6ac6bfba6c0",
-      "time": "2026-07-08 01:31:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he will never allow Iran to possess nuclear weapons, regardless of whether an agreement is reached."
     }
   ]
 }
