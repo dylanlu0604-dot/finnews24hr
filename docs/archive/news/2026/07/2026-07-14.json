@@ -1,7 +1,89 @@
 {
   "date": "2026-07-14",
-  "count": 833,
+  "count": 842,
   "items": [
+    {
+      "id": "4985668",
+      "time": "2026-07-14 09:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦美軍基地附近劇烈爆炸】據伊朗塔斯尼姆通訊社訊息，當地時間今天（7月14日）凌晨，約旦東部阿茲拉克美軍基地發生劇烈爆炸。（CCTV國際時訊）"
+    },
+    {
+      "id": "4985667",
+      "time": "2026-07-14 09:25:54",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.12％，深成指漲0.07％，創業板漲0.16％。"
+    },
+    {
+      "id": "4985666",
+      "time": "2026-07-14 09:25:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股油氣裝置股走強 山東墨龍漲近15%】截至發稿，山東墨龍(00568.HK)漲14.99%，中石化油服(01033.HK)漲5%，達力普控股(01921.HK)漲1.99%。"
+    },
+    {
+      "id": "mkt:019f5e3a-ac09-7aab-8d67-f9b0fd0c59f0",
+      "time": "2026-07-14 09:25:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "China A-shares opened: Shanghai Composite down 0.12%, Shenzhen Composite Index up 0.07%, ChiNext Index up 0.16%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607143804769643",
+      "time": "2026-07-14 09:24:26",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展2365億元7天期逆回購操作】央行今日（7月14日）開展2365億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4985665",
+      "time": "2026-07-14 09:24:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【河南省豫鐵智算私募股權基金登記成立】企查查APP顯示，近日，河南省豫鐵智算私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由河南省鐵路建設投資集團有限公司等共同出資。"
+    },
+    {
+      "id": "4985664",
+      "time": "2026-07-14 09:23:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【津藥達仁堂100款產品納入新版國家基藥目錄】據津藥達仁堂訊息，7月9日，《國家基本藥物目錄（2026年版）》釋出，實施時間定為2026年9月1日。津藥達仁堂集團本次共有100個產品納入新版基藥目錄。其中速效救心丸、清咽滴丸、金芪降糖片、癃清片、京萬紅軟膏及獨家劑型烏雞白鳳片共6款獨家品種順利入選。"
+    },
+    {
+      "id": "4985663",
+      "time": "2026-07-14 09:23:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“國有大行高息存款”刷屏？農行建行緊急回應：假的】近期不法分子冒用國有大行名義，在第三方平臺及社交渠道釋出“存100萬享5.25%利息”等虛假高息廣告，誘導消費者新增微信後推介境外保險、投資專案，牟取佣金甚至實施詐騙。對此，農行、建行回應稱，經核實無此類存款產品，相關宣傳均系虛假。同時，兩家大行提示，消費者應警惕遠高於市場水平的收益承諾，認準銀行網點、官網、官方APP等正規渠道，勿點不明連結、洩露身份證號、驗證碼等資訊，嚴防資金損失。（21財經）"
+    },
+    {
+      "id": "mkt:019f5e38-6a91-7aab-8d67-f7000664811b",
+      "time": "2026-07-14 09:23:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "601288.SS",
+        "601939.SS"
+      ],
+      "text": "【Fraudulent ads promise 5.25% deposits in name of state banks; Agricultural Bank, China Construction Bank deny】Fraudsters are impersonating Chinese state-owned banks on third-party platforms and social channels, circulating ads such as “deposit 1 million yuan, earn 5.25%.” Agricultural Bank of China and China Construction Bank said they have no such deposit products and the promotions are false. Scammers ask victims to add contacts on WeChat, then pitch overseas insurance or investment products to earn commissions or commit fraud. Banks urged customers to use official branches, websites and apps only, be wary of returns far above market rates, avoid unknown links and never disclose ID numbers or SMS verification codes."
+    },
     {
       "id": "4985662",
       "time": "2026-07-14 09:22:34",
