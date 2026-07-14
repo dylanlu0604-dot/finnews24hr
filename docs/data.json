@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-14 21:05:19",
-  "count": 18407,
+  "updated": "2026-07-14 21:09:20",
+  "count": 18401,
   "items": [
+    {
+      "id": "4987851",
+      "time": "2026-07-14 21:08:28",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國銀行盤前股價漲幅擴大至1%，管理層召開財報電話會議。"
+    },
+    {
+      "id": "mkt:019f60be-3226-7aab-8d7e-3e9209197afe",
+      "time": "2026-07-14 21:08:25",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Financial Times reports the European Commission will this week propose loosening bank capital requirements."
+    },
+    {
+      "id": "mkt:019f60bd-c36d-7aab-8d7e-3545bf721d5f",
+      "time": "2026-07-14 21:07:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) premarket down 1.1% after KeyBanc cut its rating from sector weight to Underweight."
+    },
+    {
+      "id": "4987850",
+      "time": "2026-07-14 21:07:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "蘋果公司股價盤前下跌1.1%，此前KeyBanc將其評級從“行業匹配”下調至“減持”。"
+    },
+    {
+      "id": "mkt:019f60bd-77a9-7aab-8d7e-292d0711c2f5",
+      "time": "2026-07-14 21:07:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian embassy in Abu Dhabi said 55 Iranian fishermen detained in the UAE are being repatriated; 14 have returned to Iran by sea and the remainder are scheduled to fly home."
+    },
+    {
+      "id": "mkt:019f60bd-6a8a-7aab-8d7e-27479f05e5bb",
+      "time": "2026-07-14 21:07:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission Joint Research Centre says EU population is currently 450.6 mln and is projected to fall to about 445 mln by 2050 and to 398.8 mln by 2100, a decline of roughly 11.7%, returning to circa 1970s levels."
+    },
+    {
+      "id": "mkt:019f60bc-e80c-7aab-8d7e-1c8c8d85cbcd",
+      "time": "2026-07-14 21:07:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Typhoon Bavi decommissioned】Typhoon Bavi, the ninth typhoon this year and at tropical-storm strength, became extratropical at 20:00 on the 14th over southern N. Korea. The China Meteorological Administration at 20:00 on the 14th stopped assigning it a typhoon number."
+    },
+    {
+      "id": "4987849",
+      "time": "2026-07-14 21:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中央政法委舉辦政法宣傳工作培訓班 著力鍛造講政治懂法治善宣傳的政法宣傳隊伍】7月7日至10日，中央政法委在河南焦裕祿幹部學院舉辦政法宣傳工作培訓班。中央政法委副秘書長滕繼國出席開班式作動員，並與參訓學員同上沉浸式黨性教育課《您好，焦裕祿》。 培訓班深入學習貫徹習近平黨建思想、習近平法治思想、習近平文化思想和總體國家安全觀，緊緊圍繞貫徹政法領導幹部專題研討班精神，結合開展樹立和踐行正確政績觀學習教育，緊扣“努力鍛造講政治、懂法治、善宣傳的政法宣傳隊伍”主題，聚焦政治錘鍊、業務培訓、能力提升，科學設定課程。（最高檢）"
+    },
+    {
+      "id": "4987848",
+      "time": "2026-07-14 21:06:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科曙光：擬發行80億元可轉債，7月15日開啟優先配售和網上申購】中科曙光公告稱，公司向不特定物件發行可轉換公司債券（“曙26轉債”）已獲證監會同意註冊，本次發行規模80億元，每張面值100元。原股東優先配售日及繳款日為7月15日，配售程式碼“753019”；網上申購日同為7月15日，申購程式碼“754019”，每個賬戶申購上限為100萬元。若認購不足發行數量的70%，或包銷比例超30%，公司及主承銷商將協商是否中止發行。"
+    },
+    {
+      "id": "4987847",
+      "time": "2026-07-14 21:06:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "加州資源公司：2026年第二季度含衍生品的已實現油價為每桶76.50美元。"
+    },
+    {
+      "id": "mkt:019f60bc-1001-7aab-8d7e-1529ba7daba6",
+      "time": "2026-07-14 21:06:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Kpler: Russian refining hits 21-year low after drone strikes】Kpler said Ukrainian drone attacks have reduced Russian refinery throughput to a 21-year low of about 3.8 mln bpd. The firm expects Q3 refinery runs to remain subdued, with only limited recovery as ongoing strikes and repair work constrain operations. Cumulative damage has sharply raised offline capacity: as of mid‑July roughly 4.3 mln bpd of capacity was offline or affected, about 58% of Russia’s refining capacity, and an estimated 1.5–2.0 mln bpd of processing capability is fully out of operation. Kpler forecasts a modest rebound to around 4.3 mln bpd in August as maintenance eases, but says continued drone attacks pose significant downside risk."
+    },
+    {
+      "id": "4987846",
+      "time": "2026-07-14 21:05:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比利時首都一大樓起火多人死】當地時間今天（7月14日）上午，比利時首都布魯塞爾市中心一處正在翻修改造的大樓發生火災，造成多人死亡，具體傷亡人數尚不清楚。目前救援人員正在搜尋6名失蹤的工人。消防部門稱，火災最初發生在建築二層，火勢隨後蔓延至電梯井——發生火災的兩部電梯中，有一部發現了“數量不詳的遺體”。目前尚不清楚這些是否是所有6名失蹤工人的遺體。 據瞭解，火災發生時，現場有200多名工人，絕大部分已緊急撤離，其中3人被送醫救治。（CCTV國際時訊）"
+    },
     {
       "id": "4987845",
       "time": "2026-07-14 21:03:59",
@@ -167971,158 +168086,6 @@
         "國際"
       ],
       "text": "特朗普：格陵蘭島應當由美國掌控。"
-    },
-    {
-      "id": "4974560",
-      "time": "2026-07-07 21:09:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：格陵蘭島對美國很重要。"
-    },
-    {
-      "id": "mkt:019f3cb2-6616-7aab-8cd0-1249a7246c63",
-      "time": "2026-07-07 21:09:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says Italian Prime Minister Meloni did not back the US on Iran, worsening bilateral relations."
-    },
-    {
-      "id": "4974559",
-      "time": "2026-07-07 21:09:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談格陵蘭島：對丹麥沒有幫助。"
-    },
-    {
-      "id": "mkt:019f3cb2-414e-7aab-8cd0-0d95744ff905",
-      "time": "2026-07-07 21:09:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "RTX.O",
-        "Impact bullish"
-      ],
-      "text": "Raytheon is working with European firms to double production of \"Stinger\" missiles."
-    },
-    {
-      "id": "4974558",
-      "time": "2026-07-07 21:08:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大方面表示，歡迎阿爾巴尼亞、比利時、希臘、拉脫維亞、盧森堡、羅馬尼亞、土耳其和烏克蘭為防衛銀行提供支援。"
-    },
-    {
-      "id": "4974557",
-      "time": "2026-07-07 21:08:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曝DeepSeek自研AI晶片，知情人士透露細節】據報道，DeepSeek正在開發自主AI晶片，致力於減少對英偉達等公司晶片的依賴。據知情人士透露，DeepSeek的自研AI晶片主要面向推理任務，而不是AI模型訓練。“該公司已與外部合作伙伴接洽，並與晶片設計、代工製造及儲存晶片企業進行了討論。”據知情人士透露，DeepSeek自研晶片的工作大約在一年前便已啟動。對於自研AI晶片一事，新浪科技向DeepSeek方面求證，截至發稿公司暫無回應。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f3cb1-fdbd-7aab-8cd0-054fca031376",
-      "time": "2026-07-07 21:08:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "The UK will join the Precision Strike Missile (PRSM) programme and allocate £190m to the project from the government’s £298bn defence investment plan."
-    },
-    {
-      "id": "mkt:019f3cb1-7fe3-7aab-8ccf-f83a375e4071",
-      "time": "2026-07-07 21:08:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada said eight countries pledged to support a Canada-led Defense, Security and Resilience Bank."
-    },
-    {
-      "id": "4974556",
-      "time": "2026-07-07 21:08:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國出口商向哥倫比亞出售了10.5萬噸豆粕。"
-    },
-    {
-      "id": "4974555",
-      "time": "2026-07-07 21:07:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大宣告：八國承諾支援加拿大主導的防務、安全與韌性銀行。"
-    },
-    {
-      "id": "4974554",
-      "time": "2026-07-07 21:07:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【霍爾木茲海峽再遭襲，英法掃雷計劃遇阻折】阿曼剛批准英法兩國協助清理霍爾木茲海峽南部航道，海峽內就再度發生船隻遇襲事件，英法籌劃的霍爾木茲海峽掃雷計劃遭遇挫折。英法兩國不願具名的官員透露，兩國掃雷艦艇與部隊已部署完畢，待下達軍事指令後，即可在阿曼海域開展有限度掃雷行動。此前英法於 7 月 4 日宣佈，外交層面取得突破，成功說服阿曼同意該項護航掃雷任務。"
-    },
-    {
-      "id": "4974553",
-      "time": "2026-07-07 21:07:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：該項計劃將從英國政府總額2980億英鎊的防務投資計劃中獲得1.9億英鎊的資金支援。"
-    },
-    {
-      "id": "4974552",
-      "time": "2026-07-07 21:07:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國政府：將加入精確打擊導彈（PRSM）專案。"
-    },
-    {
-      "id": "4974551",
-      "time": "2026-07-07 21:06:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：梅洛尼在伊朗問題上並未支援美方，兩國關係因此出現裂痕。"
-    },
-    {
-      "id": "4974550",
-      "time": "2026-07-07 21:06:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍：目前正敲定安全與軍事合作安排，其中包括可能部署特種部隊協助打擊恐怖組織。"
-    },
-    {
-      "id": "4974549",
-      "time": "2026-07-07 21:06:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我喜歡梅洛尼。"
-    },
-    {
-      "id": "mkt:019f3caf-960e-7aab-8ccf-f17937d657b9",
-      "time": "2026-07-07 21:06:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump said the US will lift sanctions on Syria, has good relations with its new leadership and does not want to sanction friends."
-    },
-    {
-      "id": "4974548",
-      "time": "2026-07-07 21:05:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們不想制裁朋友。"
     }
   ]
 }
