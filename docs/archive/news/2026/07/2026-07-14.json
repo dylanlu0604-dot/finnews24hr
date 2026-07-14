@@ -1,7 +1,129 @@
 {
   "date": "2026-07-14",
-  "count": 4073,
+  "count": 4086,
   "items": [
+    {
+      "id": "mkt:019f6127-5bc5-7aab-8d82-505e932fe270",
+      "time": "2026-07-14 23:03:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kevin Warsh says Fed will give markets ample notice before balance-sheet changes】Kevin Warsh told a hearing any Fed change to balance-sheet policy would be preceded by advance notice, explanation and public discussion to give the committee and markets sufficient time to prepare. He said observers know his concerns about the Fed’s large balance sheet but declined to pre-judge the conclusions of the newly formed balance-sheet working group. He added the balance sheet is a monetary policy tool and the Fed should avoid encroaching on fiscal policy."
+    },
+    {
+      "id": "4988085",
+      "time": "2026-07-14 23:03:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（當被問及若特朗普批評他美聯儲會作何反應時）將依據資料作出決策。"
+    },
+    {
+      "id": "mkt:019f6126-ec1a-7aab-8d82-4e807f495fbf",
+      "time": "2026-07-14 23:02:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates"
+      ],
+      "text": "Fed chair Kevin Warsh said he will act based on the data, even if criticized by Trump."
+    },
+    {
+      "id": "4988084",
+      "time": "2026-07-14 23:02:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "Anthropic：與美國教師聯合會合作，推動我方條款與隱私實踐符合頂級標準。"
+    },
+    {
+      "id": "4988083",
+      "time": "2026-07-14 23:02:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列撥款13億新謝克爾在約旦河西岸建設定居點】當地時間14日，以色列政府正式宣佈，內閣上月已批准撥款13億新謝克爾（約合4.31億美元），用於資助過去三年半中批准設立的數十個約旦河西岸以色列猶太人定居點。"
+    },
+    {
+      "id": "4988082",
+      "time": "2026-07-14 23:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：6月份共獲得121份訂單，8份訂單取消。"
+    },
+    {
+      "id": "4988081",
+      "time": "2026-07-14 23:01:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "預測平臺Kalshi宣佈推出遠期收益曲線計算工具，該工具現已涵蓋英偉達B200、H200及A100晶片相關合約，正式上線執行。"
+    },
+    {
+      "id": "mkt:019f6125-6404-7aab-8d82-42e1f108a352",
+      "time": "2026-07-14 23:01:08",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N) received 121 orders in June and recorded 8 cancellations."
+    },
+    {
+      "id": "mkt:019f6125-52bd-7aab-8d82-3807fb4e4775",
+      "time": "2026-07-14 23:01:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "As of the 23:00 close, China onshore front-month futures were mostly higher: fuel oil up over 4%, low-sulfur fuel oil (LU) up over 3%, ethylene glycol (EG) up nearly 3%; styrene (EB) and asphalt rose over 2%; propylene and benzene were up nearly 2%. Soda ash and glass were slightly lower."
+    },
+    {
+      "id": "4988080",
+      "time": "2026-07-14 23:01:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：溝通時更加審慎是更為妥當的處理方式。"
+    },
+    {
+      "id": "mkt:019f6125-0649-7aab-8d82-3761429698a7",
+      "time": "2026-07-14 23:00:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Korea Customs Service said crude oil imports in June totaled 9.9 mln tonnes, down from 11.0 mln tonnes a year earlier."
+    },
+    {
+      "id": "te:markets:566870",
+      "time": "2026-07-14 23:00:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 1.61% — Top currency gainers are Brazilian Real (1.61%), Norwegian Krone (1.29%), New Zealand Dollar (1.17%), Euro (0.56%), British Pound (0.42%) and Japanese Yen (0.28%). Biggest losers are Dollar Index (-0.48%) and Indian Rupee (-0.28%)."
+    },
+    {
+      "id": "4988079",
+      "time": "2026-07-14 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續漲4.19%，低硫燃料油連續漲3.64%，乙二醇連續漲2.95%，苯乙烯連續漲2.49%，瀝青連續漲2.13%。"
+    },
     {
       "id": "4988078",
       "time": "2026-07-14 22:59:07",
