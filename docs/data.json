@@ -1,7 +1,138 @@
 {
-  "updated": "2026-07-14 23:53:23",
-  "count": 18608,
+  "updated": "2026-07-14 23:57:42",
+  "count": 18619,
   "items": [
+    {
+      "id": "mkt:019f6158-4c65-7aab-8d83-d0b1a954844d",
+      "time": "2026-07-14 23:56:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "German Research Centre for Geosciences (GFZ) reports a magnitude-6.05 earthquake in Mindanao, Philippines."
+    },
+    {
+      "id": "4988187",
+      "time": "2026-07-14 23:56:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "德國地學研究中心（GFZ）：菲律賓棉蘭老島發生6.05級地震。"
+    },
+    {
+      "id": "4988186",
+      "time": "2026-07-14 23:56:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我更傾向於實施能夠避免經濟大起大落的貨幣政策。"
+    },
+    {
+      "id": "4988185",
+      "time": "2026-07-14 23:55:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國警方稱前議員系遭“針對性襲擊”身亡】當地時間14日，英國反恐警務負責人、助理警察總監勞倫斯·泰勒表示，前內閣大臣、前保守黨下院議員安·維德科姆系遭“針對性襲擊”身亡。目前警方正在調查襲擊的策劃過程、準備情況及其背後動機，並已就此展開大範圍搜查。警方已逮捕一名28歲男子。該嫌疑人涉嫌實施、準備或煽動恐怖主義行為，同時涉嫌謀殺。泰勒表示，依據《反恐法》，警方已獲准將該嫌疑人拘留期限延長至最多七天。"
+    },
+    {
+      "id": "te:markets:566885",
+      "time": "2026-07-14 23:55:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Inch Higher — European stocks rebounded to close slightly higher on Tuesday after soft inflation data in the US reduced sovereign yields in major economies. The Euro STOXX 50 inched higher by 0.2% to 6,283 and the STOXX Europe 600 rose 0.1% to 642. Both headline and core inflation rates in the US declined more than expected in June, shutting the door on a Fed hike this month and adding some respite for bonds across major economies, improving credit conditions for European corporate giants. Banks benefited from the data, with BNP Paribas, ING, and Deutsche Bank adding more than 1%. Power operators also rose sharply amid the rebound in AI stocks, tracking companies with exposure to AI infrastructure. Schneider added 1.7% and Siemens Energy advanced 3%. Meanwhile, ASML rose by 0.7% ahead of its earnings tomorrow."
+    },
+    {
+      "id": "4988184",
+      "time": "2026-07-14 23:55:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱在敖德薩附近打擊三艘幹散貨船。"
+    },
+    {
+      "id": "4988183",
+      "time": "2026-07-14 23:54:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特表示，其防空部隊目前正在應對“敵方”導彈與無人機威脅。"
+    },
+    {
+      "id": "4988182",
+      "time": "2026-07-14 23:54:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗開始接回此前因導航訊號受干擾遭阿聯酋扣押的55名漁民。"
+    },
+    {
+      "id": "mkt:019f6156-5401-7aab-8d83-ca5ab1b45702",
+      "time": "2026-07-14 23:54:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwaiti government says air-defence systems are currently responding to hostile missile and drone threats."
+    },
+    {
+      "id": "4988181",
+      "time": "2026-07-14 23:54:09",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團首席財務官：我們務必確保本行會計處理已計入不確定性與季節性因素的影響。"
+    },
+    {
+      "id": "4988180",
+      "time": "2026-07-14 23:53:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特響起防空警報。"
+    },
+    {
+      "id": "mkt:019f6155-8a8a-7aab-8d83-c0983079274e",
+      "time": "2026-07-14 23:53:43",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwaiti media report sirens sounding nationwide in Kuwait."
+    },
+    {
+      "id": "te:markets:566884",
+      "time": "2026-07-14 23:53:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Edges Up on Tuesday — The FTSE 100 edged slightly higher on Tuesday in a volatile session, supported by softer US inflation data and President Donald Trump’s decision to drop plans for a fee on cargo passing through the Strait of Hormuz. US annual inflation slowed to 3.5% in June from 4.2% in May, below expectations of 3.8%, prompting investors to reduce bets on further Federal Reserve tightening. Market sentiment also improved after Trump replaced his proposed 20% transit fee with investment agreements from Gulf states, saying the revenue would instead come through future US investments. Energy and financial stocks led gains, with Shell up 0.9% and BP adding 1.6%. HSBC rose 1.7%, Lloyds Banking gained 1%, and Standard Chartered advanced 1.6%. Mining stocks also performed strongly, with Rio Tinto up 3% and Glencore rising 3.2%. On the downside, AstraZeneca fell more than 1.5%, GSK declined nearly 2%, while Unilever and Rolls Royce slipped around 0.6%."
+    },
+    {
+      "id": "4988179",
+      "time": "2026-07-14 23:52:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：監管機構協同施策時，監管政策方能發揮最佳效用。"
+    },
     {
       "id": "mkt:019f6154-2831-7aab-8d83-b9b83e195b13",
       "time": "2026-07-14 23:52:12",
@@ -170175,30 +170306,6 @@
         "其他"
       ],
       "text": "Anthropic： Claude Cowork 功能即將登陸移動端與網頁端，  Claude Cowork 雙倍使用額度優惠延期至 8 月 5 日。"
-    },
-    {
-      "id": "4974777",
-      "time": "2026-07-07 23:56:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法國能源企業高管：歐洲需要與中國合作推動脫碳和綠色轉型】在法國7月4日舉行的一個經濟論壇上，法國兩大能源企業高管均表示，在剛剛結束的中國之行中，他們發現中國核電企業的效率非常高，歐洲不應該築起壁壘，而是應該與中國展開合作，推動脫碳和綠色轉型。（央視新聞）"
-    },
-    {
-      "id": "4974776",
-      "time": "2026-07-07 23:56:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美法案欲推動美以軍事深度整合】美國國會眾議院軍事委員會6月透過2027財年《國防授權法案》，進一步增加美國國防預算，根據其第219條，美國將發起一個“美以國防技術合作倡議”，並在國防部內設一個機構，負責擴大美以之間的國防技術合作。美國前議員丹尼斯·庫西尼奇接受美國媒體人塔克·卡爾森採訪表示，在軍事行動層面整合以軍和美軍，完全不利於美國的國家安全利益。 庫西尼奇還認為，美國一年之內增加了6000億美元國防預算。且美國80%的可支配預算都用於軍事，這本身就很可怕。而美國本可以把這些錢花在教育、醫療等問題上。如果美以加強軍事整合，以色列不僅將獲得美國軍事支援，還可能會影響美國國防預算的使用。（CCTV國際時訊）"
-    },
-    {
-      "id": "4974775",
-      "time": "2026-07-07 23:56:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "【法意希三國主權債收益率漲約6個基點】週二（7月7日）歐市尾盤，法國10年期國債收益率漲5.8個基點，報3.792%，全天處於上漲狀態；兩年期法債收益率漲4.2個基點，30年期法債收益率漲4.9個基點。義大利10年期國債收益率漲5.9個基點，報3.776%。西班牙10年期國債收益率漲4.8個基點，報3.477%。希臘10年期國債收益率漲5.8個基點，報3.682%。"
     }
   ]
 }
