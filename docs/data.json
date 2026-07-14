@@ -1,7 +1,165 @@
 {
-  "updated": "2026-07-15 00:58:51",
-  "count": 18763,
+  "updated": "2026-07-15 01:02:59",
+  "count": 18767,
   "items": [
+    {
+      "id": "mkt:019f6193-d9da-7aab-8d86-6cb3e8c86e23",
+      "time": "2026-07-15 01:01:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he is willing to explore reform options for the large balance sheet he inherited."
+    },
+    {
+      "id": "mkt:019f6193-ca20-7aab-8d86-62751c31d8c7",
+      "time": "2026-07-15 01:01:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia, US agree joint plan; International Space Station operations planned to end by end-2030】The office of Russian First Deputy Prime Minister Manturov said that after a visit by NASA Administrator Isaacman, Russia and the United States have drawn up a joint plan under which International Space Station operations are planned to conclude at the end of 2030. The sides also discussed emergency mutual assistance for national orbital stations, lunar cooperation projects, and joint experiments in space medicine and biology. Construction on the ISS began in 1998 with an initial 15-year design life that was subsequently extended several times. The Russian segment's core Zvezda service module has experienced persistent leaks since 2019."
+    },
+    {
+      "id": "4988322",
+      "time": "2026-07-15 01:01:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲防務企業集團計劃打造可在太空摧毀導彈的攔截系統。"
+    },
+    {
+      "id": "4988321",
+      "time": "2026-07-15 01:00:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我接手了一份規模龐大的資產負債表，並且對改革持開放態度。"
+    },
+    {
+      "id": "mkt:019f6192-fa3d-7aab-8d86-585577f787e3",
+      "time": "2026-07-15 01:00:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Kevin Warsh, Federal Reserve chair, said he supports more aggressive use of the Fed's balance sheet in times of crisis."
+    },
+    {
+      "id": "mkt:019f6192-bcf9-7aab-8d86-508fb2464dcb",
+      "time": "2026-07-15 01:00:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says U.S. to sign multiple deals with Iraq, extract large volumes of oil】President Trump told reporters ahead of a meeting with Iraqi Prime Minister Ali Zaidi that the U.S. will sign multiple deals with Iraq and extract large volumes of Iraqi oil, citing the country’s oil potential. He said the agreements would create many jobs for both countries and that U.S. companies would be the primary operators of the extraction. He provided no further details."
+    },
+    {
+      "id": "4988320",
+      "time": "2026-07-15 01:00:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在危機時期，我們願意對資產負債表採取相當激進的調控措施。"
+    },
+    {
+      "id": "4988319",
+      "time": "2026-07-15 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.63%，滬銅收漲0.51%，滬鋁收跌0.17%，滬鋅收漲0.53%，滬鉛收跌1.42%，滬鎳收跌0.21%，滬錫收漲1.45%。氧化鋁夜盤收漲1.08%，鋁合金收跌0.11%。不鏽鋼夜盤收漲0.21%。"
+    },
+    {
+      "id": "4988318",
+      "time": "2026-07-15 01:00:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄美製定聯合計劃 國際空間站執行擬於2030年底結束】當地時間14日，俄羅斯第一副總理曼圖羅夫秘書處方面釋出訊息稱，在美國國家航空航天局局長艾薩克曼到訪後，俄美雙方已制定聯合計劃，國際空間站執行擬於2030年底結束。雙方還討論了國家軌道站緊急互助合作、探月合作專案，以及太空醫學和生物學聯合實驗。國際空間站於1998年開始建造，最初設計壽命為15年，後多次延長。俄羅斯艙段核心模組“星辰”號服務艙自2019年起持續存在漏氣問題。"
+    },
+    {
+      "id": "4988317",
+      "time": "2026-07-15 00:59:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部針對美國頭部醫療資料定價服務商Claritev的調查升級，新增多份資訊調取要求。"
+    },
+    {
+      "id": "4988316",
+      "time": "2026-07-15 00:59:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將確保貨幣政策保持獨立性。"
+    },
+    {
+      "id": "mkt:019f6191-a45d-7aab-8d86-489f7d720a85",
+      "time": "2026-07-15 00:59:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he will ensure the Federal Reserve remains independent during his tenure."
+    },
+    {
+      "id": "4988315",
+      "time": "2026-07-15 00:59:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在我任內，美聯儲將保持獨立性。"
+    },
+    {
+      "id": "mkt:019f6190-fdc6-7aab-8d86-4146b7a9e7f0",
+      "time": "2026-07-15 00:58:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Indian government says an Indian national died after an attack off the coast of Oman."
+    },
+    {
+      "id": "mkt:019f6190-df6a-7aab-8d86-3a014a43a279",
+      "time": "2026-07-15 00:58:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair KEVIN WARSH said if he already had a preferred inf metric, he would not have asked the working group to return to first principles to re-examine it."
+    },
+    {
+      "id": "4988314",
+      "time": "2026-07-15 00:58:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步洽談以每股約40歐元的價格收購外賣企業Delivery Hero。"
+    },
     {
       "id": "mkt:019f6190-6b00-7aab-8d86-312ab04ef913",
       "time": "2026-07-15 00:58:02",
@@ -171583,125 +171741,6 @@
         "其他"
       ],
       "text": "北約宣佈與埃森哲簽署數百萬歐元合同，推動建設更靈活、韌性更強的數字化基礎設施。"
-    },
-    {
-      "id": "mkt:019f3d87-fa0b-7aab-8cd3-949804edd5ab",
-      "time": "2026-07-08 01:02:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Britain summoned Iran's chargé d'affaires in London to protest an assault on an Iran International TV journalist."
-    },
-    {
-      "id": "4974816",
-      "time": "2026-07-08 01:02:27",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣580億美元三年期國債，得標利率4.179%（6月9日為4.192%），投標倍數2.60（前次為2.64）。"
-    },
-    {
-      "id": "mkt:019f3d87-cbad-7aab-8cd3-8e7fd43b0687",
-      "time": "2026-07-08 01:02:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "US 3-year Treasury auction to Jul 7: share of awards at the stop-out yield 2.17%, prior 42.92%."
-    },
-    {
-      "id": "mkt:019f3d87-c52f-7aab-8cd3-83add9d04cd1",
-      "time": "2026-07-08 01:02:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US 3-year Treasury auction on July 7: bid-cover ratio 2.60, prior 2.64."
-    },
-    {
-      "id": "mkt:019f3d87-c0d8-7aab-8cd3-7a8511155e61",
-      "time": "2026-07-08 01:02:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "U.S. 3-year Treasury auction on July 7: stop-out yield 4.179%, prior 4.19%."
-    },
-    {
-      "id": "mkt:019f3d87-9c5e-7aab-8cd3-7033407d56fc",
-      "time": "2026-07-08 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction Bid/Cover Ratio (Jul.7) | actual 2.6 | previous 2.64"
-    },
-    {
-      "id": "mkt:019f3d87-9c56-7aab-8cd3-6f029fcf2f95",
-      "time": "2026-07-08 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction High Yield Rate (Jul.7) | actual 4.179% | previous 4.19%"
-    },
-    {
-      "id": "mkt:019f3d87-9c4d-7aab-8cd3-66ea6aed1ffa",
-      "time": "2026-07-08 01:02:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Year Note Auction Accepted at High (Jul.7) | actual 2.17% | previous 42.92%"
-    },
-    {
-      "id": "4974815",
-      "time": "2026-07-08 01:00:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交部發表宣告：就伊朗國際電視臺記者遭襲擊一事召見伊朗臨時代辦。"
-    },
-    {
-      "id": "4974814",
-      "time": "2026-07-08 01:00:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：土耳其總統埃爾多安試圖摧毀以色列。哈馬斯終將被解除武裝，無論以何種方式。美國向土耳其出售“F-35”戰鬥機將“破壞中東的力量平衡”。土耳其不是一個支援地區和平與穩定的國家。"
-    },
-    {
-      "id": "mkt:019f3d85-d43e-7aab-8cd3-59f217240459",
-      "time": "2026-07-08 01:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Turkey is not a country that supports regional peace and stability."
-    },
-    {
-      "id": "4974813",
-      "time": "2026-07-08 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.18%，滬銅收漲0.14%，滬鋁收漲0.59%，滬鋅收跌0.02%，滬鉛收漲0.88%，滬鎳收跌0.16%，滬錫收漲0.51%。氧化鋁夜盤收跌0.18%，鋁合金收漲0.85%。不鏽鋼夜盤收跌0.27%。"
     }
   ]
 }

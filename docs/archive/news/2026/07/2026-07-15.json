@@ -1,7 +1,165 @@
 {
   "date": "2026-07-15",
-  "count": 200,
+  "count": 216,
   "items": [
+    {
+      "id": "mkt:019f6193-d9da-7aab-8d86-6cb3e8c86e23",
+      "time": "2026-07-15 01:01:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he is willing to explore reform options for the large balance sheet he inherited."
+    },
+    {
+      "id": "mkt:019f6193-ca20-7aab-8d86-62751c31d8c7",
+      "time": "2026-07-15 01:01:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Russia, US agree joint plan; International Space Station operations planned to end by end-2030】The office of Russian First Deputy Prime Minister Manturov said that after a visit by NASA Administrator Isaacman, Russia and the United States have drawn up a joint plan under which International Space Station operations are planned to conclude at the end of 2030. The sides also discussed emergency mutual assistance for national orbital stations, lunar cooperation projects, and joint experiments in space medicine and biology. Construction on the ISS began in 1998 with an initial 15-year design life that was subsequently extended several times. The Russian segment's core Zvezda service module has experienced persistent leaks since 2019."
+    },
+    {
+      "id": "4988322",
+      "time": "2026-07-15 01:01:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲防務企業集團計劃打造可在太空摧毀導彈的攔截系統。"
+    },
+    {
+      "id": "4988321",
+      "time": "2026-07-15 01:00:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我接手了一份規模龐大的資產負債表，並且對改革持開放態度。"
+    },
+    {
+      "id": "mkt:019f6192-fa3d-7aab-8d86-585577f787e3",
+      "time": "2026-07-15 01:00:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Kevin Warsh, Federal Reserve chair, said he supports more aggressive use of the Fed's balance sheet in times of crisis."
+    },
+    {
+      "id": "mkt:019f6192-bcf9-7aab-8d86-508fb2464dcb",
+      "time": "2026-07-15 01:00:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Trump says U.S. to sign multiple deals with Iraq, extract large volumes of oil】President Trump told reporters ahead of a meeting with Iraqi Prime Minister Ali Zaidi that the U.S. will sign multiple deals with Iraq and extract large volumes of Iraqi oil, citing the country’s oil potential. He said the agreements would create many jobs for both countries and that U.S. companies would be the primary operators of the extraction. He provided no further details."
+    },
+    {
+      "id": "4988320",
+      "time": "2026-07-15 01:00:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在危機時期，我們願意對資產負債表採取相當激進的調控措施。"
+    },
+    {
+      "id": "4988319",
+      "time": "2026-07-15 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.63%，滬銅收漲0.51%，滬鋁收跌0.17%，滬鋅收漲0.53%，滬鉛收跌1.42%，滬鎳收跌0.21%，滬錫收漲1.45%。氧化鋁夜盤收漲1.08%，鋁合金收跌0.11%。不鏽鋼夜盤收漲0.21%。"
+    },
+    {
+      "id": "4988318",
+      "time": "2026-07-15 01:00:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄美製定聯合計劃 國際空間站執行擬於2030年底結束】當地時間14日，俄羅斯第一副總理曼圖羅夫秘書處方面釋出訊息稱，在美國國家航空航天局局長艾薩克曼到訪後，俄美雙方已制定聯合計劃，國際空間站執行擬於2030年底結束。雙方還討論了國家軌道站緊急互助合作、探月合作專案，以及太空醫學和生物學聯合實驗。國際空間站於1998年開始建造，最初設計壽命為15年，後多次延長。俄羅斯艙段核心模組“星辰”號服務艙自2019年起持續存在漏氣問題。"
+    },
+    {
+      "id": "4988317",
+      "time": "2026-07-15 00:59:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部針對美國頭部醫療資料定價服務商Claritev的調查升級，新增多份資訊調取要求。"
+    },
+    {
+      "id": "mkt:019f6191-a45d-7aab-8d86-489f7d720a85",
+      "time": "2026-07-15 00:59:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he will ensure the Federal Reserve remains independent during his tenure."
+    },
+    {
+      "id": "4988316",
+      "time": "2026-07-15 00:59:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將確保貨幣政策保持獨立性。"
+    },
+    {
+      "id": "4988315",
+      "time": "2026-07-15 00:59:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：在我任內，美聯儲將保持獨立性。"
+    },
+    {
+      "id": "mkt:019f6190-fdc6-7aab-8d86-4146b7a9e7f0",
+      "time": "2026-07-15 00:58:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Indian government says an Indian national died after an attack off the coast of Oman."
+    },
+    {
+      "id": "mkt:019f6190-df6a-7aab-8d86-3a014a43a279",
+      "time": "2026-07-15 00:58:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair KEVIN WARSH said if he already had a preferred inf metric, he would not have asked the working group to return to first principles to re-examine it."
+    },
+    {
+      "id": "4988314",
+      "time": "2026-07-15 00:58:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "優步洽談以每股約40歐元的價格收購外賣企業Delivery Hero。"
+    },
     {
       "id": "mkt:019f6190-6b00-7aab-8d86-312ab04ef913",
       "time": "2026-07-15 00:58:02",
