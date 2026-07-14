@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-15 01:58:42",
-  "count": 18803,
+  "updated": "2026-07-15 02:02:40",
+  "count": 18811,
   "items": [
+    {
+      "id": "4988389",
+      "time": "2026-07-15 02:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯莫斯科市長索比亞寧表示，又有四架飛往莫斯科的無人機被擊落。"
+    },
+    {
+      "id": "4988388",
+      "time": "2026-07-15 02:00:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "“聯盟MS-29”號飛船搭載俄美乘組已與國際空間站對接。"
+    },
+    {
+      "id": "4988387",
+      "time": "2026-07-15 02:00:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高國家安全委員會副秘書巴加埃：伊朗絕不能對敵人做出任何妥協，為哈梅內伊之死實施報復仍是民眾最主要的訴求。"
+    },
+    {
+      "id": "4988386",
+      "time": "2026-07-15 02:00:00",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國國務院官員：以色列-黎巴嫩問題羅馬會談富有成效，會談將於週三繼續舉行。"
+    },
+    {
+      "id": "mkt:019f61c8-bf7e-7aab-8d87-4601475d6d4b",
+      "time": "2026-07-15 01:59:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "GOOLSBEE says Fed policy working group will be led by senior officials."
+    },
+    {
+      "id": "mkt:019f61c8-be03-7aab-8d87-3f3e6293486e",
+      "time": "2026-07-15 01:59:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Goolsbee said he will closely monitor the special working group's final conclusions."
+    },
+    {
+      "id": "4988385",
+      "time": "2026-07-15 01:59:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：沃什主席迄今為止一直保持冷靜、處事嚴謹。"
+    },
+    {
+      "id": "4988384",
+      "time": "2026-07-15 01:58:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：各特別工作組最終將得出何種結論，值得關注。"
+    },
+    {
+      "id": "mkt:019f61c8-0a63-7aab-8d87-3298cc8bc830",
+      "time": "2026-07-15 01:58:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Goolsbee said Walsh previously voiced differing views on the dot plot and the Fed's balance sheet, and that re-examining those issues is healthy."
+    },
+    {
+      "id": "4988383",
+      "time": "2026-07-15 01:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思會見伊拉克總理阿里·扎伊迪。"
+    },
+    {
+      "id": "4988382",
+      "time": "2026-07-15 01:58:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲古爾斯比：沃什對點陣圖和資產負債表持不同觀點，重新審視是有益的。"
+    },
     {
       "id": "mkt:019f61c7-1f65-7aab-8d87-2dfb0c4cb1ab",
       "time": "2026-07-15 01:57:47",
@@ -172059,30 +172158,6 @@
         "MKT News"
       ],
       "text": "Fitch says credit fundamentals of Peru's major banks are stable."
-    },
-    {
-      "id": "4974834",
-      "time": "2026-07-08 02:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "Meta：Muse Image已於今日上線美國地區的Meta AI應用、Meta AI網站及Instagram Stories，並已在部分國家和地區的WhatsApp推出，Facebook也將很快支援該功能。"
-    },
-    {
-      "id": "mkt:019f3dbc-19cf-7aab-8cd4-9ac54338eaa0",
-      "time": "2026-07-08 01:59:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera quoted Lebanese foreign ministry sources saying Israel has threatened to file suit in US courts accusing Lebanon of harboring terrorist groups."
-    },
-    {
-      "id": "4974833",
-      "time": "2026-07-08 01:58:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級表示秘魯主要銀行展現出穩健的信用狀況。"
     }
   ]
 }
