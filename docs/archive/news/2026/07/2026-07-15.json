@@ -1,7 +1,27 @@
 {
   "date": "2026-07-15",
-  "count": 434,
+  "count": 436,
   "items": [
+    {
+      "id": "mkt:019f622b-825c-7aab-8d88-ac8488b1f9a0",
+      "time": "2026-07-15 03:47:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state media cited the Bandar Abbas city government saying a US military strike hit areas around Bandar Abbas, a southern port city."
+    },
+    {
+      "id": "4988466",
+      "time": "2026-07-15 03:47:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美軍彈藥擊中伊朗阿巴斯港周邊區域。"
+    },
     {
       "id": "mkt:019f6228-dfbb-7aab-8d88-a2d1e1949d1e",
       "time": "2026-07-15 03:44:33",
