@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-15 04:12:31",
+  "updated": "2026-07-15 04:16:24",
   "count": 18836,
   "items": [
+    {
+      "id": "te:markets:566902",
+      "time": "2026-07-15 04:13:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Rally on Softer Inflation — US stock indices closed higher on Tuesday after softer inflation data all but ruled out a Fed rate hike this month. The S&P 500 gained 0.4%, the Nasdaq rose 1.1%, and the Dow Jones inched up. Both headline and core inflation eased, offsetting the impact of another rally in energy prices as the US and Iran continued exchanging strikes. Chipmakers rebounded from Monday's selloff, with Nvidia up 4.1%, Broadcom adding 1.3%, and Micron advancing 4.9%. Most major banks also recovered from early losses. JPMorgan added 2.5% after posting its strongest quarterly profit on record, while Bank of America advanced 1.8% and Citi lost 5.3% after releasing their results. Among capital markets firms, Goldman Sachs surged 9% after beating earnings estimates. On the downside, IBM tumbled 25.2% after missing expectations and warning of weaker client spending, as companies prioritized investments in chips and memory this quarter."
+    },
+    {
+      "id": "mkt:019f6243-9cc1-7aab-8d89-4409e6c1003d",
+      "time": "2026-07-15 04:13:45",
+      "tags": [
+        "MKT News",
+        "IBM.O",
+        "Impact bearish",
+        "LCID.O"
+      ],
+      "text": "IBM (IBM.N) shares closed down 25%; Lucid Group (LCID.O) fell 16%."
+    },
+    {
+      "id": "4988488",
+      "time": "2026-07-15 04:12:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列總理內塔尼亞胡預計下週訪問華盛頓，行程或有變動。"
+    },
+    {
+      "id": "4988487",
+      "time": "2026-07-15 04:12:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國電網運營巨頭PJM Interconnection LLC在AI繁榮期沒能實現關鍵的電力供應目標。該公司與可靠的電力需求目標之間存在6.8 GW缺口。"
+    },
     {
       "id": "4988486",
       "time": "2026-07-15 04:11:08",
@@ -172374,39 +172414,6 @@
         "市場"
       ],
       "text": "科蒂集團股價上漲8%，將因提前終止協議獲得約4億美元補償。"
-    },
-    {
-      "id": "4974926",
-      "time": "2026-07-08 04:15:24",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "開雲集團：古馳與歐萊雅提前一年達成一份為期50年的美妝獨家授權協議。"
-    },
-    {
-      "id": "4974925",
-      "time": "2026-07-08 04:14:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月08日04時01分在四川宜賓市高縣（北緯28.53度，東經104.67度）發生3.8級地震，震源深度6千米。"
-    },
-    {
-      "id": "4974924",
-      "time": "2026-07-08 04:13:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖顧問稱，美國將把與伊朗的談判引向失敗】伊朗最高領袖顧問穆赫辛・雷扎伊表示，很明顯，美國將把與伊朗的談判引向失敗，美國正試圖在霍爾木茲海峽為其船隻開闢一條替代航道。"
-    },
-    {
-      "id": "mkt:019f3e36-a5a4-7aab-8cd6-096ca05e7e42",
-      "time": "2026-07-08 04:13:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syrian presidential adviser said today's incident in Damascus was not unexpected. The explosion did not affect the security perimeter around Macron's motorcade."
     }
   ]
 }
