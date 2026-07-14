@@ -1,7 +1,26 @@
 {
   "date": "2026-07-15",
-  "count": 325,
+  "count": 327,
   "items": [
+    {
+      "id": "te:markets:566898",
+      "time": "2026-07-15 02:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Soars by 5.15% — Top commodity gainers are Methanol (5.15%), Natural Gas UK (4.91%), Heating Oil (4.74%), Brent Crude Oil (1.18%) and Crude Oil WTI (0.90%)."
+    },
+    {
+      "id": "4988401",
+      "time": "2026-07-15 02:12:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼：化學油輪“斯托爾特鎂號”在東佐法爾省（南沙爾基亞）附近海域遇襲，襲擊導致船舶機艙起火。"
+    },
     {
       "id": "mkt:019f61d4-1790-7aab-8d87-64ddedf013b7",
       "time": "2026-07-15 02:11:57",

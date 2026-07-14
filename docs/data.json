@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-15 02:12:32",
+  "updated": "2026-07-15 02:16:28",
   "count": 18821,
   "items": [
+    {
+      "id": "te:markets:566898",
+      "time": "2026-07-15 02:15:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Soars by 5.15% — Top commodity gainers are Methanol (5.15%), Natural Gas UK (4.91%), Heating Oil (4.74%), Brent Crude Oil (1.18%) and Crude Oil WTI (0.90%)."
+    },
+    {
+      "id": "4988401",
+      "time": "2026-07-15 02:12:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼：化學油輪“斯托爾特鎂號”在東佐法爾省（南沙爾基亞）附近海域遇襲，襲擊導致船舶機艙起火。"
+    },
     {
       "id": "mkt:019f61d4-1790-7aab-8d87-64ddedf013b7",
       "time": "2026-07-15 02:11:57",
@@ -172226,25 +172245,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Drops by 1.71% — Top commodity losers are Silver (-1.71%) and Gold (-0.55%). Gains are led by Platinum (1.21%)."
-    },
-    {
-      "id": "te:markets:564969",
-      "time": "2026-07-08 02:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 7.26% — Top commodity gainers are Natural Gas EU (7.26%), Natural Gas UK (6.53%), Germany Natural Gas THE (5.17%), Brent Crude Oil (2.92%) and Crude Oil WTI (2.76%). Biggest loser is Gasoline (-1.80%)."
-    },
-    {
-      "id": "mkt:019f3dc8-912d-7aab-8cd4-be32a12d5c30",
-      "time": "2026-07-08 02:13:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Congo: confirmed Ebola cases have risen to 1,624, including 521 deaths."
     }
   ]
 }
