@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-15 05:16:52",
-  "count": 18828,
+  "updated": "2026-07-15 05:20:47",
+  "count": 18821,
   "items": [
+    {
+      "id": "mkt:019f627f-e4c5-7aab-8d8a-7b57d0f2d02c",
+      "time": "2026-07-15 05:19:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The U.S. House voted to approve legislation to make daylight saving time permanent and has sent the bill to the Senate for consideration."
+    },
+    {
+      "id": "4988517",
+      "time": "2026-07-15 05:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院投票透過永久實行夏令時法案，該法案現已移交參議院審議。"
+    },
+    {
+      "id": "4988516",
+      "time": "2026-07-15 05:18:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 伊朗亨格姆島遭投射物擊中。"
+    },
+    {
+      "id": "4988515",
+      "time": "2026-07-15 05:16:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：布什爾核電站周邊防空系統已啟動。"
+    },
     {
       "id": "mkt:019f627c-e65d-7aab-8d8a-71f9b0c54650",
       "time": "2026-07-15 05:16:20",
@@ -172270,118 +172303,6 @@
         "國際"
       ],
       "text": "伊朗媒體稱，六枚炮彈擊中伊朗南部錫裡克的塔赫魯伊碼頭區域。"
-    },
-    {
-      "id": "mkt:019f3e74-26b0-7aab-8cd7-23c5104949a6",
-      "time": "2026-07-08 05:20:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【CENTCOM says U.S. forces have begun strikes on Iran】On July 7, CENTCOM said U.S. Central Command forces have begun a series of strikes against Iran to respond to Iranian targeting and attacks on civilian‑crewed commercial vessels in international waterways. CENTCOM said the strikes were in response to attacks on three merchant ships transiting the Strait of Hormuz and described Iran’s actions as unjustified, dangerous and a clear violation of a ceasefire agreement."
-    },
-    {
-      "id": "4974977",
-      "time": "2026-07-08 05:20:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國宣佈對伊朗發動襲擊後，美元走勢基本不變。"
-    },
-    {
-      "id": "4974976",
-      "time": "2026-07-08 05:20:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍稱開始對伊朗發動系列打擊】當地時間7月7日，美國中央司令部表示，美軍中央司令部部隊已開始對伊朗發動一系列強力打擊，以回應伊朗針對國際水道中由平民船員操作的商業航運實施瞄準和襲擊。美國中央司令部稱，美方打擊是對伊朗襲擊三艘正在透過霍爾木茲海峽的商船作出的回應，並表示伊朗的侵略行為“沒有正當理由、危險”，且“明顯違反停火協議”。"
-    },
-    {
-      "id": "mkt:019f3e73-3f87-7aab-8cd7-1ec92073c6bc",
-      "time": "2026-07-08 05:19:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said U.S. strikes were carried out in response to Iranian attacks on three commercial vessels transiting the Strait of Hormuz."
-    },
-    {
-      "id": "4974975",
-      "time": "2026-07-08 05:18:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "根據美國證券交易委員會（SEC）的檔案顯示，亞馬遜已提交發行規模最高為7.5億美元、2029年到期浮動利率票據的申請。"
-    },
-    {
-      "id": "mkt:019f3e71-c89d-7aab-8cd7-17b73e3fbb2e",
-      "time": "2026-07-08 05:17:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian state media reported seven explosions heard in Sirik in southern Iran."
-    },
-    {
-      "id": "4974974",
-      "time": "2026-07-08 05:17:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國與北約將啟動基礎採購協議相關談判。"
-    },
-    {
-      "id": "mkt:019f3e71-5f14-7aab-8cd7-0a6f8a2aef93",
-      "time": "2026-07-08 05:17:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said strikes on Iran will impose costs on its actions targeting and attacking commercial shipping."
-    },
-    {
-      "id": "mkt:019f3e71-267e-7aab-8cd7-01ff4365eedd",
-      "time": "2026-07-08 05:17:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "CENTCOM said Iran's aggressive actions are unjustified, dangerous and clearly violate the ceasefire agreement."
-    },
-    {
-      "id": "4974973",
-      "time": "2026-07-08 05:17:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：伊朗的公然侵略毫無正當理由、極度危險，且明顯違反停火協議。"
-    },
-    {
-      "id": "4974972",
-      "time": "2026-07-08 05:16:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家媒體稱，伊朗南部錫裡克地區聽到七次爆炸聲。"
     }
   ]
 }

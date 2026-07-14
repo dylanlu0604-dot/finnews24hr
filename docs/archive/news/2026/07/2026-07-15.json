@@ -1,7 +1,40 @@
 {
   "date": "2026-07-15",
-  "count": 548,
+  "count": 552,
   "items": [
+    {
+      "id": "mkt:019f627f-e4c5-7aab-8d8a-7b57d0f2d02c",
+      "time": "2026-07-15 05:19:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The U.S. House voted to approve legislation to make daylight saving time permanent and has sent the bill to the Senate for consideration."
+    },
+    {
+      "id": "4988517",
+      "time": "2026-07-15 05:19:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院投票透過永久實行夏令時法案，該法案現已移交參議院審議。"
+    },
+    {
+      "id": "4988516",
+      "time": "2026-07-15 05:18:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 伊朗亨格姆島遭投射物擊中。"
+    },
+    {
+      "id": "4988515",
+      "time": "2026-07-15 05:16:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：布什爾核電站周邊防空系統已啟動。"
+    },
     {
       "id": "mkt:019f627c-e65d-7aab-8d8a-71f9b0c54650",
       "time": "2026-07-15 05:16:20",
