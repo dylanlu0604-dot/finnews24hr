@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-15 07:53:30",
-  "count": 18758,
+  "updated": "2026-07-15 07:57:28",
+  "count": 18759,
   "items": [
+    {
+      "id": "4988652",
+      "time": "2026-07-15 07:56:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星擬於韓國器興新建DRAM工廠】韓國經濟日報援引業內匿名人士訊息稱，三星電子計劃在韓國器興新建一座DRAM工廠，晶圓月產能約10萬片。該專案預計投資規模達數十萬億韓元。這片地塊原本規劃建設研發中心；市場解讀此舉是為應對人工智慧基礎設施投資熱潮下持續攀升的儲存晶片需求。專案最快或於第三季度動工。"
+    },
+    {
+      "id": "mkt:019f630f-4f65-7aab-8d8b-f7e5ba41e84a",
+      "time": "2026-07-15 07:56:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "WDC.O"
+      ],
+      "text": "【CoreWeave explores derivatives to hedge storage-chip price risk】CoreWeave (CRWV.O) is exploring financial derivatives to hedge against potential declines in memory and storage-chip prices, people familiar with the matter said. The move underscores how AI-driven cloud demand ties providers to a volatile chip market: cloud operators including CoreWeave have signed long-term supply deals with Micron and SanDisk that often include price-floor protections for suppliers. Those floors shield chipmakers in a downturn but expose cloud buyers to purchasing above-market inventory. CoreWeave executives have discussed put options and other derivatives; talks are at an early stage and no hedges have been executed."
+    },
+    {
+      "id": "4988651",
+      "time": "2026-07-15 07:55:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大股東定增參與度持續升溫 2025年大股東認購金額合計超1675億元】根據萬得資料統計，近年來，上市公司大股東參與定增的積極性有明顯提升，主要體現在參與案例數量、認購資金規模兩個方面。從大股東認購的定增金額（大股東認購股份比例×現金募資金額）來測算，2025年，大股東認購金額合計超過1675億元，認購金額佔現金募資總額比值接近48%，前者創過去5年新高，後者佔比創過去5年次新高。認購金額的大幅增長與上市公司定增募資金額大幅提升有密切關係，剔除配套募資後，2025年單家公司現金類定增平均募資規模超22億元，為2024年均值3倍以上。記者梳理2021年至2025年大股東全額或部分認購的定增案例資料顯示，募資投向主要分為補充流動資金、專案融資、配套融資、融資收購其他資產等型別。其中，補充流動資金、專案融資、融資收購其他資產為三大核心投向。"
+    },
+    {
+      "id": "4988650",
+      "time": "2026-07-15 07:54:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗襲擊霍爾木茲海峽航運之際油價上漲】在伊朗襲擊霍爾木茲海峽航運之際，亞洲早盤油價上漲，該海峽是一條關鍵水道，全球五分之一的石油都要經過這裡運輸。伊朗隔夜對三艘原油超級油輪的襲擊，正導致該海峽的“穿梭執行“油輪作業陷入停頓。密集的導彈和無人機擊中了專門進出波斯灣進行短途航行的船隻，這種航行被稱為“穿梭執行“。澳新銀行研究部分析師在一份研究報告中說，最近對船隻的襲擊使得透過該海峽的航行變得越來越危險。近月西得州中質油期貨上漲0.7%，報每桶79.91美元。"
+    },
+    {
+      "id": "mkt:019f630d-6635-7aab-8d8b-ead9c8c4baaf",
+      "time": "2026-07-15 07:54:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Iranian officials said a U.S. artillery strike of three shells hit a bottled-water plant, damaging equipment but causing no reported casualties."
+    },
+    {
+      "id": "4988649",
+      "time": "2026-07-15 07:53:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【經濟日報金觀平：發展服務消費正當其時】國務院近日批覆同意的《擴大消費“十五五”規劃》，對“十五五”時期促進服務消費提質惠民作出部署，提出實施服務消費提質惠民行動，圍繞重點領域開展服務消費促進活動。服務消費一頭連著經濟發展，一頭連著百姓民生。擴大服務消費有利於進一步激發國內市場消費需求，充分發揮規模市場優勢，對於促進經濟高質量發展意義重大。下一步，需進一步聚焦服務消費新增長點，完善服務業政策支援體系，從放寬市場準入、清理不合理限制措施、培育優質品牌和經營主體等方面繼續推出支援舉措，推進生產性服務業向專業化和價值鏈高階延伸，促進生活性服務業高品質、多樣化、便利化發展，為消費市場注入更多活力。"
+    },
     {
       "id": "4988648",
       "time": "2026-07-15 07:52:56",
@@ -171678,55 +171733,6 @@
         "國際"
       ],
       "text": "【日本央行淺田統一郎：需看到需求推升通脹才會支援加息】日本央行審議委員淺田統一郎表示，他必須看到需求推升通脹的跡象，然後才會支援加息，但他同時指出成本上升傳導速度“相對較快”，表明他未來可能會投票支援加息。淺田統一郎在加入政策委員會後首次接受採訪時發表了上述言論，這凸顯出政治層面要求維持寬鬆政策的壓力與企業將成本上漲轉嫁給消費者所造成的通脹之間的拉扯日益加劇。日本央行6月將利率上調至31年高位1%，當時淺田統一郎是這一決定的唯一反對者。淺田表示，他之所以投下反對票，是因為中東局勢仍存在不確定性，可能對產出和就業造成衝擊。淺田統一郎是鴿派首相高市早苗任命的審議委員。他週一向媒體表示，支援未來加息的關鍵前提是日本具備可持續實現央行2%通脹目標的條件。他說，“此外，我認為有必要確認這一目標是在工資上漲和需求擴張等內生性經濟力量支撐下實現的，”並補充稱這些力量目前還不足以成為加息的理由。當被問及他是否支援日本央行的加息立場時，淺田表示：“我並非一貫反對加息。雖然這次我投了反對票，但我打算根據每個時點的實際情況評估來做決定。”淺田還表示，他認為日本的中性利率“相當低”，但很難明確指出確切數值。“中性利率本身不應成為目標。政策應始終以物價穩定為目標。”"
-    },
-    {
-      "id": "mkt:019f3f02-fcd0-7aab-8cd9-4564fc6309af",
-      "time": "2026-07-08 07:56:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "FDX.O",
-        "Impact bullish",
-        "DHT.O",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "【China International Capital Co: Favor express delivery and oil shipping; monitor airline fuel-cost improvement】China International Capital Co says China’s transportation sector fell 16.5% in 1H26, underperforming the broader market by 24.0ppt. Subsector divergence was marked: oil shipping outperformed by 30.6ppt, airlines underperformed by 39.2ppt after Q2 oil-price strength. Dividend-style road and rail lagged by 24.5ppt, ports by 20.1ppt; express logistics underperformed by 12.5ppt. For 2H26 the research note favors express delivery on signs of reduced internal competition and oil shipping for freight-rate elasticity. It flags airline demand recovery as conditional on lower jet-fuel/oil costs. Non-express logistics require selective stock picking; dividend-oriented segments will be sensitive to overall market style."
-    },
-    {
-      "id": "4975153",
-      "time": "2026-07-08 07:56:13",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【法國財長：政府下修經濟增長預測，2026年減赤目標面臨風險】法國財政部長 萊斯庫爾（Roland Lescure）週二表示，隨著經濟增長前景惡化，法國今年可能無法實現削減財政赤字的目標，或需採取進一步的節支措施。在向議員提交的公共財政年中報告中，萊斯庫爾表示，鑑於今年開局疲軟以及伊朗戰爭的影響，他已將政府經濟增長預期從0.9%下調至0.7%。經濟增長放緩正拖累法國的稅收收入，與此同時，政府不得不針對受能源成本上漲影響的行業提供定向支援。“顯然，我們將公共赤字控制在（國內生產總值）5%的目標現在很難實現。我們將盡一切努力儘可能接近這一目標，”萊斯庫爾在與議員會晤後對記者表示。"
-    },
-    {
-      "id": "4975152",
-      "time": "2026-07-08 07:55:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【暴雨與強對流雙預警齊發 近日南北方強對流為何高頻出現？】近日，強對流天氣進入高發期，短時強降雨、雷暴大風等強對流天氣頻發，北京已連續5天釋出雷電預警，湖北區域性地區還出現龍捲風。為什麼會出現南北方強對流天氣多發的情況呢？中國氣象局氣象分析師解釋說，南方主要受“美莎克”殘餘低渦疊加季風氣流影響，水汽充沛，對流發展條件有利；北方則受冷渦系統控制，冷渦持續盤旋並不斷輸送冷空氣，配合副熱帶高壓北側充足水汽輸送，冷暖空氣劇烈交匯，極易形成混合型強對流天氣。特別是冷渦底部區域，易出現“局地突發式對流”，常呈現出“前一刻晴空萬里，轉瞬間便狂風驟雨、天色昏暗”的情形。（央視）"
-    },
-    {
-      "id": "4975151",
-      "time": "2026-07-08 07:55:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "智利參議院透過一項法案，批准新增 62 億美元債務額度。"
-    },
-    {
-      "id": "4975150",
-      "time": "2026-07-08 07:54:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅：爭分奪秒搜救失聯人員，最大限度減少人員傷亡】7日6時56分許，甘肅省隴南市宕昌縣南河鎮任藏村岷江林業總場發生一起山體滑坡。災害發生後，甘肅省委書記、省人大常委會主任胡昌升，省委副書記、省長任振鶴第一時間趕到現場指揮救援，強調要堅持人民至上、生命至上，爭分奪秒搜救失聯人員。隨後，胡昌升、任振鶴來到宕昌縣人民醫院看望受傷群眾，要求不惜一切代價救治受傷人員，“一人一策”做好救治，最大限度減少人員傷亡。（甘肅日報）"
     }
   ]
 }

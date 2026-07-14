@@ -1,7 +1,62 @@
 {
   "date": "2026-07-15",
-  "count": 739,
+  "count": 745,
   "items": [
+    {
+      "id": "4988652",
+      "time": "2026-07-15 07:56:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星擬於韓國器興新建DRAM工廠】韓國經濟日報援引業內匿名人士訊息稱，三星電子計劃在韓國器興新建一座DRAM工廠，晶圓月產能約10萬片。該專案預計投資規模達數十萬億韓元。這片地塊原本規劃建設研發中心；市場解讀此舉是為應對人工智慧基礎設施投資熱潮下持續攀升的儲存晶片需求。專案最快或於第三季度動工。"
+    },
+    {
+      "id": "mkt:019f630f-4f65-7aab-8d8b-f7e5ba41e84a",
+      "time": "2026-07-15 07:56:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "WDC.O"
+      ],
+      "text": "【CoreWeave explores derivatives to hedge storage-chip price risk】CoreWeave (CRWV.O) is exploring financial derivatives to hedge against potential declines in memory and storage-chip prices, people familiar with the matter said. The move underscores how AI-driven cloud demand ties providers to a volatile chip market: cloud operators including CoreWeave have signed long-term supply deals with Micron and SanDisk that often include price-floor protections for suppliers. Those floors shield chipmakers in a downturn but expose cloud buyers to purchasing above-market inventory. CoreWeave executives have discussed put options and other derivatives; talks are at an early stage and no hedges have been executed."
+    },
+    {
+      "id": "4988651",
+      "time": "2026-07-15 07:55:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大股東定增參與度持續升溫 2025年大股東認購金額合計超1675億元】根據萬得資料統計，近年來，上市公司大股東參與定增的積極性有明顯提升，主要體現在參與案例數量、認購資金規模兩個方面。從大股東認購的定增金額（大股東認購股份比例×現金募資金額）來測算，2025年，大股東認購金額合計超過1675億元，認購金額佔現金募資總額比值接近48%，前者創過去5年新高，後者佔比創過去5年次新高。認購金額的大幅增長與上市公司定增募資金額大幅提升有密切關係，剔除配套募資後，2025年單家公司現金類定增平均募資規模超22億元，為2024年均值3倍以上。記者梳理2021年至2025年大股東全額或部分認購的定增案例資料顯示，募資投向主要分為補充流動資金、專案融資、配套融資、融資收購其他資產等型別。其中，補充流動資金、專案融資、融資收購其他資產為三大核心投向。"
+    },
+    {
+      "id": "4988650",
+      "time": "2026-07-15 07:54:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【伊朗襲擊霍爾木茲海峽航運之際油價上漲】在伊朗襲擊霍爾木茲海峽航運之際，亞洲早盤油價上漲，該海峽是一條關鍵水道，全球五分之一的石油都要經過這裡運輸。伊朗隔夜對三艘原油超級油輪的襲擊，正導致該海峽的“穿梭執行“油輪作業陷入停頓。密集的導彈和無人機擊中了專門進出波斯灣進行短途航行的船隻，這種航行被稱為“穿梭執行“。澳新銀行研究部分析師在一份研究報告中說，最近對船隻的襲擊使得透過該海峽的航行變得越來越危險。近月西得州中質油期貨上漲0.7%，報每桶79.91美元。"
+    },
+    {
+      "id": "mkt:019f630d-6635-7aab-8d8b-ead9c8c4baaf",
+      "time": "2026-07-15 07:54:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Jazeera reported Iranian officials said a U.S. artillery strike of three shells hit a bottled-water plant, damaging equipment but causing no reported casualties."
+    },
+    {
+      "id": "4988649",
+      "time": "2026-07-15 07:53:48",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【經濟日報金觀平：發展服務消費正當其時】國務院近日批覆同意的《擴大消費“十五五”規劃》，對“十五五”時期促進服務消費提質惠民作出部署，提出實施服務消費提質惠民行動，圍繞重點領域開展服務消費促進活動。服務消費一頭連著經濟發展，一頭連著百姓民生。擴大服務消費有利於進一步激發國內市場消費需求，充分發揮規模市場優勢，對於促進經濟高質量發展意義重大。下一步，需進一步聚焦服務消費新增長點，完善服務業政策支援體系，從放寬市場準入、清理不合理限制措施、培育優質品牌和經營主體等方面繼續推出支援舉措，推進生產性服務業向專業化和價值鏈高階延伸，促進生活性服務業高品質、多樣化、便利化發展，為消費市場注入更多活力。"
+    },
     {
       "id": "4988648",
       "time": "2026-07-15 07:52:56",
