@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-16 01:32:01",
-  "count": 18650,
+  "updated": "2026-07-16 01:35:58",
+  "count": 18653,
   "items": [
+    {
+      "id": "mkt:019f66d9-202a-7aab-8dad-81b3e1c2a61a",
+      "time": "2026-07-16 01:35:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US media: ASML plans EUV price hike; TSMC objects】The Information, citing people familiar with the matter, reports ASML plans to raise prices on its chipmaking equipment, a move TSMC has begun to oppose, potentially creating tension with its largest customer. ASML's advanced EUV tools are essential for leading-edge chips and AI-driven demand is surging; CFO Roger Dassen said productivity gains on the less-advanced low-NA EUV \"naturally provide substantial scope\" for potential price increases. He added that long order cycles mean any pricing change will not affect prices \"tomorrow.\""
+    },
+    {
+      "id": "mkt:019f66d9-1fc6-7aab-8dad-783f52ffa339",
+      "time": "2026-07-16 01:35:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said if Iran cannot benefit from the memorandum of understanding, there is no reason to abide by it."
+    },
+    {
+      "id": "4990558",
+      "time": "2026-07-16 01:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：當伊朗違反承諾時，我們做出回應。"
+    },
+    {
+      "id": "4990557",
+      "time": "2026-07-16 01:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：我方武裝部隊一如既往擁有充分行動自由，以回擊敵方的侵略行徑。"
+    },
+    {
+      "id": "4990556",
+      "time": "2026-07-16 01:35:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：以色列政府內部部分人士希望戰爭無限期持續下去。"
+    },
+    {
+      "id": "mkt:019f66d8-a344-7aab-8dad-7514024b8a85",
+      "time": "2026-07-16 01:35:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Cook said incomplete government survey data means the Fed still has options to \"fill data gaps\"."
+    },
+    {
+      "id": "4990554",
+      "time": "2026-07-16 01:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：若這份諒解備忘錄無法讓伊朗獲益，我們便沒有理由遵守該備忘錄。"
+    },
+    {
+      "id": "4990553",
+      "time": "2026-07-16 01:34:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談及伊朗問題：我們正開展一場微妙的外交博弈。"
+    },
+    {
+      "id": "4990552",
+      "time": "2026-07-16 01:33:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克：美聯儲有若干辦法彌補政府調查回覆率偏低帶來的資料缺口。"
+    },
+    {
+      "id": "4990551",
+      "time": "2026-07-16 01:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮發言人：特朗普將於今日峰會公佈超 100 億美元合作協議。"
+    },
+    {
+      "id": "mkt:019f66d6-b3d3-7aab-8dad-6e537719a46e",
+      "time": "2026-07-16 01:32:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said he had no choice but to rely on Iran's own strength to become stronger."
+    },
+    {
+      "id": "mkt:019f66d6-9d60-7aab-8dad-676ed46615f3",
+      "time": "2026-07-16 01:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Iran's approach to war or negotiations must be grounded in national interests and security, and be pragmatic and long-term."
+    },
+    {
+      "id": "4990548",
+      "time": "2026-07-16 01:32:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：無論採取對抗還是談判策略，我們都必須立足國家利益與國家安全，秉持務實長遠的方針。"
+    },
     {
       "id": "mkt:019f66d5-4fe0-7aab-8dad-5f22a2cd51de",
       "time": "2026-07-16 01:31:23",
@@ -171599,87 +171707,6 @@
         "MKT News"
       ],
       "text": "ERDOGAN said Turkey has the right to buy fighter jets and defense equipment and is negotiating purchases."
-    },
-    {
-      "id": "4977452",
-      "time": "2026-07-09 01:35:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：土耳其有權購買戰機與國防裝備，目前正就此進行談判。"
-    },
-    {
-      "id": "4977451",
-      "time": "2026-07-09 01:35:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克指數轉跌為漲，上漲0.1%。"
-    },
-    {
-      "id": "mkt:019f42cc-80e4-7aab-8cfb-2518618ad5ab",
-      "time": "2026-07-09 01:35:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ERDOGAN said \"Remarks by Israel and Greece opposing Turkey's purchase of F-35s have no place in my world.\""
-    },
-    {
-      "id": "4977450",
-      "time": "2026-07-09 01:35:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：希臘總理米佐塔基斯不應犯下反對土耳其採購噴氣式戰機這一錯誤。"
-    },
-    {
-      "id": "4977449",
-      "time": "2026-07-09 01:34:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：以色列和希臘反對土耳其購買F-35戰機“在我這裡行不通”。"
-    },
-    {
-      "id": "mkt:019f42cb-77a3-7aab-8cfb-180a27102318",
-      "time": "2026-07-09 01:34:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkish President ERDOGAN said NATO must be an alliance of mutually reinforcing allies, not one in which member states are dependent on each other."
-    },
-    {
-      "id": "4977448",
-      "time": "2026-07-09 01:33:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安談及伊朗相關事宜： 我們當然清楚談判程序充滿重重阻礙。 當下關鍵是要保留尋求解決方案的意願。儘管局勢反覆拉鋸，但我相信理性終將佔據上風。 全世界都期盼能給和平一次機會。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202607093798834993",
-      "time": "2026-07-09 01:33:15",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "【瑞士央行行長表示 目前利率為0% 進入負利率的門檻很高】瑞士央行行長表示，目前利率為0%，進入負利率的門檻很高，但如有必要我們會採取行動。目前沒有推出零售型中央銀行數字貨幣的必要；私人債務在國際層面上被廣泛討論，但在瑞士卻是邊緣現象。"
-    },
-    {
-      "id": "4977447",
-      "time": "2026-07-09 01:32:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI CEO奧特曼：GPT-live（新一代語音模型）今日在ChatGPT正式上線。體驗十分奇妙，對話質感非常真實。我以前一直更喜歡打字和AI交流，但現在我覺得這種習慣要改變了。"
-    },
-    {
-      "id": "mkt:019f42c9-ad43-7aab-8cfb-156be4056a49",
-      "time": "2026-07-09 01:32:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SNB chair: private debt is widely discussed internationally but remains a marginal phenomenon in Switzerland."
     }
   ]
 }
