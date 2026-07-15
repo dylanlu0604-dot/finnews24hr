@@ -1,7 +1,203 @@
 {
   "date": "2026-07-15",
-  "count": 3103,
+  "count": 3125,
   "items": [
+    {
+      "id": "mkt:019f65ee-f110-7aab-8da4-825fffaf3174",
+      "time": "2026-07-15 21:19:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Williams said some parts of the balance sheet are moving forward organically and the Fed is simply meeting that demand."
+    },
+    {
+      "id": "4990121",
+      "time": "2026-07-15 21:19:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：資產負債表的部分規模會自然增長，我們只是在滿足相應需求。"
+    },
+    {
+      "id": "4990120",
+      "time": "2026-07-15 21:19:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康達新材：控股公司電子級雙（多）馬來醯亞胺樹脂已形成小批次供貨】康達新材7月15日接受機構調研時表示，公司控股公司康成達創（上海）新材料有限公司主要規劃產品為電子級雙（多）馬來醯亞胺樹脂，可應用於高速覆銅板、BT載板等領域。目前已透過部分客戶的技術驗證，並形成小批次供貨，暫未對營收產生重大影響。"
+    },
+    {
+      "id": "mkt:019f65ee-332d-7aab-8da4-7895e39de42a",
+      "time": "2026-07-15 21:18:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams says we are roughly within the range of ample reserves."
+    },
+    {
+      "id": "4990119",
+      "time": "2026-07-15 21:18:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生高管在電話會議上表示：預計《平價醫療法案》補貼到期不會對醫療科技產品及診療手術的需求產生實質性影響。。"
+    },
+    {
+      "id": "4990118",
+      "time": "2026-07-15 21:18:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：我們目前大致處於充足準備金區間內。"
+    },
+    {
+      "id": "mkt:019f65ed-a831-7aab-8da4-705dddcd6da3",
+      "time": "2026-07-15 21:18:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said the balance sheet has entered a stable operating mode."
+    },
+    {
+      "id": "4990117",
+      "time": "2026-07-15 21:18:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：資產負債表目前處於平穩縮表節奏。"
+    },
+    {
+      "id": "te:markets:567232",
+      "time": "2026-07-15 21:17:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Steadies as US PPI Cools — Gold prices recovered earlier losses to trade slightly higher at $4,070 per ounce on Wednesday, as traders weighed weaker-than-expected US producer price data, which showed the first monthly decline in nearly a year, driven by lower energy prices. The core index also rose just 0.2%, below forecasts. The softer inflation figures followed Tuesday’s softer US inflation report, leading markets to trim bets on Federal Reserve tightening. However, a roughly 49% chance of a September rate hike remains priced in, as oil prices hit a one-month high amid escalating Middle East tensions. The US continued strikes on Iran and reinstated a naval blockade on Iranian ports, while Tehran shut the Strait of Hormuz. On Tuesday, Fed Chair Kevin Warsh reiterated the central bank’s zero tolerance for persistently high inflation."
+    },
+    {
+      "id": "4990116",
+      "time": "2026-07-15 21:16:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：公司將在2027年6月10日資本市場日重新審議長期業績指引。"
+    },
+    {
+      "id": "mkt:019f65ec-3700-7aab-8da4-69e07327c023",
+      "time": "2026-07-15 21:16:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai peak power load hits record at start of peak summer heat】At 15:39 on July 15 Shanghai grid peak load reached 42.216 million kW (42.216 GW), up 57,000 kW from last year’s high of 42.159 million kW, a record. Air-conditioning cooling demand is estimated to account for about 44% of total load. This was the fifth high-temperature day this year and the second time this week the city’s load exceeded 40 million kW."
+    },
+    {
+      "id": "4990115",
+      "time": "2026-07-15 21:16:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【極佳視界聯合清華大學釋出具身世界模型GigaWorld-1】7月15日，極佳視界聯合清華大學正式釋出具身世界模型GigaWorld-1，技術報告、模型、資料與Benchmark同步全面開源。"
+    },
+    {
+      "id": "4990114",
+      "time": "2026-07-15 21:16:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【入伏首日上海用電負荷創歷史新高】7月15日15時39分，上海電網最高用電負荷達4221.6萬千瓦，較去年最高值4215.9萬千瓦增加5.7萬千瓦，創歷史新高。空調降溫負荷集中釋放成為拉動電網負荷攀升的首要推手，據測算空調降溫負荷約佔全市總負荷的44%。這已是今年第5個高溫日，也是本週以來用電負荷第二次突破4000萬千瓦關口。 (上觀新聞)"
+    },
+    {
+      "id": "4990113",
+      "time": "2026-07-15 21:15:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "Spotify：受控子女賬戶功能擴容，部分國家內任意套餐使用者均可為子女建立專屬賬戶。"
+    },
+    {
+      "id": "4990112",
+      "time": "2026-07-15 21:15:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：預計利率最終會隨著通脹而下降。"
+    },
+    {
+      "id": "4990111",
+      "time": "2026-07-15 21:15:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將康卡斯特目標股價從33美元下調至29美元。"
+    },
+    {
+      "id": "4990110",
+      "time": "2026-07-15 21:14:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟與烏克蘭簽署國防工業夥伴關係協議。"
+    },
+    {
+      "id": "mkt:019f65ea-50ef-7aab-8da4-6327fa5f50bf",
+      "time": "2026-07-15 21:14:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said many people still hold low-rate mortgages, and the problem will take several years to resolve."
+    },
+    {
+      "id": "mkt:019f65ea-3433-7aab-8da4-58228d5e8079",
+      "time": "2026-07-15 21:14:35",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【House Republican leaders unveil $95 billion partisan spending framework】House Republican leaders on Wednesday released a $95 billion GOP-led appropriations framework they hope to pass by late summer. Budget Committee chairman Jodey Arrington has scheduled committee markup for Thursday morning. The package would use the reconciliation procedure to bypass a Senate filibuster and earmarks about $73 billion for military and intelligence, $12 billion for farm aid and $10 billion for state election grants and other measures to enforce stricter voter ID laws. The measure faces uncertainty even if it clears committee: committee fiscal hawks demand offsetting cuts to neutralize added deficit impact, but the framework says the likelihood of securing those offsets is low, raising the prospect of unfinanced spending and intra-party dissent."
+    },
+    {
+      "id": "4990108",
+      "time": "2026-07-15 21:14:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德第二季度吸引近2000億美元資金淨流入 總資產首次突破15萬億】貝萊德第二季度吸引客戶淨流入1920億美元，投資者將資金投入交易所交易基金，推動該公司總資產首次突破15萬億美元。貝萊德週三在宣告中表示，投資者向主動管理基金淨投入530億美元，營收同比增長31%，至71億美元。"
+    },
+    {
+      "id": "4990107",
+      "time": "2026-07-15 21:14:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：目前仍有大量民眾持有低抵押貸款利率，該狀況需要數年時間才能化解。"
+    },
+    {
+      "id": "4990106",
+      "time": "2026-07-15 21:13:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥首席財務官：我們已收到大量2028年交付的極紫外光刻機訂單。"
+    },
     {
       "id": "4990105",
       "time": "2026-07-15 21:13:30",
