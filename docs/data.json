@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-16 06:20:32",
-  "count": 18626,
+  "updated": "2026-07-16 06:24:29",
+  "count": 18624,
   "items": [
+    {
+      "id": "4990818",
+      "time": "2026-07-16 06:23:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中情局任命史蒂夫·布克拉蒂擔任首席安全官、邁克爾·馬爾科特擔任首席財務官。"
+    },
+    {
+      "id": "4990817",
+      "time": "2026-07-16 06:23:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美防長下令30歲以上軍人每年檢測睪酮水平】美國國防部長赫格塞思於週三宣佈，軍隊將每年組織官兵開展睪酮水平檢測。針對這項近年愈發受關注的健康議題，美方出臺了重大政策調整。根據新規，30週歲及以上軍人每年例行體檢時，都需完成睪酮篩查；30歲以下官兵可自願檢測。經診斷存在睪酮缺乏問題的人員，可自主選擇接受睪酮替代療法。赫格塞思在社交平臺X釋出影片稱：“隨著年齡增長，人體睪酮水平通常會自然下降。”睪酮水平偏低已成為美軍重點關注的健康問題，特種作戰部隊尤為突出。高強度壓力、超負荷體能訓練，再加上熱量攝入不足，都可能造成睪酮指標下滑，相關研究仍在持續推進。"
+    },
+    {
+      "id": "4990816",
+      "time": "2026-07-16 06:21:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本工程機械製造商小松將在巴拿馬設立零部件倉庫。"
+    },
+    {
+      "id": "mkt:019f67dd-bd4b-7aab-8db1-273c89dad6fa",
+      "time": "2026-07-16 06:20:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "A 2028 FOMC voting member and St. Louis Fed President Musalem is scheduled to speak in ten minutes."
+    },
     {
       "id": "4990815",
       "time": "2026-07-16 06:19:41",
@@ -171249,59 +171285,6 @@
         "其他"
       ],
       "text": "英國發布電力供應警報，熱浪正限制該國的電網執行。"
-    },
-    {
-      "id": "4977660",
-      "time": "2026-07-09 06:23:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【墨總統稱將升級回應墨移民遭美執法人員槍殺事件】墨西哥總統克勞迪婭·辛鮑姆8日表示，墨西哥政府將採取更有力度的法律措施，回應墨公民洛倫索·薩爾加多·阿勞霍在美遭移民與海關執法局槍殺事件。（新華社）"
-    },
-    {
-      "id": "mkt:019f43d4-3715-7aab-8cff-99322d21d916",
-      "time": "2026-07-09 06:23:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Mexico president says she will escalate response to shooting of Mexican migrant by US ICE agents】Mexican President Claudia Sheinbaum said on the 8th the government will take stronger legal measures to respond to the killing of Mexican citizen Lorenzo Salgado Araujo by US Immigration and Customs Enforcement (ICE) agents."
-    },
-    {
-      "id": "4977659",
-      "time": "2026-07-09 06:22:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賺錢效應明顯，多路資金搶籌基石投資】智譜漲逾10倍、深演智慧漲逾6倍、兆易創新H股漲近4倍……年內上市的港股新股表現亮眼，吸引外資機構、保險資金、銀行理財子公司、公募基金及產業資本等競相透過基石投資佈局。據Choice資料統計，截至7月8日，年內91家港股IPO公司中，引入基石投資者的佔了81.32%，較往年進一步提升。參與港股打新的基石投資者多達502家，大部分IPO引入5家及以上基石投資者。（上證報）"
-    },
-    {
-      "id": "4977658",
-      "time": "2026-07-09 06:21:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以媒：以軍因美伊緊張局勢提高戰備等級】據以色列第12頻道電視臺8日報道，隨著美國與伊朗局勢緊張，以色列國防部門正為局勢可能快速惡化做好準備。報道說，以色列總理內塔尼亞胡8日晚計劃召開安全形勢評估會議，國防部長卡茨將出席會議。同時，以軍全面提高戰備等級。報道還稱，以軍與美國中央司令部保持密切協調。（新華社）"
-    },
-    {
-      "id": "mkt:019f43d2-9650-7aab-8cff-9003ae9c0050",
-      "time": "2026-07-09 06:21:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Israel raises military readiness amid US–Iran tensions, Channel 12 reports】Israeli Defense Forces have raised their alert level and are preparing for a possible rapid deterioration in security amid heightened US–Iran tensions, Channel 12 reported on the 8th. Prime Minister Netanyahu planned a security assessment meeting to be attended by Defense Minister Katz. The IDF is coordinating closely with US Central Command (CENTCOM)."
-    },
-    {
-      "id": "4977657",
-      "time": "2026-07-09 06:21:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【上證報：理性看待市場短期波動，多重邏輯支撐A股中長期配置價值】近日，A股市場出現階段性調整。面對市場波動，業內人士表示，應理性看待短期調整。資本市場執行受到宏觀環境、流動性、企業盈利和投資者預期等多重因素影響，階段性波動是市場機制發揮作用的正常表現。從中長期看，隨著中國經濟基本面持續修復、政策環境不斷最佳化、產業升級加速推進以及流動性保持合理充裕，A股市場仍具備較好的配置基礎。"
     }
   ]
 }
