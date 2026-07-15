@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-15 12:13:33",
-  "count": 18785,
+  "updated": "2026-07-15 12:17:30",
+  "count": 18784,
   "items": [
+    {
+      "id": "4989068",
+      "time": "2026-07-15 12:16:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4621萬千瓦！陝西電網最大負荷創新高】高溫天氣，用電需求持續攀升，陝西電網用電負荷迎來“尖峰時刻”。近日，陝西電網最大負荷4621萬千瓦，創歷史新高，較往年曆史最高增長2.89%。西安、寶雞、渭南、西鹹新區電網負荷同步重新整理歷史極值。 （陝西釋出）"
+    },
+    {
+      "id": "te:economy:567050",
+      "time": "2026-07-15 12:15:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Philippines",
+        "Remittances",
+        "Importance 1"
+      ],
+      "text": "Philippine Cash Remittances Up 2% in May — Cash remittances coursed through banks in the Philippines rose by 2% year-on-year to USD 2.71 billion in May 2026 from USD 2.66 billion in the same month last year. Both land-based and sea-based workers recorded higher remittance inflows, increasing by 2.1% and 1.7% year-on-year, respectively. By origin, the US remained the largest source of remittances, accounting for 39.4% of total inflows, followed by Singapore (7.4%), Saudi Arabia (6.4%), Japan (5.1%), and the UK (4.6%). In the first five months of the year, cash remittances increased by 2.5% to USD 14.11 billion from USD 13.77 billion in the corresponding period a year earlier. Meanwhile, personal remittances, which include transfers through banks, informal channels, and in-kind transfers, rose by 2.1% to USD 3.03 billion in May and increased by 2.6% to USD 15.43 billion on a year-to-date basis."
+    },
     {
       "id": "mkt:019f63fa-3f39-7aab-8d93-3f3007c4c298",
       "time": "2026-07-15 12:12:52",
@@ -172116,32 +172136,6 @@
         "國際"
       ],
       "text": "印尼6月消費者信心指數為117.8，5月為120.9。"
-    },
-    {
-      "id": "mkt:019f3ff1-3282-7aab-8ce0-495314e047e4",
-      "time": "2026-07-08 12:16:39",
-      "tags": [
-        "MKT News",
-        "EURUSD"
-      ],
-      "text": "Fitch assigned a \"AA-\" rating to South Korea's planned eurobond issuance."
-    },
-    {
-      "id": "4975618",
-      "time": "2026-07-08 12:16:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta測試可記錄每個瞬間的“超級感知”AI眼鏡。"
-    },
-    {
-      "id": "4975617",
-      "time": "2026-07-08 12:15:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI週四將釋出GPT-5.6 Sol人工智慧模型】OpenAI在社交媒體平臺上發帖稱，週四將釋出GPT-5.6 Sol、Terra和Luna三款模型。公司目前正在全球範圍內擴大預覽訪問許可權。此前據媒體報道，在美國政府針對前沿人工智慧的新監管框架下進行額外測試後，美國商務部已批准OpenAI的先進GPT-5.6模型進行廣泛釋出。報道援引一位知情人士的話稱，在進行額外測試並與美國政府官員舉行會議後，OpenAI預計將於本週更廣泛地 釋出GPT-5 .6 。"
     }
   ]
 }
