@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-16 00:21:08",
-  "count": 18773,
+  "updated": "2026-07-16 00:25:08",
+  "count": 18765,
   "items": [
+    {
+      "id": "mkt:019f6696-e03c-7aab-8dac-2fc5a562b987",
+      "time": "2026-07-16 00:23:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli warplanes struck the area between the southern Lebanese towns of Barashit and Beit Yahoun, market sources said."
+    },
+    {
+      "id": "4990501",
+      "time": "2026-07-16 00:23:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "法爾斯通訊社訊息：多名伊拉克訊息人士稱，伊拉克埃爾比勒發生多起爆炸。"
+    },
+    {
+      "id": "te:markets:567297",
+      "time": "2026-07-16 00:22:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.9% to close at 52,411 on Wednesday amid losses for financial companies, utilities, and the AI stocks. Banks and insurers closed lower as strikes between the US and Iran sustained inflationary threats and lifted Italian bond yields, denting the outlook on credit and their balance sheets. The consequent increase in natural gas prices lowered margins for utility providers, driving Enel, Italgas, and Terna to drop over 1%. Semiconductor stocks were the index's weakest performers, with STMicroelectronics dropping around 4%, despite ASML reporting better-than-expected second-quarter as memory producers in the US plunged. Prysmian also declined 2.6%. On the other hand, Moncler and Ferrari gained following strong results from Richemont."
+    },
+    {
+      "id": "4990500",
+      "time": "2026-07-16 00:21:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列戰機對黎巴嫩南部巴拉希特鎮與拜特亞洪鎮之間區域實施空襲。"
+    },
     {
       "id": "mkt:019f6694-4d1c-7aab-8dac-207740a2cfa3",
       "time": "2026-07-16 00:20:22",
@@ -172609,121 +172649,6 @@
         "國際"
       ],
       "text": "特朗普：洛克希德·馬丁將新建五座工廠。"
-    },
-    {
-      "id": "mkt:019f428b-9531-7aab-8cf8-b80625f6b1f5",
-      "time": "2026-07-09 00:24:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's military said an attack on Wednesday killed eight military personnel, NourNews reported."
-    },
-    {
-      "id": "4977319",
-      "time": "2026-07-09 00:24:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：洛克希德·馬丁與萊茵金屬宣佈達成合作，將聯合生產陸軍戰術導彈系統（ATACMS）。"
-    },
-    {
-      "id": "4977318",
-      "time": "2026-07-09 00:23:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國在人工智慧領域領先。"
-    },
-    {
-      "id": "mkt:019f428a-a684-7aab-8cf8-b7adc0967d95",
-      "time": "2026-07-09 00:23:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "U.S. President Trump said the administration will give firms up to two years to build factories in the U.S.; firms that do not comply would face tariffs of up to 250%."
-    },
-    {
-      "id": "mkt:019f428a-78af-7aab-8cf8-ae8c5a9b3ee9",
-      "time": "2026-07-09 00:23:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "LMT.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said Lockheed Martin will establish a support and maintenance facility in Europe."
-    },
-    {
-      "id": "mkt:019f428a-2f72-7aab-8cf8-a49a3f6348b2",
-      "time": "2026-07-09 00:23:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Europe will receive the most advanced military equipment."
-    },
-    {
-      "id": "4977317",
-      "time": "2026-07-09 00:22:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普讚揚波蘭及其總統。"
-    },
-    {
-      "id": "4977316",
-      "time": "2026-07-09 00:22:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們將給予企業最多兩年時間在美國建廠；否則，它們必須支付最高250%的關稅。"
-    },
-    {
-      "id": "mkt:019f4289-b0ad-7aab-8cf8-9e9e7dc9481c",
-      "time": "2026-07-09 00:22:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he can triple U.S. ammunition production."
-    },
-    {
-      "id": "4977315",
-      "time": "2026-07-09 00:21:20",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普：洛克希德公司將在歐洲建立後勤保障設施。"
-    },
-    {
-      "id": "mkt:019f4288-99d0-7aab-8cf8-94f647cdee85",
-      "time": "2026-07-09 00:21:16",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "NOC.O",
-        "RTX.O"
-      ],
-      "text": "President Trump said he told NATO leaders the US is rapidly expanding defense production capacity."
-    },
-    {
-      "id": "4977314",
-      "time": "2026-07-09 00:21:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談武器製造：我們可以將軍火產量提高三倍。"
     }
   ]
 }

@@ -1,7 +1,47 @@
 {
   "date": "2026-07-16",
-  "count": 31,
+  "count": 35,
   "items": [
+    {
+      "id": "mkt:019f6696-e03c-7aab-8dac-2fc5a562b987",
+      "time": "2026-07-16 00:23:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israeli warplanes struck the area between the southern Lebanese towns of Barashit and Beit Yahoun, market sources said."
+    },
+    {
+      "id": "4990501",
+      "time": "2026-07-16 00:23:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "法爾斯通訊社訊息：多名伊拉克訊息人士稱，伊拉克埃爾比勒發生多起爆炸。"
+    },
+    {
+      "id": "te:markets:567297",
+      "time": "2026-07-16 00:22:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.9% to close at 52,411 on Wednesday amid losses for financial companies, utilities, and the AI stocks. Banks and insurers closed lower as strikes between the US and Iran sustained inflationary threats and lifted Italian bond yields, denting the outlook on credit and their balance sheets. The consequent increase in natural gas prices lowered margins for utility providers, driving Enel, Italgas, and Terna to drop over 1%. Semiconductor stocks were the index's weakest performers, with STMicroelectronics dropping around 4%, despite ASML reporting better-than-expected second-quarter as memory producers in the US plunged. Prysmian also declined 2.6%. On the other hand, Moncler and Ferrari gained following strong results from Richemont."
+    },
+    {
+      "id": "4990500",
+      "time": "2026-07-16 00:21:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列戰機對黎巴嫩南部巴拉希特鎮與拜特亞洪鎮之間區域實施空襲。"
+    },
     {
       "id": "mkt:019f6694-4d1c-7aab-8dac-207740a2cfa3",
       "time": "2026-07-16 00:20:22",
