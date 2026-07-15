@@ -1,7 +1,64 @@
 {
   "date": "2026-07-16",
-  "count": 98,
+  "count": 104,
   "items": [
+    {
+      "id": "mkt:019f66cd-cf95-7aab-8dad-1f228b20c389",
+      "time": "2026-07-16 01:23:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "【German sovereign wealth fund to raise private markets allocation to 30% from 25%】German sovereign wealth fund Kenfo will raise its private markets allocation to 30% from 25% over the next two years and reduce private‑equity exposure, its annual report shows. The fund plans to expand real estate and infrastructure holdings. Kenfo flagged recent private‑equity underperformance and said it will adopt a more cautious stance; some investors have cut PE amid higher rates and AI‑related challenges to software investments. Kenfo trimmed US Treasury holdings from about €600m a year earlier to roughly €200m at end‑2025, then added more than €500m by end‑June. CEO Anja Mikus said the fund does not plan to stop investing in government bonds, noting yields of up to 2.8% are above many other sovereign bonds and that it will maintain flexibility."
+    },
+    {
+      "id": "4990535",
+      "time": "2026-07-16 01:20:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府官員擬延長燃料運輸豁免政策。"
+    },
+    {
+      "id": "4990534",
+      "time": "2026-07-16 01:20:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：英偉達將與川崎重工在日本共建造船廠。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607163807899622",
+      "time": "2026-07-16 01:20:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事庫克表示 人工智慧工具為小型企業帶來了巨大機遇】美聯儲理事庫克表示，人工智慧工具為小型企業帶來了巨大機遇。隨著人工智慧的發展，投資小型企業的成本正在降低。"
+    },
+    {
+      "id": "mkt:019f66ca-ab2d-7aab-8dad-14d48d22caa7",
+      "time": "2026-07-16 01:19:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Governor Cook said AI development is lowering the cost of investing in SMEs."
+    },
+    {
+      "id": "mkt:019f66ca-9b02-7aab-8dad-0eda9e560616",
+      "time": "2026-07-16 01:19:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Governor Cook said AI tools present significant opportunities for small businesses."
+    },
     {
       "id": "4990533",
       "time": "2026-07-16 01:19:19",
