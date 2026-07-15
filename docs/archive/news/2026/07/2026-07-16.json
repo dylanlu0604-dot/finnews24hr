@@ -1,7 +1,46 @@
 {
   "date": "2026-07-16",
-  "count": 38,
+  "count": 42,
   "items": [
+    {
+      "id": "mkt:019f669f-52f7-7aab-8dac-3c819cd1513a",
+      "time": "2026-07-16 00:32:25",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "All three major U.S. stock indexes turned lower; the Nasdaq had risen about 0.7% in early trade."
+    },
+    {
+      "id": "4990506",
+      "time": "2026-07-16 00:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報56.87美元/盎司。"
+    },
+    {
+      "id": "mkt:019f669d-7d56-7aab-8dac-3050aaf0fa2a",
+      "time": "2026-07-16 00:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $57/oz, down 2.9% intraday."
+    },
+    {
+      "id": "4990505",
+      "time": "2026-07-16 00:28:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守57美元/盎司，日內跌2.93%。"
+    },
     {
       "id": "4990504",
       "time": "2026-07-16 00:28:20",

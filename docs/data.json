@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-16 00:29:09",
-  "count": 18758,
+  "updated": "2026-07-16 00:33:17",
+  "count": 18748,
   "items": [
+    {
+      "id": "mkt:019f669f-52f7-7aab-8dac-3c819cd1513a",
+      "time": "2026-07-16 00:32:25",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "All three major U.S. stock indexes turned lower; the Nasdaq had risen about 0.7% in early trade."
+    },
+    {
+      "id": "4990506",
+      "time": "2026-07-16 00:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌3%，現報56.87美元/盎司。"
+    },
+    {
+      "id": "mkt:019f669d-7d56-7aab-8dac-3050aaf0fa2a",
+      "time": "2026-07-16 00:30:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $57/oz, down 2.9% intraday."
+    },
+    {
+      "id": "4990505",
+      "time": "2026-07-16 00:28:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守57美元/盎司，日內跌2.93%。"
+    },
     {
       "id": "4990504",
       "time": "2026-07-16 00:28:20",
@@ -172460,132 +172499,6 @@
         "國際"
       ],
       "text": "伊朗國際電視臺收到的一段影片顯示，在美國對伊朗南部發動襲擊後，週三伊朗南部城市布什爾一處軍事基地附近突發火災。"
-    },
-    {
-      "id": "mkt:019f4293-255e-7aab-8cf8-f31bb859a3e0",
-      "time": "2026-07-09 00:32:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said U.S. success on Iran has exceeded that on Venezuela."
-    },
-    {
-      "id": "4977336",
-      "time": "2026-07-09 00:32:41",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "哥倫比亞塞羅馬託索鎳鐵礦在一份宣告中表示，若天然氣限制持續實施，該礦兩條生產線中的一條將無限期停產。"
-    },
-    {
-      "id": "4977335",
-      "time": "2026-07-09 00:32:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗存在第三套領導班子，這群人可能很快下臺。"
-    },
-    {
-      "id": "4977334",
-      "time": "2026-07-09 00:32:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：我們將繼續根據使用者請求，幾乎每天對Grok Build工具包和 1.5T 基礎模型進行最佳化。2T模型將於本月完成訓練，並於下月向客戶開放。"
-    },
-    {
-      "id": "4977333",
-      "time": "2026-07-09 00:31:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克：基於我們測試計劃中客戶的強烈正面反饋，SpaceXAI將於明天向公眾開放Grok 4.5。它是一個Opus級別的模型，但速度更快、令牌效率更高且成本更低。"
-    },
-    {
-      "id": "mkt:019f4292-028c-7aab-8cf8-ee966c9b01d5",
-      "time": "2026-07-09 00:31:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President TRUMP said Iran's inflation has reached 350%, up from 5-6% at the start of the war."
-    },
-    {
-      "id": "4977332",
-      "time": "2026-07-09 00:30:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普再次重申伊朗絕不可能擁有核武器。"
-    },
-    {
-      "id": "4977331",
-      "time": "2026-07-09 00:30:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：6月非金融企業外匯淨銷售額為277億美元。"
-    },
-    {
-      "id": "4977330",
-      "time": "2026-07-09 00:30:35",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示，莫斯科交易所指數下跌歸因於地緣政治因素、油價下跌以及市場對關鍵利率走勢的重估。"
-    },
-    {
-      "id": "4977329",
-      "time": "2026-07-09 00:30:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行：俄羅斯聯邦政府債券（OFZ）收益率上行導致銀行業交易債券組合出現負估值重估，單月負估值規模或約達2000億盧布。"
-    },
-    {
-      "id": "mkt:019f4290-8dbb-7aab-8cf8-e024a1d59f82",
-      "time": "2026-07-09 00:29:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said Iran fired on vessels overnight and he does not like that. He added Iran wants a deal but does not know how to proceed."
-    },
-    {
-      "id": "mkt:019f4290-59f9-7aab-8cf8-d9c86dd61eca",
-      "time": "2026-07-09 00:29:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iran no longer has an army or an air force."
-    },
-    {
-      "id": "4977328",
-      "time": "2026-07-09 00:29:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗夜間襲擊了商船，我對此十分不滿。"
-    },
-    {
-      "id": "mkt:019f428f-d305-7aab-8cf8-d47c544a5e37",
-      "time": "2026-07-09 00:29:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "U.S. President Trump said Iran cannot possess nuclear weapons."
     }
   ]
 }
