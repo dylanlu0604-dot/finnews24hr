@@ -1,7 +1,104 @@
 {
   "date": "2026-07-15",
-  "count": 780,
+  "count": 790,
   "items": [
+    {
+      "id": "4988685",
+      "time": "2026-07-15 08:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特防空部隊應對敵對無人機威脅。"
+    },
+    {
+      "id": "4988684",
+      "time": "2026-07-15 08:16:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克歐洲50指數期貨下跌0.2%，德國DAX指數期貨下跌0.3%，富時指數期貨下跌0.2%。"
+    },
+    {
+      "id": "4988683",
+      "time": "2026-07-15 08:15:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4079.62。"
+    },
+    {
+      "id": "4988682",
+      "time": "2026-07-15 08:15:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一批涉我國臺灣省的問題地圖被查獲】近日，大連海關所屬大窯灣海關關員在對一批申報為“船用資料”的進口保稅貨物進行實貨驗核時，發現其中一批地圖錯將我國臺灣省按照國家進行標識，嚴重損害我國主權和領土完整，違背一箇中國原則。經清點，共有“問題地圖”43張。目前，海關已依法對上述“問題地圖”作扣留處理。（海關釋出）"
+    },
+    {
+      "id": "te:economy:566944",
+      "time": "2026-07-15 08:15:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "API Crude Oil Stock Change",
+        "Importance 0"
+      ],
+      "text": "US Crude Supplies Fall Less Than Expected — US crude oil inventories fell by 564,000 barrels in the week ending July 10, less than the expected 2.7 million-barrel decline, following a 399,000-barrel draw the previous week. Commercial crude inventories, excluding the SPR, have declined by more than 60 million barrels over the past 12 weeks but remain only 9.2 million barrels lower year-to-date. The SPR fell by another 2.99 million barrels to 316.5 million, the lowest level in more than 43 years and about 415 million barrels below its maximum capacity. Cushing inventories rose by 238,000 barrels after falling 69,000 barrels the week before. Gasoline inventories declined by 1.664 million barrels, while distillate inventories increased by 2.3 million barrels. Meanwhile, US oil production rose to 13.860 million bpd from 13.810 million bpd."
+    },
+    {
+      "id": "4988681",
+      "time": "2026-07-15 08:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甲骨文釋出AI原生代理應用開發平臺，支援Codex與Claude Code接入】甲骨文當地時間7月14日宣佈，為Oracle AI Agent Studio for Fusion Applications推出全新AI原生開發體驗，允許客戶和合作伙伴在Oracle Fusion雲應用中構建並執行“Fusion Agentic Applications（代理式應用）”。新平臺同時支援無程式碼、低程式碼和專業程式碼開發，並新增AI Studio Skill，開發者可使用Visual Studio Code、命令列工具、Git，以及OpenAI Codex、Claude Code等AI程式設計助手進行開發。"
+    },
+    {
+      "id": "mkt:019f6320-79bd-7aab-8d8c-38f3a7bb6cb9",
+      "time": "2026-07-15 08:15:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index was up 1.00% intraday."
+    },
+    {
+      "id": "4988680",
+      "time": "2026-07-15 08:14:50",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【與業績改善形成正反饋 今年以來券商境內發債規模同比增長近一倍】近期，多家上市券商獲證監會批准發行大額公司債，部分券商已發債券還迎來一波評級上調。Wind資料顯示，截至7月14日記者發稿時，今年以來券商境內發債規模已超1.35萬億元，與去年同期6869.19億元相比，規模接近翻倍。同時，多家券商預告上半年業績將創同期歷史新高，中信證券、國泰海通、招商證券等預計上半年歸母淨利潤超百億元。 從募集資金用途來看，券商發債融資多用於償還公司到期債務、補充流動性資金。在業內人士看來，券商“借新還舊”是利率下行週期中的主動債務管理行為，為擴大業務規模提供充足“彈藥”，與業績增長形成正向迴圈，頭部券商憑藉規模與評級優勢加速“補血”，行業馬太效應將進一步凸顯。（中證報）"
+    },
+    {
+      "id": "mkt:019f631f-585a-7aab-8d8c-34706c45df34",
+      "time": "2026-07-15 08:13:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iran's IRGC warns U.S. strikes would halt regional oil and gas exports, says 'a drop of oil' won't be exported】Iran's Islamic Revolutionary Guard Corps (IRGC) said on the 15th that if the United States continues to carry out attacks on Iran, the region will not export 'a drop of oil' or gas."
+    },
+    {
+      "id": "4988679",
+      "time": "2026-07-15 08:13:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【倫敦的30攝氏度以上高溫天數較80年代多三倍】英國正在飛快變暖，倫敦氣溫超過30攝氏度的天數比上世紀80年代多了三倍。根據最新《英國氣候狀況報告》，英國氣溫每十年上升約0.25攝氏度，從沿海到高地無一處不受影響。以倫敦所在的英格蘭東南部為例，最熱日子裡的氣溫比過去高了4.5攝氏度。熱浪也在向北蔓延，侵蝕最寒冷山頂的棲息地。當前，英國及西歐大部分地區正在遭受三輪致命 熱浪衝擊。屢創新高的氣溫給電網、交通運輸和醫療體系帶來壓力，擾亂了歐洲各地民眾的日常生活。這份年度報告稱，去年是英國有記錄以來最熱的一年。主要作者Mike Kendon表示，這份研究還表明，英國20世紀那種氣候實已消逝。這是英國決策者參考的關鍵報告之一。"
+    },
     {
       "id": "4988678",
       "time": "2026-07-15 08:12:17",
