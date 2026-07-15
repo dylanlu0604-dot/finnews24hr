@@ -1,7 +1,403 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-16 01:35:58_
-_本檔包含 3902 則快訊，約 711807 字_
+_更新時間：2026-07-16 02:41:28_
+_本檔包含 3837 則快訊，約 710304 字_
+
+---
+
+### 2026-07-10 10:31:18  #宏觀 #公司
+
+【市場監管總局舉辦AI賦能信用監管專題講座】7月3日，市場監管總局舉辦AI賦能信用監管專題講座，圍繞“建、歸、用”關鍵環節，持續深化信用監管改革，引智賦能市場監管業務高質量發展。市場監管總局副局長白清元出席講座並作點評。科大訊飛公司有關負責人重點介紹人工智慧發展態勢、國產自主可控大模型技術、AI在政務及市場監管領域的成熟應用案例，以及AI賦能信用監管的具體路徑與場景設想等情況。白清元指出，當前新業態不斷湧現，企業數字化、跨區域、多主體經營成為常態，現有監管手段明顯滯後。市場監管系統幹部要切實加強學習，主動將人工智慧的理念、技術運用到市場監管各領域，持續提升監管效能，更好履行職責使命，加快推進全國統一大市場建設。（市說新語）
+
+---
+
+### 2026-07-10 10:31:12  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報155350元/噸，較上日16:30價格下跌2250元/噸。
+
+---
+
+### 2026-07-10 10:30:49  #市場 #國際
+
+馬來西亞股指上漲1%至1,694.43點。
+
+---
+
+### 2026-07-10 10:30:20  #市場
+
+【港股醫藥股走強 昭衍新藥漲超8%】截至發稿，昭衍新藥(06127.HK)漲8.45%，康龍化成(03759.HK)漲6.73%，凱萊英(06821.HK)漲4.94%。
+
+---
+
+### 2026-07-10 10:30:03  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: Japan 10Y Bond Yield Drops by 11 bps — Government bonds yields are lower on Friday. Top losers are Japan 10Y (-11.30bps) and US 10Y (-1.50bps).
+
+---
+
+### 2026-07-10 10:29:56  #宏觀 #央行 #國際
+
+【韓國監管層正密切跟蹤單一股票槓桿ETF帶來的市場影響】據報道，韓國總統政策首席秘書KimYong-beom週五在首爾向記者表示，韓國金融監管部門正嚴密監控單一股票槓桿ETF對市場造成的影響。KimYong-beom稱，韓國企劃財政部、韓國央行、金融委員會及金融監督院將全面評估自今年5月上市以來，單一股票ETF對市場產生的各類影響。監管機構還將研討並敲定是否需要出臺配套管控新規。
+
+---
+
+### 2026-07-10 10:29:50  #MKT News #CSI300 #Impact bullish #SZSE Component #Hang Seng Index
+
+【Guangdong pushes computing-power network; big-data ETFs jump >5% intraday】Big-data ETFs strengthened intraday; Huaxia, Fuguo and Huabao big-data ETFs each rose more than 5%. Guangdong’s draft 15th Five-Year Plan for the information and communications industry calls for accelerating construction of a computing-power network and upgrading network services to create new industry growth poles. The draft seeks continued development of a national integrated computing-power network, including a Guangdong–Hong Kong–Macao Greater Bay Area national hub node, and supports telecom operators building real-time computing centers and edge-computing nodes.
+
+---
+
+### 2026-07-10 10:29:48  #市場
+
+大資料ETF盤中走強，大資料ETF華夏、大資料ETF富國、大資料ETF華寶均漲超5%。
+
+---
+
+### 2026-07-10 10:29:27  #其他
+
+【天津啟動洪澇災害防禦二級響應】記者從市水務局獲悉，根據氣象預報，7月10日至11日，受颱風“巴威”遠距離水汽輸送和副熱帶高壓相互作用影響，天津及海河流域有大範圍強降雨過程，部分地區有暴雨到大暴雨；12日夜間至14日，颱風“巴威”外圍雲系將給天津帶來強風雨天氣。市水務部門啟動洪澇災害防禦二級應急響應，重點從加強水情監測聯合會商、最大限度預騰調蓄空間、做好堤防巡查防守熱備、強化局域性洪澇災害防範四方面，全力做好颱風迎戰準備。（天津發布）
+
+---
+
+### 2026-07-10 10:28:58  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bullish #Nikkei 225 #Impact bearish
+
+【Mizuho says Takaichi may need more market-aware communication】Mizuho Securities economist Yusuke Matsuo said Prime Minister Takaichi may need more cautious, market‑aware communication on highly sensitive items, notably the funding source for a planned food consumption tax cut and her large investment program. JGB yields have jumped recently as markets fear political pressure could delay Bank of Japan (BOJ) tightening and lift inflation risks. Finance Minister Katayama on Friday stressed the BOJ's independence, saying specific monetary policy measures are decided by the Bank of Japan.
+
+---
+
+### 2026-07-10 10:27:10  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bullish #02015.HK #01211.HK
+
+Hong Kong-listed auto stocks were mostly firmer: Chery Automobile (09973.HK), XPeng Inc (09868.HK), Leapmotor (09863.HK) and SERES (09927.HK) each rose more than 3%, while Li Auto Inc (02015.HK) and BYD Co Ltd (01211.HK) gained over 2%.
+
+---
+
+### 2026-07-10 10:27:00  #其他
+
+【Omdia：2026年第二季度全球PC市場同比下滑3.6%】Omdia最新研究，2026年第二季度全球檯式電腦、膝上型電腦及工作站出貨量同比下降3.6%，降至6570萬臺。其中，臺式電腦（含臺式工作站）出貨量為1390萬臺，同比下降1.3%；膝上型電腦（含移動工作站）出貨量為5170萬臺，同比下降4.2%。
+
+---
+
+### 2026-07-10 10:25:37  #國際
+
+【上海釋出颱風藍色預警】上海市氣象臺7月10日10時釋出上海市颱風藍色預警訊號：受今年第9號颱風“巴威”影響，預計11-13日本市大部地區將出現陣風8-9級，高層建築和沿江沿海地區陣風9-11級，請注意防範颱風對高空作業、交通出行、農業生產等的不利影響。
+
+---
+
+### 2026-07-10 10:24:48  #公司 #市場
+
+【AI醫療概念震盪反彈 美年健康、東軟集團雙雙漲停】AI醫療概念盤中震盪反彈，美年健康、東軟集團漲停，迪安診斷、創業慧康漲超10%，衛寧健康、嘉和美康、塞力醫療跟漲。
+
+---
+
+### 2026-07-10 10:24:40  #MKT News
+
+【South Korea finance ministry official: USD/KRW still misaligned with fundamentals】Moon Ji-sung, the finance ministry official responsible for exchange-rate policy, said Friday USD/KRW remains misaligned with economic fundamentals and the ministry has sufficient room to stabilise markets if needed. He expects domestic FX supply–demand to shift in H2 2026 and forecasts exporters’ dollar holdings will be returned to the market via FX forward settlements, generating dollar inflows.
+
+---
+
+### 2026-07-10 10:23:56  #市場
+
+美元兌日元下跌0.6%，報161.40。
+
+---
+
+### 2026-07-10 10:23:47  #其他
+
+自然資源部將浙江和福建的海洋災害應急響應級別提升至二級，對上海啟動海洋災害四級應急響應。
+
+---
+
+### 2026-07-10 10:23:34  #公司
+
+【福建晉江鞋廠火災搜救基本結束】7月9日，福建晉江陳埭鎮江頭村輝騰鞋業公司廠房發生火災，事故已造成28人死亡。目前，事故現場火災搜救基本結束。記者10日上午在事故現場看到，現場還有濃煙傳出，刺鼻氣味仍然殘留。（新華社）
+
+---
+
+### 2026-07-10 10:22:55  #其他
+
+馬斯克稱扎克伯格關於Meta釋出多模態推理模型Muse Spark 1.1帖子在X上已免費獲得了超過1200萬次瀏覽。
+
+---
+
+### 2026-07-10 10:22:55  #MKT News #Market Regions #Greater China
+
+【Ministry of Natural Resources raises Zhejiang and Fujian marine disaster response to Level II; Shanghai at Level IV】China’s Ministry of Natural Resources said it raised the marine disaster emergency-response level to II for Zhejiang and Fujian and activated a Level IV response for Shanghai at 0900 on the 10th.
+
+---
+
+### 2026-07-10 10:21:28  #其他
+
+【廣西25條河流30個站超警 主要江河以退水為主】據廣西水文中心監測，7月9日8時至10日8時，防城港、崇左、欽州、梧州及玉林等市部分地區有大到暴雨，局地大暴雨，日雨量最大為防城港市防城區那良鎮105.0毫米。廣西全區共有西江、鬱江、潯江、清水河及大風江等25條河流30個站超警0.02～4.45米，超警最大為蒙江河南寧市橫州市橫州鎮河段。10日8時，廣西仍有鬱江、潯江及西江等16條河流19個站超警0.04～4.31米。鬱江貴港水文站水位43.21米（警戒水位41.2米），超警2.01米，流量10700立方米每秒；西江梧州水文站水位20.13米（警戒水位18.5米），超警1.63米，流量31500立方米每秒。廣西水文中心預測，未來24小時，全區各主要江河均以退水為主；鬱江貴港城區河段水位將於10日22時前後退至警戒水位以下，西江梧州城區河段水位將於11日5時前後退至警戒水位以下。
+
+---
+
+### 2026-07-10 10:21:00  #其他
+
+【廣東：培育形成覆蓋算力、模型、應用、安全的全鏈條詞元產業生態 加快推動相關產品規模化推廣落地】《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》近日向社會公開徵求意見。其中提到，聚焦6G、人工智慧、網路和資料安全等新領域新賽道，開展規模化應用示範，加快推動創新成果產業化落地，促進創新鏈與產業鏈深度融合。牽頭組建立足廣東、聯動港澳的6G產業創新發展聯盟，整合全省產學研用優質資源，凝聚6G產業發展合力，全面提升6G產業綜合競爭力與行業影響力。全力參與6G創新發展部省協同試點，加快形成廣東省6G試驗組網及產業培育先發優勢。鼓勵基礎電信企業加快完善詞元計價標準，透過服務體系構建與平臺能力開放，培育形成覆蓋算力、模型、應用、安全的全鏈條詞元產業生態，加快推動相關產品規模化推廣落地。紮實推進國家網路安全產業園區建立申報工作，構建具有廣東特色的網路安全產業生態體系，加強網路安全企業梯度培育，推動網路安全新模式新服務發展。
+
+---
+
+### 2026-07-10 10:20:18  #MKT News #Market Regions #Greater China
+
+【Green hydrogen breakthrough: China achieves ultra-fast preparation of platinum-group catalysts】A Tianjin University team led by Professor Hu Wenbin reported a “transient assembly” strategy using millisecond-scale periodic thermal pulses to synthesize and precisely control core–shell platinum-group metal catalysts, enabling atom-level precision and ultra-fast production. The authors say the method opens a new technical pathway for platinum-group catalyst manufacturing. Results were published online in Science on July 10 (Beijing time). Platinum-group catalysts are core materials for modern energy, chemical and environmental industries.
+
+---
+
+### 2026-07-10 10:20:07  #Trading Economics #Markets #China #Stock Market #Importance 1
+
+Stocks in China Hit 8-week High — SHANGHAI 50 increased to 3019.00 Index Points, the highest since May 2026. Over the past 4 weeks, Shanghai 50 gained 6.08%, and in the last 12 months, it increased 9.51%.
+
+---
+
+### 2026-07-10 10:19:50  #其他
+
+【位元組跳動公益基金會捐贈2000萬元，支援廣西、湖北、甘肅災區】7月10日，北京位元組跳動公益基金會宣佈捐贈2000萬元，支援廣西、湖北、甘肅災區，用於開展應急救助、過渡安置、災後重建等工作。
+
+---
+
+### 2026-07-10 10:19:46  #公司
+
+【北極芯微完成億元A+輪融資】近日，深圳北極芯微電子有限公司宣佈成功完成億元A+輪融資，本輪融資由中青恆輝基金領投，老股東光谷科創投、瑞江投資跟投。本輪融資所獲資金將主要用於產品量產交付與核心技術、產品迭代，推動dToF產品交付規模持續擴大，加速PCI產品商業化落地程序。
+
+---
+
+### 2026-07-10 10:19:41  #其他
+
+【綠色氫能新突破：我國實現鉑族催化劑分鐘級製備】鉑族催化劑是支撐現代能源、化工、環境等產業的核心關鍵材料。近日，天津大學胡文彬教授團隊提出了“瞬態組裝”策略，研發出毫秒級週期熱脈衝技術，實現了鉑族金屬核殼結構催化劑的超快合成與精準調控，為鉑族催化劑的原子級精準製備開闢了全新技術路徑。相關成果於北京時間7月10日線上刊發於國際學術期刊《科學》上。（新華社）
+
+---
+
+### 2026-07-10 10:18:32  #Trading Economics #Markets #China #Currency #Importance 1
+
+Offshore Yuan Hits Near 3-Week High — China’s offshore yuan strengthened to around 6.78 per dollar on Friday, extending gains from the previous session to its strongest level in nearly three weeks after the People’s Bank of China signaled greater tolerance for currency appreciation. The central bank set the yuan’s daily reference rate at 6.7989 per dollar, stronger than Thursday’s fixing of 6.8036 and below the closely watched 6.80 threshold for the first time since 2023. A fixing below 6.80 per dollar is widely viewed by investors as an indication that authorities are not seeking to restrain the yuan’s recent appreciation. Attention is now turning to a packed slate of Chinese economic releases due next week, including trade data, second-quarter GDP, industrial production, retail sales, and the unemployment rate. The figures are expected to provide fresh insight into the strength of the economy and could shape expectations for the yuan’s near-term direction.
+
+---
+
+### 2026-07-10 10:18:18  #市場 #焦點
+
+滬深兩市成交額超1.5萬億元，較上日此時放量4090億元。
+
+---
+
+### 2026-07-10 10:17:29  #其他
+
+【廣東：擬推動構建高速大容量、確定低時延、泛在廣覆蓋的城域算力網路】《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》近日向社會公開徵求意見。其中提到，推進城域“毫秒用算”專項行動。推動構建高速大容量、確定低時延、泛在廣覆蓋的城域算力網路，實現“算力中心毫秒互連、算力資源毫秒接入、算力應用毫秒可達”。
+
+---
+
+### 2026-07-10 10:16:44  #其他
+
+【廣東：擬支援基礎電信企業建設實時性算力中心和邊緣計算節點】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，持續推進全國一體化算力網路粵港澳大灣區國家樞紐節點建設，圍繞“核心+邊緣”協同格局，支援基礎電信企業建設實時性算力中心和邊緣計算節點。支援韶關申報算網樞紐互聯中心，推動工業和資訊化部廣州網際網路交換中心、國家（深圳·前海）新型網際網路交換中心改造升級、創新發展，加快建設深廣韶資料大通道，構建輻射粵港澳大灣區的算力網路底座。融入“1+M+N”的全國算力互聯互通體系，打造全國算力互聯互通區域節點和多個特色鮮明的行業節點。持續推進城域“毫秒用算”專項行動，積極打造算網城市標杆。推動數算綠電網存高效協同，推動算力中心與新能源場址、電網協同建設，加強算力互通、協同、智慧排程。加快推進低效資料中心和“老舊小散”資料中心改造。
+
+---
+
+### 2026-07-10 10:16:05  #MKT News
+
+Elon Musk said Starlink can now provide reliable 10Gbps symmetric uplink and downlink connectivity anywhere in the world.
+
+---
+
+### 2026-07-10 10:16:05  #MKT News
+
+【Guangdong to plan integrated communications-navigation-remote sensing LEO constellation for Greater Bay Area】Guangdong’s draft 15th Five-Year Plan for the information and communications sector, released for public comment, proposes provincial support for satellite and space‑ground network development. The draft calls for organizing firms to join national satellite‑IoT commercial trials and planning an integrated communications‑navigation‑remote‑sensing LEO constellation for the Guangdong‑Hong Kong‑Macao Greater Bay Area. It seeks deployment of ground‑space interconnection centers and gateway stations as key fusion nodes, integration of satellite and terrestrial mobile infrastructure, and exploration of network coverage for low‑altitude airspace above 300m and for remote areas. The plan promotes direct‑to‑phone satellite services and satellite IoT, targeting a satellite‑communications user base of 1 mln, and launches a ‘Broadband Guangdong Sea’ initiative to build a maritime 5G/5G‑A + subsea fiber + satellite communications and sensing network.
+
+---
+
+### 2026-07-10 10:15:43  #MKT News #Market Regions #Greater China #00020.HK #Impact bullish #01024.HK
+
+Hang Seng Tech Index rose more than 2%; constituents SenseTime (00020.HK) and Kuaishou (01024.HK) gained over 4%.
+
+---
+
+### 2026-07-10 10:15:40  #其他
+
+【廣東：擬推動5G-A網路規模部署 加快推進萬兆光網規模部署】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，擬推動5G-A網路規模部署。統籌推進全省5G-A規模化部署，深化載波聚合、上行增強、通智融合等技術應用，持續提升5G-A綜合網路供給能力，依託網路智慧迭代鞏固廣東5G全國領先優勢。持續監測廣東5G-A基站建設進展，推動產業園區、交通樞紐、場館等熱點區域具備10Gbps下行峰值速率能力，城市主城區可提供1Gbps上行峰值速率能力。加快推進萬兆光網規模部署。開展新一輪萬兆光網試點，從小區、工廠、園區逐步向商務樓宇、校園、醫院等場景延伸，遴選一批示範性試點專案，總結推廣試點成功經驗，由點及面推動具備萬兆接入能力的50G-PON網路部署。
+
+---
+
+### 2026-07-10 10:15:26  #MKT News #Market Regions #Japan & APAC
+
+A spokesman for the Government Pension Investment Fund (GPIF) said it had noted comments by Japan's finance minister Katayama but declined to comment.
+
+---
+
+### 2026-07-10 10:15:09  #其他
+
+【廣東：擬探索推進300米以上低空空域及偏遠地區網路覆蓋】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，積極組織企業參與全國衛星物聯網業務商用試驗，謀劃粵港澳大灣區通導遙一體化低軌星座建設，積極推進星地互聯中心、信關站等天地網路融合重要節點設施落地佈局。推動衛星通訊與地面行動通訊基礎設施一體化發展，探索推進300米以上低空空域及偏遠地區網路覆蓋，開展手機直連衛星、衛星物聯網等應用，加快實現衛星通訊百萬使用者規模。實施“寬頻粵海”專項行動，逐步打造海洋“5G/5G-A+海底光纜+衛星”通訊感知網路。
+
+---
+
+### 2026-07-10 10:15:03  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: Japanese Yen Appreciates by 0.56% — Top currency gainers are Japanese Yen (0.56%), New Zealand Dollar (0.53%) and Chinese Yuan (0.20%). Meanwhile South Korean Won was little changed.
+
+---
+
+### 2026-07-10 10:14:58  #MKT News #Nasdaq100 #Impact bullish
+
+【Analyst says SK Hynix ADR to list on Nasdaq Friday; premium could hit 17%】Douglas Research Advisory analyst Douglas Kim said SK Hynix’s ADR, set to begin trading on Nasdaq on Friday, could trade at a short-term premium of up to 17% versus its South Korea-listed shares. The $26.5 bln issuance would be the largest foreign-company listing on record. Kim cited two drivers of the expected ADR premium: some large institutional mandates limit investors to US-listed securities, and a potential narrowing of SK Hynix’s valuation discount to Micron and NVIDIA as investors consider strategies from outright ADR purchases to long-short pair trades. In Thursday Seoul trade, SK Hynix’s Korean shares rose as much as 1.0% to 2.208 mln won.
+
+---
+
+### 2026-07-10 10:14:45  #國際
+
+日本政府養老投資基金（GPIF）發言人：已注意到片山財務大臣的相關言論，不予置評。
+
+---
+
+### 2026-07-10 10:14:43  #MKT News #Market Themes #Chip Wars #Nasdaq100 #Impact mixed
+
+【SK Hynix to list on Nasdaq Friday; opportunity but risks remain】Ex-hedge fund manager Jim Cramer said SK Hynix will list on Nasdaq on Friday, calling it a potential opportunity but warning of significant investment risk. He cited continued AI-driven demand for memory as the bullish thesis but flagged the sector’s strong cyclicality and the risk that rising supply could erode returns. Cramer noted the stock trades at only about 7x this year’s expected earnings and recommended establishing a small starter position while keeping cash to buy further on pullbacks. SK Hynix shares are roughly 25% below their June 25 high.
+
+---
+
+### 2026-07-10 10:14:40  #市場 #焦點
+
+恒生科技指數漲超2%，現報4826.500點；恒生指數現漲1.528%。
+
+---
+
+### 2026-07-10 10:14:25  #MKT News #Market Regions #Greater China
+
+【Guangdong to build national compute-interconnect regional nodes and multiple industry-specific nodes】Guangdong’s draft 15th Five-Year plan for the information and communications sector, released for public comment, proposes measures to expand regional and industry compute infrastructure. The plan backs Shaoguan’s bid to host a compute-network hub interconnection center and calls for upgrading and innovating the MIIT Guangzhou Internet Exchange Center and the National (Shenzhen·Qianhai) New-type Internet Exchange Center. It urges acceleration of a Shenzhen–Guangzhou–Shaoguan data corridor to establish a compute-network base serving the Guangdong–Hong Kong–Macao Greater Bay Area, and to integrate into the national "1+M+N" compute interconnectivity system by creating national regional nodes and multiple sector-specific nodes. The draft directs continued city-level "millisecond compute" initiatives to develop benchmark compute-network cities, and promotes efficient coordination of data/compute, green power, grid and storage—encouraging coordinated construction of compute centers with new-energy sites and grid upgrades and strengthening compute interconnectivity, operational coordination and intelligent dispatch.
+
+---
+
+### 2026-07-10 10:14:23  #市場
+
+鈀金期貨日內漲1%，現報1267.00美元/盎司。
+
+---
+
+### 2026-07-10 10:14:14  #其他
+
+【剛果（金）衛生部長：本輪埃博拉疫情仍處於“非常活躍”階段】剛果（金）衛生部長坎巴9日說，該國本輪埃博拉疫情仍處於“非常活躍”階段，尚未出現明確峰值。剛果（金）衛生部當天釋出的最新埃博拉疫情資料顯示，該國累計報告確診病例1792例，其中死亡625例，治癒295例。非洲疾病預防控制中心專家曼庫拉9日線上上記者會上說，本輪疫情是有記錄以來發展最快的埃博拉疫情，疫情擴散速度超過當前應對能力。（新華社）
+
+---
+
+### 2026-07-10 10:13:32  #其他
+
+【廣東：重點推動800G光傳輸系統和全光交叉連線裝置規模部署】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，有序推動珠三角城市5G-A網路規模部署和熱點區域連續覆蓋，積極參與工信部6G技術試驗，率先開展6G網路建設與商用部署，形成6G首發優勢。持續擴大萬兆光網試點建設，實現重點場景量質齊增，加快推動園區網路升級。推動G.654E等新型光纖光纜規模部署，重點推動800G光傳輸系統和全光交叉連線裝置規模部署，構建大頻寬、低時延、高可靠的全光承載底座。深化網際網路協議第六版（IPv6）單棧規模部署。積極部署量子通訊骨幹網，推進400G及以上高速量子通道建設。
+
+---
+
+### 2026-07-10 10:13:27  #市場
+
+韓元兌美元抹平跌幅。
+
+---
+
+### 2026-07-10 10:13:19  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #Hang Seng Index #CNH
+
+【Guangdong to prioritize large-scale deployment of 800G optical transmission and all-optical cross-connects】Guangdong’s draft provincial information and communications plan (15th Five-Year Plan) calls for orderly large-scale deployment of 5G-A in Pearl River Delta cities with continuous hotspot coverage and active participation in MIIT 6G trials, aiming to take an early lead in 6G construction and commercial roll-out. The draft seeks to expand 10G PON pilots, accelerate campus network upgrades and scale deployment of new fiber types including G.654E, with a specific push for large-scale deployment of 800G optical transmission systems and all-optical cross-connect equipment to build a high-bandwidth, low-latency, high-reliability all-optical bearer. It also calls for deepening IPv6 single‑stack rollout and actively deploying a quantum communication backbone, advancing 400G-plus high-speed quantum channels.
+
+---
+
+### 2026-07-10 10:12:46  #其他
+
+馬斯克：Starlink 現在可以在全球任何地方提供可靠的 10Gbps 對稱傳送/接收連線。
+
+---
+
+### 2026-07-10 10:11:48  #國際
+
+【中泰經貿聯委會貿易投資分委會第四次會議在曼谷召開】7月9日，商務部副部長鄢東與泰國商業部副部長披婭努在泰國曼谷共同召開中泰經貿聯委會貿易投資分委會第四次會議。雙方就深化中泰貿易、投資、區域和多邊合作等議題深入交換意見。鄢東表示，在兩國元首戰略引領下，中泰經貿關係穩中有進，合作成果豐碩。“十五五”時期，中國將聚焦推動高質量發展，不斷擴大高水平對外開放，為包括泰國在內的世界各國提供更大機遇。中方願與泰方一道，加強經貿政策規劃對接，促進貿易投資合作高質量發展，深化區域和多邊經貿合作，為構建更為穩定、更加繁榮、更可持續的中泰命運共同體貢獻力量。披婭努表示，泰方讚賞雙方在經貿領域取得的積極成果，希同中方深化在農產品貿易、電子商務、中小企業等領域合作，透過中國國際進口博覽會、中國—東盟博覽會、“共享大市場·出口中國”系列活動等平臺擴大泰國對華出口，願為中國企業赴泰國投資創造良好營商環境。
+
+---
+
+### 2026-07-10 10:11:41  #MKT News #Important #Market Regions #Greater China
+
+【Guangdong proposes accelerating R&D in 6G, optical and satellite communications】A Guangdong draft 15th Five-Year plan for the information and communications industry, released for public comment, proposes targeted support for basic telecom operators to join provincial R&D programs and directs strategic labs (including Pengcheng National Laboratory) and leading firms to build a full-process innovation ecosystem. The plan calls for accelerated technology development in 6G, optical communications, satellite communications, quantum communications and intelligent communication systems, and for research on new network architectures such as air-space-ground integrated networks and sensing‑compute‑communications integration. It prioritizes cultivating a 6G industry chain and advancing R&D and industrialization of core components — digital baseband chips, RF front-end chips, 6G modules — and next‑generation network equipment. The draft also pushes application research on integrating quantum encryption with information networks and fusing quantum and classical computing, targeting breakthroughs in quantum computing, quantum materials, precision measurement, quantum security and key core devices.
+
+---
+
+### 2026-07-10 10:11:31  #公司
+
+【中國信達、金剛光伏等在天津成立新合夥企業 出資額約8.87億】天眼查App顯示，近日，天津隴金信企業管理合夥企業（有限合夥）成立，執行事務合夥人為鑫盛利保股權投資有限公司，出資額約8.87億人民幣，經營範圍為企業管理、企業管理諮詢。合夥人資訊顯示，該合夥企業由中國信達資產管理股份有限公司甘肅省分公司、甘肅金剛光伏股份有限公司、鳳凰高科技投資有限公司、金信昊達（甘肅）科技有限公司等共同出資。
+
+---
+
+### 2026-07-10 10:11:06  #其他
+
+【廣東：擬加快6G、光通訊、衛星通訊等關鍵前沿領域技術攻關】近日，《廣東省資訊通訊業“十五五”規劃（徵求意見稿）》向社會公開徵求意見。其中提到，支援基礎電信企業等積極參與省重點領域研發計劃專項，依託鵬城國家實驗室等戰略科技力量和龍頭企業，助力廣東省資訊通訊業建立健全全過程創新生態鏈，加快6G、光通訊、衛星通訊、量子通訊、智慧體通訊等關鍵前沿領域技術攻關，加強空天地一體、通感算一體等新型網路體系研究。重點培育發展6G新賽道，大力推進新一代數字基帶晶片、射頻前端晶片、6G模組等核心器件及新一代網路通訊裝置的研發和產業化。開展量子加密與資訊通訊網路融合、量子計算與經典計算融合等應用技術研究，突破量子計算、量子材料、量子精密測量、量子安全、關鍵核心裝置等關鍵技術。
+
+---
+
+### 2026-07-10 10:11:03  #其他
+
+【鬱江發生2001年以來最大洪水，水利部工作組一線指導防禦工作】受連續降雨影響，珠江流域鬱江發生2001年以來最大洪水，水利部工作組連續多天在受影響較大的廣西貴港，指導當地洪水防禦工作，把保障人民生命安全放在第一位，嚴防發生重大次生災害。9日12時，鬱江水位達到44.96米，超警戒水位3.76米。貴港聚焦沿江重點堤防、閘口、低窪片區等關鍵點位，展開堤防加固、隱患排查以及排澇搶險。根據水利部會商結果和天氣預報綜合分析，10日起廣西全區降雨逐步減弱，江河水位將持續穩步退水。目前當地正在搶抓時機，加速水庫除險，加密堤防巡查，確保人民生命財產安全。
+
+---
+
+### 2026-07-10 10:10:13  #Trading Economics #Markets #Hong Kong #Stock Market #Importance 1
+
+Hong Kong Stocks Rise on Chip Rally — The Hang Seng Index rose 1.2%, or 283 points, to 24,327 on Friday, tracking gains after a rally in US chipmakers fueled a rebound on Wall Street overnight. Stocks climbed as optimism surrounding technology shares outlasted lingering concerns over the Middle East, while lower oil prices further supported risk appetite. Sentiment was also supported by reports that the US and Iran will continue technical talks despite recent military strikes, raising hopes that diplomatic engagement could help prevent a broader regional conflict. Meanwhile, investors continued to monitor Hong Kong's robust IPO pipeline, supported by strong fundraising from Chinese technology firms. Tech shares led the advance, with Semiconductor Manufacturing International Corporation and Kingboard Laminates advancing 4.4% and 10.6%, respectively. Other notable gainers included HKEX (1.7%), Kuaishou (2.0%), ASMPT Limited (6.2%), and InnoScience Technology (3.6%).
+
+---
+
+### 2026-07-10 10:10:06  #其他
+
+【上海迪士尼度假區：目前正常運營，但受颱風影響可能會對度假區運營安排進行調整】7月10日，上海迪士尼度假區釋出天氣提示：上海迪士尼度假區目前正常運營。但受颱風“巴威”的潛在影響，如天氣狀況惡化，我們可能會對度假區的運營安排進行調整。在惡劣天氣情況下，部分室外景點和娛樂演出(包括“米奇童話專列”、“‘奇妙之心’城堡秀”、“夏日音浪狂歡派對”等)可能會暫時關閉或取消，“奇夢之光幻影秀”演出將有可能會被取消或不包含煙花效果。
+
+---
+
+### 2026-07-10 10:09:44  #MKT News #USDJPY #Impact bearish
+
+USD/JPY fell 0.50% intraday to 161.54.
+
+---
+
+### 2026-07-10 10:09:43  #MKT News #Market Themes #AI Revolution
+
+A-share AI video sector extended gains; Tianyu Shuke and Chaoxun Technology hit daily limit; Fushi Holdings climbed over 14%, Zhidemai rose more than 6%, Jishi Media up over 5%.
+
+---
+
+### 2026-07-10 10:08:43  #其他
+
+【光合組織2026智慧計算應用大會鄭州開幕】光合組織2026智慧計算應用大會今日在鄭州開幕。本屆大會為期三天，以“智算無界，正規化躍遷”為主題，聚焦AI算力基礎設施升級、開放計算生態建設及智慧計算應用落地，關注國產AI算力從基礎設施建設嚮應用轉化推進。記者獲悉，大會期間，國內首個全國產十萬卡AI超叢集“曙光8000（登峰）”宣佈正式落成，並接入國家超算網際網路。光合組織面向產業鏈夥伴推進“開放計算Token譜系”計劃，圍繞算力生產、資源流轉和應用轉化等環節，提升超大規模算力的使用效率和產業轉化能力。 (科創板日報)
+
+---
+
+### 2026-07-10 10:07:36  #市場
+
+美元/日元下跌0.5%至161.56。
+
+---
+
+### 2026-07-10 10:07:20  #其他
+
+【上半年全國共偵辦妨害國（邊）境管理犯罪案件1.14萬起】從今天國家移民管理局召開的新聞釋出會上瞭解到，上半年，全國移民管理機構始終把維護國家政治安全置於首位，堅持嚴格規範公正文明執法，依法打擊妨害國（邊）境管理犯罪，集中力量破案攻堅，著力打團夥、斷通道、斬“蛇頭”、摧網路，堅決築牢國門邊境安全穩定屏障，堅決維護國家主權、安全和發展利益。共偵辦妨害國（邊）境管理犯罪案件1.14萬起，抓獲犯罪嫌疑人2.24萬餘人，打掉重大犯罪團伙157個，掛牌督辦重特大案件88起，透過國際執法合作，從境外抓捕一批“蛇頭”等跨境違法犯罪人員。持續深化非法入境、非法居留、非法就業外國人治理，查處遣返1.19萬人。依法嚴厲打擊口岸邊境涉槍爆、販毒走私等違法犯罪，破獲毒品案件209起，抓獲犯罪嫌疑人305人，繳獲各類毒品4.37噸，其中破獲萬克以上案件45起；查繳各類槍支603支，子彈2.7萬餘發。
+
+---
+
+### 2026-07-10 10:07:06  #MKT News #CSI300 #Impact bullish
+
+China innovative-drug thematic funds rallied; sci-tech innovative-drug ETFs managed by Huitianfu and Guotai each advanced more than 5%.
+
+---
+
+### 2026-07-10 10:07:03  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Daiwa Securities: High oil prices could keep Japan producer prices elevated】Daiwa Securities economist Yutaro Suzuki says Japanese producer prices are likely to rise more than 5% YoY and that oil and petroleum-product prices could remain elevated for a period. Bank of Japan data showed the June corporate goods price index (CGPI) up 7.1% YoY. Suzuki warned renewed Middle East tensions pose upside risk to oil, but said he expects oil to decline gradually over the long run and for the CGPI to moderate modestly before year-end.
+
+---
+
+### 2026-07-10 10:07:00  #公司 #觀點
+
+【飛仕得重啟IPO，曾衝刺科創板未果】證監會網站披露，杭州飛仕得科技股份有限公司於2026年7月9日在浙江證監局辦理輔導備案登記，擬首次公開發行股票並上市，輔導券商為中信證券。
+
+---
+
+### 2026-07-10 10:06:56  #市場
+
+【影視院線板塊震盪反彈，歡瑞世紀漲停】影視院線板塊震盪反彈，歡瑞世紀漲停，儒意電影、幸福藍海、北京文化、金逸影視、華智數媒、博納影業等跟漲。
+
+---
+
+### 2026-07-10 10:06:51  #公司 #市場
+
+【AI應用端異動拉昇 歡瑞世紀7天4板】AI應用端盤中異動拉昇，歡瑞世紀7天4板，福石控股漲超10%，天娛數科、利歐股份、藍色游標、中科金財、鼎捷數智跟漲。
 
 ---
 
@@ -22756,791 +23152,5 @@ U.S. Vice President Vance said the U.S.-Iran agreement makes clear that, should 
 ### 2026-07-09 02:41:33  #MKT News
 
 U.S. Vice President Vance said he will not disclose specific plans for tonight.
-
----
-
-### 2026-07-09 02:40:46  #MKT News
-
-U.S. Vice President Vance said Trump still retains multiple options to respond to Iran.
-
----
-
-### 2026-07-09 02:40:02  #MKT News #Market Themes #AI Revolution
-
-XAI said Grok 4.5 is not yet live in the EU, has not been integrated into any SpaceX XAI products and is not available via the API console; the company expects to launch service in the EU in mid‑July.
-
----
-
-### 2026-07-09 02:37:29  #央行 #國際
-
-【美聯儲傳聲筒：美聯儲分歧核心在通脹前景，而非政策方向】華爾街日報記者Nick Timiraos表示，美聯儲6月會議紀要顯示，官員之間的分歧主要來自對未來經濟走勢的不同判斷，而不是在加息或降息策略上存在根本衝突。美聯儲內部形成了兩種可能情景：如果通脹繼續居高不下，幾乎所有官員都認為需要維持更高利率，甚至進一步收緊政策；但如果通脹很快回落至2%的目標水平，幾乎所有官員也認為可以維持當前利率，甚至未來降息。他認為，“很快回落至2%”這一表述非常關鍵，為美聯儲保留了政策調整空間。目前官員們真正關注的問題是，通脹是否會持續反彈，還是重新進入下降軌道。Timiraos總結稱，美聯儲下一步行動仍取決於經濟資料，尤其是通脹表現。市場此前押注降息，但最新紀要顯示，政策前景仍存在較大不確定性。
-
----
-
-### 2026-07-09 02:37:19  #MKT News #Macro & Rates #DXY #Impact bearish #US10Y #Impact mixed #S&P500
-
-【WSJ: Fed split driven by inflation outlook, not policy direction】WSJ reporter Nick Timiraos says the Fed’s June minutes show officials differ mainly on the inflation and economic outlook rather than on whether to tighten or ease policy. Officials outlined two scenarios: if inflation stays elevated, most favor maintaining higher rates or further tightening; if inflation quickly returns to 2%, most would be comfortable holding current rates and could consider cuts. Timiraos highlights the phrase “quickly returns to 2%” as key, preserving Fed flexibility. The minutes underscore that the Fed’s next moves will depend on incoming data—especially inflation—and that policy timing remains uncertain despite prior market bets on cuts.
-
----
-
-### 2026-07-09 02:37:03  #MKT News
-
-U.S. Vice President Vance on Iran: if they fire on U.S. ships, the U.S. will retaliate.
-
----
-
-### 2026-07-09 02:35:53  #市場 #焦點
-
-SpaceX股價下跌2.6%，跌破關鍵的149美元關口。
-
----
-
-### 2026-07-09 02:34:52  #國際
-
-美國副總統萬斯：如果伊朗試圖關閉霍爾木茲海峽，美國將做出反應。
-
----
-
-### 2026-07-09 02:34:32  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-US 10-Year Yield Extends Rebound — The yield on the 10-year US Treasury note rose up to the 4.60% mark on Wednesday, the highest since May, as higher energy prices magnified the impact of a hawkish Federal Reserve. Fuel prices soared after a new wave of attacks between the US and Iran reignited concerns that energy from the Middle East will be blockaded. The pro-inflationary risks were consistent with minutes from the FOMC's June meeting, which indicated that a few policymaker saw higher core inflation readings and a robust labor market making the case for a rate hike. Rate futures continued to show a loose consensus that the Fed is due to deliver one rate hike this year, although nearly half of the market was positioned for more than one hike. Bonds were also under pressure from Fed Chairman Warsh's earlier calls for a smaller balance sheet, to be achieved by trimming the central bank's holdings of longer-term notes and bonds.
-
----
-
-### 2026-07-09 02:34:29  #國際
-
-萬斯談伊朗：如果他們攻擊我們的船隻，美國將採取行動。
-
----
-
-### 2026-07-09 02:33:03  #國際
-
-美國副總統萬斯重申伊朗核計劃已遭摧毀。
-
----
-
-### 2026-07-09 02:31:59  #MKT News #Commodities #Precious Metals #Energy #XAUUSD #Impact bearish #WTI #Impact bullish
-
-【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract fell 1.47% to 892 yuan/gram, Shanghai silver main contract fell 3.88% to 14,260 yuan/kg, and SC crude oil main contract rose 4.30% to 475 yuan/barrel.
-
----
-
-### 2026-07-09 02:31:59  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. crude futures settled at $73.52 per barrel, up $3.08 or 4.37%.
-
----
-
-### 2026-07-09 02:31:56  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-【Fed minutes: Middle East conflict lifted inf; most foreign central banks signal future hikes】The Fed's June minutes said the Middle East conflict has materially raised global overall inf, with retail energy and producer prices spiking across much of Europe and Asia. Some central banks, including the ECB, have raised policy rates in response. Most foreign central banks warned high inf could trigger second‑round effects and signalled they may raise rates or slow easing despite weak output growth.
-
----
-
-### 2026-07-09 02:30:50  #市場 #國際
-
-美國原油期貨結算價報每桶73.52美元，上漲3.08美元，漲幅為4.37%。
-
----
-
-### 2026-07-09 02:30:46  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
-
-Shanghai Gold Exchange gold T+D fell 1.25% to 891.59 yuan/gram in the July 8 (Wednesday) evening session; silver T+D fell 3.36% to 14,258.0 yuan/kg.
-
----
-
-### 2026-07-09 02:30:42  #央行 #美聯儲
-
-【美聯儲會議紀要：AI持續推動資料中心、高科技裝置和軟體的實際投資支出】美聯儲6月會議紀要顯示，現有指標表明，第二季度實際GDP增長仍保持穩健步伐。實際私人國內最終支出——包括個人消費支出和私人固定投資，通常比實際GDP更能反映經濟基本面的走勢——在第二季度有所回升，增速甚至超過了GDP。實際消費支出表現強勁，人工智慧領域的擴充套件持續推動資料中心、高科技裝置和軟體的實際投資支出。4月份資料顯示，高科技產品進出口繼續保持強勁增長，能源出口也出現顯著上升。
-
----
-
-### 2026-07-09 02:30:17  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Binance Depreciates by 2.04% — Top crypto losers are Binance (-2.04%), Ether (-1.88%) and Bitcoin (-1.85%).
-
----
-
-### 2026-07-09 02:30:09  #公司
-
-【SpaceXAI攜手Cursor釋出AI模型 面向法律和金融等任務】SpaceXAI釋出了一款與AI程式設計初創公司Cursor合作打造的新款人工智慧模型，該模型旨在更出色地處理金融、法律及程式設計任務。此舉是這家馬斯克旗下公司為增強與Anthropic PBC和OpenAI等對手競爭能力而採取的最新舉措。這款名為Grok 4.5的軟體是兩家公司聯合開發的首款AI模型。就在數週前，SpaceX正式同意收購Cursor，這筆交易對這家初創公司的估值為600億美元。根據週三釋出的部落格文章，新模型旨在“處理複雜、耗時的任務”，包括軟體工程這一眾多AI開發商重點佈局的領域。不過，與Cursor此前推出的模型不同，Grok 4.5面向更廣泛的工作場景，包括法律和金融服務。部落格文章還稱，Grok 4.5進一步增強了網路安全能力。
-
----
-
-### 2026-07-09 02:30:03  #市場
-
-上期所原油期貨夜盤收漲4.30%，報475.20元人民幣/桶。滬金夜盤收跌1.47%，滬銀收跌3.88%。
-
----
-
-### 2026-07-09 02:30:01  #MKT News
-
-Iran's foreign ministry said Iran and Qatar held a phone call on the Strait of Hormuz incident and emphasized the need for continued communication and coordination to prevent escalation of regional tensions.
-
----
-
-### 2026-07-09 02:29:34  #國際
-
-白宮貿易顧問納瓦羅：5月貿易資料顯示，美國服務業與能源出口表現強勁，但全球供應鏈及關稅執行落實情況仍存隱憂。
-
----
-
-### 2026-07-09 02:29:25  #MKT News
-
-【Fed minutes: AI continues to drive real investment in data centers, high‑tech equipment and software】The Federal Reserve's June minutes said AI-driven expansion is sustaining real investment in data centers, high‑tech equipment and software. Existing indicators show Q2 real GDP growth remained robust. Real private domestic final expenditures — including PCE and private fixed investment — rebounded in Q2 and outpaced GDP; consumption was strong. April trade data showed continued strength in high‑tech goods flows and a marked rise in energy exports.
-
----
-
-### 2026-07-09 02:28:09  #國際
-
-伊朗外交部：伊朗與卡達兩國外長通話時強調，需持續開展溝通協調，以防止地區局勢緊張升級。
-
----
-
-### 2026-07-09 02:28:00  #國際
-
-伊朗與卡達官員通電話，商討霍爾木茲海峽相關事件。
-
----
-
-### 2026-07-09 02:27:00  #公司 #國際
-
-美國副總統萬斯談H1-B簽證：大公司利用其牟取利益。
-
----
-
-### 2026-07-09 02:25:35  #Trading Economics #Markets #United States #Currency #Importance 0
-
-Dollar Lacks Direction — The dollar index was little changed around 101 on Wednesday, as investors assessed the latest escalation in Middle East tensions. President Trump said that "as far as I'm concerned, the ceasefire is over," while threatening additional strikes on Iran and a blockade of the country's ports. The US also launched fresh strikes on Iran and revoked a waiver that had allowed the country to sell crude oil on global markets. These developments followed a series of attacks on tankers transiting the Strait of Hormuz in recent days. Oil prices surged again, reviving concerns about inflation and the prospect of monetary tightening. Reflecting this shift, traders increased their expectations for Fed rate hikes, with the implied probability of a September rate increase rising to around 69%, up from 58% the previous day. Meanwhile, minutes from the latest FOMC meeting showed that policymakers were divided over the future path of interest rates and discussed a range of economic scenarios.
-
----
-
-### 2026-07-09 02:25:19  #國際
-
-美國副總統萬斯：美國勞工部今日已就H-1B簽證事宜發出數十份調查傳票。
-
----
-
-### 2026-07-09 02:25:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Butter Soars by 6.00% — Top commodity gainers are Butter (6%), Cocoa (4.86%) and Canola (3.16%). Biggest losers are Corn (-2.10%) and Wheat (-1.98%).
-
----
-
-### 2026-07-09 02:22:18  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish
-
-【Fed minutes: time to consider major revision to post-meeting statements】Fed minutes show policymakers still expect real GDP to grow robustly through the remainder of 2026. Multiple labor-market indicators point to a stable jobs market that does not appear to be a source of inflationary pressure. The June 17 statement was briefer than recent post-meeting releases, signaling imminent action by officials who have pledged to overhaul Fed communications; minutes say several officials agreed it is time to consider major changes to post-meeting statements.
-
----
-
-### 2026-07-09 02:20:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Platinum Falls by 4.27% — Top commodity losers are Platinum (-4.27%), Silver (-2.69%), Silicon (-2.29%) and Gold (-0.85%). Gains are led by Iron Ore CNY (1.43%) and Steel Rebar (0.95%).
-
----
-
-### 2026-07-09 02:20:06  #MKT News
-
-U.S. Secretary of State Rubio said lifting sanctions on Syria would open the door to international trade and investment and provide Syria with reconstruction opportunities.
-
----
-
-### 2026-07-09 02:18:11  #MKT News
-
-U.S. Secretary of State Rubio said the U.S. will begin removing Syria from the list of state sponsors of terrorism.
-
----
-
-### 2026-07-09 02:17:30  #公司 #國際
-
-美國、Airlink與亞馬遜宣佈搭建委內瑞拉人道主義空中運輸通道。
-
----
-
-### 2026-07-09 02:15:31  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #S&P500 #DXY
-
-【Fed minutes show clear split on rate path; both hikes and cuts seen as possible】Minutes of the Fed’s June 16–17 meeting show officials were sharply divided on the rate outlook. The Fed unanimously held the policy rate at 3.50%–3.75%, but some members said easing inf could create scope for cuts while others warned persistent price pressures could require further hikes. Officials disagreed on year‑end rates—some expected levels near or slightly below current, others expected rates above current. The Fed said future policy will be data‑dependent, with decisions to hinge on inf, employment and other economic data.
-
----
-
-### 2026-07-09 02:15:24  #Trading Economics #Economy #United States #Interest Rate #Importance 3
-
-Fed Divided Over Interest Rate Outlook — Fed officials were divided on the future of interest rates and discussed a range of scenarios for the evolution of the economy and monetary policy, minutes from the FOMC meeting in June 2026 showed. Participants generally assessed that upside risks to inflation remained elevated and a few commented that, in light of these developments, there was a case for raising interest rates. Most participants also pointed to scenarios in which, in the context of stable labor market conditions, inflation would remain elevated due to strong AI-related demand, the conflict in the Middle East, or the effects of tariffs. In such scenarios, almost all of these participants indicated that some policy firming would likely be warranted to return inflation to 2%. However, under their most likely economic outlook, many officials expected interest rates to end the year at or slightly below their current level. The Fed kept the federal funds rate unchanged at 3.50%-3.75% in June, in line with expectations.
-
----
-
-### 2026-07-09 02:15:17  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Heating Oil Rallies by 10.68% — Top commodity gainers are Heating Oil (10.68%), Propane (6.90%), Natural Gas UK (5.39%), Brent Crude Oil (5.15%) and Crude Oil WTI (4.34%). Biggest loser is Natural gas (-1.83%).
-
----
-
-### 2026-07-09 02:15:04  #MKT News
-
-【Fed minutes: officials see inflation this year and next higher than April projections】The Fed minutes said most participants emphasized that if inflation remained above 2% for several years, sustained higher inflation could begin to affect inflation expectations and wage- and price-setting. Officials said their inflation forecasts for this year and next were higher than the projections prepared for the April meeting, underscoring renewed concern about inflation. Staff projected core inflation above 3% would remain roughly unchanged for the remainder of the year.
-
----
-
-### 2026-07-09 02:13:41  #國際
-
-美國國務卿魯比奧：打算在45天后撤銷對敘利亞的制裁。
-
----
-
-### 2026-07-09 02:13:01  #國際
-
-美國國務卿魯比奧：特朗普告訴國會，他打算撤銷對敘利亞的制裁。
-
----
-
-### 2026-07-09 02:12:31  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-【Fed minutes: Majority back shortening statement, removal of 'easing bias'】June Fed minutes show officials considered KEVIN WARSH’s proposal to end forward guidance and trim references to future rate moves. A majority backed shortening the policy statement and supported deleting language that suggested the next move would likely be a cut. The June alternative approved by the Fed removed rate guidance entirely, consistent with Warsh’s aim to avoid committing on future rates. At the June meeting the Fed held the policy rate at 3.50%-3.75%; the dot plot showed nine of 18 officials expect rates to be slightly higher by end-2026, and markets widely saw the possibility of hikes this year.
-
----
-
-### 2026-07-09 02:12:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Hold Losses After FOMC — US stocks held losses on Wednesday as higher energy prices added to a less favorable macroeconomic backdrop. The S&P 500 and Dow were around 0.4% lower while the Dow fell a sharper 1%. Treasury yields rose after President Trump saw the ceasefire with Iran as invalidated following strikes by both sides, driving oil prices to surge and markets to reconsider inflationary risks. The risk of higher inflation was aligned with FOMC minutes showing some members made the case for a rate hike in June. Credit-sensitive sectors fell, with JPMorgan and Visa down 2%, while Home Depot and GE Vernovia sank 3%. Meanwhile, AI hyperscalers were mostly lower after worries of overspending in data center infrastructure weighed on the sector earlier this week, with Alphabet, Amazon, and Microsoft dropping more than 1%. On the other hand, Broadcom gained 5% after expanding its agreement with Apple on US-made components. Also, Nvidia gained 1% as Chinese firms planned to buy more H200 chips.
-
----
-
-### 2026-07-09 02:12:00  #國際
-
-【以軍稱在黎南部俘獲並打死黎真主黨武裝人員】當地時間8日，以色列國防軍宣佈，以軍7日在黎巴嫩南部賓特朱拜勒地區進行搜查行動期間，俘獲了一名黎巴嫩真主黨精銳“拉德萬部隊”成員，並打死了另一名真主黨武裝人員。以軍宣告稱，涉事區域上週曾發生襲擊並導致一名以軍預備役士兵重傷。以軍稱，被俘的黎真主黨成員已被轉移至以色列境內，目前正接受以軍審訊。
-
----
-
-### 2026-07-09 02:11:49  #國際
-
-美國國務卿魯比奧：啟動撤銷敘利亞恐怖主義認定程式。
-
----
-
-### 2026-07-09 02:11:32  #市場 #央行 #國際
-
-【會議紀要顯示，美聯儲決策者在6月的會議上注意到通脹擔憂日益加劇】在上個月的美聯儲會議上，對高通脹的擔憂日益加劇。儘管官員們擔心物價上漲範圍正在擴大，可能需要加息，但他們仍跟隨美聯儲主席凱文·沃什的步伐，釋出了一份內容更為精簡的政策宣告。在6月16日至17日的會議上，少數與會者認為有理由立即加息。但週三公佈的會議紀要顯示，更廣泛的討論似乎意見均等："大多數與會者"認為存在通脹會自行回落至美聯儲2%目標的場景，同時也認為存在通脹將持續高企的情況。"幾乎所有"持後一種觀點的與會者都認為，若出現這種情況，加息加息是必要的。會議紀要稱：“與會者普遍認為，會議間歇期收到的資訊表明，物價穩定的上行風險依然較高，而實現充分就業的下行風險則有所緩解。”最終，“所有與會者”均支援維持利率不變。
-
----
-
-### 2026-07-09 02:10:38  #MKT News
-
-Turkey's President Erdogan said he discussed joint defense-industry measures, including shipbuilding, with U.S. President Trump; cooperation could include frigates, submarines and light frigates.
-
----
-
-### 2026-07-09 02:10:33  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-【Federal Reserve minutes: Some participants said a hike could be necessary but backed keeping rates unchanged】Minutes from the Fed’s June 16–17 meeting show officials increasingly concerned about high inf. A minority judged an immediate rate hike could be warranted, but participants followed Fed chair KEVIN WARSH in issuing a shorter policy statement and ultimately supported leaving the policy rate unchanged. The minutes say a “majority of participants” saw scenarios in which inf would return to the Fed’s 2% target and scenarios in which it would remain elevated; “almost all” participants holding the latter view said hikes would be necessary if that occurred. Participants generally judged incoming information between meetings pointed to elevated upside risks to price stability and reduced downside risks to full employment.
-
----
-
-### 2026-07-09 02:10:12  #央行 #國際
-
-【縮減版美聯儲政策宣告引發內部討論】6月份的美聯儲會議紀要讓人們對該央行在凱文·沃什作為美聯儲主席的首次會議後釋出大幅縮減版政策宣告的決定有了更多瞭解。該會議上的“大多數與會者”（注：顯然不是所有人）表示，他們“看到了縮減該宣告的好處“。對於從政策宣告中刪除“寬鬆傾向“的措辭，有著更廣泛的共識：“大多數“官員希望將其刪除。（該措辭暗示美聯儲最終的下一步舉措將是更多降息，在4月份的會議上曾引來三張反對票。）會議紀要稱，對話包括了關於公眾將如何看待這份短得多的宣告的討論。
-
----
-
-### 2026-07-09 02:09:22  #央行 #焦點 #國際
-
-【美聯儲會議紀要顯示，少數官員主張6月加息】美聯儲週三公佈上月議息會議紀要顯示，有少數美聯儲官員認為6月具備加息條件。此前市場並不知曉上月存在加息支持者。6月議息會議上，美聯儲官員最終投票維持利率不變。紀要提及，主張加息的官員雖認可加息的合理性，但仍支援“本次會議”維持現有利率目標區間。部分官員早在6月就提出加息可能性，這進一步印證美聯儲內部支援年內加息的聲音正在增多。
-
----
-
-### 2026-07-09 02:08:04  #其他
-
-土耳其總統埃爾多安：（與美方）合作範圍可能涵蓋護衛艦、潛艇與輕型護衛艦。
-
----
-
-### 2026-07-09 02:07:34  #國際
-
-土耳其總統埃爾多安：已與特朗普討論包括造船在內的國防工業聯合舉措。
-
----
-
-### 2026-07-09 02:06:12  #MKT News #Macro & Rates #The Fed (FOMC) #Commodities #Precious Metals #XAUUSD
-
-Spot gold was little changed after the Federal Reserve minutes were released.
-
----
-
-### 2026-07-09 02:05:32  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-Fed minutes: officials were divided on whether policy rates are likely to be higher or lower by year-end.
-
----
-
-### 2026-07-09 02:05:19  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #US10Y #S&P500 #Impact bullish
-
-Federal Reserve minutes showed several officials judged the policy stance was no longer restrictive.
-
----
-
-### 2026-07-09 02:05:07  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
-
-Fed minutes: several officials said cooling inflation could allow rates to be held steady or cut.
-
----
-
-### 2026-07-09 02:04:53  #央行 #國際
-
-美聯儲：官員們認為勞動力市場短期內將保持穩定。
-
----
-
-### 2026-07-09 02:04:20  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #EURUSD #Impact bearish
-
-Fed minutes: FOMC members agreed the statement should convey commitment to the Fed's dual mandate and emphasize the Committee will achieve price stability.
-
----
-
-### 2026-07-09 02:04:18  #市場 #國際
-
-美國兩年期國債收益率也縮減漲幅，最新上漲5.41個基點，報4.216%。
-
----
-
-### 2026-07-09 02:04:15  #市場 #央行 #國際
-
-美聯儲會議紀要公佈後，美國國債收益率漲幅略有收窄；10年期國債收益率最新上漲4.41個基點，報4.573%。
-
----
-
-### 2026-07-09 02:04:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed meeting minutes: some officials said policy was slightly restrictive.
-
----
-
-### 2026-07-09 02:04:13  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve minutes: some participants welcomed an assessment of communication tools and practices.
-
----
-
-### 2026-07-09 02:04:13  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed minutes: "Most" meeting participants favored removing the Fed's "accommodative" bias language from the statement.
-
----
-
-### 2026-07-09 02:04:13  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed minutes said officials discussed public views on shortening the Fed's post-meeting statement.
-
----
-
-### 2026-07-09 02:04:13  #MKT News #Macro & Rates #The Fed (FOMC)
-
-FOMC minutes: Fed staff's GDP growth outlook is slightly below their April projection.
-
----
-
-### 2026-07-09 02:04:10  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve minutes said participants broadly viewed upside risks to price stability as elevated, while downside risks to the Fed's maximum-employment goal had diminished.
-
----
-
-### 2026-07-09 02:04:06  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve minutes: all participants supported leaving the current federal funds rate target range unchanged. Several participants said further rate increases could be necessary, but they supported holding policy at this meeting.
-
----
-
-### 2026-07-09 02:03:52  #國際
-
-美國國務卿魯比奧正式向國會通報了敘利亞局勢，已通知國會解除對敘利亞的制裁。
-
----
-
-### 2026-07-09 02:03:44  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve minutes: a majority of officials said shortening the policy statement would be beneficial.
-
----
-
-### 2026-07-09 02:03:22  #國際
-
-瑞士官員認為，美國維持15%關稅的可能性很大。
-
----
-
-### 2026-07-09 02:03:12  #市場 #國際
-
-現貨黃金在美國聯邦儲備委員會會議紀要公佈後變動不大，最新報每盎司4068.09美元，跌幅0.9%。
-
----
-
-### 2026-07-09 02:03:04  #市場 #央行 #國際
-
-美聯儲會議紀要公佈後，美元指數維持跌勢，最新下跌0.16%，報101.01點。
-
----
-
-### 2026-07-09 02:02:39  #央行 #國際
-
-美聯儲會議紀要：大多數與會者希望刪除美聯儲宣告中的“寬鬆傾向”表述”。
-
----
-
-### 2026-07-09 02:02:23  #央行 #國際
-
-美聯儲會議紀要：多數與會者傾向於不再重複此前暗示寬鬆傾向的政策宣告措辭。
-
----
-
-### 2026-07-09 02:02:19  #央行 #國際
-
-美聯儲會議紀要：部分參會者歡迎對溝通工具與實務開展評估。
-
----
-
-### 2026-07-09 02:02:16  #央行 #國際
-
-美聯儲會議紀要：多數與會者認為縮短聯邦公開市場委員會（FOMC）政策宣告具有諸多益處。
-
----
-
-### 2026-07-09 02:02:11  #央行 #國際
-
-美聯儲會議紀要：多數參會者傾向於不再重複此前宣告中暗示寬鬆傾向的表述。
-
----
-
-### 2026-07-09 02:02:08  #央行 #國際
-
-美聯儲會議紀要：部分與會者對重新審視溝通工具與實操慣例表示支援。
-
----
-
-### 2026-07-09 02:02:03  #央行 #國際
-
-美聯儲會議紀要：聯邦公開市場委員會（FOMC）委員一致認為，會後宣告應當傳達對雙重使命目標的承諾，並強調美聯儲公開市場委員會將致力於實現物價穩定。
-
----
-
-### 2026-07-09 02:01:59  #央行 #焦點 #國際
-
-美聯儲會議紀要：在此類情景下，幾乎所有與會者都表示，可能有必要採取一定的政策緊縮措施。
-
----
-
-### 2026-07-09 02:01:54  #央行 #國際
-
-美聯儲會議紀要：多數與會者認為，受人工智慧相關需求、中東衝突及關稅影響，通脹仍將維持高位。
-
----
-
-### 2026-07-09 02:01:51  #央行 #國際
-
-美聯儲會議紀要：聯邦公開市場委員會（FOMC）委員一致認為，會後宣告將傳達對雙重使命目標的承諾，並強調聯邦公開市場委員會將落實價格穩定目標。
-
----
-
-### 2026-07-09 02:01:47  #央行 #國際
-
-美聯儲會議紀要：多數與會者認為，受人工智慧相關需求、中東衝突及關稅影響，通脹將持續處於高位。
-
----
-
-### 2026-07-09 02:01:40  #央行 #國際
-
-美聯儲會議紀要：美聯儲工作人員對2026年和2027年的通脹預測高於4月時的預測，反映了中東戰事以及人工智慧部署的影響。
-
----
-
-### 2026-07-09 02:01:34  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve minutes: most participants said inf could remain elevated due to AI-related demand, the Middle East conflict or tariffs; in that scenario nearly all participants said some policy tightening may be required.
-
----
-
-### 2026-07-09 02:01:29  #央行 #國際
-
-美聯儲會議紀要：美聯儲工作人員對國內生產總值（GDP）增長的展望略低於4月的預測。
-
----
-
-### 2026-07-09 02:01:25  #央行 #國際
-
-美聯儲會議紀要：美聯儲工作人員對2026年和2027年的通脹預測高於4月時的預期，反映出中東戰事以及人工智慧佈局的影響。
-
----
-
-### 2026-07-09 02:01:18  #央行 #國際
-
-美聯儲會議紀要：工作人員對國內生產總值（GDP）的增長展望略低於4月的預測。
-
----
-
-### 2026-07-09 02:01:08  #央行 #美聯儲
-
-【美聯儲會議紀要顯示 大多數與會者指出 通脹可能仍將保持高位】美聯儲會議紀要顯示，大多數與會者指出，由於與人工智慧相關的需求、中東衝突或關稅，通脹可能仍將保持高位。在這種情況下，幾乎所有與會者都表示可能需要採取一些政策收緊措施。
-
----
-
-### 2026-07-09 02:01:00  #其他 #焦點
-
-SPACEX股價跌幅擴大至2.6%，報145.65美元。
-
----
-
-### 2026-07-09 02:00:28  #央行 #國際
-
-美聯儲會議紀要：美聯儲6月16日至17日會議的所有與會者均支援維持當前利率目標區間。
-
----
-
-### 2026-07-09 02:00:20  #央行 #焦點 #國際
-
-美聯儲會議紀要：少數與會者認為有理由加息，但表示他們支援在本次會議維持當前利率區間不變。
-
----
-
-### 2026-07-09 02:00:14  #央行 #焦點 #國際
-
-美聯儲：少數人認為6月FOMC會議有加息的理由。
-
----
-
-### 2026-07-09 01:59:23  #國際
-
-xAI：Grok 4.5目前尚未在歐盟上線，未接入SpaceX旗下任何xAI產品，也未開放至API控制檯；預計7月中旬在歐盟推出可用服務。
-
----
-
-### 2026-07-09 01:59:09  #其他
-
-xAI：Grok 4.5定價為每百萬輸入token 2美元，每百萬輸出token 6美元。
-
----
-
-### 2026-07-09 01:58:47  #MKT News
-
-Turkey's President Erdogan said he had previously discussed with Trump equipping Turkey's indigenous fighter jet with F110 engines and hopes there will be no obstacles.
-
----
-
-### 2026-07-09 01:58:27  #國際
-
-土耳其總統埃爾多安：我早前已與特朗普討論過為本國國產戰機配備F110噴氣發動機的事宜，希望此事不會出現問題。
-
----
-
-### 2026-07-09 01:57:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran accuses U.S. of breaching MOU on Strait of Hormuz】BAGHAEI said the U.S. violated the memorandum of understanding by questioning safe-passage arrangements for ships in the Strait of Hormuz and carrying out “aggressive attacks” on Iran. He said the MOU was not founded on mutual trust but on a “commitment-for-commitment” mechanism; Article 5 assigns Iran responsibility for drafting navigation safety arrangements for the Strait and U.S. unilateral actions challenge that clause. He added Iran will firmly defend its national interests and sovereignty.
-
----
-
-### 2026-07-09 01:57:31  #其他
-
-xAI：推出Grok 4.5。
-
----
-
-### 2026-07-09 01:56:49  #國際
-
-北約峰會落幕，特朗普離開土耳其。
-
----
-
-### 2026-07-09 01:56:24  #MKT News
-
-Erdogan says US President Trump offers help within 24 hours whenever problems arise.
-
----
-
-### 2026-07-09 01:56:11  #MKT News
-
-ERDOGAN said U.S. sanctions have not affected Turkey and that the issue does not exist.
-
----
-
-### 2026-07-09 01:56:07  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #US10Y #Impact bearish #WTI
-
-【Key market takeaways from the Federal Reserve's June minutes】Primary market focuses: whether the Fed remains hawkish on the projected interest-rate path; the Fed’s views on forward guidance — including a risk of reduced overall communication transparency — and on the balance sheet; assessments of inf, the labor market and geopolitical risk from the Middle East. Note the minutes’ lag: oil declined and market inf expectations cooled after the meeting.
-
----
-
-### 2026-07-09 01:56:05  #MKT News
-
-Turkey's President Erdogan said the United States has largely lifted defense sanctions on Turkey.
-
----
-
-### 2026-07-09 01:54:50  #國際
-
-土耳其總統埃爾多安：無論何時出現問題，特朗普都能在24小時內聯絡上。
-
----
-
-### 2026-07-09 01:54:27  #國際
-
-土耳其總統埃爾多安：土耳其並未受到美國製裁，不存在這一問題。
-
----
-
-### 2026-07-09 01:54:08  #國際
-
-【伊朗外長稱以行動回應特朗普惡言】當地時間7月8日，伊朗外長阿拉格齊就美國總統特朗普有關言論在社交媒體平臺發文表示，“（特朗普）用貶損之詞針對文明勇武的伊朗，無損伊朗之偉大。伊朗人以彬彬有禮、底蘊深厚和高尚品德著稱。我們不以粗鄙回應粗鄙，而是以行動作答：無畏無懼，充滿勇氣。”
-
----
-
-### 2026-07-09 01:54:01  #國際
-
-土耳其總統埃爾多安：美國目前已基本解除對土耳其的國防制裁。
-
----
-
-### 2026-07-09 01:53:49  #其他
-
-微軟Xbox將讓黑曜石工作室開發全新《輻射》電子遊戲。
-
----
-
-### 2026-07-09 01:53:30  #焦點 #國際
-
-【美國法官裁定特朗普向E·吉恩·卡羅爾支付500萬美元賠償金】美國紐約聯邦法官劉易斯·卡普蘭週三下達裁定，要求特朗普履行對E·吉恩·卡羅爾的賠付義務，此前陪審團已判定特朗普對她實施性侵併構成誹謗。該法官下令特朗普需賠付500萬美元判決賠償金，另加近80萬美元利息。另一起關聯案件的陪審團裁定，特朗普還需向卡羅爾額外支付8300萬美元損害賠償金，該案件目前仍處於上訴流程中。
-
----
-
-### 2026-07-09 01:52:07  #焦點 #國際
-
-美國紐約一名聯邦法官裁定，因陪審團認定特朗普對E·吉恩·卡羅爾存在性侵及誹謗行為，特朗普需向其支付500萬美元賠償金，外加近80萬美元利息。
-
----
-
-### 2026-07-09 01:50:10  #國際
-
-土耳其總統埃爾多安：特朗普對向土耳其出售F-35戰鬥機持積極態度，希望各界能看到美國信守承諾。
-
----
-
-### 2026-07-09 01:50:05  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve will release minutes from its monetary policy meeting in 10 minutes.
-
----
-
-### 2026-07-09 01:49:54  #其他
-
-土耳其總統埃爾多安：土美之間最重要的分歧之一是F-35戰機問題。
-
----
-
-### 2026-07-09 01:49:54  #MKT News
-
-Turkey's President Erdogan said one of the most important issues with the United States is the F-35 fighter jet issue.
-
----
-
-### 2026-07-09 01:49:52  #MKT News
-
-A senior US official said the US has decided to remove Syria from the list of state sponsors of terrorism; Congress will begin a 45-day review before the revocation can take effect.
-
----
-
-### 2026-07-09 01:49:28  #國際
-
-以色列自3月2日以來在黎巴嫩各地的襲擊已造成4,321人死亡，12,203人受傷。
-
----
-
-### 2026-07-09 01:48:58  #國際
-
-特朗普告知敘利亞領導人，國會目前將開展為期45天的審查，以最終敲定此事。
-
----
-
-### 2026-07-09 01:48:14  #國際
-
-特朗普告知敘利亞領導人其撤銷“支援恐怖主義國家”認定相關舉措的決定。
-
----
-
-### 2026-07-09 01:47:56  #MKT News
-
-A senior U.S. government official said the U.S. has notified congressional leaders of a decision to remove Syria from the State Sponsors of Terrorism list.
-
----
-
-### 2026-07-09 01:46:53  #國際
-
-一名美國政府高階官員表示，美國已就撤銷敘利亞“支援恐怖主義國家”認定的決定通報國會領導層。
-
----
-
-### 2026-07-09 01:45:59  #MKT News #Important #Market Themes #AI Revolution
-
-【SpaceX AI, Cursor launch Grok 4.5 targeting legal and financial sectors】SpaceX AI has released Grok 4.5, developed with AI coding startup Cursor, positioning the model to narrow the gap with Anthropic and OpenAI. Grok 4.5 is designed to handle complex, long-duration tasks across software engineering, legal and financial services and includes enhanced cybersecurity capabilities.
-
----
-
-### 2026-07-09 01:45:37  #MKT News
-
-Turkey's President Erdogan said his meeting with US President Trump was very productive and that he was highly satisfied.
-
----
-
-### 2026-07-09 01:45:31  #國際
-
-土耳其總統埃爾多安：與特朗普舉行的會談成果頗豐，特朗普對此次會晤非常滿意。
-
----
-
-### 2026-07-09 01:44:11  #其他
-
-土耳其總統埃爾多安：土耳其與希臘應依託兩國領導層溝通與外交途徑解決愛琴海爭端。
-
----
-
-### 2026-07-09 01:41:37  #其他
-
-土耳其總統埃爾多安：作為土耳其與希臘的領導人，我們的責任是解決愛琴海地區的問題。
-
----
-
-### 2026-07-09 01:39:16  #MKT News #Market Regions #Wall Street (US) #Nasdaq100 #Impact bullish
-
-Nasdaq reversed into positive territory, up 0.1% after an earlier slide of more than 1%.
-
----
-
-### 2026-07-09 01:38:37  #MKT News
-
-Turkey's President Erdogan, responding to Trump's remarks on the F-35 and how Turkey will handle Russia's S-400 air-defence system, said 'We'll see.'
-
----
-
-### 2026-07-09 01:38:00  #其他
-
-傑富瑞表示，露露樂蒙產品品類佈局有所改善。
-
----
-
-### 2026-07-09 01:37:40  #市場
-
-墨西哥沃拉里斯航空股價跌幅擴大，下跌逾7%。
-
----
-
-### 2026-07-09 01:37:34  #國際
-
-土耳其總統埃爾多安在被問及特朗普關於F-35的言論以及土耳其將如何處理俄羅斯S-400系統時表示：繼續關注我們。
-
----
-
-### 2026-07-09 01:37:16  #宏觀 #國際
-
-【美國部分新生兒父母在開設特朗普賬戶時受阻】面向兒童的新型投資專案“特朗普賬戶”(Trump Accounts)於週六正式啟動，但美國部分新生兒父母目前仍無法開戶。美國財政部發言人表示，開戶延誤主要影響的是2026年出生、且剛剛拿到新發放社會安全號碼的部分兒童。延誤的影響範圍似乎有限。
-
----
-
-### 2026-07-09 01:36:50  #MKT News
-
-ERDOGAN said Turkey has the right to buy fighter jets and defense equipment and is negotiating purchases.
 
 ---
