@@ -1,7 +1,200 @@
 {
   "date": "2026-07-15",
-  "count": 980,
+  "count": 1001,
   "items": [
+    {
+      "id": "mkt:019f6370-cda9-7aab-8d8e-3817cad21d13",
+      "time": "2026-07-15 09:42:44",
+      "tags": [
+        "MKT News",
+        "002185.SZ",
+        "Impact bearish"
+      ],
+      "text": "China A-share IC packaging and testing sector slid; Huatian Technology hit the daily down limit, while Changdian Technology, Liyang Chip, Shenghe Jingwei, Huicheng and Qipai Technology also fell."
+    },
+    {
+      "id": "4988816",
+      "time": "2026-07-15 09:42:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝板塊震盪走弱，華天科技跌停】先進封裝板塊震盪走弱，華天科技跌停，佰維儲存、長電科技、同興達、華海誠科、藍箭電子、深科技等跟跌。"
+    },
+    {
+      "id": "4988815",
+      "time": "2026-07-15 09:42:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3.02%，成分股中，沐曦股份跌10.66%，佰維儲存跌8.55%，摩爾執行緒跌6.42%，拓荊科技跌5.56%。"
+    },
+    {
+      "id": "4988814",
+      "time": "2026-07-15 09:42:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奇瑞等成立仟農企管合夥企業】企查查APP顯示，近日，安徽仟農企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理；以自有資金從事投資活動；企業管理諮詢；創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由安徽奇瑞智慧科技有限公司等共同出資。"
+    },
+    {
+      "id": "mkt:019f636f-f1b6-7aab-8d8e-30e04fc1bf68",
+      "time": "2026-07-15 09:41:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share liquid-cooled IDC sector weakened; Dayuan Pump fell to its daily limit, while Sifang Technology, Tongfei, Xiangxin Technology, Bojie, Shenling Environment and Guanghong Technology also slid."
+    },
+    {
+      "id": "4988813",
+      "time": "2026-07-15 09:41:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百誠醫藥等成立醫療科技新公司】企查查APP顯示，近日，浙江霧聖醫療科技有限公司成立，經營範圍包含：藥品批發；藥品零售；第三類醫療器械經營；藥品網際網路資訊服務等。企查查股權穿透顯示，該公司由百誠醫藥等共同持股。"
+    },
+    {
+      "id": "4988812",
+      "time": "2026-07-15 09:41:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4040美元/盎司，日內跌0.33%。"
+    },
+    {
+      "id": "te:economy:566971",
+      "time": "2026-07-15 09:41:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Housing Index",
+        "Importance 1"
+      ],
+      "text": "China New Home Prices Drop the Least in 4 Months — China’s new home prices across 70 cities fell 3.3% year-on-year in June 2026, easing from a 3.5% decline in the previous month. While marking the 36th consecutive month of annual declines, the latest result was the mildest contraction since February, suggesting that existing policy measures are helping stabilize the property market, though demand and confidence remain subdued. Among major cities, prices declined in Beijing (-2.1%, unchanged from May), Guangzhou (-2.6% vs. -3.3%), Shenzhen (-3.6% vs. -4.5%), Chongqing (-4.2% vs. -4.7%), and Tianjin (-4.6% vs. -4.7%). Meanwhile, Shanghai remained the standout performer, with home prices rising 3.1%, only slightly slower than the 3.2% increase recorded in May."
+    },
+    {
+      "id": "4988811",
+      "time": "2026-07-15 09:41:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷IDC板塊震盪走弱，大元泵業跌停】液冷IDC板塊震盪走弱，大元泵業跌停，四方科技、同飛股份、祥鑫科技、博傑股份、申菱環境、光弘科技等跟跌。"
+    },
+    {
+      "id": "mkt:019f636f-5a27-7aab-8d8e-2aaca1fb2e06",
+      "time": "2026-07-15 09:41:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,040/oz, down 0.31% intraday."
+    },
+    {
+      "id": "4988810",
+      "time": "2026-07-15 09:40:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國總統李在明：韓國股市穩定需要時間。"
+    },
+    {
+      "id": "mkt:019f636e-da6f-7aab-8d8e-23f3272588a4",
+      "time": "2026-07-15 09:40:36",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's STAR 50 Index saw losses widen to 2.0%, trading at 1,969.48 points."
+    },
+    {
+      "id": "4988809",
+      "time": "2026-07-15 09:40:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭可科技子公司杭可儀器成為安森美全球供應商】近日，杭可科技控股子公司杭可儀器成功匯入安森美全球供應鏈體系，正式成為安森美全球供應商。公司表示，此次合作標誌杭可儀器獲得國際頭部半導體企業認可，進一步拓寬海外市場版圖。"
+    },
+    {
+      "id": "4988808",
+      "time": "2026-07-15 09:40:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌0.49%。"
+    },
+    {
+      "id": "4988807",
+      "time": "2026-07-15 09:40:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "李在明稱韓國股市在短時間內大幅上漲。"
+    },
+    {
+      "id": "4988806",
+      "time": "2026-07-15 09:40:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量732億元。"
+    },
+    {
+      "id": "4988805",
+      "time": "2026-07-15 09:40:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.06%，成分股中，沐曦股份跌8.72%，佰維儲存跌7.79%，摩爾執行緒跌4.34%，瀾起科技跌4.17%。"
+    },
+    {
+      "id": "4988804",
+      "time": "2026-07-15 09:39:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【細胞免疫治療板塊走高，海南海藥漲停】細胞免疫治療板塊走高，昭衍新藥、海南海藥漲停，睿智醫藥、博瑞醫藥漲超10%，舒泰神、陽光諾和、翰宇藥業、南華生物、海特生物跟漲。"
+    },
+    {
+      "id": "4988803",
+      "time": "2026-07-15 09:39:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "加爾各答證券交易所將暫停退市申請。"
+    },
+    {
+      "id": "4988802",
+      "time": "2026-07-15 09:39:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "李在明稱韓國股市極不穩定。"
+    },
+    {
+      "id": "te:markets:566969",
+      "time": "2026-07-15 09:38:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Remains Near 7-Week High — US gasoline prices held above $3.20 per gallon, remaining near their highest level since late May, supported by growing concerns over global supply disruptions. US forces carried out new strikes against Iranian targets and reinstated a naval blockade on Iranian shipping in the Strait of Hormuz. President Donald Trump threatened additional attacks if Tehran does not return to negotiations, while also stepping back from a proposed 20% fee on shipments passing through the waterway. Supply concerns were further heightened by disruptions to Russian energy infrastructure following continued Ukrainian attacks. Russian gasoline production has fallen to around 65% of seasonal consumption levels after drone strikes disrupted operations at major refineries, including NORSI and Omsk, the country’s two largest gasoline producers. The Saratov refinery, another key supplier, also halted output. Meanwhile, US gasoline inventories declined by 1.664 million barrels in the week ending July 10."
+    },
     {
       "id": "4988801",
       "time": "2026-07-15 09:38:07",
