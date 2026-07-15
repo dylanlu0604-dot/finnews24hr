@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-15 16:52:26",
-  "count": 18704,
+  "updated": "2026-07-15 16:56:27",
+  "count": 18691,
   "items": [
+    {
+      "id": "mkt:019f64fc-705e-7aab-8d9a-fec6633276c1",
+      "time": "2026-07-15 16:54:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAX",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【ECB governing council member PANETTA says markets appear to be underestimating risks】PANETTA said multiple indicators show that since April equity markets appear to be underestimating risk. Rising energy prices, tighter financial conditions and persistent geopolitical uncertainty have only been partly priced into asset valuations. He added eurozone inflation is roughly 3% and is expected to remain above that level until early 2027."
+    },
+    {
+      "id": "mkt:019f64fb-ae81-7aab-8d9a-f172064d397f",
+      "time": "2026-07-15 16:54:03",
+      "tags": [
+        "MKT News",
+        "002185.SZ",
+        "Impact bearish"
+      ],
+      "text": "【Profit guidance +2x but shares hit limit-down; chip packaging-and-testing leader says 460 mln yuan came from equity investment gains】Huatian Technology shares hit the daily limit, closing at 23.11 yuan, implying a market value of 76.8 bln yuan; the stock ranked first on A-share discussion lists. The company said production and operations are normal and it is unaware of the cause of the price move. In response to online claims that much of 1H profit came from stock trading, the company said the roughly 460 mln yuan gain was from an investment made before the investee’s IPO and was recorded as non-recurring income."
+    },
+    {
+      "id": "4989517",
+      "time": "2026-07-15 16:54:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【業績預增2倍卻跌停！700億封測龍頭回應“炒股賺了4.6億”】華天科技跌停，股價報23.11元/股，總市值為768億元，目前該股居股吧A股人氣排行榜首位。針對此次股價變動，公司接線工作人員表示，目前公司生產經營正常，不清楚股價變動原因。針對有網友稱公司上半年大部分利潤靠“炒股”得來，前述工作人員表示：“這是我們在被投資企業沒上市之前去投的，這個公司後來上市了，它的股價漲了，產生的收益計入非經常性損益。”（21財經）"
+    },
+    {
+      "id": "4989516",
+      "time": "2026-07-15 16:53:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST聯翔：股價異常波動 業績虧損存終止上市風險】*ST聯翔公告稱，公司股票7月13日至15日連續三個交易日收盤價格跌幅偏離值累計超20%，屬異常波動。經自查，未發現應披露未披露重大資訊，目前經營正常。2025年公司營收14,161.05萬元，淨虧損1,144.88萬元，股票已於2026年4月29日被實施退市風險警示。預計2026年半年度淨虧損1500萬元至900萬元，若2026年度財務資料仍觸及退市情形，股票將終止上市。此外，3月披露的控股股東協議轉讓股份事項尚未過戶，存在不確定性。"
+    },
+    {
+      "id": "mkt:019f64fa-67ad-7aab-8d9a-ea1b8bb02727",
+      "time": "2026-07-15 16:52:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $84/bbl, down 0.66% intraday."
+    },
+    {
+      "id": "4989515",
+      "time": "2026-07-15 16:52:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7款手機端側生成式人工智慧服務已備案，階躍不在其中】7月15日，網信部門會同有關部門按照《生成式人工智慧服務管理暫行辦法》要求，有序開展生成式人工智慧服務備案工作，將新增的“Apple智慧”等7款提供手機端側生成式人工智慧服務備案資訊予以公告。階躍未在其中。7月13日晚，階躍釋出了智慧體原生作業系統Step AOS（Step Agentic-native OS）、基於Step AOS打造的智慧體階躍Amoo、以及大模型原生AI終端品牌STEPX。大模型原生智慧體手機STEPX Neo也同場亮相。（第一財經）"
+    },
+    {
+      "id": "4989514",
+      "time": "2026-07-15 16:52:13",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "阿里巴巴美股盤前漲超5%；訊息面上，阿里千問將作為AI能力整合至蘋果智慧。"
+    },
+    {
+      "id": "mkt:019f64f9-fb7d-7aab-8d9a-e24e09012a6f",
+      "time": "2026-07-15 16:52:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "Alibaba (BABA.N) shares rose over 5% in premarket trade after reports said its Qianwen AI will be integrated into Apple's Apple Intelligence platform."
+    },
+    {
+      "id": "4989513",
+      "time": "2026-07-15 16:51:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行行長：預計長期而言家庭債務壓力將有所緩解。"
+    },
     {
       "id": "4989512",
       "time": "2026-07-15 16:51:19",
@@ -171522,200 +171621,6 @@
         "Importance 1"
       ],
       "text": "Pound Slips as Oil Surge Weighs on UK Outlook — The pound eased back to $1.335, retreating from a three-week high, as rising oil prices stoked inflation concerns and boosted bets on Bank of England rate hikes, darkening the UK’s economic outlook. Brent crude climbed to a two-week high after fresh US strikes in Iran, raising doubts over the peace deal’s stability and intensifying inflationary pressures. US President Trump heightened tensions by declaring at NATO’s Ankara summit that, as far as he is concerned, the Iran ceasefire is over. Investors now fully price in a 25-basis-point BoE rate hike by year-end, up from a 75% probability before Trump’s remarks. Politically, Andy Burnham, the frontrunner to replace Keir Starmer as prime minister, has yet to appoint a finance minister, with former energy minister Ed Miliband emerging as the likely pick. Sterling’s resilience amid recent political turmoil suggests much of the negative news has already been factored in."
-    },
-    {
-      "id": "4976314",
-      "time": "2026-07-08 16:56:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方：任何為美軍事行動提供支援的來源都將是合法打擊目標】當地時間8日，伊朗武裝部隊哈塔姆·安比亞中央司令部發表宣告稱，任何為美軍對伊朗伊斯蘭共和國主權和領土發動軍事行動提供支援的來源，都將成為伊朗武裝部隊的合法打擊目標。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f40f1-18ce-7aab-8ce7-dbb2343cdab6",
-      "time": "2026-07-08 16:56:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Brent",
-        "Impact bullish",
-        "GBPUSD"
-      ],
-      "text": "【Trump says ceasefire over; UK gilt yields extend gains】UK gilt yields extended earlier gains to the highest since June 10 after US President Trump said a ceasefire with Iran had ended. The statement pushed Brent crude prices higher, raising UK inflation risk and could increase the likelihood the Bank of England raises rates in coming months."
-    },
-    {
-      "id": "4976313",
-      "time": "2026-07-08 16:56:03",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲 斯托克旅遊休閒指數下跌3%，創3月以來最大跌幅，漢莎航空下跌5.4%，國際航空集團下跌4.3%。"
-    },
-    {
-      "id": "4976312",
-      "time": "2026-07-08 16:55:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長春高新：子公司GenSci148注射液臨床試驗申請獲受理】長春高新公告，子公司長春金賽藥業有限責任公司收到國家藥品監督管理局核准簽發的《受理通知書》，GenSci148注射液的境內生產藥品註冊臨床試驗申請獲得受理。GenSci148注射液是金賽藥業自主研發的一款VEGF多重阻斷劑，擬用於治療新生血管性年齡相關性黃斑變性（nAMD）、糖尿病性黃斑水腫（DME）和視網膜靜脈阻塞（RVO）。"
-    },
-    {
-      "id": "4976311",
-      "time": "2026-07-08 16:55:45",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "烏克蘭智庫DiXi集團資料顯示，烏周度電力進口量上漲37%。"
-    },
-    {
-      "id": "4976310",
-      "time": "2026-07-08 16:55:34",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞翔整合：2026年上半年淨利潤同比預增183.41%-226.29%】亞翔整合公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為4.56億元至5.25億元，同比增長183.41%至226.29%；扣非淨利潤為4.56億元至5.24億元，同比增長184.40%至226.82%。上年同期淨利潤為1.61億元。業績預增主要因新加坡工程專案金額大、毛利率好，上期施工專案本期結算及回款好，美元對新加坡元匯率走強帶來匯兌收益。"
-    },
-    {
-      "id": "4976309",
-      "time": "2026-07-08 16:55:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆尚節能：股價異常波動 收購金勝電子存不確定性】恆尚節能公告稱，公司股票於2026年7月7 - 8日漲幅偏離值累計超20%，屬異常波動。股價自6月12日以來漲98.53%，7月8日換手率達25.54%，交易風險大。2025年淨利潤虧損3502.43萬元，2026年一季度營收2.53億元，同比降42.56%。公司擬購金勝電子100%股權，相關審計、評估未完成，交易推進週期長、不確定大，面臨審批、整合等風險，且尚未回覆上交所問詢函。"
-    },
-    {
-      "id": "4976308",
-      "time": "2026-07-08 16:55:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌4%，現報58.88美元/盎司。"
-    },
-    {
-      "id": "4976307",
-      "time": "2026-07-08 16:55:21",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普稱中東停火協議結束，英國國債收益率擴大漲幅】在美國總統特朗普表示與伊朗的停火協議已經結束後，英國國債收益率擴大了早些時候的漲幅，攀升至6月10日以來的最高水平。這一宣告推動布倫特原油價格進一步上漲，增加了通脹風險以及英國央行在未來幾個月加息的可能性。Tradeweb資料顯示，10年期英國國債收益率攀升11個基點，達到4.945%的高點。"
-    },
-    {
-      "id": "4976306",
-      "time": "2026-07-08 16:55:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：中國城市新質人才競爭力指數，京深滬穩居三甲】7月8日，北京大學城市軟實力研究院聯合智聯招聘釋出《2025中國城市新質人才競爭力指數報告》，報告顯示，京深滬穩居三甲，構成新質人才發展的第一梯隊；新一線城市對新質人才的招聘需求佔比達36.83%，位列所有城市等級首位，成為吸納新質人才的核心增量。16-34歲青年新質人才的就業偏好正從一線城市向成都、杭州、蘇州、南京等新一線及具備特色產業的城市延伸，北上廣深的人才吸引增速有所放緩。產業方面，新一代資訊科技產業需求佔比高達52.91%，佔據絕對主導地位；高階裝備與智慧製造（15.41%）和生物技術與生命科學（12.06%）緊隨其後，共同構築起招聘市場的核心支柱；高階裝備與智慧製造產業的投遞數佔比（20.23%）顯著高於崗位數佔比（15.41%）。薪酬方面，一線城市“量價齊升”，北京（17095元/月）、上海（16910元/月）、深圳（15975元/月）不僅崗位充足，平均薪資也穩居全國前三，標杆效應顯著。中西部凸顯“價效比”，部分中西部樞紐城市（如成都、西安）呈現“需求大薪資低”的錯配現象，但由於其房價和生活成本遠低於一線城市，較低的薪酬仍具備較高的實際購買力。"
-    },
-    {
-      "id": "mkt:019f40f0-1e4a-7aab-8ce7-d1b9242e87ba",
-      "time": "2026-07-08 16:55:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President PEZESHKIAN said the United States, whether as World Cup host or in its foreign policy, manipulates the rules and resorts to deception, and that Iran rejects such tactics."
-    },
-    {
-      "id": "4976305",
-      "time": "2026-07-08 16:54:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：美國無論作為世界盃主辦國，還是在外交政策上，都肆意曲解規則、投機取巧。伊朗絕不接受這套把戲。"
-    },
-    {
-      "id": "4976304",
-      "time": "2026-07-08 16:54:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【眾安線上增資至16.8億】天眼查App顯示，7月6日，眾安線上發生工商變更，註冊資本由約14.7億人民幣增至約16.85億人民幣。該公司成立於2013年10月，法定代表人為尹海，經營範圍包括與網際網路交易直接相關的企業 / 家庭財產保險、貨運保險、責任保險、信用保證保險、短期健康/意外傷害保險；機動車保險，包括機動車交通事故責任強制保險和機動車商業保險等。"
-    },
-    {
-      "id": "4976303",
-      "time": "2026-07-08 16:54:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數下跌3%，報180757.20點。"
-    },
-    {
-      "id": "4976302",
-      "time": "2026-07-08 16:54:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【山煤國際：曹俊文辭任副總經理，聘任閆俊傑為副總經理】山煤國際7月8日公告，公司董事會於2026年7月7日收到副總經理曹俊文提交的書面辭職申請，曹俊文因工作變動原因申請辭去公司副總經理職務，辭職後將不再擔任公司任何職務，辭職申請自送達公司董事會之日起生效。公司於2026年7月8日召開第九屆董事會第二次會議，審議透過了聘任閆俊傑為公司副總經理的議案，任期自公司第九屆董事會第二次會議審議透過之日至本屆董事會任期屆滿。"
-    },
-    {
-      "id": "te:economy:565207",
-      "time": "2026-07-08 16:54:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Angola",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Angola Inflation Rate Falls for 23rd Month — The annual inflation rate in Angola continued to decelerate to 10.11% in June 2026 from 10.88% in May, marking the lowest since June 2015 and the 23rd consecutive month of slowdown. The stabilization of the kwanza has been cited as the main moderating factor. Prices slowed down for most CPI categories, including food & non-alcoholic beverages (10.73% vs 11.33% in May); housing & utilities (11.14% vs 14.32%); transportation (15.40% vs 15.73%); alcoholic beverages & tobacco (8.64% vs 9.22%); clothing & footwear (6.59% vs 7.39%). On a monthly basis, the CPI rose by 0.52% in June, little changed from the 0.53% increase recorded in May."
-    },
-    {
-      "id": "4976301",
-      "time": "2026-07-08 16:54:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【紅日藥業：終止抗丙肝一類化藥新藥專案研發】紅日藥業公告，公司於2026年7月8日召開董事會，決定終止抗丙肝一類化藥新藥專案研發。該專案處於IND申報前的研究階段，因化合物開發風險大及當前治療方案已更新，繼續研發無臨床意義。終止後，公司將聚焦優勢專案，最佳化研發管線，不會對正常經營及財務狀況產生重大影響。"
-    },
-    {
-      "id": "4976300",
-      "time": "2026-07-08 16:53:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿里達摩院具身智慧平臺獲聯合國AI for Good優秀案例獎】當地時間7月7日，聯合國AI for Good（人工智慧向善）全球峰會在瑞士日內瓦召開，阿里達摩院兩項AI成果入選AI for Good創新影響力案例集並獲優秀案例獎：樂雲具身智慧平臺RynnBot與超導材料發現AI智慧體ElementsClaw。此外，阿里達摩院同中國人民大學合作研發的超導材料發現AI智慧體ElementsClaw也入選了AI for Good案例集。目前，相關資料庫已全部開放，科研人員可免費使用。"
-    },
-    {
-      "id": "4976299",
-      "time": "2026-07-08 16:52:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【比亞迪高管談新能源車能否涉水】7月8日，比亞迪股份有限公司執行副總裁何志奇發文談“新能源車能不能涉水”這一問題。他表示：純電動車沒有發動機進排氣管，理論上涉水能力優於燃油車。但有個前提，電池包的密封等級要過關。但也得跟大家交個底，不是有這防護就能往深水裡衝。積水沒過半個輪胎、看不清路面深淺的地方，能繞就繞，別硬闖。安全永遠是第一位的。"
-    },
-    {
-      "id": "4976298",
-      "time": "2026-07-08 16:52:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福晶科技：董事長陳輝因達法定退休年齡辭職】福晶科技公告，董事長陳輝先生因達到法定退休年齡，申請辭去公司第七屆董事會董事長、董事、戰略委員會相關職務及公司下屬參控股公司董事職務。陳輝先生持有公司股份261.16萬股。公司第七屆董事會第十次會議選舉張戈先生為新任董事長，任期至第七屆董事會任期屆滿。同時，經控股股東推薦，董事會同意提名林恆豐先生為第七屆董事會董事候選人。"
-    },
-    {
-      "id": "4976297",
-      "time": "2026-07-08 16:52:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "香港交易所宣佈，立訊精密的每週及每月期權將於2026年7月9日立訊精密股份上市日同日推出。"
-    },
-    {
-      "id": "4976296",
-      "time": "2026-07-08 16:52:35",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【特朗普稱希望終止與西班牙的貿易後，西班牙股市下跌】在美國總統特朗普表示他認為美伊停火協議已經結束，並且他希望不再與該國進行貿易之後，西班牙IBEX 35指數大幅下跌。該指數下跌2.2%。“我們不想再與西班牙做任何貿易生意了，”特朗普在土耳其安卡拉舉行的新聞釋出會上說。“我不想和西班牙有任何瓜葛。請切斷與西班牙的所有貿易。”在馬德里上市的銀行大幅下跌，桑坦德銀行和西班牙對外銀行分別下跌4.2%和2.9%。在美國擁有大量業務的建築集團Acerinox下跌4.6%。石油巨頭睿爍能源上漲4.7%，略微緩解了該指數的跌幅；在特朗普對停火發表評論後，油價飆升，睿爍能源從中受益。"
     }
   ]
 }

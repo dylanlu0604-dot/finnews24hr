@@ -1,7 +1,106 @@
 {
   "date": "2026-07-15",
-  "count": 2163,
+  "count": 2172,
   "items": [
+    {
+      "id": "mkt:019f64fc-705e-7aab-8d9a-fec6633276c1",
+      "time": "2026-07-15 16:54:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "DAX",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【ECB governing council member PANETTA says markets appear to be underestimating risks】PANETTA said multiple indicators show that since April equity markets appear to be underestimating risk. Rising energy prices, tighter financial conditions and persistent geopolitical uncertainty have only been partly priced into asset valuations. He added eurozone inflation is roughly 3% and is expected to remain above that level until early 2027."
+    },
+    {
+      "id": "mkt:019f64fb-ae81-7aab-8d9a-f172064d397f",
+      "time": "2026-07-15 16:54:03",
+      "tags": [
+        "MKT News",
+        "002185.SZ",
+        "Impact bearish"
+      ],
+      "text": "【Profit guidance +2x but shares hit limit-down; chip packaging-and-testing leader says 460 mln yuan came from equity investment gains】Huatian Technology shares hit the daily limit, closing at 23.11 yuan, implying a market value of 76.8 bln yuan; the stock ranked first on A-share discussion lists. The company said production and operations are normal and it is unaware of the cause of the price move. In response to online claims that much of 1H profit came from stock trading, the company said the roughly 460 mln yuan gain was from an investment made before the investee’s IPO and was recorded as non-recurring income."
+    },
+    {
+      "id": "4989517",
+      "time": "2026-07-15 16:54:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【業績預增2倍卻跌停！700億封測龍頭回應“炒股賺了4.6億”】華天科技跌停，股價報23.11元/股，總市值為768億元，目前該股居股吧A股人氣排行榜首位。針對此次股價變動，公司接線工作人員表示，目前公司生產經營正常，不清楚股價變動原因。針對有網友稱公司上半年大部分利潤靠“炒股”得來，前述工作人員表示：“這是我們在被投資企業沒上市之前去投的，這個公司後來上市了，它的股價漲了，產生的收益計入非經常性損益。”（21財經）"
+    },
+    {
+      "id": "4989516",
+      "time": "2026-07-15 16:53:21",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【*ST聯翔：股價異常波動 業績虧損存終止上市風險】*ST聯翔公告稱，公司股票7月13日至15日連續三個交易日收盤價格跌幅偏離值累計超20%，屬異常波動。經自查，未發現應披露未披露重大資訊，目前經營正常。2025年公司營收14,161.05萬元，淨虧損1,144.88萬元，股票已於2026年4月29日被實施退市風險警示。預計2026年半年度淨虧損1500萬元至900萬元，若2026年度財務資料仍觸及退市情形，股票將終止上市。此外，3月披露的控股股東協議轉讓股份事項尚未過戶，存在不確定性。"
+    },
+    {
+      "id": "mkt:019f64fa-67ad-7aab-8d9a-ea1b8bb02727",
+      "time": "2026-07-15 16:52:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "Brent crude fell below $84/bbl, down 0.66% intraday."
+    },
+    {
+      "id": "4989515",
+      "time": "2026-07-15 16:52:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7款手機端側生成式人工智慧服務已備案，階躍不在其中】7月15日，網信部門會同有關部門按照《生成式人工智慧服務管理暫行辦法》要求，有序開展生成式人工智慧服務備案工作，將新增的“Apple智慧”等7款提供手機端側生成式人工智慧服務備案資訊予以公告。階躍未在其中。7月13日晚，階躍釋出了智慧體原生作業系統Step AOS（Step Agentic-native OS）、基於Step AOS打造的智慧體階躍Amoo、以及大模型原生AI終端品牌STEPX。大模型原生智慧體手機STEPX Neo也同場亮相。（第一財經）"
+    },
+    {
+      "id": "4989514",
+      "time": "2026-07-15 16:52:13",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "阿里巴巴美股盤前漲超5%；訊息面上，阿里千問將作為AI能力整合至蘋果智慧。"
+    },
+    {
+      "id": "mkt:019f64f9-fb7d-7aab-8d9a-e24e09012a6f",
+      "time": "2026-07-15 16:52:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "Apple",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "Alibaba (BABA.N) shares rose over 5% in premarket trade after reports said its Qianwen AI will be integrated into Apple's Apple Intelligence platform."
+    },
+    {
+      "id": "4989513",
+      "time": "2026-07-15 16:51:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "泰國央行行長：預計長期而言家庭債務壓力將有所緩解。"
+    },
     {
       "id": "4989512",
       "time": "2026-07-15 16:51:19",
