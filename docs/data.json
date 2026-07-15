@@ -1,7 +1,205 @@
 {
-  "updated": "2026-07-15 21:01:49",
-  "count": 18699,
+  "updated": "2026-07-15 21:05:56",
+  "count": 18698,
   "items": [
+    {
+      "id": "4990085",
+      "time": "2026-07-15 21:05:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4080美元/盎司，日內漲0.25%。"
+    },
+    {
+      "id": "4990084",
+      "time": "2026-07-15 21:05:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員威廉姆斯：美國新增企業數量大幅激增。"
+    },
+    {
+      "id": "4990083",
+      "time": "2026-07-15 21:04:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沃華醫藥：2026年上半年淨利潤6756.63萬元，同比增長51.23%】沃華醫藥公告，2026年上半年營業收入3.93億元，同比下降7.53%。淨利潤6756.63萬元，同比增長51.23%。公司經本次董事會審議透過的利潤分配預案為：以5.77億為基數，向全體股東每10股派發現金紅利1.17元（含稅），送紅股0股（含稅），不以公積金轉增股本。"
+    },
+    {
+      "id": "4990082",
+      "time": "2026-07-15 21:04:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL科技：深交所併購重組委擬稽核公司收購股權事項】TCL科技公告稱，公司擬發行股份及支付現金購買廣東恆健投資等合計持有的廣州華星光電半導體顯示技術有限公司45.00%股權。深交所併購重組稽核委員會擬於近期稽核該交易事項，具體會議時間待確定後另行公告。本次交易尚需透過深交所稽核並獲證監會同意註冊批覆，最終能否透過稽核及時間仍存不確定性。"
+    },
+    {
+      "id": "4990081",
+      "time": "2026-07-15 21:04:18",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲威廉姆斯：通脹率過高但可能已見頂 勞動力市場表現穩健】美聯儲威廉姆斯表示，目前通脹率居高不下，美聯儲必須確保通脹率持續回落至2.0%的目標水平，而當前的貨幣政策立場處於適宜狀態。不過，他認為有令人鼓舞的跡象表明通脹可能已經見頂，並預計未來幾個季度通脹將逐步回落：到今年年底降至3.25%，隨後向2.0%的目標靠攏，最終在2028年實現該目標。威廉姆斯預計，今年及未來兩年實際GDP增長率將保持在2.0%至2.25%之間。他預計失業率將小幅回落至4.0%左右，並指出勞動力市場展現出了韌性與穩定性。"
+    },
+    {
+      "id": "4990080",
+      "time": "2026-07-15 21:03:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：一架以色列無人機向加沙地帶中部布賴傑難民營東部開火。"
+    },
+    {
+      "id": "4990079",
+      "time": "2026-07-15 21:03:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用磨坊、ADM與沃爾瑪展開合作，在中西部4萬英畝小麥種植區推進再生農業發展。"
+    },
+    {
+      "id": "mkt:019f65e0-1fb3-7aab-8da4-02a4a4c291de",
+      "time": "2026-07-15 21:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Israeli drone fired on the eastern part of the Bureij refugee camp in the central Gaza Strip."
+    },
+    {
+      "id": "mkt:019f65e0-0dd2-7aab-8da3-ff92edfb1488",
+      "time": "2026-07-15 21:03:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【Williams: Inflation still high but may have peaked; labor market steady】Fed's Williams said inflation remains elevated and the Fed must ensure a sustained decline to the 2.0% target, while current monetary policy is appropriately set. He sees signs inflation may have peaked and expects it to fall gradually over the next few quarters to about 3.25% by year-end, then move toward 2.0%, reaching the target by 2028. Williams projects real GDP growth around 2.0–2.25% this year and over the next two years, and expects the unemployment rate to edge down to roughly 4.0%, noting the labor market is resilient and stable."
+    },
+    {
+      "id": "4990078",
+      "time": "2026-07-15 21:02:54",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根士丹利股票交易業務創紀錄 加入華爾街大行“豐收季”】摩根士丹利股票交易業務收入再次重新整理季度紀錄，大幅超出華爾街預期。在市場表現強勁、波動持續的推動下，華爾街各大銀行第二財季股票交易業務普遍迎來豐收。根據摩根士丹利週三釋出的宣告，公司當季股票交易收入達63億美元，增長69%，打破了第一財季創下的歷史最高紀錄。此外，其備受關注的財富管理業務實現1481億美元淨新增資產，遠高於分析師預期。摩根士丹利的業績也為美國大型銀行第二財季財報季畫上句號。當季堪稱華爾街的“豐收季”，摩根大通、高盛、美國銀行和花旗集團的股票交易收入均超過市場預期，並創下歷史新高。"
+    },
+    {
+      "id": "4990077",
+      "time": "2026-07-15 21:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "空中客車表示，其與泰雷茲及GreenerWave組成的聯合體已從法國國防採購局獲得一份衛星終端框架協議。"
+    },
+    {
+      "id": "4990076",
+      "time": "2026-07-15 21:02:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國就合規支付體系收費制度開展公眾諮詢。"
+    },
+    {
+      "id": "4990075",
+      "time": "2026-07-15 21:01:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "波蘭財政部：截至6月底，波蘭外匯賬戶餘額規模相當於232億歐元。"
+    },
+    {
+      "id": "4990074",
+      "time": "2026-07-15 21:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "3M：將在客服、財務、銷售與營銷領域部署微軟人工智慧技術。"
+    },
+    {
+      "id": "mkt:019f65de-7601-7aab-8da3-f67901f1704d",
+      "time": "2026-07-15 21:01:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's Finance Ministry said the foreign exchange account balance was €23.2 billion at end-June."
+    },
+    {
+      "id": "4990073",
+      "time": "2026-07-15 21:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "3M：將運用微軟人工智慧及數字化能力開展企業轉型。"
+    },
+    {
+      "id": "mkt:019f65de-43fd-7aab-8da3-ed2fe3865c90",
+      "time": "2026-07-15 21:01:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MMM.O",
+        "Impact bullish",
+        "MSFT.O"
+      ],
+      "text": "3M and Microsoft announce a strategic partnership to accelerate AI data-center infrastructure deployment and enterprise transformation."
+    },
+    {
+      "id": "4990072",
+      "time": "2026-07-15 21:01:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "3M 公司與微軟宣佈達成合作。"
+    },
+    {
+      "id": "4990071",
+      "time": "2026-07-15 21:01:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST嶺南：截至7月14日新增訴訟、仲裁涉案金額1.96億元】*ST嶺南公告稱，截至2026年7月14日，公司及控股子公司連續十二個月內新增尚未披露的訴訟、仲裁事項涉案金額合計約1.96億元，佔公司最近一期經審計歸屬於母公司淨資產絕對值的14.53%。公司及控股子公司作為被告、第三人涉及全部涉案金額。部分案件處於未開庭、未出判決結果或判決未生效階段，對公司利潤影響不確定，公司將依規處理並披露。"
+    },
+    {
+      "id": "4990070",
+      "time": "2026-07-15 21:01:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【實驗猴帶動聯想式炒作 公司回應經營正常】A股又現聯想式炒作，昭衍新藥業績引爆“猴概念”，宏輝果蔬漲停、峨眉山A盤中也一度大漲超7%。作為國內非臨床CRO龍頭，昭衍新藥手中的實驗猴資源隨著新藥研發需求攀升而愈發緊俏。市場訊息顯示，部分實驗猴價格已接近每隻20萬元，供需緊張局面仍未完全緩解。業績利好本應止步於產業鏈上下游，但市場情緒卻順勢腦洞大開，把這一邏輯無限延伸。宏輝果蔬15日強勢漲停，有網友給出的解釋是“宏輝果蔬賣香蕉，香蕉是猴子的上游”；峨眉山A盤中同樣直線拉昇，理由則是“峨眉山上猴子多”。這種以諧音、聯想甚至段子為依據的炒作路徑，與此前“炒名字、炒程式碼、炒生肖”的現象高度相似。針對股價異動，宏輝果蔬方面15日下午表示，公司關注到股價波動主要受二級市場整體交易因素影響，目前公司經營正常，相關資訊均以法定披露公告為準。這一回應雖措辭審慎，但也從側面印證了此次上漲與公司主業並無直接關聯。（證券時報）"
+    },
+    {
+      "id": "4990069",
+      "time": "2026-07-15 21:00:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "俄羅斯央行表示，1月至5月經常賬戶順差為270億美元。"
+    },
+    {
+      "id": "4990068",
+      "time": "2026-07-15 21:00:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通公佈2026財年第三季度財報釋出及電話會議日程安排。"
+    },
     {
       "id": "mkt:019f65dd-45e0-7aab-8da3-e1aef37a94f4",
       "time": "2026-07-15 21:00:27",
@@ -134,6 +332,15 @@
         "The Fed (FOMC)"
       ],
       "text": "Fed's Williams said not to get too excited about a single data point."
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807703414",
+      "time": "2026-07-15 20:58:44",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲威廉姆斯：能源價格通脹面臨的下行風險有所降低】美聯儲威廉姆斯表示，能源價格通脹面臨的下行風險有所降低。最新通脹資料令人安心。"
     },
     {
       "id": "4990060",
@@ -171678,244 +171885,6 @@
         "其他"
       ],
       "text": "阿洛特拉療法（Allotera Therapeutics）：C輪融資獲新增資本注入後，累計融資總額達1.5億美元。"
-    },
-    {
-      "id": "4976922",
-      "time": "2026-07-08 21:05:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬克龍：伊朗的襲擊違反了臨時協議，伊朗此舉是錯誤的。"
-    },
-    {
-      "id": "mkt:019f41d5-49e7-7aab-8cef-dd336bfa9048",
-      "time": "2026-07-08 21:05:24",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "French President Macron said Iran's attack violated the ceasefire agreement."
-    },
-    {
-      "id": "4976921",
-      "time": "2026-07-08 21:05:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談烏克蘭戰爭：將討論授予烏方“愛國者”導彈製造權。"
-    },
-    {
-      "id": "mkt:019f41d5-1bce-7aab-8cef-d1139109b9b9",
-      "time": "2026-07-08 21:05:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "Treasury Yields",
-        "WTI",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "【US-Iran escalation triggers tech valuation reset】US-Iran tensions have become a catalyst for tech valuation compression. The recent AI Capex-driven rally depended on low-rate liquidity and discounted long-term cashflows; escalating tensions that raise inf upside risks have prompted a bear-steepening of the long-end US Treasury curve, lifting equity cost of capital for growth/tech. Global macro hedge funds are rapidly rebalancing—selling growth/tech and buying defensives—rotating capital into hard assets poised to benefit from higher oil prices and increased defense spending."
-    },
-    {
-      "id": "mkt:019f41d4-e120-7aab-8cef-cb865f6ff850",
-      "time": "2026-07-08 21:04:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said Iran has been completely eliminated."
-    },
-    {
-      "id": "4976920",
-      "time": "2026-07-08 21:04:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：伊朗已被徹底消滅。"
-    },
-    {
-      "id": "4976919",
-      "time": "2026-07-08 21:04:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韋德布什：伺服器CPU持續短缺，英特爾若再提價料不影響市場需求】針對英特爾調高晶片售價的訊息，美國投行韋德布什證券（Wedbush Securities）7月8日最新報告指出，英特爾在本季度即便再次調高CPU價格，也有望在不影響市場需求的情況下順利推進。韋德布什分析師馬特·布賴森在給客戶的報告中寫道：“鑑於伺服器CPU（特別是特定型號）的持續短缺，我們認為英特爾有提升價格的空間，且不會對需求產生負面影響。”但他同時指出，目前的疑問在於OEM（原始裝置製造商）的實際採購價是否也同步出現了類似官方目錄價的變動，還是說英特爾僅調整了分銷和零售渠道的價格，而後者在英特爾整體業務中佔比要小得多。受此影響，英特爾股價在美東時間週三盤前下跌2.7%。"
-    },
-    {
-      "id": "mkt:019f41d4-b15a-7aab-8cef-c2b464517c26",
-      "time": "2026-07-08 21:04:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "The Information reports Tesla's robotaxi program is testing a new rapid-expansion plan."
-    },
-    {
-      "id": "mkt:019f41d3-dc2f-7aab-8cef-ba8c637d98d4",
-      "time": "2026-07-08 21:03:51",
-      "tags": [
-        "MKT News",
-        "RTX"
-      ],
-      "text": "President Trump said he will discuss the Patriot air‑defense system in relation to Ukraine."
-    },
-    {
-      "id": "mkt:019f41d3-b2fc-7aab-8cef-b14fb6eeaa5c",
-      "time": "2026-07-08 21:03:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he believes Russian President Putin wants to resolve this matter as soon as possible."
-    },
-    {
-      "id": "4976918",
-      "time": "2026-07-08 21:03:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭戰爭：將討論愛國者防空導彈攔截系統相關事宜。"
-    },
-    {
-      "id": "4976917",
-      "time": "2026-07-08 21:03:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【IMF下調世界經濟增長預期 上調中國增長預期】國際貨幣基金組織（IMF）8日釋出《世界經濟展望報告》更新內容，小幅下調今年世界經濟增長預期，同時上調中國經濟增長預期至4.6%。 IMF預計，2026年世界經濟將增長3%，比4月預測值低0.1個百分點。這是IMF繼今年4月下調0.2個百分點後，再次下調今年世界經濟增長預期。IMF表示，此次下調反映了中東戰事帶來的衝擊，但得益於人工智慧的發展和應用，全球科技領域由需求驅動的增長正在加速，部分抵消了戰事負面影響。 IMF認為，當前世界經濟下行風險依然明顯。地緣政治緊張局勢再度升級的可能性仍存，如果戰事再次爆發，將加劇商品價格波動、進一步威脅供應鏈安全、推升通脹並拖累金融環境。不過，如果霍爾木茲海峽航運恢復比預期順利，大宗商品價格漲幅低於預期，經濟增速可能高於預期。（新華社）"
-    },
-    {
-      "id": "4976916",
-      "time": "2026-07-08 21:03:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲4%，現報3154.00元。"
-    },
-    {
-      "id": "4976915",
-      "time": "2026-07-08 21:03:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲4%，現報4064.00元。"
-    },
-    {
-      "id": "mkt:019f41d3-04ef-7aab-8cef-a9e92511e3bf",
-      "time": "2026-07-08 21:02:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the US has interests in Ukraine, including mineral resources."
-    },
-    {
-      "id": "mkt:019f41d2-bd31-7aab-8cef-a029f672c26a",
-      "time": "2026-07-08 21:02:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Ukraine has substantial potential."
-    },
-    {
-      "id": "4976914",
-      "time": "2026-07-08 21:02:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普吹噓烏克蘭的礦產資源。"
-    },
-    {
-      "id": "4976913",
-      "time": "2026-07-08 21:02:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及烏克蘭：烏克蘭擁有巨大潛力。"
-    },
-    {
-      "id": "4976912",
-      "time": "2026-07-08 21:02:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【IMF上調中國今年經濟增長預期】美國東部時間8日上午9時（北京時間8日21時），國際貨幣基金組織（IMF）釋出最新一期《世界經濟展望報告》。報告中，IMF將今年中國經濟增長預期上調了0.2個百分點，預計今年中國經濟增速為4.6%。IMF表示，此次上調主要得益於中國在公共基礎設施投資、高科技製造業以及出口領域的良好表現。 此外，IMF預計今年全球經濟增速為3.0%，相較今年4月的預測值下調了0.1個百分點，預計2027年全球經濟增速為3.4%，相較4月的預測值上調了0.2個百分點。IMF表示，目前全球經濟活動和前景正受到兩大核心因素影響，一方面，中東衝突持續引發的能源供給衝擊，對全球經濟形成負面衝擊；另一方面，人工智慧技術的發展和應用，持續提振全球科技週期活力，成為經濟增長的重要支撐。整體來看，全球經濟展現出較強韌性，抵禦衝擊的表現好於預期，大宗商品價格波動、通脹預期以及金融市場連鎖傳導效應整體可控、影響相對有限。通脹方面，IMF預計，全球總體通脹率預計將從2025年的4.1%升至2026年的4.7%，隨後在2027年降至3.9%。與4月的預測相比，資料均略有上調。（央視財經）"
-    },
-    {
-      "id": "mkt:019f41d2-79b2-7aab-8cef-99b3d6cbebaf",
-      "time": "2026-07-08 21:02:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says may strike Iran again tonight】US President Trump said he may strike Iran again tonight and will monitor developments before deciding. He said Iranian behavior was extremely bad and that the US struck Iran after Iranian attacks on ships in the Strait of Hormuz. He added any US strikes are aimed at preventing Iran from acquiring nuclear weapons, not regime change, and reiterated that Iran must not obtain nuclear weapons."
-    },
-    {
-      "id": "mkt:019f41d2-6b49-7aab-8cef-90edf70bc555",
-      "time": "2026-07-08 21:02:16",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "IMF now forecasts global trade growth of 3.5% in 2026, up from its April forecast of 2.8%; it projects 4.3% growth in 2027, versus 3.8% previously."
-    },
-    {
-      "id": "mkt:019f41d2-4151-7aab-8cef-8977913c96aa",
-      "time": "2026-07-08 21:02:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CSI300",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "IMF lowers 2026 growth forecast for emerging markets and developing economies to 3.8% from 3.9%; raises 2027 forecast by 0.3 percentage point to 4.5%."
-    },
-    {
-      "id": "mkt:019f41d2-3d74-7aab-8cef-82dcd48aacd9",
-      "time": "2026-07-08 21:02:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF raised its 2026 global inflation forecast to 4.7% from 4.4% in April; projects 2027 inflation at 3.9%, up from 3.7%."
-    },
-    {
-      "id": "4976911",
-      "time": "2026-07-08 21:02:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報2508.00元。"
     }
   ]
 }
