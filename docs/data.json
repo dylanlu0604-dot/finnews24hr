@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-15 20:20:17",
-  "count": 18638,
+  "updated": "2026-07-15 20:24:23",
+  "count": 18637,
   "items": [
+    {
+      "id": "4989987",
+      "time": "2026-07-15 20:23:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "7月15日，印度國內基金淨買入印度股票70.5億印度盧比。全球基金淨賣出73.6億印度盧比的印度股票。"
+    },
+    {
+      "id": "4989986",
+      "time": "2026-07-15 20:22:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安集科技：部分董事及高管減持股份，楊遜提前終止減持計劃】安集科技公告稱，截至2026年6月4日，董事長Shumin Wang（王淑敏）等5位董事及高管擬減持公司股份，減持期間為6月26日至7月15日。7月15日，Shumin Wang（王淑敏）、Zhang Ming（張明）、Yuchun Wang（王雨春）及劉榮已完成減持，分別減持29,146股、43,609股、26,000股、4,600股，減持金額分別為812.47萬元、1215.64萬元、724.78萬元、129.27萬元；楊遜提前終止減持計劃，未減持股份。"
+    },
+    {
+      "id": "mkt:019f65b9-c35a-7aab-8da1-1c7b83946b05",
+      "time": "2026-07-15 20:21:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BlackRock says private credit presents sizable opportunities."
+    },
+    {
+      "id": "mkt:019f65b8-5d75-7aab-8da1-1172779ce606",
+      "time": "2026-07-15 20:20:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "US President Trump said Iran has largely exhausted its \"best missiles\" at this stage, and that over the past four to five days it launched many missiles, almost all of which were shot down."
+    },
+    {
+      "id": "mkt:019f65b8-5416-7aab-8da1-0dbef2998d53",
+      "time": "2026-07-15 20:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US July New York Fed manufacturing index, US June PPI MoM and YoY, and Canada May wholesale sales MoM due in 10 minutes."
+    },
     {
       "id": "mkt:019f65b8-0aba-7aab-8da1-01b9d9e956ac",
       "time": "2026-07-15 20:19:47",
@@ -171117,55 +171169,6 @@
         "國際"
       ],
       "text": "市場訊息：烏克蘭總統於安卡拉北約峰會期間，與丹麥、愛沙尼亞、荷蘭敲定三份以無人機技術為核心的防務合作協議。"
-    },
-    {
-      "id": "4976834",
-      "time": "2026-07-08 20:23:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "交易商稱，約旦在招標中採購約6萬噸飼料大麥。"
-    },
-    {
-      "id": "4976833",
-      "time": "2026-07-08 20:23:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "蘋果CEO庫克：很榮幸與博通擴大合作，簽署全新協議，在美國增產數十億枚晶片！這是我們有史以來規模最大的美國製造專案承諾，也是我們在美國搭建全流程半導體供應鏈程序中的重要一步。"
-    },
-    {
-      "id": "4976832",
-      "time": "2026-07-08 20:22:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行資管部門計劃更名，以吸引大型客戶。"
-    },
-    {
-      "id": "4976831",
-      "time": "2026-07-08 20:22:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：卡達投資局參與Sambanova十億美元融資專案。"
-    },
-    {
-      "id": "mkt:019f41ac-081a-7aab-8cee-082c39a3bef1",
-      "time": "2026-07-08 20:20:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New York cocoa futures rose above $6,000/tonne, the highest level since January."
-    },
-    {
-      "id": "4976830",
-      "time": "2026-07-08 20:20:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約可可期貨突破每噸 6000 美元，創今年 1 月以來新高。"
     }
   ]
 }
