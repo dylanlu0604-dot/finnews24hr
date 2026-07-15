@@ -1,7 +1,43 @@
 {
   "date": "2026-07-16",
-  "count": 45,
+  "count": 49,
   "items": [
+    {
+      "id": "4990511",
+      "time": "2026-07-16 00:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：凱西・霍楚州長出於政治考量，叫停了紐約州所有在建及規劃建設的資料中心專案。"
+    },
+    {
+      "id": "mkt:019f66a6-25c5-7aab-8dac-5015311e7c43",
+      "time": "2026-07-16 00:39:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian forces used \"Geran-4\" drones to strike a cargo ship at the port of Chornomorsk in Odesa region and Ukrainian vessels in the Dnipro-Buh estuary."
+    },
+    {
+      "id": "mkt:019f66a4-0ad4-7aab-8dac-493e1c54435c",
+      "time": "2026-07-16 00:37:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: a BP spokesperson said the company plans to close its BP Ventures team."
+    },
+    {
+      "id": "4990509",
+      "time": "2026-07-16 00:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯稱已打擊烏克蘭喬爾諾莫斯克港內船隻。"
+    },
     {
       "id": "4990508",
       "time": "2026-07-16 00:36:36",
