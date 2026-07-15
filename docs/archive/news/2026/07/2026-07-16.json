@@ -1,7 +1,45 @@
 {
   "date": "2026-07-16",
-  "count": 312,
+  "count": 316,
   "items": [
+    {
+      "id": "mkt:019f6753-1854-7aab-8daf-e656ae79625b",
+      "time": "2026-07-16 03:48:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【US media: Trump leans toward expanded military action vs Iran; options include seizing Kharg Island】The Wall Street Journal reports U.S. officials say President Trump, after several briefings with senior aides, is leaning toward expanding military action against Iran. Options under consideration include intensified airstrikes, deploying ground forces to seize Iran’s Kharg Island and other positions along the Strait of Hormuz, and bombing a hardened site on Piksa Mountain suspected of being used for covert nuclear work. Officials say U.S. strikes could also target additional Iranian sites, including energy infrastructure. Trump has not made a final decision and has said privately and publicly he prefers a diplomatic solution; some officials say he is reluctant to send ground troops."
+    },
+    {
+      "id": "4990681",
+      "time": "2026-07-16 03:47:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國鑄幣局即將開始生產一款刻有特朗普肖像的1美元硬幣。"
+    },
+    {
+      "id": "4990680",
+      "time": "2026-07-16 03:46:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與委內瑞拉領導人關係良好。"
+    },
+    {
+      "id": "4990679",
+      "time": "2026-07-16 03:46:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普傾向擴大美國對伊朗軍事行動，方案含出動地面部隊、轟炸秘密核設施】特朗普週二在白宮戰情室召開會議，研討三項衝突升級方案：1. 派遣美軍攻佔哈爾克島（伊朗核心石油出口樞紐）；2. 轟炸鎬山——一處與核活動相關、防禦工事極其堅固的隧道群，美方此前從未打擊該目標；3. 擴大空襲範圍，將能源設施納入打擊目標。特朗普尚未作出最終決定。關於鎬山：隧道群開鑿於花崗岩山體之下，深度達300至475英尺，美軍現有鑽地彈或難以擊穿。"
+    },
     {
       "id": "4990678",
       "time": "2026-07-16 03:45:41",
