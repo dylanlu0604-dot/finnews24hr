@@ -1,7 +1,27 @@
 {
   "date": "2026-07-15",
-  "count": 2662,
+  "count": 2664,
   "items": [
+    {
+      "id": "te:economy:567196",
+      "time": "2026-07-15 19:06:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US 30-Year Mortgage Rates Surge, Matching May Peak — The average US 30-year fixed mortgage rate for loans of up to $806,500 rose to 6.65% in the week ending July 10, 2026, from 6.58% a week earlier, matching the nine-month high reached in May, according to the Mortgage Bankers Association. The increase reflects a recent rise in US Treasury yields, fueled by persistent inflation concerns and growing expectations that the Federal Reserve could raise interest rates later this year, even as the labor market continues to show signs of gradual cooling. Higher borrowing costs weighed on mortgage demand, with total applications falling 2.7%, a second consecutive weekly decline. Purchase applications dropped 7.3%, signaling softer homebuying activity, while refinancing applications increased 3.5% as some homeowners took advantage of recent market movements."
+    },
+    {
+      "id": "4989853",
+      "time": "2026-07-15 19:04:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默：不會給伯納姆提供建議，只會全力支援他。"
+    },
     {
       "id": "4989852",
       "time": "2026-07-15 19:04:43",

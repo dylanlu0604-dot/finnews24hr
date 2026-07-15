@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-15 19:05:26",
-  "count": 18659,
+  "updated": "2026-07-15 19:09:28",
+  "count": 18648,
   "items": [
+    {
+      "id": "te:economy:567196",
+      "time": "2026-07-15 19:06:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Mortgage Rate",
+        "Importance 2"
+      ],
+      "text": "US 30-Year Mortgage Rates Surge, Matching May Peak — The average US 30-year fixed mortgage rate for loans of up to $806,500 rose to 6.65% in the week ending July 10, 2026, from 6.58% a week earlier, matching the nine-month high reached in May, according to the Mortgage Bankers Association. The increase reflects a recent rise in US Treasury yields, fueled by persistent inflation concerns and growing expectations that the Federal Reserve could raise interest rates later this year, even as the labor market continues to show signs of gradual cooling. Higher borrowing costs weighed on mortgage demand, with total applications falling 2.7%, a second consecutive weekly decline. Purchase applications dropped 7.3%, signaling softer homebuying activity, while refinancing applications increased 3.5% as some homeowners took advantage of recent market movements."
+    },
+    {
+      "id": "4989853",
+      "time": "2026-07-15 19:04:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相斯塔默：不會給伯納姆提供建議，只會全力支援他。"
+    },
     {
       "id": "4989852",
       "time": "2026-07-15 19:04:43",
@@ -171174,123 +171194,6 @@
         "其他"
       ],
       "text": "【廣西梧州市委原常委、政法委原書記羅偉雄嚴重違紀違法被開除黨籍和公職】廣西壯族自治區紀委監委8日通報，經自治區黨委批准，自治區紀委監委對梧州市委原常委、政法委原書記羅偉雄嚴重違紀違法問題進行了立案審查調查。（新華社）"
-    },
-    {
-      "id": "mkt:019f416a-e81a-7aab-8cec-cbcb0406df48",
-      "time": "2026-07-08 19:09:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US-Iran memorandum reportedly at risk; USS Lincoln remains on standby】US media report President Trump said the US-Iran memorandum \"has ended.\" Several sailors aboard the USS Lincoln said they felt \"numb\" and that the carrier remains on round-the-clock standby, ready to re-enter combat if required. Crew members said the memorandum's possible lapse would add uncertainty and could extend the ship's deployment."
-    },
-    {
-      "id": "mkt:019f416a-c7c2-7aab-8cec-c35f1dcabed2",
-      "time": "2026-07-08 19:09:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's cabinet condemned Iran's repeated attacks on Bahrain and Kuwait, calling them a serious violation of both countries' sovereignty."
-    },
-    {
-      "id": "te:economy:565272",
-      "time": "2026-07-08 19:08:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Mortgage Applications",
-        "Importance 1"
-      ],
-      "text": "US Mortgage Applications Ease — The volume of mortgage applications in the US fell by 2.2% on the week to July 3rd, extending the muted movements from the two previous weeks, according to data compiled by the Mortgage Bankers Association. The low deviation was consistent with the relative stability in benchmark mortgage rates, with the 30-year fixed rate rising a single basis point to 6.58%, despite the jump in longer-term Treasury yields in the period. Applications to refinance a mortgage, which are more sensitive to short-term changes in interest rates, fell by 4.1%. In the meantime, applications for a mortgage to buy a home inched down by 0.6%."
-    },
-    {
-      "id": "4976671",
-      "time": "2026-07-08 19:08:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府能源部稱能源委員會會議已推遲。"
-    },
-    {
-      "id": "mkt:019f416a-1726-7aab-8cec-bfa21de2af23",
-      "time": "2026-07-08 19:08:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Brazilian government says energy committee meeting has been postponed."
-    },
-    {
-      "id": "4976670",
-      "time": "2026-07-08 19:07:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "檔案顯示智譜配售約40億美元的H股。"
-    },
-    {
-      "id": "4976669",
-      "time": "2026-07-08 19:07:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【上交所：中韓半導體ETF華泰柏瑞7月9日開市起至當日10:30停牌】中韓半導體ETF華泰柏瑞(513310)二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為保護投資者的利益，基金將於2026年7月9日開市起至當日10:30停牌。"
-    },
-    {
-      "id": "mkt:019f4169-1e0d-7aab-8cec-b094d98076cd",
-      "time": "2026-07-08 19:07:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's cabinet said it demanded Iran stop these dangerous practices and reserved the right to take appropriate action to protect its national interests."
-    },
-    {
-      "id": "mkt:019f4168-e0f8-7aab-8cec-a9eb73d0dca1",
-      "time": "2026-07-08 19:07:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "513310.SS"
-      ],
-      "text": "【SSE: Huatai‑PineBridge China‑Korea Semiconductor ETF (513310) to suspend trading from July 9 open until 10:30】Shanghai Stock Exchange said the secondary-market price of Huatai‑PineBridge China‑Korea Semiconductor ETF (513310) was materially above the fund’s reference net asset value, producing a large premium. To protect investors, the ETF will be suspended from market open on July 9, 2026 until 10:30 Shanghai time. The exchange warned that blind buying amid the premium could cause significant losses."
-    },
-    {
-      "id": "4976668",
-      "time": "2026-07-08 19:06:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所：景順長城全球晶片LOF7月9日開市起停牌 10:30起復牌】上交所公告，景順長城全球晶片LOF（501225）二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。將於2026年7月9日開市起停牌，自2026年7月9日10:30起復牌，停牌期間本基金贖回業務照常辦理。"
-    },
-    {
-      "id": "4976667",
-      "time": "2026-07-08 19:06:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【達實智慧中標數字人民幣硬錢包深圳市地鐵公交乘車應用升級服務專案】據達實智慧訊息，近日，達實智慧作為聯合體牽頭方，中標數字人民幣硬錢包深圳市地鐵公交乘車應用升級服務專案。"
-    },
-    {
-      "id": "4976666",
-      "time": "2026-07-08 19:05:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【重慶市豐都縣人大常委會原副廳級幹部秦俊仕被開除黨籍】經查，秦俊仕喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請；違反組織原則，不按規定報告個人有關事項，在幹部選拔任用工作中為他人謀利；廉潔底線失守，違規收受禮金，退休後違規從事營利活動，利用職務影響為親友經營活動謀利；私慾膨脹，利用職權或者地位形成的便利條件為他人在工程專案承攬、醫療裝置銷售等方面謀利，並非法收受鉅額財物，且離職後仍利用原職務上的影響收錢斂財。"
-    },
-    {
-      "id": "4976664",
-      "time": "2026-07-08 19:05:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：沙特外交大臣與阿曼外長在馬斯喀特討論地區局勢 。"
     }
   ]
 }
