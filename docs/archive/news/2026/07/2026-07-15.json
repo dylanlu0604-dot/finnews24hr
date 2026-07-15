@@ -1,7 +1,180 @@
 {
   "date": "2026-07-15",
-  "count": 2132,
+  "count": 2149,
   "items": [
+    {
+      "id": "4989504",
+      "time": "2026-07-15 16:46:34",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【阿里巴巴：阿里千問將作為AI能力整合至Apple智慧】7月15日，網信中國發布公告，Apple智慧正式透過生成式人工智慧服務備案。阿里巴巴回應記者稱，阿里千問將作為AI能力整合至Apple智慧，為iOS、iPadOS、macOS和visionOS的中國使用者帶來智慧體驗。使用者無需在應用間切換，即可在蘋果裝置上直接體驗千問的文字與影象理解、內容生成等能力。（證券時報）"
+    },
+    {
+      "id": "4989503",
+      "time": "2026-07-15 16:46:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【李寧：二季度李寧銷售點於整個平臺零售流水按年錄得低單位數下降】7月15日，李寧在港交所公告，截至2026年6月30日止第二季度，李寧銷售點（不包括李寧YOUNG）於整個平臺之零售流水按年錄得低單位數下降。就渠道而言，線下渠道（包括零售及批發）錄得低單位數下降，其中零售（直接經營）渠道錄得低單位數下降，批發（特許經銷商）渠道錄得中單位數下降；電子商務虛擬店舖業務錄得中單位數增長。"
+    },
+    {
+      "id": "4989502",
+      "time": "2026-07-15 16:46:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【迪哲醫藥：股價異常波動 與阿斯利康交易存不確定性】迪哲醫藥公告稱，公司股票2026年7月13 - 15日連續三個交易日收盤價格漲幅偏離值累計達30%，屬異常波動。近日，公司與阿斯利康簽署《許可協議》，授予其全球獨家開發、商業化舒沃哲®的權利，將獲6億美元首付款，最高4億美元臨床開發及5億美元銷售里程碑款，還有特許權使用費。該交易尚需股東會審議，最終生效要滿足條件並獲相關批准，存在不確定性。公司提醒投資者注意風險。"
+    },
+    {
+      "id": "4989501",
+      "time": "2026-07-15 16:46:06",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委帕內塔：伊朗衝突後股市上漲是由於對風險的低估】歐洲央行管委帕內塔：中東持續的敵對行動，加上能源市場的壓力加大，可能導致義大利更加謹慎並收緊信貸標準。歐元區通脹目前徘徊在3%左右，預計將在2027年初之前保持在這一水平之上。在考慮未來的利率決策時，歐洲央行的目標是保持通脹預期的穩定，限制衝擊的間接和二次影響。義大利金融部門的整合過程可以增強單個機構及整體系統，鼓勵投資並提升效率。與能源價格上漲、金融環境收緊及持續的地緣政治不確定性相關的風險似乎僅部分反映在市場評估中。多個指標顯示，伊朗衝突後股市上漲是由於對風險的低估。"
+    },
+    {
+      "id": "mkt:019f64f4-55da-7aab-8d9a-bc9671aa1e48",
+      "time": "2026-07-15 16:46:02",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "ECB Governing Council member Panetta said multiple indicators show the post-Iran conflict stock-market rally reflects an underestimation of risk."
+    },
+    {
+      "id": "mkt:019f64f4-36ee-7aab-8d9a-b2caf9b1e455",
+      "time": "2026-07-15 16:45:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "ECB Governing Council member Panetta said risks from rising energy prices, tighter financial conditions and persistent geopolitical uncertainty appear only partly priced into market assessments."
+    },
+    {
+      "id": "mkt:019f64f4-0b90-7aab-8d9a-ad5bd6257eed",
+      "time": "2026-07-15 16:45:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "EURUSD",
+        "S&P500"
+      ],
+      "text": "ECB executive board member Panetta said consolidation in Italy's financial sector could strengthen individual institutions and overall system resilience, encourage investment and improve efficiency."
+    },
+    {
+      "id": "mkt:019f64f3-f9e6-7aab-8d9a-a19a9585daa9",
+      "time": "2026-07-15 16:45:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "PANETTA, an ECB executive board member, said the European Central Bank's goal when weighing future rate decisions is to keep inf expectations stable and to limit indirect and second‑round effects of shocks."
+    },
+    {
+      "id": "mkt:019f64f3-e656-7aab-8d9a-9d0616b641f8",
+      "time": "2026-07-15 16:45:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB executive board member Panetta said Euro area inflation is currently around 3% and is expected to remain above that level until early 2027."
+    },
+    {
+      "id": "mkt:019f64f3-d1ae-7aab-8d9a-9464b30543b3",
+      "time": "2026-07-15 16:45:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "ECB's Panetta said ongoing hostilities in the Middle East, together with rising pressure in energy markets, could make Italy more cautious and lead to tighter credit standards."
+    },
+    {
+      "id": "4989500",
+      "time": "2026-07-15 16:45:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥：子公司藥物HRS - 8829獲批開展臨床試驗】恆瑞醫藥公告稱，子公司北京盛迪醫藥收到國家藥監局核准簽發關於HRS - 8829注射用濃溶液的《藥物臨床試驗批准通知書》，將開展“聯合依達拉奉注射液用於治療急性缺血性卒中”適應症的臨床試驗。HRS - 8829為小分子藥物，單藥Ⅰ期臨床試驗正在推進，與依達拉奉聯用有望提供新療法。截至目前，該藥物累計研發投入約1660萬元。藥品研發上市存在不確定性，公司將推進專案並及時披露進展。"
+    },
+    {
+      "id": "mkt:019f64f3-668a-7aab-8d9a-8b8b2b124735",
+      "time": "2026-07-15 16:45:00",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "002594.SZ",
+        "XPEV.O"
+      ],
+      "text": "【CPCA: July 1-12 China passenger-car NEV retail penetration 63.1%】CPCA data show July 1-12 China passenger-car market NEV retail penetration at 63.1%; manufacturers' NEV wholesale penetration 69.1%."
+    },
+    {
+      "id": "4989499",
+      "time": "2026-07-15 16:44:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆瑞醫藥：子公司HRS - 8797片獲藥物臨床試驗批准】恆瑞醫藥公告稱，子公司成都盛迪醫藥有限公司收到國家藥監局核准簽發關於HRS - 8797片的《藥物臨床試驗批准通知書》，將於近期開展特應性皮炎的臨床試驗。該藥品是公司自主研發的1類創新藥，全球暫無同類藥物獲批上市，相關專案累計研發投入約3290萬元。藥品研發上市週期長、環節多，有不確定性，公司將推進專案並及時披露進展。"
+    },
+    {
+      "id": "4989498",
+      "time": "2026-07-15 16:44:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【和順電氣：中標中油技服移動儲能專案合計1.41億元】和順電氣公告，公司於近日收到中油技服2026-2028年度移動儲能動力服務專案標包1遼河地區（206MWh）及標包4北疆地區（188MWh）的《中標通知書》，合計預估合同金額1.41億元（含稅），中標專案招標人分別為中國石油集團渤海鑽探工程有限公司、中國石油集團長城鑽探工程有限公司及中國石油集團西部鑽探工程有限公司。"
+    },
+    {
+      "id": "mkt:019f64f2-9fff-7aab-8d9a-87ed330a092e",
+      "time": "2026-07-15 16:44:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Israeli broadcaster: US pressured Israel to lift Ben-Gurion refuelling tanker restriction】Israeli public broadcaster reported that after a US request Israel on July 15 lifted restrictions on US military aerial-refuelling tankers landing at Tel Aviv’s Ben‑Gurion International Airport. The Israel Airports Authority told air traffic control to allow US tankers to land and park, reversing Transport Minister Miri Regev’s earlier order banning additional US tanker arrivals. Ben‑Gurion had sought to move the tankers to free stands for summer civil flights; sources said US Central Command, citing rising US‑Iran tensions, requested continued tanker and crew presence in Israel."
+    },
+    {
+      "id": "4989497",
+      "time": "2026-07-15 16:44:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：上半年企業直接融資同比多增較多】7月15日，國新辦就2026年上半年貨幣政策執行和金融統計資料情況舉行新聞釋出會。中國人民銀行新聞發言人、調查統計司司長閆先東表示，社會融資規模增量合理增長，金融體系較好地滿足了實體經濟的資金需求。閆先東介紹，企業直接融資同比多增較多，佔比明顯上升。上半年，非金融企業債券淨融資2.07萬億元，同比多9167億元；非金融企業股票融資2933億元，同比多1224億元。兩者合計佔社會融資規模增量的11.3%，比上年同期高5.6個百分點。（第一財經）"
+    },
     {
       "id": "4989496",
       "time": "2026-07-15 16:43:35",
@@ -19,6 +192,15 @@
         "市場"
       ],
       "text": "【20只創新藥概念股上半年業績報喜】當前正值業績預告披露高峰期，證券時報·資料寶統計，截至7月15日收盤，根據目前披露的業績快報、預告淨利潤下限（無下限則取公告數值）計算，2026年上半年淨利潤同比增長（含扭虧為盈）的創新藥概念股有20只。預計盈利最高的是吉林敖東，公司預計2026年上半年淨利潤為19.22億元至21.79億元，同比增長50%至70%，業績大增主要原因是公司投資收益同比增加。預計盈利靠前的還有天士力、海思科、華海藥業、康龍化成、昭衍新藥等。"
+    },
+    {
+      "id": "4989494",
+      "time": "2026-07-15 16:43:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【以媒稱美施壓取消本古裡安機場限制】據以色列公共廣播公司當地時間今天（7月15日）報道，在美國提出要求後，以色列當天取消了對美軍空中加油機降落特拉維夫本-古裡安國際機場的限制。報道稱，以色列機場管理局已向空中交通管制部門下達指令，允許美軍加油機繼續在本-古裡安機場降落和停放。這一決定推翻了以色列交通部長雷格夫此前禁止美軍加油機在本-古裡安機場超額降落的指示。 報道稱，此前，本-古裡安機場方面曾要求將美軍加油機轉移至其他地點，以釋放停機位，避免影響暑期民航航班運營。不過，訊息人士指出，鑑於當前美伊緊張局勢持續升級，美軍中央司令部需要繼續在以色列保持加油機及機組人員的高度戒備，因此美方要求以色列取消相關限制。 報道還稱，在今年美以伊衝突最激烈時期，以色列境內曾部署約90架美軍空中加油機，目前仍有34架停放在本-古裡安機場和南部的拉蒙機場。以美雙方曾討論將部分飛機轉移至其他以軍空軍基地，但最終認為暫無可行替代方案。截至目前，以色列官方尚未對上述訊息予以回應。（CCTV國際時訊）"
     },
     {
       "id": "mkt:019f64f1-8aa6-7aab-8d9a-7b29cc3a782c",
