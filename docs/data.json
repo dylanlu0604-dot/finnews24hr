@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-15 13:10:48",
-  "count": 18784,
+  "updated": "2026-07-15 13:14:50",
+  "count": 18781,
   "items": [
+    {
+      "id": "mkt:019f6431-a0ac-7aab-8d94-82aeee37297d",
+      "time": "2026-07-15 13:13:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Sci‑Tech Innovation (STAR) 50 Index extended losses to 5%."
+    },
+    {
+      "id": "4989140",
+      "time": "2026-07-15 13:13:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達5％，成分股中，佰維儲存跌14.8％，沐曦股份跌13.8％，盛美上海跌10％，拓荊科技跌9.7％。"
+    },
+    {
+      "id": "mkt:019f6430-85ee-7aab-8d94-799e83c0f164",
+      "time": "2026-07-15 13:12:09",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Composite Index losses widened to 1% in the afternoon session."
+    },
+    {
+      "id": "4989139",
+      "time": "2026-07-15 13:11:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報14774.813點；上證指數跌0.54%，現報3945.898點；創業板指跌1.19%，現報3805.475點。"
+    },
+    {
+      "id": "mkt:019f642f-cb7e-7aab-8d94-714d6ac85941",
+      "time": "2026-07-15 13:11:21",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【Chen Wenling: Three key features of China’s 1H economic performance】China's National Bureau of Statistics released 1H data. Chen Wenling, senior researcher at the Contemporary China and World Research Institute, identified three market-relevant features: concurrent repair of existing stock and creation of new output — steady restoration of existing capacity amid a complex external environment alongside significant new output led by emerging productivity drivers; an overlay of stock-focused and incremental policies that materially supported economic repair and growth; and external-oriented growth running in parallel with domestic structural optimization. She described her overall assessment of 1H as strong and improving."
+    },
+    {
+      "id": "4989138",
+      "time": "2026-07-15 13:11:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "大消費板塊漲勢擴大，食品飲料、零售、美容護理、影視等方向領漲，古井貢酒、味知香漲停，此前金種子酒、中寵股份、若羽臣、安正時尚等漲停。"
+    },
+    {
+      "id": "mkt:019f642f-b60a-7aab-8d94-69d2e2791d12",
+      "time": "2026-07-15 13:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam raised $116 mln in a government bond auction."
+    },
+    {
+      "id": "mkt:019f642f-7ea5-7aab-8d94-61be006226c0",
+      "time": "2026-07-15 13:11:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish",
+        "INTC.O"
+      ],
+      "text": "ASML (ASML.O) said Intel will use high-NA EUV lithography at its 18A process node for foundry manufacturing."
+    },
+    {
+      "id": "4989137",
+      "time": "2026-07-15 13:10:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊霍爾木茲海峽衝突或將長期化】美國總統特朗普7月14日表示，決定用貿易投資協議來取代霍爾木茲海峽貨物收費。專家分析認為，美國和伊朗在霍爾木茲海峽管控問題上存在根本性分歧，美國是反對伊朗在霍爾木茲海峽管控問題上發揮主導權。而伊朗同樣也反對美國干預霍爾木茲海峽的具體事務。美國此舉意味著美伊雙方圍繞霍爾木茲海峽通航問題的衝突或將長期化，未來雙方圍繞霍爾木茲海峽的爭奪，會成為美國和伊朗之間矛盾爆發的一個最為集中的衝突點。"
+    },
+    {
+      "id": "4989136",
+      "time": "2026-07-15 13:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥：英特爾代工服務在英特爾18A工藝節點上採用高數值孔徑極紫外（High NA EUV）技術。"
+    },
+    {
+      "id": "4989135",
+      "time": "2026-07-15 13:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳文玲：上半年經濟執行有三大突出特徵】國家統計局15日公佈中國上半年經濟“成績單”。當代中國與世界研究院高階研究員陳文玲表示，上半年經濟執行有三大突出特徵：一是存量修復與增量創造並存。面對錯綜複雜的外部環境，存量穩步修復來之不易，並且中國創造了巨大的增量，特別是新質生產力的發展。二是存量政策與增量政策疊加，對經濟修復和增長髮揮了重大作用。第三是外向型經濟增長與內部最佳化同步。她說：“總體來看，我對上半年經濟形勢評價是高的、是好的、是向優的。”（中新社）"
+    },
     {
       "id": "mkt:019f642d-be7e-7aab-8d94-5fb31587116d",
       "time": "2026-07-15 13:09:07",
@@ -171992,139 +172096,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: New Zealand Dollar Increases by 0.59% — Top currency gainers are New Zealand Dollar (0.59%), Indian Rupee (0.45%) and South Korean Won (0.42%). Biggest loser is Japanese Yen (-0.15%). Meanwhile, British Pound, Euro and Dollar Index were little changed."
-    },
-    {
-      "id": "mkt:019f4026-6e47-7aab-8ce1-888677e70357",
-      "time": "2026-07-08 13:14:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General Rutte said U.S. disappointment with allies over Iran is limited to \"isolated cases\"."
-    },
-    {
-      "id": "4975699",
-      "time": "2026-07-08 13:14:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍襲擊加沙造成至少7人死亡】據巴勒斯坦媒體報道，以色列軍隊7月7日在加沙地帶發動多起襲擊，造成至少7人死亡，死者中包括一名兒童。訊息人士稱，以色列無人機在加沙城擊中一輛民用車輛，造成3人死亡。埃及設在加沙地帶的救濟委員會公共關係主任瓦海迪在襲擊中遇難。以色列無人機襲擊加沙城港口附近一處安置流離失所者的帳篷，造成1人死亡。當天早些時候，以軍在加沙地帶南部汗尤尼斯地區發動多起空襲，造成3人死亡。"
-    },
-    {
-      "id": "mkt:019f4026-132a-7aab-8ce1-8264765bf646",
-      "time": "2026-07-08 13:14:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "China A-share software development sector rose amid choppy trading; Lvmeng Technology surged to the 20% daily limit, Nantian Information and Daheng Technology had earlier hit limit-up, while Dameng Data, Tuowei Information and Yaxin Security also gained."
-    },
-    {
-      "id": "mkt:019f4026-0194-7aab-8ce1-7d63c240e6bc",
-      "time": "2026-07-08 13:14:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "NATO Secretary-General Rutte said a new round of attacks against Iran is absolutely necessary."
-    },
-    {
-      "id": "mkt:019f4025-d7c8-7aab-8ce1-74b20e50e330",
-      "time": "2026-07-08 13:14:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary General Rutte said a \"good mechanism\" has been established regarding Greenland."
-    },
-    {
-      "id": "4975698",
-      "time": "2026-07-08 13:13:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【軟體開發板塊震盪走高，綠盟科技20cm漲停】軟體開發板塊震盪走高，綠盟科技20cm漲停，南天資訊、大恆科技此前封板，達夢資料、拓維資訊、亞信安全跟漲。"
-    },
-    {
-      "id": "4975697",
-      "time": "2026-07-08 13:13:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：對伊朗發動的新攻擊絕對必要。"
-    },
-    {
-      "id": "mkt:019f4025-1292-7aab-8ce1-6a49c32b1449",
-      "time": "2026-07-08 13:13:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran state media: Iran’s military said it struck a US military facility in Bahrain and warned it would carry out further attacks if the United States launches another attack on Iran."
-    },
-    {
-      "id": "4975696",
-      "time": "2026-07-08 13:12:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特：關於格陵蘭島問題，我們已有一個“良好的程序”在推進。"
-    },
-    {
-      "id": "4975695",
-      "time": "2026-07-08 13:12:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方稱其襲擊了美國駐巴林基地，並承諾如果美國再次對伊朗發動打擊，將發動更多襲擊。"
-    },
-    {
-      "id": "4975694",
-      "time": "2026-07-08 13:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：預計盟國將承諾對烏克蘭提供多年援助。"
-    },
-    {
-      "id": "mkt:019f4023-dd49-7aab-8ce1-62ce729c15a7",
-      "time": "2026-07-08 13:11:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "NATO Secretary General Rutte said he expects allies today to reiterate that Iran should fully reopen the Strait of Hormuz."
-    },
-    {
-      "id": "te:economy:565096",
-      "time": "2026-07-08 13:11:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Economy Watchers Survey",
-        "Importance 1"
-      ],
-      "text": "Japan Services Sentiment Hits 4-Month High — Japan’s services sector sentiment index edged up to 44.0 in June 2026 from 43.6 in the previous month, marking its highest level since February and pointing to a continued improvement in business confidence. While sentiment among household-related businesses remained subdued, stronger conditions in the broader services sector helped lift the overall index. Corporate confidence also improved, driven mainly by strength in the non-manufacturing sector, with labor market conditions continuing to firm. Looking ahead, the economic outlook index, which measures expectations for the months ahead, jumped to 45.7 from 40.7 in May, the highest reading in four months. The sharp increase suggests businesses expect economic conditions to stabilize as concerns over the impact of the Middle East conflict eased."
-    },
-    {
-      "id": "4975693",
-      "time": "2026-07-08 13:11:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《功夫女足》映前3天， 點映及預售總票房破3000萬。"
     }
   ]
 }

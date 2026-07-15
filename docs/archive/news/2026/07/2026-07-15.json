@@ -1,7 +1,111 @@
 {
   "date": "2026-07-15",
-  "count": 1529,
+  "count": 1540,
   "items": [
+    {
+      "id": "mkt:019f6431-a0ac-7aab-8d94-82aeee37297d",
+      "time": "2026-07-15 13:13:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's Sci‑Tech Innovation (STAR) 50 Index extended losses to 5%."
+    },
+    {
+      "id": "4989140",
+      "time": "2026-07-15 13:13:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達5％，成分股中，佰維儲存跌14.8％，沐曦股份跌13.8％，盛美上海跌10％，拓荊科技跌9.7％。"
+    },
+    {
+      "id": "mkt:019f6430-85ee-7aab-8d94-799e83c0f164",
+      "time": "2026-07-15 13:12:09",
+      "tags": [
+        "MKT News",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Composite Index losses widened to 1% in the afternoon session."
+    },
+    {
+      "id": "4989139",
+      "time": "2026-07-15 13:11:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報14774.813點；上證指數跌0.54%，現報3945.898點；創業板指跌1.19%，現報3805.475點。"
+    },
+    {
+      "id": "mkt:019f642f-cb7e-7aab-8d94-714d6ac85941",
+      "time": "2026-07-15 13:11:21",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【Chen Wenling: Three key features of China’s 1H economic performance】China's National Bureau of Statistics released 1H data. Chen Wenling, senior researcher at the Contemporary China and World Research Institute, identified three market-relevant features: concurrent repair of existing stock and creation of new output — steady restoration of existing capacity amid a complex external environment alongside significant new output led by emerging productivity drivers; an overlay of stock-focused and incremental policies that materially supported economic repair and growth; and external-oriented growth running in parallel with domestic structural optimization. She described her overall assessment of 1H as strong and improving."
+    },
+    {
+      "id": "4989138",
+      "time": "2026-07-15 13:11:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "大消費板塊漲勢擴大，食品飲料、零售、美容護理、影視等方向領漲，古井貢酒、味知香漲停，此前金種子酒、中寵股份、若羽臣、安正時尚等漲停。"
+    },
+    {
+      "id": "mkt:019f642f-b60a-7aab-8d94-69d2e2791d12",
+      "time": "2026-07-15 13:11:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam raised $116 mln in a government bond auction."
+    },
+    {
+      "id": "mkt:019f642f-7ea5-7aab-8d94-61be006226c0",
+      "time": "2026-07-15 13:11:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish",
+        "INTC.O"
+      ],
+      "text": "ASML (ASML.O) said Intel will use high-NA EUV lithography at its 18A process node for foundry manufacturing."
+    },
+    {
+      "id": "4989137",
+      "time": "2026-07-15 13:10:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊霍爾木茲海峽衝突或將長期化】美國總統特朗普7月14日表示，決定用貿易投資協議來取代霍爾木茲海峽貨物收費。專家分析認為，美國和伊朗在霍爾木茲海峽管控問題上存在根本性分歧，美國是反對伊朗在霍爾木茲海峽管控問題上發揮主導權。而伊朗同樣也反對美國干預霍爾木茲海峽的具體事務。美國此舉意味著美伊雙方圍繞霍爾木茲海峽通航問題的衝突或將長期化，未來雙方圍繞霍爾木茲海峽的爭奪，會成為美國和伊朗之間矛盾爆發的一個最為集中的衝突點。"
+    },
+    {
+      "id": "4989136",
+      "time": "2026-07-15 13:10:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥：英特爾代工服務在英特爾18A工藝節點上採用高數值孔徑極紫外（High NA EUV）技術。"
+    },
+    {
+      "id": "4989135",
+      "time": "2026-07-15 13:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陳文玲：上半年經濟執行有三大突出特徵】國家統計局15日公佈中國上半年經濟“成績單”。當代中國與世界研究院高階研究員陳文玲表示，上半年經濟執行有三大突出特徵：一是存量修復與增量創造並存。面對錯綜複雜的外部環境，存量穩步修復來之不易，並且中國創造了巨大的增量，特別是新質生產力的發展。二是存量政策與增量政策疊加，對經濟修復和增長髮揮了重大作用。第三是外向型經濟增長與內部最佳化同步。她說：“總體來看，我對上半年經濟形勢評價是高的、是好的、是向優的。”（中新社）"
+    },
     {
       "id": "mkt:019f642d-be7e-7aab-8d94-5fb31587116d",
       "time": "2026-07-15 13:09:07",
