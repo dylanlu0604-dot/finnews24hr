@@ -1,7 +1,35 @@
 {
   "date": "2026-07-16",
-  "count": 42,
+  "count": 45,
   "items": [
+    {
+      "id": "4990508",
+      "time": "2026-07-16 00:36:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英特爾股價跌破100整數關口】英特爾(INTC.O)跌超7%，股價跌破100美元，為6月5日以來首次。"
+    },
+    {
+      "id": "mkt:019f66a2-73aa-7aab-8dac-42c11ed1b321",
+      "time": "2026-07-16 00:35:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "【Intel shares fall below $100】Intel (INTC.O) shares fell more than 7% to below $100, their lowest level since June 5."
+    },
+    {
+      "id": "4990507",
+      "time": "2026-07-16 00:35:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守57美元/盎司，日內跌3.59%。"
+    },
     {
       "id": "mkt:019f669f-52f7-7aab-8dac-3c819cd1513a",
       "time": "2026-07-16 00:32:25",

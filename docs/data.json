@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-16 00:33:17",
-  "count": 18748,
+  "updated": "2026-07-16 00:37:24",
+  "count": 18733,
   "items": [
+    {
+      "id": "4990508",
+      "time": "2026-07-16 00:36:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英特爾股價跌破100整數關口】英特爾(INTC.O)跌超7%，股價跌破100美元，為6月5日以來首次。"
+    },
+    {
+      "id": "mkt:019f66a2-73aa-7aab-8dac-42c11ed1b321",
+      "time": "2026-07-16 00:35:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "【Intel shares fall below $100】Intel (INTC.O) shares fell more than 7% to below $100, their lowest level since June 5."
+    },
+    {
+      "id": "4990507",
+      "time": "2026-07-16 00:35:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守57美元/盎司，日內跌3.59%。"
+    },
     {
       "id": "mkt:019f669f-52f7-7aab-8dac-3c819cd1513a",
       "time": "2026-07-16 00:32:25",
@@ -172337,168 +172365,6 @@
         "國際"
       ],
       "text": "伊朗副外長表示，伊朗必須以特朗普自己的話語體系與其對話，因為特朗普更懂武力這套邏輯。"
-    },
-    {
-      "id": "mkt:019f4296-fedb-7aab-8cf9-2f53a967c6e8",
-      "time": "2026-07-09 00:36:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said he has revised his view of the rationality of Iran's leaders after learning more about them, saying they have become more rational."
-    },
-    {
-      "id": "mkt:019f4296-f22f-7aab-8cf9-2728c0bbbe77",
-      "time": "2026-07-09 00:36:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump on Iran: \"This will all end soon.\""
-    },
-    {
-      "id": "mkt:019f4296-99a0-7aab-8cf9-1d2d526b2e6b",
-      "time": "2026-07-09 00:36:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Impact mixed",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said he was unsure whether he wanted to reach an agreement with Iran's leaders."
-    },
-    {
-      "id": "4977347",
-      "time": "2026-07-09 00:36:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗局勢：此事很快就會結束。"
-    },
-    {
-      "id": "mkt:019f4296-3a82-7aab-8cf9-120759deb8cd",
-      "time": "2026-07-09 00:36:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Musk says Grok's 2-trillion-parameter model is expected to be made available to customers next month."
-    },
-    {
-      "id": "4977346",
-      "time": "2026-07-09 00:36:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們永遠不會看到伊朗擁有核武器。"
-    },
-    {
-      "id": "4977345",
-      "time": "2026-07-09 00:36:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：油價將會下跌。"
-    },
-    {
-      "id": "4977344",
-      "time": "2026-07-09 00:35:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們現在石油供應過剩。"
-    },
-    {
-      "id": "4977343",
-      "time": "2026-07-09 00:35:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特表示，北約將投資270億歐元升級燃料系統。"
-    },
-    {
-      "id": "mkt:019f4295-9904-7aab-8cf9-0d97f6a3da07",
-      "time": "2026-07-09 00:35:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Elon Musk said they are improving the Grok Build toolchain and a 1.5 trillion-parameter base model almost daily to meet user demand."
-    },
-    {
-      "id": "4977342",
-      "time": "2026-07-09 00:35:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗問題：我不確定是否想要達成協議，讓我們完成這項工作吧。"
-    },
-    {
-      "id": "4977341",
-      "time": "2026-07-09 00:35:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不確定是否想與伊朗達成協議。"
-    },
-    {
-      "id": "4977340",
-      "time": "2026-07-09 00:34:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗領導人如今更為理性。"
-    },
-    {
-      "id": "4977339",
-      "time": "2026-07-09 00:34:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普稱，在瞭解伊朗領導人後，他改變了原本認為伊朗領導人通情達理的看法。"
-    },
-    {
-      "id": "4977338",
-      "time": "2026-07-09 00:34:13",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我可能會遇害，因為“我是伊朗的頭號刺殺目標”。"
-    },
-    {
-      "id": "mkt:019f4294-5ee9-7aab-8cf9-006882164a4b",
-      "time": "2026-07-09 00:34:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said Iran has already gone through a third generation of leadership and that generation may also disappear."
-    },
-    {
-      "id": "mkt:019f4294-422d-7aab-8cf8-ff7421ec966c",
-      "time": "2026-07-09 00:34:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. President Trump, speaking on Iran, said he might also be killed and called himself their number-one target."
-    },
-    {
-      "id": "4977337",
-      "time": "2026-07-09 00:33:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國際電視臺收到的一段影片顯示，在美國對伊朗南部發動襲擊後，週三伊朗南部城市布什爾一處軍事基地附近突發火災。"
     }
   ]
 }
