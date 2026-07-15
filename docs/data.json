@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-16 05:36:32",
-  "count": 18608,
+  "updated": "2026-07-16 05:40:27",
+  "count": 18606,
   "items": [
+    {
+      "id": "4990783",
+      "time": "2026-07-16 05:38:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國前總統拜登週三釋出影片宣告，11月中期選舉結束後將出版發行一本書。"
+    },
     {
       "id": "4990782",
       "time": "2026-07-16 05:33:35",
@@ -171127,39 +171135,6 @@
         "其他"
       ],
       "text": "訊息人士：智譜 AI 港股配售融資定價為每股 1588 港元。"
-    },
-    {
-      "id": "mkt:019f43ab-831f-7aab-8cff-54f1bed2fc0c",
-      "time": "2026-07-09 05:39:01",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump posted several videos and images on social media showing explosions following strikes on Iran."
-    },
-    {
-      "id": "4977640",
-      "time": "2026-07-09 05:36:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍襲擊致伊朗恰巴哈爾近半停電】伊朗國家電視臺今天（7月9日）凌晨報道稱，伊朗東南部沿海城市恰巴哈爾的兩座碼頭和海上交通管制塔遭襲受損。恰巴哈爾三條輸電線路中斷，造成全市近一半區域出現停電。據一位美國官員告訴媒體，正在進行的美國對伊朗打擊預計將比前一天的規模更大。 伊朗最高領袖軍事顧問穆赫辛·雷扎伊在社交媒體發文稱，侵略者及其同夥將受到嚴厲懲罰。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f43a9-6ff4-7aab-8cff-487163fb3cfb",
-      "time": "2026-07-09 05:36:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said the strike on Iran was retaliation for Iran's attack on vessels yesterday and warned that if it happens again the consequences will be more severe."
     }
   ]
 }
