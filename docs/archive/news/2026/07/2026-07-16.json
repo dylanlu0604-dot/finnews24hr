@@ -1,7 +1,20 @@
 {
   "date": "2026-07-16",
-  "count": 407,
+  "count": 408,
   "items": [
+    {
+      "id": "mkt:019f6794-a534-7aab-8db0-a7fe71347eff",
+      "time": "2026-07-16 05:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says US fired Hellfire at tanker bound for Kharg Island】CENTCOM said on July 15 local time US forces enforcing a maritime blockade in the Arabian Gulf disabled a commercial tanker attempting to sail to Kharg Island. The Curaçao-flagged M/T Belma, operating in international waters, ignored repeated warnings and attempted to breach the US blockade. A US aircraft fired a Hellfire missile at the ship’s funnel, rendering it unable to navigate and halting its voyage to Iran. CENTCOM said that since the blockade was resumed at 1600 ET on July 14, US forces guided two cooperating merchant vessels to change course within the first 24 hours and disabled one non‑compliant ship. US forces will remain on alert to ensure the blockade is enforced."
+    },
     {
       "id": "4990767",
       "time": "2026-07-16 04:58:07",
