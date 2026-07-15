@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-15 12:05:35",
-  "count": 18792,
+  "updated": "2026-07-15 12:09:37",
+  "count": 18788,
   "items": [
+    {
+      "id": "4989063",
+      "time": "2026-07-15 12:08:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲1.46%，恒生科技指數漲1.39%】港股午間收盤，恒生指數漲1.46%，恒生科技指數漲1.39%。恒指港股通ETF銀華（159318）漲0.95%，港股通科技ETF鵬華（159751）漲1.82%。板塊方面，生命科學工具、生物科技板塊漲幅靠前；客運航空公司板塊跌幅靠前。個股方面，昭衍新藥漲21.53%，維立志博-B漲15.6%，MINIMAX-W漲14.96%，英矽智慧漲12.91%，勁方醫藥-B漲12.81%；海光芯正跌11.47%，亮晴控股跌10.81%，中國建材跌10.47%，鼎泰高科跌5.24%，領益智造跌4.47%。"
+    },
+    {
+      "id": "mkt:019f63f4-d738-7aab-8d93-2fcc3f66bf9f",
+      "time": "2026-07-15 12:06:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "01211.HK",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports BYD (01211.HK) executive said the company can surpass Toyota and take the global sales crown even without entering the US market."
+    },
+    {
+      "id": "te:markets:567047",
+      "time": "2026-07-15 12:06:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Eases on China Demand Concerns, Stronger Ringgit — Malaysian palm oil futures edged lower after recent gains, hovering below MYR 4,600 per tonne amid a firmer ringgit and weaker demand prospects from major buyer China as the economy grew at its slowest pace in 3-1/2 years. In India, the top palm oil importer, purchases fell to a 14-month low in June as demand fell and a narrowing price discount to rival oils reduced buying interest. Meanwhile, the EU confirmed imports of palm oil derivatives will be subject to its anti-deforestation rules from December 2027. Still, losses were capped by strength in rival edible oils on the Dalian and Chicago markets, along with stronger crude oil prices after U.S. President Trump reimposed a naval blockade in the Strait of Hormuz. Meanwhile, the B50 biodiesel mandate in Indonesia, the largest supplier, is expected to spur domestic palm oil consumption. Traders now await export data for the first half of July, after shipments rose 1.6%–5.1% in the July 1–10 period compared with the same period in June."
+    },
+    {
+      "id": "4989062",
+      "time": "2026-07-15 12:04:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "甲骨文公司在向日本提供雲服務的競賽中領先。"
+    },
     {
       "id": "mkt:019f63f2-b4f9-7aab-8d93-217ad8b5efef",
       "time": "2026-07-15 12:04:38",
@@ -172119,79 +172160,6 @@
         "其他"
       ],
       "text": "【“巴威”趨向我國 交通運輸部啟動颱風四級防禦響應】交通運輸部訊息，中央氣象臺播報，今年第9號颱風“巴威”（超強颱風級）的中心今天早晨5時位於臺灣基隆市東偏南方向約1650公里的洋麵上，中心附近最大風力有17級（60米/秒），中心最低氣壓為920百帕，七級風圈半徑為350至500公里，十級風圈半徑280至300公里，十二級風圈半徑100至150公里。預計，“巴威”將以每小時20至25公里的速度向偏西方向移動，今天夜間逐漸轉向西北方向移動，強度變化不大，逐漸趨向臺灣以東洋麵。根據防禦颱風有關預案和工作程式要求，交通運輸部決定於7月8日9時啟動颱風四級防禦響應。"
-    },
-    {
-      "id": "4975609",
-      "time": "2026-07-08 12:09:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "莎莎國際第一季度銷售額11.8億港元，第一季度營收變動+22.9％。"
-    },
-    {
-      "id": "4975608",
-      "time": "2026-07-08 12:08:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【谷歌釋出會定檔8月12日，將釋出Pixel 11系列手機】谷歌宣佈將於美國東部時間8月12日18點在紐約舉辦Made By Google釋出會，將釋出Pixel 11系列手機。據悉，谷歌Pixel 11系列手機將徹底取消128GB版本，全系機型都將升級至256GB起步，Pro、Pro XL和Pro Fold機型額外提供1TB版本。"
-    },
-    {
-      "id": "mkt:019f3fe9-1b89-7aab-8ce0-36d21a4aece4",
-      "time": "2026-07-08 12:07:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Google schedules Aug. 12 event to unveil Pixel 11 series】Google said it will hold a Made By Google event in New York at 6:00 p.m. ET on Aug. 12 to unveil the Pixel 11 series. The lineup will drop a 128GB tier: all models will start at 256GB, and Pro, Pro XL and Pro Fold models will offer a 1TB option."
-    },
-    {
-      "id": "te:markets:565082",
-      "time": "2026-07-08 12:07:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Strengthens on Rising Exports, Crude Upswing — Malaysian palm oil futures traded above MYR 4,550 per tonne, rebounding from the prior session’s lull as a weaker ringgit and strength in Dalian and Chicago edible oil markets lent support. Exports also lifted sentiment, with cargo surveyors estimating July 1–5 palm oil shipments rose between 10.6% and 11.1% from the same period in June. A rally in crude oil prices added to the upside after U.S. airstrikes on Iran and renewed sanctions on its oil exports boosted palm’s appeal as a biodiesel feedstock. However, gains were capped by palm oil imports by top consumer India declining to a 14-month low in June amid sluggish demand and narrower discounts versus rival oils. Meanwhile, Reuters projected Malaysian inventories likely hit a record June high as output outpaced demand. At the same time, traders remained cautious ahead of the Malaysian Palm Oil Board’s monthly report later this week. In China, another key buyer, June CPI and PPI data will be closely watched for fresh cues on demand."
-    },
-    {
-      "id": "te:markets:565081",
-      "time": "2026-07-08 12:07:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupee Falls as Geopolitical Risks Lift Oil — The Indian rupee weakened to around 95.1 per dollar, retreating after a brief stabilization as renewed Middle East tensions lifted global oil prices and strengthened the US dollar. Brent crude climbed above $76 per barrel after rising 2.6%, extending the previous session's 3% surge, raising concerns over India's import bill and inflation outlook. Market sentiment deteriorated after the US launched fresh strikes on Iran and revoked a license permitting Iranian oil sales following attacks on three tankers in the Strait of Hormuz. Meanwhile, the yield on the 10-year US Treasury note rose to 4.565%, the highest in nearly a month, as higher energy prices fueled inflation concerns, while the US Dollar Index edged above 101, adding pressure on emerging-market currencies. Earlier, the currency had posted its strongest daily gain in over three weeks after dollar sales in the non-deliverable forwards market, though it had still fallen about 1% over the previous week."
-    },
-    {
-      "id": "4975607",
-      "time": "2026-07-08 12:07:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南威軟體成立健康科技公司，含多項AI業務】企查查APP顯示，近日，北京本昕國際健康科技有限公司成立，法定代表人為黃海峰，註冊資本為1000萬元，經營範圍包含：物聯網技術研發；醫學研究和試驗發展；電子專用材料研發；人工智慧硬體銷售；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由南威軟體旗下北京茶壽國際健康科技有限公司全資持股。"
-    },
-    {
-      "id": "4975606",
-      "time": "2026-07-08 12:06:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【受中東供應緊張影響，日本第三季度鋁溢價飆升至2015年以來最高水平】五位參與定價談判的訊息人士稱，由於美國 與以色列 對伊朗的戰爭導致供應緊張，日本鋁買家同意為7月至9月期間的貨物支付每公噸395美元的溢價，這是自2015年以來的最高水平 。日本是亞洲主要的輕金屬進口國，其每季度同意支付的原鋁溢價（以倫敦金屬交易所(LME) 現貨價格 CMAL0 為基準）被視為該地區的地區基準。商定的溢價較 4月至6月期間支付的每噸350至353 美元有所上漲 ，這標誌著連續第三個季度上漲，並創下自2015年1月至3月425美元以來的最高水平。"
-    },
-    {
-      "id": "4975605",
-      "time": "2026-07-08 12:05:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月8日午間漲停分析】創業板指探底回升漲近1%，科創50漲超3%，算力、晶片股集體走強。恆尚節能7連板，一圖看懂>>"
     }
   ]
 }

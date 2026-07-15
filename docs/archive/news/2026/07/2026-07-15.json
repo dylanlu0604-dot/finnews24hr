@@ -1,7 +1,48 @@
 {
   "date": "2026-07-15",
-  "count": 1413,
+  "count": 1417,
   "items": [
+    {
+      "id": "4989063",
+      "time": "2026-07-15 12:08:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數漲1.46%，恒生科技指數漲1.39%】港股午間收盤，恒生指數漲1.46%，恒生科技指數漲1.39%。恒指港股通ETF銀華（159318）漲0.95%，港股通科技ETF鵬華（159751）漲1.82%。板塊方面，生命科學工具、生物科技板塊漲幅靠前；客運航空公司板塊跌幅靠前。個股方面，昭衍新藥漲21.53%，維立志博-B漲15.6%，MINIMAX-W漲14.96%，英矽智慧漲12.91%，勁方醫藥-B漲12.81%；海光芯正跌11.47%，亮晴控股跌10.81%，中國建材跌10.47%，鼎泰高科跌5.24%，領益智造跌4.47%。"
+    },
+    {
+      "id": "mkt:019f63f4-d738-7aab-8d93-2fcc3f66bf9f",
+      "time": "2026-07-15 12:06:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "01211.HK",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports BYD (01211.HK) executive said the company can surpass Toyota and take the global sales crown even without entering the US market."
+    },
+    {
+      "id": "te:markets:567047",
+      "time": "2026-07-15 12:06:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Eases on China Demand Concerns, Stronger Ringgit — Malaysian palm oil futures edged lower after recent gains, hovering below MYR 4,600 per tonne amid a firmer ringgit and weaker demand prospects from major buyer China as the economy grew at its slowest pace in 3-1/2 years. In India, the top palm oil importer, purchases fell to a 14-month low in June as demand fell and a narrowing price discount to rival oils reduced buying interest. Meanwhile, the EU confirmed imports of palm oil derivatives will be subject to its anti-deforestation rules from December 2027. Still, losses were capped by strength in rival edible oils on the Dalian and Chicago markets, along with stronger crude oil prices after U.S. President Trump reimposed a naval blockade in the Strait of Hormuz. Meanwhile, the B50 biodiesel mandate in Indonesia, the largest supplier, is expected to spur domestic palm oil consumption. Traders now await export data for the first half of July, after shipments rose 1.6%–5.1% in the July 1–10 period compared with the same period in June."
+    },
+    {
+      "id": "4989062",
+      "time": "2026-07-15 12:04:57",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "甲骨文公司在向日本提供雲服務的競賽中領先。"
+    },
     {
       "id": "mkt:019f63f2-b4f9-7aab-8d93-217ad8b5efef",
       "time": "2026-07-15 12:04:38",
