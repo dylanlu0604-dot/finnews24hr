@@ -1,7 +1,98 @@
 {
   "date": "2026-07-16",
-  "count": 264,
+  "count": 274,
   "items": [
+    {
+      "id": "mkt:019f673a-05b3-7aab-8daf-82c8c126979c",
+      "time": "2026-07-16 03:21:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said Iran wants to meet."
+    },
+    {
+      "id": "4990641",
+      "time": "2026-07-16 03:20:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗希望展開會談。"
+    },
+    {
+      "id": "mkt:019f6739-3d94-7aab-8daf-783461b49dd4",
+      "time": "2026-07-16 03:20:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "President Trump said the US should have the world's lowest interest rates."
+    },
+    {
+      "id": "mkt:019f6738-b7ee-7aab-8daf-74c25dd78a35",
+      "time": "2026-07-16 03:19:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reports three explosions in Chabahar, Iran."
+    },
+    {
+      "id": "4990640",
+      "time": "2026-07-16 03:19:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗恰巴哈爾市傳出三起爆炸聲。"
+    },
+    {
+      "id": "4990639",
+      "time": "2026-07-16 03:19:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "特朗普表示他尊重美聯儲主席沃什。"
+    },
+    {
+      "id": "4990638",
+      "time": "2026-07-16 03:18:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們應該擁有全球最低的利率。"
+    },
+    {
+      "id": "4990637",
+      "time": "2026-07-16 03:18:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：愛潑斯坦顯然和以色列情報高層存在往來。他似乎與以色列深層勢力裡偏左翼派系有關聯，我一直覺得這點十分耐人尋味。他和以色列政壇右翼勢力的聯絡並不緊密。"
+    },
+    {
+      "id": "4990636",
+      "time": "2026-07-16 03:18:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普將出席世界盃決賽。"
+    },
+    {
+      "id": "mkt:019f6737-27f0-7aab-8daf-6c01e8df18d1",
+      "time": "2026-07-16 03:18:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said he hopes to be able to use tariffs more quickly."
+    },
     {
       "id": "mkt:019f6736-da04-7aab-8daf-603d51bcbc3d",
       "time": "2026-07-16 03:17:55",
