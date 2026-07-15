@@ -1,7 +1,128 @@
 {
-  "updated": "2026-07-15 09:35:33",
+  "updated": "2026-07-15 09:39:31",
   "count": 18739,
   "items": [
+    {
+      "id": "4988801",
+      "time": "2026-07-15 09:38:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "太平洋煤氣電力公司：加州約10個縣的7800名使用者將受到斷電影響。"
+    },
+    {
+      "id": "4988800",
+      "time": "2026-07-15 09:37:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫藥商業板塊短線拉昇，人民同泰漲停】醫藥商業板塊短線拉昇，人民同泰漲停，藥易購、百洋醫藥、華人健康、鷺燕醫藥、漱玉平民等跟漲。"
+    },
+    {
+      "id": "4988799",
+      "time": "2026-07-15 09:37:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.66%，成分股中，沐曦股份跌8.91%，佰維儲存跌7.58%，華海清科跌3.46%，格科微跌3.45%。"
+    },
+    {
+      "id": "mkt:019f636b-5ce2-7aab-8d8e-19d4ae7f69eb",
+      "time": "2026-07-15 09:36:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "China's STAR 50 Index extended losses to 1%, trading at 1,989.63 points."
+    },
+    {
+      "id": "te:markets:566968",
+      "time": "2026-07-15 09:36:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Finds Support as Dollar Weakens — The Japanese yen steadied around 162 per dollar on Wednesday, drawing support from a weaker dollar after softer-than-expected US inflation data eased concerns about imminent Federal Reserve interest rate hikes. Still, the outlook remained clouded by rising geopolitical tensions in the Middle East, with oil prices climbing after President Donald Trump threatened additional strikes on Iran while reinstating a US blockade against Tehran in the Strait of Hormuz. In Japan, data showed machinery orders declined more than expected in May, highlighting broad-based weakness in business investment. Despite the modest rebound, the yen remained near 40-year lows amid the absence of concrete measures from Tokyo to bolster the currency. A recent report also indicated that Japan has no immediate plans to adjust the asset allocation of its state pension funds, dampening expectations for near-term support for domestic assets."
+    },
+    {
+      "id": "mkt:019f636b-50b4-7aab-8d8e-11cb726f1832",
+      "time": "2026-07-15 09:36:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China's National Bureau of Statistics: Shanghai June second-hand residential prices +0.4% MoM (prior +0.6%), -3.2% YoY (prior -4.3%)."
+    },
+    {
+      "id": "4988798",
+      "time": "2026-07-15 09:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數跌幅擴大至1%】科創50指數跌幅擴大至1%，現報1989.63點。"
+    },
+    {
+      "id": "mkt:019f636b-0b3f-7aab-8d8e-0987eb143bf5",
+      "time": "2026-07-15 09:36:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact mixed"
+      ],
+      "text": "China's National Bureau of Statistics: Shanghai newly built commercial residential prices in June +0.3% MoM (May +0.2%), +3.1% YoY (May +3.2%)."
+    },
+    {
+      "id": "mkt:019f636a-d3b0-7aab-8d8e-00fe1fee12f5",
+      "time": "2026-07-15 09:36:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's National Bureau of Statistics: Beijing second-hand residential prices +0.1% MoM in June (prev. +0.1%), -5.5% YoY (prev. -6.5%)."
+    },
+    {
+      "id": "mkt:019f636a-6c3f-7aab-8d8d-fc01ebf84133",
+      "time": "2026-07-15 09:35:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "National Bureau of Statistics: Guangzhou June second-hand residential prices +0.4% MoM (prev +0.1%), -6.1% YoY (prev -7.0%)."
+    },
+    {
+      "id": "4988797",
+      "time": "2026-07-15 09:35:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股光通訊股走強 長飛光纖光纜漲超16%】截至發稿，長飛光纖光纜(06869.HK)漲16.63%，曦智科技-P(01879.HK)漲2.33%，匯聚科技(01729.HK)漲1.62%。"
+    },
+    {
+      "id": "4988796",
+      "time": "2026-07-15 09:35:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【醫療服務板塊盤初拉昇，大湖股份漲停】醫療服務板塊盤初拉昇，大湖股份漲停，凱萊英、博濟醫藥、奧浦邁、畢得醫藥、益諾思等紛紛走高。"
+    },
+    {
+      "id": "4988795",
+      "time": "2026-07-15 09:34:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【德明利觸及跌停】德明利觸及跌停，成交額12.11億元，封單49907手。據德明利2026年7月15日公告，公司披露半年度業績預告，預計淨利潤57億元至65億元，同比增長4932.74%至5611.02%。據此計算，德明利預計今年第二季度實現歸母淨利潤23.54億元~31.54億元，環比下滑5.74%~29.65%。"
+    },
     {
       "id": "mkt:019f6369-82bd-7aab-8d8d-f190d01d41a9",
       "time": "2026-07-15 09:34:46",
@@ -251,6 +372,15 @@
         "市場"
       ],
       "text": "國家統計局：2026年6月份，70個大中城市中，一線城市商品住宅銷售價格環比上漲，二三線城市環比下降或持平，一二三線城市同比降幅總體繼續收窄。新建商品住宅銷售價格環比上漲城市個數比上月繼續增加。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153806742980",
+      "time": "2026-07-15 09:30:29",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：6月份各線城市商品住宅銷售價格同比降幅總體繼續收窄】2026年6月份，70個大中城市中，一線城市商品住宅銷售價格環比上漲，二三線城市環比下降或持平，一二三線城市同比降幅總體繼續收窄。新建商品住宅銷售價格環比上漲城市個數比上月繼續增加。"
     },
     {
       "id": "4988783",
@@ -171433,141 +171563,6 @@
         "市場"
       ],
       "text": "【創新藥板塊短線拉昇，太極集團漲停】創新藥板塊短線拉昇，太極集團漲停，亞虹醫藥、賽升藥業、上海萊士、美迪西、悅康藥業跟漲。"
-    },
-    {
-      "id": "mkt:019f3f61-0c99-7aab-8cdb-6b4163da937f",
-      "time": "2026-07-08 09:39:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01989.HK",
-        "Impact bullish"
-      ],
-      "text": "Guanghe Technology (01989.HK) shares rose over 6% after the company guided 1H net profit could increase by up to 95.29% YoY."
-    },
-    {
-      "id": "4975326",
-      "time": "2026-07-08 09:38:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞競爭與消費者委員會（ACCC）：JustAnswer因誤導性定價陳述及誤導性關聯關係宣告，將支付1000萬澳元罰款。"
-    },
-    {
-      "id": "mkt:019f3f60-2f17-7aab-8cdb-647fdb082167",
-      "time": "2026-07-08 09:38:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share humanoid-robot concept stocks opened sharply lower: Estun Automation hit the daily limit-down, Fengguang Precision fell over 10%, and peers Lude Harmonic, Dayang Motor, Julun Intelligent, Rifa Precision and Orbbec also declined."
-    },
-    {
-      "id": "mkt:019f3f5f-d908-7aab-8cdb-5a46bfde1e08",
-      "time": "2026-07-08 09:37:53",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "01177.HK",
-        "Impact bullish"
-      ],
-      "text": "HK-listed China Biopharma (01177.HK) shares rose more than 6% after the company agreed an exclusive licensing deal with AstraZeneca for TQC3721."
-    },
-    {
-      "id": "mkt:019f3f5f-95f2-7aab-8cdb-506e7d47367e",
-      "time": "2026-07-08 09:37:36",
-      "tags": [
-        "MKT News",
-        "RIVN.O",
-        "Impact bearish"
-      ],
-      "text": "Rivian (RIVN.O) priced an underwritten public offering of 75 million common shares at $15.50 each, raising about $1.2 billion."
-    },
-    {
-      "id": "4975325",
-      "time": "2026-07-08 09:37:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股晶片股集體反彈，上海復旦漲超10%】港股晶片股集體反彈，上海復旦漲超10%，華虹宏力漲超6%，中芯國際、壁仞科技漲近4%，英諾賽科漲超2%。"
-    },
-    {
-      "id": "4975324",
-      "time": "2026-07-08 09:37:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股石油股走強 中國海洋石油漲超4%】截至發稿，中國海洋石油(00883.HK)漲4.17%，中國石油股份(00857.HK)漲3.91%，中海油田服務(02883.HK)漲2.23%。"
-    },
-    {
-      "id": "4975323",
-      "time": "2026-07-08 09:37:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4975322",
-      "time": "2026-07-08 09:37:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人形機器人概念股盤初下挫，埃斯頓觸及跌停】人形機器人概念股盤初下挫，埃斯頓觸及跌停，豐光精密跌超10%，綠的諧波、大洋電機、巨輪智慧、日發精機、奧比中光跟跌。"
-    },
-    {
-      "id": "4975321",
-      "time": "2026-07-08 09:37:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江海事局啟動第9號颱風“巴威”Ⅲ級防颱應急響應】今天（7月8日）早晨5時，今年第9號颱風“巴威”的中心位於臺灣基隆市東偏南方向約1650公里的洋麵上，預計未來“巴威”將以每小時20-25公里的速度向偏西方向移動。根據颱風態勢及走向，浙江海事局決定於7月8日8時啟動Ⅲ級防颱應急響應。"
-    },
-    {
-      "id": "mkt:019f3f5e-9cf4-7aab-8cdb-4ab6377ab9cd",
-      "time": "2026-07-08 09:36:32",
-      "tags": [
-        "MKT News",
-        "300763.SZ",
-        "Impact bullish"
-      ],
-      "text": "【Ginlong Technologies says Q3 2026 orders full; inverter shipments seen up ~30% QoQ】Ginlong Technologies said on a July 7 conference call that orders for Q3 2026 are full. Total inverter shipments (residential storage, C&I storage and grid‑tied) are expected to rise about 30% QoQ, with storage inverters growing faster than grid‑tied units. Residential storage system pairing rate is roughly 20–30% now; the company targets above 50% in 2027 and expects system sales to materially outpace inverter sales. For C&I storage, monthly inverter order intake has exceeded 4,000 units and is climbing month‑on‑month; system repeat order rates are very high."
-    },
-    {
-      "id": "4975320",
-      "time": "2026-07-08 09:36:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【算力租賃概念震盪反彈 網宿科技漲近15%】早盤算力租賃概念震盪反彈，網宿科技漲近15%，深信服、雲天勵飛、優刻得、奧飛資料、協創資料跟漲。"
-    },
-    {
-      "id": "mkt:019f3f5e-37a9-7aab-8cdb-44552e7151af",
-      "time": "2026-07-08 09:36:06",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Alarm sirens and explosions reported in Bahrain."
-    },
-    {
-      "id": "4975319",
-      "time": "2026-07-08 09:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "Rivian：以每股15.5美元定價增發7500萬股，募資總額12億美元。"
     }
   ]
 }
