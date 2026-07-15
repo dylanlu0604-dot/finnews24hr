@@ -1,7 +1,100 @@
 {
   "date": "2026-07-15",
-  "count": 3678,
+  "count": 3688,
   "items": [
+    {
+      "id": "4990447",
+      "time": "2026-07-15 23:29:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 移民相關政策決定會影響潛在國內生產總值，在採納專項工作組的建議時，會兼顧美聯儲的兩項法定政策目標。"
+    },
+    {
+      "id": "mkt:019f6665-638e-7aab-8daa-887b726ed948",
+      "time": "2026-07-15 23:29:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said immigration decisions affect potential GDP."
+    },
+    {
+      "id": "mkt:019f6665-056a-7aab-8daa-8261572a0a2c",
+      "time": "2026-07-15 23:28:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources say ANTHROPIC plans to hold investor meetings for its IPO in the coming weeks."
+    },
+    {
+      "id": "mkt:019f6664-d3b5-7aab-8daa-78c02d7894ff",
+      "time": "2026-07-15 23:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said it is currently focused on defending the country."
+    },
+    {
+      "id": "4990446",
+      "time": "2026-07-15 23:28:30",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic 計劃未來數週開展 IPO 投資者溝通會。"
+    },
+    {
+      "id": "mkt:019f6664-93cc-7aab-8daa-7769670f8354",
+      "time": "2026-07-15 23:28:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he will simultaneously consider both of the Fed's dual-mandate objectives when evaluating working group recommendations."
+    },
+    {
+      "id": "4990445",
+      "time": "2026-07-15 23:28:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門交通與公共事務部長宣佈，薩那國際機場已完成因沙特領導聯軍空襲造成的損毀修復工作，全面恢復運營。"
+    },
+    {
+      "id": "mkt:019f6662-ff9b-7aab-8daa-6e3b5426528d",
+      "time": "2026-07-15 23:26:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's Sanaa International Airport resumed operations."
+    },
+    {
+      "id": "te:economy:567282",
+      "time": "2026-07-15 23:25:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Colombia Industrial Output Unexpectedly Falls in May — Colombia's industrial production fell 0.4% year-on-year in May 2026, reversing a 2.0% increase in the previous month and defying expectations of a 1.3% expansion. This marks the first decline following four consecutive months with increases, as output declined in 25 of the 39 industrial categories. The largest decreases were recorded in the processing and preserving of meat, fish, crustaceans, and molluscs (-10.7%), manufacture of apparel (-11.3%), spinning, weaving, and finishing of textiles (-20.8%), basic iron and steel industries (-10.6%), and manufacture of cocoa, chocolate, and confectionery (-18.1%). Offsetting part of the decline were gains in the manufacture of beverages (9.1%), sugar and unrefined cane sugar (62.1%), and soaps and detergents (5.7%). Meanwhile, industrial employment continued to contract, with the decline widening to 1.0% year-on-year in May from 0.9% in the previous month."
+    },
+    {
+      "id": "4990444",
+      "time": "2026-07-15 23:25:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾將於 7 月 22 日出席參議院小組聽證會並作證。"
+    },
     {
       "id": "mkt:019f6661-9b3f-7aab-8daa-65b12ccbb0bf",
       "time": "2026-07-15 23:25:00",

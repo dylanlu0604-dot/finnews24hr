@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-15 23:26:06",
-  "count": 18821,
+  "updated": "2026-07-15 23:30:18",
+  "count": 18820,
   "items": [
+    {
+      "id": "4990447",
+      "time": "2026-07-15 23:29:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 移民相關政策決定會影響潛在國內生產總值，在採納專項工作組的建議時，會兼顧美聯儲的兩項法定政策目標。"
+    },
+    {
+      "id": "mkt:019f6665-638e-7aab-8daa-887b726ed948",
+      "time": "2026-07-15 23:29:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said immigration decisions affect potential GDP."
+    },
+    {
+      "id": "mkt:019f6665-056a-7aab-8daa-8261572a0a2c",
+      "time": "2026-07-15 23:28:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Market sources say ANTHROPIC plans to hold investor meetings for its IPO in the coming weeks."
+    },
+    {
+      "id": "mkt:019f6664-d3b5-7aab-8daa-78c02d7894ff",
+      "time": "2026-07-15 23:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said it is currently focused on defending the country."
+    },
+    {
+      "id": "4990446",
+      "time": "2026-07-15 23:28:30",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：Anthropic 計劃未來數週開展 IPO 投資者溝通會。"
+    },
+    {
+      "id": "mkt:019f6664-93cc-7aab-8daa-7769670f8354",
+      "time": "2026-07-15 23:28:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair Kevin Warsh said he will simultaneously consider both of the Fed's dual-mandate objectives when evaluating working group recommendations."
+    },
+    {
+      "id": "4990445",
+      "time": "2026-07-15 23:28:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門交通與公共事務部長宣佈，薩那國際機場已完成因沙特領導聯軍空襲造成的損毀修復工作，全面恢復運營。"
+    },
+    {
+      "id": "mkt:019f6662-ff9b-7aab-8daa-6e3b5426528d",
+      "time": "2026-07-15 23:26:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yemen's Sanaa International Airport resumed operations."
+    },
+    {
+      "id": "te:economy:567282",
+      "time": "2026-07-15 23:25:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Colombia Industrial Output Unexpectedly Falls in May — Colombia's industrial production fell 0.4% year-on-year in May 2026, reversing a 2.0% increase in the previous month and defying expectations of a 1.3% expansion. This marks the first decline following four consecutive months with increases, as output declined in 25 of the 39 industrial categories. The largest decreases were recorded in the processing and preserving of meat, fish, crustaceans, and molluscs (-10.7%), manufacture of apparel (-11.3%), spinning, weaving, and finishing of textiles (-20.8%), basic iron and steel industries (-10.6%), and manufacture of cocoa, chocolate, and confectionery (-18.1%). Offsetting part of the decline were gains in the manufacture of beverages (9.1%), sugar and unrefined cane sugar (62.1%), and soaps and detergents (5.7%). Meanwhile, industrial employment continued to contract, with the decline widening to 1.0% year-on-year in May from 0.9% in the previous month."
+    },
+    {
+      "id": "4990444",
+      "time": "2026-07-15 23:25:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾將於 7 月 22 日出席參議院小組聽證會並作證。"
+    },
     {
       "id": "4990443",
       "time": "2026-07-15 23:25:00",
@@ -173029,108 +173122,6 @@
         "XAUUSD"
       ],
       "text": "【US official: follow-up strike plan still being developed】CNN reported a US official familiar with an ongoing military review said the situation remains highly dynamic and planners are still deciding how to carry out the next round of strikes on Iran. The official said US forces carried out nighttime sea- and land-based strikes on Iranian targets near the Strait of Hormuz that degraded Iran’s ability to attack vessels using the Oman route; afterwards Iran continued to harass shipping by radio but mounted no further attacks on ships today."
-    },
-    {
-      "id": "te:economy:565349",
-      "time": "2026-07-08 23:30:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Brazil 10Y Bond Yield Gains by 13 bps — Government bonds yields are higher on Wednesday. Top gainers are Brazil 10Y (13bps), France 10Y (12.99bps), United Kingdom 10Y (12.84bps), Germany 10Y (9.95bps), US 10Y (4.30bps) and Japan 10Y (3.62bps)."
-    },
-    {
-      "id": "4977221",
-      "time": "2026-07-08 23:29:46",
-      "tags": [
-        "央行",
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會主席邁克·塞利格：特朗普執政期間，美國“絕不會”推出央行數字貨幣（CBDC）。"
-    },
-    {
-      "id": "4977220",
-      "time": "2026-07-08 23:29:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度：對中東局勢緊張升級深表關切。"
-    },
-    {
-      "id": "4977219",
-      "time": "2026-07-08 23:29:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "約翰迪爾公司根據與美國聯邦貿易委員會及各州達成的協議，重申為農民提供診斷和維修工具的承諾。"
-    },
-    {
-      "id": "4977218",
-      "time": "2026-07-08 23:28:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：特朗普時常採取十分強硬的方式施壓。以往幾任美國總統都會委婉地呼籲我們“拜託，好歹為本國防務多投入一些”。但歐洲各國大多對此置若罔聞。而今這位美國總統直言不諱。我無法指責他。只需看一組資料，美國承擔了北約約八成防務開支，歐洲僅佔兩成左右。這種現狀難以接受，向來如此。"
-    },
-    {
-      "id": "4977217",
-      "time": "2026-07-08 23:27:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：正努力推動外交途徑奏效，並將持續推進相關工作。"
-    },
-    {
-      "id": "4977216",
-      "time": "2026-07-08 23:27:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：已（與美方）就鞏固我方陣地展開磋商。"
-    },
-    {
-      "id": "4977215",
-      "time": "2026-07-08 23:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最新公佈導彈襲擊美軍目標影片】伊朗國家電視臺今天（7月8日）釋出影片，顯示伊朗今天早些時候發射導彈襲擊美軍目標。伊朗伊斯蘭革命衛隊稱，美軍今天凌晨公然違反停火協議，違背《伊斯蘭堡諒解備忘錄》，對伊朗霍爾木茲甘省和馬赫沙赫爾省沿海多個軍事基地和民用設施發動空襲。作為對美國侵略行為的“初步回應”，革命衛隊海軍和空軍部隊透過聯合導彈和無人機行動，摧毀了位於巴林的美軍第五艦隊和位於科威特阿里·薩利姆空軍基地的85處重要美軍設施，並擊落了一架試圖干擾行動的敵方MQ-9型無人機。 對於美國總統特朗普威脅稱今晚或將再襲伊朗，據伊朗媒體援引訊息人士報道稱，“如果美國再對伊朗發動任何襲擊，伊朗將關閉霍爾木茲海峽，並雙倍奉還美軍襲擊（即打擊兩倍於伊朗遭襲目標的美軍目標）。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f4256-986f-7aab-8cf6-d5517fddea8a",
-      "time": "2026-07-08 23:26:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine President ZELENSKIY said his meeting with US President Trump and his team was very successful."
-    },
-    {
-      "id": "mkt:019f4256-7af9-7aab-8cf6-cf6877039c07",
-      "time": "2026-07-08 23:26:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "After Russia banned diesel exports, the European benchmark diesel crack spread surged to a record $60.17/bbl."
-    },
-    {
-      "id": "4977214",
-      "time": "2026-07-08 23:26:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：與特朗普總統及其團隊的會面很順利。"
     }
   ]
 }
