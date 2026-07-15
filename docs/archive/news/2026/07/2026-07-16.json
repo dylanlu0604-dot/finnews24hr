@@ -1,7 +1,15 @@
 {
   "date": "2026-07-16",
-  "count": 419,
+  "count": 420,
   "items": [
+    {
+      "id": "mkt:019f67a8-c10c-7aab-8db0-b1f57884c3fb",
+      "time": "2026-07-16 05:22:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department approved the sale of advanced precision-strike weapons systems and related equipment to Saudi Arabia, estimated at $1.96 billion."
+    },
     {
       "id": "4990780",
       "time": "2026-07-16 05:19:38",
