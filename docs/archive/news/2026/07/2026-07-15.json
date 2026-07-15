@@ -1,7 +1,43 @@
 {
   "date": "2026-07-15",
-  "count": 3345,
+  "count": 3352,
   "items": [
+    {
+      "id": "4990267",
+      "time": "2026-07-15 22:17:00",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席凱文・沃什向參議院委員會重申證詞。"
+    },
+    {
+      "id": "mkt:019f6620-f39d-7aab-8da6-69f9d40347cd",
+      "time": "2026-07-15 22:14:23",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Merz says U.S. tariff policy has slowed German reforms, dented recovery】German Chancellor Merz told his annual summer press conference in Berlin on July 15 that government reforms are taking longer than expected and that U.S. tariff policy, in addition to domestic factors, has hit early recovery momentum and severely weakened recovery prospects. He said the decision to take on substantial additional borrowing was prompted by changes in the diplomatic and security environment—notably the situation in Ukraine and actions by some partners toward Ukraine—which forced a recalibration of fiscal policy. Merz did not name countries or leaders; his remarks have been widely interpreted as referring to U.S. President Trump."
+    },
+    {
+      "id": "4990266",
+      "time": "2026-07-15 22:14:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 我們發起 “史詩怒火” 行動時，我本以為伊朗政權更迭是有可能實現的。 我完全沒料到伊朗政權竟不惜造成 5.2 萬人傷亡，哪怕只是犧牲少數人都超出我的預想。"
+    },
+    {
+      "id": "4990265",
+      "time": "2026-07-15 22:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞國家統計局公佈：6月奈及利亞消費者通脹率同比為15.91%，5月為15.93%。"
+    },
     {
       "id": "mkt:019f6620-205c-7aab-8da6-64c06081e8f4",
       "time": "2026-07-15 22:13:29",
@@ -38,6 +74,14 @@
         "MKT News"
       ],
       "text": "Fitch affirmed the rating of a Saudi energy company at A+, with a stable outlook."
+    },
+    {
+      "id": "4990263",
+      "time": "2026-07-15 22:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德國總理：美關稅政策拖累德國經濟改革程序】德國總理默茨當地時間7月15日在柏林舉行的年度夏季記者會上表示，德國政府推進的改革“比預想中耗時更長”。默茨表示，這不僅與德國政府自身有關，還受到美國關稅政策影響。他說，本屆政府執政初期原本顯現的經濟復甦勢頭受到美國關稅政策衝擊，復甦前景遭到嚴重削弱。此外，默茨還表示，德國政府決定大規模新增舉債，是基於外交和安全形勢變化，特別是烏克蘭局勢以及“世界上一些夥伴”對烏克蘭的做法，促使德國政府重新調整財政政策。雖然默茨在講話中未直接點名相關國家或領導人，但外界普遍解讀其所指涉及美國總統特朗普。默茨表示，自己在聯邦議院選舉前曾提出應討論“債務剎車”機制，但選舉結束後認為，當前國際安全環境要求德國採取不同於以往的應對方式。他同時承認，大規模新增舉債對其“個人公信力”造成壓力，希望透過提升國防能力和增強經濟競爭力等實際成果予以彌補，並表示進一步修改德國“債務剎車”制度的可能性較低。（央視新聞）"
     },
     {
       "id": "4990262",
@@ -145,6 +189,14 @@
       "text": "PTA連續主力合約日內跌2%，現報5680.00元。"
     },
     {
+      "id": "4990253",
+      "time": "2026-07-15 22:06:31",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【民航局局長宋志勇：上半年全行業完成運輸總週轉量833.7億噸公里、旅客運輸量3.8億人次 同比分別增長6.4%、1%】2026年全國民航年中工作電視電話會議15日在京召開。民航局局長宋志勇指出，上半年，面對複雜嚴峻的外部環境，全行業認真貫徹落實黨中央、國務院決策部署，堅持穩中求進工作總基調，完整準確全面貫徹新發展理念，紮實開展樹立和踐行正確政績觀學習教育，持續加強航空安全管理，科學謀劃民航高質量發展，積極應對各類風險挑戰，有力發揮戰略產業作用，全面加強黨的建設，行業總體保持了安全穩健發展態勢。全行業完成運輸總週轉量833.7億噸公里、旅客運輸量3.8億人次、貨郵運輸量507.3萬噸，同比分別增長6.4%、1%、6%。完成運輸飛行714.6萬小時、268.3萬架次，人為原因責任徵候萬時率同比下降20.6%。航班正常率93.5%，千萬級機場近機位靠橋率87.5%。實名登記無人機總數突破478.8萬架，累計飛行2641.4萬小時，同比增長8%。"
+    },
+    {
       "id": "4990252",
       "time": "2026-07-15 22:06:24",
       "tags": [
@@ -159,6 +211,14 @@
         "其他"
       ],
       "text": "曼哈頓聯邦檢察官克萊頓：我並非否認大選結果之人，2020 年大選拜登獲認證當選。"
+    },
+    {
+      "id": "4990250",
+      "time": "2026-07-15 22:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【要求高市政府堅持“無核三原則”的日本地方議會已達82個】據日本共同社14日報道，自高市早苗政府去年10月成立以來，日本已有82個地方議會向中央政府或國會提交意見書，要求高市政府堅持“無核三原則”或將“無核三原則”法制化。（新華社）"
     },
     {
       "id": "mkt:019f6619-0beb-7aab-8da6-3d66f936c724",
