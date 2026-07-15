@@ -1,7 +1,155 @@
 {
-  "updated": "2026-07-15 22:38:57",
-  "count": 18734,
+  "updated": "2026-07-15 22:43:14",
+  "count": 18737,
   "items": [
+    {
+      "id": "mkt:019f663a-73e2-7aab-8da8-4908fefe6817",
+      "time": "2026-07-15 22:42:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix ADR (SKHY.O) slid further intraday, extending losses to 11%."
+    },
+    {
+      "id": "4990330",
+      "time": "2026-07-15 22:41:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元漲幅擴大，最新上漲0.52%，報1.3457美元，創6月15日以來新高。"
+    },
+    {
+      "id": "4990329",
+      "time": "2026-07-15 22:41:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：下一份道德報告要求將在下個季度提交，將完全遵守道德協議。"
+    },
+    {
+      "id": "mkt:019f6639-bade-7aab-8da8-43d544ae1abc",
+      "time": "2026-07-15 22:41:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said the next ethics reporting requirement will be proposed next quarter and will fully comply with the ethics agreement."
+    },
+    {
+      "id": "4990328",
+      "time": "2026-07-15 22:41:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗陸軍地面部隊：將在適當時候對美國襲擊伊朗東南部一處軍營的行為作出明確且即時的回應。"
+    },
+    {
+      "id": "mkt:019f6639-5ed8-7aab-8da8-3b35d54d3f2e",
+      "time": "2026-07-15 22:41:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Army Ground Forces said it will deliver a clear and immediate response at an appropriate time to a U.S. strike on a military camp in southeastern Iran."
+    },
+    {
+      "id": "4990327",
+      "time": "2026-07-15 22:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股儲存板塊跌幅繼續擴大：SK海力士跌11% 美光科技跌近8%】美股儲存板塊跌幅繼續擴大，美光科技跌7.81%，西部資料跌8.69%，希捷科技跌9.02%，閃迪跌12.96%，鎧俠ADR跌3.30%，SK海力士跌11.03%。"
+    },
+    {
+      "id": "te:economy:567257",
+      "time": "2026-07-15 22:40:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Crude Oil Stocks Change",
+        "Importance 1"
+      ],
+      "text": "US Crude Inventories Resume Decline — US crude oil inventories fell by 1.693 million barrels in the week ended July 10, reversing the previous week's 2.998 million-barrel increase, which had marked the first inventory build in eleven weeks. The decline, however, was smaller than market expectations for a 2.6 million-barrel draw. Crude stocks at the Cushing, Oklahoma, delivery hub increased by 0.43 million barrels. Refinery crude runs rose by 0.099 million barrels per day. Gasoline inventories declined by 1.533 million barrels, exceeding expectations for a 0.8 million-barrel draw. Distillate stockpiles, which include diesel and heating oil, rose by 4.556 million barrels, compared with forecasts for a 0.1 million-barrel increase. Net US crude imports fell by 0.399 million barrels per day, the first fall in four weeks."
+    },
+    {
+      "id": "mkt:019f6638-2702-7aab-8da8-31b855255bad",
+      "time": "2026-07-15 22:39:43",
+      "tags": [
+        "MKT News",
+        "DELL.N",
+        "Impact bearish"
+      ],
+      "text": "Dell (DELL.N) shares fell as much as 13%, the largest intraday decline since April 2025."
+    },
+    {
+      "id": "4990326",
+      "time": "2026-07-15 22:39:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱或很快打擊伊朗鎬山核設施】美國總統特朗普近日在一檔節目上表示，美國“可能很快”打擊伊朗納坦茲鈾濃縮設施附近的“鎬山”地下核設施。“鎬山”位於納坦茲鈾濃縮設施以南約1.6公里處，擁有兩座深埋地下的隧道群，被認為是伊朗最堅固的地下核設施之一，專家稱其能夠抵禦美國現役最強鑽地炸彈的攻擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "4990325",
+      "time": "2026-07-15 22:39:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴爾股價跌幅擴大至13%，為2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "4990324",
+      "time": "2026-07-15 22:39:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "國際貨幣基金組織戰略主管：對二十國集團債務重組共同框架正在發揮效用持樂觀態度；將持續推進流程最佳化工作。"
+    },
+    {
+      "id": "4990323",
+      "time": "2026-07-15 22:38:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金力永磁：正進行具身機器人電機轉子研發，並有小批次產品交付】金力永磁今日接受機構調研時表示，公司正積極配合世界知名科技公司進行具身機器人電機轉子研發，並有小批次產品交付。另外，公司透過直接投資或參與產業基金等方式，對相關產業鏈關鍵環節進行戰略佈局，加速產業協同和商業化落地。"
+    },
+    {
+      "id": "mkt:019f6637-2914-7aab-8da8-2b6936e4c02b",
+      "time": "2026-07-15 22:38:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "EUR/GBP slipped below 0.85 for the first time since June 2025, down 0.29% on the day."
+    },
+    {
+      "id": "4990322",
+      "time": "2026-07-15 22:38:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌英鎊匯率跌破 0.85 關口，為 2025 年 6 月以來首次。"
+    },
+    {
+      "id": "te:economy:567256",
+      "time": "2026-07-15 22:38:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Dominican Republic",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Dominican CPI Rises to Three-Year High — The annual inflation rate in the Dominican Republic rose to 5.67% in June 2026 from 5.35% in the previous month, marking the highest reading since March 2023. The strongest price pressures were recorded in transport (8.37%), restaurants and hotels (8.03%), and food and non-alcoholic beverages (7.01%). Education prices also rose at a faster pace than the overall inflation rate, increasing 6.64%. Costs also increased for alcoholic beverages and tobacco (5.47%), healthcare (4.94%), housing (2.47%), furniture and household equipment (2.17%), and recreation and culture (2.20%). Meanwhile, prices continued to decline for clothing and footwear (-1.15%) and communications (-0.80%). On a monthly basis, consumer prices rose 0.51% in June, following a 0.31% increase in May."
+    },
     {
       "id": "4990321",
       "time": "2026-07-15 22:37:48",
@@ -172159,128 +172307,6 @@
         "焦點"
       ],
       "text": "紐約期金失守4050美元/盎司，日內跌2.59%。"
-    },
-    {
-      "id": "mkt:019f422e-a315-7aab-8cf5-dbcefac27c95",
-      "time": "2026-07-08 22:43:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Market sources: Russian President Putin is meeting with members of the Russian government to discuss issues related to the fuel complex."
-    },
-    {
-      "id": "4977143",
-      "time": "2026-07-08 22:42:58",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "墨西哥財政部長預計，在國際貨幣基金組織下調該國國內生產總值增長預期後，墨西哥經濟表現將好於該組織的最新預測。"
-    },
-    {
-      "id": "4977142",
-      "time": "2026-07-08 22:42:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海南省政府與中國汽車技術研究中心有限公司簽約】據海南日報，7月8日，海南省政府與中國汽車技術研究中心有限公司簽署戰略合作框架協議。根據協議，雙方將建立高層領導不定期會晤制度、常態化溝通聯絡和工作協同機制，聚焦海南清潔能源島建設，支援中汽中心在瓊佈局建設政策與標準研究、熱區標定與測試、進出口服務、智慧網聯測試、新能源及節能減排、汽車文旅及後市場等六大中心。"
-    },
-    {
-      "id": "mkt:019f422e-203e-7aab-8cf5-d21d6105eefa",
-      "time": "2026-07-08 22:42:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said no country other than the United States can obtain Iran's uranium."
-    },
-    {
-      "id": "mkt:019f422e-0148-7aab-8cf5-c8251429951f",
-      "time": "2026-07-08 22:42:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Trump, asked about sending ground troops to Iran, said 'Why would I do that?' He added the US has identified the precise location of Iran's nuclear material buried under a mountain and has equipment to extract it."
-    },
-    {
-      "id": "mkt:019f422d-2da8-7aab-8cf5-c2aa0fc5738f",
-      "time": "2026-07-08 22:41:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said no one has helped Israel as much as he has."
-    },
-    {
-      "id": "mkt:019f422d-1c9c-7aab-8cf5-be1fc1e6d268",
-      "time": "2026-07-08 22:41:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "President Trump said Erdogan and Netanyahu are unable to reach consensus."
-    },
-    {
-      "id": "4977141",
-      "time": "2026-07-08 22:41:02",
-      "tags": [],
-      "text": "報道:伊朗將按至少2:1的比例襲擊“敵對勢力的”目標。"
-    },
-    {
-      "id": "4977140",
-      "time": "2026-07-08 22:40:36",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "匈牙利財政部長表示，滿足財政標準將是入歐之路最具挑戰的一環。"
-    },
-    {
-      "id": "4977139",
-      "time": "2026-07-08 22:40:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月國內航線機票預訂量超3000萬張】進入7月，學生與親子家庭出行需求集中釋放，暑期旅遊市場持續升溫。隨著7月5日燃油附加費下調，旅客出行成本進一步降低，訂票平臺資料顯示，近期暑期機票搜尋量與出票量均創下暑運以來新高。截至今天（8日），7月國內航線機票預訂量超3064萬張，比一週前增長約89%；出入境航線機票預訂量超624萬張，比一週前增長約24%。業內人士表示，截至目前，暑期7-8月，飛赴成都、重慶、海口、南京、大連等地的機票量同比增長超八成。以北京出發為例，未來兩週，直飛蘭州、寧波等地票價僅為400元左右；上海飛往蘭州、青島等地的最低價格在300元左右。（央視財經）"
-    },
-    {
-      "id": "mkt:019f422b-f654-7aab-8cf5-b6c5a2c643db",
-      "time": "2026-07-08 22:40:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump called the agreement between Lebanon and Israel 'great'."
-    },
-    {
-      "id": "4977138",
-      "time": "2026-07-08 22:39:40",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：巴基斯坦央行透過短期國庫券共融資2.07萬億盧比。"
-    },
-    {
-      "id": "mkt:019f422b-5377-7aab-8cf5-ac8ebd12afa7",
-      "time": "2026-07-08 22:39:23",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Middle East risk spills into grain markets as supply-chain concerns rise】Escalation in the Middle East has pushed oil sharply higher and risk premia are now spilling into agricultural markets. US corn, soy and wheat futures rose intraday as traders repriced higher energy-driven input costs. Oil gains increase fertilizer production and global logistics costs, so sustained oil strength could lift fertilizer, transport and farm production costs and prompt markets to price cost-push inflation. Heightened geopolitical risk around the Black Sea and Middle East — both key grain and energy shipping corridors — raises the probability of supply disruptions; international traders are widening risk premia and reallocating some capital into physical commodities. Market positioning is shifting from a growth-slowdown trade to reassessing a re-flationary mix of energy, food and geo risks."
     }
   ]
 }
