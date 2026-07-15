@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-16 04:08:10",
-  "count": 18624,
+  "updated": "2026-07-16 04:12:05",
+  "count": 18626,
   "items": [
+    {
+      "id": "4990710",
+      "time": "2026-07-16 04:11:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合航空：預計2026年第三季度與第四季度的每可用座位英里總收入同比增速均將高於2026年第二季度。"
+    },
+    {
+      "id": "4990708",
+      "time": "2026-07-16 04:11:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "金街資本限制客戶贖回旗下對沖基金資金。"
+    },
+    {
+      "id": "4990707",
+      "time": "2026-07-16 04:10:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：等伊朗局勢穩定下來，油價就能達到每桶55美元。"
+    },
+    {
+      "id": "4990706",
+      "time": "2026-07-16 04:09:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽評級：紐約市租金凍結令對租金管制型多戶住宅造成壓力，加劇商業抵押貸款支援證券風險。"
+    },
+    {
+      "id": "4990705",
+      "time": "2026-07-16 04:09:22",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普將油價上漲歸咎於伊朗。"
+    },
+    {
+      "id": "mkt:019f6765-eb91-7aab-8db0-1ede5b8bf17b",
+      "time": "2026-07-16 04:09:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said oil prices rose slightly because he had to take tough measures."
+    },
     {
       "id": "4990704",
       "time": "2026-07-16 04:07:08",
@@ -171321,42 +171377,6 @@
         "DXY"
       ],
       "text": "Axios reports the U.S. military is conducting strikes against Iran."
-    },
-    {
-      "id": "mkt:019f435b-c220-7aab-8cfe-1cf956e8966c",
-      "time": "2026-07-09 04:11:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Explosions reported in southern Iran’s Bandar Abbas and Sirik】Iranian media reported late on July 8 local time explosions were heard in Bandar Abbas, capital of Hormozgan province, and in Sirik; details remain unclear. In the early hours of the same day Bandar Abbas, Sirik and other locations in southern Iran were struck by U.S. military strikes."
-    },
-    {
-      "id": "4977588",
-      "time": "2026-07-09 04:11:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios： 美軍正對伊朗發動打擊。"
-    },
-    {
-      "id": "mkt:019f435a-9a83-7aab-8cfe-15764715edb6",
-      "time": "2026-07-09 04:10:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ANEC expects Brazil's July soybean exports at 12.26 mln t, up from 11.94 mln t a year earlier."
-    },
-    {
-      "id": "4977587",
-      "time": "2026-07-09 04:10:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "SpaceX跌穿IPO發行價，該公司股票此前進入納斯達克100指數。"
     }
   ]
 }
