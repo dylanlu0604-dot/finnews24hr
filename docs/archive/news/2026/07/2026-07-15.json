@@ -1,7 +1,83 @@
 {
   "date": "2026-07-15",
-  "count": 790,
+  "count": 798,
   "items": [
+    {
+      "id": "4988690",
+      "time": "2026-07-15 08:20:13",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【國金證券：產業、業績與資金三維共振，把握創新藥底部佈局機遇】國金證券研報表示，創新藥出海BD景氣上行，ADC、雙抗等前沿賽道全球領先，疊加審評效率與成本優勢，中國藥企深度嵌入全球產業鏈。TOP15 MNC年投入約2000億美元外部合作，今年已達2003億，併購高景氣確立。國內後端管線擴容，醫保談判與基藥目錄擴容雙向賦能，行業進入業績兌現黃金期。港股估值觸底，外資減持近底、南下資金增配，全球醫藥情緒回暖，優質標的配置視窗已至。"
+    },
+    {
+      "id": "mkt:019f6324-f82a-7aab-8d8c-5532283ecbf3",
+      "time": "2026-07-15 08:19:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【CITIC Securities: June US CPI broadly below expectations; still expects Fed to keep rates on hold this year】CITIC Securities says June US CPI came in broadly below expectations: retail gasoline fell, core services were flat MoM, and second‑round inflation effects were weak. The firm assesses inflation lacks persistence; headline CPI YoY has passed this cycle’s peak, should drift down modestly in Q3 with a trough in September, rise to a secondary peak by year‑end and then fall sharply by March next year. CITIC still expects the Fed to keep policy rates unchanged through the year and sees room for derivatives‑implied hike probabilities to be revised lower. Market implications: US Treasuries are not attractive for allocation trades—short‑duration better than long‑duration; the dollar is unlikely to sustain a strong rally but retains support; US tech equities remain attractive."
+    },
+    {
+      "id": "mkt:019f6323-ead0-7aab-8d8c-4aa02cd71505",
+      "time": "2026-07-15 08:18:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated a temporary suspension mechanism for the KOSDAQ; algorithmic trading paused for 5 minutes."
+    },
+    {
+      "id": "mkt:019f6323-982d-7aab-8d8c-46276dcf52b8",
+      "time": "2026-07-15 08:18:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military said its air defence forces are currently responding to hostile drones originating from Iran."
+    },
+    {
+      "id": "4988689",
+      "time": "2026-07-15 08:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱其防空系統正應對伊朗發動的\"敵對\"無人機襲擊。"
+    },
+    {
+      "id": "4988688",
+      "time": "2026-07-15 08:17:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停韓國創業板指（KOSDAQ）程式化買入5分鐘。"
+    },
+    {
+      "id": "4988687",
+      "time": "2026-07-15 08:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍隊在 X 上釋出訊息稱，科威特防空部隊應對敵對無人機威脅。"
+    },
+    {
+      "id": "4988686",
+      "time": "2026-07-15 08:16:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.1%，納斯達克指數期貨上漲0.3%。"
+    },
     {
       "id": "4988685",
       "time": "2026-07-15 08:16:30",

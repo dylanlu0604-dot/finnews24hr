@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-15 08:17:03",
-  "count": 18746,
+  "updated": "2026-07-15 08:21:00",
+  "count": 18748,
   "items": [
+    {
+      "id": "4988690",
+      "time": "2026-07-15 08:20:13",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【國金證券：產業、業績與資金三維共振，把握創新藥底部佈局機遇】國金證券研報表示，創新藥出海BD景氣上行，ADC、雙抗等前沿賽道全球領先，疊加審評效率與成本優勢，中國藥企深度嵌入全球產業鏈。TOP15 MNC年投入約2000億美元外部合作，今年已達2003億，併購高景氣確立。國內後端管線擴容，醫保談判與基藥目錄擴容雙向賦能，行業進入業績兌現黃金期。港股估值觸底，外資減持近底、南下資金增配，全球醫藥情緒回暖，優質標的配置視窗已至。"
+    },
+    {
+      "id": "mkt:019f6324-f82a-7aab-8d8c-5532283ecbf3",
+      "time": "2026-07-15 08:19:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【CITIC Securities: June US CPI broadly below expectations; still expects Fed to keep rates on hold this year】CITIC Securities says June US CPI came in broadly below expectations: retail gasoline fell, core services were flat MoM, and second‑round inflation effects were weak. The firm assesses inflation lacks persistence; headline CPI YoY has passed this cycle’s peak, should drift down modestly in Q3 with a trough in September, rise to a secondary peak by year‑end and then fall sharply by March next year. CITIC still expects the Fed to keep policy rates unchanged through the year and sees room for derivatives‑implied hike probabilities to be revised lower. Market implications: US Treasuries are not attractive for allocation trades—short‑duration better than long‑duration; the dollar is unlikely to sustain a strong rally but retains support; US tech equities remain attractive."
+    },
+    {
+      "id": "mkt:019f6323-ead0-7aab-8d8c-4aa02cd71505",
+      "time": "2026-07-15 08:18:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange activated a temporary suspension mechanism for the KOSDAQ; algorithmic trading paused for 5 minutes."
+    },
+    {
+      "id": "mkt:019f6323-982d-7aab-8d8c-46276dcf52b8",
+      "time": "2026-07-15 08:18:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military said its air defence forces are currently responding to hostile drones originating from Iran."
+    },
+    {
+      "id": "4988689",
+      "time": "2026-07-15 08:18:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱其防空系統正應對伊朗發動的\"敵對\"無人機襲擊。"
+    },
+    {
+      "id": "4988688",
+      "time": "2026-07-15 08:17:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停韓國創業板指（KOSDAQ）程式化買入5分鐘。"
+    },
+    {
+      "id": "4988687",
+      "time": "2026-07-15 08:17:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍隊在 X 上釋出訊息稱，科威特防空部隊應對敵對無人機威脅。"
+    },
+    {
+      "id": "4988686",
+      "time": "2026-07-15 08:16:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨上漲0.1%，納斯達克指數期貨上漲0.3%。"
+    },
     {
       "id": "4988685",
       "time": "2026-07-15 08:16:30",
@@ -171566,57 +171642,6 @@
         "Impact bullish"
       ],
       "text": "SK Hynix shares turned positive intraday after earlier falling as much as 5%."
-    },
-    {
-      "id": "4975198",
-      "time": "2026-07-08 08:20:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方代表在聯合國人工智慧治理全球對話首次會議上發言 】在聯合國人工智慧治理全球對話首次會議上，中國常駐聯合國日內瓦辦事處和瑞士其他國際組織代表賈桂德就“彌合人工智慧鴻溝”專題作發言。 賈桂德表示，人工智慧正深刻重塑各國發展格局和全球治理架構，各方應以普惠包容為立足點、以聯合國為主渠道、以能力建設為著力點，塑造包容、開放、可持續、公平、安全和可靠的數智未來。數字主權意味著各國有權自主選擇人工智慧產品，不應被脅迫選邊站隊。 賈桂德強調，中國是人工智慧能力建設的倡導者、推動者和先行者，提出《全球人工智慧治理倡議》，助力各國共享智慧紅利。中國將舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，期待各方積極參與，彌合人工智慧鴻溝。"
-    },
-    {
-      "id": "4975197",
-      "time": "2026-07-08 08:20:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米汽車新產品系列命名為SKYNOMAD】小米汽車官方微博今日釋出主題為“SKYNOMAD”的海報，“SKY”指天空，“NOMAD”指遊牧者，海報上帶有小米品牌LOGO。知情人士表示，SKYNOMAD並非此前網傳的“紅米汽車”，而是小米汽車繼SU7、YU7後的新產品新型號，該系列採用了新的設計語言，與理想L9、問界M9處於同一級別，將主打大空間多人出行市場，這也是2026年下半年最重要的SUV產品之一。"
-    },
-    {
-      "id": "4975196",
-      "time": "2026-07-08 08:19:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【新加坡要求開發商對高風險購房者加強核查】新加坡住房監管機構告知房地產開發商，需對高風險購房人群實施強化反洗錢審查，並明確大多數購房者無需接受資金來源、財富來源等額外核查。新加坡市區重建局於週二釋出通告稱，房產企業開展客戶盡職調查應遵循 “風險匹配” 原則。對絕大多數購房者，完成身份核驗、背景篩查等標準流程即可；僅針對經評估存在較高洗錢、恐怖融資或擴散融資風險的買家，才需要開展深度核查。該指引與新加坡整體推行的風險導向型反洗錢監管思路保持一致。上月，新加坡金融管理局出臺修訂後的單一家族辦公室監管框架，在簡化牌照申請要求的同時，持續落實反洗錢相關合規義務。"
-    },
-    {
-      "id": "4975195",
-      "time": "2026-07-08 08:18:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴外長：美國封鎖致古累計損失已達1787億美元 】古巴外交部長羅德里格斯7日表示，按現行價格計算，美國長期對古巴封鎖已致古巴累計損失達1787億美元。 據古巴外交部在社交媒體釋出的訊息，聯合國大會當天以壓倒性多數決定繼續就“必須終止美國對古巴的經濟、商業和金融封鎖”舉行辯論。羅德里格斯在辯論中表示，2025年3月1日至2026年2月28日，美國封鎖給古巴造成的損失達到創紀錄的80.83億美元，較上一年增長7%。（新華社）"
-    },
-    {
-      "id": "4975194",
-      "time": "2026-07-08 08:18:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲3%，現報76.39美元/桶。"
-    },
-    {
-      "id": "te:markets:565008",
-      "time": "2026-07-08 08:17:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Decline as US Strikes Iran — Silver held below $60 an ounce on Wednesday after dropping more than 3% in the previous session, as the US military launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. The US also revoked a waiver allowing Iran to sell crude on global markets, while the latest hostilities discouraged shipowners and regional producers from using Hormuz, raising the risk of renewed disruptions to global energy supplies. Meanwhile, investors awaited the minutes of the Federal Reserve’s June meeting for further clues on the policy outlook. Silver had recently rebounded after softer-than-expected US jobs data prompted markets to scale back expectations for near-term Fed rate increases, though the renewed Middle East tensions kept the outlook uncertain."
     }
   ]
 }
