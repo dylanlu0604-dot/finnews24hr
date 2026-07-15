@@ -1,7 +1,150 @@
 {
   "date": "2026-07-15",
-  "count": 1876,
+  "count": 1891,
   "items": [
+    {
+      "id": "mkt:019f64aa-2cfd-7aab-8d98-70afae96cc3f",
+      "time": "2026-07-15 15:25:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Senior Israeli official says Prime Minister Netanyahu will travel to the United States on Saturday."
+    },
+    {
+      "id": "mkt:019f64a9-89cf-7aab-8d98-69c0fe4d3ac2",
+      "time": "2026-07-15 15:24:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China condemns US draft sanctions naming China, India as buyers of Russian oil and gas】July 15 — Chinese Foreign Ministry spokesperson Lin Jian said Beijing strongly opposes an updated US Russia sanctions bill published July 14 that lists China and India among the five largest buyers of Russian crude and gas and authorizes the US president to impose tariffs up to 100%. Lin said China will take all necessary measures to defend the legitimate rights of its companies and citizens and opposed illegal unilateral sanctions not authorized by the UN Security Council. \"Using double standards and coercion will only backfire,\" he said."
+    },
+    {
+      "id": "4989341",
+      "time": "2026-07-15 15:24:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞幸咖啡在廈門成立新商貿公司 註冊資本1000萬】天眼查App顯示，近日，瑞幸商貿（廈門）有限公司成立，法定代表人為李如鵬，註冊資本1000萬，經營範圍含食品銷售、食品網際網路銷售、餐飲管理、日用品銷售等。股東資訊顯示，該公司由瑞幸咖啡（中國）有限公司全資持股。"
+    },
+    {
+      "id": "te:economy:567110",
+      "time": "2026-07-15 15:24:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Spain",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Spain Inflation Rate Confirmed at 3.2% in June — Spain's annual inflation rate was unrevised at 3.2% in June 2026, unchanged from May and April. Upward pressure came primarily from prices of electricity (6% vs -5.5% in May) and gas (0.8% vs -9.7%), partly offset by a moderation in motor fuels such as diesel (14.1% vs 23.9%) and petrol (1.3% vs 7.5%). Meanwhile, the core inflation rate eased to 2.9% from an upwardly revised 3.0% in May, matching the earlier estimates. The EU-harmonized annual rate stood at 3.6%, matching May's reading, in line with preliminary estimates."
+    },
+    {
+      "id": "4989340",
+      "time": "2026-07-15 15:23:59",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "【央行：研究逐步增加隔夜逆回購的操作頻率】中國人民銀行新聞發言人、副行長鄒瀾15日在國新辦新聞釋出會上表示，下一步，人民銀行將繼續平穩有序推動貨幣政策操作框架的改革完善，更好引導市場隔夜利率在政策利率附近平穩執行；結合一級交易商需求，研究逐步增加隔夜逆回購的操作頻率，並和市場做好溝通。（新華財經）"
+    },
+    {
+      "id": "mkt:019f64a9-03c6-7aab-8d98-651dce2a6e1f",
+      "time": "2026-07-15 15:23:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Germany OTC day-ahead baseload power prices rose 13.8% to €155/MWh."
+    },
+    {
+      "id": "mkt:019f64a8-f8e2-7aab-8d98-5cde9a446be2",
+      "time": "2026-07-15 15:23:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's NDRC allocates 30 mln yuan central budget to Jilin for Typhoon Bavi flood recovery】The National Disaster Reduction and Relief Committee activated a national level-4 emergency response after Typhoon Bavi and heavy rain hit Jilin. The National Development and Reform Commission urgently allocated 30 mln yuan of central budgetary investment to Jilin for post-disaster emergency recovery, targeted at repairing damaged roads, water-conservancy infrastructure and restoring public-service facilities including schools and hospitals to resume normal production and daily life."
+    },
+    {
+      "id": "4989339",
+      "time": "2026-07-15 15:23:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國場外交易次日基荷電價上漲13.8%，至每兆瓦時155歐元。"
+    },
+    {
+      "id": "4989338",
+      "time": "2026-07-15 15:23:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州增城打出降物業費第一槍】最近，廣州增城最具有代表性的小區“廣州院子”，物業費從每平方米3.5塊降到了2.8塊。增城區政府連續釋出11條公告，要求撤銷或下調部分小區物業收費。除了廣州院子，奧園新譽府從2.9元降至2.6元，還有多個停工專案被直接撤銷。超一級物業收費標準下調幅度的依據是廣州市一級物業收費標準2.80元每平方米每月。這意味著原本按照3.5元收費的服務，根本沒有達到對應的水平。（21財經）"
+    },
+    {
+      "id": "mkt:019f64a8-ce94-7aab-8d98-53b3a95553bb",
+      "time": "2026-07-15 15:23:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Scotiabank: Bank of Korea policymakers have strongly signalled; 25bp hike all but certain】Scotiabank says markets largely expect the Bank of Korea to raise rates 25 bps to 2.75% on Thursday, partly because policymakers have strongly signalled the move. Bank of Korea Governor Shin recently, while citing persistent inflationary pressure, said \"it is necessary to raise the policy rate at an appropriate time.\" The won has depreciated about 12% versus the US dollar since mid-last year, amplifying imported- and commodity-price pass-through. Core CPI is rising and house prices continue to climb, raising stability concerns, while exports—led by chips and broader tech—remain strong and are supporting growth. Scotiabank says the Bank of Korea will join other central banks that have recently tightened policy."
+    },
+    {
+      "id": "4989337",
+      "time": "2026-07-15 15:23:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本遊客4-6月消費額同比增長0.2%，達2.51萬億日元。"
+    },
+    {
+      "id": "4989336",
+      "time": "2026-07-15 15:22:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美對俄新制裁將俄油氣的中印買家列為目標，外交部：只會搬起石頭砸自己腳】7月15日，外交部發言人林劍主持例行記者會。據報道，美國14日公佈了對俄羅斯制裁法案的更新版本，新版措施把包括中國和印度在內的俄羅斯原油和天然氣五大買家列為制裁目標，授權特朗普對相關國家最高徵收100%的關稅。彭博社記者在會上就此事提問，中方對此有何回應？\n\n林劍強調，中方堅決反對沒有國際法依據、未經聯合國安理會授權的非法單邊制裁，將採取一切必要措施，堅定維護本國企業和公民的正當權益。\n\n“搞雙重標準，脅迫施壓，最終只會搬起石頭砸自己的腳。”林劍說。（澎湃新聞）"
+    },
+    {
+      "id": "4989335",
+      "time": "2026-07-15 15:22:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【菲利華：石英電子布產品仍處於小批次測試及終端客戶的認證階段】菲利華7月15日在互動平臺表示，公司石英電子布產品仍處於小批次測試及終端客戶的認證階段。"
+    },
+    {
+      "id": "mkt:019f64a7-9c42-7aab-8d98-4cf2eee3d92b",
+      "time": "2026-07-15 15:22:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【APEC Digital Week to open in Chengdu, Foreign Ministry says】Foreign Ministry spokesman Lin Jian said at a regular briefing that 2024 is APEC “China Year” and, as host of APEC 2026, China will stage more than 10 ministerial or other high-level events this year. The APEC Digital Week series will be held in Chengdu, Sichuan — one of the heaviest and most fully scheduled of the APEC ministerial events. Lin said the China Year process is over halfway complete and cooperation across fields is progressing; Beijing will continue to host and work to advance cross‑sector cooperation and build consensus ahead of the leaders’ meeting in November."
+    },
+    {
+      "id": "4989334",
+      "time": "2026-07-15 15:22:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電子推出新款990固態硬碟】三星電子宣佈，新款990固態硬碟現已全球陸續上市，提供1TB、2TB兩種容量版本。廠商建議零售價分別為269.99美元、529.99美元。"
+    },
     {
       "id": "mkt:019f64a6-d34f-7aab-8d98-4276d7fcd7c3",
       "time": "2026-07-15 15:21:22",
