@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-16 05:28:36",
-  "count": 18615,
+  "updated": "2026-07-16 05:32:35",
+  "count": 18612,
   "items": [
+    {
+      "id": "mkt:019f67af-60b0-7aab-8db0-b8705adb9f13",
+      "time": "2026-07-16 05:29:34",
+      "tags": [
+        "MKT News",
+        "BA.O"
+      ],
+      "text": "The US State Department has approved the sale of C-17 transport aircraft to Kuwait, estimated at USD 484 mln."
+    },
     {
       "id": "mkt:019f67a8-c10c-7aab-8db0-b1f57884c3fb",
       "time": "2026-07-16 05:22:20",
@@ -171189,39 +171198,6 @@
         "XAUUSD"
       ],
       "text": "CNN, citing US officials, said the situation with Iran remains rapidly evolving and the US military may carry out further strikes on Iranian targets. Officials said recent strikes targeted missile and drone facilities capable of striking US military assets and sites that could threaten shipping through the Strait of Hormuz."
-    },
-    {
-      "id": "4977635",
-      "time": "2026-07-09 05:31:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什將於7月15日出席美國參議院銀行委員會聽證會。"
-    },
-    {
-      "id": "mkt:019f43a3-1acc-7aab-8cff-35c573a0f883",
-      "time": "2026-07-09 05:29:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump arrived in the UK."
-    },
-    {
-      "id": "4977634",
-      "time": "2026-07-09 05:29:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普抵達英國。"
-    },
-    {
-      "id": "4977633",
-      "time": "2026-07-09 05:29:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "俄勒岡州總檢察長辦公室稱，派拉蒙表示不會在 7 月 22 日前完成華納兄弟相關交易。"
     }
   ]
 }

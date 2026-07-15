@@ -1,7 +1,16 @@
 {
   "date": "2026-07-16",
-  "count": 420,
+  "count": 421,
   "items": [
+    {
+      "id": "mkt:019f67af-60b0-7aab-8db0-b8705adb9f13",
+      "time": "2026-07-16 05:29:34",
+      "tags": [
+        "MKT News",
+        "BA.O"
+      ],
+      "text": "The US State Department has approved the sale of C-17 transport aircraft to Kuwait, estimated at USD 484 mln."
+    },
     {
       "id": "mkt:019f67a8-c10c-7aab-8db0-b1f57884c3fb",
       "time": "2026-07-16 05:22:20",
