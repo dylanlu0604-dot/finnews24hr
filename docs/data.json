@@ -1,7 +1,553 @@
 {
-  "updated": "2026-07-15 09:59:25",
-  "count": 18720,
+  "updated": "2026-07-15 10:06:07",
+  "count": 18730,
   "items": [
+    {
+      "id": "mkt:019f6383-18b0-7aab-8d8f-98b5484db7e2",
+      "time": "2026-07-15 10:02:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "National Bureau of Statistics: 1H national per-capita disposable income 22,981 yuan, nominal YoY +5.2%; real YoY (price‑adjusted) +4.2%."
+    },
+    {
+      "id": "mkt:019f6383-16c9-7aab-8d8f-93701598c168",
+      "time": "2026-07-15 10:02:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China's total retail sales of consumer goods rose 0.38% MoM in June, versus a 0.38% MoM decline in May."
+    },
+    {
+      "id": "mkt:019f6382-f420-7aab-8d8f-8cffa269f647",
+      "time": "2026-07-15 10:02:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (MoM) (Jun) | actual 0.38% | previous -0.38%"
+    },
+    {
+      "id": "4988859",
+      "time": "2026-07-15 10:02:31",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【檢察機關依法對烏蘭涉嫌受賄案提起公訴】從最高人民檢察院獲悉，湖南省人大常委會原黨組書記、副主任烏蘭涉嫌受賄一案，由國家監察委員會調查終結，移送檢察機關審查起訴。最高人民檢察院依法以涉嫌受賄罪對烏蘭作出逮捕決定，並指定由廣東省江門市人民檢察院審查起訴。近日，江門市人民檢察院已向江門市中級人民法院提起公訴。 檢察機關在審查起訴階段，依法告知了被告人烏蘭享有的訴訟權利，並訊問了被告人，聽取了辯護人的意見。檢察機關起訴指控：被告人烏蘭利用擔任內蒙古自治區政府副主席，自治區黨委常委、宣傳部部長，湖南省委副書記，省政協黨組副書記、副主席，省人大常委會黨組書記、副主任等職務上的便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受他人財物，數額特別巨大，依法應當以受賄罪追究其刑事責任。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153806951398",
+      "time": "2026-07-15 10:02:31",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—6月份全國房地產開發投資38074億元】國家統計局資料顯示，1—6月份，全國房地產開發投資38074億元，同比下降18.0%（按可比口徑計算）；其中，住宅投資29300億元，下降17.8%。1—6月份，房地產開發企業房屋施工面積554049萬平方米，同比下降12.5%。其中，住宅施工面積384453萬平方米，下降12.9%。房屋新開工面積23239萬平方米，下降23.4%。"
+    },
+    {
+      "id": "mkt:019f6382-def0-7aab-8d8f-8029f6858f95",
+      "time": "2026-07-15 10:02:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "NBS: Electricity generation by industrial enterprises above designated size was 827.6 bln kWh in June, up 2.0% YoY; daily average 27.59 bln kWh. Jan–Jun total 4,750.1 bln kWh, up 3.5% YoY."
+    },
+    {
+      "id": "te:economy:566976",
+      "time": "2026-07-15 10:02:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Industrial Production",
+        "Importance 3"
+      ],
+      "text": "China Industrial Output Growth Strongest in 3 Months — China’s industrial production advanced 5.3% year on year in June 2026, accelerating from a 4.5% rise in May and surpassing market expectations of 4.6%. It was the strongest growth in industrial production since March."
+    },
+    {
+      "id": "mkt:019f6382-aecb-7aab-8d8f-7ae9670926ac",
+      "time": "2026-07-15 10:02:16",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "WTI"
+      ],
+      "text": "China industrial value added for enterprises above designated size rose 0.76% month-on-month in June, versus 0.40% in May."
+    },
+    {
+      "id": "mkt:019f6382-9530-7aab-8d8f-77d20fed5697",
+      "time": "2026-07-15 10:02:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (MoM) (Jun) | actual 0.76% | previous 0.4%"
+    },
+    {
+      "id": "mkt:019f6382-9422-7aab-8d8f-68558f9a26ca",
+      "time": "2026-07-15 10:02:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China June urban fixed-asset investment MoM -0.37%, previous -1.91%."
+    },
+    {
+      "id": "mkt:019f6382-7413-7aab-8d8f-62e882f7e64a",
+      "time": "2026-07-15 10:02:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment (MoM) (Jun) | actual -0.37% | previous -1.91%"
+    },
+    {
+      "id": "mkt:019f6382-70c4-7aab-8d8f-5cd00dd5937a",
+      "time": "2026-07-15 10:02:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "China National Bureau of Statistics: in 1H total retail sales of consumer goods were 24.87 tln yuan, up 1.3% YoY; retail sales excluding automobiles were 22.90 tln yuan, up 2.8%. In June total retail sales were 4.27 tln yuan, up 1.0% YoY; excluding automobiles they were 3.89 tln yuan, up 3.0%."
+    },
+    {
+      "id": "mkt:019f6382-707e-7aab-8d8f-51fe0bb2452a",
+      "time": "2026-07-15 10:02:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Copper",
+        "Impact mixed",
+        "CNH",
+        "WTI"
+      ],
+      "text": "China's National Bureau of Statistics said June output at industrial enterprises above designated size: raw coal production fell year-on-year, crude oil production remained stable, natural gas production swung from a decline to year-on-year growth, and electricity generation registered steady growth."
+    },
+    {
+      "id": "4988858",
+      "time": "2026-07-15 10:01:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4040美元/盎司，日內跌0.73%。"
+    },
+    {
+      "id": "mkt:019f6382-5fd9-7aab-8d8f-4b0c5e648290",
+      "time": "2026-07-15 10:01:56",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China Q2 GDP QoQ 0.9% vs consensus 0.9%, prior 1.3%."
+    },
+    {
+      "id": "4988857",
+      "time": "2026-07-15 10:01:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月新房價格環比上漲城市數量創2025年5月以來新高】國家統計局的資料顯示，6月份新房價格環比上漲城市有20個，比上月增加4個，為2025年5月以來最多。其中，徐州、惠州以0.4%的漲幅並列第一，瀋陽、上海、杭州、寧波、廈門、深圳、無錫均上漲0.3%，並列第二，南京、青島、廣州 、南寧、銀川均上漲0.2，並列第三。"
+    },
+    {
+      "id": "mkt:019f6382-46af-7aab-8d8f-45a111de0dc1",
+      "time": "2026-07-15 10:01:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | GDP (QoQ) (Q2) | actual 0.9% | consensus 0.9% | previous 1.30%"
+    },
+    {
+      "id": "mkt:019f6382-3a3a-7aab-8d8f-3d09461f9130",
+      "time": "2026-07-15 10:01:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "China Q2 GDP 36.1511 trillion yuan; prior 33.4193 trillion yuan."
+    },
+    {
+      "id": "4988856",
+      "time": "2026-07-15 10:01:45",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國第二季度GDP年率 4.3%，預期4.50%，前值5.00%。"
+    },
+    {
+      "id": "4988855",
+      "time": "2026-07-15 10:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：上半年社會消費商品和服務零售總額同比增長2.7%】國家統計局釋出資料顯示，上半年，社會消費商品和服務零售總額同比增長2.7%，其中服務零售額增長5.3%，商品零售額增長1.1%。在服務零售額中，通訊資訊服務類、旅遊諮詢租賃服務類、文體休閒服務類零售額較快增長。上半年，社會消費品零售總額248722億元，同比增長1.3%。按經營單位所在地分，城鎮消費品零售額215506億元，同比增長1.2%；鄉村消費品零售額33216億元，增長2.5%。按消費型別分，商品零售額220467億元，同比增長1.1%；餐飲收入28255億元，增長2.8%。基本生活類和部分升級類商品銷售較快增長，限額以上單位糧油食品類、服裝鞋帽針紡織品類、通訊器材類商品零售額同比分別增長7.4%、6.7%、14.4%。6月份，社會消費品零售總額42691億元，同比增長1.0%，上月為下降0.6%；環比增長0.38%。上半年，全國網上商品和服務零售額100715億元，同比增長5.2%。其中，網上商品零售額64296億元，增長4.8%；網上服務零售額36419億元，增長6.0%。"
+    },
+    {
+      "id": "mkt:019f6382-109e-7aab-8d8f-31415b8e5851",
+      "time": "2026-07-15 10:01:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | GDP (Q2) | actual 36151100000000B | previous 33419300000000B"
+    },
+    {
+      "id": "mkt:019f6381-fe62-7aab-8d8f-2b086141f39a",
+      "time": "2026-07-15 10:01:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "WTI"
+      ],
+      "text": "China Q2 GDP YoY 4.3% (consensus 4.5%), prior 5.0%."
+    },
+    {
+      "id": "mkt:019f6381-e73b-7aab-8d8f-246e0e712e4e",
+      "time": "2026-07-15 10:01:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | GDP (YoY) (Q2) | actual 4.3% | consensus 4.50% | previous 5.00%"
+    },
+    {
+      "id": "mkt:019f6381-e631-7aab-8d8f-1b4407f76bbf",
+      "time": "2026-07-15 10:01:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "China's National Bureau of Statistics: Jan–Jun real estate development investment was 3.8074 tln yuan, down 18.0% YoY; residential investment was 2.93 tln yuan, down 17.8% YoY."
+    },
+    {
+      "id": "4988854",
+      "time": "2026-07-15 10:01:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家藥監局副局長楊勝出席民族藥材質量標準提升國家重點研發計劃專案啟動會】7月13日，中檢院承擔的2025年度國家重點研發計劃“中醫藥現代化”重點專項“民族藥材質量標準提升關鍵技術示範研究”專案啟動會在北京召開。國家藥監局黨組成員、副局長楊勝出席會議並講話。會議強調，要立足民族地區用藥實際，兼顧產區差異制定嚴謹科學的標準，暢通成果轉化渠道，深化跨區域協作，強化人才培養，嚴守科研誠信與質量底線，讓專案成果賦能產業高質量發展，提升民族地區群眾獲得感。"
+    },
+    {
+      "id": "4988853",
+      "time": "2026-07-15 10:01:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機器人板塊短線拉昇，江蘇北人漲超10%】機器人板塊短線拉昇，江蘇北人漲超10%，信捷電氣、埃夫特、拓斯達、埃斯頓、邁赫股份等跟漲。"
+    },
+    {
+      "id": "4988852",
+      "time": "2026-07-15 10:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家統計局：1—6月份全國固定資產投資（不含農戶）226370億元 同比下降5.7%】國家統計局資料顯示，1—6月份，全國固定資產投資（不含農戶）226370億元，同比下降5.7%。其中，智慧財產權產品投資同比增長9.4%。"
+    },
+    {
+      "id": "te:markets:566975",
+      "time": "2026-07-15 10:01:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Hit One-Month High — The Hang Seng Index rose 1.3%, or 317 points, to 24,660 on Wednesday, its highest level since June 2026, tracking Wall Street higher after softer-than-expected US inflation data eased concerns over near-term Federal Reserve interest rate hikes. Markets looked beyond renewed Middle East tensions after President Donald Trump threatened further strikes on Iran and reinstated a US blockade in the Strait of Hormuz. Meanwhile, investors also awaited China's second-quarter GDP and other key June economic data due later in the day for fresh clues on the strength of the mainland economy and corporate earnings. Technology stocks led the advance, alongside retail trade and producer manufacturing shares, with Lenovo (4.7%), AIA (3.1%), Innovent Biologics (5.0%), Tencent (1.5%), and Shanghai Iluvatar CoreX (0.6%) among the top gainers."
+    },
+    {
+      "id": "4988851",
+      "time": "2026-07-15 10:01:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家統計局：6月份，規模以上工業增加值同比實際增長5.3%，增速比上月加快0.8個百分點。從環比看，6月份，規模以上工業增加值比上月增長0.76%。1—6月份，規模以上工業增加值同比增長5.4%。"
+    },
+    {
+      "id": "mkt:019f6381-7eb9-7aab-8d8f-12bd81a5fbd1",
+      "time": "2026-07-15 10:00:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "National Bureau of Statistics: Jan–Jun fixed‑asset investment (excluding rural households) totaled 22.637 trillion yuan, down 5.7% YoY. Investment in intellectual property products rose 9.4% YoY."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153806949397",
+      "time": "2026-07-15 10:00:53",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：1—6月份全國固定資產投資同比下降5.7%】國家統計局資料顯示，1—6月份，全國固定資產投資（不含農戶）226370億元，同比下降5.7%。其中，智慧財產權產品投資同比增長9.4%。分產業看，第一產業投資4600億元，同比增長0.9%；第二產業投資83120億元，下降1.1%；第三產業投資138649億元，下降8.4%。工業投資同比下降1.1%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153806953386",
+      "time": "2026-07-15 10:00:44",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：6月份規模以上工業增加值同比增長5.3%】國家統計局資料顯示，6月份，規模以上工業增加值同比實際增長5.3%，增速比上月加快0.8個百分點。從環比看，6月份，規模以上工業增加值比上月增長0.76%。1—6月份，規模以上工業增加值同比增長5.4%。"
+    },
+    {
+      "id": "4988850",
+      "time": "2026-07-15 10:00:43",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【國家統計局：上半年國內生產總值695704億元 同比增長4.7%】3國務院新聞辦今天上午召開新聞釋出會，國家統計局釋出上半年經濟資料。資料顯示，今年上半年，我國經濟頂住壓力執行在合理區間，生產供給較快增長，就業形勢總體穩定，物價溫和上漲，對外貿易增勢良好，新動能快速成長，民生保障有力有效，發展韌性持續彰顯。初步核算，上半年國內生產總值695704億元，按不變價格計算，同比增長4.7%。"
+    },
+    {
+      "id": "mkt:019f6381-086e-7aab-8d8f-0c5baf3f171a",
+      "time": "2026-07-15 10:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "China's National Bureau of Statistics said GDP in 1H 2026 rose 4.7% YoY."
+    },
+    {
+      "id": "4988849",
+      "time": "2026-07-15 10:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家統計局：2026年上半年GDP同比增長4.7%。（人民日報）"
+    },
+    {
+      "id": "4988848",
+      "time": "2026-07-15 10:00:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國6月今年迄今城鎮固定資產投資同比 -5.7%，預期-4.9%，前值-4.10%。"
+    },
+    {
+      "id": "4988847",
+      "time": "2026-07-15 10:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國6月城鎮調查失業率 5%，預期5.10%，前值5.10%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153806930049",
+      "time": "2026-07-15 10:00:20",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【統計局：上半年我國GDP同比增長4.7% 規模以上工業增加值同比增長5.4%】初步核算，上半年國內生產總值695704億元，按不變價格計算，同比增長4.7%。分產業看，第一產業增加值31522億元，同比增長3.7%；第二產業增加值250473億元，增長3.9%；第三產業增加值413709億元，增長5.2%。分季度看，一季度國內生產總值同比增長5.0%，二季度增長4.3%。從環比看，二季度國內生產總值增長0.9%。上半年，全國規模以上工業增加值同比增長5.4%。分三大門類看，採礦業增加值同比增長3.6%，製造業增長5.6%，電力、熱力、燃氣及水生產和供應業增長5.5%。裝備製造業增加值同比增長9.3%，高技術製造業增加值增長13.3%，分別快於全部規模以上工業增加值3.9和7.9個百分點。"
+    },
+    {
+      "id": "4988846",
+      "time": "2026-07-15 10:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國6月社會消費品零售總額同比 1%，預期-0.10%，前值-0.60%。"
+    },
+    {
+      "id": "mkt:019f6380-d6bc-7aab-8d8f-0134d0a16f27",
+      "time": "2026-07-15 10:00:15",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "AUDUSD"
+      ],
+      "text": "China June urban surveyed unemployment rate 5.0% (expected 5.1%; May 5.1%)."
+    },
+    {
+      "id": "4988845",
+      "time": "2026-07-15 10:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國6月規模以上工業增加值同比 5.3%，預期4.7%，前值4.50%。"
+    },
+    {
+      "id": "mkt:019f6380-bfd6-7aab-8d8e-fce73fb1cae5",
+      "time": "2026-07-15 10:00:09",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "Hang Seng Index"
+      ],
+      "text": "China June year-to-date urban fixed-asset investment -5.7% YoY, vs -4.9% expected and -4.1% prior."
+    },
+    {
+      "id": "mkt:019f6380-bc92-7aab-8d8e-f6e93e047124",
+      "time": "2026-07-15 10:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Copper"
+      ],
+      "text": "China June industrial value added (enterprises above designated size) +5.3% YoY; expected 4.7%, prior 4.5%."
+    },
+    {
+      "id": "mkt:019f6380-bbf6-7aab-8d8e-e88a4f5becc6",
+      "time": "2026-07-15 10:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "WTI"
+      ],
+      "text": "China June retail sales (total social consumer goods) up 1.0% YoY; consensus -0.1%, prior -0.6%."
+    },
+    {
+      "id": "mkt:019f6380-9cec-7aab-8d8e-d69312db8343",
+      "time": "2026-07-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Urban Survey Unemployment Rate (Jun) | actual 5% | consensus 5.10% | previous 5.10%"
+    },
+    {
+      "id": "mkt:019f6380-9d4e-7aab-8d8e-e4ab2fa91a16",
+      "time": "2026-07-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Retail Sales (YoY) (Jun) | actual 1% | consensus -0.10% | previous -0.60%"
+    },
+    {
+      "id": "mkt:019f6380-9cf6-7aab-8d8e-de645a2a31d7",
+      "time": "2026-07-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Industrial Output (YoY) (Jun) | actual 5.3% | consensus 4.7% | previous 4.50%"
+    },
+    {
+      "id": "mkt:019f6380-9ce2-7aab-8d8e-cc3fefe04abf",
+      "time": "2026-07-15 10:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | Fixed Asset Investment YTD (YoY) (Jun) | actual -5.7% | consensus -4.9% | previous -4.10%"
+    },
+    {
+      "id": "4988844",
+      "time": "2026-07-15 09:59:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，其“縱火摧毀了”位於科威特米納阿卜杜拉的美國軍事後勤與支援中心。"
+    },
+    {
+      "id": "mkt:019f6380-3c94-7aab-8d8e-c77c3c44fdbd",
+      "time": "2026-07-15 09:59:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share construction engineering sector rebounded; Hongrun Construction hit the daily limit, while Dongfang Xinneng, Shunjing Technology, Zhongdaan, Pubang Shares, Rishang Group and Dongnan Wangjia also rose."
+    },
+    {
+      "id": "mkt:019f637f-fe27-7aab-8d8e-bf21b0ef80e2",
+      "time": "2026-07-15 09:59:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share auto OEMs rose; SERES led gains, up more than 5% intraday, with Zotye Auto, Zhongtong Bus, Shuguang Co. and CIMC Vehicles also higher."
+    },
     {
       "id": "mkt:019f637f-5e9a-7aab-8d8e-b2672b670185",
       "time": "2026-07-15 09:58:39",
@@ -170980,399 +171526,6 @@
         "國際"
       ],
       "text": "【北約公佈大規模軍購計劃】北大西洋公約組織（北約）7日在該組織峰會期間公佈多項總額達數百億美元的軍購和防務投資計劃，涉及反無人機能力建設、無人機採購等。北約秘書長呂特當天在峰會期間舉行的防務工業論壇上敦促北約成員國政府和西方軍工企業擴大投資、提升產能。他宣佈，北約成員國未來五年將投資超過400億美元用於反無人機能力建設，並計劃到2027年底將無人機操作員接受培訓的人數增加五倍。北約公佈的軍購計劃還包括丹麥、芬蘭、德國、挪威4國採購美國諾思羅普-格魯曼公司的“人魚海神”無人機，11個北約成員國還將採購瑞典薩博公司的“全球眼”預警機等。（新華社）"
-    },
-    {
-      "id": "4975409",
-      "time": "2026-07-08 10:05:54",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：預計未來幾個季度通脹率將保持在目標以上。"
-    },
-    {
-      "id": "4975408",
-      "time": "2026-07-08 10:05:52",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1萬億元，較上日此時放量827億元。"
-    },
-    {
-      "id": "4975407",
-      "time": "2026-07-08 10:05:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股指下跌0.8%，報5,941.685點。"
-    },
-    {
-      "id": "4975406",
-      "time": "2026-07-08 10:04:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行會議紀要：不良貸款比率不太可能大幅上升。"
-    },
-    {
-      "id": "4975405",
-      "time": "2026-07-08 10:04:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌2.00%，現報14920.092點；上證指數跌0.52%，現報3969.288點；創業板指跌2.16%，現報3827.420點。"
-    },
-    {
-      "id": "4975404",
-      "time": "2026-07-08 10:04:32",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：GDP即時預測模型KIWI-GDP目前預測2026年9月季度增長0.6%。"
-    },
-    {
-      "id": "4975403",
-      "time": "2026-07-08 10:04:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：燃料價格下降將支援支出復甦。"
-    },
-    {
-      "id": "te:markets:565042",
-      "time": "2026-07-08 10:04:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Jump as Tech Leads Rally — The Hang Seng Index jumped 1.9%, or around 466 points, to 23,963 on Wednesday, advancing as technology stocks led broad-based gains despite renewed geopolitical tensions in the Middle East. Sentiment remained resilient after the US launched fresh strikes on Iran in retaliation for attacks on commercial vessels in the Strait of Hormuz, even as the escalation pushed oil prices higher. Risk appetite was supported by continued optimism surrounding artificial intelligence and technology sector, while Hong Kong's robust IPO market added to positive sentiment as Chinese autonomous driving firm Momenta Global was set to debut slightly above its offer price after raising HK$5.89 billion in its initial public offering, underscoring strong investor demand for technology listings. Investors also looked ahead to China's June consumer and producer inflation data due on Thursday. Among the top gainers were Tencent (2.4%), SMIC (2.9%), Lenovo (4.4%), Kuaishou (1.2%), and Xiaomi (2.9%)"
-    },
-    {
-      "id": "4975402",
-      "time": "2026-07-08 10:04:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：貨幣政策委員會對通脹前景看法不一。"
-    },
-    {
-      "id": "4975401",
-      "time": "2026-07-08 10:03:58",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：預計經濟增長將於9月季度恢復。"
-    },
-    {
-      "id": "4975400",
-      "time": "2026-07-08 10:03:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行會議紀要：整體信貸增長步伐緩慢。"
-    },
-    {
-      "id": "4975399",
-      "time": "2026-07-08 10:03:42",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行會議記錄：當前的官方隔夜拆款利率水平仍具刺激性。"
-    },
-    {
-      "id": "4975398",
-      "time": "2026-07-08 10:03:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行會議紀要：通脹將逐步回落，不太可能長期持續。"
-    },
-    {
-      "id": "te:markets:565041",
-      "time": "2026-07-08 10:03:26",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Hit New 1-Month Low — The Shanghai Composite edged down 0.2% to around 3,984 on Wednesday, while the Shenzhen Component dropped 1.6% to 14,988, both extending losses for a third consecutive session and hitting new one-month lows, as renewed tensions in the Middle East weighed on broader Asian markets and dampened risk appetite. The US escalated pressure on Iran by conducting new airstrikes and rescinding a sanctions waiver permitting Tehran to export oil to global markets. The latest move was seen as the most significant threat yet to the interim agreement signed by US and Iranian leaders on June 17, casting doubt on ongoing negotiations aimed at securing a permanent peace deal within 60 days of the accord. Among individual stocks, losses were posted in Industrial and Commercial Bank of China (-0.6%), China Construction Bank (-0.6%), Zijin Mining Group (-1.8%), CATL (-1.2%), NAURA Technology (-2.4%), and Luxshare Precision Industry (-2.6%)."
-    },
-    {
-      "id": "4975397",
-      "time": "2026-07-08 10:03:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達50億港元。"
-    },
-    {
-      "id": "4975396",
-      "time": "2026-07-08 10:03:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：委員會注意到近幾周金融狀況有所緩解。"
-    },
-    {
-      "id": "4975395",
-      "time": "2026-07-08 10:03:06",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：預計年度整體通脹率將在2026年6月當季達到3.9%的峰值，隨後在2026年9月當季回落至3.3%。"
-    },
-    {
-      "id": "4975394",
-      "time": "2026-07-08 10:02:51",
-      "tags": [
-        "央行",
-        "資料"
-      ],
-      "text": "紐西蘭央行：官方現金利率可能進一步提高，但時間尚不確定。"
-    },
-    {
-      "id": "4975393",
-      "time": "2026-07-08 10:02:42",
-      "tags": [],
-      "text": "創業板指跌超2％，深證成指跌1.9％，滬指跌0.49％，全市場超3400只個股下跌。"
-    },
-    {
-      "id": "4975392",
-      "time": "2026-07-08 10:02:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達2.05%，成分股中，矽烷科技跌8.56%，三協電機跌7.22%，華嶺股份跌6.96%，奧迪威跌6.90%。"
-    },
-    {
-      "id": "4975391",
-      "time": "2026-07-08 10:02:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行會議紀要：寬鬆的貨幣政策，加之經濟刺激措施，在短期內為經濟提供了支撐。"
-    },
-    {
-      "id": "te:economy:565040",
-      "time": "2026-07-08 10:02:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Australia 10Y Yield Rises to 1-Month High — Australia’s 10-year government bond yield climbed to around 4.9%, hitting a four-week high as global oil prices jumped amid renewed US-Iran tensions. The US launched a fresh wave of strikes against Iran and revoked a license allowing the country to sell oil following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. Meanwhile, RBA Assistant Governor Sarah Hunter said recent oil price shocks had weakened consumer and business confidence but noted the Australian economy remained resilient. She also reiterated that the central bank would act as needed to return inflation to target and maintain sustainable full employment. Still, markets continued to expect the central bank to keep its cash rate unchanged in August after delivering three rate hikes this year, while the odds of a November hike has eased to around 40%."
-    },
-    {
-      "id": "4975390",
-      "time": "2026-07-08 10:02:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭元延續漲勢，紐西蘭央行一如預期加息。"
-    },
-    {
-      "id": "4975389",
-      "time": "2026-07-08 10:01:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "泰國央行貨幣政策會議紀要：旅遊業預計將逐步復甦。"
-    },
-    {
-      "id": "4975388",
-      "time": "2026-07-08 10:01:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超2%，現報23967.111點；恒生科技指數現漲2.065%。"
-    },
-    {
-      "id": "4975387",
-      "time": "2026-07-08 10:01:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌2.01%，現報3833.437點；上證指數跌0.46%，現報3971.746點；深證成指跌1.93%，現報14931.009點。"
-    },
-    {
-      "id": "4975386",
-      "time": "2026-07-08 10:01:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國貨幣政策委員會：當前政策利率有利於經濟復甦。"
-    },
-    {
-      "id": "4975385",
-      "time": "2026-07-08 10:01:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行宣告：儘管能源價格已有所下降，但衝擊的影響仍將持續一段時間，中期通脹壓力前景依然不確定。"
-    },
-    {
-      "id": "4975384",
-      "time": "2026-07-08 10:01:08",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "紐西蘭央行：中期通脹壓力前景取決於近期成本增加在多大程度上傳導至價格上漲。"
-    },
-    {
-      "id": "4975383",
-      "time": "2026-07-08 10:00:57",
-      "tags": [
-        "央行",
-        "資料"
-      ],
-      "text": "紐西蘭央行：未來的官方現金利率決定將取決於新資料、定價行為和經濟活動強度如何影響中期通脹壓力。"
-    },
-    {
-      "id": "4975382",
-      "time": "2026-07-08 10:00:51",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行：由於通脹仍高於目標且經濟活動預計將增強，可能需要進一步減少貨幣刺激措施，以使通脹回到2%的目標中點。"
-    },
-    {
-      "id": "mkt:019f3f74-cdf5-7aab-8cdc-7fed440bad89",
-      "time": "2026-07-08 10:00:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Hong Kong AI stocks extended gains: Kingdee International (00268.HK) rose over 10%, Shanghai Fudan (01385.HK) nearly 9%, Kingsoft Cloud (03896.HK) nearly 7%, and Lenovo Group (00992.HK) and Zhipu AI (02513.HK) rose more than 4%."
-    },
-    {
-      "id": "4975381",
-      "time": "2026-07-08 10:00:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【城鄉三級養老服務網路建設管理指引發布】今天（8日），民政部在京召開釋出會，釋出《城鄉三級養老服務網路建設管理指引》，打造一張覆蓋城鄉、貫穿居家、社群、機構的全鏈條養老服務網，讓老年人就近享受專業的養老服務。 民政部發布《城鄉三級養老服務網路建設管理指引》指出，要整合縣級特困人員供養服務機構等各類資源，在縣（市、區、旗）設定綜合養老服務管理平臺，承擔服務示範、行業指導、資源協調等職能，推廣智慧管理，利用智慧裝置對老年人狀況和需求進行精準畫像並及時匹配服務，統籌推動區域養老服務協同發展。 依託條件較好的鄉鎮（街道）特困人員供養服務機構、優質民辦養老機構、綜合為老服務中心等設定區域養老服務中心。一個區域養老服務中心可根據輻射能力覆蓋多個鄉鎮（街道）。承擔專業照護、資源連結、探訪關愛等功能。 在村（社群）設立養老服務設施站點，大力發展嵌入式社群養老服務設施、互助性養老服務站點，就近就便提供居家上門或社群養老服務。承擔日間照料、助餐文娛等服務。"
-    },
-    {
-      "id": "mkt:019f3f74-783f-7aab-8cdc-76faf739e890",
-      "time": "2026-07-08 10:00:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【RBNZ raises rates 25bps as expected】RBNZ raised the official cash rate by 25bps to 2.50% from 2.25%, in line with market expectations; it had held rates steady at the prior three meetings."
-    },
-    {
-      "id": "4975380",
-      "time": "2026-07-08 10:00:19",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐西蘭央行基準利率上調25基點至2.50%; 預估為2.50%。"
-    },
-    {
-      "id": "mkt:019f3f74-6067-7aab-8cdc-6b00e3e994bc",
-      "time": "2026-07-08 10:00:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "NZDUSD"
-      ],
-      "text": "RBNZ sets policy rate at 2.50% on July 8; market expected 2.50%; prior 2.25%."
-    },
-    {
-      "id": "mkt:019f3f74-2f45-7aab-8cdc-662df328613b",
-      "time": "2026-07-08 10:00:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Official Cash Rate (Jul.8) | actual 2.5% | consensus 2.50% | previous 2.25%"
-    },
-    {
-      "id": "mkt:019f3f73-d9b0-7aab-8cdc-58ae594a2789",
-      "time": "2026-07-08 09:59:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's top joint military command said the only safe passage for merchant ships and tankers within the Strait of Hormuz is the route designated by Iran."
-    },
-    {
-      "id": "mkt:019f3f73-c1aa-7aab-8cdc-556835477671",
-      "time": "2026-07-08 09:59:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Alibaba",
-        "Tencent",
-        "Meituan",
-        "09988.HK",
-        "Impact bullish",
-        "00700.HK",
-        "09888.HK"
-      ],
-      "text": "Hong Kong tech and internet stocks strengthened: SenseTime (00020.HK), Alibaba (09988.HK), Tencent Holdings (00700.HK) and Baidu (09888.HK) rose more than 3%, while Meituan (03690.HK) and Bilibili (09626.HK) gained over 2%."
-    },
-    {
-      "id": "4975379",
-      "time": "2026-07-08 09:59:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部稱，霍爾木茲海峽商業船隻和油輪的唯一安全航線由伊朗設定。"
-    },
-    {
-      "id": "mkt:019f3f73-9556-7aab-8cdc-4ef32a959625",
-      "time": "2026-07-08 09:59:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's top joint military command reiterated it will not permit US interference in the management of the Strait of Hormuz."
     }
   ]
 }
