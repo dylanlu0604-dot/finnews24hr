@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-16 06:32:22",
-  "count": 18623,
+  "updated": "2026-07-16 06:36:19",
+  "count": 18616,
   "items": [
+    {
+      "id": "te:markets:567320",
+      "time": "2026-07-16 06:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 2.98% — Top commodity gainers are Platinum (2.98%), Steel Rebar (0.84%) and Gold (0.15%). Biggest losers are Silver (-1.46%) and Silicon (-0.89%)."
+    },
+    {
+      "id": "4990821",
+      "time": "2026-07-16 06:34:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報79.92美元/桶。"
+    },
     {
       "id": "te:markets:567319",
       "time": "2026-07-16 06:30:10",
@@ -171191,85 +171210,6 @@
         "國際"
       ],
       "text": "特朗普：西班牙遵照要求支付了大筆款項。"
-    },
-    {
-      "id": "4977670",
-      "time": "2026-07-09 06:36:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：西班牙今天非常慷慨。"
-    },
-    {
-      "id": "4977669",
-      "time": "2026-07-09 06:35:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗非常想達成協議。"
-    },
-    {
-      "id": "4977668",
-      "time": "2026-07-09 06:35:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不確定伊朗是否會遵守協議。"
-    },
-    {
-      "id": "te:markets:565413",
-      "time": "2026-07-09 06:35:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 4.07% — Top commodity losers are Platinum (-4.07%), Silver (-2.65%), Silicon (-2.29%) and Gold (-0.71%). Gains are led by Iron Ore CNY (1.43%), Steel Rebar (0.95%) and Iron Ore (0.86%)."
-    },
-    {
-      "id": "mkt:019f43de-deb9-7aab-8cff-b13c32485814",
-      "time": "2026-07-09 06:35:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude fell below $74/bbl, down 0.71% intraday."
-    },
-    {
-      "id": "4977667",
-      "time": "2026-07-09 06:35:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們有很多方法可以贏。"
-    },
-    {
-      "id": "4977666",
-      "time": "2026-07-09 06:34:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我是伊朗頭號目標，剛剛對伊朗實施了強力打擊。"
-    },
-    {
-      "id": "4977665",
-      "time": "2026-07-09 06:33:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：與土耳其達成了許多不錯的貿易協議。"
-    },
-    {
-      "id": "mkt:019f43dc-65de-7aab-8cff-ace99ea4177e",
-      "time": "2026-07-09 06:32:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand June manufacturing performance index 59.7, previous 49.9."
     }
   ]
 }

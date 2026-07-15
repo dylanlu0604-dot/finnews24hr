@@ -1,7 +1,26 @@
 {
   "date": "2026-07-16",
-  "count": 478,
+  "count": 480,
   "items": [
+    {
+      "id": "te:markets:567320",
+      "time": "2026-07-16 06:35:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Rises by 2.98% — Top commodity gainers are Platinum (2.98%), Steel Rebar (0.84%) and Gold (0.15%). Biggest losers are Silver (-1.46%) and Silicon (-0.89%)."
+    },
+    {
+      "id": "4990821",
+      "time": "2026-07-16 06:34:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報79.92美元/桶。"
+    },
     {
       "id": "te:markets:567319",
       "time": "2026-07-16 06:30:10",
