@@ -1,7 +1,274 @@
 {
   "date": "2026-07-15",
-  "count": 3378,
+  "count": 3406,
   "items": [
+    {
+      "id": "mkt:019f662f-4915-7aab-8da7-2a1e78df7ccf",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Imports Change (Jul.10) | actual -399000M | previous 1096000M"
+    },
+    {
+      "id": "mkt:019f662f-48ca-7aab-8da7-21e357a14885",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Petroleum Products Imports Change (Jul.10) | actual 13000M | previous -274000M"
+    },
+    {
+      "id": "mkt:019f662f-48c8-7aab-8da7-1f74dcb8063a",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Stocks Change (Jul.10) | actual 4556000M | consensus 84000M | previous -4980000M"
+    },
+    {
+      "id": "mkt:019f662f-4759-7aab-8da7-176235f01878",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Heating Oil Stocks Change (Jul.10) | actual 30000M | previous -427000M"
+    },
+    {
+      "id": "mkt:019f662f-45ef-7aab-8da7-0b8a8e30b3d8",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Reformulated Gasoline Blendstock for Oxygenate Blending (RBOB) Stocks Change (Jul.10) | actual 3000M | previous 0M"
+    },
+    {
+      "id": "mkt:019f662f-450e-7aab-8da7-015131654a08",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Gasoline Stocks Change (Jul.10) | actual -1533000M | consensus -760000M | previous -1904000M"
+    },
+    {
+      "id": "mkt:019f662f-44eb-7aab-8da6-fbabe696b732",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Cushing Crude Oil Stocks Change (Jul.10) | actual 430000M | previous -52000M"
+    },
+    {
+      "id": "mkt:019f662f-448d-7aab-8da6-f5c36c67b911",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Distillate Production Change (Jul.10) | actual 72000M | previous -1000M"
+    },
+    {
+      "id": "mkt:019f662f-4453-7aab-8da6-eb40960939f4",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Stocks Change (Jul.10) | actual -1692000M | consensus -2594000M | previous 2998000M"
+    },
+    {
+      "id": "mkt:019f662f-444c-7aab-8da6-e44fd9390cc9",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Input Into Refineries Change (Jul.10) | actual 99000M | previous -172000M"
+    },
+    {
+      "id": "mkt:019f662f-4433-7aab-8da6-d9c1d01a6b13",
+      "time": "2026-07-15 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | EIA Weekly Gasoline Production (Jul.10) | actual -96000M | previous -233000M"
+    },
+    {
+      "id": "4990292",
+      "time": "2026-07-15 22:29:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我已完全履行政府道德辦公室規定的各項義務。"
+    },
+    {
+      "id": "mkt:019f662e-5cb6-7aab-8da6-d21f988fb367",
+      "time": "2026-07-15 22:29:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve chair KEVIN WARSH said AI will trigger disruptive change during this period."
+    },
+    {
+      "id": "4990291",
+      "time": "2026-07-15 22:28:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：長期來看，相信人工智慧將助力薪資增長與就業提升。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807795362",
+      "time": "2026-07-15 22:28:50",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什稱他的看法是這些通脹資料並非完美的衡量指標。"
+    },
+    {
+      "id": "4990290",
+      "time": "2026-07-15 22:27:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：當前通脹指標均無法完美衡量潛在通脹水平。"
+    },
+    {
+      "id": "mkt:019f662d-233e-7aab-8da6-c9967a758a98",
+      "time": "2026-07-15 22:27:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he believes AI investment will be beneficial to employment in the short term."
+    },
+    {
+      "id": "4990289",
+      "time": "2026-07-15 22:27:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：短期來看，我認為人工智慧投資有利於就業。"
+    },
+    {
+      "id": "4990288",
+      "time": "2026-07-15 22:27:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "調查顯示市場參與者預計美國原油庫存將減少 200 萬桶。"
+    },
+    {
+      "id": "mkt:019f662c-8074-7aab-8da6-c49f8ce27fc8",
+      "time": "2026-07-15 22:27:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell nearly $10 intraday to $4,056/oz."
+    },
+    {
+      "id": "4990287",
+      "time": "2026-07-15 22:26:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我認為這些通脹資料的衡量指標存在缺陷。"
+    },
+    {
+      "id": "4990286",
+      "time": "2026-07-15 22:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部印發工作方案建立健全泉水調查監測評價制度】從水利部瞭解到，為深入貫徹落實《地下水管理條例》，加強泉水監測評價和保護治理，水利部近日印發《建立健全泉水調查監測評價制度工作方案（2026—2028年）》。（新華社）"
+    },
+    {
+      "id": "mkt:019f662c-1cbf-7aab-8da6-b9db9c64eaa3",
+      "time": "2026-07-15 22:26:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Kevin Warsh, Federal Reserve chairman, said any central bank would welcome data moving in the right direction."
+    },
+    {
+      "id": "4990285",
+      "time": "2026-07-15 22:26:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：：任何央行見到經濟資料向好都會樂見其成。"
+    },
+    {
+      "id": "4990284",
+      "time": "2026-07-15 22:26:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：近期通脹資料並非衡量潛在通脹的完美指標。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807794439",
+      "time": "2026-07-15 22:26:14",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲官員威廉姆斯：當前前瞻指引不適宜】美聯儲官員威廉姆斯表示，當前前瞻指引不適宜。FOMC將繼續就經濟表達“觀點”。"
+    },
+    {
+      "id": "4990283",
+      "time": "2026-07-15 22:25:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲的威廉姆斯：當前前瞻指引不適宜。"
+    },
+    {
+      "id": "mkt:019f662b-882a-7aab-8da6-b326d2219faa",
+      "time": "2026-07-15 22:25:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said recent inflation data do not perfectly reflect underlying inflation."
+    },
     {
       "id": "4990282",
       "time": "2026-07-15 22:25:44",
