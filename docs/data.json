@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-16 02:37:18",
-  "count": 18603,
+  "updated": "2026-07-16 02:41:28",
+  "count": 18606,
   "items": [
+    {
+      "id": "mkt:019f6714-901e-7aab-8dae-e7c311ca4431",
+      "time": "2026-07-16 02:40:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum rose 3%."
+    },
+    {
+      "id": "mkt:019f6714-8d99-7aab-8dae-dee49e0f52ee",
+      "time": "2026-07-16 02:40:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: Pentagon evaluated airstrike option against Cuba】CBS reported the Pentagon recently reviewed military plans targeting Cuba, including a large-scale air assault option involving the 101st Airborne Division. Insiders said review does not mean the Trump administration has decided to act. Heavy US deployments in the Middle East make action against Cuba less feasible. The US says it still prefers diplomatic and economic pressure to press for reforms in Cuba. The Pentagon declined to comment on hypothetical military operations."
+    },
+    {
+      "id": "mkt:019f6713-04c0-7aab-8dae-d547ed6f30f9",
+      "time": "2026-07-16 02:38:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Guterres deeply concerned by Middle East military escalation, urges immediate de‑escalation】At a July 15 noon briefing at UN headquarters in New York, UN spokesman Stéphane Dujarric said Secretary‑General António Guterres is deeply concerned about ongoing military escalation in the Middle East and urged all parties to take immediate steps to de‑escalate and return to dialogue and diplomacy. Guterres warned that a resumption of full hostilities would inflict unbearable civilian casualties and have catastrophic consequences for international peace, security and the global economy. He also called for full restoration of international navigation rights and freedoms in the Strait of Hormuz and adjacent waters and urged parties to respect navigation rights under international law."
+    },
+    {
+      "id": "4990593",
+      "time": "2026-07-16 02:38:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧會見哥倫比亞當選副總統。"
+    },
+    {
+      "id": "mkt:019f6711-f6e0-7aab-8dae-cbe79c94552f",
+      "time": "2026-07-16 02:37:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "MSFT.O"
+      ],
+      "text": "The Information reports Microsoft (MSFT.O)'s new security chief Haiyet Garrot has replaced at least eight executives who previously reported to former security head Charlie Bell, part of a push to overhaul the company's security structure and support its AI transition."
+    },
+    {
+      "id": "4990592",
+      "time": "2026-07-16 02:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：古巴相關規劃並不意味著已經作出決定。"
+    },
+    {
+      "id": "4990591",
+      "time": "2026-07-16 02:37:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【古特雷斯對中東軍事升級深表關切 呼籲各方立即降級局勢】當地時間7月15日，聯合國秘書長發言人迪雅裡克在紐約聯合國總部舉行的午間例行記者會上表示，聯合國秘書長古特雷斯對中東地區持續升級的軍事局勢深感關切，呼籲所有各方立即採取措施推動局勢降級，重返對話和外交解決的軌道。古特雷斯重申，全面敵對行動一旦恢復，將給平民造成難以承受的傷亡，並對國際和平與安全以及全球經濟帶來災難性後果。古特雷斯再次呼籲，全面恢復霍爾木茲海峽及其周邊海域的國際航行權利和自由。各方必須依照國際法，尊重有關航行權利和自由。（央視新聞）"
+    },
     {
       "id": "4990590",
       "time": "2026-07-16 02:36:36",
@@ -171190,47 +171258,6 @@
         "MKT News"
       ],
       "text": "U.S. Vice President Vance said he will not disclose specific plans for tonight."
-    },
-    {
-      "id": "mkt:019f4308-5141-7aab-8cfc-9857f99ed254",
-      "time": "2026-07-09 02:40:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said Trump still retains multiple options to respond to Iran."
-    },
-    {
-      "id": "mkt:019f4307-a869-7aab-8cfc-96ae5f266986",
-      "time": "2026-07-09 02:40:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "XAI said Grok 4.5 is not yet live in the EU, has not been integrated into any SpaceX XAI products and is not available via the API console; the company expects to launch service in the EU in mid‑July."
-    },
-    {
-      "id": "4977527",
-      "time": "2026-07-09 02:37:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲傳聲筒：美聯儲分歧核心在通脹前景，而非政策方向】華爾街日報記者Nick Timiraos表示，美聯儲6月會議紀要顯示，官員之間的分歧主要來自對未來經濟走勢的不同判斷，而不是在加息或降息策略上存在根本衝突。美聯儲內部形成了兩種可能情景：如果通脹繼續居高不下，幾乎所有官員都認為需要維持更高利率，甚至進一步收緊政策；但如果通脹很快回落至2%的目標水平，幾乎所有官員也認為可以維持當前利率，甚至未來降息。他認為，“很快回落至2%”這一表述非常關鍵，為美聯儲保留了政策調整空間。目前官員們真正關注的問題是，通脹是否會持續反彈，還是重新進入下降軌道。Timiraos總結稱，美聯儲下一步行動仍取決於經濟資料，尤其是通脹表現。市場此前押注降息，但最新紀要顯示，政策前景仍存在較大不確定性。"
-    },
-    {
-      "id": "mkt:019f4305-27e6-7aab-8cfc-89a9581f4f11",
-      "time": "2026-07-09 02:37:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "【WSJ: Fed split driven by inflation outlook, not policy direction】WSJ reporter Nick Timiraos says the Fed’s June minutes show officials differ mainly on the inflation and economic outlook rather than on whether to tighten or ease policy. Officials outlined two scenarios: if inflation stays elevated, most favor maintaining higher rates or further tightening; if inflation quickly returns to 2%, most would be comfortable holding current rates and could consider cuts. Timiraos highlights the phrase “quickly returns to 2%” as key, preserving Fed flexibility. The minutes underscore that the Fed’s next moves will depend on incoming data—especially inflation—and that policy timing remains uncertain despite prior market bets on cuts."
     }
   ]
 }
