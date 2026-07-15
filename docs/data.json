@@ -1,7 +1,178 @@
 {
-  "updated": "2026-07-15 13:06:47",
-  "count": 18774,
+  "updated": "2026-07-15 13:10:48",
+  "count": 18784,
   "items": [
+    {
+      "id": "mkt:019f642d-be7e-7aab-8d94-5fb31587116d",
+      "time": "2026-07-15 13:09:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "China's ChiNext Index widened losses to 1.0% in the afternoon after earlier rising more than 1% in the morning; Shanghai Composite down 0.51%, Shenzhen Composite down 0.87%."
+    },
+    {
+      "id": "mkt:019f642d-b3ca-7aab-8d94-564e67bf50b4",
+      "time": "2026-07-15 13:09:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it struck US military facilities across Middle East】On the morning of the 15th local time, the Islamic Revolutionary Guard Corps (IRGC) said it struck US military facilities in Bahrain, Jordan and Kuwait, including the US Fifth Fleet facility in Bahrain. The IRGC said it destroyed the Fifth Fleet's command-and-control center in Bahrain, fuel storage and munitions depots; hangars at Azraq air base in Jordan housing F-15, F-16 and F-35 aircraft and several MQ-9 drones; and US sites in Kuwait including a satellite communications centre, air-defence radar, a Patriot air-defence system, a US logistics base and a HIMARS rocket-launcher platform. The IRGC said the strikes were carried out in response to US night strikes on multiple locations along Iran's southern coast on the night of the 14th."
+    },
+    {
+      "id": "mkt:019f642d-6cc5-7aab-8d94-4bb5fa6c728b",
+      "time": "2026-07-15 13:08:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "ASML.O"
+      ],
+      "text": "【Intel to use ASML next-generation high-NA EUV for parts of Panther Lake laptop chips】ASML said on Tuesday Intel has decided to use ASML’s next-generation high-numerical-aperture (high-NA) EUV lithography to produce parts of its flagship Panther Lake laptop processors. ASML said Intel began trials in 2024 and has started using the high-NA tool to pattern specific wafer layers. The high-NA machine costs about $400m, roughly double a standard EUV, and its deployment in production is technically challenging. ASML said the tests will help Intel and ASML collect data and more effectively build application experience for the equipment."
+    },
+    {
+      "id": "mkt:019f642d-6729-7aab-8d94-41acadef17b2",
+      "time": "2026-07-15 13:08:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bearish",
+        "MSFT.O",
+        "Impact mixed",
+        "AMZN.O"
+      ],
+      "text": "【Artificial Analysis: China narrows frontier AI-model gap to ~90% of US by mid‑2026】Artificial Analysis, a global independent AI-model benchmarking platform, shows China’s top frontier models closing from roughly 50–60% of US performance at end‑2023 to about 90% by mid‑June 2026, based on monthly comparisons of each country’s leading models. The catch‑up has occurred despite high‑end compute constraints, driven by engineering optimizations, model‑efficiency gains and faster application iteration. Market takeaways: sustained convergence would weaken using raw compute scale as a proxy for AI competitiveness, could prompt downward repricing of US AI firms’ technology premium, and bolster investment narratives for domestic compute, cloud services, edge AI and industry-specific deployments. Investment emphasis may shift from parameter/training scale toward lower‑cost, faster commercialisation pathways if the trend continues."
+    },
+    {
+      "id": "mkt:019f642d-1ea0-7aab-8d94-3c8bad1f3731",
+      "time": "2026-07-15 13:08:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) CEO said the company plans to increase capacity by 30% in 2027, building on roughly 130 DUV immersion lithography systems planned for 2026."
+    },
+    {
+      "id": "4989134",
+      "time": "2026-07-15 13:08:25",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3812.452點；上證指數跌0.46%，現報3948.967點；深證成指跌0.85%，現報14798.002點。"
+    },
+    {
+      "id": "mkt:019f642c-daca-7aab-8d94-31c3d354f691",
+      "time": "2026-07-15 13:08:08",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) CEO says the company is studying a plan to increase capacity by a further 30% by 2028."
+    },
+    {
+      "id": "4989133",
+      "time": "2026-07-15 13:07:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：我們計劃在2027年將2026年低數值孔徑極紫外光刻機約65臺的產能再提升30%。"
+    },
+    {
+      "id": "mkt:019f642c-553d-7aab-8d94-2fd5ec1cde7a",
+      "time": "2026-07-15 13:07:34",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) CEO said order intake in 1H remained extremely strong."
+    },
+    {
+      "id": "4989132",
+      "time": "2026-07-15 13:07:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥CEO：上半年新接訂單量依舊保持極強勁態勢。"
+    },
+    {
+      "id": "mkt:019f642c-06ef-7aab-8d94-231736dcadd1",
+      "time": "2026-07-15 13:07:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share aerospace equipment sector continued to slide; China Satellite fell more than 9%, with Aerospace Electronics, Star-Net Yuda, CETC Blue Sky and China Satcom also following lower."
+    },
+    {
+      "id": "mkt:019f642b-ceff-7aab-8d94-1ed9c27c7695",
+      "time": "2026-07-15 13:07:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000596.SZ",
+        "Impact bullish"
+      ],
+      "text": "China A-share liquor stocks extended afternoon gains; Gujing Gongjiu hit the daily price limit, Jinzhongzi had earlier hit the limit, while Shede, Yingjia Gongjiu and Shuijingfang also climbed."
+    },
+    {
+      "id": "mkt:019f642b-c58e-7aab-8d94-1550cafc2ed6",
+      "time": "2026-07-15 13:06:57",
+      "tags": [
+        "MKT News",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) CEO said this translates into customer commitments across its product portfolio."
+    },
+    {
+      "id": "mkt:019f642b-9b56-7aab-8d94-092ee13cbb91",
+      "time": "2026-07-15 13:06:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) CEO said customers are continuing to accelerate capacity-expansion plans."
+    },
+    {
+      "id": "4989131",
+      "time": "2026-07-15 13:06:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：客戶正持續加快產能擴張計劃。"
+    },
+    {
+      "id": "4989130",
+      "time": "2026-07-15 13:06:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：人工智慧相關投資與AI技術的持續進展正在推動需求增長。"
+    },
     {
       "id": "4989129",
       "time": "2026-07-15 13:06:03",
@@ -171954,55 +172125,6 @@
         "其他"
       ],
       "text": "據貓眼專業版資料，電影《功夫女足》映前3天， 點映及預售總票房破3000萬。"
-    },
-    {
-      "id": "4975692",
-      "time": "2026-07-08 13:09:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月08日13時05分在四川宜賓市高縣（北緯28.51度，東經104.68度）發生3.0級地震，震源深度6千米。"
-    },
-    {
-      "id": "4975691",
-      "time": "2026-07-08 13:09:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果民主共和國表示，埃博拉確診病例已升至1708例，其中死亡病例580例。"
-    },
-    {
-      "id": "4975690",
-      "time": "2026-07-08 13:07:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本逾25%公共客車司機年逾六旬引擔憂】日本一項調查顯示，該國公共客車司機的平均年齡約為56歲，其中超過四分之一為60歲或以上，甚至有人年逾八旬。在日本交通運輸行業長期人手短缺的情況下，公共客車司機老齡化引發對交通安全的嚴重擔憂。據日本《朝日新聞》7日報道，依據厚生勞動省釋出的年度《工資結構基本統計調查》，日本全體勞動者的平均年齡從2010年的41.3歲升至2025年的44.4歲，但同時期公共客車司機的平均年齡及增長速度遠高於這一水平，從46.5歲升至56歲。（新華社）"
-    },
-    {
-      "id": "4975689",
-      "time": "2026-07-08 13:07:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國起吊能力最大全迴轉半潛起重船今天交付投用】7月8日，我國起吊能力最大全迴轉半潛起重船“四航永盛”號在廣東江門正式交付。這是一艘集起重、海上運輸功能於一身的非自航半潛駁船，船長110米，型寬43.8米，型深8米，運載面積4800平方米，相當於大型物流中心一整層倉儲庫區的面積。"
-    },
-    {
-      "id": "4975688",
-      "time": "2026-07-08 13:07:24",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【市場情緒改善 新加坡銀行股創盤中新高】受市場情緒和盈利前景改善的推動，新加坡三大銀行——星展集團(DBS Group)、華僑銀行(Oversea-Chinese Banking Corp.)和大華銀行(United Overseas Bank)的股價創下歷史新高。大華銀行週三連續第五個交易日創下盤中新高，午盤最新報43.63新加坡元，上漲4.65%，相當於33.75美元；該股早些時候曾觸及43.79新加坡元。星展集團股價上漲1.5%，至69.67新加坡元；華僑銀行上漲2.9%，至27.10新加坡元。這兩家銀行近幾個交易日均創下收盤新高。"
-    },
-    {
-      "id": "4975687",
-      "time": "2026-07-08 13:06:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東鵬飲料捐贈1000萬及10萬瓶飲料支援廣西洪災】近日，受颱風“美莎克”影響，廣西多地遭遇持續性強降雨,引發洪澇災害，災情牽動人心。7月8日，東鵬飲料宣佈透過中國紅十字基金會向廣西受災地區捐款人民幣1000萬元，並於7月7日起緊急調配10萬瓶飲料陸續送往橫州、賓陽、貴港、欽州、防城港等多個受災區域。款項與物資將全面用於搶險救援保障、受災群眾臨時安置及後期重建工作。"
     }
   ]
 }
