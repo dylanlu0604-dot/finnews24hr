@@ -1,7 +1,124 @@
 {
   "date": "2026-07-15",
-  "count": 2734,
+  "count": 2746,
   "items": [
+    {
+      "id": "4989910",
+      "time": "2026-07-15 19:37:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：第一量子礦業擬出售其該銅礦專案股權，潛在買家包括力拓集團，以及日本貿易商社三菱商事和三井物產。"
+    },
+    {
+      "id": "4989909",
+      "time": "2026-07-15 19:36:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：和沃什聊得很開心。"
+    },
+    {
+      "id": "te:markets:567204",
+      "time": "2026-07-15 19:36:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Trades at One-Month Highs — Brent rose above $85 a barrel on Wednesday, extending gains for a third consecutive session to one-month highs, as escalating tensions in the Middle East continued to fuel supply concerns. The move followed another round of US strikes against Iran and the reinstatement of a naval blockade targeting Iranian ports near the Strait of Hormuz. US forces struck dozens of military assets along Iran's coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran's ability to disrupt shipping through the Strait of Hormuz. President Trump also pledged to intensify military operations until Iran halts attacks on vessels in the Strait and agrees to reopen the waterway. Meanwhile, on Tuesday, President Trump abandoned plans to impose a 20% fee on cargo transiting Hormuz, arguing that any forgone revenue would be more than offset by future investments from Gulf nations in the US."
+    },
+    {
+      "id": "4989908",
+      "time": "2026-07-15 19:36:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：幾天前見過沃什。"
+    },
+    {
+      "id": "mkt:019f6590-3fec-7aab-8d9f-f13f1ae351c2",
+      "time": "2026-07-15 19:36:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "S&P500",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "【BofA survey: Fund managers expect US stocks to outperform】BofA’s global fund manager survey shows bullishness on US equities at its highest level since Dec 2024: net 24% of respondents expect US stocks to outperform other regions, the third-highest allocation in five years. Managers have trimmed UK equity exposures; confidence in London-listed stocks is at its lowest since Aug 2020. YTD the FTSE 100 is up 5.7% versus the S&P 500’s gain of more than 10%."
+    },
+    {
+      "id": "4989907",
+      "time": "2026-07-15 19:35:28",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利美股盤前轉跌，此前一度漲近3%。"
+    },
+    {
+      "id": "4989906",
+      "time": "2026-07-15 19:35:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 哈薩克上半年經巴庫 - 第比利斯 - 傑伊漢管道出口原油 70.4 萬噸。"
+    },
+    {
+      "id": "4989905",
+      "time": "2026-07-15 19:33:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "康尼格拉品牌股價盤前下跌約4%，此前公司釋出的年度利潤預測低於市場預期。"
+    },
+    {
+      "id": "4989904",
+      "time": "2026-07-15 19:33:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海希瓦宣佈自購梁宏旗下產品 自購金額達2200萬元】上海希瓦今日釋出《關於上海希瓦和基金經理使用自有資金認申購希瓦私募旗下基金產品的自願性公告》。公告顯示，基於對中國資本市場長期健康穩定發展的信心，上海希瓦私募基金管理中心(有限合夥)和基金經理梁宏於2026年7月15日使用自有資金申購希瓦私募旗下樑宏作為基金經理管理的私募基金產品份額共計2200萬元。"
+    },
+    {
+      "id": "te:markets:567202",
+      "time": "2026-07-15 19:33:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Rise for 3rd Session — Crude oil rose above $79 a barrel on Wednesday, extending gains for a third consecutive session to one-month highs, as escalating tensions in the Middle East continued to fuel supply concerns. The move followed another round of US strikes against Iran and the reinstatement of a naval blockade targeting Iranian ports near the Strait of Hormuz. US forces struck dozens of military assets along Iran's coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran's ability to disrupt shipping through the Strait of Hormuz. President Trump also pledged to intensify military operations until Iran halts attacks on vessels in the Strait and agrees to reopen the waterway. Meanwhile, on Tuesday, President Trump abandoned plans to impose a 20% fee on cargo transiting Hormuz, arguing that any forgone revenue would be more than offset by future investments from Gulf nations in the US."
+    },
+    {
+      "id": "4989902",
+      "time": "2026-07-15 19:33:19",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "摩根士丹利美股盤前漲近3%，此前該公司公佈第二季度業績報告。"
+    },
+    {
+      "id": "te:economy:567201",
+      "time": "2026-07-15 19:33:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits 17-year High — France 10 Year Government Bond Yield increased to 3.94%, the highest since June 2009. Over the past 4 weeks, France 10Y Bond Yield gained 36.88 basis points, and in the last 12 months, it increased 55.10 basis points."
+    },
     {
       "id": "mkt:019f658d-1d7c-7aab-8d9f-e884cd1ad1c7",
       "time": "2026-07-15 19:32:54",
