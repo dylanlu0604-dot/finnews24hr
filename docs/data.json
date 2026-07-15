@@ -1,7 +1,200 @@
 {
-  "updated": "2026-07-15 22:43:14",
-  "count": 18737,
+  "updated": "2026-07-15 22:47:21",
+  "count": 18748,
   "items": [
+    {
+      "id": "4990343",
+      "time": "2026-07-15 22:46:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：隨著新技術湧現，廣義金融體系出現了新的脆弱點。"
+    },
+    {
+      "id": "4990342",
+      "time": "2026-07-15 22:46:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：薪資已以合理步伐上漲；薪資何時將從生產率提升中獲得更大漲幅的時機仍是一個\"謎題\"。"
+    },
+    {
+      "id": "mkt:019f663d-d54e-7aab-8da8-7a45fe763b9e",
+      "time": "2026-07-15 22:45:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed chair Kevin Warsh: wages have been rising at a reasonable pace; when productivity gains will translate into larger wage increases is a \"mystery\"."
+    },
+    {
+      "id": "mkt:019f663d-9a60-7aab-8da8-74e19b3c534d",
+      "time": "2026-07-15 22:45:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he believes artificial intelligence is a long-term job creator and could have disruptive effects."
+    },
+    {
+      "id": "mkt:019f663d-4bad-7aab-8da8-6c27ca89ff1f",
+      "time": "2026-07-15 22:45:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh expects AI to push up observed price levels over the next 12 months; whether AI causes inf will depend on the Fed."
+    },
+    {
+      "id": "4990340",
+      "time": "2026-07-15 22:45:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：認為人工智慧長期將創造就業，但短期內或帶來行業衝擊。"
+    },
+    {
+      "id": "4990339",
+      "time": "2026-07-15 22:44:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：AI是否會導致通脹取決於美聯儲。"
+    },
+    {
+      "id": "4990337",
+      "time": "2026-07-15 22:44:18",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：預計未來 12 個月人工智慧將推高統計通脹物價水平。"
+    },
+    {
+      "id": "4990336",
+      "time": "2026-07-15 22:43:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：價格的一次性變化未必會推高通脹。"
+    },
+    {
+      "id": "mkt:019f663b-b98c-7aab-8da8-67fd0cc60009",
+      "time": "2026-07-15 22:43:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed chair Kevin Warsh said one-off price moves do not necessarily lead to inf."
+    },
+    {
+      "id": "mkt:019f663b-8aa5-7aab-8da8-5bc4af016094",
+      "time": "2026-07-15 22:43:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said artificial intelligence is affecting demand more quickly than supply."
+    },
+    {
+      "id": "4990335",
+      "time": "2026-07-15 22:43:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們看到人工智慧對需求的影響比對供給的影響更快。"
+    },
+    {
+      "id": "mkt:019f663b-7230-7aab-8da8-51cf50869dcc",
+      "time": "2026-07-15 22:43:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he is seeking authorization to access a range of new AI models."
+    },
+    {
+      "id": "te:markets:567259",
+      "time": "2026-07-15 22:43:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures Approach 3-Week Lows — Sugar futures in the US traded around 14.7 US cents, a near three-week low, as favorable weather in major producers improved the supply outlook. Dealers said drier weather in top producer Brazil has allowed harvesting to accelerate in recent weeks after heavy rains in June disrupted fieldwork, while monsoon rainfall in second-largest producer India has also improved, although it remains below average. Even so, high oil prices limited more significant losses by increasing the competitiveness of ethanol compared to sugar. At the same time, the Brazilian government approved an increase in the mandatory blend of anhydrous ethanol in gasoline. The measure reinforced expectations of higher demand for the biofuel and a greater allocation of sugarcane to ethanol production, reducing the availability of sugar in international markets. Trades also monitored El Niño after the UN weather agency increased the likelihood of a strong event, which could hurt crops in coming months."
+    },
+    {
+      "id": "4990334",
+      "time": "2026-07-15 22:43:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "安哥拉國家石油公司執行長稱，其持有 GALP、BCP 的股份令他 “十分安心”。"
+    },
+    {
+      "id": "4990333",
+      "time": "2026-07-15 22:42:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我一直都要求獲得關於一些列新AI模型的許可權。"
+    },
+    {
+      "id": "4990332",
+      "time": "2026-07-15 22:42:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：巴塞爾協議終章並非美國的終章。"
+    },
+    {
+      "id": "te:markets:567258",
+      "time": "2026-07-15 22:42:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Most Gains — US stocks were mostly higher on Wednesday amid signs that the war in Iran has not been as inflationary as feared. The S&P 500 gained 0.4% and the Dow gained 250 points. Headline and core producer prices rose less than expected in June, aligning with the soft CPI report from yesterday and further trimming risks that the Fed could raise interest rates in their upcoming meeting. The data offset pressure from higher energy prices on further escalation to strikes between the US and Iran. Yields rose further, but strong earnings reports underpinned broad gains for equities. Morgan Stanley added 1.6% after posting optimistic results, joining JPMorgan and Goldman Sachs in their strong reports. Blackrock and other asset managers surged over 5% after their results, and J&J was flat after earnings. In turn, hyperscalers were sharply higher with Microsoft, Amazon, and Alphabet adding over 3% after strong results from ASML. On the other hand, the Nasdaq 100 fell 1% as memory producers plunged."
+    },
     {
       "id": "mkt:019f663a-73e2-7aab-8da8-4908fefe6817",
       "time": "2026-07-15 22:42:14",
@@ -172239,74 +172432,6 @@
         "Importance 0"
       ],
       "text": "Rapeseed Hits 4-week High — Rapeseed increased to 530.25 EUR/T, the highest since June 2026. Over the past 4 weeks, Rapeseed gained 1.76%, and in the last 12 months, it increased 15.45%."
-    },
-    {
-      "id": "mkt:019f4232-91a0-7aab-8cf5-eab7a4813f26",
-      "time": "2026-07-08 22:47:18",
-      "tags": [
-        "MKT News",
-        "RIVN.O"
-      ],
-      "text": "Market sources say U.S. electric-vehicle maker Rivian plans to allocate 75% of the shares in its offering to 10 institutional investors."
-    },
-    {
-      "id": "4977148",
-      "time": "2026-07-08 22:46:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "【加拿大無線運營商顯現出定價自律的跡象】TD Cowen的Vince Valentini表示，加拿大無線運營商在定價方面似乎正朝著正確的方向發展。該分析師指出，定價自律依然穩固，目前在折扣和全服務品牌中都可以看到或預計到移動套餐價格的溫和上漲。然而，仍有一個值得注意的例外：Quebecor旗下的Freedom Mobile，作為市場上最新的挑戰者，該品牌傳統上一直保持低價以在市場中獲得立足點。”Freedom Mobile[是]安大略省、艾伯塔省和不列顛哥倫比亞省唯一尚未採取行動的後付費品牌，這使其成為未來一週值得關注的關鍵品牌，“他說。Valentine補充說，更高的價格點應該會創造一個“更健康“的基準。"
-    },
-    {
-      "id": "te:markets:565327",
-      "time": "2026-07-08 22:46:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Rice Futures Stay Near 1-Year High — Rice futures traded slightly above $13 per hundredweight, hoding close to their highest since June 2025, amid climate risks and fresh geopolitical tensions. Analysts expect a very strong El Niño to develop in the coming months across key producing regions in Southeast Asia and parts of the Southern Hemisphere, with rice viewed as the most vulnerable crop. Still, global rice stocks remain abundant after successive strong harvests, led by top grower India. World milled rice inventories reached a record 196.2 million tonnes at the start of 2026, with India's stocks climbing to an all-time high of 68.4 million tonnes in June. Indonesia, a major rice importer, is holding record stockpiles as farmers speed up planting to mitigate El Niño risks. In Thailand, inventories are at their highest level in a decade, with fresh second-crop arrivals expected from late July. Meanwhile, renewed Middle East tensions have raised the risk of disruptions to commodity shipments through the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f4231-2509-7aab-8cf5-e047b40146ca",
-      "time": "2026-07-08 22:45:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slid to $4,040/oz, down 1.65% intraday. New York futures fell to $4,050/oz, down 2.59% on the day."
-    },
-    {
-      "id": "4977147",
-      "time": "2026-07-08 22:45:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌5%，現報14092.00元。"
-    },
-    {
-      "id": "4977145",
-      "time": "2026-07-08 22:44:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4040美元/盎司，日內跌1.61%。"
-    },
-    {
-      "id": "4977144",
-      "time": "2026-07-08 22:43:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4050美元/盎司，日內跌2.59%。"
     }
   ]
 }

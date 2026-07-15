@@ -1,7 +1,200 @@
 {
   "date": "2026-07-15",
-  "count": 3485,
+  "count": 3503,
   "items": [
+    {
+      "id": "4990343",
+      "time": "2026-07-15 22:46:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：隨著新技術湧現，廣義金融體系出現了新的脆弱點。"
+    },
+    {
+      "id": "4990342",
+      "time": "2026-07-15 22:46:02",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：薪資已以合理步伐上漲；薪資何時將從生產率提升中獲得更大漲幅的時機仍是一個\"謎題\"。"
+    },
+    {
+      "id": "mkt:019f663d-d54e-7aab-8da8-7a45fe763b9e",
+      "time": "2026-07-15 22:45:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed chair Kevin Warsh: wages have been rising at a reasonable pace; when productivity gains will translate into larger wage increases is a \"mystery\"."
+    },
+    {
+      "id": "mkt:019f663d-9a60-7aab-8da8-74e19b3c534d",
+      "time": "2026-07-15 22:45:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he believes artificial intelligence is a long-term job creator and could have disruptive effects."
+    },
+    {
+      "id": "mkt:019f663d-4bad-7aab-8da8-6c27ca89ff1f",
+      "time": "2026-07-15 22:45:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed chair Kevin Warsh expects AI to push up observed price levels over the next 12 months; whether AI causes inf will depend on the Fed."
+    },
+    {
+      "id": "4990340",
+      "time": "2026-07-15 22:45:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：認為人工智慧長期將創造就業，但短期內或帶來行業衝擊。"
+    },
+    {
+      "id": "4990339",
+      "time": "2026-07-15 22:44:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：AI是否會導致通脹取決於美聯儲。"
+    },
+    {
+      "id": "4990337",
+      "time": "2026-07-15 22:44:18",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：預計未來 12 個月人工智慧將推高統計通脹物價水平。"
+    },
+    {
+      "id": "4990336",
+      "time": "2026-07-15 22:43:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：價格的一次性變化未必會推高通脹。"
+    },
+    {
+      "id": "mkt:019f663b-b98c-7aab-8da8-67fd0cc60009",
+      "time": "2026-07-15 22:43:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed chair Kevin Warsh said one-off price moves do not necessarily lead to inf."
+    },
+    {
+      "id": "mkt:019f663b-8aa5-7aab-8da8-5bc4af016094",
+      "time": "2026-07-15 22:43:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said artificial intelligence is affecting demand more quickly than supply."
+    },
+    {
+      "id": "mkt:019f663b-7230-7aab-8da8-51cf50869dcc",
+      "time": "2026-07-15 22:43:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said he is seeking authorization to access a range of new AI models."
+    },
+    {
+      "id": "4990335",
+      "time": "2026-07-15 22:43:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我們看到人工智慧對需求的影響比對供給的影響更快。"
+    },
+    {
+      "id": "te:markets:567259",
+      "time": "2026-07-15 22:43:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Sugar Futures Approach 3-Week Lows — Sugar futures in the US traded around 14.7 US cents, a near three-week low, as favorable weather in major producers improved the supply outlook. Dealers said drier weather in top producer Brazil has allowed harvesting to accelerate in recent weeks after heavy rains in June disrupted fieldwork, while monsoon rainfall in second-largest producer India has also improved, although it remains below average. Even so, high oil prices limited more significant losses by increasing the competitiveness of ethanol compared to sugar. At the same time, the Brazilian government approved an increase in the mandatory blend of anhydrous ethanol in gasoline. The measure reinforced expectations of higher demand for the biofuel and a greater allocation of sugarcane to ethanol production, reducing the availability of sugar in international markets. Trades also monitored El Niño after the UN weather agency increased the likelihood of a strong event, which could hurt crops in coming months."
+    },
+    {
+      "id": "4990334",
+      "time": "2026-07-15 22:43:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "安哥拉國家石油公司執行長稱，其持有 GALP、BCP 的股份令他 “十分安心”。"
+    },
+    {
+      "id": "4990333",
+      "time": "2026-07-15 22:42:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我一直都要求獲得關於一些列新AI模型的許可權。"
+    },
+    {
+      "id": "4990332",
+      "time": "2026-07-15 22:42:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：巴塞爾協議終章並非美國的終章。"
+    },
+    {
+      "id": "te:markets:567258",
+      "time": "2026-07-15 22:42:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Hold Most Gains — US stocks were mostly higher on Wednesday amid signs that the war in Iran has not been as inflationary as feared. The S&P 500 gained 0.4% and the Dow gained 250 points. Headline and core producer prices rose less than expected in June, aligning with the soft CPI report from yesterday and further trimming risks that the Fed could raise interest rates in their upcoming meeting. The data offset pressure from higher energy prices on further escalation to strikes between the US and Iran. Yields rose further, but strong earnings reports underpinned broad gains for equities. Morgan Stanley added 1.6% after posting optimistic results, joining JPMorgan and Goldman Sachs in their strong reports. Blackrock and other asset managers surged over 5% after their results, and J&J was flat after earnings. In turn, hyperscalers were sharply higher with Microsoft, Amazon, and Alphabet adding over 3% after strong results from ASML. On the other hand, the Nasdaq 100 fell 1% as memory producers plunged."
+    },
     {
       "id": "mkt:019f663a-73e2-7aab-8da8-4908fefe6817",
       "time": "2026-07-15 22:42:14",
