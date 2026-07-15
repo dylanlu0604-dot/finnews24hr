@@ -1,7 +1,114 @@
 {
   "date": "2026-07-15",
-  "count": 3748,
+  "count": 3759,
   "items": [
+    {
+      "id": "4990483",
+      "time": "2026-07-15 23:54:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌撤回修改 Epic 案法院判決令的申請， 將於下週允許第三方應用商店入駐其應用商店。"
+    },
+    {
+      "id": "mkt:019f667c-ce49-7aab-8dab-9e1e746df1a6",
+      "time": "2026-07-15 23:54:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "Google will next week allow third-party app stores to enter its app store."
+    },
+    {
+      "id": "te:markets:567286",
+      "time": "2026-07-15 23:54:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Edges Higher as Luxury Stocks Rally — The CAC 40 inched up 0.2% to close at 8,382 on Wednesday, lifted by gains in the luxury sector. Luxury stocks outperformed, led by LVMH (+2.7%), Hermès (+2.4%), and Kering (+3.6%), on optimism that the global personal luxury goods market is recovering after Bain & Company noted stronger-than-expected second-quarter demand, particularly in the US. Meanwhile, investors continued to assess the impact of escalating tensions in the Middle East. Oil prices rose as the worsening US-Iran conflict continued to fuel concerns over global supply disruptions. Higher energy prices also revived inflation worries. Industrial and financial stocks traded lower, with Air Liquide down 1.9% and AXA shedding 0.8%. STMicroelectronics lost 4%, tracking a selloff in US chipmakers."
+    },
+    {
+      "id": "4990482",
+      "time": "2026-07-15 23:53:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "紐約洋基隊據悉正在與阿波羅全球管理公司就一項30億美元的融資協議進行磋商。"
+    },
+    {
+      "id": "4990481",
+      "time": "2026-07-15 23:52:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱“志願聯盟”國家在烏克蘭部署兵力不可接受】俄羅斯外交部發言人扎哈羅娃15日在莫斯科舉行的記者會上表示，對俄羅斯而言，任何“志願聯盟”國家在烏克蘭部署軍事力量都是不可接受的。扎哈羅娃表示，一旦這些軍事力量完成部署，將加劇俄羅斯面臨的安全威脅，俄方將把這些軍事力量視為合法打擊目標。扎哈羅娃還表示，西方國家向烏持續供應武器是解決烏克蘭問題的障礙之一。要結束衝突，西方就必須停止向烏克蘭供應武器。（新華社）"
+    },
+    {
+      "id": "mkt:019f667b-1567-7aab-8dab-9535a8fdc565",
+      "time": "2026-07-15 23:52:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "EQIX.O",
+        "Impact bullish",
+        "DLR.O",
+        "CONE.O"
+      ],
+      "text": "Fed chair Kevin Warsh said data centers are having an observable impact on the demand side of the U.S. economy."
+    },
+    {
+      "id": "4990480",
+      "time": "2026-07-15 23:52:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們能觀察到資料中心對經濟需求端產生的影響。"
+    },
+    {
+      "id": "mkt:019f667a-4ef9-7aab-8dab-89dccdd644d5",
+      "time": "2026-07-15 23:51:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US considering another extension of Jones Act waiver】Citing renewed conflict with Iran and rising concern over energy-price volatility and supply disruptions, the White House is considering another extension of a Jones Act waiver that permits foreign vessels to move cargo between US ports, two sources told Refinitiv."
+    },
+    {
+      "id": "4990479",
+      "time": "2026-07-15 23:51:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾和諾德：計劃 2026 年下半年在更多國家推出 Wegovy 口服片劑。"
+    },
+    {
+      "id": "mkt:019f6679-aed4-7aab-8dab-803e93013128",
+      "time": "2026-07-15 23:51:18",
+      "tags": [
+        "MKT News",
+        "NVO.O",
+        "Impact bullish"
+      ],
+      "text": "EU approves Novo Nordisk's Wegovy oral tablet, the first oral GLP-1 weight-loss drug."
+    },
+    {
+      "id": "4990478",
+      "time": "2026-07-15 23:51:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "諾和諾德旗下減肥藥 Wegovy 口服片劑獲歐盟委員會批准，成為歐盟首款用於體重管理的口服 GLP‑1 類藥物；其 7.2 毫克高劑量一次性即用注射筆同步獲批。"
+    },
     {
       "id": "mkt:019f6678-bcdb-7aab-8dab-7c1e86530542",
       "time": "2026-07-15 23:50:16",
