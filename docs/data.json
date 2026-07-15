@@ -1,7 +1,136 @@
 {
-  "updated": "2026-07-15 14:52:36",
-  "count": 18713,
+  "updated": "2026-07-15 14:56:48",
+  "count": 18711,
   "items": [
+    {
+      "id": "mkt:019f648f-8415-7aab-8d96-a627f190b9aa",
+      "time": "2026-07-15 14:55:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Oriental Jincheng chief economist Wang Qing says economy to follow V-shaped path this year】Citing the latest NBS data, Oriental Jincheng chief economist Wang Qing said moderate growth-support measures lifting domestic demand and fading short-term drags should push Q3 GDP growth to about 4.6%, with further acceleration likely in Q4, producing a V-shaped annual trajectory. He added that new momentum led by high-tech manufacturing should remain strong in H2, while property-related activity will stay under pressure, extending a K-shaped divergence."
+    },
+    {
+      "id": "4989274",
+      "time": "2026-07-15 14:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方金誠王青：全年經濟將呈現“V型”走勢】據國家統計局7月15日公佈的資料，中國2026年二季度GDP同比增速為4.3%，一季度為5.0%，上半年GDP增速為4.7%。對此，東方金誠首席經濟學家王青表示，穩增長政策適度發力帶動內需回升，以及短期影響因素消退等帶動下，三季度GDP增速將回升至4.6%左右，四季度有望進一步加快，全年經濟將呈現“V型”走勢。其中，下半年以高技術製造業為代表的新動能還會保持較快發展勢頭，而以房地產為代表的老動能會繼續承壓，經濟“K型”分化格局也會延續。"
+    },
+    {
+      "id": "mkt:019f648f-0654-7aab-8d96-9e8ba6e53a1d",
+      "time": "2026-07-15 14:55:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Oil gains lift euro-area government bond yields, tracking U.S. Treasuries】Euro-area government bond yields opened higher Wednesday, tracking U.S. Treasuries. The rise was driven mainly by higher oil prices after military strikes in the Middle East, though U.S. 10-year yields eased off eight-week highs after Tuesday's U.S. inf data undershot expectations. Analysts at a Belgian bank said the move also reflected Fed Chair KEVIN WARSH reiterating a commitment to price stability in congressional testimony. According to Tradeweb, the 10-year German Bund yield rose 3.3 bps to 3.105%."
+    },
+    {
+      "id": "4989273",
+      "time": "2026-07-15 14:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：美國再次襲擊恰巴哈爾港海上交通管制中心。"
+    },
+    {
+      "id": "mkt:019f648e-7336-7aab-8d96-9205d3b486ff",
+      "time": "2026-07-15 14:54:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ChangXin chairman says STAR Market listing to fund R&D and industrialisation】ChangXin Memory Technologies chairman Zhu Yiming told the company’s STAR Market IPO roadshow that proceeds will be used to strengthen R&D capacity and advance industrialisation. He said the firm will push to lead industry-chain coordination and support China’s integrated-circuit ecosystem, and will continue prioritising independent innovation and investment to become a globally influential semiconductor memory company."
+    },
+    {
+      "id": "4989272",
+      "time": "2026-07-15 14:53:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek融資股權變更完成】企查查APP顯示，近日，DeepSeek關聯公司杭州深度求索人工智慧基礎技術研究有限公司發生工商變更，新增杭州程礪企業管理諮詢合夥企業（有限合夥）、國家人工智慧產業投資基金合夥企業（有限合夥）為股東，註冊資本增加至1644.75萬元。其中，DeepSeek創始人梁文鋒退出杭州程礪企業管理諮詢合夥企業（有限合夥）股東，新增騰訊關聯公司上海珩岫商業管理有限公司及上海知勉創合投資有限公司、寧德時代全資子公司寧波梅山保稅港區問鼎投資有限公司、江蘇京東邦能投資管理有限公司等為股東，同時註冊資本由0.4萬元增至14.02億元。"
+    },
+    {
+      "id": "mkt:019f648d-b362-7aab-8d96-8e6e634196bb",
+      "time": "2026-07-15 14:53:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market sources: US forces struck Iran's Bushehr again."
+    },
+    {
+      "id": "4989271",
+      "time": "2026-07-15 14:53:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團、青桔、哈囉共享單車調價】近期，美團單車、滴滴青桔、哈囉單車相繼在北京等多個城市上調計費規則，三大平臺不約而同地採取了“提高起步定價、拉長基礎騎行時長”的組合策略：起步價從此前的1.5元/30分鐘左右，普遍調整為1.88元至1.99元/60分鐘。這成為共享單車行業近年來較大範圍的一次集體調價。（中國金融時報）"
+    },
+    {
+      "id": "4989270",
+      "time": "2026-07-15 14:53:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1282億元。"
+    },
+    {
+      "id": "4989269",
+      "time": "2026-07-15 14:53:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿斯麥CFO：2026年中國大陸市場銷售額佔比預計維持在20%左右 相比此前預期沒有變化】阿斯麥首席財務官戴厚傑（Roger Dassen）7月15日在回答有關中國大陸市場的區域更新時表示，目前預計2026年中國大陸市場將佔公司總淨銷售額的20%左右，這一比例與此前的預期相比沒有變化。戴厚傑指出，雖然佔比未變，但由於阿斯麥目前對全年的總淨銷售額預期比今年年初時更高，因此中國大陸市場的絕對銷售額基數實際上有所提升。從這個意義上說，中國大陸市場的表現正與全球市場的整體走勢保持同步。在談及中國大陸市場的具體需求來源時，他補充道，這部分增量需求主要集中在邏輯晶片業務上，並且主要是為了滿足其本土主導的市場需求。"
+    },
+    {
+      "id": "mkt:019f648c-e889-7aab-8d96-834b7fb0095e",
+      "time": "2026-07-15 14:53:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Oriental Jincheng says 10-year UST yield center likely to rise further】Oriental Jincheng said in a research note that renewed geopolitical tensions—US–Iran escalation and Iran’s Monday announcement it closed the Strait of Hormuz—should lift oil prices, revive inflation and raise rate expectations, making this the primary driver of higher 10-year U.S. Treasury yields. Fed Chair KEVIN WARSH is due to testify at Congress’s semiannual monetary policy hearing this week; the firm expects his remarks to skew hawkish and signal a stronger focus on inflation control, which would push up real rates. Partially offsetting factors include an overall June decline in oil and an expected drop in June U.S. CPI versus May, which should limit the magnitude of the yield rise. Net: with geopolitical shock plus hawkish central-bank guidance, the central tendency of the 10-year UST yield is most likely to move higher."
+    },
+    {
+      "id": "4989268",
+      "time": "2026-07-15 14:52:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理遭議員呵斥可恥出去】當地時間7月14日，以色列議會就凍結逮捕逃避兵役的極端正統派猶太教徒的法案進行投票。以色列總理內塔尼亞胡在現場遭到反對派議員集體抗議。在內塔尼亞胡入場時，反對派議員向他大喊“可恥”“出去”。內塔尼亞胡幾分鐘後便離開會場，缺席了正式投票環節。當天投票表決的法案要求凍結對那些逃避兵役的極端正統派猶太教徒的逮捕行動，該法案最終獲得透過。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4989267",
+      "time": "2026-07-15 14:52:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上半年金融資料將出爐 這場釋出會三大看點值得關注】今天15時，國務院新聞辦公室將舉行新聞釋出會，中國人民銀行新聞發言人、副行長鄒瀾將介紹2026年上半年貨幣政策執行和金融統計資料情況。總體來看，本次釋出會有這樣幾個看點：首先是上半年金融總量資料。透過這些資料，大家可以更好地瞭解當前市場流動性充裕水平、信貸投放整體節奏以及金融對實體經濟的支撐力度等。其次是金融對重點領域精準支援情況。大家都很關注上半年資金重點流向了哪些領域？哪些領域獲得信貸支援力度比較大？今天釋出會上，如果披露普惠小微、科技創新等領域的信貸投放情況，透過這些可以更好地判斷上半年信貸資金流向。第三是對熱點問題的回應。對於大家非常關注的一些熱點問題，比如上半年貨幣政策執行情況、人民幣匯率等，透過釋出會上傳遞的資訊，也可以更好預判下半年貨幣政策走向以及政策著力點。（央視）"
+    },
     {
       "id": "4989266",
       "time": "2026-07-15 14:51:33",
@@ -171395,147 +171524,6 @@
         "公司"
       ],
       "text": "【儲存原廠賺爆 Mac與Xbox被迫漲價 谷歌Pixel手機取消128GB】有報道稱，預計將於今年夏末釋出的谷歌Pixel 11 AI智慧手機將擁有更高起售價，並且將不再包括較低儲存容量的128GB儲存機型。谷歌的這一最新舉措類似於消費電子領軍者蘋果公司(AAPL.US)，後者已將其最新款iPhone切換為最低256GB儲存配置，並且將標準版iPhone 18推遲到2027年上半年，旗下Mac/iPad系列消費電子產品則實施全球提價，蘋果與谷歌可謂為上游儲存晶片成本向終端傳導提供了最直接的印證。"
-    },
-    {
-      "id": "4975898",
-      "time": "2026-07-08 14:56:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普重要“票倉”利益受損：資料中心大幅推高美國鐵鏽帶工業電力成本】由於資料中心數量和規模的增加，美國傳統製造業正面臨能源成本大幅升高的困境。美國鋼鐵製造商協會警告稱，集中在PJM電網覆蓋的“鐵鏽地帶”的美國鋼鐵公司，每年要支付數千萬美元的額外電力成本。鐵鏽帶核心地區是指美國五大湖及周邊老工業衰退區‌地區，原本是民主黨的鐵票倉，但因為特朗普重振美國製造業的口號而變成了關鍵搖擺州。這可能將衝擊特朗普重要票倉的利益，並影響到他本人的支援率。"
-    },
-    {
-      "id": "te:markets:565143",
-      "time": "2026-07-08 14:56:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Steel Advances on Signs of Stronger Demand — Steel rebar futures climbed toward CNY 3,080 per ton, rebounding from eight-month lows as improving property demand in top consumer China lifted the outlook for steel consumption. Industry data showed that transactions of newly built commercial homes across 10 major Chinese cities increased 19.2% year-on-year in the week ended July 5. China’s warehousing index also returned to expansion territory in June, supported by stronger demand for bulk commodity storage as infrastructure projects gathered pace nationwide. On the supply side, a planned strike by BHP workers at the Port Hedland iron ore terminal in Western Australia raised the risk of disruptions to iron ore shipments, a key raw material for steel production. Meanwhile, state-backed China Mineral Resources Group Ltd. recently broadened restrictions on Australian miner Fortescue Ltd., adding further pressure to iron ore supply."
-    },
-    {
-      "id": "4975897",
-      "time": "2026-07-08 14:55:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五大快遞巨頭退出蜂網投資】工商登記資訊顯示，蜂網投資有限公司發生工商變更，上海韻達貨運有限公司、上海圓通蛟龍投資發展（集團）有限公司、申通快遞有限公司退出股東行列。蜂網投資是2013年由圓通、韻達、中通、申通及順豐五家快遞企業各持股20%共同出資設立，定位為整合快遞上下游產業鏈的投資平臺。企查查資訊顯示，上個月順豐和中通已經退出股東行列。目前公司股東是由自然人持股的一家上海公司。（第一財經）"
-    },
-    {
-      "id": "4975896",
-      "time": "2026-07-08 14:54:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量260億元。"
-    },
-    {
-      "id": "4975895",
-      "time": "2026-07-08 14:54:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏克蘭防空火力攔截俄軍彈道導彈再次脫靶 澤連斯基借北約峰會緊急索要“愛國者”系統】烏克蘭軍方週三證實，在防空部隊應對俄軍新一輪徹夜空襲中，未能成功攔截任何一枚俄方發射的彈道導彈。這是烏方防空火力本週內第二次對俄軍彈道導彈攔截脫靶。鑑於防空攔截彈藥出現嚴重短缺，烏克蘭總統澤連斯基在土耳其安卡拉舉行的北約峰會期間，正緊急敦促西方盟友向烏方追加提供“愛國者”防空導彈防禦系統。根據烏克蘭空軍釋出的戰報，俄軍在當晚的聯合空襲中，共向烏方目標發射了5枚彈道導彈、2枚反輻射導彈，並密集出動了169架次無人機。儘管烏方實施了防空交戰，但5枚彈道導彈最終全部突破烏軍防空網。由於基輔方面目前正面臨極為嚴峻的“愛國者”防空攔截彈藥枯竭危機，這直接導致其難以有效抵禦俄軍的高烈度空中打擊——烏克蘭總統弗拉基米爾·澤連斯基在今天土耳其安卡拉舉行的北約峰會前夕一直強調這一點。"
-    },
-    {
-      "id": "4975894",
-      "time": "2026-07-08 14:54:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【納指年內漲18%後漲勢熄火？預測平臺多空博弈五五開】納斯達克100指數在2026年已上漲約18%，但預測市場平臺 Kalshi 上的交易員認為該指數在2026年下半年不會再走高太多。投機者認為，這一科技股權重很高的指數在2026年收盤突破30000點的機率大約是五五開(50對50)，這一關口是該指數在5月下旬首次跨越的。截至週二盤中交易，該指數僅比30000點低1%左右。在 Kalshi 上，合約要求投機者進行“是”或“否”的交易，以此支援或反對納斯達克100指數年底是否會落在某個特定的點數區間內。該合約將根據谷歌提供的12月31日該指數的價格進行結算。"
-    },
-    {
-      "id": "mkt:019f4080-d524-7aab-8ce3-cb3bb7809f54",
-      "time": "2026-07-08 14:53:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Two oil tankers damaged in drone attack in Russia's Rostov region】Rostov region governor said on social media the region was hit by a large-scale drone attack in the early hours of the 8th, damaging two oil tankers bound for Rostov-on-Don in Taganrog Bay and leaving two people lightly injured. The governor warned of an ongoing drone threat and urged residents to stay indoors and away from windows."
-    },
-    {
-      "id": "mkt:019f4080-c863-7aab-8ce3-c6e73de8a00b",
-      "time": "2026-07-08 14:53:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran foreign ministry says US flagrantly breached interim ceasefire】Iran's foreign ministry said the US flagrantly breached an interim ceasefire by striking multiple monitoring and surveillance centres on Iran's southern coast, revoking a US Treasury licence for Iranian oil sales last night, and violating Iran's arrangements in the Strait of Hormuz. It said repeated illegal attacks on Iran, together with Israeli military action in Lebanon, are nullifying the ceasefire and warned the US bears responsibility for the dangerous escalation. The ministry urged all states, especially Gulf littoral neighbours, to prevent their territory or facilities being used to attack Iran, warned that assisting such attacks would constitute complicity, and said Iran's armed forces will defend its territorial integrity, sovereignty and security and repel aggression."
-    },
-    {
-      "id": "4975893",
-      "time": "2026-07-08 14:53:20",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【伊朗外交部：譴責美國對臨時停戰協議的公然違反】伊朗外交部發布宣告，譴責美國“公然違反”雙方達成的初步停戰協議。伊朗外交部稱，美對伊朗南部海岸的多個監測和監視中心發動的軍事襲擊，公然違反了停戰解備忘錄的第一條，該條款規定應停止軍事行動。針對伊朗的屢次非法襲擊，加上美國財政部昨晚決定撤銷伊朗石油銷售許可證，以及違反伊朗在霍爾木茲海峽的安排，還有以色列政權對黎巴嫩持續的軍事行動，正在使停火協議失效。此次局勢升級所造成的危險後果，責任在於背信棄義的美國政權。外交部強調，所有國家，特別是波斯灣南岸的鄰國，負有國際法義務，必須防止侵略方利用其領土和設施對伊朗實施侵略行為，並重申，任何協助實施針對伊朗的侵略罪行的行為，均構成對該罪行的共謀和參與。外交部強烈譴責美國一再發動侵略性襲擊和違反條約的行為，強調伊朗強大的武裝力量將一如既往地捍衛伊朗的領土完整、國家主權和國家安全，並會抵禦侵略。"
-    },
-    {
-      "id": "mkt:019f4080-8573-7aab-8ce3-be186e48c82e",
-      "time": "2026-07-08 14:53:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zhonggong Education shares closed at the daily down-limit late in the session, with turnover exceeding CNY1.0 bln, after the CSRC opened a formal investigation into a person surnamed An for fabricating and disseminating false information about the company."
-    },
-    {
-      "id": "4975892",
-      "time": "2026-07-08 14:53:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "中公教育尾盤跌停，成交額超10億元。"
-    },
-    {
-      "id": "4975891",
-      "time": "2026-07-08 14:53:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "緯創：6月銷售額3,218.2億元臺幣。"
-    },
-    {
-      "id": "4975890",
-      "time": "2026-07-08 14:52:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "月球航天公司ispace將藉助SpaceX運載艙開展月球運輸業務。"
-    },
-    {
-      "id": "4975889",
-      "time": "2026-07-08 14:52:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯兩艘油輪遭無人機襲擊受損】俄羅斯西南部羅斯托夫州州長斯柳薩里8日在社交媒體平臺發文說，該州當天凌晨遭遇大規模無人機襲擊，導致兩艘油輪船體受損，兩人受輕傷。斯柳薩里表示，兩艘前往頓河畔羅斯托夫的油輪在塔甘羅格灣遭無人機襲擊，目前羅斯托夫州仍面臨無人機威脅，居民應留在室內並遠離窗戶。俄羅斯國防部8日在社交媒體上說，莫斯科時間7日晚8時至8日早8時，俄防空系統在多地攔截並摧毀415架無人機。俄武裝部隊8日凌晨對烏克蘭軍工設施實施打擊，擊中烏一家導彈零部件生產企業和一個無人機組裝車間。（新華社）"
-    },
-    {
-      "id": "mkt:019f407f-fe9e-7aab-8ce3-b6f2f0816a1c",
-      "time": "2026-07-08 14:52:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Analyst: Oil producers' window to monetize Middle East price spike is brief】Longode Bank analyst Robin Haworth says the window for oil companies to capitalize on higher prices linked to the Middle East conflict is very short. Major oil and gas stocks have not rerated significantly as investors view elevated profits as temporary. Haworth warns oil may be capped around $100/bbl, leaving limited upside. He sees opportunities in oilfield services to repair conflict damage. Structural capacity declines and Ukrainian strikes on Russian refineries are supporting refining margins, but as output and prices normalize he prefers financials, utilities and healthcare for more attractive opportunities."
     }
   ]
 }

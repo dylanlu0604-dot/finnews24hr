@@ -1,7 +1,136 @@
 {
   "date": "2026-07-15",
-  "count": 1742,
+  "count": 1755,
   "items": [
+    {
+      "id": "mkt:019f648f-8415-7aab-8d96-a627f190b9aa",
+      "time": "2026-07-15 14:55:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Oriental Jincheng chief economist Wang Qing says economy to follow V-shaped path this year】Citing the latest NBS data, Oriental Jincheng chief economist Wang Qing said moderate growth-support measures lifting domestic demand and fading short-term drags should push Q3 GDP growth to about 4.6%, with further acceleration likely in Q4, producing a V-shaped annual trajectory. He added that new momentum led by high-tech manufacturing should remain strong in H2, while property-related activity will stay under pressure, extending a K-shaped divergence."
+    },
+    {
+      "id": "4989274",
+      "time": "2026-07-15 14:55:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方金誠王青：全年經濟將呈現“V型”走勢】據國家統計局7月15日公佈的資料，中國2026年二季度GDP同比增速為4.3%，一季度為5.0%，上半年GDP增速為4.7%。對此，東方金誠首席經濟學家王青表示，穩增長政策適度發力帶動內需回升，以及短期影響因素消退等帶動下，三季度GDP增速將回升至4.6%左右，四季度有望進一步加快，全年經濟將呈現“V型”走勢。其中，下半年以高技術製造業為代表的新動能還會保持較快發展勢頭，而以房地產為代表的老動能會繼續承壓，經濟“K型”分化格局也會延續。"
+    },
+    {
+      "id": "mkt:019f648f-0654-7aab-8d96-9e8ba6e53a1d",
+      "time": "2026-07-15 14:55:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Oil gains lift euro-area government bond yields, tracking U.S. Treasuries】Euro-area government bond yields opened higher Wednesday, tracking U.S. Treasuries. The rise was driven mainly by higher oil prices after military strikes in the Middle East, though U.S. 10-year yields eased off eight-week highs after Tuesday's U.S. inf data undershot expectations. Analysts at a Belgian bank said the move also reflected Fed Chair KEVIN WARSH reiterating a commitment to price stability in congressional testimony. According to Tradeweb, the 10-year German Bund yield rose 3.3 bps to 3.105%."
+    },
+    {
+      "id": "4989273",
+      "time": "2026-07-15 14:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：美國再次襲擊恰巴哈爾港海上交通管制中心。"
+    },
+    {
+      "id": "mkt:019f648e-7336-7aab-8d96-9205d3b486ff",
+      "time": "2026-07-15 14:54:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ChangXin chairman says STAR Market listing to fund R&D and industrialisation】ChangXin Memory Technologies chairman Zhu Yiming told the company’s STAR Market IPO roadshow that proceeds will be used to strengthen R&D capacity and advance industrialisation. He said the firm will push to lead industry-chain coordination and support China’s integrated-circuit ecosystem, and will continue prioritising independent innovation and investment to become a globally influential semiconductor memory company."
+    },
+    {
+      "id": "4989272",
+      "time": "2026-07-15 14:53:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek融資股權變更完成】企查查APP顯示，近日，DeepSeek關聯公司杭州深度求索人工智慧基礎技術研究有限公司發生工商變更，新增杭州程礪企業管理諮詢合夥企業（有限合夥）、國家人工智慧產業投資基金合夥企業（有限合夥）為股東，註冊資本增加至1644.75萬元。其中，DeepSeek創始人梁文鋒退出杭州程礪企業管理諮詢合夥企業（有限合夥）股東，新增騰訊關聯公司上海珩岫商業管理有限公司及上海知勉創合投資有限公司、寧德時代全資子公司寧波梅山保稅港區問鼎投資有限公司、江蘇京東邦能投資管理有限公司等為股東，同時註冊資本由0.4萬元增至14.02億元。"
+    },
+    {
+      "id": "mkt:019f648d-b362-7aab-8d96-8e6e634196bb",
+      "time": "2026-07-15 14:53:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market sources: US forces struck Iran's Bushehr again."
+    },
+    {
+      "id": "4989271",
+      "time": "2026-07-15 14:53:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團、青桔、哈囉共享單車調價】近期，美團單車、滴滴青桔、哈囉單車相繼在北京等多個城市上調計費規則，三大平臺不約而同地採取了“提高起步定價、拉長基礎騎行時長”的組合策略：起步價從此前的1.5元/30分鐘左右，普遍調整為1.88元至1.99元/60分鐘。這成為共享單車行業近年來較大範圍的一次集體調價。（中國金融時報）"
+    },
+    {
+      "id": "4989270",
+      "time": "2026-07-15 14:53:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1282億元。"
+    },
+    {
+      "id": "4989269",
+      "time": "2026-07-15 14:53:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿斯麥CFO：2026年中國大陸市場銷售額佔比預計維持在20%左右 相比此前預期沒有變化】阿斯麥首席財務官戴厚傑（Roger Dassen）7月15日在回答有關中國大陸市場的區域更新時表示，目前預計2026年中國大陸市場將佔公司總淨銷售額的20%左右，這一比例與此前的預期相比沒有變化。戴厚傑指出，雖然佔比未變，但由於阿斯麥目前對全年的總淨銷售額預期比今年年初時更高，因此中國大陸市場的絕對銷售額基數實際上有所提升。從這個意義上說，中國大陸市場的表現正與全球市場的整體走勢保持同步。在談及中國大陸市場的具體需求來源時，他補充道，這部分增量需求主要集中在邏輯晶片業務上，並且主要是為了滿足其本土主導的市場需求。"
+    },
+    {
+      "id": "mkt:019f648c-e889-7aab-8d96-834b7fb0095e",
+      "time": "2026-07-15 14:53:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Oriental Jincheng says 10-year UST yield center likely to rise further】Oriental Jincheng said in a research note that renewed geopolitical tensions—US–Iran escalation and Iran’s Monday announcement it closed the Strait of Hormuz—should lift oil prices, revive inflation and raise rate expectations, making this the primary driver of higher 10-year U.S. Treasury yields. Fed Chair KEVIN WARSH is due to testify at Congress’s semiannual monetary policy hearing this week; the firm expects his remarks to skew hawkish and signal a stronger focus on inflation control, which would push up real rates. Partially offsetting factors include an overall June decline in oil and an expected drop in June U.S. CPI versus May, which should limit the magnitude of the yield rise. Net: with geopolitical shock plus hawkish central-bank guidance, the central tendency of the 10-year UST yield is most likely to move higher."
+    },
+    {
+      "id": "4989268",
+      "time": "2026-07-15 14:52:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以總理遭議員呵斥可恥出去】當地時間7月14日，以色列議會就凍結逮捕逃避兵役的極端正統派猶太教徒的法案進行投票。以色列總理內塔尼亞胡在現場遭到反對派議員集體抗議。在內塔尼亞胡入場時，反對派議員向他大喊“可恥”“出去”。內塔尼亞胡幾分鐘後便離開會場，缺席了正式投票環節。當天投票表決的法案要求凍結對那些逃避兵役的極端正統派猶太教徒的逮捕行動，該法案最終獲得透過。 （CCTV國際時訊）"
+    },
+    {
+      "id": "4989267",
+      "time": "2026-07-15 14:52:24",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【上半年金融資料將出爐 這場釋出會三大看點值得關注】今天15時，國務院新聞辦公室將舉行新聞釋出會，中國人民銀行新聞發言人、副行長鄒瀾將介紹2026年上半年貨幣政策執行和金融統計資料情況。總體來看，本次釋出會有這樣幾個看點：首先是上半年金融總量資料。透過這些資料，大家可以更好地瞭解當前市場流動性充裕水平、信貸投放整體節奏以及金融對實體經濟的支撐力度等。其次是金融對重點領域精準支援情況。大家都很關注上半年資金重點流向了哪些領域？哪些領域獲得信貸支援力度比較大？今天釋出會上，如果披露普惠小微、科技創新等領域的信貸投放情況，透過這些可以更好地判斷上半年信貸資金流向。第三是對熱點問題的回應。對於大家非常關注的一些熱點問題，比如上半年貨幣政策執行情況、人民幣匯率等，透過釋出會上傳遞的資訊，也可以更好預判下半年貨幣政策走向以及政策著力點。（央視）"
+    },
     {
       "id": "4989266",
       "time": "2026-07-15 14:51:33",
