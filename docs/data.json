@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-16 02:41:28",
-  "count": 18606,
+  "updated": "2026-07-16 02:45:28",
+  "count": 18602,
   "items": [
+    {
+      "id": "4990594",
+      "time": "2026-07-16 02:41:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國駐伊拉克埃爾比勒領館附近傳出爆炸聲】據伊拉克媒體15日報道，美國駐伊拉克埃爾比勒領館附近傳出爆炸聲，3架無人機被擊落，目前尚無人員傷亡或財產損失報告。（新華社）"
+    },
+    {
+      "id": "mkt:019f6715-4c8b-7aab-8dae-ef6a7b1f1909",
+      "time": "2026-07-16 02:41:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion Heard Near U.S. Consulate in Erbil; Three Drones Shot Down, No Casualties Reported】Iraqi media reported on the 15th that an explosion was heard near the U.S. consulate in Erbil and three drones were shot down; there were no reports of casualties or property damage."
+    },
     {
       "id": "mkt:019f6714-901e-7aab-8dae-e7c311ca4431",
       "time": "2026-07-16 02:40:28",
@@ -171197,67 +171213,6 @@
         "Important"
       ],
       "text": "U.S. Vice President Vance said Iran must fulfill relevant commitments or face consequences similar to those of last night. U.S. military action will continue unless Iran stops firing on vessels."
-    },
-    {
-      "id": "mkt:019f430c-214e-7aab-8cfc-b86ea1ad3526",
-      "time": "2026-07-09 02:44:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. Vice President Vance said Trump has made clear the Strait of Hormuz will remain open."
-    },
-    {
-      "id": "mkt:019f430b-a596-7aab-8cfc-b2db7b6f617a",
-      "time": "2026-07-09 02:44:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. Vice President Vance said Iran complied with commitments and improved its behavior for about a week, but then resumed attacks on vessels."
-    },
-    {
-      "id": "mkt:019f430b-a440-7aab-8cfc-ad58f4e1e2bd",
-      "time": "2026-07-09 02:44:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. Vice President Vance said the U.S.-Iran agreement makes clear that, should Iran attack vessels, the U.S. will undertake strong countermeasures and will escalate its response."
-    },
-    {
-      "id": "4977529",
-      "time": "2026-07-09 02:43:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【萬斯：勞工部已發出數十份H-1B簽證傳票】美國副總統萬斯表示，勞工部今天已向試圖利用H-1B簽證專案牟利的“外國欺詐者”發出數十張傳票並啟動調查。他補充說，大公司正在利用H-1B簽證專案牟利。"
-    },
-    {
-      "id": "4977528",
-      "time": "2026-07-09 02:42:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【普京稱烏企圖破壞俄經濟製造恐慌】作為一系列支撐國內燃油市場的舉措之一，俄羅斯7月8日起實施柴油出口禁令。這一禁令將持續至7月31日。近來，烏克蘭對俄羅斯多地煉油廠頻繁發動無人機襲擊，俄羅斯國內柴油與汽油供應吃緊，多地出現排長隊加油現象。俄羅斯副總理諾瓦克當天在政府電視工作會議上向總統普京彙報時表示，燃油形勢依然複雜，“當前加油站的狀況已引發公眾擔憂”。 除出臺柴油出口禁令外，諾瓦克還表示，俄羅斯本月開始進口燃油。 普京在會上指出，“烏克蘭企圖破壞俄羅斯經濟，試圖在社會層面製造恐慌焦慮情緒——但這一目標不可能實現。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f4309-0b6a-7aab-8cfc-a2e457ddb4f7",
-      "time": "2026-07-09 02:41:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said he will not disclose specific plans for tonight."
     }
   ]
 }
