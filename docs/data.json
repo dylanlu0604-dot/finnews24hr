@@ -1,7 +1,184 @@
 {
-  "updated": "2026-07-15 17:40:30",
-  "count": 18643,
+  "updated": "2026-07-15 17:44:35",
+  "count": 18650,
   "items": [
+    {
+      "id": "mkt:019f6529-4b95-7aab-8d9c-91df56303e66",
+      "time": "2026-07-15 17:43:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Russian Defence Ministry said over the past 24 hours Russian armed forces struck logistics centres, fuel and energy infrastructure and transport infrastructure used by Ukrainian armed forces."
+    },
+    {
+      "id": "4989663",
+      "time": "2026-07-15 17:43:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴斯夫股份公司：巴斯夫集團釋出2026年第二季度初步業績，上調2026財年盈利預期。"
+    },
+    {
+      "id": "4989662",
+      "time": "2026-07-15 17:43:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東明珠：擬登出4609.09萬股回購股份並減少註冊資本】廣東明珠公告稱，公司於2024年9月23日至2025年9月2日完成回購股份計劃，共計回購46,090,968股，佔總股本6.64%，支付總金額1.94億元。2026年6月、7月，公司決定將回購股份用途變更為登出並減少註冊資本，登出完成後，總股本將由694,408,089股減至648,317,121股。債權人自公告披露日起45日內，有權要求清償債務或提供擔保，申報時間為7月16日至8月29日。"
+    },
+    {
+      "id": "4989661",
+      "time": "2026-07-15 17:43:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中關村科金任命範斌為高階副總裁】7月15日，中關村科金宣佈，正式任命範斌為公司高階副總裁。他將負責銀行及信貸事業部、財富及保險事業部、聯合運營事業部以及海外業務戰略及拓展。在加入中關村科金之前，範斌長期任職於IBM，歷任銀行及金融市場行業總經理、大中華區核心銀行與支付團隊總經理、高階合夥人、金融行業總經理等核心管理職務，執掌IBM諮詢中國區金融行業的諮詢與實施服務業務。"
+    },
+    {
+      "id": "te:economy:567176",
+      "time": "2026-07-15 17:42:39",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Cape Verde",
+        "GDP Annual Growth Rate",
+        "Importance 1"
+      ],
+      "text": "Cape Verde Economic Growth Remains Robust — The economy of Cape Verde advanced by 6.5% year-on-year in Q1 2026, sustaining robust growth after an upwardly revised 7.3% expansion in the previous period. Key contributors included fishing and aquaculture (48.2% vs -6.9% in Q4 2025), trade and repair services (7.3% vs 3.3%), financial and insurance activities (17.2% vs 15.6%), real estate (6.4% vs 6.3%), public administration (10.4% vs 9.9%), and education (17.9% vs 78.5%). Moreover, net taxes on products increased by a solid 6.6%. On the demand side, the expansion was mainly supported by private consumption (4.5% vs 1.8%) and increased investment (15.9% vs 5.9%). Net trade contributed negatively to the GDP, as exports rose 5.5% whereas imports advanced at a faster 6.9%."
+    },
+    {
+      "id": "mkt:019f6528-1201-7aab-8d9c-88ad00fc7e88",
+      "time": "2026-07-15 17:42:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU trade commissioner SEFCOVIC said the target is for an EU-India trade agreement to enter into force by 2027."
+    },
+    {
+      "id": "mkt:019f6527-d4cf-7aab-8d9c-80f06af1e1e0",
+      "time": "2026-07-15 17:42:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【Experts: bond and equity financing gains have overtaken loan growth and will persist】The PBOC said on July 15 that RMB loan balance stood at 282.63 trillion yuan at end-June, up 5.2% YoY. Experts say China is undergoing deep industrial restructuring and a shift in growth drivers; a slowdown in loan growth reflects financial-system adaptation to the economic transition rather than reduced policy support. Over the long run China’s social financing was loan-dominated, but in 2025 incremental bond and equity financing exceeded incremental loans for the first time and became the main driver of financing supply. Experts expect this shift toward diversified financing to persist and continue supporting the real economy."
+    },
+    {
+      "id": "mkt:019f6527-b481-7aab-8d9c-7e0e072ec97c",
+      "time": "2026-07-15 17:42:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09626.HK"
+      ],
+      "text": "HKEX filing shows Morgan Stanley reduced its stake in Bilibili (09626.HK) to 5.99% from 6.63%."
+    },
+    {
+      "id": "mkt:019f6527-aaf0-7aab-8d9c-76be7abec484",
+      "time": "2026-07-15 17:42:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH"
+      ],
+      "text": "【China delegation completes attendance at ITU‑R Study Group 4 WP4A and WP4C meetings】July 6-10, 2026 in Geneva, temporary WP4A and WP4C working parties of ITU‑R Study Group 4 met to accelerate preparation for WRC‑27. Deliberations focused on Agenda Item 1.5 (limits on unauthorized earth-station operations) and Item 1.13 (new frequency allocations for direct‑to‑handset satellite services); CPM draft texts were updated and both items recorded interim progress. Chinese experts chaired the drafting group for the Item 1.13 spectrum coexistence study and led drafting of the band compatibility/shared‑use report, with China’s delegation actively advancing revisions to the CPM text."
+    },
+    {
+      "id": "4989660",
+      "time": "2026-07-15 17:41:48",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "據香港交易所披露，7月9日，摩根士丹利所持嗶哩嗶哩股份有限公司-W（<9626.HK>）的好倉佔比已從6.63%降至5.99%。"
+    },
+    {
+      "id": "te:markets:567175",
+      "time": "2026-07-15 17:41:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "M&T Bank earnings above expectations at 5.35 USD — M&T Bank (MTB) released earnings per share at 5.35 USD, compared to market expectations of 4.65 USD."
+    },
+    {
+      "id": "mkt:019f6527-3c53-7aab-8d9c-6d1aa52270c2",
+      "time": "2026-07-15 17:41:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland's finance minister said May industrial production rose 5.3% YoY, ranking among the strongest in Europe."
+    },
+    {
+      "id": "4989659",
+      "time": "2026-07-15 17:41:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國西電：與中國電氣裝備集團西南有限公司共同出資6.8億元設立重慶西電開關公司】中國西電公告，公司擬與中國電氣裝備集團西南有限公司共同出資6.8億元設立重慶西電高壓開關有限公司，並實施重慶高壓開關智慧工廠專案。其中，公司出資3.74億元，持股55%；西南公司出資3.06億元，持股45%。"
+    },
+    {
+      "id": "4989658",
+      "time": "2026-07-15 17:41:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【合肥城建：股價異常波動 業績下滑且投資收益存不確定性】合肥城建公告稱，公司股票在2026年7月14日、15日連續兩個交易日收盤價格跌幅偏離值累計超20%，屬於異常波動。2025年度營收101.02億元，淨虧損5.21億元；2026年一季度營收26.88億元，淨虧損2489.46萬元；2026年上半年預計虧損1.7億 - 2.3億元。公司及子公司對國聯基金實繳6000萬元，佔比9.09%，國聯基金間接投資長鑫科技4.5億元，但對公司業績影響不大。公司主營地產開發銷售，不涉及半導體等領域，與長鑫科技無業務往來，目前無應披露未披露事項。"
+    },
+    {
+      "id": "mkt:019f6526-e8d0-7aab-8d9c-6191308dac4d",
+      "time": "2026-07-15 17:41:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "China's Ministry of Industry and Information Technology issued its 2025 catalogue of typical AI application cases, selecting 285 entries."
+    },
+    {
+      "id": "4989657",
+      "time": "2026-07-15 17:40:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【滬市主機板超300份半年報預喜，超七成最高增幅超100%】資料顯示，截至7月15日收盤，滬市主機板共有756家上市公司釋出2026年半年度業績預告，其中306家上市公司交出業績增長或扭虧的“報喜”成績單。統計顯示，上述“報喜”的306家公司中，215家（即超七成）預告最高增幅超100%，集中在基礎化工、有色金屬、電子，電力裝置、非銀金融等行業。尤其是基礎化工、有色金屬、電子三大板塊，報喜公司數量領跑全市場。其中，基礎化工以35家報喜數量位居首位，有色金屬、電子分別為33家、25家，三大行業合計佔整體報喜數量的約30%。(中證金牛座)"
+    },
+    {
+      "id": "4989656",
+      "time": "2026-07-15 17:40:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利經濟部長：有信心政府將很快處置完畢持有的本國銀行剩餘股權。"
+    },
+    {
+      "id": "4989655",
+      "time": "2026-07-15 17:40:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國知名海洋生物學家在菲律賓遭槍殺】據菲律賓媒體15日報道，現年73歲的美國知名海洋生物學家肯特·卡彭特12日在菲律賓一島嶼的住所內遭槍殺，菲警方已成立專案組啟動調查。 據報道，當地警方初步調查顯示，12日晚間有三名蒙面男子強行闖入卡彭特在菲中部內格羅斯島的住所，朝其頭部開槍，致其當場死亡。 菲國家警察總部發言人艾倫·科向媒體表示，蒙面男子離開現場時拿走了一臺膝上型電腦、現金和一個揹包。警方初步懷疑作案動機可能是入室搶劫。 據報道，卡彭特在美國弗吉尼亞州奧爾德多米寧大學擔任教授，長期專注海洋生物多樣性研究，案發時他正與菲律賓西利曼大學合作在當地開展一項長期科研任務。（新華社）"
+    },
+    {
+      "id": "4989654",
+      "time": "2026-07-15 17:40:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入133.64億港元】港股通（滬）方面，阿里巴巴-W、兆易創新分別獲淨買入12.24億港元、7.41億港元；騰訊控股淨賣出額居首，金額為3.51億港元；港股通（深）方面，騰訊控股、阿里巴巴-W分別獲淨買入21.57億港元、18.67億港元；盈富基金淨賣出額居首，金額為13.29億港元。"
+    },
     {
       "id": "4989653",
       "time": "2026-07-15 17:39:48",
@@ -171012,112 +171189,6 @@
         "MKT News"
       ],
       "text": "【iSoftStone and Shenzhen Fude Digital Intelligence sign strategic cooperation】iSoftStone and Shenzhen-based Fude Digital Intelligence signed a strategic cooperation agreement at iSoftStone’s Digital Infrastructure Services 2026 Partner Conference. The partners will integrate iSoftStone’s full‑stack digital infrastructure capabilities with Fude’s capital resources and core hardware supply‑chain strengths to connect bottom‑layer compute capacity with top‑layer applications and jointly build a full‑stack compute–platform–application service offering."
-    },
-    {
-      "id": "4976469",
-      "time": "2026-07-08 17:44:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【澳大利亞發生大面積通訊斷網事故】澳大利亞最大電信運營商澳大利亞電信公司8日發生大面積斷網事故，導致全澳多地的鐵路交通、銀行支付系統、資料中心等服務中斷，數百萬人生活受到嚴重影響。當天晚些時候該公司宣佈服務已全面恢復。 澳大利亞電信公司首席財務官邁克爾·阿克蘭當天出面代表公司向公眾道歉。他同時表示，沒有證據表明，此次大面積斷網是由於遭外界惡意攻擊導致。初步調查顯示，公司位於悉尼和墨爾本的資料中心負責時間同步的專用伺服器出現故障或為本次網路中斷事故的誘因，深層原因仍在調查中。（新華社）"
-    },
-    {
-      "id": "mkt:019f411d-03fb-7aab-8cea-3db598ff463b",
-      "time": "2026-07-08 17:44:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell, slipping below $4,050/oz and down 1.39% on the day."
-    },
-    {
-      "id": "4976468",
-      "time": "2026-07-08 17:43:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4050美元/盎司，日內跌1.47%。"
-    },
-    {
-      "id": "4976467",
-      "time": "2026-07-08 17:43:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4060美元/盎司，日內跌2.35%。"
-    },
-    {
-      "id": "4976466",
-      "time": "2026-07-08 17:43:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軟通動力與富德數智達成戰略合作】近日，軟通動力與深圳市富德數智有限公司（簡稱“富德數智”）在軟通動力數字基礎設施服務線2026夥伴大會正式簽署戰略合作協議。雙方將深度融合軟通動力在數字基礎設施全棧能力體系與富德數智在資金、核心硬體供應鏈上的產業優勢，全面打通從底層算力到上層應用的商業閉環，攜手打造“算力—平臺—應用”的全棧式服務體系。（軟通動力）"
-    },
-    {
-      "id": "4976465",
-      "time": "2026-07-08 17:42:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋方面訊息：沙特巴哈里航運稱霍爾木茲海峽遇襲船隻所載貨物安然無恙。"
-    },
-    {
-      "id": "mkt:019f411b-4466-7aab-8cea-3778d99e8e72",
-      "time": "2026-07-08 17:42:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Fujian Maritime Safety Administration launches level-3 typhoon emergency as Bavi approaches】Fujian Meteorological Observatory forecasts Typhoon Bavi moving toward waters east of Taiwan and entering the 24‑hour typhoon warning zone on the morning of July 10, beginning to affect offshore fishing grounds. The Fujian Maritime Safety Administration elevated typhoon preparedness to a level‑3 emergency response at 08:00 on July 8 and designated waters north of Quanzhou as the primary area of focus."
-    },
-    {
-      "id": "mkt:019f411a-b0bb-7aab-8cea-2cd29967a4e9",
-      "time": "2026-07-08 17:41:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Typhoon outer bands cause heavy rain, widespread flight delays across South and East China】Flight-tracking service data show persistent heavy rain from a typhoon's outer circulation prompted weather warnings across South and East China on July 8 and produced varying degrees of flight disruption. Shenzhen Bao'an, Wuxi Shuofang and Zhuhai Jinwan reported widespread delays, with up to 85% of flights delayed; Haikou Meilan, Guangzhou Baiyun, Nanjing Lukou and Jieyang Chaoshan experienced localized delays."
-    },
-    {
-      "id": "4976464",
-      "time": "2026-07-08 17:41:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：JIO FINANCIAL 的 293 萬股股票在大宗交易中易手。"
-    },
-    {
-      "id": "4976463",
-      "time": "2026-07-08 17:41:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【MiniMax解禁前夕 超八成PreIPO及基石股東表態長期持有】記者7月8日從國產大模型公司MiniMax獲悉，在MiniMax基石投資者解禁視窗臨近之際，超八成PreIPO及基石股東明確表態長期看好並將繼續持有，表態機構包括Aspex、博裕、IDG、Janchor、MartisFund等基石投資人，國壽投資、徐匯資本等國資機構，以及阿里、米哈遊、雲啟、明勢等早期股東。（人民財訊）"
-    },
-    {
-      "id": "4976462",
-      "time": "2026-07-08 17:40:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【防禦颱風“巴威” 福建海事局啟動防颱風三級應急響應】根據福建省氣象臺預報，颱風“巴威”正逐漸趨向臺灣以東洋麵，颱風“巴威”將於10日上午進入颱風24小時警戒區，並開始影響外海漁場。為了防禦颱風“巴威”，福建海事局提級落實防颱風預警響應措施，自7月8日8時起，啟動防颱風三級應急響應，將泉州以北海域作為防禦重點，全力以赴做好各項工作。（央視新聞）"
-    },
-    {
-      "id": "4976461",
-      "time": "2026-07-08 17:40:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【共進股份：股價連續三日漲幅偏離值累計達20% 提示交易風險】共進股份公告稱，公司股票在2026年7月6日、7日、8日連續3個交易日收盤價格漲幅偏離值累計達20%，屬異常波動。經核查，公司生產經營正常，內外部環境和行業政策無重大變化，控股股東不存在應披露未披露重大資訊。公司數通業務中400G、800G交換機業務收入佔比小，對短期業績影響有限。此外，公司提示股價漲幅、換手率較高，提醒投資者注意交易風險。"
     }
   ]
 }
