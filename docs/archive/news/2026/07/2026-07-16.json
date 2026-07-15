@@ -1,7 +1,90 @@
 {
   "date": "2026-07-16",
-  "count": 168,
+  "count": 177,
   "items": [
+    {
+      "id": "4990575",
+      "time": "2026-07-16 02:04:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：6 月末信用卡逾期率為 1.30%。"
+    },
+    {
+      "id": "mkt:019f66f3-dfa2-7aab-8dae-4922ae37a227",
+      "time": "2026-07-16 02:04:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Russia says Zaporizhzhia nuclear plant chief engineer killed in Ukrainian drone strike】Rosatom chief Likhachov said on the 15th that Zaporizhzhia nuclear plant chief engineer Alexander Yakovlev was killed that morning in a drone attack by Ukrainian armed forces. Ukraine has not yet commented."
+    },
+    {
+      "id": "mkt:019f66f3-cc55-7aab-8dae-43691362b101",
+      "time": "2026-07-16 02:04:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK preparing import-export ban targeting Israeli illegal settlements】UK Trade Minister Chris Bryant confirmed on the 15th that the government is preparing to draft an import-export ban targeting Israeli illegal settlements."
+    },
+    {
+      "id": "mkt:019f66f3-cac0-7aab-8dae-3cdcb2919ae5",
+      "time": "2026-07-16 02:04:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Beige Book: Respondents generally expect the U.S. economy to continue expanding in the coming months, but multiple Fed districts noted elevated uncertainty about the fuel-cost outlook."
+    },
+    {
+      "id": "mkt:019f66f3-c97e-7aab-8dae-3616645f91d9",
+      "time": "2026-07-16 02:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Beige: Overall prices rose modestly; nine Fed districts reported moderate price increases, two reported strong increases and one reported a slight increase. Price growth in all districts was the same or slower versus the prior reporting period."
+    },
+    {
+      "id": "4990574",
+      "time": "2026-07-16 02:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國擬對以色列非法定居點實施進出口貿易禁令】英國商業和貿易部貿易國務大臣克里斯·布賴恩特15日證實，英國政府正著手製定一項針對以色列非法定居點的進出口貿易禁令。（新華社）"
+    },
+    {
+      "id": "mkt:019f66f3-c91f-7aab-8dae-28730e96736d",
+      "time": "2026-07-16 02:04:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's Beige: From late May through June, 11 of 12 Fed districts reported economic activity expanding at a slight-to-moderate pace; one district reported no change."
+    },
+    {
+      "id": "mkt:019f66f3-8b0b-7aab-8dae-21826d7873c7",
+      "time": "2026-07-16 02:04:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FED'S BEIGE: Employment rose on balance; five Fed districts reported gains described as moderate, modest or robust, while seven districts reported little or no change."
+    },
     {
       "id": "4990573",
       "time": "2026-07-16 02:01:59",
@@ -9,6 +92,15 @@
         "其他"
       ],
       "text": "巴西官員：目前我們已更明確預判，今年下半年將出現強度更高的厄爾尼諾現象，該因素已納入通脹修正測算考量。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607163807904070",
+      "time": "2026-07-16 02:01:08",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲褐皮書顯示 5月底至6月期間 美聯儲12個轄區中有11個地區經濟活動以輕微至溫和速度增長】美聯儲褐皮書顯示，5月底至6月期間，美聯儲12個轄區中有11個地區經濟活動以輕微至溫和速度增長，另一個地區報告經濟活動沒有變化。就業總體上有所上升，五個地區的就業增長適度、溫和或穩健，而七個地區的變化很小或沒有變化。受訪企業普遍預計未來數月經濟將持續擴張，但多個轄區指出燃油成本前景存在較高不確定性。"
     },
     {
       "id": "4990572",

@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-16 02:03:50",
-  "count": 18622,
+  "updated": "2026-07-16 02:07:48",
+  "count": 18614,
   "items": [
+    {
+      "id": "4990575",
+      "time": "2026-07-16 02:04:53",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團：6 月末信用卡逾期率為 1.30%。"
+    },
+    {
+      "id": "mkt:019f66f3-dfa2-7aab-8dae-4922ae37a227",
+      "time": "2026-07-16 02:04:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Russia says Zaporizhzhia nuclear plant chief engineer killed in Ukrainian drone strike】Rosatom chief Likhachov said on the 15th that Zaporizhzhia nuclear plant chief engineer Alexander Yakovlev was killed that morning in a drone attack by Ukrainian armed forces. Ukraine has not yet commented."
+    },
+    {
+      "id": "mkt:019f66f3-cc55-7aab-8dae-43691362b101",
+      "time": "2026-07-16 02:04:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【UK preparing import-export ban targeting Israeli illegal settlements】UK Trade Minister Chris Bryant confirmed on the 15th that the government is preparing to draft an import-export ban targeting Israeli illegal settlements."
+    },
+    {
+      "id": "mkt:019f66f3-cac0-7aab-8dae-3cdcb2919ae5",
+      "time": "2026-07-16 02:04:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Beige Book: Respondents generally expect the U.S. economy to continue expanding in the coming months, but multiple Fed districts noted elevated uncertainty about the fuel-cost outlook."
+    },
+    {
+      "id": "mkt:019f66f3-c97e-7aab-8dae-3616645f91d9",
+      "time": "2026-07-16 02:04:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed's Beige: Overall prices rose modestly; nine Fed districts reported moderate price increases, two reported strong increases and one reported a slight increase. Price growth in all districts was the same or slower versus the prior reporting period."
+    },
+    {
+      "id": "4990574",
+      "time": "2026-07-16 02:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國擬對以色列非法定居點實施進出口貿易禁令】英國商業和貿易部貿易國務大臣克里斯·布賴恩特15日證實，英國政府正著手製定一項針對以色列非法定居點的進出口貿易禁令。（新華社）"
+    },
+    {
+      "id": "mkt:019f66f3-c91f-7aab-8dae-28730e96736d",
+      "time": "2026-07-16 02:04:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's Beige: From late May through June, 11 of 12 Fed districts reported economic activity expanding at a slight-to-moderate pace; one district reported no change."
+    },
+    {
+      "id": "mkt:019f66f3-8b0b-7aab-8dae-21826d7873c7",
+      "time": "2026-07-16 02:04:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FED'S BEIGE: Employment rose on balance; five Fed districts reported gains described as moderate, modest or robust, while seven districts reported little or no change."
+    },
     {
       "id": "4990573",
       "time": "2026-07-16 02:01:59",
@@ -9,6 +92,15 @@
         "其他"
       ],
       "text": "巴西官員：目前我們已更明確預判，今年下半年將出現強度更高的厄爾尼諾現象，該因素已納入通脹修正測算考量。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607163807904070",
+      "time": "2026-07-16 02:01:08",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲褐皮書顯示 5月底至6月期間 美聯儲12個轄區中有11個地區經濟活動以輕微至溫和速度增長】美聯儲褐皮書顯示，5月底至6月期間，美聯儲12個轄區中有11個地區經濟活動以輕微至溫和速度增長，另一個地區報告經濟活動沒有變化。就業總體上有所上升，五個地區的就業增長適度、溫和或穩健，而七個地區的變化很小或沒有變化。受訪企業普遍預計未來數月經濟將持續擴張，但多個轄區指出燃油成本前景存在較高不確定性。"
     },
     {
       "id": "4990572",
@@ -171251,216 +171343,6 @@
         "其他"
       ],
       "text": "土耳其總統埃爾多安：（與美方）合作範圍可能涵蓋護衛艦、潛艇與輕型護衛艦。"
-    },
-    {
-      "id": "4977504",
-      "time": "2026-07-09 02:07:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：已與特朗普討論包括造船在內的國防工業聯合舉措。"
-    },
-    {
-      "id": "mkt:019f42e8-ad68-7aab-8cfc-09d60d6ae328",
-      "time": "2026-07-09 02:06:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Spot gold was little changed after the Federal Reserve minutes were released."
-    },
-    {
-      "id": "mkt:019f42e8-107e-7aab-8cfc-01400b7dfa2b",
-      "time": "2026-07-09 02:05:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "Fed minutes: officials were divided on whether policy rates are likely to be higher or lower by year-end."
-    },
-    {
-      "id": "mkt:019f42e7-df6e-7aab-8cfb-ff94b1a0483b",
-      "time": "2026-07-09 02:05:19",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Federal Reserve minutes showed several officials judged the policy stance was no longer restrictive."
-    },
-    {
-      "id": "mkt:019f42e7-ada6-7aab-8cfb-f56b0f4907cf",
-      "time": "2026-07-09 02:05:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Fed minutes: several officials said cooling inflation could allow rates to be held steady or cut."
-    },
-    {
-      "id": "4977503",
-      "time": "2026-07-09 02:04:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：官員們認為勞動力市場短期內將保持穩定。"
-    },
-    {
-      "id": "mkt:019f42e6-f5e2-7aab-8cfb-e8b2857e9769",
-      "time": "2026-07-09 02:04:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed minutes: FOMC members agreed the statement should convey commitment to the Fed's dual mandate and emphasize the Committee will achieve price stability."
-    },
-    {
-      "id": "4977502",
-      "time": "2026-07-09 02:04:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率也縮減漲幅，最新上漲5.41個基點，報4.216%。"
-    },
-    {
-      "id": "4977501",
-      "time": "2026-07-09 02:04:15",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲會議紀要公佈後，美國國債收益率漲幅略有收窄；10年期國債收益率最新上漲4.41個基點，報4.573%。"
-    },
-    {
-      "id": "mkt:019f42e6-e316-7aab-8cfb-e706b60cdcd3",
-      "time": "2026-07-09 02:04:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed meeting minutes: some officials said policy was slightly restrictive."
-    },
-    {
-      "id": "mkt:019f42e6-e1bd-7aab-8cfb-dadff698f40d",
-      "time": "2026-07-09 02:04:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve minutes: some participants welcomed an assessment of communication tools and practices."
-    },
-    {
-      "id": "mkt:019f42e6-e086-7aab-8cfb-d24c5d3e29b4",
-      "time": "2026-07-09 02:04:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed minutes: \"Most\" meeting participants favored removing the Fed's \"accommodative\" bias language from the statement."
-    },
-    {
-      "id": "mkt:019f42e6-e05d-7aab-8cfb-c9525b18d0f9",
-      "time": "2026-07-09 02:04:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed minutes said officials discussed public views on shortening the Fed's post-meeting statement."
-    },
-    {
-      "id": "mkt:019f42e6-dca6-7aab-8cfb-c0a357d93e8a",
-      "time": "2026-07-09 02:04:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "FOMC minutes: Fed staff's GDP growth outlook is slightly below their April projection."
-    },
-    {
-      "id": "mkt:019f42e6-d013-7aab-8cfb-bab2eb36ccd9",
-      "time": "2026-07-09 02:04:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve minutes said participants broadly viewed upside risks to price stability as elevated, while downside risks to the Fed's maximum-employment goal had diminished."
-    },
-    {
-      "id": "mkt:019f42e6-cffc-7aab-8cfb-b7f690be65ea",
-      "time": "2026-07-09 02:04:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve minutes: all participants supported leaving the current federal funds rate target range unchanged. Several participants said further rate increases could be necessary, but they supported holding policy at this meeting."
-    },
-    {
-      "id": "4977500",
-      "time": "2026-07-09 02:03:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧正式向國會通報了敘利亞局勢，已通知國會解除對敘利亞的制裁。"
     }
   ]
 }
