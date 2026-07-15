@@ -1,7 +1,33 @@
 {
   "date": "2026-07-16",
-  "count": 372,
+  "count": 375,
   "items": [
+    {
+      "id": "4990731",
+      "time": "2026-07-16 04:29:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉地震死亡人數升至4829人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯15日在社交媒體發文說，該國6月24日發生的兩次強震已造成4829人死亡、16740人受傷。委官方最新統計資料顯示，自強震發生以來，已記錄到1284次餘震。（新華社）"
+    },
+    {
+      "id": "4990730",
+      "time": "2026-07-16 04:28:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數15日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.43%，在匯市尾市收於100.49。 截至紐約匯市尾市，1歐元兌換1.15美元，高於前一交易日的1.14美元；1英鎊兌換1.35美元，高於前一交易日的1.34美元。 1美元兌換162.05日元，低於前一交易日的162.2日元；1美元兌換0.8047瑞士法郎，低於前一交易日的0.8092瑞士法郎；1美元兌換1.4加元，低於前一交易日的1.41加元；1美元兌換9.59瑞典克朗，低於前一交易日的9.66瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f6776-aed1-7aab-8db0-5ac6b8b4c2a1",
+      "time": "2026-07-16 04:27:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Treasury Secretary Bessent chairs FSOC meeting on geopolitical risk and AI】Treasury Secretary Bessent on the 15th chaired an internal meeting of the Financial Stability Oversight Council. The council was briefed on a Treasury‑led interagency geopolitical‑risk tabletop exercise aimed at advancing economic‑security preparedness, and received updates from its AI working group and on four public‑private roundtables under an AI Innovation Series co‑hosted by the council and Treasury. Members reviewed the quarterly Financial Stability Monitoring Report — which discussed supply‑chain risks, AI’s potential impacts on labor and capital markets, and cyber security — heard planning for the 2026 annual report, and voted to approve minutes from the May 6 meeting."
+    },
     {
       "id": "te:markets:567313",
       "time": "2026-07-16 04:26:11",
