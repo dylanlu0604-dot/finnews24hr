@@ -1,7 +1,193 @@
 {
   "date": "2026-07-15",
-  "count": 3084,
+  "count": 3103,
   "items": [
+    {
+      "id": "4990105",
+      "time": "2026-07-15 21:13:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "強生高管在電話會議上表示，手術量保持穩定，且“我們未發現需求出現大範圍放緩的跡象”。"
+    },
+    {
+      "id": "mkt:019f65e9-2d64-7aab-8da4-558962f4600e",
+      "time": "2026-07-15 21:13:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【ByteDance and ZTE's Nubia to launch multiple Doubao AI phone models this year】ByteDance, in partnership with ZTE’s Nubia, will release multiple models of its first Doubao AI agent smartphone this year; one model will debut at the 2026 World Artificial Intelligence Conference, with total planned inventory around 200,000 units and an initial shipment under 100,000 units."
+    },
+    {
+      "id": "mkt:019f65e9-2cb0-7aab-8da4-4912d1a5024e",
+      "time": "2026-07-15 21:13:27",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "WILLIAMS said he expects Fed policy rates to decline once disinflation brings inflation to 2%, returning rates to more normal levels."
+    },
+    {
+      "id": "4990104",
+      "time": "2026-07-15 21:13:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：當通脹回落至2%目標水平時，我預計利率將有所下調，迴歸更正常的水平。"
+    },
+    {
+      "id": "4990103",
+      "time": "2026-07-15 21:13:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【豆包AI手機今年將釋出多款機型】7月15日，位元組跳動聯合中興努比亞打造的首款 AI 智慧體手機（ “豆包 AI 智慧體手機”）今年將有多款機型釋出，其中一款將於 2026 世界人工智慧大會期間亮相，其整體備貨約20萬臺，首批備貨10萬臺以內。介面新聞就此訊息向中興求證，截至發稿中興方面暫無回應。此前，第一代豆包手機（即努比亞 M153 技術預覽版）於2025年12月1日釋出，其核心定位是“工程樣機”，因此在備貨量上極為剋制，且售罄後不再追加生產，首批產品約3萬臺的備貨且並未追加物料投入，二手市場豆包手機價格一度被炒高，最高售價達7999元，遠超官方3499元。供應鏈人士告訴介面新聞，本代產品最初備貨遠超前代，部分備件的規模超過百萬，由於上游元器件成本的上漲，經歷過多次調整，由原先的30萬調整至20萬臺左右。"
+    },
+    {
+      "id": "mkt:019f65e8-b254-7aab-8da4-473771483d20",
+      "time": "2026-07-15 21:12:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "The Fed (FOMC)",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed official Williams said mortgage rates are closely tied to the 10-year Treasury yield, which has risen on expectations of stronger U.S. economic growth."
+    },
+    {
+      "id": "4990102",
+      "time": "2026-07-15 21:12:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥首席財務官：訂單積壓規模持續增長。"
+    },
+    {
+      "id": "4990101",
+      "time": "2026-07-15 21:12:43",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯表示：抵押貸款利率與10年期美國國債收益率高度繫結，後者受美國經濟強勁增長預期推動上行。"
+    },
+    {
+      "id": "te:markets:567230",
+      "time": "2026-07-15 21:12:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Cuts Losses — The DAX 40 pared initial losses to trade slightly down around 25,015 on Wednesday, as investors assessed corporate earnings alongside escalating tensions in the Middle East. Oil prices remained elevated following renewed US strikes against Iran and the reimposition of a blockade on its ports. Meanwhile, President Trump issued a fresh ultimatum to Iran, warning that Washington would expand its military strikes to the country's critical infrastructure unless Tehran reaches an agreement by next week. Most sectors witnessed selling pressure, particularly chemical companies and techs. BASF (-4.7%) moved to the bottom of the index despite strong preliminary results as unchanged guidance for free cash flow disappointed and raised concerns over profitability. In parallel, strong results from ASML Holding only partially helped the German semiconductor industry. Infineon Technologies dropped 3.2% and Siltronic slipped 4.7%, while Jenoptik and LPKF advanced 2.1% and 4.7%, respectively."
+    },
+    {
+      "id": "4990100",
+      "time": "2026-07-15 21:11:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥首席財務官：我們預計2026年將交付約130臺深紫外（DUV）光刻系統。"
+    },
+    {
+      "id": "4990099",
+      "time": "2026-07-15 21:11:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【道通科技：擬1億-2億元回購股份用於員工激勵】道通科技公告稱，公司擬以集中競價交易方式回購股份，金額不低於1億元、不超過2億元，回購價格不超39.99元/股，預計回購250.0625萬股-500.1250萬股，佔總股本0.37%-0.75%，資金源於自有資金，用於員工持股計劃或股權激勵。回購期限自董事會審議透過起12個月內。公司董高、控股股東等未來3個月、6個月暫無減持計劃。本次回購存在價格、資金、決策等方面風險。"
+    },
+    {
+      "id": "4990098",
+      "time": "2026-07-15 21:11:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥首席財務官：這意味著我們的極紫外光刻機業務將增長約45%。"
+    },
+    {
+      "id": "mkt:019f65e7-0b91-7aab-8da4-3e1e4875d6da",
+      "time": "2026-07-15 21:11:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Morgan Stanley CEO: AI capital expenditure could reach $10 trillion over the next several years."
+    },
+    {
+      "id": "4990097",
+      "time": "2026-07-15 21:11:08",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長稱，多年內人工智慧資本開支規模或達 10 萬億美元。"
+    },
+    {
+      "id": "4990096",
+      "time": "2026-07-15 21:10:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥首席財務官：我們預計2026年將交付約65臺低數值孔徑極紫外光刻機。"
+    },
+    {
+      "id": "4990095",
+      "time": "2026-07-15 21:10:37",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "印度市場監管機構：根據印度證券交易委員會禁止內幕交易的規定，高階領導層將被視為內幕人士。"
+    },
+    {
+      "id": "4990094",
+      "time": "2026-07-15 21:10:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：今年先進代工邏輯業務營收將增長約25%。"
+    },
+    {
+      "id": "mkt:019f65e6-0df4-7aab-8da4-331b02583ddf",
+      "time": "2026-07-15 21:10:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML (ASML.O) CEO said advanced logic foundry revenue is expected to increase about 25% this year."
+    },
+    {
+      "id": "4990093",
+      "time": "2026-07-15 21:09:47",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長表示，人工智慧相關資本支出預計將持續上升。"
+    },
     {
       "id": "mkt:019f65e5-43d3-7aab-8da4-2f1863f6e0ea",
       "time": "2026-07-15 21:09:11",
