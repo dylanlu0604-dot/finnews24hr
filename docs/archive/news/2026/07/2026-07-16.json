@@ -1,7 +1,93 @@
 {
   "date": "2026-07-16",
-  "count": 562,
+  "count": 572,
   "items": [
+    {
+      "id": "te:markets:567326",
+      "time": "2026-07-16 07:32:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Climbs as US Intensifies Strikes on Iran — Crude oil climbed above $80 per barrel on Thursday, extending gains for a fourth consecutive session as the US stepped up its military campaign against Iran in an effort to safeguard shipping through the Strait of Hormuz. US forces carried out fresh airstrikes on Wednesday, targeting Iranian missile storage facilities and launch sites near the strategic waterway. Reports also indicated that President Donald Trump is leaning toward broadening US military operations and has discussed the possible seizure of Kharg Island, Iran’s primary oil export terminal. The escalating conflict lifted oil prices to a one-month high and revived concerns over potential supply disruptions in the Middle East, reversing roughly a third of the second-quarter decline that followed the interim peace agreement, which had improved the supply outlook. Meanwhile, continued Ukrainian attacks on Russian fuel production facilities and oil tankers added to worries over tightening global supplies."
+    },
+    {
+      "id": "4990886",
+      "time": "2026-07-16 07:32:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌920點，報67875點。"
+    },
+    {
+      "id": "4990885",
+      "time": "2026-07-16 07:32:10",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：新車週期帶動乘用車修復，重視商用車板塊低位配置機會】中信建投研報指出，乘用車板塊有所反彈，機器人經歷了大幅的波動，除了資金面“高低切”等流動性因素變化外，更多還是預期變化。6月乘用車主機廠產銷資料（尤其出口）和新車週期修復悲觀預期；特斯拉人形機器人Optimus弗裡蒙特產線臨近量產、宇樹IPO註冊獲證監會同意，7-8月成為產業催化及趨勢驗證的做多視窗期；商用車出口銷量穩健，業績有望兌現。全年依然看好汽車高階化和出海行情。同時，機器人及智駕板塊底部alpha標的具備高價效比，中期產業趨勢有望持續兌現。"
+    },
+    {
+      "id": "4990884",
+      "time": "2026-07-16 07:32:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【大曉機器人：未來一年落地1000家零售門店】具身大腦企業正加速轉向B端市場規模化落地。“去年，大家（部分具身大腦企業）對進入具體場景還比較猶豫，但今年，完成可複製、規模化落地驗證變得非常重要。一旦抓住這樣的場景，就可以採集大量資料，同時帶動硬體本體上量。”7月15日，商湯聯合創始人、執行董事、大曉機器人董事長王曉剛在接受採訪時稱。王曉剛透露，大曉機器人正選擇從零售、倉儲和酒店等相對標準化的B端場景落地，預計接下來一年內完成1000家零售場景規模化落地，未來兩年內拓展鋪設1萬家量級。他預計，一些需求明確、流程相對固定、可複製性較強的垂直場景，在未來一到兩年左右即可達到可盈利狀態。（澎湃）"
+    },
+    {
+      "id": "4990883",
+      "time": "2026-07-16 07:31:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【禮來公司即將達成收購迷幻藥物製造商AtaiBeckley的協議】據媒體援引知情人士報道，禮來公司正就收購迷幻藥物製造商AtaiBeckley（ATAI.O）進行談判，交易最早可能於本週宣佈。AtaiBeckley股價在盤後交易中飆升66%，而禮來股價持平。資料顯示，AtaiBeckley今年迄今累計上漲31%，截至週三收盤時市值為19.7億美元。報道稱，禮來正在以溢價進行談判。"
+    },
+    {
+      "id": "4990882",
+      "time": "2026-07-16 07:30:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【資金逆勢佈局 科技主題與寬基ETF同獲加倉】市場震盪調整過程中，資金正持續借道ETF逆勢佈局。Wind資料顯示，7月14日，多隻ETF獲資金淨流入，其中半導體、人工智慧等科技主題ETF最受青睞，同時，滬深300、中證500、中證1000等寬基ETF也吸引大量資金流入。從近一週資金流向來看，科技主題與寬基ETF依然是資金佈局的主要方向。業內人士認為，當前部分優質資產調整更多是受到流動性因素的影響，而非基本面惡化。從長期視角來看，無論是價值板塊還是科技成長方向，均具備值得關注的配置機會。"
+    },
+    {
+      "id": "4990881",
+      "time": "2026-07-16 07:30:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜雲科技計算和機器學習服務高階副總裁將離職】亞馬遜雲科技CEO馬特·加爾曼（Matt Garman）當地時間7月15日釋出全員信，確認在公司工作近19年的計算與機器學習服務高階副總裁戴夫·布朗（Dave Brown）將離職。宣告稱，亞馬遜電子商務基金會（eCF）高階副總裁Dave Treadwell將於當地時間8月1日正式加入亞馬遜雲科技，領導計算與機器學習服務團隊。"
+    },
+    {
+      "id": "4990880",
+      "time": "2026-07-16 07:30:11",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信建投：繼續關注半導體材料進口替代交易】中信建投研報指出，當前AI通脹來到了材料端，而材料環節的標的更加分散，而且多數強勢公司在日本，2025年下半年以來雙邊關係的緊張更有加速跡象。供給端進口替代，需求端AI通脹成為幾乎完美的組合。中信建投判斷，對日本進口替代主題會有更多演繹空間，繼續關注半導體材料進口替代交易，關注國內半導體材料企業加速進口替代的認證節奏以及投資機會。"
+    },
+    {
+      "id": "4990879",
+      "time": "2026-07-16 07:29:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【公募佈局創新藥上游剛需方向 創新藥板塊有望迎來業績估值雙提升】在創新藥領域，醫藥基金經理正在複製新能源汽車行業佈局車載晶片、規避投資整車的經驗。近期，實驗猴、實驗鼠兩大實驗動物相關板塊行情持續升溫，公募基金開始抱團重倉甚至舉牌佈局這些板塊，尤其是上游研發服務企業憑藉剛性需求和現金流優勢，正成為醫藥基金經理眼中的確定性方向。同時，醫藥基金經理透過佈局這些方向，也能規避創新藥公司常面臨的巨大投入和藥物研發失敗風險。多位基金經理強調，臨床資料正成為檢驗創新藥管線價值的硬標準，板塊有望迎來業績、估值雙提升的新階段。"
+    },
+    {
+      "id": "4990878",
+      "time": "2026-07-16 07:29:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人民日報：堅定信心、接續奮鬥，做好下半年經濟工作】上半年中國經濟的表現，進一步堅定了完成全年發展目標任務的信心。信心，源自經濟大盤的堅實穩固。在地緣政治衝突、國際能源短缺等多重衝擊下，中國經濟穩健發展，呈現出不少結構性亮點。總體看，“穩”的態勢沒有變，“進”的基礎更鞏固。信心，源自宏觀政策的有力有效。消費品以舊換新政策最佳化實施響應消費升級需求，“六張網”建設為數智化轉型奠定基礎……推動宏觀政策發力顯效，發展潛力還將持續釋放。堅定信心，是為了接續奮鬥。做好下半年經濟工作十分重要，我們要堅決貫徹落實黨中央決策部署，切實鞏固拓展經濟穩中向好態勢。一方面，加快發展新質生產力，夯實現代化產業體系這個戰略依託。另一方面，採取系統有效的政策舉措，進一步穩投資、擴消費、啟用力、暢迴圈，持續增強經濟發展內生動力。以自身發展的確定性應對各種不確定性，下半年中國經濟必將延續上半年的穩健表現，順利實現“十五五”良好開局。"
+    },
     {
       "id": "4990877",
       "time": "2026-07-16 07:29:13",
