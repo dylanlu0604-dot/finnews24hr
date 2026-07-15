@@ -1,7 +1,87 @@
 {
   "date": "2026-07-15",
-  "count": 3336,
+  "count": 3345,
   "items": [
+    {
+      "id": "mkt:019f6620-205c-7aab-8da6-64c06081e8f4",
+      "time": "2026-07-15 22:13:29",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Bank of England policymaker Haskel said he believes the pandemic's impact on the UK labour market is more severe than the Bank of England assesses."
+    },
+    {
+      "id": "4990264",
+      "time": "2026-07-15 22:13:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示： 如果以色列撤出黎巴嫩部分地區以及敘利亞南部，會是件好事。 艾哈邁德有意進軍“清剿”真主黨，我正考慮批准他採取行動。"
+    },
+    {
+      "id": "mkt:019f6620-03d4-7aab-8da6-5df65bc13508",
+      "time": "2026-07-15 22:13:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's president Zelenskiy said preparing for the next heating season is the country's top priority."
+    },
+    {
+      "id": "mkt:019f661f-d9c7-7aab-8da6-53fd7d802f97",
+      "time": "2026-07-15 22:13:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fitch affirmed the rating of a Saudi energy company at A+, with a stable outlook."
+    },
+    {
+      "id": "4990262",
+      "time": "2026-07-15 22:12:12",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【Anthropic 聯合多家機構推出 AI 服務公司 Ode】Anthropic、黑石集團與赫爾曼・Hellman & Friedman正式聯合推出獨立企業人工智慧服務公司 Ode with Anthropic。該公司依託今年 5 月收購的 Fractional AI 搭建而成。Ode 為獨立運營企業。Ode 整合了 Anthropic 前沿人工智慧大模型、資深人工智慧工程師與運營管理團隊，同時獲得多家投資機構組成的財團資金支援。投資財團成員包括高盛集團、泛大西洋投資集團、倫納德格林合夥公司、阿波羅全球管理、新加坡政府投資公司（GIC）以及紅杉資本。Ode 由 Fractional AI 聯合創始人克里斯・泰勒出任執行長，埃迪・西格爾擔任技術長。Ode 正大規模招聘工程師、產品負責人及運營管理人員，擴充企業級人工智慧落地服務能力。"
+    },
+    {
+      "id": "4990261",
+      "time": "2026-07-15 22:10:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽擬對日產汽車租賃信託 2026-B 進行評級，併發布預售評級報告。"
+    },
+    {
+      "id": "mkt:019f661c-e565-7aab-8da6-4a241f06b884",
+      "time": "2026-07-15 22:09:57",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix ADR (SKHY.O) pares losses to 3%."
+    },
+    {
+      "id": "mkt:019f661c-c098-7aab-8da6-460d36527fed",
+      "time": "2026-07-15 22:09:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CAAC: Real-name registered drones exceed 4.788 mln in 1H】The Civil Aviation Administration of China said 1H industry transport turnover reached 83.37 bln tkm, passenger traffic 380.0 mln and cargo/mail 5.073 mln tonnes, up 6.4%, 1.0% and 6.0% YoY respectively. Operations totaled 7.146 mln flight hours and 2.683 mln flights; the human-caused incident rate per 10,000 flight hours fell 20.6% YoY. Flight punctuality was 93.5%; at airports with annual throughput ≥10 mln passengers, bridge-docking rate was 87.5%. Real-name registered drones surpassed 4.788 mln, with cumulative drone flight hours of 26.414 mln (up 8% YoY)."
+    },
+    {
+      "id": "4990260",
+      "time": "2026-07-15 22:09:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "Lucid Group股價上漲17.4%，此前一個交易日該股大跌近16%。。"
+    },
     {
       "id": "4990259",
       "time": "2026-07-15 22:09:22",
