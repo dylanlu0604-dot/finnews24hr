@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-16 06:04:48",
-  "count": 18621,
+  "updated": "2026-07-16 06:08:45",
+  "count": 18625,
   "items": [
+    {
+      "id": "mkt:019f67d2-7258-7aab-8db1-108311a6e07b",
+      "time": "2026-07-16 06:07:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian state media reported two explosions were heard east of the Port of Hormuz in southern Iran."
+    },
+    {
+      "id": "4990807",
+      "time": "2026-07-16 06:07:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗南部阿巴斯港以東聽到兩聲爆炸。"
+    },
+    {
+      "id": "mkt:019f67d2-19bb-7aab-8db1-085234354eb1",
+      "time": "2026-07-16 06:07:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US weekly soybean export sales may signal upbeat shift】USDA's weekly export sales report due this week could show soybean shipments of up to 2.0 mln tonnes following a wave of Chinese buying, the Wall Street Journal's poll of analysts found. That would be well above recent weekly sales of roughly 300k tonnes and would mark the largest weekly total in several weeks."
+    },
+    {
+      "id": "4990806",
+      "time": "2026-07-16 06:06:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國職業棒球紐約洋基隊，正與阿波羅全球管理公司展開深度洽談，計劃融資約30億美元。"
+    },
+    {
+      "id": "4990805",
+      "time": "2026-07-16 06:04:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率近90%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為88.8%，累計加息25個基點的機率為11.2%。 美聯儲到9月維持利率不變的機率為51.2%，累計加息25個基點的機率為44%，累計加息50個基點的機率為4.7%。"
+    },
     {
       "id": "4990804",
       "time": "2026-07-16 06:02:25",
@@ -171258,15 +171303,6 @@
         "其他"
       ],
       "text": "據日經新聞：東京電子將把半導體裝置交付週期縮短一半。"
-    },
-    {
-      "id": "4977652",
-      "time": "2026-07-09 06:07:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國 10 年期國債期貨下跌 3 個基點，聯邦基金期貨顯示市場預期至 12 月累計加息 38 個基點。"
     }
   ]
 }
