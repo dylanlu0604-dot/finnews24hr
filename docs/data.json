@@ -1,7 +1,138 @@
 {
-  "updated": "2026-07-15 21:20:26",
-  "count": 18662,
+  "updated": "2026-07-15 21:24:33",
+  "count": 18666,
   "items": [
+    {
+      "id": "4990128",
+      "time": "2026-07-15 21:23:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金宏氣體：2026年上半年營收預增 淨利潤預降】金宏氣體公告稱，預計2026年半年度營收14.58億元至14.73億元，同比增加11.00%至12.12%；歸母淨利潤6237.87萬元至7458.33萬元，同比減少9.27%至24.11%；扣非淨利潤1534.37萬元至1834.57萬元，同比減少72.71%至77.18%。營收增長得益於氦氣業務及電子大宗載氣專案；扣非淨利潤下滑是因專案折舊費用增加，淨利潤下滑幅度小是因資產處置損益使非經常性損益同比增加。"
+    },
+    {
+      "id": "4990127",
+      "time": "2026-07-15 21:23:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國預算責任辦公室提名候選人哈斯克爾：英國財政狀況並不樂觀。"
+    },
+    {
+      "id": "4990126",
+      "time": "2026-07-15 21:23:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥首席財務官：2027年極紫外光刻機產能將提升30%，增幅基於客戶需求及供應鏈產能確定。"
+    },
+    {
+      "id": "mkt:019f65f2-12f5-7aab-8da4-b6bbd299b5fc",
+      "time": "2026-07-15 21:23:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Bank of England policymaker Haskel said the UK's fiscal position is not in good shape."
+    },
+    {
+      "id": "te:markets:567234",
+      "time": "2026-07-15 21:22:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies After PPI Surprise — Silver hovered around $58.50 per ounce on Wednesday, trimming earlier losses but remaining near its weakest level since December 2025 as investors balanced softer-than-expected US inflation data against escalating Middle East tensions. US producer prices unexpectedly fell in June for the first time in nearly a year, driven by lower energy costs, while core PPI rose just 0.2%, below forecasts. The report followed weaker-than-expected consumer inflation data released on Tuesday, prompting markets to pare expectations for further Federal Reserve tightening. Still, traders continue to price in about a 49% chance of a September Fed rate hike as oil prices climbed to a one-month high after the US continued strikes on Iran, reimposed a naval blockade of Iranian ports, and Tehran closed the Strait of Hormuz. Fed Chair Kevin Warsh also reiterated on Tuesday that the central bank has \"no tolerance\" for persistently elevated inflation."
+    },
+    {
+      "id": "mkt:019f65f1-10b5-7aab-8da4-adf015bf19ba",
+      "time": "2026-07-15 21:22:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【UBS: UK government bond yield rise driven by global, not domestic, factors】UBS global research strategists said in a report the recent rise in UK government bond yields has been driven mainly by higher oil prices rather than UK-specific factors. They said yield spreads between UK, US and German bonds remain within a manageable range, indicating geopolitical concerns are the primary driver of the move."
+    },
+    {
+      "id": "mkt:019f65f0-f195-7aab-8da4-a3d423a725c7",
+      "time": "2026-07-15 21:21:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "CENTCOM said since restarting a maritime blockade of Iranian ports 17 hours ago, U.S. forces have intercepted two merchant vessels attempting to breach the blockade. The U.S. military said it remains vigilant and prepared to ensure full compliance."
+    },
+    {
+      "id": "4990124",
+      "time": "2026-07-15 21:21:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍已調派兩艘艦艇參與封鎖行動。"
+    },
+    {
+      "id": "4990123",
+      "time": "2026-07-15 21:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱俄羅斯已準備好達成協議以結束俄烏衝突】美國總統特朗普在接受採訪時表示，他認為俄羅斯已準備好很快達成協議，以結束俄烏衝突。特朗普在採訪中表示，他認為俄烏衝突會在其任期內結束，並認為俄羅斯總統普京已準備好儘快達成協議。特朗普說：“我原以為這件事早就該結束了。這本該是最容易解決的，因為我和兩位領導人都相處得不錯。我以為這對我來說會是最容易的事。” (央視新聞)"
+    },
+    {
+      "id": "mkt:019f65ef-e57a-7aab-8da4-9e719a3281b3",
+      "time": "2026-07-15 21:20:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US threat to sanction buyers of Russian oil could complicate US-India trade talks】US threats to sanction countries that buy Russian oil may complicate ongoing US-India trade negotiations, people familiar with the matter said. Sources said India was surprised because purchases of Russian oil had been resolved in talks that produced a preliminary trade deal in February and the issue had not been raised in subsequent rounds. After the US Supreme Court overturned former President Trump’s so-called reciprocal-tariff policy, India has not signed the preliminary agreement. India is seeking more favourable terms than regional rivals before advancing the deal and is unlikely to publicly criticise the new US sanctions bill; sources expect New Delhi to continue engagement and treat current tensions as a transitional phase in bilateral relations."
+    },
+    {
+      "id": "mkt:019f65ef-b964-7aab-8da4-944f369dadb5",
+      "time": "2026-07-15 21:20:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Indian AI startup Emergent valued at $1.5bn after $130m funding】Emergent, an Indian startup that helps SMEs build AI applications, raised $130m in a funding round led by Creaegis, valuing the company at $1.5bn. Claypond and Sentinel Global co-led the round; Khosla Ventures, SoftBank Vision Fund 2, Lightspeed and Y Combinator also participated. Emergent said more than 12 million AI applications have been developed on its platform, making it among a handful of Indian AI firms to reach unicorn status."
+    },
+    {
+      "id": "mkt:019f65ef-50c0-7aab-8da4-8906425a6df6",
+      "time": "2026-07-15 21:20:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Atria brokerage reports many shipowners are avoiding Ukrainian ports; some have begun cancelling charters."
+    },
+    {
+      "id": "4990122",
+      "time": "2026-07-15 21:20:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：十分期待聽取沃什牽頭的資產負債表專項工作組的相關觀點。"
+    },
     {
       "id": "mkt:019f65ee-f110-7aab-8da4-825fffaf3174",
       "time": "2026-07-15 21:19:45",
@@ -111,6 +242,15 @@
       "text": "【極佳視界聯合清華大學釋出具身世界模型GigaWorld-1】7月15日，極佳視界聯合清華大學正式釋出具身世界模型GigaWorld-1，技術報告、模型、資料與Benchmark同步全面開源。"
     },
     {
+      "id": "em:qqyh_mlc:202607153807713674",
+      "time": "2026-07-15 21:16:29",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "紐約聯儲主席威廉姆斯表示，預計利率最終會隨著通脹而下降。"
+    },
+    {
       "id": "4990114",
       "time": "2026-07-15 21:16:25",
       "tags": [
@@ -150,6 +290,14 @@
         "國際"
       ],
       "text": "歐盟與烏克蘭簽署國防工業夥伴關係協議。"
+    },
+    {
+      "id": "4990109",
+      "time": "2026-07-15 21:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾議院共和黨領導層公佈950億美元黨派性預算框架】美國眾議院共和黨領導層週三上午公佈了一份財政框架，涉及一項總額950億美元、由共和黨主導的撥款方案，共和黨領袖希望在今年夏末透過該方案。眾議院預算委員會主席喬迪·阿靈頓已安排於週四上午對該措施進行審議修訂。該措施將啟動“預算和解程式”，從而繞過參議院的“冗長辯論”阻撓，透過一項法案：該法案將撥款730億美元用於軍事和情報領域，120億美元用於農業援助，另有100億美元用於向各州提供選舉撥款及其他旨在推行嚴格選民身份驗證法律的舉措。即便該框架能夠在委員會層面透過——這只是漫長立法程式的第一步——也並非板上釘釘。委員會內的財政鷹派人士希望透過削減其他支出來抵消至少部分新增支出對財政赤字的影響。但這一目標實現的可能性不高，這意味著該方案可能不會獲得相應資金來源支援，從而引發財政鷹派的不滿。"
     },
     {
       "id": "mkt:019f65ea-50ef-7aab-8da4-6327fa5f50bf",
@@ -719,6 +867,14 @@
         "Important"
       ],
       "text": "At the night session open, China's main futures contracts were mixed: butadiene and rubber rose about 2%; styrene and propylene up about 1%. Caustic soda fell more than 1%; PTA, Shanghai tin and Shanghai lead declined around 1%."
+    },
+    {
+      "id": "4990067",
+      "time": "2026-07-15 21:00:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國眾議院預算委員會批准120億美元農業援助。"
     },
     {
       "id": "mkt:019f65dd-2208-7aab-8da3-d7cf863eb031",
@@ -171491,115 +171647,6 @@
         "XAUUSD"
       ],
       "text": "U.S. President Trump said even if an agreement is reached with Iran, he is uncertain it would be durable."
-    },
-    {
-      "id": "4976982",
-      "time": "2026-07-08 21:24:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗核問題：不確定該協議能否維持。"
-    },
-    {
-      "id": "mkt:019f41e6-21cf-7aab-8cf1-12a7c9fa57d6",
-      "time": "2026-07-08 21:23:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he would, if necessary, provide protection for Ukrainian airspace after the conflict ends."
-    },
-    {
-      "id": "4976981",
-      "time": "2026-07-08 21:23:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：北約32個成員國堅定承諾持續對烏克蘭提供支援。"
-    },
-    {
-      "id": "mkt:019f41e5-8521-7aab-8cf1-09c20338e6ba",
-      "time": "2026-07-08 21:23:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran warned it would make an \"immediate response\" to any provocative actions."
-    },
-    {
-      "id": "4976980",
-      "time": "2026-07-08 21:22:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構報告：二季度北京甲級寫字樓淨吸納量創近三年單季新高】高力國際7日釋出的一份報告顯示，隨著科創企業帶動的新增需求持續釋放，2026年二季度，北京甲級寫字樓市場淨吸納量達14.6萬平方米，創近三年單季新高。（上證報）"
-    },
-    {
-      "id": "mkt:019f41e5-151d-7aab-8cf1-007160bbed7d",
-      "time": "2026-07-08 21:22:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said he expects to reach a drone deal with Ukraine."
-    },
-    {
-      "id": "4976979",
-      "time": "2026-07-08 21:22:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面表示，將對各類挑釁行徑作出即時反擊。"
-    },
-    {
-      "id": "mkt:019f41e4-b258-7aab-8cf0-f872cc162c31",
-      "time": "2026-07-08 21:22:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said the U.S. will purchase Ukrainian drones."
-    },
-    {
-      "id": "4976978",
-      "time": "2026-07-08 21:22:02",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【蔡奇出席中國科協第十一次全國代表大會第二次全體會議】7月8日，中國科學技術協會第十一次全國代表大會第二次全體會議在北京人民大會堂舉行。中共中央政治局常委、中央書記處書記蔡奇到會祝賀，代表黨中央作題為《奮力跑好科技強國建設接力賽“關鍵一棒”》的致詞。（新華社）"
-    },
-    {
-      "id": "mkt:019f41e3-a9c1-7aab-8cf0-f0eb69a51d79",
-      "time": "2026-07-08 21:21:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Trump says Iran reneged, warns of possible fresh strikes】At a NATO summit on Wednesday, President Trump said the U.S. had 'dealt a heavy blow' to Iran overnight, warned further strikes could follow that night, and announced the U.S. ceasefire with Iran is over after Iran attacked a merchant vessel near the Strait of Hormuz. He said he remains willing to continue negotiations but accused Iranian leaders of repeatedly agreeing to terms then reneging, called them 'cuckoo,' and said he is considering additional attacks as soon as Wednesday night."
-    },
-    {
-      "id": "mkt:019f41e3-5b56-7aab-8cf0-ed9ceba90c99",
-      "time": "2026-07-08 21:20:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "【CCB International launches integrated FICC service platform in Hong Kong】July 8 — CCB International (Holdings) Limited in Hong Kong unveiled a one-stop FICC platform covering fixed income, currencies and commodities. Services include primary-market origination (bond new issues, certificates of deposit) and secondary-market multi-currency offshore bond trading and market‑making with connectivity to major global trading terminals. The firm says it will offer full-suite customised structured products and publish macro, credit and investment-strategy research. In commodities, leveraging its LME member status, it will provide precious metals and bulk-commodity physical trading and delivery services."
-    },
-    {
-      "id": "4976977",
-      "time": "2026-07-08 21:20:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：烏克蘭需要安全保障。"
     }
   ]
 }
