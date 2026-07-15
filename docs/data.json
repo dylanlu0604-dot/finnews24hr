@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-16 04:00:18",
-  "count": 18615,
+  "updated": "2026-07-16 04:04:16",
+  "count": 18617,
   "items": [
+    {
+      "id": "4990695",
+      "time": "2026-07-16 04:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯合航空：與2025年第二季度相比，第二季度每可用座位英里成本（CASM）上升15.2%，扣除特殊專案後的每可用座位英里成本（CASM-ex）上升6.1%"
+    },
+    {
+      "id": "4990694",
+      "time": "2026-07-16 04:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合航空：預計第三季度將轉嫁80%至90%的燃油價格漲幅，到第四季度將全額轉嫁燃油價格漲幅。"
+    },
+    {
+      "id": "4990693",
+      "time": "2026-07-16 04:02:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國聯合航空公司：作為常規運營安排，預計第四季度運力將低於當前公佈的時刻表，其中原因包括美國聯邦航空管理局（FAA）對奧黑爾國際機場（ORD）的執行管制令延期。"
+    },
+    {
+      "id": "4990692",
+      "time": "2026-07-16 04:02:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "聯合航空公司：自第二季度初以來，已提前償付了約10億美元的高成本債務。"
+    },
+    {
+      "id": "mkt:019f675f-34e0-7aab-8db0-01ff117bd79c",
+      "time": "2026-07-16 04:02:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuelan interim president Rodriguez said deaths from the earthquake in Venezuela have risen to 4,829."
+    },
+    {
+      "id": "mkt:019f675e-d26e-7aab-8daf-fab19de6acd1",
+      "time": "2026-07-16 04:01:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Alibaba",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "SKHY.O",
+        "Impact bearish",
+        "BABA.N"
+      ],
+      "text": "【U.S. close: major indexes modestly higher; SK Hynix down 9%】U.S. stocks closed modestly higher Wednesday: the Dow rose 0.29%, the S&P 500 gained 0.38% and the Nasdaq added 0.60%. Apple (AAPL.O) jumped 4% and ASML (ASML.O) rose 2%; SK Hynix (SKHY.O) slid 9%, SanDisk (SNDK.O) fell 8% and Intel (INTC.O) dropped 4.4%. The Nasdaq Golden Dragon China Index advanced 2.9%, led by Alibaba (BABA.N) up 4.7% and Baidu (BIDU.O) up 1.5%."
+    },
+    {
+      "id": "4990691",
+      "time": "2026-07-16 04:01:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "美聯航第二季度營收為177億美元，市場一致預期（IBES）為176.18億美元；二季度淨利潤為8.05億美元。"
+    },
+    {
+      "id": "4990690",
+      "time": "2026-07-16 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.29%，標普500指數漲0.38%，納指漲0.62%。貝寶漲17.20%，貝萊德漲6.61%，CBRE Group Inc  Class A漲6.24%，美國景順集團漲5.45%，繽客漲4.55%。“七姐妹”方面：蘋果漲4.01%，谷歌漲3.60%，Meta Platforms漲3.07%，亞馬遜漲3.02%，微軟漲2.78%，英偉達漲0.33%，特斯拉跌0.43%。"
+    },
+    {
+      "id": "4990689",
+      "time": "2026-07-16 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲2.91%】新氧漲9.28%，名創優品漲9.28%，海天網路漲8.79%，滿幫漲6.60%，小牛電動漲6.85%。"
+    },
     {
       "id": "mkt:019f675c-72dd-7aab-8daf-f1814c2afc33",
       "time": "2026-07-16 03:58:59",
@@ -171201,85 +171287,6 @@
         "MKT News"
       ],
       "text": "Mehr news agency reports air-defence systems near Bandar Abbas are intercepting \"hostile targets\"."
-    },
-    {
-      "id": "4977583",
-      "time": "2026-07-09 04:04:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社：防空系統正在阿巴斯港周邊攔截 “敵方目標”。"
-    },
-    {
-      "id": "mkt:019f4354-79ed-7aab-8cfe-04f4df886af7",
-      "time": "2026-07-09 04:03:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "US equity close Wednesday July 8: Dow Jones Industrial Average down 577.06 points (-1.09%) at 52,348.09; S&P 500 down 21.17 points (-0.28%) at 7,482.68; Nasdaq Composite up 51.96 points (+0.20%) at 25,870.65."
-    },
-    {
-      "id": "4977582",
-      "time": "2026-07-09 04:03:28",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "以色列財政部長：土耳其構成重大威脅，正推動阻止美國向土耳其出售F-35戰機。絕不能讓埃爾多安獲得能夠改變戰局的先進武器。"
-    },
-    {
-      "id": "mkt:019f4353-c489-7aab-8cfd-fb0d7be1afe9",
-      "time": "2026-07-09 04:03:10",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Israel's finance minister said Turkey poses a major threat and that he is pushing to block US sales of F-35 fighters to Turkey, saying Erdogan must not be allowed to acquire advanced weapons capable of altering the battlefield."
-    },
-    {
-      "id": "4977581",
-      "time": "2026-07-09 04:01:41",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛公司恢復跟蹤億緯鋰能，評級中性，目標價68元人民幣。"
-    },
-    {
-      "id": "mkt:019f4351-e0eb-7aab-8cfd-f03e06e6a898",
-      "time": "2026-07-09 04:01:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "BABA.N",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【U.S. close: major indexes mixed; Nasdaq Golden Dragon China index +2%】U.S. stocks closed Wednesday: Dow Jones Industrial Average down 1.09%, S&P 500 down 0.28%, Nasdaq Composite up 0.20%. Micron Technology (MU.O) +1.0%, NVIDIA (NVDA.O) +3.6%, SanDisk (SNDK.O) +6.7%. Nasdaq Golden Dragon China Index rose 2.05%, with Alibaba (BABA.N) up 11%."
-    },
-    {
-      "id": "4977580",
-      "time": "2026-07-09 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體漲跌不一】道指跌1.09%，標普500指數跌0.28%，納指漲0.19%。Synchrony Financial跌9.63%，Moderna跌7.50%，SW跌6.51%，瑞思邁跌6.33%，阿克邁漲10.69%，Arista Networks漲8.75%，超微電腦漲7.39%。“七姐妹”方面：英偉達漲3.67%，蘋果漲0.86%，亞馬遜跌0.96%，谷歌跌1.32%，微軟跌1.48%，Meta Platforms跌2.04%，特斯拉跌2.22%。"
     }
   ]
 }
