@@ -1,7 +1,116 @@
 {
   "date": "2026-07-15",
-  "count": 1487,
+  "count": 1498,
   "items": [
+    {
+      "id": "mkt:019f6426-e7de-7aab-8d93-cb982a4978c6",
+      "time": "2026-07-15 13:01:39",
+      "tags": [
+        "MKT News",
+        "ASML.AS"
+      ],
+      "text": "ASML reported Q2 net profit of €2.92 bln."
+    },
+    {
+      "id": "mkt:019f6426-bff9-7aab-8d93-c03c26563662",
+      "time": "2026-07-15 13:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML raises its 2026 outlook."
+    },
+    {
+      "id": "4989121",
+      "time": "2026-07-15 13:01:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯麥預計本財年淨銷售額為430億至450億歐元，此前預期為360億至400億歐元。"
+    },
+    {
+      "id": "mkt:019f6426-170d-7aab-8d93-bce18114f39d",
+      "time": "2026-07-15 13:00:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ASML.AS",
+        "Impact bullish"
+      ],
+      "text": "ASML reported Q2 revenue of €9.326 billion, above the IBES estimate of €8.857 billion."
+    },
+    {
+      "id": "4989120",
+      "time": "2026-07-15 13:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "泰國旅遊部：今年迄今泰國入境外國遊客數量同比下降3.09%。"
+    },
+    {
+      "id": "4989119",
+      "time": "2026-07-15 13:00:11",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行管委科赫爾：如有需要，隨時準備出臺貨幣政策行動】歐洲央行（ECB）科赫爾表示：歐洲央行將採取一切必要措施，在中期內將通脹回落至2%的目標水平。如有需要，隨時準備出臺貨幣政策行動。目前未看到第二輪效應。"
+    },
+    {
+      "id": "mkt:019f6425-2705-7aab-8d93-b0cbc1e21997",
+      "time": "2026-07-15 12:59:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Thailand's Ministry of Tourism said foreign visitor arrivals are down 3.09% year-to-date versus a year earlier."
+    },
+    {
+      "id": "mkt:019f6424-f73d-7aab-8d93-af31dee3ae42",
+      "time": "2026-07-15 12:59:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB executive board member Kocher: currently no second-round effects observed."
+    },
+    {
+      "id": "mkt:019f6424-9360-7aab-8d93-a709586815b3",
+      "time": "2026-07-15 12:59:06",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB policymaker Kocher said she stands ready to take monetary policy action at any time if needed."
+    },
+    {
+      "id": "mkt:019f6424-6e8a-7aab-8d93-9ac476750550",
+      "time": "2026-07-15 12:58:56",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB policymaker Kocher said the ECB will take necessary measures to ensure medium-term DISINFLATION to 2%."
+    },
+    {
+      "id": "4989118",
+      "time": "2026-07-15 12:58:42",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行科赫爾：如有需要，隨時準備出臺貨幣政策行動。"
+    },
     {
       "id": "4989116",
       "time": "2026-07-15 12:57:01",
