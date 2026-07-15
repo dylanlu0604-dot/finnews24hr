@@ -1,7 +1,43 @@
 {
   "date": "2026-07-16",
-  "count": 459,
+  "count": 463,
   "items": [
+    {
+      "id": "mkt:019f67d6-3a49-7aab-8db1-18ed1364ee79",
+      "time": "2026-07-16 06:12:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Kyiv struck by ballistic missiles; multiple explosions heard. Ukraine's air force warned more missiles were inbound."
+    },
+    {
+      "id": "4990810",
+      "time": "2026-07-16 06:10:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局因人員短缺，延長達拉斯沃思堡機場地面停飛令。"
+    },
+    {
+      "id": "4990809",
+      "time": "2026-07-16 06:09:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔多處發生爆炸，接連傳出爆炸聲。"
+    },
+    {
+      "id": "4990808",
+      "time": "2026-07-16 06:09:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭首都遭彈道導彈襲擊，烏克蘭空軍預警更多導彈即將來襲。"
+    },
     {
       "id": "mkt:019f67d2-7258-7aab-8db1-108311a6e07b",
       "time": "2026-07-16 06:07:52",
