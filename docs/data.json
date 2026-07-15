@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-16 04:19:56",
+  "updated": "2026-07-16 04:23:53",
   "count": 18626,
   "items": [
+    {
+      "id": "4990723",
+      "time": "2026-07-16 04:23:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空業要求國會再撥款200億美元，以完成空中交通管制現代化專案。"
+    },
+    {
+      "id": "4990722",
+      "time": "2026-07-16 04:21:36",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "特朗普誇讚摩根大通、奎託斯公司的投資佈局。"
+    },
+    {
+      "id": "te:markets:567311",
+      "time": "2026-07-16 04:19:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Mixed Following PPI report — US stock indices closed mixed on Wednesday as the S&P 500 (+0.4%) and the Dow (+150) benefited from soft inflation data, while the Nasdaq 100 shed 0.3% amid a selloff in chipmakers. Both headline and core producer prices rose less than expected in June, reinforcing the soft CPI report released a day earlier and further reducing the likelihood of a Fed rate hike at its upcoming meeting. The data helped offset concerns over higher energy prices stemming from the escalating conflict between the US and Iran. Morgan Stanley gained 0.2% after posting upbeat results, joining JPMorgan (+1.1%) and Goldman Sachs (+1.1%) in delivering strong earnings. BlackRock surged 6.6% following its results, while J&J (-2.7%) fell after reporting earnings. Meanwhile, hyperscalers rallied, with Microsoft (+2.8%), Amazon (+3%), and Alphabet (+3.2%) advancing after strong results from ASML (+2.3%). On the other hand, losses among heavyweight memory chipmakers and SpaceX (-0.6%) weighed on the Nasdaq."
+    },
     {
       "id": "4990721",
       "time": "2026-07-16 04:18:37",
@@ -171332,31 +171362,6 @@
         "觀點"
       ],
       "text": "花旗銀行表示，基準情景下 2026 年第三季度布倫特原油均價維持每桶 75 美元。"
-    },
-    {
-      "id": "4977595",
-      "time": "2026-07-09 04:23:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "AZZ第一季度調整後每股收益1.85美元，預估1.69美元。"
-    },
-    {
-      "id": "mkt:019f4363-6631-7aab-8cfe-5f367b92ae5d",
-      "time": "2026-07-09 04:20:15",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Axios cited a U.S. official saying Wednesday's operation was larger than recent strikes and targeted Iran's Islamic Revolutionary Guard Corps (IRGC) coastal radars, anti-ship missile sites and air-defence systems."
-    },
-    {
-      "id": "4977594",
-      "time": "2026-07-09 04:20:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍連續第二天襲擊伊朗】伊朗時間7月8日深夜，美軍中央司令部稱，美軍開始對伊朗實施更多打擊。 (CCTV國際時訊)"
     }
   ]
 }
