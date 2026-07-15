@@ -1,7 +1,78 @@
 {
   "date": "2026-07-15",
-  "count": 1540,
+  "count": 1547,
   "items": [
+    {
+      "id": "mkt:019f6435-c9f3-7aab-8d94-afea684a2931",
+      "time": "2026-07-15 13:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports DeepSeek is seeking a new funding round targeting $7.4 billion at a $74 billion valuation."
+    },
+    {
+      "id": "mkt:019f6435-6983-7aab-8d94-a3f01626673a",
+      "time": "2026-07-15 13:17:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "Alphabet",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "【ASML raises full-year sales forecast again as AI spending lifts demand】ASML raised its full-year sales forecast for the second time this year, now expecting net sales of €43–45 bln versus an April range of €36–40 bln, citing stronger demand from AI infrastructure spending by Microsoft, Alphabet and other tech firms. The company plans to produce at least 60 low-NA EUV lithography systems this year and expects to reach annual capacity of at least 80 units by 2027; meeting market demand remains a key challenge, it said. ASML is expanding capacity, with construction of a new Eindhoven campus due to start this quarter that will ultimately accommodate roughly 20,000 employees."
+    },
+    {
+      "id": "4989142",
+      "time": "2026-07-15 13:17:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Deepseek年化營收逼近5億美元，助推融資及上市計劃】據報道，三位知情人士透露，Deepseek營收大幅增長，這家中國開源人工智慧頭部企業計劃完成第二輪融資，募資規模達500億元人民幣（摺合74億美元），同時籌備明年於上海上市。知情人士表示，這家成立僅三年的企業依託AI模型雲服務API介面授權業務實現創收，近期年化營收規模達到4億至5億美元區間。此輪融資投後估值為5000億元人民幣（摺合740億美元），相較於一個月前首輪融資完成時500億元的估值大幅飆升。"
+    },
+    {
+      "id": "mkt:019f6434-0385-7aab-8d94-9b23f33e57d9",
+      "time": "2026-07-15 13:15:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports DeepSeek's annualized revenue reached dlr 400-500 mln."
+    },
+    {
+      "id": "mkt:019f6433-d67f-7aab-8d94-97bbc5d55540",
+      "time": "2026-07-15 13:15:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Dongshan Precision recorded trading turnover of 30 bln yuan; shares up 1.93%."
+    },
+    {
+      "id": "4989141",
+      "time": "2026-07-15 13:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：DeepSeek年化收入達到4億美元至5億美元。"
+    },
+    {
+      "id": "mkt:019f6433-2f7a-7aab-8d94-8da1edffa7f7",
+      "time": "2026-07-15 13:15:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "【ASML Q2 revenue and profit beat; AI chip demand drives results】ASML, the world’s largest maker of semiconductor manufacturing equipment, posted Q2 revenue and net profit above expectations as demand from AI chipmakers offset uncertainty over sales to China. LSEG median estimates showed revenue of €9.33bn for the three months to June 30 (about $10.9bn) versus €8.80bn expected, and net profit of €2.92bn versus €2.62bn expected."
+    },
     {
       "id": "mkt:019f6431-a0ac-7aab-8d94-82aeee37297d",
       "time": "2026-07-15 13:13:21",

@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-15 13:14:50",
-  "count": 18781,
+  "updated": "2026-07-15 13:18:54",
+  "count": 18775,
   "items": [
+    {
+      "id": "mkt:019f6435-c9f3-7aab-8d94-afea684a2931",
+      "time": "2026-07-15 13:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports DeepSeek is seeking a new funding round targeting $7.4 billion at a $74 billion valuation."
+    },
+    {
+      "id": "mkt:019f6435-6983-7aab-8d94-a3f01626673a",
+      "time": "2026-07-15 13:17:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "Alphabet",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "【ASML raises full-year sales forecast again as AI spending lifts demand】ASML raised its full-year sales forecast for the second time this year, now expecting net sales of €43–45 bln versus an April range of €36–40 bln, citing stronger demand from AI infrastructure spending by Microsoft, Alphabet and other tech firms. The company plans to produce at least 60 low-NA EUV lithography systems this year and expects to reach annual capacity of at least 80 units by 2027; meeting market demand remains a key challenge, it said. ASML is expanding capacity, with construction of a new Eindhoven campus due to start this quarter that will ultimately accommodate roughly 20,000 employees."
+    },
+    {
+      "id": "4989142",
+      "time": "2026-07-15 13:17:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Deepseek年化營收逼近5億美元，助推融資及上市計劃】據報道，三位知情人士透露，Deepseek營收大幅增長，這家中國開源人工智慧頭部企業計劃完成第二輪融資，募資規模達500億元人民幣（摺合74億美元），同時籌備明年於上海上市。知情人士表示，這家成立僅三年的企業依託AI模型雲服務API介面授權業務實現創收，近期年化營收規模達到4億至5億美元區間。此輪融資投後估值為5000億元人民幣（摺合740億美元），相較於一個月前首輪融資完成時500億元的估值大幅飆升。"
+    },
+    {
+      "id": "mkt:019f6434-0385-7aab-8d94-9b23f33e57d9",
+      "time": "2026-07-15 13:15:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports DeepSeek's annualized revenue reached dlr 400-500 mln."
+    },
+    {
+      "id": "mkt:019f6433-d67f-7aab-8d94-97bbc5d55540",
+      "time": "2026-07-15 13:15:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share-listed Dongshan Precision recorded trading turnover of 30 bln yuan; shares up 1.93%."
+    },
+    {
+      "id": "4989141",
+      "time": "2026-07-15 13:15:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：DeepSeek年化收入達到4億美元至5億美元。"
+    },
+    {
+      "id": "mkt:019f6433-2f7a-7aab-8d94-8da1edffa7f7",
+      "time": "2026-07-15 13:15:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "【ASML Q2 revenue and profit beat; AI chip demand drives results】ASML, the world’s largest maker of semiconductor manufacturing equipment, posted Q2 revenue and net profit above expectations as demand from AI chipmakers offset uncertainty over sales to China. LSEG median estimates showed revenue of €9.33bn for the three months to June 30 (about $10.9bn) versus €8.80bn expected, and net profit of €2.92bn versus €2.62bn expected."
+    },
     {
       "id": "mkt:019f6431-a0ac-7aab-8d94-82aeee37297d",
       "time": "2026-07-15 13:13:21",
@@ -171985,117 +172056,6 @@
         "國際"
       ],
       "text": "【四艘石油和天然氣運輸船在遭遇船隻襲擊後從霍爾木茲海峽折返】船舶追蹤資料顯示，至少有四艘油氣運輸船在試圖穿越霍爾木茲海峽時被迫折返，此前該關鍵水道再次發生針對船隻的襲擊事件，加劇了人們對安全與安保的擔憂。此次船隻改道發生在以下事件之後：週二有報道稱伊朗向該水道內的船隻發射了導彈，導致一艘卡達液化天然氣運輸船和一艘懸掛沙特國旗的原油運輸船在海峽附近受損，海事當局隨即將過境船舶的威脅風險 (link) 上調至“嚴重”級別。分析公司Kpler和LSEG的資料顯示，三艘液化天然氣（LNG）運輸船——“Al Ghariya”號、“Duhail”號和“Al Ruwais”號——此前均正緩慢向西駛向霍爾木茲海峽，但在週二深夜改變航向，調頭駛離。這三艘由卡達能源公司（QatarEnergy）控制的液化天然氣運輸船均處於空載狀態，當時正駛往卡達的 拉斯拉凡（Ras Laffan）出口設施裝貨。與此同時，LSEG和Kpler的資料還顯示，一艘懸掛印度國旗的油輪——上週晚些時候裝載了200萬桶科威特原油——於週三在霍爾木茲海峽的阿曼尖端附近調頭折返。"
-    },
-    {
-      "id": "4975707",
-      "time": "2026-07-08 13:18:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【聯合國：正竭盡所能支援古巴人民】當地時間7日，聯合國秘書長發言人在例行釋出會上表示，聯合國持續密切關注古巴人道局勢，特別是能源短缺造成的連鎖影響。聯合國正在努力推動向古巴運輸燃料。（央視）"
-    },
-    {
-      "id": "mkt:019f402a-224e-7aab-8ce1-ae7218baa49b",
-      "time": "2026-07-08 13:18:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary General Rutte said there is a reasonable expectation that Europe and Canada should achieve balanced defence spending within NATO."
-    },
-    {
-      "id": "mkt:019f4029-ddef-7aab-8ce1-a3e0c8c86eff",
-      "time": "2026-07-08 13:18:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【18th China-Netherlands Joint Economic and Trade Committee meeting held in Beijing】Wang Wentao said last week China and the EU held the first meeting of their Trade and Investment Consultation Mechanism and issued a joint statement, confirming a new positioning of China-EU ties as a stable, balanced, key trade partnership. He urged the Dutch government to play a constructive role within the EU to encourage reciprocal engagement with China and to manage differences through dialogue and consultation."
-    },
-    {
-      "id": "4975706",
-      "time": "2026-07-08 13:18:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中荷經貿混委會第18次會議在京舉行 】7月7日，商務部部長王文濤與荷蘭外貿與發展合作大臣舍爾茨瑪在北京共同主持召開中荷經貿混委會第18次會議，就中荷、中歐經貿關係坦誠、深入交換意見。王文濤表示，今年3月李強總理與耶滕首相通話，就推動中荷開放務實的全面合作伙伴關係不斷取得新進展達成重要共識。中國商務部願與荷方加強在先進製造業、科技創新、綠色轉型、現代服務等領域合作，希望荷方為中國企業赴荷投資營造公平公正可預期的環境，保持半導體產供鏈穩定，推動妥善解決有關企業糾紛。中方歡迎荷蘭企業投資中國，共享中國大市場。王文濤表示，上週中歐召開貿易投資磋商機制首次會議並發表聯合宣告，雙方確認中歐穩定、平衡的關鍵貿易伙伴關係的新定位。希望荷蘭政府在歐盟內發揮積極和建設性作用，推動歐方與中方相向而行，透過對話磋商管控分歧。"
-    },
-    {
-      "id": "4975705",
-      "time": "2026-07-08 13:18:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達120億港元。"
-    },
-    {
-      "id": "mkt:019f4029-010c-7aab-8ce1-9eec1b5ff1ad",
-      "time": "2026-07-08 13:17:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General Rutte said Trump has made a full commitment to NATO."
-    },
-    {
-      "id": "4975704",
-      "time": "2026-07-08 13:17:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：特朗普對北約有著完全的承諾。"
-    },
-    {
-      "id": "4975703",
-      "time": "2026-07-08 13:17:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【厄瓜多與秘魯陸路口岸全部恢復開放】厄瓜多政府部長納塔莉·莫里略7日表示，總統丹尼爾·諾沃亞已下令重新開放該國南部洛哈省與秘魯接壤的陸路邊境口岸。至此，兩國間的陸路口岸全部恢復開放。 莫里略當天透過社交平臺釋出訊息說：“我們曾臨時關閉位於洛哈省的南部邊境，以遏制武器走私，並加強邊境管控。今天，在對該措施實施效果進行評估後，總統丹尼爾·諾沃亞已決定重新開放邊境。” 莫里略表示，由厄國家警察和武裝部隊組成的安全聯合行動機制將繼續在邊境地區部署力量，以確保邊境管控和厄民眾安全。 厄瓜多和秘魯之間一共有三個陸路口岸，其中兩個位於厄南部的洛哈省。自去年12月起，作為安全措施的一部分，厄政府暫停了洛哈省馬卡拉和薩波蒂約兩個邊境口岸的通行。"
-    },
-    {
-      "id": "4975702",
-      "time": "2026-07-08 13:16:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度指定新孟買機場為藥品進口港口。"
-    },
-    {
-      "id": "4975701",
-      "time": "2026-07-08 13:16:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：希望盟友確認伊朗永遠不可能獲得核武器。"
-    },
-    {
-      "id": "mkt:019f4027-adc4-7aab-8ce1-95b52f9bd850",
-      "time": "2026-07-08 13:16:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ecuador, Peru land borders fully reopen】Ecuador’s minister Nathaly Morillo said on July 7 President Daniel Noboa ordered the reopening of land crossings in southern Loja province along the Peruvian border; all land crossings between Ecuador and Peru are now open."
-    },
-    {
-      "id": "4975700",
-      "time": "2026-07-08 13:16:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【鐵路“輕裝行”服務範圍擴大 新增101座車站可預約】為更好地滿足旅客出行需求，鐵路部門在暑運期間進一步擴大“輕裝行”服務覆蓋範圍。新增吉林、赤峰、牡丹江、運城、臨汾、包頭、烏蘭察布、新鄉、威海、煙臺、淄博、蘇州、無錫、三亞、海口、哈密、格爾木等101座車站，辦理車站總數達到212座，服務站點基本覆蓋省會城市、直轄市、計劃單列市。此次擴大服務範圍，保持“輕裝行”服務的預約方式、受理流程等不變。已購車票的旅客可透過鐵路12306App、微信小程式及中鐵快運微信小程式預約“輕裝行”服務。在同城距離車站35公里內，旅客根據實際需要可選擇以下兩種“輕裝行”服務。一是出發旅客“門到站”行李搬運服務。旅客在開車前48小時至4小時預約，“輕裝行”工作人員到指定位置上門收取符合託運規定的行李並搬運至出發車站，透過安檢後，在開車前30分鐘將行李存入服務櫃或在開車前10分鐘送至站臺。二是到達旅客“站到門”行李搬運服務。旅客在列車到站前24小時至1小時進行預約，“輕裝行”工作人員在列車到達站臺或到站服務櫃取件後5小時內送達指定位置。（中國鐵路）"
-    },
-    {
-      "id": "te:markets:565097",
-      "time": "2026-07-08 13:15:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Increases by 0.59% — Top currency gainers are New Zealand Dollar (0.59%), Indian Rupee (0.45%) and South Korean Won (0.42%). Biggest loser is Japanese Yen (-0.15%). Meanwhile, British Pound, Euro and Dollar Index were little changed."
     }
   ]
 }
