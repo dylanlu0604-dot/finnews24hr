@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-16 06:52:13",
-  "count": 18602,
+  "updated": "2026-07-16 06:56:06",
+  "count": 18604,
   "items": [
+    {
+      "id": "4990837",
+      "time": "2026-07-16 06:55:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國感謝伊朗的這一善意姿態。"
+    },
+    {
+      "id": "4990836",
+      "time": "2026-07-16 06:55:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗發動報復性導彈打擊後，科威特境內傳來多起爆炸聲。"
+    },
+    {
+      "id": "4990835",
+      "time": "2026-07-16 06:54:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗已允許一名2024年12月在拜登任內遭不當扣押的美國公民離境。"
+    },
+    {
+      "id": "4990834",
+      "time": "2026-07-16 06:53:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特陸軍：科威特防空部隊正針對“敵對無人機威脅”採取應對行動。"
+    },
+    {
+      "id": "mkt:019f67fc-77de-7aab-8db1-5dda7ede5b80",
+      "time": "2026-07-16 06:53:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwaiti military says air-defence systems are responding to hostile drone threats."
+    },
     {
       "id": "4990833",
       "time": "2026-07-16 06:47:24",
@@ -171050,37 +171091,6 @@
         "國際"
       ],
       "text": "據韓國媒體報道：韓國官員稱，韓元疲軟是暫時性的。"
-    },
-    {
-      "id": "mkt:019f43f1-775f-7aab-8d00-29c988028d7d",
-      "time": "2026-07-09 06:55:25",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "The mayor of Shaher said the airport's aviation equipment building and its meteorological station were damaged in a US strike."
-    },
-    {
-      "id": "mkt:019f43ef-69fe-7aab-8d00-258465e76fab",
-      "time": "2026-07-09 06:53:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said the US had reached many trade agreements with Turkey and praised Turkish President Erdogan as a good partner."
-    },
-    {
-      "id": "4977687",
-      "time": "2026-07-09 06:52:44",
-      "tags": [
-        "宏觀",
-        "市場"
-      ],
-      "text": "【中證報：資金保障底氣足，下半年穩投資料持續加力】國家發展改革委日前披露，2026年“兩重”建設專案清單已全部下達，全年安排8000億元超長期特別國債資金，用於支援1417個重大專案建設。受訪專家表示，這筆資金將為基建投資築牢關鍵資金保障，託舉全年經濟平穩執行。展望下半年，各地需統籌用好各類政府資金與新型政策性金融工具，拉動基建投資增速穩步回升；同時出臺一攬子政策改革舉措扶持民間投資，充分釋放民間投資活力。"
     }
   ]
 }
