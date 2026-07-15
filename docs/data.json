@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-16 02:49:31",
-  "count": 18602,
+  "updated": "2026-07-16 02:53:33",
+  "count": 18598,
   "items": [
+    {
+      "id": "mkt:019f671e-fd20-7aab-8dae-f8840a258383",
+      "time": "2026-07-16 02:51:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported Iran's foreign ministry summoned the UK ambassador to Tehran to protest the UK's inclusion of the Islamic Revolutionary Guard Corps (IRGC) on a list under the Countering State Threats Act."
+    },
+    {
+      "id": "4990601",
+      "time": "2026-07-16 02:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社訊息：伊朗因英國將革命衛佇列為制裁物件召見英國駐伊大使。"
+    },
     {
       "id": "mkt:019f671b-5dd7-7aab-8dae-f6477cfd382b",
       "time": "2026-07-16 02:47:54",
@@ -171165,58 +171181,6 @@
         "市場"
       ],
       "text": "布倫特原油期貨結算價報每桶78.02美元，上漲3.86美元，漲幅5.2%。"
-    },
-    {
-      "id": "4977534",
-      "time": "2026-07-09 02:53:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "路透社調查顯示，美國能源資訊署（EIA）週四公佈的報告預計，上週美國天然氣庫存增加490億立方英尺。"
-    },
-    {
-      "id": "4977533",
-      "time": "2026-07-09 02:52:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇福建多舉措防禦颱風“巴威”】江蘇、福建兩省多措並舉，提前部署防汛防颱工作。江蘇鹽城、連雲港受颱風影響，出現大風、強降雨天氣。各地各部門提前部署，全方位做好防汛防颱保障工作。在鹽城，農業農村部門組織農技人員下沉田間，緊盯蔬菜基地、種植大棚、低窪農田，指導農戶疏通溝渠、加固棚體、培土護苗，降低農業受災風險。漁港工作人員逐艘檢查漁船纜繩錨鏈，依託北斗系統實時監控出海船隻，分級引導漁船就近回港避風。受颱風影響，福建8條客渡運航線停航。（央視新聞）"
-    },
-    {
-      "id": "te:markets:565401",
-      "time": "2026-07-09 02:51:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Slips on Middle East Tensions — The S&P/TSX Composite Index fell ocer 1% to trade below 35,000 on Wednesday as renewed US-Iran tensions fueled risk aversion. President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials. RBC (-1.5%), TD Bank (-3%), and BMO (-2%) were down. Mining stocks also came under pressure as gold prices slipped and Trilogy Metals (-1%) reported a wider second-quarter loss. Agnico Eagle, Barrick, and WPM fell about 4%. Tech stocks weakened, with Shopify down 4%. Meanwhile, minutes from the Fed's June meeting showed officials remained divided over the need for further tightening. While several policymakers argued the current policy stance was not restrictive, most also said additional rate hikes could be warranted if inflation remains elevated."
-    },
-    {
-      "id": "4977532",
-      "time": "2026-07-09 02:51:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將贛鋒鋰業A股評級上調至超配。"
-    },
-    {
-      "id": "mkt:019f4311-0883-7aab-8cfc-cb0cc9ba971d",
-      "time": "2026-07-09 02:50:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance said the U.S. Labor Department has opened dozens of investigations into foreign individuals and entities suspected of abusing the H-1B visa program, and that U.S. job opportunities should be prioritized for American workers rather than exploited by foreign fraudsters."
-    },
-    {
-      "id": "4977531",
-      "time": "2026-07-09 02:50:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：我們達成的核心協議內容是，“只要你們停止襲擊船舶，我們就解除封鎖”；但如果你們襲擊船隻，我們必將反擊，而且反擊力度會前所未有地強硬。"
     }
   ]
 }

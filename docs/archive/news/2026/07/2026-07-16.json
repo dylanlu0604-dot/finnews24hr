@@ -1,7 +1,23 @@
 {
   "date": "2026-07-16",
-  "count": 222,
+  "count": 224,
   "items": [
+    {
+      "id": "mkt:019f671e-fd20-7aab-8dae-f8840a258383",
+      "time": "2026-07-16 02:51:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported Iran's foreign ministry summoned the UK ambassador to Tehran to protest the UK's inclusion of the Islamic Revolutionary Guard Corps (IRGC) on a list under the Countering State Threats Act."
+    },
+    {
+      "id": "4990601",
+      "time": "2026-07-16 02:50:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社訊息：伊朗因英國將革命衛佇列為制裁物件召見英國駐伊大使。"
+    },
     {
       "id": "mkt:019f671b-5dd7-7aab-8dae-f6477cfd382b",
       "time": "2026-07-16 02:47:54",
