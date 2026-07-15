@@ -1,7 +1,132 @@
 {
   "date": "2026-07-15",
-  "count": 2761,
+  "count": 2775,
   "items": [
+    {
+      "id": "4989931",
+      "time": "2026-07-15 19:44:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：德國政府已收到多項關於債務剎車改革的提案，但改革面臨的挑戰將極為艱鉅。"
+    },
+    {
+      "id": "mkt:019f6597-774e-7aab-8da0-24d4d9f4ec20",
+      "time": "2026-07-15 19:44:12",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "MERZ said Germany's credit rating is not at risk."
+    },
+    {
+      "id": "4989930",
+      "time": "2026-07-15 19:44:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外交部長阿拉格奇訪問多哈，出席前埃米爾哈馬德·阿勒薩尼葬禮。"
+    },
+    {
+      "id": "4989929",
+      "time": "2026-07-15 19:43:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非開始對矽金屬進口展開調查。"
+    },
+    {
+      "id": "4989928",
+      "time": "2026-07-15 19:42:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紫光國微：公司在宇航應用領域已推出了宇航用FPGA等多款產品】紫光國微在互動平臺表示，公司在宇航應用領域已推出了宇航用FPGA、回讀重新整理晶片、儲存器、匯流排介面等多款產品，具備完整的宇航用系統解決方案，已得到核心使用者應用，公司在持續地推廣應用。"
+    },
+    {
+      "id": "mkt:019f6595-f1b1-7aab-8da0-187bca78031a",
+      "time": "2026-07-15 19:42:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister traveled to Doha to attend the memorial for Qatar's former emir, Iranian media reported."
+    },
+    {
+      "id": "4989927",
+      "time": "2026-07-15 19:42:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利爾化學：控股股東擬轉讓23.50%股份 確定第一受讓方】利爾化學公告稱，公司控股股東久遠集團及一致行動人化材科技擬透過公開徵集轉讓方式，分別轉讓公司20.00%、3.50%股份，合計佔總股本23.50%。公開徵集期內，10家意向受讓方提交申請並繳納保證金，均透過評審。根據報價，確定華潤雙鶴為第一意向受讓方，蜀道投資、四川能源分列二、三位。轉讓方將按順序磋商，若遇特定情形，依次與後序受讓方協商。本次轉讓或致實控人變更，協議需獲批，能否完成尚不確定。"
+    },
+    {
+      "id": "te:markets:567207",
+      "time": "2026-07-15 19:41:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Pickup — Futures tracking US equities were muted on Wednesday, holding the pickup from the previous session as more price data is due to shape the Federal Reserve's policy outlook. Contracts for the S&P 500, Dow, and Nasdaq 100 were slightly above the flatline. Core producer prices are expected to have risen sharply in June, contrasting with the soft CPI print from yesterday that erased positions betting on a Fed rate hike in two weeks. The developments coincide with rising energy prices after their pullback last month on further escalation to strikes between the US and Iran. Yields rose further, but strong earnings reports underpinned broad gains for equities. The heavyweight AI sector was supported by strong signals from ASML, lifting AMD and Intel premarket, although volatility continued to grapple memory producers. Meanwhile, Morgan Stanley rose 1% after posting optimistic results, joining JPMorgan, Bank of America, Citi, and Goldman Sachs in their strong reports yesterday."
+    },
+    {
+      "id": "mkt:019f6595-41f3-7aab-8da0-10889170a4e7",
+      "time": "2026-07-15 19:41:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Air France said it will suspend flights to and from Beirut until Aug. 2."
+    },
+    {
+      "id": "4989926",
+      "time": "2026-07-15 19:41:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德首席財務官馬丁·斯莫爾表示，公司仍預計全年一般及行政開支將增長中個位數百分比。"
+    },
+    {
+      "id": "mkt:019f6595-2176-7aab-8da0-08be0cafb21a",
+      "time": "2026-07-15 19:41:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bullish"
+      ],
+      "text": "【Volkswagen expands budget EV range to counter high oil prices】Volkswagen is adding a compact electric SUV, the ID. Cross, to its budget EV lineup as high fuel prices and purchase subsidies push European buyers away from petrol variants like the T‑Cross. The ID. Cross starts at about €28,000 (≈$32,000) and is open for pre‑order; sales of a smaller‑battery version will start later. Volkswagen said the ID. Cross and lower‑priced electric variants of the Polo, Cupra Raval and Skoda Epiq will be built in Spain, where production costs are significantly lower than in Germany, positioning the range to compete with models such as BYD’s Dolphin."
+    },
+    {
+      "id": "mkt:019f6595-1e27-7aab-8da0-00b26392031c",
+      "time": "2026-07-15 19:41:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Buffett said Bill Gates' association with Epstein was 'disgusting', but everyone makes mistakes."
+    },
+    {
+      "id": "4989925",
+      "time": "2026-07-15 19:41:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大唐新能源：2026年6月發電量同比下降16.86%】大唐新能源公告，根據公司初步統計，2026年6月本集團按合併報表口徑完成發電量203.48萬兆瓦時，較2025年同比下降16.86%。其中風電發電量154.44萬兆瓦時，同比下降18.93%；光伏發電量49.04萬兆瓦時，同比下降9.58%。截至2026年6月30日，本集團2026年累計完成發電量1659.58萬兆瓦時，較2025年同比下降10.79%。"
+    },
+    {
+      "id": "4989924",
+      "time": "2026-07-15 19:41:09",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：雀巢印度公司收到針對增值稅、利息及罰金的重新評估稅款繳納指令。"
+    },
     {
       "id": "4989923",
       "time": "2026-07-15 19:40:39",
