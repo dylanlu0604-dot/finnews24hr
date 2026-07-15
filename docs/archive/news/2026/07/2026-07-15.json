@@ -1,7 +1,151 @@
 {
   "date": "2026-07-15",
-  "count": 930,
+  "count": 945,
   "items": [
+    {
+      "id": "4988785",
+      "time": "2026-07-15 09:30:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤邦股份：GENMA交付國內知名船廠一臺300噸造船龍門吊】據潤邦股份訊息，近日，GENMA向國內知名船廠交付一臺300噸造船門式起重機。該裝置專為現代化造船作業量身定製，採用上下可穿越式小車設計，支援多種吊裝組合模式，搭載高精度變頻控制系統及完備的安全保護體系，在船體分段翻身和合攏作業中可大幅提升效率與安全性。"
+    },
+    {
+      "id": "mkt:019f6365-c912-7aab-8d8d-983dea9587e9",
+      "time": "2026-07-15 09:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share CPO sector opened higher; Yangtze Optical Fibre and Cable and Huashengchang hit the daily limit. Futong Microelectronics, Defu Technology and Guanghe Technology were among the top gainers."
+    },
+    {
+      "id": "mkt:019f6365-c18a-7aab-8d8d-97cb61a09096",
+      "time": "2026-07-15 09:30:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "China's National Bureau of Statistics says in June 2026, among 70 large and medium-sized cities, month-on-month prices for commodity housing rose in first-tier cities and fell or were flat in second- and third-tier cities; year-on-year declines across first-, second- and third-tier cities continued to narrow. The number of cities reporting MoM increases in new home prices rose from the prior month."
+    },
+    {
+      "id": "4988784",
+      "time": "2026-07-15 09:30:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "國家統計局：2026年6月份，70個大中城市中，一線城市商品住宅銷售價格環比上漲，二三線城市環比下降或持平，一二三線城市同比降幅總體繼續收窄。新建商品住宅銷售價格環比上漲城市個數比上月繼續增加。"
+    },
+    {
+      "id": "4988783",
+      "time": "2026-07-15 09:30:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤上漲0.10%。國力轉債、正帆轉債、鼎龍轉債、藍曉轉02、聯瑞轉債漲幅居前，分別漲5.20%、4.12%、3.34%、3.00%、2.85%。聞泰轉債、華辰轉債、靈康轉債、風語轉債、恆逸轉2跌幅居前，分別跌3.87%、1.79%、1.63%、1.62%、1.38%。"
+    },
+    {
+      "id": "te:markets:566966",
+      "time": "2026-07-15 09:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Hong Kong Hit 4-week High — HK50 increased to 24514.00 Index Points, the highest since June 2026. Over the past 4 weeks, Hong Kong Stock Market Index (HK50) gained 0.22%, and in the last 12 months, it increased 0.12%."
+    },
+    {
+      "id": "4988782",
+      "time": "2026-07-15 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.01%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "4988781",
+      "time": "2026-07-15 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊高開，長飛光纖、華盛昌漲停】CPO板塊高開，長飛光纖、華盛昌漲停。"
+    },
+    {
+      "id": "4988780",
+      "time": "2026-07-15 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.92%， 滬深300指數期貨連續漲0.14%， 中證500指數期貨連續漲0.56%， 上證50指數期貨連續漲0.46%。"
+    },
+    {
+      "id": "mkt:019f6364-f9e0-7aab-8d8d-8a9455a8d2c6",
+      "time": "2026-07-15 09:29:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu humanoid used in live surgery; author says clinical deployment remains distant】Nature published an online paper reporting researchers placed Yushu Technology’s G1 humanoid robot in an operating room and, via remote teleoperation by human surgeons, completed standard laparoscopic cholecystectomies on two live pigs—described by the authors as the first use of a humanoid robot in live surgery. First author Liang Zekai, a PhD candidate in electrical and computer engineering at UC San Diego, said the interdisciplinary team of engineers and surgeons chose the G1 because it was one of the commercially available options and that the study’s focus was on humanoid form rather than endorsing a specific platform. Liang cautioned that clinical use on human patients will require substantial further work on precision, sterilization, safety, regulatory approval and large-scale validation."
+    },
+    {
+      "id": "mkt:019f6364-8048-7aab-8d8d-86f574502db1",
+      "time": "2026-07-15 09:29:18",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "XAUUSD",
+        "SSE Composite"
+      ],
+      "text": "【Huatai‑PineBridge CSI 300 ETF jumps to No.2, trailing leader by 406 mln yuan】As of July 14, Huatai‑PineBridge CSI 300 ETF assets were 89.506 bln yuan, up 2.623 bln yuan from July 13, elevating it to the second‑largest ETF after surpassing Huaan Gold ETF. The largest ETF remains Yinhua Rili A at 89.912 bln yuan, 406 mln yuan ahead. Huaan Gold had overtaken Huatai‑PineBridge on July 3; Yinhua Rili A moved ahead on July 13."
+    },
+    {
+      "id": "4988779",
+      "time": "2026-07-15 09:28:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【宇樹機器人首次操刀活體手術，論文作者回應】近日，國際頂刊Nature線上發表的《人形機器人用於外科手術的活體可行性研究》論文引發關注。該研究團隊將宇樹科技G1人形機器人搬進手術室，人類醫生透過遠端遙作業系統為兩頭活豬完成了標準的腹腔鏡膽囊切除手術。這一研究也被稱為是全球首例使用人形機器人完成的活體手術。這篇論文的第一作者加州大學聖地亞哥分校的電氣與計算機工程系博士梁澤楷（LucasZekaiLiang）回應記者，稱該研究專案由工程師和外科醫生組成的跨學科團隊共同完成，選擇宇樹G1主要是因為它當時是市場上較容易獲得的商用選項之一，專案研究重點在於人形機器人的仿人外形，而非特定的平臺。“要讓人形機器人真正應用於人類患者的臨床實踐，還需要相當長的時間。”梁澤楷表示，在人形機器人臨床部署之前，還要在精度、滅菌、安全性、監管審批和大規模驗證等方面進一步改進。（第一財經）"
+    },
+    {
+      "id": "mkt:019f6363-9bde-7aab-8d8d-79cb98d15de6",
+      "time": "2026-07-15 09:28:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index opened down 3.4 points (-0.09%) at 3,963.73 on July 15. Shenzhen Composite Index opened up 45.9 points (+0.31%) at 14,970.77. CSI 300 INDEX opened up 1.44 points (+0.03%) at 4,797.94. ChiNext Index opened up 28.63 points (+0.74%) at 3,879.77. Sci‑Tech Innovation 50 (STAR 50) Index opened up 11.85 points (+0.59%) at 2,021.58."
+    },
+    {
+      "id": "4988778",
+      "time": "2026-07-15 09:28:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【A股市場兩融餘額跌破2.9萬億元】截至7月14日，A股市場滬深北三市兩融餘額合計約28994億元，跌破2.9萬億元，為今年6月16日以來首次跌破2.9萬億元。"
+    },
+    {
+      "id": "4988777",
+      "time": "2026-07-15 09:27:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【剛果（金）埃博拉確診病例超2000例】剛果（金）衛生部14日釋出的最新疫情報告顯示，該國本輪埃博拉疫情累計報告確診病例達2011例，其中死亡754例。 報告說，截至13日，疫情已波及伊圖裡、北基伍、南基伍、上韋萊和喬波5個省。上韋萊省自數天前首次報告出現埃博拉病例以來，疫情進一步擴散，累計報告確診病例14例，其中死亡13例。報告認為，該省出現新增病例表明疫情影響範圍繼續擴大，需立即加強監測、檢測並在周邊省份加強防範。 報告顯示，目前753名患者正在接受隔離或住院治療，累計治癒病例為366例。北基伍省相關醫療機構床位佔用率達120.6%，收治能力持續承壓。 報告還指出，部分疫區靠近烏干達邊境，頻繁人員流動增加了疫情進一步擴散的風險。(新華社)"
+    },
     {
       "id": "mkt:019f6361-a66e-7aab-8d8d-7509422f952d",
       "time": "2026-07-15 09:26:11",
