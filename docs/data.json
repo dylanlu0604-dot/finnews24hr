@@ -1,7 +1,134 @@
 {
-  "updated": "2026-07-15 19:29:36",
-  "count": 18661,
+  "updated": "2026-07-15 19:33:43",
+  "count": 18662,
   "items": [
+    {
+      "id": "mkt:019f658d-1d7c-7aab-8d9f-e884cd1ad1c7",
+      "time": "2026-07-15 19:32:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "HASSETT said Iran's ability to threaten the global economy has declined."
+    },
+    {
+      "id": "mkt:019f658d-18f8-7aab-8d9f-e23d04ab23e7",
+      "time": "2026-07-15 19:32:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "HASSETT said he believes Wosh will guide the Fed to the right decision on interest rates."
+    },
+    {
+      "id": "4989901",
+      "time": "2026-07-15 19:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，科列茨基是最合適的總理候選人。"
+    },
+    {
+      "id": "4989900",
+      "time": "2026-07-15 19:32:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普支援林德爾競選明尼蘇達州州長。"
+    },
+    {
+      "id": "4989899",
+      "time": "2026-07-15 19:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德康農牧：預計上半年淨虧損約人民幣12億元至14億元】德康農牧公告，預計2026年上半年將錄得淨虧損約人民幣12億元至14億元，而2025年同期錄得淨利潤約人民幣12.27億元。本期業績由盈轉虧，主要系報告期內生豬市場持續低迷、生豬銷售價格同比大幅下滑，使得本集團核心生豬養殖業務毛利承壓，並錄得毛虧。"
+    },
+    {
+      "id": "4989898",
+      "time": "2026-07-15 19:31:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：伊朗挾持全球經濟的能力已經下降。"
+    },
+    {
+      "id": "4989897",
+      "time": "2026-07-15 19:31:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：資料顯示沒有理由提高利率。"
+    },
+    {
+      "id": "4989896",
+      "time": "2026-07-15 19:31:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率<IN069436G=CC>收報6.7738%，前收盤價為6.7945%。"
+    },
+    {
+      "id": "mkt:019f658b-b783-7aab-8d9f-d8d523c14165",
+      "time": "2026-07-15 19:31:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "White House National Economic Council director Hassett said data show the Fed has no reason to raise interest rates."
+    },
+    {
+      "id": "4989894",
+      "time": "2026-07-15 19:30:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈塞特：尊重沃什將促使美聯儲在利率問題上做出正確的決定。"
+    },
+    {
+      "id": "4989893",
+      "time": "2026-07-15 19:30:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非水利基礎設施專案已接近最終階段。"
+    },
+    {
+      "id": "4989892",
+      "time": "2026-07-15 19:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：資料顯示沒有理由提高利率。"
+    },
+    {
+      "id": "mkt:019f6589-acca-7aab-8d9f-d69ef6eed51e",
+      "time": "2026-07-15 19:29:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "【Buffett says he led Berkshire's investment in Alphabet】CNBC reported Wednesday that Warren Buffett said he personally initiated Berkshire Hathaway’s large investment in Alphabet. Berkshire first disclosed the position in Q3 2025 and has since materially increased it, including a $10 billion private share purchase last month. Buffett, who stepped down as CEO earlier this year but remains chairman, said he and CEO Greg Abel collaborate closely on investment decisions; they consult regularly, though Abel is the ultimate decision-maker."
+    },
     {
       "id": "4989891",
       "time": "2026-07-15 19:28:22",
@@ -171222,117 +171349,6 @@
         "國際"
       ],
       "text": "【蘋果與博通的晶片協議規模預計將超過300億美元】蘋果公司表示，其與博通擴大後的合作協議規模預計將超過300億美元，此舉旨在落實增加採購美國製造零部件的承諾。蘋果週三在宣告中稱，這項協議將涉及在美國生產逾150億枚晶片，並支援數以百計的就業崗位。蘋果還將幫助博通升級其位於科羅拉多州的生產設施。這一宣告披露了雙方合作安排的更多細節。博通週一宣佈這項協議將持續至2031年，但當時並未提供財務細節。蘋果表示，這筆支出屬於其此前披露的6000億美元美國投資承諾的一部分。執行長蒂姆·庫克去年曾在白宮橢圓形辦公室與總統唐納德·特朗普一同宣傳這項計劃。蘋果稱，與博通的合作將包括向其位於科羅拉多州柯林斯堡的生產工廠投資15億美元。該公司稱，用於無線晶片的先進射頻元件將在該廠生產。"
-    },
-    {
-      "id": "4976717",
-      "time": "2026-07-08 19:33:38",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【精測電子：擬發行股份、可轉換公司債券及支付現金購買資產並募集配套資金 股票停牌】精測電子公告，公司正在籌劃發行股份、可轉換公司債券及支付現金收購控股子公司上海精測半導體技術有限公司部分股權並募集配套資金，預計構成重大資產重組和關聯交易。公司股票及其衍生品可轉換公司債券自2026年7月9日開市時起開始停牌，預計在不超過10個交易日內披露本次交易方案。"
-    },
-    {
-      "id": "4976716",
-      "time": "2026-07-08 19:33:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄稱歐盟正加速軍事化】當地時間7月7日，俄羅斯總統新聞秘書佩斯科夫在接受採訪時表示，原本是經濟集團的歐盟正在增強其軍事力量，轉型成一個具有經濟、軍事雙重性質的集團，這是歐洲出現的全新態勢。他指出，這一動向對俄方來說極其重要，或迫使俄方採取額外措施保障國家安全。佩斯科夫還強調，烏克蘭被不少歐洲國家煽動，並且認為在戰略層面上會擊敗俄羅斯，這是有史以來最大的錯誤。（CCTV國際時訊）"
-    },
-    {
-      "id": "4976715",
-      "time": "2026-07-08 19:33:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英媒：美重拾“購島”立場 英或參與“調和”】英國《每日電訊報》7日援引知情官員的話報道，美國總統特朗普已放棄透過外交手段獲得丹麥自治領地格陵蘭島，重拾“強買”立場。報道同時披露，英國政府官員或參與調和，勸說特朗普放棄強硬立場。（新華社）"
-    },
-    {
-      "id": "te:economy:565283",
-      "time": "2026-07-08 19:32:15",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Albania",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Albania Annual Inflation at 2024-Highs — Albania’s annual inflation rate accelerated to 3.2% in June 2026, reaching its highest level since January 2024, up from 3.0% in May. The increase was mainly driven by stronger price growth in food and non-alcoholic beverages (3.0% vs. 2.2%) and housing and utilities (4.8% vs. 4.2%). Inflation also picked up for restaurants and hotels (3.3% vs. 3.0%), alcoholic beverages and tobacco (3.5% vs. 3.4%), recreation and culture (6.1% vs. 4.2%), education (2.3% vs. 2.1%), and health (1.7% vs. 1.6%). Meanwhile, price growth slowed for transport (3.2% vs. 7.8%), furnishings and household equipment (2.7% vs. 2.8%), and communications (0.6% vs. 0.5%), while clothing and footwear prices fell further (-0.9% vs. -0.5%). On a monthly basis, consumer prices declined 0.1% in June, extending the fall from 0.04% in May."
-    },
-    {
-      "id": "4976714",
-      "time": "2026-07-08 19:32:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印度10年期基準政府債券收益率收於6.7636%；前一交易日收盤價為6.6958%。"
-    },
-    {
-      "id": "te:markets:565280",
-      "time": "2026-07-08 19:31:25",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Fall Further — Futures tracking US stock indices fell on Wednesday, extending declines from yesterday as higher energy prices added to a deteriorating macroeconomic backdrop. Contracts for the S&P 500 and the Dow fell over 1% and those for the Nasdaq 100 dropped 1.6%. Treasury yields rose after President Trump invalidated the ceasefire with Iran following strikes by both sides, driving oil prices to surge and markets to reconsider inflationary risks. Insights on the Fed's willingness to raise interest rates could be uncovered with minutes of the FOMC's June meeting to be released shortly. Credit-sensitive sectors fell, with banks and industrials down premarket. Chips also extended their rout on concerns that hyperscalers will be forced to slow spending in AI infrastructure, while reports that major Chinese companies are starting chip projects hampered the outlook on their market shares. Micron, Sandisk, and Nvidia were sharply lower premarket, while Meta, Amazon, and Microsoft fell up to 2%."
-    },
-    {
-      "id": "te:markets:565279",
-      "time": "2026-07-08 19:31:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Sugar Futures Near 2-Month Highs — Sugar futures in the US traded above 15 US cents, the highest level since mid-May, partly supported by higher oil prices that encourage cane diversion to ethanol production and could tighten supply of the sweetener. At the same time, concerns over global supplies persisted, with a strengthening El Niño threatening crop production in key growing regions. The market continued to monitor the development of the crop in top producer Brazil and also India, where the rainfall deficit during the monsoon season maintained uncertainties about production. The latest data showed sugar production in Brazil's key Center-South region fell about 3% yoy to 2.31 million tons in the first half of June."
-    },
-    {
-      "id": "4976711",
-      "time": "2026-07-08 19:31:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "德意志銀行將藉助美洲開發銀行 5.5 億美元擔保，向阿根廷提供最高 12 億美元貸款。"
-    },
-    {
-      "id": "4976710",
-      "time": "2026-07-08 19:30:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國10年期國債實際收益率上漲7個基點至1.79%，為2009年以來最高水平。"
-    },
-    {
-      "id": "4976709",
-      "time": "2026-07-08 19:30:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瑞銀建議投資者買入ADR、同時做空SK海力士韓國上市股票】由於韓國上市股票轉換為ADR受到限制，套利交易可能受限，或導致ADR較普通股出現溢價交易。瑞銀集團在最新發布的報告中表示，建議投資者買入ADR、同時做空SK海力士韓國上市股票，理由是ADR掛牌後大機率享有溢價，而折價風險極低。瑞銀的銷售和交易部門在給客戶的報告中指出，對於對沖基金之類的投資者來說，這些ADR可能比韓國股票更具吸引力，因為持有效率更高、成本更低。此外，部分此前無法將韓國上市股票納入投資範圍的全球基金經理，將可透過美股市場進行配置SK海力士。瑞銀在報告中毫不掩飾對這一策略的看好：“從第一天開始就做多ADR並做空韓股，沒什麼可猶豫的。”（券商中國）"
-    },
-    {
-      "id": "4976708",
-      "time": "2026-07-08 19:29:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：萊茵金屬在護衛艦專案受挫後有望贏得德國鐳射武器合同。"
-    },
-    {
-      "id": "4976707",
-      "time": "2026-07-08 19:29:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：西班牙對外銀行、桑坦德銀行將透過世界銀行擔保向阿根廷提供至多 20 億美元貸款。"
     }
   ]
 }

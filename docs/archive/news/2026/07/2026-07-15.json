@@ -1,7 +1,134 @@
 {
   "date": "2026-07-15",
-  "count": 2721,
+  "count": 2734,
   "items": [
+    {
+      "id": "mkt:019f658d-1d7c-7aab-8d9f-e884cd1ad1c7",
+      "time": "2026-07-15 19:32:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "HASSETT said Iran's ability to threaten the global economy has declined."
+    },
+    {
+      "id": "mkt:019f658d-18f8-7aab-8d9f-e23d04ab23e7",
+      "time": "2026-07-15 19:32:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "HASSETT said he believes Wosh will guide the Fed to the right decision on interest rates."
+    },
+    {
+      "id": "4989901",
+      "time": "2026-07-15 19:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，科列茨基是最合適的總理候選人。"
+    },
+    {
+      "id": "4989900",
+      "time": "2026-07-15 19:32:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普支援林德爾競選明尼蘇達州州長。"
+    },
+    {
+      "id": "4989899",
+      "time": "2026-07-15 19:32:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德康農牧：預計上半年淨虧損約人民幣12億元至14億元】德康農牧公告，預計2026年上半年將錄得淨虧損約人民幣12億元至14億元，而2025年同期錄得淨利潤約人民幣12.27億元。本期業績由盈轉虧，主要系報告期內生豬市場持續低迷、生豬銷售價格同比大幅下滑，使得本集團核心生豬養殖業務毛利承壓，並錄得毛虧。"
+    },
+    {
+      "id": "4989898",
+      "time": "2026-07-15 19:31:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "哈塞特：伊朗挾持全球經濟的能力已經下降。"
+    },
+    {
+      "id": "4989897",
+      "time": "2026-07-15 19:31:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：資料顯示沒有理由提高利率。"
+    },
+    {
+      "id": "4989896",
+      "time": "2026-07-15 19:31:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度10年期基準國債收益率<IN069436G=CC>收報6.7738%，前收盤價為6.7945%。"
+    },
+    {
+      "id": "mkt:019f658b-b783-7aab-8d9f-d8d523c14165",
+      "time": "2026-07-15 19:31:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "White House National Economic Council director Hassett said data show the Fed has no reason to raise interest rates."
+    },
+    {
+      "id": "4989894",
+      "time": "2026-07-15 19:30:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "哈塞特：尊重沃什將促使美聯儲在利率問題上做出正確的決定。"
+    },
+    {
+      "id": "4989893",
+      "time": "2026-07-15 19:30:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：南非水利基礎設施專案已接近最終階段。"
+    },
+    {
+      "id": "4989892",
+      "time": "2026-07-15 19:29:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "哈塞特：資料顯示沒有理由提高利率。"
+    },
+    {
+      "id": "mkt:019f6589-acca-7aab-8d9f-d69ef6eed51e",
+      "time": "2026-07-15 19:29:09",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "【Buffett says he led Berkshire's investment in Alphabet】CNBC reported Wednesday that Warren Buffett said he personally initiated Berkshire Hathaway’s large investment in Alphabet. Berkshire first disclosed the position in Q3 2025 and has since materially increased it, including a $10 billion private share purchase last month. Buffett, who stepped down as CEO earlier this year but remains chairman, said he and CEO Greg Abel collaborate closely on investment decisions; they consult regularly, though Abel is the ultimate decision-maker."
+    },
     {
       "id": "4989891",
       "time": "2026-07-15 19:28:22",
