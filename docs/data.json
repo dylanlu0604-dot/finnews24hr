@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-15 08:01:22",
-  "count": 18747,
+  "updated": "2026-07-15 08:05:17",
+  "count": 18743,
   "items": [
+    {
+      "id": "4988663",
+      "time": "2026-07-15 08:03:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.2%至270.58點。"
+    },
+    {
+      "id": "mkt:019f6315-c838-7aab-8d8c-172f82ff1461",
+      "time": "2026-07-15 08:03:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【KOSPI surges over 6%, tops 7,200】South Korea's KOSPI rose 6.37% intraday to breach 7,200 points."
+    },
+    {
+      "id": "4988662",
+      "time": "2026-07-15 08:02:49",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲6.4%，至7293.71點。"
+    },
+    {
+      "id": "mkt:019f6315-3875-7aab-8d8c-09af8a2a85c4",
+      "time": "2026-07-15 08:02:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened July 15 (Wednesday) up 434.73 points, or 0.64%, at 68,178.23 points."
+    },
+    {
+      "id": "te:markets:566942",
+      "time": "2026-07-15 08:02:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher on Soft CPI — US stock futures edged higher on Wednesday after the major indexes posted gains in the previous session, as softer-than-expected inflation data reduced expectations of a near-term Federal Reserve interest rate hike. The annual US inflation rate slowed to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped curb energy inflation. Consumer prices also declined 0.4% from the previous month, marking the first monthly drop since 2020. In Tuesday’s regular session, the S&P 500 and Nasdaq Composite rose 0.38% and 0.9%, respectively, while the Dow added 0.02%. Six of the 11 S&P sectors ended in positive territory, with technology, communication services, and energy leading the gains. Banking stocks also advanced following another round of strong quarterly earnings. Investors are now awaiting another wave of corporate results on Wednesday, including earnings from Johnson & Johnson, Morgan Stanley, and BlackRock."
+    },
+    {
+      "id": "mkt:019f6314-c178-7aab-8d8c-01e65df8ddf8",
+      "time": "2026-07-15 08:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【KOSPI opens up 3.49% as SK Hynix jumps 10%】On July 15 (Wednesday) South Korea's KOSPI opened up 239.58 points, or 3.49%, at 7,096.41. SK Hynix rose 10%; Samsung Electronics gained 7%."
+    },
+    {
+      "id": "4988661",
+      "time": "2026-07-15 08:01:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士漲10%，三星電子漲7%。"
+    },
+    {
+      "id": "4988660",
+      "time": "2026-07-15 08:01:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上升0.5個基點，至3.740%。"
+    },
+    {
+      "id": "4988659",
+      "time": "2026-07-15 08:01:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力積電7月起將儲存代工報價上調45%】7月14日，力積電總經理朱憲國在業績說明會上表示，公司自本月起將儲存代工報價上調45%，相關產能預計11月投產，有望進一步拉動營收、提升盈利，同時提高儲存業務在整體營收中的佔比。"
+    },
     {
       "id": "4988658",
       "time": "2026-07-15 08:00:42",
@@ -171501,124 +171595,6 @@
         "觀點"
       ],
       "text": "【中信證券：判斷目前煤炭板塊正處於新一輪反彈中】中信證券預測所跟蹤的樣本煤炭上市公司，2026年二季度淨利潤平均環比增長約31%，2026年上半年同比漲幅約19%，預計焦煤、無煙煤公司業績增速或有更好的彈性。短期雖然煤價有所鬆動，但看好旺季因素催化下的煤價上漲效應。在供給收縮的背景下，預計三季度供需格局繼續改善，利好煤價和板塊業績環比繼續增長。中信證券判斷目前板塊正處於新一輪反彈中，推薦業績彈性好的及冶金煤中估值相對有優勢的公司。"
-    },
-    {
-      "id": "4975176",
-      "time": "2026-07-08 08:04:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌1%，報8,719.90點。"
-    },
-    {
-      "id": "mkt:019f3f09-338d-7aab-8cd9-601a44518eda",
-      "time": "2026-07-08 08:03:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance ministry said it will strengthen its foreign-exchange monitoring system to address volatility during overnight trading."
-    },
-    {
-      "id": "4975175",
-      "time": "2026-07-08 08:03:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【越疆：上半年具身智慧出貨金額超過4000萬元】越疆7月8日在港交所公告稱，截至6月30日，公司累計拓展具身智慧客戶231家，客戶儲備基數充足，已完整覆蓋訂單簽署、送樣驗證、小規模交付及規模使用等商業轉化階段。1-6月，公司具身智慧出貨金額超過4000萬元人民幣，同比保持高速增長，其中覆蓋工業製造客戶近100家，為行業內工業客戶覆蓋最廣的企業之一。"
-    },
-    {
-      "id": "4975174",
-      "time": "2026-07-08 08:02:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將於7月底公佈韓元國際化路線圖。"
-    },
-    {
-      "id": "4975173",
-      "time": "2026-07-08 08:02:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將加強對韓元的24小時監測系統。"
-    },
-    {
-      "id": "mkt:019f3f08-8ff4-7aab-8cd9-5a7b7474007d",
-      "time": "2026-07-08 08:02:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance ministry said it will closely monitor risk factors tied to stock-market volatility and will adjust government bond issuance size to maintain bond-market stability."
-    },
-    {
-      "id": "4975172",
-      "time": "2026-07-08 08:02:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數下跌1%。"
-    },
-    {
-      "id": "te:economy:565001",
-      "time": "2026-07-08 08:02:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Loan Growth",
-        "Importance 1"
-      ],
-      "text": "Japan Bank Lending Growth Stays at Over 5-Year High — Japan’s bank lending rose 5.7% year-on-year in June 2026, falling slightly short of market forecasts for a 5.8% increase and matching May’s pace. The reading remained the strongest since March 2021, with outstanding loans at major, regional, and shinkin banks reaching JPY 676.1 trillion, up from JPY 670.8 trillion in May. Lending growth at major and regional banks accelerated to 6.3% from 6.2%, driven by stronger credit expansion at major banks, where outstanding loans rose 8.7% from 8.6%. Regional banks also saw lending growth edge up to 4.3% from 4.2%, as Regional Banks I accelerated to 4.7% from 4.6%, while Regional Banks II held steady at 2.4%. Meanwhile, lending by shinkin banks, which primarily serve small businesses and local communities, was unchanged at 1.7% year-on-year."
-    },
-    {
-      "id": "4975171",
-      "time": "2026-07-08 08:01:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河證券：建議關注頭部算力租賃廠商】銀河證券指出，伴隨AI推理算力需求爆發，token工廠商業模式提速，與傳統的算力租賃相比，token工廠更加強調與下游大模型推理需求的繫結，定價從“算力資源與時長”逐漸轉向“token產出和單位成本”，上游算力基礎設施更加能參與到下游模型廠商的價值分配，強化了上游算力基礎設施環節的議價能力，並且能共享token經濟時代紅利。銀河證券認為，算力租賃廠商目前與大模型廠商嘗試探索“token工廠”合作模式，將從算力租賃的底層“賣資源”的模式逐漸向“賣產出”的模式演變，算力租賃廠商將提供Maas服務，透過採用token分成的盈利模式，共享token爆發的時代紅利，有望提升算力租賃廠商的利潤率，估值中樞有望進一步提升，建議關注頭部算力租賃廠商。"
-    },
-    {
-      "id": "4975170",
-      "time": "2026-07-08 08:01:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：將調整債券發行以維護債市穩定。"
-    },
-    {
-      "id": "mkt:019f3f07-c136-7aab-8cd9-50f47ca2d052",
-      "time": "2026-07-08 08:01:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI opened down 232.32 points, or 3.03%, at 7,423.99 on Wednesday, July 8. SK Hynix and Samsung Electronics were each down 4%."
-    },
-    {
-      "id": "4975169",
-      "time": "2026-07-08 08:01:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌3.3%，至7407.32。"
-    },
-    {
-      "id": "te:economy:565000",
-      "time": "2026-07-08 08:01:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Japan Current Account Surplus Rises Despite Forecast Miss — Japan’s current account surplus increased to JPY 3,968.3 billion in May 2026 from JPY 3,320.5 billion in the same month a year earlier, though it fell short of market expectations of JPY 4,121 billion. The goods account swung to a marginal surplus of JPY 0.07 billion from a JPY 497.1 billion deficit, as export growth (14.7%) outpaced import growth (8.1%). Meanwhile, the primary income surplus increased to JPY 4,275.6 billion from JPY 4,180.2 billion. The secondary income deficit narrowed to JPY 304.0 billion from JPY 493.5 billion. By contrast, the services account slipped into a marginal deficit of JPY 0.1 billion, reversing from a JPY 130.9 billion surplus a year earlier."
     }
   ]
 }

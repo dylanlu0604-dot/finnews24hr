@@ -1,7 +1,101 @@
 {
   "date": "2026-07-15",
-  "count": 752,
+  "count": 761,
   "items": [
+    {
+      "id": "4988663",
+      "time": "2026-07-15 08:03:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1.2%至270.58點。"
+    },
+    {
+      "id": "mkt:019f6315-c838-7aab-8d8c-172f82ff1461",
+      "time": "2026-07-15 08:03:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【KOSPI surges over 6%, tops 7,200】South Korea's KOSPI rose 6.37% intraday to breach 7,200 points."
+    },
+    {
+      "id": "4988662",
+      "time": "2026-07-15 08:02:49",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）上漲6.4%，至7293.71點。"
+    },
+    {
+      "id": "mkt:019f6315-3875-7aab-8d8c-09af8a2a85c4",
+      "time": "2026-07-15 08:02:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 opened July 15 (Wednesday) up 434.73 points, or 0.64%, at 68,178.23 points."
+    },
+    {
+      "id": "te:markets:566942",
+      "time": "2026-07-15 08:02:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Higher on Soft CPI — US stock futures edged higher on Wednesday after the major indexes posted gains in the previous session, as softer-than-expected inflation data reduced expectations of a near-term Federal Reserve interest rate hike. The annual US inflation rate slowed to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped curb energy inflation. Consumer prices also declined 0.4% from the previous month, marking the first monthly drop since 2020. In Tuesday’s regular session, the S&P 500 and Nasdaq Composite rose 0.38% and 0.9%, respectively, while the Dow added 0.02%. Six of the 11 S&P sectors ended in positive territory, with technology, communication services, and energy leading the gains. Banking stocks also advanced following another round of strong quarterly earnings. Investors are now awaiting another wave of corporate results on Wednesday, including earnings from Johnson & Johnson, Morgan Stanley, and BlackRock."
+    },
+    {
+      "id": "mkt:019f6314-c178-7aab-8d8c-01e65df8ddf8",
+      "time": "2026-07-15 08:02:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "【KOSPI opens up 3.49% as SK Hynix jumps 10%】On July 15 (Wednesday) South Korea's KOSPI opened up 239.58 points, or 3.49%, at 7,096.41. SK Hynix rose 10%; Samsung Electronics gained 7%."
+    },
+    {
+      "id": "4988661",
+      "time": "2026-07-15 08:01:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士漲10%，三星電子漲7%。"
+    },
+    {
+      "id": "4988660",
+      "time": "2026-07-15 08:01:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上升0.5個基點，至3.740%。"
+    },
+    {
+      "id": "4988659",
+      "time": "2026-07-15 08:01:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力積電7月起將儲存代工報價上調45%】7月14日，力積電總經理朱憲國在業績說明會上表示，公司自本月起將儲存代工報價上調45%，相關產能預計11月投產，有望進一步拉動營收、提升盈利，同時提高儲存業務在整體營收中的佔比。"
+    },
     {
       "id": "4988658",
       "time": "2026-07-15 08:00:42",
