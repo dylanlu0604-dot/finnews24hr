@@ -1,7 +1,122 @@
 {
   "date": "2026-07-15",
-  "count": 2620,
+  "count": 2633,
   "items": [
+    {
+      "id": "4989836",
+      "time": "2026-07-15 18:56:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊混元：上線一週，Hy3總呼叫量增長超68倍】7月15日，騰訊混元發文表示，截至今天，騰訊混元大模型Hy3總呼叫量較上一代模型（Hy2）增長已超68倍。"
+    },
+    {
+      "id": "mkt:019f656b-f2ea-7aab-8d9e-d27a1ea1ad2e",
+      "time": "2026-07-15 18:56:41",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "【Capital Economics: Euro area industry faces structural imbalance】Capital Economics analyst Jack Allen-Reynolds says that although euro area industrial output has shown resilience since the Iran conflict erupted, the 21-country currency area faces a structural imbalance. Industrial activity was already in decline before the pandemic and now shows a pronounced K-shaped divergence: output is rising in high-tech and defence while most other sectors are contracting. High energy costs and foreign competition continue to depress traditional manufacturing. \"We doubt any recent EU trade-policy tweaks will produce material change,\" he said."
+    },
+    {
+      "id": "4989835",
+      "time": "2026-07-15 18:56:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南平漯周高鐵魯湛特大橋跨鄭渝高鐵成功轉體】今天（7月15日）凌晨，河南平漯周高鐵魯湛特大橋跨鄭渝高鐵T構梁成功轉體對接，標誌著專案建設取得重要進展。此次魯湛特大橋跨鄭渝高鐵轉體橋採用2×100米T構連續梁設計，轉體總重量高達16000噸，全長201.5米，梁面高度34.5米，是全線噸位最重、跨度最大、高度最高的轉體橋，是平漯周高鐵全線關鍵控制性工程，轉體成功對於整個專案建設推進具有重大意義。（央視新聞）"
+    },
+    {
+      "id": "4989834",
+      "time": "2026-07-15 18:56:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三環集團：董事會換屆選舉 提名7位董事候選人】三環集團公告稱，公司第十一屆董事會任期屆滿，決定進行換屆選舉。第十二屆董事會將由8名董事組成，其中非獨立董事4名，獨立董事3名，職工代表董事1名。董事會提名張萬鎮、李鋼、馬豔紅、邱基華為非獨立董事候選人，提名蔣利軍、蘇彥奇、黃斯穎為獨立董事候選人。上述候選人任職需經深交所備案稽核及公司股東會審議，任期三年。在新一屆董事會就任前，第十一屆董事會仍履職。"
+    },
+    {
+      "id": "4989833",
+      "time": "2026-07-15 18:56:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【青島銀行：持股5%以上股東減持1.84%股份計劃實施完畢】青島銀行公告稱，股東青島海爾產業發展有限公司於2026年7月8日至7月14日，透過大宗交易方式累計減持公司A股股份10709.45萬股，佔公司股份總數的1.84%，減持均價5.21元/股，減持價格區間為5.20元/股至5.23元/股。本次減持後，海爾產業發展持有公司股份42550.6841萬股，佔比7.31%；其與一致行動人合計持股94878.4443萬股，佔比16.30%。本次減持計劃已實施完畢，不會影響公司治理結構及持續經營。"
+    },
+    {
+      "id": "4989832",
+      "time": "2026-07-15 18:55:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華海藥業：聘任徐學健為公司副總裁兼首席質量官】華海藥業公告稱，公司於2026年7月15日召開第九屆董事會第十四次臨時會議，審議透過聘任徐學健為公司副總裁兼首席質量官，全面負責公司的質量管理和分析檢測工作，任期至第九屆董事會屆滿為止。徐學健曾在江蘇恆瑞醫藥等公司任職，截至目前未持有公司股份，與公司相關方不存在關聯關係，符合任職條件。"
+    },
+    {
+      "id": "4989831",
+      "time": "2026-07-15 18:55:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：NICHIREI稱其伺服器遭受網路攻擊。"
+    },
+    {
+      "id": "mkt:019f656a-81f2-7aab-8d9e-cc643078a7d5",
+      "time": "2026-07-15 18:55:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "【Financial Times: European Commission to announce fines and DMA orders against Google within a week】Financial Times reports multiple people familiar say the European Commission plans to issue several separate enforcement decisions against Google within the next week, imposing fines totalling in the hundreds of millions of euros. The measures are said to include the threat of daily penalty payments and new regulatory orders under the EU Digital Markets Act. Under the DMA, breaches can carry fines of up to 10% of global turnover; Alphabet’s revenue last year was $402.83 bln."
+    },
+    {
+      "id": "4989830",
+      "time": "2026-07-15 18:55:05",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【我國進一步規範公共資源交易中心招標投標現場管理】公共資源交易中心承擔著保障招標、投標、開標、評標等活動順利開展的重要職責，是招標投標“第一現場”。今天，國家發展改革委等部門出臺《公共資源交易中心招標投標現場管理暫行辦法》，明確了交易中心現場管理的具體範圍、事項、流程。《辦法》提出交易中心應當對業務大廳、開標區、評標區等場所區域實行分割槽管理；應當對評標區進行封閉管理；對於採用暗標評審的專案，應當按照要求，運用技術手段對投標檔案進行匿名處理。國家發展改革委法規司副司長、一級巡視員於文濤介紹，《公共資源交易中心招標投標現場管理暫行辦法》進一步加大人工智慧、遠端異地評標、“雙盲”評審等成熟做法的推行力度，升級現場管理手段。完善交易中心全過程記錄要求，健全完善異常提醒、線索報告等機制，強化違法行為防控。據介紹，《辦法》將從2027年1月1日起正式施行。（央視新聞）"
+    },
+    {
+      "id": "4989829",
+      "time": "2026-07-15 18:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外媒：一名現役以軍士兵因涉嫌“為伊朗從事間諜活動”被判5年監禁】據報道，以色列國防軍15日表示，一名現役以軍士兵因涉嫌“為伊朗從事間諜活動”被判處5年監禁。以色列軍方稱，這名士兵被控在去年6月以色列、美國和伊朗“12日戰爭”期間向伊方傳送了兩段有關“導彈攔截”的影片，並因此“獲得了報酬”。以軍方稱，這名士兵還與伊朗聯絡人分享了多段在平民場所拍攝的影片，其中包括有顯示導彈撞擊的畫面。（環球網）"
+    },
+    {
+      "id": "4989828",
+      "time": "2026-07-15 18:53:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平在上海考察】中共中央總書記、國家主席、中央軍委主席習近平15日在上海考察時強調，高質量推進城市更新是城市現代化建設的重要抓手，要全面踐行人民城市理念，堅持問需於民、問計於民、問效於民，做深做細做實城市更新各項工作，不斷增強居民群眾的獲得感、幸福感、安全感。(新華社)"
+    },
+    {
+      "id": "mkt:019f6569-6638-7aab-8d9e-c6735af3d563",
+      "time": "2026-07-15 18:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xi inspects Shanghai】Xi inspected Shanghai on the 15th and said high-quality urban renewal is a key instrument of urban modernization. He urged full implementation of the people's city concept—soliciting and responding to residents' needs—and deeper, more thorough urban-renewal work to strengthen residents' sense of gain, well-being and safety."
+    },
+    {
+      "id": "4989827",
+      "time": "2026-07-15 18:52:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：帕特里克·德拉希旗下的Altice國際集團被指拖欠20億歐元債務。"
+    },
     {
       "id": "4989826",
       "time": "2026-07-15 18:52:27",
