@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-16 03:38:40",
-  "count": 18615,
+  "updated": "2026-07-16 03:42:38",
+  "count": 18622,
   "items": [
+    {
+      "id": "4990671",
+      "time": "2026-07-16 03:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部：巴林響起警報。"
+    },
+    {
+      "id": "4990670",
+      "time": "2026-07-16 03:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "摩洛哥將加入加沙穩定部隊。"
+    },
+    {
+      "id": "4990669",
+      "time": "2026-07-16 03:41:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普稱讚波音公司執行長。"
+    },
+    {
+      "id": "4990668",
+      "time": "2026-07-16 03:41:19",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "特朗普稱讚摩根大通CEO傑米·戴蒙。"
+    },
+    {
+      "id": "mkt:019f674c-13ab-7aab-8daf-cd809733d4cb",
+      "time": "2026-07-16 03:41:06",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "US President Trump said on defense that the U.S. needs to spend more on defense production."
+    },
+    {
+      "id": "4990667",
+      "time": "2026-07-16 03:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談國防：我們需要在國防生產上再多投入一點資金。"
+    },
+    {
+      "id": "4990666",
+      "time": "2026-07-16 03:40:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美伊局勢目前進展向好，伊朗極度希望達成和解；後續將見分曉，要麼握手言和，要麼徹底了結衝突。"
+    },
+    {
+      "id": "4990663",
+      "time": "2026-07-16 03:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：宣佈將向國防產業投入近100億美元。"
+    },
+    {
+      "id": "mkt:019f6749-cb83-7aab-8daf-c63d308bcba2",
+      "time": "2026-07-16 03:38:37",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "US President Trump said he will announce nearly $10 billion in investment in the defense industrial sector."
+    },
     {
       "id": "mkt:019f6749-3adf-7aab-8daf-be46766c8312",
       "time": "2026-07-16 03:38:00",
@@ -171273,26 +171356,6 @@
         "公司"
       ],
       "text": "【裕信銀行持股比例將突破47%，距離掌控德國商業銀行更進一步】義大利裕信銀行（UniCredit SpA）執行長Andrea Orcel距離掌控德國商業銀行（Commerzbank AG）又近了一步。隨著投資者認售了足夠的股份，這家義大利銀行的潛在持股比例已升至47.6%。根據7月8日釋出的一份宣告，截至7月3日的接受截止日期，代表德國商業銀行17.6%資本的股份已被認售，其中包括在兩週延期期間認售的超過5%的股份。裕信銀行此前已持有略低於30%的股份，包括實物股票和可轉換為股票的衍生品。"
-    },
-    {
-      "id": "4977565",
-      "time": "2026-07-09 03:42:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【“美聯儲傳聲筒”：美聯儲的分歧更多是關於未來發展，而非當前舉措】“美聯儲傳聲筒”Nick Timiraos表示，6月份，就連最鷹派的美聯儲官員也未積極推動採取行動。根據會議紀要，部分與會者認為在6月會議上有必要提高利率，但支援維持現狀，這表明預測中顯現的分歧更多是關於未來走勢如何發展，而非當前應採取何種措施。"
-    },
-    {
-      "id": "mkt:019f433f-f623-7aab-8cfd-9f5fc48b967d",
-      "time": "2026-07-09 03:41:32",
-      "tags": [
-        "MKT News",
-        "DKNG.O",
-        "Impact bullish",
-        "FLTR.L"
-      ],
-      "text": "Investor Michael Burry has bought shares in DraftKings and Flutter, betting that future tighter regulation of prediction markets could benefit the two sports-betting companies."
     }
   ]
 }

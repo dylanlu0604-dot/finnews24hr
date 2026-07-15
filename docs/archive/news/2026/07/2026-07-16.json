@@ -1,7 +1,90 @@
 {
   "date": "2026-07-16",
-  "count": 297,
+  "count": 306,
   "items": [
+    {
+      "id": "4990671",
+      "time": "2026-07-16 03:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部：巴林響起警報。"
+    },
+    {
+      "id": "4990670",
+      "time": "2026-07-16 03:41:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "摩洛哥將加入加沙穩定部隊。"
+    },
+    {
+      "id": "4990669",
+      "time": "2026-07-16 03:41:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普稱讚波音公司執行長。"
+    },
+    {
+      "id": "4990668",
+      "time": "2026-07-16 03:41:19",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "特朗普稱讚摩根大通CEO傑米·戴蒙。"
+    },
+    {
+      "id": "mkt:019f674c-13ab-7aab-8daf-cd809733d4cb",
+      "time": "2026-07-16 03:41:06",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "US President Trump said on defense that the U.S. needs to spend more on defense production."
+    },
+    {
+      "id": "4990667",
+      "time": "2026-07-16 03:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談國防：我們需要在國防生產上再多投入一點資金。"
+    },
+    {
+      "id": "4990666",
+      "time": "2026-07-16 03:40:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美伊局勢目前進展向好，伊朗極度希望達成和解；後續將見分曉，要麼握手言和，要麼徹底了結衝突。"
+    },
+    {
+      "id": "4990663",
+      "time": "2026-07-16 03:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：宣佈將向國防產業投入近100億美元。"
+    },
+    {
+      "id": "mkt:019f6749-cb83-7aab-8daf-c63d308bcba2",
+      "time": "2026-07-16 03:38:37",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "US President Trump said he will announce nearly $10 billion in investment in the defense industrial sector."
+    },
     {
       "id": "mkt:019f6749-3adf-7aab-8daf-be46766c8312",
       "time": "2026-07-16 03:38:00",
