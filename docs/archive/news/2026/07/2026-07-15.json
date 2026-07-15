@@ -1,7 +1,141 @@
 {
   "date": "2026-07-15",
-  "count": 908,
+  "count": 921,
   "items": [
+    {
+      "id": "mkt:019f635e-da46-7aab-8d8d-5750db86e3e6",
+      "time": "2026-07-15 09:23:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong PCB-related stocks opened higher. Kingboard Laminates (01888.HK) rose 5.06% at the open, Kingboard Holdings (00148.HK) was up just over 4%, and Dazhu CNC (03200.HK) gained just over 3%."
+    },
+    {
+      "id": "te:markets:566960",
+      "time": "2026-07-15 09:22:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Extends Fall on Soft Inflation Data — The dollar index weakened below 101 on Wednesday, marking its second consecutive session of losses after softer-than-expected US inflation data reduced expectations of a near-term Federal Reserve interest rate hike. The annual US inflation rate eased to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped moderate energy inflation. Consumer prices also fell 0.4% from the previous month, registering their first monthly decline since 2020. Meanwhile, Fed Chair Kevin Warsh reiterated the central bank’s commitment to restoring price stability during congressional testimony on Tuesday but stopped short of signaling a more hawkish policy stance. Markets continue to price in roughly a 50% chance of a Fed rate hike in September, as renewed tensions between the US and Iran lifted oil prices and kept inflationary pressures in focus."
+    },
+    {
+      "id": "mkt:019f635e-031f-7aab-8d8d-4f324c7bd141",
+      "time": "2026-07-15 09:22:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Hang Seng Tech Index",
+        "Hang Seng China Enterprises Index"
+      ],
+      "text": "Hong Kong open, July 15: Hang Seng Index (HSI) up 210.61 pts (+0.87%) at 24,551.34; Hang Seng Tech Index up 36.72 pts (+0.78%) at 4,716.18; Hang Seng China Enterprises Index up 49.81 pts (+0.61%) at 8,152.89; Red Chip Index up 4.37 pts (+0.11%) at 3,939.77."
+    },
+    {
+      "id": "4988771",
+      "time": "2026-07-15 09:21:56",
+      "tags": [
+        "焦點"
+      ],
+      "text": "港股恒指高開漲0.87％，國企指數漲0.61％，恒生科技指數開漲0.78%。"
+    },
+    {
+      "id": "4988770",
+      "time": "2026-07-15 09:21:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行逆回購今日淨投放4,115.0億元人民幣。"
+    },
+    {
+      "id": "4988769",
+      "time": "2026-07-15 09:21:19",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "20年期日本國債收益率上漲2.0個基點，至3.515%。"
+    },
+    {
+      "id": "mkt:019f635c-f40b-7aab-8d8d-426b0343ad03",
+      "time": "2026-07-15 09:21:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted 7-day reverse repos today totaling 426.5 billion yuan, accepting the full 426.5 billion yuan of bids at a 1.40% rate, unchanged from the previous operation."
+    },
+    {
+      "id": "4988768",
+      "time": "2026-07-15 09:21:01",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展4,265億元7天期逆回購操作，利率1.40%，與上次持平。"
+    },
+    {
+      "id": "te:markets:566957",
+      "time": "2026-07-15 09:20:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Holds Near 2-Month High — US heating oil prices held around $4.0 per gallon, near the highest level since May 21, driven by intensifying concerns over fuel supplies. US forces launched fresh strikes on Iranian targets and resumed a naval blockade of Iranian shipping through the Strait of Hormuz. President Donald Trump warned of further attacks unless Tehran returns to negotiations but also backed away from a proposed 20% charge on shipments through the strait. Adding to supply concerns, disruptions to Russian energy infrastructure following continued Ukrainian strikes prompted Russia to consider suspending diesel exports, as refinery outages and higher crude costs weighed on domestic fuel availability. Meanwhile, Kazakhstan’s Caspian Pipeline Consortium cut June shipments by 7% due to maintenance at the Tengiz oilfield and weaker Russian flows. At the same time, warmer-than-normal temperatures expected through July 28 are likely to sustain elevated fuel demand from the power sector."
+    },
+    {
+      "id": "4988767",
+      "time": "2026-07-15 09:20:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超威電源集團在新疆成立礦業新公司】企查查APP顯示，近日，新疆超威礦業有限公司成立，經營範圍包含：常用有色金屬冶煉；有色金屬合金銷售；鍛件及粉末冶金製品銷售等。企查查股權穿透顯示，該公司由超威電源集團有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019f635c-4d9f-7aab-8d8d-38598715ab36",
+      "time": "2026-07-15 09:20:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Sputnik reported Russian air strikes in Ukraine's Odesa region. Preliminary local reports said strikes hit Neptune and Flamingo missile launchers and the area near Shkolnyi airport, which Ukrainian forces have used to launch drones toward Crimea."
+    },
+    {
+      "id": "mkt:019f635c-1385-7aab-8d8d-32815eacb9da",
+      "time": "2026-07-15 09:20:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "The National Bureau of Statistics will release in 10 minutes its monthly residential sales-price report for 70 major and medium-sized Chinese cities."
+    },
+    {
+      "id": "te:markets:566956",
+      "time": "2026-07-15 09:19:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Stocks Rise to One-Week High — Australian shares rose 40 points, or 0.5%, to 8,848 in Wednesday morning trade, snapping a two-day lull and touching their highest level in a week. The rebound tracked firmer U.S. futures after semiconductor stocks rallied overnight, while cooler-than-expected U.S. inflation sharply reduced odds of a July rate hike. Local sentiment also improved, with July consumer sentiment and June business mood recovering as geopolitical tensions eased. Gains, however, were capped by caution ahead of China’s Q2 GDP release later today, with markets bracing for signs of slowing activity. Electronic tech led the advance alongside non-energy minerals, industrial services, and commercial services. Three of the big four banks posted modest rises, while heavyweight BHP Group surged nearly 4% on optimism over Chinese infrastructure demand. Other notable movers included Megaport (3.7%), Challenger Ltd. (2.6%), and Capricorn Metals (2.0%), underscoring broad-based though measured strength across sectors."
+    },
     {
       "id": "te:markets:566955",
       "time": "2026-07-15 09:18:47",
