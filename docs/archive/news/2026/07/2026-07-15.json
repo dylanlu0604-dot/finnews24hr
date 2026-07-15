@@ -1,7 +1,151 @@
 {
   "date": "2026-07-15",
-  "count": 2598,
+  "count": 2614,
   "items": [
+    {
+      "id": "4989821",
+      "time": "2026-07-15 18:48:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國儲能科技發展：法院會議及股東特別大會批准私有化計劃，預計8月5日撤銷上市地位】中國儲能科技發展公告，公司此前披露名堡企業有限公司擬透過協議安排方式將其私有化。法院會議及股東特別大會於2026年7月15日舉行，批准計劃的決議案已獲透過。法院會議上，計劃股東投票中贊成票佔99.99%，反對票佔0.01%；無利害關係計劃股東投票中贊成票佔99.99%，反對票佔0.01%。股東特別大會上，批准削減股本併發行新股份的特別決議案以99.99%贊成票透過。待計劃於2026年8月4日（開曼群島時間）生效後，預期股份於聯交所撤銷上市地位將於2026年8月5日下午四時正起生效。"
+    },
+    {
+      "id": "mkt:019f6564-6ba3-7aab-8d9e-b3d7ded5adbf",
+      "time": "2026-07-15 18:48:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Standard Chartered: Higher-rate environment may prompt more cautious capex】Standard Chartered chief strategist Eric Robertson said we have entered an era of structurally higher interest rates. He said US rates are unlikely to return to zero and that rates in Europe and Japan have also risen. A key long-term implication will be tighter capital allocation—financing costs of 4–5% will force stricter project selection compared with a zero-rate environment. He added this does not imply capital scarcity: tens of trillions of dollars remain parked in US money-market funds and alternative asset managers hold large pools of capital."
+    },
+    {
+      "id": "mkt:019f6563-b2eb-7aab-8d9e-aadf4e21882b",
+      "time": "2026-07-15 18:47:40",
+      "tags": [
+        "MKT News",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "FT reports Brussels is preparing a new round of fines on Google as regulatory pressure on Big Tech increases."
+    },
+    {
+      "id": "mkt:019f6563-915b-7aab-8d9e-a1afca6df9aa",
+      "time": "2026-07-15 18:47:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said U.S. crime has fallen sharply and blamed President Biden's open-border policies for allowing about 25 million people to enter the United States without restriction or screening, saying many are criminals and must be expelled."
+    },
+    {
+      "id": "4989820",
+      "time": "2026-07-15 18:46:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：隨著大型科技監管執法力度加大，布魯塞爾準備對谷歌開出新罰單。"
+    },
+    {
+      "id": "4989819",
+      "time": "2026-07-15 18:46:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟在地震後向委內瑞拉提供額外2000萬歐元援助。"
+    },
+    {
+      "id": "mkt:019f6562-b87b-7aab-8d9e-9b792cce1b76",
+      "time": "2026-07-15 18:46:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Union to provide an additional EUR20 mln in aid to Venezuela after earthquake."
+    },
+    {
+      "id": "4989818",
+      "time": "2026-07-15 18:46:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不能放棄ICE交通攔截。"
+    },
+    {
+      "id": "4989817",
+      "time": "2026-07-15 18:46:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在社交平臺上發帖讚揚美國移民及海關執法局 (ICE)。"
+    },
+    {
+      "id": "4989816",
+      "time": "2026-07-15 18:45:55",
+      "tags": [
+        "觀點"
+      ],
+      "text": "蒙特利爾銀行：將高盛(GS.N)目標價從1070美元上調至1190美元。"
+    },
+    {
+      "id": "mkt:019f6561-fb19-7aab-8d9e-93556485cd09",
+      "time": "2026-07-15 18:45:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Kazakh President Tokayev arrived in Shanghai to attend the 2026 World Artificial Intelligence Conference and the High-Level Meeting on Global AI Governance."
+    },
+    {
+      "id": "4989815",
+      "time": "2026-07-15 18:45:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約銀行預計全年支出同比增長6%-7%。"
+    },
+    {
+      "id": "mkt:019f6561-c611-7aab-8d9e-8bc0bac5b36e",
+      "time": "2026-07-15 18:45:34",
+      "tags": [
+        "MKT News",
+        "GS.N",
+        "Impact bullish"
+      ],
+      "text": "BMO raises Goldman Sachs (GS.N) price target to $1,190 from $1,070."
+    },
+    {
+      "id": "4989814",
+      "time": "2026-07-15 18:45:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【知網：對AI署名論文已做下架處理】同方知網數字科技有限公司釋出宣告稱，近期部分期刊刊發了將DeepSeek、Gemini等人工智慧（AI）列為作者的論文，在業界引發版權權屬、學術規範相關合規爭議。對此類AI署名論文，知網已做下架處理。"
+    },
+    {
+      "id": "4989813",
+      "time": "2026-07-15 18:45:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【哈薩克總統託卡耶夫抵達上海 出席2026世界人工智慧大會暨人工智慧全球治理高階別會議】15日，哈薩克總統託卡耶夫乘機抵達上海虹橋國際機場，他將出席7月17日至20日在上海舉行的2026世界人工智慧大會暨人工智慧全球治理高階別會議。（央視新聞）"
+    },
+    {
+      "id": "te:economy:567192",
+      "time": "2026-07-15 18:45:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "India Unemployment Rate Unexpectedly Holds — The unemployment rate in India remained unchanged from the previous month at 5.5% in June of 2026, the highest in nearly one year, slightly above market expectations that it would ease to 5.4%. The surge in energy prices due to the halt of commercial vessel flows in the Persian Gulf weakened the rupee and dampened the purchasing power for household and businesses. The unemployment rate rose to 6.6% for urban centers from 6.4% in the previous month. This was enough to offset a 0.1 percentage point drop for unemployment in rural areas of India, easing from a one-year high. Still, the unemployment rate inched down by 0.1 percentage point from the corresponding period of the previous year. The employment rate remained unchanged at the 11-month low of 51.4%, and the labor force participation rate remained at the 11-month low of 54.4%."
+    },
     {
       "id": "4989812",
       "time": "2026-07-15 18:44:47",
