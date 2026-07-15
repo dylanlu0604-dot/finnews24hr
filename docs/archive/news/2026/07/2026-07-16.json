@@ -1,7 +1,63 @@
 {
   "date": "2026-07-16",
-  "count": 541,
+  "count": 548,
   "items": [
+    {
+      "id": "4990866",
+      "time": "2026-07-16 07:17:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署的比羅爾表示，市場對伊朗衝突再度升級感到“緊張”。"
+    },
+    {
+      "id": "mkt:019f6810-5d8b-7aab-8db1-d73fc080cf73",
+      "time": "2026-07-16 07:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported a major explosion at Kuwait's Ali Al-Salem base."
+    },
+    {
+      "id": "mkt:019f6810-5d7e-7aab-8db1-ca591ab29f62",
+      "time": "2026-07-16 07:15:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SpaceXAI open-sources Grok Build, resets usage limits】On July 15, Musk-owned SpaceXAI said it has open-sourced Grok Build and reset all users' usage limits. The company said Grok Build has adhered to a zero-data-retention (ZDR) principle since launch and that users can disable data upload via the CLI. It acknowledged that in the early beta non‑ZDR users had retention enabled by default; from July 12 the firm disabled default retention for all Grok Build users and is deleting previously retained code data to align with user preferences."
+    },
+    {
+      "id": "4990865",
+      "time": "2026-07-16 07:15:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出黃色暴雨警告。"
+    },
+    {
+      "id": "mkt:019f6810-2dda-7aab-8db1-c1ed46e6e99b",
+      "time": "2026-07-16 07:15:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reports several loud explosions heard at multiple locations in Bahrain."
+    },
+    {
+      "id": "4990864",
+      "time": "2026-07-16 07:15:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【A股半年報披露啟幕 深市兩家公司率先“交卷”】7月15日晚，A股上市公司2026年半年報披露拉開序幕，深市公司優彩資源、沃華醫藥率先“交卷”。創業板公司首份半年報將由昊志機電於7月21日釋出。此外，寧德時代、海康威視、道氏技術、澄天偉業、聚燦光電等5家深市公司將於7月25日披露半年報。從行業分佈來看，深市首批披露半年報的公司涉及醫藥、新能源、高階製造、煤炭有色、消費電子及新材料等核心產業鏈。（上海證券報）"
+    },
+    {
+      "id": "4990863",
+      "time": "2026-07-16 07:14:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【執行基金資訊披露新規 多隻公募產品二季報首次披露長期業績】2026年基金二季報是公募基金資訊披露新規落地後的首批定期報告，成立期限滿足新規要求的公募基金在二季報中首次披露過去7年、10年的長期業績。業內人士表示，在資訊披露、績效考核等引導下，公募基金行業的長期價值導向愈發凸顯。7月15日，中歐鼎利債券釋出二季報，首次披露近7年淨值增長率；7月14日，平安基金髮布旗下多隻產品的二季報，平安策略先鋒混合、平安行業先鋒混合等均披露了過去7年、10年的淨值增長率。此外，華富基金、長城基金等公司旗下部分產品在二季報中披露了多維度的業績表現，為投資者瞭解產品中長期業績提供了便利。（上海證券報）"
+    },
     {
       "id": "4990862",
       "time": "2026-07-16 07:12:22",
