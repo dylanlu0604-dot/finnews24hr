@@ -1,7 +1,20 @@
 {
   "date": "2026-07-16",
-  "count": 61,
+  "count": 62,
   "items": [
+    {
+      "id": "mkt:019f66b3-a5c0-7aab-8dac-81bc665b43a7",
+      "time": "2026-07-16 00:54:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fitch Ratings expects French regional finances to continue improving in 2026."
+    },
     {
       "id": "4990516",
       "time": "2026-07-16 00:52:46",
