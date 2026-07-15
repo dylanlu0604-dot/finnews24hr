@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-16 03:34:36",
-  "count": 18607,
+  "updated": "2026-07-16 03:38:40",
+  "count": 18615,
   "items": [
+    {
+      "id": "mkt:019f6749-3adf-7aab-8daf-be46766c8312",
+      "time": "2026-07-16 03:38:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said on Iran he would see if an agreement with them can be reached."
+    },
+    {
+      "id": "4990660",
+      "time": "2026-07-16 03:37:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我們能否與伊朗達成和解，屆時自有分曉。"
+    },
+    {
+      "id": "mkt:019f6748-964f-7aab-8daf-b467b4981e8f",
+      "time": "2026-07-16 03:37:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump on Iran: they want to reach an agreement."
+    },
+    {
+      "id": "4990659",
+      "time": "2026-07-16 03:36:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗非常渴望達成和解。"
+    },
+    {
+      "id": "4990658",
+      "time": "2026-07-16 03:36:43",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "結算後交易中，原油價格延續漲勢，WTI原油價格突破80美元/桶。"
+    },
+    {
+      "id": "mkt:019f6748-0e4b-7aab-8daf-abff274c164a",
+      "time": "2026-07-16 03:36:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Wall Street Journal reports President Trump is considering expanded military action against Iran, including intensified airstrikes, deploying ground forces to seize islands near the Strait of Hormuz, and strikes on nuclear-related facilities, but no final decision has been made."
+    },
+    {
+      "id": "4990657",
+      "time": "2026-07-16 03:36:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普傾向擴大美國在伊朗的軍事行動】多名美國官員表示，經過數日高階幕僚的專項簡報，特朗普有意擴大美國針對伊朗的軍事行動。備選方案包含加大空襲力度、派遣地面部隊攻佔霍爾木茲海峽附近伊朗島嶼，以及轟炸一處可用於秘密核活動的加固工事。"
+    },
+    {
+      "id": "te:markets:567309",
+      "time": "2026-07-16 03:36:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "McDonalds Stock Price Hits 23-month Low — McDonalds shares decreased to 264.51 USD, the lowest since August 2024. Over the past 4 weeks, McDonalds lost 8.11%, and in the last 12 months, it decreased 11.49%."
+    },
+    {
+      "id": "4990656",
+      "time": "2026-07-16 03:35:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國擴大對伊朗行動的方案或將投入地面部隊。"
+    },
+    {
+      "id": "4990655",
+      "time": "2026-07-16 03:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普昨日在會議中談及奪取伊朗哈爾克島。"
+    },
     {
       "id": "mkt:019f6745-af45-7aab-8daf-a7fea94639c6",
       "time": "2026-07-16 03:34:07",
@@ -171197,26 +171293,6 @@
         "FLTR.L"
       ],
       "text": "Investor Michael Burry has bought shares in DraftKings and Flutter, betting that future tighter regulation of prediction markets could benefit the two sports-betting companies."
-    },
-    {
-      "id": "mkt:019f433c-1cb2-7aab-8cfd-93d60c266a3a",
-      "time": "2026-07-09 03:37:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "USDJPY"
-      ],
-      "text": "【Analyst: US and Iran enter talks-while-pressuring phase; tensions likely to recur】Al Jazeera cited Iran analyst Mortazavi saying that after the end of direct exchanges the US and Iran have entered a phase where diplomatic talks coexist with military pressure. The current understanding, she said, merely pauses hostilities and does not resolve core disputes; both sides are testing red lines and seeking leverage for future negotiations. Mortazavi said Iran remains willing to talk but is maintaining military pressure to strengthen its bargaining position amid limited trust in the US, with some officials treating the deal as a temporary ceasefire rather than a move toward lasting peace. She warned the coming months could see repeated episodes of tension and localized escalations rather than sustained peace or full-scale war."
-    },
-    {
-      "id": "4977564",
-      "time": "2026-07-09 03:35:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta 將在艾伯塔省投建 130 億加後設資料中心，系加拿大首個佈局專案】Meta 於週三宣佈，將在加拿大艾伯塔省中部興建一座超大型資料中心，這也是該公司在加拿大落地的首個算力基地，用以快速擴充算力儲備，支撐全球人工智慧產業爆發式增長。Meta 表示，這座裝機容量 1 吉瓦的資料中心落戶斯特金縣，專案總投資額達 130 億加元（摺合 91.7 億美元）。本次艾伯塔專案落地後，Meta 全球資料中心總數將增至 33 座。Meta 週三透露，將全額出資配套建設發電設施與電網改造工程；這座資料中心耗電量約等同於 80 萬戶居民用電總量。"
     }
   ]
 }
