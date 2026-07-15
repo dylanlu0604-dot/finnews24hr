@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-16 04:15:59",
+  "updated": "2026-07-16 04:19:56",
   "count": 18626,
   "items": [
+    {
+      "id": "4990721",
+      "time": "2026-07-16 04:18:37",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通CEO戴蒙警告Mythos不宜廣泛開放 稱相關風險是“現實問題”】摩根大通執行長傑米·戴蒙表示，Anthropic PBC的Mythos人工智慧(AI)模型帶來的風險是一個“現實問題”，美國政府目前已高度關注。近幾個月來，AI模型的快速發展促使業界和政府評估潛在威脅。此前，Anthropic稱其Mythos模型在發現軟體漏洞方面非常出色，以至於不能向公眾釋出，這使得該問題變得更加緊迫。戴蒙週三在參議員Dave McCormick的賓夕法尼亞防務與創新峰會上警告稱，將一個先進的系統開放給廣大人群使用存在風險。“讓個人使用Mythos，基本上相當於把彈道導彈交到他們手裡，”他說。"
+    },
+    {
+      "id": "mkt:019f676e-037b-7aab-8db0-46f11ee51d07",
+      "time": "2026-07-16 04:18:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, met Treasury Secretary Bessent today to discuss the future tax agenda."
+    },
+    {
+      "id": "mkt:019f676d-54c5-7aab-8db0-3e35a02ae4ce",
+      "time": "2026-07-16 04:17:26",
+      "tags": [
+        "MKT News",
+        "GD.O",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said General Dynamics' progress is slower than we had hoped."
+    },
+    {
+      "id": "mkt:019f676d-1d5c-7aab-8db0-36cf56ec5384",
+      "time": "2026-07-16 04:17:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the United States needs to accelerate submarine construction."
+    },
+    {
+      "id": "4990720",
+      "time": "2026-07-16 04:16:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮高階顧問哈塞特：今天和財長貝森特會面，討論了未來的稅收議程。"
+    },
+    {
+      "id": "4990718",
+      "time": "2026-07-16 04:16:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們需要加快潛艇的建造速度。"
+    },
+    {
+      "id": "4990717",
+      "time": "2026-07-16 04:15:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將採購部分境外建造的艦船，通用動力的進度比我們預期的要慢一些。"
+    },
     {
       "id": "4990716",
       "time": "2026-07-16 04:15:03",
@@ -171295,78 +171357,6 @@
         "國際"
       ],
       "text": "【美軍連續第二天襲擊伊朗】伊朗時間7月8日深夜，美軍中央司令部稱，美軍開始對伊朗實施更多打擊。 (CCTV國際時訊)"
-    },
-    {
-      "id": "4977593",
-      "time": "2026-07-09 04:19:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "據Axios援引美國官員訊息： 週三的打擊行動範圍比此前幾日的襲擊更廣，打擊目標包含伊朗革命衛隊海岸雷達、反艦導彈陣地以及防空系統。"
-    },
-    {
-      "id": "mkt:019f4361-c7cc-7aab-8cfe-51e1806c8572",
-      "time": "2026-07-09 04:18:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "MOODY'S says AI agents with digital-cash capability will reshape the financial sector and broaden the scope of risks."
-    },
-    {
-      "id": "mkt:019f4361-c634-7aab-8cfe-4853b5dc5076",
-      "time": "2026-07-09 04:18:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US military begins further strikes on Iran, CENTCOM says】CENTCOM said at the direction of the US president, US forces have begun further strikes on Iranian targets to degrade Iran’s ability to threaten freedom of navigation in the Strait of Hormuz. The statement said Iran recently carried out “unjustified attacks” on commercial vessels and civilian mariners in the waterway and that the US will hold those responsible accountable."
-    },
-    {
-      "id": "mkt:019f4360-9da0-7aab-8cfe-47d1ac3fdccd",
-      "time": "2026-07-09 04:17:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said the US will hold Iran accountable for recent attacks on commercial vessels."
-    },
-    {
-      "id": "4977592",
-      "time": "2026-07-09 04:16:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "邁赫爾通訊社訊息：伊朗阿曼灣沿岸多處傳來爆炸聲。"
-    },
-    {
-      "id": "mkt:019f435f-d2a4-7aab-8cfe-3e9b0bd3d801",
-      "time": "2026-07-09 04:16:21",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CENTCOM said that at the direction of the US president its forces have begun a new round of strikes against Iran to further degrade its ability to threaten freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "4977591",
-      "time": "2026-07-09 04:16:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍宣告：部隊已開始對伊朗實施新一輪打擊。"
     }
   ]
 }

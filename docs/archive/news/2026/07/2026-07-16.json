@@ -1,7 +1,69 @@
 {
   "date": "2026-07-16",
-  "count": 356,
+  "count": 363,
   "items": [
+    {
+      "id": "4990721",
+      "time": "2026-07-16 04:18:37",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【摩根大通CEO戴蒙警告Mythos不宜廣泛開放 稱相關風險是“現實問題”】摩根大通執行長傑米·戴蒙表示，Anthropic PBC的Mythos人工智慧(AI)模型帶來的風險是一個“現實問題”，美國政府目前已高度關注。近幾個月來，AI模型的快速發展促使業界和政府評估潛在威脅。此前，Anthropic稱其Mythos模型在發現軟體漏洞方面非常出色，以至於不能向公眾釋出，這使得該問題變得更加緊迫。戴蒙週三在參議員Dave McCormick的賓夕法尼亞防務與創新峰會上警告稱，將一個先進的系統開放給廣大人群使用存在風險。“讓個人使用Mythos，基本上相當於把彈道導彈交到他們手裡，”他說。"
+    },
+    {
+      "id": "mkt:019f676e-037b-7aab-8db0-46f11ee51d07",
+      "time": "2026-07-16 04:18:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Hassett, director of the White House National Economic Council, met Treasury Secretary Bessent today to discuss the future tax agenda."
+    },
+    {
+      "id": "mkt:019f676d-54c5-7aab-8db0-3e35a02ae4ce",
+      "time": "2026-07-16 04:17:26",
+      "tags": [
+        "MKT News",
+        "GD.O",
+        "Impact bearish"
+      ],
+      "text": "US President Trump said General Dynamics' progress is slower than we had hoped."
+    },
+    {
+      "id": "mkt:019f676d-1d5c-7aab-8db0-36cf56ec5384",
+      "time": "2026-07-16 04:17:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the United States needs to accelerate submarine construction."
+    },
+    {
+      "id": "4990720",
+      "time": "2026-07-16 04:16:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮高階顧問哈塞特：今天和財長貝森特會面，討論了未來的稅收議程。"
+    },
+    {
+      "id": "4990718",
+      "time": "2026-07-16 04:16:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們需要加快潛艇的建造速度。"
+    },
+    {
+      "id": "4990717",
+      "time": "2026-07-16 04:15:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將採購部分境外建造的艦船，通用動力的進度比我們預期的要慢一些。"
+    },
     {
       "id": "4990716",
       "time": "2026-07-16 04:15:03",
