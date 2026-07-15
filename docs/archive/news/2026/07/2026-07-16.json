@@ -1,7 +1,39 @@
 {
   "date": "2026-07-16",
-  "count": 73,
+  "count": 78,
   "items": [
+    {
+      "id": "4990524",
+      "time": "2026-07-16 01:05:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部預測 2027 年通脹率為 3.6%，此前預期為 3.5%。"
+    },
+    {
+      "id": "mkt:019f66bd-0efe-7aab-8dac-ba63f7854bdf",
+      "time": "2026-07-16 01:04:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reported the Iranian military destroyed a US Lucas drone at Bandar Abbas port."
+    },
+    {
+      "id": "mkt:019f66bc-fa97-7aab-8dac-b33bd45cf38a",
+      "time": "2026-07-16 01:04:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports the U.S. House could vote as soon as next week on legislation to restrict members' stock trading, with House Republicans pushing to revive the measure."
+    },
+    {
+      "id": "4990523",
+      "time": "2026-07-16 01:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "法爾斯通訊社訊息：伊朗軍方在阿巴斯港擊落美軍 “盧卡斯” 無人機。"
+    },
     {
       "id": "4990522",
       "time": "2026-07-16 01:00:03",
@@ -9,6 +41,15 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】國際銅夜盤收跌0.54%，滬銅收跌0.59%，滬鋁收跌0.62%，滬鋅收跌1.10%，滬鉛收跌0.64%，滬鎳收跌0.08%，滬錫收跌2.04%。氧化鋁夜盤收漲0.18%，鋁合金收跌0.28%。不鏽鋼夜盤收漲0.21%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607163807898066",
+      "time": "2026-07-16 00:59:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事庫克表示 有理由相信通脹將繼續降溫】美聯儲理事庫克表示，有理由相信通脹將繼續降溫，但關稅、中東衝突以及人工智慧投資可能導致價格壓力持續；等待通脹進一步放緩一段時間是明智之舉，但若通脹未能很快回落，準備採取行動。"
     },
     {
       "id": "mkt:019f66b8-4c2d-7aab-8dac-afc1bfc0f48d",

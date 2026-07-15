@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-16 01:01:44",
-  "count": 18680,
+  "updated": "2026-07-16 01:05:48",
+  "count": 18661,
   "items": [
+    {
+      "id": "4990524",
+      "time": "2026-07-16 01:05:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部預測 2027 年通脹率為 3.6%，此前預期為 3.5%。"
+    },
+    {
+      "id": "mkt:019f66bd-0efe-7aab-8dac-ba63f7854bdf",
+      "time": "2026-07-16 01:04:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News reported the Iranian military destroyed a US Lucas drone at Bandar Abbas port."
+    },
+    {
+      "id": "mkt:019f66bc-fa97-7aab-8dac-b33bd45cf38a",
+      "time": "2026-07-16 01:04:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports the U.S. House could vote as soon as next week on legislation to restrict members' stock trading, with House Republicans pushing to revive the measure."
+    },
+    {
+      "id": "4990523",
+      "time": "2026-07-16 01:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "法爾斯通訊社訊息：伊朗軍方在阿巴斯港擊落美軍 “盧卡斯” 無人機。"
+    },
     {
       "id": "4990522",
       "time": "2026-07-16 01:00:03",
@@ -9,6 +41,15 @@
         "市場"
       ],
       "text": "【夜盤期貨收盤】國際銅夜盤收跌0.54%，滬銅收跌0.59%，滬鋁收跌0.62%，滬鋅收跌1.10%，滬鉛收跌0.64%，滬鎳收跌0.08%，滬錫收跌2.04%。氧化鋁夜盤收漲0.18%，鋁合金收跌0.28%。不鏽鋼夜盤收漲0.21%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607163807898066",
+      "time": "2026-07-16 00:59:49",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲理事庫克表示 有理由相信通脹將繼續降溫】美聯儲理事庫克表示，有理由相信通脹將繼續降溫，但關稅、中東衝突以及人工智慧投資可能導致價格壓力持續；等待通脹進一步放緩一段時間是明智之舉，但若通脹未能很快回落，準備採取行動。"
     },
     {
       "id": "mkt:019f66b8-4c2d-7aab-8dac-afc1bfc0f48d",
@@ -171698,231 +171739,6 @@
         "公司"
       ],
       "text": "谷歌：谷歌相簿推出由 Gemini Omni 模型驅動的影片混剪功能。"
-    },
-    {
-      "id": "4977409",
-      "time": "2026-07-09 01:05:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國股指跌幅收窄。"
-    },
-    {
-      "id": "4977408",
-      "time": "2026-07-09 01:05:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數下跌0.4%，納斯達克指數下跌0.2%。"
-    },
-    {
-      "id": "4977407",
-      "time": "2026-07-09 01:05:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國高階別防務官員力促伯納姆考慮放鬆財政規則 包括髮行戰爭債券】英國高階別防務官員正在力促安迪·伯納姆重新考慮放寬英國的財政規則，從而籌集軍費，其中包括髮行戰爭債券。據知情官員透露，有望於本月晚些時候接替基爾·斯塔默出任首相的伯納姆以及他團隊中的資深成員預計將探索一系列的融資機制，此前他們已在私底下向內閣大臣保證，他們希望提高國防開支。此前斯塔默多次給戰爭債券的想法潑冷水，認為它只是增加借款的另一種方式。伯納姆一直希望向債券投資者表明，他能夠負責任地管理公共財政，因此已經收回了早先關於應將國防支出排除在英國自我設定的借款上限之外的說法。"
-    },
-    {
-      "id": "mkt:019f42b1-2571-7aab-8cfa-8248b335638a",
-      "time": "2026-07-09 01:05:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US 10-year Treasury yield pared gains after the 10-year auction, trading up 5.22bps at 4.581%."
-    },
-    {
-      "id": "4977406",
-      "time": "2026-07-09 01:04:56",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "美國參議員沃倫就收購計劃質詢花旗集團。"
-    },
-    {
-      "id": "mkt:019f42b0-5273-7aab-8cfa-7f4b87720966",
-      "time": "2026-07-09 01:04:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI will run GPT-5.5 in the background during GPT-Live's initial rollout. GPT-Live in ChatGPT will not support voice interactions that include video or screen sharing."
-    },
-    {
-      "id": "4977405",
-      "time": "2026-07-09 01:04:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率在10年期美債標售過後漲幅收窄；最新報上漲5.22個基點，至4.581%。"
-    },
-    {
-      "id": "mkt:019f42af-fd1c-7aab-8cfa-75b673e92071",
-      "time": "2026-07-09 01:04:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Swiss National Bank chairman said energy prices have also pushed Swiss inflation, while the impact of other factors has been negligible."
-    },
-    {
-      "id": "mkt:019f42af-91d8-7aab-8cfa-6fe1574ea4c3",
-      "time": "2026-07-09 01:03:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said it is rolling out two versions of GPT-Live to global ChatGPT users starting today: GPT-Live-1 and GPT-Live-1 Mini."
-    },
-    {
-      "id": "4977404",
-      "time": "2026-07-09 01:03:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-Live上線之初，ChatGPT將不支援語音功能搭配影片或螢幕共享。"
-    },
-    {
-      "id": "mkt:019f42af-441b-7aab-8cfa-652a0f797583",
-      "time": "2026-07-09 01:03:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI launches GPT-LIVE."
-    },
-    {
-      "id": "4977403",
-      "time": "2026-07-09 01:03:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-Live上線後將在後臺採用GPT-5.5。"
-    },
-    {
-      "id": "4977402",
-      "time": "2026-07-09 01:03:12",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長：能源價格同樣推高瑞士通脹，其他因素影響微不足道。"
-    },
-    {
-      "id": "4977401",
-      "time": "2026-07-09 01:02:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率下降4.580%，低於預售時的4.586%。"
-    },
-    {
-      "id": "4977400",
-      "time": "2026-07-09 01:02:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：今日開始向全球ChatGPT使用者推出GPT-Live的兩個版本，GPT-Live-1與GPT-Live-1 Mini。"
-    },
-    {
-      "id": "mkt:019f42ae-48f4-7aab-8cfa-5eb784d7e744",
-      "time": "2026-07-09 01:02:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's foreign ministry said a renewed outbreak of conflict would not be in the interest of any party."
-    },
-    {
-      "id": "mkt:019f42ae-32c2-7aab-8cfa-50a9278b8d04",
-      "time": "2026-07-09 01:02:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "U.S. 10-year Treasury auction on July 8: 40.29% of awarded volume at the stop-out rate, versus 71.34% previously."
-    },
-    {
-      "id": "mkt:019f42ae-27de-7aab-8cfa-482629ba2495",
-      "time": "2026-07-09 01:02:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "U.S. 10-year Treasury auction on July 8: stop-out yield 4.58% vs 4.54% prior (+4 bps)."
-    },
-    {
-      "id": "mkt:019f42ae-21da-7aab-8cfa-46dc023a9fcb",
-      "time": "2026-07-09 01:02:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 10-year Treasury auction bid-cover ratio 2.59 at the July 8 auction, previous 2.57."
-    },
-    {
-      "id": "mkt:019f42ae-21c3-7aab-8cfa-3879d04d0204",
-      "time": "2026-07-09 01:02:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said the country will steadfastly defend its national interests and exercise state sovereignty."
-    },
-    {
-      "id": "mkt:019f42ae-021c-7aab-8cfa-37bc93d95203",
-      "time": "2026-07-09 01:02:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 10-Year Note Auction Bid/Cover Ratio (Jul.8) | actual 2.59 | previous 2.57"
-    },
-    {
-      "id": "mkt:019f42ae-01f8-7aab-8cfa-28e66a17d4ec",
-      "time": "2026-07-09 01:02:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 10-Year Note Auction Accepted at High (Jul.8) | actual 40.29% | previous 71.34%"
-    },
-    {
-      "id": "mkt:019f42ae-01de-7aab-8cfa-264f614295fd",
-      "time": "2026-07-09 01:02:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | 10-Year Note Auction High Yield Rate (Jul.8) | actual 4.58% | previous 4.54%"
-    },
-    {
-      "id": "4977399",
-      "time": "2026-07-09 01:02:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：推出GPT-Live實時互動服務。"
     }
   ]
 }
