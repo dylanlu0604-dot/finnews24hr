@@ -1,7 +1,104 @@
 {
-  "updated": "2026-07-16 03:01:51",
-  "count": 18594,
+  "updated": "2026-07-16 03:06:24",
+  "count": 18595,
   "items": [
+    {
+      "id": "mkt:019f672a-e4e2-7aab-8daf-28426659ea8f",
+      "time": "2026-07-16 03:04:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kuwait defense ministry spokesman said Iran's \"aggressive actions\" targeted multiple critical facilities, causing property damage but no casualties."
+    },
+    {
+      "id": "4990617",
+      "time": "2026-07-16 03:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特表示，伊朗週三發動的襲擊造成設施受損，暫無人員傷亡。"
+    },
+    {
+      "id": "mkt:019f672a-555f-7aab-8daf-211482a899ae",
+      "time": "2026-07-16 03:04:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Kuwait said its armed forces intercepted 4 cruise missiles and 21 drones from Iran on Wednesday."
+    },
+    {
+      "id": "4990614",
+      "time": "2026-07-16 03:03:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特稱其武裝部隊週三攔截了來自伊朗的四枚巡航導彈和二十一架無人機。"
+    },
+    {
+      "id": "4990613",
+      "time": "2026-07-16 03:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE資料顯示，2025/26種植年度巴西羅布斯塔咖啡出口量為503萬袋（每袋60公斤），較上年下降23.5%。"
+    },
+    {
+      "id": "4990612",
+      "time": "2026-07-16 03:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，2025/26作物年度巴西阿拉比卡咖啡出口量為2950萬袋（每袋60公斤），較上年同期下滑15.3%。"
+    },
+    {
+      "id": "4990611",
+      "time": "2026-07-16 03:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，2025/26作物年度巴西生咖啡出口量為3453萬袋（每袋60公斤），較上年同期下降16.6%。"
+    },
+    {
+      "id": "4990610",
+      "time": "2026-07-16 03:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，巴西6月羅布斯塔咖啡出口量為63.3478萬袋（每袋60公斤），較去年同期增長32.7%。"
+    },
+    {
+      "id": "4990609",
+      "time": "2026-07-16 03:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，巴西6月阿拉比卡咖啡出口量為200萬袋（每袋60公斤），較上年同期增長9.6%。"
+    },
+    {
+      "id": "4990608",
+      "time": "2026-07-16 03:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商組織CECAFE資料顯示，巴西6月生咖啡出口量為264萬袋（每袋60公斤），較去年同期增長14.4%。"
+    },
+    {
+      "id": "mkt:019f6728-0040-7aab-8daf-18fb63d0de04",
+      "time": "2026-07-16 03:01:42",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed 0.71% higher at 24,829, trading 148 points premium to the cash index."
+    },
     {
       "id": "4990606",
       "time": "2026-07-16 03:00:02",
@@ -171044,105 +171141,6 @@
         "其他"
       ],
       "text": "國際貨幣基金組織：總裁格奧爾基耶娃將於 7 月 28 日至 29 日訪問阿根廷， 將會晤阿根廷官方及其他相關方。"
-    },
-    {
-      "id": "4977546",
-      "time": "2026-07-09 03:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達股價漲幅擴大至 4%。"
-    },
-    {
-      "id": "mkt:019f431d-bd0d-7aab-8cfd-1ef140845e6f",
-      "time": "2026-07-09 03:04:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "The Wall Street Journal reports Iraq has agreed to a U.S. request to stop channeling U.S. dollar flows to Iran-backed militia groups."
-    },
-    {
-      "id": "4977545",
-      "time": "2026-07-09 03:03:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.8052元，較週二夜盤收盤跌110點。成交量486.95億美元。"
-    },
-    {
-      "id": "4977544",
-      "time": "2026-07-09 03:03:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 伊拉克同意美方要求，切斷流向伊朗支援民兵組織的美元資金。"
-    },
-    {
-      "id": "mkt:019f431d-2886-7aab-8cfd-1172b0e6d932",
-      "time": "2026-07-09 03:03:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. Treasury: In the latest two-week reporting period, investment funds purchased 31.559 bln dlr of 7-year Treasuries maturing June 30, 2033, down from 32.925 bln dlr in the prior period. Foreign investors bought 5.864 bln dlr of the same issue, up from 5.651 bln dlr."
-    },
-    {
-      "id": "mkt:019f431d-25b7-7aab-8cfd-098f1c711138",
-      "time": "2026-07-09 03:03:31",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US Treasury: in the latest two-week reporting period, investment funds bought $50.626 bln of 5-year US Treasuries maturing June 30, 2031, slightly below $50.847 bln in the prior reporting period. Foreign investors bought $8.865 bln of the same issue, slightly below $8.946 bln."
-    },
-    {
-      "id": "4977543",
-      "time": "2026-07-09 03:03:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "梅賽德斯-賓士美國公司2026年第二季度零售銷量為84,500輛。"
-    },
-    {
-      "id": "mkt:019f431c-c3c4-7aab-8cfd-07f825ec0471",
-      "time": "2026-07-09 03:03:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. Treasury: In the latest biweekly reporting period, investment funds purchased $53.46 bln of the 2-year Treasury due June 30, 2038, up from $48.20 bln in the prior period; foreign investors bought $6.94 bln, down from $9.92 bln."
-    },
-    {
-      "id": "4977542",
-      "time": "2026-07-09 03:02:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部資料：最新雙週統計週期內，投資基金買入 506.26 億美元 2031 年 6 月 30 日到期的 5 年期美債票據，上月同期買入規模為 508.47 億美元。\n境外投資者增持 88.65 億美元 2031 年 6 月 30 日到期的 5 年期美債票據，上月同期增持規模為 89.46 億美元。"
-    },
-    {
-      "id": "4977541",
-      "time": "2026-07-09 03:01:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部資料：最新雙週統計週期內，投資基金淨買入 534.59 億美元、2028 年 6 月 30 日到期的 2 年期美債票據；上月同期買入規模為 482.03 億美元。\n外資買入 58.64 億美元 2033 年 6 月 30 日到期的 7 年期美債票據，上月同期買入規模為 56.51 億美元。"
     }
   ]
 }

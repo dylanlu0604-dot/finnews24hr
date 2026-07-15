@@ -1,7 +1,104 @@
 {
   "date": "2026-07-16",
-  "count": 232,
+  "count": 243,
   "items": [
+    {
+      "id": "mkt:019f672a-e4e2-7aab-8daf-28426659ea8f",
+      "time": "2026-07-16 03:04:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kuwait defense ministry spokesman said Iran's \"aggressive actions\" targeted multiple critical facilities, causing property damage but no casualties."
+    },
+    {
+      "id": "4990617",
+      "time": "2026-07-16 03:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特表示，伊朗週三發動的襲擊造成設施受損，暫無人員傷亡。"
+    },
+    {
+      "id": "mkt:019f672a-555f-7aab-8daf-211482a899ae",
+      "time": "2026-07-16 03:04:15",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Kuwait said its armed forces intercepted 4 cruise missiles and 21 drones from Iran on Wednesday."
+    },
+    {
+      "id": "4990614",
+      "time": "2026-07-16 03:03:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特稱其武裝部隊週三攔截了來自伊朗的四枚巡航導彈和二十一架無人機。"
+    },
+    {
+      "id": "4990613",
+      "time": "2026-07-16 03:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE資料顯示，2025/26種植年度巴西羅布斯塔咖啡出口量為503萬袋（每袋60公斤），較上年下降23.5%。"
+    },
+    {
+      "id": "4990612",
+      "time": "2026-07-16 03:03:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，2025/26作物年度巴西阿拉比卡咖啡出口量為2950萬袋（每袋60公斤），較上年同期下滑15.3%。"
+    },
+    {
+      "id": "4990611",
+      "time": "2026-07-16 03:03:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，2025/26作物年度巴西生咖啡出口量為3453萬袋（每袋60公斤），較上年同期下降16.6%。"
+    },
+    {
+      "id": "4990610",
+      "time": "2026-07-16 03:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，巴西6月羅布斯塔咖啡出口量為63.3478萬袋（每袋60公斤），較去年同期增長32.7%。"
+    },
+    {
+      "id": "4990609",
+      "time": "2026-07-16 03:02:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商協會CECAFE表示，巴西6月阿拉比卡咖啡出口量為200萬袋（每袋60公斤），較上年同期增長9.6%。"
+    },
+    {
+      "id": "4990608",
+      "time": "2026-07-16 03:02:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西出口商組織CECAFE資料顯示，巴西6月生咖啡出口量為264萬袋（每袋60公斤），較去年同期增長14.4%。"
+    },
+    {
+      "id": "mkt:019f6728-0040-7aab-8daf-18fb63d0de04",
+      "time": "2026-07-16 03:01:42",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures night session closed 0.71% higher at 24,829, trading 148 points premium to the cash index."
+    },
     {
       "id": "4990606",
       "time": "2026-07-16 03:00:02",
