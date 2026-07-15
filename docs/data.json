@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-16 06:40:38",
-  "count": 18604,
+  "updated": "2026-07-16 06:44:31",
+  "count": 18609,
   "items": [
+    {
+      "id": "4990829",
+      "time": "2026-07-16 06:42:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓：全年西澳鐵礦石總髮貨量2.88億。"
+    },
+    {
+      "id": "mkt:019f67f2-0d13-7aab-8db1-575f7458b50d",
+      "time": "2026-07-16 06:42:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BHP said Q4 metallurgical coal production was 5.7 mln t, up 10% YoY; thermal coal production was 4.2 mln t, up 3% YoY."
+    },
+    {
+      "id": "4990828",
+      "time": "2026-07-16 06:41:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓：第四季度西澳鐵礦石總髮貨量7,511萬。"
+    },
+    {
+      "id": "mkt:019f67f1-6549-7aab-8db1-4d384978e206",
+      "time": "2026-07-16 06:41:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper"
+      ],
+      "text": "BHP's Q4 copper production was 491,900 tonnes, down 5% YoY."
+    },
+    {
+      "id": "mkt:019f67f1-63df-7aab-8db1-477d857fb7de",
+      "time": "2026-07-16 06:41:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "BHP Group reported fourth-quarter iron ore production of 68.1 mln tonnes, down 3% YoY."
+    },
+    {
+      "id": "4990827",
+      "time": "2026-07-16 06:41:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓：預計全年西澳鐵礦石總產量2.9億至3億噸。"
+    },
+    {
+      "id": "4990826",
+      "time": "2026-07-16 06:41:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓：第四季度西澳鐵礦石總產量7,484萬噸。"
+    },
+    {
+      "id": "4990825",
+      "time": "2026-07-16 06:40:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：預計全年銅產量165萬至180萬噸。"
+    },
+    {
+      "id": "4990824",
+      "time": "2026-07-16 06:40:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "必和必拓：第四季度銅產量491900噸。"
+    },
+    {
+      "id": "te:markets:567321",
+      "time": "2026-07-16 06:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Surges by 5.04% — Top commodity gainers are Wheat (5.04%), Barley (4%) and Canola (2.49%). Biggest losers are Lumber (-0.63%) and Coffee (-0.50%)."
+    },
     {
       "id": "4990823",
       "time": "2026-07-16 06:37:49",
@@ -171061,50 +171149,6 @@
         "國際"
       ],
       "text": "【中方釋出“批判指南”，逐一駁斥菲律賓涉南海非法主張】自然資源部海洋發展戰略研究所8日釋出《菲律賓南海領土主張的歷史法理批判》報告。這份報告系統梳理了菲律賓南海領土主張的歷史由來，針對性揭露菲方的慣用“套路”，批駁其虛假敘事，堪稱是對菲南海非法主張的“批判指南”。參與報告編撰的專家在接受記者採訪時表示，菲方為將領土範圍擴張至黃巖島及南沙群島部分島礁，拼湊的一系列“依據”自相矛盾，無論在歷史還是法理層面均難令人信服。（環球網）"
-    },
-    {
-      "id": "4977681",
-      "time": "2026-07-09 06:43:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家通訊社（IRNA）訊息：伊朗東南部伊蘭沙赫爾機場遭襲擊，一名消防員遇難。"
-    },
-    {
-      "id": "4977680",
-      "time": "2026-07-09 06:42:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：委內瑞拉反對派領袖馬查多非常出色。我並未明令禁止馬查多返回委內瑞拉。"
-    },
-    {
-      "id": "mkt:019f43e5-2d34-7aab-8cff-e822e11b09ee",
-      "time": "2026-07-09 06:42:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump told CNN he does not know whether Iran merits a deal or would comply with one, saying that uncertainty is the problem."
-    },
-    {
-      "id": "te:economy:565415",
-      "time": "2026-07-09 06:41:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Manufacturing PMI",
-        "Importance 2"
-      ],
-      "text": "New Zealand Manufacturing Growth Strongest Since 2021 — The Business NZ Performance of Manufacturing Index in New Zealand increased to 54.7 in June, up from an upwardly revised 51.3 in May, marking the fifth consecutive month of expansion and well above the long-term average of 52.5. It was the strongest growth in factory activity since July 2021, with new orders being the standout at 64.1 (vs 53.2 in May), pointing to a healthy pipeline of work ahead. Meanwhile, production surged to 59.4 (vs 50.6), while deliveries rose to 57.3 (vs 52.9). Stocks of finished products (56.9 vs 54.3) and employment (55.8 vs 51.4) were also well above the 50.0 mark, an encouraging sign for manufacturing hiring. \" There are still real headwinds with the conflict in the Middle East and high fuel prices continuing to be a factor for many respondents, but this month's result reflects a huge positive shift after a long stretch of soft results, which is a very welcome turn,\" said BusinessNZ’s Director of Advocacy, Catherine Beard."
-    },
-    {
-      "id": "4977679",
-      "time": "2026-07-09 06:41:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我將就住房法案作出最終決定。"
     }
   ]
 }
