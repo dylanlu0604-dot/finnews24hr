@@ -1,7 +1,146 @@
 {
   "date": "2026-07-16",
-  "count": 250,
+  "count": 264,
   "items": [
+    {
+      "id": "mkt:019f6736-da04-7aab-8daf-603d51bcbc3d",
+      "time": "2026-07-16 03:17:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said he hopes interest rates will fall."
+    },
+    {
+      "id": "mkt:019f6736-aad5-7aab-8daf-5facdbaee627",
+      "time": "2026-07-16 03:17:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. President Trump said pausing rate hikes is preferable to further increases."
+    },
+    {
+      "id": "4990635",
+      "time": "2026-07-16 03:17:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我希望能更快推行關稅政策。"
+    },
+    {
+      "id": "4990634",
+      "time": "2026-07-16 03:17:10",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談及美聯儲：暫停加息要好過繼續加息。"
+    },
+    {
+      "id": "mkt:019f6735-985c-7aab-8daf-53c5c2e30316",
+      "time": "2026-07-16 03:16:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "U.S. President Trump said he expects year-end inflation to be lower than current levels."
+    },
+    {
+      "id": "mkt:019f6735-6739-7aab-8daf-4cfba2fb2796",
+      "time": "2026-07-16 03:16:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "President Trump said oil prices will fluctuate for some time."
+    },
+    {
+      "id": "4990633",
+      "time": "2026-07-16 03:15:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：希望看到利率下調。"
+    },
+    {
+      "id": "mkt:019f6734-fcf6-7aab-8daf-462d773cc888",
+      "time": "2026-07-16 03:15:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "CENTCOM said U.S. forces carried out a second strike of the day against Iran at 3:00 p.m. ET (03:00 Beijing, July 16), targeting Iranian military capabilities used to threaten vessels transiting the Strait of Hormuz."
+    },
+    {
+      "id": "4990632",
+      "time": "2026-07-16 03:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：預計年底通脹水平將低於當前。"
+    },
+    {
+      "id": "4990631",
+      "time": "2026-07-16 03:15:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：油價將在一段時間內波動。"
+    },
+    {
+      "id": "4990628",
+      "time": "2026-07-16 03:14:29",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方：此次打擊目標為伊朗用於威脅自由通行霍爾木茲海峽船隻的軍事設施。"
+    },
+    {
+      "id": "4990627",
+      "time": "2026-07-16 03:14:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍方面：美國東部時間今日下午3點，美軍已對伊朗發起今日第二波打擊行動。"
+    },
+    {
+      "id": "mkt:019f6733-7126-7aab-8daf-3cdc4d1dcf1c",
+      "time": "2026-07-16 03:14:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said Foreign Minister Araghchi returned to Tehran from Doha."
+    },
+    {
+      "id": "4990626",
+      "time": "2026-07-16 03:14:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美軍：對伊朗發動打擊。"
+    },
     {
       "id": "4990625",
       "time": "2026-07-16 03:12:30",
