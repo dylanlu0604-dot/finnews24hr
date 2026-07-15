@@ -1,7 +1,135 @@
 {
   "date": "2026-07-15",
-  "count": 2828,
+  "count": 2841,
   "items": [
+    {
+      "id": "mkt:019f65b0-5f54-7aab-8da0-d015359d74ea",
+      "time": "2026-07-15 20:11:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said the U.S. relationship with Iraq has gone from \"not very good\" to \"very good\" and that the U.S. will establish a long-term relationship with Iraq."
+    },
+    {
+      "id": "mkt:019f65b0-2961-7aab-8da0-c94962cf1e15",
+      "time": "2026-07-15 20:11:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Deutsche Bank reiterates Buy on Tesla, flags Robotaxi expansion and Optimus production】Deutsche Bank reiterated a Buy rating on Tesla with a $465 PT. The bank expects Q2 adjusted EPS of $0.36, below street consensus of $0.47. It still projects full-year vehicle deliveries of about 1.77m, implying mid- to high-single-digit growth from 1.63m last year. Robotaxi rollout has lagged market expectations and remains concentrated in Austin; Deutsche Bank notes no major accidents in Austin commercial operations to date, which it views as supportive for geographic expansion. Cybercab production has begun but faces a slow, painful ramp; current work focuses on engineering validation and internal testing ahead of broader ramps late this year and in 2027. Supply-chain reports indicate Optimus humanoid output targets of ~1,000 units/week by September and 2,000–2,500 units/week by year-end. Tesla’s AI5 chip has completed tape-out; Musk said initial AI5 supply will be prioritized for Tesla’s AI supercomputer and the Optimus program. Deutsche Bank expects investor attention on potential Tesla-SpaceX integration over the next 1–2 years to be a notable topic on upcoming earnings calls."
+    },
+    {
+      "id": "mkt:019f65b0-1c4c-7aab-8da0-c3e887c23179",
+      "time": "2026-07-15 20:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Foreign Ministry strongly condemns Iran's renewed aggressive attacks on Bahrain, Kuwait and Jordan."
+    },
+    {
+      "id": "4989973",
+      "time": "2026-07-15 20:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：亞塞拜然上半年天然氣出口量同比增長0.5%，達到124億立方米。"
+    },
+    {
+      "id": "4989972",
+      "time": "2026-07-15 20:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩訊息人士：以色列對黎巴嫩南部村莊實施了轟炸。"
+    },
+    {
+      "id": "mkt:019f65af-e89c-7aab-8da0-b84bfd7b0f3a",
+      "time": "2026-07-15 20:10:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Azerbaijan's natural gas exports in 1H rose 0.5% YoY to 12.4 bcm."
+    },
+    {
+      "id": "4989971",
+      "time": "2026-07-15 20:10:31",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通宣佈將出資2400萬美元，助力費城造船業發展，強化美國國防工業基礎。"
+    },
+    {
+      "id": "mkt:019f65af-0099-7aab-8da0-b303e3bb396f",
+      "time": "2026-07-15 20:09:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Vice President Vance will meet House Republicans at the U.S. Capitol at 3:00 p.m. local time."
+    },
+    {
+      "id": "4989970",
+      "time": "2026-07-15 20:09:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國市場監管系統技術性貿易措施工作座談會在武漢召開】全國市場監管系統技術性貿易措施工作座談會7月15日在湖北省武漢市召開。會議強調，各級市場監管部門要深入貫徹落實黨中央、國務院決策部署，牢固樹立和踐行正確政績觀，提高政治站位，增強大局意識，深刻認識技術性貿易措施工作在服務高水平對外開放、助力質量強國建設中的重要作用。要切實發揮市場監管職能優勢，在持續提升企業應對能力上拿出更實舉措，在著力提高產業鏈合規水平上力求更大突破，在主動塑造國際經貿規則與標準上爭取更多作為。"
+    },
+    {
+      "id": "4989969",
+      "time": "2026-07-15 20:09:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度農藥公司：殺菌劑產品在歐盟獲得技術等效性批准。"
+    },
+    {
+      "id": "te:markets:567214",
+      "time": "2026-07-15 20:09:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Eases as Middle East Tensions Weigh on Outlook — The euro traded near $1.14, retreating from a near one-month peak reached on Tuesday, as investors grappled with escalating Middle East tensions and surging oil prices. These factors have amplified concerns about inflation’s impact on monetary policy and economic growth. The US military's continued strikes on Iran, following President Donald Trump’s reinstatement of a blockade on Iranian shipping, have further disrupted energy flows, adding to market uncertainty. The European Central Bank, which raised interest rates for the first time in three years in June, is widely expected to tighten policy again. Markets now fully price in a September rate hike, with another increase anticipated by spring 2027. However, recent remarks from policymakers like Piero Cipollone and Martin Kocher signal caution, as they see no clear evidence of second-round inflation effects yet."
+    },
+    {
+      "id": "4989968",
+      "time": "2026-07-15 20:08:47",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.10%，標普500指數期貨漲0.17%，納指期貨漲0.47%。\n②德國DAX指數跌0.60%，英國富時100指數跌0.20%，法國CAC40指數跌0.16%，歐洲斯托克50指數跌0.10%。\n③WTI原油漲0.05%，報79.38美元/桶。布倫特原油漲0.09%，報84.81美元/桶。\n④美國6月CPI同比上漲3.5%，低於市場預期的3.8%，美聯儲7月加息機率腰斬。\n⑤特朗普召集會議討論對伊朗大規模進攻計劃。\n⑥日本散戶投資者上月持有的美元淨空頭頭寸飆升至近二十年來最高水平，市場普遍猜測日本官方可能再度出手干預以提振日元匯率。\n⑦阿里盤前拉昇漲超5%，據報阿里千問將作為AI能力整合至蘋果智慧。\n⑧阿斯麥盤前漲3.5%，再度上調全年銷售指引，並將明年產能增加約30%。\n⑨聯電盤前漲6%，位於新加坡的晶圓廠已成功量產首批矽光子晶圓。"
+    },
+    {
+      "id": "mkt:019f65ad-10c2-7aab-8da0-aa2c8112b68c",
+      "time": "2026-07-15 20:07:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump threat to strike Iranian power plants highlights concentration of gas-fired capacity】President Trump again threatened strikes on Iranian power plants, saying “next week will be very bad for them — next week it’s the power plants.” OpenInfraMap shows Iran has about 110 gas-fired power plants, with a small number using mixed fuels; the country also operates solar, hydro, wind, oil, diesel, coal, geothermal and nuclear facilities. By installed capacity the three largest Iranian plants are gas-fired: Damavand combined-cycle (about 2,868 MW, ~70 km SE of central Tehran); Shahid Salimi (about 2,215 MW, Mazandaran province near the Caspian Sea); and Shahid Rajaei (about 2,043 MW, ~110 km NE of central Tehran). For reference, the largest US operating gas plant listed is Florida’s West County Energy Center at about 3,750 MW. The IAEA reports Iran’s 2023 generation was dominated by fossil fuels (~340,000 GWh), renewables produced ~28,000 GWh and nuclear ~5,740 GWh; Iran has one operating reactor at Bushehr and one under construction."
+    },
     {
       "id": "mkt:019f65ac-fd98-7aab-8da0-a0b7870bde9a",
       "time": "2026-07-15 20:07:43",

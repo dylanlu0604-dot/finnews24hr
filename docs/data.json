@@ -1,7 +1,135 @@
 {
-  "updated": "2026-07-15 20:08:14",
+  "updated": "2026-07-15 20:12:19",
   "count": 18642,
   "items": [
+    {
+      "id": "mkt:019f65b0-5f54-7aab-8da0-d015359d74ea",
+      "time": "2026-07-15 20:11:25",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said the U.S. relationship with Iraq has gone from \"not very good\" to \"very good\" and that the U.S. will establish a long-term relationship with Iraq."
+    },
+    {
+      "id": "mkt:019f65b0-2961-7aab-8da0-c94962cf1e15",
+      "time": "2026-07-15 20:11:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "【Deutsche Bank reiterates Buy on Tesla, flags Robotaxi expansion and Optimus production】Deutsche Bank reiterated a Buy rating on Tesla with a $465 PT. The bank expects Q2 adjusted EPS of $0.36, below street consensus of $0.47. It still projects full-year vehicle deliveries of about 1.77m, implying mid- to high-single-digit growth from 1.63m last year. Robotaxi rollout has lagged market expectations and remains concentrated in Austin; Deutsche Bank notes no major accidents in Austin commercial operations to date, which it views as supportive for geographic expansion. Cybercab production has begun but faces a slow, painful ramp; current work focuses on engineering validation and internal testing ahead of broader ramps late this year and in 2027. Supply-chain reports indicate Optimus humanoid output targets of ~1,000 units/week by September and 2,000–2,500 units/week by year-end. Tesla’s AI5 chip has completed tape-out; Musk said initial AI5 supply will be prioritized for Tesla’s AI supercomputer and the Optimus program. Deutsche Bank expects investor attention on potential Tesla-SpaceX integration over the next 1–2 years to be a notable topic on upcoming earnings calls."
+    },
+    {
+      "id": "4989973",
+      "time": "2026-07-15 20:11:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：亞塞拜然上半年天然氣出口量同比增長0.5%，達到124億立方米。"
+    },
+    {
+      "id": "mkt:019f65b0-1c4c-7aab-8da0-c3e887c23179",
+      "time": "2026-07-15 20:11:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Foreign Ministry strongly condemns Iran's renewed aggressive attacks on Bahrain, Kuwait and Jordan."
+    },
+    {
+      "id": "4989972",
+      "time": "2026-07-15 20:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩訊息人士：以色列對黎巴嫩南部村莊實施了轟炸。"
+    },
+    {
+      "id": "mkt:019f65af-e89c-7aab-8da0-b84bfd7b0f3a",
+      "time": "2026-07-15 20:10:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Azerbaijan's natural gas exports in 1H rose 0.5% YoY to 12.4 bcm."
+    },
+    {
+      "id": "4989971",
+      "time": "2026-07-15 20:10:31",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通宣佈將出資2400萬美元，助力費城造船業發展，強化美國國防工業基礎。"
+    },
+    {
+      "id": "mkt:019f65af-0099-7aab-8da0-b303e3bb396f",
+      "time": "2026-07-15 20:09:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports Vice President Vance will meet House Republicans at the U.S. Capitol at 3:00 p.m. local time."
+    },
+    {
+      "id": "4989970",
+      "time": "2026-07-15 20:09:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【全國市場監管系統技術性貿易措施工作座談會在武漢召開】全國市場監管系統技術性貿易措施工作座談會7月15日在湖北省武漢市召開。會議強調，各級市場監管部門要深入貫徹落實黨中央、國務院決策部署，牢固樹立和踐行正確政績觀，提高政治站位，增強大局意識，深刻認識技術性貿易措施工作在服務高水平對外開放、助力質量強國建設中的重要作用。要切實發揮市場監管職能優勢，在持續提升企業應對能力上拿出更實舉措，在著力提高產業鏈合規水平上力求更大突破，在主動塑造國際經貿規則與標準上爭取更多作為。"
+    },
+    {
+      "id": "4989969",
+      "time": "2026-07-15 20:09:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度農藥公司：殺菌劑產品在歐盟獲得技術等效性批准。"
+    },
+    {
+      "id": "te:markets:567214",
+      "time": "2026-07-15 20:09:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Eases as Middle East Tensions Weigh on Outlook — The euro traded near $1.14, retreating from a near one-month peak reached on Tuesday, as investors grappled with escalating Middle East tensions and surging oil prices. These factors have amplified concerns about inflation’s impact on monetary policy and economic growth. The US military's continued strikes on Iran, following President Donald Trump’s reinstatement of a blockade on Iranian shipping, have further disrupted energy flows, adding to market uncertainty. The European Central Bank, which raised interest rates for the first time in three years in June, is widely expected to tighten policy again. Markets now fully price in a September rate hike, with another increase anticipated by spring 2027. However, recent remarks from policymakers like Piero Cipollone and Martin Kocher signal caution, as they see no clear evidence of second-round inflation effects yet."
+    },
+    {
+      "id": "4989968",
+      "time": "2026-07-15 20:08:47",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊漲，道指期貨漲0.10%，標普500指數期貨漲0.17%，納指期貨漲0.47%。\n②德國DAX指數跌0.60%，英國富時100指數跌0.20%，法國CAC40指數跌0.16%，歐洲斯托克50指數跌0.10%。\n③WTI原油漲0.05%，報79.38美元/桶。布倫特原油漲0.09%，報84.81美元/桶。\n④美國6月CPI同比上漲3.5%，低於市場預期的3.8%，美聯儲7月加息機率腰斬。\n⑤特朗普召集會議討論對伊朗大規模進攻計劃。\n⑥日本散戶投資者上月持有的美元淨空頭頭寸飆升至近二十年來最高水平，市場普遍猜測日本官方可能再度出手干預以提振日元匯率。\n⑦阿里盤前拉昇漲超5%，據報阿里千問將作為AI能力整合至蘋果智慧。\n⑧阿斯麥盤前漲3.5%，再度上調全年銷售指引，並將明年產能增加約30%。\n⑨聯電盤前漲6%，位於新加坡的晶圓廠已成功量產首批矽光子晶圓。"
+    },
+    {
+      "id": "mkt:019f65ad-10c2-7aab-8da0-aa2c8112b68c",
+      "time": "2026-07-15 20:07:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump threat to strike Iranian power plants highlights concentration of gas-fired capacity】President Trump again threatened strikes on Iranian power plants, saying “next week will be very bad for them — next week it’s the power plants.” OpenInfraMap shows Iran has about 110 gas-fired power plants, with a small number using mixed fuels; the country also operates solar, hydro, wind, oil, diesel, coal, geothermal and nuclear facilities. By installed capacity the three largest Iranian plants are gas-fired: Damavand combined-cycle (about 2,868 MW, ~70 km SE of central Tehran); Shahid Salimi (about 2,215 MW, Mazandaran province near the Caspian Sea); and Shahid Rajaei (about 2,043 MW, ~110 km NE of central Tehran). For reference, the largest US operating gas plant listed is Florida’s West County Energy Center at about 3,750 MW. The IAEA reports Iran’s 2023 generation was dominated by fossil fuels (~340,000 GWh), renewables produced ~28,000 GWh and nuclear ~5,740 GWh; Iran has one operating reactor at Bushehr and one under construction."
+    },
     {
       "id": "mkt:019f65ac-fd98-7aab-8da0-a0b7870bde9a",
       "time": "2026-07-15 20:07:43",
@@ -171077,115 +171205,6 @@
         "國際"
       ],
       "text": "【德國汽車工業機構稱必須迅速透過歐盟-墨西哥協議】德國汽車工業協會主席希爾德加德·穆勒表示，歐盟投票批准歐盟與墨西哥的貿易協議是重要的一步，特別是對德國而言。穆勒說：“我們行業約70%的工作崗位由出口支撐。出口是我們繁榮的基礎。“在美墨加貿易協議的前景面臨不確定性之際，穆勒表示，歐洲與墨西哥之間加強經濟合作發出了穩定、多元化和具有韌性的跨大西洋價值鏈的明確訊號。她說，隨著該協議獲批，一個主要障礙已被掃除。她補充說，現在的關鍵是迅速推進歐洲和國家層面的剩餘程式。"
-    },
-    {
-      "id": "4976814",
-      "time": "2026-07-08 20:11:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雪佛龍油輪遭無人機襲擊】油輪運營方亞薩航運表示，週一一艘雪佛龍旗下油輪在新羅西斯克的裡海管道聯盟碼頭附近被無人機擊中。涉事船舶為 “亞薩北極星號”，事後已駛離事發海域。亞薩航運稱船體未見明顯破損，未發生原油洩漏，無環境汙染影響。"
-    },
-    {
-      "id": "4976813",
-      "time": "2026-07-08 20:11:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：到2027年底全省城市數字基礎設施支撐能力顯著增強】廣東省政務服務和資料管理局等11部門近日印發《廣東省推進城市全域數字化轉型 建設智慧城市行動方案》，其中提到，以城市作為數字廣東建設綜合載體，推進設施聯通、資料融通、平臺互通、業務貫通、生態暢通，積極探索麵向未來的智慧城市管理模式，實現粵港澳大灣區智慧城市群高質量發展。"
-    },
-    {
-      "id": "mkt:019f41a3-8dcf-7aab-8ced-ec80b04cad92",
-      "time": "2026-07-08 20:11:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Semafor reports a unit of Abu Dhabi National Oil Co is considering launching trading operations in Africa and Southeast Asia."
-    },
-    {
-      "id": "4976812",
-      "time": "2026-07-08 20:10:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "道格拉斯·埃利曼地產依託谷歌雲技術啟動人工智慧轉型，公佈新智慧公司成立，並宣佈啟動成本結構重構計劃。"
-    },
-    {
-      "id": "4976811",
-      "time": "2026-07-08 20:10:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：阿布扎比國家石油公司旗下子公司正考量非洲、東南亞相關交易。"
-    },
-    {
-      "id": "mkt:019f41a2-d4d9-7aab-8ced-e322a00724f6",
-      "time": "2026-07-08 20:10:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【SOCGEN: Swedish krona looks undervalued after recent fall】SOCGEN strategist Kit Juckes says the Swedish krona appears undervalued after recent declines as persistently low rates weigh on the currency. On a real effective exchange rate basis the krona is about 6% above its 2023 low but roughly 18% weaker versus its 20-year average. June CPIF (CPI with fixed interest rate) fell to 1.3%, a reading that does not support Riksbank tightening, while May economic growth accelerated to 3.9%. Juckes says Sweden’s relative outperformance versus the euro area could attract capital inflows and eventually feed through to inflation."
-    },
-    {
-      "id": "4976810",
-      "time": "2026-07-08 20:10:11",
-      "tags": [
-        "央行",
-        "資料",
-        "市場"
-      ],
-      "text": "【法國興業銀行：瑞典克朗近期下跌後估值偏低】法國興業銀行的Kit Juckes表示，隨著低利率繼續拖累該貨幣，瑞典克朗估值顯得偏低。“按實際有效匯率計算，瑞典克朗比2023年的低點高出6%，但在過去20年裡，按實際價值計算，它已經貶值了18%。”週三的資料顯示，6月份固定利率消費者價格指數(CPI)回落至1.3%，這不支援瑞典央行加息。然而，5月份經濟增長率加速至3.9%。他表示，瑞典相對於歐元區的經濟優異表現可能吸引資本流入，並最終對通貨膨脹產生影響。"
-    },
-    {
-      "id": "4976809",
-      "time": "2026-07-08 20:09:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【普門科技：29項電化學發光試劑及1項層析柱獲IVDR CE認證】普門科技公告稱，公司29項電化學發光試劑產品及1項血紅蛋白層析柱獲歐盟公告機構TÜV南德意志集團簽發的IVDR CE認證，證書有效期至2029年6月23日。截至目前，公司累計82項電化學發光試劑產品獲此認證。獲證產品具備進入歐盟市場的必要條件，利於提升其體外診斷產品綜合競爭力，對未來經營有積極影響，但實際銷售情況取決於市場推廣效果，目前無法預測對業績的影響。"
-    },
-    {
-      "id": "4976808",
-      "time": "2026-07-08 20:09:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西聯邦警方對前總統博索納羅的宅邸執行搜查扣押行動，目標為武器與彈藥。"
-    },
-    {
-      "id": "4976807",
-      "time": "2026-07-08 20:09:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【霍爾木茲海峽航運通行量保持穩定】儘管商船接連遭遇襲擊、中東局勢持續緊張，霍爾木茲海峽的船舶通行量依舊平穩。船舶追蹤機構凱普勒資料顯示，週一有 36 艘船舶穿越海峽，週二為 41 艘，與上週日均約 40 艘的通行規模基本持平。"
-    },
-    {
-      "id": "4976806",
-      "time": "2026-07-08 20:08:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世運電路：簽署芯創智載新工廠廢水處理站機電裝置安裝專案工程合同】世運電路(603920)7月8日公告，公司擬與廣東順控順水建設有限公司（簡稱“順控順水”）簽訂《芯創智載新工廠廢水處理站機電裝置安裝專案工程合同》，約定順控順水以總價包乾的方式承接公司芯創智載新工廠廢水處理站機電裝置安裝專案，工程總造價為3684.2萬元（含稅）。順控順水為公司的關聯人。"
-    },
-    {
-      "id": "4976805",
-      "time": "2026-07-08 20:08:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【藍色起源正開展一輪融資，本輪投前估值 1300 億美元，募資總額 100 億美元】庫圖資產管理公司擬牽頭本次融資，承諾出資 40 億美元。貝佐斯本人將向藍色起源本輪融資追加投入 20 億美元。剩餘 40 億美元資金預計來自大型機構投資者。"
-    },
-    {
-      "id": "4976804",
-      "time": "2026-07-08 20:08:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【本屆北約峰會烏克蘭問題邊緣化】當地時間7月7日，北約峰會在土耳其首都安卡拉正式拉開帷幕。輿論普遍認為，與會方圍繞多個問題分歧重重。俄烏衝突是本次峰會的重點議題之一，但一些國家對支援烏克蘭計劃持不同意見。有媒體報道稱，為避免激怒美國，本屆北約峰會已將烏克蘭問題邊緣化。（央視軍事）"
     }
   ]
 }
