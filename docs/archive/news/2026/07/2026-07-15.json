@@ -1,7 +1,326 @@
 {
   "date": "2026-07-15",
-  "count": 2939,
+  "count": 2968,
   "items": [
+    {
+      "id": "te:markets:567222",
+      "time": "2026-07-15 20:44:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Pick Up Traction After PPI — Futures tracking US equities rose on Wednesday on signs that the war in the Middle East has not been as inflationary as feared. Contracts for the S&P 500, Dow, and the Nasdaq 100 inched up by 0.2%. Headline and core producer prices rose less than expected in June, aligning with the soft CPI report from yesterday and further trimming risks that the Federal Reserve could raise interest rates in their upcoming meeting. The data offset pressure from higher energy prices on further escalation to strikes between the US and Iran. Yields rose further, but strong earnings reports underpinned broad gains for equities. The heavyweight AI sector was supported by strong signals from ASML, lifting AMD and Intel premarket, although volatility continued to grapple memory producers. Meanwhile, Morgan Stanley rose 1% after posting optimistic results, joining JPMorgan, Bank of America, Citi, and Goldman Sachs in their strong reports yesterday."
+    },
+    {
+      "id": "4990026",
+      "time": "2026-07-15 20:44:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【紐約聯儲主席：預計整體通脹率將在年底降至3.25%左右】紐約聯儲主席威廉姆斯表示，通脹無疑過高，目前約為4%，預計整體通脹率將在年底降至3.25%左右，2027年繼續向2%的目標邁進，並在2028年達到目標。"
+    },
+    {
+      "id": "mkt:019f65cc-f2f6-7aab-8da2-f39cf00dd3d5",
+      "time": "2026-07-15 20:42:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Fed's Williams said the Middle East conflict poses significant risks, but the U.S. economy has so far absorbed the shocks relatively well."
+    },
+    {
+      "id": "mkt:019f65cc-f0e5-7aab-8da2-ec38ce38e286",
+      "time": "2026-07-15 20:42:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's Williams says the labor market shows signs of resilience and stability."
+    },
+    {
+      "id": "mkt:019f65cc-e095-7aab-8da2-e3dccd87c019",
+      "time": "2026-07-15 20:42:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed's Williams: Economic growth is solid and consistent with trend; labor market is likewise firm."
+    },
+    {
+      "id": "4990025",
+      "time": "2026-07-15 20:42:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：勞動力市場顯現韌性與穩定訊號。"
+    },
+    {
+      "id": "mkt:019f65cc-d678-7aab-8da2-db42dfcf3f8d",
+      "time": "2026-07-15 20:42:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor Williams said supply disruptions from the Middle East conflict remain a risk to economic growth and the inf outlook."
+    },
+    {
+      "id": "mkt:019f65cc-c863-7aab-8da2-d170b2616f98",
+      "time": "2026-07-15 20:42:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed official Williams said the surge in AI investment makes the full impact on economic growth, employment and inf difficult to predict."
+    },
+    {
+      "id": "4990024",
+      "time": "2026-07-15 20:42:27",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：儘管中東衝突的影響構成重大風險，但美國經濟迄今對這些事件的承受能力相當不錯。"
+    },
+    {
+      "id": "mkt:019f65cc-bfb0-7aab-8da2-c93e0d7be9a5",
+      "time": "2026-07-15 20:42:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed's Williams expects the unemployment rate to gradually decline to 4% in 2028."
+    },
+    {
+      "id": "4990023",
+      "time": "2026-07-15 20:42:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美國經濟增長穩健，符合趨勢，勞動力市場同樣穩健穩定。"
+    },
+    {
+      "id": "mkt:019f65cc-b622-7aab-8da2-c2e4cde7ba35",
+      "time": "2026-07-15 20:42:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams expects real GDP growth of 2%-2.25% this year and for it to remain at that pace over the next two years."
+    },
+    {
+      "id": "4990022",
+      "time": "2026-07-15 20:42:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：中東衝突引發的供應短缺仍是增長與通脹前景的風險來源。"
+    },
+    {
+      "id": "mkt:019f65cc-9b9a-7aab-8da2-bf2119d87aa4",
+      "time": "2026-07-15 20:42:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Fed's Williams expects overall inflation to fall to about 3.25% by year-end and to continue moving toward the 2% target in 2027, reaching the target in 2028."
+    },
+    {
+      "id": "4990021",
+      "time": "2026-07-15 20:42:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：人工智慧投資熱潮對增長、就業和通脹的全面影響難以預測。"
+    },
+    {
+      "id": "4990020",
+      "time": "2026-07-15 20:42:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：預計到2028年失業率將逐步降至4%。"
+    },
+    {
+      "id": "mkt:019f65cc-83cc-7aab-8da2-b1671a40ee44",
+      "time": "2026-07-15 20:42:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Federal Reserve's Williams said there are encouraging reasons to believe inflation has peaked and will gradually decline over the next few quarters."
+    },
+    {
+      "id": "mkt:019f65cc-82c8-7aab-8da2-ab4800792441",
+      "time": "2026-07-15 20:42:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "WILLIAMS: Long-term inflation expectations remain well anchored."
+    },
+    {
+      "id": "4990019",
+      "time": "2026-07-15 20:42:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：預計今年及未來兩年實際國內生產總值增長率將維持在2%至2.25%左右。"
+    },
+    {
+      "id": "4990018",
+      "time": "2026-07-15 20:42:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：中長期通脹預期仍保持良好錨定。"
+    },
+    {
+      "id": "mkt:019f65cc-4e06-7aab-8da2-a6d5170481b5",
+      "time": "2026-07-15 20:41:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's WILLIAMS said inf is without doubt too high, at about 4%."
+    },
+    {
+      "id": "4990016",
+      "time": "2026-07-15 20:41:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：有令人鼓舞的理由認為通脹已經見頂，未來幾個季度應該會逐步回落。"
+    },
+    {
+      "id": "4990015",
+      "time": "2026-07-15 20:41:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：通脹水平目前約為4%，無疑過高。"
+    },
+    {
+      "id": "mkt:019f65cc-240b-7aab-8da2-9cf95c4a6ffe",
+      "time": "2026-07-15 20:41:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said the current monetary policy stance is very well suited to achieving that objective."
+    },
+    {
+      "id": "4990014",
+      "time": "2026-07-15 20:41:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：當前通脹居高不下，我們必須將通脹持續回落至2%的目標水平。"
+    },
+    {
+      "id": "mkt:019f65cc-0458-7aab-8da2-97bfaaad79b5",
+      "time": "2026-07-15 20:41:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Williams said elevated inf must be sustainably brought back to the 2% target."
+    },
+    {
+      "id": "4990013",
+      "time": "2026-07-15 20:41:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股通金融ETF易方達：7月16日起在深交所上市交易】港股通金融ETF易方達公告稱，本基金於2026年7月16日開始在深圳證券交易所上市交易，基金程式碼159091，設定10%漲跌幅限制，上市首日開盤參考價為1.006元。截至7月15日，投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的97.32%，投資組合符合規定和約定。投資者可諮詢客服400 - 881 - 8088或登入www.efunds.com.cn瞭解詳情。"
+    },
+    {
+      "id": "4990012",
+      "time": "2026-07-15 20:40:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "Elevance Health執行長在電話會議上表示，公司預計在未來12至18個月內退出更多醫療補助市場。"
+    },
+    {
+      "id": "mkt:019f65ca-c0ea-7aab-8da2-88365268e601",
+      "time": "2026-07-15 20:40:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Survey: inf pushing more Americans to redeem credit-card rewards for essentials】A USAA Federal Savings Bank survey shows inf is prompting more Americans to use credit-card reward points for everyday essentials. In a sample of just over 1,000 respondents, more than 35% said they redeem card rewards for daily spending and 79% said they had used points at least once in the past six months. The survey notes groceries are up more than 6% since mid-2023 and gasoline about $0.30/gal; real wages have risen roughly 1.4% annually over the same period. USAA president Moran said households are prioritizing practicality, shifting spending from non-urgent items such as appliances and furniture toward groceries and fuel, and using rewards to stretch budgets."
+    },
     {
       "id": "te:markets:567220",
       "time": "2026-07-15 20:39:56",
