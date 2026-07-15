@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-15 20:44:43",
-  "count": 18687,
+  "updated": "2026-07-15 20:48:44",
+  "count": 18691,
   "items": [
+    {
+      "id": "te:economy:567225",
+      "time": "2026-07-15 20:48:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Wholesale Sales",
+        "Importance 1"
+      ],
+      "text": "Canada Wholesale Sales Stall in May — Wholesale sales in Canada were unchanged month-over-month at C$90.0 billion in May 2026, following an upwardly revised 1.4% increase in April, compared with the preliminary estimate of a 0.7% decline. Sales fell in four of the seven subsectors. The food, beverage, and tobacco subsector declined 1.5% to C$16.0 billion, driven by lower sales in the food industry group (-1.5%). The personal and household goods subsector also contracted, with sales down 0.6% to C$13.1 billion. Within the category, the pharmaceuticals industry posted the largest decline, falling 3.1%. The overall weakness was partly offset by a 14.2% increase in the non-agricultural chemical and allied products industry group, which lifted the miscellaneous subsector by 2.2%. Regionally, wholesale sales declined in eight provinces, led by Quebec (-1.8%) and British Columbia (-2.6%). Compared with a year earlier, wholesale sales were 7.4% higher in May."
+    },
+    {
+      "id": "mkt:019f65d1-cbe9-7aab-8da3-07c746fc8286",
+      "time": "2026-07-15 20:47:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Recent US strikes on Iranian islands prompt speculation over Washington's intent to seize territory】Trump’s refusal this week to rule out seizing Iranian islands has revived speculation about US intentions. Andreas Krieg, associate professor of security studies at King’s College London, said a temporary seizure is materially different from long‑term control and sustainment; Qeshm is particularly problematic because of its size and proximity to the Iranian mainland. Smaller islands such as Hengam would be easier to take but remain within range of Iranian artillery, missiles, drones and fast‑boat swarms. Simultaneous operations across multiple islands would amount to a large‑scale amphibious campaign rather than a limited raid. Even if US forces secured islands, Iran could still disrupt shipping through the Strait of Hormuz; garrisons would be exposed to sustained attack and would allow Tehran to frame the move as an occupation. Krieg estimates a limited initial seizure would require about 5,000-10,000 troops including air defence, engineers, logistics, medical and command elements, with requirements rising sharply for multi‑island or long‑term occupation; Iran could instead opt to attrit garrisons over time. Nader Hashemi, professor of Middle East politics at Georgetown University, said he doubts Washington would attempt seizures—especially Kharg—citing likely heavy US casualties and a domestic political backlash among Trump’s MAGA supporters that could draw comparisons to the Iraq war."
+    },
+    {
+      "id": "4990032",
+      "time": "2026-07-15 20:47:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "威廉姆斯：美聯儲貨幣政策處於有利位置，有助於降低通脹。"
+    },
+    {
+      "id": "4990031",
+      "time": "2026-07-15 20:46:42",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "智利央行購入2500萬美元。"
+    },
+    {
+      "id": "4990030",
+      "time": "2026-07-15 20:46:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍磁科技：預計高階電感緊平衡狀態將持續至2027年 將加速晶片電感產能釋放與客戶驗證】龍磁科技近日在接待機構調研中表示，當前電感行業呈現顯著的“低端過剩、高階緊缺”結構性分化。消費級通用品深陷產能紅海，而AI算力伺服器等高階賽道則因“材料配方+精密裝置+客戶認證”三重壁壘高築，供需緊平衡加劇，預計本輪高階電感的緊平衡狀態將持續至2027年。公司將充分發揮“材料+器件”的垂直整合優勢，全速推進高階產能建設，加速晶片電感產能釋放與客戶驗證。"
+    },
+    {
+      "id": "4990029",
+      "time": "2026-07-15 20:46:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國海證券：公司擬參與競買大通證券股份及股份權益】國海證券公告，根據京東拍賣平臺釋出的公告，轉讓方定於7月16日14時至7月17日14時止，將持有的大通證券合計17.03億股股份/股份權益（佔比51.59%）在京東拍賣平臺共同進行拍賣，拍賣標的物的評估價值為43.29億元，起拍價為32億元。公司擬參與競買大通證券股份/股份權益。本次競買為公開競買，競買結果存在一定的不確定性，存在競買不成功的風險。若公司競買不成功，不會對公司現有業務、未來財務狀況和經營成果產生重大影響。若公司競買成功，公司將取得大通證券的控制權。"
+    },
+    {
+      "id": "te:economy:567223",
+      "time": "2026-07-15 20:45:56",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "NY Empire State Manufacturing Index",
+        "Importance 2"
+      ],
+      "text": "New York Manufacturing Activity Surges in July — The New York Fed’s Empire State Manufacturing Index jumped 10 points to 15.6 in July 2026, signaling a significant pickup in business activity across New York State. New orders and shipments saw strong growth, while unfilled orders rose and delivery times lengthened further. Supply availability continued to deteriorate. Employment increased at a solid pace, and the average workweek edged higher. Input and selling price increases remained elevated but slowed slightly. Firms maintained an optimistic outlook for the coming months."
+    },
+    {
+      "id": "mkt:019f65cf-dee3-7aab-8da2-faf4ec49a271",
+      "time": "2026-07-15 20:45:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports President Zelenskiy is expected to replace Ukraine's defense minister."
+    },
+    {
+      "id": "4990028",
+      "time": "2026-07-15 20:44:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "安特吉公司與三菱重工集團宣佈達成合作伙伴關係，以加速碳捕集與封存的商業化程序。"
+    },
+    {
+      "id": "4990027",
+      "time": "2026-07-15 20:44:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨延續漲勢，上漲0.2%。"
+    },
     {
       "id": "te:markets:567222",
       "time": "2026-07-15 20:44:07",
@@ -171730,60 +171824,6 @@
         "國際"
       ],
       "text": "市場訊息：波蘭央行維持基準利率在3.75%不變；預計利率為3.75%。"
-    },
-    {
-      "id": "4976877",
-      "time": "2026-07-08 20:47:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞馬遜秘密推進Alexa“智慧體”計劃 成本高昂引發內部擔憂】7月8日訊息，亞馬遜內部規劃檔案顯示，公司正在秘密推進一項名為“Moonraker”的全新Alexa AI專案，旨在將這一語音助手推向AI智慧體賽道。然而，該專案極其高昂的研發與執行成本已在公司內部引發廣泛擔憂。"
-    },
-    {
-      "id": "mkt:019f41c4-ca63-7aab-8cee-8b570090442c",
-      "time": "2026-07-08 20:47:23",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Market sources: Central Bank of Chile purchased USD 25 mln."
-    },
-    {
-      "id": "4976876",
-      "time": "2026-07-08 20:47:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：智利央行購入2500萬美元。"
-    },
-    {
-      "id": "4976875",
-      "time": "2026-07-08 20:46:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：伊朗HORMOZGAN機場關閉，直至另行通知。"
-    },
-    {
-      "id": "4976874",
-      "time": "2026-07-08 20:46:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍隊在東部方向擊落了一架俄羅斯蘇-35多用途戰鬥機。（CGTN）"
-    },
-    {
-      "id": "mkt:019f41c2-f746-7aab-8cee-8293ffb26b7e",
-      "time": "2026-07-08 20:45:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NATO unlikely to join U.S. action in Strait of Hormuz despite Trump pressure, ANU lecturer says】Alam Saleh, a lecturer at the Australian National University, said NATO is unlikely to participate in any U.S.-led operation in the Strait of Hormuz despite pressure from President Trump. He said Iran treats a war as existential and has so far deterred open conflict. Saleh added NATO is fundamentally a defensive, regionally focused alliance whose collective-security remit is limited; joining U.S. action in Hormuz would require it to adopt an offensive, global role — a transformation he called unrealistic."
     }
   ]
 }
