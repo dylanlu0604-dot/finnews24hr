@@ -1,7 +1,66 @@
 {
   "date": "2026-07-16",
-  "count": 555,
+  "count": 562,
   "items": [
+    {
+      "id": "4990877",
+      "time": "2026-07-16 07:29:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "《紐約時報》在一份宣告中表示，已提交法院動議，要求法院撤銷針對“空軍一號”安保報道相關記者發出的傳票。"
+    },
+    {
+      "id": "mkt:019f681c-2e6c-7aab-8db1-ef93ed6f2e8b",
+      "time": "2026-07-16 07:28:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times said it has filed a motion in court to quash a subpoena issued to a reporter in connection with reporting on Air Force One security."
+    },
+    {
+      "id": "4990876",
+      "time": "2026-07-16 07:28:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【基金二季報科技調倉現分歧 多隻績優基金維持高倉位】今年上半年，科技板塊是A股市場當之無愧的“領頭羊”，多隻重倉科技賽道的權益類基金收益率表現亮眼。不過，近期科技板塊持續震盪，不少投資者心生困惑：下半年科技板塊行情能否延續？最新披露的公募基金二季報顯示，儘管多數基金經理依然對科技板塊保持著極高配置熱情，但針對科技股內部的板塊輪動以及估值邏輯，已經產生顯著分歧。隨著全球AI浪潮持續，科技板塊呈現了極高景氣度。從近期已披露的基金二季報來看，中歐基金、平安基金、融通基金、紅土創新基金和金信基金等多家公募旗下多隻績優基金，對科技股仍然維持高倉位運作，且多隻產品單季度取得超高收益。在此前科技股持續上攻之際，對於科技“泡沫”的質疑也時而出現。在板塊估值達到高位之際，已有基金經理在操作方面展現謹慎姿態。以融通先進製造為例，該基金一季度末曾重倉的新易盛、長飛光纖光纜、工業富聯、應流股份、江豐電子、長飛光纖等8只個股，在二季度集體退出該基金前十大重倉股行列。"
+    },
+    {
+      "id": "mkt:019f681b-c9ca-7aab-8db1-e45ad9d08589",
+      "time": "2026-07-16 07:27:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "【Preview: Bank of Korea rate decision this morning — institutional forecasts roundup】All 10 firms expect a 25bp Bank of Korea hike. Barclays: 25bp; governor has signalled policy objectives are unusually aligned toward tightening. Reuters survey: 25bp; 28 of 31 economists expect the policy rate to reach 3.00% by year-end. HSBC: 25bp; won under depreciation pressure, core inflation remains firm and growth outlook has improved. BofA: 25bp; guidance on the won may matter more than the move itself as policymakers focus on persistent currency weakness. Scotiabank: 25bp; governor has strongly hinted at tightening; inflation persistently above target and won depreciation raise imported inflation risks. Citigroup: 25bp; expects the governor to signal quarterly 25bp hikes in H2 and projects additional hikes in July and October this year and January and April next year. KB Financial: 25bp; sees BOK hiking twice this year, with an October move more likely than consecutive July/August hikes. NH Investment & Securities: 25bp; BOK may avoid a precise forward-timetable to steer clear of forward-guidance side effects. Hanwha Investment: 25bp; meeting likely to show an overall hawkish tilt—watch for growth forecast revisions and guidance on the pace of future hikes. Crédit Agricole: 25bp; with official forecasts and guidance not due until August and oil prices easing, a further hike is more likely in October."
+    },
+    {
+      "id": "4990875",
+      "time": "2026-07-16 07:27:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【必和必拓年度銅產量下降 鐵礦石產量創紀錄高位】必和必拓集團(BHP Group)表示，過去一年其鐵礦石產量創下紀錄，但銅產量有所減少。該公司預測，由於智利北部一座大型礦山的品位下降，未來一年銅產量將進一步下滑。總部位於澳大利亞、按市值計全球最大的礦商必和必拓報告稱，在截至6月30日的一年中，其銅產量為195萬噸，同比下降3%。該公司表示，鐵礦石產量總計2.647億噸，同比增長1%；鍊鋼煤產量為1,860萬噸，同比增長3%。必和必拓曾預測年度銅產量在190萬至200萬噸之間，而根據Visible Alpha彙總的平均預期，分析師們預計產量約為195萬噸。該礦商預計未來一年的產量將在165萬至180萬噸之間。該公司稱，這“主要是由於全球最大銅礦埃斯康迪達(Escondida)的品位料將下降“。在鐵礦石業務方面，必和必拓此前對過去一年的鐵礦石年產量預估在2.58億至2.69億噸之間。據Visible Alpha的資料，分析師的預期約為2.641億噸。必和必拓表示，預計未來一年將生產2.6億至2.72億噸的這種鍊鋼原料。"
+    },
+    {
+      "id": "4990874",
+      "time": "2026-07-16 07:26:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【銀行理財換錨：業績基準更真實 投資者還得“跨一步”】當前，多家理財公司將理財產品的業績比較基準由固定數值型切換為動態指數型。某頭部股份行理財公司產品部人士向記者表示：“公司正全面梳理產品資訊，以後業績比較基準將無法隨意調整，每隻產品的業績比較基準都要根據資料測算，挑選出與產品定位和長期走勢相吻合的指陣列合。”銀行理財業，正從“數字預期”向著“跑贏指數”的透明化路徑轉型。行業轉型也伴隨著陣痛。多家理財公司內部人士表示：“指數型業績比較基準降低了收益率預期，能真實反映市場走勢以及底層資產收益表現，但可能帶來投資者看不懂的問題。”如何幫助投資者“跨一步”，是這場變革中理財機構需要探索的課題。（中國證券報）"
+    },
+    {
+      "id": "4990873",
+      "time": "2026-07-16 07:25:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳大利亞的AI標準將僅影響新建資料中心】澳大利亞總理安東尼·阿爾巴尼斯表示，政府對AI資料中心實施嚴格監管的舉措將僅適用於新專案。阿爾巴尼斯週三宣佈，資料中心將被要求自行解決電力供應問題，並儘量減少用水量。“這將針對新的提案。你無法進行改造，“他說。澳大利亞吸引了大量資料中心投資，而社群對潛在影響的擔憂正在迅速加劇。"
+    },
     {
       "id": "4990872",
       "time": "2026-07-16 07:24:19",
