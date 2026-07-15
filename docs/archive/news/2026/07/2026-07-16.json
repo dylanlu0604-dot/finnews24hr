@@ -1,7 +1,64 @@
 {
   "date": "2026-07-16",
-  "count": 146,
+  "count": 152,
   "items": [
+    {
+      "id": "mkt:019f66e0-1d8e-7aab-8dad-d8a4df1dcd5a",
+      "time": "2026-07-16 01:43:11",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. Vice President Vance said the United States will not deploy ground troops to carry out regime change."
+    },
+    {
+      "id": "mkt:019f66df-4580-7aab-8dad-d6f832ab1d0f",
+      "time": "2026-07-16 01:42:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "USD/CAD fell 0.18% to 1.4035, a four-week low."
+    },
+    {
+      "id": "4990564",
+      "time": "2026-07-16 01:41:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國副總統萬斯： 我們不會派遣地面部隊以實施政權更迭。"
+    },
+    {
+      "id": "mkt:019f66dd-3317-7aab-8dad-cacc2a3d0387",
+      "time": "2026-07-16 01:40:00",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "AUD/USD intraday gain widened to 0.50%, trading at 0.7009."
+    },
+    {
+      "id": "mkt:019f66dc-d713-7aab-8dad-c1a480e2eda8",
+      "time": "2026-07-16 01:39:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran parliament speaker Ghalibaf said separating negotiations from war and treating them as mutually exclusive is a strategic mistake."
+    },
+    {
+      "id": "mkt:019f66dc-cc98-7aab-8dad-b97c766866d3",
+      "time": "2026-07-16 01:39:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said negotiations at this stage are not equivalent to compromise but, like war, are part of a resistance strategy to defend national interests."
+    },
     {
       "id": "mkt:019f66dc-bed4-7aab-8dad-b26f82d3f560",
       "time": "2026-07-16 01:39:30",
