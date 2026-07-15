@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-16 07:52:58",
-  "count": 18617,
+  "updated": "2026-07-16 07:56:48",
+  "count": 18610,
   "items": [
+    {
+      "id": "4990918",
+      "time": "2026-07-16 07:55:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓美半導體計劃在韓國新建工廠。"
+    },
+    {
+      "id": "4990917",
+      "time": "2026-07-16 07:54:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【《紐約時報》就空軍一號案中的記者傳票提出抗爭】特朗普政府因一篇報道卡達捐贈的空軍一號專機存在安全隱患的新聞，向《紐約時報》記者下發傳票，要求記者到大聯邦陪審團出庭作證，《紐約時報》對此予以拒絕。《紐約時報》披露，美國紐約南區聯邦檢察官傑伊・克萊頓於 7 月 10 日簽發傳票，要求相關記者本週三前往曼哈頓聯邦法院到庭。該報表示，已提交密封動議申請撤銷傳票，稱這份傳票 “濫用職權、不合規”。報社高階副總裁兼副總法律顧問戴維・麥克勞發表宣告稱：“政府惡意下發傳票，目的是報復本報的相關報道。此舉侵犯了《紐約時報》及其記者的憲法權利。我們將訴諸法庭，捍衛記者自由報道政府動態、向公眾傳遞重要新聞的權利。”"
+    },
     {
       "id": "4990916",
       "time": "2026-07-16 07:52:26",
@@ -68,6 +85,15 @@
         "Impact bearish"
       ],
       "text": "Foreign investors were net buyers of JGBs to the tune of JPY 499.8 bln in the week to July 10, versus net selling of JPY 5.9 bln in the prior week."
+    },
+    {
+      "id": "em:jjsj_rbsj:202607163808085144",
+      "time": "2026-07-16 07:50:28",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至7月10日當週外資買進日股7456億日元，前值由-222億日元修正為-213億日元。"
     },
     {
       "id": "4990912",
@@ -171131,97 +171157,6 @@
         "其他"
       ],
       "text": "中國地震臺網正式測定：07月09日07時44分在四川宜賓市高縣（北緯28.51度，東經104.68度）發生4.8級地震，震源深度6千米。"
-    },
-    {
-      "id": "4977754",
-      "time": "2026-07-09 07:56:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海多區釋出雷電黃色預警】據上海釋出，上海市氣象臺7月9日00時30分發布中心城區雷電黃色預警訊號：預計今天上午以前，中心城區大部將發生雷電活動，可能會造成雷電災害事故，請注意防範。"
-    },
-    {
-      "id": "4977753",
-      "time": "2026-07-09 07:56:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "今年以來，英偉達股價明顯落後於整體晶片行業表現。美國銀行認為，這是一個“更具吸引力的買入機會”，而不是風險警示訊號。分析師Vivek Arya承認市場確實存在一些令投資者擔憂的因素，但他認為市場反應過度。"
-    },
-    {
-      "id": "mkt:019f4428-afa1-7aab-8d01-4570a6deca86",
-      "time": "2026-07-09 07:55:44",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA lags peers YTD; BofA says market overreacting】NVIDIA has materially underperformed the broader chip sector year-to-date, but BofA calls the weakness a more attractive buy than a risk signal. Analyst Vivek Arya concedes real investor concerns — notably rising HBM costs — but says the market has overreacted and underestimated NVIDIA's pricing power, scale and roughly $119 bln of supply commitments. He expects next‑generation Rubin pricing could be meaningfully higher than current Blackwell products, allowing the company to offset higher HBM costs and sustain gross margins in the mid‑70s pct range. Arya also downplays custom‑chip competition (e.g., Google/Broadcom TPU), noting TPU has existed for >10 years while NVIDIA GPU revenue grew ~700x; he projects NVIDIA will capture about 65–70% of hyperscaler AI infrastructure spend over the long term. NVIDIA trades at a forward P/E of ~18.69x, roughly half its 10‑year average and near an 11‑year trough."
-    },
-    {
-      "id": "4977752",
-      "time": "2026-07-09 07:55:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國石化簽約烏茲別克首個全產業鏈可持續航空燃料（SAF）專案設計合同】據中國石化報，在第五屆塔什干國際投資論壇期間，中國石化煉化工程集團所屬寧波工程公司與烏茲別克聯合生物能源公司（Allied biofuels FE LLC）正式簽署該國可持續航空燃料（SAF）專案前端工程設計及詳細設計合同。此次簽約是中國石化煉化工程板塊海外低碳新能源業務的重要突破。該專案是中亞首個大型全產業鏈生物航油綜合體，集生物質原料加工、綠色制氫、可持續航空燃料、電合成航油（e-SAF）、綠色柴油生產於一體。"
-    },
-    {
-      "id": "mkt:019f4428-578e-7aab-8d01-39fa757ed80a",
-      "time": "2026-07-09 07:55:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan broad money YoY 4.5% in June, down from 4.7% previously."
-    },
-    {
-      "id": "mkt:019f4428-3b03-7aab-8d01-364cb2f0786b",
-      "time": "2026-07-09 07:55:14",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Broadest Liquidity (YoY) (Jun) | actual 4.5% | previous 4.7%"
-    },
-    {
-      "id": "4977751",
-      "time": "2026-07-09 07:54:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中泰證券：厄爾尼諾下旺季延長+結構遷移為核心趨勢 中大包裝水將迎來需求雙重利好】中泰證券研報表示，展望2026年，若夏秋出現中等及以上強度厄爾尼諾，全國大範圍高溫、飲料銷售旺季延長將成為高確定性趨勢。6—9月本就是包裝水全年銷售高峰，持續高溫將進一步放大家庭、餐飲端中大包裝用水需求，疊加行業本身中大規格長期高景氣的發展趨勢，中大包裝水將迎來需求雙重利好。"
-    },
-    {
-      "id": "4977750",
-      "time": "2026-07-09 07:54:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【OpenAI最強模型GPT-5.6週四亮相 美國政府審查後放行】OpenAI將於週四正式釋出其最先進的人工智慧(AI)模型GPT-5.6。此前由於美國政府基於國家安全疑慮，擔心強大AI技術可能遭到濫用，該模型上個月在政府要求下推遲釋出。專家指出，這類技術可能大幅提升複雜網路攻擊的能力，尤其是在那些依賴高度互聯、且往往已有數十年曆史的技術系統領域中。華盛頓已加強對先進AI模型釋出的審查力度，以識別潛在威脅。率先披露OpenAI新模型釋出訊息的Axios報導稱，在經過額外測試以及與政府官員舉行多場會議後，特朗普政府已批准GPT-5.6的全面釋出。此前，OpenAI僅向少數透過稽核的合作伙伴開放GPT-5.6，且相關合作伙伴名單已提供給政府主管機關。OpenAI週二夜晚在X平臺發文表示，將推出效能最強大的GPT-5.6 Sol，以及成本較低的Terra和Luna模型。"
-    },
-    {
-      "id": "4977749",
-      "time": "2026-07-09 07:53:47",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：油價回落與客運旺季共振，交運板塊佈局景氣修復+中報確定性+穩健紅利】華泰證券研報表示，7月，市場風格或從極致結構轉向攻防平衡，資金有望繼續向景氣改善與業績兌現方向集中，交運板塊可沿著“景氣改善+中報確定性+防禦性”佈局。景氣改善方面，油價回落緩解成本壓力、暑運啟動或形成催化。中報確定性方面，物流快遞反內捲成果延續，快遞價格同比改善，疊加燃油附加費傳導油價成本，建議把握中報視窗期。防禦性方面，油價回落有望改善高速貨運成本壓力，車流量修復對公路基本面形成支撐。"
-    },
-    {
-      "id": "4977748",
-      "time": "2026-07-09 07:53:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【週三遭遇拋售後日經指數或將上漲】週三，對伊朗衝突再度引發擔憂引發了拋售，此後日本股市或將上漲。新加坡交易所日經指數期貨上漲1.4%，至67885點。在美國總統特朗普宣佈結束為期八週的停火後，投資者正關注中東局勢的發展和原油價格。日經指數週三下跌2.1%，至66819.05點。"
     }
   ]
 }
