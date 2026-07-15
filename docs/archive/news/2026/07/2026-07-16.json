@@ -1,7 +1,46 @@
 {
   "date": "2026-07-16",
-  "count": 177,
+  "count": 180,
   "items": [
+    {
+      "id": "mkt:019f66f9-7718-7aab-8dae-5d7a21dde150",
+      "time": "2026-07-16 02:10:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【FED'S BEIGE: Employment Broadly Up, Wages Rose Modestly】FED'S BEIGE reports the U.S. labor market broadly expanded. Of 12 Fed districts, five saw job gains (ranging from mild to moderate-to-meaningful), seven were essentially unchanged; only one district showed an improvement versus the prior report. Employment gains were concentrated in manufacturing, construction and retail, while technicians and skilled trades remain hard to hire; a few districts reported limited job declines. Wages largely rose modestly to moderately, with some pay increases driven by competition for skilled labor. Several districts noted firms are increasingly using AI for candidate screening or to raise employee productivity."
+    },
+    {
+      "id": "4990576",
+      "time": "2026-07-16 02:10:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大知情人士訊息：加拿大已達成協議，將以觀察員身份加入由日本、英國、義大利聯合推進的先進戰鬥機專案。該協議將於下週二範堡羅航展上正式公佈。"
+    },
+    {
+      "id": "mkt:019f66f8-1fe8-7aab-8dae-53e5946ee617",
+      "time": "2026-07-16 02:09:24",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact mixed",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "【FED'S BEIGE: U.S. economy modestly expands; consumption pressured, fuel-cost outlook uncertain】FED'S BEIGE reports that between late May and June U.S. economic activity expanded slightly to moderately in 11 of 12 Fed districts, roughly in line with the prior period. High oil prices and fuel costs weighed on parts of consumer spending, prompting cuts to discretionary purchases and shifts toward lower-priced goods. Travel activity picked up, with World Cup-related flows boosting some regions. Manufacturing showed moderate growth, supported by increased orders for data centers, machinery and defense. Construction and real estate activity edged up, led by data-center building. Energy-sector drilling increased. Financial conditions were broadly stable; commercial and consumer lending rose modestly. Agriculture weakened amid falling commodity prices, rising input costs and tighter credit. Most contacts expect continued expansion in the coming months, but the outlook for fuel costs remains a significant uncertainty."
+    },
     {
       "id": "4990575",
       "time": "2026-07-16 02:04:53",
