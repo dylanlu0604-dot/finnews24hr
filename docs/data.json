@@ -1,7 +1,183 @@
 {
-  "updated": "2026-07-15 15:10:04",
-  "count": 18727,
+  "updated": "2026-07-15 15:14:11",
+  "count": 18731,
   "items": [
+    {
+      "id": "mkt:019f649f-3992-7aab-8d97-ebfc44b3a327",
+      "time": "2026-07-15 15:13:04",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "【June China express delivery development index 465.4, +2.4% YoY; market expands】The State Post Bureau reported June’s China Express Development Index at 465.4, up 2.4% YoY. E‑commerce promotions and rising consumer demand have extended postal and courier services into county and township markets, supporting steady market-scale expansion."
+    },
+    {
+      "id": "4989315",
+      "time": "2026-07-15 15:13:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲1%。"
+    },
+    {
+      "id": "4989314",
+      "time": "2026-07-15 15:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【6月中國快遞發展指數同比增長2.4% 市場規模穩步擴容】記者今天從國家郵政局瞭解到，今年6月中國快遞發展指數為465.4，同比增長2.4%。在電商大促等多種消費需求帶動下，郵政快遞業不斷把服務觸角延伸到縣鄉村，市場規模穩步擴容。（央視新聞）"
+    },
+    {
+      "id": "4989313",
+      "time": "2026-07-15 15:12:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委會成員兼德國央行行長內格爾：6月決議後，歐洲央行利率處於合適水平。中東局勢動盪，不確定性高。"
+    },
+    {
+      "id": "te:economy:567107",
+      "time": "2026-07-15 15:12:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Balance of Trade",
+        "Importance 0"
+      ],
+      "text": "Moldova Trade Deficit Widens in May — Moldova’s trade deficit widened to USD 640.2 million in May 2026 from USD 597.4 million in the same month last year. Exports rose 17.1% year-on-year to USD 301.8 million, supported by higher shipments to the EU (12.1%), CIS countries (13.0%), and other markets (31.3%). Meanwhile, imports increased 10.1% to USD 942.0 million, driven by stronger purchases from CIS countries (45.0%), the EU (14.5%), and other countries (3.6%). Over the first five months of the year, the country’s trade gap widened to USD 3,270.4 million from USD 2,928.1 million in the corresponding period of the previous year."
+    },
+    {
+      "id": "4989312",
+      "time": "2026-07-15 15:11:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委內格爾：如有必要必須採取果斷行動。"
+    },
+    {
+      "id": "mkt:019f649e-180b-7aab-8d97-e305c84cba67",
+      "time": "2026-07-15 15:11:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Crédit Agricole: After July hike, Bank of Korea more likely to raise again in October】Crédit Agricole says markets broadly expect the Bank of Korea to lift the policy rate by 25bps to 2.75% on July 16. The central bank has repeatedly underlined the case for tightening, so market participants will watch closely for any hints on the timing and terminal rate of this cycle. Given the BOK only updates macro forecasts and its six‑month forward guidance in August, and global oil prices have eased since the last meeting, Crédit Agricole expects the bank to avoid signaling an August follow‑up move and to be more likely to act in October. At the July meeting the BOK may indicate scope for further hikes but is unlikely to provide a firm timetable, preferring to await additional data."
+    },
+    {
+      "id": "4989311",
+      "time": "2026-07-15 15:11:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星電子和三星顯示正聯合開發玻璃中介層】三星電子和三星顯示正在聯合開發下一代玻璃中介層，預計最早將於今年內生產出原型產品，並參與面向全球大型科技客戶的競標活動。據悉，三星顯示近日組建玻璃中介層研發團隊，並已啟動初步研究，其計劃將研究重點放在透過光刻工藝在玻璃上形成重分佈層（RDL）的圖案化技術上。"
+    },
+    {
+      "id": "4989310",
+      "time": "2026-07-15 15:11:21",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【華福證券：美聯儲政策難以快速轉向寬鬆】6月美國CPI同比增長3.5%，低於預期3.8%，前值4.2%。核心CPI同比上漲2.6%，前值2.9%；環比增長0%，顯著不及預期的0.2%。對此，華福證券表示，傳統消費疲軟、地產需求持續低迷，疊加AI產業鏈在CPI統計中權重偏低，整體拉動有限，未來美國核心CPI資料大機率維持溫和回落態勢。美聯儲政策錨定的核心PCE指標近數月持續抬升，當前讀數仍顯著高於2%的通脹目標，通脹黏性並未徹底消退，美聯儲政策難以快速轉向寬鬆。"
+    },
+    {
+      "id": "mkt:019f649d-8e0e-7aab-8d97-d92554615841",
+      "time": "2026-07-15 15:11:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "【PBOC: June weighted average interbank lending rate 1.41%, +10bps MoM】PBOC released its 1H 2026 financial statistics report. Interbank RMB market turnover totaled CNY 1,169.05 trillion in 1H, daily average CNY 9.74 trillion, up 20% YoY. By instrument, daily average interbank lending rose 36% YoY, outright bond trading +6.9% YoY, pledged repo +22.5% YoY. June weighted average interbank lending rate was 1.41% (+10bps MoM, -5bps YoY); pledged repo weighted average was 1.43% (+10bps MoM, -7bps YoY)."
+    },
+    {
+      "id": "4989309",
+      "time": "2026-07-15 15:10:54",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【央行：6月份銀行間人民幣市場同業拆借月加權平均利率為1.41%】上半年銀行間人民幣市場以拆借、現券和回購方式合計成交1169.05萬億元，日均成交9.74萬億元，日均成交同比增長20%。其中，同業拆借日均成交同比增長36%，現券日均成交同比增長6.9%，質押式回購日均成交同比增長22.5%。6月份同業拆借加權平均利率為1.41%，比上月高0.1個百分點，比上年同期低0.05個百分點；質押式回購加權平均利率為1.43%，比上月高0.1個百分點，比上年同期低0.07個百分點。"
+    },
+    {
+      "id": "4989308",
+      "time": "2026-07-15 15:10:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本散戶持有美元淨空頭飆至2.79萬億日元 創2008年以來歷史之最】據日本金融期貨協會資料顯示，散戶交易者的美元淨空頭頭寸較上月激增逾三倍，達到2.79萬億日元(約合172億美元)，創下自2008年底有記錄以來的歷史最大規模。儘管這些看空押注也可能涉及其他貨幣對，但日元相關未平倉頭寸規模龐大，表明其主要集中於美元兌日元持倉。市場普遍猜測日本官方可能再度出手干預以提振日元匯率。"
+    },
+    {
+      "id": "mkt:019f649c-a0cc-7aab-8d97-d6946434114a",
+      "time": "2026-07-15 15:10:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB Executive Board member Nagel said monetary policy will remain in a vigilant stance."
+    },
+    {
+      "id": "mkt:019f649c-7b9f-7aab-8d97-ce5574fd2f26",
+      "time": "2026-07-15 15:10:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PBOC: At end-June, China's foreign exchange reserves stood at $3.42 trillion. At end-June, the RMB exchange rate was 1 USD = 6.8109 yuan."
+    },
+    {
+      "id": "mkt:019f649c-5312-7aab-8d97-c4b0ed1c8628",
+      "time": "2026-07-15 15:09:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【PBOC: 1H cross‑border RMB settlement under current account 9.83 tln yuan】PBOC data: 1H cross‑border RMB settlement under the current account totaled 9.83 tln yuan, of which goods trade accounted for 7.71 tln yuan and services and other current items 2.12 tln yuan. Cross‑border RMB settlement for direct investment was 4.17 tln yuan, split between 1.50 tln yuan in outbound direct investment and 2.67 tln yuan in inbound foreign direct investment."
+    },
+    {
+      "id": "mkt:019f649c-45ef-7aab-8d97-bcf29534912c",
+      "time": "2026-07-15 15:09:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB Governing Council member Nagel said geopolitical developments in recent weeks have been a mix of hope and disappointment."
+    },
+    {
+      "id": "mkt:019f649c-2d53-7aab-8d97-b2f07db19bd7",
+      "time": "2026-07-15 15:09:44",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB policymaker Nagel said it is prudent for monetary policy to respond cautiously, but to act decisively when necessary."
+    },
+    {
+      "id": "4989307",
+      "time": "2026-07-15 15:09:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金祿電子：目前在手訂單充足，不存在下游客戶訂單預期下修、需求疲軟的情形】金祿電子7月15日在互動平臺表示，公司目前在手訂單充足，不存在下游客戶訂單預期下修、需求疲軟的情形，且清遠和安陸兩大主要生產基地目前不存在產能閒置的情形。根據公司的經營計劃，2026年新增的產能將在下半年釋放。"
+    },
     {
       "id": "mkt:019f649b-d455-7aab-8d97-add12f9d54d9",
       "time": "2026-07-15 15:09:21",
@@ -171560,139 +171736,6 @@
         "公司"
       ],
       "text": "【富臨精工等成立新能源公司，註冊資本4億元】企查查APP顯示，近日，德陽富臨磷泰新能源有限公司成立，法定代表人為曾小林，註冊資本為4億元，經營範圍包含：電子專用材料製造；電子專用材料銷售；電子專用材料研發等。企查查股權穿透顯示，該公司由德陽磷泰新材料集團有限公司、富臨精工旗下江西昇華新材料有限公司等共同持股。"
-    },
-    {
-      "id": "mkt:019f4093-a3aa-7aab-8ce4-3d5e4247c2c9",
-      "time": "2026-07-08 15:14:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Germany's two-year government bond yield rose 6 bps to 2.646%, its highest level since June 19."
-    },
-    {
-      "id": "mkt:019f4093-7399-7aab-8ce4-35be2fd3222b",
-      "time": "2026-07-08 15:13:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Market pricing implies the ECB will tighten by a further 32bps this year, up from 25bps priced in on Tuesday."
-    },
-    {
-      "id": "4975954",
-      "time": "2026-07-08 15:13:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "交易員定價顯示，歐洲央行今年將進一步收緊貨幣政策，幅度累計為32個基點，高於週二時的25個基點。"
-    },
-    {
-      "id": "4975953",
-      "time": "2026-07-08 15:13:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "德國兩年期國債收益率上漲6個基點，至2.646%，創6月19日以來新高，此番變動因油價攀升推動。"
-    },
-    {
-      "id": "mkt:019f4092-9e65-7aab-8ce4-2a9375de30e6",
-      "time": "2026-07-08 15:12:58",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's foreign ministry urged the United States and Iran to implement the memorandum of understanding they have signed, Xinhua said."
-    },
-    {
-      "id": "4975951",
-      "time": "2026-07-08 15:12:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "德黑蘭7月8日電 伊朗媒體8日報道說，伊朗伊斯蘭革命衛隊一名士兵在敵軍無人機襲擊中死亡。（新華社）"
-    },
-    {
-      "id": "4975950",
-      "time": "2026-07-08 15:12:24",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【外交部回應中東局勢戰火重燃】7月8日，外交部發言人毛寧主持例行記者會。 據報道，當地時間7月7日，美軍中央司令部稱已完成對伊朗新一輪打擊，擊中超過80個目標。法新社記者在會上就此提問稱，今天美伊雙方相互打擊，中方對中東局勢戰火重燃有何看法？ 對此，毛寧表示：“我們正在關注中東局勢的最新動向。重燃戰火不符合任何一方的利益，軍事手段解決不了根本問題。我們呼籲美伊雙方落實好已經簽署的諒解備忘錄，透過對話談判化解爭端，避免訴諸武力。”（北青報）"
-    },
-    {
-      "id": "mkt:019f4091-d5c9-7aab-8ce4-26bd3380cda6",
-      "time": "2026-07-08 15:12:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign media say China, Panama to hold maritime talks; foreign ministry defers to relevant department】Foreign media report China and Panama will hold maritime talks in China on July 16-18 to discuss Panama-flagged vessels detained in Chinese ports. At a July 8 briefing, foreign ministry spokesperson Mao Ning declined to comment and referred queries to the competent department."
-    },
-    {
-      "id": "4975949",
-      "time": "2026-07-08 15:11:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒稱中國與巴拿馬將舉行海事會談，外交部：建議向主管部門瞭解】7月8日，外交部發言人毛寧主持例行記者會。埃菲社記者提問，據報道，中國和巴拿馬將於7月16日至18日在中國舉行海事會談，討論巴拿馬籍船舶在中國港口被滯留等問題，請問中方能否介紹有關情況？“這個問題建議你向中方的主管部門瞭解。”毛寧說。（北京日報）"
-    },
-    {
-      "id": "4975948",
-      "time": "2026-07-08 15:11:33",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日產在美國召回部分2026款Rogue，因擋位顯示缺陷】美國國家公路交通安全管理局（NHTSA）7月8日釋出公告，日產北美公司正在申請召回部分2026款Rogue汽車，潛在受影響的車輛總數為5,823輛。由於相關車輛的儀表盤可能無法顯示當前的變速箱擋位指示器。"
-    },
-    {
-      "id": "4975947",
-      "time": "2026-07-08 15:11:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "菲律賓：亞馬遜雲科技投資規劃週期長達15年。"
-    },
-    {
-      "id": "4975946",
-      "time": "2026-07-08 15:11:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【訊息人士稱海力士配股相關美元拋盤推動韓元升至逾一個月高位】知情人士向路透透露，週三韓國美元兌韓元遠期市場出現與韓國晶片廠商 SK 海力士赴美配股相關的美元賣盤，韓元匯率隨之升至一個多月以來高點。該不願具名訊息人士表示：“今日市場出現多筆海力士美國存託憑證（ADR）配套遠期美元拋售操作，此事敏感度較高，不便透露身份。”本週早些時候，SK 海力士啟動美股配售計劃，擬募資 43 萬億韓元（摺合 286.66 億美元），借力人工智慧行業熱潮開展本次全球大型股權融資，各大機構意向認購總額最高達 70 億美元。據報道，SK 海力士預計 7 月 15 日前後將海外募集美元資金匯入韓國，並把部分 ADR 配售所得兌換為韓元。韓元兌美元匯率大漲 1%，突破 1500 關口，盤中觸及 1 美元兌 1498.1 韓元，創 5 月 29 日以來新高。"
-    },
-    {
-      "id": "4975945",
-      "time": "2026-07-08 15:10:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【國盛證券：首予新金路“買入”評級，三個行業景氣度均處於上漲階段】國盛證券研報指出，新金路作為新進錫鎢鉭鈮礦業的新星企業，充分享受錫、鎢、鉭價格中樞上移所帶來的利潤彈性，且公司主力礦山建設專案推進順利，“量價齊升”未來公司業績彈性較大。預計2026-2028年公司實現歸母淨利-1.3/2.8/5.2億元，對應PE-/48/26倍，因公司慄木礦涉及的金屬品種有錫、鎢、鉭鈮，三個行業景氣度均處於上漲階段，故公司估值有一定溢價，首次覆蓋給予“買入”評級。"
-    },
-    {
-      "id": "4975944",
-      "time": "2026-07-08 15:10:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安博通出資設立半導體裝置再製造合資公司 實控人同步入主光刻機廠商ABM Asia】安博通（688168）日前公告，擬出資1020萬元控股設立合資公司“博通港刻”，持股51%，主營成熟製程半導體裝置整機再製造及相關零部件業務。值得關注的是，本次投資背後存在一攬子交易安排——公司實控人鍾竹擬收購合作方晟霖港刻30%股權並擔任董事，交易完成後將間接持有全球光刻機裝置製造商ABM Asia 24%股權。資料顯示，ABM在半導體光刻裝置領域深耕超20年，掌握超2000項關鍵零部件專有技術，已向全球超300家客戶累計交付近1000臺裝置，2025年其光刻機量產專案已落戶廣東佛山。安博通亦在公告中提示了跨領域整合等相關風險。"
     }
   ]
 }
