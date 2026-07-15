@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-15 09:55:23",
-  "count": 18718,
+  "updated": "2026-07-15 09:59:25",
+  "count": 18720,
   "items": [
+    {
+      "id": "mkt:019f637f-5e9a-7aab-8d8e-b2672b670185",
+      "time": "2026-07-15 09:58:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Al Jazeera reported Iran said it struck US F-18 aircraft positions at the al-Azraq airbase in Jordan."
+    },
+    {
+      "id": "4988843",
+      "time": "2026-07-15 09:58:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【汽車整車板塊走高，賽力斯盤中漲5.02%】汽車整車板塊走高，賽力斯盤中漲5.02%，現報56.05元。眾泰汽車、中通客車、曙光股份、中集車輛跟漲。"
+    },
+    {
+      "id": "mkt:019f637e-9333-7aab-8d8e-af2d30c0575c",
+      "time": "2026-07-15 09:57:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish"
+      ],
+      "text": "Shanghai crude futures (SC) main contract rose 4.00% intraday to 517.20 yuan/bbl."
+    },
+    {
+      "id": "4988842",
+      "time": "2026-07-15 09:57:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.04%，成分股中，德源藥業漲14.38%，森萱醫藥漲7.24%，錦波生物漲7.18%，林泰新材漲4.85%。"
+    },
+    {
+      "id": "4988841",
+      "time": "2026-07-15 09:57:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "mkt:019f637e-51fa-7aab-8d8e-a3407ea98d8d",
+      "time": "2026-07-15 09:57:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures extend gains to 1%."
+    },
+    {
+      "id": "mkt:019f637e-2add-7aab-8d8e-98e27e946c80",
+      "time": "2026-07-15 09:57:20",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng TECH Index gains widen to 1%."
+    },
+    {
+      "id": "4988840",
+      "time": "2026-07-15 09:57:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達30億港元。"
+    },
+    {
+      "id": "4988839",
+      "time": "2026-07-15 09:57:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24634.070點；恒生科技指數現漲1.003%。"
+    },
+    {
+      "id": "4988838",
+      "time": "2026-07-15 09:56:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【建築工程板塊震盪反彈，宏潤建設漲停】建築工程板塊震盪反彈，宏潤建設漲停，東方新能、順景科技、中達安、普邦股份、日上集團、東南網架等跟漲。"
+    },
+    {
+      "id": "4988837",
+      "time": "2026-07-15 09:56:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本相關審議小組放棄就食品減稅達成共識。"
+    },
+    {
+      "id": "4988836",
+      "time": "2026-07-15 09:55:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國總統李在明：韓股短期內劇烈飆升，恢復穩定仍需時間】7月15日，韓國總統李在明在政府簡報會上表示，韓國國內股市在短時間內出現了劇烈飆升，目前顯得相當不穩定，市場要重新走向穩定仍需要一定時間。"
+    },
+    {
+      "id": "mkt:019f637c-9904-7aab-8d8e-93a79f809b57",
+      "time": "2026-07-15 09:55:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HSI gains widened to 1%; Hang Seng Tech index now up 0.57%."
+    },
+    {
+      "id": "4988835",
+      "time": "2026-07-15 09:55:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲2%，現報7704.00元。"
+    },
+    {
+      "id": "mkt:019f637c-1ab6-7aab-8d8e-8afee3f40207",
+      "time": "2026-07-15 09:55:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "06127.HK",
+        "Impact bullish",
+        "06990.HK",
+        "02359.HK"
+      ],
+      "text": "Hong Kong biotech sector firmed. 06127.HK rose over 13%, 06990.HK climbed over 10%, and 02359.HK (WuXi AppTec) and 02268.HK gained more than 5%."
+    },
+    {
+      "id": "4988834",
+      "time": "2026-07-15 09:55:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲4%，現報4650.00元。"
+    },
+    {
+      "id": "4988833",
+      "time": "2026-07-15 09:54:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大指數集體轉漲 全市場近4000只個股上漲】三大指數集體轉漲，滬指漲0.14%，深證成指漲0.38%，創業板指漲0.44%。全市場近4000只個股上漲。"
+    },
     {
       "id": "mkt:019f637b-9c68-7aab-8d8e-85a9ce42cc84",
       "time": "2026-07-15 09:54:33",
@@ -171199,143 +171373,6 @@
         "Brent"
       ],
       "text": "Iran's top joint military command reiterated it will not permit US interference in the management of the Strait of Hormuz."
-    },
-    {
-      "id": "4975378",
-      "time": "2026-07-08 09:59:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部重申，絕不允許美國干涉霍爾木茲海峽的管理；霍爾木茲海峽商業船隻和油輪的唯一安全航線由伊朗設定。"
-    },
-    {
-      "id": "mkt:019f3f72-2d1d-7aab-8cdc-4244c5a848c9",
-      "time": "2026-07-08 09:57:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iran's Supreme Joint Military Command said US forces carried out 'blatant aggression' against parts of southern Iran and that the armed forces will deliver a 'devastating response' to US attacks."
-    },
-    {
-      "id": "4975377",
-      "time": "2026-07-08 09:57:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【雲南13地啟動防汛Ⅳ級應急響應】雲南省氣象臺於7月7日22時30分發布暴雨Ⅳ級預警：預計未來24小時，曲靖南部、昆明南部、玉溪東部、紅河北部和西南部、文山北部、普洱東部、臨滄南部、德宏西部、保山北部、怒江南部、麗江南部、大理北部、楚雄西部將有暴雨區域性大暴雨。根據《雲南省防汛抗旱應急預案》有關規定，經會商研判，省防汛抗旱指揮部決定於7月7日23時對昆明市、曲靖市、玉溪市、保山市、楚雄州、紅河州、文山州、普洱市、大理州、德宏州、麗江市、怒江州、臨滄市啟動防汛Ⅳ級應急響應。"
-    },
-    {
-      "id": "te:economy:565039",
-      "time": "2026-07-08 09:57:45",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Private House Approvals",
-        "Importance 1"
-      ],
-      "text": "Australia Private House Approvals Confirmed at 8-Month High — Private house approvals in Australia rose 2.8% month-on-month to 10,537 units in May 2026, rebounding from a 0.4% decline in the previous month and marking the strongest monthly growth since September 2025. The outcome matched preliminary estimates, driven by higher approvals in Western Australia (9.9%), New South Wales (7.8%), and Victoria (2.2%), which more than offset declines in Queensland (-3.6%) and South Australia (-1.0%). On an annual basis, approvals climbed 13.2%, the fastest pace since September 2024, accelerating from an 8.3% increase in April."
-    },
-    {
-      "id": "4975376",
-      "time": "2026-07-08 09:57:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部稱，伊朗武裝部隊將對美國的襲擊做出“毀滅性回應”。"
-    },
-    {
-      "id": "4975375",
-      "time": "2026-07-08 09:57:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內漲5%，現報6923.00元。"
-    },
-    {
-      "id": "4975374",
-      "time": "2026-07-08 09:57:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股積體電路封測板塊短線走低】頎中科技跌7.75%"
-    },
-    {
-      "id": "4975373",
-      "time": "2026-07-08 09:57:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股分立器件板塊短線走低】銀河微電跌10.75%"
-    },
-    {
-      "id": "4975372",
-      "time": "2026-07-08 09:56:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高聯合軍事指揮部稱，美軍對伊朗南部部分地區發動了“公然侵略”打擊。"
-    },
-    {
-      "id": "mkt:019f3f71-1d3a-7aab-8cdc-3e5f318b4d5d",
-      "time": "2026-07-08 09:56:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to Axios, US officials said the Iranian military launched drones toward Bahrain."
-    },
-    {
-      "id": "4975371",
-      "time": "2026-07-08 09:56:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.02%，成分股中，滬矽產業跌12.65%，佰維儲存跌6.65%，晶合整合跌5.99%，華潤微跌5.73%。"
-    },
-    {
-      "id": "4975370",
-      "time": "2026-07-08 09:56:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【消費級3D列印企業快造科技完成10億元C輪融資】7月8日，消費級3D列印企業快造科技（Snapmaker）完成新一輪10億元融資，本輪融資由凱輝基金領投，好未來戰投跟投，美團戰投、美團龍珠、高瓴創投、順為資本等現有股東追投，高鵠資本擔任獨家財務顧問。"
-    },
-    {
-      "id": "4975369",
-      "time": "2026-07-08 09:56:25",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【國際貨幣基金組織任命西爾瓦娜·滕雷羅為新任首席經濟學家】當地時間7月7日，國際貨幣基金組織（IMF）宣佈任命西爾瓦娜·滕雷羅（Silvana Tenreyro）為IMF經濟顧問兼研究部（RES）主任，接替皮埃爾-奧利維耶·古蘭沙（Pierre-Olivier Gourinchas）。滕雷羅為英國央行前決策官員，目前在倫敦政治經濟學院任教。"
-    },
-    {
-      "id": "mkt:019f3f70-4875-7aab-8cdc-3618458575e1",
-      "time": "2026-07-08 09:55:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【IEA sees global gas demand down 0.5% this year】The International Energy Agency on July 7 said global natural gas consumption is projected to fall 0.5% this year—about 20 billion cubic meters—citing reduced Middle East supply and price-driven demand suppression. The IEA said the US–Iran conflict has sharply curtailed LNG shipments through the Strait of Hormuz, a route that previously handled roughly 20% of global LNG flows."
-    },
-    {
-      "id": "4975368",
-      "time": "2026-07-08 09:55:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "MOMENTA執行長：目標明年實現盈虧平衡，2028 年實現盈利。"
     }
   ]
 }
