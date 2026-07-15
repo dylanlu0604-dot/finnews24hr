@@ -1,7 +1,215 @@
 {
   "date": "2026-07-15",
-  "count": 2576,
+  "count": 2598,
   "items": [
+    {
+      "id": "4989812",
+      "time": "2026-07-15 18:44:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：紐約銀行預計全年總營收同比增長10%-11%。"
+    },
+    {
+      "id": "4989811",
+      "time": "2026-07-15 18:44:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【崑崙信託：2026年上半年營收3.20億元 淨利潤1.24億元】崑崙信託公告稱，2026年上半年，公司營業收入3.20億元，同比增長14.40%；淨利潤1.24億元，同比增長15.15%。其中，投資收益1.10億元，同比增長78.67%；公允價值變動收益8948.61萬元，同比增長14.21%。資產處置收益為 -32.15萬元，上年同期為639.81萬元。"
+    },
+    {
+      "id": "4989810",
+      "time": "2026-07-15 18:44:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾誠健華：Soficitinib治療中重度特應性皮炎Ⅲ期臨床試驗達主要終點】諾誠健華(688428.SH)公告稱，公司自主研發的新一代高選擇性口服TYK2抑制劑soficitinib(ICP-332)用於治療成人中重度特應性皮炎患者的Ⅲ期註冊性臨床試驗達到主要終點，在統計學上具有高度顯著性，並取得具有臨床意義的改善。多個次要終點亦成功達到，安全性結果與既往研究一致，未發現新安全性訊號。公司將繼續完成長期安全性隨訪，並推進後續註冊申報工作。"
+    },
+    {
+      "id": "4989809",
+      "time": "2026-07-15 18:44:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "FIRST HORIZON CORP股價盤前上漲3.7%，此前公佈的第二季獲利超預期。"
+    },
+    {
+      "id": "4989808",
+      "time": "2026-07-15 18:43:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滄州明珠：向特定物件發行股票募集資金總額調整為不超過人民幣6億元】滄州明珠公告，公司於2026年7月15日召開第九屆董事會第十七次（臨時）會議審議透過了《關於調整向特定物件發行股票方案的議案》。根據相關法律法規，公司董事會結合實際情況、專案實施安排及市場狀況等因素，將本次向特定物件發行股票募集資金總額由不超過人民幣14億元（含本數）調整為不超過人民幣6億元（含本數）。同時，發行物件所認購的股票限售期由自發行結束之日起十八個月內不得轉讓調整為三十六個月內不得轉讓。募集資金在扣除相關發行費用後的募集資金淨額將全部用於補充流動資金。"
+    },
+    {
+      "id": "4989807",
+      "time": "2026-07-15 18:43:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國聯水產：全資子公司擬以1.15億元出售美國加利福尼亞州房地產】國聯水產公告，全資子公司Liancheng Investments, LLC同意以1700萬美元（約11,544.70萬元人民幣）向LBA-Logistics出售其在美國加利福尼亞州尤尼恩城法伯街2910號的房地產。該交易所得款項將用於公司業務發展。交易尚需提交公司股東會審議，且尚未正式簽署資產轉讓協議。"
+    },
+    {
+      "id": "4989806",
+      "time": "2026-07-15 18:43:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "訊息人士：印度PFC自印度央行補貼視窗以來再次安排美元債券發行。"
+    },
+    {
+      "id": "4989805",
+      "time": "2026-07-15 18:43:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將微軟目標價由 515 美元下調至 490 美元。"
+    },
+    {
+      "id": "4989804",
+      "time": "2026-07-15 18:43:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潛能恆信：WZ10-11E-1井正式啟動作業】潛能恆信公告，智慧石油在南海22/05區塊的WZ10-11E-1井已正式啟動作業。該井設計井深為-1980米，作業時間預計為2個月左右。智慧石油計劃透過此井進一步擴大勘探成果，落實潿洲10-11構造帶整體含油規模，為後期儲量復算、開發潛力評價及整體滾動勘探部署提供關鍵資料支撐。"
+    },
+    {
+      "id": "mkt:019f655f-7cd1-7aab-8d9e-85ecd290e788",
+      "time": "2026-07-15 18:43:04",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bearish"
+      ],
+      "text": "MIZUHO cut its PT on Microsoft (MSFT.O) to $490 from $515."
+    },
+    {
+      "id": "4989803",
+      "time": "2026-07-15 18:42:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞穗將Datadog公司目標股價從220美元上調至300美元。"
+    },
+    {
+      "id": "mkt:019f655e-dec9-7aab-8d9e-785a3db46e5d",
+      "time": "2026-07-15 18:42:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Rubio to convene inaugural EDAG meeting on AI today】Secretary of State Rubio will chair the first meeting of the Economic Diplomacy Action Group (EDAG) on Wednesday. EDAG was established under the Biden administration two years ago. A State Dept official said the interagency group—made up of heads of federal agencies—is tasked with setting the direction and priorities of US economic policy to advance foreign-policy objectives, including US leadership in artificial intelligence. Attendees include officials from the State Dept, Commerce, Energy, Agriculture, Defense and Treasury, plus the U.S. Trade Representative, Ex-Im Bank, DFC, USTDA, SBA, the Millennium Challenge Corporation and the White House Office of Science and Technology Policy."
+    },
+    {
+      "id": "4989802",
+      "time": "2026-07-15 18:42:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽維時代：眾騰投資擬向陳文平轉讓9%股份，權益變動觸及5%整數倍】賽維時代公告，公司持股5%以上股東共青城眾騰創業投資合夥企業（有限合夥）與實際控制人陳文平簽署股份轉讓協議，眾騰投資擬將其持有的3658.36萬股無限售流通股（佔公司總股本9.00%）以16.75元/股轉讓給陳文平。本次轉讓不涉及向市場減持，系陳文平將間接持股轉為直接持股。轉讓後，陳文平直接持股9.00%，眾騰投資持股比例由17.93%降至8.93%，權益變動觸及5%整數倍。本次協議轉讓尚需深交所合規性稽核及中登公司辦理過戶手續。"
+    },
+    {
+      "id": "4989801",
+      "time": "2026-07-15 18:42:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特寶生物：ACT201注射液的藥物臨床試驗申請獲得批准】特寶生物公告，公司於近日收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，公司ACT201注射液的藥物臨床試驗申請獲得批准。藥品名稱為ACT201注射液，申請人是廈門特寶生物工程股份有限公司，申請事項為境內生產藥品註冊臨床試驗，受理號為CXHL2600690。審批結論是同意本品開展慢性乙型肝炎的臨床試驗。"
+    },
+    {
+      "id": "mkt:019f655e-b5c9-7aab-8d9e-74cf72db3989",
+      "time": "2026-07-15 18:42:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said Ukraine will produce 20 mln drones annually; current annual output is 10 mln."
+    },
+    {
+      "id": "te:markets:567190",
+      "time": "2026-07-15 18:42:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Lead Hits 15-month Low — Lead decreased to 1855.00 USD/T, the lowest since April 2025. Over the past 4 weeks, Lead lost 6.41%, and in the last 12 months, it decreased 6.26%."
+    },
+    {
+      "id": "mkt:019f655e-8f4d-7aab-8d9e-6e7db618b545",
+      "time": "2026-07-15 18:42:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Gulf states' patience with Iran may soon run out】Zeidon Alkinani, founder of the Arab Perspectives Institute, said Gulf states under attack have faced growing pressure to pick sides since US and Israeli military action against Iran began. He noted Gulf Cooperation Council states strongly opposed the Feb. 28 US-Israeli operation but continue to bear the brunt of Iranian drone and missile strikes. Alkinani said an urgent endgame is needed to avoid forcing Gulf states into a choice, and warned Iran is exploiting the conflict to seek regional military advantage and to demonstrate strike capabilities against neighbors—including those advocating diplomacy—so Gulf states' patience and posture toward Iran could change soon."
+    },
+    {
+      "id": "4989800",
+      "time": "2026-07-15 18:42:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭與歐盟達成無人機協議】7月15日，在烏克蘭首都基輔舉行的烏克蘭國家日慶祝儀式上，歐盟委員會主席馮德萊恩宣佈，烏克蘭與歐盟已達成無人機協議。馮德萊恩表示，烏克蘭已逐步從武器買家轉變為歐洲安全網路的供應商。馮德萊恩強調，歐盟與烏克蘭必須共同利用烏克蘭在無人機及反無人機系統方面積累的獨特實戰經驗。馮德萊恩指出，歐洲已具備可部署的巨大技術和工業潛力，並擁有安全可靠的生產基地以協助擴大產能。該協議將結合烏克蘭的創新能力與歐洲的工業規模，並向外界釋放明確訊號：當前正是投資烏克蘭及共同安全的時機。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f655e-7e02-7aab-8d9e-61d5c23c7267",
+      "time": "2026-07-15 18:41:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Xiaomi",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "01810.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Xiaomi MiMo completes large-language, multimodal and speech model suite】Xiaomi Group (01810.HK) said its self‑developed MiMo edge‑side model has been officially registered with China’s national large‑model registry. MiMo has completed a closed‑loop model matrix covering large language, multimodal and speech capabilities and, via edge‑cloud collaboration, will be deployed across Xiaomi’s phone‑car‑home ecosystem. The company named AI, chips and OS as its three long‑term core tech tracks and said it will invest 16 bln yuan in AI in 2026 and at least 60 bln yuan over the next three years."
+    },
+    {
+      "id": "te:economy:567189",
+      "time": "2026-07-15 18:41:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Ireland",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Ireland Trade Surplus Narrows Sharply in May — Ireland’s trade surplus narrowed sharply to EUR 3.4 billion in May 2026 from EUR 12.1 billion in the same month a year earlier. Exports plunged 29.1% year-on-year to EUR 16.5 billion, weighed down by a decline in shipments of medicinal and pharmaceutical products (-58.9%), chemicals and related products (-50.4%), and other transport equipment (-24.5%). Among key trading partners, exports decreased to Belgium (-35.2%), Italy (-44.8%), the Netherlands (-29.9%), and the US (-55.9%). Meanwhile, imports jumped 17.5% to EUR 13.1 billion, lifted by higher purchases of petroleum and petroleum products (+69.9%), machinery and transport equipment (+45.7%), and telecommunications and sound recording, reproducing equipment (+32.7%). Imports increased from Germany (+5.3%), France (+17.3%), the UK (+2.7%), and the Netherlands (+4.8%). For the January–May period, the trade surplus reached EUR 21.5 billion, significantly lower compared to EUR 74 billion recorded in the same period of last year."
+    },
+    {
+      "id": "4989799",
+      "time": "2026-07-15 18:41:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將CLOUDFLARE目標價從260美元上調至310美元。"
+    },
+    {
+      "id": "4989798",
+      "time": "2026-07-15 18:40:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿聯酋國家石油公司集團（ENOC GROUP）將透過Autopro在四家選定的ENOC加油站推出電動直流快充站EVS Express。"
+    },
     {
       "id": "4989797",
       "time": "2026-07-15 18:40:25",
