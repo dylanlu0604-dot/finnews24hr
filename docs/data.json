@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-15 09:43:25",
-  "count": 18741,
+  "updated": "2026-07-15 09:47:28",
+  "count": 18729,
   "items": [
+    {
+      "id": "4988821",
+      "time": "2026-07-15 09:46:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "光伏概念震盪反彈，愛旭股份漲停，東方新能、合盛矽業、固德威、阿特斯、弘元綠能等跟漲。"
+    },
+    {
+      "id": "te:markets:566974",
+      "time": "2026-07-15 09:45:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AIA Stock Price Hits 4-week High — AIA shares increased to 75.55 HKD, the highest since June 2026. Over the past 4 weeks, AIA Group lost 3.14%, and in the last 12 months, it increased 7.47%."
+    },
+    {
+      "id": "mkt:019f6372-7c93-7aab-8d8e-415252f08ed9",
+      "time": "2026-07-15 09:44:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share retail stocks rose; Ningbo Zhongbai hit limit-up, while Xinhua Department Store, Tianyin Holdings, Yonghui Superstores, Red Star Macalline and China Tourism Group Duty Free advanced."
+    },
+    {
+      "id": "4988820",
+      "time": "2026-07-15 09:44:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4988819",
+      "time": "2026-07-15 09:44:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【零售板塊走高，寧波中百漲停】零售板塊走高，寧波中百漲停，新華百貨、天音控股、永輝超市、美凱龍、中國中免跟漲。"
+    },
+    {
+      "id": "4988818",
+      "time": "2026-07-15 09:43:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國券商討論提高晶片股槓桿ETF的最低存款要求】韓國金融投資協會表示，該國10家大型資產管理公司的CEO討論了推出針對個股槓桿ETF的投資者保護措施，包括提高最低存款要求以及分散再平衡交易時間。根據該協會發布的宣告，與會者一致認為，有必要將投資此類槓桿產品的最低存款要求從目前的1000萬韓元（6714美元）水平上提高。為了降低每日再平衡交易（集中在收盤前）對市場的影響，各資產管理公司表示，需要努力將再平衡活動攤到交易日的各個時段中去。他們還指出，需要加強流動性提供者的市場穩定器作用。韓國金融投資者協會援引韓國資本市場研究院的資料稱，自相關槓桿ETF推出以來，每日再平衡所需的股票交易量估計約為7000億-2.1萬億韓元。"
+    },
+    {
+      "id": "4988817",
+      "time": "2026-07-15 09:43:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力晶片股早盤走弱，沐曦股份跌近10%，摩爾執行緒、景嘉微、瀾起科技、大勝達、翱捷科技、寒武紀跟跌。"
+    },
     {
       "id": "mkt:019f6370-cda9-7aab-8d8e-3817cad21d13",
       "time": "2026-07-15 09:42:44",
@@ -171372,191 +171442,6 @@
         "市場"
       ],
       "text": "【培育鑽石板塊震盪走弱，恆盛能源跌停】培育鑽石板塊震盪走弱，恆盛能源跌停，中兵紅箭、沃爾德、晶盛機電、楚江新材、國機精工、奔朗新材等跟跌。"
-    },
-    {
-      "id": "4975349",
-      "time": "2026-07-08 09:47:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：在霍爾木茲海峽及其附近打擊60多艘伊朗伊斯蘭革命衛隊小型船隻。"
-    },
-    {
-      "id": "mkt:019f3f68-7ab4-7aab-8cdb-c93acbfcc72a",
-      "time": "2026-07-08 09:47:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NDRC allocates 50 mln yuan central-budget funds for Hubei post-storm recovery】The National Development and Reform Commission (NDRC) has urgently allocated 50 mln yuan of central-budget investment to support emergency post-disaster recovery in Hubei after heavy rain, hail, and storms since July 6, including local tornadoes. The national disaster committee activated a level-4 emergency response on July 7. Funds will be used to rapidly restore damaged infrastructure—primarily roads—and public-service facilities such as schools, based on the national disaster relief plan and Hubei’s damage assessment, to expedite resumption of production and daily life."
-    },
-    {
-      "id": "mkt:019f3f68-73a9-7aab-8cdb-c4fdcbf3fe44",
-      "time": "2026-07-08 09:47:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution"
-      ],
-      "text": "【South Korea finance ministry to closely monitor equity volatility risk】South Korea’s finance ministry said after a meeting between the finance minister, the central bank governor and financial regulators that they will closely monitor risks that could amplify stock-market volatility. The ministry cited foreign and institutional profit-taking, portfolio rebalancing and shifts in global AI-sector expectations as drivers. The KOSPI fell as much as 4% in early trade, touching its lowest level since May 20, before turning positive after a rebound in chip stocks. The ministry said rising concentration in the semiconductor industry is amplifying financial-market volatility and that chip-sector swings are increasingly affecting the broader market; regulators have issued prior warnings."
-    },
-    {
-      "id": "4975348",
-      "time": "2026-07-08 09:46:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：若伊朗不遵守協議，美國準備追究其責任."
-    },
-    {
-      "id": "mkt:019f3f67-d8a6-7aab-8cdb-bf3480995133",
-      "time": "2026-07-08 09:46:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say trading firm Vitol is preparing to open an office in Venezuela."
-    },
-    {
-      "id": "te:markets:565033",
-      "time": "2026-07-08 09:46:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Holds Decline — The Australian dollar held its recent decline to around $0.694, moving back toward three-month lows as renewed US-Iran tensions dampened global risk sentiment. Traders flocked to the safe-haven US dollar, while oil prices jumped after the US launched a fresh wave of strikes against Iran and revoked a license allowing the country to sell oil following attacks on tankers in the Strait of Hormuz, fueling concerns over renewed disruptions in energy supplies. In Australia, markets continued to expect the Reserve Bank to keep its cash rate unchanged at 4.35% in August after delivering three rate hikes this year. The odds of another rise has also eased, with a November hike now priced at around 40%. Still, the country’s major banks said the RBA June minutes highlighted enduring inflationary pressures and warned they reinforced the risk of another hike in the months ahead. Investors now await remarks from RBA Assistant Governor Sarah Hunter later today for further clues on the policy outlook."
-    },
-    {
-      "id": "4975347",
-      "time": "2026-07-08 09:46:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家發展改革委緊急安排5000萬元中央預算內投資支援湖北風雹等災害災後應急恢復】7月6日以來，湖北省多地遭遇強降雨和雷暴大風，局地發生龍捲風，造成人員傷亡和財產損失。7月7日，國家防災減災救災委員會啟動國家四級救災應急響應。為貫徹落實習近平總書記關於防汛救災工作的重要指示精神，根據《國家自然災害救助應急預案》和湖北省災害損失情況，國家發展改革委緊急安排中央預算內投資5000萬元，支援湖北省做好風雹等災害災後應急恢復，重點用於災區受損道路等基礎設施和學校等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。（發改委）"
-    },
-    {
-      "id": "4975346",
-      "time": "2026-07-08 09:46:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方稱打擊了80多個目標."
-    },
-    {
-      "id": "4975345",
-      "time": "2026-07-08 09:45:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲4%，現報7735.00元。"
-    },
-    {
-      "id": "4975344",
-      "time": "2026-07-08 09:45:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.13%，成分股中，三協電機跌7.74%，萬達軸承跌6.31%，鼎智科技跌4.58%，安達科技跌4.12%。"
-    },
-    {
-      "id": "4975343",
-      "time": "2026-07-08 09:45:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌1%，現報8030.40點。"
-    },
-    {
-      "id": "te:economy:565030",
-      "time": "2026-07-08 09:45:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "Australia Confirms Steeper Decline in Building Permits — Australia's seasonally adjusted dwelling approvals fell 1.1% month-on-month to a four-month low of 17,019 units in May 2026, following a 0.2% decline in the previous month and in line with preliminary estimates. The weakness was driven by a sharp drop in approvals for private sector dwellings excluding houses, which slumped 10.4% after rising 4.0% in the previous month. By contrast, approvals for private sector houses rebounded 2.8%, reversing April's 0.4% decline. Across the states, approvals decreased in Victoria (-3.0%), Queensland (-8.8%), and Western Australia (-1.3%), while increasing in New South Wales (2.2%), South Australia (10.9%), and Tasmania (4.8%). Compared with a year earlier, total dwelling approvals rose 5.3%, easing sharply from April's 10.9% surge."
-    },
-    {
-      "id": "4975342",
-      "time": "2026-07-08 09:45:03",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國軍方：完成對伊朗的新一輪打擊，擊中伊朗的防空系統和控制系統."
-    },
-    {
-      "id": "te:markets:565028",
-      "time": "2026-07-08 09:44:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "South Korean Shares Hit One-Month Low — The benchmark KOSPI fell nearly 1% to around 7,590 on Wednesday, hitting its lowest level in a month as a broad sell-off in semiconductor stocks tracked overnight losses on Wall Street. Chipmakers came under pressure after investors questioned the sustainability of the AI-driven spending boom despite Samsung Electronics' strong quarterly earnings, dragging global semiconductor shares lower. Investors also remained cautious as escalating tensions in the Middle East boosted oil prices and dampened global risk appetite following fresh U.S. strikes on Iran and attacks near the Strait of Hormuz. Losses were led by Samsung Electronics (-0.9%), LG Energy Solution (-2.8%), HD Hyundai Heavy Industries (-4.2%), Hanwha Aerospace (-6.0%), and Doosan Enerbility (-3.9%). Meanwhile, South Korean authorities said they would closely monitor risks to market stability as heightened volatility in heavyweight chip stocks and single-stock leveraged ETFs continued to fuel sharp market swings."
-    },
-    {
-      "id": "mkt:019f3f65-a90d-7aab-8cdb-b193ccea86f9",
-      "time": "2026-07-08 09:44:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "SSE Composite"
-      ],
-      "text": "【Jiangsu to study bolstering tech and green-power inputs, expand financing channels】July 7 — Jiangsu province said it will advance institutional opening by deepening administrative-approval reform and pursuing regulatory innovation to remove systemic barriers and improve services for foreign investors. The province will systematically study measures to secure technology and renewable-power inputs, expand financing channels, promote university–industry talent training, and ease travel for international business personnel to bolster foreign-investor confidence. Authorities also plan deeper integration of industrial and supply chains, creation of targeted matching platforms, and steps to enhance coordination between domestic and foreign firms across upstream and downstream links."
-    },
-    {
-      "id": "4975341",
-      "time": "2026-07-08 09:44:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普預計將取消敘利亞的恐怖主義認定。"
-    },
-    {
-      "id": "4975340",
-      "time": "2026-07-08 09:43:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇：要系統化研究加強技術、綠電等要素保障 拓展投融資渠道】7月7日，江蘇省省長劉小濤主持召開今年第七期政企懇談會，會議指出，廣大外資企業投資江蘇、深耕江蘇，為全省經濟社會高質量發展作出了重要貢獻。要持續推進位制度型開放，深化行政審批制度改革，加強監管模式創新，進一步破除體制機制壁壘，全方位提升服務效能。要系統化研究加強技術、綠電等要素保障，拓展投融資渠道，推進校企協作人才培養，暢通國際商務人員往來，著力提振外資企業投資發展信心。要深化產業鏈供應鏈深度融合，搭建精準對接平臺，推動內外資上下游協同配套、融通發展。"
-    },
-    {
-      "id": "mkt:019f3f65-365d-7aab-8cdb-af5bf3f7c072",
-      "time": "2026-07-08 09:43:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Regions",
-        "Greater China",
-        "00883.HK",
-        "Impact bullish",
-        "00857.HK",
-        "00386.HK"
-      ],
-      "text": "Hong Kong-listed Big Three oil majors advanced: CNOOC (00883.HK) rose more than 4%, PetroChina (00857.HK) gained over 3%, and Sinopec (00386.HK) rose about 1%."
-    },
-    {
-      "id": "4975339",
-      "time": "2026-07-08 09:43:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
     }
   ]
 }

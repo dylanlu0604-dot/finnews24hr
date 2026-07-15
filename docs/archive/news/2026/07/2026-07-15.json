@@ -1,7 +1,77 @@
 {
   "date": "2026-07-15",
-  "count": 1001,
+  "count": 1008,
   "items": [
+    {
+      "id": "4988821",
+      "time": "2026-07-15 09:46:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "光伏概念震盪反彈，愛旭股份漲停，東方新能、合盛矽業、固德威、阿特斯、弘元綠能等跟漲。"
+    },
+    {
+      "id": "te:markets:566974",
+      "time": "2026-07-15 09:45:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AIA Stock Price Hits 4-week High — AIA shares increased to 75.55 HKD, the highest since June 2026. Over the past 4 weeks, AIA Group lost 3.14%, and in the last 12 months, it increased 7.47%."
+    },
+    {
+      "id": "mkt:019f6372-7c93-7aab-8d8e-415252f08ed9",
+      "time": "2026-07-15 09:44:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share retail stocks rose; Ningbo Zhongbai hit limit-up, while Xinhua Department Store, Tianyin Holdings, Yonghui Superstores, Red Star Macalline and China Tourism Group Duty Free advanced."
+    },
+    {
+      "id": "4988820",
+      "time": "2026-07-15 09:44:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "4988819",
+      "time": "2026-07-15 09:44:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【零售板塊走高，寧波中百漲停】零售板塊走高，寧波中百漲停，新華百貨、天音控股、永輝超市、美凱龍、中國中免跟漲。"
+    },
+    {
+      "id": "4988818",
+      "time": "2026-07-15 09:43:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國券商討論提高晶片股槓桿ETF的最低存款要求】韓國金融投資協會表示，該國10家大型資產管理公司的CEO討論了推出針對個股槓桿ETF的投資者保護措施，包括提高最低存款要求以及分散再平衡交易時間。根據該協會發布的宣告，與會者一致認為，有必要將投資此類槓桿產品的最低存款要求從目前的1000萬韓元（6714美元）水平上提高。為了降低每日再平衡交易（集中在收盤前）對市場的影響，各資產管理公司表示，需要努力將再平衡活動攤到交易日的各個時段中去。他們還指出，需要加強流動性提供者的市場穩定器作用。韓國金融投資者協會援引韓國資本市場研究院的資料稱，自相關槓桿ETF推出以來，每日再平衡所需的股票交易量估計約為7000億-2.1萬億韓元。"
+    },
+    {
+      "id": "4988817",
+      "time": "2026-07-15 09:43:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力晶片股早盤走弱，沐曦股份跌近10%，摩爾執行緒、景嘉微、瀾起科技、大勝達、翱捷科技、寒武紀跟跌。"
+    },
     {
       "id": "mkt:019f6370-cda9-7aab-8d8e-3817cad21d13",
       "time": "2026-07-15 09:42:44",
