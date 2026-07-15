@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-16 02:31:23",
-  "count": 18601,
+  "updated": "2026-07-16 02:37:18",
+  "count": 18603,
   "items": [
+    {
+      "id": "4990590",
+      "time": "2026-07-16 02:36:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：微軟新任安全負責人更換多名高管，推動 AI 安全全面改革。"
+    },
+    {
+      "id": "mkt:019f6710-950b-7aab-8dae-c153a630efdb",
+      "time": "2026-07-16 02:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he won't set a deadline for strikes on Iran】Asked whether he would set a deadline for strikes on Iran, U.S. President Trump said he does not like setting deadlines, adding, \"They basically know how this will play out. They'd better be honest.\""
+    },
+    {
+      "id": "mkt:019f670f-6f8c-7aab-8dae-ba6b5244831e",
+      "time": "2026-07-16 02:34:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CBS reports the US explored the possibility of air strikes on Cuba."
+    },
+    {
+      "id": "4990589",
+      "time": "2026-07-16 02:33:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特一處美國軍事基地附近傳出爆炸聲】當地時間15日晚，總檯記者獲悉，科威特境內一處美國軍事基地附近傳出爆炸聲。初步評估顯示，美軍裝備和人員遭受嚴重損失。伊朗方面有訊息稱，伊朗針對相關目標的軍事行動仍在繼續。截至目前，上述內容尚未得到美國和科威特官方證實。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f670e-5637-7aab-8dae-b2dff43148c2",
+      "time": "2026-07-16 02:33:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) raised AppleCare+ prices: Mac and iPad monthly plans increased by $0.50 and annual plans by $5; change applies to new subscribers only."
+    },
+    {
+      "id": "4990588",
+      "time": "2026-07-16 02:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長宣佈辭職。"
+    },
+    {
+      "id": "4990587",
+      "time": "2026-07-16 02:32:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國曾研究過對古巴發動空中打擊的可能性。"
+    },
+    {
+      "id": "mkt:019f670c-217e-7aab-8dae-a9cb15cf5b8e",
+      "time": "2026-07-16 02:31:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy"
+      ],
+      "text": "【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract was up 0.03% at 887 yuan/gram; Shanghai silver front-month contract was down 1.43% at 14,184 yuan/kg; SC crude front-month contract was down 0.02% at 518 yuan/barrel."
+    },
+    {
+      "id": "4990586",
+      "time": "2026-07-16 02:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收報79.60美元/桶。NYMEX 8月天然氣期貨收報2.9240美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3009美元/加侖，NYMEX 8月取暖油期貨收報3.9483美元/加侖。"
+    },
+    {
+      "id": "mkt:019f670b-eef2-7aab-8dae-a1cdf0c9d1b8",
+      "time": "2026-07-16 02:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.28% at 886.0 yuan/gram in the evening session on July 15 (Wednesday). Shanghai Gold Exchange silver T+D closed down 0.99% at 14,138.0 yuan/kg in the evening session on July 15 (Wednesday)."
+    },
+    {
+      "id": "mkt:019f670b-ed2e-7aab-8dae-9db1b51026d5",
+      "time": "2026-07-16 02:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $79.60/bbl, up $0.26, or 0.33%."
+    },
     {
       "id": "4990585",
       "time": "2026-07-16 02:30:03",
@@ -171122,101 +171231,6 @@
         "S&P500"
       ],
       "text": "【WSJ: Fed split driven by inflation outlook, not policy direction】WSJ reporter Nick Timiraos says the Fed’s June minutes show officials differ mainly on the inflation and economic outlook rather than on whether to tighten or ease policy. Officials outlined two scenarios: if inflation stays elevated, most favor maintaining higher rates or further tightening; if inflation quickly returns to 2%, most would be comfortable holding current rates and could consider cuts. Timiraos highlights the phrase “quickly returns to 2%” as key, preserving Fed flexibility. The minutes underscore that the Fed’s next moves will depend on incoming data—especially inflation—and that policy timing remains uncertain despite prior market bets on cuts."
-    },
-    {
-      "id": "mkt:019f4304-eab2-7aab-8cfc-85c82e53e458",
-      "time": "2026-07-09 02:37:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Vice President Vance on Iran: if they fire on U.S. ships, the U.S. will retaliate."
-    },
-    {
-      "id": "4977526",
-      "time": "2026-07-09 02:35:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "SpaceX股價下跌2.6%，跌破關鍵的149美元關口。"
-    },
-    {
-      "id": "4977525",
-      "time": "2026-07-09 02:34:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：如果伊朗試圖關閉霍爾木茲海峽，美國將做出反應。"
-    },
-    {
-      "id": "te:economy:565396",
-      "time": "2026-07-09 02:34:32",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "US 10-Year Yield Extends Rebound — The yield on the 10-year US Treasury note rose up to the 4.60% mark on Wednesday, the highest since May, as higher energy prices magnified the impact of a hawkish Federal Reserve. Fuel prices soared after a new wave of attacks between the US and Iran reignited concerns that energy from the Middle East will be blockaded. The pro-inflationary risks were consistent with minutes from the FOMC's June meeting, which indicated that a few policymaker saw higher core inflation readings and a robust labor market making the case for a rate hike. Rate futures continued to show a loose consensus that the Fed is due to deliver one rate hike this year, although nearly half of the market was positioned for more than one hike. Bonds were also under pressure from Fed Chairman Warsh's earlier calls for a smaller balance sheet, to be achieved by trimming the central bank's holdings of longer-term notes and bonds."
-    },
-    {
-      "id": "4977524",
-      "time": "2026-07-09 02:34:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "萬斯談伊朗：如果他們攻擊我們的船隻，美國將採取行動。"
-    },
-    {
-      "id": "4977523",
-      "time": "2026-07-09 02:33:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯重申伊朗核計劃已遭摧毀。"
-    },
-    {
-      "id": "mkt:019f4300-47f9-7aab-8cfc-78b12ba2d4bd",
-      "time": "2026-07-09 02:31:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "【Night session main contracts close】As of the 02:30 close, Shanghai gold main contract fell 1.47% to 892 yuan/gram, Shanghai silver main contract fell 3.88% to 14,260 yuan/kg, and SC crude oil main contract rose 4.30% to 475 yuan/barrel."
-    },
-    {
-      "id": "mkt:019f4300-4769-7aab-8cfc-71674fe3693a",
-      "time": "2026-07-09 02:31:59",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $73.52 per barrel, up $3.08 or 4.37%."
-    },
-    {
-      "id": "mkt:019f4300-3b90-7aab-8cfc-6fdfb1192407",
-      "time": "2026-07-09 02:31:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "【Fed minutes: Middle East conflict lifted inf; most foreign central banks signal future hikes】The Fed's June minutes said the Middle East conflict has materially raised global overall inf, with retail energy and producer prices spiking across much of Europe and Asia. Some central banks, including the ECB, have raised policy rates in response. Most foreign central banks warned high inf could trigger second‑round effects and signalled they may raise rates or slow easing despite weak output growth."
     }
   ]
 }

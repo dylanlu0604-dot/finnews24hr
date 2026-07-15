@@ -1,7 +1,116 @@
 {
   "date": "2026-07-16",
-  "count": 200,
+  "count": 211,
   "items": [
+    {
+      "id": "4990590",
+      "time": "2026-07-16 02:36:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：微軟新任安全負責人更換多名高管，推動 AI 安全全面改革。"
+    },
+    {
+      "id": "mkt:019f6710-950b-7aab-8dae-c153a630efdb",
+      "time": "2026-07-16 02:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says he won't set a deadline for strikes on Iran】Asked whether he would set a deadline for strikes on Iran, U.S. President Trump said he does not like setting deadlines, adding, \"They basically know how this will play out. They'd better be honest.\""
+    },
+    {
+      "id": "mkt:019f670f-6f8c-7aab-8dae-ba6b5244831e",
+      "time": "2026-07-16 02:34:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "CBS reports the US explored the possibility of air strikes on Cuba."
+    },
+    {
+      "id": "4990589",
+      "time": "2026-07-16 02:33:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特一處美國軍事基地附近傳出爆炸聲】當地時間15日晚，總檯記者獲悉，科威特境內一處美國軍事基地附近傳出爆炸聲。初步評估顯示，美軍裝備和人員遭受嚴重損失。伊朗方面有訊息稱，伊朗針對相關目標的軍事行動仍在繼續。截至目前，上述內容尚未得到美國和科威特官方證實。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f670e-5637-7aab-8dae-b2dff43148c2",
+      "time": "2026-07-16 02:33:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "Apple (AAPL.O) raised AppleCare+ prices: Mac and iPad monthly plans increased by $0.50 and annual plans by $5; change applies to new subscribers only."
+    },
+    {
+      "id": "4990588",
+      "time": "2026-07-16 02:33:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭國防部長宣佈辭職。"
+    },
+    {
+      "id": "4990587",
+      "time": "2026-07-16 02:32:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國曾研究過對古巴發動空中打擊的可能性。"
+    },
+    {
+      "id": "mkt:019f670c-217e-7aab-8dae-a9cb15cf5b8e",
+      "time": "2026-07-16 02:31:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy"
+      ],
+      "text": "【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract was up 0.03% at 887 yuan/gram; Shanghai silver front-month contract was down 1.43% at 14,184 yuan/kg; SC crude front-month contract was down 0.02% at 518 yuan/barrel."
+    },
+    {
+      "id": "4990586",
+      "time": "2026-07-16 02:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收報79.60美元/桶。NYMEX 8月天然氣期貨收報2.9240美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3009美元/加侖，NYMEX 8月取暖油期貨收報3.9483美元/加侖。"
+    },
+    {
+      "id": "mkt:019f670b-eef2-7aab-8dae-a1cdf0c9d1b8",
+      "time": "2026-07-16 02:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed up 0.28% at 886.0 yuan/gram in the evening session on July 15 (Wednesday). Shanghai Gold Exchange silver T+D closed down 0.99% at 14,138.0 yuan/kg in the evening session on July 15 (Wednesday)."
+    },
+    {
+      "id": "mkt:019f670b-ed2e-7aab-8dae-9db1b51026d5",
+      "time": "2026-07-16 02:31:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $79.60/bbl, up $0.26, or 0.33%."
+    },
     {
       "id": "4990585",
       "time": "2026-07-16 02:30:03",
