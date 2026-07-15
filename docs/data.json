@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-15 09:11:08",
-  "count": 18734,
+  "updated": "2026-07-15 09:15:50",
+  "count": 18726,
   "items": [
+    {
+      "id": "4988760",
+      "time": "2026-07-15 09:14:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京東健康與雲頂新耀達成戰略合作 共探創新藥全週期服務新模式】據京東健康黑板報，近日，京東健康與生物製藥公司雲頂新耀簽署戰略合作協議。雙方將圍繞創新藥新品首發、患者服務、數字營銷、網際網路醫療等方向展開深度合作，共同探索創新藥可及性提升與患者全週期管理新模式。"
+    },
+    {
+      "id": "mkt:019f6355-9c41-7aab-8d8d-13b7446609ce",
+      "time": "2026-07-15 09:13:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Shanghai most-active tin contract rose 2.00% intraday to 419,190 yuan/ton."
+    },
+    {
+      "id": "mkt:019f6355-6272-7aab-8d8d-0f363a95b0ca",
+      "time": "2026-07-15 09:12:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02643.HK",
+        "Impact bullish"
+      ],
+      "text": "【CAOCAO launches first Robovan fleet into commercial operation】July 15 — CAOCAO (02643.HK) said it has launched commercial operations of its Robovan service in Changsha; the first batch of driverless logistics vehicles has entered real urban operating scenarios."
+    },
+    {
+      "id": "mkt:019f6354-7bab-7aab-8d8d-003601c30a58",
+      "time": "2026-07-15 09:11:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CSI1000",
+        "CSI500"
+      ],
+      "text": "【Equity ETFs channel near 60 billion yuan into market; broad-based ETFs heavily bought】July 14 — A-share resource stocks led gains: nonferrous metals and coal rallied, with many nonferrous ETFs up >6%. Computing-power names rebounded in the afternoon; the ChiNext index rose >3% and several communication-themed ETFs gained >5%. Notably, during the sharp July 13 pullback, about 60 billion yuan of bottom-fishing flowed into the market via equity ETFs, the largest single-day inflow since April 8, 2025; broad-based ETFs tracking CSI 1000, CSI 300 and CSI 500 were heavily accumulated. Industry firms warn prior tech-growth leverage has accumulated sizable financing positions and rising volatility has prompted some leveraged funds to reduce exposure. On a medium-term view they say the core bullish case for A-shares is unchanged; the current move looks like a trading-structure correction as the market shifts from extreme structural leadership toward style rebalancing. The AI theme remains intact; Q3 may shift to selecting subsegments and validating earnings."
+    },
+    {
+      "id": "4988759",
+      "time": "2026-07-15 09:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【曹操出行首批Robovan投入運營】7月15日，曹操出行宣佈在長沙啟動Robovan商業化運營，首批無人物流車進入真實城市場景投入運營。"
+    },
     {
       "id": "4988758",
       "time": "2026-07-15 09:10:17",
@@ -171392,122 +171445,6 @@
         "其他"
       ],
       "text": "比亞迪捐贈1000萬元馳援廣西災區。"
-    },
-    {
-      "id": "mkt:019f3f4b-6a9d-7aab-8cda-a777e564bac5",
-      "time": "2026-07-08 09:15:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【Bank of Japan loan growth fastest since pandemic, bolstering case for further BOJ hikes】Japan’s seasonally adjusted bank lending excluding trusts rose 6.3% YoY in June, the strongest pace since August 2020, driven by M&A, real estate and recovery-related loans, the BOJ said. The central bank said the data show credit channels remain open, reinforcing its view that financial conditions are still accommodative even after Governor Ueda raised the policy rate to its highest since 1995 last month. The BOJ cautioned the latest lending figures may not yet reflect the June rate rise; policymakers have repeatedly cited financial conditions as a key input when weighing further tightening. Robust loan demand suggests higher borrowing costs have not curbed corporate investment or household activity, supporting the case that the economy can absorb additional policy normalization. The BOJ’s Tankan showed corporate financial conditions improved for the first time in a year, and large firms reported easier commercial paper issuance conditions."
-    },
-    {
-      "id": "4975282",
-      "time": "2026-07-08 09:15:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.8077，較上日調低23點】人民幣兌美元中間價報6.8077，較上日調低23點。"
-    },
-    {
-      "id": "4975281",
-      "time": "2026-07-08 09:15:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.8077元。"
-    },
-    {
-      "id": "4975280",
-      "time": "2026-07-08 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.00%，報23473.24點，低水23.65點。"
-    },
-    {
-      "id": "4975279",
-      "time": "2026-07-08 09:14:54",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通上調智普目標價】摩根大通上調智普科技的目標股價，理由是該公司能夠透過開源戰略在全球範圍內擴大規模，同時下調了競爭對手MiniMax的目標股價。摩根大通將智普目標價從1800港元上調至2000港元，維持“增持”評級。此外，該券商下調了MiniMax目標價位，稱市場已轉變為“贏家通吃”的局面，而其最新的M3模型尚未展現出足夠的定價能力。摩根大通將MiniMax目標價從400港元下調至300港元，維持中性評級。"
-    },
-    {
-      "id": "te:markets:565022",
-      "time": "2026-07-08 09:13:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australian Shares Under Pressure on Wall Street Weakness, China Caution — Australian stocks fell 116 points, or 1.3%, to 8,688 in Wednesday morning trade, extending losses for a third consecutive session and touching their lowest level in a week. Sentiment weakened after a negative lead from Wall Street overnight, where a broad selloff in U.S. chipmakers reflected growing concerns over the sustainability of the AI-driven rally. Investors also remained cautious ahead of China's June CPI and PPI data due later this week, with the readings expected to provide fresh clues on demand in Australia's largest trading partner. Meanwhile, markets awaited the minutes of the Federal Reserve's June meeting for further guidance on the U.S. interest rate outlook. Losses were broad-based, led by technology, materials, communication services, and financial stocks. Mining heavyweight BHP Group dropped 2.9%, while Evolution Mining slid 3.8%, Telstra lost 3.1%, and Macquarie Group fell 2.4%. The four major banks also traded lower, declining between 1.0% and 1.7%."
-    },
-    {
-      "id": "4975278",
-      "time": "2026-07-08 09:13:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "海南省氣象臺2026年07月08日09時08分繼續釋出海上雷雨大風黃色預警訊號：受對流雲團影響，本島南部海面08日09時08分到19時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。"
-    },
-    {
-      "id": "4975277",
-      "time": "2026-07-08 09:12:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【EIA：AI熱潮將推動美國今明兩年用電量續創新高】美國能源資訊署（EIA）週二在《短期能源展望》（STEO）中表示，美國電力消費量在2025年連續第二年創下年度新高後，2026年和2027年將進一步增長，受耗電巨大的人工智慧(AI)資料中心和電氣化程序推動。EIA預計，美國電力需求將從2025年創紀錄的4.195萬億千瓦時（kWh），增至2026年的4.269萬億千瓦時和2027年的4.399萬億千瓦時。用電需求激增主要源於服務於人工智慧和加密貨幣的資料中心迅速擴張，以及家庭和企業在供暖和交通領域更多使用電力、減少化石燃料消費。EIA表示，電力需求增長將主要由商業部門推動。預計到2026年，商業部門用電需求將有記錄以來首次超過居民需求。"
-    },
-    {
-      "id": "4975276",
-      "time": "2026-07-08 09:12:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超圖軟體成立新公司，含衛星遙感應用相關業務】企查查APP顯示，近日，巴中市超圖軟體技術有限公司成立，經營範圍包含：地理遙感資訊服務；衛星遙感應用系統整合；資訊系統整合服務；資訊科技諮詢服務等。企查查股權穿透顯示，該公司由超圖軟體全資持股。"
-    },
-    {
-      "id": "4975275",
-      "time": "2026-07-08 09:12:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德方奈米：公司開發了補鈉劑 目前尚處於技術儲備階段】德方奈米7月8日在互動平臺表示，公司開發了補鈉劑，目前尚處於技術儲備階段，尚未有實質性訂單銷售。"
-    },
-    {
-      "id": "4975274",
-      "time": "2026-07-08 09:11:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【禾邁股份與TAMCO簽署合作協議 深化馬來西亞大型儲能業務佈局】據禾邁股份訊息，近日，禾邁股份與TAMCO在馬來西亞順利舉行戰略簽約儀式。雙方將圍繞大型儲能系統在馬來西亞市場的本地化協同、系統整合、測試除錯及長期服務保障展開深入合作。作為馬來西亞具有代表性的開關裝置與配電解決方案提供商，TAMCO深耕電力基礎設施領域六十餘年，累計服務超過2300座變電站。"
-    },
-    {
-      "id": "4975273",
-      "time": "2026-07-08 09:11:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "星展集團股價最新持平於68.64新加坡元，此前一度觸及69.05新加坡元的盤中高點。"
-    },
-    {
-      "id": "4975272",
-      "time": "2026-07-08 09:11:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：傑伊·克萊頓出任美國國家情報總監提名聽證會定於7月15日舉行。"
     }
   ]
 }
