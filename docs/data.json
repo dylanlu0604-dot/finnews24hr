@@ -1,7 +1,129 @@
 {
-  "updated": "2026-07-16 00:57:43",
-  "count": 18677,
+  "updated": "2026-07-16 01:01:44",
+  "count": 18680,
   "items": [
+    {
+      "id": "4990522",
+      "time": "2026-07-16 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.54%，滬銅收跌0.59%，滬鋁收跌0.62%，滬鋅收跌1.10%，滬鉛收跌0.64%，滬鎳收跌0.08%，滬錫收跌2.04%。氧化鋁夜盤收漲0.18%，鋁合金收跌0.28%。不鏽鋼夜盤收漲0.21%。"
+    },
+    {
+      "id": "mkt:019f66b8-4c2d-7aab-8dac-afc1bfc0f48d",
+      "time": "2026-07-16 00:59:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon (AMZN.O): Dave Treadwell will succeed Dave Brown as head of AWS Compute and Machine Learning Services; Dave Brown is departing the company."
+    },
+    {
+      "id": "mkt:019f66b7-d325-7aab-8dac-a0e176dfa70c",
+      "time": "2026-07-16 00:59:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor COOK said inflation expectations are currently stable but depend on appropriate monetary policy; the Fed must not let down its guard."
+    },
+    {
+      "id": "mkt:019f66b7-9658-7aab-8dac-9dffcf65ca98",
+      "time": "2026-07-16 00:58:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor COOK said risks have shifted toward higher inflation since last summer, while labor-market risks have eased and the job market remains broadly stable."
+    },
+    {
+      "id": "mkt:019f66b7-6e3f-7aab-8dac-954f2cbd410b",
+      "time": "2026-07-16 00:58:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed Governor COOK said it is prudent to wait for inf to slow further for some time, but COOK is prepared to act if inf does not retreat quickly."
+    },
+    {
+      "id": "mkt:019f66b7-6238-7aab-8dac-89061b6f1f2f",
+      "time": "2026-07-16 00:58:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed",
+        "Copper"
+      ],
+      "text": "Fed Governor COOK said there is reason to expect inflation to continue cooling, but tariffs, the Middle East conflict and AI-driven investment could sustain price pressures, and related risks remain."
+    },
+    {
+      "id": "4990521",
+      "time": "2026-07-16 00:58:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 審慎起見應再等待一段時間觀察通脹降溫，但若通脹遲遲未能回落，她已準備好採取相應政策行動。"
+    },
+    {
+      "id": "4990520",
+      "time": "2026-07-16 00:58:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 自去年夏季以來，風險重心出現 “明顯轉變”，通脹上行風險加劇，就業市場相關風險則有所緩解，當前就業市場整體保持穩定。"
+    },
+    {
+      "id": "4990519",
+      "time": "2026-07-16 00:58:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 有理由相信通脹將持續回落，但同時也存在風險：關稅、中東衝突以及人工智慧領域投資可能會使物價壓力持續存在。"
+    },
+    {
+      "id": "4990518",
+      "time": "2026-07-16 00:57:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 通脹預期已趨於穩定，但這有賴於適宜的貨幣政策；美聯儲不可鬆懈。"
+    },
+    {
+      "id": "4990517",
+      "time": "2026-07-16 00:57:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：戴夫・特雷德韋爾將執掌 AWS 計算與機器學習業務。"
+    },
     {
       "id": "mkt:019f66b3-a5c0-7aab-8dac-81bc665b43a7",
       "time": "2026-07-16 00:54:37",
@@ -171801,84 +171923,6 @@
         "其他"
       ],
       "text": "OpenAI：推出GPT-Live實時互動服務。"
-    },
-    {
-      "id": "mkt:019f42ad-57ef-7aab-8cfa-1a1c9300c45f",
-      "time": "2026-07-09 01:01:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Foreign Ministry spokesperson said US unilateral measures and aggressive attacks against Iran have undermined the framework of the agreement."
-    },
-    {
-      "id": "4977398",
-      "time": "2026-07-09 01:00:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "390億美元拍賣前，10年期美國國債收益率為4.586%。"
-    },
-    {
-      "id": "mkt:019f42ac-3915-7aab-8cfa-1512f53b83ef",
-      "time": "2026-07-09 01:00:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's foreign ministry spokesman said the US is creating challenges in the Strait of Hormuz and Iran will safeguard its interests."
-    },
-    {
-      "id": "4977397",
-      "time": "2026-07-09 01:00:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.95%，滬銅收跌0.84%，滬鋁收跌0.22%，滬鋅收跌0.65%，滬鉛收跌0.09%，滬鎳收漲0.51%，滬錫收跌1.43%。氧化鋁夜盤收漲0.22%，鋁合金收跌0.63%。不鏽鋼夜盤收跌1.03%。"
-    },
-    {
-      "id": "4977396",
-      "time": "2026-07-09 00:59:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國前威斯康星州法官因妨礙移民逮捕被定罪 但獲判無需入獄。"
-    },
-    {
-      "id": "mkt:019f42aa-b7ee-7aab-8cfa-0f2471914691",
-      "time": "2026-07-09 00:58:32",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Swiss National Bank chairman said a sharp rise in energy prices is the primary risk to global economic growth."
-    },
-    {
-      "id": "4977395",
-      "time": "2026-07-09 00:58:18",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "瑞士央行行長：能源價格強勁上漲是全球經濟發展的主要風險。"
-    },
-    {
-      "id": "4977394",
-      "time": "2026-07-09 00:58:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦外交部：呼籲各方恪守伊斯蘭堡諒解備忘錄項下作出的承諾。"
     }
   ]
 }
