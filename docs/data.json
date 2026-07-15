@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-16 04:43:25",
-  "count": 18616,
+  "updated": "2026-07-16 04:47:20",
+  "count": 18618,
   "items": [
+    {
+      "id": "4990748",
+      "time": "2026-07-16 04:45:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地傳出爆炸聲】伊朗胡齊斯坦省副省長當地時間15日晚表示，該省首府阿瓦士周邊4個地點遭到美軍襲擊。截至目前，襲擊未造成人員傷亡。15日晚，另據當地訊息人士稱，伊朗東南部錫斯坦-俾路支斯坦省的科納拉克傳出多聲爆炸聲，爆炸原因是美軍對當地發動襲擊。此外，伊朗南部阿巴斯港附近一個地點遭到美軍炮彈襲擊，傳出兩聲爆炸聲。據伊朗方面15日晚訊息，伊朗東南部錫斯坦-俾路支斯坦省的恰巴哈爾傳來3聲爆炸聲。"
+    },
+    {
+      "id": "4990747",
+      "time": "2026-07-16 04:44:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：如果有民眾說我們處理愛潑斯坦檔案公佈一事失當，我認罪。我們確實處理得一塌糊塗。"
+    },
+    {
+      "id": "mkt:019f6786-2f3d-7aab-8db0-846a25317f91",
+      "time": "2026-07-16 04:44:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil prices edge up on 15th】At the close, NYMEX August WTI futures rose $0.26 to $79.60/bbl (+0.33%); ICE September Brent futures rose $0.22 to $84.95/bbl (+0.26%)."
+    },
+    {
+      "id": "4990746",
+      "time": "2026-07-16 04:43:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價15日微漲】國際油價15日微漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲26美分，收於每桶79.60美元，漲幅為0.33%；9月交貨的倫敦布倫特原油期貨價格上漲22美分，收於每桶84.95美元，漲幅為0.26%。"
+    },
     {
       "id": "4990745",
       "time": "2026-07-16 04:41:46",
@@ -171238,29 +171275,6 @@
         "市場"
       ],
       "text": "現貨鈀金<XPD=>下跌5%，報每盎司1198.50美元。"
-    },
-    {
-      "id": "te:markets:565409",
-      "time": "2026-07-09 04:46:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Closes Lower as US-Iran Tensions Weigh — The Ibovespa fell 0.8% to close at 170,653 on Wednesday as renewed US-Iran tensions fueled global risk aversion. President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials and the broader market. Itaú fell 1.3% and Bradesco lost 0.7%. Vale dropped 4.6% after a hearing on the USTR's proposed 25% tariff on Brazilian goods concluded on Tuesday. The company was also pressured by the announcement of the immediate resignation of Chairman Daniel Stieler. Other exporters traded lower, with Embraer down 3%. In contrast, Petrobras gained 3.1% as higher oil prices boosted the energy sector."
-    },
-    {
-      "id": "mkt:019f4379-0403-7aab-8cfe-ca2316fdeb23",
-      "time": "2026-07-09 04:43:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's deputy foreign minister said the US is demanding restoration of the southern route through the Strait of Hormuz in a manner that violates the memorandum of understanding, which Iran cannot accept, and that recent US hostile actions will be met with a response."
     }
   ]
 }
