@@ -1,7 +1,29 @@
 {
   "date": "2026-07-16",
-  "count": 220,
+  "count": 222,
   "items": [
+    {
+      "id": "mkt:019f671b-5dd7-7aab-8dae-f6477cfd382b",
+      "time": "2026-07-16 02:47:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Three U.S. officials said recent U.S. strikes on Iran are expanding Washington's options to further escalate operations."
+    },
+    {
+      "id": "4990595",
+      "time": "2026-07-16 02:47:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "三名美國官員：美國近期針對伊朗實施的打擊行動，擴充了美方後續可能升級衝突的應對手段。"
+    },
     {
       "id": "4990594",
       "time": "2026-07-16 02:41:35",

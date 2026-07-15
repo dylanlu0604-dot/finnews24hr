@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-16 02:45:28",
+  "updated": "2026-07-16 02:49:31",
   "count": 18602,
   "items": [
+    {
+      "id": "mkt:019f671b-5dd7-7aab-8dae-f6477cfd382b",
+      "time": "2026-07-16 02:47:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Three U.S. officials said recent U.S. strikes on Iran are expanding Washington's options to further escalate operations."
+    },
+    {
+      "id": "4990595",
+      "time": "2026-07-16 02:47:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "三名美國官員：美國近期針對伊朗實施的打擊行動，擴充了美方後續可能升級衝突的應對手段。"
+    },
     {
       "id": "4990594",
       "time": "2026-07-16 02:41:35",
@@ -171195,24 +171217,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯：我們達成的核心協議內容是，“只要你們停止襲擊船舶，我們就解除封鎖”；但如果你們襲擊船隻，我們必將反擊，而且反擊力度會前所未有地強硬。"
-    },
-    {
-      "id": "4977530",
-      "time": "2026-07-09 02:48:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【投資人Michael Burry建倉DraftKings和Flutter 加倉京東】DraftKings股份有限公司和Flutter娛樂公共有限公司的股價短暫飆升至盤中高點，此前由於電影《大空頭》而廣為人知的投資者Michael Burry在Substack發文稱，他買入了這兩家公司的股票。Burry表示，上述買入均為新建倉。DraftKings和Flutter隨後回吐部分漲幅，分別上漲約0.5%和1%。Burry寫道：“DraftKings的經營業務正迎來拐點，其價值在於我預見的近期轉型。Flutter過去曾因資本配置不當而受到影響，但在本質上是一家運營非常好且規模龐大的公司。”Burry還表示，他增持了京東的股票。"
-    },
-    {
-      "id": "mkt:019f430f-472f-7aab-8cfc-c6cb59082303",
-      "time": "2026-07-09 02:48:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. Vice President Vance said Iran must fulfill relevant commitments or face consequences similar to those of last night. U.S. military action will continue unless Iran stops firing on vessels."
     }
   ]
 }
