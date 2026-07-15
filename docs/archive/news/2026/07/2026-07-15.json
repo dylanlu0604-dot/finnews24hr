@@ -1,7 +1,102 @@
 {
   "date": "2026-07-15",
-  "count": 2558,
+  "count": 2568,
   "items": [
+    {
+      "id": "4989790",
+      "time": "2026-07-15 18:36:22",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：18家非銀行金融公司向印度儲備銀行交還註冊證書。"
+    },
+    {
+      "id": "mkt:019f6559-1e7a-7aab-8d9e-55e78eb0059f",
+      "time": "2026-07-15 18:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to an HKEX filing, Yonyou Network Technology Co., Ltd. has applied to list on HKEX."
+    },
+    {
+      "id": "te:markets:567188",
+      "time": "2026-07-15 18:35:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PNC earnings above expectations at 4.85 USD — PNC (PNC) released earnings per share at 4.85 USD, compared to market expectations of 4.34 USD."
+    },
+    {
+      "id": "4989789",
+      "time": "2026-07-15 18:35:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯合健康集團盤前股價下跌3.6%，哈門那集團股價下跌2.5%。"
+    },
+    {
+      "id": "4989788",
+      "time": "2026-07-15 18:34:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍宣佈對伊朗開始新一波打擊】美軍中央司令部15日說，美國東部時間15日6時（北京時間18時），美軍開始對伊朗發動新一波打擊。此次打擊旨在進一步削弱伊朗軍隊攻擊霍爾木茲海峽通航商船的軍事能力。（新華社）"
+    },
+    {
+      "id": "4989787",
+      "time": "2026-07-15 18:34:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富奧股份：2026年第二季度新增訂單預計生命週期收入86.4億元】富奧股份公告，公司2026年第二季度合併口徑新增訂單共67項，按照客戶規劃產量計算，獲取訂單生命週期收入總額預計為86.4億元。其中，傳統市場以外訂單30項，訂單收入佔比達到36.8%，預計訂單生命週期收入總額31.8億元；新能源類訂單佔比達到72.1%。"
+    },
+    {
+      "id": "te:economy:567187",
+      "time": "2026-07-15 18:33:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Oman",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Oman Annual Inflation Slows in June — Oman's annual inflation rate eased to 2.8% in June 2026, the lowest level in four months, down from 3.8% in May. The slowdown was primarily driven by a further decline in housing and utility costs (-0.6% vs. -0.3% in May), alongside slower price growth for food and non-alcoholic beverages (6.1% vs 6.7%), transport (5.5% vs 9.2%) and recreation and culture (0.3% vs 0.4%). Meanwhile, inflation stood for furnishings (3.1%), restaurants and hotels (4.6%), education (2.2%) and health (1.8%). On a monthly basis, consumer prices fell 0.6% in June, marking the first decline in six months and reversing a 0.5% increase recorded in the previous month."
+    },
+    {
+      "id": "mkt:019f6556-c2d0-7aab-8d9e-483e9572e1c6",
+      "time": "2026-07-15 18:33:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kremlin says the US now has no chance of resolving the Ukraine issue."
+    },
+    {
+      "id": "4989786",
+      "time": "2026-07-15 18:33:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九聯科技：預計2026年半年度實現扭虧為盈，淨利潤為3159.92萬元至3862.13萬元】九聯科技公告，預計2026年半年度歸屬於母公司所有者的淨利潤為3159.92萬元至3862.13萬元，上年同期虧損1.23億元，實現扭虧為盈。預計扣除非經常性損益後的淨利潤為2115.26萬元至2817.46萬元。業績增長主要因業務結構最佳化，核心客戶出貨佔比和市場份額提升，以及供應鏈降本增效；同時受益於國內AI基礎設施建設，新業務板塊發展迅速。"
+    },
+    {
+      "id": "4989785",
+      "time": "2026-07-15 18:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯移動電信巨頭MTS正考慮改為按季度或半年度派發股息。"
+    },
     {
       "id": "4989784",
       "time": "2026-07-15 18:32:30",

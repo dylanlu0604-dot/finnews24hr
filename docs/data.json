@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-15 18:33:30",
-  "count": 18682,
+  "updated": "2026-07-15 18:37:31",
+  "count": 18671,
   "items": [
+    {
+      "id": "4989790",
+      "time": "2026-07-15 18:36:22",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：18家非銀行金融公司向印度儲備銀行交還註冊證書。"
+    },
+    {
+      "id": "mkt:019f6559-1e7a-7aab-8d9e-55e78eb0059f",
+      "time": "2026-07-15 18:36:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to an HKEX filing, Yonyou Network Technology Co., Ltd. has applied to list on HKEX."
+    },
+    {
+      "id": "te:markets:567188",
+      "time": "2026-07-15 18:35:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PNC earnings above expectations at 4.85 USD — PNC (PNC) released earnings per share at 4.85 USD, compared to market expectations of 4.34 USD."
+    },
+    {
+      "id": "4989789",
+      "time": "2026-07-15 18:35:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯合健康集團盤前股價下跌3.6%，哈門那集團股價下跌2.5%。"
+    },
+    {
+      "id": "4989788",
+      "time": "2026-07-15 18:34:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍宣佈對伊朗開始新一波打擊】美軍中央司令部15日說，美國東部時間15日6時（北京時間18時），美軍開始對伊朗發動新一波打擊。此次打擊旨在進一步削弱伊朗軍隊攻擊霍爾木茲海峽通航商船的軍事能力。（新華社）"
+    },
+    {
+      "id": "4989787",
+      "time": "2026-07-15 18:34:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富奧股份：2026年第二季度新增訂單預計生命週期收入86.4億元】富奧股份公告，公司2026年第二季度合併口徑新增訂單共67項，按照客戶規劃產量計算，獲取訂單生命週期收入總額預計為86.4億元。其中，傳統市場以外訂單30項，訂單收入佔比達到36.8%，預計訂單生命週期收入總額31.8億元；新能源類訂單佔比達到72.1%。"
+    },
+    {
+      "id": "te:economy:567187",
+      "time": "2026-07-15 18:33:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Oman",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Oman Annual Inflation Slows in June — Oman's annual inflation rate eased to 2.8% in June 2026, the lowest level in four months, down from 3.8% in May. The slowdown was primarily driven by a further decline in housing and utility costs (-0.6% vs. -0.3% in May), alongside slower price growth for food and non-alcoholic beverages (6.1% vs 6.7%), transport (5.5% vs 9.2%) and recreation and culture (0.3% vs 0.4%). Meanwhile, inflation stood for furnishings (3.1%), restaurants and hotels (4.6%), education (2.2%) and health (1.8%). On a monthly basis, consumer prices fell 0.6% in June, marking the first decline in six months and reversing a 0.5% increase recorded in the previous month."
+    },
+    {
+      "id": "mkt:019f6556-c2d0-7aab-8d9e-483e9572e1c6",
+      "time": "2026-07-15 18:33:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kremlin says the US now has no chance of resolving the Ukraine issue."
+    },
+    {
+      "id": "4989786",
+      "time": "2026-07-15 18:33:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九聯科技：預計2026年半年度實現扭虧為盈，淨利潤為3159.92萬元至3862.13萬元】九聯科技公告，預計2026年半年度歸屬於母公司所有者的淨利潤為3159.92萬元至3862.13萬元，上年同期虧損1.23億元，實現扭虧為盈。預計扣除非經常性損益後的淨利潤為2115.26萬元至2817.46萬元。業績增長主要因業務結構最佳化，核心客戶出貨佔比和市場份額提升，以及供應鏈降本增效；同時受益於國內AI基礎設施建設，新業務板塊發展迅速。"
+    },
+    {
+      "id": "4989785",
+      "time": "2026-07-15 18:33:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯移動電信巨頭MTS正考慮改為按季度或半年度派發股息。"
+    },
     {
       "id": "4989784",
       "time": "2026-07-15 18:32:30",
@@ -171278,204 +171373,6 @@
         "資料"
       ],
       "text": "塞席爾統計局公佈，6月通脹年率為0.43%。"
-    },
-    {
-      "id": "4976585",
-      "time": "2026-07-08 18:37:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【皖維高新：2026年上半年淨利潤預增17.23% - 28.95%】皖維高新公告稱，預計2026年上半年歸屬於上市公司股東的淨利潤為3億元到3.3億元，同比增長17.23%到28.95%；扣非淨利潤為2.88億元到3.18億元，同比增長17.95%到30.24%。業績預增主因行業下游市場回暖，主產品銷售量同比增長；出口業務向好，部分產品出口量提升；公司強化成本管控，執行效率提高。非經常性損益預計為1200萬元左右，對業績無重大影響。"
-    },
-    {
-      "id": "4976584",
-      "time": "2026-07-08 18:36:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗海軍上將西亞里：無論美方發表何種言辭，都無法讓美軍有膽量採取侵略行動。"
-    },
-    {
-      "id": "mkt:019f414d-47a9-7aab-8ceb-d7f2a1754039",
-      "time": "2026-07-08 18:36:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Iranian Navy Admiral Sayyari said U.S. rhetoric, whatever its form, cannot give U.S. forces the will to carry out aggressive action."
-    },
-    {
-      "id": "mkt:019f414d-2810-7aab-8ceb-cd90fe6212dd",
-      "time": "2026-07-08 18:36:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Shengxin Lithium Energy expects 1H2026 net profit of 10–12 bln yuan, up 218.9%–242.7% YoY."
-    },
-    {
-      "id": "4976583",
-      "time": "2026-07-08 18:36:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達納基拉特航運：Rekayyat 號船員安全，未造成環境影響。"
-    },
-    {
-      "id": "4976582",
-      "time": "2026-07-08 18:36:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【星網宇達：預計上半年淨利潤為9000萬元–1.2億元，上年同期虧損1590.34萬元】星網宇達公告，預計2026年上半年淨利潤為9000萬元–1.2億元，上年同期虧損1590.34萬元。導致本期歸屬於上市公司股東的扣除非經常性損益後的淨利潤虧損的主要原因是：受部分專案客戶驗收手續滯後，本期營業收入同比下降，對公司整體營業收入規模及利潤產生直接不利影響；導致本期歸屬於上市公司股東的淨利潤增長的主要原因是：公司對外投資專案2026年1-6月收益表現良好，投資收益同比實現增長，有效補充當期利潤，彌補本期經營虧損。經初步測算，影響本期利潤金額預計約為1.4億元。"
-    },
-    {
-      "id": "4976581",
-      "time": "2026-07-08 18:36:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【青鳥智控中標頭部風機企業千萬級專案】據青鳥智控訊息，青鳥智控中標國內頭部風機制造企業千萬元級風電消防框架採購專案，為其全球風機業務提供“火災自動報警+氣體滅火”一體化消防解決方案。2026年上半年，據不完全統計，旗下“青鳥消防”品牌已中標或實施超50個風電專案。"
-    },
-    {
-      "id": "4976580",
-      "time": "2026-07-08 18:36:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓智庫：經濟平穩回暖 製造業生產調整】韓國開發研究院（KDI）8日釋出《經濟動向》7月刊指出，韓國經濟在製造業生產進入調整階段的同時，受半導體出口和服務業向好的帶動，整體仍保持平穩回暖勢頭。與上月的報告相比，KDI延續了經濟“平穩回暖”的總體判斷，同時不再提及“中東戰事帶來經濟下行風險”。KDI表示，得益於人工智慧（AI）相關需求保持強勁，以資訊通訊技術（ICT）產品為主的出口繼續保持較快增長，半導體相關投資也延續良好態勢。KDI指出，半導體出口數量增勢有所回撥，但因價格持續上漲，以出口金額計算的半導體出口仍保持良好態勢。"
-    },
-    {
-      "id": "4976579",
-      "time": "2026-07-08 18:36:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息稱：卡達納基拉特航運證實液化天然氣運輸船 Rekayyat 遭襲擊。"
-    },
-    {
-      "id": "mkt:019f414c-6e2e-7aab-8ceb-c4b1046b61d2",
-      "time": "2026-07-08 18:35:55",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【NVIDIA opens R&D center in Beersheba, Israel】NVIDIA (NVDA.O) on Tuesday formally opened a new R&D center in Beersheba, Israel, completing its relocation in the city. The center in the Gav Yam (Bayside) tech park covers about 3,000 sq m—three times the size of the previous facility—and contains several hundred workstations. Sources said the building investment ran into several tens of millions of shekels, the lease is 10 years and annual rent is about 2.5 million shekels. The site currently houses more than 150 employees, with plans to hire several hundred more over the coming years. Teams at the center are developing hardware and software for AI infrastructure to connect thousands of chips and processors for high-speed data transfer and to operate data centers used to train and run AI models."
-    },
-    {
-      "id": "4976578",
-      "time": "2026-07-08 18:35:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國輸美商品月底或面臨最高12.5%新關稅】美國特朗普政府此前實施的“全球進口關稅”（稅率10%）若在約半個月後按計劃到期，韓國輸美商品預計將面臨最高12.5%的新關稅。據韓國貿易部門8日訊息，美國貿易代表辦公室（USTR）已於6日前完成就依據《1974年貿易法》第301條實施的強迫勞動相關關稅措施向各貿易伙伴徵求意見的工作。"
-    },
-    {
-      "id": "mkt:019f414c-2fca-7aab-8ceb-bec08157b939",
-      "time": "2026-07-08 18:35:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian Navy Admiral Sayyari said US remarks are intended to portray Iran’s coastline as vulnerable to military intervention and that the US is waging psychological warfare against the Iranian people through repeated public statements."
-    },
-    {
-      "id": "4976577",
-      "time": "2026-07-08 18:35:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達呼籲緩和海灣地區局勢】卡達外交部8日發表宣告說，必須避免地區局勢進一步惡化，應繼續堅持對話和外交途徑，推動局勢降溫。宣告說，各方應在有關諒解備忘錄已取得成果的基礎上繼續努力，促進地區和國際安全與穩定。宣告譴責伊朗再次襲擊巴林和科威特，重申卡達堅定聲援巴林和科威特，支援兩國為維護自身主權和安全所採取的一切措施。伊朗伊斯蘭革命衛隊公共關係部門8日發表宣告說，美軍8日凌晨公然違反停火協議，違背伊斯蘭堡諒解備忘錄，對霍爾木茲甘省和馬赫沙赫爾省沿海多個軍事基地和民用設施發動空襲。作為對美國“侵略”行為的“初步回應”，革命衛隊海軍和空軍部隊透過聯合導彈和無人機行動，摧毀了位於巴林的美軍第五艦隊和位於科威特阿里·薩利姆空軍基地的85處重要美軍設施，並擊落了一架試圖干擾行動的敵方MQ－9型無人機。（新華社）"
-    },
-    {
-      "id": "4976576",
-      "time": "2026-07-08 18:35:26",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【盛新鋰能：預計上半年淨利潤10億元-12億元，同比扭虧為盈】盛新鋰能公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為10億元-12億元，上年同期虧損8.41億元。扣除非經常性損益後的淨利潤預計為13億元-15億元，上年同期虧損8.94億元。報告期內，受益於全球新能源行業的快速發展，鋰鹽產品銷售價格較上年同期有較大幅度上漲；公司持續最佳化生產效率、推行控本增效，印尼鋰鹽工廠產能大幅釋放，上半年公司鋰鹽產品實現量價齊升，經營業績較去年同期大幅改善。"
-    },
-    {
-      "id": "4976575",
-      "time": "2026-07-08 18:35:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "斯洛維尼亞外長：我們呼籲緩解緊張局勢，尊重霍爾木茲海峽的航行自由。"
-    },
-    {
-      "id": "4976574",
-      "time": "2026-07-08 18:34:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【木林森：實控人孫清煥累計增持0.8844%，擬繼續增持不低於人民幣1億元且不超過1.5億元】木林森公告，控股股東、實際控制人孫清煥2026年5月27日至2026年7月7日透過集中競價方式累計增持公司股份1312.56萬股，佔公司總股本的0.8844%，增持總金額為1.5億元（不含手續費），本次增持計劃已實施完成；其計劃自本次新增增持計劃公告披露之日起的6個月內繼續增持不低於人民幣1億元且不超過1.5億元（均含本數）。"
-    },
-    {
-      "id": "te:economy:565264",
-      "time": "2026-07-08 18:34:37",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "France",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "France Current Account Narrows — The French current account deficit narrowed to a seasonally adjusted €100 million in May of 2026 from a revised €600 million in the previous month, marking the lowest gap in the last four months. The services account surplus widened to €6.4 billion from €4.6 billion in April, lifted by a €1 billion increase in exports of professional and management consulting services, research and development, and technical services to €1.8 billion. In turn, the goods account gap widened to €5.5 billion from €4 billion as the trade balance when excluding energy swung to a deficit of €1.3 billion from a surplus of €0.6 billion. The energy goods account was at a sharp deficit of €4.2 billion as the war in the Middle East maintained the elevated prices of fuel imports."
-    },
-    {
-      "id": "mkt:019f414b-2799-7aab-8ceb-b09cc9847ced",
-      "time": "2026-07-08 18:34:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Slovenian foreign minister called for de-escalation and respect for freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "4976573",
-      "time": "2026-07-08 18:34:27",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【高盛集團預計日元貶值趨勢仍未結束】7月以來，日元兌美元匯率延續下行態勢，持續重新整理近40年來低位，一度跌至162.80日元兌換1美元，創1986年12月以來新低。據美國方面6日訊息，美國知名投行高盛集團預計，日元對美元匯率會進一步下跌。據悉，高盛集團將未來12個月日元對美元匯率預測從此前的155日元兌換1美元調整為165日元兌換1美元。除一年期外，高盛還將未來3個月和未來6個月日元對美元匯率預測分別調整為162日元兌換1美元和163日元兌換1美元，此前的預測分別為160日元兌換1美元和158日元兌換1美元。這反映出高盛集團對日元持續走弱的判斷進一步強化。高盛認為，美日利差居高不下、日本財政壓力持續加劇以及日本央行加息步伐緩慢等因素，將繼續壓制日元表現。對於日本政府可能採取的外匯干預措施，高盛認為其效果大機率只是暫時性的。高盛的報告指出，近期有關日本財務省可能取消正式干預前口頭預警的訊息，可能將在短期內抑制市場波動。但在當前宏觀經濟基本面未發生變化的情況下，日本政府的干預舉措難以從根本上扭轉日元貶值趨勢。（央視新聞）"
-    },
-    {
-      "id": "4976571",
-      "time": "2026-07-08 18:33:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "比利時國防大臣：北約在霍爾木茲海峽的行動是基於防禦立場，該聯盟不會參與戰爭。"
-    },
-    {
-      "id": "4976570",
-      "time": "2026-07-08 18:33:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軟通動力：董事長劉天文提議以1.5億元-3億元回購公司股份】軟通動力公告，實際控制人、董事長劉天文提議以1.5億元-3億元回購公司股份，回購股份價格上限不高於董事會審議透過回購方案決議前30個交易日公司股票交易均價的150%。"
     }
   ]
 }
