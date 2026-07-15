@@ -1,7 +1,475 @@
 {
-  "updated": "2026-07-15 22:30:46",
-  "count": 18700,
+  "updated": "2026-07-15 22:34:47",
+  "count": 18734,
   "items": [
+    {
+      "id": "mkt:019f6633-2ad5-7aab-8da8-039a4356163d",
+      "time": "2026-07-15 22:34:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said it would be inappropriate to pre-judge the content of meetings without a factual basis."
+    },
+    {
+      "id": "mkt:019f6633-216e-7aab-8da7-fb862b81145a",
+      "time": "2026-07-15 22:34:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed chair Kevin Warsh said Bowman’s meeting with banks has been referred to the Fed’s Office of Inspector General and he will closely monitor the OIG’s findings into Bowman’s post‑FOMC dinner with bankers."
+    },
+    {
+      "id": "4990309",
+      "time": "2026-07-15 22:33:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果已接洽多家晶片初創企業，試探其收購意願。"
+    },
+    {
+      "id": "mkt:019f6632-7b14-7aab-8da7-f04b0cb2e4e5",
+      "time": "2026-07-15 22:33:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Apple (AAPL.O) found its in-house M2 Ultra insufficient for advanced AI workloads, forcing the company to rely on NVIDIA."
+    },
+    {
+      "id": "4990308",
+      "time": "2026-07-15 22:33:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：鮑曼銀行相關會面事宜，我聽從美聯儲監察長的判斷。"
+    },
+    {
+      "id": "te:markets:567254",
+      "time": "2026-07-15 22:33:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "British Pound Hits 4-week High — GBPUSD increased to 1.35, the highest since June 2026. Over the past 4 weeks, British Pound US Dollar gained 0.16%, and in the last 12 months, it increased 0.28%."
+    },
+    {
+      "id": "4990307",
+      "time": "2026-07-15 22:33:16",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "蘋果代號為\"Baltra\"的人工智慧伺服器晶片未來版本原計劃今年出貨，但已推遲。"
+    },
+    {
+      "id": "4990306",
+      "time": "2026-07-15 22:33:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為與廣西農商聯合銀行簽署深化合作協議】近日，廣西農商聯合銀行與華為技術有限公司簽署深化合作協議。根據協議，雙方將在供應鏈金融、ICT基礎設施、雲端計算、資料庫、人工智慧及人才培養等領域展開深入合作。雙方將聚焦自主創新技術的應用，助力金融數智化轉型升級；推動金融業務與人工智慧技術深度融合，推進銀行金融業務場景聯合創新；深化人才合作與培養，促進面向未來的人員數字化技能提升。"
+    },
+    {
+      "id": "4990305",
+      "time": "2026-07-15 22:32:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【環能渦輪北交所IPO將於7月22日上會】7月15日，據北交所網站披露，北交所上市稽核委員會定於2026年7月22日上午9時召開2026年第69次上市稽核委員會審議會議，屆時將審議常州環能渦輪動力股份有限公司的首發事項。"
+    },
+    {
+      "id": "4990304",
+      "time": "2026-07-15 22:32:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果自研M2 Ultra晶片不足以支撐執行先進人工智慧工作負載，迫使蘋果依賴英偉達。"
+    },
+    {
+      "id": "mkt:019f6631-adb6-7aab-8da7-ee1f0c58d5a7",
+      "time": "2026-07-15 22:32:39",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "The Information reports Apple (AAPL.O) is seeking to acquire an AI chip maker."
+    },
+    {
+      "id": "4990303",
+      "time": "2026-07-15 22:32:10",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛律師魯姆勒宣告：在我與愛潑斯坦打交道期間，未發現其有任何持續犯罪行為或任何形式不當行為的證據。"
+    },
+    {
+      "id": "mkt:019f6631-35a6-7aab-8da7-e04a38a726e8",
+      "time": "2026-07-15 22:32:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Copper"
+      ],
+      "text": "Fed Chair Kevin Warsh said AI investment could be highly beneficial for employment as infrastructure is being built."
+    },
+    {
+      "id": "4990302",
+      "time": "2026-07-15 22:32:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司尋求收購AI晶片相關企業。"
+    },
+    {
+      "id": "4990301",
+      "time": "2026-07-15 22:31:59",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲沃什：隨著基礎設施建設鋪開，人工智慧投資對就業而言大機率會相當利好。"
+    },
+    {
+      "id": "4990300",
+      "time": "2026-07-15 22:31:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表加利巴夫將就戰事及近期事態發表宣告。"
+    },
+    {
+      "id": "4990299",
+      "time": "2026-07-15 22:31:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司（CODELCO）董事長預計，該公司銅礦產量將保持平穩，維持在當前水平附近。"
+    },
+    {
+      "id": "4990298",
+      "time": "2026-07-15 22:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳專家：中國人工智慧發展助力全球共享科技成果】澳大利亞新南威爾士大學人工智慧研究院首席科學家託比·沃爾什日前接受新華社記者專訪時表示，中國近年來在人工智慧領域取得令人矚目的進展，處於該領域全球發展前列。依託開放模型、製造業基礎和規模化應用能力，中國的人工智慧發展將讓更多國家和民眾共享科技進步成果。（新華社）"
+    },
+    {
+      "id": "4990297",
+      "time": "2026-07-15 22:31:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州衛生部：截至7月15日，共報告3762例環孢子蟲病病例。"
+    },
+    {
+      "id": "4990296",
+      "time": "2026-07-15 22:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國西海岸原油庫存增加85.4萬桶，至4614.7萬桶。"
+    },
+    {
+      "id": "mkt:019f6630-1263-7aab-8da7-df555f1bcbf4",
+      "time": "2026-07-15 22:30:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied distillate fuel oil demand for the week to July 10 4.7011 mln bpd, prior 5.9854 mln bpd."
+    },
+    {
+      "id": "mkt:019f6630-047e-7aab-8da7-d6b3d03f79d1",
+      "time": "2026-07-15 22:30:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA implied crude oil demand (from production) for week to July 10: 19.79 mln b/d, prior 19.06 mln b/d."
+    },
+    {
+      "id": "mkt:019f6630-02c4-7aab-8da7-ce7e1fa5e112",
+      "time": "2026-07-15 22:30:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA motor gasoline implied demand (product supplied) for the week to July 10: 9.810 mln b/d, prior 9.871 mln b/d."
+    },
+    {
+      "id": "4990295",
+      "time": "2026-07-15 22:30:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署資料：美國原油日加工量增加9.9萬桶，至日均1712.3萬桶。"
+    },
+    {
+      "id": "mkt:019f662f-e95c-7aab-8da7-c5242c6b7a2f",
+      "time": "2026-07-15 22:30:42",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (Jul.10) | actual 4701100M | previous 5985400M"
+    },
+    {
+      "id": "mkt:019f662f-e831-7aab-8da7-bbce79a29cb3",
+      "time": "2026-07-15 22:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA: refined oil production in the week to July 10 rose 72,000 b/d, prior week -1,000 b/d."
+    },
+    {
+      "id": "mkt:019f662f-e6bd-7aab-8da7-b573d2cecec9",
+      "time": "2026-07-15 22:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "U.S. EIA crude oil imports for the week to July 10: -399,000 barrels; prior: 1,096,000 barrels."
+    },
+    {
+      "id": "mkt:019f662f-e573-7aab-8da7-ab21c7f99e36",
+      "time": "2026-07-15 22:30:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA refined product stocks for the week to July 10 rose 4.556 mln bbl, vs. market expected +0.084 mln and prior -4.98 mln (draw)."
+    },
+    {
+      "id": "mkt:019f662f-e416-7aab-8da7-a4bb02f12976",
+      "time": "2026-07-15 22:30:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "US EIA Cushing, Oklahoma crude stocks +430,000 barrels in the week to July 10, vs -52,000 barrels in the prior week."
+    },
+    {
+      "id": "4990294",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：汽油日產量減少9.6萬桶，至每日964萬桶。"
+    },
+    {
+      "id": "mkt:019f662f-e2c8-7aab-8da7-99f629b5b63e",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "US EIA: week to July 10 finished petroleum product imports 13,000 b/d; prior -274,000 b/d."
+    },
+    {
+      "id": "mkt:019f662f-e18b-7aab-8da7-90a0e1d9d4db",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US Strategic Petroleum Reserve fell 2.985 mln barrels in the week to July 10, EIA; prior weekly drawdown was 6.166 mln barrels."
+    },
+    {
+      "id": "mkt:019f662f-e02b-7aab-8da7-8c4f9a8d153c",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. refinery utilization 96.2% in week to July 10, vs. 95.6% expected and 95.8% prior — EIA."
+    },
+    {
+      "id": "mkt:019f662f-ded8-7aab-8da7-87f32e402416",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. EIA heating oil inventories for the week to July 10 rose 30,000 barrels; prior week recorded a 427,000-barrel draw."
+    },
+    {
+      "id": "mkt:019f662f-dda3-7aab-8da7-7b23d513edc8",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US EIA gasoline inventories fell 1.533 mln barrels in the week to July 10, versus a -0.76 mln consensus and a -1.904 mln prior."
+    },
+    {
+      "id": "mkt:019f662f-dc76-7aab-8da7-739df8ba6bd8",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "EIA U.S. crude inventories for week to July 10: -1.692 mln barrels vs -2.594 mln expected; prior +2.998 mln."
+    },
+    {
+      "id": "mkt:019f662f-db51-7aab-8da7-6891c9937e21",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "US EIA weekly refinery crude runs +99,000 b/d in week to July 10; prior -172,000 b/d."
+    },
+    {
+      "id": "mkt:019f662f-daee-7aab-8da7-6714c20e8fc0",
+      "time": "2026-07-15 22:30:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA reformulated gasoline stocks +3,000 barrels in the week to July 10; prior change 0 barrels."
+    },
+    {
+      "id": "mkt:019f662f-cf0c-7aab-8da7-5bc7c27da306",
+      "time": "2026-07-15 22:30:36",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (Jul.10) | actual 9809700M | previous 9870900M"
+    },
+    {
+      "id": "mkt:019f662f-b2ac-7aab-8da7-4b9886911fd8",
+      "time": "2026-07-15 22:30:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Crude Oil Implied Demand (Jul.10) | actual 19792000M | previous 19061000M"
+    },
+    {
+      "id": "4990293",
+      "time": "2026-07-15 22:30:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）：美國上週EIA原油庫存下降169萬桶，預計減少200萬桶、分析師預期減少196.20萬桶，之前一週增加299.8萬桶。"
+    },
+    {
+      "id": "mkt:019f662f-b384-7aab-8da7-537dc83b55ec",
+      "time": "2026-07-15 22:30:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Shanghai Stock Exchange website shows Wuhan Zhongke Innovation Technology Co., Ltd.'s STAR Market IPO review status has changed to \"inquiry issued\"."
+    },
+    {
+      "id": "mkt:019f662f-8000-7aab-8da7-434ac646e082",
+      "time": "2026-07-15 22:30:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. EIA gasoline production for the week to July 10 fell 96,000 b/d, versus a 233,000 b/d decline in the prior week."
+    },
+    {
+      "id": "mkt:019f662f-59ff-7aab-8da7-38552a5d6d79",
+      "time": "2026-07-15 22:30:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Strategic Petroleum Reserve Stocks Change (Jul.10) | actual -2985000M | previous -6166000M"
+    },
+    {
+      "id": "mkt:019f662f-594b-7aab-8da7-37abc735e5f1",
+      "time": "2026-07-15 22:30:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Refinery Utilization Rates (Jul.10) | actual 96.2% | consensus 95.6% | previous 95.8%"
+    },
     {
       "id": "mkt:019f662f-4915-7aab-8da7-2a1e78df7ccf",
       "time": "2026-07-15 22:30:01",
@@ -427,6 +895,15 @@
         "Importance 1"
       ],
       "text": "TSX Edges Higher After BoC Policy Decision — The S&P/TSX Composite Index edged up to trade above 35,000 on Wednesday as investors assessed the Bank of Canada's interest rate decision. The BoC kept its key policy rate unchanged at 2.25%, as expected, noting that the economy is showing signs of improvement. The central bank said growth is picking up and inflation is projected to ease gradually from its recent spike. However, it also highlighted significant risks and uncertainties stemming from the conflict in the Middle East and US trade policy. Financials traded higher, with RBC and TD Bank edging up, while Brookfield gained more than 1.5%. Mining stocks also advanced as gold prices firmed, with Barrick and WPM adding about 0.5%. Elsewhere, Cogeco Communications (+0.4%) is set to release its third-quarter results after the market close. On the data front, Canada's manufacturing sales reached a record high in May, rising 1.3% month-over-month to C$78.1 billion."
+    },
+    {
+      "id": "4990272",
+      "time": "2026-07-15 22:20:17",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "【加拿大央行維持利率不變 經濟前景改善】加拿大央行連續第六次會議維持利率不變，政策制定者認為經濟正在反彈且油價推動的通脹在消退。以行長Tiff Macklem為首的決策者週三將政策利率維持在2.25%，符合彭博調查經濟學家及隔夜利率互換市場交易員的預期。“經歷了一年的疲軟之後，加拿大經濟正顯現改善跡象，”加拿大央行在貨幣政策報告中表示。“預計增長將回升，通脹將從近期高點逐漸回落。不確定性依然很高。”央行在利率宣告中表示，目前的借貸成本水平對於維持經濟復甦及促使通脹回到2%的目標水平而言依然適宜。“管理委員會將繼續評估加拿大經濟表現及通脹前景，並準備好根據需要調整貨幣政策。”在貨幣政策報告中，央行預計第二季度經濟摺合年率增長2.5%，第三季度增長1.5%。儘管年初經濟疲弱促使決策者將2026年經濟增長預測下調至0.7%，但將2027年和2028年的增長預測均上調至1.8%。央行預計，2026年整體通脹率平均為2.5%，高於此前的2.3%，並預計到明年初回到2%的目標水平。"
     },
     {
       "id": "mkt:019f6626-41e0-7aab-8da6-8257741c89a5",
@@ -171828,118 +172305,6 @@
         "國際"
       ],
       "text": "伊朗官方電視臺Press TV援引訊息人士說法稱，若伊朗遭受任何新的襲擊，伊朗將關閉霍爾木茲海峽。"
-    },
-    {
-      "id": "4977129",
-      "time": "2026-07-08 22:34:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將與內塔尼亞胡談及駐黎巴嫩南部的美軍問題。"
-    },
-    {
-      "id": "4977128",
-      "time": "2026-07-08 22:34:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我認為以色列會從黎巴嫩南部撤軍。"
-    },
-    {
-      "id": "4977127",
-      "time": "2026-07-08 22:34:12",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：我們每次打擊伊朗，油價都會上漲，這沒關係。"
-    },
-    {
-      "id": "4977126",
-      "time": "2026-07-08 22:33:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普：油價正在大幅下跌。"
-    },
-    {
-      "id": "4977125",
-      "time": "2026-07-08 22:33:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克中國資產深夜大漲，阿里巴巴猛拉10%，美股儲存晶片反彈。"
-    },
-    {
-      "id": "mkt:019f4225-b949-7aab-8cf5-58143da52db6",
-      "time": "2026-07-08 22:33:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said of Netanyahu he knows nothing about his political situation and isn’t sure, but believes Netanyahu should be very popular."
-    },
-    {
-      "id": "4977124",
-      "time": "2026-07-08 22:33:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱可能打擊伊朗民用設施並試圖控制哈爾克島】美國總統特朗普8日在安卡拉表示，美國可能打擊伊朗的民用基礎設施，並試圖控制哈爾克島。(新華社)"
-    },
-    {
-      "id": "mkt:019f4225-2c8b-7aab-8cf5-526fb5e45b47",
-      "time": "2026-07-08 22:32:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US EIA implied demand for distillate fuel oil for the week to July 3: 5.99 mln b/d, prior 4.94 mln b/d."
-    },
-    {
-      "id": "mkt:019f4224-feb5-7aab-8cf5-488f639857a1",
-      "time": "2026-07-08 22:32:28",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Distillate Fuel Implied Demand (Jul.3) | actual 5985400M | previous 4941300M"
-    },
-    {
-      "id": "mkt:019f4224-d19e-7aab-8cf5-43407fc5ea41",
-      "time": "2026-07-08 22:32:16",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. EIA total motor gasoline product supplied (implied demand) for the week to July 3: 9.87 mln b/d, down from 10.15 mln b/d the prior week."
-    },
-    {
-      "id": "mkt:019f4224-ab53-7aab-8cf5-3c5b1319aacb",
-      "time": "2026-07-08 22:32:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Motor Gasoline Implied Demand (Jul.3) | actual 9870900M | previous 10147400M"
-    },
-    {
-      "id": "4977123",
-      "time": "2026-07-08 22:31:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普被問及在伊朗部署地面部隊，稱：我為啥要那樣做呢？"
     }
   ]
 }
