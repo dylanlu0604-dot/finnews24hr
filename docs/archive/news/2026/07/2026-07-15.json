@@ -1,7 +1,157 @@
 {
   "date": "2026-07-15",
-  "count": 3649,
+  "count": 3665,
   "items": [
+    {
+      "id": "mkt:019f665e-41a9-7aab-8daa-4592548f6735",
+      "time": "2026-07-15 23:21:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Fed Chair Kevin Warsh: I am not satisfied with any inf indicator】Fed Chair Kevin Warsh told a Senate hearing he is \"not satisfied with any inf indicator\", saying recent data may not fully reflect underlying inf. He said the labor market looks strong but inf is less encouraging, and the Fed will review its tools — including the balance sheet and rates — to assess whether adjustments are needed to address inf."
+    },
+    {
+      "id": "mkt:019f665e-1f37-7aab-8daa-3bfc6733e4b0",
+      "time": "2026-07-15 23:21:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index retreats as capesize demand weakens】Baltic Dry Index slipped from a one-month high, down 51 pts (-1.71%) to 2,929 as capesize demand eased. Baltic Capesize Index (BCI) fell 157 pts (-3.3%) to 4,594; capesize average daily earnings dropped $1,420 to $38,163. Baltic Panamax Index (BPI) rose 7 pts (0.3%) to 2,258; Panamax daily earnings increased $65 to $20,325. Baltic Supramax Index (BSI) gained 10 pts (0.6%) to 1,720, its highest since Aug 2022. Baltic Handysize Index (BHSI) eased 3 pts to 906."
+    },
+    {
+      "id": "4990434",
+      "time": "2026-07-15 23:21:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【55家內地出版文化單位亮相香港書展】7月15日在香港會展中心拍攝的書展內地展區。香港書展是內地與香港文化交流、對接海外市場的重要平臺。本屆書展內地出版單位展區總面積544平方米，以“精品展示、文化互鑑、產業合作”為核心定位，參展單位涵蓋出版集團、地方出版社、高校學術社和發行機構，展出書籍種類豐富。展區採用“1個主題省展區+3大特色展區”組合模式，全方位展現新時代內地出版高質量發展成果。（新華社）"
+    },
+    {
+      "id": "mkt:019f665d-dbaa-7aab-8daa-32d05f8021af",
+      "time": "2026-07-15 23:20:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell more than 2.00% intraday, trading at $57.52/oz."
+    },
+    {
+      "id": "4990433",
+      "time": "2026-07-15 23:20:45",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "加拿大央行高階副行長卡羅琳・羅傑斯： 住房可負擔性問題正在削弱降息本應帶來的刺激效果。"
+    },
+    {
+      "id": "mkt:019f665c-afbd-7aab-8daa-2f1838d4757d",
+      "time": "2026-07-15 23:19:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed should jointly formulate rules with other regulators."
+    },
+    {
+      "id": "4990432",
+      "time": "2026-07-15 23:19:21",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲應與其他監管機構協同制定監管規則。"
+    },
+    {
+      "id": "te:economy:567278",
+      "time": "2026-07-15 23:18:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Retreat from Two-Month Highs on Fiscal Optimism — The UK 10-year gilt yield reversed early gains to trade around 4.95%, retreating from near two-month highs as investors welcomed expectations that Andy Burnham, widely expected to be confirmed as the UK's next prime minister on Monday, will appoint a fiscally conservative finance minister. With Burnham's confirmation largely priced in, markets have shifted their focus to his choice for the Treasury amid the UK's fragile public finances. Reports naming Home Secretary Shabana Mahmood as the leading candidate reassured investors, easing concerns that Burnham could instead appoint Ed Miliband, who is viewed as favoring a more expansionary fiscal stance. Meanwhile, rising Middle East tensions have pushed oil prices to one-month highs, reinforcing expectations that the Bank of England will continue tightening policy. Markets now fully price in a rate hike in November, with another expected by March 2027."
+    },
+    {
+      "id": "te:markets:567277",
+      "time": "2026-07-15 23:17:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "UBS Stock Price Hits 18-1/2-year High — UBS shares increased to 44.44 CHF, the highest since January 2008. Over the past 4 weeks, UBS gained 10.55%, and in the last 12 months, it increased 56.35%."
+    },
+    {
+      "id": "4990430",
+      "time": "2026-07-15 23:17:47",
+      "tags": [
+        "央行",
+        "宏觀",
+        "市場"
+      ],
+      "text": "加拿大央行行長麥克勒姆： 若通脹飆升是油價上漲所致且後續油價回落，他不傾向就此出臺應對舉措。"
+    },
+    {
+      "id": "te:markets:567276",
+      "time": "2026-07-15 23:17:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Inches Down from $4 — Heating oil futures in the US were at $3.95 per gallon, easing from the two-month high of $4.02 on July 14th as stronger inventory data momentarily offset a tightening supply backdrop. Data from the EIA indicated that distillate fuel stocks rose by 4.6 million barrels on the week ending July 19th, nearly erasing the draw from the earlier week. The build weighed against a decreasing SPR as more strikes between the US and Iran continued to hamper global supply of crude oil and refined fuels. On top of that, major diesel producer Russia halted exports of the fuel and shifted to an importer, as higher crude prices exacerbated the series of Ukrainian strikes on the country's largest refineries. This magnified the impact of refinery bottlenecks in the US and direct damage for facilities in the Middle East. Consequently, diesel crack spreads rose to a record high in July."
+    },
+    {
+      "id": "4990429",
+      "time": "2026-07-15 23:17:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲有能力阻止各類生鮮雜貨全線漲價。"
+    },
+    {
+      "id": "mkt:019f665a-bc95-7aab-8daa-2603e25931b0",
+      "time": "2026-07-15 23:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot silver slid about $0.70 intraday to $57.60/oz."
+    },
+    {
+      "id": "mkt:019f665a-bbd8-7aab-8daa-1f618025ea26",
+      "time": "2026-07-15 23:17:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed chairman Kevin Warsh said the Fed can ensure average prices across grocery shelves stop rising."
+    },
+    {
+      "id": "4990428",
+      "time": "2026-07-15 23:17:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲對牛奶、牲畜價格很難起到有效調控作用。勞動力市場發生了許多結構性變化。"
+    },
     {
       "id": "mkt:019f665a-5a80-7aab-8daa-17e0a4688fca",
       "time": "2026-07-15 23:17:05",
@@ -64,6 +214,15 @@
         "Impact bearish"
       ],
       "text": "Spot gold fell $20 intraday and is now quoted at $4,044/oz."
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807843922",
+      "time": "2026-07-15 23:16:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，美國勞動力市場看起來總體上處於平衡狀態。"
     },
     {
       "id": "4990425",
