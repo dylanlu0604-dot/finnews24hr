@@ -1,7 +1,86 @@
 {
   "date": "2026-07-15",
-  "count": 921,
+  "count": 930,
   "items": [
+    {
+      "id": "mkt:019f6361-a66e-7aab-8d8d-7509422f952d",
+      "time": "2026-07-15 09:26:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03986.HK",
+        "Impact bullish",
+        "06809.HK"
+      ],
+      "text": "Hong Kong memory-sector stocks strengthened; 03986.HK rose more than 7%, 06809.HK rose 3.12%."
+    },
+    {
+      "id": "mkt:019f6361-7acd-7aab-8d8d-6c38da8a4c10",
+      "time": "2026-07-15 09:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's benchmark index briefly rose 0.5% to a record high of 5,524.86 and was last up 0.2%."
+    },
+    {
+      "id": "4988776",
+      "time": "2026-07-15 09:25:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數一度上漲0.5%，觸及5,524.86點的紀錄高位，最新上漲0.2%。"
+    },
+    {
+      "id": "mkt:019f6360-efd1-7aab-8d8d-60b34ea7d4a3",
+      "time": "2026-07-15 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "At the open, A-share market: Shanghai Composite -0.09%, Shenzhen Composite +0.31%, ChiNext +0.74%. Lab-grown diamond and storage-chip stocks led gains."
+    },
+    {
+      "id": "4988775",
+      "time": "2026-07-15 09:25:11",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.09％，深成指漲0.31％，創業板漲0.74％。"
+    },
+    {
+      "id": "mkt:019f635f-e2e4-7aab-8d8d-5ed95c05092e",
+      "time": "2026-07-15 09:24:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Automotive Research Center launches bonded inspection pilot for overseas faulty auto parts in Chongqing】China Automotive Technology and Research Center has opened the country's first bonded inspection pilot for overseas automotive faulty parts at Chongqing Lianglu Guoyuan Port Comprehensive Bonded Zone; the first batch of faulty parts from Changan's Saudi operations has arrived and completed testing."
+    },
+    {
+      "id": "te:markets:566961",
+      "time": "2026-07-15 09:24:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Advances Further — European natural gas rose further to around €54.1 per MWh on Wednesday, hovering at the highest level in over three months, as mounting tensions in the Middle East fueled concerns over LNG availability. President Donald Trump warned that the US would target Iranian bridges and power infrastructure next week unless Tehran returns to negotiations. His warning came as US forces carried out strikes on Iran for a fourth consecutive day and resumed a blockade of Iranian ports. Meanwhile, Trump backed away from an earlier threat to impose a 20% \"security\" fee on ships transiting the Strait of Hormuz, saying it would instead be replaced by Gulf state investments in the US. Concerns remain focused on Qatar, a key global LNG exporter, as fresh disruptions to exports from the Ras Laffan complex could curb supplies to Europe at a crucial time for replenishing gas inventories ahead of winter."
+    },
+    {
+      "id": "4988772",
+      "time": "2026-07-15 09:23:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽研牽頭落地海外汽車故障零部件保稅檢測試點】據中國汽研訊息，由中國汽研牽頭打造的國內首個海外汽車故障零部件保稅檢測試點，正式落地重慶兩路果園港綜合保稅區，沙特長安汽車首批故障件已運抵完成檢測。"
+    },
     {
       "id": "mkt:019f635e-da46-7aab-8d8d-5750db86e3e6",
       "time": "2026-07-15 09:23:08",
@@ -61,6 +140,15 @@
         "國際"
       ],
       "text": "20年期日本國債收益率上漲2.0個基點，至3.515%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607153806727681",
+      "time": "2026-07-15 09:21:17",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展4265億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019f635c-f40b-7aab-8d8d-426b0343ad03",

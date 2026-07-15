@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-15 09:23:41",
-  "count": 18735,
+  "updated": "2026-07-15 09:27:36",
+  "count": 18728,
   "items": [
+    {
+      "id": "mkt:019f6361-a66e-7aab-8d8d-7509422f952d",
+      "time": "2026-07-15 09:26:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03986.HK",
+        "Impact bullish",
+        "06809.HK"
+      ],
+      "text": "Hong Kong memory-sector stocks strengthened; 03986.HK rose more than 7%, 06809.HK rose 3.12%."
+    },
+    {
+      "id": "mkt:019f6361-7acd-7aab-8d8d-6c38da8a4c10",
+      "time": "2026-07-15 09:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore's benchmark index briefly rose 0.5% to a record high of 5,524.86 and was last up 0.2%."
+    },
+    {
+      "id": "4988776",
+      "time": "2026-07-15 09:25:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡海峽時報指數一度上漲0.5%，觸及5,524.86點的紀錄高位，最新上漲0.2%。"
+    },
+    {
+      "id": "mkt:019f6360-efd1-7aab-8d8d-60b34ea7d4a3",
+      "time": "2026-07-15 09:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "At the open, A-share market: Shanghai Composite -0.09%, Shenzhen Composite +0.31%, ChiNext +0.74%. Lab-grown diamond and storage-chip stocks led gains."
+    },
+    {
+      "id": "4988775",
+      "time": "2026-07-15 09:25:11",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指開盤漲跌不一，滬指跌0.09％，深成指漲0.31％，創業板漲0.74％。"
+    },
+    {
+      "id": "mkt:019f635f-e2e4-7aab-8d8d-5ed95c05092e",
+      "time": "2026-07-15 09:24:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Automotive Research Center launches bonded inspection pilot for overseas faulty auto parts in Chongqing】China Automotive Technology and Research Center has opened the country's first bonded inspection pilot for overseas automotive faulty parts at Chongqing Lianglu Guoyuan Port Comprehensive Bonded Zone; the first batch of faulty parts from Changan's Saudi operations has arrived and completed testing."
+    },
+    {
+      "id": "te:markets:566961",
+      "time": "2026-07-15 09:24:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Advances Further — European natural gas rose further to around €54.1 per MWh on Wednesday, hovering at the highest level in over three months, as mounting tensions in the Middle East fueled concerns over LNG availability. President Donald Trump warned that the US would target Iranian bridges and power infrastructure next week unless Tehran returns to negotiations. His warning came as US forces carried out strikes on Iran for a fourth consecutive day and resumed a blockade of Iranian ports. Meanwhile, Trump backed away from an earlier threat to impose a 20% \"security\" fee on ships transiting the Strait of Hormuz, saying it would instead be replaced by Gulf state investments in the US. Concerns remain focused on Qatar, a key global LNG exporter, as fresh disruptions to exports from the Ras Laffan complex could curb supplies to Europe at a crucial time for replenishing gas inventories ahead of winter."
+    },
+    {
+      "id": "4988772",
+      "time": "2026-07-15 09:23:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽研牽頭落地海外汽車故障零部件保稅檢測試點】據中國汽研訊息，由中國汽研牽頭打造的國內首個海外汽車故障零部件保稅檢測試點，正式落地重慶兩路果園港綜合保稅區，沙特長安汽車首批故障件已運抵完成檢測。"
+    },
     {
       "id": "mkt:019f635e-da46-7aab-8d8d-5750db86e3e6",
       "time": "2026-07-15 09:23:08",
@@ -61,6 +140,15 @@
         "國際"
       ],
       "text": "20年期日本國債收益率上漲2.0個基點，至3.515%。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607153806727681",
+      "time": "2026-07-15 09:21:17",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展4265億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019f635c-f40b-7aab-8d8d-426b0343ad03",
@@ -171367,164 +171455,6 @@
         "市場"
       ],
       "text": "【旅遊及酒店板塊高開，嶺南控股一字漲停】旅遊及酒店板塊高開，嶺南控股一字漲停，西藏旅遊、天府文旅、西域旅遊、陝西旅遊跟漲。"
-    },
-    {
-      "id": "4975302",
-      "time": "2026-07-08 09:27:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【歐菲光創始人蔡榮軍企業新菲光滿產擴產，計劃三年左右實現年產值400億元】記者獲悉，深圳新菲光的光模組工廠目前處於滿產執行狀態。其中，光明工廠800G產品的月產能約10萬隻，1.6T月產能在4萬隻左右，北美工廠1.6T月產能在1萬隻左右。據悉，新菲光目前攻入北美大客戶，正計劃進一步擴大產能，以承接更多訂單，目標在三年左右實現年產值400億元。公開資料顯示，新菲光由歐菲光創始人蔡榮軍發起設立。據記者向新菲光內部高管了解，目前新菲光處於量產的關鍵時期，需要更多歐菲光過往量產經驗的賦能，也不排除跟歐菲光有更多資本層面合作的可能，以獲得歐菲光支援。（介面新聞）"
-    },
-    {
-      "id": "mkt:019f3f55-d8f9-7aab-8cda-ff2eae953268",
-      "time": "2026-07-08 09:26:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share CPO concept stocks opened higher; Weier jumped more than 16% at the open, while Unisplendour, Ruijie Networks, Huafeng Technology, Huatian Technology and Star‑Net Ruijie also opened up."
-    },
-    {
-      "id": "4975301",
-      "time": "2026-07-08 09:26:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林省釋出地質災害氣象風險黃色預警】據吉林釋出，吉林省自然資源廳和吉林省氣象局2026年7月8日8時聯合釋出地質災害氣象風險黃色預警：今天白天到明天夜間，吉林市地區（豐滿區、蛟河市、龍潭區、永吉縣）發生地質災害風險較高（黃色預警）；吉林市地區（昌邑區、船營區、樺甸市、磐石市、舒蘭市），延邊州地區（安圖縣、敦化市、和龍市、琿春市、龍井市、圖們市、汪清縣、延吉市），以上地區有一定風險（藍色預警），請各單位做好防範工作。"
-    },
-    {
-      "id": "mkt:019f3f55-3c3c-7aab-8cda-f595b2b6aa59",
-      "time": "2026-07-08 09:26:18",
-      "tags": [
-        "MKT News",
-        "000977.SZ",
-        "Impact bullish"
-      ],
-      "text": "Inspur Information shares opened and held the daily limit-up after the company forecast 1H 2026 net profit of 2.6–3.1 bln yuan, implying YoY growth of 226–288%."
-    },
-    {
-      "id": "4975299",
-      "time": "2026-07-08 09:26:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "易控智駕在港交所上市首日漲3.5%，報91港元/股。"
-    },
-    {
-      "id": "4975298",
-      "time": "2026-07-08 09:26:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【浪潮資訊一字漲停】浪潮資訊一字漲停，公司預計2026年上半年淨利潤26億元-31億元，同比增長226%-288%。"
-    },
-    {
-      "id": "mkt:019f3f54-f2ac-7aab-8cda-eaf79f1930a5",
-      "time": "2026-07-08 09:25:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 20-year government bond yield rose 4.0 bps to 3.850%, the highest level since July 1996."
-    },
-    {
-      "id": "4975297",
-      "time": "2026-07-08 09:25:37",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指高開，滬指漲0.16％，深成指漲0.29％，創業板漲0.52％。"
-    },
-    {
-      "id": "4975296",
-      "time": "2026-07-08 09:25:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率上漲4個基點，至3.850%，創1996年7月以來新高。"
-    },
-    {
-      "id": "mkt:019f3f54-8132-7aab-8cda-e4e63791828c",
-      "time": "2026-07-08 09:25:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bullish",
-        "SZSE Component"
-      ],
-      "text": "At the open in China's A-share market, the Shanghai Composite Index rose 0.16%, the Shenzhen Composite Index rose 0.29% and the ChiNext Index rose 0.52%."
-    },
-    {
-      "id": "te:economy:565023",
-      "time": "2026-07-08 09:25:11",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Philippines",
-        "Unemployment Rate",
-        "Importance 1"
-      ],
-      "text": "Philippines Jobless Rate Ticks Up to 4.8% in May — The unemployment rate in the Philippines rose slightly to 4.8% in May 2026 from April's four-month low of 4.7% and was higher than the 3.9% in the same month last year. The number of unemployed persons increased to 2.50 million from 2.41 million in the previous month. The employment rate edged down to 95.2% from 95.3%, despite total employment rising to 49.63 million from 48.89 million in April. The services sector accounted for the largest share of employment at 61.8%, followed by agriculture (19.9%) and industry (18.3%). The subsectors with the highest employment shares were wholesale and retail trade, and repair of motor vehicles and motorcycles (19.6%), agriculture and forestry (17.2%), and construction (10%). The labor force participation rate went up to 63.8% from 62.7% in April but remained below the 65.8% recorded in May 2025. Wage and salary workers comprised 64.3% of the workforce, most of whom were employed in private establishments."
-    },
-    {
-      "id": "4975295",
-      "time": "2026-07-08 09:24:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "墨西哥國家石油公司前執行長維克托·羅德里格斯被捕。"
-    },
-    {
-      "id": "mkt:019f3f53-8d09-7aab-8cda-dcda3aaed260",
-      "time": "2026-07-08 09:24:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "AUDUSD",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【RBA deputy governor Hunt: recent oil price shock has not yet slowed Australian economy】Reserve Bank of Australia Deputy Governor Hunt said in a speech on supply shocks that recent oil-price-driven falls in consumer and business confidence have not yet produced clear signs of slowing in economic activity. She warned that ignoring supply shocks is not always appropriate and said if inflation expectations begin to rise the economy could face a period of low inflation alongside higher unemployment. Hunt said the board will continue to take necessary action to return inflation to target and to ensure the labour market is sustainably at full employment."
-    },
-    {
-      "id": "4975294",
-      "time": "2026-07-08 09:24:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞為技術在港交所上市首日跌近17%，報18港元/股。"
-    },
-    {
-      "id": "4975293",
-      "time": "2026-07-08 09:24:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股人工智慧股走強 匯聚科技漲近9%】截至發稿，匯聚科技(01729.HK)漲8.96%，上海復旦(01385.HK)漲5.53%，聯想集團(00992.HK)漲4.41%。"
-    },
-    {
-      "id": "4975292",
-      "time": "2026-07-08 09:23:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "K2航空：正全力配合巴基斯坦民航局及其他政府機構的調查工作。"
     }
   ]
 }
