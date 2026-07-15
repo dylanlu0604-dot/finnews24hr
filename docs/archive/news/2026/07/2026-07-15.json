@@ -1,7 +1,128 @@
 {
   "date": "2026-07-15",
-  "count": 3072,
+  "count": 3084,
   "items": [
+    {
+      "id": "mkt:019f65e5-43d3-7aab-8da4-2f1863f6e0ea",
+      "time": "2026-07-15 21:09:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley CEO expects AI-related capital expenditure to continue rising."
+    },
+    {
+      "id": "4990092",
+      "time": "2026-07-15 21:08:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿斯麥執行長：需求強勁以及我們的產能擴張計劃是上調業績指引的原因。"
+    },
+    {
+      "id": "mkt:019f65e4-8633-7aab-8da4-213cf23885e6",
+      "time": "2026-07-15 21:08:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "ASML.O",
+        "Impact bullish"
+      ],
+      "text": "ASML CEO said strong demand and the company’s capacity-expansion plans prompted its guidance upgrade."
+    },
+    {
+      "id": "4990091",
+      "time": "2026-07-15 21:08:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "Stripe、安宏國際與 Block 合計出資 170 億美元股權資金，參與收購 PayPal 要約。"
+    },
+    {
+      "id": "4990090",
+      "time": "2026-07-15 21:07:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國藥品和健康產品管理局（MHRA）：目前正在更新產品說明書，以納入醫源性肉毒中毒的警示內容。"
+    },
+    {
+      "id": "4990089",
+      "time": "2026-07-15 21:07:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國藥品和醫療產品監管局（MHRA）：已有報告顯示，部分人群在使用含肉毒桿菌毒素的產品進行治療或醫美后，出現醫源性肉毒中毒病例。"
+    },
+    {
+      "id": "4990088",
+      "time": "2026-07-15 21:07:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄方稱，任何和平協議後擬向烏克蘭部署多國部隊的方案無法接受，此舉將被視作干涉行為與安全威脅。"
+    },
+    {
+      "id": "mkt:019f65e3-5cea-7aab-8da4-182203550553",
+      "time": "2026-07-15 21:07:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Brent"
+      ],
+      "text": "Russia says any proposal to deploy multinational forces in Ukraine after a peace agreement is unacceptable and will be treated as interference and a threat."
+    },
+    {
+      "id": "4990087",
+      "time": "2026-07-15 21:06:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "ADM 因中西部小麥種植用地合作協議，盤中漲 1.2%，觸及日內高點。"
+    },
+    {
+      "id": "mkt:019f65e2-5c1d-7aab-8da4-16687e123314",
+      "time": "2026-07-15 21:06:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Fed's WILLIAMS said he has seen a surge in new U.S. business formations."
+    },
+    {
+      "id": "mkt:019f65e2-206c-7aab-8da4-099916c73fe6",
+      "time": "2026-07-15 21:05:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Williams says the US economy remains robust."
+    },
+    {
+      "id": "4990086",
+      "time": "2026-07-15 21:05:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：美國經濟活力充沛。"
+    },
     {
       "id": "4990085",
       "time": "2026-07-15 21:05:11",
