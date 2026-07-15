@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-16 06:28:30",
-  "count": 18627,
+  "updated": "2026-07-16 06:32:22",
+  "count": 18623,
   "items": [
+    {
+      "id": "te:markets:567319",
+      "time": "2026-07-16 06:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 3.44% — Top commodity gainers are Natural Gas EU (3.44%), Natural Gas UK (3.07%), Germany Natural Gas THE (2.79%), Crude Oil WTI (1.31%) and Brent Crude Oil (0.93%). Biggest losers are Propane (-0.99%), Methanol (-0.84%) and Heating Oil (-0.72%)."
+    },
+    {
+      "id": "4990820",
+      "time": "2026-07-16 06:28:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 APEC數字和人工智慧部長會議及數字周（7月16-24日）；\n② 時間待定 臺積電釋出業績報告，法說會將從14:00開始；\n③ 14:00 英國5月GDP，商品貿易帳，工業產出；\n④ 時間待定 國際能源署（IEA）釋出《全球關鍵礦產展望》報告；\n⑤ 15:30 瑞士央行披露6月18日利率決議的摘要；\n⑥ 20:30 美國6月零售銷售，7月11日當週首次申請失業救濟人數，7月費城聯儲製造業指數；\n⑦ 22:00 美國6月成屋簽約銷售指數，7月NAHB房產市場指數；\n⑧ 次日00:30 美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）談論美國經濟與美聯儲貨幣政策；\n⑨ 次日01:25 美國堪薩斯城聯儲主席Schmid在堪薩斯城聯儲經濟論壇講話；\n⑩ 次日07:00 美聯儲副主席Jefferson談論經濟與貨幣政策。"
+    },
     {
       "id": "mkt:019f67e4-0b17-7aab-8db1-3453217b4f0b",
       "time": "2026-07-16 06:27:05",
@@ -171250,65 +171270,6 @@
         "MKT News"
       ],
       "text": "New Zealand June manufacturing performance index 59.7, previous 49.9."
-    },
-    {
-      "id": "mkt:019f43dc-45a0-7aab-8cff-a14f5a7dbed3",
-      "time": "2026-07-09 06:32:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Performance of Manufacturing Index (Jun) | actual 59.7 | previous 49.9"
-    },
-    {
-      "id": "4977664",
-      "time": "2026-07-09 06:30:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭 6 月經季調服務業景氣指數 59.7 。"
-    },
-    {
-      "id": "te:markets:565412",
-      "time": "2026-07-09 06:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Heating Oil Spikes by 12.33% — Top commodity gainers are Heating Oil (12.33%), Brent Crude Oil (6.48%), Natural Gas EU (6.05%) and Crude Oil WTI (5.70%). Biggest loser is Natural gas (-1.57%)."
-    },
-    {
-      "id": "4977663",
-      "time": "2026-07-09 06:29:29",
-      "tags": [
-        "公司",
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 時間待定 朱雀3號預計將在酒泉再次發射；\n② 09:20 MLCC龍頭三環集團、立訊精密預計港股上市；\n③ 09:30 中國6月CPI、PPI；\n④ 可能釋出 中國1-6月社會融資規模增量、新增人民幣貸款，6月M2等貨幣供應；\n⑤ 時間待定 斯塔默稱英國工黨“新黨首”選舉將啟動；\n⑥ 18:30 歐洲央行管委Escriva講話；\n⑦ 19:30 歐洲央行釋出6月政策會議的紀要；\n⑧ 20:30 美國7月4日當週首次申請失業救濟人數；\n⑨ 21:00 美國紐約聯儲主席（享有FOMC永久投票權，號稱“美聯儲三把手”）參與“市場流動性與”等問題的討論，歐洲央行行長拉加德出席歐盟財長會議，此前稱不排除提前離任；\n⑩ 22:00 美國6月成屋銷售總數年化；\n⑪ 次日01:30 美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）參與關於“市場流動性與”等問題的討論；\n⑫ 次日03:30 英國央行副行長Sarah Breeden講話。"
-    },
-    {
-      "id": "4977662",
-      "time": "2026-07-09 06:29:26",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【7月9日隔夜要聞一覽】\n1、特朗普：對伊朗實施打擊，以此報復伊朗昨日襲擊船隻的行為。\n2、伊朗一名軍方訊息人士稱，伊朗武裝部隊導彈部隊和無人機部隊將“在未來數分鐘內”對美軍在中東地區的基地發動大規模打擊。\n3、美股三大股指集體漲跌不一，道指跌1.09%，標普500指數跌0.28%，納指漲0.19%。Moderna跌7.50%，超微電腦漲7.39%。“七姐妹”方面：英偉達漲3.67%，蘋果漲0.86%，亞馬遜跌0.96%，谷歌跌1.32%，微軟跌1.48%，Meta Platforms跌2.04%，特斯拉跌2.22%。\n4、會議紀要顯示，美聯儲決策者在6月的會議上注意到通脹擔憂日益加劇，少數官員主張6月加息。\n5、美國法官裁定特朗普向E·吉恩·卡羅爾支付500萬美元賠償金。\n6、交易員增加對歐洲央行加息的押注，預計年底前將加息兩次，每次25個基點。\n7、SpaceXAI攜手Cursor釋出AI模型，面向法律和金融等任務。\n8、Meta將在艾伯塔省投建130億加後設資料中心。\n9、SK海力士美國IPO獲得逾七倍超額認購。"
-    },
-    {
-      "id": "4977661",
-      "time": "2026-07-09 06:28:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國發布電力供應警報，熱浪正限制該國的電網執行。"
     }
   ]
 }

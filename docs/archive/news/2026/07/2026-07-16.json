@@ -1,7 +1,27 @@
 {
   "date": "2026-07-16",
-  "count": 476,
+  "count": 478,
   "items": [
+    {
+      "id": "te:markets:567319",
+      "time": "2026-07-16 06:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Rises by 3.44% — Top commodity gainers are Natural Gas EU (3.44%), Natural Gas UK (3.07%), Germany Natural Gas THE (2.79%), Crude Oil WTI (1.31%) and Brent Crude Oil (0.93%). Biggest losers are Propane (-0.99%), Methanol (-0.84%) and Heating Oil (-0.72%)."
+    },
+    {
+      "id": "4990820",
+      "time": "2026-07-16 06:28:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 APEC數字和人工智慧部長會議及數字周（7月16-24日）；\n② 時間待定 臺積電釋出業績報告，法說會將從14:00開始；\n③ 14:00 英國5月GDP，商品貿易帳，工業產出；\n④ 時間待定 國際能源署（IEA）釋出《全球關鍵礦產展望》報告；\n⑤ 15:30 瑞士央行披露6月18日利率決議的摘要；\n⑥ 20:30 美國6月零售銷售，7月11日當週首次申請失業救濟人數，7月費城聯儲製造業指數；\n⑦ 22:00 美國6月成屋簽約銷售指數，7月NAHB房產市場指數；\n⑧ 次日00:30 美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）談論美國經濟與美聯儲貨幣政策；\n⑨ 次日01:25 美國堪薩斯城聯儲主席Schmid在堪薩斯城聯儲經濟論壇講話；\n⑩ 次日07:00 美聯儲副主席Jefferson談論經濟與貨幣政策。"
+    },
     {
       "id": "mkt:019f67e4-0b17-7aab-8db1-3453217b4f0b",
       "time": "2026-07-16 06:27:05",
