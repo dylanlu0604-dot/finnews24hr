@@ -1,7 +1,72 @@
 {
   "date": "2026-07-15",
-  "count": 773,
+  "count": 780,
   "items": [
+    {
+      "id": "4988678",
+      "time": "2026-07-15 08:12:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日經指數上漲1% 追隨華爾街漲勢】日經指數上漲1%，至68438.17點，追隨隔夜華爾街的漲勢。IG首席技術分析師Axel Rudolph在一封電子郵件中表示，疲軟的美國通脹資料“幾乎排除了美聯儲7月加息的可能性，提振了股市，並強化了決策者在夏季幾個月維持利率不變的理由“。在日本基準指數表現最好的成分股中，鎧俠上漲5.5%，Ibiden上漲4.9%，Taiyo Yuden上漲4.5%。"
+    },
+    {
+      "id": "4988677",
+      "time": "2026-07-15 08:11:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "據巴林內政部訊息，當地時間今天（7月15日）凌晨3點左右，巴林防空警報再次拉響。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "te:economy:566943",
+      "time": "2026-07-15 08:11:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Machinery Orders",
+        "Importance 2"
+      ],
+      "text": "Japan Machinery Orders Fall More than Expected — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric utilities, plunged 12.4% mom to JPY 962.0 billion in May 2026, far worse than market forecasts for a 4.2% decline and a reversal from an 8.7% gain in the prior month. It was the third monthly decline so far this year and the steepest drop since December 2019, reflecting broad-based weakness in business investment. Orders from manufacturers dropped 14.9% (vs 5.1% in April), while non-manufacturing orders fell 9.3% (vs 6.7%). Among manufacturers, the steepest declines came from shipbuilding (-80.5%), information and communication electronics (-23.6%), and business-oriented machinery (-14.3%). In the non-manufacturing sector, orders weakened notably in real estate (-69.3%), transport and postal (-23.3%), and goods leasing (-18.6%). On an annual basis, machinery orders fell 1.5%, swinging from April's 15.6% surge and missing estimates for a 12.9% gain and pointing to the fastest drop in six months."
+    },
+    {
+      "id": "4988676",
+      "time": "2026-07-15 08:10:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲1%，至68438.17點。"
+    },
+    {
+      "id": "4988675",
+      "time": "2026-07-15 08:10:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：在調查影響CHATGPT的登入問題和錯誤。"
+    },
+    {
+      "id": "4988674",
+      "time": "2026-07-15 08:09:55",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本電氣股份有限公司（NEC）股價下跌4%。"
+    },
+    {
+      "id": "4988673",
+      "time": "2026-07-15 08:09:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊15日發表宣告說，只要美國繼續對伊朗實施襲擊，該地區就不會出口“一滴石油”和天然氣。（新華社）"
+    },
     {
       "id": "4988672",
       "time": "2026-07-15 08:08:10",
