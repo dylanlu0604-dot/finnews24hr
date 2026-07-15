@@ -1,7 +1,42 @@
 {
   "date": "2026-07-16",
-  "count": 246,
+  "count": 250,
   "items": [
+    {
+      "id": "4990625",
+      "time": "2026-07-16 03:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申國防企業不應回購股票。"
+    },
+    {
+      "id": "te:markets:567308",
+      "time": "2026-07-16 03:12:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Hits 4-week High — Palladium increased to 1327.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Palladium lost 3.5%, and in the last 12 months, it increased 2.72%."
+    },
+    {
+      "id": "4990624",
+      "time": "2026-07-16 03:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：外交部長已返回德黑蘭。"
+    },
+    {
+      "id": "mkt:019f672f-e0b3-7aab-8daf-335a9f4e251b",
+      "time": "2026-07-16 03:10:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's outgoing defense minister Fedorov said Ukraine successfully conducted a ballistic missile test."
+    },
     {
       "id": "4990623",
       "time": "2026-07-16 03:09:37",

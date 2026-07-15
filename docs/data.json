@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-16 03:10:25",
-  "count": 18598,
+  "updated": "2026-07-16 03:14:26",
+  "count": 18600,
   "items": [
+    {
+      "id": "4990625",
+      "time": "2026-07-16 03:12:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申國防企業不應回購股票。"
+    },
+    {
+      "id": "te:markets:567308",
+      "time": "2026-07-16 03:12:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Palladium Hits 4-week High — Palladium increased to 1327.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Palladium lost 3.5%, and in the last 12 months, it increased 2.72%."
+    },
+    {
+      "id": "4990624",
+      "time": "2026-07-16 03:11:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：外交部長已返回德黑蘭。"
+    },
+    {
+      "id": "mkt:019f672f-e0b3-7aab-8daf-335a9f4e251b",
+      "time": "2026-07-16 03:10:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's outgoing defense minister Fedorov said Ukraine successfully conducted a ballistic missile test."
+    },
     {
       "id": "4990623",
       "time": "2026-07-16 03:09:37",
@@ -171149,22 +171184,6 @@
         "DXY"
       ],
       "text": "【Iran FM Araghchi speaks with Qatari PM Mohammed, urges diplomatic resolution of Strait of Hormuz tensions】On the 8th local time, Iranian foreign minister Araghchi held a phone call with Qatari prime minister and foreign minister Mohammed. They exchanged views on regional developments, notably recent incidents in the Strait of Hormuz, and stressed using diplomatic channels and ongoing contact and coordination to prevent escalation."
-    },
-    {
-      "id": "4977548",
-      "time": "2026-07-09 03:12:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外長與卡達首相通話 強調外交渠道解決地區問題】當地時間8日，伊朗外長阿拉格齊與卡達首相兼外交大臣穆罕默德通電話。雙方就地區局勢，特別是霍爾木茲海峽近期事態以及共同關心的問題交換意見。雙方強調，應利用外交渠道處理地區問題，並保持接觸與協調，防止地區緊張局勢升級。（央視新聞）"
-    },
-    {
-      "id": "4977547",
-      "time": "2026-07-09 03:10:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織：總裁格奧爾基耶娃將於 7 月 28 日至 29 日訪問阿根廷， 將會晤阿根廷官方及其他相關方。"
     }
   ]
 }
