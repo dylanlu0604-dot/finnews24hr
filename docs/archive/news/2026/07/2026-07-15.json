@@ -1,7 +1,95 @@
 {
   "date": "2026-07-15",
-  "count": 1403,
+  "count": 1413,
   "items": [
+    {
+      "id": "mkt:019f63f2-b4f9-7aab-8d93-217ad8b5efef",
+      "time": "2026-07-15 12:04:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【NHSA to publish disease-based payment DRG/DIP 3.0 grouping; holds stakeholder consultation】China’s National Healthcare Security Administration, ahead of the planned release of the disease-based payment (DRG/DIP) 3.0 grouping scheme, convened another consultation to solicit feedback. Participants included the National Health Commission Hospital Management Research Institute, the DRG/DIP technical guidance group, representatives from seven major hospitals (including Peking Union Medical College Hospital, Peking University People’s Hospital, the Second Affiliated Hospital of Zhejiang University School of Medicine and West China Hospital of Sichuan University), clinical staff, insurance experts and media representatives to refine pre-release communication and implementation details."
+    },
+    {
+      "id": "4989061",
+      "time": "2026-07-15 12:04:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭生物安全部部長：紐西蘭已確認發現H5型禽流感疫情。"
+    },
+    {
+      "id": "mkt:019f63f2-8dfb-7aab-8d93-1d0b7f88fca1",
+      "time": "2026-07-15 12:04:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Korean broker: SK Hynix ADR premium could boost demand for local shares】Hyundai Motor Securities said on the 15th that SK Hynix's ADR listing has prompted concern foreign investors may sell Korea-listed common shares to buy ADRs, but a sustained ADR premium could instead increase foreign buying of the local shares. Analyst Kim Jae-seung said the ADR makes U.S. trading more convenient and some investors may shift to ADRs to avoid Korean market volatility and won/USD exchange-rate risk, yet a high ADR premium would raise the relative appeal of Korea-listed ordinary stock."
+    },
+    {
+      "id": "mkt:019f63f1-a4e6-7aab-8d93-135b60668fd2",
+      "time": "2026-07-15 12:03:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Japanese civic groups oppose plan for nuclear-powered submarines】Several Japanese civic groups on July 14 issued a joint statement opposing government moves to develop nuclear-powered submarines, saying the plan would contradict Japan’s long-standing support for nuclear disarmament and the Atomic Energy Basic Law’s restriction of nuclear energy to peaceful uses. NGO Peace Boat criticized proposals from the ruling party and a government expert panel as a dangerous shift, saying nuclear-powered submarines enable long-range submerged operations and strike capability and would depart from Japan’s postwar exclusive defense (senshu bōei) policy."
+    },
+    {
+      "id": "4989060",
+      "time": "2026-07-15 12:02:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多個市民團體反對日本擁有核潛艇】針對日本政府試圖發展核動力潛艇的動向，多個日本市民團體7月14日發表聯合宣告指出，日本長期宣揚廢除核武器，且日本《原子能基本法》規定，核能的利用僅限和平目的。擁有核潛艇將意味著日本自我否定這一立場。參與發表聯合宣告的“和平舟”組織在其網站上說，日本執政黨和政府專家小組提出擁有核潛艇的相關建議，是非常危險的動向。核潛艇是進行遠距離潛航和攻擊的裝備，擁有核潛艇將嚴重背離日本奉行的“專守防衛”原則。（CCTV國際時訊）"
+    },
+    {
+      "id": "4989059",
+      "time": "2026-07-15 12:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【3.0釋出在即 國家醫保局再次召開座談會聽取意見建議 】為進一步做好釋出前溝通解讀工作，近日，在按病種付費3.0版分組方案發布前夕，國家醫保局再次組織召開徵求意見座談，與國家衛生健康委醫院管理研究所，國家DRG、DIP技術指導組成員，北京協和醫院、北京大學人民醫院、浙江大學醫學院附屬第二醫院、四川大學華西醫院等7家醫院相關工作負責同志、醫護人員代表，以及醫保專家和自媒體代表進行深入交流，深入聽取意見建議，凝聚改革共識。（國家醫療保障局）"
+    },
+    {
+      "id": "4989058",
+      "time": "2026-07-15 12:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯通達網路等成立科技新公司 含AI相關業務】企查查APP顯示，近日，江蘇匯廩科技有限公司成立，經營範圍包含：人工智慧硬體銷售；資料處理和儲存支援服務；光通訊裝置製造；光通訊裝置銷售等。企查查股權穿透顯示，該公司由匯通達網路等共同持股。"
+    },
+    {
+      "id": "4989057",
+      "time": "2026-07-15 12:01:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "理想汽車：全能四驅SUV， 新一代理想L6產品釋出會， 明晚19:30見。"
+    },
+    {
+      "id": "4989056",
+      "time": "2026-07-15 12:00:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【威騰電氣在江蘇成立投資新公司】企查查APP顯示，近日，威騰電氣集團（江蘇）投資有限公司成立，經營範圍包含：以自有資金從事投資活動；創業投資（限投資未上市企業）；自有資金投資的資產管理服務；股權投資。企查查股權穿透顯示，該公司由威騰電氣全資持股。"
+    },
+    {
+      "id": "4989055",
+      "time": "2026-07-15 12:00:50",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "傑富瑞將花旗集團目標價從180美元下調至165美元。"
+    },
     {
       "id": "4989054",
       "time": "2026-07-15 11:59:44",
