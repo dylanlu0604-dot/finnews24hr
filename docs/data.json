@@ -1,7 +1,144 @@
 {
-  "updated": "2026-07-16 07:06:34",
-  "count": 18601,
+  "updated": "2026-07-16 07:10:27",
+  "count": 18611,
   "items": [
+    {
+      "id": "mkt:019f680a-f56b-7aab-8db1-afc2a8686829",
+      "time": "2026-07-16 07:09:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports Anthropic is negotiating to add a $2.5 billion bank credit line ahead of an IPO."
+    },
+    {
+      "id": "4990858",
+      "time": "2026-07-16 07:08:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic正就首次公開募股前擴大銀行信貸額度至數十億美元進行談判。"
+    },
+    {
+      "id": "4990857",
+      "time": "2026-07-16 07:08:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股票ETF半月吸金近2000億元】資金持續借道股票型ETF入市。據Choice測算，7月13日，股票型ETF資金淨流入597.04億元，較前幾日大幅增加。7月14日，資金繼續加倉股票型ETF，當日淨流入185.71億元。拉長期限來看，7月1日至14日，股票型ETF資金淨流入1946.71億元。從本輪資金流向看，寬基ETF重獲資金青睞，成為“吸金”主力。值得注意的是，本週以來滬深300相關ETF資金流向發生顯著變化。7月13日，滬深300ETF華泰柏瑞資金淨流入55.38億元，這是該ETF年內罕見的資金大幅淨流入。7月14日，該ETF再度淨流入7.69億元。而今年以來，截至7月10日，滬深300ETF華泰柏瑞資金淨流出3448億元，其中7月1日至10日資金淨流出就高達86.92億元。（上證報）"
+    },
+    {
+      "id": "4990856",
+      "time": "2026-07-16 07:07:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【行業景氣度得到驗證，鋰電產業鏈企業上半年業績大面積預喜】鋰電企業2026年上半年業績預告集中披露，行業上行週期邏輯得到進一步印證。資料顯示，截至7月15日收盤，已有35家鋰電產業鏈上市公司釋出上半年業績預告，除3家業績同比下滑，其餘為預增、扭虧或減虧。各企業的“成績單”顯示，從上游鋰礦、鋰鹽，到中游鋰電材料，再到下游動力電池、儲能賽道，產業鏈各環節景氣度同步回暖。上游鋰鹽實現量價齊升，相關企業業績大面積預增；中游隔膜、電解液與下游電池廠商盈利同步修復。（上證報）"
+    },
+    {
+      "id": "4990855",
+      "time": "2026-07-16 07:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：長鑫科技今日申購】今日可申購長鑫科技，長鑫科技發行市盈率308.92倍，申購程式碼787825，申購價格8.66元，單一賬戶申購上限334.9萬股。"
+    },
+    {
+      "id": "4990854",
+      "time": "2026-07-16 07:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "三菱重工：向美國市場交付一臺10MW級渦輪冷水機組測試樣機。"
+    },
+    {
+      "id": "4990853",
+      "time": "2026-07-16 07:06:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱重工將加入英偉達合作伙伴網路的“電源與散熱”計劃。"
+    },
+    {
+      "id": "4990852",
+      "time": "2026-07-16 07:06:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱重工測試冷卻裝置支援英偉達DSX。"
+    },
+    {
+      "id": "4990851",
+      "time": "2026-07-16 07:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心（GFZ）：斐濟群島以南海域發生6.01級地震。"
+    },
+    {
+      "id": "mkt:019f6806-c6e3-7aab-8db1-a360f7b7da67",
+      "time": "2026-07-16 07:05:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY shows over half of Japanese firms say yen weakness is hurting profits."
+    },
+    {
+      "id": "4990850",
+      "time": "2026-07-16 07:04:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體：伊朗多地遭美軍襲擊 】據伊朗邁赫爾通訊社當地時間16日凌晨報道，伊朗霍爾木茲甘省、錫斯坦-俾路支斯坦省和胡齊斯坦省多地遭美軍新一輪、持續數小時的襲擊。報道說，美軍炮火擊中伊朗南部錫裡克地區、阿巴斯港、格什姆島等地，各地受損情況尚待進一步調查後公佈。稍早前，美軍中央司令部在社交媒體發文稱，美軍於美國東部時間15日15時（北京時間16日3時）對伊朗發起當天的第二波打擊行動。"
+    },
+    {
+      "id": "mkt:019f6806-7aa8-7aab-8db1-9916372f9d89",
+      "time": "2026-07-16 07:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters survey found nearly one-third of Japanese companies say the Bank of Japan's measures to date have harmed capital investment."
+    },
+    {
+      "id": "mkt:019f6806-4ff5-7aab-8db1-97ca96eba3e8",
+      "time": "2026-07-16 07:04:31",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Zelenskiy says Ukraine expects Patriot interceptor production capability by year-end】Zelenskiy said Ukraine is seeking a license to produce Patriot air-defense system interceptors and expects to acquire the technical capability to manufacture them by year-end. At last week’s NATO summit, US President Trump told Zelenskiy the US will issue a license allowing Ukraine to produce Patriot interceptors."
+    },
+    {
+      "id": "4990849",
+      "time": "2026-07-16 07:04:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓第四季度鐵礦石實現價格為每噸溼噸83.58美元，環比下跌2%。"
+    },
+    {
+      "id": "mkt:019f6805-5ed8-7aab-8db1-8d3aff54c6a4",
+      "time": "2026-07-16 07:03:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "TM.O"
+      ],
+      "text": "NVIDIA (NVDA.O) expands partnership with Toyota to advance physical AI for vehicles, robotics and urban infrastructure."
+    },
     {
       "id": "mkt:019f6804-3cd3-7aab-8db1-87cfab6df61c",
       "time": "2026-07-16 07:02:15",
@@ -171036,51 +171173,6 @@
         "國際"
       ],
       "text": "【特朗普：在美方發出貿易禁運威脅後，西班牙已同意增加支付款項】特朗普搭乘空軍一號從峰會返程美國途中向記者作出表態。“我跟他說了，我打算終止雙邊貿易，” 他接著說道，“對方此前按要求完成了大額款項支付，也兌現了相關付款要求；倘若他們沒有照做，我們根本不會和他們展開任何談判。”特朗普並未說明他所指的款項具體是什麼，也未透露自己對話的西班牙相關人員身份。但這位美國總統在週三早些時候抨擊了這位北約盟國，指責該國未在美國與以色列對伊朗採取軍事行動一事上提供支援，同時稱西班牙國防開支投入不足。特朗普在與北約秘書長馬克・呂特會面時表示：“爭取西班牙這邊的合作已經毫無意義。” 他還再次放出切斷貿易往來的狠話，稱 “我們不想再和西班牙開展任何貿易合作”。"
-    },
-    {
-      "id": "te:economy:565421",
-      "time": "2026-07-09 07:10:22",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "RICS House Price Balance",
-        "Importance 1"
-      ],
-      "text": "UK Housing Market Remains Weak — The RICS UK Residential Market Survey showed that the house price balance edged up to -33% in June 2026 from -34% in May, pointing to only tentative signs of improvement despite the recent easing in global geopolitical tensions and the decline in oil prices. New buyer enquiries rose to -29% from -34%, the least negative reading since February, while the agreed sales balance improved to -32% from -35%, pointing to a gradual easing in market weakness. Meanwhile, new instructions to sell fell sharply to -23% from -10%, marking the weakest reading in over a year and signaling a tighter supply pipeline. Regionally, the South East and South West remained under the greatest price pressure, while Northern Ireland and Scotland continued to outperform. Looking ahead, the three-month house price expectations index improved to -32% from -44%, while the 12-month outlook turned slightly more optimistic at +8%, reflecting modest price growth over the coming year."
-    },
-    {
-      "id": "4977698",
-      "time": "2026-07-09 07:08:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【防空反導、對海打擊 中俄展開海上聯合演習】昨天（8日），中俄“海上聯合-2026”聯合演習港岸階段順利結束。雙方艦艇將於今天（9日）上午從青島某軍港解纜起航，前往預定海域展開海上聯合演習。 出發前，聯合導演部、聯合指揮部組織多輪指揮推演和戰術協同，雙方指揮員商定作戰行動要點、演練規則，細化海上協同流程和應急處置預案。在海軍潛艇學院，中俄雙方任務官兵、相關專家聚焦援潛救生技術發展、裝備建設、海上訓練等議題展開專業交流。在軍港碼頭，中俄雙方互相開放艦艇，並圍繞艦艇的動力系統維護、遠洋航行經驗、日常訓練管理等方面展開討論。  （央視）"
-    },
-    {
-      "id": "4977697",
-      "time": "2026-07-09 07:08:23",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、驛站建設應注重“有效覆蓋率”（縱橫）\n2、以金融創新促成果轉化（新知）\n3、全國暑期文化和旅遊消費季啟動 發放超4.5億元消費補貼\n4、觸控機器人產業的“外骨骼”\n5、民政部發布指引 加強城鄉三級養老服務網路建設管理\n6、市場監管總局釋出徵求意見稿 進一步規範眼鏡制配行業經營秩序\n7、針對高校畢業生等青年開展活動 超5000家網際網路企業提供超20萬個崗位（穩就業在行動）\n8、北京出臺措施促進農村勞動力就業 織密城鄉“15分鐘就業服務圈”（穩就業在行動）\n9、體育總局中消協釋出消費提示 警惕體育營銷陷阱\n10、著眼打造非洲“綠氫樞紐”——奈米比亞積極發展綠氫產業\n11、IMF下調世界經濟增長預期 上調中國增長預期。"
-    },
-    {
-      "id": "4977696",
-      "time": "2026-07-09 07:08:15",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、國家科學技術獎勵大會兩院院士大會中國科協第十一次全國代表大會在京召開 習近平發表重要講話強調，“十五五”時期是科技強國建設的關鍵攻堅期。必須抓住歷史機遇，迎接時代挑戰，加快推進高水平科技自立自強，向著到2035年建成科技強國的目標堅定邁進，紮紮實實以科技創新支撐和引領中國式現代化 李強主持 趙樂際王滬寧蔡奇李希出席 丁薛祥宣讀獎勵決定\n2、《習近平關於基層工作方法的重要論述學習讀本》出版發行\n3、中共中央國務院關於2025年度國家科學技術獎勵的決定（2026年7月8日）\n4、中國科協第十一次全國代表大會舉行第二次全體會議 蔡奇到會祝賀並代表黨中央致詞\n5、丁薛祥接見國際科技合作獎獲獎外國專家。"
-    },
-    {
-      "id": "4977695",
-      "time": "2026-07-09 07:06:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【在畢馬威接受調查之際  澳大利亞監管機構正在審查針對“四大”審計公司的投訴】澳大利亞企業監管機構週四表示，鑑於近期關於畢馬威（KPMG）審計師行為不當的指控，該機構已開始審查“四大”會計師事務所——畢馬威、德勤、安永和普華永道——收到的審計行為投訴。此次審查源於澳大利亞證券與投資委員會（ASIC）於6月針對畢馬威澳大利亞三名合夥人啟動的正式調查，該調查源於舉報人指控該公司濫用客戶機密資料以贏得利潤豐厚的審計合同。ASIC在宣告中表示，此次審查將調查各事務所收到的與所提供的外部審計服務相關的內部投訴，包括舉報人的投訴。ASIC週四還表示，將持續開展“針對畢馬威濫用客戶機密資訊的具體指控的重大調查”。“ASIC將運用現有的有限權力，同時繼續積極參與政府的改革程序，”ASIC主席莎拉·考特補充道。這四家審計公司尚未立即回應置評請求。"
     }
   ]
 }

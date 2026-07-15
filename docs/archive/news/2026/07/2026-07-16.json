@@ -1,7 +1,144 @@
 {
   "date": "2026-07-16",
-  "count": 520,
+  "count": 535,
   "items": [
+    {
+      "id": "mkt:019f680a-f56b-7aab-8db1-afc2a8686829",
+      "time": "2026-07-16 07:09:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Information reports Anthropic is negotiating to add a $2.5 billion bank credit line ahead of an IPO."
+    },
+    {
+      "id": "4990858",
+      "time": "2026-07-16 07:08:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic正就首次公開募股前擴大銀行信貸額度至數十億美元進行談判。"
+    },
+    {
+      "id": "4990857",
+      "time": "2026-07-16 07:08:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股票ETF半月吸金近2000億元】資金持續借道股票型ETF入市。據Choice測算，7月13日，股票型ETF資金淨流入597.04億元，較前幾日大幅增加。7月14日，資金繼續加倉股票型ETF，當日淨流入185.71億元。拉長期限來看，7月1日至14日，股票型ETF資金淨流入1946.71億元。從本輪資金流向看，寬基ETF重獲資金青睞，成為“吸金”主力。值得注意的是，本週以來滬深300相關ETF資金流向發生顯著變化。7月13日，滬深300ETF華泰柏瑞資金淨流入55.38億元，這是該ETF年內罕見的資金大幅淨流入。7月14日，該ETF再度淨流入7.69億元。而今年以來，截至7月10日，滬深300ETF華泰柏瑞資金淨流出3448億元，其中7月1日至10日資金淨流出就高達86.92億元。（上證報）"
+    },
+    {
+      "id": "4990856",
+      "time": "2026-07-16 07:07:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【行業景氣度得到驗證，鋰電產業鏈企業上半年業績大面積預喜】鋰電企業2026年上半年業績預告集中披露，行業上行週期邏輯得到進一步印證。資料顯示，截至7月15日收盤，已有35家鋰電產業鏈上市公司釋出上半年業績預告，除3家業績同比下滑，其餘為預增、扭虧或減虧。各企業的“成績單”顯示，從上游鋰礦、鋰鹽，到中游鋰電材料，再到下游動力電池、儲能賽道，產業鏈各環節景氣度同步回暖。上游鋰鹽實現量價齊升，相關企業業績大面積預增；中游隔膜、電解液與下游電池廠商盈利同步修復。（上證報）"
+    },
+    {
+      "id": "4990855",
+      "time": "2026-07-16 07:07:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：長鑫科技今日申購】今日可申購長鑫科技，長鑫科技發行市盈率308.92倍，申購程式碼787825，申購價格8.66元，單一賬戶申購上限334.9萬股。"
+    },
+    {
+      "id": "4990854",
+      "time": "2026-07-16 07:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "三菱重工：向美國市場交付一臺10MW級渦輪冷水機組測試樣機。"
+    },
+    {
+      "id": "4990853",
+      "time": "2026-07-16 07:06:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱重工將加入英偉達合作伙伴網路的“電源與散熱”計劃。"
+    },
+    {
+      "id": "4990852",
+      "time": "2026-07-16 07:06:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱重工測試冷卻裝置支援英偉達DSX。"
+    },
+    {
+      "id": "4990851",
+      "time": "2026-07-16 07:05:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國地學研究中心（GFZ）：斐濟群島以南海域發生6.01級地震。"
+    },
+    {
+      "id": "mkt:019f6806-c6e3-7aab-8db1-a360f7b7da67",
+      "time": "2026-07-16 07:05:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY shows over half of Japanese firms say yen weakness is hurting profits."
+    },
+    {
+      "id": "4990850",
+      "time": "2026-07-16 07:04:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體：伊朗多地遭美軍襲擊 】據伊朗邁赫爾通訊社當地時間16日凌晨報道，伊朗霍爾木茲甘省、錫斯坦-俾路支斯坦省和胡齊斯坦省多地遭美軍新一輪、持續數小時的襲擊。報道說，美軍炮火擊中伊朗南部錫裡克地區、阿巴斯港、格什姆島等地，各地受損情況尚待進一步調查後公佈。稍早前，美軍中央司令部在社交媒體發文稱，美軍於美國東部時間15日15時（北京時間16日3時）對伊朗發起當天的第二波打擊行動。"
+    },
+    {
+      "id": "mkt:019f6806-7aa8-7aab-8db1-9916372f9d89",
+      "time": "2026-07-16 07:04:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Reuters survey found nearly one-third of Japanese companies say the Bank of Japan's measures to date have harmed capital investment."
+    },
+    {
+      "id": "mkt:019f6806-4ff5-7aab-8db1-97ca96eba3e8",
+      "time": "2026-07-16 07:04:31",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Zelenskiy says Ukraine expects Patriot interceptor production capability by year-end】Zelenskiy said Ukraine is seeking a license to produce Patriot air-defense system interceptors and expects to acquire the technical capability to manufacture them by year-end. At last week’s NATO summit, US President Trump told Zelenskiy the US will issue a license allowing Ukraine to produce Patriot interceptors."
+    },
+    {
+      "id": "4990849",
+      "time": "2026-07-16 07:04:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "必和必拓第四季度鐵礦石實現價格為每噸溼噸83.58美元，環比下跌2%。"
+    },
+    {
+      "id": "mkt:019f6805-5ed8-7aab-8db1-8d3aff54c6a4",
+      "time": "2026-07-16 07:03:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "TM.O"
+      ],
+      "text": "NVIDIA (NVDA.O) expands partnership with Toyota to advance physical AI for vehicles, robotics and urban infrastructure."
+    },
     {
       "id": "mkt:019f6804-3cd3-7aab-8db1-87cfab6df61c",
       "time": "2026-07-16 07:02:15",
