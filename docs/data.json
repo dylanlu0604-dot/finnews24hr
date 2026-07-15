@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-15 07:57:28",
-  "count": 18759,
+  "updated": "2026-07-15 08:01:22",
+  "count": 18747,
   "items": [
+    {
+      "id": "4988658",
+      "time": "2026-07-15 08:00:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤上漲3.3%，至7082.91點。"
+    },
+    {
+      "id": "4988657",
+      "time": "2026-07-15 08:00:34",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：業績期關注AI、漲價、製造三大線索】華泰證券研報認為，業績期關注AI、漲價、製造三大線索。隨著業績預告密集披露期臨近，華泰證券從多個維度觀察：1）中報業績預告披露率目前仍較低，披露率及預喜率居前的行業為石化、非銀、有色、化工、電子等，預告淨利潤增速中位數居前的行業為農業、石化、軍工、計算機、傳媒，隨著披露率上升或仍有變化；2）考察近1個月盈利預期變化，上修幅度居前的行業為煤炭、建材、電子、通訊、化工，上修寬度居前的行業為建材、煤炭、有色、通訊、機械；3）中觀資料顯示景氣改善的線索集中AI鏈（元件、半導體、光通訊、光電、遊戲等）、漲價鏈（航運、玻纖、煤炭、造紙、部分化工品、銅等）、製造出海（航海裝備、通用自動化、電池、工程機械等）。"
+    },
+    {
+      "id": "4988656",
+      "time": "2026-07-15 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上午開盤報67989.74點，漲幅0.36%。"
+    },
+    {
+      "id": "4988655",
+      "time": "2026-07-15 08:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破86美元/桶，日內漲0.48%。"
+    },
+    {
+      "id": "4988654",
+      "time": "2026-07-15 07:59:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部稱已拉響警報。"
+    },
+    {
+      "id": "mkt:019f6312-559d-7aab-8d8b-f9ebb1c59cb1",
+      "time": "2026-07-15 07:59:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bahrain's Interior Ministry said an alarm had sounded."
+    },
+    {
+      "id": "4988653",
+      "time": "2026-07-15 07:58:46",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國將2027年最低工資標準定為每小時10700韓元】據報道，韓國最低工資委員會批准了2027年韓國最低工資標準，為每小時10700韓元，比今年上漲3.7%。該增幅超過2026年CPI通脹預測值2.7%。商業團體警告稱，更高的工資將加重小企業的勞動力成本負擔。"
+    },
     {
       "id": "4988652",
       "time": "2026-07-15 07:56:31",
@@ -171558,181 +171619,6 @@
         "Importance 1"
       ],
       "text": "Japan Current Account Surplus Rises Despite Forecast Miss — Japan’s current account surplus increased to JPY 3,968.3 billion in May 2026 from JPY 3,320.5 billion in the same month a year earlier, though it fell short of market expectations of JPY 4,121 billion. The goods account swung to a marginal surplus of JPY 0.07 billion from a JPY 497.1 billion deficit, as export growth (14.7%) outpaced import growth (8.1%). Meanwhile, the primary income surplus increased to JPY 4,275.6 billion from JPY 4,180.2 billion. The secondary income deficit narrowed to JPY 304.0 billion from JPY 493.5 billion. By contrast, the services account slipped into a marginal deficit of JPY 0.1 billion, reversing from a JPY 130.9 billion surplus a year earlier."
-    },
-    {
-      "id": "4975168",
-      "time": "2026-07-08 08:01:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌4%。"
-    },
-    {
-      "id": "mkt:019f3f07-62fe-7aab-8cd9-4a348ae8091a",
-      "time": "2026-07-08 08:01:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 index opened down 615.03 points, or 0.90%, at 67,641.93 on Wednesday, July 8."
-    },
-    {
-      "id": "4975167",
-      "time": "2026-07-08 08:01:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價下跌3.4%。"
-    },
-    {
-      "id": "4975166",
-      "time": "2026-07-08 08:00:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國空襲伊朗後，布倫特原油開盤上漲2.8%，至每桶76.20美元。"
-    },
-    {
-      "id": "4975165",
-      "time": "2026-07-08 08:00:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.7%，至7452.48點。"
-    },
-    {
-      "id": "4975164",
-      "time": "2026-07-08 08:00:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國高階官員表示，韓國將向烏克蘭提供1億美元援助。"
-    },
-    {
-      "id": "4975163",
-      "time": "2026-07-08 08:00:22",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金交運板塊2026下半年展望：看好快遞航運，關注航空成本改善】中金研報表示，今年上半年交運板塊下跌16.5%，跑輸大盤24.0個百分點，細分板塊分化，其中油運跑贏大盤30.6個百分點；而其他板塊均跑輸，航空因二季度油價上漲跑輸大盤39.2個百分點；紅利類公路鐵路和港口分別跑輸24.5個百分點/20.1個百分點；快遞跑輸大盤12.5個百分點。下半年看好快遞“反內卷”的行情、油運的運價彈性；關注航空油價下行的需求復甦，而非快遞物流則需精選個股。"
-    },
-    {
-      "id": "4975162",
-      "time": "2026-07-08 08:00:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報67704.16點，跌幅0.81%。"
-    },
-    {
-      "id": "4975161",
-      "time": "2026-07-08 08:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報76.16美元/桶。"
-    },
-    {
-      "id": "te:markets:564999",
-      "time": "2026-07-08 08:00:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Holds Decline as US Strikes Iran — Silver held below $60 an ounce on Wednesday after dropping more than 3% in the previous session, as the US military launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. The US also revoked a waiver allowing Iran to sell crude on global markets, while the latest hostilities discouraged shipowners and regional producers from using Hormuz, raising the risk of renewed disruptions to global energy supplies. Meanwhile, investors awaited the minutes of the Federal Reserve’s June meeting for further clues on the policy outlook. Silver had recently rebounded after softer-than-expected US jobs data prompted markets to scale back expectations for near-term Fed rate increases, though the renewed Middle East tensions kept the outlook uncertain."
-    },
-    {
-      "id": "4975160",
-      "time": "2026-07-08 07:59:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將監測可能導致股市波動的風險。"
-    },
-    {
-      "id": "4975159",
-      "time": "2026-07-08 07:59:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國地震局開展四川宜賓市高縣5.0級地震應急處置工作】據中國地震臺網正式測定，2026年7月8日6時12分，在四川宜賓市高縣（北緯28.52度，東經104.68度）發生5.0級地震，震源深度8公里。 地震發生後，中國地震局迅速啟動三級應急響應，中國地震局黨組書記、局長王昆第一時間部署應急處置工作，影片連線中國地震臺網中心、四川省地震局，要求有關單位加強震情監視跟蹤研判，開展聯合會商，及時報告有關情況。 目前，四川省地震局已派出現場工作隊趕赴震區，協助地方政府開展應急處置工作。"
-    },
-    {
-      "id": "4975158",
-      "time": "2026-07-08 07:59:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：日美韓外長在土耳其舉行會議。"
-    },
-    {
-      "id": "4975157",
-      "time": "2026-07-08 07:58:51",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：密切關注導致股市過度波動的風險因素。"
-    },
-    {
-      "id": "4975156",
-      "time": "2026-07-08 07:58:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將加大力度穩定市場和經濟。"
-    },
-    {
-      "id": "4975155",
-      "time": "2026-07-08 07:58:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部：透過相關機構間的密切協調，加強宏觀經濟和市場穩定工作。"
-    },
-    {
-      "id": "te:markets:564998",
-      "time": "2026-07-08 07:57:46",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Holds Decline as US Strikes Iran — Gold traded around $4,100 an ounce on Wednesday after dropping more than 1% in the previous session, as the US military launched fresh air strikes on Iran following recent attacks on ships transiting the Strait of Hormuz. The renewed escalation threatened the interim US-Iran peace deal and drove oil prices higher, stoking inflation fears and raising prospects for interest rate hikes. The US also revoked a waiver allowing Iran to sell crude on global markets, while the latest hostilities discouraged shipowners and regional producers from using Hormuz, raising the risk of renewed disruptions to global energy supplies. Meanwhile, investors awaited the minutes of the Federal Reserve’s June meeting for further clues on the policy outlook. Gold had recently rebounded after softer-than-expected US jobs data prompted markets to scale back expectations for near-term Fed rate increases, though the renewed Middle East tensions kept the outlook uncertain."
-    },
-    {
-      "id": "te:economy:564997",
-      "time": "2026-07-08 07:57:44",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "El Salvador",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "El Salvador Inflation Nears 3-Year High — Annual inflation in El Salvador accelerated to 2.77% in June 2026 from 2.53% in May, marking the fastest pace since September 2023. Inflation accelerated for food and non-alcoholic beverages (3.0% vs 2.9% in May) and housing and utilities (2.0% vs 1.1%). On a monthly basis, the CPI rose 0.55%, following a 0.47% rise in the previous month."
-    },
-    {
-      "id": "4975154",
-      "time": "2026-07-08 07:57:37",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本央行淺田統一郎：需看到需求推升通脹才會支援加息】日本央行審議委員淺田統一郎表示，他必須看到需求推升通脹的跡象，然後才會支援加息，但他同時指出成本上升傳導速度“相對較快”，表明他未來可能會投票支援加息。淺田統一郎在加入政策委員會後首次接受採訪時發表了上述言論，這凸顯出政治層面要求維持寬鬆政策的壓力與企業將成本上漲轉嫁給消費者所造成的通脹之間的拉扯日益加劇。日本央行6月將利率上調至31年高位1%，當時淺田統一郎是這一決定的唯一反對者。淺田表示，他之所以投下反對票，是因為中東局勢仍存在不確定性，可能對產出和就業造成衝擊。淺田統一郎是鴿派首相高市早苗任命的審議委員。他週一向媒體表示，支援未來加息的關鍵前提是日本具備可持續實現央行2%通脹目標的條件。他說，“此外，我認為有必要確認這一目標是在工資上漲和需求擴張等內生性經濟力量支撐下實現的，”並補充稱這些力量目前還不足以成為加息的理由。當被問及他是否支援日本央行的加息立場時，淺田表示：“我並非一貫反對加息。雖然這次我投了反對票，但我打算根據每個時點的實際情況評估來做決定。”淺田還表示，他認為日本的中性利率“相當低”，但很難明確指出確切數值。“中性利率本身不應成為目標。政策應始終以物價穩定為目標。”"
     }
   ]
 }
