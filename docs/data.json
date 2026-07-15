@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-15 20:32:26",
-  "count": 18658,
+  "updated": "2026-07-15 20:36:34",
+  "count": 18663,
   "items": [
+    {
+      "id": "4990004",
+      "time": "2026-07-15 20:35:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國稅局局長將主導特朗普賬戶的運營。"
+    },
+    {
+      "id": "mkt:019f65c6-0503-7aab-8da2-5b55f65893b4",
+      "time": "2026-07-15 20:35:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "FOMC permanent voter and New York Fed President Williams to speak in 10 minutes."
+    },
+    {
+      "id": "te:economy:567217",
+      "time": "2026-07-15 20:34:59",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Producer Price Inflation MoM",
+        "Importance 3"
+      ],
+      "text": "US Producer Prices Record Surprise Decline — Producer prices in the US declined 0.3% month-over-month in June 2026, following a downwardly revised 0.6% rise in May and below forecasts of a flat reading. It is the first decrease in PPI since August 2025 and the largest since April last year. Prices of goods went down 1.4%, the most since falling 1.9% in July 2022, led by a 12% slump in gasoline."
+    },
+    {
+      "id": "mkt:019f65c5-ee22-7aab-8da2-56de60c520bc",
+      "time": "2026-07-15 20:34:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Changxin Technology says 5th‑generation process platform in R&D】On July 15, at an online investor Q&A ahead of its STAR Market listing, Changxin Technology vice‑president and board secretary Yuan Yuan said the company’s fifth‑generation process technology platform and related products are currently in R&D. The platform uses an optimized multi‑exposure lithography technique to raise storage density and improve array performance; the R&D team is actively advancing related process and product development."
+    },
+    {
+      "id": "te:economy:567215",
+      "time": "2026-07-15 20:34:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Core Producer Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Core Producer Prices Rise Less than Expected — Core producer prices in the United States, which exclude food and energy goods, rose by 0.2% from the previous month in June of 2026. This contrasted with expectations of a 0.4% increase, slowing from the downwardly revised 0.1% increase in the previous month. The data and its revisions indicated that the surge in energy prices from the energy shortage from the Middle East was not transmitted to underlying wholesale price growth at the magnitude feared. Prices for final demand goods excluding food and energy rose by 0.2%, the least since November of 2025, and final demand services prices rebounded by 0.2% from the 0.1% drop in May. From the previous year, core producer prices rose by 4.7%."
+    },
+    {
+      "id": "mkt:019f65c5-9185-7aab-8da2-4a52a53ce0a7",
+      "time": "2026-07-15 20:34:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Trump's one-dollar \"gold coin\" will go into production."
+    },
+    {
+      "id": "4990003",
+      "time": "2026-07-15 20:34:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：近40家金融企業包括先鋒集團、紐約證券交易所將參與華爾街公司在DTCC託管的證券代幣化試點專案。"
+    },
+    {
+      "id": "4990002",
+      "time": "2026-07-15 20:33:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元指數短線小幅走低，現報100.94。美股期貨短線小幅拉昇，納斯達克100指數期貨漲0.5%。美國10年期國債收益率短線走低，現報4.606%。"
+    },
+    {
+      "id": "4990001",
+      "time": "2026-07-15 20:32:31",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "美國 PPI 資料出爐後現貨黃金收窄跌幅，最新下跌 0.1%，報 4048 美元 / 盎司。"
+    },
+    {
+      "id": "4990000",
+      "time": "2026-07-15 20:31:59",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月PPI環比下降0.3%；預計與上年持平。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607153807684675",
+      "time": "2026-07-15 20:31:55",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月不包括食品和能源的核心PPI升0.2%，預期升0.3%。"
+    },
     {
       "id": "mkt:019f65c2-ffdb-7aab-8da2-41ac8912e756",
       "time": "2026-07-15 20:31:45",
@@ -92,6 +202,15 @@
       "text": "紐約聯邦儲備銀行全額接受了7月15日常備回購操作中提交的1億美元申請。"
     },
     {
+      "id": "em:jjsj_mgsj:202607153807683450",
+      "time": "2026-07-15 20:31:15",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國5月PPI最終需求指數由升1.1%修正至升0.6%】美國5月PPI最終需求指數由升1.1%修正至升0.6%。美國6月PPI最終需求指數降0.3%，預期持平。"
+    },
+    {
       "id": "mkt:019f65c2-6e0d-7aab-8da2-0f08aceb0275",
       "time": "2026-07-15 20:31:08",
       "tags": [
@@ -141,6 +260,15 @@
         "Important"
       ],
       "text": "Canada | Manufacturing Inventories (MoM) (May) | actual 0.5% | previous 0.5%"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607153807680759",
+      "time": "2026-07-15 20:30:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月PPI同比增長5.5% 低於市場預期】美國6月PPI同比增長5.5%，預估為6.2%；環比下降0.3%，預估持平。"
     },
     {
       "id": "mkt:019f65c2-023d-7aab-8da1-e7b240a6d55c",
@@ -205,6 +333,15 @@
         "S&P500"
       ],
       "text": "US New York Fed manufacturing new-orders index rose to 22.2 in July from 3.5 in June."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607153807682294",
+      "time": "2026-07-15 20:30:19",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國7月紐約聯儲製造業指數15.6 預期8.8】美國7月紐約聯儲製造業指數15.6，預期8.8，前值5.7。"
     },
     {
       "id": "mkt:019f65c1-a604-7aab-8da1-bc60058f223c",
@@ -171362,87 +171499,6 @@
         "Impact bearish"
       ],
       "text": "Germany's foreign minister said rising energy prices are a burden for the whole world."
-    },
-    {
-      "id": "4976859",
-      "time": "2026-07-08 20:36:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國外長：我認為全球石油庫存並未處於危險階段。必須提供適合的環境以清除霍爾木茲海峽的地雷，我們需要與伊朗和阿曼達成協議。"
-    },
-    {
-      "id": "mkt:019f41b9-f16b-7aab-8cee-5f3452c6c4a3",
-      "time": "2026-07-08 20:35:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "German foreign minister said appropriate conditions must be provided to clear mines in the Strait of Hormuz and that we need to reach agreements with Iran and Oman."
-    },
-    {
-      "id": "4976858",
-      "time": "2026-07-08 20:35:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟峰會宣告：盟國承諾2026年向烏克蘭提供700億歐元支援，盟國確認主權承諾，將在2027年維持至少同等水平。"
-    },
-    {
-      "id": "mkt:019f41b9-ae29-7aab-8cee-5163f69cee61",
-      "time": "2026-07-08 20:35:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO summit statement: NATO allies committed to provide €70 billion in support to Ukraine in 2026."
-    },
-    {
-      "id": "mkt:019f41b9-7ada-7aab-8cee-4b0b60183d80",
-      "time": "2026-07-08 20:35:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO summit statement: Allies in Ankara announced additional procurement plans totaling more than $50 billion."
-    },
-    {
-      "id": "4976857",
-      "time": "2026-07-08 20:34:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：TELESAT LIGHTSPEED與加拿大軍方簽署通訊訂單協議。"
-    },
-    {
-      "id": "4976856",
-      "time": "2026-07-08 20:34:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：紐約聯儲隔夜回購操作未收到任何投標。"
-    },
-    {
-      "id": "mkt:019f41b7-dbb0-7aab-8cee-40d28454d2d2",
-      "time": "2026-07-08 20:33:16",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Germany's foreign minister said global oil inventories are not at a dangerous level."
-    },
-    {
-      "id": "4976854",
-      "time": "2026-07-08 20:33:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟重申支援丹麥維護國家主權與領土完整】歐盟委員會發言人奧洛夫·吉爾8日表示，格陵蘭島是丹麥王國的自治領地，格陵蘭島的未來應由格陵蘭人和丹麥人共同決定。 針對美國總統特朗普在土耳其首都安卡拉舉行的北約峰會期間再次聲稱格陵蘭島“應該由美國控制”的言論，吉爾在當天舉行的例行記者會上說，國家主權和領土完整不可侵犯是國際法基本原則，不僅對歐盟至關重要，對世界各國同樣重要。 他說：“歐盟將繼續捍衛上述原則，並堅定地與丹麥人和格陵蘭人站在一起。” 特朗普2025年重返白宮以來，多次揚言要得到格陵蘭島，甚至聲稱不排除動用武力，致使美國與丹麥及更多歐洲盟友關係緊張。(新華社)"
     }
   ]
 }
