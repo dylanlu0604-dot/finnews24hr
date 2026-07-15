@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-15 22:18:14",
-  "count": 18676,
+  "updated": "2026-07-15 22:22:25",
+  "count": 18681,
   "items": [
+    {
+      "id": "te:markets:567253",
+      "time": "2026-07-15 22:21:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Caterpillar Stock Price Hits 4-week Low — Caterpillar shares decreased to 909.19 USD, the lowest since June 2026. Over the past 4 weeks, Caterpillar lost 3.63%, and in the last 12 months, it increased 120.67%."
+    },
+    {
+      "id": "mkt:019f6627-3b43-7aab-8da6-8c686f3ed7e9",
+      "time": "2026-07-15 22:21:14",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Axios reported US officials said trilateral talks between the US, Israel and Lebanon have concluded with positive results."
+    },
+    {
+      "id": "te:markets:567252",
+      "time": "2026-07-15 22:20:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher After BoC Policy Decision — The S&P/TSX Composite Index edged up to trade above 35,000 on Wednesday as investors assessed the Bank of Canada's interest rate decision. The BoC kept its key policy rate unchanged at 2.25%, as expected, noting that the economy is showing signs of improvement. The central bank said growth is picking up and inflation is projected to ease gradually from its recent spike. However, it also highlighted significant risks and uncertainties stemming from the conflict in the Middle East and US trade policy. Financials traded higher, with RBC and TD Bank edging up, while Brookfield gained more than 1.5%. Mining stocks also advanced as gold prices firmed, with Barrick and WPM adding about 0.5%. Elsewhere, Cogeco Communications (+0.4%) is set to release its third-quarter results after the market close. On the data front, Canada's manufacturing sales reached a record high in May, rising 1.3% month-over-month to C$78.1 billion."
+    },
+    {
+      "id": "mkt:019f6626-41e0-7aab-8da6-8257741c89a5",
+      "time": "2026-07-15 22:20:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. EIA weekly crude inventories, including Cushing stocks and SPR figures, due in 10 minutes; Bank of Canada Governor Macklem to hold a press conference in 10 minutes."
+    },
+    {
+      "id": "4990271",
+      "time": "2026-07-15 22:20:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟向銷售團隊傳授“擊敗”Anthropic和OpenAI的戰術】在本週舉行的一場內部會議上，微軟高管概述了公司自本月開始的2027財年的銷售戰略。他們表示，這家軟體巨頭能提供更低成本、更完善的安全控制以及更全面的產品套件。一份會議記錄顯示，執行副總裁傑伊·帕裡克（Jay Parikh）週二表示：“其他所有人都在賣零部件——而我們銷售的是完整的端到端系統。這就是我們在2027財年都需要對外講述的故事。”在本週二開始並持續至週三的演示環節中，微軟高管的多次發言都提及了公司的競爭定位。"
+    },
+    {
+      "id": "mkt:019f6625-c5e7-7aab-8da6-7cc5d892e0b7",
+      "time": "2026-07-15 22:19:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analyst: BOC more likely to pause than hike】BOC held its policy rate at 2.25% as expected, saying the economy is improving, growth is recovering and inflation should ease from its recent surge; it will continue to assess economic strength and the inflation outlook and is prepared to adjust policy as needed. Analyst Adam Button said the statement's \"uncertainty remains high\" line suggests the bank is currently more inclined to hold rates than to tighten. Market pricing implies roughly 16 bps of cumulative hikes by year-end, leaving the probability of further BOC tightening above 50%."
+    },
+    {
+      "id": "4990270",
+      "time": "2026-07-15 22:19:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "閃迪股價跌幅擴大至9.29%，報1594.435美元/股，總市值報2361億美元。"
+    },
+    {
+      "id": "4990269",
+      "time": "2026-07-15 22:19:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川寶興：一旅遊車墜入河灘 多部門趕往現場救援】7月15日19時許，在四川省寶興縣境內，一成都牌照的中型旅遊車衝出路基，墜向下方河灘。事發之後，當地公安、消防、應急和急救等部門趕往現場救援。據現場救援人員反饋，車輛受損明顯，有人員被救出時情況危急。（央視新聞）"
+    },
+    {
+      "id": "te:markets:567251",
+      "time": "2026-07-15 22:18:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Microsoft Stock Price Hits 4-week High — Microsoft shares increased to 395.58 USD, the highest since June 2026. Over the past 4 weeks, Microsoft lost 1.28%, and in the last 12 months, it decreased 21.98%."
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807790185",
+      "time": "2026-07-15 22:18:08",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席凱文·沃什向參議院委員會重申了證詞。"
+    },
+    {
+      "id": "mkt:019f6624-3d7d-7aab-8da6-771b106155f8",
+      "time": "2026-07-15 22:17:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Capital Economics: yen set to recover by end-2027】John Higgins at Capital Economics said fundamentals still favor the yen and it should strengthen before end-2027. He described current yen weakness as puzzling: the US-Japan 5-year bond yield differential has moved in yen’s favor and the inflation-adjusted real policy-rate gap that was materially positive has now disappeared. He noted an Iran-driven oil-price rise could worsen Japan’s terms of trade again, but net trade terms have improved in recent years. Capital Economics forecasts USD/JPY at 150.00 by end-2027."
+    },
+    {
+      "id": "4990268",
+      "time": "2026-07-15 22:17:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美國、以色列、黎巴嫩三方在羅馬開展為期兩天富有成效、進展積極的磋商後，相關會談已落幕。各方就試點區域推進機制的框架與指導原則達成共識，相關細則將在未來幾日敲定並落地執行。下一步各方將開展範圍更廣的技術性磋商，核心圍繞框架協議全部條款的落地事宜展開，目標是促成以色列與黎巴嫩達成全面協議。"
+    },
     {
       "id": "4990267",
       "time": "2026-07-15 22:17:00",
@@ -171612,64 +171738,6 @@
         "國際"
       ],
       "text": "特朗普談敘利亞：解除對該國的制裁。"
-    },
-    {
-      "id": "4977099",
-      "time": "2026-07-08 22:22:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超3%，嘉楠科技漲14.53%，金山雲漲11.65%，阿里巴巴漲11.01%，世紀互聯漲6.68%，網易有道漲6.36%。"
-    },
-    {
-      "id": "4977098",
-      "time": "2026-07-08 22:21:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統發言人表示，澤連斯基與特朗普的會晤已結束。"
-    },
-    {
-      "id": "4977097",
-      "time": "2026-07-08 22:20:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "南非國家電力公司（Eskom）：隨著五個省份不再實施限電，已有超過100萬使用者退出限電安排。"
-    },
-    {
-      "id": "4977096",
-      "time": "2026-07-08 22:20:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理：與美國就供應戰斧導彈的談判正在進行中。"
-    },
-    {
-      "id": "4977095",
-      "time": "2026-07-08 22:19:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：美方暫無跡象顯示格陵蘭相關談判會出現變動。"
-    },
-    {
-      "id": "4977094",
-      "time": "2026-07-08 22:19:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博傑股份：已實現小批次發貨人形機器人IMU測試裝置】博傑股份(002975)在互動平臺表示，公司對接人形機器人相關測試需求，已實現小批次發貨人形機器人IMU測試裝置，2025年度人形機器人測試板塊實現的營業收入佔公司總營收低於1%。公司人形機器人業務當前尚處於業務拓展階段，業務開展尚存在不確定性風險，提請投資者理性投資。"
-    },
-    {
-      "id": "4977093",
-      "time": "2026-07-08 22:18:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【辛巴威對華出口首批“零關稅”藍莓】辛巴威園藝發展委員會8日宣佈，該國已正式向中國出口首批“零關稅”藍莓。這是該國種植戶成功開啟全球最大消費市場之一的關鍵一步。 辛巴威園藝發展委員會表示：“整個行業將持續推動支援擴大生產的政策落地。同時，我們也將持續最佳化物流線路，以確保能夠向中國消費者長期、穩定地供應辛巴威高階藍莓產品。” 中津兩國去年9月正式簽署藍莓輸華植物檢疫協議。隨著准入機制不斷完善，雙邊關稅利好正進一步顯現。今年5月1日起，中國對53個非洲建交國全面實施零關稅。在這一框架下，辛巴威藍莓得以免關稅進入中國市場。 辛巴威貿促會執行長艾倫·馬朱魯在接受新華社記者採訪時表示，首批“零關稅”藍莓對華出口對津園藝產業發展及國家出口具有重要意義。這不僅證明辛巴威農產品能夠滿足高標準市場的要求，也標誌著該國拓展新興出口目的地的努力正轉化為實際成果。過去，辛巴威對華出口長期以礦產和菸草為主，藍莓的成功准入將有力推動該國對華出口結構向更加多元、高附加值的方向最佳化，進而吸引更多行業投資並帶動全產業鏈就業。 近年來，農業已成為中津經貿合作一大亮點。雙方分別於2022年和2024年簽署了關於辛巴威甜柑橘和牛油果輸華的植物檢疫協議。(新華社)"
     }
   ]
 }
