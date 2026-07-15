@@ -1,7 +1,94 @@
 {
   "date": "2026-07-16",
-  "count": 7,
+  "count": 15,
   "items": [
+    {
+      "id": "mkt:019f6689-613a-7aab-8dab-f13dbd3eba08",
+      "time": "2026-07-16 00:08:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "European Commission approved X (formerly Twitter)’s remediation plan to comply with information-transparency obligations under the Digital Services Act and to grant researchers access to platform data."
+    },
+    {
+      "id": "te:markets:567288",
+      "time": "2026-07-16 00:07:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index fell 16 points or 0.16 percent on Wednesday to close at 10513 points. Leading the losses are Fresnillo (-4.43%), Vodafone (-3.60%) and Anglo American (-3.35%). Top gainers were ICG (4.80%), Barratt Redrow (4.05%) and St. Jamess (3.94%)."
+    },
+    {
+      "id": "4990496",
+      "time": "2026-07-16 00:06:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：已批准 X 平臺依據《數字服務法》提交的整改方案，該方案旨在履行資訊透明義務並保障研究人員的資料訪問許可權。"
+    },
+    {
+      "id": "mkt:019f6687-de6e-7aab-8dab-ec79f7cbfa4d",
+      "time": "2026-07-16 00:06:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) traded below its $135 IPO price for the first time."
+    },
+    {
+      "id": "4990495",
+      "time": "2026-07-16 00:06:15",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX 股價首次跌破 135 美元發行價。"
+    },
+    {
+      "id": "te:markets:567287",
+      "time": "2026-07-16 00:05:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Micron Technology Stock Price Hits 5-week Low — Micron Technology shares decreased to 891.63 USD, the lowest since June 2026. Over the past 4 weeks, Micron Technology lost 12.46%, and in the last 12 months, it increased 667.47%."
+    },
+    {
+      "id": "mkt:019f6686-00bc-7aab-8dab-e3907090a9ad",
+      "time": "2026-07-16 00:04:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "Fed chair Kevin Warsh said he is willing to reform bank stress tests."
+    },
+    {
+      "id": "mkt:019f6685-c939-7aab-8dab-d93e5ef2812d",
+      "time": "2026-07-16 00:04:31",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "S&P500",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Fitch: In 2026, sovereign rating upgrades in emerging markets will outnumber downgrades."
+    },
     {
       "id": "4990494",
       "time": "2026-07-16 00:03:45",
