@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-16 00:41:29",
-  "count": 18711,
+  "updated": "2026-07-16 00:45:30",
+  "count": 18699,
   "items": [
+    {
+      "id": "mkt:019f66a8-a5a7-7aab-8dac-6395c0b85517",
+      "time": "2026-07-16 00:42:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DLR.O",
+        "Impact bullish",
+        "EQIX.O",
+        "COR.O"
+      ],
+      "text": "President Trump said New York made a bad decision and should immediately reverse its data-center policy. New York's governor earlier halted all data-center projects that are under construction or planned."
+    },
+    {
+      "id": "4990514",
+      "time": "2026-07-16 00:42:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報13826.00元。"
+    },
+    {
+      "id": "4990513",
+      "time": "2026-07-16 00:41:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約州應當立刻調整其資料中心相關政策。"
+    },
+    {
+      "id": "4990512",
+      "time": "2026-07-16 00:41:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約州做出了一項糟糕至極的決定。"
+    },
+    {
+      "id": "mkt:019f66a7-30ea-7aab-8dac-5da98993b971",
+      "time": "2026-07-16 00:41:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said New York Governor Kathy Hochul has, for political reasons, halted all data center projects in the state that are either under construction or planned."
+    },
     {
       "id": "4990511",
       "time": "2026-07-16 00:40:45",
@@ -172012,165 +172058,6 @@
         "其他"
       ],
       "text": "OpenAI：全新一代ChatGPT語音功能正式上線。"
-    },
-    {
-      "id": "mkt:019f429e-c6bb-7aab-8cf9-a62634f355c8",
-      "time": "2026-07-09 00:45:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "President Trump, on selling F-35 jets to Turkey, said he tends to think Erdogan has helped the United States in many ways."
-    },
-    {
-      "id": "mkt:019f429e-c05c-7aab-8cf9-986271c107f0",
-      "time": "2026-07-09 00:45:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said he has not yet decided on supplying F-35 fighter jets to Turkey."
-    },
-    {
-      "id": "4977374",
-      "time": "2026-07-09 00:45:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：尚未決定是否向土耳其提供F-35戰鬥機。"
-    },
-    {
-      "id": "4977373",
-      "time": "2026-07-09 00:44:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及向土耳其出售F-35戰機的可能性：我傾向於認為埃爾多安在諸多方面都幫助過我們。"
-    },
-    {
-      "id": "4977372",
-      "time": "2026-07-09 00:44:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 任何行動一旦展開，都會速戰速決。 我們不打算打持久戰。"
-    },
-    {
-      "id": "mkt:019f429d-dab2-7aab-8cf9-955f894afc42",
-      "time": "2026-07-09 00:44:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "US10Y"
-      ],
-      "text": "U.S. President Trump said any military action, if taken, would be carried out swiftly."
-    },
-    {
-      "id": "mkt:019f429d-d148-7aab-8cf9-8e06f115fada",
-      "time": "2026-07-09 00:44:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "President Trump said if Iran attacks, the United States will strike back."
-    },
-    {
-      "id": "mkt:019f429d-c0d9-7aab-8cf9-818ac4afe690",
-      "time": "2026-07-09 00:44:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Spain has performed very poorly."
-    },
-    {
-      "id": "4977371",
-      "time": "2026-07-09 00:44:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：資本主義才是最優制度，當然它也存在缺陷，任何事物難免都有一點不足，但資本主義帶來的發展成果有目共睹。"
-    },
-    {
-      "id": "4977370",
-      "time": "2026-07-09 00:43:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗動手，我們就動手。"
-    },
-    {
-      "id": "4977369",
-      "time": "2026-07-09 00:43:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不認為伊朗會再次爆發全面戰爭，（若真開戰）我認為戰事會很快結束。"
-    },
-    {
-      "id": "mkt:019f429c-b1b0-7aab-8cf9-784a6a57d9f9",
-      "time": "2026-07-09 00:43:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump says the U.S. is not seeking a long-term war."
-    },
-    {
-      "id": "te:economy:565381",
-      "time": "2026-07-09 00:42:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Seychelles",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Seychelles Inflation Rate Accelerates — The annual inflation rate in Seychelles increased to 0.43% in June 2026, marking the highest level since September 2025, up from 0.29% in May. Fish prices rose 5.62%, reversing a 0.85% decline in the prior month while other food cost rose 0.09% following a 0.39% decline. Non-food prices rose 0.4%, unchanged from the previous month, with the largest increases recorded in alcoholic beverages (4.13%), restaurants and hotels (at 2.58%), transports (2.57%) and clothing and footwear (0.52%). In contrast, the largest decreases were recorded for recreation and culture (-3.31%), health (-2.5%), housing and utilities (-1.12%) and communication (-1.09%). Meanwhile, core inflation, which excludes fresh fish and energy items, rose to 0.52% from 0.48%. On a monthly basis, consumer prices increased 0.07% in June, easing from a 0.15% increase in May."
-    },
-    {
-      "id": "4977368",
-      "time": "2026-07-09 00:42:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "當被問及是否會保衛西班牙或英國時，特朗普表示北約是團結的。"
-    },
-    {
-      "id": "mkt:019f429b-e473-7aab-8cf9-74f0d26eb315",
-      "time": "2026-07-09 00:42:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said he will boost security for oil shipping."
-    },
-    {
-      "id": "4977367",
-      "time": "2026-07-09 00:41:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：西班牙一直很糟糕。"
-    },
-    {
-      "id": "mkt:019f429b-2328-7aab-8cf9-6e251b2bdb8b",
-      "time": "2026-07-09 00:41:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said any ongoing developments will be over soon."
     }
   ]
 }

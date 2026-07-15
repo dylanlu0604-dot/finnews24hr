@@ -1,7 +1,53 @@
 {
   "date": "2026-07-16",
-  "count": 49,
+  "count": 54,
   "items": [
+    {
+      "id": "mkt:019f66a8-a5a7-7aab-8dac-6395c0b85517",
+      "time": "2026-07-16 00:42:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DLR.O",
+        "Impact bullish",
+        "EQIX.O",
+        "COR.O"
+      ],
+      "text": "President Trump said New York made a bad decision and should immediately reverse its data-center policy. New York's governor earlier halted all data-center projects that are under construction or planned."
+    },
+    {
+      "id": "4990514",
+      "time": "2026-07-16 00:42:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報13826.00元。"
+    },
+    {
+      "id": "4990513",
+      "time": "2026-07-16 00:41:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約州應當立刻調整其資料中心相關政策。"
+    },
+    {
+      "id": "4990512",
+      "time": "2026-07-16 00:41:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：紐約州做出了一項糟糕至極的決定。"
+    },
+    {
+      "id": "mkt:019f66a7-30ea-7aab-8dac-5da98993b971",
+      "time": "2026-07-16 00:41:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said New York Governor Kathy Hochul has, for political reasons, halted all data center projects in the state that are either under construction or planned."
+    },
     {
       "id": "4990511",
       "time": "2026-07-16 00:40:45",
