@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-16 06:12:40",
-  "count": 18627,
+  "updated": "2026-07-16 06:16:37",
+  "count": 18625,
   "items": [
+    {
+      "id": "te:markets:567318",
+      "time": "2026-07-16 06:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: British Pound Rises by 1.11% — Top currency gainers are British Pound (1.11%), Swedish Krona (0.80%), New Zealand Dollar (0.70%), Euro (0.40%) and Japanese Yen (0.07%). Biggest losers are Dollar Index (-0.42%) and Indian Rupee (-0.26%)."
+    },
+    {
+      "id": "4990811",
+      "time": "2026-07-16 06:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "一枚美軍導彈第二次襲擊了伊朗錫裡克周邊區域。"
+    },
     {
       "id": "mkt:019f67d6-3a49-7aab-8db1-18ed1364ee79",
       "time": "2026-07-16 06:12:00",
@@ -171279,44 +171298,6 @@
         "國際"
       ],
       "text": "SK海力士美國IPO獲得逾七倍超額認購。"
-    },
-    {
-      "id": "te:markets:565411",
-      "time": "2026-07-09 06:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: South Korean Won Appreciates by 0.48% — Top currency gainers are South Korean Won (0.48%), Brazilian Real (0.42%), New Zealand Dollar (0.41%) and British Pound (0.23%). Biggest losers are Indian Rupee (-0.39%), Mexican Peso (-0.35%) and Japanese Yen (-0.31%). Meanwhile, Euro and Dollar Index were little changed."
-    },
-    {
-      "id": "mkt:019f43cc-797c-7aab-8cff-824c65da98bc",
-      "time": "2026-07-09 06:15:01",
-      "tags": [
-        "MKT News",
-        "PARA.N",
-        "Impact bearish",
-        "WBD.N"
-      ],
-      "text": "Sources say U.S. states could file suit as early as next week to block Paramount's deal with Warner Bros."
-    },
-    {
-      "id": "mkt:019f43cb-69d0-7aab-8cff-7b7b5efff77f",
-      "time": "2026-07-09 06:13:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Press TV, citing local sources, reported explosions at the terminal and runway of Shah Airport in Iran."
-    },
-    {
-      "id": "4977654",
-      "time": "2026-07-09 06:13:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，美國多州最快下週或將提起訴訟，阻止派拉蒙與華納兄弟的交易。"
     }
   ]
 }

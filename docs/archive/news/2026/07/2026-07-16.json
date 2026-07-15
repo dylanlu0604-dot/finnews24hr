@@ -1,7 +1,26 @@
 {
   "date": "2026-07-16",
-  "count": 463,
+  "count": 465,
   "items": [
+    {
+      "id": "te:markets:567318",
+      "time": "2026-07-16 06:15:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: British Pound Rises by 1.11% — Top currency gainers are British Pound (1.11%), Swedish Krona (0.80%), New Zealand Dollar (0.70%), Euro (0.40%) and Japanese Yen (0.07%). Biggest losers are Dollar Index (-0.42%) and Indian Rupee (-0.26%)."
+    },
+    {
+      "id": "4990811",
+      "time": "2026-07-16 06:15:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "一枚美軍導彈第二次襲擊了伊朗錫裡克周邊區域。"
+    },
     {
       "id": "mkt:019f67d6-3a49-7aab-8db1-18ed1364ee79",
       "time": "2026-07-16 06:12:00",
