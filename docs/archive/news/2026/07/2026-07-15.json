@@ -1,7 +1,62 @@
 {
   "date": "2026-07-15",
-  "count": 1717,
+  "count": 1723,
   "items": [
+    {
+      "id": "4989256",
+      "time": "2026-07-15 14:42:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普揚言擴大對伊朗打擊，歐洲天然氣價格進一步走高】受特朗普總統威脅將對伊朗發動更多打擊影響，歐洲天然氣價格連續第三日上漲。中東對抗持續升級，市場對該地區能源輸送短期內恢復正常的預期大幅降溫。海上 LNG 運力供給有限，歐洲與亞洲爭奪貨源，能源流通持續受限，拖累歐洲為明年冬季補充儲氣庫存的進度。"
+    },
+    {
+      "id": "4989254",
+      "time": "2026-07-15 14:41:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：三星秘密研究赴美上市可行性 公司此前否認相關計劃】據報道，訊息人士透露，三星電子已開始內部研究在美國發行ADR的各種方案，並著手評估相關操作流程。彭博社7月14日報道稱，三星電子已與多家投資銀行就透過ADR赴美上市進行了初步討論，三星電子回應稱沒有考慮透過發行ADR在美國市場上市。不過市場人士認為，三星電子此次否認並不意味著未來發行ADR的可能性已被完全排除。儘管公司否認了這一計劃，但在管理層指示下，相關業務部門已開始評估發行ADR的潛在成本、收益及所需程式。半導體行業訊息人士7月15日透露，公司管理層近日要求相關部門研究，是否能夠設計出適合公司發行ADR的可行架構。作為研究的一部分，三星電子相關人員已向近期完成ADR發行並在納斯達克上市的SK海力士瞭解情況。"
+    },
+    {
+      "id": "mkt:019f6482-670e-7aab-8d96-4483594b35d8",
+      "time": "2026-07-15 14:41:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Korean media: Samsung studying US ADR listing feasibility; company denied plans】Bloter reports sources say Samsung Electronics has begun internal research on various US ADR issuance options and is assessing related operational processes. Bloomberg reported on July 14 that Samsung held preliminary talks with several investment banks about a US ADR listing; Samsung replied it is not considering listing in the US via ADRs. Market participants note the denial does not rule out future ADR issuance. Company business units, at management direction, have started evaluating potential costs, benefits and required procedures. Semiconductor-industry sources on July 15 said management recently asked teams to study whether a viable ADR structure can be designed. As part of the review, Samsung personnel consulted SK Hynix, which recently completed an ADR issuance and Nasdaq listing."
+    },
+    {
+      "id": "4989253",
+      "time": "2026-07-15 14:41:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲企業加碼佈局中國 上半年#歐洲企業高管扎堆訪華】從建立研發中心到擴大產能，今年上半年，眾多歐洲企業高管頻繁訪華，持續加碼佈局中國市場。中國歐盟商會的最新調查顯示，近四分之一的會員企業在中國創造的營收，佔它們全球總收入的25%以上。中國歐盟商會最新發布的《2026年商業信心調查》指出，中國擁有高效且成本極具競爭力的供應鏈體系。高達75%的受訪企業認為，其在中國的生產效率高於世界其他地區。得益於中國在交付速度、可靠性和質量方面的優勢，94%的歐洲在華受訪企業認為中國市場對其採購業務具有重要意義。 （央視財經）"
+    },
+    {
+      "id": "4989252",
+      "time": "2026-07-15 14:40:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗處決一名在2026年初抗議活動中縱火襲擊地方政府辦公室的罪犯。"
+    },
+    {
+      "id": "te:markets:567095",
+      "time": "2026-07-15 14:40:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX 200 Closes 0.4% Higher — The ASX 200 advanced 33 points, or 0.4%, to end at 8,841 on Wednesday, its strongest finish in a week after two muted sessions. Sentiment improved as softer-than-expected U.S. inflation data eased pressure for imminent rate hikes. Meanwhile, China’s weakest annual GDP growth since 2022 in Q2 raised expectations of fresh stimulus in Australia's main trading partner, as officials cautioned that external risks remain high and demand lags supply. However, gains were capped by vigilance ahead of domestic labor market data next week. Electronic tech, commercial services, and producer manufacturing drove the gains, offset by declines in logistics, healthcare, and consumer non-durables. Heavyweights stood out: BHP rallied 3.4% ahead of Thursday’s production update, Rio Tinto rose 1.2% after topping iron ore sales forecasts, and Macquarie climbed 1.6% to a record high. In contrast, energy stocks retreated, with Woodside Energy down 1%, Santos off 0.7%, and Whitehaven Coal slipping 0.3%."
+    },
     {
       "id": "mkt:019f6480-7919-7aab-8d96-3c120d912412",
       "time": "2026-07-15 14:39:28",
