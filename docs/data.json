@@ -1,7 +1,158 @@
 {
-  "updated": "2026-07-15 22:34:47",
+  "updated": "2026-07-15 22:38:57",
   "count": 18734,
   "items": [
+    {
+      "id": "4990321",
+      "time": "2026-07-15 22:37:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌幅擴大至盤中低點0.5%。"
+    },
+    {
+      "id": "4990320",
+      "time": "2026-07-15 22:37:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【未來5年現代農業氣象防災減災業務能力建設方案出臺】記者15日從中國氣象局瞭解到，中國氣象局近日出臺了《現代農業氣象防災減災業務能力建設方案（2026—2030年）》，加快構建新型氣象為農服務體系，著力提升數智化、場景化農業氣象防災減災業務能力。（新華社）"
+    },
+    {
+      "id": "4990319",
+      "time": "2026-07-15 22:37:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織戰略主管：我們認為全球主權債務圓桌會議“運作極為順暢”。"
+    },
+    {
+      "id": "4990318",
+      "time": "2026-07-15 22:36:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息人士：蘋果據悉正尋求收購人工智慧晶片業務】據熟悉蘋果工作的人士表示，蘋果正在尋找收購晶片公司以加強其構建用於執行人工智慧的伺服器晶片的努力。近幾個月來，這家iPhone製造商與銀行家們就可能的交易進行了交流。訊息人士稱，它還接觸了半導體初創企業，瞭解他們是否有意出售自己。蘋果尋求晶片收購的行動正值公司內部AI伺服器的效能問題。"
+    },
+    {
+      "id": "mkt:019f6635-9b95-7aab-8da8-20506b9b0472",
+      "time": "2026-07-15 22:36:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Sources: Apple exploring acquisition of AI chip business】People familiar with the matter said Apple is exploring acquisitions of chip companies to bolster development of server chips for running AI workloads. Over recent months it has held talks with bankers about potential deals and contacted semiconductor startups to gauge willingness to sell. The outreach follows reported performance issues with Apple’s internal AI servers."
+    },
+    {
+      "id": "4990317",
+      "time": "2026-07-15 22:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，埃利達（Elida）在東太平洋開闊海域移動過程中強度略有增強。"
+    },
+    {
+      "id": "4990316",
+      "time": "2026-07-15 22:36:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守84美元/桶，日內跌0.88%。"
+    },
+    {
+      "id": "4990315",
+      "time": "2026-07-15 22:36:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體米蘭上市股票在停牌後恢復交易，股價下跌3.8%。"
+    },
+    {
+      "id": "mkt:019f6634-f78d-7aab-8da8-1b0c983e0ae6",
+      "time": "2026-07-15 22:36:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair KEVIN WARSH said he has exceeded ethics-agreement requirements, selling or about to fully sell assets held before he assumed the Fed chair role, and has converted his investments into cash equivalents and short-term Treasuries."
+    },
+    {
+      "id": "4990314",
+      "time": "2026-07-15 22:36:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我嚴格遵守並超額履行道德協議，已出售或基本清倉就任美聯儲主席前持有的全部資產。"
+    },
+    {
+      "id": "4990313",
+      "time": "2026-07-15 22:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織戰略主管：IMF正努力深化分析低收入國家面臨的國內債務相關風險，其中包括對長期趨勢開展研究。"
+    },
+    {
+      "id": "4990312",
+      "time": "2026-07-15 22:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，美國墨西哥灣沿岸汽油庫存上週下降，降至2017年9月以來最低水平。"
+    },
+    {
+      "id": "4990311",
+      "time": "2026-07-15 22:35:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：已將名下投資全部轉換為現金等價物與短期國庫券。"
+    },
+    {
+      "id": "mkt:019f6634-0010-7aab-8da8-1112b52d37c4",
+      "time": "2026-07-15 22:35:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. may seek to apply comprehensive economic pressure on Iran】Mehran Kamrava, professor of government at Georgetown University in Qatar, said Tehran deliberately publicized the deaths of seven soldiers in a U.S. strike to rally nationalist sentiment and shore up wartime support. He said Iran is experiencing a nationalist resurgence while facing high inflation, high unemployment and roughly $270 billion in economic losses. Kamrava added Iran recognizes it cannot match the U.S. militarily and is shifting the conflict toward economic targets, with recent attacks on shipping reflecting that strategy. He warned the U.S. may respond in kind, attempting to exhaust Iran economically as domestic hardship—food, basic security and housing—deepens."
+    },
+    {
+      "id": "mkt:019f6633-aa2c-7aab-8da8-0c3be40fdb35",
+      "time": "2026-07-15 22:34:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "According to The Information, shipments of future versions of Apple (AAPL.O)'s Baltra AI server chip, originally scheduled for this year, have been delayed."
+    },
+    {
+      "id": "4990310",
+      "time": "2026-07-15 22:34:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將非常關注監察長對美聯儲副主席鮑曼在FOMC會議後於某銀行參加晚宴的調查結果。在沒有事實依據的情況下預先判斷會議內容是不恰當的。"
+    },
     {
       "id": "mkt:019f6633-2ad5-7aab-8da8-039a4356163d",
       "time": "2026-07-15 22:34:17",
@@ -618,6 +769,15 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：當前通脹指標均無法完美衡量潛在通脹水平。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807801268",
+      "time": "2026-07-15 22:27:42",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什稱他的看法是這些通脹資料並非完美的衡量指標。"
     },
     {
       "id": "mkt:019f662d-233e-7aab-8da6-c9967a758a98",
@@ -172121,190 +172281,6 @@
         "Brent"
       ],
       "text": "【Middle East risk spills into grain markets as supply-chain concerns rise】Escalation in the Middle East has pushed oil sharply higher and risk premia are now spilling into agricultural markets. US corn, soy and wheat futures rose intraday as traders repriced higher energy-driven input costs. Oil gains increase fertilizer production and global logistics costs, so sustained oil strength could lift fertilizer, transport and farm production costs and prompt markets to price cost-push inflation. Heightened geopolitical risk around the Black Sea and Middle East — both key grain and energy shipping corridors — raises the probability of supply disruptions; international traders are widening risk premia and reallocating some capital into physical commodities. Market positioning is shifting from a growth-slowdown trade to reassessing a re-flationary mix of energy, food and geo risks."
-    },
-    {
-      "id": "mkt:019f422a-8574-7aab-8cf5-a45017572aeb",
-      "time": "2026-07-08 22:38:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Iran warns it will close Strait of Hormuz if attacked again】Press TV, citing unnamed sources, said Iran would retaliate against adversary targets at at least a two-to-one ratio and would close the Strait of Hormuz if it suffers any new attack. The report said Iran will reopen the strait on its own timetable under an Islamabad memorandum of understanding and will not yield on management of the waterway."
-    },
-    {
-      "id": "4977137",
-      "time": "2026-07-08 22:37:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數創盤中新低，下跌0.7%。"
-    },
-    {
-      "id": "mkt:019f4229-f91f-7aab-8cf5-9ecb531e6887",
-      "time": "2026-07-08 22:37:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD"
-      ],
-      "text": "Shanghai gold front-month contract fell more than 2.00% intraday to 887.42 yuan/gram."
-    },
-    {
-      "id": "4977136",
-      "time": "2026-07-08 22:37:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新聞分析｜特朗普揚言再打伊朗，到底幾分虛實】特朗普發表此番言論，正值美伊再度爆發軍事衝突之際。分析人士認為，美伊軍事交鋒的背後依然是雙方圍繞霍爾木茲海峽通航問題的博弈。雙方都試圖透過有限衝突建立威懾，也想借此對內對外示強。但同時，美伊也會極力避免衝突顯著升級，雙方短期內仍將處於打談迴圈態勢。特朗普這一表態還有國內政治考量。自特朗普政府與伊朗簽署諒解備忘錄以來，美國國內尤其是部分共和黨人批評他對伊妥協讓步。隨著中期選舉臨近，特朗普也有意在對伊政策上展現一定強硬姿態，以穩固國內選民基本盤。（新華社）"
-    },
-    {
-      "id": "mkt:019f4229-b52a-7aab-8cf5-9080e7e91292",
-      "time": "2026-07-08 22:37:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude's intraday gain widened to 5%, trading at $79.60/bbl; WTI rose 4.75%. Iranian media reported Iran would close the Strait of Hormuz if it faces any new attack."
-    },
-    {
-      "id": "4977135",
-      "time": "2026-07-08 22:37:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌5%，現報58.26美元/盎司。"
-    },
-    {
-      "id": "mkt:019f4228-e47f-7aab-8cf5-89a56b85d273",
-      "time": "2026-07-08 22:36:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "U.S. President Trump said he believes Israel will withdraw from southern Lebanon."
-    },
-    {
-      "id": "mkt:019f4228-ce6a-7aab-8cf5-851f4c380e8d",
-      "time": "2026-07-08 22:36:38",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Brent"
-      ],
-      "text": "【US aid model shifts; defense giants face new commercial logic】Trump's push to let Ukraine indigenously produce Patriot air-defense systems and Tomahawk cruise missiles signals a shift in US support from direct fiscal aid to a tech-transfer plus supply-chain-export/outsourcing model. The change forces a re-evaluation of defense contractors' commercial logic: licensing of systems, supply of key components and long-term maintenance contracts can expand overseas revenue and convert one-off government orders into steadier global ecosystem income. It also signals US preparation for a more protracted security commitment, supporting a sustained lift in European defense spending and defense-sector investment. For markets, geopolitical risk is moving from episodic shocks toward structural industry and fiscal shifts; investors may reprice European security assets, the defense sector and energy/resource-linked defensive exposures accordingly."
-    },
-    {
-      "id": "4977134",
-      "time": "2026-07-08 22:36:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守58美元/盎司，日內跌3.27%。"
-    },
-    {
-      "id": "mkt:019f4228-c81b-7aab-8cf5-7ce12d33ca5b",
-      "time": "2026-07-08 22:36:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "President Trump said every U.S. strike on Iran pushes oil prices higher and that oil prices may rise modestly going forward."
-    },
-    {
-      "id": "4977133",
-      "time": "2026-07-08 22:36:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊朗官方電視臺Press TV援引知情安全人士訊息稱，伊朗將以至少二比一的還擊比例打擊“敵方”目標。"
-    },
-    {
-      "id": "mkt:019f4228-352c-7aab-8cf5-75b2e399cebd",
-      "time": "2026-07-08 22:35:59",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said he expects Israel to withdraw its forces from Lebanon."
-    },
-    {
-      "id": "mkt:019f4228-0a97-7aab-8cf5-6d7970b32a99",
-      "time": "2026-07-08 22:35:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Press TV, citing informed sources, said Iran would close the Strait of Hormuz if it faces any new attacks."
-    },
-    {
-      "id": "4977132",
-      "time": "2026-07-08 22:35:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【易思維獲2025年度國家科學技術進步獎二等獎】國家科學技術獎勵大會、兩院院士大會、中國科協第十一次全國代表大會8日上午在京召開。2025年度國家科學技術獎揭曉，共評選出258個專案。由天津大學邾繼貴教授牽頭，易思維創始人兼董事長郭寅博士作為第二完成人參與的“工業現場高精度視覺測量關鍵技術與規模化應用”專案，榮獲2025年度國家科學技術進步獎二等獎。"
-    },
-    {
-      "id": "mkt:019f4227-8259-7aab-8cf5-60eda6ea6c0b",
-      "time": "2026-07-08 22:35:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Press TV, citing unnamed sources, reports Iran will strike enemy targets at least twice the number struck against it. Sources say Iran will reopen the strait under the Islamabad memorandum, on arrangements determined by Tehran."
-    },
-    {
-      "id": "4977131",
-      "time": "2026-07-08 22:35:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：以色列將撤離。"
-    },
-    {
-      "id": "4977130",
-      "time": "2026-07-08 22:34:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗官方電視臺Press TV援引訊息人士說法稱，若伊朗遭受任何新的襲擊，伊朗將關閉霍爾木茲海峽。"
     }
   ]
 }

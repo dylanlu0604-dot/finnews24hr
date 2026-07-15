@@ -1,7 +1,158 @@
 {
   "date": "2026-07-15",
-  "count": 3452,
+  "count": 3469,
   "items": [
+    {
+      "id": "4990321",
+      "time": "2026-07-15 22:37:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌幅擴大至盤中低點0.5%。"
+    },
+    {
+      "id": "4990320",
+      "time": "2026-07-15 22:37:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【未來5年現代農業氣象防災減災業務能力建設方案出臺】記者15日從中國氣象局瞭解到，中國氣象局近日出臺了《現代農業氣象防災減災業務能力建設方案（2026—2030年）》，加快構建新型氣象為農服務體系，著力提升數智化、場景化農業氣象防災減災業務能力。（新華社）"
+    },
+    {
+      "id": "4990319",
+      "time": "2026-07-15 22:37:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織戰略主管：我們認為全球主權債務圓桌會議“運作極為順暢”。"
+    },
+    {
+      "id": "4990318",
+      "time": "2026-07-15 22:36:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【訊息人士：蘋果據悉正尋求收購人工智慧晶片業務】據熟悉蘋果工作的人士表示，蘋果正在尋找收購晶片公司以加強其構建用於執行人工智慧的伺服器晶片的努力。近幾個月來，這家iPhone製造商與銀行家們就可能的交易進行了交流。訊息人士稱，它還接觸了半導體初創企業，瞭解他們是否有意出售自己。蘋果尋求晶片收購的行動正值公司內部AI伺服器的效能問題。"
+    },
+    {
+      "id": "mkt:019f6635-9b95-7aab-8da8-20506b9b0472",
+      "time": "2026-07-15 22:36:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "AAPL.O"
+      ],
+      "text": "【Sources: Apple exploring acquisition of AI chip business】People familiar with the matter said Apple is exploring acquisitions of chip companies to bolster development of server chips for running AI workloads. Over recent months it has held talks with bankers about potential deals and contacted semiconductor startups to gauge willingness to sell. The outreach follows reported performance issues with Apple’s internal AI servers."
+    },
+    {
+      "id": "4990317",
+      "time": "2026-07-15 22:36:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，埃利達（Elida）在東太平洋開闊海域移動過程中強度略有增強。"
+    },
+    {
+      "id": "4990316",
+      "time": "2026-07-15 22:36:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守84美元/桶，日內跌0.88%。"
+    },
+    {
+      "id": "mkt:019f6634-f78d-7aab-8da8-1b0c983e0ae6",
+      "time": "2026-07-15 22:36:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair KEVIN WARSH said he has exceeded ethics-agreement requirements, selling or about to fully sell assets held before he assumed the Fed chair role, and has converted his investments into cash equivalents and short-term Treasuries."
+    },
+    {
+      "id": "4990315",
+      "time": "2026-07-15 22:36:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "意法半導體米蘭上市股票在停牌後恢復交易，股價下跌3.8%。"
+    },
+    {
+      "id": "4990314",
+      "time": "2026-07-15 22:36:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我嚴格遵守並超額履行道德協議，已出售或基本清倉就任美聯儲主席前持有的全部資產。"
+    },
+    {
+      "id": "4990313",
+      "time": "2026-07-15 22:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織戰略主管：IMF正努力深化分析低收入國家面臨的國內債務相關風險，其中包括對長期趨勢開展研究。"
+    },
+    {
+      "id": "4990312",
+      "time": "2026-07-15 22:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源資訊署（EIA）資料顯示，美國墨西哥灣沿岸汽油庫存上週下降，降至2017年9月以來最低水平。"
+    },
+    {
+      "id": "4990311",
+      "time": "2026-07-15 22:35:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：已將名下投資全部轉換為現金等價物與短期國庫券。"
+    },
+    {
+      "id": "mkt:019f6634-0010-7aab-8da8-1112b52d37c4",
+      "time": "2026-07-15 22:35:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. may seek to apply comprehensive economic pressure on Iran】Mehran Kamrava, professor of government at Georgetown University in Qatar, said Tehran deliberately publicized the deaths of seven soldiers in a U.S. strike to rally nationalist sentiment and shore up wartime support. He said Iran is experiencing a nationalist resurgence while facing high inflation, high unemployment and roughly $270 billion in economic losses. Kamrava added Iran recognizes it cannot match the U.S. militarily and is shifting the conflict toward economic targets, with recent attacks on shipping reflecting that strategy. He warned the U.S. may respond in kind, attempting to exhaust Iran economically as domestic hardship—food, basic security and housing—deepens."
+    },
+    {
+      "id": "mkt:019f6633-aa2c-7aab-8da8-0c3be40fdb35",
+      "time": "2026-07-15 22:34:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bearish"
+      ],
+      "text": "According to The Information, shipments of future versions of Apple (AAPL.O)'s Baltra AI server chip, originally scheduled for this year, have been delayed."
+    },
+    {
+      "id": "4990310",
+      "time": "2026-07-15 22:34:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：將非常關注監察長對美聯儲副主席鮑曼在FOMC會議後於某銀行參加晚宴的調查結果。在沒有事實依據的情況下預先判斷會議內容是不恰當的。"
+    },
     {
       "id": "mkt:019f6633-2ad5-7aab-8da8-039a4356163d",
       "time": "2026-07-15 22:34:17",
@@ -618,6 +769,15 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：當前通脹指標均無法完美衡量潛在通脹水平。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807801268",
+      "time": "2026-07-15 22:27:42",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什稱他的看法是這些通脹資料並非完美的衡量指標。"
     },
     {
       "id": "mkt:019f662d-233e-7aab-8da6-c9967a758a98",
