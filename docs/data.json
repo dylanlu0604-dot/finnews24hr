@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-16 01:47:59",
-  "count": 18659,
+  "updated": "2026-07-16 01:51:56",
+  "count": 18656,
   "items": [
+    {
+      "id": "mkt:019f66e6-6b16-7aab-8dae-076b45f17216",
+      "time": "2026-07-16 01:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "The Federal Reserve will release the Beige Book on U.S. economic conditions in ten minutes."
+    },
+    {
+      "id": "mkt:019f66e6-618f-7aab-8dad-f941762a9ad1",
+      "time": "2026-07-16 01:50:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Dollar index (DXY) down 0.50% intraday at 100.43."
+    },
+    {
+      "id": "4990567",
+      "time": "2026-07-16 01:49:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：優步即將達成一筆價值 125 億歐元的交易，收購 Delivery Hero（外賣配送集團）。"
+    },
+    {
+      "id": "mkt:019f66e5-bd09-7aab-8dad-f284b5dfb5f9",
+      "time": "2026-07-16 01:49:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "USD/CHF down >0.50% intraday, trading at 0.8046."
+    },
+    {
+      "id": "mkt:019f66e4-2235-7aab-8dad-ea6fc8d351ed",
+      "time": "2026-07-16 01:47:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A White House spokesperson said regarding Iran that the U.S. can strike anywhere, at any time."
+    },
     {
       "id": "mkt:019f66e4-1f10-7aab-8dad-e08a5d5d5260",
       "time": "2026-07-16 01:47:33",
@@ -171701,73 +171762,6 @@
         "國際"
       ],
       "text": "美國紐約一名聯邦法官裁定，因陪審團認定特朗普對E·吉恩·卡羅爾存在性侵及誹謗行為，特朗普需向其支付500萬美元賠償金，外加近80萬美元利息。"
-    },
-    {
-      "id": "4977465",
-      "time": "2026-07-09 01:50:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：特朗普對向土耳其出售F-35戰鬥機持積極態度，希望各界能看到美國信守承諾。"
-    },
-    {
-      "id": "mkt:019f42d9-eb88-7aab-8cfb-6e927344c5bb",
-      "time": "2026-07-09 01:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Federal Reserve will release minutes from its monetary policy meeting in 10 minutes."
-    },
-    {
-      "id": "4977464",
-      "time": "2026-07-09 01:49:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安：土美之間最重要的分歧之一是F-35戰機問題。"
-    },
-    {
-      "id": "mkt:019f42d9-c23e-7aab-8cfb-6314a1c72acc",
-      "time": "2026-07-09 01:49:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's President Erdogan said one of the most important issues with the United States is the F-35 fighter jet issue."
-    },
-    {
-      "id": "mkt:019f42d9-b7ff-7aab-8cfb-5d002244a379",
-      "time": "2026-07-09 01:49:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A senior US official said the US has decided to remove Syria from the list of state sponsors of terrorism; Congress will begin a 45-day review before the revocation can take effect."
-    },
-    {
-      "id": "4977463",
-      "time": "2026-07-09 01:49:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列自3月2日以來在黎巴嫩各地的襲擊已造成4,321人死亡，12,203人受傷。"
-    },
-    {
-      "id": "4977462",
-      "time": "2026-07-09 01:48:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普告知敘利亞領導人，國會目前將開展為期45天的審查，以最終敲定此事。"
-    },
-    {
-      "id": "4977461",
-      "time": "2026-07-09 01:48:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普告知敘利亞領導人其撤銷“支援恐怖主義國家”認定相關舉措的決定。"
     }
   ]
 }

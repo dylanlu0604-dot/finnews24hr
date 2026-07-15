@@ -1,7 +1,68 @@
 {
   "date": "2026-07-16",
-  "count": 154,
+  "count": 159,
   "items": [
+    {
+      "id": "mkt:019f66e6-6b16-7aab-8dae-076b45f17216",
+      "time": "2026-07-16 01:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "EURUSD"
+      ],
+      "text": "The Federal Reserve will release the Beige Book on U.S. economic conditions in ten minutes."
+    },
+    {
+      "id": "mkt:019f66e6-618f-7aab-8dad-f941762a9ad1",
+      "time": "2026-07-16 01:50:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "Dollar index (DXY) down 0.50% intraday at 100.43."
+    },
+    {
+      "id": "4990567",
+      "time": "2026-07-16 01:49:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：優步即將達成一筆價值 125 億歐元的交易，收購 Delivery Hero（外賣配送集團）。"
+    },
+    {
+      "id": "mkt:019f66e5-bd09-7aab-8dad-f284b5dfb5f9",
+      "time": "2026-07-16 01:49:19",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "USD/CHF down >0.50% intraday, trading at 0.8046."
+    },
+    {
+      "id": "mkt:019f66e4-2235-7aab-8dad-ea6fc8d351ed",
+      "time": "2026-07-16 01:47:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "A White House spokesperson said regarding Iran that the U.S. can strike anywhere, at any time."
+    },
     {
       "id": "mkt:019f66e4-1f10-7aab-8dad-e08a5d5d5260",
       "time": "2026-07-16 01:47:33",
