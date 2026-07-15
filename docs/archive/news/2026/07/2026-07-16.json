@@ -1,7 +1,59 @@
 {
   "date": "2026-07-16",
-  "count": 226,
+  "count": 232,
   "items": [
+    {
+      "id": "4990606",
+      "time": "2026-07-16 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.77%，報24843.19點，高水162.09點。"
+    },
+    {
+      "id": "mkt:019f6725-cd26-7aab-8daf-16940d03771f",
+      "time": "2026-07-16 02:59:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran parliament speaker says must remain prepared to defend national interests】On the evening of the 15th, Iranian parliament speaker Ghalibaf said Iran does not welcome war but must remain ready to fight to protect national security and interests. He urged use of diplomacy and negotiations to secure and consolidate those interests. Ghalibaf said memoranda of understanding are meaningful only when all terms are effective and implemented; if Iran cannot benefit, it has no obligation to comply. He added that, under the Supreme Leader's instructions, everyone must prepare for war, diplomacy, or both."
+    },
+    {
+      "id": "4990605",
+      "time": "2026-07-16 02:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長稱為維護國家利益必須時刻做好準備】當地時間15日晚，伊朗議會議長卡利巴夫就戰事和國內最新情況釋出宣告。卡利巴夫稱，伊朗從未也不會歡迎戰爭，但為了維護國家安全和利益，必須時刻做好戰鬥準備，必須竭盡全力。卡利巴夫指出，伊朗也應該利用外交和談判的手段，以實現和鞏固國家利益。卡利巴夫表示，諒解備忘錄只有在所有條款都有效且正在執行時才具有意義。如果伊朗無法從諒解備忘錄中獲益，沒有理由遵守諒解備忘錄。卡利巴夫稱，伊朗每個人都有責任，根據最高領袖的指示，為戰爭、外交或為二者均做出努力。（央視）"
+    },
+    {
+      "id": "4990604",
+      "time": "2026-07-16 02:58:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，空中客車為應對交付延誤，將部分美國產 A350 機身零部件的運輸方式由海運改為空運。"
+    },
+    {
+      "id": "4990603",
+      "time": "2026-07-16 02:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示，波音為避免 767 貨機 / 加油機生產線延期，已從佛羅里達州達赫航空透過空運運送零部件。"
+    },
+    {
+      "id": "4990602",
+      "time": "2026-07-16 02:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國曾探討對古巴發動空中突擊的可能性】據多名瞭解相關討論的美國官員透露，美國曾探討可能對古巴採取何種軍事行動，其中包括由數千名陸軍士兵實施空中突擊的可能性。如果實施空中突擊，將由美國陸軍第101空降師執行。這些討論並不表明特朗普總統或五角大樓已經決定實施此類行動。"
+    },
     {
       "id": "mkt:019f6721-d205-7aab-8daf-0f4d784df792",
       "time": "2026-07-16 02:54:57",

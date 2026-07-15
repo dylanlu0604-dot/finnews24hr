@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-16 02:57:35",
-  "count": 18596,
+  "updated": "2026-07-16 03:01:51",
+  "count": 18594,
   "items": [
+    {
+      "id": "4990606",
+      "time": "2026-07-16 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.77%，報24843.19點，高水162.09點。"
+    },
+    {
+      "id": "mkt:019f6725-cd26-7aab-8daf-16940d03771f",
+      "time": "2026-07-16 02:59:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran parliament speaker says must remain prepared to defend national interests】On the evening of the 15th, Iranian parliament speaker Ghalibaf said Iran does not welcome war but must remain ready to fight to protect national security and interests. He urged use of diplomacy and negotiations to secure and consolidate those interests. Ghalibaf said memoranda of understanding are meaningful only when all terms are effective and implemented; if Iran cannot benefit, it has no obligation to comply. He added that, under the Supreme Leader's instructions, everyone must prepare for war, diplomacy, or both."
+    },
+    {
+      "id": "4990605",
+      "time": "2026-07-16 02:59:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長稱為維護國家利益必須時刻做好準備】當地時間15日晚，伊朗議會議長卡利巴夫就戰事和國內最新情況釋出宣告。卡利巴夫稱，伊朗從未也不會歡迎戰爭，但為了維護國家安全和利益，必須時刻做好戰鬥準備，必須竭盡全力。卡利巴夫指出，伊朗也應該利用外交和談判的手段，以實現和鞏固國家利益。卡利巴夫表示，諒解備忘錄只有在所有條款都有效且正在執行時才具有意義。如果伊朗無法從諒解備忘錄中獲益，沒有理由遵守諒解備忘錄。卡利巴夫稱，伊朗每個人都有責任，根據最高領袖的指示，為戰爭、外交或為二者均做出努力。（央視）"
+    },
+    {
+      "id": "4990604",
+      "time": "2026-07-16 02:58:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，空中客車為應對交付延誤，將部分美國產 A350 機身零部件的運輸方式由海運改為空運。"
+    },
+    {
+      "id": "4990603",
+      "time": "2026-07-16 02:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "檔案顯示，波音為避免 767 貨機 / 加油機生產線延期，已從佛羅里達州達赫航空透過空運運送零部件。"
+    },
+    {
+      "id": "4990602",
+      "time": "2026-07-16 02:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國曾探討對古巴發動空中突擊的可能性】據多名瞭解相關討論的美國官員透露，美國曾探討可能對古巴採取何種軍事行動，其中包括由數千名陸軍士兵實施空中突擊的可能性。如果實施空中突擊，將由美國陸軍第101空降師執行。這些討論並不表明特朗普總統或五角大樓已經決定實施此類行動。"
+    },
     {
       "id": "mkt:019f6721-d205-7aab-8daf-0f4d784df792",
       "time": "2026-07-16 02:54:57",
@@ -171091,83 +171143,6 @@
         "國際"
       ],
       "text": "美國財政部資料：最新雙週統計週期內，投資基金淨買入 534.59 億美元、2028 年 6 月 30 日到期的 2 年期美債票據；上月同期買入規模為 482.03 億美元。\n外資買入 58.64 億美元 2033 年 6 月 30 日到期的 7 年期美債票據，上月同期買入規模為 56.51 億美元。"
-    },
-    {
-      "id": "mkt:019f431a-fc2d-7aab-8cfc-fc01707f370f",
-      "time": "2026-07-09 03:01:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.22% at 23,983, trading 216 points below the cash index."
-    },
-    {
-      "id": "4977540",
-      "time": "2026-07-09 03:01:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷 5 月工業產值同比下滑 5.7%，市場預期為下降 1.8%。"
-    },
-    {
-      "id": "mkt:019f431a-630e-7aab-8cfc-f6b7a7036856",
-      "time": "2026-07-09 03:00:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US consumer credit fell $0.18 bln in May versus $17.1 bln expected; April was revised up to $20.82 bln from $20.733 bln."
-    },
-    {
-      "id": "4977539",
-      "time": "2026-07-09 03:00:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國5月消費信貸變動 -1.82億美元，預期 172億美元，前值 207.33億美元。"
-    },
-    {
-      "id": "mkt:019f431a-2fe7-7aab-8cfc-ed18b5f49dda",
-      "time": "2026-07-09 03:00:17",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Consumer Credit (May) | actual -180000000B | consensus 17100000000B | previous 20733000000B"
-    },
-    {
-      "id": "4977538",
-      "time": "2026-07-09 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.26%，報23973.00點，低水226.46點。"
-    },
-    {
-      "id": "4977537",
-      "time": "2026-07-09 02:58:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：沙烏地阿拉伯正推進一項方案，計劃調整印度—中東—歐洲經濟走廊（又稱“和平鐵路”專案）線路，改經敘利亞通行、繞開以色列，以此將以色列排除在該走廊之外。"
-    },
-    {
-      "id": "mkt:019f4317-ced6-7aab-8cfc-e5daebbb626b",
-      "time": "2026-07-09 02:57:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jerusalem Post, citing sources, reports Saudi Arabia is pressing to reroute the India–Middle East–Europe Economic Corridor to bypass Israel and instead link via Syria, aiming to reduce Israel's participation in the project."
     }
   ]
 }
