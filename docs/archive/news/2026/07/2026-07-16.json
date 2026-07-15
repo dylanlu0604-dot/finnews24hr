@@ -1,7 +1,39 @@
 {
   "date": "2026-07-16",
-  "count": 28,
+  "count": 31,
   "items": [
+    {
+      "id": "mkt:019f6694-4d1c-7aab-8dac-207740a2cfa3",
+      "time": "2026-07-16 00:20:22",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iran's Fars News, citing Iraqi sources, reports several explosions in Erbil, Iraq."
+    },
+    {
+      "id": "mkt:019f6692-7367-7aab-8dac-1a6d8c8bfec9",
+      "time": "2026-07-16 00:18:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media outlet Fars News reported loud explosions at Kuwait’s Bubiyan Island and at Camp Virginia, both hosting US personnel; reports not independently verified."
+    },
+    {
+      "id": "mkt:019f6691-8e61-7aab-8dac-14186bd0137a",
+      "time": "2026-07-16 00:17:22",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "GBP/USD rose to 1.35, its highest level since end-May."
+    },
     {
       "id": "mkt:019f668f-9d6a-7aab-8dac-0d31bf95d809",
       "time": "2026-07-16 00:15:15",
