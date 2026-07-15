@@ -1,7 +1,65 @@
 {
   "date": "2026-07-15",
-  "count": 833,
+  "count": 839,
   "items": [
+    {
+      "id": "4988719",
+      "time": "2026-07-15 08:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度經濟時報報道，宜家計劃到2030年投資約1100億印度盧比用於印度門店擴張。"
+    },
+    {
+      "id": "mkt:019f633e-3ca6-7aab-8d8c-980e4d3c6b9e",
+      "time": "2026-07-15 08:47:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China margin financing on two exchanges falls 10.96 bln yuan】As of July 14, margin financing on the Shanghai Stock Exchange was 1.452 tln yuan, down 5.503 bln yuan from the prior trading day; on the Shenzhen Stock Exchange it was 1.417 tln yuan, down 5.455 bln yuan; combined balance 2.869 tln yuan, down 10.958 bln yuan."
+    },
+    {
+      "id": "4988718",
+      "time": "2026-07-15 08:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少109.58億元】截至7月14日，上交所融資餘額報14520.14億元，較前一交易日減少55.03億元；深交所融資餘額報14172.64億元，較前一交易日減少54.55億元；兩市合計28692.78億元，較前一交易日減少109.58億元。"
+    },
+    {
+      "id": "4988717",
+      "time": "2026-07-15 08:46:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【進度過四成，我國南方早稻迎來大面積收穫】農業農村部最新農情排程顯示，我國南方早稻迎來大面積收穫，收穫進度已過四成。"
+    },
+    {
+      "id": "te:markets:566947",
+      "time": "2026-07-15 08:46:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Gain for Second Session — The Nikkei 225 Index climbed 0.9% to above 68,300, while the broader Topix Index advanced 1% to 4,080 on Wednesday, extending gains from the previous session as Japanese equities tracked Wall Street higher after softer-than-expected US inflation data reduced expectations of a near-term Federal Reserve interest rate hike. Investors also looked past escalating geopolitical tensions in the Middle East after President Donald Trump threatened additional strikes on Iran while reinstating a US blockade against Tehran in the Strait of Hormuz. On the domestic front, data showed Japan’s machinery orders fell more than expected in May, reflecting broad-based weakness in business investment. Technology and AI-related stocks led the advance, with Kioxia Holdings surging 6.7%, Advantest rising 4.4%, Tokyo Electron gaining 1.6%, Taiyo Yuden adding 5.7%, and Lasertec jumping 6.9%."
+    },
+    {
+      "id": "4988716",
+      "time": "2026-07-15 08:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【減肥藥大戰：諾和諾德口服藥遙遙領先禮來】減肥口服藥上市是製藥行業競爭最白熱化的戰場。目前來看，禮來公司(Eli Lilly)在與競爭對手諾和諾德(Novo Nordisk)的較量中處於下風。根據最新一週的資料，自其減肥口服藥Foundayo於4月上市以來，禮來公司佔據了新型口服藥處方量約11%的份額。諾和諾德於1月推出的維秀美(Wegovy)口服藥則佔據其餘份額。對於規模近800億美元的抗肥胖藥物市場而言，這是一個令人矚目的變局-該市場目前是製藥行業最炙手可熱的領域之一。禮來公司在注射劑銷售方面佔據主導地位。分析師原本認為該公司的口服藥也會同樣大獲全勝。醫生指出，禮來面臨的挑戰之一在於臨床研究資料：服用諾和諾德口服藥的患者在用藥一年多後，平均體重減輕了16.6%，而服用Foundayo的患者平均減重僅為12.4%。分析師表示，拖慢禮來步伐的另一個原因是，該公司花費了較長時間才爭取到健康保險計劃的報銷准入。"
+    },
     {
       "id": "4988715",
       "time": "2026-07-15 08:44:55",

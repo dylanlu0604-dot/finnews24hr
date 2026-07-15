@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-15 08:45:47",
-  "count": 18746,
+  "updated": "2026-07-15 08:51:12",
+  "count": 18742,
   "items": [
+    {
+      "id": "4988719",
+      "time": "2026-07-15 08:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "據印度經濟時報報道，宜家計劃到2030年投資約1100億印度盧比用於印度門店擴張。"
+    },
+    {
+      "id": "mkt:019f633e-3ca6-7aab-8d8c-980e4d3c6b9e",
+      "time": "2026-07-15 08:47:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【China margin financing on two exchanges falls 10.96 bln yuan】As of July 14, margin financing on the Shanghai Stock Exchange was 1.452 tln yuan, down 5.503 bln yuan from the prior trading day; on the Shenzhen Stock Exchange it was 1.417 tln yuan, down 5.455 bln yuan; combined balance 2.869 tln yuan, down 10.958 bln yuan."
+    },
+    {
+      "id": "4988718",
+      "time": "2026-07-15 08:47:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少109.58億元】截至7月14日，上交所融資餘額報14520.14億元，較前一交易日減少55.03億元；深交所融資餘額報14172.64億元，較前一交易日減少54.55億元；兩市合計28692.78億元，較前一交易日減少109.58億元。"
+    },
+    {
+      "id": "4988717",
+      "time": "2026-07-15 08:46:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【進度過四成，我國南方早稻迎來大面積收穫】農業農村部最新農情排程顯示，我國南方早稻迎來大面積收穫，收穫進度已過四成。"
+    },
+    {
+      "id": "te:markets:566947",
+      "time": "2026-07-15 08:46:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Gain for Second Session — The Nikkei 225 Index climbed 0.9% to above 68,300, while the broader Topix Index advanced 1% to 4,080 on Wednesday, extending gains from the previous session as Japanese equities tracked Wall Street higher after softer-than-expected US inflation data reduced expectations of a near-term Federal Reserve interest rate hike. Investors also looked past escalating geopolitical tensions in the Middle East after President Donald Trump threatened additional strikes on Iran while reinstating a US blockade against Tehran in the Strait of Hormuz. On the domestic front, data showed Japan’s machinery orders fell more than expected in May, reflecting broad-based weakness in business investment. Technology and AI-related stocks led the advance, with Kioxia Holdings surging 6.7%, Advantest rising 4.4%, Tokyo Electron gaining 1.6%, Taiyo Yuden adding 5.7%, and Lasertec jumping 6.9%."
+    },
+    {
+      "id": "4988716",
+      "time": "2026-07-15 08:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【減肥藥大戰：諾和諾德口服藥遙遙領先禮來】減肥口服藥上市是製藥行業競爭最白熱化的戰場。目前來看，禮來公司(Eli Lilly)在與競爭對手諾和諾德(Novo Nordisk)的較量中處於下風。根據最新一週的資料，自其減肥口服藥Foundayo於4月上市以來，禮來公司佔據了新型口服藥處方量約11%的份額。諾和諾德於1月推出的維秀美(Wegovy)口服藥則佔據其餘份額。對於規模近800億美元的抗肥胖藥物市場而言，這是一個令人矚目的變局-該市場目前是製藥行業最炙手可熱的領域之一。禮來公司在注射劑銷售方面佔據主導地位。分析師原本認為該公司的口服藥也會同樣大獲全勝。醫生指出，禮來面臨的挑戰之一在於臨床研究資料：服用諾和諾德口服藥的患者在用藥一年多後，平均體重減輕了16.6%，而服用Foundayo的患者平均減重僅為12.4%。分析師表示，拖慢禮來步伐的另一個原因是，該公司花費了較長時間才爭取到健康保險計劃的報銷准入。"
+    },
     {
       "id": "4988715",
       "time": "2026-07-15 08:44:55",
@@ -171545,98 +171603,6 @@
         "TAL.O"
       ],
       "text": "【Snapmaker completes 1.0 bln yuan financing】Consumer 3D-printing firm Snapmaker has completed a new 1.0 bln yuan financing round led by Cathay Capital. TAL Education’s strategic investment arm co-invested, and existing shareholders—including Meituan’s strategic investment arm, Meituan Longzhu, Hillhouse Ventures and Shunwei Capital—substantially oversubscribed. Gaohu Capital acted as sole financial adviser. The transaction is among the largest single rounds in the consumer hardware sector since 2025 and the largest primary-market financing in consumer-grade 3D printing in the past two years."
-    },
-    {
-      "id": "mkt:019f3f34-d0eb-7aab-8cd9-ed036686cb85",
-      "time": "2026-07-08 08:50:53",
-      "tags": [
-        "MKT News",
-        "9984.T",
-        "Impact bullish"
-      ],
-      "text": "SoftBank Group shares reversed earlier losses, trading up 1%."
-    },
-    {
-      "id": "4975234",
-      "time": "2026-07-08 08:50:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【酒價內參7月8日價格釋出：國窖1573飛天茅臺領漲 總價低位小幅反彈】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月8日整體低位小幅反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9892元，較昨日上漲10元，結束此前連續兩日回落走勢。今日除青花郎下跌外，其餘品種均上漲或平盤。縱觀全場，高低位品種並存，核心單品漲跌分化依然顯著，終端交投情緒邊際改善，總價低位震盪格局仍未扭轉。今日11大白酒單品六漲一跌四平，贏家數量佔據優勢。上漲方面，國窖1573漲幅居前，上漲5元/瓶，平近一月最高價紀錄；飛天茅臺上漲4元/瓶，自昨日創下的今年4月23日以來最低處溫和修復；洋河夢之藍M6+上漲2元/瓶，升至近一月次高位；五糧液1618、古井貢古20與水晶劍南春均小幅上漲1元/瓶，其中水晶劍自近一月最低位小幅修復。下跌方面，青花郎為唯一輸家，下跌4元/瓶。精品茅臺、五糧液普五八代、青花汾20與習酒君品價格環比昨日均保持不變，其中五糧液普五八代仍平“酒價內參”自去年11月有統計以來最低，而青花汾20則再平近一月最高紀錄。"
-    },
-    {
-      "id": "4975233",
-      "time": "2026-07-08 08:49:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨上漲0.1%，德國DAX指數期貨持平，英國富時指數期貨下跌0.4%。"
-    },
-    {
-      "id": "te:markets:565009",
-      "time": "2026-07-08 08:49:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Hits 3-Week High — US gasoline prices rose above $3.0 per gallon, trading at a three-week high, after the US launched fresh strikes against Iran in response to a series of attacks on shipping in the Strait of Hormuz. The US Treasury also revoked a sanctions waiver that had allowed Tehran to sell oil, reversing a key element of the interim peace deal with the Islamic Republic. The escalation heightened concerns over renewed disruptions to global energy markets and challenged earlier expectations of a supply glut, which had been fueled by higher OPEC+ quotas and rising output from Middle Eastern producers. Further supporting gasoline prices, refinery disruptions in Russia added to supply concerns after the country’s largest oil refinery in western Siberia and a major gasoline producer halted operations following a Ukrainian drone strike, one of Kyiv’s longest-range attacks of the conflict."
-    },
-    {
-      "id": "4975232",
-      "time": "2026-07-08 08:49:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日本投資者5月份購買韓國債券規模接近歷史最高水平】日本週三公佈的最新國際收支資料顯示，5月份日本投資者購買韓國債券的金額仍接近歷史最高水平。5月份淨購買金額為3,507億日元，此前4月達到創紀錄的3,936億日元。該資料並未提供債券型別的細分資訊。日本投資者5月份買入澳大利亞主權債券金額，達到一年來最高。對德國主權債券淨購買金額升至自11月以來最高。"
-    },
-    {
-      "id": "4975231",
-      "time": "2026-07-08 08:48:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨微漲0.1%，納斯達克指數期貨上漲0.5%。"
-    },
-    {
-      "id": "4975230",
-      "time": "2026-07-08 08:48:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄勒岡州總檢察長將請求法院責令派拉蒙配合併購調查】據媒體查閱的檔案顯示，俄勒岡州總檢察長將請求法院下令，要求派拉蒙配合針對其以1,100億美元收購華納兄弟一事的相關調查要求。該州在即將提交給法院的檔案中稱，派拉蒙計劃於7月16日或其後立即完成這筆交易。檔案顯示，俄勒岡州總檢察長雷菲爾德（Dan Rayfield）將尋求就此事項舉行加速聽證，或申請一項命令，在聽證舉行前阻止交易完成。派拉蒙一位發言人週二表示：“俄勒岡州司法部所尋求的資訊與該交易是否符合俄勒岡州反壟斷法無關，也不構成推遲一項顯然合法且有利於競爭的交易的正當理由。”該發言人補充道，公司已向該州提供了與此次合併相關的檔案。該公司表示，這筆交易將打造出一個比Netflix和迪士尼更強大的流媒體競爭對手，並使創作者和消費者受益。上個月，知情人士透露，加利福尼亞州、紐約州以及美國其他各州正準備起訴 以阻止這筆交易。各州有權對那些被認為會非法削弱競爭的併購交易採取執法行動。"
-    },
-    {
-      "id": "mkt:019f3f31-afea-7aab-8cd9-e66552ff58e7",
-      "time": "2026-07-08 08:47:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "【Margin balances on Shanghai and Shenzhen fall CNY13.037bn on Jul 7】As of July 7, Shanghai Stock Exchange margin balance was CNY1,488.228bn, down CNY5.889bn from the previous trading day; Shenzhen Stock Exchange margin balance was CNY1,459.71bn, down CNY7.148bn. Combined margin balances across the two exchanges totaled CNY2,947.938bn, down CNY13.037bn."
-    },
-    {
-      "id": "4975229",
-      "time": "2026-07-08 08:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額減少130.37億元】截至7月7日，上交所融資餘額報14882.28億元，較前一交易日減少58.89億元；深交所融資餘額報14597.1億元，較前一交易日減少71.48億元；兩市合計29479.38億元，較前一交易日減少130.37億元。"
-    },
-    {
-      "id": "4975228",
-      "time": "2026-07-08 08:47:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【卡達譴責卡方天然氣運輸船遭襲 稱伊朗應承擔責任】卡達7日譴責卡方一艘液化天然氣運輸船在霍爾木茲海峽附近遭襲，稱此舉違反國際法，並對國際海上航行安全和全球能源安全構成威脅。卡達首相顧問兼外交部發言人安薩里當天在社交媒體發表宣告說，此次襲擊是“對國際海上航行安全、全球能源供應以及國際水道航行自由原則不可接受的攻擊”。他說，卡達認為，伊朗應對這起襲擊事件以及由此造成的一切損失和後果承擔全部法律責任。（央視新聞）"
     }
   ]
 }
