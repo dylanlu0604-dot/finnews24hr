@@ -1,7 +1,31 @@
 {
   "date": "2026-07-16",
-  "count": 480,
+  "count": 483,
   "items": [
+    {
+      "id": "4990823",
+      "time": "2026-07-16 06:37:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局解除達拉斯沃思堡機場地面停飛令。"
+    },
+    {
+      "id": "mkt:019f67ed-2dae-7aab-8db1-392d4d0db1b4",
+      "time": "2026-07-16 06:37:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. reportedly weighing $100,000 bond for some green-card applicants】The Trump administration is considering requiring a $100,000 bond from certain green-card applicants, sources said. The State Department is drafting the proposal as part of efforts to limit immigration by those deemed unlikely to be self-sufficient. The measure under discussion would target immigrant visa applicants — those seeking permanent U.S. residency who would receive a green card on arrival. Some State Department officials have proposed a $100,000 figure; others say the bond could vary case by case, higher or lower. Officials are considering piloting the policy in a handful of countries to test feasibility. The idea remains under discussion."
+    },
+    {
+      "id": "4990822",
+      "time": "2026-07-16 06:36:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：奧巴馬做了非常糟糕的事情，他是當前伊朗地區危機的原因，他給了伊朗錢，並簽署了一項可怕的協議。"
+    },
     {
       "id": "te:markets:567320",
       "time": "2026-07-16 06:35:10",
