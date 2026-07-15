@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-16 05:56:20",
-  "count": 18618,
+  "updated": "2026-07-16 06:00:30",
+  "count": 18614,
   "items": [
+    {
+      "id": "4990797",
+      "time": "2026-07-16 05:58:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月16日06時繼續釋出高溫黃色預警。"
+    },
+    {
+      "id": "4990796",
+      "time": "2026-07-16 05:58:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月16日06時繼續釋出暴雨黃色預警。"
+    },
     {
       "id": "mkt:019f67c6-99b5-7aab-8db0-e0d98bb15458",
       "time": "2026-07-16 05:54:56",
@@ -171193,58 +171209,6 @@
         "Dow"
       ],
       "text": "U.S. stock index futures opened about 0.1% lower on Thursday."
-    },
-    {
-      "id": "4977648",
-      "time": "2026-07-09 06:00:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為31.1%，累計加息25個基點的機率為51.9%，累計加息50個基點的機率為17%。"
-    },
-    {
-      "id": "4977647",
-      "time": "2026-07-09 06:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報75.07美元/桶。"
-    },
-    {
-      "id": "4977646",
-      "time": "2026-07-09 05:59:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "法爾斯通訊社援引當地官員訊息，襲擊目標為伊朗東南部恰巴哈爾港的海上交通管制塔以及一處倉庫。"
-    },
-    {
-      "id": "mkt:019f43bd-17c2-7aab-8cff-60f044f6b764",
-      "time": "2026-07-09 05:58:13",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. officials said the U.S. Treasury, working with the U.S. Trade Representative and Commerce Department, will deliver to President Trump in coming days a list of Spanish products that could be subject to trade bans."
-    },
-    {
-      "id": "4977645",
-      "time": "2026-07-09 05:58:06",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國一名官員表示，美國財政部將協同美國貿易代表辦公室、商務部，於未來數日向特朗普提交一份清單，列明可能實施貿易禁運的西班牙商品。"
-    },
-    {
-      "id": "mkt:019f43bb-8a85-7aab-8cff-5f4bd878d820",
-      "time": "2026-07-09 05:56:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr News Agency reports explosions were heard in the southeastern Iranian city of Shahre."
     }
   ]
 }
