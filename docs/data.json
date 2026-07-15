@@ -1,7 +1,445 @@
 {
-  "updated": "2026-07-15 20:28:21",
-  "count": 18635,
+  "updated": "2026-07-15 20:32:26",
+  "count": 18658,
   "items": [
+    {
+      "id": "mkt:019f65c2-ffdb-7aab-8da2-41ac8912e756",
+      "time": "2026-07-15 20:31:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Canada May manufacturing unfilled orders MoM 6.7% vs prior 1.3%."
+    },
+    {
+      "id": "mkt:019f65c2-e613-7aab-8da2-3c1e8acb78da",
+      "time": "2026-07-15 20:31:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Unfilled Orders (MoM) (May) | actual 6.7% | previous 1.3%"
+    },
+    {
+      "id": "4989999",
+      "time": "2026-07-15 20:31:37",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "6月PPI意外下跌後，美國國債價格小幅走高。"
+    },
+    {
+      "id": "mkt:019f65c2-df01-7aab-8da2-342824b55f59",
+      "time": "2026-07-15 20:31:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May manufacturing new orders +9.5% m/m (prev +2.1%)."
+    },
+    {
+      "id": "mkt:019f65c2-c07a-7aab-8da2-2e77cb466627",
+      "time": "2026-07-15 20:31:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing New Orders (MoM) (May) | actual 9.5% | previous 2.1%"
+    },
+    {
+      "id": "mkt:019f65c2-b13f-7aab-8da2-27c0c72ce459",
+      "time": "2026-07-15 20:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada May manufacturing inventory-to-shipments ratio 1.3% (prior 1.62%)."
+    },
+    {
+      "id": "mkt:019f65c2-963c-7aab-8da2-1d694706987a",
+      "time": "2026-07-15 20:31:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Canada May wholesale inventories m/m -2.3%; previous +1.1%."
+    },
+    {
+      "id": "mkt:019f65c2-9484-7aab-8da2-153d5b2205af",
+      "time": "2026-07-15 20:31:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (May) | actual 1.3% | previous 1.62%"
+    },
+    {
+      "id": "4989998",
+      "time": "2026-07-15 20:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約聯邦儲備銀行全額接受了7月15日常備回購操作中提交的1億美元申請。"
+    },
+    {
+      "id": "mkt:019f65c2-6e0d-7aab-8da2-0f08aceb0275",
+      "time": "2026-07-15 20:31:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (MoM) (May) | actual -2.3% | previous 1.1%"
+    },
+    {
+      "id": "mkt:019f65c2-656c-7aab-8da2-0644caf631af",
+      "time": "2026-07-15 20:31:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Canada May wholesale sales YoY +0.2%; prior +6.3%."
+    },
+    {
+      "id": "mkt:019f65c2-4f28-7aab-8da1-f840afbe4ff9",
+      "time": "2026-07-15 20:31:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (YoY) (May) | actual 0.2% | previous 6.3%"
+    },
+    {
+      "id": "mkt:019f65c2-49b8-7aab-8da1-f587d140e954",
+      "time": "2026-07-15 20:30:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada manufacturing inventories rose 0.5% MoM in May, matching April's 0.5%."
+    },
+    {
+      "id": "mkt:019f65c2-31dc-7aab-8da1-e99997029bd8",
+      "time": "2026-07-15 20:30:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventories (MoM) (May) | actual 0.5% | previous 0.5%"
+    },
+    {
+      "id": "mkt:019f65c2-023d-7aab-8da1-e7b240a6d55c",
+      "time": "2026-07-15 20:30:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "US July New York Fed manufacturing employment index 11.4, up from 9.6 previously."
+    },
+    {
+      "id": "mkt:019f65c1-ecc2-7aab-8da1-deab31f91c95",
+      "time": "2026-07-15 20:30:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. New York Fed Empire State manufacturing prices received index for July 27.6, prior 31.4."
+    },
+    {
+      "id": "mkt:019f65c1-e7a8-7aab-8da1-d29cf8ba618e",
+      "time": "2026-07-15 20:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Employment Index (Jul) | actual 11.4 | previous 9.6"
+    },
+    {
+      "id": "mkt:019f65c1-cc16-7aab-8da1-ca031a4b90a1",
+      "time": "2026-07-15 20:30:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Prices Received Index (Jul) | actual 27.6 | previous 31.4"
+    },
+    {
+      "id": "mkt:019f65c1-b4e2-7aab-8da1-c0408266dbc7",
+      "time": "2026-07-15 20:30:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500"
+      ],
+      "text": "US New York Fed manufacturing new-orders index rose to 22.2 in July from 3.5 in June."
+    },
+    {
+      "id": "mkt:019f65c1-a604-7aab-8da1-bc60058f223c",
+      "time": "2026-07-15 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US June core PPI YoY 4.7% vs 5.2% expected; prior reading revised from 4.90% to 4.6%."
+    },
+    {
+      "id": "4989996",
+      "time": "2026-07-15 20:30:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國6月生產者價格指數同比上漲5.5%；預期上漲6.2%。"
+    },
+    {
+      "id": "mkt:019f65c1-a410-7aab-8da1-b59b94957bb9",
+      "time": "2026-07-15 20:30:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May wholesale sales MoM 0.0% vs -0.7% expected; prior 0.6%."
+    },
+    {
+      "id": "mkt:019f65c1-a093-7aab-8da1-ac3fd994c78c",
+      "time": "2026-07-15 20:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US PPI YoY for June 5.5% vs 6.2% expected; May revised down to 6.0% from 6.5%."
+    },
+    {
+      "id": "mkt:019f65c1-9f64-7aab-8da1-a5b5818c00af",
+      "time": "2026-07-15 20:30:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US core PPI MoM for June 0.2% vs 0.4% expected; May revised down to 0.1% from 0.4%."
+    },
+    {
+      "id": "mkt:019f65c1-91bb-7aab-8da1-93bfcc24e400",
+      "time": "2026-07-15 20:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US June PPI MoM -0.3% vs expected 0.0%; May revised from 1.10% to 0.6%."
+    },
+    {
+      "id": "mkt:019f65c1-8d04-7aab-8da1-8883eec6b8f3",
+      "time": "2026-07-15 20:30:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May manufacturing shipments MoM +1.3% (consensus +1.1%; Apr +4.2%)."
+    },
+    {
+      "id": "mkt:019f65c1-91bc-7aab-8da1-9f09214ae200",
+      "time": "2026-07-15 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US New York Fed Empire State manufacturing index rose to 15.6 in July, versus a consensus 8.8 and a prior 5.7."
+    },
+    {
+      "id": "mkt:019f65c1-89e9-7aab-8da1-8124c81fcf13",
+      "time": "2026-07-15 20:30:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed New Orders Index (Jul) | actual 22.2 | previous 3.5"
+    },
+    {
+      "id": "mkt:019f65c1-746d-7aab-8da1-7884f87786fe",
+      "time": "2026-07-15 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (MoM) (May) | actual 0% | consensus -0.7% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019f65c1-7019-7aab-8da1-772503b4e5ff",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (YoY) (Jun) | actual 4.7% | consensus 5.2% | previous 4.90%"
+    },
+    {
+      "id": "mkt:019f65c1-6fba-7aab-8da1-686d8dd11fde",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (MoM) (Jun) | actual 0.2% | consensus 0.4% | previous 0.40%"
+    },
+    {
+      "id": "mkt:019f65c1-6eab-7aab-8da1-609ebd2bd3ad",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (YoY) (Jun) | actual 5.5% | consensus 6.2% | previous 6.50%"
+    },
+    {
+      "id": "mkt:019f65c1-6e8e-7aab-8da1-538e635eb130",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (MoM) (Jun) | actual -0.3% | consensus 0% | previous 1.10%"
+    },
+    {
+      "id": "mkt:019f65c1-6ea3-7aab-8da1-5d8cabc8677f",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Sales (MoM) (May) | actual 1.3% | consensus 1.1% | previous 4.20%"
+    },
+    {
+      "id": "mkt:019f65c1-62de-7aab-8da1-4825499b1da3",
+      "time": "2026-07-15 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Manufacturing Index (Jul) | actual 15.6 | consensus 8.8 | previous 5.7"
+    },
+    {
+      "id": "4989995",
+      "time": "2026-07-15 20:29:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：馬士基投資1億美元在波士頓地區新建配送中心，將創造近千個就業崗位並提升東北部配送能力。"
+    },
+    {
+      "id": "mkt:019f65c1-1f77-7aab-8da1-47232c294c3f",
+      "time": "2026-07-15 20:29:43",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk will invest $100m to build a new distribution center in the Boston area, creating nearly 1,000 jobs and expanding its Northeast U.S. distribution capacity."
+    },
+    {
+      "id": "mkt:019f65c0-f717-7aab-8da1-3e4c89a7919a",
+      "time": "2026-07-15 20:29:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Morgan Stanley CFO said activity in Asian markets including Hong Kong, Japan, South Korea and India drove record equities revenue."
+    },
+    {
+      "id": "4989994",
+      "time": "2026-07-15 20:29:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿達尼表示，美國投資與美國司法部撤銷此案的舉動“無關”。"
+    },
+    {
+      "id": "4989993",
+      "time": "2026-07-15 20:28:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技：第五代工藝技術平臺目前處於研發階段】7月15日，長鑫科技科創板發行並上市網上投資者交流會舉行。長鑫科技副總裁、董事會秘書袁園表示，公司第五代工藝技術平臺及相關產品目前處於研發階段。該平臺採用進一步最佳化的多重曝光技術，進一步提升儲存密度和陣列效能。公司研發團隊正在積極推進相關工藝和產品技術的開發工作。"
+    },
     {
       "id": "mkt:019f65be-e27f-7aab-8da1-36e85f0f4697",
       "time": "2026-07-15 20:27:16",
@@ -171005,158 +171443,6 @@
         "國際"
       ],
       "text": "【歐盟重申支援丹麥維護國家主權與領土完整】歐盟委員會發言人奧洛夫·吉爾8日表示，格陵蘭島是丹麥王國的自治領地，格陵蘭島的未來應由格陵蘭人和丹麥人共同決定。 針對美國總統特朗普在土耳其首都安卡拉舉行的北約峰會期間再次聲稱格陵蘭島“應該由美國控制”的言論，吉爾在當天舉行的例行記者會上說，國家主權和領土完整不可侵犯是國際法基本原則，不僅對歐盟至關重要，對世界各國同樣重要。 他說：“歐盟將繼續捍衛上述原則，並堅定地與丹麥人和格陵蘭人站在一起。” 特朗普2025年重返白宮以來，多次揚言要得到格陵蘭島，甚至聲稱不排除動用武力，致使美國與丹麥及更多歐洲盟友關係緊張。(新華社)"
-    },
-    {
-      "id": "4976853",
-      "time": "2026-07-08 20:32:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：與保加利亞總理的會晤對我們的雙邊合作意義重大。兩國需要牢固的關係，今天我們就此進行了討論。特別是在能源議題上，我們有很多可以共同推進的合作，尤其是液化天然氣方面。歐洲對俄羅斯能源的依賴正在減弱。"
-    },
-    {
-      "id": "mkt:019f41b6-cad5-7aab-8cee-387896d51cad",
-      "time": "2026-07-08 20:32:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Ukraine President Zelenskiy said a meeting with Bulgaria's prime minister advanced bilateral cooperation and focused on energy, notably LNG, as Europe reduces its reliance on Russian energy."
-    },
-    {
-      "id": "4976852",
-      "time": "2026-07-08 20:30:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國外長：德國及由法國和英國領導的其他國家已準備好參與霍爾木茲海峽的排雷行動。"
-    },
-    {
-      "id": "mkt:019f41b5-8d7d-7aab-8cee-352692901651",
-      "time": "2026-07-08 20:30:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Brent",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "German foreign minister says Germany and other countries led by France and the UK are prepared to join mine-clearance operations in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f41b5-6ca2-7aab-8cee-28dc4533105f",
-      "time": "2026-07-08 20:30:36",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "Germany's foreign minister says the time has come for Iran and the U.S. to enter into genuine negotiations."
-    },
-    {
-      "id": "mkt:019f41b5-3653-7aab-8cee-23d58516023e",
-      "time": "2026-07-08 20:30:22",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "Germany's foreign minister called on the United States and Iran to halt further escalation."
-    },
-    {
-      "id": "4976851",
-      "time": "2026-07-08 20:30:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "加拿大航空聘任北歐航空高管安科・範德韋夫出任新任執行長。"
-    },
-    {
-      "id": "mkt:019f41b5-0d54-7aab-8cee-1cc2635110fe",
-      "time": "2026-07-08 20:30:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi foreign minister arrives in Muscat, Oman, according to Saudi media."
-    },
-    {
-      "id": "4976850",
-      "time": "2026-07-08 20:30:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鉑科新材：向香港聯交所遞交境外上市外資股（H股）發行並上市申請】鉑科新材公告，公司已於2026年7月8日向香港聯合交易所有限公司遞交了發行境外上市外資股（H股）並在香港聯交所主機板掛牌上市的申請，並於同日在香港聯交所網站刊登了本次發行並上市的申請資料。"
-    },
-    {
-      "id": "4976849",
-      "time": "2026-07-08 20:29:55",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將標普目標價由 557 美元下調至 525 美元。"
-    },
-    {
-      "id": "4976848",
-      "time": "2026-07-08 20:29:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國外長：我們對霍爾木茲海峽的局勢感到擔憂。"
-    },
-    {
-      "id": "4976847",
-      "time": "2026-07-08 20:29:29",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將穆迪目標股價從491美元上調至496美元。"
-    },
-    {
-      "id": "mkt:019f41b4-674d-7aab-8cee-15aebd23d9e6",
-      "time": "2026-07-08 20:29:29",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Germany's foreign minister said he is concerned about the situation in the Strait of Hormuz."
-    },
-    {
-      "id": "4976846",
-      "time": "2026-07-08 20:29:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特外交大臣抵達阿曼馬斯喀特。"
-    },
-    {
-      "id": "4976845",
-      "time": "2026-07-08 20:29:09",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將AT&T目標價從30美元下調至25美元。"
-    },
-    {
-      "id": "4976844",
-      "time": "2026-07-08 20:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "Kpler分析師Bakr:一艘隸屬於卡達能源相關企業的液化天然氣運輸船 “奧奈扎號”，在地區安全域性勢高度緊張的背景下順利穿越霍爾木茲海峽。該船船舶自動識別系統曾短暫失聯，現已恢復訊號傳輸，目前載有約 203800 立方米液化天然氣，航行於印度西南沿海海域。"
-    },
-    {
-      "id": "4976843",
-      "time": "2026-07-08 20:28:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍在安卡拉北約峰會期間會見土耳其總統埃爾多安。"
     }
   ]
 }

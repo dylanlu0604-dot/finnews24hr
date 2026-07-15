@@ -1,7 +1,445 @@
 {
   "date": "2026-07-15",
-  "count": 2871,
+  "count": 2911,
   "items": [
+    {
+      "id": "mkt:019f65c2-ffdb-7aab-8da2-41ac8912e756",
+      "time": "2026-07-15 20:31:45",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Canada May manufacturing unfilled orders MoM 6.7% vs prior 1.3%."
+    },
+    {
+      "id": "mkt:019f65c2-e613-7aab-8da2-3c1e8acb78da",
+      "time": "2026-07-15 20:31:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Unfilled Orders (MoM) (May) | actual 6.7% | previous 1.3%"
+    },
+    {
+      "id": "mkt:019f65c2-df01-7aab-8da2-342824b55f59",
+      "time": "2026-07-15 20:31:37",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May manufacturing new orders +9.5% m/m (prev +2.1%)."
+    },
+    {
+      "id": "4989999",
+      "time": "2026-07-15 20:31:37",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "6月PPI意外下跌後，美國國債價格小幅走高。"
+    },
+    {
+      "id": "mkt:019f65c2-c07a-7aab-8da2-2e77cb466627",
+      "time": "2026-07-15 20:31:29",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing New Orders (MoM) (May) | actual 9.5% | previous 2.1%"
+    },
+    {
+      "id": "mkt:019f65c2-b13f-7aab-8da2-27c0c72ce459",
+      "time": "2026-07-15 20:31:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada May manufacturing inventory-to-shipments ratio 1.3% (prior 1.62%)."
+    },
+    {
+      "id": "mkt:019f65c2-963c-7aab-8da2-1d694706987a",
+      "time": "2026-07-15 20:31:18",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "Canada May wholesale inventories m/m -2.3%; previous +1.1%."
+    },
+    {
+      "id": "mkt:019f65c2-9484-7aab-8da2-153d5b2205af",
+      "time": "2026-07-15 20:31:18",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (May) | actual 1.3% | previous 1.62%"
+    },
+    {
+      "id": "4989998",
+      "time": "2026-07-15 20:31:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約聯邦儲備銀行全額接受了7月15日常備回購操作中提交的1億美元申請。"
+    },
+    {
+      "id": "mkt:019f65c2-6e0d-7aab-8da2-0f08aceb0275",
+      "time": "2026-07-15 20:31:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Inventories (MoM) (May) | actual -2.3% | previous 1.1%"
+    },
+    {
+      "id": "mkt:019f65c2-656c-7aab-8da2-0644caf631af",
+      "time": "2026-07-15 20:31:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Canada May wholesale sales YoY +0.2%; prior +6.3%."
+    },
+    {
+      "id": "mkt:019f65c2-4f28-7aab-8da1-f840afbe4ff9",
+      "time": "2026-07-15 20:31:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (YoY) (May) | actual 0.2% | previous 6.3%"
+    },
+    {
+      "id": "mkt:019f65c2-49b8-7aab-8da1-f587d140e954",
+      "time": "2026-07-15 20:30:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada manufacturing inventories rose 0.5% MoM in May, matching April's 0.5%."
+    },
+    {
+      "id": "mkt:019f65c2-31dc-7aab-8da1-e99997029bd8",
+      "time": "2026-07-15 20:30:53",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Inventories (MoM) (May) | actual 0.5% | previous 0.5%"
+    },
+    {
+      "id": "mkt:019f65c2-023d-7aab-8da1-e7b240a6d55c",
+      "time": "2026-07-15 20:30:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "US July New York Fed manufacturing employment index 11.4, up from 9.6 previously."
+    },
+    {
+      "id": "mkt:019f65c1-ecc2-7aab-8da1-deab31f91c95",
+      "time": "2026-07-15 20:30:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "U.S. New York Fed Empire State manufacturing prices received index for July 27.6, prior 31.4."
+    },
+    {
+      "id": "mkt:019f65c1-e7a8-7aab-8da1-d29cf8ba618e",
+      "time": "2026-07-15 20:30:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Employment Index (Jul) | actual 11.4 | previous 9.6"
+    },
+    {
+      "id": "mkt:019f65c1-cc16-7aab-8da1-ca031a4b90a1",
+      "time": "2026-07-15 20:30:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Prices Received Index (Jul) | actual 27.6 | previous 31.4"
+    },
+    {
+      "id": "mkt:019f65c1-b4e2-7aab-8da1-c0408266dbc7",
+      "time": "2026-07-15 20:30:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500"
+      ],
+      "text": "US New York Fed manufacturing new-orders index rose to 22.2 in July from 3.5 in June."
+    },
+    {
+      "id": "mkt:019f65c1-a604-7aab-8da1-bc60058f223c",
+      "time": "2026-07-15 20:30:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US June core PPI YoY 4.7% vs 5.2% expected; prior reading revised from 4.90% to 4.6%."
+    },
+    {
+      "id": "mkt:019f65c1-a410-7aab-8da1-b59b94957bb9",
+      "time": "2026-07-15 20:30:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May wholesale sales MoM 0.0% vs -0.7% expected; prior 0.6%."
+    },
+    {
+      "id": "4989996",
+      "time": "2026-07-15 20:30:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國6月生產者價格指數同比上漲5.5%；預期上漲6.2%。"
+    },
+    {
+      "id": "mkt:019f65c1-a093-7aab-8da1-ac3fd994c78c",
+      "time": "2026-07-15 20:30:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US PPI YoY for June 5.5% vs 6.2% expected; May revised down to 6.0% from 6.5%."
+    },
+    {
+      "id": "mkt:019f65c1-9f64-7aab-8da1-a5b5818c00af",
+      "time": "2026-07-15 20:30:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US core PPI MoM for June 0.2% vs 0.4% expected; May revised down to 0.1% from 0.4%."
+    },
+    {
+      "id": "mkt:019f65c1-91bb-7aab-8da1-93bfcc24e400",
+      "time": "2026-07-15 20:30:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US June PPI MoM -0.3% vs expected 0.0%; May revised from 1.10% to 0.6%."
+    },
+    {
+      "id": "mkt:019f65c1-8d04-7aab-8da1-8883eec6b8f3",
+      "time": "2026-07-15 20:30:11",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Canada May manufacturing shipments MoM +1.3% (consensus +1.1%; Apr +4.2%)."
+    },
+    {
+      "id": "mkt:019f65c1-91bc-7aab-8da1-9f09214ae200",
+      "time": "2026-07-15 20:30:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "US New York Fed Empire State manufacturing index rose to 15.6 in July, versus a consensus 8.8 and a prior 5.7."
+    },
+    {
+      "id": "mkt:019f65c1-89e9-7aab-8da1-8124c81fcf13",
+      "time": "2026-07-15 20:30:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed New Orders Index (Jul) | actual 22.2 | previous 3.5"
+    },
+    {
+      "id": "mkt:019f65c1-746d-7aab-8da1-7884f87786fe",
+      "time": "2026-07-15 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Wholesale Sales (MoM) (May) | actual 0% | consensus -0.7% | previous 0.60%"
+    },
+    {
+      "id": "mkt:019f65c1-7019-7aab-8da1-772503b4e5ff",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (YoY) (Jun) | actual 4.7% | consensus 5.2% | previous 4.90%"
+    },
+    {
+      "id": "mkt:019f65c1-6fba-7aab-8da1-686d8dd11fde",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core PPI (MoM) (Jun) | actual 0.2% | consensus 0.4% | previous 0.40%"
+    },
+    {
+      "id": "mkt:019f65c1-6eab-7aab-8da1-609ebd2bd3ad",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (YoY) (Jun) | actual 5.5% | consensus 6.2% | previous 6.50%"
+    },
+    {
+      "id": "mkt:019f65c1-6ea3-7aab-8da1-5d8cabc8677f",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Manufacturing Sales (MoM) (May) | actual 1.3% | consensus 1.1% | previous 4.20%"
+    },
+    {
+      "id": "mkt:019f65c1-6e8e-7aab-8da1-538e635eb130",
+      "time": "2026-07-15 20:30:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | PPI (MoM) (Jun) | actual -0.3% | consensus 0% | previous 1.10%"
+    },
+    {
+      "id": "mkt:019f65c1-62de-7aab-8da1-4825499b1da3",
+      "time": "2026-07-15 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | New York Fed Manufacturing Index (Jul) | actual 15.6 | consensus 8.8 | previous 5.7"
+    },
+    {
+      "id": "4989995",
+      "time": "2026-07-15 20:29:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：馬士基投資1億美元在波士頓地區新建配送中心，將創造近千個就業崗位並提升東北部配送能力。"
+    },
+    {
+      "id": "mkt:019f65c1-1f77-7aab-8da1-47232c294c3f",
+      "time": "2026-07-15 20:29:43",
+      "tags": [
+        "MKT News",
+        "MAERSK-B.CO",
+        "Impact bullish"
+      ],
+      "text": "Maersk will invest $100m to build a new distribution center in the Boston area, creating nearly 1,000 jobs and expanding its Northeast U.S. distribution capacity."
+    },
+    {
+      "id": "mkt:019f65c0-f717-7aab-8da1-3e4c89a7919a",
+      "time": "2026-07-15 20:29:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "Morgan Stanley CFO said activity in Asian markets including Hong Kong, Japan, South Korea and India drove record equities revenue."
+    },
+    {
+      "id": "4989994",
+      "time": "2026-07-15 20:29:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿達尼表示，美國投資與美國司法部撤銷此案的舉動“無關”。"
+    },
+    {
+      "id": "4989993",
+      "time": "2026-07-15 20:28:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長鑫科技：第五代工藝技術平臺目前處於研發階段】7月15日，長鑫科技科創板發行並上市網上投資者交流會舉行。長鑫科技副總裁、董事會秘書袁園表示，公司第五代工藝技術平臺及相關產品目前處於研發階段。該平臺採用進一步最佳化的多重曝光技術，進一步提升儲存密度和陣列效能。公司研發團隊正在積極推進相關工藝和產品技術的開發工作。"
+    },
     {
       "id": "mkt:019f65be-e27f-7aab-8da1-36e85f0f4697",
       "time": "2026-07-15 20:27:16",
