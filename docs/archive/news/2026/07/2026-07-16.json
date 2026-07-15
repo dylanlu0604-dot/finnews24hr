@@ -1,7 +1,54 @@
 {
   "date": "2026-07-16",
-  "count": 104,
+  "count": 108,
   "items": [
+    {
+      "id": "mkt:019f66cf-f0aa-7aab-8dad-289c0ccc424d",
+      "time": "2026-07-16 01:25:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "7012.T"
+      ],
+      "text": "Nikkei reports NVIDIA (NVDA.O) and Kawasaki Heavy Industries will partner to build a shipyard in Japan fitted with AI and robotics."
+    },
+    {
+      "id": "4990538",
+      "time": "2026-07-16 01:24:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【郭明錤：蘋果下半年上漲趨勢未變】天風國際證券分析師郭明錤表示，蘋果(AAPL.O)股價近期走勢符合其此前預期。在WWDC26召開前，他曾看好蘋果2026年下半年的股價表現，並認為只要蘋果長期增長邏輯不變，短期訊息變化不會改變股價趨勢。他指出，蘋果股價此前因WWDC26後市場獲利了結以及產品漲價訊息出現回撥，但在近期市場震盪中仍創下盤中新高，驗證了此前對蘋果股價走勢的判斷。"
+    },
+    {
+      "id": "mkt:019f66cf-335a-7aab-8dad-214c69f721ca",
+      "time": "2026-07-16 01:24:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Kuo: Apple's H2 2026 uptrend intact】TF International Securities analyst Ming‑Chi Kuo said recent price action in Apple (AAPL.O) aligns with his prior expectations and he remains constructive on H2 2026. He said that if Apple's long-term growth thesis remains intact, short-term news should not change the stock's trend. Shares pulled back after WWDC26 on profit-taking and reports of product price increases but still hit intraday highs amid recent volatility, which he said validates his prior view."
+    },
+    {
+      "id": "4990536",
+      "time": "2026-07-16 01:24:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）即將作出針對迪士尼的裁決，爭議圍繞《觀點》欄目及電視臺廣播牌照展開。"
+    },
     {
       "id": "mkt:019f66cd-cf95-7aab-8dad-1f228b20c389",
       "time": "2026-07-16 01:23:11",

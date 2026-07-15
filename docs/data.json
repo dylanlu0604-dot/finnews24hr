@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-16 01:24:02",
-  "count": 18655,
+  "updated": "2026-07-16 01:28:00",
+  "count": 18647,
   "items": [
+    {
+      "id": "mkt:019f66cf-f0aa-7aab-8dad-289c0ccc424d",
+      "time": "2026-07-16 01:25:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Regions",
+        "Japan & APAC",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "7012.T"
+      ],
+      "text": "Nikkei reports NVIDIA (NVDA.O) and Kawasaki Heavy Industries will partner to build a shipyard in Japan fitted with AI and robotics."
+    },
+    {
+      "id": "4990538",
+      "time": "2026-07-16 01:24:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【郭明錤：蘋果下半年上漲趨勢未變】天風國際證券分析師郭明錤表示，蘋果(AAPL.O)股價近期走勢符合其此前預期。在WWDC26召開前，他曾看好蘋果2026年下半年的股價表現，並認為只要蘋果長期增長邏輯不變，短期訊息變化不會改變股價趨勢。他指出，蘋果股價此前因WWDC26後市場獲利了結以及產品漲價訊息出現回撥，但在近期市場震盪中仍創下盤中新高，驗證了此前對蘋果股價走勢的判斷。"
+    },
+    {
+      "id": "mkt:019f66cf-335a-7aab-8dad-214c69f721ca",
+      "time": "2026-07-16 01:24:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Kuo: Apple's H2 2026 uptrend intact】TF International Securities analyst Ming‑Chi Kuo said recent price action in Apple (AAPL.O) aligns with his prior expectations and he remains constructive on H2 2026. He said that if Apple's long-term growth thesis remains intact, short-term news should not change the stock's trend. Shares pulled back after WWDC26 on profit-taking and reports of product price increases but still hit intraday highs amid recent volatility, which he said validates his prior view."
+    },
+    {
+      "id": "4990536",
+      "time": "2026-07-16 01:24:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會（FCC）即將作出針對迪士尼的裁決，爭議圍繞《觀點》欄目及電視臺廣播牌照展開。"
+    },
     {
       "id": "mkt:019f66cd-cf95-7aab-8dad-1f228b20c389",
       "time": "2026-07-16 01:23:11",
@@ -171603,104 +171650,6 @@
         "其他"
       ],
       "text": "瑞士央行行長：目前沒有推出零售型中央銀行數字貨幣的必要。"
-    },
-    {
-      "id": "4977439",
-      "time": "2026-07-09 01:27:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安： 作為北約空中警戒任務的一環，我方F-16戰機將於8月起部署至愛沙尼亞。 我國自去年10月接管北約科索沃維和部隊（KFOR）指揮權，該指揮工作將持續至2026年9月底。"
-    },
-    {
-      "id": "mkt:019f42c4-9cbc-7aab-8cfa-ed78b6bd5d9d",
-      "time": "2026-07-09 01:26:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General RUTTE said raising defense industrial output is vital and much work remains."
-    },
-    {
-      "id": "mkt:019f42c4-9194-7aab-8cfa-e445c693a592",
-      "time": "2026-07-09 01:26:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General Rutte said there is no need to change how NATO deals with Trump, adding allies knew what they were getting when they chose him."
-    },
-    {
-      "id": "mkt:019f42c4-2ee5-7aab-8cfa-de10e43c5fb0",
-      "time": "2026-07-09 01:26:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General Rutte said allies, after a brief dispute at the Ankara summit, have restored unity."
-    },
-    {
-      "id": "mkt:019f42c3-90c3-7aab-8cfa-d30ac5ff7ab8",
-      "time": "2026-07-09 01:25:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO Secretary-General RUTTE said open discussion strengthens NATO and that Russian President Putin should try the same in Russia."
-    },
-    {
-      "id": "4977438",
-      "time": "2026-07-09 01:25:22",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長：綜合考量之下，央行目前已滿足政府提出的要求，因此相關要求並不算苛刻。"
-    },
-    {
-      "id": "4977437",
-      "time": "2026-07-09 01:25:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特：擴大國防工業產能“至關重要”，仍有大量工作有待推進。"
-    },
-    {
-      "id": "4977436",
-      "time": "2026-07-09 01:25:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：無需調整與特朗普打交道的風格，盟友“當初選擇我時就清楚我是什麼樣的風格”。"
-    },
-    {
-      "id": "4977435",
-      "time": "2026-07-09 01:24:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約秘書長呂特：盟友們在經歷“一番爭執”後，在安卡拉峰會上凝聚共識、重新團結。"
-    },
-    {
-      "id": "4977434",
-      "time": "2026-07-09 01:24:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉漲，此前一度跌1.2%。"
-    },
-    {
-      "id": "4977433",
-      "time": "2026-07-09 01:24:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約秘書長呂特：開放討論讓北約更強大，普京應該在俄羅斯也這麼做。"
-    },
-    {
-      "id": "4977432",
-      "time": "2026-07-09 01:24:16",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "瑞士央行行長：瑞士央行對瑞銀全額資本支援的分析基於公開資料。"
     }
   ]
 }
