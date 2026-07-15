@@ -1,7 +1,96 @@
 {
   "date": "2026-07-15",
-  "count": 898,
+  "count": 908,
   "items": [
+    {
+      "id": "te:markets:566955",
+      "time": "2026-07-15 09:18:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Hits 3-Week Top — The Australian dollar strengthened to around $0.698, reaching more than a three-week high as softer-than-expected US inflation data weighed on the greenback and reduced expectations for further rate hikes by the Federal Reserve. Investors also looked past renewed US-Iran tensions after President Donald Trump threatened additional strikes and reinstated a US blockade against Tehran, focusing instead on Washington's decision to abandon its proposed levy on cargoes transiting the Strait of Hormuz, which improved risk sentiment. In Australia, expectations for further policy tightening remained subdued after the Reserve Bank’s three rate hikes since February. Markets currently price only a 20% chance of a rate hike in August and around 60% odds by December. Meanwhile, recent business surveys showed operating conditions remained soft in June and cost pressures continued to ease somewhat, while consumer confidence improved modestly in July, though will be challenged by rising fuel prices."
+    },
+    {
+      "id": "mkt:019f6359-eb53-7aab-8d8d-2db74aba4487",
+      "time": "2026-07-15 09:17:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Strike disrupts release process; BOC cancels media preview of rate decision】The Bank of Canada will not provide a pre-release media preview of Wednesday’s rate decision due to a union-planned protest in support of striking security staff. The decision will be posted on the BOC website at 21:45 Beijing time; reporting may be slightly delayed. About 50 unionized employees at the BOC’s Ottawa and Montreal offices have been on strike since June 23. The bank had moved the certified reporters’ waiting room to an alternate Ottawa site earlier this week; planned protests at that site prompted cancellation of the preview arrangement."
+    },
+    {
+      "id": "mkt:019f6359-be82-7aab-8d8d-275043704c23",
+      "time": "2026-07-15 09:17:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Container shipping index (Europe route) lead contract intraday gains narrowed to 2.00%, trading at 2,570.0 points."
+    },
+    {
+      "id": "mkt:019f6359-13e8-7aab-8d8d-1bd7e0fecb48",
+      "time": "2026-07-15 09:16:49",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【South Korea to mandate 30% cut in medium and heavy commercial vehicle emissions by 2030】South Korea on Tuesday announced a plan to require medium and heavy commercial vehicles to reduce greenhouse gas emissions by 30% by 2030, shifting from a voluntary mechanism to mandatory compliance to meet the country’s mid-term national climate target."
+    },
+    {
+      "id": "4988766",
+      "time": "2026-07-15 09:15:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7910，較上日調高80點】人民幣兌美元中間價報6.7910，較上日調高80點。"
+    },
+    {
+      "id": "4988765",
+      "time": "2026-07-15 09:15:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7910元。"
+    },
+    {
+      "id": "4988764",
+      "time": "2026-07-15 09:15:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東建工：公司不具備製造生產風電電機的能力】廣東建工7月15日在互動平臺表示，公司不具備製造生產風電電機的能力。"
+    },
+    {
+      "id": "4988763",
+      "time": "2026-07-15 09:15:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【羅博特科：ficonTEC將根據客戶需求彈性匹配產能，並有國內客戶的訂單】羅博特科7月15日在互動平臺表示，ficonTEC將根據客戶需求彈性匹配產能，並有國內客戶的訂單。"
+    },
+    {
+      "id": "4988762",
+      "time": "2026-07-15 09:15:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東建工：公司制儲氫規模較小，暫未參與向區域外市場輸送】廣東建工7月15日在互動平臺表示，公司制儲氫規模較小，暫未參與向區域外市場輸送。未來公司將持續關注氫能市場情況，積極尋找優質資源，拓展綠電制氫業務。"
+    },
+    {
+      "id": "4988761",
+      "time": "2026-07-15 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.45%，報24465.33點，高水124.60點。"
+    },
     {
       "id": "4988760",
       "time": "2026-07-15 09:14:25",
