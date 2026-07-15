@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-16 03:30:32",
-  "count": 18606,
+  "updated": "2026-07-16 03:34:36",
+  "count": 18607,
   "items": [
+    {
+      "id": "mkt:019f6745-af45-7aab-8daf-a7fea94639c6",
+      "time": "2026-07-16 03:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported a U.S. projectile struck a location near Iran's Bandar Abbas port."
+    },
+    {
+      "id": "mkt:019f6744-9e3c-7aab-8daf-9bea8b499908",
+      "time": "2026-07-16 03:32:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported sounds of explosions at Iran's Bandar Abbas port."
+    },
+    {
+      "id": "4990653",
+      "time": "2026-07-16 03:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普傾向於擴大在伊朗的軍事行動。"
+    },
+    {
+      "id": "4990652",
+      "time": "2026-07-16 03:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗阿巴斯港傳出爆炸聲。"
+    },
+    {
+      "id": "4990651",
+      "time": "2026-07-16 03:31:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：以色列正在輸掉在美國國內的輿論戰。"
+    },
+    {
+      "id": "4990650",
+      "time": "2026-07-16 03:31:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西咖啡出口商會：2026/27作物年度巴西咖啡出口量將達4500萬袋。"
+    },
     {
       "id": "mkt:019f6741-8ae5-7aab-8daf-96079373b6f4",
       "time": "2026-07-16 03:29:36",
@@ -171169,62 +171217,6 @@
         "公司"
       ],
       "text": "【Meta 將在艾伯塔省投建 130 億加後設資料中心，系加拿大首個佈局專案】Meta 於週三宣佈，將在加拿大艾伯塔省中部興建一座超大型資料中心，這也是該公司在加拿大落地的首個算力基地，用以快速擴充算力儲備，支撐全球人工智慧產業爆發式增長。Meta 表示，這座裝機容量 1 吉瓦的資料中心落戶斯特金縣，專案總投資額達 130 億加元（摺合 91.7 億美元）。本次艾伯塔專案落地後，Meta 全球資料中心總數將增至 33 座。Meta 週三透露，將全額出資配套建設發電設施與電網改造工程；這座資料中心耗電量約等同於 80 萬戶居民用電總量。"
-    },
-    {
-      "id": "mkt:019f4338-9b62-7aab-8cfd-8bf3ed9c6d02",
-      "time": "2026-07-09 03:33:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Timiraos: Fed divisions center on future path rather than current measures】Nick Timiraos said June FOMC minutes show even the most hawkish officials did not push for immediate action. Some participants judged a June rate increase might have been warranted but backed holding policy steady, suggesting disagreements are about the future policy path rather than near-term steps."
-    },
-    {
-      "id": "4977563",
-      "time": "2026-07-09 03:32:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta ：加拿大首個 Meta 資料中心專案破土動工，作為該專案組成部分，我方將投入約 6000 萬加元資金。"
-    },
-    {
-      "id": "mkt:019f4337-6a7a-7aab-8cfd-86a4d91ce613",
-      "time": "2026-07-09 03:32:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Vance warns Iran closing Strait of Hormuz would trigger U.S. military response】U.S. Vice President Vance warned that if Iran attempts to close the Strait of Hormuz, the U.S. military will respond. He said the standing arrangement is that if Iran stops firing on vessels the U.S. will lift its blockade, but if Iran continues attacks the U.S. will strike back. Vance said Iran can comply or face what happened last night, and similar actions will continue until Iran reopens the waterway and ceases attacks on ships."
-    },
-    {
-      "id": "mkt:019f4336-65c5-7aab-8cfd-7a04d804ccf2",
-      "time": "2026-07-09 03:31:06",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) said it will build a C$13 bln (US$9.17 bln) data center in Sturgeon County, Alberta, with 1 GW of capacity; it will be the company's first data center in Canada."
-    },
-    {
-      "id": "4977562",
-      "time": "2026-07-09 03:30:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "Meta ：位於加拿大艾伯塔省斯特金縣、裝機容量 1 吉瓦的資料中心，將是 Meta 在加拿大落地的首個資料中心專案。"
     }
   ]
 }

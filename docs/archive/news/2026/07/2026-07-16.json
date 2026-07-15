@@ -1,7 +1,55 @@
 {
   "date": "2026-07-16",
-  "count": 281,
+  "count": 287,
   "items": [
+    {
+      "id": "mkt:019f6745-af45-7aab-8daf-a7fea94639c6",
+      "time": "2026-07-16 03:34:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported a U.S. projectile struck a location near Iran's Bandar Abbas port."
+    },
+    {
+      "id": "mkt:019f6744-9e3c-7aab-8daf-9bea8b499908",
+      "time": "2026-07-16 03:32:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported sounds of explosions at Iran's Bandar Abbas port."
+    },
+    {
+      "id": "4990653",
+      "time": "2026-07-16 03:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：特朗普傾向於擴大在伊朗的軍事行動。"
+    },
+    {
+      "id": "4990652",
+      "time": "2026-07-16 03:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗阿巴斯港傳出爆炸聲。"
+    },
+    {
+      "id": "4990651",
+      "time": "2026-07-16 03:31:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：以色列正在輸掉在美國國內的輿論戰。"
+    },
+    {
+      "id": "4990650",
+      "time": "2026-07-16 03:31:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西咖啡出口商會：2026/27作物年度巴西咖啡出口量將達4500萬袋。"
+    },
     {
       "id": "mkt:019f6741-8ae5-7aab-8daf-96079373b6f4",
       "time": "2026-07-16 03:29:36",
