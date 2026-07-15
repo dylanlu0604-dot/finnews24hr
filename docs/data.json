@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-16 02:23:34",
-  "count": 18606,
+  "updated": "2026-07-16 02:27:28",
+  "count": 18605,
   "items": [
+    {
+      "id": "te:markets:567306",
+      "time": "2026-07-16 02:25:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Spikes by 5.21% — Top commodity gainers are Wheat (5.21%), Canola (2.43%) and Corn (2.10%). Biggest loser is Lumber (-1.03%)."
+    },
+    {
+      "id": "4990582",
+      "time": "2026-07-16 02:25:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“十五五”時期基本建成天空地海一體化生態環境監測網路】生態環境部、國家發展改革委近日聯合印發《生態環境監測“十五五”規劃》（以下稱為《規劃》），為未來五年我國生態環境監測工作劃定路線圖，也為美麗中國建設築牢監測根基。《規劃》提出，到2030年，現代化生態環境監測體系建設取得重要進展。基本建成天空地海一體化生態環境監測網路，國家監測網路實現體系化執行和數智化升級，央地監測網路協同佈局、互聯互通。新汙染物、重金屬、生態問題等風險預警監測能力基本形成，資料質量持續提高。到2035年，基本建成現代化監測體系，生態環境監測綜合實力達到國際先進水平。（央視新聞）"
+    },
+    {
+      "id": "4990581",
+      "time": "2026-07-16 02:23:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼投資局：規模 52 億美元的阿曼未來基金公佈總值 17.44 億美元的一批專案。"
+    },
     {
       "id": "te:markets:567305",
       "time": "2026-07-16 02:20:19",
@@ -171222,46 +171249,6 @@
         "國際"
       ],
       "text": "伊朗與卡達官員通電話，商討霍爾木茲海峽相關事件。"
-    },
-    {
-      "id": "4977516",
-      "time": "2026-07-09 02:27:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國副總統萬斯談H1-B簽證：大公司利用其牟取利益。"
-    },
-    {
-      "id": "te:markets:565393",
-      "time": "2026-07-09 02:25:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 0"
-      ],
-      "text": "Dollar Lacks Direction — The dollar index was little changed around 101 on Wednesday, as investors assessed the latest escalation in Middle East tensions. President Trump said that \"as far as I'm concerned, the ceasefire is over,\" while threatening additional strikes on Iran and a blockade of the country's ports. The US also launched fresh strikes on Iran and revoked a waiver that had allowed the country to sell crude oil on global markets. These developments followed a series of attacks on tankers transiting the Strait of Hormuz in recent days. Oil prices surged again, reviving concerns about inflation and the prospect of monetary tightening. Reflecting this shift, traders increased their expectations for Fed rate hikes, with the implied probability of a September rate increase rising to around 69%, up from 58% the previous day. Meanwhile, minutes from the latest FOMC meeting showed that policymakers were divided over the future path of interest rates and discussed a range of economic scenarios."
-    },
-    {
-      "id": "4977515",
-      "time": "2026-07-09 02:25:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：美國勞工部今日已就H-1B簽證事宜發出數十份調查傳票。"
-    },
-    {
-      "id": "te:markets:565392",
-      "time": "2026-07-09 02:25:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Butter Soars by 6.00% — Top commodity gainers are Butter (6%), Cocoa (4.86%) and Canola (3.16%). Biggest losers are Corn (-2.10%) and Wheat (-1.98%)."
     }
   ]
 }
