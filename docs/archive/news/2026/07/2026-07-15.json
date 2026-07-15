@@ -1,7 +1,68 @@
 {
   "date": "2026-07-15",
-  "count": 808,
+  "count": 814,
   "items": [
+    {
+      "id": "4988701",
+      "time": "2026-07-15 08:27:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國AI股票頻頻暴漲急跌 凸顯槓桿過度擴張的威力】韓國AI驅動的股市繁榮正在變成一個警示故事：當槓桿成為比基本面更強大的市場力量時會發生什麼。SK海力士週一創紀錄暴跌15%，迫使與韓國晶片製造商掛鉤的槓桿產品經理拋售數十億美元股票，從最初全球重新評估AI估值演變成為一場市場大跌。這波拋售助推韓國Kospi指數在短短三週內下跌25%，暴露出保證金貸款、單隻槓桿交易所交易基金(ETF)和集中的指數權重如何相互影響，放大市場的雙向波動。在首爾之外，全球其他地區也越來越關注這些動態。韓國處於人工智慧硬體供應鏈的中心，SK海力士和三星電子在Kospi指數中所佔權重超過一半。現在SK海力士透過美國存託憑證可以在美國市場進行交易，投資者表示，市場情緒可能全天候在華爾街和亞洲之間波動，這增加了韓國槓桿引發的市場波動蔓延至全球的風險。週三，這種反饋迴圈再次上演，Kospi指數上漲超過7%，受SK海力士股價的反彈帶動，此前該公司ADR上漲了27%。"
+    },
+    {
+      "id": "4988700",
+      "time": "2026-07-15 08:26:34",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【SK海力士股價大漲近12% 跟隨美股漲勢】週三上午，SK海力士股價在首爾股市早盤交易中飆升逾11.8%，這既受到美國通脹資料低於預期後美股科技股隔夜上漲的帶動，也得益於巴克萊銀行首次對其釋出研究報告。巴克萊對該公司新上市的美國存託憑證（ADRs） 給予“增持”評級，目標價為每股330美元；該股週二在納斯達克市場大漲近28%，收於193.92美元。韓國基準股指KOSPI上漲6.9%。"
+    },
+    {
+      "id": "mkt:019f632a-660f-7aab-8d8c-78ce561e2d32",
+      "time": "2026-07-15 08:25:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【CITIC Securities remains broadly bullish on China’s domestic AI compute supply chain】CITIC Securities says WAIC 2026 will be held in Shanghai July 17-20, with 112 AI forum sessions (64% of total) and two major tracks—AI compute and embodied intelligence—each attracting over 200 firms. Market-relevant takeaways: Tianshu Zhixin and others are set to unveil new compute chips that could speed commercialization; 10,000- and 100,000-card supernodes on display point to world-leading domestic system-level compute capacity, supporting cloud training; AI edge deployments and application rollouts continue; large models and AI infrastructure tech will be showcased. CITIC Securities therefore maintains a bullish stance on China’s domestic AI compute supply chain."
+    },
+    {
+      "id": "4988699",
+      "time": "2026-07-15 08:25:38",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：休閒出海方興未艾 聚焦“三消”與“二合”賽道】中信證券研報稱，全球手遊進入存量競爭，但休閒遊戲並非全面擴張，而是由混合化與二合賽道驅動的結構性增長。三消遊戲（Match-3）憑藉成熟使用者心智和長生命週期運營維持近50億美元收入基本盤，二合遊戲（Merge-2）則透過訂單經濟、資源迴圈、劇情內容和高頻LiveOps提升單使用者價值，成為當前益智賽道最具彈性的增長方向。中國廠商正將SLG（Simulation Game，即策略類遊戲）時代積累的數值運營、工業化買量和全球發行能力遷移至休閒賽道，部分廠商已率先實現突破。"
+    },
+    {
+      "id": "mkt:019f632a-2fb1-7aab-8d8c-7107daa2dec6",
+      "time": "2026-07-15 08:25:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "Copper",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Huatai Securities flags three earnings-period signals: AI, price rises, manufacturing】Huatai Securities says focus for the earnings season is on three signals: the AI value chain, beneficiaries of price increases, and manufacturing exports. Interim earnings pre-announcement disclosure rates remain low; sectors with higher disclosure and positive surprise rates include petrochemicals, non-bank financials, nonferrous metals, chemicals and electronics. Median YoY net-profit growth in current previews is highest in agriculture, petrochemicals, military, computers and media, though rankings may change as disclosure rises. Over the past month, upward revisions were largest in coal, building materials, electronics, telecoms and chemicals; revision breadth was widest in building materials, coal, nonferrous metals, telecoms and machinery. Micro-level signals of improving cyclical momentum concentrate in the AI chain (components, semiconductors, optical communications, optoelectronics, gaming), price-rise chains (shipping, fiberglass, coal, paper, select chemicals, copper) and manufacturing export names (maritime equipment, general automation, batteries, construction machinery)."
+    },
+    {
+      "id": "4988698",
+      "time": "2026-07-15 08:24:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：繼續全面看好國產算力產業鏈】中信證券研報稱，7月17日-20日，2026世界人工智慧大會（WAIC 2026）將在上海舉辦，AI三大板塊論壇共112場，佔比64%，AI智算、具身智慧兩大賽道各匯聚超200家企業。本次大會聚焦四大看點：1）天數智芯等企業新算力晶片產品釋出，商業化程序有望提速；2）萬卡、十萬卡超節點亮相，國內系統級算力水平世界領先，助力雲端訓練等場景持續推進；3）AI端側及AI應用持續落地；4）大模型及其他AI基礎設施相關技術亮相。大模型與AI基礎、算力晶片、前沿科技持續迭代推動，我們繼續全面看好國產算力產業鏈。"
+    },
     {
       "id": "4988697",
       "time": "2026-07-15 08:24:16",
