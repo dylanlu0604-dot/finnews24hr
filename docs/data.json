@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-15 12:42:35",
-  "count": 18777,
+  "updated": "2026-07-15 12:46:38",
+  "count": 18772,
   "items": [
+    {
+      "id": "4989101",
+      "time": "2026-07-15 12:45:45",
+      "tags": [
+        "宏觀",
+        "觀點"
+      ],
+      "text": "【高盛：隨著襲擊事件再度發生 海灣地區石油供應恢復前景尚不明朗】高盛週二在一份報告中表示，波斯灣石油出口若再次中斷，短期內可能繼續對油價構成上行壓力；並補充稱，即使地緣政治局勢緩和，石油供應恢復的下一階段仍存在不確定性，且速度可能慢於最初的反彈。高盛估計，在6月美伊簽署諒解備忘錄後，海灣地區石油出口量曾回升至戰前水平的80%以上，但在霍爾木茲海峽發生新一輪油輪襲擊事件後，過去一週出口量又回落至50%以下，即約1100萬桶/日(bpd)。高盛強調了其對布倫特原油價格預測（2026年第四季度為80美元，2027年為75美元）所面臨的雙向風險。該行表示，如果海灣地區原油出口復甦繼續停滯，布倫特原油價格在今年第四季度可能突破110美元。不過，該行表示，如果地區緊張局勢緩解且產量恢復速度快於預期，油價到年底可能跌至60美元區間。"
+    },
     {
       "id": "4989100",
       "time": "2026-07-15 12:41:45",
@@ -171993,67 +172002,6 @@
         "Impact bullish"
       ],
       "text": "【Capital Economics: RBNZ begins long tightening cycle, expects hikes every other meeting】RBNZ raised rates as expected on Wednesday and said policy must be gradually returned to neutral, while adding further hikes are possible but timing is highly uncertain. Capital Economics economist Abhijit Surya says the bank's caution aligns with his view that the official cash rate (OCR) will be raised roughly every other meeting, peaking at 3.25% by end-2027."
-    },
-    {
-      "id": "te:economy:565090",
-      "time": "2026-07-08 12:46:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Netherlands",
-        "Personal Spending",
-        "Importance 2"
-      ],
-      "text": "Dutch Household Spending Growth Strongest in Over a Year — Household consumption in the Netherlands rose by 1.8% year-on-year in May 2026, accelerating from a 1.0% increase in April and marking the strongest growth since February 2025. The increase was driven by higher spending across most categories, with consumer goods purchases rising 3.8% from a year earlier (vs 2.3% in April). Durable goods recorded the strongest growth, up 6.4% (vs 4.4%), as households bought more cars, shoes, clothing, and household goods. Spending on food, beverages and tobacco also strengthened, rising 2.0% (vs 0.7%), while consumption of other goods increased 1.4% (vs 0.5%). Meanwhile, household consumption services edged higher by 0.3% after remaining unchanged in April, supported by increased spending on transport and communication, medical services, and housing. However, households spent less in the hospitality sector and on recreation and culture. Spending on services accounts for well over half of total domestic household consumption expenditure."
-    },
-    {
-      "id": "4975651",
-      "time": "2026-07-08 12:45:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿布扎比國家石油公司與韓國簽署協議 擴大原油供應】阿布扎比國家石油公司（ADNOC）宣佈，已與韓國簽署協議，擴大在原油供應、應急供應協調和戰略原油儲存領域的合作。包括向韓國供應至多2400萬桶阿聯酋原油。阿布扎比國家石油公司和韓國計劃支援增加對國內煉油廠的長期原油供應，加強在緊急情況下的合作，並促進韓國境內國際聯合原油儲備方面的合作。"
-    },
-    {
-      "id": "4975650",
-      "time": "2026-07-08 12:44:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "視源股份：公司於2026年7月7日向香港聯交所更新遞交了本次發行並上市的申請，並於同日在香港聯交所網站刊登了相關申請資料。"
-    },
-    {
-      "id": "4975649",
-      "time": "2026-07-08 12:44:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "【機構：紐西蘭央行開啟漫長的緊縮週期】紐西蘭央行週三加息，並重申需要逐步將政策恢復至中性立場。但儘管該行表示在接下來的會議上可能會進一步加息，該行指出，“具體時間存在高度不確定性。“凱投宏觀經濟學家Abhijit Surya表示，該行的謹慎做法與他的觀點相符，即未來官方隔夜拆款利率將在大約每隔一次會議上上調一次，直到2027年底達到3.25%的峰值。"
-    },
-    {
-      "id": "mkt:019f4009-e4d9-7aab-8ce0-db2405b1a4cf",
-      "time": "2026-07-08 12:43:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "USDJPY"
-      ],
-      "text": "【KDI: Chip boom offsets manufacturing weakness, Korea still on recovery path】The Korean Development Institute (KDI) said Korea’s economy remains on a recovery track as a chip boom offsets broader manufacturing weakness. Strong AI-related demand drove exports, with June shipments rising to $102.25bn, up 70.9% YoY and a record high — the first month above $100bn. Semiconductor export value nearly tripled to $44.82bn, and monthly semiconductor exports topped $40bn for the first time; KDI noted semiconductor volume growth has slowed but price rises have kept export values strong. Manufacturing output edged down as semiconductor momentum cooled and other sectors stayed weak. KDI warned higher oil prices and a weaker won could sustain upward price pressure, increasing the risk of further rate hikes and weighing on consumer recovery."
-    },
-    {
-      "id": "4975648",
-      "time": "2026-07-08 12:43:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗將騰訊的目標價從763.00港元下調至758.00港元。花旗稱，由於其AI專案的成本高昂且可能無法預測，騰訊可能繼續評估其投資組合。"
     }
   ]
 }
