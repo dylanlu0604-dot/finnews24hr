@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-16 04:31:42",
+  "updated": "2026-07-16 04:35:37",
   "count": 18623,
   "items": [
+    {
+      "id": "4990735",
+      "time": "2026-07-16 04:33:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok Build現已開源。"
+    },
+    {
+      "id": "mkt:019f677b-b34c-7aab-8db0-6a7329350285",
+      "time": "2026-07-16 04:33:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceXAI open-sources a Grok build and launches a coding agent and TUI."
+    },
+    {
+      "id": "mkt:019f677b-3fc8-7aab-8db0-6316f349659d",
+      "time": "2026-07-16 04:32:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.43% at NY close on 15th】The dollar index (DXY) fell 0.43% to 100.488 at the New York close on the 15th. EUR/USD 1.1466 (prior 1.1423). GBP/USD 1.3536 (prior 1.3382). USD/JPY 162.05 (prior 162.20). USD/CHF 0.8047 (prior 0.8092). USD/CAD 1.4043 (prior 1.4067). USD/SEK 9.5898 (prior 9.6586)."
+    },
+    {
+      "id": "te:markets:567314",
+      "time": "2026-07-16 04:32:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Financial Stocks Weigh — The Ibovespa shed 0.4% to close at 176,011 on Wednesday following the release of a new election poll and amid escalating tensions in the Middle East. A Genial/Quaest survey showed President Lula leading Flávio Bolsonaro by eight percentage points in a hypothetical second-round runoff. Meanwhile, oil prices rose as the worsening US-Iran conflict continued to fuel concerns over global supply disruptions, reviving inflation worries. Most financial stocks traded lower, with Itaú down 1.1%. Axia lost 4.2% after Goldman Sachs lowered its forecast for the company's adjusted EBITDA, citing the recent decline in energy prices, which is expected to weigh on second-quarter results. Meanwhile, Ambev shed 1.5% despite receiving a \"buy\" recommendation from BB Investimentos. In contrast, Vale gained 0.7% as iron ore prices edged higher."
+    },
     {
       "id": "4990731",
       "time": "2026-07-16 04:29:11",
@@ -171283,52 +171325,6 @@
         "其他"
       ],
       "text": "禮來製藥：2026 財年第二季度收購研發智慧財產權相關稅前費用預估 28 億美元。 2026 年第二季度研發智慧財產權相關費用，GAAP 及非 GAAP 口徑每股預估 3.02 美元。"
-    },
-    {
-      "id": "te:markets:565407",
-      "time": "2026-07-09 04:35:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 1.11% Lower — The Dow Jones Index fell 586 points or 1.11 percent on Wednesday to close at 52339 points. Leading the losses are American Express (-3.80%), Sherwin-Williams (-3.49%) and Boeing (-3.03%)."
-    },
-    {
-      "id": "mkt:019f4370-acfc-7aab-8cfe-93043a9803a5",
-      "time": "2026-07-09 04:34:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "According to Iran's Nour, military sources said Iranian armed forces will launch a \"large-scale\" attack on U.S. military bases in the region \"soon\"."
-    },
-    {
-      "id": "4977603",
-      "time": "2026-07-09 04:34:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗努爾新聞網援引軍方訊息人士說法，伊朗武裝部隊不久後將對該地區美軍基地發動 “大規模” 襲擊。"
-    },
-    {
-      "id": "mkt:019f436e-a51a-7aab-8cfe-8ad53a2d14a8",
-      "time": "2026-07-09 04:32:32",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iranian media: coastal defense systems responding to US strikes】Iranian coastal defense systems near Port of Abbas, Qeshm Island and other locations are responding to attacks launched by US forces, Iranian media reported on the 8th. Late on the 8th, explosions were reported in Sirik, Port of Abbas and Chabahar, the outlets said."
     }
   ]
 }

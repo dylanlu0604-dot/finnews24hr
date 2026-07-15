@@ -1,7 +1,49 @@
 {
   "date": "2026-07-16",
-  "count": 375,
+  "count": 379,
   "items": [
+    {
+      "id": "4990735",
+      "time": "2026-07-16 04:33:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok Build現已開源。"
+    },
+    {
+      "id": "mkt:019f677b-b34c-7aab-8db0-6a7329350285",
+      "time": "2026-07-16 04:33:07",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "SpaceXAI open-sources a Grok build and launches a coding agent and TUI."
+    },
+    {
+      "id": "mkt:019f677b-3fc8-7aab-8db0-6316f349659d",
+      "time": "2026-07-16 04:32:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index down 0.43% at NY close on 15th】The dollar index (DXY) fell 0.43% to 100.488 at the New York close on the 15th. EUR/USD 1.1466 (prior 1.1423). GBP/USD 1.3536 (prior 1.3382). USD/JPY 162.05 (prior 162.20). USD/CHF 0.8047 (prior 0.8092). USD/CAD 1.4043 (prior 1.4067). USD/SEK 9.5898 (prior 9.6586)."
+    },
+    {
+      "id": "te:markets:567314",
+      "time": "2026-07-16 04:32:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Financial Stocks Weigh — The Ibovespa shed 0.4% to close at 176,011 on Wednesday following the release of a new election poll and amid escalating tensions in the Middle East. A Genial/Quaest survey showed President Lula leading Flávio Bolsonaro by eight percentage points in a hypothetical second-round runoff. Meanwhile, oil prices rose as the worsening US-Iran conflict continued to fuel concerns over global supply disruptions, reviving inflation worries. Most financial stocks traded lower, with Itaú down 1.1%. Axia lost 4.2% after Goldman Sachs lowered its forecast for the company's adjusted EBITDA, citing the recent decline in energy prices, which is expected to weigh on second-quarter results. Meanwhile, Ambev shed 1.5% despite receiving a \"buy\" recommendation from BB Investimentos. In contrast, Vale gained 0.7% as iron ore prices edged higher."
+    },
     {
       "id": "4990731",
       "time": "2026-07-16 04:29:11",
