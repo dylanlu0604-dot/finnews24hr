@@ -1,7 +1,28 @@
 {
   "date": "2026-07-16",
-  "count": 54,
+  "count": 56,
   "items": [
+    {
+      "id": "te:economy:567301",
+      "time": "2026-07-16 00:47:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Falls on US Treasury Pullback — The yield on Canada's 10-year bond eased to 3.54% from the near two-month high of 3.57% on July 14th, as the impact from the pullback in US Treasury offset support the Bank of Canada's robust economic outlook. US yields pulled back following the combination of soft CPI and PPI readings for June, erasing expectations that the Federal Reserve would hike rates in their next meeting. Still, a sharper decline for Canadian yields were prevented by relatively hawkish rhetoric by the Bank of Canada. The central bank held interest rates unchanged in their July meeting, as expected, but underscored that growth is set to remain robust in the coming quarters. This was combined with an upward revision to inflation projections this year as the war in the Middle East lifted energy costs."
+    },
+    {
+      "id": "mkt:019f66ac-c45d-7aab-8dac-686ebc4833a6",
+      "time": "2026-07-16 00:47:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump urges New York to immediately reverse data-center policy】President Trump said data centers are among the biggest future job drivers and called them money machines. He criticized New York Governor Kathy Hochul for halting construction and planned data-center projects in the state for political reasons, saying companies are now seeking sites in Alabama, Florida, Texas, Arizona and other states. Trump warned tax revenue and jobs will flow to lower-tax states, including Republican-led and some Democratic-led states, and urged New York to change its policy immediately."
+    },
     {
       "id": "mkt:019f66a8-a5a7-7aab-8dac-6395c0b85517",
       "time": "2026-07-16 00:42:36",

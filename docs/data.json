@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-16 00:45:30",
-  "count": 18699,
+  "updated": "2026-07-16 00:49:33",
+  "count": 18695,
   "items": [
+    {
+      "id": "te:economy:567301",
+      "time": "2026-07-16 00:47:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10-Year Yield Falls on US Treasury Pullback — The yield on Canada's 10-year bond eased to 3.54% from the near two-month high of 3.57% on July 14th, as the impact from the pullback in US Treasury offset support the Bank of Canada's robust economic outlook. US yields pulled back following the combination of soft CPI and PPI readings for June, erasing expectations that the Federal Reserve would hike rates in their next meeting. Still, a sharper decline for Canadian yields were prevented by relatively hawkish rhetoric by the Bank of Canada. The central bank held interest rates unchanged in their July meeting, as expected, but underscored that growth is set to remain robust in the coming quarters. This was combined with an upward revision to inflation projections this year as the war in the Middle East lifted energy costs."
+    },
+    {
+      "id": "mkt:019f66ac-c45d-7aab-8dac-686ebc4833a6",
+      "time": "2026-07-16 00:47:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Trump urges New York to immediately reverse data-center policy】President Trump said data centers are among the biggest future job drivers and called them money machines. He criticized New York Governor Kathy Hochul for halting construction and planned data-center projects in the state for political reasons, saying companies are now seeking sites in Alabama, Florida, Texas, Arizona and other states. Trump warned tax revenue and jobs will flow to lower-tax states, including Republican-led and some Democratic-led states, and urged New York to change its policy immediately."
+    },
     {
       "id": "mkt:019f66a8-a5a7-7aab-8dac-6395c0b85517",
       "time": "2026-07-16 00:42:36",
@@ -172009,55 +172030,6 @@
         "Impact bullish"
       ],
       "text": "OpenAI rolls out next-generation ChatGPT voice capability."
-    },
-    {
-      "id": "mkt:019f42a1-b172-7aab-8cf9-b708daf50f0b",
-      "time": "2026-07-09 00:48:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said Erdogan kept Turkey neutral at his request and did not take part in a war with Iran."
-    },
-    {
-      "id": "4977379",
-      "time": "2026-07-09 00:48:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "奈飛：精選定製影片將在美國、加拿大、英國、愛爾蘭、澳大利亞及紐西蘭上線。"
-    },
-    {
-      "id": "4977378",
-      "time": "2026-07-09 00:48:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛：8月3日起，所有訂閱層級的奈飛會員均可觀看來自頂級數字媒體品牌的精選影片。"
-    },
-    {
-      "id": "4977377",
-      "time": "2026-07-09 00:47:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：應我的請求，土耳其總統埃爾多安已讓土耳其置身伊朗戰爭之外。"
-    },
-    {
-      "id": "mkt:019f42a0-736e-7aab-8cf9-abb49916ae4e",
-      "time": "2026-07-09 00:47:19",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Trump: Will not enter a second war with Iran; not seeking a prolonged conflict】President Trump said he believes a war with Iran could break out again but any such conflict would end quickly; the U.S. is not seeking a long war. He warned the U.S. would retaliate if Iran attacked and said any military action would be carried out swiftly."
-    },
-    {
-      "id": "4977375",
-      "time": "2026-07-09 00:46:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：全新一代ChatGPT語音功能正式上線。"
     }
   ]
 }
