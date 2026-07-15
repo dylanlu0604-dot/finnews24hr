@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-16 00:12:57",
-  "count": 18793,
+  "updated": "2026-07-16 00:17:07",
+  "count": 18783,
   "items": [
+    {
+      "id": "mkt:019f668f-9d6a-7aab-8dac-0d31bf95d809",
+      "time": "2026-07-16 00:15:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SpaceX stock falls below IPO price for first time】On Wednesday SpaceX stock slipped below its IPO price for the first time, little more than a month after the company’s record-breaking listing. The shares had peaked at $225.64; the IPO raised about $85.7bn and valued the company at roughly $2.1trn at the close of its first trading day. Investors who bought at the IPO price are now showing unrealized losses, a development that could test market confidence in the stock."
+    },
+    {
+      "id": "mkt:019f668d-31c9-7aab-8dac-02aa4453201e",
+      "time": "2026-07-16 00:12:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "KEVIN WARSH said his focus is the real economy and that markets should respond to the real economy's performance rather than to Fed statements."
+    },
     {
       "id": "te:markets:567294",
       "time": "2026-07-16 00:12:02",
@@ -172790,121 +172810,6 @@
         "國際"
       ],
       "text": "特朗普：已指示包括洛克希德、雷神在內的美國國防企業建設新工廠。"
-    },
-    {
-      "id": "mkt:019f4284-4af6-7aab-8cf8-6c1574131995",
-      "time": "2026-07-09 00:16:33",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Sources said Abu Dhabi-based Etihad Airways is close to a deal to order 10 Boeing Co (BA.N) 787 aircraft."
-    },
-    {
-      "id": "mkt:019f4284-3a07-7aab-8cf8-66ab4c269bdc",
-      "time": "2026-07-09 00:16:29",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Trump said other NATO members' defense spending rose nearly $150bln in 2025, much of it spent on U.S.-made equipment."
-    },
-    {
-      "id": "4977305",
-      "time": "2026-07-09 00:15:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：其他北約成員國2025年國防開支驟增近1500億美元，其中大部分用於採購美國製造的裝備。"
-    },
-    {
-      "id": "4977304",
-      "time": "2026-07-09 00:15:04",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "訊息人士稱，阿布扎比的阿提哈德航空接近達成訂購10架波音787飛機的交易。"
-    },
-    {
-      "id": "mkt:019f4282-e8fa-7aab-8cf8-5e15a7514966",
-      "time": "2026-07-09 00:15:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TRUMP: We must accelerate production of defense equipment."
-    },
-    {
-      "id": "4977303",
-      "time": "2026-07-09 00:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們必須更快地生產防禦裝備。"
-    },
-    {
-      "id": "4977302",
-      "time": "2026-07-09 00:14:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "義大利總理梅洛尼：儘管近期雙方公開出現分歧、致使雙邊關係趨緊，但並不後悔與美國總統特朗普建立密切往來。"
-    },
-    {
-      "id": "te:markets:565375",
-      "time": "2026-07-09 00:14:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Drop Sharply — European stocks closed sharply lower on Wednesday, tracking a global equity downturn after Iran and the US exchanged new strikes and raised inflationary risks for the Eurozone. The Euro STOXX 50 fell 2.0% to 6,190 and the STOXX Europe 600 fell 1.8% to 634. The US moved to block Iran oil sales after the war was reignited and President Trump invalidated the current ceasefire. The resulting surge in fuel prices raised sovereign yields to reflect expectations that the ECB is likely to deliver more rate hikes this year. Santander and Deutsche Bank sank more than 5%. Also, UniCredit dropped 2.9% after it increased its stake Commerzbank, increasing the likelihood of a full takeover in the upcoming quarters. Meanwhile, the AI trade continued to be unwound as software companies came under new pressure, with SAP sliding 4%."
-    },
-    {
-      "id": "4977301",
-      "time": "2026-07-09 00:13:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 美國目前仍是北約出資最多的國家，且大幅領先其他成員國。"
-    },
-    {
-      "id": "mkt:019f4281-820c-7aab-8cf8-55e21d399c11",
-      "time": "2026-07-09 00:13:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said the NATO summit displayed strong unity."
-    },
-    {
-      "id": "mkt:019f4281-6833-7aab-8cf8-49eb40c2ca0c",
-      "time": "2026-07-09 00:13:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "President Trump said the US has put $1 trillion into the armed forces this year and will seek $1.5 trillion for the military next."
-    },
-    {
-      "id": "4977300",
-      "time": "2026-07-09 00:13:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：真希望我們能更快地製造武器，這樣我們就能快速出售了。"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "date": "2026-07-16",
-  "count": 26,
+  "count": 28,
   "items": [
+    {
+      "id": "mkt:019f668f-9d6a-7aab-8dac-0d31bf95d809",
+      "time": "2026-07-16 00:15:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SpaceX stock falls below IPO price for first time】On Wednesday SpaceX stock slipped below its IPO price for the first time, little more than a month after the company’s record-breaking listing. The shares had peaked at $225.64; the IPO raised about $85.7bn and valued the company at roughly $2.1trn at the close of its first trading day. Investors who bought at the IPO price are now showing unrealized losses, a development that could test market confidence in the stock."
+    },
+    {
+      "id": "mkt:019f668d-31c9-7aab-8dac-02aa4453201e",
+      "time": "2026-07-16 00:12:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "KEVIN WARSH said his focus is the real economy and that markets should respond to the real economy's performance rather than to Fed statements."
+    },
     {
       "id": "te:markets:567294",
       "time": "2026-07-16 00:12:02",
