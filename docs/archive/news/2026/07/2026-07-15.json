@@ -1,7 +1,105 @@
 {
   "date": "2026-07-15",
-  "count": 1017,
+  "count": 1027,
   "items": [
+    {
+      "id": "mkt:019f637b-9c68-7aab-8d8e-85a9ce42cc84",
+      "time": "2026-07-15 09:54:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed it attacked Kuwait's Mina Abdullah."
+    },
+    {
+      "id": "mkt:019f637b-66a5-7aab-8d8e-784eef89b3fa",
+      "time": "2026-07-15 09:54:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said the Strait of Hormuz will remain closed until \"the evil acts of the US end\"."
+    },
+    {
+      "id": "4988832",
+      "time": "2026-07-15 09:54:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱襲擊了科威特的阿卜杜拉港。"
+    },
+    {
+      "id": "4988831",
+      "time": "2026-07-15 09:54:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱霍爾木茲海峽將保持關閉，直至\"美國邪惡終結\"。"
+    },
+    {
+      "id": "4988830",
+      "time": "2026-07-15 09:53:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24587.182點；恒生科技指數現漲0.573%。"
+    },
+    {
+      "id": "4988829",
+      "time": "2026-07-15 09:53:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受第9號颱風“巴威”影響，渾河、柴河、清河、輝發河發生超保洪水】7月14日晚，國家防總副總指揮、水利部部長李國英在水利部松遼水利委員會主持專題會商，分析研判第9號颱風“巴威”影響及松花江、遼河流域汛情形勢，進一步安排部署松花江、遼河流域洪水防禦工作。李國英指出，受第9號颱風“巴威”影響，渾河、柴河、清河、輝發河發生超保洪水，松花江吉林段發生第1號洪水，遼河可能出現編號洪水，牡丹江可能出現超保洪水，流域內多條中小河流超警、超保，部分河流堤段可能出現漫頂。據預報，未來10天流域仍有降雨過程，因土壤含水量已飽和，降雨產匯流加快，發生中小河流洪水和山洪災害的風險增大，流域防汛形勢依然嚴峻複雜。李國英要求，強化松遼水利委員會統一聯合排程，會同四省區水利部門，按照“系統、科學、安全、精準”原則，排程豐滿、白山、大夥房、柴河、清河等骨幹水庫，充分發揮攔洪削峰錯峰作用。"
+    },
+    {
+      "id": "mkt:019f6379-b9e5-7aab-8d8e-70320185a6fe",
+      "time": "2026-07-15 09:52:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【Oil returns to highs; growth-stock valuations face renewed pressure】US CPI surprised to the downside, briefly lifting the Nasdaq as rate-hike odds eased, but the move reflected cooling Fed expectations rather than an end to the energy shock. If oil stays elevated, higher gasoline, transport and production costs could push up forward inflation (secondary inflation risk) and may force the Fed and other central banks to keep rates higher for longer, applying material downward pressure on high-valuation assets via reduced forward discounting. On Monday the S&P 500 energy sector rose about 3.2%, signalling rapid fund flows back into high-cash-flow, defensive energy and value names."
+    },
+    {
+      "id": "mkt:019f6378-6ec8-7aab-8d8e-6cf674578eb1",
+      "time": "2026-07-15 09:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said plans are underway to prepare measures and systems for offshore won trading by early next year."
+    },
+    {
+      "id": "4988828",
+      "time": "2026-07-15 09:51:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部長官：將在明年初之前制定離岸韓元交易的措施和系統。"
+    },
+    {
+      "id": "mkt:019f6378-4d2f-7aab-8d8e-664da956bace",
+      "time": "2026-07-15 09:50:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said the government plans to finalize all measures by early next year to enable inclusion in MSCI."
+    },
     {
       "id": "4988827",
       "time": "2026-07-15 09:50:39",

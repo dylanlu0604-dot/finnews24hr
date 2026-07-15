@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-15 09:51:25",
-  "count": 18729,
+  "updated": "2026-07-15 09:55:23",
+  "count": 18718,
   "items": [
+    {
+      "id": "mkt:019f637b-9c68-7aab-8d8e-85a9ce42cc84",
+      "time": "2026-07-15 09:54:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) claimed it attacked Kuwait's Mina Abdullah."
+    },
+    {
+      "id": "4988832",
+      "time": "2026-07-15 09:54:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱襲擊了科威特的阿卜杜拉港。"
+    },
+    {
+      "id": "mkt:019f637b-66a5-7aab-8d8e-784eef89b3fa",
+      "time": "2026-07-15 09:54:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said the Strait of Hormuz will remain closed until \"the evil acts of the US end\"."
+    },
+    {
+      "id": "4988831",
+      "time": "2026-07-15 09:54:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱霍爾木茲海峽將保持關閉，直至\"美國邪惡終結\"。"
+    },
+    {
+      "id": "4988830",
+      "time": "2026-07-15 09:53:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24587.182點；恒生科技指數現漲0.573%。"
+    },
+    {
+      "id": "4988829",
+      "time": "2026-07-15 09:53:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受第9號颱風“巴威”影響，渾河、柴河、清河、輝發河發生超保洪水】7月14日晚，國家防總副總指揮、水利部部長李國英在水利部松遼水利委員會主持專題會商，分析研判第9號颱風“巴威”影響及松花江、遼河流域汛情形勢，進一步安排部署松花江、遼河流域洪水防禦工作。李國英指出，受第9號颱風“巴威”影響，渾河、柴河、清河、輝發河發生超保洪水，松花江吉林段發生第1號洪水，遼河可能出現編號洪水，牡丹江可能出現超保洪水，流域內多條中小河流超警、超保，部分河流堤段可能出現漫頂。據預報，未來10天流域仍有降雨過程，因土壤含水量已飽和，降雨產匯流加快，發生中小河流洪水和山洪災害的風險增大，流域防汛形勢依然嚴峻複雜。李國英要求，強化松遼水利委員會統一聯合排程，會同四省區水利部門，按照“系統、科學、安全、精準”原則，排程豐滿、白山、大夥房、柴河、清河等骨幹水庫，充分發揮攔洪削峰錯峰作用。"
+    },
+    {
+      "id": "mkt:019f6379-b9e5-7aab-8d8e-70320185a6fe",
+      "time": "2026-07-15 09:52:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed",
+        "S&P500"
+      ],
+      "text": "【Oil returns to highs; growth-stock valuations face renewed pressure】US CPI surprised to the downside, briefly lifting the Nasdaq as rate-hike odds eased, but the move reflected cooling Fed expectations rather than an end to the energy shock. If oil stays elevated, higher gasoline, transport and production costs could push up forward inflation (secondary inflation risk) and may force the Fed and other central banks to keep rates higher for longer, applying material downward pressure on high-valuation assets via reduced forward discounting. On Monday the S&P 500 energy sector rose about 3.2%, signalling rapid fund flows back into high-cash-flow, defensive energy and value names."
+    },
+    {
+      "id": "mkt:019f6378-6ec8-7aab-8d8e-6cf674578eb1",
+      "time": "2026-07-15 09:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said plans are underway to prepare measures and systems for offshore won trading by early next year."
+    },
+    {
+      "id": "4988828",
+      "time": "2026-07-15 09:51:01",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部長官：將在明年初之前制定離岸韓元交易的措施和系統。"
+    },
+    {
+      "id": "mkt:019f6378-4d2f-7aab-8d8e-664da956bace",
+      "time": "2026-07-15 09:50:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's finance minister said the government plans to finalize all measures by early next year to enable inclusion in MSCI."
+    },
     {
       "id": "4988827",
       "time": "2026-07-15 09:50:39",
@@ -171238,205 +171336,6 @@
         "公司"
       ],
       "text": "MOMENTA執行長：目標明年實現盈虧平衡，2028 年實現盈利。"
-    },
-    {
-      "id": "mkt:019f3f6f-d11b-7aab-8cdc-290520ce7255",
-      "time": "2026-07-08 09:55:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A White House official said Lebanese President Aoun has been invited to visit on July 21."
-    },
-    {
-      "id": "4975367",
-      "time": "2026-07-08 09:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際能源署：今年全球天然氣消費量預計下降0.5%】國際能源署當地時間7日表示，受中東局勢減少天然氣供應、天然氣價格走高抑制需求的影響，今年全球天然氣消費量預計下降0.5%，摺合200億立方米。國際能源署稱，美伊衝突令霍爾木茲海峽的液化天然氣運輸量大幅減少，該航道此前承擔了全球約20%的液化天然氣運輸。（央視新聞）"
-    },
-    {
-      "id": "4975366",
-      "time": "2026-07-08 09:54:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【甘肅宕昌滑坡體總方量約1萬立方米】記者從甘肅省隴南市政府新聞辦8日上午舉行的新聞釋出會上獲悉，宕昌山體滑坡的滑坡點位於宕昌縣南河鎮任藏村上莊至大拉之間，地形高陡，滑坡體長約130米，滑坡面積約5400平方米，總方量約1萬立方米，屬於淺層堆積層土質滑坡體。（新華社）"
-    },
-    {
-      "id": "mkt:019f3f6f-13c8-7aab-8cdc-208149e2faf2",
-      "time": "2026-07-08 09:54:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Report: 65.3% of firms used AI in 2025 campus recruiting, up 12.7pp】51job 2026 Campus Recruitment White Paper: 65.3% of companies used AI tools in 2025 campus recruiting, a 12.7pp increase from 2024. AI-assisted interviews (33.1%) and automated resume screening (31.8%) were the most common applications. 73.5% of firms said AI resume screening significantly shortens initial screening time; 71.2% reported recruitment chatbots materially improve candidate response efficiency. Pharmaceutical/medical firms recorded the highest recognition of screening time savings at 93.8%."
-    },
-    {
-      "id": "mkt:019f3f6f-013f-7aab-8cdc-1d5494c44f5d",
-      "time": "2026-07-08 09:54:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US says it conducted new round of strikes on Iran】US Central Command said in a statement and video that US forces carried out a new round of offensive strikes on Iran, using precision-guided munitions to hit more than 80 targets, in what CENTCOM called a direct response to recent Iranian attacks on commercial vessels in the Strait of Hormuz. CENTCOM said strikes targeted Iranian air-defense systems, command-and-control networks, coastal radar sites and anti-ship missile capabilities, and that US forces destroyed over 60 small vessels belonging to the Islamic Revolutionary Guard Corps in the Strait and adjacent waters. CENTCOM named three merchant ships Iran previously attacked transiting the Strait — the Marshall Islands-flagged tanker Al Raqayat, the Saudi-flagged tanker Weddian and the Liberia-flagged Cyprus Prosperity — and said US forces remain at heightened readiness and will hold Iran accountable if it fails to comply or breaches any agreement."
-    },
-    {
-      "id": "4975365",
-      "time": "2026-07-08 09:54:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮據悉已邀請黎巴嫩總統奧恩於7月21日訪美。"
-    },
-    {
-      "id": "4975364",
-      "time": "2026-07-08 09:53:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【報告：65.3%的企業在校招中引入AI工具】前程無憂近日釋出的《2026校園招聘白皮書》顯示，2025年已有65.3%的企業在校招中引入AI工具，較2024年提升12.7個百分點。其中，AI輔助面試（33.1%）與簡歷篩選（31.8%）的應用最為廣泛。73.5%的企業認為AI簡歷篩選明顯縮短初篩時間，71.2%的企業反饋招聘客服機器人顯著提升候選人諮詢響應效率。製藥/醫療行業對AI簡歷篩選“明顯縮短初篩時間”的認可度最高，達93.8%。"
-    },
-    {
-      "id": "4975363",
-      "time": "2026-07-08 09:53:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方向巴林發射無人機。（AXIOS）"
-    },
-    {
-      "id": "4975362",
-      "time": "2026-07-08 09:53:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達40億港元。"
-    },
-    {
-      "id": "4975361",
-      "time": "2026-07-08 09:53:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋰礦概念震盪下挫 盛新鋰能逼近跌停】早盤鋰礦概念震盪下挫，盛新鋰能逼近跌停，融捷股份、天華新能、永杉鋰業、天齊鋰業、雅化集團均跌超6%。"
-    },
-    {
-      "id": "4975360",
-      "time": "2026-07-08 09:53:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【紡服行業板塊大幅調整，奧康國際跌停】紡服行業板塊大幅調整，奧康國際跌停，天創時尚、龍頭股份、*ST爾雅、金春股份、孚日股份、華升股份等跟跌。"
-    },
-    {
-      "id": "4975359",
-      "time": "2026-07-08 09:52:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱完成對伊朗新一輪打擊】美軍中央司令部最新發宣告及影片稱，美軍對伊朗發動新一輪進攻性打擊，動用精確制導彈藥命中80餘個目標，以此“直接回應伊朗近期對在霍爾木茲海峽航行的商船發起的襲擊”。宣告稱，美軍此次打擊目標涵蓋伊朗防空系統、指揮控制網路、沿岸雷達站點及反艦導彈作戰能力；此外，在海峽及周邊水域擊毀逾60艘伊朗伊斯蘭革命衛隊小型艦艇。 美軍，此前伊朗先後襲擊三艘途經霍爾木茲海峽的商船，分別為馬紹爾群島籍“阿爾·雷卡亞特”號油輪、沙烏地阿拉伯籍“韋迪安”號油輪及賴比瑞亞籍“塞普勒斯繁榮”號油輪。美軍中央司令部部隊繼續保持戰備態勢，“一旦伊方不遵守或違背協議，美方將隨時追究其責任”。"
-    },
-    {
-      "id": "4975358",
-      "time": "2026-07-08 09:52:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報8238.00點。"
-    },
-    {
-      "id": "mkt:019f3f6d-256d-7aab-8cdc-12ca7783a494",
-      "time": "2026-07-08 09:52:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish",
-        "SSE Composite",
-        "CSI300"
-      ],
-      "text": "China A-shares opened higher then reversed: ChiNext Index down 1.0%, Shenzhen Composite Index down 1.39%, Shanghai Composite Index down 0.23%."
-    },
-    {
-      "id": "4975357",
-      "time": "2026-07-08 09:52:20",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【在美國隔夜拋售後，韓國晶片股反彈，因晶片供應依然緊張】週三，韓國晶片製造商三星電子和SK海力士 的股價在早盤下跌後反彈，此前受對人工智慧驅動的晶片熱潮可持續性擔憂影響，市場出現大幅拋售，投資者趁低吸納。早盤交易中，三星電子一度上漲1.4%，SK海力士一度上漲5.8%，此前兩家公司曾分別下跌4.4%和5%，最初是跟隨隔夜美國半導體股的下跌走勢。分析師表示，財報季才剛剛開始，市場對晶片製造商 將交出強勁業績的預期依然不變。他們補充稱，預計第三季度記憶體晶片供應仍將緊張，這支撐了週二拋售後出現的逢低買入。圍繞SK海力士計劃在美國上市的樂觀情緒也提振了投資者信心。儘管如此，分析師們提醒稱，雖然短期內記憶體價格預計仍將對供應商有利，但受基數效應影響，2026年下半年的價格漲幅可能較上半年有所放緩。"
-    },
-    {
-      "id": "mkt:019f3f6c-be8b-7aab-8cdc-0c5211c279b8",
-      "time": "2026-07-08 09:51:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Vitol prepares Caracas office, betting on continuation of U.S.-Venezuela oil pact】Geneva-based trader Vitol is preparing to open a Caracas office to expand its role in Venezuelan oil exports following the U.S.-Venezuela oil pact reached earlier this year, sources said. Vitol and other traders have exported most of Venezuela’s output this year under agreements with state oil company PDVSA; the Caracas office would initially hire about 12 staff for trading roles, a move that signals confidence the oil arrangement will continue and could create additional commercial opportunities."
-    },
-    {
-      "id": "mkt:019f3f6c-a6c8-7aab-8cdc-02db21016769",
-      "time": "2026-07-08 09:51:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share duty-free sector rallied; Zhongbai Group hit the daily price limit, Lingnan Holdings had earlier hit the limit, and Dongbai Group and Wangfujing also advanced."
-    },
-    {
-      "id": "4975356",
-      "time": "2026-07-08 09:51:47",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中證1000股指期貨(IM)主力合約日內跌超1%】中證1000股指期貨(IM)主力合約日內跌超1%，現報8021.8點。"
-    },
-    {
-      "id": "4975355",
-      "time": "2026-07-08 09:51:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【半導體板塊震盪回落，滬矽產業跌超10%】半導體板塊震盪回落，滬矽產業跌超10%，銀河微電、西安奕材、臻寶科技、長電科技跟跌。"
-    },
-    {
-      "id": "4975354",
-      "time": "2026-07-08 09:51:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌1.00%，現報3872.761點；上證指數跌0.19%，現報3982.716點；深證成指跌1.34%，現報15021.274點。"
-    },
-    {
-      "id": "mkt:019f3f6c-5f9a-7aab-8cdb-fc1836d6f709",
-      "time": "2026-07-08 09:51:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said Iranian forces recently attacked three commercial vessels transiting the strait: Marshall Islands-flagged tanker \"Al Rukayat\", Saudi-flagged tanker \"Wedian\" and Liberia-flagged \"Cyprus Prosperity\". CENTCOM described the actions as unprovoked aggression that clearly and dangerously violated the ceasefire agreement and undermined freedom of navigation."
     }
   ]
 }
