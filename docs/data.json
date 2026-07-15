@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-15 20:24:23",
-  "count": 18637,
+  "updated": "2026-07-15 20:28:21",
+  "count": 18635,
   "items": [
+    {
+      "id": "mkt:019f65be-e27f-7aab-8da1-36e85f0f4697",
+      "time": "2026-07-15 20:27:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Tencent Cloud, RoboScience form strategic partnership on embodied-AI cloud】Tencent Cloud and embodied-intelligence firm RoboScience have signed a strategic cooperation to build an embodied-AI cloud and AI base spanning R&D, training and delivery. The partnership will focus on four areas: cloud computing and compute guarantee, large models and AI capabilities, audio/video and perception data, and IoT/device coordination. The parties will jointly launch the industry’s first cloud EaaS (Embodied-AI-as-a-Service) to accelerate embodied intelligence from technical innovation to scaled application."
+    },
+    {
+      "id": "4989992",
+      "time": "2026-07-15 20:27:06",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利首席財務官表示，中東局勢再度升級尚未對交易儲備造成影響。"
+    },
+    {
+      "id": "mkt:019f65be-bc9b-7aab-8da1-2fd5c98d5a67",
+      "time": "2026-07-15 20:27:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Morgan Stanley's CFO said the renewed escalation in the Middle East has not yet affected trading."
+    },
+    {
+      "id": "4989991",
+      "time": "2026-07-15 20:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊雲與RoboScience機器科學達成戰略合作】7月15日，騰訊雲與通用具身智慧企業RoboScience機器科學達成戰略合作。雙方將圍繞雲端計算與算力保障、大模型與AI能力、音影片與感知資料、物聯網與裝置協同四大方向展開合作，共同構建覆蓋研發、訓練與交付的具身智慧雲+AI底座，並聯合打造行業首個雲端EaaS（Embodied-AI-as-a-Service）具身智慧服務，加速具身智慧從技術創新走向規模化應用。"
+    },
+    {
+      "id": "4989990",
+      "time": "2026-07-15 20:26:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利首席財務官表示，財富管理業務的增長中有一半來自管理首次公開募股相關資產。"
+    },
+    {
+      "id": "4989989",
+      "time": "2026-07-15 20:26:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海口市政府、海南醫科大學、九州通醫藥集團簽署戰略合作協議】7月15日，海口市政府、海南醫科大學、九州通醫藥集團簽署戰略合作協議。根據協議內容，三方將共建全鏈條生物醫藥創新產業生態、聯合設立產業投資基金、打造創新藥械出海服務平臺及推動社群健康驛站等創新業務落地，進一步推動產學研用深度融合、加速大健康領域科技成果轉化與產業生態構建。"
+    },
+    {
+      "id": "4989988",
+      "time": "2026-07-15 20:25:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德國總理默茨談及下任歐洲央行行長：我認為短期內無需作出決定，拉加德履職表現十分出色。"
+    },
+    {
+      "id": "mkt:019f65bc-bdb3-7aab-8da1-25e27a961d00",
+      "time": "2026-07-15 20:24:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "German Chancellor Merz said there is no need in the short term to decide on the next European Central Bank president and that ECB President Lagarde has performed well."
+    },
     {
       "id": "4989987",
       "time": "2026-07-15 20:23:28",
@@ -171083,92 +171157,6 @@
         "國際"
       ],
       "text": "法國總統馬克龍在安卡拉北約峰會期間會見土耳其總統埃爾多安。"
-    },
-    {
-      "id": "4976842",
-      "time": "2026-07-08 20:28:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福賽科技：向特定物件發行股票申請獲深交所稽核透過】福賽科技公告，公司於2026年7月8日收到深圳證券交易所上市稽核中心出具的《關於蕪湖福賽科技股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求。後續深交所將按規定報中國證監會履行相關注冊程式。公司本次向特定物件發行股票事項尚需獲得中國證監會同意註冊後方可實施，最終能否獲得中國證監會同意註冊的決定及其時間尚存在不確定性。"
-    },
-    {
-      "id": "4976841",
-      "time": "2026-07-08 20:28:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【湖南黃金：擬發行股份收購黃金天嶽100%股權及中南冶煉100%股權，交易總價43.34億元】湖南黃金公告，公司擬透過發行股份方式購買湖南黃金集團及天嶽投資集團持有的黃金天嶽100%股權，以及湖南黃金集團持有的中南冶煉100%股權，交易總價為43.34億元。同時，擬向不超過35名特定投資者募集配套資金不超過10億元。本次交易構成關聯交易，但不構成重組上市。標的公司黃金天嶽主要從事萬古礦區礦權整合及金礦採選銷售，中南冶煉主要從事難處理金精礦的冶煉加工。"
-    },
-    {
-      "id": "4976840",
-      "time": "2026-07-08 20:27:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利將康卡斯特目標價從33美元下調至30美元。"
-    },
-    {
-      "id": "4976839",
-      "time": "2026-07-08 20:27:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【機構：在地緣政治不確定性之際，市場波動性料將上升】Algebris Investments的Gabriele Foa在一份報告中表示，隨著油價上漲和供應下降，市場在2026年剩餘時間裡可能面臨更高的波動性。美伊之間重新發生襲擊，以及美國總統特朗普關於伊朗停火協議結束的宣告，引發了人們對潛在石油供應衝擊的新擔憂。Foa表示，油價上漲、全球石油供應減少以及利率重新出現不穩定，可能會導致市場波動加劇。"
-    },
-    {
-      "id": "4976838",
-      "time": "2026-07-08 20:27:22",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根士丹利啟動對霍尼韋爾股票的跟蹤評級，給予其“持平”評級，目標價為255美元。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607083798592135",
-      "time": "2026-07-08 20:26:55",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國MBA抵押貸款申請上週下降2.2%】截至7月3日當週，美國抵押貸款銀行家協會(MBA)的抵押貸款申請指數下降2.2%，而前一週保持不變；購房抵押貸款申請指數下降0.6%，前一週增長0.5%；再融資抵押貸款申請下降4.1%，前一週下降0.7%。"
-    },
-    {
-      "id": "4976837",
-      "time": "2026-07-08 20:26:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Momenta創始人：2028年智駕滲透率有望突破60%】“隨著產品體驗的快速跨越，智駕系統的滲透率在未來幾年將加速突破，到2028年，智駕系統的市場滲透率可能達到50%-60%，甚至超過60%。”7月8日，在Momenta於港交所掛牌的上市儀式上，Momenta創始人兼CEO曹旭東向財新表示。"
-    },
-    {
-      "id": "te:markets:565292",
-      "time": "2026-07-08 20:26:31",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Drops on Middle East Escalation — Copper futures fell toward the $6 per pound mark on Wednesday, the lowest in two weeks, and tracking the pullback in base metals after the escalation in the Middle East war strengthened the dollar and hampered the outlook on global manufacturing. The US and Iran exchanged attacks, prompting Washington to block Iranian energy sales and President Trump to label the current ceasefire as invalid. Energy costs rose and lifted credit costs across the globe, hampering the outlook for manufacturing activity. The developments offset supply concerns for copper as the Middle East due to the shortage of sulphuric acid since the start of the conflict, essential in the copper refining process. This is partly because of higher exports from alternative sources, with Canadian export volumes of non-metallic minerals, which are led by sulphur, rising 50% on the month in May."
-    },
-    {
-      "id": "4976836",
-      "time": "2026-07-08 20:25:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【易方達中證港股通內地金融ETF：基金合同於7月8日生效】易方達中證港股通內地金融ETF公告稱，基金合同於2026年7月8日生效，募集期間為6月22日至7月3日，有效認購總戶數2584戶，淨認購金額2.32億元，認購資金利息1.76萬元，募集份額2.32億份。自合同生效日起，基金管理人開始管理該基金，將依法決定申購日期，自生效日起不超三個月開始辦理贖回，相關時間確定後將提前公告。"
-    },
-    {
-      "id": "4976835",
-      "time": "2026-07-08 20:24:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭總統於安卡拉北約峰會期間，與丹麥、愛沙尼亞、荷蘭敲定三份以無人機技術為核心的防務合作協議。"
     }
   ]
 }

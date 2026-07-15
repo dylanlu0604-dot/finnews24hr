@@ -1,7 +1,81 @@
 {
   "date": "2026-07-15",
-  "count": 2863,
+  "count": 2871,
   "items": [
+    {
+      "id": "mkt:019f65be-e27f-7aab-8da1-36e85f0f4697",
+      "time": "2026-07-15 20:27:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "China Tech Giants",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Tencent Cloud, RoboScience form strategic partnership on embodied-AI cloud】Tencent Cloud and embodied-intelligence firm RoboScience have signed a strategic cooperation to build an embodied-AI cloud and AI base spanning R&D, training and delivery. The partnership will focus on four areas: cloud computing and compute guarantee, large models and AI capabilities, audio/video and perception data, and IoT/device coordination. The parties will jointly launch the industry’s first cloud EaaS (Embodied-AI-as-a-Service) to accelerate embodied intelligence from technical innovation to scaled application."
+    },
+    {
+      "id": "mkt:019f65be-bc9b-7aab-8da1-2fd5c98d5a67",
+      "time": "2026-07-15 20:27:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Morgan Stanley's CFO said the renewed escalation in the Middle East has not yet affected trading."
+    },
+    {
+      "id": "4989992",
+      "time": "2026-07-15 20:27:06",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根士丹利首席財務官表示，中東局勢再度升級尚未對交易儲備造成影響。"
+    },
+    {
+      "id": "4989991",
+      "time": "2026-07-15 20:26:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊雲與RoboScience機器科學達成戰略合作】7月15日，騰訊雲與通用具身智慧企業RoboScience機器科學達成戰略合作。雙方將圍繞雲端計算與算力保障、大模型與AI能力、音影片與感知資料、物聯網與裝置協同四大方向展開合作，共同構建覆蓋研發、訓練與交付的具身智慧雲+AI底座，並聯合打造行業首個雲端EaaS（Embodied-AI-as-a-Service）具身智慧服務，加速具身智慧從技術創新走向規模化應用。"
+    },
+    {
+      "id": "4989990",
+      "time": "2026-07-15 20:26:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利首席財務官表示，財富管理業務的增長中有一半來自管理首次公開募股相關資產。"
+    },
+    {
+      "id": "4989989",
+      "time": "2026-07-15 20:26:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海口市政府、海南醫科大學、九州通醫藥集團簽署戰略合作協議】7月15日，海口市政府、海南醫科大學、九州通醫藥集團簽署戰略合作協議。根據協議內容，三方將共建全鏈條生物醫藥創新產業生態、聯合設立產業投資基金、打造創新藥械出海服務平臺及推動社群健康驛站等創新業務落地，進一步推動產學研用深度融合、加速大健康領域科技成果轉化與產業生態構建。"
+    },
+    {
+      "id": "4989988",
+      "time": "2026-07-15 20:25:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德國總理默茨談及下任歐洲央行行長：我認為短期內無需作出決定，拉加德履職表現十分出色。"
+    },
+    {
+      "id": "mkt:019f65bc-bdb3-7aab-8da1-25e27a961d00",
+      "time": "2026-07-15 20:24:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "German Chancellor Merz said there is no need in the short term to decide on the next European Central Bank president and that ECB President Lagarde has performed well."
+    },
     {
       "id": "4989987",
       "time": "2026-07-15 20:23:28",
