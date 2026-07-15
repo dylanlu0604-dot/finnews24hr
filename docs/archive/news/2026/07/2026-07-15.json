@@ -1,7 +1,104 @@
 {
   "date": "2026-07-15",
-  "count": 3591,
+  "count": 3602,
   "items": [
+    {
+      "id": "4990404",
+      "time": "2026-07-15 23:07:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 若特朗普試圖干預政策，我會專注履職、不予理會。"
+    },
+    {
+      "id": "4990403",
+      "time": "2026-07-15 23:06:45",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：我可不想與你們（國會山）分享有關我和總統溝通的情況。特朗普並未試圖干預政策制定工作。"
+    },
+    {
+      "id": "mkt:019f6650-bed6-7aab-8da9-7a54c025aa88",
+      "time": "2026-07-15 23:06:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv issues air-raid alert."
+    },
+    {
+      "id": "mkt:019f6650-85f0-7aab-8da9-73abda12f0e2",
+      "time": "2026-07-15 23:06:20",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said President Trump did not attempt to influence the Fed's execution of policy."
+    },
+    {
+      "id": "te:markets:567268",
+      "time": "2026-07-15 23:05:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Pare Gains — Crude oil pared early gains to trade below $79 a barrel on Wednesday, but escalating tensions in the Middle East continued to fuel supply concerns. The move followed another round of US strikes against Iran and the reinstatement of a naval blockade targeting Iranian ports near the Strait of Hormuz. US forces struck dozens of military assets along Iran's coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran's ability to disrupt shipping through the Strait of Hormuz. President Trump also pledged to intensify military operations until Iran halts attacks on vessels in the Strait and agrees to reopen the waterway. Meanwhile, on Tuesday, President Trump abandoned plans to impose a 20% fee on cargo transiting Hormuz, arguing that any forgone revenue would be more than offset by future investments from Gulf nations in the US. On the data front, EIA data showed that US crude inventories fell by 1.7 million barrels last week."
+    },
+    {
+      "id": "4990402",
+      "time": "2026-07-15 23:05:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民航上半年旅客運輸量達3.8億人次】記者從民航局瞭解到，今年上半年，民航全行業完成運輸總週轉量833.7億噸公里、旅客運輸量3.8億人次、貨郵運輸量507.3萬噸，同比分別增長6.4%、1%和6%。完成運輸飛行714.6萬小時、268.3萬架次，人為原因責任徵候萬時率同比下降20.6%。航班正常率93.5%。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f664f-7928-7aab-8da9-68893a46a5cc",
+      "time": "2026-07-15 23:05:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "When asked whether he had spoken with President Trump, Fed chair Kevin Warsh declined to comment, saying he would not disclose the contents of their conversation."
+    },
+    {
+      "id": "4990401",
+      "time": "2026-07-15 23:05:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：（被問及是否與特朗普有過交談） 無可奉告。"
+    },
+    {
+      "id": "4990400",
+      "time": "2026-07-15 23:04:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：控制中期通脹是美聯儲的工作職責。資產負債表應儘可能小，這樣在危機時可以擴張。"
+    },
+    {
+      "id": "mkt:019f664e-463e-7aab-8da9-613501acd453",
+      "time": "2026-07-15 23:03:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Egypt's prime minister said the country has purchased nearly 4.9 million tonnes of wheat since the start of the harvest season."
+    },
     {
       "id": "mkt:019f664d-f7ea-7aab-8da9-5bff5b1907ae",
       "time": "2026-07-15 23:03:33",
@@ -47,6 +144,14 @@
         "MKT News"
       ],
       "text": "【US embassy in Lebanon says Lebanon, Israel to start pilot-zone agreement within days】The US embassy in Beirut said on the afternoon of the 15th that Lebanon and Israel concluded two days of talks and have agreed on the structure and operating rules for a proposed pilot zone. Final procedural steps are imminent and implementation is expected within days. The embassy said the next phase will expand technical talks to implement all terms of the trilateral framework and pursue a comprehensive Lebanon‑Israel agreement. The sixth round of talks began in Rome on the 14th and focused on a pilot plan for Israeli forces to withdraw from two southern Lebanese pilot areas, with the Lebanese army to enter the vacated zones to ensure the absence of HEZBOLLAH weapons."
+    },
+    {
+      "id": "4990398",
+      "time": "2026-07-15 23:02:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美駐黎大使館：黎以就試點區達成的協議將在幾天內啟動】美國駐黎巴嫩大使館當地時間15日下午宣佈，黎巴嫩和以色列經過兩天的“富有成效的積極討論”後結束會談，雙方就擬議試點區的結構和運作準則達成一致。美大使館在一份宣告中表示，最後的程式步驟即將完成，預計將在未來幾天內開始實施。大使館補充說，下一階段將擴大技術會談的範圍，重點是落實三邊框架的所有條款，以達成黎巴嫩和以色列之間的全面協議。當地時間14日，以色列與黎巴嫩在義大利羅馬開始舉行第六輪談判。本輪談判為期兩天。本次談判重點聚焦一項試點計劃，即討論以軍從黎巴嫩南部兩個試點區域實施首批撤軍的具體落實方案。根據該計劃，黎巴嫩政府軍將進入以軍撤出的區域，以確保該地區沒有黎巴嫩真主黨的武器。（央視）"
     },
     {
       "id": "mkt:019f664c-0042-7aab-8da9-3bbda0bc2670",
