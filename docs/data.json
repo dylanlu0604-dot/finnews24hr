@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-16 05:02:59",
+  "updated": "2026-07-16 05:06:53",
   "count": 18625,
   "items": [
+    {
+      "id": "4990773",
+      "time": "2026-07-16 05:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【King Street對旗下對沖基金贖回設限】King Street Capital Management告知客戶，公司正大幅限制旗下主要對沖基金的贖回，並把希望退出的投資者轉入一個單獨載體，由後者逐步出售資產。這隻已有31年曆史的基金因業績平淡、客戶流失以及資深員工離職而處境艱難。目前其管理規模不足80億美元，低於十多年前的200億美元。King Street此舉“將使我們能夠有序管理和清算資產，並在最具吸引力的退出時點變現頭寸，”61歲的創始人Brian Higgins週三在致投資者信中寫道。"
+    },
+    {
+      "id": "4990770",
+      "time": "2026-07-16 05:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷在世界盃半決賽中以2-1擊敗英格蘭。"
+    },
+    {
+      "id": "mkt:019f6797-0e93-7aab-8db0-aaca85e4e478",
+      "time": "2026-07-16 05:03:00",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran reports US strikes; shells hit near pediatric cancer hospital in Ahvaz】Iranian state media reported explosions in Konarak (Sistan and Baluchestan) and Bandar Abbas (Hormozgan) late on July 15 into early July 16 after what they described as the US military’s second round of strikes in one day. Iranian state TV said multiple shells struck the vicinity of a pediatric cancer hospital in Ahvaz (Khuzestan); the hospital has begun a temporary evacuation and has contacted parents to remove patients."
+    },
     {
       "id": "mkt:019f6794-a534-7aab-8db0-a7fe71347eff",
       "time": "2026-07-16 05:00:22",
@@ -171299,32 +171327,6 @@
         "國際"
       ],
       "text": "【古巴全國電力系統恢復供電】古巴電力聯盟8日在社交媒體發表宣告說，古巴各省當天凌晨已重新接入國家電力系統，全國電力供應恢復。古巴電力聯盟6日在社交媒體釋出公告說，古巴電力系統發生全面斷電。受美國製裁影響，古巴長期以來難以進口燃料和維修嚴重老化的發電廠所需裝置，全國電力供應緊張。2024年10月以來，因電力設施故障、颶風侵襲等原因，古巴曾多次全國大停電。（央視新聞）"
-    },
-    {
-      "id": "4977620",
-      "time": "2026-07-09 05:06:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一名官員透露，美國正對伊朗實施的持續打擊行動規模預計將超過週二的襲擊。"
-    },
-    {
-      "id": "4977619",
-      "time": "2026-07-09 05:05:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "週三（7月8日）紐約尾盤（週四北京時間04:59），離岸人民幣（CNH）兌美元報6.8063元，較週二紐約尾盤跌28點，日內整體交投於6.7983-6.8102元區間。"
-    },
-    {
-      "id": "mkt:019f438b-cf46-7aab-8cfe-eb95ee73903b",
-      "time": "2026-07-09 05:04:23",
-      "tags": [
-        "MKT News",
-        "LLY.N",
-        "Impact bearish"
-      ],
-      "text": "Eli Lilly & Co (LLY.N) said it expects to record a $2.8 bln pre-tax charge in 2Q 2026 related to acquired R&D projects, equal to a $3.02 per-share impact."
     }
   ]
 }
