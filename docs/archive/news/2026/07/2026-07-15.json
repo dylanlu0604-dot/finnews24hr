@@ -1,7 +1,93 @@
 {
   "date": "2026-07-15",
-  "count": 1733,
+  "count": 1742,
   "items": [
+    {
+      "id": "4989266",
+      "time": "2026-07-15 14:51:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星釋出鈦金屬摺疊屏技術 下一代Galaxy Fold手機摺痕更淺、更耐用】三星電子週三公佈了一項用於下一代Galaxy摺疊手機的鈦基顯示技術。三星表示，該技術將降低摺疊屏摺痕的可見程度、提升螢幕耐用性，並使裝置實現更輕薄的設計和更高的能效表現。這項名為“Flex Titanium”的技術將首次應用於三星第八代摺疊屏智慧手機，該系列手機定於7月22日在倫敦舉行的釋出會上亮相。Flex Titanium技術凝聚了三星在七代摺疊屏裝置研發中積累的專業經驗，融合了顯示材料與精密機械工程領域的先進成果。該技術用鈦合金薄膜取代了OLED面板下方的聚合物薄膜，並搭配升級後的鈦合金板，構建出一種兼顧強度與柔韌性的雙重結構。"
+    },
+    {
+      "id": "mkt:019f648b-7103-7aab-8d96-7f74a2f5019a",
+      "time": "2026-07-15 14:51:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian government spokesman said U.S. strikes in southern Iran in recent days killed more than 30 civilians."
+    },
+    {
+      "id": "4989265",
+      "time": "2026-07-15 14:51:09",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【東方金誠：10年期美債收益率中樞大機率將繼續抬升】東方金誠7月15日釋出研究報告稱，預計在地緣風險重新升級推動下，10年期美債收益率將呈現震盪上行趨勢。首先，考慮到週末以來美伊緊張局勢進一步升級、週一伊朗宣佈霍爾木茨海峽關閉，國際油價預計將重新上漲，這將再度推升市場通脹以及加息預期，成為推動10年期美債收益率上行的核心因素。其次，美聯儲主席沃什將在本週出席國會半年度貨幣政策聽證會，預計其證詞基調大機率偏鷹，料將明確傳遞控制通脹的訊號，從而推升實際利率。不過，考慮到6月國際油價整體下行，預計6月美國CPI資料將較5月回落，這將在一定程度上抑制美債收益率的上行幅度。總體來看，在地緣衝擊與央行鷹派指引的疊加下，10年期美債收益率中樞大機率將繼續抬升。"
+    },
+    {
+      "id": "mkt:019f648b-1966-7aab-8d96-74c7558a0059",
+      "time": "2026-07-15 14:51:05",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "【Samsung unveils titanium-based foldable display tech; next-gen Galaxy fold to cut crease, boost durability】Samsung Electronics on Wednesday announced a titanium-based display technology for its next-generation Galaxy foldable phones. Branded Flex Titanium, Samsung says the technology will reduce visible crease depth, improve screen durability, enable thinner device designs and deliver higher energy efficiency. Flex Titanium will debut on the company’s eighth-generation Galaxy foldable smartphone at a July 22 launch in London. The solution replaces the polymer film beneath the OLED panel with a titanium-alloy thin film paired with an upgraded titanium-alloy plate, forming a dual structure that Samsung says balances strength and flexibility and builds on R&D from seven prior foldable generations."
+    },
+    {
+      "id": "mkt:019f648a-3197-7aab-8d96-696a73de7545",
+      "time": "2026-07-15 14:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "CSI300"
+      ],
+      "text": "The Chinese State Council Information Office will hold a press conference in 10 minutes to present 1H 2026 monetary policy implementation and financial statistics."
+    },
+    {
+      "id": "4989263",
+      "time": "2026-07-15 14:49:29",
+      "tags": [
+        "A股"
+      ],
+      "text": "A股銀行股普漲，重慶銀行漲4%，青農商行漲超3%，成都銀行、張家港行、瑞豐銀行、青島銀行、貴陽銀行、蘭州銀行、紫金銀行、蘇州銀行、南京銀行、民生銀行漲超2%。"
+    },
+    {
+      "id": "mkt:019f6489-9808-7aab-8d96-62163d05f5c1",
+      "time": "2026-07-15 14:49:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share bank stocks rose broadly. Chongqing Bank gained 4%, Qingdao Rural Commercial Bank rose over 3%, and Chengdu Bank, Bank of Zhangjiagang, Ruifeng Bank, Qingdao Bank, Guiyang Bank, Lanzhou Bank, Zijin Bank, Bank of Suzhou, Bank of Nanjing and China Minsheng Bank all rose more than 2%."
+    },
+    {
+      "id": "te:markets:567100",
+      "time": "2026-07-15 14:49:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Gas Prices Extend Gains — UK natural gas prices climbed past 130 pence per therm on Wednesday, the highest level in more than three months, as escalating tensions in the Middle East heightened concerns over LNG supplies. President Donald Trump warned that the US would target Iranian bridges and power infrastructure next week unless Tehran returns to negotiations. His warning came as US forces launched strikes on Iran for a fourth consecutive day and resumed a blockade of Iranian ports. Meanwhile, Trump backed away from an earlier threat to impose a 20% \"security\" fee on ships transiting the Strait of Hormuz, saying it would instead be replaced by Gulf state investments in the US. Concerns remain focused on Qatar, the region’s leading LNG exporter, as renewed disruptions to exports from the Ras Laffan complex could further tighten global LNG supply and complicate Europe's efforts to rebuild gas inventories ahead of winter."
+    },
     {
       "id": "mkt:019f6487-bc42-7aab-8d96-598065797eb7",
       "time": "2026-07-15 14:47:24",
@@ -17,6 +103,15 @@
         "國際"
       ],
       "text": "伊朗稱美國週三襲擊了布什爾市的三個區域。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607153807389321",
+      "time": "2026-07-15 14:46:57",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委：尚未觀察到第二輪通脹效應 政策保持靈活】歐洲央行管委會成員MartinKocher指出，儘管中東衝突再次爆發帶來外部衝擊，但目前尚未觀察到工資-物價螺旋上升等第二輪通脹效應。他強調，歐洲央行將根據最新資料和預期調整貨幣政策，並已做好在必要時採取行動的準備。"
     },
     {
       "id": "4989261",

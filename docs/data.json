@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-15 14:48:34",
-  "count": 18716,
+  "updated": "2026-07-15 14:52:36",
+  "count": 18713,
   "items": [
+    {
+      "id": "4989266",
+      "time": "2026-07-15 14:51:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三星釋出鈦金屬摺疊屏技術 下一代Galaxy Fold手機摺痕更淺、更耐用】三星電子週三公佈了一項用於下一代Galaxy摺疊手機的鈦基顯示技術。三星表示，該技術將降低摺疊屏摺痕的可見程度、提升螢幕耐用性，並使裝置實現更輕薄的設計和更高的能效表現。這項名為“Flex Titanium”的技術將首次應用於三星第八代摺疊屏智慧手機，該系列手機定於7月22日在倫敦舉行的釋出會上亮相。Flex Titanium技術凝聚了三星在七代摺疊屏裝置研發中積累的專業經驗，融合了顯示材料與精密機械工程領域的先進成果。該技術用鈦合金薄膜取代了OLED面板下方的聚合物薄膜，並搭配升級後的鈦合金板，構建出一種兼顧強度與柔韌性的雙重結構。"
+    },
+    {
+      "id": "mkt:019f648b-7103-7aab-8d96-7f74a2f5019a",
+      "time": "2026-07-15 14:51:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian government spokesman said U.S. strikes in southern Iran in recent days killed more than 30 civilians."
+    },
+    {
+      "id": "4989265",
+      "time": "2026-07-15 14:51:09",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【東方金誠：10年期美債收益率中樞大機率將繼續抬升】東方金誠7月15日釋出研究報告稱，預計在地緣風險重新升級推動下，10年期美債收益率將呈現震盪上行趨勢。首先，考慮到週末以來美伊緊張局勢進一步升級、週一伊朗宣佈霍爾木茨海峽關閉，國際油價預計將重新上漲，這將再度推升市場通脹以及加息預期，成為推動10年期美債收益率上行的核心因素。其次，美聯儲主席沃什將在本週出席國會半年度貨幣政策聽證會，預計其證詞基調大機率偏鷹，料將明確傳遞控制通脹的訊號，從而推升實際利率。不過，考慮到6月國際油價整體下行，預計6月美國CPI資料將較5月回落，這將在一定程度上抑制美債收益率的上行幅度。總體來看，在地緣衝擊與央行鷹派指引的疊加下，10年期美債收益率中樞大機率將繼續抬升。"
+    },
+    {
+      "id": "mkt:019f648b-1966-7aab-8d96-74c7558a0059",
+      "time": "2026-07-15 14:51:05",
+      "tags": [
+        "MKT News",
+        "005930.KS"
+      ],
+      "text": "【Samsung unveils titanium-based foldable display tech; next-gen Galaxy fold to cut crease, boost durability】Samsung Electronics on Wednesday announced a titanium-based display technology for its next-generation Galaxy foldable phones. Branded Flex Titanium, Samsung says the technology will reduce visible crease depth, improve screen durability, enable thinner device designs and deliver higher energy efficiency. Flex Titanium will debut on the company’s eighth-generation Galaxy foldable smartphone at a July 22 launch in London. The solution replaces the polymer film beneath the OLED panel with a titanium-alloy thin film paired with an upgraded titanium-alloy plate, forming a dual structure that Samsung says balances strength and flexibility and builds on R&D from seven prior foldable generations."
+    },
+    {
+      "id": "mkt:019f648a-3197-7aab-8d96-696a73de7545",
+      "time": "2026-07-15 14:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "CSI300"
+      ],
+      "text": "The Chinese State Council Information Office will hold a press conference in 10 minutes to present 1H 2026 monetary policy implementation and financial statistics."
+    },
+    {
+      "id": "4989263",
+      "time": "2026-07-15 14:49:29",
+      "tags": [
+        "A股"
+      ],
+      "text": "A股銀行股普漲，重慶銀行漲4%，青農商行漲超3%，成都銀行、張家港行、瑞豐銀行、青島銀行、貴陽銀行、蘭州銀行、紫金銀行、蘇州銀行、南京銀行、民生銀行漲超2%。"
+    },
+    {
+      "id": "mkt:019f6489-9808-7aab-8d96-62163d05f5c1",
+      "time": "2026-07-15 14:49:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "Mainland A-share bank stocks rose broadly. Chongqing Bank gained 4%, Qingdao Rural Commercial Bank rose over 3%, and Chengdu Bank, Bank of Zhangjiagang, Ruifeng Bank, Qingdao Bank, Guiyang Bank, Lanzhou Bank, Zijin Bank, Bank of Suzhou, Bank of Nanjing and China Minsheng Bank all rose more than 2%."
+    },
+    {
+      "id": "te:markets:567100",
+      "time": "2026-07-15 14:49:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Gas Prices Extend Gains — UK natural gas prices climbed past 130 pence per therm on Wednesday, the highest level in more than three months, as escalating tensions in the Middle East heightened concerns over LNG supplies. President Donald Trump warned that the US would target Iranian bridges and power infrastructure next week unless Tehran returns to negotiations. His warning came as US forces launched strikes on Iran for a fourth consecutive day and resumed a blockade of Iranian ports. Meanwhile, Trump backed away from an earlier threat to impose a 20% \"security\" fee on ships transiting the Strait of Hormuz, saying it would instead be replaced by Gulf state investments in the US. Concerns remain focused on Qatar, the region’s leading LNG exporter, as renewed disruptions to exports from the Ras Laffan complex could further tighten global LNG supply and complicate Europe's efforts to rebuild gas inventories ahead of winter."
+    },
     {
       "id": "mkt:019f6487-bc42-7aab-8d96-598065797eb7",
       "time": "2026-07-15 14:47:24",
@@ -17,6 +103,15 @@
         "國際"
       ],
       "text": "伊朗稱美國週三襲擊了布什爾市的三個區域。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607153807389321",
+      "time": "2026-07-15 14:46:57",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行管委：尚未觀察到第二輪通脹效應 政策保持靈活】歐洲央行管委會成員MartinKocher指出，儘管中東衝突再次爆發帶來外部衝擊，但目前尚未觀察到工資-物價螺旋上升等第二輪通脹效應。他強調，歐洲央行將根據最新資料和預期調整貨幣政策，並已做好在必要時採取行動的準備。"
     },
     {
       "id": "4989261",
@@ -171441,116 +171536,6 @@
         "Brent"
       ],
       "text": "【Analyst: Oil producers' window to monetize Middle East price spike is brief】Longode Bank analyst Robin Haworth says the window for oil companies to capitalize on higher prices linked to the Middle East conflict is very short. Major oil and gas stocks have not rerated significantly as investors view elevated profits as temporary. Haworth warns oil may be capped around $100/bbl, leaving limited upside. He sees opportunities in oilfield services to repair conflict damage. Structural capacity declines and Ukrainian strikes on Russian refineries are supporting refining margins, but as output and prices normalize he prefers financials, utilities and healthcare for more attractive opportunities."
-    },
-    {
-      "id": "4975888",
-      "time": "2026-07-08 14:52:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【曝特斯拉Cybercab搭載更強FSD】特斯拉正傾盡全部資源，為其專屬無人駕駛計程車搭載當下效能頂尖的車載晶片。Cybercab 不僅取消了傳統車載內飾硬體，據 Notateslaapp 報道，這款車型的算力平臺相位元斯拉現有量產家用車型，還完成了一次大規模效能升級。 報道援引一位非常可靠的訊息來源透露，即將量產的 Cybercab，搭載的 FSD 計算機效能，要強於目前 Model 3、Model Y 全系家用車所配備的版本。"
-    },
-    {
-      "id": "4975887",
-      "time": "2026-07-08 14:51:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紅利股逆勢活躍 山東高速觸及漲停創歷史新高】部分紅利股盤中逆勢活躍，山東高速觸及漲停，粵高速A漲近2%，雙雙創歷史新高，晉控煤業、山煤國際、廈門國貿、中國銀行、皖通高速漲幅靠前。"
-    },
-    {
-      "id": "4975886",
-      "time": "2026-07-08 14:51:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普再次威脅接管格陵蘭島 丹麥首相回應：誓言捍衛北約每一寸領土】丹麥首相弗雷澤裡克森表示，丹麥已做好保衛格陵蘭島這塊領土的準備。此前，美國總統特朗普重申希望美國控制格陵蘭島，並聲稱該島對美國安全具有戰略重要性。在北約峰會召開前夕，丹麥首相說道：“遺憾的是，美國在這一問題上的立場非常明確，而我們的立場也一如既往地明確。”“格陵蘭島當然是非賣品。”這位丹麥領導人提到了北約的核心原則——即《北大西洋公約》第五條款，該條款規定對一個成員國的攻擊即被視為對所有成員國的攻擊。她說：“如果我們當中的任何一方遭遇不測，大家都應當挺身而出，相互支援。”“我們已做好準備，捍衛北約的每一寸領土，包括我們自己的領土。”"
-    },
-    {
-      "id": "4975885",
-      "time": "2026-07-08 14:50:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇上半年財政收入逼近6000億】經濟大省江蘇財政實力雄厚，近年來財政收入穩居全國第二，僅次於廣東。江蘇近日率先披露當地今年上半年財政收支情況。 江蘇省財政廳資料顯示，2026年上半年，全省一般公共預算收入完成5941億元，增長1.8%。這一增速略高於去年同期（1.1%）。 根據今年江蘇省預算報告，江蘇今年全年一般公共預算收入預期目標為10450億元，增長2%。從實際執行情況看，上半年當地一般公共預算收入完成年初預算的57%，實現“時間過半、進度過半”，好於年初預期。毫無懸念，今年上半年江蘇省這一收入規模預計繼續穩居全國第二。 一般公共預算收入由稅收收入和非稅收入組成，其中與經濟關聯最為密切的稅收收入又是核心。（第一財經）"
-    },
-    {
-      "id": "4975884",
-      "time": "2026-07-08 14:50:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古巴外長痛斥美國代表是騙子】當地時間7月7日，聯合國大會就“必須終止美國對古巴實施的經濟、商業和金融封鎖”議題展開公開辯論，美國常駐聯合國代表華爾茲和古巴外長羅德里格斯爆發了激烈交鋒。華爾茲在發言中公然譏諷古巴革命，面對古巴代表團的現場敲桌抗議，華爾茲稱“這裡是美利堅合眾國，這裡是聯合國，我們要被聽見，你想敲就敲”。古巴外長羅德里格斯則在發言中痛斥華爾茲是“騙子”，並嚴厲譴責美國代表團此前試圖阻撓聯合國大會舉行本場辯論。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f407d-c3de-7aab-8ce3-afc7b1903444",
-      "time": "2026-07-08 14:50:11",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【Trump renews Greenland takeover threat; Danish PM vows to defend NATO territory】On the eve of the NATO summit, US President Trump reiterated he wants the United States to control Greenland, saying the island is strategically important to US security. Danish Prime Minister Mette Frederiksen responded that Greenland is not for sale, invoked NATO Article 5 and said Denmark stands ready to defend every inch of NATO territory, including Greenland."
-    },
-    {
-      "id": "4975883",
-      "time": "2026-07-08 14:50:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中東硝煙再起 美再以“商船遭襲”為由襲擊伊朗 伊議長痛斥美“違約”】當地時間8日凌晨，伊朗南部多地傳出爆炸聲。美軍中央司令部隨後釋出宣告稱，已完成對伊朗新一輪打擊；伊朗伊斯蘭革命衛隊表示，作為對美國“侵略”行為的“初步回應”，其在行動中打擊了85處美軍重要軍事設施。這是繼6月27日、28日後，美軍時隔10天再以“商船遭襲”為由襲擊伊朗。海灣國家巴林和科威特當天也拉響防空警報，霍爾木茲海峽戰火再起。伊朗伊斯蘭議會議長卡利巴夫8日在社交媒體上發文，強烈譴責美國“嚴重違反”伊美諒解備忘錄。卡利巴夫說，美國違反伊美諒解備忘錄的行為共有五項，分別是：破壞伊朗在霍爾木茲海峽的調整安排；持續威脅對伊朗發動進一步打擊；恢復石油制裁；對伊朗南部發動襲擊；以色列持續侵略黎巴嫩。卡利巴夫寫道：“霸凌與敲詐的時代已經結束。這條路走不通。我們不會屈服。”（央視新聞）"
-    },
-    {
-      "id": "mkt:019f407d-911c-7aab-8ce3-a4fb2c2621ed",
-      "time": "2026-07-08 14:49:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Some Chinese large AI models up to 90% cheaper than U.S. rivals; U.S. enterprise usage rising】CNBC reported on the 7th that rising pricing from leading U.S. AI vendors is prompting rapid uptake of Chinese large AI models in U.S. enterprise deployments on cost grounds. Industry sources say top Chinese open-source and open-weight models lag frontier U.S. models (OpenAI, Anthropic) by roughly 6–9 months on performance but are priced about 60%–90% lower and cover most routine AI tasks. Aggregator OpenRouter data shows Chinese models have accounted for over 30% of tokens called by U.S. firms each week since Feb. 8, peaking at 46%; the prior 12‑month token-share average was 11%."
-    },
-    {
-      "id": "4975882",
-      "time": "2026-07-08 14:49:54",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【三星投資的AI晶片公司Rebellions計劃明年在韓國進行首次公開募股】Rebellions公司執行長透露，公司計劃於明年第一季度或第二季度在韓國進行首次公開募股（IPO），以期抓住投資者對人工智慧晶片領域的巨大投資熱情。Rebellions執行長Sunghyun Park表示，公司傾向於在韓國主機板市場KOSPI上市，而非KOSDAQ。\"實際營收現已產生。這正是我們與承銷商摩根大通及三星證券籌備IPO的原因，\"Sunghyun Park週三表示。\"我們的投資者更傾向於韓國市場，特別是KOSPI市場，因為我們與韓國政府超級專案高度契合——該專案是全球規模最大的人工智慧基礎設施投資之一，\"他補充道。Park表示，公司也在評估其他上市方案，例如美國市場，目前正與紐約證券交易所和納斯達克進行談判。此前媒體曾報道Rebellions正計劃上市，但Park的表態首次披露了該計劃的具體細節。"
-    },
-    {
-      "id": "mkt:019f407c-d95b-7aab-8ce3-9987641748db",
-      "time": "2026-07-08 14:49:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Market implications if US reimposes sanctions on Iranian oil】If the US reimposes sanctions but buyers remain willing, Iran can still sell crude by discounting; revenue losses from lower prices could be offset by higher global oil prices from any new hostile actions. Since the blockade was lifted, Iran has sold about 100 mln barrels at roughly $65–70/bbl, netting approximately $4 bln. Only a renewed US naval blockade would likely stop those exports, but that would risk a wider military conflict."
-    },
-    {
-      "id": "4975881",
-      "time": "2026-07-08 14:48:57",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【東吳證券：首予冰輪環境“買入”評級，AIDC冷源賽道開啟成長空間】東吳證券研報指出，冰輪環境是中國製冷工業奠基企業，AIDC冷源賽道開啟成長空間。未來隨著AIDC冷水機組需求持續釋放，冰輪有望依託高階冷源產品+國內供應鏈協同，進一步強化業績彈性。公司作為國內製冷龍頭，食品冷鏈、能源化工、中央空調基本盤穩健，透過核心壓縮機自主配套+非標系統整合+海外本地化交付能力構築顯著競爭壁壘，有望持續受益AIDC驅動的冷源需求上行趨勢。預計公司2026-2028年歸母淨利潤為8.3/12.2/17.0億元，當前市值對應PE分別為63/43/31X，首次覆蓋給予“買入”評級。"
-    },
-    {
-      "id": "4975880",
-      "time": "2026-07-08 14:48:41",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：石油公司利用高油價的機會轉瞬即逝】隆奧的Robin Haworth表示，在中東衝突之際，石油公司利用原油價格上漲的機會轉瞬即逝。這位股票研究分析師表示，由於投資者認為利潤增加是暫時的，主要油氣公司的股票估值並未出現實質性擴張。Haworth在一份研究報告中稱，在油價上限可能在每桶100美元的情況下，股價進一步上漲的空間似乎有限。Haworth說，不過，在修復中東衝突造成的破壞方面，油田服務公司仍有機會。他補充說，結構性產能削減以及烏克蘭對俄羅斯煉油廠的襲擊正在支撐煉油行業的利潤率。Haworth補充說，然而，隨著石油產量和價格恢復正常，其他領域出現了更具吸引力的機會，即金融、公用事業和醫療健康板塊。"
     }
   ]
 }
