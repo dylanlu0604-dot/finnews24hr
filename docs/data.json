@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-16 03:50:37",
-  "count": 18621,
+  "updated": "2026-07-16 03:54:34",
+  "count": 18617,
   "items": [
+    {
+      "id": "4990684",
+      "time": "2026-07-16 03:52:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林謝赫伊薩美軍基地附近傳出爆炸聲。"
+    },
     {
       "id": "mkt:019f6753-1854-7aab-8daf-e656ae79625b",
       "time": "2026-07-16 03:48:46",
@@ -171296,50 +171304,6 @@
         "DXY"
       ],
       "text": "Iranian media report the air-defence system on Sirik Island has been activated."
-    },
-    {
-      "id": "4977575",
-      "time": "2026-07-09 03:53:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗阿巴斯港傳出爆炸聲】據伊朗邁赫爾通訊社報道，當地時間7月8日深夜，伊朗南部霍爾木茲甘省首府阿巴斯港傳出爆炸聲。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f434a-04a4-7aab-8cfd-c711bf0eca3c",
-      "time": "2026-07-09 03:52:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency reported sounds of explosions in Bandar Abbas, Hormozgan province, southern Iran late on July 8 local time."
-    },
-    {
-      "id": "mkt:019f4349-2d76-7aab-8cfd-bcd1890d3e7b",
-      "time": "2026-07-09 03:51:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. judge approved SEC settlement with Elon Musk over Twitter share-disclosure issues."
-    },
-    {
-      "id": "4977574",
-      "time": "2026-07-09 03:51:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國法官批准美國證券交易委員會與埃隆・馬斯克就推特資訊披露糾紛達成和解。"
-    },
-    {
-      "id": "4977573",
-      "time": "2026-07-09 03:50:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家公路交通安全管理局釋出宣告，要求自動駕駛企業解決無人駕駛車輛頻繁干擾執法人員及其他應急救援人員的突出共性問題。"
     }
   ]
 }
