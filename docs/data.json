@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-16 03:26:31",
-  "count": 18609,
+  "updated": "2026-07-16 03:30:32",
+  "count": 18606,
   "items": [
+    {
+      "id": "mkt:019f6741-8ae5-7aab-8daf-96079373b6f4",
+      "time": "2026-07-16 03:29:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "NewsNation reported that Trump said if a solution cannot be reached with Iran’s Islamic Revolutionary Guard Corps, the United States may seek to eliminate it as was done with ISIS."
+    },
+    {
+      "id": "4990647",
+      "time": "2026-07-16 03:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談以色列：我可以百分百確定，以色列政府內部部分人士正試圖推動美國調整現有政策，只因他們希望持續開展軍事行動。我們完全能夠證實，以色列體制記憶體在一部分人，一直在操縱輿論、試圖扭轉美國民眾態度，目的是讓戰爭無限期持續下去。重申一遍，他們沒有設定任何階段性目標，只是單純想讓戰事無休止延續。"
+    },
     {
       "id": "4990646",
       "time": "2026-07-16 03:24:13",
@@ -171205,56 +171225,6 @@
         "其他"
       ],
       "text": "Meta ：位於加拿大艾伯塔省斯特金縣、裝機容量 1 吉瓦的資料中心，將是 Meta 在加拿大落地的首個資料中心專案。"
-    },
-    {
-      "id": "4977561",
-      "time": "2026-07-09 03:30:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美國消費者信貸意外下降，2024年以來首次下滑】美國消費者信貸意外下降，2024年以來首次出現下滑，因迴圈信貸減少。美聯儲週三公佈的資料顯示，5月消費者未償信貸總額減少約1.82億美元，此前兩個月均大幅增加。受訪經濟學家預估中值為增加175億美元。信用卡等迴圈信貸餘額減少53億美元，為2024年以來最大降幅。汽車貸款和學生貸款等非迴圈信貸5月增加51億美元。該報告不包括抵押貸款。"
-    },
-    {
-      "id": "mkt:019f4334-8a54-7aab-8cfd-77408f8764c4",
-      "time": "2026-07-09 03:29:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "CNBC reports BlackRock's global head of fixed income, Reed, said he has reduced and rebalanced exposure to companies directly tied to artificial intelligence."
-    },
-    {
-      "id": "4977560",
-      "time": "2026-07-09 03:28:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "據NewsNation援引白宮官員訊息稱， 特朗普與內塔尼亞胡的會面目前暫未列入日程安排。 此前特朗普曾暗示，以色列總理內塔尼亞胡最早下週便可前往白宮。若此次成行，這將是特朗普開啟第二個總統任期以來，內塔尼亞胡第七次到訪美國。 同時也是美以聯合對伊朗開戰以來，內塔尼亞胡首次訪美。"
-    },
-    {
-      "id": "mkt:019f4333-1240-7aab-8cfd-6d0f8b7fc425",
-      "time": "2026-07-09 03:27:28",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "GBPUSD",
-        "USDJPY"
-      ],
-      "text": "【Dollar index slips 0.03% to 100.990 on 8th close】At the New York FX close the dollar index, measuring the dollar against six major currencies, slipped 0.03% to 100.990. EUR/USD rose to 1.1426 from 1.1419; GBP/USD to 1.3400 from 1.3363. USD/JPY climbed to 162.48 from 161.94. USD/CHF was unchanged at 0.8076. USD/CAD fell to 1.4169 from 1.4195. USD/SEK rose to 9.6903 from 9.6784."
-    },
-    {
-      "id": "mkt:019f4332-c8f0-7aab-8cfd-61b4f018dbc5",
-      "time": "2026-07-09 03:27:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NewsNation reports White House officials say Trump and Netanyahu have no meeting scheduled; Trump previously said Netanyahu could visit the White House as early as next week."
     }
   ]
 }

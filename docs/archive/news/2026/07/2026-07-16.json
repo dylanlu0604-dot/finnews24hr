@@ -1,7 +1,27 @@
 {
   "date": "2026-07-16",
-  "count": 279,
+  "count": 281,
   "items": [
+    {
+      "id": "mkt:019f6741-8ae5-7aab-8daf-96079373b6f4",
+      "time": "2026-07-16 03:29:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "NewsNation reported that Trump said if a solution cannot be reached with Iran’s Islamic Revolutionary Guard Corps, the United States may seek to eliminate it as was done with ISIS."
+    },
+    {
+      "id": "4990647",
+      "time": "2026-07-16 03:28:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯談以色列：我可以百分百確定，以色列政府內部部分人士正試圖推動美國調整現有政策，只因他們希望持續開展軍事行動。我們完全能夠證實，以色列體制記憶體在一部分人，一直在操縱輿論、試圖扭轉美國民眾態度，目的是讓戰爭無限期持續下去。重申一遍，他們沒有設定任何階段性目標，只是單純想讓戰事無休止延續。"
+    },
     {
       "id": "4990646",
       "time": "2026-07-16 03:24:13",
