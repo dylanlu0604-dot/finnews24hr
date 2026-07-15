@@ -1,7 +1,55 @@
 {
   "date": "2026-07-16",
-  "count": 379,
+  "count": 384,
   "items": [
+    {
+      "id": "mkt:019f6780-cf06-7aab-8db0-7fd7f7ad5be8",
+      "time": "2026-07-16 04:38:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. strikes since July have killed 35 in Iran, health ministry says】Iran's Health Ministry said on July 15 that as of 12:00 p.m. that day a series of U.S. strikes since July have killed 35 people and injured more than 300. Hormozgan, Sistan-Baluchestan and Khuzestan provinces were the hardest hit."
+    },
+    {
+      "id": "mkt:019f6780-2ebc-7aab-8db0-77bf3d780647",
+      "time": "2026-07-16 04:38:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vance: Elements within Israel manipulating U.S. public opinion to prolong military action】U.S. Vice President Vance said he is 100% certain some people inside the Israeli government are trying to push U.S. policy so military operations continue. He said these actors are manipulating U.S. public opinion to keep the war going indefinitely, not to achieve any specific objective but simply to continue fighting."
+    },
+    {
+      "id": "4990737",
+      "time": "2026-07-16 04:36:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "前美國眾議院議長南希・佩洛西將投票支援一項削減33億美元美國對以色列軍事援助的修正案。此舉堪稱歷史性轉變——佩洛西一向是國會內部最堅定支援以色列的議員之一。"
+    },
+    {
+      "id": "4990736",
+      "time": "2026-07-16 04:36:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍7月襲擊已致伊朗35人死亡】伊朗衛生部7月15日訊息，截至當天中午12點，美國7月以來對伊朗發動的多輪襲擊已造成35人死亡、300多人受傷。據統計，霍爾木茲甘省、錫斯坦－俾路支斯坦省和胡齊斯坦省受襲擊影響最為嚴重。"
+    },
+    {
+      "id": "te:markets:567316",
+      "time": "2026-07-16 04:35:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.29% Higher — The Dow Jones Index rose 150 points or 0.29 percent on Wednesday to close at 52659 points. Leading the gains are Apple (3.95%), Amazon (2.97%) and Alphabet (2.94%). Top losers were Cisco Systems (-4.56%), IBM (-2.74%) and J&J (-2.69%)."
+    },
     {
       "id": "4990735",
       "time": "2026-07-16 04:33:20",
