@@ -1,7 +1,112 @@
 {
   "date": "2026-07-15",
-  "count": 761,
+  "count": 773,
   "items": [
+    {
+      "id": "4988672",
+      "time": "2026-07-15 08:08:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "DOWNDETECTOR使用者報告顯示OPENAI 存在問題。"
+    },
+    {
+      "id": "mkt:019f6319-bedd-7aab-8d8c-28b9a9361d53",
+      "time": "2026-07-15 08:07:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange triggered a temporary halt on the KOSPI index; algorithmic trading suspended for 5 minutes."
+    },
+    {
+      "id": "mkt:019f6319-5dfa-7aab-8d8c-20b59cc4d44f",
+      "time": "2026-07-15 08:07:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Korea Economic Daily says Samsung plans DRAM fab in Giheung, South Korea】Korea Economic Daily, citing sources, reports Samsung Electronics plans a new DRAM fab in Giheung, South Korea, with roughly 100,000 wafers/month capacity. Investment is estimated in the tens of trillions of won. Construction could start as early as Q3."
+    },
+    {
+      "id": "4988671",
+      "time": "2026-07-15 08:07:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報85.58美元/桶。"
+    },
+    {
+      "id": "4988670",
+      "time": "2026-07-15 08:07:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
+    },
+    {
+      "id": "4988669",
+      "time": "2026-07-15 08:06:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟航空安全域性釋出中東多國空域禁飛警告】隨著美國與伊朗近日的軍事對抗再度升溫，歐盟航空安全域性14日恢復並加強對中東地區的航空警告，明確要求航空公司避開巴林、科威特、卡達、阿聯酋的領空，有效期至7月29日。針對伊朗、伊拉克和黎巴嫩空域的禁飛警告延長至8月底。歐盟航空安全域性表示，美國在該地區的大量軍事存在使相關國家直接面臨伊朗導彈和無人機攻擊風險，而美方及地區國家防空系統高度戒備，大大增加了民航飛機被誤識別或誤擊的可能，空中軍事對抗可能毫無預警地發生。就在一週前，歐盟航空安全域性因美伊6月簽署諒解備忘錄撤銷了要求在該區域“謹慎飛行”的警告。"
+    },
+    {
+      "id": "mkt:019f6318-a48a-7aab-8d8c-190961f2ffd8",
+      "time": "2026-07-15 08:06:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【EASA reinstates, widens Middle East airspace warnings after US‑Iran escalation】EU Aviation Safety Agency (EASA) on the 14th reinstated and strengthened Middle East airspace warnings following a recent escalation in US‑Iran military confrontations. Airlines have been directed to avoid the airspace of Bahrain, Kuwait, Qatar and the UAE through July 29. No‑fly warnings for Iran, Iraq and Lebanon have been extended to the end of August."
+    },
+    {
+      "id": "4988668",
+      "time": "2026-07-15 08:06:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.6%，報8,861.50點。"
+    },
+    {
+      "id": "4988667",
+      "time": "2026-07-15 08:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月15日07時59分在青海海西州直轄區（北緯37.81度，東經95.46度）發生3.0級地震，震源深度10千米。"
+    },
+    {
+      "id": "4988666",
+      "time": "2026-07-15 08:05:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優刻得：堅守“中立”定位 持續建設AI時代的Token工廠】在AI（人工智慧）大模型重塑千行百業的當下，算力正成為數字經濟時代最核心的生產力。作為第三方中立雲端計算服務商，優刻得正以烏蘭察布智算中心為戰略支點，將草原的綠電轉化為源源不斷的AI算力。面對算力需求的井噴與成本挑戰，優刻得董事長兼CEO季昕華在接受記者專訪時表示，AI正逐步邁入價值釋放的初期階段，而優刻得正堅守“中立”定位，致力於成為這場產業變革中堅實的算力底座與企業出海的護航者。季昕華稱，優刻得將持續建設AI時代的“Token（詞元）工廠”，不斷完善智算基礎設施佈局，為大模型訓練、推理以及智慧終端等創新應用提供堅實支撐。（中證報）"
+    },
+    {
+      "id": "4988665",
+      "time": "2026-07-15 08:05:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西貴港釋出暴雨三級預警】貴港市氣象臺7月15日7時00分發布暴雨三級預警：受熱帶東風系統影響，過去12小時，貴港市有39個鄉鎮累計降雨量超過50毫米，其中26個鄉鎮累計降雨量100～250毫米。預計未來24小時，貴港市大部仍有大到暴雨，區域性大暴雨，並伴有短時雷暴大風等強對流天氣，請注意防範。防禦建議：1.建議各地各相關部門按照職責做好防禦暴雨應急工作。2.切斷有危險地帶的室外電源，暫停危險區域戶外作業。3.做好城市、農田的排澇，注意防範可能引發的山洪、滑坡、泥石流等災害。"
+    },
+    {
+      "id": "4988664",
+      "time": "2026-07-15 08:04:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價在首爾上漲，漲幅一度高達11%，此前其ADR股價飆升。"
+    },
     {
       "id": "4988663",
       "time": "2026-07-15 08:03:58",

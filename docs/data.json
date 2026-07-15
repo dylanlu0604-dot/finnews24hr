@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-15 08:05:17",
-  "count": 18743,
+  "updated": "2026-07-15 08:09:13",
+  "count": 18748,
   "items": [
+    {
+      "id": "4988672",
+      "time": "2026-07-15 08:08:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "DOWNDETECTOR使用者報告顯示OPENAI 存在問題。"
+    },
+    {
+      "id": "mkt:019f6319-bedd-7aab-8d8c-28b9a9361d53",
+      "time": "2026-07-15 08:07:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange triggered a temporary halt on the KOSPI index; algorithmic trading suspended for 5 minutes."
+    },
+    {
+      "id": "mkt:019f6319-5dfa-7aab-8d8c-20b59cc4d44f",
+      "time": "2026-07-15 08:07:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "【Korea Economic Daily says Samsung plans DRAM fab in Giheung, South Korea】Korea Economic Daily, citing sources, reports Samsung Electronics plans a new DRAM fab in Giheung, South Korea, with roughly 100,000 wafers/month capacity. Investment is estimated in the tens of trillions of won. Construction could start as early as Q3."
+    },
+    {
+      "id": "4988671",
+      "time": "2026-07-15 08:07:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報85.58美元/桶。"
+    },
+    {
+      "id": "4988670",
+      "time": "2026-07-15 08:07:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
+    },
+    {
+      "id": "4988669",
+      "time": "2026-07-15 08:06:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟航空安全域性釋出中東多國空域禁飛警告】隨著美國與伊朗近日的軍事對抗再度升溫，歐盟航空安全域性14日恢復並加強對中東地區的航空警告，明確要求航空公司避開巴林、科威特、卡達、阿聯酋的領空，有效期至7月29日。針對伊朗、伊拉克和黎巴嫩空域的禁飛警告延長至8月底。歐盟航空安全域性表示，美國在該地區的大量軍事存在使相關國家直接面臨伊朗導彈和無人機攻擊風險，而美方及地區國家防空系統高度戒備，大大增加了民航飛機被誤識別或誤擊的可能，空中軍事對抗可能毫無預警地發生。就在一週前，歐盟航空安全域性因美伊6月簽署諒解備忘錄撤銷了要求在該區域“謹慎飛行”的警告。"
+    },
+    {
+      "id": "mkt:019f6318-a48a-7aab-8d8c-190961f2ffd8",
+      "time": "2026-07-15 08:06:26",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【EASA reinstates, widens Middle East airspace warnings after US‑Iran escalation】EU Aviation Safety Agency (EASA) on the 14th reinstated and strengthened Middle East airspace warnings following a recent escalation in US‑Iran military confrontations. Airlines have been directed to avoid the airspace of Bahrain, Kuwait, Qatar and the UAE through July 29. No‑fly warnings for Iran, Iraq and Lebanon have been extended to the end of August."
+    },
+    {
+      "id": "4988668",
+      "time": "2026-07-15 08:06:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.6%，報8,861.50點。"
+    },
+    {
+      "id": "4988667",
+      "time": "2026-07-15 08:05:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月15日07時59分在青海海西州直轄區（北緯37.81度，東經95.46度）發生3.0級地震，震源深度10千米。"
+    },
+    {
+      "id": "4988666",
+      "time": "2026-07-15 08:05:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優刻得：堅守“中立”定位 持續建設AI時代的Token工廠】在AI（人工智慧）大模型重塑千行百業的當下，算力正成為數字經濟時代最核心的生產力。作為第三方中立雲端計算服務商，優刻得正以烏蘭察布智算中心為戰略支點，將草原的綠電轉化為源源不斷的AI算力。面對算力需求的井噴與成本挑戰，優刻得董事長兼CEO季昕華在接受記者專訪時表示，AI正逐步邁入價值釋放的初期階段，而優刻得正堅守“中立”定位，致力於成為這場產業變革中堅實的算力底座與企業出海的護航者。季昕華稱，優刻得將持續建設AI時代的“Token（詞元）工廠”，不斷完善智算基礎設施佈局，為大模型訓練、推理以及智慧終端等創新應用提供堅實支撐。（中證報）"
+    },
+    {
+      "id": "4988665",
+      "time": "2026-07-15 08:05:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西貴港釋出暴雨三級預警】貴港市氣象臺7月15日7時00分發布暴雨三級預警：受熱帶東風系統影響，過去12小時，貴港市有39個鄉鎮累計降雨量超過50毫米，其中26個鄉鎮累計降雨量100～250毫米。預計未來24小時，貴港市大部仍有大到暴雨，區域性大暴雨，並伴有短時雷暴大風等強對流天氣，請注意防範。防禦建議：1.建議各地各相關部門按照職責做好防禦暴雨應急工作。2.切斷有危險地帶的室外電源，暫停危險區域戶外作業。3.做好城市、農田的排澇，注意防範可能引發的山洪、滑坡、泥石流等災害。"
+    },
+    {
+      "id": "4988664",
+      "time": "2026-07-15 08:04:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價在首爾上漲，漲幅一度高達11%，此前其ADR股價飆升。"
+    },
     {
       "id": "4988663",
       "time": "2026-07-15 08:03:58",
@@ -171525,76 +171630,6 @@
         "國際"
       ],
       "text": "【伊朗譴責美國違反諒解備忘錄 警告將採取必要行動 】伊朗外交部8日凌晨發表宣告，譴責美方取消其暫停製裁伊朗石油銷售的臨時措施，稱此舉公然違反伊美伊斯蘭堡諒解備忘錄，並警告將就此採取必要行動。 宣告指出，美方此舉公然違反伊美伊斯蘭堡諒解備忘錄第10條，美方應對相關後果承擔責任。 宣告還說，伊美雙方剛於不久前簽署諒解備忘錄，美國即宣佈取消其於6月21日簽發的授權伊朗石油銷售等的一般許可證，這再次顯示美國政府不可信任。宣告還指責美國多次“直接違反或透過以色列在黎巴嫩的行動違反”備忘錄有關條款。 宣告表示，伊朗自6月18日簽署備忘錄以來，一直以善意努力履行自身承諾。但美國不但違反承諾，還以各種藉口進行辯解。 宣告警告說，伊朗將採取其認為維護自身利益和國家安全所必要的行動。（新華社）"
-    },
-    {
-      "id": "4975181",
-      "time": "2026-07-08 08:07:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞電信（Telstra）首席財務官：目前仍未查明澳大利亞全國範圍內網路中斷的根本原因。正緊急調查此次網路中斷的根本原因，後續將公佈最新進展。"
-    },
-    {
-      "id": "mkt:019f3f0d-04ce-7aab-8cd9-76358f937f1f",
-      "time": "2026-07-08 08:07:25",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bearish",
-        "Hang Seng Index",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "South Korea's KOSPI pared intraday losses to 2.00%."
-    },
-    {
-      "id": "4975180",
-      "time": "2026-07-08 08:07:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米汽車官宣新品牌SkyNomad，即將釋出首款增程SUV】7月8日上午訊息，小米汽車今日官宣新品牌SkyNomad。“SkyNomad。天空，遊牧者。一個關於空間和生活的新名字，先和大家打個招呼。” 此前，據媒體報道，小米汽車首款增程式SUV將歸屬全新獨立子品牌“SkyNomad”，該車將不再使用小米主品牌標識，計劃於2026年下半年正式釋出。(新浪科技)"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607073797037924",
-      "time": "2026-07-08 08:07:00",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【越跌越買！中國央行連續20個月增持黃金 全球央行都在“囤貨”】7月7日，我國央行公佈資料顯示，截至6月末，我國黃金儲備達7544萬盎司，環比增加48萬盎司，增持規模較5月份進一步擴大。我國央行本輪增持黃金始於2024年11月，截至今年6月末，已經連續20個月增持黃金。今年3月以來，央行單月增持黃金規模分別為16萬、26萬、32萬、48萬盎司，增持力度不斷加大。"
-    },
-    {
-      "id": "4975179",
-      "time": "2026-07-08 08:06:40",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中信證券：關注產業資源突出的優質中型券商以及投行業務實力雄厚的頭部券商】中信證券研報表示，再融資新規徵求意見稿緊扣服務實體經濟、提升資本市場包容性與適應性、防範系統性風險核心導向，圍繞\"鬆綁、約束\"雙線推進，推出儲架發行制度、修改小額快速融資上限，構建市價定價機制，有望降低優質公司融資成本與時間成本。此次修訂是2023年2月全面註冊制實施以來，首次對再融資制度進行系統性最佳化，有望持續強化證券公司投行業務復甦持續性。建議關注產業資源突出的優質中型券商以及投行業務實力雄厚的頭部券商。"
-    },
-    {
-      "id": "mkt:019f3f0c-4066-7aab-8cd9-6e0cfab3b4f8",
-      "time": "2026-07-08 08:06:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【CITIC Securities sees coal sector entering a new rebound】CITIC Securities forecasts its tracked sample of listed coal firms will report average Q2 2026 net profit growth of about 31% QoQ and roughly 19% YoY in 1H 2026. It expects coking-coal and anthracite producers to show stronger earnings elasticity. Although coal prices have softened short term, seasonal peak demand should push prices up; against a backdrop of supply contraction, CITIC expects the Q3 supply-demand balance to further improve, supporting coal prices and continued QoQ sector earnings growth. It recommends names with high earnings elasticity and metallurgical-coal producers with relatively attractive valuations."
-    },
-    {
-      "id": "4975178",
-      "time": "2026-07-08 08:06:04",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【中信證券：判斷目前煤炭板塊正處於新一輪反彈中】中信證券預測所跟蹤的樣本煤炭上市公司，2026年二季度淨利潤平均環比增長約31%，2026年上半年同比漲幅約19%，預計焦煤、無煙煤公司業績增速或有更好的彈性。短期雖然煤價有所鬆動，但看好旺季因素催化下的煤價上漲效應。在供給收縮的背景下，預計三季度供需格局繼續改善，利好煤價和板塊業績環比繼續增長。中信證券判斷目前板塊正處於新一輪反彈中，推薦業績彈性好的及冶金煤中估值相對有優勢的公司。"
     }
   ]
 }
