@@ -1,7 +1,138 @@
 {
   "date": "2026-07-16",
-  "count": 108,
+  "count": 122,
   "items": [
+    {
+      "id": "mkt:019f66d5-4fe0-7aab-8dad-5f22a2cd51de",
+      "time": "2026-07-16 01:31:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliamentary speaker Ghalibaf said the \"enemy's\" strategy has not changed."
+    },
+    {
+      "id": "4990547",
+      "time": "2026-07-16 01:31:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國副總統萬斯：以色列影響美國的能力遠超多數國家。"
+    },
+    {
+      "id": "mkt:019f66d5-4528-7aab-8dad-578167d446d7",
+      "time": "2026-07-16 01:31:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Ghalibaf said Iran is locked in an existential war with the United States, which he said seeks not only to topple Iran’s current regime but also to divide the country."
+    },
+    {
+      "id": "4990546",
+      "time": "2026-07-16 01:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【因預警泥石流高風險 G4218雅葉高速臨時管制】2026年7月16日1時10分，G4218雅葉高速雅康段因日地溝預警泥石流高風險，現實施以下交通管制：雅康向所有車輛在瀘定分流下站；瀘定收費站入口及副站（往康定方向）管制；康定收費站入口管制。（央視新聞）"
+    },
+    {
+      "id": "4990545",
+      "time": "2026-07-16 01:30:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：敵方的戰略從未改變。"
+    },
+    {
+      "id": "4990544",
+      "time": "2026-07-16 01:30:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：我們與美國正處於一場根本性、關乎國家存亡的對抗，美國的目標除了顛覆伊朗現有體制，還要分裂我們摯愛的祖國伊朗。"
+    },
+    {
+      "id": "mkt:019f66d4-76de-7aab-8dad-4ae6d97435aa",
+      "time": "2026-07-16 01:30:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said Iran must also use diplomacy and negotiation to achieve and safeguard its national interests."
+    },
+    {
+      "id": "mkt:019f66d3-dc43-7aab-8dad-47ef4d11461a",
+      "time": "2026-07-16 01:29:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said Iran has never sought war and does not want it, but must always be prepared to fight and remain resolute to protect national security and interests."
+    },
+    {
+      "id": "4990542",
+      "time": "2026-07-16 01:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：我們也必須運用外交與談判手段，實現並維護國家利益。"
+    },
+    {
+      "id": "4990541",
+      "time": "2026-07-16 01:29:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗首席談判代表卡利巴夫：我們向來不樂見戰爭，如今亦是如此，但我們必須時刻做好戰鬥準備，為捍衛本國安全與利益抗爭到底。"
+    },
+    {
+      "id": "mkt:019f66d3-2330-7aab-8dad-3aa7285bbc5e",
+      "time": "2026-07-16 01:29:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed Governor COOK said current monetary policy is slightly tight and the Federal Open Market Committee can take more time to assess incoming data to confirm this."
+    },
+    {
+      "id": "mkt:019f66d3-03da-7aab-8dad-30489f861bdf",
+      "time": "2026-07-16 01:28:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "COOK: Recent CPI and PPI readings cover only one month and do not establish a trend."
+    },
+    {
+      "id": "4990540",
+      "time": "2026-07-16 01:28:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 近期消費者物價指數與生產者物價指數僅為單月資料，不足以形成趨勢。"
+    },
+    {
+      "id": "4990539",
+      "time": "2026-07-16 01:28:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 當前貨幣政策處於適度收緊狀態，聯邦公開市場委員會可預留一段時間觀察更多資料以確認相關形勢。"
+    },
     {
       "id": "mkt:019f66cf-f0aa-7aab-8dad-289c0ccc424d",
       "time": "2026-07-16 01:25:31",
