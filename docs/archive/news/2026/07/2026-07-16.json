@@ -1,7 +1,72 @@
 {
   "date": "2026-07-16",
-  "count": 193,
+  "count": 200,
   "items": [
+    {
+      "id": "4990585",
+      "time": "2026-07-16 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.02%，報517.70元人民幣/桶。滬金夜盤收漲0.03%，滬銀收跌1.42%。"
+    },
+    {
+      "id": "te:markets:567307",
+      "time": "2026-07-16 02:29:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Appreciates by 2.12% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 2.12% increase."
+    },
+    {
+      "id": "mkt:019f670a-f087-7aab-8dae-9390ac175e4a",
+      "time": "2026-07-16 02:29:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump on Iran said: 'They had better behave.'"
+    },
+    {
+      "id": "4990584",
+      "time": "2026-07-16 02:29:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及伊朗：他們最好安分點。"
+    },
+    {
+      "id": "4990583",
+      "time": "2026-07-16 02:29:40",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普談伊朗：我不喜歡設定最後期限。"
+    },
+    {
+      "id": "mkt:019f670a-a7cc-7aab-8dae-8c6d81817def",
+      "time": "2026-07-16 02:29:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Trump said he does not like setting deadlines on Iran."
+    },
+    {
+      "id": "mkt:019f6709-49c1-7aab-8dae-83ddd9cbe92f",
+      "time": "2026-07-16 02:28:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK Labour leadership candidate Burnham says he would deal with Trump 'straightforwardly'】Andy Burnham, a candidate to lead the UK Labour Party, said if he becomes prime minister he would deal with US President Trump 'straightforwardly' and use his personal style to keep UK-US ties stable. He said Britain should respect the US presidency and the bilateral relationship but would make disagreements clear and 'communicate with him in Trump's way'. Trump previously called Burnham 'extremely liberal' and downplayed his political influence. Burnham is expected to be elected Labour leader unopposed on Thursday and to replace Starmer as prime minister next Monday. UK-US relations, strained by Iran-related tensions and stalled trade talks, will be a near-term challenge for him to repair."
+    },
     {
       "id": "te:markets:567306",
       "time": "2026-07-16 02:25:19",
