@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-15 20:16:19",
-  "count": 18639,
+  "updated": "2026-07-15 20:20:17",
+  "count": 18638,
   "items": [
+    {
+      "id": "mkt:019f65b8-0aba-7aab-8da1-01b9d9e956ac",
+      "time": "2026-07-15 20:19:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say US President Trump may meet Israeli Prime Minister Netanyahu next Monday."
+    },
+    {
+      "id": "mkt:019f65b7-c066-7aab-8da0-fc0df034f546",
+      "time": "2026-07-15 20:19:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix ADR (SKHY.O) premarket decline widened to 7%."
+    },
+    {
+      "id": "4989985",
+      "time": "2026-07-15 20:18:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博騰股份：擬以3000萬元新設全資子公司】博騰股份公告，為探索健康消費品市場機會，公司擬以自有資金人民幣3000萬元新設全資子公司重慶市曜初生物科技有限公司。出資方式為貨幣出資，出資比例為100.00%。"
+    },
+    {
+      "id": "4989984",
+      "time": "2026-07-15 20:18:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君會見柬埔寨農林漁業部大臣鄧迪那】7月15日，海關總署署長孫梅君在署會見柬埔寨農林漁業部大臣鄧迪那一行。雙方就落實中柬兩國領導人重要共識，保障雙邊農食產品貿易安全與便利等議題交換意見，並簽署合作檔案。副署長郝煒明參加會見。"
+    },
+    {
+      "id": "mkt:019f65b6-71cb-7aab-8da0-f04b18b3a25a",
+      "time": "2026-07-15 20:18:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CUSTOMS director Sun Meijun meets Cambodian Minister of Agriculture, Forestry and Fisheries Deng Dina】July 15 — China’s CUSTOMS director Sun Meijun met with Cambodian Minister of Agriculture, Forestry and Fisheries Deng Dina. They discussed implementing China‑Cambodia leaders’ consensus and measures to safeguard and facilitate bilateral agri‑food trade, and signed a cooperation document. Vice director Hao Weiming attended."
+    },
+    {
+      "id": "4989983",
+      "time": "2026-07-15 20:17:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：將於7月20日進行3000億盧比的印度政府債券轉換/置換操作。"
+    },
+    {
+      "id": "mkt:019f65b5-4d16-7aab-8da0-ec77ec094e7a",
+      "time": "2026-07-15 20:16:48",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【BofA: Fund managers' confidence in economy at four-year high】According to the BofA Global Fund Manager Survey, fund managers' confidence in the global economy is at a four-year high. Despite unease about AI, 41% of managers expect the global economy to prosper over the next 12 months, the highest share since Feb. 2022; 47% expect stagflation over the same period—growth falling below trend while inflation remains elevated."
+    },
+    {
+      "id": "4989982",
+      "time": "2026-07-15 20:16:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士盤前跌幅擴大至7%。"
+    },
+    {
+      "id": "4989980",
+      "time": "2026-07-15 20:15:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【應對降雨 山西鐵路部門對部分旅客列車採取臨時停運措施】7月15日，記者從國鐵太原局瞭解到，受降雨影響，為確保列車執行安全，國鐵太原局對7月16日、17日經由太中、南同蒲、太焦、京原、京包、太興等線往返執行的C153次、K5329次、K903次、K604次、Z338次、4621次等部分旅客列車採取臨時停運措施。同時，對於雨勢逐步減弱的地區，在確保線路裝置安全穩定的前提下，國鐵太原局將有序組織列車恢復開行。鐵路部門提示，根據實際降雨情況，鐵路部門會動態調整停運車次，請廣大旅客隨時關注鐵路通知、12306網站、車站公告，瞭解列車資訊，妥善安排行程。已購買停運列車車票的旅客，可於30日內，透過中國鐵路12306網站、App、火車站人工視窗等渠道，辦理退票手續。（央視新聞）"
+    },
     {
       "id": "mkt:019f65b3-f575-7aab-8da0-e290fffc4e4d",
       "time": "2026-07-15 20:15:20",
@@ -171086,102 +171166,6 @@
         "市場"
       ],
       "text": "紐約可可期貨突破每噸 6000 美元，創今年 1 月以來新高。"
-    },
-    {
-      "id": "4976829",
-      "time": "2026-07-08 20:19:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印度塔塔鋼鐵荷蘭分公司因汙染環境被起訴】荷蘭檢方8日宣佈，已對印度塔塔鋼鐵荷蘭分公司提起刑事訴訟，指控其“故意”汙染環境。檢方調查發現，塔塔鋼鐵荷蘭分公司位於阿姆斯特丹以西艾默伊登鎮一座鍊鋼廠在防治環境汙染方面“做得不夠”，焦爐維護也不到位，且存在無證運營等違規行為，給周邊環境和居民生活帶來負面影響。按檢方說法，調查仍在進行，尚不清楚這家公司荷蘭籍高管是否會被追責。塔塔鋼鐵荷蘭分公司當天回應說，“不認同”相關指控，表示近年來已大幅減排整改，且排放量符合標準，稱荷蘭檢方“沒有必要”針對“數量有限”的汙染事件提起訴訟。荷蘭政府委託開展的研究顯示，涉事鍊鋼廠是荷蘭溫室氣體主要排放源之一，給周邊居民帶來健康問題。2024年，該廠曾因焦爐違規排汙被荷蘭有關部門“盯上”，一度面臨關閉風險。阿姆斯特丹地方法院定於11月20日就此案舉行首次審訊。（新華社）"
-    },
-    {
-      "id": "4976828",
-      "time": "2026-07-08 20:19:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東：加快智慧充電樁建設及停車設施智慧化改造】廣東省政務服務和資料管理局等11部門近日印發《廣東省推進城市全域數字化轉型建設智慧城市行動方案》，其中提到，加快智慧充電樁建設及停車設施智慧化改造，推廣社群火災監測預警、消防遠端監控、高樓消防預警、高空拋物監測等數字化安全管理模式。"
-    },
-    {
-      "id": "te:markets:565290",
-      "time": "2026-07-08 20:19:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Serbia",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "Stocks in Serbia Hit 12-month Low — BELEX 15 decreased to 1188.00 Index Points, the lowest since June 2025. Over the past 4 weeks, Belgrade Stock Exchange 15 lost 1.25%, and in the last 12 months, it increased 0.62%."
-    },
-    {
-      "id": "4976827",
-      "time": "2026-07-08 20:18:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北自科技：參與專案獲國家科技進步獎一等獎】北自科技公告稱，2026年7月8日，在2025年度國家科學技術獎勵大會上，公司作為主要完成單位參與的“聚酯纖維產業鏈綠色與智慧製造關鍵技術”獲國家科技進步獎一等獎。該專案打破國外裝備壟斷、填補國內空白。此獎是我國應用技術領域創新成果最高榮譽，體現公司技術實力，彰顯創新競爭力和行業引領力，對未來發展有積極作用，但對經營業績的影響尚不確定，提醒投資者注意風險。"
-    },
-    {
-      "id": "te:economy:565288",
-      "time": "2026-07-08 20:18:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Chile",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Chile Inflation Rate Quickens to 9-Month High of 4.3% — Chile's annual inflation rate inched up to 4.3% in June 2026 from 3.9% in the prior month, marking the highest reading since September 2025. The main upward pressure came from prices of transportation (8.6% vs 10.1%); restaurants & hotels (6.5% vs 6.5%); education (5.9% vs 5.9%); food & non-alcoholic beverages (4.2% vs 2.5%); housing & utilities (4.3% vs 4.2%) and alcoholic beverages & tobacco (3.4% vs 2.6%). Conversely, prices decreased for clothing & footwear (-4.76% vs -4.9%) and insuranc& financial services (-1.8% vs -4.4%). On a monthly basis, the CPI was flat, after increasing by 0.2% in May and against market forecasts of a 0.2% decrease. Core consumer prices edged down by 0.1% in June, after a 0.4% rise in the month before."
-    },
-    {
-      "id": "mkt:019f41a9-cc86-7aab-8cee-04027fa2dd18",
-      "time": "2026-07-08 20:17:54",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "【German auto industry urges swift ratification of EU–Mexico trade deal】Hildegard Müller, president of the German Association of the Automotive Industry (VDA), said EU approval of the EU–Mexico trade agreement is important for Germany, noting roughly 70% of the sector’s jobs are supported by exports. With uncertainty around the USMCA, Müller said closer EU–Mexico economic ties signal a more stable, diversified and resilient transatlantic value chain. She said the vote removes a major obstacle and called for rapid completion of remaining EU and national ratification procedures."
-    },
-    {
-      "id": "te:economy:565287",
-      "time": "2026-07-08 20:17:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Romania",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Romania Holds Policy Rate at 6.5% — The National Bank of Romania kept its key policy rate unchanged at 6.5% in June 2026, as expected, citing persistent uncertainties and geopolitical risks. Headline inflation rose to 10.85% in May, reaching its highest level since April 2023, driven by higher natural gas and fuel prices, as well as increased rents for state-owned housing. Economic activity is estimated to have contracted 1.2% in Q1 2026, following 0.2% growth in Q4 2025, as household consumption weakened and investment growth slowed. Looking ahead, the outlook remains dependent on Middle East developments, although economic activity is expected to recover slightly in Q2 amid changes in aggregate demand and key sectors. Inflation is projected to ease significantly in Q3 2026 following the removal of the electricity price cap. Future policy decisions will focus on maintaining price stability and supporting sustainable economic growth."
-    },
-    {
-      "id": "4976826",
-      "time": "2026-07-08 20:16:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【粉筆：張小龍辭任執行董事、執行長及董事會主席】粉筆在港交所公告，張小龍因需處理其他個人事務，已辭任執行董事、執行長、董事會主席、董事會薪酬委員會成員及董事會提名委員會主席，自本公告日期起生效。張小龍在辭任執行董事、執行長及董事會主席後，將不再於本集團擔任任何職位。然而，如有需要，彼將繼續向本公司提供策略性建議。張先生先前的職責為本集團的整體策略計劃與業務發展及營運，以及本集團的整體技術及課程開發。該等職責將妥為移交予盛海燕。"
-    },
-    {
-      "id": "4976825",
-      "time": "2026-07-08 20:16:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利貨幣政策委員會 6 月 23 日審議 25 個基點、50 個基點兩種降息方案。"
-    },
-    {
-      "id": "4976824",
-      "time": "2026-07-08 20:16:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所倫敦可可期貨<LCCc2>大漲近5%，至每噸4470英鎊。"
     }
   ]
 }

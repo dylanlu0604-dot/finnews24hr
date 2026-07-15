@@ -1,7 +1,87 @@
 {
   "date": "2026-07-15",
-  "count": 2849,
+  "count": 2858,
   "items": [
+    {
+      "id": "mkt:019f65b8-0aba-7aab-8da1-01b9d9e956ac",
+      "time": "2026-07-15 20:19:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say US President Trump may meet Israeli Prime Minister Netanyahu next Monday."
+    },
+    {
+      "id": "mkt:019f65b7-c066-7aab-8da0-fc0df034f546",
+      "time": "2026-07-15 20:19:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix ADR (SKHY.O) premarket decline widened to 7%."
+    },
+    {
+      "id": "4989985",
+      "time": "2026-07-15 20:18:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博騰股份：擬以3000萬元新設全資子公司】博騰股份公告，為探索健康消費品市場機會，公司擬以自有資金人民幣3000萬元新設全資子公司重慶市曜初生物科技有限公司。出資方式為貨幣出資，出資比例為100.00%。"
+    },
+    {
+      "id": "4989984",
+      "time": "2026-07-15 20:18:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海關總署署長孫梅君會見柬埔寨農林漁業部大臣鄧迪那】7月15日，海關總署署長孫梅君在署會見柬埔寨農林漁業部大臣鄧迪那一行。雙方就落實中柬兩國領導人重要共識，保障雙邊農食產品貿易安全與便利等議題交換意見，並簽署合作檔案。副署長郝煒明參加會見。"
+    },
+    {
+      "id": "mkt:019f65b6-71cb-7aab-8da0-f04b18b3a25a",
+      "time": "2026-07-15 20:18:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CUSTOMS director Sun Meijun meets Cambodian Minister of Agriculture, Forestry and Fisheries Deng Dina】July 15 — China’s CUSTOMS director Sun Meijun met with Cambodian Minister of Agriculture, Forestry and Fisheries Deng Dina. They discussed implementing China‑Cambodia leaders’ consensus and measures to safeguard and facilitate bilateral agri‑food trade, and signed a cooperation document. Vice director Hao Weiming attended."
+    },
+    {
+      "id": "4989983",
+      "time": "2026-07-15 20:17:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：將於7月20日進行3000億盧比的印度政府債券轉換/置換操作。"
+    },
+    {
+      "id": "mkt:019f65b5-4d16-7aab-8da0-ec77ec094e7a",
+      "time": "2026-07-15 20:16:48",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【BofA: Fund managers' confidence in economy at four-year high】According to the BofA Global Fund Manager Survey, fund managers' confidence in the global economy is at a four-year high. Despite unease about AI, 41% of managers expect the global economy to prosper over the next 12 months, the highest share since Feb. 2022; 47% expect stagflation over the same period—growth falling below trend while inflation remains elevated."
+    },
+    {
+      "id": "4989982",
+      "time": "2026-07-15 20:16:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士盤前跌幅擴大至7%。"
+    },
+    {
+      "id": "4989980",
+      "time": "2026-07-15 20:15:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【應對降雨 山西鐵路部門對部分旅客列車採取臨時停運措施】7月15日，記者從國鐵太原局瞭解到，受降雨影響，為確保列車執行安全，國鐵太原局對7月16日、17日經由太中、南同蒲、太焦、京原、京包、太興等線往返執行的C153次、K5329次、K903次、K604次、Z338次、4621次等部分旅客列車採取臨時停運措施。同時，對於雨勢逐步減弱的地區，在確保線路裝置安全穩定的前提下，國鐵太原局將有序組織列車恢復開行。鐵路部門提示，根據實際降雨情況，鐵路部門會動態調整停運車次，請廣大旅客隨時關注鐵路通知、12306網站、車站公告，瞭解列車資訊，妥善安排行程。已購買停運列車車票的旅客，可於30日內，透過中國鐵路12306網站、App、火車站人工視窗等渠道，辦理退票手續。（央視新聞）"
+    },
     {
       "id": "mkt:019f65b3-f575-7aab-8da0-e290fffc4e4d",
       "time": "2026-07-15 20:15:20",
