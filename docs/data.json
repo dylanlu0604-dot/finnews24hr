@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-16 03:42:38",
-  "count": 18622,
+  "updated": "2026-07-16 03:46:38",
+  "count": 18627,
   "items": [
+    {
+      "id": "4990678",
+      "time": "2026-07-16 03:45:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及委內瑞拉：該國領導層表現十分出色。"
+    },
+    {
+      "id": "4990676",
+      "time": "2026-07-16 03:45:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚Valor Equity Partners創始人。"
+    },
+    {
+      "id": "4990675",
+      "time": "2026-07-16 03:44:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國防生產需要的是再提速，而非增加支出。"
+    },
+    {
+      "id": "mkt:019f674f-3de5-7aab-8daf-da32ecf7574e",
+      "time": "2026-07-16 03:44:34",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "BA.N",
+        "GD.N"
+      ],
+      "text": "President Trump praised the CEOs of JP Morgan (JPM.N), Boeing (BA.N) and General Dynamics."
+    },
+    {
+      "id": "4990674",
+      "time": "2026-07-16 03:43:15",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我算得上波音史上最厲害的推銷員，要是我身在私企，肯定要索要公司股份。"
+    },
+    {
+      "id": "mkt:019f674d-54f7-7aab-8daf-d64de65db609",
+      "time": "2026-07-16 03:42:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry said air-raid sirens sounded across the country."
+    },
     {
       "id": "4990671",
       "time": "2026-07-16 03:42:09",
@@ -171348,14 +171401,6 @@
         "Importance 1"
       ],
       "text": "Argentina Industrial Output Falls in April — Argentina's industrial production fell 5.7% year-on-year in May 2026, following a 2.8% decline in April. Fourteen of the 16 manufacturing sectors posted annual declines. The largest drags came from machinery and equipment (-23.4%), food and beverages (-3.0%), motor vehicles and auto parts (-15.9%), apparel, leather and footwear (-14.7%), textiles (-26.2%), and chemicals (-3.1%). Other sectors posting declines included rubber and plastics (-10.2%), other equipment and instruments (-12.5%), basic metals (-4.0%), furniture and other manufacturing (-7.3%), wood, paper and printing (-2.9%), non-metallic minerals (-2.3%), other transport equipment (-9.9%), and metal products (-1.2%). In contrast, petroleum refining (19.4%) and tobacco products (14.6%) recorded solid growth. On a monthly basis, industrial production rose 0.4%."
-    },
-    {
-      "id": "4977566",
-      "time": "2026-07-09 03:46:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【裕信銀行持股比例將突破47%，距離掌控德國商業銀行更進一步】義大利裕信銀行（UniCredit SpA）執行長Andrea Orcel距離掌控德國商業銀行（Commerzbank AG）又近了一步。隨著投資者認售了足夠的股份，這家義大利銀行的潛在持股比例已升至47.6%。根據7月8日釋出的一份宣告，截至7月3日的接受截止日期，代表德國商業銀行17.6%資本的股份已被認售，其中包括在兩週延期期間認售的超過5%的股份。裕信銀行此前已持有略低於30%的股份，包括實物股票和可轉換為股票的衍生品。"
     }
   ]
 }

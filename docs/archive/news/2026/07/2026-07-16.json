@@ -1,7 +1,60 @@
 {
   "date": "2026-07-16",
-  "count": 306,
+  "count": 312,
   "items": [
+    {
+      "id": "4990678",
+      "time": "2026-07-16 03:45:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及委內瑞拉：該國領導層表現十分出色。"
+    },
+    {
+      "id": "4990676",
+      "time": "2026-07-16 03:45:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚Valor Equity Partners創始人。"
+    },
+    {
+      "id": "4990675",
+      "time": "2026-07-16 03:44:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：國防生產需要的是再提速，而非增加支出。"
+    },
+    {
+      "id": "mkt:019f674f-3de5-7aab-8daf-da32ecf7574e",
+      "time": "2026-07-16 03:44:34",
+      "tags": [
+        "MKT News",
+        "JPM.N",
+        "BA.N",
+        "GD.N"
+      ],
+      "text": "President Trump praised the CEOs of JP Morgan (JPM.N), Boeing (BA.N) and General Dynamics."
+    },
+    {
+      "id": "4990674",
+      "time": "2026-07-16 03:43:15",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我算得上波音史上最厲害的推銷員，要是我身在私企，肯定要索要公司股份。"
+    },
+    {
+      "id": "mkt:019f674d-54f7-7aab-8daf-d64de65db609",
+      "time": "2026-07-16 03:42:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry said air-raid sirens sounded across the country."
+    },
     {
       "id": "4990671",
       "time": "2026-07-16 03:42:09",
