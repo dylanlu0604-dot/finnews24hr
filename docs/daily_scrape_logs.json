@@ -1,6 +1,155 @@
 {
-  "updated": "2026-07-15 07:53:25",
+  "updated": "2026-07-15 09:21:56",
   "items": [
+    {
+      "id": "2026071509",
+      "date": "2026-07-15",
+      "run_hour": 9,
+      "started_at": "2026-07-15 09:21:24",
+      "finished_at": "2026-07-15 09:21:56",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 8,
+      "failure_count": 4,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "nomura",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac",
+        "uob"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "factset",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉川普撤回荷姆茲20%過路費 通膨降溫助美股收高 IBM創紀錄暴跌25% | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6534944",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-15"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-07-14，預期日期是 2026-07-15",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-07-14，預期日期是 2026-07-15",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "nomura",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.nomura-am.co.jp/market/marketcomment/20260715_US_CPI_Markets.pdf",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-15"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "factset 日期不符：頁面最新日期是 2026-07-10，預期日期是 2026-07-14",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-10"
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/224413",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-15"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202607150526212464.shtml",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-15"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-july-14-2026/",
+          "expected_date": "2026-07-14",
+          "actual_date": "2026-07-14"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/secure/economics/documents/aus/2026/07/WBC_MorningReport15Jul2026.pdf",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-15"
+        },
+        {
+          "source": "uob",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260715.pdf",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-15"
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-07-14，預期日期是 2026-07-15",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-15",
+          "actual_date": "2026-07-14"
+        }
+      ]
+    },
     {
       "id": "2026071507",
       "date": "2026-07-15",
