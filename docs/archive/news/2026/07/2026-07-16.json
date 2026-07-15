@@ -1,7 +1,18 @@
 {
   "date": "2026-07-16",
-  "count": 189,
+  "count": 190,
   "items": [
+    {
+      "id": "te:markets:567305",
+      "time": "2026-07-16 02:20:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 2.22% — Top commodity gainers are Platinum (2.22%), Steel Rebar (0.84%) and Gold (0.36%). Biggest losers are Silver (-0.95%) and Silicon (-0.89%)."
+    },
     {
       "id": "mkt:019f66ff-1795-7aab-8dae-7eb72c1786fb",
       "time": "2026-07-16 02:17:01",

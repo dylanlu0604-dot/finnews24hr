@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-16 02:19:38",
-  "count": 18608,
+  "updated": "2026-07-16 02:23:34",
+  "count": 18606,
   "items": [
+    {
+      "id": "te:markets:567305",
+      "time": "2026-07-16 02:20:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Gains by 2.22% — Top commodity gainers are Platinum (2.22%), Steel Rebar (0.84%) and Gold (0.36%). Biggest losers are Silver (-0.95%) and Silicon (-0.89%)."
+    },
     {
       "id": "mkt:019f66ff-1795-7aab-8dae-7eb72c1786fb",
       "time": "2026-07-16 02:17:01",
@@ -171251,39 +171262,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Butter Soars by 6.00% — Top commodity gainers are Butter (6%), Cocoa (4.86%) and Canola (3.16%). Biggest losers are Corn (-2.10%) and Wheat (-1.98%)."
-    },
-    {
-      "id": "mkt:019f42f7-6998-7aab-8cfc-4b14dc9b0954",
-      "time": "2026-07-09 02:22:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Fed minutes: time to consider major revision to post-meeting statements】Fed minutes show policymakers still expect real GDP to grow robustly through the remainder of 2026. Multiple labor-market indicators point to a stable jobs market that does not appear to be a source of inflationary pressure. The June 17 statement was briefer than recent post-meeting releases, signaling imminent action by officials who have pledged to overhaul Fed communications; minutes say several officials agreed it is time to consider major changes to post-meeting statements."
-    },
-    {
-      "id": "te:markets:565391",
-      "time": "2026-07-09 02:20:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Falls by 4.27% — Top commodity losers are Platinum (-4.27%), Silver (-2.69%), Silicon (-2.29%) and Gold (-0.85%). Gains are led by Iron Ore CNY (1.43%) and Steel Rebar (0.95%)."
-    },
-    {
-      "id": "mkt:019f42f5-6522-7aab-8cfc-459ad9ebef88",
-      "time": "2026-07-09 02:20:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Secretary of State Rubio said lifting sanctions on Syria would open the door to international trade and investment and provide Syria with reconstruction opportunities."
     }
   ]
 }
