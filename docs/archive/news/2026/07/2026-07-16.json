@@ -1,7 +1,45 @@
 {
   "date": "2026-07-16",
-  "count": 185,
+  "count": 189,
   "items": [
+    {
+      "id": "mkt:019f66ff-1795-7aab-8dae-7eb72c1786fb",
+      "time": "2026-07-16 02:17:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Security sources said a drone carrying explosives was shot down by air defenses over Erbil in northern Iraq."
+    },
+    {
+      "id": "mkt:019f66ff-015d-7aab-8dae-73cdb7fc8684",
+      "time": "2026-07-16 02:16:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israel Defense Forces said it conducted an airstrike in southern Lebanon, killing three Hezbollah fighters inside the designated military buffer zone."
+    },
+    {
+      "id": "mkt:019f66fe-4ade-7aab-8dae-6a756fb97a36",
+      "time": "2026-07-16 02:16:09",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact mixed",
+        "WTI"
+      ],
+      "text": "【India raises diesel and ATF export windfall taxes, cuts petrol export tax】India will change export windfall taxes on petroleum products from July 16. Diesel export windfall tax increased from 8.5 rupee per litre to 15.5 rupee per litre; aviation turbine fuel (ATF) export tax increased from 7.5 rupee per litre to 14.5 rupee per litre; petrol export tax reduced from 4 rupee per litre to 2.5 rupee per litre."
+    },
+    {
+      "id": "te:markets:567304",
+      "time": "2026-07-16 02:15:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 3.07% — Top commodity gainers are Natural Gas UK (3.07%), Germany Natural Gas THE (2.79%) and Natural Gas EU (2.35%). Biggest losers are Heating Oil (-2.03%), Propane (-0.66%), Crude Oil WTI (-0.28%) and Brent Crude Oil (-0.19%)."
+    },
     {
       "id": "4990580",
       "time": "2026-07-16 02:13:56",
