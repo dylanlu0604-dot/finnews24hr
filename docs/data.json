@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-15 23:22:03",
-  "count": 18830,
+  "updated": "2026-07-15 23:26:06",
+  "count": 18821,
   "items": [
+    {
+      "id": "4990443",
+      "time": "2026-07-15 23:25:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞銀：若伯納姆堅守財政規則，英國國債收益率或將下行20個基點】瑞銀策略師表示，英國的政策不確定性為10年期英國國債（gilts）增加了約20個基點的額外風險溢價，而在安迪·伯納姆（Andy Burnham）正式確認成為工黨領袖之前，市場尚未將這部分溢價完全剔除。穆斯塔法·奧古茲·卡伊蘭（Mustafa Oguz Caylan）在週三釋出的一份報告中表示：“如果秋季預算符合當前的財政規則，這將為英國國債提供至少20個基點的反彈空間。”目前，英國10年期國債收益率已小幅下行4個基點，至4.94%。"
+    },
+    {
+      "id": "mkt:019f6661-9b3f-7aab-8daa-65b12ccbb0bf",
+      "time": "2026-07-15 23:25:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer will testify at a Senate panel hearing on July 22."
+    },
+    {
+      "id": "4990442",
+      "time": "2026-07-15 23:24:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報78.54美元/桶。"
+    },
+    {
+      "id": "mkt:019f6660-752a-7aab-8daa-5ae27929257d",
+      "time": "2026-07-15 23:23:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kevin Warsh said if policymakers had monitored money supply in 2021 they might have detected early signs of inflation."
+    },
+    {
+      "id": "4990441",
+      "time": "2026-07-15 23:23:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 倘若當時關注貨幣供應量，我們或許早在 2021 年就已察覺相關問題。"
+    },
+    {
+      "id": "mkt:019f6660-40fb-7aab-8daa-56a82667fa96",
+      "time": "2026-07-15 23:23:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said monetary aggregates are not perfect but provide a useful cross-check."
+    },
+    {
+      "id": "4990440",
+      "time": "2026-07-15 23:23:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 貨幣總量指標並非盡善盡美，但不失為一項有效的交叉驗證工具。"
+    },
+    {
+      "id": "4990439",
+      "time": "2026-07-15 23:22:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：殼牌航空將在達美航空樞紐供應混合可持續航空燃料與純可持續航空燃料。"
+    },
+    {
+      "id": "4990438",
+      "time": "2026-07-15 23:22:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報57.47美元/盎司。"
+    },
+    {
+      "id": "4990437",
+      "time": "2026-07-15 23:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空與殼牌簽署為期五年的航空燃料合作協議，計劃到 2030 年擴大可持續航空燃料（SAF）使用規模。"
+    },
+    {
+      "id": "4990436",
+      "time": "2026-07-15 23:21:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我並非以貨幣主義者的身份出席本次會議。"
+    },
+    {
+      "id": "mkt:019f665e-5fc9-7aab-8daa-4e9fb920a078",
+      "time": "2026-07-15 23:21:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said including the M2 indicator in Fed reports was deliberate."
+    },
+    {
+      "id": "4990435",
+      "time": "2026-07-15 23:21:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲報告新增 M2 貨幣供應量指標是有意為之。"
+    },
     {
       "id": "mkt:019f665e-41a9-7aab-8daa-4592548f6735",
       "time": "2026-07-15 23:21:20",
@@ -173019,213 +173131,6 @@
         "國際"
       ],
       "text": "澤連斯基：與特朗普總統及其團隊的會面很順利。"
-    },
-    {
-      "id": "4977213",
-      "time": "2026-07-08 23:26:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲柴油利潤率基準在俄羅斯禁止出口後升至每桶60.17美元的紀錄高位。"
-    },
-    {
-      "id": "4977212",
-      "time": "2026-07-08 23:25:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：這份於伊斯蘭堡擬定、盧塞恩簽署的美伊協議仍處在60天有效期內，協議框架下安排的各項會談將如期舉行，各方應保持冷靜、剋制與耐心。"
-    },
-    {
-      "id": "te:economy:565348",
-      "time": "2026-07-08 23:24:54",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Germany 10Y Bond Yield Hits 6-week High — Germany 10 Year Government Bond Yield increased to 3.09%, the highest since May 2026. Over the past 4 weeks, Germany 10Y Bond Yield gained 2.81 basis points, and in the last 12 months, it increased 45.28 basis points."
-    },
-    {
-      "id": "4977211",
-      "time": "2026-07-08 23:24:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：伊朗襲擊美軍基地的行為違反了德黑蘭方面自身簽署的協議，伊朗發起此類襲擊實屬不當。"
-    },
-    {
-      "id": "mkt:019f4254-db8e-7aab-8cf6-c12f6ff86637",
-      "time": "2026-07-08 23:24:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bearish",
-        "Dow",
-        "Nasdaq100"
-      ],
-      "text": "US benchmark indexes the S&P 500, Dow Jones Industrial Average and Nasdaq Composite each fell more than 1% intraday."
-    },
-    {
-      "id": "4977210",
-      "time": "2026-07-08 23:24:28",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股三大指數均跌超1%】道指跌1.52%，現報52118.762點；納指跌1.04%，現報25550.914點；標普500指數跌1.01%，現報7428.340點。"
-    },
-    {
-      "id": "4977209",
-      "time": "2026-07-08 23:24:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市延續跌勢，標普500指數下跌1.00%。"
-    },
-    {
-      "id": "4977208",
-      "time": "2026-07-08 23:24:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基與特朗普會面後表示：我們討論了推動和平程序的構想。"
-    },
-    {
-      "id": "4977207",
-      "time": "2026-07-08 23:24:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國股市擴大跌幅，納斯達克指數下跌1.00%。"
-    },
-    {
-      "id": "mkt:019f4254-2bc6-7aab-8cf6-bec7976a8c27",
-      "time": "2026-07-08 23:24:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Putin: Russia's Ministry of Agriculture says fuel supplies are not a problem."
-    },
-    {
-      "id": "4977206",
-      "time": "2026-07-08 23:23:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指跌1.00%，現報25559.864點；道指跌1.48%，現報52142.551點；標普500指數跌0.97%，現報7431.160點。"
-    },
-    {
-      "id": "mkt:019f4253-eb67-7aab-8cf6-b5b0d4fb0cb9",
-      "time": "2026-07-08 23:23:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO secretary-general says the alliance is coordinating with Gulf states and is prepared to provide assistance pending an alliance decision."
-    },
-    {
-      "id": "mkt:019f4253-d3f3-7aab-8cf6-a96daf56bf9d",
-      "time": "2026-07-08 23:23:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "NATO secretary-general said Russia's economy is under growing pressure and Ukraine has successfully struck deep targets inside Russia."
-    },
-    {
-      "id": "4977205",
-      "time": "2026-07-08 23:23:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：農業部稱燃料供應沒有問題。"
-    },
-    {
-      "id": "mkt:019f4253-b4f5-7aab-8cf6-a4ec47f380e5",
-      "time": "2026-07-08 23:23:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "NATO secretary-general says Europe needs to boost oil refining capacity."
-    },
-    {
-      "id": "4977204",
-      "time": "2026-07-08 23:23:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：（敵人的攻擊）是徒勞的，俄羅斯的能源系統是世界上最強大的。"
-    },
-    {
-      "id": "mkt:019f4253-2048-7aab-8cf6-9ae298267015",
-      "time": "2026-07-08 23:22:51",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russian President Putin said Russia's energy system is the most powerful in the world."
-    },
-    {
-      "id": "mkt:019f4253-1497-7aab-8cf6-96e14d142d7c",
-      "time": "2026-07-08 23:22:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Alipay Huabei repayment page inaccessible, users report】On the evening of July 8 users reported Alipay's Huabei repayment page could not be opened. Some users saw messages saying \"due to institutional maintenance, bills temporarily unavailable\" or \"page encountered a problem, try again later,\" with a header noting \"current number of queries too high.\" Alipay has not issued an official statement; customer service said it has received reports and is handling the issue urgently."
-    },
-    {
-      "id": "te:markets:565347",
-      "time": "2026-07-08 23:22:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Surges Over 13% — Heating oil futures in the US surged over 13% to $3.75 per gallon on Wednesday, the highest in over one month, amid mounting threats to supply. Iran and the US exchanged a wave of attacks after the IRGC struck a tanker crossing the Strait of Hormuz, prompting President Trump to negate the validity of the current ceasefire after multiple tankers turned back from crossing the chokepoint. The increase in crude oil prices was exacerbated by soaring crack spreads in distillate fuel as tight refining capacity drove energy companies to hike sales prices. On top of that, major diesel producer Russia announced it would halt exports and shift to an importer, as higher crude prices exacerbated the series of Ukrainian strikes on the country's largest refineries. Heating oil prices had dropped sharply since peaking at a record high of $4.7 after in late March, but recently rebounded to trade over 40% above levels from before the conflict."
-    },
-    {
-      "id": "mkt:019f4252-b61c-7aab-8cf6-8afe47097b30",
-      "time": "2026-07-08 23:22:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Putin said adversaries are attempting to harm Russia's economy and foment social tensions."
-    },
-    {
-      "id": "4977203",
-      "time": "2026-07-08 23:22:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "普京：敵人正試圖損害經濟，在社會中製造緊張局勢。"
-    },
-    {
-      "id": "4977202",
-      "time": "2026-07-08 23:22:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其總統埃爾多安對美伊諒解備忘錄持樂觀態度，同時警告各方切勿採取挑釁行為。"
     }
   ]
 }

@@ -1,7 +1,119 @@
 {
   "date": "2026-07-15",
-  "count": 3665,
+  "count": 3678,
   "items": [
+    {
+      "id": "mkt:019f6661-9b3f-7aab-8daa-65b12ccbb0bf",
+      "time": "2026-07-15 23:25:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer will testify at a Senate panel hearing on July 22."
+    },
+    {
+      "id": "4990443",
+      "time": "2026-07-15 23:25:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瑞銀：若伯納姆堅守財政規則，英國國債收益率或將下行20個基點】瑞銀策略師表示，英國的政策不確定性為10年期英國國債（gilts）增加了約20個基點的額外風險溢價，而在安迪·伯納姆（Andy Burnham）正式確認成為工黨領袖之前，市場尚未將這部分溢價完全剔除。穆斯塔法·奧古茲·卡伊蘭（Mustafa Oguz Caylan）在週三釋出的一份報告中表示：“如果秋季預算符合當前的財政規則，這將為英國國債提供至少20個基點的反彈空間。”目前，英國10年期國債收益率已小幅下行4個基點，至4.94%。"
+    },
+    {
+      "id": "4990442",
+      "time": "2026-07-15 23:24:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報78.54美元/桶。"
+    },
+    {
+      "id": "mkt:019f6660-752a-7aab-8daa-5ae27929257d",
+      "time": "2026-07-15 23:23:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kevin Warsh said if policymakers had monitored money supply in 2021 they might have detected early signs of inflation."
+    },
+    {
+      "id": "4990441",
+      "time": "2026-07-15 23:23:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 倘若當時關注貨幣供應量，我們或許早在 2021 年就已察覺相關問題。"
+    },
+    {
+      "id": "mkt:019f6660-40fb-7aab-8daa-56a82667fa96",
+      "time": "2026-07-15 23:23:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said monetary aggregates are not perfect but provide a useful cross-check."
+    },
+    {
+      "id": "4990440",
+      "time": "2026-07-15 23:23:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 貨幣總量指標並非盡善盡美，但不失為一項有效的交叉驗證工具。"
+    },
+    {
+      "id": "4990439",
+      "time": "2026-07-15 23:22:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空：殼牌航空將在達美航空樞紐供應混合可持續航空燃料與純可持續航空燃料。"
+    },
+    {
+      "id": "4990438",
+      "time": "2026-07-15 23:22:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報57.47美元/盎司。"
+    },
+    {
+      "id": "4990437",
+      "time": "2026-07-15 23:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美航空與殼牌簽署為期五年的航空燃料合作協議，計劃到 2030 年擴大可持續航空燃料（SAF）使用規模。"
+    },
+    {
+      "id": "4990436",
+      "time": "2026-07-15 23:21:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我並非以貨幣主義者的身份出席本次會議。"
+    },
+    {
+      "id": "mkt:019f665e-5fc9-7aab-8daa-4e9fb920a078",
+      "time": "2026-07-15 23:21:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve chair Kevin Warsh said including the M2 indicator in Fed reports was deliberate."
+    },
+    {
+      "id": "4990435",
+      "time": "2026-07-15 23:21:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲報告新增 M2 貨幣供應量指標是有意為之。"
+    },
     {
       "id": "mkt:019f665e-41a9-7aab-8daa-4592548f6735",
       "time": "2026-07-15 23:21:20",
