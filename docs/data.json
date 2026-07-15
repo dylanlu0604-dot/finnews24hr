@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-15 08:41:49",
-  "count": 18748,
+  "updated": "2026-07-15 08:45:47",
+  "count": 18746,
   "items": [
+    {
+      "id": "4988715",
+      "time": "2026-07-15 08:44:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI：服務已恢復正常，系統運轉良好】7月15日，據OpenAI狀態頁面最新更新，此前遭遇故障的ChatGPT及其相關係統已完全恢復正常執行。頁面狀態現已轉為綠色的“服務正常運轉”。OpenAI官方表示，目前未監測到任何影響其系統執行的已知問題。"
+    },
+    {
+      "id": "4988714",
+      "time": "2026-07-15 08:43:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：系統全面恢復執行。"
+    },
+    {
+      "id": "mkt:019f6339-3e49-7aab-8d8c-95c27b03b10f",
+      "time": "2026-07-15 08:42:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance is due to meet House Republicans at the Capitol on Wednesday afternoon as GOP leaders press for support for a new $80 billion partisan spending package to fund the Pentagon, provide farm aid and enact portions of an election bill championed by Trump."
+    },
+    {
+      "id": "mkt:019f6339-3768-7aab-8d8c-8cfe6a9f7236",
+      "time": "2026-07-15 08:42:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Bahrain raises air-defence alert again; Kuwait says it intercepted \"hostile drone\"】Bahrain’s Interior Ministry said on social media in the early hours of the 15th that the kingdom again raised an air-defence alert. Kuwait’s military said in a statement the same morning that its air-defence forces intercepted a \"hostile drone\" attack."
+    },
+    {
+      "id": "4988713",
+      "time": "2026-07-15 08:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林再次拉響防空警報 科威特攔截無人機】巴林內政部15日凌晨在社交媒體上說，巴林再次拉響防空警報。科威特軍方當日凌晨發表宣告說，科威特防空部隊對“敵對無人機”襲擊實施攔截。 （新華社）"
+    },
     {
       "id": "4988712",
       "time": "2026-07-15 08:41:06",
@@ -171587,75 +171637,6 @@
         "國際"
       ],
       "text": "【卡達譴責卡方天然氣運輸船遭襲 稱伊朗應承擔責任】卡達7日譴責卡方一艘液化天然氣運輸船在霍爾木茲海峽附近遭襲，稱此舉違反國際法，並對國際海上航行安全和全球能源安全構成威脅。卡達首相顧問兼外交部發言人安薩里當天在社交媒體發表宣告說，此次襲擊是“對國際海上航行安全、全球能源供應以及國際水道航行自由原則不可接受的攻擊”。他說，卡達認為，伊朗應對這起襲擊事件以及由此造成的一切損失和後果承擔全部法律責任。（央視新聞）"
-    },
-    {
-      "id": "4975227",
-      "time": "2026-07-08 08:45:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國Kospi指數逆轉早盤跌勢；最新漲0.4%，報7687.35點。SK海力士上漲3.4%。"
-    },
-    {
-      "id": "mkt:019f3f2f-214a-7aab-8cd9-d932783e23b4",
-      "time": "2026-07-08 08:44:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Huawei Cloud, Yijiahe sign memorandum to push CloudRobo embodied-AI commercialization】Huawei Cloud and Yijiahe signed a memorandum to cooperate on CloudRobo embodied-intelligence robots, focusing on joint product development and coordinated sales. Yijiahe will supply scenario expertise, product design and manufacturing based on its power and eldercare deployments. Huawei Cloud will provide platformized large- and small‑brain products and work with its power business on scenario solution design. Both parties aim to accelerate commercial roll-out of embodied-AI robots in enterprise scenes."
-    },
-    {
-      "id": "4975226",
-      "time": "2026-07-08 08:44:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【華為雲與億嘉和簽約合作 加速具身智慧商用化落地】據華為雲訊息，近日，華為雲與億嘉和簽署CloudRobo具身智慧機器人合作備忘錄。雙方將基於各自優勢，開展產品聯合開發，協同銷售等合作。億嘉和將基於在電力、康養等場景深耕的產品能力積累，提供場景和產品設計製造等能力；華為雲將提供平臺化大小腦產品能力，並協同電力軍團進行場景化方案規劃設計，雙方共同推動具身智慧機器人產品在商業場景的落地。"
-    },
-    {
-      "id": "4975225",
-      "time": "2026-07-08 08:43:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國KOSPI指數轉漲】韓國KOSPI指數轉漲，此前一度跌近4%。"
-    },
-    {
-      "id": "mkt:019f3f2d-82e2-7aab-8cd9-d293f36bd12a",
-      "time": "2026-07-08 08:42:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei index narrows losses, down 0.3%."
-    },
-    {
-      "id": "4975224",
-      "time": "2026-07-08 08:42:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "日股日經指數收窄跌幅，最新下跌0.44%。"
-    },
-    {
-      "id": "mkt:019f3f2c-aa88-7aab-8cd9-cf398f404231",
-      "time": "2026-07-08 08:41:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "South Korea's KOSPI reversed earlier losses of more than 3% to trade higher; SK Hynix rose over 2%."
     }
   ]
 }

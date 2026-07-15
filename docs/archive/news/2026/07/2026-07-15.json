@@ -1,7 +1,57 @@
 {
   "date": "2026-07-15",
-  "count": 828,
+  "count": 833,
   "items": [
+    {
+      "id": "4988715",
+      "time": "2026-07-15 08:44:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI：服務已恢復正常，系統運轉良好】7月15日，據OpenAI狀態頁面最新更新，此前遭遇故障的ChatGPT及其相關係統已完全恢復正常執行。頁面狀態現已轉為綠色的“服務正常運轉”。OpenAI官方表示，目前未監測到任何影響其系統執行的已知問題。"
+    },
+    {
+      "id": "4988714",
+      "time": "2026-07-15 08:43:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：系統全面恢復執行。"
+    },
+    {
+      "id": "mkt:019f6339-3e49-7aab-8d8c-95c27b03b10f",
+      "time": "2026-07-15 08:42:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Vice President Vance is due to meet House Republicans at the Capitol on Wednesday afternoon as GOP leaders press for support for a new $80 billion partisan spending package to fund the Pentagon, provide farm aid and enact portions of an election bill championed by Trump."
+    },
+    {
+      "id": "mkt:019f6339-3768-7aab-8d8c-8cfe6a9f7236",
+      "time": "2026-07-15 08:42:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Bahrain raises air-defence alert again; Kuwait says it intercepted \"hostile drone\"】Bahrain’s Interior Ministry said on social media in the early hours of the 15th that the kingdom again raised an air-defence alert. Kuwait’s military said in a statement the same morning that its air-defence forces intercepted a \"hostile drone\" attack."
+    },
+    {
+      "id": "4988713",
+      "time": "2026-07-15 08:41:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林再次拉響防空警報 科威特攔截無人機】巴林內政部15日凌晨在社交媒體上說，巴林再次拉響防空警報。科威特軍方當日凌晨發表宣告說，科威特防空部隊對“敵對無人機”襲擊實施攔截。 （新華社）"
+    },
     {
       "id": "4988712",
       "time": "2026-07-15 08:41:06",
