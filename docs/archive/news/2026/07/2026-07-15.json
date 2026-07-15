@@ -1,7 +1,89 @@
 {
   "date": "2026-07-15",
-  "count": 2694,
+  "count": 2703,
   "items": [
+    {
+      "id": "4989881",
+      "time": "2026-07-15 19:24:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：塞爾維亞將利用歐盟5億歐元債券發行所得資金進行國防現代化建設。"
+    },
+    {
+      "id": "mkt:019f6585-1ab4-7aab-8d9f-99bf01584b05",
+      "time": "2026-07-15 19:24:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Buffett said Abel is the decision-maker, but neither side will take actions the other opposes."
+    },
+    {
+      "id": "4989880",
+      "time": "2026-07-15 19:24:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴菲特稱仍看好伯克希爾對蘋果的投資。"
+    },
+    {
+      "id": "mkt:019f6584-eae2-7aab-8d9f-90cf94b8f05f",
+      "time": "2026-07-15 19:23:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Buffett said he remains positive about Berkshire Hathaway's investment in Apple (AAPL.O)."
+    },
+    {
+      "id": "mkt:019f6584-c0bb-7aab-8d9f-8e32aa521e54",
+      "time": "2026-07-15 19:23:46",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Iran's Health Ministry said more than 260 people have been injured so far in the latest round of war provocations against the country, including three women and six minors under 18. 222 of the injured have been treated and discharged."
+    },
+    {
+      "id": "4989879",
+      "time": "2026-07-15 19:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海河流域終止防汛和洪水防禦應急響應】記者15日從水利部海河水利委員會獲悉，目前海河流域灤河、北三河洪水已處於退水階段，河道水位逐漸回落，汛情進一步緩解。根據《海河防汛抗旱總指揮部防汛應急響應預案》和《水利部海河水利委員會水旱災害防禦應急響應工作規程》有關規定，經研究，海河防總、海委於7月15日16時分別終止防汛Ⅳ級應急響應和洪水防禦Ⅳ級應急響應。（新華社）"
+    },
+    {
+      "id": "4989878",
+      "time": "2026-07-15 19:23:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "當被問及 Alphabet 的這筆投資出自他本人還是伯克希爾執行長格雷格·阿貝爾之手時，巴菲特表示，阿貝爾是“拍板人”，但二人從未推行過對方不認可的投資決策。"
+    },
+    {
+      "id": "4989877",
+      "time": "2026-07-15 19:22:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【諾基亞與英偉達推出行業首個商用AI-RAN平臺】7月15日，諾基亞公司發表宣告稱，公司已與英偉達共同開發出業界首個商用人工智慧驅動的無線接入網路（AI-RAN）平臺。諾基亞表示，新的網路裝置將使電信網路運營商到2028年能夠在相同無線頻段上傳輸的資料量翻倍，其預計將於明年上市。"
+    },
+    {
+      "id": "4989876",
+      "time": "2026-07-15 19:21:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "法國財政部長萊斯屈爾：A類儲蓄新利率將從1.5%上調至1.7%。"
+    },
     {
       "id": "mkt:019f6582-31e3-7aab-8d9f-810cc87108d9",
       "time": "2026-07-15 19:20:58",
