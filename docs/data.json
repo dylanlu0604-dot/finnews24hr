@@ -1,7 +1,215 @@
 {
-  "updated": "2026-07-15 09:31:36",
-  "count": 18730,
+  "updated": "2026-07-15 09:35:33",
+  "count": 18739,
   "items": [
+    {
+      "id": "mkt:019f6369-82bd-7aab-8d8d-f190d01d41a9",
+      "time": "2026-07-15 09:34:46",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【NBS: YoY declines in new home prices across China’s tier‑1/2/3 cities narrowed in June】NBS urban statistics senior statistician Yang Caifang released June 2026 housing price data. New home prices in tier‑1 cities fell 1.3% YoY in June, a 0.4 ppt narrowing from May; Beijing -2.1%, Guangzhou -2.6%, Shenzhen -3.6%, Shanghai +3.1%. Tier‑2 new home prices fell 3.1% YoY, narrowing 0.1 ppt; tier‑3 fell 4.2% YoY, unchanged from May. Second‑hand prices in tier‑1 cities fell 4.9% YoY, a 0.9 ppt narrowing; city breakdown Beijing -5.5%, Shanghai -3.2%, Guangzhou -6.1%, Shenzhen -4.7%. Tier‑2 and tier‑3 second‑hand prices fell 5.4% and 6.0% YoY, with declines narrowing 0.3 ppt and 0.2 ppt respectively."
+    },
+    {
+      "id": "mkt:019f6368-f835-7aab-8d8d-edaeb5e4c3c7",
+      "time": "2026-07-15 09:34:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【NBS: China first‑tier new‑home prices up MoM in June; second‑tier flat, third‑tier down】China NBS: In June, first‑tier cities' new‑home sales prices rose 0.1% MoM, 0.1ppt slower than May. Shanghai, Guangzhou and Shenzhen rose 0.3%, 0.2% and 0.3% respectively; Beijing -0.3%. Second‑tier new‑home prices were flat MoM (from -0.1% in May). Third‑tier new‑home prices fell 0.3% MoM, a 0.1ppt smaller decline than May. Of 70 large/medium cities, 20 saw MoM gains in new‑home prices, up four cities and the most since May 2025. Second‑hand home prices in first‑tier cities rose 0.3% MoM (0.1ppt slower): Beijing +0.1%, Shanghai +0.4%, Guangzhou +0.4%, Shenzhen +0.3%. Second‑tier second‑hand prices -0.3% MoM (0.1ppt wider); third‑tier second‑hand prices -0.4% MoM, unchanged. Among 70 cities, nine recorded MoM increases in second‑hand prices, down one city."
+    },
+    {
+      "id": "4988794",
+      "time": "2026-07-15 09:33:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4988793",
+      "time": "2026-07-15 09:33:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "儲存晶片概念開盤活躍，聯芸科技漲超10%，通富微電、時空科技、精智達、安集科技、太極實業漲幅居前。"
+    },
+    {
+      "id": "4988792",
+      "time": "2026-07-15 09:32:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【PCB概念盤初走強，賢豐控股漲停】PCB概念盤初走強，賢豐控股漲停，金安國紀、永冠新材、廣合科技、宏昌電子、華正新材、東材科技等跟漲。"
+    },
+    {
+      "id": "te:markets:566967",
+      "time": "2026-07-15 09:32:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Climb on Global Tech Rally — The benchmark KOSPI climbed more than 6% to around 7,300 on Wednesday, extending gains from the previous session amid a global technology rally. Softer-than-expected US inflation data boosted semiconductor stocks and reduced expectations of near-term Federal Reserve tightening, supporting risk appetite. Heavyweight chipmakers led the advance, with SK Hynix surging nearly 12% after its US-listed shares rallied overnight, aided by a rebound in global semiconductor stocks and a positive brokerage initiation. Samsung Electronics also gained more than 5%, while SK Square (19.1%), Hyundai Motor (1.2%), LG Energy Solution (3.7%), Kia Corporation (2.5%), and Hanwha Aerospace (5.5%) advanced. Investor sentiment was further supported after South Korea's finance ministry said the country's economic recovery is solidifying on the back of robust exports and improving domestic demand, while raising its 2026 growth forecast to 3%."
+    },
+    {
+      "id": "mkt:019f6367-cd64-7aab-8d8d-e20294013389",
+      "time": "2026-07-15 09:32:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "National Bureau of Statistics: Beijing newly built commercial residential prices in June -0.3% MoM (May -0.2%), -2.1% YoY (May -2.1%)."
+    },
+    {
+      "id": "mkt:019f6367-b7e8-7aab-8d8d-dd71acb041da",
+      "time": "2026-07-15 09:32:49",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share film and cinema sector rallied; Ruyi Film hit the daily limit, while Happy Blue Ocean, Enlight Media, Beijing Culture, China Film and Aofei Entertainment also advanced."
+    },
+    {
+      "id": "4988791",
+      "time": "2026-07-15 09:32:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "【農業種植板塊盤初走弱，眾興菌業跌停】農業種植板塊盤初走弱，眾興菌業跌停，隆平高科、好想你、雪榕生物、神農種業、金健米業、康農種業等跟跌。"
+    },
+    {
+      "id": "mkt:019f6367-95ee-7aab-8d8d-ccd17811250c",
+      "time": "2026-07-15 09:32:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NBS: Shenzhen new home prices in June MoM +0.3% (May +0.4%); YoY -3.6% (May -4.5%)."
+    },
+    {
+      "id": "mkt:019f6367-95ef-7aab-8d8d-d0a1f3a9415a",
+      "time": "2026-07-15 09:32:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share healthcare services sector surged; Dahu hit the daily limit. Kailaiying, Boji Pharma, Aopumai, Bide Pharma and Yinuosi also advanced."
+    },
+    {
+      "id": "4988790",
+      "time": "2026-07-15 09:32:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥概念反覆活躍 哈藥股份4連板】創新藥概念反覆活躍，哈藥股份4連板，迪哲醫藥20cm2連板，昭衍新藥觸及漲停，益諾思、石藥創新、睿智醫藥、博瑞醫藥等跟漲。"
+    },
+    {
+      "id": "mkt:019f6367-8785-7aab-8d8d-c0440568dd84",
+      "time": "2026-07-15 09:32:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China National Bureau of Statistics: Shenzhen second‑hand residential prices in June rose 0.3% MoM (prior 0.6%); fell 4.7% YoY (prior -5.5%)."
+    },
+    {
+      "id": "4988789",
+      "time": "2026-07-15 09:32:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊衝高，儒意電影漲停】影視院線板塊衝高，儒意電影漲停，幸福藍海、光線傳媒、北京文化、中國電影、奧飛娛樂跟漲。"
+    },
+    {
+      "id": "4988788",
+      "time": "2026-07-15 09:32:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【6月份各線城市商品住宅銷售價格同比降幅總體繼續收窄】2026年6月份，70個大中城市中，一線城市商品住宅銷售價格環比上漲，二三線城市環比下降或持平，一二三線城市同比降幅總體繼續收窄。新建商品住宅銷售價格環比上漲城市個數比上月繼續增加。6月份，一線城市新建商品住宅銷售價格環比上漲0.1%，漲幅比上月回落0.1個百分點。其中，上海、廣州和深圳分別上漲0.3%、0.2%和0.3%，北京下降0.3%。二線城市新建商品住宅銷售價格環比由上月下降0.1%轉為持平。三線城市新建商品住宅銷售價格環比下降0.3%，降幅比上月收窄0.1個百分點。70個大中城市中，新建商品住宅銷售價格環比上漲城市有20個，比上月增加4個，為2025年5月以來最多。6月份，一線城市二手住宅銷售價格環比上漲0.3%，漲幅比上月回落0.1個百分點。其中，北京、上海、廣州和深圳分別上漲0.1%、0.4%、0.4%和0.3%。二線城市二手住宅銷售價格環比下降0.3%，降幅比上月擴大0.1個百分點。三線城市二手住宅銷售價格環比下降0.4%，降幅與上月相同。70個大中城市中，二手住宅銷售價格環比上漲城市有9個，比上月減少1個。(國家統計局)"
+    },
+    {
+      "id": "mkt:019f6367-4972-7aab-8d8d-bbcd04536857",
+      "time": "2026-07-15 09:32:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Money-market yield snapshot: Licaitong, WeChat Wallet, Yu'e Bao】Tencent Licaitong (current + 7-day annualized) ranged 0.7870%–1.3590%. WeChat Wallet 7-day annualized yield ranged 0.8410%–1.0310%. Alipay Yu'e Bao 7-day annualized yield ranged 0.9210%–1.0680%."
+    },
+    {
+      "id": "mkt:019f6367-2cf8-7aab-8d8d-b5ba637f076b",
+      "time": "2026-07-15 09:32:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "National Bureau of Statistics: Guangzhou newly built commercial housing prices in June MoM +0.2% (prev +0.2%), YoY -2.6% (prev -3.3%)."
+    },
+    {
+      "id": "4988787",
+      "time": "2026-07-15 09:32:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【醫療服務板塊直線拉昇，大湖股份漲停】醫療服務板塊直線拉昇，大湖股份漲停，凱萊英、博濟醫藥、奧浦邁、畢得醫藥、益諾思等紛紛走高。"
+    },
+    {
+      "id": "4988786",
+      "time": "2026-07-15 09:31:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國家統計局：6月份各線城市商品住宅銷售價格同比降幅總體繼續收窄】國家統計局城市司高階統計師楊彩芳解讀2026年6月份商品住宅銷售價格變動情況統計資料時表示，6月份，70個大中城市中，一線城市商品住宅銷售價格環比上漲，二三線城市環比下降或持平，一二三線城市同比降幅總體繼續收窄。新建商品住宅銷售價格環比上漲城市個數比上月繼續增加。一、一線城市商品住宅銷售價格環比上漲，二三線城市環比下降或持平6月份，一線城市新建商品住宅銷售價格環比上漲0.1%，漲幅比上月回落0.1個百分點。其中，上海、廣州和深圳分別上漲0.3%、0.2%和0.3%，北京下降0.3%。二線城市新建商品住宅銷售價格環比由上月下降0.1%轉為持平。三線城市新建商品住宅銷售價格環比下降0.3%，降幅比上月收窄0.1個百分點。70個大中城市中，新建商品住宅銷售價格環比上漲城市有20個，比上月增加4個，為2025年5月以來最多。6月份，一線城市二手住宅銷售價格環比上漲0.3%，漲幅比上月回落0.1個百分點。其中，北京、上海、廣州和深圳分別上漲0.1%、0.4%、0.4%和0.3%。二線城市二手住宅銷售價格環比下降0.3%，降幅比上月擴大0.1個百分點。三線城市二手住宅銷售價格環比下降0.4%，降幅與上月相同。70個大中城市中，二手住宅銷售價格環比上漲城市有9個，比上月減少1個。二、一二三線城市商品住宅銷售價格同比降幅總體繼續收窄6月份，一線城市新建商品住宅銷售價格同比下降1.3%，降幅比上月收窄0.4個百分點。"
+    },
+    {
+      "id": "mkt:019f6366-47d5-7aab-8d8d-a8ad77c67628",
+      "time": "2026-07-15 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open】2-year bond futures (TS) most-active contract unchanged; 5-year (TF) unchanged; 10-year (T) up 0.01%; 30-year (TL) up 0.04%."
+    },
+    {
+      "id": "mkt:019f6366-3d3c-7aab-8d8d-a017238cd73f",
+      "time": "2026-07-15 09:31:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China equity index futures open higher】CSI 300 index futures (IF) most-active contract +0.31%; SSE 50 (IH) +0.39%; CSI 500 (IC) +0.80%; CSI 1000 (IM) +0.84% at the morning open."
+    },
     {
       "id": "4988785",
       "time": "2026-07-15 09:30:51",
@@ -171360,122 +171568,6 @@
         "其他"
       ],
       "text": "Rivian：以每股15.5美元定價增發7500萬股，募資總額12億美元。"
-    },
-    {
-      "id": "4975318",
-      "time": "2026-07-08 09:34:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【錦浪科技：三季度公司訂單飽滿 逆變器業務預計發貨環比增長30%左右】錦浪科技7月7日在電話會議上表示，2026年三季度公司訂單飽滿，逆變器業務（戶儲、工商儲、併網逆變器合計）預計發貨環比增長30%左右，預計儲能逆變器增速快於併網逆變器。戶儲系統當前配套率約20%-30%，2027年目標配套率提升至50%以上，系統業務增速將顯著快於逆變器業務。工商儲業務方面，當前工商儲逆變器月接單量已達4000多套，趨勢逐月向上；工商儲系統當前返單率很高。"
-    },
-    {
-      "id": "mkt:019f3f5c-b315-7aab-8cdb-3cac13651419",
-      "time": "2026-07-08 09:34:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share semiconductor sector jumped at the open; Canxin and Fudan Microelectronics rose over 10%, while Xinyuan, Rockchip and Shengke Communication also gained."
-    },
-    {
-      "id": "te:economy:565024",
-      "time": "2026-07-08 09:34:23",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Interest Rate",
-        "Importance 1"
-      ],
-      "text": "Australia Economy Resilient as Oil Shocks Hit Confidence: RBA Hunter — Australia’s consumer and business confidence has weakened following the recent oil price shock, though economic activity shows little sign of slowing, Reserve Bank of Australia Assistant Governor Sarah Hunter said Wednesday. Addressing supply shocks, she cautioned that central banks cannot always “look through” such disruptions, warning that if inflation expectations rise, restoring stability may require “some period of low inflation and higher unemployment.” Hunter stressed that while supply shocks pose difficult trade-offs, they do not diminish the importance of maintaining low and stable inflation. She added the board “will continue to act as needed to ensure inflation returns to target and the labour market to sustainable full employment.” The RBA has raised its cash rate three times this year to 4.35% in response to the global energy shock triggered by the Iran war. Policymakers left rates unchanged in June but reiterated that further tightening remains possible."
-    },
-    {
-      "id": "4975317",
-      "time": "2026-07-08 09:33:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體板塊盤初拉昇，燦芯股份、復旦微電漲超10%】半導體板塊盤初拉昇，燦芯股份、復旦微電漲超10%，芯原股份、瑞芯微、盛科通訊跟漲。"
-    },
-    {
-      "id": "4975316",
-      "time": "2026-07-08 09:33:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4975315",
-      "time": "2026-07-08 09:32:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "【旅遊概念表現活躍 西藏旅遊直線漲停】旅遊概念表現活躍，西藏旅遊直線漲停，錦江酒店、大連聖亞、張家界、陝西旅遊跟漲。"
-    },
-    {
-      "id": "mkt:019f3f5a-d4b0-7aab-8cdb-3418cecd3d9f",
-      "time": "2026-07-08 09:32:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "HSI",
-        "Impact bullish",
-        "01347.HK",
-        "00981.HK"
-      ],
-      "text": "Hong Kong stocks opened higher and extended gains. The Hang Seng Index rose about 1%, the Hang Seng Technology Index climbed more than 2%, with semiconductors leading — Huahong Hongli (01347.HK) up over 5% and SMIC (00981.HK) nearly 4%."
-    },
-    {
-      "id": "mkt:019f3f5a-9485-7aab-8cdb-2fd921736607",
-      "time": "2026-07-08 09:32:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【China index futures open higher】China's CSI 300 index futures (IF) front-month contract up 0.29% at the morning open; SSE 50 index futures (IH) up 0.25%; CSI 500 (IC) up 0.48%; CSI 1000 (IM) up 0.34%."
-    },
-    {
-      "id": "mkt:019f3f5a-8e09-7aab-8cdb-20b6d7a7c868",
-      "time": "2026-07-08 09:32:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Chinese government bond futures open】Chinese government bond futures opened: 2-year (TS) main contract unchanged, 5-year (TF) unchanged, 10-year (T) unchanged, 30-year (TL) up 0.03%."
-    },
-    {
-      "id": "4975314",
-      "time": "2026-07-08 09:31:52",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【交換機、通訊裝置方向盤初拉昇，紫光股份漲停】交換機、通訊裝置方向盤初拉昇，紫光股份漲停，銳捷網路、星網銳捷、菲菱科思、翱捷科技跟漲。"
-    },
-    {
-      "id": "4975313",
-      "time": "2026-07-08 09:31:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超2％，恒生指數現漲1％，半導體板塊走強。"
-    },
-    {
-      "id": "4975312",
-      "time": "2026-07-08 09:31:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報23732.898點；恒生科技指數現漲1.775%。"
     }
   ]
 }
