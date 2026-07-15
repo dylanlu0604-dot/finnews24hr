@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-16 00:08:58",
-  "count": 18803,
+  "updated": "2026-07-16 00:12:57",
+  "count": 18793,
   "items": [
+    {
+      "id": "te:markets:567294",
+      "time": "2026-07-16 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.85% Lower — The FTSE MIB Index fell 451 points or 0.85 percent on Wednesday to close at 52411 points. Leading the losses are STMicroelectronics (-4.34%), Prysmian (-2.67%) and Avio (-2.52%). Top gainers were Nexi (4.52%), Stellantis N.V. (3.86%) and Brunello Cucinelli (3.31%)."
+    },
+    {
+      "id": "te:markets:567293",
+      "time": "2026-07-16 00:11:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Hits One-Month High — The Canadian dollar strengthened to around 1.40 per USD in July, reaching its strongest level in nearly a month after the Bank of Canada kept its key policy rate unchanged at 2.25%, as widely expected. The central bank struck a relatively hawkish tone, noting that the economy is showing signs of improvement, with stronger growth projected over the medium term and inflation expected to remain above previous forecasts in 2026 before gradually easing. Policymakers also highlighted persistent risks stemming from the conflict in the Middle East and US trade policy, reinforcing expectations that interest rates will remain unchanged for an extended period. The loonie also benefited from a softer US dollar after US producer prices came in below expectations."
+    },
+    {
+      "id": "mkt:019f668c-0c6d-7aab-8dab-ffcc8dee9c4c",
+      "time": "2026-07-16 00:11:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Hearing for Federal Reserve Chair Kevin Warsh concluded."
+    },
+    {
+      "id": "4990499",
+      "time": "2026-07-16 00:11:03",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席凱文・沃什結束參議院聽證會證詞陳述。"
+    },
+    {
+      "id": "te:markets:567292",
+      "time": "2026-07-16 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.59% Lower — The DAX Index dropped 148 points or 0.59 percent on Wednesday to close at 25000 points. Losses were led by Infineon (-5.45%), BASF (-2.99%) and Bayer (-2.87%). Offsetting the fall, top gainers were HeidelbergCement (3.41%), Volkswagen (3.20%) and BMW (2.79%)."
+    },
+    {
+      "id": "4990498",
+      "time": "2026-07-16 00:10:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 投資者應當理清當前經濟形勢。"
+    },
+    {
+      "id": "te:markets:567291",
+      "time": "2026-07-16 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.13% Higher — The CAC 40 Index went up by 11 points or 0.13 percent on Wednesday to close at 8378 points. The rise was led by Stellantis NV (3.96%), Edenred (3.94%) and Renault (3.56%). On the downside, the weakerst performers were STMicroelectronics (-7.66%), Air Liquide (-1.89%) and Carrefour (-1.47%)."
+    },
+    {
+      "id": "4990497",
+      "time": "2026-07-16 00:09:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 華爾街已有不少人對我心存不滿。"
+    },
+    {
+      "id": "te:markets:567290",
+      "time": "2026-07-16 00:09:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Mixed — European stock indices closed mixed on Wednesday amid an uncertain macroeconomic backdrop as markets parsed key earnings reports. The Euro STOXX 50 inched lower by 0.2% to 6,267 and the STOXX Europe 600 rose 0.2% to 643. ASML raised its guidance for the near future and announced plans to expand production capacity following better-than-expected second-quarter results, driven by strong demand for chip producers. Still, another session of sharp losses for semiconductor manufacturers drove the stock to close flat, despite a 7% increase in morning deals. Meanwhile, luxury brands rose sharply after Richemont posted strong results, lifting their shares by 6%. LVMH and Hermes gained around 2.5% each. On the other hand, banks fell as sovereign yields increased, denting the outlook for credit. Energy prices remained elevated as strikes between the US and Iran escalated, denting hopes of natural gas and fuel exports from the Middle East."
+    },
+    {
+      "id": "te:markets:567289",
+      "time": "2026-07-16 00:09:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "UK Stocks Finish Marginally Down — The FTSE 100 pared early losses to close marginally down at 10,516 on Wednesday, led by miners and telecom companies, while elevated tensions in the Middle East dented risk appetite. China's weaker-than-expected GDP data fueled concerns that slowing economic growth would curb demand for industrial metals, weighing on mining stocks such as Anglo American (-3.4%), Glencore (-2.4%) and Rio Tinto (-1.3%). Antofagasta also fell 2.6% despite maintaining its copper production outlook. Fresnillo /-3.1%) and Endeavour Mining (-2.5%) were pressured by easing precious metals prices. Other notable decliners included Vodafone Group, Airtel Africa and tech fund Scottish Mortgage."
+    },
     {
       "id": "mkt:019f6689-613a-7aab-8dab-f13dbd3eba08",
       "time": "2026-07-16 00:08:27",
@@ -75,6 +184,15 @@
         "Impact mixed"
       ],
       "text": "Fed chair Kevin Warsh said he is willing to reform bank stress tests."
+    },
+    {
+      "id": "em:qqyh_mlc:202607163807881793",
+      "time": "2026-07-16 00:04:45",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲主席沃什表示，對改革銀行壓力測試持開放態度。"
     },
     {
       "id": "mkt:019f6685-c939-7aab-8dab-d93e5ef2812d",
@@ -172787,208 +172905,6 @@
         "國際"
       ],
       "text": "特朗普：真希望我們能更快地製造武器，這樣我們就能快速出售了。"
-    },
-    {
-      "id": "4977299",
-      "time": "2026-07-09 00:12:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典政府表示，瑞典與德國簽署了防空領域意向書。"
-    },
-    {
-      "id": "mkt:019f4280-7e8b-7aab-8cf8-42686fc71953",
-      "time": "2026-07-09 00:12:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said NATO members will respond to the request."
-    },
-    {
-      "id": "4977298",
-      "time": "2026-07-09 00:12:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：北約峰會上展現了極強的團結。"
-    },
-    {
-      "id": "4977297",
-      "time": "2026-07-09 00:12:17",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我們接下來將為美國軍方申請1.5萬億美元經費。"
-    },
-    {
-      "id": "te:markets:565373",
-      "time": "2026-07-09 00:12:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 1.22% Lower — The FTSE MIB Index fell 638 points or 1.22 percent on Wednesday to close at 51817 points. Leading the losses are Stellantis N.V. (-6.02%), Brunello Cucinelli (-4.51%) and Fincantieri (-3.88%)."
-    },
-    {
-      "id": "4977296",
-      "time": "2026-07-09 00:12:01",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：今年我們已為我國武裝部隊投入1萬億美元。"
-    },
-    {
-      "id": "mkt:019f4280-21a6-7aab-8cf8-3d2bad8b87bc",
-      "time": "2026-07-09 00:12:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said at the NATO summit NATO members agreed to raise defense spending to 5% of GDP from 2% and are making strong progress toward that target."
-    },
-    {
-      "id": "4977295",
-      "time": "2026-07-09 00:11:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談北約：他們將響應號召（提高國防目標）。"
-    },
-    {
-      "id": "4977294",
-      "time": "2026-07-09 00:11:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 伊朗數百架飛機已悉數被毀。"
-    },
-    {
-      "id": "mkt:019f427f-8877-7aab-8cf8-37c03d2a74e1",
-      "time": "2026-07-09 00:11:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the United States remains NATO's largest contributor."
-    },
-    {
-      "id": "4977293",
-      "time": "2026-07-09 00:11:18",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談北約：成員國在達到5%國防開支目標方面正取得巨大進展。"
-    },
-    {
-      "id": "te:markets:565369",
-      "time": "2026-07-09 00:11:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 2.23% Lower — The DAX Index dropped 568 points or 2.23 percent on Wednesday to close at 24897 points. Losses were led by Vonovia (-6.03%), HeidelbergCement (-5.02%) and Deutsche Bank (-5.00%)."
-    },
-    {
-      "id": "mkt:019f427f-4300-7aab-8cf8-2f14cb1ffaff",
-      "time": "2026-07-09 00:11:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said Iran once had hundreds of aircraft and that they have now all been destroyed."
-    },
-    {
-      "id": "4977292",
-      "time": "2026-07-09 00:11:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及北約工作會議：真可惜媒體沒能看到我們在會場內的交流。在場眾人都極具遠見，心懷善意，毫無惡意，都在為本國盡心盡責。"
-    },
-    {
-      "id": "4977291",
-      "time": "2026-07-09 00:10:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及土耳其之行： 當地機場設施十分氣派，土方專門為我們到訪新建了一座航站樓。 所見一切都令人讚歎。"
-    },
-    {
-      "id": "mkt:019f427e-e9dd-7aab-8cf8-21f57ce9f523",
-      "time": "2026-07-09 00:10:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the US had eliminated their leader and has the world's most powerful military."
-    },
-    {
-      "id": "mkt:019f427e-d3c9-7aab-8cf8-1ea919bde5c1",
-      "time": "2026-07-09 00:10:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "President Trump said the US has taken actions against Iran that should have been taken 47 years ago and has destroyed Iran's military capability."
-    },
-    {
-      "id": "mkt:019f427e-b6b3-7aab-8cf8-1765d77e2286",
-      "time": "2026-07-09 00:10:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said he will see whether he can continue to push oil prices lower and that oil prices should remain low."
-    },
-    {
-      "id": "te:markets:565364",
-      "time": "2026-07-09 00:10:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 2.32% Lower — The CAC 40 Index decreased 196 points or 2.32 percent on Wednesday to close at 8240 points. The decline was led by Stellantis NV (-5.99%), Societe Generale (-5.78%) and Kering (-5.27%)."
-    },
-    {
-      "id": "te:markets:565362",
-      "time": "2026-07-09 00:09:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Cotton Futures Climb Off One-Month High — Cotton futures fell below 81 cents per pound after reaching a one-month high of 81.2 cents on July 7, pressured by a stronger US dollar amid renewed Middle East tensions. US President Donald Trump declared the ceasefire with Iran over and revoked the 60-day waiver allowing Tehran to sell crude, while surging oil prices renewed concerns over supply disruptions and boosted the greenback, making US dollar-denominated commodities more expensive. At the same time, higher oil prices raised feedstock costs for petrochemicals such as naphtha, making synthetic fibers less competitive and helping limit cotton’s losses. Meanwhile, adverse weather continued to support prices, with US crops facing record heat despite most planting being completed. India is expected to receive below-average monsoon rainfall after its fifth-driest June since 1901, delaying planting, while Brazil’s cotton exports rose 10.6% from a year earlier."
-    },
-    {
-      "id": "4977290",
-      "time": "2026-07-09 00:08:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其航空6月載客率同比上升2.3個百分點，達到84.5%。"
     }
   ]
 }
