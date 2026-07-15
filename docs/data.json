@@ -1,7 +1,219 @@
 {
-  "updated": "2026-07-15 18:57:33",
-  "count": 18676,
+  "updated": "2026-07-15 19:01:28",
+  "count": 18673,
   "items": [
+    {
+      "id": "4989846",
+      "time": "2026-07-15 19:00:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "美資料中心運營商Switch據悉正籌備IPO，估值或達800億美元。"
+    },
+    {
+      "id": "mkt:019f656f-a82c-7aab-8d9f-2bbf152a7ec7",
+      "time": "2026-07-15 19:00:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "XPEV.O",
+        "Impact bullish"
+      ],
+      "text": "Sources said XPeng plans a global launch of a humanoid robot next year and aims to reach monthly production of more than 1,000 units by end-2026."
+    },
+    {
+      "id": "4989845",
+      "time": "2026-07-15 19:00:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【碩貝德：預計2026年上半年淨利潤同比下降19.48%—28.42%】碩貝德公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為2400萬元—2700萬元，同比下降19.48%—28.42%；扣除非經常性損益後的淨利潤為2400萬元—2700萬元，同比下降5.05%—15.60%。報告期內，受儲存器件漲價影響，部分終端客戶調整了專案需求；受原材料價格上漲影響，採購成本增加；部分新專案量產前投入增加，對本期業績造成一定影響。"
+    },
+    {
+      "id": "4989844",
+      "time": "2026-07-15 19:00:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國MBA抵押貸款申請指數上週下降2.7%。"
+    },
+    {
+      "id": "mkt:019f656f-2189-7aab-8d9f-235ab01a92f6",
+      "time": "2026-07-15 19:00:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 30-year fixed mortgage rate (MBA) for week to July 10 rose to 6.65% from 6.58%."
+    },
+    {
+      "id": "mkt:019f656f-1b2b-7aab-8d9f-187b31bde022",
+      "time": "2026-07-15 19:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. MBA mortgage purchase index for week ended July 10: 157.2, down from 169.5 prior."
+    },
+    {
+      "id": "mkt:019f656f-18dc-7aab-8d9f-14dfa40244aa",
+      "time": "2026-07-15 19:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US MBA mortgage applications index for the week ended July 10 fell to 259.1 from 266.3 the prior week."
+    },
+    {
+      "id": "mkt:019f656f-18a1-7aab-8d9f-09becdc4475d",
+      "time": "2026-07-15 19:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US MBA mortgage refinance index for week ended July 10: 821.9 (prior 794.4)."
+    },
+    {
+      "id": "4989843",
+      "time": "2026-07-15 19:00:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【局地40℃以上 湖北釋出高溫橙色預警】湖北省氣象臺2026年7月15日15時6分繼續釋出高溫橙色省級預警：預計16日白天，十堰、襄陽、恩施東部、宜昌、隨州、荊門、荊州、孝感、天仙潛、武漢、鄂州、黃岡、黃石、咸寧最高氣溫將升至37℃以上，其中十堰、襄陽、恩施、宜昌、武漢、咸寧局地40℃以上，請注意防範。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f656e-fd33-7aab-8d9e-f30db335c054",
+      "time": "2026-07-15 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA 30-Year Mortgage Rate (Jul.10) | actual 6.65% | previous 6.58%"
+    },
+    {
+      "id": "mkt:019f656e-fd44-7aab-8d9f-05d59031439f",
+      "time": "2026-07-15 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Refinance Index (Jul.10) | actual 821.9 | previous 794.4"
+    },
+    {
+      "id": "mkt:019f656e-fd36-7aab-8d9e-f889565d6b8b",
+      "time": "2026-07-15 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Purchase Index (Jul.10) | actual 157.2 | previous 169.5"
+    },
+    {
+      "id": "mkt:019f656e-fd29-7aab-8d9e-e9b72d8232b1",
+      "time": "2026-07-15 19:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | MBA Mortgage Applications Composite Index (Jul.10) | actual 259.1 | previous 266.3"
+    },
+    {
+      "id": "4989842",
+      "time": "2026-07-15 18:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【朗新科技：控股股東及實控人變更，徐長軍與無錫樸華合計持股15.27%】朗新科技公告，因公司原實際控制人之一鄭新標達到法定退休年齡並已辦理退休及不再擔任董事、高管職務，經協商，徐長軍與鄭新標於2026年7月15日簽署《一致行動關係解除協議》，解除一致行動關係；同時，無錫樸華、無錫群英與各員工持股平臺也簽署了相關解除協議。本次解除後，公司控股股東由無錫樸華、無錫群英變更為無錫樸華，實際控制人由徐長軍、鄭新標變更為徐長軍。徐長軍及其作為普通合夥人控制的無錫樸華合計持有上市公司15.27%的股份。"
+    },
+    {
+      "id": "4989841",
+      "time": "2026-07-15 18:59:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科源製藥：股東濟南安富、問澤鴻擬分別減持0.57%和3%】科源製藥公告，股東濟南安富創業投資合夥企業（有限合夥）計劃自本公告披露之日起十五個交易日後的三個月內以集中競價方式減持公司股份不超過61.29萬股，佔公司總股本0.57%；股東問澤鴻擬以集中競價方式和大宗交易方式合計減持公司股份不超過324.87萬股，佔公司總股本3.00%。"
+    },
+    {
+      "id": "4989840",
+      "time": "2026-07-15 18:59:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海泰新光：擬以5000萬元-1億元回購公司股份】海泰新光公告，擬以5000萬元-1億元回購公司股份，回購價格不超過166元/股。"
+    },
+    {
+      "id": "4989839",
+      "time": "2026-07-15 18:59:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "交易商稱，臺灣麵粉廠透過招標購買約98,150公噸美國產小麥。"
+    },
+    {
+      "id": "4989838",
+      "time": "2026-07-15 18:58:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "NICHIREI：受停電影響的冷凍食品出貨。"
+    },
+    {
+      "id": "4989837",
+      "time": "2026-07-15 18:58:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國與奈米比亞簽署共同發展經濟夥伴關係框架協定】近日，商務部部長王文濤與奈米比亞國際關係與貿易部部長穆薩維伊在北京簽署《中華人民共和國政府和奈米比亞共和國政府共同發展經濟夥伴關係框架協定》。（商務部）"
+    },
+    {
+      "id": "mkt:019f656d-3a26-7aab-8d9e-e41f6fa72e70",
+      "time": "2026-07-15 18:58:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Namibia sign framework agreement to jointly develop economic partnership】China and Namibia signed a government-level framework agreement in Beijing to jointly develop an economic partnership. The pact was signed by MOFCOM minister RAIMONDO and Namibia's minister of International Relations and Trade, Musavayi."
+    },
+    {
+      "id": "mkt:019f656c-b839-7aab-8d9e-dfb41f813968",
+      "time": "2026-07-15 18:57:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Hy3 first-week invocations >68x Hy2】Company PR director Zhang Jun said Hy3’s total invocations in its first week exceeded more than 68 times those of prior-generation model Hy2. Hy3’s uptake is accelerating versus its preview release, showing a steeper growth slope."
+    },
+    {
+      "id": "te:markets:567193",
+      "time": "2026-07-15 18:57:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Finishes Slightly Higher — India’s BSE Sensex pared early gains to close about 0.2% up at 77,185 on Wednesday, recovering part of prior session's losses, as investors engaged in profit-booking amid persistent Middle East tensions and higher oil prices. The earlier rally was underpinned by banks and financial stocks ahead of key earnings, with cooler-than-expected US inflation data also lifting sentiment by easing concerns over a more aggressive Federal Reserve. SBIN, Bajaj Finance, HDFC Bank and ICICI Bank added between 0.6% and 1.5%. Meanwhile, Eternal (3.1%) and UltraTech Cement (2.8%) topped the gainers, alongside IndiGo, Asian Paints and Tech Mahindra, all adding more than 1% each. Power Grid was the biggest laggard, falling 1.7%, followed by Larsen & Toubro (-1.7%), Tata Steel (-1.7%), Infosys (-1.4%), NTPC (-1.1%) and Bajaj Finserv (-1%)."
+    },
     {
       "id": "4989836",
       "time": "2026-07-15 18:56:45",
@@ -171207,224 +171419,6 @@
         "國際"
       ],
       "text": "訊息稱印度國家銀行自 6 月相關舉措推出以來吸納 15 億美元外匯存款。"
-    },
-    {
-      "id": "4976647",
-      "time": "2026-07-08 19:01:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：前默克及美國國家航空航天局領導人加盟SpaceMD，為其太空製藥開發能力注入戰略專長，以應對日益增長的需求。"
-    },
-    {
-      "id": "4976646",
-      "time": "2026-07-08 19:00:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客表示，在其交付的民用客機中，將有47%用於替換老舊飛機，而上一份20年預測中該比例為45%。"
-    },
-    {
-      "id": "4976645",
-      "time": "2026-07-08 19:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客營銷主管在被問及是否可能推出更大尺寸的A350機型時表示：“我們一直在開展相關研究，目前尚未做出任何決定。”"
-    },
-    {
-      "id": "4976644",
-      "time": "2026-07-08 19:00:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "空客預測，截至2045年寬體噴氣式飛機交付量將達8140架，此前釋出的20年預測值為8200架。"
-    },
-    {
-      "id": "4976643",
-      "time": "2026-07-08 19:00:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "空中客車預測，截至2045年單通道飛機交付量將達33920架，此前釋出的20年預測值為34250架。"
-    },
-    {
-      "id": "4976642",
-      "time": "2026-07-08 19:00:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "空中客車將未來20年的客運流量年均增速預測從去年同期可比口徑的4.1%下調至3.9%。"
-    },
-    {
-      "id": "4976641",
-      "time": "2026-07-08 19:00:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "空中客車預計2026年至2045年間將交付42,060架客機，低於此前滾動20年預測的42,450架。"
-    },
-    {
-      "id": "4976640",
-      "time": "2026-07-08 19:00:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "受貿易局勢和地緣政治動盪影響，空客將全行業各型別客運飛機20年交付量預測整體下調1%。。"
-    },
-    {
-      "id": "mkt:019f4162-a5b6-7aab-8cec-797d3d47fc84",
-      "time": "2026-07-08 19:00:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage applications index for week ended July 3: 266.3, down from 272.2 the prior week."
-    },
-    {
-      "id": "4976639",
-      "time": "2026-07-08 19:00:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國7月3日當週MBA抵押貸款申請活動指數週環比 -2.2%，前值 0%。"
-    },
-    {
-      "id": "mkt:019f4162-9b79-7aab-8cec-71ebd02489ad",
-      "time": "2026-07-08 19:00:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage refinance index fell to 794.4 in the week ended July 3 from 828.7 the previous week."
-    },
-    {
-      "id": "mkt:019f4162-9419-7aab-8cec-6815cb86e9b4",
-      "time": "2026-07-08 19:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US 30-year fixed mortgage rate (MBA) 6.58% for the week ended July 3, up from 6.57%."
-    },
-    {
-      "id": "mkt:019f4162-93be-7aab-8cec-62c21f4d8241",
-      "time": "2026-07-08 19:00:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US MBA mortgage purchase index for the week ended July 3 stood at 169.5, down from 170.6 the prior week."
-    },
-    {
-      "id": "mkt:019f4162-7989-7aab-8cec-4c6a08f09b4c",
-      "time": "2026-07-08 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Applications Composite Index (Jul.3) | actual 266.3 | previous 272.2"
-    },
-    {
-      "id": "mkt:019f4162-79e1-7aab-8cec-5958084073d9",
-      "time": "2026-07-08 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Refinance Index (Jul.3) | actual 794.4 | previous 828.7"
-    },
-    {
-      "id": "mkt:019f4162-79da-7aab-8cec-508669b9760d",
-      "time": "2026-07-08 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA 30-Year Mortgage Rate (Jul.3) | actual 6.58% | previous 6.57%"
-    },
-    {
-      "id": "mkt:019f4162-7986-7aab-8cec-40c242b907ac",
-      "time": "2026-07-08 19:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | MBA Mortgage Purchase Index (Jul.3) | actual 169.5 | previous 170.6"
-    },
-    {
-      "id": "mkt:019f4162-547a-7aab-8cec-3b00c9d1be9b",
-      "time": "2026-07-08 18:59:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000725.SZ",
-        "Impact bullish"
-      ],
-      "text": "BOE Technology Group Co., Ltd (BOE A) expects 1H2026 net profit of 5.0–5.5 bln yuan, up 54–69% YoY."
-    },
-    {
-      "id": "4976638",
-      "time": "2026-07-08 18:59:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "【關閉北京國貿門店、新店選址金寶街，蓮花汽車求變】關閉北京國貿門店、新店落地金寶街超豪華商圈，蓮花汽車正在開啟渠道戰略調整。7月8日，蓮花汽車方面向記者獨家回應稱，此次門店的調整並非收縮，而是基於“Focus 2030”發展戰略，將渠道資源集中投入單店服務深度，而非盲目追求網點數量。近期，蓮花汽車正式宣佈放棄2027年全面純電動化目標，轉為多種動力並行模式，並設定到2030年實現年銷3萬輛及盈利的目標。業內人士指出，門店遷址金寶街可以進一步貼近高淨值客群，並降低租金成本。動力戰略的回撥則是止損務實之舉，“油電混並行”可維持現金流與品牌調性。（北京商報）"
-    },
-    {
-      "id": "mkt:019f4161-a68d-7aab-8cec-32016f3d580f",
-      "time": "2026-07-08 18:59:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "【India approves index derivatives contract aimed at foreign investors】India's market regulator has approved index derivatives contracts tailored to foreign investors, people familiar with the matter said. The National Stock Exchange has received Securities and Exchange Board of India approval to launch futures and options linked to the Nifty India FPI 150 index. The index, launched in August last year, tracks 150 stocks screened for foreign-investability — a criterion used by global benchmarks such as MSCI when selecting constituents. NSE declined to comment, citing IPO preparations; SEBI did not respond. More than two-thirds of NSE's revenue came from derivatives in the last fiscal year. The exchange is seeking to expand its product suite ahead of a planned September listing. The move comes as India seeks to regain foreign investors after equity-market losses prompted several months of overseas outflows."
-    },
-    {
-      "id": "4976637",
-      "time": "2026-07-08 18:59:03",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【印度批准針對外資設計的指數衍生品新合約】印度市場監管機構批准推出專為外國投資者設計的指數衍生品合約。知情人士透露，印度國家證券交易所已獲得證券交易委員會批准，推出與Nifty India FPI 150指數掛鉤的期貨和期權合約。該指數於去年8月推出，追蹤150只根據外資可投資性篩選的股票（MSCI等全球基準提供商通常會考慮這一因素來篩選其指數成分股）。印度國家證券交易所代表以正在籌備IPO為由拒絕置評。印度證券交易委員會未作出回應。上個財年，印度證交所超過三分之二的收入來自衍生品業務。該交易所正尋求在擬於9月進行的上市之前豐富其產品線。與此同時，在股市下跌引發連續數月外資流出後，印度希望重新吸引外國投資者。"
-    },
-    {
-      "id": "4976636",
-      "time": "2026-07-08 18:58:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國地中心將與華為共建具身智慧實訓場全球樣板點】今年WAIC期間，國地中心將宣佈與華為圍繞具身智慧實訓體系建設開展聯合攻堅，依託真實場景與高質量資料資源，共同打造具身智慧實訓場全球樣板點。在實訓體系建設中，雙方基於昇騰算力和“雲、邊、端”協同架構，共建具身智慧大模型訓練與評測驗證能力，支撐具身模型預訓練及機器人在真實/模擬環境中的強化學習、能力迭代和規模化測試。（科創板日報）"
-    },
-    {
-      "id": "4976635",
-      "time": "2026-07-08 18:58:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【京東方A：預計上半年淨利潤同比增長54%-69%】京東方A公告，預計2026年上半年淨利潤為50億元–55億元，同比增長54%-69%。報告期內，儲存產品價格持續上漲使消費電子終端產品銷量不同程度承壓，但顯示行業需求仍保持韌性，行業格局持續最佳化。公司持續保持顯示領域領先優勢，五大主流應用LCD面板出貨量持續保持全球第一，高重新整理率、高對比度、高解析度等高階產品出貨量持續增加，經營穩健。"
-    },
-    {
-      "id": "4976634",
-      "time": "2026-07-08 18:58:05",
-      "tags": [
-        "央行",
-        "宏觀"
-      ],
-      "text": "【央行：要統籌好總供給和總需求的關係，著力擴大內需、最佳化供給】中國人民銀行貨幣政策委員會2026年第二季度（總第113次）例會於7月4日召開。會議強調，要以習近平新時代中國特色社會主義思想為指導，全面貫徹落實黨的二十屆四中全會、中央經濟工作會議和全國兩會精神，按照黨中央、國務院的決策部署，牢牢把握高質量發展首要任務，紮實推進中國式現代化，完整準確全面貫徹新發展理念，加快構建新發展格局。統籌好總供給和總需求的關係，著力擴大內需、最佳化供給，做優增量、盤活存量，增強經濟發展內生動力，進一步做強國內大迴圈，做優國內國際雙迴圈，不斷鞏固拓展經濟穩中向好勢頭。"
-    },
-    {
-      "id": "4976633",
-      "time": "2026-07-08 18:57:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【卓易資訊：股東及董高提前終止減持計劃，中恆企管減持82.73萬股】卓易資訊公告稱，2026年6月5日公司披露減持計劃，員工持股平臺中恆企管擬減持不超121.14萬股，董事王娟、高管黃吉麗分別擬減持不超1.42萬股、0.42萬股。截至7月8日收盤，中恆企管透過集中競價減持82.73萬股，佔比0.6829%，減持金額1.02億元；王娟和黃吉麗未減持。上述主體均提前終止減持計劃，中恆企管剩餘未減持股份不再減持。"
     }
   ]
 }
