@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-16 05:14:45",
+  "updated": "2026-07-16 05:20:31",
   "count": 18620,
   "items": [
+    {
+      "id": "4990780",
+      "time": "2026-07-16 05:19:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦參議員湯姆·科頓：伊朗、真主黨、哈馬斯以及胡塞武裝，談判時毫無誠意。他們慣於撒謊、欺詐、撕毀協議。當該政權高呼消滅美國時，我們應當相信他們此言發自內心。特朗普在用德黑蘭唯一聽得懂的語言與之對話，那就是武力。"
+    },
+    {
+      "id": "4990779",
+      "time": "2026-07-16 05:17:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.05%，報15236點。"
+    },
     {
       "id": "4990778",
       "time": "2026-07-16 05:12:58",
@@ -171253,26 +171269,6 @@
         "XAUUSD"
       ],
       "text": "【US launches fourth strike on Iran since mid-June memorandum】CNN reports the US struck targets in Iran on Wednesday (US time), in what is at least the fourth strike since a US‑Iran memorandum of understanding was signed in mid‑June. So far, retaliatory actions by both sides have remained below the scale and intensity seen during the conflict's early phase."
-    },
-    {
-      "id": "mkt:019f4398-e87a-7aab-8cff-120f0d1b7d0a",
-      "time": "2026-07-09 05:18:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Rezaei, an adviser to Iran's supreme leader, said: 'Whoever attacks you should be struck back in the same way they attacked you. Aggressors and their accomplices will face severe punishment.'"
-    },
-    {
-      "id": "4977629",
-      "time": "2026-07-09 05:15:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時A50期指連續夜盤收漲0.10%，報14869點。"
     }
   ]
 }
