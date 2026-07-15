@@ -1,7 +1,202 @@
 {
   "date": "2026-07-15",
-  "count": 3028,
+  "count": 3049,
   "items": [
+    {
+      "id": "mkt:019f65dd-45e0-7aab-8da3-e1aef37a94f4",
+      "time": "2026-07-15 21:00:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the U.S. House budget bill would accelerate disbursement of $73 billion in funding for a war with Iran."
+    },
+    {
+      "id": "mkt:019f65dd-3227-7aab-8da3-dd412b6db547",
+      "time": "2026-07-15 21:00:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the night session open, China's main futures contracts were mixed: butadiene and rubber rose about 2%; styrene and propylene up about 1%. Caustic soda fell more than 1%; PTA, Shanghai tin and Shanghai lead declined around 1%."
+    },
+    {
+      "id": "mkt:019f65dd-2208-7aab-8da3-d7cf863eb031",
+      "time": "2026-07-15 21:00:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said he has no particular view on the policy direction."
+    },
+    {
+      "id": "mkt:019f65dc-ee34-7aab-8da3-cf0fbcca337c",
+      "time": "2026-07-15 21:00:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US House Budget Committee approved $12 bln in agricultural aid."
+    },
+    {
+      "id": "4990066",
+      "time": "2026-07-15 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續漲4.59%，鈀連續漲4.33%，鉑連續漲2.41%，多晶矽連續跌2.31%，碳酸鋰連續跌2.19%。"
+    },
+    {
+      "id": "4990065",
+      "time": "2026-07-15 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報5730.00元。"
+    },
+    {
+      "id": "4990064",
+      "time": "2026-07-15 20:59:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，7月14日美國實際聯邦基金利率為3.63%，當日成交規模為1110億美元；7月13日實際利率為3.62%，成交規模為1120億美元。"
+    },
+    {
+      "id": "mkt:019f65dc-2c5d-7aab-8da3-c22646427449",
+      "time": "2026-07-15 20:59:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WILLIAMS of the Federal Reserve said the central bank has no clear view on the direction or timing of interest-rate moves."
+    },
+    {
+      "id": "4990063",
+      "time": "2026-07-15 20:59:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：目前利率走向以及調整時機均無明確方向。"
+    },
+    {
+      "id": "4990062",
+      "time": "2026-07-15 20:59:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "威廉姆斯：能源價格通脹風險已有所緩解。"
+    },
+    {
+      "id": "mkt:019f65db-fc34-7aab-8da3-bec0fe61e01f",
+      "time": "2026-07-15 20:59:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,070/oz, up 0.43% intraday."
+    },
+    {
+      "id": "mkt:019f65db-f4ba-7aab-8da3-b4afea2e73e0",
+      "time": "2026-07-15 20:59:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams said he strongly supports abandoning forward guidance."
+    },
+    {
+      "id": "mkt:019f65db-d1f0-7aab-8da3-add7f00e99ac",
+      "time": "2026-07-15 20:58:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said not to get too excited about a single data point."
+    },
+    {
+      "id": "4990061",
+      "time": "2026-07-15 20:58:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲0.43%。"
+    },
+    {
+      "id": "4990060",
+      "time": "2026-07-15 20:58:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：沃什極為專注於實現我們貨幣政策目標這一棘手難題。"
+    },
+    {
+      "id": "mkt:019f65da-d055-7aab-8da3-a3fda79113f7",
+      "time": "2026-07-15 20:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Williams: Fed chair Kevin Warsh has brought a very welcome new perspective."
+    },
+    {
+      "id": "mkt:019f65da-c7bc-7aab-8da3-9991fc8a2fcd",
+      "time": "2026-07-15 20:57:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said Wosh understands the importance of achieving price stability and maximum employment."
+    },
+    {
+      "id": "4990059",
+      "time": "2026-07-15 20:57:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "威廉姆斯：最新通脹資料令人安心。"
+    },
+    {
+      "id": "mkt:019f65da-7b3d-7aab-8da3-9126b83759fa",
+      "time": "2026-07-15 20:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Williams said Fed Chair Kevin Warsh strongly believes in the Fed’s mission."
+    },
+    {
+      "id": "4990058",
+      "time": "2026-07-15 20:57:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：沃什深信美聯儲的使命。"
+    },
+    {
+      "id": "mkt:019f65d9-c629-7aab-8da3-8a30294748ea",
+      "time": "2026-07-15 20:56:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said the 2% inflation target is appropriate and he does not want to change it."
+    },
     {
       "id": "4990057",
       "time": "2026-07-15 20:56:13",

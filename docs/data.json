@@ -1,7 +1,202 @@
 {
-  "updated": "2026-07-15 20:56:59",
-  "count": 18702,
+  "updated": "2026-07-15 21:01:49",
+  "count": 18699,
   "items": [
+    {
+      "id": "mkt:019f65dd-45e0-7aab-8da3-e1aef37a94f4",
+      "time": "2026-07-15 21:00:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources say the U.S. House budget bill would accelerate disbursement of $73 billion in funding for a war with Iran."
+    },
+    {
+      "id": "mkt:019f65dd-3227-7aab-8da3-dd412b6db547",
+      "time": "2026-07-15 21:00:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "At the night session open, China's main futures contracts were mixed: butadiene and rubber rose about 2%; styrene and propylene up about 1%. Caustic soda fell more than 1%; PTA, Shanghai tin and Shanghai lead declined around 1%."
+    },
+    {
+      "id": "mkt:019f65dd-2208-7aab-8da3-d7cf863eb031",
+      "time": "2026-07-15 21:00:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said he has no particular view on the policy direction."
+    },
+    {
+      "id": "mkt:019f65dc-ee34-7aab-8da3-cf0fbcca337c",
+      "time": "2026-07-15 21:00:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US House Budget Committee approved $12 bln in agricultural aid."
+    },
+    {
+      "id": "4990066",
+      "time": "2026-07-15 21:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】集運指數歐線期貨連續漲4.59%，鈀連續漲4.33%，鉑連續漲2.41%，多晶矽連續跌2.31%，碳酸鋰連續跌2.19%。"
+    },
+    {
+      "id": "4990065",
+      "time": "2026-07-15 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌1%，現報5730.00元。"
+    },
+    {
+      "id": "4990064",
+      "time": "2026-07-15 20:59:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，7月14日美國實際聯邦基金利率為3.63%，當日成交規模為1110億美元；7月13日實際利率為3.62%，成交規模為1120億美元。"
+    },
+    {
+      "id": "mkt:019f65dc-2c5d-7aab-8da3-c22646427449",
+      "time": "2026-07-15 20:59:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WILLIAMS of the Federal Reserve said the central bank has no clear view on the direction or timing of interest-rate moves."
+    },
+    {
+      "id": "4990063",
+      "time": "2026-07-15 20:59:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：目前利率走向以及調整時機均無明確方向。"
+    },
+    {
+      "id": "4990062",
+      "time": "2026-07-15 20:59:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "威廉姆斯：能源價格通脹風險已有所緩解。"
+    },
+    {
+      "id": "mkt:019f65db-fc34-7aab-8da3-bec0fe61e01f",
+      "time": "2026-07-15 20:59:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,070/oz, up 0.43% intraday."
+    },
+    {
+      "id": "mkt:019f65db-f4ba-7aab-8da3-b4afea2e73e0",
+      "time": "2026-07-15 20:59:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed's Williams said he strongly supports abandoning forward guidance."
+    },
+    {
+      "id": "4990061",
+      "time": "2026-07-15 20:58:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4070美元/盎司，日內漲0.43%。"
+    },
+    {
+      "id": "mkt:019f65db-d1f0-7aab-8da3-add7f00e99ac",
+      "time": "2026-07-15 20:58:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said not to get too excited about a single data point."
+    },
+    {
+      "id": "4990060",
+      "time": "2026-07-15 20:58:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：沃什極為專注於實現我們貨幣政策目標這一棘手難題。"
+    },
+    {
+      "id": "mkt:019f65da-d055-7aab-8da3-a3fda79113f7",
+      "time": "2026-07-15 20:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Williams: Fed chair Kevin Warsh has brought a very welcome new perspective."
+    },
+    {
+      "id": "mkt:019f65da-c7bc-7aab-8da3-9991fc8a2fcd",
+      "time": "2026-07-15 20:57:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Williams said Wosh understands the importance of achieving price stability and maximum employment."
+    },
+    {
+      "id": "4990059",
+      "time": "2026-07-15 20:57:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "威廉姆斯：最新通脹資料令人安心。"
+    },
+    {
+      "id": "mkt:019f65da-7b3d-7aab-8da3-9126b83759fa",
+      "time": "2026-07-15 20:57:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Williams said Fed Chair Kevin Warsh strongly believes in the Fed’s mission."
+    },
+    {
+      "id": "4990058",
+      "time": "2026-07-15 20:57:20",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲威廉姆斯：沃什深信美聯儲的使命。"
+    },
+    {
+      "id": "mkt:019f65d9-c629-7aab-8da3-8a30294748ea",
+      "time": "2026-07-15 20:56:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed's Williams said the 2% inflation target is appropriate and he does not want to change it."
+    },
     {
       "id": "4990057",
       "time": "2026-07-15 20:56:13",
@@ -171721,250 +171916,6 @@
         "焦點"
       ],
       "text": "甲醇連續主力合約日內漲2%，現報2508.00元。"
-    },
-    {
-      "id": "4976910",
-      "time": "2026-07-08 21:01:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際貨幣基金組織：將2026年美國經濟增長預測維持在2.3%不變，將2027年預測上調至2.2%，高於之前的2.1%。"
-    },
-    {
-      "id": "mkt:019f41d1-ed07-7aab-8cef-7ec9a8a2fe42",
-      "time": "2026-07-08 21:01:44",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "IMF cuts Japan's 2026 GDP growth forecast to 0.6% from April's 0.7%; raises 2027 forecast by 0.1 percentage point to 0.7%."
-    },
-    {
-      "id": "mkt:019f41d1-d8fc-7aab-8cef-706dd52fd146",
-      "time": "2026-07-08 21:01:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact mixed",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "IMF maintained its 2026 US growth forecast at 2.3% and raised its 2027 forecast to 2.2% from 2.1%."
-    },
-    {
-      "id": "mkt:019f41d1-819a-7aab-8cef-6cac5460dcb3",
-      "time": "2026-07-08 21:01:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Copper",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【IMF trims global growth forecast, raises China's 2026 outlook】The IMF on the 8th updated its World Economic Outlook, cutting its 2026 global growth forecast by 0.1ppt to 3.0% and raising China's 2026 growth forecast by 0.2ppt to 4.6%. It also lowered 2026 advanced-economy growth by 0.1ppt to 1.7% and trimmed emerging-market and developing-economy growth by 0.1ppt to 3.8%."
-    },
-    {
-      "id": "mkt:019f41d1-75fb-7aab-8cef-601207925f9e",
-      "time": "2026-07-08 21:01:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "International Monetary Fund projects India's GDP growth at 6.4% in 2026, down from the IMF's April forecast of 6.5%; projects 6.7% in 2027, up from April's 6.5%."
-    },
-    {
-      "id": "mkt:019f41d1-4646-7aab-8cef-5e0c812ce105",
-      "time": "2026-07-08 21:01:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "IMF downgraded its 2026 growth forecast for the eurozone to 0.9% from 1.1% in April; the 2027 forecast was unchanged at 1.2%."
-    },
-    {
-      "id": "4976909",
-      "time": "2026-07-08 21:00:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【IMF下調世界經濟增長預期，上調中國增長預期】國際貨幣基金組織：將中東和中亞地區2026年增長預測從此前的1.9％下調至0.7％，同時將2027年預測從此前的4.6％上調至6.5％。將2026年歐元區經濟增長預測下調至0.9％，低於4月的1.1％；2027年預測維持在1.2％不變。"
-    },
-    {
-      "id": "4976908",
-      "time": "2026-07-08 21:00:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談烏克蘭戰爭：相信普京想完成這件事。"
-    },
-    {
-      "id": "mkt:019f41d1-0900-7aab-8cef-50ab9314e307",
-      "time": "2026-07-08 21:00:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF revises growth outlook for the Middle East and Central Asia: 2026 forecast cut to 0.7% from 1.9%; 2027 forecast raised to 6.5% from 4.6%."
-    },
-    {
-      "id": "mkt:019f41d0-c761-7aab-8cef-4be0b0b66475",
-      "time": "2026-07-08 21:00:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "Industrial Metals",
-        "WTI",
-        "Impact bullish",
-        "Copper",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Night session open: most-active domestic futures contracts were higher. Fuel oil, low-sulfur fuel oil (LU) and SC crude rose nearly 4%; benzene, LPG, polypropylene (PP) and methanol gained over 2%. On the downside, Shanghai silver fell nearly 3%; Shanghai gold, LME copper, Shanghai copper, double-offset paper and Shanghai tin were down more than 1%."
-    },
-    {
-      "id": "mkt:019f41d0-bc1f-7aab-8cef-41d585c8d202",
-      "time": "2026-07-08 21:00:26",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump said he will monitor developments before deciding whether to strike Iran again."
-    },
-    {
-      "id": "4976907",
-      "time": "2026-07-08 21:00:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：（談及伊朗）在決定是否再次打擊伊朗之前，我將先觀察事態的發展情況。"
-    },
-    {
-      "id": "4976906",
-      "time": "2026-07-08 21:00:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報473.90元。"
-    },
-    {
-      "id": "4976905",
-      "time": "2026-07-08 21:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲3%，現報3150.00元。"
-    },
-    {
-      "id": "4976904",
-      "time": "2026-07-08 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】燃料油連續漲3.86%，上海原油連續漲3.80%，低硫燃料油連續漲3.46%，碳酸鋰連續跌2.90%，白銀連續跌2.86%。"
-    },
-    {
-      "id": "4976903",
-      "time": "2026-07-08 20:59:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：烏克蘭戰爭是一場殘酷的戰爭。"
-    },
-    {
-      "id": "4976902",
-      "time": "2026-07-08 20:59:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲資料顯示，7月7日美國有效聯邦基金利率為3.63%，當日成交規模為1170億美元；7月6日有效聯邦基金利率同樣為3.63%，成交規模也為1170億美元。"
-    },
-    {
-      "id": "4976901",
-      "time": "2026-07-08 20:59:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談俄烏衝突：澤連斯基表現得十分出色。"
-    },
-    {
-      "id": "mkt:019f41cf-90f3-7aab-8cef-3c22e3f38757",
-      "time": "2026-07-08 20:59:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said Iran must never possess nuclear weapons."
-    },
-    {
-      "id": "mkt:019f41ce-b6d6-7aab-8cef-321cb39687ea",
-      "time": "2026-07-08 20:58:13",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said Iranians behaved extremely badly and that the U.S. struck them after they attacked ships in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f41ce-7624-7aab-8cef-29ff35bebe46",
-      "time": "2026-07-08 20:57:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oil prices rose about $0.60 intraday; WTI crude at $73.71 per barrel, Brent crude at $77.81 per barrel."
-    },
-    {
-      "id": "mkt:019f41ce-3057-7aab-8cef-245ecac218c8",
-      "time": "2026-07-08 20:57:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said on Iran that action against Iran is not about regime change but about nuclear weapons."
-    },
-    {
-      "id": "4976900",
-      "time": "2026-07-08 20:57:34",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SOVECON諮詢公司：俄羅斯2025/26年度小麥出口預測下調60萬噸，至4620萬噸。"
-    },
-    {
-      "id": "4976899",
-      "time": "2026-07-08 20:57:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：這不是政權更迭的問題，而是核武器的問題。"
     }
   ]
 }
