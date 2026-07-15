@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-15 23:55:52",
+  "updated": "2026-07-16 00:00:44",
   "count": 18806,
   "items": [
+    {
+      "id": "4990487",
+      "time": "2026-07-15 23:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：科威特境內發生多起爆炸 。"
+    },
+    {
+      "id": "mkt:019f667f-c17c-7aab-8dab-cc5046bd9934",
+      "time": "2026-07-15 23:57:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Explosion reported in Kuwait."
+    },
+    {
+      "id": "mkt:019f667f-835a-7aab-8dab-c0fd4d24104a",
+      "time": "2026-07-15 23:57:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed must continue to drive efficiency improvements across its system."
+    },
+    {
+      "id": "mkt:019f667f-6e0b-7aab-8dab-be166e812398",
+      "time": "2026-07-15 23:57:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON: U.S. Secretary of Defense Hegseth will travel to Pennsylvania today to attend a defense summit."
+    },
+    {
+      "id": "mkt:019f667f-25f3-7aab-8dab-b733826b695e",
+      "time": "2026-07-15 23:57:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he very much favors the structure of the Board of Governors and the regional Federal Reserve Banks."
+    },
+    {
+      "id": "mkt:019f667f-24a8-7aab-8dab-abf8be4f7cc6",
+      "time": "2026-07-15 23:57:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed needs to properly manage taxpayers' money."
+    },
+    {
+      "id": "4990486",
+      "time": "2026-07-15 23:57:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲應當妥善管理納稅人資金。"
+    },
+    {
+      "id": "4990485",
+      "time": "2026-07-15 23:56:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我認可美聯儲理事會與各儲備銀行的架構設計。"
+    },
+    {
+      "id": "mkt:019f667e-7a7e-7aab-8dab-a268b28ee057",
+      "time": "2026-07-15 23:56:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Health Ministry says deaths from recent US airstrikes have risen to 35."
+    },
     {
       "id": "4990483",
       "time": "2026-07-15 23:54:57",
@@ -172925,100 +173009,6 @@
         "國際"
       ],
       "text": "【斯塔默呼籲美伊停火 儘快重開霍爾木茲海峽】英國首相斯塔默呼籲美國與伊朗重回停火狀態，並落實相關協議以重新開放霍爾木茲海峽。斯塔默在安卡拉舉行的北約峰會上發言時警告，若衝突持續，英國及其他地區的經濟形勢將會進一步惡化。他表示：“如果無法儘快平息事態，民眾的生活開支很可能會受到衝擊。”"
-    },
-    {
-      "id": "4977280",
-      "time": "2026-07-08 23:59:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "萊茵金屬公司：向克羅埃西亞提出長期戰略工業合作伙伴關係。"
-    },
-    {
-      "id": "mkt:019f4273-dcbc-7aab-8cf7-df9317c40717",
-      "time": "2026-07-08 23:58:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Azerbaijan's BTC light crude shipments in August will fall to their lowest level since 2008."
-    },
-    {
-      "id": "4977279",
-      "time": "2026-07-08 23:58:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約稱2026年將向烏克蘭提供700億歐元軍援】北大西洋公約組織（北約）8日表示，北約盟國承諾在2026年向烏克蘭提供價值700億歐元的軍事裝備、以及相關支援和培訓，並將在2027年維持至少同等水平。（新華社）"
-    },
-    {
-      "id": "4977278",
-      "time": "2026-07-08 23:57:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗訊息人士：如遭打擊 伊朗將加倍奉還】伊朗新聞電視臺8日援引一名知情人士報道，伊朗不會放棄對霍爾木茲海峽的管理權。如遭打擊，將加倍奉還。訊息人士稱，伊朗已準備好為控制霍爾木茲海峽而戰。如遭受任何打擊，伊朗就將全面關閉霍爾木茲海峽，並對敵方目標實施至少兩倍於所受打擊規模的回擊。（新華社）"
-    },
-    {
-      "id": "4977277",
-      "time": "2026-07-08 23:57:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普威脅今晚再次打擊伊朗】當地時間7月8日，美國總統特朗普在參加北約峰會期間表示，伊朗襲擊了在霍爾木茲海峽通行的船隻，所以狠狠地打擊了他們，“今晚可能會再次狠狠地打擊他們”。他還說伊朗曾向“林肯”號航母發射了111枚導彈，但都被攔截了。 不過他在說這句話的時候，誤把伊朗伊斯蘭共和國說成“日本伊斯蘭共和國”。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f4272-1db8-7aab-8cf7-d209f96633a5",
-      "time": "2026-07-08 23:56:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish",
-        "WBD.O",
-        "Impact mixed"
-      ],
-      "text": "Amazon (AMZN.O): Warner Bros. Discovery (WBD.O) will launch unified media-planning on Amazon Web Services (AWS) in Q3 and roll out order-management functionality in Q4."
-    },
-    {
-      "id": "4977276",
-      "time": "2026-07-08 23:56:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基要求北約加大防空領域支援】為期兩天的北約峰會7日在土耳其首都安卡拉開幕。本次峰會的主要議題包括增加防務支出、擴大軍工產能、繼續支援烏克蘭以及協調歐美安全責任分擔等。北約峰會標榜團結，但是分歧之聲始終不絕於耳。比如在成員國對烏克蘭的支援方面，烏克蘭總統澤連斯基敦促北約加大對烏克蘭防空領域的支援，而匈牙利、荷蘭等國則明確表示，反對向烏克蘭提供軍事支援。（央視新聞）"
-    },
-    {
-      "id": "4977275",
-      "time": "2026-07-08 23:56:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：WBD將於第三季度在AWS上推出統一媒體規劃，第四季度推出訂單管理功能。"
-    },
-    {
-      "id": "mkt:019f4271-7a82-7aab-8cf7-ca6fe0d490cb",
-      "time": "2026-07-08 23:56:00",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish",
-        "WBD.O"
-      ],
-      "text": "Amazon (AMZN.O): AWS partners with Warner Bros. Discovery (WBD.O) to launch an agent-based AI advertising platform."
     }
   ]
 }

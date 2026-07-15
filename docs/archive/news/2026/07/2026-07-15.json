@@ -1,7 +1,91 @@
 {
   "date": "2026-07-15",
-  "count": 3759,
+  "count": 3768,
   "items": [
+    {
+      "id": "4990487",
+      "time": "2026-07-15 23:58:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：科威特境內發生多起爆炸 。"
+    },
+    {
+      "id": "mkt:019f667f-c17c-7aab-8dab-cc5046bd9934",
+      "time": "2026-07-15 23:57:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: Explosion reported in Kuwait."
+    },
+    {
+      "id": "mkt:019f667f-835a-7aab-8dab-c0fd4d24104a",
+      "time": "2026-07-15 23:57:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chair Kevin Warsh said the Fed must continue to drive efficiency improvements across its system."
+    },
+    {
+      "id": "mkt:019f667f-6e0b-7aab-8dab-be166e812398",
+      "time": "2026-07-15 23:57:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "PENTAGON: U.S. Secretary of Defense Hegseth will travel to Pennsylvania today to attend a defense summit."
+    },
+    {
+      "id": "mkt:019f667f-25f3-7aab-8dab-b733826b695e",
+      "time": "2026-07-15 23:57:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he very much favors the structure of the Board of Governors and the regional Federal Reserve Banks."
+    },
+    {
+      "id": "mkt:019f667f-24a8-7aab-8dab-abf8be4f7cc6",
+      "time": "2026-07-15 23:57:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said the Fed needs to properly manage taxpayers' money."
+    },
+    {
+      "id": "4990486",
+      "time": "2026-07-15 23:57:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 美聯儲應當妥善管理納稅人資金。"
+    },
+    {
+      "id": "4990485",
+      "time": "2026-07-15 23:56:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我認可美聯儲理事會與各儲備銀行的架構設計。"
+    },
+    {
+      "id": "mkt:019f667e-7a7e-7aab-8dab-a268b28ee057",
+      "time": "2026-07-15 23:56:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Health Ministry says deaths from recent US airstrikes have risen to 35."
+    },
     {
       "id": "4990483",
       "time": "2026-07-15 23:54:57",
