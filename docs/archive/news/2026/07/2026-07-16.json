@@ -1,7 +1,79 @@
 {
   "date": "2026-07-16",
-  "count": 81,
+  "count": 89,
   "items": [
+    {
+      "id": "mkt:019f66c5-aeee-7aab-8dac-e0682fbdf43f",
+      "time": "2026-07-16 01:14:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor Cook said the Federal Reserve must maintain independence to fulfill its responsibilities."
+    },
+    {
+      "id": "4990530",
+      "time": "2026-07-16 01:13:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 美聯儲若無獨立性，便無法履行自身職能。"
+    },
+    {
+      "id": "mkt:019f66c4-4100-7aab-8dac-ddea4ef651d1",
+      "time": "2026-07-16 01:12:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Governor COOK said after the Supreme Court ruling she will continue to base her duties on data rather than political considerations."
+    },
+    {
+      "id": "4990529",
+      "time": "2026-07-16 01:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "多名議員透露，烏克蘭總統澤連斯基擬提名內務部長克利緬科出任國防部長。"
+    },
+    {
+      "id": "4990528",
+      "time": "2026-07-16 01:12:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事庫克： 將遵循最高法院裁決，繼續依據資料履職，不受政治因素干擾。"
+    },
+    {
+      "id": "4990527",
+      "time": "2026-07-16 01:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "托克集團增加倫敦金屬交易所鉛庫存至歷史新高，鉛價大幅下挫。"
+    },
+    {
+      "id": "mkt:019f66c2-88ec-7aab-8dac-d19c28ae8dde",
+      "time": "2026-07-16 01:10:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's finance ministry projects 2026 inflation at 5.1%, above a prior forecast of 4.5%, and 2027 inflation at 3.6%, slightly higher than the previous 3.5%."
+    },
+    {
+      "id": "mkt:019f66c1-40d2-7aab-8dac-cd8cf71870bd",
+      "time": "2026-07-16 01:09:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's finance ministry projects 2026 GDP growth of 2.3%, unchanged from its prior forecast, and sees 2027 growth at 2.5%, below its earlier 2.6% projection."
+    },
     {
       "id": "4990526",
       "time": "2026-07-16 01:08:53",
