@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-16 05:32:35",
-  "count": 18612,
+  "updated": "2026-07-16 05:36:32",
+  "count": 18608,
   "items": [
+    {
+      "id": "4990782",
+      "time": "2026-07-16 05:33:35",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "美國國務院就擬議對外軍售武器裝備釋出宣告：本次擬出售裝備為先進精確打擊武器系統，英國BAE系統公司將成為沙特軍售專案主承包商。"
+    },
+    {
+      "id": "4990781",
+      "time": "2026-07-16 05:32:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘋果被指控在“隱藏我的電子郵件”功能上欺騙消費者。"
+    },
     {
       "id": "mkt:019f67af-60b0-7aab-8db0-b8705adb9f13",
       "time": "2026-07-16 05:29:34",
@@ -171142,62 +171160,6 @@
         "DXY"
       ],
       "text": "President Trump said the strike on Iran was retaliation for Iran's attack on vessels yesterday and warned that if it happens again the consequences will be more severe."
-    },
-    {
-      "id": "4977639",
-      "time": "2026-07-09 05:36:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：若此類事件再次發生，後果將嚴重得多。"
-    },
-    {
-      "id": "4977638",
-      "time": "2026-07-09 05:36:12",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：對伊朗實施打擊，以此報復伊朗昨日襲擊船隻的行為。"
-    },
-    {
-      "id": "4977637",
-      "time": "2026-07-09 05:35:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "據CNN：美國官員表示，當前伊朗局勢仍處於快速變化之中，美軍未來可能繼續對伊朗目標發動打擊。該官員稱，美軍此次打擊主要針對可用於攻擊美國軍事資產的導彈、無人機設施，以及可能威脅霍爾木茲海峽航運安全的相關目標。美國官員表示，美國海軍已參與最新行動。目前，部署在阿拉伯海北部的“亞伯拉罕·林肯”號航母主要執行防禦任務，包括監視霍爾木茲海峽等。美方表示，後續是否擴大行動範圍，將視局勢發展決定。"
-    },
-    {
-      "id": "mkt:019f43a7-bf0e-7aab-8cff-4054efe4f751",
-      "time": "2026-07-09 05:34:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US Navy has joined the latest operation, US officials said. The USS Abraham Lincoln, deployed in the northern Arabian Sea, is carrying out defensive missions, including monitoring the Strait of Hormuz. US officials said any expansion of the operation will depend on how the situation develops."
-    },
-    {
-      "id": "4977636",
-      "time": "2026-07-09 05:34:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【滙豐：第三季度“美國例外論”將面臨風險】滙豐多資產策略團隊預計，今年以來驅動全球市場的“美國例外論”交易將在第三季度有所降溫。由Max Kettner領導的團隊重申，對股票維持最高配建議，認為市場對人工智慧（AI）投資過度、地緣政治風險、美國利率進一步上升以及風險偏好過熱的擔憂被過度放大。該團隊指出，在進入今年下半年之際，市場對風險資產的情緒和倉位整體仍處於中性水平。"
-    },
-    {
-      "id": "mkt:019f43a6-cce1-7aab-8cff-3e2a06c23876",
-      "time": "2026-07-09 05:33:52",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "CNN, citing US officials, said the situation with Iran remains rapidly evolving and the US military may carry out further strikes on Iranian targets. Officials said recent strikes targeted missile and drone facilities capable of striking US military assets and sites that could threaten shipping through the Strait of Hormuz."
     }
   ]
 }
