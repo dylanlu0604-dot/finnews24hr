@@ -1,7 +1,141 @@
 {
   "date": "2026-07-15",
-  "count": 2925,
+  "count": 2939,
   "items": [
+    {
+      "id": "te:markets:567220",
+      "time": "2026-07-15 20:39:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Lower Ahead of BoC Meeting — Futures tracking the S&P/TSX Composite Index edged lower on Wednesday as investors assessed escalating tensions in the Middle East and awaited the Bank of Canada's interest rate decision. Oil prices rose as the worsening conflict continued to fuel concerns over global supply disruptions. Higher energy prices also revived inflation worries, weighing on financial stocks and the broader index. Meanwhile, the Bank of Canada is widely expected to keep its key policy rate unchanged at its July meeting later in the session. Elsewhere, Cogeco Communications is set to release its third-quarter results later in the day. On the data front, Canada's manufacturing sales reached a record high in May, rising 1.3% month-over-month to C$78.1 billion."
+    },
+    {
+      "id": "4990011",
+      "time": "2026-07-15 20:39:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長表示，該行正在考慮潛在併購交易，但併購門檻仍然居高不下。"
+    },
+    {
+      "id": "te:markets:567219",
+      "time": "2026-07-15 20:38:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Progressive earnings above expectations at 5.67 USD — Progressive (PGR) released earnings per share at 5.67 USD, compared to market expectations of 3.81 USD."
+    },
+    {
+      "id": "4990010",
+      "time": "2026-07-15 20:38:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金轉漲，最新報每盎司4061.79美元，漲幅0.2%。"
+    },
+    {
+      "id": "mkt:019f65c8-7e53-7aab-8da2-8773cfa92863",
+      "time": "2026-07-15 20:37:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "GBPUSD",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【BofA: Survey shows dollar and pound overvalued, euro undervalued】BofA's July Global Fund Manager Survey showed investors still view the dollar and pound as overvalued, but now see the euro as undervalued. A net 34% say the dollar is overvalued, unchanged from last month; a net 12% say the pound is overvalued, down from 15% last month; a net 10% say the euro is undervalued, versus a neutral reading a month earlier."
+    },
+    {
+      "id": "mkt:019f65c8-7397-7aab-8da2-7dadf1d593be",
+      "time": "2026-07-15 20:37:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Energy Secretary Wright said data centers are a solution to high electricity prices."
+    },
+    {
+      "id": "4990009",
+      "time": "2026-07-15 20:37:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4070美元/盎司，日內漲0.01%。"
+    },
+    {
+      "id": "4990008",
+      "time": "2026-07-15 20:37:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴特：資料中心是解決高電價的方案。"
+    },
+    {
+      "id": "mkt:019f65c8-146f-7aab-8da2-71a1b0daba40",
+      "time": "2026-07-15 20:37:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Energy Secretary Wright criticized New York state's decision to suspend data center construction."
+    },
+    {
+      "id": "mkt:019f65c7-e657-7aab-8da2-69fb21ec620c",
+      "time": "2026-07-15 20:37:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's deputy economy minister said on Odesa port that authorities will make every effort to keep guaranteed export volumes at last season's levels."
+    },
+    {
+      "id": "4990007",
+      "time": "2026-07-15 20:36:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根士丹利計劃逐步將財富管理資產規模從 8 萬億美元提升至 10 萬億美元  。"
+    },
+    {
+      "id": "mkt:019f65c7-9b0c-7aab-8da2-64d419601cfb",
+      "time": "2026-07-15 20:36:47",
+      "tags": [
+        "MKT News",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley plans to grow wealth-management assets from $8 trillion to $10 trillion."
+    },
+    {
+      "id": "4990006",
+      "time": "2026-07-15 20:36:22",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "6月PPI意外下降後，美國國債小幅走高，跌勢有所平息。"
+    },
+    {
+      "id": "4990005",
+      "time": "2026-07-15 20:36:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度住房金融公司（INDIA SHELTER FINANCE CORPORATION）計劃於2026年7月20日審議透過發行10億盧比非可轉換債券募資的相關事宜。"
+    },
     {
       "id": "4990004",
       "time": "2026-07-15 20:35:06",

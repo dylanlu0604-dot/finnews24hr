@@ -1,7 +1,141 @@
 {
-  "updated": "2026-07-15 20:36:34",
-  "count": 18663,
+  "updated": "2026-07-15 20:40:43",
+  "count": 18665,
   "items": [
+    {
+      "id": "te:markets:567220",
+      "time": "2026-07-15 20:39:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Edge Lower Ahead of BoC Meeting — Futures tracking the S&P/TSX Composite Index edged lower on Wednesday as investors assessed escalating tensions in the Middle East and awaited the Bank of Canada's interest rate decision. Oil prices rose as the worsening conflict continued to fuel concerns over global supply disruptions. Higher energy prices also revived inflation worries, weighing on financial stocks and the broader index. Meanwhile, the Bank of Canada is widely expected to keep its key policy rate unchanged at its July meeting later in the session. Elsewhere, Cogeco Communications is set to release its third-quarter results later in the day. On the data front, Canada's manufacturing sales reached a record high in May, rising 1.3% month-over-month to C$78.1 billion."
+    },
+    {
+      "id": "4990011",
+      "time": "2026-07-15 20:39:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利執行長表示，該行正在考慮潛在併購交易，但併購門檻仍然居高不下。"
+    },
+    {
+      "id": "te:markets:567219",
+      "time": "2026-07-15 20:38:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Progressive earnings above expectations at 5.67 USD — Progressive (PGR) released earnings per share at 5.67 USD, compared to market expectations of 3.81 USD."
+    },
+    {
+      "id": "4990010",
+      "time": "2026-07-15 20:38:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金轉漲，最新報每盎司4061.79美元，漲幅0.2%。"
+    },
+    {
+      "id": "mkt:019f65c8-7e53-7aab-8da2-8773cfa92863",
+      "time": "2026-07-15 20:37:46",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "GBPUSD",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【BofA: Survey shows dollar and pound overvalued, euro undervalued】BofA's July Global Fund Manager Survey showed investors still view the dollar and pound as overvalued, but now see the euro as undervalued. A net 34% say the dollar is overvalued, unchanged from last month; a net 12% say the pound is overvalued, down from 15% last month; a net 10% say the euro is undervalued, versus a neutral reading a month earlier."
+    },
+    {
+      "id": "mkt:019f65c8-7397-7aab-8da2-7dadf1d593be",
+      "time": "2026-07-15 20:37:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Energy Secretary Wright said data centers are a solution to high electricity prices."
+    },
+    {
+      "id": "4990009",
+      "time": "2026-07-15 20:37:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4070美元/盎司，日內漲0.01%。"
+    },
+    {
+      "id": "4990008",
+      "time": "2026-07-15 20:37:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴特：資料中心是解決高電價的方案。"
+    },
+    {
+      "id": "mkt:019f65c8-146f-7aab-8da2-71a1b0daba40",
+      "time": "2026-07-15 20:37:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US Energy Secretary Wright criticized New York state's decision to suspend data center construction."
+    },
+    {
+      "id": "mkt:019f65c7-e657-7aab-8da2-69fb21ec620c",
+      "time": "2026-07-15 20:37:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's deputy economy minister said on Odesa port that authorities will make every effort to keep guaranteed export volumes at last season's levels."
+    },
+    {
+      "id": "4990007",
+      "time": "2026-07-15 20:36:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：摩根士丹利計劃逐步將財富管理資產規模從 8 萬億美元提升至 10 萬億美元  。"
+    },
+    {
+      "id": "mkt:019f65c7-9b0c-7aab-8da2-64d419601cfb",
+      "time": "2026-07-15 20:36:47",
+      "tags": [
+        "MKT News",
+        "MS.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley plans to grow wealth-management assets from $8 trillion to $10 trillion."
+    },
+    {
+      "id": "4990006",
+      "time": "2026-07-15 20:36:22",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "6月PPI意外下降後，美國國債小幅走高，跌勢有所平息。"
+    },
+    {
+      "id": "4990005",
+      "time": "2026-07-15 20:36:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度住房金融公司（INDIA SHELTER FINANCE CORPORATION）計劃於2026年7月20日審議透過發行10億盧比非可轉換債券募資的相關事宜。"
+    },
     {
       "id": "4990004",
       "time": "2026-07-15 20:35:06",
@@ -171387,118 +171521,6 @@
         "公司"
       ],
       "text": "【順博合金：向特定物件發行股票申請獲深交所稽核透過】順博合金公告，公司於2026年7月8日收到深圳證券交易所上市稽核中心出具的《關於重慶順博鋁合金股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深圳證券交易所發行上市稽核機構對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求。公司本次向特定物件發行股票事項尚需中國證監會作出予以註冊決定後方可實施。"
-    },
-    {
-      "id": "te:markets:565295",
-      "time": "2026-07-08 20:40:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Fall as US-Iran Tensions Escalate — Futures tracking the S&P/TSX Composite Index fell on Wednesday as renewed US-Iran tensions lifted oil prices. US President Trump said the memorandum of understanding with Iran to end the conflict was \"over,\" reviving concerns over potential disruptions to global energy supplies. Higher oil prices renewed fears of energy-driven inflation and higher interest rates, weighing on financials and the broader market. Mining stocks also came under pressure as gold prices slipped, while Trilogy Metals reported a wider second-quarter loss. Meanwhile, investors awaited the minutes from the Fed's June meeting for further clues on the US monetary policy outlook. Markets continue to expect the BoC to keep interest rates unchanged at its July 15 meeting."
-    },
-    {
-      "id": "4976867",
-      "time": "2026-07-08 20:40:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST發展：預重整備案登記 債權人需8月7日前申報債權】*ST發展公告稱，2026年7月6日，重慶五中院對公司進行預重整備案登記。經主要債權人同意，公司已聘任相關律所和會計所擔任預重整輔助機構。債權人需在8月7日前透過“律泊智破系統”線上申報債權。公司後續能否進入重整程式尚不確定，若法院裁定受理重整申請，股票將被疊加實施退市風險警示。若重整失敗，公司存在被宣告破產及股票終止上市風險。"
-    },
-    {
-      "id": "4976866",
-      "time": "2026-07-08 20:39:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珍寶島：回覆上交所年報問詢 多項問題核查尚在推進】珍寶島公告稱，公司於6月2日收到上交所《問詢函》。獨立董事就相關問題發表意見，公司已完整披露2020年以來與上海甲貝、柯維凱瑞業務往來及控股股東資金佔用情況，違規問題已整改；募集資金補流用途合規，前期專項報告未提示風險屬內控執行一般缺陷；預付款項增長具合理性，相關核查尚在推進；已如實說明資金支付內控漏洞及成因，相關核查仍在進行。此外，公司應收賬款、其他應收款等核算規範，減值計提充分，獨立董事將持續關注相關工作。"
-    },
-    {
-      "id": "4976865",
-      "time": "2026-07-08 20:39:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【易方達基金龐亞平：中國ETF規模佔股市僅2.4% 未來發展空間廣闊】7月8日，易方達基金黨委委員、董事總經理、指數研究發展部總經理龐亞平在演講中表示，中國ETF發展迅速，從2004年首隻產品至今已有近1600只，年初總規模約6萬億元，但相對股票市場體量而言滲透率僅2.4%，而美國市場這一比例接近24%，歐洲市場也達約四分之一，中國ETF未來發展空間廣闊。龐亞平指出，當前ETF產品型別日趨多元，寬基、行業主題、風格因子、跨境、商品等類別齊頭並進，各類中長期資金參與度持續提升。但與此同時，近1600只產品中同質化現象較為突出，行業需要從規模擴張轉向運營能力提升，從境內投資閉環走向全球配置，從被動跟蹤邁向主被動理念融合。他認為，指數化投資的本源是降低投資難度，未來ETF行業需在精細化運營、產品創新和投資者服務等方面持續發力，推動行業從量的擴張走向質的提升。（證券時報）"
-    },
-    {
-      "id": "mkt:019f41bd-0bb1-7aab-8cee-72b2ce414e45",
-      "time": "2026-07-08 20:38:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact mixed",
-        "SSE Composite"
-      ],
-      "text": "【E Fund's Pang Yaping: China ETFs just 2.4% of equity market; significant room to grow】July 8 — Pang Yaping, board member and managing director and head of index R&D at E Fund Management, said China now has nearly 1,600 ETFs since the first in 2004, with aggregate AUM about 6 trillion yuan at the start of the year. ETF penetration of the Chinese equity market is roughly 2.4%, versus about 24% in the US and ~25% in Europe, implying substantial upside. Product types have diversified—broad-market, sector/theme, style/factor, cross‑border and commodity ETFs—and participation from medium- and long-term investors is increasing. Pang flagged pronounced product homogeneity among the ~1,600 ETFs and urged a shift from scale-driven expansion to stronger operational capability, global allocation and active-passive integration. He said index investing’s purpose is to lower investment difficulty and called for continued focus on refined operations, product innovation and investor services to drive quality over quantity."
-    },
-    {
-      "id": "4976864",
-      "time": "2026-07-08 20:38:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西前總統博索納羅的律師表示搜查和扣押過程中未發現任何東西。"
-    },
-    {
-      "id": "4976863",
-      "time": "2026-07-08 20:38:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "北約峰會宣告：北約盟友在安卡拉宣佈新增超過500億美元的採購計劃。"
-    },
-    {
-      "id": "4976862",
-      "time": "2026-07-08 20:37:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：VATTENFALL公司將於5月23日至9月1日期間減產。"
-    },
-    {
-      "id": "mkt:019f41bc-0c04-7aab-8cee-6c33a9d05078",
-      "time": "2026-07-08 20:37:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "NATO summit statement: Allies pledge that assistance to Ukraine in 2027 will be at least the same level as in 2026."
-    },
-    {
-      "id": "4976861",
-      "time": "2026-07-08 20:37:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三超新材：向特定物件發行股票申請獲深交所稽核透過】三超新材公告，公司於2026年7月8日收到深圳證券交易所上市稽核中心出具的《關於南京三超新材料股份有限公司申請向特定物件發行股票的稽核中心意見告知函》。深交所上市稽核中心對公司向特定物件發行股票的申請檔案進行了稽核，認為公司符合發行條件、上市條件和資訊披露要求，後續深交所將按規定報中國證監會履行相關注冊程式。公司本次向特定物件發行股票的事宜尚需獲得中國證監會同意註冊後方可實施，最終能否獲得中國證監會同意註冊的決定及時間仍存在不確定性。"
-    },
-    {
-      "id": "4976860",
-      "time": "2026-07-08 20:36:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國泰航空一航班一度失聯，北約戰機升空警告】近日，香港國泰航空一班由香港前往倫敦的客機，在東歐羅馬尼亞上空一度與控制塔失去聯絡，北約派出戰機升空作目視警告。之後控制塔與客機恢復聯絡，危機得以解除。截至記者發稿時，國泰航空尚未就相關事件進行回應。匈牙利國防部長Romulusz Ruszin-Szendi在社交平臺發文稱，7月4日，一架由中國香港飛往英國倫敦的空中巴士A350客機，於4日下午1時42分飛到羅馬尼亞空域時，未能與羅馬尼亞民航管制部門聯絡，與控制塔失去聯絡。事件觸發北約快速反應警報，當天下午1時51分，與羅馬尼亞接壤的匈牙利，空軍接報後派戰機升空作目視警告。涉事客機隨即聯絡控制塔，待命的戰機隨後返回基地。據悉，此類攔截行動目的是進行目視識別並恢復通訊，並不一定意味存在安全威脅。訊息稱，涉事的是國泰CX257航班，機上最多可載334人。客機當日準時抵達倫敦希斯羅機場。（第一財經）"
-    },
-    {
-      "id": "mkt:019f41bb-203e-7aab-8cee-668d9091ca31",
-      "time": "2026-07-08 20:36:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Germany's foreign minister said rising energy prices are a burden for the whole world."
     }
   ]
 }
