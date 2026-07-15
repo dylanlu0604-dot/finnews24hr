@@ -1,7 +1,102 @@
 {
   "date": "2026-07-15",
-  "count": 1444,
+  "count": 1454,
   "items": [
+    {
+      "id": "mkt:019f640d-428c-7aab-8d93-751a7df2bc05",
+      "time": "2026-07-15 12:33:38",
+      "tags": [
+        "MKT News",
+        "1211.HK",
+        "Impact bullish"
+      ],
+      "text": "【BYD says it could top Toyota on global sales without U.S. entry, eyes faster European push】Li Ke, BYD's executive vice‑president for international business, told the FT BYD could surpass Toyota in global sales even if it cannot enter the U.S. market. He said the company may accelerate expansion in Europe, which BYD views as a key overseas market. ACEA data show BYD's European market share more than doubled YoY to 2.8% as of May, overtaking Ford, Tesla and Nissan."
+    },
+    {
+      "id": "4989090",
+      "time": "2026-07-15 12:33:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤上漲0.4%，至174,585.20點。"
+    },
+    {
+      "id": "te:economy:567053",
+      "time": "2026-07-15 12:32:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Coal Production YoY",
+        "Importance 1"
+      ],
+      "text": "China's Coal Output Posts Biggest Drop Since 2016 — China’s coal production dropped 9.7% year-on-year to 381 million tonnes in June 2026, marking the steepest annual decline since 2016 and following a 1.7% fall in May. Average daily output fell to 12.7 million tonnes, the lowest since July 2025, after a deadly mine explosion in late May prompted widespread safety inspections across Shanxi, the country’s largest coal-producing province, disrupting mining activity. More than 300,000 tonnes of daily mining capacity were temporarily suspended following the accident, although capacity utilization has since partially recovered. In the first half of 2026, coal output declined 1.7% to 2.37 billion tonnes. Despite the recent weakness, production is still expected to edge up to a record 4.87 billion tonnes this year, supported by rising power demand and elevated imported coal prices, although stricter safety oversight is likely to limit further output growth."
+    },
+    {
+      "id": "4989089",
+      "time": "2026-07-15 12:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新石器趙優：無人配送將成為首個規模化物理AI應用】7月15日訊息，新石器無人車執行總裁趙優近日在香港舉行的LEAPEast2026大會上表示，物理AI（PhysicalAI）有望率先在物流配送領域實現大規模商業化落地，無人物流正從技術演示階段進入生產運營階段。他表示，相較於人形機器人和Robotaxi，無人物流採用B2B商業模式，具備路線固定、運營效果可量化等特點。隨著行業發展，RaaS（Robovan-as-a-Service，無人車即服務）模式有望成為下一階段增長點。"
+    },
+    {
+      "id": "4989088",
+      "time": "2026-07-15 12:32:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：伊朗就像“偉大拳手”，你以為他敗了，結果他突然給你一記重拳】美國總統特朗普14日在接受美國福克斯新聞頻道專訪時說，除非伊朗重返談判桌，否則美軍將在下週打擊其橋樑和發電廠。 特朗普說，美國對伊朗軍事打擊將持續到“我說夠了為止”。他稱，伊朗實力已被嚴重削弱，但還有反抗能力，伊朗就像一名“偉大的拳擊手”,“你以為你已擊敗了他，結果他突然反擊，給你來了一記重拳”。 （參考訊息）"
+    },
+    {
+      "id": "mkt:019f640b-6679-7aab-8d93-6cd9968d6f7c",
+      "time": "2026-07-15 12:31:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "Nikkei 225",
+        "Impact mixed"
+      ],
+      "text": "Japan May tertiary industry activity index rose 1.1% MoM, vs. 0.4% expected and 1.3% in April."
+    },
+    {
+      "id": "mkt:019f640b-46d1-7aab-8d93-646db1366480",
+      "time": "2026-07-15 12:31:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Tertiary Sector Activity Index (MoM) (May) | actual 1.1% | consensus 0.40% | previous 1.30%"
+    },
+    {
+      "id": "4989087",
+      "time": "2026-07-15 12:30:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭議會批准總理斯維裡堅科辭職】據烏克蘭國家通訊社7月14日報道，烏最高拉達（議會）當天審議批准了烏總理斯維裡堅科遞交的辭呈。按照烏法律規定，現任內閣將隨之自動解散。 烏最高拉達去年7月17日投票批准斯維裡堅科出任總理。烏克蘭總統澤連斯基今年7月12日在社交媒體發文說，為保障落實新的政治戰略，他決定重組內閣，與斯維裡堅科討論了內閣調整細節。7月13日，斯維裡堅科向烏最高拉達遞交了辭呈。"
+    },
+    {
+      "id": "4989086",
+      "time": "2026-07-15 12:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀桑德勒將阿迪達斯目標價從170歐元上調至200歐元。"
+    },
+    {
+      "id": "4989085",
+      "time": "2026-07-15 12:30:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康冠科技：與階躍星辰已就AI眼鏡等產品的改善方案展開溝通】關於與階躍星辰合作的進展，康冠科技(001308)7月15日在互動平臺表示，公司以現金1.5億元認購階躍星辰股份，雙方已簽署《戰略投資協議》。目前，雙方已就閨蜜機、電子白板、美妝鏡、AI眼鏡等產品的改善方案展開溝通，並擬共同規劃研發創新產品。"
+    },
     {
       "id": "4989084",
       "time": "2026-07-15 12:29:45",
