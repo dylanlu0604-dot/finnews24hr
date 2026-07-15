@@ -1,7 +1,64 @@
 {
   "date": "2026-07-16",
-  "count": 435,
+  "count": 441,
   "items": [
+    {
+      "id": "mkt:019f67c6-99b5-7aab-8db0-e0d98bb15458",
+      "time": "2026-07-16 05:54:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Iran says US forces shelled multiple sites in southern Iran】Iran’s Hormozgan provincial government said early on the 16th a location near Sirik was struck by US artillery. Iranian sources also reported US shelling of Qeshm Island in the early hours of the 16th."
+    },
+    {
+      "id": "4990795",
+      "time": "2026-07-16 05:54:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱南部多地遭美軍炮擊】伊朗南部的霍爾木茲甘省政府當地時間16日表示，當天凌晨，錫裡克附近的一處地點遭到美軍炮彈襲擊。另據伊方16日凌晨訊息，伊朗南部格什姆島遭到美軍炮彈襲擊。"
+    },
+    {
+      "id": "4990794",
+      "time": "2026-07-16 05:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗格什姆島傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019f67c4-9a43-7aab-8db0-dd3e915e7247",
+      "time": "2026-07-16 05:52:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Kyiv officials warned residents to remain in safe areas as enemy forces are using ballistic missiles to strike the city."
+    },
+    {
+      "id": "4990793",
+      "time": "2026-07-16 05:52:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "拜耳：發行規模50億美元的新美元債券。"
+    },
+    {
+      "id": "4990792",
+      "time": "2026-07-16 05:52:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方發言人表示，美國遵守諒解備忘錄並在霍爾木茲海峽執行“伊朗規定”是重新開放該航道的唯一途徑。"
+    },
     {
       "id": "4990791",
       "time": "2026-07-16 05:51:48",
