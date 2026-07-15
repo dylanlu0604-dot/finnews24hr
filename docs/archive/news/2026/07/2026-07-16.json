@@ -1,7 +1,18 @@
 {
   "date": "2026-07-16",
-  "count": 159,
+  "count": 160,
   "items": [
+    {
+      "id": "mkt:019f66ec-fa5b-7aab-8dae-0cee04179b64",
+      "time": "2026-07-16 01:57:14",
+      "tags": [
+        "MKT News",
+        "UBER.N",
+        "Impact bullish",
+        "DHER.DE"
+      ],
+      "text": "Financial Times: Uber (UBER.N) is nearing a €12.5 bln acquisition of food-delivery platform Delivery Hero, with an announcement possible as early as Thursday."
+    },
     {
       "id": "mkt:019f66e6-6b16-7aab-8dae-076b45f17216",
       "time": "2026-07-16 01:50:04",

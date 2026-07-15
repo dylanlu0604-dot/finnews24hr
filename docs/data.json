@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-16 01:55:51",
-  "count": 18649,
+  "updated": "2026-07-16 01:59:50",
+  "count": 18639,
   "items": [
+    {
+      "id": "mkt:019f66ec-fa5b-7aab-8dae-0cee04179b64",
+      "time": "2026-07-16 01:57:14",
+      "tags": [
+        "MKT News",
+        "UBER.N",
+        "Impact bullish",
+        "DHER.DE"
+      ],
+      "text": "Financial Times: Uber (UBER.N) is nearing a €12.5 bln acquisition of food-delivery platform Delivery Hero, with an announcement possible as early as Thursday."
+    },
     {
       "id": "mkt:019f66e6-6b16-7aab-8dae-076b45f17216",
       "time": "2026-07-16 01:50:04",
@@ -171604,106 +171615,6 @@
         "國際"
       ],
       "text": "美聯儲：少數人認為6月FOMC會議有加息的理由。"
-    },
-    {
-      "id": "4977477",
-      "time": "2026-07-09 01:59:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "xAI：Grok 4.5目前尚未在歐盟上線，未接入SpaceX旗下任何xAI產品，也未開放至API控制檯；預計7月中旬在歐盟推出可用服務。"
-    },
-    {
-      "id": "4977476",
-      "time": "2026-07-09 01:59:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "xAI：Grok 4.5定價為每百萬輸入token 2美元，每百萬輸出token 6美元。"
-    },
-    {
-      "id": "mkt:019f42e1-e37b-7aab-8cfb-9ee3dc55b129",
-      "time": "2026-07-09 01:58:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's President Erdogan said he had previously discussed with Trump equipping Turkey's indigenous fighter jet with F110 engines and hopes there will be no obstacles."
-    },
-    {
-      "id": "4977475",
-      "time": "2026-07-09 01:58:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其總統埃爾多安：我早前已與特朗普討論過為本國國產戰機配備F110噴氣發動機的事宜，希望此事不會出現問題。"
-    },
-    {
-      "id": "mkt:019f42e0-f9c7-7aab-8cfb-92fb4a93a341",
-      "time": "2026-07-09 01:57:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran accuses U.S. of breaching MOU on Strait of Hormuz】BAGHAEI said the U.S. violated the memorandum of understanding by questioning safe-passage arrangements for ships in the Strait of Hormuz and carrying out “aggressive attacks” on Iran. He said the MOU was not founded on mutual trust but on a “commitment-for-commitment” mechanism; Article 5 assigns Iran responsibility for drafting navigation safety arrangements for the Strait and U.S. unilateral actions challenge that clause. He added Iran will firmly defend its national interests and sovereignty."
-    },
-    {
-      "id": "4977474",
-      "time": "2026-07-09 01:57:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "xAI：推出Grok 4.5。"
-    },
-    {
-      "id": "4977473",
-      "time": "2026-07-09 01:56:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "北約峰會落幕，特朗普離開土耳其。"
-    },
-    {
-      "id": "mkt:019f42df-b544-7aab-8cfb-88444eab9f70",
-      "time": "2026-07-09 01:56:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Erdogan says US President Trump offers help within 24 hours whenever problems arise."
-    },
-    {
-      "id": "mkt:019f42df-7fcd-7aab-8cfb-81b9e7fdb49b",
-      "time": "2026-07-09 01:56:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ERDOGAN said U.S. sanctions have not affected Turkey and that the issue does not exist."
-    },
-    {
-      "id": "mkt:019f42df-710e-7aab-8cfb-7eb9c4f26daf",
-      "time": "2026-07-09 01:56:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Key market takeaways from the Federal Reserve's June minutes】Primary market focuses: whether the Fed remains hawkish on the projected interest-rate path; the Fed’s views on forward guidance — including a risk of reduced overall communication transparency — and on the balance sheet; assessments of inf, the labor market and geopolitical risk from the Middle East. Note the minutes’ lag: oil declined and market inf expectations cooled after the meeting."
-    },
-    {
-      "id": "mkt:019f42df-6809-7aab-8cfb-72e317489c34",
-      "time": "2026-07-09 01:56:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's President Erdogan said the United States has largely lifted defense sanctions on Turkey."
     }
   ]
 }
