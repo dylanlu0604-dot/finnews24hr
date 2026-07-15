@@ -1,7 +1,129 @@
 {
   "date": "2026-07-15",
-  "count": 2978,
+  "count": 2997,
   "items": [
+    {
+      "id": "4990042",
+      "time": "2026-07-15 20:52:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟碳排放交易體系擴容資金將依託現有免費配額緩衝池設立 。"
+    },
+    {
+      "id": "4990041",
+      "time": "2026-07-15 20:51:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟給予企業十年期限使用規模300億歐元全新碳基金。"
+    },
+    {
+      "id": "te:economy:567227",
+      "time": "2026-07-15 20:51:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yields Edges Lower After PPI — The yield on the US 10-year Treasury note edged down to 4.59% on Wednesday after a softer-than-expected producer price report provided fresh evidence of easing inflationary pressures. Producer prices unexpectedly fell 0.3% in June, compared with expectations for no change, while both the annual headline and core measures also came in below forecasts. The report followed Tuesday's softer-than-expected CPI data, reinforcing signs of moderating inflation. However, escalating hostilities in the Middle East and the recent rise in oil prices pose further upside risks to the inflation outlook. Meanwhile, Fed Chair Warsh reiterated the central bank's commitment to restoring price stability during his congressional testimony but stopped short of signaling a more hawkish policy stance. Markets are pricing in roughly a 49% probability of a Fed rate hike in September, below 70% last week."
+    },
+    {
+      "id": "4990040",
+      "time": "2026-07-15 20:51:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "被問及市場環境時，巴菲特表示：當所有人都偏好投機時，要找到價值標的就更難了。"
+    },
+    {
+      "id": "mkt:019f65d4-ccc3-7aab-8da3-1d5e52037882",
+      "time": "2026-07-15 20:51:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Buffett, asked about the market environment, said when everyone leans toward gambling, finding value becomes more difficult."
+    },
+    {
+      "id": "4990039",
+      "time": "2026-07-15 20:50:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比科（RUBICO）宣佈額外收購一艘新建中型成品油輪，並將潛在未交付營收總訂單額提升33%，至約3.05億美元。"
+    },
+    {
+      "id": "4990038",
+      "time": "2026-07-15 20:49:45",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲理事威廉姆斯發表鴿派言論後，美國國債價格繼續上漲。"
+    },
+    {
+      "id": "mkt:019f65d3-2b3f-7aab-8da3-10d92f349133",
+      "time": "2026-07-15 20:49:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "HSBC raised Qualcomm (QCOM.O) PT to $180 from $155."
+    },
+    {
+      "id": "4990037",
+      "time": "2026-07-15 20:49:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "以太坊升破1900美元，日內漲0.49%。"
+    },
+    {
+      "id": "mkt:019f65d2-bdbb-7aab-8da3-0e62a2fed333",
+      "time": "2026-07-15 20:48:57",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【U.S. PPI growth slows, core gauge decelerates】U.S. producer-price inflation unexpectedly eased in June, with core PPI (ex-food and energy) up 4.7% YoY and 0.2% MoM, the Bureau of Labor Statistics said on Wednesday; headline PPI rose 5.5% YoY. The data suggest effects from the Iran-related conflict remain, to some extent, contained. Separately, the New York Fed said its manufacturing business conditions index recovered in July as new orders and shipments increased, and the employment indicator reached its highest level since Dec 2022. Prices-paid measures pulled back but stayed elevated, and firms’ expectations for future input and selling prices declined."
+    },
+    {
+      "id": "4990036",
+      "time": "2026-07-15 20:48:57",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美國PPI漲幅放緩，核心指標增速回落】美國生產者價格通脹的一項核心指標在6月份意外放緩，這表明伊朗局勢相關衝突的影響在一定程度上仍處於可控範圍內。根據美國勞工統計局週三公佈的資料，剔除食品和能源後的生產者價格指數（PPI）同比上漲4.7%，環比上漲0.2%。整體PPI同比上漲5.5%。週三公佈的另一份報告顯示，紐約聯邦儲備銀行的製造業活動總體商業狀況指數在7月回升，原因是新訂單和出貨量增加，同時就業指標升至2022年12月以來最高水平。儘管支付價格指標有所回落，但仍處於高位；同時，企業對未來支付價格和銷售價格的預期均有所下降。"
+    },
+    {
+      "id": "4990035",
+      "time": "2026-07-15 20:48:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人壽等4家險企現身長鑫科技戰略配售名單 合計獲配金額近4億】7月16日，儲存晶片巨頭長鑫科技即將迎來網上申購。記者注意到，在其戰略配售名單中，中國人民財產保險股份有限公司、中國人壽保險股份有限公司、中郵人壽保險股份有限公司、泰康人壽保險有限責任公司四家險企分別獲配約1154.73萬股，對應獲配金額均約為1億元，限售期均為18個月。"
+    },
+    {
+      "id": "4990034",
+      "time": "2026-07-15 20:48:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐將高通（股票程式碼：QCOM.O）目標股價從155美元上調至180美元。"
+    },
     {
       "id": "te:economy:567225",
       "time": "2026-07-15 20:48:03",
@@ -81,6 +203,15 @@
       "text": "Financial Times reports President Zelenskiy is expected to replace Ukraine's defense minister."
     },
     {
+      "id": "em:qqyh_mlc:202607153807695728",
+      "time": "2026-07-15 20:45:25",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【紐約聯儲主席威廉姆斯：有令人鼓舞的理由相信通脹已經達到峰值】紐約聯儲主席威廉姆斯表示，有令人鼓舞的理由相信通脹已經達到峰值。中長期通脹預期得到穩固錨定。"
+    },
+    {
       "id": "4990028",
       "time": "2026-07-15 20:44:25",
       "tags": [
@@ -109,6 +240,15 @@
       "text": "US Stocks Pick Up Traction After PPI — Futures tracking US equities rose on Wednesday on signs that the war in the Middle East has not been as inflationary as feared. Contracts for the S&P 500, Dow, and the Nasdaq 100 inched up by 0.2%. Headline and core producer prices rose less than expected in June, aligning with the soft CPI report from yesterday and further trimming risks that the Federal Reserve could raise interest rates in their upcoming meeting. The data offset pressure from higher energy prices on further escalation to strikes between the US and Iran. Yields rose further, but strong earnings reports underpinned broad gains for equities. The heavyweight AI sector was supported by strong signals from ASML, lifting AMD and Intel premarket, although volatility continued to grapple memory producers. Meanwhile, Morgan Stanley rose 1% after posting optimistic results, joining JPMorgan, Bank of America, Citi, and Goldman Sachs in their strong reports yesterday."
     },
     {
+      "id": "em:qqyh_mlc:202607153807696059",
+      "time": "2026-07-15 20:44:04",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【紐約聯儲主席威廉姆斯：人工智慧對經濟的全面影響難以預測】紐約聯儲主席威廉姆斯表示，人工智慧對經濟的全面影響難以預測。"
+    },
+    {
       "id": "4990026",
       "time": "2026-07-15 20:44:02",
       "tags": [
@@ -116,6 +256,42 @@
         "其他"
       ],
       "text": "【紐約聯儲主席：預計整體通脹率將在年底降至3.25%左右】紐約聯儲主席威廉姆斯表示，通脹無疑過高，目前約為4%，預計整體通脹率將在年底降至3.25%左右，2027年繼續向2%的目標邁進，並在2028年達到目標。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807696182",
+      "time": "2026-07-15 20:43:15",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【紐約聯儲主席：預計整體通脹率將在年底降至3.25%左右】紐約聯儲主席威廉姆斯表示，通脹無疑過高，目前約為4%，預計整體通脹率將在年底降至3.25%左右，2027年繼續向2%的目標邁進，並在2028年達到目標。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607153807696182",
+      "time": "2026-07-15 20:43:15",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【紐約聯儲主席：預計整體通脹率將在年底降至3.25%左右】紐約聯儲主席威廉姆斯表示，通脹無疑過高，目前約為4%，預計整體通脹率將在年底降至3.25%左右，2027年繼續向2%的目標邁進，並在2028年達到目標。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807695829",
+      "time": "2026-07-15 20:43:00",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲威廉姆斯預計美國今年實際GDP增長將在2%-2.25%之間】美聯儲威廉姆斯預計美國今年實際GDP增長將在2%-2.25%之間，未來兩年也將保持這一水平。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607153807695829",
+      "time": "2026-07-15 20:43:00",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美聯儲威廉姆斯預計美國今年實際GDP增長將在2%-2.25%之間】美聯儲威廉姆斯預計美國今年實際GDP增長將在2%-2.25%之間，未來兩年也將保持這一水平。"
     },
     {
       "id": "mkt:019f65cc-f2f6-7aab-8da2-f39cf00dd3d5",
