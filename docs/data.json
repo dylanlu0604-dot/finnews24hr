@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-16 02:53:33",
-  "count": 18598,
+  "updated": "2026-07-16 02:57:35",
+  "count": 18596,
   "items": [
+    {
+      "id": "mkt:019f6721-d205-7aab-8daf-0f4d784df792",
+      "time": "2026-07-16 02:54:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $84.95/bbl, up $0.22 or 0.26%."
+    },
+    {
+      "id": "mkt:019f6721-16bb-7aab-8daf-02203ad39de6",
+      "time": "2026-07-16 02:54:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Recent U.S. strikes on Iran lay groundwork for more intensive operations, officials say】Three U.S. officials said recent strikes were intended to force Iran to reopen the Strait of Hormuz and to degrade Iranian military capabilities the U.S. seeks to neutralize before mounting more complex operations. Officials added the strikes have widened Trump’s military options. The U.S. military said its latest airstrike targeted Iranian air-defense systems, coastal radar sites, missile and drone bases, small boats and other maritime assets. One U.S. official described the strikes as “shaping operations” to weaken Iran’s defenses and lay the groundwork for more intensive follow-on action."
+    },
     {
       "id": "mkt:019f671e-fd20-7aab-8dae-f8840a258383",
       "time": "2026-07-16 02:51:51",
@@ -171144,43 +171168,6 @@
         "MKT News"
       ],
       "text": "Jerusalem Post, citing sources, reports Saudi Arabia is pressing to reroute the India–Middle East–Europe Economic Corridor to bypass Israel and instead link via Syria, aiming to reduce Israel's participation in the project."
-    },
-    {
-      "id": "mkt:019f4315-ee24-7aab-8cfc-db309197d72b",
-      "time": "2026-07-09 02:55:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Sources say Pakistan Army chief Asim Munir is engaging with Iranian officials to try to ease escalating tensions between Iran and the United States."
-    },
-    {
-      "id": "4977536",
-      "time": "2026-07-09 02:55:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "與當地監獄訊息人士有聯絡的美國律師稱，又有11名被特朗普政府驅逐者從美國抵達史瓦濟蘭。"
-    },
-    {
-      "id": "mkt:019f4315-0064-7aab-8cfc-d40f873b0912",
-      "time": "2026-07-09 02:54:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $78.02 a barrel, up $3.86 or 5.2%."
-    },
-    {
-      "id": "4977535",
-      "time": "2026-07-09 02:53:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨結算價報每桶78.02美元，上漲3.86美元，漲幅5.2%。"
     }
   ]
 }

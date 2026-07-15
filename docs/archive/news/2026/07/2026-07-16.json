@@ -1,7 +1,31 @@
 {
   "date": "2026-07-16",
-  "count": 224,
+  "count": 226,
   "items": [
+    {
+      "id": "mkt:019f6721-d205-7aab-8daf-0f4d784df792",
+      "time": "2026-07-16 02:54:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $84.95/bbl, up $0.22 or 0.26%."
+    },
+    {
+      "id": "mkt:019f6721-16bb-7aab-8daf-02203ad39de6",
+      "time": "2026-07-16 02:54:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Recent U.S. strikes on Iran lay groundwork for more intensive operations, officials say】Three U.S. officials said recent strikes were intended to force Iran to reopen the Strait of Hormuz and to degrade Iranian military capabilities the U.S. seeks to neutralize before mounting more complex operations. Officials added the strikes have widened Trump’s military options. The U.S. military said its latest airstrike targeted Iranian air-defense systems, coastal radar sites, missile and drone bases, small boats and other maritime assets. One U.S. official described the strikes as “shaping operations” to weaken Iran’s defenses and lay the groundwork for more intensive follow-on action."
+    },
     {
       "id": "mkt:019f671e-fd20-7aab-8dae-f8840a258383",
       "time": "2026-07-16 02:51:51",
