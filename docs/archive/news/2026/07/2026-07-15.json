@@ -1,7 +1,340 @@
 {
   "date": "2026-07-15",
-  "count": 1776,
+  "count": 1809,
   "items": [
+    {
+      "id": "mkt:019f6497-5069-7aab-8d97-7b5af7038595",
+      "time": "2026-07-15 15:04:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China year-to-date through June new aggregate social financing 20.84 tln yuan, vs expected 21.19 tln and prior 17.48 tln."
+    },
+    {
+      "id": "4989300",
+      "time": "2026-07-15 15:04:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲1%，現報1321.00美元/盎司。"
+    },
+    {
+      "id": "4989299",
+      "time": "2026-07-15 15:04:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "阿斯麥股價上漲7%，此前該公司上調了全年業績預期。"
+    },
+    {
+      "id": "4989298",
+      "time": "2026-07-15 15:03:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗邁赫爾通訊社15日報道，超過30名平民在近期美國對伊朗南部的襲擊中死亡。（新華社）"
+    },
+    {
+      "id": "mkt:019f6496-a890-7aab-8d97-74a22b072b8a",
+      "time": "2026-07-15 15:03:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China YTD new RMB loans to June 10.72 tln yuan, vs 11.06 tln expected and 9.11 tln prior."
+    },
+    {
+      "id": "mkt:019f6495-e137-7aab-8d97-6b6e13b944e7",
+      "time": "2026-07-15 15:02:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC: At end-June broad money (M2) was 356.71 tln yuan, up 8% YoY; narrow money (M1) 118.48 tln yuan, up 4% YoY; cash in circulation (M0) 14.74 tln yuan, up 11.8% YoY. Net cash injected in 1H totaled 641.7 bln yuan."
+    },
+    {
+      "id": "4989297",
+      "time": "2026-07-15 15:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州白雲機場“空鐵聯運”新服務上線 買機票免費坐城際】暑運以來，廣州白雲機場客流持續走高，為減少旅客等待時間、實現快速接駁、助力低碳出行，記者從相關部門瞭解到，自7月15日起，從白雲機場進出港的旅客，可獲取“機票+廣東城際”免費聯運服務。凡購買指定航空公司進出港航班的旅客，可獲贈廣東城際鐵路乘車券，實現“飛機+城際”一碼通聯，讓珠三角及周邊城市旅客的回家路、出差路更加順暢。（央視新聞）"
+    },
+    {
+      "id": "4989296",
+      "time": "2026-07-15 15:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：目標是強勁的經濟和可持續的財政政策。"
+    },
+    {
+      "id": "mkt:019f6495-4159-7aab-8d97-640481950549",
+      "time": "2026-07-15 15:02:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact mixed",
+        "FTSE100",
+        "Euro STOXX 50"
+      ],
+      "text": "European stocks opened mixed on Wednesday, July 15: Germany's DAX fell 163.09 points (0.65%) to 24,981.29; Britain's FTSE 100 dropped 59.33 points (0.56%) to 10,470.06; France's CAC 40 rose 4.53 points (0.05%) to 8,371.38; Euro STOXX 50 gained 13.26 points (0.21%) to 6,293.45; Spain's IBEX 35 slipped 139.52 points (0.72%) to 19,217.08; Italy's FTSE MIB lost 186.00 points (0.35%) to 52,676.50."
+    },
+    {
+      "id": "4989295",
+      "time": "2026-07-15 15:02:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：上半年人民幣存款增加17.76萬億元】央行資料顯示，6月末，本外幣存款餘額354.33萬億元，同比增長8.2%。月末人民幣存款餘額346.44萬億元，同比增長8.2%。上半年人民幣存款增加17.76萬億元。其中，住戶存款增加7.58萬億元，非金融企業存款增加3.2萬億元，財政性存款增加9715億元，非銀行業金融機構存款增加4.65萬億元。6月末，外幣存款餘額1.16萬億美元，同比增長13.7%。上半年外幣存款增加980億美元。"
+    },
+    {
+      "id": "mkt:019f6495-199c-7aab-8d97-5a24cef0db03",
+      "time": "2026-07-15 15:02:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC: At end-June, total deposits (domestic and foreign currency) were 354.33 tln yuan, up 8.2% YoY. End-month RMB deposits were 346.44 tln yuan, up 8.2% YoY. RMB deposits increased 17.76 tln yuan in 1H."
+    },
+    {
+      "id": "mkt:019f6495-0f73-7aab-8d97-53dca33685bc",
+      "time": "2026-07-15 15:01:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China June M0 money supply YoY 11.8%; previous 11.9%."
+    },
+    {
+      "id": "4989294",
+      "time": "2026-07-15 15:01:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：2026年6月末社會融資規模存量為462.06萬億元 同比增長7.4%】央行釋出資料顯示，初步統計，2026年6月末社會融資規模存量為462.06萬億元，同比增長7.4%。其中，對實體經濟發放的人民幣貸款餘額279.16萬億元，同比增長5.3%；對實體經濟發放的外幣貸款摺合人民幣餘額1.18萬億元，同比下降2.9%；委託貸款餘額11.24萬億元，同比增長0.5%；信託貸款餘額4.62萬億元，同比增長4%；未貼現的銀行承兌匯票餘額2.02萬億元，同比下降2.8%；企業債券餘額36.08萬億元，同比增長8.9%；政府債券餘額101.36萬億元，同比增長14.2%；非金融企業境內股票餘額12.49萬億元，同比增長5%。"
+    },
+    {
+      "id": "mkt:019f6494-f9fa-7aab-8d97-4f3b030bbc97",
+      "time": "2026-07-15 15:01:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mainland turnover CNY 2.571 tln; Dongshan Precision tops turnover】July 15 — Shanghai and Shenzhen traded a combined CNY 2.571 tln, down CNY 132.8 bln from the prior session. Shanghai turnover was CNY 1.226 tln (prev CNY 1.272 tln), volume 576 mln lots (prev 580 mln). Shenzhen turnover was CNY 1.345 tln (prev CNY 1.432 tln), volume 689 mln lots (prev 675 mln). Top by turnover: Dongshan Precision CNY 37.258 bln; followed by Zhaoyi Innovation CNY 32.495 bln, Zhongji Xuchuang CNY 29.282 bln, Xinyisheng CNY 24.952 bln and Tongfu Microelectronics CNY 23.481 bln."
+    },
+    {
+      "id": "mkt:019f6494-f635-7aab-8d97-4287930e5e47",
+      "time": "2026-07-15 15:01:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M0 Money Supply (YoY) (Jun) | actual 11.8% | previous 11.9%"
+    },
+    {
+      "id": "mkt:019f6494-f097-7aab-8d97-3c59aba0c680",
+      "time": "2026-07-15 15:01:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China June M1 money supply YoY 4.0% vs. 4.9% expected; prior 5.5%."
+    },
+    {
+      "id": "mkt:019f6494-ebbd-7aab-8d97-33760784cce6",
+      "time": "2026-07-15 15:01:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CSI300",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "PBOC preliminary estimates show outstanding social financing stock at 462.06 trillion yuan at end-June 2026, up 7.4% YoY."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607153807397998",
+      "time": "2026-07-15 15:01:42",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：上半年社會融資規模增量累計為20.84萬億元 人民幣貸款增加10.72萬億元】初步統計，2026年上半年社會融資規模增量累計為20.84萬億元，比上年同期少2.02萬億元。6月末，廣義貨幣(M2)餘額356.71萬億元,同比增長8%。上半年人民幣貸款增加10.72萬億元。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153807397998",
+      "time": "2026-07-15 15:01:42",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【央行：上半年社會融資規模增量累計為20.84萬億元 人民幣貸款增加10.72萬億元】初步統計，2026年上半年社會融資規模增量累計為20.84萬億元，比上年同期少2.02萬億元。6月末，廣義貨幣(M2)餘額356.71萬億元,同比增長8%。上半年人民幣貸款增加10.72萬億元。"
+    },
+    {
+      "id": "mkt:019f6494-c783-7aab-8d97-2dfc99907b76",
+      "time": "2026-07-15 15:01:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M1 Money Supply (YoY) (Jun) | actual 4% | consensus 4.9% | previous 5.5%"
+    },
+    {
+      "id": "mkt:019f6494-c4bf-7aab-8d97-2264b18655c2",
+      "time": "2026-07-15 15:01:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "China June M2 money supply YoY 8.0% vs est. 8.5%, prior 8.6%."
+    },
+    {
+      "id": "mkt:019f6494-aa3a-7aab-8d97-1e6fd4377f16",
+      "time": "2026-07-15 15:01:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | M2 Money Supply (YoY) (Jun) | actual 8% | consensus 8.5% | previous 8.6%"
+    },
+    {
+      "id": "mkt:019f6494-a1f2-7aab-8d97-14e6f44bb962",
+      "time": "2026-07-15 15:01:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Index futures midday close】CSI 300 index futures (IF) most-active contract +0.38%; SSE 50 index futures (IH) +0.94%; CSI 500 index futures (IC) -0.84%; CSI 1000 index futures (IM) -0.56% at midday close."
+    },
+    {
+      "id": "mkt:019f6494-92d6-7aab-8d97-0b9fd10aa2db",
+      "time": "2026-07-15 15:01:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "PBOC preliminary data show cumulative new aggregate social financing in 1H2026 totaled 20.84 trillion yuan, down 2.02 trillion yuan year-on-year."
+    },
+    {
+      "id": "4989293",
+      "time": "2026-07-15 15:01:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "《求是》雜誌發表習近平總書記重要文章《在慶祝中國共產黨成立105週年大會上的講話》。（新華社）"
+    },
+    {
+      "id": "mkt:019f6494-678b-7aab-8d97-03caecfeb6e0",
+      "time": "2026-07-15 15:01:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "By the midday close in China, main futures contracts were mostly higher. Low-sulfur fuel oil (LU) rose over 6%, fuel oil climbed more than 5%, synthetic rubber, container freight (Europe route) and ethylene glycol (EG) gained over 4%, palladium jumped nearly 4%, and SC crude oil, styrene (EB) and propylene advanced over 3%. On the downside, polysilicon and lithium carbonate slid more than 2%, urea and Shanghai lead fell nearly 2%, and soda ash, peanuts and Shanghai nickel dropped over 1%."
+    },
+    {
+      "id": "4989292",
+      "time": "2026-07-15 15:01:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【收評：創業板指衝高回落跌1.21%，PCB、半導體等算力硬體股集體回撥】A股三大指數今日集體下跌，截至收盤，上證指數跌0.29%，深證成指跌0.97%，創業板指跌1.21%，北證50跌1.8%，科創50指數跌4.25%。全市場成交額25874億元，較上日縮量1321億元，全市場超3300只個股上漲。板塊題材上，醫療服務、CRO概念、減肥藥、白酒、影視院線板塊漲幅居前；半導體、儲存晶片、先進封裝、電子化學品、光刻機板塊跌幅居前。盤面上，醫療服務板塊全天表現強勢，睿智醫藥、昭衍新藥、百花醫藥等股漲停，萬邦醫藥、南模生物、陽光諾和漲幅居前。白酒板塊低開高走，古井貢酒、金種子酒收穫漲停，瀘州老窖、山西汾酒、今世緣、迎駕貢酒漲幅居前。影視院線板塊集體反彈，幸福藍海20cm漲停，儒意電影漲停，光線傳媒、奧飛娛樂、金逸影視漲幅居前。半導體板塊高開低走，清溢光電、臻寶科技、強一科技、沫曦股份、東微半導等股跌超10%。儲存晶片板塊表現低迷，佰維儲存盤中跌超15%，德明利、深科技、立昂微等股跌停。元件板塊亦表現疲軟，中京電子、紅板科技、風華高科跌停，崇達技術、深南電路、方正科技跌幅居前。"
+    },
+    {
+      "id": "4989291",
+      "time": "2026-07-15 15:01:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "A股收盤，上證指數跌0.29%，深證成指跌0.97%，創業板指跌1.21%。"
+    },
+    {
+      "id": "4989289",
+      "time": "2026-07-15 15:00:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：上半年人民幣貸款增加10.72萬億元】央行資料顯示，6月末，本外幣貸款餘額286.43萬億元，同比增長5.1%。月末人民幣貸款餘額282.63萬億元，同比增長5.2%。上半年人民幣貸款增加10.72萬億元。分部門看，住戶貸款減少3668億元，其中，短期貸款減少5881億元，中長期貸款增加2212億元；企（事）業單位貸款增加11.13萬億元，其中，短期貸款增加4.59萬億元，中長期貸款增加5.55萬億元，票據融資增加8143億元；非銀行業金融機構貸款減少4223億元。6月末，外幣貸款餘額5577億美元，同比下降0.6%。上半年外幣貸款增加127億美元。"
+    },
+    {
+      "id": "4989288",
+      "time": "2026-07-15 15:00:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【中國央行：上半年人民幣存款增加17.76萬億元】中國央行：6月末，本外幣存款餘額354.33萬億元，同比增長8.2%。月末人民幣存款餘額346.44萬億元，同比增長8.2%。上半年人民幣存款增加17.76萬億元。其中，住戶存款增加7.58萬億元，非金融企業存款增加3.2萬億元，財政性存款增加9715億元，非銀行業金融機構存款增加4.65萬億元。6月末，外幣存款餘額1.16萬億美元，同比增長13.7%。上半年外幣存款增加980億美元。"
+    },
+    {
+      "id": "4989287",
+      "time": "2026-07-15 15:00:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國1至6月社會融資規模增量 208400億人民幣，前值 174800億人民幣。"
+    },
+    {
+      "id": "4989286",
+      "time": "2026-07-15 15:00:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗陸軍： 伊朗陸軍7名現役及義務兵役人員在襲擊中喪生，伊朗將做出回應】宣告稱，今天凌晨，美國軍隊發射了13枚導彈，擊中了伊朗伊斯蘭共和國陸軍位於班普爾的一處營區宿舍和住宿區。在此次襲擊中，伊朗沙赫爾第388旅有7名現役和義務兵役人員喪生，另有多名人員受傷，目前正在接受治療。伊朗伊斯蘭共和國陸軍將對美方的這一襲擊行為作出堅決的回應。"
+    },
+    {
+      "id": "4989285",
+      "time": "2026-07-15 15:00:17",
+      "tags": [
+        "資料"
+      ],
+      "text": "西班牙6月CPI年率終值 3.2%，預期3.2%，前值3.20%。\n西班牙6月CPI月率終值 0.6%，預期0.6%，前值0.60%。\n西班牙6月調和CPI月率終值 0.6%，預期0.6%，前值0.60%。\n西班牙6月調和CPI年率終值 3.6%，預期3.6%，前值3.60%。"
+    },
     {
       "id": "mkt:019f6493-776b-7aab-8d96-f8b98ac82b56",
       "time": "2026-07-15 15:00:13",
