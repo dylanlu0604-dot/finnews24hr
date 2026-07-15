@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-16 04:23:53",
-  "count": 18626,
+  "updated": "2026-07-16 04:27:47",
+  "count": 18630,
   "items": [
+    {
+      "id": "te:markets:567313",
+      "time": "2026-07-16 04:26:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises After BoC Holds Rates Steady — The S&P/TSX Composite Index added 0.3% to close at 35,416 on Wednesday as investors assessed the Bank of Canada's interest rate decision. The BoC kept its key policy rate unchanged at 2.25%, as expected, noting that the economy is showing signs of improvement. The central bank said growth is picking up and inflation is projected to ease gradually from its recent spike. However, it also highlighted significant risks and uncertainties stemming from the conflict in the Middle East and US trade policy. Financials led the gains, with RBC up 1.6%, TD Bank adding 1.4%, BMO advancing 1.3%, and CIBC rising 1.7%. Meanwhile, mining stocks pared earlier gains, with Agnico Eagle down 1.3% and Barrick losing 1.6%. Shopify (-1.8%), Constellation Software (-2%), and Celestica (-2.9%) tracked weakness in US technology stocks. Elsewhere, Cogeco Communications (+1.3%) is set to release its third-quarter results after the market close."
+    },
+    {
+      "id": "4990726",
+      "time": "2026-07-16 04:24:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX破發 做空者浮盈近40億美元】當地時間週三SpaceX股價跌破發行，引發空頭大舉押注。資料顯示，做空投資者賬面利潤已接近38.8億美元，目前約1.81億股SpaceX股票被賣空，佔流通股約28%。自6月16日創下收盤高點以來，SpaceX市值已縮水約8600億美元，跌幅達三分之一。隨著公司即將公佈首份季度財報以及更多限售股解禁，投資者正密切關注股價走勢。"
+    },
+    {
+      "id": "mkt:019f6773-27f2-7aab-8db0-50a54872953b",
+      "time": "2026-07-16 04:23:47",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "【SpaceX falls below offering price; shorts' unrealized gains near $3.9bn】SpaceX (SPCX.O) shares have slipped below their offering price, triggering heavy short activity. Short positions total roughly 181 million shares, about 28% of the float, yielding approximately $3.88bn in unrealized profits. Since the June 16 closing high, SpaceX’s market cap has fallen by about $860bn, roughly one-third. Investors are watching the company’s imminent first quarterly report and forthcoming lock-up expirations for further price pressure."
+    },
+    {
+      "id": "mkt:019f6773-2753-7aab-8db0-4fefe6e99551",
+      "time": "2026-07-16 04:23:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he will move soon to make it easier for veterans to become truck drivers."
+    },
+    {
+      "id": "4990725",
+      "time": "2026-07-16 04:23:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將很快採取措施，放寬退伍軍人成為卡車司機的准入門檻。"
+    },
+    {
+      "id": "4990724",
+      "time": "2026-07-16 04:23:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國很快將針對“非法”卡車司機採取行動。"
+    },
     {
       "id": "4990723",
       "time": "2026-07-16 04:23:12",
@@ -171343,25 +171398,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭共和國通訊社：恰巴哈爾部分地區發生爆炸後出現停電。"
-    },
-    {
-      "id": "mkt:019f4369-3ae0-7aab-8cfe-679402073d2c",
-      "time": "2026-07-09 04:26:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Citigroup maintains its base-case view, forecasting average Brent crude at $75/bbl in 3Q26."
-    },
-    {
-      "id": "4977596",
-      "time": "2026-07-09 04:26:23",
-      "tags": [
-        "觀點"
-      ],
-      "text": "花旗銀行表示，基準情景下 2026 年第三季度布倫特原油均價維持每桶 75 美元。"
     }
   ]
 }
