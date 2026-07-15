@@ -1,7 +1,77 @@
 {
   "date": "2026-07-15",
-  "count": 1466,
+  "count": 1473,
   "items": [
+    {
+      "id": "4989104",
+      "time": "2026-07-15 12:49:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭首次檢出H5N1禽流感 病毒源自遷徙海鳥】紐西蘭生物安全部長安德魯・霍加德（Andrew Hoggard）週三通報，首都惠靈頓附近海灘發現一隻遷徙海鳥，其H5N1高致病性禽流感檢測結果呈陽性，系該國首例該病毒感染病例。此次染病的鳥類為棕賊鷗。上月澳大利亞剛檢出該病毒，大洋洲成為全球最後一個出現該毒株的大洲。自2021年起，高致病性H5型禽流感病毒已在野生鳥類及哺乳動物間廣泛傳播，造成數百萬只動物死亡，大量家禽、奶牛養殖場遭波及，部分養殖場工作人員也出現感染情況。霍加德在宣告中表示：“目前沒有跡象顯示紐西蘭出現野生動物大規模死亡，也未發現野鳥間病毒傳播，家禽養殖場暫未檢出該病毒。”紐西蘭此前已提前部署應對H5N1禽流感，聯合家禽行業制定生物安全防控方案與風險應對預案。"
+    },
+    {
+      "id": "te:economy:567061",
+      "time": "2026-07-15 12:49:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Vietnam",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Vietnam 10Y Bond Yield Hits 3-year High — Vietnam 10 Year Government Bond Yield increased to 4.54%, the highest since March 2023. Over the past 4 weeks, Vietnam 10Y Bond Yield gained 4.69 basis points, and in the last 12 months, it increased 117.50 basis points."
+    },
+    {
+      "id": "4989103",
+      "time": "2026-07-15 12:48:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗駐聯合國大使週三表示，伊朗在一封正式致聯合國的信函中記錄了42起所謂美國“明確且根本性”違反兩國諒解備忘錄的事件。 這封信函向聯合國提供了該大使所描述的美國反覆違反協議下承諾的詳細情況。"
+    },
+    {
+      "id": "te:markets:567060",
+      "time": "2026-07-15 12:48:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Extends Gains on Fresh US Strikes — Brent climbed above $85 per barrel on Wednesday, advancing for a third consecutive session after the US launched another wave of strikes against Iran while reinstating its naval blockade of Iranian ports near the Strait of Hormuz. US forces targeted dozens of military assets along Iran’s coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran’s ability to disrupt shipping through Hormuz. Meanwhile, President Donald Trump abandoned plans to impose a 20% fee on cargo transiting the strait, saying any lost revenue would be more than offset by future investments from Gulf nations into the US. Oil prices have surged this week as renewed hostilities between Washington and Tehran intensified supply concerns, adding fresh uncertainty after Persian Gulf producers ramped up exports following the signing of the interim peace agreement."
+    },
+    {
+      "id": "te:markets:567059",
+      "time": "2026-07-15 12:47:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Oil Extends Gains on Fresh US Strikes — Crude oil climbed toward $80 per barrel on Wednesday, advancing for a third consecutive session after the US launched another wave of strikes against Iran while reinstating its naval blockade of Iranian ports near the Strait of Hormuz. US forces targeted dozens of military assets along Iran’s coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran’s ability to disrupt shipping through Hormuz. Meanwhile, President Donald Trump abandoned plans to impose a 20% fee on cargo transiting the strait, saying any lost revenue would be more than offset by future investments from Gulf nations into the US. Oil prices have surged this week as renewed hostilities between Washington and Tehran intensified supply concerns, adding fresh uncertainty after Persian Gulf producers ramped up exports following the signing of the interim peace agreement."
+    },
+    {
+      "id": "mkt:019f6419-7312-7aab-8d93-817e9793397e",
+      "time": "2026-07-15 12:46:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it destroyed US military assets in Kuwait, including a satellite communications center, missile and air-defence radars, Patriot air-defence systems, US base logistics facilities and HIMARS missile launchers."
+    },
+    {
+      "id": "4989102",
+      "time": "2026-07-15 12:45:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大皇家銀行將美國銀行目標價從59美元上調至65美元。"
+    },
     {
       "id": "4989101",
       "time": "2026-07-15 12:45:45",
