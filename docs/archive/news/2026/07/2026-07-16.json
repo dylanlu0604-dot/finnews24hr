@@ -1,7 +1,59 @@
 {
   "date": "2026-07-16",
-  "count": 56,
+  "count": 61,
   "items": [
+    {
+      "id": "4990516",
+      "time": "2026-07-16 00:52:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 多名參議員將於週四與特朗普會面，磋商加密貨幣相關法案。"
+    },
+    {
+      "id": "mkt:019f66b1-a485-7aab-8dac-7907aebd4d25",
+      "time": "2026-07-16 00:52:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "GBP/USD intraday gain widened to 1.00%, trading at 1.3525."
+    },
+    {
+      "id": "4990515",
+      "time": "2026-07-16 00:52:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收跌62美元，報13582美元/噸。LME期鋁收跌27美元，報3150美元/噸。LME期鋅收跌52美元，報3546美元/噸。LME期鉛收跌14美元，報1852美元/噸。LME期鎳收漲38美元，報16803美元/噸。LME期錫收跌1033美元，報52780美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "te:economy:567302",
+      "time": "2026-07-16 00:51:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Israel",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Israel Inflation Rate at 2021-Lows — Israel's annual inflation rate eased to 1.6% in June 2026, the lowest since May 2021, down from 1.9% in May and in line with the central bank's 1%-3% target. Price pressures softened for food, including vegetables (1.6% vs. 2.6%), and education, culture, and entertainment (1.4% vs. 1.5%), while transportation and communication prices fell 0.3%, reversing a 0.8% increase in the previous month. Deflation deepened slightly for furnishings and household equipment (-3.7% vs. -3.6%), while inflation for dwelling maintenance was unchanged at 1.8%. In contrast, housing inflation accelerated to 4.2% from 4%, and health costs rose 1.8% after a 1.6% increase. Meanwhile, deflation for clothing and footwear eased to 5.9% from 6.7%. On a monthly basis, consumer prices were unchanged in June, following a 0.3% decline in May."
+    },
+    {
+      "id": "mkt:019f66af-8260-7aab-8dac-75a8aee4aa83",
+      "time": "2026-07-16 00:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve Governor Lisa Cook will speak on the economic outlook in ten minutes."
+    },
     {
       "id": "te:economy:567301",
       "time": "2026-07-16 00:47:41",
