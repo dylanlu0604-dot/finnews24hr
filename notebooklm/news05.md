@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-16 05:10:50_
-_本檔包含 3751 則快訊，約 709421 字_
+_更新時間：2026-07-16 06:08:45_
+_本檔包含 3717 則快訊，約 709573 字_
+
+---
+
+### 2026-07-10 11:56:25  #其他
+
+【國家能源局：加強配電網建設改造和智慧升級，提升配電網對分散式新能源等新型主體綜合承載能力】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提出，擴大新能源消納空間。大力發展新型儲能，探索長時儲能應用，增加省間新能源互濟交易規模，不斷提升新能源發電量佔比。加強配電網建設改造和智慧升級，提升配電網對分散式新能源等新型主體綜合承載能力。積極發展綠電直連、智慧微電網、源網荷儲一體化、新能源接入增量配電網等新能源就近消納新業態，擴大綠電應用空間。
+
+---
+
+### 2026-07-10 11:56:19  #MKT News
+
+【China's National Energy Administration:】China's National Energy Administration issued the Energy-sector Energy-Saving and Carbon-Reduction Action Plan (2026–2028), which sets out proposed measures.
+
+---
+
+### 2026-07-10 11:55:57  #其他
+
+【國家能源局：支援算力設施提升綠電消費佔比 深入挖掘算力負荷時空可調節潛力】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提到，促進綠色電力與新興產業協同發展。推動新能源基地與算力設施協同規劃、建設。支援算力設施提升綠電消費佔比，深入挖掘算力負荷時空可調節潛力，促進算電協同執行。推動採用高效冷卻、高效能供電、先進餘熱資源回收利用等節能技術裝備，提升算力設施能效水平。佈局建設一批自用消納的新能源基地、流域水風光一體化基地，推動電力和先進製造業等產業協同佈局。
+
+---
+
+### 2026-07-10 11:55:44  #MKT News #Important #Copper #Impact bullish
+
+【National Energy Administration to strengthen distribution-grid upgrades and smartization to boost capacity for distributed renewables】The National Energy Administration issued the Energy Sector Energy-saving and Carbon-reduction Action Plan (2026–2028), directing measures to expand renewable consumption and lift renewables’ share of generation. Market-relevant measures include: accelerate development of new energy storage and explore long-duration storage applications; scale up interprovincial renewable trading; step up distribution-grid construction and smart upgrades to increase the grid’s capacity to absorb distributed renewables and other new participants; and promote green-power direct connections, smart microgrids, integrated source–grid–load–storage solutions and incremental distribution networks to facilitate local consumption and broaden green-power use.
+
+---
+
+### 2026-07-10 11:55:24  #焦點 #國際
+
+韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買單。
+
+---
+
+### 2026-07-10 11:55:22  #MKT News #Commodities #Energy #Copper #Impact bullish
+
+【China NEA to explore advanced transmission tech, boost corridors' clean‑energy capacity and share】China's National Energy Administration issued the Energy Sector Energy Saving and Carbon Reduction Action Plan (2026–2028), directing optimization of transmission corridors to better allocate green resources. The plan mandates scientific optimization of national power flows and orderly planning and construction of clean‑energy bases — including desert and marginal land sites — and cross‑provincial/interregional transmission corridors, and promotes integrated hydro‑wind‑solar projects. It calls for tapping transmission corridors' export potential, optimizing operation, exploring advanced transmission technologies, steadily increasing corridors' capacity and proportion for clean‑energy delivery, and studying/piloting 100% renewable export transmission projects.
+
+---
+
+### 2026-07-10 11:55:10  #MKT News #Important #Commodities #Energy #CSI300 #Impact mixed #Hang Seng Index #Copper #Impact bullish
+
+【National Energy Administration to orderly retire eligible coal units ≤300 MW】The National Energy Administration published the Energy Sector Energy‑saving and Carbon‑reduction Action Plan (2026–2028), prioritizing coal‑power decarbonization. It calls for orderly retirement of a batch of eligible coal‑fired units at or below 300 MW and encourages replacement units be built to new‑generation coal standards; promotes cross‑generation upgrades to supercritical/ultra‑supercritical technology for a number of 600 MW units; supports co‑firing of zero/low‑carbon fuels and CCUS retrofits for eligible units, with post‑retrofit carbon intensity targeted to fall about 10% per MWh; and backs integration projects linking coal, gas and renewables via thermal and energy‑storage coupling and integrated aggregation/transmission to achieve combined emissions reductions.
+
+---
+
+### 2026-07-10 11:54:52  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #Copper #Brent #Impact bearish
+
+【National Energy Administration: non-fossil energy share to rise ~1pp annually through 2028】The National Energy Administration issued the Energy Sector Energy Conservation and Carbon Reduction Action Plan (2026–2028). It targets an average annual increase of about 1 percentage point in China’s non‑fossil energy consumption share through 2028; tighter control of coal consumption intensity at coal‑fired power units and a goal to raise the share of coal‑fired capacity meeting current efficiency benchmarks by about 15 percentage points; development of zero‑carbon and low‑carbon coal and oil fields; support for zero‑carbon industrial parks; and significant progress in energy savings and decarbonization in key industries to boost green energy use.
+
+---
+
+### 2026-07-10 11:54:30  #其他 #焦點
+
+【國家能源局：穩妥有序關停一批具備條件的30萬千瓦級及以下煤電機組 推動實施一批60萬千瓦級煤電機組超（超）臨界跨代升級改造】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提到，大力推動火電節能降碳。穩妥有序關停一批具備條件的30萬千瓦級及以下煤電機組，鼓勵按新一代煤電要求建設替代機組；推動實施一批60萬千瓦級煤電機組超（超）臨界跨代升級改造。支援對具備條件的機組實施零碳低碳燃料摻燒和碳捕集利用與封存（CCUS）改造建設，改造建設後度電碳排放水平應降低10%左右。實施一批煤電、氣電與新能源融合專案，支援煤電與新能源透過儲熱儲能耦合調峰及頂峰、一體化彙集送出等方式，達到融合降碳效果。
+
+---
+
+### 2026-07-10 11:54:04  #其他
+
+【國家能源局：到2028年 非化石能源消費比重年均提升約1個百分點】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提到，到2028年，非化石能源消費比重年均提升約1個百分點；合理控制煤電機組供電煤耗，達到現行能效標杆水平的煤電產能比例力爭提高15個百分點；建成一批零碳低碳煤炭礦區、油區；支援建成一批零碳園區，重點行業節能降碳取得顯著進展，綠色用能水平不斷提升。
 
 ---
 
@@ -22370,269 +22430,5 @@ U.S. 10-year Treasury futures fell three ticks, while fed funds futures price in
 ### 2026-07-09 06:09:02  #其他
 
 據日經新聞：東京電子將把半導體裝置交付週期縮短一半。
-
----
-
-### 2026-07-09 06:07:24  #市場 #國際
-
-美國 10 年期國債期貨下跌 3 個基點，聯邦基金期貨顯示市場預期至 12 月累計加息 38 個基點。
-
----
-
-### 2026-07-09 06:04:15  #公司 #觀點 #焦點
-
-【長鑫科技7月16日開啟新股申購】據上交所官網，備受投資者關注的中國儲存巨頭長鑫科技7月9日披露科創板上市招股意向書及《發行安排及初步詢價公告》，披露公司新股網下申購日和網上申購日均為2026年7月16日。公告同時顯示，長鑫科技的證券程式碼/網下申購程式碼為“688825”，網上申購程式碼為“787825”。公告顯示，本次擬公開發行股票668,808.8608萬股(超額配售選擇權行使前)，同時發行人授予中金公司不超過初始發行股份數量15.00%的超額配售選擇權，若超額配售選擇權全額行使，則發行總股數將擴大至 769,130.1608萬股。
-
----
-
-### 2026-07-09 06:01:57  #國際
-
-特朗普在英國登上卡達贈送的新版空軍一號專機。
-
----
-
-### 2026-07-09 06:00:45  #市場 #國際
-
-美國再度打擊伊朗，WTI 原油開盤大漲 2.2%，報 75.13 美元。
-
----
-
-### 2026-07-09 06:00:44  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bearish #Nasdaq100 #Dow
-
-U.S. stock index futures opened about 0.1% lower on Thursday.
-
----
-
-### 2026-07-09 06:00:27  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為69%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為69%，累計加息25個基點的機率為31%。 美聯儲到9月維持利率不變的機率為31.1%，累計加息25個基點的機率為51.9%，累計加息50個基點的機率為17%。
-
----
-
-### 2026-07-09 06:00:02  #市場
-
-WTI原油日內漲2%，現報75.07美元/桶。
-
----
-
-### 2026-07-09 05:59:36  #國際
-
-法爾斯通訊社援引當地官員訊息，襲擊目標為伊朗東南部恰巴哈爾港的海上交通管制塔以及一處倉庫。
-
----
-
-### 2026-07-09 05:58:13  #MKT News #Market Themes #The Trump Trade
-
-U.S. officials said the U.S. Treasury, working with the U.S. Trade Representative and Commerce Department, will deliver to President Trump in coming days a list of Spanish products that could be subject to trade bans.
-
----
-
-### 2026-07-09 05:58:06  #宏觀 #國際
-
-美國一名官員表示，美國財政部將協同美國貿易代表辦公室、商務部，於未來數日向特朗普提交一份清單，列明可能實施貿易禁運的西班牙商品。
-
----
-
-### 2026-07-09 05:56:31  #MKT News
-
-Mehr News Agency reports explosions were heard in the southeastern Iranian city of Shahre.
-
----
-
-### 2026-07-09 05:56:03  #國際
-
-伊朗邁赫爾通訊社訊息，伊朗東南部城市沙赫爾傳來爆炸聲。
-
----
-
-### 2026-07-09 05:54:48  #Trading Economics #Markets #commodity #Importance 0
-
-Palladium is down by 5.35% — Palladium decreased 5.35% to 1213 USD/t.oz
-
----
-
-### 2026-07-09 05:54:28  #其他
-
-【蘇丹武裝部隊宣佈收復東南部一邊境重鎮】蘇丹武裝部隊8日宣佈，已收復該國東南部青尼羅州邊境城市庫爾穆克。蘇丹武裝部隊發言人辦公室發表宣告說，當天上午，經過激烈戰鬥，蘇丹武裝部隊成功將準軍事組織快速支援部隊及其盟友蘇丹人民解放運動（北方局）逐出庫爾穆克。敵方人員和裝備損失重大，蘇丹武裝部隊繳獲大批武器及車輛。宣告說，下階段將優先保護當地平民、恢復基本服務，並重申將持續作戰，直至“徹底消滅”快速支援部隊及其支持者。快速支援部隊及其盟友尚未就上述宣告作出回應。（新華社）
-
----
-
-### 2026-07-09 05:43:45  #國際
-
-【特朗普稱伊朗再襲船美軍將打更狠】美國總統特朗普當地時間7月8日晚離開土耳其抵達英國。他就正在對伊朗進行的打擊行動表示，這是“對伊朗前一日轟炸船隻行為的報復”，“如果伊朗再襲船，後果將嚴重得多”。 (CCTV國際時訊)
-
----
-
-### 2026-07-09 05:41:16  #其他
-
-訊息人士：智譜 AI 港股配售融資定價為每股 1588 港元。
-
----
-
-### 2026-07-09 05:39:01  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-President Trump posted several videos and images on social media showing explosions following strikes on Iran.
-
----
-
-### 2026-07-09 05:36:54  #國際
-
-【美軍襲擊致伊朗恰巴哈爾近半停電】伊朗國家電視臺今天（7月9日）凌晨報道稱，伊朗東南部沿海城市恰巴哈爾的兩座碼頭和海上交通管制塔遭襲受損。恰巴哈爾三條輸電線路中斷，造成全市近一半區域出現停電。據一位美國官員告訴媒體，正在進行的美國對伊朗打擊預計將比前一天的規模更大。 伊朗最高領袖軍事顧問穆赫辛·雷扎伊在社交媒體發文稱，侵略者及其同夥將受到嚴厲懲罰。（CCTV國際時訊）
-
----
-
-### 2026-07-09 05:36:45  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-President Trump said the strike on Iran was retaliation for Iran's attack on vessels yesterday and warned that if it happens again the consequences will be more severe.
-
----
-
-### 2026-07-09 05:36:24  #國際
-
-特朗普談及伊朗：若此類事件再次發生，後果將嚴重得多。
-
----
-
-### 2026-07-09 05:36:12  #焦點 #國際
-
-特朗普：對伊朗實施打擊，以此報復伊朗昨日襲擊船隻的行為。
-
----
-
-### 2026-07-09 05:35:43  #國際
-
-據CNN：美國官員表示，當前伊朗局勢仍處於快速變化之中，美軍未來可能繼續對伊朗目標發動打擊。該官員稱，美軍此次打擊主要針對可用於攻擊美國軍事資產的導彈、無人機設施，以及可能威脅霍爾木茲海峽航運安全的相關目標。美國官員表示，美國海軍已參與最新行動。目前，部署在阿拉伯海北部的“亞伯拉罕·林肯”號航母主要執行防禦任務，包括監視霍爾木茲海峽等。美方表示，後續是否擴大行動範圍，將視局勢發展決定。
-
----
-
-### 2026-07-09 05:34:54  #MKT News #WTI #Impact bullish #XAUUSD
-
-US Navy has joined the latest operation, US officials said. The USS Abraham Lincoln, deployed in the northern Arabian Sea, is carrying out defensive missions, including monitoring the Strait of Hormuz. US officials said any expansion of the operation will depend on how the situation develops.
-
----
-
-### 2026-07-09 05:34:03  #國際
-
-【滙豐：第三季度“美國例外論”將面臨風險】滙豐多資產策略團隊預計，今年以來驅動全球市場的“美國例外論”交易將在第三季度有所降溫。由Max Kettner領導的團隊重申，對股票維持最高配建議，認為市場對人工智慧（AI）投資過度、地緣政治風險、美國利率進一步上升以及風險偏好過熱的擔憂被過度放大。該團隊指出，在進入今年下半年之際，市場對風險資產的情緒和倉位整體仍處於中性水平。
-
----
-
-### 2026-07-09 05:33:52  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-CNN, citing US officials, said the situation with Iran remains rapidly evolving and the US military may carry out further strikes on Iranian targets. Officials said recent strikes targeted missile and drone facilities capable of striking US military assets and sites that could threaten shipping through the Strait of Hormuz.
-
----
-
-### 2026-07-09 05:31:09  #央行 #國際
-
-美聯儲主席沃什將於7月15日出席美國參議院銀行委員會聽證會。
-
----
-
-### 2026-07-09 05:29:50  #MKT News
-
-U.S. President Trump arrived in the UK.
-
----
-
-### 2026-07-09 05:29:45  #國際
-
-特朗普抵達英國。
-
----
-
-### 2026-07-09 05:29:31  #其他
-
-俄勒岡州總檢察長辦公室稱，派拉蒙表示不會在 7 月 22 日前完成華納兄弟相關交易。
-
----
-
-### 2026-07-09 05:25:52  #MKT News #Market Themes #The Trump Trade
-
-President Trump said he will immediately petition the US Supreme Court to rehear a birthright citizenship case.
-
----
-
-### 2026-07-09 05:25:25  #國際
-
-特朗普：就出生地公民權問題向最高法院申請複審。
-
----
-
-### 2026-07-09 05:24:43  #MKT News #Important
-
-Mehr News Agency said Iran's air-defense system shot down an 'enemy drone' in southern Iran.
-
----
-
-### 2026-07-09 05:23:18  #其他
-
-標普將哈雷戴維森評級下調至垃圾級，展望穩定。
-
----
-
-### 2026-07-09 05:21:59  #國際
-
-據IRNA：美國空襲伊朗布什爾的軍事基地。
-
----
-
-### 2026-07-09 05:21:45  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【US launches fourth strike on Iran since mid-June memorandum】CNN reports the US struck targets in Iran on Wednesday (US time), in what is at least the fourth strike since a US‑Iran memorandum of understanding was signed in mid‑June. So far, retaliatory actions by both sides have remained below the scale and intensity seen during the conflict's early phase.
-
----
-
-### 2026-07-09 05:18:42  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-Rezaei, an adviser to Iran's supreme leader, said: 'Whoever attacks you should be struck back in the same way they attacked you. Aggressors and their accomplices will face severe punishment.'
-
----
-
-### 2026-07-09 05:15:45  #市場
-
-富時A50期指連續夜盤收漲0.10%，報14869點。
-
----
-
-### 2026-07-09 05:14:44  #其他
-
-紐西蘭儲備銀行行長佈雷曼：儘管遭遇燃油衝擊，國內經濟仍具備韌性。
-
----
-
-### 2026-07-09 05:13:06  #國際
-
-伊朗伊斯蘭學生通訊社訊息：伊朗恰巴哈爾三條輸電線路中兩條已恢復供電，剩餘一條也將很快投入執行。
-
----
-
-### 2026-07-09 05:12:53  #MKT News #Commodities #Energy
-
-ISNA reports two of three power lines in Chabahar, Iran, have been restored; the third is expected to resume operation shortly.
-
----
-
-### 2026-07-09 05:12:50  #資料
-
-紐西蘭儲備銀行行長佈雷曼：重申中性的官方現金利率（OCR）區間集中在3%。
-
----
-
-### 2026-07-09 05:12:18  #其他
-
-紐西蘭儲備銀行行長佈雷曼： 需研判經濟形勢以確定中性利率水平。
-
----
-
-### 2026-07-09 05:12:15  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran state TV reported eight explosions were heard at Abbas Port; two projectiles struck Sirik Port and two detonated at Jask Port.
-
----
-
-### 2026-07-09 05:11:36  #國際
-
-伊朗國家電視臺記者稱阿巴斯港傳來八聲爆炸，兩枚彈藥擊中錫裡克港，另有兩枚在賈斯克港上空爆炸。
 
 ---

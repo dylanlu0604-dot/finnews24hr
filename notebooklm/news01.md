@@ -1,7 +1,271 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-16 05:10:50_
-_本檔包含 3726 則快訊，約 709620 字_
+_更新時間：2026-07-16 06:08:45_
+_本檔包含 3747 則快訊，約 710010 字_
+
+---
+
+### 2026-07-16 06:07:52  #MKT News #WTI #Impact bullish #Brent
+
+Iranian state media reported two explosions were heard east of the Port of Hormuz in southern Iran.
+
+---
+
+### 2026-07-16 06:07:43  #國際
+
+伊朗媒體：伊朗南部阿巴斯港以東聽到兩聲爆炸。
+
+---
+
+### 2026-07-16 06:07:30  #MKT News
+
+【US weekly soybean export sales may signal upbeat shift】USDA's weekly export sales report due this week could show soybean shipments of up to 2.0 mln tonnes following a wave of Chinese buying, the Wall Street Journal's poll of analysts found. That would be well above recent weekly sales of roughly 300k tonnes and would mark the largest weekly total in several weeks.
+
+---
+
+### 2026-07-16 06:06:22  #公司 #國際
+
+美國職業棒球紐約洋基隊，正與阿波羅全球管理公司展開深度洽談，計劃融資約30億美元。
+
+---
+
+### 2026-07-16 06:04:51  #央行 #國際
+
+【美聯儲7月維持利率不變的機率近90%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為88.8%，累計加息25個基點的機率為11.2%。 美聯儲到9月維持利率不變的機率為51.2%，累計加息25個基點的機率為44%，累計加息50個基點的機率為4.7%。
+
+---
+
+### 2026-07-16 06:02:25  #其他
+
+智利政府預計2026年銅均價為每磅5.90美元。
+
+---
+
+### 2026-07-16 06:02:19  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+Chilean government expects 2026 average copper price of $5.90 per lb.
+
+---
+
+### 2026-07-16 06:01:56  #MKT News #Market Themes #The Trump Trade
+
+Wall Street Journal, citing sources, reports the Trump administration is considering requiring a US$100,000 bond for certain green-card applicants.
+
+---
+
+### 2026-07-16 06:01:18  #市場
+
+鈀金期貨日內漲2%，現報1322.00美元/盎司。
+
+---
+
+### 2026-07-16 06:01:16  #焦點 #國際
+
+美國考慮對部分綠卡申請人收取10萬美元保證金。
+
+---
+
+### 2026-07-16 06:00:57  #其他
+
+智利政府預計2026年全年平均通脹率為3.6%，此前預估為3.7%。
+
+---
+
+### 2026-07-16 06:00:41  #MKT News #WTI #Impact bearish
+
+WTI crude opened slightly lower on Thursday, trading at $79.50/bbl.
+
+---
+
+### 2026-07-16 06:00:23  #MKT News #Copper #Impact bearish
+
+The Chilean government lowered its 2026 GDP growth forecast to 1.8% from 2.1%.
+
+---
+
+### 2026-07-16 06:00:17  #其他
+
+智利政府將2026年國內生產總值增長預期從2.1%下調至1.8%。
+
+---
+
+### 2026-07-16 06:00:02  #市場
+
+紐約期銀日內漲1%，現報58.16美元/盎司。
+
+---
+
+### 2026-07-16 05:59:52  #國際
+
+美國總統特朗普返回白宮。
+
+---
+
+### 2026-07-16 05:58:30  #其他
+
+中央氣象臺7月16日06時繼續釋出高溫黃色預警。
+
+---
+
+### 2026-07-16 05:58:15  #其他
+
+中央氣象臺7月16日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-07-16 05:54:56  #MKT News #WTI #Impact bullish #Brent #S&P500 #Impact bearish
+
+【Iran says US forces shelled multiple sites in southern Iran】Iran’s Hormozgan provincial government said early on the 16th a location near Sirik was struck by US artillery. Iranian sources also reported US shelling of Qeshm Island in the early hours of the 16th.
+
+---
+
+### 2026-07-16 05:54:07  #國際
+
+【伊朗稱南部多地遭美軍炮擊】伊朗南部的霍爾木茲甘省政府當地時間16日表示，當天凌晨，錫裡克附近的一處地點遭到美軍炮彈襲擊。另據伊方16日凌晨訊息，伊朗南部格什姆島遭到美軍炮彈襲擊。
+
+---
+
+### 2026-07-16 05:53:28  #國際
+
+伊朗媒體：伊朗格什姆島傳出爆炸聲。
+
+---
+
+### 2026-07-16 05:52:45  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Kyiv officials warned residents to remain in safe areas as enemy forces are using ballistic missiles to strike the city.
+
+---
+
+### 2026-07-16 05:52:39  #其他
+
+拜耳：發行規模50億美元的新美元債券。
+
+---
+
+### 2026-07-16 05:52:14  #國際
+
+伊朗軍方發言人表示，美國遵守諒解備忘錄並在霍爾木茲海峽執行“伊朗規定”是重新開放該航道的唯一途徑。
+
+---
+
+### 2026-07-16 05:51:48  #國際
+
+伊朗媒體：美軍彈藥於週三擊中伊朗南部錫裡克周邊地帶。
+
+---
+
+### 2026-07-16 05:51:30  #國際
+
+基輔官員提醒民眾：請待在安全區域，敵方正使用彈道導彈襲擊本市。
+
+---
+
+### 2026-07-16 05:50:47  #國際
+
+美國貿易代表格里爾談美墨加協定：與墨西哥的談判進展順利，與墨西哥合作收緊原產地規則。
+
+---
+
+### 2026-07-16 05:50:06  #MKT News #Important #WTI #Impact bullish #Brent
+
+Mehr news agency reported an Iranian military spokesman said US compliance with a memorandum of understanding and implementation of "Iranian regulations" in the Strait of Hormuz is the only way to reopen the waterway.
+
+---
+
+### 2026-07-16 05:48:44  #MKT News #7267.T #Impact bullish
+
+Nikkei reports Honda plans to begin producing electric scooters in Vietnam as early as September.
+
+---
+
+### 2026-07-16 05:48:32  #其他
+
+本田越南總經理稱，本田汽車計劃最早於9月在越南啟動UC3電動摩托車的生產。
+
+---
+
+### 2026-07-16 05:47:47  #MKT News
+
+【Trump urges defense contractors to boost weapons output】At a Pennsylvania Defense and Innovation Summit hosted by Sen. McCormick on Wednesday, Trump told arms makers, "Our products are world-class, but the pace needs to be faster." His appearance highlighted the administration's push to expand defense production as a prolonged Middle East conflict has depleted large numbers of missiles, interceptors and other munitions and exposed limits in U.S. military supply chains and production capacity. Earlier Wednesday the Department of Defense launched the National Security Finance Fund to provide funding and credit to companies addressing critical-minerals supply shortfalls deemed essential to national security.
+
+---
+
+### 2026-07-16 05:47:17  #其他
+
+本田最快將於9月在越南生產電動踏板摩托車。
+
+---
+
+### 2026-07-16 05:45:37  #公司 #觀點 #國際
+
+【特朗普在國防峰會上點名通用動力 稱美國需加快造潛艇】美國總統特朗普在出席旨在加強美國國防工業基礎的峰會時，敦促國防承包商加快生產，並點名通用動力。特朗普週三在賓夕法尼亞防務與創新峰會上發表講話。此次峰會吸引了多位美國頂尖企業高管出席，包括摩根大通的傑米·戴蒙和波音的Kelly Ortberg。特朗普在這場有時顯得散漫、話題廣泛的演講中，對一些公司表示不滿，指責它們交付武器系統和彈藥速度太慢。“我現在真不想提這個名字，因為他們的速度比我們預期的要慢一點，但沒關係，”特朗普在談到通用動力時表示。他提到該公司與潛艇建造相關的25億美元投資計劃。“他們製造世界上最出色的潛艇，”他接著說，“我們必須造得更快。問題只有這一點，我們需要潛艇。但他們的產品確實很棒。”
+
+---
+
+### 2026-07-16 05:42:45  #國際
+
+美國炮彈擊中伊朗南部錫裡克附近區域。
+
+---
+
+### 2026-07-16 05:41:07  #國際
+
+美國批准向沙烏地阿拉伯出售價值19.6億美元的武器系統。
+
+---
+
+### 2026-07-16 05:38:08  #國際
+
+美國前總統拜登週三釋出影片宣告，11月中期選舉結束後將出版發行一本書。
+
+---
+
+### 2026-07-16 05:33:35  #宏觀 #公司 #國際
+
+美國國務院就擬議對外軍售武器裝備釋出宣告：本次擬出售裝備為先進精確打擊武器系統，英國BAE系統公司將成為沙特軍售專案主承包商。
+
+---
+
+### 2026-07-16 05:32:13  #其他
+
+蘋果被指控在“隱藏我的電子郵件”功能上欺騙消費者。
+
+---
+
+### 2026-07-16 05:29:34  #MKT News #BA.O
+
+The US State Department has approved the sale of C-17 transport aircraft to Kuwait, estimated at USD 484 mln.
+
+---
+
+### 2026-07-16 05:22:20  #MKT News
+
+The U.S. State Department approved the sale of advanced precision-strike weapons systems and related equipment to Saudi Arabia, estimated at $1.96 billion.
+
+---
+
+### 2026-07-16 05:19:38  #國際
+
+美國聯邦參議員湯姆·科頓：伊朗、真主黨、哈馬斯以及胡塞武裝，談判時毫無誠意。他們慣於撒謊、欺詐、撕毀協議。當該政權高呼消滅美國時，我們應當相信他們此言發自內心。特朗普在用德黑蘭唯一聽得懂的語言與之對話，那就是武力。
+
+---
+
+### 2026-07-16 05:17:18  #市場
+
+富時A50期指連續夜盤收漲0.05%，報15236點。
+
+---
+
+### 2026-07-16 05:12:58  #國際
+
+【美國駐伊拉克埃爾比勒領館附近遭無人機襲擊】當地時間15日晚，位於伊拉克北部庫爾德自治區（庫區）首府埃爾比勒的美國駐埃爾比勒領事館附近遭無人機襲擊。伊拉克庫區安全部門訊息人士稱，庫區防空部隊當晚在美國駐埃爾比勒領事館上空攔截了3架無人機。
+
+---
+
+### 2026-07-16 05:11:24  #國際
+
+【美軍對一艘駛往伊朗的油輪發射“地獄火”導彈】當地時間7月15日，美國中央司令部表示，美軍針對伊朗實施了海上封鎖措施，使一艘試圖駛向伊朗港口的空載油輪喪失了航行能力。美國中央司令部部隊監測到一艘油輪“M/T Belma”號正經由國際水域駛向哈爾克島。該商船在試圖違反美方封鎖令時，無視了多次警告。一架美軍飛機向該船發射“地獄火”導彈，使其喪失了航行能力。目前，該船已停止駛往伊朗。美方稱，自美國東部時間7月14日16時恢復對往返伊朗港口及沿海地區船隻的海上封鎖以來，首個24小時內已引導兩艘配合要求的商船改變航線，並擊停一艘“不服從規定”的船隻。美軍表示將繼續保持警戒，確保封鎖措施執行。
 
 ---
 
@@ -38,6 +302,12 @@ _本檔包含 3726 則快訊，約 709620 字_
 ### 2026-07-16 05:03:00  #MKT News #XAUUSD #Impact bullish #WTI #DXY
 
 【Iran reports US strikes; shells hit near pediatric cancer hospital in Ahvaz】Iranian state media reported explosions in Konarak (Sistan and Baluchestan) and Bandar Abbas (Hormozgan) late on July 15 into early July 16 after what they described as the US military’s second round of strikes in one day. Iranian state TV said multiple shells struck the vicinity of a pediatric cancer hospital in Ahvaz (Khuzestan); the hospital has begun a temporary evacuation and has contacted parents to remove patients.
+
+---
+
+### 2026-07-16 05:01:16  #國際
+
+【美軍稱在阿拉伯灣扣押一艘空載油輪】美國中央司令部發文表示，美軍於7月15日針對伊朗實施海上封鎖行動，截停了一艘意圖駛往伊朗港口、航行於阿拉伯灣的空載油輪。通報稱，懸掛庫拉索船旗的“貝爾瑪號”油輪當時正於國際水域駛向哈爾克島，且無視美方多次警告。通報寫道：“美軍將保持高度戒備，隨時準備確保相關規定得到全面遵守。”
 
 ---
 
@@ -22334,149 +22604,5 @@ Brent Tops $85 — Brent rose above $85 a barrel on Tuesday after the US militar
 ### 2026-07-15 04:22:47  #Trading Economics #Markets #Canada #Stock Market #Importance 1
 
 TSX Edges Higher on Softer US Inflation — The S&P/TSX Composite Index added 0.2% to close at 35,320 on Tuesday following the release of US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with RBC up 1%, TD Bank adding 1.2%, and Brookfield gaining 1.3%. Meanwhile, the BoC is widely expected to keep its key policy rate unchanged at 2.25% on Wednesday. Gold prices advanced, supporting mining stocks. Barrick gained 0.9%, while Franco-Nevada added 0.6%. Meanwhile, energy stocks traded lower after US President Trump abandoned plans to impose a 20% fee on cargo passing through the Strait of Hormuz under US military protection. Canadian Natural lost 1.6%, Suncor shed 1%, and Imperial Oil was down 1.6%.
-
----
-
-### 2026-07-15 04:22:42  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Prices Back on the Rise — Crude oil rose above $79 a barrel on Tuesday after the US military launched additional airstrikes against Iran, as Washington prepared to reimpose a blockade on the country's ports and coastal areas. Early in the session, oil prices softened from session-highs after President Donald Trump abandoned plans to impose a 20% fee on cargo passing through the Strait of Hormuz under US military protection. Trump said the expected revenue would be offset by future investments in the US. “I have decided to replace the 20% United States Reimbursement Fee with Trade and Investment Deals that the various Gulf States will be making into the United States,” Trump posted on social media, a day after announcing the fee. Meanwhile, tensions remained elevated with Iran’s Revolutionary Guard claiming attacks on two oil tankers transiting Hormuz without active tracking signals. The UAE’s ADNOC reported that two vessels were hit while crossing the strait.
-
----
-
-### 2026-07-15 04:21:43  #MKT News
-
-Israeli Channel 12 reports Prime Minister NETANYAHU is expected to visit Washington next week; itinerary remains subject to change.
-
----
-
-### 2026-07-15 04:20:05  #MKT News #Important #Commodities #Energy #WTI #Impact mixed
-
-U.S. API weekly crude stocks for the week to July 10 due in 10 minutes.
-
----
-
-### 2026-07-15 04:19:17  #其他
-
-【布魯塞爾市中心大樓火災造成6人死亡】比利時首都布魯塞爾市中心一座正在翻修的大樓14日發生火災，目前已造成6人死亡。布魯塞爾消防部門說，火災最初發生在大樓二層，燃燒物進入電梯井後向下擴散蔓延，引發更大火災範圍。目前火勢已得到控制。
-
----
-
-### 2026-07-15 04:13:53  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rally on Softer Inflation — US stock indices closed higher on Tuesday after softer inflation data all but ruled out a Fed rate hike this month. The S&P 500 gained 0.4%, the Nasdaq rose 1.1%, and the Dow Jones inched up. Both headline and core inflation eased, offsetting the impact of another rally in energy prices as the US and Iran continued exchanging strikes. Chipmakers rebounded from Monday's selloff, with Nvidia up 4.1%, Broadcom adding 1.3%, and Micron advancing 4.9%. Most major banks also recovered from early losses. JPMorgan added 2.5% after posting its strongest quarterly profit on record, while Bank of America advanced 1.8% and Citi lost 5.3% after releasing their results. Among capital markets firms, Goldman Sachs surged 9% after beating earnings estimates. On the downside, IBM tumbled 25.2% after missing expectations and warning of weaker client spending, as companies prioritized investments in chips and memory this quarter.
-
----
-
-### 2026-07-15 04:13:45  #MKT News #IBM.O #Impact bearish #LCID.O
-
-IBM (IBM.N) shares closed down 25%; Lucid Group (LCID.O) fell 16%.
-
----
-
-### 2026-07-15 04:12:13  #國際
-
-市場訊息：以色列總理內塔尼亞胡預計下週訪問華盛頓，行程或有變動。
-
----
-
-### 2026-07-15 04:12:05  #公司 #國際
-
-美國電網運營巨頭PJM Interconnection LLC在AI繁榮期沒能實現關鍵的電力供應目標。該公司與可靠的電力需求目標之間存在6.8 GW缺口。
-
----
-
-### 2026-07-15 04:11:08  #國際
-
-受人工智慧產業擴張影響，美國最大電網未能達成核心電力供應目標。
-
----
-
-### 2026-07-15 04:10:53  #其他
-
-英國財政大臣裡夫斯：英國將在2027年初發行首個數字主權債券。
-
----
-
-### 2026-07-15 04:10:48  #MKT News #Market Regions #Europe & UK
-
-UK Chancellor Reeves said the UK will issue its first digital sovereign bond in early 2027.
-
----
-
-### 2026-07-15 04:08:02  #公司 #國際
-
-電網運營機構 PJM 互聯公司稱，美國最大電網 PJM 的容量電價漲至每兆瓦日 325 美元。
-
----
-
-### 2026-07-15 04:07:35  #MKT News #Market Regions #Wall Street (US) #S&P500 #Impact bullish #Dow
-
-On Tuesday, July 14, the Dow Jones Industrial Average closed up 10.02 points, or 0.02%, at 52,508.66. The S&P 500 rose 28.55 points, or 0.38%, to 7,543.89. The Nasdaq Composite added 233.83 points, or 0.90%, to 26,107.01.
-
----
-
-### 2026-07-15 04:07:34  #MKT News #Market Regions #Japan & APAC #US10Y #Impact bearish #DXY #Impact bullish #USDJPY
-
-【Japan trims U.S. Treasury holdings in May】U.S. Treasury data show Japan held $1.143 tln of U.S. Treasuries in May, down from $1.210 tln in April; the UK held $949 bln in May, up from $938 bln; China held $659 bln in May, up from $651 bln.
-
----
-
-### 2026-07-15 04:06:20  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-CENTCOM said the U.S. military resumed a maritime blockade of vessels bound to/from Iranian ports and coastal waters at 4:00 p.m. ET today. More than 20 U.S. Navy warships and several hundred military aircraft are deployed in the Middle East; U.S. forces are on high alert with lethal strike capability and ready to act.
-
----
-
-### 2026-07-15 04:06:05  #焦點 #國際
-
-【美國軍方稱已恢復對伊朗的封鎖】美國中央司令部：美國東部時間今日下午 4 時，美軍恢復對往返伊朗港口及沿岸地區船隻實施海上封鎖。目前美軍在中東部署逾 20 艘海軍戰艦、數百架軍用飛機。美軍保持高度戒備，具備強大作戰能力，隨時待命。
-
----
-
-### 2026-07-15 04:04:57  #MKT News #Market Themes #AI Revolution
-
-White House says it will establish an AI and cybersecurity coordination working group.
-
----
-
-### 2026-07-15 04:04:12  #國際
-
-美國白宮：美國將成立人工智慧與網路安全協調小組。
-
----
-
-### 2026-07-15 04:03:04  #MKT News #Important #SKHY.O #Impact bullish #MU.O #SNDK.O
-
-【US close: major indexes up; SK Hynix jumps over 27%】US equities closed higher on Tuesday: Dow +0.02%, S&P 500 +0.38%, Nasdaq +0.90%. SanDisk (SNDK.O) and Micron Technology (MU.O) rose ~5%; SK Hynix ADR (SKHY.O) surged 27.2%. Nasdaq Golden Dragon China Index -0.1%; Baidu (BIDU.O) -3.0%.
-
----
-
-### 2026-07-15 04:02:52  #公司 #焦點 #國際
-
-SK海力士ADR飆升27%，收盤時較韓國上市股票溢價51%。
-
----
-
-### 2026-07-15 04:02:21  #其他
-
-IBM股價收跌25%，市值蒸發690億美元。
-
----
-
-### 2026-07-15 04:01:25  #觀點
-
-花旗股價收跌5.3%，創2月12日以來最大單日跌幅。
-
----
-
-### 2026-07-15 04:01:04  #央行 #其他
-
-英國央行行長貝利：英國需要優先實現經濟增長。
-
----
-
-### 2026-07-15 04:01:02  #市場 #國際
-
-日本 5 月持有美國國債規模為 1.143 萬億美元，4 月為 1.210 萬億美元。
 
 ---

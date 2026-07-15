@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-16 05:10:50_
-_本檔包含 3463 則快訊，約 709642 字_
+_更新時間：2026-07-16 06:08:45_
+_本檔包含 3467 則快訊，約 709403 字_
+
+---
+
+### 2026-07-12 18:03:35  #MKT News
+
+Iraq government spokesman says the Iraqi prime minister will travel to Washington on Monday.
+
+---
+
+### 2026-07-12 18:03:16  #資料 #國際
+
+市場訊息：以色列6月消費者信心指數跌至84。
+
+---
+
+### 2026-07-12 18:03:06  #MKT News #600660.SS
+
+【Fuyao Glass chairman Cao Hui visits Aolide to discuss in‑vehicle optoelectronics cooperation】Fuyao Glass Industry Group Co. chairman Cao Hui led a delegation to Aolide on July 12 to discuss in‑vehicle optoelectronics applications. The companies held in‑depth talks on supply‑chain collaboration, joint technology R&D and commercialization of application scenarios.
+
+---
+
+### 2026-07-12 18:02:28  #公司
+
+【福耀玻璃董事長曹暉一行到奧來德考察交流】據奧來德訊息，7月12日，福耀玻璃工業集團股份有限公司董事長曹暉一行到奧來德考察交流。雙方圍繞車載光電前沿應用展開深度研討，就產業鏈協同、技術聯合創新、場景拓展落地等方向充分交換意見，共謀合作發展新路徑。
+
+---
+
+### 2026-07-12 18:01:03  #MKT News
+
+【Hong Kong begins publicity for 2026 APEC finance ministers meeting】HONG KONG GOVT Financial Services and the Treasury Bureau said July 12 the 2026 APEC finance ministers meeting has entered its 100-day countdown and official publicity has begun. Large promotional banners were installed on the Wan Chai government building in early July and electronic displays on Central pedestrian overpasses are running. The bureau said it will continue coordinating with relevant departments to finalise arrangements ahead of the meeting and to receive APEC delegations, aiming to showcase Hong Kong as an international financial centre.
+
+---
+
+### 2026-07-12 18:00:42  #國際
+
+【美議員遭以色列定居者扣留影片公佈】當地時間7月11日，美國民主黨籍聯邦眾議員羅·卡納的團隊公佈了此前他在約旦河西岸遭以色列定居者扣留的影片。影片顯示，羅·卡納所在的車隊遭到手持步槍的以色列定居者圍堵。羅·卡納表示，他在訪問巴勒斯坦村莊途中遭到了攔截，並被扣留約一小時。他同時表示，如果不願為巴勒斯坦人的人權發聲，不願譴責加沙的種族滅絕和約旦河西岸的種族隔離，這就是道德淪喪。（CCTV國際時訊）
+
+---
+
+### 2026-07-12 18:00:02  #市場
+
+未來一週將有沃華醫藥、優彩資源等4家AB股公司披露業績。
+
+---
+
+### 2026-07-12 17:59:26  #MKT News #Market Themes #China Tech Giants #CSI300 #Impact bullish #SZSE Component #SSE Composite
+
+【Kaiyuan Securities: Risk Unwinding Underway, Search for Next Wave of Tech Leaders】Kaiyuan Securities says markets underwent a correction this week: tech staged a strong rebound on Thursday but fell again on Friday, boosting volatility. The broker views the pullback not as the end of the tech trend but as a concentrated short-term risk release amid high growth, high valuations and crowded positioning; the market is digesting valuations and crowding. Looking ahead, technology remains the primary theme and the adjustment is seen as a reset for a healthier relaunch. Tech is still deemed the most attractive sector with marginally improving fundamentals; the STAR Market and ChiNext retain higher relative earnings advantages. After the current phase of rebalancing, the market will hunt for the next cohort that can absorb risk appetite while showing marginal fundamental improvement — a further tech re‑selection.
+
+---
+
+### 2026-07-12 17:59:10  #國際
+
+【日本擬對菲律賓出口二手護衛艦 引發強烈質疑和批評】據日本方面訊息，日本防衛大臣小泉進次郎近日就日本向菲律賓出口海上自衛隊二手護衛艦一事表示，希望“與菲律賓國防部長加快討論”。對此，一些日本媒體表達強烈質疑和批評。對此，一些日本主流媒體表達強烈質疑，認為日本政府此舉違背了和平憲法精神。《朝日新聞》評論認為，一旦完成交付，將開創戰後日本對外出口殺傷性武器的先例。愛知縣和平委員會也在社交媒體發文表示，堅決反對日本透過武器出口加劇地區衝突風險的舉動。（央視新聞）
+
+---
+
+### 2026-07-12 17:57:47  #宏觀
+
+【香港展開亞太經合組織財政部長會議宣傳工作】香港特區政府財經事務及庫務局今日（12日）表示，2026年亞太經合組織財政部長會議踏入倒數100天，局方的宣傳工作正式展開。會議相關的大型宣傳掛畫已於7月初在灣仔特區政府大樓外牆懸掛，中環行人天橋的電子顯示屏也同步展示，為會議揭開序幕。財經事務及庫務局接下來會繼續與各相關政策局及部門緊密協作，全力辦好、辦妥會議，迎接各亞太經合組織成員代表蒞臨香港，共同推進亞太經濟合作，向世界展現香港作為國際金融中心的獨特優勢。（大灣區之聲）
+
+---
+
+### 2026-07-12 17:56:17  #國際
+
+【以媒：內塔尼亞胡或將出席格雷厄姆的葬禮】據報道，內塔尼亞胡目前正在考慮飛往美國南卡羅來納州，參加格雷厄姆參議員的葬禮。報道稱，如果內塔尼亞胡前往參加格雷厄姆的葬禮，他極有可能在此次行程中會見美國總統唐納德·特朗普。
+
+---
+
+### 2026-07-12 17:54:13  #國際
+
+【美國消費信貸自2024年以來首次下降】美國聯邦儲備委員會日前公佈的資料顯示，美國5月消費信貸出現自2024年以來的首次月度下降，表明在通脹壓力下美國消費者借貸趨於謹慎，折射經濟隱憂。報告顯示，美國5月消費信貸總額下降1.82億美元。其中，信用卡等迴圈信貸餘額創下自2024年以來的最大降幅。美國微軟網路網站文章分析認為，消費信貸減少主要是因為信用卡年利率處於高位，推高了信貸成本，這一變化表明部分家庭正在減少對高息債務的依賴，而信貸緊縮趨勢可能會影響未來幾個月的非必要消費。如果消費信貸持續收緊，最終可能影響住房需求及其他大額消費支出。（新華社）
+
+---
+
+### 2026-07-12 17:50:09  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #Impact mixed
+
+【BOC Securities: Short-term equilibrium does not alter growth-led trend】BOC Securities says debate over a "growth-to-value rotation" has intensified but concludes K-shaped fundamental divergence has not reversed and conditions for a style switch are insufficient. Cloud providers' capex remains on an upward path and global semiconductor sales continue to expand, indicating the AI cycle is still trending higher. Recovery in traditional cyclical sectors is heavily policy-dependent; current macro policy is focused on "consolidating fundamentals" with limited urgency or room for broad aggregate stimulus, leaving traditional sectors without systemic earnings elasticity. Growth therefore retains a relative earnings advantage, and the market is in a consolidation phase rather than at a bull–bear regime turning point.
+
+---
+
+### 2026-07-12 17:47:10  #市場 #觀點
+
+【開源證券：風險逐步釋放，尋找新一輪科技線索】開源證券在最新研報中指出，本週，市場經歷了一輪調整，雖然週四科技出現大反攻，但週五再次出現下跌，市場波動顯著加大。本輪調整並不是科技趨勢的結束，而是高景氣、高估值、高擁擠狀態下，短期風險的集中釋放，市場嘗試消化估值和擁擠度。展望後市，科技仍是主線，本輪調整是為了更健康的再出發。當下科技仍是最具吸引力、基本面邊際仍在改善的方向，眾多板塊中，以科創板和創業板為代表的科技板塊仍具備較高的相對業績優勢，景氣相對稀缺。階段性再平衡結束後，市場會重新尋找下一批能夠承接風險偏好、同時具備基本面邊際改善的方向——科技再篩選。（一財）
 
 ---
 
@@ -20994,65 +21078,5 @@ JP Morgan cuts Chevron (CVX.N) PT to $190 from $224.
 ### 2026-07-10 11:56:40  #MKT News #Important
 
 Korea Exchange (KRX) activated the KOSPI temporary halt mechanism after KOSPI 200 futures rose 5%, suspending algorithmic trading for 5 minutes.
-
----
-
-### 2026-07-10 11:56:25  #其他
-
-【國家能源局：加強配電網建設改造和智慧升級，提升配電網對分散式新能源等新型主體綜合承載能力】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提出，擴大新能源消納空間。大力發展新型儲能，探索長時儲能應用，增加省間新能源互濟交易規模，不斷提升新能源發電量佔比。加強配電網建設改造和智慧升級，提升配電網對分散式新能源等新型主體綜合承載能力。積極發展綠電直連、智慧微電網、源網荷儲一體化、新能源接入增量配電網等新能源就近消納新業態，擴大綠電應用空間。
-
----
-
-### 2026-07-10 11:56:19  #MKT News
-
-【China's National Energy Administration:】China's National Energy Administration issued the Energy-sector Energy-Saving and Carbon-Reduction Action Plan (2026–2028), which sets out proposed measures.
-
----
-
-### 2026-07-10 11:55:57  #其他
-
-【國家能源局：支援算力設施提升綠電消費佔比 深入挖掘算力負荷時空可調節潛力】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提到，促進綠色電力與新興產業協同發展。推動新能源基地與算力設施協同規劃、建設。支援算力設施提升綠電消費佔比，深入挖掘算力負荷時空可調節潛力，促進算電協同執行。推動採用高效冷卻、高效能供電、先進餘熱資源回收利用等節能技術裝備，提升算力設施能效水平。佈局建設一批自用消納的新能源基地、流域水風光一體化基地，推動電力和先進製造業等產業協同佈局。
-
----
-
-### 2026-07-10 11:55:44  #MKT News #Important #Copper #Impact bullish
-
-【National Energy Administration to strengthen distribution-grid upgrades and smartization to boost capacity for distributed renewables】The National Energy Administration issued the Energy Sector Energy-saving and Carbon-reduction Action Plan (2026–2028), directing measures to expand renewable consumption and lift renewables’ share of generation. Market-relevant measures include: accelerate development of new energy storage and explore long-duration storage applications; scale up interprovincial renewable trading; step up distribution-grid construction and smart upgrades to increase the grid’s capacity to absorb distributed renewables and other new participants; and promote green-power direct connections, smart microgrids, integrated source–grid–load–storage solutions and incremental distribution networks to facilitate local consumption and broaden green-power use.
-
----
-
-### 2026-07-10 11:55:24  #焦點 #國際
-
-韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買單。
-
----
-
-### 2026-07-10 11:55:22  #MKT News #Commodities #Energy #Copper #Impact bullish
-
-【China NEA to explore advanced transmission tech, boost corridors' clean‑energy capacity and share】China's National Energy Administration issued the Energy Sector Energy Saving and Carbon Reduction Action Plan (2026–2028), directing optimization of transmission corridors to better allocate green resources. The plan mandates scientific optimization of national power flows and orderly planning and construction of clean‑energy bases — including desert and marginal land sites — and cross‑provincial/interregional transmission corridors, and promotes integrated hydro‑wind‑solar projects. It calls for tapping transmission corridors' export potential, optimizing operation, exploring advanced transmission technologies, steadily increasing corridors' capacity and proportion for clean‑energy delivery, and studying/piloting 100% renewable export transmission projects.
-
----
-
-### 2026-07-10 11:55:10  #MKT News #Important #Commodities #Energy #CSI300 #Impact mixed #Hang Seng Index #Copper #Impact bullish
-
-【National Energy Administration to orderly retire eligible coal units ≤300 MW】The National Energy Administration published the Energy Sector Energy‑saving and Carbon‑reduction Action Plan (2026–2028), prioritizing coal‑power decarbonization. It calls for orderly retirement of a batch of eligible coal‑fired units at or below 300 MW and encourages replacement units be built to new‑generation coal standards; promotes cross‑generation upgrades to supercritical/ultra‑supercritical technology for a number of 600 MW units; supports co‑firing of zero/low‑carbon fuels and CCUS retrofits for eligible units, with post‑retrofit carbon intensity targeted to fall about 10% per MWh; and backs integration projects linking coal, gas and renewables via thermal and energy‑storage coupling and integrated aggregation/transmission to achieve combined emissions reductions.
-
----
-
-### 2026-07-10 11:54:52  #MKT News #Important #Market Regions #Greater China #Hang Seng Index #Impact bullish #Copper #Brent #Impact bearish
-
-【National Energy Administration: non-fossil energy share to rise ~1pp annually through 2028】The National Energy Administration issued the Energy Sector Energy Conservation and Carbon Reduction Action Plan (2026–2028). It targets an average annual increase of about 1 percentage point in China’s non‑fossil energy consumption share through 2028; tighter control of coal consumption intensity at coal‑fired power units and a goal to raise the share of coal‑fired capacity meeting current efficiency benchmarks by about 15 percentage points; development of zero‑carbon and low‑carbon coal and oil fields; support for zero‑carbon industrial parks; and significant progress in energy savings and decarbonization in key industries to boost green energy use.
-
----
-
-### 2026-07-10 11:54:30  #其他 #焦點
-
-【國家能源局：穩妥有序關停一批具備條件的30萬千瓦級及以下煤電機組 推動實施一批60萬千瓦級煤電機組超（超）臨界跨代升級改造】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提到，大力推動火電節能降碳。穩妥有序關停一批具備條件的30萬千瓦級及以下煤電機組，鼓勵按新一代煤電要求建設替代機組；推動實施一批60萬千瓦級煤電機組超（超）臨界跨代升級改造。支援對具備條件的機組實施零碳低碳燃料摻燒和碳捕集利用與封存（CCUS）改造建設，改造建設後度電碳排放水平應降低10%左右。實施一批煤電、氣電與新能源融合專案，支援煤電與新能源透過儲熱儲能耦合調峰及頂峰、一體化彙集送出等方式，達到融合降碳效果。
-
----
-
-### 2026-07-10 11:54:04  #其他
-
-【國家能源局：到2028年 非化石能源消費比重年均提升約1個百分點】國家能源局印發《能源領域節能降碳行動計劃（2026—2028年）》。其中提到，到2028年，非化石能源消費比重年均提升約1個百分點；合理控制煤電機組供電煤耗，達到現行能效標杆水平的煤電產能比例力爭提高15個百分點；建成一批零碳低碳煤炭礦區、油區；支援建成一批零碳園區，重點行業節能降碳取得顯著進展，綠色用能水平不斷提升。
 
 ---
