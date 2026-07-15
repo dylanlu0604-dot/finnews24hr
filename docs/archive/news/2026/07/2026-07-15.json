@@ -1,7 +1,175 @@
 {
   "date": "2026-07-15",
-  "count": 1902,
+  "count": 1919,
   "items": [
+    {
+      "id": "4989358",
+      "time": "2026-07-15 15:33:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【交大昂立：完成出售北京金可生物2.36%股權】交大昂立公告稱，公司此前審議透過出售參股公司股權議案，將持有的北京金可生物2.36%股權以1232.90萬元轉讓給大連鯤鵬。截至公告披露日，公司已收到全部股權轉讓款，且完成工商變更登記，不再持有北京金可生物股權，本次股權轉讓事項已完成。"
+    },
+    {
+      "id": "4989356",
+      "time": "2026-07-15 15:33:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【春秋航空：公司2026年6月運輸週轉量4.73億噸公里，同比上升16.62%】春秋航空公告，公司2026年6月運輸週轉量4.73億噸公里，同比上升16.62%；旅客週轉量51.4億人公里，同比上升15.53%；總載運人次287.7萬人次，同比上升11.20%。"
+    },
+    {
+      "id": "4989355",
+      "time": "2026-07-15 15:33:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【皖天然氣：副總經理張先鋒辭職並當選職工董事】皖天然氣公告稱，7月14日，公司副總經理張先鋒因工作調整辭職，辭職報告自送達董事會之日起生效，其辭職不會影響公司正常經營。7月8日，公司第三屆第十六次職工代表大會選舉張先鋒為第五屆董事會職工董事，選舉結果公示至7月14日無異議，任期至本屆董事會任期屆滿。截至公告日，張先鋒持有公司10萬股，無關聯關係，符合任職資格。"
+    },
+    {
+      "id": "4989354",
+      "time": "2026-07-15 15:33:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大商股份：控股子公司擬1.83億元籤改擴建專案施工總承包合同】大商股份公告稱，公司控股子公司大慶新瑪特擬與關聯方國合集團簽訂《施工總承包合同》，合同含稅總金額為1.83億元，資金來源為自籌。因地下施工存在不確定性，後期不可預見費用上限為800萬元。該交易已透過董事會審議，未達股東會審議標準，不構成重大資產重組。目的是擴容經營空間等，符合公司發展方向，不會產生不良影響。"
+    },
+    {
+      "id": "4989353",
+      "time": "2026-07-15 15:33:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華依科技：核心技術人員調整，新增4人、減少2人】華依科技公告稱，基於公司戰略發展規劃，公司對核心技術人員進行調整，新增張彥枚、宛子翔、董忠璇、李衝為核心技術人員，JIANJUN ZHANG（張建軍）、汪彤不再認定為核心技術人員，但仍在公司相應崗位任職。截至公告披露日，公司技術研發工作正常，本次調整不會對生產經營和技術研發帶來實質性影響。"
+    },
+    {
+      "id": "4989352",
+      "time": "2026-07-15 15:33:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【遼寧成大：股東廣西鑫益信及其一致行動人累計質押股份佔總股本8.42%】遼寧成大公告稱，截至2026年7月14日，股東廣西鑫益信及其一致行動人共持有公司1.58億股股份，佔總股本比例為10.37%，累計質押公司股份數量為1.28億股，佔其所持公司股份比例為81.19%，佔公司總股本比例為8.42%。近日，廣西鑫益信對其持有的1440萬股公司股份辦理質押，用於業務發展需要。本次質押股份無重大資產重組業績補償等擔保或保障用途。"
+    },
+    {
+      "id": "mkt:019f64b1-bd14-7aab-8d98-ae635f7f70ba",
+      "time": "2026-07-15 15:33:17",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【PBOC to study gradual increase in frequency of overnight reverse repos】PBOC spokesperson and Deputy Governor Zou Lan said at a State Council Information Office briefing on the 15th that the central bank will continue to steadily refine its monetary policy operations framework to better guide market overnight rates to trade close to policy rates. In line with primary dealers’ needs, the PBOC will study gradually increasing the frequency of overnight reverse repo operations and will coordinate communication with the market."
+    },
+    {
+      "id": "mkt:019f64b0-fb67-7aab-8d98-a672161f91df",
+      "time": "2026-07-15 15:32:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.04% at 877.6 yuan/gram on July 15. Silver T+D closed up 0.79% at 14,172.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:567120",
+      "time": "2026-07-15 15:32:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.78% Lower — The FTSE 100 Index is falling 83 points. Losses were driven by Fresnillo (-3.78%), Antofagasta (-3.70%) and Endeavour (-2.91%). Biggest rises came from Barratt Redrow (2.58%), ICG (2.57%) and Burberry (1.99%)."
+    },
+    {
+      "id": "te:markets:567119",
+      "time": "2026-07-15 15:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Tread Water — European stocks traded cautiously on Wednesday, with both the STOXX 50 and STOXX 600 fluctuating around the flatline after posting modest gains in the previous session. Investors remained focused on the corporate earnings season while continuing to monitor developments in the Middle East, where persistent uncertainty has kept upward pressure on oil prices. ASML surged more than 6% after raising its 2026 financial guidance and announcing plans to expand production capacity, following better-than-expected second-quarter results driven by strong demand for AI-related technologies. Richemont also gained more than 5% after reporting stronger-than-expected second-quarter sales. Other notable gainers included LVMH (+2.1%) and Hermes (+2.5%). In contrast, Nestle (-1.3%), Siemens (-0.6%), and SAP (-1.1%) traded lower."
+    },
+    {
+      "id": "4989351",
+      "time": "2026-07-15 15:31:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江交科：公司沒有算力中心、新型儲能等新基建方面的在手訂單】浙江交科7月15日在互動平臺表示，公司沒有算力中心、新型儲能等新基建方面的在手訂單。目前，公司的研發投入主要集中在橋隧智慧建造和綠色施工領域等方面。"
+    },
+    {
+      "id": "te:markets:567118",
+      "time": "2026-07-15 15:31:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 1.13% Lower — The DAX Index is dropping 283 points. Leading the losses are Rheinmetall (-2.98%), Infineon (-2.56%) and Zalando (-2.41%)."
+    },
+    {
+      "id": "mkt:019f64af-c11c-7aab-8d98-9a7fef456aaa",
+      "time": "2026-07-15 15:31:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "PBOC says factors affecting the RMB exchange rate are diverse, with both appreciation and depreciation forces at work; the renminbi is expected to remain subject to two-way fluctuations."
+    },
+    {
+      "id": "4989350",
+      "time": "2026-07-15 15:30:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【DeepSeek公司增資至約1645萬 國家人工智慧產業投資基金等入股DeepSeek】天眼查App顯示，近日，DeepSeek關聯公司杭州深度求索人工智慧基礎技術研究有限公司發生工商變更，新增杭州程礪企業管理諮詢合夥企業（有限合夥）、國家人工智慧產業投資基金合夥企業（有限合夥）為股東，同時，註冊資本由1500萬人民幣增至約1645萬人民幣。該公司成立於2023年7月，法定代表人為裴湉，經營範圍含工程和技術研究和試驗發展、軟體開發、人工智慧應用軟體開發等，現由寧波程恩企業管理諮詢合夥企業（有限合夥）、梁文鋒及上述新增股東共同持股。據媒體報道，近期，DeepSeek已啟動IPO籌備工作，計劃在內地上市，目標在2027年完成上市，此前，該公司剛完成500億元融資，創始人梁文鋒掌握78%股權，騰訊、寧德時代等巨頭參投。"
+    },
+    {
+      "id": "4989349",
+      "time": "2026-07-15 15:30:31",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "中國人民銀行新聞發言人、副行長鄒瀾15日在國新辦新聞釋出會上表示，向前看，影響人民幣匯率的因素較為多元，推動升值和貶值的因素都有，人民幣匯率預計會繼續雙向波動。"
+    },
+    {
+      "id": "te:markets:567117",
+      "time": "2026-07-15 15:30:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.54% Lower — The CAC 40 Index is losing 45 points. Losses were led by STMicroelectronics (-4.04%), Carrefour (-1.95%) and Air Liquide (-1.50%). Offsetting the fall, top gainers were Edenred (2.89%), Kering (2.46%) and LVMH (2.12%)."
+    },
+    {
+      "id": "te:markets:567116",
+      "time": "2026-07-15 15:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Drops as Mining Stocks Slide on China’s GDP Slowdown — The FTSE 100 declined over 0.5% to 10,460 points on Wednesday, hitting its lowest level since June 24. Mining stocks, particularly precious metals miners, led the drop as investors reacted to China’s slower-than-expected Q2 GDP growth. As a major metals consumer, China’s economic uncertainty weighs heavily on mining sectors. China’s GDP rose 4.3% year-over-year, the slowest pace in over three years and below both market forecasts of 4.5% and the government’s 4.5%-5% annual target. Chilean miner Antofagasta fell over 3% despite maintaining its copper production outlook, while Fresnillo (-2.9%), Endeavour (-2.6%), Anglo American (-1.7%), Rio Tinto (-1.4%), and Glencore (-1%) also declined. Adding to concerns, rising crude prices raised fears of sustained inflation and prolonged higher interest rates. Markets now anticipate two rate hikes in 2026, with a September increase already priced in."
+    },
     {
       "id": "mkt:019f64ae-377b-7aab-8d98-92587de5f33c",
       "time": "2026-07-15 15:29:26",
