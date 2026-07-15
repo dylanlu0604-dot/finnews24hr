@@ -1,7 +1,62 @@
 {
   "date": "2026-07-16",
-  "count": 350,
+  "count": 356,
   "items": [
+    {
+      "id": "4990716",
+      "time": "2026-07-16 04:15:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮高階顧問哈塞特稱，預估的國內生產總值增速資料存在較大誤差。"
+    },
+    {
+      "id": "mkt:019f676a-e67b-7aab-8db0-2d5c4f8bc57d",
+      "time": "2026-07-16 04:14:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "White House National Economic Council Director Hassett said current GDP growth estimates show significant deviations."
+    },
+    {
+      "id": "4990713",
+      "time": "2026-07-16 04:13:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空集團與英國出口金融局將在未來五年提供10億美元融資支援。"
+    },
+    {
+      "id": "4990712",
+      "time": "2026-07-16 04:13:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空與英國出口融資署推出面向英國地區維修站點的全新融資方案。"
+    },
+    {
+      "id": "4990711",
+      "time": "2026-07-16 04:12:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空與英國出口信貸機構推出全新融資方案。"
+    },
+    {
+      "id": "mkt:019f6768-a623-7aab-8db0-248040f8b9cc",
+      "time": "2026-07-16 04:12:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said oil prices would fall to $55/bbl once the situation in Iran stabilizes."
+    },
     {
       "id": "4990710",
       "time": "2026-07-16 04:11:22",
