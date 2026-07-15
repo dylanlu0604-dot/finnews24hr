@@ -1,7 +1,106 @@
 {
   "date": "2026-07-16",
-  "count": 443,
+  "count": 454,
   "items": [
+    {
+      "id": "4990804",
+      "time": "2026-07-16 06:02:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府預計2026年銅均價為每磅5.90美元。"
+    },
+    {
+      "id": "mkt:019f67cd-5d42-7aab-8db1-007929b1dc01",
+      "time": "2026-07-16 06:02:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Chilean government expects 2026 average copper price of $5.90 per lb."
+    },
+    {
+      "id": "mkt:019f67cd-0289-7aab-8db0-fa1dfe19b648",
+      "time": "2026-07-16 06:01:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Wall Street Journal, citing sources, reports the Trump administration is considering requiring a US$100,000 bond for certain green-card applicants."
+    },
+    {
+      "id": "4990803",
+      "time": "2026-07-16 06:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1322.00美元/盎司。"
+    },
+    {
+      "id": "4990802",
+      "time": "2026-07-16 06:01:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國考慮對部分綠卡申請人收取10萬美元保證金。"
+    },
+    {
+      "id": "4990801",
+      "time": "2026-07-16 06:00:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府預計2026年全年平均通脹率為3.6%，此前預估為3.7%。"
+    },
+    {
+      "id": "mkt:019f67cb-dc59-7aab-8db0-f3005f5c45a7",
+      "time": "2026-07-16 06:00:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude opened slightly lower on Thursday, trading at $79.50/bbl."
+    },
+    {
+      "id": "mkt:019f67cb-95a0-7aab-8db0-e9bb3f5c9a84",
+      "time": "2026-07-16 06:00:23",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "The Chilean government lowered its 2026 GDP growth forecast to 1.8% from 2.1%."
+    },
+    {
+      "id": "4990800",
+      "time": "2026-07-16 06:00:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利政府將2026年國內生產總值增長預期從2.1%下調至1.8%。"
+    },
+    {
+      "id": "4990799",
+      "time": "2026-07-16 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報58.16美元/盎司。"
+    },
+    {
+      "id": "4990798",
+      "time": "2026-07-16 05:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普返回白宮。"
+    },
     {
       "id": "4990797",
       "time": "2026-07-16 05:58:30",
