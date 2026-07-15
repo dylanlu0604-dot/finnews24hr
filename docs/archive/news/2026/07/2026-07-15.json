@@ -1,7 +1,63 @@
 {
   "date": "2026-07-15",
-  "count": 1417,
+  "count": 1423,
   "items": [
+    {
+      "id": "mkt:019f63fa-3f39-7aab-8d93-3f3007c4c298",
+      "time": "2026-07-15 12:12:52",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bullish"
+      ],
+      "text": "【Oracle leading race to supply top-secret cloud services to Japan】Financial Times reports Oracle is leading bids to provide top-secret, air-gapped cloud services to Japan. U.S. officials view the capability as critical for secure intelligence sharing between Tokyo and its allies; seven people familiar with the matter say Oracle is ahead of Amazon Web Services, Microsoft and Google in the contest."
+    },
+    {
+      "id": "4989067",
+      "time": "2026-07-15 12:12:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普回應霍爾木茲海峽通行收費為何“反轉”】美國總統特朗普14日就叫停霍爾木茲海峽通行收費一事稱，在他提出對霍爾木茲海峽運輸貨物收取20%的費用後，中東多國致電表示願在美國大規模投資，他對此“非常滿意”，因此就“不需要徵收通行費”了。（新華社）"
+    },
+    {
+      "id": "mkt:019f63f8-e7e5-7aab-8d93-359077b180cb",
+      "time": "2026-07-15 12:11:24",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "06127.HK",
+        "Impact bullish",
+        "00100.HK",
+        "02595.HK"
+      ],
+      "text": "【Hong Kong midday: HSI oscillates near highs; biotech leads gains】Hong Kong stocks climbed into the midday session. The Hang Seng Index was up 1.46% and the Hang Seng Tech Index rose 1.39% at the break. Life-science tools and biotech led sector gains; passenger airlines were among the laggards. Notable movers: Zhaoyan New Drug (06127.HK) +21.53%, MINIMAX-W (00100.HK) +14.96%, Yingsi Intelligent (03969.HK) nearly +13%, Jingfang Pharma (02595.HK) +12.81%. Internet names: Meituan (03690.HK) +over 4%, Alibaba (09988.HK) nearly +3%, Bilibili (09626.HK) and JD.com (09618.HK) both above +1%."
+    },
+    {
+      "id": "4989066",
+      "time": "2026-07-15 12:10:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國代表呼籲維護西非和薩赫勒地區政治穩定 】中國常駐聯合國代表團臨時代辦孫磊14日在安理會西非和薩赫勒問題公開會上發言，呼籲全力維護這一地區政治穩定。他說，當前，西非和薩赫勒地區局勢總體保持穩定，經濟實現穩健增長，但仍面臨諸多挑戰。國際社會要加大關注與投入，幫助地區國家著力化解治理、安全和發展難題，鞏固來之不易的向好勢頭。國際社會要繼續支援和幫助地區國家做好選舉籌備工作，鞏固政治過渡成果，加強治理能力建設，探索契合自身國情的發展道路。中方鼓勵有關各方繼續坦誠溝通、增信釋疑，不斷彌合分歧、深化合作，為地區政治穩定注入更多正能量。"
+    },
+    {
+      "id": "4989065",
+      "time": "2026-07-15 12:10:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全球最大的獨立集裝箱船運營商塞斯潘公司據悉首次發行熊貓債】知情人士透露，全球最大的獨立集裝箱船東及運營商塞斯潘公司正在發行首期熊貓債，計劃融資15億元人民幣。知情人士透露，本次發行的非公開定向債務融資工具(PPN)期限為3年，簿記區間2.5%-2.9%；最早可能於週三完成定價。"
+    },
+    {
+      "id": "4989064",
+      "time": "2026-07-15 12:10:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "集裝箱船運營商塞斯潘公司據悉首次發行熊貓債，擬融資15億元。"
+    },
     {
       "id": "4989063",
       "time": "2026-07-15 12:08:29",
