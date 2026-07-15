@@ -1,7 +1,54 @@
 {
   "date": "2026-07-16",
-  "count": 180,
+  "count": 185,
   "items": [
+    {
+      "id": "4990580",
+      "time": "2026-07-16 02:13:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍稱在黎巴嫩南部打死三名真主黨武裝人員。"
+    },
+    {
+      "id": "mkt:019f66fb-3942-7aab-8dae-674d6aa4fe5a",
+      "time": "2026-07-16 02:12:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【FED'S BEIGE: Inflation modestly higher; firms still face cost pressure】The Fed's Beige reports U.S. price levels rose modestly. Of 12 Fed districts, nine reported moderate price increases, two reported stronger gains and one reported smaller gains; overall momentum was unchanged or slower versus the prior period. Higher energy, transport and raw-material costs lifted business input prices; some firms cited the Middle East conflict and tariffs as contributors. Consumer prices continued to climb and some firms reported margin compression. Outlooks on inflation diverged—some expect inflation to remain near current levels, while others said falling fuel prices could ease pressure."
+    },
+    {
+      "id": "4990579",
+      "time": "2026-07-16 02:12:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度上調航空燃油出口暴利稅，由每升 7.5 盧比上調至每升 14.5 盧比，7 月 16 日起生效。"
+    },
+    {
+      "id": "4990578",
+      "time": "2026-07-16 02:12:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度下調汽油出口暴利稅，由每升 4 盧比降至每升 2.5 盧比，7 月 16 日起實施。"
+    },
+    {
+      "id": "4990577",
+      "time": "2026-07-16 02:12:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度上調柴油出口暴利稅，從每升 8.5 盧比提高至每升 15.5 盧比，7 月 16 日起生效。"
+    },
     {
       "id": "mkt:019f66f9-7718-7aab-8dae-5d7a21dde150",
       "time": "2026-07-16 02:10:52",
