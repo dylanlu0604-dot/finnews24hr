@@ -1,7 +1,1164 @@
 {
   "date": "2026-07-15",
-  "count": 1547,
+  "count": 1672,
   "items": [
+    {
+      "id": "4989220",
+      "time": "2026-07-15 14:22:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金鉬股份等在安徽成立新科技公司 註冊資本10億】天眼查App顯示，近日，安徽金鉬華鑫科技有限公司成立，法定代表人為符新科，註冊資本10億人民幣，經營範圍含鐵合金冶煉、有色金屬合金製造、高效能有色金屬及合金材料銷售、稀有稀土金屬冶煉、金屬材料銷售等。股東資訊顯示，該公司由金堆城鉬業股份有限公司、安徽金沙鉬業有限公司、安徽省金福智慧能源有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019f6470-3d86-7aab-8d95-ee400bb67648",
+      "time": "2026-07-15 14:21:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Henan 1H goods trade tops 520.36 bln yuan, imports exceed 200.88 bln for first time】Zhengzhou Customs reported Henan province’s 1H goods trade reached 520.36 bln yuan, up 26% YoY. Exports were 319.48 bln yuan, +14.6% YoY; imports 200.88 bln yuan, +49.8% YoY. Both the overall trade total and the import figure are first-time highs for the comparable period."
+    },
+    {
+      "id": "4989219",
+      "time": "2026-07-15 14:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：如果現在不建立強大的經濟，那就太晚了。"
+    },
+    {
+      "id": "mkt:019f6470-06d0-7aab-8d95-e33d6eb3217f",
+      "time": "2026-07-15 14:21:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 closed up 23.40 points, or 0.27%, at 8,831.90 on Wednesday, July 15."
+    },
+    {
+      "id": "4989218",
+      "time": "2026-07-15 14:21:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌1%，現報58.07美元/盎司。"
+    },
+    {
+      "id": "4989217",
+      "time": "2026-07-15 14:20:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美著名作家凱文·凱利：人工智慧有望實現“因材施教”】美國著名專欄作家、網際網路專家與未來學家凱文·凱利日前接受了總檯《高階訪談》的專訪。凱文·凱利展望了人工智慧未來在教育領域或將發揮的作用。他表示，人工智慧有望幫助實現“因材施教”的教育願景，讓教育方案更加個性化。（央視新聞）"
+    },
+    {
+      "id": "te:markets:567077",
+      "time": "2026-07-15 14:20:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Steel Rises Despite Weak Chinese Trade Figures — Steel rebar futures climbed above CNY 3,100 per ton, reaching a one-month high even as the latest Chinese trade data showed that steel exports fell 5.6% year-on-year to 57.87 million tons in the first half of the year. In June alone, exports totaled 10.32 million tons, down 0.2% from the previous month but up 6.6% compared with a year earlier. Meanwhile, China’s steel imports reached 2.69 million tons in January-June, marking an 11.3% decline from the same period last year. At the same time, Chinese steel mills reported widening losses as elevated coking coal costs and persistently weak finished steel prices continued to squeeze profit margins. Planned maintenance work and production cutbacks are also expected to curb near-term steel output."
+    },
+    {
+      "id": "mkt:019f646e-8f51-7aab-8d95-dede963446c5",
+      "time": "2026-07-15 14:19:54",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "【HK securities market to cut minimum tick sizes; phase two effective Aug 3, 2026】After phase one, bid-ask spreads for eligible stocks narrowed 35% and order execution time fell 30% versus before implementation. The Hong Kong Exchange will implement phase two of reduced minimum tick sizes on Aug. 3, 2026 to further optimize trading and improve liquidity."
+    },
+    {
+      "id": "4989216",
+      "time": "2026-07-15 14:19:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【逐際動力人形大腦系統LimX COSA 0.5更新】7月15日，逐際動力宣佈人形大腦系統LimX COSA 0.5更新。基於此係統，逐際動力人形機器人Oli可不間斷幹完一屋子家務。"
+    },
+    {
+      "id": "mkt:019f646d-c335-7aab-8d95-d4be23858855",
+      "time": "2026-07-15 14:19:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 1.00% intraday to $58.11/oz."
+    },
+    {
+      "id": "4989215",
+      "time": "2026-07-15 14:18:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國足協被授予“亞足聯精英青訓計劃三星會員”資格】中國足球協會官網15日釋出訊息稱，協會被授予“亞足聯精英青訓計劃三星會員”資格，上海申花足球俱樂部、浙江職業足球俱樂部、山東魯能泰山足球學校獲評“亞足聯三星青訓中心”。"
+    },
+    {
+      "id": "4989214",
+      "time": "2026-07-15 14:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "地方官員稱，俄羅斯襲擊了烏克蘭敖德薩州與尼古拉耶夫州的港口基礎設施。"
+    },
+    {
+      "id": "mkt:019f646c-4b9e-7aab-8d95-cdb097a4e8e4",
+      "time": "2026-07-15 14:17:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japanese Prime Minister Takaichi said foreign exchange and interest rates are driven by multiple factors, notably US rates and economic indicators."
+    },
+    {
+      "id": "4989213",
+      "time": "2026-07-15 14:17:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【前高通自動駕駛工程副總裁將加入英偉達自動駕駛團隊】英偉達自動駕駛團隊近期釋出內部信稱，前高通自動駕駛工程副總裁Dheeraj Ahuja將加入吳新宙團隊，而原英偉達自動駕駛軟體副總裁，負責量產專案的Sarah Tariq則進入職務過渡期。今日，Sarah Tariq也發出了告別信。Dheeraj Ahuja和吳新宙都曾在高通任職，在過去七年多里，Dheeraj一直負責高通的自動駕駛專案，2021年底至2022年，高通成功擊退英偉達和Mobileye，拿下了寶馬下一代ADAS和自動駕駛平臺的訂單，Dheeraj正是該專案的直接工程負責人。（36氪）"
+    },
+    {
+      "id": "4989212",
+      "time": "2026-07-15 14:16:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：外匯、利率由美國利率、經濟指標等多種因素決定。"
+    },
+    {
+      "id": "mkt:019f646b-a510-7aab-8d95-c3921a4d10b7",
+      "time": "2026-07-15 14:16:43",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Institution: Bank of Korea rate hike to cool property market】Markets widely expect the Bank of Korea to raise rates on Thursday, a move likely to cool the Korean property market. Redevelopment and reconstruction projects, which typically require large resettlement loans and run about a decade, would be hit directly—most relocation loans are floating-rate, so a hike could immediately raise additional contribution payments and delay projects. Nam Hyuk-woo, real estate researcher at Woori Bank, warned that a rate rise combined with banks tightening lending and cutting quotas would create a double squeeze: weaker purchasing power for genuine buyers and wider bank lending spreads. High-priced, investor-concentrated areas along the Han River and in Gangnam are also likely to be affected."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153807356160",
+      "time": "2026-07-15 14:16:17",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【中國官方談二季度GDP增速波動：經濟執行基本面未變】中國國家統計局副局長毛盛勇15日在北京表示，二季度中國經濟增速4.3%，和一季度比回落0.7個百分點，但經濟執行的基本面沒有變。他在當天的國新辦新聞釋出會上說，二季度中國經濟增速比一季度回落主要是受一些短期因素和一些外部影響導致的。比如，石化相關行業受到一些外部影響，煤炭生產受國內短期因素影響，其他行業執行正常。"
+    },
+    {
+      "id": "4989211",
+      "time": "2026-07-15 14:15:46",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【大摩：升長飛光纖光纜H股評級至“增持”，維持目標價為230港元】摩根士丹利發表報告指，長飛光纖光纜自2026年6月的高位以來已下跌約50%，然而由AI驅動的光纖超級週期所支撐的盈利增長軌跡並未改變。該行認為，估值下調已創造了一個極具吸引力的買入時點，決定將其H股評級由“與大市同步”上調至“增持”，並維持目標價為230港元。報告指出，長飛光纖於7月14日釋出的業績預喜顯示，第二季利潤預計將達到19億至25億元，這使得該行對其全年利潤達到75億元的預測極有可能實現。此外，雖然市場先前擔憂新產能擴張帶來的供應風險，但該行預計產能擴張需要時間，而AI基礎設施蓬勃發展帶來的需求依然強勁，因此未來6至12個月的盈利增長動能不會發生實質性變化。長飛光纖同時也是下一代技術創新的領導者，在2026年6月成功完成了全球首次空芯光纖(HCF)波長分波多工(WDM)傳輸系統的現場試驗，進一步奠定了其技術領先地位。"
+    },
+    {
+      "id": "mkt:019f646a-8cae-7aab-8d95-bf12a8a40957",
+      "time": "2026-07-15 14:15:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's prime minister Takaichi said she does not believe the draft economic blueprint will be a source of market shock."
+    },
+    {
+      "id": "te:economy:567075",
+      "time": "2026-07-15 14:13:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Swedish Inflation Confirmed at 0.7% in June — Consumer prices in Sweden rose by 0.7% year-on-year in June 2026, confirming initial estimates and slightly easing from a seven-month high of 0.8% increase in the previous month. This marked the second consecutive month of rise but at a softer pace, driven largely by lower food prices (-6.8% vs -6.2% in May), and declines in costs for clothing and footwear (-2.3% vs 0.7%), and furnishings, household equipment and maintenance (-3% vs -1.4%). At the same time, inflation softened for transport (3.5% vs 6%)."
+    },
+    {
+      "id": "4989210",
+      "time": "2026-07-15 14:13:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "FactSet資料顯示：SK Square持有SK海力士20.5%的股份。"
+    },
+    {
+      "id": "4989209",
+      "time": "2026-07-15 14:13:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.4%，至8,841.10點。"
+    },
+    {
+      "id": "4989208",
+      "time": "2026-07-15 14:12:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度加強霍爾木茲海峽航運監控 實時追蹤本國海員動態】印度政府宣佈，將開始對所有載有印度公民、途經波斯灣、霍爾木茲海峽和阿曼灣的船舶進行持續監控。印度海員佔全球海員總數的12%以上。印度政府週二晚間釋出宣告稱，印度航運總局將建立一個監控平臺，對上述區域內船舶上的每一名印度公民進行追蹤，無論船舶懸掛何種國旗。在兩艘途經霍爾木茲海峽的商船週二遭遇襲擊，導致一名印度船員死亡、另有10人受傷後，印度召見伊朗副大使提出抗議。“印度對針對毫無防禦能力的民用商船實施襲擊的行為表示強烈憤慨和反對，”印度航運部長Sarbananda Sonowal在宣告中表示，“這些不負責任、毫無根據且完全沒有必要的襲擊，導致印度海員死亡和重傷。而他們正是保障全球供應鏈正常運轉的重要工作者。”"
+    },
+    {
+      "id": "4989207",
+      "time": "2026-07-15 14:11:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【外資湧入晶片股，推動韓國KOSPI指數大漲逾8%】週三，首爾股市重返7000點關口，隨著風險偏好回升及外資加大買入力度，韓國KOSPI指數盤中一度飆升超過8%。截至當地時間下午2:30，外資淨買入價值2.4萬億韓元（約合16.1億美元）的股票，這一規模是前一天近1萬億韓元淨買入額的兩倍多。機構投資者淨買入1,800億韓元，買入力度較週二有所放緩。散戶投資者是唯一的淨賣出方，拋售了價值近2.5萬億韓元的股票。"
+    },
+    {
+      "id": "mkt:019f6466-daac-7aab-8d95-b774014039e9",
+      "time": "2026-07-15 14:11:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Foreign buying in chip stocks lifts South Korea's KOSPI over 8%】Seoul stocks reclaimed the 7,000 level as risk appetite returned; KOSPI intraday rose more than 8% on heavy foreign buying of semiconductor names. As of 14:30 local, foreigners were net buyers of KRW 2.4 tln (about $1.61 bln), more than double Tuesday’s near-KRW 1 tln net purchase. Institutional investors net bought KRW 180 bln, a slower pace than Tuesday; retail investors were the sole net sellers, offloading nearly KRW 2.5 tln."
+    },
+    {
+      "id": "4989206",
+      "time": "2026-07-15 14:10:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：仍計劃將食品銷售稅減免期限限制在2年。"
+    },
+    {
+      "id": "mkt:019f6466-02c6-7aab-8d95-aa2ebd3453f3",
+      "time": "2026-07-15 14:10:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japanese prime minister TAKAICHI said food inf has eased slightly but remains high."
+    },
+    {
+      "id": "mkt:019f6465-b499-7aab-8d95-a771169e9a88",
+      "time": "2026-07-15 14:10:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【BoK hike Thursday seen all but certain; focus on signals for further tightening】Markets widely expect the Bank of Korea to raise rates by 25bp on Thursday, shifting attention to any signals of further tightening. KB Financial Group analyst Lim Jae-kyun says the BoK could deliver two hikes this year, with a further move likelier in October than consecutive hikes in July and August. Hanwha Investment & Securities analyst Kim Sung-soo says the MPC meeting may adopt an overall hawkish tone; markets will watch for upward revisions to growth forecasts and wording on the pace of additional hikes. NH Investment & Securities analyst Kang Seung-won expects the BoK may avoid providing a specific timetable for further hikes to limit the risks of forward guidance."
+    },
+    {
+      "id": "4989205",
+      "time": "2026-07-15 14:09:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：如果食品銷售稅減免談判在8月初結束，還有時間。"
+    },
+    {
+      "id": "mkt:019f6465-0f94-7aab-8d95-989cba66ad4d",
+      "time": "2026-07-15 14:09:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's prime minister Takaichi said she sees this as an opportunity to establish a system allowing flexible adjustment of the consumption tax rate."
+    },
+    {
+      "id": "4989204",
+      "time": "2026-07-15 14:09:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：視此為契機，建立可靈活調整消費稅率的制度。"
+    },
+    {
+      "id": "4989203",
+      "time": "2026-07-15 14:08:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委奇波洛內：我們密切關注通脹預期。"
+    },
+    {
+      "id": "4989202",
+      "time": "2026-07-15 14:08:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "高市早苗：要求將食品銷售稅減免的討論持續到7月。"
+    },
+    {
+      "id": "4989201",
+      "time": "2026-07-15 14:08:07",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委奇波洛內：目前尚未觀察到第二輪效應。"
+    },
+    {
+      "id": "mkt:019f6463-aced-7aab-8d95-91b7d699be68",
+      "time": "2026-07-15 14:08:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan Prime Minister TAKAICHI said food inf has eased slightly but remains elevated."
+    },
+    {
+      "id": "te:economy:567072",
+      "time": "2026-07-15 14:07:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Saudi Arabia Wholesale Inflation Rises to Near 4-Year High — Saudi Arabia’s annual wholesale price inflation rose to 4.8% in June 2026 from 4.6% in May, marking the highest level since August 2022. Prices increased further for metal products, machinery and equipment (1.6% vs 1.5% in May), other transportable goods excluding metal products, machinery and equipment (9.3% vs 9.1%), and agricultural and fishery products (4.0% vs 3.0%). Prices for food products, beverages and tobacco, and textiles edged up 0.2% after falling 0.1% in the previous month. Meanwhile, prices for ores and mineral products continued to decrease, albeit at a slightly slower pace (-0.5% vs -0.6%). On a monthly basis, wholesale prices increased 0.2%, easing from a 1.2% jump in May."
+    },
+    {
+      "id": "4989200",
+      "time": "2026-07-15 14:07:10",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持雲南鍺業“買入”評級，磷化銦量價齊升，業績超市場預期】東吳證券研報指出，磷化銦量價齊升，雲南鍺業業績超市場預期。公司預計26H1歸母淨利潤5500-8000萬元，同比增長148%-261%；扣非淨利潤5200-6700萬元，同比增長576%-771%，超市場預期。磷化銦是光模組核心基礎材料，下游800G/1.6T光模組出貨量持續上修，而全球InP產能擴張受限於單晶生長良率和長週期裝置交付，短期供給彈性極低。Coherent認為，磷化銦供需失衡至少將持續整個2026和2027年。2025年初-2026年4月，2英寸光通訊級磷化銦襯底漲幅近2倍。隨著高階襯底供需缺口擴大，預計2026H2磷化銦襯底價格還將繼續上漲。看好雲南鍺業作為AI產業鏈上游襯底材料稀缺核心供應商的競爭優勢，同時有望充分受益於AI算力基建加速和商業航天發展，維持“買入”評級。"
+    },
+    {
+      "id": "4989199",
+      "time": "2026-07-15 14:06:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "【滬矽產業盤中跌超10%】A股滬矽產業盤中跌10.01%，現報31.12元。"
+    },
+    {
+      "id": "4989198",
+      "time": "2026-07-15 14:06:17",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓媒：韓國券商擬收緊單一股票槓桿ETF投資規則 最低保證金要求或上調五倍】據《韓國先驅報》報道，韓國券商行業已同意收緊單一股票槓桿型ETF的投資者保護規定。韓國金融投資協會當地時間週二召集主要券商執行長召開緊急會議，評估跟蹤三星電子和SK海力士的槓桿ETF市場情況，並討論應對措施。與會機構原則上同意提高最低保證金要求，以抑制散戶投資者過度使用槓桿。目前討論中的一項方案是，將最低保證金門檻從1000萬韓元提高至5000萬韓元。各機構還同意，根據投資者年齡和投資組合情況提供更具針對性的風險提示，並加強投資者教育，幫助投資者更充分了解這類產品的結構及風險。此外，行業還同意將再平衡和對沖交易更均勻地分散至整個交易時段，以減少收盤前集中買賣帶來的市場衝擊。"
+    },
+    {
+      "id": "mkt:019f6461-ca78-7aab-8d95-89b3386267ef",
+      "time": "2026-07-15 14:05:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact mixed",
+        "000660.KS"
+      ],
+      "text": "【Korean brokers to tighten single-stock leveraged ETF rules; minimum margin may rise fivefold】Korean brokers, convened by the Korea Financial Investment Association on Tuesday, agreed in principle to tighten investor protections for single-stock leveraged ETFs tracking Samsung Electronics and SK Hynix. One proposal under discussion would raise minimum margin requirements from 10 mln won to 50 mln won, a fivefold increase aimed at curbing retail leverage. Firms also agreed to add age- and portfolio-targeted risk warnings, step up investor education on product structure and risks, and spread rebalancing and hedging trades more evenly across the trading day to reduce end-of-day market impact."
+    },
+    {
+      "id": "4989197",
+      "time": "2026-07-15 14:05:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：人均年度消費稅負擔超過4萬日元。"
+    },
+    {
+      "id": "4989196",
+      "time": "2026-07-15 14:05:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "歷峰集團約翰內斯堡盤前交易較蘇黎世收盤上漲 8.3%。"
+    },
+    {
+      "id": "mkt:019f6460-dc80-7aab-8d95-809b08487c98",
+      "time": "2026-07-15 14:04:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japanese Prime Minister Sanae Takaichi said per capita annual consumption tax burden exceeds 40,000 yen."
+    },
+    {
+      "id": "4989195",
+      "time": "2026-07-15 14:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油協會：國內供應優先。"
+    },
+    {
+      "id": "4989194",
+      "time": "2026-07-15 14:04:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油協會：沙烏地阿拉伯詢問加入管道事宜。"
+    },
+    {
+      "id": "4989193",
+      "time": "2026-07-15 14:03:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上半年百億私募產品平均收益率超15%】私募排排網資料顯示，截至2026年6月底，有業績顯示的6599只百億私募產品上半年收益率均值為15.02%，顯著跑贏A股主要指數。"
+    },
+    {
+      "id": "mkt:019f645f-745a-7aab-8d95-78ce8dbca74c",
+      "time": "2026-07-15 14:03:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Kingsoft Office to launch standalone AI office agent Lingxi Professional; PC version first】Kingsoft Office will roll out a standalone AI-native office agent, Lingxi Professional Edition, initially on PC. The product targets individual professional use, understands users' work context, can invoke the WPS document engine and external tools, and converts commands into editable, auditable, multi-user collaborative deliverables."
+    },
+    {
+      "id": "4989192",
+      "time": "2026-07-15 14:02:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港證券市場下調最低上落價位第二階段將於8月3日生效】香港交易所7月15日發文稱，香港證券市場在第一階段最低上落價位下調措施實施後取得積極成效。與實施前相比，適用股票的買賣價差收窄35%，訂單成交時間縮短30%。在此基礎上，香港交易所將於2026年8月3日推出第二階段措施，進一步最佳化交易體驗，支援香港證券市場持續發展。有關措施是香港交易所持續最佳化市場微結構、提升交易效率，並鞏固香港作為國際金融中心競爭力的重要舉措。"
+    },
+    {
+      "id": "4989191",
+      "time": "2026-07-15 14:02:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金山辦公將推出獨立AI辦公智慧體靈犀專業版，率先上線PC端】藍鯨新聞7月15日電，記者從知情人士處獨家獲悉，金山辦公即將推出獨立AI原生辦公智慧體——靈犀專業版，該產品將率先上線pc版。產品主打個人專業辦公助理，能夠理解使用者個人工作上下文，聯動呼叫WPS文件核心與各類外部工具，最終將各類指令轉化為可編輯、可追溯、支援多人協作的實體辦公成果。（藍鯨新聞）"
+    },
+    {
+      "id": "mkt:019f645e-907a-7aab-8d95-74ee084176f9",
+      "time": "2026-07-15 14:02:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "ANTO.L",
+        "Impact mixed"
+      ],
+      "text": "Antofagasta reported Q2 2026 copper production of 142,000 tonnes, down 1% QoQ; gold production was 46,300 oz, flat QoQ. Full-year production guidance remains unchanged."
+    },
+    {
+      "id": "te:markets:567068",
+      "time": "2026-07-15 14:01:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "CNOOC Stock Price Hits 4-week High — CNOOC shares increased to 23.06 HKD, the highest since June 2026. Over the past 4 weeks, CNOOC lost 2.29%, and in the last 12 months, it increased 24.41%."
+    },
+    {
+      "id": "te:markets:567066",
+      "time": "2026-07-15 14:01:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Lower Open — European equity markets were set to open lower on Wednesday, giving back some of the previous session’s gains as investors continued to assess escalating tensions in the Middle East that drove oil prices higher. The US launched another round of strikes against Iran while reinstating its naval blockade of Iranian ports near the Strait of Hormuz, raising fresh concerns over regional stability and energy supplies. Meanwhile, softer-than-expected US inflation data reduced expectations of an imminent Federal Reserve interest rate hike, lending some support to broader equity markets. In Europe, investors will focus on Eurozone industrial production and final Spanish inflation figures, while the corporate earnings calendar remains light. In premarket trading, Euro Stoxx 50 futures slipped 0.1%, while Stoxx 600 futures declined 0.2%."
+    },
+    {
+      "id": "4989190",
+      "time": "2026-07-15 14:00:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2628.50點。"
+    },
+    {
+      "id": "4989189",
+      "time": "2026-07-15 14:00:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央宣傳部原副部長，原國家新聞出版廣電總局黨組書記、局長蔡赴朝涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
+    },
+    {
+      "id": "4989188",
+      "time": "2026-07-15 14:00:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國槓桿型晶片ETF的保證金要求可能提高五倍。"
+    },
+    {
+      "id": "mkt:019f645c-7118-7aab-8d95-6bf3f0d4b091",
+      "time": "2026-07-15 14:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SOXL",
+        "Impact bearish",
+        "SOXS",
+        "Impact mixed"
+      ],
+      "text": "South Korean media report that margin requirements for leveraged semiconductor ETFs may be raised fivefold."
+    },
+    {
+      "id": "4989187",
+      "time": "2026-07-15 13:59:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度喀拉拉邦官員稱，塔塔集團將投資10億美元用於造船業。"
+    },
+    {
+      "id": "4989186",
+      "time": "2026-07-15 13:58:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智元聯合京東物流推出具身機器人精靈G2 Max 定檔7月17日WAIC首秀】據瞭解，智元攜手京東物流打造的全新一代安規級過載具身機器人精靈 G2 Max，將於 7 月 17 日在 WAIC 2026 首次公開亮相。"
+    },
+    {
+      "id": "te:markets:567065",
+      "time": "2026-07-15 13:58:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Gives Up Morning Gains, Ends Slightly Lower — The NZX 50 dropped 16 points, or 0.1%, to close at 13,635 on Wednesday, reversing its morning strength and posting a third consecutive session of losses, mainly weighed down by declines in consumer staples, communication services, healthcare, and real estate. Rising oil prices amid the escalating conflict in the Middle East continued to pressure sentiment as inflation concerns fueled expectations of further interest rate hikes. Traders also continued to assess a warning from RBNZ Chief Economist Paul Conway that sticky inflation, driven by recent Middle East supply shocks, could prompt further interest rate hikes. Disappointing data from China also weighed on sentiment, as China's economy grew at its slowest pace in 3-1/2 years. However, a rally on Wall Street overnight helped limit the losses as softer inflation eased expectations of a Fed interest rate hike. Among the biggest laggards were A2 Milk (-2.0%), Mainfreight (-1.1%), Chorus (-1.0%), and Fisher & Paykel (-0.6%)."
+    },
+    {
+      "id": "4989185",
+      "time": "2026-07-15 13:56:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油協會會長：鑑於日本煉油廠目前的配置更適合加工中東品級原油，現階段難以處理大量美國原油。"
+    },
+    {
+      "id": "mkt:019f6457-9543-7aab-8d95-67301d8413be",
+      "time": "2026-07-15 13:54:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "MSNBC reports the PENTAGON's public estimate puts the Iran war's cost at about $30 billion, while US internal estimates place the total cost between $80 billion and $100 billion."
+    },
+    {
+      "id": "mkt:019f6457-1f0b-7aab-8d95-5c924b58bf1d",
+      "time": "2026-07-15 13:54:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Institutional source: BANK OF KOREA likely to hike this week; could mark start of tightening cycle】BigGo Finance, citing market sources, reports markets broadly expect the BANK OF KOREA to raise the policy rate by 25bps to 2.75% from 2.50% at this Thursday’s meeting. That would be the first increase since January 2023 and likely signal the start of a tightening cycle. Bond strategists forecast further hikes to 3.00% by year-end and 3.25% in 1H next year, implying borrowers should price in at least a year of rising rates."
+    },
+    {
+      "id": "4989184",
+      "time": "2026-07-15 13:53:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【元寶、京東AI Agent正式打通小程式生態】騰訊宣佈元寶與京東AI Agent完成小程式生態打通。使用者在元寶內搜尋或諮詢商品相關資訊時，除了獲得商品詳情、引數對比、使用建議等豐富內容外，回答中還會智慧匹配商品卡片，點選即可跳轉至京東購物小程式。據瞭解，此次功能覆蓋數碼電子、家用電器、服飾鞋包、美妝個護、食品生鮮等全品類商品。"
+    },
+    {
+      "id": "4989183",
+      "time": "2026-07-15 13:52:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙特6月消費者物價指數環比上漲0.2%"
+    },
+    {
+      "id": "4989182",
+      "time": "2026-07-15 13:52:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "沙烏地阿拉伯6月份消費者價格指數同比上漲1.8%。"
+    },
+    {
+      "id": "mkt:019f6455-4819-7aab-8d95-51c1fc4b469f",
+      "time": "2026-07-15 13:52:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Petroleum Association of Japan chairman said U.S. crude is an option for diversifying Japan's future oil supply."
+    },
+    {
+      "id": "4989181",
+      "time": "2026-07-15 13:51:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首程控股旗下基金投資爍光精密】7月15日，首程控股釋出公告稱，近日，本集團所屬首程資本旗下公司（本公司的全資附屬公司）所管理的基金投資深圳爍光精密科技有限公司。本次投資將有效賦能被投企業搭建完備的標準化生產基地，實現核心產能擴容升級，全面提速產業規模化落地程序。"
+    },
+    {
+      "id": "mkt:019f6454-721a-7aab-8d95-4a70118bb79b",
+      "time": "2026-07-15 13:51:23",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Family of a missing Indian crewman confirmed he died after a vessel was attacked off the coast of Oman."
+    },
+    {
+      "id": "mkt:019f6454-6840-7aab-8d95-45ca04c5a3f0",
+      "time": "2026-07-15 13:51:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【National Bank of Canada: BOC likely to hold rates; 2026 growth may be cut sharply】Markets broadly expect the BOC to keep the overnight rate at 2.25%. The National Bank of Canada expects no change to BOC balance-sheet policy at the meeting. Since the June decision, market pricing has reduced the probability of further hikes this year; the bank expects the market-implied rate path to show little change after Wednesday’s decision but says a modest tightening bias could remain in coming months. Given ongoing uncertainty from the Iran conflict, the BOC is unlikely to signal that inflation risks have materially eased. Governor Macklem may reiterate that further hikes would be required if inflation risks intensify, and that cuts could be needed if trade risks materialize; the bank notes the odds of both outcomes have fallen versus earlier. The National Bank expects the BOC to lift its headline inflation profile while only slightly adjusting core inflation forecasts; weaker-than-expected Q1 activity means the 2026 GDP growth forecast could be cut sharply. Despite a strong Q2 rebound partially offsetting prior weakness, the BOC is expected to keep its output-gap estimate around -1.5% to -0.5% of GDP."
+    },
+    {
+      "id": "mkt:019f6453-bf08-7aab-8d95-3f35dd1d5fcd",
+      "time": "2026-07-15 13:50:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【TrendForce: Companion humanoid robot market seen at $1.1bn by 2030】TrendForce's latest robotics industry research estimates the companion humanoid robot market will reach $1.1bn in output value by 2030, driven by global aging, low birth rates and a rising share of single-person households that underpin demand for 'companion economy' use cases. Companion robots have moved beyond eldercare and therapeutic designs toward lifelike interaction and emotional companionship; China vendor UBTECH's launch of hyper‑bionic humanoid U1 signals the segment is entering a more realistic, human-like product phase."
+    },
+    {
+      "id": "4989180",
+      "time": "2026-07-15 13:49:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統批評美國老調重彈】當地時間7月14日，針對近日美國對伊朗的言論，伊朗總統佩澤希齊揚回應稱，美國的無理言論都是“老調重彈”，那些想要“撕碎”伊朗的人最終什麼都沒有得到。他強調伊朗會以行動捍衛自己的每一寸土地。他還表示，美國粗魯的言論對映的是他們自身的德行，而非伊朗。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f6452-ea70-7aab-8d95-348effacb58b",
+      "time": "2026-07-15 13:49:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "Japan Petroleum Association (PAJ) chairman said the Japanese government has received proposals from Saudi Arabia and the United Arab Emirates inviting Japan to join expansion of oil transport pipelines designed to bypass the Strait of Hormuz."
+    },
+    {
+      "id": "4989179",
+      "time": "2026-07-15 13:49:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機構：預估陪伴型人形機器人2030年產值達11億美元】根據TrendForce集邦諮詢最新機器人產業研究，陪伴型機器人已從早期的養老照護陪伴、療愈設計，拓展至近年來的真人化互動和情感陪伴，日前中國廠商優必選釋出超仿生人形機器人U1，象徵此類陪伴型產品正式跨入真人化時代。隨著全球人口結構走向老齡化、少子化，且獨居人口持續增加，陪伴型人形機器人需求獲得快速崛起的“陪伴經濟”支撐，預估其產值將於2030年達到11億美元。"
+    },
+    {
+      "id": "4989178",
+      "time": "2026-07-15 13:49:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【面板板塊持續走低，惠科股份跌超9%】面板板塊持續走低，惠科股份跌超9%，維信諾、京東方A、沃格光電、同興達等跟跌。"
+    },
+    {
+      "id": "mkt:019f6452-707e-7aab-8d95-29fa30270b8c",
+      "time": "2026-07-15 13:49:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share panel sector extends decline; Huike falls over 9%, Visionox, BOE A, Woge Optoelectronics and Tongxingda also retreat."
+    },
+    {
+      "id": "4989177",
+      "time": "2026-07-15 13:48:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "INTERTEK資料顯示，印尼6月份棕櫚油出口量為259萬噸，環比增長75%。"
+    },
+    {
+      "id": "4989176",
+      "time": "2026-07-15 13:48:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東航開通上海—第比利斯直飛航線】東航上海—第比利斯航線往返航班號為MU285/286，採用空客330寬體客機執飛，每週三、週五、週日各執行一班往返。去程航班MU285計劃於北京時間12:50從上海浦東國際機場起飛，當地時間19:00抵達第比利斯國際機場，飛行時長約為10小時10分鐘；回程航班MU286於當地時間21:00起飛，北京時間次日10:00抵達上海浦東國際機場，飛行時間約9小時。"
+    },
+    {
+      "id": "4989175",
+      "time": "2026-07-15 13:48:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年上半年河南省進出口歷史同期首次超5000億元】從鄭州海關方面獲悉，今年上半年河南省進出口歷史同期首次超5000億元，增勢強勁、走勢穩健，呈現出“向強、向好、向優”的良好發展態勢，為實現全年外貿穩量提質奠定了堅實基礎。上半年，河南省進出口5203.6億元，同比增長26%。其中，出口3194.8億元，增長14.6%；進口2008.8億元，增長49.8%，這也是河南進口規模歷史同期首次突破2000億元大關。 (大河財立方)"
+    },
+    {
+      "id": "4989173",
+      "time": "2026-07-15 13:48:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行科赫爾：通脹尚未偏離基準路徑太遠。"
+    },
+    {
+      "id": "4989172",
+      "time": "2026-07-15 13:47:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "科赫爾：歐洲央行必須密切監控通脹預期，防範第二輪通脹效應。"
+    },
+    {
+      "id": "4989171",
+      "time": "2026-07-15 13:46:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行管委科赫爾：歐洲央行目前未觀察到第二輪通脹效應。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607153807333047",
+      "time": "2026-07-15 13:46:03",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家統計局：上半年我國晶片日均產量超15億塊】國家統計局新聞發言人、國民經濟綜合統計司負責人王冠華回應記者提問時表示，經過多年的佈局和發展，我國新興產業逐步發展壯大、積厚成勢。上半年規模以上高技術製造業增加值、數字產品製造業增加值分別增長13.3%和12.3%，增速較一季度進一步加快。特別是全球人工智慧技術變革帶來了高階算力晶片和儲存晶片的需求爆發，上半年我國規模以上工業企業的積體電路產量增長23.1%，產量規模達到2798億塊。"
+    },
+    {
+      "id": "mkt:019f644e-c137-7aab-8d95-24d305e57fe9",
+      "time": "2026-07-15 13:45:10",
+      "tags": [
+        "MKT News",
+        "601628.SS",
+        "Impact bullish",
+        "601318.SS",
+        "601336.SS"
+      ],
+      "text": "A-share insurance sector rose in the afternoon session; China Life and China Pacific Insurance (CPIC) gained more than 4%, while PICC, Ping An and New China Life also advanced."
+    },
+    {
+      "id": "4989170",
+      "time": "2026-07-15 13:42:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "保險板塊持續走強，中國人壽、中國太保漲超4%，中國人保、中國平安、新華保險跟漲。"
+    },
+    {
+      "id": "4989169",
+      "time": "2026-07-15 13:42:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱夜間襲擊烏克蘭港口，擊中四艘船隻。"
+    },
+    {
+      "id": "mkt:019f644b-9c86-7aab-8d95-1932d39dfe16",
+      "time": "2026-07-15 13:41:44",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share securities sector strengthened after choppy trading; China International Capital Co rose over 9%, with Huachuang Yunxin, Xinda Securities, Dongxing Securities, Huaan Securities and Hongta Securities also gaining."
+    },
+    {
+      "id": "4989168",
+      "time": "2026-07-15 13:40:37",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【證券板塊震盪走強 中金公司漲超9%】午後證券板塊震盪走強，中金公司漲超9%，華創雲信、信達證券、東興證券、華安證券、紅塔證券跟漲。"
+    },
+    {
+      "id": "mkt:019f644a-1ce5-7aab-8d95-176755f390ba",
+      "time": "2026-07-15 13:40:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【European heatwave boosts summer power demand, reverses electricity consumption decline】A persistent European heatwave has lifted summer electricity demand, reversing the downtrend since the 2022 energy crisis. ENTSO-E data show average French demand in April–mid July reached the highest level for that period since 2022, marking the first YoY increase in that window after three consecutive years of decline. EEX data show French next‑month delivery power prices have risen roughly fourfold since late April, topping €80/MWh by end‑June and remaining elevated month‑to‑date. Power futures plunged in spring on strong solar generation and weak seasonal demand, but expectations of sustained high temperatures have quickly reversed the market."
+    },
+    {
+      "id": "4989167",
+      "time": "2026-07-15 13:38:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿斯麥在TRADEGATE平臺上漲2.8%。"
+    },
+    {
+      "id": "4989166",
+      "time": "2026-07-15 13:37:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華泰汽車等被恢復執行18.4億】天眼查法律訴訟資訊顯示，近日，華泰汽車集團有限公司等新增一則恢復執行資訊，執行標的18.4億餘元，執行法院為遼寧省錦州市中級人民法院。該公司成立於2008年5月，法定代表人為苗小龍，註冊資本3億人民幣，經營範圍包括委託生產及銷售汽車零部件、配件，貨物進出口，銷售汽車等，由張秀根、苗小龍共同持股。風險資訊顯示，該公司現存多條被執行人、限制消費令、失信被執行人（老賴）及終本案件資訊。"
+    },
+    {
+      "id": "mkt:019f6447-0d51-7aab-8d95-0c681f278039",
+      "time": "2026-07-15 13:36:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact mixed",
+        "XAUUSD"
+      ],
+      "text": "【US June CPI below expectations; Treasury yields rebound in Asian session】US Treasury yields rose in Wednesday Asian trading but remained below Tuesday's intraday highs after June CPI printed below market expectations, which had pushed yields down at Tuesday's close. Jamie Cox, managing partner at Harris Financial Group, said the report did not show runaway inflation and that the recent inflation uptick reflected mainly higher energy prices, an effect likely to be transient. Renewed escalation in US-Iran tensions remains a key source of market uncertainty."
+    },
+    {
+      "id": "4989165",
+      "time": "2026-07-15 13:36:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量718億元。"
+    },
+    {
+      "id": "4989164",
+      "time": "2026-07-15 13:36:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度6月國內乘用車總銷量為388,144輛。"
+    },
+    {
+      "id": "mkt:019f6445-ab94-7aab-8d95-070f9a5f1648",
+      "time": "2026-07-15 13:35:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan Taiex closed up 893.64 points, +2.0%, at 45,631.59 on Wednesday, July 15."
+    },
+    {
+      "id": "4989163",
+      "time": "2026-07-15 13:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高2%報45,631.59。"
+    },
+    {
+      "id": "mkt:019f6444-c311-7aab-8d94-fcd5435dd193",
+      "time": "2026-07-15 13:34:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Singapore June new-home sales slump as developers pause launches】Singapore new private-home sales fell to 156 units in June after developers largely halted new project launches during the school holidays, the Urban Redevelopment Authority said Wednesday. That compares with 447 units in May and 272 a year earlier, and was the weakest monthly tally since February 2024. Sales depend heavily on developers' launch schedules; with developers planning to resume launches this month, new-home sales may rebound."
+    },
+    {
+      "id": "4989162",
+      "time": "2026-07-15 13:32:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "三大指數拉昇翻紅，科創50指數跌幅收窄至2.4%。"
+    },
+    {
+      "id": "mkt:019f6443-3ae2-7aab-8d94-f7e43add9e0c",
+      "time": "2026-07-15 13:32:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【RBC: Economic improvement supports wait-and-see stance; BoC likely to hold rates for sixth straight meeting】RBC expects the Bank of Canada to keep the overnight rate at 2.25% on Wednesday, marking a sixth consecutive hold after 50bp of cuts in Sept–Oct last year. RBC says the recent oil-price spike has not shown signs of evolving into a broader, persistent inflation shock, while Canadian growth and the labour market have improved: Q1 GDP was weaker than expected but Q2 momentum strengthened, May–June jobs data point to stabilization, and consumer spending remains resilient. On this basis RBC expects per-capita growth to gradually improve and the BoC to keep rates unchanged throughout 2026."
+    },
+    {
+      "id": "mkt:019f6443-01e5-7aab-8d94-ee9ffebfdce3",
+      "time": "2026-07-15 13:32:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "China's three major A-share indexes rose into positive territory; Sci‑Tech Innovation Board 50 (STAR 50) index's decline narrowed to 2.4%."
+    },
+    {
+      "id": "4989161",
+      "time": "2026-07-15 13:32:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫能科投資成立元極智數科技公司 含AI業務】企查查APP顯示，近日，協鑫元極智數（無錫）科技有限公司成立，註冊資本5億元，經營範圍包含：人工智慧公共資料平臺；工業網際網路資料服務；人工智慧基礎軟體開發；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由協鑫能科全資子公司蘇州協鑫鑫元科技有限公司等共同持股。"
+    },
+    {
+      "id": "4989160",
+      "time": "2026-07-15 13:32:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達100億港元。"
+    },
+    {
+      "id": "te:markets:567062",
+      "time": "2026-07-15 13:32:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Slips as Rising Oil Prices Raise Import Bill Concerns — The Indonesian rupiah dipped to around IDR 18,080 per U.S. dollar on Wednesday after briefly firming below IDR 18,000 in the prior session. The decline came as persistent gains in crude oil prices renewed pressure on the rupiah by heightening concerns over Indonesia's energy import bill as a net oil importer. Traders also turned cautious ahead of Bank Indonesia's policy meeting next week after policymakers raised rates by a total of 100 bps between May and June to defend the currency. The central bank is expected to remain vigilant as forex reserves stayed near a two-year low despite a slight gain in June. At the same time, concerns over weaker domestic activity in Q2 mounted amid sluggish manufacturing and slower consumer spending after higher non-subsidized fuel prices. Still, losses were capped as the dollar index eased further after softer U.S. inflation data reduced bets of a near-term Fed rate hike. Additional support came after S&P affirmed Indonesia's investment-grade rating."
+    },
+    {
+      "id": "4989159",
+      "time": "2026-07-15 13:32:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國稀土集團等在廣西投資成立新公司 經營範圍包括稀有稀土金屬冶煉等】企查查顯示，近日，中稀域瀟（廣西）稀土有限公司成立，註冊資本8億元，經營範圍包括稀有稀土金屬冶煉、稀土功能材料銷售、有色金屬合金製造等。企查查股權穿透顯示，該公司由中國稀土集團有限公司全資子公司中國稀土集團產業發展有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019f6442-a14f-7aab-8d94-e11b212d4fa8",
+      "time": "2026-07-15 13:31:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Ukraine's drone force commander said drones struck 20 Russian vessels in the Black Sea last night, including 17 oil tankers."
+    },
+    {
+      "id": "4989157",
+      "time": "2026-07-15 13:31:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歷峰集團：在中東和非洲恢復增長。"
+    },
+    {
+      "id": "4989156",
+      "time": "2026-07-15 13:31:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受人工智慧晶片需求推動 阿斯麥第二季度業績超出預期 公司因需求持續旺盛再次上調業績指引】全球最大的計算機晶片製造裝置供應商阿斯麥週三公佈了第二季度營收和利潤資料，表現優於預期，這得益於人工智慧晶片製造商的需求。截至6月30日的三個月內，該公司營收為93.3億歐元(109.0億美元)，而根據LSEG中位數預估，分析師此前預期為88.0億歐元。根據LSEG資料，淨利潤為29.2億歐元，高於預期的26.2億歐元。“我們的客戶(...) 繼續加快產能擴張計劃，這使阿斯麥能夠更清晰地預見長期需求，”執行長克里斯托夫·福凱（Christophe Fouquet）在宣告中表示。這家荷蘭公司是極紫外光刻技術 (EUV) 的唯一製造商，該技術是製造尖端晶片所必需的。包括臺積電、三星、SK海力士和美光在內的客戶正競相擴產，以滿足與人工智慧相關的需求。此外阿斯麥執行長克里斯托夫·福凱（Christophe Fouquet）宣佈，英特爾將使用ASML的新型高數值孔徑（High-NA）裝置生產其部分最先進的“Panther Lake”晶片，這標誌著該技術首次投入實際應用。阿斯麥今年第二次上調年度業績預期，這表明隨著人工智慧基礎設施建設的競賽將晶片變為熱門商品，各公司正爭相搶購其半導體制造裝置。這家荷蘭集團供應週三表示，預計年度銷售額在 430 億至 450 億歐元之間（約合 491.1 億至 513.9 億美元），而此前預期為 360 億至 400 億歐元。與此同時，其毛利率——衡量定價能力和盈利能力的核心指標——預計將從之前的 51%至 53%提升至 54%至 56%。執行長表示：\"與人工智慧相關的持續投資以及 AI 技術的不斷進步，正在推動對先進邏輯晶片和儲存晶片的需求，進一步強化了半導體行業的增長前景。\""
+    },
+    {
+      "id": "4989155",
+      "time": "2026-07-15 13:31:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "歷峰集團第一財季銷售額按固定匯率計算增長20%，預估為11.2%。"
+    },
+    {
+      "id": "mkt:019f6441-79a4-7aab-8d94-d9b1e6de054f",
+      "time": "2026-07-15 13:30:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "【Rhine low water threatens Germany manufacturing recovery, drought raises transport costs】Drought-driven low water on the Rhine has forced barges to reduce cargo loads, raising freight costs and threatening supply chains for German manufacturers reliant on river shipments of coal, crude and chemicals, German inland waterways association (BDB) deputy director Fabian Spiess said. The Kiel Institute estimates the multi-month low-water episode in 2018 cut German economic output by about 0.4%. Deutsche Bank economist Marc Schattenberg said the situation is aggravated this year by the closure of a key rail freight line on the Rhine's right bank for construction, limiting rail substitution capacity. Low Rhine levels could also add to inflationary pressure; ECB board member SCHNABEL has flagged river water levels as a possible factor keeping inflation elevated as the ECB weighs further tightening."
+    },
+    {
+      "id": "4989154",
+      "time": "2026-07-15 13:30:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4028.98美元/盎司。"
+    },
+    {
+      "id": "4989153",
+      "time": "2026-07-15 13:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報58.51美元/盎司。"
+    },
+    {
+      "id": "4989152",
+      "time": "2026-07-15 13:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4030美元/盎司，日內跌0.98%。"
+    },
+    {
+      "id": "mkt:019f6440-9058-7aab-8d94-d06cc0219e7b",
+      "time": "2026-07-15 13:29:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Inner Mongolia UHV outbound transmission exceeds 114.6 bln kWh YTD】State Grid Mengdong Power said year-to-date ultra-high-voltage (UHV) outbound transmission from Inner Mongolia reached 114.6 billion kWh as of 24:00 on July 12, surpassing the 100 billion kWh mark."
+    },
+    {
+      "id": "4989151",
+      "time": "2026-07-15 13:29:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【內蒙古今年特高壓外送電量破千億千瓦時】據國網蒙東電力訊息，截至7月12日24時，內蒙古年度特高壓外送電量達1146億千瓦時，突破千億關口。"
+    },
+    {
+      "id": "4989150",
+      "time": "2026-07-15 13:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本石油協會：日本正在審查參與繞過霍爾木茲海峽的管道擴建計劃。"
+    },
+    {
+      "id": "4989149",
+      "time": "2026-07-15 13:27:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱在黑海襲擊了油輪和天然氣運輸船。"
+    },
+    {
+      "id": "4989148",
+      "time": "2026-07-15 13:26:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報道稱蘋果已把今年摺疊屏新機產量目標上調到約1000萬臺】根據媒體從供應鏈拿到的訊息，蘋果已經把摺疊屏新機今年的生產準備目標上調到了約1000萬臺，比之前市場普遍預期的700萬到800萬臺高出不少。 (21財經)"
+    },
+    {
+      "id": "4989147",
+      "time": "2026-07-15 13:25:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭方面稱，夜間在黑海襲擊了20艘俄羅斯油輪和天然氣運輸船。"
+    },
+    {
+      "id": "mkt:019f6439-b165-7aab-8d94-cc367fc9cfb0",
+      "time": "2026-07-15 13:22:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "0694.HK",
+        "Impact bullish"
+      ],
+      "text": "【Beijing Capital International Airport summer passenger throughput to exceed 12 mln; peak expected early August】Since the start of the summer travel season Beijing Capital International Airport’s passenger throughput is up over 5% YoY, with international and regional traffic up more than 10% YoY. The airport expects to handle over 73,000 flights and more than 12 million passengers during the summer period, with a peak in early August and peak-day traffic likely to exceed 230,000 passengers. Routes to Moscow, Paris, Dubai, Rome and Stockholm have seen rapid growth. The airport expects cumulative annual international and regional passenger throughput to top 10 million on July 18, 19 days earlier than last year."
+    },
+    {
+      "id": "mkt:019f6439-29f9-7aab-8d94-c6dbb07733d8",
+      "time": "2026-07-15 13:21:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "PAJ president said Japan will study how it can participate in plans by Middle Eastern oil producers to boost exports via routes that bypass the Strait of Hormuz, including expanding pipeline throughput."
+    },
+    {
+      "id": "4989146",
+      "time": "2026-07-15 13:21:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南京3宗宅地41.34億元成交】7月15日，南京3宗宅地出讓，總土地出讓面積118981.96平方米，總規劃建築面積203278.11平方米，總起始價39.36億元。最終，建鄴區宅地由招商蛇口和南京交通集團聯合體以總價29.98億元競得，成交樓面價34415元/平方米，溢價率7.07%；另2宗江北新區宅地均底價成交。三宗地總成交金額41.34億元。"
+    },
+    {
+      "id": "4989145",
+      "time": "2026-07-15 13:21:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿斯麥：英特爾實現High NA EUV高數值孔徑光刻量產應用】7月15日，阿斯麥宣佈，英特爾代工已在Intel 18A工藝節點上，利用阿斯麥高數值孔徑極紫外（High NA EUV）光刻技術量產部分Intel Core Ultra Series 3（代號Panther Lake）處理器，成為全球首家實現High NA EUV邏輯晶片高產量出貨的企業。雙方表示，Intel 18A部分工藝層已完成High NA EUV雙重認證，產品良率已達到現有NXE EUV平臺水平，並將繼續推進該技術在未來製程節點的應用。"
+    },
+    {
+      "id": "4989144",
+      "time": "2026-07-15 13:20:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩抵達基輔進行訪問。她表示，將推出新舉措，深化歐洲與烏克蘭國防工業的一體化整合。"
+    },
+    {
+      "id": "mkt:019f6437-5e47-7aab-8d94-bcf6a0f46a61",
+      "time": "2026-07-15 13:19:37",
+      "tags": [
+        "MKT News",
+        "DAX",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "European Commission President VON DER LEYEN said she will announce measures to deepen integration of European and Ukrainian defense industries."
+    },
+    {
+      "id": "mkt:019f6437-45a7-7aab-8d94-b06b6f22ae50",
+      "time": "2026-07-15 13:19:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission President Ursula von der Leyen arrived in Kyiv for a visit."
+    },
     {
       "id": "mkt:019f6435-c9f3-7aab-8d94-afea684a2931",
       "time": "2026-07-15 13:17:54",
@@ -9,6 +1166,14 @@
         "MKT News"
       ],
       "text": "The Information reports DeepSeek is seeking a new funding round targeting $7.4 billion at a $74 billion valuation."
+    },
+    {
+      "id": "4989143",
+      "time": "2026-07-15 13:17:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Deeplore完成數千萬元種子輪融資】Deeplore近日完成數千萬元種子輪融資，由五源資本、順為資本聯合投資。資金將核心用於研發團隊擴建與水下AI技術深耕，加速首款AI潛水面鏡落地迭代，搭建水下自然探索智慧平臺的技術底座。"
     },
     {
       "id": "mkt:019f6435-6983-7aab-8d94-a3f01626673a",
