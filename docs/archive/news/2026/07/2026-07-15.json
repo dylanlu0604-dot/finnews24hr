@@ -1,7 +1,381 @@
 {
   "date": "2026-07-15",
-  "count": 2786,
+  "count": 2828,
   "items": [
+    {
+      "id": "mkt:019f65ac-fd98-7aab-8da0-a0b7870bde9a",
+      "time": "2026-07-15 20:07:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Executives from SpaceX, Boeing and Lockheed Martin will attend a White House event today."
+    },
+    {
+      "id": "mkt:019f65ac-8ecc-7aab-8da0-9ad82b19c1ab",
+      "time": "2026-07-15 20:07:15",
+      "tags": [
+        "MKT News",
+        "ORCL.O",
+        "Impact bullish",
+        "NTAP.O"
+      ],
+      "text": "NetApp and Oracle will launch a fully managed cloud storage service targeting demanding AI and enterprise workloads."
+    },
+    {
+      "id": "4989967",
+      "time": "2026-07-15 20:07:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國衛星：公司目前生產經營活動一切正常，未發生重大變化】中國衛星股票交易異常波動公告，經自查，公司目前生產經營活動一切正常，未發生重大變化，市場環境、行業政策未發生重大調整。"
+    },
+    {
+      "id": "4989966",
+      "time": "2026-07-15 20:06:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "NETAPP：公司與甲骨文將推出全託管雲端儲存服務，滿足嚴苛的人工智慧及企業工作負載需求。"
+    },
+    {
+      "id": "te:markets:567213",
+      "time": "2026-07-15 20:06:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Strengthens on Rate Hike Bets — The pound held firm above $1.34, trading at its highest since mid-June, and near a one-year peak against the euro. The currency’s resilience stems from expectations of higher UK interest rates and reduced domestic political uncertainty, while investors also anticipate closer UK-EU ties ahead of next week’s summit. Rising Middle East tensions have pushed oil prices to one-month highs, reinforcing bets on Bank of England rate hikes. Markets now fully price in a November increase, with a second expected by March 2027. Political focus shifts to Andy Burnham’s likely appointment as prime minister on July 20. Investors are watching his choice for finance minister, with Foreign Secretary Yvette Cooper now favored over Ed Miliband, who is seen as more fiscally expansionary."
+    },
+    {
+      "id": "4989965",
+      "time": "2026-07-15 20:06:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "巴菲特表示，凱文·沃什是出任美聯儲主席的“合適人選”。"
+    },
+    {
+      "id": "4989964",
+      "time": "2026-07-15 20:06:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭代國防部長表示，烏克蘭已與歐盟簽署了兩項協議，旨在讓烏克蘭企業參與歐盟的防務專案，並獲得一筆3億歐元的新撥款。他指出，這筆資金中的2.6億歐元將用於提升烏克蘭的國防生產能力。"
+    },
+    {
+      "id": "mkt:019f65ab-3cc3-7aab-8da0-97ebb40fb137",
+      "time": "2026-07-15 20:05:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Buffett said Woshi would be a good candidate to serve as Fed chair."
+    },
+    {
+      "id": "4989963",
+      "time": "2026-07-15 20:05:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【每日互動：向特定物件發行股票申請獲深交所稽核透過】每日互動公告稱，公司於2026年7月15日收到深交所出具的稽核中心意見告知函，深交所認為公司向特定物件發行股票的申請符合發行、上市及資訊披露要求，後續將報中國證監會履行註冊程式。本次發行尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性。"
+    },
+    {
+      "id": "4989962",
+      "time": "2026-07-15 20:03:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國 SPACEX、波音、洛克希德·馬丁等公司高管將出席今日白宮活動。"
+    },
+    {
+      "id": "4989961",
+      "time": "2026-07-15 20:02:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "波羅的海乾散貨運價指數下跌1.71%，報2929點。"
+    },
+    {
+      "id": "mkt:019f65a7-b9c2-7aab-8da0-8ccad6b0e8d7",
+      "time": "2026-07-15 20:01:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Baltic Dry Index (BDI) fell 1.71% to 2,929 points."
+    },
+    {
+      "id": "4989960",
+      "time": "2026-07-15 20:01:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賢豐控股：擬設立合資公司，註冊資本1.18億元】賢豐控股公告，公司全資子公司賢豐電子科技（東莞）有限公司與廣東盈碩電子有限公司簽署合資協議，擬共同出資設立賢豐盈碩科技有限公司，註冊資本1.18億元。其中賢豐東莞以貨幣出資6018萬元持股51%，廣東盈碩以貨幣及實物出資5782萬元持股49%。合資公司主要業務為消費領域PCB的研發、生產和銷售。該事項已獲公司第八屆董事會第二十八次會議審議透過，無需提交股東會審議。"
+    },
+    {
+      "id": "mkt:019f65a7-581d-7aab-8da0-84a7f03b1eaf",
+      "time": "2026-07-15 20:01:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. President Trump said an Israeli withdrawal of troops from parts of Lebanon would be a good thing."
+    },
+    {
+      "id": "mkt:019f65a6-f1ed-7aab-8da0-7c79ed095614",
+      "time": "2026-07-15 20:01:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.04% to 877.6 yuan/gram in early trade of the July 15 (Wednesday) evening session; Silver T+D rose 0.79% to 14,172 yuan/kg."
+    },
+    {
+      "id": "4989959",
+      "time": "2026-07-15 20:00:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新天科技：完成工商變更登記並取得新營業執照】新天科技公告稱，公司2026年3月25日董事會及4月21日股東會，分別審議透過登出部分回購股份、減少註冊資本及變更註冊資本、註冊地址等議案。近日，公司已完成工商變更登記並領取新《營業執照》，變更後註冊資本為11.55105035億元，住所為鄭州高新技術產業開發區青梅街50號。"
+    },
+    {
+      "id": "mkt:019f65a5-2d85-7aab-8da0-77de465a387e",
+      "time": "2026-07-15 19:59:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "Copper"
+      ],
+      "text": "MERZ says U.S. tariffs have severely harmed Germany's economy."
+    },
+    {
+      "id": "te:economy:567210",
+      "time": "2026-07-15 19:58:50",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK 10-Year Gilt Yield Near Two-Month High on Rate Hike Bets — The UK 10-year gilt yield edged up to 5%, hovering just below the nearly two-month high reached on Tuesday, as rising oil prices fueled inflation concerns and reinforced expectations of further monetary tightening by the Bank of England. Brent crude climbed to a one-month high amid escalating tensions in the Middle East, with the US blockade of Iranian shipping through the Strait of Hormuz and continued strikes against Iran raising concerns over the stability of global energy supplies. Money markets are now fully pricing in a Bank of England interest rate hike by November, with a second increase expected by March 2027. Investors are also closely monitoring developments in UK politics ahead of Andy Burnham's expected appointment as prime minister on July 20. Attention has turned to his choice of finance minister, with betting markets now favoring Foreign Secretary Yvette Cooper over Ed Miliband, who is widely viewed as supporting a more expansionary fiscal stance."
+    },
+    {
+      "id": "4989958",
+      "time": "2026-07-15 19:58:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：美國關稅嚴重損害了德國經濟。"
+    },
+    {
+      "id": "4989957",
+      "time": "2026-07-15 19:58:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：我們將邀請第三方稽核人員檢驗目前執行的系統，以確認當前執行的程式碼確實為公開原始碼。"
+    },
+    {
+      "id": "mkt:019f65a4-41b2-7aab-8da0-6b4432d15bf0",
+      "time": "2026-07-15 19:58:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said he will invite independent third-party auditors to inspect the live system to confirm it is running open-source code."
+    },
+    {
+      "id": "mkt:019f65a3-f03e-7aab-8da0-616146031dd1",
+      "time": "2026-07-15 19:57:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said once X completes a review of security vulnerabilities it will open-source the platform's entire codebase."
+    },
+    {
+      "id": "4989956",
+      "time": "2026-07-15 19:57:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：一旦我們完成安全漏洞審查，我們就會把X的全部程式碼庫開源。（注：此前grok深陷“偷竊程式碼醜聞”，7月13日，這款隸屬於SpaceXAI的程式碼助手被證實存在嚴重資料洩露風險——在使用者明確禁止訪問檔案的情況下，仍偷偷將整個程式碼倉庫上傳至第三方伺服器。事件曝光後，馬斯克親自下令徹底清除所有歷史使用者資料，並承諾永久關閉資料收集功能。  ）"
+    },
+    {
+      "id": "4989955",
+      "time": "2026-07-15 19:57:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "貝萊德執行長芬克就特朗普賬戶專案表態：預計今年晚些時候將推出兩隻安碩ETF作為投資選項。"
+    },
+    {
+      "id": "4989954",
+      "time": "2026-07-15 19:56:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列最高法院叫停一項保護哈雷迪派逃避兵役者的法律。"
+    },
+    {
+      "id": "4989953",
+      "time": "2026-07-15 19:55:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【惠科股份：股票交易異常波動 正籌劃設立全資子公司】惠科股份公告稱，公司股票於2026年7月14 - 15日連續兩個交易日收盤價格跌幅偏離值累計超20%，屬異常波動。公司正籌劃設立全資子公司，預計不構成關聯交易和重大資產重組，尚處籌劃階段。此外，2026年1 - 6月，公司預計營收200.00 - 220.00億元，同比增5.28% - 15.81%；預計歸母淨利潤18.50 - 20.50億元，同比降14.42% - 5.17%；預計扣非歸母淨利潤15.00 - 16.50億元，同比變動 - 4.93% - 4.58%。"
+    },
+    {
+      "id": "mkt:019f65a0-8342-7aab-8da0-5db8a8ab1576",
+      "time": "2026-07-15 19:54:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign minister has arrived in Qatar."
+    },
+    {
+      "id": "4989952",
+      "time": "2026-07-15 19:53:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱伊朗襲擊霍爾木茲海峽航運的能力進一步下降。"
+    },
+    {
+      "id": "4989951",
+      "time": "2026-07-15 19:53:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優彩環保：擬變更15000股回購股份用途並登出】優彩環保公告稱，公司擬將存放於回購專用證券賬戶中的15,000股回購股份的用途由“用於員工股權激勵或員工持股計劃”變更為“用於登出並減少公司註冊資本”。2023年公司透過集中競價交易方式累計回購股份2,409,900股，成交總金額為2029.32萬元。本次變更事項尚需提交公司股東會審議，按規定辦理股份登出、工商變更登記等相關手續。變更符合規定，不會對公司產生重大影響，不會導致控制權變化及改變上市地位。"
+    },
+    {
+      "id": "4989950",
+      "time": "2026-07-15 19:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗外長已經到達卡達。"
+    },
+    {
+      "id": "4989949",
+      "time": "2026-07-15 19:53:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優彩資源：第四屆董事會十二次會議透過多項議案】優彩資源公告稱，公司第四屆董事會第十二次會議於2026年7月15日召開，審議透過多項議案。包括《關於公司2026年半年度報告的議案》等，其中《關於修訂<董事和高階管理人員薪酬管理制度>的議案》《關於變更回購股份用途並登出的議案》等6項議案需提交公司2026年第一次臨時股東會審議。具體內容將於2026年7月16日在巨潮資訊網披露。"
+    },
+    {
+      "id": "4989948",
+      "time": "2026-07-15 19:53:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【藥易購：股票交易異常波動 業績下滑盈利存不確定性】藥易購公告稱，公司股票於2026年7月13 - 15日連續3個交易日內收盤價格漲幅偏離值累計超30%，屬異常波動。2025年度營收44.54億元，同比增長1.35%，淨虧損1285.15萬元，同比下降197.36%；2026年一季度營收11.14億元，同比下降2.08%，淨虧損272.02萬元，同比下降165.02%。受政策等因素影響，業績下滑，盈利存不確定性。公司正推進會計差錯更正後財務資訊披露，提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4989947",
+      "time": "2026-07-15 19:53:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【財通福鑫定開混合(501046)7月16日開盤起至當日10:30停牌】財通福鑫定開混合(501046)二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，基金將於2026年7月16日開盤起至當日10:30停牌。若基金在2026年7月16日當日二級市場交易價格溢價幅度未有效回落，基金有權採取向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施以向市場警示風險，具體以屆時公告為準。"
+    },
+    {
+      "id": "4989946",
+      "time": "2026-07-15 19:52:12",
+      "tags": [
+        "市場",
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【7月15日《新聞聯播》主要內容】今天《新聞聯播》主要內容有： 1.習近平在上海考察時強調 全面踐行人民城市理念 高質量推進城市更新； 2.韓正會見紐西蘭前總理； 3.上半年GDP同比增長4.7% 中國經濟持續向新向優； 4.上半年金融總量合理增長 信貸結構持續最佳化； 5.東北地區全力開展防汛搶險排澇工作； 6.【樹立和踐行正確政績觀】辦好群眾身邊事 學習教育見實效； 7.我國持續推進農村公路提質升級； 8.【文化中國行】呵護古城肌理 賡續千年姑蘇繁華； 9.國內聯播快訊： （1）“十五五”時期支援建設200個左右“無廢城市”； （2）前六個月全社會用電量同比增長5.3%； （3）6月份一線城市商品住宅銷售價格環比上漲； （4）《人工智慧擬人化互動服務管理暫行辦法》今起施行； （5）長三角一體化示範區建設三年行動計劃釋出； （6）《市場監督管理嚴重違法失信名單管理辦法》今起施行； （7）我國派專家組加入埃博拉“突發事件管理支援小組”支援非洲疫情防控； 10.2026上合組織國家文明對話在比什凱克舉行； 11.美國稱對伊朗實施打擊並恢復海上封鎖 伊朗稱打擊地區內美軍基地 美媒稱白宮討論對伊大規模進攻計劃 伊朗稱美已違反諒解備忘錄所有條款； 12.國際聯播快訊： （1）黎巴嫩與以色列舉行新一輪會談； （2）歐盟上半年從俄進口液化天然氣創紀錄； （3）美聯儲主席：高通脹已成為過度負擔； （4）巴黎近郊大火 6人涉嫌引發火情被捕； （5）英將對16至17歲青少年實施社媒“宵禁”。 （《新聞聯播》 20260715 19:00）"
+    },
+    {
+      "id": "mkt:019f659e-611a-7aab-8da0-528c7b578b10",
+      "time": "2026-07-15 19:51:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "MS.O",
+        "Impact bullish",
+        "GS.O",
+        "S&P500"
+      ],
+      "text": "【Morgan Stanley joins Wall Street equities trading rally; trading revenue hits record】Morgan Stanley said Q2 2026 equities trading revenue rose to $6.3bn, up 69% YoY, a quarterly record driven by stronger market activity and sustained volatility. Wealth management net new assets were $148.1bn, well above analyst expectations. Equity underwriting fees from the record SpaceX IPO, which Morgan Stanley co-led with Goldman Sachs, reached $851m, up 70% YoY, lifting total investment banking fees to $2.44bn. Peer banks JPMorgan, Goldman Sachs, BofA and Citigroup also reported stronger-than-expected equities trading results and, in several cases, record quarterly highs."
+    },
+    {
+      "id": "4989945",
+      "time": "2026-07-15 19:51:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：打擊目標為大通布島上的海岸防禦系統以及巡航導彈儲存與發射陣地。"
+    },
+    {
+      "id": "mkt:019f659d-26bc-7aab-8da0-4c20709db57e",
+      "time": "2026-07-15 19:50:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said it completed strikes against Iran at 7:30 a.m. ET on July 15 (7:30 p.m. Beijing time)."
+    },
+    {
+      "id": "4989944",
+      "time": "2026-07-15 19:50:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：超過三分之一的德國人認為，未來五年內德國可能直接捲入戰爭。"
+    },
+    {
+      "id": "4989943",
+      "time": "2026-07-15 19:49:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部在一份宣告中表示，已完成新一輪針對伊朗的打擊行動。"
+    },
+    {
+      "id": "4989942",
+      "time": "2026-07-15 19:49:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：對德國選擇黨選民的訊息是，看看德國政府在做什麼，不要相信社交媒體。"
+    },
+    {
+      "id": "4989941",
+      "time": "2026-07-15 19:49:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【面壁智慧端側大模型將搭載三星手機上市】端側大模型公司面壁智慧已與三星手機達成合作，其自主研發的MiniCPM系列端側模型將搭載於三星手機上市，覆蓋數款旗艦機型。（36氪）"
+    },
+    {
+      "id": "4989940",
+      "time": "2026-07-15 19:49:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【力盛體育：董事長夏青提議以2000萬元-4000萬元回購公司股份】力盛體育公告，公司控股股東及實際控制人、董事長夏青於2026年7月13日提議以2000萬元-4000萬元回購公司股份，回購價格上限不高於公司董事會審議透過回購方案決議前30個交易日公司股票交易均價的 150%。"
+    },
     {
       "id": "4989939",
       "time": "2026-07-15 19:48:54",
