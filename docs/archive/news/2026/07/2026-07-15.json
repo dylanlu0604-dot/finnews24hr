@@ -1,7 +1,274 @@
 {
   "date": "2026-07-15",
-  "count": 3622,
+  "count": 3649,
   "items": [
+    {
+      "id": "mkt:019f665a-5a80-7aab-8daa-17e0a4688fca",
+      "time": "2026-07-15 23:17:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fed Chair Kevin Warsh said he does not believe the Fed can do much about milk and beef prices."
+    },
+    {
+      "id": "mkt:019f665a-1ce1-7aab-8daa-08402df93595",
+      "time": "2026-07-15 23:16:49",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve chairman Kevin Warsh said the labor market looks fairly strong, but the outlook for inf is less optimistic."
+    },
+    {
+      "id": "mkt:019f6659-ea15-7aab-8daa-069bab1f8389",
+      "time": "2026-07-15 23:16:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Chair KEVIN WARSH said the labor market has undergone many structural changes."
+    },
+    {
+      "id": "4990427",
+      "time": "2026-07-15 23:16:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體15日報道，伊朗南部亨加姆島遭美軍炮彈擊中。（新華社）"
+    },
+    {
+      "id": "4990426",
+      "time": "2026-07-15 23:16:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 通脹這一政策目標方面的情況則不容樂觀。"
+    },
+    {
+      "id": "mkt:019f6659-7a2e-7aab-8da9-fd421cf0cff9",
+      "time": "2026-07-15 23:16:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell $20 intraday and is now quoted at $4,044/oz."
+    },
+    {
+      "id": "4990425",
+      "time": "2026-07-15 23:15:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：總體而言，政策目標中就業市場相關指標表現相當向好。"
+    },
+    {
+      "id": "4990424",
+      "time": "2026-07-15 23:15:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什：勞動力市場看起來總體上處於平衡狀態， 我的觀點是，經濟增速不存在上限。"
+    },
+    {
+      "id": "te:markets:567274",
+      "time": "2026-07-15 23:15:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Rises on Fiscal Optimism and BoE Rate Hike Bets — The pound climbed to $1.348, its highest level since late May, and reached its strongest level against the euro in more than a year, driven by expectations that Andy Burnham, widely expected to be confirmed as the UK's next prime minister on Monday, will appoint a fiscally conservative finance minister. With Burnham's confirmation largely anticipated, investor attention has shifted to his choice for the Treasury, particularly given the UK's fragile public finances. Reports suggesting that Home Secretary Shabana Mahmood is the leading candidate to head the finance ministry helped reassure markets, easing concerns that Burnham could instead appoint Ed Miliband, who is viewed as favoring a more expansionary fiscal stance. Meanwhile, rising Middle East tensions have lifted oil prices to one-month highs, reinforcing expectations of further Bank of England rate hikes. Markets now fully price in a November increase, with another expected by March 2027."
+    },
+    {
+      "id": "mkt:019f6658-ffc3-7aab-8da9-f178b6ef6004",
+      "time": "2026-07-15 23:15:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "KEVIN WARSH: U.S. labor market appears broadly in balance."
+    },
+    {
+      "id": "mkt:019f6658-a5c2-7aab-8da9-efec1a412b6e",
+      "time": "2026-07-15 23:15:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "SHFE tin main contract fell more than 2.0% intraday to 408,430 yuan/ton. SHFE silver main contract was down 2.0% intraday at 14,102 yuan/kg."
+    },
+    {
+      "id": "mkt:019f6658-a3c4-7aab-8da9-e6b598e226b5",
+      "time": "2026-07-15 23:15:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Kevin Warsh, Federal Reserve chairman, said he believes there is no ceiling to the pace of economic growth."
+    },
+    {
+      "id": "4990423",
+      "time": "2026-07-15 23:15:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我給各專項工作組六個月時間完成報告。"
+    },
+    {
+      "id": "te:markets:567273",
+      "time": "2026-07-15 23:15:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Cisco Systems Stock Price Hits 9-week Low — Cisco Systems shares decreased to 111.29 USD, the lowest since May 2026. Over the past 4 weeks, Cisco Systems lost 6.85%, and in the last 12 months, it increased 65.33%."
+    },
+    {
+      "id": "4990422",
+      "time": "2026-07-15 23:14:49",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "加拿大央行行長麥克勒姆： 美國經濟表現強勁，該國對加拿大出口商品存在需求。"
+    },
+    {
+      "id": "4990421",
+      "time": "2026-07-15 23:14:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報57.92美元/盎司。"
+    },
+    {
+      "id": "te:economy:567272",
+      "time": "2026-07-15 23:14:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Inflation Rate",
+        "Importance 0"
+      ],
+      "text": "Nigeria Inflation Rate Almost Steady in June — The annual inflation rate in Nigeria was little changed at 15.91% in June 2026, compared to May's 15.93%, helped by the relative stability of the naira, despite strong inflationary pressures linked to the Middle East conflict. Food inflation, the largest component of the inflation basket, quickened for the fifth month to 17.52% from 16.96% in May. Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, eased to 15.92% from a four-month high of 16.82% in May. On a monthly basis, the CPI rose by 1.66% in June, the least in five months, after a 1.75% advance in May."
+    },
+    {
+      "id": "4990420",
+      "time": "2026-07-15 23:14:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守58美元/盎司，日內跌1.87%。"
+    },
+    {
+      "id": "mkt:019f6657-a958-7aab-8da9-dde9d90a3b00",
+      "time": "2026-07-15 23:14:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed chair Kevin Warsh said he is not satisfied with any inf metric."
+    },
+    {
+      "id": "4990419",
+      "time": "2026-07-15 23:13:21",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 現行各類通脹衡量指標均無法令我滿意。"
+    },
+    {
+      "id": "4990418",
+      "time": "2026-07-15 23:13:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 特別工作組的審議過程將對外公開。"
+    },
+    {
+      "id": "mkt:019f6656-88de-7aab-8da9-d6da25c0360a",
+      "time": "2026-07-15 23:12:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Federal Reserve Chairman Kevin Warsh said he expects a task-force briefing in early September."
+    },
+    {
+      "id": "4990417",
+      "time": "2026-07-15 23:12:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 預計最早 9 月就能收到特別工作組的簡報。"
+    },
+    {
+      "id": "mkt:019f6656-08ce-7aab-8da9-cbde94f314fc",
+      "time": "2026-07-15 23:12:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Iran's Mehr news agency, U.S. shells struck a location on Iran's Hengam Island."
+    },
+    {
+      "id": "4990416",
+      "time": "2026-07-15 23:12:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "邁赫爾通訊社訊息：伊朗稱美軍襲擊了霍爾木茲海峽附近的亨格姆島。"
+    },
+    {
+      "id": "4990415",
+      "time": "2026-07-15 23:11:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什： 我們將審視資產負債表與利率兩類政策工具，研判是否需要調整以應對通脹問題。通脹不會是永久性的。"
+    },
     {
       "id": "mkt:019f6655-76df-7aab-8da9-c559c6af7dd8",
       "time": "2026-07-15 23:11:44",
@@ -78,6 +345,15 @@
         "Impact bearish"
       ],
       "text": "Fed chairman Kevin Warsh said previous monetary policy caused inflation."
+    },
+    {
+      "id": "em:qqyh_mlc:202607153807838595",
+      "time": "2026-07-15 23:10:58",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲主席沃什表示 特朗普沒有試圖影響美聯儲政策】美聯儲主席沃什表示，特朗普沒有試圖影響美聯儲政策。如果特朗普試圖影響政策，他自己會保持低調。"
     },
     {
       "id": "4990412",
