@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-16 06:56:06",
-  "count": 18604,
+  "updated": "2026-07-16 06:59:57",
+  "count": 18602,
   "items": [
+    {
+      "id": "mkt:019f6800-dd1e-7aab-8db1-6d58033512d7",
+      "time": "2026-07-16 06:58:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "President Trump said Iran permitted a U.S. citizen who was wrongfully detained in December 2024 during the Biden administration to leave. She has safely departed Iran and is in good health. The U.S. praised Iran’s gesture of goodwill."
+    },
+    {
+      "id": "te:markets:567323",
+      "time": "2026-07-16 06:57:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks Trade Slightly Lower — The NZX 50 dropped 19 points, or 0.1%, to 13,616 in Thursday morning deals, retreating for the fourth consecutive session, mainly weighed down by losses in technology, financials, consumer staples, and utilities. Traders were cautious ahead of the release of June food inflation data due on Friday after the figures accelerated in May. Investors also continued to monitor developments in the Middle East conflict, amid rising oil prices, as inflation concerns fueled expectations of further interest rate hikes. Caution also prevailed after disappointing data from China, New Zealand's top trading partner, showed that the country's economy grew at its slowest pace in 3-1/2 years. Port of Tauranga fell 1.2%, Auckland International Airport shed 0.7%, Henderson Far East Income dropped 0.7%, Ebos Group went down 0.4%, and Chorus declined 0.3%."
+    },
+    {
+      "id": "4990840",
+      "time": "2026-07-16 06:56:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱打擊烏軍用設施 烏稱襲擊俄軍直升機】俄羅斯國防部15日通報稱，俄軍在過去24小時內打擊了烏軍遠端無人機儲存點，以及烏軍部隊使用的物流中心、能源和港口基礎設施等目標。俄軍防空部隊則攔截了烏軍8枚制導航空炸彈和558架無人機。另外，俄軍黑海艦隊還摧毀了4艘烏軍無人艇。烏克蘭武裝部隊總參謀部15日通報稱，截至當天下午，前線共發生73次戰鬥。烏軍無人系統部隊同一天通報稱，其部隊在別爾哥羅德州打擊了1架俄軍米-28直升機。另外，烏軍防空力量在14日晚間至15日早間攔截和壓制了101架俄軍無人機。"
+    },
+    {
+      "id": "4990839",
+      "time": "2026-07-16 06:56:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、上半年增長4.7%難能可貴，向新向優特點鮮明 中國經濟展現強大韌性活力（權威釋出）\n2、二〇二六世界人工智慧大會暨人工智慧全球治理高階別會議將舉行 展示前沿技術 加強對話交流\n3、中歐國際工商學院第十二屆歐洲論壇布魯塞爾站舉行 競合共生，中歐人士熱議人工智慧發展合作機遇\n4、上半年社會融資規模增量合理增長 金融有力支援經濟向新向優（權威釋出）\n5、《中國民營企業社會責任報告（2026）》釋出\n6、上半年京津冀區域進出口同比增長16.2%\n7、我國航運中心完成規模領跑向能級領跑跨越 五座城市位次上升\n8、上半年醫保制度執行總體平穩，各項重點工作有序推進 基本醫保參保人數穩中有升\n9、從備用水源加快走向民生和工業等領域 海水淡化不再只是“應急之選”（經濟聚焦）\n10、電子商務法修正恰逢其時（經濟時評）\n11、中國戰略定力，為全球能源安全注入穩定性（經濟透視）\n12、60歲以上就業人口超683萬，“維持生活開支”為重要原因 韓國高齡就業人數逐年增長。"
+    },
+    {
+      "id": "mkt:019f67fe-7868-7aab-8db1-666cdbc665d9",
+      "time": "2026-07-16 06:55:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【U.S. House rejects amendment to block roughly $3.3 bln Israel military aid】The U.S. House voted 314-104 to reject an amendment that would have barred roughly $3.3 bln in military aid to Israel. The measure drew support from 103 of 212 House Democrats, reflecting ongoing divisions within the party; only one Republican, Kentucky Representative Thomas Massie, voted in favor."
+    },
+    {
+      "id": "4990838",
+      "time": "2026-07-16 06:55:55",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平在上海考察時強調 全面踐行人民城市理念 高質量推進城市更新 蔡奇陪同考察\n2、《求是》雜誌發表習近平總書記重要文章 在慶祝中國共產黨成立105週年大會上的講話\n3、堅持人民至上 築牢底線思維——習近平同志“四個寧可”理念的實踐偉力\n4、《習近平談治國理政》第五卷哈薩克推介會在阿斯塔納舉行\n5、韓正會見紐西蘭前總理約翰·基。"
+    },
     {
       "id": "4990837",
       "time": "2026-07-16 06:55:28",
@@ -171022,75 +171081,6 @@
         "Important"
       ],
       "text": "United Kingdom | RICS House Price Balance (Jun) | actual -33 | consensus -30 | previous -35.00"
-    },
-    {
-      "id": "4977690",
-      "time": "2026-07-09 06:59:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍多次空襲後，特朗普稱伊朗主動致電希望達成協議】特朗普於週三表示，在美國對中東地區發動多輪打擊後，伊朗主動致電美方，希望達成相關協議，但他不確定伊朗是否值得信任。“他們不久前打來電話，迫切想要達成協議。” 特朗普在返程的空軍一號專機上對記者說道，“只是我拿不準，他們是否值得與之締約。”當天早些時候，伊朗襲擊了多艘行經霍爾木茲海峽的船隻，美方隨即實施報復，特朗普就此宣佈兩國之間的停火狀態已然終結。“伊朗每襲擊我們一次，我們就十倍反擊。” 特朗普表示。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607093798875996",
-      "time": "2026-07-09 06:59:36",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲6月會議紀要：通脹率進一步上升 遠超長期目標】當地時間7月8日，美聯儲公佈聯邦公開市場委員會6月16日至17日的會議紀要。會議紀要顯示，全體成員一致同意將聯邦基金利率的目標區間維持在3.5%至3.75%。"
-    },
-    {
-      "id": "mkt:019f43f5-1cd9-7aab-8d00-4f3dc6c13aa8",
-      "time": "2026-07-09 06:59:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Trump said on Iran the U.S. had just dealt Iran a heavy blow and that U.S. retaliation is 20 times Iran's; whenever Iran attacks, the U.S. hits back with 20 times the force."
-    },
-    {
-      "id": "mkt:019f43f5-183d-7aab-8d00-45e9ea3bae42",
-      "time": "2026-07-09 06:59:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says he's 'Iran's No.1 assassination target', to use older Air Force One】NewsNation reported President Trump told reporters Wednesday he believes he is \"No.1 on Iran's assassination list\" and said he is unbothered because he is \"doing his job.\" Asked why he would not use the new Air Force One, he said the new jet is being flown to several European bases for display and that he will return by conventional means, planning to fly an older Air Force One from Turkey to the UK."
-    },
-    {
-      "id": "4977689",
-      "time": "2026-07-09 06:58:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上市銀行“紅包雨”密集落地 行業分紅從拼比例到拼可持續】近日，多家銀行2025年度分紅方案實施或獲得股東大會審議透過。7月6日至10日這一週，上市銀行分紅迎來一波小高潮——10家銀行年度分紅在本週實施，其中包括中國銀行、交通銀行、招商銀行等“分紅大戶”。從行業分紅情況來看，分化格局凸顯：六大行穩守30%分紅線，多家中小銀行則壓縮了分紅。業內人士表示，銀行分紅分化背後，是資本補充壓力與盈利能力的結構性差異。這種分化格局，折射出銀行業在資本約束與股東回報間尋求平衡的難題，也為投資者提出了新的配置命題。 (中證報)"
-    },
-    {
-      "id": "mkt:019f43f3-222c-7aab-8d00-3f685639ecb1",
-      "time": "2026-07-09 06:57:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "DR Congo reports confirmed Ebola cases have risen to 1,759, including 600 deaths."
-    },
-    {
-      "id": "mkt:019f43f2-f289-7aab-8d00-35e23b4b3911",
-      "time": "2026-07-09 06:57:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reports an Israeli military source said Israel was not involved in the earlier U.S. strike on Iran."
-    },
-    {
-      "id": "4977688",
-      "time": "2026-07-09 06:56:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "據韓國媒體報道：韓國官員稱，韓元疲軟是暫時性的。"
     }
   ]
 }
