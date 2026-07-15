@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 15:14:16",
+  "updated": "2026-07-15 15:18:27",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -608,66 +608,8 @@
         },
         {
           "date": "2026-07-14",
-          "count": 44,
+          "count": 43,
           "events": [
-            {
-              "id": "capital:1180897",
-              "fid": "1180897",
-              "interval": "this_week",
-              "date": "2026-07-14",
-              "time": "00:00",
-              "datetime": "2026-07-14 00:00:00",
-              "display_time": "07/14 00:00",
-              "country": "中國",
-              "title": "中國6月今年迄今社會融資規模增量(億元)",
-              "importance": 1,
-              "previous": "174800",
-              "forecast": "211900",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180897",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "06/12",
-                  "actual": "174800",
-                  "forecast": "171500",
-                  "previous": "154500"
-                },
-                {
-                  "date": "05/14",
-                  "actual": "154500",
-                  "forecast": "161420",
-                  "previous": "148300"
-                },
-                {
-                  "date": "04/13",
-                  "actual": "148300",
-                  "forecast": "151745",
-                  "previous": "96000"
-                },
-                {
-                  "date": "03/13",
-                  "actual": "96000",
-                  "forecast": "92454",
-                  "previous": "72200"
-                },
-                {
-                  "date": "02/13",
-                  "actual": "72200",
-                  "forecast": "70850",
-                  "previous": "356000"
-                },
-                {
-                  "date": "01/15",
-                  "actual": "356000",
-                  "forecast": "352950",
-                  "previous": "333900"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-14 12:18:45"
-            },
             {
               "id": "capital:1173834",
               "fid": "1173834",
@@ -3166,7 +3108,7 @@
         },
         {
           "date": "2026-07-15",
-          "count": 86,
+          "count": 87,
           "events": [
             {
               "id": "capital:1180894",
@@ -3395,6 +3337,64 @@
                   "actual": "162700",
                   "forecast": "161617",
                   "previous": "153600"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-14 12:18:45"
+            },
+            {
+              "id": "capital:1180897",
+              "fid": "1180897",
+              "interval": "this_week",
+              "date": "2026-07-15",
+              "time": "00:00",
+              "datetime": "2026-07-15 00:00:00",
+              "display_time": "07/15 00:00",
+              "country": "中國",
+              "title": "中國6月今年迄今社會融資規模增量(億元)",
+              "importance": 1,
+              "previous": "174800",
+              "forecast": "211900",
+              "actual": "208400",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180897",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/12",
+                  "actual": "174800",
+                  "forecast": "171500",
+                  "previous": "154500"
+                },
+                {
+                  "date": "05/14",
+                  "actual": "154500",
+                  "forecast": "161420",
+                  "previous": "148300"
+                },
+                {
+                  "date": "04/13",
+                  "actual": "148300",
+                  "forecast": "151745",
+                  "previous": "96000"
+                },
+                {
+                  "date": "03/13",
+                  "actual": "96000",
+                  "forecast": "92454",
+                  "previous": "72200"
+                },
+                {
+                  "date": "02/13",
+                  "actual": "72200",
+                  "forecast": "70850",
+                  "previous": "356000"
+                },
+                {
+                  "date": "01/15",
+                  "actual": "356000",
+                  "forecast": "352950",
+                  "previous": "333900"
                 }
               ],
               "history_status": "cached",
@@ -23937,64 +23937,6 @@
       "history_checked_at": "2026-07-05 00:01:54"
     },
     {
-      "id": "capital:1180897",
-      "fid": "1180897",
-      "interval": "this_week",
-      "date": "2026-07-14",
-      "time": "00:00",
-      "datetime": "2026-07-14 00:00:00",
-      "display_time": "07/14 00:00",
-      "country": "中國",
-      "title": "中國6月今年迄今社會融資規模增量(億元)",
-      "importance": 1,
-      "previous": "174800",
-      "forecast": "211900",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180897",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "06/12",
-          "actual": "174800",
-          "forecast": "171500",
-          "previous": "154500"
-        },
-        {
-          "date": "05/14",
-          "actual": "154500",
-          "forecast": "161420",
-          "previous": "148300"
-        },
-        {
-          "date": "04/13",
-          "actual": "148300",
-          "forecast": "151745",
-          "previous": "96000"
-        },
-        {
-          "date": "03/13",
-          "actual": "96000",
-          "forecast": "92454",
-          "previous": "72200"
-        },
-        {
-          "date": "02/13",
-          "actual": "72200",
-          "forecast": "70850",
-          "previous": "356000"
-        },
-        {
-          "date": "01/15",
-          "actual": "356000",
-          "forecast": "352950",
-          "previous": "333900"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-14 12:18:45"
-    },
-    {
       "id": "capital:1173834",
       "fid": "1173834",
       "interval": "this_week",
@@ -26715,6 +26657,64 @@
           "actual": "162700",
           "forecast": "161617",
           "previous": "153600"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-14 12:18:45"
+    },
+    {
+      "id": "capital:1180897",
+      "fid": "1180897",
+      "interval": "this_week",
+      "date": "2026-07-15",
+      "time": "00:00",
+      "datetime": "2026-07-15 00:00:00",
+      "display_time": "07/15 00:00",
+      "country": "中國",
+      "title": "中國6月今年迄今社會融資規模增量(億元)",
+      "importance": 1,
+      "previous": "174800",
+      "forecast": "211900",
+      "actual": "208400",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1180897",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/12",
+          "actual": "174800",
+          "forecast": "171500",
+          "previous": "154500"
+        },
+        {
+          "date": "05/14",
+          "actual": "154500",
+          "forecast": "161420",
+          "previous": "148300"
+        },
+        {
+          "date": "04/13",
+          "actual": "148300",
+          "forecast": "151745",
+          "previous": "96000"
+        },
+        {
+          "date": "03/13",
+          "actual": "96000",
+          "forecast": "92454",
+          "previous": "72200"
+        },
+        {
+          "date": "02/13",
+          "actual": "72200",
+          "forecast": "70850",
+          "previous": "356000"
+        },
+        {
+          "date": "01/15",
+          "actual": "356000",
+          "forecast": "352950",
+          "previous": "333900"
         }
       ],
       "history_status": "cached",

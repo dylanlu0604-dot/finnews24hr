@@ -1,7 +1,156 @@
 {
   "date": "2026-07-15",
-  "count": 1845,
+  "count": 1859,
   "items": [
+    {
+      "id": "mkt:019f64a2-aaa8-7aab-8d98-106679f9c8ea",
+      "time": "2026-07-15 15:16:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "PBOC says it will step up countercyclical and cross-cycle policy adjustments to consolidate and broaden the economy's steady improvement."
+    },
+    {
+      "id": "mkt:019f64a2-5fc1-7aab-8d98-0a918a153a3b",
+      "time": "2026-07-15 15:16:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】2-year bond futures (TS) most-active contract down 0.01%, 5-year (TF) most-active contract unchanged, 10-year (T) most-active contract down 0.01%, 30-year (TL) most-active contract up 0.02%."
+    },
+    {
+      "id": "4989323",
+      "time": "2026-07-15 15:16:23",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "【央行：加大逆週期和跨週期調節力度 鞏固拓展經濟穩中向好勢頭】7月15日，人民銀行副行長鄒瀾在國新辦新聞釋出會上表示，央行將根據國內外經濟金融形勢和金融市場執行情況，把握好貨幣政策實施的力度、節奏和時機，加大逆週期和跨週期調節力度，著力擴大內需、最佳化供給，增強經濟發展內生動力，不斷鞏固拓展經濟穩中向好的勢頭。"
+    },
+    {
+      "id": "4989322",
+      "time": "2026-07-15 15:16:21",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【今日特朗普要聞】\n1、美國總統特朗普7月14日表示，決定用貿易投資協議來取代霍爾木茲海峽貨物收費。特朗普稱，在他提出對霍爾木茲海峽運輸貨物收取20%的費用後，中東多國致電表示願在美國大規模投資，他對此“非常滿意”，因此就“不需要徵收通行費”了。\n2、美國總統特朗普14日在接受專訪時說，除非伊朗重返談判桌，否則美軍將在下週打擊其橋樑和發電廠。 \n3、美國總統特朗普在白宮接待伊拉克總理阿里·扎伊迪時表示，將會很快宣佈與伊拉克達成的“龐大”新石油交易，他還宣揚了美國企業在伊拉克開展更多業務的前景。特朗普稱，美國石油公司“正以前所未有的規模”進入伊拉克。\n4、特朗普對伊朗政權領導層：“你們最好達成協議。（否則）你們將不會有任何人剩下。”\n5、特朗普談及北約安卡拉峰會： 峰會盛況空前，說實話，現場氛圍十分融洽。 各國都十分親近美國。他們甚至對我抱有好感，但更熱愛美國。 整場峰會令人印象深刻。\n6、特朗普：預計通脹走勢將維持穩定。\n7、特朗普談及格雷厄姆參議員離世一事：我真希望他當初能多保重身體，但他身上出現的病症實際上極難提前察覺。\n8、美國白宮世界盃特別工作組負責人表示， 特朗普支援英格蘭隊奪冠，並一直密切關注英格蘭隊隊長哈里·凱恩在本屆世界盃上的表現。"
+    },
+    {
+      "id": "te:markets:567108",
+      "time": "2026-07-15 15:16:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.30% Lower — The Shangai Composite Index decreased 12 points or 0.30 percent on Wednesday to close at 3955 points. The decline was led by Zhejiang Zheneng (-8.59%), Sanan Optoelectron (-4.68%) and Shanghai Petrochemical (-3.75%). On the upside, the strongest performers were China International (7.11%), China Pacific Insu (4.86%) and China Life Insurance (4.78%)."
+    },
+    {
+      "id": "mkt:019f64a2-1b21-7aab-8d98-074794f45f88",
+      "time": "2026-07-15 15:16:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【PBOC: Inclusive small and micro loans up 8.3% YoY at end-June】PBOC deputy governor Zou Lan said at a State Council Information Office press briefing that as of end-June inclusive small and micro loans rose 8.3% YoY, industrial medium- and long-term loans rose 5.9% YoY, and services-sector medium- and long-term loans excluding real estate rose 9.2% YoY; all three outpaced overall loan growth."
+    },
+    {
+      "id": "4989321",
+      "time": "2026-07-15 15:16:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行副行長鄒瀾15日在國新辦新聞釋出會上表示，現階段七天期逆回購操作利率仍是主要政策利率。"
+    },
+    {
+      "id": "4989320",
+      "time": "2026-07-15 15:15:22",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【央行：截至6月末普惠小微貸款同比增長8.3%】7月15日，人民銀行副行長鄒瀾在國新辦新聞釋出會上表示，截至6月末，普惠小微貸款同比增長8.3%，工業中長期貸款同比增長5.9%，不含房地產業的服務業中長期貸款餘額同比增長9.2%，這幾項都高於全部貸款增速。"
+    },
+    {
+      "id": "4989319",
+      "time": "2026-07-15 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.02%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4989318",
+      "time": "2026-07-15 15:14:44",
+      "tags": [
+        "央行",
+        "其他",
+        "焦點"
+      ],
+      "text": "【央行：1—6月新發放企業貸款加權平均利率大約為3%】7月15日，人民銀行副行長鄒瀾在國新辦新聞釋出會上表示，1—6月，新發放企業貸款加權平均利率大約為3%，比上年同期低約20個基點；新發放的個人住房貸款利率約3.1%，與上年同期基本持平。"
+    },
+    {
+      "id": "4989317",
+      "time": "2026-07-15 15:14:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國國家公路交通安全管理局：豐田將在美召回5400輛汽車】7月15日，根據美國國家公路交通安全管理局（NHTSA）線上釋出的召回通知，豐田汽車公司正在美召回5,408輛汽車。豐田將召回部分2026年款雷克薩斯TX插電式混合動力車、TX混合動力車、豐田Grand Highlander混合動力車及Grand Highlander車型。美國國家公路交通安全管理局表示，這些車輛的後橋托架可能因製造時材料強度不足而存在斷裂風險。後橋托架斷裂可能導致車輛穩定性和操控性突然喪失，從而增加發生碰撞事故的風險。"
+    },
+    {
+      "id": "mkt:019f64a0-8bc5-7aab-8d97-f99b90f3976c",
+      "time": "2026-07-15 15:14:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH"
+      ],
+      "text": "PBOC says Jan–Jun weighted-average rate on new corporate loans about 3.0%, roughly 20bps lower YoY; rate on new personal housing loans about 3.1%, broadly unchanged YoY."
+    },
+    {
+      "id": "4989316",
+      "time": "2026-07-15 15:13:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "AMSPEC AGRI：馬來西亞7月1-15日棕櫚油出口量預計為646,438噸，6月1-15日為621,704噸。"
+    },
+    {
+      "id": "mkt:019f649f-efbb-7aab-8d97-f319a3bd9d7c",
+      "time": "2026-07-15 15:13:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【PBOC: M2 up 8% YoY at end-June, remains above nominal GDP growth】PBOC Deputy Governor Zou Lan said at a State Council Information Office briefing that at end-June the outstanding stock of social financing rose 7.4% YoY and M2 rose 8% YoY; both growth rates remain above nominal GDP growth."
+    },
     {
       "id": "mkt:019f649f-3992-7aab-8d97-ebfc44b3a327",
       "time": "2026-07-15 15:13:04",
