@@ -1,7 +1,132 @@
 {
   "date": "2026-07-17",
-  "count": 241,
+  "count": 253,
   "items": [
+    {
+      "id": "4992875",
+      "time": "2026-07-17 02:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：據ICI統計，美國貨幣市場基金資產降至7.89萬億美元。"
+    },
+    {
+      "id": "mkt:019f6c32-d3cf-7aab-8dcf-c2b723bd629d",
+      "time": "2026-07-17 02:31:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. crude futures settled at $78.95/bbl, down $0.65, or 0.82%."
+    },
+    {
+      "id": "mkt:019f6c32-d230-7aab-8dcf-bb2bbacf4e66",
+      "time": "2026-07-17 02:31:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】As of 02:30 at the night session close, Shanghai gold main contract fell 1.34% to 871 yuan/gram; Shanghai silver main contract fell 3.15% to 13,594 yuan/kg; SC crude oil main contract fell 0.46% to 514 yuan/barrel."
+    },
+    {
+      "id": "4992874",
+      "time": "2026-07-17 02:31:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普下週將訪問亞特蘭大地區。"
+    },
+    {
+      "id": "4992873",
+      "time": "2026-07-17 02:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收跌0.65美元，跌幅0.82%，報78.95美元/桶。NYMEX 8月天然氣期貨收報2.8580美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.2847美元/加侖，NYMEX 8月取暖油期貨收報4.0307美元/加侖。"
+    },
+    {
+      "id": "mkt:019f6c31-ea5a-7aab-8dcf-b1d615a45ac3",
+      "time": "2026-07-17 02:30:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 1.09% at 870.1 yuan/gram in the July 16 (Thursday) evening session; Shanghai Gold Exchange silver T+D closed down 2.29% at 13,592.0 yuan/kg."
+    },
+    {
+      "id": "te:markets:567635",
+      "time": "2026-07-17 02:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.19% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -2.19% decrease."
+    },
+    {
+      "id": "4992871",
+      "time": "2026-07-17 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收跌0.46%，報514.40元人民幣/桶。滬金夜盤收跌1.26%，滬銀收跌3.19%。"
+    },
+    {
+      "id": "4992870",
+      "time": "2026-07-17 02:30:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【雪佛龍計劃簽署伊拉克石油協議，尋求繞過霍爾木茲海峽】雪佛龍預計將於週五與伊拉克簽署協議，推進其關於投資大型油田和建設一條繞過霍爾木茲海峽管道的談判。一位公司高管週四表示，預計這些協議不具約束力，但將表明雪佛龍致力於最終簽署西古爾納-2號和納西里耶油田的商業協議。該高管還稱，雪佛龍也是由美國和國際公司組成的財團的一部分，正在探索建設一條管道的可能性，以幫助伊拉克透過避開霍爾木茲海峽來出口石油。本週早些時候，彭博新聞社報道稱，該公司正與一個投資者財團進行談判，以重啟長期廢棄的基爾庫克-巴尼亞斯（Kirkuk-Baniyas）管道，這是一條長達500英里（800公里）、穿過敘利亞通往地中海沿岸的管道。"
+    },
+    {
+      "id": "mkt:019f6c31-5515-7aab-8dcf-ad517d1e2d46",
+      "time": "2026-07-17 02:30:00",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Google (GOOG.O) shares fell nearly 3% intraday after reports the company delayed the launch of Gemini 3.5 Pro."
+    },
+    {
+      "id": "4992869",
+      "time": "2026-07-17 02:29:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國對伊朗發動空襲，美國國債收益率和美元維持日內漲幅。"
+    },
+    {
+      "id": "mkt:019f6c30-83e8-7aab-8dcf-a511357319e5",
+      "time": "2026-07-17 02:29:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state television reported the Bandar Abbas area in southern Iran was struck by shelling it attributed to the United States."
+    },
     {
       "id": "4992868",
       "time": "2026-07-17 02:28:27",
