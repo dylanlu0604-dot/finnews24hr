@@ -1,7 +1,117 @@
 {
   "date": "2026-07-16",
-  "count": 714,
+  "count": 726,
   "items": [
+    {
+      "id": "4990999",
+      "time": "2026-07-16 08:44:31",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【SpaceX IPO推動華爾街股權資本市場收入創2021年以來新高】受SpaceX創紀錄的IPO以及人工智慧（AI）基礎設施融資熱潮的推動，華爾街最大的幾家投資銀行在第二季度獲得了自2021年以來最高的股權發行顧問收入。高盛集團在大型美國銀行中拔得頭籌，其截至6月30日的季度股權承銷收入達到9.85億美元，同比激增130%。這些銀行正受益於股權掛鉤發行（equity-linked offerings）的活躍環境，並正在激烈爭奪今年年底前可能定價的更多大型IPO專案，其中包括AI模型製造商Anthropic潛在的超級IPO。"
+    },
+    {
+      "id": "4990998",
+      "time": "2026-07-16 08:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度將汽油出口稅從每升4盧比降至每升2.5盧比。"
+    },
+    {
+      "id": "4990997",
+      "time": "2026-07-16 08:43:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數跌幅擴大至3%】日經225指數跌幅擴大至3%，現報66659.92點。"
+    },
+    {
+      "id": "mkt:019f6860-c793-7aab-8db2-f4845c3f0be2",
+      "time": "2026-07-16 08:43:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 fell 3.00% intraday to 66,659.92 points."
+    },
+    {
+      "id": "mkt:019f6860-bd2e-7aab-8db2-e8a2e45fc0cd",
+      "time": "2026-07-16 08:43:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK Met Office: 2025 warmest year since 1884】On July 14 the UK Met Office said 2025 was the warmest year in the UK since records began in 1884 and that extreme weather is becoming increasingly commonplace. Met Office climate information scientist Kendon said 2025 is the sixth time in the 21st century the country's annual mean temperature record has been broken. An analysis by the London School of Hygiene and Tropical Medicine estimated two heatwaves in May and June in England and Wales may have caused more than 2,700 deaths."
+    },
+    {
+      "id": "4990996",
+      "time": "2026-07-16 08:43:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國首個水風光一體化智慧運營大模型釋出】記者今天（16日）從國投集團雅礱江公司獲悉，我國首個水風光一體化智慧運營大模型在四川雅礱江流域正式釋出。"
+    },
+    {
+      "id": "mkt:019f6860-7a1c-7aab-8db2-e5e23591a372",
+      "time": "2026-07-16 08:43:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China releases first integrated hydro-wind-solar smart operations large model】SDIC Yalong River Company said China’s first integrated hydro-wind-solar smart operations large model was released in the Yalong River basin, Sichuan. The model links weather, hydrology and wind/solar resource forecasting to power operations decision-making across the full chain for tens-of-gigawatts clean-energy bases, acting as a \"smart brain.\" It consolidates satellite remote sensing, ground meteorological stations, watershed hydrometric stations and renewable-asset sensors into an integrated forecasting system covering the full basin, all resource elements, multiple time horizons and the generation-dispatch-O&M-trading business chain. The company said the model, trained on massive real-world data and optimized for complex highland scenarios, has substantially upgraded forecasting capability."
+    },
+    {
+      "id": "4990995",
+      "time": "2026-07-16 08:42:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國氣象局：2025年為英國有氣象記錄以來最熱一年】英國氣象局當地時間14日釋出報告稱，2025年是英國自1884年有氣象記錄以來最熱的一年，且極端天氣在英國正逐漸常態化。英國氣象局氣候資訊科學家肯登表示，2025年是進入21世紀後英國第6次重新整理該國年均氣溫紀錄。英國今年也遭遇了極端高溫天氣。英國倫敦衛生與熱帶醫學院日前釋出的一項分析估算顯示，今年5月和6月發生在英格蘭和威爾士的兩次熱浪可能造成超過2700人死亡。（央視新聞）"
+    },
+    {
+      "id": "4990994",
+      "time": "2026-07-16 08:42:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數擴大跌幅，最新下跌2.9%至66,777.46點。"
+    },
+    {
+      "id": "4990993",
+      "time": "2026-07-16 08:42:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【分析師：SK海力士的回撥或提供買入機會】Mirae Asset Securities分析師Young-gun Kim在一份報告中表示，SK海力士近期的回撥為增加對該股的敞口提供了一個極具吸引力的機會。該分析師表示，目前的疲軟似乎反映出圍繞第二季度業績和ADR上市的樂觀情緒出現了異常急劇的降溫。Mirae Asset Securities將其第二季度營業利潤預期下調了12%，但維持其買入評級和4,200,000韓元的目標價不變。該分析師稱，儘管股價出現回撥，但儲存晶片現貨價格繼續走強，同時儲備訂單的增長不太可能出現有意義的放緩。"
+    },
+    {
+      "id": "4990992",
+      "time": "2026-07-16 08:42:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲1.0個基點至2.695%。"
+    },
+    {
+      "id": "4990991",
+      "time": "2026-07-16 08:41:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度提高柴油和航空燃油出口稅。"
+    },
     {
       "id": "4990990",
       "time": "2026-07-16 08:41:48",
