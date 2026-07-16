@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-17 06:49:24",
-  "count": 18790,
+  "updated": "2026-07-17 06:53:18",
+  "count": 18793,
   "items": [
+    {
+      "id": "te:economy:567657",
+      "time": "2026-07-17 06:52:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "New Zealand Food Inflation Hits 16-Month Low — Annual food inflation in New Zealand slowed to 2.5% in June 2026 from May's 3.2%, marking the softest increase since February 2025. The moderation was mainly driven by fruit and vegetables, grocery food, and meat, poultry, and fish."
+    },
+    {
+      "id": "4993010",
+      "time": "2026-07-17 06:50:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX盤後跳水超4%。"
+    },
+    {
+      "id": "mkt:019f6d20-074d-7aab-8dd2-6d317b74bc64",
+      "time": "2026-07-17 06:50:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) U.S. shares fell 4% in after-hours trading after a planned 13th Starship test flight from Texas was aborted at the 11th hour before liftoff."
+    },
+    {
+      "id": "mkt:019f6d1f-79e4-7aab-8dd2-6737b9a54695",
+      "time": "2026-07-17 06:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Vice Chair Jefferson to speak on the economy and monetary policy in 10 minutes."
+    },
+    {
+      "id": "mkt:019f6d1e-764b-7aab-8dd2-5e83cfd8d465",
+      "time": "2026-07-17 06:49:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) canceled today’s Starship test flight."
+    },
+    {
+      "id": "4993009",
+      "time": "2026-07-17 06:48:53",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX 取消了“星艦”火箭的重大試飛任務。"
+    },
     {
       "id": "mkt:019f6d1d-4a2c-7aab-8dd2-52705582165a",
       "time": "2026-07-17 06:47:43",
@@ -10,6 +75,16 @@
         "SPCX.O"
       ],
       "text": "Video footage shows the countdown for SpaceX (SPCX.O) Starship's 13th test flight paused."
+    },
+    {
+      "id": "4993008",
+      "time": "2026-07-17 06:46:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【7月17日隔夜要聞一覽】\n1、當地時間7月16日，白宮新聞秘書萊維特稱，伊朗仍在與美國對話，並表示希望與美國達成協議，因為他們正在遭受“毀滅性打擊”。\n2、當地時間16日，伊朗最高領袖顧問穆赫貝爾表示，支援相關襲擊行動的各方應認識到，針對伊朗安全和基礎設施的攻擊，可能導致整個地區能源供應鏈遭到破壞。\n3、當地時間16日，巴西外長維埃拉在新聞釋出會上表示，美國對部分巴西進口商品加徵25%關稅的行為沒有任何現實依據，而是“出於政治動機”。\n4、當地時間7月16日，美軍中央司令部宣佈，美軍於美東時間下午2時開始對伊朗發動新一輪空襲，這是美軍連續第五個夜晚對伊朗實施打擊。\n5、白宮：特朗普與萬斯在伊朗衝突問題上立場完全一致。\n6、達拉斯聯邦儲備銀行行長洛裡·洛根週四表示，本週公佈的利好通脹資料還不夠好，她呼籲適度提高利率，以打贏這場美聯儲已持續輸掉五年的抗通脹之戰。\n7、堪薩斯城聯儲行長傑夫·施密德表示，鑑於未來幾個月物價可能加速上漲，他目前最擔心的是通脹問題。\n8、白宮新聞秘書：特朗普認為被控參與下注的提詞器操作員“可恥”。\n9、國際能源署署長比羅爾：若未來數週霍爾木茲海峽原油天然氣運輸通道、伊朗戰事局勢無法好轉，“我們應當對油氣供應安全感到擔憂”。"
     },
     {
       "id": "mkt:019f6d1b-fe45-7aab-8dd2-495fe4d5a652",
@@ -172775,39 +172850,6 @@
         "其他"
       ],
       "text": "【英國央行首席經濟學家稱央行將需提高利率】英國央行首席經濟學家Huw Pill被問及未來一年是否需要加息以控制通脹時，Pill回答稱，“簡短回答是，需要”。“經濟能夠執行的速度上限略低於以往。”“我擔心，目前經濟執行速度略微超出了供給側能力，也就是經濟潛力所允許的水平。”過去四年的通脹資料表明，英國央行“對趨勢增長水平的判斷有些過於樂觀。”“央行面臨的最大危險是，企業、家庭和個人開始認為通脹正在上升。”在英國央行由九名成員組成的貨幣政策委員會中，Pill是上月投票支援加息的兩名決策者之一。（BBC）"
-    },
-    {
-      "id": "4979816",
-      "time": "2026-07-10 06:52:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央氣象臺7月10日06時釋出暴雨黃色預警】中央氣象臺7月10日06時釋出暴雨黃色預警：預計，7月10日08時至11日08時，內蒙古南部和東北部、黑龍江南部、吉林中部、遼寧中西部、河北中北部、北京、天津、山西北部和西部、陝西北部、寧夏南部、甘肅南部、青海東部、四川盆地西部、西藏東南部、雲南西部和南部、廣西東部、海南島西南部、浙江南部、臺灣島等地部分地區有大到暴雨，其中，河北東北部和中部、北京西南部、天津北部、山西西部等地部分地區有大暴雨，臺灣島北部和中部局地有特大暴雨(250~700毫米)。上述部分地區伴有短時強降水(最大小時降雨量20~50毫米，局地可超過80毫米)，局地有雷暴大風或冰雹等強對流天氣。"
-    },
-    {
-      "id": "4979815",
-      "time": "2026-07-10 06:50:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方敦促烏克蘭危機當事方早日停火止戰】中國常駐聯合國副代表孫磊9日在安理會審議烏克蘭問題時發言，敦促當事方保持冷靜剋制，全力推動局勢降溫，為早日停火止戰創造條件。孫磊說，當前烏克蘭問題局勢發展令人擔憂。當事方頻頻開展軍事襲擊，烈度、規模和範圍都超出以往，導致大量平民傷亡和設施損毀。中方譴責任何針對無辜平民的襲擊，呼籲相關方停止攻擊平民和民用基礎設施。孫磊表示，近期當事方深陷軍事對抗、互相報復的惡性迴圈，不僅給平民造成沉痛的苦難，而且進一步加劇仇恨、激化矛盾，讓和平談判的道路更為艱難曲折。當事方應保持冷靜剋制，嚴格遵守國際人道法，全力推動局勢降溫，為早日停火止戰創造條件。近期主要各方繼續就和談表明立場，雖然分歧依然突出，但都支援政治解決危機，都希望早日實現和平，這是一份難得的共識。各方應保持耐心，積極展現政治意願，早日恢復對話談判，爭取達成一份全面、持久、有約束力的和平協議。在烏克蘭問題上，各方有各自的安全關切，應找到兼顧彼此安全關切的最大公約數，在遵循《聯合國憲章》原則基礎上消除衝突根源，推動構建均衡、有效、可持續的地區安全架構，實現地區長治久安。孫磊說，中方在烏克蘭問題上始終秉持客觀公正立場。中方致力於危機的政治解決，積極同各方保持溝通接觸，堅持以自己的方式勸和促談。中方願繼續同國際社會一道，為推動危機早日得到政治解決發揮建設性作用。（新華社）"
-    },
-    {
-      "id": "mkt:019f4913-8d73-7aab-8d22-2ae77fe76aeb",
-      "time": "2026-07-10 06:50:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China urges parties in Ukraine crisis to seek early ceasefire】China's deputy permanent representative to the UN, Sun Lei, told the Security Council on the 9th that parties should remain calm and exercise restraint, push to de-escalate the situation and create conditions for an early ceasefire and end to hostilities."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607103800514289",
-      "time": "2026-07-10 06:50:26",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國2026財年前9個月聯邦赤字約1.4萬億美元】據美國國會預算辦公室釋出的《2026年6月月度預算回顧》，2026財年前九個月，美國聯邦預算赤字總計約1.4萬億美元，比上一財年同期增加350億美元。同期聯邦收入為4.2萬億美元，增加1420億美元，增幅4%；支出為5.5萬億美元，增加1780億美元，增幅3%。"
     }
   ]
 }

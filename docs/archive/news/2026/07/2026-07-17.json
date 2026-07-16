@@ -1,7 +1,72 @@
 {
   "date": "2026-07-17",
-  "count": 483,
+  "count": 490,
   "items": [
+    {
+      "id": "te:economy:567657",
+      "time": "2026-07-17 06:52:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "New Zealand Food Inflation Hits 16-Month Low — Annual food inflation in New Zealand slowed to 2.5% in June 2026 from May's 3.2%, marking the softest increase since February 2025. The moderation was mainly driven by fruit and vegetables, grocery food, and meat, poultry, and fish."
+    },
+    {
+      "id": "4993010",
+      "time": "2026-07-17 06:50:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX盤後跳水超4%。"
+    },
+    {
+      "id": "mkt:019f6d20-074d-7aab-8dd2-6d317b74bc64",
+      "time": "2026-07-17 06:50:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) U.S. shares fell 4% in after-hours trading after a planned 13th Starship test flight from Texas was aborted at the 11th hour before liftoff."
+    },
+    {
+      "id": "mkt:019f6d1f-79e4-7aab-8dd2-6737b9a54695",
+      "time": "2026-07-17 06:50:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Vice Chair Jefferson to speak on the economy and monetary policy in 10 minutes."
+    },
+    {
+      "id": "mkt:019f6d1e-764b-7aab-8dd2-5e83cfd8d465",
+      "time": "2026-07-17 06:49:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) canceled today’s Starship test flight."
+    },
+    {
+      "id": "4993009",
+      "time": "2026-07-17 06:48:53",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "SpaceX 取消了“星艦”火箭的重大試飛任務。"
+    },
     {
       "id": "mkt:019f6d1d-4a2c-7aab-8dd2-52705582165a",
       "time": "2026-07-17 06:47:43",
@@ -10,6 +75,16 @@
         "SPCX.O"
       ],
       "text": "Video footage shows the countdown for SpaceX (SPCX.O) Starship's 13th test flight paused."
+    },
+    {
+      "id": "4993008",
+      "time": "2026-07-17 06:46:25",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【7月17日隔夜要聞一覽】\n1、當地時間7月16日，白宮新聞秘書萊維特稱，伊朗仍在與美國對話，並表示希望與美國達成協議，因為他們正在遭受“毀滅性打擊”。\n2、當地時間16日，伊朗最高領袖顧問穆赫貝爾表示，支援相關襲擊行動的各方應認識到，針對伊朗安全和基礎設施的攻擊，可能導致整個地區能源供應鏈遭到破壞。\n3、當地時間16日，巴西外長維埃拉在新聞釋出會上表示，美國對部分巴西進口商品加徵25%關稅的行為沒有任何現實依據，而是“出於政治動機”。\n4、當地時間7月16日，美軍中央司令部宣佈，美軍於美東時間下午2時開始對伊朗發動新一輪空襲，這是美軍連續第五個夜晚對伊朗實施打擊。\n5、白宮：特朗普與萬斯在伊朗衝突問題上立場完全一致。\n6、達拉斯聯邦儲備銀行行長洛裡·洛根週四表示，本週公佈的利好通脹資料還不夠好，她呼籲適度提高利率，以打贏這場美聯儲已持續輸掉五年的抗通脹之戰。\n7、堪薩斯城聯儲行長傑夫·施密德表示，鑑於未來幾個月物價可能加速上漲，他目前最擔心的是通脹問題。\n8、白宮新聞秘書：特朗普認為被控參與下注的提詞器操作員“可恥”。\n9、國際能源署署長比羅爾：若未來數週霍爾木茲海峽原油天然氣運輸通道、伊朗戰事局勢無法好轉，“我們應當對油氣供應安全感到擔憂”。"
     },
     {
       "id": "mkt:019f6d1b-fe45-7aab-8dd2-495fe4d5a652",
