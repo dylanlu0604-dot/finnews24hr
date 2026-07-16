@@ -1,7 +1,26 @@
 {
   "date": "2026-07-17",
-  "count": 448,
+  "count": 450,
   "items": [
+    {
+      "id": "te:markets:567652",
+      "time": "2026-07-17 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.58% — Top currency losers are Swedish Krona (-0.58%), British Pound (-0.48%), Swiss Franc (-0.44%), Euro (-0.17%) and Japanese Yen (-0.10%). Gains are led by South Korean Won (0.51%) and Dollar Index (0.24%)."
+    },
+    {
+      "id": "mkt:019f6cfe-a81f-7aab-8dd1-caa9c771e255",
+      "time": "2026-07-17 06:14:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News Agency, citing Iraqi sources, reports a power outage affecting most of Erbil, Iraq."
+    },
     {
       "id": "4992996",
       "time": "2026-07-17 06:11:05",

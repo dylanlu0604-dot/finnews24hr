@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-17 06:14:22",
-  "count": 18784,
+  "updated": "2026-07-17 06:18:14",
+  "count": 18783,
   "items": [
+    {
+      "id": "te:markets:567652",
+      "time": "2026-07-17 06:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Swedish Krona Drops by 0.58% — Top currency losers are Swedish Krona (-0.58%), British Pound (-0.48%), Swiss Franc (-0.44%), Euro (-0.17%) and Japanese Yen (-0.10%). Gains are led by South Korean Won (0.51%) and Dollar Index (0.24%)."
+    },
+    {
+      "id": "mkt:019f6cfe-a81f-7aab-8dd1-caa9c771e255",
+      "time": "2026-07-17 06:14:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars News Agency, citing Iraqi sources, reports a power outage affecting most of Erbil, Iraq."
+    },
     {
       "id": "4992996",
       "time": "2026-07-17 06:11:05",
@@ -172705,33 +172724,6 @@
         "國際"
       ],
       "text": "【伊朗聖城馬什哈德發生槍擊事件致2人死亡】據伊朗伊斯蘭共和國通訊社10日凌晨報道，伊朗東北部聖城馬什哈德發生一起槍擊事件，造成2人死亡。 報道援引一名伊朗官員的話說，槍擊事件發生在馬什哈德市西部，目前事件原因和死者身份仍未確定。 9日，伊朗已故最高領袖哈梅內伊的安葬儀式在馬什哈德舉行。（新華社）"
-    },
-    {
-      "id": "4979797",
-      "time": "2026-07-10 06:17:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北向資金二季度持倉市值增長5400億元】滬深股通2026年二季度持股資料7月8日公佈。統計資料顯示，截至6月30日，北向資金共持有3958只個股，合計持股約1078.46億股，持股數較一季度末增加了39.07億股。以二季度末的股價計算，北向資金持倉總規模約3.13萬億元，較2026年一季度末的2.58萬億元增長了5430.37億元。重倉股統計資料顯示，截至2026年二季度末，寧德時代為北向資金的頭號重倉股，中際旭創、北方華創、美的集團、貴州茅臺、中微公司、新易盛、瀾起科技、立訊精密、招商銀行等個股緊隨其後。 (上證報)"
-    },
-    {
-      "id": "te:markets:565802",
-      "time": "2026-07-10 06:15:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Rises by 1.05% — Top currency gainers are New Zealand Dollar (1.05%), Brazilian Real (1.02%), Norwegian Krone (0.38%), British Pound (0.15%), Euro (0.14%) and Japanese Yen (0.13%). Biggest losers are Polish Zloty (-0.39%), Turkish Lira (-0.26%) and Dollar Index (-0.07%)."
-    },
-    {
-      "id": "4979796",
-      "time": "2026-07-10 06:14:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：日東電工將擴大硬碟電路板產能。"
     }
   ]
 }
