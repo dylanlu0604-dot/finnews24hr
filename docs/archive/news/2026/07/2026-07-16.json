@@ -1,7 +1,159 @@
 {
   "date": "2026-07-16",
-  "count": 2855,
+  "count": 2872,
   "items": [
+    {
+      "id": "4992474",
+      "time": "2026-07-16 21:01:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【RBC Capital：上調歷峰集團目標價至220瑞士法郎，評級升至“跑贏大市”】RBC Capital將瑞士奢侈品集團歷峰的評級由“與大市同步”上調至“跑贏大市”，並將目標價從200瑞士法郎上調至220瑞士法郎，理由是珠寶需求超出預期、鐘錶業務逐步復甦，以及盈利增長有望加速。"
+    },
+    {
+      "id": "4992473",
+      "time": "2026-07-16 21:01:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體科技集團推出真相應用程式介面（Truth API），這是一款面向金融服務合作方的全新授權資料服務，可實現最快調取真相社交平臺高影響力賬號相關資料。"
+    },
+    {
+      "id": "4992472",
+      "time": "2026-07-16 21:00:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普媒體與科技集團：Truth API正式推出前已提前完成客戶簽約，未來數週內將接入更多合作方。"
+    },
+    {
+      "id": "mkt:019f6b03-a248-7aab-8dc9-8ff6c2abac3c",
+      "time": "2026-07-16 21:00:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "New York silver futures fell to $56/oz, down 3.63% intraday."
+    },
+    {
+      "id": "mkt:019f6b03-904c-7aab-8dc9-86044e4c5926",
+      "time": "2026-07-16 21:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "China's night session opened with main futures contracts mixed. SHFE nickel, MEG, INE crude (SC) and low-sulfur fuel oil (LU) rose over 1%; stainless steel gained about 1%. Shanghai silver fell more than 3% and Shanghai gold dropped over 1%."
+    },
+    {
+      "id": "4992471",
+      "time": "2026-07-16 21:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "美光透過戰略客戶協議強化汽車生態系統供應。"
+    },
+    {
+      "id": "mkt:019f6b03-6581-7aab-8dc9-7e5a38b88038",
+      "time": "2026-07-16 21:00:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia's central bank foreign exchange and gold reserves stood at $722.4 bln in the week to July 10, compared with $721.7 bln the previous week."
+    },
+    {
+      "id": "4992470",
+      "time": "2026-07-16 21:00:08",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯至7月10日當週央行黃金和外匯儲備 7224億美元，前值7217億美元。"
+    },
+    {
+      "id": "4992469",
+      "time": "2026-07-16 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報928.00元。"
+    },
+    {
+      "id": "mkt:019f6b03-3ed0-7aab-8dc9-740d1d7e1652",
+      "time": "2026-07-16 21:00:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (Jul.10) | actual 722400000000B | previous 721700000000B"
+    },
+    {
+      "id": "4992468",
+      "time": "2026-07-16 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】白銀連續跌3.19%，集運指數歐線期貨連續跌2.12%，菜籽連續漲1.74%，尿素連續跌1.68%，黃金連續跌1.29%。"
+    },
+    {
+      "id": "4992467",
+      "time": "2026-07-16 21:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守56美元/盎司，日內跌2.50%。"
+    },
+    {
+      "id": "4992466",
+      "time": "2026-07-16 20:59:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國上週首次申請失業救濟人數低於預期 表明勞動力市場穩定】上週美國失業救濟申請人數下降，表明勞動力市場保持穩定。根據美國勞工部週四公佈的資料，截至7月11日當週，首次申領失業救濟人數減少8000人，降至20.8萬人。接受調查的經濟學家的預測中值為21.7萬人。之前一週的持續申領失業救濟人數降至181萬人，也低於預期。在5月份和6月初激增後，首次申領人數已回落至歷史低位。與此同時，失業率上月下降，進一步表明僱主正在儘量留住員工。首次申請失業救濟人數的四周移動均值上週降至214,250人。未經季節性因素調整的基礎上，首次申請人數升至244,826人，加利福尼亞州和密蘇里州增幅居首。"
+    },
+    {
+      "id": "4992465",
+      "time": "2026-07-16 20:58:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【今日多隻寬基ETF尾盤放量】7月16日，臨近尾盤，滬深300ETF華泰柏瑞、中證1000ETF南方、中證500ETF南方等多隻寬基ETF出現明顯買盤，滬深300ETF華泰柏瑞、中證1000ETF南方等今日成交額較昨日顯著放量，分別由昨日的34.98億元、36.69億元增至79.09億元、56.45億元。半導體、晶片等主題ETF今天普跌超5%，7月以來累計跌幅在20%以上；港股網際網路板塊繼續回暖，7月以來，多隻港股網際網路主題ETF累計漲超17%。（中證報）"
+    },
+    {
+      "id": "4992464",
+      "time": "2026-07-16 20:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "小鵬汽車：小鵬汽車通用智慧中心負責人劉先明表示，智慧化始終是小鵬最核心的能力。從智慧駕駛到智慧座艙，未來的汽車將不再只是交通工具，而是具備感知、思考和執行能力的AI汽車。"
+    },
+    {
+      "id": "mkt:019f6b01-c836-7aab-8dc9-68c030fdff9d",
+      "time": "2026-07-16 20:58:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: The U.S. Department of Homeland Security issued a final rule establishing fixed-duration U.S. stays for certain international students and foreign journalists."
+    },
+    {
+      "id": "4992463",
+      "time": "2026-07-16 20:58:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "持有F-1簽證人員居留期限上限四年，須向美國國土安全部申請延期；國土安全部最終新規收緊外國留學生在美國居留限制。"
+    },
     {
       "id": "4992462",
       "time": "2026-07-16 20:56:23",
