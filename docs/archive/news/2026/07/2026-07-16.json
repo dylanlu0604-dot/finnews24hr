@@ -1,7 +1,173 @@
 {
   "date": "2026-07-16",
-  "count": 949,
+  "count": 966,
   "items": [
+    {
+      "id": "4991144",
+      "time": "2026-07-16 09:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股科網股走高，快手-W漲超6%】港股科網股走高，快手-W漲超6%，嗶哩嗶哩-W漲超5%，阿里巴巴-W漲超4%，美團漲近4%。"
+    },
+    {
+      "id": "mkt:019f689f-6ecc-7aab-8db5-b95dc299e63b",
+      "time": "2026-07-16 09:51:46",
+      "tags": [
+        "MKT News",
+        "7012.T",
+        "Impact bullish",
+        "NVDA"
+      ],
+      "text": "Kawasaki Heavy Industries announced a partnership with NVIDIA."
+    },
+    {
+      "id": "4991143",
+      "time": "2026-07-16 09:51:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：將密切關注市場動態和經濟指標，以實現財政可持續性。"
+    },
+    {
+      "id": "mkt:019f689f-4e02-7aab-8db5-b1504922eeb0",
+      "time": "2026-07-16 09:51:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said he will monitor market developments and economic indicators to maintain fiscal sustainability."
+    },
+    {
+      "id": "4991142",
+      "time": "2026-07-16 09:51:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行：半導體行業、中東局勢等仍存不確定性，有必要監控匯率高波動性】韓國央行7月16日稱，今年的增長率預計將大幅超過5月份預測的2.6%；通脹壓力將繼續上升，預計將保持在目標水平之上；需要關注房地產市場和家庭債務增長。韓國央行表示，半導體行業、中東局勢發展及貿易環境變化仍存在不確定性，有必要監控匯率的高波動性。"
+    },
+    {
+      "id": "4991141",
+      "time": "2026-07-16 09:51:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【地震預警APP“VIP加速通道”引爭議，成都高新減災研究所釋出整改公告】成都高新減災研究所7月15日釋出關於地震預警APP的情況說明及整改公告：近期，減災所地震預警APP廣告展示、會員服務、資訊推送體驗等問題引發廣大網友、社會公眾的關注與質疑。關於“VIP加速通道”爭議：系產品表述不當，無安全分級機制。經自查，減災所從未設定付費優先推送、普通使用者降速限流的差異化機制。由於平臺存量使用者基數大，易造成高峰擁堵。為保障全網推送穩定，減災所透過會員增值服務收益擴容伺服器資源，客觀上提升了推送穩定性。但減災所產品將其標註為“專屬加速通道”，命名不嚴謹、表述不恰當，帶來了“生命通道分等級”的負面觀感。目前減災所已全面刪除所有歧義文案，完成產品功能表述整改。"
+    },
+    {
+      "id": "mkt:019f689e-ea29-7aab-8db5-aaca65635a46",
+      "time": "2026-07-16 09:51:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09868.HK",
+        "Impact bullish",
+        "02015.HK",
+        "09863.HK"
+      ],
+      "text": "Hong Kong-listed auto shares strengthened: XPeng Inc. (09868.HK) rose nearly 6%, Lantu Auto (07489.HK) climbed nearly 5%; Li Auto (02015.HK) and Leapmotor (09863.HK) also advanced."
+    },
+    {
+      "id": "4991140",
+      "time": "2026-07-16 09:50:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【藉助中企數字基建 奈及利亞AI使用頻率全球排第二】2026年7月14日，ADP全球研究院釋出了最新的調研報告《職場人2026》。該調研報告顯示，奈及利亞因為吸引來自中國的技術投資，推動了本國人工智慧工具及數字基礎設施的快速落地，有 39% 的員工表示每天都會使用人工智慧，僅次於使用頻率最高的印度。 《職場人2026》顯示，亞洲、中東及非洲地區的員工，其人工智慧使用水平位居全球前列。 該調研報告特別指出，“在奈及利亞這個人口眾多的西非市場中，有 39% 的員工表示每天都會使用人工智慧，僅次於使用頻率最高的印度。這一比例是美國、中國臺灣、澳大利亞和德國的兩倍以上，是韓國的三倍以上。”（中國經營報）"
+    },
+    {
+      "id": "mkt:019f689e-7a06-7aab-8db5-a377f05b30eb",
+      "time": "2026-07-16 09:50:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Korean single-stock leveraged ETFs incur KRW8.83 tln mark-to-market loss over nine trading days】Data published July 15 by FnGuide Quantwise and Mirae Asset Securities show four single-stock leveraged ETFs issued by Mirae Asset Global Investments and Samsung Asset Management—tracking Samsung Electronics and SK Hynix—suffered a cumulative mark-to-market loss of KRW8.8337 tln from July 1–13. AUM for those four ETFs fell from KRW14.3518 tln to KRW8.9389 tln, a 37.7% decline. Across all 14 KRX-listed single-stock leveraged ETFs tracking Samsung Electronics and SK Hynix, assets under management dropped 41.4%—from KRW15.9349 tln at end-June to KRW9.3386 tln on July 13—with Samsung-linked leveraged ETF AUM down 35.3% and SK Hynix-linked leveraged ETF AUM down 44.9%. Korea Capital Market Institute data show individual investors had net bought KRW8.2 tln of single-stock leveraged ETFs as of June 19, about 60% of the related AUM, indicating a substantial portion of recent losses may be borne by retail holders."
+    },
+    {
+      "id": "mkt:019f689e-78e3-7aab-8db5-9d6e47906f96",
+      "time": "2026-07-16 09:50:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【China refined fuel prices likely to rise for ninth time this year, industry source says】China's refined fuel prices are expected to be adjusted higher when the pricing window opens at 24:00 on July 17, industry firm Longzhong Information said. Longzhong estimates an increase of about 250 yuan/ton, roughly 0.18 yuan/liter; a 70‑liter fill would cost about 13 yuan more. Final adjustment will be confirmed by official authorities."
+    },
+    {
+      "id": "mkt:019f689d-91af-7aab-8db5-9410aad8538a",
+      "time": "2026-07-16 09:49:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister Katayama said she will not comment on specific exchange-rate levels."
+    },
+    {
+      "id": "mkt:019f689d-90e4-7aab-8db5-89e61092f14c",
+      "time": "2026-07-16 09:49:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said interest rates and FX are influenced by multiple factors."
+    },
+    {
+      "id": "4991139",
+      "time": "2026-07-16 09:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山：不對具體匯率水平置評。"
+    },
+    {
+      "id": "4991138",
+      "time": "2026-07-16 09:49:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "片山皋月：利率和外匯匯率受多種因素影響。"
+    },
+    {
+      "id": "mkt:019f689c-e8b0-7aab-8db5-83d1fa0ce109",
+      "time": "2026-07-16 09:49:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bearish",
+        "000300.SS"
+      ],
+      "text": "China A-share coal-chemical sector extended losses; Jiangsu Sopo fell more than 6%, while Jinmei Technology, Chengzhi Co., Huayi Group and Huachang Chemical also slid."
+    },
+    {
+      "id": "mkt:019f689c-a770-7aab-8db5-7ff59ffb1bd4",
+      "time": "2026-07-16 09:48:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share PCB sector rebounded. Xianfeng Holdings posted a third consecutive daily limit-up; Yihao New Materials rose over 10%. Jingwang Electronics, Nanya New Materials, Guanghe Technology and Pengding Holdings also advanced."
+    },
+    {
+      "id": "4991137",
+      "time": "2026-07-16 09:48:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【煤化工板塊持續走低】煤化工板塊持續走低，江蘇索普跌超6%，金煤科技、誠志股份、華誼集團、華昌化工等跟跌。"
+    },
     {
       "id": "te:markets:567359",
       "time": "2026-07-16 09:47:52",
