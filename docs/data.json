@@ -1,7 +1,94 @@
 {
-  "updated": "2026-07-16 08:54:15",
-  "count": 18625,
+  "updated": "2026-07-16 08:58:12",
+  "count": 18626,
   "items": [
+    {
+      "id": "mkt:019f686d-a699-7aab-8db3-3837dad1745f",
+      "time": "2026-07-16 08:57:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【A-share valuation gauge: both indicators soften slightly】July 15 — The Buffett indicator (CSI 300 INDEX market cap/GDP) edged down to 90.51%, remaining near the upper end of its 10-year range. The CSI 300 INDEX equity risk premium (ERP) eased to 5.17%, holding near 5.2% in July and at the lower bound of its post‑Oct 2024 range, implying a limited yield advantage of equities over Chinese government bonds. Reference thresholds: Buffett indicator 70–100% = normal valuation (below 70 = undervalued; above 100 = overvalued). ERP historically: ≥6% has coincided with market troughs and signals attractive equity value; ≤4% typically aligns with cyclical market highs and lower investment value."
+    },
+    {
+      "id": "te:markets:567342",
+      "time": "2026-07-16 08:56:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Inch Higher — Australian shares edged up in early Thursday trade, with the benchmark hovering near 8,850 to notch a second day of gains. Firmer U.S. equity futures lifted sentiment after Wall Street closed higher overnight amid easing inflation signals and a strong start to the Q2 earnings season. Locally, Treasurer Jim Chalmers pressed regulators to adopt a more pro-growth stance to lift productivity. In Asia, China’s weakest annual GDP growth since 2022 in Q2 raised expectations of fresh stimulus, as officials highlighted that external risks remain elevated and demand trails supply. Utilities, healthcare, and consumer services led gains, partly tempered by weakness in consumer durables, electronic tech, and non-energy minerals. The big four banks rose between 0.2% and 1.0%, with notable gains in Seek (1.9%), ASX (1.4%), and TPG Telecom (0.7%). Traders now await inflation expectations data from the Melbourne Institute, alongside U.S. retail sales and jobless claims, for further economic cues."
+    },
+    {
+      "id": "4991011",
+      "time": "2026-07-16 08:56:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人、首形科技等成立未來智慧科技公司】近日，上海智形未來智慧科技有限公司成立，經營範圍包含：智慧機器人的研發；服務消費機器人銷售；智慧機器人銷售；人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司、首形科技（上海）有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019f686c-8949-7aab-8db3-3008556fb143",
+      "time": "2026-07-16 08:56:11",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Mirae Asset analyst says SK Hynix pullback offers buy opportunity】Mirae Asset Securities analyst Young-gun Kim said SK Hynix's recent pullback presents an attractive opportunity to add exposure, attributing the weakness to an overly sharp cooling of optimism around Q2 results and the ADR listing. Mirae Asset cut its Q2 operating profit forecast by 12% but kept a buy rating and a KRW4,200,000 target. Kim added that memory chip spot prices continue to firm and order-backlog growth is unlikely to slow materially."
+    },
+    {
+      "id": "4991010",
+      "time": "2026-07-16 08:55:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【關稅燃料雙壓催生搶運潮 美最繁忙集裝箱港洛杉磯港6月貨運量創同期新高】美國最繁忙的集裝箱港口洛杉磯港週三表示，其6月貨運量創同期紀錄新高，因從零售商到資料中心建設商等各類貨主紛紛搶運貨物，以規避燃料成本上漲和美國即將徵收新進口關稅的影響。洛杉磯港執行董事 Gene Seroka表示，該港6月共處理1,002,734個20英尺標準箱（TEU），較2025年6月增長12%，這也是這座擁有118年曆史的貿易門戶第三次單月吞吐量突破100萬個TEU大關。美國和以色列與伊朗的戰爭擾亂了中東及全球航運。船用燃料成本飆升，一些零售商和製造商也擔心關鍵原材料和工廠產品可能出現短缺，或運輸成本過高。美國總統特朗普政府計劃本月依據\"301條款\"實施新的關稅策略。"
+    },
+    {
+      "id": "te:economy:567341",
+      "time": "2026-07-16 08:54:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Strategic Petroleum Reserve Crude Oil Stocks",
+        "Importance 0"
+      ],
+      "text": "US Strategic Petroleum Reserve Lowest Since 1983 — US Strategic Petroleum Reserve crude inventories fell by 3 million barrels to 316.5 million for the week ending July 10, marking the lowest level since April 1983. The drawdown is part of a US initiative to release 172 million barrels from the reserve. Since the US-Israeli war on Iran began in late February, SPR inventories have declined by 98.9 million barrels. Meanwhile, total US crude inventories, including commercial and SPR stocks, fell by 123.9 million barrels to 730.8 million as of July 3, the lowest level since 1984."
+    },
+    {
+      "id": "4991009",
+      "time": "2026-07-16 08:54:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4060美元/盎司，日內漲0.20%。"
+    },
+    {
+      "id": "4991008",
+      "time": "2026-07-16 08:54:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓元維持漲勢，韓國央行加息25個基點。"
+    },
+    {
+      "id": "4991007",
+      "time": "2026-07-16 08:54:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部公開徵求《大資料產品功能要求》等20項行業標準報批意見】據工信部官網，根據行業標準制修訂計劃，相關標準化技術組織已完成電子行業《大資料產品功能要求》等20項行業標準的編制工作。為進一步聽取社會各界意見，現予以公示。"
+    },
     {
       "id": "mkt:019f686a-5727-7aab-8db3-29a7d14ce940",
       "time": "2026-07-16 08:53:47",
@@ -171203,80 +171290,6 @@
         "DXY"
       ],
       "text": "Iran has sent a letter to the United Nations protesting recent US strikes, state media reported. Iran's UN ambassador accused the US of attacking Iranian sovereignty and breaching the UN Charter."
-    },
-    {
-      "id": "4977831",
-      "time": "2026-07-09 08:58:00",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【中金財富期貨：真正壓制黃金的是流動性而非油價】油價上行對黃金形成一定壓制，但是目前金價對原油上漲逐漸脫敏，核心在於沃什想盡一切辦法降息的意圖被越來越多的投資者發現。真正壓制黃金的是流動性而非油價。我們仍認為這種背景下，黃金具備一定的反彈動能。"
-    },
-    {
-      "id": "4977830",
-      "time": "2026-07-09 08:57:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SK集團高管將訪問美國，參加SK海力士在納斯達克的上市首秀。"
-    },
-    {
-      "id": "4977829",
-      "time": "2026-07-09 08:55:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Hy3呼叫激增，WorkBuddy：已緊急擴容】據騰訊混元訊息，Hy3在WorkBuddy首發上線以來，受到了使用者們的廣泛支援。7月8日上午10時開始，算力資源消耗達到峰值，並出現排隊情況，下午排隊率一度超過50%。為了提供更好的Hy3使用體驗和穩定服務，團隊第一時間排程可用資源進行補充，目前已擴容完畢。"
-    },
-    {
-      "id": "4977828",
-      "time": "2026-07-09 08:55:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華燦光電：目前公司與康寧沒有直接的合作關係】華燦光電7月9日在互動平臺表示，目前公司與康寧沒有直接的合作關係。"
-    },
-    {
-      "id": "mkt:019f445e-fa75-7aab-8d02-49a60bab0a07",
-      "time": "2026-07-09 08:55:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran's Mehr news agency reported a powerful explosion rocked the U.S. Fifth Fleet in Bahrain."
-    },
-    {
-      "id": "4977827",
-      "time": "2026-07-09 08:54:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：巴林境內美國第五艦隊總部發生劇烈爆炸。"
-    },
-    {
-      "id": "te:markets:565441",
-      "time": "2026-07-09 08:54:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Rise on Tech Rebound — The Nikkei 225 Index jumped 2% to above 68,000 while the broader Topix Index gained 0.4% to 4,022 on Thursday, as Japanese equities snapped a two-day losing streak on the back of a rebound in technology stocks. Domestic shares also took cues from gains in US chipmakers and memory-related stocks overnight. Market sentiment was further supported by reports that South Korean chipmaker SK Hynix’s US listing was more than seven times oversubscribed, highlighting strong investor demand for artificial intelligence infrastructure. Meanwhile, US private equity firm Bain Capital sold its entire stake in Japanese flash memory producer Kioxia Holdings, although the company’s shares surged more than 7% during the session. Among other major technology gainers, Murata Manufacturing climbed 4%, Advantest advanced 6.9%, Tokyo Electron rose 4%, and Fujikura gained 5.1%."
-    },
-    {
-      "id": "mkt:019f445e-7535-7aab-8d02-4060f3064546",
-      "time": "2026-07-09 08:54:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhongjin Lingnan unit commissions Ganzhou high‑energy composite metal electroplating plant in Jiangxi】Zhongjin Lingnan unit Zhongjin Technology began production on July 6 at a Ganzhou high‑energy composite metal electroplating project in the Xinyu electroplating centralized control zone, Jiangxi province. The facility uses a continuous localized electroplating process covering pre‑treatment, nickel underplate, masked localized tin plating and post‑treatment; coating thickness tolerance is controlled within ±0.5μm and product performance is benchmarked to industry‑leading levels."
     }
   ]
 }

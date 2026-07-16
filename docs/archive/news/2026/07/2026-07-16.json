@@ -1,7 +1,94 @@
 {
   "date": "2026-07-16",
-  "count": 740,
+  "count": 749,
   "items": [
+    {
+      "id": "mkt:019f686d-a699-7aab-8db3-3837dad1745f",
+      "time": "2026-07-16 08:57:24",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【A-share valuation gauge: both indicators soften slightly】July 15 — The Buffett indicator (CSI 300 INDEX market cap/GDP) edged down to 90.51%, remaining near the upper end of its 10-year range. The CSI 300 INDEX equity risk premium (ERP) eased to 5.17%, holding near 5.2% in July and at the lower bound of its post‑Oct 2024 range, implying a limited yield advantage of equities over Chinese government bonds. Reference thresholds: Buffett indicator 70–100% = normal valuation (below 70 = undervalued; above 100 = overvalued). ERP historically: ≥6% has coincided with market troughs and signals attractive equity value; ≤4% typically aligns with cyclical market highs and lower investment value."
+    },
+    {
+      "id": "te:markets:567342",
+      "time": "2026-07-16 08:56:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Inch Higher — Australian shares edged up in early Thursday trade, with the benchmark hovering near 8,850 to notch a second day of gains. Firmer U.S. equity futures lifted sentiment after Wall Street closed higher overnight amid easing inflation signals and a strong start to the Q2 earnings season. Locally, Treasurer Jim Chalmers pressed regulators to adopt a more pro-growth stance to lift productivity. In Asia, China’s weakest annual GDP growth since 2022 in Q2 raised expectations of fresh stimulus, as officials highlighted that external risks remain elevated and demand trails supply. Utilities, healthcare, and consumer services led gains, partly tempered by weakness in consumer durables, electronic tech, and non-energy minerals. The big four banks rose between 0.2% and 1.0%, with notable gains in Seek (1.9%), ASX (1.4%), and TPG Telecom (0.7%). Traders now await inflation expectations data from the Melbourne Institute, alongside U.S. retail sales and jobless claims, for further economic cues."
+    },
+    {
+      "id": "4991011",
+      "time": "2026-07-16 08:56:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人、首形科技等成立未來智慧科技公司】近日，上海智形未來智慧科技有限公司成立，經營範圍包含：智慧機器人的研發；服務消費機器人銷售；智慧機器人銷售；人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司、首形科技（上海）有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019f686c-8949-7aab-8db3-3008556fb143",
+      "time": "2026-07-16 08:56:11",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish"
+      ],
+      "text": "【Mirae Asset analyst says SK Hynix pullback offers buy opportunity】Mirae Asset Securities analyst Young-gun Kim said SK Hynix's recent pullback presents an attractive opportunity to add exposure, attributing the weakness to an overly sharp cooling of optimism around Q2 results and the ADR listing. Mirae Asset cut its Q2 operating profit forecast by 12% but kept a buy rating and a KRW4,200,000 target. Kim added that memory chip spot prices continue to firm and order-backlog growth is unlikely to slow materially."
+    },
+    {
+      "id": "4991010",
+      "time": "2026-07-16 08:55:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【關稅燃料雙壓催生搶運潮 美最繁忙集裝箱港洛杉磯港6月貨運量創同期新高】美國最繁忙的集裝箱港口洛杉磯港週三表示，其6月貨運量創同期紀錄新高，因從零售商到資料中心建設商等各類貨主紛紛搶運貨物，以規避燃料成本上漲和美國即將徵收新進口關稅的影響。洛杉磯港執行董事 Gene Seroka表示，該港6月共處理1,002,734個20英尺標準箱（TEU），較2025年6月增長12%，這也是這座擁有118年曆史的貿易門戶第三次單月吞吐量突破100萬個TEU大關。美國和以色列與伊朗的戰爭擾亂了中東及全球航運。船用燃料成本飆升，一些零售商和製造商也擔心關鍵原材料和工廠產品可能出現短缺，或運輸成本過高。美國總統特朗普政府計劃本月依據\"301條款\"實施新的關稅策略。"
+    },
+    {
+      "id": "te:economy:567341",
+      "time": "2026-07-16 08:54:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Strategic Petroleum Reserve Crude Oil Stocks",
+        "Importance 0"
+      ],
+      "text": "US Strategic Petroleum Reserve Lowest Since 1983 — US Strategic Petroleum Reserve crude inventories fell by 3 million barrels to 316.5 million for the week ending July 10, marking the lowest level since April 1983. The drawdown is part of a US initiative to release 172 million barrels from the reserve. Since the US-Israeli war on Iran began in late February, SPR inventories have declined by 98.9 million barrels. Meanwhile, total US crude inventories, including commercial and SPR stocks, fell by 123.9 million barrels to 730.8 million as of July 3, the lowest level since 1984."
+    },
+    {
+      "id": "4991009",
+      "time": "2026-07-16 08:54:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4060美元/盎司，日內漲0.20%。"
+    },
+    {
+      "id": "4991008",
+      "time": "2026-07-16 08:54:31",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓元維持漲勢，韓國央行加息25個基點。"
+    },
+    {
+      "id": "4991007",
+      "time": "2026-07-16 08:54:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部公開徵求《大資料產品功能要求》等20項行業標準報批意見】據工信部官網，根據行業標準制修訂計劃，相關標準化技術組織已完成電子行業《大資料產品功能要求》等20項行業標準的編制工作。為進一步聽取社會各界意見，現予以公示。"
+    },
     {
       "id": "mkt:019f686a-5727-7aab-8db3-29a7d14ce940",
       "time": "2026-07-16 08:53:47",
