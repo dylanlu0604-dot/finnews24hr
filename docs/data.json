@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-16 23:07:55",
-  "count": 18743,
+  "updated": "2026-07-16 23:12:05",
+  "count": 18747,
   "items": [
+    {
+      "id": "mkt:019f6b7b-2d08-7aab-8dcc-04f624b0ce43",
+      "time": "2026-07-16 23:11:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Iran's Foreign Ministry said in recent days the United States has escalated aggressive attacks and committed multiple war crimes, notably striking civilian facilities and equipment."
+    },
+    {
+      "id": "mkt:019f6b7a-6520-7aab-8dcb-fb9a7c4063b4",
+      "time": "2026-07-16 23:10:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【29 countries sign founding agreement for World Artificial Intelligence Cooperation Organization in Shanghai】On July 16 in Shanghai, representatives of 29 countries signed the founding agreement for the World Artificial Intelligence Cooperation Organization; UN Secretary‑General Guterres and other national and international officials attended. Organizers framed the initiative as an alternative to a concentrated, closed‑source technology order—characterized by closed models, charged APIs, constrained compute and locked ecosystems—and said China seeks to explore a multilateral, open‑source, full‑factor approach to building the AI ecosystem."
+    },
+    {
+      "id": "4992685",
+      "time": "2026-07-16 23:09:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍稱已控制加沙地帶超60%區域】《以色列時報》16日援引以色列中央司令部司令阿維·布盧特的話說，以軍目前在加沙地帶的控制區域已超過60%。布盧特當天在加沙邊境附近舉行的一場指揮官交接儀式上說，加沙地帶超過60%的區域已處於以軍控制之下。以軍還在加沙邊境附近建立了安全區，由兩個師駐守，類似於2023年10月7日巴勒斯坦伊斯蘭抵抗運動（哈馬斯）越境襲擊以色列的情況“不可能再次發生”。布盧特稱，哈馬斯仍保留一定軍事能力，控制著加沙地帶其他部分割槽域，其“摧毀以色列”的目標並未改變。根據2025年10月生效的加沙停火第一階段協議，以色列控制加沙地帶53%的區域。今年5月，以色列總理內塔尼亞胡表示，以軍控制了加沙地帶約60%的區域，他已下令將控制範圍擴大至約70%。哈馬斯指責以方此舉公然違反停火協議。（新華社）"
+    },
+    {
+      "id": "4992684",
+      "time": "2026-07-16 23:08:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：國際貨幣基金組織已與葉門就一項新的工作人員監測專案達成工作人員層面協議。"
+    },
+    {
+      "id": "mkt:019f6b78-20e5-7aab-8dcb-f5eefdc3e49a",
+      "time": "2026-07-16 23:07:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market bulletin: Wildfires in France, sparked by extreme heat, have burned about 35,000 hectares."
+    },
     {
       "id": "mkt:019f6b77-9deb-7aab-8dcb-ebdba30ebdd7",
       "time": "2026-07-16 23:07:09",
@@ -9,6 +55,14 @@
         "MKT News"
       ],
       "text": "【Thai Premier Anutin arrives in Shanghai to attend 2026 World AI Conference and high-level AI governance meeting】Thailand Prime Minister Anutin arrived at Shanghai Hongqiao International Airport on the evening of the 16th to attend the 2026 World Artificial Intelligence Conference and the High-Level Meeting on AI Global Governance and to conduct an official visit to China. This is Anutin’s first formal visit to China since taking office. In 2025 China and Thailand signed an MoU to deepen AI cooperation, covering joint AI development and governance and measures to promote AI technologies for both countries’ populations."
+    },
+    {
+      "id": "4992683",
+      "time": "2026-07-16 23:07:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國總理阿努廷抵達上海 出席2026世界人工智慧大會暨人工智慧全球治理高階別會議】16日晚，泰國總理阿努廷乘機抵達上海虹橋國際機場，他將出席2026世界人工智慧大會暨人工智慧全球治理高階別會議並對中國進行正式訪問。這是阿努廷就任總理後首次正式訪華，充分體現了雙方對發展中泰關係的高度重視。2025年，中泰兩國簽署了關於深化人工智慧合作的諒解備忘錄，加強人工智慧發展和治理合作，推動人工智慧技術造福兩國人民。（央視新聞）"
     },
     {
       "id": "4992682",
@@ -172319,22 +172373,6 @@
         "國際"
       ],
       "text": "【伊朗釋出導彈打擊美方目標影片畫面】據法新社9日報道，伊朗伊斯蘭革命衛隊當天釋出導彈發射影片畫面，革命衛隊稱，導彈打擊的是該地區的美方目標。伊朗伊斯蘭革命衛隊9日發表宣告說，革命衛隊航空航天部隊當天向美方“在西亞的指揮控制中心”及約旦阿茲拉克空軍基地發射了10枚彈道導彈。宣告說，當地時間14時20分，革命衛隊用10枚彈道導彈打擊了美方“在西亞的指揮控制中心”以及位於約旦阿茲拉克的敵方空軍基地。宣告未說明襲擊造成的具體損失或人員傷亡情況。宣告警告說，若美方再次發動襲擊，美國在本地區的其他基地也將遭到伊方打擊。(新華社)"
-    },
-    {
-      "id": "mkt:019f476e-78fb-7aab-8d1c-3d98ab57fd08",
-      "time": "2026-07-09 23:10:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said Israel will remain in the south Lebanon security zone as needed."
-    },
-    {
-      "id": "mkt:019f476c-6e12-7aab-8d1c-37414e1ef04e",
-      "time": "2026-07-09 23:08:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State Bank of Pakistan said Pakistan's gross foreign exchange reserves stood at $24.0 billion as of July 3, 2026."
     }
   ]
 }
