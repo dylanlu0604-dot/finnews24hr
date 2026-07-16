@@ -1,7 +1,47 @@
 {
   "date": "2026-07-17",
-  "count": 406,
+  "count": 410,
   "items": [
+    {
+      "id": "mkt:019f6cc6-d069-7aab-8dd1-66b318b1b553",
+      "time": "2026-07-17 05:13:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Brazil foreign minister says U.S. 25% tariffs on some imports are politically motivated】On the 16th, Brazil foreign minister Vieira said the U.S. move to impose 25% tariffs on certain Brazilian imports has no factual basis and is politically motivated, calling the Section 301 investigation under the Trade Act of 1974 a unilateral U.S. procedure and the measures unacceptable. Vice President Alckmin said the tariffs are unfair and baseless, adding that U.S. data over the past 15 years show a trade surplus with Brazil and that the Section 301 rationale rests on false grounds."
+    },
+    {
+      "id": "te:markets:567651",
+      "time": "2026-07-17 05:11:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Closes Lower on New US Tariffs — The Ibovespa fell 1.2% to close at 173,825 on Thursday after the US announced a new 25% tariff on Brazilian imports. According to the announcement, the new tariff will take effect on July 22. Vale fell 2.0%, while steelmakers also posted losses, with Gerdau down 1.2% and CSN shedding 2.7%. Meanwhile, the conflict in the Middle East pushed oil prices higher on supply concerns, fueling inflation worries. Bond yields also moved higher, weighing on financials and the broader market. Itaú shed 1.4%, Bradesco lost 1.0%, and Itaúsa was down 1.0%. Utilities also traded lower, with Axia losing 1.4% and Sabesp shedding 2.3%. Other notable laggards included Petrobras (-1.7%) and WEG (-1.7%)."
+    },
+    {
+      "id": "4992969",
+      "time": "2026-07-17 05:11:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克評Kimi K3模型跑分情況：厲害。"
+    },
+    {
+      "id": "mkt:019f6cc4-37a1-7aab-8dd1-58f8f693b7fd",
+      "time": "2026-07-17 05:10:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Elon Musk said the Kimi K3 model's benchmark performance was impressive."
+    },
     {
       "id": "4992968",
       "time": "2026-07-17 05:04:05",
