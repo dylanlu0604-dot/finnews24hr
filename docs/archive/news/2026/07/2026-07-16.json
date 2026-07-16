@@ -1,7 +1,110 @@
 {
   "date": "2026-07-16",
-  "count": 939,
+  "count": 949,
   "items": [
+    {
+      "id": "te:markets:567359",
+      "time": "2026-07-16 09:47:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Mobile Stock Price Hits 4-week High — China Mobile shares increased to 79.80 HKD, the highest since June 2026. Over the past 4 weeks, China Mobile lost 1.42%, and in the last 12 months, it decreased 8.82%."
+    },
+    {
+      "id": "mkt:019f689a-2b3c-7aab-8db5-751eaf70446b",
+      "time": "2026-07-16 09:46:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "7011.T"
+      ],
+      "text": "Mitsubishi Heavy Industries has joined NVIDIA's partner network as a power and cooling partner to advance integrated power and cooling solutions for NVIDIA DSX."
+    },
+    {
+      "id": "4991134",
+      "time": "2026-07-16 09:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股儲存概念股延續弱勢 瀾起科技跌超12%】截至發稿，瀾起科技(06809.HK)跌12.28%，兆易創新(06809.HK)跌7.61%。"
+    },
+    {
+      "id": "mkt:019f689a-2140-7aab-8db5-6e1f223ffc0e",
+      "time": "2026-07-16 09:45:59",
+      "tags": [
+        "MKT News",
+        "00100.HK"
+      ],
+      "text": "【MiniMax Code to roll out remote-control and browser-automation features】MiniMax (00100.HK) has released the MiniMax Code 2.0 desktop client for download, saying it improves waiting, task interruption and context handovers in long-running jobs. The company said it will deploy remote control, browser automation, target mode and plan mode this month to expand support for complex tasks and cross‑environment collaboration."
+    },
+    {
+      "id": "4991133",
+      "time": "2026-07-16 09:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱重工：加入 英偉達合作伙伴網路，成為電源與散熱合作伙伴，共同推進 英偉達 DSX 的整合電源與散熱技術。"
+    },
+    {
+      "id": "4991132",
+      "time": "2026-07-16 09:45:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【匈牙利前外交部長加入比亞迪】當地時間7月15日，匈牙利前外交部長西雅爾多（Peter Szijjarto）宣佈辭去議員職務，加入中國電動汽車巨頭比亞迪。 西雅爾多自2002年起擔任匈牙利國民議會議員，並於2014年起擔任匈牙利外長，直至今年5月。7月15日，他在臉書上宣佈將離開議會，因為他收到了一份來自“全球領先企業之一”比亞迪的“極具聲望的邀請，擔任一個國際職位”。 現年47歲的西雅爾多寫道，“比亞迪是過去20年來汽車行業最成功的企業之一，也是全球領先的新能源汽車製造商。從今天起，我將擔任負責集團對外關係及新業務線拓展的高管”。 據悉，比亞迪於2024年在匈牙利南部城市塞格德動工建設其首個歐洲電動汽車生產廠，並於去年宣佈將把其區域企業及研發中心從荷蘭遷至布達佩斯。（中國僑網）"
+    },
+    {
+      "id": "mkt:019f6899-443e-7aab-8db5-614753aab9ac",
+      "time": "2026-07-16 09:45:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share printed circuit board (PCB) sector jumped; Xianfeng Holdings hit the daily trading limit and Yihao New Materials rose over 16%. Zecheng Electronics, Jingwang Electronics, Chongda Technology, Shengyi Electronics and Nanya New Materials also advanced."
+    },
+    {
+      "id": "mkt:019f6899-21aa-7aab-8db5-5b4a48edec51",
+      "time": "2026-07-16 09:44:53",
+      "tags": [
+        "MKT News",
+        "00325.HK",
+        "Impact bullish",
+        "09992.HK",
+        "09896.HK"
+      ],
+      "text": "Hong Kong new-consumption names rallied: Buluoke (00325.HK) rose over 7%, Pop Mart (09992.HK) climbed more than 4%, Miniso (09896.HK) and Guming (01364.HK) also advanced."
+    },
+    {
+      "id": "4991131",
+      "time": "2026-07-16 09:44:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構預測國內成品油價格將迎年內第九漲】7月17日24時，成品油調價視窗將再度開啟。記者今日從行業機構隆眾資訊獲悉，預計成品油上調幅度在250元/噸左右，摺合升價大約0.18元左右，屆時將迎年內第九次上漲。據測算，以70升的油箱來計算，私家車主加滿一箱油將多花13元左右。但最終調價幅度還需以官方公佈為準。（第一財經）"
+    },
+    {
+      "id": "4991130",
+      "time": "2026-07-16 09:43:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升1.5個基點至2.700%。"
+    },
     {
       "id": "4991129",
       "time": "2026-07-16 09:43:39",

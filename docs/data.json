@@ -1,7 +1,110 @@
 {
-  "updated": "2026-07-16 09:44:30",
-  "count": 18605,
+  "updated": "2026-07-16 09:48:28",
+  "count": 18601,
   "items": [
+    {
+      "id": "te:markets:567359",
+      "time": "2026-07-16 09:47:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Mobile Stock Price Hits 4-week High — China Mobile shares increased to 79.80 HKD, the highest since June 2026. Over the past 4 weeks, China Mobile lost 1.42%, and in the last 12 months, it decreased 8.82%."
+    },
+    {
+      "id": "4991134",
+      "time": "2026-07-16 09:46:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股儲存概念股延續弱勢 瀾起科技跌超12%】截至發稿，瀾起科技(06809.HK)跌12.28%，兆易創新(06809.HK)跌7.61%。"
+    },
+    {
+      "id": "mkt:019f689a-2b3c-7aab-8db5-751eaf70446b",
+      "time": "2026-07-16 09:46:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "7011.T"
+      ],
+      "text": "Mitsubishi Heavy Industries has joined NVIDIA's partner network as a power and cooling partner to advance integrated power and cooling solutions for NVIDIA DSX."
+    },
+    {
+      "id": "mkt:019f689a-2140-7aab-8db5-6e1f223ffc0e",
+      "time": "2026-07-16 09:45:59",
+      "tags": [
+        "MKT News",
+        "00100.HK"
+      ],
+      "text": "【MiniMax Code to roll out remote-control and browser-automation features】MiniMax (00100.HK) has released the MiniMax Code 2.0 desktop client for download, saying it improves waiting, task interruption and context handovers in long-running jobs. The company said it will deploy remote control, browser automation, target mode and plan mode this month to expand support for complex tasks and cross‑environment collaboration."
+    },
+    {
+      "id": "4991133",
+      "time": "2026-07-16 09:45:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱重工：加入 英偉達合作伙伴網路，成為電源與散熱合作伙伴，共同推進 英偉達 DSX 的整合電源與散熱技術。"
+    },
+    {
+      "id": "4991132",
+      "time": "2026-07-16 09:45:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【匈牙利前外交部長加入比亞迪】當地時間7月15日，匈牙利前外交部長西雅爾多（Peter Szijjarto）宣佈辭去議員職務，加入中國電動汽車巨頭比亞迪。 西雅爾多自2002年起擔任匈牙利國民議會議員，並於2014年起擔任匈牙利外長，直至今年5月。7月15日，他在臉書上宣佈將離開議會，因為他收到了一份來自“全球領先企業之一”比亞迪的“極具聲望的邀請，擔任一個國際職位”。 現年47歲的西雅爾多寫道，“比亞迪是過去20年來汽車行業最成功的企業之一，也是全球領先的新能源汽車製造商。從今天起，我將擔任負責集團對外關係及新業務線拓展的高管”。 據悉，比亞迪於2024年在匈牙利南部城市塞格德動工建設其首個歐洲電動汽車生產廠，並於去年宣佈將把其區域企業及研發中心從荷蘭遷至布達佩斯。（中國僑網）"
+    },
+    {
+      "id": "mkt:019f6899-443e-7aab-8db5-614753aab9ac",
+      "time": "2026-07-16 09:45:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share printed circuit board (PCB) sector jumped; Xianfeng Holdings hit the daily trading limit and Yihao New Materials rose over 16%. Zecheng Electronics, Jingwang Electronics, Chongda Technology, Shengyi Electronics and Nanya New Materials also advanced."
+    },
+    {
+      "id": "mkt:019f6899-21aa-7aab-8db5-5b4a48edec51",
+      "time": "2026-07-16 09:44:53",
+      "tags": [
+        "MKT News",
+        "00325.HK",
+        "Impact bullish",
+        "09992.HK",
+        "09896.HK"
+      ],
+      "text": "Hong Kong new-consumption names rallied: Buluoke (00325.HK) rose over 7%, Pop Mart (09992.HK) climbed more than 4%, Miniso (09896.HK) and Guming (01364.HK) also advanced."
+    },
+    {
+      "id": "4991131",
+      "time": "2026-07-16 09:44:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構預測國內成品油價格將迎年內第九漲】7月17日24時，成品油調價視窗將再度開啟。記者今日從行業機構隆眾資訊獲悉，預計成品油上調幅度在250元/噸左右，摺合升價大約0.18元左右，屆時將迎年內第九次上漲。據測算，以70升的油箱來計算，私家車主加滿一箱油將多花13元左右。但最終調價幅度還需以官方公佈為準。（第一財經）"
+    },
+    {
+      "id": "4991130",
+      "time": "2026-07-16 09:43:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升1.5個基點至2.700%。"
+    },
     {
       "id": "4991129",
       "time": "2026-07-16 09:43:39",
@@ -170928,140 +171031,6 @@
         "焦點"
       ],
       "text": "南向資金淨買入額達50億港元。"
-    },
-    {
-      "id": "mkt:019f448f-8e84-7aab-8d04-ff8fa2b6dc67",
-      "time": "2026-07-09 09:48:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's Interior Ministry said domestic alarms have been activated."
-    },
-    {
-      "id": "4977960",
-      "time": "2026-07-09 09:48:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股電池化學品板塊短線走低】龍蟠科技觸及跌停，新宙邦、ST合縱、濱海能源跟跌。"
-    },
-    {
-      "id": "4977959",
-      "time": "2026-07-09 09:48:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股鋰板塊短線走低】融捷股份觸及跌停"
-    },
-    {
-      "id": "4977958",
-      "time": "2026-07-09 09:47:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【能源金屬、鋰礦板塊再度走低，融捷股份觸及跌停】能源金屬、鋰礦板塊再度走低，融捷股份觸及跌停，盛新鋰能、天齊鋰業、永杉鋰業、永興材料跟跌。"
-    },
-    {
-      "id": "4977957",
-      "time": "2026-07-09 09:47:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賽騰股份成立精密製造公司，含半導體器件業務】企查查APP顯示，近日，蘇州坤曜精密製造有限公司成立，經營範圍包含：半導體器件專用裝置製造；半導體器件專用裝置銷售；電子元器件批發；電子元器件製造；半導體分立器件製造等。企查查股權穿透顯示，該公司由賽騰股份全資持股。"
-    },
-    {
-      "id": "mkt:019f448e-9d58-7aab-8d04-f6c5d2cc422c",
-      "time": "2026-07-09 09:47:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share battery sector slipped intraday; Longpan Technology hit the daily down limit, while Tianhua New Energy, Dexin Technology, Tinci Materials, Xiongtai and Shanshan fell in follow-through."
-    },
-    {
-      "id": "4977956",
-      "time": "2026-07-09 09:47:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【AI應用端異動拉昇 歡瑞世紀6天3板】早盤AI應用端異動拉昇，歡瑞世紀6天3板，海天瑞聲、華凱易佰、福石控股、賽意資訊、中文線上跟漲。"
-    },
-    {
-      "id": "4977955",
-      "time": "2026-07-09 09:46:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體矽片概念走強 神工股份、有研矽均漲超12%】半導體矽片概念走強，神工股份、有研矽均漲超12%，滬矽產業、立昂微、西安奕材、TCL中環跟漲。"
-    },
-    {
-      "id": "mkt:019f448d-cd91-7aab-8d04-e92ef83d0b26",
-      "time": "2026-07-09 09:46:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-shares storage-chip sector surged. Tianshan Electronics hit a 20% limit-up; Zhongjing Electronics earlier reached a limit-up. Puran, Youyan Silicon, Hengkun New Materials, Shangluo Electronics, Shengong and Shanghai Sinyang all gained over 10%."
-    },
-    {
-      "id": "4977954",
-      "time": "2026-07-09 09:46:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【電池板塊短線走低，龍蟠科技跌停】電池板塊短線走低，龍蟠科技跌停，天華新能、德新科技、天賜材料、雄韜股份、杉杉股份等跟跌。"
-    },
-    {
-      "id": "4977953",
-      "time": "2026-07-09 09:45:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國氣象局啟動重大氣象災害Ⅱ級應急響應】颱風“巴威”逐漸向臺灣東北部沿海靠近，受“巴威”登陸及遠距離水汽輸送影響，10日起，我國華東、華中、華北、東北地區將有大範圍強風雨過程，中央氣象臺於9日6時繼續釋出颱風藍色、暴雨黃色和強對流天氣黃色預警。經綜合研判和應急會商，中國氣象局啟動重大氣象災害（颱風、暴雨、強對流）Ⅱ級應急響應。"
-    },
-    {
-      "id": "4977952",
-      "time": "2026-07-09 09:45:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港股晶片板塊盤初走高，兆易創新漲超13%】港股晶片板塊盤初走高，兆易創新漲超13%，瀾起科技漲超8%，天數智芯、納芯微、基本半導體跟漲。"
-    },
-    {
-      "id": "4977951",
-      "time": "2026-07-09 09:45:15",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【林業概念震盪反彈，豐林集團漲停】林業概念震盪反彈，豐林集團漲停，青山紙業、康欣新材、平潭發展、交投生態、林海股份等跟漲。"
-    },
-    {
-      "id": "mkt:019f448c-9d59-7aab-8d04-e38d75a3320a",
-      "time": "2026-07-09 09:44:53",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share storage chip sector strengthened; Guolian An Kechuang LOF rose more than 5%."
     }
   ]
 }
