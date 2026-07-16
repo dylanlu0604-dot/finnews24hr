@@ -1,7 +1,131 @@
 {
-  "updated": "2026-07-17 01:39:42",
-  "count": 18760,
+  "updated": "2026-07-17 01:43:42",
+  "count": 18772,
   "items": [
+    {
+      "id": "mkt:019f6c06-8642-7aab-8dce-ca4ac157ae5a",
+      "time": "2026-07-17 01:43:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says recent attacks on Iran occurred because Iran violated a memorandum of understanding."
+    },
+    {
+      "id": "mkt:019f6c06-6bbc-7aab-8dce-c3706d0df9a1",
+      "time": "2026-07-17 01:43:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "White House says Iran remains in contact with the United States and hopes to reach an agreement."
+    },
+    {
+      "id": "4992822",
+      "time": "2026-07-17 01:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：近期襲擊行動系伊朗違反諒解備忘錄所致。"
+    },
+    {
+      "id": "4992821",
+      "time": "2026-07-17 01:42:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "白宮：伊朗仍在與美國談判，希望達成協議。"
+    },
+    {
+      "id": "mkt:019f6c06-0c7f-7aab-8dce-b872f1fb0a7d",
+      "time": "2026-07-17 01:42:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "WTI crude down 2.00% intraday, trading at $78.13/bbl."
+    },
+    {
+      "id": "4992820",
+      "time": "2026-07-17 01:42:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1.6%。"
+    },
+    {
+      "id": "4992819",
+      "time": "2026-07-17 01:42:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：石油出口增長大多來自庫存，而非新增產量。"
+    },
+    {
+      "id": "4992818",
+      "time": "2026-07-17 01:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮新聞秘書：白宮指南警告不要賭博。"
+    },
+    {
+      "id": "4992817",
+      "time": "2026-07-17 01:41:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "白宮新聞秘書：卡什已就提詞器操作員問題向美國商品期貨交易委員會 (CFTC) 通報情況。"
+    },
+    {
+      "id": "mkt:019f6c05-0760-7aab-8dce-b5fb83f1baab",
+      "time": "2026-07-17 01:41:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Commodities",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fed's Logan: Even if oil prices remain elevated, constraints such as natural gas transportation capacity could curb producers' ability to raise output."
+    },
+    {
+      "id": "mkt:019f6c04-dbf5-7aab-8dce-ae2aff5f00e3",
+      "time": "2026-07-17 01:41:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "LOGAN of the Fed said oil export increases stem mainly from inventory releases rather than new production."
+    },
+    {
+      "id": "4992816",
+      "time": "2026-07-17 01:40:38",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：即便油價維持高位，天然氣輸送能力受限等制約因素仍會令生產商無法擴大產量。"
+    },
+    {
+      "id": "4992815",
+      "time": "2026-07-17 01:40:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮新聞秘書：涉事提詞器操作員將不再在白宮任職。"
+    },
     {
       "id": "4992814",
       "time": "2026-07-17 01:39:03",
@@ -172478,14 +172602,6 @@
         "國際"
       ],
       "text": "【國際原子能機構：俄烏衝突給核電站安全帶來持續風險】國際原子能機構總幹事格羅西9日表示，近日駐紮在烏克蘭各核電站的國際原子能機構團隊多次聽到軍事活動的聲音，包括無人機和槍聲。目前尚無關於核電站受損的報告。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f47f7-67a7-7aab-8d1f-38a4af9a395c",
-      "time": "2026-07-10 01:40:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy says allies will discuss cooperation on anti-ballistic missile defenses at an upcoming conference in France."
     }
   ]
 }
