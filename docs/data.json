@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-17 06:33:49",
-  "count": 18790,
+  "updated": "2026-07-17 06:37:47",
+  "count": 18791,
   "items": [
+    {
+      "id": "mkt:019f6d13-aa3b-7aab-8dd2-22017638096c",
+      "time": "2026-07-17 06:37:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump Media launches paid Truth API for fastest feed of top Truth Social accounts】Refinitiv reports Trump Media & Technology Group has launched a paid data interface, Truth API, offering the fastest access to posts from the top 10 Truth Social accounts, including Trump’s. The product, launched Aug. 1, transmits those accounts’ updates in real time at speeds the company says exceed the platform’s regular push notifications. A company spokesperson said the API is aimed at algorithmic trading firms and other institutions for which information latency is costly; such users previously relied on manual monitoring."
+    },
+    {
+      "id": "4993005",
+      "time": "2026-07-17 06:36:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普帖文花錢就能搶先看】據路透社報道，美國總統特朗普旗下的“特朗普媒體與科技集團”近日推出一款付費授權資料介面，將提供來自“真實社交（Truth Social）”平臺頭部賬號——包括特朗普本人賬號——帖文的“最快”訪問通道。據稱，這款名為“真實介面（Truth API）”的產品8月1日正式上線，將以遠超“真實社交”平臺常規推送通知的速度，向客戶實時傳輸該平臺最具影響力的10個賬號的動態。公司發言人稱，該產品專為演算法交易公司等“受資訊延遲成本影響最大”的機構設計。“此前，高度關注“真實社交”熱門帖文的機構只能依賴人工盯盤。 報道稱，此舉標誌著特朗普媒體與科技集團正式進軍資料授權業務，為公司開闢了全新收入來源。集團臨時執行長凱文·麥格恩表示：“市場走勢早已深受‘真實社交’帖文影響……隨著產品普及率提升，我們預計‘真實介面’將成為公司持續且可觀的收入來源。” 特朗普媒體科技集團由特朗普於2021年創立，2024年在納斯達克交易所上市。特朗普曾多次透過其“真實社交”賬號釋出重磅訊息，使得該平臺成為交易員、企業和金融機構不可或缺的資訊源。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f6d12-9416-7aab-8dd2-19d747b859ef",
+      "time": "2026-07-17 06:36:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Iran-backed Iraqi militia offers $10m bounty for killing US President Trump, media says】Media reported Iran-backed Iraqi militia Islamic Resistance announced a $10 million bounty for killing US President Trump."
+    },
+    {
+      "id": "mkt:019f6d12-1687-7aab-8dd2-16077a68150c",
+      "time": "2026-07-17 06:35:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US defense secretary Hegseth said Iran does not control the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:567654",
+      "time": "2026-07-17 06:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Drops by 3.83% — Top commodity losers are Silver (-3.83%), Gold (-2.07%) and Lithium Carbonate (-1.95%)."
+    },
+    {
+      "id": "4993004",
+      "time": "2026-07-17 06:34:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：伊朗並未掌控霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f6d10-a0d2-7aab-8dd2-0ed43d1c9145",
+      "time": "2026-07-17 06:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran denies any US national released from its prisons】On the 16th local time, Iran rejected U.S. President Trump's claim that a U.S. detainee had been released, saying checks found no U.S. national matching Trump's description had left Iranian prisons and that no U.S. prisoner swap occurred. Trump had posted that Iran had allowed a U.S. citizen to leave, saying she was \"wrongfully detained\" in December 2024 under the Biden administration and is \"safe and well.\""
+    },
+    {
+      "id": "4993003",
+      "time": "2026-07-17 06:33:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面否認有美籍人員從該國監獄獲釋】當地時間16日，伊朗方面駁斥美國總統特朗普有關美籍囚犯獲釋的說法。伊朗方面稱，經核查，目前沒有符合特朗普所述情況的美籍囚犯從伊朗監獄獲釋，也未發生任何美籍囚犯交換事件。特朗普此前在社交媒體平臺發文表示，伊朗已允許一名美國公民離開該國。特朗普稱，這名美國公民於2024年12月在拜登政府時期被“錯誤扣留”。“她目前已安全離開伊朗，狀況良好”。（央視新聞）"
+    },
     {
       "id": "mkt:019f6d0f-d978-7aab-8dd2-03dfd9b85b9d",
       "time": "2026-07-17 06:33:02",
@@ -172736,68 +172812,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Coffee Rallies by 10.13% — Top commodity gainers are Coffee (10.13%) and Cocoa (5.14%). Biggest losers are Corn (-1.61%) and Canola (-1.43%)."
-    },
-    {
-      "id": "mkt:019f4906-ebde-7aab-8d22-0613b2864810",
-      "time": "2026-07-10 06:36:58",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal reports U.S. federal regulators are expected to certify the penultimate variant of the Boeing 737 family later this month."
-    },
-    {
-      "id": "4979809",
-      "time": "2026-07-10 06:36:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "【創新藥板塊向好趨勢不改 優質資產已進入配置區間】近期，A股創新藥板塊在經歷一輪強勁反彈後遭遇短期調整，7月9日企穩回升。本輪行情由科技板塊資金高低切換與政策面利好共同驅動，港股創新藥同步走強，板塊回購潮持續升溫。產業層面，中國創新藥出海延續高增態勢，BD（商務拓展）合作從傳統單一授權向共同開發、利潤共享模式升級，CXO（醫藥研發生產外包服務組織）產業鏈需求回暖和供給出清並行，盈利修復預期增強。分析人士認為，創新藥板塊核心關注點正從“能否出海”轉向“商業化利潤能否兌現”，優質創新藥企估值已進入具備吸引力的配置區間，短期波動不改中長期向好趨勢，建議把握逢低配置機會。 (中證報)"
-    },
-    {
-      "id": "4979808",
-      "time": "2026-07-10 06:35:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：隨著YouTube不斷吸引電視觀眾，迪士尼正探索為Disney+增設免費層級。"
-    },
-    {
-      "id": "te:markets:565804",
-      "time": "2026-07-10 06:35:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 3.35% — Top commodity loser is Lithium Carbonate (-3.35%). Gains are led by Silver (2.87%), Platinum (2.66%), Silicon (2.40%) and Gold (1.18%)."
-    },
-    {
-      "id": "4979807",
-      "time": "2026-07-10 06:35:11",
-      "tags": [
-        "央行",
-        "公司"
-      ],
-      "text": "【券商年內領190張罰單 經紀業務成違規重點】據企業預警通資料統計，2026年以來，央行、證監會及各地證監局、證券交易所等監管機構對券商及從業人員共開出190張罰單，涉及超50家券商。其中，經紀業務的罰單數量最多，主要涉及員工私下接受客戶委託買賣證券、營銷違規等問題；投行業務領域的罰單數量次之，涉及盡職調查履職不到位，債券內控把關不嚴等問題。在業內人士看來，當前監管視野已超越券商單一業務環節的合規性，延伸至公司治理及客戶服務的全流程。對於券商而言，只有將合規真正融入公司治理與業務擴張的全過程，才能在激烈的市場競爭中穩健發展。 (中證報)"
-    },
-    {
-      "id": "4979806",
-      "time": "2026-07-10 06:34:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：波音最新型號MAX機型在延誤多年後即將獲得美國聯邦航空管理局（FAA）的關鍵認證。"
-    },
-    {
-      "id": "4979805",
-      "time": "2026-07-10 06:34:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：聯邦監管機構預計將於本月晚些時候對波音第二新版本的737機型頒發認證。"
     }
   ]
 }
