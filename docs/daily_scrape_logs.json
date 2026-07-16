@@ -1,6 +1,155 @@
 {
-  "updated": "2026-07-16 09:42:21",
+  "updated": "2026-07-17 07:58:38",
   "items": [
+    {
+      "id": "2026071707",
+      "date": "2026-07-17",
+      "run_hour": 7,
+      "started_at": "2026-07-17 07:58:23",
+      "finished_at": "2026-07-17 07:58:38",
+      "status": "PARTIAL",
+      "total_sources": 12,
+      "success_count": 6,
+      "failure_count": 6,
+      "success_sources": [
+        "cnyes",
+        "edwardjones",
+        "jin10",
+        "fx678",
+        "investrade",
+        "westpac"
+      ],
+      "failed_sources": [
+        "taishin",
+        "cathay",
+        "nomura",
+        "factset",
+        "uob",
+        "mizuho"
+      ],
+      "sources": [
+        {
+          "source": "cnyes",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "〈美股盤後〉費半重挫超4% 台積電ADR跌逾2% SK海力士ADR慘崩超13% | 鉅亨網 - 美股雷達",
+          "url": "https://news.cnyes.com/news/id/6537396",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-17"
+        },
+        {
+          "source": "taishin",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "taishin 日期不符：頁面最新日期是 2026-07-16，預期日期是 2026-07-17",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-16"
+        },
+        {
+          "source": "cathay",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "cathay 日期不符：頁面最新日期是 2026-07-15，預期日期是 2026-07-17",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-15"
+        },
+        {
+          "source": "edwardjones",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap",
+          "expected_date": "2026-07-16",
+          "actual_date": "2026-07-16"
+        },
+        {
+          "source": "nomura",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "nomura 日期不符：頁面最新日期是 2026-07-16，預期日期是 2026-07-17",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-16"
+        },
+        {
+          "source": "factset",
+          "ok": false,
+          "status": "TRANSCRIPT_ERROR",
+          "reason": "無法取得 FactSet 字幕：Could not retrieve a transcript for the video https://www.youtube.com/watch?v=nCDZvHejZ3I! This is most likely caused by: YouTube is blocking requests from your IP. This usually is due to one of the following reasons: - You have done too many requests and your IP has been blocked by YouTube - You are doing requests from an IP belonging to a cloud provider (like AWS, Google Cloud Platform, Azure, etc.). Unfortunately, most IPs from cloud providers are blocked by YouTube. There are two things you can do to work around this: 1. Use proxies to hide your IP address, as explained in the \"Working around IP bans\" section of the README (https://github.com/jdepoix/youtube-transcript-api?tab=readme-ov-file#working-around-ip-bans-requestblocked-or-ipblocked-exception). 2. (NOT RECOMMENDED) If you authenticate your requests using cookies, you will be able to continue doing requests for a while. However, YouTube will eventually permanently ban the account that you have used to authenticate with! So only do this if you don't mind your account being banned! If you are sure that the described cause is not responsible for this error and that a transcript should be retrievable, please create an issue at https://github.com/jdepoix/youtube-transcript-api/issues. Please add which version of youtube_transcript_api you are using and provide the information needed to replicate the error. Also make sure that there are no open issues which already describe your problem!",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-16",
+          "actual_date": ""
+        },
+        {
+          "source": "jin10",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://xnews.jin10.com/details/224707",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-17"
+        },
+        {
+          "source": "fx678",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://news.fx678.com/202607170650552462.shtml",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-17"
+        },
+        {
+          "source": "investrade",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://investrade.com/market-review-july-16-2026/",
+          "expected_date": "2026-07-16",
+          "actual_date": "2026-07-16"
+        },
+        {
+          "source": "westpac",
+          "ok": true,
+          "status": "SUCCESS",
+          "reason": "",
+          "title": "",
+          "url": "https://library.westpaciq.com.au/content/dam/public/westpaciq/documents/aus/2026/07/WBC_MorningReport17Jul2026.pdf",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-17"
+        },
+        {
+          "source": "uob",
+          "ok": false,
+          "status": "NETWORK_ERROR",
+          "reason": "網路或 HTTP 請求失敗：404 Client Error: Not Found for url: https://www.uobgroup.com/assets/web-resources/research/pdf/MO_260717.pdf",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-17",
+          "actual_date": ""
+        },
+        {
+          "source": "mizuho",
+          "ok": false,
+          "status": "DATE_MISMATCH",
+          "reason": "mizuho 日期不符：頁面最新日期是 2026-07-16，預期日期是 2026-07-17",
+          "title": "",
+          "url": "",
+          "expected_date": "2026-07-17",
+          "actual_date": "2026-07-16"
+        }
+      ]
+    },
     {
       "id": "2026071609",
       "date": "2026-07-16",
