@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-16 23:36:33",
-  "count": 18741,
+  "updated": "2026-07-16 23:40:38",
+  "count": 18739,
   "items": [
+    {
+      "id": "mkt:019f6b95-0830-7aab-8dcc-ba5691c5a631",
+      "time": "2026-07-16 23:39:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "On July 16, European equity closes: Germany's DAX 30 fell 109.82 points (-0.44%) to 24,908.99; UK’s FTSE 100 rose 54.63 points (+0.52%) to 10,570.55; France's CAC 40 slipped 4.57 points (-0.05%) to 8,377.86; Euro Stoxx 50 gained 15.98 points (+0.26%) to 6,281.56; Spain's IBEX 35 added 15.07 points (+0.08%) to 19,290.57; Italy's FTSE MIB dipped 71.75 points (-0.14%) to 52,339.50."
+    },
+    {
+      "id": "4992710",
+      "time": "2026-07-16 23:39:09",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：提詞器操作員在預測平臺Kalshi上就特朗普的發言內容下注，CFTC正在調查。"
+    },
+    {
+      "id": "mkt:019f6b94-2287-7aab-8dcc-b6e9117dc946",
+      "time": "2026-07-16 23:38:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China foreign minister Wang Yi meets Pakistan deputy prime minister and foreign minister Dar】China foreign minister Wang Yi met Pakistan deputy prime minister and foreign minister Dar in Shanghai on July 16 during the World Artificial Intelligence Conference. Pakistan signed the agreement establishing the World Artificial Intelligence Cooperation Organization; China said Pakistan’s accession aligns with its long-term interests and adds a new dimension to the China‑Pakistan all‑weather strategic partnership. China characterized AI as a strategic technology frontier and said the new organization will seek international consensus, advance practical cooperation and capacity building, help developing countries—particularly the Global South—benefit equitably from AI and avoid an intelligence divide, and pledged to coordinate with Pakistan to promote inclusive, AI-for-good development that supports developing-country growth and global technological innovation."
+    },
+    {
+      "id": "4992709",
+      "time": "2026-07-16 23:38:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其擔保銀行：獲准向海外市場發行債券。"
+    },
+    {
+      "id": "4992708",
+      "time": "2026-07-16 23:37:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗重申與海灣鄰國不存在敵對關係】當地時間16日，伊朗外交部發表宣告，呼籲波斯灣南岸鄰國立即採取措施，防止其陸地、海域和領空被用於針對伊朗的軍事行動，以避免地區衝突進一步升級。宣告表示，伊朗不希望美國和以色列藉此加劇地區國家間的對立與猜疑。此外，伊方還強調，伊朗與周邊國家不存在敵對關係，伊方始終認為實現地區持久安全的唯一途徑是地區國家加強對話與合作，並在沒有域外軍事存在和外部干涉的情況下共同維護地區穩定。（央視新聞）"
+    },
+    {
+      "id": "4992707",
+      "time": "2026-07-16 23:36:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見巴基斯坦副總理兼外長達爾】7月16日晚，中共中央政治局委員、外交部長王毅在上海會見來華出席世界人工智慧大會的巴基斯坦副總理兼外長達爾。王毅歡迎達爾專程來華出席大會並代表巴政府簽署成立世界人工智慧合作組織協定，表示巴方的加入符合巴國家和人民長遠利益，也為中巴全天候戰略合作伙伴關係注入新的時代內涵。人工智慧是科技發展新高地，中方作為負責任大國，與志同道合國家推動建立世界人工智慧合作組織，旨在凝聚國際共識，推進務實合作，加強能力建設，讓各國特別是全球南方國家在智慧化浪潮中平等受益，避免世界出現智慧鴻溝。中方願同巴方加強協調合作，推動人工智慧向善普惠發展，助力發展中國家經濟增長，也帶動全球科技創新進步。(新華社)"
+    },
     {
       "id": "4992706",
       "time": "2026-07-16 23:34:44",
@@ -172232,85 +172290,6 @@
         "DXY"
       ],
       "text": "Israeli Defense Forces says hundreds of air force aircraft are on immediate standby for takeoff."
-    },
-    {
-      "id": "mkt:019f4789-6655-7aab-8d1d-4527e398b662",
-      "time": "2026-07-09 23:40:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "NZD/USD up about 1% intraday at 0.5755."
-    },
-    {
-      "id": "mkt:019f4788-37cb-7aab-8d1d-3cfd4b92de1c",
-      "time": "2026-07-09 23:38:57",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Prime Minister Netanyahu said preemptive strikes against the enemy are unavoidable during the confrontation; Israel has carried out such strikes and will continue to do so."
-    },
-    {
-      "id": "4979538",
-      "time": "2026-07-09 23:38:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "玻利維亞能源部長：巴西國家石油公司有意合作推進油田重組工作。下週將成立工作組研究巴西石油公司重新進入玻利維亞的事宜。"
-    },
-    {
-      "id": "mkt:019f4787-f92b-7aab-8d1d-3521f177d23a",
-      "time": "2026-07-09 23:38:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bolivia's energy minister said a working group will be set up next week to study the re-entry of a Brazilian oil company into Bolivia."
-    },
-    {
-      "id": "4979537",
-      "time": "2026-07-09 23:38:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大總理卡尼：我們計劃將對美國以外地區的出口規模擴大一倍，目前該目標推進順利。我國就業崗位增速達到美國的兩倍。"
-    },
-    {
-      "id": "4979536",
-      "time": "2026-07-09 23:37:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：伊拉克與土耳其輸油管道協議進入最終敲定階段。"
-    },
-    {
-      "id": "mkt:019f4786-c21b-7aab-8d1d-29da6027fc6f",
-      "time": "2026-07-09 23:37:21",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【OpenAI says it adjusted GPT-5.6 after consultations with Trump administration】OpenAI CEO Sam Altman said the company made several adjustments to GPT-5.6 following collaborative, two-way consultations with senior Trump administration officials. In the weeks before a full release Altman said OpenAI engaged with Commerce Secretary Lutnick and Treasury Secretary Bessent. Under government pressure to stage the rollout, the model was initially available only to select partners; after OpenAI said it had secured sign-off from US government leadership, GPT-5.6 was scheduled to open to the public on Thursday. Altman declined to detail the specific adjustments, saying government teams are testing the model for potential issues and that a transparent, fair and rapid process is preferable; he added OpenAI now better understands the process and expects future model rollouts to run more smoothly."
-    },
-    {
-      "id": "mkt:019f4786-8d96-7aab-8d1d-275668dc6ad4",
-      "time": "2026-07-09 23:37:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "European equities on July 9: Germany’s DAX +238.80 pts (+0.96%) to 25,104.47; France’s CAC 40 +73.96 pts (+0.90%) to 8,326.62; Euro Stoxx 50 +73.55 pts (+1.19%) to 6,278.46; Spain’s IBEX 35 +263.43 pts (+1.38%) to 19,312.73; Italy’s FTSE MIB +536.25 pts (+1.03%) to 52,353.50; Britain’s FTSE 100 -17.52 pts (-0.17%) to 10,471.52."
     }
   ]
 }
