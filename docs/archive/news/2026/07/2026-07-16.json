@@ -1,7 +1,172 @@
 {
   "date": "2026-07-16",
-  "count": 978,
+  "count": 996,
   "items": [
+    {
+      "id": "4991163",
+      "time": "2026-07-16 09:59:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沙特紅海延布港原油裝運量接近峰值】霍爾木茲海峽受戰事影響航運受阻，沙烏地阿拉伯轉而透過曼德海峽出口原油。專業機構提供的資料顯示，沙特位於紅海沿岸的延布港最近日均原油裝運量已接近峰值。路透社14日援引英國西格納爾大洋公司資料包道，13日前後，延布港原油裝運量達到日均470萬桶，較10日前後的336萬桶增長近40%。6月以來，延布港裝運原油量為日均400萬桶，而去年同期這一數字僅為日均97.3萬桶。伊朗戰事爆發後，為了避開受阻的霍爾木茲海峽，沙烏地阿拉伯國家石油公司（沙特阿美）利用一條橫貫東西的輸油管道，把沙特東部波斯灣產油區生產的原油輸送到延布港。這條管道日均輸送能力峰值達700萬桶，其中500萬桶可用於出口。（新華社）"
+    },
+    {
+      "id": "mkt:019f68a6-0689-7aab-8db6-0b6a35514014",
+      "time": "2026-07-16 09:58:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "MU.O",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【Citrini forecasts 28.7EB global DRAM shortfall by 2030, signals long-term tightness】Citrini Research forecasts a 28.7 EB global DRAM shortfall by 2030 — about 18% of 2030 demand and versus current global capacity of roughly 40 EB. Researcher Zephyr estimates 2030 DRAM demand (including HBM) at 157.5 EB versus supply of about 128.8 EB; standard DRAM is the principal bottleneck with supply ~91 EB versus demand ~120 EB, widening the gap to about 25%. Citrini says capacity additions from Samsung, SK Hynix, Micron and Chinese fabs are likely to be quickly absorbed by surging AI-driven demand — large-model training/inference and HBM-based accelerators — which also boosts server DRAM requirements. Under this tight balance, DRAM ASPs could remain elevated at roughly $1.5–2 per Gb, keeping memory costs pressured for servers, PCs and consumer electronics."
+    },
+    {
+      "id": "mkt:019f68a6-067c-7aab-8db6-07efc6e8456d",
+      "time": "2026-07-16 09:58:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【EU and India launch negotiations for Horizon Europe cooperation to deepen tech ties】The EU and India formally launched negotiations for Indian participation in the EU flagship research programme Horizon Europe, aiming to complete talks by year-end; the move is separate from an expected milestone free-trade agreement due to take effect next year. The Horizon Europe programme totals 95.5 bln euros; if approved, Indian universities, research institutes and companies would be eligible to join joint projects with European partners. The partners also agreed to establish an EU‑India EV charging technology and testing innovation centre; start an EU‑India startup partnership focused on deep‑tech cleantech; and deepen cooperation on semiconductors, high‑performance computing, quantum technologies, AI, 6G, agri‑food, active pharmaceutical ingredients and clean‑energy technology value‑chain resilience."
+    },
+    {
+      "id": "4991162",
+      "time": "2026-07-16 09:58:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Citrini：預測2030年全球DRAM缺口達28.7EB 儲存晶片市場或邁入長期供需緊張週期】市場研究機構Citrini Research最新預測，到2030年，全球DRAM市場仍將出現大規模供應缺口，規模預計達28.7EB，約佔當年總需求的18%，對比今年全球總產能約40EB。根據Citrini的研究員Zephyr分享的資料，2030年全球DRAM(含HBM)需求預計達157.5EB，供應能力僅約128.8EB；其中普通DRAM將是最大瓶頸，預估供應約每年91EB，需求卻高達120EB，缺口比例將從目前的18%擴大至25%左右。報告強調，即便三星、SK海力士、美光及中國廠商持續擴產，新增產能仍可能被飛漲的AI需求快速吸收。造成供需失衡的核心在於AI基礎設施爆發，因大模型訓練推理、HBM成為AI加速器核心，連帶推升傳統伺服器DRAM需求。在緊平衡下，DRAM平均售價(ASP)可能長期維持高位，預計落在每Gb1.5-2美元，伺服器、PC及消費電子儲存晶片成本將持續承壓。"
+    },
+    {
+      "id": "4991161",
+      "time": "2026-07-16 09:58:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【微軟全面重組安全業務，已更換多名高管並裁員數百人】據報道，微軟正全面重組安全業務板塊。為推動公司安全體系和人工智慧轉型，今年2月上任的微軟安全負責人Hayete Gallot已更換至少8名曾向前任安全負責人Charlie Bell彙報的高管，同時，微軟安全部門裁員數百人。"
+    },
+    {
+      "id": "4991160",
+      "time": "2026-07-16 09:58:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【成都摩寶網路科技有限公司被罰沒合計超2942萬元】7月15日，中國人民銀行四川省分行披露的行政處罰決定資訊公示表顯示，成都摩寶網路科技有限公司被警告、通報批評，沒收違法所得806.424491萬元，罰款2136.5萬元，涉及的違法行為型別包括：違反賬戶管理規定；違反清算管理規定；違反商戶管理規定；未按規定履行客戶身份識別義務。同時，成都摩寶網路科技有限公司湯某東對該公司違反賬戶管理規定、違反清算管理規定、未按規定履行客戶身份識別義務負有直接責任，被警告並罰款64萬元。（介面新聞記者 林倩冰）"
+    },
+    {
+      "id": "mkt:019f68a5-6e40-7aab-8db5-f90940fedda0",
+      "time": "2026-07-16 09:58:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "STAR 50 Index rebounded into positive territory after earlier falling more than 4%."
+    },
+    {
+      "id": "mkt:019f68a5-6b53-7aab-8db5-f26a4d2a1977",
+      "time": "2026-07-16 09:58:19",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Iranian Revolutionary Guard Corps said it struck a concentration of US forces at Kuwait's Ali Al Salem air base."
+    },
+    {
+      "id": "4991159",
+      "time": "2026-07-16 09:58:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "科創50指數探底回升翻紅，此前一度跌逾4%。"
+    },
+    {
+      "id": "4991158",
+      "time": "2026-07-16 09:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，他們襲擊了位於科威特阿里·薩利姆空軍基地的美國士兵集結地。"
+    },
+    {
+      "id": "4991157",
+      "time": "2026-07-16 09:57:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊一試圖駛向伊朗的空載油輪】當地時間7月15日，美國中央司令部表示，美軍監測到一艘懸掛庫拉索國旗的油輪“貝爾馬”號正經由國際水域駛向伊朗哈爾克島。該商船試圖違反美方封鎖令並多次無視警告。一架美軍飛機向該船煙囪發射“地獄火”導彈，使其喪失了航行能力。目前，該船已停止駛往伊朗。美軍於美東時間7月14日下午4時恢復了針對往返伊朗港口及沿海地區船隻的海上封鎖行動。美軍稱將保持高度警惕，並隨時準備確保封鎖措施得到全面執行。(CCTV國際時訊)"
+    },
+    {
+      "id": "mkt:019f68a4-9b6b-7aab-8db5-ee62755ed416",
+      "time": "2026-07-16 09:57:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share speed reducer/gearbox sector spiked intraday. Shenglong Shares hit the daily limit; Fengguang Precision jumped over 10%. Sanxie Motor, Xiling Power, Meihu Shares, Lude Harmonic and Zhaowei Electromechanical also gained."
+    },
+    {
+      "id": "4991156",
+      "time": "2026-07-16 09:57:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【紅太陽股份與雲樞智航簽署戰略合作協議】7月15日，紅太陽股份與安徽雲樞智航科技有限公司（簡稱“雲樞智航”）正式簽署戰略合作協議，“低空經濟+現代農業”跨界融合邁入實質推進階段。後續，雙方將建立常態化工作對接機制，適時探索成立合資公司，圍繞精準農業、植保飛防、農田遙感監測、農資配送等核心場景，務實推進聯合測試與示範應用，以實際作業效果驗證合作模式，加快推動合作成果從“紙上”落到“田間”。"
+    },
+    {
+      "id": "mkt:019f68a4-271d-7aab-8db5-e37f6cf7deba",
+      "time": "2026-07-16 09:56:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps said it targeted the early-warning radar system at Kuwait's Ali Al Salem air base in a missile and drone strike."
+    },
+    {
+      "id": "4991155",
+      "time": "2026-07-16 09:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，用導彈和無人機襲擊了科威特阿里·薩利姆空軍基地的預警雷達系統。"
+    },
+    {
+      "id": "4991154",
+      "time": "2026-07-16 09:56:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【減速器板塊短線拉昇】減速器板塊短線拉昇，聖龍股份漲停，豐光精密漲超10%，三協電機、西菱動力、美湖股份、綠的諧波、兆威機電等跟漲。"
+    },
+    {
+      "id": "4991153",
+      "time": "2026-07-16 09:56:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機器人概念震盪拉昇 凱爾達漲超15%】機器人概念震盪拉昇，凱爾達漲超15%，豐光精密漲超8%，長盈精密、美力科技、中大力德、兆威機電跟漲。"
+    },
+    {
+      "id": "4991152",
+      "time": "2026-07-16 09:55:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月： 闡釋政府對日本央行的立場至關重要。"
+    },
     {
       "id": "mkt:019f68a1-e6ce-7aab-8db5-de7bf127fe4a",
       "time": "2026-07-16 09:54:28",
