@@ -1,7 +1,115 @@
 {
   "date": "2026-07-17",
-  "count": 576,
+  "count": 588,
   "items": [
+    {
+      "id": "4993077",
+      "time": "2026-07-17 07:46:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海市氣象臺2026年07月17日07時40分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。"
+    },
+    {
+      "id": "4993076",
+      "time": "2026-07-17 07:46:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月16日主力資金淨流入居前影視院線股一覽】7月16日，影視院線板塊走強，其中，儒意電影、上海電影和歡瑞世紀漲停，光線傳媒漲9.52%，幸福藍海漲5.89%，橫店影視、金逸影視等個股跟漲。板塊走強核心催化來自暑期檔票房超預期，頭部影片持續拉動院線復甦。周星馳執導影片《功夫女足》上映以來，亮眼票房資料為影視板塊帶來顯著正向提振；《給阿嬤的情書》市場熱度居高不下，作為口碑黑馬持續貢獻票房增量。據證券時報·資料寶統計，11隻影視院線股在7月16日獲主力資金淨流入。儒意電影獲主力資金淨流入為1.87億元，居首；緊隨其後的是光線傳媒、歡瑞世紀，主力資金淨流入分別為1.64億元和1.28億元。"
+    },
+    {
+      "id": "4993075",
+      "time": "2026-07-17 07:46:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.1點。"
+    },
+    {
+      "id": "4993074",
+      "time": "2026-07-17 07:46:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤下跌1.5%。"
+    },
+    {
+      "id": "mkt:019f6d52-94ec-7aab-8dd3-378456959b09",
+      "time": "2026-07-17 07:45:56",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【House Republicans advance $95 billion budget resolution to fund Iran war, election-rule changes】House Republicans on Thursday pushed a $95 billion budget resolution at President Trump’s request, allocating new defense funds for the war with Iran, agricultural aid, and sweeping voting-rule changes ahead of November’s midterms. The GOP-controlled House Budget Committee approved the resolution, clearing the way for a full House vote as soon as next week; if passed, it would clear the path for a special budget reconciliation bill that could pass the Senate by simple majority rather than the usual 60-vote threshold."
+    },
+    {
+      "id": "4993073",
+      "time": "2026-07-17 07:45:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或將下跌，追隨華爾街跌勢】日本股市可能下跌，追隨華爾街的隔夜跌勢。在週四美國半導體股票遭遇新一輪拋售之後，國內晶片股可能會被拖累走低。費城半導體指數下跌4.3%，閃迪等晶片公司走低。在新加坡交易所，日經指數期貨下跌1,150點，至65,855點。日經指數週四收盤下跌2.8%，報66,835.54點，為7月8日以來的最低收盤水平。"
+    },
+    {
+      "id": "4993072",
+      "time": "2026-07-17 07:44:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【18家公募接連上報 首批主動ETF漸行漸近】境內主動ETF的誕生漸行漸近。證券時報記者瞭解到，7月16日至17日，易方達、華夏、華泰柏瑞、摩根、匯添富、華寶等18家基金公司將陸續向證監會正式遞交主動ETF的產品註冊申請材料。這意味著公募基金行業又一重大創新——主動ETF的面世已經箭在弦上。業內人士也預測，該批產品或將在近期火速獲批。"
+    },
+    {
+      "id": "4993071",
+      "time": "2026-07-17 07:44:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科威特遭導彈無人機襲擊 】當地時間今天（7月17日）凌晨，科威特軍方稱，科威特防空系統正對“敵對”導彈及無人機威脅實施攔截。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "te:markets:567665",
+      "time": "2026-07-17 07:43:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Edge Lower After Tech Rout — US stock futures edged lower on Friday after the major indexes declined in the previous session, pressured by a broad selloff in semiconductor stocks. Investors also digested the latest corporate earnings, with Netflix plunging nearly 9% in extended trading after its results disappointed investors already concerned about slowing user engagement and intensifying competition from short-form video platforms. During Thursday's regular session, the tech-heavy Nasdaq Composite dropped 1.4%, while the S&P 500 and Dow Jones fell 0.51% and 0.2%, respectively. Market participants are increasingly questioning whether the lofty valuations of AI-related chipmakers remain justified given the industry's aggressive growth expectations. Micron Technology and AMD each slumped more than 5%, while SanDisk sank over 12%, Broadcom lost about 5%, and US-listed shares of SK Hynix tumbled more than 13%."
+    },
+    {
+      "id": "mkt:019f6d50-7c87-7aab-8dd3-2e3ff95f8188",
+      "time": "2026-07-17 07:43:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed Vice Chair Jefferson welcomed stronger economic activity but opposed any rise in the unemployment rate."
+    },
+    {
+      "id": "4993070",
+      "time": "2026-07-17 07:42:52",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【給AI玩具擬人化互動劃紅線 業內期待在實踐中強化可行性】劍指AI持續性情感互動服務，《人工智慧擬人化互動服務管理暫行辦法》（下稱《辦法》）7月15日起施行，給AI陪伴賽道套上了合規的“緊箍咒”。證券時報記者近日調研發現，市面上多數面向未成年人的AI玩具尚未達到《辦法》要求。《辦法》的出臺，給AI陪伴行業帶來“確定性紅利”，合規能力強、產品形態正向、深耕垂直領域的頭部企業有望率先培育起可持續的競爭力。不過，現行辦法存在錨點過於寬泛、禁止項難以準確定位、具體事項責任主體不明確等問題。業內期待在實踐中強化可行性，並呼籲構建行業自律規範和多方聯動的風險管理體系，共同助力AI陪伴賽道行穩致遠。"
+    },
     {
       "id": "4993069",
       "time": "2026-07-17 07:42:29",
@@ -47,6 +155,15 @@
         "國際"
       ],
       "text": "【美國股指期貨下跌，科技股或將延續跌勢】美國股指期貨下跌，科技股因擔憂人工智慧漲勢的可持續性而可能延續拋售。標普500指數期貨下跌0.2%，納斯達克100指數期貨下跌0.5%。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607173809547324",
+      "time": "2026-07-17 07:40:44",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲副主席傑斐遜稱，勞動力市場正在穩定。"
     },
     {
       "id": "mkt:019f6d4d-8400-7aab-8dd3-1a209f371797",
