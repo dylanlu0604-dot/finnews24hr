@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-16 12:59:59",
-  "count": 18713,
+  "updated": "2026-07-16 13:04:07",
+  "count": 18708,
   "items": [
+    {
+      "id": "4991426",
+      "time": "2026-07-16 13:02:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MiniMax Code更新2.0版本】MiniMax宣佈正式更新MiniMaxCode2.0桌面端，重點提升會話啟動速度、長任務執行穩定性和工具呼叫的上下文銜接能力。同時，新版本對檔案預覽、圖表互動等功能進行了最佳化，並將進一步拓展金融研究能力。據介紹，MiniMaxCode將在本月上線遠端控制、瀏覽器操控、目標模式和計劃模式等功能，進一步擴充套件複雜任務處理與跨環境協作能力。"
+    },
+    {
+      "id": "mkt:019f694d-d5a0-7aab-8dba-a7f85b51340a",
+      "time": "2026-07-16 13:02:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market sources: South Korea will issue a statement on leveraged ETFs at 4:00 PM local time on Thursday."
+    },
+    {
+      "id": "4991425",
+      "time": "2026-07-16 13:02:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.02%，現報14628.779點；上證指數跌0.94%，現報3918.284點；創業板指跌1.88%，現報3733.216點。"
+    },
+    {
+      "id": "4991424",
+      "time": "2026-07-16 13:01:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股泡泡瑪特(09992.HK)午後直線拉昇漲逾8%，午間蘋果CEO庫克微博發文歡迎泡泡瑪特創始人王寧到訪蘋果總部。"
+    },
+    {
+      "id": "4991423",
+      "time": "2026-07-16 13:01:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2472億元。"
+    },
+    {
+      "id": "mkt:019f694d-3ec7-7aab-8dba-9a42907b6931",
+      "time": "2026-07-16 13:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "09992.HK",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong-listed Pop Mart (09992.HK) rallied more than 8% in afternoon trade after Apple (AAPL.O) CEO Tim Cook posted on Weibo welcoming Pop Mart founder Wang Ning to visit Apple's headquarters."
+    },
+    {
+      "id": "mkt:019f694d-12a7-7aab-8dba-92e17f2cb2f6",
+      "time": "2026-07-16 13:01:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Starmer will visit Kyiv on Thursday to meet Ukrainian President Zelenskiy."
+    },
+    {
+      "id": "4991422",
+      "time": "2026-07-16 13:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國中西部地區最大乙烯產業基地建成】記者今天（7月16日）從中國石油獲悉，我國首個全鏈條綠色低碳乙烯工程——獨山子石化塔里木120萬噸乙烯綠色低碳示範工程，投料開車一次成功，標誌著我國中西部地區規模最大的乙烯產業基地建成，我國石化工業在綠色低碳轉型與核心裝備自主可控領域，取得實質性進展。"
+    },
+    {
+      "id": "4991421",
+      "time": "2026-07-16 13:00:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄稱只有歐洲停止反俄才有可能對話 】俄羅斯外交部發言人扎哈羅娃7月15日在例行記者會上表示，俄羅斯並未放棄與西方、與歐盟的聯絡，而是西方一直在孤立俄羅斯。扎哈羅娃說，俄羅斯始終主張透過外交手段解決現存分歧，但在西方，外交手段已經越來越不被重視。她表示，只有當歐洲國家停止反俄行為、徹底放棄反俄路線、停止干涉俄羅斯內政時，俄羅斯才有可能恢復與歐洲國家的對話。"
+    },
+    {
+      "id": "4991420",
+      "time": "2026-07-16 13:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.57%，現報3744.853點；上證指數跌0.82%，現報3923.203點；深證成指跌0.76%，現報14667.810點。"
+    },
     {
       "id": "4991419",
       "time": "2026-07-16 12:58:53",
@@ -171983,159 +172074,6 @@
         "日本央行"
       ],
       "text": "【日本央行：因全球人工智慧需求擴大 晶片裝置和晶片訂單有所增加】日本央行稱，許多地區表示，企業正在保持強勁的資本支出計劃，因全球人工智慧需求擴大，晶片裝置和晶片訂單有所增加。許多地區表示，包括小型企業在內的公司今年提供了高幅度的工資增長，儘管一些地區表示可能難以繼續提高薪資。"
-    },
-    {
-      "id": "mkt:019f4542-e944-7aab-8d09-02bc38ddddfb",
-      "time": "2026-07-09 13:04:00",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Japan reported several regions said firms continue to pass rising labor and delivery costs on to consumers via price increases."
-    },
-    {
-      "id": "mkt:019f4542-afc7-7aab-8d08-f92baa53bf67",
-      "time": "2026-07-09 13:03:45",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan said many regions reported companies, including small firms, delivered substantial wage increases this year, although some regions said it may be difficult to continue raising pay."
-    },
-    {
-      "id": "mkt:019f4542-4299-7aab-8d08-f5e3e703eacf",
-      "time": "2026-07-09 13:03:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share TCM sector staged a brief afternoon rally; Huasen Pharmaceutical hit the limit-up, while Panlong Pharmaceutical, Hansen Pharmaceutical, Tianmu Pharmaceutical, Taiji Group and Mayinglong also advanced."
-    },
-    {
-      "id": "mkt:019f4542-3d05-7aab-8d08-e8140d1cf812",
-      "time": "2026-07-09 13:03:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution",
-        "Chip Wars",
-        "Nikkei 225",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Bank of Japan said many regions reported firms are maintaining strong capital expenditure plans as global AI demand expands, with orders for chipmaking equipment and semiconductors rising."
-    },
-    {
-      "id": "4978201",
-      "time": "2026-07-09 13:02:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【中藥板塊午後短線拉昇，華森製藥漲停】中藥板塊午後短線拉昇，華森製藥漲停，盤龍藥業、漢森製藥、天目藥業、太極集團、馬應龍跟漲。"
-    },
-    {
-      "id": "mkt:019f4540-fc7f-7aab-8d08-e135e59e98dd",
-      "time": "2026-07-09 13:01:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Goldman Sachs: Japan corporate M&A still in early stage】Xu Mingyin, head of Goldman Sachs Asia direct investments, said on Thursday that corporate acquisitions and private equity activity in Japan remain at an early stage and that the equity market is well positioned for consolidation. She named Japan, South Korea and Australia as the most profitable Asian markets for M&A and privatizations given stable economies and large corporates. Foreign private equity activity in Japan has risen over the past three years, driven by corporate governance reforms that are increasing pressure on companies and boards to lift investor returns. Xu noted Japan has about 4,000 listed companies versus roughly 5,000 in the US, even though the US economy is about six times larger; Germany has only about 400 listed firms. She added that more than 1,000 Japanese companies report annual revenue above US$1bn, making them attractive targets, and that Japan is still at an early stage in any process of trimming excess listings."
-    },
-    {
-      "id": "4978200",
-      "time": "2026-07-09 13:01:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方呼籲各國共同遏制打擊衝突中的性暴力 】中國常駐聯合國代表傅聰8日在安理會衝突中性暴力問題公開辯論會上發言，呼籲各國共同遏制和打擊衝突中的性暴力。傅聰表示，將性暴力用作戰爭和恐怖主義手段，嚴重違反安理會相關決議和國際法，嚴重侵犯受害者尊嚴和基本權利，給個人、家庭和社會帶來長期創傷。中方強烈譴責並堅決反對一切衝突中的性暴力。他說，衝突引發的社會動盪和法治缺位，是性暴力犯罪滋生蔓延的土壤。國際社會應秉持共同、綜合、合作、可持續的安全觀，堅持和平解決爭端，加強預防外交和斡旋調解，推動停火止戰，履行國際人道法義務，實現熱點問題緩和降溫。（新華社）"
-    },
-    {
-      "id": "mkt:019f4540-8736-7aab-8d08-d8ff69f76122",
-      "time": "2026-07-09 13:01:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact mixed",
-        "Nikkei 225"
-      ],
-      "text": "Bank of Japan: several regions reported export risks have fallen sharply and output has edged down."
-    },
-    {
-      "id": "mkt:019f4540-5da9-7aab-8d08-d4fdaa0849e4",
-      "time": "2026-07-09 13:01:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "The Bank of Japan left its assessments of nine regional economies unchanged in its quarterly report."
-    },
-    {
-      "id": "mkt:019f4540-5625-7aab-8d08-cfda144b1989",
-      "time": "2026-07-09 13:01:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Muxi Co. shares plunged in the afternoon, paring earlier gains to 14%. The company said reports that product orders are booked through next year are false."
-    },
-    {
-      "id": "4978199",
-      "time": "2026-07-09 13:01:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行：多個地區表示，出口與產出大幅下滑的風險已有所下降。"
-    },
-    {
-      "id": "mkt:019f4540-37b0-7aab-8d08-c0510d4acbff",
-      "time": "2026-07-09 13:01:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "India and Australia agreed in a joint statement to strengthen maritime cooperation through a maritime security cooperation roadmap."
-    },
-    {
-      "id": "mkt:019f4540-028e-7aab-8d08-ba602e83a703",
-      "time": "2026-07-09 13:00:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Australia and India have reached the necessary administrative arrangements to ensure Australian uranium exports to India, according to a joint statement."
-    },
-    {
-      "id": "4978198",
-      "time": "2026-07-09 13:00:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西回應六藍水庫現狀：六藍水庫水位下降，水庫缺口和流量基本穩定】今天，#廣西南寧防汛救災釋出會#通報：位於橫州市的六藍、雲表兩座水庫都建於1958年，屬於中型水庫，壩體都是均質土壩。從7月6日起，水利專家到現場開展搶險救災指導，對出現漫壩缺口的水庫進行評估，密切觀測水位變化，檢視堤壩變形情況，分析下洩流量，研究降低水位的相關措施，防止險情進一步擴大。 “目前，六藍水庫水位已降到大壩基岩以下，水庫缺口和流量已基本穩定；從8日起，當地對六藍水庫上壩道路進行了修復，到今天上午為止，已經修通到壩頂；從今天開始，還將組織開展河道疏通清淤。由於雲表水庫的水位已基本降到了死水位，如果上游不再有較大來水，水庫對下游淹沒區的影響將趨於穩定。同時，將再次組織開展全市水利工程隱患排查，重點對強降雨影響區水庫和超汛限高水位執行水庫進行檢查，發現隱患及時處置。”"
-    },
-    {
-      "id": "4978197",
-      "time": "2026-07-09 13:00:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "澳大利亞與印度聯合宣告：承諾加強全面防務合作，深化戰略對話，強化合作。"
     }
   ]
 }
