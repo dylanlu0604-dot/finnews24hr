@@ -1,7 +1,35 @@
 {
   "date": "2026-07-17",
-  "count": 356,
+  "count": 359,
   "items": [
+    {
+      "id": "4992942",
+      "time": "2026-07-17 04:16:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "可口可樂：正聯合外部顧問持續調查 Fairlife 系統遭攻擊事件。"
+    },
+    {
+      "id": "4992941",
+      "time": "2026-07-17 04:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "可口可樂：旗下 Fairlife 業務系統在勒索軟體攻擊事件中遭非法入侵，產品質量與安全未受影響。"
+    },
+    {
+      "id": "te:markets:567644",
+      "time": "2026-07-17 04:15:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Atlas Copco earnings in line with market expectations at 1.45 SEK — Atlas Copco (ATCOA) released earnings per share at 1.45 SEK, in line with market expectations."
+    },
     {
       "id": "4992940",
       "time": "2026-07-17 04:12:03",
