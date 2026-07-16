@@ -1,7 +1,132 @@
 {
   "date": "2026-07-16",
-  "count": 3193,
+  "count": 3206,
   "items": [
+    {
+      "id": "4992691",
+      "time": "2026-07-16 23:15:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息：美國非競爭性投標，以13.196億美元的價格競標為期八週的短期國債。"
+    },
+    {
+      "id": "mkt:019f6b7e-b0c7-7aab-8dcc-3b19a2e7ef39",
+      "time": "2026-07-16 23:14:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said all consequences and responsibility for this breach rest with the arrogant U.S. regime. It warned all countries, especially southern Persian Gulf neighbors, that they must prevent the U.S. from using their territory and facilities to prepare or carry out aggressive attacks on Iran."
+    },
+    {
+      "id": "mkt:019f6b7e-b032-7aab-8dcc-325390e9a8ce",
+      "time": "2026-07-16 23:14:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry said lasting regional security can only be achieved through understanding and cooperation among regional states and without a U.S. military presence or its destructive, malicious interference."
+    },
+    {
+      "id": "4992690",
+      "time": "2026-07-16 23:13:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "WESTAMERICA BANCORP公佈第二季度業績後股價上漲3.3%。"
+    },
+    {
+      "id": "mkt:019f6b7d-80b8-7aab-8dcc-2eadce16c58a",
+      "time": "2026-07-16 23:13:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said the global public can clearly see the United States has, for the third time in a year, openly reneged in negotiations; in this instance it failed to honor its signature on a memorandum of understanding and violated multiple clauses just 20 days after signing, citing absurd pretexts."
+    },
+    {
+      "id": "4992689",
+      "time": "2026-07-16 23:13:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：倫敦市長薩迪克·汗將被授予英國終身貴族爵位。"
+    },
+    {
+      "id": "4992688",
+      "time": "2026-07-16 23:12:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀾起科技：預計上半年淨利潤同比增長64%-81% DDR5RCD晶片出貨量顯著增加】瀾起科技(688008.SH)公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為19.00億元-21.00億元，同比增長63.9%-81.2%。上半年業績大幅增長，主要是受益於AI產業趨勢，行業需求旺盛：一方面，隨著DDR5滲透率提高且子代持續迭代，公司DDR5RCD晶片出貨量顯著增加，其中第三、第四子代RCD晶片的出貨佔比進一步提升；另一方面，互連類晶片新產品MRCD/MDB、PCIeRetimer、CKD及CXLMXC晶片收入顯著攀升。2026年上半年，公司互連類晶片產品線銷售收入約為31.11億元，同比增長約26.4%，其中第二季度互連類晶片產品線銷售收入約為16.94億元，同比增長約28.2%，環比增長約19.5%。公司Q2淨利潤預計10.53億-12.53億，Q1淨利潤8.47億，據此計算，Q2淨利潤預計環比增長24%-47%。"
+    },
+    {
+      "id": "mkt:019f6b7c-cdd0-7aab-8dcc-275d1e73eeb8",
+      "time": "2026-07-16 23:12:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Foreign Ministry said it will use all capabilities to defend Iran's sovereignty and territorial integrity, resist military invasion and hybrid warfare by the US and Israel, and will tolerate no such actions."
+    },
+    {
+      "id": "mkt:019f6b7c-9b19-7aab-8dcc-1ea03bf776dc",
+      "time": "2026-07-16 23:12:35",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's foreign ministry said repeated threats to attack bridges and power plants, alongside attacks on certain critical infrastructure, clearly demonstrate the criminal intent of the US ruling establishment, and warned that direct perpetrators and executors cannot evade legal responsibility or the moral and conscience burden of war crimes by claiming they were following orders."
+    },
+    {
+      "id": "4992687",
+      "time": "2026-07-16 23:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟就兩名外交官被驅逐一事召見布吉納法索大使。"
+    },
+    {
+      "id": "mkt:019f6b7b-ff2b-7aab-8dcc-106c05e71e76",
+      "time": "2026-07-16 23:11:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's foreign ministry said US aggressive actions against Iran, coupled with coarse rhetoric and malicious threats by US officials, are intended to express hostility toward the Iranian people for asserting their independence, lawful rights and human dignity."
+    },
+    {
+      "id": "mkt:019f6b7b-e313-7aab-8dcc-0c74b68daedf",
+      "time": "2026-07-16 23:11:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's foreign ministry accused the United States of, over the past few days, striking grain silos in Khoyzeh; a bottled-water plant in Tehran's Musian district; and an offshore surveillance tower at Chabahar, saying the strikes aimed to disrupt fishermen rescues and undermine maritime trade security. The ministry called those and other similar attacks war crimes committed by US aggressors within the past week."
+    },
+    {
+      "id": "4992686",
+      "time": "2026-07-16 23:11:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：土耳其電信計劃在境外發行至多10億美元債券。"
+    },
     {
       "id": "mkt:019f6b7b-2d08-7aab-8dcc-04f624b0ce43",
       "time": "2026-07-16 23:11:02",
