@@ -1,7 +1,83 @@
 {
   "date": "2026-07-16",
-  "count": 2976,
+  "count": 2985,
   "items": [
+    {
+      "id": "4992557",
+      "time": "2026-07-16 21:39:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬士基透過在蘇阿佩設立配送中心，強化其在巴西東北部的綜合物流能力。"
+    },
+    {
+      "id": "4992556",
+      "time": "2026-07-16 21:38:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "雅培股價攀升至盤中最高點11%，創2020年以來最大漲幅。"
+    },
+    {
+      "id": "4992555",
+      "time": "2026-07-16 21:37:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "胡塞武裝發表宣告：沙特與美國、以色列和英國合作，破壞伊斯蘭民族任何統一和團結的立場。必須對沙特予以懲處。"
+    },
+    {
+      "id": "te:markets:567580",
+      "time": "2026-07-16 21:37:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ProLogis Stock Price Hits 4-week High — ProLogis shares increased to 146.41 USD, the highest since June 2026. Over the past 4 weeks, ProLogis lost 0.17%, and in the last 12 months, it increased 32.4%."
+    },
+    {
+      "id": "mkt:019f6b25-5e5b-7aab-8dca-1900a520f48c",
+      "time": "2026-07-16 21:37:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Houthis say Saudi Arabia complicit, must be punished】Houthi militants said Saudi Arabia, in cooperation with the US, Israel and the UK, is undermining Islamic unity and its role is now exposed. They called Saudi Arabia’s years-long aggression in Yemen unlawful and conducted within an alliance with the US and Israel. They said the primary victims are Palestinians, whom they described as suffering genocide, and demanded Saudi be punished and perpetrators held accountable."
+    },
+    {
+      "id": "4992554",
+      "time": "2026-07-16 21:37:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股盤初，主要行業ETF漲跌不一，半導體ETF跌近3%，全球科技股指數ETF跌近2%，日常消費品ETF漲1.5%。"
+    },
+    {
+      "id": "4992553",
+      "time": "2026-07-16 21:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織：目前來看，本迪布焦埃博拉病毒毒株顯現的症狀暫無明顯差異。"
+    },
+    {
+      "id": "4992552",
+      "time": "2026-07-16 21:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克100指數跌幅擴大至1%。"
+    },
+    {
+      "id": "4992551",
+      "time": "2026-07-16 21:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "韋德布什證券對Ebay啟動覆蓋，給予跑贏大盤評級，目標價為135美元。"
+    },
     {
       "id": "te:markets:567578",
       "time": "2026-07-16 21:34:42",
