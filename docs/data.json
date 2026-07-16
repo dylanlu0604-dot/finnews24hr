@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-17 01:59:28",
+  "updated": "2026-07-17 02:05:36",
   "count": 18805,
   "items": [
+    {
+      "id": "mkt:019f6c19-b379-7aab-8dcf-6b9a0ffb8a1f",
+      "time": "2026-07-17 02:04:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukrainian parliament approves new cabinet list】Ukraine’s parliament approved a new cabinet list with 264 votes, accepting the outgoing cabinet’s resignation and confirming a replacement slate. The approved list did not include nominees for defence and foreign ministers; the president will nominate those two posts. Six incumbent ministers were retained, including First Deputy Prime Minister and Energy Minister Denys Shmyhal, Deputy Prime Minister for Humanitarian Policy and Culture Tetiana Berezhna, Finance Minister Serhii Marchenko and Health Minister Viktor Liashko. Former head of Ukraine’s mission to the EU Vsevolod Chentsov was appointed Deputy Prime Minister for European affairs."
+    },
+    {
+      "id": "mkt:019f6c19-b14b-7aab-8dcf-63d0073c8c45",
+      "time": "2026-07-17 02:04:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Logan said the goal should be to build an efficient, effective balance sheet, not to pursue balance-sheet size for its own sake."
+    },
+    {
+      "id": "mkt:019f6c19-a0af-7aab-8dcf-5a25c2ee0d8b",
+      "time": "2026-07-17 02:04:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed's LOGAN said current wage levels are not creating inf pressure."
+    },
+    {
+      "id": "4992851",
+      "time": "2026-07-17 02:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：資產負債表的目標應當是兼具效率與效果，而非單純追求規模。"
+    },
+    {
+      "id": "4992850",
+      "time": "2026-07-17 02:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：不過仍擔憂相關風險。"
+    },
+    {
+      "id": "4992849",
+      "time": "2026-07-17 02:01:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：目前薪資並未帶來通脹壓力。"
+    },
     {
       "id": "4992848",
       "time": "2026-07-17 01:58:54",
@@ -172836,64 +172893,6 @@
         "國際"
       ],
       "text": "歐洲央行行長拉加德：歐盟各國政府必須採取行動發展經濟。"
-    },
-    {
-      "id": "4979629",
-      "time": "2026-07-10 02:05:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "Meta 執行長扎克伯格：佈局人工智慧雲業務具備合理性。"
-    },
-    {
-      "id": "mkt:019f480c-9c2a-7aab-8d1f-6d0044bb3b95",
-      "time": "2026-07-10 02:03:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "DAX"
-      ],
-      "text": "Bank of France says France will record growth in Q2 and avoid a recession."
-    },
-    {
-      "id": "mkt:019f480c-81c5-7aab-8d1f-654cbe0c6505",
-      "time": "2026-07-10 02:03:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "Banque de France revised its Q2 GDP growth forecast to 0.2% from 0.0%."
-    },
-    {
-      "id": "4979628",
-      "time": "2026-07-10 02:00:31",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "法國央行：預計二季度GDP增長0.2%。"
-    },
-    {
-      "id": "4979627",
-      "time": "2026-07-10 02:00:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "馬斯克： Anthropic 目前是人工智慧領域的領跑者。"
-    },
-    {
-      "id": "mkt:019f4809-65db-7aab-8d1f-5eadf0b657e7",
-      "time": "2026-07-10 02:00:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "European Commission Executive Vice-President Dombrovskis said discussion of an EU \"safe asset\" is not new and remains relevant."
     }
   ]
 }
