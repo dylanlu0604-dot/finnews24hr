@@ -1,7 +1,60 @@
 {
   "date": "2026-07-17",
-  "count": 455,
+  "count": 461,
   "items": [
+    {
+      "id": "mkt:019f6d0b-19a4-7aab-8dd1-f3cd98b10d77",
+      "time": "2026-07-17 06:27:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. military says it intercepted multiple vessels attempting to breach blockade of Iran】U.S. Central Command said on July 16 it forced three merchant vessels attempting to breach the blockade to change course and rendered one non‑compliant ship inoperative. CENTCOM said the Strait of Hormuz and adjacent waters remain open to navigation except for vessels attempting to violate the U.S. blockade. On July 14 CENTCOM said it had resumed a maritime blockade of ships entering or exiting Iranian ports and coastal waters at 16:00 EDT (23:30 Tehran time)."
+    },
+    {
+      "id": "4993001",
+      "time": "2026-07-17 06:27:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際能源署署長比羅爾：若未來數週霍爾木茲海峽原油天然氣運輸通道、伊朗戰事局勢無法好轉，“我們應當對油氣供應安全感到擔憂”。"
+    },
+    {
+      "id": "mkt:019f6d0a-cf0d-7aab-8dd1-ee0a5cb9a6b5",
+      "time": "2026-07-17 06:27:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA chief Birol said energy security should be a concern if oil and gas flows through the Strait of Hormuz do not improve over the next few weeks."
+    },
+    {
+      "id": "4993000",
+      "time": "2026-07-17 06:27:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱攔截多艘試圖突破對伊朗封鎖的船隻】當地時間7月16日，美軍中央司令部稱，截至目前，美軍已迫使3艘試圖突破封鎖的商船改變航向，使1艘不配合的船隻失去行動能力。美方表示，霍爾木茲海峽及周邊水域仍保持自由開放，但試圖違反美國對伊朗封鎖的船隻除外。當地時間7月14日，美軍中央司令部表示，美軍已於美東時間當天16時（德黑蘭時間14日23時30分）恢復針對進出伊朗港口及沿海地區船隻的海上封鎖。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6d09-9bf8-7aab-8dd1-e30f098cc6ef",
+      "time": "2026-07-17 06:26:13",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish",
+        "JPM.O",
+        "MS.O"
+      ],
+      "text": "Sources said JP Morgan and Morgan Stanley will provide $50 billion in acquisition financing and serve as advisers on a deal to acquire PayPal (PYPL.O)."
+    },
     {
       "id": "mkt:019f6d08-b0d0-7aab-8dd1-dacde59ac9cc",
       "time": "2026-07-17 06:25:13",
@@ -216,6 +269,15 @@
         "焦點"
       ],
       "text": "WTI原油突破79美元/桶，日內漲0.82%。"
+    },
+    {
+      "id": "4992983",
+      "time": "2026-07-17 06:00:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率為88.8%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為88.8%，累計加息25個基點的機率為11.2%。 美聯儲到9月維持利率不變的機率為48.8%，累計加息25個基點的機率為46.2%，累計加息50個基點的機率為5.1%。"
     },
     {
       "id": "mkt:019f6cee-18aa-7aab-8dd1-a6f178ceede7",
