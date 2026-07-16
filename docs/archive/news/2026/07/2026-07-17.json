@@ -1,7 +1,43 @@
 {
   "date": "2026-07-17",
-  "count": 474,
+  "count": 478,
   "items": [
+    {
+      "id": "mkt:019f6d1a-e96f-7aab-8dd2-3eb56ae0e218",
+      "time": "2026-07-17 06:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand food price index MoM June 0.6% vs 1.0% prior."
+    },
+    {
+      "id": "mkt:019f6d1a-cdd1-7aab-8dd2-37834b009517",
+      "time": "2026-07-17 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (MoM) (Jun) | actual 0.6% | previous 1.00%"
+    },
+    {
+      "id": "mkt:019f6d1a-b78c-7aab-8dd2-2d848c005472",
+      "time": "2026-07-17 06:44:55",
+      "tags": [
+        "MKT News",
+        "OMV.VI",
+        "Impact bullish"
+      ],
+      "text": "Libya's National Oil Corporation says Austrian oil and gas group OMV's Iasar discovery holds an estimated 195 mln barrels of oil and has production of about 5,000 bpd."
+    },
+    {
+      "id": "4993006",
+      "time": "2026-07-17 06:44:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：奧地利石油天然氣集團（OMV）在伊亞薩爾區塊發現石油儲量預估 1.95 億桶，預計日產量約 5000 桶。"
+    },
     {
       "id": "te:markets:567655",
       "time": "2026-07-17 06:40:13",

@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-17 06:41:40",
-  "count": 18791,
+  "updated": "2026-07-17 06:45:33",
+  "count": 18789,
   "items": [
+    {
+      "id": "mkt:019f6d1a-e96f-7aab-8dd2-3eb56ae0e218",
+      "time": "2026-07-17 06:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand food price index MoM June 0.6% vs 1.0% prior."
+    },
+    {
+      "id": "mkt:019f6d1a-cdd1-7aab-8dd2-37834b009517",
+      "time": "2026-07-17 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (MoM) (Jun) | actual 0.6% | previous 1.00%"
+    },
+    {
+      "id": "mkt:019f6d1a-b78c-7aab-8dd2-2d848c005472",
+      "time": "2026-07-17 06:44:55",
+      "tags": [
+        "MKT News",
+        "OMV.VI",
+        "Impact bullish"
+      ],
+      "text": "Libya's National Oil Corporation says Austrian oil and gas group OMV's Iasar discovery holds an estimated 195 mln barrels of oil and has production of about 5,000 bpd."
+    },
+    {
+      "id": "4993006",
+      "time": "2026-07-17 06:44:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "利比亞國家石油公司：奧地利石油天然氣集團（OMV）在伊亞薩爾區塊發現石油儲量預估 1.95 億桶，預計日產量約 5000 桶。"
+    },
     {
       "id": "te:markets:567655",
       "time": "2026-07-17 06:40:13",
@@ -172761,57 +172797,6 @@
         "MKT News"
       ],
       "text": "Israel's energy minister said the Israel-Cyprus pipeline will be built. He added Israel knows how to defend itself, will not take orders from others, and those who threaten Israel will not fare well."
-    },
-    {
-      "id": "te:markets:565806",
-      "time": "2026-07-10 06:45:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Rises by 1.68% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.68% increase."
-    },
-    {
-      "id": "mkt:019f490d-dc03-7aab-8d22-15a6ba349f01",
-      "time": "2026-07-10 06:44:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's energy minister said Israel must work with the U.S. to prevent Turkey from acquiring advanced weapons and press Washington to preserve Israel's qualitative military edge."
-    },
-    {
-      "id": "mkt:019f490d-515c-7aab-8d22-0e4583bc4e17",
-      "time": "2026-07-10 06:43:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's energy minister said Israel must prevent Turkey from establishing a military presence in Syria, and that if Turkey establishes military bases there, Israel will take similar measures."
-    },
-    {
-      "id": "4979812",
-      "time": "2026-07-10 06:43:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列能源部長科恩：以色列 — 塞普勒斯天然氣管道專案必將落地；以色列具備自主防衛能力，不會屈從於他人擺佈；任何威脅以色列的勢力都不會有好下場。"
-    },
-    {
-      "id": "4979811",
-      "time": "2026-07-10 06:43:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列能源部長科恩：以色列須與美國協作，阻止土耳其獲取先進武器，並敦促美方維護以色列的軍事質量優勢。"
-    },
-    {
-      "id": "4979810",
-      "time": "2026-07-10 06:43:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列能源部長科恩表示：以色列必須阻止土耳其在敘利亞部署軍事力量；其向內閣發出警告，若土耳其在敘利亞修建軍事基地，以色列將採取對等行動。"
     }
   ]
 }
