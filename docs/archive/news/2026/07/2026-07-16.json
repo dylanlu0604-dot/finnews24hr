@@ -1,7 +1,54 @@
 {
   "date": "2026-07-16",
-  "count": 1386,
+  "count": 1391,
   "items": [
+    {
+      "id": "mkt:019f6950-e9ec-7aab-8dba-a91596c73975",
+      "time": "2026-07-16 13:05:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact mixed",
+        "USDJPY"
+      ],
+      "text": "【South Korea FSS flags rate-hike risks, urges measures to secure corporate financing】South Korea's Financial Supervisory Service held a financial-situation meeting on the 16th, chaired by FSS chief Lee Chan-jin, to assess market moves after the Bank of Korea MPC raised its policy rate by 25bp. Lee said the BOK hike was in line with market expectations but warned that sharply higher domestic equity volatility, ongoing Middle East geopolitical tensions and the risk of further US rate hikes warrant preparedness and measures to safeguard corporate financing and limit potential wider market stress."
+    },
+    {
+      "id": "4991430",
+      "time": "2026-07-16 13:04:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【量子計算企業本源量子增資，增幅達1100%】企查查APP顯示，近日，本源量子計算科技（合肥）股份有限公司發生工商變更，註冊資本從3000萬元增加至3.6億元，增幅約為1100.00%。企查查顯示，該公司成立於2017年9月，法定代表人為張輝，由郭國平、中科大資產經營有限責任公司等共同持股。官網顯示，本源量子專注量子計算全領域開發，打造中國量子計算第一產業。"
+    },
+    {
+      "id": "4991429",
+      "time": "2026-07-16 13:04:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數上漲1%，至177,130.20。"
+    },
+    {
+      "id": "4991428",
+      "time": "2026-07-16 13:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多隻紅利相關ETF完成募集 募資額超10億元】近期，多隻紅利相關ETF完成募集，包括紅利低波ETF、紅利質量ETF等，合計募資規模超10億元。"
+    },
+    {
+      "id": "4991427",
+      "time": "2026-07-16 13:03:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "ABB：建議以每股503便士全現金收購Rotork。"
+    },
     {
       "id": "4991426",
       "time": "2026-07-16 13:02:40",
