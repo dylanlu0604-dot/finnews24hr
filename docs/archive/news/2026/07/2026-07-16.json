@@ -1,7 +1,122 @@
 {
   "date": "2026-07-16",
-  "count": 2935,
+  "count": 2948,
   "items": [
+    {
+      "id": "mkt:019f6b1b-da41-7aab-8dc9-fdd0e0179af5",
+      "time": "2026-07-16 21:26:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Apple said to debut OLED iPad mini this fall; entry iPad and iPad Air refreshes expected next year】Apple is preparing its biggest iPad mini upgrade in five years, introducing an OLED display and targeting a fall announcement with shipments in October; device codename J510. The company plans to refresh the entry-level iPad (J581) and 11‑/13‑inch iPad Air (J807, J837) next year — the entry model will mainly get a processor upgrade and iPad Air is expected in spring. Apple also expects to launch its first foldable iPhone and a new Apple Watch in September, and raised prices last month on several products including iPads."
+    },
+    {
+      "id": "4992529",
+      "time": "2026-07-16 21:26:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【威星智慧：公司目前沒有併購金卡智慧的相關計劃】威星智慧7月16日在互動平臺表示，公司目前沒有併購金卡智慧的相關計劃。"
+    },
+    {
+      "id": "4992528",
+      "time": "2026-07-16 21:26:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江美大：籌劃控制權變更，股票7月17日起復牌】浙江美大公告稱，公司控股股東、實際控制人夏志生、夏鼎正在籌劃控制權變更事項，公司股票於7月10日起停牌。7月16日，夏志生、夏鼎與深圳星藍圖簽署《股份轉讓協議》，擬分別轉讓91,739,335股、102,011,554股，佔總股本的14.20%、15.79%，轉讓價6.656元/股。轉讓完成後，深圳星藍圖持股29.99%，控股股東將變更為深圳星藍圖，實控人變更為張海政。公司股票7月17日起復牌，本次轉讓尚需相關審批，能否完成存在不確定性。"
+    },
+    {
+      "id": "4992527",
+      "time": "2026-07-16 21:26:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "韋德布什公司對Reddit發起覆蓋評級，給予“跑贏大盤”評級，目標價為250美元。"
+    },
+    {
+      "id": "4992526",
+      "time": "2026-07-16 21:26:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織執董會完成對英國2026年第四條磋商。"
+    },
+    {
+      "id": "4992525",
+      "time": "2026-07-16 21:26:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果據悉最快今秋推出OLED版iPad mini，明年更新入門版及iPad Air】當地時間7月16日，科技記者馬克·古爾曼發文稱， 蘋果公司正準備推出五年來最大升級版iPad mini，最快將於今秋釋出、10月上市。新款iPad mini代號J510，將首次採用OLED顯示屏，以提升顯示效果。與此同時，蘋果還計劃於明年更新入門版iPad（代號J581）和11英寸、13英寸iPad Air（代號J807、J837），其中入門版主要升級處理器，iPad Air預計於春季釋出。蘋果預計今年9月釋出首款摺疊屏iPhone以及新款Apple Watch等產品，並已於上月上調包括iPad系列在內的多款產品售價。"
+    },
+    {
+      "id": "4992524",
+      "time": "2026-07-16 21:25:36",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【深夜跳水 現貨黃金跌破4000美元】7月16日晚，國際金銀現貨集體下跌。截至北京時間21:00，現貨黃金跌破4000美元/盎司，報3992.06美元/盎司，跌幅1.61%；現貨白銀下跌至55.78美元/盎司，跌幅3.43%。訊息面上，美國勞工部公佈資料，截至7月11日當週，首次申領失業救濟人數減少8000人，降至20.8萬人，預期值為21.7萬人。之前一週的持續申領失業救濟人數降至181萬人，也低於預期。此外，近日，美聯儲主席凱文·沃什上任以來首次在國會作證，宣示對通脹“零容忍”並堅定承諾恢復價格穩定。儘管沒有明確表示將收緊貨幣政策，但沃什表示，抑制通脹的選項包括動用利率。（中證金牛座）"
+    },
+    {
+      "id": "mkt:019f6b1a-3557-7aab-8dc9-f46f410340b1",
+      "time": "2026-07-16 21:25:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Houthi militants accused Israel of seeking to implement a \"Greater Israel\" plan to expand its influence across West Asia and said they will steadfastly defend their rights."
+    },
+    {
+      "id": "4992523",
+      "time": "2026-07-16 21:25:02",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【伯恩斯坦：上調阿斯麥目標價至2500歐元，列出三大上行驅動因素】伯恩斯坦將阿斯麥的目標價從2300歐元上調至2500歐元，維持“跑贏大市”評級。分析師David Dai指出，三大上行驅動因素：其一，阿斯麥計劃在2027年和2028年每年將低數值孔徑EUV及ArFi產能各提升30%；定價方面存在上行空間，估計2027年EUV平均售價將上漲10%，2028年有望再度實現高個位數百分比的漲幅；看好利潤率的改善空間，公司對2026年下半年毛利率指引為56%，高於市場普遍預期的52.6%。伯恩斯坦將阿斯麥2027年及2028年營收預測分別上調至560億和720億歐元，每股收益預測亦相應上調至53.6和75.3歐元。"
+    },
+    {
+      "id": "4992522",
+      "time": "2026-07-16 21:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織總幹事表示，由世界衛生組織與非洲疾控中心聯合制定的非洲大陸防疫準備與應對計劃資金缺口超過4億美元。"
+    },
+    {
+      "id": "4992521",
+      "time": "2026-07-16 21:23:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界衛生組織呼籲各國及合作方消除各類加劇痴呆患病風險的誘因。"
+    },
+    {
+      "id": "4992520",
+      "time": "2026-07-16 21:23:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "胡塞武裝：受壓迫者若不尋求公道，暴君便會肆無忌憚地持續施行壓迫。猶太復國主義者是最殘暴的暴君。以色列圖謀推行 “大以色列” 計劃，擴張其在西亞地區的勢力範圍。我們堅定捍衛自身權益。"
+    },
+    {
+      "id": "mkt:019f6b18-26bc-7aab-8dc9-eb084d0aed08",
+      "time": "2026-07-16 21:22:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【PENTAGON assessment: U.S. Iran operation costs may reach $100bn, far above official $30bn】A PENTAGON internal assessment reported July 15 says actual U.S. spending on military operations against Iran could be as high as $100bn, well above the roughly $30bn the U.S. government has disclosed. The gap is attributed to undisclosed operational expenses, losses of advanced aircraft and significant damage to U.S. military facilities in the Middle East. Senator Angus King said the public is very disappointed by the lack of transparency and highlighted follow-on consumer costs, including higher gasoline prices."
+    },
     {
       "id": "te:economy:567574",
       "time": "2026-07-16 21:22:35",
