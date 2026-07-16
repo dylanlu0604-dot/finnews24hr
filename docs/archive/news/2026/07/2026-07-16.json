@@ -1,7 +1,109 @@
 {
   "date": "2026-07-16",
-  "count": 1700,
+  "count": 1712,
   "items": [
+    {
+      "id": "4991656",
+      "time": "2026-07-16 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約跌0.24%， 10年期主力合約跌0.05%， 5年期主力合約跌0.05%， 2年期主力合約跌0.02%。"
+    },
+    {
+      "id": "4991655",
+      "time": "2026-07-16 15:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國監管機構：將建議券商不要推出新的槓桿ETF。"
+    },
+    {
+      "id": "mkt:019f69c7-47b9-7aab-8dbf-df02392e7d16",
+      "time": "2026-07-16 15:14:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean regulator to advise brokerages not to launch new leveraged ETFs."
+    },
+    {
+      "id": "4991654",
+      "time": "2026-07-16 15:14:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣汽集團第3000萬輛整車下線】廣汽集團第3000萬輛整車下線。繼一汽集團、上汽集團、東風汽車、長安汽車後，廣汽是國內第5家達成3000萬輛整車下線里程碑的車企集團。"
+    },
+    {
+      "id": "mkt:019f69c6-748f-7aab-8dbf-d1f5e670f909",
+      "time": "2026-07-16 15:14:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean regulators will require retail investors to complete additional risk-education courses."
+    },
+    {
+      "id": "4991653",
+      "time": "2026-07-16 15:13:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國監管機構：將要求散戶投資者參加額外的風險課程。"
+    },
+    {
+      "id": "4991652",
+      "time": "2026-07-16 15:13:48",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國加強單一股票槓桿交易保證金要求，最低保證金由1000萬韓元提高至3000萬韓元，僅認可現金作為保證金。"
+    },
+    {
+      "id": "mkt:019f69c6-3691-7aab-8dbf-cd5a2a55ed43",
+      "time": "2026-07-16 15:13:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "YONHAP reports South Korea will raise minimum margin for single-stock leveraged trading to KRW30 mln from KRW10 mln and will accept cash only as collateral."
+    },
+    {
+      "id": "mkt:019f69c5-438d-7aab-8dbf-c2ba618dd43c",
+      "time": "2026-07-16 15:12:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean regulator says it will tighten rules on management of price differentials."
+    },
+    {
+      "id": "4991651",
+      "time": "2026-07-16 15:12:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國監管機構：將收緊對價差管理的監管。"
+    },
+    {
+      "id": "4991650",
+      "time": "2026-07-16 15:11:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬聯易達集團釋出AI企業服務平臺萬大聖】7月16日，萬聯易達集團正式釋出AI企業服務平臺——萬大聖。它基於深度學習演算法與產業資料積累，可對需求快速解析並精準匹配資源，需求匹配準確率超95%。萬聯易達企服集團負責人朱冰表示，AI的價值不止於提升個人工作效率，更在於推動企業經營方式變革，幫助企業獲得更確定的服務成果。"
+    },
+    {
+      "id": "mkt:019f69c4-3d95-7aab-8dbf-bd0c84a0753a",
+      "time": "2026-07-16 15:11:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "【UK May GDP in line with expectations; markets focus on politics】UK May GDP rose 0.1% MoM, matching market expectations. The pound was largely steady after the release as attention remained on UK political developments. Ebury said the data underline a still-fragile recovery. Renewed tensions in the Middle East have kept firms on heightened alert. Earlier Thursday, media reports that incoming prime minister Burnham may appoint current home secretary Mahmood—seen as less supportive of expansionary fiscal policy—as chancellor pushed EUR/GBP to a 13-month low."
+    },
     {
       "id": "mkt:019f69c3-3566-7aab-8dbf-b29aec357fa5",
       "time": "2026-07-16 15:10:28",
