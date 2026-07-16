@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-16 08:10:50",
-  "count": 18611,
+  "updated": "2026-07-16 08:14:46",
+  "count": 18615,
   "items": [
+    {
+      "id": "te:markets:567335",
+      "time": "2026-07-16 08:14:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Chinese Yuan Hits 4-week High — The Chinese Yuan touched 6.77 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.16%, and in the last 12 months, it decreased 5.82%."
+    },
+    {
+      "id": "te:economy:567334",
+      "time": "2026-07-16 08:13:48",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "India",
+        "Total Vehicle Sales",
+        "Importance 1"
+      ],
+      "text": "India Car Sales Rise 18.2% in June — Passenger vehicle sales in India increased 18.2% year-on-year in June 2026, slowing from a 25.3% surge in the previous month to 326,068 units, according to data from the Society of Indian Automobile Manufacturers (SIAM). The strong performance was attributed to supportive domestic demand, aided by lower Goods and Services Tax rates, softer financing costs, and the introduction of new models, though growth eased compared to May. However, the industry continues to closely monitor geopolitical developments and the progress of the monsoon, given their implications for agricultural output and rural demand. In May, SIAM stated that the positive momentum seen in the second half of FY 2025–26 continued into the first month of FY 2026–27."
+    },
+    {
+      "id": "4990950",
+      "time": "2026-07-16 08:13:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：在301調查方面正在快速推進。"
+    },
+    {
+      "id": "4990949",
+      "time": "2026-07-16 08:12:37",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【陽光電源：公司出口到美國的逆變器沒有遠端通訊功能 滿足美國相關標準】陽光電源(300274)7月15日在機構調研時表示，公司出口到美國的逆變器沒有遠端升級功能，也沒有遠端通訊功能，滿足美國相關標準。公司將持續深耕全球清潔能源市場。"
+    },
+    {
+      "id": "4990948",
+      "time": "2026-07-16 08:11:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易。"
+    },
+    {
+      "id": "4990947",
+      "time": "2026-07-16 08:11:38",
+      "tags": [],
+      "text": "韓國交易所對KOSPI指數啟動臨時停牌機制。"
+    },
+    {
+      "id": "mkt:019f6843-5229-7aab-8db2-80be3467f325",
+      "time": "2026-07-16 08:11:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a temporary suspension mechanism for the KOSPI index."
+    },
+    {
+      "id": "4990946",
+      "time": "2026-07-16 08:11:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普15日在社交媒體發文稱，伊朗已允許一名美國公民離開該國。美國“感謝伊朗這一善意之舉”。 特朗普稱，這名美國公民於2024年12月在拜登政府時期被“錯誤扣留”。她目前已安全離開伊朗，狀況良好。（新華社）"
+    },
+    {
+      "id": "mkt:019f6842-e318-7aab-8db2-790918d79e25",
+      "time": "2026-07-16 08:10:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened down 2.60 points, or 0.03%, at 8,838.50 on Thursday, July 16."
+    },
     {
       "id": "4990945",
       "time": "2026-07-16 08:10:05",
@@ -171100,53 +171180,6 @@
         "Brent"
       ],
       "text": "【Iran says US shells struck northern railway bridge】Iran says a railway bridge west of Aghala in Golestan province was struck by multiple US artillery shells in the early hours of the 9th, local time, and several explosions were reported."
-    },
-    {
-      "id": "4977780",
-      "time": "2026-07-09 08:14:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱北部一鐵路橋遭美軍炮彈襲擊】總檯記者當地時間9日獲悉，伊朗北部戈勒斯坦省阿加拉市以西的一座鐵路橋當天凌晨被數枚美軍炮彈擊中，當地傳出多次爆炸聲。（央視）"
-    },
-    {
-      "id": "mkt:019f4437-b36a-7aab-8d01-99635f924c04",
-      "time": "2026-07-09 08:12:08",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "According to Axios, U.S. officials said the U.S. Air Force bombed two railway bridges in Iran in strikes on Wednesday."
-    },
-    {
-      "id": "mkt:019f4437-5aa3-7aab-8d01-94048ca783ce",
-      "time": "2026-07-09 08:11:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi"
-      ],
-      "text": "【Lei Jun on Xiaomi Auto's 'Pengcheng' series positioning】On July 9 Xiaomi unveiled its second vehicle series, SkyNomad (Pengcheng). Lei Jun said the SU7/YU7 line is a \"driver's car,\" while the Pengcheng series is an \"intelligent, configurable large-cabin SUV.\""
-    },
-    {
-      "id": "4977778",
-      "time": "2026-07-09 08:11:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家計算機病毒應急處理中心檢測發現72款違法違規收集使用個人資訊的移動應用】7月9日，國家網路安全通報中心釋出通報：根據中央網信辦、工業和資訊化部、公安部聯合釋出的《關於開展2026年個人資訊保護系列專項行動的公告》，依據《網路安全法》《個人資訊保護法》《網路資料安全管理條例》《App違法違規收集使用個人資訊行為認定方法》等法律法規和有關規定，經國家計算機病毒應急處理中心檢測，72款移動應用存在一項或者多項違法違規收集使用個人資訊情況。"
-    },
-    {
-      "id": "4977777",
-      "time": "2026-07-09 08:11:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率上升1.0個基點，至1.440%。5年期日本國債收益率升至1.995%。"
     }
   ]
 }
