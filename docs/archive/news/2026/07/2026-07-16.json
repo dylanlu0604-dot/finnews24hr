@@ -1,7 +1,243 @@
 {
   "date": "2026-07-16",
-  "count": 852,
+  "count": 877,
   "items": [
+    {
+      "id": "mkt:019f688d-3a9d-7aab-8db4-9fa58e08a163",
+      "time": "2026-07-16 09:31:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF KOREA says inf pressures will continue to rise and are expected to remain above target."
+    },
+    {
+      "id": "4991092",
+      "time": "2026-07-16 09:31:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計通脹將在相當長一段時間內保持高位。"
+    },
+    {
+      "id": "mkt:019f688d-10b2-7aab-8db4-92c494cb9cd6",
+      "time": "2026-07-16 09:31:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said it will assess the timing of any further rise in inflationary pressure, the trajectory of the domestic economic recovery, and implications for financial stability."
+    },
+    {
+      "id": "4991091",
+      "time": "2026-07-16 09:31:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將評估通脹壓力進一步加劇的時機、國內經濟改善趨勢以及金融穩定性。"
+    },
+    {
+      "id": "4991090",
+      "time": "2026-07-16 09:31:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：有必要監控匯率的高波動性。"
+    },
+    {
+      "id": "mkt:019f688c-a803-7aab-8db4-8e65e4f83b00",
+      "time": "2026-07-16 09:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open - morning session】Front-month 2-year (TS) contract down 0.01%; 5-year (TF) down 0.02%; 10-year (T) down 0.02%; 30-year (TL) down 0.06%."
+    },
+    {
+      "id": "mkt:019f688c-a666-7aab-8db4-847eeeebfa59",
+      "time": "2026-07-16 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China stock index futures open】CSI 300 index futures (IF) main contract down 0.60%; SSE 50 index futures (IH) down 0.27%; CSI 500 index futures (IC) down 1.14%; CSI 1000 index futures (IM) down 0.92%."
+    },
+    {
+      "id": "4991089",
+      "time": "2026-07-16 09:31:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計今年經濟增長率將大幅超過5月預測的2.6%。"
+    },
+    {
+      "id": "mkt:019f688c-9a8b-7aab-8db4-7ddee86bc028",
+      "time": "2026-07-16 09:31:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Composite Index extended early losses to around 2% in early trading."
+    },
+    {
+      "id": "mkt:019f688c-79d5-7aab-8db4-73c537dbcd0f",
+      "time": "2026-07-16 09:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea expects this year's growth rate to significantly exceed its May projection of 2.6%."
+    },
+    {
+      "id": "4991088",
+      "time": "2026-07-16 09:31:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：週四的利率決定獲得一致透過。"
+    },
+    {
+      "id": "4991087",
+      "time": "2026-07-16 09:30:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.03%，現報14478.699點；上證指數跌0.87%，現報3921.083點；創業板指跌2.63%，現報3704.726點。"
+    },
+    {
+      "id": "mkt:019f688c-4ce2-7aab-8db4-6b8fcc3b2fd3",
+      "time": "2026-07-16 09:30:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 30-year government bond yield rose 5 bps to 3.805%."
+    },
+    {
+      "id": "mkt:019f688c-3cef-7aab-8db4-66b65b19243e",
+      "time": "2026-07-16 09:30:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said Thursday's interest-rate decision was approved unanimously."
+    },
+    {
+      "id": "mkt:019f688c-3c00-7aab-8db4-5d7fb55b26f6",
+      "time": "2026-07-16 09:30:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "A-share fiber-optic sector opened lower; Changfei Optical Fiber fell more than 8%, with Zhengfan Technology, Changuang Huaxin, Changjiang Communication and Tianfu Communication also down."
+    },
+    {
+      "id": "4991086",
+      "time": "2026-07-16 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24972.781點；恒生科技指數現漲1.011%。"
+    },
+    {
+      "id": "mkt:019f688b-c2ee-7aab-8db4-5147c5a34e4b",
+      "time": "2026-07-16 09:30:17",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share CRO sector eased in early trade. Wanbang Pharmaceutical and Yinuosi slid over 6%, Pharmaron fell about 5%, while Nuosige and Yangguang Nuohe also weakened."
+    },
+    {
+      "id": "4991085",
+      "time": "2026-07-16 09:30:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24932.160點；恒生科技指數現漲0.808%。"
+    },
+    {
+      "id": "4991084",
+      "time": "2026-07-16 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.67%，成分股中，瀾起科技跌7.78%，盛美上海跌6.37%，拓荊科技跌5.04%，中芯國際跌4.97%。"
+    },
+    {
+      "id": "4991083",
+      "time": "2026-07-16 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.78%， 滬深300指數期貨連續跌0.79%， 中證500指數期貨連續跌0.94%， 上證50指數期貨連續跌0.66%。"
+    },
+    {
+      "id": "4991082",
+      "time": "2026-07-16 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.21%，成分股中，戈碧迦跌5.53%，錦華新材跌4.61%，曙光數創跌3.43%，則成電子跌3.40%。"
+    },
+    {
+      "id": "4991081",
+      "time": "2026-07-16 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.07%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "4991080",
+      "time": "2026-07-16 09:29:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念板塊低開，長飛光纖跌超8%】光纖概念板塊低開，長飛光纖跌超8%，正帆科技、長光華芯、長江通訊、天孚通訊跟跌。"
+    },
+    {
+      "id": "4991079",
+      "time": "2026-07-16 09:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部公開徵求《工業網際網路平臺 區塊鏈建設管理規範 第1部分：子鏈建設》等173項行業標準計劃專案意見】7月16日，據工信部網站，根據工信部標準化工作的總體安排，現將申請立項的《工業網際網路平臺 區塊鏈建設管理規範 第1部分：子鏈建設》等173項行業標準計劃專案予以公示。"
+    },
+    {
+      "id": "4991078",
+      "time": "2026-07-16 09:28:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4040美元/盎司，日內跌0.30%。"
+    },
     {
       "id": "4991077",
       "time": "2026-07-16 09:27:53",

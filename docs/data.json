@@ -1,7 +1,243 @@
 {
-  "updated": "2026-07-16 09:28:34",
-  "count": 18633,
+  "updated": "2026-07-16 09:32:34",
+  "count": 18612,
   "items": [
+    {
+      "id": "mkt:019f688d-3a9d-7aab-8db4-9fa58e08a163",
+      "time": "2026-07-16 09:31:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BANK OF KOREA says inf pressures will continue to rise and are expected to remain above target."
+    },
+    {
+      "id": "4991092",
+      "time": "2026-07-16 09:31:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計通脹將在相當長一段時間內保持高位。"
+    },
+    {
+      "id": "mkt:019f688d-10b2-7aab-8db4-92c494cb9cd6",
+      "time": "2026-07-16 09:31:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said it will assess the timing of any further rise in inflationary pressure, the trajectory of the domestic economic recovery, and implications for financial stability."
+    },
+    {
+      "id": "4991091",
+      "time": "2026-07-16 09:31:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：將評估通脹壓力進一步加劇的時機、國內經濟改善趨勢以及金融穩定性。"
+    },
+    {
+      "id": "4991090",
+      "time": "2026-07-16 09:31:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：有必要監控匯率的高波動性。"
+    },
+    {
+      "id": "mkt:019f688c-a803-7aab-8db4-8e65e4f83b00",
+      "time": "2026-07-16 09:31:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open - morning session】Front-month 2-year (TS) contract down 0.01%; 5-year (TF) down 0.02%; 10-year (T) down 0.02%; 30-year (TL) down 0.06%."
+    },
+    {
+      "id": "mkt:019f688c-a666-7aab-8db4-847eeeebfa59",
+      "time": "2026-07-16 09:31:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China stock index futures open】CSI 300 index futures (IF) main contract down 0.60%; SSE 50 index futures (IH) down 0.27%; CSI 500 index futures (IC) down 1.14%; CSI 1000 index futures (IM) down 0.92%."
+    },
+    {
+      "id": "4991089",
+      "time": "2026-07-16 09:31:14",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計今年經濟增長率將大幅超過5月預測的2.6%。"
+    },
+    {
+      "id": "mkt:019f688c-9a8b-7aab-8db4-7ddee86bc028",
+      "time": "2026-07-16 09:31:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Composite Index extended early losses to around 2% in early trading."
+    },
+    {
+      "id": "4991088",
+      "time": "2026-07-16 09:31:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：週四的利率決定獲得一致透過。"
+    },
+    {
+      "id": "mkt:019f688c-79d5-7aab-8db4-73c537dbcd0f",
+      "time": "2026-07-16 09:31:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea expects this year's growth rate to significantly exceed its May projection of 2.6%."
+    },
+    {
+      "id": "4991087",
+      "time": "2026-07-16 09:30:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.03%，現報14478.699點；上證指數跌0.87%，現報3921.083點；創業板指跌2.63%，現報3704.726點。"
+    },
+    {
+      "id": "mkt:019f688c-4ce2-7aab-8db4-6b8fcc3b2fd3",
+      "time": "2026-07-16 09:30:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 30-year government bond yield rose 5 bps to 3.805%."
+    },
+    {
+      "id": "mkt:019f688c-3cef-7aab-8db4-66b65b19243e",
+      "time": "2026-07-16 09:30:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea said Thursday's interest-rate decision was approved unanimously."
+    },
+    {
+      "id": "mkt:019f688c-3c00-7aab-8db4-5d7fb55b26f6",
+      "time": "2026-07-16 09:30:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "A-share fiber-optic sector opened lower; Changfei Optical Fiber fell more than 8%, with Zhengfan Technology, Changuang Huaxin, Changjiang Communication and Tianfu Communication also down."
+    },
+    {
+      "id": "4991086",
+      "time": "2026-07-16 09:30:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24972.781點；恒生科技指數現漲1.011%。"
+    },
+    {
+      "id": "mkt:019f688b-c2ee-7aab-8db4-5147c5a34e4b",
+      "time": "2026-07-16 09:30:17",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-share CRO sector eased in early trade. Wanbang Pharmaceutical and Yinuosi slid over 6%, Pharmaron fell about 5%, while Nuosige and Yangguang Nuohe also weakened."
+    },
+    {
+      "id": "4991085",
+      "time": "2026-07-16 09:30:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報24932.160點；恒生科技指數現漲0.808%。"
+    },
+    {
+      "id": "4991084",
+      "time": "2026-07-16 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.67%，成分股中，瀾起科技跌7.78%，盛美上海跌6.37%，拓荊科技跌5.04%，中芯國際跌4.97%。"
+    },
+    {
+      "id": "4991083",
+      "time": "2026-07-16 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.78%， 滬深300指數期貨連續跌0.79%， 中證500指數期貨連續跌0.94%， 上證50指數期貨連續跌0.66%。"
+    },
+    {
+      "id": "4991082",
+      "time": "2026-07-16 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.21%，成分股中，戈碧迦跌5.53%，錦華新材跌4.61%，曙光數創跌3.43%，則成電子跌3.40%。"
+    },
+    {
+      "id": "4991081",
+      "time": "2026-07-16 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.07%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "4991080",
+      "time": "2026-07-16 09:29:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光纖概念板塊低開，長飛光纖跌超8%】光纖概念板塊低開，長飛光纖跌超8%，正帆科技、長光華芯、長江通訊、天孚通訊跟跌。"
+    },
+    {
+      "id": "4991079",
+      "time": "2026-07-16 09:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部公開徵求《工業網際網路平臺 區塊鏈建設管理規範 第1部分：子鏈建設》等173項行業標準計劃專案意見】7月16日，據工信部網站，根據工信部標準化工作的總體安排，現將申請立項的《工業網際網路平臺 區塊鏈建設管理規範 第1部分：子鏈建設》等173項行業標準計劃專案予以公示。"
+    },
+    {
+      "id": "4991078",
+      "time": "2026-07-16 09:28:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4040美元/盎司，日內跌0.30%。"
+    },
     {
       "id": "4991077",
       "time": "2026-07-16 09:27:53",
@@ -170911,470 +171147,6 @@
         "Nikkei 225"
       ],
       "text": "Japan 40-year government bond yield rose 5bp to 4.055%."
-    },
-    {
-      "id": "mkt:019f4481-53da-7aab-8d04-31be0fc659d6",
-      "time": "2026-07-09 09:32:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 30-year government bond yield rose 3.0bp to 4.030%."
-    },
-    {
-      "id": "mkt:019f4481-47ce-7aab-8d04-2f939049133b",
-      "time": "2026-07-09 09:32:30",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【China NBS: June factory-gate prices — producer goods down 0.3% MoM】China's National Bureau of Statistics said June factory-gate prices: producer goods (production materials) fell 0.3% MoM, cutting the overall PPI by about 0.25 percentage point. By sector, mining prices were down 0.9% MoM, raw materials down 1.2%, and manufacturing up 0.2%. Consumer goods (living materials) fell 0.3% MoM, reducing the headline PPI by about 0.06 percentage point; food was down 0.8%, clothing and durable consumer goods were flat, and everyday consumer goods fell 0.1%."
-    },
-    {
-      "id": "4977911",
-      "time": "2026-07-09 09:32:28",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局：6月份食品菸酒及在外餐飲類價格環比下降0.3%】國家統計局資料顯示，6月份，食品菸酒及在外餐飲類價格環比下降0.3%，影響CPI下降約0.08個百分點。食品中，鮮果價格下降2.0%，影響CPI下降約0.04個百分點；鮮菜價格下降1.0%，影響CPI下降約0.02個百分點；畜肉類價格下降0.5%，影響CPI下降約0.02個百分點，其中豬肉價格下降0.8%；蛋類價格上漲5.8%，影響CPI上漲約0.03個百分點。其他七大類價格環比一漲兩平四降。其中，醫療保健價格上漲0.2%；居住、教育文化娛樂價格均持平；其他用品及服務、交通通訊價格分別下降2.7%和1.3%，生活用品及服務、衣著價格分別下降0.2%和0.1%。"
-    },
-    {
-      "id": "4977910",
-      "time": "2026-07-09 09:32:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "智譜(02513.HK)漲超10%，公司擬折價約13%配股籌資逾314億港元。"
-    },
-    {
-      "id": "mkt:019f4481-0f20-7aab-8d04-20b33588e8d9",
-      "time": "2026-07-09 09:32:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "02513.HK",
-        "Impact bullish"
-      ],
-      "text": "Zhipu (02513.HK) jumped more than 10% after proposing a rights issue at about a 13% discount to raise over HK$31.4 billion."
-    },
-    {
-      "id": "4977909",
-      "time": "2026-07-09 09:32:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：6月份，工業生產者出廠價格中，生產資料價格同比上漲5.5%】國家統計局資料顯示，6月份，工業生產者出廠價格中，生產資料價格同比上漲5.5%，影響工業生產者出廠價格總水平上漲約4.28個百分點。其中，採掘工業價格上漲16.5%，原材料工業價格上漲8.6%，加工工業價格上漲3.0%。生活資料價格下降0.9%，影響工業生產者出廠價格總水平下降約0.20個百分點。其中，食品價格下降2.1%，衣著和一般日用品價格均下降1.0%，耐用消費品價格上漲0.1%。"
-    },
-    {
-      "id": "mkt:019f4481-08c2-7aab-8d04-1a71854a8f3f",
-      "time": "2026-07-09 09:32:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "【National Bureau of Statistics: June production-material producer prices up 5.5% YoY】China NBS data: In June, producer prices for production materials rose 5.5% YoY, contributing about +4.28 ppt to the headline industrial PPI. By sector: mining +16.5% YoY, raw-materials industry +8.6% YoY, processing/manufacturing +3.0% YoY. Consumer goods prices declined 0.9% YoY, subtracting about -0.20 ppt from headline PPI; within consumer goods: food -2.1% YoY, clothing -1.0% YoY, general daily goods -1.0% YoY, durable consumer goods +0.1% YoY."
-    },
-    {
-      "id": "4977908",
-      "time": "2026-07-09 09:32:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "mkt:019f4480-aa68-7aab-8d04-15aa0b5ff68d",
-      "time": "2026-07-09 09:31:50",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Copper",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "China's National Bureau of Statistics said June 2026 industrial producer purchase prices rose 6.4% YoY and fell 0.2% MoM. In 1H 2026, factory-gate industrial producer prices were up 1.5% YoY and producer purchase prices rose 2.4% YoY."
-    },
-    {
-      "id": "mkt:019f4480-a5f0-7aab-8d04-0acd42945f03",
-      "time": "2026-07-09 09:31:49",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "WTI"
-      ],
-      "text": "Mitsubishi UFJ says the Thai baht is particularly vulnerable to rising oil prices and higher US Treasury yields, partly because the currency exhibits relatively low carry characteristics."
-    },
-    {
-      "id": "mkt:019f4480-7c29-7aab-8d04-0534cbf083bf",
-      "time": "2026-07-09 09:31:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "Copper",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【NBS: Food, tobacco, alcohol and dining-out prices fell 0.3% MoM in June】The NBS said food, tobacco, alcohol and dining-out prices fell 0.3% MoM in June, subtracting about 0.08 ppt from CPI. Food: fresh fruit -2.0% (‑0.04 ppt), fresh vegetables -1.0% (‑0.02 ppt), meat -0.5% (‑0.02 ppt) with pork -0.8%, eggs +5.8% (+0.03 ppt). Of seven other major categories, one rose, two were unchanged and four fell: health care +0.2%; housing and education/culture & recreation flat; other goods & services -2.7%; transport & communications -1.3%; household goods & services -0.2%; clothing -0.1%."
-    },
-    {
-      "id": "4977907",
-      "time": "2026-07-09 09:31:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：6月份全國工業生產者出廠價格同比上漲4.1%】國家統計局資料顯示，2026年6月份，全國工業生產者出廠價格同比上漲4.1%，環比下降0.3%。工業生產者購進價格同比上漲6.4%，環比下降0.2%。上半年，工業生產者出廠價格比上年同期上漲1.5%，工業生產者購進價格上漲2.4%。"
-    },
-    {
-      "id": "mkt:019f4480-3da1-7aab-8d03-fe862d700c97",
-      "time": "2026-07-09 09:31:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【NBS: Food, tobacco and dining prices down 0.8% YoY in June】National Bureau of Statistics data: in June, food, tobacco and dining-out prices fell 0.8% YoY, subtracting about 0.24 ppt from CPI. Food breakdown: livestock meat -7.3% YoY (CPI impact ~-0.30 ppt); pork -15.9%. Dairy -1.7% YoY (CPI impact ~-0.02 ppt). Fresh fruit -0.7% YoY (CPI impact ~-0.01 ppt). Eggs +16.0% YoY (CPI impact +0.08 ppt). Among the seven other major categories, six rose and one fell: other goods and services +6.6% YoY; transport & communications +4.1%; healthcare +2.3%; clothing +1.4%; education, culture & recreation +1.4%; household goods & services +1.3%; housing -0.3%."
-    },
-    {
-      "id": "mkt:019f4480-244f-7aab-8d03-f7ec829976c9",
-      "time": "2026-07-09 09:31:16",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "【China bond futures open: 2Y/5Y flat, 10Y +0.01%, 30Y +0.03%】China 2-year bond futures (TS) front-month contract unchanged at the morning open; 5-year (TF) unchanged; 10-year (T) up 0.01%; 30-year (TL) up 0.03%."
-    },
-    {
-      "id": "mkt:019f4480-1189-7aab-8d03-eb6bd72e03c8",
-      "time": "2026-07-09 09:31:11",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact bullish",
-        "000660.KS"
-      ],
-      "text": "China Southern 2x Long Samsung Electronics (07747) rose 6.6%; China Southern 2x Long SK Hynix (07709) rose more than 15%."
-    },
-    {
-      "id": "mkt:019f4480-0f7c-7aab-8d03-e7b19e278b2c",
-      "time": "2026-07-09 09:31:10",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【NBS: China June CPI down 0.3% MoM, up 1.0% YoY】The National Bureau of Statistics reported June CPI rose 1.0% YoY; urban +1.0%, rural +0.8%. Food prices fell 1.6% YoY, non-food +1.5%; consumer goods +1.1% YoY, services +0.8% YoY. Jan–Jun average CPI +1.0% YoY. Month-on-month June CPI declined 0.3% (urban -0.4%, rural -0.3%); food -0.4% MoM, non-food -0.3% MoM; consumer goods -0.6% MoM, services unchanged."
-    },
-    {
-      "id": "mkt:019f4480-0d8e-7aab-8d03-dee29c142a3f",
-      "time": "2026-07-09 09:31:10",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Index futures morning open】CSI 300 index futures (IF) most-active contract up 0.20% at open; SSE 50 index futures (IH) most-active contract down 0.10%; CSI 500 index futures (IC) most-active contract up 0.50%; CSI 1000 index futures (IM) most-active contract up 0.35%."
-    },
-    {
-      "id": "4977906",
-      "time": "2026-07-09 09:31:04",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率上升3個基點，至4.030%。"
-    },
-    {
-      "id": "4977905",
-      "time": "2026-07-09 09:31:03",
-      "tags": [],
-      "text": "國家統計局：2026年6月份，全國居民消費價格同比上漲1.0％。"
-    },
-    {
-      "id": "te:markets:565444",
-      "time": "2026-07-09 09:31:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in China Hit 4-week Low — SHANGHAI decreased to 3968.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Shanghai Stock Exchange Composite Index lost 0.32%, and in the last 12 months, it increased 13.41%."
-    },
-    {
-      "id": "mkt:019f447f-e758-7aab-8d03-d4e58d3d860a",
-      "time": "2026-07-09 09:31:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bearish",
-        "WTI",
-        "CNH"
-      ],
-      "text": "China June PPI fell 0.3% month-on-month, versus +0.5% in May."
-    },
-    {
-      "id": "4977904",
-      "time": "2026-07-09 09:30:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：2026年6月份居民消費價格同比上漲1.0%】2026年6月份，全國居民消費價格同比上漲1.0%。其中，城市上漲1.0%，農村上漲0.8%；食品價格下降1.6%，非食品價格上漲1.5%；消費品價格上漲1.1%，服務價格上漲0.8%。1—6月平均，全國居民消費價格比上年同期上漲1.0%。 6月份，全國居民消費價格環比下降0.3%。其中，城市下降0.4%，農村下降0.3%；食品價格下降0.4%，非食品價格下降0.3%；消費品價格下降0.6%，服務價格持平。"
-    },
-    {
-      "id": "mkt:019f447f-cfd4-7aab-8d03-cbe1e770cfd4",
-      "time": "2026-07-09 09:30:54",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | PPI (MoM) (Jun) | actual -0.3% | previous 0.5%"
-    },
-    {
-      "id": "4977903",
-      "time": "2026-07-09 09:30:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞聯機械一字漲停】亞聯機械一字漲停，公司預計上半年業績增長近6成，海外高毛利專案發力。"
-    },
-    {
-      "id": "mkt:019f447f-8fd0-7aab-8d03-c4f26d750e27",
-      "time": "2026-07-09 09:30:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's factory-gate producer price index (PPI) rose 4.1% YoY in June 2026 and fell 0.3% MoM, National Bureau of Statistics data showed."
-    },
-    {
-      "id": "4977902",
-      "time": "2026-07-09 09:30:30",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國6月PPI年率 4.1%，預期4.1%，前值3.90%。"
-    },
-    {
-      "id": "4977901",
-      "time": "2026-07-09 09:30:28",
-      "tags": [
-        "資料"
-      ],
-      "text": "中國6月CPI年率 1%，預期1.1%，前值1.20%。"
-    },
-    {
-      "id": "mkt:019f447f-6788-7aab-8d03-b99d69153d68",
-      "time": "2026-07-09 09:30:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's consumer price index rose 1.0% YoY in June 2026, the National Bureau of Statistics said."
-    },
-    {
-      "id": "mkt:019f447f-571f-7aab-8d03-b002e75d9e88",
-      "time": "2026-07-09 09:30:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper",
-        "Impact bearish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "China June CPI m/m -0.3% (exp -0.2%, prev -0.1%)."
-    },
-    {
-      "id": "mkt:019f447f-520f-7aab-8d03-ac31b8da66ac",
-      "time": "2026-07-09 09:30:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China June PPI YoY 4.1%; expected 4.1%; prior 3.9%."
-    },
-    {
-      "id": "mkt:019f447f-4dc3-7aab-8d03-a1415e59299b",
-      "time": "2026-07-09 09:30:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "CSI300",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "China June CPI YoY 1.0% vs 1.1% consensus; May 1.2%."
-    },
-    {
-      "id": "mkt:019f447f-3a9c-7aab-8d03-9aaac1e2f9a6",
-      "time": "2026-07-09 09:30:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | CPI (MoM) (Jun) | actual -0.3% | consensus -0.2% | previous -0.1%"
-    },
-    {
-      "id": "mkt:019f447f-38b2-7aab-8d03-947dc133158c",
-      "time": "2026-07-09 09:30:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | PPI (YoY) (Jun) | actual 4.1% | consensus 4.1% | previous 3.90%"
-    },
-    {
-      "id": "mkt:019f447f-38af-7aab-8d03-8c04dd31ea23",
-      "time": "2026-07-09 09:30:15",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "China | CPI (YoY) (Jun) | actual 1% | consensus 1.1% | previous 1.20%"
-    },
-    {
-      "id": "mkt:019f447f-0e14-7aab-8d03-87a138296ae6",
-      "time": "2026-07-09 09:30:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand deputy finance minister says government aims to raise investment share of GDP from 22-23% to 30%."
-    },
-    {
-      "id": "4977900",
-      "time": "2026-07-09 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約漲0.03%， 10年期主力合約跌0.01%， 5年期主力合約漲0.01%， 2年期主力合約漲0.01%。"
-    },
-    {
-      "id": "4977899",
-      "time": "2026-07-09 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.49%， 滬深300指數期貨連續跌0.02%， 中證500指數期貨連續漲0.32%， 上證50指數期貨連續跌0.21%。"
-    },
-    {
-      "id": "4977898",
-      "time": "2026-07-09 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.54%，成分股中，沐曦股份漲5.70%，晶合整合漲5.54%，佰維儲存漲3.42%，盛美上海漲3.13%。"
-    },
-    {
-      "id": "4977897",
-      "time": "2026-07-09 09:29:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國副財長：政府計劃將國內生產總值中的投資率從22-23%提高到30%。"
-    },
-    {
-      "id": "mkt:019f447e-e2f2-7aab-8d03-79bf5724bc83",
-      "time": "2026-07-09 09:29:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shanghai Yashi shares hit the daily trading limit after the company said 1H net profit is expected to rise 407–515% year-on-year."
-    },
-    {
-      "id": "mkt:019f447e-918c-7aab-8d03-70708c23ae36",
-      "time": "2026-07-09 09:29:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's deputy finance minister said the government hopes to boost investment in the economy."
-    },
-    {
-      "id": "mkt:019f447e-81e2-7aab-8d03-6fdee5e92328",
-      "time": "2026-07-09 09:29:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "Mainland A-share fiber-optic sector opened higher; Xingwang Yuda hit the daily limit-up, Meishi Technology approached limit-up, and Shaanxi Huada, Tefa Information and Changyingtong opened higher."
-    },
-    {
-      "id": "mkt:019f447e-7448-7aab-8d03-6749895098ca",
-      "time": "2026-07-09 09:29:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's deputy finance minister said the government is considering diversifying fuel sources."
-    },
-    {
-      "id": "4977896",
-      "time": "2026-07-09 09:29:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "半導體產業鏈開盤活躍，合肥城建接近漲停，普冉股份、匯成股份、沐曦股份、晶合整合、神工股份紛紛高開。"
-    },
-    {
-      "id": "4977895",
-      "time": "2026-07-09 09:29:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【上海雅仕一字漲停】上海雅仕一字漲停，公司上半年淨利潤預增407%到515%。"
-    },
-    {
-      "id": "4977894",
-      "time": "2026-07-09 09:29:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Meta將投資100億美元，在加拿大建設其首個資料中心】當地時間7月8日，Meta發表宣告稱，將投資130億加元（約合100億美元），建設其在加拿大的首個資料中心，以擴大基礎設施來支援其人工智慧發展目標。Meta在宣告中介紹，該資料中心位於艾伯塔省斯特金縣，電力容量將達到1吉瓦。Meta將為這一新的發電設施提供資金，該設施將接入艾伯塔省的電網。Meta稱，該設施建設期間需要3000名建築工人，建成後將創造300個全職工作崗位。此外，該公司還將投資約6000萬加元用於當地基礎設施改善，包括道路和供水設施。"
     }
   ]
 }
