@@ -1,7 +1,511 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-17 06:14:22_
-_本檔包含 3576 則快訊，約 715420 字_
+_更新時間：2026-07-17 07:10:32_
+_本檔包含 3589 則快訊，約 715438 字_
+
+---
+
+### 2026-07-14 00:00:38  #焦點 #國際
+
+上週美國戰略石油儲備原油庫存減少約 300 萬桶，降至 3.165 億桶，創 1983 年以來新低。
+
+---
+
+### 2026-07-14 00:00:22  #其他
+
+加拿大油砂聯盟表示，加拿大聯邦政府、艾伯塔省及多家企業已達成協議，共同推進碳捕獲與封存專案相關實施路徑建設。
+
+---
+
+### 2026-07-13 23:55:49  #其他
+
+美元/瑞郎日內漲幅達0.5%，報0.8125。
+
+---
+
+### 2026-07-13 23:50:32  #MKT News #Important #SKHY.O #Impact bearish
+
+SK Hynix (SKHY.O) shares fell as much as 9.9% to an intraday low.
+
+---
+
+### 2026-07-13 23:49:56  #市場
+
+【英國兩年期國債收益率漲超13個基點】週一（7月13日）歐市尾盤，英國10年期國債收益率漲10.7個基點，重新整理日高至4.979%，北京時間18:00以來持續擴大漲幅。兩年期英債收益率漲13.4個基點，重新整理日高至4.355%。30年期英債收益率漲7.2個基點，50年期英債收益率漲6.5個基點。2/10年期英債收益率利差跌2.732個基點，報+62.057個基點。
+
+---
+
+### 2026-07-13 23:49:43  #市場
+
+SK海力士ADR跌幅擴大至9.9%，觸及盤中低點。
+
+---
+
+### 2026-07-13 23:49:27  #其他
+
+加州總檢察長表示，多個州已要求派拉蒙在相關訴訟審結前不得完成併購交易。
+
+---
+
+### 2026-07-13 23:48:21  #國際
+
+【美軍稱首次在實戰中動用海上無人艇】美軍中央司令部13日說，美軍12日動用了海上無人艇打擊伊朗。這是美軍首次在實戰中動用海上無人艇。美軍中央司令部當天在社交媒體上說，美軍使用多艘“單向攻擊水面無人艇”，成功打擊伊朗一處潛艇和艦船維修設施。三艘“海盜”水面無人艇擊中阿巴斯港海軍基地的港口。美軍帖文配發一段時長25秒的影片。影片中美軍水面無人艇衝向伊朗目標，隨即發生劇烈爆炸。（新華社）
+
+---
+
+### 2026-07-13 23:48:00  #MKT News #PARA.O #Impact bearish #WBD.O #Impact bullish
+
+California and 11 other state attorneys general said they are filing suit to block Paramount's acquisition of Warner Bros.
+
+---
+
+### 2026-07-13 23:47:41  #國際
+
+加州總檢察長稱，加州及美國另外 11 個州提起訴訟，試圖阻止派拉蒙收購華納兄弟。
+
+---
+
+### 2026-07-13 23:47:23  #其他
+
+英國首相斯塔默宣佈與瑞士達成貿易協議。
+
+---
+
+### 2026-07-13 23:46:52  #國際
+
+烏克蘭總統澤連斯基：強大且充足的反彈道作戰能力，是結束俄烏衝突的關鍵。其重要性不亞於針對俄羅斯經濟的中遠端打擊，或是前線的作戰行動。烏克蘭攔截俄軍彈道導彈的手段越多，普京坐到談判桌前的可能性就越大 —— 因為他手中這場戰爭最後的依仗將徹底失效。
+
+---
+
+### 2026-07-13 23:45:42  #國際
+
+法庭檔案顯示：法官將特朗普律師及司法部多名高階官員移交州律師協會處理。
+
+---
+
+### 2026-07-13 23:45:13  #MKT News
+
+A member of Iran's National Security and Foreign Policy Commission, Sayyedi, said the United States ranks first in breaches of trust and violations of international law, and that global — not just Iranian — distrust stems from its abandonment of international treaties and commitments.
+
+---
+
+### 2026-07-13 23:44:04  #MKT News
+
+【U.S. expands Cuba sanctions, targets tourism ministry】The U.S. added Cuba’s Ministry of Tourism to its sanctions list, the Treasury’s Office of Foreign Assets Control (OFAC) said in guidance updated Monday; the ministry was one of 10 entities newly designated. The U.S. has cut large-scale fuel shipments to Cuba, forcing resort closures, airline cancellations and international operators to abandon contracts, and international visitor numbers have fallen to record lows. Cuba’s power grid is under growing strain, with two nationwide blackouts last week. Under pressure from the Trump administration, the Cuban government announced nearly 200 economic reforms last month, including allowing new tourism projects to be 100% foreign-owned and permitting operators to import supplies directly rather than through the state distribution system; the U.S. described the measures as "belated and ultimately just cosmetic smoke-and-mirrors."
+
+---
+
+### 2026-07-13 23:43:19  #MKT News
+
+A U.S. judge has ruled the settlement between Trump and the IRS invalid.
+
+---
+
+### 2026-07-13 23:42:51  #國際
+
+美國法官裁定特朗普與美國國稅局達成的和解協議無效。
+
+---
+
+### 2026-07-13 23:42:16  #公司
+
+蘇黎世機場集團：6 月蘇黎世機場貨運量 34978 噸，同比下降 2.6%。
+
+---
+
+### 2026-07-13 23:41:28  #其他
+
+馬士基：WAF6 航線將往返塞拉萊與西地中海。
+
+---
+
+### 2026-07-13 23:41:15  #MKT News #AMKBY.O #Impact bullish
+
+Maersk says its WAF6 service will be rerouted to transit the Red Sea.
+
+---
+
+### 2026-07-13 23:41:06  #其他
+
+馬士基：WAF6服務現在可以透過紅海航線落實。
+
+---
+
+### 2026-07-13 23:41:00  #國際
+
+市場訊息：美國國會大廈附近出現安全險情。
+
+---
+
+### 2026-07-13 23:40:38  #MKT News
+
+Market news: security incident reported near the U.S. Capitol.
+
+---
+
+### 2026-07-13 23:39:38  #公司
+
+【報道：迪拜擬新建港口以繞開霍爾木茲海峽】英國《金融時報》援引知情人士報道稱，迪拜環球港務集團計劃在阿聯酋東海岸建設一座新港口和一個集裝箱碼頭，以降低迪拜對傑貝阿里港（Jebel Ali）的依賴，並繞開霍爾木茲海峽。報道稱，這家港口運營商正在洽談在富查伊拉(Fujairah)沿海地區開發一座多功能港口，以及在該酋長國的現有港口內建造一個新碼頭。迪拜環球港務集團正與政府官員磋商條款清單。報道稱，迪拜環球港務集團拒絕證實任何東海岸專案的細節，但表示“正制定多元化計劃以應對此次中斷”。
+
+---
+
+### 2026-07-13 23:38:48  #其他
+
+沙馬蘭石油：阿特魯什油田產量預計很快恢復至 4 萬桶 / 日以上，阿特魯什油田日產原油約 3.7 萬桶，薩爾桑油田日產原油約 7000 桶。
+
+---
+
+### 2026-07-13 23:38:25  #市場
+
+AppLovin 股價下跌 9.6%。
+
+---
+
+### 2026-07-13 23:37:09  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
+
+On Monday July 13, European equity indices closed as follows: Germany's DAX 30 +22.95 pts (+0.09%) at 25,108.37. UK FTSE 100 -5.86 pts (-0.06%) at 10,491.43. France's CAC 40 +25.68 pts (+0.31%) at 8,364.65. Euro STOXX 50 -1.51 pts (-0.02%) at 6,268.46. Spain's IBEX 35 -59.80 pts (-0.31%) at 19,324.90. Italy's FTSE MIB +188.33 pts (+0.36%) at 52,802.50.
+
+---
+
+### 2026-07-13 23:36:47  #國際
+
+【英國擬將伊朗伊斯蘭革命衛佇列為“非法組織”】英國政府13日宣佈，已向議會提交法規草案，擬將伊朗伊斯蘭革命衛隊等3個組織列為“非法組織”。英國政府說，草案將於本週晚些時候由議會審議。草案如獲議會批准，支援或協助相關組織可被判處14年監禁；受相關組織指使實施縱火等破壞活動，最高可被判處終身監禁。新規還將降低檢方的舉證難度。截至目前，伊朗方面尚未就此作出回應。（新華社）
+
+---
+
+### 2026-07-13 23:34:05  #宏觀 #國際
+
+【中國駐日使館就日涉“南海仲裁案裁決”惡劣言行提出嚴正交涉】針對日本外相就“南海仲裁案裁決”出臺十年發表談話、日夥同他國發表所謂聯合宣告，中國駐日本大使館公使施泳13日向日本外務省亞洲大洋州局局長金井正彰提出嚴正交涉和強烈抗議。中方強調，所謂“裁決”違反國際法基本準則，嚴重損害《聯合國海洋法公約》嚴肅性和權威性，嚴重衝擊國際法治，是一張非法無效沒有約束力的廢紙，中方反對且不接受任何基於該“裁決”的主張和行動。中國在南海的領土主權和海洋權益任何情況下不受該“裁決”影響。日本在南海問題上負有歷史罪責且並未清算，沒有資格說三道四。日方持續插手南海問題、政治操弄非法“裁決”，有關惡劣言行挑戰戰後國際秩序和國際法治，破壞南海和平穩定，違背地區國家共同利益和意願，引發地區國家和國際社會的高度警惕。中方將堅決有力回擊日方挑釁，堅定捍衛自身領土主權和海洋權益。（新華社）
+
+---
+
+### 2026-07-13 23:33:26  #國際
+
+博世將於 2026 年啟動美國本土商業化生產。
+
+---
+
+### 2026-07-13 23:33:25  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Axios: a U.S. official said U.S. Central Command will announce later on Monday the specific timing for resuming the 'Block Iran' operation.
+
+---
+
+### 2026-07-13 23:32:53  #宏觀 #市場 #國際
+
+美國財政部拍賣三個月期國債，得標利率3.760%，投標倍數2.84。拍賣六個月期國債，得標利率3.860%，投標倍數3.11。
+
+---
+
+### 2026-07-13 23:32:41  #焦點 #國際
+
+據Axios記者： 新一輪海上封鎖尚未生效，相關法規要求需提前 24 小時通知船東。一名美國官員表示，美軍中央司令部將於週一晚些時候公佈具體實施時間。
+
+---
+
+### 2026-07-13 23:32:29  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+US 3-month Treasury auction through July 13 — percentage of allotment awarded at the stop-out yield 8.47%, previous 93.49%.
+
+---
+
+### 2026-07-13 23:32:23  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 3-month Treasury auction on July 13: bid-cover ratio 2.84, prior 2.58.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Market Themes #AI Revolution #DXY #Impact bearish #S&P500 #EURUSD #Impact bullish
+
+【Apollo warns dollar vulnerable to AI-driven sell-off】Apollo Global Management chief economist Torsten Slok said the dollar’s recent strength is vulnerable if an AI-led equity sell-off intensifies. He noted international investors’ heavy, largely unhedged allocation to AI themes has driven record rolling net foreign inflows into US equities over the past 12 months, boosting dollar demand as buyers convert local currency into dollars. With US rates high, hedging costs remain elevated, making dollar moves more sensitive to equity flows. Slok warned that a loss of confidence in AI triggering equity outflows would pose material downside risk to the dollar.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #WTI
+
+US 6-month Treasury auction stop-out yield 3.86% as of July 13, versus 3.83% prior.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
+
+US 3-month Treasury auction (settlement July 13) stop-out yield 3.76% vs 3.74% prior.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 6-month Treasury auction on July 13 bid-cover ratio 3.11; prior 3.05.
+
+---
+
+### 2026-07-13 23:32:13  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+US 6-month Treasury auction on July 13: share of allotment at the stop-out yield 54.42%, previous 0.86%.
+
+---
+
+### 2026-07-13 23:32:07  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 2.84 | previous 2.58
+
+---
+
+### 2026-07-13 23:32:07  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction High Yield Rate (Jul.13) | actual 3.76% | previous 3.74%
+
+---
+
+### 2026-07-13 23:32:07  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Accepted at High (Jul.13) | actual 8.47% | previous 93.49%
+
+---
+
+### 2026-07-13 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 3.11 | previous 3.05
+
+---
+
+### 2026-07-13 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction High Yield Rate (Jul.13) | actual 3.86% | previous 3.83%
+
+---
+
+### 2026-07-13 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Accepted at High (Jul.13) | actual 54.42% | previous 0.86%
+
+---
+
+### 2026-07-13 23:31:01  #市場 #央行 #國際
+
+【美國2年期國債收益率升至2025年以來最高 因油價躍升】短端美國國債收益率升至2025年初以來最高水平，伊朗局勢再度緊張推升油價，令市場猜測美聯儲可能需加息抗通脹。對利率敏感的2年期美債收益率一度上漲4個基點，至4.25%，為2025年2月以來最高；5年期收益率也觸及類似高點，報4.35%。基準10年期美債收益率上漲3個基點，至4.60%，為5月份以來最高。在美國和伊朗新一輪互襲後，布倫特原油上漲5%。雙方就霍爾木茲海峽是否仍然開放給出了相互矛盾的說法。美國總統唐納德·特朗普稱美國正在“恢復”對伊朗船隻的封鎖後，債券市場跌幅擴大。
+
+---
+
+### 2026-07-13 23:30:46  #市場
+
+【義大利銀行板塊有望連續兩天創收盤歷史新高】德國DAX 30指數初步收漲0.20%，報25117.05點。法國股指初步收漲0.18%，義大利股指初步收漲0.25%、銀行指數漲0.29%，英國股指初步收漲0.01%。
+
+---
+
+### 2026-07-13 23:30:43  #國際
+
+歐洲STOXX 600指數初步收跌0.05%，報640.77點。歐元區STOXX 50指數初步收跌0.04%，報6267.47點。富時泛歐績優300指數初步收跌0.10%，報2564.37點。
+
+---
+
+### 2026-07-13 23:30:41  #國際
+
+博世：計劃至 2031 年在美國業務最高投資 75 億美元。
+
+---
+
+### 2026-07-13 23:30:00  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: France 10Y Bond Yield Rises by 15 bps — Government bonds yields are higher on Monday. Top gainers are France 10Y (15.30bps), US 10Y (3.90bps), Germany 10Y (3.65bps) and Japan 10Y (2.49bps).
+
+---
+
+### 2026-07-13 23:29:48  #國際
+
+博世宣佈與美國商務部達成 2.25 億美元直接資助協議，該資金為其在羅斯維爾 20 億美元投資專案的組成部分。
+
+---
+
+### 2026-07-13 23:28:28  #市場 #國際
+
+【機構：標普500指數EPS動能有望繼續強勁上行】儘管在經歷了“爆炸性”增長的第一季度後，市場對標普500指數第二季度的每股收益（EPS）預期已經很高，但美國銀行證券指出，目前“沒有任何跡象表明盈利動能正在減弱”。由Savita Subramanian領銜的策略師團隊在週一的研報中寫道，美國銀行預計第二季度每股收益為85.50美元，同比增長28%；並將2026年的每股收益預期從335美元上調至345美元，即全年增長26%。市場共識預計，在第一季度增長27%之後，標普500指數第二季度的每股收益將同比增長22%。
+
+---
+
+### 2026-07-13 23:28:12  #MKT News
+
+Erdogan announced a new 1 trillion lira program to give manufacturing firms access to concessional-rate loans.
+
+---
+
+### 2026-07-13 23:28:02  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
+
+Prime Minister Starmer has agreed to the UK joining a £78 billion loan package to support Ukraine.
+
+---
+
+### 2026-07-13 23:27:57  #其他
+
+土耳其總統埃爾多安：推出總額 1 萬億里拉新信貸計劃，為製造企業爭取低息貸款創造條件。
+
+---
+
+### 2026-07-13 23:27:43  #國際
+
+英國首相斯塔默達成協議，英國將參與 780 億英鎊烏克蘭援助貸款計劃。
+
+---
+
+### 2026-07-13 23:27:34  #Trading Economics #Markets #Commodity #Importance 2
+
+US Natgas Prices Fall to 2-Month Low — US natural gas prices fell more than 2% to below $2.90 per MMBtu, the lowest level in two months, pressured by rising production, weaker demand expectations, and lower LNG export flows during planned maintenance at Freeport LNG in Texas. Market estimates showed inventories were expected to remain around 6.6% above the five-year average for the week ended July 10, reflecting comfortable supply conditions. The latest EIA data showed US gas stocks were already 6.6% above the seasonal average as of July 3, supported by mild spring weather that allowed producers to build inventories. Gas output in the Lower 48 states increased to 110.2 billion cubic feet per day in July so far, up from 110.0 bcfd in June. Although warmer-than-normal temperatures are forecast through July 28, supporting power sector demand, lower LNG feedgas flows due to Freeport LNG’s maintenance shutdown are expected to weigh on the market.
+
+---
+
+### 2026-07-13 23:25:59  #其他
+
+土耳其總統埃爾多安：將附帶投資承諾的貸款計劃規模擴大至 7500 億里拉。
+
+---
+
+### 2026-07-13 23:24:42  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+【Shenzhen office sales jump 103% in 1H to six-year high】Primary and secondary office transactions in Shenzhen totaled 6,567 units in 1H 2026, up 103% YoY and the highest in six years, the Shenzhen Housing and Urban‑Rural Development Bureau said. Qianhai’s targeted support for cross‑border e‑commerce, tech and Hong Kong‑funded firms has concentrated buyer demand. Leasing momentum carried into Q2 as AI and semiconductor tenants expanded, pushing citywide Grade‑A office vacancy rates down for a third consecutive quarter. Commercial apartment transactions also hit a five‑year high in 1H 2026 after January 2026 cuts to commercial property downpayments from 50% to 30%, which materially lowered the purchase threshold and lifted volumes.
+
+---
+
+### 2026-07-13 23:24:39  #國際
+
+美國聯邦通訊委員會主席卡爾： 美國聯邦通訊委員會有權監督迪士尼管理層有關多元、公平與包容（DEI）相關決策。 華納的交易不應以 CNN 為附加條件。
+
+---
+
+### 2026-07-13 23:24:09  #市場
+
+萊茵金屬股價大幅下跌，最新跌幅 4.5%。
+
+---
+
+### 2026-07-13 23:23:14  #市場
+
+【創6年新高！深圳寫字樓上半年成交量大增103%】深圳市住建局資料顯示，今年上半年，深圳全市一、二手寫字樓成交6567套，同比大幅增長103%，創6年新高。深圳前海作為深港融合示範區，對跨境電商、科技企業、港資企業等均有針對性扶持政策，區位優勢疊加政策紅利，吸引大量相關企業在此購入物業。在商業用房買賣交易大漲的同時，二季度，深圳甲級寫字樓租賃市場也延續回暖態勢。人工智慧、半導體等科創企業持續擴租，推動深圳全市甲級寫字樓空置率連續三個季度回落。此外，隨著產業持續發展帶動人才大量流入，深圳公寓市場也表現亮眼。深圳市住建局資料顯示，2026年上半年全市商務公寓成交量創5年來新高。首付政策的調整成為此輪公寓成交放量的重要催化劑。今年1月，深圳將商業用房購房首付比例從50%下調至30%，大大降低了商業用房購買門檻，不少公寓專案成交量大幅提升。（央視財經）
+
+---
+
+### 2026-07-13 23:23:02  #國際
+
+【歐盟未就第21輪對俄製裁達成一致】當地時間7月13日，歐盟成員國外長會結束，各成員國未能就第21輪對俄羅斯制裁方案達成一致，相關方案因存在分歧而未獲透過。歐盟外交與安全政策高階代表卡拉斯在當天歐盟外長會後表示，成員國圍繞第21輪對俄製裁方案的相關磋商仍將進行。由於歐盟對俄製裁需獲得27個成員國一致同意，任何成員國反對都將導致方案無法透過。（央視新聞）
+
+---
+
+### 2026-07-13 23:22:48  #公司 #國際
+
+美國聯邦通訊委員會主席卡爾：亞馬遜收購全球星或將推動手機直連衛星業務發展。
+
+---
+
+### 2026-07-13 23:22:13  #國際
+
+市場訊息：法國總統馬克龍主持召開所謂 “自願聯盟” 會議，約 30 國國家元首出席，會議正式啟幕。
+
+---
+
+### 2026-07-13 23:20:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Palladium Trades Lower — Palladium fell below $1,260 per ounce as investors weighed geopolitical risks against a weakening demand outlook. The US and Iran continued exchanging strikes, while uncertainty over the Strait of Hormuz kept oil prices elevated, amid conflicting claims over whether the waterway remained open. Rising inflation concerns reinforced expectations that the Federal Reserve will raise interest rates by year-end, weighing on sentiment of non-yielding assets. Meanwhile, demand for palladium remained under pressure as the shift toward electric vehicles continued to reduce consumption from gasoline-powered vehicles, while ongoing substitution by automakers in favor of platinum further limited the metal's upside. On the supply side, South Africa's Sibanye-Stillwater announced plans to advance seven primary platinum group metals mining projects, with the first phase already approved.
+
+---
+
+### 2026-07-13 23:20:20  #國際
+
+美國聯邦通訊委員會主席卡爾：已將頻譜審批積壓申請量削減一半。
+
+---
+
+### 2026-07-13 23:19:58  #MKT News
+
+Yemen's Civil Aviation Authority said it has notified airlines that all airports nationwide are now open to air traffic.
+
+---
+
+### 2026-07-13 23:19:45  #國際
+
+歐盟外交與安全政策高階代表卡拉斯： 無法保證俄羅斯原油價格上限機制延期落地。
+
+---
+
+### 2026-07-13 23:19:05  #國際
+
+美國聯邦通訊委員會主席卡爾： 當下對通訊行業企業而言是 “利好時期”。
+
+---
+
+### 2026-07-13 23:18:49  #國際
+
+美國聯邦通訊委員會將為衛星業務申請者制定客觀審批標準。
+
+---
+
+### 2026-07-13 23:18:30  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran's Islamic Revolutionary Guard Corps said a U.S. airstrike in Iran on Monday killed three of its members.
+
+---
+
+### 2026-07-13 23:18:28  #國際
+
+市場訊息：三名伊朗革命衛隊成員在週一美軍對伊朗的打擊行動中身亡。
+
+---
+
+### 2026-07-13 23:18:11  #MKT News #Market Regions #Europe & UK #Brent #Impact mixed #WTI
+
+kallas said the EU cannot guarantee the continuation of the Russian oil price cap mechanism.
+
+---
+
+### 2026-07-13 23:18:08  #國際
+
+美國聯邦通訊委員會主席卡爾：擬加快衛星相關申請審批流程。
+
+---
+
+### 2026-07-13 23:17:57  #MKT News #Nasdaq100 #Impact bullish #S&P500
+
+U.S. Federal Communications Commission (FCC) will accelerate approval of satellite applications.
+
+---
+
+### 2026-07-13 23:16:26  #國際
+
+美國食品藥品監督管理局呼籲嬰兒配方奶粉行業加強防範供應鏈環節產生的汙染物。
+
+---
+
+### 2026-07-13 23:13:36  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+【ING: US corporates may boost euro-denominated credit issuance】ING strategists say US corporates could issue as much as €120bn of euro-denominated credit in 2026, a record high. They cite a cost advantage in the euro credit market versus dollar markets as the driver. ING adds that €120bn of issuance should not unduly strain market liquidity or crowd out European issuers.
+
+---
+
+### 2026-07-13 23:13:07  #Trading Economics #Markets #Commodity #Importance 0
+
+Platinum Trades Near November Levels — Platinum futures fell below $1,630 an ounce, hovering near late-November levels, as heightened geopolitical tensions weighed. Ongoing US-Iran hostilities and uncertainty surrounding the Strait of Hormuz lifted oil prices, amid conflicting claims over whether the waterway remained open. Higher energy costs renewed inflation concerns, reinforcing expectations of a rate hike by the Federal Reserve by year-end and weighing on non-yielding assets such as platinum. Meanwhile, the platinum market remained structurally tight and on track for a fourth consecutive annual deficit, as constrained South African mine output and subdued recycled supply continued to limit availability. The World Platinum Investment Council expects above-ground stocks to fall to 2.3 million ounces, less than three months of global demand, while robust investment demand and continued substitution of platinum for palladium in autocatalysts provided support.
+
+---
+
+### 2026-07-13 23:11:47  #國際
+
+歐盟外交與安全政策高階代表卡拉斯： 獲得最多支援的方案是禁止與以色列定居點開展貿易，但未說明支援該方案的具體票數規模。
+
+---
+
+### 2026-07-13 23:11:34  #市場 #國際
+
+【美國銀行調查：全球基金經理對日元看空情緒達到2022年以來最高】美國銀行調查顯示，由於日本財政和貨幣政策前景風險蓋過日本政府幹預匯市的可能性，全球投資組合經理對日元的看空情緒升至約四年來最高水平。美國銀行策略師Ralf Preusser、Adarsh Sinha等人在7月10日的報告中寫道：“投資者對日元匯率的看空程度達到2022年以來最高，推動這一觀點的主要因素是貨幣政策和財政政策風險。與此同時，美國商品期貨交易委員會(CFTC)資料顯示，截至6月底，投機性槓桿基金持有的日元淨空頭倉位達到2007年以來最多。
+
+---
+
+### 2026-07-13 23:11:08  #MKT News
+
+【China foreign minister Wang Yi meets Kazakhstan foreign minister Koshyrebayev】China foreign minister Wang Yi met Kazakhstan foreign minister Koshyrebayev in Beijing on July 13. Wang pledged Chinese support for Kazakhstan’s chosen development path and offered to deepen bilateral exchanges, governance-experience sharing and pragmatic cooperation to expand their permanent comprehensive strategic partnership. China welcomed Kazakhstan’s accession to the International Mediation Institute, praised its constructive role in the China–Central Asia mechanism, the Shanghai Cooperation Organization (SCO) and CICA, and Koshyrebayev signed the institute’s convention with Wang witnessing.
+
+---
+
+### 2026-07-13 23:10:50  #公司
+
+葉門民航管理局釋出通告，通知各航空公司全國所有機場現已恢復開放。
 
 ---
 
@@ -21174,443 +21678,5 @@ US President Trump said he would still win the presidential election in a landsl
 ### 2026-07-12 05:27:03  #國際
 
 伊朗議員梅薩姆・佐胡裡安表示，伊朗此前相當一部分行政體系精力都放在了謀求立刻取消制裁這一 “失敗方案” 上，卻沒有做好應對中長期持續遭受制裁的準備。
-
----
-
-### 2026-07-12 05:26:48  #國際
-
-伊朗議員梅薩姆・佐胡裡安於週六表示，德黑蘭方面不應寄望於制裁解除或停戰後的大規模重建計劃，從而拖延經濟改革程序。
-
----
-
-### 2026-07-12 05:20:10  #MKT News
-
-cenc measured a magnitude-3.8 earthquake at 05:09 on July 12 in Arong Banner, Hulunbuir, Inner Mongolia; hypocenter depth 10 km.
-
----
-
-### 2026-07-12 05:19:53  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-An Elabe poll for BFM shows that if the first-round vote were held this Sunday, France's far-right National Rally candidate Le Pen would receive 34.0–35.5% of the vote.
-
----
-
-### 2026-07-12 05:18:52  #MKT News
-
-After an appeals judge shortened a previous ban on Marine Le Pen's candidacy, clearing her to run for a fourth time, Le Pen has widened her lead in voter polls ahead of next April's French presidential election.
-
----
-
-### 2026-07-12 05:13:23  #國際
-
-【日本民眾集會反對修憲擴軍 擔憂民生受擠壓】當地時間11日傍晚，日本民眾自發在東京的新宿車站附近舉行集會，反對日本政府修改憲法、推動“再軍事化”等動向。（央視新聞）
-
----
-
-### 2026-07-12 05:01:12  #國際
-
-特朗普：即便所有媒體都對我極盡抹黑、充斥虛假新聞，我依舊以壓倒性大勝拿下總統大選。由此可見，主流媒體毫無公信力可言！倘若它們尚有半點信譽，這場歷史性勝利根本不可能實現。我希望媒體能重新贏回早已喪失殆盡的公眾尊重。
-
----
-
-### 2026-07-12 04:52:22  #國際
-
-【特朗普政府對達成伊朗核協議愈發悲觀】多名美國高階官員表示，特朗普政府認為，與伊朗達成核協議的希望愈發渺茫。這是美方罕見承認，總統核心外交目標之一——限制伊朗核專案，或許無法依靠和平談判實現。美方官員提出，伊朗應當釋出宣告，宣告霍爾木茲海峽保持通航，並停止向過往船隻開火。其中一名官員表示，若伊朗無法在週六前作出上述承諾，將會付出嚴重代價；其餘官員則未提及明確的最後期限。此番表態引發外界猜測：在宣佈美伊停火狀態結束後，特朗普或許正準備再次大幅調整對伊戰略。特朗普可供選擇的方案包括：重啟全面軍事打擊，阻止伊朗研發核武器；簽署一份無法完全滿足美方訴求的協議；或是徹底抽身退出衝突，但此舉會讓霍爾木茲海峽通航控制權懸而未決。
-
----
-
-### 2026-07-12 04:50:52  #國際
-
-一名美國高階官員表示，伊朗必須承諾在週六前重新開放霍爾木茲海峽，否則將承擔相應後果。
-
----
-
-### 2026-07-12 04:43:06  #國際
-
-【兩黨住房法案未經特朗普簽署自動生效，多名議員表示慶賀】美國國會未能透過配套選舉法案《拯救美國法案》，特朗普以此為由拒絕簽署這份住房法案。當地時間週六晚間，儘管特朗普拒絕簽字，參眾兩院兩黨議員仍共同慶祝這項具有里程碑意義的跨黨派住房法案正式落地生效。《21世紀安居之路法案》旨在透過增加住房供給、提升民眾自有住房比例，緩解全美住房短缺危機。法案放寬建築監管規定以鼓勵新建住宅，同時限制華爾街投資機構收購本可供給普通家庭的自住房屋。
-
----
-
-### 2026-07-12 04:37:42  #其他
-
-英國下一任首相頭號熱門人選伯納姆將廢除拉米限制陪審團審判的相關方案。
-注：英國司法大臣戴維·拉米2025年12月公佈英格蘭及威爾士刑事司法重大改革，核心是大幅縮減陪審團適用範圍，官方目的是解決刑事法院積壓近8萬起案件、大量受害者等待數年才能開庭的司法擁堵危機。
-
----
-
-### 2026-07-12 04:35:13  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
-
-OpenAI founder Altman said he is, so far, fairly confident AI is net-creating jobs rather than reducing them, contrary to his earlier expectation. He said he is less pessimistic than some but had expected AI at its current capability to already affect the labor market; that trend could continue.
-
----
-
-### 2026-07-12 04:34:58  #其他
-
-挪威球員埃爾林・哈蘭德目前在五場世界盃賽事中打入七球，過去三十天內，他的Instagram粉絲數量暴漲近1900萬。
-
----
-
-### 2026-07-12 04:32:51  #宏觀 #國際
-
-伊朗強硬派輿論人士阿里·戈爾哈基：外界原本預期外長阿拉格齊此次阿曼之行能出臺一份涉及霍爾木茲海峽南北航道的聯合宣告，後續卡利巴夫與美國副總統萬斯也會參與談判。但阿拉格齊空手而歸後，外界對於《諒解備忘錄》第五條相關外交磋商陷入停滯的猜測空前加劇。
-
----
-
-### 2026-07-12 04:25:03  #公司
-
-OpenAI CEO奧特曼：至少到目前為止，我十分確定人工智慧整體上創造了更多就業崗位。這和我當初預想的不一樣——雖說我原本就比其他人樂觀不少，但我本以為當AI發展到如今這種能力水平時，就業市場已經能顯現出明顯衝擊。這種向好趨勢或許還會持續下去。
-
----
-
-### 2026-07-12 04:23:04  #國際
-
-俄羅斯監測渠道稱，烏克蘭無人機再度在亞速海上空活動，疑似搜尋油輪及其他船隻。
-
----
-
-### 2026-07-12 04:19:53  #國際
-
-【美官員稱美國團隊未前往阿曼參加與伊朗的談判】一名美國官員表示，美國談判人員並未前往阿曼參加與伊朗的談判。該官員稱，美國技術團隊不會在阿曼現場出席，但將隨著事態發展，與阿曼和卡達方面保持聯絡。據美方訊息，一名美國高階官員曾於7月10日表示，談判將在阿曼恢復，但未說明美方團隊是否會親自到場。另一名美國官員稱，美方原本預計伊朗會在會談後公開表示將停止襲擊霍爾木茲海峽船隻，但根據伊朗方面訊息，伊朗並未作出此類承諾。伊朗方面訊息表示，阿曼和伊朗官員討論了“船隻安全通行機制”，並強調阿曼主張“透過外交防止地區緊張局勢升級”。（央視新聞）
-
----
-
-### 2026-07-12 04:15:58  #MKT News #WTI #XAUUSD #DXY
-
-【US official says US team did not travel to Oman for talks with Iran】A US official said US negotiators did not travel to Oman for talks with Iran and that a US technical team will not be present on-site; Washington will remain in contact with Oman and Qatar as events evolve. A US official said Washington had expected Iran to publicly commit to stop attacks on vessels in the Strait of Hormuz after the talks, but Iranian sources reported no such commitment. Iranian sources said Oman and Iran discussed a "mechanism for safe passage of vessels" and that Oman urged preventing regional escalation through diplomacy.
-
----
-
-### 2026-07-12 04:13:45  #央行 #國際
-
-凱文·沃什即將以美聯儲主席身份首次出席國會聽證會，在為期兩天的質詢中，他將與眾議員探討最新的美國通脹資料。
-
----
-
-### 2026-07-12 04:06:20  #國際
-
-波蘭國防部長表示，若基輔方面或盟國承擔相關費用，波蘭願意為烏克蘭升級米格-29戰鬥機。他還稱，烏克蘭可向支援其防務的合作伙伴分享該國無人機技術。
-
----
-
-### 2026-07-12 04:02:23  #MKT News
-
-The U.S. National Press Club urged the Department of Justice to immediately withdraw its subpoena for a New York Times reporter.
-
----
-
-### 2026-07-12 03:56:18  #國際
-
-【訊息人士：阿曼提議“雙航道”管理霍爾木茲海峽船隻通行】據阿曼外交部訊息，阿曼、伊朗雙方已同意繼續在技術和政治層面開展磋商。此外，據一名瞭解談判情況的訊息人士透露，阿曼已起草一項方案，擬透過兩條分別管理的航道，對霍爾木茲海峽的船舶通行進行管理。據透露，根據這項尚未最終敲定的協議，兩條航道都將保持開放。其中，穿越阿曼領海的南部航道將按照戰前條件實行自由通航。而經由伊朗領海的北部航道通行的船隻，則需要事先獲得伊朗批准，但根據該協議不會被收取通行費。另據一名知情外交人士表示，卡達官員也參與了當天在馬斯喀特舉行的相關磋商。同時，還有地區訊息人士透露，與會各方正在討論發表一份宣告，內容可能涉及全面開放霍爾木茲海峽位於國際水域的“中央航道”，保障船舶全面、自由通行。上述人士披露訊息尚未獲得阿曼、伊朗和卡達官方層面的證實。（央視新聞）
-
----
-
-### 2026-07-12 03:48:03  #MKT News #Nasdaq100 #Impact bearish
-
-【US equity rally shows cracks as market breadth narrows】Independent researcher The Kobeissi Letter reports 48% of Nasdaq-100 constituents are at least 20% below their all-time highs, the highest since February–March’s selloff this year. That is below the roughly 60% level seen before the March 30 trough, roughly double the share from 12 months ago and well under the 80% peak in the 2022 bear market. Meanwhile 64% of Nasdaq-100 names trade above their 200-day moving average—near this year’s high versus 38% at the March 30 trough. The readings indicate the recent US rally is increasingly concentrated in a small number of large-cap tech stocks and market breadth is narrowing.
-
----
-
-### 2026-07-12 03:33:58  #國際
-
-美國全國記者俱樂部：呼籲美國司法部立即撤回針對《紐約時報》記者的傳票。
-
----
-
-### 2026-07-12 03:18:03  #國際
-
-市場資訊：阿曼將在該國水域開放南部航道，船舶通行無需前置審批。伊朗將把阿曼的方案帶回德黑蘭商議。
-
----
-
-### 2026-07-12 03:15:35  #國際
-
-【Meta緊急下線爭議AI生圖功能】社交媒體巨頭Meta本週推出一項允許使用者透過@提及公開Instagram賬號、利用他人公開內容生成AI影象的新功能。該功能上線時預設允許公開內容被引用，引發美國演員工會等機構對肖像權侵犯以及犯罪風險的強烈擔憂。Meta表示，相關功能“未能達到預期效果”，因此決定全面下線。
-
----
-
-### 2026-07-12 03:10:29  #國際
-
-【美國放寬對阿聯酋出口管制，大幅深化雙方人工智慧與防務合作】美國週五放寬針對阿聯酋的出口管制，將這位海灣阿拉伯盟友升級為美國最受信賴的防務與技術合作夥伴之一。美國商務部工業與安全域性表示，鑑於阿聯酋作為美國主要防務合作伙伴發揮的作用，以及該國在維護美國國家安全利益（包括對抗伊朗相關事務）方面提供的支援，該局將依據《出口管理條例》大幅提升阿聯酋的待遇等級。此番調整落地後，經美方核准的阿聯酋機構可直接獲取先進人工智慧晶片、人工智慧伺服器、軍用及軍民兩用技術、商業衛星、無人機，以及油氣、民用核能領域相關技術，無需再走美國出口許可審批流程。
-
----
-
-### 2026-07-12 03:02:53  #MKT News #Important #WTI #Impact mixed #Brent
-
-【Oman proposes dual-channel management for Strait of Hormuz; Iran-controlled channel to require prior approval】Oman has drafted a proposal to manage shipping through the Strait of Hormuz via two separately controlled channels; the draft is not final. Both channels would remain open. The southern channel, inside Omani territorial waters, would allow free navigation under pre-conflict patterns. The northern channel, inside Iranian territorial waters, would require vessels to obtain prior Iranian approval but — per the draft — would not carry transit fees. Iran’s foreign minister met Oman’s foreign minister in Muscat to discuss mechanisms to secure vessel passage.
-
----
-
-### 2026-07-12 03:01:52  #焦點 #國際
-
-市場資訊：阿曼提出一項方案，計劃透過兩條受管控航運通道保障霍爾木茲海峽通航暢通，即船舶可經阿曼水域自由通行，若取道伊朗水域，則需事先獲得伊朗許可。
-
----
-
-### 2026-07-12 02:57:58  #MKT News #Important
-
-CNN sources say Oman has proposed managing shipping through the Strait of Hormuz via two separately controlled channels; the proposal has not been finalized.
-
----
-
-### 2026-07-12 02:55:27  #其他 #焦點
-
-阿曼提議霍爾木茲海峽航道由兩條獨立管控的航道分流管理，協議尚未最終敲定。
-
----
-
-### 2026-07-12 02:54:07  #其他
-
-訊息人士：阿曼就霍爾木茲海峽航運航線提出一項協議。
-
----
-
-### 2026-07-12 02:42:44  #MKT News #Important
-
-Omani state news agency said Oman and Iran agreed to continue technical and political talks to reach a Strait of Hormuz navigation agreement under international law.
-
----
-
-### 2026-07-12 02:42:38  #其他
-
-巴斯夫：已控制住德國廠區化學品洩漏險情，酸液洩漏事故無人員受傷。
-
----
-
-### 2026-07-12 02:41:48  #焦點 #國際
-
-阿曼媒體：阿曼與伊朗同意繼續開展技術及政治層面磋商，以期根據國際法就霍爾木茲海峽航行問題達成協議。
-
----
-
-### 2026-07-12 02:39:21  #國際
-
-美國駐以色列大使：以色列情報部門向我方，也就是總統及相關官員通風報信，稱存在一項針對性極強的暗殺計劃，目標是除掉特朗普總統。
-
----
-
-### 2026-07-12 02:37:29  #國際
-
-卡達外交部：首相兼外交大臣與阿聯酋外交大臣通電話，雙方商討協同舉措，緩和地區緊張局勢。
-
----
-
-### 2026-07-12 02:32:27  #MKT News
-
-【Venezuela earthquake toll rises to 4,333】Jorge Rodríguez, president of Venezuela’s National Assembly, said at a Caracas press conference on the 11th that two strong earthquakes on June 24 have killed 4,333 people and injured 16,740. Official data show 1,202 aftershocks recorded since the quakes.
-
----
-
-### 2026-07-12 02:30:25  #市場
-
-【大增42%！期市上半年成交額 超482萬億元！多個品種爆發】7月11日，中國期貨業協會（下稱中期協）公佈了6月全國期貨市場交易情況。資料顯示，以單邊計算，6月全國期貨交易市場成交量為9.39億手，成交額為80.62萬億元，同比分別增長27%和52.72%。1-6月全國期貨市場累計成交量為51.05億手，累計成交額為482.7萬億元，同比分別增長25.23%和42.08%。
-
----
-
-### 2026-07-12 02:30:03  #國際
-
-卡達外交部：首相兼外交大臣強調，各方應堅持對話，並保障霍爾木茲海峽航行自由。
-
----
-
-### 2026-07-12 02:13:36  #焦點 #國際
-
-美國駐以色列大使：各方均不接受敘利亞介入黎巴嫩事務的設想，以色列同樣持反對態度。
-
----
-
-### 2026-07-12 02:13:33  #MKT News
-
-U.S. ambassador to Israel said HEZBOLLAH is a common enemy of Lebanon and Israel.
-
----
-
-### 2026-07-12 02:13:28  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-The U.S. ambassador to Israel said Israel has notified Washington of an Iranian plot to assassinate the U.S. president. He said Iran's threats are not new, its behavior has not changed, and there is no evidence of a genuine moderate faction in Iran.
-
----
-
-### 2026-07-12 02:11:35  #MKT News #EWY #Impact bearish #MU #Impact bullish #005930.KS #Impact mixed
-
-【Roundhill Memory ETF gathers $22bn in three months; AUM tops iShares MSCI Korea (EWY)】Roundhill Memory ETF (DRAM) has reached about $25bn AUM since launching on April 2, attracting a record $22bn of net inflows in roughly three months and surpassing the 26‑year‑old iShares MSCI Korea ETF (EWY). Over the same period EWY logged roughly $2bn of net outflows; earlier in 2026 EWY had drawn about $6bn of inflows. DRAM allocates more than 90% of its weight to memory names — Samsung Electronics, Micron Technology, SK Hynix, SanDisk, Seagate Technology, Western Digital and Kioxia — and its holdings overlap with EWY by roughly 46%.
-
----
-
-### 2026-07-12 02:11:18  #國際
-
-美國駐以色列大使：真主黨是黎巴嫩與以色列共同的敵人。
-
----
-
-### 2026-07-12 02:10:51  #國際
-
-美國駐以色列大使：我們沒有看到伊朗存在溫和派的真正證據。
-
----
-
-### 2026-07-12 02:05:57  #MKT News
-
-Ukrainian President Zelenskiy urged Ukraine’s diplomatic efforts to focus on pressing allies to speed up implementation of weapons supply agreements.
-
----
-
-### 2026-07-12 02:04:24  #國際
-
-澤連斯基呼籲烏克蘭外交部門將工作重心放在推動盟友更快落實軍供協議上。
-
----
-
-### 2026-07-12 01:58:39  #國際
-
-烏克蘭發動襲擊後，塔甘羅格港口持續起火。該港口承擔貨運與燃料轉運的關鍵職能，為俄方戰事提供物資支撐。
-
----
-
-### 2026-07-12 01:53:11  #國際
-
-【美國就空軍一號報道傳喚《紐約時報》記者】美國聯邦檢察官向四名《紐約時報》記者發出傳票，強制其披露兩篇報道的訊息來源。這兩篇報道曝光了卡達贈予美國的全新總統專機存在安全防護缺陷。檢方要求記者交代訊息源，相關報道稱，美國特勤局出於安全隱患考量，建議特朗普搭乘老式空軍一號從土耳其返程，新機缺少反導彈防護能力。《紐約時報》及多家媒體批評此次傳喚舉動，認為政府意在恐嚇媒體，阻撓公眾瞭解國內實情。
-
----
-
-### 2026-07-12 01:46:03  #其他
-
-【長江海事局提升防禦颱風應急響應至二級】為全力應對今年第9號颱風“巴威”，保障長江干線水上交通安全，11日18時起，長江海事局將防禦颱風應急響應提升至二級。
-根據預測，11日至13日，颱風“巴威”將給長江中下游的湖北東部、江西、安徽等地帶來強風雨。
-長江海事局表示，二級應急響應期間，船舶應合理選擇安全水域錨泊，切勿冒險航行；錨泊時應加強值班瞭望，加固錨鏈纜繩，及時檢查關鍵裝置狀況；涉客船舶、施工船舶、“五小船舶”等重點船舶務必嚴格執行“應停盡停、應關盡關、應撤盡撤”要求。
-長江海事部門已加密與氣象部門會商研判，依託智慧管理平臺、電話、簡訊等多渠道開展預警叫應，把颱風動態、安全避險提示精準推送到相關船舶和港航企業。（新華社）
-
----
-
-### 2026-07-12 01:42:52  #其他
-
-【民政部部署各地民政部門全力做好民政領域防汛救災工作】記者7月11日從民政部獲悉，民政部近日印發通知，要求各地民政部門全力做好民政領域防汛救災工作，著力強化養老機構、兒童福利機構、精神衛生福利機構等民政服務機構汛期安全防範工作，堅持“以防為主”，抓緊對民政服務機構進行全覆蓋隱患排查，強化閉環整改整治，將安全隱患消除在成災前。（新華社）
-
----
-
-### 2026-07-12 01:32:19  #MKT News #Market Themes #AI Revolution
-
-【OpenAI releases GPT-5.6 as Musk and Altman trade public barbs】OpenAI released GPT-5.6 as Elon Musk and OpenAI founder Altman exchanged public insults on social media. Musk posted first, accusing Altman of having "taken fraud to a whole new level," and reposted a screenshot of Altman's US congressional hearing remark "I did this not out of enthusiasm," mocking that the "this" referred to fraud and alleging Altman's "love of scamming" is unmatched. Altman replied, accusing Musk of misleading public-market investors by promising to "short-term build space data centers," then promoted the new ChatGPT model, saying multiple benchmarks show GPT-5.6 Sol is currently the world's best model and that Musk's renewed attacks are a reliable signal.
-
----
-
-### 2026-07-12 01:32:09  #國際
-
-【GPT-5.6釋出之際 馬斯克與奧特曼隔空互懟】GPT-5.6釋出之際，埃隆·馬斯克與OpenAI創始人奧特曼在社交平臺上爆發公開交鋒。馬斯克率先發文，稱“他把詐騙提升到了一個全新的高度”。不久後，又轉發奧特曼此前的美國國會聽證會發言截圖，該圖配文為“我做這件事並非出於熱衷”，馬斯克嘲諷稱“他說的‘這件事’指的就是詐騙”，“他對搞詐騙的熱愛，可能超過了任何一個活著的人”。對此，奧爾特曼發文回應，調侃稱“哥們兒，你才是真正拿‘短期內建太空資料中心’忽悠公開市場投資者的人。”隨後，奧特曼再次發帖，宣傳最新推出的ChatGPT模型的同時進一步反擊，“有很多基準測試表明GPT‑5.6 Sol是目前世界上最好的模型，但最可靠的判斷方式就是埃隆又開始針對我了。”
-
----
-
-### 2026-07-12 01:23:18  #其他
-
-黎巴嫩官方訊息人士：黎巴嫩代表團僅由外交人員組成，不會安排軍方代表參會。
-
----
-
-### 2026-07-12 01:23:10  #國際
-
-市場資訊：黎巴嫩已通知華盛頓，其將參與在羅馬與以色列舉行的新一輪談判。
-
----
-
-### 2026-07-12 01:18:11  #其他
-
-【委內瑞拉強震遇難人數上升至4333人】當地時間11日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯召開新聞釋出會，通報該國日前發生的強震遇難人數已上升至4333人。此外，地震造成16740人受傷，發生餘震超過1200次。（央視新聞）
-
----
-
-### 2026-07-12 01:17:02  #國際
-
-【伊朗與阿曼兩國舉行會談 討論霍爾木茲海峽航運】當地時間11日，伊朗外交部長阿拉格齊率團訪問阿曼首都馬斯喀特，並與阿曼外交大臣巴德爾舉行會談。總檯記者獲悉，雙方重點討論了伊朗與阿曼雙邊關係、地區局勢以及霍爾木茲海峽問題。阿曼方面表示，希望伊朗與美國能夠全面落實美伊諒解備忘錄，透過外交途徑緩和地區緊張局勢，推動地區安全形勢改善。會談中，雙方還圍繞該諒解備忘錄第五條，就建立確保船舶安全透過霍爾木茲海峽的相關機制交換了意見。（央視新聞）
-
----
-
-### 2026-07-12 01:13:09  #MKT News #Market Regions #Greater China
-
-【China origin-based student credit loans total 620.7 bln yuan; 68.21 mln student person-times aided】China’s origin-based student credit loan program entered its 20th year this year. Over nearly two decades it has cumulatively disbursed 620.7 bln yuan and supported 68.21 mln student person-times, the Ministry of Education said.
-
----
-
-### 2026-07-12 01:09:29  #宏觀 #焦點
-
-【我國生源地助學貸款累計發放6207億元 資助學生6821萬人次】記者從教育部瞭解到，今年，生源地信用助學貸款開辦已進入第20個年頭。近20年來，我國生源地信用助學貸款已經累計發放貸款6207億元、資助學生6821萬人次。從2007年的甘肅、江蘇、湖北、重慶、陝西五省市試點，到如今覆蓋全國，教育部會同財政部、金融監管總局、中國人民銀行等部門，持續完善國家助學貸款政策，透過上調貸款額度、拓寬使用範圍、下調貸款利率，疊加在校全額貼息、還本寬限期、信用修復等暖心服務，打消家庭經濟困難學生求學顧慮，讓廣大學生只要考得上，都能讀得起。（央視新聞）
-
----
-
-### 2026-07-12 01:03:07  #其他
-
-【國家海洋預報臺持續釋出海浪紅色警報】記者從自然資源部獲悉，國家海洋預報臺11日22點繼續釋出海浪紅色警報。受今年第9號颱風“巴威”的影響，預計7月11日夜間到12日夜間，東海南部將出現8到12米的狂浪到狂濤區，東海北部、臺灣海峽將出現5到8米的巨浪到狂浪區，近海海域海浪預警級別為橙色；浙江近岸海域將出現6到9米的狂浪到狂濤，福建北部近岸海域將出現4到6米的巨浪到狂浪，該近岸海域海浪預警級別為紅色，上海近岸海域將出現3.5到5米的大浪到巨浪，該近岸海域海浪預警級別為橙色，江蘇南部、福建南部近岸海域將出現2.5到3.8米的大浪，該近岸海域海浪預警級別為黃色，山東南部、江蘇北部近岸海域將出現2到3米的中浪到大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。（央視新聞）
-
----
-
-### 2026-07-12 01:00:51  #其他
-
-【受“巴威”影響 上海兩機場計劃取消航班653架次】記者從上海機場瞭解到，受今年第9號颱風“巴威”影響，12日上海浦東機場和虹橋機場通行能力將出現下降，近三成進出港航班調減取消。兩機場計劃取消進出港航班653架次，其中，浦東機場458架次、虹橋機場195架次。上海機場提醒旅客及時向所乘航司瞭解查詢航班最新動態，合理安排出行。（央視新聞）
-
----
-
-### 2026-07-12 00:59:51  #其他
-
-委內瑞拉國民議會議長豪爾赫·羅德里格斯表示，地震已造成4,333人死亡，16,740人受傷。
-
----
-
-### 2026-07-12 00:58:40  #MKT News #WTI #Impact bearish #Brent
-
-【US pushes to reopen Iraq‑Syria oil pipeline to bypass Strait of Hormuz】Middle East Eye reports the US is working with Iraq and Syria to rehabilitate an about 800 km pipeline from Kirkuk to the Mediterranean port of Baniyas to enable Iraqi crude exports that bypass the Strait of Hormuz. An agreement is expected to be announced during Iraqi PM Ali al‑Zaidi’s planned White House meeting with Trump next week. The pipeline has been out of service for decades and is severely damaged; a senior official said it will likely require full reconstruction, a project expected to take two to three years. A group of US companies has been recruited to participate.
-
----
-
-### 2026-07-12 00:48:06  #公司
-
-馬斯克社交媒體發文稱，OpenAI CEO奧特曼把詐騙提升到了一個全新的高度。奧特曼回應馬斯克：“是你一直在向公開市場投資者兜售短期太空資料中心專案。”
-
----
-
-### 2026-07-12 00:47:41  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-IRNA reports explosions heard in Erbil and Sulaymaniyah in northern Iraq.
-
----
-
-### 2026-07-12 00:45:44  #MKT News
-
-【Qatar, Jordan discuss regional tensions, urge de-escalation】Qatari prime minister and foreign minister held a phone call with Jordan's deputy prime minister and foreign minister to discuss the current US‑Iran escalation, Qatar's foreign ministry said. Both stressed diplomacy and de‑escalation; Qatar called for implementation of the US‑Iran memorandum of understanding and maintenance of freedom of navigation in the Strait of Hormuz.
-
----
-
-### 2026-07-12 00:41:58  #公司
-
-OpenAI CEO奧特曼：大量基準測試資料都表明5.6 Sol是目前全球效能最強的模型，但最有力的佐證是，埃隆（馬斯克）又一門心思盯著我了。
-
----
-
-### 2026-07-12 00:37:26  #其他
-
-【“巴威”已登陸！專家提醒：登陸≠危險解除 這些區域有大暴雨】
-7月11日23時20分前後，今年第9號颱風“巴威”以颱風級在浙江省玉環市坎門街道沿海登陸，成為今年以來登陸我國的最強颱風。登陸後,“巴威”將繼續給福建、浙江等地製造強風雨，隨後深入內陸，由於其“體型”龐大，強降雨將波及江西、安徽、湖北、河南、京津冀等十餘省區市。
-
-登陸並不等於危險解除，專家分析稱，“巴威”體型龐大、強度強，其帶來的影響持續時間長、範圍廣，11日至12日其主體和遠距離水汽輸送將給我國華東及華北、東北帶來強降雨，東南沿海有持續大風。13日至15日“巴威”的低壓以及殘渦還會陸續影響到江漢、黃淮、華北、東北等地。
-
-11日夜間到12日，浙江東部和中南部、福建北部、江西東北部、北京、天津北部、河北中北部、遼寧西部、吉林北部、四川盆地西部、臺灣島等地部分地區有大暴雨，局地特大暴雨，其中北京東北部和南部、河北中部和東北部、天津北部局地有250~300毫米，浙江東部和南部、安徽南部、臺灣島局地有250~450毫米。
-
-
-之後，“巴威”還將深入內陸，12日至13日給江西、安徽、江蘇等地帶來強降雨，部分地區有大暴雨或特大暴雨。13日之後“巴威”殘餘環流還會繼續北上，13日至14日黃淮、華北將有明顯降雨，14日至15日東北等地也可能出現強降雨。（央視新聞）
-
----
-
-### 2026-07-12 00:31:49  #國際
-
-市場資訊：美國參與一項伊敘管道專案籌備計劃，該管線旨在繞開霍爾木茲海峽。
-
----
-
-### 2026-07-12 00:30:49  #國際
-
-特朗普：我剛在沃爾特里德醫療中心完成一次完美體檢，我每半年都會做一次體檢。這次我主動要求再加做一套認知能力測試，我是唯一先後三次主動接受該項測試的總統，而且三次測試全部拿滿分，所有題目全部答對。華盛頓沒幾個人能做到這點。
-
----
-
-### 2026-07-12 00:30:11  #國際
-
-特朗普：瑪吉·哈格曼十年來對我的報道全是歪曲抹黑。她寫的書簡直荒唐可笑，九成內容都是假新聞。她靠失真報道謀生，而等我們針對日漸衰敗的《紐約時報》發起的數十億美元訴訟開庭後，她必將付出代價，這場庭審不會讓大家等太久。我不介意負面報道，前提是內容屬實。但我絕不能容忍虛假報道，就像她這本乏味的書裡寫的內容，還有她過去十一年一貫的操作——她從頭到尾只有一個目的，就是讓我輸掉大選。可如今我穩坐橢圓辦公室，反觀她的算計，根本沒能得逞。瑪吉就是個失敗者！如果她肯如實寫下我的真實經歷，那故事其實平淡無奇，字裡行間卻全是我的累累功績。
 
 ---
