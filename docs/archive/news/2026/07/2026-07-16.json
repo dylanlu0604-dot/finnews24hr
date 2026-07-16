@@ -1,7 +1,48 @@
 {
   "date": "2026-07-16",
-  "count": 2505,
+  "count": 2510,
   "items": [
+    {
+      "id": "mkt:019f6aab-db60-7aab-8dc6-1618a8a2a81e",
+      "time": "2026-07-16 19:24:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dexterous robotic hands see steep price cuts; global humanoid robot market projected to exceed CNY20 bln by 2026】Dexterous robotic hands now represent roughly 10–15% of a humanoid robot’s total cost. Unit prices have fallen from about CNY100,000 to below CNY10,000, and manufacturers are expanding production lines to absorb rising consumer orders. Analysts project the global humanoid robot market will exceed CNY20 billion by 2026. The consumer robot upswing is accelerating a supply‑chain buildout for biomimetic skin, tactile sensors and flexible materials. A Zhejiang materials firm reports its third‑generation electronic skin provides multimodal sensing and real‑time feedback, has shipped over 20,000 tactile sensor kits and has completed a new mass‑production line."
+    },
+    {
+      "id": "4992235",
+      "time": "2026-07-16 19:24:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟制裁俄社媒VK及其子公司】據俄羅斯《生意人報》7月14日報道，歐盟從13日起對俄羅斯社交媒體網站VK及其子公司“通訊平臺”（MAX應用程式的開發者）實施制裁。理由是VK“與俄羅斯當局合作，包括向其提供使用者資料”，並“在國家支援下”參與MAX的開發工作。報道說，歐盟官方法律網站列舉了“通訊平臺”公司遭制裁的原因，包括MAX應用“具備追蹤通訊的能力，包括在使用虛擬專用網路（VPN）的情況下，能收集手機內已安裝應用的資料等”，且MAX的推廣伴隨著對WhatsApp（隸屬於被俄認定為極端組織並封禁的元宇宙平臺公司）及“電報”頻道等其他應用在俄運營的限制措施。VK回應說，歐盟制裁並未影響VK及MAX的正常運作，“各類應用及服務均照常向使用者開放”。（參考訊息）"
+    },
+    {
+      "id": "4992234",
+      "time": "2026-07-16 19:22:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機器人靈巧手大降價 全球人形機器人市場規模將破200億元】人形機器人的應用場景不斷拓寬，也帶動上游產業鏈加大了對消費端產品的生產研發。一批面向消費市場的新部件、新材料正在加速落地。在一家機器人靈巧手的研發實驗室裡，工程師黃俊霖正在對一款面向家用場景的六自由度靈巧手進行AI訓練。與工業場景不同，家用場景對靈巧手的重量、成本和使用便利性提出了更高要求。企業負責人告訴記者，靈巧手的成本約佔人形機器人整機成本的10%到15%，目前，單隻靈巧手的價格已從早期的10萬元級別降至萬元內。為應對消費端出現的訂單增長，企業正在對產線進行調整擴充。 據預測，2026年全球人形機器人市場規模將突破200億元。消費端人形機器人的爆發，正在帶動仿生皮膚、觸覺感測器、柔性材料等全新供應鏈生態加速形成。在浙江嘉興一家新材料企業，央視財經記者瞭解到，第三代電子皮膚產品已實現多模態感知與實時反饋能力，目前，他們觸覺感測產品已經交付超2萬套，量產新產線也已經建成。（央視財經）"
+    },
+    {
+      "id": "4992233",
+      "time": "2026-07-16 19:22:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前跌幅擴大 閃迪、SK海力士、西數跌超7%】美股儲存板塊盤前跌幅擴大，美光科技盤前跌4.68%，西部資料盤前跌7.55%，希捷科技盤前跌5.86%，閃迪盤前跌7.36%，SK海力士盤前跌7.04%。"
+    },
+    {
+      "id": "4992232",
+      "time": "2026-07-16 19:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿格斯研究將阿斯麥目標股價從1700美元上調至2100美元。"
+    },
     {
       "id": "4992231",
       "time": "2026-07-16 19:19:48",

@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-16 19:21:21",
-  "count": 18808,
+  "updated": "2026-07-16 19:25:25",
+  "count": 18803,
   "items": [
+    {
+      "id": "mkt:019f6aab-db60-7aab-8dc6-1618a8a2a81e",
+      "time": "2026-07-16 19:24:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Dexterous robotic hands see steep price cuts; global humanoid robot market projected to exceed CNY20 bln by 2026】Dexterous robotic hands now represent roughly 10–15% of a humanoid robot’s total cost. Unit prices have fallen from about CNY100,000 to below CNY10,000, and manufacturers are expanding production lines to absorb rising consumer orders. Analysts project the global humanoid robot market will exceed CNY20 billion by 2026. The consumer robot upswing is accelerating a supply‑chain buildout for biomimetic skin, tactile sensors and flexible materials. A Zhejiang materials firm reports its third‑generation electronic skin provides multimodal sensing and real‑time feedback, has shipped over 20,000 tactile sensor kits and has completed a new mass‑production line."
+    },
+    {
+      "id": "4992235",
+      "time": "2026-07-16 19:24:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟制裁俄社媒VK及其子公司】據俄羅斯《生意人報》7月14日報道，歐盟從13日起對俄羅斯社交媒體網站VK及其子公司“通訊平臺”（MAX應用程式的開發者）實施制裁。理由是VK“與俄羅斯當局合作，包括向其提供使用者資料”，並“在國家支援下”參與MAX的開發工作。報道說，歐盟官方法律網站列舉了“通訊平臺”公司遭制裁的原因，包括MAX應用“具備追蹤通訊的能力，包括在使用虛擬專用網路（VPN）的情況下，能收集手機內已安裝應用的資料等”，且MAX的推廣伴隨著對WhatsApp（隸屬於被俄認定為極端組織並封禁的元宇宙平臺公司）及“電報”頻道等其他應用在俄運營的限制措施。VK回應說，歐盟制裁並未影響VK及MAX的正常運作，“各類應用及服務均照常向使用者開放”。（參考訊息）"
+    },
+    {
+      "id": "4992234",
+      "time": "2026-07-16 19:22:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【機器人靈巧手大降價 全球人形機器人市場規模將破200億元】人形機器人的應用場景不斷拓寬，也帶動上游產業鏈加大了對消費端產品的生產研發。一批面向消費市場的新部件、新材料正在加速落地。在一家機器人靈巧手的研發實驗室裡，工程師黃俊霖正在對一款面向家用場景的六自由度靈巧手進行AI訓練。與工業場景不同，家用場景對靈巧手的重量、成本和使用便利性提出了更高要求。企業負責人告訴記者，靈巧手的成本約佔人形機器人整機成本的10%到15%，目前，單隻靈巧手的價格已從早期的10萬元級別降至萬元內。為應對消費端出現的訂單增長，企業正在對產線進行調整擴充。 據預測，2026年全球人形機器人市場規模將突破200億元。消費端人形機器人的爆發，正在帶動仿生皮膚、觸覺感測器、柔性材料等全新供應鏈生態加速形成。在浙江嘉興一家新材料企業，央視財經記者瞭解到，第三代電子皮膚產品已實現多模態感知與實時反饋能力，目前，他們觸覺感測產品已經交付超2萬套，量產新產線也已經建成。（央視財經）"
+    },
+    {
+      "id": "4992233",
+      "time": "2026-07-16 19:22:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股儲存板塊盤前跌幅擴大 閃迪、SK海力士、西數跌超7%】美股儲存板塊盤前跌幅擴大，美光科技盤前跌4.68%，西部資料盤前跌7.55%，希捷科技盤前跌5.86%，閃迪盤前跌7.36%，SK海力士盤前跌7.04%。"
+    },
+    {
+      "id": "4992232",
+      "time": "2026-07-16 19:21:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿格斯研究將阿斯麥目標股價從1700美元上調至2100美元。"
+    },
     {
       "id": "4992231",
       "time": "2026-07-16 19:19:48",
@@ -172730,89 +172771,6 @@
         "國際"
       ],
       "text": "伊朗霍爾木茲甘省一名官員週四表示，美軍襲擊了該省南部錫裡克市一處碼頭，造成 3 人死亡、15 人受傷。"
-    },
-    {
-      "id": "te:markets:565693",
-      "time": "2026-07-09 19:25:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palladium Hovers Near Nine-Month Low — Palladium traded near $1,240 per ounce, hovering close to its lowest level since early October, as investors remained cautious over escalating Middle East tensions and their implications for inflation and monetary policy. The US and Iran exchanged airstrikes following attacks on vessels near the Strait of Hormuz, while Washington revoked a 60-day waiver allowing Iran to sell crude, driving oil prices higher and reviving concerns over supply disruptions and inflation. Expectations of higher for longer interest rates also weighed on non-yielding assets such as palladium, with markets pricing in another Fed rate hike by the end of 2026. Although demand from internal combustion vehicles continues to decline, increased substitution for palladium in autocatalysts has provided some support. Meanwhile, South Africa's Sibanye-Stillwater announced plans to advance seven primary platinum group metals mining projects, with the first phase already approved."
-    },
-    {
-      "id": "mkt:019f469f-269f-7aab-8d14-71aa4d05c4d5",
-      "time": "2026-07-09 19:24:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordan Armed Forces said Iran's latest attack caused no casualties or property damage."
-    },
-    {
-      "id": "4979003",
-      "time": "2026-07-09 19:24:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦國家通訊社：約旦攔截了8枚從伊朗發射的導彈，未造成人員傷亡或財產損失。"
-    },
-    {
-      "id": "4979002",
-      "time": "2026-07-09 19:24:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【今飛凱達：擬定增募資不超過2.95億元用於鍛造輪轂專案及償貸】今飛凱達公告，公司於2026年7月9日召開董事會，審議透過2026年度以簡易程式向特定物件發行股票預案。本次發行物件為不超過35名特定投資者，募集資金總額不超過2.95億元，在扣除發行費用後，將用於年產60萬件鍛造鋁合金汽車輪轂生產線智慧製造專案（擬投入2.65億元）和償還銀行貸款（擬投入3000萬元）。本次發行方案尚需經深交所稽核透過及中國證監會同意註冊後方可實施。"
-    },
-    {
-      "id": "4979001",
-      "time": "2026-07-09 19:23:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大眾擬大規模重組德國工廠，或裁撤數萬崗位】大眾汽車正考慮關停多家德國工廠，此項重大重組計劃或將波及約 4 萬個工作崗位。 茨維考與埃姆登工廠生產線或五年內停產，漢諾威工廠 2032 年跟進關停，奧迪內卡蘇爾姆工廠則定於 2034 年停產。 另有訊息稱，執行長奧利弗・布魯姆計劃至 2030 年削減 5 萬個工作崗位。"
-    },
-    {
-      "id": "mkt:019f469e-7c9f-7aab-8d14-6f792845a254",
-      "time": "2026-07-09 19:23:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China to step up secure, compliant medical-data supply】The National Data Administration said China will leverage 10 national data-element comprehensive pilot zones to pilot secure, high-efficiency circulation and use of medical data. Authorities will explore reforms to data property rights, data circulation and use, revenue distribution and security governance to accelerate integration of Digital China and Healthy China initiatives."
-    },
-    {
-      "id": "4979000",
-      "time": "2026-07-09 19:23:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【隆平高科：收到業績承諾補償款930.65萬元】隆平高科公告，公司於2023年8月與雲南宣晟種業有限公司股東簽訂股權轉讓協議，業績承諾方承諾雲南宣晟2023年至2025年扣非淨利潤累計不低於9908.34萬元。經審計，雲南宣晟2023-2025年累計實現扣非淨利潤9662.48萬元，完成業績承諾的97.52%，根據協議約定，業績承諾方應向公司現金補償930.65萬元。截至本公告披露日，公司已從剩餘應向業績承諾方支付的股權轉讓款中扣除該業績補償金額，業績承諾方已履行完畢2023年至2025年的業績承諾補償義務。"
-    },
-    {
-      "id": "4978999",
-      "time": "2026-07-09 19:23:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "Meta盤前短線走低，現跌超1%。"
-    },
-    {
-      "id": "4978998",
-      "time": "2026-07-09 19:23:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國將加大醫療領域資料安全合規供給】記者今天從國家資料局瞭解到，我國將依託10個國家資料要素綜合試驗區，先行破解醫療領域資料安全合規高效流通利用難題，探索完善資料產權、流通利用、收益分配、安全治理等機制，推動數字中國與健康中國建設深度融合發展。（央視新聞）"
-    },
-    {
-      "id": "4978997",
-      "time": "2026-07-09 19:22:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "備忘錄顯示，Meta的IRIS晶片僅耗時六週便完成測試，且未發現重大故障。此番推進速度顯著提速，標誌著這項已停滯五年有餘的自研晶片專案迎來向好進展。"
     }
   ]
 }
