@@ -1,7 +1,172 @@
 {
   "date": "2026-07-16",
-  "count": 2550,
+  "count": 2570,
   "items": [
+    {
+      "id": "4992274",
+      "time": "2026-07-16 19:40:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "雅培上調2026年盈利預測後，其股價盤前上漲3%。"
+    },
+    {
+      "id": "4992273",
+      "time": "2026-07-16 19:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空執行長在電話會議上表示，儘管行業環境依然波動不定，但售後市場需求一直保持韌性。"
+    },
+    {
+      "id": "mkt:019f6ab9-a6fb-7aab-8dc6-933413efb987",
+      "time": "2026-07-16 19:39:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's State Oil Marketing Organization (SOMO) said a drone incident at the Basra oil terminal was not a direct attack on the terminal or any vessels."
+    },
+    {
+      "id": "mkt:019f6ab9-9a89-7aab-8dc6-8ce34089318c",
+      "time": "2026-07-16 19:39:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact mixed",
+        "US10Y",
+        "S&P500"
+      ],
+      "text": "【Federated Hermes says inflation remains hard to forecast】Federated Hermes portfolio manager Karen Manna said the firm still expects the Federal Reserve to largely remain on hold and that inflation remains one of the hardest macro variables to predict. The move from the post-2008 low-inflation regime to pandemic-era inflation was driven by supply-chain disruptions, shifts in consumption and labor-market imbalances; many of those distortions have eased, but new factors — tariffs enacted last year, reduced economic visibility around last autumn’s government shutdown, elevated energy prices and large AI-related capital expenditures — continue to cloud the outlook. Manna warned disinflation may be more uneven and episodic than in prior cycles, reinforcing the Fed’s cautious, data-dependent approach."
+    },
+    {
+      "id": "4992272",
+      "time": "2026-07-16 19:39:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "能源署主管：儘管原油儲量持續下降，但全球經濟尚未擺脫風險。全球原油儲備不斷走低，正在削弱這一關鍵安全緩衝。"
+    },
+    {
+      "id": "4992271",
+      "time": "2026-07-16 19:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：阿拉斯加州麥卡錫東南117公里處發生5.1級地震。"
+    },
+    {
+      "id": "4992270",
+      "time": "2026-07-16 19:38:24",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "道富集團股價盤前上漲2.9%，此前該公司公佈的第二季度營收與利潤均超出市場預期。"
+    },
+    {
+      "id": "4992269",
+      "time": "2026-07-16 19:38:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【Arbutus就新冠疫苗LNP專利在加拿大及歐洲起訴輝瑞/BioNTech】7月16日，Arbutus Biopharma宣佈，聯合獨家授權方Genevant在加拿大及歐洲統一專利法院對輝瑞及BioNTech提起三項專利侵權訴訟，指控其mRNA新冠疫苗侵犯脂質奈米顆粒（LNP）技術專利，尋求永久禁令及經濟賠償。公司稱，此舉是在美國新澤西法院訴訟基礎上進一步擴大維權範圍。Arbutus同時宣佈，已於7月8日收到莫德納專利侵權和解協議項下約1.78億美元首筆非或有付款分成，並預計第三季度獲得Genevant母公司股息。公司計劃自第三季度起透過要約回購、公開市場回購等方式向股東返還最多約2.3億美元資本。"
+    },
+    {
+      "id": "4992268",
+      "time": "2026-07-16 19:37:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【合興包裝：終止隆堯智慧環保包裝產業園專案並進行資產處置】合興包裝(002228)7月16日公告，為盤活存量資產、最佳化公司資源配置，公司董事會決定終止隆堯智慧環保包裝產業園專案，並同意邢臺合信與隆堯縣自然資源和規劃局簽訂《土地收儲協議》，與河北面鄉食品有限公司簽訂《廠房買賣合同》。專案終止後，原有合作客戶訂單將由公司石家莊、保定、天津等鄰近生產基地統一承接，客戶合作及產品交付不受影響；終止自營生產能夠停止廠區持續性人工、維保、環保運維等固定支出，有效防範後續持續經營性虧損。"
+    },
+    {
+      "id": "mkt:019f6ab7-f3d5-7aab-8dc6-8717c4e72ed9",
+      "time": "2026-07-16 19:37:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IEA Executive Director Birol said oil inventories have fallen, but the global economy has not yet overcome risks."
+    },
+    {
+      "id": "4992267",
+      "time": "2026-07-16 19:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "威普羅高管：人工智慧短期投入可能波動不穩。"
+    },
+    {
+      "id": "4992266",
+      "time": "2026-07-16 19:37:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空 CEO：二季度寬體機發動機交付量同比增長 30%；將支援並正在支援波音787的生產提升。"
+    },
+    {
+      "id": "mkt:019f6ab7-6cb2-7aab-8dc6-7bdfea8b3554",
+      "time": "2026-07-16 19:37:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "General Electric says it has not seen higher oil prices accelerate retirements of older aircraft."
+    },
+    {
+      "id": "4992265",
+      "time": "2026-07-16 19:37:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空 CEO：油價若再度大幅暴漲，或將摧毀航空出行需求。"
+    },
+    {
+      "id": "4992264",
+      "time": "2026-07-16 19:37:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空 CEO：波音查爾斯頓工廠儲備有數月用量的 GENX 發動機。"
+    },
+    {
+      "id": "4992263",
+      "time": "2026-07-16 19:37:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空 CEO：目前高油價並未加速老舊飛機退役。"
+    },
+    {
+      "id": "mkt:019f6ab7-3b60-7aab-8dc6-74c3cf142198",
+      "time": "2026-07-16 19:37:00",
+      "tags": [
+        "MKT News",
+        "GE.O",
+        "Impact bullish"
+      ],
+      "text": "General Electric said deliveries of widebody engines rose 30% YoY in the second quarter."
+    },
+    {
+      "id": "4992262",
+      "time": "2026-07-16 19:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空 CEO：民用航空發動機供應鏈已真正迎來拐點。"
+    },
     {
       "id": "mkt:019f6ab7-23b9-7aab-8dc6-6bfc8be3d114",
       "time": "2026-07-16 19:36:54",
@@ -161,6 +326,15 @@
       "text": "斯塔默稱英國和瑞典將向烏克蘭提供16架飛機。"
     },
     {
+      "id": "4992250",
+      "time": "2026-07-16 19:32:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【特朗普將罕見發表黃金時段全國講話 或為質疑中期選舉結果鋪路】從伊朗戰爭，到改革華盛頓，再到中期選舉，美國總統唐納德·特朗普近來有許多事情需要操心。他將在今晚一次罕見的黃金時段電視講話中涉及其中的部分議題。距離11月中期選舉還有四個月，預計特朗普的講話將部分聚焦選舉安全。他早前在橢圓形辦公室已經作出類似暗示。“沒有比這更大的事了，因為沒有自由和公平的選舉，就沒有國家,”特朗普說道，並稱“我們也會討論其他事情。”特朗普的高階別助手和盟友對他究竟會談什麼內容三緘其口，但一種可能是，如果11月選舉結果不利於他，他將為日後可能質疑結果做預先的鋪墊。外界普遍預計，共和黨將在眾議院失去席位，參議院控制權也存在變數。儘管兩次贏得總統職位，特朗普仍喜歡質疑2020年敗給喬·拜登那場選舉的結果。"
+    },
+    {
       "id": "te:markets:567536",
       "time": "2026-07-16 19:32:34",
       "tags": [
@@ -316,6 +490,14 @@
         "Brent"
       ],
       "text": "A Russian security official said U.S. actions targeting Iran and Venezuela are aimed at controlling the energy market."
+    },
+    {
+      "id": "4992240",
+      "time": "2026-07-16 19:29:02",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【諶貽琴在第七次全國殘疾人事業工作會議上強調 用心用情做好殘疾人工作 不斷推進殘疾人事業全面發展高質量發展】第七次全國殘疾人事業工作會議16日在京召開，國務委員、國務院殘疾人工作委員會主任諶貽琴出席會議並講話。她強調，要深入學習貫徹習近平總書記關於殘疾人事業的重要論述和重要指示批示精神，認真落實黨中央、國務院決策部署，用心用情做好殘疾人工作，在中國式現代化程序中共同創造殘疾人更加幸福美好的生活。（新華社）"
     },
     {
       "id": "mkt:019f6aaf-8210-7aab-8dc6-2b31f756ea1e",
