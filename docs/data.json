@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-17 04:25:29",
-  "count": 18784,
+  "updated": "2026-07-17 04:29:22",
+  "count": 18777,
   "items": [
+    {
+      "id": "4992948",
+      "time": "2026-07-17 04:28:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大國家鐵路公司：現有證據表明，7 月 5 日列車脫軌事故由鐵軌熱脹變形錯位導致。公司認為此次列車脫軌事故並非由行駛速度、列車排程及機械故障引發。"
+    },
+    {
+      "id": "4992947",
+      "time": "2026-07-17 04:25:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長：巴西不會向外國利益屈服，將持續捍衛 PIX 支付系統這一金融主權最核心象徵。"
+    },
     {
       "id": "mkt:019f6c9a-6e62-7aab-8dd0-df90289cb4d0",
       "time": "2026-07-17 04:24:47",
@@ -172633,88 +172649,6 @@
         "MKT News"
       ],
       "text": "White House: Commerce secretary recommends not imposing tariffs under Section 232 at this time."
-    },
-    {
-      "id": "4979742",
-      "time": "2026-07-10 04:28:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國：商務部不建議對飛機進口實施 232 條款關稅。"
-    },
-    {
-      "id": "4979741",
-      "time": "2026-07-10 04:28:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗航空局局長阿布扎爾・希魯迪週四表示，儘管遭遇其所稱的破壞活動與安全威脅，全國航班運營仍保持正常、未受中斷。"
-    },
-    {
-      "id": "4979740",
-      "time": "2026-07-10 04:28:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：沃特公司將於 7 月 16 日出席參議院銀行委員會聽證會作證。"
-    },
-    {
-      "id": "te:markets:565796",
-      "time": "2026-07-10 04:27:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises as Gold Miners Lead Gains — The S&P/TSX Composite Index gained 0.8% to close at 35,200 on Thursday, led by mining and financial stocks. Gold prices climbed as the US dollar weakened and investors sought safe-haven assets, boosting miners. Financials also advanced, with RBC rising 1.4% and TD Bank adding 1.1%. Elsewhere, Triple Flag gained 2.9% after reporting preliminary second-quarter revenue of $129.2 million, up from a year earlier. Firan Technology fell 2.8%, reversing earlier gains despite beating second-quarter revenue estimates. Meta also announced plans to build its first Canadian data center in Alberta, underscoring continued investment in AI infrastructure. Investors now await Canada's June employment report on Friday for further clues on the BoC's policy outlook. Markets widely expect the central bank to leave interest rates unchanged at its next meeting."
-    },
-    {
-      "id": "4979739",
-      "time": "2026-07-10 04:27:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：進口商品不得威脅損害美國國家安全。"
-    },
-    {
-      "id": "mkt:019f4890-0d36-7aab-8d21-5a240b0819ff",
-      "time": "2026-07-10 04:27:07",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "The White House said Trump directed the commerce secretary and the U.S. Trade Representative to negotiate with trading partners to address issues that threaten U.S. national security."
-    },
-    {
-      "id": "4979738",
-      "time": "2026-07-10 04:26:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普指示商務部長與美國貿易代表辦公室同貿易伙伴談判達成協議，以解決國家安全面臨的潛在損害威脅。"
-    },
-    {
-      "id": "4979737",
-      "time": "2026-07-10 04:25:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮表示，商務部長已認定美國航空業過度依賴外國供應鏈。"
-    },
-    {
-      "id": "mkt:019f488e-ebd2-7aab-8d21-520fbefe796b",
-      "time": "2026-07-10 04:25:53",
-      "tags": [
-        "MKT News",
-        "BA.O",
-        "Impact bullish",
-        "RTX.O",
-        "LMT.O"
-      ],
-      "text": "U.S. White House: Commerce Secretary has determined the U.S. aviation industry is overly dependent on foreign supply chains."
     }
   ]
 }
