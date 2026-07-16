@@ -1,7 +1,239 @@
 {
   "date": "2026-07-16",
-  "count": 828,
+  "count": 852,
   "items": [
+    {
+      "id": "4991077",
+      "time": "2026-07-16 09:27:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【土耳其對原產於中國的義齒雕刻機作出反傾銷終裁】7月4日，土耳其貿易部發布第2026/24號公告，對原產於中國的義齒雕刻機作出反傾銷肯定性終裁，決定徵收8.555美元/單位反傾銷稅。涉案產品的土耳其稅號為9018.49.90.00.22。本案傾銷調查期為2024年7月1日至2025年6月30日，損害調查期為2022年1月1日至2025年6月30日。措施自公告發布之日起生效，有效期為五年。"
+    },
+    {
+      "id": "mkt:019f6889-5e20-7aab-8db4-4cd03aa3d3b3",
+      "time": "2026-07-16 09:27:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "China A-share storage chip sector opened sharply lower; several names hit the daily down-limit in the opening auction, including Demingli, Huatian Technology and Jiangfeng Electronics. Tongfu Microelectronics and Tianshan Electronics fell over 9%; Shannon Chip Innovation and Montage Technology also declined."
+    },
+    {
+      "id": "mkt:019f6889-5a2b-7aab-8db4-41677e5d7ef3",
+      "time": "2026-07-16 09:27:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "CSI300",
+        "SZSE Component"
+      ],
+      "text": "At the open on July 16, China's Shanghai Composite fell 43.2 points (-1.09%) to 3,912.38; Shenzhen Composite down 281.97 points (-1.91%) to 14,497.43; CSI 300 INDEX down 75.25 points (-1.57%) to 4,711.53; ChiNext Index down 94.2 points (-2.48%) to 3,710.51; STAR 50 Index down 54.33 points (-2.82%) to 1,869.94."
+    },
+    {
+      "id": "4991076",
+      "time": "2026-07-16 09:27:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI手機概念盤初活躍 道明光學一字漲停】早盤AI手機概念活躍，道明光學、福蓉科技競價漲停，格林精密、福日電子、中科創達、中興通訊跟漲。"
+    },
+    {
+      "id": "4991075",
+      "time": "2026-07-16 09:27:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【儲存晶片板塊大幅低開，德明利跌停開盤】儲存晶片板塊大幅低開，德明利、江豐電子、華天科技、通富微電跌停開盤，精測電子跌超15%，天山電子、夏農芯創、瀾起科技跌幅居前。"
+    },
+    {
+      "id": "4991074",
+      "time": "2026-07-16 09:27:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本30年期國債收益率上漲5個基點至3.805%。"
+    },
+    {
+      "id": "4991073",
+      "time": "2026-07-16 09:26:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【土耳其對原產於中國的圓珠筆啟動反傾銷日落複審調查】7月4日，土耳其貿易部發布第2026/26號公告稱，應土耳其生產商申請，對原產於中國的圓珠筆啟動反傾銷第四次日落複審調查。涉案產品的土耳其稅號為9608.10.10.10.00、9608.10.99.00.00和9608.50.00.10.00。案件調查期間，現行反傾銷稅持續有效。公告自發布之日起生效。"
+    },
+    {
+      "id": "te:markets:567353",
+      "time": "2026-07-16 09:26:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Decline on Soft PPI — The dollar index traded around 100.5 on Thursday after posting sharp losses over the previous two sessions, as easing inflation pressures reduced expectations of a near-term Federal Reserve interest rate hike. Data released on Wednesday showed US producer prices unexpectedly fell in June for the first time in nearly a year, largely due to lower energy costs, following Tuesday’s softer-than-expected consumer inflation report. Markets trimmed expectations for a Fed rate increase in September, with the implied probability falling to around 44% from 50% a day earlier. Meanwhile, investors continued to monitor escalating attacks in the Middle East after the US launched additional strikes against Iranian targets. The renewed conflict pushed oil prices sharply higher this week, fueling fresh concerns over inflation and the interest rate outlook. Still, President Donald Trump said on Wednesday that Tehran had indicated a willingness to resume negotiations."
+    },
+    {
+      "id": "mkt:019f6888-5d99-7aab-8db4-3e647e01adb4",
+      "time": "2026-07-16 09:26:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. military says latest round of strikes on Iran concluded】CENTCOM said on July 15 it concluded a night strike operation at 9:00 p.m. ET. The strikes targeted Iranian command centers, air-defense positions, missile and drone facilities, and coastal surveillance sites to further degrade Iran’s ability to threaten the safety of merchant shipping crews in the Strait of Hormuz. CENTCOM said U.S. forces used precision-guided munitions to hit multiple targets, including Abbas port."
+    },
+    {
+      "id": "4991072",
+      "time": "2026-07-16 09:26:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國金融服務委員會(FSC)主席稱將很快宣佈個股槓桿ETF新措施。"
+    },
+    {
+      "id": "4991071",
+      "time": "2026-07-16 09:26:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家版權局：12家網路平臺承諾堅決清理侵權盜版出版物】近期，淘寶、京東、拼多多、抖音商城、快手電商、噹噹、孔夫子舊書網和騰訊、微博、百度、小紅書、嗶哩嗶哩等12家網路平臺相繼釋出公告，承諾將切實履行平臺主體責任，改進內部規則、健全管理舉措，深入清理侵權盜版出版物，堅決糾治違法網路售賣、傳播等行為。各平臺表示，將全面加強入駐商家資格核驗，及時清理下架侵權盜版圖書，高效執行“通知—刪除”規則，暢通侵權盜版投訴舉報渠道，進一步加大對違規商家的處置力度，積極配合執法監管部門，接受社會各界廣泛監督。"
+    },
+    {
+      "id": "4991070",
+      "time": "2026-07-16 09:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧概念股走低 智譜跌超7%】截至發稿，智譜(02513.HK)跌7.26%，天數智芯(09903.HK)跌6.08%，MINIMAX-W(00100.HK)跌3.84%。"
+    },
+    {
+      "id": "4991069",
+      "time": "2026-07-16 09:25:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱結束對伊朗最新一輪打擊】當地時間7月15日，美國中央司令部發布宣告表示，中央司令部於美東時間7月15日晚9點結束了針對伊朗的一輪夜間打擊行動。宣告表示，美軍打擊了伊朗的指揮中心、防空陣地、導彈與無人機設施以及海岸監視設施，旨在進一步削弱伊朗威脅霍爾木茲海峽商船船員安全的能力。美軍使用精確制導武器打擊了包括阿巴斯港在內的多個地點的目標。"
+    },
+    {
+      "id": "4991068",
+      "time": "2026-07-16 09:25:24",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌1.09％，深成指跌1.91％，創業板跌2.48％。"
+    },
+    {
+      "id": "mkt:019f6887-4688-7aab-8db4-332402b60080",
+      "time": "2026-07-16 09:25:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the open, the Shanghai Composite fell 1.09%, the Shenzhen Composite fell 1.91% and the ChiNext Index fell 2.48%."
+    },
+    {
+      "id": "4991067",
+      "time": "2026-07-16 09:25:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌12%。"
+    },
+    {
+      "id": "mkt:019f6887-238d-7aab-8db4-2ec7b988f47e",
+      "time": "2026-07-16 09:25:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell below $57/oz, down 1.31% intraday."
+    },
+    {
+      "id": "mkt:019f6887-0f52-7aab-8db4-252eb01e1c30",
+      "time": "2026-07-16 09:25:09",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix shares fell 12%."
+    },
+    {
+      "id": "mkt:019f6886-ee75-7aab-8db4-1fed86e88e7b",
+      "time": "2026-07-16 09:25:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "8035.T"
+      ],
+      "text": "Tokyo Electron is partnering with NVIDIA (NVDA.O) to develop digital-transformation solutions using NVIDIA's Agent Toolkit and the open robotics development platform NVIDIA Isaac."
+    },
+    {
+      "id": "mkt:019f6886-b09c-7aab-8db4-1524b94e8a10",
+      "time": "2026-07-16 09:24:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact mixed",
+        "000660.KS"
+      ],
+      "text": "【South Korea FSC chair to announce measures on single-stock leveraged products soon】South Korea's Financial Services Commission (FSC) Chair Lee Eok-won said the commission will shortly announce supplementary measures targeting single-stock leveraged products. He said the key issue is the extent of their market impact and that the FSC will promptly formulate and publish measures. Asked whether the FSC is considering temporary trading halts amid sharp market declines, Lee said such steps could produce larger side effects and are under comprehensive evaluation. He flagged elevated volatility in the global semiconductor sector under a \"supercycle\"—rapid gains and swinging expectations—as a key backdrop to recent swings in Korean and global semiconductor stocks. Lee added that the sharply higher combined market caps of Samsung Electronics and SK Hynix have increased their weight in Korea's composite index, magnifying semiconductor moves' impact on the broader market."
+    },
+    {
+      "id": "4991066",
+      "time": "2026-07-16 09:24:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "東京電子：與英偉達合作，利用英偉達代理工具包和開放式機器人開發平臺英偉達ISAAC，實現數字化轉型解決方案。"
+    },
+    {
+      "id": "4991065",
+      "time": "2026-07-16 09:24:31",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放6,160.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019f6886-785a-7aab-8db4-09e7b19519c6",
+      "time": "2026-07-16 09:24:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. military says it has completed its latest round of strikes against Iran."
+    },
     {
       "id": "4991064",
       "time": "2026-07-16 09:23:29",
@@ -30,6 +262,15 @@
         "Impact bullish"
       ],
       "text": "Hong Kong-listed Alibaba (09988.HK) opened 2.47% higher after China completed regulatory filing yesterday for Apple’s China-market AI feature; partners named include Alibaba."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607163808369343",
+      "time": "2026-07-16 09:23:04",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行公開市場開展6260億元7天期逆回購操作】央行公開市場開展6260億元7天期逆回購操作，操作利率1.40%。Wind資料顯示，今日100億元逆回購到期。"
     },
     {
       "id": "4991063",
