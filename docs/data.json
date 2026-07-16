@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-17 03:17:04",
-  "count": 18777,
+  "updated": "2026-07-17 03:20:59",
+  "count": 18778,
   "items": [
+    {
+      "id": "4992898",
+      "time": "2026-07-17 03:20:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "因 Gemini 上線計劃推遲，Alphabet 股價下挫 5%，跌至盤中低點。"
+    },
+    {
+      "id": "4992897",
+      "time": "2026-07-17 03:19:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：美國目前已陷入困境，唯一出路是撤出西亞地區。美國霸凌和挑釁的時代已經結束。伊朗絕不會允許美國介入霍爾木茲海峽事務。伊朗規定的航行路線是安全的，任何偏離該路線的航線都將面臨風險，相關船隻可能遭受損害。"
+    },
+    {
+      "id": "4992896",
+      "time": "2026-07-17 03:18:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【候任英國首相將支援北海石油開採，並接管泰晤士水務】即將上任的首相安迪·伯納姆在就職數日內，正準備宣佈在北海進行新的石油和天然氣鑽探，並將泰晤士水務收歸公有。據知情人士透露，伯納姆的團隊已要求公務員隊伍起草新的能源和水利政策計劃，這些計劃最早可能於下週公佈。他將於下週一接替基爾·斯塔默成為首相，並計劃在上任後的頭幾天發表一系列公開宣告，以標誌與前任政府的決裂。"
+    },
+    {
+      "id": "mkt:019f6c5d-be03-7aab-8dd0-31ca13920df4",
+      "time": "2026-07-17 03:18:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said Iran will not allow U.S. intervention in the Strait of Hormuz, adding that Iran's designated transit routes are safe and vessels deviating from them face risk and could be damaged."
+    },
     {
       "id": "mkt:019f6c5b-2a8d-7aab-8dd0-2ac6e86af0e2",
       "time": "2026-07-17 03:15:41",
@@ -172615,36 +172651,6 @@
         "XAUUSD"
       ],
       "text": "IRNA reported Bushehr province deputy governor for political and security affairs said explosions heard earlier in Bushehr city were caused by the local air-defence system activating in response. He said a military facility on the city's outskirts had been struck by what he described as \"US-Israeli enemy-launched projectiles\"."
-    },
-    {
-      "id": "mkt:019f4852-fbdf-7aab-8d20-9ae9212a808e",
-      "time": "2026-07-10 03:20:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "ICI: U.S. money market fund assets rose to $7.953 trillion, a record high."
-    },
-    {
-      "id": "4979691",
-      "time": "2026-07-10 03:19:33",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲會議紀要揭示內部分歧 通脹與利率前景未明】\n\n美聯儲於6月17日結束為期兩天的貨幣政策會議，宣佈將聯邦基金利率目標區間繼續維持在3.5%至3.75%之間不變。7月8日，美國聯邦儲備委員會公佈了6月貨幣政策會議紀要，紀要顯示，美聯儲官員對美國通脹走勢和未來貨幣政策走向仍存在明顯分歧。\n\n會議紀要顯示，與會美聯儲官員普遍注意到通脹進一步升高，且仍遠高於2%的長期目標，但對通脹走勢的判斷存在分歧。多名官員表示，物價上漲的壓力已變得更為廣泛，很多商品和服務的價格在經歷顯著上漲。另一些官員則認為，住房相關服務價格漲勢放緩很可能推動通脹壓力逐步緩解。\n\n此外，這份會議紀要特別關注了人工智慧領域對通脹的影響。部分官員認為，對人工智慧的持續強勁需求可能使科技產品和電力價格持續上漲。但其他一些官員則表示，人工智慧應用帶來的生產力提高最終將降低產品成本並增加總供給，進而導致通脹下行。\n\n紀要特別提到，本次經濟預測的不確定性顯著偏高，核心原因來自中東局勢的不確定性以及人工智慧投資和產業對經濟的潛在影響。\n紀要顯示，雖然在此次會議上，與會官員均同意維持利率不變，但他們對未來貨幣政策走向的判斷存在分歧。部分與會官員認為，在當前美國就業市場穩定、通脹繼續處於高位的情況下，美聯儲需要適度收緊貨幣政策，以實現通脹目標；另一些官員則認為，到今年年底時應讓利率保持在當前或略低於當前的水平。\n\n美國知名金融公司LPL的首席經濟學家羅奇表示，會議紀要中存在一些含糊不清的內容，表明美聯儲在政策問題上存在幾種相互競爭的觀點。（央視新聞）"
-    },
-    {
-      "id": "4979690",
-      "time": "2026-07-10 03:18:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國投資公司協會資料：貨幣市場基金資產規模增至創紀錄的 7.953 萬億美元。"
     }
   ]
 }
