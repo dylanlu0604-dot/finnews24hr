@@ -1,7 +1,25 @@
 {
   "date": "2026-07-17",
-  "count": 304,
+  "count": 306,
   "items": [
+    {
+      "id": "mkt:019f6c6f-7141-7aab-8dd0-50aaddd3fca4",
+      "time": "2026-07-17 03:37:50",
+      "tags": [
+        "MKT News",
+        "HMC",
+        "Impact bearish"
+      ],
+      "text": "Wall Street Journal reports Honda will stop production of the only electric vehicle it sells in the U.S."
+    },
+    {
+      "id": "4992909",
+      "time": "2026-07-17 03:34:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊釋出了一段新影片，稱影片中是向約旦、科威特和巴林境內美軍目標發射導彈的畫面。"
+    },
     {
       "id": "4992908",
       "time": "2026-07-17 03:32:39",
