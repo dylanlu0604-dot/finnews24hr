@@ -1,7 +1,130 @@
 {
-  "updated": "2026-07-17 01:55:29",
-  "count": 18793,
+  "updated": "2026-07-17 01:59:28",
+  "count": 18805,
   "items": [
+    {
+      "id": "4992848",
+      "time": "2026-07-17 01:58:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：媒體今晚應該播出特朗普的演講。"
+    },
+    {
+      "id": "4992847",
+      "time": "2026-07-17 01:58:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【高溫持續 歐洲6月累計“超額死亡人數”已達1.2萬】今年6月，歐洲約10個國家累計記錄至少1.2萬例超額死亡。據悉，這一統計仍屬階段性資料，隨著各國後續公佈更多統計結果，死亡人數預計還將進一步上升。“超額死亡人數”是指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額。今年6月，歐洲多國遭遇持續高溫天氣，西歐和南歐部分地區氣溫突破40攝氏度，多國發布高溫預警。高溫還引發森林火災、電力供應緊張和公共衛生壓力等問題。（央視新聞）"
+    },
+    {
+      "id": "4992846",
+      "time": "2026-07-17 01:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普讚賞美國與土耳其關係。"
+    },
+    {
+      "id": "mkt:019f6c13-aa62-7aab-8dcf-50361d70020c",
+      "time": "2026-07-17 01:57:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "LOGAN: The Federal Reserve's meeting mechanism, organizational structure and data-driven decision-making approach have not changed."
+    },
+    {
+      "id": "mkt:019f6c13-5965-7aab-8dcf-49dc5f475bb7",
+      "time": "2026-07-17 01:57:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed's Logan said Fed chair Kevin Warsh, like former chair Powell, has shown deep dedication to the Federal Reserve."
+    },
+    {
+      "id": "4992845",
+      "time": "2026-07-17 01:57:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：期待聽到沃什工作組的調查結果。"
+    },
+    {
+      "id": "4992844",
+      "time": "2026-07-17 01:56:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "洛根：美聯儲會議及其結構和以資料為導向的重點沒有絲毫改變。"
+    },
+    {
+      "id": "mkt:019f6c12-a4d1-7aab-8dcf-45397675e488",
+      "time": "2026-07-17 01:56:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Fars News reported Jordan’s foreign minister said the United States has no military bases in Jordan but does have US personnel stationed there as part of Jordan‑Washington military cooperation."
+    },
+    {
+      "id": "4992843",
+      "time": "2026-07-17 01:56:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛根：從鮑威爾到沃什的主席過渡非常順利。"
+    },
+    {
+      "id": "4992842",
+      "time": "2026-07-17 01:56:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "洛根：沃什與鮑威爾一樣，對美聯儲這一機構有著極大的奉獻精神。"
+    },
+    {
+      "id": "4992841",
+      "time": "2026-07-17 01:55:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦外交部長：美國在約旦沒有任何基地，但美國士兵作為約旦與華盛頓之間軍事合作的一部分，現身於我國。"
+    },
+    {
+      "id": "mkt:019f6c12-0c16-7aab-8dcf-3a303dcad833",
+      "time": "2026-07-17 01:55:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says it is closely monitoring a foodborne illness outbreak."
+    },
+    {
+      "id": "mkt:019f6c11-c4f2-7aab-8dcf-31996925b053",
+      "time": "2026-07-17 01:55:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Brent"
+      ],
+      "text": "White House says U.S. actions have helped stabilize global oil markets."
+    },
+    {
+      "id": "mkt:019f6c11-7517-7aab-8dcf-2cae4a70d118",
+      "time": "2026-07-17 01:55:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Fed's LOGAN says the scale and timing of AI-driven productivity gains remain uncertain."
+    },
     {
       "id": "4992840",
       "time": "2026-07-17 01:54:53",
@@ -172771,26 +172894,6 @@
         "MKT News"
       ],
       "text": "European Commission Executive Vice-President Dombrovskis said discussion of an EU \"safe asset\" is not new and remains relevant."
-    },
-    {
-      "id": "mkt:019f4807-f69a-7aab-8d1f-579619489a1a",
-      "time": "2026-07-10 01:58:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US coordinating Israel, Lebanon to implement southern Lebanon \"pilot zone\" arrangements】Axios says CENTCOM is coordinating Israel and Lebanon to push implementation of arrangements for a southern Lebanon \"pilot zone.\" A Rome meeting will hold closed-door consultations; senior Israeli and Lebanese negotiators will then hand the issue to technical teams. The US says it will soon engage international partners to assist the Lebanese government in restoring sovereign control over the area and more broadly across the country."
-    },
-    {
-      "id": "te:economy:565785",
-      "time": "2026-07-10 01:56:33",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Egypt",
-        "Interest Rate",
-        "Importance 0"
-      ],
-      "text": "Egypt's Central Bank Leaves Key Rates Unchanged — The Central Bank of Egypt kept its key interest rate unchanged at 19% at its July 2026 meeting, as expected, with policymakers cautious amid fragile geopolitical tensions in the Middle East. This marks the third consecutive meeting where the central bank leaves rates unchanged, pausing almost a year long monetary-easing cycle. Headline inflation slowed for a third consecutive month on June to 14.3%, slowing to the lowest level since before the conflict in the Middle East. Meanwhile, GDP growth slowed to 5% in the first quarter of 2026 from 5.3%, constrained by geopolitical tensions, uncertain trade policies and weak global demand. Looking ahead, economic activity is expected to average 5% for the fiscal year of 2025/26, with output below full potencial. Inflation is expected to accelerate through the third quarter of 2026, albeit at a slower pace than previously antecipated supported by easing inflationary pressures, and reaching the target level of 7±2% during the second half of 2027."
     }
   ]
 }
