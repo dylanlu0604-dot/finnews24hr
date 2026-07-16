@@ -1,7 +1,80 @@
 {
   "date": "2026-07-16",
-  "count": 1735,
+  "count": 1744,
   "items": [
+    {
+      "id": "4991676",
+      "time": "2026-07-16 15:26:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京亦莊國際服務貿易集團增資至6.16億 增幅約13%】天眼查App顯示，近日，北京亦莊國際服務貿易集團有限公司發生工商變更，註冊資本由5.46億人民幣增至6.16億人民幣，增幅約13%。該公司成立於2012年10月，法定代表人為王曉軍，經營範圍包括以自有資金從事投資活動、物業管理、園區管理服務、貨物進出口、國際貨物運輸代理、保稅倉庫經營等，由北京亦莊投資控股有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019f69d1-ab18-7aab-8dc0-3a7bdb1fdb16",
+      "time": "2026-07-16 15:26:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung mulls outsourcing Google 2nm TPU backend design】Facing a surge in wafer-foundry orders and internal engineering headcount pressure, Samsung Electronics is considering outsourcing backend design for Google's 2nm tensor processing unit I/O die. Industry sources say Samsung has approached its design-solution partners to gauge interest in taking on backend work for Google’s 10th-generation TPU I/O die, codenamed Icefish, which is slated to be manufactured on Samsung’s 2nm process."
+    },
+    {
+      "id": "mkt:019f69d1-649a-7aab-8dc0-37666529ca60",
+      "time": "2026-07-16 15:25:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran military says continued hostile actions could expand conflict into new domains】A military spokesman said on 16 July Iran's armed forces are prepared to defend national security and national interests and that a significant portion of their capabilities remain undisclosed. He warned that if hostile actions against Iran persist, Tehran will respond according to circumstances, with responses likely to exceed opponents' expectations and could extend the conflict into new domains. The spokesman added Iran prefers cooperation with regional neighbours and Islamic states and does not seek confrontation."
+    },
+    {
+      "id": "4991675",
+      "time": "2026-07-16 15:25:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方：若敵對行動持續 衝突將擴充套件至新領域】當地時間16日，伊朗軍方發言人穆罕默德·阿克拉米尼亞表示，域外國家應在相互尊重基礎上與伊朗開展交往，伊朗武裝力量已做好維護國家安全和國家利益的充分準備。阿克拉米尼亞表示，伊朗始終主張同地區鄰國和伊斯蘭國家發展合作與兄弟關係，無意與其發生對抗。阿克拉米尼亞還表示，伊朗武裝力量仍有相當一部分能力尚未展示。如果針對伊朗的敵對行動持續，伊方將根據實際情況作出回應，且回應將超出對手預期，衝突也將擴充套件至新的領域。（央視新聞）"
+    },
+    {
+      "id": "4991674",
+      "time": "2026-07-16 15:24:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：三星計劃外包穀歌2nm TPU後端設計】受晶圓代工訂單激增、內部工程人力承壓影響，三星電子正考慮將谷歌2奈米張量處理器（TPU）輸入輸出裸片（I/ODie）的後端設計業務外包給外部合作廠商。 多位業內訊息人士透露，三星近期接洽了旗下設計解決方案合作伙伴（DSP），徵詢其承接谷歌第十代TPU輸入輸出裸片後端設計業務的意向。這款TPU代號“冰魚（Icefish）”，將採用三星2奈米工藝代工生產。 此前三星曾全程自主完成特斯拉2奈米自動駕駛晶片的後端設計。但業內人士表示，近期三星2奈米工藝訂單暴增，工程研發人力已出現緊缺。"
+    },
+    {
+      "id": "4991673",
+      "time": "2026-07-16 15:24:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本國際石油開發帝石（INPEX）啟動印度尼西亞阿巴迪液化天然氣專案動工儀式。"
+    },
+    {
+      "id": "4991672",
+      "time": "2026-07-16 15:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯政府提議對進口柴油提供補貼。"
+    },
+    {
+      "id": "4991671",
+      "time": "2026-07-16 15:23:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱中精密成立科技新公司 含有色金屬合金業務】企查查APP顯示，近日，惠州市凱中科技有限公司成立，經營範圍包含：機械電氣裝置製造；通用零部件製造；有色金屬合金製造；有色金屬壓延加工等。企查查股權穿透顯示，該公司由凱中精密(002823)全資持股。"
+    },
     {
       "id": "4991670",
       "time": "2026-07-16 15:23:13",
@@ -149,6 +222,14 @@
         "Greater China"
       ],
       "text": "【China government bond futures midday close】China government bond futures at midday: 2-year (TS) most-active contract down 0.02%; 5-year (TF) down 0.05%; 10-year (T) down 0.05%; 30-year (TL) down 0.24%."
+    },
+    {
+      "id": "4991660",
+      "time": "2026-07-16 15:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【漢髮長空完成近億元Pre-A輪融資】7月16日訊息，民用航空動力企業漢髮長空於近日完成近億元Pre-A輪融資，本輪融資由方廣資本領投，致道資本、六翼投資共同投資。融資資金將主要用於提升400kW級通用核心機平臺的技術成熟度與工程化驗證，加速發動機向量產階段邁進。"
     },
     {
       "id": "4991659",

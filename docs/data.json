@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-16 15:24:10",
+  "updated": "2026-07-16 15:28:11",
   "count": 18786,
   "items": [
+    {
+      "id": "4991676",
+      "time": "2026-07-16 15:26:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京亦莊國際服務貿易集團增資至6.16億 增幅約13%】天眼查App顯示，近日，北京亦莊國際服務貿易集團有限公司發生工商變更，註冊資本由5.46億人民幣增至6.16億人民幣，增幅約13%。該公司成立於2012年10月，法定代表人為王曉軍，經營範圍包括以自有資金從事投資活動、物業管理、園區管理服務、貨物進出口、國際貨物運輸代理、保稅倉庫經營等，由北京亦莊投資控股有限公司全資持股。"
+    },
+    {
+      "id": "mkt:019f69d1-ab18-7aab-8dc0-3a7bdb1fdb16",
+      "time": "2026-07-16 15:26:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "【Samsung mulls outsourcing Google 2nm TPU backend design】Facing a surge in wafer-foundry orders and internal engineering headcount pressure, Samsung Electronics is considering outsourcing backend design for Google's 2nm tensor processing unit I/O die. Industry sources say Samsung has approached its design-solution partners to gauge interest in taking on backend work for Google’s 10th-generation TPU I/O die, codenamed Icefish, which is slated to be manufactured on Samsung’s 2nm process."
+    },
+    {
+      "id": "mkt:019f69d1-649a-7aab-8dc0-37666529ca60",
+      "time": "2026-07-16 15:25:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran military says continued hostile actions could expand conflict into new domains】A military spokesman said on 16 July Iran's armed forces are prepared to defend national security and national interests and that a significant portion of their capabilities remain undisclosed. He warned that if hostile actions against Iran persist, Tehran will respond according to circumstances, with responses likely to exceed opponents' expectations and could extend the conflict into new domains. The spokesman added Iran prefers cooperation with regional neighbours and Islamic states and does not seek confrontation."
+    },
+    {
+      "id": "4991675",
+      "time": "2026-07-16 15:25:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方：若敵對行動持續 衝突將擴充套件至新領域】當地時間16日，伊朗軍方發言人穆罕默德·阿克拉米尼亞表示，域外國家應在相互尊重基礎上與伊朗開展交往，伊朗武裝力量已做好維護國家安全和國家利益的充分準備。阿克拉米尼亞表示，伊朗始終主張同地區鄰國和伊斯蘭國家發展合作與兄弟關係，無意與其發生對抗。阿克拉米尼亞還表示，伊朗武裝力量仍有相當一部分能力尚未展示。如果針對伊朗的敵對行動持續，伊方將根據實際情況作出回應，且回應將超出對手預期，衝突也將擴充套件至新的領域。（央視新聞）"
+    },
+    {
+      "id": "4991674",
+      "time": "2026-07-16 15:24:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【報道：三星計劃外包穀歌2nm TPU後端設計】受晶圓代工訂單激增、內部工程人力承壓影響，三星電子正考慮將谷歌2奈米張量處理器（TPU）輸入輸出裸片（I/ODie）的後端設計業務外包給外部合作廠商。 多位業內訊息人士透露，三星近期接洽了旗下設計解決方案合作伙伴（DSP），徵詢其承接谷歌第十代TPU輸入輸出裸片後端設計業務的意向。這款TPU代號“冰魚（Icefish）”，將採用三星2奈米工藝代工生產。 此前三星曾全程自主完成特斯拉2奈米自動駕駛晶片的後端設計。但業內人士表示，近期三星2奈米工藝訂單暴增，工程研發人力已出現緊缺。"
+    },
+    {
+      "id": "4991673",
+      "time": "2026-07-16 15:24:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本國際石油開發帝石（INPEX）啟動印度尼西亞阿巴迪液化天然氣專案動工儀式。"
+    },
+    {
+      "id": "4991672",
+      "time": "2026-07-16 15:23:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯政府提議對進口柴油提供補貼。"
+    },
+    {
+      "id": "4991671",
+      "time": "2026-07-16 15:23:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱中精密成立科技新公司 含有色金屬合金業務】企查查APP顯示，近日，惠州市凱中科技有限公司成立，經營範圍包含：機械電氣裝置製造；通用零部件製造；有色金屬合金製造；有色金屬壓延加工等。企查查股權穿透顯示，該公司由凱中精密(002823)全資持股。"
+    },
     {
       "id": "4991670",
       "time": "2026-07-16 15:23:13",
@@ -149,6 +222,14 @@
         "Greater China"
       ],
       "text": "【China government bond futures midday close】China government bond futures at midday: 2-year (TS) most-active contract down 0.02%; 5-year (TF) down 0.05%; 10-year (T) down 0.05%; 30-year (TL) down 0.24%."
+    },
+    {
+      "id": "4991660",
+      "time": "2026-07-16 15:16:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【漢髮長空完成近億元Pre-A輪融資】7月16日訊息，民用航空動力企業漢髮長空於近日完成近億元Pre-A輪融資，本輪融資由方廣資本領投，致道資本、六翼投資共同投資。融資資金將主要用於提升400kW級通用核心機平臺的技術成熟度與工程化驗證，加速發動機向量產階段邁進。"
     },
     {
       "id": "4991659",
@@ -172572,90 +172653,6 @@
         "其他"
       ],
       "text": "德國總理默茨：加拿大潛艇交易將創造1000億歐元價值。"
-    },
-    {
-      "id": "4978439",
-      "time": "2026-07-09 15:28:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐黎巴嫩大使：黎以談判轉移至羅馬系出於技術原因。"
-    },
-    {
-      "id": "4978438",
-      "time": "2026-07-09 15:27:54",
-      "tags": [
-        "央行",
-        "宏觀",
-        "國際"
-      ],
-      "text": "【馬來西亞央行維持利率不變 稱通脹溫和且經濟增長具有韌性】馬來西亞連續第六次會議維持基準利率不變，稱儘管中東衝突不斷，但物價壓力依然可控，因此目前的利率水平是合適的。馬來西亞央行週四將隔夜政策利率維持在2.75%，與彭博調查的25位經濟學家中24位的預期一致。央行上一次調整利率是在2025年7月，當時降息0.25個百分點。該央行表示，“全球經濟增長仍面臨下行風險，主要源於衝突帶來的持續不確定性、全球金融環境趨緊以及對金融市場估值過高的擔憂。上行潛力包括供應鏈狀況復甦速度快於預期、科技支出增加以及主要經濟體出臺的促增長政策。”"
-    },
-    {
-      "id": "4978437",
-      "time": "2026-07-09 15:27:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部：6000餘個消費“三新”試點專案有望帶動超3000億元投資】7月9日，商務部服貿司副司長左曉玻表示，50個消費新業態新模式新場景試點（即消費“三新”試點）城市已基本完成資金專案管理辦法制定、首批專案徵集等工作，各地消費創新專案申報積極踴躍，已收集相關專案超過6000個，有望帶動社會投資超過3000億元。首批86億元支援資金正陸續撥付，一大批消費新業態新模式新場景專案正加快落地，消費帶動作用明顯。去年9月，消費“三新”試點正式啟動，支援50個城市開展試點工作，主要向人口基數大、帶動作用強、發展潛力好的超大特大城市傾斜。政策實施期為兩年。"
-    },
-    {
-      "id": "te:economy:565593",
-      "time": "2026-07-09 15:27:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovakia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Slovakia Industrial Output Falls at Softer Pace — Industrial production in Slovakia decreased by 2.0% year-on-year in May 2026, easing from a 3.2% drop in the previous month but still worse than market expectations of a 0.3% fall. This was the fourth consecutive month of decline, amid lower output in 11 out of the 15 monitored industrial sectors. A smaller decline was observed in the manufacture of transport equipment (-2.4% vs -5.4% in April), which continued to have the largest impact on overall production. At the same time, the manufacture of chemicals and chemical products rose 17.8%, accelerating from a 4.6% increase in the previous month. On the other hand, output in electricity and gas supply fell further (-3.7% vs -0.6%), and the manufacture of computer, electronic, and optical products dropped sharply (-10.3% vs 4.3%). On a seasonally adjusted monthly basis, industrial production was unchanged. In the first five months of 2026, industrial production was 1.3% lower than in the same period a year earlier."
-    },
-    {
-      "id": "4978436",
-      "time": "2026-07-09 15:26:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：北約峰會成果遠超我的所有預期。"
-    },
-    {
-      "id": "4978435",
-      "time": "2026-07-09 15:26:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長城汽車在天津成立研發公司】企查查APP顯示，近日，天津長城汽車研發有限公司成立，法定代表人為吳會肖，經營範圍包含：新材料技術研發；汽車零部件研發；新能源汽車整車銷售；汽車銷售；動漫遊戲開發等。企查查股權穿透顯示，該公司由長城汽車間接全資持股。"
-    },
-    {
-      "id": "4978434",
-      "time": "2026-07-09 15:25:51",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【大摩：“美股七巨頭”估值溢價創十年新低 或迎來買入視窗】根據摩根士丹利財富管理全球投資委員會的資料，“美股七巨頭”相對於標普500指數中另外493只股票的估值溢價目前僅為10%，創下了十多年來的最低水平。“相比之下，我們認為這些超大規模雲巨頭現在看起來簡直太便宜了。” 摩根士丹利財富管理首席投資官Lisa Shalett在週二的一份報告中寫道。鑑於這一現狀，這位投資主管表示，她將逐步減持半導體股票的倉位，並選擇性地重新買入那些在這場AI競賽中最有望勝出的“七巨頭”公司。"
-    },
-    {
-      "id": "te:markets:565592",
-      "time": "2026-07-09 15:25:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Falls Led by AstraZeneca — The FTSE 100 traded lower on Thursday, extending a 1.7% loss in the previous session, amid weakness in healthcare and energy stocks. AstraZeneca slumped 9% after its gene-silencing drug Wainua, developed with Ionis Pharmaceuticals, failed in a late-stage clinical trial to reduce heart complications in patients with a rare and potentially fatal cardiac disease. Energy majors also pressured the market, with Shell falling 0.8% and BP losing 1.3% as oil prices reversed earlier gains despite renewed tensions between the US and Iran. Concerns over the conflict, alongside uncertainty surrounding the durability of the ceasefire, have revived fears that higher energy prices could fuel inflation. Elsewhere, Severn Trent said trading remained in line with expectations after a strong start to its 2027 financial year. Meanwhile, the latest RICS survey showed UK house prices continued to decline in June, although the pace of falls eased slightly, suggesting the housing market may be stabilising."
-    },
-    {
-      "id": "4978433",
-      "time": "2026-07-09 15:24:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國“全職主夫”數量增加】韓國統計廳資料顯示，今年第一季度，因育兒或家務而被歸類為“非經濟活動人口”的男性達到27.4萬人，為有記錄以來最高值，較去年同期增加16.6%。（新華社）"
     }
   ]
 }
