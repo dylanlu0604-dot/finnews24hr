@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-17 03:09:15",
-  "count": 18786,
+  "updated": "2026-07-17 03:13:09",
+  "count": 18781,
   "items": [
+    {
+      "id": "4992894",
+      "time": "2026-07-17 03:11:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團就蘇丹局勢發表宣告，敦促快速支援部隊停止在歐拜伊德的軍事行動。"
+    },
+    {
+      "id": "te:economy:567637",
+      "time": "2026-07-17 03:11:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada Bond Yields Hold Firm — The yield on Canada's 10-year government bond firmed at 3.54% after reaching a two-month high of 3.58% as a rebound in US Treasury yields supported global bond markets. US yields recovered after recent declines, while investors continued to assess the outlook for Federal Reserve policy. Still, a sharper decline in Canadian yields was prevented by the Bank of Canada's relatively hawkish rhetoric. The central bank left interest rates unchanged at its July meeting, as expected, but underscored that growth is set to remain robust in the coming quarters. This was accompanied by an upward revision to this year's inflation projections as the conflict in the Middle East pushed energy costs higher."
+    },
     {
       "id": "4992893",
       "time": "2026-07-17 03:08:42",
@@ -172668,68 +172688,6 @@
         "其他"
       ],
       "text": "微軟股價在成交量飆升的過程中收窄跌幅，最新報每股381.70美元，跌幅0.42%。"
-    },
-    {
-      "id": "mkt:019f484b-bbd7-7aab-8d20-849ff60134a1",
-      "time": "2026-07-10 03:12:30",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian state TV said reports of an explosion at Bandar Abbas port were false."
-    },
-    {
-      "id": "4979685",
-      "time": "2026-07-10 03:12:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "多明尼加共和國 6 月入境遊客量同比增長 5.99%。"
-    },
-    {
-      "id": "4979684",
-      "time": "2026-07-10 03:11:36",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺否認關於阿巴斯港發生爆炸的報道。"
-    },
-    {
-      "id": "4979683",
-      "time": "2026-07-10 03:10:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什組建外部專家團隊，審查貨幣政策框架】美聯儲主席凱文·沃什組建五個工作組，對美聯儲貨幣政策執行機制展開全面審查，涵蓋資產負債表管理、政策工具、人工智慧影響等領域。美聯儲表示，各工作組將獨立運作，以事實為依據開展研究，並向聯邦公開市場委員會提交嚴謹分析結果。工作組將評估政策工具、分析方法和政策框架是否存在改進空間。此次審查團隊成員包括多位知名經濟學家和前央行官員。其中，哈佛大學經濟學家拉傑·切蒂將參與領導資料工作組，科技投資人馬克·安德森將負責生產率與就業工作組，前白宮經濟顧問委員會主席格雷格·曼昆將共同領導通脹工作組。沃什表示，美國經濟在過去一代發生巨大變化，當前轉型速度更快，美聯儲需要確保自身處於最佳狀態，以實現穩定物價和促進就業的雙重目標。"
-    },
-    {
-      "id": "mkt:019f4849-d291-7aab-8d20-7e6a6fdc2bc5",
-      "time": "2026-07-10 03:10:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy"
-      ],
-      "text": "【Fed chair KEVIN WARSH forms five external working groups to review monetary policy framework】Fed chair KEVIN WARSH has convened five independent external working groups to conduct a comprehensive review of the Fed’s monetary policy operating framework. Mandate areas include balance-sheet management, policy tools, the macroeconomic effects of artificial intelligence, and data and analytics. Each group will operate independently, conduct evidence-based research and deliver rigorous analyses to the FOMC. The review will assess policy tools, analytical methods and whether the policy framework can be improved. Appointments include Raj Chetty to lead the data group, tech investor Marc Andreessen to lead the productivity and employment group, and former White House CEA chair Greg Mankiw as co-leader of the inflation group. Warsh said the U.S. economy has undergone generational change and faster transformation, and the Fed must ensure it is optimally positioned to achieve price stability and maximum employment."
-    },
-    {
-      "id": "4979682",
-      "time": "2026-07-10 03:10:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體：美國一名高階官員稱，美軍過去數小時內未在伊朗實施任何打擊行動。"
-    },
-    {
-      "id": "4979681",
-      "time": "2026-07-10 03:09:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部部長盧特尼克：特朗普清楚油價將維持低位。"
     }
   ]
 }

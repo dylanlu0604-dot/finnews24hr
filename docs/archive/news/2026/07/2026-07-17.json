@@ -1,7 +1,27 @@
 {
   "date": "2026-07-17",
-  "count": 284,
+  "count": 286,
   "items": [
+    {
+      "id": "4992894",
+      "time": "2026-07-17 03:11:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "七國集團就蘇丹局勢發表宣告，敦促快速支援部隊停止在歐拜伊德的軍事行動。"
+    },
+    {
+      "id": "te:economy:567637",
+      "time": "2026-07-17 03:11:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada Bond Yields Hold Firm — The yield on Canada's 10-year government bond firmed at 3.54% after reaching a two-month high of 3.58% as a rebound in US Treasury yields supported global bond markets. US yields recovered after recent declines, while investors continued to assess the outlook for Federal Reserve policy. Still, a sharper decline in Canadian yields was prevented by the Bank of Canada's relatively hawkish rhetoric. The central bank left interest rates unchanged at its July meeting, as expected, but underscored that growth is set to remain robust in the coming quarters. This was accompanied by an upward revision to this year's inflation projections as the conflict in the Middle East pushed energy costs higher."
+    },
     {
       "id": "4992893",
       "time": "2026-07-17 03:08:42",
