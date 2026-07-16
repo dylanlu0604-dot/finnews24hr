@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-16 15:48:42",
-  "count": 18834,
+  "updated": "2026-07-16 15:52:39",
+  "count": 18842,
   "items": [
+    {
+      "id": "mkt:019f69e9-5b9b-7aab-8dc1-a068767db6d1",
+      "time": "2026-07-16 15:52:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ukraine says it struck two Russian 'shadow fleet' tankers in the Black Sea】On the 16th, the SBU said it used Mamay maritime drones to strike two Black Sea tankers belonging to Russia's 'shadow fleet'—Louise1 and Banda—which have long been used to transport oil for Russia. Russia has not responded."
+    },
+    {
+      "id": "mkt:019f69e9-4898-7aab-8dc1-9f1ff37462ec",
+      "time": "2026-07-16 15:52:03",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Some foreign media portrayed China's provision of open-source AI models as a \"trap\"; the Foreign Ministry said it opposes drawing ideological lines."
+    },
+    {
+      "id": "4991750",
+      "time": "2026-07-16 15:51:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏稱在黑海擊中2艘俄“影子艦隊”油輪】當地時間16日，烏克蘭國家安全域性通報稱，烏方使用“馬邁”海上無人艇，在黑海成功擊中俄羅斯“影子艦隊”旗下的兩艘油輪。通報稱，這兩艘油輪分別為“Louise 1”號與“Banda”號，長期為俄羅斯承擔石油運輸任務。目前，俄羅斯方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f69e8-b0ad-7aab-8dc1-973111b3bd53",
+      "time": "2026-07-16 15:51:24",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact mixed",
+        "GBPUSD"
+      ],
+      "text": "【UK temporarily relaxes audit rules for Chinese firms seeking London listings amid weak IPO market】Facing a weak IPO market, the UK will temporarily relax audit rules for Chinese companies seeking London listings. On July 15 the Financial Reporting Council issued revised Third Country Auditor (TCA) guidance permitting the use of Chinese auditing standards for audits of Chinese-registered entities issuing global depository receipts (GDRs) on the London Stock Exchange segment linked to Shanghai/Shenzhen; the guidance takes effect Sept 1, 2026. The move follows a UK government request to the FRC to explore temporary TCA changes to remove barriers to GDR listings while preserving the FRC’s statutory responsibilities for audit quality and investor protection."
+    },
+    {
+      "id": "4991749",
+      "time": "2026-07-16 15:51:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國金融服務委員會：將根據市場影響評估後續措施。"
+    },
+    {
+      "id": "4991748",
+      "time": "2026-07-16 15:50:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湖南崑崙國創金芙蓉先進材料產業基金登記成立 出資額10億】天眼查App顯示，近日，湖南崑崙國創金芙蓉先進材料產業基金合夥企業（有限合夥）成立，執行事務合夥人為中油崑崙（北京）私募基金管理有限公司、株洲市國投創新創業投資有限公司，出資額10億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由中油崑崙（北京）私募基金管理有限公司、株洲市國投創新創業投資有限公司等共同出資。"
+    },
+    {
+      "id": "4991747",
+      "time": "2026-07-16 15:50:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蜂巢能源董事長楊紅新：固液電池低成本量產在即，2027年目標交付7萬臺】7月16日，蜂巢能源在金壇舉辦2026合作伙伴峰會。蜂巢能源董事長楊紅新於會上宣佈，今年年初發布的首款中鎳混合固液電池將於三季度正式量產，今年交付量將超過0.8萬臺，2027年交付量將超過7萬臺。“蜂巢能源有望在今明兩年成為中國真正實現低成本量產混合固液電池的頭部企業。”楊紅新表示。"
+    },
+    {
+      "id": "4991746",
+      "time": "2026-07-16 15:50:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元<KRW=KFTC>升值0.7%，兌美元匯率報1美元兌1477.10韓元，創5月12日以來新高。"
+    },
+    {
+      "id": "4991745",
+      "time": "2026-07-16 15:50:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【一汽解放：上半年解放主配的發電機組銷量同比增長超15%】一汽解放7月16日在互動平臺表示，2026年上半年解放主配的發電機組銷量同比增長超15%；同時，目前解放綠動已完成500kW發電機組樣機點火，後續公司會穩步推進發電機組專案研發、測試等各項工作。"
+    },
+    {
+      "id": "te:markets:567474",
+      "time": "2026-07-16 15:49:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Rolls-Royce Stock Price Hits 4-week Low — Rolls-Royce shares decreased to 1375.00 GBp, the lowest since June 2026. Over the past 4 weeks, Rolls-Royce lost 0.95%, and in the last 12 months, it increased 36.32%."
+    },
+    {
+      "id": "4991744",
+      "time": "2026-07-16 15:49:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "芝加哥小麥期貨價格攀升至2024年6月以來的最高水平。"
+    },
+    {
+      "id": "mkt:019f69e6-52aa-7aab-8dc1-8e3d07583da6",
+      "time": "2026-07-16 15:48:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kung Fu Women's Football box office tops 900 million yuan】Lighthouse Professional real-time data shows the film Kung Fu Women's Football has surpassed 900 million yuan in box office receipts as of 15:42 on July 16."
+    },
+    {
+      "id": "mkt:019f69e5-da93-7aab-8dc1-84dfe2ca6032",
+      "time": "2026-07-16 15:48:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan urges US, Iran to halt military conflict and resume technical-level talks】On the 16th Pakistan's foreign ministry urged the US and Iran to stop military hostilities and quickly restore technical-level talks, calling for maximum restraint after a week of escalating hostile actions. A ministry spokesman said dialogue is the only route to lasting peace and said the Islamabad Memorandum of Understanding signed last month remains a durable framework for peace, mutual respect and shared prosperity, warning against actions that would further undermine regional stability."
+    },
     {
       "id": "4991743",
       "time": "2026-07-16 15:47:44",
@@ -173060,50 +173172,6 @@
         "市場"
       ],
       "text": "隨著油價下跌，英國國債漲幅擴大；英國10年期國債收益率下跌5個基點至4.92%。"
-    },
-    {
-      "id": "4978502",
-      "time": "2026-07-09 15:52:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "【五洲醫療：控股股東一致行動人鄒愛英質押114萬股股份】五洲醫療公告稱，公司近日收到控股股東、實際控制人的一致行動人鄒愛英通知，其於7月8日質押114萬股，佔其所持股份比例27.94%，佔公司總股本比例1.68%，質權人為中信銀行溫州分行，質押用途為融資增信。截至公告披露日，鄒愛英累計質押342萬股，佔其所持股份比例83.82%，佔公司總股本比例5.03%。本次質押不會對公司生產經營、治理產生不利影響。"
-    },
-    {
-      "id": "4978501",
-      "time": "2026-07-09 15:52:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九強生物：獲得兩項醫療器械註冊證書】九強生物公告稱，公司近日收到北京市藥監局頒發的《醫療器械註冊證》，包括抗凝血酶Ⅲ測定試劑盒（髮色底物法）和骨鈣素測定試劑盒（磁微粒化學發光免疫分析法），註冊類別均為Ⅱ，有效期至2031年7月5日。這豐富了公司體外診斷產品線，利於提升競爭力和拓展市場，對經營有積極影響，但銷售情況取決於市場推廣，暫無法預測對業績的影響。"
-    },
-    {
-      "id": "te:markets:565608",
-      "time": "2026-07-09 15:52:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Taiwanese Dollar Hits Lowest in Over a Year — The Taiwanese dollar depreciated to around 32.2 per US dollar, its weakest level since April 2025, pressured by a stronger US dollar and seasonal capital outflows. The decline erased the currency's gains from last year's rally, which was fueled by optimism over trade relations and strong technology-sector earnings. Selling pressure intensified as companies began distributing annual cash dividends, prompting foreign investors, who hold substantial stakes in Taiwanese chipmakers, to convert dividend proceeds into US dollars. This year's cash distributions are projected to exceed NT$2.5 trillion, the highest on record. Meanwhile, expectations that the Federal Reserve will keep interest rates higher for longer continued to support the US dollar, adding to downside pressure on Taiwan's currency."
-    },
-    {
-      "id": "4978500",
-      "time": "2026-07-09 15:51:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古發力打造世界級算力中心叢集】內蒙古彙集了中國最重要的人工智慧企業，正在形成世界級的算力中心叢集。網路巨頭華為、騰訊和阿里巴巴，電信企業中國聯通、中國移動和中國電信，以及中國農業銀行等金融機構紛紛來此落戶。月之暗面和深度求索正在和林格爾以及內蒙古其他地區的伺服器上訓練人工智慧模型，中國石化也在這裡訓練其工業大語言模型“長城”。小鵬汽車等電動汽車製造商也在此訓練用於自動駕駛的演算法。烏蘭察布、和林格爾等地都位於所謂“黃金維度帶”，這些地區相對涼爽，風能和太陽能十分豐富——對於需要大量製冷和電力消耗的算力中心而言，這都是理想條件。"
-    },
-    {
-      "id": "4978499",
-      "time": "2026-07-09 15:50:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【白宮推出“自由燃油”連鎖站點 油價定為每加侖3.47美元致敬特朗普】白宮推出25家名為“自由燃油”（Freedom Fuel）的加油站，意在為美國民眾提供更實惠的加油選擇。 白宮週二在社交平臺X上發文稱：首家自由燃油連鎖加油站正式落地費城，油價定為每加侖3.47美元，致敬美國第47任總統。 “特朗普總統正牽頭推動今夏油價下調，幫民眾省下更多開支。” 據自由燃油官網資訊，這25座加油站裡有20座設在賓夕法尼亞州，剩餘5座位於新澤西州。一名白宮官員透露，自由燃油網路屬於私營企業，並未獲得本屆政府補貼。 美國汽車協會（AAA）資料顯示，截至週三，賓州普通汽油均價約每加侖3.98美元，新澤西州約3.86美元；全美汽油平均零售價為每加侖3.79美元。"
     }
   ]
 }
