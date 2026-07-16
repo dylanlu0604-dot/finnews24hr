@@ -1,7 +1,32 @@
 {
   "date": "2026-07-17",
-  "count": 261,
+  "count": 264,
   "items": [
+    {
+      "id": "mkt:019f6c42-51cd-7aab-8dcf-e4e1171dbd8a",
+      "time": "2026-07-17 02:48:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran's judiciary says no U.S. prisoners have been released or exchanged from Iranian prisons so far."
+    },
+    {
+      "id": "4992882",
+      "time": "2026-07-17 02:47:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗稱特朗普關於被關押美國人獲釋的說法不實。"
+    },
+    {
+      "id": "4992881",
+      "time": "2026-07-17 02:45:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國環保署（EPA）資料顯示，美國6月生成了12.8億加侖乙醇（D6類）抵免額度 ，5月為12.6億加侖。6月美國生成了8.39億加侖生物柴油（D4）抵免額度，5月為7.36億加侖。"
+    },
     {
       "id": "4992880",
       "time": "2026-07-17 02:42:41",
