@@ -1,7 +1,145 @@
 {
   "date": "2026-07-16",
-  "count": 1092,
+  "count": 1108,
   "items": [
+    {
+      "id": "4991229",
+      "time": "2026-07-16 10:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌2.8%，至66796.79點。東證指數早盤收盤下跌1.1%，至4042.38點。"
+    },
+    {
+      "id": "mkt:019f68c3-6592-7aab-8db7-456d0ce78ed8",
+      "time": "2026-07-16 10:31:03",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor Group to acquire all Boston Dynamics shares held by SoftBank."
+    },
+    {
+      "id": "mkt:019f68c3-372f-7aab-8db7-3f42a60654f5",
+      "time": "2026-07-16 10:30:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said the central bank will take appropriate measures until inflation stabilizes at the Bank of Korea's target."
+    },
+    {
+      "id": "mkt:019f68c3-0ae2-7aab-8db7-34efb194c3f5",
+      "time": "2026-07-16 10:30:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said import price levels are relatively high."
+    },
+    {
+      "id": "4991228",
+      "time": "2026-07-16 10:30:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "現代汽車集團：將收購軟銀所持波士頓動力的全部股份。"
+    },
+    {
+      "id": "mkt:019f68c2-a9a1-7aab-8db7-2afe9e130e76",
+      "time": "2026-07-16 10:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said he will comprehensively assess second-quarter GDP data."
+    },
+    {
+      "id": "mkt:019f68c1-c8f6-7aab-8db7-2062bff0ac49",
+      "time": "2026-07-16 10:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Supreme People's Procuratorate reports 1H prosecutions, 3,485 tax-related cases】The Supreme People's Procuratorate said in 1H it prosecuted 58,000 people for crimes disrupting market order. It handled 11,000 cases of improper cross‑region or profit‑seeking enforcement, supervised withdrawal of 1,060 cases and decisions not to prosecute 1,324, and oversaw release/return of seized or frozen assets totalling 850 mln yuan. In coordination with the State Taxation Administration and other agencies it prosecuted 3,485 people for tax‑related crimes. It prosecuted 4,435 people for smuggling, including cases involving strategic minerals, and 4,759 for antitrust and unfair competition offences (damaging reputation, forced transactions). The procuratorate also filed 128 public‑interest lawsuits to support construction of a unified national market."
+    },
+    {
+      "id": "4991227",
+      "time": "2026-07-16 10:29:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：第二季度GDP資料將進行全面評估。"
+    },
+    {
+      "id": "mkt:019f68c1-7008-7aab-8db7-1b2630282f1c",
+      "time": "2026-07-16 10:28:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said the central bank's response to inflation risks will be data-dependent."
+    },
+    {
+      "id": "4991226",
+      "time": "2026-07-16 10:28:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "申鉉松：韓國央行應對通脹風險的積極程度將取決於資料。"
+    },
+    {
+      "id": "te:markets:567372",
+      "time": "2026-07-16 10:28:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Trades Near 6-Week High — The New Zealand dollar hovered near a six-week high at around $0.583, supported by expectations that the Reserve Bank of New Zealand will continue tightening monetary policy, alongside broad weakness in the US dollar. Markets widely expect the RBNZ to deliver another rate hike in September, with the OCR seen reaching at least 3.0% by the end of the year. RBNZ Chief Economist Paul Conway said earlier this week that renewed conflict in the Middle East could fuel inflationary pressures, reinforcing the case for further policy tightening following last week's first rate increase in more than three years. Meanwhile, the greenback hovered near a one-month low as investors scaled back bets on a near-term Federal Reserve rate hike after softer-than-expected inflation data. However, escalating geopolitical tensions remain a downside risk for the New Zealand dollar, as heightened uncertainty could weaken global risk appetite and weigh on risk-sensitive currencies such as the kiwi."
+    },
+    {
+      "id": "4991225",
+      "time": "2026-07-16 10:28:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "申鉉松：我們將持續應對，直至通脹穩定在央行目標水平。"
+    },
+    {
+      "id": "mkt:019f68c1-0714-7aab-8db7-14312776ce33",
+      "time": "2026-07-16 10:28:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Supreme People's Procuratorate: Prosecuted 240 for securities crimes in 1H】The Supreme People's Procuratorate said that, as part of a three-year campaign against illegal financial activity, it prosecuted 13,000 people in 1H for financial fraud and offences undermining financial regulatory order. It said it has refined securities prosecution mechanisms and prosecuted 240 people in 1H for securities crimes — including accounting fraud, insider trading, market manipulation and fraudulent issuance — and brought 1,409 anti-money-laundering prosecutions in 1H."
+    },
+    {
+      "id": "mkt:019f68c0-c6cd-7aab-8db7-0d5cb9e96082",
+      "time": "2026-07-16 10:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said overall inflation may be broadly in line with the May projection of 2.7%."
+    },
+    {
+      "id": "4991224",
+      "time": "2026-07-16 10:27:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：核心通脹率可能略高於5月預測的2.4%。"
+    },
+    {
+      "id": "4991223",
+      "time": "2026-07-16 10:27:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：整體通脹率可能與5月預測的2.7%基本一致。"
+    },
     {
       "id": "mkt:019f68c0-4834-7aab-8db7-07ce30acf983",
       "time": "2026-07-16 10:27:39",

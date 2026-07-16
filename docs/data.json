@@ -1,7 +1,145 @@
 {
-  "updated": "2026-07-16 10:28:16",
-  "count": 18655,
+  "updated": "2026-07-16 10:32:43",
+  "count": 18660,
   "items": [
+    {
+      "id": "4991229",
+      "time": "2026-07-16 10:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數早盤收盤下跌2.8%，至66796.79點。東證指數早盤收盤下跌1.1%，至4042.38點。"
+    },
+    {
+      "id": "mkt:019f68c3-6592-7aab-8db7-456d0ce78ed8",
+      "time": "2026-07-16 10:31:03",
+      "tags": [
+        "MKT News",
+        "9984.T",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor Group to acquire all Boston Dynamics shares held by SoftBank."
+    },
+    {
+      "id": "mkt:019f68c3-372f-7aab-8db7-3f42a60654f5",
+      "time": "2026-07-16 10:30:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said the central bank will take appropriate measures until inflation stabilizes at the Bank of Korea's target."
+    },
+    {
+      "id": "mkt:019f68c3-0ae2-7aab-8db7-34efb194c3f5",
+      "time": "2026-07-16 10:30:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said import price levels are relatively high."
+    },
+    {
+      "id": "4991228",
+      "time": "2026-07-16 10:30:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "現代汽車集團：將收購軟銀所持波士頓動力的全部股份。"
+    },
+    {
+      "id": "mkt:019f68c2-a9a1-7aab-8db7-2afe9e130e76",
+      "time": "2026-07-16 10:30:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said he will comprehensively assess second-quarter GDP data."
+    },
+    {
+      "id": "4991227",
+      "time": "2026-07-16 10:29:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：第二季度GDP資料將進行全面評估。"
+    },
+    {
+      "id": "mkt:019f68c1-c8f6-7aab-8db7-2062bff0ac49",
+      "time": "2026-07-16 10:29:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Supreme People's Procuratorate reports 1H prosecutions, 3,485 tax-related cases】The Supreme People's Procuratorate said in 1H it prosecuted 58,000 people for crimes disrupting market order. It handled 11,000 cases of improper cross‑region or profit‑seeking enforcement, supervised withdrawal of 1,060 cases and decisions not to prosecute 1,324, and oversaw release/return of seized or frozen assets totalling 850 mln yuan. In coordination with the State Taxation Administration and other agencies it prosecuted 3,485 people for tax‑related crimes. It prosecuted 4,435 people for smuggling, including cases involving strategic minerals, and 4,759 for antitrust and unfair competition offences (damaging reputation, forced transactions). The procuratorate also filed 128 public‑interest lawsuits to support construction of a unified national market."
+    },
+    {
+      "id": "4991226",
+      "time": "2026-07-16 10:28:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "申鉉松：韓國央行應對通脹風險的積極程度將取決於資料。"
+    },
+    {
+      "id": "mkt:019f68c1-7008-7aab-8db7-1b2630282f1c",
+      "time": "2026-07-16 10:28:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said the central bank's response to inflation risks will be data-dependent."
+    },
+    {
+      "id": "te:markets:567372",
+      "time": "2026-07-16 10:28:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Trades Near 6-Week High — The New Zealand dollar hovered near a six-week high at around $0.583, supported by expectations that the Reserve Bank of New Zealand will continue tightening monetary policy, alongside broad weakness in the US dollar. Markets widely expect the RBNZ to deliver another rate hike in September, with the OCR seen reaching at least 3.0% by the end of the year. RBNZ Chief Economist Paul Conway said earlier this week that renewed conflict in the Middle East could fuel inflationary pressures, reinforcing the case for further policy tightening following last week's first rate increase in more than three years. Meanwhile, the greenback hovered near a one-month low as investors scaled back bets on a near-term Federal Reserve rate hike after softer-than-expected inflation data. However, escalating geopolitical tensions remain a downside risk for the New Zealand dollar, as heightened uncertainty could weaken global risk appetite and weigh on risk-sensitive currencies such as the kiwi."
+    },
+    {
+      "id": "4991225",
+      "time": "2026-07-16 10:28:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "申鉉松：我們將持續應對，直至通脹穩定在央行目標水平。"
+    },
+    {
+      "id": "mkt:019f68c1-0714-7aab-8db7-14312776ce33",
+      "time": "2026-07-16 10:28:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Supreme People's Procuratorate: Prosecuted 240 for securities crimes in 1H】The Supreme People's Procuratorate said that, as part of a three-year campaign against illegal financial activity, it prosecuted 13,000 people in 1H for financial fraud and offences undermining financial regulatory order. It said it has refined securities prosecution mechanisms and prosecuted 240 people in 1H for securities crimes — including accounting fraud, insider trading, market manipulation and fraudulent issuance — and brought 1,409 anti-money-laundering prosecutions in 1H."
+    },
+    {
+      "id": "mkt:019f68c0-c6cd-7aab-8db7-0d5cb9e96082",
+      "time": "2026-07-16 10:28:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said overall inflation may be broadly in line with the May projection of 2.7%."
+    },
+    {
+      "id": "4991224",
+      "time": "2026-07-16 10:27:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：核心通脹率可能略高於5月預測的2.4%。"
+    },
+    {
+      "id": "4991223",
+      "time": "2026-07-16 10:27:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：整體通脹率可能與5月預測的2.7%基本一致。"
+    },
     {
       "id": "mkt:019f68c0-4834-7aab-8db7-07ce30acf983",
       "time": "2026-07-16 10:27:39",
@@ -171440,115 +171578,6 @@
         "國際"
       ],
       "text": "更正：伊朗革命衛隊稱他們襲擊了科威特的兩個美軍基地和巴林的兩個（非一個）基地。"
-    },
-    {
-      "id": "4978021",
-      "time": "2026-07-09 10:32:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "截至早盤收盤，日經225指數漲2%，東證指數漲0.5%。"
-    },
-    {
-      "id": "4978020",
-      "time": "2026-07-09 10:32:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【應急管理部副部長徐加愛會見阿曼國家安全委員會秘書長伊德里斯少將】7月8日，應急管理部副部長徐加愛在京會見阿曼國家安全委員會秘書長伊德里斯少將，雙方就加強應急管理領域務實合作進行深入交流。徐加愛表示，當前，中阿戰略伙伴關係持續深化，雙方在國際救援、交流互動、人員培訓等領域合作取得顯著成效。中方願與阿方共建“一帶一路”自然災害防治和應急管理國際合作機制，加強海合會框架下協作，深化應急救援合作，探討共同實施“小而美”專案，推動雙方務實合作走深走實。伊德里斯表示，中阿友誼源遠流長，阿方正在推進應急管理體系改革，願積極學習借鑑中方應急管理經驗，深化災害監測預警、應急救援等領域務實合作，同中方一道推動中阿應急管理合作落地見效。"
-    },
-    {
-      "id": "mkt:019f44b7-cb32-7aab-8d05-f4e206049e58",
-      "time": "2026-07-09 10:32:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "01347.HK",
-        "Impact bullish",
-        "00981.HK",
-        "02166.HK"
-      ],
-      "text": "Hong Kong-listed chip stocks extended gains: 01347.HK and SMIC (00981.HK) rose over 10% each, while 02166.HK climbed nearly 16%."
-    },
-    {
-      "id": "4978019",
-      "time": "2026-07-09 10:31:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【搜狗輸入法全面適配鴻蒙系統】搜狗輸入法宣佈全面適配鴻蒙系統，鴻蒙使用者在華為應用市場直接下載或更新至最新版本，即可體驗。據介紹，本次更新的鴻蒙版聚焦跨裝置複製貼上、語音識別、個性化體驗三大核心能力，全面對齊搜狗輸入法在Android、iOS、Windows、Mac等系統平臺的能力，也是行業首個全面適配鴻蒙系統的輸入法。其中，備受使用者關注的跨裝置複製貼上能力在鴻蒙版中同步支援，使用者可在鴻蒙、Android、iOS、Windows、Mac等各端之間自由傳輸文字與圖片內容，真正打破鴻蒙系統與其他系統之間的協同壁壘；語音識別能力同步覆蓋文字潤色、方言識別等核心場景，支援多種方言、外語，語音識別準確率提升至98%；個性化體驗也與其他平臺完全打通，海量熱門皮膚與個性主題在鴻蒙端全面開放，使用者在其他系統裝置上下載購買的皮膚可無縫延續至鴻蒙端。（新浪科技）"
-    },
-    {
-      "id": "te:economy:565480",
-      "time": "2026-07-09 10:31:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "China 10Y Yield Extends Decline — China's 10-year government bond yield fell to 1.73% on Thursday, extending the previous session's decline and touching its lowest level in a week as investors responded to the People's Bank of China's reaffirmation of an accommodative monetary policy stance. The central bank pledged to maintain appropriately supportive policy settings and strengthen financial backing for domestic consumption, while acknowledging persistent imbalances between robust supply and relatively weak demand. Recent data showed that annual consumer inflation eased to a three-month low of 1.0% in June from 1.2% in May, while producer-price inflation increased to 4.1% from 3.9%, marking its fastest pace since July 2022. The latest figures highlighted the continued divergence between consumer and factory-gate price trends. Nevertheless, the PBOC has kept key interest rates and reserve requirement ratios unchanged, focusing instead on refining its policy framework and improving monetary policy transmission."
-    },
-    {
-      "id": "4978018",
-      "time": "2026-07-09 10:31:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報158200元/噸，較上日16:30價格下跌4100元/噸。"
-    },
-    {
-      "id": "te:markets:565478",
-      "time": "2026-07-09 10:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Offshore Yuan Snaps 3-Day Losing Streak — The offshore yuan rose to around 6.79 per dollar on Thursday, snapping a three-session losing streak, as stronger producer-price growth reinforced expectations that deflationary pressures are easing despite still-muted consumer demand. Annual producer inflation rose to 4.1% in June from 3.9% in May, marking the fastest pace since July 2022, supported by higher commodity and energy costs amid the Middle East tensions. Meanwhile, annual consumer inflation eased to a three-month low of 1% from 1.2% in May. While rising global prices for oil, semiconductors, and industrial metals have lifted factory-gate prices, weak domestic demand has limited cost pass-through to consumers, keeping pressure on profit margins. On the monetary policy front, the central bank reiterated its commitment to maintaining an appropriately accommodative stance and strengthening financial support for domestic consumption, while acknowledging the persistent imbalance between robust supply and relatively weak demand."
-    },
-    {
-      "id": "4978017",
-      "time": "2026-07-09 10:30:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：預計波斯灣石油流量將在7月底恢復，這將需要霍爾木茲海峽石油流量增加660萬桶/日。"
-    },
-    {
-      "id": "4978016",
-      "time": "2026-07-09 10:29:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局：前5個月基本醫保參保人數達13.19億 基金收入1.61萬億元】在今日上午舉行的2026年上半年例行新聞釋出會上，國家醫保局副主任王國棟介紹，今年1—5月，全國基本醫保參保人數達13.19億人，同比增加469萬人。其中，職工醫保參保3.86億人，同比增加716萬人；居民醫保參保9.23億人，同比減少246萬人，參保結構持續最佳化。同期，全國基本醫保基金收入1.61萬億元，同比增長4.89%；基金支出1.21萬億元，同比增長2.12%。王國棟表示，今年上半年醫療保障制度執行總體平穩，參保規模保持穩定，醫保基金執行總體平穩。"
-    },
-    {
-      "id": "mkt:019f44b5-4903-7aab-8d05-ec0772a8b925",
-      "time": "2026-07-09 10:29:19",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) says its fighters will not ignore US military aggression."
-    },
-    {
-      "id": "mkt:019f44b4-6b32-7aab-8d05-e53ed6a13cb1",
-      "time": "2026-07-09 10:28:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【China's national supercomputing internet core node goes live】China activated a national supercomputing internet core node: a single 100,000‑card full‑precision compute pool designed to support concurrent 100,000‑card training, ~10‑trillion‑parameter model full training, AI‑for‑Science and ultra‑large scientific engineering workloads, and to serve as a domestically developed inclusive large‑scale compute base. During trial it completed more than 70 tests at the 10k‑card scale. Using 45,000 cards it ran a 41.47 billion‑atom DFT‑precision simulation, setting a world record; billion‑scale grid simulation turnaround improved from week‑level to hour‑level; it has deeply adapted over 400 industry models and completed domestic porting and optimization of key domain software for fluid dynamics, quantum mechanics and large‑scale simulation, strengthening the domestic compute application ecosystem."
     }
   ]
 }
