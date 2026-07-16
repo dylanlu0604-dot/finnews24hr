@@ -1,7 +1,43 @@
 {
   "date": "2026-07-17",
-  "count": 373,
+  "count": 377,
   "items": [
+    {
+      "id": "4992951",
+      "time": "2026-07-17 04:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉臨時總統羅德里格斯：委內瑞拉目前正在磋商 30 項能源合作協議，尚不確定她是否會參選委內瑞拉大選。"
+    },
+    {
+      "id": "te:markets:567649",
+      "time": "2026-07-17 04:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index decreased 105 points or 0.20 percent on Thursday to close at 52554 points. The decline was led by Goldman Sachs (-5.02%), Alphabet (-4.64%) and Caterpillar (-4.15%). On the upside, the strongest performers were Nike (4.04%), IBM (3.90%) and Salesforce (3.36%)."
+    },
+    {
+      "id": "4992950",
+      "time": "2026-07-17 04:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）：颶風埃莉達強度小幅增強，預計於今晚至週五轉向西北方向移動。"
+    },
+    {
+      "id": "mkt:019f6ca1-db64-7aab-8dd0-f922d5d123ee",
+      "time": "2026-07-17 04:32:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil Trade Minister Rosa said the US has asked Brazil to restrict investment by countries that \"do not abide by market rules\" on rare earths, but Brazil will not accept the demand."
+    },
     {
       "id": "4992949",
       "time": "2026-07-17 04:31:21",

@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-17 04:33:14",
-  "count": 18778,
+  "updated": "2026-07-17 04:37:06",
+  "count": 18774,
   "items": [
+    {
+      "id": "4992951",
+      "time": "2026-07-17 04:35:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉臨時總統羅德里格斯：委內瑞拉目前正在磋商 30 項能源合作協議，尚不確定她是否會參選委內瑞拉大選。"
+    },
+    {
+      "id": "te:markets:567649",
+      "time": "2026-07-17 04:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index decreased 105 points or 0.20 percent on Thursday to close at 52554 points. The decline was led by Goldman Sachs (-5.02%), Alphabet (-4.64%) and Caterpillar (-4.15%). On the upside, the strongest performers were Nike (4.04%), IBM (3.90%) and Salesforce (3.36%)."
+    },
+    {
+      "id": "4992950",
+      "time": "2026-07-17 04:34:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）：颶風埃莉達強度小幅增強，預計於今晚至週五轉向西北方向移動。"
+    },
+    {
+      "id": "mkt:019f6ca1-db64-7aab-8dd0-f922d5d123ee",
+      "time": "2026-07-17 04:32:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil Trade Minister Rosa said the US has asked Brazil to restrict investment by countries that \"do not abide by market rules\" on rare earths, but Brazil will not accept the demand."
+    },
     {
       "id": "4992949",
       "time": "2026-07-17 04:31:21",
@@ -172588,86 +172624,6 @@
         "國際"
       ],
       "text": "【沙特PIF接受卡尼邀請赴多倫多，沙特資本將目光投向加拿大】加拿大總理馬克·卡尼表示，沙特投資者對加拿大的能源、礦業和基礎設施領域感興趣。沙烏地阿拉伯規模達1萬億美元的主權財富基金——公共投資基金（PIF），將出席他將於9月在多倫多主辦的投資峰會。週四，卡尼結束了此次訪問，這是最近26年來加拿大領導人首次造訪該中東王國。"
-    },
-    {
-      "id": "4979750",
-      "time": "2026-07-10 04:36:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【伯納姆獲多數英國工黨議員支援 基本鎖定黨魁職位】當地時間9日，英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，已基本鎖定黨魁職位，並有望接任英國首相。根據工黨黨魁選舉規則，候選人需獲得至少81名工黨議員提名，方可進入下一階段競選。目前，除伯納姆外，尚無其他工黨議員獲得提名。目前，伯納姆距離鎖定黨魁職位僅一步之遙。他已獲得322個提名，只需再獲得1名議員提名，其他潛在競爭者將無法獲得參選所需的81份提名，伯納姆將成為唯一候選人。儘管獲得壓倒性支援，根據選舉程式，伯納姆仍需待7月17日完成相關程式後，才會被正式宣佈當選工黨黨魁。隨後，他將接受國王任命並出任英國首相。（央視新聞）"
-    },
-    {
-      "id": "4979749",
-      "time": "2026-07-10 04:35:49",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "美國至7月3日當週外國央行持有美國國債 -286.05億美元，前值-110.64億美元。"
-    },
-    {
-      "id": "mkt:019f4898-0148-7aab-8d21-705604190519",
-      "time": "2026-07-10 04:35:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Foreign central banks' holdings of U.S. Treasuries fell by $28.605 bln in the week through July 3, versus a $11.064 bln decline the prior week."
-    },
-    {
-      "id": "mkt:019f4897-d7c7-7aab-8d21-6ecd1ab6261e",
-      "time": "2026-07-10 04:35:38",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | US Treasuries held by Foreign Central Banks (Jul.3) | actual -28605000000B | previous -11064000000B"
-    },
-    {
-      "id": "4979748",
-      "time": "2026-07-10 04:35:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【印尼Alamtri公司啟動鋁出口，向美國發運金屬】根據貿易資料平臺Export Genius的資訊，印尼礦業與能源集團PT Alamtri Resources Indonesia旗下的一家冶煉廠於6月完成了首批鋁出口，發貨目的地為美國和韓國。最新一批運往美國的鋁由貿易商Mercuria購買，運往韓國的貨物由Vitol購買。Export Genius資料顯示，位於婆羅洲島的PT Kalimantan Aluminium Industry公司於去年年底開始除錯其一期專案，上個月向美國發運了31,494噸原鋁，並向韓國發運了3,569噸。由於美以對伊朗的戰爭導致海灣地區主要供應商交貨中斷，美國正積極尋求鋁的替代來源。"
-    },
-    {
-      "id": "4979747",
-      "time": "2026-07-10 04:35:10",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "據訊息稱，SK 海力士美股發行定價為每股 149 美元。"
-    },
-    {
-      "id": "te:markets:565799",
-      "time": "2026-07-10 04:35:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.18% Higher — The Dow Jones Index went up by 96 points or 0.18 percent on Thursday to close at 52444 points. The rise was led by Cisco Systems (3.77%), American Express (2.94%) and Goldman Sachs (2.51%). On the downside, the weakerst performers were Salesforce (-2.73%), IBM (-2.41%) and J&J (-1.63%)."
-    },
-    {
-      "id": "4979746",
-      "time": "2026-07-10 04:33:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "據SEC檔案披露：摩根士丹利直接放貸基金髮行3.5億美元2031年到期6.1%利率票據。"
     }
   ]
 }
