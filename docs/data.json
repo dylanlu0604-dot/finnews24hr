@@ -1,7 +1,190 @@
 {
-  "updated": "2026-07-16 08:58:12",
-  "count": 18626,
+  "updated": "2026-07-16 09:02:45",
+  "count": 18618,
   "items": [
+    {
+      "id": "mkt:019f6871-3e3e-7aab-8db3-7052abf36218",
+      "time": "2026-07-16 09:01:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "At the opening on Thursday, July 16, Shanghai Gold Exchange gold T+D fell 0.28% to 881.06 yuan/gram; silver T+D fell 2.07% to 13,984.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f6871-3d02-7aab-8db3-698d148b01bc",
+      "time": "2026-07-16 09:01:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan's TAIEX opened down 205.23 points, or 0.45%, at 45,426.36 on Thursday, July 16."
+    },
+    {
+      "id": "te:economy:567344",
+      "time": "2026-07-16 09:01:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Korea",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "Bank of Korea Hikes Key Rate to 2.75% — The Bank of Korea (BoK) raised its base rate by 25 basis points to 2.75% at its July 2026 meeting, in line with expectations, marking its first rate hike since January 2023. The decision reflected mounting inflationary pressures, with annual consumer inflation accelerating to 3.2% in June from 3.1% in May, remaining well above the central bank’s 2% target amid elevated oil prices and a weaker won. Policymakers also cited robust household credit growth, rising property prices, and persistent exchange rate pressures as factors warranting tighter monetary policy. At the same time, the BoK signaled that concerns over economic weakness had eased, supported by a semiconductor export boom fueled by AI demand, after raising its 2026 GDP growth forecast to 2.6% in May. Governor Shin Hyun-song emphasized that restoring price stability had become the central bank’s priority despite the higher borrowing costs for households and businesses."
+    },
+    {
+      "id": "mkt:019f6870-e873-7aab-8db3-6518df491532",
+      "time": "2026-07-16 09:00:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals"
+      ],
+      "text": "At the open, China’s most-active futures were mixed. SHFE silver and PTA fell over 2%; bottle-grade PET, lithium carbonate, SHFE tin, polyester short fiber and p‑xylene were down nearly 2%. Platinum, synthetic rubber, plastics and live hog futures rose, with plastics’ monthly average up more than 1%."
+    },
+    {
+      "id": "mkt:019f6870-d478-7aab-8db3-58d3d6e354d0",
+      "time": "2026-07-16 09:00:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Platinum most-active contract's intraday gain widened to 2.00%; last 413.00 yuan/gram."
+    },
+    {
+      "id": "4991022",
+      "time": "2026-07-16 09:00:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱攔截摧毀一架敵方MQ-9無人機】伊朗伊斯蘭革命衛隊16日凌晨在社交媒體上發文稱，伊朗防空部隊在伊朗安迪梅什克上空攔截摧毀了一架敵方MQ-9無人機。（新華社）"
+    },
+    {
+      "id": "mkt:019f6870-5332-7aab-8db3-50ef91e5779e",
+      "time": "2026-07-16 09:00:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures opened down 0.18%."
+    },
+    {
+      "id": "4991021",
+      "time": "2026-07-16 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.3%報45,511.98。"
+    },
+    {
+      "id": "4991020",
+      "time": "2026-07-16 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】白銀連續跌2.81%，PTA連續跌2.14%，碳酸鋰連續跌1.94%，錫連續跌1.90%，鉑連續漲1.78%。"
+    },
+    {
+      "id": "4991019",
+      "time": "2026-07-16 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.23%。"
+    },
+    {
+      "id": "4991018",
+      "time": "2026-07-16 09:00:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌0.05%。"
+    },
+    {
+      "id": "4991017",
+      "time": "2026-07-16 08:59:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國央行自2023年來首次加息】為應對美伊衝突引發的通脹壓力，韓國央行三年半來首次上調基準利率，加入了全球收緊貨幣政策的行列。韓國央行週四將其基準七天期回購利率上調0.25個百分點，至2.75%。該行上一次加息是在2023年1月。自2025年5月以來，該央行一直將利率維持在2.50%的水平。當時該行進行了最後一次降息，並暫停了始於2024年10月的寬鬆週期。接受媒體調查的全部25名經濟學家都曾預計，韓國央行將在7月份加息，這標誌著該行將轉向更緊縮的貨幣政策。這一偏緊縮的轉變在市場的普遍預期之內。自5月份的上一次會議以來，韓國央行行長申鉉松已多次發表言論，暗示有收緊傾向，而目前通脹率仍遠高於央行2%的目標。"
+    },
+    {
+      "id": "mkt:019f686f-ebb4-7aab-8db3-4bef8749c45f",
+      "time": "2026-07-16 08:59:52",
+      "tags": [
+        "MKT News",
+        "603986.SS",
+        "Impact bullish",
+        "002384.SZ"
+      ],
+      "text": "【July 15: 416 stocks saw margin financing buys >100 mln; GigaDevice tops at 4.46 bln yuan】On July 15, 3,509 stocks received margin financing purchases; 416 stocks recorded margin buys exceeding 100 mln yuan. GigaDevice led with 4.46 bln yuan in margin purchases, followed by Dongshan Precision with 3.98 bln yuan and Zhongji Xuchuang with 3.86 bln yuan."
+    },
+    {
+      "id": "4991016",
+      "time": "2026-07-16 08:59:39",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信期貨：黃金短線震盪執行，關注油價變化和6月美國零售資料指引】日內海內外金價均窄幅震盪偏弱執行、跌幅不及1%，緣於6月通脹資料雖疲軟、不及預期，而霍爾木茲海峽封閉和美伊緊張局勢持續升級導致原油價格走高，投資者仍擔心能源驅動的通脹。6月，美國PPI年率5.5% ，不及預期6.2%和前值6%；PPI月率 -0.3% ，不及預期0% 和前值0.6%，核心CPI同環比增長亦不及預期。CPI和PPI資料均走軟影響下，CME顯示市場對美聯儲加息預期押注推遲至10月，但油價上漲仍使通脹風險持續存在。據新華社報道，特朗普14日在白宮戰情室召開會議，討論對伊朗大規模進攻計劃，稱“規模將比當前圍繞霍爾木茲海峽的打擊行動更為廣泛”；並表示，除非伊朗重返談判桌，否則美軍將在下週打擊其橋樑和發電廠。"
+    },
+    {
+      "id": "4991015",
+      "time": "2026-07-16 08:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月15日416股獲融資買入超億元 兆易創新獲買入44.60億元居首】7月15日共有3509只個股獲融資資金買入，有416股買入金額超億元。其中，兆易創新、東山精密、中際旭創融資買入金額排名前三，分別獲買入44.60億元、39.78億元、38.61億元。"
+    },
+    {
+      "id": "4991014",
+      "time": "2026-07-16 08:58:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鐵十二局領導班子調整：劉守成任黨委副書記、董事，為總經理人選】7月15日，中鐵十二局召開幹部大會，宣佈中國鐵建黨委、中國鐵建對集團公司領導班子調整的決定。經中國鐵建黨委、中國鐵建研究決定：劉守成同志任中鐵十二局黨委副書記、董事，為總經理人選。黃衛遠同志任中鐵十二局黨委副書記，為職工董事、工會主席人選。張文忠為中鐵十二局總會計師人選。免去蔣盛煌同志中鐵十二局黨委常委、委員職務，不再擔任副總經理、總會計師，按規定交流，另有任用。"
+    },
+    {
+      "id": "4991013",
+      "time": "2026-07-16 08:58:26",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數(KOSPI)在央行加息後小幅下滑，最新下跌6.3%。"
+    },
+    {
+      "id": "mkt:019f686e-55f3-7aab-8db3-40557c1b5773",
+      "time": "2026-07-16 08:58:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell below $4,050/oz, down 0.25% on the day."
+    },
+    {
+      "id": "4991012",
+      "time": "2026-07-16 08:58:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌0.25%。"
+    },
     {
       "id": "mkt:019f686d-a699-7aab-8db3-3837dad1745f",
       "time": "2026-07-16 08:57:24",
@@ -171039,257 +171222,6 @@
         "Impact bearish"
       ],
       "text": "Bank of Korea says it will continue to implement measures to stabilize markets."
-    },
-    {
-      "id": "4977852",
-      "time": "2026-07-09 09:02:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中方代表：堅決反對一切衝突中的性暴力】當地時間8日，在安理會衝突中性暴力問題公開辯論會上，中國常駐聯合國代表傅聰表示，近年來，隨著國際局勢動盪加劇，衝突中的性暴力問題有所升溫，婦女和女童是主要的受害者。將性暴力用作戰爭和恐怖主義手段，嚴重違反安理會相關決議和國際法，嚴重侵犯受害者尊嚴和基本權利，給個人、家庭和社會帶來長期創傷。中方強烈譴責並堅決反對一切衝突中的性暴力，呼籲各國共同予以遏制和打擊。"
-    },
-    {
-      "id": "mkt:019f4465-7826-7aab-8d02-7d3a5840b70c",
-      "time": "2026-07-09 09:02:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hy3 demand surge prompts WorkBuddy emergency capacity expansion】WorkBuddy said Hy3 traffic spiked after its initial launch; from 10:00 on July 8 compute consumption peaked and afternoon queuing exceeded 50%. The team immediately reallocated available compute resources and reports capacity expansion is complete."
-    },
-    {
-      "id": "4977851",
-      "time": "2026-07-09 09:02:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗再報復性打擊科威特美軍目標 】當地時間今天（7月9日）凌晨，科威特響起防空警報。科威特國防部稱正攔截來襲導彈和無人機。"
-    },
-    {
-      "id": "4977850",
-      "time": "2026-07-09 09:01:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【未來5年，城鎮新增就業將保持相當規模 】《人力資源和社會保障事業發展“十五五”規劃》7月9日公佈，提出“十五五”時期人社事業發展的七大主要目標，並圍繞支撐目標實現、突出發展重點，提出了就業、社保、人才人事、勞動關係和公共服務五類18項量化指標。就業方面，規劃提出，“十五五”時期，城鎮新增就業人數保持相當規模，城鎮失業人員再就業人數2500萬人，就業困難人員就業人數650萬人，城鎮調查失業率控制在5.5%以內。開展補貼性職業技能培訓超過5000萬人次，其中農民工參加培訓1750萬人次。社保方面，規劃提出，“十五五”時期，基本養老保險參保率保持在95%以上，失業保險、工傷保險（含職業傷害保障）參保人數分別達到2.55億人、3.45億人，企業（職業）年金基金規模超9萬億元。"
-    },
-    {
-      "id": "mkt:019f4465-25c5-7aab-8d02-753d3c14594f",
-      "time": "2026-07-09 09:01:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange early trade July 9: gold T+D fell 1.21% to 891.93 yuan/gram; silver T+D fell 3.5% to 14,237 yuan/kg."
-    },
-    {
-      "id": "mkt:019f4465-18e1-7aab-8d02-6bb5c5b1a685",
-      "time": "2026-07-09 09:01:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China plans to sustain sizable urban job creation over next five years】China’s 15th Five-Year Plan for human resources and social security, published July 9, says urban new employment will remain sizable over the next five years. Targets include re-employing 25.0 mln urban unemployed, placing 6.5 mln people with employment difficulties into jobs, and keeping the surveyed urban unemployment rate at or below 5.5%. The plan calls for more than 50.0 mln subsidized vocational-training enrollments, including 17.5 mln for migrant workers."
-    },
-    {
-      "id": "mkt:019f4464-efbe-7aab-8d02-60b3cdce10c9",
-      "time": "2026-07-09 09:01:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened 113.92 points higher (+0.25%) at 45,848.33 on July 9 (Thursday)."
-    },
-    {
-      "id": "4977849",
-      "time": "2026-07-09 09:01:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行表示，考慮到包括價格在內的風險，升息勢在必行。"
-    },
-    {
-      "id": "4977848",
-      "time": "2026-07-09 09:00:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：預計通脹將超出目標水平，需求側壓力將逐步攀升。"
-    },
-    {
-      "id": "4977847",
-      "time": "2026-07-09 09:00:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：將繼續開展市場穩定措施。"
-    },
-    {
-      "id": "4977846",
-      "time": "2026-07-09 09:00:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：韓元貶值幅度大於其他主要貨幣。"
-    },
-    {
-      "id": "4977845",
-      "time": "2026-07-09 09:00:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌5%，現報2418.00點。"
-    },
-    {
-      "id": "4977844",
-      "time": "2026-07-09 09:00:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行表示，有必要在適當的時候提高利率。"
-    },
-    {
-      "id": "4977843",
-      "time": "2026-07-09 09:00:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.2%報45,805.62。"
-    },
-    {
-      "id": "mkt:019f4463-e93f-7aab-8d02-5b9d7914f905",
-      "time": "2026-07-09 09:00:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "At the morning open, China's front-month futures were mostly higher. Fuel oil, low-sulfur fuel oil (LU) and SC crude oil rose more than 5%; methanol gained over 3%; benzene, asphalt, propylene and liquefied petroleum gas (LPG) were up around 3%. On the downside, container freight on the Europe route fell over 4%, Shanghai silver dropped nearly 4%; platinum, palladium and polysilicon declined more than 2%; Shanghai gold, Shanghai tin and stainless steel (SS) were down over 1%."
-    },
-    {
-      "id": "4977842",
-      "time": "2026-07-09 09:00:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行將繼續採取各種措施穩定市場和外匯市場。"
-    },
-    {
-      "id": "4977841",
-      "time": "2026-07-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報14239.00元。"
-    },
-    {
-      "id": "4977840",
-      "time": "2026-07-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲2%，現報2509.00元。"
-    },
-    {
-      "id": "4977839",
-      "time": "2026-07-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲5%，現報4109.00元。"
-    },
-    {
-      "id": "4977838",
-      "time": "2026-07-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌4%，現報2440.00點。"
-    },
-    {
-      "id": "4977837",
-      "time": "2026-07-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲2%，現報3880.00元。"
-    },
-    {
-      "id": "4977836",
-      "time": "2026-07-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報478.30元。"
-    },
-    {
-      "id": "4977835",
-      "time": "2026-07-09 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲5%，現報3190.00元。"
-    },
-    {
-      "id": "4977834",
-      "time": "2026-07-09 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】燃料油連續漲5.44%，低硫燃料油連續漲5.40%，上海原油連續漲5.03%，白銀連續跌3.98%，集運指數歐線期貨連續跌3.77%。"
-    },
-    {
-      "id": "4977833",
-      "time": "2026-07-09 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.13%。"
-    },
-    {
-      "id": "4977832",
-      "time": "2026-07-09 08:59:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守74美元/桶，日內漲0.65%。"
-    },
-    {
-      "id": "mkt:019f4463-80e1-7aab-8d02-55228cc20749",
-      "time": "2026-07-09 08:59:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran has sent a letter to the United Nations protesting recent US strikes, state media reported. Iran's UN ambassador accused the US of attacking Iranian sovereignty and breaching the UN Charter."
     }
   ]
 }
