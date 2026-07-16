@@ -1,7 +1,34 @@
 {
   "date": "2026-07-17",
-  "count": 268,
+  "count": 271,
   "items": [
+    {
+      "id": "4992886",
+      "time": "2026-07-17 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.30%，報24914.75點，低水93.85點。"
+    },
+    {
+      "id": "4992885",
+      "time": "2026-07-17 02:59:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥玉米期貨跌約1.3%】週四（7月16日）紐約尾盤，彭博穀物分類指數跌0.77%，報31.5539點，北京時間16:00前後短線顯著衝高回落、最高達到32.2166點。CBOT玉米期貨跌1.28%，報4.6350美元/蒲式耳。CBOT小麥期貨跌0.48%，報6.7425美元/蒲式耳，15:57曾拉昇至6.9825美元。CBOT大豆期貨跌0.67%，報11.9375美元/蒲式耳，豆粕期貨漲0.72%，豆油期貨跌0.61%。CBOT瘦肉豬期貨漲0.29%，活牛期貨跌1.31%，飼牛期貨跌0.88%。"
+    },
+    {
+      "id": "mkt:019f6c49-d120-7aab-8dcf-f41ee6460f54",
+      "time": "2026-07-17 02:56:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said security in the Strait of Hormuz can only be fully guaranteed if the United States is no longer present in the region."
+    },
     {
       "id": "te:economy:567636",
       "time": "2026-07-17 02:52:02",

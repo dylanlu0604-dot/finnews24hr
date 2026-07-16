@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-17 02:56:51",
-  "count": 18807,
+  "updated": "2026-07-17 03:01:23",
+  "count": 18797,
   "items": [
+    {
+      "id": "4992886",
+      "time": "2026-07-17 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.30%，報24914.75點，低水93.85點。"
+    },
+    {
+      "id": "4992885",
+      "time": "2026-07-17 02:59:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥玉米期貨跌約1.3%】週四（7月16日）紐約尾盤，彭博穀物分類指數跌0.77%，報31.5539點，北京時間16:00前後短線顯著衝高回落、最高達到32.2166點。CBOT玉米期貨跌1.28%，報4.6350美元/蒲式耳。CBOT小麥期貨跌0.48%，報6.7425美元/蒲式耳，15:57曾拉昇至6.9825美元。CBOT大豆期貨跌0.67%，報11.9375美元/蒲式耳，豆粕期貨漲0.72%，豆油期貨跌0.61%。CBOT瘦肉豬期貨漲0.29%，活牛期貨跌1.31%，飼牛期貨跌0.88%。"
+    },
+    {
+      "id": "mkt:019f6c49-d120-7aab-8dcf-f41ee6460f54",
+      "time": "2026-07-17 02:56:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said security in the Strait of Hormuz can only be fully guaranteed if the United States is no longer present in the region."
+    },
     {
       "id": "te:economy:567636",
       "time": "2026-07-17 02:52:02",
@@ -172790,118 +172817,6 @@
         "國際"
       ],
       "text": "美聯儲宣告：各工作組將獨立運作，循證開展調查，為聯邦公開市場委員會提交調查結果。"
-    },
-    {
-      "id": "4979664",
-      "time": "2026-07-10 03:01:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：工作小組成員包括前全球央行行長金恩、拉詹、弗拉加，以及前美聯儲理事斯坦。"
-    },
-    {
-      "id": "4979663",
-      "time": "2026-07-10 03:01:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲公佈工作組領導層構成與工作目標。"
-    },
-    {
-      "id": "mkt:019f4841-3075-7aab-8d20-343754fc48bb",
-      "time": "2026-07-10 03:00:59",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The Federal Reserve announced the leadership and mandate of a working group."
-    },
-    {
-      "id": "4979662",
-      "time": "2026-07-10 03:00:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：特別工作組的領導層設定與工作目標“旨在推進貨幣政策實施”。"
-    },
-    {
-      "id": "4979661",
-      "time": "2026-07-10 03:00:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：對物價穩定與最大化就業的承諾“堅定不移”。"
-    },
-    {
-      "id": "4979660",
-      "time": "2026-07-10 03:00:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：特別工作組將研究是否可對政策制定者的政策實施手段與方法、分析工具及政策框架加以改進。"
-    },
-    {
-      "id": "4979659",
-      "time": "2026-07-10 03:00:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲將成立五個工作組，審議對貨幣政策整體實施至關重要的核心領域。"
-    },
-    {
-      "id": "4979658",
-      "time": "2026-07-10 03:00:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：各特設工作組將獨立運作，由美聯儲工作人員提供支援。"
-    },
-    {
-      "id": "mkt:019f4840-95ab-7aab-8d20-282b3f6716da",
-      "time": "2026-07-10 03:00:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Goldman Sachs bans staff from prediction-market trading tied to financial and political events】Goldman Sachs has barred employees from participating in prediction-market trading tied to financial markets or political outcomes; sports and entertainment wagers are exempt. The firm's personal trading policy prohibits event contracts linked to specific companies (including Goldman Sachs), election results, or any measure of financial-market performance. Repeat violations can lead to dismissal or account closure; the firm may require forfeiture of improper gains above USD 200 or donation of proceeds to charity."
-    },
-    {
-      "id": "4979657",
-      "time": "2026-07-10 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收漲0.33%，報24055.60點，高水25.42點。"
-    },
-    {
-      "id": "4979656",
-      "time": "2026-07-10 02:59:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車：必須使生產網路產能匹配市場預期，並精簡組織架構與投資組合。"
-    },
-    {
-      "id": "4979655",
-      "time": "2026-07-10 02:57:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車：將根據全球市場環境變化以及行業競爭大幅加劇的現狀，把年產能調整至 900 萬輛。"
-    },
-    {
-      "id": "4979654",
-      "time": "2026-07-10 02:57:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗阿巴斯港再次傳出爆炸聲】據伊朗邁赫爾通訊社9日報道，伊朗南部阿巴斯港當晚傳出數次爆炸聲。一些訊息來源和當地居民說，當晚阿巴斯港多次傳出爆炸聲。報道說，美軍接連兩晚對伊朗南部海岸線發動襲擊，造成多名漁民和軍事人員死亡，給阿巴斯港和錫裡克地區漁民造成較大損失。（新華社）"
     }
   ]
 }
