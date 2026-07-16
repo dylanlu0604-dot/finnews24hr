@@ -1,7 +1,78 @@
 {
   "date": "2026-07-16",
-  "count": 1344,
+  "count": 1352,
   "items": [
+    {
+      "id": "4991400",
+      "time": "2026-07-16 12:38:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗襲擊美國在科威特和約旦的設施。"
+    },
+    {
+      "id": "mkt:019f6937-cc18-7aab-8dba-741de5669f13",
+      "time": "2026-07-16 12:38:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's Finance Ministry said the finance minister will hold a market meeting on Thursday afternoon."
+    },
+    {
+      "id": "mkt:019f6937-bd71-7aab-8dba-6d76db334566",
+      "time": "2026-07-16 12:38:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish"
+      ],
+      "text": "【IDC: Baidu Intelligent Cloud Leads China Financial Generative AI Market】IDC’s China Financial Industry Generative AI Platform and Application Solutions 2025 report forecasts the 2025 market at RMB 1.74 bln, up 90.4% YoY. Baidu Intelligent Cloud ranks first with a 16.6% share, citing advantages in technical infrastructure and scenario deployment."
+    },
+    {
+      "id": "4991399",
+      "time": "2026-07-16 12:37:36",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國企劃財政部稱，財政部長將於週四下午召開市場會議。"
+    },
+    {
+      "id": "4991398",
+      "time": "2026-07-16 12:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【炸雞品牌Popeyes與淘寶閃購深化戰略合作】全球知名炸雞品牌Popeyes宣佈與淘寶閃購深化戰略合作，包括品牌建設，爆品打造，Ai分析等多方面合作，並計劃加速拓展至少20家品牌衛星店，以上海為核心陣地，構建“旗艦店+標準店+衛星店”的大中小店互補生態。（新浪科技）"
+    },
+    {
+      "id": "4991397",
+      "time": "2026-07-16 12:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻靈波入選WAIC鎮館之寶】日前，2026世界人工智慧大會（WAIC）展覽板塊“鎮館之寶”名單正式揭曉，螞蟻集團旗下具身智慧公司螞蟻靈波攜手國大藥房打造的“機器人智慧藥房”成功入選。該智慧藥房基於螞蟻靈波“具身原生”技術路線下的跨本體具身基座模型打造，核心技術亮點是“一腦多機”。（新浪科技）"
+    },
+    {
+      "id": "4991396",
+      "time": "2026-07-16 12:35:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐：亞洲的AI交易正面臨考驗】滙豐策略師在一份報告中寫道，亞洲的AI交易正面臨考驗。他們寫道，韓國仍是亞洲最強勁的增長故事，但槓桿投資和集中的頭寸可能會使波動率保持在高位。滙豐將印度股票的評級從減持上調至中性，因為較低的能源價格和消費韌性降低了盈利風險。他們補充說，一個關鍵的擔憂是，隨著注意力重新轉向與AI相關的機會，近期外資流入的回升是否能夠持續。"
+    },
+    {
+      "id": "4991395",
+      "time": "2026-07-16 12:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所（NSE）：計劃於2026年8月12日推出Nifty印度外國組合投資者150指數衍生品。"
+    },
     {
       "id": "mkt:019f6934-2d27-7aab-8dba-62348c2fc864",
       "time": "2026-07-16 12:34:14",

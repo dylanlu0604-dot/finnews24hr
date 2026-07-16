@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-16 12:35:42",
-  "count": 18711,
+  "updated": "2026-07-16 12:39:43",
+  "count": 18714,
   "items": [
+    {
+      "id": "4991400",
+      "time": "2026-07-16 12:38:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗襲擊美國在科威特和約旦的設施。"
+    },
+    {
+      "id": "mkt:019f6937-cc18-7aab-8dba-741de5669f13",
+      "time": "2026-07-16 12:38:12",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's Finance Ministry said the finance minister will hold a market meeting on Thursday afternoon."
+    },
+    {
+      "id": "mkt:019f6937-bd71-7aab-8dba-6d76db334566",
+      "time": "2026-07-16 12:38:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BIDU.O",
+        "Impact bullish"
+      ],
+      "text": "【IDC: Baidu Intelligent Cloud Leads China Financial Generative AI Market】IDC’s China Financial Industry Generative AI Platform and Application Solutions 2025 report forecasts the 2025 market at RMB 1.74 bln, up 90.4% YoY. Baidu Intelligent Cloud ranks first with a 16.6% share, citing advantages in technical infrastructure and scenario deployment."
+    },
+    {
+      "id": "4991399",
+      "time": "2026-07-16 12:37:36",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國企劃財政部稱，財政部長將於週四下午召開市場會議。"
+    },
+    {
+      "id": "4991398",
+      "time": "2026-07-16 12:37:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【炸雞品牌Popeyes與淘寶閃購深化戰略合作】全球知名炸雞品牌Popeyes宣佈與淘寶閃購深化戰略合作，包括品牌建設，爆品打造，Ai分析等多方面合作，並計劃加速拓展至少20家品牌衛星店，以上海為核心陣地，構建“旗艦店+標準店+衛星店”的大中小店互補生態。（新浪科技）"
+    },
+    {
+      "id": "4991397",
+      "time": "2026-07-16 12:36:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻靈波入選WAIC鎮館之寶】日前，2026世界人工智慧大會（WAIC）展覽板塊“鎮館之寶”名單正式揭曉，螞蟻集團旗下具身智慧公司螞蟻靈波攜手國大藥房打造的“機器人智慧藥房”成功入選。該智慧藥房基於螞蟻靈波“具身原生”技術路線下的跨本體具身基座模型打造，核心技術亮點是“一腦多機”。（新浪科技）"
+    },
+    {
+      "id": "4991396",
+      "time": "2026-07-16 12:35:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐：亞洲的AI交易正面臨考驗】滙豐策略師在一份報告中寫道，亞洲的AI交易正面臨考驗。他們寫道，韓國仍是亞洲最強勁的增長故事，但槓桿投資和集中的頭寸可能會使波動率保持在高位。滙豐將印度股票的評級從減持上調至中性，因為較低的能源價格和消費韌性降低了盈利風險。他們補充說，一個關鍵的擔憂是，隨著注意力重新轉向與AI相關的機會，近期外資流入的回升是否能夠持續。"
+    },
+    {
+      "id": "4991395",
+      "time": "2026-07-16 12:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度國家證券交易所（NSE）：計劃於2026年8月12日推出Nifty印度外國組合投資者150指數衍生品。"
+    },
     {
       "id": "mkt:019f6934-2d27-7aab-8dba-62348c2fc864",
       "time": "2026-07-16 12:34:14",
@@ -172076,46 +172147,6 @@
         "Impact bearish"
       ],
       "text": "Japan 30-year government bond yield rose 4.0bps to 4.040%."
-    },
-    {
-      "id": "4978179",
-      "time": "2026-07-09 12:39:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "迅銷在香港暫停交易。"
-    },
-    {
-      "id": "4978178",
-      "time": "2026-07-09 12:38:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【洪災已致廣西39死9失聯】記者從9日中午舉行的南寧市防汛救災新聞釋出會獲悉，目前包括南寧六藍水庫潰口洪災在內，廣西共有39人死亡、9人失聯。"
-    },
-    {
-      "id": "mkt:019f452b-be64-7aab-8d08-76c19342f97f",
-      "time": "2026-07-09 12:38:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Temasek's CIO said private credit has performed well amid volatile market conditions."
-    },
-    {
-      "id": "4978177",
-      "time": "2026-07-09 12:38:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至今天上午11時，南寧六藍水庫潰口洪災已造成26人死亡（其中5人身份待確定）、失聯7人。"
-    },
-    {
-      "id": "4978176",
-      "time": "2026-07-09 12:37:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北約峰會落幕 土耳其總統贈槍作別】在土耳其首都安卡拉舉行的北約峰會8日落幕。土耳其總統埃爾多安給與會領導人贈送了一份“特別”的禮物：一把刻有各自名字的左輪手槍，以及一盒彈藥。據英國《衛報》報道，英國首相斯塔默8日在返程飛機上向記者透露了這一訊息。他說，左輪手槍上刻有他的名字，還附上一封埃爾多安解除土耳其對該槍支出口管制的信函，以便與會領導人能將禮物帶回國。不過，斯塔默最終還是將手槍留在了英國駐土耳其大使館，理由是槍支即便經由政府專機被帶回英國，在英國仍屬違法行為。（新華社）"
     }
   ]
 }
