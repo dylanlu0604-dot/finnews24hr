@@ -1,7 +1,40 @@
 {
   "date": "2026-07-17",
-  "count": 221,
+  "count": 225,
   "items": [
+    {
+      "id": "4992859",
+      "time": "2026-07-17 02:12:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "Newell Brands目標價被瑞銀從4.25美元上調至4.75美元/股。"
+    },
+    {
+      "id": "mkt:019f6c20-340c-7aab-8dcf-78f259ab9e2f",
+      "time": "2026-07-17 02:11:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump to attend 2026 World Cup final in person】White House spokeswoman Leavitt said President Trump will attend the Argentina v Spain 2026 World Cup final at MetLife Stadium in New Jersey on Sunday local time (Mon July 20, 03:00 Beijing time). Leavitt said Trump is looking forward to the match and that his presence will cap the U.S.-hosted tournament; she said it is unclear which side he supports and expected the president to give \"an interesting answer.\""
+    },
+    {
+      "id": "4992858",
+      "time": "2026-07-17 02:10:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【報道：谷歌Gemini旗艦模型釋出推遲，技術能力未達預期目標】據知情人士透露，谷歌在交付其最強大的旗艦AI模型Gemini 3.5 Pro方面已落後於計劃數月，公司正試圖藉此機會提升其能力，尤其是在程式碼編寫方面。這一延遲在谷歌的工程師、AI研究人員和管理層中引發了挫敗感，他們擔心公司面臨被競爭對手 Anthropic和OpenAI奪走市場優勢的風險。谷歌一直致力於提升Gemini的能力，包括更新用於訓練模型的資料，同時也就其AI能力和安全標準與美國政府進行了溝通。"
+    },
+    {
+      "id": "4992857",
+      "time": "2026-07-17 02:09:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌0.6%，重新整理日低，道指跌0.3%，納指跌1.2%，納斯達克100指數跌1.6%，半導體指數跌4.8%。"
+    },
     {
       "id": "4992856",
       "time": "2026-07-17 02:08:31",
