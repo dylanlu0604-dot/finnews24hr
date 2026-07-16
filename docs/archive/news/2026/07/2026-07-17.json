@@ -1,7 +1,15 @@
 {
   "date": "2026-07-17",
-  "count": 430,
+  "count": 431,
   "items": [
+    {
+      "id": "mkt:019f6cee-18aa-7aab-8dd1-a6f178ceede7",
+      "time": "2026-07-17 05:56:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency reports a fire at a US military base in Kuwait near the Iraqi border."
+    },
     {
       "id": "4992982",
       "time": "2026-07-17 05:53:39",

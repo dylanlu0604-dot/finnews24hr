@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-17 05:56:28",
-  "count": 18780,
+  "updated": "2026-07-17 06:00:49",
+  "count": 18778,
   "items": [
+    {
+      "id": "mkt:019f6cee-18aa-7aab-8dd1-a6f178ceede7",
+      "time": "2026-07-17 05:56:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency reports a fire at a US military base in Kuwait near the Iraqi border."
+    },
     {
       "id": "4992982",
       "time": "2026-07-17 05:53:39",
@@ -172664,34 +172672,6 @@
         "其他"
       ],
       "text": "在世界盃四分之一決賽中，法國隊以2-0擊敗摩洛哥隊。"
-    },
-    {
-      "id": "mkt:019f48e3-50bc-7aab-8d21-e6cb04c9e5ca",
-      "time": "2026-07-10 05:58:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Source: Egypt, Hamas discuss implementation of Gaza ceasefire】An anonymous Egyptian security source said on the 9th a Hamas leadership delegation met Egyptian officials in Cairo to discuss implementing the second phase of the Gaza ceasefire. The delegation, made up of senior Hamas officials, confirmed it will transfer Gaza’s administrative authority to the Gaza National Administrative Committee and agreed to hand weapons to that committee for safekeeping. Hamas also said it would facilitate deployment of peacekeeping forces and the committee’s work to pave the way for phase-two implementation."
-    },
-    {
-      "id": "mkt:019f48e2-b178-7aab-8d21-dbc4e297faaa",
-      "time": "2026-07-10 05:57:23",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【BERNSTEIN raises H2 2026 gold target to $4,375/oz】BERNSTEIN raised its 2026 gold forecasts, setting a H2 target of $4,375/oz and a full-year target of $4,533/oz. The firm cites continued central bank net-buying and a low probability of Fed rate hikes over the next 12 months as primary support, and expects at most one to two Fed hikes and limited gold ETF outflows. It noted Q2 2026 real-rate increases drove gold from $4,650/oz to about $4,000/oz, but says stabilizing rate expectations leave upside for prices; persistent higher-than-expected inflation prompting more aggressive Fed tightening would be the main risk to its bullish view."
-    },
-    {
-      "id": "4979785",
-      "time": "2026-07-10 05:57:19",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【伯恩斯坦看漲下半年黃金 目標價上調至4375美元/盎司】伯恩斯坦上調2026年黃金價格預期，預計下半年金價目標為每盎司4375美元，全年目標價為4533美元。該機構認為，央行持續購金以及美聯儲未來12個月大機率不會加息，將成為支撐金價的主要因素。伯恩斯坦預計，美聯儲最多僅可能加息1至2次，黃金ETF資金流出壓力也將有限。伯恩斯坦指出，2026年二季度實際利率上升曾導致金價從4650美元/盎司回落至約4000美元，但隨著利率預期趨穩，黃金仍具上漲空間。該機構同時警告，若通脹持續高於預期，促使美聯儲採取更激進加息措施，將成為金價上漲的主要風險。"
     }
   ]
 }
