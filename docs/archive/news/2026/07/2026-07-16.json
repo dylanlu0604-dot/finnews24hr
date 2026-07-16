@@ -1,7 +1,162 @@
 {
   "date": "2026-07-16",
-  "count": 912,
+  "count": 927,
   "items": [
+    {
+      "id": "4991120",
+      "time": "2026-07-16 09:39:54",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【英偉達與豐田深化AI領域合作 拓展至智慧城市和智慧工廠】英偉達將向豐田汽車供應人工智慧(AI)硬體和軟體，用於支援智慧城市建設、交通智慧系統和汽車製造廠運營，進一步深化雙方始於自動駕駛汽車研發的十年合作關係。英偉達週四在一份宣告中稱，兩家公司將深化合作，致力於使AI在現實世界落地。雙方此前還曾與總部位於美國的Ready Robotics合作開發軟體，以幫助提高工廠車間的安全性和生產效率。“我們正在擴大合作，推動實體AI發展從汽車領域延伸至機器人和智慧城市，”英偉達機器人與邊緣AI副總裁Deepu Talla表示。英偉達CEO黃仁勳本週率團訪問日本，拓展業務並激發市場對其新技術潛力的熱情。"
+    },
+    {
+      "id": "mkt:019f6894-6f32-7aab-8db5-3b598a887b94",
+      "time": "2026-07-16 09:39:45",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "A-share lithium battery sector slipped intraday; Penghui Energy fell over 10%, with Weilan Lixin, Defu Technology, Tongguan Copper Foil and Nord Co. also declining."
+    },
+    {
+      "id": "mkt:019f6894-4282-7aab-8db5-311e3f4d64ba",
+      "time": "2026-07-16 09:39:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share chemical and pharmaceutical sector rallied; Harbin Pharmaceutical hit a fifth consecutive daily limit-up, Yongan Pharmaceutical a second, Borui Pharmaceutical and Haichuang Pharmaceutical gained more than 10%. Ha Sanlian, Hainan Haiyao, Xin Ganjiang, Jinyao Pharmaceutical and Meinova also advanced."
+    },
+    {
+      "id": "te:markets:567357",
+      "time": "2026-07-16 09:39:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Tumble on Tech Selloff — The benchmark KOSPI plunged nearly 7% to around 6,780 on Thursday, erasing gains from the previous session and approaching an over two-month low, as a global semiconductor selloff pressured technology shares. The decline followed overnight losses in US chipmakers, which reignited concerns over AI valuations and dragged South Korea's semiconductor heavyweights lower, with SK Hynix (-11.4%) and Samsung Electronics (-8.6%) tumbling sharply. Other notable losses included SK Square (-12.5%), Samsung Electro-Mechanics (-9.1%), Hyundai Motor (-3.5%), and Doosan Enerbility (-3.8%). Investor sentiment was also dampened by renewed Middle East tensions after fresh US strikes on Iran fueled concerns over energy supplies and reduced risk appetite. At the same time, investors assessed the Bank of Korea's widely expected 25-basis-point interest rate hike to 2.75%, marking the start of a new tightening cycle aimed at curbing inflation and supporting the won."
+    },
+    {
+      "id": "4991119",
+      "time": "2026-07-16 09:39:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO概念震盪調整 長芯博創跌超12%】CPO概念震盪調整，長芯博創跌超12%，光庫科技、太辰光、天孚通訊、仕佳光子、烽火通訊集體下挫。"
+    },
+    {
+      "id": "mkt:019f6893-f763-7aab-8db5-2f6fe511a46c",
+      "time": "2026-07-16 09:39:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China A-share consumer electronics sector jumped; Guoguang Electric, Furong Technology and Gelin Precision hit the daily trading limit. Jiahe Intelligent, Yidao Information, Beilong Precision, HiVi Technology and Haosheng Electronics also rose."
+    },
+    {
+      "id": "mkt:019f6893-f4ca-7aab-8db5-26c35b24ba17",
+      "time": "2026-07-16 09:39:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "A-shares CPO concept stocks pulled back; Changxin Bochuang fell more than 12%, while Guangku Technology, Taichen Photonics, Tianfu Communication, Shijia Photonics and Fenghuo Communication also declined."
+    },
+    {
+      "id": "4991118",
+      "time": "2026-07-16 09:39:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【消費電子板塊直線拉昇，國光電器漲停】消費電子板塊直線拉昇，國光電器、福蓉科技、格林精密漲停，佳禾智慧、億道資訊、貝隆精密、惠威科技、豪聲電子等紛紛走高。"
+    },
+    {
+      "id": "4991117",
+      "time": "2026-07-16 09:39:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.85%，成分股中，瀾起科技跌8.30%，中科飛測跌4.95%，拓荊科技跌4.89%，盛美上海跌4.08%。"
+    },
+    {
+      "id": "mkt:019f6892-fe2b-7aab-8db5-193e4523b7d7",
+      "time": "2026-07-16 09:38:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Where to Park Spare Change? Short-term Wealth-product Yield Snapshot】Tencent Licaitong (demand+) 7-day annualized yields ranged 0.7860%–1.3640%. WeChat Wallet’s change product 7-day annualized yields ranged 0.8410%–1.0380%. Alipay Yu'ebao 7-day annualized yields ranged 0.9020%–1.0680%."
+    },
+    {
+      "id": "4991116",
+      "time": "2026-07-16 09:36:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【化學制藥板塊拉昇，哈藥股份5連板】化學制藥板塊拉昇，哈藥股份5連板，永安藥業2連板，博瑞醫藥、海創藥業漲超10%，哈三聯、海南海藥、新贛江、津藥藥業、美諾華跟漲。"
+    },
+    {
+      "id": "mkt:019f6891-d4e3-7aab-8db5-11ad90256002",
+      "time": "2026-07-16 09:36:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "09988.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Hang Seng Tech Index extended gains, rising more than 2%; Alibaba (09988.HK) led constituents with a gain of over 5%. Hang Seng Index up 1.77%."
+    },
+    {
+      "id": "4991115",
+      "time": "2026-07-16 09:36:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網易給全體員工放看球假】7月15日晚，網易發文：“7月20日（週一）上午，全體網易員工放假半天，盡情享受決賽之夜，踏踏實實看到終場哨響。”"
+    },
+    {
+      "id": "4991114",
+      "time": "2026-07-16 09:36:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超2％，恒生指數現漲1.68％，阿里巴巴漲超5%。"
+    },
+    {
+      "id": "4991113",
+      "time": "2026-07-16 09:36:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：成本高企、匯率波動、需求壓力加劇通貨膨脹。"
+    },
     {
       "id": "4991112",
       "time": "2026-07-16 09:35:35",
