@@ -1,7 +1,125 @@
 {
   "date": "2026-07-16",
-  "count": 1124,
+  "count": 1137,
   "items": [
+    {
+      "id": "mkt:019f68cb-cd0b-7aab-8db7-94c07bc9486f",
+      "time": "2026-07-16 10:40:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China A-share CRO stocks rallied, led by Baiao Saitu, which rose over 16%; Wanbang Pharma gained more than 15%. Boji Pharma, Baihua Pharma and Nuosige also advanced."
+    },
+    {
+      "id": "mkt:019f68cb-b74e-7aab-8db7-8e0424065b8e",
+      "time": "2026-07-16 10:40:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of Korea rate hike pushes mortgage rates toward 8%】Bank of Korea raised its benchmark rate 25 bps to 2.75% on the 15th. As South Korea enters a rate-hike cycle, concern is growing that already-rising loan rates could climb further. Banking-sector data on the 15th showed five-year fixed mortgage rates at the five largest banks—KB Kookmin, Shinhan, Hana, Woori and NH Nonghyup—ranged 4.74%–7.41%, with the top rate approaching 8%. The lower bound has risen about 42 bps since late May. The data indicate market rates moved up ahead of the central bank and that regulatory limits on loan volumes are reducing banks’ incentives to keep lending rates low."
+    },
+    {
+      "id": "4991245",
+      "time": "2026-07-16 10:40:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航天裝備板塊短線走低，航天環宇跌超6%】航天裝備板塊短線走低，航天環宇跌超6%，中國衛星、電科藍天、中天火箭、航天電子等跟跌。"
+    },
+    {
+      "id": "4991244",
+      "time": "2026-07-16 10:40:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯公開指責以色列政府：試圖破壞美伊談判，讓戰事無限期持續】據美國《紐約郵報》報道，美國副總統萬斯在15日播出的一檔播客節目中表示，以色列政府內部有人試圖破壞美國與伊朗的談判，以使戰事“無限期”持續下去。美國副總統萬斯在15日播出的一檔播客節目中接受採訪。圖源：美媒“我毫不懷疑，以色列政府內部有人試圖讓我們偏離（與伊朗的）談判，因為他們想要繼續推進軍事行動。”萬斯稱，“我們毫不懷疑，他們的體系內部有一些人正在操縱輿論，試圖改變美國公眾的看法，讓這場戰爭無限期持續下去。再說一遍，這並非出於任何目的，只是希望戰爭無限期持續下去。”（環球網）"
+    },
+    {
+      "id": "4991243",
+      "time": "2026-07-16 10:39:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【瀾起科技：將積極配合韓國檢方調查 目前公司執行正常】據韓國媒體報道，7月15日韓國檢方突擊搜查瀾起科技、日本瑞薩電子和美國Rambus在韓國的辦公室，調查三家公司涉嫌半導體零部件價格操縱一事。瀾起科技董事會辦公室工作人員今日回應稱，事情於昨日發生，公司目前正在瞭解相關情況，公司一直以來合規經營，將會積極配合調查，目前公司執行正常。 (科創板日報)"
+    },
+    {
+      "id": "4991242",
+      "time": "2026-07-16 10:38:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【實驗動物概念震盪回升 昭衍新藥5天3板】實驗動物概念盤中震盪回升，昭衍新藥5天3板，百奧賽圖漲超10%，創上市新高，睿智醫藥、中賦科技、康龍化成跟漲。"
+    },
+    {
+      "id": "mkt:019f68c9-dea1-7aab-8db7-84ec3443759b",
+      "time": "2026-07-16 10:38:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's finance minister KATAYAMA said the government cannot intervene in or compel pension funds' portfolio management."
+    },
+    {
+      "id": "mkt:019f68c9-a949-7aab-8db7-7a398c312030",
+      "time": "2026-07-16 10:37:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "06127.HK",
+        "Impact bullish"
+      ],
+      "text": "Mainland A-share Zhaoyan New Drug surged to hit the limit-up; Hong Kong-listed Zhaoyan New Drug (06127.HK) recovered from intraday lows, rising over 7%."
+    },
+    {
+      "id": "4991241",
+      "time": "2026-07-16 10:37:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝瑞科技宣佈引進華大智造G400-ER奈米孔測序儀】7月15日，貝瑞基因控股子公司福建貝瑞科技有限公司與華大智造正式達成戰略合作，貝瑞科技宣佈引進3臺華大智造G400-ER奈米孔長讀長測序平臺。目前，貝瑞科技已基於G400-ER平臺完成超長建庫測序及重測序測試，未來將基於G400-ER測序平臺向客戶提供超長讀長基因組組裝整套解決方案。"
+    },
+    {
+      "id": "mkt:019f68c8-f31f-7aab-8db7-70d5853fb71f",
+      "time": "2026-07-16 10:37:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【Former Goldman MD Takehiro Sakuramoto joins UBS Japan as head of debt capital markets】UBS has hired former Goldman Sachs MD Takehiro Sakuramoto as head of Japan debt capital markets, aiming to rebuild its presence in the Japanese corporate bond market, an internal memo shows. Sakuramoto joined UBS Japan’s local investment bank on Thursday and will pursue underwriting mandates for corporate bond issuance, with an initial focus on foreign-currency bonds. He previously ran DCM at Goldman’s Tokyo office and is at least the fourth senior Goldman banker to join UBS Securities Japan in the past ten months; he also earlier worked in UBS’s capital markets team and at Morgan Stanley."
+    },
+    {
+      "id": "4991240",
+      "time": "2026-07-16 10:37:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：在下次政策會議上保留所有選項。"
+    },
+    {
+      "id": "mkt:019f68c8-82f2-7aab-8db7-6e52484999a3",
+      "time": "2026-07-16 10:36:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Bank of Korea Governor Shin said an upgrade to South Korea's standing in MSCI indices would likely generate only modest additional capital inflows."
+    },
+    {
+      "id": "4991239",
+      "time": "2026-07-16 10:36:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行申鉉松：韓國若被納入MSCI指數，預計額外資金流入規模可能不大。"
+    },
     {
       "id": "mkt:019f68c8-0a43-7aab-8db7-65cc13319400",
       "time": "2026-07-16 10:36:07",
