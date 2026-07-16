@@ -1,7 +1,59 @@
 {
   "date": "2026-07-16",
-  "count": 703,
+  "count": 709,
   "items": [
+    {
+      "id": "4990986",
+      "time": "2026-07-16 08:37:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "上諭集團控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "4990985",
+      "time": "2026-07-16 08:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【三菱重工交付測試冷卻機組，瞄準適配英偉達AI算力工廠】三菱重工向美國交付一臺10兆瓦級冷水機測試樣機，這是其冷卻系統配套方案的一環，旨在匹配英偉達DSX人工智慧算力工廠平臺。該冷水機測試樣機是三菱重工“模組化冷水機組站”的核心製冷裝置。"
+    },
+    {
+      "id": "4990984",
+      "time": "2026-07-16 08:36:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜Leo與南非企業達成協議，預計明年啟動衛星網際網路服務】亞馬遜旗下低軌衛星網路Leo當地時間7月15日宣佈，與南非最大固定網際網路服務提供商Herotel達成協議，透過一項名為evry的新服務將衛星網際網路引入南非。Evry預計將於2027年正式上線，為南非的住宅使用者提供網路連線。這是Amazon Leo在非洲達成的首項此類協議。"
+    },
+    {
+      "id": "4990983",
+      "time": "2026-07-16 08:36:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【歌爾丹拿與IMAX達成戰略合作，推出車載娛樂系統】7月16日，歌爾丹拿、IMAX及IMAX China宣佈達成戰略合作，正式推出全球首款IMAX車載娛樂系統。該系統由歌爾丹拿與IMAX獨家合作設計，首批系統預計將於2026年底產業化落地。歌爾丹拿與IMAX將面向中國高階汽車製造商共同推廣該系統。"
+    },
+    {
+      "id": "4990982",
+      "time": "2026-07-16 08:35:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊藤忠商事：必和必拓集團與伊藤忠共同就西澳大利亞州Ministers North鐵礦床開發作出最終投資決定。"
+    },
+    {
+      "id": "te:markets:567339",
+      "time": "2026-07-16 08:35:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Drop in Tech Selloff — The Nikkei 225 Index fell 2.6% to below 67,000, while the broader Topix Index declined 0.8% to 4,055 on Thursday, snapping a two-day winning streak as semiconductor shares came under renewed selling pressure amid persistent concerns over the sustainability of the artificial intelligence trade. Investors also remained focused on escalating attacks in the Middle East, which have driven oil prices sharply higher this week and revived worries about inflation and the outlook for interest rates. Meanwhile, data showed US producer prices unexpectedly declined in June, lowering expectations of a near-term Federal Reserve rate hike. Among the biggest decliners were Japanese technology heavyweights, including Kioxia Holdings (-8.7%), Tokyo Electron (-5.2%), SoftBank Group (-5.9%), Advantest (-5.1%), and Fujikura (-5%)."
+    },
     {
       "id": "4990981",
       "time": "2026-07-16 08:33:46",
