@@ -1,7 +1,81 @@
 {
   "date": "2026-07-16",
-  "count": 1910,
+  "count": 1919,
   "items": [
+    {
+      "id": "mkt:019f69f7-02cb-7aab-8dc2-1d1d52a83304",
+      "time": "2026-07-16 16:07:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Junpu Intelligent to showcase world's first multi-robot coordinated BMS autonomous pilot production line at WAIC 2026】Junpu Intelligent will demonstrate a self-developed pilot production line at WAIC 2026 billed as the world’s first to enable coordinated operation of multiple embodied intelligent robots for BMS mass-production validation. The line reproduces the full precision-assembly process for new-energy vehicle BMS controllers; internal pilot testing reported robot task success rates above 99.9% and per-step cycle times under 70 seconds."
+    },
+    {
+      "id": "4991780",
+      "time": "2026-07-16 16:06:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中關村：下屬公司4個品種新進入、1個品種退出《基藥目錄》】中關村公告稱，《國家基本藥物目錄》（2026年版）自9月1日起施行，公司下屬公司14個在產品種（19個品規）納入該目錄，本次新進入4個品種（5個品規）、退出1個品種（1個品規）。公司戰略產品鹽酸羥考酮注射液2025年銷售收入同比增121.95%，其進入《基藥目錄》將強化公司優勢。新增產品進入有助於擴大覆蓋，預計對長遠發展有積極影響，但藥品銷售受多種因素影響，存在不確定性。"
+    },
+    {
+      "id": "4991779",
+      "time": "2026-07-16 16:06:32",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【均普智慧將攜全球首條多臺機器人併線作業BMS自主量產中試產線亮相2026 WAIC】均普智慧將攜自研的全球首條實現多臺具身智慧機器人協同作業的BMS自主量產驗證產線亮相本屆2026世界人工智慧大會（WAIC），完整還原新能源汽車BMS控制器精密裝配全流程。經內部中試產線實測，機器人作業成功率突破99.9%，單工序節拍控制在70秒以內。"
+    },
+    {
+      "id": "4991778",
+      "time": "2026-07-16 16:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "敘利亞國家通訊社援引訊息人士稱，初步調查顯示，這些武器原計劃透過敘利亞領土運往真主黨。"
+    },
+    {
+      "id": "te:markets:567487",
+      "time": "2026-07-16 16:05:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 1.95% — Top commodity losers are Lithium Carbonate (-1.95%), Silver (-1.48%) and Gold (-0.74%). Gains are led by Platinum (1.28%) and Copper (0.99%)."
+    },
+    {
+      "id": "4991777",
+      "time": "2026-07-16 16:05:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至0.6%，創盤中新低。"
+    },
+    {
+      "id": "mkt:019f69f4-e837-7aab-8dc2-177d9a802698",
+      "time": "2026-07-16 16:04:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's solar thermal capacity to reach 15 GW by 2030】China Electricity Council says China’s solar thermal power sector posted an 11.7% CAGR since the 14th Five-Year Plan, versus a 4.24% global pace. The council expects the sector to accelerate during the 15th Five-Year Plan, with total installed solar thermal (concentrated solar power) capacity reaching about 15 GW by 2030."
+    },
+    {
+      "id": "mkt:019f69f4-7839-7aab-8dc2-093a6623eb96",
+      "time": "2026-07-16 16:04:16",
+      "tags": [
+        "MKT News",
+        "UAL.O",
+        "Impact bearish"
+      ],
+      "text": "United Airlines shares fell 2.4% in pre-market trading after the company said it expects third-quarter profit to be below expectations."
+    },
     {
       "id": "mkt:019f69f4-60aa-7aab-8dc2-05b5cf281d76",
       "time": "2026-07-16 16:04:10",
@@ -9,6 +83,14 @@
         "MKT News"
       ],
       "text": "Syria's state news agency, citing sources, said authorities foiled an attempt to smuggle weapons and missiles via the Iraqi border."
+    },
+    {
+      "id": "4991776",
+      "time": "2026-07-16 16:04:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "據敘利亞官方通訊社援引訊息人士的話報道，敘利亞稱挫敗了一起經由伊拉克邊境走私武器和導彈的企圖。"
     },
     {
       "id": "4991775",
