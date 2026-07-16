@@ -1,7 +1,105 @@
 {
-  "updated": "2026-07-17 01:19:42",
-  "count": 18744,
+  "updated": "2026-07-17 01:23:38",
+  "count": 18750,
   "items": [
+    {
+      "id": "4992795",
+      "time": "2026-07-17 01:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡羅琳・萊維特再度公開讚揚沃爾瑪。"
+    },
+    {
+      "id": "mkt:019f6bf3-8770-7aab-8dce-3e65dc5a3c0f",
+      "time": "2026-07-17 01:22:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House said President Trump will travel to New York tomorrow (local time Friday)."
+    },
+    {
+      "id": "mkt:019f6bf2-f201-7aab-8dce-32f4b60ca68a",
+      "time": "2026-07-17 01:21:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says President Trump will attend the World Cup final."
+    },
+    {
+      "id": "4992794",
+      "time": "2026-07-17 01:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮稱特朗普將出席世界盃決賽。"
+    },
+    {
+      "id": "mkt:019f6bf2-7f19-7aab-8dce-2d1125865684",
+      "time": "2026-07-17 01:21:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reports the U.S. Embassy in Iraq has issued a security alert, urging U.S. citizens in Iraq to maintain heightened vigilance and warning that regional airspace may be temporarily closed."
+    },
+    {
+      "id": "4992793",
+      "time": "2026-07-17 01:21:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡羅琳：特朗普週日將觀看西班牙對阿根廷的比賽。"
+    },
+    {
+      "id": "4992792",
+      "time": "2026-07-17 01:21:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡羅琳：特朗普明天將前往紐約。"
+    },
+    {
+      "id": "4992791",
+      "time": "2026-07-17 01:20:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書卡羅琳：特朗普今晚將談論選舉公正性。"
+    },
+    {
+      "id": "mkt:019f6bf1-3497-7aab-8dce-2726d274c0c7",
+      "time": "2026-07-17 01:19:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Logan: Should raise rates to tackle inflation】Fed Governor Logan said the Fed should raise rates to address elevated inflation, signalling she may oppose keeping policy unchanged at this month's meeting. She said Tuesday's June CPI showed price growth easing but not enough to convince her inflation has returned to the Fed's 2% path. \"June CPI does suggest inflation could return to the target and the outlook is more optimistic,\" Logan said, \"but that path remains fragile. I currently believe a modest rate increase would better balance the outlook and risks.\""
+    },
+    {
+      "id": "mkt:019f6bf0-e687-7aab-8dce-1ef423a1ea2e",
+      "time": "2026-07-17 01:19:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli President Isaac Herzog said Israel's next phase should prioritize achieving peace with Syria and Lebanon."
+    },
+    {
+      "id": "4992790",
+      "time": "2026-07-17 01:19:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金下跌約3%，報1624.10美元/盎司。"
+    },
     {
       "id": "mkt:019f6bef-eaed-7aab-8dce-105d6905b7de",
       "time": "2026-07-17 01:18:33",
@@ -172288,61 +172386,6 @@
         "其他"
       ],
       "text": "【廣西水利廳調整對各市洪水防禦應急響應級別】當前暴雨預警已解除，鬱江貴港段，西江梧州段洪水已出峰迴落。經綜合會商研判，廣西水利廳決定自7月9日18時對南寧市、貴港市的洪水防禦一級應急響應調整為二級應急響應，對梧州市、欽州市維持洪水防禦二級應急響應，其他市的洪水防禦二級應急響應均調整為三級應急響應。（央視新聞）"
-    },
-    {
-      "id": "4979609",
-      "time": "2026-07-10 01:22:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗與沙烏地阿拉伯通電話商討地區局勢。"
-    },
-    {
-      "id": "te:markets:565784",
-      "time": "2026-07-10 01:21:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Eases Off One-Month High — US gasoline futures fell to $3.05 per gallon after reaching near one-month high of $3.10 on July 8th, as markets reassessed the supply outlook following renewed US-Iran tensions in the Middle East. After revoking the 60-day waiver that allowed Iran to sell oil on global markets, the US launched retaliatory strikes in response to attacks on American bases, renewing concerns over potential disruptions to shipments through the Strait of Hormuz. However, selected laden tankers from the UAE continued to ship their material, softening concerns that exports from the region could return to a standstill. The possibility of a crude supply glut amid accelerated output from a higher OPEC+ quotas also weighed on prices. Still, concerns remained on whether global refineries have sufficient capacity to process the excess supply."
-    },
-    {
-      "id": "4979608",
-      "time": "2026-07-10 01:21:40",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【華爾街五大行下週二公佈季度業績】美國六大銀行中有五家將於當天公佈季度業績，電話會議日程比往常更加密集。美國銀行和摩根大通預計將率先於上午公佈業績，隨後是富國銀行。約30分鐘後，高盛集團將釋出業績，其後是花旗集團，摩根士丹利選擇週三上午釋出業績。\n經歷數月市場劇烈波動後，多數大型投行的股票交易收入預計將達到歷史次高水平。由於伊朗戰爭推動股市交易持續活躍，預計第二季度華爾街的股票交易收入僅略低於第一季度創下的歷史紀錄。據此前報道，高盛股票交易業務第二季度收入有望超過50億美元，再創歷史新高。相比之下，固定收益、外匯和大宗商品(FICC)業務表現則預計有所分化。根據截至週三收盤的分析師平均預測，摩根大通FICC收入預計同比增長10%，高盛和花旗集團預計分別增長6%和2%。\n交易業務收入是銀行財報中最受關注的指標之一，因為市場往往難以預測交易部門將如何應對市場劇烈波動。市場人士還將關注各家銀行掌門人對宏觀經濟前景的最新看法。\n規模達1.8萬億美元的私募信貸市場仍將是本輪財報季的焦點。由於投資者擔憂違約率上升、資產估值缺乏透明度，以及AI對軟體行業借款人的衝擊，私募信貸市場近期出現贖回潮。非上市的私募信貸基金第一季度向投資者返還的資金首次超過募集資金，出現淨流出。"
-    },
-    {
-      "id": "mkt:019f47e5-2708-7aab-8d1e-d5a2ccec7e16",
-      "time": "2026-07-10 01:20:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI launches GPT-5.6 series】After a limited preview, OpenAI has launched the GPT-5.6 series and opened it to public use via ChatGPT, CODEX and API. Models Sol, Terra and Luna are priced per 1M tokens: Sol $5 input / $30 output; Terra $2.50 input / $15 output; Luna $1 input / $6 output."
-    },
-    {
-      "id": "mkt:019f47e4-d070-7aab-8d1e-c828d81b90fb",
-      "time": "2026-07-10 01:20:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y"
-      ],
-      "text": "2026 FOMC voting member and Dallas Fed President Logan to speak in 10 minutes."
     }
   ]
 }

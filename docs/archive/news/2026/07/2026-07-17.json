@@ -1,7 +1,105 @@
 {
   "date": "2026-07-17",
-  "count": 109,
+  "count": 120,
   "items": [
+    {
+      "id": "4992795",
+      "time": "2026-07-17 01:22:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡羅琳・萊維特再度公開讚揚沃爾瑪。"
+    },
+    {
+      "id": "mkt:019f6bf3-8770-7aab-8dce-3e65dc5a3c0f",
+      "time": "2026-07-17 01:22:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The White House said President Trump will travel to New York tomorrow (local time Friday)."
+    },
+    {
+      "id": "mkt:019f6bf2-f201-7aab-8dce-32f4b60ca68a",
+      "time": "2026-07-17 01:21:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says President Trump will attend the World Cup final."
+    },
+    {
+      "id": "4992794",
+      "time": "2026-07-17 01:21:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮稱特朗普將出席世界盃決賽。"
+    },
+    {
+      "id": "mkt:019f6bf2-7f19-7aab-8dce-2d1125865684",
+      "time": "2026-07-17 01:21:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reports the U.S. Embassy in Iraq has issued a security alert, urging U.S. citizens in Iraq to maintain heightened vigilance and warning that regional airspace may be temporarily closed."
+    },
+    {
+      "id": "4992793",
+      "time": "2026-07-17 01:21:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡羅琳：特朗普週日將觀看西班牙對阿根廷的比賽。"
+    },
+    {
+      "id": "4992792",
+      "time": "2026-07-17 01:21:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡羅琳：特朗普明天將前往紐約。"
+    },
+    {
+      "id": "4992791",
+      "time": "2026-07-17 01:20:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書卡羅琳：特朗普今晚將談論選舉公正性。"
+    },
+    {
+      "id": "mkt:019f6bf1-3497-7aab-8dce-2726d274c0c7",
+      "time": "2026-07-17 01:19:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Fed's Logan: Should raise rates to tackle inflation】Fed Governor Logan said the Fed should raise rates to address elevated inflation, signalling she may oppose keeping policy unchanged at this month's meeting. She said Tuesday's June CPI showed price growth easing but not enough to convince her inflation has returned to the Fed's 2% path. \"June CPI does suggest inflation could return to the target and the outlook is more optimistic,\" Logan said, \"but that path remains fragile. I currently believe a modest rate increase would better balance the outlook and risks.\""
+    },
+    {
+      "id": "mkt:019f6bf0-e687-7aab-8dce-1ef423a1ea2e",
+      "time": "2026-07-17 01:19:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli President Isaac Herzog said Israel's next phase should prioritize achieving peace with Syria and Lebanon."
+    },
+    {
+      "id": "4992790",
+      "time": "2026-07-17 01:19:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金下跌約3%，報1624.10美元/盎司。"
+    },
     {
       "id": "mkt:019f6bef-eaed-7aab-8dce-105d6905b7de",
       "time": "2026-07-17 01:18:33",
