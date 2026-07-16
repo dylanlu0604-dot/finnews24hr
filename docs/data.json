@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-17 06:29:53",
-  "count": 18789,
+  "updated": "2026-07-17 06:33:49",
+  "count": 18790,
   "items": [
+    {
+      "id": "mkt:019f6d0f-d978-7aab-8dd2-03dfd9b85b9d",
+      "time": "2026-07-17 06:33:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Independent reporter Breanna Morello said NBC News and ABC News will not carry Trump's prime-time address on their television networks, scheduled for 09:00 Beijing time. She said the networks would not disclose the speech topics in advance."
+    },
+    {
+      "id": "4993002",
+      "time": "2026-07-17 06:31:01",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊（以下均為北京時間）】\n① 07:00 美聯儲副主席Jefferson談論經濟與貨幣政策；\n② 時間待定 世界人工智慧大會（WAIC）在上海舉辦（7月17-20日）；\n③ 17:00 歐元區6月CPI終值；\n④ 18:00 歐洲央行執委Cipollone談論數字歐元；\n⑤ 20:30 美國6月營建許可初值，6月新屋開工，6月進口價格指數；\n⑥ 21:15 美國6月工業產出；\n⑦ 22:00 美國7月密歇根大學消費者信心指數初值；\n⑧ 週六 美聯儲進入7月28-29日FOMC貨幣政策會議之前的噤聲期。"
+    },
+    {
+      "id": "te:markets:567653",
+      "time": "2026-07-17 06:30:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Liquefied Natural Gas Japan Korea Spikes by 18.54% — Top commodity gainers are Liquefied Natural Gas Japan Korea (18.54%), Heating Oil (3.34%) and Natural Gas EU (1.41%). Biggest losers are Methanol (-1.67%), Naphtha (-1.33%) and Natural gas (-0.97%). Meanwhile, Crude Oil WTI and Brent Crude Oil were little changed."
+    },
+    {
+      "id": "mkt:019f6d0c-b4dd-7aab-8dd1-fae3d1beacca",
+      "time": "2026-07-17 06:29:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Starlink says V3 satellites will significantly boost capacity, data density and power generation, enabling it to deliver higher-quality high-speed internet to more users worldwide."
+    },
     {
       "id": "mkt:019f6d0b-19a4-7aab-8dd1-f3cd98b10d77",
       "time": "2026-07-17 06:27:51",
@@ -172761,36 +172798,6 @@
         "其他"
       ],
       "text": "市場訊息：聯邦監管機構預計將於本月晚些時候對波音第二新版本的737機型頒發認證。"
-    },
-    {
-      "id": "4979804",
-      "time": "2026-07-10 06:33:24",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【提醒：日內請重點關注（以下均為北京時間）】\n① 時間待定 2026中國具身智慧機器人產業展開幕（7月10-12日）；\n② 14:00 德國6月CPI終值；\n③ 14:15 歐洲央行副行長Vujcic、歐洲央行管委Stournaras在希臘雅典講話；\n④ 16:00 國際能源署（IEA）公佈月度原油市場報告；\n⑤ 20:30 加拿大6月就業報告（含就業人數、失業率等）；\n⑥ 時間待定 SK海力士美國ADR在納斯達克上市；"
-    },
-    {
-      "id": "4979803",
-      "time": "2026-07-10 06:33:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【銀行股“破淨潮”下 長線資金悄然佈局】2026年以來，A股銀行板塊持續承壓，截至7月9日收盤，42家上市銀行集體破淨。銀行股價調整之際，各路資金態度分化，今年以來不少資金對該板塊進行增配，也有一些資金根據自身考量選擇減持。業內人士認為，未來險資對於銀行板塊的配置比例與投資力度仍具備進一步提升空間。 (中證報)"
-    },
-    {
-      "id": "te:markets:565803",
-      "time": "2026-07-10 06:30:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Tumbles by 6.38% — Top commodity losers are Natural gas (-6.38%), Propane (-3.31%), Heating Oil (-2.93%), Brent Crude Oil (-2.68%) and Crude Oil WTI (-2.39%). Gains are led by Natural Gas UK (3.33%), Germany Natural Gas THE (2.06%) and Natural Gas EU (0.53%)."
     }
   ]
 }
