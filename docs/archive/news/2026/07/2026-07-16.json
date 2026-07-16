@@ -1,7 +1,104 @@
 {
   "date": "2026-07-16",
-  "count": 1421,
+  "count": 1431,
   "items": [
+    {
+      "id": "mkt:019f6968-e249-7aab-8dbb-13e1bab44364",
+      "time": "2026-07-16 13:31:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "TSMC reported Q2 net profit of NT$706.6 billion."
+    },
+    {
+      "id": "4991457",
+      "time": "2026-07-16 13:31:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【面板板塊震盪走弱，宇順電子跌停】面板板塊震盪走弱，宇順電子跌停，天山電子、格林達、艾森股份、天祿科技、秋田微、瑞聯新材等跟跌。"
+    },
+    {
+      "id": "4991456",
+      "time": "2026-07-16 13:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季度毛利率67.7％，預估67.1％。"
+    },
+    {
+      "id": "4991455",
+      "time": "2026-07-16 13:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "中材科技觸及跌停，成交額29.81億元，封單337手。"
+    },
+    {
+      "id": "4991454",
+      "time": "2026-07-16 13:30:24",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "臺積電第二季度淨利潤7,066億元臺幣，預估6,237.3億元臺幣。"
+    },
+    {
+      "id": "4991453",
+      "time": "2026-07-16 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2612.00元。"
+    },
+    {
+      "id": "te:markets:567413",
+      "time": "2026-07-16 13:29:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Extends Winning Streak as Dollar Retreats — The Indonesian rupiah firmed to around IDR 18,000 per U.S. dollar on Thursday, strengthening for a third session as the U.S. dollar eased further after softer U.S. inflation reduced bets of an imminent Fed rate hike. Locally, sentiment was underpinned by government plans to intensify measures to stabilise food prices and curb inflation amid El Niño-related supply risks. In June, annual inflation accelerated, moving closer to the upper end of Bank Indonesia's 1-1/2%-3-1/2% target band. However, gains were capped by elevated crude oil prices, which renewed concerns over the import bill. Traders also stayed cautious as higher non-subsidized fuel costs, weak factory activity, and worries over household income and spending clouded the growth outlook. Focus now shifts to Bank Indonesia's policy meeting next week, with markets watching whether officials maintain their tightening bias after 100bp of rate hikes during May and June, as declining forex reserves continue to weigh on the currency."
+    },
+    {
+      "id": "mkt:019f6966-7d17-7aab-8dbb-0efeb7546e76",
+      "time": "2026-07-16 13:29:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SocGen: Bank of Korea leaves door open for consecutive hikes】SocGen strategist Kiyong Seong says Bank of Korea Governor Shin signalled an \"indirect signal\" at a press conference after a 25bp policy-rate increase that the central bank may hike again in August. While Shin's comments were seen as \"genuinely hawkish\", markets had been pricing a more aggressive outcome—e.g. a one-off 50bp move or markedly tougher hawkish language. Seong warns that, given the policy outlook's sensitivity to imminent growth and inflation releases, bond investors may be quicker than usual to lock in gains ahead of key data."
+    },
+    {
+      "id": "4991452",
+      "time": "2026-07-16 13:28:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿里國際站：1-6月，其平臺移動房屋品類GMV同比增長超50%】據阿里國際站資料，今年1-6月，其平臺移動房屋品類GMV同比增長超50%，買家來源Top3為美國（佔比超20%）、澳大利亞和墨西哥。"
+    },
+    {
+      "id": "mkt:019f6966-168e-7aab-8dbb-0177c1ea79d2",
+      "time": "2026-07-16 13:28:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish",
+        "9988.HK"
+      ],
+      "text": "【Alibaba International Station: mobile-homes GMV +>50% YoY Jan–Jun】Alibaba International Station data show Jan–Jun GMV for the mobile homes category rose over 50% YoY; top buyer origins were the US (over 20%), Australia and Mexico."
+    },
     {
       "id": "mkt:019f6965-7997-7aab-8dba-fcc7365fdd5e",
       "time": "2026-07-16 13:28:05",

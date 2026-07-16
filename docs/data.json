@@ -1,7 +1,104 @@
 {
-  "updated": "2026-07-16 13:28:45",
-  "count": 18687,
+  "updated": "2026-07-16 13:32:48",
+  "count": 18685,
   "items": [
+    {
+      "id": "mkt:019f6968-e249-7aab-8dbb-13e1bab44364",
+      "time": "2026-07-16 13:31:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "TSMC reported Q2 net profit of NT$706.6 billion."
+    },
+    {
+      "id": "4991457",
+      "time": "2026-07-16 13:31:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【面板板塊震盪走弱，宇順電子跌停】面板板塊震盪走弱，宇順電子跌停，天山電子、格林達、艾森股份、天祿科技、秋田微、瑞聯新材等跟跌。"
+    },
+    {
+      "id": "4991456",
+      "time": "2026-07-16 13:31:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季度毛利率67.7％，預估67.1％。"
+    },
+    {
+      "id": "4991455",
+      "time": "2026-07-16 13:30:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "中材科技觸及跌停，成交額29.81億元，封單337手。"
+    },
+    {
+      "id": "4991454",
+      "time": "2026-07-16 13:30:24",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "臺積電第二季度淨利潤7,066億元臺幣，預估6,237.3億元臺幣。"
+    },
+    {
+      "id": "4991453",
+      "time": "2026-07-16 13:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內跌1%，現報2612.00元。"
+    },
+    {
+      "id": "te:markets:567413",
+      "time": "2026-07-16 13:29:27",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Extends Winning Streak as Dollar Retreats — The Indonesian rupiah firmed to around IDR 18,000 per U.S. dollar on Thursday, strengthening for a third session as the U.S. dollar eased further after softer U.S. inflation reduced bets of an imminent Fed rate hike. Locally, sentiment was underpinned by government plans to intensify measures to stabilise food prices and curb inflation amid El Niño-related supply risks. In June, annual inflation accelerated, moving closer to the upper end of Bank Indonesia's 1-1/2%-3-1/2% target band. However, gains were capped by elevated crude oil prices, which renewed concerns over the import bill. Traders also stayed cautious as higher non-subsidized fuel costs, weak factory activity, and worries over household income and spending clouded the growth outlook. Focus now shifts to Bank Indonesia's policy meeting next week, with markets watching whether officials maintain their tightening bias after 100bp of rate hikes during May and June, as declining forex reserves continue to weigh on the currency."
+    },
+    {
+      "id": "mkt:019f6966-7d17-7aab-8dbb-0efeb7546e76",
+      "time": "2026-07-16 13:29:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SocGen: Bank of Korea leaves door open for consecutive hikes】SocGen strategist Kiyong Seong says Bank of Korea Governor Shin signalled an \"indirect signal\" at a press conference after a 25bp policy-rate increase that the central bank may hike again in August. While Shin's comments were seen as \"genuinely hawkish\", markets had been pricing a more aggressive outcome—e.g. a one-off 50bp move or markedly tougher hawkish language. Seong warns that, given the policy outlook's sensitivity to imminent growth and inflation releases, bond investors may be quicker than usual to lock in gains ahead of key data."
+    },
+    {
+      "id": "4991452",
+      "time": "2026-07-16 13:28:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿里國際站：1-6月，其平臺移動房屋品類GMV同比增長超50%】據阿里國際站資料，今年1-6月，其平臺移動房屋品類GMV同比增長超50%，買家來源Top3為美國（佔比超20%）、澳大利亞和墨西哥。"
+    },
+    {
+      "id": "mkt:019f6966-168e-7aab-8dbb-0177c1ea79d2",
+      "time": "2026-07-16 13:28:45",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish",
+        "9988.HK"
+      ],
+      "text": "【Alibaba International Station: mobile-homes GMV +>50% YoY Jan–Jun】Alibaba International Station data show Jan–Jun GMV for the mobile homes category rose over 50% YoY; top buyer origins were the US (over 20%), Australia and Mexico."
+    },
     {
       "id": "mkt:019f6965-7997-7aab-8dba-fcc7365fdd5e",
       "time": "2026-07-16 13:28:05",
@@ -171751,122 +171848,6 @@
         "Impact bearish"
       ],
       "text": "MINIMAX-W (00100.HK) plunged 20% on the first trading day after lock-up expiry, hitting HK$290 and trimming market capitalization to about HK$91 bln."
-    },
-    {
-      "id": "mkt:019f455c-f073-7aab-8d09-e5523a681959",
-      "time": "2026-07-09 13:32:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Australia, India sign uranium export deal as India expands nuclear power】During Prime Minister Modi's visit to Australia, the two countries signed an agreement allowing Australia to sell uranium to India for power generation. India's foreign ministry said purchases will be used \"only for peaceful purposes.\" The statement gave no volumes or timing. Australian Prime Minister Albanese said an administrative arrangement was signed to facilitate uranium exports to help raise the share of non-fossil fuel power and provide an additional market for Australia's resources sector. Australia holds the world's largest uranium reserves but has only three operating mines, all in South Australia."
-    },
-    {
-      "id": "4978239",
-      "time": "2026-07-09 13:32:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時放量392億元。"
-    },
-    {
-      "id": "4978238",
-      "time": "2026-07-09 13:31:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江舟山嵊泗疏散旅客9000餘人 明起17條客運航線停航】今年第9號颱風“巴威”（超強颱風級）持續向浙閩沿海逼近，預計將給浙江舟山沿海帶來較大影響，舟山海事局已於7月8日上午8時啟動Ⅲ級防颱應急響應。浙江唯一全域海島縣舟山嵊泗縣提前部署旅客疏散工作，組織泗礁、花鳥、枸杞、嵊山等各海島旅客有序撤離，截至9日上午9時累計疏散旅客9000餘人。預計7月10日起，嵊泗17條水上客運航線、27艘客船將全線停航。"
-    },
-    {
-      "id": "4978237",
-      "time": "2026-07-09 13:31:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數跌超1%，現報23925.760點；恒生科技指數現跌1.004%。"
-    },
-    {
-      "id": "4978236",
-      "time": "2026-07-09 13:31:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美銀：下調中石油目標價至11港元，維持“買入”評級】美銀證券發表報告指，下調中石油2026/2027財年盈利預測8%，以反映最新對2026下半年及2027全年布倫特原油價格假設分別為每桶77美元及70美元，目標價由12港元下調至11港元，維持“買入”評級。"
-    },
-    {
-      "id": "mkt:019f455b-a34f-7aab-8d09-d860e1e0f891",
-      "time": "2026-07-09 13:31:01",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "09988.HK",
-        "Impact mixed"
-      ],
-      "text": "【Citigroup cuts Alibaba PT to HKD191; maintains Buy】Citigroup said Alibaba (09988.HK) is likely to revise segment reporting, including folding Alibaba International Digital Commerce Group (AIDC) into China e-commerce because both are run by Jiang Fan and share similar supply chains. Citigroup cut valuation multiples on AIDC and the \"Other\" segment and lowered its PT to HKD191 from HKD207, while keeping a Buy rating."
-    },
-    {
-      "id": "4978235",
-      "time": "2026-07-09 13:30:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "塑膠連續主力合約日內漲3%，現報7284.00元。"
-    },
-    {
-      "id": "mkt:019f455a-fec3-7aab-8d09-d3ed1e0178b2",
-      "time": "2026-07-09 13:30:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMEC.O",
-        "Impact bullish"
-      ],
-      "text": "China Merchants semiconductor equipment ETF rose more than 5%; top holding Advanced Micro-Fabrication Equipment Inc. (AMEC) gained nearly 6%."
-    },
-    {
-      "id": "4978234",
-      "time": "2026-07-09 13:29:47",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "埃及6月城市CPI同比上漲14.3%。"
-    },
-    {
-      "id": "mkt:019f455a-67fb-7aab-8d09-cee7fc4363ff",
-      "time": "2026-07-09 13:29:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News Agency reported Iran suspended rail services between Tehran and Mashhad after a US strike."
-    },
-    {
-      "id": "4978233",
-      "time": "2026-07-09 13:29:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京釋出暴雨橙色預警，為今年入汛以來首個】7月9日13時30分，北京市氣象臺釋出暴雨橙色預警訊號。這是今年入汛以來全市首個暴雨橙色預警訊號。（北京日報）"
-    },
-    {
-      "id": "mkt:019f455a-0343-7aab-8d09-c47477ac0e13",
-      "time": "2026-07-09 13:29:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "002100.SZ",
-        "Impact bearish"
-      ],
-      "text": "【Tinci Materials says 'solid-state battery breakthrough' would have limited impact within five years】Tinci Materials shares plunged 23.12% from the July 6 opening price of 52.20 yuan to a midday close of 40.13 yuan today, cutting market value from over 106.4 bln yuan to 81.8 bln yuan and erasing about 24.6 bln yuan over four trading sessions. A July 8 note circulating among investors claimed next‑generation solid‑state cells could fully replace traditional lithium‑ion materials including electrolytes and separators. Tinci’s company secretary rejected that view, saying \"We do not think so,\" and added that incremental annual demand and use cases for liquid electrolytes remain strong. The company said it does not expect solid‑state batteries to take a very large share within five years, a judgment it said is shared with CATL."
     }
   ]
 }
