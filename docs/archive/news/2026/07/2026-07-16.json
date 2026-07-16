@@ -1,7 +1,180 @@
 {
   "date": "2026-07-16",
-  "count": 3217,
+  "count": 3234,
   "items": [
+    {
+      "id": "4992706",
+      "time": "2026-07-16 23:34:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗指責美軍事打擊構成“戰爭罪”】當地時間16日，伊朗外交部發表宣告，譴責美國近期對伊朗發動的一系列軍事打擊，稱有關行動嚴重違反了《聯合國憲章》和國際法基本原則。宣告表示，美國近期針對伊朗的軍事行動及相關威脅言論，表明其持續對伊施壓。伊方認為，襲擊橋樑、電站等基礎設施以及針對民用目標的行動，違反國際人道法和《日內瓦公約》相關規定，應依法追究其責任。（央視新聞）"
+    },
+    {
+      "id": "4992705",
+      "time": "2026-07-16 23:33:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國CAC 40指數下跌0.23%；西班牙IBEX指數下跌0.19%。"
+    },
+    {
+      "id": "4992704",
+      "time": "2026-07-16 23:33:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數下跌0.01%。"
+    },
+    {
+      "id": "mkt:019f6b8f-94b1-7aab-8dcc-aba46f8881e0",
+      "time": "2026-07-16 23:33:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. government said it supports Venezuela's efforts toward an electoral transition."
+    },
+    {
+      "id": "4992703",
+      "time": "2026-07-16 23:33:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國富時100指數上漲0.37%；德國DAX指數下跌0.53%。"
+    },
+    {
+      "id": "mkt:019f6b8f-2fe5-7aab-8dcc-a1c238c2d366",
+      "time": "2026-07-16 23:32:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 8-week Treasury bill auction to July 16 — stop-out yield 3.65%, prior 3.635%."
+    },
+    {
+      "id": "mkt:019f6b8f-14ff-7aab-8dcc-9a9084b27061",
+      "time": "2026-07-16 23:32:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 8-week Treasury bill auction on July 16: bid-cover ratio 2.84, prior 2.95."
+    },
+    {
+      "id": "mkt:019f6b8f-00ca-7aab-8dcc-97ff8f8d6915",
+      "time": "2026-07-16 23:32:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.16) | actual 3.65% | previous 3.635%"
+    },
+    {
+      "id": "mkt:019f6b8e-f37f-7aab-8dcc-8eba565e2469",
+      "time": "2026-07-16 23:32:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jul.16) | actual 2.84 | previous 2.95"
+    },
+    {
+      "id": "4992701",
+      "time": "2026-07-16 23:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國發售4週期國庫券，中標收益率達3.660%的高位，且在高收益率水平接納了44.46%的投標申請。美國出售8週期國庫券，最高中標利率為3.650%，高價位得標占投標總量的46.60%。"
+    },
+    {
+      "id": "mkt:019f6b8e-c3c2-7aab-8dcc-87d0512fae83",
+      "time": "2026-07-16 23:32:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. 8-week Treasury auction as of July 16: share of allotment at the awarded rate 46.6% (previous 68.8%)."
+    },
+    {
+      "id": "mkt:019f6b8e-9f4c-7aab-8dcc-786e61c44f47",
+      "time": "2026-07-16 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 4-week Treasury bill auction (settlement July 16): stop-out yield 3.66% vs 3.63% prior."
+    },
+    {
+      "id": "mkt:019f6b8e-994b-7aab-8dcc-71f8baf66ecb",
+      "time": "2026-07-16 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 4-week Treasury auction on July 16: bid-cover ratio 2.57, prior 2.64."
+    },
+    {
+      "id": "mkt:019f6b8e-96c2-7aab-8dcc-680e27e7ff56",
+      "time": "2026-07-16 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. 4-week Treasury auction through July 16: 44.46% of allocation awarded at the stop-out yield, prior 26.29%."
+    },
+    {
+      "id": "mkt:019f6b8e-70f8-7aab-8dcc-6414218cf3eb",
+      "time": "2026-07-16 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jul.16) | actual 3.66% | previous 3.63%"
+    },
+    {
+      "id": "mkt:019f6b8e-70b1-7aab-8dcc-5a5e60cccb3b",
+      "time": "2026-07-16 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jul.16) | actual 2.57 | previous 2.64"
+    },
+    {
+      "id": "mkt:019f6b8e-70b0-7aab-8dcc-512bd9f1fbb6",
+      "time": "2026-07-16 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jul.16) | actual 44.46% | previous 26.29%"
+    },
     {
       "id": "4992700",
       "time": "2026-07-16 23:30:09",

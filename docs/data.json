@@ -1,7 +1,180 @@
 {
-  "updated": "2026-07-16 23:32:30",
-  "count": 18734,
+  "updated": "2026-07-16 23:36:33",
+  "count": 18741,
   "items": [
+    {
+      "id": "4992706",
+      "time": "2026-07-16 23:34:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗指責美軍事打擊構成“戰爭罪”】當地時間16日，伊朗外交部發表宣告，譴責美國近期對伊朗發動的一系列軍事打擊，稱有關行動嚴重違反了《聯合國憲章》和國際法基本原則。宣告表示，美國近期針對伊朗的軍事行動及相關威脅言論，表明其持續對伊施壓。伊方認為，襲擊橋樑、電站等基礎設施以及針對民用目標的行動，違反國際人道法和《日內瓦公約》相關規定，應依法追究其責任。（央視新聞）"
+    },
+    {
+      "id": "4992705",
+      "time": "2026-07-16 23:33:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "法國CAC 40指數下跌0.23%；西班牙IBEX指數下跌0.19%。"
+    },
+    {
+      "id": "4992704",
+      "time": "2026-07-16 23:33:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克600指數下跌0.01%。"
+    },
+    {
+      "id": "mkt:019f6b8f-94b1-7aab-8dcc-aba46f8881e0",
+      "time": "2026-07-16 23:33:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. government said it supports Venezuela's efforts toward an electoral transition."
+    },
+    {
+      "id": "4992703",
+      "time": "2026-07-16 23:33:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國富時100指數上漲0.37%；德國DAX指數下跌0.53%。"
+    },
+    {
+      "id": "mkt:019f6b8f-2fe5-7aab-8dcc-a1c238c2d366",
+      "time": "2026-07-16 23:32:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "U.S. 8-week Treasury bill auction to July 16 — stop-out yield 3.65%, prior 3.635%."
+    },
+    {
+      "id": "mkt:019f6b8f-14ff-7aab-8dcc-9a9084b27061",
+      "time": "2026-07-16 23:32:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 8-week Treasury bill auction on July 16: bid-cover ratio 2.84, prior 2.95."
+    },
+    {
+      "id": "mkt:019f6b8f-00ca-7aab-8dcc-97ff8f8d6915",
+      "time": "2026-07-16 23:32:41",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.16) | actual 3.65% | previous 3.635%"
+    },
+    {
+      "id": "mkt:019f6b8e-f37f-7aab-8dcc-8eba565e2469",
+      "time": "2026-07-16 23:32:38",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jul.16) | actual 2.84 | previous 2.95"
+    },
+    {
+      "id": "4992701",
+      "time": "2026-07-16 23:32:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國發售4週期國庫券，中標收益率達3.660%的高位，且在高收益率水平接納了44.46%的投標申請。美國出售8週期國庫券，最高中標利率為3.650%，高價位得標占投標總量的46.60%。"
+    },
+    {
+      "id": "mkt:019f6b8e-c3c2-7aab-8dcc-87d0512fae83",
+      "time": "2026-07-16 23:32:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. 8-week Treasury auction as of July 16: share of allotment at the awarded rate 46.6% (previous 68.8%)."
+    },
+    {
+      "id": "mkt:019f6b8e-9f4c-7aab-8dcc-786e61c44f47",
+      "time": "2026-07-16 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "US 4-week Treasury bill auction (settlement July 16): stop-out yield 3.66% vs 3.63% prior."
+    },
+    {
+      "id": "mkt:019f6b8e-994b-7aab-8dcc-71f8baf66ecb",
+      "time": "2026-07-16 23:32:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 4-week Treasury auction on July 16: bid-cover ratio 2.57, prior 2.64."
+    },
+    {
+      "id": "mkt:019f6b8e-96c2-7aab-8dcc-680e27e7ff56",
+      "time": "2026-07-16 23:32:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "U.S. 4-week Treasury auction through July 16: 44.46% of allocation awarded at the stop-out yield, prior 26.29%."
+    },
+    {
+      "id": "mkt:019f6b8e-70f8-7aab-8dcc-6414218cf3eb",
+      "time": "2026-07-16 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jul.16) | actual 3.66% | previous 3.63%"
+    },
+    {
+      "id": "mkt:019f6b8e-70b1-7aab-8dcc-5a5e60cccb3b",
+      "time": "2026-07-16 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jul.16) | actual 2.57 | previous 2.64"
+    },
+    {
+      "id": "mkt:019f6b8e-70b0-7aab-8dcc-512bd9f1fbb6",
+      "time": "2026-07-16 23:32:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jul.16) | actual 44.46% | previous 26.29%"
+    },
     {
       "id": "4992700",
       "time": "2026-07-16 23:30:09",
@@ -172138,110 +172311,6 @@
         "Impact bearish"
       ],
       "text": "European equities on July 9: Germany’s DAX +238.80 pts (+0.96%) to 25,104.47; France’s CAC 40 +73.96 pts (+0.90%) to 8,326.62; Euro Stoxx 50 +73.55 pts (+1.19%) to 6,278.46; Spain’s IBEX 35 +263.43 pts (+1.38%) to 19,312.73; Italy’s FTSE MIB +536.25 pts (+1.03%) to 52,353.50; Britain’s FTSE 100 -17.52 pts (-0.17%) to 10,471.52."
-    },
-    {
-      "id": "4979535",
-      "time": "2026-07-09 23:35:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寧夏兩地升級釋出暴雨紅色預警】寧夏吳忠市同心縣氣象臺7月9日22時55分升級暴雨藍色為暴雨紅色預警訊號：預計未來3小時，同心縣河西鎮累計降水量將達到70毫米以上，請相關部門和廣大群眾注意預防。寧夏中衛市沙坡頭區氣象臺7月9日23時14分升級暴雨黃色為紅色預警訊號：預計未來3小時內，沙坡頭區迎水橋鎮降雨量將達70毫米以上，請相關部門和廣大群眾注意預防。"
-    },
-    {
-      "id": "4979534",
-      "time": "2026-07-09 23:34:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長卡茨：如果威脅再次出現，以色列準備恢復對伊朗的打擊。"
-    },
-    {
-      "id": "4979533",
-      "time": "2026-07-09 23:33:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗譴責美軍打擊伊海事基礎設施】伊朗代表9日在國際海事組織理事會第137屆會議上發言，強烈譴責美國過去兩天針對伊朗港口、沿海地區和海事基礎設施實施的“軍事侵略行為”。伊朗代表說，美軍打擊物件包括伊朗恰巴哈爾港海上交通管制塔、民用漁船以及專門用於保障航行安全和海上安保的裝置。這是針對伊朗主權和領土完整的非法使用武力，“直接危及平民生命、海員安全、商業航運及海洋環境”。伊朗代表批評說，美國一方面聲稱維護航行自由，另一方面卻攻擊海上交通管制設施以及為保護船舶和海員建立的安全設施。（新華社）"
-    },
-    {
-      "id": "4979532",
-      "time": "2026-07-09 23:33:37",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行上月討論加息時力圖避免暗示後續行動 吸取2011年教訓】根據6月10-11日會議討論摘要，決策者將當前形勢與2011年的情況進行了比較。當時的決策者曾兩次加息，隨後在下半年轉向。“2011年的教訓並不是說管理委員會在面臨金融穩定風險時絕不應加息，而是應避免就未來政策決定作出預先承諾，”官員們表示，“在本次會議上加息25個基點，同時繼續監測金融穩定風險，並維持依賴資料、逐次會議決定的做法，被認為符合這些教訓。”此次加息是歐洲央行自2023年以來首次加息，歐洲央行也由此在七國集團經濟體中率先採取行動。"
-    },
-    {
-      "id": "mkt:019f4782-c533-7aab-8d1d-19da1b4bd5cf",
-      "time": "2026-07-09 23:33:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Gulf Cooperation Council said Iran should fully comply with its memorandum of understanding with the United States and implement its provisions."
-    },
-    {
-      "id": "mkt:019f4782-8ed0-7aab-8d1d-147972965616",
-      "time": "2026-07-09 23:32:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 8-week Treasury auction through July 9: 68.8% of awards at the stop-out rate, prior 53.99%."
-    },
-    {
-      "id": "mkt:019f4782-8005-7aab-8d1d-0e5b9ebf3747",
-      "time": "2026-07-09 23:32:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. 8-week Treasury bill auction on July 9 — stop-out yield 3.635%, prior 3.65%."
-    },
-    {
-      "id": "4979531",
-      "time": "2026-07-09 23:32:37",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四周期國債，得標利率3.630%，投標倍數2.64。拍賣八週期國債，得標利率3.635%，投標倍數2.95。"
-    },
-    {
-      "id": "mkt:019f4782-634f-7aab-8d1d-06802842fae5",
-      "time": "2026-07-09 23:32:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US 8-week Treasury auction on July 9 bid-cover ratio 2.95, prior 2.7."
-    },
-    {
-      "id": "mkt:019f4782-5a3f-7aab-8d1c-ff8f39738f53",
-      "time": "2026-07-09 23:32:32",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.9) | actual 3.635% | previous 3.65%"
     }
   ]
 }
