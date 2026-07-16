@@ -1,7 +1,165 @@
 {
   "date": "2026-07-16",
-  "count": 2533,
+  "count": 2550,
   "items": [
+    {
+      "id": "mkt:019f6ab7-23b9-7aab-8dc6-6bfc8be3d114",
+      "time": "2026-07-16 19:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "General Electric says it is supporting and will support Boeing's 787 production ramp-up."
+    },
+    {
+      "id": "4992261",
+      "time": "2026-07-16 19:36:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯金股份：籌劃現金收購庫珀新能20%股權 交易尚處籌劃階段】匯金股份公告稱，公司正籌劃以現金購買庫珀新能源20%股權，庫珀新能股東於春生委託或讓渡不少於31%表決權，使公司表決權比例不低於51%，交易完成後庫珀新能將成控股子公司。本次交易預計構成重大資產重組，不涉及發行股份、關聯交易及控制權變更。截至公告披露日，盡職調查等工作正推進，各方就交易方案核心未達成一致、未籤正式協議，交易尚處籌劃階段，存在不確定性。"
+    },
+    {
+      "id": "te:markets:567540",
+      "time": "2026-07-16 19:36:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Hold Mixed Momentum — Futures for US equity indices continued to trade mixed on Thursday as volatility in the speculative chip sector diverged from traditional sectors depending on financial conditions. Contracts for the S&P 500 and the Dow were muted, but those for the Nasdaq 100 fell 1%. Chip producers fell sharply, consistent with Asian counterparts on skepticism that AI hyperscalers could pull capital expenditure in coming quarters. Speculative demand in the sector was also dented by Korea prohibiting leveraged ETFs and signals of more efficient machines by ASML. Micron sank 4% while Nvidia, AMD, Sandisk, and Broadcom dropped around 3%. Still, other sectors remained robust. UnitedHealth surged 7% premarket after beating earnings in its June quarter and raising its full-year guidance. Also, Eli Lilly inched higher after acquiring AtaiBeckley for $2.8 billion. Banks were in the green this week on strong results in their earnings season. On the other hand, GE Aerospace dropped 4% after its report."
+    },
+    {
+      "id": "4992260",
+      "time": "2026-07-16 19:36:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度煤炭公司：位於古吉拉特邦卡夫達的300兆瓦太陽能專案中，已有200兆瓦光伏容量建成投用。"
+    },
+    {
+      "id": "4992259",
+      "time": "2026-07-16 19:36:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【芯源微：調整2025年年度利潤分配現金分紅總額至725.99萬元（含稅）】芯源微公告，公司擬向全體股東每10股派發現金紅利0.36元（含稅）不變，擬派發現金紅利總額由725.49萬元（含稅）調整至725.99萬元（含稅）。"
+    },
+    {
+      "id": "mkt:019f6ab6-3885-7aab-8dc6-669d8df33755",
+      "time": "2026-07-16 19:35:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "【Ceasefire breakdown pushes Middle East sovereign spreads to highest since Oct 2022】Middle East sovereign bond spreads over US Treasuries widened to 402bps — their highest since Oct 2022 — after fighting resumed in the US-Iran conflict. A JPMorgan index shows average spreads broadened about 20bps in the week after Trump said the ceasefire \"may be over\", marking the steepest YTD rise in the region since 2018. Investors are now demanding the largest risk premium since Oct 2022 to finance Middle Eastern governments, shifting capital allocation away from pre-war themes such as Dubai property and Riyadh's Vision 2030 toward geopolitics. Tellimer head of emerging markets equity and geopolitical strategy Hasnain Malik said investors had been \"overly optimistic\" about the April ceasefire."
+    },
+    {
+      "id": "4992258",
+      "time": "2026-07-16 19:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱武裝部隊總參謀部與國防部需共同處理動員相關事務。"
+    },
+    {
+      "id": "te:markets:567539",
+      "time": "2026-07-16 19:35:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "State Street earnings above expectations at 3.65 USD — State Street (STT) released earnings per share at 3.65 USD, compared to market expectations of 3.14 USD."
+    },
+    {
+      "id": "te:markets:567538",
+      "time": "2026-07-16 19:35:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Abbott earnings above expectations at 1.31 USD — Abbott (ABT) released earnings per share at 1.31 USD, compared to market expectations of 1.28 USD."
+    },
+    {
+      "id": "4992257",
+      "time": "2026-07-16 19:35:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，國防和軍事領域存在需要“果斷解決”的問題。"
+    },
+    {
+      "id": "4992256",
+      "time": "2026-07-16 19:34:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國上半年電力出口達51太瓦時 創歷史新高】法國電網運營商RTE週四釋出的報告顯示，法國上半年淨電力出口達到51太瓦時（TWh），較2025年同期增長36%，並較2024年創下的同期歷史紀錄高出19%。"
+    },
+    {
+      "id": "4992255",
+      "time": "2026-07-16 19:34:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雅培第二季度銷售額126億美元 高於預期】雅培第二季度銷售額為126億美元，高於IBES預測的125億美元；二季度調整後每股收益為1.31美元，高於IBES預測的1.28美元。雅培預計本財年銷售額增長6.5%至7.5%；調整後每股收益預期為5.45至5.60美元，而IBES的預估為5.49美元。2026財年營收預計為501.1億美元。"
+    },
+    {
+      "id": "4992254",
+      "time": "2026-07-16 19:34:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勤技術：子公司1.39億港元收購晶合整合H股 持股達10.20%】華勤技術公告稱，2026年7月16日，公司全資子公司華勤通訊在港交所場內收購440.97萬股晶合整合H股，佔其已發行股本總額約0.20%，總代價約1.39億港元，每股均價約31.55港元。收購完成後，公司持有晶合整合已發行股本總額約10.20%。此次收購與先前收購合併計算構成須披露交易，獲豁免股東批准。公司稱收購表明對晶合整合前景有信心，將深化產業協同。"
+    },
+    {
+      "id": "4992253",
+      "time": "2026-07-16 19:34:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：戰時總統不應選邊站隊。"
+    },
+    {
+      "id": "4992252",
+      "time": "2026-07-16 19:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【萬斯指責邦迪“搞砸”愛潑斯坦案公共溝通】美國副總統萬斯15日指責美國前司法部長帕姆·邦迪“搞砸”圍繞愛潑斯坦案的公共溝通，並重申自己是愛潑斯坦案“陰謀論者”。 在當天播出的一檔美國播客訪談節目中，萬斯說，“坦率地說，我們完全‘搞砸’了”圍繞愛潑斯坦案的公共溝通。他將矛頭指向邦迪，稱司法部出現多重錯誤，首先，邦迪對外宣稱她握有一份所謂“客戶名單”，引發美國公眾質疑特朗普政府在公佈案件檔案一事上“遮遮掩掩”；其次，邦迪治下的司法部私自將案件檔案洩露給右翼媒體，進一步引發輿論發酵。（新華社）"
+    },
+    {
+      "id": "te:markets:567537",
+      "time": "2026-07-16 19:33:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Near $85 — Brent traded below $85 on Thursday but remained near one-month highs as escalating hostilities in the Middle East continued to support prices and weigh on investor sentiment. The US intensified its strikes against Iran, reportedly targeting an oil tanker near the country's main export terminal for the first time since reimposing a blockade on the country's ports. In response, Iran launched attacks on US bases in Kuwait and Jordan and threatened to disrupt additional regional energy exports, describing the conflict as an \"existential war\" with the US. According to Reuters, crude oil loading was suspended at all Iraqi export terminals on Thursday after a drone struck an oil tanker at the Basra terminal. Reuters also reported that tanker traffic through the Strait has fallen to two-month lows as the conflict has intensified. Only seven vessels transited the waterway on Wednesday, the first full day after the US reimposed its naval blockade on Iran, down from 13 the previous day."
+    },
+    {
+      "id": "4992251",
+      "time": "2026-07-16 19:33:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "斯塔默稱英國和瑞典將向烏克蘭提供16架飛機。"
+    },
     {
       "id": "te:markets:567536",
       "time": "2026-07-16 19:32:34",
