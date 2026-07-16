@@ -1,7 +1,54 @@
 {
   "date": "2026-07-17",
-  "count": 232,
+  "count": 237,
   "items": [
+    {
+      "id": "4992866",
+      "time": "2026-07-17 02:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國對伊朗的空襲於美國東部時間下午2點開始。"
+    },
+    {
+      "id": "4992865",
+      "time": "2026-07-17 02:24:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美軍開始對伊朗進行新一輪空襲。"
+    },
+    {
+      "id": "mkt:019f6c2b-bf06-7aab-8dcf-90e82257a08e",
+      "time": "2026-07-17 02:23:53",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "【OpenAI chairman denies interest in other firms' trade secrets amid Apple lawsuit】Apple has sued, accusing OpenAI employees of stealing its trade secrets. OpenAI chairman Bret Taylor denied the company sought competitors' proprietary information, saying “we have no interest in other companies' trade secrets, absolutely not,” and added an investigation is ongoing so he could not comment further. Taylor also flagged OpenAI’s push into custom AI hardware, saying the hardware focus is aimed at fulfilling the company’s mission to ensure AGI benefits humanity and that exploring hardware forms of intelligence is important."
+    },
+    {
+      "id": "mkt:019f6c29-9bba-7aab-8dcf-8b7a43fc8e03",
+      "time": "2026-07-17 02:21:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【White House says Iran still in talks with U.S.】On July 16 local time, White House press secretary Leavitt said Iran remains in talks with the U.S. and \"hopes to reach an agreement\" as it is suffering \"devastating strikes.\" Leavitt said recent U.S. strikes were prompted by Iran's violation of a memorandum of understanding."
+    },
+    {
+      "id": "4992864",
+      "time": "2026-07-17 02:21:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌股價迅速下跌，跌幅高達2.7%。"
+    },
     {
       "id": "te:markets:567633",
       "time": "2026-07-17 02:20:03",

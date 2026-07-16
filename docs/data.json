@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-17 02:21:26",
-  "count": 18809,
+  "updated": "2026-07-17 02:25:23",
+  "count": 18807,
   "items": [
+    {
+      "id": "4992866",
+      "time": "2026-07-17 02:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國對伊朗的空襲於美國東部時間下午2點開始。"
+    },
+    {
+      "id": "4992865",
+      "time": "2026-07-17 02:24:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：美軍開始對伊朗進行新一輪空襲。"
+    },
+    {
+      "id": "mkt:019f6c2b-bf06-7aab-8dcf-90e82257a08e",
+      "time": "2026-07-17 02:23:53",
+      "tags": [
+        "MKT News",
+        "AAPL.O"
+      ],
+      "text": "【OpenAI chairman denies interest in other firms' trade secrets amid Apple lawsuit】Apple has sued, accusing OpenAI employees of stealing its trade secrets. OpenAI chairman Bret Taylor denied the company sought competitors' proprietary information, saying “we have no interest in other companies' trade secrets, absolutely not,” and added an investigation is ongoing so he could not comment further. Taylor also flagged OpenAI’s push into custom AI hardware, saying the hardware focus is aimed at fulfilling the company’s mission to ensure AGI benefits humanity and that exploring hardware forms of intelligence is important."
+    },
+    {
+      "id": "mkt:019f6c29-9bba-7aab-8dcf-8b7a43fc8e03",
+      "time": "2026-07-17 02:21:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【White House says Iran still in talks with U.S.】On July 16 local time, White House press secretary Leavitt said Iran remains in talks with the U.S. and \"hopes to reach an agreement\" as it is suffering \"devastating strikes.\" Leavitt said recent U.S. strikes were prompted by Iran's violation of a memorandum of understanding."
+    },
+    {
+      "id": "4992864",
+      "time": "2026-07-17 02:21:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌股價迅速下跌，跌幅高達2.7%。"
+    },
     {
       "id": "te:markets:567633",
       "time": "2026-07-17 02:20:03",
@@ -172849,83 +172896,6 @@
         "國際"
       ],
       "text": "歐洲央行行長拉加德談論法國大選：我不是任何（職位的）候選人。"
-    },
-    {
-      "id": "mkt:019f4820-820d-7aab-8d1f-b9da26b991a2",
-      "time": "2026-07-10 02:25:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O",
-        "Impact mixed"
-      ],
-      "text": "【Meta exploring AI cloud business, considering leasing compute capacity】Meta Platforms CEO Mark Zuckerberg said the company needs as much compute as possible and is considering leasing portions of its AI infrastructure to external firms amid tight supply of compute for AI development. Reports earlier this month said Meta is drafting a cloud-business plan to directly monetize data centers and other compute partnerships. Zuckerberg added there is potential to build a cloud business if the company chooses to, and denied Meta has excess capacity, saying he does not know anyone in the industry who believes they have surplus compute and that Meta is fully utilizing its resources."
-    },
-    {
-      "id": "mkt:019f4820-5744-7aab-8d1f-b4c6fe22aa4b",
-      "time": "2026-07-10 02:25:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Mehr news agency reported minutes ago that two explosions were heard near Bushehr and near the city of Choghadak in Iran."
-    },
-    {
-      "id": "te:markets:565788",
-      "time": "2026-07-10 02:25:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Soars by 10.22% — Top commodity gainers are Coffee (10.22%) and Cocoa (5.19%). Biggest losers are Oat (-7.37%) and Corn (-2.08%)."
-    },
-    {
-      "id": "4979636",
-      "time": "2026-07-10 02:25:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社：伊朗布什爾省與喬加達克地區共傳出六起爆炸聲。"
-    },
-    {
-      "id": "4979635",
-      "time": "2026-07-10 02:23:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "邁赫爾通訊社：霍爾木茲海峽附近伊朗科納拉克地區發生爆炸。"
-    },
-    {
-      "id": "mkt:019f481d-a37f-7aab-8d1f-a9faeef1cdb4",
-      "time": "2026-07-10 02:22:09",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB President LAGARDE said the central bank needs to bring inf back to target in about three years."
-    },
-    {
-      "id": "mkt:019f481d-5ac1-7aab-8d1f-a4cab4c3532c",
-      "time": "2026-07-10 02:21:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Mehr News Agency reports three explosions were heard in Konarak in Chabahar province, Iran. There are no detailed reports yet on the cause or extent of any damage."
     }
   ]
 }
