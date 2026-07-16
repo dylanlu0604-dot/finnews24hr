@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-16 23:28:23",
-  "count": 18747,
+  "updated": "2026-07-16 23:32:30",
+  "count": 18734,
   "items": [
+    {
+      "id": "4992700",
+      "time": "2026-07-16 23:30:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【供需協同發力 服務消費潛能加速釋放】國家統計局資料顯示，今年上半年，我國服務零售額同比增長5.3%，比商品零售額快4.2個百分點；2025年，全國居民人均服務性消費支出為13602元，占人均消費支出比重為46.1%，比2020年提高3.5個百分點。從餐飲、住宿到養老、托育，從文娛、旅遊到教育、家政，服務消費正逐步撐起居民消費的“半壁江山”，折射中國消費結構的深刻轉型，印證擁有超大規模市場的中國經濟邁向高質量發展的堅實支撐。（新華社）"
+    },
+    {
+      "id": "4992699",
+      "time": "2026-07-16 23:29:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【珠江委：“七下八上”防汛關鍵期可能有1～2個颱風登陸珠江，強度可能偏強】7月16日，珠江委安排部署流域“七下八上”防汛關鍵期防禦工作。會商通報，據預測，今明兩天流域強降雨過程將持續，展望7月18-21日，流域大部地區以中雨為主，其中雲南東部、貴州南部、廣西西部及南部等地部分地區可能有大雨，累計降雨量將有60～110毫米，西江中下游幹流及其支流柳江將出現一次小幅漲水過程，桂南沿海南流江上游幹流及強降雨區部分中小河流可能發生超警洪水；“七下八上”防汛關鍵期，珠江流域降雨總體偏多，其中東部地區偏多2～5成，可能有1～2個颱風登陸珠江，強度可能偏強，西江、北江、東江、韓江可能發生超警洪水；須警惕局地暴雨引發的中小河流洪水、山洪災害和颱風可能帶來的極端暴雨、城鄉內澇和風暴潮風險。目前，珠江防總、珠江委維持防汛、洪水防禦Ⅳ級應急響應。"
+    },
+    {
+      "id": "mkt:019f6b8b-85e2-7aab-8dcc-4849fb071c09",
+      "time": "2026-07-16 23:28:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel says it controls over 60% of Gaza】Israeli Central Command commander Avi Bluth said on the 16th the military now controls more than 60% of the Gaza Strip. He said a border security zone manned by two divisions has been set up to make a repeat of the Oct. 7 cross‑border attack \"impossible.\" Bluth added Hamas still retains some military capability and controls other parts of Gaza, and its objective to \"destroy Israel\" has not changed."
+    },
+    {
+      "id": "4992698",
+      "time": "2026-07-16 23:28:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多股票指數<.GSPTSE>轉漲，上漲0.1%。"
+    },
     {
       "id": "4992697",
       "time": "2026-07-16 23:22:38",
@@ -172210,174 +172242,6 @@
         "Economic Calendar"
       ],
       "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.9) | actual 3.635% | previous 3.65%"
-    },
-    {
-      "id": "mkt:019f4782-3eba-7aab-8d1c-f3924f3ee3c2",
-      "time": "2026-07-09 23:32:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jul.9) | actual 2.95 | previous 2.7"
-    },
-    {
-      "id": "mkt:019f4782-1e99-7aab-8d1c-e9e89f5c4d05",
-      "time": "2026-07-09 23:32:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US 4-week Treasury auction on July 9: stop-out yield 3.63%, versus 3.605% at the prior auction."
-    },
-    {
-      "id": "mkt:019f4782-1d0c-7aab-8d1c-e3b65b50d625",
-      "time": "2026-07-09 23:32:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields"
-      ],
-      "text": "U.S. 4-week Treasury auction to July 9: percent awarded at the stop-out yield 26.29% (previous 46.77%)."
-    },
-    {
-      "id": "mkt:019f4782-15e3-7aab-8d1c-d84a1a3b2a5e",
-      "time": "2026-07-09 23:32:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "US 4-week Treasury auction on July 9 bid-to-cover ratio 2.64, prior 2.72."
-    },
-    {
-      "id": "mkt:019f4781-f55a-7aab-8d1c-d3530808fc11",
-      "time": "2026-07-09 23:32:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jul.9) | actual 2.64 | previous 2.72"
-    },
-    {
-      "id": "mkt:019f4781-f523-7aab-8d1c-c8b957b39952",
-      "time": "2026-07-09 23:32:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction High Yield Rate (Jul.9) | actual 26.29% | previous 46.77%"
-    },
-    {
-      "id": "mkt:019f4781-f50e-7aab-8d1c-c7b33d9cfd86",
-      "time": "2026-07-09 23:32:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Week Bill Auction Accepted at High (Jul.9) | actual 3.63% | previous 3.605%"
-    },
-    {
-      "id": "mkt:019f4781-29c2-7aab-8d1c-bff6286230f4",
-      "time": "2026-07-09 23:31:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gulf Cooperation Council says it rejects any unilateral mechanisms or arrangements concerning the Strait of Hormuz."
-    },
-    {
-      "id": "4979530",
-      "time": "2026-07-09 23:30:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國DAX 30指數初步收漲0.91%，報25124.15點。法國股指初步收漲0.85%，義大利股指初步收漲1.09%、銀行指數漲2.03%，英國股指初步收跌0.10%。"
-    },
-    {
-      "id": "4979529",
-      "time": "2026-07-09 23:30:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲STOXX 600指數初步收漲0.83%，報641.20點。歐元區STOXX 50指數初步收漲1.31%，報6286.38點。富時泛歐績優300指數初步收漲0.88%，報2567.94點。"
-    },
-    {
-      "id": "mkt:019f4780-7093-7aab-8d1c-b09645ae96cd",
-      "time": "2026-07-09 23:30:27",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Gulf Cooperation Council said the international community should ensure freedom of navigation through the Strait of Hormuz and not levy transit or service fees."
-    },
-    {
-      "id": "mkt:019f4780-05a0-7aab-8d1c-aa4aabed988f",
-      "time": "2026-07-09 23:30:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gulf Cooperation Council urged the UN Security Council to take a firm stance to ensure freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "4979528",
-      "time": "2026-07-09 23:29:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【扎克伯格為Meta付費人工智慧模型制定“激進”價格策略】在競爭激烈的AI工具市場，馬克·扎克伯格希望憑藉價格優勢勝出。Meta Platforms Inc.釋出了其最先進人工智慧模型Muse Spark 1.1，並首次面向開發者推出付費版本。這是Meta首次向企業收取模型使用費，也為公司開闢了新的收入來源。扎克伯格在釋出前接受採訪時表示，這款模型將成為市場上價格最低的選擇之一。“由於這不是開源模型，我認為這是我們第一次真正認真推出API，”扎克伯格說，“其定價將極具競爭力，也非常有吸引力。”扎克伯格表示，新模型最大的提升在於智慧體能力。智慧體是今年AI領域最熱門的方向之一，通常指能夠代表使用者完成多步驟任務的系統。他表示，Muse Spark 1.1在智慧體推理和工具使用方面已達到“業界領先或非常接近領先”的水平。他還表示，該模型在程式設計能力方面也有顯著提升，Meta員工已在內部利用其為各類應用開發產品和功能。Meta還將推出新的Meta Model API系統，用於向開發者收費。扎克伯格表示，其API價格約為OpenAI和Anthropic頂級模型的25%。開發者可免費使用Meta模型，但達到一定詞元(Token)使用量門檻後，將需要付費。"
-    },
-    {
-      "id": "mkt:019f477f-ef42-7aab-8d1c-a33d566fd4ef",
-      "time": "2026-07-09 23:29:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Gulf Cooperation Council says Iran's attacks on shipping in the Strait of Hormuz threaten global energy and trade security."
-    },
-    {
-      "id": "4979527",
-      "time": "2026-07-09 23:29:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "海灣合作委員會：我們譴責伊朗對霍爾木茲海峽及該組織成員國的攻擊。對海灣油輪的襲擊是對航行安全和安保的不可接受的侵犯。各國一致站在一起，抵制這些侵略行為。對任何成員國的攻擊都是對所有海灣國家的直接攻擊。各國有權在遭受侵略時單獨或集體進行自衛。"
-    },
-    {
-      "id": "mkt:019f477e-bf9c-7aab-8d1c-9ac24b07626d",
-      "time": "2026-07-09 23:28:36",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "Iraq's prime minister said Baghdad will work to ease tensions and推動 rapprochement and reconciliation between the United States and Iran."
-    },
-    {
-      "id": "mkt:019f477e-a031-7aab-8d1c-948c2c0f7ea7",
-      "time": "2026-07-09 23:28:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Gulf Cooperation Council said member states have the right to individual or collective self-defense if subjected to aggression."
     }
   ]
 }
