@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-17 05:21:32",
-  "count": 18781,
+  "updated": "2026-07-17 05:25:26",
+  "count": 18782,
   "items": [
+    {
+      "id": "4992974",
+      "time": "2026-07-17 05:24:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：截至今日，美軍已攔截 3 艘試圖突破封鎖的民用商船，迫使 1 艘拒不配合的船隻停航，並登船檢查 1 艘船舶，確保相關船隻完全遵守美國針對伊朗實施的海上封鎖行動。"
+    },
+    {
+      "id": "mkt:019f6ccf-bc9b-7aab-8dd1-77af8e228c77",
+      "time": "2026-07-17 05:23:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O) says AI will improve film quality but will not replace human creators."
+    },
+    {
+      "id": "4992973",
+      "time": "2026-07-17 05:21:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛：AI將讓電影（質量）變得更好，但不會取代人類。"
+    },
+    {
+      "id": "4992972",
+      "time": "2026-07-17 05:21:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社釋出了一張遭美方襲擊的橋樑的圖片。"
+    },
     {
       "id": "4992971",
       "time": "2026-07-17 05:15:21",
@@ -172669,36 +172705,6 @@
         "國際"
       ],
       "text": "美國官員就伊朗問題表態：美國仍致力於尋求解決方案，技術性談判仍在繼續。"
-    },
-    {
-      "id": "4979772",
-      "time": "2026-07-10 05:22:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜雲科技：推出面向亞馬遜雲科技的Loom。"
-    },
-    {
-      "id": "mkt:019f48c3-00be-7aab-8d21-b92e18a03a78",
-      "time": "2026-07-10 05:22:46",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O",
-        "Impact bullish"
-      ],
-      "text": "Amazon Web Services (AWS) launched AWS Loom."
-    },
-    {
-      "id": "4979771",
-      "time": "2026-07-10 05:21:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院將於下週表決永久實行夏令時的法案。"
     }
   ]
 }
