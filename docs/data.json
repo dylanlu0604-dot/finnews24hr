@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-17 05:02:16",
-  "count": 18787,
+  "updated": "2026-07-17 05:06:07",
+  "count": 18785,
   "items": [
+    {
+      "id": "4992968",
+      "time": "2026-07-17 05:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（7月16日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7732元，較週三紐約尾盤跌45點，日內整體交投於6.7649-6.7755元區間。"
+    },
+    {
+      "id": "mkt:019f6cbd-a786-7aab-8dd1-575c8a682927",
+      "time": "2026-07-17 05:03:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI prices Grok 4.5 at USD2 per mln input tokens and USD6 per mln output tokens."
+    },
+    {
+      "id": "mkt:019f6cbc-d809-7aab-8dd1-49d33cad2c98",
+      "time": "2026-07-17 05:02:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI: Grok 4.5 is now live on Grok Build, Cursor and the SpaceX AI Console."
+    },
+    {
+      "id": "4992967",
+      "time": "2026-07-17 05:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok 4.5 計費標準為每百萬輸入詞元 2 美元、每百萬輸出詞元 6 美元。"
+    },
     {
       "id": "4992966",
       "time": "2026-07-17 05:00:20",
@@ -172694,56 +172730,6 @@
         "Impact bullish"
       ],
       "text": "SK Hynix's US ADR offering drew nearly $200 bln in demand, attracting over 500 investors; the top 25 accounts received roughly 67% of the allocation and the top 10 took nearly half."
-    },
-    {
-      "id": "4979764",
-      "time": "2026-07-10 05:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：伊朗並未控制霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019f48b3-778c-7aab-8d21-89088ee4c059",
-      "time": "2026-07-10 05:05:48",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bullish"
-      ],
-      "text": "Wall Street Journal reports Netflix (NFLX.O) is exploring live TV and additional bundle offerings to boost subscriber retention."
-    },
-    {
-      "id": "4979763",
-      "time": "2026-07-10 05:05:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "Netflix高管近期商議增設直播頻道業務。"
-    },
-    {
-      "id": "4979762",
-      "time": "2026-07-10 05:05:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：Netflix正探索直播電視及套餐捆綁業務。Netflix正洽談競標 2030 年、2034 年世界盃賽事轉播權。"
-    },
-    {
-      "id": "4979761",
-      "time": "2026-07-10 05:03:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【離岸人民幣兌美元升破6.8】離岸人民幣兌美元升破6.8，日內漲0.1422%。"
-    },
-    {
-      "id": "4979760",
-      "time": "2026-07-10 05:02:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "週四（7月9日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7950元，較週三紐約尾盤漲113點，日內整體交投於6.8067-6.7933元區間。"
     }
   ]
 }

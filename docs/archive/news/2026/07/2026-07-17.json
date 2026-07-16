@@ -1,7 +1,43 @@
 {
   "date": "2026-07-17",
-  "count": 402,
+  "count": 406,
   "items": [
+    {
+      "id": "4992968",
+      "time": "2026-07-17 05:04:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（7月16日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7732元，較週三紐約尾盤跌45點，日內整體交投於6.7649-6.7755元區間。"
+    },
+    {
+      "id": "mkt:019f6cbd-a786-7aab-8dd1-575c8a682927",
+      "time": "2026-07-17 05:03:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI prices Grok 4.5 at USD2 per mln input tokens and USD6 per mln output tokens."
+    },
+    {
+      "id": "mkt:019f6cbc-d809-7aab-8dd1-49d33cad2c98",
+      "time": "2026-07-17 05:02:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceX AI: Grok 4.5 is now live on Grok Build, Cursor and the SpaceX AI Console."
+    },
+    {
+      "id": "4992967",
+      "time": "2026-07-17 05:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok 4.5 計費標準為每百萬輸入詞元 2 美元、每百萬輸出詞元 6 美元。"
+    },
     {
       "id": "4992966",
       "time": "2026-07-17 05:00:20",
