@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-16 21:43:51",
-  "count": 18774,
+  "updated": "2026-07-16 21:47:59",
+  "count": 18769,
   "items": [
+    {
+      "id": "4992570",
+      "time": "2026-07-16 21:47:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奧士康取得超高層埋容混壓PCB關鍵技術突破】面對高階AI伺服器、核心交換機等應用對高效能硬體的持續升級需求，奧士康成功研發出N+M結構、三料混壓的埋容超高層PCB，並在高可靠量產工藝上取得關鍵突破，為高階PCB的穩定製造與可靠交付提供技術支撐。該產品採用超高層N+M結構，整合埋容材料、高速材料與普通高Tg材料三種材料體系，在超厚板、微孔、高厚徑比、高密度互聯和嚴苛阻抗控制等方面實現綜合突破。"
+    },
+    {
+      "id": "te:markets:567587",
+      "time": "2026-07-16 21:46:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls on New US Tariffs — The Ibovespa fell nearly 1% to hover around 174,500 on Thursday after the US announced a new 25% tariff on Brazilian imports. According to the announcement, the new tariff will take effect on July 22th. Vale fell more than 1%, while steelmakers also posted losses, with Gerdau and CSN shedding more than 1% each. However, products including beef, coffee, rare earths, energy products, aircraft, and aircraft parts will be exempt from the tariff. Petrobras gained more than 0.5%, also supported by higher oil prices, while Embraer and Minerva were little changed. Meanwhile, the conflict in the Middle East pushed oil prices higher on supply concerns, fueling inflation worries. Bond yields moved higher, weighing on financials and the broader market. Itaú and Bradesco lost about 0.5%, while B3 tumbled more than 2%. Utilities also traded lower, with Axia and Sabesp down about 1%."
+    },
+    {
+      "id": "4992569",
+      "time": "2026-07-16 21:45:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國無人車首入中亞 蘿蔔快跑駛入哈薩克】今天，在2026世界人工智慧大會（WAIC）召開前夕，中國無人駕駛出行服務平臺蘿蔔快跑與哈薩克企業 Turlov Private Holding Ltd.（TPH）在上海簽署戰略合作協議，雙方將共同探索在哈薩克引入無人車出行服務。這是中國無人車首次進入中亞市場。哈薩克副總理兼人工智慧與數字化發展部部長扎斯蘭·馬季耶夫出席並見證簽約儀式。（百度）"
+    },
+    {
+      "id": "4992568",
+      "time": "2026-07-16 21:45:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "洛克希德・馬丁獲美國國防部價值 105 億美元、為期 12 年的美國特種作戰司令部合同。根據新合同，洛克希德·馬丁將為美國特種作戰司令部提供下一代後勤與維護保障服務。"
+    },
+    {
+      "id": "4992567",
+      "time": "2026-07-16 21:45:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【費城半導體指數跌3% 博通股價下跌3.6%】費城半導體指數跌3%，報12023.76點。英偉達股價下跌2.15%，臺積電股價下跌2.73%，博通股價下跌3.6%，SK海力士股價下跌7.63%，美光科技股價下跌3.84%，超威半導體股價下跌3.76%，阿斯麥股價上漲0.11%，英特爾股價下跌3.68%，泛林集團股價下跌2.92%，ARM股價下跌6.6%，閃迪股價下跌7.6%。"
+    },
+    {
+      "id": "4992566",
+      "time": "2026-07-16 21:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪評級給予英偉達 B3 企業家族評級，展望穩定。"
+    },
+    {
+      "id": "4992565",
+      "time": "2026-07-16 21:45:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【原海通國際行政總裁林湧再度被免職】記者獲悉，7月初國泰海通證券內部發布的一則任免通知顯示，免去林湧政策與產業研究院高階研究員（中層正職級）職務。多位獨立訊息人士向記者證實了此訊息。據公開資訊，國泰海通政策與產業研究院為一級部門，隸屬於研究與機構業務委員會。一位接近國泰海通的人士對記者表示，近一年以來，林湧一直在內部擔任高階研究員，但保留了中層正職級的級別，此次免職雖然在意料之外，但也在情理之中。（21世紀經濟報道）"
+    },
+    {
+      "id": "mkt:019f6b2c-5c82-7aab-8dca-379ed9ecd23f",
+      "time": "2026-07-16 21:44:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FBI: multiple agencies have seized more than 700 drones near World Cup stadiums."
+    },
+    {
+      "id": "te:markets:567586",
+      "time": "2026-07-16 21:44:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Drops to Eight-Month Low on Rate Hike Fears — Silver plunged more than 3% to below $56 an ounce on Thursday, hitting its lowest level since November 2025, as escalating Middle East tensions drove oil prices higher and strengthened expectations that US interest rates will remain elevated. The latest escalation followed fresh US strikes on Iranian military targets and Tehran's retaliation against US bases in neighboring countries, raising concerns over the security of the Strait of Hormuz and lifting crude oil prices to one-month highs. Higher energy prices have reinforced expectations that the Federal Reserve will keep monetary policy tighter for longer, weighing on precious metals. Traders currently see about a 51% chance of a September rate hike, while softer-than-expected US inflation data has made a July increase unlikely, despite Fed Chair Kevin Warsh's commitment to bringing inflation under control."
+    },
+    {
+      "id": "te:markets:567585",
+      "time": "2026-07-16 21:44:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Mastercard Stock Price Hits 22-week High — Mastercard shares increased to 544.10 USD, the highest since February 2026. Over the past 4 weeks, Mastercard gained 10.02%, and in the last 12 months, it decreased 2.38%."
+    },
+    {
+      "id": "4992564",
+      "time": "2026-07-16 21:44:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦調查局：美國機構在世界盃場地附近查獲了700多架無人機。"
+    },
     {
       "id": "4992563",
       "time": "2026-07-16 21:43:01",
@@ -172483,157 +172583,6 @@
         "觀點"
       ],
       "text": "【阿斯麥Q2績前小摩唱多至2200美元 較當前有24%的上漲空間】光刻機巨頭阿斯麥將於7月15日公佈2026年第二季度業績。由於近期市場對人工智慧(AI)資本支出可持續性的擔憂有所加劇，處於AI產業鏈上游的阿斯麥股價表現相對低迷——其美股股價自7月以來累計下跌超11%。摩根大通在近日釋出的研報中對阿斯麥第二季度業績進行了前瞻，並指出，該公司需要釋放2027年及以後產能擴張與需求強勁的訊號，股價才有望實現突破。"
-    },
-    {
-      "id": "mkt:019f4722-8dc1-7aab-8d1a-3ebdfdbeb9d9",
-      "time": "2026-07-09 21:47:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Sources: Pakistan still mediating; US‑Iran negotiation window may reopen】Pakistani government sources say Pakistan and Qatar have established new contact channels with the US and Iran aimed at stopping military action and pressing both sides to resume talks under the Islamabad memorandum. Despite a fresh escalation in hostilities, Pakistan remains optimistic the memorandum can be upheld."
-    },
-    {
-      "id": "4979386",
-      "time": "2026-07-09 21:47:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【茅臺廠商齊心馳援廣西災區】據貴州茅臺，在貴州茅臺酒股份有限公司決定向廣西慈善聯合總會捐贈1000萬元現金的同時，廣西茅臺酒經銷商也在行動，全力支援廣西洪澇災害救災及災後恢復工作。面對橫州市災情，貴州茅臺廣西經銷商聯誼會已於7月6日緊急籌措1400件飲用水、600件床上用品及食品等急缺生活物資，第一時間送往災區，緩解受災群眾基本生活困難。"
-    },
-    {
-      "id": "mkt:019f4721-fd29-7aab-8d1a-30e1a5d634db",
-      "time": "2026-07-09 21:47:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Williams said he is open to discussing the Fed's communication approach."
-    },
-    {
-      "id": "4979385",
-      "time": "2026-07-09 21:47:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：對美聯儲溝通機制相關的公開討論持開放態度。"
-    },
-    {
-      "id": "te:markets:565723",
-      "time": "2026-07-09 21:46:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Rises on Energy Gains — The Ibovespa gained about 0.5% to trade above 171,000 on Thursday, supported by strength in energy stocks. Petrobras rose nearly 1% as markets reassessed the outlook for global oil supply following renewed US-Iran hostilities. Banking shares also advanced, with Itaú and Bradesco gaining more than 0.5%. Vale rebounded 0.5% despite lower iron ore prices. Other notable gainers included Ambev and Embraer, both up more than 0.5%. Meanwhile, US Trade Representative Jamieson Greer said a decision on US tariffs on Brazilian imports would be made very soon, although negotiations between the two countries remain far apart."
-    },
-    {
-      "id": "mkt:019f4721-4ca2-7aab-8d1a-2e3e10b1d7bc",
-      "time": "2026-07-09 21:46:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Williams said transparency is highly beneficial to the Federal Reserve."
-    },
-    {
-      "id": "4979384",
-      "time": "2026-07-09 21:46:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：透明度一直為美聯儲發揮了極佳作用。"
-    },
-    {
-      "id": "4979383",
-      "time": "2026-07-09 21:45:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：三井住友航空資本將迴圈信貸額度擴容至30億美元。"
-    },
-    {
-      "id": "4979382",
-      "time": "2026-07-09 21:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "法國電力：因塞納河水溫過高，諾讓核電站自週一起或將實施產能限制。"
-    },
-    {
-      "id": "4979381",
-      "time": "2026-07-09 21:45:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：義大利5月廣告支出同比下降2.1%。"
-    },
-    {
-      "id": "4979380",
-      "time": "2026-07-09 21:44:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "ICE阿拉比卡咖啡期貨<KCc2>跳漲近7%，至每磅3.3050美元。"
-    },
-    {
-      "id": "mkt:019f471f-c899-7aab-8d1a-26e359002689",
-      "time": "2026-07-09 21:44:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fed's Williams: real wage growth exerts a modest disinflationary effect."
-    },
-    {
-      "id": "mkt:019f471f-7fa3-7aab-8d1a-1e3037015b81",
-      "time": "2026-07-09 21:44:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's WILLIAMS said he has no monetary-policy concerns about the Treasury's handling of Federal Reserve accounts."
-    },
-    {
-      "id": "mkt:019f471f-57b0-7aab-8d1a-10bfc7e63329",
-      "time": "2026-07-09 21:44:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve's Williams said he was looking forward to Argentina's World Cup performance because Argentine President Milei is a superstar."
-    },
-    {
-      "id": "4979379",
-      "time": "2026-07-09 21:44:22",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：美國財政部對美聯儲賬戶的管理方式，並未引發貨幣政策層面的擔憂。"
-    },
-    {
-      "id": "4979378",
-      "time": "2026-07-09 21:44:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "威廉姆斯：實際薪資增長具備溫和抑制通脹的效果。"
     }
   ]
 }
