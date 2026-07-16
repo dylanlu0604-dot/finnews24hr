@@ -1,7 +1,442 @@
 {
   "date": "2026-07-16",
-  "count": 1769,
+  "count": 1818,
   "items": [
+    {
+      "id": "mkt:019f69da-4c24-7aab-8dc1-3ccdf3f9a738",
+      "time": "2026-07-16 15:35:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: surveys show wage growth expectations for 2027 are showing moderate upward momentum."
+    },
+    {
+      "id": "4991715",
+      "time": "2026-07-16 15:35:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【醋化股份：副總經理錢進因個人原因辭職】醋化股份公告稱，公司董事會近日收到副總經理錢進書面辭職報告，因個人原因，錢進申請辭去副總經理一職，辭職後不在公司及控股子公司任職。其辭職申請於2026年7月16日送達董事會時生效，原定任期至2028年12月26日。錢進存在未履行完畢的公開承諾，但不屬於增持承諾。其辭職不會影響公司正常生產經營。"
+    },
+    {
+      "id": "mkt:019f69da-1e8e-7aab-8dc1-32ac88532e5f",
+      "time": "2026-07-16 15:35:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: Employment growth is currently moderate and below its long-term average."
+    },
+    {
+      "id": "4991714",
+      "time": "2026-07-16 15:35:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航天軟體：近期獲343萬元政府補助 預計影響2026年利潤】航天軟體公告稱，公司近期收到兩筆政府補助款，分別為221萬元和122萬元，共計343萬元，為與收益相關的政府補助，分別佔公司2025年度歸母淨利潤絕對值的比例為19.52%和10.78%。預計對公司2026年度的利潤產生一定積極影響，具體以審計結果為準。"
+    },
+    {
+      "id": "mkt:019f69da-03ca-7aab-8dc1-297b7a6fc607",
+      "time": "2026-07-16 15:35:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Swiss National Bank says the risk of a sharp Swiss franc appreciation persists amid geopolitical uncertainty."
+    },
+    {
+      "id": "4991713",
+      "time": "2026-07-16 15:35:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勝天成：全資子公司擬出售不超22.82萬股天數智芯股票】華勝天成公告稱，公司全資子公司香港華勝擬出售持有的天數智芯（09903.HK）不超過228,200股股票，預計交易金額1.28億港元，賬面成本4307萬港元。出售方式為二級市場交易，期限自股東會審議透過之日起12個月內，價格根據二級市場走勢確定。本次交易已透過董事會審議，尚需股東會審議。因股價波動等因素，暫無法預計對業績的具體影響。"
+    },
+    {
+      "id": "mkt:019f69d9-de67-7aab-8dc1-2518bd80b6f4",
+      "time": "2026-07-16 15:35:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says current labour-market signals are weak."
+    },
+    {
+      "id": "mkt:019f69d9-c6bb-7aab-8dc1-1961dceef93a",
+      "time": "2026-07-16 15:35:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Swiss National Bank says uncertainty remains high."
+    },
+    {
+      "id": "mkt:019f69d9-c460-7aab-8dc1-134a7abbad00",
+      "time": "2026-07-16 15:35:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: inflation is unlikely at present to rise rapidly above 2% or to fall into negative territory."
+    },
+    {
+      "id": "4991712",
+      "time": "2026-07-16 15:34:57",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行會議紀要：目前，預計通脹率不會迅速升至2%以上或跌入負值區間。"
+    },
+    {
+      "id": "4991711",
+      "time": "2026-07-16 15:34:50",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "瑞士央行會議記錄：由於能源價格上漲，短期內通脹可能會增加。如果霍爾木茲海峽的通行長期受阻，能源市場的形勢可能會惡化。"
+    },
+    {
+      "id": "mkt:019f69d9-63ad-7aab-8dc1-0d39ab476f46",
+      "time": "2026-07-16 15:34:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says economic growth may undershoot expectations and inflation may exceed expectations."
+    },
+    {
+      "id": "4991710",
+      "time": "2026-07-16 15:34:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本監管機構批准柏崎刈羽第 6 號至 2036 年。"
+    },
+    {
+      "id": "mkt:019f69d9-40ca-7aab-8dc1-029fd6046b78",
+      "time": "2026-07-16 15:34:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Swiss National Bank said prolonged disruption to shipping through the Strait of Hormuz could tighten energy market conditions."
+    },
+    {
+      "id": "mkt:019f69d9-350d-7aab-8dc0-fdbc64d6e4f7",
+      "time": "2026-07-16 15:34:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says rising energy prices may push up inf in the short term."
+    },
+    {
+      "id": "mkt:019f69d9-1741-7aab-8dc0-f4fa9b8cc0a9",
+      "time": "2026-07-16 15:34:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank expects Switzerland's GDP to expand about 1.0% in 2026 and about 1.5% in 2027."
+    },
+    {
+      "id": "mkt:019f69d9-0bc7-7aab-8dc0-ea1b222a57f0",
+      "time": "2026-07-16 15:34:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank expects prices to remain within the price-stability range across its forecast horizon."
+    },
+    {
+      "id": "4991709",
+      "time": "2026-07-16 15:34:11",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：預計2026年GDP增長約1%，2027年增長約1.5%。"
+    },
+    {
+      "id": "mkt:019f69d8-bc52-7aab-8dc0-e14c99447748",
+      "time": "2026-07-16 15:33:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: assuming its policy rate remains unchanged, inflation should rise further over the next few quarters."
+    },
+    {
+      "id": "mkt:019f69d8-a125-7aab-8dc0-db6cfbae4b68",
+      "time": "2026-07-16 15:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says medium-term inflation pressures are little changed versus its March monetary policy assessment."
+    },
+    {
+      "id": "4991708",
+      "time": "2026-07-16 15:33:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：未來幾個季度，較為溫和的全球經濟動能可能會對瑞士經濟增長產生抑制作用。"
+    },
+    {
+      "id": "mkt:019f69d8-881a-7aab-8dc0-d5f602315641",
+      "time": "2026-07-16 15:33:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SWISS NATIONAL BANK flags stronger-than-expected second-round effects as a risk to inflation."
+    },
+    {
+      "id": "4991707",
+      "time": "2026-07-16 15:33:39",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行會議記錄：強於預期的第二輪效應也被列為通脹風險因素。"
+    },
+    {
+      "id": "4991706",
+      "time": "2026-07-16 15:33:36",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：在諮詢和軟體開發等某些行業，人工智慧的影響更為顯著，且已開始影響現有商業模式。"
+    },
+    {
+      "id": "mkt:019f69d8-47c3-7aab-8dc0-c841caad8fd8",
+      "time": "2026-07-16 15:33:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says firms expect revenue to rise sharply over the next few quarters."
+    },
+    {
+      "id": "4991705",
+      "time": "2026-07-16 15:33:26",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行會議記錄：除了地緣政治和貿易政策也在塑造國際環境外，從瑞士角度看，匯率也是一個重要的風險因素。"
+    },
+    {
+      "id": "mkt:019f69d8-17c9-7aab-8dc0-c3708d5d526c",
+      "time": "2026-07-16 15:33:17",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Swiss National Bank said firms' short-term inflation expectations have edged up."
+    },
+    {
+      "id": "4991704",
+      "time": "2026-07-16 15:33:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：人工智慧已獲得一定影響力，但迄今尚未出現重大的廣泛結構性變化。"
+    },
+    {
+      "id": "4991703",
+      "time": "2026-07-16 15:33:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯洛伐克經濟部：正與亞塞拜然就2027年後長期天然氣供應進行談判。"
+    },
+    {
+      "id": "mkt:019f69d7-e7c1-7aab-8dc0-bcd4a2f0b3c5",
+      "time": "2026-07-16 15:33:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: AI has gained some influence, but so far has not produced major broad-based structural changes."
+    },
+    {
+      "id": "4991702",
+      "time": "2026-07-16 15:33:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖元環保成立營養科技公司】企查查APP顯示，近日，聖元營養科技（廈門）有限公司成立，法定代表人為朱恆波，註冊資本為1000萬元，經營範圍包含：食品新增劑銷售；飼料新增劑銷售；國際貨物運輸代理；國內貨物運輸代理；供應鏈管理服務等。企查查股權穿透顯示，該公司由聖元環保間接全資持股。"
+    },
+    {
+      "id": "mkt:019f69d7-d013-7aab-8dc0-b68b2fa7045a",
+      "time": "2026-07-16 15:32:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Swiss National Bank: a renewed escalation in the Middle East could materially weaken economic activity and add upward pressure on the Swiss franc."
+    },
+    {
+      "id": "mkt:019f69d7-b2cd-7aab-8dc0-a8c8968633bc",
+      "time": "2026-07-16 15:32:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SWISS NATIONAL BANK says the main risks to the economic and inf outlook stem from global economic developments."
+    },
+    {
+      "id": "mkt:019f69d7-a731-7aab-8dc0-a6ee68ac93f7",
+      "time": "2026-07-16 15:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says medium-term inflation expectations have risen only slightly."
+    },
+    {
+      "id": "4991701",
+      "time": "2026-07-16 15:32:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省地質礦產勘查開發局黨委書記、局長趙浩宇接受審查調查】據四川省紀委監委訊息：四川省地質礦產勘查開發局黨委書記、局長趙浩宇涉嫌嚴重違紀違法，目前正接受四川省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019f69d7-958b-7aab-8dc0-9da2b45c5add",
+      "time": "2026-07-16 15:32:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SWISS NATIONAL BANK: Energy price increases may raise inf in the short term; over the full period inf will remain within a range consistent with price stability."
+    },
+    {
+      "id": "4991700",
+      "time": "2026-07-16 15:32:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中菲聯手搗毀電詐窩點並遣返6名犯罪嫌疑人】近日，中菲兩國執法部門緊密協作，成功搗毀一個盤踞在菲電詐窩點。該團伙涉案金額近千萬元，6名犯罪嫌疑人悉數落網，均為中方通緝在逃人員，涉嫌從事電信詐騙、洗錢及掩飾、隱瞞犯罪所得等多項罪名。行動中，執法人員在窩點現場查獲大量電腦、手機、假印章等作案工具，同時繳獲手槍、毒品等違禁物品。經駐菲使館全力協調，7月14日，菲移民局官員將6名嫌疑人押解遣返回中國。中國駐菲使館將持續深化執法合作，堅決打擊跨境違法犯罪活動，切實守護同胞生命財產安全。"
+    },
+    {
+      "id": "mkt:019f69d7-6ee2-7aab-8dc0-964c4a81d756",
+      "time": "2026-07-16 15:32:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: In the medium term, global economic improvement could again boost Swiss growth momentum."
+    },
+    {
+      "id": "mkt:019f69d7-6816-7aab-8dc0-8a670d8ead86",
+      "time": "2026-07-16 15:32:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D closed down 0.72% at 877.2 yuan/gram on July 16 (Thursday); silver T+D closed down 3.02% at 13,849 yuan/kg."
+    },
+    {
+      "id": "mkt:019f69d7-4ed0-7aab-8dc0-805e61ced890",
+      "time": "2026-07-16 15:32:25",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Swiss National Bank said slowing global economic momentum over the next few quarters could weigh on Swiss growth."
+    },
+    {
+      "id": "4991699",
+      "time": "2026-07-16 15:32:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行會議紀要：中期來看，全球經濟改善可能再次為瑞士提供更積極的增長動力。"
+    },
+    {
+      "id": "mkt:019f69d7-2431-7aab-8dc0-7f026ede38af",
+      "time": "2026-07-16 15:32:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank says firms perceive high uncertainty but remain confident."
+    },
+    {
+      "id": "4991698",
+      "time": "2026-07-16 15:32:13",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：企業短期通脹預期有所上升。"
+    },
+    {
+      "id": "mkt:019f69d7-0f46-7aab-8dc0-73c7e587afbf",
+      "time": "2026-07-16 15:32:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Swiss National Bank: firms posted robust turnover growth in Q2."
+    },
+    {
+      "id": "4991697",
+      "time": "2026-07-16 15:32:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "瑞士央行：中東衝突對物價產生了顯著影響。"
+    },
+    {
+      "id": "te:markets:567466",
+      "time": "2026-07-16 15:32:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.39% Lower — The FTSE 100 Index is losing 41 points. Losses were led by Experian (-5.06%), Relx (-2.26%) and Compass (-2.25%). Offsetting the fall, top gainers were Diploma (4.43%), Weir (2.08%) and IMI (1.53%)."
+    },
+    {
+      "id": "4991696",
+      "time": "2026-07-16 15:31:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：無需立即採取行動。"
+    },
+    {
+      "id": "4991695",
+      "time": "2026-07-16 15:31:51",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：企業預計未來幾個季度營業額將強勁增長。"
+    },
+    {
+      "id": "4991694",
+      "time": "2026-07-16 15:31:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：儘管企業認為不確定性很高，但仍保持信心。"
+    },
     {
       "id": "4991693",
       "time": "2026-07-16 15:31:07",
