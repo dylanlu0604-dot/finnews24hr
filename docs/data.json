@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-16 23:20:11",
-  "count": 18754,
+  "updated": "2026-07-16 23:24:16",
+  "count": 18752,
   "items": [
+    {
+      "id": "4992697",
+      "time": "2026-07-16 23:22:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "杭州湘濱電子科技股份有限公司稽核狀態變更為已問詢。"
+    },
+    {
+      "id": "4992696",
+      "time": "2026-07-16 23:22:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：CSQUARE股票預計開盤價為每股20/21美元，IPO發行價為21美元。"
+    },
+    {
+      "id": "4992695",
+      "time": "2026-07-16 23:22:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：密歇根州報告了4312例環孢子蟲病病例，其中102例住院治療。"
+    },
     {
       "id": "4992694",
       "time": "2026-07-16 23:19:12",
@@ -172396,54 +172420,6 @@
         "MKT News"
       ],
       "text": "Gulf Cooperation Council condemns Iran's attacks on the Strait of Hormuz and on GCC member states."
-    },
-    {
-      "id": "mkt:019f477a-6c92-7aab-8d1c-684c8916adbf",
-      "time": "2026-07-09 23:23:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israeli Prime Minister NETANYAHU said the balance of power in the Middle East is shifting; Israel is closely monitoring developments and is prepared to respond to all contingencies."
-    },
-    {
-      "id": "4979524",
-      "time": "2026-07-09 23:22:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所阿拉比卡咖啡期貨（KCC2 合約）受投機資金大舉買入推動，漲幅近 10%，報每磅 3.40 美元。"
-    },
-    {
-      "id": "mkt:019f4779-0ef0-7aab-8d1c-637eb31864e3",
-      "time": "2026-07-09 23:22:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Egypt kept its overnight lending rate unchanged at 20%."
-    },
-    {
-      "id": "4979523",
-      "time": "2026-07-09 23:22:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "埃及央行維持基準利率 19% 不變，市場預期為 19.00%。"
-    },
-    {
-      "id": "mkt:019f4777-feff-7aab-8d1c-5c2cc90a87e0",
-      "time": "2026-07-09 23:21:14",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Israel's defense minister said the military is prepared to launch a third round of strikes against Iran."
     }
   ]
 }
