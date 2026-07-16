@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-17 01:47:36",
-  "count": 18780,
+  "updated": "2026-07-17 01:51:30",
+  "count": 18789,
   "items": [
+    {
+      "id": "4992834",
+      "time": "2026-07-17 01:50:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普與萬斯在伊朗衝突問題上立場完全一致。"
+    },
+    {
+      "id": "4992833",
+      "time": "2026-07-17 01:50:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：霍爾木茲海峽的封鎖已全面生效。20艘戰艦和2艘航空母艦參與封鎖。"
+    },
+    {
+      "id": "mkt:019f6c0c-c73c-7aab-8dcf-0ff71faeb6c6",
+      "time": "2026-07-17 01:50:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "White House says the blockade of the Strait of Hormuz is fully in effect."
+    },
+    {
+      "id": "4992832",
+      "time": "2026-07-17 01:49:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "PIPER SANDLER：AEROVIRONMENT公司可能正在與美國陸軍進行合同談判。"
+    },
+    {
+      "id": "mkt:019f6c0b-ecba-7aab-8dcf-01ae161200b5",
+      "time": "2026-07-17 01:49:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's LOGAN said he is very optimistic about long-term productivity gains from artificial intelligence, but that current strong, genuine AI investment demand will generate near-term inflationary pressure."
+    },
+    {
+      "id": "mkt:019f6c0a-d8e1-7aab-8dce-fb152a1c41a8",
+      "time": "2026-07-17 01:47:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WHITE HOUSE says it will continue to monitor developments in Iran."
+    },
+    {
+      "id": "mkt:019f6c0a-c7b2-7aab-8dce-f51431db7a3d",
+      "time": "2026-07-17 01:47:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says President Trump remains willing to engage in diplomatic talks."
+    },
+    {
+      "id": "4992831",
+      "time": "2026-07-17 01:47:48",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "高盛股價下跌5.1%，摩根士丹利股價下跌5.1%，花旗集團股價下跌2.1%。"
+    },
+    {
+      "id": "mkt:019f6c0a-9cb7-7aab-8dce-ebe389de2c58",
+      "time": "2026-07-17 01:47:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says President Trump and Vice President Pence agree on the Iran conflict."
+    },
+    {
+      "id": "4992830",
+      "time": "2026-07-17 01:47:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：目前人工智慧的投資需求規模龐大、真實存在，並且會產生短期通脹效應。"
+    },
+    {
+      "id": "4992829",
+      "time": "2026-07-17 01:47:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：對人工智慧帶來的長期生產率提升持非常樂觀的態度。"
+    },
     {
       "id": "mkt:019f6c0a-1955-7aab-8dce-e78cca265c21",
       "time": "2026-07-17 01:47:08",
@@ -172657,27 +172761,6 @@
         "Impact mixed"
       ],
       "text": "【Dallas Fed's Logan says voluntary central clearing could boost open market operations efficiency】Dallas Federal Reserve President Logan said the Federal Open Market Committee using a voluntary central clearing mechanism for open market operations would improve operational efficiency and effectiveness and bolster US financial-market stability. She said such arrangements could increase use of Fed tools, including the standing repo facility, which is intended to supply liquidity to eligible institutions but has seen low market take-up; simplifying clearing could raise its appeal, some participants say. Logan also urged careful management of market leverage, stressing the need to balance leverage-driven returns against risks and to preserve an appropriate leverage–liquidity trade-off."
-    },
-    {
-      "id": "mkt:019f47ff-c873-7aab-8d1f-4282195d75b6",
-      "time": "2026-07-10 01:49:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【IAEA: Russia-Ukraine conflict continues to pose risks to nuclear plant safety】IAEA Director General Grossi said on the 9th that IAEA teams at Ukrainian nuclear power plants have repeatedly heard military activity recently, including drones and gunfire, but there are currently no reports of damage to the plants."
-    },
-    {
-      "id": "4979622",
-      "time": "2026-07-10 01:49:13",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國監管機構已結束對 iHeartMedia 的調查，相關指控為該公司要求藝人出席旗下活動演出，以此換取歌曲更多電臺播放量，卻未依法披露該交易安排。"
     }
   ]
 }
