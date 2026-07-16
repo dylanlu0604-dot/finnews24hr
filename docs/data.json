@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-17 05:29:21",
-  "count": 18784,
+  "updated": "2026-07-17 05:33:16",
+  "count": 18783,
   "items": [
+    {
+      "id": "mkt:019f6cd7-793b-7aab-8dd1-80d30763fd5d",
+      "time": "2026-07-17 05:31:28",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "【Starship to launch SpaceX's first post-listing test flight】Launch window for Starship's 13th test opens at 06:45 BJT today (17th). It is SpaceX's first launch since listing (SPCX.O). The flight will validate the next‑generation Starship system and deploy 20 next‑generation Starlink satellites. The Super Heavy booster will test launch, ascent, stage separation, return burn and landing burn; the Starship vehicle will attempt an in‑orbit restart of one Raptor engine, perform controlled reentry and splashdown in a designated Indian Ocean area. The mission will also trial multiple heatshield upgrades to collect data for rapid, full reuse."
+    },
     {
       "id": "4992975",
       "time": "2026-07-17 05:26:40",
@@ -172708,24 +172717,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列已向美國分享有關伊朗策劃刺殺特朗普的全新情報。"
-    },
-    {
-      "id": "mkt:019f48cb-5582-7aab-8d21-c0727b3d802f",
-      "time": "2026-07-10 05:31:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "NewsNation reported US officials say technical-level talks with Iran are continuing; Washington remains committed to seeking a solution and reiterated that Iran must never possess nuclear weapons."
-    },
-    {
-      "id": "4979773",
-      "time": "2026-07-10 05:31:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國官員就伊朗問題表態：美國仍致力於尋求解決方案，技術性談判仍在繼續。"
     }
   ]
 }

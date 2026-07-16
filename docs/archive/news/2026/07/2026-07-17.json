@@ -1,7 +1,16 @@
 {
   "date": "2026-07-17",
-  "count": 419,
+  "count": 420,
   "items": [
+    {
+      "id": "mkt:019f6cd7-793b-7aab-8dd1-80d30763fd5d",
+      "time": "2026-07-17 05:31:28",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "【Starship to launch SpaceX's first post-listing test flight】Launch window for Starship's 13th test opens at 06:45 BJT today (17th). It is SpaceX's first launch since listing (SPCX.O). The flight will validate the next‑generation Starship system and deploy 20 next‑generation Starlink satellites. The Super Heavy booster will test launch, ascent, stage separation, return burn and landing burn; the Starship vehicle will attempt an in‑orbit restart of one Raptor engine, perform controlled reentry and splashdown in a designated Indian Ocean area. The mission will also trial multiple heatshield upgrades to collect data for rapid, full reuse."
+    },
     {
       "id": "4992975",
       "time": "2026-07-17 05:26:40",
