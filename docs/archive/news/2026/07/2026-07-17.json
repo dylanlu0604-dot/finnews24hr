@@ -1,7 +1,35 @@
 {
   "date": "2026-07-17",
-  "count": 225,
+  "count": 228,
   "items": [
+    {
+      "id": "4992861",
+      "time": "2026-07-17 02:16:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守84美元/桶，日內跌1.13%。"
+    },
+    {
+      "id": "te:markets:567632",
+      "time": "2026-07-17 02:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 2.45% — Top commodity losers are Natural gas (-2.45%), Crude Oil WTI (-1.21%) and Brent Crude Oil (-1.01%). Gains are led by Heating Oil (1.72%), Natural Gas EU (1.03%) and Natural Gas UK (0.64%)."
+    },
+    {
+      "id": "4992860",
+      "time": "2026-07-17 02:14:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：達索系統洽談按大約20億美元收購ArisGlobal。"
+    },
     {
       "id": "4992859",
       "time": "2026-07-17 02:12:26",
