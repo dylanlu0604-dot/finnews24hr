@@ -1,7 +1,24 @@
 {
   "date": "2026-07-17",
-  "count": 89,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:019f6bec-d806-7aab-8dcd-b909f04af794",
+      "time": "2026-07-17 01:15:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kansas City Fed President Schmidt, an FOMC voting member for 2028, will speak in 10 minutes."
+    },
+    {
+      "id": "4992782",
+      "time": "2026-07-17 01:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "COINBASE GLOBAL INC：部分使用者在進行ATOM傳送和接收時可能會遇到延遲。"
+    },
     {
       "id": "mkt:019f6be4-6aef-7aab-8dcd-b38dfccc50b4",
       "time": "2026-07-17 01:05:59",

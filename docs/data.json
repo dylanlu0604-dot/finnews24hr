@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-17 01:11:43",
-  "count": 18731,
+  "updated": "2026-07-17 01:15:49",
+  "count": 18728,
   "items": [
+    {
+      "id": "mkt:019f6bec-d806-7aab-8dcd-b909f04af794",
+      "time": "2026-07-17 01:15:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kansas City Fed President Schmidt, an FOMC voting member for 2028, will speak in 10 minutes."
+    },
+    {
+      "id": "4992782",
+      "time": "2026-07-17 01:11:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "COINBASE GLOBAL INC：部分使用者在進行ATOM傳送和接收時可能會遇到延遲。"
+    },
     {
       "id": "mkt:019f6be4-6aef-7aab-8dcd-b38dfccc50b4",
       "time": "2026-07-17 01:05:59",
@@ -172148,51 +172165,6 @@
         "國際"
       ],
       "text": "週四（7月9日），美聯儲隔夜逆回購協議（RRP）使用規模為57.72億美元（交易對手6家），上個交易日報33.47億美元。"
-    },
-    {
-      "id": "mkt:019f47e0-929f-7aab-8d1e-bbbfe412cfe5",
-      "time": "2026-07-10 01:15:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【OpenAI launches ChatGPT Work agent for extended multi-hour task processing】OpenAI launched ChatGPT Work, an AI agent designed to run for hours to handle broader, more complex tasks and to expand appeal to business professionals. The tool assists with creating documents, spreadsheets, presentations and web applications and is powered by OpenAI's latest model, GPT-5.6."
-    },
-    {
-      "id": "4979606",
-      "time": "2026-07-10 01:15:10",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 烏克蘭希望借鑑日本三菱公司生產愛國者攔截彈的相關經驗。"
-    },
-    {
-      "id": "mkt:019f47e0-1e2d-7aab-8d1e-b5be170c4a8a",
-      "time": "2026-07-10 01:14:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said Ukraine is interested in Mitsubishi's experience producing Patriot interceptors."
-    },
-    {
-      "id": "mkt:019f47df-12c2-7aab-8d1e-ad485861f3c0",
-      "time": "2026-07-10 01:13:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Environmental Protection Agency proposes to relax emissions standards for heavy-duty vehicles and engines."
-    },
-    {
-      "id": "mkt:019f47dd-aa21-7aab-8d1e-a1af25d7cc85",
-      "time": "2026-07-10 01:12:17",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI priced GPT-5.6 per MLN tokens in three tiers: SOL — input $5, output $30; TERRA — input $2.50, output $15; LUNA — input $1, output $6."
     }
   ]
 }
