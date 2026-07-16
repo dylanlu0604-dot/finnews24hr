@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-17 02:41:05",
+  "updated": "2026-07-17 02:45:01",
   "count": 18812,
   "items": [
+    {
+      "id": "4992880",
+      "time": "2026-07-17 02:42:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【尼加拉瓜宣佈與義大利斷交】尼加拉瓜外交部16日發表宣告，宣佈與義大利斷絕外交關係，理由是義大利副總理兼外長塔亞尼近日針對尼加拉瓜政府的言論“毫無根據、攻擊性強、不負責任”。（新華社）"
+    },
+    {
+      "id": "4992879",
+      "time": "2026-07-17 02:42:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "AUTODOC：將利用貸款所得資金，回購由阿波羅管理基金旗下實體持有或控制的股份。"
+    },
+    {
+      "id": "4992878",
+      "time": "2026-07-17 02:41:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "AUTODOC：獲得5.3億歐元定期貸款。"
+    },
     {
       "id": "mkt:019f6c3a-e7a5-7aab-8dcf-ddcc20e0f187",
       "time": "2026-07-17 02:40:27",
@@ -172926,32 +172950,6 @@
         "焦點"
       ],
       "text": "高盛禁止員工在預測交易市場對金融、戰爭相關事件下注。"
-    },
-    {
-      "id": "4979645",
-      "time": "2026-07-10 02:41:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗南部阿巴斯港傳出爆炸聲】據伊朗邁赫爾通訊社報道，伊朗南部阿巴斯港當地時間9日晚傳出數次爆炸聲。（新華社）"
-    },
-    {
-      "id": "mkt:019f482f-952d-7aab-8d20-0683ea6c7100",
-      "time": "2026-07-10 02:41:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【New York Fed Perli: reserve-management purchases to remain flexible】New York Fed Open Market Account manager Perli said reserve-management purchase operations have no preset path; the Desk can raise or cut purchases depending on money-market conditions. She said the Desk is ready to implement any balance-sheet or rate-control changes the Committee may decide after Fed chair Kevin Warsh appointed a working group on the Fed’s balance sheet. The Fed began reserve-management purchases in December to offset an expected sharp April reserve drain from tax inflows into the Treasury general account, which reduce banking system reserves as Treasury balances at the Fed rise."
-    },
-    {
-      "id": "4979644",
-      "time": "2026-07-10 02:41:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯普京下令對烏斯季盧加石油港實施臨時管控。"
     }
   ]
 }
