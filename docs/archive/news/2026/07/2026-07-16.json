@@ -1,7 +1,89 @@
 {
   "date": "2026-07-16",
-  "count": 784,
+  "count": 792,
   "items": [
+    {
+      "id": "mkt:019f687c-9f53-7aab-8db3-9ac26e8c1c75",
+      "time": "2026-07-16 09:13:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said she will, if necessary, take appropriate foreign-exchange action at any time."
+    },
+    {
+      "id": "4991041",
+      "time": "2026-07-16 09:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：我們將隨時對匯率問題做出適當反應。"
+    },
+    {
+      "id": "mkt:019f687c-4437-7aab-8db3-9544a97f0e1c",
+      "time": "2026-07-16 09:13:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish"
+      ],
+      "text": "South Korea's KOSPI traded below 6,800, down 6.72% intraday. SK Hynix shares fell 11.5%."
+    },
+    {
+      "id": "mkt:019f687c-16b0-7aab-8db3-8f605a7b3c2e",
+      "time": "2026-07-16 09:13:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "CNH",
+        "Impact bearish",
+        "Copper",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "Shanghai silver most-active futures contract fell over 3% to 13,948 yuan per kilogram."
+    },
+    {
+      "id": "mkt:019f687b-6320-7aab-8db3-8613d0df9ece",
+      "time": "2026-07-16 09:12:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KYODO: Japan's House of Representatives passed a ruling-coalition bill to establish a 'second capital'."
+    },
+    {
+      "id": "4991040",
+      "time": "2026-07-16 09:12:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於週四晚9點（美國東部時間）向全國發表講話。"
+    },
+    {
+      "id": "4991039",
+      "time": "2026-07-16 09:11:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於美國東部時間週四上午11點會見薩爾瓦多總統。"
+    },
+    {
+      "id": "4991038",
+      "time": "2026-07-16 09:11:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將於2026年7月16日星期四向全國發表講話。"
+    },
     {
       "id": "4991037",
       "time": "2026-07-16 09:08:52",
