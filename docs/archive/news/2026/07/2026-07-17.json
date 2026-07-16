@@ -1,7 +1,35 @@
 {
   "date": "2026-07-17",
-  "count": 550,
+  "count": 553,
   "items": [
+    {
+      "id": "mkt:019f6d44-4634-7aab-8dd3-17c1a78c1367",
+      "time": "2026-07-17 07:30:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military says its air defenses are currently responding to hostile missile and drone threats."
+    },
+    {
+      "id": "mkt:019f6d43-9bcb-7aab-8dd3-0a92c10c9542",
+      "time": "2026-07-17 07:29:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Vance denies Iran allegation that Kushner and Witkoff used diplomatic insider information to profit $9bn】U.S. vice president Vance dismissed reports that Iran accused Kushner and Witkoff of using diplomatic inside information to arbitrage $9bn as nonsense. He said he never received any such information and that, had he seen it, he would have defended Kushner and Witkoff as trusted members of the president’s team and close personal friends."
+    },
+    {
+      "id": "4993050",
+      "time": "2026-07-17 07:28:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI手機滲透率有望加速提升 18股獲5家及以上機構評級】近期，全球各頭部智慧手機品牌廠商均積極佈局AI手機，推動AI大模型落地智慧手機端側。多家市場機構認為，AI手機市場規模有望快速擴大。從行業滲透率趨勢來看，6月22日，Counterpoint Research釋出的最新預測指出，2026年全球具備生成式人工智慧功能的智慧手機出貨佔比將攀升至45%，並有望在2027年突破半數關口達到52%，正式成為行業標配。據證券時報·資料寶統計，A股中佈局AI手機產業鏈的概念股共有37只，涵蓋晶片、光學模組、聲學器件、整機代工等多個環節。從業績來看，截至7月16日收盤，7只股已釋出2026年半年度業績相關公告，按業績快報淨利潤、業績預告淨利潤下限順序統計，江波龍預計歸母淨利潤實現同比增長，佰維儲存和同興達預計扭虧為盈。AI手機概念股普遍獲機構重點關注，統計顯示，18股獲5家及以上機構評級，佔比接近總數的一半，藍思科技、鵬鼎控股、科大訊飛評級機構家數居前，分別為20家、16家、15家。"
+    },
     {
       "id": "4993049",
       "time": "2026-07-17 07:26:54",
