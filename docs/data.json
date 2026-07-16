@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-17 04:37:06",
+  "updated": "2026-07-17 04:41:00",
   "count": 18774,
   "items": [
+    {
+      "id": "4992952",
+      "time": "2026-07-17 04:38:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普準備在演講中談及委內瑞拉大選相關事宜。"
+    },
     {
       "id": "4992951",
       "time": "2026-07-17 04:35:44",
@@ -172616,14 +172624,6 @@
         "MU.O"
       ],
       "text": "【Lutnick urges Samsung, SK Hynix to boost US memory-chip capacity】US Commerce Secretary Lutnick urged Samsung and SK Hynix to expand memory-chip production in the United States to help ease global shortages of AI-critical components. He confirmed he is in talks with the two Korean manufacturers but did not disclose details. Lutnick acknowledged Micron CEO Mehrotra may object to rivals expanding in the US, but said strengthening the US chip supply chain requires bringing Samsung and SK Hynix to build fabs onshore; he noted Micron currently leads and competitors will likely follow."
-    },
-    {
-      "id": "4979751",
-      "time": "2026-07-10 04:37:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特PIF接受卡尼邀請赴多倫多，沙特資本將目光投向加拿大】加拿大總理馬克·卡尼表示，沙特投資者對加拿大的能源、礦業和基礎設施領域感興趣。沙烏地阿拉伯規模達1萬億美元的主權財富基金——公共投資基金（PIF），將出席他將於9月在多倫多主辦的投資峰會。週四，卡尼結束了此次訪問，這是最近26年來加拿大領導人首次造訪該中東王國。"
     }
   ]
 }
