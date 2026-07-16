@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-17 04:46:43",
-  "count": 18773,
+  "updated": "2026-07-17 04:50:37",
+  "count": 18774,
   "items": [
+    {
+      "id": "mkt:019f6cb0-81bf-7aab-8dd1-0c7efe38ddfc",
+      "time": "2026-07-17 04:48:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iranian media reported U.S. forces attacked the railway hub at Abbas Port, injuring two people."
+    },
+    {
+      "id": "mkt:019f6cb0-3650-7aab-8dd1-03c46515c074",
+      "time": "2026-07-17 04:48:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars news agency reported a bridge in Bandar-e Khamir was hit in a suspected US military strike at about 23:00 local time (03:30 Beijing). The bridge links the Port of Abbas and Lar city."
+    },
+    {
+      "id": "4992955",
+      "time": "2026-07-17 04:47:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數16日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於100.76。 截至紐約匯市尾市，1歐元兌換1.14美元，低於前一交易日的1.15美元；1英鎊兌換1.35美元，低於前一交易日的1.35美元。 1美元兌換162.39日元，高於前一交易日的162.05日元；1美元兌換0.8089瑞士法郎，高於前一交易日的0.8047瑞士法郎；1美元兌換1.4加元，高於前一交易日的1.4加元；1美元兌換9.65瑞典克朗，高於前一交易日的9.59瑞典克朗。(新華社)"
+    },
+    {
+      "id": "4992954",
+      "time": "2026-07-17 04:47:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：伊朗阿巴斯港鐵路樞紐站遭美軍襲擊，兩人受傷。"
+    },
     {
       "id": "4992953",
       "time": "2026-07-17 04:42:59",
@@ -172581,34 +172619,6 @@
         "國際"
       ],
       "text": "白宮官方X：特朗普賬戶上線僅五天，美國家庭捐款總額已近 1.25 億美元。"
-    },
-    {
-      "id": "4979754",
-      "time": "2026-07-10 04:50:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "條款顯示，SK 海力士美國存託憑證發行吸引超 500 家機構下單認購。"
-    },
-    {
-      "id": "te:markets:565801",
-      "time": "2026-07-10 04:49:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Climbs as Global Stocks Rebound — The Ibovespa gained 1.2% to close at 172,742 on Thursday, tracking the positive tone across global equity markets. A rebound in major chipmakers lifted global stocks, while declining oil prices helped improve risk sentiment as investors looked past renewed hostilities between the US and Iran. Financials led gains, with Itaú and Bradesco rising 1.7%, Itaúsa adding 1.9%, and Banco do Brasil advancing 2.4%. Most utilities also moved higher, with Sabesp up 2.6%. Axia was the exception, falling 2.7% after Goldman Sachs lowered its adjusted EBITDA estimates for the second quarter. Other notable gainers included Rede D'Or (+3.1%) and Embraer (+2.9%). Petrobras fell 1.4% as oil prices retreated from earlier highs."
-    },
-    {
-      "id": "4979753",
-      "time": "2026-07-10 04:47:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "條款顯示，SK 海力士美股發行認購需求接近 2000 億美元，SK 海力士本次美國存託憑證發行份額中，前 25 大客戶認購佔比約 67%。"
     }
   ]
 }
