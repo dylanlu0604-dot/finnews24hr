@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-17 02:48:58",
-  "count": 18809,
+  "updated": "2026-07-17 02:52:57",
+  "count": 18811,
   "items": [
+    {
+      "id": "te:economy:567636",
+      "time": "2026-07-17 02:52:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Consumer Confidence",
+        "Importance 0"
+      ],
+      "text": "Paraguay Consumer Confidence Improves — Paraguay's Consumer Confidence Index rose to 41.23 in June 2026 from 38.21 in May, although it remained below the neutral threshold. The Economic Situation Index increased by 3.21 points to 30.25, reflecting an improvement in households' assessment of current conditions. Meanwhile, the Economic Expectations Index rose by 2.83 points to 52.21. Regarding saving intentions, 15.0% of respondents said they were willing to save, up 4.0 percentage points from May. Willingness to purchase durable goods also improved across all categories compared with the previous month. On an annual basis, however, consumer confidence was weaker, with both the Economic Situation and Expectations indices remaining below their June 2025 levels."
+    },
+    {
+      "id": "4992884",
+      "time": "2026-07-17 02:50:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶84.23美元，下跌72美分，跌幅0.85%。"
+    },
+    {
+      "id": "mkt:019f6c44-18af-7aab-8dcf-ea5fbd7b9525",
+      "time": "2026-07-17 02:50:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent crude futures settled at $84.23/bbl, down $0.72, or 0.85%."
+    },
+    {
+      "id": "4992883",
+      "time": "2026-07-17 02:48:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國土安全部查扣3萬張手機SIM卡，以遏制電話垃圾資訊。"
+    },
     {
       "id": "mkt:019f6c42-51cd-7aab-8dcf-e4e1171dbd8a",
       "time": "2026-07-17 02:48:33",
@@ -172897,25 +172938,6 @@
         "Impact bearish"
       ],
       "text": "Brent crude futures settled at $76.30/bbl, down $1.72 or 2.2%."
-    },
-    {
-      "id": "mkt:019f4839-671b-7aab-8d20-16498906de43",
-      "time": "2026-07-10 02:52:29",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【U.S. official says U.S. military not involved in latest attack on Iran】An Axios reporter said a senior U.S. official told them the U.S. military was not involved in the latest attack on Iran. Explosions were heard earlier in southern Iran."
-    },
-    {
-      "id": "4979651",
-      "time": "2026-07-10 02:49:44",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【扎克伯格否認Meta算力過剩 稱發展雲業務具商業潛力】Meta Platforms Inc.執行長馬克·扎克伯格表示，Meta需要儘可能多的算力資源。不過，在AI開發和執行所需算力供不應求的情況下，他也在思考將部分AI基礎設施出租給外部客戶是否能創造更多價值。扎克伯格在接受採訪時表示：“目前市場對算力的出價非常高，某些情況下，與其留作內部使用，不如把它租出去，或者考慮類似交易可能更划算。”本月早些時候報道稱，Meta正籌劃開展雲端計算業務，希望藉助公司的資料中心和其他算力合作伙伴，直接創造收入。扎克伯格表示，發展雲業務的機會“始終存在，只要我們想做，隨時都可以”。不過，他強調，這並不意味著Meta已經過度建設，或擁有閒置算力。扎克伯格表示：“我不知道業內有誰會覺得自己的算力太多。”他補充稱，Meta目前正在使用手頭所有算力資源。"
     }
   ]
 }
