@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-17 04:06:02",
-  "count": 18780,
+  "updated": "2026-07-17 04:09:57",
+  "count": 18787,
   "items": [
+    {
+      "id": "mkt:019f6c8b-f51d-7aab-8dd0-cf293ccfc403",
+      "time": "2026-07-17 04:08:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Tasnim News Agency reported US fighter jets launched a missile strike on Iran's Shahr Airport."
+    },
+    {
+      "id": "mkt:019f6c8b-5be0-7aab-8dd0-c68474f5356a",
+      "time": "2026-07-17 04:08:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Oil edges lower on Aug/Sept futures】NYMEX light sweet crude for August delivery fell $0.65 to settle at $78.95/bbl, down 0.82%. ICE Brent for September delivery fell $0.72 to settle at $84.23/bbl, down 0.85%."
+    },
+    {
+      "id": "4992937",
+      "time": "2026-07-17 04:07:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美軍戰鬥機對伊朗沙赫爾機場發動了導彈襲擊。"
+    },
+    {
+      "id": "4992936",
+      "time": "2026-07-17 04:07:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價16日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌65美分，收於每桶78.95美元，跌幅為0.82%；9月交貨的倫敦布倫特原油期貨價格下跌72美分，收於每桶84.23美元，跌幅為0.85%。"
+    },
+    {
+      "id": "4992935",
+      "time": "2026-07-17 04:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國宣佈針對恐怖分子的簽證限制政策。"
+    },
+    {
+      "id": "4992934",
+      "time": "2026-07-17 04:06:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "SpaceX收跌3.1%，報131.11美元，美國IPO以來首次收盤破發。"
+    },
+    {
+      "id": "mkt:019f6c89-1478-7aab-8dd0-bfa1aaf8ba10",
+      "time": "2026-07-17 04:05:50",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Netflix (NFLX.O) fell more than 4% in after-hours trading following its earnings report."
+    },
+    {
+      "id": "mkt:019f6c88-fec7-7aab-8dd0-b6b9b0960827",
+      "time": "2026-07-17 04:05:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the close on July 16, the Dow Jones Industrial Average fell 105.14 points (-0.20%) to 52,553.50; the S&P 500 fell 38.54 points (-0.51%) to 7,533.86; the Nasdaq Composite fell 387.28 points (-1.47%) to 25,881.95."
+    },
+    {
+      "id": "mkt:019f6c88-e38c-7aab-8dd0-af044350d9b1",
+      "time": "2026-07-17 04:05:38",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) closed below its IPO issue price for the first time, at $131.11."
+    },
     {
       "id": "mkt:019f6c88-b781-7aab-8dd0-a728eff0eda6",
       "time": "2026-07-17 04:05:26",
@@ -172641,24 +172733,6 @@
         "國際"
       ],
       "text": "伊朗官方通訊社援引當地官員訊息稱，伊朗位於科納拉克的海軍基地遭“敵方”襲擊。"
-    },
-    {
-      "id": "mkt:019f487d-8b7e-7aab-8d21-24d42b3633c6",
-      "time": "2026-07-10 04:06:54",
-      "tags": [
-        "MKT News",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "OpenAI: GPT-5.6 is now the preferred model for Microsoft 365 Copilot."
-    },
-    {
-      "id": "mkt:019f487d-0c5a-7aab-8d21-1b33d8492be6",
-      "time": "2026-07-10 04:06:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lagarde says she does not currently intend to run in French presidential race, will continue to speak on Europe】ECB President Christine Lagarde said she does not currently intend to run in next year’s French presidential election but plans to voice her views on Europe’s future during the campaign. She said Europe must be protected and the EU remains an important framework for member states, including France. Lagarde acknowledged prior speculation she might leave the ECB early to enter French politics, but said she would not step down while the central bank faces major challenges."
     }
   ]
 }
