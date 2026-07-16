@@ -1,7 +1,44 @@
 {
   "date": "2026-07-17",
-  "count": 352,
+  "count": 356,
   "items": [
+    {
+      "id": "4992940",
+      "time": "2026-07-17 04:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：美國發動襲擊，打擊了哈姆爾港一處橋樑。"
+    },
+    {
+      "id": "4992939",
+      "time": "2026-07-17 04:10:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國鋁業二季度銷售39.7億美元，分析師預期40.2億美元。\n維持全年鋁產量預期在240萬-260萬噸不變。\n維持全年鋁發貨量預期在260萬-280萬噸不變。"
+    },
+    {
+      "id": "4992938",
+      "time": "2026-07-17 04:10:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長週二與伊拉克總理通話。"
+    },
+    {
+      "id": "te:markets:567643",
+      "time": "2026-07-17 04:09:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Intuitive Surgical earnings above expectations at 2.80 USD — Intuitive Surgical (ISRG) released earnings per share at 2.80 USD, compared to market expectations of 2.51 USD."
+    },
     {
       "id": "mkt:019f6c8b-f51d-7aab-8dd0-cf293ccfc403",
       "time": "2026-07-17 04:08:59",

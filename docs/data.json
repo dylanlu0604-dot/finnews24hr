@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-17 04:09:57",
-  "count": 18787,
+  "updated": "2026-07-17 04:13:49",
+  "count": 18789,
   "items": [
+    {
+      "id": "4992940",
+      "time": "2026-07-17 04:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：美國發動襲擊，打擊了哈姆爾港一處橋樑。"
+    },
+    {
+      "id": "4992939",
+      "time": "2026-07-17 04:10:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國鋁業二季度銷售39.7億美元，分析師預期40.2億美元。\n維持全年鋁產量預期在240萬-260萬噸不變。\n維持全年鋁發貨量預期在260萬-280萬噸不變。"
+    },
+    {
+      "id": "4992938",
+      "time": "2026-07-17 04:10:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長週二與伊拉克總理通話。"
+    },
+    {
+      "id": "te:markets:567643",
+      "time": "2026-07-17 04:09:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Intuitive Surgical earnings above expectations at 2.80 USD — Intuitive Surgical (ISRG) released earnings per share at 2.80 USD, compared to market expectations of 2.51 USD."
+    },
     {
       "id": "mkt:019f6c8b-f51d-7aab-8dd0-cf293ccfc403",
       "time": "2026-07-17 04:08:59",
@@ -172712,27 +172749,6 @@
         "國際"
       ],
       "text": "美國銀行（全國協會）宣佈贖回 20 億美元票面利率 5.526% 高階銀行債券及 6 億美元浮動利率高階銀行債券，債券到期日均為 2026 年 8 月。"
-    },
-    {
-      "id": "mkt:019f4881-9878-7aab-8d21-2a6a950a4650",
-      "time": "2026-07-10 04:11:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's state news agency, citing local officials, said the Iranian naval base in Konarak was attacked by an \"enemy\"."
-    },
-    {
-      "id": "4979726",
-      "time": "2026-07-10 04:10:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗官方通訊社援引當地官員訊息稱，伊朗位於科納拉克的海軍基地遭“敵方”襲擊。"
     }
   ]
 }
