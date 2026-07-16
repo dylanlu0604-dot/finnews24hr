@@ -1,7 +1,154 @@
 {
   "date": "2026-07-16",
-  "count": 2713,
+  "count": 2729,
   "items": [
+    {
+      "id": "4992395",
+      "time": "2026-07-16 20:29:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【首華燃氣：多名董高擬於8-11月減持不超19.2萬股】首華燃氣公告稱，董事兼高管王志紅、高尚芳，董事羅傳容，高管張騫、李春南因自身資金需求，計劃於2026年8月10日至11月9日，以集中競價方式分別減持不超35,250股、72,000股、26,250股、26,250股、32,250股，分別佔總股本的0.009%、0.019%、0.007%、0.007%、0.008%。減持股份均為股權激勵授予且已歸屬股份。本次減持不會導致公司控制權變更。"
+    },
+    {
+      "id": "4992394",
+      "time": "2026-07-16 20:29:04",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利預計DRAM合約價增速預計在2026年四季度見頂】摩根士丹利預計DRAM合約價增速預計在2026年四季度見頂，隨後同比增速可能出現大幅下降，也就是再像之前那樣出現一年漲四倍的情況很難了，而儲存公司的估值（未來12個月預期市淨率）有待重估。"
+    },
+    {
+      "id": "4992393",
+      "time": "2026-07-16 20:28:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智微智慧將同步上市基於NVIDIA Jetson T3000 /T2000模組的產品矩陣】7月16日，NVIDIA釋出基於Blackwell架構的新一代Jetson T2000與T3000模組，旨在為下一代機器人及具身智慧系統提供強大、緊湊且高效的AI算力基座。作為NVIDIA優先順序合作伙伴，智微智慧將全面支援NVIDIA Jetson T3000 和T2000模組的應用開發，並計劃於2027年第一季度與NVIDIA同步上市相應產品和解決方案。"
+    },
+    {
+      "id": "mkt:019f6ae6-4238-7aab-8dc7-b74ece55bd69",
+      "time": "2026-07-16 20:28:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "09868.HK",
+        "Impact bullish"
+      ],
+      "text": "XPeng Inc. (09868.HK) said it will start mass production of its first flying car this year; the vehicle has received more than 7,000 orders."
+    },
+    {
+      "id": "4992392",
+      "time": "2026-07-16 20:28:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Sharon AI簽署13.2億美元AI雲端計算合同，總簽約GPU部署規模升至6.2萬塊】澳大利亞AI雲服務商SharonAI Holdings當地時間7月16日宣佈，與一家全球人工智慧實驗室簽署一份為期五年、總價值13.2億美元的雲端計算服務協議。根據協議，公司將在紐西蘭資料中心部署雲端計算解決方案，相關收入預計自2027年第一季度至第二季度開始確認。Sharon AI表示，目前公司AI Factory總容量為132兆瓦，其中116兆瓦已簽約給終端客戶，預計到2027年年中部署超過6.2萬塊英偉達GPU。"
+    },
+    {
+      "id": "4992391",
+      "time": "2026-07-16 20:27:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "小鵬汽車：飛行汽車已收穫超過7000個訂單，並將在今年實現首款產品量產，推動低空出行從概念走向現實。"
+    },
+    {
+      "id": "4992390",
+      "time": "2026-07-16 20:27:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "小鵬汽車：小鵬全球累計銷量突破120萬臺。"
+    },
+    {
+      "id": "4992389",
+      "time": "2026-07-16 20:27:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破86美元/桶，日內漲1.25%。"
+    },
+    {
+      "id": "4992388",
+      "time": "2026-07-16 20:27:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【北部灣港首次開通至約旦亞喀巴港滾裝航線 單航次發運量創歷史新高】7月16日5時，廣西北部灣港首次開通至約旦亞喀巴港滾裝航線，2600多輛中國國產汽車統一發運。據瞭解，此次發運進一步織密廣西北部灣港通往中東地區的海上物流通道，發運量創下北部灣港滾裝航線單航次歷史新高。（央視新聞）"
+    },
+    {
+      "id": "4992387",
+      "time": "2026-07-16 20:26:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【奇安信與哈薩克人工智慧和數字發展部簽署合作備忘錄】7月16日，哈薩克-中國高科技企業圓桌會議在上海舉行，哈薩克總統託卡耶夫出席了此次圓桌會議。奇安信集團董事長齊向東作為中方高科技企業代表受邀出席會議，並與哈薩克共和國副總理兼人工智慧和數字發展部部長馬季耶夫共同簽署《奇安信集團與哈薩克共和國人工智慧和數字發展部關於網路安全與網路空間合作諒解備忘錄》。雙方將圍繞網路安全風險資訊共享、網路安全事件聯合響應、人工智慧安全實驗室建設等領域開展深度合作。"
+    },
+    {
+      "id": "4992386",
+      "time": "2026-07-16 20:26:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相斯塔默：我擔任首相期間曾四次到訪烏克蘭。英國對烏克蘭的支援永遠不會動搖。"
+    },
+    {
+      "id": "mkt:019f6ae4-b16e-7aab-8dc7-aa6085f70526",
+      "time": "2026-07-16 20:26:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude reached $80.00 per barrel, up 0.35% intraday."
+    },
+    {
+      "id": "4992385",
+      "time": "2026-07-16 20:26:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用電氣航空執行長：我們不存在需求問題。"
+    },
+    {
+      "id": "4992384",
+      "time": "2026-07-16 20:25:53",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一，道指期貨漲0.17%，標普500指數期貨跌0.26%，納指期貨跌0.93%。\n②德國DAX指數跌0.90%，英國富時100指數跌0.19%，法國CAC40指數跌0.83%，歐洲斯托克50指數跌0.56%。\n③WTI原油漲0.18%，報79.74美元/桶。布倫特原油跌0.08%，報84.88美元/桶。\n④韓國央行三年半來首次加息：AI晶片熱潮驅動政策轉向，緊縮週期開啟。\n⑤IEA署長髮出“數週”最後通牒：霍爾木茲海峽若持續關閉，全球經濟將面臨新衝擊。\n⑥繼上週釋放本土投資訊號後，日本財長稱經濟增長或支援GPIF重新評估資產配置。\n⑦百度美股盤前最高漲至4%，百度釋出公告稱，公司董事會已授權管理層推進在香港聯交所主機板自願轉換為主要上市，預計於今年內生效。\n⑧小鵬集團盤前漲近4%，據報擬於明年在全球推出人形機器人。\n⑨谷歌盤前續漲近2%，巴菲特在最新的訪談中坦言自己早年沒能投資Alphabet是一大失誤。"
+    },
+    {
+      "id": "te:economy:567550",
+      "time": "2026-07-16 20:25:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Housing Starts",
+        "Importance 1"
+      ],
+      "text": "Canada Housing Starts Drop in June — Housing starts in Canada declined 6% from the previous month to a seasonally adjust annual rate of 239 thousand units in June 2026, compared to a downwardly revised 253 thousand units in May and falling short of markets expectations of 258 thousand units. The number of building permits fell 1.1% compared to the previous month, while units under construction in centers with a population above 50 thousand was flat, edging up 0.2% over the month to 375,469 units. Meanwhile, completed contructions totalled 18,298 units, up 8.4% compared to May. By region, Vancouver recorded the last decrease, by 35%, due to lower multi-unit and single-detached starts. In contrast, the largest increase was recorded in Toronto, up 25%, due to higher multi-unit starts, followed by Montreal (10%)."
+    },
+    {
+      "id": "4992383",
+      "time": "2026-07-16 20:25:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報85.84美元/桶。"
+    },
     {
       "id": "4992381",
       "time": "2026-07-16 20:23:21",
