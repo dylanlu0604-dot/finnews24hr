@@ -1,7 +1,267 @@
 {
-  "updated": "2026-07-17 07:02:43",
-  "count": 18794,
+  "updated": "2026-07-17 07:06:39",
+  "count": 18812,
   "items": [
+    {
+      "id": "4993029",
+      "time": "2026-07-17 07:06:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新突破 中國企業釋出全球最大規模的開源模型Kimi K3】2026世界人工智慧大會暨人工智慧全球治理高階別會議即將舉行之際，新一代模型Kimi K3於16日釋出，引數規模達2.8萬億。這是目前全球引數最大的開源模型，標誌著我國人工智慧模型發展邁出新的一步。釋出模型的北京月之暗面科技有限公司介紹，Kimi K3原生支援視覺理解，具備100萬詞元上下文視窗，面向軟體工程、知識工作、深度研究、多模態理解等複雜任務場景進行最佳化，進一步提升了大模型複雜任務的處理能力。（新華社）"
+    },
+    {
+      "id": "4993026",
+      "time": "2026-07-17 07:04:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【IEA：若未來幾周霍爾木茲局勢沒有改善，全球能源安全堪憂】國際能源署(IEA)署長比羅爾(Fatih Birol)週四表示，如果美國和伊朗不能儘快努力改善霍爾木茲海峽的石油運輸狀況，全球應為能源安全感到擔憂。“石油安全仍然是一個關鍵問題，”比羅爾在外交關係委員會的一次活動中表示。“如果未來幾周局勢沒有好轉，我們應該感到擔憂，我也會感到擔心。”"
+    },
+    {
+      "id": "4993025",
+      "time": "2026-07-17 07:03:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國週四襲擊了伊朗境內多座橋樑。"
+    },
+    {
+      "id": "mkt:019f6d2b-b016-7aab-8dd2-e10e9fe67872",
+      "time": "2026-07-17 07:03:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Vice Chair Jefferson said that if demand from AI infrastructure build-out and consumption precedes AI-driven productivity gains, AI could exert upward pressure on inflation."
+    },
+    {
+      "id": "mkt:019f6d2b-a86a-7aab-8dd2-ddc5452c09d1",
+      "time": "2026-07-17 07:03:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Fed vice chair Jefferson said if AI-driven productivity gains reduce production costs sooner, inflation could come under downward pressure."
+    },
+    {
+      "id": "em:qqyh_mlc:202607173809479414",
+      "time": "2026-07-17 07:02:40",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "美聯儲JEFFERSON稱，堅定致力於將通脹恢復到2%。"
+    },
+    {
+      "id": "4993024",
+      "time": "2026-07-17 07:02:36",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 能源衝擊與貿易政策衝擊疊加，二者至少在短期內對產出和物價造成了影響。"
+    },
+    {
+      "id": "mkt:019f6d2a-d566-7aab-8dd2-d66d07207c9c",
+      "time": "2026-07-17 07:02:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US Economy"
+      ],
+      "text": "Fed Vice Chair Jefferson said economic shocks from AI could have persistent effects on supply and demand."
+    },
+    {
+      "id": "mkt:019f6d2a-c592-7aab-8dd2-c848e4a5a324",
+      "time": "2026-07-17 07:02:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fed Vice Chair JEFFERSON warned that a series of rapid shocks could entrench inf and unanchor inf expectations."
+    },
+    {
+      "id": "4993023",
+      "time": "2026-07-17 07:02:19",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：人工智慧引發的經濟衝擊或將對供需形成持續性影響， 接連不斷的各類衝擊存在通脹固化、通脹預期脫錨的風險。"
+    },
+    {
+      "id": "mkt:019f6d2a-9325-7aab-8dd2-c371fcea39e7",
+      "time": "2026-07-17 07:02:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Vice Chair Jefferson said the current situation reflects a policy dilemma, with tension between the Federal Reserve's dual-mandate objectives."
+    },
+    {
+      "id": "mkt:019f6d2a-8ee5-7aab-8dd2-b9333b092d3c",
+      "time": "2026-07-17 07:02:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Vice Chair Jefferson said policymakers should not view individual factors in isolation and must consider the overall economy when setting policy."
+    },
+    {
+      "id": "mkt:019f6d2a-6bed-7aab-8dd2-b30cef3866f8",
+      "time": "2026-07-17 07:02:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Fed Vice Chair JEFFERSON expects the Middle East conflict's impact on oil demand to be limited, noting the US is a net oil exporter and the economy is less oil-dependent."
+    },
+    {
+      "id": "mkt:019f6d2a-517b-7aab-8dd2-a859bbd2a9b6",
+      "time": "2026-07-17 07:01:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed Vice Chair Jefferson said he is monitoring developments in the Middle East conflict and the spread of AI."
+    },
+    {
+      "id": "4993022",
+      "time": "2026-07-17 07:01:55",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜：結合最新經濟資料、前景變化及各類風險權衡，當前貨幣政策具備充足調整應對空間。 倘若人工智慧帶來的生產率紅利能更快降低生產成本，通脹或將面臨下行壓力。"
+    },
+    {
+      "id": "mkt:019f6d29-edc6-7aab-8dd2-a43714e9de31",
+      "time": "2026-07-17 07:01:32",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed Vice Chair Jefferson said the current policy stance can respond effectively to incoming data, a changing outlook and evolving risks."
+    },
+    {
+      "id": "4993021",
+      "time": "2026-07-17 07:01:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 預計中東衝突對需求影響有限，美國現為石油淨出口國，經濟原油消耗強度已有所下降。"
+    },
+    {
+      "id": "4993020",
+      "time": "2026-07-17 07:01:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 目前重點關注兩大關鍵事態 —— 中東衝突、人工智慧規模化普及。"
+    },
+    {
+      "id": "mkt:019f6d29-ac0a-7aab-8dd2-9e83db128505",
+      "time": "2026-07-17 07:01:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve Vice Chair Jefferson said the Fed is firmly committed to bringing inflation back to the 2% target, consistent with its dual mandate."
+    },
+    {
+      "id": "mkt:019f6d29-aa33-7aab-8dd2-96f782298c1b",
+      "time": "2026-07-17 07:01:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "Fed Vice Chair Jefferson said if inflation fails to begin cooling, policymakers may need to reassess their policy stance to ensure price stability."
+    },
+    {
+      "id": "4993019",
+      "time": "2026-07-17 07:01:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 當前形勢凸顯出政策困境，兩大法定使命目標之間存在矛盾衝突。"
+    },
+    {
+      "id": "mkt:019f6d29-5b46-7aab-8dd2-8fd0215ace13",
+      "time": "2026-07-17 07:00:54",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed Vice Chair JEFFERSON said the current policy stance should support the labor market and, as tariff effects and energy-price pass-through evolve, bring inf back onto a trajectory toward 2%."
+    },
+    {
+      "id": "4993018",
+      "time": "2026-07-17 07:00:52",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 制定政策時不能孤立看待單一指標，必須綜合考量整體經濟形勢。"
+    },
+    {
+      "id": "4993017",
+      "time": "2026-07-17 07:00:40",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 若通脹未能顯現降溫跡象，我們或將重新評估貨幣政策立場，以確保實現物價穩定目標。"
+    },
     {
       "id": "4993016",
       "time": "2026-07-17 07:00:31",
@@ -172808,56 +173068,6 @@
         "國際"
       ],
       "text": "【7月10日隔夜要聞一覽】\n1、一名美國官員表示，在伊朗問題上美國仍致力於尋求解決方案，相關技術談判仍在繼續。\n2、以色列總理辦公室發表宣告稱，以總理內塔尼亞胡當晚與美國總統特朗普通電話，雙方商定將繼續在各個領域保持兩國間的政策協調。\n3、總部位於英國的溫沃德海事分析公司9日釋出報告說，由於美伊持續交火，霍爾木茲海峽通航量急劇下降，經海峽駛離波斯灣的商船交通基本陷入停滯。\n4、據伊朗邁赫爾通訊社報道，當地時間7月9日晚，伊朗多地接連傳出爆炸聲，包括南部沿海城市布什爾、喬加達克和阿巴斯港，以及東南部沿海城市科納拉克。\n5、當地時間9日，英國工黨黨魁選舉首日，安迪·伯納姆獲得403名工黨議員中322人的提名，已基本鎖定黨魁職位，並有望接任英國首相。\n6、以色列總理內塔尼亞胡當地時間9日表示，無論美國和伊朗是否達成協議，以色列都“不允許”伊朗獲得核武器。同時，以色列計劃未來10年提高國防預算，著力發展空軍和本土軍工產業。\n7、在完成相關調查後，美國決定暫不對商用飛機、噴氣式發動機及其零部件加徵關稅，美國總統特朗普轉而指示政府與貿易伙伴展開談判，以調整此類產品的進口事宜。\n8、SK海力士透過美國存托股份（ADS）發行募資265億美元，以每份149美元發行1.779億份ADS，預計將於7月10日在納斯達克開始交易。\n9、美聯儲主席凱文·沃什公佈了五個工作組的負責人名單。這些工作組將審視美聯儲在政策制定關鍵領域的做法，並可能推動大範圍改革。工作組負責人包括知名學者、前央行官員和企業高管。\n10、Meta 釋出了其最先進人工智慧模型Muse Spark 1.1，並首次面向開發者推出付費版本。扎克伯格還否認Meta算力過剩，稱發展雲業務具商業潛力。\n11、OpenAI正式推出GPT-5.6全系列模型，全面開放可用，Gpt-5.6模型按每百萬Token計費，覆蓋3種模型規格，Sol每百萬輸入/輸出token收費5美元/30美元，Terra為2.50美元/15美元，Luna為1美元/6美元。"
-    },
-    {
-      "id": "4979828",
-      "time": "2026-07-10 07:06:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK海力士募資265億美元，重新整理外國企業赴美IPO紀錄】當地時間7月9日，SK海力士透過美國存托股份（ADS）發行募資265億美元，成為外國企業在美國規模最大的首次公開募股。SK海力士以每份149美元發行1.779億份ADS，ADS將於7月10日在納斯達克開始交易，程式碼為“SKHYV”。"
-    },
-    {
-      "id": "4979827",
-      "time": "2026-07-10 07:05:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受高溫影響，英國零售業依然承壓】週五釋出的一份報告顯示，由於高溫導致許多購物者閉門不出，英國6月份零售額出現下滑。英國零售商協會和零售技術公司Sensormatic的最新報告顯示，在5月31日至7月5日的五週內，英國總客流量同比下降3.4%。英國零售商協會執行長Helen Dickinson表示：“商業街的客流量降幅最大，而有空調的購物中心和零售園區則表現出更強的韌性。“報告稱，加上熱浪的影響，消費者信心依然低迷，同時更廣泛的地緣政治和經濟不確定性繼續拖累非必需消費品支出。"
-    },
-    {
-      "id": "4979826",
-      "time": "2026-07-10 07:04:03",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：\n1、國務院印發《“十五五”碳達峰行動方案》\n2、上半年新能源汽車出口同比增長1.2倍\n3、超算登頂的“創新密碼”（微觀）\n4、落實落細各項任務，確保如期實現碳達峰目標——國家發展改革委有關負責同志就《“十五五”碳達峰行動方案》答記者問\n5、《人力資源和社會保障事業發展“十五五”規劃》印發 提出5類18項量化指標\n6、培育新質生產力、推進高水平開放、構築現代化產業生態 廣東民營經濟發展活力足（經濟聚焦）\n7、截至目前，民營企業再貸款餘額約七千億元 再貸款政策賦能中小微企業（讀數）\n8、暑期水路出行預計日均傳送旅客二百二十萬人次 海事部門提醒水上出行出遊安全（服務窗）\n9、中老鐵路跨境貨物運輸突破2000萬噸。"
-    },
-    {
-      "id": "4979825",
-      "time": "2026-07-10 07:03:53",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "今天《人民日報》頭版的主要內容有：\n1、習近平對福建泉州晉江市一鞋廠火災事故作出重要指示強調 深入排查整治各類風險隱患 抓實抓細安全生產措施落實 堅決防止重特大事故發生 李強作出批示\n2、紮紮實實以科技創新支撐和引領中國式現代化——論學習貫徹習近平總書記在國家科學技術獎勵大會、兩院院士大會、中國科協十一大上重要講話\n3、中共中央辦公廳、國務院辦公廳 印發《關於全力做好防汛抗旱工作的通知》\n4、李強會見奈米比亞總統恩代特瓦\n5、丁薛祥在兩院院士大會第二次全體會議上強調 全力抓好黨中央關於科技事業各項部署的落實 加快推進高水平科技自立自強\n6、乘風破浪 向海圖強——寫在第二十二個中國航海日之際\n7、河南安陽林州市把紅色基因轉化為實幹動能——發揚紅旗渠精神 推進鄉村全面振興（牢記初心使命 奮進復興征程）。"
-    },
-    {
-      "id": "4979824",
-      "time": "2026-07-10 07:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI釋出ChatGPT Work：搭載GPT-5.6的工作Agent】當地時間7月9日，OpenAI推出全新企業級功能——ChatGPT Work。作為ChatGPT的全新智慧代理（Agent），該功能由前沿模型GPT-5.6驅動。不同於即時對話，ChatGPTWork專為多步驟的複雜專案設計。使用者只需輸入終極目標，它便能自主拆解任務、制定計劃、提取連線工具中的上下文，並自動生成文件、表格或簡報。同時，同步上線的ChatGPT Sites功能支援將想法或資料一鍵生成輕量化協作網站。目前，該功能已在macOS和Windows桌面端上線，並正向Plus、Enterprise等付費方案使用者分批推出，使用者和企業管理層在執行過程中仍享有絕對控制權與審批權。"
-    },
-    {
-      "id": "mkt:019f491e-b7a3-7aab-8d22-3d2b22b4df0a",
-      "time": "2026-07-10 07:02:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Wall Street Journal reports OpenAI executive Fidji Simo is resigning and will become a part-time advisor to the company."
     }
   ]
 }
