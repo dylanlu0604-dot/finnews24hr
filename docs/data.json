@@ -1,7 +1,231 @@
 {
-  "updated": "2026-07-16 15:28:11",
-  "count": 18786,
+  "updated": "2026-07-16 15:32:17",
+  "count": 18798,
   "items": [
+    {
+      "id": "4991693",
+      "time": "2026-07-16 15:31:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：必要時更願意進行干預。"
+    },
+    {
+      "id": "te:markets:567465",
+      "time": "2026-07-16 15:31:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.17% Lower — The DAX Index is falling 43 points. Losses were driven by Scout24 (-1.61%), Qiagen NV (-1.34%) and Hannover Rueck (-1.20%). Biggest rises came from BASF (0.60%), Deutsche Bank (0.45%) and HeidelbergCement (0.43%)."
+    },
+    {
+      "id": "4991692",
+      "time": "2026-07-16 15:30:59",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：貨幣環境適宜。"
+    },
+    {
+      "id": "4991691",
+      "time": "2026-07-16 15:30:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國經濟實現增長 服務業無視能源和政治動盪】英國經濟5月意外實現了增長，這表明面對政治動盪和能源價格上漲，消費者和企業的韌性比預期的更強。英國國家統計局週四表示，5月份國內生產總值上升了0.1%，4月份曾下降0.1%。經濟學家此前預計該資料將持平。受醫療科學研發領域以及零售業表現強勁的推動，5月服務業環比增長0.3%，溫暖的天氣促使消費者前往商店購物。與此同時，建築業下降0.8%，工業生產下降0.5%，原因是製造業的小幅增長被能源和公用事業產出的下降所抵消。在經濟夾在政治風波和能源危機之間的背景下，整體經濟出現了溫和改善。"
+    },
+    {
+      "id": "mkt:019f69d5-dc34-7aab-8dc0-6c40b5b30e82",
+      "time": "2026-07-16 15:30:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Blue House said the National Security Council met with economic and foreign affairs officials to discuss US-related trade and security issues."
+    },
+    {
+      "id": "4991690",
+      "time": "2026-07-16 15:30:49",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞士央行：通脹壓力基本保持不變。"
+    },
+    {
+      "id": "mkt:019f69d5-ccbf-7aab-8dc0-60c7e7749ffa",
+      "time": "2026-07-16 15:30:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign Ministry: resolutely opposes U.S. National Endowment for Democracy for stoking 'China threat'】Spokesman Lin Jian said at a regular briefing the report by the U.S. National Endowment for Democracy is full of lies and falsehoods, deliberately fabricates a narrative of \"authoritarian expansion\", smears China’s foreign exchanges and international cooperation, and stokes the \"China threat\" narrative. China resolutely opposes the report, accused the group of acting in bad faith, and urged relevant U.S. institutions and individuals to correct their perception of China, abandon prejudice and stop political manipulation."
+    },
+    {
+      "id": "4991689",
+      "time": "2026-07-16 15:30:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "青瓦臺：韓國國家安全委員會與經濟、外交官員就對美貿易及安全議題召開會議。"
+    },
+    {
+      "id": "4991688",
+      "time": "2026-07-16 15:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威電信（Telenor）股價延續跌勢，當前累計跌幅達10.3%，正創下2008年10月以來最大單日跌幅。"
+    },
+    {
+      "id": "4991687",
+      "time": "2026-07-16 15:30:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中方將繼續堅定支援古巴反對外來干涉】針對有報道稱美國國防部高階官員近期研究了對古巴發動軍事行動的可能性，外交部發言人林劍16日在例行記者會上答問時表示，美方應立即停止對古巴的武力威脅和任何形式的封鎖。中方將繼續堅定支援古巴維護國家主權，反對外來干涉。（新華社）"
+    },
+    {
+      "id": "mkt:019f69d5-3927-7aab-8dc0-5b69e8a1d7b4",
+      "time": "2026-07-16 15:30:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Foreign Ministry says it will continue to firmly support Cuba against foreign interference】China's Foreign Ministry spokesman Lin Jian said on the 16th that, responding to reports senior PENTAGON officials recently studied the possibility of military action against Cuba, the US should immediately cease threats of force and any blockade. China will continue to firmly support Cuba in defending its sovereignty and oppose external interference."
+    },
+    {
+      "id": "mkt:019f69d5-2985-7aab-8dc0-5663b6f04254",
+      "time": "2026-07-16 15:30:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【South Korea to suspend new single-stock leveraged ETF listings; initial margin tripled to 30 mln won】Korea's Financial Services Commission will suspend listings of new single-stock leveraged ETFs and ban related advertising as a risk-control step targeting products tied to Samsung Electronics and SK Hynix. Initial margin for these ETFs will rise from 10 mln won to 30 mln won, effective in August; only cash will count as margin and non-cash collateral (e.g. government bonds) will no longer be accepted. The FSC will tighten securities firms' ETF premium/discount management standard from 3% to 2%. Investor education requirements will increase from 2 to 3 hours, and the minimum trading unit for single-stock leveraged products will be temporarily raised from 1 to 20 units."
+    },
+    {
+      "id": "te:markets:567463",
+      "time": "2026-07-16 15:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.24% Lower — The CAC 40 Index is dropping 20 points. Leading the losses are STMicroelectronics (-4.96%), TP (-3.55%) and TotalEnergies SE (-1.46%). Top gainers were Publicis (1.33%), Capgemini (0.82%) and ArcelorMittal (0.53%)."
+    },
+    {
+      "id": "4991686",
+      "time": "2026-07-16 15:29:59",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國擬暫停個股槓桿ETF新產品上市 基本保證金提升三倍至3000萬韓元】綜合韓聯社等韓國媒體報道，韓國金融委員會今日表示，作為針對三星電子和SK海力士個股槓桿型ETF風險的補充措施，監管部門將暫停此類新產品上市，並禁止相關廣告宣傳。此外，投資此類產品所需的基本保證金將由現行的1000萬韓元提高至3000萬韓元，僅現金可計入基本保證金，除現金以外的可替代擔保證券（如國債等）將不再計入保證金範圍。提高基本保證金要求的措施計劃於8月實施。監管部門還將加強對ETF溢折價率的管理，將證券公司對溢折價率的管理標準將由目前的3%收緊至2%，此外，投資個股槓桿產品所需完成的投資者教育時間將由目前的2小時延長至3小時。監管部門還計劃將個股槓桿產品最小交易單位由目前的1份暫時提高至20份。"
+    },
+    {
+      "id": "4991685",
+      "time": "2026-07-16 15:29:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東：推出京麥AI經營中心】7月16日，據京東黑板報訊息，京東日前宣佈正式推出京麥AI經營中心，並向商家全量開放22款核心AI工具。京東京麥相關負責人表示，京麥AI經營中心是京東專為商家打造的一站式AI經營聚合平臺。目前，京麥AI經營中心首期功能已全面上線。"
+    },
+    {
+      "id": "4991684",
+      "time": "2026-07-16 15:29:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：所謂“朝貢體系”的論調，不過是西方國家用自身霸權的邏輯，映象中國外交的偽命題】7月16日，外交部發言人林劍主持例行記者會。 有記者提問，我們注意到，近期一些西方媒體和學者在評論中國外交政策時，丟擲所謂“朝貢體系”的新概念，稱亞洲正處於向“朝貢體系”式秩序轉變的早期階段，“中國透過經濟與技術力量重塑預期，以實現不戰而屈人之兵”。同時也有觀點認為，這是西方從傳統地緣政治思維出發得出的扭曲結論，是編造“中國威脅論”的又一個新標籤。請問發言人對此怎麼看？ 林劍表示，所謂“朝貢體系”的論調，不過是西方國家用自身霸權的邏輯，映象中國外交的偽命題，無視中華文明和而不同的歷史基因，曲解當代中國外交平等相待核心底色，更背離國際關係基本準則，不符合中國同亞洲乃至世界各國交流合作的現實。 林劍指出，中國從不認同國強必霸。我們追求的從來不是威懾他國的霸權，而是和衷共濟的智慧和天下大同的願景。國與國無論大小一律平等，正確的相處之道在於相互成就，而不是單向依附。中國外交始終錨定相互尊重、公平正義、合作共贏，進行真正的多邊主義，致力於推動構建人類命運共同體。 “我們也一以貫之秉持睦鄰安鄰富鄰、親誠惠容、命運與共的周邊外交理念方針，是地區安全的穩定錨、發展繁榮的發動機。中方將同各方共同努力，繼續為亞洲和世界的和平穩定與發展繁榮注入更多確定性。”林劍說。"
+    },
+    {
+      "id": "4991683",
+      "time": "2026-07-16 15:29:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中方反對美方炮製報告抹黑中國】7月16日，外交部發言人林劍主持例行記者會。 有記者提問，7月15日，美國國家民主基金會召開釋出會推介及撰寫的“報告”，試探“極限中國與俄羅斯在有罪不罰新時代下的權威影響力”。請問中方對此有何評論？ 林劍指出，美國國家民主基金會炮製釋出的所謂“報告”充斥謊言謬論和虛假資訊，蓄意捏造渲染所謂“威權擴張”的敘事，詆譭抹黑中國對外交往和國際合作，翻炒“中國威脅論”，居心叵測、行為惡劣，中方對此堅決反對。 林劍表示，長期以來，美國國家民主基金會打著促進民主的幌子，顛覆他國政權，干涉別國內政，煽動分裂對抗，蠱惑干擾輿論，實施思想滲透，造成深重危害，早已劣跡斑斑，臭名昭著，為國際社會所不恥。 林劍強調，中國始終堅持在和平共處五項原則基礎上，同世界各國發展友好合作，堅持同世界共享發展機遇，維護國際公平正義，被公認為世界和平的建設者、全球發展的貢獻者、國際秩序的維護者。“我們敦促美國有關機構和個人端正對華認知，摒棄偏見傲慢，停止政治操弄，多關心自己國家的事。”（北京日報）"
+    },
+    {
+      "id": "4991682",
+      "time": "2026-07-16 15:28:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部談颱風“美莎克”和“巴威”影響：目前全國生活必需品市場總體供應充足】7月16日，商務部舉行例行新聞釋出會。商務部新聞發言人何亞東回應了我國多地受颱風“美莎克”和“巴威”影響下的生活必需品保供情況。他說，目前全國生活必需品市場總體供應充足，全國商務系統將持續緊盯市場供應形勢，加大貨源組織的力度，做好調運支援的準備，切實保障市場的平穩執行。（澎湃新聞）"
+    },
+    {
+      "id": "4991681",
+      "time": "2026-07-16 15:28:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度宣佈競選2028-2029年度安理會非常任理事國，外交部回應】7月16日，外交部發言人林劍主持例行記者會。印報託記者提問，印度宣佈將競選2028-2029年度聯合國安理會非常任理事國席位，並就此向聯合國各國外交官發表了演講。中國如何看待印度的這一競選意向？是否會予以支援？對此，林劍表示：“中方注意到了有關報道。”（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019f69d3-b629-7aab-8dc0-480388d838b1",
+      "time": "2026-07-16 15:28:30",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Ukraine's military said it struck six Russian oil tankers and two tugboats in the Black Sea and Sea of Azov."
+    },
+    {
+      "id": "mkt:019f69d3-af67-7aab-8dc0-416328ab136e",
+      "time": "2026-07-16 15:28:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China foreign ministry opposes tech blockades, backs AI cooperation ahead of Shanghai conference】China's foreign ministry said it opposes ideological divisions and technology blockades, and aims to balance development with security in artificial intelligence, offering to share experience to lift global AI innovation. The 2026 World Artificial Intelligence Conference and high-level meeting on global AI governance opens in Shanghai on July 17; China said it will use the event to build consensus, expand AI benefits to developing countries and ensure technological progress supports global development and prosperity."
+    },
+    {
+      "id": "4991680",
+      "time": "2026-07-16 15:28:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "荷蘭國際集團將阿斯麥目標價從1700歐元上調至2000歐元。"
+    },
+    {
+      "id": "4991679",
+      "time": "2026-07-16 15:28:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭軍方稱，昨夜在黑海和亞速海襲擊了六艘俄羅斯油輪和兩艘拖船。"
+    },
+    {
+      "id": "4991678",
+      "time": "2026-07-16 15:27:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：讓技術進步真正促進人類社會的發展繁榮】7月16日，外交部發言人林劍主持例行記者會。總檯央視記者就2026世界人工智慧大會暨人工智慧全球治理高階別會議提問。林劍表示，人工智慧的發展關乎全人類的共同福祉。中方反對以意識形態劃線和技術封鎖，致力於統籌發展與安全，願同各方分享經驗，提升全球人工智慧創新發展水平。林劍指出，明天，2026世界人工智慧大會暨人工智慧全球治理高階別會議將在上海開幕。中方將以本次大會為契機，同各方坦誠交流、凝聚共識，讓智慧時代的紅利更多惠及發展中國家，讓技術進步真正促進人類社會的發展繁榮。"
+    },
+    {
+      "id": "4991677",
+      "time": "2026-07-16 15:27:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部回應駐巴新臺北經濟辦事處關閉】今天，外交部發言人林劍主持例行記者會。有記者提問，據報道，7月15日，巴布亞紐幾內亞政府宣佈關閉駐巴新臺北經濟辦事處。對此，林劍表示，巴布亞紐幾內亞政府決定關閉駐巴新臺北經濟辦事處，中方對此表示高度讚賞，這再次表明堅持一箇中國原則是國際社會人心所向、大勢所趨。中方願同巴新方繼續在涉及彼此核心利益問題上，堅定相互支援，共同推進兩國全面戰略伙伴關係向前發展。（央視新聞）"
+    },
     {
       "id": "4991676",
       "time": "2026-07-16 15:26:52",
@@ -172537,122 +172761,6 @@
         "國際"
       ],
       "text": "【外交部：美方應立即停止對古巴封鎖制裁】7月9日，外交部發言人毛寧主持例行記者會。當地時間7月7日，聯合國大會以壓倒性多數決定繼續就“必須終止美國對古巴的經濟、商業和金融封鎖”舉行辯論，結果為136票贊成，30票棄權，美國等9國投下反對票。請問中方對此有何評論？毛寧表示，過去60多年來，美國對古巴封鎖制裁，近來還一再升級相關舉措、製造能源危機，嚴重違反《聯合國憲章》宗旨和原則等國際關係基本準則，嚴重侵犯古巴的生存權和發展權，給古巴人民造成深重災難。“美方應當認真傾聽國際社會的正義呼聲，立即停止對古巴的封鎖制裁和任何形式的脅迫施壓、軍事威脅。中方願同國際社會一道，堅決捍衛國際公平正義，堅定支援古巴維護國家主權和尊嚴、反對外來干涉。”毛寧說。（北京日報）"
-    },
-    {
-      "id": "te:markets:565599",
-      "time": "2026-07-09 15:32:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.39% Lower — The FTSE 100 Index is losing 41 points. Losses were led by AstraZeneca (-8.81%), BP (-1.41%) and Coca-Cola Europacific Partners (-1.31%). Offsetting the fall, top gainers were Computacenter (12.43%), Antofagasta (3.63%) and Anglo American (3.02%)."
-    },
-    {
-      "id": "4978449",
-      "time": "2026-07-09 15:31:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【紐西蘭總理稱將致力於加入澳斐新軍事聯盟，中方表態】7月9日，外交部發言人毛寧主持例行記者會。 彭博社記者提問，紐西蘭總理表示，紐西蘭將致力於加入本週澳大利亞與斐濟之間簽署的一項新軍事聯盟。外交部對此有何評論？ 毛寧表示，中方始終認為應當堅持共同安全、綜合安全、合作安全，國與國之間的安全合作應當開放包容，真正有利於維護地區的和平與穩定。（北京日報）"
-    },
-    {
-      "id": "te:markets:565597",
-      "time": "2026-07-09 15:31:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.53% Higher — The DAX Index is up by 132 points or 0.53 percent on Thursday. Top gainers are Infineon (2.89%), Siemens (2.22%) and Bayer (2.18%). Biggest losses came from Deutsche Telekom (-1.84%), Rheinmetall (-1.45%) and Beiersdorf (-0.99%)."
-    },
-    {
-      "id": "4978448",
-      "time": "2026-07-09 15:30:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國皇家郵政：因一項必要的技術升級，客戶支援服務將於7月11日下午3點至7月13日上午8點暫停運營。"
-    },
-    {
-      "id": "4978447",
-      "time": "2026-07-09 15:30:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【378項兩岸共通標準落地 助力產業融合發展】今天（7月9日）上午，國家市場監督管理總局召開新聞釋出會，介紹海峽兩岸融合發展最新情況。國家市場監督管理總局標準創新司司長魏宏表示，兩年多來，兩岸產學研企各相關方聚焦產業和經貿發展需求，共同研製實施兩岸共通標準達378項，涉及特色農產品、現代服務業、食品、新能源、文化旅遊等多個領域。（央視新聞）"
-    },
-    {
-      "id": "4978446",
-      "time": "2026-07-09 15:30:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北約峰會關切中國軍事活動，外交部：北約應端正對華認知】7月9日，外交部發言人毛寧主持例行記者會。有外媒記者提問，在近期舉行的北約峰會上，各方就中國在技術、軍事活動以及與俄羅斯關係方面的問題提出了安全關切。中方對此有何回應？毛寧表示，北約的定位是區域性防禦性聯盟，具有明確的職責範圍和地理界限，不要總是拿中國說事兒。毛寧強調，中國始終是世界的和平力量，從未威脅任何國家，更不會對歐洲大西洋地區的安全構成挑戰。北約應當摒棄冷戰思維，端正對華認知，停止渲染中國威脅。（澎湃新聞）"
-    },
-    {
-      "id": "te:markets:565596",
-      "time": "2026-07-09 15:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Opens 0.44% Higher — The CAC 40 Index is gaining 36 points or 0.44 percent on Thursday. Leading the gains are STMicroelectronics (3.53%), Societe Generale (2.57%) and ArcelorMittal (2.31%). Top losers are Capgemini (-2.71%), Pernod Ricard (-1.22%) and Thales (-1.01%)."
-    },
-    {
-      "id": "4978445",
-      "time": "2026-07-09 15:29:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：美對中方導彈試射說三道四 是典型的雙重標準】7月9日，外交部發言人毛寧主持例行記者會，有記者就美國對中方導彈試射言論提問。毛寧表示，正如中方多次強調，這次試射活動是年度軍事訓練的例行安排，旨在驗證有關武器系統的可靠性、安全性和有效性，符合國際法和國際慣例，不針對任何特定的國家和目標。中方及時釋出了相關資訊，事先向美國等進行了通報，體現了中國軍隊的開放和透明。美國作為世界上唯一一個真正用核的國家，也是擁有世界上最龐大、最先進核武庫的國家，對中國正常的導彈發射說三道四，這是典型的雙重標準和霸權主義。（央視新聞）"
-    },
-    {
-      "id": "4978444",
-      "time": "2026-07-09 15:29:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：願以2026世界人工智慧大會為契機推動人工智慧普惠向善】7月9日，外交部發言人毛寧主持例行記者會。有記者就中國與全球南方國家在人工智慧領域合作提問。毛寧表示，中國開源模型大幅降低了人工智慧使用的門檻與成本，有效助力各方特別是發展中國家在智慧浪潮中平等受益。中國將在上海舉辦2026世界人工智慧大會暨人工智慧全球治理高階別會議，我們願意以此次大會為契機，同各方一道共商技術創新，共促成果賦能，共建包容生態，推動人工智慧普惠向善，為全球人工智慧發展注入新的動力。（央視新聞）"
-    },
-    {
-      "id": "4978443",
-      "time": "2026-07-09 15:29:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨：已與美國就“戰斧”巡航導彈的採購與部署達成協議。"
-    },
-    {
-      "id": "4978442",
-      "time": "2026-07-09 15:29:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中方願同朝方一道加強戰略溝通 密切交往合作】7月9日，外交部發言人毛寧主持例行記者會。有記者提問，發言人可否介紹下朝鮮內閣總理樸泰成訪華的背景和中方的期待？毛寧表示，中朝是傳統友好鄰邦，維護好、鞏固好、發展好中朝關係，始終是中國黨和政府堅定不移的戰略方針。今年是《中朝友好合作互助條約》簽訂65週年，雙方商定將共同隆重舉辦紀念活動。中方願同朝方一道，以兩黨、兩國最高領導人重要共識為指引，加強戰略溝通，密切交往合作，推動中朝傳統友好合作關係不斷向前發展。（央視新聞）"
-    },
-    {
-      "id": "4978441",
-      "time": "2026-07-09 15:28:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光等成立化工公司】企查查APP顯示，近日，乳源東鑫化工有限公司成立，法定代表人為鄒建生，註冊資本為1000萬元，經營範圍包含：專用化學產品製造（不含危險化學品）；食品新增劑銷售；食品新增劑生產；消毒劑生產等。企查查股權穿透顯示，該公司由瀘州鑫福化工股份有限公司、東陽光全資子公司乳源東陽光電化廠共同持股。"
-    },
-    {
-      "id": "4978440",
-      "time": "2026-07-09 15:28:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國總理默茨：加拿大潛艇交易將創造1000億歐元價值。"
     }
   ]
 }
