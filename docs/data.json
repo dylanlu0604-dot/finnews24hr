@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-17 04:02:10",
-  "count": 18778,
+  "updated": "2026-07-17 04:06:02",
+  "count": 18780,
   "items": [
+    {
+      "id": "mkt:019f6c88-b781-7aab-8dd0-a728eff0eda6",
+      "time": "2026-07-17 04:05:26",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Netflix (NFLX.O) said it expects third-quarter EPS of $0.82 versus a $0.84 market consensus, and forecasts Q3 revenue of $12.86 bln versus a $13.01 bln consensus."
+    },
+    {
+      "id": "te:economy:567642",
+      "time": "2026-07-17 04:04:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil Yields Rise on New US Tariffs — Brazil's 10-year government bond yield rose to 14.54% in mid-July from 14.43% earlier in the month after the US announced a new 25% tariff on Brazilian imports, effective July 22th. The move fueled concerns that trade tensions could weigh on economic growth, raise uncertainty, and pressure Brazil's fiscal and inflation outlook, prompting investors to demand higher yields. The increase also came amid persistent external risks, including geopolitical tensions and volatility in international oil prices. Meanwhile, the BCB raised its inflation forecast for the fourth quarter of 2027 to 3.7% from 3.5% and highlighted new upside risks, including climate-related pressures on food and energy prices and fiscal stimulus measures that could strengthen domestic demand. At the same time, a rebound in US Treasury yields supported global bond markets."
+    },
+    {
+      "id": "mkt:019f6c87-1e21-7aab-8dd0-9f0b54a7e683",
+      "time": "2026-07-17 04:03:42",
+      "tags": [
+        "MKT News",
+        "NFLX.O"
+      ],
+      "text": "Netflix (NFLX.O) sees FY2026 revenue $51.0–51.4 bln, versus market consensus $51.41 bln."
+    },
+    {
+      "id": "te:markets:567641",
+      "time": "2026-07-17 04:03:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Netflix earnings above expectations at 0.80 USD — Netflix (NFLX) released earnings per share at 0.80 USD, compared to market expectations of 0.79 USD."
+    },
+    {
+      "id": "4992933",
+      "time": "2026-07-17 04:03:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "行業機構北美可可協會（NCA）表示，北美地區第二季度可可研磨量同比增長 7.65%，達 109659 公噸。"
+    },
+    {
+      "id": "mkt:019f6c86-984c-7aab-8dd0-977de0e713ab",
+      "time": "2026-07-17 04:03:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Netflix (NFLX.O) reported Q2 revenue of $12.56 bln, versus $12.59 bln expected."
+    },
+    {
+      "id": "4992932",
+      "time": "2026-07-17 04:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特強調與伊拉克協同行動以制衡伊朗。"
+    },
+    {
+      "id": "4992931",
+      "time": "2026-07-17 04:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛：維持 2026 財年營業利潤率 31.5% 的預期不變。"
+    },
     {
       "id": "mkt:019f6c85-50f1-7aab-8dd0-8992f5f91f24",
       "time": "2026-07-17 04:01:43",
@@ -10,6 +88,14 @@
         "Important"
       ],
       "text": "【US close: major indexes down; SK Hynix ADR falls 13.6%】US stocks closed lower on Thursday: the Nasdaq Composite fell 1.47%, the Dow Jones Industrial Average fell 0.2% and the S&P 500 fell 0.5%. SK Hynix ADR (SKHY.O) dropped 13.6%, SanDisk (SNDK.O) fell 12.6%, Micron Technology (MU.O) fell 5.6%, Google (GOOG.O) fell more than 4% and NVIDIA (NVDA.O) fell more than 2%. The Nasdaq Golden Dragon China Index rose 1.8%; Tencent Music (TME.N) gained 4%."
+    },
+    {
+      "id": "4992930",
+      "time": "2026-07-17 04:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛預計三季度每股收益（EPS）為0.82美元，分析師預期0.84美元。"
     },
     {
       "id": "4992929",
@@ -172573,75 +172659,6 @@
         "MKT News"
       ],
       "text": "【Lagarde says she does not currently intend to run in French presidential race, will continue to speak on Europe】ECB President Christine Lagarde said she does not currently intend to run in next year’s French presidential election but plans to voice her views on Europe’s future during the campaign. She said Europe must be protected and the EU remains an important framework for member states, including France. Lagarde acknowledged prior speculation she might leave the ECB early to enter French politics, but said she would not step down while the central bank faces major challenges."
-    },
-    {
-      "id": "4979725",
-      "time": "2026-07-10 04:05:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "哥倫比亞總統佩特羅重申支援太平洋地區政治過渡程序。"
-    },
-    {
-      "id": "mkt:019f487a-41cc-7aab-8d21-17171e1898f3",
-      "time": "2026-07-10 04:03:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "US equities closed higher on Thursday, July 9: Dow Jones Industrial Average +138.96 pts (+0.27%) to 52,487.35; S&P 500 +60.90 pts (+0.81%) to 7,543.61; Nasdaq Composite +336.24 pts (+1.30%) to 26,206.89."
-    },
-    {
-      "id": "4979724",
-      "time": "2026-07-10 04:03:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國會預算辦公室預估：美國 6 月財政赤字達 1260 億美元。"
-    },
-    {
-      "id": "4979723",
-      "time": "2026-07-10 04:02:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西總統盧拉與哥倫比亞總統佩特羅通電話，商討哥倫比亞國內政局。"
-    },
-    {
-      "id": "mkt:019f4879-944a-7aab-8d21-0e3a58c77cdb",
-      "time": "2026-07-10 04:02:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Microsoft",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "OpenAI said Microsoft will access its models via API to offer GPT-5.6 to Microsoft 365 customers."
-    },
-    {
-      "id": "4979722",
-      "time": "2026-07-10 04:02:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證券交易所指數.GSPTSE非官方收盤上漲264.65點，漲幅0.76%，報35,200.45點。"
-    },
-    {
-      "id": "4979721",
-      "time": "2026-07-10 04:02:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "開市客收跌4.2%，創2025年4月份以來最差單日表現。"
     }
   ]
 }

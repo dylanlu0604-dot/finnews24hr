@@ -1,7 +1,85 @@
 {
   "date": "2026-07-17",
-  "count": 334,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:019f6c88-b781-7aab-8dd0-a728eff0eda6",
+      "time": "2026-07-17 04:05:26",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Netflix (NFLX.O) said it expects third-quarter EPS of $0.82 versus a $0.84 market consensus, and forecasts Q3 revenue of $12.86 bln versus a $13.01 bln consensus."
+    },
+    {
+      "id": "te:economy:567642",
+      "time": "2026-07-17 04:04:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil Yields Rise on New US Tariffs — Brazil's 10-year government bond yield rose to 14.54% in mid-July from 14.43% earlier in the month after the US announced a new 25% tariff on Brazilian imports, effective July 22th. The move fueled concerns that trade tensions could weigh on economic growth, raise uncertainty, and pressure Brazil's fiscal and inflation outlook, prompting investors to demand higher yields. The increase also came amid persistent external risks, including geopolitical tensions and volatility in international oil prices. Meanwhile, the BCB raised its inflation forecast for the fourth quarter of 2027 to 3.7% from 3.5% and highlighted new upside risks, including climate-related pressures on food and energy prices and fiscal stimulus measures that could strengthen domestic demand. At the same time, a rebound in US Treasury yields supported global bond markets."
+    },
+    {
+      "id": "mkt:019f6c87-1e21-7aab-8dd0-9f0b54a7e683",
+      "time": "2026-07-17 04:03:42",
+      "tags": [
+        "MKT News",
+        "NFLX.O"
+      ],
+      "text": "Netflix (NFLX.O) sees FY2026 revenue $51.0–51.4 bln, versus market consensus $51.41 bln."
+    },
+    {
+      "id": "te:markets:567641",
+      "time": "2026-07-17 04:03:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Netflix earnings above expectations at 0.80 USD — Netflix (NFLX) released earnings per share at 0.80 USD, compared to market expectations of 0.79 USD."
+    },
+    {
+      "id": "4992933",
+      "time": "2026-07-17 04:03:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "行業機構北美可可協會（NCA）表示，北美地區第二季度可可研磨量同比增長 7.65%，達 109659 公噸。"
+    },
+    {
+      "id": "mkt:019f6c86-984c-7aab-8dd0-977de0e713ab",
+      "time": "2026-07-17 04:03:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Netflix (NFLX.O) reported Q2 revenue of $12.56 bln, versus $12.59 bln expected."
+    },
+    {
+      "id": "4992932",
+      "time": "2026-07-17 04:02:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特強調與伊拉克協同行動以制衡伊朗。"
+    },
+    {
+      "id": "4992931",
+      "time": "2026-07-17 04:01:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛：維持 2026 財年營業利潤率 31.5% 的預期不變。"
+    },
     {
       "id": "mkt:019f6c85-50f1-7aab-8dd0-8992f5f91f24",
       "time": "2026-07-17 04:01:43",
@@ -10,6 +88,14 @@
         "Important"
       ],
       "text": "【US close: major indexes down; SK Hynix ADR falls 13.6%】US stocks closed lower on Thursday: the Nasdaq Composite fell 1.47%, the Dow Jones Industrial Average fell 0.2% and the S&P 500 fell 0.5%. SK Hynix ADR (SKHY.O) dropped 13.6%, SanDisk (SNDK.O) fell 12.6%, Micron Technology (MU.O) fell 5.6%, Google (GOOG.O) fell more than 4% and NVIDIA (NVDA.O) fell more than 2%. The Nasdaq Golden Dragon China Index rose 1.8%; Tencent Music (TME.N) gained 4%."
+    },
+    {
+      "id": "4992930",
+      "time": "2026-07-17 04:01:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛預計三季度每股收益（EPS）為0.82美元，分析師預期0.84美元。"
     },
     {
       "id": "4992929",
