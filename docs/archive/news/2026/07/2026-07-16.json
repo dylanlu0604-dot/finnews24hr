@@ -1,7 +1,117 @@
 {
   "date": "2026-07-16",
-  "count": 966,
+  "count": 978,
   "items": [
+    {
+      "id": "mkt:019f68a1-e6ce-7aab-8db5-de7bf127fe4a",
+      "time": "2026-07-16 09:54:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Capital Economics: BANK OF KOREA may raise rates further in coming months】Capital Economics economist Gareth Leather said that after the BANK OF KOREA's rate hike on Thursday, further increases remain possible in the coming months. Headline consumer inflation has risen sharply recently, while core inflation — the central concern — has climbed from 2.0% at the start of 2026 to 2.5%. Rising house prices pose financial‑stability risks that support a higher policy rate, and strong exports mean the economy can tolerate tighter monetary policy."
+    },
+    {
+      "id": "mkt:019f68a1-d69a-7aab-8db5-d7018a6d2666",
+      "time": "2026-07-16 09:54:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Japan's finance minister Katayama said specific monetary policy tools are to be decided by the Bank of Japan."
+    },
+    {
+      "id": "mkt:019f68a1-ae2c-7aab-8db5-cf9126ba388d",
+      "time": "2026-07-16 09:54:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The New York Times on Wednesday filed a motion to quash a Department of Justice subpoena for its reporters who had reported on security vulnerabilities in a Qatar-donated new \"Air Force One\" aircraft."
+    },
+    {
+      "id": "4991151",
+      "time": "2026-07-16 09:54:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【黃仁勳否認產品延期論，稱Vera Rubin將按計劃向客戶交付】據報道，針對有關製造問題可能導致產品延期的說法，英偉達CEO黃仁勳表示，公司下一代人工智慧加速計算系統已進入生產階段，將按計劃向客戶交付。黃仁勳表示，Vera Rubin硬體正按計劃實現“大規模”生產，但未透露具體時間表。"
+    },
+    {
+      "id": "4991150",
+      "time": "2026-07-16 09:54:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：具體貨幣政策手段應由日本央行決定。"
+    },
+    {
+      "id": "4991149",
+      "time": "2026-07-16 09:53:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中科曙光在廣西成立資訊產業新公司】企查查APP顯示，近日，曙光資訊產業（廣西）有限公司成立，經營範圍包含：積體電路設計；積體電路銷售；積體電路晶片及產品製造；計算機系統服務等。企查查股權穿透顯示，該公司由中科曙光全資持股。"
+    },
+    {
+      "id": "4991148",
+      "time": "2026-07-16 09:53:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金鉬股份等成立新公司 含稀有稀土金屬業務】企查查APP顯示，近日，安徽金鉬華鑫科技有限公司成立，經營範圍包含：有色金屬壓延加工；常用有色金屬冶煉；稀有稀土金屬冶煉；金屬材料銷售等。企查查股權穿透顯示，該公司由金鉬股份等共同持股。"
+    },
+    {
+      "id": "mkt:019f68a0-e581-7aab-8db5-c02480f492f6",
+      "time": "2026-07-16 09:53:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "7012.T"
+      ],
+      "text": "Kawasaki Heavy Industries to partner with NVIDIA to build a next-generation digital shipyard."
+    },
+    {
+      "id": "te:markets:567363",
+      "time": "2026-07-16 09:53:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds Ground — The Australian dollar held its recent gains to around $0.70, staying near a three-week high as weakness in the US dollar offset concerns over the escalating Middle East conflict. The US has launched yet another wave of strikes against Iranian coastal military assets and reinstated a naval blockade of Iran. The renewed conflict pushed oil prices sharply higher and fueled fresh concerns over inflation. However, a broadly weaker greenback underpinned the Aussie, as easing US inflation pressures reduced expectations of a near-term Federal Reserve interest rate hike. In Australia, inflation expectations have moderated for a third month running to a six-month low of 4.7% in July 2026, down from 5.5% the previous month. Still, markets currently price only a 20% chance of a rate hike in August and around 60% odds by December. Traders now await upcoming key employment and inflation data due later this month for fresh clues on the policy outlook."
+    },
+    {
+      "id": "4991147",
+      "time": "2026-07-16 09:52:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "川崎重工：與英偉達合作打造下一代數字化造船廠。"
+    },
+    {
+      "id": "4991146",
+      "time": "2026-07-16 09:52:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "國家統計局: 二季度房地產業GDP同比-0.2%，金融業GDP同比+6.9%，住宿和餐飲業GDP同比+5.8%。"
+    },
+    {
+      "id": "4991145",
+      "time": "2026-07-16 09:51:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【端側AI概念持續走高 智度股份等多股漲停】AI手機概念持續活躍，帶動端側AI概念整體走強，智度股份直線漲停走出2連板，此前格林精密、福日電子、國光電器、福蓉科技等漲停，豪聲電子、慧為智慧、電聲股份、泓禧科技均漲超10%。"
+    },
     {
       "id": "4991144",
       "time": "2026-07-16 09:51:50",
