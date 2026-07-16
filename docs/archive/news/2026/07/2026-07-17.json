@@ -1,7 +1,32 @@
 {
   "date": "2026-07-17",
-  "count": 306,
+  "count": 309,
   "items": [
+    {
+      "id": "4992911",
+      "time": "2026-07-17 03:40:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【紐約可可期貨跌7.5%】週四（7月16日）紐約尾盤，ICE原糖期貨跌2.96%，ICE白糖期貨跌1.50%。ICE咖啡“C”期貨跌3.92%。羅布斯塔咖啡期貨跌2.74%。紐約可可期貨跌7.51%，報5441美元/噸。倫敦可可期貨跌8.81%。芝加哥WCE雙低油菜籽期貨跌1.20%。ICE棉花期貨跌2.84%。"
+    },
+    {
+      "id": "mkt:019f6c71-38db-7aab-8dd0-5bf5b8d60def",
+      "time": "2026-07-17 03:39:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department approved a potential foreign military sale to the government of Greece of a lethal micro loitering munitions system."
+    },
+    {
+      "id": "4992910",
+      "time": "2026-07-17 03:38:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院：批准一項擬對希臘政府的對外軍售，希臘將採購彈簧刀 300 Block 20 殺傷型微型空中導彈系統。"
+    },
     {
       "id": "mkt:019f6c6f-7141-7aab-8dd0-50aaddd3fca4",
       "time": "2026-07-17 03:37:50",
