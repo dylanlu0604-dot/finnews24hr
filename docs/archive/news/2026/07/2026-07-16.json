@@ -1,7 +1,71 @@
 {
   "date": "2026-07-16",
-  "count": 3247,
+  "count": 3253,
   "items": [
+    {
+      "id": "mkt:019f6ba0-5a5e-7aab-8dcc-d815086fbf25",
+      "time": "2026-07-16 23:51:38",
+      "tags": [
+        "MKT News",
+        "GD.O",
+        "Impact bullish"
+      ],
+      "text": "Canada's prime minister Carney said Canada will spend nearly C$2 bln to purchase armored combat-support vehicles from General Dynamics."
+    },
+    {
+      "id": "mkt:019f6b9f-96e4-7aab-8dcc-d2a8265bb872",
+      "time": "2026-07-16 23:50:48",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【IMF warns Burnham against raising top income tax rate】The IMF warned incoming UK prime minister Andy Burnham that hiking the top income tax rate would curb employment and harm the economy, and said higher taxes on lower‑income groups would be a preferable alternative. In its annual Article IV assessment it said VAT and property taxation are already above international averages and wealth taxes are hard to collect, while overall labour tax receipts remain slightly below G7 peers but account for nearly half of government revenue, making labour taxation a clear adjustment lever. The IMF cautioned that further tax increases on high earners could be counterproductive because their tax burden is already heavy and scope to raise rates is limited."
+    },
+    {
+      "id": "mkt:019f6b9f-9649-7aab-8dcc-ca1ec365d4ba",
+      "time": "2026-07-16 23:50:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SNDK.O",
+        "Impact bearish",
+        "WDC.O",
+        "SKHY.O"
+      ],
+      "text": "SanDisk (SNDK.O) intraday losses widened to 10%; Western Digital (WDC.O) down nearly 9%; SK Hynix ADR (SKHY.O) down 8.6%."
+    },
+    {
+      "id": "4992718",
+      "time": "2026-07-16 23:49:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍一名高管表示，雪佛龍將於週五與伊拉克簽署初步協議，推進其在西古爾納2號油田和納西里耶油田的權益。"
+    },
+    {
+      "id": "4992717",
+      "time": "2026-07-16 23:49:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：西班牙政府計劃週五釋出汽車行業藍皮書研究報告。"
+    },
+    {
+      "id": "mkt:019f6b9e-3729-7aab-8dcc-c1ce02efbf91",
+      "time": "2026-07-16 23:49:18",
+      "tags": [
+        "MKT News",
+        "CVX.O",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "A Chevron executive said Chevron will sign a preliminary agreement with Iraq on Friday to advance its stakes in the West Qurna-2 and Nassiriya oilfields."
+    },
     {
       "id": "4992716",
       "time": "2026-07-16 23:45:02",
