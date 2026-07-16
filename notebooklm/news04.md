@@ -1,7 +1,487 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-17 04:06:02_
-_本檔包含 3528 則快訊，約 714885 字_
+_更新時間：2026-07-17 05:10:00_
+_本檔包含 3564 則快訊，約 714650 字_
+
+---
+
+### 2026-07-13 22:45:26  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Sources said Russia's Sezlan refinery has halted production after a Ukrainian drone strike.
+
+---
+
+### 2026-07-13 22:45:09  #MKT News #Important
+
+Axios sources say the US has not discussed with regional allies the possibility of imposing transit fees for passage through the Strait of Hormuz.
+
+---
+
+### 2026-07-13 22:44:44  #MKT News
+
+US President Trump suggested Graham's sister be appointed interim senator.
+
+---
+
+### 2026-07-13 22:44:39  #國際
+
+特朗普：推薦格雷厄姆的妹妹擔任臨時參議員。
+
+---
+
+### 2026-07-13 22:44:14  #國際
+
+【特朗普：重新實施對伊朗的封鎖 美國將獲得透過海峽運輸貨物20%的費用補償】當地時間7月13日，美國總統特朗普在社交媒體平臺“真實社交”發文表示，霍爾木茲海峽目前處於開放狀態，且無論伊朗參與與否，都將繼續保持開放。美國將重新實施“針對伊朗的封鎖”，該措施僅針對伊朗的船隻或客戶，限制其進出海峽，其他所有國家均可公平、公開地使用該海峽。他還表示，美國將針對所有經由此處運輸的貨物收取20%的費用，相關流程與部署工作將立即啟動。（央視新聞）
+
+---
+
+### 2026-07-13 22:44:07  #國際
+
+【特朗普稱將收取霍爾木茲海峽貨運20%費用】美國總統特朗普13日稱，從現在開始，美國將作為“霍爾木茲海峽守護者”，就所有貨運收取20%的費用。（新華社）
+
+---
+
+### 2026-07-13 22:43:59  #MKT News #PARA.O #Impact bearish #WBD.O #Impact bullish
+
+【About a dozen states to file federal antitrust suit Monday to block Paramount's $110 billion takeover of Warner Bros. Discovery】About a dozen states plan to file an antitrust lawsuit in federal court on Monday seeking to block Paramount's proposed $110 billion acquisition of Warner Bros. Discovery, people familiar with the matter said. Several state attorneys general have been drafting the legal challenge; the deal was previously cleared by the US Department of Justice.
+
+---
+
+### 2026-07-13 22:40:37  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Shanghai gold main contract fell 2.00% intraday to 874.32 yuan/gram.
+
+---
+
+### 2026-07-13 22:39:52  #國際
+
+德國外長在出訪挪威前表示：必須在北約東翼和北翼重新調整針對俄羅斯的安全、防務與威懾態勢。
+
+---
+
+### 2026-07-13 22:39:42  #央行 #國際
+
+俄羅斯央行：將7月14日盧布官方匯率定為1美元兌76.6213盧布（前值為76.6647）。
+
+---
+
+### 2026-07-13 22:38:07  #其他
+
+市場訊息：BMO聘請量子計算分析師Kumar，加大研發投入。
+
+---
+
+### 2026-07-13 22:37:43  #其他
+
+【吉林釋出山洪災害氣象風險紅色預警】吉林省水利廳和吉林省氣象局2026年7月13日21時聯合釋出山洪災害氣象風險紅色預警：預計，7月13日夜間至7月14日夜間，白山市撫松縣、江源區、渾江區、臨江市、靖宇縣，吉林市樺甸市、蛟河市、磐石市，遼源市東豐縣、東遼縣，梅河口市，通化市本級、輝南縣、通化縣、柳河縣、集安市，延邊州敦化市、安圖縣發生山洪災害可能性很大；吉林市本級、永吉縣，四平市伊通縣，延邊州和龍市，長白山開發區發生山洪災害可能性大，白山市長白縣，吉林市舒蘭市，延邊州琿春市、延吉市、圖們市、汪清縣、龍井市，長春市雙陽區發生山洪災害可能性較大；其他地區也可能因局地短時強降水引發山洪災害。
+
+---
+
+### 2026-07-13 22:35:53  #國際
+
+市場訊息：美國上訴法院重啟泰諾止痛藥與自閉症、多動症相關的私人訴訟。
+
+---
+
+### 2026-07-13 22:35:47  #公司 #國際
+
+【華盛頓自動駕駛法案引發優步與Waymo正面博弈】美國華盛頓特區一項允許自動駕駛車輛上路運營的法案草案，正成為優步（Uber）整體無人駕駛計程車戰略的關鍵試點。優步不再只是投資、合作無人駕駛計程車研發企業，還試圖主導相關行業監管規則的制定，這一舉動讓它與自身商業合作伙伴Waymo產生了直接對立。 優步對該法案持反對態度，稱這份新規會擠壓持證網約車司機的就業空間，實質上讓Waymo形成行業壟斷。據悉，優步正展開遊說，要求無人駕駛計程車必須接入同時配備人類司機的網約車排程平臺。隸屬於Alphabet集團的Waymo則對這份法案表示支援，稱法案既能保障自動駕駛車輛安全落地投放，助力公共交通發展、保障出行權益公平、兼顧從業者利益，同時不會對優步這類企業設定限制條款。 倘若優步遊說成功，華盛頓乃至其他地區採納混合派單平臺方案，Waymo這類自動駕駛企業只剩兩條出路：接入優步等第三方網約車應用承接派單業務，或是自建運營平臺，在耗費數億美元、歷時數年研發的無人車隊之外另行招聘人類司機同步開展網約車服務。而在優步看來，如果Waymo一方推動該法案順利落地，優步自身將會被徹底擠出當地自動駕駛出行市場。
+
+---
+
+### 2026-07-13 22:35:22  #其他
+
+南卡羅來納州州長將於週一宣佈參議院任命。
+
+---
+
+### 2026-07-13 22:34:45  #其他
+
+【廣西梧州市萬秀區：累計發現登革熱病例228例】廣西梧州市萬秀區衛生健康局通報，截至7月13日18時，萬秀區累計發現登革熱病例228例，其中7月9日18時以來新增82例。已發現病例均為輕症，經及時有效治療，現已治癒出院175例。
+
+---
+
+### 2026-07-13 22:32:43  #市場 #國際
+
+特朗普宣佈將恢復對伊朗制裁後，美國國債收益率進一步上漲；10年期美國國債收益率盤中觸及4.6055%的近兩個月高位，最新上漲2.24個基點，報4.591%。
+
+---
+
+### 2026-07-13 22:30:20  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Drops Over 3% Amid Rate Hike Expectations — Silver declined more than 3% to $58 per ounce on Monday, extending losses for a second straight day, as rising Middle East tensions amplified inflation worries, strengthening the view that US interest rates will stay higher for longer. US and Iranian forces exchanged heavy missile and drone strikes over the weekend and into Monday. Tehran reported attacks on US military sites across the Gulf and kept the Strait of Hormuz closed, driving oil prices up over 4%. Investors responded by increasing bets on a Federal Reserve rate hike, with markets now pricing in a nearly 70% chance of a September increase. Fed Chair Kevin Warsh is scheduled to testify on monetary policy before Congress on Tuesday, with markets watching closely for further signals. The US is also set to release key economic data this week, including June’s consumer price index and retail sales.
+
+---
+
+### 2026-07-13 22:29:42  #MKT News
+
+Iraq's prime minister has arrived in Washington to meet US officials, market sources said.
+
+---
+
+### 2026-07-13 22:28:50  #其他
+
+匈牙利MFB開發銀行籌集資金20億歐元。
+
+---
+
+### 2026-07-13 22:27:43  #國際
+
+匈牙利將利用歐盟資金使銀行資本翻番。
+
+---
+
+### 2026-07-13 22:27:36  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Slumps Over 2% as Middle East Tensions Fuel Rate Hike Fears — Gold fell more than 2% to $4,020 per ounce on Monday, marking a second consecutive day of losses, as escalating Middle East conflicts heightened inflation concerns and reinforced expectations that US interest rates will remain elevated for longer. Over the weekend and into Monday, US and Iranian forces exchanged heavy missile and drone attacks. Tehran claimed it had targeted US military facilities across the Gulf and closed the Strait of Hormuz, pushing oil prices up by over 4%. In response, investors increased bets on Federal Reserve rate hikes, with markets pricing in a nearly 70% chance of a September increase. Meanwhile, Fed Chair Kevin Warsh is set to deliver his first monetary policy testimony before Congress on Tuesday, with markets closely analyzing his remarks for further policy signals. Additionally, the US will release key economic data this week, including June’s consumer price index and retail sales figures.
+
+---
+
+### 2026-07-13 22:27:04  #國際
+
+【特朗普稱重新封鎖伊朗】最新訊息：今天（7月13日），美國總統特朗普在社交媒體平臺“真實社交”發文表示，霍爾木茲海峽目前處於開放狀態，且無論伊朗參與與否，都將繼續保持開放。而美國將重新實施“針對伊朗的封鎖”——之所以這樣命名，是因為該措施“僅針對伊朗的船隻或客戶，限制其進出海峽”，其他所有國家則均可公平、公開地使用該海峽。 特朗普稱，即日起，美國將成為“霍爾木茲海峽的守護者”。鑑於此，並“出於公平原則”，美國將對所有經由此處運輸的貨物收取20%的費用，以“補償為維護這一全球局勢動盪地區的安全與穩定而投入的各項必要成本”。相關流程與部署工作將立即啟動。（CCTV國際時訊）
+
+---
+
+### 2026-07-13 22:26:52  #國際
+
+特朗普：參議院應該透過《澄清法案》。
+
+---
+
+### 2026-07-13 22:26:35  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish #DAX
+
+Germany's 2-year bond yield rose 7bps to 2.72%, its highest level since June 11.
+
+---
+
+### 2026-07-13 22:25:58  #市場
+
+標普500指數跌幅擴大至0.5%。
+
+---
+
+### 2026-07-13 22:25:38  #央行 #歐洲央行
+
+【交易員提高對歐洲央行加息前景的押注】交易員提高對歐洲央行加息前景的押注，全面押注到9月份會加息25個基點。
+
+---
+
+### 2026-07-13 22:25:29  #國際
+
+【特朗普稱恢復對伊朗的海上封鎖】美國總統特朗普13日說，恢復對伊朗的海上封鎖。（新華社）
+
+---
+
+### 2026-07-13 22:24:40  #宏觀 #國際
+
+【美國對古巴實施制裁】央視記者當地時間13日獲悉，美國財政部網站顯示，美國對古巴旅遊部及其他實體實施制裁。（央視新聞）
+
+---
+
+### 2026-07-13 22:23:56  #其他
+
+WATERSTONES和SUMUP表示，他們將尋求更多時間進行IPO準備工作。
+
+---
+
+### 2026-07-13 22:23:51  #其他
+
+市場訊息：加州州長紐森簽署法案，為首次購車者提供3,500美元電動汽車州級補貼。
+
+---
+
+### 2026-07-13 22:23:38  #央行 #國際
+
+市場訊息：交易員增加對歐洲央行加息的押注，市場已充分消化9月份加息25個基點的預期。
+
+---
+
+### 2026-07-13 22:23:37  #MKT News #TSLA.O #Impact bullish #Copper #S&P500 #Impact mixed
+
+California Governor Newsom signed legislation creating a $3,500 state rebate for first-time purchasers of electric vehicles.
+
+---
+
+### 2026-07-13 22:23:22  #國際
+
+墨西哥比索和南非蘭特跌幅擴大，此前特朗普吹噓對霍爾木茲海峽交通徵收20%的費用。
+
+---
+
+### 2026-07-13 22:23:19  #MKT News #Important #EURUSD #Impact bullish
+
+Market pricing indicates ECB rate-hike expectations have been raised; a 25bp increase before September is now fully priced.
+
+---
+
+### 2026-07-13 22:23:02  #公司 #國際
+
+【以色列大使稱若美請求以軍將參戰】圍繞著霍爾木茲海峽通航問題，美國和伊朗再起衝突。在美國哥倫比亞廣播公司（CBS）當地時間7月12日播出的訪談節目中，以色列駐美國大使萊特稱，如果美國呼籲以色列重新加入對伊朗的軍事行動，以色列“將與美國並肩作戰”——不過目前美國尚未要求以色列參與對伊朗的襲擊行動。#以稱美尚未要求以軍參與打擊伊朗。據美國有線電視新聞網（CNN）此前援引以色列訊息人士的話報道，特朗普政府目前還不希望以色列介入對伊朗的軍事打擊行動，擔心這會導致局勢失去控制。訊息人士稱，以色列總理內塔尼亞胡“非常想加入美國的打擊行動，但美國目前不希望以色列介入”。（CCTV國際時訊）
+
+---
+
+### 2026-07-13 22:22:28  #市場 #國際
+
+特朗普發表封鎖言論後，美國國債收益率和油價繼續攀升。
+
+---
+
+### 2026-07-13 22:22:13  #市場 #焦點
+
+甲醇連續主力合約日內漲1%，現報2559.00元。
+
+---
+
+### 2026-07-13 22:22:12  #公司
+
+【新浪集團捐贈500萬元 支援廣西湖北遼寧災區救助】近日，受颱風影響，廣西、湖北、遼寧等地遭受持續強降雨襲擊，引發嚴重洪澇災害，多地房屋、道路、農田等基礎設施受損，受災群眾生產生活受到較大影響，當地抗洪搶險及災後安置工作正在緊張推進中。
+
+
+新浪集團宣佈向廣西、湖北、遼寧三地災區捐贈500萬元，用於支援當地抗洪搶險救援、受災群眾安置及災後重建工作。
+
+
+與此同時，微公益首頁"救災聚合頁"已全面上線，為所有心繫災區的網友提供最便捷的捐贈通道。截至7月13日，相關專案籌款額新增已超1840萬元，愛心接力仍在持續升溫。微公益聯動廣大網友共同匯聚愛心力量，為災區救援與重建提供支援。
+
+
+新浪集團也將持續關注相關地區的救災進展及災後重建工作，竭盡所能幫助當地群眾儘快恢復正常生活。
+
+
+讓我們凝心聚力，祈願災區人民平安！
+
+---
+
+### 2026-07-13 22:22:00  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude rose above $75.00/barrel, up 5.01% intraday. Brent crude gained 5.00% to $79.74/barrel.
+
+---
+
+### 2026-07-13 22:21:47  #市場 #焦點
+
+布倫特原油突破80美元/桶，日內漲5.26%。
+
+---
+
+### 2026-07-13 22:21:44  #市場 #焦點
+
+紐約期金失守4010美元/盎司，日內跌2.52%。
+
+---
+
+### 2026-07-13 22:21:42  #市場 #焦點
+
+燃料油連續主力合約日內漲3%，現報3328.00元。
+
+---
+
+### 2026-07-13 22:21:34  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+China crude-related futures main contracts rose in a short-term move: SC crude main contract +2.21% to 481.5 yuan/barrel; low-sulfur fuel oil (LU) +1.92% to 4,195 yuan/ton; fuel oil +2.51% to 3,312 yuan/ton; asphalt +3.13% to 3,960 yuan/ton.
+
+---
+
+### 2026-07-13 22:21:29  #其他
+
+WTI原油價格升至日內高點，接近75美元/桶。
+
+---
+
+### 2026-07-13 22:21:24  #市場
+
+布倫特原油日內漲5%，現報79.81美元/桶。
+
+---
+
+### 2026-07-13 22:21:05  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+U.S. crude (WTI) and Brent continued to rise intraday, trading at $74.71/bbl and $79.50/bbl respectively.
+
+---
+
+### 2026-07-13 22:20:41  #國際
+
+北約盟國：為應對俄羅斯的網路活動，我們將繼續加強防禦，並團結一致支援烏克蘭。
+
+---
+
+### 2026-07-13 22:20:23  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Precious metals futures eased intraday: SHFE gold 2608 down 1.45% at 879.26 yuan/gram; SHFE silver 2608 down 2.11% at 14,120 yuan/kg.
+
+---
+
+### 2026-07-13 22:20:22  #MKT News #Commodities #Energy #EURUSD #Impact bearish #XAUUSD #Impact bullish #DAX
+
+European natural gas prices climbed to their highest level since May 20.
+
+---
+
+### 2026-07-13 22:19:55  #國際
+
+市場訊息：北約盟國譴責俄羅斯“持續惡意網路活動”。
+
+---
+
+### 2026-07-13 22:19:40  #其他
+
+【二手車交易量首次追平新車銷量】在近日的2026年中國二手車大會上，一組資料備受市場關注：中國新車消費與二手車交易比例首次達到1:1。資料顯示，今年前5個月，國內新車零售銷量為814.8萬輛，同比下滑超20%。同期，二手車展現出逆勢上揚的姿態，前5個月交易量達809.5萬輛，同比增長2.3%。從二手車使用年限來看，車齡在3～6年的二手車交易量最多，佔比為43.6%，較去年同期下降2.3個百分點；車齡3年內二手車佔比為30%，較去年同期增長了3.1個百分點；車齡10年以上的車型佔比為10%，較去年同期下降了0.6個百分點。（第一財經）
+
+---
+
+### 2026-07-13 22:19:40  #國際
+
+市場訊息：歐洲天然氣價格創下5月20日以來的最高水平。
+
+---
+
+### 2026-07-13 22:18:14  #市場
+
+英國國債跌幅擴大，兩年期國債收益率上漲11個基點至4.33%。
+
+---
+
+### 2026-07-13 22:18:03  #市場
+
+標普500指數跌幅擴大至0.5%。
+
+---
+
+### 2026-07-13 22:17:58  #國際
+
+特朗普：霍爾木茲海峽開放，無論伊朗是否參與，都將繼續開放。
+
+---
+
+### 2026-07-13 22:17:48  #國際
+
+特朗普：程式和組建工作將立即開始。
+
+---
+
+### 2026-07-13 22:17:41  #國際
+
+特朗普：其他所有國家都將公平、公開地使用海峽。
+
+---
+
+### 2026-07-13 22:17:39  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold slipped briefly below $4,020/oz, down 2.50% intraday.
+
+---
+
+### 2026-07-13 22:17:34  #國際
+
+特朗普：美國將按20%的比例獲得補償。
+
+---
+
+### 2026-07-13 22:17:29  #國際
+
+特朗普：恢復對伊朗的封鎖。
+
+---
+
+### 2026-07-13 22:17:15  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+U.S. President Trump says he will restore a blockade against Iran.
+
+---
+
+### 2026-07-13 22:17:11  #市場 #焦點
+
+現貨黃金失守4010美元/盎司，日內跌2.66%。
+
+---
+
+### 2026-07-13 22:17:02  #市場 #焦點
+
+現貨黃金失守4020美元/盎司，日內跌2.63%。
+
+---
+
+### 2026-07-13 22:16:51  #市場 #焦點
+
+紐約期金失守4020美元/盎司，日內跌2.31%。
+
+---
+
+### 2026-07-13 22:16:51  #市場 #焦點
+
+紐約期銀失守58美元/盎司，日內跌3.67%。
+
+---
+
+### 2026-07-13 22:16:45  #市場
+
+紐約期金日內跌2%，現報4028.75美元/盎司。
+
+---
+
+### 2026-07-13 22:16:45  #市場 #焦點
+
+紐約期金失守4030美元/盎司，日內跌2.07%。
+
+---
+
+### 2026-07-13 22:15:51  #宏觀 #國際
+
+美國財政部：美國對古巴旅遊部及其他實體實施制裁。
+
+---
+
+### 2026-07-13 22:15:42  #國際
+
+市場訊息：美國試圖阻止向無證移民發放貸款。
+
+---
+
+### 2026-07-13 22:15:34  #國際
+
+【俄羅斯外交部召見德國大使 就德方支援烏克蘭襲擊俄民用設施提出嚴正交涉】俄羅斯外交部13日緊急召見德國駐俄羅斯大使，就德國政府參與烏克蘭軍隊針對俄羅斯國內民用基礎設施的恐怖襲擊、持續升級對烏軍事支援等倒退行徑，提出嚴正交涉與強烈抗議。俄羅斯外交部在隨後發表的官方宣告中指出，俄方向德國大使明確闡明瞭柏林當局直接參與基輔政權襲擊的實質證據。俄方強調，德國持續擴大對烏克蘭現有軍事和物資援助的舉動完全不可接受，其行為正在將兩國關係推向更危險的邊緣。
+
+---
+
+### 2026-07-13 22:15:28  #MKT News
+
+U.S. Treasury says it has imposed sanctions on Cuba.
+
+---
+
+### 2026-07-13 22:15:25  #公司 #市場 #觀點
+
+蘋果股價上漲1.7%，花旗集團上調目標價。
+
+---
+
+### 2026-07-13 22:15:21  #其他
+
+PAPER TRANSPORT：與特斯拉合作，在芝加哥市場專項運營中評估特斯拉Semi長續航版。
+
+---
+
+### 2026-07-13 22:13:54  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100
+
+【Switzerland, UK reach updated free trade deal to deepen post‑Brexit ties】Switzerland and the United Kingdom agreed an updated free trade agreement, aiming to deepen economic ties between the two largest non‑EU West European economies. Negotiations, launched more than three years ago, were declared concluded and the accord was signed in Bern on Monday by UK Business and Trade Secretary Peter Kyle and Swiss Federal President and Minister of Economic Affairs Guy Parmelin. The pact builds on a 2023 financial services agreement and targets easier cross‑border operations for financial, technology, pharmaceutical and legal services through improved market access, reduced administrative barriers, strengthened data sharing and measures to facilitate labor mobility. The UK said bilateral trade exceeded £50bn last year (~$67bn), with roughly £30bn in goods. Officials estimate services trade could expand by about £5.2bn annually over the long term under the agreement.
+
+---
+
+### 2026-07-13 22:13:51  #Trading Economics #Markets #commodity #Importance 0
+
+Orange Juice Hits 32-week Low — Orange Juice decreased to 139.50 USd/Lbs, the lowest since November 2025. Over the past 4 weeks, Orange Juice lost 9.07%, and in the last 12 months, it decreased 55.18%.
+
+---
+
+### 2026-07-13 22:13:43  #國際
+
+【伊朗外交部發言人：要為傷亡的伊朗人復仇】當地時間7月13日，伊朗外交部發言人巴加埃表示，要為遇害的伊朗最高領袖阿里·哈梅內伊及所有在美以襲擊中傷亡的伊朗人復仇，“這是基本原則和公眾的共同訴求”——而伊朗外交部正透過國際法律機制記錄罪行、尋求正義。此外，巴加埃提到，伊朗原計劃與阿曼合作建立“霍爾木茲海峽聯合管理機制”，但由於美國對阿曼的施壓，導致這項機制未能實現。（央視新聞）
+
+---
+
+### 2026-07-13 22:13:41  #MKT News #Copper #Impact bullish #WTI
+
+【Baltic Dry Index hits highest in over a month】On Monday the Baltic Dry Index rose 16 points, or 0.54%, to 2,960 — its highest level since early June — led by gains in capesize and supramax freight. The capesize index (BCI) gained 47 points, or 1%, to 4,702, a more-than-one-month high; capesize average daily earnings rose $427 to $39,138. The panamax index (BPI) slipped 3 points, or 0.1%, to 2,250; panamax daily earnings fell $19 to $20,254. The supramax index (BSI) ticked up 1 point to 1,707, its highest since June 22. The handysize index (BHSI) eased 1 point to 914.
 
 ---
 
@@ -21060,257 +21540,5 @@ According to AFP, a Lebanese military official said a US military delegation met
 ### 2026-07-11 22:46:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Iran says it will cease to abide by memorandum with US if Washington keeps breaching obligations】Iran's permanent UN envoy Iravani warned on the 11th that if the United States continues to violate its obligations, Iran will no longer abide by the memorandum of understanding with the United States.
-
----
-
-### 2026-07-11 22:45:42  #其他
-
-【票房突破26億，超百部影片激戰暑期檔】貓眼專業版顯示，截至7月11日21點，2026年度電影總票房（含預售）已突破183億元，其中暑期檔（6月1日至8月31日）總票房（含預售）已突破26億元。超過100部中外影片鎖定今年暑期檔，涵蓋歷史、科幻、動畫、喜劇等十餘種型別。檔期市場呈現“頭部穩盤、腰部承壓”的冷熱分化格局，伴隨《功夫女足》等熱門影片陸續上映，暑期檔看點十足。
-
----
-
-### 2026-07-11 22:43:35  #MKT News
-
-Russian officials said they plan to launch a commercial logistics hub at a Syrian port in mid-July.
-
----
-
-### 2026-07-11 22:43:16  #國際
-
-【伊朗代表稱若美繼續違反其義務 伊將不再遵守諒解備忘錄】當地時間11日，伊朗常駐聯合國代表伊拉瓦尼警告稱，如果美國繼續違反其義務，伊朗將不再遵守與美國簽署的諒解備忘錄。（央視新聞）
-
----
-
-### 2026-07-11 22:39:21  #其他
-
-【“巴威”將持續北上，河北地災防禦升至Ⅲ級響應】預計第9號颱風“巴威”登陸後將持續北上，河北東北部發生地質災害風險很高，自然資源部7月11日將河北地質災害防禦響應等級由Ⅳ級提升為Ⅲ級。（新華社）
-
----
-
-### 2026-07-11 22:39:00  #MKT News
-
-【U.S. congressman detained by Israeli settlers in West Bank】Democratic U.S. Representative Ro Khanna told Refinitiv on July 9 he was intercepted and held for about an hour by Israeli settlers while visiting a Palestinian village in the West Bank. He said the settlers, armed with U.S.-made M4 rifles, blocked the road and mocked his party, and that he saw arrogance in the settlers and Israeli soldiers he attributed to unchecked power and a culture of impunity that breeds oppression.
-
----
-
-### 2026-07-11 22:38:23  #國際
-
-【伊朗、阿曼磋商霍爾木茲海峽“中央航道”開放方案】訊息人士稱，伊朗與阿曼正商議一份宣告，計劃全面開放霍爾木茲海峽“中央航道”，保障船舶完整、自由通行。知情外交官補充稱，卡達官員正於馬斯喀特參與伊阿兩國這場海峽相關會談。
-
----
-
-### 2026-07-11 22:36:17  #國際
-
-【美國會議員遭以色列定居者扣留】美國民主黨籍聯邦眾議員羅·卡納7月9日對路透社表示，他當天在訪問約旦河西岸的巴勒斯坦村莊途中遭到了以色列定居者攔截，並被扣留約一小時。他說，這些定居者手持美國製造的M4步槍，封鎖道路，在扣留他們一行人後還嘲笑他們。羅·卡納表示，他看到了這些以色列定居者和以軍士兵眼中的傲慢，這種傲慢源自於從未被問責、完全不受制約的權力，這種權力滋生出了一種有毒的壓迫文化。（CCTV國際時訊）
-
----
-
-### 2026-07-11 22:35:24  #其他 #焦點
-
-【國內機場取消明日航班超1000架次】航旅縱橫民航官方直銷平臺大資料顯示，截至7月11日20:00，國內機場各航司計劃取消12日進出港航班超1000架次。 今天國內機場的延誤航班數量超1300架次。上海浦東機場、杭州蕭山機場、寧波櫟社機場、上海虹橋機場、北京首都機場當日臨時取消航班量位列國內前五。
-
----
-
-### 2026-07-11 22:30:48  #其他
-
-【中國旱稻在巴貝多進一步擴大推廣】中國旱稻三期規模化試種開鐮儀式日前在巴貝多中部松樹盆地舉行，標誌著中國雜交旱稻在這一稻米進口國由試驗示範進一步擴大推廣。巴貝多農業、食品和營養安全部長尚塔爾·芒羅-奈特在為旱稻收割開鐮後接受新華社記者專訪時說，巴貝多過去鮮有稻作，如今在中國農業技術合作支援下，巴貝多看到了收穫，農業多元發展、糧食體系完善未來可期。（新華社）
-
----
-
-### 2026-07-11 22:29:51  #公司 #觀點
-
-【長江儲存公佈IPO輔導團隊 中信與中信建投合計31人組成】證監會官網顯示，於7月10日更新長江儲存IPO輔導工作進展情況報告（第一期）。中信證券、中信建投兩家券商合計派出31人組成輔導團隊，本期輔導期為2026年5月19日至6月30日，透過現場盡調、組織集中授課、專項問題溝通等多種輔導方式開展輔導工作。下一階段將從2方面展開輔導工作：一是就工作中發現的問題及時協調各中介機構與公司溝通討論，研究確定規範方案，督促輔導物件認真落實整改要求。同時，輔導工作小組將持續督促公司完善公司治理和內部控制制度，提高公司規範運作水平；二是督促公司深入理解發行上市、規範運作等方面的法律法規和規則，知悉資訊披露和履行承諾等方面的責任和義務。
-
----
-
-### 2026-07-11 22:26:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran supreme leader urges revenge over Khamenei death, clouds prospects for new talks】Al Jazeera reports Iran is taking a harder line after Supreme Leader Mujtaba called for revenge, saying whoever holds power must avenge the late Khamenei and those killed in US and Israeli military actions. The move complicates timing for diplomacy: the US says a new round of talks is imminent while Iranian media deny that. Foreign Ministry spokesman Bagai denied reports Iran has asked to resume negotiations. The Strait of Hormuz remains a flashpoint; Foreign Minister Araghchi is visiting Oman to arrange security of transit through the strait.
-
----
-
-### 2026-07-11 22:23:21  #MKT News
-
-【Iran scholar says US never truly implemented memorandum】An Iranian university professor, Hakimeh Saghaye-Biriyah, said the memorandum was never properly implemented and its first paragraph is effectively void. She said Israel has neither agreed to withdraw from southern Lebanon nor stopped strikes on Lebanese territory, while the United States continues to reserve the right to use force—an approach she said contravenes the spirit of the memorandum's first paragraph. She stressed the memorandum’s sovereignty clause covers land, territorial waters and airspace, and said Iran is watching whether the US will respect Iranian sovereignty in waters of the Strait of Hormuz or seek ways to circumvent it. She said these developments call into question whether the memorandum was ever executed in practice.
-
----
-
-### 2026-07-11 22:15:03  #其他
-
-據貓眼專業版資料，電影《功夫女足》 預測票房上調，預測總票房18.65億。
-
----
-
-### 2026-07-11 22:14:39  #MKT News #WTI #Impact bearish #Brent
-
-Axios reported a regional source said parties are discussing a possible joint statement to fully open the Strait of Hormuz "central corridor" (in international waters) and affirm freedom of navigation.
-
----
-
-### 2026-07-11 22:14:08  #MKT News #WTI #Impact bearish #Brent
-
-Axios reports, citing diplomats, that Qatari officials are attending talks in Muscat between Iran and Oman on issues related to the Strait of Hormuz.
-
----
-
-### 2026-07-11 22:13:30  #MKT News #WTI #Impact bullish #Brent
-
-【Ukrainian official: Russian refineries increasingly depleted, fighting spreading to sea】Ukrainian Interior Ministry adviser Anton Gerashchenko said Russia’s operating refineries are increasingly depleted and hostilities have spread to maritime routes. After a series of strikes on Russian vessels, Moscow has suspended navigation on the Azov-Don waterway and the Kerch Strait, cutting the link between the Sea of Azov and the Black Sea. Gerashchenko said the Azov-Don route is a key conduit for Russian military logistics, cargo transport, port maintenance and the circumvention of sanctions for oil products; its suspension disrupts a primary export and supply corridor used to ship seized goods and generate revenue that funds procurement of weapons including Iskander missiles and KAB-guided bombs. He identified Taganrog and Azov ports and a ‘shadow fleet’ network as implicated in the trade channel.
-
----
-
-### 2026-07-11 22:12:33  #國際
-
-訊息人士：卡達官員正在參加伊朗和阿曼在馬斯喀特就霍爾木茲海峽問題舉行的會談。雙方正在討論一項可能發表的宣告，旨在全面開放霍爾木茲海峽位於國際水域的“中間航道”，以實現完全自由通行。
-
----
-
-### 2026-07-11 22:10:34  #其他
-
-據燈塔專業版，《功夫女足》總票房預測上調至超12億。
-
----
-
-### 2026-07-11 22:09:40  #其他
-
-【北京懷柔水庫開啟東溢洪道預洩 212縣道南大街漫水橋段臨時封路】7月11日21時30分起，懷柔水庫在保障下游地區安全的前提下，結合上游預報來水情況，在7月9日21時開啟西溢洪道的基礎上，開啟東溢洪道，以110立方米每秒的流量向懷河有序實施預洩，提前騰出防洪庫容，應對本輪強降雨過程。為保障安全，212縣道南大街漫水橋段（麗湖馨居北門西側漫水橋）在洩水期間臨時封路，禁止車輛、行人通行。（央視新聞）
-
----
-
-### 2026-07-11 22:08:22  #觀點 #其他
-
-【陳立泉院士：“電動中國”構想正逐步成為現實】國家最高科學技術獎獲得者、中國工程院院士、中國科學院物理研究所研究員陳立泉7月10日在中國工程院第十八次院士大會上作報告說，以交通電動化、裝備智慧化、能源低碳化“三化”為主要特徵的“電動中國”構想，正在逐步成為現實。 陳立泉院士在“工程院與電動中國”主題報告中指出，高效能電池是實現“電動中國”的關鍵，其中，鋰電池當前面臨的最大挑戰，是在保證安全性的前提下提高能量密度，固態電池體系能同時兼具高能量密度和安全性，同時，中國存在鋰資源受限的風險；鈉電池成為鋰電池的有效補充。（中新網）
-
----
-
-### 2026-07-11 21:56:15  #宏觀 #焦點
-
-【7月11日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.習近平同朝鮮勞動黨總書記、國務委員會委員長金正恩就《中朝友好合作互助條約》簽訂65週年互致賀電； 2.李強舉行儀式歡迎朝鮮內閣總理訪華； 3.李強同朝鮮內閣總理會談； 4.蔡奇出席《中朝友好合作互助條約》簽訂65週年紀念招待會； 5.人民日報評論員文章：向著到2035年建成科技強國的目標堅定邁進——論學習貫徹習近平總書記在國家科學技術獎勵大會、兩院院士大會、中國科協十一大上重要講話； 6.各地各部門積極應對臺風“巴威”； 7.【黨旗在基層一線高高飄揚】浙江蒼南：颱風來臨前的大轉移； 8.支援政策多點發力 我國持續減輕家庭生養負擔； 9.今年前五個月我國高階船型出口量大幅增長； 10.陳立泉：五十載堅守 讓中國鋰電池領跑世界； 11.國內聯播快訊： （1）兩部門再次預撥8000萬元支援廣西做好受災群眾救助工作； （2）我國公路運力持續擴容 數智化升級加快； （3）2026年全國暑期文化和旅遊消費季啟動； （4）珠海至肇慶高鐵將軍嶺隧道貫通； （5）中國海警艦艇首次面向公眾開放； （6）第二十五屆環大美青海國際公路腳踏車賽開賽； 12.日本民眾舉行集會 反對高市政權擴軍修憲； 13.美稱已同意伊朗請求繼續談判 伊朗稱從未提出談判請求 卡達與巴基斯坦繼續斡旋 國際能源署稱局勢再度趨緊給市場蒙上陰影； 14.國際聯播快訊： （1）俄稱推進戰線 烏稱設立遠端打擊司令部； （2）土或轉讓俄製防空系統 俄稱正與土溝通； （3）歐盟初步認定美國元宇宙平臺公司違規； （4）愛爾蘭一客機舷窗破碎緊急返航希臘。
-
----
-
-### 2026-07-11 21:55:22  #MKT News
-
-The Ministry of Emergency Management will raise Hebei's national geological-hazard emergency response from Level IV to Level III and will activate a Level IV national geological-hazard emergency response for Anhui.
-
----
-
-### 2026-07-11 21:53:40  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-RIA quoted Russia's defence ministry as saying Ukrainian President Zelenskiy has deployed nearly all available Western air- and missile-defence systems to Kyiv.
-
----
-
-### 2026-07-11 21:52:32  #其他
-
-【颱風“美莎克”殘餘環流已結束 廣西調整防汛防颱風應急響應】據廣西氣象局監測，今年第10號颱風“美莎克”殘餘環流在廣西已結束，廣西自然資源廳9日18時將地質災害防禦三級應急響應調整為四級，廣西水文中心11日13時將水文測報三級應急響應調整為四級。根據《廣西防汛抗旱應急預案》等有關規定，廣西防汛抗旱指揮部決定於7月11日18時將針對南寧、貴港的防汛防颱風（含地質災害）一級應急響應調整為三級，終止針對欽州、玉林的防汛防颱風（含地質災害）二級應急響應，保持廣西自然災害救助一級應急響應。
-
----
-
-### 2026-07-11 21:50:00  #其他
-
-【四川啟動洪水災害防禦四級響應】據四川省水利廳網站，綜合考慮當前降雨情況及未來72小時雨情、汛情變化趨勢，按照《四川省水利廳水旱災害防禦應急預案（2024年度修訂）》規定，經分管副廳長批准，7月11日20時00分，四川省水利廳啟動洪水災害防禦四級響應，水旱災害防禦領導小組各成員單位、相關市（州）水利（水務）局按照職責分工，全力做好水旱災害防禦各項工作。
-
----
-
-### 2026-07-11 21:49:36  #MKT News
-
-【Yangtze Yibin-section flood peak to pass Hejiangmen at 02:00 on 12th】Yibin flood-control office said continuous upstream rain has driven water levels on the Minjiang and Yangtze main and tributary channels higher; latest assessment shows the Yangtze Yibin-section flood peak will pass Hejiangmen waters at 02:00 on the 12th.
-
----
-
-### 2026-07-11 21:49:07  #市場
-
-【長江宜賓段洪峰明日凌晨2時過境】從四川省宜賓市防汛抗旱指揮部辦公室獲悉，受上游持續降雨影響，宜賓市岷江、長江干支流水位持續上漲，江河汛情形勢動態變化，最新研判顯示長江宜賓段洪峰將於12日凌晨2時過境合江門水域。
-
----
-
-### 2026-07-11 21:48:51  #其他
-
-【上海東海大橋已封閉管控】受颱風“巴威”影響，為確保道路交通安全，自7月11日21時起，對東海大橋實施封閉管控措施。（央視新聞）
-
----
-
-### 2026-07-11 21:48:06  #MKT News #Market Regions #Greater China
-
-【Shanghai Donghai Bridge closed to traffic】Affected by Typhoon Bavi, Shanghai's Donghai Bridge has been closed and placed under traffic control from 21:00 on July 11 to ensure road safety.
-
----
-
-### 2026-07-11 21:45:12  #MKT News
-
-Saudi Foreign Ministry said the Saudi foreign minister spoke with Pakistan's foreign minister, confirming Saudi support for mediation efforts and the resumption of dialogue.
-
----
-
-### 2026-07-11 21:42:46  #MKT News
-
-【Zhongke Xingtu to Release Aerospace Innovation Product Matrix】Zhongke Xingtu said it will host the 2026 Aerospace Information Conference and Ecosystem Partners Summit in Wuxi on July 16-17. The company will unveil a suite of aerospace products covering low-altitude safety, low-altitude planning and applications, space management and aerospace information cloud services, positioned as infrastructure to support aerospace development.
-
----
-
-### 2026-07-11 21:41:17  #其他
-
-【中科星圖：空天創新產品矩陣即將釋出】據中科星圖訊息，7月16日—17日，2026空天資訊大會暨中科星圖生態合夥人大會將在無錫舉辦。此次大會，中科星圖將釋出空天領域一系列創新成果，涵蓋低空安全、低空規劃、低空應用、太空管理、空天資訊雲服務等前沿方向，助力構建空天發展“新基建”。
-
----
-
-### 2026-07-11 21:39:32  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Ukraine's foreign minister said the country now needs firm, united action and must strip Russia of the ability to intimidate Ukrainian cities.
-
----
-
-### 2026-07-11 21:39:10  #MKT News #XAUUSD #Impact bullish #DXY
-
-Ukraine's foreign minister said Russia is continuing to attack Ukrainian cities with all available weapons and that this is not 'pressure' or 'escalation'.
-
----
-
-### 2026-07-11 21:38:25  #公司
-
-【巴黎多處地標因高溫縮短開放時間 】埃菲爾鐵塔運營方11日在官網釋出公告說，受氣溫大幅升高影響，埃菲爾鐵塔11日和12日將提前至16時關閉。位於巴黎的兩大知名博物館——盧浮宮和奧賽博物館也採取了相同措施。盧浮宮提前至16時閉館，這一安排將持續至13日；奧賽博物館提前至17時閉館，將持續至15日。據法國媒體報道，法國約四分之一的地區已進入最高階別的高溫紅色預警狀態。法國氣象局預計，巴黎11日最高氣溫將達36攝氏度，另有部分地區最高氣溫可能升至39至40攝氏度。本輪高溫天氣預計將持續至下週。（新華社）
-
----
-
-### 2026-07-11 21:36:30  #其他
-
-【“張雪機車”英國站首回合獲第8名】北京時間7月11日21時，2026世界超級摩托車錦標賽（WSBK）英國多寧頓站WorldSSP組別第一回合正賽中，中國摩托車製造商“張雪機車”旗下的法國車手瓦倫丁·德比斯獲得第8名。
-
----
-
-### 2026-07-11 21:36:23  #國際
-
-【伊朗議長：致阿里·哈梅內伊遇難的責任方必將受到懲罰】當地時間7月11日，伊朗議會議長卡利巴夫在社交平臺發文稱，將追究致阿里·哈梅內伊遇難相關方的責任。卡利巴夫強調，襲擊伊朗領土、殺害伊朗人士特別是致阿里·哈梅內伊遇難的責任方必將受到懲罰。（央視新聞）
-
----
-
-### 2026-07-11 21:35:57  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #DXY #Impact bearish
-
-【Global sovereign wealth funds ramp up AI investment】IE University research says that, as geopolitical alignments shift, sovereign wealth funds are prioritizing strategic national objectives alongside returns and increasingly treating artificial intelligence and semiconductors as strategic assets. Funds with combined AUM above $15 tln are becoming an important source of capital for AI investment.
-
----
-
-### 2026-07-11 21:35:12  #其他
-
-【民政部發布最新部署 全力做好民政領域防汛救災工作】近日，民政部印發通知，要求各地民政部門全力做好民政領域防汛救災工作。通知指出：要深刻認識災害對民政服務物件生命財產安全的嚴重威脅。要著力強化養老機構、兒童福利機構、精神衛生福利機構等民政服務機構汛期安全防範工作，抓緊對民政服務機構進行全覆蓋隱患排查，將安全隱患消除在成災前。要密切關注相關部門釋出的災害預警，嚴格落實直達基層責任人的臨災預警“叫應”和跟蹤反饋機制。要進一步細化應急預案，備齊應急物資，確保應急處置有序。要推動將民政服務機構納入當地防汛工作統一部署，遇險情確保應轉盡轉、應轉早轉、應轉快轉。要切實保障受災困難群眾基本生活，強化相關社會救助政策與受災人員救助政策的銜接，確保受災群眾得到及時救助。要加強對分散供養特困人員、留守老人、留守兒童、散居孤兒、事實無人撫養兒童、殘疾人等的巡查探訪和避險保護工作，加強因自然災害影響造成監護缺失兒童救助保護及智力障礙和精神障礙患者的救治救助工作，幫助他們安全度汛。通知要求，要規範引導社會力量科學有序參與救災。要積極配合應急管理等部門，規範引導應急救援領域社會組織發揮專業優勢，連結社會資源，有序協同開展防汛救災工作。要引導慈善組織主動對接災區需求，依法依規開展救災慈善捐贈，及時撥付捐贈款物，做好資訊公開。（央視新聞）
-
----
-
-### 2026-07-11 21:30:44  #其他
-
-【功夫女足票房破2.5億】據燈塔專業版實時資料，截至21時27分，影片《功夫女足》上映首日票房已突破2.5億。
-
----
-
-### 2026-07-11 21:30:29  #其他
-
-【廣西慈善組織及紅十字會系統接受捐贈善款超4.9億元】從廣西壯族自治區民政廳獲悉，截至7月11日15時，廣西慈善組織接收捐贈善款3.87億元，紅十字會系統（含廣西紅十字基金會）接收捐贈善款1.09億元；公益慈善組織接收捐贈生活物資超百萬件。（新華社）
-
----
-
-### 2026-07-11 21:29:55  #公司
-
-【雷軍分享澎程N90實車】7月11日，雷軍轉發分享小米澎程N90實車，“去掉偽裝的小米澎程N90  ”。 7月10日，小米汽車旗下第二產品系列——小米澎程宣佈首款SUV車型為小米澎程N90。
 
 ---
