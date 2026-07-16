@@ -1,7 +1,204 @@
 {
   "date": "2026-07-17",
-  "count": 91,
+  "count": 109,
   "items": [
+    {
+      "id": "mkt:019f6bef-eaed-7aab-8dce-105d6905b7de",
+      "time": "2026-07-17 01:18:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot platinum fell about 3% to $1,624.10/oz."
+    },
+    {
+      "id": "4992789",
+      "time": "2026-07-17 01:18:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約聯邦儲備銀行7月16日接受了提交至逆回購工具的全部1.25億美元申請量。"
+    },
+    {
+      "id": "mkt:019f6bef-7f27-7aab-8dce-0f6d8465168d",
+      "time": "2026-07-17 01:18:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Fed accepted $125 mln from one counterparty in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019f6bef-1fd2-7aab-8dce-062ebaafc410",
+      "time": "2026-07-17 01:17:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "LOGAN said inf does not appear to have sustainably returned to 2%."
+    },
+    {
+      "id": "mkt:019f6bef-1fc5-7aab-8dcd-f8e6ef0da5c8",
+      "time": "2026-07-17 01:17:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed's Logan said a surge in AI investment could trigger non-linear price increases."
+    },
+    {
+      "id": "mkt:019f6bee-4d2f-7aab-8dcd-f1711bdf3d2e",
+      "time": "2026-07-17 01:16:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed official Logan said labor, consumption and financial data indicate monetary policy has not restrained the economy."
+    },
+    {
+      "id": "mkt:019f6bee-45dc-7aab-8dcd-eae940c6b326",
+      "time": "2026-07-17 01:16:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Federal Reserve's LOGAN said the labor market is well balanced and even slightly stronger."
+    },
+    {
+      "id": "4992788",
+      "time": "2026-07-17 01:16:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：利率應略高一些。"
+    },
+    {
+      "id": "mkt:019f6bee-3097-7aab-8dcd-e131ee2c634c",
+      "time": "2026-07-17 01:16:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Fed's Logan: AI could ultimately trigger a surge in productivity, but demand effects are already evident."
+    },
+    {
+      "id": "mkt:019f6bee-2454-7aab-8dcd-dcbc26f9efcc",
+      "time": "2026-07-17 01:16:36",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "LOGAN: Downside risks to employment have diminished; inflation risks are primarily tilted to the upside."
+    },
+    {
+      "id": "mkt:019f6bee-1ae7-7aab-8dcd-d71822a9fe25",
+      "time": "2026-07-17 01:16:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "LOGAN: it is time to finish the job of restoring price stability; some policy restraint will be needed to help achieve that."
+    },
+    {
+      "id": "4992787",
+      "time": "2026-07-17 01:16:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：目前來看，進一步通貨緊縮的希望大於可能性。"
+    },
+    {
+      "id": "4992786",
+      "time": "2026-07-17 01:16:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：人工智慧的需求效應已經顯現，但供給效應尚不明朗。"
+    },
+    {
+      "id": "4992785",
+      "time": "2026-07-17 01:16:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：資料顯示貨幣政策並未抑制經濟。"
+    },
+    {
+      "id": "mkt:019f6bed-a321-7aab-8dcd-ce12f3a80500",
+      "time": "2026-07-17 01:16:03",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "LOGAN said a one-month decline in CPI inflation is \"not enough\"."
+    },
+    {
+      "id": "mkt:019f6bed-950e-7aab-8dcd-c38b6ac6ab3c",
+      "time": "2026-07-17 01:15:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "Fed official LOGAN said a \"moderate rate increase\" would better balance the outlook and risks."
+    },
+    {
+      "id": "4992784",
+      "time": "2026-07-17 01:15:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：適度提高利率能更好地平衡風險。"
+    },
+    {
+      "id": "4992783",
+      "time": "2026-07-17 01:15:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲洛根：傾向於為了降低通脹率而適度加息。"
+    },
     {
       "id": "mkt:019f6bec-d806-7aab-8dcd-b909f04af794",
       "time": "2026-07-17 01:15:11",
