@@ -1,7 +1,145 @@
 {
   "date": "2026-07-16",
-  "count": 1685,
+  "count": 1700,
   "items": [
+    {
+      "id": "mkt:019f69c3-3566-7aab-8dbf-b29aec357fa5",
+      "time": "2026-07-16 15:10:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SIOM advances mid-infrared continuous-wave laser spectral beam combining】Researchers Shao Jianda and Jin Yunxia at the High-Power Laser Components Technology and Engineering Department, Shanghai Institute of Optics and Fine Mechanics (Chinese Academy of Sciences), published in Optics Letters a jigsaw-grating spectral beam-combining architecture for mid-infrared continuous-wave lasers. The design stitches multiple small-aperture sub-gratings distributed within an equivalent large-aperture grating footprint to combine multiple mid-IR beams efficiently, avoiding dependence on a single ultra-large-aperture grating, lowering grating manufacturing difficulty and improving multi-channel scalability. The team presents the approach as a technical path to scale mid-IR multi-channel spectral beam combining from tens of watts toward the hundred-watt level and as a reference for building high-power multi-band (visible–THz) laser platforms."
+    },
+    {
+      "id": "mkt:019f69c3-271a-7aab-8dbf-abdaaa2c09e1",
+      "time": "2026-07-16 15:10:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea raises minimum margin for chip leveraged ETFs】South Korea's Financial Services Commission announced measures targeting single-stock leveraged ETFs: it raised minimum margin requirements for chip-focused leveraged ETFs and will ban new listings of single-stock leveraged products."
+    },
+    {
+      "id": "mkt:019f69c2-bead-7aab-8dbf-a37a156c49eb",
+      "time": "2026-07-16 15:09:58",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "USD/JPY dipped to 162.00, down 0.11% intraday."
+    },
+    {
+      "id": "mkt:019f69c2-be29-7aab-8dbf-9cb2261f7e6d",
+      "time": "2026-07-16 15:09:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "06809.HK",
+        "Impact bearish",
+        "03986.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks extended afternoon losses. 06809.HK fell more than 23%, 03986.HK (GigaDevice) dropped over 9%, 01347.HK declined about 6%. SMIC (00981.HK) and 02878.HK were also weaker."
+    },
+    {
+      "id": "4991649",
+      "time": "2026-07-16 15:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股半導體板塊午後持續走低，瀾起科技(06809.HK)跌超23%，兆易創新(03986.HK)跌超9%，華虹宏力(01347.HK)跌超6%，中芯國際(00981.HK)、晶門半導體(02878.HK)等跟跌。"
+    },
+    {
+      "id": "mkt:019f69c2-6e12-7aab-8dbf-94cefab48f28",
+      "time": "2026-07-16 15:09:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korean financial regulators are preparing measures to revise rules on single-stock leveraged ETFs."
+    },
+    {
+      "id": "4991648",
+      "time": "2026-07-16 15:09:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代與Alfen簽署諒解備忘錄】7月16日，據寧德時代訊息，寧德時代近日與新能源整合商Alfen N.V.簽署諒解備忘錄。雙方計劃自2027年起，在荷蘭等西歐國家部署5GWh的天恆鈉電儲能系統。"
+    },
+    {
+      "id": "4991646",
+      "time": "2026-07-16 15:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歌爾股份在長沙成立新科技公司 註冊資本100萬】天眼查App顯示，近日，長沙歌爾泰克科技有限公司成立，法定代表人為張一凡，註冊資本100萬人民幣，經營範圍包括人工智慧行業應用系統整合服務、貨物進出口、技術進出口等，由歌爾股份（002241）全資持股。"
+    },
+    {
+      "id": "mkt:019f69c0-fae7-7aab-8dbf-8acdc56894aa",
+      "time": "2026-07-16 15:08:02",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N): equipment prices are being affected by inf."
+    },
+    {
+      "id": "4991645",
+      "time": "2026-07-16 15:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究顯示西非極端降雨趨於頻繁】當地時間16日，國際科研機構“世界天氣歸因聯盟”表示，受全球氣候變化影響，西非地區發生強降雨的機率大增，約為19世紀末之前時期的5倍。該機構當天釋出的一份研究報告指出，持續三天的強降雨以往在西非較為罕見，但如今預計每兩到四年就會發生一次，且降雨強度較以往大幅提升。（央視新聞）"
+    },
+    {
+      "id": "4991644",
+      "time": "2026-07-16 15:07:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將禁止新的單一槓杆產品上市。"
+    },
+    {
+      "id": "4991643",
+      "time": "2026-07-16 15:06:53",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團將韓國2026年GDP增長預期從3.5%上調至3.7%。"
+    },
+    {
+      "id": "4991642",
+      "time": "2026-07-16 15:06:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾沃汽車：歐洲各地訂單預訂仍在開放，美國近期也開啟了預訂。"
+    },
+    {
+      "id": "4991641",
+      "time": "2026-07-16 15:06:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國提高晶片槓桿ETF的最低存款要求。"
+    },
+    {
+      "id": "4991640",
+      "time": "2026-07-16 15:06:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深創投左丁：2025年深圳獨角獸企業估值近1.2萬億元】7月16日，在2026中國（深圳）獨角獸企業大會上，深創投集團董事長左丁談到，2025年，深圳獨角獸企業達到47家，相比2024年的42家新晉獨角獸企業，淨增加5家，同比增加了11.9%，總估值近1.2萬億元。"
+    },
     {
       "id": "mkt:019f69bf-4527-7aab-8dbf-830a3a7b06a2",
       "time": "2026-07-16 15:06:10",

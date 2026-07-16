@@ -1,7 +1,145 @@
 {
-  "updated": "2026-07-16 15:07:46",
-  "count": 18767,
+  "updated": "2026-07-16 15:11:51",
+  "count": 18776,
   "items": [
+    {
+      "id": "mkt:019f69c3-3566-7aab-8dbf-b29aec357fa5",
+      "time": "2026-07-16 15:10:28",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【SIOM advances mid-infrared continuous-wave laser spectral beam combining】Researchers Shao Jianda and Jin Yunxia at the High-Power Laser Components Technology and Engineering Department, Shanghai Institute of Optics and Fine Mechanics (Chinese Academy of Sciences), published in Optics Letters a jigsaw-grating spectral beam-combining architecture for mid-infrared continuous-wave lasers. The design stitches multiple small-aperture sub-gratings distributed within an equivalent large-aperture grating footprint to combine multiple mid-IR beams efficiently, avoiding dependence on a single ultra-large-aperture grating, lowering grating manufacturing difficulty and improving multi-channel scalability. The team presents the approach as a technical path to scale mid-IR multi-channel spectral beam combining from tens of watts toward the hundred-watt level and as a reference for building high-power multi-band (visible–THz) laser platforms."
+    },
+    {
+      "id": "mkt:019f69c3-271a-7aab-8dbf-abdaaa2c09e1",
+      "time": "2026-07-16 15:10:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea raises minimum margin for chip leveraged ETFs】South Korea's Financial Services Commission announced measures targeting single-stock leveraged ETFs: it raised minimum margin requirements for chip-focused leveraged ETFs and will ban new listings of single-stock leveraged products."
+    },
+    {
+      "id": "4991649",
+      "time": "2026-07-16 15:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股半導體板塊午後持續走低，瀾起科技(06809.HK)跌超23%，兆易創新(03986.HK)跌超9%，華虹宏力(01347.HK)跌超6%，中芯國際(00981.HK)、晶門半導體(02878.HK)等跟跌。"
+    },
+    {
+      "id": "mkt:019f69c2-bead-7aab-8dbf-a37a156c49eb",
+      "time": "2026-07-16 15:09:58",
+      "tags": [
+        "MKT News",
+        "USDJPY"
+      ],
+      "text": "USD/JPY dipped to 162.00, down 0.11% intraday."
+    },
+    {
+      "id": "mkt:019f69c2-be29-7aab-8dbf-9cb2261f7e6d",
+      "time": "2026-07-16 15:09:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "06809.HK",
+        "Impact bearish",
+        "03986.HK",
+        "00981.HK"
+      ],
+      "text": "Hong Kong semiconductor stocks extended afternoon losses. 06809.HK fell more than 23%, 03986.HK (GigaDevice) dropped over 9%, 01347.HK declined about 6%. SMIC (00981.HK) and 02878.HK were also weaker."
+    },
+    {
+      "id": "mkt:019f69c2-6e12-7aab-8dbf-94cefab48f28",
+      "time": "2026-07-16 15:09:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korean financial regulators are preparing measures to revise rules on single-stock leveraged ETFs."
+    },
+    {
+      "id": "4991648",
+      "time": "2026-07-16 15:09:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧德時代與Alfen簽署諒解備忘錄】7月16日，據寧德時代訊息，寧德時代近日與新能源整合商Alfen N.V.簽署諒解備忘錄。雙方計劃自2027年起，在荷蘭等西歐國家部署5GWh的天恆鈉電儲能系統。"
+    },
+    {
+      "id": "4991646",
+      "time": "2026-07-16 15:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歌爾股份在長沙成立新科技公司 註冊資本100萬】天眼查App顯示，近日，長沙歌爾泰克科技有限公司成立，法定代表人為張一凡，註冊資本100萬人民幣，經營範圍包括人工智慧行業應用系統整合服務、貨物進出口、技術進出口等，由歌爾股份（002241）全資持股。"
+    },
+    {
+      "id": "mkt:019f69c0-fae7-7aab-8dbf-8acdc56894aa",
+      "time": "2026-07-16 15:08:02",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N): equipment prices are being affected by inf."
+    },
+    {
+      "id": "4991645",
+      "time": "2026-07-16 15:07:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【研究顯示西非極端降雨趨於頻繁】當地時間16日，國際科研機構“世界天氣歸因聯盟”表示，受全球氣候變化影響，西非地區發生強降雨的機率大增，約為19世紀末之前時期的5倍。該機構當天釋出的一份研究報告指出，持續三天的強降雨以往在西非較為罕見，但如今預計每兩到四年就會發生一次，且降雨強度較以往大幅提升。（央視新聞）"
+    },
+    {
+      "id": "4991644",
+      "time": "2026-07-16 15:07:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將禁止新的單一槓杆產品上市。"
+    },
+    {
+      "id": "4991643",
+      "time": "2026-07-16 15:06:53",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "花旗集團將韓國2026年GDP增長預期從3.5%上調至3.7%。"
+    },
+    {
+      "id": "4991642",
+      "time": "2026-07-16 15:06:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾沃汽車：歐洲各地訂單預訂仍在開放，美國近期也開啟了預訂。"
+    },
+    {
+      "id": "4991641",
+      "time": "2026-07-16 15:06:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國提高晶片槓桿ETF的最低存款要求。"
+    },
+    {
+      "id": "4991640",
+      "time": "2026-07-16 15:06:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深創投左丁：2025年深圳獨角獸企業估值近1.2萬億元】7月16日，在2026中國（深圳）獨角獸企業大會上，深創投集團董事長左丁談到，2025年，深圳獨角獸企業達到47家，相比2024年的42家新晉獨角獸企業，淨增加5家，同比增加了11.9%，總估值近1.2萬億元。"
+    },
     {
       "id": "mkt:019f69bf-4527-7aab-8dbf-830a3a7b06a2",
       "time": "2026-07-16 15:06:10",
@@ -172427,55 +172565,6 @@
         "其他"
       ],
       "text": "默茨稱極右勢力會將德國“送入深淵”。"
-    },
-    {
-      "id": "4978413",
-      "time": "2026-07-09 15:11:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中郵證券：首予中富電路“買入”評級，結構最佳化驅動營收與盈利雙高增】中郵證券研報指出，中富電路結構最佳化驅動營收與盈利雙高增。公司2025年實現營業收入18.79億元，同比增長29.24%；歸母淨利潤0.29億元。2026年一季度公司業績延續高增長態勢，實現營業收入5.20億元，同比增長37.81%；歸母淨利潤0.19億元，同比增長89.32%，盈利端增速顯著高於收入增速。客戶資源優質穩定，海外佈局加速落地；產能技術雙發力，把握AI機遇。未來公司將堅持“技術領先、細分應用”的發展路線，持續深耕AI電源領域，重點突破晶片封裝電源核心技術，推進高頻高速、大電流高導熱、埋晶片/電感/磁材/電容等新型產品研發，加速向下一代光模組、MEMS、AI電源模組等高階場景匯入，並佈局機器人、感測器等前沿領域技術開發，持續為營收增長注入技術動能，豐富產品儲備。預計公司2026/2027/2028年分別實現收入27/37/49億元，實現歸母淨利潤分別為2.1/5.3/8.7億元，首次覆蓋給予“買入”評級。"
-    },
-    {
-      "id": "4978412",
-      "time": "2026-07-09 15:10:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "華碩6月銷售額1,067億元新臺幣，同比增長56%。"
-    },
-    {
-      "id": "4978411",
-      "time": "2026-07-09 15:10:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國防部：“臺獨”是絕路 統一是正道】7月9日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。據報道，賴清德在出席臺軍校畢業典禮時稱，臺將持續加強對外軍購和防衛自主。近期，臺海軍還調整組建“濱海作戰指揮部”。請問有何評論？陳曦表示，賴清德鼓譟“以武謀獨”、“倚外謀獨”，再次暴露其“和平破壞者”、“戰爭煽動者”的真實面目。無論賴清德說什麼、做什麼，都改變不了兩岸軍力對比態勢，更阻擋不了祖國必然統一的歷史大勢。“臺獨”是絕路，統一是正道。希望廣大臺灣同胞看清民進黨當局頑固堅持“臺獨”分裂路線的極端危險性、危害性，與我們一道堅決打擊“臺獨”分裂勢力，反對外部勢力干涉，共同維護臺海和平穩定。（大灣區之聲）"
-    },
-    {
-      "id": "4978410",
-      "time": "2026-07-09 15:09:20",
-      "tags": [
-        "兩會"
-      ],
-      "text": "【貴州省政協文化文史與學習委員會原副主任王德玉被開除黨籍】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：經貴州省委批准，貴州省紀委監委對貴州省政協文化文史與學習委員會原副主任王德玉嚴重違紀違法問題進行了立案審查調查。經查，王德玉喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，接受可能影響公正執行公務的宴請；違背組織原則，不如實報告個人有關事項；違反廉潔紀律，接受可能影響公正執行公務的宴請；違反工作紀律，違規干預和插手司法活動；貪慾膨脹，大搞權錢交易，利用職務便利以及職權或者地位形成的便利條件，為他人謀取利益，非法收受鉅額財物。王德玉嚴重違反黨的政治紀律、組織紀律、廉潔紀律和工作紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經貴州省紀委常委會會議研究並報貴州省委批准，決定給予王德玉開除黨籍處分；按規定取消其享受的待遇；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "4978409",
-      "time": "2026-07-09 15:09:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "日月光投控第二季度營收1,910.6億元新臺幣，預估1,886.5億元新臺幣。"
-    },
-    {
-      "id": "4978408",
-      "time": "2026-07-09 15:08:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國防部：日本明目張膽將太空作為作戰領域】7月9日下午，國防部新聞發言人陳曦大校就近期涉軍問題釋出訊息。記者：據報道，日本參議院近日透過《防衛省設定法》修正案，將航空自衛隊更名為“航空宇宙自衛隊”，並配套組建“宇宙作戰集團”。請問對此有何評論？陳曦：近年來，日本明目張膽將太空作為作戰領域，把軍事擴張野心伸向太空，相關領域軍事投入5年內增長10倍，作戰兵力擴張30餘倍，這些舉動加速推動太空武器化、戰場化，刺激太空軍備競賽，也再次證明日本“新型軍國主義”已成為赤裸裸的現實威脅。太空的持久和平與安全關乎各國的安全、發展和繁榮，愛好和平的人們應高度警惕日方在太空領域的危險動向，堅決遏阻日本右翼勢力加速“再軍事化”，維護好全人類的共同家園。"
     }
   ]
 }
