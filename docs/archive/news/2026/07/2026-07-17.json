@@ -1,7 +1,35 @@
 {
   "date": "2026-07-17",
-  "count": 70,
+  "count": 73,
   "items": [
+    {
+      "id": "4992770",
+      "time": "2026-07-17 00:50:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪拜媒體辦公室在社交平臺上否認了迪拜市內出現爆炸聲的報道。"
+    },
+    {
+      "id": "mkt:019f6bd5-bc89-7aab-8dcd-89991889857d",
+      "time": "2026-07-17 00:49:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran adviser warns attacks on infrastructure could jeopardize regional energy supply】An adviser to Iran’s supreme leader warned on the 16th that recent attacks in Ahvaz and Iranshahr are part of the same campaign as an earlier strike on a Minab school and that assaults on Iranian security and infrastructure could disrupt regional energy supply chains and pose serious risks to regional energy security. Khuzestan deputy governor said on the 15th that areas around provincial capital Ahvaz were struck in attacks he blamed on US forces, with shells hitting near a local hospital. Sistan-Baluchestan deputy governor confirmed Iranshahr airport was attacked in the early hours of the 9th, and a firefighter was killed."
+    },
+    {
+      "id": "mkt:019f6bd4-340d-7aab-8dcd-864a8120b586",
+      "time": "2026-07-17 00:48:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI chairman says no update on IPO timing】OpenAI chairman Bret Taylor told CNBC there is no update on IPO timing. He reiterated that last month’s confidential filing with the US Securities and Exchange Commission was intended to preserve optionality rather than signal a firm timetable, and said the company has many priorities to address before going public."
+    },
     {
       "id": "4992769",
       "time": "2026-07-17 00:46:22",

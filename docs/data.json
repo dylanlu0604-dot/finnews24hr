@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-17 00:47:33",
+  "updated": "2026-07-17 00:51:34",
   "count": 18747,
   "items": [
+    {
+      "id": "4992770",
+      "time": "2026-07-17 00:50:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪拜媒體辦公室在社交平臺上否認了迪拜市內出現爆炸聲的報道。"
+    },
+    {
+      "id": "mkt:019f6bd5-bc89-7aab-8dcd-89991889857d",
+      "time": "2026-07-17 00:49:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran adviser warns attacks on infrastructure could jeopardize regional energy supply】An adviser to Iran’s supreme leader warned on the 16th that recent attacks in Ahvaz and Iranshahr are part of the same campaign as an earlier strike on a Minab school and that assaults on Iranian security and infrastructure could disrupt regional energy supply chains and pose serious risks to regional energy security. Khuzestan deputy governor said on the 15th that areas around provincial capital Ahvaz were struck in attacks he blamed on US forces, with shells hitting near a local hospital. Sistan-Baluchestan deputy governor confirmed Iranshahr airport was attacked in the early hours of the 9th, and a firefighter was killed."
+    },
+    {
+      "id": "mkt:019f6bd4-340d-7aab-8dcd-864a8120b586",
+      "time": "2026-07-17 00:48:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【OpenAI chairman says no update on IPO timing】OpenAI chairman Bret Taylor told CNBC there is no update on IPO timing. He reiterated that last month’s confidential filing with the US Securities and Exchange Commission was intended to preserve optionality rather than signal a firm timetable, and said the company has many priorities to address before going public."
+    },
     {
       "id": "4992769",
       "time": "2026-07-17 00:46:22",
@@ -172324,36 +172352,6 @@
         "其他"
       ],
       "text": "LME期銅收漲324美元，報13490美元/噸。LME期鋁收漲68美元，報3200美元/噸。LME期鋅收漲108美元，報3626美元/噸。LME期鉛收平，報1892美元/噸。LME期鎳收漲249美元，報16587美元/噸。LME期錫收漲1552美元，報53647美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019f47ca-122f-7aab-8d1e-2a19622315a5",
-      "time": "2026-07-10 00:50:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Belgium's prime minister said the country's defense spending rise is the largest in NATO and has reached the 2% target."
-    },
-    {
-      "id": "mkt:019f47c8-4a5a-7aab-8d1e-257ce3dc279f",
-      "time": "2026-07-10 00:48:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【Polish central bank buys 82 tonnes of gold YTD as prices slide】Polish central bank Governor Glapinski said the bank has purchased 82 tonnes of gold year-to-date, including 37 tonnes added since April — roughly $5bn at current prices — buying into a more-than-10% drop in gold since April. He said purchases were opportunistic; Poland’s reported 2025 gold buying exceeded any other central bank’s and is expected to continue setting records this year. The bank reiterated a 700-tonne gold reserve target and said current holdings total 632.4 tonnes, with 105 tonnes stored in Poland and the remainder held in London and New York."
-    },
-    {
-      "id": "te:markets:565783",
-      "time": "2026-07-10 00:48:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rebound — US stocks gained traction on Thursday amid gains for chip producers and an improvement in credit conditions. The S&P 500 rose 0.5% and the Nasdaq 100 gained 1.3%, while the Dow rose 200 points. Memory chip producers were sharply higher as markets reconsidered the speculative outlook of AI infrastructure manufacturers. These were magnified by the introduction of SK Hynix ADRs tomorrow, the world's largest memory producer, with reports stating the receipts are seven times oversubscribed. Micron and Sandisk were 7% up. Meanwhile, oil prices and bond yields eased amid evidence that laden tankers continued to cross the Strait of Hormuz despite fresh attacks between the US and Iran. This supported the financial sector with Morgan Stanley, Goldman Sachs, and American Express, adding around 3% each. Meanwhile, Meta rebounded from early losses to a 2% gain after announcing it will target production of its own AI chip by September."
     }
   ]
 }
