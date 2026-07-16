@@ -1,7 +1,26 @@
 {
   "date": "2026-07-17",
-  "count": 588,
+  "count": 590,
   "items": [
+    {
+      "id": "mkt:019f6d55-b9eb-7aab-8dd3-39c0d9fc2408",
+      "time": "2026-07-17 07:49:22",
+      "tags": [
+        "MKT News",
+        "CMCSA.O",
+        "DIS.O"
+      ],
+      "text": "White House communications director Zhang Zhenxi called NBC and ABC cowards, accusing the networks of trying to hide the truth and of not wanting viewers to hear it. Earlier reports said both networks would not televise Trump's prime-time address today."
+    },
+    {
+      "id": "4993078",
+      "time": "2026-07-17 07:48:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲0.5個基點，至2.715%。"
+    },
     {
       "id": "4993077",
       "time": "2026-07-17 07:46:27",

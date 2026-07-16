@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-17 07:47:20",
-  "count": 18816,
+  "updated": "2026-07-17 07:51:14",
+  "count": 18811,
   "items": [
+    {
+      "id": "mkt:019f6d55-b9eb-7aab-8dd3-39c0d9fc2408",
+      "time": "2026-07-17 07:49:22",
+      "tags": [
+        "MKT News",
+        "CMCSA.O",
+        "DIS.O"
+      ],
+      "text": "White House communications director Zhang Zhenxi called NBC and ABC cowards, accusing the networks of trying to hide the truth and of not wanting viewers to hear it. Earlier reports said both networks would not televise Trump's prime-time address today."
+    },
+    {
+      "id": "4993078",
+      "time": "2026-07-17 07:48:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上漲0.5個基點，至2.715%。"
+    },
     {
       "id": "4993077",
       "time": "2026-07-17 07:46:27",
@@ -173042,74 +173061,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普解僱了所有三名聯邦選舉委員會成員。"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607103800670669",
-      "time": "2026-07-10 07:50:53",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本6月生產者價格同比增長7.1%，預估為6.8%。"
-    },
-    {
-      "id": "4979882",
-      "time": "2026-07-10 07:50:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本6月生產者價格環比增長0.4%; 預估為+0.4%。日本6月生產者價格同比增長7.1%; 預估為+6.8%。"
-    },
-    {
-      "id": "mkt:019f4949-f357-7aab-8d22-89898075d099",
-      "time": "2026-07-10 07:50:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan June domestic corporate goods price index (CGPI) MoM 0.4 pct; expected 0.40 pct; May 0.90 pct."
-    },
-    {
-      "id": "mkt:019f4949-f0a0-7aab-8d22-8552fa7a34d5",
-      "time": "2026-07-10 07:50:10",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225"
-      ],
-      "text": "Japan June domestic corporate goods price index YoY 7.1% vs expected 6.8%; prior 6.3%."
-    },
-    {
-      "id": "mkt:019f4949-ce98-7aab-8d22-7b08c5b58233",
-      "time": "2026-07-10 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Corporate Goods Price Index (YoY) (Jun) | actual 7.1% | consensus 6.80% | previous 6.30%"
-    },
-    {
-      "id": "mkt:019f4949-ce90-7aab-8d22-71c46d9a2e4b",
-      "time": "2026-07-10 07:50:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Corporate Goods Price Index (MoM) (Jun) | actual 0.4% | consensus 0.40% | previous 0.90%"
-    },
-    {
-      "id": "4979881",
-      "time": "2026-07-10 07:49:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【經濟日報：大額存單轉讓豈能是黃牛生意】經濟日報文章稱，近年來，存款利率持續走低，社交平臺上悄然興起一門“新生意”——不少黃牛號稱手握稀缺高息存單資源，釋出大額存單轉讓帖，吸引投資者詢價購買。大額存單轉讓的初衷是解決儲戶臨時資金週轉需求，本是雙贏的制度設計，如今卻被黃牛鑽了空子，異化為牟利工具，其潛在風險隱患不可小覷。從表面看，黃牛似乎是在“幫”投資者獲得稀缺資源，但實際上卻是在擾亂正常金融秩序，侵害投資者權益。治理大額存單轉讓中的黃牛亂象，不能只停留在“打擊”層面，而要堅持疏堵並舉、標本兼治。大額存單不該成為黃牛炒作的標的。唯有監管守牢底線、銀行履職盡責、投資者理性參與，才能讓金融服務迴歸本源，讓百姓理財更安心、更放心。"
     }
   ]
 }
