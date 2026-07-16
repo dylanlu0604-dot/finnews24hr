@@ -1,7 +1,85 @@
 {
   "date": "2026-07-16",
-  "count": 732,
+  "count": 740,
   "items": [
+    {
+      "id": "mkt:019f686a-5727-7aab-8db3-29a7d14ce940",
+      "time": "2026-07-16 08:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hanmi Semiconductor plans new South Korea plant】Hanmi Semiconductor is weighing construction of an eighth and largest production facility, to be sited next to its seventh plant now under construction in Incheon, after forecasting an AI-semiconductor equipment shortage from next year. Chairman Guo Dongxin said equipment demand will exceed supply beginning next year. The company expects rapid growth in demand for hot-press and hybrid bonders as global chipmakers increase investment, and plans to open a U.S. subsidiary in San Jose by end-2026 to strengthen technical support."
+    },
+    {
+      "id": "4991006",
+      "time": "2026-07-16 08:52:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "恆富控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "mkt:019f6868-966d-7aab-8db3-264d1f554e14",
+      "time": "2026-07-16 08:51:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's health ministry said recent US strikes have killed 35 people and injured 300."
+    },
+    {
+      "id": "mkt:019f6867-d800-7aab-8db3-1dfefaee3f1f",
+      "time": "2026-07-16 08:51:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Strong winter storm in Chile may temporarily disrupt copper exports】Chile is being hit by a strong winter front expected to peak July 16-17 and possibly persist through July 20-21. Northern high-altitude and mountainous mining districts including Antofagasta and Atacama are forecast to see moderate-to-heavy snow and high winds; central to southern Chile face sustained heavy rain with elevated flood, landslide and mudslide risk. The government has activated preventive emergency measures and the mining regulator is coordinating contingency plans with major producers. SMM and local industry sources say heavy snow and rain could temporarily disrupt mine road transport and port loading, creating short-term delays to copper concentrate and electrolytic copper shipments; the actual impact will depend on storm duration and mine operational responses."
+    },
+    {
+      "id": "mkt:019f6867-24b6-7aab-8db3-1350f6ddd21a",
+      "time": "2026-07-16 08:50:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Bank of Korea raises rates for first time in 3.5 years】The Bank of Korea raised its policy rate by 25 bps to 2.75%, the first hike since January 2023, in line with market expectations."
+    },
+    {
+      "id": "mkt:019f6867-1b7c-7aab-8db3-0bf7188b091e",
+      "time": "2026-07-16 08:50:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea policy rate decision as of July 16: 2.75% (expected 2.75%, prior 2.50%)."
+    },
+    {
+      "id": "4991005",
+      "time": "2026-07-16 08:50:11",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國央行將基準利率上調25個基點至2.75%】韓國央行將政策利率從2.50%上調至2.75%，為2023年1月以來首次加息；預計利率為2.75%。"
+    },
+    {
+      "id": "mkt:019f6866-ee6e-7aab-8db3-077432b46dfc",
+      "time": "2026-07-16 08:50:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | BOK Base Rate (Jul.16) | actual 2.75% | consensus 2.75% | previous 2.50%"
+    },
     {
       "id": "4991004",
       "time": "2026-07-16 08:49:41",

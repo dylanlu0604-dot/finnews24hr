@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-16 08:50:20",
-  "count": 18623,
+  "updated": "2026-07-16 08:54:15",
+  "count": 18625,
   "items": [
+    {
+      "id": "mkt:019f686a-5727-7aab-8db3-29a7d14ce940",
+      "time": "2026-07-16 08:53:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hanmi Semiconductor plans new South Korea plant】Hanmi Semiconductor is weighing construction of an eighth and largest production facility, to be sited next to its seventh plant now under construction in Incheon, after forecasting an AI-semiconductor equipment shortage from next year. Chairman Guo Dongxin said equipment demand will exceed supply beginning next year. The company expects rapid growth in demand for hot-press and hybrid bonders as global chipmakers increase investment, and plans to open a U.S. subsidiary in San Jose by end-2026 to strengthen technical support."
+    },
+    {
+      "id": "4991006",
+      "time": "2026-07-16 08:52:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "恆富控股有限公司在香港暫停交易。"
+    },
+    {
+      "id": "mkt:019f6868-966d-7aab-8db3-264d1f554e14",
+      "time": "2026-07-16 08:51:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's health ministry said recent US strikes have killed 35 people and injured 300."
+    },
+    {
+      "id": "mkt:019f6867-d800-7aab-8db3-1dfefaee3f1f",
+      "time": "2026-07-16 08:51:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【Strong winter storm in Chile may temporarily disrupt copper exports】Chile is being hit by a strong winter front expected to peak July 16-17 and possibly persist through July 20-21. Northern high-altitude and mountainous mining districts including Antofagasta and Atacama are forecast to see moderate-to-heavy snow and high winds; central to southern Chile face sustained heavy rain with elevated flood, landslide and mudslide risk. The government has activated preventive emergency measures and the mining regulator is coordinating contingency plans with major producers. SMM and local industry sources say heavy snow and rain could temporarily disrupt mine road transport and port loading, creating short-term delays to copper concentrate and electrolytic copper shipments; the actual impact will depend on storm duration and mine operational responses."
+    },
+    {
+      "id": "mkt:019f6867-24b6-7aab-8db3-1350f6ddd21a",
+      "time": "2026-07-16 08:50:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Bank of Korea raises rates for first time in 3.5 years】The Bank of Korea raised its policy rate by 25 bps to 2.75%, the first hike since January 2023, in line with market expectations."
+    },
+    {
+      "id": "mkt:019f6867-1b7c-7aab-8db3-0bf7188b091e",
+      "time": "2026-07-16 08:50:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea policy rate decision as of July 16: 2.75% (expected 2.75%, prior 2.50%)."
+    },
+    {
+      "id": "4991005",
+      "time": "2026-07-16 08:50:11",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "【韓國央行將基準利率上調25個基點至2.75%】韓國央行將政策利率從2.50%上調至2.75%，為2023年1月以來首次加息；預計利率為2.75%。"
+    },
+    {
+      "id": "mkt:019f6866-ee6e-7aab-8db3-077432b46dfc",
+      "time": "2026-07-16 08:50:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | BOK Base Rate (Jul.16) | actual 2.75% | consensus 2.75% | previous 2.50%"
+    },
     {
       "id": "4991004",
       "time": "2026-07-16 08:49:41",
@@ -171199,59 +171277,6 @@
         "MKT News"
       ],
       "text": "【Zhongjin Lingnan unit commissions Ganzhou high‑energy composite metal electroplating plant in Jiangxi】Zhongjin Lingnan unit Zhongjin Technology began production on July 6 at a Ganzhou high‑energy composite metal electroplating project in the Xinyu electroplating centralized control zone, Jiangxi province. The facility uses a continuous localized electroplating process covering pre‑treatment, nickel underplate, masked localized tin plating and post‑treatment; coating thickness tolerance is controlled within ±0.5μm and product performance is benchmarked to industry‑leading levels."
-    },
-    {
-      "id": "mkt:019f445d-a310-7aab-8d02-3dfa0c57f598",
-      "time": "2026-07-09 08:53:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's air-defense system successfully intercepted an Iranian attack."
-    },
-    {
-      "id": "4977826",
-      "time": "2026-07-09 08:53:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金嶺南所屬中金科技贛州高能複合金屬材料電鍍生產專案竣工投產】據中國有色金屬報，7月6日，中金嶺南所屬中金科技贛州高能複合金屬材料電鍍專案在江西省新餘市電鍍集控區正式投產。該專案採用連續式區域性電鍍工藝，涵蓋前處理、鍍鎳打底、模具遮蔽區域性鍍錫、後處理保護四大環節，鍍層厚度公差穩定控制在±0.5μm以內，產品效能對標行業先進水平。"
-    },
-    {
-      "id": "4977825",
-      "time": "2026-07-09 08:52:12",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：用電需求高景氣，風光出力邊際改善】中信證券研報表示，5月全社會用電增速環比提升至6.9%，出口高增與製造業用電穩步增長共同驅動用電需求維持高景氣。電源端投資延續分化，核電風電保持高增，受高基數影響光伏新增裝機規模同比減少70%；電網側投資維持高增速。風光利用小時數環比顯著改善，或主要受益於風光資源條件好轉。廣東、江蘇等主要沿海省份7月月度電價延續上行態勢。"
-    },
-    {
-      "id": "4977824",
-      "time": "2026-07-09 08:51:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗Press TV：駐紮在科威特的美軍軍事基地遭到伊朗的報復性襲擊。"
-    },
-    {
-      "id": "mkt:019f445b-7348-7aab-8d02-30cc00ab06ae",
-      "time": "2026-07-09 08:51:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Press TV reported that a US military base in Kuwait was hit in what it described as a retaliatory attack by Iran."
-    },
-    {
-      "id": "4977823",
-      "time": "2026-07-09 08:51:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【速騰聚創上半年銷量達71.92萬臺，機器人業務增長510%】7月9日，速騰聚創公佈2026年上半年銷量資料。公司鐳射雷達產品上半年總銷量719,200臺，同比增長170%。其中，機器人業務銷量282,600臺，同比增長510%；ADAS業務銷量436,600臺，同比增長98%。2026年第二季度，速騰聚創鐳射雷達總銷量達388,900臺。其中，機器人領域鐳射雷達銷量97,100臺，同比增長182%，ADAS領域鐳射雷達銷量291,800臺，同比增長136%。"
     }
   ]
 }
