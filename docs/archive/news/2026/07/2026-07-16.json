@@ -1,7 +1,491 @@
 {
   "date": "2026-07-16",
-  "count": 2729,
+  "count": 2770,
   "items": [
+    {
+      "id": "4992404",
+      "time": "2026-07-16 20:33:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國氣候預報中心（CPC）：2026年10-12月發生極強厄爾尼諾事件的機率為81%。"
+    },
+    {
+      "id": "mkt:019f6aea-5128-7aab-8dc8-bb959dd5887b",
+      "time": "2026-07-16 20:32:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. weather forecasting agency says El Nifio has strengthened over the past month and is expected to continue strengthening into 2026, persisting into early 2027."
+    },
+    {
+      "id": "mkt:019f6ae9-8ef2-7aab-8dc8-b7b77d4da5a3",
+      "time": "2026-07-16 20:31:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US two-year Treasury yield rose 3.39bps to 4.162% at the close."
+    },
+    {
+      "id": "mkt:019f6ae9-72ed-7aab-8dc8-ae28802dd6b2",
+      "time": "2026-07-16 20:31:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 10-year Treasury yield rose 3.65 bps to 4.582%."
+    },
+    {
+      "id": "4992402",
+      "time": "2026-07-16 20:31:44",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率在零售銷售資料公佈後小幅回落漲幅；10年期美債收益率最新上漲3.65個基點，報4.582%。兩年期美國國債收益率最新上漲3.39個基點，報4.162%。"
+    },
+    {
+      "id": "mkt:019f6ae9-512d-7aab-8dc8-a299172a33ed",
+      "time": "2026-07-16 20:31:43",
+      "tags": [
+        "MKT News",
+        "S&P500"
+      ],
+      "text": "S&P 500 futures were little changed after the release of June retail sales data."
+    },
+    {
+      "id": "4992401",
+      "time": "2026-07-16 20:31:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "Klarna集團完成5.18億美元重大風險轉移交易。"
+    },
+    {
+      "id": "mkt:019f6ae8-d5bc-7aab-8dc8-9ebe872d3f62",
+      "time": "2026-07-16 20:31:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "US July Philadelphia Fed manufacturing shipments index 33.7, prior 14.9."
+    },
+    {
+      "id": "mkt:019f6ae8-ba31-7aab-8dc8-912e3f6baa86",
+      "time": "2026-07-16 20:31:04",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US Philadelphia Fed manufacturing prices received index rose to 27.4 in July from 20.3 previously."
+    },
+    {
+      "id": "mkt:019f6ae8-b7ae-7aab-8dc8-8a68aa8e51a0",
+      "time": "2026-07-16 20:31:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Shipments Index (Jul) | actual 33.7 | previous 14.9"
+    },
+    {
+      "id": "4992400",
+      "time": "2026-07-16 20:30:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中交集團董事長宋海良與湖南省副省長餘紅勝舉行會談】7月16日，中交集團黨委書記、董事長宋海良與來訪的湖南省副省長餘紅勝舉行會談。雙方圍繞深化企地戰略協同、推進重點專案合作進行深入交流。"
+    },
+    {
+      "id": "mkt:019f6ae8-9354-7aab-8dc8-8487c3ad8c30",
+      "time": "2026-07-16 20:30:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Prices Received Index (Jul) | actual 27.4 | previous 20.3"
+    },
+    {
+      "id": "4992399",
+      "time": "2026-07-16 20:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：美國下營銷年度周度大豆出口淨銷售為176.96萬噸。"
+    },
+    {
+      "id": "mkt:019f6ae8-5e40-7aab-8dc8-7c3080a94087",
+      "time": "2026-07-16 20:30:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "US10Y"
+      ],
+      "text": "US June core retail sales $625.024 bln; prior $623.444 bln."
+    },
+    {
+      "id": "mkt:019f6ae8-4674-7aab-8dc8-7697129ec7e3",
+      "time": "2026-07-16 20:30:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "June U.S. retail sales $768.553 bln; prior $763.705 bln."
+    },
+    {
+      "id": "mkt:019f6ae8-3b0c-7aab-8dc8-6ec0b53487dd",
+      "time": "2026-07-16 20:30:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core Retail Sales (Jun) | actual 625024000000B | previous 623444000000B"
+    },
+    {
+      "id": "mkt:019f6ae8-27f5-7aab-8dc8-648d0426350f",
+      "time": "2026-07-16 20:30:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for the week ending July 11 recorded 208,000, the lowest since the week of May 2, 2026."
+    },
+    {
+      "id": "mkt:019f6ae8-2625-7aab-8dc8-58632d0b9a32",
+      "time": "2026-07-16 20:30:26",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US June retail sales control group +0.5% MoM, matching consensus +0.5%; prior revised up from 0.70% to 0.8%."
+    },
+    {
+      "id": "mkt:019f6ae8-1fb3-7aab-8dc8-5607def22975",
+      "time": "2026-07-16 20:30:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Retail Sales (Jun) | actual 768553000000B | previous 763705000000B"
+    },
+    {
+      "id": "4992398",
+      "time": "2026-07-16 20:30:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國7月費城聯儲製造業指數 41.4，預期13，前值10.3。\n美國7月費城聯儲製造業物價支付指數 53.9，前值53.2。\n美國7月費城聯儲製造業新訂單指數 37，前值27.3。"
+    },
+    {
+      "id": "mkt:019f6ae8-15ef-7aab-8dc8-4db863d4a04f",
+      "time": "2026-07-16 20:30:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "US Philadelphia Fed manufacturing employment index (July) 10.0; prior 7.9."
+    },
+    {
+      "id": "mkt:019f6ae8-1471-7aab-8dc8-42ec0cecd584",
+      "time": "2026-07-16 20:30:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact mixed",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "US June core retail sales -0.2% MoM vs -0.1% expected; May revised up to 1.0% from 0.8%."
+    },
+    {
+      "id": "mkt:019f6ae8-145f-7aab-8dc8-3d84e929fbc1",
+      "time": "2026-07-16 20:30:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US July Philadelphia Fed manufacturing index at 41.4, highest since Nov 2021."
+    },
+    {
+      "id": "mkt:019f6ae8-0bd6-7aab-8dc8-3726086fd152",
+      "time": "2026-07-16 20:30:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "U.S. Philadelphia Fed manufacturing prices paid index for July 53.9, prior 53.2."
+    },
+    {
+      "id": "mkt:019f6ae8-0bc7-7aab-8dc8-2d03e5b78eaa",
+      "time": "2026-07-16 20:30:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Philadelphia Fed manufacturing index 41.4 in July; consensus 13; prior 10.3."
+    },
+    {
+      "id": "4992397",
+      "time": "2026-07-16 20:30:14",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月零售銷售月率 0.2%，預期0.2%，前值由0.90%修正為1%。"
+    },
+    {
+      "id": "mkt:019f6ae8-03f7-7aab-8dc8-22de46df8eaa",
+      "time": "2026-07-16 20:30:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US Philadelphia Fed manufacturing new-orders index for July 37, prior 27.3."
+    },
+    {
+      "id": "mkt:019f6ae7-f39b-7aab-8dc8-1eea0a7314a5",
+      "time": "2026-07-16 20:30:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. continuing jobless claims for the week ending July 4: 1.805 mln vs 1.815 mln expected; prior week revised up to 1.821 mln from 1.814 mln."
+    },
+    {
+      "id": "mkt:019f6ae7-e779-7aab-8dc8-166cf7c244c4",
+      "time": "2026-07-16 20:30:10",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims four-week moving average for week ending July 11: 214,250; prior value revised from 218,750 to 219,000."
+    },
+    {
+      "id": "mkt:019f6ae7-e38d-7aab-8dc8-0c193192b569",
+      "time": "2026-07-16 20:30:09",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Core Retail Sales (MoM) (Jun) | actual -0.2% | consensus -0.10% | previous 0.80%"
+    },
+    {
+      "id": "4992396",
+      "time": "2026-07-16 20:30:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月11日當週初請失業金人數 20.8萬人，預期21.7萬人，前值由21.5萬人修正為21.6萬人。美國至7月11日當週初請失業金人數 20.8萬人，預期21.7萬人，前值由21.5萬人修正為21.6萬人。"
+    },
+    {
+      "id": "mkt:019f6ae7-e070-7aab-8dc8-03e9525d204c",
+      "time": "2026-07-16 20:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for week to July 11: 208,000 vs 217,000 expected; prior revised from 215,000 to 216,000."
+    },
+    {
+      "id": "mkt:019f6ae7-e06f-7aab-8dc7-f9999f586aed",
+      "time": "2026-07-16 20:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US retail sales MoM +0.2% in June, matching +0.2% consensus; May revised up to +1.0% from +0.9%."
+    },
+    {
+      "id": "mkt:019f6ae7-d133-7aab-8dc7-f4b628cb5af2",
+      "time": "2026-07-16 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Employment Index (Jul) | actual 10 | previous 7.9"
+    },
+    {
+      "id": "mkt:019f6ae7-d131-7aab-8dc7-e88c94d08ba6",
+      "time": "2026-07-16 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed New Orders Index (Jul) | actual 37 | previous 27.3"
+    },
+    {
+      "id": "mkt:019f6ae7-d12f-7aab-8dc7-e4b8c9ee76bf",
+      "time": "2026-07-16 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Prices Paid Index (Jul) | actual 53.9 | previous 53.2"
+    },
+    {
+      "id": "mkt:019f6ae7-d003-7aab-8dc7-dc35477e299c",
+      "time": "2026-07-16 20:30:04",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Philadelphia Fed Manufacturing Index (Jul) | actual 41.4 | consensus 13 | previous 10.3"
+    },
+    {
+      "id": "mkt:019f6ae7-c5d1-7aab-8dc7-d51744a11380",
+      "time": "2026-07-16 20:30:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Jul.4) | actual 1805000K | consensus 1815000K | previous 1814000K"
+    },
+    {
+      "id": "mkt:019f6ae7-c507-7aab-8dc7-cbeb42cced2a",
+      "time": "2026-07-16 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Retail Sales (MoM) (Jun) | actual 0.2% | consensus 0.2% | previous 0.90%"
+    },
+    {
+      "id": "mkt:019f6ae7-c4b4-7aab-8dc7-c7b087700583",
+      "time": "2026-07-16 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Jul.11) | actual 214250K | previous 218750K"
+    },
+    {
+      "id": "mkt:019f6ae7-c34f-7aab-8dc7-bb126e81bbeb",
+      "time": "2026-07-16 20:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Jul.11) | actual 208000K | consensus 217000K | previous 215000K"
+    },
     {
       "id": "4992395",
       "time": "2026-07-16 20:29:14",
