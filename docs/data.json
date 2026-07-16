@@ -1,7 +1,202 @@
 {
-  "updated": "2026-07-16 21:03:08",
+  "updated": "2026-07-16 21:07:05",
   "count": 18781,
   "items": [
+    {
+      "id": "mkt:019f6b08-42e6-7aab-8dc9-a8f559181d3c",
+      "time": "2026-07-16 21:05:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian parliament voted to reappoint Serhiy Marchenko as finance minister."
+    },
+    {
+      "id": "mkt:019f6b07-b78a-7aab-8dc9-a25a4e1ed847",
+      "time": "2026-07-16 21:04:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says it found debris of shot-down US MQ-9 Reaper】Iran said early on the 16th that its IRGC Aerospace Force used a new air‑defence system to shoot down a US MQ-9 Reaper over Andimeshk; debris was later found and recovered in mountainous terrain of Dehloran county by local militia."
+    },
+    {
+      "id": "4992489",
+      "time": "2026-07-16 21:04:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3980美元/盎司，日內跌1.78%。"
+    },
+    {
+      "id": "4992488",
+      "time": "2026-07-16 21:04:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議會批准成立新政府。"
+    },
+    {
+      "id": "te:markets:567568",
+      "time": "2026-07-16 21:04:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Fall as Gold Prices Slip — Futures tracking the S&P/TSX Composite Index fell on Thursday as gold prices slipped, while investors assessed worsening tensions in the Middle East. Lower gold prices weighed on mining stocks. Meanwhile, the conflict pushed oil prices higher on supply risks, fueling inflation concerns. Bond yields moved higher, pressuring financials and the broader market. Elsewhere, Cogeco Communications missed third-quarter revenue estimates after the market close on Wednesday, hurt by a decline in its US subscriber base. On the trade front, US Trade Representative Jamieson Greer said formal trade talks with Mexico were making progress, while discussions with Canada had yet to deliver the concessions sought by President Trump as he pushes to reduce US trade deficits with both countries. Earlier this month, the Trump administration said it would not renew the USMCA trade agreement, although the pact would remain in effect until the issues are resolved or the agreement is terminated."
+    },
+    {
+      "id": "4992487",
+      "time": "2026-07-16 21:04:23",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普媒體科技集團因推出Truth API，盤前股價上漲1.5%。"
+    },
+    {
+      "id": "4992486",
+      "time": "2026-07-16 21:04:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗方面稱發現被擊落的美軍MQ-9無人機殘骸】總檯記者當地時間16日獲悉，伊朗方面稱，當天凌晨，一架美軍MQ-9“死神”無人機在伊朗安迪梅什克上空被伊朗伊斯蘭革命衛隊空天部隊新型防空系統擊落。訊息稱，伊朗德赫洛蘭縣達什特阿巴斯地區民兵組織在搜尋過程中，在塞普通村附近山區發現了該無人機殘骸。伊方表示，無人機被擊落後，其殘骸散落在德赫洛蘭縣轄區內，隨後被當地人員發現並回收。（央視新聞）"
+    },
+    {
+      "id": "4992485",
+      "time": "2026-07-16 21:04:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2662.00元。"
+    },
+    {
+      "id": "mkt:019f6b06-e92c-7aab-8dc9-9fed3630a935",
+      "time": "2026-07-16 21:04:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's parliament approved a new government."
+    },
+    {
+      "id": "4992483",
+      "time": "2026-07-16 21:03:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "小鵬汽車：小鵬圖靈第二代VLA模型是一套打通L2輔助駕駛與L4自動駕駛的統一架構。目前，搭載該模型的L4級小鵬Robotaxi已正式啟動員工內測。"
+    },
+    {
+      "id": "4992482",
+      "time": "2026-07-16 21:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：華納音樂與網易宣佈續簽多年音樂版權授權協議。"
+    },
+    {
+      "id": "mkt:019f6b06-4e67-7aab-8dc9-93f4914a3bdb",
+      "time": "2026-07-16 21:03:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Spot gold, silver slide】Spot gold fell 2.00% intraday to $3,977.25/oz. Spot silver fell 4.00% intraday to $55.44/oz."
+    },
+    {
+      "id": "te:economy:567567",
+      "time": "2026-07-16 21:03:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kyrgyzstan",
+        "Industrial Production",
+        "Importance 0"
+      ],
+      "text": "Kyrgyzstan Industrial Activity Slows to 8-Month Low — Industrial production in Kyrgyzstan grew by 5.0% year-on-year in June 2026, marking the lowest level in eight months and slowing further from a 13.4% increase in the previous month. Mining activities declined sharply by 13.8%, following a 6.4% increase in the previous month. Other sectors also eased significantly, with manufacturing activities slowing to 9.6% growth from 16.9% and supply of electricity, gas, steam, and air conditioning eased to 2.3% from 27.3%. A further decline in activity was halted by a 19.7% surge in water supply, sewerage, waste management and remediation activities, materials recovery, reversing a 3.4% decline in the previous period. Over the first half of the year, industrial output expanded 12.7%, a higher pace compared to 12.5% recorded in the same period a year earlier."
+    },
+    {
+      "id": "4992481",
+      "time": "2026-07-16 21:02:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報55.42美元/盎司。"
+    },
+    {
+      "id": "4992480",
+      "time": "2026-07-16 21:02:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3980美元/盎司，日內跌2.00%。"
+    },
+    {
+      "id": "4992479",
+      "time": "2026-07-16 21:02:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報3978.94美元/盎司。"
+    },
+    {
+      "id": "4992478",
+      "time": "2026-07-16 21:02:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌3%，現報55.71美元/盎司。"
+    },
+    {
+      "id": "4992477",
+      "time": "2026-07-16 21:02:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3990美元/盎司，日內跌1.58%。"
+    },
+    {
+      "id": "te:markets:567566",
+      "time": "2026-07-16 21:02:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Hits 32-week Low — Silver decreased to 55.56 USD/t.oz, the lowest since November 2025. Over the past 4 weeks, Silver lost 18.11%, and in the last 12 months, it increased 45.73%."
+    },
+    {
+      "id": "4992476",
+      "time": "2026-07-16 21:02:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理： 印度首列氫動力列車將於明日在金德鎮正式發車，線路連通金德與索尼帕特。"
+    },
+    {
+      "id": "4992475",
+      "time": "2026-07-16 21:02:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3990美元/盎司，日內跌1.75%。"
+    },
     {
       "id": "4992474",
       "time": "2026-07-16 21:01:25",
@@ -172500,209 +172695,6 @@
         "公司"
       ],
       "text": "【法國盧浮宮再次因高溫天氣縮短開放時間】位於法國巴黎的盧浮宮博物館9日釋出公告說，鑑於新一輪高溫天氣來襲，館內部分割槽域溫度攀升影響遊客參觀，博物館將7月10日至13日的閉館時間由原來的18時提前至16時。（新華社）"
-    },
-    {
-      "id": "4979278",
-      "time": "2026-07-09 21:06:37",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "荷蘭財政部長反對歐洲共同發債提案 。"
-    },
-    {
-      "id": "4979277",
-      "time": "2026-07-09 21:06:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：流動性監管改革應當考慮銀行安全問題。"
-    },
-    {
-      "id": "4979276",
-      "time": "2026-07-09 21:06:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：相比部分人士，對穩定幣帶來的風險擔憂更少。我們對於調整準備金需求的方式已有良好認知。"
-    },
-    {
-      "id": "4979275",
-      "time": "2026-07-09 21:05:49",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "波蘭央行行長格拉平斯基：波蘭國家銀行持有黃金價值約3080億茲羅提。"
-    },
-    {
-      "id": "4979274",
-      "time": "2026-07-09 21:05:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗重申他國“無權干涉”霍爾木茲海峽事務】當地時間9日，伊朗伊斯蘭革命衛隊海軍發表宣告稱，其他國家“無權干涉”霍爾木茲海峽事務。宣告稱，伊朗過去兩週增加了該海峽船隻的放行數量，但美方行動嚴重擾亂了該海峽重新開放的程序，美國在霍爾木茲海峽航運通行問題上的“冒險和干涉”只會招致伊朗“壓倒性的回應”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f46fb-f5dc-7aab-8d18-24587c94f96f",
-      "time": "2026-07-09 21:05:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Williams said the Fed has a good understanding of how to adjust demand for reserves."
-    },
-    {
-      "id": "4979273",
-      "time": "2026-07-09 21:05:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗說霍爾木茲海峽通行能力已恢復至戰前50%】伊朗伊斯蘭革命衛隊海軍發表宣告說，過去兩週伊方已逐步開放霍爾木茲海峽，目前通行能力已恢復至戰前水平的約50%。宣告說，革命衛隊海軍正繼續提高船隻通行能力。相關船隻須遵守伊方安全規定，經伊朗指定航線通行，並向革命衛隊海軍申請許可。宣告警告，外國勢力無權干預霍爾木茲海峽事務。美軍若干預船隻通行路線，將遭伊方有力回擊，還將嚴重干擾海峽重開程序，危及海峽使用國利益。（新華社）"
-    },
-    {
-      "id": "4979272",
-      "time": "2026-07-09 21:05:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國擬探討允許無方向盤的無人駕駛汽車上路】美國最高汽車安全監管機構負責人表示，該機構“絕對”會考慮取消關於無人駕駛汽車必須配備方向盤的規定；此舉若落實，將利好特斯拉及其他正在重新構想傳統車輛設計的自動駕駛計程車公司。美國國家公路交通安全管理局（NHTSA）局長Jonathan Morrison週四在接受採訪時表示：“如果你開發的車輛從設計之初就不打算由人類駕駛員操作，那麼強制要求配備手動控制裝置就毫無意義了。”NHTSA已於上個月更新了聯邦安全標準，取消了自動駕駛車輛必須配備手動制動踏板的要求。這些變革是特朗普政府推動無人駕駛汽車法規現代化努力的一部分，可能為專用自動駕駛車輛（包括特斯拉的Cybercab，這是一款不設方向盤或腳踏板的兩座電動汽車）的推廣掃清障礙。"
-    },
-    {
-      "id": "4979271",
-      "time": "2026-07-09 21:04:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "比亞迪李雲飛：騰勢Z英國古德伍德速度節上市，售價摺合人民幣約158萬元。"
-    },
-    {
-      "id": "4979270",
-      "time": "2026-07-09 21:04:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【德媒：美加墨世界盃場均觀眾數不及1994年紀錄】據德國媒體報道，雖然本屆美加墨世界盃累計入場觀眾數創下新高，但場均觀眾數不及1994年美國世界盃所創的紀錄。國際足聯9日釋出的資料顯示，截至法國對陣摩洛哥的首場四分之一決賽開始前，本屆世界盃的場均觀眾數為65204人。德新社說，即便剩餘8場賽事每場觀眾都滿員，場均觀眾數也無法追上1994年美國世界盃68991人的紀錄。（新華社）"
-    },
-    {
-      "id": "mkt:019f46fa-f5fb-7aab-8d18-1ec75e63b94c",
-      "time": "2026-07-09 21:04:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "Crypto Concepts"
-      ],
-      "text": "Fed's Williams said the Fed's ample-reserves framework is designed to be flexible and can accommodate the effects of stablecoins."
-    },
-    {
-      "id": "mkt:019f46fa-eb4b-7aab-8d18-120f2aff19e3",
-      "time": "2026-07-09 21:04:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Williams said it remains unclear how stablecoins will affect reserve demand."
-    },
-    {
-      "id": "mkt:019f46fa-bfbc-7aab-8d18-0e4684ac2985",
-      "time": "2026-07-09 21:04:25",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "The Information reports startup PrismML says it compressed a 27-billion-parameter AI model to run on an iPhone. Apple has held talks with PrismML about potential uses for the technology."
-    },
-    {
-      "id": "4979269",
-      "time": "2026-07-09 21:04:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "Zoom通訊推出可適配任意電話系統的獨立虛擬前臺客服。"
-    },
-    {
-      "id": "mkt:019f46fa-92d2-7aab-8d18-064f16430010",
-      "time": "2026-07-09 21:04:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Most-active SHFE silver contract rose over 2.00% intraday to 14,520.00 yuan/kg."
-    },
-    {
-      "id": "mkt:019f46fa-8d6b-7aab-8d17-fe0b4dfb87d4",
-      "time": "2026-07-09 21:04:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "China night futures session opened mixed; most-active contracts: Shanghai tin rose over 2%, Shanghai silver nearly 2%; Shanghai copper, Shanghai zinc, international copper, pulp and Shanghai gold rose over 1%; Shanghai nickel rose nearly 1%. On the downside, benzene fell more than 1% and asphalt nearly 1%."
-    },
-    {
-      "id": "mkt:019f46fa-5819-7aab-8d17-f5ee0fc3ecee",
-      "time": "2026-07-09 21:03:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tesla",
-        "Market Themes",
-        "Magnificent 7",
-        "TSLA.O",
-        "Impact bullish"
-      ],
-      "text": "【NHTSA to consider allowing driverless cars without steering wheels】NHTSA chief Jonathan Morrison told CNBC the agency 'absolutely' will consider removing the federal requirement that autonomous vehicles be equipped with a steering wheel, saying manual controls are pointless for vehicles designed not to be human-driven. The agency last month updated federal safety standards to drop the mandatory manual brake pedal. The changes are part of the Trump administration's push to modernize AV rules and could ease the path for Tesla and other companies building wheel- and pedal-free robotaxis, including Tesla's planned Cybercab."
-    },
-    {
-      "id": "4979268",
-      "time": "2026-07-09 21:03:58",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：美聯儲的充裕儲備體系設計具備靈活性，可應對穩定幣帶來的影響。"
-    },
-    {
-      "id": "4979267",
-      "time": "2026-07-09 21:03:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "百事可樂盤前股價跌幅擴大至4%。"
-    },
-    {
-      "id": "4979266",
-      "time": "2026-07-09 21:03:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：目前尚不清楚穩定幣將對準備金需求產生何種影響。"
-    },
-    {
-      "id": "4979265",
-      "time": "2026-07-09 21:03:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江美大：籌劃控制權變更事項 股票停牌不超2個交易日】浙江美大公告稱，公司實際控制人夏志生、夏鼎正在籌劃涉及公司控制權變更相關事項，可能導致實際控制人發生變更。交易對手方屬跨境電商行業，股份轉讓比例在30%以內，不涉及事前審批。公司股票自2026年7月10日開市起停牌，預計不超2個交易日。停牌期間，公司將及時披露進展，待事項確定後申請復牌。該事項存在不確定性，提醒投資者注意風險。"
     }
   ]
 }
