@@ -1,7 +1,154 @@
 {
-  "updated": "2026-07-16 15:15:59",
-  "count": 18784,
+  "updated": "2026-07-16 15:19:57",
+  "count": 18790,
   "items": [
+    {
+      "id": "mkt:019f69cb-2834-7aab-8dc0-1d606954f09b",
+      "time": "2026-07-16 15:19:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KB Securities removes margin exemptions for single-stock leveraged ETFs】YONHAP reported on the 16th that KB Securities has removed margin exemptions and other preferential treatment for single-stock leveraged products as regulators move to curb instruments seen as amplifying volatility in the South Korean stock market. KB has notified clients it will adjust base margin requirements for leveraged ETFs and ETNs trading in Korea; it currently applies different margin standards by client membership tier."
+    },
+    {
+      "id": "mkt:019f69ca-6ef9-7aab-8dc0-17b3aa9ebec7",
+      "time": "2026-07-16 15:18:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "South Korea's regulator says it will raise the minimum trading unit from 1 share to 20 shares."
+    },
+    {
+      "id": "4991665",
+      "time": "2026-07-16 15:18:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國監管機構：將把最低交易單位從1股上調至20股。"
+    },
+    {
+      "id": "4991664",
+      "time": "2026-07-16 15:17:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月16日滬深兩市漲停分析】創業板指震盪調整跌近3%、科創50跌逾4%，半導體晶片、算力硬體股延續調整。哈藥股份5連板，艾艾精工3連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019f69c8-e8b6-7aab-8dc0-0bbe58cc5b07",
+      "time": "2026-07-16 15:16:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Bahrain's Defense Ministry said on Thursday it intercepted and destroyed multiple aerial attacks originating from Iran."
+    },
+    {
+      "id": "mkt:019f69c8-cd74-7aab-8dc0-04bace30836e",
+      "time": "2026-07-16 15:16:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's railway company said on Thursday morning two of the country's three Black Sea ports were operating normally, while grain intake at Chornomorsk fell sharply."
+    },
+    {
+      "id": "4991663",
+      "time": "2026-07-16 15:16:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國對晶體矽光伏電池發起反規避調查】2026年7月13日，應美國國內企業FirstSolar,Inc.、HanwhaQCELLSUSAInc.、TalonPV、SwiftSolar、GreatLakesSolexPR,LLC、DYCMPower,LLC、SunivaInc.和SilfabSolarInc.提交的申請，美國對原產於中國的晶體矽光伏電池（無論是否組裝入模組）發起反規避調查，審查是否存在以下兩種規避美國反傾銷和反補貼稅令的行為：（1）中國產零部件在衣索比亞完成光伏電池及元件組裝，並經衣索比亞出口至美國；（2）中國產零部件在衣索比亞完成光伏電池組裝後出口至越南，並在越南完成元件組裝，經由越南出口至美國。2024年2月1日，美國商務部對進口自中國的晶體矽光伏電池發起第二次反傾銷和反補貼日落複審調查。2024年6月7日，美國商務部對進口自中國的晶體矽光伏電池作出第二次反補貼快速日落複審終裁。（中國貿易救濟資訊網）"
+    },
+    {
+      "id": "4991661",
+      "time": "2026-07-16 15:16:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林國防部表示，巴林於週四攔截並摧毀了伊朗發起的多輪空襲。"
+    },
+    {
+      "id": "mkt:019f69c8-8f03-7aab-8dbf-fdfd033e7ecd",
+      "time": "2026-07-16 15:16:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures midday close】China government bond futures at midday: 2-year (TS) most-active contract down 0.02%; 5-year (TF) down 0.05%; 10-year (T) down 0.05%; 30-year (TL) down 0.24%."
+    },
+    {
+      "id": "4991659",
+      "time": "2026-07-16 15:16:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "烏克蘭鐵路公司表示，週四早晨烏克蘭三座黑海港口中有兩座恢復正常運營，切爾諾莫斯克港的糧食接運量大幅下降。"
+    },
+    {
+      "id": "te:markets:567461",
+      "time": "2026-07-16 15:16:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 1.87% Lower — The Shangai Composite Index dropped 74 points or 1.87 percent on Thursday to close at 3882 points. Losses were led by China Merchants Securities (-7.22%), China State (-5.08%) and Shanghai Pudong (-4.83%)."
+    },
+    {
+      "id": "mkt:019f69c8-4bdb-7aab-8dbf-f150f1d0c426",
+      "time": "2026-07-16 15:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korean regulators will review additional measures to stabilize markets."
+    },
+    {
+      "id": "mkt:019f69c8-21ed-7aab-8dbf-ea76bb02c703",
+      "time": "2026-07-16 15:15:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea bans advertising for single-stock leveraged products, YONHAP reports."
+    },
+    {
+      "id": "mkt:019f69c7-f9e7-7aab-8dbf-e37b3aa815d8",
+      "time": "2026-07-16 15:15:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Strait of Hormuz blocked again; IMF says strategic oil buffers largely depleted】Traffic through the Strait of Hormuz has again been disrupted, exposing oil markets to a supply shock similar to March’s outage that removed roughly 4 mln bpd. An IMF blog on Wednesday says the March–May shortfall of about 4 mln bpd was largely absorbed by drawing inventories. The IEA previously executed its largest strategic release, putting roughly 400 mln barrels from emergency stocks into the market, and other major consumers trimmed refinery runs and relied on domestic stocks. IMF warns most of that shock absorber has been consumed; without inventory replenishment the world will be more exposed to any subsequent shock."
+    },
+    {
+      "id": "4991658",
+      "time": "2026-07-16 15:15:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "一些俄羅斯精英人士擔心資金被沒收，已將資金轉移到國外。"
+    },
+    {
+      "id": "4991657",
+      "time": "2026-07-16 15:15:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美武器庫存消耗加劇 特朗普再促軍工增產】當地時間15日，美國總統特朗普要求本國軍工企業加快武器生產、擴充產能。烏克蘭危機和美伊戰事持續消耗美國武器庫存，暴露出美國防務供應鏈短板。特朗普當天在賓夕法尼亞州舉行的國防與創新峰會上對防務企業高管說，美國生產武器的速度還需提高。峰會於14日至15日在美國陸軍軍事學院召開，軍方高階將領、防務企業高管、投資者和科技企業高管等與會，討論加強國防工業基礎和加快先進武器系統交付。（央視新聞）"
+    },
     {
       "id": "4991656",
       "time": "2026-07-16 15:15:02",
@@ -172540,101 +172687,6 @@
         "其他"
       ],
       "text": "Rapidus：晶片價格差異巨大，波動幅度較大。"
-    },
-    {
-      "id": "4978424",
-      "time": "2026-07-09 15:19:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本內閣官房長官表示：長期利率由市場根據各類因素決定。"
-    },
-    {
-      "id": "4978423",
-      "time": "2026-07-09 15:19:46",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【AI晶片製造商Cerebras計劃年內啟用歐洲首座資料中心】人工智慧晶片製造商Cerebras Systems當地時間7月9日釋出宣告稱，計劃2027年年底前將其歐洲AI基礎設施的算力總容量擴充套件至200兆瓦，並於今年年內啟用在歐洲的首座資料中心。該公司稱，正為2027年儲備大量資源，計劃在挪威和芬蘭建設資料中心。"
-    },
-    {
-      "id": "4978422",
-      "time": "2026-07-09 15:19:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里第一財季財報前瞻：阿里雲收入增長加速至45%左右超預期 電商利潤恢復】7月9日，記者獲悉，根據市場訊息，阿里巴巴2027財年Q1財報前瞻顯示，阿里雲收入增長加速至45%左右，大超市場預期；整體電商業務利潤恢復，同比持平，好於市場預期；淘寶閃購減虧快於市場預期。阿里雲EBITA margin持續改善，從往季的9.1%左右加速提升至低雙位數，兌現此前指引。（證券時報）"
-    },
-    {
-      "id": "te:economy:565587",
-      "time": "2026-07-09 15:19:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Construction Output",
-        "Importance 1"
-      ],
-      "text": "Czechia Construction Output Rises 4.4% — Construction output in the Czech Republic increased by 4.4% year-on-year in May 2026, easing from a 7.7% rise in April but extending its expansion to a nineteenth consecutive month. Growth was supported by both major segments, with building construction rising 3.3% and civil engineering works advancing 6.6%. A total of 5,784 building permits were granted, up 11.6% from a year earlier, driven by increases in both new building and civil engineering projects, while the floor area of new building construction surged 74.2%. Meanwhile, housing starts jumped 48.3% to 3,968 units, and completed dwellings rose 13.5% to 2,811 units. On a monthly basis, construction output edged up 0.2% in May, following a 0.6% increase in April."
-    },
-    {
-      "id": "4978421",
-      "time": "2026-07-09 15:17:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "馬來西亞林吉特<MYR=>在央行按預期維持利率後基本持平，最新成交價為1美元兌4.0760林吉特。"
-    },
-    {
-      "id": "4978420",
-      "time": "2026-07-09 15:17:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "大眾汽車：大眾汽車股份公司監事會與管理董事會今日正在討論計劃的確切細節。"
-    },
-    {
-      "id": "te:economy:565585",
-      "time": "2026-07-09 15:17:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Czech Industrial Output Hits 4-Month High — Industrial production in the Czech Republic increased 2.0% year-on-year in May 2026, marking its strongest growth in four months after a 1.5% rise in April. Manufacturing output accelerated (2.2% vs 1.8% in April), supported by a sharp increase in the manufacture of leather and related products (38.4% vs 1.2%). Other key contributors included the manufacture of wearing apparel (14.7% vs 0.2%), basic pharmaceutical products and preparations (6.0% vs -8.9%), and computer, electronic and optical products (16.7% vs 11.0%). Electricity, gas, steam and air conditioning supply rose further 2.1% from a 0.9% increase in April. Meanwhile, mining and quarrying output continued to contract, though the decline eased to 8.3% from 12.9% in the previous month. On a monthly basis, industrial production fell 0.4% in May 2026, reversing a 1.4% increase in the previous month."
-    },
-    {
-      "id": "4978419",
-      "time": "2026-07-09 15:16:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超聲電子：公司沒有研發或生產玻璃基板產品】超聲電子7月9日在互動平臺表示，公司沒有研發或生產玻璃基板產品。"
-    },
-    {
-      "id": "4978418",
-      "time": "2026-07-09 15:16:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車：將根據計劃削減過剩產能。"
-    },
-    {
-      "id": "te:markets:565583",
-      "time": "2026-07-09 15:16:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 1.66% Higher — The Shangai Composite Index gained 66 points or 1.66 percent on Thursday to close at 4037 points. Gains were led by China Merchants Securities (7.13%), Sanan Optoelectron (5.95%) and Jiangsu Hengrui (2.61%)."
     }
   ]
 }
