@@ -1,7 +1,52 @@
 {
   "date": "2026-07-17",
-  "count": 299,
+  "count": 304,
   "items": [
+    {
+      "id": "4992908",
+      "time": "2026-07-17 03:32:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國通訊工人協會（CWA）：美國電話電報公司（AT&T）承諾，到 2027 年底在得克薩斯州新增 100 名管道開挖與鑽孔施工崗位。"
+    },
+    {
+      "id": "4992907",
+      "time": "2026-07-17 03:32:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社訊息：伊朗南部布什赫爾傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019f6c6a-4eb3-7aab-8dd0-4f2aed0c685a",
+      "time": "2026-07-17 03:32:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "IRNA: Bushehr provincial governor said two explosions were heard earlier in Bushehr city amid ongoing US attacks; authorities say the incident is under investigation."
+    },
+    {
+      "id": "4992906",
+      "time": "2026-07-17 03:32:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：XAI 旗下 Grok 4.3 現已在 Bedrock 全面上線。"
+    },
+    {
+      "id": "4992905",
+      "time": "2026-07-17 03:31:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國聯邦官員正調查線上氯胺酮銷售商家，管控居家自行使用該藥物的行為。"
+    },
     {
       "id": "mkt:019f6c67-a18e-7aab-8dd0-416391b9d45f",
       "time": "2026-07-17 03:29:18",
