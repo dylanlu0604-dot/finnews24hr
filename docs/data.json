@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-16 23:44:38",
-  "count": 18736,
+  "updated": "2026-07-16 23:48:38",
+  "count": 18725,
   "items": [
+    {
+      "id": "4992716",
+      "time": "2026-07-16 23:45:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國民用航空管理局：受風暴風險影響，要求航空公司於週四晚間晚些時候調減巴黎奧利機場20%的航班量。"
+    },
+    {
+      "id": "4992715",
+      "time": "2026-07-16 23:44:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "明晟公司MSCI北歐國家指數大致持平，報392.91點。在十個板塊中，北歐工業板塊漲幅最大。Indutrade AB漲17.1%，在一眾北歐個股裡領跑。"
+    },
     {
       "id": "te:markets:567613",
       "time": "2026-07-16 23:43:37",
@@ -172133,128 +172149,6 @@
         "其他"
       ],
       "text": "巴西工業部表示，該決定（保留石油出口稅）旨在維持國內煉油行業良好運營環境，保護本土市場。"
-    },
-    {
-      "id": "4979550",
-      "time": "2026-07-09 23:48:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗方面訊息：伊朗伊斯蘭革命衛隊動用無人機打擊了位於巴林、卡達、科威特的美軍基地及戰略要點。"
-    },
-    {
-      "id": "4979549",
-      "time": "2026-07-09 23:47:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐元/美元日內漲幅達1.0%，報0.5756。"
-    },
-    {
-      "id": "te:markets:565762",
-      "time": "2026-07-09 23:47:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Recovers from One-Month Low — The CAC 40 rose 0.9% to close at 8,327 on Thursday, rebounding from a near one-month low in the previous session as gains in technology, luxury, and financial stocks lifted the index. STMicroelectronics surged 7.1%, supported by strong sentiment across the semiconductor sector after demand for SK Hynix's US share offering exceeded available shares by more than sevenfold. The company also projected second-quarter revenue of about $3.45 billion and a gross margin of roughly 34.8%, signaling solid growth momentum. Luxury stocks also advanced, with LVMH rising 1.6% and Hermès gaining 3.6%. Financials added to the rally, as BNP Paribas climbed 1.3%, Crédit Agricole rose 1.2%, and Société Générale advanced 3.2%."
-    },
-    {
-      "id": "4979548",
-      "time": "2026-07-09 23:47:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西政府宣告：決定保留石油出口稅。"
-    },
-    {
-      "id": "mkt:019f478f-f42f-7aab-8d1d-78a103a21411",
-      "time": "2026-07-09 23:47:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SC crude front-month contract on the Shanghai International Energy Exchange down more than 3% at 466.3 yuan/bbl."
-    },
-    {
-      "id": "4979547",
-      "time": "2026-07-09 23:47:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "GTT 公司接獲三星重工訂單，為全球產能最大的美國首座浮式液化天然氣裝置提供儲罐設計方案。"
-    },
-    {
-      "id": "4979546",
-      "time": "2026-07-09 23:46:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌2%，現報76.40美元/桶。"
-    },
-    {
-      "id": "4979545",
-      "time": "2026-07-09 23:46:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我決定未來十年再追加 3500 億謝克爾國防預算，其中大部分資金將劃撥給空軍。配套這項規劃，我們還將打造完整的以色列本土彈藥工業體系，自主研發製造武器裝備，以此降低對外軍購依賴。"
-    },
-    {
-      "id": "4979544",
-      "time": "2026-07-09 23:46:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "法國萬喜集團中標德國重型車輛充電站建設及運營專案。"
-    },
-    {
-      "id": "mkt:019f478e-6bd6-7aab-8d1d-7369f77708c1",
-      "time": "2026-07-09 23:45:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Prime Minister Netanyahu said Israel will build a sizeable domestic munitions industry to produce its own weapons and reduce reliance on overseas procurement."
-    },
-    {
-      "id": "mkt:019f478e-4c57-7aab-8d1d-6ddc6961023b",
-      "time": "2026-07-09 23:45:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli Prime Minister Netanyahu said he has decided to add NIS 350 billion to the defense budget over the next decade, with a large portion earmarked for the air force."
-    },
-    {
-      "id": "mkt:019f478e-036e-7aab-8d1d-62137ae18e57",
-      "time": "2026-07-09 23:45:17",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iranian media report Hamas spokesman Hazem Qassem survived an alleged Israeli assassination attempt."
-    },
-    {
-      "id": "te:markets:565757",
-      "time": "2026-07-09 23:44:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Eases from 1-Month High — US heating oil futures fell more than 2.5% to $3.56 per gallon on Thursday after surging over 10% in the previous session to the highest level in more than a month, as traders judged that the latest US strikes on Iran were unlikely to trigger a broader conflict. While security conditions in the Strait of Hormuz have worsened and tanker traffic has slowed, markets are not pricing in a full closure of the vital shipping route. Investors instead expect energy flows through the Persian Gulf to continue recovering despite renewed hostilities. Elsewhere, Russia, a major diesel producer, announced it would suspend exports and become a net importer after higher crude prices and repeated Ukrainian attacks disrupted operations at key refineries. Heating oil prices remain well above pre-conflict levels despite retreating from the record high reached in late March, reflecting persistent concerns over global fuel supplies and refinery output."
     }
   ]
 }
