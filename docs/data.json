@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-17 06:57:12",
-  "count": 18791,
+  "updated": "2026-07-17 07:02:43",
+  "count": 18794,
   "items": [
+    {
+      "id": "4993016",
+      "time": "2026-07-17 07:00:31",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 將堅定致力於使通脹回落至 2% 目標，此舉符合美聯儲雙重使命。"
+    },
+    {
+      "id": "mkt:019f6d28-e5bd-7aab-8dd2-80c56faacbaf",
+      "time": "2026-07-17 07:00:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reported Microsoft (MSFT.O) CEO told employees ANTHROPIC's limits on user requests to its Fable AI model are meaningless."
+    },
+    {
+      "id": "mkt:019f6d27-f786-7aab-8dd2-7bc0cbedc662",
+      "time": "2026-07-17 06:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Radioactive contamination incidents at Koeberg nuclear plant near Cape Town】South African media cited the National Nuclear Regulator on 16 that Koeberg nuclear power station near Cape Town experienced three recent radioactive contamination incidents; the regulator said there was no release of radioactivity to the environment and no impact on public health or environmental safety."
+    },
+    {
+      "id": "4993015",
+      "time": "2026-07-17 06:59:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非開普敦附近核電站發生放射性汙染事故】南非媒體16日援引南非國家核監管局的訊息說，位於南非開普敦附近的庫貝赫核電站近期發生三起放射性汙染事故，但未向外界釋放放射性物質，不會對公眾健康和環境安全造成影響。（新華社）"
+    },
+    {
+      "id": "mkt:019f6d27-9f25-7aab-8dd2-768332b4469f",
+      "time": "2026-07-17 06:59:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Musk said some Starship engines failed to ignite, triggering an automatic launch abort. Propellant is being offloaded. Next launch attempt is expected in a few days."
+    },
+    {
+      "id": "4993014",
+      "time": "2026-07-17 06:58:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：微軟執行長向員工表示，Anthropic 對使用者向其 Fable 人工智慧模型提交的查詢請求設定使用限制毫無道理。"
+    },
+    {
+      "id": "4993013",
+      "time": "2026-07-17 06:56:50",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：部分發動機未能點火，系統自動終止發射程式。目前正在解除安裝推進劑。有望在未來數日再次嘗試發射。"
+    },
     {
       "id": "4993012",
       "time": "2026-07-17 06:55:01",
@@ -172797,42 +172858,6 @@
         "MKT News"
       ],
       "text": "Wall Street Journal reports OpenAI executive Fidji Simo is resigning and will become a part-time advisor to the company."
-    },
-    {
-      "id": "mkt:019f491e-30b2-7aab-8d22-336bedacca32",
-      "time": "2026-07-10 07:02:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "SK Hynix plans to raise 40 tln won through an ADR listing, down from an earlier plan for 43 tln won."
-    },
-    {
-      "id": "4979823",
-      "time": "2026-07-10 07:01:03",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行維持基準利率 4.25% 不變。"
-    },
-    {
-      "id": "4979822",
-      "time": "2026-07-10 06:58:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI高管菲吉·西莫：已決定辭去我在OpenAI的全職職位，轉而擔任兼職顧問。"
-    },
-    {
-      "id": "4979821",
-      "time": "2026-07-10 06:57:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI 高管菲吉・西莫宣佈離職】據知情人士透露，OpenAI 二號高管菲吉・西莫在長期休病假後，計劃辭去全職職務。她於週四向全體員工傳送內部通告告知該決定，稱自身病情出現惡化，康復週期遠超出預期。後續她將轉為公司兼職顧問。此番人事變動是 OpenAI 高層最新調整。該公司正籌備市場高度關注的上市事宜，最快有望於今年完成，同時力爭在企業客戶業務層面追趕競爭對手安索帕。西莫由執行長山姆・奧特曼委任，統管 OpenAI 產品與業務兩大部門，市場此前普遍預期，公司上市後她將承擔更核心的管理職責。"
     }
   ]
 }

@@ -1,7 +1,68 @@
 {
   "date": "2026-07-17",
-  "count": 492,
+  "count": 499,
   "items": [
+    {
+      "id": "4993016",
+      "time": "2026-07-17 07:00:31",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲副主席傑斐遜： 將堅定致力於使通脹回落至 2% 目標，此舉符合美聯儲雙重使命。"
+    },
+    {
+      "id": "mkt:019f6d28-e5bd-7aab-8dd2-80c56faacbaf",
+      "time": "2026-07-17 07:00:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNBC reported Microsoft (MSFT.O) CEO told employees ANTHROPIC's limits on user requests to its Fable AI model are meaningless."
+    },
+    {
+      "id": "mkt:019f6d27-f786-7aab-8dd2-7bc0cbedc662",
+      "time": "2026-07-17 06:59:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Radioactive contamination incidents at Koeberg nuclear plant near Cape Town】South African media cited the National Nuclear Regulator on 16 that Koeberg nuclear power station near Cape Town experienced three recent radioactive contamination incidents; the regulator said there was no release of radioactivity to the environment and no impact on public health or environmental safety."
+    },
+    {
+      "id": "4993015",
+      "time": "2026-07-17 06:59:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【南非開普敦附近核電站發生放射性汙染事故】南非媒體16日援引南非國家核監管局的訊息說，位於南非開普敦附近的庫貝赫核電站近期發生三起放射性汙染事故，但未向外界釋放放射性物質，不會對公眾健康和環境安全造成影響。（新華社）"
+    },
+    {
+      "id": "mkt:019f6d27-9f25-7aab-8dd2-768332b4469f",
+      "time": "2026-07-17 06:59:00",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Musk said some Starship engines failed to ignite, triggering an automatic launch abort. Propellant is being offloaded. Next launch attempt is expected in a few days."
+    },
+    {
+      "id": "4993014",
+      "time": "2026-07-17 06:58:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：微軟執行長向員工表示，Anthropic 對使用者向其 Fable 人工智慧模型提交的查詢請求設定使用限制毫無道理。"
+    },
+    {
+      "id": "4993013",
+      "time": "2026-07-17 06:56:50",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "馬斯克：部分發動機未能點火，系統自動終止發射程式。目前正在解除安裝推進劑。有望在未來數日再次嘗試發射。"
+    },
     {
       "id": "4993012",
       "time": "2026-07-17 06:55:01",
