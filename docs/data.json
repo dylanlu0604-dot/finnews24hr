@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-16 08:06:53",
-  "count": 18607,
+  "updated": "2026-07-16 08:10:50",
+  "count": 18611,
   "items": [
+    {
+      "id": "4990945",
+      "time": "2026-07-16 08:10:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：未來幾天我們將看到俄羅斯制裁法案的進展。"
+    },
+    {
+      "id": "4990944",
+      "time": "2026-07-16 08:09:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌超過2%，一度跌至67373.74點。"
+    },
+    {
+      "id": "mkt:019f6841-a02f-7aab-8db2-70a85332e2a3",
+      "time": "2026-07-16 08:09:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 was down as much as 2.00% intraday."
+    },
+    {
+      "id": "4990943",
+      "time": "2026-07-16 08:07:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：與瑞士的談判仍在進行中。"
+    },
+    {
+      "id": "4990942",
+      "time": "2026-07-16 08:07:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：美國對瑞士有貿易順差。"
+    },
+    {
+      "id": "4990941",
+      "time": "2026-07-16 08:07:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：就智慧財產權問題對越南進行單獨調查。"
+    },
+    {
+      "id": "mkt:019f683f-d2fe-7aab-8db2-6c06d4e9378f",
+      "time": "2026-07-16 08:07:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: Equity-based fiscal policy needs large rise in equity market value】CITIC Securities says as land-sale fiscal revenue wanes, Chinese local governments will seek new funding sources and equity-based fiscal policy could provide incremental financing. It splits equity fiscal into primary-market operations—local authorities using guidance funds to co-invest in the primary market to capture long-term capital appreciation—and secondary-market channels—central and local SOE dividends and market-value revaluation to deliver near-term proceeds. Referencing overseas experience, CITIC says equity fiscal can only play a larger role if overall equity market capitalization rises substantially; enlarging the equity market and sustaining a slow bull market are therefore strategic priorities, which should enhance A-shares’ long-term allocation value."
+    },
+    {
+      "id": "4990940",
+      "time": "2026-07-16 08:06:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國電力行業協會EEI表示，美國周度發電量較上年同期增長1.5%。"
+    },
+    {
+      "id": "4990939",
+      "time": "2026-07-16 08:06:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【粵海飼料：預計下半年產品銷量、營收、利潤仍有較好增長態勢】粵海飼料(001313)7月15日在機構調研時表示，公司產品質量持續穩定提升，三季度為水產飼料傳統銷售旺季，預計下半年公司產品銷量、營收、利潤仍將有較好的增長態勢。具體情況以公司屆時釋出的定期報告為準。"
+    },
+    {
+      "id": "4990938",
+      "time": "2026-07-16 08:06:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：越南需要在出口管制方面與我們保持一致。"
+    },
     {
       "id": "4990937",
       "time": "2026-07-16 08:06:09",
@@ -171059,59 +171147,6 @@
         "國際"
       ],
       "text": "2年期日本國債收益率上升1.0個基點，至1.440%。5年期日本國債收益率升至1.995%。"
-    },
-    {
-      "id": "mkt:019f4436-0c3c-7aab-8d01-8fd0669fb80f",
-      "time": "2026-07-09 08:10:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened down 75.30 points (-0.86%) at 8,709.80 on July 9 (Thursday)."
-    },
-    {
-      "id": "4977775",
-      "time": "2026-07-09 08:10:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度航空成立臨時管理委員會。"
-    },
-    {
-      "id": "4977774",
-      "time": "2026-07-09 08:09:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "鎧俠股價上漲8%。"
-    },
-    {
-      "id": "mkt:019f4435-24e4-7aab-8d01-85fcfbf6bf56",
-      "time": "2026-07-09 08:09:21",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD"
-      ],
-      "text": "Venezuela's interim president Rodriguez has written to the UK government requesting the release of Venezuela's gold reserves frozen at the Bank of England."
-    },
-    {
-      "id": "4977773",
-      "time": "2026-07-09 08:08:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍襲擊伊朗一鐵路橋】據伊朗官方媒體報道，當地時間今天（7月9日）凌晨，伊朗東北部一鐵路橋遭襲。（CCTV國際時訊）"
-    },
-    {
-      "id": "4977772",
-      "time": "2026-07-09 08:07:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米雷軍：今天，我們正式公佈小米汽車的第二個產品系列：SkyNomad 小米澎程。 SU7/YU7系列，是“駕駛者之車”；小米澎程系列，是“智慧可變大空間SUV”。"
     }
   ]
 }
