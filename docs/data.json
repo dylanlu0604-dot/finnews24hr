@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-17 04:29:22",
-  "count": 18777,
+  "updated": "2026-07-17 04:33:14",
+  "count": 18778,
   "items": [
+    {
+      "id": "4992949",
+      "time": "2026-07-17 04:31:21",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至7月10日當週外國央行持有美國國債 6.39億美元，前值-286.05億美元。"
+    },
+    {
+      "id": "mkt:019f6ca0-4f90-7aab-8dd0-f62056a8bd17",
+      "time": "2026-07-17 04:31:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries rose by $639 mln in the week to July 10, versus a -$28.605 bln change the prior week."
+    },
+    {
+      "id": "mkt:019f6c9f-f6ec-7aab-8dd0-ef4daa560fc4",
+      "time": "2026-07-17 04:30:50",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jul.10) | actual 639000000B | previous -28605000000B"
+    },
+    {
+      "id": "te:markets:567648",
+      "time": "2026-07-17 04:30:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Weakens on US Tariffs — The Brazilian real weakened slightly to 5.09 per USD in mid-July from 5.07 earlier in the month after the US announced a new 25% tariff on Brazilian imports, effective July 22th. The measure is expected to reduce dollar inflows into Brazil by weighing on exports to the US, potentially weakening the country's trade surplus and slowing the recent appreciation of the real. A decline in export revenues could put upward pressure on the exchange rate in the coming months, particularly if markets revise down Brazil's trade balance outlook or reassess the country's risk profile. Meanwhile, lingering geopolitical risks in the Middle East and expectations that the Federal Reserve could keep interest rates higher for longer continued to limit gains in the Brazilian currency."
+    },
+    {
+      "id": "mkt:019f6c9e-f880-7aab-8dd0-e0c9c9bbaaa3",
+      "time": "2026-07-17 04:29:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Interim president RODRIGUEZ said Venezuela's oil production is expected to reach 1.4 mln b/d by year-end."
+    },
     {
       "id": "4992948",
       "time": "2026-07-17 04:28:22",
@@ -172617,38 +172668,6 @@
         "觀點"
       ],
       "text": "據SEC檔案披露：摩根士丹利直接放貸基金髮行3.5億美元2031年到期6.1%利率票據。"
-    },
-    {
-      "id": "4979745",
-      "time": "2026-07-10 04:31:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮指示商務部和貿易代表辦公室推進談判。"
-    },
-    {
-      "id": "4979744",
-      "time": "2026-07-10 04:29:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將根據談判進展考量後續替代補救措施。"
-    },
-    {
-      "id": "4979743",
-      "time": "2026-07-10 04:29:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：必須透過談判調整噴氣發動機及零部件的進口。"
-    },
-    {
-      "id": "mkt:019f4892-3727-7aab-8d21-662443f2cc3b",
-      "time": "2026-07-10 04:29:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House: Commerce secretary recommends not imposing tariffs under Section 232 at this time."
     }
   ]
 }
