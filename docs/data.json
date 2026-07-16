@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-17 03:20:59",
+  "updated": "2026-07-17 03:27:04",
   "count": 18778,
   "items": [
+    {
+      "id": "4992900",
+      "time": "2026-07-17 03:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大政府宣佈，將透過 “強大加拿大聯盟” 計劃，向各省及地區新增 20 億加元撥款。"
+    },
+    {
+      "id": "4992899",
+      "time": "2026-07-17 03:24:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗米贊通訊社：卡達否認參與針對伊朗的軍事行動。"
+    },
+    {
+      "id": "mkt:019f6c60-7fbd-7aab-8dd0-3979adbfd41e",
+      "time": "2026-07-17 03:21:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "【Google shares fall over 4% intraday on reports Gemini 3.5 Pro delayed】Google (GOOG.O) shares fell more than 4% intraday on Thursday after reports said the company delayed the release of flagship AI model Gemini 3.5 Pro, with the model’s coding capabilities reportedly falling short of internal expectations. Google unveiled Gemini 3.5 Pro as internal-use only at its May I/O developer conference. CNBC cited a company spokesperson saying Google is rapidly rolling out multiple models while keeping cost-efficiency, is testing 3.5 Pro—described as an upgraded Flash model—with partners, and is actively working with the U.S. government."
+    },
     {
       "id": "4992898",
       "time": "2026-07-17 03:20:28",
@@ -172623,34 +172654,6 @@
         "市場"
       ],
       "text": "【芝加哥小麥期貨漲超1.8%，大豆油跌約1.3%，咖啡C漲超10.2%，紐約可可漲約5.2%】週四（7月9日）紐約尾盤，彭博穀物分類指數跌0.02%，報30.3037點。CBOT玉米期貨跌0.99%，CBOT小麥期貨漲1.85%、北京時間22:22打破亞太早盤以來的窄幅震盪狀態並顯著走高。CBOT大豆期貨跌1.03%，報11.80美元/蒲式耳，豆粕期貨漲1.00%，豆油期貨跌1.27%。ICE原糖期貨漲0.26%，ICE白糖期貨跌0.21%。ICE阿拉比卡咖啡期貨跌1.62%，咖啡“C”期貨漲10.22%。羅布斯塔咖啡期貨漲7.91%。紐約可可期貨5.19%，報6366美元/噸，6月12日以來累計上漲67.31%，逼近2025年11月4日頂部6680美元、當年8月13日頂部7959美元。倫敦可可期貨漲1.35%。芝加哥WCE雙低油菜籽期貨跌1.38%。ICE棉花期貨跌0.13%。"
-    },
-    {
-      "id": "4979694",
-      "time": "2026-07-10 03:26:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社援引布什爾官員的話報道稱，該市傳出的爆炸聲是防空系統應對目標引發的。"
-    },
-    {
-      "id": "4979692",
-      "time": "2026-07-10 03:25:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社援引布什爾官員訊息稱，布什爾市郊一處軍事地點遭美以導彈襲擊。"
-    },
-    {
-      "id": "mkt:019f4857-3efc-7aab-8d20-a7c802bcecc0",
-      "time": "2026-07-10 03:25:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRNA reported Bushehr province deputy governor for political and security affairs said explosions heard earlier in Bushehr city were caused by the local air-defence system activating in response. He said a military facility on the city's outskirts had been struck by what he described as \"US-Israeli enemy-launched projectiles\"."
     }
   ]
 }

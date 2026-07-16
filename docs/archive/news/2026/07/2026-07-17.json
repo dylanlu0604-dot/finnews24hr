@@ -1,7 +1,38 @@
 {
   "date": "2026-07-17",
-  "count": 292,
+  "count": 295,
   "items": [
+    {
+      "id": "4992900",
+      "time": "2026-07-17 03:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大政府宣佈，將透過 “強大加拿大聯盟” 計劃，向各省及地區新增 20 億加元撥款。"
+    },
+    {
+      "id": "4992899",
+      "time": "2026-07-17 03:24:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗米贊通訊社：卡達否認參與針對伊朗的軍事行動。"
+    },
+    {
+      "id": "mkt:019f6c60-7fbd-7aab-8dd0-3979adbfd41e",
+      "time": "2026-07-17 03:21:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "【Google shares fall over 4% intraday on reports Gemini 3.5 Pro delayed】Google (GOOG.O) shares fell more than 4% intraday on Thursday after reports said the company delayed the release of flagship AI model Gemini 3.5 Pro, with the model’s coding capabilities reportedly falling short of internal expectations. Google unveiled Gemini 3.5 Pro as internal-use only at its May I/O developer conference. CNBC cited a company spokesperson saying Google is rapidly rolling out multiple models while keeping cost-efficiency, is testing 3.5 Pro—described as an upgraded Flash model—with partners, and is actively working with the U.S. government."
+    },
     {
       "id": "4992898",
       "time": "2026-07-17 03:20:28",
