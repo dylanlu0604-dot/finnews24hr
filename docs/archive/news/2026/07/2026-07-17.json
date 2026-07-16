@@ -1,7 +1,68 @@
 {
   "date": "2026-07-17",
-  "count": 78,
+  "count": 85,
   "items": [
+    {
+      "id": "4992779",
+      "time": "2026-07-17 01:02:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "市場訊息：烏拉圭6月生產者價格環比上漲2.08%。"
+    },
+    {
+      "id": "mkt:019f6be0-532e-7aab-8dcd-a2f24ba8fc91",
+      "time": "2026-07-17 01:01:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve: For the week ended July 15, U.S. seasonally adjusted commercial paper outstanding fell $6.6 bln. Unadjusted commercial paper outstanding fell $2.4 bln; unadjusted commercial paper outstanding of foreign financial institutions fell $3.5 bln."
+    },
+    {
+      "id": "4992778",
+      "time": "2026-07-17 01:01:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲： 截至7月15日當週，美國未季調未償外國金融商業票據餘額下降35億美元。美國未季調商業票據未清償餘額下降24億美元。經季節調整後，美國未清償商業票據在截至7月15日當週減少66億美元。"
+    },
+    {
+      "id": "4992777",
+      "time": "2026-07-17 01:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬克龍：將對楓丹白露森林火災責任人依法追責】法國總統馬克龍16日前往巴黎附近的楓丹白露森林火災現場視察，馬克龍表示，將對造成火災的責任人依法追責。楓丹白露森林位於巴黎東南方向約60公里處，12日夜間發生火災，初步調查顯示疑似人為所致。截至14日中午，楓丹白露森林大火總過火面積超過2000公頃。據法國司法部門此前通報，數名涉嫌引發楓丹白露森林火災的嫌疑人已被立案偵查並羈押，其中一人涉嫌故意縱火，另一人涉嫌亂扔菸頭引發火災。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6bdf-8e00-7aab-8dcd-9af32c6317a8",
+      "time": "2026-07-17 01:00:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【White House teleprompter aide profited more than $100,000 on bets; CFTC investigating】Gabriel Perez, the White House technical aide who operated Trump’s teleprompter since 2016, is alleged to have used advance access to speech text to place prediction-market wagers on which words Trump would use, netting over $100,000 from bets on more than a dozen speeches. Prediction-market operators flagged the trading to the CFTC; investigators say Perez sometimes exited bets when Trump deviated from scripts. Perez is negotiating a potential settlement with regulators that could include disgorgement and a commitment to stop such trading; the U.S. Attorney in Manhattan declined to open a criminal probe. The White House says it is cooperating with the CFTC."
+    },
+    {
+      "id": "4992776",
+      "time": "2026-07-17 01:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.01%，滬銅收跌0.08%，滬鋁收漲0.39%，滬鋅收漲0.41%，滬鉛收漲1.57%，滬鎳收漲0.61%，滬錫收漲0.53%。氧化鋁夜盤收跌0.59%，鋁合金收漲0.52%。不鏽鋼夜盤收漲1.16%。"
+    },
+    {
+      "id": "4992775",
+      "time": "2026-07-17 00:59:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：沃倫要求特朗普披露其14億美元加密貨幣資產資訊。"
+    },
     {
       "id": "4992774",
       "time": "2026-07-17 00:57:00",
