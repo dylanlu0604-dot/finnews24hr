@@ -1,7 +1,124 @@
 {
   "date": "2026-07-16",
-  "count": 2948,
+  "count": 2961,
   "items": [
+    {
+      "id": "mkt:019f6b1f-ab3e-7aab-8dca-08586b86635b",
+      "time": "2026-07-16 21:31:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【2026 summer box office first half 3.534 bln yuan】As of 21:00 on July 16, 2026, summer 2026 box office receipts for the first half of the season totaled 3.534 bln yuan, up YoY. Kung Fu Women's Football was the period's top-grossing film."
+    },
+    {
+      "id": "4992539",
+      "time": "2026-07-16 21:30:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "奈及利亞外匯市場流動性充足，央行未進行干預。"
+    },
+    {
+      "id": "4992538",
+      "time": "2026-07-16 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指漲跌不一】道指漲0.26%，標普500指數跌0.19%，納指跌0.42%。閃迪跌5.39%，Arm Holdings Plc跌5.23%，Coherent Corp跌4.97%，聯合健康漲8.35%，JB Hunt運輸服務漲7.17%。“七姐妹”方面：谷歌漲0.96%，亞馬遜漲0.80%，微軟漲0.42%，蘋果漲0.25%，Meta Platforms跌0.22%，英偉達跌1.24%，特斯拉跌1.36%。"
+    },
+    {
+      "id": "mkt:019f6b1f-5b8c-7aab-8dca-057b1423965c",
+      "time": "2026-07-16 21:30:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bearish",
+        "SNDK.O",
+        "MU.O"
+      ],
+      "text": "U.S. stocks at the open: Dow up 0.2%, S&P 500 down 0.19%, Nasdaq down 0.45%. SK Hynix ADR (SKHY.O) down more than 5%; SanDisk (SNDK.O) down 4.5%; Micron Technology (MU.O) down 3.1%; Western Digital (WDC.O) down 3.6%; Intel (INTC.O) down 1.4%."
+    },
+    {
+      "id": "4992537",
+      "time": "2026-07-16 21:30:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，騰訊音樂漲6.83%，嗶哩嗶哩漲4.13%，百度漲3.49%，百勝中國漲3.08%，名創優品漲2.77%。"
+    },
+    {
+      "id": "4992536",
+      "time": "2026-07-16 21:30:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "禮來公司達成38億美元交易後，ATAIBECKLEY股價開盤上漲32%。"
+    },
+    {
+      "id": "4992535",
+      "time": "2026-07-16 21:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "韋德布什對Uber啟動覆蓋，給予跑贏大盤評級，目標價為91美元."
+    },
+    {
+      "id": "te:markets:567575",
+      "time": "2026-07-16 21:30:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "UnitedHealth Stock Price Hits 14-month High — UnitedHealth shares increased to 453.80 USD, the highest since April 2025. Over the past 4 weeks, UnitedHealth gained 2.67%, and in the last 12 months, it increased 43.09%."
+    },
+    {
+      "id": "4992534",
+      "time": "2026-07-16 21:29:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "韋德布什證券公司首次覆蓋Meta，給出中性評級，目標價為671美元。"
+    },
+    {
+      "id": "4992533",
+      "time": "2026-07-16 21:29:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "韋德布什證券公司對亞馬遜啟動覆蓋，給予“強於大盤”評級，目標價為293美元。"
+    },
+    {
+      "id": "4992532",
+      "time": "2026-07-16 21:28:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "韋德布什公司對ALPHABET啟動覆蓋，給予強於大盤評級，目標價為445美元。"
+    },
+    {
+      "id": "4992531",
+      "time": "2026-07-16 21:27:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "韋德布什對多鄰國啟動覆蓋研究，給予中性評級，目標價為139美元。"
+    },
+    {
+      "id": "4992530",
+      "time": "2026-07-16 21:27:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞力求將外匯儲備提升至可覆蓋超10個月進口額的水平。"
+    },
     {
       "id": "mkt:019f6b1b-da41-7aab-8dc9-fdd0e0179af5",
       "time": "2026-07-16 21:26:55",
