@@ -1,7 +1,81 @@
 {
   "date": "2026-07-16",
-  "count": 1445,
+  "count": 1453,
   "items": [
+    {
+      "id": "mkt:019f6970-67a6-7aab-8dbb-5e7b316225f4",
+      "time": "2026-07-16 13:40:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Philippine foreign ministry said it had learned U.S. Secretary of State Rubio will visit the Philippines to attend ASEAN and related meetings."
+    },
+    {
+      "id": "te:markets:567415",
+      "time": "2026-07-16 13:39:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 0.1% Lower, Marks 4th Straight Loss — The NZX 50 fell 20 points, or 0.1%, to 13,616 on Thursday, down for the fourth consecutive session and marking its lowest level since July 2, mainly weighed down by losses in communication services, financials, and consumer staples. Investors continued to monitor developments in the Middle East conflict amid rising oil prices, as inflation concerns fueled expectations of further interest rate hikes. Traders were cautious ahead of the release of June food inflation data due on Friday after the figures accelerated in May. On Tuesday, RBNZ Chief Economist Paul Conway warned that sticky inflation, driven by recent Middle East supply shocks, could prompt further interest rate hikes. Disappointing data from China further pressured sentiment, as the country's economy grew at its slowest pace in 3-1/2 years. Among the biggest laggards were Summerset Group (-2.6%), Scales Corporation (-1.2%), A2 Milk (-1.1%), Hallenstein Glasson (-1.1%), and Freightways Group (-0.8%)."
+    },
+    {
+      "id": "4991469",
+      "time": "2026-07-16 13:38:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電第二季度7奈米及更先進製程佔晶圓總營收77%】臺積電第二季度晶圓營收結構為2奈米制程佔比3%，3奈米制程佔比30%，5奈米制程佔比33%，7奈米制程佔比11%。7奈米及更先進製程合計佔晶圓總營收的77%。"
+    },
+    {
+      "id": "mkt:019f696f-18c4-7aab-8dbb-52cade90bfde",
+      "time": "2026-07-16 13:38:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish",
+        "9988.HK"
+      ],
+      "text": "【China FAW deploys first commercial automaker large model on Alibaba Cloud Bailian】China FAW has deployed an automotive industry large model, developed on Alibaba’s Qianwen, to Alibaba Cloud’s Bailian platform and opened it to the wider industry. Positioned as the first commercialized vertical model from an automaker, it covers manufacturing, R&D and marketing across the full value chain and provides standardized cloud-based inference services to upstream and downstream firms. The model has reached over 10 ecosystem partners and more than 20 potential customers, marking a move to convert automaker data and operational know‑how into reusable AI capabilities and a commercial monetization path for vertical models."
+    },
+    {
+      "id": "4991468",
+      "time": "2026-07-16 13:38:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱其打擊了基輔及烏克蘭多個港口的軍事目標。"
+    },
+    {
+      "id": "4991467",
+      "time": "2026-07-16 13:37:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【臺積電二季度淨利潤為7065.6億新臺幣，同比增長77.4%】臺積電7月16日公佈截至6月30日的2026年二季度合併財務報告。合併營收為12703.8億新臺幣，同比增長36%，淨利潤為7065.6億新臺幣，同比增長77.4%；毛利率為67.7%，營業利潤率為60.3%，淨利潤率為55.6%。"
+    },
+    {
+      "id": "4991466",
+      "time": "2026-07-16 13:37:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國一汽入駐阿里雲百鍊，為首個商業化車企大模型】中國一汽與阿里雲宣佈，一汽基於千問研發的汽車行業大模型正式入駐阿里雲百鍊平臺，且向全行業開放。作為業內首個實現商業化服務的垂直大模型，該模型覆蓋製造、研發、營銷等全鏈條場景，透過雲端為上下游企業提供標準化推理服務。目前，該模型已累計觸達10多家生態夥伴及20多家潛在客戶。此舉標誌著車企開始將自身資料與業務積累轉化為可複用的AI能力，正式跑通垂直領域的商業化變現路徑。"
+    },
+    {
+      "id": "4991465",
+      "time": "2026-07-16 13:36:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【半導體裝置板塊持續下挫 聖暉整合連續2日跌停】午後半導體裝置板塊持續下挫，聖暉整合連續2日跌停，精測電子跌超10%，先導基電、芯碁微裝、華海清科、和林微納、賽騰股份等多股跌超6%。"
+    },
     {
       "id": "mkt:019f696c-ce2c-7aab-8dbb-4e078e02b5df",
       "time": "2026-07-16 13:36:06",
