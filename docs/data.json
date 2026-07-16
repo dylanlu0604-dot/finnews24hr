@@ -1,7 +1,144 @@
 {
-  "updated": "2026-07-16 13:32:48",
-  "count": 18685,
+  "updated": "2026-07-16 13:36:43",
+  "count": 18693,
   "items": [
+    {
+      "id": "mkt:019f696c-ce2c-7aab-8dbb-4e078e02b5df",
+      "time": "2026-07-16 13:36:06",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N) Q2 smartphone revenue fell 4% QoQ."
+    },
+    {
+      "id": "mkt:019f696c-b336-7aab-8dbb-44ac3bbcaa67",
+      "time": "2026-07-16 13:35:59",
+      "tags": [
+        "MKT News",
+        "TSM.N"
+      ],
+      "text": "TSMC (TSM.N) reported Q2 capital expenditure of $15.7 bln."
+    },
+    {
+      "id": "mkt:019f696c-7b9b-7aab-8dbb-3c512f1c5d71",
+      "time": "2026-07-16 13:35:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "TSMC (TSM.N) reported Q2 2026 revenue of NT$1.27 tln, versus NT$933.792 bln in the year-ago quarter."
+    },
+    {
+      "id": "mkt:019f696c-57e6-7aab-8dbb-3791dfcd0885",
+      "time": "2026-07-16 13:35:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index closed down 6.61 points (-0.01%) at 45,624.98 on Thursday, July 16."
+    },
+    {
+      "id": "4991464",
+      "time": "2026-07-16 13:35:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【民調顯示超半數美國人反對對伊動武】今天（7月16日），伊朗塔斯尼姆通訊社援引英國《經濟學人》雜誌委託英國輿觀調查公司（YouGov）開展的一項調查結果顯示，超過半數美國受訪者認為，美國決定對伊朗採取軍事行動是錯誤的。調查顯示，57%的受訪者認為，對伊朗發動軍事行動的決定“不正確”，僅27%的受訪者表示支援這一決定。"
+    },
+    {
+      "id": "4991463",
+      "time": "2026-07-16 13:35:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季資本支出157.0億美元。"
+    },
+    {
+      "id": "4991462",
+      "time": "2026-07-16 13:34:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將阿斯麥目標價從 1830 歐元上調至 1930 歐元。"
+    },
+    {
+      "id": "4991461",
+      "time": "2026-07-16 13:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季智慧手機業務營收環比下降4%。"
+    },
+    {
+      "id": "4991460",
+      "time": "2026-07-16 13:33:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季高效能運算營收環比增長20%。"
+    },
+    {
+      "id": "4991459",
+      "time": "2026-07-16 13:33:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "瀾起科技盤中跌15.03%，現報214.67元。"
+    },
+    {
+      "id": "mkt:019f696a-7fe7-7aab-8dbb-2e19089f1ac5",
+      "time": "2026-07-16 13:33:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "TSMC's high-performance computing revenue rose 20% QoQ in Q2."
+    },
+    {
+      "id": "mkt:019f696a-4542-7aab-8dbb-22d89975eee0",
+      "time": "2026-07-16 13:33:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) Q2 gross margin 67.7%, up 9.1 percentage points YoY."
+    },
+    {
+      "id": "4991458",
+      "time": "2026-07-16 13:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季度營收為1.270萬億臺幣，上年同期為9337.9億臺幣。"
+    },
+    {
+      "id": "mkt:019f6969-f25f-7aab-8dbb-1c908e6ff3c6",
+      "time": "2026-07-16 13:32:58",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share panel sector weakened in afternoon trade; Yushun Electronics hit the daily down limit, while Tianshan Electronics, Gelinda, Aisen Co., Tianlu Technology, Qiutian Micro and Ruilian New Materials also fell."
+    },
     {
       "id": "mkt:019f6968-e249-7aab-8dbb-13e1bab44364",
       "time": "2026-07-16 13:31:49",
@@ -171789,65 +171926,6 @@
         "Brent"
       ],
       "text": "【State Street Global Advisors: renewed Middle East fighting unlikely to fundamentally change market outlook】Elliot Hentov, chief macro policy strategist at State Street Global Advisors, said renewed escalation in the Middle East is unlikely to fundamentally alter the market outlook. Since April there has been little new evidence on either side’s willingness to escalate; neither side appears to seek a full resumption of hostilities, so the conflict may eventually subside. In SSGA’s spring war scenario the firm assumes Brent crude near $80/bbl for the remainder of the year to reflect residual risk under any ceasefire."
-    },
-    {
-      "id": "mkt:019f455f-7774-7aab-8d09-f80f99c7c6cc",
-      "time": "2026-07-09 13:35:12",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "Taiwan's Taiex closed down 379.8 points, or 0.83%, at 45,354.61 on Thursday, July 9."
-    },
-    {
-      "id": "4978242",
-      "time": "2026-07-09 13:35:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數收低0.8%報45,354.61。"
-    },
-    {
-      "id": "4978241",
-      "time": "2026-07-09 13:34:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【訊息稱英偉達Rosa CPU採用臺積電A16工藝 搭配背面供電技術】據報道，英偉達下一代Rosa CPU有望採用臺積電A16工藝，並搭配背面供電技術。相比較N2P工藝，臺積電的A16工藝最高提升晶片密度1.1倍，核心變化是引入Super Power Rail（超級供電軌）背面供電技術，把供電網路移至晶圓背面，從而提高供電效率、降低IR drop（壓降），並釋放正面佈線空間用於訊號互連。"
-    },
-    {
-      "id": "mkt:019f455e-d48b-7aab-8d09-f061d8ffac17",
-      "time": "2026-07-09 13:34:30",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "TSM.N"
-      ],
-      "text": "【NVIDIA Rosa CPU said to target TSMC A16 process with backside power delivery】A business-times blog on July 9 reported NVIDIA’s next-generation Rosa CPU is expected to use TSMC’s A16 process paired with backside power delivery (Super Power Rail). Versus N2P, A16 can raise chip density by up to 1.1x; shifting the power network to the wafer backside should improve power-delivery efficiency, reduce IR drop and free front-side routing for signal interconnects."
-    },
-    {
-      "id": "4978240",
-      "time": "2026-07-09 13:33:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "MINIMAX-W(00100.HK)解禁首日大跌20%，股價觸及290港元，市值回落至910億港元。"
-    },
-    {
-      "id": "mkt:019f455d-f85f-7aab-8d09-eea4d2724885",
-      "time": "2026-07-09 13:33:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "00100.HK",
-        "Impact bearish"
-      ],
-      "text": "MINIMAX-W (00100.HK) plunged 20% on the first trading day after lock-up expiry, hitting HK$290 and trimming market capitalization to about HK$91 bln."
     }
   ]
 }

@@ -1,7 +1,144 @@
 {
   "date": "2026-07-16",
-  "count": 1431,
+  "count": 1445,
   "items": [
+    {
+      "id": "mkt:019f696c-ce2c-7aab-8dbb-4e078e02b5df",
+      "time": "2026-07-16 13:36:06",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N) Q2 smartphone revenue fell 4% QoQ."
+    },
+    {
+      "id": "mkt:019f696c-b336-7aab-8dbb-44ac3bbcaa67",
+      "time": "2026-07-16 13:35:59",
+      "tags": [
+        "MKT News",
+        "TSM.N"
+      ],
+      "text": "TSMC (TSM.N) reported Q2 capital expenditure of $15.7 bln."
+    },
+    {
+      "id": "mkt:019f696c-7b9b-7aab-8dbb-3c512f1c5d71",
+      "time": "2026-07-16 13:35:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "TSMC (TSM.N) reported Q2 2026 revenue of NT$1.27 tln, versus NT$933.792 bln in the year-ago quarter."
+    },
+    {
+      "id": "mkt:019f696c-57e6-7aab-8dbb-3791dfcd0885",
+      "time": "2026-07-16 13:35:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index closed down 6.61 points (-0.01%) at 45,624.98 on Thursday, July 16."
+    },
+    {
+      "id": "4991464",
+      "time": "2026-07-16 13:35:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【民調顯示超半數美國人反對對伊動武】今天（7月16日），伊朗塔斯尼姆通訊社援引英國《經濟學人》雜誌委託英國輿觀調查公司（YouGov）開展的一項調查結果顯示，超過半數美國受訪者認為，美國決定對伊朗採取軍事行動是錯誤的。調查顯示，57%的受訪者認為，對伊朗發動軍事行動的決定“不正確”，僅27%的受訪者表示支援這一決定。"
+    },
+    {
+      "id": "4991463",
+      "time": "2026-07-16 13:35:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季資本支出157.0億美元。"
+    },
+    {
+      "id": "4991462",
+      "time": "2026-07-16 13:34:47",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將阿斯麥目標價從 1830 歐元上調至 1930 歐元。"
+    },
+    {
+      "id": "4991461",
+      "time": "2026-07-16 13:34:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季智慧手機業務營收環比下降4%。"
+    },
+    {
+      "id": "4991460",
+      "time": "2026-07-16 13:33:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季高效能運算營收環比增長20%。"
+    },
+    {
+      "id": "4991459",
+      "time": "2026-07-16 13:33:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "瀾起科技盤中跌15.03%，現報214.67元。"
+    },
+    {
+      "id": "mkt:019f696a-7fe7-7aab-8dbb-2e19089f1ac5",
+      "time": "2026-07-16 13:33:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "TSMC's high-performance computing revenue rose 20% QoQ in Q2."
+    },
+    {
+      "id": "mkt:019f696a-4542-7aab-8dbb-22d89975eee0",
+      "time": "2026-07-16 13:33:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) Q2 gross margin 67.7%, up 9.1 percentage points YoY."
+    },
+    {
+      "id": "4991458",
+      "time": "2026-07-16 13:33:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺積電第二季度營收為1.270萬億臺幣，上年同期為9337.9億臺幣。"
+    },
+    {
+      "id": "mkt:019f6969-f25f-7aab-8dbb-1c908e6ff3c6",
+      "time": "2026-07-16 13:32:58",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share panel sector weakened in afternoon trade; Yushun Electronics hit the daily down limit, while Tianshan Electronics, Gelinda, Aisen Co., Tianlu Technology, Qiutian Micro and Ruilian New Materials also fell."
+    },
     {
       "id": "mkt:019f6968-e249-7aab-8dbb-13e1bab44364",
       "time": "2026-07-16 13:31:49",
