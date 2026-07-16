@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-17 02:05:36",
-  "count": 18805,
+  "updated": "2026-07-17 02:09:37",
+  "count": 18804,
   "items": [
+    {
+      "id": "4992856",
+      "time": "2026-07-17 02:08:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌至盤中低點，跌幅一度達0.6%。"
+    },
+    {
+      "id": "4992855",
+      "time": "2026-07-17 02:06:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：安盛將出售其在ARDIAN的全部10%股份。"
+    },
+    {
+      "id": "mkt:019f6c1b-e872-7aab-8dcf-763d29182e37",
+      "time": "2026-07-17 02:06:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Logan said the banking regulatory liquidity framework could be further optimized, potentially allowing the Fed’s balance sheet to be smaller."
+    },
+    {
+      "id": "4992854",
+      "time": "2026-07-17 02:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商稱，洲際交易所原糖8月交割量預計為5861手，合29萬3050噸。"
+    },
+    {
+      "id": "4992853",
+      "time": "2026-07-17 02:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會表示，2025年4月紐約造成六人死亡的致命觀光直升機墜機事故發生前發生了鳥擊。"
+    },
+    {
+      "id": "4992852",
+      "time": "2026-07-17 02:05:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "洛根：有可能為銀行建立一個更最佳化的監管流動性機制，從而縮小美聯儲資產負債表規模。"
+    },
     {
       "id": "mkt:019f6c19-b379-7aab-8dcf-6b9a0ffb8a1f",
       "time": "2026-07-17 02:04:11",
@@ -172823,76 +172879,6 @@
         "Europe & UK"
       ],
       "text": "ECB President Lagarde said Europe clearly needs to establish a European asset."
-    },
-    {
-      "id": "4979632",
-      "time": "2026-07-10 02:07:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德： 我們顯然需要一款歐洲主權安全資產。"
-    },
-    {
-      "id": "4979631",
-      "time": "2026-07-10 02:07:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "埃隆・馬斯克承認自己此前對 Anthropic 的判斷有誤，稱其無疑是人工智慧領域的行業龍頭，尚無競品能比肩 Mythos 大模型；他預計 Mythos 第二代模型很快推出，並承諾絕不會採取損害 Anthropic 發展的方式切斷相關合作。"
-    },
-    {
-      "id": "mkt:019f480f-87d6-7aab-8d1f-8999f9586fa0",
-      "time": "2026-07-10 02:06:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "ECB President Lagarde said EU governments must take action to boost economic growth."
-    },
-    {
-      "id": "mkt:019f480f-81bb-7aab-8d1f-84c69d287401",
-      "time": "2026-07-10 02:06:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Musk says he underestimated Anthropic, calls it AI industry leader】On social media, Musk said he had underestimated Anthropic, calling no firm’s models better than its Mythos and Fable and saying he expects Anthropic to release Mythos 2 soon. He added that, even if Anthropic is a competitor, he would not take steps that would seriously harm its development, citing Tesla’s past patent open-sourcing and opening of the Supercharger network and SpaceX’s practice of not raising prices or imposing unfavorable terms when launching rival satellite systems."
-    },
-    {
-      "id": "mkt:019f480f-7d24-7aab-8d1f-7b917f639abd",
-      "time": "2026-07-10 02:06:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "META.O"
-      ],
-      "text": "Meta Platforms (META.O) CEO says exploring an AI cloud business is reasonable."
-    },
-    {
-      "id": "mkt:019f480e-d37c-7aab-8d1f-72cfe5ef908e",
-      "time": "2026-07-10 02:05:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【French central bank raises near-term GDP forecast, expects to avoid recession】The Banque de France raised its near-term GDP forecast after June activity improved across sectors, saying its monthly business survey and recent hard data show Q2 output rose 0.2%. The bank had previously flagged stagnation, which after a Q1 contraction risked leaving the economy close to recession. It said industrial activity strengthened markedly in June and services and construction have been recovering since May, easing some pressure on the government's efforts to rein in the budget deficit."
-    },
-    {
-      "id": "4979630",
-      "time": "2026-07-10 02:05:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德：歐盟各國政府必須採取行動發展經濟。"
     }
   ]
 }

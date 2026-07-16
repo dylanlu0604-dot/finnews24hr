@@ -1,7 +1,63 @@
 {
   "date": "2026-07-17",
-  "count": 215,
+  "count": 221,
   "items": [
+    {
+      "id": "4992856",
+      "time": "2026-07-17 02:08:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數跌至盤中低點，跌幅一度達0.6%。"
+    },
+    {
+      "id": "4992855",
+      "time": "2026-07-17 02:06:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：安盛將出售其在ARDIAN的全部10%股份。"
+    },
+    {
+      "id": "mkt:019f6c1b-e872-7aab-8dcf-763d29182e37",
+      "time": "2026-07-17 02:06:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Logan said the banking regulatory liquidity framework could be further optimized, potentially allowing the Fed’s balance sheet to be smaller."
+    },
+    {
+      "id": "4992854",
+      "time": "2026-07-17 02:05:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "交易商稱，洲際交易所原糖8月交割量預計為5861手，合29萬3050噸。"
+    },
+    {
+      "id": "4992853",
+      "time": "2026-07-17 02:05:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會表示，2025年4月紐約造成六人死亡的致命觀光直升機墜機事故發生前發生了鳥擊。"
+    },
+    {
+      "id": "4992852",
+      "time": "2026-07-17 02:05:11",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "洛根：有可能為銀行建立一個更最佳化的監管流動性機制，從而縮小美聯儲資產負債表規模。"
+    },
     {
       "id": "mkt:019f6c19-b379-7aab-8dcf-6b9a0ffb8a1f",
       "time": "2026-07-17 02:04:11",
