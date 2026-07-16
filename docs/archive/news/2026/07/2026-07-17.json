@@ -1,7 +1,23 @@
 {
   "date": "2026-07-17",
-  "count": 286,
+  "count": 288,
   "items": [
+    {
+      "id": "mkt:019f6c5b-2a8d-7aab-8dd0-2ac6e86af0e2",
+      "time": "2026-07-17 03:15:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps says the United States is currently trapped and its only way out is to withdraw from West Asia, and that the era of US bullying and provocation has ended."
+    },
+    {
+      "id": "4992895",
+      "time": "2026-07-17 03:13:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數觸及盤中低點，下跌0.7%。"
+    },
     {
       "id": "4992894",
       "time": "2026-07-17 03:11:46",

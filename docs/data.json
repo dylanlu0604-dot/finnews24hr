@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-17 03:13:09",
-  "count": 18781,
+  "updated": "2026-07-17 03:17:04",
+  "count": 18777,
   "items": [
+    {
+      "id": "mkt:019f6c5b-2a8d-7aab-8dd0-2ac6e86af0e2",
+      "time": "2026-07-17 03:15:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps says the United States is currently trapped and its only way out is to withdraw from West Asia, and that the era of US bullying and provocation has ended."
+    },
+    {
+      "id": "4992895",
+      "time": "2026-07-17 03:13:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數觸及盤中低點，下跌0.7%。"
+    },
     {
       "id": "4992894",
       "time": "2026-07-17 03:11:46",
@@ -172629,65 +172645,6 @@
         "國際"
       ],
       "text": "美國投資公司協會資料：貨幣市場基金資產規模增至創紀錄的 7.953 萬億美元。"
-    },
-    {
-      "id": "mkt:019f484e-e24d-7aab-8d20-9686274bee4c",
-      "time": "2026-07-10 03:15:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian state TV reported that no explosions were recorded recently at Bandar Abbas port, Qeshm Island, Sirik or Jask."
-    },
-    {
-      "id": "4979689",
-      "time": "2026-07-10 03:15:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "凱雷集團股價隨成交量激增上揚，最新上漲2.3%，報每股44.06美元。"
-    },
-    {
-      "id": "4979688",
-      "time": "2026-07-10 03:15:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社訊息：阿巴斯港、格什姆、錫裡克及賈斯克暫無爆炸事件相關報道。"
-    },
-    {
-      "id": "4979687",
-      "time": "2026-07-10 03:13:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7910元，較週三夜盤收盤漲142點。成交量431.64億美元。"
-    },
-    {
-      "id": "mkt:019f484c-bb1b-7aab-8d20-8b03e077445c",
-      "time": "2026-07-10 03:13:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "According to Fox News, U.S. Commerce Secretary Howard Lutnick said Trump believes oil prices will remain low going forward."
-    },
-    {
-      "id": "4979686",
-      "time": "2026-07-10 03:13:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "微軟股價在成交量飆升的過程中收窄跌幅，最新報每股381.70美元，跌幅0.42%。"
     }
   ]
 }
