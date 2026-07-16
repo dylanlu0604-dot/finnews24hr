@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-16 13:20:33",
-  "count": 18687,
+  "updated": "2026-07-16 13:24:43",
+  "count": 18685,
   "items": [
+    {
+      "id": "4991448",
+      "time": "2026-07-16 13:23:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱在美方接受伊朗規定前，霍爾木茲海峽將繼續關閉。"
+    },
+    {
+      "id": "mkt:019f6961-1c1f-7aab-8dba-ede29fb60da5",
+      "time": "2026-07-16 13:23:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Multiple Chinese dividend ETFs complete fundraising, raise over 1 billion yuan】Several Chinese dividend-related ETFs, including dividend low-volatility and dividend-quality ETFs, have completed fundraising, raising a combined total of more than 1 billion yuan."
+    },
+    {
+      "id": "4991447",
+      "time": "2026-07-16 13:23:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方就霍爾木茲海峽局勢發表宣告。"
+    },
+    {
+      "id": "4991446",
+      "time": "2026-07-16 13:22:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上交所9只ETF正在發行，6只已完成募集】ETF產品陸續發行建倉。據瞭解，目前上交所有9只ETF正在發行，6只ETF已完成募集，既包括A股ETF等寬基ETF產品，又包括科創人工智慧、工程機械、光伏、食品等行業主題ETF，相關產品陸續發行建倉或將為市場引入增量資金。（第一財經）"
+    },
+    {
+      "id": "mkt:019f695f-7916-7aab-8dba-e1c2a3cd071c",
+      "time": "2026-07-16 13:21:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "In A-shares, GigaDevice's turnover exceeded RMB 20.0 bln; the stock is trading down 7.87%."
+    },
+    {
+      "id": "4991445",
+      "time": "2026-07-16 13:21:15",
+      "tags": [
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【報告：美國PPI資料料將鞏固美聯儲的按兵不動立場】TruStage的Steve Rick在一份報告中表示，對美聯儲來說，低於預期的PPI報告是一個可喜的進展。該首席經濟學家表示：“這將表明通脹可能正在逐步接近美聯儲的目標，並可能鞏固決策者可以按兵不動而不是考慮進一步加息的預期。“他說，雖然抗通脹之戰尚未結束，但更疲軟的價格資料將是朝著實現價格穩定和健康勞動力市場之間更好平衡邁出的又一步。"
+    },
+    {
+      "id": "4991444",
+      "time": "2026-07-16 13:20:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "兆易創新A股成交額超200億元，現跌8.04%。"
+    },
     {
       "id": "4991442",
       "time": "2026-07-16 13:18:36",
@@ -171792,89 +171853,6 @@
         "國際"
       ],
       "text": "【特朗普稱伊朗想達成協議】據美國媒體9日報道，參加完北約峰會的美國總統特朗普在返回華盛頓途中接受記者採訪時說，伊朗方面“不久前打來電話，他們非常渴望達成協議”。（新華社）"
-    },
-    {
-      "id": "4978230",
-      "time": "2026-07-09 13:24:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "莫迪：印度和澳大利亞將合作建設關鍵礦產走廊。"
-    },
-    {
-      "id": "4978229",
-      "time": "2026-07-09 13:23:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "莫迪：印度和澳大利亞將加快推進雙邊投資協議。"
-    },
-    {
-      "id": "mkt:019f4554-9db3-7aab-8d09-b194d8d2bd72",
-      "time": "2026-07-09 13:23:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Recently listed China Resources New Energy hit the daily limit-down in the afternoon; turnover exceeded 3.7 billion yuan."
-    },
-    {
-      "id": "4978228",
-      "time": "2026-07-09 13:22:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "次新股華潤新能源午後觸及跌停，成交額36.59億元。"
-    },
-    {
-      "id": "mkt:019f4553-f289-7aab-8d09-af00c9353631",
-      "time": "2026-07-09 13:22:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian railway company says Tehran–Mashhad train services are temporarily suspended after US and Israeli strikes this morning."
-    },
-    {
-      "id": "4978227",
-      "time": "2026-07-09 13:21:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海倫鋼琴等成立智慧機器人新公司】企查查APP顯示，近日，寧波智慧全拓海倫智慧機器人有限公司成立，經營範圍包含：智慧機器人的研發；人工智慧理論與演算法軟體開發；人工智慧應用軟體開發；人工智慧基礎軟體開發等。企查查股權穿透顯示，該公司由海倫鋼琴全資子公司寧波全拓海倫控股有限公司等共同持股。"
-    },
-    {
-      "id": "mkt:019f4552-a6fa-7aab-8d09-a4fae08f7977",
-      "time": "2026-07-09 13:21:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "09626.HK",
-        "03690.HK"
-      ],
-      "text": "Hong Kong stocks fell further in afternoon trade: the Hang Seng Index dropped 1.0% and the Hang Seng Tech Index declined 0.79%. Tech names led losses—Bilibili (09626.HK) fell more than 5%, while Baidu (09888.HK), Xiaomi Group (01810.HK) and Meituan (03690.HK) slid over 3%."
-    },
-    {
-      "id": "mkt:019f4552-8667-7aab-8d09-9eeaf3a182f4",
-      "time": "2026-07-09 13:21:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Former South Korean president Yoon Suk-yeol said, in response to the Supreme Court ruling finding him guilty of obstructing an arrest, We respect the court's decision, but deeply regret it."
-    },
-    {
-      "id": "mkt:019f4552-398d-7aab-8d09-93f8a8c81bed",
-      "time": "2026-07-09 13:20:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China-backed potash project in Congo-Brazzaville likely to resume production in early 2027】Congo-Brazzaville officials confirmed the Bougou‑Massi potash project, developed with investment from Shenzhen Luyuan Mining, is expected to restart commercial potash production in early 2027. The minister of mines and geology said trial production is planned for end-2026 with full commercial output in Q1 2027. The Kouilou province project targets first-phase KCl output of 600,000 t/yr, expandable to 2.0 mln t/yr, and includes construction of a dedicated maritime export terminal. Officials say Bougou‑Massi is the fastest-progressing potash project among current plans in Congo-Brazzaville."
     }
   ]
 }
