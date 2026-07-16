@@ -1,7 +1,344 @@
 {
-  "updated": "2026-07-16 09:32:34",
-  "count": 18612,
+  "updated": "2026-07-16 09:36:34",
+  "count": 18618,
   "items": [
+    {
+      "id": "4991112",
+      "time": "2026-07-16 09:35:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:019f6890-8e3c-7aab-8db5-0aa20cb1dae1",
+      "time": "2026-07-16 09:35:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's Sci‑Tech Innovation Board 50 Index fell more than 4% intraday."
+    },
+    {
+      "id": "mkt:019f6890-863b-7aab-8db5-00845cf0bf3e",
+      "time": "2026-07-16 09:35:29",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran parliamentary speaker says Strait of Hormuz is pillar of national security】Iranian parliament speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz is a pillar of Iran’s national security and Tehran must preserve Iran’s existing arrangements in the vital shipping route. In an address to the nation he said Iran is engaged in a complex struggle with the United States and must remain prepared to fight; he added US strategy toward Iran has not changed and aims not only to weaken Iran but to sow domestic divisions. Ghalibaf said Iran’s policy in both conflict and negotiations should be grounded in realism, national interest and a long-term perspective."
+    },
+    {
+      "id": "4991111",
+      "time": "2026-07-16 09:35:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【證券板塊短線走低，華安證券跌超8%】證券板塊短線走低，華安證券跌超8%，中金公司、招商證券、長江證券、中信建投等跟跌。"
+    },
+    {
+      "id": "4991110",
+      "time": "2026-07-16 09:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長說霍爾木茲海峽是伊朗的國家安全支柱】據伊朗邁赫爾通訊社15日報道，伊朗議長卡利巴夫說，霍爾木茲海峽是伊朗的國家安全支柱，必須維護伊朗在這一重要航道的既有安排。卡利巴夫在當晚發表的致伊朗全國人民的講話中說，伊朗正與美國進行一場複雜的鬥爭，必須時刻準備與美國作戰。美方對伊朗的戰略並未改變，其目標不僅在於削弱伊朗，還包括在伊朗國內製造分裂。因此，無論是在衝突還是在談判中，伊朗的方針都必須基於現實、國家利益和長遠眼光。（新華社）"
+    },
+    {
+      "id": "4991109",
+      "time": "2026-07-16 09:35:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨盤初跌逾1%。"
+    },
+    {
+      "id": "4991108",
+      "time": "2026-07-16 09:35:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "【2026年二季度和上半年國內生產總值初步核算結果】根據有關基礎資料和國內生產總值（GDP）核算方法，經初步核算，我國2026年二季度和上半年GDP核算結果如下。"
+    },
+    {
+      "id": "te:markets:567355",
+      "time": "2026-07-16 09:34:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Climb for 4th Day — European natural gas extended its rally for a fourth consecutive session, climbing toward €55 per MWh on Thursday, the highest level since March 30, as continued US attacks on Iran heightened fears over LNG flows from the region. Following the reimposition of its naval blockade, the US launched another round of strikes targeting Iran's coastal defenses and missile sites and said it had fired on an empty oil tanker en route to an Iranian port. Tehran responded by warning it could disrupt more regional energy exports, describing the conflict as an \"existential war\" with the US. The latest escalation comes at a particularly sensitive time for Europe, which is in the middle of refilling its gas facilities ahead of winter. Any renewed disruption to Persian Gulf supplies would force European buyers into more intense and costly competition with Asian importers for available LNG cargoes."
+    },
+    {
+      "id": "4991107",
+      "time": "2026-07-16 09:34:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7567.60點。"
+    },
+    {
+      "id": "mkt:019f688f-c1d9-7aab-8db4-f8148b8927b8",
+      "time": "2026-07-16 09:34:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1% in early trade."
+    },
+    {
+      "id": "4991106",
+      "time": "2026-07-16 09:34:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4.10%，成分股中，瀾起科技跌12.05%，拓荊科技跌7.36%，中科飛測跌7.34%，華海清科跌6.89%。"
+    },
+    {
+      "id": "mkt:019f688f-49da-7aab-8db4-f2058b94a305",
+      "time": "2026-07-16 09:34:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "A-share ChiNext index fell more than 3% in early trade."
+    },
+    {
+      "id": "4991105",
+      "time": "2026-07-16 09:34:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新築股份與萬界資料將圍繞算電協同等領域深度合作】7月15日，成都市新築路橋機械股份有限公司（簡稱“新築股份”）與北京萬界資料科技有限責任公司（簡稱“萬界資料”）簽署戰略合作協議，雙方將圍繞綠色AIDC（智算中心）、算電協同、“AI+能源”等領域開展深度合作。根據協議，雙方將重點推進綠色AIDC專案開發運營和“AI+能源”數智平臺建設。"
+    },
+    {
+      "id": "4991104",
+      "time": "2026-07-16 09:34:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.04%，成分股中，戈碧迦跌8.07%，錦華新材跌6.65%，曙光數創跌4.43%，星圖測控跌4.04%。"
+    },
+    {
+      "id": "mkt:019f688f-1773-7aab-8db4-e8843e92580e",
+      "time": "2026-07-16 09:33:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market reports: Tehran's air defenses activated; explosions reported in northern and western Iran."
+    },
+    {
+      "id": "4991103",
+      "time": "2026-07-16 09:33:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：今年核心通脹率可能略高於此前預測的2.4%。"
+    },
+    {
+      "id": "mkt:019f688e-ee06-7aab-8db4-e352e54f41a6",
+      "time": "2026-07-16 09:33:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says it is necessary to monitor elevated exchange-rate volatility."
+    },
+    {
+      "id": "4991102",
+      "time": "2026-07-16 09:33:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豬肉板塊短線拉昇，大禹生物漲超9%】豬肉板塊短線拉昇，大禹生物漲超9%，天康生物、天邦食品、金新農、溫氏股份跟漲。"
+    },
+    {
+      "id": "4991101",
+      "time": "2026-07-16 09:33:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.04%，現報3689.053點；上證指數跌1.11%，現報3911.775點；深證成指跌2.30%，現報14440.059點。"
+    },
+    {
+      "id": "mkt:019f688e-e598-7aab-8db4-d84edd16b3e1",
+      "time": "2026-07-16 09:33:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【U.S. urges Vietnam to act on non-tariff barriers, economic security and IP】U.S. Trade Representative Greer said Thursday Washington is pressing Vietnam for more action on non-tariff barriers, economic-security cooperation and intellectual property as months-long trade talks continue. He said the U.S. would require Vietnam to align on export controls and related measures before allowing exports of certain high-tech equipment. Washington is also seeking tariff cuts, removal of NTBs that restrict U.S. goods and services, and IP standards consistent with U.S. firms. Vietnamese officials are in Washington this week for a new negotiating round amid three U.S. probes into Vietnam's trade practices; talks had stalled over stricter rules of origin, tougher anti-transshipment measures, market access and NTBs. Former President Trump had threatened a 40% tariff on goods deemed transshipped, though the definition remains unresolved."
+    },
+    {
+      "id": "4991100",
+      "time": "2026-07-16 09:33:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7885.00點。"
+    },
+    {
+      "id": "mkt:019f688e-b907-7aab-8db4-d66f5617b8e1",
+      "time": "2026-07-16 09:33:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European-Mediterranean Seismological Centre reported a magnitude-5.8 earthquake at 10:57 local time on July 16 about 962 km south-southeast of Suva, Fiji, offshore; depth 340 km; epicenter 26.366°S, 178.694°W."
+    },
+    {
+      "id": "mkt:019f688e-937b-7aab-8db4-cb4fac812db7",
+      "time": "2026-07-16 09:33:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "JD.com",
+        "09626.HK",
+        "Impact bullish",
+        "09988.HK",
+        "01024.HK"
+      ],
+      "text": "Hang Seng Tech Index rose over 1% in early trade as internet names rallied; Bilibili (09626.HK) and Alibaba (09988.HK) gained more than 4%, Kuaishou (01024.HK) rose over 3%, while Baidu (09888.HK) and JD.com (09618.HK) also advanced."
+    },
+    {
+      "id": "mkt:019f688e-560d-7aab-8db4-c6f54def54e5",
+      "time": "2026-07-16 09:33:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says this year's core inflation may be slightly above its previous 2.4% forecast."
+    },
+    {
+      "id": "4991099",
+      "time": "2026-07-16 09:33:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，瀾起科技跌9.4％，中科飛測跌7.3％，拓荊科技跌5.9％，源傑科技跌5.8％。"
+    },
+    {
+      "id": "mkt:019f688e-30cc-7aab-8db4-bda9776778ef",
+      "time": "2026-07-16 09:32:56",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Bank of Korea says house-price growth in Seoul and surrounding areas has accelerated."
+    },
+    {
+      "id": "4991098",
+      "time": "2026-07-16 09:32:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋰電池板塊短線走低】鋰電池板塊短線走低，鵬輝能源跌超10%，蔚藍鋰芯、德福科技、銅冠銅箔、諾德股份等跟跌。"
+    },
+    {
+      "id": "mkt:019f688e-1341-7aab-8db4-b4063897afcc",
+      "time": "2026-07-16 09:32:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "Bank of Korea said uncertainty remains around the semiconductor industry, developments in the Middle East and shifts in the trade environment."
+    },
+    {
+      "id": "4991097",
+      "time": "2026-07-16 09:32:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：半導體行業、中東局勢發展、貿易環境變化仍存在不確定性。"
+    },
+    {
+      "id": "mkt:019f688d-d89d-7aab-8db4-aaeb9c66ceb4",
+      "time": "2026-07-16 09:32:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: household loans rose sharply."
+    },
+    {
+      "id": "4991096",
+      "time": "2026-07-16 09:32:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4669.80點。"
+    },
+    {
+      "id": "4991095",
+      "time": "2026-07-16 09:32:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊拉昇，儒意電影漲停】影視院線板塊拉昇，儒意電影漲停，歡瑞世紀、光線傳媒、上海電影、中國電影、博納影業跟漲。"
+    },
+    {
+      "id": "4991094",
+      "time": "2026-07-16 09:32:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：需密切關注樓市及家庭債務增長。"
+    },
+    {
+      "id": "mkt:019f688d-75db-7aab-8db4-a488c8861af4",
+      "time": "2026-07-16 09:32:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says it needs to monitor the real estate market and growth in household debt."
+    },
+    {
+      "id": "4991093",
+      "time": "2026-07-16 09:32:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：通脹壓力將繼續加大，預計將維持在目標水平之上。"
+    },
     {
       "id": "mkt:019f688d-3a9d-7aab-8db4-9fa58e08a163",
       "time": "2026-07-16 09:31:53",
@@ -170861,292 +171198,6 @@
         "焦點"
       ],
       "text": "深證成指漲1.00%，現報15089.713點；上證指數漲0.13%，現報3975.943點；創業板指漲1.56%，現報3905.356點。"
-    },
-    {
-      "id": "4977928",
-      "time": "2026-07-09 09:36:28",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局：6月份虛擬現實裝置製造價格環比上漲8.4% 可穿戴智慧裝置製造價格上漲3.4%】國家統計局城市司首席統計師董莉娟表示，從環比看，全國PPI下降0.3%。本月PPI環比執行的主要特點：一是國際原油價格下行，影響國內相關行業價格下降。石油開採價格環比下降16.0%，精煉石油產品製造價格下降3.1%，降幅比上月分別擴大14.2個和2.8個百分點，化學原料和化學制品製造業、化學纖維製造業價格由上月上漲分別轉為下降2.0%和0.8%。二是受季節性因素影響，部分行業價格走勢分化。6月份氣溫升高，“迎峰度夏”備煤及製冷產品需求增加，煤炭開採和洗選業價格環比上漲5.6%，家用製冷電器具製造價格上漲0.6%，製冷空調裝置製造價格上漲0.4%；夏季降水、光照及風力充足，水力發電、太陽能發電、風力發電價格分別下降9.1%、2.5%和2.2%。三是產業升級加快帶動部分行業需求增加，價格上行。人工智慧覆蓋場景不斷拓展，新原料新材料廣泛應用，綠色化轉型持續推進，帶動虛擬現實裝置製造價格環比上漲8.4%，可穿戴智慧裝置製造價格上漲3.4%，工業控制計算機及系統製造價格上漲3.3%，工業機器人制造價格上漲0.5%；電子專用材料製造價格上漲2.5%，碳基奈米材料價格上漲1.9%，生物質燃料加工價格上漲1.2%；廢棄資源綜合利用業價格上漲0.4%。"
-    },
-    {
-      "id": "4977927",
-      "time": "2026-07-09 09:36:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片概念震盪反彈 普冉股份漲超10%】早盤儲存晶片概念震盪反彈，普冉股份漲超10%，夏農芯創、商絡電子、深科技、兆易創新、北京君正跟漲。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607093799357034",
-      "time": "2026-07-09 09:36:14",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：6月份虛擬現實裝置製造價格環比上漲8.4% 可穿戴智慧裝置製造價格上漲3.4%】國家統計局城市司首席統計師董莉娟表示，人工智慧覆蓋場景不斷拓展，新原料新材料廣泛應用，綠色化轉型持續推進，帶動虛擬現實裝置製造價格環比上漲8.4%，可穿戴智慧裝置製造價格上漲3.4%，工業控制計算機及系統製造價格上漲3.3%，工業機器人制造價格上漲0.5%；電子專用材料製造價格上漲2.5%，碳基奈米材料價格上漲1.9%，生物質燃料加工價格上漲1.2%；廢棄資源綜合利用業價格上漲0.4%。"
-    },
-    {
-      "id": "4977926",
-      "time": "2026-07-09 09:35:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股智譜盤初漲超14%，最高報2168港元】港股智譜盤初漲超14%，最高報2168港元。公司擬以每股1588港元配售最多1978萬股新H股，於收市價每股1,825.00港元折讓約12.99%。"
-    },
-    {
-      "id": "4977925",
-      "time": "2026-07-09 09:35:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國家統計局：產業升級加快帶動部分行業需求增加，價格上行】國家統計局稱，人工智慧覆蓋場景不斷拓展，新原料新材料廣泛應用，綠色化轉型持續推進，帶動虛擬現實裝置製造價格6月份環比上漲8.4%，可穿戴智慧裝置製造價格上漲3.4%，工業控制計算機及系統製造價格上漲3.3%，工業機器人制造價格上漲0.5%；電子專用材料製造價格上漲2.5%，碳基奈米材料價格上漲1.9%，生物質燃料加工價格上漲1.2%；廢棄資源綜合利用業價格上漲0.4%。"
-    },
-    {
-      "id": "te:economy:565446",
-      "time": "2026-07-09 09:35:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Inflation Rate",
-        "Importance 3"
-      ],
-      "text": "China Inflation Rate Slightly Below Forecasts — China's annual inflation eased to 1.0% in June 2026 from 1.2% in both April and May, slightly below market expectations of 1.1%, marking the softest increase in three months. On a monthly basis, consumer prices fell 0.3% after edging down 0.1% in May, compared with market forecasts of a 0.2% decline."
-    },
-    {
-      "id": "4977924",
-      "time": "2026-07-09 09:35:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "齊雲山食品(02797.HK)上市首日漲超120%，現報17.67港元/股，發售價8港元/股。"
-    },
-    {
-      "id": "mkt:019f4484-2261-7aab-8d04-7323435583ff",
-      "time": "2026-07-09 09:35:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "02797.HK",
-        "Impact bullish"
-      ],
-      "text": "Qiyunshan Food (02797.HK) rose more than 120% in its Hong Kong listing debut, trading at HKD 17.67 per share versus an IPO price of HKD 8."
-    },
-    {
-      "id": "4977923",
-      "time": "2026-07-09 09:35:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達20億港元。"
-    },
-    {
-      "id": "4977922",
-      "time": "2026-07-09 09:35:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【機構：儲存成本飆升，400美元以下全球智慧手機市場將下滑22%】根據Omdia最新研究，近幾個季度以來，DRAM和NAND價格持續大幅上漲，且預計未來仍將保持上升趨勢。不斷攀升的儲存成本已成為中低端智慧手機廠商面臨的重要挑戰，並推動400美元以下智慧手機市場同比下滑超過22%。"
-    },
-    {
-      "id": "4977921",
-      "time": "2026-07-09 09:34:36",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瀚藍持股泰國曼谷垃圾焚燒發電專案即將投產】據瀚藍環境，2023年，瀚藍透過收購新源能源40%股權（國投電力持有60%），新增泰國曼谷垃圾焚燒發電專案，總處理規模達3300噸/日。2025年，公司確認該專案投資收益約1800萬元。目前，農墾一期專案（500噸/日）持續穩定運營，效益良好。在建的農墾二期與安努專案（各1400噸/日）預計將在近期投產。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607093799349710",
-      "time": "2026-07-09 09:34:36",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【國家統計局：國際輸入性因素等帶動國內工業消費品價格漲幅回落】國家統計局城市司首席統計師董莉娟表示，從同比看，全國CPI上漲1.0%，漲幅比上月回落0.2個百分點。國際輸入性因素等帶動國內工業消費品價格漲幅回落。工業消費品價格上漲2.9%，漲幅比上月回落1.0個百分點，影響CPI同比上漲約0.90個百分點，對CPI的上拉影響比上月減少約0.28個百分點。"
-    },
-    {
-      "id": "mkt:019f4483-23c9-7aab-8d04-6a599242fe7d",
-      "time": "2026-07-09 09:34:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【NBS: June PPI -0.3% MoM; coal-mining prices +5.6% on peak-summer stocking, cooling demand】China PPI fell 0.3% MoM in June, the National Bureau of Statistics said. International crude weakness drove sharp oil-sector declines: oil extraction prices -16.0% MoM and refined petroleum products manufacturing -3.1% (widening by 14.2 and 2.8 percentage points vs May). Chemical raw-materials and chemical-fiber manufacturing shifted from MoM gains to declines of 2.0% and 0.8% respectively. Seasonal peak-summer demand lifted coal mining and washing prices 5.6% MoM; household cooling appliance manufacturing +0.6%; refrigeration and air-conditioning equipment +0.4%. Ample summer precipitation, sunlight and wind cut power prices: hydro -9.1%, solar -2.5% and wind -2.2% MoM."
-    },
-    {
-      "id": "4977920",
-      "time": "2026-07-09 09:34:27",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "【國家統計局：6月“迎峰度夏”備煤及製冷產品需求增加，煤炭開採和洗選業價格環比上漲5.6%】國家統計局城市司首席統計師董莉娟解讀2026年6月份CPI和PPI資料。從環比看，全國PPI下降0.3%。本月PPI環比執行的主要特點：國際原油價格下行，影響國內相關行業價格下降。石油開採價格環比下降16.0%，精煉石油產品製造價格下降3.1%，降幅比上月分別擴大14.2個和2.8個百分點，化學原料和化學制品製造業、化學纖維製造業價格由上月上漲分別轉為下降2.0%和0.8%。受季節性因素影響，部分行業價格走勢分化。6月份氣溫升高，“迎峰度夏”備煤及製冷產品需求增加，煤炭開採和洗選業價格環比上漲5.6%，家用製冷電器具製造價格上漲0.6%，製冷空調裝置製造價格上漲0.4%；夏季降水、光照及風力充足，水力發電、太陽能發電、風力發電價格分別下降9.1%、2.5%和2.2%。"
-    },
-    {
-      "id": "4977919",
-      "time": "2026-07-09 09:34:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【油氣概念延續強勢 通源石油漲超10%】油氣概念延續強勢，通源石油漲超10%，山東墨龍、潛能恆信、科力股份、泰山石油、中曼石油、凱添燃氣跟漲。"
-    },
-    {
-      "id": "4977918",
-      "time": "2026-07-09 09:33:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉死亡病例達600例】剛果（金）衛生部8日釋出的最新疫情報告顯示，該國本輪埃博拉疫情累計報告確診病例1759例，其中死亡600例。 報告說，截至目前，疫情主要波及伊圖裡省、北基伍省和南基伍省三個省份。累計治癒病例285例，目前有750名患者處於隔離或住院治療狀態。 報告稱，三省相關醫療機構收治床位已接近飽和。其中，北基伍省收治機構承壓明顯，床位佔用率已超100%。 報告還說，喬波省首府基桑加尼報告兩例埃博拉病毒聚合酶鏈式反應(PCR)檢測呈陽性病例。其中一例與伊圖裡省有關，另一例目前尚未發現與基桑加尼以外地區存在流行病學關聯。報告稱，相關複核檢測和進一步流行病學調查正在進行。這兩例病例尚未計入全國累計病例數。 喬波省與伊圖裡省、北基伍省相鄰，基桑加尼是剛果（金）東北部重要商貿城市和交通樞紐。(新華社)"
-    },
-    {
-      "id": "mkt:019f4482-94ab-7aab-8d04-666e61c8d0cb",
-      "time": "2026-07-09 09:33:56",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "A-share broker stocks jumped at the open; Huaan Securities hit the daily limit, while China Merchants Securities, Changjiang Securities, CSC Financial, Tianfeng Securities and CICC also advanced."
-    },
-    {
-      "id": "4977917",
-      "time": "2026-07-09 09:33:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【森木磊石完成B+輪融資】近日，森木磊石宣佈完成B+輪融資。本次融資由申能誠毅領投，老股東原始碼資本、英諾基金持續追投。本輪融資將用於進一步加大技術研發投入，加速PPEC Workbench跨架構嵌入式開發平臺（IDE）的迭代升級，深化在可控核聚變、核醫療、人造金剛石等前沿領域的應用佈局，同時加強團隊人才梯隊建設與市場渠道拓展。"
-    },
-    {
-      "id": "mkt:019f4482-75f5-7aab-8d04-5f29b9af4b75",
-      "time": "2026-07-09 09:33:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【National Bureau of Statistics: June domestic gold jewelry and gasoline prices fell 8.7% and 4.9%】National Bureau of Statistics chief statistician Dong Lijuan said June national CPI fell 0.3% MoM. International price swings drove domestic gold jewelry and gasoline down 8.7% and 4.9%, widening their declines by 5.9 and 4.6 ppt vs. last month and together subtracting about 0.22 ppt from CPI—around 0.19 ppt more drag than in the prior month. Food prices fell 0.4% MoM, unchanged from May, trimming roughly 0.07 ppt off CPI. Seasonal supply pushed fresh vegetables and fruit down 1.0% and 2.0% (combined -0.06 ppt); pork and aquatic products fell 0.8% and 0.6% (combined -0.02 ppt). Egg prices rose 7.0% as low layer stocks and heat reduced lay rates, adding about 0.03 ppt to MoM CPI."
-    },
-    {
-      "id": "4977916",
-      "time": "2026-07-09 09:33:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "泰國副財長：外商直接投資仍在流入，且來源更加多元化。"
-    },
-    {
-      "id": "4977915",
-      "time": "2026-07-09 09:33:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【AI手機概念表現活躍 道明光學漲停】AI手機概念表現活躍，道明光學漲停，弘信電子、奧尼電子、中興通訊、福蓉科技跟漲。"
-    },
-    {
-      "id": "4977914",
-      "time": "2026-07-09 09:33:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【算力晶片概念盤初走強 沐曦股份漲超9%創歷史新高】早盤算力晶片概念走強，沐曦股份一度漲超9%創歷史新高，瀾起科技、東芯股份、摩爾執行緒、寒武紀等跟漲。"
-    },
-    {
-      "id": "mkt:019f4481-ff66-7aab-8d04-52bfbb0a15f5",
-      "time": "2026-07-09 09:33:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed"
-      ],
-      "text": "【NBS: Imported factors curb domestic industrial consumer-goods price growth】China June CPI +1.0% YoY, down 0.2ppt from May, NBS urban office chief statistician Dong Lijuan said. Industrial consumer-goods prices rose 2.9% YoY, 1.0ppt slower as international imported factors weighed; industrial consumer goods contributed about 0.90ppt to CPI YoY, a reduction of ~0.28ppt versus May. Within industrial goods, gold jewelry and gasoline decelerated to +28.1% and +17.0%, together adding ~0.60ppt to CPI YoY (down ~0.23ppt). Personal-care products and household appliances rose 2.3% and 2.2% YoY, both slower. Services inflation held at +0.8% YoY, contributing roughly 0.40ppt to CPI."
-    },
-    {
-      "id": "mkt:019f4481-e59f-7aab-8d04-4f11c46b487e",
-      "time": "2026-07-09 09:33:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share PCB concept stocks jumped in early trade; Baoding Technology hit its daily trading limit, with Benchuan Intelligent, Taijin New Energy, Mulinsen, Mankun Technology and Kuaike Intelligent also rising."
-    },
-    {
-      "id": "mkt:019f4481-e1aa-7aab-8d04-4270dbbf91f2",
-      "time": "2026-07-09 09:33:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand deputy finance minister said FDI continues to flow into the country and is becoming more diversified."
-    },
-    {
-      "id": "4977913",
-      "time": "2026-07-09 09:32:56",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "焦點"
-      ],
-      "text": "券商股開盤拉昇，華安證券直線漲停，招商證券漲超6%，長江證券、中金公司、中信建投、天風證券跟漲。"
-    },
-    {
-      "id": "te:economy:565445",
-      "time": "2026-07-09 09:32:55",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Producer Prices Change",
-        "Importance 2"
-      ],
-      "text": "China Producer Prices Rise the Most in 4 Years — China’s producer prices increased 4.1% year-on-year in June 2026, accelerating from a 3.9% rise in the previous month and matching market forecasts. It was the fourth consecutive monthly increase and the steepest pace since July 2022."
-    },
-    {
-      "id": "4977912",
-      "time": "2026-07-09 09:32:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "【PCB概念股盤初拉昇，寶鼎科技漲停】PCB概念股盤初拉昇，寶鼎科技漲停，本川智慧、泰金新能、木林森、滿坤科技、快克智慧跟漲。"
-    },
-    {
-      "id": "mkt:019f4481-6fcc-7aab-8d04-3c7bc22613e9",
-      "time": "2026-07-09 09:32:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225"
-      ],
-      "text": "Japan 40-year government bond yield rose 5bp to 4.055%."
     }
   ]
 }

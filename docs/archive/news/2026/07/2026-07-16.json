@@ -1,7 +1,344 @@
 {
   "date": "2026-07-16",
-  "count": 877,
+  "count": 912,
   "items": [
+    {
+      "id": "4991112",
+      "time": "2026-07-16 09:35:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "mkt:019f6890-8e3c-7aab-8db5-0aa20cb1dae1",
+      "time": "2026-07-16 09:35:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's Sci‑Tech Innovation Board 50 Index fell more than 4% intraday."
+    },
+    {
+      "id": "mkt:019f6890-863b-7aab-8db5-00845cf0bf3e",
+      "time": "2026-07-16 09:35:29",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran parliamentary speaker says Strait of Hormuz is pillar of national security】Iranian parliament speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz is a pillar of Iran’s national security and Tehran must preserve Iran’s existing arrangements in the vital shipping route. In an address to the nation he said Iran is engaged in a complex struggle with the United States and must remain prepared to fight; he added US strategy toward Iran has not changed and aims not only to weaken Iran but to sow domestic divisions. Ghalibaf said Iran’s policy in both conflict and negotiations should be grounded in realism, national interest and a long-term perspective."
+    },
+    {
+      "id": "4991111",
+      "time": "2026-07-16 09:35:26",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【證券板塊短線走低，華安證券跌超8%】證券板塊短線走低，華安證券跌超8%，中金公司、招商證券、長江證券、中信建投等跟跌。"
+    },
+    {
+      "id": "4991110",
+      "time": "2026-07-16 09:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗議長說霍爾木茲海峽是伊朗的國家安全支柱】據伊朗邁赫爾通訊社15日報道，伊朗議長卡利巴夫說，霍爾木茲海峽是伊朗的國家安全支柱，必須維護伊朗在這一重要航道的既有安排。卡利巴夫在當晚發表的致伊朗全國人民的講話中說，伊朗正與美國進行一場複雜的鬥爭，必須時刻準備與美國作戰。美方對伊朗的戰略並未改變，其目標不僅在於削弱伊朗，還包括在伊朗國內製造分裂。因此，無論是在衝突還是在談判中，伊朗的方針都必須基於現實、國家利益和長遠眼光。（新華社）"
+    },
+    {
+      "id": "4991109",
+      "time": "2026-07-16 09:35:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨盤初跌逾1%。"
+    },
+    {
+      "id": "4991108",
+      "time": "2026-07-16 09:35:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "【2026年二季度和上半年國內生產總值初步核算結果】根據有關基礎資料和國內生產總值（GDP）核算方法，經初步核算，我國2026年二季度和上半年GDP核算結果如下。"
+    },
+    {
+      "id": "te:markets:567355",
+      "time": "2026-07-16 09:34:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "European Gas Prices Climb for 4th Day — European natural gas extended its rally for a fourth consecutive session, climbing toward €55 per MWh on Thursday, the highest level since March 30, as continued US attacks on Iran heightened fears over LNG flows from the region. Following the reimposition of its naval blockade, the US launched another round of strikes targeting Iran's coastal defenses and missile sites and said it had fired on an empty oil tanker en route to an Iranian port. Tehran responded by warning it could disrupt more regional energy exports, describing the conflict as an \"existential war\" with the US. The latest escalation comes at a particularly sensitive time for Europe, which is in the middle of refilling its gas facilities ahead of winter. Any renewed disruption to Persian Gulf supplies would force European buyers into more intense and costly competition with Asian importers for available LNG cargoes."
+    },
+    {
+      "id": "4991107",
+      "time": "2026-07-16 09:34:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7567.60點。"
+    },
+    {
+      "id": "mkt:019f688f-c1d9-7aab-8db4-f8148b8927b8",
+      "time": "2026-07-16 09:34:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "FTSE China A50 index futures fell more than 1% in early trade."
+    },
+    {
+      "id": "4991106",
+      "time": "2026-07-16 09:34:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4.10%，成分股中，瀾起科技跌12.05%，拓荊科技跌7.36%，中科飛測跌7.34%，華海清科跌6.89%。"
+    },
+    {
+      "id": "mkt:019f688f-49da-7aab-8db4-f2058b94a305",
+      "time": "2026-07-16 09:34:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "A-share ChiNext index fell more than 3% in early trade."
+    },
+    {
+      "id": "4991105",
+      "time": "2026-07-16 09:34:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新築股份與萬界資料將圍繞算電協同等領域深度合作】7月15日，成都市新築路橋機械股份有限公司（簡稱“新築股份”）與北京萬界資料科技有限責任公司（簡稱“萬界資料”）簽署戰略合作協議，雙方將圍繞綠色AIDC（智算中心）、算電協同、“AI+能源”等領域開展深度合作。根據協議，雙方將重點推進綠色AIDC專案開發運營和“AI+能源”數智平臺建設。"
+    },
+    {
+      "id": "4991104",
+      "time": "2026-07-16 09:34:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.04%，成分股中，戈碧迦跌8.07%，錦華新材跌6.65%，曙光數創跌4.43%，星圖測控跌4.04%。"
+    },
+    {
+      "id": "mkt:019f688f-1773-7aab-8db4-e8843e92580e",
+      "time": "2026-07-16 09:33:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Market reports: Tehran's air defenses activated; explosions reported in northern and western Iran."
+    },
+    {
+      "id": "4991103",
+      "time": "2026-07-16 09:33:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：今年核心通脹率可能略高於此前預測的2.4%。"
+    },
+    {
+      "id": "mkt:019f688e-ee06-7aab-8db4-e352e54f41a6",
+      "time": "2026-07-16 09:33:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says it is necessary to monitor elevated exchange-rate volatility."
+    },
+    {
+      "id": "4991102",
+      "time": "2026-07-16 09:33:44",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【豬肉板塊短線拉昇，大禹生物漲超9%】豬肉板塊短線拉昇，大禹生物漲超9%，天康生物、天邦食品、金新農、溫氏股份跟漲。"
+    },
+    {
+      "id": "4991101",
+      "time": "2026-07-16 09:33:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.04%，現報3689.053點；上證指數跌1.11%，現報3911.775點；深證成指跌2.30%，現報14440.059點。"
+    },
+    {
+      "id": "mkt:019f688e-e598-7aab-8db4-d84edd16b3e1",
+      "time": "2026-07-16 09:33:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【U.S. urges Vietnam to act on non-tariff barriers, economic security and IP】U.S. Trade Representative Greer said Thursday Washington is pressing Vietnam for more action on non-tariff barriers, economic-security cooperation and intellectual property as months-long trade talks continue. He said the U.S. would require Vietnam to align on export controls and related measures before allowing exports of certain high-tech equipment. Washington is also seeking tariff cuts, removal of NTBs that restrict U.S. goods and services, and IP standards consistent with U.S. firms. Vietnamese officials are in Washington this week for a new negotiating round amid three U.S. probes into Vietnam's trade practices; talks had stalled over stricter rules of origin, tougher anti-transshipment measures, market access and NTBs. Former President Trump had threatened a 40% tariff on goods deemed transshipped, though the definition remains unresolved."
+    },
+    {
+      "id": "4991100",
+      "time": "2026-07-16 09:33:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌2%，現報7885.00點。"
+    },
+    {
+      "id": "mkt:019f688e-b907-7aab-8db4-d66f5617b8e1",
+      "time": "2026-07-16 09:33:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European-Mediterranean Seismological Centre reported a magnitude-5.8 earthquake at 10:57 local time on July 16 about 962 km south-southeast of Suva, Fiji, offshore; depth 340 km; epicenter 26.366°S, 178.694°W."
+    },
+    {
+      "id": "mkt:019f688e-937b-7aab-8db4-cb4fac812db7",
+      "time": "2026-07-16 09:33:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "JD.com",
+        "09626.HK",
+        "Impact bullish",
+        "09988.HK",
+        "01024.HK"
+      ],
+      "text": "Hang Seng Tech Index rose over 1% in early trade as internet names rallied; Bilibili (09626.HK) and Alibaba (09988.HK) gained more than 4%, Kuaishou (01024.HK) rose over 3%, while Baidu (09888.HK) and JD.com (09618.HK) also advanced."
+    },
+    {
+      "id": "mkt:019f688e-560d-7aab-8db4-c6f54def54e5",
+      "time": "2026-07-16 09:33:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says this year's core inflation may be slightly above its previous 2.4% forecast."
+    },
+    {
+      "id": "4991099",
+      "time": "2026-07-16 09:33:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，瀾起科技跌9.4％，中科飛測跌7.3％，拓荊科技跌5.9％，源傑科技跌5.8％。"
+    },
+    {
+      "id": "mkt:019f688e-30cc-7aab-8db4-bda9776778ef",
+      "time": "2026-07-16 09:32:56",
+      "tags": [
+        "MKT News",
+        "Market Regions"
+      ],
+      "text": "Bank of Korea says house-price growth in Seoul and surrounding areas has accelerated."
+    },
+    {
+      "id": "4991098",
+      "time": "2026-07-16 09:32:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鋰電池板塊短線走低】鋰電池板塊短線走低，鵬輝能源跌超10%，蔚藍鋰芯、德福科技、銅冠銅箔、諾德股份等跟跌。"
+    },
+    {
+      "id": "mkt:019f688e-1341-7aab-8db4-b4063897afcc",
+      "time": "2026-07-16 09:32:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "Bank of Korea said uncertainty remains around the semiconductor industry, developments in the Middle East and shifts in the trade environment."
+    },
+    {
+      "id": "4991097",
+      "time": "2026-07-16 09:32:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：半導體行業、中東局勢發展、貿易環境變化仍存在不確定性。"
+    },
+    {
+      "id": "mkt:019f688d-d89d-7aab-8db4-aaeb9c66ceb4",
+      "time": "2026-07-16 09:32:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea: household loans rose sharply."
+    },
+    {
+      "id": "4991096",
+      "time": "2026-07-16 09:32:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4669.80點。"
+    },
+    {
+      "id": "4991095",
+      "time": "2026-07-16 09:32:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊拉昇，儒意電影漲停】影視院線板塊拉昇，儒意電影漲停，歡瑞世紀、光線傳媒、上海電影、中國電影、博納影業跟漲。"
+    },
+    {
+      "id": "4991094",
+      "time": "2026-07-16 09:32:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：需密切關注樓市及家庭債務增長。"
+    },
+    {
+      "id": "mkt:019f688d-75db-7aab-8db4-a488c8861af4",
+      "time": "2026-07-16 09:32:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea says it needs to monitor the real estate market and growth in household debt."
+    },
+    {
+      "id": "4991093",
+      "time": "2026-07-16 09:32:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：通脹壓力將繼續加大，預計將維持在目標水平之上。"
+    },
     {
       "id": "mkt:019f688d-3a9d-7aab-8db4-9fa58e08a163",
       "time": "2026-07-16 09:31:53",
