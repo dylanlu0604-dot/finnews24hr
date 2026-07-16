@@ -1,7 +1,105 @@
 {
   "date": "2026-07-16",
-  "count": 3037,
+  "count": 3048,
   "items": [
+    {
+      "id": "4992599",
+      "time": "2026-07-16 21:59:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港交所：上半年香港現貨市場日均成交金額同比增17.8%】香港交易所（港交所）16日表示，2026年上半年香港市場延續去年的強勁增長態勢，證券、衍生產品和滬深港通均交投活躍。香港現貨市場平均每日成交金額達2830億港元，同比增長17.8%。 港交所表示，增長主要受科技和人工智慧股吸引資金流入、滬深港通成交創新高及新股上市持續增加帶動。其中，二季度平均每日成交金額達2895億港元，創季度新高。 股權資本市場方面，今年上半年，香港新股集資額創下歷史同期第二高水平，共有87家公司上市，集資總額達2102億港元，同比增長92.1%。赴港上市的公司來自各行各業，涵蓋人工智慧價值鏈的各個環節。首次公開招股後交易活動同樣表現活躍，包括各型別股權再融資和股權相關交易在內的再融資額達2960億港元。 上半年，中國內地和國際投資者繼續透過滬深港通積極參與香港市場，北向和南向交易成交金額同創新高。統計顯示，今年前6個月，滬股通和深股通平均每日成交金額達3453億元人民幣，遠高於2025全年的2124億元人民幣；港股通平均每日成交金額達1231億港元，打破2025全年1211億港元的紀錄；滬深港通合資格ETF的交投增長顯著，南向ETF平均每日成交金額達61億港元，北向ETF則達49億元人民幣，同比分別增長61%和84%。 港交所表示，得益於創新科技企業和國際公司踴躍申請上市，以及交易所產品組合的持續最佳化，6月市場活動尤為強勁，為今年下半年市場穩健發展奠定堅實基礎。（新華社）"
+    },
+    {
+      "id": "te:markets:567590",
+      "time": "2026-07-16 21:59:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Swing as US-Iran Tensions Intensify — Crude oil swung between gains and losses around the $80 level on Thursday, remaining at one-month highs as escalating hostilities in the Middle East continued to support prices and weigh on investor sentiment. Reports showed that Iranian government had asked Houthis to stand ready to close the Red Sea oil route should US forces carry out President Trump’s threat to target the country’s infrastructure next week if a diplomatic breakthrough is not achieved. The US intensified its strikes against Iran, reportedly targeting an oil tanker near the country's main export terminal for the first time since reimposing a blockade on the country's ports. In response, Iran launched attacks on US bases in Kuwait and Jordan. According to Reuters, tanker traffic through the Strait has fallen to two-month lows as the conflict has intensified. Only seven vessels transited the waterway on Wednesday, the first full day after the US reimposed its naval blockade on Iran, down from 13 the previous day."
+    },
+    {
+      "id": "mkt:019f6b38-f10f-7aab-8dca-92044c8b0738",
+      "time": "2026-07-16 21:58:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's ambassador to Germany warns appeasement of US aggression will backfire】Iran's ambassador to Germany criticized Europe's silence in response to the US president's explicit threats against Iranian civilian infrastructure, warning that appeasing Washington's aggression will ultimately backfire on Europeans."
+    },
+    {
+      "id": "4992598",
+      "time": "2026-07-16 21:58:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高能級外資總部佔比過半，上海靜安為新一批外資研發創新中心授牌】2026年7月16日，上海市靜安區召開外資總部提質升級暨外資研發創新推進大會，為新一批外資研發創新中心授牌，釋出高能級總部提質升級專案。靜安區涉外經濟規模已連續10年保持中心城區第一，2025年新增12家跨國公司地區總部。目前，全區投資決策型、全球樞紐型、創新研發型三類核心高能級總部佔比已超50%，總部經濟實現了從規模集聚向內涵提質的系統性躍升。未來目標是每年轉化升級高能級總部10家。（澎湃）"
+    },
+    {
+      "id": "4992596",
+      "time": "2026-07-16 21:57:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：日本正在建設人工智慧工廠，以推動下一個工業革命。"
+    },
+    {
+      "id": "mkt:019f6b37-b549-7aab-8dca-8f608527db75",
+      "time": "2026-07-16 21:57:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) says Japan is building AI factories to drive the next industrial revolution."
+    },
+    {
+      "id": "4992595",
+      "time": "2026-07-16 21:57:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦外交部週四發表宣告，約旦譴責伊朗針對巴林與科威特發起的多次野蠻襲擊，稱此類行為是危險升級，違反國際法及《聯合國憲章》。 約旦外交部表示，約旦與巴林、科威特兩國堅定站在一起，支援兩國為維護本國主權與安全所採取的一切舉措。"
+    },
+    {
+      "id": "mkt:019f6b37-8d44-7aab-8dca-8505e2a7db05",
+      "time": "2026-07-16 21:57:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says Hamas 'still controls' Gaza and that its mission in Gaza is not yet over."
+    },
+    {
+      "id": "4992594",
+      "time": "2026-07-16 21:56:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股碳化矽龍頭Wolfspeed低開低走，跌幅擴大至8.5%。"
+    },
+    {
+      "id": "4992593",
+      "time": "2026-07-16 21:55:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典銀行：將以5000萬美元與紐約金融服務局達成和解。"
+    },
+    {
+      "id": "4992592",
+      "time": "2026-07-16 21:55:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伊拉克稱南部港口石油裝載正常進行】當地時間16日，伊拉克石油部發表宣告稱，伊拉克南部港口的石油裝載工作仍在進行中。宣告指出，伊拉克南部海域一艘油輪報告稱有不明物體墜落在該油輪附近，但未引起火災或對船隻造成損壞。當天早些時候，伊拉克安全部門訊息人士稱，一架無人機擊中了伊拉克南部巴士拉省港口附近海域的一艘油輪。事件發生後，巴士拉港石油裝載工作已全部暫停。（央視新聞）"
+    },
     {
       "id": "4992591",
       "time": "2026-07-16 21:55:01",
