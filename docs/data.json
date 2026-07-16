@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-16 08:26:33",
-  "count": 18626,
+  "updated": "2026-07-16 08:30:29",
+  "count": 18625,
   "items": [
+    {
+      "id": "mkt:019f6853-ba17-7aab-8db2-cfd6111a7cde",
+      "time": "2026-07-16 08:29:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Mehr News Agency reported Iranian air defense systems were activated in Tehran to respond to hostile threats."
+    },
+    {
+      "id": "4990976",
+      "time": "2026-07-16 08:28:53",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【華泰證券：銅價紅利向礦端集中，鋁企依託成本下行與結構升級盈利改善】華泰證券研報表示，2026上半年LME銅現貨均價YoY+38.7%，26Q2均價QoQ+3.8%、YoY+40%；電解鋁26H1均價YoY+18.7%，26Q2均價QoQ+1%。銅價持續上行，高自給率礦企顯著受益；此外，冶煉企業也受益於副產品硫酸價格上漲。鋁板塊受益26H1電解鋁價格大幅上行。據各公司2026H1業績預增公告，採購最佳化、生產技改、高階產品結構升級、供應鏈及費用管控差異，是鋁行業盈利分化的核心原因。"
+    },
+    {
+      "id": "mkt:019f6853-85b8-7aab-8db2-c5719a512a0f",
+      "time": "2026-07-16 08:28:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department: U.S. citizens and nationals who visited the Democratic Republic of the Congo in the past 21 days are barred from entering the United States on commercial flights."
+    },
+    {
+      "id": "4990975",
+      "time": "2026-07-16 08:28:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗德黑蘭防空系統啟動，以應對“敵對威脅”。"
+    },
+    {
+      "id": "4990974",
+      "time": "2026-07-16 08:27:57",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：當前時點已上市的資料中心REITs值得持續重點關注】中信證券研報稱，在AI應用帶動的算力需求快速放量過程中，IDC在供給端受到核心區位、能源使用、資金投入三重核心約束，導致供給增長或難以滿足需求放量的加速度，行業景氣有望持續。在此背景下，頭部運營商透過REITs平臺上市的優質IDC資產具備稀缺性，預計即便在未來週期波動中，其穩健性也會相對更高，是攻守兼備的優質資產。同時，隨著後續擴募程序有序推進，投資者回報或有望進一步增厚，當前時點已上市的資料中心REITs值得持續重點關注。另外，若後續新發的資料中心REITs一級市場估值更具價效比，亦建議投資者積極參與一級市場戰略配售。"
+    },
+    {
+      "id": "4990973",
+      "time": "2026-07-16 08:27:43",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院稱，國土安全部已實施新的埃博拉相關旅行限制。"
+    },
+    {
+      "id": "4990972",
+      "time": "2026-07-16 08:26:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數下跌1%，報4047.21點。"
+    },
     {
       "id": "te:markets:567338",
       "time": "2026-07-16 08:26:03",
@@ -171210,81 +171274,6 @@
         "其他"
       ],
       "text": "【商務部等9部門：依法依規整治零售領域網路虛假資訊】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，完善法治市場。健全規範涉企執法長效機制，糾治零售領域涉企“亂收費、亂罰款、亂檢查、亂查封”及違規異地執法、趨利性執法等問題。規制惡意索賠，依法嚴厲打擊騙取賠償、敲詐勒索行為，維護市場秩序。依法依規整治零售領域網路虛假資訊。加強零售環節食品安全管理。落實《商務領域經營者使用、報告一次性塑膠製品管理辦法》，推廣綠色替代產品，促進使用減量。"
-    },
-    {
-      "id": "4977799",
-      "time": "2026-07-09 08:30:28",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【商務部等9部門：支援符合條件的新型優質零售企業上市】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，提供融資支援。支援符合條件的新型優質零售企業上市。支援符合條件的零售經營主體發行資產支援型證券和商業不動產投資信託基金。支援金融機構出臺適合零售業特點的行業授信政策。推動符合條件的零售經營主體享受服務業經營主體貸款貼息政策。支援符合條件的百貨商場、購物中心、社群商業、農貿市場等消費基礎設施專案發行基礎設施領域不動產投資信託基金。在依法合規、風險可控前提下，加大對設施裝置節能降碳和數字化改造的金融支援。"
-    },
-    {
-      "id": "te:economy:565432",
-      "time": "2026-07-09 08:29:49",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Government Bond Korea",
-        "Importance 1"
-      ],
-      "text": "South Korea 10Y Bond Yield Hits 4-week High — South Korea 10 Year Government Bond Yield increased to 4.29%, the highest since June 2026. Over the past 4 weeks, South Korea 10Y Bond Yield lost 2.30 basis points, and in the last 12 months, it increased 138.90 basis points."
-    },
-    {
-      "id": "4977798",
-      "time": "2026-07-09 08:29:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部等9部門：禁止對連鎖零售企業跨區域經營設定註冊獨立法人、最低投資規模等准入壁壘】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，減輕企業負擔。落實統一大市場建設要求，禁止對連鎖零售企業跨區域經營設定註冊獨立法人、最低投資規模等准入壁壘。支援零售企業參與綠證綠電交易。對符合條件的零售企業，按規定落實穩崗促就業相關政策。"
-    },
-    {
-      "id": "mkt:019f4447-4a31-7aab-8d01-cd158e6b71dc",
-      "time": "2026-07-09 08:29:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CNH"
-      ],
-      "text": "【MOFCOM and eight ministries push digital RMB for consumer voucher issuance and settlement】MOFCOM and eight ministries issued guidance to accelerate retail-sector innovation, including promoting use of the digital RMB for consumer voucher issuance and settlement. The guidance calls for leveraging digital RMB smart contracts to enable more efficient circulation and precise, rapid delivery of subsidy funds. It backs full-chain digitization of retail operators—procurement, inventory, logistics and online-offline integration—and encourages platforms and third‑party tech vendors to provide digital management systems and shared resources to small and medium retailers. The document also promotes AI+ applications such as intelligent shopping assistance, low-altitude delivery and unmanned vending."
-    },
-    {
-      "id": "mkt:019f4447-09b0-7aab-8d01-c647b74de4e3",
-      "time": "2026-07-09 08:28:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENC reported a magnitude 4.8 earthquake at 07:44 on July 9 (Beijing time) in Gaoxian County, Yibin, Sichuan. Epicenter 28.51°N, 104.68°E; focal depth 6 km."
-    },
-    {
-      "id": "4977797",
-      "time": "2026-07-09 08:28:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【商務部等9部門：支援品牌商構建合理價格體系，透過完善定價策略縮小線上線下價差】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，加強價格治理。支援品牌商構建合理價格體系，透過完善定價策略縮小線上線下價差。落實《網際網路平臺價格行為規則》《網路交易平臺規則監督管理辦法》，引導平臺經營者自覺規範價格和補貼行為。重點整治虛假宣傳、虛假促銷、虛假打折和不公平定價行為。推動落實明碼標價，公示促銷活動規則、期限、適用範圍，禁止平臺經營者強制或變相強制商戶承擔補貼、參與促銷活動，向商戶轉嫁促銷成本，以及“0元購”等行為。"
-    },
-    {
-      "id": "4977796",
-      "time": "2026-07-09 08:27:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商務部等9部門：推廣“人工智慧+”，拓展智慧導購、低空配送、無人售貨等場景】商務部等9部門印發關於加快零售業創新發展的意見。其中提到，提升數智化能力。支援零售經營主體數字化改造，實現進銷存、物流配送等全鏈條數字化，打通線上線下渠道、商品、服務和資料。鼓勵平臺對中小零售經營主體技術賦能，資源共享。支援第三方科技企業開發面向中小零售經營主體的數字化管理系統，提供綜合解決方案。推廣“人工智慧+”，拓展智慧導購、低空配送、無人售貨等場景。推動消費券發放、結算等環節使用數字人民幣，依託數字人民幣智慧合約實現補貼資金高效週轉、精準直達。"
-    },
-    {
-      "id": "mkt:019f4445-1ca9-7aab-8d01-be65a21a8756",
-      "time": "2026-07-09 08:26:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. officials told Axios the U.S. military struck Iranian infrastructure for the first time since the April 8 ceasefire, targeting two railway bridges."
     }
   ]
 }
