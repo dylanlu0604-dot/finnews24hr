@@ -1,7 +1,86 @@
 {
-  "updated": "2026-07-16 17:52:08",
-  "count": 18839,
+  "updated": "2026-07-16 17:56:07",
+  "count": 18832,
   "items": [
+    {
+      "id": "4992053",
+      "time": "2026-07-16 17:55:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【前紐約聯儲首席經濟學家‌：沃什領導的美聯儲將維持利率不變】前紐約聯儲首席經濟學家‌Hodge表示，在可預見的未來，美聯儲可能會傾向於其“雙重使命”中的價格穩定部分。Hodge表示，沃什領導的美聯儲將維持利率不變，因為他們正在觀察外部價格壓力的影響是否逐漸減弱。"
+    },
+    {
+      "id": "4992052",
+      "time": "2026-07-16 17:54:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部：將根據國內外氦氣供需變化適時調整出口管理】商務部新聞發言人何亞東16日在例行新聞釋出會上介紹，中國是氦氣主要進口國，為保障國內供應，商務部、海關總署聯合釋出公告，決定對氦氣實施臨時禁止出口管理。“該舉措符合《中華人民共和國對外貿易法》有關規定和世貿組織規則。後續，我們將根據國內外氦氣供需變化，適時調整出口管理政策。”何亞東說。（新華社）"
+    },
+    {
+      "id": "mkt:019f6a59-b36c-7aab-8dc5-047e9831aa7b",
+      "time": "2026-07-16 17:54:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Financial Times reports Chinese AI startup Moonshot AI plans to release Kimi K3 within days; the model is reported to have 2–3 trillion parameters, which would make it China's largest AI model to date."
+    },
+    {
+      "id": "mkt:019f6a59-45fe-7aab-8dc4-fe28f8efc0f5",
+      "time": "2026-07-16 17:54:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Financial Times reports Chinese AI startup Moonshot AI will launch a new model to challenge Anthropic's market leadership."
+    },
+    {
+      "id": "4992051",
+      "time": "2026-07-16 17:53:22",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【湯臣倍健：1.3億元投資底層標的公司為杭州深度求索】湯臣倍健公告稱，公司此前用1.3億元自有資金投資礪思星靈，近日收到其《投資完成通知書》，底層標的公司為杭州深度求索人工智慧基礎技術研究有限公司，註冊資本1644.75萬元。穿透後公司間接持有標的公司股權比例為0.04%。標的公司與公司無關聯關係。該投資存在收益不及預期等風險，公司會控制金額、強化投後跟蹤評估，並及時披露進展。"
+    },
+    {
+      "id": "mkt:019f6a57-a3a6-7aab-8dc4-f09129cb42f4",
+      "time": "2026-07-16 17:52:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department approved a weapons sale to Saudi Arabia and a support package for Kuwait, citing U.S. national security and the security of Gulf allies; combined value about $2.5 bln."
+    },
+    {
+      "id": "4992050",
+      "time": "2026-07-16 17:52:33",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國國務院以維護本國及波斯灣地區盟友安全為由，批准向沙烏地阿拉伯出售一批武器，並出臺針對科威特的配套支援方案，兩項交易總價值約 25 億美元。"
+    },
+    {
+      "id": "4992049",
+      "time": "2026-07-16 17:51:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "SAAB：訂單價值約為87億瑞典克朗，薩博對蒂森克虜伯海事系統公司的交付將在2029年至2032年間進行。"
+    },
+    {
+      "id": "4992048",
+      "time": "2026-07-16 17:51:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市商務局關於公開徵集“2026深圳直播電商月”促消費活動的通知】為深入貫徹落實市委市政府關於擴內需促消費工作部署，加快推進深圳國際消費中心城市建設，進一步釋放直播電商消費潛力、培育壯大直播電商新業態，我局擬於2026年9月至10月期間舉辦“2026深圳直播電商月”促消費活動。為統籌活動安排、形成全市聯動效應，現面向全市公開徵集直播活動，作為本次“直播電商月”分會場活動。（深圳市商務局）"
+    },
     {
       "id": "4992047",
       "time": "2026-07-16 17:51:01",
@@ -10,6 +89,14 @@
         "市場"
       ],
       "text": "【若羽臣：股票交易異常波動 不存在應披露未披露事項】若羽臣公告稱，公司股票於2026年7月14日至16日連續三個交易日內收盤價格漲幅偏離值累計超20%，屬異常波動情形。經核查，公司前期披露資訊無需更正補充，未發現影響股價的未公開重大資訊，經營及內外部環境未變，控股股東及實控人無應披露未披露重大事項，異常波動期間也無買賣公司股票情形。公司提醒投資者注意交易風險，理性投資。"
+    },
+    {
+      "id": "4992046",
+      "time": "2026-07-16 17:50:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧興城一橡皮艇發生閃爆 致7人死亡1人失聯】7月15日14時08分許，遼寧興城市一載有13人橡皮艇在磨盤山島附近海域發生閃爆，造成人員傷亡。事故發生後，海事、衛健、公安、應急等部門全力開展失聯人員搜救、傷員救治、善後處置等工作。目前，事故共造成7人死亡，1人失聯；5名受傷人員送醫救治，其中2人傷勢較重，正在全力救治，生命體徵暫時平穩。經初步調查，該橡皮艇搭載人員為覺華島到鄰近磨盤山島趕海撿拾海螺（兩島相距0.8海里）的居民。在返程時，疑似發動機燃油洩漏，再次打火時發生閃爆。具體原因正在進一步調查中。（央視新聞）"
     },
     {
       "id": "mkt:019f6a55-fa08-7aab-8dc4-e9fd3b807f97",
@@ -172958,161 +173045,6 @@
         "公司"
       ],
       "text": "【盛航股份：控股股東萬達控股擬增持不低於6600萬元】盛航股份公告，控股股東萬達控股集團計劃自本公告披露之日起6個月內，以自有資金及股份增持專項貸款資金，透過深圳證券交易所交易系統以集中競價的方式增持公司股份，擬增持股份數量不超過610萬股，增持總金額不低於人民幣6600萬元（含），不超過人民幣9600萬元（含）。中信銀行股份有限公司東營分行同意提供最高不超過人民幣6000萬元增持貸款。"
-    },
-    {
-      "id": "mkt:019f464e-2f6c-7aab-8d12-7e28bf7eab70",
-      "time": "2026-07-09 17:55:56",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "UK minister for the Middle East said ensuring freedom of navigation through the Strait of Hormuz, free from any threats, is now the government's top priority."
-    },
-    {
-      "id": "4978800",
-      "time": "2026-07-09 17:55:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【通源環境：股票連續30日跌幅偏離值累計達70% 屬異常波動】通源環境公告稱，公司股票交易連續30個交易日內日收盤價格跌幅偏離值累計達70%，屬於異常波動。經自查，公司目前生產經營正常，市場環境、行業政策未重大調整，公司及控股股東、實控人均無應披露未披露重大事項，未發現影響股價的媒體報道、傳聞及其他重大事件，相關人員在此期間無買賣公司股票情況。提醒投資者理性投資，注意風險。"
-    },
-    {
-      "id": "mkt:019f464d-e132-7aab-8d12-73f5629c3f44",
-      "time": "2026-07-09 17:55:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "European Commission President Von der Leyen said the EU has launched a new sanctions mechanism targeting human smugglers and traffickers."
-    },
-    {
-      "id": "4978799",
-      "time": "2026-07-09 17:54:40",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【山東墨龍：股票交易異常波動 市盈率顯著高於行業水平】山東墨龍公告稱，公司股票在2026年7月8日、7月9日連續兩個交易日收盤價漲幅偏離值累計超20%，屬異常波動。經自查，公司生產經營正常，內外部環境未變，無應披露未披露重大資訊。2026年半年度財務資料正核算，若達規定情形將披露業績預告。截至7月8日，公司最新靜態市盈率1078.63，顯著高於行業的51.15，提醒投資者理性投資、注意風險。"
-    },
-    {
-      "id": "4978798",
-      "time": "2026-07-09 17:54:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟與莫德納簽訂合同，採購至多2400萬劑呼吸道合胞病毒疫苗。"
-    },
-    {
-      "id": "mkt:019f464c-77c6-7aab-8d12-6c733e5b8e73",
-      "time": "2026-07-09 17:54:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Shenzhen municipal party committee meets to accelerate industrial investment projects】On July 8 the Shenzhen municipal party committee reviewed 1H citywide industrial investment and ordered accelerated advancement of key projects. The committee urged prioritizing the real economy and manufacturing to stabilize industrial-investment growth and lay a foundation for the 15th Five-Year Plan and longer-term development. It called on authorities to seize the window from rapid AI and other frontier-technology iteration and faster market/demand formation by intensifying industry research, project planning and investment in core and frontier areas to forge new high-quality growth drivers. The city also directed exploration of innovative investment models, fuller use of financial tools, leveraging state capital and SOEs as resource-integration hubs, and measures to attract social/private capital into major projects to speed cultivation of new productive capacity."
-    },
-    {
-      "id": "4978797",
-      "time": "2026-07-09 17:53:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會與莫德納簽署疫苗聯合採購協議。"
-    },
-    {
-      "id": "4978796",
-      "time": "2026-07-09 17:53:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大族鐳射：預計2026年上半年淨利潤同比增長156.07%~176.55%】大族鐳射公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為12.5億元~13.5億元，比上年同期增長156.07%~176.55%；扣除非經常性損益後的淨利潤為13.5億元~14.5億元，比上年同期上升417.12%~455.42%。"
-    },
-    {
-      "id": "4978795",
-      "time": "2026-07-09 17:53:35",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【西部礦業：預計2026年半年度淨利潤同比增加114%到130%】西部礦業公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤40億元到43億元，與上年同期相比，將增加21.31億元到24.31億元，同比增加114%到130%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤40.4億元到43.4億元，與上年同期相比，將增加22.06億元到25.06億元，同比增加120%到137%。本報告期內，有色金屬市場價格持續向好，銅類、金銀類產品價格較上年同期上漲，本期業績同比上升。"
-    },
-    {
-      "id": "mkt:019f464b-cbce-7aab-8d12-67f8f1f238a1",
-      "time": "2026-07-09 17:53:20",
-      "tags": [
-        "MKT News",
-        "NFLX.O",
-        "Impact bearish"
-      ],
-      "text": "Citigroup cuts Netflix (NFLX.O) PT to $100 from $115."
-    },
-    {
-      "id": "mkt:019f464b-aba6-7aab-8d12-5c2d9653fd7b",
-      "time": "2026-07-09 17:53:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "UK minister for the Middle East said Iran's attack on UK partners in the Gulf is a serious escalation and a blatant violation of international law."
-    },
-    {
-      "id": "4978794",
-      "time": "2026-07-09 17:52:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博隆技術：預計2026年上半年淨利潤同比下降56.69%到63.70%】博隆技術公告，預計2026年上半年淨利潤為8800萬元到1.05億元，同比減少56.69%到63.70%。預計2026年上半年扣除非經常性損益的淨利潤為8200萬元到9900萬元，同比減少57.59%到64.87%。2025年上半年公司淨利潤為2.42億元。營業收入下降20%左右，中小型專案毛利率較低且佔比增加，歐元存款出現匯兌損失是業績預減的主要原因。"
-    },
-    {
-      "id": "4978793",
-      "time": "2026-07-09 17:52:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛洋科技：控股子公司FTA公司擬以419萬英鎊收購Triax UK Limited 100%股權】盛洋科技公告，控股子公司FTA Communication Technologies S.àr.l.擬以現金支付方式收購Triax UK Limited 100%股權，交易金額為419萬英鎊，按2026年7月9日英鎊兌人民幣匯率中間價測算，交易金額為人民幣3817.01萬元。交易完成後，Triax公司將成為公司控股子公司，並納入公司合併報表範圍。本次交易已獲公司第六屆董事會第二次會議審議透過，不構成關聯交易和重大資產重組。"
-    },
-    {
-      "id": "4978792",
-      "time": "2026-07-09 17:52:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮盛石化：2026年員工持股計劃1.53%股份完成非交易過戶】榮盛石化公告稱，公司2026年員工持股計劃籌集資金不超17億元，擬受讓回購股份不超153,015,301股，佔總股本1.53%。實際參與認購員工1404人，認購資金17億元。2026年7月7日，153,015,301股已非交易過戶至員工持股計劃證券賬戶，過戶價格11.11元/股。該計劃存續期36個月，鎖定期12個月。"
-    },
-    {
-      "id": "4978791",
-      "time": "2026-07-09 17:52:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三維通訊：2026年上半年淨利潤同比增長1428.58%-2001.80%】三維通訊公告稱，2026年上半年歸屬於上市公司股東的淨利潤為4000萬元-5500萬元，同比增長1428.58% - 2001.80%；扣除非經常性損益後的淨利潤為3500萬元-5270萬元，上年同期虧損527.96萬元，同比增長762.93% - 1094.39%。業績變動因網際網路業務收入增長，同時匯率波動使相關損失增加，拉低利潤。"
-    },
-    {
-      "id": "4978790",
-      "time": "2026-07-09 17:52:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國軒高科：2025年年度權益分派將派現1.81億元】國軒高科公告稱，2025年年度權益分派方案為以2026年7月15日登記的總股本扣除回購股份後的18.13億股為基數，每10股派現金紅利1元（含稅），實際現金分紅總金額為1.81億元。股權登記日為7月15日，除權除息日為7月16日。GDR投資者除權除息日為7月14日，現金紅利發放日為7月23日。"
-    },
-    {
-      "id": "4978789",
-      "time": "2026-07-09 17:52:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "伯恩斯坦將喜力控股（HEINEKEN NV，程式碼<HEIN.AS>） 目標股價從120歐元上調至126歐元。"
     }
   ]
 }
