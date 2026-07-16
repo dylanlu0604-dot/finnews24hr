@@ -1,7 +1,63 @@
 {
   "date": "2026-07-17",
-  "count": 147,
+  "count": 153,
   "items": [
+    {
+      "id": "4992814",
+      "time": "2026-07-17 01:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書：特朗普認為被控參與下注的提詞器操作員“可恥”。"
+    },
+    {
+      "id": "4992813",
+      "time": "2026-07-17 01:38:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "標準核公司股票在紐交所上市首日開盤價為13.5美元，低於15美元的首次公開募股發行價。"
+    },
+    {
+      "id": "4992812",
+      "time": "2026-07-17 01:36:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮新聞秘書：“希望”哥倫比亞廣播公司今晚將播出特朗普的演講。"
+    },
+    {
+      "id": "te:markets:567631",
+      "time": "2026-07-17 01:35:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Advanced Micro Devices Stock Price Hits 4-week Low — Advanced Micro Devices shares decreased to 495.35 USD, the lowest since June 2026. Over the past 4 weeks, Advanced Micro Devices lost 3.14%, and in the last 12 months, it increased 209.46%."
+    },
+    {
+      "id": "mkt:019f6bff-6218-7aab-8dce-a67880945f3d",
+      "time": "2026-07-17 01:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says teleprompter staff have been suspended and placed on unpaid administrative leave."
+    },
+    {
+      "id": "mkt:019f6bff-41a1-7aab-8dce-9b0950eb4b3e",
+      "time": "2026-07-17 01:35:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's foreign minister VIEIRA said U.S. tariffs lack any logical basis."
+    },
     {
       "id": "4992811",
       "time": "2026-07-17 01:34:54",

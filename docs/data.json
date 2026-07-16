@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-17 01:35:41",
-  "count": 18761,
+  "updated": "2026-07-17 01:39:42",
+  "count": 18760,
   "items": [
+    {
+      "id": "4992814",
+      "time": "2026-07-17 01:39:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書：特朗普認為被控參與下注的提詞器操作員“可恥”。"
+    },
+    {
+      "id": "4992813",
+      "time": "2026-07-17 01:38:04",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "標準核公司股票在紐交所上市首日開盤價為13.5美元，低於15美元的首次公開募股發行價。"
+    },
+    {
+      "id": "4992812",
+      "time": "2026-07-17 01:36:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮新聞秘書：“希望”哥倫比亞廣播公司今晚將播出特朗普的演講。"
+    },
+    {
+      "id": "te:markets:567631",
+      "time": "2026-07-17 01:35:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Advanced Micro Devices Stock Price Hits 4-week Low — Advanced Micro Devices shares decreased to 495.35 USD, the lowest since June 2026. Over the past 4 weeks, Advanced Micro Devices lost 3.14%, and in the last 12 months, it increased 209.46%."
+    },
+    {
+      "id": "mkt:019f6bff-6218-7aab-8dce-a67880945f3d",
+      "time": "2026-07-17 01:35:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says teleprompter staff have been suspended and placed on unpaid administrative leave."
+    },
+    {
+      "id": "mkt:019f6bff-41a1-7aab-8dce-9b0950eb4b3e",
+      "time": "2026-07-17 01:35:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's foreign minister VIEIRA said U.S. tariffs lack any logical basis."
+    },
     {
       "id": "4992811",
       "time": "2026-07-17 01:34:54",
@@ -172430,62 +172486,6 @@
         "MKT News"
       ],
       "text": "Zelenskiy says allies will discuss cooperation on anti-ballistic missile defenses at an upcoming conference in France."
-    },
-    {
-      "id": "4979620",
-      "time": "2026-07-10 01:39:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 各盟國將於近期在法國召開會議，商討反導相關部署事宜。"
-    },
-    {
-      "id": "mkt:019f47f5-6574-7aab-8d1f-3796ed632fb1",
-      "time": "2026-07-10 01:38:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said a U.S. Air Force F-16 fighter jet is taking off from a base in the Middle East."
-    },
-    {
-      "id": "mkt:019f47f4-8907-7aab-8d1f-2a9aef7f4959",
-      "time": "2026-07-10 01:37:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy said the United States is receiving Ukrainian drones, including naval drones, for testing."
-    },
-    {
-      "id": "4979619",
-      "time": "2026-07-10 01:36:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內跌3%，現報75.66美元/桶。"
-    },
-    {
-      "id": "4979618",
-      "time": "2026-07-10 01:36:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國負責以黎事務官員：更多試點區域正在規劃劃定中。"
-    },
-    {
-      "id": "mkt:019f47f3-5d0e-7aab-8d1f-24815a356dfd",
-      "time": "2026-07-10 01:35:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. official said the Israel-Lebanon area is mapping and planning additional pilot zones."
-    },
-    {
-      "id": "4979617",
-      "time": "2026-07-10 01:35:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基： 預計將在法國舉行反導系統相關會談。"
     }
   ]
 }
