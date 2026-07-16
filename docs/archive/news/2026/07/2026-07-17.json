@@ -1,7 +1,35 @@
 {
   "date": "2026-07-17",
-  "count": 255,
+  "count": 258,
   "items": [
+    {
+      "id": "mkt:019f6c3a-e7a5-7aab-8dcf-ddcc20e0f187",
+      "time": "2026-07-17 02:40:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reports U.S. President Trump will visit an Atlanta-area high school on July 22 to promote a new 'Trump Account' investment plan."
+    },
+    {
+      "id": "mkt:019f6c37-e03e-7aab-8dcf-d52154c9a15e",
+      "time": "2026-07-17 02:37:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Three explosions heard west of Bandar Abbas port】Three explosions were heard west of Iran's Bandar Abbas port on the 16th (local time)."
+    },
+    {
+      "id": "4992877",
+      "time": "2026-07-17 02:37:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美軍發動新一輪空襲 連續第五晚打擊伊朗】當地時間7月16日，美軍中央司令部宣佈，美軍於美東時間下午2時開始對伊朗發動新一輪空襲，這是美軍連續第五個夜晚對伊朗實施打擊。（央視新聞）"
+    },
     {
       "id": "4992876",
       "time": "2026-07-17 02:35:10",
