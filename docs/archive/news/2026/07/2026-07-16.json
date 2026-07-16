@@ -1,7 +1,51 @@
 {
   "date": "2026-07-16",
-  "count": 3240,
+  "count": 3245,
   "items": [
+    {
+      "id": "te:markets:567613",
+      "time": "2026-07-16 23:43:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Hovers Near October Levels — Palladium hovered near $1,260 an ounce, remaining slightly above its October lows, as traders assessed the metal's supply and demand outlook amid renewed escalation in Middle East tensions, which pushed oil prices higher and heightened market uncertainty. On the supply side, Sibanye-Stillwater announced plans to advance seven platinum group metals mining projects in South Africa, with the first phase ahead of schedule and production expected to begin in March next year. However, current mine output in South Africa remains constrained, as elevated energy costs continue to pressure producers' margins and are set to rise further with higher winter electricity tariffs. On the demand side, resilient sales of hybrid vehicles continue to support palladium consumption, although battery electric vehicle registration continues to rise."
+    },
+    {
+      "id": "4992714",
+      "time": "2026-07-16 23:42:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "閃迪跌幅擴大至10.07%，總市值報2151億美元。"
+    },
+    {
+      "id": "4992713",
+      "time": "2026-07-16 23:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：國際貨幣基金組織與葉門就可能支撐SMP的政策達成協議。"
+    },
+    {
+      "id": "4992712",
+      "time": "2026-07-16 23:41:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "德國DAX30指數7月16日（週四）收盤下跌109.82點，跌幅0.44%，報24908.99點；英國富時100指數7月16日（週四）收盤上漲54.63點，漲幅0.52%，報10570.55點；法國CAC40指數7月16日（週四）收盤下跌4.57點，跌幅0.05%，報8377.86點；歐洲斯托克50指數7月16日（週四）收盤上漲15.98點，漲幅0.26%，報6281.56點；西班牙IBEX35指數7月16日（週四）收盤上漲15.07點，漲幅0.08%，報19290.57點；義大利富時MIB指數7月16日（週四）收盤下跌71.75點，跌幅0.14%，報52339.50點。"
+    },
+    {
+      "id": "4992711",
+      "time": "2026-07-16 23:40:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "GameStop執行長：GameStop 會員將受益於 eBay 交易中的成本節省。很多投資者對eBay交易感興趣。eBay高管“根深蒂固，躲在顧問背後”。"
+    },
     {
       "id": "mkt:019f6b95-0830-7aab-8dcc-ba5691c5a631",
       "time": "2026-07-16 23:39:16",

@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-16 23:40:38",
-  "count": 18739,
+  "updated": "2026-07-16 23:44:38",
+  "count": 18736,
   "items": [
+    {
+      "id": "te:markets:567613",
+      "time": "2026-07-16 23:43:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Hovers Near October Levels — Palladium hovered near $1,260 an ounce, remaining slightly above its October lows, as traders assessed the metal's supply and demand outlook amid renewed escalation in Middle East tensions, which pushed oil prices higher and heightened market uncertainty. On the supply side, Sibanye-Stillwater announced plans to advance seven platinum group metals mining projects in South Africa, with the first phase ahead of schedule and production expected to begin in March next year. However, current mine output in South Africa remains constrained, as elevated energy costs continue to pressure producers' margins and are set to rise further with higher winter electricity tariffs. On the demand side, resilient sales of hybrid vehicles continue to support palladium consumption, although battery electric vehicle registration continues to rise."
+    },
+    {
+      "id": "4992714",
+      "time": "2026-07-16 23:42:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "閃迪跌幅擴大至10.07%，總市值報2151億美元。"
+    },
+    {
+      "id": "4992713",
+      "time": "2026-07-16 23:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：國際貨幣基金組織與葉門就可能支撐SMP的政策達成協議。"
+    },
+    {
+      "id": "4992712",
+      "time": "2026-07-16 23:41:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "德國DAX30指數7月16日（週四）收盤下跌109.82點，跌幅0.44%，報24908.99點；英國富時100指數7月16日（週四）收盤上漲54.63點，漲幅0.52%，報10570.55點；法國CAC40指數7月16日（週四）收盤下跌4.57點，跌幅0.05%，報8377.86點；歐洲斯托克50指數7月16日（週四）收盤上漲15.98點，漲幅0.26%，報6281.56點；西班牙IBEX35指數7月16日（週四）收盤上漲15.07點，漲幅0.08%，報19290.57點；義大利富時MIB指數7月16日（週四）收盤下跌71.75點，跌幅0.14%，報52339.50點。"
+    },
+    {
+      "id": "4992711",
+      "time": "2026-07-16 23:40:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "GameStop執行長：GameStop 會員將受益於 eBay 交易中的成本節省。很多投資者對eBay交易感興趣。eBay高管“根深蒂固，躲在顧問背後”。"
+    },
     {
       "id": "mkt:019f6b95-0830-7aab-8dcc-ba5691c5a631",
       "time": "2026-07-16 23:39:16",
@@ -172211,85 +172255,6 @@
         "Importance 1"
       ],
       "text": "Heating Oil Eases from 1-Month High — US heating oil futures fell more than 2.5% to $3.56 per gallon on Thursday after surging over 10% in the previous session to the highest level in more than a month, as traders judged that the latest US strikes on Iran were unlikely to trigger a broader conflict. While security conditions in the Strait of Hormuz have worsened and tanker traffic has slowed, markets are not pricing in a full closure of the vital shipping route. Investors instead expect energy flows through the Persian Gulf to continue recovering despite renewed hostilities. Elsewhere, Russia, a major diesel producer, announced it would suspend exports and become a net importer after higher crude prices and repeated Ukrainian attacks disrupted operations at key refineries. Heating oil prices remain well above pre-conflict levels despite retreating from the record high reached in late March, reflecting persistent concerns over global fuel supplies and refinery output."
-    },
-    {
-      "id": "4979543",
-      "time": "2026-07-09 23:44:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗方面訊息：巴勒斯坦伊斯蘭抵抗運動（哈馬斯）發言人哈齊姆・卡西姆躲過以色列的暗殺圖謀。"
-    },
-    {
-      "id": "mkt:019f478d-4aa7-7aab-8d1d-5fc61bb0e59c",
-      "time": "2026-07-09 23:44:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said on Iran that the U.S. has already won, especially militarily."
-    },
-    {
-      "id": "4979542",
-      "time": "2026-07-09 23:43:43",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油失守72美元/桶，日內跌2.11%。"
-    },
-    {
-      "id": "4979541",
-      "time": "2026-07-09 23:43:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌2%，現報72.04美元/桶。"
-    },
-    {
-      "id": "4979540",
-      "time": "2026-07-09 23:43:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以防長：以軍已準備好恢復對伊軍事行動】當地時間9日，以色列國防部長卡茨表示，以色列軍方目前保持高度戒備，已做好恢復對伊朗軍事行動的準備。當天，卡茨在出席一場飛行員畢業典禮時說，以軍已做好準備“重新奪取空中優勢，並對伊朗實施打擊，以清除安全威脅——哪怕是第三次（採取行動）”。（央視新聞）"
-    },
-    {
-      "id": "4979539",
-      "time": "2026-07-09 23:41:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：近幾周，空軍數百架戰機時刻保持即刻起飛待命狀態。即便此刻，我們仍在密切監控伊朗與黎巴嫩局勢，隨時準備即刻採取行動。任何企圖傷害我方的勢力，我們都將予以強力回擊。"
-    },
-    {
-      "id": "mkt:019f4789-e2a8-7aab-8d1d-57d1b81b8151",
-      "time": "2026-07-09 23:40:46",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israel Defense Forces said it is closely monitoring developments in Iran and Lebanon and is prepared to act immediately, warning it will respond forcefully to any attempt to harm Israel."
-    },
-    {
-      "id": "mkt:019f4789-c22a-7aab-8d1d-4baa00116091",
-      "time": "2026-07-09 23:40:38",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli Defense Forces says hundreds of air force aircraft are on immediate standby for takeoff."
     }
   ]
 }
