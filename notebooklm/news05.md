@@ -1,7 +1,223 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-17 05:10:00_
-_本檔包含 3396 則快訊，約 714725 字_
+_更新時間：2026-07-17 06:14:22_
+_本檔包含 3393 則快訊，約 715070 字_
+
+---
+
+### 2026-07-12 00:29:16  #國際
+
+克里姆林宮發言人明確否認莫斯科有意發動第三次世界大戰，同時警告，西方大規模向烏克蘭提供軍事援助加劇了這場危機。
+
+---
+
+### 2026-07-12 00:27:26  #MKT News
+
+US President Trump said he completed a perfect physical at Walter Reed Hospital, undergoes a physical every six months, requested an additional cognitive test—he said he is the only president to do so—and passed three cognitive tests, answering every question correctly.
+
+---
+
+### 2026-07-12 00:26:51  #國際
+
+一位伊朗高階情報人士表示，美國正在對伊朗發動一場協調的壓力、威脅和媒體虛假資訊運動。
+
+---
+
+### 2026-07-12 00:26:00  #MKT News
+
+【US, Lebanon discuss forming security-management committee to push Israel withdrawal from 'pilot zones'】Al Arabiya, citing sources, reported a US delegation is in Lebanon discussing creation of a committee to handle security and administrative matters and to implement a plan for Israel to withdraw from 'pilot zones'. Lebanon had said it would only join mediation in Rome if Israel withdrew from two trial areas; it has agreed to attend the Rome meeting on the condition the committee is established.
+
+---
+
+### 2026-07-12 00:24:36  #國際
+
+特朗普：我要求再做一次認知測試。
+
+---
+
+### 2026-07-12 00:24:28  #國際
+
+特朗普：我剛剛在沃爾特·裡德國家軍事醫療中心完成了一次完全合格的體檢。
+
+---
+
+### 2026-07-12 00:20:48  #MKT News
+
+Press TV quoted a senior Iranian intelligence source saying the U.S. is conducting a coordinated campaign of pressure, threats and media disinformation against Iran.
+
+---
+
+### 2026-07-12 00:17:38  #國際
+
+【伊朗、阿曼商討霍爾木茲海峽通航“相關機制”】伊朗外交部發布宣告稱，伊朗與阿曼外長於馬斯喀特舉行會晤，依據《伊斯蘭堡諒解備忘錄》第五條，就保障船舶安全通行霍爾木茲海峽的適宜機制交換了意見。
+
+---
+
+### 2026-07-12 00:17:00  #MKT News
+
+【Iran, Oman foreign ministers meet in Muscat to discuss Strait of Hormuz】Iran's foreign minister led a political and legal delegation to Muscat and met Omani foreign minister Sayyid Badr Albusaidi. The two discussed bilateral ties and regional developments, with a focus on the Strait of Hormuz, and exchanged views on using mechanisms under Article 5 of the Islamabad memorandum to ensure safe passage of vessels through the strait.
+
+---
+
+### 2026-07-12 00:16:49  #國際
+
+伊朗外長表示，伊朗與阿曼兩國外長已就根據伊斯蘭堡諒解備忘錄第五條，建立霍爾木茲海峽船舶安全通行“適當機制”交換了意見。
+
+---
+
+### 2026-07-12 00:16:38  #國際
+
+伊朗和阿曼外長就霍爾木茲海峽問題舉行會談。
+
+---
+
+### 2026-07-12 00:13:39  #MKT News
+
+According to AFP, a Lebanese military official said a US military delegation met with the Lebanese army in Beirut to discuss implementing Israel's withdrawal from a "pilot zone" in Israeli-occupied territory.
+
+---
+
+### 2026-07-12 00:08:40  #MKT News #Market Regions #Greater China
+
+【Typhoon Bavi makes second landfall on Qingjiang coast in Yueqing, Wenzhou, Zhejiang】Typhoon Bavi, the year’s ninth, made a second landfall around 00:00 on the 12th on the coast at Qingjiang town, Yueqing city, Wenzhou, Zhejiang province. Maximum winds near the center reached force 13 (38 m/s); central minimum pressure was 960 hPa.
+
+---
+
+### 2026-07-12 00:05:57  #其他 #焦點
+
+颱風“巴威”於12日0時前後，在浙江省溫州市樂清市清江鎮沿海二次登陸，登陸時中心附近最大風力13級（38米/秒），中心最低氣壓960百帕。 （中央氣象臺）
+
+---
+
+### 2026-07-12 00:05:44  #其他
+
+【颱風“巴威”登陸浙江，上海已組織轉移29.97萬人】據上海市氣象臺訊息，今年第9號颱風“巴威”（颱風級）的中心已於7月11日23點20分在浙江玉環沿海登陸，登陸時中心附近最大風力有13級（40米/秒），中心最低氣壓為955百帕。記者從上海市防汛指揮部獲悉，截至11日21時，全市共組織轉移 29.97 萬人，全市共啟用 905 處防汛避災安置場所。
+
+---
+
+### 2026-07-12 00:03:14  #其他
+
+【“張雪機車”獲WSBK多寧頓公園站首回合第八名】11日在2026世界超級摩托車錦標賽（WSBK）英國多寧頓公園站WorldSSP組別首回合正賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯取得第八名。凱旋車隊的英國車手布思-阿莫斯奪得冠軍。（新華社）
+
+---
+
+### 2026-07-12 00:02:41  #其他
+
+【高溫乾旱加劇火情 義大利多地林火持續】受持續高溫、乾旱及大風天氣影響，義大利北部皮埃蒙特大區以及西西里島、撒丁島等地森林火災仍在持續。相關部門已投入消防飛機、直升機及地面救援力量展開撲救。當地時間7月11日，皮埃蒙特大區釋出宣告稱，此輪森林火災已造成都靈、韋爾切利、諾瓦拉和韋巴諾-庫西奧-奧索拉等省約800至900公頃森林過火，約70萬棵樹木被毀，演變成一場“生態災難”。宣告表示，受損地區草本植物和灌木恢復預計需要2至5年，而森林生態系統恢復則可能需要50至70年。皮埃蒙特大區初步調查認為，此輪火災多由雷擊引發，在高溫、乾旱和強風作用下迅速蔓延。（央視新聞）
+
+---
+
+### 2026-07-12 00:01:14  #其他
+
+據貓眼專業版資料，電影 《小黃人與大怪獸》 上映10天， 總票房破2億。
+
+---
+
+### 2026-07-11 23:59:30  #國際
+
+美國空軍方面表示，軍方在一項晉升必考科目閱卷評分出現差錯後，135 名原本被告知獲得晉升資格的空軍人員將無法兌現此次晉升。
+
+---
+
+### 2026-07-11 23:45:33  #國際
+
+市場資訊：伊朗正試圖與阿曼就霍爾木茲海峽達成協議。
+
+---
+
+### 2026-07-11 23:42:15  #其他
+
+【應急管理部對河北啟動國家地質災害三級應急響應】記者從應急管理部獲悉，應急管理部11日將針對河北的國家地質災害四級應急響應提升至三級，針對安徽啟動國家地質災害四級應急響應。據氣象部門預測，受西南季風和颱風“巴威”影響，安徽南部、河北中部和東北部等部分地區大暴雨，局地特大暴雨。經應急管理部與自然資源部會商研判，安徽南部局地發生地質災害風險高，河北東北部發生地質災害風險很高。（新華社）
+
+---
+
+### 2026-07-11 23:39:41  #國際
+
+【伊朗方面公佈被導彈擊中的約旦美軍基地衛星影象】當地時間7月11日，伊朗方面公佈衛星影象，稱是伊朗導彈擊中的約旦美軍基地。伊朗方面訊息稱，衛星影象顯示，位於約旦的穆瓦法克·薩爾提空軍基地在美國多次違反停火後遭到打擊。影象顯示，基地內至少有兩處設施遭導彈擊中，據稱美軍戰機機庫被毀，但目前尚不清楚機庫內當時存放何種裝備。伊朗方面稱，此前美國和約旦方面均表示，來襲目標已全部被攔截。當地時間9日，美軍部署在約旦穆瓦法克·薩爾提的基地遭目標鎖定。約旦政府在一份宣告中稱，該國軍方已攔截來自伊朗方面的導彈，並將持續為維護國家安全做好準備。約旦軍方稱，攔截了8枚來自伊朗的導彈。（央視新聞）
+
+---
+
+### 2026-07-11 23:31:39  #其他 #焦點
+
+【颱風“巴威”在浙江台州玉環登陸】今年第9號颱風“巴威”(颱風級)的中心已於11日23時20分前後在臺州玉環登陸，登陸時中心附近最大風力13級(40米/秒)，中心最低氣壓為955百帕。（央視新聞）
+
+---
+
+### 2026-07-11 23:31:01  #國際
+
+以色列警方稱，四名以色列定居者因涉嫌襲擊美國有線電視新聞網（CNN）採訪團隊被逮捕。
+
+---
+
+### 2026-07-11 23:27:06  #其他
+
+【國內航司計劃取消12日進出港航班超2800架次】大資料顯示，7月11日，上海浦東機場、常州奔牛機場、上海虹橋機場、杭州蕭山機場、寧波櫟社機場、無錫碩放機場等約36個機場釋出了雷雨天氣預報。上海浦東機場、杭州蕭山機場、寧波櫟社機場、上海虹橋機場、北京首都機場當日臨時取消航班量位列國內前五。截至7月11日20:00，今天國內機場的延誤航班數量超1300架次。福州長樂、舟山普陀山、武夷山、梧州西江、安順黃果樹、義烏、寧波櫟社、瓊海博鰲等機場的航班大面積取消；北京首都、北京大興機場大面積延誤，最高延誤比例達96%。截至7月11日20:00，國內各航司計劃取消12日進出港航班超2800架次，建議旅客密切關注天氣狀況和航班動態，靈活調整出行安排。（央視新聞）
+
+---
+
+### 2026-07-11 23:26:09  #國際
+
+卡達外交部：首相強調，所有各方（美伊）有必要堅持外交途徑，執行諒解備忘錄，並確保航行自由。
+
+---
+
+### 2026-07-11 23:25:44  #國際
+
+黎巴嫩軍方訊息人士：軍方領導層與美國軍事代表團會晤，以建立在南部實施首個試點地區的機制。
+
+---
+
+### 2026-07-11 23:25:35  #國際
+
+美國官員：萬斯不會前往安曼，魯比奧、維特科夫和庫什納也不會參與那裡的會談。
+
+---
+
+### 2026-07-11 23:22:11  #其他
+
+【受颱風“巴威”影響 上海部分景區景點暫時關閉】記者從上海文旅部門及多個景區獲悉，受今年第9號颱風“巴威”影響，上海已有數十家景區暫時關閉或調整運營安排。 截至11日下午4時，暫時關閉的50餘家國家A級旅遊景區分佈在上海市崇明區、閔行區、金山區、奉賢區、嘉定區、浦東新區、寶山區、青浦區、松江區等，包括上海市崇明區西沙明珠湖景區、上海東灘溼地公園、金山城市沙灘景區、楓涇古鎮、上海花開海上生態園、上海閔行文化公園、上海國際賽車場旅遊景區、碧海金沙景區、上海佘山國家森林公園東佘山園及西佘山園等。（新華社）
+
+---
+
+### 2026-07-11 23:19:13  #國際
+
+美國官員：如果與伊朗談判失敗，特朗普有（其他）多個選項。
+
+---
+
+### 2026-07-11 23:12:44  #其他
+
+【湖北十堰釋出暴雨紅色預警】湖北十堰市氣象臺2026年7月11日20時38分發布暴雨紅色預警訊號：過去2小時，竹溪豐溪界梁村雨量已達60毫米。預計未來3小時，竹溪豐溪及周邊鄉鎮區域性累計雨量將達100毫米以上，山區山洪、地質災害、中小河流洪水、城鄉積澇風險極高，請注意防範。（央視新聞）
+
+---
+
+### 2026-07-11 23:00:53  #MKT News #Market Regions #Greater China
+
+【Chinese airports to cancel over 1,000 flights on July 12】As of 20:00 on July 11, Hanglv Zongheng, the civil aviation authority's official direct‑sales platform, showed Chinese airports and carriers had planned to cancel more than 1,000 inbound and outbound flights scheduled for July 12. On July 11 domestic delays exceeded 1,300 flights. Shanghai Pudong, Hangzhou Xiaoshan, Ningbo Lishe, Shanghai Hongqiao and Beijing Capital airports recorded the highest temporary cancellation counts that day.
+
+---
+
+### 2026-07-11 22:50:26  #其他
+
+【國家防總對京津遼皖贛啟動防汛三級應急響應】據氣象部門預報，受今年第9號颱風“巴威”及其輸送水氣影響，未來三天，北京、天津、安徽、江西、遼寧、黑龍江有大暴雨，局地特大暴雨，部分地區有短時強降雨，山洪和地質災害、中小河流洪水以及城市內澇等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月11日20時將針對北京、天津、遼寧、安徽、江西的國家防總防汛四級應急響應提升至三級，啟動針對黑龍江的防汛四級應急響應，派出國家防總辦公室工作組赴北京協助指導防汛工作。（新華社）
+
+---
+
+### 2026-07-11 22:50:18  #MKT News #Market Regions #Greater China
+
+【National Flood Control and Drought Relief Headquarters raises emergency response, dispatches team to Beijing】Forecasts show Typhoon Bawei and its moisture will produce heavy to locally extreme rain over the next three days across Beijing, Tianjin, Anhui, Jiangxi, Liaoning and Heilongjiang, with short‑duration torrential downpours and heightened risks of flash floods, geological hazards, small‑/medium‑river floods and urban waterlogging. Under the national flood-control emergency plan, the National Flood Control and Drought Relief Headquarters at 20:00 on July 11 upgraded flood emergency response from level 4 to level 3 for Beijing, Tianjin, Liaoning, Anhui and Jiangxi, and activated a level‑4 response for Heilongjiang. The headquarters has sent an office working group to Beijing to assist and guide flood-control operations. (Ministry of Emergency Management)
+
+---
+
+### 2026-07-11 22:49:36  #其他 #焦點
+
+【國家防總調整啟動應急響應 派出工作組加強指導】據氣象部門預報，受今年第9號颱風“巴威”及其輸送水氣影響，未來三天，北京、天津、安徽、江西、遼寧、黑龍江有大暴雨，局地特大暴雨，部分地區有短時強降雨，山洪和地質災害、中小河流洪水以及城市內澇等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月11日20時將針對北京、天津、遼寧、安徽、江西的國家防總防汛四級應急響應提升至三級，啟動針對黑龍江的防汛四級應急響應，派出國家防總辦公室工作組赴北京協助指導防汛工作。（央視新聞）
+
+---
+
+### 2026-07-11 22:46:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says it will cease to abide by memorandum with US if Washington keeps breaching obligations】Iran's permanent UN envoy Iravani warned on the 11th that if the United States continues to violate its obligations, Iran will no longer abide by the memorandum of understanding with the United States.
 
 ---
 
@@ -20361,239 +20577,5 @@ FX Updates: New Zealand Dollar Rises by 1.05% — Top currency gainers are New Z
 ### 2026-07-10 06:14:25  #其他
 
 市場訊息：日東電工將擴大硬碟電路板產能。
-
----
-
-### 2026-07-10 06:11:15  #MKT News
-
-A document shows Sudan's military has attached broad acceptable conditions to the latest US request that the Rapid Support Forces (RSF) withdraw from all occupied cities.
-
----
-
-### 2026-07-10 06:10:32  #其他
-
-【首批基金二季報披露，主動權益類基金保持高倉位運作】首批基金2026年二季報披露。7月9日，同泰基金率先披露旗下多隻基金二季報。從已披露的季報來看，不僅主動權益類基金保持高倉位運作，“固收+”產品也增加了權益倉位，更加強調進攻性。以同泰數字經濟股票基金為例，截至二季度末，權益投資佔基金資產淨值比為93.63%，基金規模從3.16億元增至8.01億元。此外，同泰行業優選股票基金的股票倉位也維持在高位。今年一季度末，該基金權益投資佔基金資產淨值的比例為90.26%，二季度末則提升至92.2%。（上證報）
-
----
-
-### 2026-07-10 06:09:03  #國際
-
-檔案顯示，蘇丹軍方已對美國提出的要求快速支援部隊撤出所有被佔領城市的最新和平提案，設定了廣泛的可接受條件。
-
----
-
-### 2026-07-10 06:07:47  #MKT News
-
-WBG board approved US$375.9 mln financing for a Pakistan power-grid stability project.
-
----
-
-### 2026-07-10 06:07:20  #市場
-
-WTI原油日內跌1%，現報71.34美元/桶。
-
----
-
-### 2026-07-10 06:06:58  #其他
-
-世界銀行：董事會批准為巴基斯坦電網穩定性提升專案提供3.759億美元融資。
-
----
-
-### 2026-07-10 06:05:45  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為74.9%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為74.9%，累計加息25個基點的機率為25.1%。 美聯儲到9月維持利率不變的機率為35.7%，累計加息25個基點的機率為51.1%，累計加息50個基點的機率為13.1%。
-
----
-
-### 2026-07-10 06:05:38  #其他
-
-SK 海力士預計先進晶片晶圓代工業務 ADS 於 7 月 10 日在納斯達克上市交易。
-
----
-
-### 2026-07-10 06:02:29  #公司
-
-市場訊息：電力開發商Lancium Energy正就出售股權進行談判，該公司是OpenAI星際之門資料中心的幕後推手。
-
----
-
-### 2026-07-10 06:01:25  #市場 #國際
-
-西德克薩斯輕質原油亞太開盤下跌 0.4%，報 71.81 美元，交易商評估伊朗地緣風險。
-
----
-
-### 2026-07-10 06:01:21  #其他
-
-在世界盃四分之一決賽中，法國隊以2-0擊敗摩洛哥隊。
-
----
-
-### 2026-07-10 05:58:04  #MKT News
-
-【Source: Egypt, Hamas discuss implementation of Gaza ceasefire】An anonymous Egyptian security source said on the 9th a Hamas leadership delegation met Egyptian officials in Cairo to discuss implementing the second phase of the Gaza ceasefire. The delegation, made up of senior Hamas officials, confirmed it will transfer Gaza’s administrative authority to the Gaza National Administrative Committee and agreed to hand weapons to that committee for safekeeping. Hamas also said it would facilitate deployment of peacekeeping forces and the committee’s work to pave the way for phase-two implementation.
-
----
-
-### 2026-07-10 05:57:23  #MKT News #XAUUSD #Impact bullish
-
-【BERNSTEIN raises H2 2026 gold target to $4,375/oz】BERNSTEIN raised its 2026 gold forecasts, setting a H2 target of $4,375/oz and a full-year target of $4,533/oz. The firm cites continued central bank net-buying and a low probability of Fed rate hikes over the next 12 months as primary support, and expects at most one to two Fed hikes and limited gold ETF outflows. It noted Q2 2026 real-rate increases drove gold from $4,650/oz to about $4,000/oz, but says stabilizing rate expectations leave upside for prices; persistent higher-than-expected inflation prompting more aggressive Fed tightening would be the main risk to its bullish view.
-
----
-
-### 2026-07-10 05:57:19  #市場 #央行 #國際
-
-【伯恩斯坦看漲下半年黃金 目標價上調至4375美元/盎司】伯恩斯坦上調2026年黃金價格預期，預計下半年金價目標為每盎司4375美元，全年目標價為4533美元。該機構認為，央行持續購金以及美聯儲未來12個月大機率不會加息，將成為支撐金價的主要因素。伯恩斯坦預計，美聯儲最多僅可能加息1至2次，黃金ETF資金流出壓力也將有限。伯恩斯坦指出，2026年二季度實際利率上升曾導致金價從4650美元/盎司回落至約4000美元，但隨著利率預期趨穩，黃金仍具上漲空間。該機構同時警告，若通脹持續高於預期，促使美聯儲採取更激進加息措施，將成為金價上漲的主要風險。
-
----
-
-### 2026-07-10 05:56:25  #國際
-
-【訊息人士：埃及同哈馬斯討論落實加沙停火事宜】埃及安全部門訊息人士9日告訴新華社記者，巴勒斯坦伊斯蘭抵抗運動（哈馬斯）領導層代表團當天在埃及首都開羅同埃方官員舉行會談，重點商討加沙停火協議第二階段落實事宜。這位不願具名的訊息人士說，由哈馬斯高階官員組成的代表團在會談中確認，將把加沙地帶行政管理權移交給加沙國家行政委員會，並同意將武器交由該委員會保管。哈馬斯代表團還表示，願為維和部隊和加沙國家行政委員會開展工作提供便利，為落實加沙停火協議第二階段鋪路。這名訊息人士還透露，加沙停火斡旋方已收到由美國發起的所謂“和平委員會”的一項提議，內容是在加沙地帶南部城市拉法設立一個試點區域。該區域經加沙國家行政委員會安全篩查後，可容納數萬居民。由哈馬斯控制的加沙地帶政府媒體辦公室6日宣佈，解散由哈馬斯在加沙地帶運作的緊急委員會，為將加沙地帶行政管理權移交給加沙國家行政委員會作準備。（新華社）
-
----
-
-### 2026-07-10 05:53:31  #其他
-
-【“古巴社會數字化轉型”專案正式啟動】“古巴社會數字化轉型”專案啟動儀式9日在古巴首都哈瓦那舉行。古巴通訊部長阿雷維奇、聯合國開發計劃署駐古巴副代表博蒂諾、古巴數字政府中心主任岡薩雷斯、中國駐古巴大使華昕等出席活動。據介紹，“古巴社會數字化轉型”專案是由全球發展和南南合作基金資助的三方合作專案，旨在推動古巴電信和數字服務技術基礎設施現代化升級，便利古巴民眾獲取數字化公共服務。（新華社）
-
----
-
-### 2026-07-10 05:50:45  #公司 #市場
-
-CCC INTELLIGENT盤後股價飆升14%，此前有報道稱該公司正在考慮出售。
-
----
-
-### 2026-07-10 05:50:28  #國際
-
-美國官員表示，若該框架落地見效，後續將逐步推廣至更多區域，鞏固邊境穩定、降低衝突風險，並維護地區長期安全。
-
----
-
-### 2026-07-10 05:50:15  #國際
-
-該美國官員補充稱，首個試點區域將於數日內啟用，落地雙方商定的安全與協同管控措施。作為分階段全面推進計劃的一環，其餘試點區域的規劃工作已同步開展。
-
----
-
-### 2026-07-10 05:49:34  #國際
-
-市場訊息：一名美國官員表示，以色列與黎巴嫩框架協議已正式進入落實階段，歷經數月旨在緩和邊境緊張局勢的談判取得重大里程碑進展。
-
----
-
-### 2026-07-10 05:47:02  #市場 #國際
-
-【特朗普重啟對伊朗打擊 共和黨擔憂拖累中期選舉】特朗普稱因伊朗繼續襲擊霍爾木茲海峽船隻，停火已結束。隨後，美軍在48小時內打擊伊朗至少170個軍事目標，伊朗則對美軍基地發動反擊。共和黨部分議員擔心，衝突升級將推高油價、加劇經濟壓力，並影響今年中期選舉。一名眾議院共和黨議員直言：“他正在把我們推向政治毀滅。”該議員認為，特朗普更關注伊朗問題，而非共和黨的選舉處境。共和黨鷹派支援繼續軍事行動。眾議員唐·培根稱，美國應持續強硬回應伊朗，直到其尋求和平。但部分共和黨人士警告，油價上漲可能削弱選民支援，使共和黨難以回應民眾最關心的物價問題。與此同時，國會也要求政府說明670億美元戰爭追加資金的使用計劃。
-
----
-
-### 2026-07-10 05:46:59  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
-
-【Trump resumes strikes on Iran; Republicans warn midterm, oil-price risks】Trump said the ceasefire ended after Iran continued attacks on vessels in the Strait of Hormuz. U.S. forces struck at least 170 Iranian military targets within 48 hours, and Iran launched counterattacks on U.S. bases. Some Republican lawmakers warned escalation could push up oil prices, add economic pressure and damage GOP prospects in this year’s midterms — one House Republican said, "He’s pushing us toward political destruction." Party hawks support continuing military action; Rep. Don Bacon said the U.S. should remain tough until Iran seeks peace. Congress has also requested details on how the administration will use a $67 billion wartime supplemental funding request.
-
----
-
-### 2026-07-10 05:37:23  #觀點
-
-知情人士稱，軟體生產商CCC正與摩根士丹利合作推進出售事宜.
-
----
-
-### 2026-07-10 05:37:07  #國際
-
-【美官員：美伊相關技術談判仍在繼續】總檯記者當地時間9日獲悉，一名美國官員表示，在伊朗問題上美國仍致力於尋求解決方案，相關技術談判仍在繼續。（央視新聞）
-
----
-
-### 2026-07-10 05:35:52  #國際
-
-【以色列向美方通報：伊朗策劃新一輪刺殺特朗普陰謀】知情人士透露，以色列已向美國提供最新情報，稱情報顯示伊朗策劃了新一輪刺殺特朗普總統的行動，此事意味著美伊雙方對抗進一步升級。特朗普首任總統任期內，美方擊殺伊朗伊斯蘭革命衛隊高階將領卡西姆・蘇萊曼尼，多年來伊朗一直公開宣稱要就此報復特朗普。以色列駐華盛頓大使館對此不予置評；伊朗常駐聯合國代表團暫未回應置評請求。白宮讓媒體參考總統週三發表的相關言論。
-
----
-
-### 2026-07-10 05:35:43  #MKT News #XAUUSD #Impact bullish #DXY #US10Y
-
-Wall Street Journal, citing people familiar with the matter, reports Israel has provided the U.S. with new intelligence that Iran may be considering a new plot to assassinate Trump.
-
----
-
-### 2026-07-10 05:34:38  #國際
-
-市場訊息：以色列已向美國分享有關伊朗策劃刺殺特朗普的全新情報。
-
----
-
-### 2026-07-10 05:31:52  #MKT News #Important
-
-NewsNation reported US officials say technical-level talks with Iran are continuing; Washington remains committed to seeking a solution and reiterated that Iran must never possess nuclear weapons.
-
----
-
-### 2026-07-10 05:31:00  #焦點 #國際
-
-美國官員就伊朗問題表態：美國仍致力於尋求解決方案，技術性談判仍在繼續。
-
----
-
-### 2026-07-10 05:22:51  #公司
-
-亞馬遜雲科技：推出面向亞馬遜雲科技的Loom。
-
----
-
-### 2026-07-10 05:22:46  #MKT News #Star Stocks #Amazon #Market Themes #Magnificent 7 #AMZN.O #Impact bullish
-
-Amazon Web Services (AWS) launched AWS Loom.
-
----
-
-### 2026-07-10 05:21:37  #國際
-
-美國眾議院將於下週表決永久實行夏令時的法案。
-
----
-
-### 2026-07-10 05:21:14  #MKT News
-
-The U.S. House of Representatives will vote next week on a bill to make Daylight Saving Time permanent.
-
----
-
-### 2026-07-10 05:20:38  #MKT News
-
-【Syrian interim government says suspects behind Damascus bombings detained】Syrian interim government interior minister Anas Hatab said on the evening of the 9th that the cell that planned and carried out bomb attacks in Damascus two days earlier has been fully detained. The interior ministry said security forces mounted synchronized raids on the group's positions across Damascus and arrested all suspects involved in the explosions. Detainees are being interrogated; identities will be released later.
-
----
-
-### 2026-07-10 05:19:21  #國際
-
-【敘利亞抓獲大馬士革爆炸案作案團伙】敘利亞過渡政府內政部部長阿納斯·哈塔卜9日晚在社交媒體發文說，兩天前在敘首都大馬士革策劃和實施恐怖爆炸襲擊的作案團伙已全部落網。敘過渡政府內政部隨後發表宣告說，敘安全部隊對這一“恐怖團伙”在大馬士革各據點開展同步突擊，成功逮捕參與爆炸事件的所有“恐怖分子”。目前，調查人員正對被捕人員進行審訊，其身份之後將公之於眾。7日上午，大馬士革市中心旅遊部大樓附近發生兩起爆炸，造成1人死亡、36人受傷。事發地鄰近法國總統馬克龍下榻酒店。據法國媒體援引法國總統府訊息，爆炸發生時，馬克龍已離開下榻酒店，正在敘利亞總統府準備與敘過渡政府總統艾哈邁德·沙拉會談。（新華社）
-
----
-
-### 2026-07-10 05:17:10  #其他
-
-【委內瑞拉強震遇難人數升至3889人】當地時間9日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國日前發生的地震造成的死亡人數上升至3889人，受傷人數為16740人。此外，強震後發生了1142次餘震。（央視新聞）
-
----
-
-### 2026-07-10 05:15:24  #市場
-
-富時A50期指連續夜盤收漲0.27%，報15323點。
-
----
-
-### 2026-07-10 05:15:10  #MKT News
-
-Ebola confirmed cases in the Democratic Republic of the Congo rose to 1,792, with 625 deaths.
-
----
-
-### 2026-07-10 05:14:44  #其他
-
-剛果民主共和國表示，埃博拉確診病例已升至1792例，其中包括625例死亡病例。
 
 ---

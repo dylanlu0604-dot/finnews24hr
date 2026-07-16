@@ -1,7 +1,295 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-17 05:10:00_
-_本檔包含 3564 則快訊，約 714650 字_
+_更新時間：2026-07-17 06:14:22_
+_本檔包含 3576 則快訊，約 715420 字_
+
+---
+
+### 2026-07-13 23:10:07  #國際
+
+歐盟外交與安全政策高階代表卡拉斯： 歐盟距離就針對俄羅斯的第 21 輪制裁方案達成協議 “已相當接近”。
+
+---
+
+### 2026-07-13 23:07:45  #其他
+
+德國地學研究中心監測：洛亞蒂群島東南發生 6.3 級地震。
+
+---
+
+### 2026-07-13 23:07:39  #央行 #其他
+
+加拿大央行將於當地時間週三09:45（北京時間21:45）釋出宣告與MPR（貨幣政策報告）。
+
+---
+
+### 2026-07-13 23:07:23  #國際
+
+歐盟外交與安全政策高階代表卡拉斯： 或將召開會議討論以色列定居點相關貿易問題，所有27個成員國一致認為，以色列在西岸的定居點是非法的。
+
+---
+
+### 2026-07-13 23:07:15  #MKT News #Market Regions #Europe & UK
+
+EU foreign policy chief Kallas said she may convene a meeting to discuss trade issues related to Israeli settlements.
+
+---
+
+### 2026-07-13 23:05:50  #MKT News
+
+A severe wildfire is burning in the Fontainebleau forest about 60 km southeast of Paris; flames remain intense on site.
+
+---
+
+### 2026-07-13 23:04:35  #國際
+
+伊朗安全官員：霍爾木茲海峽的管理權由我們的意志決定，而非你（特朗普）的帖子。特朗普所謂美國保護霍爾木茲海峽已有50年的說法，純粹是一種幻覺。特朗普忘了，霍爾木茲海峽在美國誕生之前數千年，就一直屬於伊朗。美國一再的挑釁行為，將導致伊朗行動範圍的擴大。美國及其盟友必須服從我們的安排，請把此點牢記在心。
+
+---
+
+### 2026-07-13 23:04:09  #其他
+
+納斯達克100指數跌幅收窄至1%，半導體指數目前跌2.9%。
+
+---
+
+### 2026-07-13 23:03:22  #MKT News #Market Regions #Europe & UK
+
+EU high representative for foreign affairs and security policy Kallas said all 27 member states agree that Israeli settlements in the West Bank are illegal.
+
+---
+
+### 2026-07-13 23:03:06  #其他
+
+【鈣鈦礦-有機疊層太陽能電池研究取得新突破】中國科學院化學研究所李永舫、孟磊團隊在國際學術期刊《自然》上發表新研究成果，團隊提出“全階段調控”策略，透過引入一種可光轉換的新增劑分子，成功製備出穩態光電轉換效率達到28.04%的高效能鈣鈦礦-有機疊層太陽能電池，重新整理此類器件光電轉換效率世界紀錄，標誌著鈣鈦礦-有機疊層太陽能電池向實際應用邁出關鍵一步。
+
+---
+
+### 2026-07-13 23:02:59  #MKT News
+
+【Changjiang in Poyang Lake system records 2026 No.2 flood】Rainfall pushed the Zhangshukeng hydrological station on the Changjiang (Poyang Lake system, Jiangxi) to 34.52 m at 21:40 on July 13, 0.02 m above the warning level (34.50 m), with flow at 2,530 m3/s; under main-river flood-numbering rules the event is designated "Changjiang 2026 No.2 flood".
+
+---
+
+### 2026-07-13 23:02:58  #其他
+
+【鄱陽湖水系昌江發生2026年第2號洪水】受降雨影響，江西鄱陽湖水系昌江樟樹坑水文站（江西省景德鎮市）7月13日21時40分水位漲至34.52米，超過警戒水位（34.50米）0.02米，相應流量2530立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“昌江2026年第2號洪水”。水利部緊盯汛情發展態勢，加強雨水情監測預報預警，提前啟動針對江西省的洪水防禦IV級應急響應，督促指導地方落實落細昌江洪水防禦各項措施，全力確保人民群眾生命財產安全。
+
+---
+
+### 2026-07-13 23:02:41  #MKT News #Commodities #Energy
+
+【Chinese team sets perovskite–organic tandem solar cell record at 28.04%】Researchers at the Institute of Chemistry, Chinese Academy of Sciences, led by Academician Li Yongfang and researcher Meng Lei, reported a certified steady-state power conversion efficiency of 28.04% for a perovskite–organic tandem solar cell, a world record for this device class. The result was published July 13 in Nature and marks an important step toward practical application.
+
+---
+
+### 2026-07-13 23:02:09  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+An Iranian security official said repeated US provocations will expand Iran’s scope of action and that the United States and its allies must comply with Iran’s arrangements.
+
+---
+
+### 2026-07-13 23:01:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+An Iranian security official said Trump had forgotten the Strait of Hormuz had belonged to Iran for thousands of years, long before the United States existed.
+
+---
+
+### 2026-07-13 23:01:20  #MKT News #WTI #Impact bullish #Brent
+
+An Iranian security official said Trump’s claim that the United States has protected the Strait of Hormuz for 50 years is purely an illusion.
+
+---
+
+### 2026-07-13 23:01:00  #MKT News #WTI #Impact bullish #Brent
+
+Iran security official says control of the Strait of Hormuz is determined by Iran's will, not by Trump's posts.
+
+---
+
+### 2026-07-13 23:00:59  #MKT News #Important #Commodities #Energy
+
+By the 23:00 close, China’s most-active futures contracts were mostly higher. Asphalt rose over 3%; plastic, fuel oil, propylene and ethylene glycol (EG) gained more than 2%; low-sulfur fuel oil (LU) was up about 2%. Soda ash and coke fell over 1%; pulp and caustic soda declined nearly 1%.
+
+---
+
+### 2026-07-13 23:00:34  #其他
+
+市場訊息：WYNNCHURCH CAPITAL 宣佈以 16 億美元將 FLOWORKS 出售給 FERGUSON。
+
+---
+
+### 2026-07-13 23:00:17  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Indian Rupee Depreciates by 0.56% — Top currency losers are Indian Rupee (-0.56%), Swiss Franc (-0.42%), Japanese Yen (-0.41%), British Pound (-0.24%) and Euro (-0.10%). Gains are led by South Korean Won (0.35%) and Dollar Index (0.14%).
+
+---
+
+### 2026-07-13 23:00:11  #國際
+
+7月第9周，美國對出口小麥進行了373,611噸的檢驗。對出口大豆進行了418,592噸的檢驗。對154萬噸出口玉米進行了檢驗。
+
+---
+
+### 2026-07-13 23:00:03  #市場
+
+【夜盤期貨收盤】瀝青連續漲3.23%，燃料油連續漲2.41%，乙二醇連續漲2.18%，低硫燃料油連續漲1.72%，聚丙烯連續漲1.64%。
+
+---
+
+### 2026-07-13 22:59:32  #MKT News
+
+USGS reports a 6.7-magnitude earthquake in the Loyalty Islands region.
+
+---
+
+### 2026-07-13 22:59:21  #國際
+
+卡拉斯：歐盟將就網路行動召見俄羅斯代表。
+
+---
+
+### 2026-07-13 22:58:34  #公司
+
+【港股IPO：杭州鉑科電子股份有限公司遞表港交所】利弗莫爾證券顯示，杭州鉑科電子股份有限公司向港交所提交上市申請書，獨家保薦人為招商證券國際。
+
+---
+
+### 2026-07-13 22:58:28  #國際
+
+【胡塞武裝指責沙特空襲機場 葉門稱胡塞劫持飛機】薩那訊息：據胡塞武裝控制的馬西拉電視臺13日報道，沙烏地阿拉伯對胡塞武裝控制的葉門首都薩那國際機場的跑道發動多次空襲。據報道，空襲發生時，一架載有胡塞武裝代表團的伊朗客機正從伊朗首都德黑蘭飛往薩那。這架飛機最終降落在胡塞武裝控制的葉門西北部荷臺達機場。報道稱，該客機此前搭載胡塞武裝代表團前往伊朗參加伊朗已故最高領袖哈梅內伊的葬禮。葉門政府曾提出胡塞武裝代表團應在政府監督下乘坐非伊朗的飛機返回。胡塞武裝方面對此予以拒絕，並警告沙特和葉門政府不要攔截此次航班。（新華社）
+
+---
+
+### 2026-07-13 22:57:20  #MKT News
+
+HKEX filing: Hangzhou Boke Electronics Co., Ltd. has submitted a listing application.
+
+---
+
+### 2026-07-13 22:56:10  #國際
+
+【馬克龍稱將追加360億歐元國防投入】法國總統馬克龍今天（7月13日）宣佈，法國將在2026年至2030年期間追加360億歐元（約合2783億元人民幣）國防投入。據稱，新增投入將主要用於增加彈藥儲備、加強軍隊戰備水平、提升法國國防自主能力以及增強核威懾能力。馬克龍同時稱，法國已兌現將國防投入提高至國內生產總值的2.5%的承諾，並重申，將在其第二個總統任期結束時實現軍費預算較2017年翻一番的目標。（CCTV國際時訊）
+
+---
+
+### 2026-07-13 22:54:43  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+【Market near fully pricing Fed hike before September】Market pricing indicates at least one Fed rate hike before September is nearly fully priced in, and two hikes are fully priced by end-March next year. Earlier, Trump said on social media the US will resume a blockade of Iran and plans to levy a 20% fee on any goods transiting the Strait of Hormuz.
+
+---
+
+### 2026-07-13 22:53:47  #Trading Economics #Markets #Commodity #Importance 1
+
+Aluminum Holds Rebound from 4-Month Low — Aluminum futures in the UK were at $3,150,holding most of their rebound from the four-month low of $3,085 from earlier in July amid fresh threats to supply. US President Trump stated he would reinstate the blockade of commercial vessels out of the Strait of Hormuz following the exchange of strikes with Iran. The move dented prospect that supply from the key region would be restored. Pre-war exports from the GCC were responsible for 9% of global aluminum consumption. On top of that, the surge in natural gas prices due to the shortage from the Middle East lifted operating costs for power-hungry aluminum smelters in Europe and Asia. This added to constraints as the 45 million ton supply cap for China was due to become restricting this year. Consequently, stocks of primary aluminum at the LME sank by 43% tonnes this year to 285,000 tonnes. Also, industry giant Macquarie forecasted a global aluminum shortfall of around 930,000 tonnes.
+
+---
+
+### 2026-07-13 22:53:33  #其他
+
+洛亞蒂群島東南發生6.01級地震。
+
+---
+
+### 2026-07-13 22:52:00  #MKT News #Market Regions #Greater China
+
+【Chengdu proposes 1,800 yuan monthly cap for housing provident fund rental withdrawals】Chengdu Housing Provident Fund Management Center proposes allowing contributors renting commercial housing in the city to withdraw up to 1,800 yuan per month from their housing provident fund, capped at 21,600 yuan annually, to boost rental support and housing consumption. The proposal is open for public comment from July 14 to July 20, 2026.
+
+---
+
+### 2026-07-13 22:50:36  #國際
+
+市場訊息：丹麥、法國、德國、義大利、荷蘭、挪威、西班牙、瑞典、烏克蘭及英國領導人同意與烏克蘭建立一體化反導聯盟。
+
+---
+
+### 2026-07-13 22:50:25  #MKT News #Market Regions #Europe & UK
+
+Leaders of Denmark, France, Germany, Italy, the Netherlands, Norway, Spain, Sweden, Ukraine and the United Kingdom agreed to jointly establish a comprehensive anti-ballistic missile alliance with Ukraine.
+
+---
+
+### 2026-07-13 22:50:03  #市場
+
+英國兩年期公債收益率日內上漲逾10個基點，報4.3465%，為6月11日以來最高。
+
+---
+
+### 2026-07-13 22:49:50  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish #FTSE100 #Impact bearish #DXY
+
+UK two-year gilt yield rose more than 10bps to 4.3465%, the highest level since June 11.
+
+---
+
+### 2026-07-13 22:49:37  #公司
+
+五角大樓宣佈向 REELEMENT TECHNOLOGIES 公司投資 2500 萬美元。
+
+---
+
+### 2026-07-13 22:49:26  #國際
+
+美國中央司令部：美軍首次在戰鬥中使用海上無人機.
+
+---
+
+### 2026-07-13 22:49:03  #宏觀 #國際
+
+美國國務院：正在考慮的行動包括呼籲與美國執法部門和軍方合作的國家，拒絕國際刑事法院起訴美國官員和軍人的管轄權。
+
+---
+
+### 2026-07-13 22:48:38  #其他
+
+【成都擬調整住房公積金租房提取額度】據成都住房公積金管理中心網站訊息，為加大住房公積金對繳存人租房支援力度，促進住房消費，擬調整我市住房公積金租房提取額度，即“繳存人在我市租住商品住房的，每月提取額度統一按1800元執行，年累計提取金額不超過2.16萬元”，現公開徵求社會意見。為推動政策儘快落地見效，本次徵求意見時間為2026年7月14日至7月20日。
+
+---
+
+### 2026-07-13 22:48:15  #宏觀 #國際
+
+美國國務院發起行動，旨在確保"國際刑事法院無法威脅美國主權或針對美國人"。
+
+---
+
+### 2026-07-13 22:47:33  #國際
+
+美軍：打擊行動削弱了伊朗繼續攻擊商業航運的能力。
+
+---
+
+### 2026-07-13 22:47:31  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+CENTCOM said yesterday its forces used multiple one-way attack unmanned surface vessels (USVs) to strike an Iranian submarine and vessel repair facility. Three "Pirate" USVs struck the port at the Abbas naval base, marking the U.S. military's first combat use of maritime drones. CENTCOM said the strikes last night degraded Iran's ability to continue attacks on commercial shipping.
+
+---
+
+### 2026-07-13 22:47:28  #國際
+
+美軍：週日打擊了伊朗的一艘潛艇和一處艦船維修設施。
+
+---
+
+### 2026-07-13 22:47:21  #國際
+
+據知情人士透露，7月12日遭遇無人機襲擊之後，俄羅斯Syzran煉油廠暫停石油處理。
+
+---
+
+### 2026-07-13 22:46:27  #其他
+
+【浙江省省長劉捷在寧波專題調研積體電路產業發展工作】據浙江日報，13日下午，浙江省委副書記、省長劉捷在寧波專題調研積體電路產業發展工作。劉捷在調研中強調，推動人工智慧及算力、晶片、智慧裝備等相關產業高質量發展，對最佳化產業結構、提升發展質效具有重要意義。各地要搶抓機遇，全面梳理人工智慧相關產業發展情況，堅持因地制宜、找準比較優勢，積極推動重大專案招引落地和謀劃儲備，加快培育更多龍頭企業和專精特新企業，加速形成產業規模。要加強省市縣聯動、部門間協同，完善科技創新投入機制，推動人才、資料、算力等要素資源進一步向人工智慧相關產業傾斜，不斷激發產業創新創造活力。
+
+---
+
+### 2026-07-13 22:45:53  #國際
+
+特朗普在社交平臺上釋出了有關參議院任命的訊息。
+
+---
+
+### 2026-07-13 22:45:47  #MKT News #Market Regions #Europe & UK #XAUUSD #Impact bullish #DXY #EURUSD #Impact bearish
+
+German Foreign Minister Wadephul said NATO must readjust security, defense and deterrence measures on its eastern and northern fronts to respond to Russia.
 
 ---
 
@@ -21324,221 +21612,5 @@ OpenAI CEO奧特曼：大量基準測試資料都表明5.6 Sol是目前全球效
 ### 2026-07-12 00:30:11  #國際
 
 特朗普：瑪吉·哈格曼十年來對我的報道全是歪曲抹黑。她寫的書簡直荒唐可笑，九成內容都是假新聞。她靠失真報道謀生，而等我們針對日漸衰敗的《紐約時報》發起的數十億美元訴訟開庭後，她必將付出代價，這場庭審不會讓大家等太久。我不介意負面報道，前提是內容屬實。但我絕不能容忍虛假報道，就像她這本乏味的書裡寫的內容，還有她過去十一年一貫的操作——她從頭到尾只有一個目的，就是讓我輸掉大選。可如今我穩坐橢圓辦公室，反觀她的算計，根本沒能得逞。瑪吉就是個失敗者！如果她肯如實寫下我的真實經歷，那故事其實平淡無奇，字裡行間卻全是我的累累功績。
-
----
-
-### 2026-07-12 00:29:16  #國際
-
-克里姆林宮發言人明確否認莫斯科有意發動第三次世界大戰，同時警告，西方大規模向烏克蘭提供軍事援助加劇了這場危機。
-
----
-
-### 2026-07-12 00:27:26  #MKT News
-
-US President Trump said he completed a perfect physical at Walter Reed Hospital, undergoes a physical every six months, requested an additional cognitive test—he said he is the only president to do so—and passed three cognitive tests, answering every question correctly.
-
----
-
-### 2026-07-12 00:26:51  #國際
-
-一位伊朗高階情報人士表示，美國正在對伊朗發動一場協調的壓力、威脅和媒體虛假資訊運動。
-
----
-
-### 2026-07-12 00:26:00  #MKT News
-
-【US, Lebanon discuss forming security-management committee to push Israel withdrawal from 'pilot zones'】Al Arabiya, citing sources, reported a US delegation is in Lebanon discussing creation of a committee to handle security and administrative matters and to implement a plan for Israel to withdraw from 'pilot zones'. Lebanon had said it would only join mediation in Rome if Israel withdrew from two trial areas; it has agreed to attend the Rome meeting on the condition the committee is established.
-
----
-
-### 2026-07-12 00:24:36  #國際
-
-特朗普：我要求再做一次認知測試。
-
----
-
-### 2026-07-12 00:24:28  #國際
-
-特朗普：我剛剛在沃爾特·裡德國家軍事醫療中心完成了一次完全合格的體檢。
-
----
-
-### 2026-07-12 00:20:48  #MKT News
-
-Press TV quoted a senior Iranian intelligence source saying the U.S. is conducting a coordinated campaign of pressure, threats and media disinformation against Iran.
-
----
-
-### 2026-07-12 00:17:38  #國際
-
-【伊朗、阿曼商討霍爾木茲海峽通航“相關機制”】伊朗外交部發布宣告稱，伊朗與阿曼外長於馬斯喀特舉行會晤，依據《伊斯蘭堡諒解備忘錄》第五條，就保障船舶安全通行霍爾木茲海峽的適宜機制交換了意見。
-
----
-
-### 2026-07-12 00:17:00  #MKT News
-
-【Iran, Oman foreign ministers meet in Muscat to discuss Strait of Hormuz】Iran's foreign minister led a political and legal delegation to Muscat and met Omani foreign minister Sayyid Badr Albusaidi. The two discussed bilateral ties and regional developments, with a focus on the Strait of Hormuz, and exchanged views on using mechanisms under Article 5 of the Islamabad memorandum to ensure safe passage of vessels through the strait.
-
----
-
-### 2026-07-12 00:16:49  #國際
-
-伊朗外長表示，伊朗與阿曼兩國外長已就根據伊斯蘭堡諒解備忘錄第五條，建立霍爾木茲海峽船舶安全通行“適當機制”交換了意見。
-
----
-
-### 2026-07-12 00:16:38  #國際
-
-伊朗和阿曼外長就霍爾木茲海峽問題舉行會談。
-
----
-
-### 2026-07-12 00:13:39  #MKT News
-
-According to AFP, a Lebanese military official said a US military delegation met with the Lebanese army in Beirut to discuss implementing Israel's withdrawal from a "pilot zone" in Israeli-occupied territory.
-
----
-
-### 2026-07-12 00:08:40  #MKT News #Market Regions #Greater China
-
-【Typhoon Bavi makes second landfall on Qingjiang coast in Yueqing, Wenzhou, Zhejiang】Typhoon Bavi, the year’s ninth, made a second landfall around 00:00 on the 12th on the coast at Qingjiang town, Yueqing city, Wenzhou, Zhejiang province. Maximum winds near the center reached force 13 (38 m/s); central minimum pressure was 960 hPa.
-
----
-
-### 2026-07-12 00:05:57  #其他 #焦點
-
-颱風“巴威”於12日0時前後，在浙江省溫州市樂清市清江鎮沿海二次登陸，登陸時中心附近最大風力13級（38米/秒），中心最低氣壓960百帕。 （中央氣象臺）
-
----
-
-### 2026-07-12 00:05:44  #其他
-
-【颱風“巴威”登陸浙江，上海已組織轉移29.97萬人】據上海市氣象臺訊息，今年第9號颱風“巴威”（颱風級）的中心已於7月11日23點20分在浙江玉環沿海登陸，登陸時中心附近最大風力有13級（40米/秒），中心最低氣壓為955百帕。記者從上海市防汛指揮部獲悉，截至11日21時，全市共組織轉移 29.97 萬人，全市共啟用 905 處防汛避災安置場所。
-
----
-
-### 2026-07-12 00:03:14  #其他
-
-【“張雪機車”獲WSBK多寧頓公園站首回合第八名】11日在2026世界超級摩托車錦標賽（WSBK）英國多寧頓公園站WorldSSP組別首回合正賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯取得第八名。凱旋車隊的英國車手布思-阿莫斯奪得冠軍。（新華社）
-
----
-
-### 2026-07-12 00:02:41  #其他
-
-【高溫乾旱加劇火情 義大利多地林火持續】受持續高溫、乾旱及大風天氣影響，義大利北部皮埃蒙特大區以及西西里島、撒丁島等地森林火災仍在持續。相關部門已投入消防飛機、直升機及地面救援力量展開撲救。當地時間7月11日，皮埃蒙特大區釋出宣告稱，此輪森林火災已造成都靈、韋爾切利、諾瓦拉和韋巴諾-庫西奧-奧索拉等省約800至900公頃森林過火，約70萬棵樹木被毀，演變成一場“生態災難”。宣告表示，受損地區草本植物和灌木恢復預計需要2至5年，而森林生態系統恢復則可能需要50至70年。皮埃蒙特大區初步調查認為，此輪火災多由雷擊引發，在高溫、乾旱和強風作用下迅速蔓延。（央視新聞）
-
----
-
-### 2026-07-12 00:01:14  #其他
-
-據貓眼專業版資料，電影 《小黃人與大怪獸》 上映10天， 總票房破2億。
-
----
-
-### 2026-07-11 23:59:30  #國際
-
-美國空軍方面表示，軍方在一項晉升必考科目閱卷評分出現差錯後，135 名原本被告知獲得晉升資格的空軍人員將無法兌現此次晉升。
-
----
-
-### 2026-07-11 23:45:33  #國際
-
-市場資訊：伊朗正試圖與阿曼就霍爾木茲海峽達成協議。
-
----
-
-### 2026-07-11 23:42:15  #其他
-
-【應急管理部對河北啟動國家地質災害三級應急響應】記者從應急管理部獲悉，應急管理部11日將針對河北的國家地質災害四級應急響應提升至三級，針對安徽啟動國家地質災害四級應急響應。據氣象部門預測，受西南季風和颱風“巴威”影響，安徽南部、河北中部和東北部等部分地區大暴雨，局地特大暴雨。經應急管理部與自然資源部會商研判，安徽南部局地發生地質災害風險高，河北東北部發生地質災害風險很高。（新華社）
-
----
-
-### 2026-07-11 23:39:41  #國際
-
-【伊朗方面公佈被導彈擊中的約旦美軍基地衛星影象】當地時間7月11日，伊朗方面公佈衛星影象，稱是伊朗導彈擊中的約旦美軍基地。伊朗方面訊息稱，衛星影象顯示，位於約旦的穆瓦法克·薩爾提空軍基地在美國多次違反停火後遭到打擊。影象顯示，基地內至少有兩處設施遭導彈擊中，據稱美軍戰機機庫被毀，但目前尚不清楚機庫內當時存放何種裝備。伊朗方面稱，此前美國和約旦方面均表示，來襲目標已全部被攔截。當地時間9日，美軍部署在約旦穆瓦法克·薩爾提的基地遭目標鎖定。約旦政府在一份宣告中稱，該國軍方已攔截來自伊朗方面的導彈，並將持續為維護國家安全做好準備。約旦軍方稱，攔截了8枚來自伊朗的導彈。（央視新聞）
-
----
-
-### 2026-07-11 23:31:39  #其他 #焦點
-
-【颱風“巴威”在浙江台州玉環登陸】今年第9號颱風“巴威”(颱風級)的中心已於11日23時20分前後在臺州玉環登陸，登陸時中心附近最大風力13級(40米/秒)，中心最低氣壓為955百帕。（央視新聞）
-
----
-
-### 2026-07-11 23:31:01  #國際
-
-以色列警方稱，四名以色列定居者因涉嫌襲擊美國有線電視新聞網（CNN）採訪團隊被逮捕。
-
----
-
-### 2026-07-11 23:27:06  #其他
-
-【國內航司計劃取消12日進出港航班超2800架次】大資料顯示，7月11日，上海浦東機場、常州奔牛機場、上海虹橋機場、杭州蕭山機場、寧波櫟社機場、無錫碩放機場等約36個機場釋出了雷雨天氣預報。上海浦東機場、杭州蕭山機場、寧波櫟社機場、上海虹橋機場、北京首都機場當日臨時取消航班量位列國內前五。截至7月11日20:00，今天國內機場的延誤航班數量超1300架次。福州長樂、舟山普陀山、武夷山、梧州西江、安順黃果樹、義烏、寧波櫟社、瓊海博鰲等機場的航班大面積取消；北京首都、北京大興機場大面積延誤，最高延誤比例達96%。截至7月11日20:00，國內各航司計劃取消12日進出港航班超2800架次，建議旅客密切關注天氣狀況和航班動態，靈活調整出行安排。（央視新聞）
-
----
-
-### 2026-07-11 23:26:09  #國際
-
-卡達外交部：首相強調，所有各方（美伊）有必要堅持外交途徑，執行諒解備忘錄，並確保航行自由。
-
----
-
-### 2026-07-11 23:25:44  #國際
-
-黎巴嫩軍方訊息人士：軍方領導層與美國軍事代表團會晤，以建立在南部實施首個試點地區的機制。
-
----
-
-### 2026-07-11 23:25:35  #國際
-
-美國官員：萬斯不會前往安曼，魯比奧、維特科夫和庫什納也不會參與那裡的會談。
-
----
-
-### 2026-07-11 23:22:11  #其他
-
-【受颱風“巴威”影響 上海部分景區景點暫時關閉】記者從上海文旅部門及多個景區獲悉，受今年第9號颱風“巴威”影響，上海已有數十家景區暫時關閉或調整運營安排。 截至11日下午4時，暫時關閉的50餘家國家A級旅遊景區分佈在上海市崇明區、閔行區、金山區、奉賢區、嘉定區、浦東新區、寶山區、青浦區、松江區等，包括上海市崇明區西沙明珠湖景區、上海東灘溼地公園、金山城市沙灘景區、楓涇古鎮、上海花開海上生態園、上海閔行文化公園、上海國際賽車場旅遊景區、碧海金沙景區、上海佘山國家森林公園東佘山園及西佘山園等。（新華社）
-
----
-
-### 2026-07-11 23:19:13  #國際
-
-美國官員：如果與伊朗談判失敗，特朗普有（其他）多個選項。
-
----
-
-### 2026-07-11 23:12:44  #其他
-
-【湖北十堰釋出暴雨紅色預警】湖北十堰市氣象臺2026年7月11日20時38分發布暴雨紅色預警訊號：過去2小時，竹溪豐溪界梁村雨量已達60毫米。預計未來3小時，竹溪豐溪及周邊鄉鎮區域性累計雨量將達100毫米以上，山區山洪、地質災害、中小河流洪水、城鄉積澇風險極高，請注意防範。（央視新聞）
-
----
-
-### 2026-07-11 23:00:53  #MKT News #Market Regions #Greater China
-
-【Chinese airports to cancel over 1,000 flights on July 12】As of 20:00 on July 11, Hanglv Zongheng, the civil aviation authority's official direct‑sales platform, showed Chinese airports and carriers had planned to cancel more than 1,000 inbound and outbound flights scheduled for July 12. On July 11 domestic delays exceeded 1,300 flights. Shanghai Pudong, Hangzhou Xiaoshan, Ningbo Lishe, Shanghai Hongqiao and Beijing Capital airports recorded the highest temporary cancellation counts that day.
-
----
-
-### 2026-07-11 22:50:26  #其他
-
-【國家防總對京津遼皖贛啟動防汛三級應急響應】據氣象部門預報，受今年第9號颱風“巴威”及其輸送水氣影響，未來三天，北京、天津、安徽、江西、遼寧、黑龍江有大暴雨，局地特大暴雨，部分地區有短時強降雨，山洪和地質災害、中小河流洪水以及城市內澇等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月11日20時將針對北京、天津、遼寧、安徽、江西的國家防總防汛四級應急響應提升至三級，啟動針對黑龍江的防汛四級應急響應，派出國家防總辦公室工作組赴北京協助指導防汛工作。（新華社）
-
----
-
-### 2026-07-11 22:50:18  #MKT News #Market Regions #Greater China
-
-【National Flood Control and Drought Relief Headquarters raises emergency response, dispatches team to Beijing】Forecasts show Typhoon Bawei and its moisture will produce heavy to locally extreme rain over the next three days across Beijing, Tianjin, Anhui, Jiangxi, Liaoning and Heilongjiang, with short‑duration torrential downpours and heightened risks of flash floods, geological hazards, small‑/medium‑river floods and urban waterlogging. Under the national flood-control emergency plan, the National Flood Control and Drought Relief Headquarters at 20:00 on July 11 upgraded flood emergency response from level 4 to level 3 for Beijing, Tianjin, Liaoning, Anhui and Jiangxi, and activated a level‑4 response for Heilongjiang. The headquarters has sent an office working group to Beijing to assist and guide flood-control operations. (Ministry of Emergency Management)
-
----
-
-### 2026-07-11 22:49:36  #其他 #焦點
-
-【國家防總調整啟動應急響應 派出工作組加強指導】據氣象部門預報，受今年第9號颱風“巴威”及其輸送水氣影響，未來三天，北京、天津、安徽、江西、遼寧、黑龍江有大暴雨，局地特大暴雨，部分地區有短時強降雨，山洪和地質災害、中小河流洪水以及城市內澇等災害風險較高。根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於7月11日20時將針對北京、天津、遼寧、安徽、江西的國家防總防汛四級應急響應提升至三級，啟動針對黑龍江的防汛四級應急響應，派出國家防總辦公室工作組赴北京協助指導防汛工作。（央視新聞）
-
----
-
-### 2026-07-11 22:46:21  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says it will cease to abide by memorandum with US if Washington keeps breaching obligations】Iran's permanent UN envoy Iravani warned on the 11th that if the United States continues to violate its obligations, Iran will no longer abide by the memorandum of understanding with the United States.
 
 ---
