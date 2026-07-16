@@ -1,7 +1,203 @@
 {
-  "updated": "2026-07-16 16:12:49",
-  "count": 18852,
+  "updated": "2026-07-16 16:16:51",
+  "count": 18860,
   "items": [
+    {
+      "id": "mkt:019f69fe-be15-7aab-8dc2-8474f40ec382",
+      "time": "2026-07-16 16:15:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Star Stocks",
+        "Alibaba",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01211.HK",
+        "09988.HK"
+      ],
+      "text": "【Hong Kong close: Hang Seng up 1.33% after afternoon pullback; autos, internet tech lead】Hong Kong stocks closed higher. The Hang Seng rose 1.33% to 25,008.60 and the Hang Seng Tech climbed 1.98% to 4,834.44. Turnover was HKD 322.892 bln (previous session HKD 304.297 bln). The market opened strong—HSI and HSTECH were up more than 2% and 3% respectively in early trade—then pulled back in the afternoon, with the index hovering around the 25,000 level at close. Autos and internet/tech names led gains all day; new-consumer and livestock names were active. Pharmaceuticals diverged in the afternoon. The semiconductor chain weakened broadly, led by memory chips. Notable movers: BYD Co. (01211.HK) +4.60%, Pop Mart (09992.HK) +6.87%, Alibaba Group (09988.HK) +3.27%; Joinn Laboratories (06127.HK) -6.04%, WuXi AppTec (02359.HK) -1.88%, Montage Technology (06809.HK) -22.95%, GigaDevice Semiconductor (03986.HK) -8.68%."
+    },
+    {
+      "id": "te:markets:567492",
+      "time": "2026-07-16 16:14:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Taiwan Semiconductor earnings above expectations at 27.25 TWD — Taiwan Semiconductor (2330) released earnings per share at 27.25 TWD, compared to market expectations of 23.93 TWD."
+    },
+    {
+      "id": "mkt:019f69fd-fa59-7aab-8dc2-7b579eafb87f",
+      "time": "2026-07-16 16:14:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium declined 2.00% intraday to $1,288.87/oz."
+    },
+    {
+      "id": "mkt:019f69fd-dcae-7aab-8dc2-75cac42fc81e",
+      "time": "2026-07-16 16:14:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver down 2.00% intraday, trading at $56.58/oz."
+    },
+    {
+      "id": "4991795",
+      "time": "2026-07-16 16:14:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【永安藥業：股票交易異常波動 不存在應披露未披露事項】永安藥業公告稱，公司股票於2026年7月15日、16日連續2個交易日內日收盤價格漲幅偏離值累計超出20%，屬於異常波動。經核查，公司前期披露資訊無需更正補充，未發現媒體報道未公開重大資訊，經營情況及內外部環境正常，公司、控股股東和實控人不存在應披露未披露重大事項，異常波動期間控股股東和實控人無買賣公司股票行為。公司提醒投資者理性投資，注意風險。"
+    },
+    {
+      "id": "4991794",
+      "time": "2026-07-16 16:14:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯環藥業：控股子公司獲達格列淨二甲雙胍緩釋片《藥品註冊證書》】聯環藥業公告稱，控股子公司常樂製藥近日收到國家藥監局核准簽發的達格列淨二甲雙胍緩釋片（Ⅰ/Ⅱ/Ⅲ）《藥品註冊證書》。該藥品適用於2型糖尿病成人患者改善血糖控制，2026年第一季度全國二級以上醫院達格列淨二甲雙胍緩釋片（Ⅰ）銷售額達24606.58萬元。常樂製藥針對該藥品研發投入約963萬元，公司及子公司2026年共獲10個生產批件。此次獲證豐富了產品線，但預計對近期業績無重大影響。藥品生產銷售存不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "4991793",
+      "time": "2026-07-16 16:14:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌2%，現報56.58美元/盎司。"
+    },
+    {
+      "id": "mkt:019f69fd-b105-7aab-8dc2-6d0ae8b91812",
+      "time": "2026-07-16 16:14:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba to showcase multiple AI agent platforms at WAIC】Alibaba Group will showcase multiple AI agent platforms at the World Artificial Intelligence Conference. Damo Academy will roll out DAMO Lingshu, a research-agent platform, and open it for external testing; using DAMO Lingshu together with materials foundation model Elements, researchers predicted 68,000 candidate superconductors, with four novel materials synthesized and confirmed superconducting. Alibaba Cloud’s Bailian inference platform has launched an enterprise TokenPlan subscription service and has served 5 million users globally, including 1.2 million paid users."
+    },
+    {
+      "id": "4991792",
+      "time": "2026-07-16 16:14:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報56.85美元/盎司。"
+    },
+    {
+      "id": "mkt:019f69fd-9ad8-7aab-8dc2-664b93d8298f",
+      "time": "2026-07-16 16:14:15",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bank of England deputy governor Breeden said shocks from a war with Iran are unlikely to evolve into entrenched inflation that would force a monetary-policy response."
+    },
+    {
+      "id": "te:markets:567491",
+      "time": "2026-07-16 16:13:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Earnings, Middle East Tensions — London's FTSE 100 fell 0.5% to around 10,470, hovering near its lowest level since June 24, as investors assessed corporate earnings, fresh UK economic data, and rising Middle East tensions that threatened to stoke energy inflation across Europe. Experian dropped more than 4% after reporting higher revenue but maintaining its outlook. SSE lost 0.7% after reaffirming its earnings forecast and saying it remains on track to invest £5 billion this year. In contrast, Diploma surged 4% as the technical products distributor raised its margin forecast and issued stronger-than-expected organic revenue guidance. Elsewhere, Ocado's revenue slightly beat expectations, while Frasers warned that challenging trading conditions persist and said it was too early to provide guidance for fiscal 2027 amid ongoing bids for Hugo Boss and Accent Group. Rotork has agreed to a £4.1 billion takeover by its bigger Swiss rival ABB. Meanwhile, UK GDP rose 0.1% in May, rebounding from a 0.1% contraction in April."
+    },
+    {
+      "id": "4991791",
+      "time": "2026-07-16 16:13:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "英國央行副行長布里登：伊朗戰爭引發的衝擊不太可能演變為根深蒂固的通脹態勢，從而迫使我們採取應對措施。"
+    },
+    {
+      "id": "4991790",
+      "time": "2026-07-16 16:13:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026中國（廣東）—東盟貿易促進與供應鏈合作機制對接交流會舉行】7月16日，由廣東省人民政府、中國—東盟中心聯合主辦的2026中國（廣東）—東盟貿易促進與供應鏈合作機制對接交流會在廣州舉行。廣東省委副書記、省長孟凡利，中國—東盟中心秘書長張利忠出席並致辭。孟凡利表示，廣東和東盟國家一衣帶水、隔海相望，充分發揮我省獨特優勢，形成了貿易、投資、旅遊、文化等各方面廣泛充分的合作格局，東盟已連續6年穩居廣東第一大對外貿易伙伴。廣東是中國改革開放的排頭兵、先行地、實驗區，是中國經濟總量最大、人口最多、企業和市場經營主體數量最多的省，也是人員、貨物、資本參與國內國際雙迴圈非常好的聯接點。張利忠表示，中國與東盟是命運與共的好鄰居、好朋友、好夥伴。雙方建立對話關係35年來，成為了亞太地區乃至全球最具活力、最富成果的合作典範之一。未來，中國—東盟中心將持續深化與廣東各領域合作，充分發揮廣東在製造業、科技創新和對外開放方面的優勢，為中國—東盟全面戰略伙伴關係發展作出新的貢獻。"
+    },
+    {
+      "id": "mkt:019f69fc-6686-7aab-8dc2-5c4ba64e38e9",
+      "time": "2026-07-16 16:12:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "09880.HK",
+        "Impact bullish"
+      ],
+      "text": "【UBTECH (09880.HK) signs comprehensive strategic cooperation MoU with Kazakhstan】UBTECH (09880.HK) signed a comprehensive strategic cooperation memorandum of understanding with a delegation from the Republic of Kazakhstan at a high-level meeting in Shanghai, witnessed by President Kassym-Jomart Tokayev. The deal aims to deploy UBTECH’s full-stack humanoid robot technology in Kazakhstan, leveraging Kazakhstan’s policy incentives and local market potential to establish a Central Asia benchmark in embodied intelligence and to support technology talent development and high-end manufacturing upgrades. Under the MoU, cooperation will focus on industry deployment, R&D innovation and education initiatives."
+    },
+    {
+      "id": "4991789",
+      "time": "2026-07-16 16:12:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里巴巴將在WAIC上展出多個智慧體平臺】7月16日訊息，介面新聞獲悉，本屆世界人工智慧大會上，阿里巴巴集團將展出多個AI智慧體平臺。 阿里旗下達摩院將推出“達摩靈樞”（DAMO Lingshu）科研智慧體平臺並對外開放測試。此前科研團隊在達摩靈樞輔助下，基於材料基礎模型Elements，預測出6.8萬種可能的超導材料，其中4種全新材料已合成並證實存在超導性。  阿里雲百鍊推理平臺面向企業推出了Token Plan訂閱服務， 截至目前已服務全球500萬使用者、120萬付費使用者。"
+    },
+    {
+      "id": "mkt:019f69fc-4407-7aab-8dc2-523fc4af9411",
+      "time": "2026-07-16 16:12:47",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA said the initiative received support from METI."
+    },
+    {
+      "id": "4991788",
+      "time": "2026-07-16 16:12:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "深交所：2026年7月16日，深圳嘉立創科技集團股份有限公司（簡稱：嘉立創）披露招股書，擬於近期在深市發行新股並上市。"
+    },
+    {
+      "id": "4991787",
+      "time": "2026-07-16 16:12:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達：與Noetra將推出Vera Rubin AI工廠，配備13,750顆Vera CPU和27,500顆Rubin GPU，該專案獲得日本經濟產業省支援"
+    },
+    {
+      "id": "mkt:019f69fb-d0b5-7aab-8dc2-4ab0d1ea7053",
+      "time": "2026-07-16 16:12:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA and Noetra will launch the Vera Rubin AI factory, equipped with 13,750 Vera CPUs and 27,500 Rubin GPUs."
+    },
     {
       "id": "mkt:019f69fb-66e8-7aab-8dc2-463273045265",
       "time": "2026-07-16 16:11:51",
@@ -173205,113 +173401,6 @@
         "公司"
       ],
       "text": "【大連電瓷：預計2026年上半年淨利潤同比增長200.55%～286.43%】大連電瓷公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為1.4億元至1.8億元，比上年同期增長200.55%～286.43%；扣除非經常性損益後的淨利潤為1.34億元至1.74億元，比上年同期增長229.06%～327.28%。報告期內，公司營業收入與淨利潤較上年同期實現較快增長，主要原因是市場需求持續釋放，海內外業務協同帶動業績增長。"
-    },
-    {
-      "id": "4978551",
-      "time": "2026-07-09 16:16:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【飛龍股份：預計2026年上半年淨利潤同比下降61.98%～67.69%】飛龍股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為6800萬元至8000萬元，比上年同期下降61.98%至67.69%；扣除非經常性損益後的淨利潤為6710萬元至7910萬元，比上年同期下降63.67%至69.18%。報告期內，公司產品遠銷歐美、東南亞等國際市場，出口業務主要以外幣進行結算。報告期內，匯率大幅波動，匯兌損失影響利潤超5000萬元。"
-    },
-    {
-      "id": "4978550",
-      "time": "2026-07-09 16:16:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中鎢高新與中國鎢業協會舉行工作會談】據中鎢高新訊息，7月7日，中鎢高新黨委書記、董事長沈慧明與來訪的中國有色金屬工業協會黨委常委、副會長，中國鎢業協會（簡稱“中國鎢協”）會長陳學森舉行工作會談。沈慧明對陳學森一行的來訪表示歡迎，介紹了中鎢高新生產經營整體情況和全產業鏈各環節經營業績。他表示，中鎢高新上半年取得了較好的經營成果，將繼續與中國鎢協及行業各方加強溝通，共同努力，助力行業高質量發展。"
-    },
-    {
-      "id": "4978549",
-      "time": "2026-07-09 16:16:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海電氣：掛牌轉讓房地產成交 成交價1.35億元】上海電氣公告稱，2025年12月公司董事會同意透過聯交所公開掛牌轉讓上海市閔行區臨春路188號房地產及附屬設施。前兩次掛牌均未徵集到意向受讓方，第三次掛牌於2026年6月24日確定受讓方為上海莘莊工業區實業有限公司，成交價格1.35億元。公司將在完成相關事項後10個工作日內交付房屋，雙方將在受讓方付清價款30個工作日內完成產權過戶登記。"
-    },
-    {
-      "id": "4978548",
-      "time": "2026-07-09 16:16:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬應龍：兩款藥品新增進入《國家基本藥物目錄（2026年版）》】馬應龍公告稱，2026年7月9日釋出的《國家基本藥物目錄（2026年版）》中，公司馬應龍八寶眼膏、託法替布兩款藥品新增納入，無藥品退出。馬應龍八寶眼膏2025年及2026年Q1銷售收入分別為2872.19萬元、421.12萬元；枸櫞酸託法替布片2025年銷售收入7.93萬元，2026年Q1暫無收入。此次入選有助於藥品市場拓展與銷售，對長遠發展有積極作用，當前業績暫無重大影響。"
-    },
-    {
-      "id": "mkt:019f45f2-48a8-7aab-8d0f-151aeb0ed353",
-      "time": "2026-07-09 16:15:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude oil dropped 3.00% intraday to $72.27/bbl."
-    },
-    {
-      "id": "mkt:019f45f2-2c15-7aab-8d0f-0ba38244fcff",
-      "time": "2026-07-09 16:15:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "WTI crude futures fell 3.00% intraday to $72.51/bbl."
-    },
-    {
-      "id": "mkt:019f45f0-e384-7aab-8d0f-00eaa877624a",
-      "time": "2026-07-09 16:14:02",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【BNP Paribas SA: South Korea tech supercycle likely to continue; near-term pullbacks are normal consolidation】BNP Paribas SA analyst William Bratton said that despite increased volatility in South Korean chip stocks, the country's tech supercycle is expected to persist in the near term. He said fundamentals and structural drivers behind the memory rally remain intact, supported by strong earnings momentum and a lack of convincing earnings growth stories elsewhere in the region. \"It's too early to say the forces driving Asian and Korean tech sectors have ended,\" he added, while warning that if the tech cycle eventually turns, Korean equities could face significant headwinds; recent pullbacks are normal consolidation rather than a structural reversal of the tech investment theme."
-    },
-    {
-      "id": "4978547",
-      "time": "2026-07-09 16:13:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國國會將舉行聽證會，調查男足主教練任命程式及足協管理等問題】韓國國會文化體育觀光委員會7月9日審議透過相關計劃，決定於本月22日就韓國足球協會相關事項舉行聽證會，並將上月底辭職的韓國男足前主帥洪明甫列為聽證陳述人。該委員會表示，將從國會層面調查有關國家男子足球隊主教練任命程式和韓國足協整體管理的各種問題，“並討論如何使該組織正常化”。"
-    },
-    {
-      "id": "mkt:019f45f0-bbb7-7aab-8d0e-f8a8eace90c8",
-      "time": "2026-07-09 16:13:52",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "【SpaceX's rich valuation lacks margin of safety; best strategy is to wait】After being added to the Nasdaq-100 on July 7, SpaceX shares plunged about 35% from their recent peak to below $147 the following day, nearly wiping out IPO gains. The company’s market cap is about $1.9 trillion while 2025 revenue is roughly $18.7 billion, implying a valuation near 100x 2025 sales. Starlink accounts for more than $11 billion of 2025 revenue, roughly 60% of the total, but SpaceX remains loss-making: a $4.9 billion loss in 2025 and a $4.3 billion loss in Q1 2026, alongside continued heavy capex for Starship and investments in xAI. Current prices already price in sustained Starlink growth, Starship progress and AI returns; any setback in those drivers would pose downside risk. Despite the pullback, the stock is still expensive and lacks a margin of safety given multibillion-dollar losses; the recommended approach is to wait for Starlink to demonstrate profits that exceed ongoing spending."
-    },
-    {
-      "id": "mkt:019f45f0-087e-7aab-8d0e-f4e97c12aadc",
-      "time": "2026-07-09 16:13:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bahrain sounds third air-raid alert in a day】Bahrain's Interior Ministry said air-raid alarms sounded again on the 9th, the third such alert in the country that day."
-    },
-    {
-      "id": "mkt:019f45ef-f919-7aab-8d0e-ee08dfd89bc1",
-      "time": "2026-07-09 16:13:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "Aluminium",
-        "Zinc"
-      ],
-      "text": "【LME non‑ferrous metals inventory daily】LME stocks: copper 307,750 t, down 2,900 t; aluminium 289,225 t, down 1,600 t; zinc 115,525 t, down 400 t; nickel 274,584 t, unchanged; lead 291,425 t, unchanged; tin 8,050 t, down 110 t."
     }
   ]
 }
