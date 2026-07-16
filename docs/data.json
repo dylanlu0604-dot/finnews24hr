@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-16 13:24:43",
-  "count": 18685,
+  "updated": "2026-07-16 13:28:45",
+  "count": 18687,
   "items": [
+    {
+      "id": "mkt:019f6965-7997-7aab-8dba-fcc7365fdd5e",
+      "time": "2026-07-16 13:28:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share non-metal materials sector slipped intraday; Jinbo, Sanxiang New Materials, Liliang Diamond, Shiying and Tianma New Materials stocks fell."
+    },
+    {
+      "id": "4991451",
+      "time": "2026-07-16 13:27:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅收窄至不足5%，市場預期將出臺ETF相關措施。"
+    },
+    {
+      "id": "4991450",
+      "time": "2026-07-16 13:26:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "非金屬材料板塊短線走低，金博股份、三祥新材、力量鑽石、石英股份、天馬新材等走低。"
+    },
+    {
+      "id": "4991449",
+      "time": "2026-07-16 13:26:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏干達稱最後一名埃博拉患者即將出院。"
+    },
+    {
+      "id": "mkt:019f6962-99e1-7aab-8dba-f71fe49e7291",
+      "time": "2026-07-16 13:24:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "ISNA reports Iran says the strait will remain closed until the US accepts Iranian law."
+    },
     {
       "id": "4991448",
       "time": "2026-07-16 13:23:26",
@@ -171822,37 +171867,6 @@
         "Impact bearish"
       ],
       "text": "【Tinci Materials says 'solid-state battery breakthrough' would have limited impact within five years】Tinci Materials shares plunged 23.12% from the July 6 opening price of 52.20 yuan to a midday close of 40.13 yuan today, cutting market value from over 106.4 bln yuan to 81.8 bln yuan and erasing about 24.6 bln yuan over four trading sessions. A July 8 note circulating among investors claimed next‑generation solid‑state cells could fully replace traditional lithium‑ion materials including electrolytes and separators. Tinci’s company secretary rejected that view, saying \"We do not think so,\" and added that incremental annual demand and use cases for liquid electrolytes remain strong. The company said it does not expect solid‑state batteries to take a very large share within five years, a judgment it said is shared with CATL."
-    },
-    {
-      "id": "4978232",
-      "time": "2026-07-09 13:28:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【天賜材料回應“固態電池技術突破”小作文：五年內影響有限】昨日一份關於”固態電池技術交流會紀要”在投資者圈中廣泛傳播，新一代固態電池技術有望實現電解液、隔膜等傳統鋰電材料的全面替代，甚至提出電解液行業或將被“完全淘汰”，隔膜等材料亦將被替代。”我們不認為是這樣。”天賜材料董秘在電話採訪中明確否認固態電池衝擊論調。其表示，液態電池每年的銷售增量和應用場景仍然非常好。“我們認為，固態電池在5年內不會有非常大的佔比，這一判斷是與寧德時代的共識。 (藍鯨新聞)"
-    },
-    {
-      "id": "mkt:019f4558-5948-7aab-8d09-bd1432eb06a6",
-      "time": "2026-07-09 13:27:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Barclays sees Fed holding rates through end-2027】Barclays' baseline projects the Fed will keep policy rates unchanged through end-2027. Barclays strategists nonetheless say the balance of risk is toward further hikes after the Fed's latest policy minutes showed participants increasingly concerned about inflation and the risk it remains persistently high, partly due to strong AI-related investment demand. Participants remain divided on the future policy path."
-    },
-    {
-      "id": "4978231",
-      "time": "2026-07-09 13:25:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱伊朗想達成協議】據美國媒體9日報道，參加完北約峰會的美國總統特朗普在返回華盛頓途中接受記者採訪時說，伊朗方面“不久前打來電話，他們非常渴望達成協議”。（新華社）"
     }
   ]
 }

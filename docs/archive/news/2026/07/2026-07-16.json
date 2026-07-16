@@ -1,7 +1,52 @@
 {
   "date": "2026-07-16",
-  "count": 1416,
+  "count": 1421,
   "items": [
+    {
+      "id": "mkt:019f6965-7997-7aab-8dba-fcc7365fdd5e",
+      "time": "2026-07-16 13:28:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share non-metal materials sector slipped intraday; Jinbo, Sanxiang New Materials, Liliang Diamond, Shiying and Tianma New Materials stocks fell."
+    },
+    {
+      "id": "4991451",
+      "time": "2026-07-16 13:27:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國KOSPI指數跌幅收窄至不足5%，市場預期將出臺ETF相關措施。"
+    },
+    {
+      "id": "4991450",
+      "time": "2026-07-16 13:26:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "非金屬材料板塊短線走低，金博股份、三祥新材、力量鑽石、石英股份、天馬新材等走低。"
+    },
+    {
+      "id": "4991449",
+      "time": "2026-07-16 13:26:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏干達稱最後一名埃博拉患者即將出院。"
+    },
+    {
+      "id": "mkt:019f6962-99e1-7aab-8dba-f71fe49e7291",
+      "time": "2026-07-16 13:24:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "ISNA reports Iran says the strait will remain closed until the US accepts Iranian law."
+    },
     {
       "id": "4991448",
       "time": "2026-07-16 13:23:26",
