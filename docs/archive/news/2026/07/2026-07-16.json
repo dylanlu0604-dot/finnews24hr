@@ -1,7 +1,230 @@
 {
   "date": "2026-07-16",
-  "count": 3048,
+  "count": 3069,
   "items": [
+    {
+      "id": "4992607",
+      "time": "2026-07-16 22:03:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞典銀行稱與 DFS 達成和解，所有反洗錢相關調查全部終結。"
+    },
+    {
+      "id": "4992606",
+      "time": "2026-07-16 22:03:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西橫州鎮龍鄉11個行政村道路已通】從廣西應急廳獲悉，截至7月16日的統計，今年第10號颱風“美莎克”已造成廣西全區14個市78個縣（市、區）受災，此次中斷各類道路831條，已搶通728條。目前，所有行政村均已打通一條生命通道，可保障人員和物資運輸。重災區如橫州市鎮龍鄉的11個行政村道路已通，通往自然村的道路力爭7月18日打通。（央視新聞）"
+    },
+    {
+      "id": "4992605",
+      "time": "2026-07-16 22:02:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月份二手房簽約量環比-5.4%；預估為-0.5%。美國6月份二手房簽約量同比增長2.3%。"
+    },
+    {
+      "id": "4992604",
+      "time": "2026-07-16 22:01:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦政府：目前國內石油產品儲備充足，可滿足國家需求，且未來供應已得到保障。"
+    },
+    {
+      "id": "mkt:019f6b3a-bb5c-7aab-8dca-f5a89aa8eac6",
+      "time": "2026-07-16 22:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "US pending home sales index down 5.4% MoM in June, the largest monthly decline since December 2025."
+    },
+    {
+      "id": "4992603",
+      "time": "2026-07-16 22:00:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體報道：辛貝特事務部長委員會已批准為薩拉・內塔尼亞胡提供終身安保保護。"
+    },
+    {
+      "id": "mkt:019f6b3a-812a-7aab-8dca-efddadd7ea9b",
+      "time": "2026-07-16 22:00:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US unadjusted pending home sales index YoY +2.3% in June, prior +2.1%."
+    },
+    {
+      "id": "4992602",
+      "time": "2026-07-16 22:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國6月成屋簽約銷售指數環比 -5.4%，預期 -0.5%，前值 3.8%。\n美國6月成屋簽約銷售指數同比 2.3%，預期 2%，前值 2.1%。\n美國5月商業庫存環比 0.3%，預期 0.3%，前值 0.5%。"
+    },
+    {
+      "id": "mkt:019f6b3a-59b4-7aab-8dca-e453119a23d5",
+      "time": "2026-07-16 22:00:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (YoY) (Jun) | actual -0.3% | previous 2.10%"
+    },
+    {
+      "id": "mkt:019f6b3a-5632-7aab-8dca-df655cbd79f8",
+      "time": "2026-07-16 22:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US business inventories rose 0.3% MoM in May, matching the 0.3% consensus; April was revised up to 0.6% from 0.5%."
+    },
+    {
+      "id": "mkt:019f6b3a-468f-7aab-8dca-d03735970474",
+      "time": "2026-07-16 22:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "S&P500",
+        "Impact bearish",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. pending home sales index MoM -5.4% in June vs -0.5% expected; May revised to 3.5% from 3.8%."
+    },
+    {
+      "id": "mkt:019f6b3a-42a9-7aab-8dca-cfc3ca7caed8",
+      "time": "2026-07-16 22:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "US July NAHB housing market index 34, expected 35; June reading revised up to 36 from 35."
+    },
+    {
+      "id": "mkt:019f6b3a-4254-7aab-8dca-c09387ed95a9",
+      "time": "2026-07-16 22:00:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US pending home sales index (June) 72.5; prior revised to 76.6 from 76.8."
+    },
+    {
+      "id": "mkt:019f6b3a-25dc-7aab-8dca-ba209e9dcae9",
+      "time": "2026-07-16 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Business Inventories (MoM) (May) | actual 0.3% | consensus 0.3% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019f6b3a-255b-7aab-8dca-b29e66da36a7",
+      "time": "2026-07-16 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (Jun) | actual 72.5 | previous 76.8"
+    },
+    {
+      "id": "mkt:019f6b3a-2525-7aab-8dca-afae21f859a1",
+      "time": "2026-07-16 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Existing Home Sales (MoM) (Jun) | actual -5.4% | consensus -0.5% | previous 3.80%"
+    },
+    {
+      "id": "mkt:019f6b3a-2516-7aab-8dca-a485133a179c",
+      "time": "2026-07-16 22:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | NAHB Housing Market Index (Jul) | actual 34 | consensus 35 | previous 35"
+    },
+    {
+      "id": "4992601",
+      "time": "2026-07-16 21:59:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：在美國本土，左翼恐怖襲擊及相關謀劃活動的佔比已攀升至數十年來從未出現過的高位。"
+    },
+    {
+      "id": "te:markets:567591",
+      "time": "2026-07-16 21:59:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Hovers at $85 — Brent swung between gains and losses around the $85 level on Thursday, remaining at one-month highs as escalating hostilities in the Middle East continued to support prices and weigh on investor sentiment. Reports showed that Iranian government had asked Houthis to stand ready to close the Red Sea oil route should US forces carry out President Trump’s threat to target the country’s infrastructure next week if a diplomatic breakthrough is not achieved. The US intensified its strikes against Iran, reportedly targeting an oil tanker near the country's main export terminal for the first time since reimposing a blockade on the country's ports. In response, Iran launched attacks on US bases in Kuwait and Jordan. According to Reuters, tanker traffic through the Strait has fallen to two-month lows as the conflict has intensified. Only seven vessels transited the waterway on Wednesday, the first full day after the US reimposed its naval blockade on Iran, down from 13 the previous day."
+    },
+    {
+      "id": "mkt:019f6b39-ee52-7aab-8dca-9de0f4d35fdd",
+      "time": "2026-07-16 21:59:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Pakistan government says domestic petroleum product stocks are sufficient to meet national demand and future supplies have been secured."
+    },
+    {
+      "id": "4992600",
+      "time": "2026-07-16 21:59:33",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【7月16日增減持彙總】7月16日盤後，據不完全統計，雪龍集團、歐菲光、大地熊3家A股公司披露增持情況，首華燃氣披露擬減持情況。"
+    },
     {
       "id": "4992599",
       "time": "2026-07-16 21:59:17",
