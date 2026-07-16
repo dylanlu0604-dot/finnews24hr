@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-17 03:54:22",
-  "count": 18780,
+  "updated": "2026-07-17 03:58:16",
+  "count": 18783,
   "items": [
+    {
+      "id": "mkt:019f6c80-b5b5-7aab-8dd0-7b7fff68538f",
+      "time": "2026-07-17 03:56:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian Vice President ALCKMIN said the government will decide at an appropriate time how to apply the reciprocity law approved by Congress."
+    },
+    {
+      "id": "4992924",
+      "time": "2026-07-17 03:56:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西副總統：政府將擇機決定如何適用國會透過的對等貿易法案。"
+    },
+    {
+      "id": "mkt:019f6c7f-ba76-7aab-8dd0-75bb59000102",
+      "time": "2026-07-17 03:55:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil Vice‑President Alckmin said U.S. tariffs are unfair and unreasonable, that Brazil runs a trade surplus with the U.S., Brazil's average tariff on U.S. goods is 3.1% and 75% of U.S. exports to Brazil face zero tariffs. He said U.S. positions in the Section 301 investigation lack a factual basis."
+    },
+    {
+      "id": "4992923",
+      "time": "2026-07-17 03:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海軍：白宮直升機坪將改造，避免直升機灼燒草坪。"
+    },
+    {
+      "id": "4992922",
+      "time": "2026-07-17 03:54:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西副總統：美國依據 301 條款調查提出的相關指控缺乏事實依據。"
+    },
+    {
+      "id": "4992921",
+      "time": "2026-07-17 03:54:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：伊朗布什爾市傳出爆炸聲】據伊朗邁赫爾通訊社16日報道，伊朗西南部布什爾市傳出兩聲爆炸聲，當地政府認為爆炸聲系美軍行動所致。（新華社）"
+    },
     {
       "id": "4992920",
       "time": "2026-07-17 03:53:37",
@@ -172649,30 +172697,6 @@
         "公司"
       ],
       "text": "市場訊息：Cursor公司正開發一款人工智慧代理，對標Claude 3 Opus複製。"
-    },
-    {
-      "id": "4979711",
-      "time": "2026-07-10 03:56:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理辦公室宣告： 內塔尼亞胡總理與特朗普總統持續保持溝通，二人於今晚再次通電話，雙方同意兩國在多條戰線持續開展協同行動。特朗普總統向總理通報了美國在海灣地區採取的相關行動。以色列總理則提及埃爾多安及其幕僚發表諸多否定以色列國家生存權的激烈言論，並強調需沿以色列邊境設立安全緩衝區。"
-    },
-    {
-      "id": "4979710",
-      "time": "2026-07-10 03:56:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列總理內塔尼亞胡與特朗普總統通話“以協調在各個領域的行動”，以色列總理辦公室表示。特朗普向內塔尼亞胡通報了美國針對伊朗的行動。"
-    },
-    {
-      "id": "mkt:019f4873-0144-7aab-8d20-e6c04dc6e706",
-      "time": "2026-07-10 03:55:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israeli Prime Minister's Office said Prime Minister Netanyahu and US President Trump spoke by phone and agreed to continue coordination across multiple areas."
     }
   ]
 }
