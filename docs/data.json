@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-17 02:25:23",
-  "count": 18807,
+  "updated": "2026-07-17 02:29:20",
+  "count": 18809,
   "items": [
+    {
+      "id": "4992868",
+      "time": "2026-07-17 02:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗南部阿巴斯港的多個區域遭“美國炮彈”襲擊。"
+    },
+    {
+      "id": "mkt:019f6c2d-5409-7aab-8dcf-9f051e7b988c",
+      "time": "2026-07-17 02:25:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【U.S. conducts strikes against Iran for fifth consecutive night】CENTCOM said U.S. forces began a new round of strikes against Iran at 2:00 p.m. EDT on Thursday (02:00 Beijing time Friday), the fifth consecutive night of strikes, aimed at further degrading Iran’s military capabilities."
+    },
+    {
+      "id": "4992867",
+      "time": "2026-07-17 02:25:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗阿巴斯港西部地區發生爆炸。"
+    },
+    {
+      "id": "te:markets:567634",
+      "time": "2026-07-17 02:25:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Plunges by 7.51% — Top commodity losers are Cocoa (-7.51%), Coffee (-3.92%) and Sugar (-2.96%). Gains are led by Rubber (0.55%)."
+    },
     {
       "id": "4992866",
       "time": "2026-07-17 02:24:38",
@@ -172877,25 +172917,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Bitcoin Increases by 1.67% — Today's cryptos market is characterized by modest daily movements, with Bitcoin standing out as the frontrunner with a 1.67% increase."
-    },
-    {
-      "id": "4979638",
-      "time": "2026-07-10 02:27:25",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國Kospi指數失去全球最佳股市寶座，被奈及利亞超越】隨著市場對人工智慧（AI）股票的情緒降溫，將亞洲國家此前的領漲行情推入熊市，奈及利亞股市今年為投資者提供了最高的美元計價回報，超越了韓國。根據彭博追蹤的全球92家證券交易所資料，作為非洲最大石油生產國的奈及利亞，其基準指數今年以美元計價上漲了68%，超過了韓國Kospi指數66%的漲幅。奈及利亞股市的上漲主要由金融服務類公司引領，自1月份以來奈拉昇值了4%。此外，標普道瓊斯指數公司正考慮將奈及利亞升級為前沿市場（frontier-market）地位，這可能進一步增加其對投資者的吸引力。"
-    },
-    {
-      "id": "4979637",
-      "time": "2026-07-10 02:25:29",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行行長拉加德談論法國大選：我不是任何（職位的）候選人。"
     }
   ]
 }
