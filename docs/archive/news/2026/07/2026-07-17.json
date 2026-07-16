@@ -1,7 +1,61 @@
 {
   "date": "2026-07-17",
-  "count": 396,
+  "count": 402,
   "items": [
+    {
+      "id": "4992966",
+      "time": "2026-07-17 05:00:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：Grok 4.5 現已登陸 Grok Build、Cursor 以及 xAI 控制檯。"
+    },
+    {
+      "id": "te:markets:567650",
+      "time": "2026-07-17 04:59:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Miners and Banks Weigh — The S&P/TSX Composite Index fell 0.2% to close at 35,340, weighed down by mining and banking stocks. Gold prices dropped as escalating tensions in the Middle East pushed oil prices higher, fueling concerns that inflation could keep interest rates elevated for longer. Agnico Eagle fell 3.6%, WPM lost 4%, and Barrick shed 3%. Financials also weakened, with RBC down 0.8%, TD Bank losing 0.7%, BMO slipping 0.5%, and Scotiabank retreating 0.7%. Energy shares outperformed on higher crude prices, with Tourmaline Oil gaining 1.5%. Elsewhere, TFI International jumped 7.3% after a Scotiabank rating upgrade. Investors also monitored USMCA developments after US Trade Representative Jamieson Greer said trade talks with Mexico were progressing, while negotiations with Canada remained stalled."
+    },
+    {
+      "id": "4992965",
+      "time": "2026-07-17 04:59:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "xAI：自動化功能已在 Grok 官網，以及 iOS、安卓平臺的 Grok 客戶端上線。"
+    },
+    {
+      "id": "4992964",
+      "time": "2026-07-17 04:58:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "XAI 將為 Grok 上線自動化功能。"
+    },
+    {
+      "id": "4992963",
+      "time": "2026-07-17 04:58:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "盤後可口可樂公司股價下跌 1.4%；公司披露 Fairlife 業務遭遇技術系統故障。"
+    },
+    {
+      "id": "4992962",
+      "time": "2026-07-17 04:57:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "奈飛：公司預計今年內容投入將上漲 10%。"
+    },
     {
       "id": "mkt:019f6cb7-f930-7aab-8dd1-42a97c30c167",
       "time": "2026-07-17 04:57:03",
