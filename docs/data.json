@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-17 00:43:22",
-  "count": 18749,
+  "updated": "2026-07-17 00:47:33",
+  "count": 18747,
   "items": [
+    {
+      "id": "4992769",
+      "time": "2026-07-17 00:46:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖顧問：對基礎設施的襲擊將危及地區能源供應】當地時間16日，伊朗最高領袖顧問穆赫貝爾在社交媒體上發文警告稱，近期發生在阿瓦士和伊朗沙赫爾的襲擊，與此前針對米納卜一所學校的襲擊屬於同一行動脈絡，目標均為平民。穆赫貝爾表示，支援相關襲擊行動的各方應認識到，針對伊朗安全和基礎設施的攻擊，可能導致整個地區能源供應鏈遭到破壞。他稱，襲擊伊朗基礎設施將對地區能源安全造成嚴重後果。伊朗胡齊斯坦省副省長當地時間15日晚表示，該省首府阿瓦士周邊多地遭到美軍襲擊。有訊息稱，多枚炮彈擊中當地一家醫院附近區域。此外，伊朗錫斯坦-俾路支斯坦省副省長當地時間9日證實，伊朗沙赫爾機場當天凌晨遭到襲擊，一名消防員在襲擊中身亡。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6bd0-6bd3-7aab-8dcd-79f725d03678",
+      "time": "2026-07-17 00:44:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s Mehr News Agency reported a US strike near Bandar Abbas; Hormozgan provincial government said there were no casualties or property damage."
+    },
     {
       "id": "te:economy:567628",
       "time": "2026-07-17 00:41:51",
@@ -172338,38 +172354,6 @@
         "Importance 2"
       ],
       "text": "US Stocks Rebound — US stocks gained traction on Thursday amid gains for chip producers and an improvement in credit conditions. The S&P 500 rose 0.5% and the Nasdaq 100 gained 1.3%, while the Dow rose 200 points. Memory chip producers were sharply higher as markets reconsidered the speculative outlook of AI infrastructure manufacturers. These were magnified by the introduction of SK Hynix ADRs tomorrow, the world's largest memory producer, with reports stating the receipts are seven times oversubscribed. Micron and Sandisk were 7% up. Meanwhile, oil prices and bond yields eased amid evidence that laden tankers continued to cross the Strait of Hormuz despite fresh attacks between the US and Iran. This supported the financial sector with Morgan Stanley, Goldman Sachs, and American Express, adding around 3% each. Meanwhile, Meta rebounded from early losses to a 2% gain after announcing it will target production of its own AI chip by September."
-    },
-    {
-      "id": "mkt:019f47c6-2cfa-7aab-8d1e-184d4cb35810",
-      "time": "2026-07-10 00:46:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Belgian prime minister said the US remains NATO's most important partner and that this will not change because of a single president's criticism."
-    },
-    {
-      "id": "4979586",
-      "time": "2026-07-10 00:45:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "比利時首相就伊朗問題表態： 我認為採取行動阻止伊朗研發核武器是合理之舉。 當然，此次軍事行動的策劃與執行是否妥當，則另當別論。 目前局勢進展顯然並不順利。"
-    },
-    {
-      "id": "4979585",
-      "time": "2026-07-10 00:44:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "比利時首相：我國國防開支已提升 60%，增幅在所有北約成員國中位居首位。 誠然我們此前國防投入基數偏低，但如今已達成 2% 的軍費目標。"
-    },
-    {
-      "id": "4979584",
-      "time": "2026-07-10 00:44:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理卡尼：沙特對能源、礦業投資感興趣。"
     }
   ]
 }
