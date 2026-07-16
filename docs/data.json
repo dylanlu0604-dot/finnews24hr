@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-17 05:37:09",
+  "updated": "2026-07-17 05:41:02",
   "count": 18781,
   "items": [
+    {
+      "id": "mkt:019f6cdf-7a70-7aab-8dd1-899333b0b1da",
+      "time": "2026-07-17 05:40:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【US strikes airports, bridges and rail hubs in parts of Iran】According to Chinese state TV, US forces struck multiple targets in southern and southeastern Iran, hitting Bandar Abbas port and its rail junction, Iranshahr airport in Sistan-and-Baluchestan province, and bridges in Hormozgan province. The strike on Bandar Abbas damaged a communications tower and caused partial power outages; the port's rail junction was hit, injuring two. US warplanes launched missile strikes on Iranshahr airport, with residents reporting three loud explosions. Hormozgan provincial authorities said two bridges — including at Bandar-e Khamir — were struck, killing two and wounding four."
+    },
     {
       "id": "4992977",
       "time": "2026-07-17 05:35:21",
@@ -172689,14 +172702,6 @@
         "XAUUSD"
       ],
       "text": "【Trump resumes strikes on Iran; Republicans warn midterm, oil-price risks】Trump said the ceasefire ended after Iran continued attacks on vessels in the Strait of Hormuz. U.S. forces struck at least 170 Iranian military targets within 48 hours, and Iran launched counterattacks on U.S. bases. Some Republican lawmakers warned escalation could push up oil prices, add economic pressure and damage GOP prospects in this year’s midterms — one House Republican said, \"He’s pushing us toward political destruction.\" Party hawks support continuing military action; Rep. Don Bacon said the U.S. should remain tough until Iran seeks peace. Congress has also requested details on how the administration will use a $67 billion wartime supplemental funding request."
-    },
-    {
-      "id": "4979777",
-      "time": "2026-07-10 05:37:23",
-      "tags": [
-        "觀點"
-      ],
-      "text": "知情人士稱，軟體生產商CCC正與摩根士丹利合作推進出售事宜."
     }
   ]
 }

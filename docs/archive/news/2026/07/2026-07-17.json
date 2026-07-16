@@ -1,7 +1,20 @@
 {
   "date": "2026-07-17",
-  "count": 422,
+  "count": 423,
   "items": [
+    {
+      "id": "mkt:019f6cdf-7a70-7aab-8dd1-899333b0b1da",
+      "time": "2026-07-17 05:40:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【US strikes airports, bridges and rail hubs in parts of Iran】According to Chinese state TV, US forces struck multiple targets in southern and southeastern Iran, hitting Bandar Abbas port and its rail junction, Iranshahr airport in Sistan-and-Baluchestan province, and bridges in Hormozgan province. The strike on Bandar Abbas damaged a communications tower and caused partial power outages; the port's rail junction was hit, injuring two. US warplanes launched missile strikes on Iranshahr airport, with residents reporting three loud explosions. Hormozgan provincial authorities said two bridges — including at Bandar-e Khamir — were struck, killing two and wounding four."
+    },
     {
       "id": "4992977",
       "time": "2026-07-17 05:35:21",
