@@ -1,7 +1,104 @@
 {
   "date": "2026-07-17",
-  "count": 120,
+  "count": 129,
   "items": [
+    {
+      "id": "mkt:019f6bf7-97f3-7aab-8dce-5c4fa9b21714",
+      "time": "2026-07-17 01:26:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Schmid says it's time to stop excluding food prices from core inflation measures."
+    },
+    {
+      "id": "mkt:019f6bf7-5dd3-7aab-8dce-56c2cd603ac5",
+      "time": "2026-07-17 01:26:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve official Schmid said inflation is a focus when setting monetary policy."
+    },
+    {
+      "id": "4992800",
+      "time": "2026-07-17 01:26:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員施密德：通脹過熱，高於目標的時間太久。"
+    },
+    {
+      "id": "mkt:019f6bf6-f4b5-7aab-8dce-4c8179c918ac",
+      "time": "2026-07-17 01:26:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Schmid: Labor market appears broadly stable. Inflation persists across a wide range of goods and services and remains 'concerning'."
+    },
+    {
+      "id": "4992799",
+      "time": "2026-07-17 01:26:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "施密德：持續的、廣泛的通貨膨脹令人擔憂。"
+    },
+    {
+      "id": "mkt:019f6bf6-bf7e-7aab-8dce-43d4bd7be8c7",
+      "time": "2026-07-17 01:26:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed official Schmid said recent inf data are encouraging, but it is too early to draw firm conclusions."
+    },
+    {
+      "id": "4992798",
+      "time": "2026-07-17 01:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "施密德：勞動力市場平衡，增長依然強勁。"
+    },
+    {
+      "id": "4992797",
+      "time": "2026-07-17 01:25:47",
+      "tags": [
+        "資料"
+      ],
+      "text": "施密德：6月份CPI資料令人鼓舞，但這只是一個單一的資料點。"
+    },
+    {
+      "id": "4992796",
+      "time": "2026-07-17 01:25:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：如果只關注供給衝擊，可能為時已晚，難以收緊政策。"
+    },
     {
       "id": "4992795",
       "time": "2026-07-17 01:22:42",

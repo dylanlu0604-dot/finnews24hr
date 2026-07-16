@@ -1,7 +1,104 @@
 {
-  "updated": "2026-07-17 01:23:38",
-  "count": 18750,
+  "updated": "2026-07-17 01:27:40",
+  "count": 18756,
   "items": [
+    {
+      "id": "mkt:019f6bf7-97f3-7aab-8dce-5c4fa9b21714",
+      "time": "2026-07-17 01:26:56",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Federal Reserve's Schmid says it's time to stop excluding food prices from core inflation measures."
+    },
+    {
+      "id": "mkt:019f6bf7-5dd3-7aab-8dce-56c2cd603ac5",
+      "time": "2026-07-17 01:26:41",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Federal Reserve official Schmid said inflation is a focus when setting monetary policy."
+    },
+    {
+      "id": "4992800",
+      "time": "2026-07-17 01:26:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲官員施密德：通脹過熱，高於目標的時間太久。"
+    },
+    {
+      "id": "mkt:019f6bf6-f4b5-7aab-8dce-4c8179c918ac",
+      "time": "2026-07-17 01:26:14",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Schmid: Labor market appears broadly stable. Inflation persists across a wide range of goods and services and remains 'concerning'."
+    },
+    {
+      "id": "4992799",
+      "time": "2026-07-17 01:26:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "施密德：持續的、廣泛的通貨膨脹令人擔憂。"
+    },
+    {
+      "id": "mkt:019f6bf6-bf7e-7aab-8dce-43d4bd7be8c7",
+      "time": "2026-07-17 01:26:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Fed official Schmid said recent inf data are encouraging, but it is too early to draw firm conclusions."
+    },
+    {
+      "id": "4992798",
+      "time": "2026-07-17 01:25:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "施密德：勞動力市場平衡，增長依然強勁。"
+    },
+    {
+      "id": "4992797",
+      "time": "2026-07-17 01:25:47",
+      "tags": [
+        "資料"
+      ],
+      "text": "施密德：6月份CPI資料令人鼓舞，但這只是一個單一的資料點。"
+    },
+    {
+      "id": "4992796",
+      "time": "2026-07-17 01:25:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：如果只關注供給衝擊，可能為時已晚，難以收緊政策。"
+    },
     {
       "id": "4992795",
       "time": "2026-07-17 01:22:42",
@@ -172362,30 +172459,6 @@
         "國際"
       ],
       "text": "提醒：美聯儲Logan並未置評FOMC貨幣政策或美國經濟前景。"
-    },
-    {
-      "id": "mkt:019f47e8-e6bb-7aab-8d1e-dcadef0020d5",
-      "time": "2026-07-10 01:24:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign minister Araghchi and Saudi foreign minister Faisal held a phone call to discuss regional developments and consult on the Middle East situation following recent U.S. action."
-    },
-    {
-      "id": "4979611",
-      "time": "2026-07-10 01:24:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國際足聯：英格蘭後衛寬薩因紅牌停賽兩場】當地時間7月9日，國際足聯紀律委員會宣佈對英格蘭隊後衛賈雷爾·寬薩作出處罰。寬薩在7月5日世界盃英格蘭隊對陣墨西哥隊的比賽中被紅牌罰下，其行為被認定違反《國際足聯紀律準則》第十四條，因此被處罰停賽兩場。根據國際足聯公告，寬薩的兩場禁賽將在英格蘭隊接下來的世界盃比賽中執行。這意味著他將無緣英格蘭隊的世界盃1/4決賽，如球隊晉級，還將缺席半決賽。（央視新聞）"
-    },
-    {
-      "id": "4979610",
-      "time": "2026-07-10 01:23:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西水利廳調整對各市洪水防禦應急響應級別】當前暴雨預警已解除，鬱江貴港段，西江梧州段洪水已出峰迴落。經綜合會商研判，廣西水利廳決定自7月9日18時對南寧市、貴港市的洪水防禦一級應急響應調整為二級應急響應，對梧州市、欽州市維持洪水防禦二級應急響應，其他市的洪水防禦二級應急響應均調整為三級應急響應。（央視新聞）"
     }
   ]
 }
