@@ -1,7 +1,47 @@
 {
   "date": "2026-07-17",
-  "count": 362,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:019f6c9a-6e62-7aab-8dd0-df90289cb4d0",
+      "time": "2026-07-17 04:24:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent met with the Iraqi prime minister on Tuesday."
+    },
+    {
+      "id": "te:markets:567645",
+      "time": "2026-07-17 04:23:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Finish in the Red — US stocks closed lower on Thursday, as weakness in the semiconductor sector and geopolitical risks overshadowed solid corporate results. The S&P 500 dropped 0.5% and the Nasdaq 100 lost 1.5%, while the Dow fell 0.2%. Investors are increasingly questioning whether current valuations of AI-driven chipmakers still justify the highly optimistic growth expectations surrounding the industry. Micron Technology and AMD tumbled more than 5% each. SanDisk slipped over 12% and Broadcom shed about 5%, while US-listed shares of SK Hynix plunged more than 13%. The selling spread across Big Tech, with Alphabet falling over 4% amid reports that it had postponed the release of its most advanced AI model, Gemini 3.5 Pro. Meta Platforms, Nvidia, and Amazon also posted losses. Meanwhile, UnitedHealth topped earnings estimates and issued a stronger-than-expected 2026 earnings outlook. Netflix posted quarterly revenue of $12.56 billion, a 13% increase from a year earlier, just shy of estimates."
+    },
+    {
+      "id": "mkt:019f6c98-fbce-7aab-8dd0-d44422c5682e",
+      "time": "2026-07-17 04:23:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian media outlet Fars News reported the US struck a bridge in the Iranian port city of Hamir."
+    },
+    {
+      "id": "4992946",
+      "time": "2026-07-17 04:21:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉官員：預計石油產量到年底將達140萬桶/日。"
+    },
     {
       "id": "4992945",
       "time": "2026-07-17 04:21:01",

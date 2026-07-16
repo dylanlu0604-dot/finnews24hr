@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-17 04:21:40",
-  "count": 18792,
+  "updated": "2026-07-17 04:25:29",
+  "count": 18784,
   "items": [
+    {
+      "id": "mkt:019f6c9a-6e62-7aab-8dd0-df90289cb4d0",
+      "time": "2026-07-17 04:24:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Treasury Secretary Bessent met with the Iraqi prime minister on Tuesday."
+    },
+    {
+      "id": "te:markets:567645",
+      "time": "2026-07-17 04:23:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Finish in the Red — US stocks closed lower on Thursday, as weakness in the semiconductor sector and geopolitical risks overshadowed solid corporate results. The S&P 500 dropped 0.5% and the Nasdaq 100 lost 1.5%, while the Dow fell 0.2%. Investors are increasingly questioning whether current valuations of AI-driven chipmakers still justify the highly optimistic growth expectations surrounding the industry. Micron Technology and AMD tumbled more than 5% each. SanDisk slipped over 12% and Broadcom shed about 5%, while US-listed shares of SK Hynix plunged more than 13%. The selling spread across Big Tech, with Alphabet falling over 4% amid reports that it had postponed the release of its most advanced AI model, Gemini 3.5 Pro. Meta Platforms, Nvidia, and Amazon also posted losses. Meanwhile, UnitedHealth topped earnings estimates and issued a stronger-than-expected 2026 earnings outlook. Netflix posted quarterly revenue of $12.56 billion, a 13% increase from a year earlier, just shy of estimates."
+    },
+    {
+      "id": "mkt:019f6c98-fbce-7aab-8dd0-d44422c5682e",
+      "time": "2026-07-17 04:23:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian media outlet Fars News reported the US struck a bridge in the Iranian port city of Hamir."
+    },
+    {
+      "id": "4992946",
+      "time": "2026-07-17 04:21:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉官員：預計石油產量到年底將達140萬桶/日。"
+    },
     {
       "id": "4992945",
       "time": "2026-07-17 04:21:01",
@@ -172675,108 +172715,6 @@
         "LMT.O"
       ],
       "text": "U.S. White House: Commerce Secretary has determined the U.S. aviation industry is overly dependent on foreign supply chains."
-    },
-    {
-      "id": "4979736",
-      "time": "2026-07-10 04:25:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將持續監控商用飛機及噴氣發動機進口情況。"
-    },
-    {
-      "id": "mkt:019f488e-510a-7aab-8d21-4f57a39e024d",
-      "time": "2026-07-10 04:25:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House said the Commerce secretary has determined the US aerospace industry faces challenges and is unlikely to fully meet economic and national-security needs."
-    },
-    {
-      "id": "4979735",
-      "time": "2026-07-10 04:25:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮表示，美國商務部長認定美國航空製造業目前在充分滿足經濟與國家安全需求方面面臨挑戰。"
-    },
-    {
-      "id": "4979734",
-      "time": "2026-07-10 04:24:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：需透過談判調整商用飛機進口事宜。"
-    },
-    {
-      "id": "mkt:019f488e-06f5-7aab-8d21-40f1f6a566bc",
-      "time": "2026-07-10 04:24:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "White House to adjust import policy for commercial aircraft, jet engines and aircraft and engine parts."
-    },
-    {
-      "id": "4979733",
-      "time": "2026-07-10 04:23:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗科納拉克市長表示，相關部門已立即趕赴襲擊現場，目前正在調查事件規模及具體細節。"
-    },
-    {
-      "id": "4979732",
-      "time": "2026-07-10 04:23:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：正調整商用飛機、噴氣發動機以及飛機和發動機零部件的對美進口規則。"
-    },
-    {
-      "id": "mkt:019f488c-ab76-7aab-8d21-3f2c1c3b89d8",
-      "time": "2026-07-10 04:23:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Jazeera reported the mayor of Konarak, Iran, said authorities rushed to the attack site and are investigating the scale and details of the incident."
-    },
-    {
-      "id": "te:markets:565795",
-      "time": "2026-07-10 04:23:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Finish Higher — US stocks closed higher on Thursday, with the S&P 500 rising 0.8%, the Nasdaq advancing 1.3%, and the Dow Jones adding 139 points. Renewed strength in chipmakers helped offset uncertainty surrounding the economic outlook. Sentiment towards AI-linked stocks has been volatile lately amid concerns over high valuations, but was buoyed by strong demand for SK Hynix's US share offering, which was more than seven times oversubscribed. Micron and Sandisk gained 5.2% and 7.6%, respectively, while Applied Materials rose 3.2%. At the same time, oil prices and bond yields eased amid signs of continued tanker traffic through the Strait of Hormuz despite renewed US-Iran hostilities. This provided a boost to the financial sector, with Morgan Stanley (1.9%), Goldman Sachs (2.6%) and American Express (3.1%) all rising. Meta surged 4% after announcing it will target production of its own AI chip by September."
-    },
-    {
-      "id": "4979731",
-      "time": "2026-07-10 04:22:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "白宮釋出關於飛機及噴氣發動機進口的公告。"
-    },
-    {
-      "id": "mkt:019f488b-6536-7aab-8d21-30d7de8a6f73",
-      "time": "2026-07-10 04:22:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Netanyahu, Trump agree to maintain bilateral policy coordination in phone call】On the evening of the 9th local time, Israel’s Prime Minister’s Office said Prime Minister Netanyahu spoke by phone with US President Trump and the two agreed to continue policy coordination across all areas. The office said Trump briefed Netanyahu on recent US actions in the Gulf region."
-    },
-    {
-      "id": "4979730",
-      "time": "2026-07-10 04:21:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【內塔尼亞胡與特朗普通話 商定保持兩國政策協調】當地時間9日晚間，以色列總理辦公室發表宣告稱，以總理內塔尼亞胡當晚與美國總統特朗普通電話，雙方商定將繼續在各個領域保持兩國間的政策協調。宣告表示，特朗普在通話中向內塔尼亞胡通報了美方在海灣地區的最新行動進展。（央視新聞）"
     }
   ]
 }
