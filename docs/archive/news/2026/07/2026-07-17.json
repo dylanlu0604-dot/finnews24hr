@@ -1,7 +1,50 @@
 {
   "date": "2026-07-17",
-  "count": 228,
+  "count": 232,
   "items": [
+    {
+      "id": "te:markets:567633",
+      "time": "2026-07-17 02:20:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Falls by 3.31% — Top commodity losers are Silver (-3.31%), Lithium Carbonate (-1.95%) and Gold (-1.78%)."
+    },
+    {
+      "id": "4992863",
+      "time": "2026-07-17 02:19:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科恩稱實體電子遊戲銷售對GME已“無關緊要”】遊戲驛站（GameStop）執行長瑞安·科恩駁斥了外界關於實體遊戲光碟走向消亡的擔憂。他堅稱這部分銷售在公司整體業務中僅佔很小一部分，並重申其長期戰略是專注於遊戲收藏品以及收購電商巨頭eBay。“這根本無關緊要，”科恩被問及索尼集團本月早些時候宣佈將於2028年停止生產PlayStation新遊戲實體光碟將如何影響其業務時如此回應。“這完全、完全無關緊要。”"
+    },
+    {
+      "id": "4992862",
+      "time": "2026-07-17 02:19:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【白宮稱伊朗仍在與美國對話】當地時間7月16日，白宮新聞秘書萊維特稱，伊朗仍在與美國對話，並表示希望與美國達成協議，因為他們正在遭受“毀滅性打擊”。此外，萊維特稱，美方近期的打擊行動源於伊朗違反了諒解備忘錄。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6c25-c11a-7aab-8dcf-86ebfc15fc20",
+      "time": "2026-07-17 02:17:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O",
+        "Impact bearish"
+      ],
+      "text": "【Google delays GEMINI 3.5 Pro release as model lags months behind schedule】Google’s rollout of flagship AI model GEMINI 3.5 Pro is reportedly months behind schedule as the company seeks to shore up capabilities, notably in code generation. The delay has triggered frustration among engineers, AI researchers and management, who warn it could cede competitive ground to ANTHROPIC and OpenAI. Multiple stakeholder layers and efforts to integrate the model across Search, Maps and YouTube are cited as contributing factors to the holdup."
+    },
     {
       "id": "4992861",
       "time": "2026-07-17 02:16:15",
