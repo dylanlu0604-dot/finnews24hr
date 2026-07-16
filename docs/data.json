@@ -1,7 +1,181 @@
 {
-  "updated": "2026-07-16 10:00:17",
-  "count": 18626,
+  "updated": "2026-07-16 10:04:21",
+  "count": 18630,
   "items": [
+    {
+      "id": "mkt:019f68aa-45ed-7aab-8db6-30549f1e8e1d",
+      "time": "2026-07-16 10:03:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China's Ministry of Education adds 27 vocational majors; enrollment from 2027】China's Ministry of Education approved 27 new vocational-education programs—nine higher-vocational (diploma) programs and 18 vocational bachelor programs—covering 14 major categories and 20 subcategories. The new programs will begin enrolling students in 2027. The additions are positioned to implement the national 15th Five-Year Plan and the Education Development 15th Five-Year Plan, support construction of a modern industrial system and higher-quality service-sector development, and precisely align talent training with new industries, new business models and new scenarios. Key targeted fields include the digital economy, low-altitude economy, artificial intelligence, high-end equipment, urban renewal and sectors facing urgent livelihood shortages."
+    },
+    {
+      "id": "te:markets:567365",
+      "time": "2026-07-16 10:03:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Climb Higher — The Hang Seng Index rose 1.3%, or 305 points, to 24,995 on Thursday, extending gains as investor sentiment improved following softer-than-expected US inflation data and optimism across global markets. The rally was supported by buying in financial, consumer, and technology stocks, while investors continued to rotate into Hong Kong-listed equities despite weaker-than-expected Chinese economic data. Market sentiment was buoyed after US producer prices unexpectedly fell in June, reinforcing expectations that inflation pressures are easing. However, investors remained cautious as crude oil extended gains after the United States launched fresh strikes on Iran, heightening concerns that escalating Middle East tensions could disrupt global energy supplies and keep inflationary pressures elevated. Notable gainers were Tencent (2.0%), Xiaomi (3.7%), Meituan (2.9%), AIA (1.1%), and Pop Mart International (4.4%)."
+    },
+    {
+      "id": "mkt:019f68aa-3bc6-7aab-8db6-2bda87b16907",
+      "time": "2026-07-16 10:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea expects strong economic growth next year, boosted by spillover effects from the chip sector."
+    },
+    {
+      "id": "4991174",
+      "time": "2026-07-16 10:03:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國檢察機關上半年起訴職務犯罪1.4萬人】最高人民檢察院7月16日釋出資料顯示，2026年1月至6月，全國檢察機關受理各級監委移送職務犯罪1.6萬人，起訴1.4萬人，同比分別上升17.6%和5.6%；堅持受賄行賄一起查，起訴行賄犯罪1410人。上半年，全國檢察機關起訴破壞社會主義市場經濟秩序犯罪5.8萬人；深化違規異地執法和趨利性執法司法專項監督，依法辦理案件1.1萬件，監督偵查機關撤案1060件，決定不起訴1324人，監督解除、返還違法查封、扣押、凍結財物8.5億元。據統計，上半年檢察機關起訴涉稅犯罪3485人，起訴損害商譽、強迫交易等犯罪4759人，起訴侵犯智慧財產權犯罪7500人。同時，檢察機關依法打擊金融證券領域違法犯罪，上半年起訴金融詐騙、破壞金融管理秩序犯罪1.3萬人，起訴財務造假、內幕交易、操縱市場、欺詐發行等證券犯罪240人，起訴洗錢犯罪1409人。"
+    },
+    {
+      "id": "mkt:019f68a9-87d2-7aab-8db6-21e6de344f6c",
+      "time": "2026-07-16 10:02:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "00981.HK",
+        "Impact bullish",
+        "09903.HK",
+        "03661.HK"
+      ],
+      "text": "Hong Kong semiconductor sector rallied off intraday lows. SMIC (00981.HK) rose over 2%; Tianshu Zhixin (09903.HK) gained over 3%. Other chip names including 03661.HK and 02577.HK also advanced."
+    },
+    {
+      "id": "4991173",
+      "time": "2026-07-16 10:02:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【教育部增設27個職業教育新專業 2027年開始招生】今天（16日），教育部發布新增補的27個職業教育本專科專業，其中，高職專科專業9個、職業本科專業18個，涉及14個專業大類，20個專業類。新增專業將於2027年開始招生。此次專業目錄增補緊扣國家“十五五”規劃綱要和《教育發展“十五五”規劃》部署，緊密圍繞建設現代化產業體系、促進服務業優質高效發展，精準對接新產業、新業態、新場景、新模式，錨定高技能人才培養，重點增設一批數字經濟、低空經濟、人工智慧、高階裝備、城市更新以及民生緊缺等領域專業。"
+    },
+    {
+      "id": "4991172",
+      "time": "2026-07-16 10:02:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瑞可達成立光子科技公司 含AI及積體電路業務】企查查APP顯示，近日，四川瑞輝光子科技有限公司成立，經營範圍包含：積體電路晶片設計及服務；積體電路晶片及產品製造；人工智慧行業應用系統整合服務；人工智慧硬體銷售；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由瑞可達全資持股。"
+    },
+    {
+      "id": "4991171",
+      "time": "2026-07-16 10:02:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：得益於晶片行業的溢位效應，明年經濟增長預計將保持強勁。"
+    },
+    {
+      "id": "4991170",
+      "time": "2026-07-16 10:02:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華為昇騰概念震盪反彈 恆為科技直線漲停】早盤華為昇騰概念震盪反彈，恆為科技直線漲停，神州數碼、真視通、銀信科技、雲天勵飛、眾誠科技跟漲。"
+    },
+    {
+      "id": "te:markets:567364",
+      "time": "2026-07-16 10:01:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Shanghai Stocks Hit Over 3-Month Low — The Shanghai Composite dropped 1.1% to a more than three-month low of 3,912 on Thursday, while the Shenzhen Component slid 1.6% to 14,548, pressured by a broad selloff in technology shares. The sector came under renewed pressure as investors reassessed the sustainability of the AI-driven rally, with concerns mounting over whether robust earnings growth can continue to justify elevated valuations. Chinese tech and chipmakers led the declines, including Cambricon Technologies (-4.5%), SMIC (-4.6%), Zhongji Innolight (-1.2%), Eoptolink Technology (-2.3%), and NAURA Technology (-4.1%). Risk sentiment was further dampened by data showing that China's GDP grew at its slowest pace since Q4 2022 and fell below the government's 2026 growth target range of 4.5%-5%. In response, the PBOC pledged stronger policy support in the second half of the year, signaling flexibility to use tools such as RRR cuts and reverse repos while keeping the seven-day reverse repo rate as its key policy benchmark."
+    },
+    {
+      "id": "mkt:019f68a8-b0fe-7aab-8db6-1b3be365c88c",
+      "time": "2026-07-16 10:01:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share semiconductor sector rallied; Rockchip hit the daily limit and Awinic rose over 15%. Shengke Communication, Anlu Technology, Sai Microelectronics, Espressif and Allwinner also advanced."
+    },
+    {
+      "id": "4991169",
+      "time": "2026-07-16 10:01:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏回族自治區吳忠市委原常委、政法委原書記陳宏接受審查調查】據寧夏回族自治區紀委監委訊息：寧夏回族自治區吳忠市委原常委、政法委原書記陳宏涉嫌嚴重違紀違法，目前正接受寧夏回族自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "mkt:019f68a8-a755-7aab-8db6-1436253665f2",
+      "time": "2026-07-16 10:01:51",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Copper",
+        "CSI300"
+      ],
+      "text": "【National logistics hubs' average cargo throughput up 5.5% YoY in 2025】The China Federation of Logistics and Purchasing (CFLP) said in its National Logistics Hub Innovation Development Report (2026) that average cargo throughput at designated national logistics hubs rose 5.5% YoY in 2025, 2.3ppt faster than the national freight volume average. Infrastructure gaps narrowed: about 80% of hubs now have rail yards or dedicated lines, with rail access at 97.2% of inland-port hubs and 89.7% of port-type hubs. Rail integration strengthened—71.3% of hubs operate rail freight services and the number of hub trains increased 7.4% YoY; port-type hubs operate more than 2,700 freight shipping routes. China has designated 181 national logistics hubs across seven batches, covering roughly 79% of the planned network."
+    },
+    {
+      "id": "4991168",
+      "time": "2026-07-16 10:01:39",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行：預計第二季度GDP增速將高於此前預測的0.2%。"
+    },
+    {
+      "id": "4991167",
+      "time": "2026-07-16 10:01:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "【三大指數跌幅收窄 消費電子、減速器概念等漲幅居前】三大指數集體回升，跌幅均收窄至1%以內，滬指跌0.6%，深證成指跌0.32%，創業板指跌0.55%。消費電子、減速器等概念漲幅居前。"
+    },
+    {
+      "id": "4991166",
+      "time": "2026-07-16 10:00:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【半導體板塊走高，瑞芯微漲停】半導體板塊走高，瑞芯微漲停，艾為電子漲超15%，盛科通訊、安路科技、賽微微電、樂鑫科技、全志科技跟漲。"
+    },
+    {
+      "id": "4991165",
+      "time": "2026-07-16 10:00:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年國家物流樞紐平均貨物吞吐量同比增長5.5%】中國物流與採購聯合會今天（16日）釋出《國家物流樞紐創新發展報告（2026）》。根據報告，國家物流樞紐建設運營取得了明顯的成效，發展向新向優，彰顯了蓬勃活力。據介紹，2025年國家物流樞紐平均貨物吞吐量同比增長5.5%，增速高於全國貨運量平均水平2.3個百分點。設施短板加快補齊，近八成樞紐建有鐵路場站或專用線，陸港型、港口型樞紐鐵路接入比例分別達到97.2%、89.7%。樞紐資源集聚能力持續增強，在全國物流網路中佔據主導地位。71.3%的樞紐開行了鐵路貨運班列；樞紐班列開行數量同比增長7.4%。港口型樞紐共開行貨運航線超2700條。產業鏈上下游企業加速集聚，樞紐深度嵌入產業鏈供應鏈，商貿流通與進出口功能顯著增強，生產服務型、商貿服務型樞紐平均商品交易額同比增長10.1%。科技創新賦能樞紐升級，數字化、智慧化普及應用提速。2025年，超九成樞紐應用智慧設施裝置，無人閘口、智慧排程、自動化作業場景廣泛落地。綠色低碳轉型步伐加快，2025年，超七成樞紐配備新能源載貨汽車，半數以上樞紐使用可再生能源發電，綠色物流、低碳運營成為行業新風向。據介紹，截至目前，我國累計釋出了7批、181個國家物流樞紐，約佔規劃佈局總數的79%。"
+    },
+    {
+      "id": "4991164",
+      "time": "2026-07-16 09:59:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克和敘利亞將合修跨國石油管道】美國政府知情官員14日披露，伊拉克和敘利亞將重修一條荒廢多年的石油管道，把伊拉克北部油田生產的石油運輸到敘利亞地中海港口，從而避開霍爾木茲海峽。這條輸油管道原建於1952年，東起伊拉克基爾庫克，西至敘利亞巴尼亞斯，全長約800公里，輸油能力為日均30萬桶。這條管道在兩伊戰爭和伊拉克戰爭中受到嚴重損壞，長期被棄用。（新華社）"
+    },
     {
       "id": "4991163",
       "time": "2026-07-16 09:59:31",
@@ -171139,135 +171313,6 @@
         "公司"
       ],
       "text": "【貴州磷化（集團）有限責任公司原黨委書記、董事長何光亮接受紀律審查和監察調查】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：貴州磷化（集團）有限責任公司原黨委書記、董事長何光亮涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4977983",
-      "time": "2026-07-09 10:04:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐將LG電子目標價從180,000韓元上調至280,000韓元。"
-    },
-    {
-      "id": "4977982",
-      "time": "2026-07-09 10:03:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國KOSPI指數漲幅收窄至0.2%，此前一度漲超4%。"
-    },
-    {
-      "id": "mkt:019f449d-24bf-7aab-8d05-534e0d974574",
-      "time": "2026-07-09 10:02:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Iran parliament speaker: If US strikes, Iran will retaliate】Iran's parliament speaker Mohammad Bagher Ghalibaf posted on social media on the 9th, saying the US has yet to learn that bullying and betrayal are no longer \"zero-cost.\" He said the Strait of Hormuz will be open only under \"Iran's arrangement, not US threats.\" He added: \"You dare strike, I will strike back. Stop vainly waving your fists, or you will only sink deeper.\""
-    },
-    {
-      "id": "mkt:019f449c-cf10-7aab-8d05-4c599ecddf34",
-      "time": "2026-07-09 10:02:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China's three main A-share indexes rallied intraday before reversing into losses; more than 3,000 A-share stocks declined."
-    },
-    {
-      "id": "4977981",
-      "time": "2026-07-09 10:02:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "三大指數全線翻綠，能源金屬、培育鑽石、電池板塊跌幅居前。"
-    },
-    {
-      "id": "4977980",
-      "time": "2026-07-09 10:02:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長：美國敢打 伊朗就還擊】伊朗伊斯蘭議會議長卡利巴夫9日在社交媒體發文說，美國仍未明白，霸凌和背信棄義已不再是“零成本”的事。霍爾木茲海峽只有在“伊朗的安排而非美國的威脅”下才能開放。他寫道：“你敢打，我就還擊。別再徒勞揮舞拳頭，否則只會陷得更深。”（新華社）"
-    },
-    {
-      "id": "mkt:019f449c-55ac-7aab-8d05-47080edad30b",
-      "time": "2026-07-09 10:02:03",
-      "tags": [
-        "MKT News",
-        "03752.HK",
-        "Impact bullish"
-      ],
-      "text": "Luoshi Robotics (03752.HK) gained more than 10% on its first day of trading in Hong Kong."
-    },
-    {
-      "id": "4977979",
-      "time": "2026-07-09 10:01:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【Capital Power與Meta簽署長期能源供應協議】7月8日，一份宣告顯示，Capital Power Corporation已與Meta簽署一份長期能源供應協議，將為Meta位於艾伯塔省斯特金縣的資料中心提供250兆瓦的容量和電力。 該專案預計將於2028年下半年投入使用。"
-    },
-    {
-      "id": "4977978",
-      "time": "2026-07-09 10:01:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本東京6月寫字樓空置率降至1.99%。"
-    },
-    {
-      "id": "4977977",
-      "time": "2026-07-09 10:01:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼股市基準指數開盤下跌0.1%，至5865.77點。"
-    },
-    {
-      "id": "mkt:019f449b-8511-7aab-8d05-3ff64873dbce",
-      "time": "2026-07-09 10:01:10",
-      "tags": [
-        "MKT News",
-        "DXY"
-      ],
-      "text": "South Korea's finance ministry said the government issued €1.7 billion of foreign-exchange stabilization bonds at historically low spreads."
-    },
-    {
-      "id": "4977976",
-      "time": "2026-07-09 10:00:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公安部部署開展“平安原野—2026”專項行動】從公安部獲悉，近日，公安部下發通知，部署全國公安機關自今年6月底至12月開展“平安原野—2026”專項行動，持續依法嚴厲打擊危害鳥類等野生動物犯罪活動，堅決斬斷黑灰產業鏈，推動綜合治理，切實築牢生態安全屏障，促進人與自然和諧共生。通知要求，要充分發揮公安機關職能作用，聚焦重點區域、部位，廣闢線索來源，強化研判分析，不斷提升精準打擊能力。要強力破案攻堅，突出打擊重點，聚焦涉槍涉無人機非法狩獵、涉網“野味餐飲”等問題，對危害鳥類等野生動物犯罪重拳出擊、露頭就打。要緊盯案件偵辦，對獵捕、收購、分銷等環節進行全鏈條打擊，堅決摧毀犯罪網路。要對團伙化、跨區域案件進行叢集打擊，實現“辦理一案、震懾一片、淨化一域”。要會同有關部門排查梳理一批隱患集中、問題突出的地區、行業，堅決整治黑灰產業鏈。要加強國際執法合作，依法嚴厲打擊跨國（境）危害野生動物犯罪，促進全球治理。"
-    },
-    {
-      "id": "4977975",
-      "time": "2026-07-09 10:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國發行17億歐元外匯穩定債券。"
-    },
-    {
-      "id": "mkt:019f449a-c7bb-7aab-8d05-3638d9f9782e",
-      "time": "2026-07-09 10:00:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US Fifth Fleet, based in Bahrain, was again targeted in an attack."
     }
   ]
 }
