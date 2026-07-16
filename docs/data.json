@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-16 18:04:31",
-  "count": 18828,
+  "updated": "2026-07-16 18:08:27",
+  "count": 18830,
   "items": [
+    {
+      "id": "4992080",
+      "time": "2026-07-16 18:06:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國醫療隊在盧安達設立第二個中醫診療中心】中國援盧安達醫療隊15日在盧東方省基本戈醫院正式設立中醫診療中心。這是中國醫療隊在盧安達開設的第二個中醫診療中心，也是首都基加利之外的首箇中醫診療中心。（新華社）"
+    },
+    {
+      "id": "4992079",
+      "time": "2026-07-16 18:06:34",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將戴爾目標股價從500美元上調至550美元。"
+    },
+    {
+      "id": "4992078",
+      "time": "2026-07-16 18:06:25",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【月之暗面將釋出新模型】人工智慧初創公司月之暗面將推出新模型，其能力接近美國前沿人工智慧實驗室、如Anthropic開發的模型，顯示中美兩國在最先進人工智慧領域的差距正不斷縮小。據兩名知情人士透露，月之暗面計劃在未來幾天內釋出Kimi K3，該模型引數規模達2萬億至3萬億。Anthropic尚未披露旗下模型的引數規模，但業內人士普遍推測，Opus 4.8擁有約1.5萬億至2萬億個引數。知情人士表示，按照主流評測基準，K3預計將超越Opus 4.8的表現，並將以所謂“開放權重”（open-weight）模型的形式免費提供下載，這也將對Anthropic和OpenAI等美國人工智慧實驗室形成重大挑戰。這些公司的高成本前沿模型目前仍採用閉源方式。"
+    },
+    {
+      "id": "4992077",
+      "time": "2026-07-16 18:05:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將康寧目標價從185美元上調至200美元。"
+    },
+    {
+      "id": "4992076",
+      "time": "2026-07-16 18:05:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【馬應龍：1.10萬股限售股將於7月22日上市流通】馬應龍公告稱，本次為公司第九次安排股改形成的有限售條件流通股上市，申請解限股東為江耀祖、吳玲玲等6人及公司，申請解除限售股份合計10,950股，佔公司股份總數的0.0026%。本次限售流通股上市流通日為2026年7月22日，解限後相關股東均無剩餘限售股。保薦機構核查認為，本次股改限售股上市流通符合相關要求。"
+    },
+    {
+      "id": "4992075",
+      "time": "2026-07-16 18:04:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將思科目標價從120美元上調至145美元。"
+    },
+    {
+      "id": "4992074",
+      "time": "2026-07-16 18:04:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部礦業：2026年第二次臨時股東會透過子公司增資及探礦權轉讓議案】西部礦業公告稱，2026年7月16日，公司2026年第二次臨時股東會在青海省西寧市召開。出席會議的股東所持有表決權股份數佔公司有表決權股份總數的45.8348%。會議以現場投票與網路投票結合的方式，審議透過了關於公司控股子公司對其全資子公司增資並將持有的勘查探礦權轉讓至該全資子公司的議案，A股股東同意比例為99.9324%，5%以下股東同意比例為99.7666%。青海樹人律師事務所見證本次股東會合法有效。"
+    },
+    {
+      "id": "4992073",
+      "time": "2026-07-16 18:04:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曲江文旅：控股股東100萬股公司股票擬於8月被拍賣】曲江文旅公告稱，控股股東西安曲江旅遊投資(集團)有限公司持有公司26.02%股份。杭州市上城區人民法院將於2026年8月13日10時至8月14日10時，對其持有的100萬股公司無限售流通股進行公開拍賣，佔其持股數的1.51%，佔公司總股本的0.39%，該部分股份目前已被凍結。本次拍賣不會影響公司生產經營，也不會導致控股股東及實控人變更。旅投集團正與浙銀租賃溝通，將及時披露進展。"
+    },
+    {
+      "id": "mkt:019f6a62-58de-7aab-8dc5-20a892e318d0",
+      "time": "2026-07-16 18:04:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【FT: Moonshot AI to release 2–3 trillion-parameter model Kimi K3, challenging Anthropic】UK Financial Times reports Chinese AI startup Moonshot AI will release Kimi K3 in the coming days; sources say the model will have about 2–3 trillion parameters, making it China’s largest AI model to date. Anthropic has not disclosed parameter counts for its models; industry estimates place Opus 4.8 at roughly 1.5–2 trillion parameters. Sources say K3 is expected to outperform Opus 4.8 on mainstream benchmarks and will be offered as an open-weight model available for free download, posing a competitive challenge to closed-source, high-cost U.S. labs including Anthropic and OpenAI."
+    },
+    {
+      "id": "4992072",
+      "time": "2026-07-16 18:04:15",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST海龍：股票交易異常波動 提示多項風險】ST海龍公告稱，公司股票於2026年7月14日至16日連續三個交易日收盤價格漲幅偏離值累計超20%，屬異常波動。2026年一季度，公司實現營收2.77億元，淨利潤502萬元。公司提示多項風險，包括收購西安市群健航空精密製造有限公司股權存不確定性；與濰坊市國恆產業發展集團有限公司訴訟案若處理不當，可能喪失子公司博萊特控制權；實際控制人被採取強制措施；若2026年度內控審計被出具否定或無法表示意見，股票將被實施退市風險警示。"
+    },
     {
       "id": "4992071",
       "time": "2026-07-16 18:03:46",
@@ -172923,83 +173007,6 @@
         "其他"
       ],
       "text": "【廣西緊急排程2.16億元支援防汛救災工作】截至7月9日，透過自治區財政國庫向南寧市、貴港市、防城港市、欽州市等嚴重受災地區累計排程庫款2.16億元，全力支援相關地區做好應急搶險、受災群眾救助及災後重建等工作，切實保障人民群眾生命財產安全。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f4659-9a4e-7aab-8d12-bef18920c178",
-      "time": "2026-07-09 18:08:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Copper",
-        "Impact bullish",
-        "CSI300",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "【China State Planner outlines five priority tasks in '15th Five-Year' carbon-peak action plan】China State Planner says the '15th Five-Year' carbon-peak action plan sets five priority tasks. 1) Accelerate energy-structure adjustment: push large-scale non-fossil energy development, speed upgrades to power-system renewable absorption, promote clean substitution for coal consumption and continue optimizing oil and gas consumption mix. 2) Advance industrial green, low-carbon transition: accelerate green restructuring of industry, carry out energy‑saving and carbon‑reduction retrofits in traditional sectors, fast-track zero‑carbon parks and factories, green the transformation of computing/IT infrastructure, and leverage the circular economy for emissions cuts. 3) Deepen low‑carbon shifts in key sectors: boost building energy efficiency, accelerate low‑carbon transport, cut public‑sector energy use, and strengthen ecosystem carbon‑sink capacity. 4) Strengthen enabling measures: improve laws, standards and carbon‑emissions accounting, enhance tech support and talent training, increase funding and refine price policies, and mature market mechanisms. 5) Mobilize implementation: tighten local responsibilities, launch nationwide green low‑carbon action and deepen international cooperation."
-    },
-    {
-      "id": "4978825",
-      "time": "2026-07-09 18:07:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "百事公司第二財季營收超預期，盤前股價上漲約2%。"
-    },
-    {
-      "id": "4978824",
-      "time": "2026-07-09 18:07:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【太極實業：控股股東一致行動人減持致權益變動觸及1%刻度】太極實業公告稱，7月9日，控股股東的一致行動人錫高投透過集中競價減持1066萬股（佔總股本0.51%）、大宗交易減持3734萬股（佔總股本1.79%）。公司控股股東及其一致行動人合計持股比例由33.52%降至31.22%，權益變動觸及1%刻度。本次減持股份源於2016年定增，2020年已解禁。此次變動不涉及披露權益變動報告書，也不會使控股股東或實控人變更，不影響公司治理與經營。"
-    },
-    {
-      "id": "4978823",
-      "time": "2026-07-09 18:06:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華統股份：2026年6月生豬銷售收入2.15億元 雞收入1886萬元】華統股份公告稱，2026年6月，公司生豬銷售182,005頭，環比降23.47%，同比降9.17%；銷售收入21,466.73萬元，環比降19.24%，同比降38.30%；商品豬銷售均價9.58元/公斤，環比升0.63%。雞銷售116.75萬隻，環比降6.73%，同比升34.00%；銷售收入1,885.98萬元，環比降0.70%，同比升51.71%。公司提示，上述資料僅為階段性參考，且未涵蓋其他業務板塊，畜禽價格波動或影響業績。"
-    },
-    {
-      "id": "4978822",
-      "time": "2026-07-09 18:06:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新疆霍爾果斯口岸今年通行中歐中亞班列超5000列】今年霍爾果斯鐵路口岸通行中歐中亞班列數量超過5000列。班列日均通行數量保持在27列以上，平均每2個小時就要完成一列入境返程中歐班列的換裝。截至目前，經霍爾果斯鐵路口岸通行的中歐中亞班列累計超5.8萬列，通行班列線路總數已達91條，可輻射18個國家、46個城市和地區。（央視新聞）"
-    },
-    {
-      "id": "te:markets:565668",
-      "time": "2026-07-09 18:05:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "PepsiCo earnings below expectations at 2.20 USD — PepsiCo (PEP) released earnings per share at 2.20 USD, compared to market expectations of 2.23 USD."
-    },
-    {
-      "id": "4978821",
-      "time": "2026-07-09 18:04:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南華生物：2026年上半年營收同比增384.57%-481.48% 扭虧為盈】南華生物公告稱，2026年1月1日至6月30日，公司預計營收2.5億元-3億元，同比上升384.57%-481.48%；歸屬於上市公司股東的淨利潤盈利420萬元–620萬元，上年同期虧損348.44萬元；扣除非經常性損益後的淨利潤盈利350萬元–450萬元，上年同期虧損665.62萬元。業績變動主要因碳酸鋰及再生資源業務開展使收入規模提升，且降本增效措施控制了成本費用。"
-    },
-    {
-      "id": "4978820",
-      "time": "2026-07-09 18:04:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "格林威治生命科學公司宣佈其量產的GP2獲歐盟批准用於FLAMINGO-01臨床試驗。"
     }
   ]
 }
