@@ -1,7 +1,27 @@
 {
   "date": "2026-07-17",
-  "count": 450,
+  "count": 452,
   "items": [
+    {
+      "id": "mkt:019f6d03-936a-7aab-8dd1-d2946b2c69a9",
+      "time": "2026-07-17 06:19:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's Fars news agency reported US airstrikes in the Bushehr region targeted two military bases used by Iran's air force and navy."
+    },
+    {
+      "id": "4992997",
+      "time": "2026-07-17 06:19:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報79.07美元/桶。"
+    },
     {
       "id": "te:markets:567652",
       "time": "2026-07-17 06:15:13",
