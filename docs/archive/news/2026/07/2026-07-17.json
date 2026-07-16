@@ -1,7 +1,35 @@
 {
   "date": "2026-07-17",
-  "count": 309,
+  "count": 312,
   "items": [
+    {
+      "id": "4992913",
+      "time": "2026-07-17 03:45:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：相關方已與五角大樓、Anthropic 舉行多輪會晤，後續還將開展更多磋商。"
+    },
+    {
+      "id": "te:markets:567639",
+      "time": "2026-07-17 03:45:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The US 100 Tech Index Hit 5-week Low — US100 decreased to 28814.00 Index Points, the lowest since June 2026. Over the past 4 weeks, US 100 Tech Index lost 2.84%, and in the last 12 months, it increased 24.9%."
+    },
+    {
+      "id": "4992912",
+      "time": "2026-07-17 03:43:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：五角大樓與共和黨參議員召開會議，核心議題為 Anthropic 旗下 Mythos 大模型。"
+    },
     {
       "id": "4992911",
       "time": "2026-07-17 03:40:19",
