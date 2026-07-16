@@ -1,7 +1,32 @@
 {
   "date": "2026-07-17",
-  "count": 73,
+  "count": 76,
   "items": [
+    {
+      "id": "4992772",
+      "time": "2026-07-17 00:53:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿根廷6月份基本預算赤字為6968.4億阿根廷比索。"
+    },
+    {
+      "id": "4992771",
+      "time": "2026-07-17 00:52:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲17美元，報13598美元/噸。LME期鋁收漲35美元，報3185美元/噸。LME期鋅收漲48美元，報3594美元/噸。LME期鉛收漲20美元，報1872美元/噸。LME期鎳收漲349美元，報17152美元/噸。LME期錫收漲376美元，報53156美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "mkt:019f6bd6-c894-7aab-8dcd-9619229f5834",
+      "time": "2026-07-17 00:51:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Dubai Government Media Office denied reports of explosions in downtown Dubai, calling the information inaccurate and urging media and the public to rely on official sources and verify before sharing."
+    },
     {
       "id": "4992770",
       "time": "2026-07-17 00:50:53",
