@@ -1,7 +1,198 @@
 {
   "date": "2026-07-16",
-  "count": 2250,
+  "count": 2272,
   "items": [
+    {
+      "id": "4992037",
+      "time": "2026-07-16 17:47:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍建股份：2026年上半年淨利潤7403.18萬元，同比增長5.86%】龍建股份釋出業績快報，上半年營業收入49.22億元，同比降低3.17%。淨利潤7403.18萬元，同比增長5.86%。在本報告期內，公司所處的基建行業受宏觀政策結構性調控，市場投資釋放節奏放緩、專案前期手續等因素制約，部分路橋施工專案開工及建設進度不及預期，完工結算規模有所收縮，導致當期營業收入與利潤水平同比出現小幅波動。"
+    },
+    {
+      "id": "4992036",
+      "time": "2026-07-16 17:47:15",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "財政部第五次續發行2026年記賬式附息（十期）國債。（財政部）"
+    },
+    {
+      "id": "mkt:019f6a52-7030-7aab-8dc4-e27f5dbef51e",
+      "time": "2026-07-16 17:46:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand’s National Emergency Management Agency issued a tsunami warning for the country’s coastal areas after a magnitude-6.3 earthquake struck the Fiordland region."
+    },
+    {
+      "id": "4992035",
+      "time": "2026-07-16 17:46:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博隆技術：首次回購0.06%公司股份，累計已回購金額266.37萬元】博隆技術公告，2026年7月16日，公司透過上海證券交易所交易系統以集中競價交易方式首次回購公司股份5萬股，已回購股份佔公司總股本的比例為0.06%，成交的最高價為53.53元/股、最低價為52.95元/股，成交總金額為266.37萬元（不含交易費用）。"
+    },
+    {
+      "id": "4992034",
+      "time": "2026-07-16 17:46:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭國家緊急事務管理局在峽灣地區發生6.3級地震後，對紐西蘭沿海地區釋出了海嘯預警。"
+    },
+    {
+      "id": "4992033",
+      "time": "2026-07-16 17:46:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【ST萬邦：子公司WP107藥品多劑量爬坡臨床研究獲得FDA許可】ST萬邦公告，全資子公司萬邦德製藥集團有限公司自主研發用於全身型重症肌無力治療的新藥 WP107（石杉鹼甲口服溶液），於近期獲得美國食品藥品監督管理局（FDA）批准本品用於健康試驗參與者的多劑量爬坡臨床試驗研究。"
+    },
+    {
+      "id": "4992032",
+      "time": "2026-07-16 17:46:18",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【精測電子：控股子公司籤2.23億元半導體裝置銷售合同】精測電子公告稱，公司控股子公司上海精測近日與客戶簽訂銷售合同，擬出售膜厚系列產品、OCD裝置等半導體前道量檢測裝置，合同金額2.23億元。截至公告披露日，連續十二月內與該客戶及其相關公司合同累計金額達3.30億元（含本次）。合同生效條件為雙方蓋章或簽字，交付期限為訂單生效後3 - 6個月。合同履行預計對經營成果有積極影響，但存在宏觀經濟等因素影響執行的風險。"
+    },
+    {
+      "id": "mkt:019f6a51-68b9-7aab-8dc4-dd13a4506bdb",
+      "time": "2026-07-16 17:45:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin says Russia's economic difficulties are not acute and macro stability is secured."
+    },
+    {
+      "id": "mkt:019f6a51-59da-7aab-8dc4-d374d9f26c5d",
+      "time": "2026-07-16 17:45:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Kremlin: There is currently no immediate prospect of resuming peace talks, but Russia remains open to them."
+    },
+    {
+      "id": "mkt:019f6a51-4df8-7aab-8dc4-cd6b7d930042",
+      "time": "2026-07-16 17:45:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says it is in contact with Iran but has not received a request for a call with Russian President Putin."
+    },
+    {
+      "id": "mkt:019f6a51-33a5-7aab-8dc4-c34e6ac09a84",
+      "time": "2026-07-16 17:45:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "The Kremlin said a new round of unrest tied to the Iran crisis is worrying and could harm the global economy."
+    },
+    {
+      "id": "4992031",
+      "time": "2026-07-16 17:45:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮稱正在關注烏克蘭政府變動，國防部長人選不會帶來任何改變。"
+    },
+    {
+      "id": "4992030",
+      "time": "2026-07-16 17:45:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮表示，感謝土耳其願意為推動和平程序提供協助。"
+    },
+    {
+      "id": "mkt:019f6a50-ff22-7aab-8dc4-b8d9c2cd3596",
+      "time": "2026-07-16 17:45:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Kremlin thanked Turkey for its willingness to assist peace efforts."
+    },
+    {
+      "id": "4992029",
+      "time": "2026-07-16 17:45:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "克里姆林宮：目前重啟和談暫無直接前景，但俄方仍對和談持開放態度。"
+    },
+    {
+      "id": "mkt:019f6a50-ecca-7aab-8dc4-b314d369557c",
+      "time": "2026-07-16 17:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says it is monitoring changes in the Ukrainian government and that the selection of a defence minister will not have an impact."
+    },
+    {
+      "id": "4992028",
+      "time": "2026-07-16 17:45:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，伊朗危機新一輪動盪局勢令人擔憂，可能對全球經濟造成損害。"
+    },
+    {
+      "id": "4992027",
+      "time": "2026-07-16 17:45:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：俄羅斯經濟當前面臨的困難並非致命性的，宏觀經濟穩定性已得到保障。"
+    },
+    {
+      "id": "4992026",
+      "time": "2026-07-16 17:44:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽隆退：公司股票於7月17日終止上市暨摘牌】賽隆退公告稱，公司股票已被深交所決定終止上市，於2026年6月26日進入退市整理期，交易15個交易日後，最後交易日期為7月16日，7月17日被摘牌。因2024年度多項財務指標不達標，公司股票於2025年4月28日被實施退市風險警示，2026年4月30日披露的2025年度報告觸及終止上市情形。公司已聘請太平洋證券擔任主辦券商，確保股份在摘牌後45個交易日內進入退市板塊掛牌轉讓。"
+    },
+    {
+      "id": "4992025",
+      "time": "2026-07-16 17:44:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐科億：2026年上半年淨利潤3.6-4.2億元 同比大增】歐科億公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為3.6-4.2億元，與上年同期的77.54萬元相比，增加3.59-4.19億元；扣非淨利潤為3.5-4億元，與上年同期的-1914.72萬元相比，增加3.69-4.19億元。業績增長因抓住需求提升機遇，完成產品結構升級，數控刀具產品銷量增長，且調整產品價格夯實盈利能力，同時去年同期業績基數較低。不過，原材料價格波動或致業績波動，具體資料以半年報為準。"
+    },
+    {
+      "id": "4992024",
+      "time": "2026-07-16 17:44:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：美國襲擊兒童癌症中心】伊朗外交部：伊朗巴凱醫院是一所兒童癌症治療中心，昨晚在美國襲擊附近一處地點後被緊急疏散。此次野蠻襲擊令人想起以色列針對醫療設施的暴行，給住院兒童造成了極大的痛苦和恐慌，並迫使211名正在接受化療的患者緊急撤離。這是針對最無辜人群——正在勇敢與生命賽跑的兒童——犯下的戰爭罪行。那些不斷宣揚人權、卻對醫院和醫療中心遭襲故意視而不見的人，已喪失全部道德信譽。"
+    },
+    {
+      "id": "mkt:019f6a4f-983e-7aab-8dc4-acee35714c49",
+      "time": "2026-07-16 17:43:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran says U.S. strike forced evacuation of children's cancer hospital, calls it war crime】Iran's foreign ministry said Bakai Hospital, a pediatric cancer treatment center, was evacuated overnight after a nearby U.S. strike. The ministry said 211 chemotherapy patients were forced to evacuate and condemned the attack as a 'cowardly war crime,' likening it to Israeli strikes on medical facilities."
+    },
     {
       "id": "4992023",
       "time": "2026-07-16 17:43:27",
