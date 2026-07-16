@@ -1,7 +1,96 @@
 {
   "date": "2026-07-16",
-  "count": 2371,
+  "count": 2381,
   "items": [
+    {
+      "id": "4992125",
+      "time": "2026-07-16 18:31:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國通訊管理局：提議允許無人機在過渡期內使用額外兩個頻段（450兆赫及5030-5091兆赫）。"
+    },
+    {
+      "id": "4992124",
+      "time": "2026-07-16 18:31:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西反壟斷監管機構批准太空探索技術公司與Cursor公司合併交易。"
+    },
+    {
+      "id": "mkt:019f6a7a-471b-7aab-8dc5-735fe9e2c457",
+      "time": "2026-07-16 18:30:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O"
+      ],
+      "text": "NVIDIA (NVDA.O) CEO Jensen Huang said the company is at the start of a cycle."
+    },
+    {
+      "id": "te:markets:567531",
+      "time": "2026-07-16 18:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The SENSEX Index Closes 0.10% Higher — The SENSEX Index rose 76 points or 0.10 percent on Thursday to close at 77262 points. Leading the gains are HCL Tech (1.82%), Maruti Suzuki (1.59%) and Bajaj Finance (1.49%). Top losers were Eternal Limited (-1.83%), Bajaj Finserv (-1.06%) and HDFC Bank (-0.88%)."
+    },
+    {
+      "id": "4992123",
+      "time": "2026-07-16 18:29:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "通用電氣航空板塊股價盤前上漲2.4%，此前該公司上調2026年利潤預期。"
+    },
+    {
+      "id": "4992122",
+      "time": "2026-07-16 18:29:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "英偉達執行長黃仁勳：我們正處於本輪週期的起始階段。"
+    },
+    {
+      "id": "4992121",
+      "time": "2026-07-16 18:29:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將強生目標價從251美元上調至261美元。"
+    },
+    {
+      "id": "mkt:019f6a78-ed00-7aab-8dc5-6916ccde6027",
+      "time": "2026-07-16 18:28:57",
+      "tags": [
+        "MKT News",
+        "JNJ.N",
+        "Impact bullish"
+      ],
+      "text": "BERNSTEIN raises Johnson & Johnson (JNJ.N) PT to $261 from $251."
+    },
+    {
+      "id": "mkt:019f6a78-8607-7aab-8dc5-629693937ecd",
+      "time": "2026-07-16 18:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese embassy in Indonesia says bilateral cooperation remains strong】Jul 16 — The Chinese embassy in Indonesia said bilateral cooperation remains strong; the Indonesian government has repeatedly said it welcomes and supports Chinese companies continuing to invest and acquire real estate in Indonesia and to deepen mutually beneficial cooperation."
+    },
+    {
+      "id": "4992120",
+      "time": "2026-07-16 18:28:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "信維通訊7月16日在互動平臺表示，公司已為北美大客戶提供高頻高速聯結器、相控陣天線等地面終端核心零部件，暫不涉及晶片。"
+    },
     {
       "id": "4992119",
       "time": "2026-07-16 18:27:47",
