@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-16 22:12:29",
-  "count": 18764,
+  "updated": "2026-07-16 22:16:32",
+  "count": 18752,
   "items": [
+    {
+      "id": "4992617",
+      "time": "2026-07-16 22:13:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新一代理想L6上市，售價 24.98 萬元】理想汽車今晚釋出新一代 L6 Ultra，全國統一零售價 24.98 萬元。官方稱售價與上一代 L6 Pro 版本持平，配置則超越上一代 Max 版本。 新車全系標配四驅、自研馬赫 M100 智駕晶片、高通 8797 座艙晶片和 29 英寸 6K 全景屏。（晚點）"
+    },
+    {
+      "id": "te:economy:567596",
+      "time": "2026-07-16 22:13:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Inventories",
+        "Importance 1"
+      ],
+      "text": "US Business Inventory Growth Softens in May — Business inventories in the US rose by 0.3% month-over-month in May 2026, following an upwardly revised 0.6% advance in April, matching market estimates. Stocks increased at a slower pace for merchant wholesalers (0.1% vs 0.7% in April); manufacturers (0.2% vs 0.3%) and retailers (0.6% vs 0.7%). Year-on-year, business inventories increased by 3.1%."
+    },
     {
       "id": "4992615",
       "time": "2026-07-16 22:10:59",
@@ -172415,133 +172435,6 @@
         "市場"
       ],
       "text": "標普500指數和納斯達克100指數迅速回吐漲幅。"
-    },
-    {
-      "id": "4979441",
-      "time": "2026-07-09 22:16:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI創始人奧特曼：（在被問及2026年上市計劃時）“尚不清楚”。"
-    },
-    {
-      "id": "mkt:019f473c-ae9d-7aab-8d1b-389399ca79df",
-      "time": "2026-07-09 22:16:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI founder Altman, when asked about a 2026 IPO, said 'unclear'."
-    },
-    {
-      "id": "te:markets:565726",
-      "time": "2026-07-09 22:16:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Sanofi Stock Price Hits 4-week High — Sanofi shares increased to 77.12 EUR, the highest since June 2026. Over the past 4 weeks, Sanofi gained 1.38%, and in the last 12 months, it decreased 8.44%."
-    },
-    {
-      "id": "4979440",
-      "time": "2026-07-09 22:16:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國國家版權局與沙特智慧財產權局簽署版權及相關權領域合作備忘錄】中國國家版權局與沙特智慧財產權局9日在瑞士日內瓦簽署版權及相關權領域合作備忘錄。該備忘錄的簽署，標誌著中沙版權與相關權領域合作的進一步深化，對擴大中國版權國際影響力，特別是加強與阿拉伯國家的版權合作，起到重要示範與推動作用。根據該備忘錄，兩國將進一步加強版權合作，定期交換版權及相關權領域法律和技術資訊，鼓勵兩國版權管理人員和相關從業人員透過互訪和培訓等形式進行交流，促進著作權集體管理組織間的合作。(新華社)"
-    },
-    {
-      "id": "mkt:019f473c-2006-7aab-8d1b-314a3162ae7d",
-      "time": "2026-07-09 22:15:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Altman said reports that the U.S. government holds shares in OpenAI contain numerous inaccuracies."
-    },
-    {
-      "id": "mkt:019f473b-b38b-7aab-8d1b-2b9dec898bfe",
-      "time": "2026-07-09 22:15:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI founder Altman said OpenAI’s latest AI model improves token efficiency by 54% on agent-based programming tasks."
-    },
-    {
-      "id": "4979439",
-      "time": "2026-07-09 22:14:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧特曼接受採訪時表示，OpenAI最新AI模型在智慧代理程式碼任務上的令牌效率提升54%。"
-    },
-    {
-      "id": "4979438",
-      "time": "2026-07-09 22:14:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧特曼稱，有關政府持股 5% 的報道存在大量不實資訊。"
-    },
-    {
-      "id": "4979437",
-      "time": "2026-07-09 22:14:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "凱傑股價飆升12%，據稱該公司吸引了收購意向。"
-    },
-    {
-      "id": "mkt:019f473a-30f1-7aab-8d1b-262bb3992287",
-      "time": "2026-07-09 22:13:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI founder Altman said the company has made 'many adjustments' after communicating with government."
-    },
-    {
-      "id": "4979436",
-      "time": "2026-07-09 22:13:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥外交部長貝拉斯科表示，墨西哥政府將針對墨西哥公民在移民拘留期間死亡一事，研究是否在美國提起刑事訴訟。"
-    },
-    {
-      "id": "4979435",
-      "time": "2026-07-09 22:13:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "OpenAI的CEO Altman：與（美國）政府在AI問題上“更加平穩地”推進。"
-    },
-    {
-      "id": "4979434",
-      "time": "2026-07-09 22:12:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：KKR亦有意參與凱傑收購交易。"
-    },
-    {
-      "id": "mkt:019f4739-1b85-7aab-8d1b-1d874a9b5f95",
-      "time": "2026-07-09 22:12:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "Magnificent 7",
-        "MSFT.O",
-        "Impact bullish"
-      ],
-      "text": "OpenAI founder Altman said Microsoft will remain one of OpenAI's largest customers."
     }
   ]
 }

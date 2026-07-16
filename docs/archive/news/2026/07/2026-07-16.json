@@ -1,7 +1,27 @@
 {
   "date": "2026-07-16",
-  "count": 3081,
+  "count": 3083,
   "items": [
+    {
+      "id": "4992617",
+      "time": "2026-07-16 22:13:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新一代理想L6上市，售價 24.98 萬元】理想汽車今晚釋出新一代 L6 Ultra，全國統一零售價 24.98 萬元。官方稱售價與上一代 L6 Pro 版本持平，配置則超越上一代 Max 版本。 新車全系標配四驅、自研馬赫 M100 智駕晶片、高通 8797 座艙晶片和 29 英寸 6K 全景屏。（晚點）"
+    },
+    {
+      "id": "te:economy:567596",
+      "time": "2026-07-16 22:13:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Business Inventories",
+        "Importance 1"
+      ],
+      "text": "US Business Inventory Growth Softens in May — Business inventories in the US rose by 0.3% month-over-month in May 2026, following an upwardly revised 0.6% advance in April, matching market estimates. Stocks increased at a slower pace for merchant wholesalers (0.1% vs 0.7% in April); manufacturers (0.2% vs 0.3%) and retailers (0.6% vs 0.7%). Year-on-year, business inventories increased by 3.1%."
+    },
     {
       "id": "4992615",
       "time": "2026-07-16 22:10:59",
