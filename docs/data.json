@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-17 03:50:29",
-  "count": 18781,
+  "updated": "2026-07-17 03:54:22",
+  "count": 18780,
   "items": [
+    {
+      "id": "4992920",
+      "time": "2026-07-17 03:53:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西副總統：巴西對美商品平均關稅僅 3.1%，美國銷往巴西的產品中有 75% 享受零關稅。"
+    },
+    {
+      "id": "mkt:019f6c7d-631d-7aab-8dd0-6b4092adbb09",
+      "time": "2026-07-17 03:53:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Explosions heard in Iran's Bushehr; local authorities attribute to U.S. military action】Two explosions were heard in Bushehr, southwestern Iran, on the 16th. Local authorities said the blasts were caused by U.S. military action."
+    },
+    {
+      "id": "4992918",
+      "time": "2026-07-17 03:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西副總統：美國徵收關稅不公且毫無道理，美國對巴西存在貿易順差。"
+    },
     {
       "id": "4992917",
       "time": "2026-07-17 03:49:01",
@@ -172645,38 +172673,6 @@
         "MKT News"
       ],
       "text": "The Israeli Prime Minister's Office said Prime Minister Netanyahu and US President Trump spoke by phone and agreed to continue coordination across multiple areas."
-    },
-    {
-      "id": "4979709",
-      "time": "2026-07-10 03:53:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普與內塔尼亞胡就伊朗問題展開會談。"
-    },
-    {
-      "id": "mkt:019f4871-7721-7aab-8d20-d91def40209c",
-      "time": "2026-07-10 03:53:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports the Israeli prime minister's office said Trump spoke with Netanyahu on Thursday to discuss the situation in Iran."
-    },
-    {
-      "id": "4979708",
-      "time": "2026-07-10 03:53:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美媒：特朗普週四與以色列總理內塔尼亞胡進行了通話。"
-    },
-    {
-      "id": "4979707",
-      "time": "2026-07-10 03:50:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "紐約證券交易所買賣盤失衡：蘋果公司買方盤口多出430687.0股。"
     }
   ]
 }
