@@ -1,7 +1,182 @@
 {
-  "updated": "2026-07-16 10:24:20",
-  "count": 18649,
+  "updated": "2026-07-16 10:28:16",
+  "count": 18655,
   "items": [
+    {
+      "id": "mkt:019f68c0-4834-7aab-8db7-07ce30acf983",
+      "time": "2026-07-16 10:27:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "Hang Seng Tech Index up more than 3% intraday."
+    },
+    {
+      "id": "4991222",
+      "time": "2026-07-16 10:27:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超3%，現報4883.310點；恒生指數現漲1.585%。"
+    },
+    {
+      "id": "mkt:019f68c0-0936-7aab-8db6-fd1161b359d3",
+      "time": "2026-07-16 10:27:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said demand-side price pressures may require close monitoring, as continued strong growth in domestic aggregate income could translate those pressures into stronger inf."
+    },
+    {
+      "id": "mkt:019f68bf-e846-7aab-8db6-f7c9a1c717b9",
+      "time": "2026-07-16 10:27:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share brain–machine interface concept stocks jumped intraday; Chuangxin Medical hit the daily trading limit, while Beiyikang, Jiahe Intelligent, Aipeng Medical, Saili Medical and Sanbo Brain also advanced."
+    },
+    {
+      "id": "te:markets:567371",
+      "time": "2026-07-16 10:27:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesia Equities Trade Modestly Lower — Indonesian shares eased in early Thursday trade, hovering near 6,028 after two sessions of subdued momentum. Sentiment was pressured by weaker U.S. stock futures, even as Wall Street closed higher overnight on softer inflation data and a strong start to Q2 earnings. Elevated oil prices kept traders cautious, raising concerns over Indonesia’s import bill as a net oil importer. Focus also turned to Bank Indonesia’s policy meeting next week, following 100 bps of rate hikes in May–June to defend the rupiah. Losses were partly cushioned by local media reports that the government is preparing fiscal and market steps to rein in inflation, particularly in volatile food commodities and rising industrial costs. In China, weak Q2 GDP figures fueled expectations of fresh support measures ahead of the Politburo’s late-July meeting. Notable laggards included Sumber Global Energy (-4.1%), Sentul City (-3.1%), Rukun Raharja (-2.7%), and United Tractor (-1.7%)."
+    },
+    {
+      "id": "4991221",
+      "time": "2026-07-16 10:27:01",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長：需求側價格壓力可能需要密切關注，因為如果國內總收入(GDI)持續強勁增長，這種壓力可能轉化為更強的通脹壓力。"
+    },
+    {
+      "id": "4991220",
+      "time": "2026-07-16 10:26:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面概念異動拉昇 創新醫療直線漲停】腦機介面概念盤中異動拉昇，創新醫療直線漲停，倍益康、佳禾智慧、愛朋醫療、塞力醫療、三博腦科跟漲。"
+    },
+    {
+      "id": "4991219",
+      "time": "2026-07-16 10:26:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【五礦商會與美國負責任商業聯盟（RBA）就加速推進合作達成共識】7月15日，五礦商會會長江輝會見到訪的美國負責任商業聯盟（RBA）執行長Rob Lederer及首席戰略官Tyler Gillard一行，雙方深入交流，就共同促進礦產供應鏈合規可持續發展明確具體合作舉措。雙方將加快推進聯合評估、推廣上游風險識別和管理、組織能力建設等系列工作。"
+    },
+    {
+      "id": "4991218",
+      "time": "2026-07-16 10:26:17",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國財政部將於週四晚些時候召開市場會議。"
+    },
+    {
+      "id": "4991217",
+      "time": "2026-07-16 10:26:01",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【報告：阿里領跑中國AI程式設計市場，份額超第二至第五名總和】國際權威諮詢機構IDC釋出2025年中國AI程式設計市場份額報告，報告顯示，阿里以47.6%的營收市場份額位居第一，超第二名至第五名總和，持續領跑中國AI程式設計市場。目前，AI程式設計被公認為大模型和桌面Agent工具的核心技術壁壘，也是全球頂尖科技公司競爭的核心戰場。據悉，阿里Qoder已服務中國一汽、中信證券、亞信科技等數十萬家企業，全球使用者已超500萬，是中國最受歡迎的智慧體程式設計平臺之一。"
+    },
+    {
+      "id": "4991216",
+      "time": "2026-07-16 10:25:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：需求側壓力將在經濟增長中發揮重要作用。"
+    },
+    {
+      "id": "mkt:019f68be-80dc-7aab-8db6-e9a46b4b876f",
+      "time": "2026-07-16 10:25:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said all components of Korea's GDP are performing robustly."
+    },
+    {
+      "id": "mkt:019f68be-34e6-7aab-8db6-e17174440685",
+      "time": "2026-07-16 10:25:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Korea Governor Shin said assessing the strength of demand in the economy is crucial."
+    },
+    {
+      "id": "4991214",
+      "time": "2026-07-16 10:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "申鉉松：出口、投資、消費均保持強勁。"
+    },
+    {
+      "id": "4991213",
+      "time": "2026-07-16 10:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "申鉉松：構成韓國GDP的各個組成部分都表現強勁。"
+    },
+    {
+      "id": "4991212",
+      "time": "2026-07-16 10:24:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026WAIC鎮館之寶公佈：階躍智慧體手機、中科曙光AI超叢集等入選】2026世界人工智慧大會十大鎮館之寶正式公佈，階躍大模型原生智慧體手機STEPX Neo、螞蟻靈波“機器人智慧藥房”、中科曙光全國產十萬卡AI超叢集、智元遠征A3 Ultra、阿里真武M890 × 磐久AL128超節點、訊飛AI眼鏡、大瓦特·雲睿”配電網規劃智慧體、MatwingsVenus （曉鶩 ）對話式蛋白質設計智慧體、中興OEX超節點、百度搭子等入選。"
+    },
+    {
+      "id": "mkt:019f68bd-2b20-7aab-8db6-de0b43500fb1",
+      "time": "2026-07-16 10:24:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Risk of local dengue, chikungunya outbreaks rises from imported cases and cross‑province transmission】At a press briefing, Li Jiandong, researcher at the Viral Diseases Institute of China CDC, said dengue and chikungunya have been spreading across tropical and subtropical countries and climate change has expanded the range suitable for Aedes mosquitoes. With cross‑border travel increasing, importation risk and pressure to prevent cases remain elevated. Summer heat and rainfall are boosting mosquito breeding and keeping vector densities at seasonally high levels, and increased cross‑border and interprovincial travel during summer holidays raises the risk that imported cases will trigger local outbreaks."
+    },
+    {
+      "id": "4991211",
+      "time": "2026-07-16 10:24:06",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "韓國央行行長申鉉松：需要關注能源衝擊對消費者物價指數的間接影響。"
+    },
+    {
+      "id": "te:economy:567369",
+      "time": "2026-07-16 10:23:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10Y Yield Pressured by Soft PPI — The yield on the US 10-year Treasury note hovered around 4.56% on Thursday after falling for two straight sessions, as easing inflation pressures reduced expectations of a near-term Federal Reserve interest rate hike. Data released on Wednesday showed US producer prices unexpectedly fell in June for the first time in nearly a year, largely driven by lower energy costs, following Tuesday’s softer-than-expected consumer inflation report. Markets scaled back expectations for a Fed rate increase in September, with the implied probability dropping to around 44% from 50% a day earlier. Meanwhile, investors continued to monitor escalating attacks in the Middle East after the US launched additional strikes against Iranian targets. The renewed conflict pushed oil prices sharply higher this week, reviving concerns over inflation and the outlook for interest rates. Still, President Donald Trump said on Wednesday that Tehran had signaled a willingness to resume negotiations."
+    },
     {
       "id": "4991210",
       "time": "2026-07-16 10:23:33",
@@ -171374,132 +171549,6 @@
         "AI Revolution"
       ],
       "text": "【China's national supercomputing internet core node goes live】China activated a national supercomputing internet core node: a single 100,000‑card full‑precision compute pool designed to support concurrent 100,000‑card training, ~10‑trillion‑parameter model full training, AI‑for‑Science and ultra‑large scientific engineering workloads, and to serve as a domestically developed inclusive large‑scale compute base. During trial it completed more than 70 tests at the 10k‑card scale. Using 45,000 cards it ran a 41.47 billion‑atom DFT‑precision simulation, setting a world record; billion‑scale grid simulation turnaround improved from week‑level to hour‑level; it has deeply adapted over 400 industry models and completed domestic porting and optimization of key domain software for fluid dynamics, quantum mechanics and large‑scale simulation, strengthening the domestic compute application ecosystem."
-    },
-    {
-      "id": "mkt:019f44b3-f40a-7aab-8d05-dbff8c45baad",
-      "time": "2026-07-09 10:27:51",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of Korea Governor Shin said he sees a high probability of the won strengthening against the US dollar."
-    },
-    {
-      "id": "mkt:019f44b3-b06e-7aab-8d05-d2d216893ac7",
-      "time": "2026-07-09 10:27:34",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said if the United States attacks again, its response will extend to other US bases in the region."
-    },
-    {
-      "id": "te:markets:565477",
-      "time": "2026-07-09 10:27:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Pressured by US-Iran Tensions — The Japanese yen traded around 162.5 per dollar on Thursday, hovering near 40-year lows as renewed conflict between the US and Iran drove oil prices higher, adding pressure to Japan’s oil-dependent economy and weighing on the currency. The US military confirmed it had carried out strikes on Iran for a second straight day, while Tehran threatened a large-scale retaliatory operation against US military bases across the region. Meanwhile, traders continued to maintain bearish positions on the yen amid the absence of intervention from Japanese authorities despite repeated warnings from Tokyo. Investors are now awaiting official intervention data later this month to determine whether the government was behind the yen’s sharp but short-lived rally on July 2. Separately, Japan’s government revised its latest draft of the annual policy agenda, calling for appropriate monetary policy that supports stable price growth."
-    },
-    {
-      "id": "4978015",
-      "time": "2026-07-09 10:27:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家超算網際網路核心節點正式上線】2026河南省人工智慧大會7月9日在鄭州舉行。國家超算網際網路核心節點於當日正式上線執行。記者從會上瞭解到，國家超算網際網路核心節點專案以構建覆蓋全國的計算資源統籌排程體系為目標，承擔運營管理、資源排程等核心功能，並整合供需對接、產業孵化等綜合服務功能。該節點可對外提供超過10萬卡的國產AI算力，是國家超算網際網路平臺上線以來接入的全國最大規模的單體國產AI算力資源池。(財聯社)"
-    },
-    {
-      "id": "4978014",
-      "time": "2026-07-09 10:27:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達80億港元。"
-    },
-    {
-      "id": "4978013",
-      "time": "2026-07-09 10:26:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊表示，如果美國再次發動襲擊，其反擊範圍將擴大至該地區其他美軍基地。"
-    },
-    {
-      "id": "4978012",
-      "time": "2026-07-09 10:26:52",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：認為韓元兌美元有很大升值機會。"
-    },
-    {
-      "id": "mkt:019f44b2-db39-7aab-8d05-cae982b3c3b0",
-      "time": "2026-07-09 10:26:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea Governor Shin said the South Korean foreign-exchange market is not experiencing a liquidity shortage."
-    },
-    {
-      "id": "4978011",
-      "time": "2026-07-09 10:26:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：韓國外匯市場不存在流動性短缺問題。"
-    },
-    {
-      "id": "mkt:019f44b2-3d3e-7aab-8d05-c2f710b130db",
-      "time": "2026-07-09 10:25:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea Governor Shin said he will maintain ongoing communication with other central banks to discuss market conditions."
-    },
-    {
-      "id": "4978010",
-      "time": "2026-07-09 10:25:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：一直與其他央行保持溝通，討論市場情況。"
-    },
-    {
-      "id": "4978009",
-      "time": "2026-07-09 10:24:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【人社事業“十五五”規劃印發 提出18項量化指標】近日，人力資源社會保障部印發《人力資源和社會保障事業發展“十五五”規劃》（以下簡稱《規劃》），明確“十五五”時期人社事業發展的七大主要目標，並圍繞支撐目標實現、突出發展重點，提出了就業、社保、人才人事、勞動關係和公共服務五類18項量化指標。根據《規劃》，“十五五”時期，城鎮新增就業人數保持相當規模，城鎮失業人員再就業人數2500萬人，就業困難人員就業人數650萬人，城鎮調查失業率控制在5.5%以內。開展補貼性職業技能培訓超過5000萬人次，其中農民工參加培訓1750萬人次。基本養老保險參保率保持在95％以上，失業保險、工傷保險參保人數分別達到2.55億人、3.45億人，企業（職業）年金基金規模超9萬億元。“十五五”時期，預計新增取得專業技術人員職業資格證書人數1400萬人，每年招收博士後研究人員3.5萬人。新增取得技能人員職業資格或職業技能等級證書4000萬人次，其中高階工以上1400萬人次。人力資源社會保障部規劃財務司司長張立新表示，工資收入分配製度更加公平完善。堅持按勞分配為主體、多種分配方式並存，推動構建公平合理的分配格局。勞動領域治理能力有效加強。“十五五”期末，勞動人事爭議調解成功率達到65%，勞動人事爭議仲裁結案率達到93%，勞動保障監察舉報投訴案件結案率達到97%。“十五五”期間，我國還將構建覆蓋全民、普惠均衡、智慧高效的人力資源和社會保障公共服務體系。預計“十五五”期末，申領電子社保卡人口覆蓋率達到90%。"
-    },
-    {
-      "id": "mkt:019f44b0-c517-7aab-8d05-bb62b7c09b6a",
-      "time": "2026-07-09 10:24:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it attacked two US bases in Kuwait and one in Bahrain in the first phase of punitive retaliation against the United States."
     }
   ]
 }
