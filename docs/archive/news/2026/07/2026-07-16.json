@@ -1,7 +1,103 @@
 {
   "date": "2026-07-16",
-  "count": 681,
+  "count": 690,
   "items": [
+    {
+      "id": "te:markets:567338",
+      "time": "2026-07-16 08:26:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat After Positive Session — US stock futures were little changed on Thursday after the major indexes posted gains in the previous session, as softer inflation data drove Treasury yields lower and supported equities. In regular trading on Wednesday, the Dow advanced 0.29%, the S&P 500 added 0.38%, and the Nasdaq Composite climbed 0.62%, led by gains in the communication services, consumer discretionary, and financial sectors. Both headline and core producer prices came in below expectations in June, reinforcing the weaker CPI report released a day earlier and reducing expectations of a near-term Federal Reserve rate hike. Strong earnings from major financial companies further boosted sentiment by signaling that corporate profit growth remains resilient. Investors are now awaiting Thursday's retail sales and weekly jobless claims data, along with earnings reports from Netflix, UnitedHealth, General Electric, and other major companies."
+    },
+    {
+      "id": "mkt:019f6850-aa3b-7aab-8db2-b86c3fe4c780",
+      "time": "2026-07-16 08:25:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China International Capital Co: Food & beverage sector valuation re-rating likely to unfold gradually】China International Capital Co research says the China food & beverage sector is in a bottoming recovery with structural divergence. Valuations have fallen to historical lows, offering a healthy margin of safety. Consumption trends favor better quality-for-price, functional and health-oriented products. Channel growth is expected from snack bulk sales, membership supermarkets and instant retail. Into H2, as new consumption scenarios emerge, the firm expects a gradual sector valuation re-rating to take hold."
+    },
+    {
+      "id": "4990971",
+      "time": "2026-07-16 08:25:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小鵬計劃年底前每月生產1000臺機器人 機器人行業量產大幅提速】據報道，小鵬計劃明年在全球推出人形機器人，計劃年底前每月生產1000臺機器人。根據中國工信新聞網，大模型、智慧體、人工智慧晶片加速迭代，今年人形機器人全年整機產量有望突破10萬臺。人形機器人已經開始“進工廠、下車間”。"
+    },
+    {
+      "id": "4990970",
+      "time": "2026-07-16 08:24:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數跌入熊市，較6月高點下跌26%。"
+    },
+    {
+      "id": "4990969",
+      "time": "2026-07-16 08:23:48",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國綜合股價指數跌超5% SK海力士和三星股價延續跌勢】韓國股市基準股指Kospi下跌高達5.7%，SK海力士和三星電子跟隨美國晶片同行走低，此前兩日反彈後回落。SK海力士在韓國交易所股價下跌高達10%，此前其美國存託憑證（ADR）週三暴跌9%。三星股價下跌高達7.3%。費城半導體指數週三收盤下跌2.1%，其中美光科技下跌8%。"
+    },
+    {
+      "id": "mkt:019f684e-0756-7aab-8db2-b3739e673dd2",
+      "time": "2026-07-16 08:22:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【CITIC Securities: China’s innovative drugmakers and global pharma supply-chain firms poised for steady earnings growth over next 3–5 years】CITIC Securities says China’s pharmaceutical sector combines essential demand with high certainty, supported by continued strong growth in domestic biopharma financing. Starting Q3, core pipelines of domestic innovative drugs are expected to produce major data readouts that could act as catalysts and accelerate value realization for assets with global potential. Policy reforms are gradually shifting pricing back toward a clinical-value and demand-driven market pricing mechanism, creating a more stable domestic market environment and a longer-term supportive growth backdrop. CITIC recommends focusing on healthcare industry investment opportunities, citing higher conviction for both alpha and beta from the sector over the next 3–5 years."
+    },
+    {
+      "id": "4990968",
+      "time": "2026-07-16 08:22:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合指數跌幅擴大，最新跌5.6%，報6874.16點。"
+    },
+    {
+      "id": "4990967",
+      "time": "2026-07-16 08:22:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟代表尚未就針對俄羅斯的第21輪制裁方案達成一致】一名歐盟外交官週三表示，歐盟各國代表尚未就針對俄羅斯的第21輪制裁方案達成一致。該外交官補充稱，在就第21輪制裁方案繼續磋商期間，歐盟各國代表已同意將俄羅斯石油價格上限維持在目前的每桶44.10美元水平，直到7月23日。這個由歐盟和七國集團（G7）盟國支援的價格上限機制去年經過重新設計，使其更具靈活性，並能隨油價波動而調整。歐盟外交及安全政策高階代表卡拉斯本週早些時候已警告稱，歐盟各國尚未就範圍廣泛的第21輪制裁方案達成一致。"
+    },
+    {
+      "id": "mkt:019f684d-b274-7aab-8db2-a82294a78395",
+      "time": "2026-07-16 08:22:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "【Yen options imply Japan may tolerate depreciation to 165 before acting】Options market pricing suggests Japanese authorities may tolerate further yen weakness before intervening. Traders are pricing USD/JPY around 165, implying roughly 1.6% additional yen depreciation from current levels; the spot rate is already near a four-decade low."
+    },
     {
       "id": "4990966",
       "time": "2026-07-16 08:21:00",
