@@ -1,7 +1,224 @@
 {
   "date": "2026-07-16",
-  "count": 1887,
+  "count": 1910,
   "items": [
+    {
+      "id": "mkt:019f69f4-60aa-7aab-8dc2-05b5cf281d76",
+      "time": "2026-07-16 16:04:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Syria's state news agency, citing sources, said authorities foiled an attempt to smuggle weapons and missiles via the Iraqi border."
+    },
+    {
+      "id": "4991775",
+      "time": "2026-07-16 16:04:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "聯合航空盤前股價下跌2.4%，此前公司預計第三季度利潤低於市場預期。"
+    },
+    {
+      "id": "mkt:019f69f4-3b07-7aab-8dc1-fb4b8f597b53",
+      "time": "2026-07-16 16:04:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's Financial Services Commission (FSC) will raise the minimum margin required to buy single-stock leveraged ETFs to 30 million won, applying to products listed domestically and overseas."
+    },
+    {
+      "id": "mkt:019f69f3-ecaa-7aab-8dc1-f08eec7db418",
+      "time": "2026-07-16 16:03:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N) shares fell more than 2.8% in US premarket trade."
+    },
+    {
+      "id": "4991774",
+      "time": "2026-07-16 16:03:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大地熊：實控人、董事擬增持1000萬-2000萬元股份】大地熊公告稱，公司實控人、董事曹慶香基於對公司未來發展信心和長期投資價值認可，擬自公告披露日起6個月內，用自有及自籌資金，透過上交所集中競價交易增持公司A股股份，金額不低於1000萬元且不超2000萬元，數量為40萬-80萬股，佔總股本0.35%-0.70%，不超1%。增持期間及法定期限內不減持，該計劃可能因市場或政策因素無法實施。"
+    },
+    {
+      "id": "4991773",
+      "time": "2026-07-16 16:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國金融委員會官員：將境內外上市單股槓桿ETF的最低買入保證金提高至3000萬韓元"
+    },
+    {
+      "id": "4991772",
+      "time": "2026-07-16 16:02:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股中概股盤前普漲，小鵬集團漲4%】美股中概股盤前普漲，小鵬集團漲4%，嗶哩嗶哩漲3%，攜程、貝殼漲2%，京東、理想汽車、蔚來、阿里巴巴漲1%。"
+    },
+    {
+      "id": "4991771",
+      "time": "2026-07-16 16:02:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美股大型科技股盤前多數上漲，SK海力士跌5%】美股大型科技股盤前多數上漲，微軟漲0.6%，谷歌A漲0.3%，SpaceX、亞馬遜漲0.2%，蘋果漲0.1%，特斯拉跌0.1%，Meta跌0.2%，英偉達跌0.9%，美光科技跌1%，SK海力士跌5%。"
+    },
+    {
+      "id": "te:markets:567484",
+      "time": "2026-07-16 16:02:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Falls for 2nd Day — The DAX 40 edged down 0.3% to around 24,900 on Thursday, extending losses from the prior day, as traders parsed the latest batch of corporate earnings and corporate updates, against the backdrop of persistent Middle East tensions. Rumors that US President Donald Trump is considering expanding military operations against Iran after a series of briefings with his closest aides are causing concern. Meanwhile, technology shares continued to struggle, with chipmaker Infineon Technologies declining alongside AI-exposed industrials Siemens Energy and Hochtief."
+    },
+    {
+      "id": "mkt:019f69f2-6fc6-7aab-8dc1-e8b49d7cefec",
+      "time": "2026-07-16 16:02:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bearish",
+        "SNDK.O",
+        "WDC.O"
+      ],
+      "text": "Pre-market U.S. equities: SK Hynix ADR (SKHY.O) down over 6%; SanDisk (SNDK.O) and Western Digital (WDC.O) down over 4%."
+    },
+    {
+      "id": "mkt:019f69f1-f7d5-7aab-8dc1-e66ce610fed2",
+      "time": "2026-07-16 16:01:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Italy June HICP final YoY 3.0% (expected 3.1%; prior 3.10%)."
+    },
+    {
+      "id": "mkt:019f69f1-dc06-7aab-8dc1-df309e896e63",
+      "time": "2026-07-16 16:01:25",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Italy | Harmonized CPI Final (YoY) (Jun) | actual 3% | consensus 3.1% | previous 3.10%"
+    },
+    {
+      "id": "4991770",
+      "time": "2026-07-16 16:01:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500迷你股指期貨下跌0.2%，納斯達克100股指期貨下跌0.5%，道瓊斯股指期貨下跌0.1%。"
+    },
+    {
+      "id": "4991769",
+      "time": "2026-07-16 16:01:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鎳庫存增加300噸，銅庫存減少1675噸，鋅庫存減少575噸，錫庫存減少140噸，鉛庫存減少2550噸，鋁庫存減少1500噸。"
+    },
+    {
+      "id": "4991768",
+      "time": "2026-07-16 16:01:11",
+      "tags": [
+        "資料"
+      ],
+      "text": "義大利6月CPI同比終值 3%，預期 3%，初值 3%。義大利6月調和CPI環比終值 0%，預期 0.1%，初值 0.1%。"
+    },
+    {
+      "id": "4991767",
+      "time": "2026-07-16 16:01:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美股盤前，儲存晶片概念股普跌，SK海力士跌約5%，閃迪跌約4%，西部資料跌約4%，希捷科技跌約3%。臺積電跌約2%，此前公佈二季度財報。"
+    },
+    {
+      "id": "mkt:019f69f1-8293-7aab-8dc1-d3d76d2a3c30",
+      "time": "2026-07-16 16:01:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "London Metal Exchange (LME) inventories: nickel +300 tonnes; copper -1,675 tonnes; zinc -575 tonnes; tin -140 tonnes; lead -2,550 tonnes; aluminium -1,500 tonnes."
+    },
+    {
+      "id": "4991766",
+      "time": "2026-07-16 16:00:52",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開展1周規模10噸的黃金兌里拉賣方掉期拍賣。"
+    },
+    {
+      "id": "4991765",
+      "time": "2026-07-16 16:00:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平會見哈薩克總統託卡耶夫】7月16日下午，國家主席習近平在上海西郊賓館會見來華出席2026世界人工智慧大會暨人工智慧全球治理高階別會議的哈薩克總統託卡耶夫。（央視新聞）"
+    },
+    {
+      "id": "4991764",
+      "time": "2026-07-16 16:00:33",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行布里登表示，金融環境已經收緊。"
+    },
+    {
+      "id": "4991763",
+      "time": "2026-07-16 16:00:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "英國央行布里登：如果沒有戰爭，通脹目標現在將達到2%。"
+    },
+    {
+      "id": "te:markets:567480",
+      "time": "2026-07-16 16:00:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural gas Falls by 1.11% — Top commodity losers are Natural gas (-1.11%), Natural Gas UK (-0.68%), Brent Crude Oil (-0.55%) and Crude Oil WTI (-0.11%)."
+    },
+    {
+      "id": "4991762",
+      "time": "2026-07-16 16:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港交所：港股6月平均日成交3191億港元 同比增38.6%】港交所發文稱，港股6月平均每日成交金額為3,191億港元，同比升38.6%；上半年平均每日成交金額為2,830億港元，同比升17.8%。"
+    },
     {
       "id": "mkt:019f69f0-8478-7aab-8dc1-caa392dda92d",
       "time": "2026-07-16 15:59:57",
