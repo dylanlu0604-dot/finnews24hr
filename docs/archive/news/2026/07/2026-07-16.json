@@ -1,7 +1,52 @@
 {
   "date": "2026-07-16",
-  "count": 3259,
+  "count": 3264,
   "items": [
+    {
+      "id": "4992727",
+      "time": "2026-07-16 23:58:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "GAMESTOP CEO 發表講話後，EBAY 股價跌至盤中低點 1.4%。"
+    },
+    {
+      "id": "4992726",
+      "time": "2026-07-16 23:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將F、J簽證的停留期限限制為四年。"
+    },
+    {
+      "id": "mkt:019f6ba6-73ea-7aab-8dcc-e4f59380c815",
+      "time": "2026-07-16 23:58:18",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian media Fars News reported a US missile struck a target near Abbas Port."
+    },
+    {
+      "id": "4992725",
+      "time": "2026-07-16 23:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國發布關於部分學生簽證有效期的最終規定。"
+    },
+    {
+      "id": "4992724",
+      "time": "2026-07-16 23:57:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所8月柴油期貨結算價每噸 1164 美元。"
+    },
     {
       "id": "te:markets:567616",
       "time": "2026-07-16 23:56:05",
