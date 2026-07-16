@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-17 01:27:40",
-  "count": 18756,
+  "updated": "2026-07-17 01:31:40",
+  "count": 18759,
   "items": [
+    {
+      "id": "4992804",
+      "time": "2026-07-17 01:30:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西外交部長：301條款調查屬於單邊程式，對巴西產品加徵關稅毫無正當理由。"
+    },
+    {
+      "id": "4992803",
+      "time": "2026-07-17 01:30:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿波羅公司押注墨西哥，計劃斥資200億美元進行私人信貸投資。"
+    },
+    {
+      "id": "mkt:019f6bf9-054c-7aab-8dce-6a85f7310f23",
+      "time": "2026-07-17 01:28:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Schmid of the Federal Reserve said the central bank must open its decision-making process, increase transparency and accept public criticism to be accountable."
+    },
+    {
+      "id": "4992802",
+      "time": "2026-07-17 01:28:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新突破 中國企業釋出全球最大規模的開源模型Kimi K3】2026世界人工智慧大會暨人工智慧全球治理高階別會議即將舉行之際，新一代模型Kimi K3於16日釋出，引數規模達2.8萬億。這是目前全球引數最大的開源模型，標誌著我國人工智慧模型發展邁出新的一步。釋出模型的北京月之暗面科技有限公司介紹，Kimi K3原生支援視覺理解，具備100萬詞元上下文視窗，面向軟體工程、知識工作、深度研究、多模態理解等複雜任務場景進行最佳化，進一步提升了大模型複雜任務的處理能力。“引數越大，能力上限越高，可以提供更智慧的模型表現。”月之暗面有關負責人表示，引數就像人腦裡的神經連線，近3萬億引數意味著這個模型能把更多的知識和規律裝進“腦子”，懂得更多、想得更深、答得更準。（新華社）"
+    },
+    {
+      "id": "4992801",
+      "time": "2026-07-17 01:27:32",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲施密德：通脹問題並非僅由能源導致。"
+    },
+    {
+      "id": "mkt:019f6bf7-e2fd-7aab-8dce-678ee1af4257",
+      "time": "2026-07-17 01:27:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Fed's Schmid said inf shocks are not inherently transitory and he disagrees that the Fed should \"ignore\" certain types of price increases."
+    },
     {
       "id": "mkt:019f6bf7-97f3-7aab-8dce-5c4fa9b21714",
       "time": "2026-07-17 01:26:56",
@@ -172432,33 +172490,6 @@
         "MKT News"
       ],
       "text": "Federal Reserve's Logan said strong markets must balance leverage use."
-    },
-    {
-      "id": "mkt:019f47ef-5dad-7aab-8d1e-e72112183ea8",
-      "time": "2026-07-10 01:31:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed official Logan offered no comments on monetary policy or the economy."
-    },
-    {
-      "id": "4979613",
-      "time": "2026-07-10 01:31:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭向美國提供本國無人機用於測試。"
-    },
-    {
-      "id": "4979612",
-      "time": "2026-07-10 01:30:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "提醒：美聯儲Logan並未置評FOMC貨幣政策或美國經濟前景。"
     }
   ]
 }
