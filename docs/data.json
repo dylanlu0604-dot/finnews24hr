@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-17 05:48:43",
-  "count": 18783,
+  "updated": "2026-07-17 05:52:35",
+  "count": 18781,
   "items": [
+    {
+      "id": "mkt:019f6ce9-1a5b-7aab-8dd1-9e0c251dacf5",
+      "time": "2026-07-17 05:50:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Argentina protests UK warship operations near Malvinas (Falkland Islands)】Argentina's Foreign Ministry on the 15th strongly protested operations by a UK warship near the Malvinas (Falkland Islands), citing the ongoing sovereignty dispute. The disagreement dates back decades—UN General Assembly Resolution 2065 (1965) recognizes a sovereignty dispute—and erupted into the 1982 Falklands/Malvinas war. Argentina says it has not abandoned its claim; the UK refuses to negotiate sovereignty."
+    },
+    {
+      "id": "4992981",
+      "time": "2026-07-17 05:49:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷抗議英國軍艦在馬島附近海域開展行動】阿根廷外交部15日表示，強烈反對英國軍艦在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）附近海域的行動。阿根廷和英國一直對馬島主權歸屬存有爭議。1965年聯合國大會透過第2065號決議，認定英國和阿根廷之間存在主權爭端。1982年4月2日，馬島戰爭爆發。阿根廷戰敗後一直沒有放棄對馬島主權的要求，英國則拒絕與阿根廷就馬島主權問題進行談判。（新華社）"
+    },
     {
       "id": "4992980",
       "time": "2026-07-17 05:42:50",
@@ -172682,39 +172698,6 @@
         "其他"
       ],
       "text": "【“古巴社會數字化轉型”專案正式啟動】“古巴社會數字化轉型”專案啟動儀式9日在古巴首都哈瓦那舉行。古巴通訊部長阿雷維奇、聯合國開發計劃署駐古巴副代表博蒂諾、古巴數字政府中心主任岡薩雷斯、中國駐古巴大使華昕等出席活動。據介紹，“古巴社會數字化轉型”專案是由全球發展和南南合作基金資助的三方合作專案，旨在推動古巴電信和數字服務技術基礎設施現代化升級，便利古巴民眾獲取數字化公共服務。（新華社）"
-    },
-    {
-      "id": "4979782",
-      "time": "2026-07-10 05:50:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "CCC INTELLIGENT盤後股價飆升14%，此前有報道稱該公司正在考慮出售。"
-    },
-    {
-      "id": "4979781",
-      "time": "2026-07-10 05:50:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員表示，若該框架落地見效，後續將逐步推廣至更多區域，鞏固邊境穩定、降低衝突風險，並維護地區長期安全。"
-    },
-    {
-      "id": "4979780",
-      "time": "2026-07-10 05:50:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "該美國官員補充稱，首個試點區域將於數日內啟用，落地雙方商定的安全與協同管控措施。作為分階段全面推進計劃的一環，其餘試點區域的規劃工作已同步開展。"
-    },
-    {
-      "id": "4979779",
-      "time": "2026-07-10 05:49:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一名美國官員表示，以色列與黎巴嫩框架協議已正式進入落實階段，歷經數月旨在緩和邊境緊張局勢的談判取得重大里程碑進展。"
     }
   ]
 }
