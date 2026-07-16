@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-17 03:58:16",
-  "count": 18783,
+  "updated": "2026-07-17 04:02:10",
+  "count": 18778,
   "items": [
+    {
+      "id": "mkt:019f6c85-50f1-7aab-8dd0-8992f5f91f24",
+      "time": "2026-07-17 04:01:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US close: major indexes down; SK Hynix ADR falls 13.6%】US stocks closed lower on Thursday: the Nasdaq Composite fell 1.47%, the Dow Jones Industrial Average fell 0.2% and the S&P 500 fell 0.5%. SK Hynix ADR (SKHY.O) dropped 13.6%, SanDisk (SNDK.O) fell 12.6%, Micron Technology (MU.O) fell 5.6%, Google (GOOG.O) fell more than 4% and NVIDIA (NVDA.O) fell more than 2%. The Nasdaq Golden Dragon China Index rose 1.8%; Tencent Music (TME.N) gained 4%."
+    },
+    {
+      "id": "4992929",
+      "time": "2026-07-17 04:01:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET股價下跌4.4%，市值蒸發2000億美元。"
+    },
+    {
+      "id": "4992928",
+      "time": "2026-07-17 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.20%，標普500指數跌0.51%，納指跌1.46%。閃迪跌12.63%，希捷跌10.00%，西部資料跌9.25%，康寧跌9.20%。“七姐妹”方面：蘋果漲1.73%，微軟漲1.37%，特斯拉跌0.88%，亞馬遜跌1.98%，英偉達跌2.39%，Meta Platforms跌2.47%，谷歌跌4.43%。"
+    },
+    {
+      "id": "4992927",
+      "time": "2026-07-17 04:00:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "巴西外長：針對受美國關稅影響的行業，巴西將出臺並公佈相關應對措施。"
+    },
+    {
+      "id": "te:markets:567640",
+      "time": "2026-07-17 04:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Visa Stock Price Hits 13-month High — Visa shares increased to 365.14 USD, the highest since June 2025. Over the past 4 weeks, Visa gained 10.31%, and in the last 12 months, it increased 4.18%."
+    },
+    {
+      "id": "4992926",
+      "time": "2026-07-17 04:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.79%】盛豐物流漲13.77%，愛奇藝漲4.62%，小牛電動漲4.96%，康迪車業漲4.51%，樂信漲4.79%。"
+    },
+    {
+      "id": "4992925",
+      "time": "2026-07-17 03:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西外長：盧拉一直希望與美國展開談判。"
+    },
+    {
+      "id": "mkt:019f6c82-dddb-7aab-8dd0-838c0943d6e8",
+      "time": "2026-07-17 03:59:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian media reported that after U.S. airstrikes on Qeshm Island, eight additional explosions were heard near Massan village."
+    },
     {
       "id": "mkt:019f6c80-b5b5-7aab-8dd0-7b7fff68538f",
       "time": "2026-07-17 03:56:42",
@@ -172566,137 +172642,6 @@
         "其他"
       ],
       "text": "開市客收跌4.2%，創2025年4月份以來最差單日表現。"
-    },
-    {
-      "id": "4979720",
-      "time": "2026-07-10 04:01:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "百事公司財報不及預期，股價收跌 3.3%，創 5 月以來單日最大跌幅。"
-    },
-    {
-      "id": "mkt:019f4878-acda-7aab-8d21-072f9e6e2228",
-      "time": "2026-07-10 04:01:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "Alibaba",
-        "Market Regions",
-        "Wall Street (US)",
-        "MU.O",
-        "Impact bullish",
-        "SNDK.O",
-        "WDC.O"
-      ],
-      "text": "【US close: major indexes higher; chip stocks lead gains】US stocks closed higher on Thursday: Nasdaq +1.3%, S&P 500 +0.8%, Dow Jones Industrial Average +0.26%. Semiconductor names led gains—Micron Technology (MU.O) +4.5%, SanDisk (SNDK.O) +7.5%, Western Digital (WDC.O) +5%. Meta Platforms (META.O) +4.7%. Nasdaq Golden Dragon China Index +0.56%; iQiyi (IQ.O) +8.5%, Alibaba (BABA.N) +2%."
-    },
-    {
-      "id": "4979719",
-      "time": "2026-07-10 04:01:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "META股價收盤上漲4.7%，創5月29日以來最高水平。"
-    },
-    {
-      "id": "4979718",
-      "time": "2026-07-10 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.27%，標普500指數漲0.81%，納指漲1.30%。Lumentum Holdings Inc. Common Stock When Issued漲11.13%，慧與漲9.92%，Arm Holdings Plc漲9.20%，閃迪漲7.59%，挪威郵輪漲6.96%。“七姐妹”方面：Meta Platforms漲4.70%，特斯拉漲3.17%，亞馬遜漲1.40%，蘋果漲0.90%，微軟漲0.27%，英偉達跌0.66%，谷歌跌0.69%。"
-    },
-    {
-      "id": "4979717",
-      "time": "2026-07-10 04:00:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "道瓊斯工業平均指數非官方收盤上漲109.48點，漲幅0.21%，報52457.87點。"
-    },
-    {
-      "id": "4979716",
-      "time": "2026-07-10 04:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：微軟還將透過API直接訪問OPENAI模型，為微軟365客戶提供GPT-5.6。"
-    },
-    {
-      "id": "4979715",
-      "time": "2026-07-10 04:00:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-5.6現已成為微軟365副駕駛（Microsoft 365 Copilot）的首選模型。"
-    },
-    {
-      "id": "4979714",
-      "time": "2026-07-10 04:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲0.55%】愛奇藝漲8.10%，優品車漲5.31%，Tims中國漲4.17%，聲網漲4.09%，虎牙漲3.51%。"
-    },
-    {
-      "id": "4979713",
-      "time": "2026-07-10 03:59:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Cursor 正在研發一款 AI 智慧助手，用以對標 Claude Cowork】兩名知情專案人士透露，Cursor 正在開發一款通用人工智慧智慧體，旨在對標 Anthropic 旗下 Claude Cowork 等熱門工具，這也是該公司跳出程式碼專用工具賽道、拓展多元業務佈局的舉措之一。知情人士稱，今年 4 月 Cursor 開始租用太空探索技術公司旗下人工智慧部門 SpaceX AI 的算力資源後，便啟動了這款全新智慧體的研發工作，該研發專案開展於太空探索技術公司計劃以 600 億美元收購 Cursor 交易落地之前。一旦這筆收購完成，這款新智慧體將助力 SpaceXAI 拓展企業端業務。此前兩家企業已聯合推出大模型 Grok 4.5，該模型既能完成工程類任務，也可處理通用知識類工作。兩名知情人士透露，Cursor 這款內部代號為 Sand 的新產品，是該公司首款面向普通 AI 使用者、而非程式設計師群體的產品。它將充當個性化助手，除處理工程相關工作外，還可完成回覆郵件、簡訊、整理表格等各類任務。一位訊息人士稱，Cursor 部分產品團隊正在對該專案進行測試與最佳化，這款產品已於 6 月下旬在公司內部上線試用。"
-    },
-    {
-      "id": "mkt:019f4876-dd82-7aab-8d20-fe9f32b94495",
-      "time": "2026-07-10 03:59:37",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Israel's prime minister's office said Trump informed Netanyahu of US actions in the Gulf. Netanyahu referenced Turkish President Erdogan and his allies' hardline remarks on Israel's presence and stressed the need to maintain Israel's border security zone."
-    },
-    {
-      "id": "mkt:019f4876-772c-7aab-8d20-f0fb44857cda",
-      "time": "2026-07-10 03:59:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "The Information reports Cursor is developing an AI agent aimed at competing with Claude Cowork."
-    },
-    {
-      "id": "mkt:019f4875-d9b4-7aab-8d20-ee923d132971",
-      "time": "2026-07-10 03:58:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Dollar index edges down 0.09% to 100.904 at New York close】The dollar index, measuring the greenback against six major currencies, fell 0.09% to 100.904 at the New York close. EUR/USD 1.1434 (prev. 1.1426); GBP/USD 1.3416 (1.3400); USD/JPY 162.34 (162.48); USD/CHF 0.8066 (0.8076); USD/CAD 1.4167 (1.4169); USD/SEK 9.6602 (9.6903)."
-    },
-    {
-      "id": "4979712",
-      "time": "2026-07-10 03:58:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：Cursor公司正開發一款人工智慧代理，對標Claude 3 Opus複製。"
     }
   ]
 }

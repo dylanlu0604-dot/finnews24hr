@@ -1,7 +1,83 @@
 {
   "date": "2026-07-17",
-  "count": 326,
+  "count": 334,
   "items": [
+    {
+      "id": "mkt:019f6c85-50f1-7aab-8dd0-8992f5f91f24",
+      "time": "2026-07-17 04:01:43",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【US close: major indexes down; SK Hynix ADR falls 13.6%】US stocks closed lower on Thursday: the Nasdaq Composite fell 1.47%, the Dow Jones Industrial Average fell 0.2% and the S&P 500 fell 0.5%. SK Hynix ADR (SKHY.O) dropped 13.6%, SanDisk (SNDK.O) fell 12.6%, Micron Technology (MU.O) fell 5.6%, Google (GOOG.O) fell more than 4% and NVIDIA (NVDA.O) fell more than 2%. The Nasdaq Golden Dragon China Index rose 1.8%; Tencent Music (TME.N) gained 4%."
+    },
+    {
+      "id": "4992929",
+      "time": "2026-07-17 04:01:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET股價下跌4.4%，市值蒸發2000億美元。"
+    },
+    {
+      "id": "4992928",
+      "time": "2026-07-17 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.20%，標普500指數跌0.51%，納指跌1.46%。閃迪跌12.63%，希捷跌10.00%，西部資料跌9.25%，康寧跌9.20%。“七姐妹”方面：蘋果漲1.73%，微軟漲1.37%，特斯拉跌0.88%，亞馬遜跌1.98%，英偉達跌2.39%，Meta Platforms跌2.47%，谷歌跌4.43%。"
+    },
+    {
+      "id": "4992927",
+      "time": "2026-07-17 04:00:11",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "巴西外長：針對受美國關稅影響的行業，巴西將出臺並公佈相關應對措施。"
+    },
+    {
+      "id": "te:markets:567640",
+      "time": "2026-07-17 04:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Visa Stock Price Hits 13-month High — Visa shares increased to 365.14 USD, the highest since June 2025. Over the past 4 weeks, Visa gained 10.31%, and in the last 12 months, it increased 4.18%."
+    },
+    {
+      "id": "4992926",
+      "time": "2026-07-17 04:00:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲1.79%】盛豐物流漲13.77%，愛奇藝漲4.62%，小牛電動漲4.96%，康迪車業漲4.51%，樂信漲4.79%。"
+    },
+    {
+      "id": "4992925",
+      "time": "2026-07-17 03:59:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西外長：盧拉一直希望與美國展開談判。"
+    },
+    {
+      "id": "mkt:019f6c82-dddb-7aab-8dd0-838c0943d6e8",
+      "time": "2026-07-17 03:59:03",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian media reported that after U.S. airstrikes on Qeshm Island, eight additional explosions were heard near Massan village."
+    },
     {
       "id": "mkt:019f6c80-b5b5-7aab-8dd0-7b7fff68538f",
       "time": "2026-07-17 03:56:42",
