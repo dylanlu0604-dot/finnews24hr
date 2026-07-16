@@ -1,7 +1,92 @@
 {
   "date": "2026-07-16",
-  "count": 2322,
+  "count": 2331,
   "items": [
+    {
+      "id": "te:markets:567527",
+      "time": "2026-07-16 18:11:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "UnitedHealth earnings above expectations at 6.38 USD — UnitedHealth (UNH) released earnings per share at 6.38 USD, compared to market expectations of 4.85 USD."
+    },
+    {
+      "id": "mkt:019f6a68-aa38-7aab-8dc5-31d2bded19bd",
+      "time": "2026-07-16 18:11:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact mixed",
+        "9988.HK"
+      ],
+      "text": "【Alibaba consolidates QoderWork, Wukong and MuleRun into enterprise productivity AI product】Alibaba is consolidating its agent product line, building a new enterprise productivity AI product based on QoderWork and integrating capabilities from Wukong and MuleRun. The unit will be led by Chen Yusen. Alibaba says existing QoderWork, Wukong and MuleRun services will be seamlessly upgraded and user rights will not be affected."
+    },
+    {
+      "id": "4992086",
+      "time": "2026-07-16 18:11:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特航空開通首條飛往大馬士革的直飛航線。"
+    },
+    {
+      "id": "mkt:019f6a68-6f11-7aab-8dc5-29642c71474d",
+      "time": "2026-07-16 18:10:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says Strait of Hormuz will not reopen under US pressure】On July 16, Iran's embassy in Lebanon said the Strait of Hormuz will not reopen due to US pressure and will only resume navigation under \"conditions set by Iran.\" The statement said the United States must accept this reality and that the dispute can be resolved either through dialogue or by accepting that Iranian military force will compel compliance with those conditions."
+    },
+    {
+      "id": "4992085",
+      "time": "2026-07-16 18:10:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿波羅全球管理公司據稱被視為加拿大LNG專案股份的最有力競購方。"
+    },
+    {
+      "id": "4992084",
+      "time": "2026-07-16 18:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱霍爾木茲海峽不會因美國施壓恢復開放】當地時間7月16日，伊朗駐黎巴嫩使館發表宣告稱，霍爾木茲海峽不會因美國施壓而恢復開放，只會按照“伊朗設定的條件”恢復通航。宣告稱，美國應當接受這一現實，解決相關問題只有兩種途徑，即透過對話或接受伊朗軍事力量迫使其遵守“伊朗設定的條件”。（央視新聞）"
+    },
+    {
+      "id": "4992083",
+      "time": "2026-07-16 18:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一油輪在伊拉克南部海域附近遭無人機襲擊】當地時間16日，伊拉克安全部門訊息人士稱，一架無人機當天擊中了伊拉克南部巴士拉省港口附近海域的一艘油輪。事件發生後，巴士拉港石油裝載工作已全部暫停。（央視新聞）"
+    },
+    {
+      "id": "4992082",
+      "time": "2026-07-16 18:08:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合健康：2026年Q2收入1120億美元，上調全年指引】聯合健康（UNH）公佈2026年第二季度業績。第二季度營收為1120億美元，運營利潤為80億美元，淨利潤率為4.9%。每股收益為6.04美元，調整後每股收益為6.38美元。運營現金流為111億美元，是淨利潤的1.9倍。截至2026年6月30日，債務資本比為41.2%。第二季度醫療成本率為86.7%，運營成本率為12.7%。公司上調2026年全年業績指引，預計全年每股收益為18.45-18.95美元，調整後每股收益為19.5-20美元。分業務看，UnitedHealthcare服務4850萬消費者，收入860億美元，利潤39億美元，運營利潤率為4.6%；Optum支援超1.2億消費者，收入657億美元，利潤40億美元，利潤率同比擴大160個基點。公司承諾自願消除並退還2026年個人ACA保險產品的利潤；計劃到2026年底消除30%的現有預授權量。"
+    },
+    {
+      "id": "4992081",
+      "time": "2026-07-16 18:08:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將惠普目標股價從26美元上調至27美元。"
+    },
     {
       "id": "4992080",
       "time": "2026-07-16 18:06:46",

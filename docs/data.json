@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-16 18:08:27",
-  "count": 18830,
+  "updated": "2026-07-16 18:12:23",
+  "count": 18832,
   "items": [
+    {
+      "id": "te:markets:567527",
+      "time": "2026-07-16 18:11:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "UnitedHealth earnings above expectations at 6.38 USD — UnitedHealth (UNH) released earnings per share at 6.38 USD, compared to market expectations of 4.85 USD."
+    },
+    {
+      "id": "4992086",
+      "time": "2026-07-16 18:11:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特航空開通首條飛往大馬士革的直飛航線。"
+    },
+    {
+      "id": "mkt:019f6a68-aa38-7aab-8dc5-31d2bded19bd",
+      "time": "2026-07-16 18:11:11",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact mixed",
+        "9988.HK"
+      ],
+      "text": "【Alibaba consolidates QoderWork, Wukong and MuleRun into enterprise productivity AI product】Alibaba is consolidating its agent product line, building a new enterprise productivity AI product based on QoderWork and integrating capabilities from Wukong and MuleRun. The unit will be led by Chen Yusen. Alibaba says existing QoderWork, Wukong and MuleRun services will be seamlessly upgraded and user rights will not be affected."
+    },
+    {
+      "id": "mkt:019f6a68-6f11-7aab-8dc5-29642c71474d",
+      "time": "2026-07-16 18:10:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says Strait of Hormuz will not reopen under US pressure】On July 16, Iran's embassy in Lebanon said the Strait of Hormuz will not reopen due to US pressure and will only resume navigation under \"conditions set by Iran.\" The statement said the United States must accept this reality and that the dispute can be resolved either through dialogue or by accepting that Iranian military force will compel compliance with those conditions."
+    },
+    {
+      "id": "4992085",
+      "time": "2026-07-16 18:10:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：阿波羅全球管理公司據稱被視為加拿大LNG專案股份的最有力競購方。"
+    },
+    {
+      "id": "4992084",
+      "time": "2026-07-16 18:10:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱霍爾木茲海峽不會因美國施壓恢復開放】當地時間7月16日，伊朗駐黎巴嫩使館發表宣告稱，霍爾木茲海峽不會因美國施壓而恢復開放，只會按照“伊朗設定的條件”恢復通航。宣告稱，美國應當接受這一現實，解決相關問題只有兩種途徑，即透過對話或接受伊朗軍事力量迫使其遵守“伊朗設定的條件”。（央視新聞）"
+    },
+    {
+      "id": "4992083",
+      "time": "2026-07-16 18:10:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一油輪在伊拉克南部海域附近遭無人機襲擊】當地時間16日，伊拉克安全部門訊息人士稱，一架無人機當天擊中了伊拉克南部巴士拉省港口附近海域的一艘油輪。事件發生後，巴士拉港石油裝載工作已全部暫停。（央視新聞）"
+    },
+    {
+      "id": "4992082",
+      "time": "2026-07-16 18:08:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聯合健康：2026年Q2收入1120億美元，上調全年指引】聯合健康（UNH）公佈2026年第二季度業績。第二季度營收為1120億美元，運營利潤為80億美元，淨利潤率為4.9%。每股收益為6.04美元，調整後每股收益為6.38美元。運營現金流為111億美元，是淨利潤的1.9倍。截至2026年6月30日，債務資本比為41.2%。第二季度醫療成本率為86.7%，運營成本率為12.7%。公司上調2026年全年業績指引，預計全年每股收益為18.45-18.95美元，調整後每股收益為19.5-20美元。分業務看，UnitedHealthcare服務4850萬消費者，收入860億美元，利潤39億美元，運營利潤率為4.6%；Optum支援超1.2億消費者，收入657億美元，利潤40億美元，利潤率同比擴大160個基點。公司承諾自願消除並退還2026年個人ACA保險產品的利潤；計劃到2026年底消除30%的現有預授權量。"
+    },
+    {
+      "id": "4992081",
+      "time": "2026-07-16 18:08:02",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將惠普目標股價從26美元上調至27美元。"
+    },
     {
       "id": "4992080",
       "time": "2026-07-16 18:06:46",
@@ -172947,66 +173032,6 @@
         "國際"
       ],
       "text": "儘管面臨天氣挑戰，烏克蘭仍維持2026年玉米產量預測為3000萬噸不變。"
-    },
-    {
-      "id": "4978831",
-      "time": "2026-07-09 18:10:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【良信股份：擬3億元對全資子公司智慧良信增資】良信股份公告稱，公司於2026年7月9日召開董事會，審議透過對全資子公司智慧良信增資的議案。公司擬以自有資金3億元對其增資，增資後智慧良信註冊資本由5000萬元增至3.5億元，公司仍持股100%。本次增資用於業務發展及日常經營，不構成關聯交易和重大資產重組，不會對公司財務和經營產生重大不利影響。"
-    },
-    {
-      "id": "4978830",
-      "time": "2026-07-09 18:09:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美銀全球研究將 美國運通公司<AXP.N>  目標股價從387美元上調至391美元。"
-    },
-    {
-      "id": "4978829",
-      "time": "2026-07-09 18:09:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【亞威股份：向揚州產發集團發行9209.86萬股，控股股東變更為揚州產發集團】亞威股份公告，公司向特定物件發行A股股票，揚州產業投資發展集團有限責任公司以現金認購公司9209.86萬股股票，佔發行完成後上市公司股份的比例為14.35%。本次權益變動完成後，揚州產發集團將成為公司控股股東，揚州市人民政府國有資產監督管理委員會將成為公司實際控制人。此前公司無控股股東及實際控制人。本次發行相關事宜已完成前期審批程式，中國證券登記結算有限責任公司深圳分公司已完成與本次發行相關的證券變更登記。"
-    },
-    {
-      "id": "mkt:019f465a-325a-7aab-8d12-c3eb0dcbc5e7",
-      "time": "2026-07-09 18:09:03",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Investors raise odds of Bank of England hikes as Mideast tensions flare】Markets pushed up the likelihood of near-term Bank of England rate hikes after renewed US–Iran hostilities. The US carried out airstrikes on Iran on Wednesday night and Iran attacked vessels transiting the Strait of Hormuz, raising concerns about oil-supply disruption and upward inflation pressure. LESG shows markets now price a cumulative 31bp of UK rate hikes for 2026, up from 23bp before Trump’s Wednesday remark that an Iran ceasefire had ended."
-    },
-    {
-      "id": "4978828",
-      "time": "2026-07-09 18:08:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濱海能源：控股股東旭陽集團增持1.18%股份，合計持股達25%】濱海能源公告，控股股東旭陽集團有限公司於2026年7月7日至9日透過集中競價方式增持公司股份273.6萬股，佔公司總股本的1.18%，交易價格區間為12.23-12.79元/股。本次增持後，旭陽集團及其一致行動人旭陽控股有限公司合計持有公司股份5793.8萬股，佔總股本的25.00%，觸及5%整數倍刻度。本次權益變動不會導致公司控股股東及實際控制人變化。"
-    },
-    {
-      "id": "4978827",
-      "time": "2026-07-09 18:08:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【海馬汽車：控股子公司海馬財務有限公司2026年上半年淨利潤613萬元，同比下降4.07%】海馬汽車公告，控股子公司海馬財務有限公司2026年上半年營業總收入2525萬元，同比下降8.75%；利潤總額1481萬元，同比下降18.40%；淨利潤613萬元，同比下降4.07%。"
-    },
-    {
-      "id": "4978826",
-      "time": "2026-07-09 18:08:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西緊急排程2.16億元支援防汛救災工作】截至7月9日，透過自治區財政國庫向南寧市、貴港市、防城港市、欽州市等嚴重受災地區累計排程庫款2.16億元，全力支援相關地區做好應急搶險、受災群眾救助及災後重建等工作，切實保障人民群眾生命財產安全。（央視新聞）"
     }
   ]
 }
