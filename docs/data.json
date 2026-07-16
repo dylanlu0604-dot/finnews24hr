@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-17 06:10:28",
-  "count": 18782,
+  "updated": "2026-07-17 06:14:22",
+  "count": 18784,
   "items": [
+    {
+      "id": "4992996",
+      "time": "2026-07-17 06:11:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中報業績預告披露收官疊加海外情緒擾動 科技板塊震盪中孕育新機】7月16日，A股科技板塊遭遇劇烈震盪，科創50指數收盤下跌4.02%，電子、通訊板塊主力資金合計淨流出逾300億元。當前，半年報業績預告披露已經收官，資金對利好的兌現意願強烈，以光模組、半導體為代表的科技龍頭紛紛遭遇集中拋售。分析人士認為，本輪科技股調整主要受中報業績兌現及海外情緒傳導雙重因素影響，屬於市場正常的估值消化過程。從產業基本面看，AI及半導體領域的景氣趨勢並未發生改變，經過短期調整後，科技板塊中長期配置價值依然值得關注。（中證報）"
+    },
+    {
+      "id": "mkt:019f6cfb-a34a-7aab-8dd1-c1c4db7e16f2",
+      "time": "2026-07-17 06:10:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US tightens maximum stay for foreign students, exchange visitors to four years】The US Department of Homeland Security on the 16th announced a rule limiting stays for foreign students and exchange visitors to a maximum of four years; extensions must be applied for through US Citizenship and Immigration Services (USCIS). Stays for foreign media representatives are also being shortened. DHS said the final rule will be published in the Federal Register within days and will take effect 60 days after publication."
+    },
+    {
+      "id": "4992995",
+      "time": "2026-07-17 06:10:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國政府新規收緊國際學生等入境居留期限】美國國土安全部16日公佈一項新規，將外國學生、交流訪問者的入境居留期限規定為最高4年，若需延期則須向美國公民及移民服務局提出申請。外國媒體代表在美居留期限也被收緊。美國國土安全部說，最終規定將於未來幾天內刊登在《聯邦公報》上，並於刊登60天后生效。（新華社）"
+    },
+    {
+      "id": "4992994",
+      "time": "2026-07-17 06:10:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【市場風格再平衡延續 傳媒等超跌板塊逆勢走強 】受外圍市場調整影響，7月16日，A股迎來縮量調整，三大股指集體下跌。從行業板塊看，電子、通訊等年內強勢板塊跌幅居前，傳媒、農林牧漁、美容護理等年內表現較弱的板塊逆勢上漲，表現活躍。在業內人士看來，短期A股市場波動增大，市場風格正在進行階段性再平衡，但當前尚未到成長風格向價值風格切換的時間點，波動後成長風格有望重新佔優。就後市配置而言，國產儲存、算力、半導體裝置等板塊短期或強於海外算力板塊，有色金屬、電力裝置及新能源、創新藥等板塊也值得關注。（中證報）"
+    },
     {
       "id": "4992993",
       "time": "2026-07-17 06:09:53",
@@ -172699,22 +172732,6 @@
         "其他"
       ],
       "text": "市場訊息：日東電工將擴大硬碟電路板產能。"
-    },
-    {
-      "id": "mkt:019f48ef-6158-7aab-8d21-f6f1763528fd",
-      "time": "2026-07-10 06:11:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A document shows Sudan's military has attached broad acceptable conditions to the latest US request that the Rapid Support Forces (RSF) withdraw from all occupied cities."
-    },
-    {
-      "id": "4979795",
-      "time": "2026-07-10 06:10:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【首批基金二季報披露，主動權益類基金保持高倉位運作】首批基金2026年二季報披露。7月9日，同泰基金率先披露旗下多隻基金二季報。從已披露的季報來看，不僅主動權益類基金保持高倉位運作，“固收+”產品也增加了權益倉位，更加強調進攻性。以同泰數字經濟股票基金為例，截至二季度末，權益投資佔基金資產淨值比為93.63%，基金規模從3.16億元增至8.01億元。此外，同泰行業優選股票基金的股票倉位也維持在高位。今年一季度末，該基金權益投資佔基金資產淨值的比例為90.26%，二季度末則提升至92.2%。（上證報）"
     }
   ]
 }
