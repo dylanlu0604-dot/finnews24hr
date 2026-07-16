@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-17 04:50:37",
-  "count": 18774,
+  "updated": "2026-07-17 04:54:29",
+  "count": 18781,
   "items": [
+    {
+      "id": "mkt:019f6cb4-d39e-7aab-8dd1-21ce36aa6b40",
+      "time": "2026-07-17 04:53:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NVDA.O",
+        "Impact bearish",
+        "MSFT.O",
+        "GOOGL.O"
+      ],
+      "text": "【DeepMind CEO proposes international pre-release review for frontier AI; Musk, Altman back plan】DeepMind CEO Demis Hassabis proposed creating an independent international body to test and review frontier AI models before public release and will meet US officials in Washington next week to discuss the plan. Hassabis cited advanced cyber-attack capabilities demonstrated by ANTHROPIC's MYTHOS as evidence of the need for stronger AI safety oversight. The proposal would place reviews in the hands of independent experts, be funded by major AI firms, allow up to 30 days of testing per model, and include provisions to coordinate industry slowdowns of frontier model development if necessary. OpenAI CEO Sam Altman and Elon Musk have publicly expressed support."
+    },
+    {
+      "id": "4992960",
+      "time": "2026-07-17 04:53:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛： 2026 年上半年平臺觀看時長同比增長 2%，較去年同期新增 15 億小時觀看量。 平臺觀看時長與營收、利潤不存線上性關聯。"
+    },
+    {
+      "id": "4992959",
+      "time": "2026-07-17 04:52:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌3%，現報1253.58美元/盎司。"
+    },
+    {
+      "id": "mkt:019f6cb3-bf62-7aab-8dd1-185160835e57",
+      "time": "2026-07-17 04:52:26",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O) co-CEO says the company still has substantial room to grow in its addressable market."
+    },
+    {
+      "id": "4992958",
+      "time": "2026-07-17 04:51:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月17日美股成交額前20：谷歌推遲釋出Gemini旗艦模型】週四美股成交額第5名谷歌A類股收跌4.44%，成交146.69億美元。據知情人士透露，谷歌推遲釋出Gemini旗艦模型，因技術能力未達預期目標。谷歌最強旗艦AI模型Gemini 3.5 Pro的釋出時間已較原計劃推遲數月，已引起谷歌工程師、AI研究人員和管理層的不滿，他們擔心，隨著Anthropic和OpenAI相繼推出效能超越Gemini的模型，谷歌可能失去市場領先優勢。上述訊息人士稱，谷歌在模型釋出前需要經過多個利益相關方審批，同時還要將AI能力整合進搜尋、地圖和YouTube等產品中，這些因素都會拖慢產品釋出進度。由於涉及公司內部情況，相關人士要求匿名。"
+    },
+    {
+      "id": "4992957",
+      "time": "2026-07-17 04:51:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "奈飛：公司預估自身僅佔據全球電視總收視份額的 5%。"
+    },
+    {
+      "id": "mkt:019f6cb2-7de7-7aab-8dd1-1387b41af549",
+      "time": "2026-07-17 04:51:04",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Dollar index up 0.27% to 100.76 at New York close】Dollar index (DXY) rose 0.27% to 100.76 at the New York FX close. EUR/USD 1.14 (previous close 1.15); GBP/USD 1.35, slightly below the prior session's 1.35; USD/JPY 162.39 (162.05); USD/CHF 0.8089 (0.8047); USD/CAD 1.40, marginally above the prior session's 1.40; USD/SEK 9.65 (9.59)."
+    },
+    {
+      "id": "4992956",
+      "time": "2026-07-17 04:50:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛：圍繞我們的一系列目標取得強勁的進展。 目前僅開發了不足五成的潛在市場。"
+    },
     {
       "id": "mkt:019f6cb0-81bf-7aab-8dd1-0c7efe38ddfc",
       "time": "2026-07-17 04:48:54",
@@ -172611,14 +172688,6 @@
         "國際"
       ],
       "text": "【7月10日美股成交額前20：美光宣佈超2500億美元本土投資計劃】週四美股成交額第1名美光科技收高4.52%，成交408.4億美元。該公司宣佈，計劃2035年前在美國投資超過2500億美元。最新計劃比該公司去年6月公佈的2000億美元大幅提升。據美光科技介紹，此次追加投資的目的包括實現一項長期目標，即將其DRAM（動態隨機存取儲存器）產量的40%放在美國本土生產。2500億美元投資將用於一些工廠建設計劃，例如在美國愛達荷州博伊西建設第二座前沿儲存晶片製造工廠、擴建弗吉尼亞州馬納薩斯的一處製造設施。此外，還有數百億美元將用於技術研發。"
-    },
-    {
-      "id": "4979755",
-      "time": "2026-07-10 04:51:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮官方X：特朗普賬戶上線僅五天，美國家庭捐款總額已近 1.25 億美元。"
     }
   ]
 }
