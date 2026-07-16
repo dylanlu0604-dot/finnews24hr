@@ -1,7 +1,35 @@
 {
   "date": "2026-07-16",
-  "count": 3078,
+  "count": 3081,
   "items": [
+    {
+      "id": "4992615",
+      "time": "2026-07-16 22:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣汽正與華為聯合研發下一代智慧數字底盤】廣汽方面透露，已建成全固態電池中試產線，自主量產的夸克電驅電機最高效率突破99%，並正與華為聯合研發下一代智慧數字底盤。"
+    },
+    {
+      "id": "te:markets:567595",
+      "time": "2026-07-16 22:08:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Financials and Gold Miners Retreat — The S&P/TSX Composite Index fell more than 0.5% to trade below 35,500 on Thursday as gold prices slipped, while investors assessed worsening tensions in the Middle East. Agnico Eagle shed 2.5%, while Barrick and WPM lost more than 3% each. Meanwhile, the conflict pushed oil prices higher on supply concerns, fueling inflation worries. Financials traded lower, with RBC, TD Bank, Scotiabank, and CIBC losing nearly 1% each. Elsewhere, Cogeco Communications gained 0.5% despite missing third-quarter revenue estimates after the market close on Wednesday. Meanwhile, US Trade Representative Jamieson Greer said formal trade talks with Mexico were making progress, while discussions with Canada had yet to deliver the concessions sought by President Trump as he pushes to reduce US trade deficits with both countries. Earlier this month, the US said it would not renew the USMCA, although the pact would remain in effect until the issues are resolved or the agreement is terminated."
+    },
+    {
+      "id": "4992614",
+      "time": "2026-07-16 22:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國全國房地產經紀人協會（NAR）首席經濟學家Lawrence Yun表示：近一年來的最高抵押貸款利率，加上創下歷史新高的全國房屋中位價，共同導致房地產市場表現疲軟，這對首次購房者來說尤其困難。"
+    },
     {
       "id": "4992613",
       "time": "2026-07-16 22:07:47",

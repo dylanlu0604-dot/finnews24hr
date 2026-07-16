@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-16 22:08:22",
-  "count": 18778,
+  "updated": "2026-07-16 22:12:29",
+  "count": 18764,
   "items": [
+    {
+      "id": "4992615",
+      "time": "2026-07-16 22:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣汽正與華為聯合研發下一代智慧數字底盤】廣汽方面透露，已建成全固態電池中試產線，自主量產的夸克電驅電機最高效率突破99%，並正與華為聯合研發下一代智慧數字底盤。"
+    },
+    {
+      "id": "te:markets:567595",
+      "time": "2026-07-16 22:08:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Financials and Gold Miners Retreat — The S&P/TSX Composite Index fell more than 0.5% to trade below 35,500 on Thursday as gold prices slipped, while investors assessed worsening tensions in the Middle East. Agnico Eagle shed 2.5%, while Barrick and WPM lost more than 3% each. Meanwhile, the conflict pushed oil prices higher on supply concerns, fueling inflation worries. Financials traded lower, with RBC, TD Bank, Scotiabank, and CIBC losing nearly 1% each. Elsewhere, Cogeco Communications gained 0.5% despite missing third-quarter revenue estimates after the market close on Wednesday. Meanwhile, US Trade Representative Jamieson Greer said formal trade talks with Mexico were making progress, while discussions with Canada had yet to deliver the concessions sought by President Trump as he pushes to reduce US trade deficits with both countries. Earlier this month, the US said it would not renew the USMCA, although the pact would remain in effect until the issues are resolved or the agreement is terminated."
+    },
+    {
+      "id": "4992614",
+      "time": "2026-07-16 22:08:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國全國房地產經紀人協會（NAR）首席經濟學家Lawrence Yun表示：近一年來的最高抵押貸款利率，加上創下歷史新高的全國房屋中位價，共同導致房地產市場表現疲軟，這對首次購房者來說尤其困難。"
+    },
     {
       "id": "4992613",
       "time": "2026-07-16 22:07:47",
@@ -172514,163 +172542,6 @@
         "Impact bullish"
       ],
       "text": "OpenAI founder Altman said Microsoft will remain one of OpenAI's largest customers."
-    },
-    {
-      "id": "4979433",
-      "time": "2026-07-09 22:12:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【500餘人投入晉江鞋廠火災救援】記者採訪瞭解到，福建晉江陳埭鎮江頭村的輝騰鞋業有限公司廠房火災發生後，屬地消防趕赴現場救援，調集救援力量500餘人全力開展工作。火災發生時現場工人237人，外來送貨人員2人，現場疏散213人，2人送醫救治後身亡，26名失蹤人員遇難。（新華社）"
-    },
-    {
-      "id": "4979432",
-      "time": "2026-07-09 22:12:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI執行長奧特曼在接受採訪時表示，微軟仍將是我們最大的客戶之一。"
-    },
-    {
-      "id": "4979431",
-      "time": "2026-07-09 22:12:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI的CEO奧特曼：中國開源模型正變得“非常好”。"
-    },
-    {
-      "id": "te:economy:565725",
-      "time": "2026-07-09 22:12:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Existing Home Sales",
-        "Importance 2"
-      ],
-      "text": "US Existing Home Sales Unexpectedly Fall — Existing home sales in the United States fell by 2.4% from the previous month to a seasonally adjusted, annualized rate of 4.09 million units in June of 2026, firmly below expectations that they would hold steady at 4.20 million. Sales fell in the South (-3.6% to 1.89 million), the Midwest (-3.0% to 0.98 million), and the West (-1.3% to 0.74 million), offsetting an increase in the Northeast (2.1% to 0.48 million). With the last sales results, inventory fell by 0.6% to 1.56 million units, equivalent to 4.6 months of supply. Meanwhile, the average price of existing home sales rose by 1.8% from the previous year to $440,600, the most in over one year."
-    },
-    {
-      "id": "mkt:019f4738-afb6-7aab-8d1b-1195d30a030d",
-      "time": "2026-07-09 22:12:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A statement said Iran's foreign minister and the foreign ministers of Oman and Turkey urged preventing escalation through diplomatic channels."
-    },
-    {
-      "id": "4979430",
-      "time": "2026-07-09 22:11:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗、阿曼、土耳其三國外長討論了最新地區動態，其中包括霍爾木茲海峽近期局勢。"
-    },
-    {
-      "id": "mkt:019f4738-52d8-7aab-8d1b-084a87048f04",
-      "time": "2026-07-09 22:11:41",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bearish",
-        "MSFT.O",
-        "MU.O"
-      ],
-      "text": "OpenAI founder Altman said rising compute and memory costs are undoubtedly a headwind."
-    },
-    {
-      "id": "4979429",
-      "time": "2026-07-09 22:11:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國國民黨副主席蕭旭岑：臺灣任何守法的人都會堅定反對臺獨】7月8日，第14屆雲臺會開幕式在雲南海埂會堂舉行。中國國民黨副主席蕭旭岑致辭時表示，反對“臺獨”本來就符合臺灣法律規定，“臺獨”危害臺海安全、違背兩岸人民利益，臺灣任何守法的人都會堅定反對“臺獨”。兩岸的法律法規和體制都是用一箇中國架構來定位，兩岸關係不是“國與國”關係，這是非常清楚的現實。（中新網）"
-    },
-    {
-      "id": "mkt:019f4738-35b6-7aab-8d1b-011f05bd0470",
-      "time": "2026-07-09 22:11:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US misreads Iran's \"flexibility\" as weakness】Abas Aslani, senior researcher at the Tehran-based Middle East Strategic Studies Center, says Iran is seeking to repair ties with Gulf neighbors despite launching a series of attacks on their territory. He says Tehran is pursuing diplomatic, negotiated channels and has sought to limit the scope and scale of responses to US actions; Western misreading of Iranian flexibility as weakness could be interpreted as a red carpet for further attacks. Aslani adds Iranian officials have held consultations with regional counterparts to mend relations, a process Israel and the United States oppose as they seek to sow division between Iran and its neighbors."
-    },
-    {
-      "id": "mkt:019f4738-1ab5-7aab-8d1a-fca583c60f89",
-      "time": "2026-07-09 22:11:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI founder Altman said he expects smoother cooperation with governments on AI."
-    },
-    {
-      "id": "4979428",
-      "time": "2026-07-09 22:11:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI創始人奧特曼：預計與政府在人工智慧方面的合作將更加順利。"
-    },
-    {
-      "id": "4979427",
-      "time": "2026-07-09 22:10:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日月譚天丨“去中國化”毒策升級！民進黨妄圖讓臺灣人“拜祖先而不知祖源”】日前，海峽兩岸分別在甘肅天水、臺灣新北舉行祭祀中華人文始祖伏羲典禮，眾多臺灣同胞在兩地積極參與。兩岸尋根拜祖的正當活動，連日來卻遭到民進黨當局瘋狂抹黑歪曲。臺陸委會、民進黨籍民意代表輪番登場，妄稱相關活動“政治意味濃厚”“是宗教統戰”。《自由時報》等綠營媒體對參與活動的島內人士發起“輿論圍剿”，稱其“矮化臺灣”。在譚主看來，民進黨的這一舉動十分險惡，背後暗藏其從“去中國化”向“去祖源化”升級的卑劣用心，是妄圖讓臺灣人“拜祖先而不知祖源”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f4737-77ba-7aab-8d1a-f496f83dbe73",
-      "time": "2026-07-09 22:10:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel Defense Forces said it destroyed two underground tunnels in Majdal Zoun in southern Lebanon, with a combined length of about 200 meters."
-    },
-    {
-      "id": "mkt:019f4737-6df3-7aab-8d1a-e9ec7cf1e0eb",
-      "time": "2026-07-09 22:10:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Meta Platforms",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "【Meta launches first paid AI developer model aiming for price-performance edge】Meta unveiled Muse Spark 1.1 with a new paid developer tier—its first time charging businesses for model access—creating a potential new revenue stream. The non-open-source model will be distributed via a Meta Model API with a limited free token allowance; access beyond a token threshold will be paid. Meta says API pricing is roughly 25% of comparable OpenAI and Anthropic quotes. CEO Mark Zuckerberg highlighted marked improvements in agent inference, tool use and coding, and described the API launch and pricing as aggressive to broaden developer adoption."
-    },
-    {
-      "id": "4979426",
-      "time": "2026-07-09 22:10:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨鉑金上漲3%】現貨鉑金漲幅擴大至3%，報1627美元/盎司。"
-    },
-    {
-      "id": "mkt:019f4735-f3ec-7aab-8d1a-e5e4e29aaf0f",
-      "time": "2026-07-09 22:09:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's foreign ministry said Turkey's foreign minister spoke by phone with Iran's foreign minister to discuss recent developments and a ceasefire."
-    },
-    {
-      "id": "4979425",
-      "time": "2026-07-09 22:08:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外交部訊息人士稱，土耳其外交部長與伊朗外長通電話，討論了最新局勢進展與停火議題。"
     }
   ]
 }
