@@ -1,7 +1,113 @@
 {
   "date": "2026-07-16",
-  "count": 1333,
+  "count": 1344,
   "items": [
+    {
+      "id": "mkt:019f6934-2d27-7aab-8dba-62348c2fc864",
+      "time": "2026-07-16 12:34:14",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "Canaccord Genuity raises PT on PayPal to $55 from $42."
+    },
+    {
+      "id": "4991394",
+      "time": "2026-07-16 12:33:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.4%，至176,101.70點。"
+    },
+    {
+      "id": "4991393",
+      "time": "2026-07-16 12:32:23",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行調查顯示，86.1%的日本家庭預期五年後物價將上漲，前次調查該比例為82.6%。調查顯示，日本家庭預計五年後通脹將平均上升10.8%，中位數上升5.0%。"
+    },
+    {
+      "id": "mkt:019f6931-e5f1-7aab-8dba-5800acb75e3e",
+      "time": "2026-07-16 12:31:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan survey: Japanese households expect five-year-ahead inflation to rise by an average of 10.8% and a median of 5.0%."
+    },
+    {
+      "id": "mkt:019f6931-adfc-7aab-8dba-561e9b047f74",
+      "time": "2026-07-16 12:31:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan survey: 86.1% of Japanese households expect consumer prices to be higher five years from now, up from 82.6% in the previous survey."
+    },
+    {
+      "id": "mkt:019f6931-96fe-7aab-8dba-4e2026996d44",
+      "time": "2026-07-16 12:31:25",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan survey: Japanese households expect one-year-ahead inflation to rise by 13.1% on average; median expectation 10.0%."
+    },
+    {
+      "id": "4991392",
+      "time": "2026-07-16 12:31:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行調查顯示：日本家庭預計一年後通脹平均將上升13.1%，中位漲幅為10.0%。"
+    },
+    {
+      "id": "te:markets:567403",
+      "time": "2026-07-16 12:31:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Remain at 2-Month High — Wheat futures traded around $6.70 per bushel in mid-July, remaining at its highest level since May 12, as escalating Ukrainian and Russian strikes in the Black Sea raised concerns over disruptions to a crucial global grain export corridor. Ukrainian forces targeted Russian vessels in the Black Sea after striking more than 100 Russia-linked ships in the Sea of Azov, while Moscow stepped up attacks on Ukrainian ports. The Black Sea remains a critical hub for global grain shipments, with Russia the world’s largest wheat exporter and Ukraine among the leading suppliers. Ukraine has already lost roughly one-third of its grain export capacity through Black Sea ports due to intensified Russian attacks, raising concerns over tighter global supplies. The latest escalation has revived memories of the supply shock at the start of the war in 2022, when the closure of Ukrainian ports stranded millions of tonnes of grain and sent global food prices sharply higher."
+    },
+    {
+      "id": "mkt:019f6931-5603-7aab-8dba-42b1844bd8d6",
+      "time": "2026-07-16 12:31:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan's June quarterly survey showed 90.4% of Japanese households expect prices to be higher in one year, up from 83.7% in the prior survey."
+    },
+    {
+      "id": "4991391",
+      "time": "2026-07-16 12:30:53",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行6月季度調查顯示，90.4%的日本家庭預計一年後物價將上漲，前一次調查該比例為83.7%。"
+    },
+    {
+      "id": "4991390",
+      "time": "2026-07-16 12:30:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本機器人企業發那科和川崎重工等加入英偉達的物理AI陣營】英偉達公司與日本四家領先工業自動化企業表示，將擴大機器人開發領域的合作，進一步推動黃仁勳在人工智慧(AI)硬體領域的發展戰略。富士通、發那科、川崎重工和安川電機將加入由英偉達主導的Cosmos聯盟。該聯盟由企業和研究機構組成，旨在加速採用英偉達平臺發展業內所稱的物理AI。所謂物理AI涵蓋廣泛應用領域，包括人形機器人、工廠自動化系統、自動駕駛汽車、智慧建築和智慧鐵路系統等。此外，日立、NEC公司、小松和久保田也將加入該聯盟。總部位於美國加州聖克拉拉的英偉達本週派出由聯合創始人黃仁勳率領的高管代表團訪問日本，以推廣“物理AI”生態系統建設理念並拓展業務合作。"
+    },
     {
       "id": "4991389",
       "time": "2026-07-16 12:29:04",

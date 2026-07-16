@@ -1,7 +1,113 @@
 {
-  "updated": "2026-07-16 12:31:40",
-  "count": 18709,
+  "updated": "2026-07-16 12:35:42",
+  "count": 18711,
   "items": [
+    {
+      "id": "mkt:019f6934-2d27-7aab-8dba-62348c2fc864",
+      "time": "2026-07-16 12:34:14",
+      "tags": [
+        "MKT News",
+        "PYPL.O",
+        "Impact bullish"
+      ],
+      "text": "Canaccord Genuity raises PT on PayPal to $55 from $42."
+    },
+    {
+      "id": "4991394",
+      "time": "2026-07-16 12:33:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後上漲0.4%，至176,101.70點。"
+    },
+    {
+      "id": "4991393",
+      "time": "2026-07-16 12:32:23",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行調查顯示，86.1%的日本家庭預期五年後物價將上漲，前次調查該比例為82.6%。調查顯示，日本家庭預計五年後通脹將平均上升10.8%，中位數上升5.0%。"
+    },
+    {
+      "id": "mkt:019f6931-e5f1-7aab-8dba-5800acb75e3e",
+      "time": "2026-07-16 12:31:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank of Japan survey: Japanese households expect five-year-ahead inflation to rise by an average of 10.8% and a median of 5.0%."
+    },
+    {
+      "id": "mkt:019f6931-adfc-7aab-8dba-561e9b047f74",
+      "time": "2026-07-16 12:31:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan survey: 86.1% of Japanese households expect consumer prices to be higher five years from now, up from 82.6% in the previous survey."
+    },
+    {
+      "id": "mkt:019f6931-96fe-7aab-8dba-4e2026996d44",
+      "time": "2026-07-16 12:31:25",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Bank of Japan survey: Japanese households expect one-year-ahead inflation to rise by 13.1% on average; median expectation 10.0%."
+    },
+    {
+      "id": "4991392",
+      "time": "2026-07-16 12:31:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行調查顯示：日本家庭預計一年後通脹平均將上升13.1%，中位漲幅為10.0%。"
+    },
+    {
+      "id": "te:markets:567403",
+      "time": "2026-07-16 12:31:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Remain at 2-Month High — Wheat futures traded around $6.70 per bushel in mid-July, remaining at its highest level since May 12, as escalating Ukrainian and Russian strikes in the Black Sea raised concerns over disruptions to a crucial global grain export corridor. Ukrainian forces targeted Russian vessels in the Black Sea after striking more than 100 Russia-linked ships in the Sea of Azov, while Moscow stepped up attacks on Ukrainian ports. The Black Sea remains a critical hub for global grain shipments, with Russia the world’s largest wheat exporter and Ukraine among the leading suppliers. Ukraine has already lost roughly one-third of its grain export capacity through Black Sea ports due to intensified Russian attacks, raising concerns over tighter global supplies. The latest escalation has revived memories of the supply shock at the start of the war in 2022, when the closure of Ukrainian ports stranded millions of tonnes of grain and sent global food prices sharply higher."
+    },
+    {
+      "id": "mkt:019f6931-5603-7aab-8dba-42b1844bd8d6",
+      "time": "2026-07-16 12:31:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Bank of Japan's June quarterly survey showed 90.4% of Japanese households expect prices to be higher in one year, up from 83.7% in the prior survey."
+    },
+    {
+      "id": "4991391",
+      "time": "2026-07-16 12:30:53",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行6月季度調查顯示，90.4%的日本家庭預計一年後物價將上漲，前一次調查該比例為83.7%。"
+    },
+    {
+      "id": "4991390",
+      "time": "2026-07-16 12:30:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日本機器人企業發那科和川崎重工等加入英偉達的物理AI陣營】英偉達公司與日本四家領先工業自動化企業表示，將擴大機器人開發領域的合作，進一步推動黃仁勳在人工智慧(AI)硬體領域的發展戰略。富士通、發那科、川崎重工和安川電機將加入由英偉達主導的Cosmos聯盟。該聯盟由企業和研究機構組成，旨在加速採用英偉達平臺發展業內所稱的物理AI。所謂物理AI涵蓋廣泛應用領域，包括人形機器人、工廠自動化系統、自動駕駛汽車、智慧建築和智慧鐵路系統等。此外，日立、NEC公司、小松和久保田也將加入該聯盟。總部位於美國加州聖克拉拉的英偉達本週派出由聯合創始人黃仁勳率領的高管代表團訪問日本，以推廣“物理AI”生態系統建設理念並拓展業務合作。"
+    },
     {
       "id": "4991389",
       "time": "2026-07-16 12:29:04",
@@ -172010,88 +172116,6 @@
         "其他"
       ],
       "text": "【北約峰會落幕 土耳其總統贈槍作別】在土耳其首都安卡拉舉行的北約峰會8日落幕。土耳其總統埃爾多安給與會領導人贈送了一份“特別”的禮物：一把刻有各自名字的左輪手槍，以及一盒彈藥。據英國《衛報》報道，英國首相斯塔默8日在返程飛機上向記者透露了這一訊息。他說，左輪手槍上刻有他的名字，還附上一封埃爾多安解除土耳其對該槍支出口管制的信函，以便與會領導人能將禮物帶回國。不過，斯塔默最終還是將手槍留在了英國駐土耳其大使館，理由是槍支即便經由政府專機被帶回英國，在英國仍屬違法行為。（新華社）"
-    },
-    {
-      "id": "4978175",
-      "time": "2026-07-09 12:34:42",
-      "tags": [],
-      "text": "【外資Q2重回港股、加倉科技 創業板50ETF華安（159949）半日成交逾12億領跑  機構：中報季“明牌”開啟】7月9日，A股三大指數漲跌互現。滬指下跌0.46％；創業板指上漲0.13％。受此影響，創業板50ETF華安（159949）早盤上漲0.27％，報1.837元，換手率5.96％，半日成交額12.75億元，居同類標的ETF首位。國產DRAM龍頭長鑫科技公佈科創板IPO招股意向書，新股申購日期為7月16日。長鑫科技本次發行採用戰略配售、網下發行與網上發行相結合的方式進行。國信證券分析師吳信坤等指出，二季度陸股通佔A股自由流通市值比重自一季度的5.1％提升至5.5％。二季度外資流入寧德時代、中微公司、寒武紀等較多，流出三環集團、貴州茅臺、天孚通訊等較多。港股外資主要流入科技、有色板塊等，但在科技板塊定價權整體回落明顯。嘉實基金王貴重認為，當前市場正置身於一輪由AI驅動的半導體“超級上行週期”，其長度與強度將遠超歷史任何一次行情。銀河證券指出，7月A股正式邁入中報業績披露視窗，疊加7月下旬美股科技巨頭財報集中披露，市場迎來業績預期下的“明牌”時刻。配置上，聚焦“科技輪動＋防禦配置”均衡佈局策略。投資者可直接透過股票賬戶交易創業板50ETF華安（159949），也可透過聯接基金（A類：160422；C類：160424；I類：022654；Y類：022976）參與。"
-    },
-    {
-      "id": "4978174",
-      "time": "2026-07-09 12:34:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "傑富瑞將洲際交易所目標價從199美元下調至171美元。"
-    },
-    {
-      "id": "mkt:019f4527-5da0-7aab-8d08-68e05f17326d",
-      "time": "2026-07-09 12:33:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "NVDA.O",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Temasek's CIO says AI hardware and infrastructure hold significant opportunities."
-    },
-    {
-      "id": "mkt:019f4527-2682-7aab-8d08-642da55e401d",
-      "time": "2026-07-09 12:33:41",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Temasek's CIO says the firm will increase allocations to companies dominated by physical assets, such as infrastructure and commodities, as they are less exposed to AI-related disruption."
-    },
-    {
-      "id": "4978173",
-      "time": "2026-07-09 12:33:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將芝商所集團目標價從348美元下調至286美元。"
-    },
-    {
-      "id": "4978172",
-      "time": "2026-07-09 12:33:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤後下跌0.9%，至180,138.20點。"
-    },
-    {
-      "id": "mkt:019f4526-b472-7aab-8d08-5a08751dead4",
-      "time": "2026-07-09 12:33:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Temasek CIO says it has focused on investments that can access large domestic markets."
-    },
-    {
-      "id": "4978171",
-      "time": "2026-07-09 12:33:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩：歐盟和土耳其是戰略伙伴，我們致力於加強我們的關係。 在一個更加充滿挑戰的世界中，我們的夥伴關係比以往任何時候都更加重要。 土耳其在應對中東危機以及支援烏克蘭實現公正持久和平的努力方面，一直是重要的夥伴。 我們還必須抓住重新煥發的勢頭，透過聯合國主導的程序推進塞普勒斯問題的解決方案。"
-    },
-    {
-      "id": "te:markets:565502",
-      "time": "2026-07-09 12:31:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Opens on a Firm Note — India’s BSE Sensex gained about 0.7% to 77,051 at the open on Thursday, recovering some ground after posting its sharpest single-session decline in three months a day earlier, although gains remained tempered by renewed tensions in the Middle East that have lifted crude oil prices. Foreign portfolio investors provided some support to the market, remaining net buyers despite Wednesday's sell-off. Meanwhile, investors are awaiting results from Tata Consultancy Services, one of the first major blue-chip companies to report, for clues on the health of corporate earnings. Meanwhile, Tata Steel reported an 11% year-over-year increase in crude steel production, while Phoenix Mills posted a 32% rise in first-quarter portfolio consumption, offering some encouraging signs from the corporate sector. Notable gainers included Unichem Lab (20%), Kalyan Jewellers (10%), Jindal Drilling (8.5%), and Aequs (6.9%). On the downside, Reliance fell 2.6%, followed by Polycab (-2.1%), and Infosys (-2%)."
     }
   ]
 }
