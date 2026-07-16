@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-17 01:43:42",
-  "count": 18772,
+  "updated": "2026-07-17 01:47:36",
+  "count": 18780,
   "items": [
+    {
+      "id": "mkt:019f6c0a-1955-7aab-8dce-e78cca265c21",
+      "time": "2026-07-17 01:47:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: On reports that some in Israel are seeking to prolong the war indefinitely, Trump said foreign powers will try to influence U.S. public opinion, calling that an objective fact."
+    },
+    {
+      "id": "4992828",
+      "time": "2026-07-17 01:46:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普總統不會允許伊朗在霍爾木茲海峽發動襲擊而不付出代價。美國可以在任何時間、任何地點打擊伊朗。"
+    },
+    {
+      "id": "4992827",
+      "time": "2026-07-17 01:45:52",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：紐約聯儲隔夜回購操作未收到任何投標。"
+    },
+    {
+      "id": "mkt:019f6c08-db10-7aab-8dce-da1296a60b85",
+      "time": "2026-07-17 01:45:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "White House: President Trump will not allow Iran to launch attacks in the Strait of Hormuz without consequences. The United States can strike Iran at any time and anywhere."
+    },
+    {
+      "id": "mkt:019f6c07-c3ef-7aab-8dce-d15aa9ddcd4f",
+      "time": "2026-07-17 01:44:35",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Fed's LOGAN said even by the most conservative estimates, rising data-center demand that pushes up power prices could become a new modest inflationary pressure."
+    },
+    {
+      "id": "4992826",
+      "time": "2026-07-17 01:44:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦貿易委員會：卡爾提議對普遍服務基金管理進行全面審查。"
+    },
+    {
+      "id": "4992825",
+      "time": "2026-07-17 01:44:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "洛根：即便按照最保守的估算，資料中心需求推高的電價，很可能會成為又一股溫和通脹壓力來源。"
+    },
+    {
+      "id": "4992824",
+      "time": "2026-07-17 01:43:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：美國對伊朗發動襲擊是因為伊朗攻擊船隻。"
+    },
+    {
+      "id": "4992823",
+      "time": "2026-07-17 01:43:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "WTI原油日內跌幅達2.00%，現報78.13美元/桶。"
+    },
     {
       "id": "mkt:019f6c06-8642-7aab-8dce-ca4ac157ae5a",
       "time": "2026-07-17 01:43:14",
@@ -172594,14 +172678,6 @@
         "國際"
       ],
       "text": "美國監管機構已結束對 iHeartMedia 的調查，相關指控為該公司要求藝人出席旗下活動演出，以此換取歌曲更多電臺播放量，卻未依法披露該交易安排。"
-    },
-    {
-      "id": "4979621",
-      "time": "2026-07-10 01:45:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際原子能機構：俄烏衝突給核電站安全帶來持續風險】國際原子能機構總幹事格羅西9日表示，近日駐紮在烏克蘭各核電站的國際原子能機構團隊多次聽到軍事活動的聲音，包括無人機和槍聲。目前尚無關於核電站受損的報告。（央視新聞）"
     }
   ]
 }
