@@ -1,7 +1,39 @@
 {
   "date": "2026-07-17",
-  "count": 85,
+  "count": 89,
   "items": [
+    {
+      "id": "mkt:019f6be4-6aef-7aab-8dcd-b38dfccc50b4",
+      "time": "2026-07-17 01:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's International Media Office said Doha has repeatedly stated since the outbreak of the current round of conflict that it will not participate in military action against any neighboring country."
+    },
+    {
+      "id": "mkt:019f6be4-5a51-7aab-8dcd-ae0d4da50934",
+      "time": "2026-07-17 01:05:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's International Media Office strongly denied Israeli media reports that Qatar had agreed to participate in military action against Iran, saying the reports are completely false."
+    },
+    {
+      "id": "4992781",
+      "time": "2026-07-17 01:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭預計將在今年年底具備生產美國製“愛國者”防空系統導彈的技術能力。"
+    },
+    {
+      "id": "4992780",
+      "time": "2026-07-17 01:04:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達：我們拒絕以色列媒體毫無根據的報道，這些報道聲稱我們同意參與針對伊朗的軍事行動。"
+    },
     {
       "id": "4992779",
       "time": "2026-07-17 01:02:26",

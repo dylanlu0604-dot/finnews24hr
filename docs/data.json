@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-17 01:03:36",
-  "count": 18742,
+  "updated": "2026-07-17 01:07:42",
+  "count": 18739,
   "items": [
+    {
+      "id": "mkt:019f6be4-6aef-7aab-8dcd-b38dfccc50b4",
+      "time": "2026-07-17 01:05:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's International Media Office said Doha has repeatedly stated since the outbreak of the current round of conflict that it will not participate in military action against any neighboring country."
+    },
+    {
+      "id": "mkt:019f6be4-5a51-7aab-8dcd-ae0d4da50934",
+      "time": "2026-07-17 01:05:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's International Media Office strongly denied Israeli media reports that Qatar had agreed to participate in military action against Iran, saying the reports are completely false."
+    },
+    {
+      "id": "4992781",
+      "time": "2026-07-17 01:05:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：烏克蘭預計將在今年年底具備生產美國製“愛國者”防空系統導彈的技術能力。"
+    },
+    {
+      "id": "4992780",
+      "time": "2026-07-17 01:04:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達：我們拒絕以色列媒體毫無根據的報道，這些報道聲稱我們同意參與針對伊朗的軍事行動。"
+    },
     {
       "id": "4992779",
       "time": "2026-07-17 01:02:26",
@@ -172232,68 +172264,6 @@
         "其他"
       ],
       "text": "OpenAI：GPT-5.6 分三款模型按百萬 token 計費定價， \nSOL：輸入 5 美元 / 百萬 token，輸出 30 美元 / 百萬 token；\n TERRA：輸入 2.5 美元 / 百萬 token，輸出 15 美元 / 百萬 token ；\nLUNA：輸入 1 美元 / 百萬 token，輸出 6 美元 / 百萬 token。"
-    },
-    {
-      "id": "4979600",
-      "time": "2026-07-10 01:07:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國 30 年期國債拍賣結束後，30 年期美債收益率延續下行，下跌 1.04 個基點，報 5.054%。"
-    },
-    {
-      "id": "4979599",
-      "time": "2026-07-10 01:06:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 推出託管網站功能，使用者可藉助 ChatGPT Work 搭建網站，並分享給好友與同事。"
-    },
-    {
-      "id": "4979598",
-      "time": "2026-07-10 01:06:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大總理辦公室：加拿大與沙烏地阿拉伯簽署若干份諒解備忘錄（MoUs），價值超10億加元。"
-    },
-    {
-      "id": "mkt:019f47d8-16f1-7aab-8d1e-7d20bc29ff50",
-      "time": "2026-07-10 01:06:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said its GPT-5.6 models Sol, Terra and Luna will be available on ChatGPT, CODEX and its API."
-    },
-    {
-      "id": "4979597",
-      "time": "2026-07-10 01:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：GPT-5.6 系列模型結束限量預覽，正式全面對外開放。"
-    },
-    {
-      "id": "4979596",
-      "time": "2026-07-10 01:04:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.00%，現報26130.047點；道指漲0.31%，現報52508.699點；標普500指數漲0.69%，現報7534.660點。"
-    },
-    {
-      "id": "mkt:019f47d5-dcba-7aab-8d1e-700dd46b7855",
-      "time": "2026-07-10 01:03:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "OpenAI said ChatGPT Work will begin rolling out on web and mobile for Pro, Enterprise and Edu users; Plus and Business users will receive access over the next few days."
     }
   ]
 }
