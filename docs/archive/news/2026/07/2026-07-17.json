@@ -1,7 +1,78 @@
 {
   "date": "2026-07-17",
-  "count": 277,
+  "count": 284,
   "items": [
+    {
+      "id": "4992893",
+      "time": "2026-07-17 03:08:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社報道，伊朗南部城市阿瓦士傳出爆炸聲，爆炸起因暫不明。"
+    },
+    {
+      "id": "mkt:019f6c54-a4ca-7aab-8dd0-219189411379",
+      "time": "2026-07-17 03:08:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRGC says since announcing a ceasefire US fighter jets have not left the Strait of Hormuz area for a single day and US military activity remains ongoing."
+    },
+    {
+      "id": "4992892",
+      "time": "2026-07-17 03:08:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁赫爾通訊社訊息：阿巴斯港、格什姆島及阿瓦士多地再傳爆炸聲。"
+    },
+    {
+      "id": "mkt:019f6c54-0a3b-7aab-8dd0-1ca8f04171d0",
+      "time": "2026-07-17 03:07:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reports explosions heard in Ahvaz, Iran."
+    },
+    {
+      "id": "4992891",
+      "time": "2026-07-17 03:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊高階發言人：自停火協議宣佈以來，美軍戰機沒有一天離開過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f6c52-4b7a-7aab-8dd0-1072ee8ea1c2",
+      "time": "2026-07-17 03:06:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.29% at 24,917, trading 92 points below the cash index."
+    },
+    {
+      "id": "mkt:019f6c51-828e-7aab-8dd0-0debb384e4ec",
+      "time": "2026-07-17 03:05:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said if Iranian infrastructure is damaged it will treat all related infrastructure in the region as targets for strikes."
+    },
     {
       "id": "4992890",
       "time": "2026-07-17 03:04:44",

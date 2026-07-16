@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-17 03:05:20",
-  "count": 18785,
+  "updated": "2026-07-17 03:09:15",
+  "count": 18786,
   "items": [
+    {
+      "id": "4992893",
+      "time": "2026-07-17 03:08:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社報道，伊朗南部城市阿瓦士傳出爆炸聲，爆炸起因暫不明。"
+    },
+    {
+      "id": "mkt:019f6c54-a4ca-7aab-8dd0-219189411379",
+      "time": "2026-07-17 03:08:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRGC says since announcing a ceasefire US fighter jets have not left the Strait of Hormuz area for a single day and US military activity remains ongoing."
+    },
+    {
+      "id": "4992892",
+      "time": "2026-07-17 03:08:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "邁赫爾通訊社訊息：阿巴斯港、格什姆島及阿瓦士多地再傳爆炸聲。"
+    },
+    {
+      "id": "mkt:019f6c54-0a3b-7aab-8dd0-1ca8f04171d0",
+      "time": "2026-07-17 03:07:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reports explosions heard in Ahvaz, Iran."
+    },
+    {
+      "id": "4992891",
+      "time": "2026-07-17 03:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗武裝部隊高階發言人：自停火協議宣佈以來，美軍戰機沒有一天離開過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f6c52-4b7a-7aab-8dd0-1072ee8ea1c2",
+      "time": "2026-07-17 03:06:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 0.29% at 24,917, trading 92 points below the cash index."
+    },
+    {
+      "id": "mkt:019f6c51-828e-7aab-8dd0-0debb384e4ec",
+      "time": "2026-07-17 03:05:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said if Iranian infrastructure is damaged it will treat all related infrastructure in the region as targets for strikes."
+    },
     {
       "id": "4992890",
       "time": "2026-07-17 03:04:44",
@@ -172659,60 +172730,6 @@
         "國際"
       ],
       "text": "美國商務部部長盧特尼克：特朗普清楚油價將維持低位。"
-    },
-    {
-      "id": "4979680",
-      "time": "2026-07-10 03:08:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "沙烏地阿拉伯和加拿大聯合宣告：譴責伊朗對霍爾木茲海峽商船的攻擊。"
-    },
-    {
-      "id": "mkt:019f4847-cea5-7aab-8d20-75ef0ae559a1",
-      "time": "2026-07-10 03:08:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Saudi Arabia and Canada jointly condemned Iran's attack on a merchant vessel in the Strait of Hormuz."
-    },
-    {
-      "id": "4979679",
-      "time": "2026-07-10 03:07:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車表示集團必須提升抗風險能力與運營效率。"
-    },
-    {
-      "id": "4979678",
-      "time": "2026-07-10 03:06:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾汽車管理董事會推出 12 項舉措，以達成 2030 年發展目標。"
-    },
-    {
-      "id": "4979677",
-      "time": "2026-07-10 03:05:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾執行長：2030 年前將集團打造為最具競爭力的車企。"
-    },
-    {
-      "id": "mkt:019f4845-2ae9-7aab-8d20-68048429665b",
-      "time": "2026-07-10 03:05:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed says its working group includes economists Mankiw, Sargent and Chetty, venture capitalist Anderson and Xbox CEO Sharma."
     }
   ]
 }
