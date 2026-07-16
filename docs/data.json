@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-17 04:54:29",
-  "count": 18781,
+  "updated": "2026-07-17 04:58:22",
+  "count": 18782,
   "items": [
+    {
+      "id": "mkt:019f6cb7-f930-7aab-8dd1-42a97c30c167",
+      "time": "2026-07-17 04:57:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Netflix (NFLX.O) expects 2026 content spend to rise about 10% YoY, above its five-year average of roughly 8% but below its ten-year average of about 14%."
+    },
+    {
+      "id": "mkt:019f6cb7-b114-7aab-8dd1-3c4877d90f0d",
+      "time": "2026-07-17 04:56:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. forces struck a residential area in Bandar Abbas, Iran, killing one and wounding eight. The same night U.S. forces also attacked a bridge at Bandar Khamir in southern Hormozgan province. Reports say the driver of a private car was killed in the attack."
+    },
+    {
+      "id": "mkt:019f6cb7-7da0-7aab-8dd1-34a72db415e6",
+      "time": "2026-07-17 04:56:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Unverified social-media reports, citing a Middle East source, say the US has updated strike orders on Iran to include bridges and transport links to further pressure Tehran. The posts allege the US has carried out strikes on Iranian civilian infrastructure; Iranian media earlier reported attacks on several airports, rail hubs and bridges. Reports remain unverified."
+    },
+    {
+      "id": "4992961",
+      "time": "2026-07-17 04:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛： 預計今年內容支出將增長約 10%，高於過去五年 8% 的平均增速，低於過去十年 14% 的平均增速。"
+    },
+    {
+      "id": "mkt:019f6cb5-f398-7aab-8dd1-2aedefac0757",
+      "time": "2026-07-17 04:54:51",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O) co-CEO said the company accounts for about 5% of global TV viewing time. Platform viewing time in 1H 2026 rose 2% YoY, an increase of roughly 1.5 billion hours versus the year-ago period."
+    },
     {
       "id": "mkt:019f6cb4-d39e-7aab-8dd1-21ce36aa6b40",
       "time": "2026-07-17 04:53:37",
@@ -172652,42 +172698,6 @@
         "國際"
       ],
       "text": "瑞穗銀行亞太區銀行業務主管： 瑞穗銀行將在印度招聘人員拓展債務融資業務。正申請韓國股權資本市場業務牌照。"
-    },
-    {
-      "id": "4979758",
-      "time": "2026-07-10 04:57:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐約期金漲超1.2%，期銀漲超3.1%】週四（7月9日）紐約尾盤，現貨黃金漲1.14%，報4123.83美元/盎司，日內交投區間為4054.39-4138.06美元。COMEX黃金期貨漲1.24%，報4133.10美元/盎司。現貨白銀漲2.92%，報60.0031美元/盎司。COMEX白銀期貨漲3.14%，報60.380美元/盎司。COMEX銅期貨漲2.33%，報6.2495美元/磅。現貨鉑金漲1.98%，報1616.77美元/盎司；現貨鈀金漲3.09%，報1255.33美元/盎司。"
-    },
-    {
-      "id": "4979757",
-      "time": "2026-07-10 04:57:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：伊朗並不控制霍爾木茲海峽。自5月初以來，美軍一直協助保障該重要國際貿易通道的航行安全，已有超過800艘商船以及3.8億桶原油成功透過該海峽。"
-    },
-    {
-      "id": "mkt:019f48ab-4c3a-7aab-8d21-8472fa8fb41c",
-      "time": "2026-07-10 04:56:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "CENTCOM said Iran does not control the Strait of Hormuz. Since early May the US military has assisted navigation through the strategic trade artery; more than 800 merchant vessels and 380 million barrels of crude oil have successfully transited."
-    },
-    {
-      "id": "4979756",
-      "time": "2026-07-10 04:55:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【7月10日美股成交額前20：美光宣佈超2500億美元本土投資計劃】週四美股成交額第1名美光科技收高4.52%，成交408.4億美元。該公司宣佈，計劃2035年前在美國投資超過2500億美元。最新計劃比該公司去年6月公佈的2000億美元大幅提升。據美光科技介紹，此次追加投資的目的包括實現一項長期目標，即將其DRAM（動態隨機存取儲存器）產量的40%放在美國本土生產。2500億美元投資將用於一些工廠建設計劃，例如在美國愛達荷州博伊西建設第二座前沿儲存晶片製造工廠、擴建弗吉尼亞州馬納薩斯的一處製造設施。此外，還有數百億美元將用於技術研發。"
     }
   ]
 }

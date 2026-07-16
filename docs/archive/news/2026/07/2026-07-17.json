@@ -1,7 +1,53 @@
 {
   "date": "2026-07-17",
-  "count": 391,
+  "count": 396,
   "items": [
+    {
+      "id": "mkt:019f6cb7-f930-7aab-8dd1-42a97c30c167",
+      "time": "2026-07-17 04:57:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Netflix (NFLX.O) expects 2026 content spend to rise about 10% YoY, above its five-year average of roughly 8% but below its ten-year average of about 14%."
+    },
+    {
+      "id": "mkt:019f6cb7-b114-7aab-8dd1-3c4877d90f0d",
+      "time": "2026-07-17 04:56:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. forces struck a residential area in Bandar Abbas, Iran, killing one and wounding eight. The same night U.S. forces also attacked a bridge at Bandar Khamir in southern Hormozgan province. Reports say the driver of a private car was killed in the attack."
+    },
+    {
+      "id": "mkt:019f6cb7-7da0-7aab-8dd1-34a72db415e6",
+      "time": "2026-07-17 04:56:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Unverified social-media reports, citing a Middle East source, say the US has updated strike orders on Iran to include bridges and transport links to further pressure Tehran. The posts allege the US has carried out strikes on Iranian civilian infrastructure; Iranian media earlier reported attacks on several airports, rail hubs and bridges. Reports remain unverified."
+    },
+    {
+      "id": "4992961",
+      "time": "2026-07-17 04:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈飛： 預計今年內容支出將增長約 10%，高於過去五年 8% 的平均增速，低於過去十年 14% 的平均增速。"
+    },
+    {
+      "id": "mkt:019f6cb5-f398-7aab-8dd1-2aedefac0757",
+      "time": "2026-07-17 04:54:51",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bullish"
+      ],
+      "text": "Netflix (NFLX.O) co-CEO said the company accounts for about 5% of global TV viewing time. Platform viewing time in 1H 2026 rose 2% YoY, an increase of roughly 1.5 billion hours versus the year-ago period."
+    },
     {
       "id": "mkt:019f6cb4-d39e-7aab-8dd1-21ce36aa6b40",
       "time": "2026-07-17 04:53:37",
