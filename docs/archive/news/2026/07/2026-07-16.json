@@ -1,7 +1,45 @@
 {
   "date": "2026-07-16",
-  "count": 2931,
+  "count": 2935,
   "items": [
+    {
+      "id": "te:economy:567574",
+      "time": "2026-07-16 21:22:35",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Retail Sales MoM",
+        "Importance 1"
+      ],
+      "text": "Brazil Retail Sales Edge Higher in May — Brazil's retail sales volume rose 0.1% month-over-month in May 2026, rebounding from a 1.6% decline in the previous month, but missing market expectations of a 0.5% increase. Among retail categories, the strongest monthly gains were recorded in books, newspapers, magazines, and stationery (15.2%), textiles, apparel, and footwear (3.1%), furniture and household appliances (2.7%), pharmaceuticals and personal care products (1.4%), and fuels and lubricants (1.1%). The largest declines were seen in office equipment, IT and communications (-1.7%), supermarkets, food, beverages, and tobacco (-1.5%), and other personal and household goods (-0.3%). Broad retail sales, which include vehicles, construction materials, and wholesale food, beverages, and tobacco, fell 0.2% in May from April, following a 0.7% decline in the previous month. On an annual basis, retail sales rose 0.4%, slowing from a 1.0% increase in April."
+    },
+    {
+      "id": "4992519",
+      "time": "2026-07-16 21:20:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "非洲銀行正與工會磋商裁員1200人相關事宜。"
+    },
+    {
+      "id": "mkt:019f6b15-1cb7-7aab-8dc9-e78a64d7105d",
+      "time": "2026-07-16 21:19:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Unitree Technology opens Asia's first embodied intelligence experience center】Unitree Technology opened Asia’s first embodied intelligence experience center in Shanghai ahead of the World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance (July 17-20, 2026). The centre is displaying and selling the firm’s consumer-facing embodied AI products to move technology from lab to market and drew domestic and international visitors; the company says the products will continue to iterate and expand into households and multiple industries."
+    },
+    {
+      "id": "4992518",
+      "time": "2026-07-16 21:19:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "世衛組織負責人表示，剛果新增埃博拉病例中，超過80%是在已知接觸者名單之外發現的。"
+    },
     {
       "id": "4992517",
       "time": "2026-07-16 21:18:25",
