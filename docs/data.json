@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-16 23:52:45",
-  "count": 18726,
+  "updated": "2026-07-16 23:56:52",
+  "count": 18730,
   "items": [
+    {
+      "id": "te:markets:567616",
+      "time": "2026-07-16 23:56:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slips on Earnings and US-Iran Tensions — The CAC 40 inched lower to close at 8,378 on Thursday, reversing gains from the previous session and tracking broader European markets lower as investors assessed corporate earnings and geopolitical developments. TotalEnergies fell 1.5% after warning that LNG earnings would decline sharply due to weaker European demand. STMicroelectronics tumbled 4.9% amid weakness across the technology sector on concerns about stretched AI-driven valuations. Meanwhile, sentiment remained fragile as the US and Iran continued to exchange strikes. The latest escalation revived concerns over inflation and interest rates, with markets fully pricing in an ECB rate hike in September and another increase expected by spring 2027. Industrial stocks traded lower, with Safran down 0.5% and Schneider Electric losing 2.1%. In contrast, luxury stocks advanced, with LVMH up 1.5% and Hermès adding 1.3%, extending gains after Richemont reported better-than-expected sales."
+    },
+    {
+      "id": "4992723",
+      "time": "2026-07-16 23:55:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：美國導彈擊中阿巴斯港附近地點。"
+    },
+    {
+      "id": "4992722",
+      "time": "2026-07-16 23:54:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "標準核能公司預計開盤價為14/15美元，IPO價格為15美元。"
+    },
+    {
+      "id": "4992721",
+      "time": "2026-07-16 23:53:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "NEBIUS GROUP股價觸及兩個月低點，最新下跌11.9%。"
+    },
+    {
+      "id": "4992720",
+      "time": "2026-07-16 23:52:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：澤連斯基指示葉夫根·赫馬拉擔任代理國防部長。"
+    },
+    {
+      "id": "4992719",
+      "time": "2026-07-16 23:51:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大總理卡尼宣佈，加拿大將斥資近20億加元採購通用動力公司生產的裝甲作戰支援車輛。"
+    },
     {
       "id": "mkt:019f6ba0-5a5e-7aab-8dcc-d815086fbf25",
       "time": "2026-07-16 23:51:38",
@@ -172153,24 +172206,6 @@
         "市場"
       ],
       "text": "洲際交易所 7 月柴油期貨收盤報每噸 1043 美元。"
-    },
-    {
-      "id": "4979556",
-      "time": "2026-07-09 23:56:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美光科技股價上漲7.2%，此前該公司將美國投資規模提升至逾2500億美元。"
-    },
-    {
-      "id": "4979555",
-      "time": "2026-07-09 23:55:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美襲伊朗布什爾核電站等地 伊朗打擊多處美軍目標】伊朗媒體9日報道說，伊朗布什爾核電站周邊區域等多地當天遭美軍襲擊。同日，伊朗伊斯蘭革命衛隊發表宣告說，用10枚彈道導彈打擊了美方“在西亞的指揮控制中心”及位於約旦的空軍基地。（新華社）"
     }
   ]
 }
