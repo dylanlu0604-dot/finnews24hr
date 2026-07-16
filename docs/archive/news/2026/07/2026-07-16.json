@@ -1,7 +1,46 @@
 {
   "date": "2026-07-16",
-  "count": 3206,
+  "count": 3210,
   "items": [
+    {
+      "id": "4992694",
+      "time": "2026-07-16 23:19:12",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "市場訊息：土耳其ALTIN公司今年計劃從MOLLAKARA金礦開採32000盎司黃金。"
+    },
+    {
+      "id": "4992693",
+      "time": "2026-07-16 23:17:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外交部：近日，犯罪的美國政權在宣佈對伊朗人民實施海上封鎖（這公然違反了美國在伊斯蘭堡協議下的另一項承諾）的同時，加大了對伊朗伊斯蘭共和國的侵略性攻擊力度，犯下了多起戰爭罪行，特別是針對民用設施和基礎設施的攻擊。"
+    },
+    {
+      "id": "mkt:019f6b80-19bf-7aab-8dcc-4171ee2ac21a",
+      "time": "2026-07-16 23:16:24",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran says U.S. committed multiple war crimes within a week and, third time in a year, betrayed diplomatic commitments】Iran’s foreign ministry said the United States carried out increasingly aggressive attacks within the past week, committing multiple war crimes by striking civilian infrastructure including bridges and power plants. Tehran said repeated threats and attacks on key facilities demonstrate U.S. criminal intent and warned that those who executed the strikes cannot escape legal responsibility by citing orders. Iran accused Washington of openly betraying diplomacy for the third time in a year, saying the U.S. violated a memorandum of understanding signed 20 days earlier and breached multiple clauses using what it called absurd pretexts; Tehran said all consequences and responsibility for the breach rest with the U.S. regime. The statement urged all countries, especially Gulf neighbors to the south, to prevent the U.S. from using their territory or facilities to plan or carry out aggressive attacks on Iran."
+    },
+    {
+      "id": "4992692",
+      "time": "2026-07-16 23:16:16",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【瀾起科技：配合韓國反壟斷調查 目前經營正常】瀾起科技公告稱，2026年7月15日，韓國首爾中央地方檢察廳公平貿易調查部針對潛在的違反反壟斷相關法規事宜，在公司韓國辦公室開展現場搜查及取證。公司正全力配合調查，截至公告披露日，公司及其董事、員工均未被指控存在任何不當行為，經營正常。鑑於本案尚處調查階段，無法預測時間及結果，公司將跟進進展並履行資訊披露義務，提醒投資者注意風險。"
+    },
     {
       "id": "4992691",
       "time": "2026-07-16 23:15:23",
