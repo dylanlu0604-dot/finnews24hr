@@ -1,7 +1,128 @@
 {
-  "updated": "2026-07-16 16:08:49",
-  "count": 18850,
+  "updated": "2026-07-16 16:12:49",
+  "count": 18852,
   "items": [
+    {
+      "id": "mkt:019f69fb-66e8-7aab-8dc2-463273045265",
+      "time": "2026-07-16 16:11:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Suken Nongfa reports 1H net profit attributable to shareholders of 142 mln yuan, down 33.32% YoY】Suken Nongfa said net profit attributable to shareholders was 142 mln yuan in 1H, a decline of 71.046 mln yuan (33.32% YoY). The company attributed the drop to last year’s adverse weather that narrowed gross margins on opening rice and wheat inventories, and low, rangebound agricultural-product prices during the period that further compressed overall gross margins."
+    },
+    {
+      "id": "mkt:019f69fb-1c25-7aab-8dc2-3e56577015f3",
+      "time": "2026-07-16 16:11:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "HSCEI",
+        "HSTECH"
+      ],
+      "text": "Hong Kong equities: Hang Seng Index (HSI) closed up 327.5 points (+1.33%) at 25,008.6 on Thursday, July 16; Hang Seng Tech Index closed up 93.95 points (+1.98%) at 4,834.44; Hang Seng China Enterprises Index (HSCEI) closed up 133.76 points (+1.63%) at 8,318.14; Hang Seng Red Chip Index closed up 46.84 points (+1.19%) at 3,991.38."
+    },
+    {
+      "id": "mkt:019f69fa-a7f7-7aab-8dc2-31d2153a5a47",
+      "time": "2026-07-16 16:11:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【BoE deputy governor Breeden: weak UK growth cuts inflation persistence risk, no need to raise rates for now】Bank of England deputy governor Breeden said weak UK growth reduces the risk that recent inflation spikes become persistent via wages or corporate pricing, and there is not a strong case to raise rates immediately. She noted that borrowing costs for firms and households have risen since the Middle East war and, combined with sluggish activity, lessen the need to tighten to contain price pressures. Breeden, a dovish MPC member who has voted to keep Bank Rate at 3.75% at the past three meetings, said she expects inflation to fall back toward the 2% target absent further war-related shocks, but would support rate hikes if evidence of sustained second‑round effects emerges. She also flagged cyber‑security risks from recent AI advances as a Bank of England concern."
+    },
+    {
+      "id": "mkt:019f69fa-8589-7aab-8dc2-2a0f1b7abdc4",
+      "time": "2026-07-16 16:10:53",
+      "tags": [
+        "MKT News",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "【Amazon Global Selling launches Benchmark New Seller Incubation Program to target 2,000 RMB100m brands by 2029】Amazon Global Selling launched the Benchmark New Seller Incubation Program. The initial target is to help 2,000 newly onboarded brands, from launch through 2029, achieve single‑brand three‑year sales exceeding RMB100m. The program targets manufacturers, brand owners and emerging brands seeking transformation and overseas expansion and offers customized go‑global solutions across marketplaces in North America, Europe and Japan."
+    },
+    {
+      "id": "4991786",
+      "time": "2026-07-16 16:10:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蘇墾農發：上半年淨利潤1.42億元，同比下降33.32%】蘇墾農發發布業績快報，上半年營業收入43.32億元，同比下降5.59%。淨利潤1.42億元，同比下降33.32%。主要原因為受去年氣候影響，種植業期初庫存稻麥毛利收窄，報告期內農產品價格低位窄幅震盪，進一步壓縮整體毛利空間。"
+    },
+    {
+      "id": "4991785",
+      "time": "2026-07-16 16:10:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亞馬遜全球開店釋出“標杆新賣家孵化計劃”，目標三年孵化2000個新億級品牌】7月16日訊息，亞馬遜全球開店今日推出“標杆新賣家孵化計劃”。該計劃首個目標是從釋出到2029年，助力2000個新入駐品牌實現單品牌三年銷售額突破1億元人民幣。"
+    },
+    {
+      "id": "4991784",
+      "time": "2026-07-16 16:10:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【財通證券：財務總監周瀛因工作調整辭職】財通證券公告稱，根據組織安排，周瀛女士因工作調整，於2026年7月16日向董事會遞交辭職報告，申請辭去公司財務總監職務。其辭職自公司董事會收到報告時生效，不會影響公司日常經營活動。"
+    },
+    {
+      "id": "te:markets:567489",
+      "time": "2026-07-16 16:10:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Wheat Rises by 1.79% — Top commodity gainers are Wheat (1.79%), Rice (1.13%) and Oat (0.92%). Biggest losers are Cotton (-0.75%), Sugar (-0.73%) and Palm Oil (-0.63%)."
+    },
+    {
+      "id": "4991783",
+      "time": "2026-07-16 16:09:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【優必選與哈薩克簽署全面戰略合作備忘錄】近日，優必選科技與哈薩克共和國代表團在上海舉行高層會晤，並在哈薩克總統託卡耶夫的親自見證下，正式簽署全面戰略合作備忘錄。此次合作將依託優必選全棧式人形機器人技術優勢，深度融合哈薩克的政策紅利與本土市場潛能，旨在打造中亞地區具身智慧領域的標杆企業，全面助推哈薩克科技人才培養體系與高階製造產業升級。根據協議，雙方將圍繞產業落地、科研創新、教育普及三大核心維度展開深度合作。"
+    },
+    {
+      "id": "mkt:019f69f8-ff79-7aab-8dc2-273ab3f9c172",
+      "time": "2026-07-16 16:09:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "01211.HK",
+        "09868.HK"
+      ],
+      "text": "At Hong Kong close, the Hang Seng Index rose 1.33% and the Hang Seng Tech Index gained 1.98%. Auto stocks led gains: BYD Co. (01211.HK) +4.60%, XPeng Inc. (09868.HK) +7.61%."
+    },
+    {
+      "id": "4991782",
+      "time": "2026-07-16 16:09:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲1.327%，恒生科技指數漲1.982%】小鵬集團-W漲7.326%，泡泡瑪特漲6.866%，同程旅行漲6.574%，小米集團-W漲6.419%，快手-W漲5.727%，騰訊音樂-SW漲5.427%，吉利汽車漲5.217%。"
+    },
+    {
+      "id": "4991781",
+      "time": "2026-07-16 16:08:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同濟科技：2026年上半年新籤施工合同額3.53億元 同比降85.62%】同濟科技公告稱，2026年1月至6月，公司新籤施工合同額約3.53億元，較上年同期減少85.62%。其中，超1000萬元以上的施工合同8個，合同金額累計3.16億元，包括建築裝飾合同4個、金額1.99億元，房屋建設合同1個、金額1633.49萬元，專業工程合同3個、金額1.00億元。截至公告披露日，公司無已簽訂但未執行的重大專案。"
+    },
     {
       "id": "mkt:019f69f7-02cb-7aab-8dc2-1d1d52a83304",
       "time": "2026-07-16 16:07:03",
@@ -173191,104 +173312,6 @@
         "Zinc"
       ],
       "text": "【LME non‑ferrous metals inventory daily】LME stocks: copper 307,750 t, down 2,900 t; aluminium 289,225 t, down 1,600 t; zinc 115,525 t, down 400 t; nickel 274,584 t, unchanged; lead 291,425 t, unchanged; tin 8,050 t, down 110 t."
-    },
-    {
-      "id": "4978546",
-      "time": "2026-07-09 16:12:40",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【央企“場景永珍”專項行動在京啟動 首批央企十大標誌性場景釋出】今天（9日），由國務院國資委牽頭組織開展的中央企業“場景永珍”專項行動在北京啟動，併發布首批央企十大標誌性場景，將促進新興產業發展、持續培育壯大新質生產力。此次專項行動是推動央企開放場景、帶動產業鏈發展的政策訊號。首批央企開放清單計劃推出100個左右，透過建立常態化的場景專案培育庫，將中央企業自身的場景富礦轉化為產業創新的共享平臺。未來，也將有更多中央企業向社會開放自己的業務場景。（央視新聞）"
-    },
-    {
-      "id": "4978545",
-      "time": "2026-07-09 16:12:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞：給予安克創新A股買進的初始評級。"
-    },
-    {
-      "id": "mkt:019f45ee-b020-7aab-8d0e-e221b878b91a",
-      "time": "2026-07-09 16:11:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【Industry says wafer-foundry pricing shifting to supplier-driven era】Industry sources say Samsung Electronics has raised supply prices for new customers by about 15%, concentrated on in-demand advanced processes (4nm, 5nm) and some automotive 8nm. TSMC has notified major clients it plans to lift supply quotes for 3nm, 5nm and 7nm by roughly 5–10%. Market focus is less on the headline increases than on a change in pricing logic: same-node price hikes, once uncommon absent a node transition, are occurring as AI-driven capex expands and supply tightness persists, boosting foundries’ bargaining power. Industry participants say TSMC is leading re-pricing within existing nodes. If the AI investment cycle and advanced-node demand tightness continue, the upward pricing trend in wafer-foundry services may persist."
-    },
-    {
-      "id": "4978544",
-      "time": "2026-07-09 16:11:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【精工鋼構：2026年上半年新籤合同額126.7億元 同比增長1.3%】精工鋼構公告稱，2026年1-6月，公司共新籤合同428項，累計合同金額126.7億元，同比增長1.3%；鋼結構銷量94.2萬噸，同比增長12.9%。其中，4-6月新籤合同金額60.7億元，同比下降4.7%，鋼結構銷量61.2萬噸，同比增長36.1%。分業務看，國內工業建築、國際工業建築、新興業務等部分板塊訂單有不同程度增長，受海外局勢影響，部分海外專案推進進度延遲，但客戶需求穩固，在手訂單及儲備充足。"
-    },
-    {
-      "id": "mkt:019f45ee-7360-7aab-8d0e-dbcf5b4ed7a4",
-      "time": "2026-07-09 16:11:22",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish",
-        "Hang Seng Tech Index",
-        "Impact bullish",
-        "H-share Index"
-      ],
-      "text": "HSI closed down 169.28 points (-0.70%) at 24,030.18 on Jul 9. Hang Seng Tech Index closed up 0.54 points (+0.01%) at 4,731.56. H-share index closed down 86.93 points (-1.08%) at 7,997.29. Red Chip Index closed down 50.82 points (-1.31%) at 3,824.11."
-    },
-    {
-      "id": "4978543",
-      "time": "2026-07-09 16:10:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【愛康國賓在天津成立新門診部公司 註冊資本1500萬】天眼查App顯示，近日，天津愛康國賓東馬路銅鑼灣門診部有限公司成立，法定代表人為黨璞璞，註冊資本1500萬人民幣，經營範圍包括醫療服務、化妝品零售、日用品銷售等，由愛康國賓健康體檢管理集團有限公司全資持股。"
-    },
-    {
-      "id": "te:markets:565618",
-      "time": "2026-07-09 16:10:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Oat Falls by 3.85% — Top commodity losers are Oat (-3.85%), Corn (-1.24%) and Cotton (-1.10%). Gains are led by Rubber (0.65%)."
-    },
-    {
-      "id": "4978542",
-      "time": "2026-07-09 16:09:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "【伊奧尼斯製藥美股盤前跌超11%】伊奧尼斯製藥美股盤前跌超11%，現報75.0美元。"
-    },
-    {
-      "id": "mkt:019f45ed-10fa-7aab-8d0e-d2166a6390f4",
-      "time": "2026-07-09 16:09:51",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) U.S. premarket trading up nearly 4%."
-    },
-    {
-      "id": "4978541",
-      "time": "2026-07-09 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數跌0.700%，恒生科技指數漲0.011%】智譜漲10.685%，中芯國際漲10.224%，華虹宏力漲8.436%，聯想集團漲7.706%，極兔速遞-W跌5.561%，老鋪黃金跌5.621%，MINIMAX-W跌17.981%。"
     }
   ]
 }
