@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-16 10:04:21",
-  "count": 18630,
+  "updated": "2026-07-16 10:08:22",
+  "count": 18629,
   "items": [
+    {
+      "id": "4991180",
+      "time": "2026-07-16 10:07:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：各方共識一致，擴大日本國債投資者群體是關鍵。"
+    },
+    {
+      "id": "mkt:019f68ad-68c1-7aab-8db6-3caf8354bc50",
+      "time": "2026-07-16 10:07:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【Earnings lull leaves options the hidden driver of tech stocks】Analyst Navellier says short-term moves in popular tech names are increasingly driven by short-dated options rather than fundamentals. As the stock of short-dated contracts grows, market-makers’ hedging and option-related trading can become a material price lever: heavy sales of calls on names such as NVIDIA can force market-makers into larger hedges and payout risk if shares rally past strikes, prompting algorithmic and hedging flows that cap gains and pull prices back toward recent averages. The firm warns this can cause spikes followed by quick fades or extended sideways action even when company fundamentals remain strong, and that outside earnings seasons 0DTE options, expiries and algo flow may amplify intraday moves. Navellier frames this as a market-structure explanation, not proof that option concentration will necessarily suppress prices."
+    },
+    {
+      "id": "4991179",
+      "time": "2026-07-16 10:06:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "標準核能公司（STANDARD NUCLEAR ）公佈首次公開募股定價，計劃以每股15美元的價格首次公開發行1000萬股股票。"
+    },
+    {
+      "id": "4991178",
+      "time": "2026-07-16 10:06:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4991177",
+      "time": "2026-07-16 10:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果考慮收購晶片公司，據悉因自研AI伺服器效能面臨挑戰】據報道，蘋果已接觸部分晶片初創公司，探詢其被收購的意願，意在加強其構建用於執行人工智慧的伺服器晶片的能力。報道稱，蘋果之所以產生收購意向，是因其自研AI伺服器的效能面臨挑戰。知情人士表示，蘋果原計劃今年推出AI伺服器晶片的後續版本（內部代號為“Baltra”），但該專案已被推遲。"
+    },
+    {
+      "id": "4991176",
+      "time": "2026-07-16 10:05:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "4991175",
+      "time": "2026-07-16 10:03:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【斯年智駕完成3億元C輪融資】7月16日，自動駕駛重卡解決方案提供商斯年智駕（Senior Auto）宣佈完成3億元C輪融資，本輪由興證資本、頤道資本聯合投資。融資資金將重點聚焦於新一代車規級自動駕駛方案研發，並保障技術研發與日常運營的持續投入。"
+    },
     {
       "id": "mkt:019f68aa-45ed-7aab-8db6-30549f1e8e1d",
       "time": "2026-07-16 10:03:37",
@@ -171243,76 +171307,6 @@
         "其他"
       ],
       "text": "【大疆近期釋出新款無人機機型DJI EV50 可隨時起降又能百公里級飛行】大疆近期釋出新款無人機機型DJI EV50，是大疆專為百公里級、跨區域空中運載場景打造的首款垂直起降運載無人機。該機型實現全地形垂直起降。在效能上，最大載重50公斤，最大巡航速度可達160公里/小時，最遠有效航程為150公里。"
-    },
-    {
-      "id": "mkt:019f44a1-7be6-7aab-8d05-6b2acb2c0223",
-      "time": "2026-07-09 10:07:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【DJI launches EV50 VTOL cargo drone with 150km range and 50kg payload】DJI has launched the EV50, its first vertical-takeoff-and-landing (VTOL) cargo drone designed for 100-km-class cross-region transport. The model features all-terrain VTOL capability, a maximum payload of 50 kg, a top cruise speed of 160 km/h and an effective range of up to 150 km."
-    },
-    {
-      "id": "4977987",
-      "time": "2026-07-09 10:07:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【截至5月底 全國基本醫保參保較去年同期增長超400萬人】國家醫保局召開例行新聞釋出會，介紹2026年上半年全國醫療保障工作情況。2026年基本醫保參保人數穩中有升，截至5月底，基本醫保參保人數較去年同期增長超過400萬人，參保率穩定在95%。國家醫保局相關負責人介紹，我國基本醫保參保結構不斷最佳化。截至2025年底，全國基本醫保參保13.31億人，同比增加407萬人，參保率鞏固在95%。其中，職工醫保參保3.89億人，比上年增加907.78萬人，增長2.4%。“十四五”期間職工醫保參保人數年均增加880萬人，年均增長2.4%。基金執行總體保持平穩。2025年全國基本醫保（含生育保險）基金總收入3.59萬億元，基金總支出3.01萬億元。其中，職工醫保統籌基金（含生育保險）收入1.83萬億元，支出1.36萬億元。居民醫保基金收入1.12萬億元，支出1.07萬億元。享受待遇人次持續增加。2025年，基本醫保參保人待遇享受人次為87.53億人次，同比增長4.9%。"
-    },
-    {
-      "id": "mkt:019f44a0-f392-7aab-8d05-62b65efde196",
-      "time": "2026-07-09 10:07:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【By end‑May, China basic medical insurance enrollment up over 4 mln YoY】China's National Healthcare Security Administration said at a routine briefing on 1H 2026 work that as of end‑May basic medical insurance enrollment was more than 4 million higher year‑on‑year and the participation rate remained steady at 95%."
-    },
-    {
-      "id": "te:markets:565470",
-      "time": "2026-07-09 10:07:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Rebound on Dovish PBOC Signals — The Shanghai Composite rose 0.2% to 3,978, while the Shenzhen Component gained 0.5% to 15,020 on Thursday, rebounding from one-month lows as investors welcomed the People's Bank of China's commitment to maintaining an accommodative policy stance. The central bank signaled that it would keep monetary policy appropriately loose and step up financial support to boost domestic consumption, while acknowledging an imbalance between strong supply and weak demand. The PBOC has kept rates and reserve requirement ratios unchanged, focusing instead on refining its policy framework and transmission mechanisms. On the economic front, annual consumer inflation eased to a three-month low of 1% in June from 1.2% in May, while producer inflation rose to 4.1% from 3.9%, the fastest pace since July 2022. Technology stocks led gains, with Zhongji Innolight (3.3%), Eoptolink Technology (2.9%), and NAURA Technology (2.7%) advancing, while energy shares also rose, led by PetroChina (1.2%) and CNOOC (1.2%)."
-    },
-    {
-      "id": "4977986",
-      "time": "2026-07-09 10:06:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省紀委監委原一級巡視員饒瑜珠接受審查調查】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：貴州省紀委監委原一級巡視員饒瑜珠涉嫌嚴重違紀違法，經貴州省紀委監委指定管轄，目前正接受貴陽市紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4977985",
-      "time": "2026-07-09 10:05:46",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內跌8%，現報2342.00點。"
-    },
-    {
-      "id": "mkt:019f449f-b5b2-7aab-8d05-5eb9f3d75bc4",
-      "time": "2026-07-09 10:05:45",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Container shipping index (Europe route) front-month contract fell 8.00% intraday to 2,342.0 points."
-    },
-    {
-      "id": "4977984",
-      "time": "2026-07-09 10:05:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貴州磷化（集團）有限責任公司原黨委書記、董事長何光亮接受紀律審查和監察調查】中央紀委國家監委網站7月9日通報，據貴州省紀委監委訊息：貴州磷化（集團）有限責任公司原黨委書記、董事長何光亮涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
     }
   ]
 }

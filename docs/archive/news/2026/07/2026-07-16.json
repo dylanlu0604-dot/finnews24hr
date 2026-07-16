@@ -1,7 +1,71 @@
 {
   "date": "2026-07-16",
-  "count": 1014,
+  "count": 1021,
   "items": [
+    {
+      "id": "4991180",
+      "time": "2026-07-16 10:07:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本財務大臣片山：各方共識一致，擴大日本國債投資者群體是關鍵。"
+    },
+    {
+      "id": "mkt:019f68ad-68c1-7aab-8db6-3caf8354bc50",
+      "time": "2026-07-16 10:07:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact mixed"
+      ],
+      "text": "【Earnings lull leaves options the hidden driver of tech stocks】Analyst Navellier says short-term moves in popular tech names are increasingly driven by short-dated options rather than fundamentals. As the stock of short-dated contracts grows, market-makers’ hedging and option-related trading can become a material price lever: heavy sales of calls on names such as NVIDIA can force market-makers into larger hedges and payout risk if shares rally past strikes, prompting algorithmic and hedging flows that cap gains and pull prices back toward recent averages. The firm warns this can cause spikes followed by quick fades or extended sideways action even when company fundamentals remain strong, and that outside earnings seasons 0DTE options, expiries and algo flow may amplify intraday moves. Navellier frames this as a market-structure explanation, not proof that option concentration will necessarily suppress prices."
+    },
+    {
+      "id": "4991179",
+      "time": "2026-07-16 10:06:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "標準核能公司（STANDARD NUCLEAR ）公佈首次公開募股定價，計劃以每股15美元的價格首次公開發行1000萬股股票。"
+    },
+    {
+      "id": "4991178",
+      "time": "2026-07-16 10:06:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4991177",
+      "time": "2026-07-16 10:06:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果考慮收購晶片公司，據悉因自研AI伺服器效能面臨挑戰】據報道，蘋果已接觸部分晶片初創公司，探詢其被收購的意願，意在加強其構建用於執行人工智慧的伺服器晶片的能力。報道稱，蘋果之所以產生收購意向，是因其自研AI伺服器的效能面臨挑戰。知情人士表示，蘋果原計劃今年推出AI伺服器晶片的後續版本（內部代號為“Baltra”），但該專案已被推遲。"
+    },
+    {
+      "id": "4991176",
+      "time": "2026-07-16 10:05:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨下跌1%。"
+    },
+    {
+      "id": "4991175",
+      "time": "2026-07-16 10:03:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【斯年智駕完成3億元C輪融資】7月16日，自動駕駛重卡解決方案提供商斯年智駕（Senior Auto）宣佈完成3億元C輪融資，本輪由興證資本、頤道資本聯合投資。融資資金將重點聚焦於新一代車規級自動駕駛方案研發，並保障技術研發與日常運營的持續投入。"
+    },
     {
       "id": "mkt:019f68aa-45ed-7aab-8db6-30549f1e8e1d",
       "time": "2026-07-16 10:03:37",
