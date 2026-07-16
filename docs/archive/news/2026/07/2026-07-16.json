@@ -1,7 +1,169 @@
 {
   "date": "2026-07-16",
-  "count": 2196,
+  "count": 2215,
   "items": [
+    {
+      "id": "mkt:019f6a44-9ad5-7aab-8dc4-8af538201d25",
+      "time": "2026-07-16 17:31:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Fubao: lithium carbonate spot down 5,000 yuan/ton; battery-grade at 144,950 yuan/ton】Fubao data: electric-carbon spot basis index -1,620 yuan/ton (+290); battery-grade lithium carbonate 144,950 yuan/ton (-5,000); industrial-grade lithium carbonate (composite) 142,450 yuan/ton (-5,000); premium battery-grade 145,950 yuan/ton (-5,000); lithium hydroxide index 130,333.33 yuan/ton (-4,500); metallic lithium index 1,046,250 yuan/ton (-5,000); Fubao brine (lithium sulfate) discount coefficient 77% (+1 percentage point)."
+    },
+    {
+      "id": "mkt:019f6a44-76ac-7aab-8dc4-81baa222131a",
+      "time": "2026-07-16 17:31:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Sources: a drone struck an oil tanker at Basra port in Iraq; no damage or fire reported."
+    },
+    {
+      "id": "4991993",
+      "time": "2026-07-16 17:31:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "四名伊拉克石油與安全訊息人士透露，一架無人機在伊拉克巴士拉石油碼頭撞擊了一艘油輪，未造成設施損壞或火災。"
+    },
+    {
+      "id": "mkt:019f6a44-44b9-7aab-8dc4-7f4e569856c3",
+      "time": "2026-07-16 17:31:26",
+      "tags": [
+        "MKT News",
+        "BIDU.O"
+      ],
+      "text": "【Baidu to showcase Wenku and Wangpan at WAIC 2026; GenFlow to launch standalone AI product for professionals】Internal sources say Baidu will upgrade GenFlow and surface it within Baidu Wenku and Wangpan, launching standalone web and client apps positioned as a multi-end general Agent platform for professional users in finance, education and office workflows. Invite-only internal testing begins in late July. The first-phase rollout will focus on the financial sector, offering customized solutions for financial professionals, enthusiasts, companies and teams."
+    },
+    {
+      "id": "mkt:019f6a44-3bc7-7aab-8dc4-77494fe3b514",
+      "time": "2026-07-16 17:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Verkhovna Rada approves Serhiy Kolyetsky as Ukraine's new prime minister】On July 16 the Verkhovna Rada voted 289 in favor to appoint Serhiy Kolyetsky as Ukraine's new prime minister."
+    },
+    {
+      "id": "mkt:019f6a44-1072-7aab-8dc4-6ed7290907d0",
+      "time": "2026-07-16 17:31:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Russian Defence Ministry said over the past 24 hours its air-defence systems shot down eight precision-guided aerial bombs and 802 Ukrainian military fixed-wing UAVs."
+    },
+    {
+      "id": "4991992",
+      "time": "2026-07-16 17:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏克蘭議會批准科列茨基為新任總理】當地時間7月16日，烏克蘭最高拉達（議會）以289票贊成的投票結果，同意任命謝爾蓋·科列茨基為烏克蘭新一任政府總理。（央視新聞）"
+    },
+    {
+      "id": "4991990",
+      "time": "2026-07-16 17:30:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利元亨：登出6個可轉債募集資金專戶】利元亨公告稱，2022年10月24日，公司發行了面值總額9.5億元的可轉債，實際募集資金淨額9.39億元。公司設立了相關募集資金專用賬戶，並與原保薦機構、開戶銀行簽訂三方監管協議。鑑於中國工商銀行惠州惠城支行等6個募集資金專戶內的募集資金已按規定使用完畢，剩餘利息餘額已轉出，賬戶餘額為零且不再使用，公司決定登出上述專戶，截至公告披露日，登出手續已完成，相關三方監管協議隨之終止。"
+    },
+    {
+      "id": "4991989",
+      "time": "2026-07-16 17:29:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報：過去 24 小時，俄防空系統擊落 8 枚制導航空炸彈以及 802 架烏克蘭軍方固定翼無人機。"
+    },
+    {
+      "id": "mkt:019f6a42-61ea-7aab-8dc4-666cbb69a9ff",
+      "time": "2026-07-16 17:29:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand's earthquake monitoring agency measured a magnitude-6.3 quake in the southern South Island on July 16."
+    },
+    {
+      "id": "mkt:019f6a42-2118-7aab-8dc4-58d945e573a3",
+      "time": "2026-07-16 17:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "In Kyiv, protests against President Zelensky's decision not to nominate Mykhailo Fedorov as defence minister entered a third hour."
+    },
+    {
+      "id": "4991988",
+      "time": "2026-07-16 17:28:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銀信科技：股價連續兩日漲幅偏離值累計超30% 提示多項風險】銀信科技公告稱，公司股票連續兩個交易日（7月15日、7月16日）收盤價格漲幅偏離值累計超過30%，屬異常波動。經核查，公司前期資訊無需更正補充，目前經營和環境未變，也無應披露未披露重大事項。2026年4月23日至7月22日的減持計劃尚未實施。此外，公司擬8月29日披露半年報，控股股東詹立雄涉離婚訴訟，結果和公司控制權變動均不確定。"
+    },
+    {
+      "id": "4991987",
+      "time": "2026-07-16 17:28:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【飛鹿股份：君拓啟航受讓章衛國10.00%公司股份 控制權變更】飛鹿股份公告，2026年7月15日，控股股東、實際控制人章衛國與君拓啟航完成股份協議轉讓過戶登記，君拓啟航受讓章衛國持有的2295.41萬股股份，佔公司總股本的10.00%，股份轉讓總價款為3.14億元。本次轉讓完成後，君拓啟航成為公司控股股東，實際控制人變更為王建繪、王建綱、王新和王科。"
+    },
+    {
+      "id": "4991986",
+      "time": "2026-07-16 17:28:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加速精品量產 閱文釋出起點劇場、漫劇助手DramaBuddy】近日，在人工智慧文創產業基地揭牌暨專案釋出活動上，閱文集團正式釋出精品影片平臺起點劇場，並宣佈漫劇助手DramaBuddy全新升級，從工具、內容和平臺多向發力，加速精品爆款內容實現規模化量產。據介紹，起點劇場將依託閱文集團海量IP儲備與優質創作者生態，深耕網文IP影視化改編與原創IP孵化兩大核心賽道，內容全面覆蓋都市、玄幻、科幻、懸疑、言情、無限流等主流題材。（新浪科技）"
+    },
+    {
+      "id": "4991985",
+      "time": "2026-07-16 17:28:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紐西蘭南島南部發生地震】紐西蘭地震監測機構今天（7月16日）測定，紐西蘭南島南部發生6.3級地震。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:567513",
+      "time": "2026-07-16 17:28:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lithium Falls to Near 4-Month Low — Lithium carbonate prices fell to CNY 151,000 in July, their lowest in nearly four months, amid the outlook of higher global supply. CATL's Jianxiawo mine, among the largest in the world, cleared security permits to restore activity following its prolonged suspension. On top of that, higher lithium prices since the start of the year drove Australian miners to restore operations. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere. Still, industry reports in China indicated that competition between EV battery producers to retain market share drove companies to increase their production schedules, leading to higher lithium sourcing. On top of that, accelerating demand for energy storage systems magnified lithium consumption, even as EV orders in China slow."
+    },
+    {
+      "id": "4991984",
+      "time": "2026-07-16 17:27:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏微科技：提示“宏微轉債”贖回暨摘牌相關風險】宏微科技公告稱，公司股票於2026年5月27日至7月2日觸發“宏微轉債”有條件贖回條款，董事會決定行使提前贖回權利。贖回登記日為7月23日，贖回價格100.9973元/張，贖回款發放日為7月24日。“宏微轉債”最後交易日為7月20日，最後轉股日為7月23日，7月24日起將在上海證券交易所摘牌。提醒持有人限期內轉股或賣出，避免投資損失。"
+    },
+    {
+      "id": "mkt:019f6a40-f3ca-7aab-8dc4-551554328d4b",
+      "time": "2026-07-16 17:27:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【SASAC launches 'Scenarios Wanxiang' special action for central SOEs】China's State-owned Assets Supervision and Administration Commission (SASAC) launched a 'Scenarios Wanxiang' special action to promote opening and cultivation of commercial scenarios by central SOEs. SASAC unveiled 10 flagship externally open scenarios, created a scenario zone within a central-SOE AI open-source Huanxin Community, and saw SOEs, universities and research institutes sign multiple letters of intent to co-develop scenarios."
+    },
+    {
+      "id": "4991983",
+      "time": "2026-07-16 17:27:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中冶：7月16日回購超1000萬股H股及A股股份】中國中冶公告稱，7月16日，公司在港交所回購330.7萬股H股，每股價格1.49-1.52港元，付出總額約499.89萬港元；在上交所回購758.83萬股A股，每股價格2.61-2.65元，付出總額1999.74萬元。截至7月16日，公司根據購回授權累計購回H股2140.1萬股，佔決議透過日已發行股份的0.75382%。"
+    },
     {
       "id": "4991982",
       "time": "2026-07-16 17:27:11",
