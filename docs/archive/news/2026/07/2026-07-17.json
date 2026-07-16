@@ -1,7 +1,18 @@
 {
   "date": "2026-07-17",
-  "count": 473,
+  "count": 474,
   "items": [
+    {
+      "id": "te:markets:567655",
+      "time": "2026-07-17 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.53% — Top commodity losers are Cocoa (-7.53%) and Coffee (-3.97%). Gains are led by Barley (2.01%) and Lumber (0.79%)."
+    },
     {
       "id": "mkt:019f6d13-aa3b-7aab-8dd2-22017638096c",
       "time": "2026-07-17 06:37:12",

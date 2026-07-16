@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-17 06:37:47",
+  "updated": "2026-07-17 06:41:40",
   "count": 18791,
   "items": [
+    {
+      "id": "te:markets:567655",
+      "time": "2026-07-17 06:40:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.53% — Top commodity losers are Cocoa (-7.53%) and Coffee (-3.97%). Gains are led by Barley (2.01%) and Lumber (0.79%)."
+    },
     {
       "id": "mkt:019f6d13-aa3b-7aab-8dd2-22017638096c",
       "time": "2026-07-17 06:37:12",
@@ -172801,17 +172812,6 @@
         "國際"
       ],
       "text": "以色列能源部長科恩表示：以色列必須阻止土耳其在敘利亞部署軍事力量；其向內閣發出警告，若土耳其在敘利亞修建軍事基地，以色列將採取對等行動。"
-    },
-    {
-      "id": "te:markets:565805",
-      "time": "2026-07-10 06:40:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Coffee Rallies by 10.13% — Top commodity gainers are Coffee (10.13%) and Cocoa (5.14%). Biggest losers are Corn (-1.61%) and Canola (-1.43%)."
     }
   ]
 }
