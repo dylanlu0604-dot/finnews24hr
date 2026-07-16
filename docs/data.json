@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-17 02:33:14",
-  "count": 18813,
+  "updated": "2026-07-17 02:37:08",
+  "count": 18814,
   "items": [
+    {
+      "id": "4992876",
+      "time": "2026-07-17 02:35:10",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗阿巴斯港西部傳出三次爆炸聲】總檯記者獲悉，當地時間16日，伊朗阿巴斯港西部傳出三次爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6c34-e56e-7aab-8dcf-ca1a4ca7e6f0",
+      "time": "2026-07-17 02:33:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ICI: U.S. money market fund assets fell to $7.89 trillion."
+    },
     {
       "id": "4992875",
       "time": "2026-07-17 02:32:43",
@@ -172947,16 +172964,6 @@
         "公司"
       ],
       "text": "【分析師：奈及利亞正經歷全球資本機構的“重新估值”】文藝復興資本非洲公司（Renaissance Capital Africa）旗下RC資產管理有限公司董事總經理Arnold Dublin-Green表示，奈及利亞正經歷全球資本機構的“重新估值”，這體現在其資產被考慮納入指數，以及多年的改革成果正被市場定價。這位總部位於拉各斯的基金經理表示：“請記住，該國是從一個極低的基數起步的，而這些問題正是當初導致奈及利亞被降級的主要原因。”他還指出：“亞洲的反彈完全是另一回事，它是一個由SK海力士、三星和臺積電驅動的單一主題和盈利交易。”"
-    },
-    {
-      "id": "mkt:019f4828-e35d-7aab-8d1f-e48900c0870f",
-      "time": "2026-07-10 02:34:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Economic data boost rate-hike bets, NZD hits two-week high】On Thursday the New Zealand dollar rose over 1% versus the US dollar to a two-week high of 0.5763 and also strengthened versus the Australian dollar after robust manufacturing data raised odds of further RBNZ tightening. New Zealand manufacturing grew at its fastest pace in nearly five years last month, and the RBNZ governor said economic expansion is stronger than expected. Market participants said the RBNZ's shift to a more hawkish stance has supported the currency; Monex FX trader Andrew Hazlett said if the bank raises rates further he expects additional NZD appreciation into year-end."
     }
   ]
 }
