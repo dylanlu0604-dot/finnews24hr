@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-17 06:45:33",
-  "count": 18789,
+  "updated": "2026-07-17 06:49:24",
+  "count": 18790,
   "items": [
+    {
+      "id": "mkt:019f6d1d-4a2c-7aab-8dd2-52705582165a",
+      "time": "2026-07-17 06:47:43",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "Video footage shows the countdown for SpaceX (SPCX.O) Starship's 13th test flight paused."
+    },
+    {
+      "id": "mkt:019f6d1b-fe45-7aab-8dd2-495fe4d5a652",
+      "time": "2026-07-17 06:46:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June food price index YoY 2.5% vs 3.2% prior."
+    },
+    {
+      "id": "mkt:019f6d1b-e032-7aab-8dd2-44a28e9bb029",
+      "time": "2026-07-17 06:46:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (YoY) (Jun) | actual 2.5% | previous 3.2%"
+    },
+    {
+      "id": "4993007",
+      "time": "2026-07-17 06:45:31",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭6月食品價格指數月率 0.6%，前值1.00%。\n紐西蘭6月食品價格指數年率 2.5%，前值3.2%。"
+    },
+    {
+      "id": "te:markets:567656",
+      "time": "2026-07-17 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 2.45% — Top crypto losers are Ether (-2.45%), Bitcoin (-1.09%) and Binance (-1.08%)."
+    },
     {
       "id": "mkt:019f6d1a-e96f-7aab-8dd2-3eb56ae0e218",
       "time": "2026-07-17 06:45:07",
@@ -172762,41 +172808,6 @@
         "美國"
       ],
       "text": "【美國2026財年前9個月聯邦赤字約1.4萬億美元】據美國國會預算辦公室釋出的《2026年6月月度預算回顧》，2026財年前九個月，美國聯邦預算赤字總計約1.4萬億美元，比上一財年同期增加350億美元。同期聯邦收入為4.2萬億美元，增加1420億美元，增幅4%；支出為5.5萬億美元，增加1780億美元，增幅3%。"
-    },
-    {
-      "id": "4979814",
-      "time": "2026-07-10 06:49:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國2026財年前9個月聯邦赤字約1.4萬億美元】據美國國會預算辦公室釋出的《2026年6月月度預算回顧》，2026財年前九個月，美國聯邦預算赤字總計約1.4萬億美元，比上一財年同期增加350億美元。同期聯邦收入為4.2萬億美元，增加1420億美元，增幅4%；支出為5.5萬億美元，增加1780億美元，增幅3%。（央視）"
-    },
-    {
-      "id": "mkt:019f4911-2dfa-7aab-8d22-2574bd731291",
-      "time": "2026-07-10 06:48:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "【U.S. federal deficit about $1.4 trillion in first nine months of fiscal 2026】The Congressional Budget Office's June 2026 Monthly Budget Review said the federal budget deficit for the first nine months of fiscal 2026 was about $1.4 trillion, up $35 billion from the same period a year earlier. Receipts totaled $4.2 trillion, rising $142 billion (4%); outlays were $5.5 trillion, up $178 billion (3%)."
-    },
-    {
-      "id": "4979813",
-      "time": "2026-07-10 06:46:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【投資培育上市公司達300家，深創投：推動資本和產業深度融合】 7月9日，深創投已投企業珞石機器人在港交所主機板上市，當天收盤大漲15.21%。據悉，這也是深創投投資培育的第300家上市公司。深創投近日釋出的2025年度報告顯示，截至2025年末，深創投二十餘年來累計投資企業已超過1700家。2025年公司全年決策專案金額超100億元，其中九成以上投向早期和成長期專案。"
-    },
-    {
-      "id": "mkt:019f490f-9128-7aab-8d22-196711df7d50",
-      "time": "2026-07-10 06:46:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel's energy minister said the Israel-Cyprus pipeline will be built. He added Israel knows how to defend itself, will not take orders from others, and those who threaten Israel will not fare well."
     }
   ]
 }

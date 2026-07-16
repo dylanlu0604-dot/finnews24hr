@@ -1,7 +1,53 @@
 {
   "date": "2026-07-17",
-  "count": 478,
+  "count": 483,
   "items": [
+    {
+      "id": "mkt:019f6d1d-4a2c-7aab-8dd2-52705582165a",
+      "time": "2026-07-17 06:47:43",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "Video footage shows the countdown for SpaceX (SPCX.O) Starship's 13th test flight paused."
+    },
+    {
+      "id": "mkt:019f6d1b-fe45-7aab-8dd2-495fe4d5a652",
+      "time": "2026-07-17 06:46:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June food price index YoY 2.5% vs 3.2% prior."
+    },
+    {
+      "id": "mkt:019f6d1b-e032-7aab-8dd2-44a28e9bb029",
+      "time": "2026-07-17 06:46:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Food Price Index (YoY) (Jun) | actual 2.5% | previous 3.2%"
+    },
+    {
+      "id": "4993007",
+      "time": "2026-07-17 06:45:31",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭6月食品價格指數月率 0.6%，前值1.00%。\n紐西蘭6月食品價格指數年率 2.5%，前值3.2%。"
+    },
+    {
+      "id": "te:markets:567656",
+      "time": "2026-07-17 06:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 2.45% — Top crypto losers are Ether (-2.45%), Bitcoin (-1.09%) and Binance (-1.08%)."
+    },
     {
       "id": "mkt:019f6d1a-e96f-7aab-8dd2-3eb56ae0e218",
       "time": "2026-07-17 06:45:07",
