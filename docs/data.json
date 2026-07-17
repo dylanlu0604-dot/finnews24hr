@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-18 00:25:13",
-  "count": 19001,
+  "updated": "2026-07-18 00:29:22",
+  "count": 18996,
   "items": [
+    {
+      "id": "mkt:019f70e7-43f5-7aab-8de9-050a275c1146",
+      "time": "2026-07-18 00:27:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (NASDAQ: META) shares trimmed losses to about 3% after earlier falling more than 5% on reports the company is negotiating to lease computing capacity to ANTHROPIC."
+    },
+    {
+      "id": "mkt:019f70e6-d717-7aab-8de8-f9a27633a766",
+      "time": "2026-07-18 00:26:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "【Meta in talks to lease AI compute to ANTHROPIC in potential two-year, up to $10bn deal】The New York Times reports three people familiar with the matter say Meta Platforms (META.O) is negotiating to lease its AI data-center compute to ANTHROPIC under a proposed two-year agreement that could be worth up to $10 billion. ANTHROPIC put forward the proposal in June; under the plan it would pay Meta monthly over two years and both parties would have rights to terminate the deal early. The proposed compute volume is about one-third of the capacity ANTHROPIC contracted with SpaceX in May. Sources say talks are at an early stage and the transaction may not close."
+    },
+    {
+      "id": "4994961",
+      "time": "2026-07-18 00:26:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普媒體集團曾向機構報價，每月收取 10 萬美元，提供總統帖文高速實時資料流服務。"
+    },
+    {
+      "id": "4994960",
+      "time": "2026-07-18 00:25:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報87.60美元/桶。"
+    },
     {
       "id": "4994959",
       "time": "2026-07-18 00:23:24",
@@ -175046,83 +175094,6 @@
         "其他"
       ],
       "text": "市場訊息：土耳其總統埃爾多安會見黎巴嫩總理。"
-    },
-    {
-      "id": "4981741",
-      "time": "2026-07-11 00:29:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣州白雲機場口岸啟用快捷通關人員資訊採集備案點 一地備案全國通行】記者從白雲邊檢站瞭解到，7月10日，廣州白雲機場口岸正式啟用快捷通關人員資訊採集備案點，實現“一地備案、全國通行”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f4cdc-404b-7aab-8d37-6acf30837d2a",
-      "time": "2026-07-11 00:28:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Russia suspends shipping via Don River–Azov Sea waterway】Sources said Russia has temporarily suspended shipping via the Don River–Azov Sea waterway after Ukraine attacked an Azov Sea oil tanker. The move could affect nearly a quarter of Russia's wheat exports that transit the Azov Sea. Officials gave no timeframe for the suspension."
-    },
-    {
-      "id": "4981740",
-      "time": "2026-07-11 00:28:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "英偉達股價上漲3.6%。"
-    },
-    {
-      "id": "4981739",
-      "time": "2026-07-11 00:28:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【防禦颱風“巴威” 福建寧德12時起實行“三停一休”】福建省寧德市防汛抗旱指揮部7月10日晚釋出防禦第9號颱風“巴威”防汛動員令，從11日中午12點開始，到防颱風Ⅱ級應急響應結束之前，在全市範圍，除防颱風應急搶險救援單位、民生保障、生活服務類行業以及需連續性生產企業保基本運轉外，實行停工（業）、停產、停課、休市等“三停一休”的措施，確保人民群眾生命安全。（央視新聞）"
-    },
-    {
-      "id": "4981738",
-      "time": "2026-07-11 00:28:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士稱，俄羅斯官方尚未公佈暫停經頓河-亞速海運河的航運的具體時間安排。"
-    },
-    {
-      "id": "4981737",
-      "time": "2026-07-11 00:27:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯暫停經頓河-亞速海運河的航運是烏克蘭襲擊亞速海油輪之後作出的舉措。這一決定可能影響到經亞速海運輸的俄羅斯小麥出口中近四分之一的份額。"
-    },
-    {
-      "id": "4981736",
-      "time": "2026-07-11 00:26:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "兩名業內訊息人士稱，俄羅斯已暫停經頓河-亞速海運河的航運。"
-    },
-    {
-      "id": "4981735",
-      "time": "2026-07-11 00:26:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：亞馬遜雲科技被列為英國金融業關鍵第三方服務商。"
-    },
-    {
-      "id": "4981734",
-      "time": "2026-07-11 00:25:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【旅遊市場強迫購物集中整治取得階段性成效】記者從文化和旅遊部10日舉行的新聞釋出會上獲悉，文化和旅遊部聯合有關部門持續開展旅遊市場強迫購物集中整治，取得階段性成效。2026年上半年，立案數量同比增長49.3%，查處涉及強迫購物的案件同比增長86.9%，對損害遊客合法權益、影響公平競爭市場秩序的違法違規行為形成更加有力的震懾。旅遊投訴是衡量群眾滿意度的重要指標。在投訴處理和執法辦案方面，今年上半年，全國文化和旅遊市場網上舉報投訴處理系統接收旅遊投訴數量同比下降24.2%，環比下降31.4%。（新華社）"
     }
   ]
 }

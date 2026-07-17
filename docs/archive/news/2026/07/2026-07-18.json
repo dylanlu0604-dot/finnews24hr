@@ -1,7 +1,55 @@
 {
   "date": "2026-07-18",
-  "count": 19,
+  "count": 23,
   "items": [
+    {
+      "id": "mkt:019f70e7-43f5-7aab-8de9-050a275c1146",
+      "time": "2026-07-18 00:27:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Meta Platforms",
+        "META.O",
+        "Impact bearish"
+      ],
+      "text": "Meta Platforms (NASDAQ: META) shares trimmed losses to about 3% after earlier falling more than 5% on reports the company is negotiating to lease computing capacity to ANTHROPIC."
+    },
+    {
+      "id": "mkt:019f70e6-d717-7aab-8de8-f9a27633a766",
+      "time": "2026-07-18 00:26:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O",
+        "Impact mixed"
+      ],
+      "text": "【Meta in talks to lease AI compute to ANTHROPIC in potential two-year, up to $10bn deal】The New York Times reports three people familiar with the matter say Meta Platforms (META.O) is negotiating to lease its AI data-center compute to ANTHROPIC under a proposed two-year agreement that could be worth up to $10 billion. ANTHROPIC put forward the proposal in June; under the plan it would pay Meta monthly over two years and both parties would have rights to terminate the deal early. The proposed compute volume is about one-third of the capacity ANTHROPIC contracted with SpaceX in May. Sources say talks are at an early stage and the transaction may not close."
+    },
+    {
+      "id": "4994961",
+      "time": "2026-07-18 00:26:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普媒體集團曾向機構報價，每月收取 10 萬美元，提供總統帖文高速實時資料流服務。"
+    },
+    {
+      "id": "4994960",
+      "time": "2026-07-18 00:25:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報87.60美元/桶。"
+    },
     {
       "id": "4994959",
       "time": "2026-07-18 00:23:24",
