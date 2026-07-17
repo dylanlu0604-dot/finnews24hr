@@ -1,7 +1,379 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-18 04:26:39_
-_本檔包含 4110 則快訊，約 717872 字_
+_更新時間：2026-07-18 05:29:19_
+_本檔包含 4125 則快訊，約 717864 字_
+
+---
+
+### 2026-07-16 21:37:06  #其他
+
+美股盤初，主要行業ETF漲跌不一，半導體ETF跌近3%，全球科技股指數ETF跌近2%，日常消費品ETF漲1.5%。
+
+---
+
+### 2026-07-16 21:37:01  #其他
+
+世界衛生組織：目前來看，本迪布焦埃博拉病毒毒株顯現的症狀暫無明顯差異。
+
+---
+
+### 2026-07-16 21:36:26  #其他
+
+納斯達克100指數跌幅擴大至1%。
+
+---
+
+### 2026-07-16 21:35:59  #其他
+
+韋德布什證券對Ebay啟動覆蓋，給予跑贏大盤評級，目標價為135美元。
+
+---
+
+### 2026-07-16 21:34:42  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Falls for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the second session on Thursday, dropping about 3% to its lowest since July 6 at 2,840 points, amid continued weakness in the larger segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also fell for the second day, slipping 5.6% to an over one-week low of 4,339 points. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, remained broadly steady at 2,257 points, supported by stable coal and grain cargo demand across both Atlantic and Pacific basins. Among smaller vessels, the supramax index went up 0.6% to a new high since August 2022 at 1,730 points, driven by firm demand across the minor bulk, steel, fertilizer, and grain segments.
+
+---
+
+### 2026-07-16 21:34:37  #市場 #國際
+
+【金價跌破每盎司4000美元關口】當地時間16日，中東緊張局勢加劇通脹擔憂，國際金銀價格在美國交易時段持續走低，黃金期貨和現貨價格均跌破每盎司4000美元關口。截至北京時間16日21時15分，紐約商品交易所8月交割的黃金期貨價格報每盎司3995.28美元，跌幅為1.39%；9月交割的白銀期貨價格報每盎司56.14美元，跌幅為2.25%。黃金現貨價格報每盎司3993.33美元，下跌1.65%；白銀現貨價格報每盎司55.899美元，跌幅為3.24%。（央視財經）
+
+---
+
+### 2026-07-16 21:34:03  #市場
+
+【美光科技總市值已低於1萬億美元】美光科技股價開盤下跌3.06%，報876.645美元/股，總市值報9901億美元。
+
+---
+
+### 2026-07-16 21:33:15  #市場
+
+Lululemon股價下跌近2%，此前Truist Securities將其評級下調至"賣出"。
+
+---
+
+### 2026-07-16 21:33:06  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Abbott Stock Price Hits 13-week High — Abbott shares increased to 98.27 USD, the highest since April 2026. Over the past 4 weeks, Abbott gained 7.53%, and in the last 12 months, it decreased 26.04%.
+
+---
+
+### 2026-07-16 21:32:50  #市場
+
+雅培上調2026年盈利預測後，其股價開盤上漲7%。
+
+---
+
+### 2026-07-16 21:32:44  #市場
+
+通用電氣航空部門股價在其二季度業績公佈後下跌2.5%。
+
+---
+
+### 2026-07-16 21:32:40  #市場
+
+標普1500健康管理指數開盤上漲6.7%。
+
+---
+
+### 2026-07-16 21:32:34  #公司
+
+韋德布什證券公司開始對愛彼迎進行追蹤評級，給予中性評級，目標價為152美元。
+
+---
+
+### 2026-07-16 21:32:22  #公司
+
+【浙江美大：控股股東擬以每股6.66元轉讓29.99%股份，控制權擬變更】浙江美大公告，公司控股股東、實際控制人夏志生、夏鼎於2026年7月16日與深圳星藍圖產業投資合夥企業(有限合夥)簽署《股份轉讓協議》，擬以協議轉讓方式分別向深圳星藍圖轉讓9173.93萬股、1.02億股，合計1.94億股（佔公司總股本的29.99%），轉讓價格為每股6.66元，總價款12.9億元。本次轉讓完成後，深圳星藍圖將成為公司控股股東，實際控制人變更為張海政。本次股份轉讓尚需取得深交所合規性確認並在中登深圳分公司辦理過戶登記，存在不確定性。
+
+---
+
+### 2026-07-16 21:32:18  #Trading Economics #Markets #United States #stocks #Importance 1
+
+General Electric Aerospace Stock Price Hits 4-week Low — General Electric Aerospace shares decreased to 347.48 USD, the lowest since June 2026. Over the past 4 weeks, General Electric Aerospace lost 0.49%, and in the last 12 months, it increased 31.49%.
+
+---
+
+### 2026-07-16 21:32:13  #市場
+
+SK海力士ADR開盤一度下跌6.8%。
+
+---
+
+### 2026-07-16 21:32:07  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bullish #S&P500 #Impact bearish #Nasdaq100
+
+At the open on July 16 (Thu), the Dow Jones Industrial Average rose 105.87 points, or 0.20%, to 52,764.51; the S&P 500 fell 19.86 points, or 0.26%, to 7,552.54; the Nasdaq Composite fell 129.06 points, or 0.49%, to 26,140.17.
+
+---
+
+### 2026-07-16 21:31:54  #公司 #市場
+
+聯合健康集團股價開盤上漲10%，創2025年4月以來最高水平。
+
+---
+
+### 2026-07-16 21:31:34  #市場
+
+【費城半導體指數開盤跌超2%】費城半導體指數開盤下跌2.16%。成分股中，英偉達股價下跌0.99%，臺積電股價下跌2.53%，博通股價下跌2.67%，美光科技股價下跌3.4%，超威半導體股價下跌3.01%，阿斯麥股價下跌0.39%。
+
+---
+
+### 2026-07-16 21:31:05  #MKT News
+
+【2026 summer box office first half 3.534 bln yuan】As of 21:00 on July 16, 2026, summer 2026 box office receipts for the first half of the season totaled 3.534 bln yuan, up YoY. Kung Fu Women's Football was the period's top-grossing film.
+
+---
+
+### 2026-07-16 21:30:53  #央行 #其他
+
+奈及利亞外匯市場流動性充足，央行未進行干預。
+
+---
+
+### 2026-07-16 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指漲0.26%，標普500指數跌0.19%，納指跌0.42%。閃迪跌5.39%，Arm Holdings Plc跌5.23%，Coherent Corp跌4.97%，聯合健康漲8.35%，JB Hunt運輸服務漲7.17%。“七姐妹”方面：谷歌漲0.96%，亞馬遜漲0.80%，微軟漲0.42%，蘋果漲0.25%，Meta Platforms跌0.22%，英偉達跌1.24%，特斯拉跌1.36%。
+
+---
+
+### 2026-07-16 21:30:44  #MKT News #Important #SKHY.O #Impact bearish #SNDK.O #MU.O
+
+U.S. stocks at the open: Dow up 0.2%, S&P 500 down 0.19%, Nasdaq down 0.45%. SK Hynix ADR (SKHY.O) down more than 5%; SanDisk (SNDK.O) down 4.5%; Micron Technology (MU.O) down 3.1%; Western Digital (WDC.O) down 3.6%; Intel (INTC.O) down 1.4%.
+
+---
+
+### 2026-07-16 21:30:36  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，騰訊音樂漲6.83%，嗶哩嗶哩漲4.13%，百度漲3.49%，百勝中國漲3.08%，名創優品漲2.77%。
+
+---
+
+### 2026-07-16 21:30:29  #公司 #市場
+
+禮來公司達成38億美元交易後，ATAIBECKLEY股價開盤上漲32%。
+
+---
+
+### 2026-07-16 21:30:21  #其他
+
+韋德布什對Uber啟動覆蓋，給予跑贏大盤評級，目標價為91美元.
+
+---
+
+### 2026-07-16 21:30:15  #Trading Economics #Markets #United States #stocks #Importance 1
+
+UnitedHealth Stock Price Hits 14-month High — UnitedHealth shares increased to 453.80 USD, the highest since April 2025. Over the past 4 weeks, UnitedHealth gained 2.67%, and in the last 12 months, it increased 43.09%.
+
+---
+
+### 2026-07-16 21:29:45  #公司
+
+韋德布什證券公司首次覆蓋Meta，給出中性評級，目標價為671美元。
+
+---
+
+### 2026-07-16 21:29:05  #公司
+
+韋德布什證券公司對亞馬遜啟動覆蓋，給予“強於大盤”評級，目標價為293美元。
+
+---
+
+### 2026-07-16 21:28:47  #公司
+
+韋德布什公司對ALPHABET啟動覆蓋，給予強於大盤評級，目標價為445美元。
+
+---
+
+### 2026-07-16 21:27:45  #其他
+
+韋德布什對多鄰國啟動覆蓋研究，給予中性評級，目標價為139美元。
+
+---
+
+### 2026-07-16 21:27:37  #其他
+
+奈及利亞力求將外匯儲備提升至可覆蓋超10個月進口額的水平。
+
+---
+
+### 2026-07-16 21:26:55  #MKT News
+
+【Apple said to debut OLED iPad mini this fall; entry iPad and iPad Air refreshes expected next year】Apple is preparing its biggest iPad mini upgrade in five years, introducing an OLED display and targeting a fall announcement with shipments in October; device codename J510. The company plans to refresh the entry-level iPad (J581) and 11‑/13‑inch iPad Air (J807, J837) next year — the entry model will mainly get a processor upgrade and iPad Air is expected in spring. Apple also expects to launch its first foldable iPhone and a new Apple Watch in September, and raised prices last month on several products including iPads.
+
+---
+
+### 2026-07-16 21:26:43  #公司
+
+【威星智慧：公司目前沒有併購金卡智慧的相關計劃】威星智慧7月16日在互動平臺表示，公司目前沒有併購金卡智慧的相關計劃。
+
+---
+
+### 2026-07-16 21:26:33  #公司
+
+【浙江美大：籌劃控制權變更，股票7月17日起復牌】浙江美大公告稱，公司控股股東、實際控制人夏志生、夏鼎正在籌劃控制權變更事項，公司股票於7月10日起停牌。7月16日，夏志生、夏鼎與深圳星藍圖簽署《股份轉讓協議》，擬分別轉讓91,739,335股、102,011,554股，佔總股本的14.20%、15.79%，轉讓價6.656元/股。轉讓完成後，深圳星藍圖持股29.99%，控股股東將變更為深圳星藍圖，實控人變更為張海政。公司股票7月17日起復牌，本次轉讓尚需相關審批，能否完成存在不確定性。
+
+---
+
+### 2026-07-16 21:26:29  #公司
+
+韋德布什公司對Reddit發起覆蓋評級，給予“跑贏大盤”評級，目標價為250美元。
+
+---
+
+### 2026-07-16 21:26:15  #其他
+
+國際貨幣基金組織執董會完成對英國2026年第四條磋商。
+
+---
+
+### 2026-07-16 21:26:06  #公司
+
+【蘋果據悉最快今秋推出OLED版iPad mini，明年更新入門版及iPad Air】當地時間7月16日，科技記者馬克·古爾曼發文稱， 蘋果公司正準備推出五年來最大升級版iPad mini，最快將於今秋釋出、10月上市。新款iPad mini代號J510，將首次採用OLED顯示屏，以提升顯示效果。與此同時，蘋果還計劃於明年更新入門版iPad（代號J581）和11英寸、13英寸iPad Air（代號J807、J837），其中入門版主要升級處理器，iPad Air預計於春季釋出。蘋果預計今年9月釋出首款摺疊屏iPhone以及新款Apple Watch等產品，並已於上月上調包括iPad系列在內的多款產品售價。
+
+---
+
+### 2026-07-16 21:25:36  #市場 #央行 #國際
+
+【深夜跳水 現貨黃金跌破4000美元】7月16日晚，國際金銀現貨集體下跌。截至北京時間21:00，現貨黃金跌破4000美元/盎司，報3992.06美元/盎司，跌幅1.61%；現貨白銀下跌至55.78美元/盎司，跌幅3.43%。訊息面上，美國勞工部公佈資料，截至7月11日當週，首次申領失業救濟人數減少8000人，降至20.8萬人，預期值為21.7萬人。之前一週的持續申領失業救濟人數降至181萬人，也低於預期。此外，近日，美聯儲主席凱文·沃什上任以來首次在國會作證，宣示對通脹“零容忍”並堅定承諾恢復價格穩定。儘管沒有明確表示將收緊貨幣政策，但沃什表示，抑制通脹的選項包括動用利率。（中證金牛座）
+
+---
+
+### 2026-07-16 21:25:07  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Houthi militants accused Israel of seeking to implement a "Greater Israel" plan to expand its influence across West Asia and said they will steadfastly defend their rights.
+
+---
+
+### 2026-07-16 21:25:02  #公司 #市場
+
+【伯恩斯坦：上調阿斯麥目標價至2500歐元，列出三大上行驅動因素】伯恩斯坦將阿斯麥的目標價從2300歐元上調至2500歐元，維持“跑贏大市”評級。分析師David Dai指出，三大上行驅動因素：其一，阿斯麥計劃在2027年和2028年每年將低數值孔徑EUV及ArFi產能各提升30%；定價方面存在上行空間，估計2027年EUV平均售價將上漲10%，2028年有望再度實現高個位數百分比的漲幅；看好利潤率的改善空間，公司對2026年下半年毛利率指引為56%，高於市場普遍預期的52.6%。伯恩斯坦將阿斯麥2027年及2028年營收預測分別上調至560億和720億歐元，每股收益預測亦相應上調至53.6和75.3歐元。
+
+---
+
+### 2026-07-16 21:24:17  #其他
+
+世界衛生組織總幹事表示，由世界衛生組織與非洲疾控中心聯合制定的非洲大陸防疫準備與應對計劃資金缺口超過4億美元。
+
+---
+
+### 2026-07-16 21:23:51  #其他
+
+世界衛生組織呼籲各國及合作方消除各類加劇痴呆患病風險的誘因。
+
+---
+
+### 2026-07-16 21:23:32  #國際
+
+胡塞武裝：受壓迫者若不尋求公道，暴君便會肆無忌憚地持續施行壓迫。猶太復國主義者是最殘暴的暴君。以色列圖謀推行 “大以色列” 計劃，擴張其在西亞地區的勢力範圍。我們堅定捍衛自身權益。
+
+---
+
+### 2026-07-16 21:22:52  #MKT News #Commodities #WTI #Impact bullish #Brent
+
+【PENTAGON assessment: U.S. Iran operation costs may reach $100bn, far above official $30bn】A PENTAGON internal assessment reported July 15 says actual U.S. spending on military operations against Iran could be as high as $100bn, well above the roughly $30bn the U.S. government has disclosed. The gap is attributed to undisclosed operational expenses, losses of advanced aircraft and significant damage to U.S. military facilities in the Middle East. Senator Angus King said the public is very disappointed by the lack of transparency and highlighted follow-on consumer costs, including higher gasoline prices.
+
+---
+
+### 2026-07-16 21:22:35  #Trading Economics #Economy #Brazil #Retail Sales MoM #Importance 1
+
+Brazil Retail Sales Edge Higher in May — Brazil's retail sales volume rose 0.1% month-over-month in May 2026, rebounding from a 1.6% decline in the previous month, but missing market expectations of a 0.5% increase. Among retail categories, the strongest monthly gains were recorded in books, newspapers, magazines, and stationery (15.2%), textiles, apparel, and footwear (3.1%), furniture and household appliances (2.7%), pharmaceuticals and personal care products (1.4%), and fuels and lubricants (1.1%). The largest declines were seen in office equipment, IT and communications (-1.7%), supermarkets, food, beverages, and tobacco (-1.5%), and other personal and household goods (-0.3%). Broad retail sales, which include vehicles, construction materials, and wholesale food, beverages, and tobacco, fell 0.2% in May from April, following a 0.7% decline in the previous month. On an annual basis, retail sales rose 0.4%, slowing from a 1.0% increase in April.
+
+---
+
+### 2026-07-16 21:20:49  #其他
+
+非洲銀行正與工會磋商裁員1200人相關事宜。
+
+---
+
+### 2026-07-16 21:19:33  #MKT News #Market Themes #AI Revolution
+
+【Unitree Technology opens Asia's first embodied intelligence experience center】Unitree Technology opened Asia’s first embodied intelligence experience center in Shanghai ahead of the World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance (July 17-20, 2026). The centre is displaying and selling the firm’s consumer-facing embodied AI products to move technology from lab to market and drew domestic and international visitors; the company says the products will continue to iterate and expand into households and multiple industries.
+
+---
+
+### 2026-07-16 21:19:24  #其他
+
+世衛組織負責人表示，剛果新增埃博拉病例中，超過80%是在已知接觸者名單之外發現的。
+
+---
+
+### 2026-07-16 21:18:25  #國際
+
+小鵬汽車：近期，何小鵬與劉先明在德國完成了小鵬圖靈AI智駕的本地化驗收測試。這套基於中國路況訓練的智慧輔助駕駛系統，在歐洲已經具備較高的適配性與穩定性，幾乎不需要額外的資料訓練，就能應對城市主幹道、窄路小巷和大麴率彎道，並完成自主繞行、平穩避讓行人等操作。
+
+---
+
+### 2026-07-16 21:17:50  #市場
+
+雅培在業績指引上調後盤前股價上漲5.7%。
+
+---
+
+### 2026-07-16 21:17:32  #國際
+
+標普全球能源研究發現，液化天然氣將在五年內成為美國第二大淨出口行業。
+
+---
+
+### 2026-07-16 21:17:14  #MKT News #Market Themes #AI Revolution #SSE Composite #Impact bullish #CSI300
+
+【More than 10 STAR Market firms to showcase AI supply‑chain products at WAIC 2026】More than 10 STAR Market-listed AI supply-chain companies will exhibit latest products at WAIC 2026 via booth displays covering the full chain from compute chips to terminal applications. By July 16 evening, 32 STAR Market firms had disclosed 2026 HY profit guidance; 30 were positive — 22 forecast YoY net profit growth and six expect to return to profit. The companies span semiconductors, electronic materials, high-end equipment, biopharma and lithium batteries.
+
+---
+
+### 2026-07-16 21:16:58  #其他
+
+【五菱星光L正式上市】7月16日，上汽通用五菱旗下插混大六座SUV星光L正式上市，新車推出舒享、臻享、旗艦共3款配置，搭載基於Android 13研發的靈語智慧作業系統1.0架構，上市權益價10.98萬元起。
+
+---
+
+### 2026-07-16 21:16:29  #其他
+
+理想汽車推出全新理想L6四輪驅動SUV，全國統一零售價24.98萬元。
+
+---
+
+### 2026-07-16 21:16:14  #央行 #國際
+
+奈及利亞央行：伊朗地緣衝突帶來的衝擊對奈及利亞影響小於絕大多數其他國家。
+
+---
+
+### 2026-07-16 21:15:45  #公司
+
+【23股特大單淨流入超2億元】據資料寶，今日，23股特大單淨流入超2億元，紫光股份特大單淨流入20.35億元，淨流入資金規模居首；東山精密特大單淨流入資金18.34億元，位列第二；淨流入資金居前的還有景旺電子、瑞芯微、拓維資訊等。特大單淨流出股中，中際旭創特大單淨流出資金29.24億元，淨流出資金最多；瀾起科技、兆易創新特大單淨流出資金分別為20.78億元、11.77億元，淨流出資金規模位列第二、第三。
+
+---
+
+### 2026-07-16 21:15:33  #其他
+
+國際紙業將關停得克薩斯州卡羅爾頓南部包裝工廠。
+
+---
+
+### 2026-07-16 21:15:28  #國際
+
+【伊朗外交部發言人：任何侵略行為都將遭到堅決回應】當地時間7月16日，伊朗外交部發言人巴加埃表示，伊朗武裝力量已為各種可能情形做好充分準備，這一點已經在實際行動中得到證明。巴加埃表示，伊朗不會束手旁觀，武裝力量、外交機構和全國人民將全力維護國家安全。任何針對伊朗伊斯蘭共和國的侵略，都將遭到堅決、直接且毫不遲疑地回應。談及有關諒解備忘錄問題時，巴加埃表示，伊朗立場自始至終都十分明確，堅持“承諾對承諾”（即對等履約）原則。（央視新聞）
+
+---
+
+### 2026-07-16 21:14:48  #公司
+
+【10餘家科創板企業將攜最新成果亮相WAIC2026】記者關注到，2026世界人工智慧大會暨人工智慧全球治理高階別會議即將啟幕，科創板人工智慧產業鏈企業也將攜最新成果組團亮相。從參展安排看，科創板已上市的10餘家人工智慧產業鏈企業均透過展廳形式亮相大會，覆蓋從算力晶片到終端應用的全鏈條。業績方面，截至7月16日晚間，科創板已有32家公司披露2026年半年度業績預告，其中30家預喜，包括22家預計淨利潤同比增長、6家預計扭虧為盈。相關公司覆蓋半導體、電子材料、高階裝備、生物醫藥、鋰電等多個領域。（介面）
+
+---
+
+### 2026-07-16 21:14:40  #MKT News #02015.HK #Impact bullish
+
+Li Auto (02015.HK) launched the new L6 four-wheel-drive SUV, priced at a nationwide unified retail price of 249,800 yuan.
+
+---
+
+### 2026-07-16 21:14:37  #公司
+
+【1Password推出Claude瀏覽器整合，支援AI代理安全呼叫賬號憑證】7月16日，身份安全公司1Password宣佈推出面向Anthropic Claude的瀏覽器整合“1Password for Claude”，允許Claude在無需獲取或儲存密碼的情況下呼叫使用者儲存在1Password中的登入憑證，完成預訂行程、管理賬戶等任務。1Password同時推出“Agentic Mode”，在AI代理接管瀏覽器時自動限制其僅訪問使用者授權的憑證，防止敏感資訊暴露，並表示未來將把該框架擴充套件至更多瀏覽器AI代理平臺。
 
 ---
 
@@ -24488,287 +24860,5 @@ Sensex Finishes Slightly Higher — India’s BSE Sensex pared early gains to cl
 ### 2026-07-15 18:55:06  #MKT News #Star Stocks #Alphabet #Market Regions #Europe & UK #Market Themes #Magnificent 7 #GOOGL.O #Impact bearish
 
 【Financial Times: European Commission to announce fines and DMA orders against Google within a week】Financial Times reports multiple people familiar say the European Commission plans to issue several separate enforcement decisions against Google within the next week, imposing fines totalling in the hundreds of millions of euros. The measures are said to include the threat of daily penalty payments and new regulatory orders under the EU Digital Markets Act. Under the DMA, breaches can carry fines of up to 10% of global turnover; Alphabet’s revenue last year was $402.83 bln.
-
----
-
-### 2026-07-15 18:55:05  #宏觀
-
-【我國進一步規範公共資源交易中心招標投標現場管理】公共資源交易中心承擔著保障招標、投標、開標、評標等活動順利開展的重要職責，是招標投標“第一現場”。今天，國家發展改革委等部門出臺《公共資源交易中心招標投標現場管理暫行辦法》，明確了交易中心現場管理的具體範圍、事項、流程。《辦法》提出交易中心應當對業務大廳、開標區、評標區等場所區域實行分割槽管理；應當對評標區進行封閉管理；對於採用暗標評審的專案，應當按照要求，運用技術手段對投標檔案進行匿名處理。國家發展改革委法規司副司長、一級巡視員於文濤介紹，《公共資源交易中心招標投標現場管理暫行辦法》進一步加大人工智慧、遠端異地評標、“雙盲”評審等成熟做法的推行力度，升級現場管理手段。完善交易中心全過程記錄要求，健全完善異常提醒、線索報告等機制，強化違法行為防控。據介紹，《辦法》將從2027年1月1日起正式施行。（央視新聞）
-
----
-
-### 2026-07-15 18:54:55  #國際
-
-【外媒：一名現役以軍士兵因涉嫌“為伊朗從事間諜活動”被判5年監禁】據報道，以色列國防軍15日表示，一名現役以軍士兵因涉嫌“為伊朗從事間諜活動”被判處5年監禁。以色列軍方稱，這名士兵被控在去年6月以色列、美國和伊朗“12日戰爭”期間向伊方傳送了兩段有關“導彈攔截”的影片，並因此“獲得了報酬”。以軍方稱，這名士兵還與伊朗聯絡人分享了多段在平民場所拍攝的影片，其中包括有顯示導彈撞擊的畫面。（環球網）
-
----
-
-### 2026-07-15 18:53:58  #其他
-
-【習近平在上海考察】中共中央總書記、國家主席、中央軍委主席習近平15日在上海考察時強調，高質量推進城市更新是城市現代化建設的重要抓手，要全面踐行人民城市理念，堅持問需於民、問計於民、問效於民，做深做細做實城市更新各項工作，不斷增強居民群眾的獲得感、幸福感、安全感。(新華社)
-
----
-
-### 2026-07-15 18:53:53  #MKT News
-
-【Xi inspects Shanghai】Xi inspected Shanghai on the 15th and said high-quality urban renewal is a key instrument of urban modernization. He urged full implementation of the people's city concept—soliciting and responding to residents' needs—and deeper, more thorough urban-renewal work to strengthen residents' sense of gain, well-being and safety.
-
----
-
-### 2026-07-15 18:52:53  #公司
-
-市場訊息：帕特里克·德拉希旗下的Altice國際集團被指拖欠20億歐元債務。
-
----
-
-### 2026-07-15 18:52:27  #公司
-
-【永輝超市進入呼和浩特】7月16日，永輝超市呼和浩特首店在凱德廣場·諾和木勒開業。永輝超市方面對介面新聞透露，該店採用“胖東來模式”，同時落地永輝超市調改第二階段的核心成果。目前該門店共有6485支商品，商品結構接近胖東來商品結構的80%。永輝超市7月14日披露業績預告，預計2026年上半年歸屬於上市公司股東的淨利潤2.5億元，將實現扭虧為盈。
-
----
-
-### 2026-07-15 18:52:16  #公司
-
-【微信宣佈治理停車繳費介面違規廣告連結】7月15日，微信安全中心釋出公告稱，近期透過使用者投訴發現，部分停車場掃碼繳費頁面存在誘導性廣告彈窗。此類違規行為主要表現為：以虛假優惠誘導點選、關閉按鈕隱蔽或缺失。上述行為違反《中華人民共和國廣告法》關於廣告不得欺騙、誤導消費者、彈窗廣告須有顯著一鍵關閉標誌等規定。此類違規連結一經發現核實，平臺將依據國家相關法律法規以及《騰訊微信軟體許可及服務協議》《微信外部連結內容管理規範》等平臺協議及規則進行處理，包括限制違規連結的訪問等。
-
----
-
-### 2026-07-15 18:51:07  #其他
-
-【副局長自費開發防災小程式 提升基層轉移效率】北京密雲防災小程式“叫應”走紅，由當地規自委密雲分局副局長謝隕石藉助AI自費開發，分攤成本僅二十多元。該程式可實時彙總隱患點、雨情和群眾轉移情況，減少基層電話報送，提高防汛轉移效率。（央視新聞）
-
----
-
-### 2026-07-15 18:50:28  #MKT News
-
-U.S. President Trump said the House of Representatives passed a bill he supports to make daylight saving time permanent.
-
----
-
-### 2026-07-15 18:50:04  #公司
-
-【電科網安：全資子公司涉訴案件進入再審立案審查階段】電科網安公告稱，全資子公司北京網安收到最高法《應訴通知書》，北京中宏瑞德投資管理中心（有限合夥）不服北京高院判決，向最高法申請再審，最高法已立案審查。本案不涉及具體金額，尚在再審立案審查階段，暫無法確定對公司利潤的影響。截至公告披露日，公司及子公司作為原、被告的未結訴訟仲裁案件標的金額分別為3955.94萬元、353.85萬元。
-
----
-
-### 2026-07-15 18:49:29  #公司
-
-【中青旅：2026年半年度淨利潤同比減少66.34%】中青旅公告，2026年半年度公司實現盈利，淨利潤與上年同期相比下降66.34%。預計2026年半年度歸屬於母公司所有者的淨利潤為2250萬元，與上年同期相比將減少4435.3萬元。歸屬於母公司所有者的扣除非經常性損益後的淨利潤預計為3140.48萬元，與上年同期相比將減少3217.78萬元，同比減少50.61%左右。
-
----
-
-### 2026-07-15 18:48:32  #公司
-
-【中國儲能科技發展：法院會議及股東特別大會批准私有化計劃，預計8月5日撤銷上市地位】中國儲能科技發展公告，公司此前披露名堡企業有限公司擬透過協議安排方式將其私有化。法院會議及股東特別大會於2026年7月15日舉行，批准計劃的決議案已獲透過。法院會議上，計劃股東投票中贊成票佔99.99%，反對票佔0.01%；無利害關係計劃股東投票中贊成票佔99.99%，反對票佔0.01%。股東特別大會上，批准削減股本併發行新股份的特別決議案以99.99%贊成票透過。待計劃於2026年8月4日（開曼群島時間）生效後，預期股份於聯交所撤銷上市地位將於2026年8月5日下午四時正起生效。
-
----
-
-### 2026-07-15 18:48:27  #MKT News #Macro & Rates #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Standard Chartered: Higher-rate environment may prompt more cautious capex】Standard Chartered chief strategist Eric Robertson said we have entered an era of structurally higher interest rates. He said US rates are unlikely to return to zero and that rates in Europe and Japan have also risen. A key long-term implication will be tighter capital allocation—financing costs of 4–5% will force stricter project selection compared with a zero-rate environment. He added this does not imply capital scarcity: tens of trillions of dollars remain parked in US money-market funds and alternative asset managers hold large pools of capital.
-
----
-
-### 2026-07-15 18:47:40  #MKT News #GOOGL.O #Impact bearish
-
-FT reports Brussels is preparing a new round of fines on Google as regulatory pressure on Big Tech increases.
-
----
-
-### 2026-07-15 18:47:31  #MKT News
-
-Trump said U.S. crime has fallen sharply and blamed President Biden's open-border policies for allowing about 25 million people to enter the United States without restriction or screening, saying many are criminals and must be expelled.
-
----
-
-### 2026-07-15 18:46:57  #公司
-
-市場訊息：隨著大型科技監管執法力度加大，布魯塞爾準備對谷歌開出新罰單。
-
----
-
-### 2026-07-15 18:46:49  #國際
-
-市場訊息：歐盟在地震後向委內瑞拉提供額外2000萬歐元援助。
-
----
-
-### 2026-07-15 18:46:36  #MKT News
-
-European Union to provide an additional EUR20 mln in aid to Venezuela after earthquake.
-
----
-
-### 2026-07-15 18:46:31  #國際
-
-特朗普：我們不能放棄ICE交通攔截。
-
----
-
-### 2026-07-15 18:46:20  #國際
-
-特朗普在社交平臺上發帖讚揚美國移民及海關執法局 (ICE)。
-
----
-
-### 2026-07-15 18:45:55  #觀點
-
-蒙特利爾銀行：將高盛(GS.N)目標價從1070美元上調至1190美元。
-
----
-
-### 2026-07-15 18:45:47  #MKT News #Market Themes #AI Revolution
-
-Kazakh President Tokayev arrived in Shanghai to attend the 2026 World Artificial Intelligence Conference and the High-Level Meeting on Global AI Governance.
-
----
-
-### 2026-07-15 18:45:46  #其他
-
-紐約銀行預計全年支出同比增長6%-7%。
-
----
-
-### 2026-07-15 18:45:34  #MKT News #GS.N #Impact bullish
-
-BMO raises Goldman Sachs (GS.N) price target to $1,190 from $1,070.
-
----
-
-### 2026-07-15 18:45:16  #公司
-
-【知網：對AI署名論文已做下架處理】同方知網數字科技有限公司釋出宣告稱，近期部分期刊刊發了將DeepSeek、Gemini等人工智慧（AI）列為作者的論文，在業界引發版權權屬、學術規範相關合規爭議。對此類AI署名論文，知網已做下架處理。
-
----
-
-### 2026-07-15 18:45:11  #其他
-
-【哈薩克總統託卡耶夫抵達上海 出席2026世界人工智慧大會暨人工智慧全球治理高階別會議】15日，哈薩克總統託卡耶夫乘機抵達上海虹橋國際機場，他將出席7月17日至20日在上海舉行的2026世界人工智慧大會暨人工智慧全球治理高階別會議。（央視新聞）
-
----
-
-### 2026-07-15 18:45:09  #Trading Economics #Economy #India #Unemployment Rate #Importance 1
-
-India Unemployment Rate Unexpectedly Holds — The unemployment rate in India remained unchanged from the previous month at 5.5% in June of 2026, the highest in nearly one year, slightly above market expectations that it would ease to 5.4%. The surge in energy prices due to the halt of commercial vessel flows in the Persian Gulf weakened the rupee and dampened the purchasing power for household and businesses. The unemployment rate rose to 6.6% for urban centers from 6.4% in the previous month. This was enough to offset a 0.1 percentage point drop for unemployment in rural areas of India, easing from a one-year high. Still, the unemployment rate inched down by 0.1 percentage point from the corresponding period of the previous year. The employment rate remained unchanged at the 11-month low of 51.4%, and the labor force participation rate remained at the 11-month low of 54.4%.
-
----
-
-### 2026-07-15 18:44:47  #其他
-
-市場訊息：紐約銀行預計全年總營收同比增長10%-11%。
-
----
-
-### 2026-07-15 18:44:32  #公司
-
-【崑崙信託：2026年上半年營收3.20億元 淨利潤1.24億元】崑崙信託公告稱，2026年上半年，公司營業收入3.20億元，同比增長14.40%；淨利潤1.24億元，同比增長15.15%。其中，投資收益1.10億元，同比增長78.67%；公允價值變動收益8948.61萬元，同比增長14.21%。資產處置收益為 -32.15萬元，上年同期為639.81萬元。
-
----
-
-### 2026-07-15 18:44:27  #公司
-
-【諾誠健華：Soficitinib治療中重度特應性皮炎Ⅲ期臨床試驗達主要終點】諾誠健華(688428.SH)公告稱，公司自主研發的新一代高選擇性口服TYK2抑制劑soficitinib(ICP-332)用於治療成人中重度特應性皮炎患者的Ⅲ期註冊性臨床試驗達到主要終點，在統計學上具有高度顯著性，並取得具有臨床意義的改善。多個次要終點亦成功達到，安全性結果與既往研究一致，未發現新安全性訊號。公司將繼續完成長期安全性隨訪，並推進後續註冊申報工作。
-
----
-
-### 2026-07-15 18:44:11  #市場
-
-FIRST HORIZON CORP股價盤前上漲3.7%，此前公佈的第二季獲利超預期。
-
----
-
-### 2026-07-15 18:43:43  #公司
-
-【滄州明珠：向特定物件發行股票募集資金總額調整為不超過人民幣6億元】滄州明珠公告，公司於2026年7月15日召開第九屆董事會第十七次（臨時）會議審議透過了《關於調整向特定物件發行股票方案的議案》。根據相關法律法規，公司董事會結合實際情況、專案實施安排及市場狀況等因素，將本次向特定物件發行股票募集資金總額由不超過人民幣14億元（含本數）調整為不超過人民幣6億元（含本數）。同時，發行物件所認購的股票限售期由自發行結束之日起十八個月內不得轉讓調整為三十六個月內不得轉讓。募集資金在扣除相關發行費用後的募集資金淨額將全部用於補充流動資金。
-
----
-
-### 2026-07-15 18:43:39  #公司 #國際
-
-【國聯水產：全資子公司擬以1.15億元出售美國加利福尼亞州房地產】國聯水產公告，全資子公司Liancheng Investments, LLC同意以1700萬美元（約11,544.70萬元人民幣）向LBA-Logistics出售其在美國加利福尼亞州尤尼恩城法伯街2910號的房地產。該交易所得款項將用於公司業務發展。交易尚需提交公司股東會審議，且尚未正式簽署資產轉讓協議。
-
----
-
-### 2026-07-15 18:43:34  #央行 #國際
-
-訊息人士：印度PFC自印度央行補貼視窗以來再次安排美元債券發行。
-
----
-
-### 2026-07-15 18:43:26  #其他
-
-瑞穗將微軟目標價由 515 美元下調至 490 美元。
-
----
-
-### 2026-07-15 18:43:10  #公司
-
-【潛能恆信：WZ10-11E-1井正式啟動作業】潛能恆信公告，智慧石油在南海22/05區塊的WZ10-11E-1井已正式啟動作業。該井設計井深為-1980米，作業時間預計為2個月左右。智慧石油計劃透過此井進一步擴大勘探成果，落實潿洲10-11構造帶整體含油規模，為後期儲量復算、開發潛力評價及整體滾動勘探部署提供關鍵資料支撐。
-
----
-
-### 2026-07-15 18:43:04  #MKT News #Star Stocks #Microsoft #Market Themes #Magnificent 7 #MSFT.O #Impact bearish
-
-MIZUHO cut its PT on Microsoft (MSFT.O) to $490 from $515.
-
----
-
-### 2026-07-15 18:42:57  #公司
-
-瑞穗將Datadog公司目標股價從220美元上調至300美元。
-
----
-
-### 2026-07-15 18:42:23  #公司
-
-【賽維時代：眾騰投資擬向陳文平轉讓9%股份，權益變動觸及5%整數倍】賽維時代公告，公司持股5%以上股東共青城眾騰創業投資合夥企業（有限合夥）與實際控制人陳文平簽署股份轉讓協議，眾騰投資擬將其持有的3658.36萬股無限售流通股（佔公司總股本9.00%）以16.75元/股轉讓給陳文平。本次轉讓不涉及向市場減持，系陳文平將間接持股轉為直接持股。轉讓後，陳文平直接持股9.00%，眾騰投資持股比例由17.93%降至8.93%，權益變動觸及5%整數倍。本次協議轉讓尚需深交所合規性稽核及中登公司辦理過戶手續。
-
----
-
-### 2026-07-15 18:42:23  #MKT News #Market Themes #AI Revolution
-
-【Rubio to convene inaugural EDAG meeting on AI today】Secretary of State Rubio will chair the first meeting of the Economic Diplomacy Action Group (EDAG) on Wednesday. EDAG was established under the Biden administration two years ago. A State Dept official said the interagency group—made up of heads of federal agencies—is tasked with setting the direction and priorities of US economic policy to advance foreign-policy objectives, including US leadership in artificial intelligence. Attendees include officials from the State Dept, Commerce, Energy, Agriculture, Defense and Treasury, plus the U.S. Trade Representative, Ex-Im Bank, DFC, USTDA, SBA, the Millennium Challenge Corporation and the White House Office of Science and Technology Policy.
-
----
-
-### 2026-07-15 18:42:16  #公司
-
-【特寶生物：ACT201注射液的藥物臨床試驗申請獲得批准】特寶生物公告，公司於近日收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，公司ACT201注射液的藥物臨床試驗申請獲得批准。藥品名稱為ACT201注射液，申請人是廈門特寶生物工程股份有限公司，申請事項為境內生產藥品註冊臨床試驗，受理號為CXHL2600690。審批結論是同意本品開展慢性乙型肝炎的臨床試驗。
-
----
-
-### 2026-07-15 18:42:13  #MKT News
-
-ZELENSKIY said Ukraine will produce 20 mln drones annually; current annual output is 10 mln.
-
----
-
-### 2026-07-15 18:42:10  #Trading Economics #Markets #commodity #Importance 0
-
-Lead Hits 15-month Low — Lead decreased to 1855.00 USD/T, the lowest since April 2025. Over the past 4 weeks, Lead lost 6.41%, and in the last 12 months, it decreased 6.26%.
-
----
-
-### 2026-07-15 18:42:03  #國際
-
-【烏克蘭與歐盟達成無人機協議】7月15日，在烏克蘭首都基輔舉行的烏克蘭國家日慶祝儀式上，歐盟委員會主席馮德萊恩宣佈，烏克蘭與歐盟已達成無人機協議。馮德萊恩表示，烏克蘭已逐步從武器買家轉變為歐洲安全網路的供應商。馮德萊恩強調，歐盟與烏克蘭必須共同利用烏克蘭在無人機及反無人機系統方面積累的獨特實戰經驗。馮德萊恩指出，歐洲已具備可部署的巨大技術和工業潛力，並擁有安全可靠的生產基地以協助擴大產能。該協議將結合烏克蘭的創新能力與歐洲的工業規模，並向外界釋放明確訊號：當前正是投資烏克蘭及共同安全的時機。（央視新聞）
-
----
-
-### 2026-07-15 18:42:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Gulf states' patience with Iran may soon run out】Zeidon Alkinani, founder of the Arab Perspectives Institute, said Gulf states under attack have faced growing pressure to pick sides since US and Israeli military action against Iran began. He noted Gulf Cooperation Council states strongly opposed the Feb. 28 US-Israeli operation but continue to bear the brunt of Iranian drone and missile strikes. Alkinani said an urgent endgame is needed to avoid forcing Gulf states into a choice, and warned Iran is exploiting the conflict to seek regional military advantage and to demonstrate strike capabilities against neighbors—including those advocating diplomacy—so Gulf states' patience and posture toward Iran could change soon.
-
----
-
-### 2026-07-15 18:41:59  #MKT News #Star Stocks #Xiaomi #Market Themes #AI Revolution #Chip Wars #China Tech Giants #Market Regions #Greater China #01810.HK #Impact bullish #Hang Seng Index
-
-【Xiaomi MiMo completes large-language, multimodal and speech model suite】Xiaomi Group (01810.HK) said its self‑developed MiMo edge‑side model has been officially registered with China’s national large‑model registry. MiMo has completed a closed‑loop model matrix covering large language, multimodal and speech capabilities and, via edge‑cloud collaboration, will be deployed across Xiaomi’s phone‑car‑home ecosystem. The company named AI, chips and OS as its three long‑term core tech tracks and said it will invest 16 bln yuan in AI in 2026 and at least 60 bln yuan over the next three years.
-
----
-
-### 2026-07-15 18:41:33  #Trading Economics #Economy #Ireland #Balance of Trade #Importance 1
-
-Ireland Trade Surplus Narrows Sharply in May — Ireland’s trade surplus narrowed sharply to EUR 3.4 billion in May 2026 from EUR 12.1 billion in the same month a year earlier. Exports plunged 29.1% year-on-year to EUR 16.5 billion, weighed down by a decline in shipments of medicinal and pharmaceutical products (-58.9%), chemicals and related products (-50.4%), and other transport equipment (-24.5%). Among key trading partners, exports decreased to Belgium (-35.2%), Italy (-44.8%), the Netherlands (-29.9%), and the US (-55.9%). Meanwhile, imports jumped 17.5% to EUR 13.1 billion, lifted by higher purchases of petroleum and petroleum products (+69.9%), machinery and transport equipment (+45.7%), and telecommunications and sound recording, reproducing equipment (+32.7%). Imports increased from Germany (+5.3%), France (+17.3%), the UK (+2.7%), and the Netherlands (+4.8%). For the January–May period, the trade surplus reached EUR 21.5 billion, significantly lower compared to EUR 74 billion recorded in the same period of last year.
 
 ---
