@@ -1,7 +1,116 @@
 {
   "date": "2026-07-17",
-  "count": 1442,
+  "count": 1455,
   "items": [
+    {
+      "id": "4993672",
+      "time": "2026-07-17 14:13:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國紐約直升機墜河事件最新調查：有鳥類撞擊痕跡】美國紐約一架觀光直升機去年4月墜入哈德遜河，致6人遇難。調查人員當地時間7月16日說，在直升機多個部位發現了多隻大雁的殘骸，表明該直升機曾遭鳥類撞擊。（央視新聞）"
+    },
+    {
+      "id": "4993671",
+      "time": "2026-07-17 14:13:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【“熱穹頂”現象致美國多州創下高溫新紀錄】美國航空航天局15日釋出分析報告稱，受“熱穹頂”天氣系統影響，近日美國多個州重新整理歷史最高氣溫紀錄，部分地區最高氣溫超過了46攝氏度。(新華社)"
+    },
+    {
+      "id": "4993670",
+      "time": "2026-07-17 14:13:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤下跌0.5%，報8796.70點。"
+    },
+    {
+      "id": "4993669",
+      "time": "2026-07-17 14:12:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "標普將軟銀集團的展望評級上調至穩定。"
+    },
+    {
+      "id": "mkt:019f6eb3-e3a8-7aab-8ddb-efa23f7de560",
+      "time": "2026-07-17 14:11:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "IFX.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "German semiconductor stocks fell about 4% in early trade in Frankfurt."
+    },
+    {
+      "id": "4993668",
+      "time": "2026-07-17 14:11:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國半導體類股在法蘭克福盤初交易中下跌約4%。"
+    },
+    {
+      "id": "mkt:019f6eb3-2174-7aab-8ddb-e3a5c98fcd34",
+      "time": "2026-07-17 14:11:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Both sides face high costs from a protracted war; Iran unlikely to accept ceasefire without security guarantees】An Australian National University professor said Iran treats the conflict as existential and, despite economic strain and diplomatic pressure, is unlikely to accept a ceasefire unless it secures explicit guarantees for its safety. He noted Iran’s long experience under sanctions and domestic production capacity, and said Tehran is unlikely to show weakness or yield even after military attrition. U.S. media report Iran rapidly resumed drone production after the April ceasefire; some analysts say Tehran could replenish drone inventories within months. An International Crisis Group security expert warned the rapid consumption of key U.S. munitions, including Patriot interceptors and Tomahawk cruise missiles, is striking and raises concern for future contingencies with other great powers. Both sides therefore face pressure points that make a prolonged war costly, though the ANU professor said the U.S. is suffering greater reputational damage as global observers see limits to its ability to resolve the Iran issue."
+    },
+    {
+      "id": "mkt:019f6eb2-eea8-7aab-8ddb-db71dabaa9f4",
+      "time": "2026-07-17 14:10:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KATAYAMA, Japan's finance minister, said the government will seek to avoid creating market misunderstandings about the stance of fiscal and monetary policy."
+    },
+    {
+      "id": "4993667",
+      "time": "2026-07-17 14:10:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟正在考慮將2036年後的排放量削減上限設定為每年1.7%。"
+    },
+    {
+      "id": "4993666",
+      "time": "2026-07-17 14:10:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟計劃在2031-2035年間將減排目標放緩至每年3.7%。"
+    },
+    {
+      "id": "mkt:019f6eb2-5673-7aab-8ddb-d02c232b6616",
+      "time": "2026-07-17 14:10:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "KATAYAMA, Japan's finance minister, said the government is closely monitoring daily market moves and economic data and will work to steadily reduce Japan's debt-to-GDP ratio."
+    },
+    {
+      "id": "4993665",
+      "time": "2026-07-17 14:10:08",
+      "tags": [
+        "A股"
+      ],
+      "text": "A股三大股指短線回暖，上證綜指跌幅縮窄至2%以內，深證成指跌幅縮債至4%，創業板指現跌4.76%。"
+    },
     {
       "id": "mkt:019f6eb2-3b00-7aab-8ddb-ce6893fb66bf",
       "time": "2026-07-17 14:10:01",
@@ -18,6 +127,14 @@
         "MKT News"
       ],
       "text": "Japan's finance minister Katayama said she will not comment on the exact wording of the forthcoming economic blueprint, which is currently being finalized with the ruling coalition."
+    },
+    {
+      "id": "4993664",
+      "time": "2026-07-17 14:09:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克庫爾德斯坦反恐部門稱，埃爾比勒上空有8架無人機被擊落，無人員傷亡報告。"
     },
     {
       "id": "4993663",
