@@ -1,7 +1,361 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-18 03:29:24_
-_本檔包含 3382 則快訊，約 718011 字_
+_更新時間：2026-07-18 04:26:39_
+_本檔包含 3378 則快訊，約 717399 字_
+
+---
+
+### 2026-07-13 18:44:31  #公司
+
+【遠大控股：預計2026年上半年淨利潤1.79億-2.58億，同比增長517%-788%】遠大控股公告，預計2026年上半年歸屬於上市公司股東的淨利潤為1.79億元-2.58億元，比上年同期增長517%-788%（上年同期盈利2906.62萬元）；扣除非經常性損益後淨利潤虧損2926.49萬元-4389.73萬元，上年同期虧損1.25億元。業績變動原因：公司大宗商品貿易板塊經營效益顯著改善，穩固上下游合作渠道，提升綜合服務能力，盈利規模同比大幅提升；作物科學及油脂板塊持續推進研發投入，最佳化產品結構。
+
+---
+
+### 2026-07-13 18:44:29  #公司
+
+【中成股份：預計2026年上半年實現扭虧為盈，淨利潤為1400萬元-2100萬元】中成股份公告，預計2026年上半年歸屬於上市公司股東的淨利潤為1400萬元-2100萬元，上年同期（收購後）虧損5059萬元，同比增長127.67%-141.51%；扣除非經常性損益後的淨利潤為370萬元-555萬元，上年同期（收購後）虧損5417萬元，同比增長106.83%-110.25%。業績扭虧為盈主要因公司主要工程承包專案和新併入的儲能業務穩步推進，主營業務盈利能力提升，同時加強費用管控及計提的減值準備較上年同期減少。本次業績預告未經審計。
+
+---
+
+### 2026-07-13 18:44:27  #國際
+
+【伊朗外長：將與阿曼繼續磋商霍爾木茲海峽管理事宜】當地時間7月13日，伊朗外交部長阿拉格齊在社交平臺發文表示，關於霍爾木茲海峽管理和船舶通行事宜，伊朗將繼續與阿曼在政治和技術層面進行磋商。（央視新聞）
+
+---
+
+### 2026-07-13 18:43:53  #公司
+
+【*ST華聞：2026年上半年淨利潤扭虧為盈，同比增長超160%】*ST華聞公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為4700萬元-6000萬元，同比增長161.51%-178.52%，實現扭虧為盈；扣除非經常性損益後的淨利潤為-5600萬元至-4000萬元，同比增長21.40%-43.86%。扭虧主要因公司實施重整安排，產生約1億元重整收益。目前公司股票仍被實施退市風險警示，申請撤銷該警示能否獲批尚不確定。
+
+---
+
+### 2026-07-13 18:43:50  #國際
+
+市場訊息：歐盟與巴林啟動戰略伙伴關係協定談判。
+
+---
+
+### 2026-07-13 18:43:44  #公司
+
+【眾泰汽車：預計2026年上半年實現扭虧為盈，淨利潤為7800萬元-1.05億元】眾泰汽車公告，預計2026年上半年歸屬於上市公司股東的淨利潤為7800萬元-1.05億元，上年同期虧損1.48億元，實現扭虧為盈。扣除非經常性損益後的淨利潤虧損1.1億元-1.5億元，比上年同期虧損擴大1.52%-38.44%。基本每股收益約0.02元/股。業績扭虧主要來自非經常性損益：公司戰略收縮登出低效分子公司獲得補償款確認收益2億元，以及訴訟和解產生營業外收入約3000萬元。扣非淨利潤虧損擴大系A0級平臺首個車型臨近投產前期、研發費用大幅增加，以及汽車零部件衝壓業務處於產能爬坡階段尚未產生規模利潤所致。
+
+---
+
+### 2026-07-13 18:43:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Rises on US-Iran Strikes — Brent crude oil climbed more than 3% to above $78 per barrel on Monday after the US launched another round of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. The two sides offered conflicting accounts on the status of the Strait of Hormuz, with Iran declaring the waterway closed until further notice, while Western naval forces insisted it remained open to commercial shipping. Tehran said efforts to ease tensions were continuing, although it acknowledged the interim peace agreement had entered a critical phase. Iran also launched attacks against US allies in the region, while Kuwait reported damage to an offshore drilling platform, marking the first direct strike on energy infrastructure in weeks. Tanker traffic through Hormuz remained subdued, although some vessels may have continued transiting without transmitting satellite signals. The Joint Maritime Information Center said the Omani shipping corridor remained operational.
+
+---
+
+### 2026-07-13 18:43:13  #MKT News #WTI #Impact bullish #Brent
+
+TASNIM NEWS reported a U.S. missile struck Abadan, Iran on Monday, injuring one person.
+
+---
+
+### 2026-07-13 18:42:54  #國際
+
+市場訊息：澤連斯基提議將戰時狀態和動員令再延長90天，相關法案已在烏克蘭最高拉達（議會）登記註冊。
+
+---
+
+### 2026-07-13 18:42:46  #其他
+
+【獨家 丨原倍輕鬆COO鄭小亞加盟雲鯨智慧，任中國區負責人】新浪科技訊 7月13日下午訊息，新浪科技從多位可靠信源獲悉，前倍輕鬆副總經理、COO鄭小亞已加入掃地機器人企業雲鯨智慧，並出任中國區負責人，全面統籌中國區市場營銷及線上零售等工作。（新浪科技）
+
+---
+
+### 2026-07-13 18:42:45  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Jumps on Fresh US-Iran Strikes — Crude oil climbed more than 3% to around $74 per barrel on Monday after the US launched another round of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. The two sides offered conflicting accounts on the status of the Strait of Hormuz, with Iran declaring the waterway closed until further notice, while Western naval forces insisted it remained open to commercial shipping. Tehran said efforts to ease tensions were continuing, although it acknowledged the interim peace agreement had entered a critical phase. Iran also launched attacks against US allies in the region, while Kuwait reported damage to an offshore drilling platform, marking the first direct strike on energy infrastructure in weeks. Tanker traffic through Hormuz remained subdued, although some vessels may have continued transiting without transmitting satellite signals. The Joint Maritime Information Center said the Omani shipping corridor remained operational.
+
+---
+
+### 2026-07-13 18:42:43  #國際
+
+伊朗通訊社塔斯尼姆援引官員訊息稱，美國發射的炮彈週一擊中伊朗阿巴丹，造成一人受傷。
+
+---
+
+### 2026-07-13 18:42:08  #Trading Economics #Economy #India #Inflation Rate #Importance 2
+
+India Inflation Rate Rises to 18-Month High — The Indian inflation rate surged to 4.38% in June of 2026 from 3.93% in the earlier month, the highest since December of 2024, and slightly above market expectations of 4.3%. Prices rebounded sharply for transportation (4.31% inflation rate) after a marginal deflation rate observed in the previous month, suggesting that the energy shock from the war in the Middle East has started its delayed transmission to Indian consumer prices. Meanwhile, food inflation, which is a large part of the domestic consumer basket, rose to 5.32% from 4.78% in May, amid a 50.4% surge for ginger and a 31.92% increase for tomatoes. In turn, inflation was lower for housing and utilities (1.99%). From the previous month, the Indian CPI rose 1.03%, the most since January 2025.
+
+---
+
+### 2026-07-13 18:42:05  #國際
+
+【美軍導彈擊中伊朗阿巴丹市】伊朗西南部胡齊斯坦省副省長（負責安全與治安事務）稱13日13點45分， 伊朗西南部胡齊斯坦省的一座重要城市阿巴丹市遭到美軍敵方投射物的襲擊。 截至目前，已報告有1人在此次襲擊中受傷。
+
+---
+
+### 2026-07-13 18:42:05  #公司
+
+【永悅科技：預計2026年半年度虧損1150萬元-1350萬元，同比增加虧損86.25%-118.64%】永悅科技公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為-1350萬元到-1150萬元，同比增加虧損86.25%到118.64%；預計歸屬於上市公司股東的扣除非經常性損益的淨利潤為-1375萬元到-1175萬元，同比增加虧損88.09%到120.11%。上年同期歸屬於上市公司股東的淨利潤為-617.45萬元。業績預虧主要因化工板塊宏觀環境變化，主要原材料價格變動幅度較大，銷售價格漲幅低於材料價格漲幅，導致毛利減少。
+
+---
+
+### 2026-07-13 18:41:38  #公司
+
+【泓淋電力：控股股東明博線纜擬增持2000萬至4000萬元】泓淋電力公告，公司控股股東明博線纜擬自本公告披露之日起6個月內，透過集中競價交易、大宗交易等方式增持公司股份，增持總金額不低於人民幣2000萬元（含），不超過人民幣4000萬元（含）。本次增持計劃不設定價格區間，資金來源為自有資金、自籌資金與股份增持專項貸款相結合。
+
+---
+
+### 2026-07-13 18:41:33  #國際
+
+歐盟理事會：歐盟理事會透過了一項總額為1.2億歐元的援助措施，以支援摩爾多瓦武裝部隊。
+
+---
+
+### 2026-07-13 18:41:31  #公司
+
+【飛榮達：預計2026年上半年淨利潤同比增長44.50%～56.54%】飛榮達公告，預計2026年上半年淨利潤為2.4億元～2.6億元，同比增長44.50%～56.54%。報告期內，公司抓住行業發展機遇，多賽道佈局的協同效應持續釋放，實現經營業績穩步增長。公司預計2026年上半年度實現營業收入約37億元，同比增長約28.33%，歸屬於上市公司股東的淨利潤為2.4億元～2.6億元，較上年同期增長44.50%～56.54%，扣除非經常性損益後的淨利潤為2.48億元～2.68億元，較上年同期增長82.38%～97.09%。
+
+---
+
+### 2026-07-13 18:41:21  #MKT News
+
+The Council of the European Union approved a €120 million aid package to support the Moldovan armed forces.
+
+---
+
+### 2026-07-13 18:41:05  #國際
+
+烏克蘭外交部長表態：今日烏克蘭附和北大西洋理事會宣告，譴責俄羅斯惡意網路活動。
+
+---
+
+### 2026-07-13 18:40:53  #公司
+
+【博通整合：預計上半年淨利潤同比增加149.59%-175.59%】博通整合公告，預計2026年上半年實現淨利潤4800萬元至5300萬元，同比增加149.59%至175.59%。報告期內，隨著人工智慧技術加快向終端側和邊緣側滲透，智慧家居及物聯網等AIoT應用場景持續拓展，終端裝置對無線連線、本地資料處理及智慧化能力的需求不斷提升。
+
+---
+
+### 2026-07-13 18:40:29  #公司
+
+【上海電力：國電投濱海擴建專案5號機組正式投產】上海電力公告稱，近日，公司控股子公司投資建設的國電投濱海2×100萬千瓦擴建專案5號機組，透過168小時滿負荷試執行，正式投產。該專案位於江蘇鹽城，規劃建2臺100萬千瓦機組，採用深度調峰技術。5號機組為首臺，第二臺預計今年三季度末投產，全部投產後預計年發電量78億千瓦時。專案投產能鞏固公司能源保供地位，最佳化火電資產結構。
+
+---
+
+### 2026-07-13 18:40:07  #Trading Economics #Markets #Germany #Stock Market #Importance 1
+
+DAX Attempts Recovery — The DAX 40 moved slightly into positive territory on Monday, rising 0.2% to near 25,120, buoyed by gains in telecom and chemical stocks, while traders remained attentive to developments in the Middle East. The United States launched fresh strikes on Iran following a weekend of escalating attacks, prompting Tehran to retaliate across the Middle East. Concerns over energy disruptions intensified after Tehran announced the closure of the Strait of Hormuz, reviving fears of higher inflation and prolonged elevated interest rates. Meanwhile, the tech sector continued to face pressure. Attention was also turning to the start of the earnings season in the US. Among the top performers were shares of Deutsche Telekom, Siemens Healthineers, Zalando, and BASF, with gains ranging from 1.4% to 2.6%. Infineon Technologies led losses, falling 1.7%, as a wave of profit-taking in AI-related semiconductor stocks spread from Asia to global markets.
+
+---
+
+### 2026-07-13 18:40:05  #公司 #市場
+
+【上海電力：2026年度計劃開展超81億元金融衍生業務】上海電力公告稱，2026年7月10日，董事會審議透過2026年金融衍生業務計劃。所屬子公司計劃開展美元、歐元等利率掉期及遠期結售滙業務，其中EMBA公司美元利率掉期業務套保規模不超7.41億美元（約52.08億元），土耳其里拉兌美元遠期結售滙業務合約金額不超18.63億元等，各子公司相關業務折人民幣總計超81億元。具體實施前，將按方案提交董事會和股東會（如需）審議。
+
+---
+
+### 2026-07-13 18:39:59  #公司 #國際
+
+【麥肯錫：人才荒拖累美國晶片製造擴張】最新報告指出，美國高技能人才短缺問題正持續加劇，這一問題可能拖累全國投資數千億美元的半導體工廠的建設進度，制約未來晶片產能。除非產業界加強協同、政府持續提供資金支援，否則美國重振本土晶片製造的計劃將面臨重大挑戰。這項由麥肯錫公司(McKinsey & Co.)、晶片行業組織SEMI及美國國家科學基金會(National Science Foundation)聯合開展的新研究（包括對僱主的調查）指出，得州、加州、亞利桑那州、紐約州和俄亥俄州的人才缺口將最為突出，而這些州正是美國新一輪半導體制造專案最集中的地區。報告預計到2030年，美國半導體行業高技能勞動力缺口最多將達到15.7萬個全職崗位。
+
+---
+
+### 2026-07-13 18:39:49  #國際
+
+市場訊息：歐盟或將禁止符合動員條件的烏克蘭人入境。 烏克蘭公民若想進入歐盟國家並獲得臨時保護，必須提供一份證明，證實其在本國已免除動員義務。該規定同樣適用於女性。如果無法提供該證明，將無權以此種身份在歐盟停留。 該指令可能在本月內簽署，相關措施將於2027年春季正式生效。
+
+---
+
+### 2026-07-13 18:38:45  #其他
+
+【遼寧葫蘆島市釋出風暴潮橙色警報 沿海地區海水倒灌風險較高】受今年第9號颱風“巴威”（熱帶風暴級）的影響，預計：7月13日下午到14日下午，遼寧沿岸海域將出現40～80釐米的風暴增水。葫蘆島、芷錨灣驗潮站將於14日下午出現達到當地橙色警戒潮位的高潮位。葫蘆島市的風暴潮預警級別為橙色。沿海低窪地區的海水倒灌淹沒風險較高。（央視新聞）
+
+---
+
+### 2026-07-13 18:38:19  #公司 #觀點
+
+花旗集團將美泰目標股價從16美元下調至15美元。
+
+---
+
+### 2026-07-13 18:37:51  #公司
+
+【中貝通訊：“中貝轉債”轉股價格調整為20.47元/股】中貝通訊公告稱，因實施權益分派，“中貝轉債”轉股價格將進行調整。調整前為20.54元/股，調整後為20.47元/股，調整後的轉股價格自2026年7月20日起生效。“中貝轉債”已自2026年7月13日起停止轉股，將於2026年7月20日起恢復轉股。
+
+---
+
+### 2026-07-13 18:37:37  #公司 #市場
+
+市場訊息：阿布扎比交易所推出六隻個股期貨，標的分別為阿布扎比國家石油公司天然氣公司、阿布扎比國家石油鑽井公司、阿布扎比國家石油物流航運公司、PreSight人工智慧公司、沙迦伊斯蘭銀行以及兩點零集團。
+
+---
+
+### 2026-07-13 18:36:44  #公司 #觀點
+
+花旗集團將潘興廣場目標股價從50美元下調至45美元。
+
+---
+
+### 2026-07-13 18:36:28  #國際
+
+【伊朗：局勢升級直接責任在美國 外交努力仍在繼續】伊朗外交部發言人巴加埃13日表示，伊美諒解備忘錄有關霍爾木茲海峽的條款內容明確，不存在任意解釋空間，霍爾木茲海峽近期局勢升級的直接責任在美國。同時，伊朗同卡達、阿曼和巴基斯坦均保持聯絡，外交努力仍在繼續。巴加埃當天在記者會上說，諒解備忘錄第五條明確規定，霍爾木茲海峽未來由伊朗管理，伊朗將同另一沿岸國阿曼協商，同時與地區國家開展對話。美國透過煽動部分地區國家，企圖繞開同伊朗協調確定的安全通行路線。此舉不僅違反諒解備忘錄，還透過建立平行航線危及航運安全。一些船隻被迫關閉追蹤裝置，增加了碰撞和環境事故風險，並導致地區緊張局勢升級。巴加埃表示，伊朗將使用一切必要手段維護國家利益和安全，在這一點上伊朗國內不存在分歧。過去幾天，伊朗同卡達、阿曼和巴基斯坦均保持聯絡。有關調解方仍在繼續開展斡旋，以防止地區緊張局勢進一步升級。針對有關伊朗襲擊地區國家的說法，巴加埃表示，伊朗沒有、今後也不會襲擊任何地區國家。伊朗實施的防禦性打擊僅針對被美國用於襲擊伊朗的基地、設施和陣地，包括後勤和支援設施。他重申，任何國家的任何地區或設施，只要被用於侵略伊朗，都可能成為伊朗採取防禦行動的物件。具體行動時間、方式和地點將由伊朗武裝力量根據國家利益決定。談及美國軍艦據稱在過去24小時內為20艘商船透過霍爾木茲海峽護航，巴加埃說，地區安全應由地區國家透過協商建立集體安全機制，在沒有外部干預的情況下予以保障。美國所謂為商船護航的行動，反而說明美方堅持繼續在地區製造不安全域性勢，不會增強國際航運信心，只會加劇地區緊張和不穩定。（新華社）
+
+---
+
+### 2026-07-13 18:35:45  #國際
+
+印度政府公佈：該國6月基於消費者價格指數的食品通脹率同比為5.32%。
+
+---
+
+### 2026-07-13 18:35:31  #觀點
+
+花旗將達美航空目標價從106美元上調至110美元。
+
+---
+
+### 2026-07-13 18:35:05  #國際
+
+市場訊息：歐盟委員會更新無毀林法規適用產品範圍。
+
+---
+
+### 2026-07-13 18:35:05  #MKT News #DAL.N #Impact bullish
+
+Citigroup raises Delta Air Lines (DAL.N) PT to $110 from $106.
+
+---
+
+### 2026-07-13 18:34:32  #市場
+
+納指科技ETF景順(159509)將於2026年7月14日開市起停牌，自2026年7月14日10:30起復牌，停牌期間贖回業務照常辦理。
+
+---
+
+### 2026-07-13 18:34:00  #公司
+
+【*ST利源：預計2026年上半年虧損3400萬元-5050萬元，上年同期虧損5770.27萬元】*ST利源公告，預計2026年上半年歸屬於上市公司股東的淨利潤虧損3400萬元-5050萬元，上年同期虧損5770.27萬元；扣除非經常性損益後的淨利潤虧損3050萬元-4550萬元，上年同期虧損5826.76萬元；營業收入8100萬元-1.2億元，上年同期9778.67萬元。虧損幅度較上年同期收窄，主要因管理費用及折舊計提同比下降。
+
+---
+
+### 2026-07-13 18:33:58  #公司
+
+【東方中科：預計2026年上半年虧損4000萬元-4400萬元，上年同期虧損4934.09萬元】東方中科公告，預計2026年上半年歸屬於上市公司股東的淨利潤虧損4000萬元-4400萬元，比上年同期虧損4934.09萬元增加10.82%-18.93%（虧損收窄）；扣除非經常性損益後的淨利潤虧損5500萬元-5900萬元，比上年同期虧損5965.87萬元增加1.10%-7.81%；基本每股收益虧損0.1350元/股–0.1485元/股。業績變動原因為公司持續推進創新驅動，提品質、調結構，加強成本管控，盈利能力有所改善。本次業績預告未經註冊會計師審計。
+
+---
+
+### 2026-07-13 18:33:55  #公司 #觀點
+
+花旗集團將百勝餐飲集團目標股價從175美元上調至178美元。
+
+---
+
+### 2026-07-13 18:33:14  #公司 #市場
+
+【淳中科技：預計2026年上半年實現扭虧為盈，淨利潤1.25億-1.35億】淳中科技公告，預計2026年半年度歸屬於上市公司股東的淨利潤為1.25億元到1.35億元，與上年同期虧損4001.86萬元相比實現扭虧為盈。預計扣除非經常性損益的淨利潤為-4300萬元到-4000萬元。報告期內，公司傳統專業視聽業務新籤合同下滑，營業收入同比下降約9%；因持有沐曦股份股票，按資產負債表日收盤價計算公允價值變動收益增加，預計增加本報告期公允價值變動收益1.86億元，對歸屬於上市公司股東的淨利潤影響額為1.58億元。
+
+---
+
+### 2026-07-13 18:33:00  #公司
+
+【潛能恆信：蒙古Ergel - 12區塊2026年7月12日啟動鑽探作業】潛能恆信公告稱，海外全資公司智慧油氣享有蒙古國Ergel - 12區塊石油勘探開採權益。2025年度已在合同區西部實施4口探井作業。2026年將在南、北部部署3口探井，並對已鑽探井進行地層測試。鑽探總包服務由潛能蒙古承接，部分裝備及配套服務由天津錦龍提供。7月12日該區塊鑽探作業正式啟動，2025 - 2026年相關費用預計不超900萬美元，天津錦龍服務預計不超3000萬元。若鑽井成功支出將資本化，失敗則計入當期損益。
+
+---
+
+### 2026-07-13 18:32:51  #市場
+
+英國國債跌幅擴大；英國10年期國債收益率上漲5個基點至4.92%。
+
+---
+
+### 2026-07-13 18:32:47  #MKT News
+
+India June CPI inflation YoY 4.38% vs market forecast 4.3%.
+
+---
+
+### 2026-07-13 18:32:00  #公司
+
+【天普股份：股價波動大且業績下滑 提示多項投資風險】天普股份公告稱，公司因股票交易異常波動公告涉嫌重大遺漏，於2026年1月被證監會立案。2025年營收3.18億元，同比降6.99%，淨利潤2614.66萬元，同比降20.93%；2026年一季度營收7199.97萬元，同比降11.29%，淨虧損237.99萬元，同比降127.28%。此外，公司股價短期波動大，自2025年8月22日至2026年7月13日累計漲170.46%，市盈率和市淨率顯著高於行業平均，外部流通盤小或存在非理性炒作風險。股東中昊芯英無資產注入計劃，公司無開展人工智慧業務計劃。
+
+---
+
+### 2026-07-13 18:31:46  #公司 #焦點
+
+【沃格光電：預計2026年上半年虧損1.4億-1億元，上年同期虧損5415.49萬元】沃格光電公告，預計2026年上半年營業收入12億-13億元，同比增長0.84%-9.24%；歸屬於母公司所有者的淨利潤虧損1.4億-1億元，上年同期虧損5415.49萬元；扣非淨利潤虧損1.5億-1.1億元。虧損主要因子公司新產線處於投入期，當期折舊和固定開支較高，疊加人力成本及股權激勵費用增加。
+
+---
+
+### 2026-07-13 18:30:54  #國際
+
+印度政府公佈：6月以居民消費價格衡量的食品通脹率為同比5.32%。
+
+---
+
+### 2026-07-13 18:30:43  #公司
+
+【中偉新材：預計2026年上半年淨利潤12.5億-13.5億元，同比增長70.58%-84.23%】中偉新材公告，預計2026年上半年歸屬於上市公司股東的淨利潤為12.5億元-13.5億元，比上年同期的7.33億元增長70.58%-84.23%；扣除非經常性損益後的淨利潤為12億元-13億元，同比增長83.63%-98.93%。業績增長主要因公司搶抓新能源產業機遇，鎳系、鈷系、磷系、鈉系核心產品合計銷量突破25萬噸，其中三元前驅體銷量同比增長超50%，磷系材料扭虧為盈，上游資源佈局成效顯著。
+
+---
+
+### 2026-07-13 18:30:41  #MKT News
+
+【Navigation warning: live-fire exercises in South China Sea】The Zhanjiang Maritime Safety Administration, via the China Maritime Safety Administration website, issued a navigation warning that parts of the South China Sea will conduct live-fire exercises from July 14–16, daily 08:00–18:00 local time. Entry into the designated sea areas is prohibited.
+
+---
+
+### 2026-07-13 18:30:25  #市場 #國際
+
+印度6月份CPI同比增長4.38% 預估為4.20%。
+
+---
+
+### 2026-07-13 18:30:15  #公司 #市場
+
+【瑜欣電子：預計2026年上半年淨利潤2500萬元-2700萬元，同比下降46.99%-50.91%】瑜欣電子公告，預計2026年上半年歸屬於上市公司股東的淨利潤為2500萬元-2700萬元，比上年同期的5092.9萬元下降46.99%-50.91%；扣除非經常性損益後的淨利潤為2121萬元-2321萬元，同比下降50.63%-54.88%。報告期內，下游行業需求相對穩定，公司營業收入同比增長，但行業競爭加劇導致產品銷售價格下行，同時銅、鋁、PCB、電子元器件等核心原材料價格上漲，推高生產成本，致使淨利潤同比下降。公司非經常性損益對淨利潤的影響金額約為364萬元。
+
+---
+
+### 2026-07-13 18:30:15  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+The SENSEX Index Closes 0.01% Higher — The SENSEX Index rose 7 points or 0.01 percent on Monday to close at 77576 points. Leading the gains are Tata Consultancy (5.46%), HCL Tech (5.15%) and Tech Mahindra (3.20%). Top losers were Tata Steel (-2.10%), Nestle India (-1.87%) and UltraTech Cement (-1.43%).
+
+---
+
+### 2026-07-13 18:30:10  #其他
+
+【航行警告！南海海域實彈射擊】據中國海事局網站訊息，湛江海事局釋出航行警告，7月14日至16日每天8時至18時，南海部分海域進行實彈射擊，禁止駛入。
+
+---
+
+### 2026-07-13 18:30:04  #公司
+
+【行雲科技：子公司與V客戶籤補充協議，上調租金28.79億元】行雲科技公告，公司全資子公司悅雲樹此前與V客戶簽署兩份伺服器租賃協議，總金額預計佔公司最近一個會計年度經審計總資產280%以上。近期雙方簽訂補充協議，合計上調含稅租賃總金額28.79億元，較原簽約金額上調約79%，並最佳化分批起租規則。目前公司已完成首批算力伺服器交付，正在配合V客戶開展安裝除錯及驗收工作，預計近期按協議約定對首批伺服器起租並確認相應租賃營業收入。
+
+---
+
+### 2026-07-13 18:29:56  #公司
+
+【賽力斯：2026年多次回購股份，7月13日耗資1.45億元】賽力斯公告稱，公司2026年4月24日至7月13日多次回購股份，尚未登出。其中，7月13日透過上海證券交易所回購263.01萬股，每股回購價在53.91 - 56.30元，付出價格總額1.45億元。此前4月24日至6月15日也有回購行為，累計回購股份數較多，各次回購價格有所不同。
+
+---
+
+### 2026-07-13 18:29:41  #國際
+
+馬克龍談及法國擴軍：相關承諾已兌現。
+
+---
+
+### 2026-07-13 18:28:50  #公司
+
+【藍焰控股：擬與華新燃氣籤股權託管補充協議 涉關聯交易】藍焰控股公告稱，為解決同業競爭問題，公司擬與華新燃氣簽署《股權託管協議》補充協議，將託管華新煤成氣股權比例由51%提升至85%，託管費用仍為11萬元/年。該關聯交易不構成重大資產重組，無需提交股東會審議。2026年年初至披露日，與該關聯人累計已發生關聯交易總金額為4.77億元。本次交易不會增加公司成本和風險，不會變更合併報表範圍。
+
+---
+
+### 2026-07-13 18:27:43  #公司
+
+【華東醫藥：控股子公司DR10624注射液獲臨床試驗批准】華東醫藥公告，公司控股子公司浙江道爾生物科技有限公司近日收到中國國家藥品監督管理局通知，其申報的DR10624注射液藥品臨床試驗申請已獲得批准，可在中國開展臨床試驗，適應症為治療成人射血分數保留/射血分數輕度降低的心力衰竭（HFpEF/HFrEF）。DR10624是一款靶向FGF21R、GCGR和GLP-1R的長效三特異性激動劑，本次獲批是該產品研發程序中的重要進展，將進一步提升公司在心血管和內分泌治療領域的核心競爭力。
+
+---
+
+### 2026-07-13 18:27:27  #公司 #市場
+
+【諾德股份：預計2026年上半年實現扭虧為盈，淨利潤約1.03億元】諾德股份公告，預計2026年半年度歸屬於上市公司股東的淨利潤約1.03億元，與上年同期虧損7243.29萬元相比實現扭虧為盈；預計扣非淨利潤約5200萬元，上年同期扣非淨虧損8479.45萬元。業績預盈主要因下游市場景氣度回暖，銅箔產品產銷量大幅增長，單位生產成本降低，毛利率提升；同時最佳化產品結構，高附加值產品銷售佔比上升，推動平均加工費上漲，併疊加政府補助等非經常性損益影響約5100萬元。
 
 ---
 
@@ -20114,388 +20468,5 @@ Ibovespa Soars on Softer-Than-Expected Inflation — The Ibovespa jumped 3% to c
 ### 2026-07-11 04:30:29  #MKT News #XAUUSD #Impact bullish #WTI #Brent
 
 Iranian foreign ministry spokesman Baghaei said Iran will not permit inspections of facilities damaged in US and Israeli strikes, and that UN Security Council Resolution 2231 has effectively lost its legal force.
-
----
-
-### 2026-07-11 04:26:02  #MKT News #Star Stocks #Apple #Market Themes #AI Revolution #Magnificent 7 #AAPL.O
-
-Court filings show Apple (AAPL.O) has sued OpenAI, alleging misappropriation of trade secrets.
-
----
-
-### 2026-07-11 04:25:26  #公司 #其他 #焦點 #國際
-
-法庭檔案顯示，蘋果起訴OpenAI，指控其盜用商業機密。
-
----
-
-### 2026-07-11 04:23:54  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Nears Record High on Strong Jobs Report — The S&P/TSX Composite Index gained 0.3% to close at 35,305, nearing its record high after a stronger-than-expected jobs report. Employment in Canada rose by 18,200 in June following an increase of 88,000 in May, while the unemployment rate unexpectedly fell to its lowest level in nearly two years. Financials traded higher, with RBC up 1%, TD Bank adding 0.7%, BMO gaining 1.1%, and Brookfield rising 1.6%. Retailers also posted gains, with ATD up 0.8% and Loblaw adding 1.2%. In the tech sector, Constellation Software gained 2.4% after SK Hynix raised $26.5 billion in its American depositary receipt offering, delivering the largest-ever US first-time stock sale by a foreign company. In contrast, mining stocks declined as gold prices moved lower. Agnico Eagle lost 1.6%, Barrick shed 0.6%, and Franco-Nevada fell 1.4%.
-
----
-
-### 2026-07-11 04:23:32  #MKT News
-
-Iran's foreign ministry spokesman said Tehran, on a responsible basis, has not rejected a regional mediator's request to visit and hold talks on recent developments.
-
----
-
-### 2026-07-11 04:23:02  #MKT News #WTI #Impact bearish #Brent
-
-Iran's Foreign Ministry spokesman Baqaei said Iran is determined to ensure maritime traffic safety in the Strait of Hormuz and will continue cooperating with Oman.
-
----
-
-### 2026-07-11 04:22:25  #焦點 #國際
-
-伊朗外交部發言人表示，伊朗並未主動要求與美國談判，但我方接受卡達調停人到訪伊朗。
-
----
-
-### 2026-07-11 04:22:19  #MKT News
-
-Iran foreign ministry spokesman Baghaei said a Qatari delegation visited Mashhad and Iran conveyed its views and positions to the visitors.
-
----
-
-### 2026-07-11 04:22:05  #國際
-
-伊朗外交部發言人稱，伊朗致力於保障霍爾木茲海峽海上航運安全，並將持續與阿曼開展合作。
-
----
-
-### 2026-07-11 04:19:04  #公司 #國際
-
-西方石油公司：美國證券交易委員會檔案顯示，2026 年第二季度原油區間期權交割令經營現金流減少 1.56 億美元；2026 年第二季度全球原油平均實現售價為每桶 96.78 美元； 2026 年第二季度全球天然氣平均實現售價為每千立方英尺負 0.8 美元。
-
----
-
-### 2026-07-11 04:17:53  #MKT News #WTI #Impact bearish #Brent
-
-Iranian foreign ministry spokesman Baghaei said Araghchi will visit Oman to discuss and exchange views on establishing an appropriate mechanism to ensure safe passage of vessels through the Strait of Hormuz.
-
----
-
-### 2026-07-11 04:17:46  #國際
-
-伊朗外交部發言人表示，阿拉格齊將出訪阿曼，商討並交流霍爾木茲海峽船舶安全通行配套機制相關事宜。
-
----
-
-### 2026-07-11 04:16:42  #國際
-
-美國銀行存款規模從前一週 19.382 萬億美元升至 19.435 萬億美元。
-
----
-
-### 2026-07-11 04:14:03  #其他
-
-委內瑞拉代總統羅德里格斯：今日與盧拉通電話。
-
----
-
-### 2026-07-11 04:13:19  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Rise as SK Hynix Soars in Debut — US stock indices closed higher on Friday ahead of the earnings season, with SK Hynix surging in its market debut. The S&P 500 gained 0.4%, the Nasdaq 100 advanced 0.3%, and the Dow added 150 points. SK Hynix American depositary receipts jumped 15% above their offering price after raising $26.5 billion in the largest-ever US listing by a foreign company. Peer chipmakers traded mixed, with Nvidia advancing 4% and AMD rising 2%, while Broadcom lost 0.3% and Intel shed 2.4%. In tech services, Meta jumped 6% after research firm SemiAnalysis published a positive report on its AI compute business. Meanwhile, financial stocks and other traditional sectors found support as oil prices halted their rebound, easing concerns over another Fed rate hike. JPMorgan added 0.3%, while Mastercard and Bank of America both gained 0.7%. In manufacturing, Applied Materials advanced 2.4%, while Caterpillar rose 1.5%.
-
----
-
-### 2026-07-11 04:11:57  #其他
-
-納斯達克交易所：6 月末空頭持倉較 6 月中旬上升 3.3%。
-
----
-
-### 2026-07-11 04:11:41  #其他
-
-紐約證交所交易資料包告平臺自 12 月 6 日起延長運營時間。
-
----
-
-### 2026-07-11 04:10:34  #公司
-
-可口可樂公司公佈 2026 年第三季度每股派息 0.25 美元，股息將於 2026 年 8 月 7 日發放。
-
----
-
-### 2026-07-11 04:10:02  #MKT News
-
-【Iran foreign minister to visit Oman to discuss Strait of Hormuz】Iran's foreign minister Araghchi will lead a diplomatic delegation to Oman on the 11th to hold talks on bilateral ties and regional developments, with particular focus on the current situation in the Strait of Hormuz.
-
----
-
-### 2026-07-11 04:08:43  #焦點 #國際
-
-伊朗外交部發言人巴蓋伊：否認有關“伊朗請求與美國談判”的說法，表示伊朗方面從未提出此類請求。美國多次違反相關諒解備忘錄中的承諾，伊朗的政策仍基於“承諾換承諾”原則，任何來自華盛頓的違約行為都將遭到伊朗的對等回應。
-
----
-
-### 2026-07-11 04:08:12  #國際
-
-【伊朗外長將訪阿曼 繼續溝通霍爾木茲海峽狀況】從伊朗方面獲悉，伊朗外交部長阿拉格齊將於11日率領外交代表團訪問阿曼。訪問期間，雙方計劃就雙邊關係和地區局勢，特別是霍爾木茲海峽當前狀況展開對話並交換意見。（央視新聞）
-
----
-
-### 2026-07-11 04:07:52  #其他
-
-納斯達克交易所：截至 2026 年 6 月 30 日，納斯達克全部 5461 只證券空頭持倉總量為 226.8 億股， 納斯達克資本市場 1657 只證券空頭持倉總量達 42.3 億股。
-
----
-
-### 2026-07-11 04:07:45  #MKT News #XAUUSD #Impact bullish #DXY
-
-Iranian foreign ministry spokesman Bagheri said the US has repeatedly violated commitments in relevant memoranda of understanding. Iran’s policy remains based on the "commitment for commitment" principle, and any breach by Washington will be met with a reciprocal response from Tehran.
-
----
-
-### 2026-07-11 04:07:21  #MKT News #Important
-
-Iranian Foreign Ministry spokesman Baghaei denied reports that Iran had requested talks with the United States, saying Tehran never made such a request.
-
----
-
-### 2026-07-11 04:06:59  #其他
-
-納斯達克交易所：截至 2026 年 6 月 30 日，納斯達克全球市場 3804 只證券空頭持倉總量達 184.5 億股。
-
----
-
-### 2026-07-11 04:06:05  #其他
-
-市場訊息：埃隆・馬斯克要求特斯拉員工改用 Grok。
-
----
-
-### 2026-07-11 04:05:35  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7 #TSLA.O
-
-The Information reports Elon Musk has asked Tesla (TSLA.O) employees to switch to using Grok.
-
----
-
-### 2026-07-11 04:04:22  #國際
-
-市場訊息：伊朗波勒多赫塔爾市奧辛帕萊什小型煉油廠火情已得到控制，火勢未蔓延至廠區裝置及儲油罐。
-
----
-
-### 2026-07-11 04:03:23  #MKT News #Dow #Impact bullish #S&P500 #Nasdaq100
-
-U.S. stocks closed higher on Friday, July 10. Dow Jones Industrial Average rose 149.48 points, or 0.28%, to 52,636.89; S&P 500 gained 31.65 points, or 0.42%, to 7,575.29; Nasdaq Composite added 74.72 points, or 0.29%, to 26,281.61.
-
----
-
-### 2026-07-11 04:03:01  #MKT News #MRNA.O #Impact bearish
-
-Moderna (MRNA.O) shares closed down 11%, the largest one-day drop since May 2025.
-
----
-
-### 2026-07-11 04:02:29  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bullish #Nasdaq100
-
-Meta Platforms (META.O) rose 11% over two trading sessions, its largest two-day gain since April 2025.
-
----
-
-### 2026-07-11 04:02:25  #其他
-
-紐約證券交易所公佈，6 月末市場空頭持倉規模上升 2.1%，達 230.4 億股。
-
----
-
-### 2026-07-11 04:01:40  #其他
-
-莫德納股價下挫11%，為2025年5月以來最大單日跌幅。
-
----
-
-### 2026-07-11 04:01:35  #MKT News #Important #Star Stocks #NVIDIA #Meta Platforms #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #META.O #SNDK.O
-
-【US close: major indexes up modestly; SK Hynix U.S. debut up nearly 13%】U.S. equities closed modestly higher on Friday: Dow +0.29%, S&P 500 +0.42%, Nasdaq +0.29%. SK Hynix (SKHYV.O) jumped 12.76% in its U.S. debut, supporting semiconductor-related names; Meta Platforms (META.O) +5.97%, SanDisk (SNDK.O) +3.10%, NVIDIA (NVDA.O) +4.03%. The Nasdaq Golden Dragon China Index fell 0.23%.
-
----
-
-### 2026-07-11 04:01:12  #Trading Economics #Markets #Mexico #Currency #Importance 1
-
-MXN Strengthens with Emerging Market Currencies — The Mexican peso strengthened to 17.48 per USD in July from 17.63 earlier in the month, tracking gains across other emerging market currencies as the US dollar weakened. Risk appetite improved after signs that diplomatic talks between the US and Iran are continuing despite recent tensions, easing geopolitical concerns and reducing demand for safe-haven assets. Domestically, Mexico's annual inflation rate eased to 3.37% in June 2026 from 3.94% in May, the lowest reading since December 2020. The figure came in slightly below market expectations of 3.52% and remained within the Bank of Mexico's target tolerance range of one percentage point around 3%. Meanwhile, Mexico's industrial output contracted by more than expected in May, though the impact on the peso was limited as improving global risk sentiment outweighed weaker domestic data.
-
----
-
-### 2026-07-11 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.29%，標普500指數漲0.42%，納指漲0.29%。惠好漲4.16%，SBA通訊公司漲4.14%。“七姐妹”方面：Meta Platforms漲5.97%，英偉達漲4.03%，特斯拉漲0.30%，微軟漲0.19%，蘋果跌0.28%，谷歌跌0.34%，亞馬遜跌0.69%。
-
----
-
-### 2026-07-11 04:00:02  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.19%】360數科跌11.22%，樂信跌8.51%，盛豐物流跌8.38%，網易有道跌5.15%，網易跌4.44%。
-
----
-
-### 2026-07-11 03:58:29  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【International oil prices slip on 10th】NYMEX August WTI light sweet crude futures fell $0.67 to $71.41/bbl (-0.93%) at the close; ICE September Brent futures fell $0.29 to $76.01/bbl (-0.38%).
-
----
-
-### 2026-07-11 03:57:45  #市場
-
-【國際油價10日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌67美分，收於每桶71.41美元，跌幅為0.93%；9月交貨的倫敦布倫特原油期貨價格下跌29美分，收於每桶76.01美元，跌幅為0.38%。
-
----
-
-### 2026-07-11 03:56:09  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Lowe's Companies Stock Price Hits 4-week Low — Lowe's Companies shares decreased to 212.04 USD, the lowest since June 2026. Over the past 4 weeks, Lowe's Companies lost 4.04%, and in the last 12 months, it decreased 5.35%.
-
----
-
-### 2026-07-11 03:53:11  #MKT News #Macro & Rates #DXY #Impact bullish #EURUSD #Impact bearish #XAUUSD
-
-【Dollar index rises on 10th】The dollar index, which measures the U.S. dollar against six major currencies, rose 0.05% to 100.953 at the New York close. Crosses: EUR/USD 1.1416 (prev. 1.1434), GBP/USD 1.3398 (prev. 1.3416), USD/JPY 161.69 (prev. 162.34), USD/CHF 0.8085 (prev. 0.8066), USD/CAD 1.4152 (prev. 1.4167), USD/SEK 9.6638 (prev. 9.6602).
-
----
-
-### 2026-07-11 03:52:11  #國際
-
-《紐約時報》反訴美國平等就業機會委員會，稱該機構針對其多元化及招聘制度提起的訴訟違反憲法。
-
----
-
-### 2026-07-11 03:51:57  #MKT News
-
-Iran's Lorestan Industrial Park Company said a fire at a small refinery in the province has been contained. The blaze affected only barrels of waste engine oil and did not spread to refinery units or storage tanks.
-
----
-
-### 2026-07-11 03:51:44  #市場
-
-【美元指數10日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.05%，在匯市尾市收於100.953。截至紐約匯市尾市，1歐元兌換1.1416美元，低於前一交易日的1.1434美元；1英鎊兌換1.3398美元，低於前一交易日的1.3416美元。1美元兌換161.69日元，低於前一交易日的162.34日元；1美元兌換0.8085瑞士法郎，高於前一交易日的0.8066瑞士法郎；1美元兌換1.4152加元，低於前一交易日的1.4167加元；1美元兌換9.6638瑞典克朗，高於前一交易日的9.6602瑞典克朗。
-
----
-
-### 2026-07-11 03:50:50  #其他
-
-【Wedbush：Vera CPU有望拓寬英偉達市場版圖】Wedbush Securities釋出最新研報稱，英偉達即將推出的Vera中央處理器有望憑藉高核心數優勢，在伺服器處理器市場鞏固其競爭地位。分析師Matt Bryson指出，Vera預計將超越基於x86架構的處理器，效能上的提升有助於英偉達更直接地與現有CPU供應商展開競爭，同時拓展長期市場機遇。 Wedbush認為，Vera能夠補充英偉達從GPU向AI基礎設施領域拓展的整體戰略，為客戶提供更整合化的AI計算平臺。該處理器有望透過幫助企業級和雲端計算領域的業務拓展，進一步擴大英偉達的潛在市場規模。英偉達方面此前表示，Vera系統將於今年秋季起由系統製造商和雲合作伙伴陸續提供。
-
----
-
-### 2026-07-11 03:50:41  #公司
-
-【SK海力士CEO稱2027年將迎史上最嚴重記憶體短缺】SK海力士執行長郭魯正（Kwak Noh-jung）表示，全球記憶體行業正走向2027年史上最嚴重的供應短缺。他預測，儘管公司正在積極擴充產能，但記憶體需求仍將在未來十年內持續超出公司的生產能力。“我們預測，從供應角度來看，明年將是該行業歷史上最糟糕的一年。”
-
----
-
-### 2026-07-11 03:45:41  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Brent crude closed near $76 per barrel, recording a weekly gain of about 5%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance.
-
----
-
-### 2026-07-11 03:45:37  #其他
-
-【霍爾木茲海峽船舶通行量持續低迷】航運資料平臺 MarineTraffic 統計顯示，美伊雙方相互發動打擊的過去 24 小時內，僅有至少 15 艘商船駛過霍爾木茲海峽。 其中共計 11 艘船舶駛入波斯灣，包含 6 艘貨輪、5 艘油輪；另有 4 艘貨輪穿過海峽駛入阿曼灣。該資料與近幾周持續低迷的通航水平相符，僅在美伊談判期間出現過短暫回升。衝突爆發前，平均每日約有 110 艘船舶通行該海峽。這片海域已連續數月遭遇 GPS 訊號欺騙干擾，這類導航干擾會讓船舶對外播報的定位出現嚴重偏差。而本次通行船隻的定位訊號暫未發現遭篡改跡象。
-
----
-
-### 2026-07-11 03:42:20  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Crude oil settled around $71 per barrel, recording a weekly gain of about 4%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance.
-
----
-
-### 2026-07-11 03:39:07  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
-
-Brazil Bond Yields Ease on Soft CPI — Brazil's 10-year government bond yield fell to 14.43% in July from 14.54% a week earlier after inflation data came in below expectations. Annual inflation eased to 4.64% in June from 4.72% in May, below market forecasts of 4.80%, bringing it closer to the BCB's target range of 1.5%-4.5%. The softer inflation reading reinforced expectations that the central bank could adopt a more dovish stance. Meanwhile, oil prices retreated on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions, easing energy-driven inflation concerns. At the same time, formal job creation slowed to about 73,000 positions in May, well below forecasts of 115,000, pointing to a gradual cooling in the labor market.
-
----
-
-### 2026-07-11 03:38:05  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-CENTCOM said the USS George H.W. Bush is sailing in regional waters and its sailors are conducting night air-combat training onboard.
-
----
-
-### 2026-07-11 03:37:24  #國際
-
-美國中央司令部：喬治・H・W・布什號航空母艦（CVN 77）在區域海域航行期間，美國海軍艦員於艦上開展夜間飛行作業。
-
----
-
-### 2026-07-11 03:34:07  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
-
-CFTC: For the week to July 7, speculators increased net short positions in CBOT U.S. Treasury futures by 52,811 contracts to 143,591. Speculators raised net shorts in CBOT 5‑year Treasury futures by 38,606 contracts to 1,359,116, and in CBOT ultra‑long Treasury futures by 21,150 contracts to 307,819.
-
----
-
-### 2026-07-11 03:33:56  #公司 #市場 #國際
-
-美國商品期貨交易委員會：截至 7 月 7 日當週，四大紐約商品交易所、洲際交易所天然氣市場投機者減持 1597 手淨多頭合約，淨多頭持倉降至 7366 手。
-
----
-
-### 2026-07-11 03:33:54  #MKT News #US10Y #Impact mixed
-
-CFTC: In the week to July 7, speculators increased net short positions in CBOT U.S. 10‑year Treasury futures by 5,371 contracts to 814,262 contracts, and cut net short positions in CBOT U.S. 2‑year Treasury futures by 26,573 contracts to 1,261,008 contracts.
-
----
-
-### 2026-07-11 03:33:25  #市場 #國際
-
-美國商品期貨交易委員會：截至 7 月 7 日當週，投機者削減 26573 手芝加哥期貨交易所美國 2 年期國債期貨淨空頭持倉，淨空頭持倉降至 1261008 手；
-增持 38606 手美國 5 年期國債期貨淨空頭合約，淨空頭持倉達 1359116 手；
-增持 5371 手美國 10 年期國債期貨淨空頭合約，淨空頭持倉增至 814262 手；
-增持 21150 手美國超長期國債期貨淨空頭合約，淨空頭持倉增至 307819 手。
-
----
-
-### 2026-07-11 03:31:37  #公司 #市場 #國際
-
-美國商品期貨交易委員會：截至 7 月 7 日當週，紐約商品交易所黃金投機者減持 1964 手淨多頭合約，淨多頭持倉降至 114854 手；
-銅投機者減持 970 手淨多頭合約，淨多頭持倉降至 60397 手；
- 白銀投機者減持 616 手淨多頭合約，淨多頭持倉降至 12131 手。
-
----
-
-### 2026-07-11 03:31:35  #MKT News #USDJPY #Impact bullish #EURUSD #Impact bearish #GBPUSD
-
-CFTC data for the week to July 7 show net short positions in the Japanese yen of 123,778 contracts, the euro 16,227 contracts, the pound sterling 87,903 contracts and the Swiss franc 37,414 contracts.
-
----
-
-### 2026-07-11 03:31:33  #MKT News #Commodities #Precious Metals #Industrial Metals #XAUUSD #Impact bearish #Copper
-
-US Commodity Futures Trading Commission data for the week ended July 7: COMEX gold speculators reduced net long positions by 1,964 contracts to 114,854; silver net longs fell 616 contracts to 12,131; copper net longs fell 970 contracts to 60,397.
-
----
-
-### 2026-07-11 03:31:09  #MKT News #Commodities #Energy
-
-CFTC: In the week to July 7, speculative net-long positions in four major natural gas contracts on NYMEX and ICE fell by 1,597 contracts to 7,366.
-
----
-
-### 2026-07-11 03:30:56  #MKT News #Commodities #Energy #WTI #Impact bearish
-
-CFTC data: For the week to July 7, speculators reduced WTI crude net-long positions by 19,507 contracts to 65,681 contracts.
-
----
-
-### 2026-07-11 03:30:45  #公司 #市場 #國際
-
-美國商品期貨交易委員會（CFTC）：7月7日當週，投機者所持WTI原油淨多頭頭寸減少19,507手合約，至65,681手合約。
-
----
-
-### 2026-07-11 03:30:22  #市場 #國際
-
-美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，瑞郎淨空頭持倉 37414 手合約；英鎊淨空頭持倉 87903 手合約；歐元淨空頭持倉 16227 手合約；日元淨空頭持倉 123778 手合約。
-
----
-
-### 2026-07-11 03:29:32  #市場 #國際
-
-美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，比特幣淨多頭持倉為 3500 手合約。
 
 ---
