@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-17 23:58:02",
+  "updated": "2026-07-18 00:02:09",
   "count": 19023,
   "items": [
+    {
+      "id": "4994952",
+      "time": "2026-07-18 00:00:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐洲天然氣期貨本週漲超19%】週五（7月17日）歐市尾盤，ICE英國天然氣期貨漲5.58%，報140.170便士/千卡，6月25日以來持續反彈，逼近3月27日頂部141.220便士、3月19日頂部165.500便士，本週累計上漲19.61%。TTF基準荷蘭天然氣期貨漲5.01%，報57.935歐元/兆瓦時，6月25日按40.405歐元結束交易以來，也持續反彈，逼近3月19日頂部72歐元，本週累漲19.76%。ICE歐盟碳排放交易許可（期貨價格）漲0.53%，報79.09歐元/噸，本週累漲0.50%。"
+    },
+    {
+      "id": "4994951",
+      "time": "2026-07-17 23:58:48",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "國際貨幣基金組織與美國財政部達成共識，將為哥倫比亞財政調整提供技術援助。"
+    },
+    {
+      "id": "4994950",
+      "time": "2026-07-17 23:58:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英矽智慧創始人：中國讓人工智慧惠及全球更多國家】2026年7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在中國上海舉行。英矽智慧創始人兼執行長亞歷克斯·扎沃龍科夫17日在接受記者採訪時表示，中國已站在全球人工智慧發展的前沿。他認為，中國倡導開放合作，讓人工智慧成果惠及更多國家，“中國不是築起壁壘，而是在搭建橋樑”。（新華社）"
+    },
+    {
+      "id": "te:markets:567957",
+      "time": "2026-07-17 23:57:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "UK Stocks Close in the Green — London's FTSE 100 turned slightly higher to close at 10,600 on Friday, faring better than its European counterparts thanks to minimal exposure to the technology sector. Gains in defensive stocks and energy companies offset weakness in personal goods, miners and financials. Utility stocks National Grid (3.3%), Severn Trent (3%), United Utilities (2.4%), and SSE (2.4%), along with tobacco company BAT (2.7%) and Imperial Brands (2.3%), posted solid gains. Shell (2%) and BP (0.7%) also advanced, tracking higher oil prices. Burberry plunged 6.4% to lead losses after second-quarter earnings came in slightly below expectations, while the company warned that the Middle East conflict could hurt future demand. On the political front, Andy Burnham was confirmed as Labour leader and is due to become prime minister on July 20, with investors awaiting his cabinet appointments, including the expected nomination of Home Secretary Shabana Mahmood as chancellor. For the week, the index rose about 1%."
+    },
     {
       "id": "mkt:019f70c8-bf9d-7aab-8de8-d70faf83702c",
       "time": "2026-07-17 23:53:52",
@@ -175263,42 +175301,6 @@
         "國際"
       ],
       "text": "俄羅斯 6 月核心居民消費價格指數環比上漲 0.48%， 同比上漲 5.02%。"
-    },
-    {
-      "id": "4981712",
-      "time": "2026-07-11 00:01:25",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯國家統計局公佈資料顯示：6月俄羅斯消費者物價指數（CPI）同比上漲6.02%，此前調查預期為同比上漲6.0%。"
-    },
-    {
-      "id": "4981711",
-      "time": "2026-07-11 00:01:20",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯聯邦統計局資料：6月俄羅斯消費者物價指數（CPI）環比上漲0.87%，調查預期為環比上漲0.8%。"
-    },
-    {
-      "id": "4981710",
-      "time": "2026-07-11 00:00:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "全球農產品供需報告：全球大豆期末庫存 1.24 億噸。"
-    },
-    {
-      "id": "4981709",
-      "time": "2026-07-11 00:00:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "全球農產品供需報告：全球小麥期末庫存 2.73 億噸。"
     }
   ]
 }
