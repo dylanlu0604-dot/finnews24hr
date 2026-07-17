@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 127,
+  "count": 132,
   "items": [
+    {
+      "id": "mkt:019f717b-07c2-7aab-8dea-a21c6e717b3c",
+      "time": "2026-07-18 03:08:36",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares rapidly pared losses to a 2.6% decline after an earlier slide of more than 6%."
+    },
+    {
+      "id": "4995012",
+      "time": "2026-07-18 03:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國和國際足聯正在密切關注山火對世界盃決賽的影響。"
+    },
+    {
+      "id": "4995011",
+      "time": "2026-07-18 03:07:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "SPACEX的交易將類似於與 ANTHROPOLOGIE 和谷歌簽署的協議。"
+    },
+    {
+      "id": "4995010",
+      "time": "2026-07-18 03:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX正與國防部洽談，擬提供價值數十億美元的資料中心容量，用於執行人工智慧模型。"
+    },
     {
       "id": "mkt:019f7178-0f1c-7aab-8dea-9ca39598c68a",
       "time": "2026-07-18 03:05:21",
@@ -10,6 +44,14 @@
         "Important"
       ],
       "text": "Wall Street Journal reports SpaceX (SPCX.O) is in talks to provide computing capacity to the Pentagon's AI acceleration program."
+    },
+    {
+      "id": "4995009",
+      "time": "2026-07-18 03:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價迅速收窄跌幅。"
     },
     {
       "id": "mkt:019f7177-abcf-7aab-8dea-92bf32965a1a",

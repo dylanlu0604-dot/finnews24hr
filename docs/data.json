@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-18 03:05:44",
-  "count": 18908,
+  "updated": "2026-07-18 03:09:43",
+  "count": 18911,
   "items": [
+    {
+      "id": "mkt:019f717b-07c2-7aab-8dea-a21c6e717b3c",
+      "time": "2026-07-18 03:08:36",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares rapidly pared losses to a 2.6% decline after an earlier slide of more than 6%."
+    },
+    {
+      "id": "4995012",
+      "time": "2026-07-18 03:08:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國和國際足聯正在密切關注山火對世界盃決賽的影響。"
+    },
+    {
+      "id": "4995011",
+      "time": "2026-07-18 03:07:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "SPACEX的交易將類似於與 ANTHROPOLOGIE 和谷歌簽署的協議。"
+    },
+    {
+      "id": "4995010",
+      "time": "2026-07-18 03:06:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SpaceX正與國防部洽談，擬提供價值數十億美元的資料中心容量，用於執行人工智慧模型。"
+    },
     {
       "id": "mkt:019f7178-0f1c-7aab-8dea-9ca39598c68a",
       "time": "2026-07-18 03:05:21",
@@ -10,6 +44,14 @@
         "Important"
       ],
       "text": "Wall Street Journal reports SpaceX (SPCX.O) is in talks to provide computing capacity to the Pentagon's AI acceleration program."
+    },
+    {
+      "id": "4995009",
+      "time": "2026-07-18 03:05:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "SPACEX股價迅速收窄跌幅。"
     },
     {
       "id": "mkt:019f7177-abcf-7aab-8dea-92bf32965a1a",
@@ -174348,26 +174390,6 @@
         "Important"
       ],
       "text": "【Sources: US, Iran, Pakistan and Qatar to hold four-way call】Saudi sources said on the evening of the 10th that the US, Iran, Pakistan and Qatar are set to hold a four-way call; the report has not been confirmed by any party."
-    },
-    {
-      "id": "mkt:019f4d6e-c574-7aab-8d39-22ae6ae3c24d",
-      "time": "2026-07-11 03:08:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US sanctions Dubai-based banker Ali Ansari, targets Iranian forex exchange houses】The US on Friday announced a new round of sanctions after Iran resumed attacks on international shipping in the Strait of Hormuz. The Treasury designated Dubai-based Iranian banker and businessman Ali Ansari — previously sanctioned by the UK — as a key financier of Iran’s supreme leader Mojtaba, accusing him of moving public wealth into overseas real estate and commercial assets to benefit himself, regime elites and the IRGC. The Treasury’s Office of Foreign Assets Control also designated major Iranian currency exchange houses, which it said transfer tens of billions of dollars annually on behalf of sanctioned Iranian banks and use multi-layered shell companies to conceal the government’s illicit financial activity."
-    },
-    {
-      "id": "4981872",
-      "time": "2026-07-11 03:05:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗、巴基斯坦、美國與卡達預計將於近期舉行四方電話會談。"
     }
   ]
 }
