@@ -1,7 +1,122 @@
 {
   "date": "2026-07-17",
-  "count": 899,
+  "count": 911,
   "items": [
+    {
+      "id": "mkt:019f6dcf-d624-7aab-8dd6-46009eddbef8",
+      "time": "2026-07-17 10:02:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Xi Jinping delivered the keynote at the opening ceremony of the 2026 World Artificial Intelligence Conference and the High-Level Meeting on Global AI Governance."
+    },
+    {
+      "id": "te:markets:567707",
+      "time": "2026-07-17 10:02:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Retreat Amid Global Tech Selloff — The Hang Seng Index slipped 1.0%, or 250 points, to 24,765 on Friday, tracking a broad decline across Asian markets after a selloff in US semiconductor stocks weighed on investor sentiment and reignited concerns over elevated valuations in artificial intelligence-related companies. The weakness followed overnight losses on Wall Street, where technology shares retreated amid growing skepticism over whether substantial AI-related capital spending will generate sufficient returns to justify current market valuations. Risk appetite was further dampened by higher oil prices, fueling inflation concerns and reinforcing expectations that central banks may remain cautious about easing monetary policy. Investors also stayed on the sidelines ahead of upcoming US economic data and corporate earnings reports. Notable laggards included Knowledge Atlas (-14.9%), Tencent (-1.0%), SMIC (-4.1%), Kingboard Laminates (-5.8%), and Lenovo (-2.3%)."
+    },
+    {
+      "id": "mkt:019f6dcf-064b-7aab-8dd6-3ff3351ce632",
+      "time": "2026-07-17 10:01:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures decline widened to 2%."
+    },
+    {
+      "id": "4993289",
+      "time": "2026-07-17 10:01:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨跌幅擴大至2%。"
+    },
+    {
+      "id": "4993288",
+      "time": "2026-07-17 10:01:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南省人民醫院原黨委書記邵鳳民接受審查調查】中央紀委國家監委網站7月17日通報，據河南省紀委監委訊息：河南省人民醫院原黨委書記邵鳳民涉嫌嚴重違紀違法，目前正接受河南省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4993287",
+      "time": "2026-07-17 10:00:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【曦諾未來Xynova完成5億元A+輪融資，美團領投】近日，曦諾未來Xynova完成5億元A+輪融資。本輪由美團領投，蔚來資本、招商局資本、某網際網路大廠跟投，老股東小米戰投持續加註。據曦諾未來介紹，截至目前，公司的產業股東總市值已突破5萬億，曦諾未來正式邁入“獨角獸”行列。"
+    },
+    {
+      "id": "4993286",
+      "time": "2026-07-17 10:00:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【交換機概念逆勢拉昇 共進股份、星網銳捷雙雙漲停】交換機概念盤中逆勢拉昇，共進股份、星網銳捷漲停，東土科技、迪普科技、恆為科技跟漲。"
+    },
+    {
+      "id": "4993285",
+      "time": "2026-07-17 10:00:36",
+      "tags": [
+        "資料",
+        "焦點"
+      ],
+      "text": "【國家外匯管理局公佈2026年6月銀行結售匯和銀行代客涉外收付款資料】國家外匯管理局統計資料顯示，2026年6月，銀行結匯20299億元人民幣，售匯16437億元人民幣。2026年1-6月，銀行累計結匯107923億元人民幣，累計售匯89192億元人民幣。按美元計值，2026年6月，銀行結匯2978億美元，售匯2412億美元。2026年1-6月，銀行累計結匯15654億美元，累計售匯12942億美元。2026年6月，銀行代客涉外收入60951億元人民幣，對外付款58420億元人民幣。2026年1-6月，銀行代客累計涉外收入324291億元人民幣，累計對外付款307223億元人民幣。按美元計值，2026年6月，銀行代客涉外收入8943億美元，對外付款8572億美元。2026年1-6月，銀行代客累計涉外收入47056億美元，累計對外付款44584億美元。"
+    },
+    {
+      "id": "4993284",
+      "time": "2026-07-17 10:00:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "mkt:019f6dcd-5cea-7aab-8dd6-32cf4c0ee317",
+      "time": "2026-07-17 10:00:02",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Thai baht weakened to 33.685 per USD, its weakest level since end-April 2025."
+    },
+    {
+      "id": "4993283",
+      "time": "2026-07-17 10:00:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局關於暫停進口、銷售和使用Medochemie Ltd.鹽酸曲馬多膠囊的公告】按照2026年度藥品境外檢查計劃，國家藥監局擬組織對塞普勒斯Medochemie Ltd.鹽酸曲馬多膠囊開展境外生產現場動態檢查。該藥品上市許可持有人未按藥品境外檢查有關要求在規定時限內提交授權檔案，上述行為違反《中華人民共和國藥品管理法》《藥品醫療器械境外檢查管理規定》，國家藥監局組織研判，對該項檢查判定為“不符合要求”。依據《中華人民共和國藥品管理法》第九十九條、《藥品醫療器械境外檢查管理規定》第三十條等規定，國家藥監局決定，自即日起，暫停進口、銷售和使用塞普勒斯Medochemie Ltd.鹽酸曲馬多膠囊。國家藥監局暫停發放該產品的進口准許證。"
+    },
+    {
+      "id": "4993282",
+      "time": "2026-07-17 09:59:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元跌至33.685，為2025年4月底以來最低。"
+    },
     {
       "id": "4993281",
       "time": "2026-07-17 09:58:55",
