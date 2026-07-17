@@ -1,7 +1,15 @@
 {
   "date": "2026-07-18",
-  "count": 76,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:019f7137-a6f9-7aab-8de9-e0104aad834f",
+      "time": "2026-07-18 01:55:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "News Nation reports the funeral for the late U.S. Republican Senator Lindsey Graham will be held in Washington, D.C., on July 28 (local time)."
+    },
     {
       "id": "mkt:019f7133-ed05-7aab-8de9-d956930f2b89",
       "time": "2026-07-18 01:50:56",

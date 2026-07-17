@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 01:51:52",
-  "count": 18940,
+  "updated": "2026-07-18 01:55:51",
+  "count": 18935,
   "items": [
+    {
+      "id": "mkt:019f7137-a6f9-7aab-8de9-e0104aad834f",
+      "time": "2026-07-18 01:55:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "News Nation reports the funeral for the late U.S. Republican Senator Lindsey Graham will be held in Washington, D.C., on July 28 (local time)."
+    },
     {
       "id": "mkt:019f7133-ed05-7aab-8de9-d956930f2b89",
       "time": "2026-07-18 01:50:56",
@@ -174607,59 +174615,6 @@
         "MU"
       ],
       "text": "【SK Hynix CEO says memory-chip shortage may persist beyond 2030】SK Hynix's CEO warned current memory-chip shortages affecting PCs, autos and other devices may persist beyond 2030, saying customers are signing long-term contracts because they expect extended tightness. SK Hynix, Samsung Electronics and Micron Technology have been primary beneficiaries of AI-driven data-centre spending, which is boosting demand for traditional DRAM and new high-bandwidth memory (HBM) and making it harder to satisfy broad storage-chip demand. SK Hynix analysis indicates shortages could last into the next decade, and customer signals point to an expected prolonged supply shortfall."
-    },
-    {
-      "id": "mkt:019f4d2b-9a7c-7aab-8d38-59c8dece1cbe",
-      "time": "2026-07-11 01:55:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM News reported a fire at a small refinery in Pol-e Dokhtar, Iran; the blaze was intense and firefighters were unable to approach the site."
-    },
-    {
-      "id": "4981821",
-      "time": "2026-07-11 01:54:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體稱，波爾達克塔爾一座小型煉油廠發生火災，由於火勢過猛，消防員難以抵達起火區域開展撲救。"
-    },
-    {
-      "id": "4981820",
-      "time": "2026-07-11 01:53:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源企業連續第四周增加鑽井平臺數量。"
-    },
-    {
-      "id": "mkt:019f4d29-de96-7aab-8d38-559c4de1e94f",
-      "time": "2026-07-11 01:53:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Baker Hughes said U.S. energy companies added rigs for a fourth consecutive week."
-    },
-    {
-      "id": "4981819",
-      "time": "2026-07-11 01:53:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟未就第21輪對俄製裁達成一致】總檯記者當地時間10日獲悉，歐盟成員國當天未能就對俄羅斯第21輪制裁方案達成一致，討論將繼續進行。據歐盟訊息人士透露，各方分歧主要集中在俄羅斯原油價格上限、限制俄羅斯軍人入境以及部分制裁物件名單等問題。歐盟委員會主席馮德萊恩6月9日說，已向各成員國提交了第21輪對俄羅斯制裁措施，主要涉及能源、金融、漁業等領域。根據歐盟相關程式，新一輪制裁措施須經27個成員國一致同意後方可生效。（央視新聞）"
-    },
-    {
-      "id": "4981818",
-      "time": "2026-07-11 01:53:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會：將協助北馬其頓調查瑞安航空事故。"
     }
   ]
 }
