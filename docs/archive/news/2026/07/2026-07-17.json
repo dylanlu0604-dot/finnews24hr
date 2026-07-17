@@ -1,7 +1,127 @@
 {
   "date": "2026-07-17",
-  "count": 780,
+  "count": 793,
   "items": [
+    {
+      "id": "mkt:019f6db3-2590-7aab-8dd5-1a39b81928fc",
+      "time": "2026-07-17 09:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese equity index futures open】Morning open: CSI 300 index futures (IF) most‑active contract down 0.50%; SSE 50 index futures (IH) most‑active contract down 0.30%; CSI 500 index futures (IC) most‑active contract down 0.81%; CSI 1000 index futures (IM) most‑active contract down 0.86%."
+    },
+    {
+      "id": "mkt:019f6db3-251a-7aab-8dd5-154ce95493fa",
+      "time": "2026-07-17 09:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】2-year government bond futures (TS) main contract fell 0.01%; 5-year (TF) main contract unchanged; 10-year (T) unchanged; 30-year (TL) main contract down 0.02% at the morning open."
+    },
+    {
+      "id": "mkt:019f6db3-0ccc-7aab-8dd5-0bb34d9888a0",
+      "time": "2026-07-17 09:31:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's Shenzhen Composite Index widened losses to 1% in early trade; the ChiNext Index extended declines to 2%."
+    },
+    {
+      "id": "4993211",
+      "time": "2026-07-17 09:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.60%，成分股中，源傑科技跌6.26%，盛科通訊跌5.70%，佰維儲存跌4.11%，中科飛測跌3.90%。"
+    },
+    {
+      "id": "4993210",
+      "time": "2026-07-17 09:30:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報3618.130點；上證指數跌0.38%，現報3867.718點；深證成指跌1.39%，現報14287.958點。"
+    },
+    {
+      "id": "4993209",
+      "time": "2026-07-17 09:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：三菱電機尋求在9月前與東芝和羅姆達成協議，合併其功率半導體業務。"
+    },
+    {
+      "id": "4993208",
+      "time": "2026-07-17 09:30:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.03%，現報14339.657點；上證指數跌0.36%，現報3868.434點；創業板指跌1.57%，現報3634.306點。"
+    },
+    {
+      "id": "4993207",
+      "time": "2026-07-17 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.46%， 滬深300指數期貨連續跌0.47%， 中證500指數期貨連續跌0.34%， 上證50指數期貨連續跌0.41%。"
+    },
+    {
+      "id": "4993206",
+      "time": "2026-07-17 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約基本持平， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "4993205",
+      "time": "2026-07-17 09:28:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊低開，靈康藥業跌停】CRO概念板塊低開，靈康藥業跌停，百花醫藥、益諾思、普蕊斯紛紛低開。"
+    },
+    {
+      "id": "mkt:019f6db0-0fc6-7aab-8dd5-0407d16add28",
+      "time": "2026-07-17 09:28:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open on July 17, China's Shanghai Composite Index fell 0.44% to 3,865.32; Shenzhen Composite Index fell 0.97% to 14,348.21; CSI 300 Index fell 0.78% to 4,661.62; ChiNext Index fell 1.36% to 3,642.06; STAR 50 Index fell 0.92% to 1,829.98."
+    },
+    {
+      "id": "4993204",
+      "time": "2026-07-17 09:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，不轉播他演講的美國電視臺應被吊銷執照。"
+    },
+    {
+      "id": "te:markets:567693",
+      "time": "2026-07-17 09:27:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Remains Firm — The New Zealand dollar remained at a six-week high, hovering around $0.584, as the prospect of additional rate hikes at home helped offset a broader risk-off move amid escalating US-Iran tensions. The Reserve Bank of New Zealand is widely expected to raise interest rates again in September, with the OCR projected to reach at least 3.0% by the end of the year. Earlier this week, RBNZ Chief Economist Paul Conway warned that renewed hostilities in the Middle East could reignite inflationary pressures, potentially prompting the central bank to tighten policy further after last week's first hike in more than three years. Meanwhile, the US dollar rebounded from a near one-month low after the latest data pointed to continued resilience in the US economy, capping further gains in the kiwi. For the week, the currency rose more than 1%, marking its third straight week of gains."
+    },
     {
       "id": "4993203",
       "time": "2026-07-17 09:26:50",

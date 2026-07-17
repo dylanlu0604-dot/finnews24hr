@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-17 09:28:00",
-  "count": 18812,
+  "updated": "2026-07-17 09:31:58",
+  "count": 18804,
   "items": [
+    {
+      "id": "mkt:019f6db3-2590-7aab-8dd5-1a39b81928fc",
+      "time": "2026-07-17 09:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese equity index futures open】Morning open: CSI 300 index futures (IF) most‑active contract down 0.50%; SSE 50 index futures (IH) most‑active contract down 0.30%; CSI 500 index futures (IC) most‑active contract down 0.81%; CSI 1000 index futures (IM) most‑active contract down 0.86%."
+    },
+    {
+      "id": "mkt:019f6db3-251a-7aab-8dd5-154ce95493fa",
+      "time": "2026-07-17 09:31:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures open】2-year government bond futures (TS) main contract fell 0.01%; 5-year (TF) main contract unchanged; 10-year (T) unchanged; 30-year (TL) main contract down 0.02% at the morning open."
+    },
+    {
+      "id": "mkt:019f6db3-0ccc-7aab-8dd5-0bb34d9888a0",
+      "time": "2026-07-17 09:31:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bearish"
+      ],
+      "text": "China's Shenzhen Composite Index widened losses to 1% in early trade; the ChiNext Index extended declines to 2%."
+    },
+    {
+      "id": "4993211",
+      "time": "2026-07-17 09:31:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.60%，成分股中，源傑科技跌6.26%，盛科通訊跌5.70%，佰維儲存跌4.11%，中科飛測跌3.90%。"
+    },
+    {
+      "id": "4993210",
+      "time": "2026-07-17 09:30:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.01%，現報3618.130點；上證指數跌0.38%，現報3867.718點；深證成指跌1.39%，現報14287.958點。"
+    },
+    {
+      "id": "4993209",
+      "time": "2026-07-17 09:30:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：三菱電機尋求在9月前與東芝和羅姆達成協議，合併其功率半導體業務。"
+    },
+    {
+      "id": "4993208",
+      "time": "2026-07-17 09:30:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.03%，現報14339.657點；上證指數跌0.36%，現報3868.434點；創業板指跌1.57%，現報3634.306點。"
+    },
+    {
+      "id": "4993207",
+      "time": "2026-07-17 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.46%， 滬深300指數期貨連續跌0.47%， 中證500指數期貨連續跌0.34%， 上證50指數期貨連續跌0.41%。"
+    },
+    {
+      "id": "4993206",
+      "time": "2026-07-17 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約基本持平， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "4993205",
+      "time": "2026-07-17 09:28:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CRO概念板塊低開，靈康藥業跌停】CRO概念板塊低開，靈康藥業跌停，百花醫藥、益諾思、普蕊斯紛紛低開。"
+    },
+    {
+      "id": "mkt:019f6db0-0fc6-7aab-8dd5-0407d16add28",
+      "time": "2026-07-17 09:28:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "At the open on July 17, China's Shanghai Composite Index fell 0.44% to 3,865.32; Shenzhen Composite Index fell 0.97% to 14,348.21; CSI 300 Index fell 0.78% to 4,661.62; ChiNext Index fell 1.36% to 3,642.06; STAR 50 Index fell 0.92% to 1,829.98."
+    },
+    {
+      "id": "4993204",
+      "time": "2026-07-17 09:27:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示，不轉播他演講的美國電視臺應被吊銷執照。"
+    },
+    {
+      "id": "te:markets:567693",
+      "time": "2026-07-17 09:27:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Remains Firm — The New Zealand dollar remained at a six-week high, hovering around $0.584, as the prospect of additional rate hikes at home helped offset a broader risk-off move amid escalating US-Iran tensions. The Reserve Bank of New Zealand is widely expected to raise interest rates again in September, with the OCR projected to reach at least 3.0% by the end of the year. Earlier this week, RBNZ Chief Economist Paul Conway warned that renewed hostilities in the Middle East could reignite inflationary pressures, potentially prompting the central bank to tighten policy further after last week's first hike in more than three years. Meanwhile, the US dollar rebounded from a near one-month low after the latest data pointed to continued resilience in the US economy, capping further gains in the kiwi. For the week, the currency rose more than 1%, marking its third straight week of gains."
+    },
     {
       "id": "4993203",
       "time": "2026-07-17 09:26:50",
@@ -172869,209 +172989,6 @@
         "MKT News"
       ],
       "text": "【NBS: China 2026 summer grain sowing area 26.5324 mln ha】China’s 2026 summer grain sowing area was 26.5324 mln ha, down 46,000 ha (-0.2%) vs 2025, the National Bureau of Statistics said. Wheat sowing area was 23.0068 mln ha, down 66,600 ha (-0.3%). Summer-grain yield averaged 5,681.6 kg/ha (5.6816 t/ha), up 47.5 kg/ha (+0.8%); wheat yield averaged 6,039.6 kg/ha (6.0396 t/ha), up 51.4 kg/ha (+0.9%). Total summer-grain output was 150.746 mln t, up 1.000 mln t (+0.7%); wheat output was 138.952 mln t, up 0.783 mln t (+0.6%)."
-    },
-    {
-      "id": "4980024",
-      "time": "2026-07-10 09:31:55",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "中證500股指期貨(IC)主力合約日內漲超1%，現報8542.2點。"
-    },
-    {
-      "id": "mkt:019f49a6-fc22-7aab-8d24-897e348801b9",
-      "time": "2026-07-10 09:31:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Stock index futures open — morning session】China stock index futures opened higher in the morning session: CSI 300 futures (IF) most-active contract up 0.48%, SSE 50 futures (IH) most-active up 0.30%, CSI 500 futures (IC) most-active up 0.83%, CSI 1000 futures (IM) most-active up 0.62%."
-    },
-    {
-      "id": "mkt:019f49a6-ed1f-7aab-8d24-85ae87b23fda",
-      "time": "2026-07-10 09:31:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China government bond futures morning open】At the morning open, China government bond futures: 2-year (TS) main contract unchanged, 5-year (TF) unchanged, 10-year (T) unchanged, 30-year (TL) down 0.04%."
-    },
-    {
-      "id": "mkt:019f49a6-ded2-7aab-8d24-7db82a6507de",
-      "time": "2026-07-10 09:31:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "【ADATA flags Q3 memory contract price hikes; DRAM +20–30%, NAND +35–40%】ADATA on July 8 reported June 2026 preliminary consolidated revenue of NT$14.661 bln, up 212.06% YoY and 13.28% MoM, marking a fourth consecutive monthly record. 1H revenue reached NT$64.272 bln, surpassing 2025 full-year revenue of NT$53.043 bln, up 183.33% YoY. ADATA's chairman said memory chip makers have notified the company that Q3 contract DRAM prices are set to rise 20–30% and NAND flash prices 35–40%, and that both product lines remain on an upward trend, which the company expects will continue to support its results."
-    },
-    {
-      "id": "4980023",
-      "time": "2026-07-10 09:31:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國家統計局關於2026年夏糧產量資料的公告】根據對全國25個夏糧生產省（區、市）的調查，2026年全國夏糧播種面積、單位面積產量、總產量如下： 一、全國夏糧播種面積26532.4千公頃（39798.6萬畝），比2025年減少46.0千公頃（69.0萬畝），下降0.2%。其中小麥播種面積23006.8千公頃（34510.2萬畝），比2025年減少66.6千公頃（99.8萬畝），下降0.3%。 二、全國夏糧單位面積產量5681.6公斤/公頃（378.8公斤/畝），比2025年增加47.5公斤/公頃（3.2公斤/畝），增長0.8%。其中小麥單位面積產量6039.6公斤/公頃（402.6公斤/畝），比2025年增加51.4公斤/公頃（3.4公斤/畝），增長0.9%。 三、全國夏糧總產量15074.6萬噸（3014.9億斤），比2025年增加100.0萬噸（20.0億斤），增長0.7%。其中小麥產量13895.2萬噸（2779.0億斤），比2025年增加78.3萬噸（15.7億斤），增長0.6%。"
-    },
-    {
-      "id": "4980022",
-      "time": "2026-07-10 09:31:19",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "新股N託倫斯盤初快速漲超1000%觸發臨停。"
-    },
-    {
-      "id": "mkt:019f49a6-868b-7aab-8d24-733bdf7f2a73",
-      "time": "2026-07-10 09:31:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI index rose 4.00% intraday to 7,596.58 points."
-    },
-    {
-      "id": "4980021",
-      "time": "2026-07-10 09:30:59",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲4%，至7585.18點。"
-    },
-    {
-      "id": "4980020",
-      "time": "2026-07-10 09:30:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【儲存模組大廠透露：記憶體將繼續漲價】威剛7月8日公佈2026年6月合併營收快報，單月營收146.61億元新臺幣，同比增長212.06%，環比增長13.28%，連續第四個月創單月新高。上半年，威剛的總營收達到642.72億元新臺幣，已超過2025年全年的總營收530.43億元新臺幣，同比增長183.33%。業績釋出之際，威剛董事長陳立白表示，2026年第三季度記憶體（DRAM）與快閃記憶體（NAND Flash）價格將再度大幅上調，兩大產品線漲勢明確，儲存產業的上升通道仍在加速。陳立白透露，儲存器原廠已通知第三季度DRAM合約價將上漲20%至30%，NAND Flash將調漲35%至40%；兩大產品線價格均維持上升趨勢，將持續助力威剛業績表現。（上證報）"
-    },
-    {
-      "id": "4980019",
-      "time": "2026-07-10 09:30:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺釋出海浪紅色和風暴潮藍色警報】從自然資源部獲悉，國家海洋預報臺釋出海浪紅色警報和風暴潮藍色警報。受今年第9號颱風“巴威”影響，預計7月10日上午到11日上午：東海南部將出現9到14米的狂濤到怒濤區，東海北部將出現5到8米的巨浪到狂浪區，臺灣海峽將出現4到6米的巨浪到狂浪區，近海海域海浪預警級別為紅色；浙江、福建北部近岸海域將出現5到7米的巨浪到狂浪，海浪預警級別為紅色；福建南部近岸海域將出現3到4米的大浪到巨浪，上海近岸海域將出現2.5到3.5米的大浪，海浪預警級別為黃色；江蘇南部近岸海域將出現2到3米的中浪到大浪，海浪預警級別為藍色。風暴潮方面，預計7月10日上午至11日上午，浙江寧波到福建漳州沿海將出現50到120釐米的風暴增水，風暴潮預警級別為藍色。"
-    },
-    {
-      "id": "4980018",
-      "time": "2026-07-10 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.08%， 10年期主力合約跌0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4980017",
-      "time": "2026-07-10 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.64%， 滬深300指數期貨連續漲0.26%， 中證500指數期貨連續漲0.83%， 上證50指數期貨連續漲0.19%。"
-    },
-    {
-      "id": "4980016",
-      "time": "2026-07-10 09:29:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "中證轉債指數開盤上漲0.17%。維科轉債、N南芯轉、N豪26轉、N金帝轉、愛科轉債漲幅居前，分別漲30.00%、30.00%、30.00%、30.00%、20.00%。睿創轉債、盛德轉債、海順轉債、春風轉債、陽穀轉債跌幅居前，分別跌1.55%、1.53%、1.38%、1.17%、1.15%。"
-    },
-    {
-      "id": "4980015",
-      "time": "2026-07-10 09:29:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：四艘與日本有關的船隻仍滯留在波斯灣。"
-    },
-    {
-      "id": "4980014",
-      "time": "2026-07-10 09:29:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "新股託倫斯上市首日開盤漲800%，現報203.40元。"
-    },
-    {
-      "id": "mkt:019f49a4-8773-7aab-8d24-6a3b23804d3e",
-      "time": "2026-07-10 09:29:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "A-share lithography-equipment sector active in the early session: Xuguang Electronics up more than 7%, Han's Laser up over 6%, Meai Technology, Taijing Technology and Woge Optoelectronics also higher."
-    },
-    {
-      "id": "mkt:019f49a4-60da-7aab-8d24-62fb2fa011da",
-      "time": "2026-07-10 09:28:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【GBA launches domestic AI compute cluster with 11,520 Ascend cards, 9,000P compute】On the 9th a domestically built smart-compute cluster exceeding 10,000 accelerator cards went live in Shaoguan as part of the Guangdong–Hong Kong–Macao Greater Bay Area hub. Total investment is 5.5 billion yuan; the facility deploys 11,520 Ascend domestic AI accelerator cards, delivering aggregate compute of 9,000P and performance described as internationally leading. The cluster is part of the national integrated compute network’s GBA hub and is intended to serve the region’s AI industry by linking domestic chips, operating systems and algorithm frameworks to complete the compute-to-application ecosystem and promote scale adoption of domestic chips and training frameworks, a step the operator says marks big-model R&D entering a “compute autonomy” phase."
-    },
-    {
-      "id": "mkt:019f49a4-1d5e-7aab-8d24-5c53f894175b",
-      "time": "2026-07-10 09:28:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan 10-year government bond yield fell 7.5 bps to 2.800%."
-    },
-    {
-      "id": "4980013",
-      "time": "2026-07-10 09:28:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【先進封裝概念反覆走強 華天科技4天3板續創歷史新高】早盤先進封裝概念再度走強，華天科技一字漲停，走出4天3板，續創歷史新高，深科達、同興達、深科技、朗迪集團、長電科技漲超5%。"
-    },
-    {
-      "id": "4980012",
-      "time": "2026-07-10 09:28:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【深交所：“維科轉債”盤中臨時停牌】深交所公告，“維科轉債”（123274）盤中成交價較發行價首次上漲達到或超過30%，根據《深圳證券交易所可轉換公司債券交易實施細則》等有關規定，本所自今日09時30分00秒起對該債券實施臨時停牌，於14時57分00秒復牌。"
-    },
-    {
-      "id": "mkt:019f49a3-8a13-7aab-8d24-5177e2181828",
-      "time": "2026-07-10 09:28:02",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "China's Shanghai Composite opened July 10 (Fri) down 5.05 points (-0.13%) at 4,031.54; Shenzhen Composite opened up 81.68 points (+0.53%) at 15,480.41; CSI 300 opened up 11.22 points (+0.23%) at 4,887.54; ChiNext opened up 23.68 points (+0.59%) at 4,041.86; STAR 50 opened up 4.35 points (+0.20%) at 2,190.18."
     }
   ]
 }
