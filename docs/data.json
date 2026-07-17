@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-18 01:39:58",
-  "count": 18956,
+  "updated": "2026-07-18 01:43:57",
+  "count": 18949,
   "items": [
+    {
+      "id": "te:markets:567973",
+      "time": "2026-07-18 01:42:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Denmark",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Danske Bank earnings above expectations at 7.60 DKK — Danske Bank (DANSKE) released earnings per share at 7.60 DKK, compared to market expectations of 7.18 DKK."
+    },
+    {
+      "id": "te:markets:567972",
+      "time": "2026-07-18 01:42:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Swedbank earnings below expectations at 6.37 SEK — Swedbank (SWEDA) released earnings per share at 6.37 SEK, compared to market expectations of 6.54 SEK."
+    },
+    {
+      "id": "te:markets:567971",
+      "time": "2026-07-18 01:42:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sandvik earnings above expectations at 4.17 SEK — Sandvik (SAND) released earnings per share at 4.17 SEK, compared to market expectations of 4.15 SEK."
+    },
     {
       "id": "mkt:019f7129-0927-7aab-8de9-baf3335225bb",
       "time": "2026-07-18 01:39:02",
@@ -174693,94 +174729,6 @@
         "MKT News"
       ],
       "text": "Pakistan's prime minister phoned Iran's president, urging restraint, dialogue and diplomacy to preserve regional peace."
-    },
-    {
-      "id": "4981806",
-      "time": "2026-07-11 01:43:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理謝里夫：強調各方務必保持克制、開展對話。"
-    },
-    {
-      "id": "4981805",
-      "time": "2026-07-11 01:43:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理謝里夫：雙方同意推進雙邊合作。"
-    },
-    {
-      "id": "te:markets:566119",
-      "time": "2026-07-11 01:43:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "BRL Hits Strongest Level in Over Three Weeks — The Brazilian real strengthened to 5.11 per USD from 5.17 in early July, it's highest level in over three weeks, tracking other emerging market currencies as the US dollar weakened. Risk appetite improved after signs that diplomatic talks between the US and Iran are continuing despite recent tensions, easing geopolitical concerns and reducing demand for safe-haven assets. Domestically, the real also found support after Brazil's annual inflation slowed to 4.64% in June, below market expectations. Still, lingering risks of renewed Middle East disruptions and the prospect of further Federal Reserve tightening continued to limit gains."
-    },
-    {
-      "id": "4981804",
-      "time": "2026-07-11 01:43:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理謝里夫：雙方就不斷變化的地區局勢展開磋商。"
-    },
-    {
-      "id": "4981803",
-      "time": "2026-07-11 01:42:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦總理謝里夫：已與伊朗總統通話。"
-    },
-    {
-      "id": "mkt:019f4d1f-40b4-7aab-8d38-2fa798684391",
-      "time": "2026-07-11 01:42:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix CEO Guo Luzheng said memory-chip shortages could persist beyond 2030."
-    },
-    {
-      "id": "4981802",
-      "time": "2026-07-11 01:41:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議會議長：若美背棄協議 伊將堅決對抗】總檯記者當地時間10日獲悉，伊朗議會議長卡利巴夫表示，不論任何時候美國背棄雙方達成的協議，伊朗都已做好全面防禦準備，將堅決與其對抗，維護伊朗人民的權利。卡利巴夫當天在會見印尼人民協商會議主席穆扎尼時作出上述表態。卡利巴夫表示，伊朗從未主動尋求戰爭，但伊朗人民絕不會向壓迫低頭。他說，在最近的衝突之前，美國、以色列和北約曾認為，他們可以在幾天內迫使伊朗屈服，但他們很快就意識到無法實現這一目標。全世界都看到，他們在對抗伊朗時未能達到自己的目的。卡利巴夫還表示，在談判中“我已向美國副總統明確表示，我們對美國毫無信任可言”。伊朗從未放鬆保衛國家的準備。他還表示，結束戰爭是世界各國共同的優先事項，但所有人都必須明白，這場衝突絕不會以伊朗屈服而告終。（央視新聞）"
-    },
-    {
-      "id": "4981801",
-      "time": "2026-07-11 01:41:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：歐盟各國大使未能就針對俄羅斯的新一輪制裁達成共識。"
-    },
-    {
-      "id": "mkt:019f4d1e-571f-7aab-8d38-216d723125c4",
-      "time": "2026-07-11 01:41:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU ambassadors failed to reach agreement on a new round of sanctions against Russia, market sources said."
-    },
-    {
-      "id": "4981800",
-      "time": "2026-07-11 01:40:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普 500 與納指 100 指數創日內新高。"
     }
   ]
 }

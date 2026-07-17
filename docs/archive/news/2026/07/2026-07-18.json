@@ -1,7 +1,43 @@
 {
   "date": "2026-07-18",
-  "count": 67,
+  "count": 70,
   "items": [
+    {
+      "id": "te:markets:567973",
+      "time": "2026-07-18 01:42:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Denmark",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Danske Bank earnings above expectations at 7.60 DKK — Danske Bank (DANSKE) released earnings per share at 7.60 DKK, compared to market expectations of 7.18 DKK."
+    },
+    {
+      "id": "te:markets:567972",
+      "time": "2026-07-18 01:42:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Swedbank earnings below expectations at 6.37 SEK — Swedbank (SWEDA) released earnings per share at 6.37 SEK, compared to market expectations of 6.54 SEK."
+    },
+    {
+      "id": "te:markets:567971",
+      "time": "2026-07-18 01:42:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Sweden",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Sandvik earnings above expectations at 4.17 SEK — Sandvik (SAND) released earnings per share at 4.17 SEK, compared to market expectations of 4.15 SEK."
+    },
     {
       "id": "mkt:019f7129-0927-7aab-8de9-baf3335225bb",
       "time": "2026-07-18 01:39:02",
