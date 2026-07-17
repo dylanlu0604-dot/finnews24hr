@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-17 20:57:36",
-  "count": 19089,
+  "updated": "2026-07-17 21:02:53",
+  "count": 19092,
   "items": [
+    {
+      "id": "mkt:019f702a-4133-7aab-8de5-3c850829246f",
+      "time": "2026-07-17 21:00:45",
+      "tags": [
+        "MKT News",
+        "QCOM.O"
+      ],
+      "text": "Qualcomm (QCOM.O) said it will pay a quarterly cash dividend of $0.92 per share on Sept. 24, 2026."
+    },
+    {
+      "id": "mkt:019f702a-1e7c-7aab-8de5-373a3f084851",
+      "time": "2026-07-17 21:00:36",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【US housing starts rebound on multifamily surge】US housing starts rose 19% in June to a 1.43 mln annualized rate, the strongest since March and above economist forecasts, government data showed. Multifamily starts surged about 76% to a 532k annualized rate after a near-40% drop the prior month; single-family starts slipped 0.2%. High home prices and elevated mortgage rates are suppressing single-family demand but appear to be supporting apartment building. Builders report high single-family inventory and weak demand, prompting sales incentives. Forward-looking permits fell 3% to the lowest since March; single-family permits hit a 10-month low and multifamily permits also declined, signalling downside risk to future construction activity."
+    },
+    {
+      "id": "mkt:019f7029-e41e-7aab-8de5-290870dad90b",
+      "time": "2026-07-17 21:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Industrial Metals"
+      ],
+      "text": "China's futures night session opened mixed. Main contracts: low-sulfur fuel oil (LU) rose over 2%; fuel oil, asphalt and benzene gained more than 1%. Decliners included glass, SHFE tin, SHFE nickel, PVC and soda ash, down over 1%."
+    },
+    {
+      "id": "4994673",
+      "time": "2026-07-17 21:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3634.00元。"
+    },
+    {
+      "id": "mkt:019f7029-b474-7aab-8de5-214ac9f27034",
+      "time": "2026-07-17 21:00:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "【Institutional note: Middle East escalation dents demand outlook; copper set for weekly decline】Middle East tensions raised inflation worries and weakened industrial demand prospects, pushing copper lower and leaving prices on track for a weekly fall. LME three-month copper fell about 1.4% on Friday after a 0.1% gain on Thursday; copper is down roughly 0.5% for the week. Fitch Solutions' BMI said that, absent a tariff-driven catalyst, and despite concerns over sulphuric acid supply, weak industrial demand and the limited supply impact from the U.S.-Iran conflict point to lower copper prices in coming months, though low inventories will offer some support."
+    },
+    {
+      "id": "4994672",
+      "time": "2026-07-17 21:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌1%，現報902.00元。"
+    },
+    {
+      "id": "4994671",
+      "time": "2026-07-17 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】鈀連續跌5.74%，鉑連續跌5.01%，集運指數歐線期貨連續漲4.07%，PVC連續跌3.69%，多晶矽連續跌3.19%。"
+    },
+    {
+      "id": "4994665",
+      "time": "2026-07-17 20:58:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國總理阿努廷用中文發文：中泰一家親】7月17日，正在中國訪問的泰國總理阿努廷在社交媒體用中文發文：“中泰一家親 上海中國”。（央視新聞）"
+    },
+    {
+      "id": "4994664",
+      "time": "2026-07-17 20:57:50",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "【美國6月份新屋開工數反彈 多戶型住宅建設激增】美國6月份新屋開工數在前一個月大幅下降後激增，主要受公寓建設反彈推動。週五釋出的官方資料顯示，6月份新屋開工數增加19%，摺合年率為143萬套，創3月份以來最高水平。該資料高於調查中所有經濟學家的預期。多戶住宅開工數增長超過76%，摺合年率為53.2萬套，此前一個月該資料暴跌近40%。與此同時，單戶住宅開工數下降0.2%，在建築商經歷整體低迷的春季之後再次下滑。多戶住宅建設反彈凸顯出月度資料的波動性，尤其是在公寓領域。不過，高房價和高抵押貸款利率一直壓制獨棟住宅需求，而這些因素也可能在支撐公寓需求。與此同時，獨棟住宅建築商總體上一直面臨庫存高企和需求疲軟的局面。這迫使許多建築商透過銷售激勵措施來吸引買家。"
+    },
+    {
+      "id": "te:markets:567914",
+      "time": "2026-07-17 20:57:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Slip on Chip Selloff and Oil Spike — Futures tracking the S&P/TSX Composite Index edged lower on Friday amid a global selloff in semiconductor stocks and as the escalating US-Iran conflict kept oil prices elevated. North American tech stocks plunged as investors pulled back from crowded semiconductor trades on renewed concerns over AI-related spending. Meanwhile, the US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market. Gold prices also edged lower, with the precious metal heading for a weekly loss, putting additional pressure on mining stocks."
+    },
     {
       "id": "4994663",
       "time": "2026-07-17 20:56:54",
@@ -9,6 +110,14 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：霍爾木茲海峽航道完全掌控在我方英勇戰士手中。只要美方持續採取敵對行動，經由該海峽出口的一滴石油、一絲天然氣都休想外運。"
+    },
+    {
+      "id": "4994662",
+      "time": "2026-07-17 20:56:29",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【農業農村部黨組召開擴大會議 研究部署農業防汛救災、安全生產和科技創新等工作】7月17日，農業農村部黨組召開擴大會議。會議傳達學習習近平總書記對防汛救災工作的重要指示和在上海考察時的重要講話精神，強調當前已進入“七下八上”防汛關鍵期，要認真落實黨中央、國務院部署要求，始終繃緊農業防災減災這根弦，立足防大汛、抗大旱、防旱澇急轉、防強颱風，全力以赴抓好農業防汛救災，堅決打贏防汛抗旱保豐收攻堅戰。要強化農業災害監測預警，指導各地落實落細農業防災減災關鍵措施，切實抓好災後死亡畜禽無害化處理、改種補種、設施修復等工作，最大限度減輕災害損失。要及時將困難群眾納入監測幫扶，規範啟動“綠色通道”，堅決防止出現因災返貧致貧。（農業農村部）"
     },
     {
       "id": "4994661",
@@ -175687,74 +175796,6 @@
         "Precious Metals"
       ],
       "text": "China's night futures session opened with most-active contracts trading higher. Synthetic rubber rose more than 1%; pulp and iron ore gained about 1%. On the downside, PTA fell over 1%; Shanghai silver, Shanghai tin and p‑xylene declined about 1%."
-    },
-    {
-      "id": "4981374",
-      "time": "2026-07-10 21:02:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國聯邦參議院透過全面醫療改革法案。"
-    },
-    {
-      "id": "4981373",
-      "time": "2026-07-10 21:02:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達否決大眾汽車與以色列企業在德國場地設立防務合資企業的計劃。"
-    },
-    {
-      "id": "4981372",
-      "time": "2026-07-10 21:01:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "五角大樓公佈第四批不明飛行物檔案。"
-    },
-    {
-      "id": "4981371",
-      "time": "2026-07-10 21:01:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST德豪：7月14日起撤銷其他風險警示 股票簡稱變更】ST德豪公告稱，公司撤銷股票交易其他風險警示的申請已獲深交所稽核同意。公司股票7月13日停牌一天，7月14日開市起復牌，屆時將撤銷其他風險警示，股票簡稱由“ST德豪”變更為“德豪潤達”，證券程式碼不變，仍為“002005”，日漲跌幅限制為10%。2025年度，公司實現營收6.63億元，淨利潤3410萬元，扣非淨利潤虧損1.18億元。"
-    },
-    {
-      "id": "4981370",
-      "time": "2026-07-10 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】鈀連續漲3.83%，工業矽連續漲2.80%，雞蛋連續漲2.61%，鉑連續漲2.44%，多晶矽連續漲2.32%，生豬連續漲2.05%。"
-    },
-    {
-      "id": "4981369",
-      "time": "2026-07-10 20:59:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【申通快遞：股東德殷投資擬向陳德軍轉讓不超過1.11%股份】申通快遞公告，股東德殷投資計劃在本公告披露之日起十五個交易日後的三個月內（即2026年8月3日至2026年11月2日），以大宗交易方式向陳德軍轉讓公司股份不超過1700萬股，轉讓比例不超過公司總股本的1.11%。本次股份轉讓系實際控制人陳德軍及其一致行動人之間的內部轉讓，不涉及向市場減持。"
-    },
-    {
-      "id": "4981368",
-      "time": "2026-07-10 20:59:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員重申將對美以實施報復並促使其撤離中東】伊朗布什爾市週五主麻日聚禮臨時領禱者優素福·賈馬裡（Yوسف جمالی）當地時間10日發表講話，表示：伊斯蘭共和國將與官員和軍隊一起，“摧毀白宮，讓其居民付出代價”。他強調，確保國家核心及高階官員的安全，其根本前提在於對美國和以色列的“罪惡行徑”實施堅決懲罰與嚴厲打擊。賈馬裡進一步表明立場，堅稱將堅決採取行動打破外部勢力對本國安全的威脅。他重申，清算地區侵略者並將美軍徹底驅逐出中東地區是不可逆轉的必然趨勢，伊朗官方及武裝力量將堅定不移地推進這一既定戰略目標。"
-    },
-    {
-      "id": "te:economy:566053",
-      "time": "2026-07-10 20:58:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Building Permits MoM",
-        "Importance 1"
-      ],
-      "text": "Canada Building Permits Fall in May — Canada's building permits fell by 1.7% month-on-month to C$12.4 billion in May 2026, slowing from a decline of 7.6% in the previous month and contrasting with market expectations of a 2.4% increase. The decrease was driven by the non-residential sector, where permit values dropped 6.1% to C$ 4.7 billion, led by a decline in the industrial components by C$341.0 million, while an increase in the commercial component tempered the decline by C$81.4 million. In contrast, the value of residential permits increased 1.2% to C$7.7 billion, as a C$161.9 million increase in multi-unit permits more than offset a C$70.7 million decline in single-family permits. Compared with the same month a year earlier, the total value of building permits was 4.5% lower."
     }
   ]
 }
