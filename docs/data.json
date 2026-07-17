@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18 00:12:56",
-  "count": 19012,
+  "updated": "2026-07-18 00:17:03",
+  "count": 19008,
   "items": [
     {
       "id": "te:markets:567967",
@@ -175177,45 +175177,6 @@
         "MKT News"
       ],
       "text": "Iranian media Fars News cited people familiar with the matter denying reports that preparations for Iran-U.S. talks in Islamabad have been completed."
-    },
-    {
-      "id": "mkt:019f4cd1-1157-7aab-8d37-48807c83bc8f",
-      "time": "2026-07-11 00:16:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian media Fars News, citing sources close to Iran’s negotiating team, said reports that Iran and the US will hold a new round of talks next week are not true."
-    },
-    {
-      "id": "4981725",
-      "time": "2026-07-11 00:16:06",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士ADR開盤較發行價上漲14% 高管稱未來可能增發】SK海力士美國存託憑證(ADR)上市首日開盤較發行價上漲14%。這家韓國儲存晶片製造商此次募股總計融資265億美元，創下外國企業赴美上市之最。SK海力士ADR週五在紐約以170美元開盤，高於149美元的發行價。此次大型上市交易打消了市場對近期晶片股劇烈波動的擔憂，另一方面也反映出投資者希望直接投資這家在人工智慧高頻寬儲存器(HBM)領域佔據領先地位的企業。由於韓國上市普通股轉換為ADR受到限制，SK海力士ADR目前較韓國上市普通股收盤價溢價約17%。崔泰源在接受採訪時暗示，如果公司能夠持續創造更好的回報、進一步激發投資者需求，未來可能再次在美國發行股票。他說：“前提是能夠帶來更好的回報。一旦回報改善，市場需求就會增加。我們首先要做的是保持股價穩定，長期來看，希望還能擁有進一步上漲的空間。”"
-    },
-    {
-      "id": "te:markets:566105",
-      "time": "2026-07-11 00:14:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Hold Mixed Momentum as SK Hynix Surges — US stock indices were mixed on Friday as more volatility for heavyweight chip producers clashed against a pullback in Treasury yields, aiding traditional economic sectors. The S&P 500 inched higher while the Nasdaq 100 fell 0.5%. SK Hynix ADRs raised over $26 billion for the memory producer and surged 20% for the largest first-time share sale by a foreign company. Earlier reports of a strong offering had aided memory producers yesterday, compounded after Micron increased its investment guidance. The speculative sector remained volatile domestically, with Micron and Marvell down over 3% each. In turn, the Dow rose as it is not directly exposed so chip producers. Financial companies and traditional economic sectors enjoyed some respite as oil prices halted their rebound and softened concerns of another rate hike by the Fed. Also, Delta added 2% on strong earnings and a dividend increase."
-    },
-    {
-      "id": "4981724",
-      "time": "2026-07-11 00:13:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：10 架美國空軍 F-22 “猛禽” 戰機在參與針對伊朗的 “史詩怒火行動” 後，已從以色列奧夫達空軍基地重新部署至英國費爾福德皇家空軍基地。此次調防是美軍從中東大規模撤軍行動的一環。"
     }
   ]
 }
