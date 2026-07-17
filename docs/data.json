@@ -1,7 +1,225 @@
 {
-  "updated": "2026-07-17 21:30:13",
-  "count": 19120,
+  "updated": "2026-07-17 21:34:24",
+  "count": 19123,
   "items": [
+    {
+      "id": "te:markets:567926",
+      "time": "2026-07-17 21:33:40",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Applied Materials Stock Price Hits 5-week Low — Applied Materials shares decreased to 527.51 USD, the lowest since June 2026. Over the past 4 weeks, Applied Materials lost 10.62%, and in the last 12 months, it increased 175.28%."
+    },
+    {
+      "id": "4994766",
+      "time": "2026-07-17 21:33:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Coinbase Global（Coinbase全球）：已知部分使用者在以太坊網路上提幣可能出現延遲；買入、賣出、法幣提現/存款業務未受影響。"
+    },
+    {
+      "id": "mkt:019f7048-1864-7aab-8de6-15057a434c24",
+      "time": "2026-07-17 21:33:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Philadelphia Semiconductor Index (SOX) fell more than 3%, approaching bear-market territory."
+    },
+    {
+      "id": "4994765",
+      "time": "2026-07-17 21:32:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "蘋果市值超越英偉達，成為全球市值最高的公司。"
+    },
+    {
+      "id": "mkt:019f7047-72f1-7aab-8de6-0eb19fde0446",
+      "time": "2026-07-17 21:32:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. night strike damages multiple bridges in southern Iran, video shows】A video filmed July 17 in Bandar Khamir, Hormozgan province, shows Kahurestan Bridge severely damaged after a U.S. nighttime airstrike; the attack reportedly killed at least four. Local reports say multiple bridges in the port city were hit."
+    },
+    {
+      "id": "4994764",
+      "time": "2026-07-17 21:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍夜襲伊朗 多座橋樑被炸】伊朗南部霍爾木茲甘省港口城市哈米爾港居民今天（7月17日）拍攝的一段影片顯示，位於該市的卡胡雷斯坦大橋因美軍夜間空襲嚴重受損，據稱造成至少4人死亡。（CCTV國際時訊）"
+    },
+    {
+      "id": "4994763",
+      "time": "2026-07-17 21:32:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：費城半導體指數即將進入熊市。"
+    },
+    {
+      "id": "4994762",
+      "time": "2026-07-17 21:32:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "太空探索技術公司（SpaceX）股價下跌3.3%；該公司星艦火箭在發射前中止發射。"
+    },
+    {
+      "id": "te:markets:567925",
+      "time": "2026-07-17 21:32:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Boeing Stock Price Hits 5-week Low — Boeing shares decreased to 211.40 USD, the lowest since June 2026. Over the past 4 weeks, Boeing lost 5.96%, and in the last 12 months, it decreased 8.14%."
+    },
+    {
+      "id": "te:markets:567924",
+      "time": "2026-07-17 21:31:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Lower Amid US-Iran Escalation — The Ibovespa edged lower to trade below 174,000 on Friday as the escalating US-Iran conflict kept oil prices elevated. The US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market. Bradesco lost more than 0.5%, while Itaú and Itaúsa edged down. Vale extended losses, falling nearly 1% after the US announced a new 25% tariff on Brazilian imports. Other notable laggards included Axia (-0.4%) and Rede D'Or (-0.5%). In contrast, Petrobras advanced nearly 2% on higher oil prices."
+    },
+    {
+      "id": "4994761",
+      "time": "2026-07-17 21:31:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "道富銀行目標價被加拿大皇家銀行資本市場從155.00美元上調至196.00美元。"
+    },
+    {
+      "id": "4994760",
+      "time": "2026-07-17 21:31:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "瑞健生物（REGENXBIO）在公司宣佈擬進行1億美元股票公開發行後，股價下跌21.8%。"
+    },
+    {
+      "id": "4994757",
+      "time": "2026-07-17 21:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "NETFLIX股價暴跌12%，創2022年4月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019f7045-df6b-7aab-8de6-0782297a5499",
+      "time": "2026-07-17 21:30:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Alumina 2701 futures briefly hit the daily upper limit intraday before reversing; they are now down 0.29% at 2,765 yuan/ton."
+    },
+    {
+      "id": "4994756",
+      "time": "2026-07-17 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌1.00%，標普500指數跌1.20%，納指跌1.80%。奈飛跌11.39%，直覺外科跌10.39%，鏗騰電子跌6.50%，Comfort Systems USA跌6.27%。“七姐妹”方面：蘋果跌0.12%，微軟跌1.79%，亞馬遜跌1.80%，谷歌跌2.00%，英偉達跌2.29%，特斯拉跌2.45%，Meta Platforms跌2.97%。"
+    },
+    {
+      "id": "mkt:019f7045-ae2a-7aab-8de5-fe761e0e6029",
+      "time": "2026-07-17 21:30:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. stocks opened lower: the Dow fell 0.24%, the S&P 500 dropped 1.15% and the Nasdaq slid 1.8%. Notable decliners included NVIDIA (NVDA.O) -2.2%, Qualcomm (QCOM.O) -3%, Western Digital (WDC.O) -4%, Intel (INTC.O) -3.5%, Microsoft (MSFT.O) -1% and SpaceX (SPCX.O) -2%."
+    },
+    {
+      "id": "te:markets:567923",
+      "time": "2026-07-17 21:30:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Hits Multi-Month Low on Fed Rate Outlook — Silver fell to around $55 an ounce on Friday, its lowest level since late November 2025, as rising oil prices fueled inflation concerns and reinforced expectations that the Federal Reserve will keep interest rates higher for longer. Geopolitical tensions escalated after Iran launched fresh strikes on US facilities in the Middle East, following a sixth consecutive night of US attacks on Iranian military targets that continued to disrupt shipping through the Strait of Hormuz. Adding to the pressure, Dallas Fed President Lorie Logan called for a rate hike, while Fed Vice Chair Philip Jefferson said he would support tighter policy if inflation failed to show near-term improvement. Markets now assign roughly a 50% probability to a September rate increase. Meanwhile, data released during the week showed US consumer and producer prices both declined in June, largely reflecting lower energy costs, while import prices unexpectedly increased."
+    },
+    {
+      "id": "te:economy:567922",
+      "time": "2026-07-17 21:30:37",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Capacity Utilization",
+        "Importance 1"
+      ],
+      "text": "US Capacity Utilization Stable for Third Month — US capacity utilization stood at 76.1% in June 2026, unchanged from the previous month following a downward revision and slightly below market expectations of 76.2%. The reading marked a third consecutive month of stable capacity utilization, remaining 3.3 percentage points below its long-run average for 1972–2025. Among the major sectors, the operating rate for utilities edged up 0.2 percentage points to 69.5%, though it remained 14.5 percentage points below its historical average. Mining utilization also increased, rising 0.4 percentage points to 87.4%. By contrast, manufacturing capacity utilization edged down to 75.7%, remaining 2.5 percentage points below its long-run average."
+    },
+    {
+      "id": "4994754",
+      "time": "2026-07-17 21:30:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，迅雷跌7.56%，金山雲跌7.06%，世紀互聯跌6.35%，小鵬汽車跌5.63%，嗶哩嗶哩跌5.74%。"
+    },
+    {
+      "id": "4994753",
+      "time": "2026-07-17 21:30:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "INTUITIVE SURGICAL公佈第二季度財報後，開盤股價下跌10%。"
+    },
+    {
+      "id": "te:markets:567921",
+      "time": "2026-07-17 21:30:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Analog Devices Stock Price Hits 12-week Low — Analog Devices shares decreased to 370.75 USD, the lowest since April 2026. Over the past 4 weeks, Analog Devices lost 8.18%, and in the last 12 months, it increased 57.92%."
+    },
     {
       "id": "4994752",
       "time": "2026-07-17 21:29:11",
@@ -9,6 +227,14 @@
         "其他"
       ],
       "text": "【全國藍碳交易聯盟在深圳成立】全國藍碳交易聯盟成立暨第一屆聯盟大會17日在深圳舉行。聯盟秉持開放平等、共建共享、合作共贏的發展原則，旨在規範藍碳交易市場、提升藍碳交易規模、促進藍碳資訊共享、拓展國際交流合作。本次大會在自然資源部、廣東省自然資源廳指導下，由深圳市規劃和自然資源局、深圳市海洋發展局主辦。全國藍碳交易聯盟匯聚藍碳資源供應方、市場需求方、技術服務機構、交易平臺、金融機構等多元主體，是跨領域的非營利性合作組織。（新華社）"
+    },
+    {
+      "id": "4994751",
+      "time": "2026-07-17 21:29:01",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【住建部：高質量推進城市更新 加力落實城鎮老舊小區改造】7月17日，中共住房和城鄉建設部黨組召開理論學習中心組學習（擴大）會議。會議強調，做好新時代新徵程城市工作，使命光榮、任務艱鉅。高質量推進城市更新，高效能推進城市治理，高標準推進好房子、好小區、好社群、好城區“四好”建設，加力落實城鎮老舊小區改造、完整社群建設、物業服務質量提升、背街小巷環境整治、口袋公園建設和綠地開放共享等民生工作，下大力氣解決加裝電梯、停車、充電等人民群眾身邊的急難愁盼問題，努力讓人民群眾在城市生活得更方便、更舒心、更美好，乘勢而上奮力開創現代化人民城市建設新局面。（中國建設報）"
     },
     {
       "id": "4994750",
@@ -175897,179 +176123,6 @@
         "其他"
       ],
       "text": "美銀全球研究將可口可樂目標股價從90美元上調至95美元。"
-    },
-    {
-      "id": "4981439",
-      "time": "2026-07-10 21:34:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超1%，金山雲漲5.35%，小牛電動漲4.35%，貝殼漲3.80%，嘉楠科技漲3.72%，世紀互聯漲2.36%。"
-    },
-    {
-      "id": "4981438",
-      "time": "2026-07-10 21:33:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "ProShares比特幣策略交易所交易基金（ETF）上漲1.6%，iShares比特幣信託上漲1.5%。"
-    },
-    {
-      "id": "4981437",
-      "time": "2026-07-10 21:33:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "受比特幣價格上漲帶動，加密概念股上漲。riot平臺股價上漲0.6%，HUT 8上漲0.2%，馬拉控股漲幅為1.7%。"
-    },
-    {
-      "id": "4981436",
-      "time": "2026-07-10 21:33:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【下週528.67億元市值限售股解禁，華電新能解禁351.63億元居首】Wind資料統計顯示，下週（7月13日-7月17日）共有41家公司限售股陸續解禁，合計解禁82.41億股，按7月10日收盤價計算，解禁總市值為528.67億元。從解禁市值來看，7月16日是解禁高峰期，6家公司解禁市值合計359.14億元，佔下周解禁規模的67.93%。按7月10日收盤價計算，解禁市值居前三位的是：華電新能（351.63億元）、長芯博創（48.79億元）、賽維時代（37.61億元）。從個股的解禁量看，解禁股數居前三位的是：華電新能（75.13億股）、賽維時代（2.08億股）、國科恆泰（1.47億股）。"
-    },
-    {
-      "id": "4981435",
-      "time": "2026-07-10 21:33:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "沃達豐股價美股盤初大漲12%，尼爾溢價收購阿聯酋電信股權。"
-    },
-    {
-      "id": "4981434",
-      "time": "2026-07-10 21:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際能源署：全球石油需求開始“復甦”】國際能源署10日說，隨著霍爾木茲海峽石油運輸在6月有所恢復、國際油價出現回落，全球石油需求開始“復甦”，但美國和伊朗近日再度交火，又給市場前景蒙上陰影。 根據國際能源署當天釋出的月度石油市場報告，全球石油消費量已從5月低點開始回升，“全球石油需求正在恢復”。該機構先前預計，受伊朗戰事影響，今年全球石油日均需求同比將減少約110萬桶。最新報告將這一預期降幅調整為100萬桶。報告說，隨著霍爾木茲海峽石油運輸初步恢復，海灣地區石油產量區域性回升。6月，全球石油日均供應量增加410萬桶，達到9880萬桶，但仍比伊朗戰事爆發前低940萬桶左右。海灣地區6月日均石油出口量增加650萬桶，升至1610萬桶，但仍遠低於戰事爆發前日均約2400萬桶的水平。 不過，國際能源署表示，儘管國際油價6月大幅回落，但美伊近日再度交火，給市場前景蒙上陰影，“達成持久和平協議是石油市場恢復正常的必要條件”。（新華社）"
-    },
-    {
-      "id": "4981433",
-      "time": "2026-07-10 21:32:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江麗水將防颱風和突發地質災害應急響應提升至Ⅰ級】浙江麗水市氣象臺釋出颱風緊急警報，9號颱風“巴威”（颱風級）7月10日19時中心位於距離浙閩交界東南方向約770公里的洋麵上，預計將於11日夜裡以颱風或強颱風級在浙江溫嶺到福建霞浦一帶沿海登陸。預計10日夜裡至12日麗水全市有暴雨到大暴雨，區域性特大暴雨，大部伴有8～11級陣風，中高山區有11～13級陣風。根據《麗水市防汛防颱抗旱應急預案》《麗水市突發地質災害應急預案》，經會商研判，麗水市防汛防颱抗旱指揮部、市突發地質災害應急指揮部決定於7月10日20時30分將防颱風和突發地質災害應急響應提升至Ⅰ級。 (央視新聞)"
-    },
-    {
-      "id": "4981432",
-      "time": "2026-07-10 21:31:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "META PLATFORMS股價上漲5.1%，前一交易日該股已上漲4.7%。"
-    },
-    {
-      "id": "4981431",
-      "time": "2026-07-10 21:31:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京全市防汛避險已轉移近10萬人】記者從北京市防汛辦獲悉，截至7月10日17時，全市已轉移36279戶、95657人，各項防汛避險轉移工作有序推進。7月10日8時至17時，北京市迎來一輪強降雨過程，全市平均降水量12毫米，城區平均降水量10.7毫米，最大降水量出現在平谷區大桃市場，達164毫米，為大暴雨。最小小時雨強出現在密雲區南溝村南溝，為64.6毫米/小時。（新華社）"
-    },
-    {
-      "id": "4981430",
-      "time": "2026-07-10 21:31:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "CIRCLE INTERNET 股票開盤上漲 13%，創 5 月以來最大盤中漲幅。"
-    },
-    {
-      "id": "mkt:019f4c3a-0f0e-7aab-8d33-e0385972745e",
-      "time": "2026-07-10 21:31:41",
-      "tags": [
-        "MKT News",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "At the open on Friday, July 10 the Dow Jones Industrial Average rose 112.12 points (+0.21%) to 52,599.53; the S&P 500 gained 7.92 points (+0.10%) to 7,551.56; the Nasdaq Composite added 5.20 points (+0.02%) to 26,212.09."
-    },
-    {
-      "id": "4981429",
-      "time": "2026-07-10 21:31:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "META股票開盤上漲，兩日漲幅擴大至10%。"
-    },
-    {
-      "id": "4981428",
-      "time": "2026-07-10 21:31:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "費爾米股價下跌19.3%，此前該公司宣佈完成3.75億美元可轉換債券發行定價。"
-    },
-    {
-      "id": "4981427",
-      "time": "2026-07-10 21:31:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四地八艦海警首次規模化艦艇開放】在《海警法》施行五週年、95110海上報警服務平臺開通七週年之際，從10日到12日，中國海警局在天津、上海、廣州、海口四地，同步組織8艘艦艇面向公眾開放。這也是中國海警首次規模化組織艦艇開放系列活動。此次活動覆蓋黃渤海、東海、南海重點海域，四大沿海城市聯動開展。（央視軍事）"
-    },
-    {
-      "id": "4981426",
-      "time": "2026-07-10 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲0.27%，標普500指數漲0.07%，納指跌0.04%。Shopify漲4.55%，Coinbase Global漲4.51%，閃迪跌3.57%，英特爾跌3.09%。“七姐妹”方面：Meta Platforms漲4.81%，亞馬遜漲1.50%，微軟漲0.98%，特斯拉漲0.77%，英偉達漲0.27%，蘋果跌0.65%，谷歌跌0.91%。"
-    },
-    {
-      "id": "4981425",
-      "time": "2026-07-10 21:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新能源重卡組團出海破紀錄】今年上半年，全球低碳轉型浪潮持續湧動，帶動我國新能源車輛出口高速增長。其中，新能源重型商用車出口增量尤為突出。在廣東東莞新沙港，一批新能源重卡正在港口集結，準備發往海外。現場車輛排列整齊，有序透過滾裝船完成裝運。相關負責人介紹，這批訂單總量近900臺，重新整理了國內新能源牽引車單次出口規模紀錄。港口繁忙的背後，是海外需求的持續旺盛。在湖南長沙一家商用車智造工廠，海外訂單佔比持續提升，多條生產線滿負荷運轉。記者在走訪中瞭解到，從亞太、南美、非洲，到歐洲、大洋洲，我國新能源重卡的出口市場正在加速拓展。 （央視財經）"
-    },
-    {
-      "id": "4981424",
-      "time": "2026-07-10 21:30:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，金山雲漲6.21%，嘉楠科技漲4.01%，貝殼漲3.87%，蔚來漲2.72%，理想汽車漲2.57%。"
-    },
-    {
-      "id": "mkt:019f4c39-1d48-7aab-8d33-de42a60d69d1",
-      "time": "2026-07-10 21:30:39",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish",
-        "SNDK.O",
-        "Impact bearish",
-        "MU.O"
-      ],
-      "text": "At the open in New York, the Dow rose 0.26%, the S&P 500 rose 0.08% and the Nasdaq fell 0.15%. Notable movers: Micron Technology (MU.O) -3%, Qualcomm (QCOM.O) -2%, SanDisk (SNDK.O) -4%, Western Digital (WDC.O) -1.9%, Meta Platforms (META.O) +4.9%."
-    },
-    {
-      "id": "4981423",
-      "time": "2026-07-10 21:30:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑富瑞將雪佛龍公司目標股價從236美元下調至216美元。"
     }
   ]
 }
