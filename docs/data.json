@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-17 23:10:57",
-  "count": 19056,
+  "updated": "2026-07-17 23:15:01",
+  "count": 19057,
   "items": [
+    {
+      "id": "mkt:019f70a3-dc94-7aab-8de8-513ef09de12c",
+      "time": "2026-07-17 23:13:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Reliance Industries has purchased part of a consignment of discounted Middle Eastern crude."
+    },
+    {
+      "id": "4994919",
+      "time": "2026-07-17 23:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員透露，世界盃主辦方正密切監測決賽前夕的山火煙塵情況。"
+    },
+    {
+      "id": "4994918",
+      "time": "2026-07-17 23:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "信實工業：已採購部分折價出售的中東原油。"
+    },
+    {
+      "id": "mkt:019f70a2-7e6e-7aab-8de8-4e5228570e07",
+      "time": "2026-07-17 23:12:05",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "SNDK.O",
+        "MU.O"
+      ],
+      "text": "Dow Jones reversed back into negative territory; SanDisk (SNDK.O) and Micron Technology (MU.O) also turned lower after earlier gains of more than 2%."
+    },
+    {
+      "id": "4994917",
+      "time": "2026-07-17 23:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【申通快遞釋出快遞行業首個智慧體平臺“SClaw”】申通快遞在2026年客戶開放日上，釋出快遞行業首個智慧體平臺“SClaw”，並首次明確物理AI戰略應用方向。面向美妝、服裝、日化等八大品類的百餘家頭部商家，一次性亮出小件員數字分身、AI數智客服、AI路由規劃三大核心場景的實施路徑。 據悉，此次釋出的“SClaw”是快遞業首個公開將大語言模型（LLM）、智慧體（Agent）與命令列視窗（CLI）深度耦合的智慧體平臺。"
+    },
+    {
+      "id": "4994916",
+      "time": "2026-07-17 23:10:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "亞特蘭大聯儲GDPNow模型對第二季度實際GDP增速的預期維持在1.7%。"
+    },
     {
       "id": "mkt:019f70a0-a51e-7aab-8de8-425dc84c8f83",
       "time": "2026-07-17 23:10:03",
@@ -175546,65 +175601,6 @@
         "MKT News"
       ],
       "text": "U.S. ambassador to the United Nations said Iran's actions run counter to the memorandum of understanding."
-    },
-    {
-      "id": "mkt:019f4c98-85e7-7aab-8d36-72e8d94aea33",
-      "time": "2026-07-10 23:14:51",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. ambassador to the United Nations says Iran has deployed cruise missiles and drones to attack commercial vessels."
-    },
-    {
-      "id": "mkt:019f4c98-6e11-7aab-8d36-6a8b399ae792",
-      "time": "2026-07-10 23:14:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. ambassador to the United Nations said Iranian leaders face a historic opportunity and the decision is theirs."
-    },
-    {
-      "id": "mkt:019f4c97-d4f4-7aab-8d36-619c8ebed848",
-      "time": "2026-07-10 23:14:06",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Goldman Sachs estimates AI-driven price rises in memory, software and electricity are adding more than 0.2 percentage points to US core PCE YoY inflation now and will lift that contribution to 0.5 percentage points by year-end."
-    },
-    {
-      "id": "4981652",
-      "time": "2026-07-10 23:11:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲：AI相關投資推動產出強勁增長 伊朗戰爭不確定性仍是主要風險】美聯儲半年期報告顯示，2026年美國經濟活動整體保持穩健擴張，主要受高科技投資和政府支出推動，工廠產出因AI相關資料中心投資而強勁增長，生產能力持續提升。但住房市場陷入停滯，外部經濟受中東衝突和關稅拖累增長乏力。勞動力市場總體穩定，工資和生產率雙雙增長，但移民放緩導致勞動力供應下降，小型企業和家庭仍面臨較緊的信貸條件。通脹仍處高位且在春季進一步上行，資產價格高於歷史常態。金融體系整體穩健，銀行準備金充足，私人信貸市場雖有部分贖回壓力但仍正常運轉。長期通脹預期基本錨定在2%目標附近，但伊朗戰爭帶來的不確定性仍是主要風險。"
-    },
-    {
-      "id": "mkt:019f4c95-ad88-7aab-8d36-5ac89d01bd05",
-      "time": "2026-07-10 23:11:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Fed: AI investment fuels strong output growth; Iran war remains chief risk】The Fed's semiannual report said US economic activity remained robust in 2026, driven by high‑tech investment and government spending. Factory output rose sharply as AI-related data‑center investment boosted capacity. Housing activity stalled. External demand was weak, weighed down by the Middle East conflict and tariffs. The labor market was broadly stable with wages and productivity rising, but slower immigration reduced labor supply. Small firms and households face tighter credit conditions. Inflation remains elevated and rose further in spring; asset prices are above historical norms. The financial system is broadly sound, with ample bank reserves; private credit markets face some redemption pressure but are functioning. Long-run inflation expectations remain anchored near the 2% target. Uncertainty from a possible Iran war is identified as the primary downside risk."
     }
   ]
 }

@@ -1,7 +1,62 @@
 {
   "date": "2026-07-17",
-  "count": 3142,
+  "count": 3148,
   "items": [
+    {
+      "id": "mkt:019f70a3-dc94-7aab-8de8-513ef09de12c",
+      "time": "2026-07-17 23:13:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Reliance Industries has purchased part of a consignment of discounted Middle Eastern crude."
+    },
+    {
+      "id": "4994919",
+      "time": "2026-07-17 23:13:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員透露，世界盃主辦方正密切監測決賽前夕的山火煙塵情況。"
+    },
+    {
+      "id": "4994918",
+      "time": "2026-07-17 23:12:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "信實工業：已採購部分折價出售的中東原油。"
+    },
+    {
+      "id": "mkt:019f70a2-7e6e-7aab-8de8-4e5228570e07",
+      "time": "2026-07-17 23:12:05",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "SNDK.O",
+        "MU.O"
+      ],
+      "text": "Dow Jones reversed back into negative territory; SanDisk (SNDK.O) and Micron Technology (MU.O) also turned lower after earlier gains of more than 2%."
+    },
+    {
+      "id": "4994917",
+      "time": "2026-07-17 23:11:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【申通快遞釋出快遞行業首個智慧體平臺“SClaw”】申通快遞在2026年客戶開放日上，釋出快遞行業首個智慧體平臺“SClaw”，並首次明確物理AI戰略應用方向。面向美妝、服裝、日化等八大品類的百餘家頭部商家，一次性亮出小件員數字分身、AI數智客服、AI路由規劃三大核心場景的實施路徑。 據悉，此次釋出的“SClaw”是快遞業首個公開將大語言模型（LLM）、智慧體（Agent）與命令列視窗（CLI）深度耦合的智慧體平臺。"
+    },
+    {
+      "id": "4994916",
+      "time": "2026-07-17 23:10:47",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "亞特蘭大聯儲GDPNow模型對第二季度實際GDP增速的預期維持在1.7%。"
+    },
     {
       "id": "mkt:019f70a0-a51e-7aab-8de8-425dc84c8f83",
       "time": "2026-07-17 23:10:03",
