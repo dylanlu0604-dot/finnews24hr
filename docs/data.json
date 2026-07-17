@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-17 09:24:01",
-  "count": 18813,
+  "updated": "2026-07-17 09:28:00",
+  "count": 18812,
   "items": [
+    {
+      "id": "4993203",
+      "time": "2026-07-17 09:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：敦促國會透過《拯救美國法案》。"
+    },
+    {
+      "id": "4993202",
+      "time": "2026-07-17 09:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達國防部：攔截導彈襲擊。"
+    },
+    {
+      "id": "mkt:019f6dae-c2bf-7aab-8dd4-fba367208b33",
+      "time": "2026-07-17 09:26:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets 430.5 bln yuan via 7-day reverse repos】PBOC conducted 450.5 bln yuan of 7-day reverse repos today; with 20.0 bln yuan maturing, net liquidity injection totaled 430.5 bln yuan."
+    },
+    {
+      "id": "4993201",
+      "time": "2026-07-17 09:26:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股走弱 智譜跌超12%】截至發稿，智譜(02513.HK)跌12.14%，瀾起科技(06809.HK)跌3.59%，兆易創新(03986.HK)跌3.50%，劍橋科技(06166.HK)跌3.29%。"
+    },
+    {
+      "id": "4993200",
+      "time": "2026-07-17 09:25:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電股價下跌3.2%。"
+    },
+    {
+      "id": "mkt:019f6dad-b709-7aab-8dd4-f414ddb536ca",
+      "time": "2026-07-17 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open, China’s A-share market slipped: Shanghai Composite down 0.44%, Shenzhen Composite Index down 0.97% and ChiNext Index down 1.36%; storage‑chip and CRO stocks led declines."
+    },
+    {
+      "id": "4993199",
+      "time": "2026-07-17 09:25:13",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.44％，深成指跌0.97％，創業板跌1.36％。"
+    },
+    {
+      "id": "4993198",
+      "time": "2026-07-17 09:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普威脅要吊銷ABC和NBC的電視牌照。"
+    },
+    {
+      "id": "mkt:019f6dac-7c5b-7aab-8dd4-eb9f23f1cc91",
+      "time": "2026-07-17 09:24:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "MOFCOM spokesperson responded to reporters' questions on the UK government's nationalisation of British steel."
+    },
     {
       "id": "4993197",
       "time": "2026-07-17 09:22:32",
@@ -19,6 +102,15 @@
         "其他"
       ],
       "text": "央行公開市場今日淨投放4,305.0億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607173809903961",
+      "time": "2026-07-17 09:21:32",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展4505億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "4993195",
@@ -172980,123 +173072,6 @@
         "CSI300"
       ],
       "text": "China's Shanghai Composite opened July 10 (Fri) down 5.05 points (-0.13%) at 4,031.54; Shenzhen Composite opened up 81.68 points (+0.53%) at 15,480.41; CSI 300 opened up 11.22 points (+0.23%) at 4,887.54; ChiNext opened up 23.68 points (+0.59%) at 4,041.86; STAR 50 opened up 4.35 points (+0.20%) at 2,190.18."
-    },
-    {
-      "id": "4980011",
-      "time": "2026-07-10 09:27:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "濱化股份港股上市首日低開超21%，報2.74港元/股。"
-    },
-    {
-      "id": "mkt:019f49a3-24d5-7aab-8d24-484104125034",
-      "time": "2026-07-10 09:27:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "【Japan minister KIUCHI says government will not pre-communicate preferences on BOJ policy, rebuffs political interference concerns】Economy and Finance Minister KIUCHI said on Friday the government will not pre-communicate its preferences on how the Bank of Japan should set interest rates and will not advise on timing or size of rate moves, reiterating that the BOJ decides specific monetary policy tools. His remarks sought to calm markets after a draft economic blueprint urged “appropriately guiding monetary policy” and cited a legal clause requiring the BOJ to align with the government’s economic agenda while omitting language on the bank’s legal independence—phrasing that had raised concern the dovish-leaning Prime Minister Sanae Takaichi government might pressure the BOJ to delay tightening. KIUCHI added the government and the BOJ should nonetheless share assessments of the economy, prices and financial conditions."
-    },
-    {
-      "id": "4980010",
-      "time": "2026-07-10 09:27:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【AI賽道ETF昨日大舉吸金 科創50ETF成為淨流入最多寬基】AI賽道ETF昨日大舉吸金。Choice資料顯示，20只科創50ETF昨天淨流入22.14億元，是市場淨流入最多的核心寬基，本月已經累計吸金96.38億元，逆轉了此前二季度持續淨流出的態勢。非貨ETF中，跟蹤半導體材料裝置指數的5只產品昨天吸金最多，單日流入59.4億元；其次是科創半導體材料裝置指數，3只掛鉤ETF昨天合計吸金30.76億元。半導體裝置ETF國泰是當日淨流入最多的非貨ETF，淨流入48.74億元，規模創新高至502.53億元；其次是科創半導體ETF華夏（淨流入21.72 億元）最新規模創新高至353.95億元；通訊ETF國泰則是吸金12.12億元、科創50ETF華夏吸金9.89億元。"
-    },
-    {
-      "id": "mkt:019f49a2-f803-7aab-8d24-45f454f8a7b0",
-      "time": "2026-07-10 09:27:24",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "Zhejiang Oulun Electric Co. opened 42.16% above its issue price of 38.69 yuan on its Beijing Stock Exchange debut. The company manufactures environmental control equipment and offers integrated R&D, design, manufacturing, sales and services."
-    },
-    {
-      "id": "mkt:019f49a2-b807-7aab-8d24-3fe277fca295",
-      "time": "2026-07-10 09:27:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Huitianfu's Hong Kong Stock Connect information technology ETF rose more than 5%."
-    },
-    {
-      "id": "mkt:019f49a2-6a5f-7aab-8d24-34c1c6050f10",
-      "time": "2026-07-10 09:26:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share CPO sector opened higher; Huatian Technology hit the daily limit, Shenkeda rose over 9%, Cambridge Technology up over 8%, Guangxun Technology and Changdian Technology gained more than 5%, Huagong Technology and Tianfu Communication also advanced."
-    },
-    {
-      "id": "mkt:019f49a2-1536-7aab-8d24-2eb501703cc8",
-      "time": "2026-07-10 09:26:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Oil-themed funds opened lower: Global Oil & Gas Energy LOF fell more than 3%; Harvest Crude Oil LOF dropped over 2%; E Fund Crude Oil LOF, China Southern Crude Oil LOF and Petroleum Fund LOF each fell more than 1%."
-    },
-    {
-      "id": "4980009",
-      "time": "2026-07-10 09:25:27",
-      "tags": [],
-      "text": "三大股指開盤漲跌不一，滬指跌0.13％，深成指漲0.53％，創業板漲0.59％。"
-    },
-    {
-      "id": "mkt:019f49a1-27ee-7aab-8d24-2153ddc9edac",
-      "time": "2026-07-10 09:25:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "A-shares open: Shanghai Composite down 0.13%, Shenzhen Composite Index up 0.53%, ChiNext Index up 0.59%. Semiconductor-equipment precision metal-parts \"little giant\" Tuolunsi jumped 800% on its debut."
-    },
-    {
-      "id": "mkt:019f49a0-d25f-7aab-8d24-1ec5dfbe5008",
-      "time": "2026-07-10 09:25:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bearish"
-      ],
-      "text": "【PBOC nets 43 bln yuan drain today; 416.5 bln yuan net drain this week】PBOC conducted CNY20 bln of 7-day reverse repos today while CNY63 bln matured, resulting in a net withdrawal of CNY43 bln. For the week the PBOC injected CNY62 bln via 7-day reverse repos and CNY1.0 tln via buyout repos; CNY678.5 bln of 7-day reverse repos and CNY800 bln of buyout repos matured, leaving a weekly net liquidity withdrawal of CNY416.5 bln."
-    },
-    {
-      "id": "4980008",
-      "time": "2026-07-10 09:24:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價回吐早盤漲幅，最新漲1.5%，報221.9萬韓元。"
     }
   ]
 }

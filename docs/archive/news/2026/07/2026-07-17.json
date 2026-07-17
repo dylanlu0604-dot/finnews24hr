@@ -1,7 +1,90 @@
 {
   "date": "2026-07-17",
-  "count": 770,
+  "count": 780,
   "items": [
+    {
+      "id": "4993203",
+      "time": "2026-07-17 09:26:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：敦促國會透過《拯救美國法案》。"
+    },
+    {
+      "id": "4993202",
+      "time": "2026-07-17 09:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達國防部：攔截導彈襲擊。"
+    },
+    {
+      "id": "mkt:019f6dae-c2bf-7aab-8dd4-fba367208b33",
+      "time": "2026-07-17 09:26:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【PBOC nets 430.5 bln yuan via 7-day reverse repos】PBOC conducted 450.5 bln yuan of 7-day reverse repos today; with 20.0 bln yuan maturing, net liquidity injection totaled 430.5 bln yuan."
+    },
+    {
+      "id": "4993201",
+      "time": "2026-07-17 09:26:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股走弱 智譜跌超12%】截至發稿，智譜(02513.HK)跌12.14%，瀾起科技(06809.HK)跌3.59%，兆易創新(03986.HK)跌3.50%，劍橋科技(06166.HK)跌3.29%。"
+    },
+    {
+      "id": "4993200",
+      "time": "2026-07-17 09:25:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電股價下跌3.2%。"
+    },
+    {
+      "id": "mkt:019f6dad-b709-7aab-8dd4-f414ddb536ca",
+      "time": "2026-07-17 09:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open, China’s A-share market slipped: Shanghai Composite down 0.44%, Shenzhen Composite Index down 0.97% and ChiNext Index down 1.36%; storage‑chip and CRO stocks led declines."
+    },
+    {
+      "id": "4993199",
+      "time": "2026-07-17 09:25:13",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指低開，滬指跌0.44％，深成指跌0.97％，創業板跌1.36％。"
+    },
+    {
+      "id": "4993198",
+      "time": "2026-07-17 09:24:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普威脅要吊銷ABC和NBC的電視牌照。"
+    },
+    {
+      "id": "mkt:019f6dac-7c5b-7aab-8dd4-eb9f23f1cc91",
+      "time": "2026-07-17 09:24:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "MOFCOM spokesperson responded to reporters' questions on the UK government's nationalisation of British steel."
+    },
     {
       "id": "4993197",
       "time": "2026-07-17 09:22:32",
@@ -19,6 +102,15 @@
         "其他"
       ],
       "text": "央行公開市場今日淨投放4,305.0億元人民幣。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607173809903961",
+      "time": "2026-07-17 09:21:32",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "央行今日開展4505億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
     },
     {
       "id": "mkt:019f6daa-0f44-7aab-8dd4-e1ccbcb40b1a",
