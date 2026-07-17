@@ -1,7 +1,281 @@
 {
-  "updated": "2026-07-17 21:11:32",
-  "count": 19098,
+  "updated": "2026-07-17 21:17:53",
+  "count": 19115,
   "items": [
+    {
+      "id": "mkt:019f7039-4db8-7aab-8de5-de9e4e9fe619",
+      "time": "2026-07-17 21:17:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US manufacturing capacity utilization 75.7% in June, unchanged from May (75.7%)."
+    },
+    {
+      "id": "mkt:019f7039-2600-7aab-8de5-d11bce4f1343",
+      "time": "2026-07-17 21:17:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Capacity Utilization (Jun) | actual 75.7% | previous 75.7%"
+    },
+    {
+      "id": "4994718",
+      "time": "2026-07-17 21:16:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滬市券商上半年業績預告全線飄紅】截至7月17日，共有16家滬市券商釋出2026年中報業績預告，均為增長。其中，4家券商預告淨利潤下限超百億。整體來看，16家滬市券商預計實現歸母淨利潤合計896億元至939億元，實現扣非淨利潤合計889億元至932億元，較去年同期分別增59%至67%、88%至97%，行業整體呈現高增長態勢。"
+    },
+    {
+      "id": "mkt:019f7038-ebfd-7aab-8de5-ce8e3b2752ad",
+      "time": "2026-07-17 21:16:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Semafor: Graham's sister to seek full six-year Senate term】Semafor reports the late Senator Lindsey Graham’s sister, Darlene Graham, has told the White House she plans to run in the Republican primary in August for the South Carolina Senate seat, seeking a full six-year term. President Trump backs her for an interim appointment but has not said whom he will support in the primary. Multiple Republicans have already declared candidacies."
+    },
+    {
+      "id": "4994717",
+      "time": "2026-07-17 21:16:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "以太坊下跌3.1%。"
+    },
+    {
+      "id": "4994716",
+      "time": "2026-07-17 21:16:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玄信資產宣佈1000萬元自購旗下管理產品】7月17日，量化交易公司玄信資產釋出公告，公司於2026年7月17日使用自有資金人民幣申購旗下管理產品，共計1000萬元。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607173811305094",
+      "time": "2026-07-17 21:15:39",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月份工業產值環比增長0.1%，預估為0.2%。"
+    },
+    {
+      "id": "4994715",
+      "time": "2026-07-17 21:15:23",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國6月工業產出月率 0.1%，預期0.20%，前值0.10%。美國6月產能利用率 76.1%，預期76.20%，前值由76.20%修正為76.1%。"
+    },
+    {
+      "id": "mkt:019f7037-9a2c-7aab-8de5-c03f64232ddd",
+      "time": "2026-07-17 21:15:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact mixed",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "US manufacturing output unchanged in June, MoM 0.0% vs 0.1% expected; May revised to 0.1% from 0.0%."
+    },
+    {
+      "id": "mkt:019f7037-9804-7aab-8de5-bf71869b7641",
+      "time": "2026-07-17 21:15:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US capacity utilization for June 76.1% vs 76.2% expected; prior reading revised down from 76.2% to 76.1%."
+    },
+    {
+      "id": "mkt:019f7037-8e04-7aab-8de5-b5965df10d3c",
+      "time": "2026-07-17 21:15:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "US June industrial production MoM 0.1% (consensus 0.2%), prior 0.1%."
+    },
+    {
+      "id": "mkt:019f7037-7857-7aab-8de5-a9b9e02894b4",
+      "time": "2026-07-17 21:15:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Manufacturing Production (MoM) (Jun) | actual 0% | consensus 0.10% | previous 0.00%"
+    },
+    {
+      "id": "mkt:019f7037-7848-7aab-8de5-a420a4dd2c88",
+      "time": "2026-07-17 21:15:11",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Capacity Utilization (Jun) | actual 76.1% | consensus 76.20% | previous 76.20%"
+    },
+    {
+      "id": "mkt:019f7037-664a-7aab-8de5-9f4a6f320ddc",
+      "time": "2026-07-17 21:15:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Industrial Production (MoM) (Jun) | actual 0.1% | consensus 0.20% | previous 0.10%"
+    },
+    {
+      "id": "4994714",
+      "time": "2026-07-17 21:14:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟推出銀行業改革方案，以應對特朗普的放松管制政策。"
+    },
+    {
+      "id": "4994713",
+      "time": "2026-07-17 21:14:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快看釋出《錦衣不死》電影專案，預計2027年上映】在廣州第五屆 KKWORLD 快看漫樂園現場舉辦的“2026快看 IP 生態聯盟釋出會”上，快看漫畫正式公佈全新自制院線電影專案《錦衣不死》及先導PV。該片改編自快看金猴獎入圍漫畫《不死人之錦衣不死》，是快看在原創漫畫IP影視化與AI內容工業化方向上的一次重要探索。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f7037-26cb-7aab-8de5-95aa82ce4c16",
+      "time": "2026-07-17 21:14:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "France and Germany issued a joint statement expressing intent to cooperate on nuclear fusion energy and said they will advocate redirecting EU financial instruments toward the critical metals sector."
+    },
+    {
+      "id": "mkt:019f7036-f361-7aab-8de5-8c56ea60258c",
+      "time": "2026-07-17 21:14:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "France and Germany will develop European cooperative combat standards to ensure interoperability between air systems and will explore collaboration on a sovereign European missile-defense capability."
+    },
+    {
+      "id": "4994712",
+      "time": "2026-07-17 21:14:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "聯合宣告：法國和德國在歐盟下一預算週期前支援加強歐洲防務部門。"
+    },
+    {
+      "id": "mkt:019f7036-bc85-7aab-8de5-85ca07dd6ede",
+      "time": "2026-07-17 21:14:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Franco-German joint statement: Germany will participate in France's nuclear exercise later this year, augmenting rather than replacing NATO's nuclear deterrence capability."
+    },
+    {
+      "id": "4994711",
+      "time": "2026-07-17 21:14:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國與德國在聯合宣告中表示，兩國將強化北約核威懾力量，而非取代它。"
+    },
+    {
+      "id": "4994710",
+      "time": "2026-07-17 21:14:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合宣告：德國將於今年晚些時候參與法國核演習。"
+    },
+    {
+      "id": "mkt:019f7036-842d-7aab-8de5-78b8a542d8a3",
+      "time": "2026-07-17 21:14:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany and France say they will deepen cooperation on nuclear deterrence and conventional strike capabilities."
+    },
+    {
+      "id": "4994708",
+      "time": "2026-07-17 21:12:53",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【市場監管總局出手嚴管拼豆！面向14歲以下兒童使用的“拼豆”產品：拼豆包裝須標註適用年齡】央視財經記者今天（17日）瞭解到，為保障消費者人身健康安全，依照《中華人民共和國產品質量法》《中華人民共和國未成年人保護法》等法律法規，市場監管總局釋出“拼豆”產品質量安全有關事項公告。其中，面向14歲以下兒童使用的“拼豆”產品：應當透過玩具強制性產品認證（CCC認證），不得以“搭售”“贈品”等方式，在玩具產品出廠時違規搭配家用電器；產品應當在顯著位置標註產品適用年齡、安全警示等注意事項，明示家長購買注意事項，提醒家長履行兒童監護責任，按照適用年齡選擇合適玩具，嚴禁模糊標註、虛假標註。 市場監管總局要求：“拼豆”產品生產者應當嚴格按照相關法律法規要求組織生產，加強質量管控。銷售者應當嚴格落實產品質量安全主體責任，履行進貨查驗義務。電商平臺應當加強對平臺內銷售“拼豆”產品的核驗核查，對發現的違規產品立即採取必要處置措施，並依法向市場監管部門報告。"
+    },
+    {
+      "id": "mkt:019f7034-1ac6-7aab-8de5-75b7af9de787",
+      "time": "2026-07-17 21:11:30",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【EU to propose cross-border banking rules in Q1 2027 after Commission flags fragmentation】A European Commission report on bank competitiveness said fragmentation and limited scale are constraining potential and that national intervention in mergers has impeded banks' ability to expand. The Commission plans measures in Q1 2027 to tackle competitiveness, including allowing cross-border banks to allocate liquidity and capital more effectively between parent firms and subsidiaries."
+    },
+    {
+      "id": "4994706",
+      "time": "2026-07-17 21:11:16",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "歐盟委員會計劃在2027年第一季度出臺措施解決銀行業競爭力問題。"
+    },
+    {
+      "id": "4994705",
+      "time": "2026-07-17 21:11:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟銀行業報告稱：各國對併購的干預阻礙銀行擴大規模。"
+    },
+    {
+      "id": "4994704",
+      "time": "2026-07-17 21:11:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會銀行業競爭力報告指出，市場碎片化和規模受限制約行業發展潛力。"
+    },
+    {
+      "id": "4994703",
+      "time": "2026-07-17 21:11:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 塔可貝爾特許經營商因環孢子蟲疫情遭起訴。"
+    },
     {
       "id": "4994702",
       "time": "2026-07-17 21:10:33",
@@ -175758,109 +176032,6 @@
         "國際"
       ],
       "text": "特朗普：我此舉是為抗議參議院未能透過《拯救美國法案》。該法案在共和黨選民中支援率高達 97%，無黨派普通民眾支援率也居高不下。這項法案內容十分明確：選民投票時必須出示帶照片選民身份證件、公民身份證明；同時全面取締存在舞弊、貪腐、動搖國家穩定問題的郵寄選票（軍人、殘障人士、病患、外出人員可例外）。"
-    },
-    {
-      "id": "mkt:019f4c2d-5e10-7aab-8d33-999e228e0ca1",
-      "time": "2026-07-10 21:17:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he will not sign a housing bill that has been fully approved by Congress."
-    },
-    {
-      "id": "4981403",
-      "time": "2026-07-10 21:17:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江寧波提升防颱風應急響應至Ⅰ級】寧波市人民政府防汛防颱抗旱指揮部7月10日晚釋出通知：7月10日20時，2609號颱風“巴威”（颱風）中心位於東經126.2度，北緯22.7度，即在寧波東南偏南方向916公里處，中心氣壓960百帕，最大風力40米/秒(13級)，七級風圈半徑495公里，十級風圈半徑312公里。預計“巴威”將以每小時20-25公里的速度向西北方向移動，強度還將有所加強。根據《寧波市防汛防颱抗旱應急預案》，經研判會商，市防指決定於7月10日21時將防颱風應急響應提升至Ⅰ級。請各地各部門嚴格按預案方案要求做好防禦工作。"
-    },
-    {
-      "id": "4981402",
-      "time": "2026-07-10 21:17:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不會簽署這項已獲得國會全票透過的住房法案。"
-    },
-    {
-      "id": "4981401",
-      "time": "2026-07-10 21:17:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不會簽署住房法案。"
-    },
-    {
-      "id": "4981400",
-      "time": "2026-07-10 21:16:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗陸軍軍官伊本：人民在殉國領袖葬禮上的熱情參與，已經成為伊朗國防力量的後盾。敵人曾以為透過卑鄙地暗殺領袖、指揮官、科學家以及部分無辜伊朗民眾，就能動搖這個民族的力量支柱。將竭盡全力，捍衛偉大伊朗民族的寶貴遺產，提升國防力量，強化威懾力，維護國家安全，守護伊朗的尊嚴。"
-    },
-    {
-      "id": "4981399",
-      "time": "2026-07-10 21:16:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【7月10日增減持彙總】7月10日盤後，據不完全統計，和勝股份、星源卓鎂、華電遼能、百奧賽圖等4家A股上市公司披露擬減持情況。當日暫無A股公司披露增持情況。"
-    },
-    {
-      "id": "4981398",
-      "time": "2026-07-10 21:16:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達總理敦促美國和伊朗遵守協議並保護霍爾木茲海峽航運。"
-    },
-    {
-      "id": "4981397",
-      "time": "2026-07-10 21:15:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 若特朗普未簽署美國兩黨住房法案，今夜將自動生效。特朗普總統尚未簽署該住房法案使其成為法律，也未行使否決權。"
-    },
-    {
-      "id": "4981396",
-      "time": "2026-07-10 21:14:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京成立人工智慧等十大重點產業產教聯盟 推進校企協同育人】10日，北京市重點產業產教聯盟成立大會召開，宣佈積體電路、人工智慧、生物醫藥健康、綠色能源、高階科學儀器、商業航天、智慧製造、具身智慧機器人、智慧網聯汽車、生物育種等十大重點產業產教聯盟正式成立。"
-    },
-    {
-      "id": "4981395",
-      "time": "2026-07-10 21:12:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【訊息人士：美政府當前不希望以色列參與對伊戰事】據美國方面7月10日訊息，兩名以色列訊息人士稱，特朗普政府目前不希望以色列參與對伊朗的戰鬥，原因是擔心失去對沖突的控制。其中一名訊息人士稱，以色列總理本雅明·內塔尼亞胡“非常想加入美國的打擊”，但美國目前不希望以色列參與。日前，以色列國防部長伊斯雷爾·卡茨表示，以色列國防軍已處於高度戒備狀態，準備再次恢復對伊朗的戰爭，即使必須單獨行動。他稱，如果以色列必須重返戰場，將以“更大力量”返回。不過，一名訊息人士稱，以色列方面的主流評估認為，特朗普並不希望回到全面戰爭，最多可能願意做的是恢復對伊朗港口的海上封鎖。（央視）"
-    },
-    {
-      "id": "te:markets:566058",
-      "time": "2026-07-10 21:12:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Switzerland",
-        "stocks",
-        "Importance 0"
-      ],
-      "text": "UBS Stock Price Hits 18-1/2-year High — UBS shares increased to 42.12 CHF, the highest since January 2008. Over the past 4 weeks, UBS gained 12.16%, and in the last 12 months, it increased 47.91%."
-    },
-    {
-      "id": "mkt:019f4c27-cd1b-7aab-8d33-923315e0ab8d",
-      "time": "2026-07-10 21:11:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Poland's Prime Minister Tusk said the first power from the country's offshore wind farm has been successfully connected to the grid."
     }
   ]
 }
