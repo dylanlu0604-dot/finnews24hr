@@ -1,7 +1,141 @@
 {
   "date": "2026-07-17",
-  "count": 1462,
+  "count": 1476,
   "items": [
+    {
+      "id": "4993685",
+      "time": "2026-07-17 14:21:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾沃汽車首席商務官：我們還在德國等歐洲主要市場啟動了一項商業績效計劃，我們認為這將對我們在該市場的未來表現產生重大影響。"
+    },
+    {
+      "id": "4993684",
+      "time": "2026-07-17 14:20:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中聯重科在湖南成立新能源科技公司，註冊資本3億】天眼查App顯示，近日，湖南中聯新能源科技有限公司成立，法定代表人為林勇，註冊資本3億人民幣，經營範圍包括電池製造、新興能源技術研發、新能源汽車電附件銷售、充電樁銷售、儲能技術服務等，由中聯重科全資持股。"
+    },
+    {
+      "id": "mkt:019f6ebb-d273-7aab-8ddc-1be9e00953b4",
+      "time": "2026-07-17 14:20:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "ENR.DE",
+        "Impact bearish"
+      ],
+      "text": "Siemens Energy shares fell 4% in early trade in Frankfurt."
+    },
+    {
+      "id": "4993683",
+      "time": "2026-07-17 14:20:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "莫迪啟動印度首列氫動力列車。"
+    },
+    {
+      "id": "mkt:019f6ebb-8faa-7aab-8ddc-1097683e9ba8",
+      "time": "2026-07-17 14:20:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Qiyuan Q1 Explorer Edition debuts with new exterior ID】Shangwei New Materials unveiled the Qiyuan Q1 Explorer Edition at the opening day of WAIC 2026, taking an A' Design Award gold for its new exterior ID. The company billed the Q1 as the world's first personal robot, highlighting human-centric exterior design, compliant/safe human‑robot interaction and an open-source hardware ecosystem; an on‑site demo showed smooth force‑control interaction."
+    },
+    {
+      "id": "te:markets:567768",
+      "time": "2026-07-17 14:20:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Euro Holds Near One-Month High as ECB Tightening Bets Support — The euro traded little changed around $1.145, hovering near its strongest level since June 19 and remaining on track for a weekly gain against the US dollar. Expectations of further European Central Bank tightening continued to support the currency, while investors also monitored escalating tensions in the Middle East following additional US strikes on Iranian targets. Markets fully price in an ECB rate hike in September, with another increase expected by spring 2027. However, recent comments from policymakers including Piero Cipollone and Martin Kocher signaled a cautious approach, making a July move unlikely. Meanwhile, the dollar weakened this week after softer-than-expected US inflation data, as producer prices unexpectedly fell in June and consumer prices posted their first monthly decline since 2020, reducing expectations for further Federal Reserve tightening this year."
+    },
+    {
+      "id": "4993682",
+      "time": "2026-07-17 14:19:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾沃汽車首席商務官：新款EX60不僅是我們在歐洲訂單量最高的車型之一，也是我們目前銷售利潤最高的車型。"
+    },
+    {
+      "id": "mkt:019f6eba-c704-7aab-8ddc-0d58b6a0c440",
+      "time": "2026-07-17 14:19:22",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck infrastructure in Odesa and at Black Sea ports in Ukraine."
+    },
+    {
+      "id": "4993681",
+      "time": "2026-07-17 14:19:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【啟元Q1探索者版全新外觀ID亮相WAIC 2026】WAIC 2026首日，上緯新材釋出全球首款個人機器人啟元Q1探索者版，新機全新外觀斬獲國際A' Design設計金獎，並在2026世界人工智慧大會線下首秀。據瞭解，作為個人機器人賽道開創級產品，啟元Q1打通人性化外觀設計、安全柔順人機互動與開源硬體生態，為個人機器人建立全新設計與開發標準，WAIC現場實景演示整機流暢力控互動表現。"
+    },
+    {
+      "id": "4993680",
+      "time": "2026-07-17 14:18:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部：俄軍打擊了烏克蘭敖德薩、切爾諾莫斯克的港口基礎設施。"
+    },
+    {
+      "id": "4993679",
+      "time": "2026-07-17 14:18:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國海證券獨家競買大通證券控股權 正式進入收購交易階段】京東資產交易平臺顯示，大通證券51.59%控股股權第三次拍賣結束，本次競拍僅一家報名參與，即近日釋出公告參與競拍的國海證券。隨著競拍完成，國海證券將正式進入收購交易階段，成為大通證券控股股東。本次交易落地尚需證監會核准，此次併購是年內券商行業整合的重要案例，有望助力國海證券完善區域業務佈局。"
+    },
+    {
+      "id": "mkt:019f6eb9-d525-7aab-8ddc-06362b05625c",
+      "time": "2026-07-17 14:18:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "510300.SH",
+        "Impact bullish"
+      ],
+      "text": "【Huatai-PineBridge CSI 300 ETF reclaims largest single-ETF spot】Huatai-PineBridge CSI 300 ETF regained the largest single-ETF position in China with assets of about 93.5 bln yuan, overtaking Yinhua Rili A (just over 90 bln yuan). Huaan Gold ETF is third at roughly 87.21 bln yuan."
+    },
+    {
+      "id": "4993678",
+      "time": "2026-07-17 14:18:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【晶片產業鏈區域性回暖 有研矽漲超10%】午後晶片產業鏈區域性回暖，有研矽漲超10%，長電科技直線拉昇一度漲超8%，華虹宏力、拓荊科技、燕東微、中微公司等衝高。"
+    },
+    {
+      "id": "4993677",
+      "time": "2026-07-17 14:18:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華泰柏瑞滬深300ETF規模重回市場第一】資料顯示，全市場單隻規模最大的ETF再次“易主”，華泰柏瑞滬深300ETF以逾935億元的規模重回市場第一，超過了銀華日利A。後者目前排名第二，規模900億元出頭。緊跟其後的，是此前一度逆勢位居第一的華安黃金ETF，目前規模為872.12億元。"
+    },
     {
       "id": "4993676",
       "time": "2026-07-17 14:17:29",
