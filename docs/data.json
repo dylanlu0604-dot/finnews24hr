@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-17 22:54:38",
-  "count": 19095,
+  "updated": "2026-07-17 22:58:47",
+  "count": 19098,
   "items": [
+    {
+      "id": "mkt:019f7095-c0cb-7aab-8de8-0b718fe433e9",
+      "time": "2026-07-17 22:58:10",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "USGS reported a magnitude-7.4 earthquake about 71 km west of Puerto Madero, Mexico."
+    },
+    {
+      "id": "4994909",
+      "time": "2026-07-17 22:57:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：墨西哥馬德羅港西南偏西 71 公里處發生 7.4 級地震。"
+    },
+    {
+      "id": "4994908",
+      "time": "2026-07-17 22:57:06",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【程福波到中國寶武中國東航調研強調深化改革創新對標世界一流 更好服務支撐資源安全和交通強國建設】7月17日，國務院國資委黨委書記、主任程福波到中國寶武、中國東航生產一線調研，強調要認真學習貫徹習近平總書記在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上的重要講話精神，全面貫徹習近平總書記“七一”重要講話精神，深入落實習近平總書記對中央企業工作作出的重要指示精神，立足國家發展大局、錨定央企使命擔當，堅持黨的領導加強黨的建設，更好統籌高質量發展和高水平安全，緊扣資源安全和交通強國戰略，持續深化改革創新，以進促穩、先立後破，增強核心功能、提高核心競爭力，加快建設世界一流企業，為建設現代化產業體系、構建新發展格局貢獻國資央企力量。（國資委）"
+    },
+    {
+      "id": "4994907",
+      "time": "2026-07-17 22:56:37",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美元將回歸長期貶值趨勢】道富環球投資（State Street Global Advisors）首席經濟學家Simona Mocuta表示，今年美元受到了避險資金流入以及市場定價美聯儲將加息的支撐，但這些因素已經反映在匯率中，因此美元將回歸其多年來的貶值趨勢。她的基準預測是美聯儲將在今年全年維持利率不變，但莫庫塔表示，加息一次的風險依然存在。即使加息發生，這也已經反映在美元的價格中，因此不會帶來太多額外影響；而如果未能加息，則會削弱美元。由於對美國財政前景的擔憂依然存在，美元將回歸其長期貶值趨勢。"
+    },
+    {
+      "id": "te:markets:567954",
+      "time": "2026-07-17 22:55:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Index Holds Bounce — The US dollar index rose to 100.8, rebounding from the one-month low of 100.5 on July 16th and diverging with the retreat for Treasury yields amid a pivot to safer assets. Trade jitters with China retook the spotlight after President Trump claimed that China interfered with the US 2020 presidential elections. The claims jeopardized their truce in economic relations since the exchange of tariffs softened last year, magnifying ongoing shipping bottlenecks amid the war in the Middle East. Trade disputes were also featured between the EU and China, dampening demand for the Euro. On the monetary policy front, FOMC members continued to signal that evidence of stubborn core inflation may warrant a rate hike this year, backed by recent evidence of strong retail sales and low unemployment claim levels. The hawkish remarks prevailed despite soft inflation data for June and a second decline in inflation expectations per the Michigan consumer confidence survey."
+    },
+    {
+      "id": "4994906",
+      "time": "2026-07-17 22:55:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【安巴尼旗下信實工業無視伊朗戰爭陰霾，利潤超預期】得益於強勁的煉油利潤率以及消費者科技業務的穩步增長，信實工業（Reliance Industries Ltd.）的季度盈利超出分析師預期。根據週五的一份交易所檔案，截至6月30日的三個月內，公司淨利潤同比下降22%，至2095億盧比（約合22億美元）。這一資料超出了彭博社對券商預測調查得出的1982.3億盧比的平均利潤預期。利潤的同比下滑並不令人意外，因為去年同期的資料因信實出售其在亞洲塗料公司（Asian Paints Ltd.）的股份而獲得了鉅額一次性收益的提振。"
+    },
+    {
+      "id": "4994905",
+      "time": "2026-07-17 22:55:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾瑪公司：備忘錄顯示，凱爾·金納德將出任沃爾瑪美國部門執行副總裁兼營運長。"
+    },
+    {
+      "id": "4994904",
+      "time": "2026-07-17 22:55:07",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【香港特區政府歡迎立法會透過《皇崗口岸港方口岸區條例草案》 】香港特區政府17日表示，歡迎特區立法會當日透過《皇崗口岸港方口岸區條例草案》。草案的順利透過，是落實中央相關授權的重要里程碑，為在重建後的皇崗口岸實施“一地兩檢”安排提供法律基礎，更標誌著口岸開通的籌備工作邁出關鍵一步。 國務院於7月8日就啟用皇崗口岸港方口岸區及相關延伸區有關事項作出批覆，確定港方口岸區的具體座標和麵積，並同意港方口岸區由2026年7月31日0時起啟用並依照香港特別行政區法律實施管轄。為確保中央的授權得以全面落實，特區政府有責任於7月31日前完成相關的本地立法工作。 據悉，《皇崗口岸港方口岸區條例》將於7月20日刊憲，並於7月31日生效，為特區在皇崗口岸設立港方口岸區，以及在港方口岸區依法實施管轄提供法律基礎。（新華社）"
+    },
     {
       "id": "4994903",
       "time": "2026-07-17 22:53:45",
@@ -175965,46 +176037,6 @@
         "公司"
       ],
       "text": "SK集團董事長崔泰源： SK 未來或將重點發展儲存即服務業務。"
-    },
-    {
-      "id": "4981617",
-      "time": "2026-07-10 22:57:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲地中海地震中心：目擊者稱三分鐘前委內瑞拉出現震感。"
-    },
-    {
-      "id": "4981616",
-      "time": "2026-07-10 22:57:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴林代表：伊朗未履行其國際義務及在諒解備忘錄中的承諾】巴林駐聯合國代表：伊朗透過對地區國家的攻擊迅速破壞了諒解備忘錄的條款。伊朗未履行其國際義務及在諒解備忘錄中的承諾。伊朗在簽署諒解備忘錄後立即恢復了攻擊。任何外交進展都必須依賴伊朗與國際原子能機構的合作。"
-    },
-    {
-      "id": "4981615",
-      "time": "2026-07-10 22:56:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國擴大重金屬檢測範圍至加工食品。"
-    },
-    {
-      "id": "4981614",
-      "time": "2026-07-10 22:55:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米回應新車遭惡意抹黑：純粹的造謠，簡直是匪夷所思】7月10日，小米汽車旗下第二產品系列——小米澎程宣佈首款SUV車型為小米澎程N90。小米集團董事長雷軍透過個人微博為新車積極宣傳造勢。\n\n值得注意的是，小米澎程新車型還未正式釋出，部分社交平臺搜尋欄已出現SkyNomad“起火原因”“事故詳情”“車主維權”“汽車爆炸”“汽車車禍現場”“發動機問題”“天空遊牧者車禍”等關鍵詞，甚至部分平臺還出現了SkyNomad小米澎程的車禍影片，釋出者戲稱“新買的小米SkyNomad又上綠化帶了”，並帶有“小米SkyNomad”“車禍”“綠化帶戰神”等標籤。\n\n對此，記者向小米集團方面進行核實，工作人員回覆稱：“這是純粹的造謠抹黑，簡直是匪夷所思。車都沒正式釋出，怎麼可能有事故？搜尋聯想掛上了車禍、事故這些負面標籤，讓我們不勝其擾。”\n\n“這已經嚴重影響了我們正常工作的開展，我們對類似情況正在持續收集整理，並向各平臺進行投訴和溝通處理。”該工作人員稱。（每經）"
-    },
-    {
-      "id": "4981613",
-      "time": "2026-07-10 22:54:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【小米澎程擬釋出兩款車型：分別為五座版和七座版，均採用增程式動力】小米汽車7月10日釋出答網友問，稱小米澎程目前計劃釋出兩款車型，分別是五座版和七座版，均採用增程式動力。五座版和七座版兩種空間佈局，能夠滿足不同家庭結構和出行場景的使用者需求。小米汽車稱，在2023年初，小米澎程系列正式規劃立項時，動力形式就選擇了增程技術，並進行了深入的研發，做了很多最佳化與改進。在CLTC工況下，小米澎程系列的純電續航里程超過500km。"
     }
   ]
 }
