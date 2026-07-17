@@ -1,7 +1,68 @@
 {
   "date": "2026-07-17",
-  "count": 1233,
+  "count": 1239,
   "items": [
+    {
+      "id": "mkt:019f6e63-beea-7aab-8dd9-e98612fd6ab5",
+      "time": "2026-07-17 12:44:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBI governor expects India's balance of payments to remain strong in the near- to medium-term."
+    },
+    {
+      "id": "4993521",
+      "time": "2026-07-17 12:43:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "MSCI除日本亞洲指數下跌超2%。"
+    },
+    {
+      "id": "mkt:019f6e63-39a9-7aab-8dd9-e6068be2e800",
+      "time": "2026-07-17 12:43:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India governor said recent policy measures and the underlying strength of India’s external sector are supportive of the Indian rupee."
+    },
+    {
+      "id": "mkt:019f6e62-f2c1-7aab-8dd9-d930e3d4f0f4",
+      "time": "2026-07-17 12:43:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "MSCI Asia Pacific ex-Japan index falls more than 2%."
+    },
+    {
+      "id": "4993520",
+      "time": "2026-07-17 12:43:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界人工智慧大會期間國家發展改革委釋出2項重要成果】7月17日（週五），2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海召開。會上，國家發展改革委會同有關部門共同釋出了《人工智慧合作發展行動計劃》《中國智·惠世界（2026）》案例集兩項成果。"
+    },
+    {
+      "id": "mkt:019f6e62-29ae-7aab-8dd9-d25be5b78146",
+      "time": "2026-07-17 12:42:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【NDRC unveils AI cooperation action plan and international casebook at World AI Conference】At the 2026 World Artificial Intelligence Conference in Shanghai, the National Development and Reform Commission (NDRC) and other agencies released two outputs: the Artificial Intelligence Cooperation Development Action Plan and the China Smart·Benefits the World (2026) casebook. The Action Plan, framed to implement Xi’s directive that AI be treated as an international public good, sets eight priority actions spanning data, compute, ecosystem, deployment, talent, rules, governance and ethics: high‑quality data supply, democratized/ubiquitous compute, open‑source ecosystem sharing, deep sectoral AI enablement, joint cultivation of digital‑intelligence talent, co‑development of rules and standards, collaborative security governance, and promoting AI for good. The NDRC says the plan responds to UN calls for strengthened international AI cooperation, narrowing the digital divide and using AI for sustainable development. The China Smart·Benefits the World (2026) casebook, the NDRC’s third annual edition, compiles 10 international AI cooperation projects; it reports broader country coverage, richer “AI+” application scenarios and an increased emphasis on people‑centered, benevolent AI, presenting China’s contributions to global AI development."
+    },
     {
       "id": "mkt:019f6e60-957b-7aab-8dd9-c8b37fa1df8a",
       "time": "2026-07-17 12:40:51",

@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-17 12:42:02",
-  "count": 18876,
+  "updated": "2026-07-17 12:46:07",
+  "count": 18874,
   "items": [
+    {
+      "id": "mkt:019f6e63-beea-7aab-8dd9-e98612fd6ab5",
+      "time": "2026-07-17 12:44:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBI governor expects India's balance of payments to remain strong in the near- to medium-term."
+    },
+    {
+      "id": "4993521",
+      "time": "2026-07-17 12:43:50",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "MSCI除日本亞洲指數下跌超2%。"
+    },
+    {
+      "id": "mkt:019f6e63-39a9-7aab-8dd9-e6068be2e800",
+      "time": "2026-07-17 12:43:44",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Reserve Bank of India governor said recent policy measures and the underlying strength of India’s external sector are supportive of the Indian rupee."
+    },
+    {
+      "id": "mkt:019f6e62-f2c1-7aab-8dd9-d930e3d4f0f4",
+      "time": "2026-07-17 12:43:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "MSCI Asia Pacific ex-Japan index falls more than 2%."
+    },
+    {
+      "id": "4993520",
+      "time": "2026-07-17 12:43:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【世界人工智慧大會期間國家發展改革委釋出2項重要成果】7月17日（週五），2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海召開。會上，國家發展改革委會同有關部門共同釋出了《人工智慧合作發展行動計劃》《中國智·惠世界（2026）》案例集兩項成果。"
+    },
+    {
+      "id": "mkt:019f6e62-29ae-7aab-8dd9-d25be5b78146",
+      "time": "2026-07-17 12:42:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【NDRC unveils AI cooperation action plan and international casebook at World AI Conference】At the 2026 World Artificial Intelligence Conference in Shanghai, the National Development and Reform Commission (NDRC) and other agencies released two outputs: the Artificial Intelligence Cooperation Development Action Plan and the China Smart·Benefits the World (2026) casebook. The Action Plan, framed to implement Xi’s directive that AI be treated as an international public good, sets eight priority actions spanning data, compute, ecosystem, deployment, talent, rules, governance and ethics: high‑quality data supply, democratized/ubiquitous compute, open‑source ecosystem sharing, deep sectoral AI enablement, joint cultivation of digital‑intelligence talent, co‑development of rules and standards, collaborative security governance, and promoting AI for good. The NDRC says the plan responds to UN calls for strengthened international AI cooperation, narrowing the digital divide and using AI for sustainable development. The China Smart·Benefits the World (2026) casebook, the NDRC’s third annual edition, compiles 10 international AI cooperation projects; it reports broader country coverage, richer “AI+” application scenarios and an increased emphasis on people‑centered, benevolent AI, presenting China’s contributions to global AI development."
+    },
     {
       "id": "mkt:019f6e60-957b-7aab-8dd9-c8b37fa1df8a",
       "time": "2026-07-17 12:40:51",
@@ -173554,79 +173615,6 @@
         "國際"
       ],
       "text": "俄羅斯當局：俄羅斯伊利斯基煉油廠遭無人機襲擊後起火。"
-    },
-    {
-      "id": "4980289",
-      "time": "2026-07-10 12:45:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【應急管理部對浙江福建啟動國家地質災害三級應急響應】記者從應急管理部獲悉，根據《國家突發地質災害應急預案》及有關規定，應急管理部於7月10日針對浙江、福建啟動地質災害三級應急響應，派出工作組指導地質災害防範應對工作。據氣象部門預測，受今年第9號颱風“巴威”影響，7月10日至13日，浙江南部、福建東北部等地有大到暴雨，局地大暴雨至特大暴雨。經應急管理部與自然資源部聯合會商研判，浙江東南部、福建東北部發生地質災害的風險高。應急管理部要求，受颱風“巴威”影響的相關地區要切實做好地質災害防範應對工作，壓實地方防範應對主體責任，加強部門協同聯動工作機制，密切監視雨情汛情和地質災害災情險情，加強會商研判和預警響應聯動，預置前置救援力量、物資、裝備，強化巡查排查和監測預警，堅決果斷組織轉移避險，確保應轉盡轉、應轉早轉，最大限度避免人員傷亡。（新華社）"
-    },
-    {
-      "id": "4980288",
-      "time": "2026-07-10 12:45:32",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "印度數字支付公司PAYTM股價上漲4.1%。"
-    },
-    {
-      "id": "4980287",
-      "time": "2026-07-10 12:44:55",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【OpenAI推出GPT-5.6系列模型】美國開放人工智慧研究中心（OpenAI）9日宣佈，正式推出GPT-5.6系列模型，從即日起在ChatGPT、Codex和OpenAI API中逐步開放使用。該公司在官網釋出的宣告中說，GPT-5.6系列包括三個模型版本：旗艦模型Sol、適配日常辦公的均衡型模型Terra，以及速度最快、成本最低的模型Luna。根據宣告，GPT-5.6新增“max”和“ultra”等能力設定。前者可讓模型投入更多時間進行推理，探索替代方案，檢查並修正方法；後者則預設協調四個智慧體並行處理複雜任務，以更高的詞元使用量換取更強結果並縮短高難度任務的完成時間。（新華社）"
-    },
-    {
-      "id": "4980286",
-      "time": "2026-07-10 12:43:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【張雪回應“捐500萬馳援廣西”】7月10日，張雪在社交平臺釋出影片，回應捐款問題。張雪稱，“有人覺得我捐得有點多，這筆錢對張雪機車的生死來說起不到決定性作用，但對災區群眾來說有非常大的作用。”"
-    },
-    {
-      "id": "4980285",
-      "time": "2026-07-10 12:43:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本數百架次航班因颱風巴威取消】據日本氣象廳訊息，受今年第9號颱風“巴威”影響，預計日本沖繩縣從7月10日傍晚起將出現暴風，同時伴有雷電和強降雨。鹿兒島縣的奄美地區預計11日也將出現極為惡劣的海浪並導致沿海地區浸水。另據日本廣播協會電視臺報道，受惡劣天氣影響，10日和11日兩天，日本已累計取消國內航班超過230架次，其中以往返沖繩航線為主。"
-    },
-    {
-      "id": "4980284",
-      "time": "2026-07-10 12:43:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "香港長實集團盤中漲2.2%創逾三週新高，瑞銀料派特別股息。"
-    },
-    {
-      "id": "4980283",
-      "time": "2026-07-10 12:42:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年黃河調水調沙水庫排程結束 下游河勢穩定】從水利部瞭解到，7月10日9時，隨著小浪底水庫下洩流量壓減至600立方米每秒，標誌著2026年黃河調水調沙水庫排程結束。本次調水調沙於6月22日開始，排程過程歷時19天，在此期間小浪底水庫最大下洩流量4990立方米每秒，最大出庫含沙量787千克每立方米。"
-    },
-    {
-      "id": "mkt:019f4a55-936f-7aab-8d28-42d234da3ac6",
-      "time": "2026-07-10 12:42:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "【OCBC says now is an appropriate time to reassess domestic vs offshore intraday allocations】In Tokyo trade, Japanese government bonds rose on prospects of increased inflows. Frances Cheung, head of FX and rates strategy at OCBC Group Research, said in a note that Japan's finance minister Katayama is seeking to encourage GPIF and similar funds to increase investment in yen assets, making now an appropriate time to reassess domestic versus offshore allocations. Cheung added that on a currency‑hedged basis the rebound in JGB yields has been comparable with, or even superior to, US Treasuries. The 10‑year JGB yield fell about 10bp to 2.775%; the 20‑year yield dropped about 11.5bp to 3.750%."
     }
   ]
 }
