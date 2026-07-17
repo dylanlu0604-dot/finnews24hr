@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-17 23:15:01",
-  "count": 19057,
+  "updated": "2026-07-17 23:19:10",
+  "count": 19046,
   "items": [
+    {
+      "id": "4994920",
+      "time": "2026-07-17 23:16:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西計劃將汽油補貼政策延長兩個月。"
+    },
     {
       "id": "mkt:019f70a3-dc94-7aab-8de8-513ef09de12c",
       "time": "2026-07-17 23:13:34",
@@ -175491,116 +175499,6 @@
         "國際"
       ],
       "text": "美國新增 61 例麻疹病例，年內累計確診 2231 例。"
-    },
-    {
-      "id": "4981659",
-      "time": "2026-07-10 23:18:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：（談及如果被伊朗成功行刺）我希望你們會想念我。我在伊朗的暗殺名單上排第一已經很久了。"
-    },
-    {
-      "id": "mkt:019f4c9b-a7fa-7aab-8d36-a3ba53bb30db",
-      "time": "2026-07-10 23:18:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: the US has decided to grant the UAE \"preferential treatment\" in export controls."
-    },
-    {
-      "id": "4981658",
-      "time": "2026-07-10 23:17:16",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【美國液化天然氣出口商借伊朗戰爭獲利】據俄羅斯方面9日訊息，一份最新披露的監管檔案顯示，美以對伊朗發動襲擊導致中東地區的天然氣供應中斷、價格走高，美國液化天然氣供應商正從伊朗戰爭中獲利。今年3月，伊朗反擊導致卡達拉斯拉凡工業城嚴重受損，而卡達液化天然氣出口量約佔全球總量的五分之一，市場隨即出現顯著供應缺口，再加上霍爾木茲海峽航運受阻，國際液化天然氣價格迅速上漲。美國全球風險投資液化天然氣公司是美國第二大液化天然氣供應商，也是重要的液化天然氣出口商。監管檔案披露，這家公司第二季度的平均液化費為每百萬英熱單位（MMBtu）6.45美元，較第一季度的3.82美元大幅上漲，漲價幅度高達69%。(央視新聞)"
-    },
-    {
-      "id": "mkt:019f4c9a-b22c-7aab-8d36-9975ab16b513",
-      "time": "2026-07-10 23:17:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. President Trump says he has long been at the top of Iran's assassination list."
-    },
-    {
-      "id": "4981657",
-      "time": "2026-07-10 23:16:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐聯合國代表：伊朗領導人面臨歷史性機會，決定權在他們手中。伊朗已部署巡航導彈和無人機以攻擊商船。伊朗採取的行動與諒解備忘錄相悖。與伊朗的外交渠道仍然開放。我們希望伊朗選擇遵守其義務。"
-    },
-    {
-      "id": "4981656",
-      "time": "2026-07-10 23:16:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國給予阿聯酋出口管制 “升級優惠待遇”。"
-    },
-    {
-      "id": "mkt:019f4c9a-557f-7aab-8d36-9052b9d9c262",
-      "time": "2026-07-10 23:16:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump, discussing the hypothetical of being successfully assassinated by Iran, said he hoped people would miss him."
-    },
-    {
-      "id": "mkt:019f4c99-4341-7aab-8d36-8c4d4fdc4f6f",
-      "time": "2026-07-10 23:15:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. representative to the United Nations said the U.S. hopes Iran will choose to comply with its obligations."
-    },
-    {
-      "id": "te:markets:566090",
-      "time": "2026-07-10 23:15:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CIBC Stock Price Hits 4-year High — CIBC shares increased to 165.00 CAD, the highest since March 2022. Over the past 4 weeks, CIBC gained 5.7%, and in the last 12 months, it increased 64.88%."
-    },
-    {
-      "id": "mkt:019f4c98-c5b5-7aab-8d36-84e8586e8670",
-      "time": "2026-07-10 23:15:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. ambassador to the United Nations said diplomatic channels with Iran remain open."
-    },
-    {
-      "id": "4981654",
-      "time": "2026-07-10 23:15:02",
-      "tags": [
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛：人工智慧帶來的記憶體、軟體和電力價格綜合上漲效應，正為美國核心PCE同比通脹貢獻超過0.2個百分點，且到年底這一貢獻將升至0.5個百分點。"
-    },
-    {
-      "id": "mkt:019f4c98-a878-7aab-8d36-7c844d1e2261",
-      "time": "2026-07-10 23:15:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. ambassador to the United Nations said Iran's actions run counter to the memorandum of understanding."
     }
   ]
 }
