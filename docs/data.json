@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-17 14:35:03",
-  "count": 18927,
+  "updated": "2026-07-17 14:39:04",
+  "count": 18938,
   "items": [
+    {
+      "id": "mkt:019f6ecc-01fb-7aab-8ddc-7ed4ba51be46",
+      "time": "2026-07-17 14:38:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【Bernstein: TSMC raises 2026 capex; AI demand supports growth】Bernstein says TSMC (TSM.N) has reasonably increased its 2026 capex plan on the back of a solid demand base. Management reiterated on its recent earnings call it will not impose sudden large price hikes; with limited near-term price upside and shipments constrained by capacity, TSMC’s upward revenue revision suggests prior forecasts may have been too conservative. Bernstein states that, despite market volatility, sustainability of AI demand has improved over the past three months and that the recent market pullback should be viewed as an opportunity to add AI-related stocks."
+    },
+    {
+      "id": "4993713",
+      "time": "2026-07-17 14:38:06",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：小鵬Mona L03上市後訂單強勁，維持“買入”評級】高盛發表報告指，小鵬集團於7月16日在德國慕尼黑正式釋出全新SUV車型Mona L03，官方起售價為12.38萬元，低於預售起售價的14.38萬元。該車型在全球上市後首7分鐘及首一小時內，分別錄得2萬張及4.7萬張不可退還的訂單。高盛預計Mona L03將能實現每月1.4萬輛的穩定銷量，並在今年第三及第四季度分別貢獻小鵬汽車總銷量的22%及23%，進一步推動第三及第四季銷量同比增長28%及59%。小鵬同時強調其全球化戰略，包括所有未來車型都將在海外上市，目標在2026年進入65個全球市場；並計劃於2027年在歐洲推出VLA2.0車型、交付人形機器人；以及未來在歐洲推出飛行汽車。高盛預期，一系列新車型的陸續推出及海外擴張，將提高小鵬汽車銷量持續增長和利潤率改善的能見度，維持“買入”評級，H股目標價為89港元，ADR目標價為23美元。"
+    },
+    {
+      "id": "mkt:019f6ecb-d6d9-7aab-8ddc-721156916a20",
+      "time": "2026-07-17 14:38:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Maritime Trade Operations says crew are safe and there are no reported environmental impacts."
+    },
+    {
+      "id": "mkt:019f6ecb-b7e9-7aab-8ddc-6817e6c6801a",
+      "time": "2026-07-17 14:37:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations said it received a report that a tanker was struck by an unidentified aerial object 19 nm east of Khasab, Oman."
+    },
+    {
+      "id": "4993712",
+      "time": "2026-07-17 14:37:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，一艘油輪在阿曼附近遇襲，報告稱其結構輕微受損。"
+    },
+    {
+      "id": "4993711",
+      "time": "2026-07-17 14:36:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，油輪在阿曼附近遭不明彈丸擊中。"
+    },
+    {
+      "id": "mkt:019f6eca-850b-7aab-8ddc-610309136c60",
+      "time": "2026-07-17 14:36:33",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Tasnim news agency reports an Iranian citizen was killed in a U.S. strike on Chabahar port."
+    },
+    {
+      "id": "4993710",
+      "time": "2026-07-17 14:35:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，收到阿曼哈薩布以東19海里處發生事故的報告。"
+    },
+    {
+      "id": "4993709",
+      "time": "2026-07-17 14:35:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌3%，現報1010.00元。"
+    },
+    {
+      "id": "mkt:019f6ec9-6a0e-7aab-8ddc-5a7564387e4c",
+      "time": "2026-07-17 14:35:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Japan & APAC",
+        "Star Stocks",
+        "JD.com",
+        "Hang Seng Index",
+        "Impact bullish",
+        "JD.O"
+      ],
+      "text": "【Michael Burry flags buy opportunities in Hong Kong stocks as AI halo fades】Michael Burry said on Friday investors should hunt for cheap opportunities in the Hong Kong market that could outperform once the halo around Korean and Japanese stocks and the iShares Semiconductor ETF cools. He also said earlier this month he increased his JD.com position. Morgan Stanley has likewise recommended overweighting Hong Kong equities, citing a supportive corporate earnings outlook."
+    },
+    {
+      "id": "4993708",
+      "time": "2026-07-17 14:34:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【股票私募倉位創近4年新高 超七成百億私募處於滿倉】私募排排網資料顯示，截至7月10日，股票私募倉位指數升至83.70%，較前一週提高0.15%，連續第三週加倉，創近四年以來新高。自5月15日以來，該指數累計提高3.61%。分佈來看，倉位超過80%的股票私募佔比為69.55%，倉位在50%至80%的佔比為18.78%。百億私募加倉更為明顯，倉位指數升至87.41%，單週提高3.35個百分點；其中72.57%的百億私募倉位超過80%，倉位在五成以上的合計佔比達96.32%。"
+    },
     {
       "id": "mkt:019f6ec8-1083-7aab-8ddc-53dd27b8d39f",
       "time": "2026-07-17 14:33:52",
@@ -70,6 +185,15 @@
         "國際"
       ],
       "text": "俄羅斯農業部長盧特：俄羅斯已收穫超過2100萬噸穀物。"
+    },
+    {
+      "id": "4993703",
+      "time": "2026-07-17 14:31:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【LV老闆被責令補稅】據中新經緯綜合外媒報道，在一場持續多年的法律訴訟後，法國首富、LVMH掌門人貝爾納·阿爾諾（Bernard Arnault）近日被法國當局責令補繳2250萬歐元（約合人民幣1.74億元）稅款。巴黎行政上訴法院近期一份裁決顯示，阿爾諾和他的夫人被要求向法國當局繳納2010年的1296萬歐元“額外繳款”，包括稅款、社會保險繳款、附加費和滯納金利息等。此外，阿爾諾夫婦還須補繳2012年至2015年間的法國財富團結稅，合計950萬歐元。阿爾諾方面在7月4日回應媒體說，他們將就法院裁決向法國最高行政法院提起上訴。彭博億萬富翁指數顯示，阿爾諾目前淨資產約為1650億美元，是法國和歐洲首富，以及全球第八大富豪。阿爾諾的發言人表示，LVMH是法國納稅最多的企業。該集團的整體業務還貢獻了逾1%的法國國內生產總值。LVMH財務總監在財報電話會上表示，該公司繳納的所得稅總額去年增至約55億歐元，比2024年增加逾3億歐元。"
     },
     {
       "id": "te:markets:567776",
@@ -174144,18 +174268,6 @@
         "Importance 1"
       ],
       "text": "France June Inflation Confirmed at 1.8% — The annual inflation rate in France eased to 1.8% in June 2026 from an over two-year high of 2.4% in May, confirming preliminary estimates. The slowdown was primarily driven by a sharp moderation in energy price growth (11.0% vs 16.6% in May), particularly for petroleum products. Services (1.9% vs 2.1%) and food (0.9% vs 1.1%) inflation also eased, while prices for manufactured goods fell at a faster pace (-1.1% vs -0.6%), partly reflecting calendar effects, as the June price collection period included three days of seasonal sales compared with none a year earlier. In contrast, tobacco inflation edged up to 3.3% from 3.2%. Core inflation slowed to 1.0% from 1.5%. On a monthly basis, consumer prices fell 0.3%, the first decline since January, driven by a sharp drop in energy prices, particularly petroleum products. The EU-harmonised CPI also rose 2.0% year-on-year, down from 2.8% in May, while falling 0.3% on the month."
-    },
-    {
-      "id": "te:markets:565931",
-      "time": "2026-07-10 14:37:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "ASX 200 Recovers on Mining Gains Despite Weekly Decline — The ASX 200 rose 44 points, or 0.5%, to close at 8,806 on Friday, snapping a four-session losing streak after a subdued start amid gains in miners, financials, and industrial stocks. Mining shares rallied as iron ore and copper prices strengthened, with heavyweight BHP Group, Rio Tinto, and Fortescue advancing between 2.0% and 3.8%. The big four banks added between 0.3% and 0.7%. However, the benchmark index lost 0.4% for the week, reversing the prior week's gains as investors turned cautious after the IMF cut its 2026 growth forecast for Australia to 1.9% from 2.0%, and warned that inflation is likely to remain elevated at around 4% this year. Looking ahead, investors will monitor key economic releases from China next week, including June trade figures, activity data, and second-quarter GDP, for clues on demand in Australia's largest export market. Locally, attention will also turn to July business and consumer confidence surveys, as well as consumer inflation expectations."
     }
   ]
 }
