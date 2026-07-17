@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-18 00:29:22",
-  "count": 18996,
+  "updated": "2026-07-18 00:33:29",
+  "count": 18992,
   "items": [
+    {
+      "id": "4994962",
+      "time": "2026-07-18 00:30:34",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國國債期貨下跌 據報美國向以色列增派數十架空中加油機】美國國債期貨下跌，收益率曲線延續平坦化勢頭。據報美國在可能升級軍事行動前夕向以色列增派數十架空中加油機。當天跌勢主要集中在收益率曲線前端，推動2年/10年期和5年/30年期國債收益率利差分別收窄約3個基點和2個基點，均觸及日內低點。美國2年期國債收益率較週四收盤上升約2個基點，而長期國債收益率則小幅下下跌。與美聯儲會期掛鉤的隔夜指數掉期(OIS)顯示，市場已計入7月會議約4個基點的加息溢價，與當天早些時候基本持平；市場預期到12月累計加息約30個基點，高於週四收盤時預估的27個基點。"
+    },
     {
       "id": "mkt:019f70e7-43f5-7aab-8de9-050a275c1146",
       "time": "2026-07-18 00:27:12",
@@ -175050,50 +175060,6 @@
         "國際"
       ],
       "text": "【SK海力士考慮“記憶體即服務”模式 或允許客戶租賃而非購買晶片】SK海力士正在考慮以新的方式銷售其記憶體晶片的使用權，包括所謂的“記憶體即服務”，這意味著客戶可以向這家韓國公司租用儲存資源，而無需購買晶片。“我們實際上可以提供其他商業模式，”SK集團會長崔泰源在接受採訪時表示。“我們可以成為儲存服務提供商，提供‘記憶體即服務’。未來，這實際上是我們可以關注的另一個領域。”崔泰源沒有具體說明這一商業模式將如何運作，並表示需要新的軟體提供支援。不過，目前已有科技公司採用“軟體即服務”等商業模式，允許客戶支付使用費來獲取軟體或算力，無需購買產品。崔泰源表示，推出這項新服務的目標是解決記憶體容量瓶頸。"
-    },
-    {
-      "id": "4981745",
-      "time": "2026-07-11 00:32:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“張雪機車”獲世界超級摩托車錦標賽多寧頓站杆位賽第7名】當地時間10日下午，在剛剛結束的2026世界超級摩托車錦標賽（WSBK）英國多寧頓站WorldSSP組別比賽中，中國摩托車製造商“張雪機車”車手瓦倫丁·德比斯位列超級杆位賽第7名。（央視新聞）"
-    },
-    {
-      "id": "4981744",
-      "time": "2026-07-11 00:32:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "Coinbase全球公司：使用者在檢視或接收預測市場派息通知時，可能會遇到延遲或效能下降問題。"
-    },
-    {
-      "id": "4981743",
-      "time": "2026-07-11 00:31:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗議員喬卡爾表示，支援美國政策的地區國家將付出 “沉重且無法挽回的代價”。霍爾木茲海峽若無法恢復戰前狀態，海峽管控將按照伊朗制定的相關安排執行。"
-    },
-    {
-      "id": "te:economy:566112",
-      "time": "2026-07-11 00:31:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Russia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Russia Inflation Rate Rises to 5-Month High — The headline inflation rate in Russia rose to 6.0% in June of 2026 from 5.3% in the previous month, the highest since January, and contrasting with most major economies that are seeing consumer inflation slow after the initial surge driven by the war in the Middle East. Inflation for motor gasoline was at 19.9% in the period, aligned with Russia's most aggressive fuel shortage since the end of the Soviet Union. The global supply shock due to export halts from the Middle East were magnified with a series of Ukrainian drone attacks on Russian refineries. In the meantime, inflation remained high for services at 10.6%. On the other hand, food inflation was low compared to other sectors of the economy, at 3.4%. From the previous month, the Russian CPI rose by 0.9%."
-    },
-    {
-      "id": "4981742",
-      "time": "2026-07-11 00:30:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：土耳其總統埃爾多安會見黎巴嫩總理。"
     }
   ]
 }
