@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-18 06:25:49_
-_本檔包含 4124 則快訊，約 717272 字_
+_更新時間：2026-07-18 07:31:28_
+_本檔包含 4113 則快訊，約 717965 字_
+
+---
+
+### 2026-07-16 21:45:42  #其他
+
+【中國無人車首入中亞 蘿蔔快跑駛入哈薩克】今天，在2026世界人工智慧大會（WAIC）召開前夕，中國無人駕駛出行服務平臺蘿蔔快跑與哈薩克企業 Turlov Private Holding Ltd.（TPH）在上海簽署戰略合作協議，雙方將共同探索在哈薩克引入無人車出行服務。這是中國無人車首次進入中亞市場。哈薩克副總理兼人工智慧與數字化發展部部長扎斯蘭·馬季耶夫出席並見證簽約儀式。（百度）
+
+---
+
+### 2026-07-16 21:45:39  #國際
+
+洛克希德・馬丁獲美國國防部價值 105 億美元、為期 12 年的美國特種作戰司令部合同。根據新合同，洛克希德·馬丁將為美國特種作戰司令部提供下一代後勤與維護保障服務。
+
+---
+
+### 2026-07-16 21:45:28  #公司 #市場
+
+【費城半導體指數跌3% 博通股價下跌3.6%】費城半導體指數跌3%，報12023.76點。英偉達股價下跌2.15%，臺積電股價下跌2.73%，博通股價下跌3.6%，SK海力士股價下跌7.63%，美光科技股價下跌3.84%，超威半導體股價下跌3.76%，阿斯麥股價上漲0.11%，英特爾股價下跌3.68%，泛林集團股價下跌2.92%，ARM股價下跌6.6%，閃迪股價下跌7.6%。
+
+---
+
+### 2026-07-16 21:45:18  #其他
+
+穆迪評級給予英偉達 B3 企業家族評級，展望穩定。
+
+---
+
+### 2026-07-16 21:45:13  #其他
+
+【原海通國際行政總裁林湧再度被免職】記者獲悉，7月初國泰海通證券內部發布的一則任免通知顯示，免去林湧政策與產業研究院高階研究員（中層正職級）職務。多位獨立訊息人士向記者證實了此訊息。據公開資訊，國泰海通政策與產業研究院為一級部門，隸屬於研究與機構業務委員會。一位接近國泰海通的人士對記者表示，近一年以來，林湧一直在內部擔任高階研究員，但保留了中層正職級的級別，此次免職雖然在意料之外，但也在情理之中。（21世紀經濟報道）
+
+---
+
+### 2026-07-16 21:44:57  #MKT News
+
+FBI: multiple agencies have seized more than 700 drones near World Cup stadiums.
+
+---
+
+### 2026-07-16 21:44:55  #Trading Economics #Markets #Commodity #Importance 0
+
+Silver Drops to Eight-Month Low on Rate Hike Fears — Silver plunged more than 3% to below $56 an ounce on Thursday, hitting its lowest level since November 2025, as escalating Middle East tensions drove oil prices higher and strengthened expectations that US interest rates will remain elevated. The latest escalation followed fresh US strikes on Iranian military targets and Tehran's retaliation against US bases in neighboring countries, raising concerns over the security of the Strait of Hormuz and lifting crude oil prices to one-month highs. Higher energy prices have reinforced expectations that the Federal Reserve will keep monetary policy tighter for longer, weighing on precious metals. Traders currently see about a 51% chance of a September rate hike, while softer-than-expected US inflation data has made a July increase unlikely, despite Fed Chair Kevin Warsh's commitment to bringing inflation under control.
+
+---
+
+### 2026-07-16 21:44:24  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Mastercard Stock Price Hits 22-week High — Mastercard shares increased to 544.10 USD, the highest since February 2026. Over the past 4 weeks, Mastercard gained 10.02%, and in the last 12 months, it decreased 2.38%.
+
+---
+
+### 2026-07-16 21:44:14  #國際
+
+美國聯邦調查局：美國機構在世界盃場地附近查獲了700多架無人機。
+
+---
+
+### 2026-07-16 21:43:01  #其他
+
+靛藍航空將於 7 月 23 日公佈第一季度業績。
+
+---
+
+### 2026-07-16 21:42:34  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Qualcomm Stock Price Hits 10-week Low — Qualcomm shares decreased to 171.25 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 19.85%, and in the last 12 months, it increased 11.36%.
+
+---
+
+### 2026-07-16 21:42:34  #Trading Economics #Markets #Commodity #Importance 1
+
+Gold Near Eight-Month Low as Oil Rally Lifts Rate Hike Bets — Gold prices fell toward $4,000 an ounce on Thursday, approaching their lowest level since November 2025, as escalating tensions in the Middle East drove oil prices higher and reinforced concerns that interest rates could remain elevated. The latest escalation followed fresh US strikes on Iranian military targets and Tehran's retaliation against US bases in neighboring countries, raising concerns over the security of the Strait of Hormuz and pushing crude oil prices to one-month highs. Higher energy prices have strengthened expectations that the Federal Reserve may need to keep monetary policy tighter for longer, reducing the appeal of non-yielding gold. Traders currently see about a 51% chance of a September rate hike. Meanwhile, softer-than-expected US inflation data released this week has largely ruled out a July increase, even as Fed Chair Kevin Warsh reaffirmed his commitment to bringing inflation under control.
+
+---
+
+### 2026-07-16 21:42:24  #MKT News #Important #Nasdaq100 #Impact bearish
+
+Nasdaq early-session losses widened to 1%.
+
+---
+
+### 2026-07-16 21:42:01  #市場 #焦點
+
+納指跌1.01%，現報26003.366點；道指漲0.09%，現報52703.871點；標普500指數跌0.42%，現報7540.490點。
+
+---
+
+### 2026-07-16 21:41:13  #市場
+
+Kraken交易所推出適用於比特幣（BTC）與以太幣（ETH）的全新期權合約套件。
+
+---
+
+### 2026-07-16 21:40:59  #MKT News
+
+【Ukraine parliament approves cabinet list submitted by new prime minister】On the 16th local time, the Verkhovna Rada approved core senior officials and ministerial nominees on a cabinet list submitted earlier by newly appointed Prime Minister Sergey Korletsky. Earlier the Rada had appointed Korletsky — formerly chairman of the board of Ukraine’s state oil and gas company — as prime minister.
+
+---
+
+### 2026-07-16 21:40:53  #公司 #國際
+
+【烏克蘭議會批准烏新任總理提交的內閣名單】當地時間16日，烏克蘭最高拉達（議會）透過有關決議，批准當天早些時候新任總理謝爾蓋·科列茨基提交的新一屆內閣多名核心高層及部長擬任人選。當天早些時候，烏最高拉達（議會）任命烏克蘭國家石油天然氣公司董事會主席謝爾蓋·科列茨基為總理。（央視新聞）
+
+---
+
+### 2026-07-16 21:40:18  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.14% Higher — The Dow Jones Index is up by 76 points or 0.14 percent on Thursday. Top gainers are UnitedHealth (8.74%), Coca-Cola (2.17%) and Home Depot (2.16%). Biggest losses came from IBM (-2.50%), Goldman Sachs (-2.37%) and Cisco Systems (-2.21%).
 
 ---
 
@@ -24680,179 +24788,5 @@ US Mortgage Applications Drop for 2nd Week — The volume of mortgage applicatio
 ### 2026-07-15 19:06:24  #Trading Economics #Economy #United States #Mortgage Rate #Importance 2
 
 US 30-Year Mortgage Rates Surge, Matching May Peak — The average US 30-year fixed mortgage rate for loans of up to $806,500 rose to 6.65% in the week ending July 10, 2026, from 6.58% a week earlier, matching the nine-month high reached in May, according to the Mortgage Bankers Association. The increase reflects a recent rise in US Treasury yields, fueled by persistent inflation concerns and growing expectations that the Federal Reserve could raise interest rates later this year, even as the labor market continues to show signs of gradual cooling. Higher borrowing costs weighed on mortgage demand, with total applications falling 2.7%, a second consecutive weekly decline. Purchase applications dropped 7.3%, signaling softer homebuying activity, while refinancing applications increased 3.5% as some homeowners took advantage of recent market movements.
-
----
-
-### 2026-07-15 19:04:55  #其他
-
-英國首相斯塔默：不會給伯納姆提供建議，只會全力支援他。
-
----
-
-### 2026-07-15 19:04:43  #公司
-
-【中賦科技：調整2025年度利潤分配預案 分紅總額增至1280.45萬元】中賦科技公告稱，公司於2026年7月15日召開董事會，審議透過調整2025年度利潤分配預案，原因是將2022年員工持股計劃第二個解鎖期未解鎖股份納入分配基數。調整後，以總股本562,276,116股扣減回購專用賬戶5,560,890股後的股份為基數，每10股派現金0.23元（含稅），共派1280.45萬元（含稅）。未解鎖480萬股紅利計入專戶，待處置股份時公司清算收回。預案尚需股東會審議。
-
----
-
-### 2026-07-15 19:04:13  #公司 #市場 #國際
-
-【中韓半導體ETF華泰柏瑞(513310)7月16日開市起至當日10:30停牌】中韓半導體ETF華泰柏瑞(513310)二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。 為保護投資者的利益，基金將於2026年7月16日開市起至當日10:30停牌。若基金午間收盤二級市場交易價格溢價幅度仍處於較高水平，基金有權向上海證券交易所申請2026年7月16日下午盤中臨時停牌至收盤的措施以向市場警示風險，具體以屆時公告為準。
-
----
-
-### 2026-07-15 19:03:30  #MKT News
-
-Per Al Jazeera, talks between Lebanon and Israel in Rome have ended.
-
----
-
-### 2026-07-15 19:02:56  #公司
-
-標準核能公司提交檔案，計劃透過首次公開募股發行1000萬股股票。擬定每股發行價15美元。
-
----
-
-### 2026-07-15 19:01:58  #公司 #市場
-
-【朗特智慧：預計2026年上半年淨利潤同比下降87.48%-91.65%】朗特智慧公告，預計2026年1月1日至2026年6月30日，營業收入約為7.44億元，較去年同期下降7.74%。歸屬於上市公司股東的淨利潤預計為480萬元–720萬元，較去年同期下降87.48%–91.65%。主要原因包括美元兌人民幣匯率持續下行導致的匯兌損失約3900萬元，行業競爭激烈及上游核心原材料採購價格上漲對盈利能力的影響，以及新增控股子公司優咖智慧科技（蘇州）有限公司的高研發投入和市場開拓費用。
-
----
-
-### 2026-07-15 19:01:43  #其他
-
-市場訊息：小鵬汽車計劃明年在全球範圍內推出人形機器人。
-
----
-
-### 2026-07-15 19:01:13  #其他
-
-市場訊息：THRUST CAPITAL PARTNERS 收購 ALPHACASTING。
-
----
-
-### 2026-07-15 19:00:47  #其他
-
-美資料中心運營商Switch據悉正籌備IPO，估值或達800億美元。
-
----
-
-### 2026-07-15 19:00:43  #MKT News #Market Themes #AI Revolution #XPEV.O #Impact bullish
-
-Sources said XPeng plans a global launch of a humanoid robot next year and aims to reach monthly production of more than 1,000 units by end-2026.
-
----
-
-### 2026-07-15 19:00:40  #公司 #市場
-
-【碩貝德：預計2026年上半年淨利潤同比下降19.48%—28.42%】碩貝德公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為2400萬元—2700萬元，同比下降19.48%—28.42%；扣除非經常性損益後的淨利潤為2400萬元—2700萬元，同比下降5.05%—15.60%。報告期內，受儲存器件漲價影響，部分終端客戶調整了專案需求；受原材料價格上漲影響，採購成本增加；部分新專案量產前投入增加，對本期業績造成一定影響。
-
----
-
-### 2026-07-15 19:00:21  #國際
-
-美國MBA抵押貸款申請指數上週下降2.7%。
-
----
-
-### 2026-07-15 19:00:09  #MKT News #Macro & Rates #US10Y #Impact bearish
-
-US 30-year fixed mortgage rate (MBA) for week to July 10 rose to 6.65% from 6.58%.
-
----
-
-### 2026-07-15 19:00:07  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
-
-U.S. MBA mortgage purchase index for week ended July 10: 157.2, down from 169.5 prior.
-
----
-
-### 2026-07-15 19:00:07  #MKT News
-
-US MBA mortgage applications index for the week ended July 10 fell to 259.1 from 266.3 the prior week.
-
----
-
-### 2026-07-15 19:00:07  #MKT News #Macro & Rates #US Economy #XAUUSD #Impact bullish #S&P500 #DXY #Impact bearish
-
-US MBA mortgage refinance index for week ended July 10: 821.9 (prior 794.4).
-
----
-
-### 2026-07-15 19:00:03  #其他
-
-【局地40℃以上 湖北釋出高溫橙色預警】湖北省氣象臺2026年7月15日15時6分繼續釋出高溫橙色省級預警：預計16日白天，十堰、襄陽、恩施東部、宜昌、隨州、荊門、荊州、孝感、天仙潛、武漢、鄂州、黃岡、黃石、咸寧最高氣溫將升至37℃以上，其中十堰、襄陽、恩施、宜昌、武漢、咸寧局地40℃以上，請注意防範。（央視新聞）
-
----
-
-### 2026-07-15 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA 30-Year Mortgage Rate (Jul.10) | actual 6.65% | previous 6.58%
-
----
-
-### 2026-07-15 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Refinance Index (Jul.10) | actual 821.9 | previous 794.4
-
----
-
-### 2026-07-15 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Purchase Index (Jul.10) | actual 157.2 | previous 169.5
-
----
-
-### 2026-07-15 19:00:00  #MKT News #Economic Calendar #Important
-
-United States | MBA Mortgage Applications Composite Index (Jul.10) | actual 259.1 | previous 266.3
-
----
-
-### 2026-07-15 18:59:20  #公司
-
-【朗新科技：控股股東及實控人變更，徐長軍與無錫樸華合計持股15.27%】朗新科技公告，因公司原實際控制人之一鄭新標達到法定退休年齡並已辦理退休及不再擔任董事、高管職務，經協商，徐長軍與鄭新標於2026年7月15日簽署《一致行動關係解除協議》，解除一致行動關係；同時，無錫樸華、無錫群英與各員工持股平臺也簽署了相關解除協議。本次解除後，公司控股股東由無錫樸華、無錫群英變更為無錫樸華，實際控制人由徐長軍、鄭新標變更為徐長軍。徐長軍及其作為普通合夥人控制的無錫樸華合計持有上市公司15.27%的股份。
-
----
-
-### 2026-07-15 18:59:17  #公司
-
-【科源製藥：股東濟南安富、問澤鴻擬分別減持0.57%和3%】科源製藥公告，股東濟南安富創業投資合夥企業（有限合夥）計劃自本公告披露之日起十五個交易日後的三個月內以集中競價方式減持公司股份不超過61.29萬股，佔公司總股本0.57%；股東問澤鴻擬以集中競價方式和大宗交易方式合計減持公司股份不超過324.87萬股，佔公司總股本3.00%。
-
----
-
-### 2026-07-15 18:59:14  #公司
-
-【海泰新光：擬以5000萬元-1億元回購公司股份】海泰新光公告，擬以5000萬元-1億元回購公司股份，回購價格不超過166元/股。
-
----
-
-### 2026-07-15 18:59:04  #國際
-
-交易商稱，臺灣麵粉廠透過招標購買約98,150公噸美國產小麥。
-
----
-
-### 2026-07-15 18:58:34  #其他
-
-NICHIREI：受停電影響的冷凍食品出貨。
-
----
-
-### 2026-07-15 18:58:28  #其他
-
-【中國與奈米比亞簽署共同發展經濟夥伴關係框架協定】近日，商務部部長王文濤與奈米比亞國際關係與貿易部部長穆薩維伊在北京簽署《中華人民共和國政府和奈米比亞共和國政府共同發展經濟夥伴關係框架協定》。（商務部）
-
----
-
-### 2026-07-15 18:58:04  #MKT News
-
-【China, Namibia sign framework agreement to jointly develop economic partnership】China and Namibia signed a government-level framework agreement in Beijing to jointly develop an economic partnership. The pact was signed by MOFCOM minister RAIMONDO and Namibia's minister of International Relations and Trade, Musavayi.
-
----
-
-### 2026-07-15 18:57:31  #MKT News #Market Themes #AI Revolution
-
-【Hy3 first-week invocations >68x Hy2】Company PR director Zhang Jun said Hy3’s total invocations in its first week exceeded more than 68 times those of prior-generation model Hy2. Hy3’s uptake is accelerating versus its preview release, showing a steeper growth slope.
 
 ---

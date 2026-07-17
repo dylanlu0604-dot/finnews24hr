@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-18 06:25:49_
-_本檔包含 3398 則快訊，約 717168 字_
+_更新時間：2026-07-18 07:31:28_
+_本檔包含 3387 則快訊，約 717299 字_
+
+---
+
+### 2026-07-13 19:04:06  #公司
+
+【華鋒股份：預計上半年淨利潤虧損1940萬元-2760萬元】華鋒股份公告，預計2026年上半年淨利潤虧損1940萬元-2760萬元，上年同期虧損739.64萬元。報告期內，公司上半年淨利潤虧損較上年同期進一步擴大，主要系新能源事業部毛利率下降所致。一方面，公司新能源事業部產品結構調整，導致新能源事業部營業收入及毛利同步下滑；另一方面，公司新能源產品售後三包費用同比有所增加。
+
+---
+
+### 2026-07-13 19:04:02  #公司
+
+【盈方微：預計2026年上半年淨虧損1500萬元至2300萬元】盈方微公告，預計2026年1月1日至2026年6月30日，歸屬於上市公司股東的淨虧損為1500萬元至2300萬元，上年同期為淨虧損3229.66萬元。扣除非經常性損益後的淨虧損為1474萬元至2274萬元，上年同期為淨虧損3237.56萬元。報告期內，公司營業收入增長，主要系公司緊抓電子元器件市場需求機遇，持續深化與上游原廠合作，大力拓展下游各應用領域市場，從而帶動分銷業務收入提升。報告期內，公司歸屬於母公司所有者的淨利潤為負，但虧損有所收窄，主要系公司營業收入增長拉動毛利增長，且管理費用、銷售費用當期均較上年同期小幅下降。
+
+---
+
+### 2026-07-13 19:04:02  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Closes Marginally Higher — India’s BSE Sensex erased early losses to close marginally up at 77,616 on Monday, marking the third session of advances, as tech strength helped offset concerns over renewed hostilities in the Middle East. Foreign inflows also supported the market, with overseas investors purchasing INR 26.04 billion worth of Indian equities on Friday. Buying interest in IT stocks was boosted after Tata Consultancy Services (+5.4%) announced a multi-million-dollar deal with ABB to transform global network operations using AI. The optimism was reinforced by the company’s better-than-expected earnings growth reported last week. HCL Tech surged 5% ahead of its earnings release, with Tech Mahindra (3.3%) and Infosys (3.2%) also advancing firmly. On the other hand, metals. FMCG and pharma stocks faced selling pressure. Tata Steel led losses among stocks, dropping 2.1%, followed by Eternal (-1.6%), IndiGo (-1.3%), Maruti (-1.1%), UltraTech Cement (-1.1%) and BEL (-1%).
+
+---
+
+### 2026-07-13 19:03:53  #公司
+
+【科華資料：預計上半年淨利潤同比增長50%-60%】科華資料公告，預計2026年上半年淨利潤為3.65億元–3.9億元，比上年同期增長50%-60%。公司業績上升主要由於國際化發展戰略成效顯著，以及出售控股子公司廣東科雲辰航計算科技有限責任公司80%股權所產生的收益。
+
+---
+
+### 2026-07-13 19:03:50  #公司 #市場 #國際
+
+【多家頭部量化機構回應“韓國因子”傳言：行業極少使用韓國資料】受外圍股市波動、科技資產階段性止盈壓力有所顯現等因素疊加影響，7月13日，A股市場在經歷了上週五的調整之後，再次震盪走弱。13日盤後，一則關於“A股的量化策略早已將韓國科技股走勢納入因子模型，並在A股市場內部引發不同科技板塊連鎖反應”的市場傳聞，在業內廣泛傳播。對此，記者向多家頭部量化私募機構進行了採訪求證。某規模超200億元的量化私募創始人對記者表示：“從行業層面看，國內頭部量化機構極少會使用韓國資料來挖掘因子，這種所謂傳聞純屬外行‘小作文’。今天量化行業也是普遍大虧，我盤後瞭解到，大部分同行今天的超額收益都是負數。”對於今天市場的下跌原因，上述私募人士認為：“市場漲多了就會跌，跌多了就會漲，不應當有‘陰謀論’”。另一家百億級量化私募總經理則回應稱，上述傳聞並不公允，“假如量化機構完全依據海外科技股的漲跌來進行交易，長期必然會是負超額，大部分量化機構不會這麼做。量化行業總體還是透過尋找並持有優質公司來獲取超額。”此外，一家以量化中性為特色的知名量化私募創始人也對記者表示，“這種說法完全沒道理”。近幾天A股的調整更多是全球市場的相關性體現，以及前期科技資產擁擠度偏高所導致。該私募人士進一步強調，目前A股主要權重指數估值合理，後續市場進一步調整空間有限。 (中國證券報)
+
+---
+
+### 2026-07-13 19:03:44  #公司
+
+【山東礦機：預計2026年上半年淨利潤同比下降95.12%～92.79%】山東礦機公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為480萬元至710萬元，比上年同期下降95.12%～92.79%；扣除非經常性損益後的淨利潤為400萬元至580萬元，比上年同期下降86.52%～80.45%。基本每股收益為0.0027元至0.004元/股，上年同期為0.0552元/股。業績變動的主要原因：一是市場競爭加劇，銷售收入下滑，導致本期利潤同比下降；二是去年同期公司收到內蒙古津粵能源集團有限責任公司欠付公司的6840萬元資金佔用費；三是本期投資收益及理財收益，較上年同期有所減少。
 
 ---
 
@@ -20441,126 +20477,5 @@ Axios reported President Trump met with the Saudi crown prince on Friday to disc
 ### 2026-07-11 07:38:28  #Trading Economics #Economy #Zambia #Government Bond 10Y #Importance 0
 
 Zambia 10Y Bond Yield Hits 9-year Low — Zambia 10 Year Government Bond Yield decreased to 16.83%, the lowest since May 2017. Over the past 4 weeks, Zambia Government Bond 10y lost 1.00 basis points, and in the last 12 months, it decreased 270.00 basis points.
-
----
-
-### 2026-07-11 07:15:53  #其他
-
-市場訊息：紐約市已就曼哈頓一棟出現牆體變形的高層樓宇展開調查。
-
----
-
-### 2026-07-11 07:12:20  #其他
-
-市場訊息：Meta在遭遇多日反對聲音後暫停AI影象功能。
-
----
-
-### 2026-07-11 07:09:28  #宏觀
-
-除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
-1、加快推進高水平科技自立自強——論學習貫徹習近平總書記在國家科學技術獎勵大會、兩院院士大會、中國科協十一大上重要講話
-2、凝聚起建設科技強國的強大合力——習近平總書記在國家科學技術獎勵大會、兩院院士大會、中國科協十一大上重要講話鼓舞科技工作者勇攀高峰
-3、全國夏糧產量首超3000億斤 比上年增長0.7%，22個夏糧產區增產
-4、第九屆進博會推介會在泰國舉行；
-5、肖捷強調 以法治力量保障旅遊業高質量發展
-6、張慶偉強調 不斷提升旅遊業發展法治化水平
-7、四部門印發意見 加快推進“人工智慧+人社”應用發展
-8、《能源領域節能降碳行動計劃（2026—2028年）》釋出 到2028年非化石能源消費比重年均提升約1個百分點
-9、6G：構築未來世界的神經網路（院士講科普·未來產業）
-10、中國超算重回世界第一，意味著什麼
-11、美髮射商業航天器抬昇天文衛星軌道
-12、一張“摺紙”攻克電子器件高溫難題
-
----
-
-### 2026-07-11 07:09:21  #宏觀 #焦點
-
-今天《人民日報》頭版的主要內容有：
-1、習近平同奈米比亞總統恩代特瓦會談
-2、習近平會見朝鮮內閣總理樸泰成
-3、李強主持召開國務院常務會議 進一步部署防汛抗洪救災工作 聽取數字中國建設情況彙報 聽取現代流通體系建設進展情況彙報 研究新興支柱產業培育有關工作 研究自然資源保護利用有關工作 審議透過《全民健身計劃（2026—2030年）》
-4、趙樂際分別會見奈米比亞總統恩代特瓦、朝鮮內閣總理樸泰成
-5、王滬寧出席建設現代化產業體系調研協商座談會
-6、中央層面整治形式主義為基層減負專項工作機制會議在京召開 蔡奇出席並講話
-
----
-
-### 2026-07-11 06:57:43  #其他
-
-加拿大：戈登・豪國際大橋（美加邊境大橋）定於 7 月 27 日正式通車。
-
----
-
-### 2026-07-11 06:55:47  #國際
-
-【俄稱在紅利曼方向繼續推進 烏稱打擊俄船隻及能源設施】俄羅斯國防部10日通報稱，俄軍過去一週對烏克蘭軍工企業、燃料能源設施及烏軍實施了一次密集打擊和六次叢集打擊。俄軍控制7個居民點，在紅利曼方向繼續排雷和搜尋清除剩餘烏軍人員，並向西推進。俄國防部還稱，10日在多個州及黑海水域上空攔截、摧毀了144架烏固定翼無人機。
-烏克蘭武裝部隊總參謀部10日通報稱，當天凌晨烏軍對俄羅斯境內及被俄方控制地區的多處目標實施打擊。據烏軍釋出的訊息，遭到打擊的目標包括煉油廠、石油終端、油庫、天然氣凝析油加工企業，以及包括油輪在內的共18艘船隻。（央視新聞）
-
----
-
-### 2026-07-11 06:45:17  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Increases by 2.76% — Top crypto gainers are Ether (2.76%), Bitcoin (1.38%) and Binance (1.27%).
-
----
-
-### 2026-07-11 06:41:03  #國際
-
-市場訊息：沙特王儲與特朗普就地區最新局勢交換意見，其中涵蓋美伊談判相關事宜。
-
----
-
-### 2026-07-11 06:40:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Cocoa Slumps by 7.46% — Top commodity losers are Cocoa (-7.46%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (2.40%) and Barley (2%).
-
----
-
-### 2026-07-11 06:35:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Metals Commodities Updates: Lithium Carbonate Falls by 2.21% — Top commodity losers are Lithium Carbonate (-2.21%) and Gold (-0.06%). Gains are led by Silicon (0.84%), Iron Ore CNY (0.80%) and Platinum (0.52%).
-
----
-
-### 2026-07-11 06:30:16  #Trading Economics #Markets #Commodity #Importance 1
-
-Energy Commodities Updates: Natural Gas UK Drops by 3.70% — Top commodity losers are Natural Gas UK (-3.70%), Natural Gas EU (-3.58%), Germany Natural Gas THE (-2.65%), Crude Oil WTI (-0.79%) and Brent Crude Oil (-0.39%). Gains are led by Ethanol (1.42%).
-
----
-
-### 2026-07-11 06:29:35  #其他
-
-OPENAI：我們仍專注於打造創新技術。
-
----
-
-### 2026-07-11 06:29:22  #國際
-
-巴基斯坦外交部發言人：巴基斯坦代表團團長、商務部長賈瓦德・保羅稱此次會談進展積極。
-
----
-
-### 2026-07-11 06:28:19  #國際
-
-巴基斯坦外交部發言人：7 月 9 日至 10 日，巴美互惠貿易協定相關談判於華盛頓舉行。
-
----
-
-### 2026-07-11 06:28:00  #公司 #焦點 #國際
-
-OPENAI：我們對其他公司的商業秘密不感興趣。
-
----
-
-### 2026-07-11 06:27:31  #Trading Economics #Markets #India #Earnings #Importance 0
-
-Tata Consultancy earnings above expectations at 38.30 INR — Tata Consultancy (TCS) released earnings per share at 38.30 INR, compared to market expectations of 37.27 INR.
-
----
-
-### 2026-07-11 06:27:15  #公司 #市場
-
-【Elliott據悉已成為軟體公司CCC的大額投資方‌】Elliott投資管理公司已在正探索潛在出售方案的CCC智慧解決方案控股公司中積累了大額股份。目前Elliott的投資規模尚未對外披露，CCC的相關磋商仍處於早期階段，最終能否達成出售交易尚無定論。CCC主營車險行業軟體，用於輔助處理車險理賠與車輛維修相關業務，其股價在紐約週五交易中上漲10%，收於5.92美元。
 
 ---

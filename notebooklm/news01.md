@@ -1,7 +1,204 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-18 06:25:49_
-_本檔包含 3770 則快訊，約 717471 字_
+_更新時間：2026-07-18 07:31:28_
+_本檔包含 3780 則快訊，約 718396 字_
+
+---
+
+### 2026-07-18 07:28:26  #公司
+
+【思朗科技攜自研“天穹”3D科學計算機、超智融合一體化平臺等亮相世界人工智慧大會】2026世界人工智慧大會7月17日至7月20日在上海舉行，思朗科技攜自研“天穹”3D科學計算機、超智融合一體化平臺及UCP系列通訊基帶晶片等產品亮相展區。相較於傳統超算與智算中心，“天穹” 的核心價值在於專為AI4S（科學智慧）量身定製。依託“天穹”3D科學計算機的算力優勢，公司深度參與上海人工智慧實驗室 “超智融合算力平臺” 建設，推動科學計算與智慧計算資源協同、資料互通、模型共用。
+
+---
+
+### 2026-07-18 07:24:31  #國際
+
+【伊稱美軍對霍爾木茲甘省的襲擊已致3人死亡】伊朗霍爾木茲甘省副省長18日表示，截至目前，美軍當天對該省部分地區發動的襲擊已造成3人死亡，8人受傷。（央視新聞）
+
+---
+
+### 2026-07-18 07:23:23  #宏觀
+
+【經濟日報：如何化解“車大位小”困局】近期，不少車主反映遭遇了“車大位小”的停車難題，想停進車位不容易，想開關車門也不方便。經濟日報刊文指出，化解“車大位小”困局，當務之急是統一標準、明確底線。目前，國內公共停車位的建設寬度尺寸主要是依據住建部2015年印發的《車庫建築設計規範》，該規範設計的小型車標準車位寬度僅為2.4米，而當前主流新能源SUV車身寬度普遍接近2米，兩車並排後剩餘空間極為有限。同時，該標準為推薦性標準，實際執行中常被打折扣。2024年，住建部已啟動《城市停車專項規劃標準》起草工作，新標準將更加強調車位對新能源汽車的適配性。在標準修訂過程中，應充分徵求各方意見，對新建專案設定硬性底線，對存量改造給予彈性空間。化解“車大位小”困局，還需系統統籌，推進長短期綜合施策。短期來看，可對具備條件的車位進行改造，滿足大車的停車需求。長期來看，推動城市規劃、住建、交通等部門建立協同機制，將車位配建標準納入土地出讓條件、專案驗收等硬約束。同時，在汽車生產和推介過程中，應進一步最佳化產品設計，強化輿論引導，破除“車大即高階”的片面認知，為消費者提供尺寸更合理、效能更均衡的汽車產品。
+
+---
+
+### 2026-07-18 07:21:47  #其他
+
+【深圳市解除所有暴雨預警訊號和雷電預警訊號】雷暴雲團已減弱，強降雨趨於結束，深圳市氣象臺2026年07月18日07時20分解除所有暴雨預警訊號和全市雷電預警訊號，市民仍需注意遠離河道和危險邊坡等。
+
+---
+
+### 2026-07-18 07:20:25  #國際
+
+【伊朗革命衛隊稱攔停透過霍爾木茲海峽的4艘違規船隻】伊朗伊斯蘭革命衛隊海軍司令部當地時間18日釋出宣告稱，過去數小時內，4艘在美軍支援下企圖透過霍爾木茲海峽的違規船隻，被伊朗方面透過一次導彈和無人機聯合行動全部攔停。革命衛隊海軍鄭重宣告，船隻所有者應重視革命衛隊海軍釋出的警告和宣告。（央視新聞）
+
+---
+
+### 2026-07-18 07:12:22  #其他
+
+法官暫停探視被軟禁的博索納羅。
+
+---
+
+### 2026-07-18 07:12:12  #國際
+
+美國稱伊朗向沙烏地阿拉伯境內的美軍基地發射導彈。
+
+---
+
+### 2026-07-18 07:10:53  #國際
+
+伊朗媒體援引當地官員訊息稱，霍爾木茲甘省遭“敵方”襲擊，造成3人死亡、8人受傷。
+
+---
+
+### 2026-07-18 07:10:31  #觀點
+
+【人民日報和音：攜手推動全球人工智慧發展向上向善、造福人類】人民日報刊文指出，今年是中國“十五五”開局之年，中國發展的新藍圖，也是全球合作的新機遇。為進一步支援全球人工智慧發展、推進全球人工智慧能力建設，未來5年，中國將面向發展中國家提供5000個人工智慧專題研修培訓名額；面向東盟、阿盟、非盟、拉共體、上合組織、金磚國家建設國際人工智慧應用合作中心；推動氣象智慧預警方案“媽祖”在30個國家落地應用，守望萬家燈火，護佑四海安瀾。中方上述舉措將為全球南方國家加強能力建設、促進可持續發展注入新動力。 單絃不成音，獨木不成林。人工智慧發展不應該是某個國家的獨奏，而應當是全球合作的交響。中國願以更加開放的姿態、更加務實的行動、更加長遠的目光，同各方一道把握和應對人工智慧發展的機遇和挑戰，攜手共創人類社會更加美好的未來。
+
+---
+
+### 2026-07-18 07:09:27  #宏觀
+
+除了頭版內容，今天《人民日報》涉及財經的主要內容還包括：
+1、攜手構建公正合理的全球人工智慧治理體系——在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上的主旨講話（2026年7月17日，上海）
+2、二〇二六世界人工智慧大會暨人工智慧全球治理高階別會議主席宣告
+3、攜手推動全球人工智慧發展向上向善、造福人類（和音）
+4、《人工智慧合作發展行動計劃》釋出
+5、《國際人工智慧倫理治理行動計劃》釋出
+6、《智慧體互信互聯互操作全球合作倡議》釋出
+7、宏觀政策靠前發力應對有力（年中經濟觀察）
+8、上半年高技術服務業和高技術製造業外資流入規模增長超六成 外資對我國投資總體表現向好（權威釋出）
+9、何立峰在內蒙古調研時指出 高質量建設自貿試驗區 加快構建向北開放重要橋頭堡
+10、貴州“超碳一號”專案穩定執行半年多——工業廢熱變身清潔電能（探訪）
+11、電池消費稅政策將分步調整
+12、鐵路部門試點提前60天預約購票服務
+13、我國光熱發電裝機規模居全球第二
+14、《招標投標領域信用管理暫行辦法》印發
+15、《稅務行政處罰裁量基準》公開徵求意見
+
+---
+
+### 2026-07-18 07:09:24  #宏觀 #焦點
+
+今天《人民日報》頭版的主要內容有：
+1、習近平出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話
+2、習近平對重慶彭水縣山體崩塌作出重要指示強調 科學組織搜救 加強監測預警和巡查排險 切實保障人民群眾生命財產安全 李強作出批示
+3、習近平會見泰國總理阿努廷
+4、習近平會見柬埔寨首相洪瑪奈
+5、習近平會見聯合國秘書長古特雷斯
+
+---
+
+### 2026-07-18 07:08:46  #市場 #焦點
+
+暗盤白銀突破53美元/盎司 日內漲幅1264%。
+
+---
+
+### 2026-07-18 07:08:46  #市場 #焦點
+
+暗盤白銀（人民幣）突破11元/克 日內漲幅1264%。
+
+---
+
+### 2026-07-18 07:02:35  #其他
+
+【沙特向多地釋出安全預警】沙特民防部門稱，當地時間今天（7月18日）凌晨，向阿爾卡吉、延布等地區釋出預警，提醒當地民眾注意“潛在危險”。據稱目前延布的警報已解除。（CCTV國際時訊）
+
+---
+
+### 2026-07-18 07:02:20  #市場 #國際
+
+【7月18日隔夜要聞一覽】
+1、伊朗伊斯蘭革命衛隊當地時間18日釋出宣告稱，數小時前，兩艘油輪試圖穿越霍爾木茲海峽南部雷區，隨後發生爆炸並引發大面積火災。革命衛隊海軍鄭重宣告，霍爾木茲海峽目前處於極度危險狀態並已完全關閉。
+2、當地時間7月17日，美國中央司令部表示，美軍於美東時間當天下午3時對伊朗啟動新一輪打擊，這是美軍連續第七晚發動空襲。
+3、美國總統特朗普發文指責加拿大維護森林不善，給美國帶來“數十億美元”損失。他表示當天將就此致電加拿大總理，並威脅說美方損失必須加到加拿大支付的關稅上。
+4、當地時間17日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊表示，美國違反了美伊諒解備忘錄的條款，如今這份備忘錄已名存實亡。
+5、美國國防部最新公佈的資料顯示，自本週一以來，又有13名美軍人員在對伊朗作戰中受傷。
+6、數名來自美國和以色列的訊息人士稱，美國政府已“通知”以色列，將向以色列增派數十架空中加油機，後續可能擴大對伊朗的軍事行動。訊息同時指出，以總理內塔尼亞胡將對此作出最終決定。
+7、Meta正與Anthropic展開初步磋商，擬向後者出租其資料中心的算力。這項合作將為時兩年，價值最高可達100億美元。
+8、WTI原油期貨結算價收報82.49美元/桶，漲幅為4.48%，本週累計上漲14.35%。布倫特原油期貨結算價收報88.10美元/桶，漲幅4.59%，本週累計上漲15.91%。
+9、阿斯麥控股將於2027年1月1日向全球員工發放一次性2萬歐元（約合22862美元）獎勵，前提是員工在整個歸屬期內持續任職，該獎勵將於2030年初完成歸屬。
+
+---
+
+### 2026-07-18 06:56:33  #其他
+
+沙特民防部門表示，已向延布釋出預警，提醒防範潛在危險。此後不久，沙特民防部門表示，延布的危險已經解除。
+
+---
+
+### 2026-07-18 06:50:00  #市場 #國際
+
+【中東地區軍事衝突持續 國際油價17日上漲超4%】由於中東地區軍事衝突持續，國際原油期貨價格17日盤中震盪走高，收盤時漲幅超4%，紐約原油期貨主力合約價格在過去一個月來首次站上每桶80美元。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲3.54美元，收於每桶82.49美元，漲幅為4.48%；9月交貨的倫敦布倫特原油期貨價格上漲3.87美元，收於每桶88.10美元，漲幅為4.59%。（央視新聞）
+
+---
+
+### 2026-07-18 06:46:17  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+Iran's Islamic Revolutionary Guard Corps (IRGC) said four "violating" oil tankers attempting to transit the Strait of Hormuz were intercepted in a combined missile-and-drone operation.
+
+---
+
+### 2026-07-18 06:45:21  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #S&P500 #Impact bearish
+
+【IRGC says two tankers exploded, caught fire in southern Strait of Hormuz】The Islamic Revolutionary Guard Corps said on the 18th that two oil tankers exploded and caught fire while transiting a mined area in the southern Strait of Hormuz. The IRGC said the Strait is "completely closed" because of recent US military actions and that oil and gas shipments cannot transit until the US halts its operations, warning vessels to avoid the mined area. The statement gave no details on the tankers' nationality, casualties or damage.
+
+---
+
+### 2026-07-18 06:44:58  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Depreciates by 1.41% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.41% decrease.
+
+---
+
+### 2026-07-18 06:42:31  #國際
+
+市場訊息：伊朗革命衛隊表示，在導彈與無人機聯合行動中，四艘試圖透過霍爾木茲海峽的“違規”油輪已被當場截停。
+
+---
+
+### 2026-07-18 06:39:58  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Cocoa Rises by 4.63% — Top commodity gainers are Cocoa (4.63%) and Coffee (2.74%). Biggest losers are Oat (-1.30%), Rubber (-1.23%) and Cotton (-0.90%).
+
+---
+
+### 2026-07-18 06:39:51  #國際
+
+【伊朗革命衛隊：兩艘油輪在霍爾木茲海峽爆炸起火】伊朗伊斯蘭革命衛隊18日釋出宣告說，兩艘油輪在透過霍爾木茲海峽南部一處佈雷區域時發生爆炸並引發大火。宣告強調，受美國近期軍事行動影響，霍爾木茲海峽已“完全關閉”，在美國停止其對伊軍事行動前，該海峽無法進行石油和天然氣運輸，船隻應避免進入佈雷區域。宣告沒有說明兩艘油輪的國籍、人員傷亡及損失情況。（新華社）
+
+---
+
+### 2026-07-18 06:38:47  #公司 #國際
+
+市場訊息： 本田社長表示，公司正選址新建美國生產基地。
+
+---
+
+### 2026-07-18 06:35:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Drops by 2.37% — Top commodity losers are Platinum (-2.37%), Silicon (-1.31%) and Copper (-1.25%). Gains are led by Gold (1.03%), Silver (0.73%) and Lithium Carbonate (0.66%).
+
+---
+
+### 2026-07-18 06:33:52  #國際
+
+美國地質調查局（USGS）：墨西哥馬德羅港西南 79 公里處發生 5.0 級地震。
+
+---
+
+### 2026-07-18 06:30:18  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas EU Soars by 7.28% — Top commodity gainers are Natural Gas EU (7.28%), Natural Gas UK (6.02%), Brent Crude Oil (4.58%) and Crude Oil WTI (4.46%). Biggest loser is Methanol (-1.26%).
+
+---
+
+### 2026-07-18 06:29:54  #其他
+
+市場訊息：OpenEvidence考慮按200億美元估值融資2億美元。
 
 ---
 
@@ -22660,113 +22857,5 @@ XPeng Group (09868.HK) launched its MONAL03 model, priced from 123,800 yuan.
 ### 2026-07-16 21:46:33  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
 
 Ibovespa Falls on New US Tariffs — The Ibovespa fell nearly 1% to hover around 174,500 on Thursday after the US announced a new 25% tariff on Brazilian imports. According to the announcement, the new tariff will take effect on July 22th. Vale fell more than 1%, while steelmakers also posted losses, with Gerdau and CSN shedding more than 1% each. However, products including beef, coffee, rare earths, energy products, aircraft, and aircraft parts will be exempt from the tariff. Petrobras gained more than 0.5%, also supported by higher oil prices, while Embraer and Minerva were little changed. Meanwhile, the conflict in the Middle East pushed oil prices higher on supply concerns, fueling inflation worries. Bond yields moved higher, weighing on financials and the broader market. Itaú and Bradesco lost about 0.5%, while B3 tumbled more than 2%. Utilities also traded lower, with Axia and Sabesp down about 1%.
-
----
-
-### 2026-07-16 21:45:42  #其他
-
-【中國無人車首入中亞 蘿蔔快跑駛入哈薩克】今天，在2026世界人工智慧大會（WAIC）召開前夕，中國無人駕駛出行服務平臺蘿蔔快跑與哈薩克企業 Turlov Private Holding Ltd.（TPH）在上海簽署戰略合作協議，雙方將共同探索在哈薩克引入無人車出行服務。這是中國無人車首次進入中亞市場。哈薩克副總理兼人工智慧與數字化發展部部長扎斯蘭·馬季耶夫出席並見證簽約儀式。（百度）
-
----
-
-### 2026-07-16 21:45:39  #國際
-
-洛克希德・馬丁獲美國國防部價值 105 億美元、為期 12 年的美國特種作戰司令部合同。根據新合同，洛克希德·馬丁將為美國特種作戰司令部提供下一代後勤與維護保障服務。
-
----
-
-### 2026-07-16 21:45:28  #公司 #市場
-
-【費城半導體指數跌3% 博通股價下跌3.6%】費城半導體指數跌3%，報12023.76點。英偉達股價下跌2.15%，臺積電股價下跌2.73%，博通股價下跌3.6%，SK海力士股價下跌7.63%，美光科技股價下跌3.84%，超威半導體股價下跌3.76%，阿斯麥股價上漲0.11%，英特爾股價下跌3.68%，泛林集團股價下跌2.92%，ARM股價下跌6.6%，閃迪股價下跌7.6%。
-
----
-
-### 2026-07-16 21:45:18  #其他
-
-穆迪評級給予英偉達 B3 企業家族評級，展望穩定。
-
----
-
-### 2026-07-16 21:45:13  #其他
-
-【原海通國際行政總裁林湧再度被免職】記者獲悉，7月初國泰海通證券內部發布的一則任免通知顯示，免去林湧政策與產業研究院高階研究員（中層正職級）職務。多位獨立訊息人士向記者證實了此訊息。據公開資訊，國泰海通政策與產業研究院為一級部門，隸屬於研究與機構業務委員會。一位接近國泰海通的人士對記者表示，近一年以來，林湧一直在內部擔任高階研究員，但保留了中層正職級的級別，此次免職雖然在意料之外，但也在情理之中。（21世紀經濟報道）
-
----
-
-### 2026-07-16 21:44:57  #MKT News
-
-FBI: multiple agencies have seized more than 700 drones near World Cup stadiums.
-
----
-
-### 2026-07-16 21:44:55  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Drops to Eight-Month Low on Rate Hike Fears — Silver plunged more than 3% to below $56 an ounce on Thursday, hitting its lowest level since November 2025, as escalating Middle East tensions drove oil prices higher and strengthened expectations that US interest rates will remain elevated. The latest escalation followed fresh US strikes on Iranian military targets and Tehran's retaliation against US bases in neighboring countries, raising concerns over the security of the Strait of Hormuz and lifting crude oil prices to one-month highs. Higher energy prices have reinforced expectations that the Federal Reserve will keep monetary policy tighter for longer, weighing on precious metals. Traders currently see about a 51% chance of a September rate hike, while softer-than-expected US inflation data has made a July increase unlikely, despite Fed Chair Kevin Warsh's commitment to bringing inflation under control.
-
----
-
-### 2026-07-16 21:44:24  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Mastercard Stock Price Hits 22-week High — Mastercard shares increased to 544.10 USD, the highest since February 2026. Over the past 4 weeks, Mastercard gained 10.02%, and in the last 12 months, it decreased 2.38%.
-
----
-
-### 2026-07-16 21:44:14  #國際
-
-美國聯邦調查局：美國機構在世界盃場地附近查獲了700多架無人機。
-
----
-
-### 2026-07-16 21:43:01  #其他
-
-靛藍航空將於 7 月 23 日公佈第一季度業績。
-
----
-
-### 2026-07-16 21:42:34  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Qualcomm Stock Price Hits 10-week Low — Qualcomm shares decreased to 171.25 USD, the lowest since May 2026. Over the past 4 weeks, Qualcomm lost 19.85%, and in the last 12 months, it increased 11.36%.
-
----
-
-### 2026-07-16 21:42:34  #Trading Economics #Markets #Commodity #Importance 1
-
-Gold Near Eight-Month Low as Oil Rally Lifts Rate Hike Bets — Gold prices fell toward $4,000 an ounce on Thursday, approaching their lowest level since November 2025, as escalating tensions in the Middle East drove oil prices higher and reinforced concerns that interest rates could remain elevated. The latest escalation followed fresh US strikes on Iranian military targets and Tehran's retaliation against US bases in neighboring countries, raising concerns over the security of the Strait of Hormuz and pushing crude oil prices to one-month highs. Higher energy prices have strengthened expectations that the Federal Reserve may need to keep monetary policy tighter for longer, reducing the appeal of non-yielding gold. Traders currently see about a 51% chance of a September rate hike. Meanwhile, softer-than-expected US inflation data released this week has largely ruled out a July increase, even as Fed Chair Kevin Warsh reaffirmed his commitment to bringing inflation under control.
-
----
-
-### 2026-07-16 21:42:24  #MKT News #Important #Nasdaq100 #Impact bearish
-
-Nasdaq early-session losses widened to 1%.
-
----
-
-### 2026-07-16 21:42:01  #市場 #焦點
-
-納指跌1.01%，現報26003.366點；道指漲0.09%，現報52703.871點；標普500指數跌0.42%，現報7540.490點。
-
----
-
-### 2026-07-16 21:41:13  #市場
-
-Kraken交易所推出適用於比特幣（BTC）與以太幣（ETH）的全新期權合約套件。
-
----
-
-### 2026-07-16 21:40:59  #MKT News
-
-【Ukraine parliament approves cabinet list submitted by new prime minister】On the 16th local time, the Verkhovna Rada approved core senior officials and ministerial nominees on a cabinet list submitted earlier by newly appointed Prime Minister Sergey Korletsky. Earlier the Rada had appointed Korletsky — formerly chairman of the board of Ukraine’s state oil and gas company — as prime minister.
-
----
-
-### 2026-07-16 21:40:53  #公司 #國際
-
-【烏克蘭議會批准烏新任總理提交的內閣名單】當地時間16日，烏克蘭最高拉達（議會）透過有關決議，批准當天早些時候新任總理謝爾蓋·科列茨基提交的新一屆內閣多名核心高層及部長擬任人選。當天早些時候，烏最高拉達（議會）任命烏克蘭國家石油天然氣公司董事會主席謝爾蓋·科列茨基為總理。（央視新聞）
-
----
-
-### 2026-07-16 21:40:18  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.14% Higher — The Dow Jones Index is up by 76 points or 0.14 percent on Thursday. Top gainers are UnitedHealth (8.74%), Coca-Cola (2.17%) and Home Depot (2.16%). Biggest losses came from IBM (-2.50%), Goldman Sachs (-2.37%) and Cisco Systems (-2.21%).
 
 ---
