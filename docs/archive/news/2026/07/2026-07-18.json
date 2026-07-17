@@ -1,7 +1,26 @@
 {
   "date": "2026-07-18",
-  "count": 296,
+  "count": 298,
   "items": [
+    {
+      "id": "te:markets:567989",
+      "time": "2026-07-18 06:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Soars by 7.28% — Top commodity gainers are Natural Gas EU (7.28%), Natural Gas UK (6.02%), Brent Crude Oil (4.58%) and Crude Oil WTI (4.46%). Biggest loser is Methanol (-1.26%)."
+    },
+    {
+      "id": "4995123",
+      "time": "2026-07-18 06:29:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenEvidence考慮按200億美元估值融資2億美元。"
+    },
     {
       "id": "4995122",
       "time": "2026-07-18 06:20:28",

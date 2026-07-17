@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-18 06:29:39",
-  "count": 18938,
+  "updated": "2026-07-18 06:33:31",
+  "count": 18939,
   "items": [
+    {
+      "id": "te:markets:567989",
+      "time": "2026-07-18 06:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Soars by 7.28% — Top commodity gainers are Natural Gas EU (7.28%), Natural Gas UK (6.02%), Brent Crude Oil (4.58%) and Crude Oil WTI (4.46%). Biggest loser is Methanol (-1.26%)."
+    },
+    {
+      "id": "4995123",
+      "time": "2026-07-18 06:29:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：OpenEvidence考慮按200億美元估值融資2億美元。"
+    },
     {
       "id": "4995122",
       "time": "2026-07-18 06:20:28",
@@ -174590,17 +174609,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.21% — Top commodity losers are Lithium Carbonate (-2.21%) and Gold (-0.06%). Gains are led by Silicon (0.84%), Iron Ore CNY (0.80%) and Platinum (0.52%)."
-    },
-    {
-      "id": "te:markets:566138",
-      "time": "2026-07-11 06:30:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Drops by 3.70% — Top commodity losers are Natural Gas UK (-3.70%), Natural Gas EU (-3.58%), Germany Natural Gas THE (-2.65%), Crude Oil WTI (-0.79%) and Brent Crude Oil (-0.39%). Gains are led by Ethanol (1.42%)."
     }
   ]
 }
