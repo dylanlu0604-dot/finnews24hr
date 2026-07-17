@@ -1,7 +1,57 @@
 {
   "date": "2026-07-18",
-  "count": 132,
+  "count": 137,
   "items": [
+    {
+      "id": "4995015",
+      "time": "2026-07-18 03:11:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥南部海域7.4級地震暫無人員傷亡】墨西哥南部海域17日上午發生7.4級地震。截至發稿時，墨西哥官方尚未報告人員死亡和重大財產損失，海嘯預警已取消。據墨西哥國家地震局訊息，該國南部恰帕斯州伊達爾戈城西南135公里處海域當天上午發生7.4級地震，震源深度10公里。截至當地時間12時，此次地震已引發80次餘震，其中最大餘震震級為6.5級。墨西哥國家民防協調局表示，恰帕斯州、塔瓦斯科州、坎佩切州、瓦哈卡州等地均有震感，相關地區目前均未報告人員傷亡和重大財產損失。地震發生後，墨西哥海軍部海嘯預警中心一度釋出海嘯預警，後根據監測結果確認不會出現海平面明顯變化，海嘯預警已取消。（新華社）"
+    },
+    {
+      "id": "4995014",
+      "time": "2026-07-18 03:09:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問：如果美國的襲擊持續數天，伊朗將進入全面進攻行動階段。"
+    },
+    {
+      "id": "mkt:019f717c-2957-7aab-8dea-b08891044252",
+      "time": "2026-07-18 03:09:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "【SpaceX in talks to provide Pentagon with tens of billions of dollars of AI compute】SpaceX is negotiating with the Pentagon to supply compute capacity worth tens of billions of dollars to run AI models; talks remain ongoing and could still collapse. Sources say SpaceX signed similar deals with Anthropic and Google in recent months and plans a major expansion of its cloud-computing business. In recent weeks employees discussed offering compute to AI customers at lower prices to compete directly with existing suppliers such as CoreWeave."
+    },
+    {
+      "id": "mkt:019f717b-e5ec-7aab-8dea-a96774614988",
+      "time": "2026-07-18 03:09:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "An adviser to Iran's supreme leader, Rezaei, said if U.S. attacks continue for several days Iran will move into a full-scale offensive operations phase."
+    },
+    {
+      "id": "4995013",
+      "time": "2026-07-18 03:09:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：世界盃決賽沒有應急預案。"
+    },
     {
       "id": "mkt:019f717b-07c2-7aab-8dea-a21c6e717b3c",
       "time": "2026-07-18 03:08:36",
