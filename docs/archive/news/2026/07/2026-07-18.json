@@ -1,7 +1,35 @@
 {
   "date": "2026-07-18",
-  "count": 177,
+  "count": 180,
   "items": [
+    {
+      "id": "mkt:019f719f-571b-7aab-8deb-37e0999978df",
+      "time": "2026-07-18 03:48:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRNA reported Iran said it fired cruise missiles in the northern Indian Ocean at US naval vessels, launching the 13th phase of \"Operation Lightning\"."
+    },
+    {
+      "id": "4995042",
+      "time": "2026-07-18 03:47:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗軍方稱，海軍向印度洋北部一艘具有敵意的美國艦船發射了岸對海巡航導彈。"
+    },
+    {
+      "id": "4995041",
+      "time": "2026-07-18 03:45:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿根廷中央銀行今日儲備金為487.8億美元。"
+    },
     {
       "id": "4995040",
       "time": "2026-07-18 03:44:27",

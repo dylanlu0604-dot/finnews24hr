@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18 03:45:10",
-  "count": 18927,
+  "updated": "2026-07-18 03:49:07",
+  "count": 18928,
   "items": [
+    {
+      "id": "mkt:019f719f-571b-7aab-8deb-37e0999978df",
+      "time": "2026-07-18 03:48:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRNA reported Iran said it fired cruise missiles in the northern Indian Ocean at US naval vessels, launching the 13th phase of \"Operation Lightning\"."
+    },
+    {
+      "id": "4995042",
+      "time": "2026-07-18 03:47:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗軍方稱，海軍向印度洋北部一艘具有敵意的美國艦船發射了岸對海巡航導彈。"
+    },
+    {
+      "id": "4995041",
+      "time": "2026-07-18 03:45:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：阿根廷中央銀行今日儲備金為487.8億美元。"
+    },
     {
       "id": "4995040",
       "time": "2026-07-18 03:44:27",
@@ -174516,25 +174544,6 @@
         "公司"
       ],
       "text": "【SK海力士CEO稱2027年將迎史上最嚴重記憶體短缺】SK海力士執行長郭魯正（Kwak Noh-jung）表示，全球記憶體行業正走向2027年史上最嚴重的供應短缺。他預測，儘管公司正在積極擴充產能，但記憶體需求仍將在未來十年內持續超出公司的生產能力。“我們預測，從供應角度來看，明年將是該行業歷史上最糟糕的一年。”"
-    },
-    {
-      "id": "te:markets:566126",
-      "time": "2026-07-11 03:45:41",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Brent crude closed near $76 per barrel, recording a weekly gain of about 5%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance."
-    },
-    {
-      "id": "4981888",
-      "time": "2026-07-11 03:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【霍爾木茲海峽船舶通行量持續低迷】航運資料平臺 MarineTraffic 統計顯示，美伊雙方相互發動打擊的過去 24 小時內，僅有至少 15 艘商船駛過霍爾木茲海峽。 其中共計 11 艘船舶駛入波斯灣，包含 6 艘貨輪、5 艘油輪；另有 4 艘貨輪穿過海峽駛入阿曼灣。該資料與近幾周持續低迷的通航水平相符，僅在美伊談判期間出現過短暫回升。衝突爆發前，平均每日約有 110 艘船舶通行該海峽。這片海域已連續數月遭遇 GPS 訊號欺騙干擾，這類導航干擾會讓船舶對外播報的定位出現嚴重偏差。而本次通行船隻的定位訊號暫未發現遭篡改跡象。"
     }
   ]
 }
