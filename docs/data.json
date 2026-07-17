@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-17 22:50:33",
-  "count": 19100,
+  "updated": "2026-07-17 22:54:38",
+  "count": 19095,
   "items": [
+    {
+      "id": "4994903",
+      "time": "2026-07-17 22:53:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "康菲石油執行長：迫切希望向伊拉克輸出技術與資金。"
+    },
+    {
+      "id": "mkt:019f7091-8ce3-7aab-8de8-052f10bb8afd",
+      "time": "2026-07-17 22:53:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "COP.O",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "ConocoPhillips' CEO said the company is eager to bring technology and capital into Iraq."
+    },
+    {
+      "id": "4994902",
+      "time": "2026-07-17 22:52:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【圖靈獎獲得者：中國將在人工智慧領域發揮重要作用】2026年7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在中國上海舉行。圖靈獎獲得者、美國康奈爾大學榮休教授約翰·愛德華·霍普克羅夫特17日在接受新華社記者採訪時表示，中國將在人工智慧領域發揮重要作用。他說，人工智慧正在不斷變化，未來還將有更多變化，中國正在培養一批“懂得如何應對這些變化的人才”。 （新華社）"
+    },
+    {
+      "id": "4994901",
+      "time": "2026-07-17 22:52:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【費城半導體指數跌幅收窄至不足2%】費城半導體指數跌幅收窄至不足2%，此前一度跌超5%。美光科技漲逾1%。"
+    },
+    {
+      "id": "4994900",
+      "time": "2026-07-17 22:51:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯稱已襲擊尼古拉耶夫港 4 艘乾貨船。"
+    },
+    {
+      "id": "4994899",
+      "time": "2026-07-17 22:50:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "生菜生產商泰勒農場將召回與美國疫情相關產品。"
+    },
+    {
+      "id": "4994898",
+      "time": "2026-07-17 22:50:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將網飛目標股價從每股105.00美元下調至每股80.00美元。"
+    },
+    {
+      "id": "4994897",
+      "time": "2026-07-17 22:49:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "Meta一度下跌4.9%，重新整理日低至632.01美元，失守200日均線。"
+    },
     {
       "id": "4994896",
       "time": "2026-07-17 22:49:40",
@@ -175934,129 +176005,6 @@
         "其他"
       ],
       "text": "【小米澎程擬釋出兩款車型：分別為五座版和七座版，均採用增程式動力】小米汽車7月10日釋出答網友問，稱小米澎程目前計劃釋出兩款車型，分別是五座版和七座版，均採用增程式動力。五座版和七座版兩種空間佈局，能夠滿足不同家庭結構和出行場景的使用者需求。小米汽車稱，在2023年初，小米澎程系列正式規劃立項時，動力形式就選擇了增程技術，並進行了深入的研發，做了很多最佳化與改進。在CLTC工況下，小米澎程系列的純電續航里程超過500km。"
-    },
-    {
-      "id": "4981612",
-      "time": "2026-07-10 22:54:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【穩定幣發行商Circle獲批設立全國性信託銀行，股價一度漲超13%】當地時間7月10日，穩定幣發行商Circle Internet Group（NYSE: CRCL）宣佈，已獲得美國貨幣監理署（OCC）批准，設立全國性信託銀行First National Digital Currency Bank, N.A.，並將以Circle National Trust名義運營。受此訊息影響，Circle股價明顯走強。當地時間7月10日開盤後，Circle一度漲超13%。截至發稿，Circle漲超7%，報67.469美元。（澎湃）"
-    },
-    {
-      "id": "mkt:019f4c85-b297-7aab-8d35-9870151ebc7e",
-      "time": "2026-07-10 22:54:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Bahrain's UN representative said trust cannot be discussed while Iran is violating regional states."
-    },
-    {
-      "id": "mkt:019f4c85-5e3c-7aab-8d35-96401776b7d0",
-      "time": "2026-07-10 22:53:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's UN representative said any diplomatic progress must be contingent on Iran's cooperation with the IAEA."
-    },
-    {
-      "id": "4981611",
-      "time": "2026-07-10 22:53:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國更新藥物殘留、食品化學汙染物相關諒解備忘錄。"
-    },
-    {
-      "id": "mkt:019f4c85-34af-7aab-8d35-8cd6ff46d432",
-      "time": "2026-07-10 22:53:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "SK chairman Chey Tae-won said memory demand will not normalize until artificial general intelligence (AGI) is achieved."
-    },
-    {
-      "id": "4981610",
-      "time": "2026-07-10 22:53:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團董事長崔泰源：在人工智慧發展至通用人工智慧前，儲存晶片需求難以迴歸常態。"
-    },
-    {
-      "id": "4981609",
-      "time": "2026-07-10 22:52:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普將美敦力展望調整為正面；評級維持不變。"
-    },
-    {
-      "id": "mkt:019f4c84-6d35-7aab-8d35-80a9d20eccca",
-      "time": "2026-07-10 22:52:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Bahrain's UN envoy said Iran resumed attacks immediately after signing a memorandum of understanding."
-    },
-    {
-      "id": "mkt:019f4c84-48fc-7aab-8d35-7c5aad62fd14",
-      "time": "2026-07-10 22:52:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's UN envoy said Iran has not fulfilled its international obligations or its commitments under the memorandum of understanding."
-    },
-    {
-      "id": "mkt:019f4c84-109d-7aab-8d35-71eb9ef14870",
-      "time": "2026-07-10 22:52:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's UN envoy said Iran's attacks on regional states have swiftly undermined the terms of the memorandum of understanding."
-    },
-    {
-      "id": "4981608",
-      "time": "2026-07-10 22:52:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "SK海力士計劃在韓國建設約15吉瓦的資料中心，另有5吉瓦位於海外。"
-    },
-    {
-      "id": "mkt:019f4c82-f581-7aab-8d35-68ac04b3ca5d",
-      "time": "2026-07-10 22:51:18",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "Brent",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【National Flood Control and Drought Relief Headquarters: Typhoon Bavi approaching Zhejiang–Fujian coast】The office of the National Flood Control and Drought Relief Headquarters issued a notice on July 10 saying Typhoon Bavi is approaching the Zhejiang–Fujian coast and is expected to make landfall in the Xiapu (Fujian) to Wenling (Zhejiang) coastal area in the early hours of July 12 at strong-typhoon to typhoon strength (wind scale 13–15; 40–48 m/s). The system will move northwest after landfall. From July 10–13 widespread heavy to torrential rain is forecast across East, Central, North and Northeast China, with broad coverage, high intensity and extreme rainfall in some areas."
-    },
-    {
-      "id": "4981607",
-      "time": "2026-07-10 22:50:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "杜克能源公司：杜克能源佛羅里達分公司計劃建設140萬千瓦電池儲能專案，並將5億美元稅收抵免讓渡給客戶。"
     }
   ]
 }
