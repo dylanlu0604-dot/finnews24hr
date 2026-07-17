@@ -1,7 +1,140 @@
 {
-  "updated": "2026-07-17 21:50:25",
+  "updated": "2026-07-17 21:54:38",
   "count": 19137,
   "items": [
+    {
+      "id": "te:markets:567942",
+      "time": "2026-07-17 21:53:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "TSX Slips on Tech Rout and Middle East Tensions — The S&P/TSX Composite Index fell nearly 1% to trade below 35,500 on Friday amid a global selloff in semiconductor stocks and as the escalating US-Iran conflict kept oil prices elevated. North American technology stocks plunged as investors pulled back from crowded semiconductor trades on renewed concerns over AI-related spending. Shopify shed 1.5%, while Celestica extended losses of more than 6% after plunging 9.3% in the previous session. Meanwhile, the US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market. RBC, TD Bank, BMO, and Scotiabank lost about 1% each. Gold prices also edged lower, with the precious metal heading for a weekly loss, putting additional pressure on mining stocks. Agnico Eagle lost more than 1%, while Barrick and WPM shed nearly 2% each."
+    },
+    {
+      "id": "4994804",
+      "time": "2026-07-17 21:53:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士美股股價收復4%跌幅，現上漲0.64%，報153.285美元/股，總市值報1.12萬億美元。"
+    },
+    {
+      "id": "4994803",
+      "time": "2026-07-17 21:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中廣核技與成都理工、電子科大簽署產學研戰略合作協議】7月15日，中廣核技與成都理工大學、電子科技大學簽署產學研戰略合作協議。活動現場，中廣核技與成都理工大學共同為粒子加速器實驗室揭牌。後續雙方將聚焦加速器研製、輻照應用、束流診斷等核心方向開展聯合攻關。"
+    },
+    {
+      "id": "4994802",
+      "time": "2026-07-17 21:52:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部詢問加利福尼亞州、新澤西州、賓夕法尼亞州和內華達州有關選民名冊上非公民的情況。"
+    },
+    {
+      "id": "4994801",
+      "time": "2026-07-17 21:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：我們正在認真研究法國提出的核威懾提議，該提議最終可能催生新的核學說，但目前下定論還為時過早。"
+    },
+    {
+      "id": "mkt:019f7059-69e8-7aab-8de6-a9ad8b015f7a",
+      "time": "2026-07-17 21:52:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose more than 2.00% intraday to $85.81/bbl."
+    },
+    {
+      "id": "4994800",
+      "time": "2026-07-17 21:51:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲王堅：對AI理解科學的想象，還侷限在人類寫出來的知識裡】7月17日，在2026WAIC現場，中國工程院院士、之江實驗室主任、阿里雲創始人王堅表示，迄今為止對人工智慧的理解，依然停留在非常淺表的層面；當科學資料真正成為大模型的基礎元素，一場堪比伽利略時代的科學革命，才剛剛拉開序幕。在現場，王堅回溯了人工智慧發展的簡短歷史：很多人今天談大模型，下意識就等同於大語言模型，但很少有人記得，“基礎模型（Foundation Model）”這個詞，直到2021年才被真正創造出來。而文字處理，其實是人工智慧最容易跨過的第一道門檻。（澎湃）"
+    },
+    {
+      "id": "te:markets:567939",
+      "time": "2026-07-17 21:51:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Starbucks Stock Price Hits 16-month High — Starbucks shares increased to 109.21 USD, the highest since March 2025. Over the past 4 weeks, Starbucks gained 9%, and in the last 12 months, it increased 16.75%."
+    },
+    {
+      "id": "4994799",
+      "time": "2026-07-17 21:50:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數下跌1%，此前一度下跌1.4%。"
+    },
+    {
+      "id": "mkt:019f7058-1f76-7aab-8de6-a526f34ed80d",
+      "time": "2026-07-17 21:50:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said France will advance its nuclear-deterrence objectives to deter adversaries."
+    },
+    {
+      "id": "4994798",
+      "time": "2026-07-17 21:50:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報4756.00元。"
+    },
+    {
+      "id": "mkt:019f7057-6e83-7aab-8de6-9a25fb87bf57",
+      "time": "2026-07-17 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "U.S. preliminary July University of Michigan consumer sentiment index and preliminary one‑year inflation expectations due in 10 minutes."
+    },
+    {
+      "id": "4994797",
+      "time": "2026-07-17 21:49:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部國家文物區域性署深入推進打擊防範文物犯罪“雲鴞”專項行動】7月16日，公安部和國家文物局在京召開會議，部署有關地方公安機關和文物部門深入推進打擊防範文物犯罪“雲鴞”專項行動。 據瞭解，自5月15日開展“雲鴞”行動以來，公安機關與文物部門共立案偵辦盜掘、盜竊、倒賣、走私、損毀等各類文物犯罪案件170餘起，抓獲犯罪嫌疑人390餘名，追繳涉案文物2700餘件，其中珍貴文物230餘件。（新華社）"
+    },
+    {
+      "id": "mkt:019f7057-4851-7aab-8de6-9104e1bf722b",
+      "time": "2026-07-17 21:49:56",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "【SpaceX shares slide; market value over $1 tln below record peak】SpaceX (SPCX.O) shares fell as much as 4.6% on Friday to $125.13, cutting market value to $1.65 tln — more than $1 tln below the $2.64 tln close on June 16. The stock, which jumped after the largest-ever IPO, has dropped below its $135 issue price. SpaceX cancelled the 13th Starship test flight due to an engine ignition problem; Musk said the next launch attempt is expected in a few days."
+    },
     {
       "id": "mkt:019f7057-24fd-7aab-8de6-8c7d3c099950",
       "time": "2026-07-17 21:49:46",
@@ -176180,137 +176313,6 @@
         "國際"
       ],
       "text": "泛歐交易所九月小麥期貨上漲4%，據交易員稱，市場傳聞俄羅斯糧食的亞速海出口航線將中斷。"
-    },
-    {
-      "id": "4981477",
-      "time": "2026-07-10 21:54:31",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【SK海力士ADR盤前開盤價報每股180美元】SK 海力士美國存託憑證盤前開盤價預估為每股 180 美元，較 149 美元的發行價上漲 21%。本次共計發行 1.779 億份美國存託憑證，為這家韓國儲存晶片企業募資約 265 億美元。每份美國存託憑證對應十分之一在首爾上市的普通股。本次發行由美國銀行、花旗集團、高盛集團以及摩根大通擔任牽頭承銷商；康託菲茨傑拉德、瑞穗金融集團、尼達姆公司、加拿大皇家銀行、羅森布拉特證券、斯泰菲爾金融、韋德布什證券、威廉布萊爾以及野村沃爾夫聯盟擔任聯席承銷商。該批存託憑證將於本週五晚些時候在納斯達克全球精選市場開展遠期發行交易，股票程式碼 SKHYV；7 月 13 日正式進入常規交易時段後，程式碼變更為 SKHY。"
-    },
-    {
-      "id": "4981476",
-      "time": "2026-07-10 21:54:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【文化和旅遊部：京津冀遊客注意防範強降雨，遠離未開發開放區域】受西南季風及颱風“巴威”共同影響，7月10日至11日，京津冀將迎強降雨。北京東北部、天津北部、河北東北部局地累計雨量可達300~350毫米，最大小時降雨量可超100毫米，致災風險高。文化和旅遊部市場管理司請北京、天津和河北文旅部門加強汛情監測和隱患排查，確保遊客及從業人員安全。提醒廣大遊客：密切關注預警資訊，及時調整出行安排，遠離山區、河谷等未開發開放區域，注意出行安全，遇緊急情況請撥打救援電話。（央視新聞）"
-    },
-    {
-      "id": "4981475",
-      "time": "2026-07-10 21:53:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【蔡奇出席《中朝友好合作互助條約》簽訂65週年紀念招待會】7月10日，中共中央政治局常委、中央書記處書記蔡奇在北京同率領朝鮮黨政代表團訪華的朝鮮勞動黨中央政治局常委、國務委員會副委員長、內閣總理樸泰成共同出席《中朝友好合作互助條約》簽訂65週年紀念招待會並致辭。蔡奇表示，65年前，中朝兩國人民在爭取民族獨立與解放的崢嶸歲月中並肩戰鬥，用鮮血鑄就了深厚的戰友情誼。兩黨兩國老一輩領導人高瞻遠矚，簽署《中朝友好合作互助條約》，為兩國世代友好奠定了堅實的政治法律基礎。65年來，中朝友好歷經國際風雲變幻考驗，兩國關係與時俱進、鞏固發展。習近平總書記和金正恩總書記登高望遠、繼往開來，共同引領中朝關係進入新的歷史時期。中方願同朝方一道，以兩黨兩國最高領導人重要共識為根本遵循和戰略指引，賡續傳統友誼，推動兩國社會主義事業和傳統友好合作關係不斷邁上新的臺階。（新華社）"
-    },
-    {
-      "id": "4981474",
-      "time": "2026-07-10 21:53:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑瑞恆日與和豐瑞共建120萬方/天LNG專案】據傑瑞股份訊息，近日，傑瑞集團全資子公司四川傑瑞恆日天然氣工程有限公司（簡稱“傑瑞恆日”）與寧夏和豐瑞能源科技有限公司（簡稱“和豐瑞”）在成都舉行簽約儀式，雙方正式簽署120萬方/天液化天然氣生產應急調峰儲備專案合作協議。此次合作，由傑瑞恆日負責EPC總承包，業務涵蓋工程設計、工藝包定製、成套裝置採購、安裝施工、開車除錯等環節。"
-    },
-    {
-      "id": "mkt:019f4c4e-02f3-7aab-8d34-25183bca3536",
-      "time": "2026-07-10 21:53:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "White House official says Trump will allow housing bill to become law."
-    },
-    {
-      "id": "4981473",
-      "time": "2026-07-10 21:53:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【金風科技完成全球最高204米鋼混塔架吊裝】2026年7月，金風科技自主研發的204米超高鋼混塔架在河北辛集順利完成吊裝，再度重新整理全球風電塔架高度紀錄。該塔架配套GWH221-6.25MW機組，與同風電場160米混塔方案相比，204米混塔可提升年發電量6%以上，由此可為我國低風速區域增加可開發風資源量4.58億千瓦。(金風科技)"
-    },
-    {
-      "id": "4981472",
-      "time": "2026-07-10 21:53:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮官員訊息：特朗普將默許住房法案自動生效成為法律。"
-    },
-    {
-      "id": "mkt:019f4c4c-d09b-7aab-8d34-194ee911a140",
-      "time": "2026-07-10 21:52:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "SKHYNIX.O",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix ADR indicative opening price may be $180; issue price $149."
-    },
-    {
-      "id": "te:markets:566072",
-      "time": "2026-07-10 21:52:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Little Changed, Middle East Situation in Focus — The dollar index was little changed at around 100.9 on Friday and was also on track to end the week largely unchanged, as traders continued to assess the fragile and uncertain situation in the Middle East. Oil prices eased after surging earlier in the week, following reports that the US and Iran would continue peace negotiations. However, renewed exchanges of strikes between the two countries raised concerns that the conflict could escalate further, with the status of the previous truce remaining uncertain. The renewed hostilities also revived fears of another wave of inflationary pressure, reinforcing expectations that the Fed may need to tighten monetary policy. Markets currently assign a 62% probability of a Fed rate hike in September, up from 58% a week ago but down from around 70% earlier this week. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most concerned about demand fueled by AI."
-    },
-    {
-      "id": "4981471",
-      "time": "2026-07-10 21:51:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "海力士美國存託憑證盤前報價180美元，發行價149美元。"
-    },
-    {
-      "id": "4981470",
-      "time": "2026-07-10 21:51:14",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "SK海力士在完成265億美元的美國存託憑證（ADR）發行後，股價預計上漲21%。"
-    },
-    {
-      "id": "4981469",
-      "time": "2026-07-10 21:51:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社10日報道，卡達代表團當天抵達伊朗，將與伊朗官員舉行會談。（新華社）"
-    },
-    {
-      "id": "4981468",
-      "time": "2026-07-10 21:51:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海銀行向寶能系追債進展，一筆借款本金25.8億元的借款糾紛案二審判決出爐】上海銀行2026年7月7日釋出的關於訴訟事項進展的公告稱，經審理， 廣東省高階人民法院作出（2025）粵民終1719號民事判決書，判決主要內容如下：\n\n1、上訴人一應於本判決生效之日起十日內向公司深圳分行償還借款本金25.8億元、 截至2022年6月16日的利息128676170.25元； 截至2023年8月31日的罰息237902083.33元，自2023年9月1日起以2580000000元基數按照年利率7.5%標準計算至清償之日止的罰息； 截至2022年6月16日的複利2414464.48元，自2022年6月17日起以欠付利息128676170.25元為基數按照年利率7.5%標準計算至利息實際清償之日止的複利；\n\n2、維持一審判決第二、三、四、五項。一審案件受理費14852926.33元、 保全申請費5000元， 共計14857926.33元， 由上海銀行深圳分行負擔6371.02元， 由深圳託吉斯科技有限公司、 深圳深業物流集團有限公司、 託吉斯集團有限公司、 深圳市寶能投資集團有限公司、 寶能控股 （中國） 有限公司、 姚振華共同負擔14851555.31元。 二審案件受理費399.72元，由上海銀行深圳分行負擔283.8元，由深圳託吉斯科技有限公司負擔115.92元。\n\n因上訴人二、 三未在規定的期限內預交二審案件受理費， 廣東省高階人民法院作出 （2025） 粵民終1719號民事裁定書， 裁定按上訴人二、三自動撤回上訴處理。\n\n上海銀行在公告中表示，本次判決書、裁定書為終審裁判文書。（澎湃）"
-    },
-    {
-      "id": "te:markets:566071",
-      "time": "2026-07-10 21:51:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Falls Below $60 as Fed Tightening Fears Grow — Silver slipped below $60 an ounce on Friday, ending the week down about 4%, as rising crude oil prices and escalating US-Iran tensions fueled expectations that the Federal Reserve will keep monetary policy tight for longer. Oil jumped 5% this week after renewed strikes between US and Iranian forces, amplifying inflation concerns and leading markets to price in a near 60% chance of a September Fed rate hike. Investors will now focus on US inflation data due next week and Fed Chair Kevin Warsh’s testimony for further policy signals. Minutes from the Fed’s June meeting showed growing unease over inflation, with some policymakers having pushed for a rate hike before rates were left unchanged."
     }
   ]
 }

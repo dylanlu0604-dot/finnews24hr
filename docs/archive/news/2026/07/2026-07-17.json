@@ -1,7 +1,140 @@
 {
   "date": "2026-07-17",
-  "count": 2961,
+  "count": 2975,
   "items": [
+    {
+      "id": "te:markets:567942",
+      "time": "2026-07-17 21:53:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "TSX Slips on Tech Rout and Middle East Tensions — The S&P/TSX Composite Index fell nearly 1% to trade below 35,500 on Friday amid a global selloff in semiconductor stocks and as the escalating US-Iran conflict kept oil prices elevated. North American technology stocks plunged as investors pulled back from crowded semiconductor trades on renewed concerns over AI-related spending. Shopify shed 1.5%, while Celestica extended losses of more than 6% after plunging 9.3% in the previous session. Meanwhile, the US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market. RBC, TD Bank, BMO, and Scotiabank lost about 1% each. Gold prices also edged lower, with the precious metal heading for a weekly loss, putting additional pressure on mining stocks. Agnico Eagle lost more than 1%, while Barrick and WPM shed nearly 2% each."
+    },
+    {
+      "id": "4994804",
+      "time": "2026-07-17 21:53:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士美股股價收復4%跌幅，現上漲0.64%，報153.285美元/股，總市值報1.12萬億美元。"
+    },
+    {
+      "id": "4994803",
+      "time": "2026-07-17 21:52:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中廣核技與成都理工、電子科大簽署產學研戰略合作協議】7月15日，中廣核技與成都理工大學、電子科技大學簽署產學研戰略合作協議。活動現場，中廣核技與成都理工大學共同為粒子加速器實驗室揭牌。後續雙方將聚焦加速器研製、輻照應用、束流診斷等核心方向開展聯合攻關。"
+    },
+    {
+      "id": "4994802",
+      "time": "2026-07-17 21:52:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國土安全部詢問加利福尼亞州、新澤西州、賓夕法尼亞州和內華達州有關選民名冊上非公民的情況。"
+    },
+    {
+      "id": "mkt:019f7059-69e8-7aab-8de6-a9ad8b015f7a",
+      "time": "2026-07-17 21:52:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rose more than 2.00% intraday to $85.81/bbl."
+    },
+    {
+      "id": "4994801",
+      "time": "2026-07-17 21:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：我們正在認真研究法國提出的核威懾提議，該提議最終可能催生新的核學說，但目前下定論還為時過早。"
+    },
+    {
+      "id": "4994800",
+      "time": "2026-07-17 21:51:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲王堅：對AI理解科學的想象，還侷限在人類寫出來的知識裡】7月17日，在2026WAIC現場，中國工程院院士、之江實驗室主任、阿里雲創始人王堅表示，迄今為止對人工智慧的理解，依然停留在非常淺表的層面；當科學資料真正成為大模型的基礎元素，一場堪比伽利略時代的科學革命，才剛剛拉開序幕。在現場，王堅回溯了人工智慧發展的簡短歷史：很多人今天談大模型，下意識就等同於大語言模型，但很少有人記得，“基礎模型（Foundation Model）”這個詞，直到2021年才被真正創造出來。而文字處理，其實是人工智慧最容易跨過的第一道門檻。（澎湃）"
+    },
+    {
+      "id": "te:markets:567939",
+      "time": "2026-07-17 21:51:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Starbucks Stock Price Hits 16-month High — Starbucks shares increased to 109.21 USD, the highest since March 2025. Over the past 4 weeks, Starbucks gained 9%, and in the last 12 months, it increased 16.75%."
+    },
+    {
+      "id": "4994799",
+      "time": "2026-07-17 21:50:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數下跌1%，此前一度下跌1.4%。"
+    },
+    {
+      "id": "mkt:019f7058-1f76-7aab-8de6-a526f34ed80d",
+      "time": "2026-07-17 21:50:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French President Macron said France will advance its nuclear-deterrence objectives to deter adversaries."
+    },
+    {
+      "id": "4994798",
+      "time": "2026-07-17 21:50:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲4%，現報4756.00元。"
+    },
+    {
+      "id": "mkt:019f7057-6e83-7aab-8de6-9a25fb87bf57",
+      "time": "2026-07-17 21:50:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact mixed",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "U.S. preliminary July University of Michigan consumer sentiment index and preliminary one‑year inflation expectations due in 10 minutes."
+    },
+    {
+      "id": "mkt:019f7057-4851-7aab-8de6-9104e1bf722b",
+      "time": "2026-07-17 21:49:56",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "【SpaceX shares slide; market value over $1 tln below record peak】SpaceX (SPCX.O) shares fell as much as 4.6% on Friday to $125.13, cutting market value to $1.65 tln — more than $1 tln below the $2.64 tln close on June 16. The stock, which jumped after the largest-ever IPO, has dropped below its $135 issue price. SpaceX cancelled the 13th Starship test flight due to an engine ignition problem; Musk said the next launch attempt is expected in a few days."
+    },
+    {
+      "id": "4994797",
+      "time": "2026-07-17 21:49:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公安部國家文物區域性署深入推進打擊防範文物犯罪“雲鴞”專項行動】7月16日，公安部和國家文物局在京召開會議，部署有關地方公安機關和文物部門深入推進打擊防範文物犯罪“雲鴞”專項行動。 據瞭解，自5月15日開展“雲鴞”行動以來，公安機關與文物部門共立案偵辦盜掘、盜竊、倒賣、走私、損毀等各類文物犯罪案件170餘起，抓獲犯罪嫌疑人390餘名，追繳涉案文物2700餘件，其中珍貴文物230餘件。（新華社）"
+    },
     {
       "id": "mkt:019f7057-24fd-7aab-8de6-8c7d3c099950",
       "time": "2026-07-17 21:49:46",
