@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-17 18:42:08",
-  "count": 19042,
+  "updated": "2026-07-17 18:46:03",
+  "count": 19046,
   "items": [
+    {
+      "id": "te:markets:567873",
+      "time": "2026-07-17 18:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Rise Again, Up More than 10% on the Week — Crude oil traded above $80 per barrel on Friday, returning to one-month highs after a modest pullback in the previous session, as investors continued to assess the escalating conflict between the US and Iran. Overnight, US Central Command said it had completed its sixth consecutive night of strikes against Iran, targeting dozens of military sites, including logistics infrastructure and maritime assets. Iran has been responding by launching attacks on US bases in Kuwait, Jordan and Bahrain while reports indicated that Iran had instructed Yemen's Houthi forces to prepare to disrupt shipping through the Red Sea if the US targets Iranian power infrastructure. Meanwhile, commercial traffic through the Strait of Hormuz has remained largely limited. Oil prices have risen more than 10% this week as hostilities intensified, raising fears of a broader regional conflict. Early this week, the US reinstated a naval blockade targeting Iranian ports near the Strait of Hormuz."
+    },
+    {
+      "id": "4994368",
+      "time": "2026-07-17 18:45:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST美麗：控股子公司訴訟涉案金額2840.5萬元】*ST美麗公告，公司控股子公司福建美麗生態建設集團有限公司因與嚴祥林海事海商糾紛，向廈門海事法院提起訴訟，請求撤銷雙方於2018年11月20日簽署的《海砂運輸結算單》，並判令嚴祥林退還工程款2819.64萬元及逾期利息，合計2840.5萬元。近日，廈門海事法院已受理該案，一審尚未開庭審理。"
+    },
+    {
+      "id": "mkt:019f6fae-1acc-7aab-8de2-6c25a37523d4",
+      "time": "2026-07-17 18:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shangjie Auto denies reports it will leave HarmonyOS Drive】July 17 — Shangjie Auto said reports it would exit the Huawei-backed HarmonyOS Drive ecosystem are false. A preliminary probe found misleading or fabricated posts from social accounts; the company said it remains a member of the HarmonyOS Drive ecosystem jointly supported by SAIC Motor and Huawei, that cooperation is stable, market performance is steady and brand operations are unchanged. Shangjie Auto said the rumours have damaged its reputation, it has collected evidence and will pursue legal liability."
+    },
+    {
+      "id": "4994367",
+      "time": "2026-07-17 18:44:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西點藥業：持股5%以上股東及其一致行動人減持111.57萬股】西點藥業公告稱，持股5%以上股東橫琴鼎典及其一致行動人珠海橫琴潤匯易，於2026年4月17日至7月16日，以集中競價和大宗交易方式合計減持111.57萬股，佔公司總股本（剔除回購）的1.4779%。減持後，二者合計持股607.9897萬股，佔比8.0534%，仍為公司持股5%以上股東。本次減持未導致公司控制權變更，不會對公司治理及經營產生影響。"
+    },
+    {
+      "id": "4994366",
+      "time": "2026-07-17 18:43:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【勁旅環境：股票交易異常波動 無人駕駛業務營收佔比極小】勁旅環境公告稱，公司股票於2026年7月15日、16日和17日連續三個交易日收盤價格漲幅偏離值累計超20%，屬於異常波動。經核查，公司、控股股東和實控人不存在應披露未披露重大事項，實控人在異動期間無買賣公司股票行為。公司2026年半年報將於8月28日披露。目前，無人駕駛業務營收佔公司整體營收比例極小，不會對業績產生重大影響。"
+    },
+    {
+      "id": "4994365",
+      "time": "2026-07-17 18:43:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國警方：已逮捕一名摩爾多瓦男子，該男子涉嫌從事與國防公司上空無人機飛行相關的間諜活動。"
+    },
+    {
+      "id": "4994364",
+      "time": "2026-07-17 18:42:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中鋁國際：2026年上半年新籤合同181.87億元，同比增10.89%】中鋁國際公告，2026年上半年新籤合同總額為181.87億元，較上年同期增加10.89%。其中，工業合同179.78億元，同比增15.00%；設計諮詢合同19.3億元，同比增60.54%；裝備製造合同15.33億元，同比增25.85%；海外合同48.57億元，同比增52.31%。截至2026年6月30日，公司存量合同總額為537.99億元，同比增17.37%。"
+    },
+    {
+      "id": "4994363",
+      "time": "2026-07-17 18:42:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "MOFFETTNATHANSON將奈飛目標價下調15美元至100美元。"
+    },
+    {
+      "id": "4994362",
+      "time": "2026-07-17 18:42:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【寧波航交所：本週南美西航線市場波動較大，運價指數較上週跌8.9%】本週，寧波航運交易所釋出的海上絲綢之路指數之寧波出口集裝箱運價指數（NCFI）報收於2262.3點，較上週下跌5.8%。21條航線中有3條航線運價指數上漲，16條航線運價指數下跌，2條航線運價指數基本持平。“海上絲綢之路”沿線地區主要港口中，7個港口運價指數上漲，8個港口運價指數下跌，1個港口運價指數基本持平。此外，本週南美西航線市場波動較大：運輸需求持續走弱，儘管班輪公司透過停航減班及下調附加費積極應對，但貨量仍存在缺口，難以支撐運價，跌幅呈擴大態勢。南美西航線運價指數為1904.2點，較上週下跌8.9%。"
+    },
+    {
+      "id": "te:markets:567872",
+      "time": "2026-07-17 18:42:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Arabica Coffee Futures at Over 1-Week Low — Arabica coffee futures traded around $3.10 per pound, consolidating near their lowest level in more than a week after a sharp rally and recent volatility driven by weather-related supply concerns. Dealers said the harvest in top coffee grower Brazil had been gathering pace, though lagging last year's pace, reinforcing expectations of greater supply in the short term. Still, market participants continued to monitor bean quality following delays caused by heavy rains in June and early July. Global stocks remain limited and any delay in the arrival of the Brazilian harvest or signs of reduced coffee quality will have a direct impact on international prices. At the same time, buyers and sellers continue to adopt a cautious stance, which reduces the volume of transactions in the physical market."
+    },
+    {
+      "id": "te:economy:567870",
+      "time": "2026-07-17 18:42:07",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Pulls Back — The yield on the 10-year US Treasury note fell to below 4.55% from the two-month high of 4.62% on July 13th, as softer inflation data pushed back expectations of a Federal Reserve rate hike. Both consumer and producer prices were below expectations in June, suggesting that the pullback in wholesale fuel costs were transmitted to the economy at a greater magnitude than forecast. Fixed-income assets were also supported by new geopolitical uncertainty after US President Trump claimed China compromised US presidential elections in 2020, risking the truce between both countries since the exchange of tariff hikes last year. Still, pro-inflationary risks lingered as strikes between the US and Iran were extended and commercial vessels refrained from crossing the Strait of Hormuz at the elevated traffic volumes from June. Rate futures suggested that over two thirds of the market are positioned for a Fed hike by the end of the year, although this month's decision is expected to be a hold."
+    },
     {
       "id": "4994361",
       "time": "2026-07-17 18:41:28",
@@ -175224,65 +175324,6 @@
         "國際"
       ],
       "text": "【烏克蘭總統意與三菱合作造愛國者】烏克蘭總統澤連斯基7月9日在回答記者提問時表示，烏克蘭有意與日本三菱公司開展合作。他表示，三菱公司展現出了極高的“愛國者”導彈生產水平，是在獲得美國許可後，建立本國反彈道導彈系統生產能力的最佳範例，他希望這些能夠在烏克蘭實現。7月8日北約峰會期間，美國總統特朗普會見澤連斯基時稱，將向烏克蘭發放“愛國者”防空系統生產許可。對此，俄總統新聞秘書佩斯科夫7月9日說，俄羅斯完全清楚應如何應對，俄方正採取一切必要措施維護自身利益。(CCTV國際時訊)"
-    },
-    {
-      "id": "4981131",
-      "time": "2026-07-10 18:45:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陸家嘴：獲准公開發行不超過40億元公司債券】陸家嘴公告，公司近日收到中國證券監督管理委員會出具的《關於同意上海陸家嘴金融貿易區開發股份有限公司向專業投資者公開發行公司債券註冊的批覆》（證監許可（2026）1650號），同意公司向專業投資者公開發行面值總額不超過40億元公司債券的註冊申請。本次發行公司債券應嚴格按照報送上海證券交易所的募集說明書進行，批覆自同意註冊之日起24個月內有效，公司可在註冊有效期內分期發行。"
-    },
-    {
-      "id": "4981130",
-      "time": "2026-07-10 18:44:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【城建發展：董事會同意合作投資房地產專案，總投資額不超100億元】城建發展公告，公司第九屆董事會第三十九次會議審議透過關於與關聯人合作投資房地產專案的議案。公司擬與北京住總房地產開發有限責任公司以50%:50%的股權比例組成聯合體，參與昌平區東小口鎮CP02-0405-0002地塊R2二類居住用地的出讓預申請及競買工作，專案整體支付的地價款及後續開發建設資金總額度不超過100億元，其中公司總借款額度不超過50億元。該議案尚需提交公司2026年第一次臨時股東會審議。"
-    },
-    {
-      "id": "4981129",
-      "time": "2026-07-10 18:43:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【保利發展：6月公司簽約金額297.79億元，同比增加2.65%】保利發展公告，2026年6月，公司實現簽約面積160.9萬平方米，同比增加5.62%；簽約金額297.79億元，同比增加2.65%。2026年1-6月，公司實現簽約面積631.94萬平方米，同比減少11.44%；簽約金額1351.06億元，同比減少6.93%。"
-    },
-    {
-      "id": "4981128",
-      "time": "2026-07-10 18:43:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萬通發展：完成工商變更登記 註冊資本及法定代表人變更】萬通發展公告稱，公司此前審議透過變更註冊資本及選舉董事長議案，總股本由18.90億股增至19.43億股，註冊資本由18.90億元變更為19.43億元，法定代表人變更為王薇女士。近日，公司完成工商變更登記及章程備案手續，並取得換髮的營業執照。"
-    },
-    {
-      "id": "4981127",
-      "time": "2026-07-10 18:42:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "VINFAST AUTO LTD ：2026年6月越南國內電動汽車初步交付量為17,955輛。"
-    },
-    {
-      "id": "mkt:019f4b9f-3ccf-7aab-8d30-66832fbe9b38",
-      "time": "2026-07-10 18:42:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Oman’s foreign minister said he welcomed Indian foreign minister Jaishankar and that the two held substantive talks on intensified diplomatic efforts to safeguard freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "4981126",
-      "time": "2026-07-10 18:42:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：軟銀集團和PayPay正在洽談投資Seven & I。"
     }
   ]
 }
