@@ -1,7 +1,190 @@
 {
-  "updated": "2026-07-17 22:06:53",
-  "count": 19153,
+  "updated": "2026-07-17 22:11:21",
+  "count": 19157,
   "items": [
+    {
+      "id": "4994838",
+      "time": "2026-07-17 22:10:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "據訊息人士透露，世界盃足球賽決賽中場休息時長將超過15分鐘。現場搭建工作將持續7分鐘。"
+    },
+    {
+      "id": "te:economy:567950",
+      "time": "2026-07-17 22:09:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Declines — The yield on the 10-year US Treasury note fell to 4.52% from the near two-month high of 5.62% on July 13th, amid softer inflation data and a decline in risk sentiment. Both consumer and producer inflation decline in June, while inflation expectations measured by the Michigan survey dropped for a second month, suggesting that the pullback in wholesale fuel costs are being transmitted to the economy. Fixed-income assets were also supported by new geopolitical uncertainty after US President Trump claimed China compromised US presidential elections in 2020, risking the truce between both countries since the exchange of tariff hikes last year. Still, pro-inflationary risks lingered as commercial vessels refrained from crossing the Strait of Hormuz due to new strikes between Iran and the US. Rate futures suggested that over two thirds of the market are positioned for a Fed hike by the end of the year, although this month's decision is expected to be a hold."
+    },
+    {
+      "id": "4994837",
+      "time": "2026-07-17 22:09:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國銀行人民幣國際使用推介會在荷蘭舉辦】近日，中國銀行“共拓中荷經貿投資與人民幣國際使用新機遇”人民幣國際使用推介會活動在荷蘭舉辦。活動現場，中荷兩國政府、金融業、企業界的專業人士，聚焦人民幣國際使用與中國經濟展望、外匯市場走勢、中國資本市場投資等話題進行討論和分享，為在荷企業和金融機構使用好人民幣融資工具、參與人民幣市場提供專業支援，進一步助力深化中荷經貿金融務實合作。"
+    },
+    {
+      "id": "4994836",
+      "time": "2026-07-17 22:09:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【到2030年我國美麗鄉村整縣建成比例要達到55%】記者17日獲悉，生態環境部等六部門聯合印發的《土壤、地下水和農業農村生態環境保護“十五五”規劃》提出，到2030年，美麗鄉村整縣建成比例達到55%。生態環境部土壤生態環境司負責人介紹，自《美麗鄉村建設實施方案》印發以來，美麗鄉村建設實現良好開局，23個縣（市、區）納入第一批美麗鄉村先行區，美麗鄉村整縣建成比例達到20%。“十四五”以來，全國新增完成環境整治行政村11萬餘個，農村生活汙水治理率超過55%，全國50%以上行政村基本實現乾淨整潔。5042條較大面積農村黑臭水體實現基本消除，直接受益人口約972萬。（新華社）"
+    },
+    {
+      "id": "4994835",
+      "time": "2026-07-17 22:09:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【沐曦股份釋出曦景S系列超節點與曦索X300 GPU】7月17日，沐曦股份在2026世界人工智慧大會（WAIC）首發曦景S系列超節點與曦索X300系列科學智慧GPU。其中，曦景S600實現單機櫃內64卡高密度部署，可靈活支援EP、TP等多維並行策略，全面覆蓋大模型訓推流程。曦索X300系列採用全國產供應鏈與全自研GPGPU架構，具備全精度混合算力與大容量高頻寬視訊記憶體，搭載相容主流生態的MXMACA軟體棧，可支撐氣象海洋、流體力學、分子動力學等經典科學計算，並面向材料科學、生命科學等AI4S前沿科研提供算力支援。"
+    },
+    {
+      "id": "mkt:019f7068-e795-7aab-8de7-876e796b99fb",
+      "time": "2026-07-17 22:09:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "Tencent",
+        "Market Themes",
+        "AI Revolution",
+        "BABA.N",
+        "0700.HK"
+      ],
+      "text": "【New Doubao smartphone stocked at several hundred thousand units; AI will not use screen-reading GUI automation on major apps】The new-generation Doubao smartphone has reworked cooperation with super apps such as Alibaba and Tencent: it will not read screens, simulate clicks or otherwise operate apps via GUI automation even with user authorization. Doubao will only connect to those apps if the apps themselves provide MCP services, open partial data and permit control. Inventory has risen from about 30,000 units to several hundred thousand units, and Doubao’s assistant team is negotiating with leading app vendors for AI-callable interfaces or service capabilities."
+    },
+    {
+      "id": "mkt:019f7068-5fc4-7aab-8de7-7acc7bd29e3c",
+      "time": "2026-07-17 22:08:36",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed's Hammack said business leaders cited energy costs and supply-chain disruptions as factors, and also flagged insurance-sector strains and the effects of AI data-center construction."
+    },
+    {
+      "id": "4994834",
+      "time": "2026-07-17 22:08:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯頓·馬丁確認目前正在與潛在融資提供方進行持續商談。"
+    },
+    {
+      "id": "mkt:019f7068-3fc2-7aab-8de7-75303c4f61b4",
+      "time": "2026-07-17 22:08:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Hammack at the Federal Reserve said he sees solid growth data and steady consumer spending."
+    },
+    {
+      "id": "4994833",
+      "time": "2026-07-17 22:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯頓·馬丁預計2026財年財務業績將出現實質性改善。"
+    },
+    {
+      "id": "mkt:019f7068-0bf2-7aab-8de7-6d3dd443abff",
+      "time": "2026-07-17 22:08:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Fed official Hammack says the labor market is close to full employment. Current nowcast for core personal consumption expenditures (core PCE) shows core inflation at 3.3%."
+    },
+    {
+      "id": "4994832",
+      "time": "2026-07-17 22:08:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲哈瑪克：勞動力市場接近充分就業。當前核心個人消費支出（PCE）即時預測顯示核心通脹率為3.3%。"
+    },
+    {
+      "id": "mkt:019f7067-e5ba-7aab-8de7-60b9f8bfa1e0",
+      "time": "2026-07-17 22:08:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "Federal Reserve's Hammack said he approaches each FOMC meeting with an open mind and is focused on achieving the best outcomes for the American people."
+    },
+    {
+      "id": "te:economy:567949",
+      "time": "2026-07-17 22:07:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Michigan Inflation Expectations",
+        "Importance 1"
+      ],
+      "text": "US 1-Year Inflation Outlook Hits 4-Month Low — The year-ahead inflation expectations in the United States, as compiled by the survey of the University of Michigan, fell for the second month to 4.2% in July 2026, the lowest since March, down from 4.6% in June, preliminary estimates showed. Still, the figure remained well above the 3.4% recorded in February, before the Iran conflict began. In the meantime, the five-year inflation outlook stood at a three-month low of 3.3% in July, unchanged from June."
+    },
+    {
+      "id": "mkt:019f7067-b651-7aab-8de7-5921ab565395",
+      "time": "2026-07-17 22:07:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "Fed's HAMMACK said firms are urging action on inflation; consumers are desperate about their finances."
+    },
+    {
+      "id": "4994831",
+      "time": "2026-07-17 22:06:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國中央司令部：近期無美軍被俘或陣亡】美國中央司令部：伊朗部隊宣稱他們襲擊了敘利亞坦夫駐軍，並在此過程中俘獲或擊斃了美軍，此事不實，該地區近期沒有美軍人員被擊斃或被俘。"
+    },
+    {
+      "id": "mkt:019f7066-cc7a-7aab-8de7-56f23bf4c14b",
+      "time": "2026-07-17 22:06:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【CENTCOM says no US troops captured or killed recently】CENTCOM said claims by Iranian forces that they struck the US garrison at al-Tanf in Syria and captured or killed US personnel are false; there have been no US personnel killed or captured in the area recently."
+    },
     {
       "id": "4994830",
       "time": "2026-07-17 22:06:04",
@@ -10,6 +193,15 @@
         "國際"
       ],
       "text": "哈馬克：企業表示，美聯儲需要採取行動應對通脹。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607173811347718",
+      "time": "2026-07-17 22:06:03",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲官員哈瑪克：美聯儲的雙重使命之間不存在任何衝突】美聯儲官員哈瑪克表示，美聯儲的雙重使命之間不存在任何衝突。持續高企的通脹才是更大的隱憂。"
     },
     {
       "id": "te:economy:567948",
@@ -176375,123 +176567,6 @@
         "國際"
       ],
       "text": "【飛行中舷窗“脫落” 瑞安航空一客機緊急降落希臘】當地時間7月10日，歐洲最大廉價航空公司愛爾蘭瑞安航空公司表示，其一架客機在希臘塞薩洛尼基機場起飛後不久，因舷窗“脫落”被迫緊急降落。希臘方面訊息稱，飛機發動機部件脫落並砸碎了一扇舷窗，導致機艙失壓，一名乘客被部分吸出窗外。該航空公司表示，一名乘客接受了醫療救助，但未詳細說明事故原因。這架飛機原計劃從希臘塞薩洛尼基飛往德國梅明根機場。瑞安航空在一份宣告中表示：“飛機正常著陸，乘客已返回航站樓。”（央視新聞）"
-    },
-    {
-      "id": "4981511",
-      "time": "2026-07-10 22:11:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈薩克總統邀請美國總統特朗普訪問哈薩克。"
-    },
-    {
-      "id": "4981510",
-      "time": "2026-07-10 22:10:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國聯邦參議院批准醫療改革，掃清了立法的最後障礙。"
-    },
-    {
-      "id": "4981509",
-      "time": "2026-07-10 22:10:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍： 在黎巴嫩南部開展 20 餘次行動清除威脅。"
-    },
-    {
-      "id": "4981508",
-      "time": "2026-07-10 22:09:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科大訊飛：時隔兩年再獲國家科學技術進步獎一等獎】7月10日晚間訊息，2025年度國家科學技術獎評選結果揭曉，由鵬城實驗室牽頭，華為、北京大學、清華大學、科大訊飛等單位共同完成的“‘鵬城雲腦’超大規模國產智慧算力系統及產業化工程”專案，榮獲國家科學技術進步獎一等獎。該專案是全國產自主可控智算賽道的重大基礎創新，標誌著我國國產智慧算力系統研製取得重大突破。據悉，“鵬城雲腦”專案團隊聚力攻關，成功突破了基於國產AI晶片的超大規模智算架構與關鍵技術，研製完成國內首個全面自主可控的E級智慧算力平臺“鵬城雲腦Ⅱ”，並構建了全鏈條智算基礎軟體棧。在專案攻關中，科大訊飛重點開展基於國產算力的大規模並行訓練方法研究，推動國產智慧算力系統從技術攻關走向規模應用，展現出在大規模算力平臺構建、國產算力適配與應用、人工智慧工程化體系建設等方面的技術突破能力。依託相關技術積累，科大訊飛此後主導建設了“飛星一號”和“飛星二號”國產超大規模智算平臺，面向大模型訓練、推理和產業化落地需求，持續夯實國產算力底座，推動國產算力、大模型訓練平臺和人工智慧產業生態協同發展。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f4c5c-631a-7aab-8d34-86fdf708dc66",
-      "time": "2026-07-10 22:09:10",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Nagoya University develops transparent sensor that could shrink smartphone camera modules, improve image quality】Researchers at Nagoya University report in ACS Nano a gallium-doped zinc oxide (GZO) nanosheet optical sensor that can let a single pixel detect red, green and blue light simultaneously, potentially replacing the decades-old Bayer color filter array. If commercialized, the technology could enable smaller sensors and thinner smartphone camera modules, higher‑resolution medical imaging devices, more compact automotive and aerospace sensors, and simpler manufacturing processes."
-    },
-    {
-      "id": "4981507",
-      "time": "2026-07-10 22:08:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【威孚高科：擬4.5億元增資上海西恩 持有33.83%股權】威孚高科(000581)7月10日公告，公司擬4.5億元認購上海西恩科技股份有限公司（簡稱“上海西恩”）新增註冊資本2.31億元。增資完成後，公司將持有上海西恩33.83%股權，上海西恩將納入公司合併財務報表範圍。上海西恩主要從事廢舊鋰電池綜合回收利用、鋰電池材料研發生產銷售及危廢處置服務。在鋰電池正極材料需求持續高速增長、鋰電池退役潮來臨及電池回收相關產業政策指引的三重驅動下，鋰電池回收利用行業已邁入高速發展的戰略視窗期。公司將在現有核心能力底座之上延伸佈局新興產業賽道，緊抓新能源汽車與新型儲能綠色低碳發展、關鍵金屬迴圈資源的綜合再生利用產業的發展機遇，打造公司面向新能源轉型的核心戰略支撐板塊。"
-    },
-    {
-      "id": "4981506",
-      "time": "2026-07-10 22:08:51",
-      "tags": [
-        "市場"
-      ],
-      "text": "達美航空跌幅擴大至盤中低點3.5%。"
-    },
-    {
-      "id": "4981505",
-      "time": "2026-07-10 22:08:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "達美航空執行長表示，即便燃油價格回落，目前的營收增長勢頭仍有望保持。"
-    },
-    {
-      "id": "4981504",
-      "time": "2026-07-10 22:08:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "一位知情人士透露，在美國與伊朗衝突急劇升級後，副總統 JD・萬斯、美國特使史蒂夫・維特科夫以及賈裡德・庫什納本週一直與卡達官員保持聯絡。"
-    },
-    {
-      "id": "mkt:019f4c5a-f8d4-7aab-8d34-7bcde87a038c",
-      "time": "2026-07-10 22:07:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CBS reported Vance, Witkoff and Kushner are in contact with Qatar to bolster diplomatic efforts."
-    },
-    {
-      "id": "4981503",
-      "time": "2026-07-10 22:07:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網傳廣西賓陽百合水庫主壩已崩塌即將決堤 當地回應：系謠言】經賓陽縣水利局實地核查，上述言論純屬謠言。目前，百合水庫大壩穩定執行，各項執行指標正常，庫區水位已平穩降至汛限水位以下，不存在任何潰壩風險，相關網路資訊不實。（央視新聞）"
-    },
-    {
-      "id": "4981502",
-      "time": "2026-07-10 22:07:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【再提級！杭州市提升防颱風應急響應至Ⅱ級】根據《杭州市防汛防颱抗旱應急預案》，市防指決定於7月10日21時將防颱風應急響應提升至Ⅱ級。請各區、縣（市）防指及市級成員單位高效執行“1833”指揮體系，落實防颱風“1+9”方案，按照“五停”指導意見，進一步做好人員轉移和風險管控，切實保障人民群眾生命財產安全。(杭州釋出)"
-    },
-    {
-      "id": "mkt:019f4c5a-710e-7aab-8d34-73657d4ebd85",
-      "time": "2026-07-10 22:07:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kazakhstan's president invites U.S. President Trump to visit Kazakhstan."
-    },
-    {
-      "id": "4981501",
-      "time": "2026-07-10 22:06:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "達美航空執行長：預計今年將從美國運通獲得90億美元收益。"
     }
   ]
 }
