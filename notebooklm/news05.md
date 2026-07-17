@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-18 05:29:19_
-_本檔包含 3386 則快訊，約 717317 字_
+_更新時間：2026-07-18 06:25:49_
+_本檔包含 3398 則快訊，約 717168 字_
+
+---
+
+### 2026-07-13 19:03:35  #其他
+
+【投資者避險拋售AI股，蘋果市值反彈近6000億美元】隨著市場對AI相關投資支出的擔憂加劇，投資者正重新湧入蘋果(AAPL.O)，避開晶片製造商和雲端計算巨頭等AI概念股。蘋果股價上個月曾因其即將推出的AI功能展示令人失望而一度下挫，但自6月25日觸底以來已反彈15%，市值增加近6000億美元，股價也重返歷史高位。蘋果股價的逆轉，反映出市場對AI鉅額投資能否帶來回報的擔憂日益加劇。儘管蘋果的AI產品屢次令投資者失望，但其不參與資料中心“軍備競賽”的決定，如今越來越被視為一項優勢。Rye Strategic Partners首席投資策略師Mark Bronzo表示：“市場正在進行一場博弈，而目前蘋果正從中受益，因為它未捲入其他AI概念股所面臨的風暴。人們擔心超大規模雲服務商（Hyperscalers）在AI上的鉅額投入究竟能獲得怎樣的回報，同時也有人認為半導體股估值過高，因此，投資者重新回到蘋果這類穩健、且不存在這些風險的股票。”
+
+---
+
+### 2026-07-13 19:03:35  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+EU imposes ban on purchase, import and transfer of Sudanese gold.
+
+---
+
+### 2026-07-13 19:03:17  #公司
+
+【安集科技：制定H股發行並上市後資訊披露暫緩與豁免制度】安集科技公告稱，為規範資訊披露暫緩與豁免行為，公司制定《資訊披露暫緩與豁免事務管理制度（草案）》（H股發行並上市後適用）。制度明確了適用範圍、暫緩及豁免披露資訊範圍，規定資訊披露義務人應審慎確定相關事項並履行內部稽核程式，採取措施防止資訊洩露。已辦理的資訊在特定情形下需及時披露，公司還確立了責任追究機制。該制度經董事會審議透過，自公司H股在港交所掛牌上市之日起生效。
+
+---
+
+### 2026-07-13 19:03:05  #公司
+
+【雙傑電氣：子公司及自身被國網暫停中標 預計減少營收】雙傑電氣公告稱，控股子公司無錫變壓器因違規行為於2025年12月18日被國網江蘇公司全品類暫停中標三年，國家電網總部自2026年3月1日起擴大處理，至2029年2月28日結束。公司因部分品類產品抽檢不合格，於2026年6月1日被國網總部擴大處理，至2027年5月31日結束。2025年度，雙傑電氣和國網營收4.77億元，佔比9.86%；無錫變壓器和國網營收2.85億元，佔比5.89%。2026 - 2029年預計減少營收分別為2.17億元、4.30億元、3.88億元、1.89億元。公司已啟動申訴程式。
+
+---
+
+### 2026-07-13 19:02:52  #國際
+
+市場訊息：伊朗方面更新阿巴丹市的傷亡情況：2人死亡，3人受傷。
+
+---
+
+### 2026-07-13 19:02:33  #宏觀 #市場 #國際
+
+市場訊息：歐盟出臺禁令，禁止採購、進口及轉運蘇丹黃金。
+
+---
+
+### 2026-07-13 19:02:17  #公司
+
+【鴻路鋼構：預計上半年淨利潤同比增長50.00%～70.00%】鴻路鋼構公告，預計2026年上半年淨利潤為4.32億元～4.9億元，同比增長50.00%～70.00%。報告期內，公司智慧化轉型升級成效逐步顯現，公司產品質量以及產能利用率持續穩定提升，生產成本得到了有效管控和最佳化，智慧化改造有效增強了公司產品綜合競爭力，助力產品產銷量穩步增長，有效拉動公司利潤實現良好提升。
+
+---
+
+### 2026-07-13 19:02:14  #市場 #國際
+
+印度 6 月黃金進口額 19.7 億美元。
+
+---
+
+### 2026-07-13 19:02:09  #國際
+
+印度 6 月植物油進口額達 16.1 億美元。
+
+---
+
+### 2026-07-13 19:01:39  #其他
+
+【研究估算熱浪或已致英格蘭和威爾士2700人死亡】倫敦帝國學院、英國氣象局和倫敦衛生與熱帶醫學院的研究人員表示，今年夏季的多輪熱浪可能已導致英格蘭和威爾士超過2700人死亡。氣候變化使熱浪期間的氣溫比原本高出3至4攝氏度，僅這一因素就造成了估算死亡人數中逾40%的死亡病例。
+
+---
+
+### 2026-07-13 19:01:33  #公司
+
+【永興材料：預計2026年上半年淨利潤同比增長137.02%-186.92%】永興材料公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為9.5億元至11.5億元，比上年同期增長137.02%至186.92%；扣除非經常性損益後的淨利潤為9億元至11億元，比上年同期增長175.66%至236.92%。變動原因為受益於下游動力電池及儲能行業的發展，鋰鹽產品價格同比上行，公司鋰電新能源業務碳酸鋰產品產銷穩定，銷售價格較上年同期有較大幅度增長。
+
+---
+
+### 2026-07-13 19:01:13  #公司
+
+【徐家彙：預計2026年上半年由盈轉虧，淨利潤虧損2000萬-2800萬元】徐家彙公告，預計2026年上半年歸屬於上市公司股東的淨利潤為-2800萬元至-2000萬元，上年同期為盈利466.47萬元，同比由盈轉虧；扣除非經常性損益後的淨利潤為-1200萬元至-600萬元，上年同期為-220.36萬元；基本每股收益為-0.0673元/股至-0.0481元/股。業績變動原因：一是公司持續深化業態轉型，關閉低效門店並最佳化人員結構，導致人力成本顯著上升；二是新開專案新六百YOUNG尚處培育期，前期營銷投入較大，短期內對業績貢獻不明顯。
+
+---
+
+### 2026-07-13 19:01:03  #其他
+
+市場訊息：加拿大航空與代表相關人員的國際機械師與航空航天工會達成全新臨時協議 。
+
+---
+
+### 2026-07-13 19:00:55  #MKT News
+
+Bank Indonesia deputy governor said the central bank will continue to adhere to its commitment to maintain rupiah stability to encourage foreign capital inflows.
+
+---
+
+### 2026-07-13 19:00:50  #公司
+
+【保隆科技：預計2026年上半年淨利潤2.46億元-3億元，同比增長82.56%-122.64%】保隆科技公告，預計2026年半年度歸屬於母公司所有者的淨利潤為2.46億元到3億元，與上年同期的1.35億元相比，同比增加82.56%到122.64%；預計歸屬於母公司所有者的扣除非經常性損益的淨利潤為1.28億元到1.54億元，與上年同期的9842.95萬元相比，同比增加30.04%到56.46%。業績預增主要原因為：公司持續推進市場拓展，2026年上半年主營業務規模穩步提升，主營業務獲利增加；同時，對參股公司確認了公允價值變動收益，提升了公司業績。
+
+---
+
+### 2026-07-13 19:00:43  #央行 #國際
+
+印尼央行副行長：印度尼西亞銀行將繼續堅守承諾，維持印尼盾匯率穩定，以吸引外資流入。
+
+---
+
+### 2026-07-13 19:00:32  #MKT News
+
+REUTERS SURVEY: Economists expect the BOC will not change its interest rate policy before 2027.
+
+---
+
+### 2026-07-13 19:00:28  #公司
+
+【耐普礦機：預計2026年半年度由盈轉虧，淨利潤虧損1000萬元-1300萬元】耐普礦機公告，預計2026年半年度歸屬於上市公司股東的淨利潤為-1300萬元至-1000萬元，上年同期盈利1698.56萬元，由盈轉虧；扣除非經常性損益後的淨利潤為-1500萬元至-1200萬元。報告期內，公司實現合同簽訂額8.08億元，同比增長39%；預計營業收入較上年同期增長約20.38%。淨利潤下滑主要因美元貶值產生匯兌損失3535.33萬元（去年同期損失266.29萬元），以及固定資產折舊攤銷費用增加1360.16萬元至5595.62萬元。預計非經常性損益對淨利潤影響金額約194.13萬元。
+
+---
+
+### 2026-07-13 19:00:15  #其他
+
+葉門總統委員會主席：胡塞武裝拒絕了所有倡議，執意在國家機構之外強加既成事實。
+
+---
+
+### 2026-07-13 19:00:12  #公司
+
+【魅視科技：預計2026年上半年淨利潤420萬元-550萬元，同比下降71.17%-77.98%】魅視科技公告，預計2026年半年度歸屬於上市公司股東的淨利潤為420萬元至550萬元，較上年同期的1907.76萬元下降71.17%至77.98%；扣除非經常性損益後的淨利潤為280萬元至410萬元，同比下降77.21%至84.43%；基本每股收益0.03元/股至0.04元/股（上年同期0.19元/股）。業績下降主要因公司2025年實施首輪股權激勵，上半年涉及股份支付費用約1600餘萬元；剔除股份支付影響後，歸屬於上市公司股東的淨利潤預計為2020萬元至2250萬元。本業績預告為初步測算，未經審計。
 
 ---
 
@@ -20442,53 +20562,5 @@ Tata Consultancy earnings above expectations at 38.30 INR — Tata Consultancy (
 ### 2026-07-11 06:27:15  #公司 #市場
 
 【Elliott據悉已成為軟體公司CCC的大額投資方‌】Elliott投資管理公司已在正探索潛在出售方案的CCC智慧解決方案控股公司中積累了大額股份。目前Elliott的投資規模尚未對外披露，CCC的相關磋商仍處於早期階段，最終能否達成出售交易尚無定論。CCC主營車險行業軟體，用於輔助處理車險理賠與車輛維修相關業務，其股價在紐約週五交易中上漲10%，收於5.92美元。
-
----
-
-### 2026-07-11 06:15:16  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Polish Zloty Increases by 0.99% — Top currency gainers are Polish Zloty (0.99%), Brazilian Real (0.50%), Mexican Peso (0.43%), Japanese Yen (0.41%) and Dollar Index (0.06%). Biggest losers are Norwegian Krone (-0.61%) and Euro (-0.14%). Meanwhile British Pound was little changed.
-
----
-
-### 2026-07-11 06:09:02  #其他
-
-【委內瑞拉地震已致4118人遇難】當地時間7月10日傍晚，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國地震遇難人數上升至4118人。（CCTV國際時訊）
-
----
-
-### 2026-07-11 06:00:05  #央行 #國際
-
-【美聯儲7月維持利率不變的機率為66.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為66.3%，累計加息25個基點的機率為33.7%。 美聯儲到9月維持利率不變的機率為31%，累計加息25個基點的機率為51.1%，累計加息50個基點的機率為18%。
-
----
-
-### 2026-07-11 05:57:16  #國際
-
-【中方敦促維護中東地區停火止戰局面】中國常駐聯合國副代表孫磊10日在安理會伊朗核問題公開會上發言，敦促維護中東地區停火止戰局面。 孫磊說，美國和伊朗簽署諒解備忘錄，中東地區緊張局勢一度趨緩，但當前停火局面又出現反覆，談判前景複雜。伊核問題能否得到妥善解決，事關中東地區能否迴歸和平穩定，事關國際社會共同利益。相關當事方應以理性務實態度推進談判。美伊諒解備忘錄承諾尊重彼此主權和領土完整，永久停止所有戰線軍事活動，就談判及解除制裁設定路線圖。中方敦促相關各方排除干擾因素，摒棄訴諸武力或以武力相威脅，維護並落實諒解備忘錄成果，達成兼顧彼此關切的解決方案，儘快解除對伊朗制裁，推動政治解決程序取得實質性進展。 他說，處理好伊核問題必須尊重當事方的合理訴求和合法權益。伊朗應繼續堅持不發展核武器的承諾。伊朗享有和平利用核能的合法權利。美國應以實際行動為政治解決伊核問題創造條件。安理會的當務之急，是堅持客觀公正立場，為外交努力爭取時間和空間，為談判營造積極有利氛圍，避免成為個別國家推進自身政治議程、搞施壓的工具。 會議開始前，俄羅斯代表指出，核可伊核問題全面協議的安理會第2231號決議已失效，伊核問題已經從安理會議程中剔除。俄羅斯代表要求就會議議程進行程式性表決。(新華社)
-
----
-
-### 2026-07-11 05:53:54  #MKT News #Brent #Impact bullish #WTI
-
-【US demands Iran publicly pledge by Saturday to stop firing on commercial vessels in Strait of Hormuz】Axios reported the Trump administration has demanded Iran publicly, by Saturday, pledge to stop firing on commercial vessels and confirm the Strait of Hormuz will remain open. US officials said the request was conveyed via direct channels and regional intermediaries. Washington says recent Iranian attacks on commercial shipping in and around the strait breached a memorandum of understanding signed weeks earlier and risk collapsing a fragile ceasefire. Iran’s Araghchi is due to meet Omani Foreign Minister Badr al‑Busaidi in Muscat on Saturday; the US wants a public commitment after that meeting that attacks will cease and vessels will not be charged transit fees. US officials said nuclear talks with Iran had made some progress but the Hormuz incidents raise doubts about Tehran’s ability to implement more complex agreements. US warned it would take further action if Iran refuses.
-
----
-
-### 2026-07-11 05:53:36  #國際
-
-【美方要求伊朗週六前承諾停止向霍爾木茲海峽船隻開火】據Axios報道，特朗普政府要求伊朗最遲在週六公開宣告，確認霍爾木茲海峽保持開放，並承諾停止向商業船隻開火。美國官員表示，該要求已透過直接渠道以及地區調解方傳達給伊朗。美方認為，伊朗近期在霍爾木茲海峽及周邊對商業船隻發動襲擊，違反了雙方數週前簽署的諒解備忘錄，使脆弱的停火協議面臨破裂風險。報道稱，伊朗外長阿拉格齊與阿曼外長布賽迪預計將於週六在阿曼首都馬斯喀特會面，討論霍爾木茲海峽局勢。美方希望伊朗在此次會談後發表公開宣告，承諾停止襲擊，並確認海峽航道開放且免收通行費。美國官員稱，美伊核談判近期取得一定進展，但霍爾木茲危機引發美方對伊朗履行更復雜協議能力的擔憂。若伊朗拒絕相關要求，美方警告將採取進一步行動。
-
----
-
-### 2026-07-11 05:41:41  #MKT News
-
-Axios cited a U.S. official: "If tomorrow they (Iran) do not make a related statement, tomorrow will not be a good day for them."
-
----
-
-### 2026-07-11 05:30:48  #MKT News #WTI #Impact bearish #XAUUSD #DXY
-
-【Israel curbs operations in southern Lebanon at US request, media says】Israeli public broadcaster reported on Oct. 10 that, at Washington’s request, Israel has ordered its military to suspend "sensitive" operations in southern Lebanon. The directive will remain in effect until further notice and is conditional on developments in the US–Iran military confrontation and progress in Israel–Lebanon negotiations. The report said US concern about escalation linked to its recent confrontation with Iran prompted the request; Israeli forces are to maintain restraint and will begin next week withdrawing from two areas of their designated south Lebanon security zone, a step tied to a late‑June framework agreement reached in Washington. Israel and Lebanon are expected to resume talks next week in Rome.
 
 ---

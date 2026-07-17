@@ -1,7 +1,121 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-18 05:29:19_
-_本檔包含 3759 則快訊，約 717749 字_
+_更新時間：2026-07-18 06:25:49_
+_本檔包含 3770 則快訊，約 717471 字_
+
+---
+
+### 2026-07-18 06:20:28  #公司 #國際
+
+GAMESTOP：根據提交給美國證券交易委員會(SEC)的檔案，該公司在6月8日至6月15日期間，以3.813億美元（含費用及開支）購入350萬股EBAY普通股。
+
+---
+
+### 2026-07-18 06:19:58  #公司
+
+【塔可鐘錶示已從門店下架與環孢子蟲病疫情相關的生菜】百勝餐飲集團（Yum Brands）旗下塔可鍾（Taco Bell）週五在一份宣告中表示，已從餐廳下架受環孢子蟲疫情影響的生菜。塔可鍾在宣告中表示：“基於與公共衛生官員的持續溝通，出於高度謹慎的考慮，塔可鍾迅速採取行動，自願從餐廳下架該產品，受影響的食材已從我們全國的供應鏈中移除。”
+
+---
+
+### 2026-07-18 06:19:46  #國際
+
+【伊拉克北部庫區4架無人機襲擊美國駐埃爾比勒領館附近】伊拉克北部庫爾德自治區一名訊息人士17日說，當晚4架無人機在美國駐伊拉克埃爾比勒領館附近被擊落。此外，庫區蘇萊曼尼亞省的一處彈藥庫當晚也遭到無人機襲擊。該訊息人士告訴新華社記者，一架無人機襲擊了蘇萊曼尼亞省首府蘇萊曼尼亞市的一處武器庫。襲擊引發大火，導致倉庫內儲存的彈藥發生爆炸。民防人員已趕赴現場，目前正在全力控制火勢。該訊息人士還說，伊朗當天6時左右向蘇萊曼尼亞省發射多枚導彈，致當地一武裝組織至少9名成員死亡、3人受傷。同在17日，庫區反恐總局發表宣告說，8架無人機當天凌晨在庫區首府埃爾比勒被擊落。（新華社）
+
+---
+
+### 2026-07-18 06:17:43  #國際
+
+市場訊息：美國國務院發言人皮戈特對英國依據《國家安全法》將伊朗革命衛佇列為制裁物件的行為表示歡迎。
+
+---
+
+### 2026-07-18 06:15:18  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Mexican Peso Drops by 0.53% — Top currency losers are Mexican Peso (-0.53%), South Korean Won (-0.53%), Indian Rupee (-0.25%) and British Pound (-0.18%). Gains are led by Norwegian Krone (0.33%). Meanwhile, Euro and Dollar Index were little changed.
+
+---
+
+### 2026-07-18 06:08:10  #國際
+
+伊朗方面訊息：“敵方”發射的彈丸落在伊朗中部亞茲德市域外，目前尚無人員傷亡報告。
+
+---
+
+### 2026-07-18 06:06:39  #其他
+
+市場訊息： 白宮正管控前沿人工智慧模型的訪問許可權。
+
+---
+
+### 2026-07-18 06:04:36  #央行 #國際
+
+【美聯儲7月維持利率不變的機率85.6%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為85.6%，累計加息25個基點的機率為14.4%。 美聯儲到9月維持利率不變的機率為41.4%，累計加息25個基點的機率為51.2%，累計加息50個基點的機率為7.5%。
+
+---
+
+### 2026-07-18 06:00:47  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran says it shot down US MQ-9 drone】Iran said early on the 18th local time that an Islamic Revolutionary Guard Corps naval air-defense system shot down a US MQ-9 drone.
+
+---
+
+### 2026-07-18 06:00:32  #市場 #焦點
+
+暗盤金價突破4000美元/盎司 日內漲幅0.5%。
+
+---
+
+### 2026-07-18 05:59:59  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+Iranian state TV, citing the Islamic Revolutionary Guard Corps, said two oil tankers exploded and caught fire after transiting a route south of the Strait of Hormuz that the IRGC said was seeded with sea mines.
+
+---
+
+### 2026-07-18 05:58:30  #國際
+
+【伊朗稱擊落一架美軍MQ-9無人機】據伊朗方面當地時間18日凌晨訊息，伊朗伊斯蘭革命衛隊海軍的防空系統擊落一架美軍MQ-9無人機。（央視新聞）
+
+---
+
+### 2026-07-18 05:57:41  #國際
+
+伊朗方面訊息：兩艘油輪在駛過霍爾木茲海峽南部一處布有水雷的航道後發生爆炸並起火。
+
+---
+
+### 2026-07-18 05:45:35  #觀點
+
+伊拉克總理辦公室：伊拉克已與摩根大通達成協議，允許摩根大通在伊拉克開設分行。
+
+---
+
+### 2026-07-18 05:44:51  #國際
+
+特朗普對國際足聯說：再次選擇美國，但不要墨西哥和加拿大。
+
+---
+
+### 2026-07-18 05:43:18  #國際
+
+【加拿大野火殃及美國空氣 特朗普稱將以關稅追償損失】美國總統特朗普當地時間17日在社交媒體發文指責加拿大維護森林不善，稱加森林野火殃及美國空氣質量，類似情況每年發生，給美國帶來“數十億美元”損失。他表示當天將就此致電加拿大總理，並威脅說美方損失必須加到加拿大支付的關稅上。（央視新聞）
+
+---
+
+### 2026-07-18 05:37:50  #國際
+
+【伊朗譴責美襲擊民用基礎設施犯下戰爭罪】伊朗外交部發言人巴加埃當地時間18日在其個人社交媒體發文稱，美國試圖展示其所謂“實力”的方式，就是透過襲擊民用基礎設施和殺害平民。巴加埃說，美國17日對霍爾木茲甘省發動非法襲擊，針對橋樑等目標實施打擊，造成8名無辜伊朗人死亡——包括4名男性和4名女性，其中有一對患有殘疾的兄弟。美國再次公然犯下戰爭罪行。巴加埃表示，伊朗人民現在比以往任何時候都更加堅定和團結，決心讓這些野蠻的敵人為其針對伊朗發動的這場犯罪侵略付出沉重代價。（央視新聞）
+
+---
+
+### 2026-07-18 05:36:06  #市場
+
+市場訊息：巴西將於7月20日拍賣至多5萬份外匯掉期合約。
+
+---
+
+### 2026-07-18 05:29:46  #國際
+
+【伊朗多地傳出爆炸聲】總檯記者當地時間18日凌晨獲悉，伊朗多地傳出爆炸聲。伊朗南部法爾斯省拉爾市南部郊區傳出爆炸聲；伊朗中部城市亞茲德周邊地區傳出5次爆炸聲，當地居民稱聽見戰機飛行的聲音。（央視新聞）
 
 ---
 
@@ -22654,53 +22768,5 @@ Kraken交易所推出適用於比特幣（BTC）與以太幣（ETH）的全新�
 ### 2026-07-16 21:40:18  #Trading Economics #Markets #United States #Stock Market #Importance 1
 
 The Dow Jones Index Opens 0.14% Higher — The Dow Jones Index is up by 76 points or 0.14 percent on Thursday. Top gainers are UnitedHealth (8.74%), Coca-Cola (2.17%) and Home Depot (2.16%). Biggest losses came from IBM (-2.50%), Goldman Sachs (-2.37%) and Cisco Systems (-2.21%).
-
----
-
-### 2026-07-16 21:40:02  #公司
-
-【海通國際張憶東：港股AI行情有望迴歸升勢 並進一步向更廣泛的AI產業鏈擴散】海通國際分析師張憶東釋出研報稱，7月解禁不確定性如期落地並轉換為實際的市場波動。總體而言，解禁不構成港股科技行情的系統性風險，6、7月“夏日寒風”的調整正進入餘波階段。其次，7月解禁風險正逐步兌現，相關重點公司進入基本面定價。解禁後AI大模型公司的定價邏輯將由解禁事件、稀缺性和小流通盤博弈，轉向商業化兌現與盈利質量驗證。8月份隨著海外宏觀流動性和微觀流動性衝擊的緩和，疊加互聯互通的南向承接力增強，AI行情有望迴歸升勢並進一步從AI稀缺資產向更廣泛的AI產業鏈擴散。
-
----
-
-### 2026-07-16 21:39:37  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Pull Back — US stocks fell on Thursday on pressure from chip producers and risks of a hawkish Federal Reserve. The S&P 500 dropped 0.3% and the Nasdaq 100 lost more than 1%, while the Dow was flat. Chip producers fell sharply on skepticism that AI hyperscalers could slow infrastructure spending. Speculative demand in the sector was also dented by Korea prohibiting leveraged ETFs and signals of more efficient machines by ASML. Micron, AMD, Sandisk, Intel, and Broadcom dropped around 3%. Meanwhile, UnitedHealth surged 7% after beating earnings and raising its full-year guidance. Retail sales data reflected a strong US consumer net of lower fuel turnover, while low initial jobless claims extended the period of a strong labor market. The data added to bets of a Fed hike this year as more strikes between Iran and the US rekindled energy inflation. On the M&A front, Uber jumped 3% after acquiring Delivery Hero for $14.8 billion and Eli Lilly fell 1% after acquiring AtaiBeckly for a $3.8 billion.
-
----
-
-### 2026-07-16 21:39:17  #其他
-
-【機器人天團亮相 探訪宇樹具身智慧體驗館亞洲首店】2026世界人工智慧大會暨人工智慧全球治理高階別會議將於7月17日至20日在上海舉行。此次大會以“智慧夥伴 共創未來”為主題，展覽總面積首次突破10萬平方米，超過1100家企業參展，300餘款產品全球首發，將全方位展現人工智慧產業的前沿突破與全新生態。其中，具身智慧成為本屆大會備受關注的熱點之一。 會場外，具身智慧應用持續走進大眾視野。最近，宇樹科技“具身智慧體驗館”亞洲首店對外開放，展出並銷售該品牌的C端產品，讓前沿的具身智慧技術走出實驗室，走進普通民眾生活，吸引了眾多國內外遊客和本地市民駐足打卡、體驗、選購。在這裡，具身智慧成為全新的消費品類。未來，具身智慧還將持續迭代，走入千家萬戶，賦能千行百業。（新華社）
-
----
-
-### 2026-07-16 21:39:01  #其他
-
-馬士基透過在蘇阿佩設立配送中心，強化其在巴西東北部的綜合物流能力。
-
----
-
-### 2026-07-16 21:38:17  #市場
-
-雅培股價攀升至盤中最高點11%，創2020年以來最大漲幅。
-
----
-
-### 2026-07-16 21:37:55  #國際
-
-胡塞武裝發表宣告：沙特與美國、以色列和英國合作，破壞伊斯蘭民族任何統一和團結的立場。必須對沙特予以懲處。
-
----
-
-### 2026-07-16 21:37:28  #Trading Economics #Markets #United States #stocks #Importance 1
-
-ProLogis Stock Price Hits 4-week High — ProLogis shares increased to 146.41 USD, the highest since June 2026. Over the past 4 weeks, ProLogis lost 0.17%, and in the last 12 months, it increased 32.4%.
-
----
-
-### 2026-07-16 21:37:18  #MKT News
-
-【Houthis say Saudi Arabia complicit, must be punished】Houthi militants said Saudi Arabia, in cooperation with the US, Israel and the UK, is undermining Islamic unity and its role is now exposed. They called Saudi Arabia’s years-long aggression in Yemen unlawful and conducted within an alliance with the US and Israel. They said the primary victims are Palestinians, whom they described as suffering genocide, and demanded Saudi be punished and perpetrators held accountable.
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-18 05:29:19_
-_本檔包含 3892 則快訊，約 717157 字_
+_更新時間：2026-07-18 06:25:49_
+_本檔包含 3891 則快訊，約 717825 字_
+
+---
+
+### 2026-07-15 18:57:27  #Trading Economics #Markets #India #Stock Market #Importance 1
+
+Sensex Finishes Slightly Higher — India’s BSE Sensex pared early gains to close about 0.2% up at 77,185 on Wednesday, recovering part of prior session's losses, as investors engaged in profit-booking amid persistent Middle East tensions and higher oil prices. The earlier rally was underpinned by banks and financial stocks ahead of key earnings, with cooler-than-expected US inflation data also lifting sentiment by easing concerns over a more aggressive Federal Reserve. SBIN, Bajaj Finance, HDFC Bank and ICICI Bank added between 0.6% and 1.5%. Meanwhile, Eternal (3.1%) and UltraTech Cement (2.8%) topped the gainers, alongside IndiGo, Asian Paints and Tech Mahindra, all adding more than 1% each. Power Grid was the biggest laggard, falling 1.7%, followed by Larsen & Toubro (-1.7%), Tata Steel (-1.7%), Infosys (-1.4%), NTPC (-1.1%) and Bajaj Finserv (-1%).
+
+---
+
+### 2026-07-15 18:56:45  #其他
+
+【騰訊混元：上線一週，Hy3總呼叫量增長超68倍】7月15日，騰訊混元發文表示，截至今天，騰訊混元大模型Hy3總呼叫量較上一代模型（Hy2）增長已超68倍。
+
+---
+
+### 2026-07-15 18:56:41  #MKT News #EURUSD #Impact bearish #DAX
+
+【Capital Economics: Euro area industry faces structural imbalance】Capital Economics analyst Jack Allen-Reynolds says that although euro area industrial output has shown resilience since the Iran conflict erupted, the 21-country currency area faces a structural imbalance. Industrial activity was already in decline before the pandemic and now shows a pronounced K-shaped divergence: output is rising in high-tech and defence while most other sectors are contracting. High energy costs and foreign competition continue to depress traditional manufacturing. "We doubt any recent EU trade-policy tweaks will produce material change," he said.
+
+---
+
+### 2026-07-15 18:56:33  #其他
+
+【河南平漯周高鐵魯湛特大橋跨鄭渝高鐵成功轉體】今天（7月15日）凌晨，河南平漯周高鐵魯湛特大橋跨鄭渝高鐵T構梁成功轉體對接，標誌著專案建設取得重要進展。此次魯湛特大橋跨鄭渝高鐵轉體橋採用2×100米T構連續梁設計，轉體總重量高達16000噸，全長201.5米，梁面高度34.5米，是全線噸位最重、跨度最大、高度最高的轉體橋，是平漯周高鐵全線關鍵控制性工程，轉體成功對於整個專案建設推進具有重大意義。（央視新聞）
+
+---
+
+### 2026-07-15 18:56:11  #公司
+
+【三環集團：董事會換屆選舉 提名7位董事候選人】三環集團公告稱，公司第十一屆董事會任期屆滿，決定進行換屆選舉。第十二屆董事會將由8名董事組成，其中非獨立董事4名，獨立董事3名，職工代表董事1名。董事會提名張萬鎮、李鋼、馬豔紅、邱基華為非獨立董事候選人，提名蔣利軍、蘇彥奇、黃斯穎為獨立董事候選人。上述候選人任職需經深交所備案稽核及公司股東會審議，任期三年。在新一屆董事會就任前，第十一屆董事會仍履職。
+
+---
+
+### 2026-07-15 18:56:05  #公司
+
+【青島銀行：持股5%以上股東減持1.84%股份計劃實施完畢】青島銀行公告稱，股東青島海爾產業發展有限公司於2026年7月8日至7月14日，透過大宗交易方式累計減持公司A股股份10709.45萬股，佔公司股份總數的1.84%，減持均價5.21元/股，減持價格區間為5.20元/股至5.23元/股。本次減持後，海爾產業發展持有公司股份42550.6841萬股，佔比7.31%；其與一致行動人合計持股94878.4443萬股，佔比16.30%。本次減持計劃已實施完畢，不會影響公司治理結構及持續經營。
+
+---
+
+### 2026-07-15 18:55:56  #公司
+
+【華海藥業：聘任徐學健為公司副總裁兼首席質量官】華海藥業公告稱，公司於2026年7月15日召開第九屆董事會第十四次臨時會議，審議透過聘任徐學健為公司副總裁兼首席質量官，全面負責公司的質量管理和分析檢測工作，任期至第九屆董事會屆滿為止。徐學健曾在江蘇恆瑞醫藥等公司任職，截至目前未持有公司股份，與公司相關方不存在關聯關係，符合任職條件。
+
+---
+
+### 2026-07-15 18:55:40  #其他
+
+市場訊息：NICHIREI稱其伺服器遭受網路攻擊。
+
+---
+
+### 2026-07-15 18:55:06  #MKT News #Star Stocks #Alphabet #Market Regions #Europe & UK #Market Themes #Magnificent 7 #GOOGL.O #Impact bearish
+
+【Financial Times: European Commission to announce fines and DMA orders against Google within a week】Financial Times reports multiple people familiar say the European Commission plans to issue several separate enforcement decisions against Google within the next week, imposing fines totalling in the hundreds of millions of euros. The measures are said to include the threat of daily penalty payments and new regulatory orders under the EU Digital Markets Act. Under the DMA, breaches can carry fines of up to 10% of global turnover; Alphabet’s revenue last year was $402.83 bln.
 
 ---
 
@@ -23409,65 +23463,5 @@ BofA (BAC.N) Q2 wealth and investment management revenue $6.87bn, vs. $6.61bn ex
 ### 2026-07-14 18:42:29  #宏觀
 
 【六部門釋出《固體廢物汙染防治“十五五”規劃》】生態環境部、國家發展改革委等六部門今天聯合印發《固體廢物汙染防治“十五五”規劃》。這是我國首部固體廢物汙染防治五年專項規劃，為全面推進美麗中國建設劃定了“十五五”時期的治汙路線圖。《規劃》提出了未來五年的總體目標：到2030年，重點領域固體廢物專項整治取得明顯成效，固體廢物歷史堆存量得到有效管控，非法傾倒處置高發態勢得到遏制，固體廢物綜合治理能力和水平顯著提升，固體廢物資訊化監管“一張網”實現重點領域全覆蓋，建成一批“無廢城市”。其中危險廢物填埋處置量佔比由2025年約13%降至10%以內，重點一般工業固體廢物貯存填埋量佔比由約56%降至30%以內，危險廢物相關單位全過程資訊化監管覆蓋率要達到100%。非法傾倒和非法處置固體廢物事件發生率指標，到2030年要大幅降低。《規劃》緊盯痛點攻堅，全鏈條智慧監管成為亮點，在開展非法傾倒處置、溶洞垃圾、磷石膏庫等重點領域專項整治中，運用衛星遙感、人工智慧建立智慧監測網路。對危險廢物開展全過程環境管理能力建設，推進“五即”，即產生、即包裝、即稱重、即打碼、即入庫規範化建設，強化危險廢物“一碼貫通”實時可追溯資訊化監管，全面實現危險廢物運輸車輛軌跡實時追蹤。針對新能源退役裝置、廢棄電器電子產品等新興領域，將加快完善回收處理體系，並支援200個左右城市開展“無廢城市”建設。專家介紹，我國每年產生固體廢物超過110億噸、歷年堆存工業固體廢物約300億噸，固體廢物汙染點多、面廣，《固體廢物汙染防治“十五五”規劃》的出臺，必將推動固體廢物汙染防治工作治難點、補短板、強弱項（央視新聞）
-
----
-
-### 2026-07-14 18:42:07  #MKT News #Market Regions #Greater China
-
-【Six ministries' solid-waste plan targets hazardous-waste landfill share below 10% by 2030】Six ministries issued China’s Solid Waste Pollution Prevention “15th Five-Year” Plan, setting 2030 targets: reduce hazardous-waste landfill disposal share from about 13% in 2025 to under 10%; cut storage-and-landfill share of priority general industrial solid waste from about 56% to below 30%; achieve 100% full-process digital supervision coverage for hazardous-waste units; and sharply lower incidence of illegal dumping and illegal disposal. The plan also calls for containment of historical stockpiles, materially upgraded overall solid-waste management capacity, integrated digital regulatory coverage across key areas, and construction of a number of zero-waste cities.
-
----
-
-### 2026-07-14 18:41:55  #公司
-
-【奔圖科技：預計2026年上半年實現扭虧為盈，淨利潤7500萬元-9500萬元】奔圖科技公告，預計2026年半年度歸屬於上市公司股東的淨利潤為盈利7500萬元-9500萬元，上年同期虧損3.12億元，實現扭虧為盈；扣除非經常性損益後的淨利潤盈利3500萬元-5200萬元，上年同期虧損1.65億元；基本每股收益盈利0.0527元/股-0.0668元/股。業績變動原因：印表機業務方面，上半年營業收入約17.25億元，同比下降約25%，淨利潤約1.47億元，同比下降約55%，主因主控晶片安全可靠測評導致信創出貨節奏未恢復；印表機整體銷量同比下降約5%，海外銷量同比增長約31%，A3印表機銷量同比增長約34%。積體電路業務方面，極海微上半年營業收入約6.45億元，同比增長約16%，淨利潤約0.31億元，同比增長約74%，晶片總出貨量3.78億顆，同比增長約29%（工控晶片銷量同比增長約66%，汽車晶片銷量同比增長約50%）。通用耗材業務方面，上半年營業收入約25.07億元，同比下降約7%，淨利潤約0.32億元，同比增長約17%，總銷量同比增長約20%。
-
----
-
-### 2026-07-14 18:41:49  #公司 #國際
-
-【日本東京迪士尼10月起將上調門票上限價格】7月14日，運營日本東京迪士尼度假區的東方樂園公司表示，10月起將上調門票上限價格。門票價格因一週中不同日子和時期有所差異，成人單人一日票上限最多將漲價1500日元，達到12400日元（約合人民幣518元），兒童票上限價格將上調300日元至5900日元。這將是2023年10月以來東京迪士尼首次提價。
-
----
-
-### 2026-07-14 18:41:40  #公司
-
-【曲江文旅：預計2026年上半年實現扭虧為盈，淨利潤約660萬元】曲江文旅公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤約660萬元，實現扭虧為盈；上年同期淨利潤為-1388.07萬元。預計扣除非經常性損益後的淨利潤約-6000萬元，上年同期為-7074.02萬元。業績預盈主要因公司持續加強成本管控，各項成本費用同比減少，以及收到大額回款衝回應收款項減值準備所致。
-
----
-
-### 2026-07-14 18:41:39  #MKT News
-
-First round of India–Maldives free trade agreement talks concluded, market sources said.
-
----
-
-### 2026-07-14 18:41:36  #國際
-
-市場訊息：印度-馬爾地夫自由貿易協定談判首輪結束。
-
----
-
-### 2026-07-14 18:41:34  #MKT News #WTI #Impact bullish #Brent
-
-According to Iranian media, U.S. artillery struck Iran's Abadan county and the Mahshahr area on Tuesday afternoon.
-
----
-
-### 2026-07-14 18:41:30  #觀點
-
-摩根大通預計2026年信用卡業務淨沖銷率約為3.2% 。
-
----
-
-### 2026-07-14 18:41:15  #公司
-
-【亞振家居：預計2026年上半年淨利潤虧損1350萬元至2000萬元，上年同期虧損3082.47萬元】亞振家居公告，預計2026年半年度歸屬於母公司所有者的淨利潤為-2000萬元到-1350萬元，上年同期為-3082.47萬元；扣除非經常性損益後的淨利潤為-3900萬元到-3200萬元，上年同期為-3163.91萬元。業績預虧主要原因：家居業務銷售收入同比下降，疊加部分生產成本上升，銷售毛利率同比下降，銷售毛利無法覆蓋運營支出；鋯鈦礦選礦業務主要產品鈦精礦與獨居石市場價格持續低迷，銷售毛利率維持低位。
-
----
-
-### 2026-07-14 18:41:10  #公司
-
-【卓郎智慧：預計2026年上半年虧損5000萬-1億元，同比虧損收窄】卓郎智慧公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為-5000萬元到-1億元，與上年同期（法定披露資料）-2.01億元相比，虧損幅度收窄；預計扣非淨利潤為-5000萬元到-1億元。上年同期歸屬於母公司所有者的淨利潤為-2.01億元，每股收益-0.1125元。本期虧損收窄主要受匯率波動產生匯兌收益正向影響，但全球供應鏈波動疊加海外市場需求走弱導致仍繼續虧損。
 
 ---

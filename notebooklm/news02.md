@@ -1,7 +1,55 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-18 05:29:19_
-_本檔包含 4125 則快訊，約 717864 字_
+_更新時間：2026-07-18 06:25:49_
+_本檔包含 4124 則快訊，約 717272 字_
+
+---
+
+### 2026-07-16 21:40:02  #公司
+
+【海通國際張憶東：港股AI行情有望迴歸升勢 並進一步向更廣泛的AI產業鏈擴散】海通國際分析師張憶東釋出研報稱，7月解禁不確定性如期落地並轉換為實際的市場波動。總體而言，解禁不構成港股科技行情的系統性風險，6、7月“夏日寒風”的調整正進入餘波階段。其次，7月解禁風險正逐步兌現，相關重點公司進入基本面定價。解禁後AI大模型公司的定價邏輯將由解禁事件、稀缺性和小流通盤博弈，轉向商業化兌現與盈利質量驗證。8月份隨著海外宏觀流動性和微觀流動性衝擊的緩和，疊加互聯互通的南向承接力增強，AI行情有望迴歸升勢並進一步從AI稀缺資產向更廣泛的AI產業鏈擴散。
+
+---
+
+### 2026-07-16 21:39:37  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Pull Back — US stocks fell on Thursday on pressure from chip producers and risks of a hawkish Federal Reserve. The S&P 500 dropped 0.3% and the Nasdaq 100 lost more than 1%, while the Dow was flat. Chip producers fell sharply on skepticism that AI hyperscalers could slow infrastructure spending. Speculative demand in the sector was also dented by Korea prohibiting leveraged ETFs and signals of more efficient machines by ASML. Micron, AMD, Sandisk, Intel, and Broadcom dropped around 3%. Meanwhile, UnitedHealth surged 7% after beating earnings and raising its full-year guidance. Retail sales data reflected a strong US consumer net of lower fuel turnover, while low initial jobless claims extended the period of a strong labor market. The data added to bets of a Fed hike this year as more strikes between Iran and the US rekindled energy inflation. On the M&A front, Uber jumped 3% after acquiring Delivery Hero for $14.8 billion and Eli Lilly fell 1% after acquiring AtaiBeckly for a $3.8 billion.
+
+---
+
+### 2026-07-16 21:39:17  #其他
+
+【機器人天團亮相 探訪宇樹具身智慧體驗館亞洲首店】2026世界人工智慧大會暨人工智慧全球治理高階別會議將於7月17日至20日在上海舉行。此次大會以“智慧夥伴 共創未來”為主題，展覽總面積首次突破10萬平方米，超過1100家企業參展，300餘款產品全球首發，將全方位展現人工智慧產業的前沿突破與全新生態。其中，具身智慧成為本屆大會備受關注的熱點之一。 會場外，具身智慧應用持續走進大眾視野。最近，宇樹科技“具身智慧體驗館”亞洲首店對外開放，展出並銷售該品牌的C端產品，讓前沿的具身智慧技術走出實驗室，走進普通民眾生活，吸引了眾多國內外遊客和本地市民駐足打卡、體驗、選購。在這裡，具身智慧成為全新的消費品類。未來，具身智慧還將持續迭代，走入千家萬戶，賦能千行百業。（新華社）
+
+---
+
+### 2026-07-16 21:39:01  #其他
+
+馬士基透過在蘇阿佩設立配送中心，強化其在巴西東北部的綜合物流能力。
+
+---
+
+### 2026-07-16 21:38:17  #市場
+
+雅培股價攀升至盤中最高點11%，創2020年以來最大漲幅。
+
+---
+
+### 2026-07-16 21:37:55  #國際
+
+胡塞武裝發表宣告：沙特與美國、以色列和英國合作，破壞伊斯蘭民族任何統一和團結的立場。必須對沙特予以懲處。
+
+---
+
+### 2026-07-16 21:37:28  #Trading Economics #Markets #United States #stocks #Importance 1
+
+ProLogis Stock Price Hits 4-week High — ProLogis shares increased to 146.41 USD, the highest since June 2026. Over the past 4 weeks, ProLogis lost 0.17%, and in the last 12 months, it increased 32.4%.
+
+---
+
+### 2026-07-16 21:37:18  #MKT News
+
+【Houthis say Saudi Arabia complicit, must be punished】Houthi militants said Saudi Arabia, in cooperation with the US, Israel and the UK, is undermining Islamic unity and its role is now exposed. They called Saudi Arabia’s years-long aggression in Yemen unlawful and conducted within an alliance with the US and Israel. They said the primary victims are Palestinians, whom they described as suffering genocide, and demanded Saudi be punished and perpetrators held accountable.
 
 ---
 
@@ -24806,59 +24854,5 @@ NICHIREI：受停電影響的冷凍食品出貨。
 ### 2026-07-15 18:57:31  #MKT News #Market Themes #AI Revolution
 
 【Hy3 first-week invocations >68x Hy2】Company PR director Zhang Jun said Hy3’s total invocations in its first week exceeded more than 68 times those of prior-generation model Hy2. Hy3’s uptake is accelerating versus its preview release, showing a steeper growth slope.
-
----
-
-### 2026-07-15 18:57:27  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Finishes Slightly Higher — India’s BSE Sensex pared early gains to close about 0.2% up at 77,185 on Wednesday, recovering part of prior session's losses, as investors engaged in profit-booking amid persistent Middle East tensions and higher oil prices. The earlier rally was underpinned by banks and financial stocks ahead of key earnings, with cooler-than-expected US inflation data also lifting sentiment by easing concerns over a more aggressive Federal Reserve. SBIN, Bajaj Finance, HDFC Bank and ICICI Bank added between 0.6% and 1.5%. Meanwhile, Eternal (3.1%) and UltraTech Cement (2.8%) topped the gainers, alongside IndiGo, Asian Paints and Tech Mahindra, all adding more than 1% each. Power Grid was the biggest laggard, falling 1.7%, followed by Larsen & Toubro (-1.7%), Tata Steel (-1.7%), Infosys (-1.4%), NTPC (-1.1%) and Bajaj Finserv (-1%).
-
----
-
-### 2026-07-15 18:56:45  #其他
-
-【騰訊混元：上線一週，Hy3總呼叫量增長超68倍】7月15日，騰訊混元發文表示，截至今天，騰訊混元大模型Hy3總呼叫量較上一代模型（Hy2）增長已超68倍。
-
----
-
-### 2026-07-15 18:56:41  #MKT News #EURUSD #Impact bearish #DAX
-
-【Capital Economics: Euro area industry faces structural imbalance】Capital Economics analyst Jack Allen-Reynolds says that although euro area industrial output has shown resilience since the Iran conflict erupted, the 21-country currency area faces a structural imbalance. Industrial activity was already in decline before the pandemic and now shows a pronounced K-shaped divergence: output is rising in high-tech and defence while most other sectors are contracting. High energy costs and foreign competition continue to depress traditional manufacturing. "We doubt any recent EU trade-policy tweaks will produce material change," he said.
-
----
-
-### 2026-07-15 18:56:33  #其他
-
-【河南平漯周高鐵魯湛特大橋跨鄭渝高鐵成功轉體】今天（7月15日）凌晨，河南平漯周高鐵魯湛特大橋跨鄭渝高鐵T構梁成功轉體對接，標誌著專案建設取得重要進展。此次魯湛特大橋跨鄭渝高鐵轉體橋採用2×100米T構連續梁設計，轉體總重量高達16000噸，全長201.5米，梁面高度34.5米，是全線噸位最重、跨度最大、高度最高的轉體橋，是平漯周高鐵全線關鍵控制性工程，轉體成功對於整個專案建設推進具有重大意義。（央視新聞）
-
----
-
-### 2026-07-15 18:56:11  #公司
-
-【三環集團：董事會換屆選舉 提名7位董事候選人】三環集團公告稱，公司第十一屆董事會任期屆滿，決定進行換屆選舉。第十二屆董事會將由8名董事組成，其中非獨立董事4名，獨立董事3名，職工代表董事1名。董事會提名張萬鎮、李鋼、馬豔紅、邱基華為非獨立董事候選人，提名蔣利軍、蘇彥奇、黃斯穎為獨立董事候選人。上述候選人任職需經深交所備案稽核及公司股東會審議，任期三年。在新一屆董事會就任前，第十一屆董事會仍履職。
-
----
-
-### 2026-07-15 18:56:05  #公司
-
-【青島銀行：持股5%以上股東減持1.84%股份計劃實施完畢】青島銀行公告稱，股東青島海爾產業發展有限公司於2026年7月8日至7月14日，透過大宗交易方式累計減持公司A股股份10709.45萬股，佔公司股份總數的1.84%，減持均價5.21元/股，減持價格區間為5.20元/股至5.23元/股。本次減持後，海爾產業發展持有公司股份42550.6841萬股，佔比7.31%；其與一致行動人合計持股94878.4443萬股，佔比16.30%。本次減持計劃已實施完畢，不會影響公司治理結構及持續經營。
-
----
-
-### 2026-07-15 18:55:56  #公司
-
-【華海藥業：聘任徐學健為公司副總裁兼首席質量官】華海藥業公告稱，公司於2026年7月15日召開第九屆董事會第十四次臨時會議，審議透過聘任徐學健為公司副總裁兼首席質量官，全面負責公司的質量管理和分析檢測工作，任期至第九屆董事會屆滿為止。徐學健曾在江蘇恆瑞醫藥等公司任職，截至目前未持有公司股份，與公司相關方不存在關聯關係，符合任職條件。
-
----
-
-### 2026-07-15 18:55:40  #其他
-
-市場訊息：NICHIREI稱其伺服器遭受網路攻擊。
-
----
-
-### 2026-07-15 18:55:06  #MKT News #Star Stocks #Alphabet #Market Regions #Europe & UK #Market Themes #Magnificent 7 #GOOGL.O #Impact bearish
-
-【Financial Times: European Commission to announce fines and DMA orders against Google within a week】Financial Times reports multiple people familiar say the European Commission plans to issue several separate enforcement decisions against Google within the next week, imposing fines totalling in the hundreds of millions of euros. The measures are said to include the threat of daily penalty payments and new regulatory orders under the EU Digital Markets Act. Under the DMA, breaches can carry fines of up to 10% of global turnover; Alphabet’s revenue last year was $402.83 bln.
 
 ---
