@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-18 02:31:34",
+  "updated": "2026-07-18 02:35:33",
   "count": 18916,
   "items": [
+    {
+      "id": "4994998",
+      "time": "2026-07-18 02:34:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克庫區遭空襲】當地時間17日晚，伊拉克北部庫爾德自治區（庫區）蘇萊曼尼亞省塔斯盧賈的一處伊朗庫爾德反對派組織營地遭空襲。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7159-b913-7aab-8dea-5e30bb67cbf1",
+      "time": "2026-07-18 02:32:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session most-active contracts close】As of 02:30, Shanghai gold most-active contract rose 0.67% to 878 yuan/gram; Shanghai silver most-active contract rose 1.05% to 13,729 yuan/kg; Shanghai crude (SC) most-active contract rose 5.23% to 543 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f7159-91e8-7aab-8dea-52eadd56f348",
+      "time": "2026-07-18 02:32:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $82.49/bbl, up $3.54, or 4.48%."
+    },
+    {
+      "id": "mkt:019f7159-89d0-7aab-8dea-4da27f288aa5",
+      "time": "2026-07-18 02:32:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.61% in the July 17 evening session, closing at 876.0 yuan/gram; Silver T+D gained 1.16%, closing at 13,636.0 yuan/kg."
+    },
+    {
+      "id": "4994997",
+      "time": "2026-07-18 02:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收漲3.54美元，漲幅4.48%，報82.49美元/桶。NYMEX 8月天然氣期貨收報2.9110美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3927美元/加侖，NYMEX 8月取暖油期貨收報4.0646美元/加侖。"
+    },
     {
       "id": "4994996",
       "time": "2026-07-18 02:30:59",
@@ -174379,55 +174434,6 @@
         "國際"
       ],
       "text": "衛星影象顯示 ：伊朗或正在重建部分核設施。"
-    },
-    {
-      "id": "4981855",
-      "time": "2026-07-11 02:32:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西貴港、玉林等地部分地區釋出暴雨紅色預警】廣西貴港市氣象臺2026年7月11日1時28分將港北區、港南區、覃塘區暴雨橙色預警訊號提升為紅色：過去3小時港南區東津、八塘降雨量已達90毫米以上，目前強降雨雲團移動緩慢，強度維持，預計未來3小時內港北區、港南區、覃塘區大部鄉鎮仍有30到40毫米，港南區東津、八塘仍有60毫米以上強降雨，城鄉積澇、農田漬澇、山洪地質災害氣象風險很大，請注意防範。（央視新聞）"
-    },
-    {
-      "id": "4981854",
-      "time": "2026-07-11 02:32:16",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：美國財政部以伊朗在霍爾木茲海峽發動襲擊為由出臺制裁措施。"
-    },
-    {
-      "id": "mkt:019f4d4c-e543-7aab-8d38-d1ed2984c436",
-      "time": "2026-07-11 02:31:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "U.S. crude futures settled at $71.41 a barrel, down $0.67 or 0.93%."
-    },
-    {
-      "id": "mkt:019f4d4c-d3ce-7aab-8d38-ccb288f9eb9e",
-      "time": "2026-07-11 02:31:48",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "【Night session main contracts close】As of the 02:30 close, SHFE gold main contract fell 0.56% to 896 yuan/gram, SHFE silver main contract fell 0.58% to 14,589 yuan/kg, and SC crude oil main contract fell 1.07% to 464 yuan/barrel."
-    },
-    {
-      "id": "4981853",
-      "time": "2026-07-11 02:31:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "WTI 8月原油期貨收跌0.67美元，跌幅0.93%，報71.41美元/桶。中東Abu Dhabi Murban原油期貨跌0.99%，報70.66美元/桶，本週累漲6.29%。NYMEX 8月天然氣期貨收報2.94美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9846美元/加侖，NYMEX 8月取暖油期貨收報3.5533美元/加侖。"
     }
   ]
 }

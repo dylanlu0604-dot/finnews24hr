@@ -1,7 +1,62 @@
 {
   "date": "2026-07-18",
-  "count": 106,
+  "count": 111,
   "items": [
+    {
+      "id": "4994998",
+      "time": "2026-07-18 02:34:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克庫區遭空襲】當地時間17日晚，伊拉克北部庫爾德自治區（庫區）蘇萊曼尼亞省塔斯盧賈的一處伊朗庫爾德反對派組織營地遭空襲。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7159-b913-7aab-8dea-5e30bb67cbf1",
+      "time": "2026-07-18 02:32:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session most-active contracts close】As of 02:30, Shanghai gold most-active contract rose 0.67% to 878 yuan/gram; Shanghai silver most-active contract rose 1.05% to 13,729 yuan/kg; Shanghai crude (SC) most-active contract rose 5.23% to 543 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f7159-91e8-7aab-8dea-52eadd56f348",
+      "time": "2026-07-18 02:32:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $82.49/bbl, up $3.54, or 4.48%."
+    },
+    {
+      "id": "mkt:019f7159-89d0-7aab-8dea-4da27f288aa5",
+      "time": "2026-07-18 02:32:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.61% in the July 17 evening session, closing at 876.0 yuan/gram; Silver T+D gained 1.16%, closing at 13,636.0 yuan/kg."
+    },
+    {
+      "id": "4994997",
+      "time": "2026-07-18 02:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收漲3.54美元，漲幅4.48%，報82.49美元/桶。NYMEX 8月天然氣期貨收報2.9110美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3927美元/加侖，NYMEX 8月取暖油期貨收報4.0646美元/加侖。"
+    },
     {
       "id": "4994996",
       "time": "2026-07-18 02:30:59",
