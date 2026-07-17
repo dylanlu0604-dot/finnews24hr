@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-18 02:03:50",
-  "count": 18933,
+  "updated": "2026-07-18 02:07:49",
+  "count": 18925,
   "items": [
+    {
+      "id": "4994988",
+      "time": "2026-07-18 02:06:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破82美元/桶，日內漲4.76%。"
+    },
     {
       "id": "mkt:019f713e-d7da-7aab-8de9-f9f360deabde",
       "time": "2026-07-18 02:02:51",
@@ -174510,88 +174519,6 @@
         "Impact bullish"
       ],
       "text": "SK Hynix CEO Guo Luzheng said supply-side dynamics will make 2027 the worst year of the memory shortage cycle."
-    },
-    {
-      "id": "mkt:019f4d36-bb2e-7aab-8d38-8eaaa2bb95a7",
-      "time": "2026-07-11 02:07:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Turkey's foreign minister said the US and Iran have communication shortfalls and misunderstandings over transit arrangements in the Strait of Hormuz, and called for improved communication channels and a more effective \"deconfliction mechanism\" to avoid further escalation."
-    },
-    {
-      "id": "mkt:019f4d36-9fa0-7aab-8d38-828a9f4030c9",
-      "time": "2026-07-11 02:07:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Turkey's foreign minister said Ankara does not interpret Trump's earlier remark that \"the ceasefire had ended\" as meaning the ceasefire agreement is actually terminated; he said it was a response to recent incidents between the US and Iran."
-    },
-    {
-      "id": "4981833",
-      "time": "2026-07-11 02:07:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SK海力士執行長表示：美國是未來晶圓廠的候選選址地之一，目前尚未作出最終決定。"
-    },
-    {
-      "id": "4981832",
-      "time": "2026-07-11 02:07:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK海力士執行長表示：預計2030年之後，客戶需求將超出供給產能。"
-    },
-    {
-      "id": "4981831",
-      "time": "2026-07-11 02:07:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK海力士執行長認為，從供應角度來看，2027年將是記憶體短缺週期中形勢最嚴峻的一年。"
-    },
-    {
-      "id": "mkt:019f4d34-f863-7aab-8d38-7b9f564862a0",
-      "time": "2026-07-11 02:05:44",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【BofA says US June CPI may slip as gasoline drops】BofA Securities analysts say US June headline CPI may fall 0.09% MoM, driven largely by a sharp drop in gasoline prices. They project core CPI around +0.28% MoM (2.9% YoY), noting World Cup-related demand is lifting services inflation. On that basis they expect core PCE to again print slightly firmer than CPI."
-    },
-    {
-      "id": "4981830",
-      "time": "2026-07-11 02:05:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "南非警方發言人表示，南非警方已逮捕一名涉嫌在英國犯下三起謀殺案的男子。"
-    },
-    {
-      "id": "4981829",
-      "time": "2026-07-11 02:05:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【歐盟警告Meta 整改其所稱 Facebook 與 Instagram 的 “成癮性設計”，否則或將面臨鉅額罰款】歐洲監管機構表示，無限滾動、影片自動播放、高度個性化資訊流等功能易誘導使用者過度使用平臺，兒童及弱勢使用者受影響尤為嚴重。歐盟委員會初步調查結論認定，Meta 未能充分評估並降低上述風險。歐盟方面要求 Meta 出臺相關整改措施，包括設定定時休屏提醒、強化家長管控功能、調整內容推薦演算法。Meta 方面稱不認同該調查結論，但會持續與歐盟監管部門溝通協商。"
-    },
-    {
-      "id": "4981828",
-      "time": "2026-07-11 02:04:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外長菲丹：我們解讀特朗普總統表態後認為，他並非真的宣佈停火已經失效。他此番言論主要是針對美伊之間一系列衝突事件引發的報復行動作出回應。美伊雙方在霍爾木茲海峽通航規則執行事宜上溝通不暢，產生了誤解。兩國需要加強溝通，並建立更完善的衝突規避機制。"
     }
   ]
 }
