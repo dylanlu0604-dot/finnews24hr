@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-17 08:02:54",
-  "count": 18811,
+  "updated": "2026-07-17 08:06:58",
+  "count": 18809,
   "items": [
+    {
+      "id": "4993100",
+      "time": "2026-07-17 08:06:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【馬斯克：部分發動機未能啟動，SpaceX星艦發射嘗試推遲】SpaceX星艦第13次試飛原定於當地時間週四下午在德克薩斯州南部的星港基地進行。這也是最新迭代版本V3火箭的第二次飛行，其將搭載20顆星鏈V3衛星執行測試任務。倒計時期間，發射測試出現狀況。SpaceX在社交媒體上發文稱，決定停止本次飛行測試嘗試。埃隆·馬斯克也發文回應稱：“部分發動機未能啟動，觸發了自動發射中止。目前正在解除安裝推進劑。下一次發射嘗試有望在幾天後進行。”"
+    },
+    {
+      "id": "4993099",
+      "time": "2026-07-17 08:05:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌1.31%，報65,958.00點。"
+    },
+    {
+      "id": "4993098",
+      "time": "2026-07-17 08:04:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克在X平臺上表示：星際飛船最可能的發射時間是下週初。為了確保飛行順利，將移除並更換2臺星艦的猛禽發動機。"
+    },
+    {
+      "id": "mkt:019f6d63-cde5-7aab-8dd3-62c7e2fb43ea",
+      "time": "2026-07-17 08:04:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said two Raptor engines on Starship will be removed and replaced to ensure a successful flight."
+    },
+    {
+      "id": "mkt:019f6d63-54f8-7aab-8dd3-5f2ce5474d08",
+      "time": "2026-07-17 08:04:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Musk said Starship is most likely to launch early next week."
+    },
+    {
+      "id": "4993097",
+      "time": "2026-07-17 08:04:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數在交易時段內跌破 66000 點，為 6 月 12 日以來首次。"
+    },
+    {
+      "id": "4993096",
+      "time": "2026-07-17 08:03:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【端側AI集中備案、京東騰訊生態打通 消費級AI迎來規模化拐點】7月15日，國內消費級人工智慧領域接連落地兩項重要進展。國家網信辦當日正式公示7款手機端側生成式人工智慧服務備案資訊，蘋果、華為、OPPO、vivo等主流終端品牌相關產品均在列，端側生成式AI服務正式步入合規運營階段，應用範圍將從試點逐步向規模化推廣；同日，京東與騰訊聯合宣佈京東AI Agent（智慧助理）與騰訊元寶完成小程式生態打通，以A2A模式將電商全鏈路服務能力接入對話式AI場景。"
+    },
     {
       "id": "mkt:019f6d61-0da7-7aab-8dd3-5410d7ca5812",
       "time": "2026-07-17 08:01:44",
@@ -172987,85 +173043,6 @@
         "其他"
       ],
       "text": "【為防禦颱風“巴威” 浙滬全面鋪開防颱風防汛準備】為防禦颱風“巴威”，浙江台州沿海水產養殖基地全面鋪開防颱風防汛準備。透過加大投餵、加固設施、備足排水裝置等措施，最大限度降低颱風帶來的漁業損失。（央視）"
-    },
-    {
-      "id": "mkt:019f4959-2fa6-7aab-8d22-b2d9f6d6d714",
-      "time": "2026-07-10 08:06:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's economic minister Kiuchi said the government has consistently conveyed it will pursue policies that prioritize fiscal sustainability."
-    },
-    {
-      "id": "4979908",
-      "time": "2026-07-10 08:06:33",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中金：鐳射通訊產業發展有望加速】中金指出，星間鐳射鏈路成為大型星座標配，牽引星間鐳射通訊終端需求擴張。中金認為，隨著衛星網際網路建設推進，鐳射通訊產業發展有望加速，建議關注核心零部件供應商及下游終端廠商投資機會。"
-    },
-    {
-      "id": "4979907",
-      "time": "2026-07-10 08:06:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【派格生物：與納斯達克上市公司Rani Therapeutics簽署諒解備忘錄】派格生物公告，公司於2026年7月8日與美國納斯達克上市公司Rani Therapeutics Holdings, Inc.簽署諒解備忘錄。根據諒解備忘錄，雙方擬依託Rani專有的RaniPill 口服生物藥遞送平臺，圍繞派格生物多項肥胖症及代謝疾病創新候選資產，開展口服制劑篩選及臨床前開發，並以推動最具潛力的候選專案進入臨床開發為目標，進一步探索相關產品在中國以外市場的研發、生產及商業化合作。"
-    },
-    {
-      "id": "4979906",
-      "time": "2026-07-10 08:05:41",
-      "tags": [
-        "資料",
-        "觀點"
-      ],
-      "text": "【中金：下半年PPI同比或呈回落態勢 預計三季度CPI同比仍較溫和】中金指出，6月PPI環比由漲轉降，主要是石油化工鏈受國際油價下行的影響所帶動，而在去年同期低基數支撐下，PPI同比漲幅由上月3.9%擴大至4.1%。受汽油和金飾等價格回落帶動工業消費品價格走弱的影響，CPI環比下降0.3%、同比回落至1.0%，核心通脹亦略有放緩。生產資料和生活資料價格剪刀差、PPI和CPI剪刀差均進一步擴大，或反映結構性分化特徵持續、中下游利潤延續承壓。往前看，中金認為，若油價不再顯著上行、環比動能繼續轉弱，疊加去年“反內卷”逐步推高基數，下半年PPI同比或呈回落態勢，在終端需求偏弱和豬價短期磨底下，預計三季度CPI同比仍較溫和。"
-    },
-    {
-      "id": "4979905",
-      "time": "2026-07-10 08:04:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟再生擔當大臣：政府一貫傳達其立場，即採取注重財政可持續性的政策。"
-    },
-    {
-      "id": "te:markets:565818",
-      "time": "2026-07-10 08:04:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Poised to End Week Little Changed — Gold steadied above $4,100 an ounce on Friday and was on track to finish the volatile week little changed, as investors continued to assess developments in the Middle East and their potential impact on inflation and monetary policy. Reports indicated that the US and Iran will continue peace talks despite a recent escalation in hostilities that disrupted energy flows through the Strait of Hormuz and renewed concerns over inflation. US forces carried out strikes on targets in Iran over two days in response to recent attacks on vessels in Hormuz, prompting retaliatory strikes by Tehran on US bases across the region. Markets continue to expect the Federal Reserve to raise interest rates at least once this year, although the policy outlook remains highly uncertain. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most focused on demand fueled by artificial intelligence."
-    },
-    {
-      "id": "4979904",
-      "time": "2026-07-10 08:04:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.1%，報8,756.90點。"
-    },
-    {
-      "id": "4979903",
-      "time": "2026-07-10 08:04:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "MINIMAX：債券可按初步轉換價每股A類股份335.00港元轉換為A類股份。"
-    },
-    {
-      "id": "4979902",
-      "time": "2026-07-10 08:03:13",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：CDU技術路徑演進 電子遮蔽泵迎歷史性替換拐點】中信證券指出，機櫃功率密度提升、液冷成標配、海外准入機制放寬及技術路線更迭，正共同驅動液冷泵行業發展。從產業鏈看，迴圈泵作為CDU的核心動力裝置，據測算其佔總BOM的20%—30%，直接決定系統的流量與執行穩定性。液冷泵並非基礎通用硬體製造，其准入門檻高度依賴多學科協同開發與長週期可靠性驗證，業內具備實質供應能力的企業有限。隨著機械泵向遮蔽泵的技術替代加速，具備絕對密封、高無故障執行時間、定製開發能力及核心客戶驗證履歷的供應商，將確立顯著的競爭優勢。"
     }
   ]
 }
