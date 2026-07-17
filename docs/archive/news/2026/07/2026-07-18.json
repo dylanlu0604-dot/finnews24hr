@@ -1,7 +1,77 @@
 {
   "date": "2026-07-18",
-  "count": 158,
+  "count": 165,
   "items": [
+    {
+      "id": "mkt:019f7191-3a06-7aab-8deb-0f2ecf1286a3",
+      "time": "2026-07-18 03:32:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC: For the week to July 14, speculative net shorts in CBOT US 10-year Treasury futures rose by 17,413 contracts to 831,675 contracts. Speculative net shorts in CBOT US 2-year Treasury futures fell by 103,531 contracts to 1,157,477 contracts."
+    },
+    {
+      "id": "mkt:019f7191-2794-7aab-8deb-05e9cbd8b213",
+      "time": "2026-07-18 03:32:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC: For the week to July 14, speculators in the four major natural-gas markets on NYMEX and ICE were net short 50,296 contracts, a reduction of 57,662 contracts from the prior week."
+    },
+    {
+      "id": "mkt:019f718f-e057-7aab-8dea-fdd5784b65ae",
+      "time": "2026-07-18 03:31:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Trump says tariffs will pay for damage from Canadian wildfires impacting US】US President Trump said Canada should be held responsible for inadequate forest management after Canadian wildfires sent hazardous, heavily polluted smoke into the US, and he will call the Canadian prime minister to press for action. He called the losses incalculable, accused Canada of deliberate, recurring negligence that costs the US billions annually, and threatened to add those costs to tariffs Canada already pays."
+    },
+    {
+      "id": "mkt:019f718f-ba1d-7aab-8dea-f55d1d375680",
+      "time": "2026-07-18 03:31:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "CFTC: For week ended July 14, COMEX speculative net-long positions — gold +4,294 contracts to 119,147; silver -1,755 contracts to 10,377; copper +1,536 contracts to 61,932."
+    },
+    {
+      "id": "4995032",
+      "time": "2026-07-18 03:30:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OPENROUTER 正在討論可能被一家更大的公司收購。"
+    },
+    {
+      "id": "4995031",
+      "time": "2026-07-18 03:29:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至7月14日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸削減1755手，至10377手。"
+    },
+    {
+      "id": "4995030",
+      "time": "2026-07-18 03:29:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至7月14日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸增加4294手，至119147手。"
+    },
     {
       "id": "mkt:019f718c-bc85-7aab-8dea-ea29be127bb7",
       "time": "2026-07-18 03:27:56",

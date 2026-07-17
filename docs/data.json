@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-18 03:29:24",
-  "count": 18924,
+  "updated": "2026-07-18 03:33:21",
+  "count": 18923,
   "items": [
+    {
+      "id": "mkt:019f7191-3a06-7aab-8deb-0f2ecf1286a3",
+      "time": "2026-07-18 03:32:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC: For the week to July 14, speculative net shorts in CBOT US 10-year Treasury futures rose by 17,413 contracts to 831,675 contracts. Speculative net shorts in CBOT US 2-year Treasury futures fell by 103,531 contracts to 1,157,477 contracts."
+    },
+    {
+      "id": "mkt:019f7191-2794-7aab-8deb-05e9cbd8b213",
+      "time": "2026-07-18 03:32:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CFTC: For the week to July 14, speculators in the four major natural-gas markets on NYMEX and ICE were net short 50,296 contracts, a reduction of 57,662 contracts from the prior week."
+    },
+    {
+      "id": "mkt:019f718f-e057-7aab-8dea-fdd5784b65ae",
+      "time": "2026-07-18 03:31:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Trump says tariffs will pay for damage from Canadian wildfires impacting US】US President Trump said Canada should be held responsible for inadequate forest management after Canadian wildfires sent hazardous, heavily polluted smoke into the US, and he will call the Canadian prime minister to press for action. He called the losses incalculable, accused Canada of deliberate, recurring negligence that costs the US billions annually, and threatened to add those costs to tariffs Canada already pays."
+    },
+    {
+      "id": "mkt:019f718f-ba1d-7aab-8dea-f55d1d375680",
+      "time": "2026-07-18 03:31:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "CFTC: For week ended July 14, COMEX speculative net-long positions — gold +4,294 contracts to 119,147; silver -1,755 contracts to 10,377; copper +1,536 contracts to 61,932."
+    },
+    {
+      "id": "4995032",
+      "time": "2026-07-18 03:30:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：OPENROUTER 正在討論可能被一家更大的公司收購。"
+    },
+    {
+      "id": "4995031",
+      "time": "2026-07-18 03:29:45",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至7月14日當週，紐約商品交易所（COMEX）白銀投機客將淨多頭頭寸削減1755手，至10377手。"
+    },
+    {
+      "id": "4995030",
+      "time": "2026-07-18 03:29:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）資料顯示：截至7月14日當週，紐約商品交易所（COMEX）黃金投機客將淨多頭頭寸增加4294手，至119147手。"
+    },
     {
       "id": "mkt:019f718c-bc85-7aab-8dea-ea29be127bb7",
       "time": "2026-07-18 03:27:56",
@@ -174432,93 +174502,6 @@
         "國際"
       ],
       "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，投機者削減 26573 手芝加哥期貨交易所美國 2 年期國債期貨淨空頭持倉，淨空頭持倉降至 1261008 手；\n增持 38606 手美國 5 年期國債期貨淨空頭合約，淨空頭持倉達 1359116 手；\n增持 5371 手美國 10 年期國債期貨淨空頭合約，淨空頭持倉增至 814262 手；\n增持 21150 手美國超長期國債期貨淨空頭合約，淨空頭持倉增至 307819 手。"
-    },
-    {
-      "id": "4981884",
-      "time": "2026-07-11 03:31:37",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，紐約商品交易所黃金投機者減持 1964 手淨多頭合約，淨多頭持倉降至 114854 手；\n銅投機者減持 970 手淨多頭合約，淨多頭持倉降至 60397 手；\n 白銀投機者減持 616 手淨多頭合約，淨多頭持倉降至 12131 手。"
-    },
-    {
-      "id": "mkt:019f4d83-919c-7aab-8d39-6935b5e02d16",
-      "time": "2026-07-11 03:31:35",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "GBPUSD"
-      ],
-      "text": "CFTC data for the week to July 7 show net short positions in the Japanese yen of 123,778 contracts, the euro 16,227 contracts, the pound sterling 87,903 contracts and the Swiss franc 37,414 contracts."
-    },
-    {
-      "id": "mkt:019f4d83-86c7-7aab-8d39-63ec56a31869",
-      "time": "2026-07-11 03:31:33",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "US Commodity Futures Trading Commission data for the week ended July 7: COMEX gold speculators reduced net long positions by 1,964 contracts to 114,854; silver net longs fell 616 contracts to 12,131; copper net longs fell 970 contracts to 60,397."
-    },
-    {
-      "id": "mkt:019f4d83-2c92-7aab-8d39-5e9f59b83ce5",
-      "time": "2026-07-11 03:31:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "CFTC: In the week to July 7, speculative net-long positions in four major natural gas contracts on NYMEX and ICE fell by 1,597 contracts to 7,366."
-    },
-    {
-      "id": "mkt:019f4d82-f9fd-7aab-8d39-51f287d6565b",
-      "time": "2026-07-11 03:30:56",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish"
-      ],
-      "text": "CFTC data: For the week to July 7, speculators reduced WTI crude net-long positions by 19,507 contracts to 65,681 contracts."
-    },
-    {
-      "id": "4981883",
-      "time": "2026-07-11 03:30:45",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）：7月7日當週，投機者所持WTI原油淨多頭頭寸減少19,507手合約，至65,681手合約。"
-    },
-    {
-      "id": "4981882",
-      "time": "2026-07-11 03:30:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，瑞郎淨空頭持倉 37414 手合約；英鎊淨空頭持倉 87903 手合約；歐元淨空頭持倉 16227 手合約；日元淨空頭持倉 123778 手合約。"
-    },
-    {
-      "id": "4981881",
-      "time": "2026-07-11 03:29:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，比特幣淨多頭持倉為 3500 手合約。"
     }
   ]
 }
