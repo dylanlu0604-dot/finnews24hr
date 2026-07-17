@@ -1,7 +1,62 @@
 {
   "date": "2026-07-18",
-  "count": 187,
+  "count": 193,
   "items": [
+    {
+      "id": "4995051",
+      "time": "2026-07-18 03:55:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：古巴央行推出2000比索與5000比索麵額紙幣。"
+    },
+    {
+      "id": "mkt:019f71a5-ff0c-7aab-8deb-521c2f131a14",
+      "time": "2026-07-18 03:55:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. conducts seventh consecutive night of strikes on Iran】CENTCOM said at 3:00 p.m. ET Friday it launched a seventh consecutive night of strikes on Iran intended to continue degrading Iran's military capabilities."
+    },
+    {
+      "id": "4995050",
+      "time": "2026-07-18 03:54:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：美國東部時間下午3點對伊朗發動了一輪打擊。"
+    },
+    {
+      "id": "4995049",
+      "time": "2026-07-18 03:54:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱對伊朗的打擊旨在削弱其軍事能力。"
+    },
+    {
+      "id": "4995048",
+      "time": "2026-07-18 03:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱對伊朗發動了更多襲擊。"
+    },
+    {
+      "id": "4995047",
+      "time": "2026-07-18 03:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方稱，美軍已引導4艘商船改道，這是伊朗封鎖行動相關應對措施的一部分。"
+    },
     {
       "id": "4995046",
       "time": "2026-07-18 03:52:18",

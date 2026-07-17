@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-18 03:52:58",
-  "count": 18930,
+  "updated": "2026-07-18 03:56:55",
+  "count": 18934,
   "items": [
+    {
+      "id": "4995051",
+      "time": "2026-07-18 03:55:53",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：古巴央行推出2000比索與5000比索麵額紙幣。"
+    },
+    {
+      "id": "mkt:019f71a5-ff0c-7aab-8deb-521c2f131a14",
+      "time": "2026-07-18 03:55:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. conducts seventh consecutive night of strikes on Iran】CENTCOM said at 3:00 p.m. ET Friday it launched a seventh consecutive night of strikes on Iran intended to continue degrading Iran's military capabilities."
+    },
+    {
+      "id": "4995050",
+      "time": "2026-07-18 03:54:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：美國東部時間下午3點對伊朗發動了一輪打擊。"
+    },
+    {
+      "id": "4995049",
+      "time": "2026-07-18 03:54:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱對伊朗的打擊旨在削弱其軍事能力。"
+    },
+    {
+      "id": "4995048",
+      "time": "2026-07-18 03:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國稱對伊朗發動了更多襲擊。"
+    },
+    {
+      "id": "4995047",
+      "time": "2026-07-18 03:52:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方稱，美軍已引導4艘商船改道，這是伊朗封鎖行動相關應對措施的一部分。"
+    },
     {
       "id": "4995046",
       "time": "2026-07-18 03:52:18",
@@ -174548,32 +174603,6 @@
         "市場"
       ],
       "text": "【國際油價10日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌67美分，收於每桶71.41美元，跌幅為0.93%；9月交貨的倫敦布倫特原油期貨價格下跌29美分，收於每桶76.01美元，跌幅為0.38%。"
-    },
-    {
-      "id": "te:markets:566127",
-      "time": "2026-07-11 03:56:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Lowe's Companies Stock Price Hits 4-week Low — Lowe's Companies shares decreased to 212.04 USD, the lowest since June 2026. Over the past 4 weeks, Lowe's Companies lost 4.04%, and in the last 12 months, it decreased 5.35%."
-    },
-    {
-      "id": "mkt:019f4d97-57e4-7aab-8d39-96d32011c6d6",
-      "time": "2026-07-11 03:53:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【Dollar index rises on 10th】The dollar index, which measures the U.S. dollar against six major currencies, rose 0.05% to 100.953 at the New York close. Crosses: EUR/USD 1.1416 (prev. 1.1434), GBP/USD 1.3398 (prev. 1.3416), USD/JPY 161.69 (prev. 162.34), USD/CHF 0.8085 (prev. 0.8066), USD/CAD 1.4152 (prev. 1.4167), USD/SEK 9.6638 (prev. 9.6602)."
     }
   ]
 }
