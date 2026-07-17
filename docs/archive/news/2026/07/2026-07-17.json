@@ -1,7 +1,84 @@
 {
   "date": "2026-07-17",
-  "count": 1135,
+  "count": 1143,
   "items": [
+    {
+      "id": "4993459",
+      "time": "2026-07-17 11:55:59",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通將 百度公司  目標價從230美元下調至205美元。"
+    },
+    {
+      "id": "te:markets:567733",
+      "time": "2026-07-17 11:55:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Rupiah Extends Gains on FDI Boost, Set for Weekly Rise — The Indonesian rupiah hovered around IDR 17,960 per U.S. dollar on Friday, extending gains for a fourth session. Sentiment was supported by foreign direct investment, which surged 27.4% yoy in Q2, pointing to resilient investor confidence. Meanwhile, the government is preparing to stabilise food prices amid El Niño-related supply risks after June headline inflation moved closer to the upper end of Bank Indonesia's target range. For the week, the currency was set for a modest 0.2% rise after prior weakness, with S&P reaffirming Indonesia's investment-grade rating with a stable outlook. However, gains were capped by higher oil prices and reports of fuel shortages in Sumatra. Traders also braced for Bank Indonesia's policy meeting next week after it delivered a cumulative 100bp rate hike in May and June. Globally, a softer U.S. dollar lent support, with the dollar index steady on Friday but on track for a weekly decline after cooler U.S. inflation tempered Federal Reserve rate hike bets."
+    },
+    {
+      "id": "mkt:019f6e37-0223-7aab-8dd8-e1234fc64b02",
+      "time": "2026-07-17 11:55:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "BIDU.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan cut Baidu (BIDU.O) price target to $205 from $230."
+    },
+    {
+      "id": "4993458",
+      "time": "2026-07-17 11:54:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌5%至43,342.48點。"
+    },
+    {
+      "id": "mkt:019f6e36-2509-7aab-8dd8-d8adbf9599d5",
+      "time": "2026-07-17 11:54:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【HKEX to accept RMB for stamp duty and trading levies】The Hong Kong SAR government gazetted the 2026 Stamp Duty (Amendment) (No. 2) Ordinance, specifying that stamp duty on RMB‑counter trades of dual‑counter securities will be calculated and paid in RMB. HKEX will permit participants to settle regulatory levies and trading‑related fees in RMB, including the SFC transaction levy, FSTB transaction levy, the investor compensation levy (currently suspended) and fees payable to the Exchange. HKEX said the measure standardizes payment currency for RMB counter trades to ease global investor use of RMB, and to help pave the way for potential inclusion of RMB counters in Stock Connect; it will continue coordinating with regulators and market participants to strengthen market infrastructure and expand the RMB product ecosystem."
+    },
+    {
+      "id": "4993457",
+      "time": "2026-07-17 11:54:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "派珀·桑德勒將 奈飛  目標股價從115美元下調至85美元。"
+    },
+    {
+      "id": "mkt:019f6e35-5ab9-7aab-8dd8-d75d861cc756",
+      "time": "2026-07-17 11:53:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【DRC Ebola cases exceed 2,100】DRC health ministry said in a report on the 16th the current Ebola outbreak’s cumulative confirmed cases stood at 2,124. As of the 15th there had been 828 deaths; 725 patients remained in isolation or hospital and 390 had recovered."
+    },
+    {
+      "id": "4993456",
+      "time": "2026-07-17 11:52:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港交易所：支援以人民幣繳付印花稅及交易相關費用】香港交易所今天歡迎香港特別行政區政府於憲報刊登《2026年印花稅（修訂）（第2號）條例》，該條例訂明雙櫃檯證券人民幣櫃檯交易的印花稅以人民幣計算和繳付的安排。為了向交易所參與者提供更簡便一致的繳款機制，香港交易所亦將作出相應安排，支援交易所參與者以人民幣繳付證監會交易徵費、會財局交易徵費、投資者賠償徵費（現暫停徵收）及付予聯交所的交易費（統稱交易相關費用）。"
+    },
     {
       "id": "mkt:019f6e33-a592-7aab-8dd8-ccc892797052",
       "time": "2026-07-17 11:51:46",
