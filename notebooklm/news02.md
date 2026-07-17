@@ -1,7 +1,444 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-18 00:41:40_
-_本檔包含 4074 則快訊，約 720647 字_
+_更新時間：2026-07-18 01:43:57_
+_本檔包含 4099 則快訊，約 719130 字_
+
+---
+
+### 2026-07-16 20:36:44  #國際
+
+【美國6月零售銷售速評】美國6月零售銷售環比增長0.2%，符合預期，前值由增長0.9%修正為增長1%。美國6月零售銷售溫和增長，因加油站收入下降拖累了整體資料，掩蓋了部分商家強勁的銷售表現。
+
+---
+
+### 2026-07-16 20:36:39  #公司 #國際
+
+美國銀行執行長布萊恩·莫伊尼漢表示，該行併購儲備專案儲備充足。
+
+---
+
+### 2026-07-16 20:36:28  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish
+
+Bank of America CEO Moynihan: consumers continue to spend.
+
+---
+
+### 2026-07-16 20:35:56  #其他
+
+雅培：旗下癌症診斷業務遭遇網路安全事件，此次事件未對運營及產品供應造成影響。
+
+---
+
+### 2026-07-16 20:35:52  #Trading Economics #Economy #United States #Initial Jobless Claims #Importance 2
+
+US Initial Claims Fall to 2-Month Low — The number of people claiming unemployment benefits in the US fell by 8,000 to 208,000 on the week to July 11th, well under expectations that it would increase to 217,000, to mark the lowest initial claim count in over two months. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, fell by 16,000 to 1,805,000 on the week to July 4th, under expectations of 1,820,000. The improvements indicated that the labor market remains robust with low levels of firing, despite pressure from declining labor force growth. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 20 to 424.
+
+---
+
+### 2026-07-16 20:35:22  #國際
+
+7月16日，全球基金淨賣出421億印度盧比的印度股票。
+
+---
+
+### 2026-07-16 20:35:16  #市場
+
+歐元下跌0.04%，報1.1458美元。
+
+---
+
+### 2026-07-16 20:35:11  #市場
+
+美元兌日後設資料公佈後變動不大，最新上漲0.01%，報162.2。
+
+---
+
+### 2026-07-16 20:35:07  #市場
+
+資料公佈後，美元指數上漲0.13%，報100.58點。
+
+---
+
+### 2026-07-16 20:35:05  #市場
+
+英鎊下跌0.27%，報1.3502美元。
+
+---
+
+### 2026-07-16 20:34:57  #國際
+
+澤連斯基：我與英國首相已舉行數十次會晤、磋商並共同作出多項決議。今天是他就任首相後第四次訪問烏克蘭，我們累計開展了 46 場正式會談與交流，平均每月至少兩次。我由衷感謝這段時間烏克蘭獲得的所有援助。
+
+---
+
+### 2026-07-16 20:34:32  #其他
+
+國際穀物理事會（IGC）維持2026/27年度全球小麥產量預測不變，仍為8.21億公噸。
+
+---
+
+### 2026-07-16 20:34:19  #Trading Economics #Economy #United States #Retail Sales MoM #Importance 3
+
+US Retail Sales Slow as Expected — Retail sales in the US rose 0.2% month-over-month in June 2026, following an upwardly revised 1% rise in May and in line with market expectations. It is the smallest gain in five months, suggesting consumer sending could be slowing down. Increases were seen in sales at motor vehicle & part dealers (1.9%), nonstore retailers (1.9%), sporting goods, hobby, musical instrument, & book stores (1.3%), electronics & appliance stores (0.8%),.
+
+---
+
+### 2026-07-16 20:34:10  #MKT News
+
+International Grains Council cuts 2026/27 global corn production forecast by 4 mln tonnes to 1.306 bln tonnes.
+
+---
+
+### 2026-07-16 20:33:51  #國際
+
+白俄羅斯6月工業生產同比增長2.8%。
+
+---
+
+### 2026-07-16 20:33:26  #國際
+
+美國氣候預報中心（CPC）：2026年10-12月發生極強厄爾尼諾事件的機率為81%。
+
+---
+
+### 2026-07-16 20:33:23  #宏觀
+
+【劉國中在吉林調研時強調 盯緊抓實洪澇災害防禦工作 切實做好農業防災減災】中共中央政治局委員、國務院副總理劉國中7月14日至16日到吉林調研。他強調，要深入學習貫徹習近平總書記關於防汛救災和“三農”工作的重要指示批示精神，按照黨中央、國務院部署，進一步提高思想認識，強化責任落實和協同配合，始終把保障人民生命安全放在首位，盯緊抓實洪澇災害防禦工作，切實做好農業防災減災，堅決守牢防洪安全和糧食安全底線。（新華社）
+
+---
+
+### 2026-07-16 20:32:48  #MKT News
+
+U.S. weather forecasting agency says El Nifio has strengthened over the past month and is expected to continue strengthening into 2026, persisting into early 2027.
+
+---
+
+### 2026-07-16 20:31:59  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+US two-year Treasury yield rose 3.39bps to 4.162% at the close.
+
+---
+
+### 2026-07-16 20:31:51  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #S&P500 #DXY #Impact bullish
+
+U.S. 10-year Treasury yield rose 3.65 bps to 4.582%.
+
+---
+
+### 2026-07-16 20:31:44  #市場 #國際
+
+美國國債收益率在零售銷售資料公佈後小幅回落漲幅；10年期美債收益率最新上漲3.65個基點，報4.582%。兩年期美國國債收益率最新上漲3.39個基點，報4.162%。
+
+---
+
+### 2026-07-16 20:31:43  #MKT News #S&P500
+
+S&P 500 futures were little changed after the release of June retail sales data.
+
+---
+
+### 2026-07-16 20:31:32  #公司
+
+Klarna集團完成5.18億美元重大風險轉移交易。
+
+---
+
+### 2026-07-16 20:31:11  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
+
+US July Philadelphia Fed manufacturing shipments index 33.7, prior 14.9.
+
+---
+
+### 2026-07-16 20:31:04  #MKT News #US10Y #Impact bearish #DXY #Impact bullish #XAUUSD
+
+US Philadelphia Fed manufacturing prices received index rose to 27.4 in July from 20.3 previously.
+
+---
+
+### 2026-07-16 20:31:03  #MKT News #Economic Calendar #Important
+
+United States | Philadelphia Fed Shipments Index (Jul) | actual 33.7 | previous 14.9
+
+---
+
+### 2026-07-16 20:30:59  #公司
+
+【中交集團董事長宋海良與湖南省副省長餘紅勝舉行會談】7月16日，中交集團黨委書記、董事長宋海良與來訪的湖南省副省長餘紅勝舉行會談。雙方圍繞深化企地戰略協同、推進重點專案合作進行深入交流。
+
+---
+
+### 2026-07-16 20:30:54  #MKT News #Economic Calendar #Important
+
+United States | Philadelphia Fed Prices Received Index (Jul) | actual 27.4 | previous 20.3
+
+---
+
+### 2026-07-16 20:30:51  #國際
+
+美國農業部：美國下營銷年度周度大豆出口淨銷售為176.96萬噸。
+
+---
+
+### 2026-07-16 20:30:41  #MKT News #Macro & Rates #DXY #Impact bullish #USDJPY #US10Y
+
+US June core retail sales $625.024 bln; prior $623.444 bln.
+
+---
+
+### 2026-07-16 20:30:34  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact mixed #US10Y #Impact bearish
+
+June U.S. retail sales $768.553 bln; prior $763.705 bln.
+
+---
+
+### 2026-07-16 20:30:32  #MKT News #Economic Calendar #Important
+
+United States | Core Retail Sales (Jun) | actual 625024000000B | previous 623444000000B
+
+---
+
+### 2026-07-16 20:30:27  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #XAUUSD #Impact bearish
+
+US initial jobless claims for the week ending July 11 recorded 208,000, the lowest since the week of May 2, 2026.
+
+---
+
+### 2026-07-16 20:30:26  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+US June retail sales control group +0.5% MoM, matching consensus +0.5%; prior revised up from 0.70% to 0.8%.
+
+---
+
+### 2026-07-16 20:30:25  #MKT News #Economic Calendar #Important
+
+United States | Retail Sales (Jun) | actual 768553000000B | previous 763705000000B
+
+---
+
+### 2026-07-16 20:30:23  #央行 #國際
+
+美國7月費城聯儲製造業指數 41.4，預期13，前值10.3。
+美國7月費城聯儲製造業物價支付指數 53.9，前值53.2。
+美國7月費城聯儲製造業新訂單指數 37，前值27.3。
+
+---
+
+### 2026-07-16 20:30:22  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+US Philadelphia Fed manufacturing employment index (July) 10.0; prior 7.9.
+
+---
+
+### 2026-07-16 20:30:22  #MKT News #Macro & Rates #US Economy #S&P500 #Impact mixed #US10Y #Impact bullish #DXY #Impact bearish
+
+US June core retail sales -0.2% MoM vs -0.1% expected; May revised up to 1.0% from 0.8%.
+
+---
+
+### 2026-07-16 20:30:22  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US July Philadelphia Fed manufacturing index at 41.4, highest since Nov 2021.
+
+---
+
+### 2026-07-16 20:30:18  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+U.S. Philadelphia Fed manufacturing prices paid index for July 53.9, prior 53.2.
+
+---
+
+### 2026-07-16 20:30:18  #MKT News #Important #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US Philadelphia Fed manufacturing index 41.4 in July; consensus 13; prior 10.3.
+
+---
+
+### 2026-07-16 20:30:14  #資料 #國際
+
+美國6月零售銷售月率 0.2%，預期0.2%，前值由0.90%修正為1%。
+
+---
+
+### 2026-07-16 20:30:13  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #EURUSD #Impact bearish
+
+US Philadelphia Fed manufacturing new-orders index for July 37, prior 27.3.
+
+---
+
+### 2026-07-16 20:30:13  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+U.S. continuing jobless claims for the week ending July 4: 1.805 mln vs 1.815 mln expected; prior week revised up to 1.821 mln from 1.814 mln.
+
+---
+
+### 2026-07-16 20:30:10  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #US10Y #Impact bearish
+
+US initial jobless claims four-week moving average for week ending July 11: 214,250; prior value revised from 218,750 to 219,000.
+
+---
+
+### 2026-07-16 20:30:09  #焦點 #國際
+
+美國至7月11日當週初請失業金人數 20.8萬人，預期21.7萬人，前值由21.5萬人修正為21.6萬人。美國至7月11日當週初請失業金人數 20.8萬人，預期21.7萬人，前值由21.5萬人修正為21.6萬人。
+
+---
+
+### 2026-07-16 20:30:09  #MKT News #Economic Calendar #Important
+
+United States | Core Retail Sales (MoM) (Jun) | actual -0.2% | consensus -0.10% | previous 0.80%
+
+---
+
+### 2026-07-16 20:30:08  #MKT News #Important #Macro & Rates #US Economy #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+US initial jobless claims for week to July 11: 208,000 vs 217,000 expected; prior revised from 215,000 to 216,000.
+
+---
+
+### 2026-07-16 20:30:08  #MKT News #Important #Macro & Rates #US Economy
+
+US retail sales MoM +0.2% in June, matching +0.2% consensus; May revised up to +1.0% from +0.9%.
+
+---
+
+### 2026-07-16 20:30:04  #MKT News #Economic Calendar #Important
+
+United States | Philadelphia Fed Employment Index (Jul) | actual 10 | previous 7.9
+
+---
+
+### 2026-07-16 20:30:04  #MKT News #Economic Calendar #Important
+
+United States | Philadelphia Fed New Orders Index (Jul) | actual 37 | previous 27.3
+
+---
+
+### 2026-07-16 20:30:04  #MKT News #Economic Calendar #Important
+
+United States | Philadelphia Fed Prices Paid Index (Jul) | actual 53.9 | previous 53.2
+
+---
+
+### 2026-07-16 20:30:04  #MKT News #Economic Calendar #Important
+
+United States | Philadelphia Fed Manufacturing Index (Jul) | actual 41.4 | consensus 13 | previous 10.3
+
+---
+
+### 2026-07-16 20:30:02  #MKT News #Economic Calendar #Important
+
+United States | Continued Jobless Claims (Jul.4) | actual 1805000K | consensus 1815000K | previous 1814000K
+
+---
+
+### 2026-07-16 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Retail Sales (MoM) (Jun) | actual 0.2% | consensus 0.2% | previous 0.90%
+
+---
+
+### 2026-07-16 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims 4-Week Average (Jul.11) | actual 214250K | previous 218750K
+
+---
+
+### 2026-07-16 20:30:01  #MKT News #Economic Calendar #Important
+
+United States | Initial Jobless Claims (Jul.11) | actual 208000K | consensus 217000K | previous 215000K
+
+---
+
+### 2026-07-16 20:29:14  #公司
+
+【首華燃氣：多名董高擬於8-11月減持不超19.2萬股】首華燃氣公告稱，董事兼高管王志紅、高尚芳，董事羅傳容，高管張騫、李春南因自身資金需求，計劃於2026年8月10日至11月9日，以集中競價方式分別減持不超35,250股、72,000股、26,250股、26,250股、32,250股，分別佔總股本的0.009%、0.019%、0.007%、0.007%、0.008%。減持股份均為股權激勵授予且已歸屬股份。本次減持不會導致公司控制權變更。
+
+---
+
+### 2026-07-16 20:29:04  #公司 #市場 #觀點
+
+【摩根士丹利預計DRAM合約價增速預計在2026年四季度見頂】摩根士丹利預計DRAM合約價增速預計在2026年四季度見頂，隨後同比增速可能出現大幅下降，也就是再像之前那樣出現一年漲四倍的情況很難了，而儲存公司的估值（未來12個月預期市淨率）有待重估。
+
+---
+
+### 2026-07-16 20:28:39  #其他
+
+【智微智慧將同步上市基於NVIDIA Jetson T3000 /T2000模組的產品矩陣】7月16日，NVIDIA釋出基於Blackwell架構的新一代Jetson T2000與T3000模組，旨在為下一代機器人及具身智慧系統提供強大、緊湊且高效的AI算力基座。作為NVIDIA優先順序合作伙伴，智微智慧將全面支援NVIDIA Jetson T3000 和T2000模組的應用開發，並計劃於2027年第一季度與NVIDIA同步上市相應產品和解決方案。
+
+---
+
+### 2026-07-16 20:28:22  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bullish
+
+XPeng Inc. (09868.HK) said it will start mass production of its first flying car this year; the vehicle has received more than 7,000 orders.
+
+---
+
+### 2026-07-16 20:28:02  #公司
+
+【Sharon AI簽署13.2億美元AI雲端計算合同，總簽約GPU部署規模升至6.2萬塊】澳大利亞AI雲服務商SharonAI Holdings當地時間7月16日宣佈，與一家全球人工智慧實驗室簽署一份為期五年、總價值13.2億美元的雲端計算服務協議。根據協議，公司將在紐西蘭資料中心部署雲端計算解決方案，相關收入預計自2027年第一季度至第二季度開始確認。Sharon AI表示，目前公司AI Factory總容量為132兆瓦，其中116兆瓦已簽約給終端客戶，預計到2027年年中部署超過6.2萬塊英偉達GPU。
+
+---
+
+### 2026-07-16 20:27:41  #其他
+
+小鵬汽車：飛行汽車已收穫超過7000個訂單，並將在今年實現首款產品量產，推動低空出行從概念走向現實。
+
+---
+
+### 2026-07-16 20:27:13  #其他
+
+小鵬汽車：小鵬全球累計銷量突破120萬臺。
+
+---
+
+### 2026-07-16 20:27:04  #市場 #焦點
+
+布倫特原油突破86美元/桶，日內漲1.25%。
+
+---
+
+### 2026-07-16 20:27:02  #國際
+
+【北部灣港首次開通至約旦亞喀巴港滾裝航線 單航次發運量創歷史新高】7月16日5時，廣西北部灣港首次開通至約旦亞喀巴港滾裝航線，2600多輛中國國產汽車統一發運。據瞭解，此次發運進一步織密廣西北部灣港通往中東地區的海上物流通道，發運量創下北部灣港滾裝航線單航次歷史新高。（央視新聞）
+
+---
+
+### 2026-07-16 20:26:50  #公司 #國際
+
+【奇安信與哈薩克人工智慧和數字發展部簽署合作備忘錄】7月16日，哈薩克-中國高科技企業圓桌會議在上海舉行，哈薩克總統託卡耶夫出席了此次圓桌會議。奇安信集團董事長齊向東作為中方高科技企業代表受邀出席會議，並與哈薩克共和國副總理兼人工智慧和數字發展部部長馬季耶夫共同簽署《奇安信集團與哈薩克共和國人工智慧和數字發展部關於網路安全與網路空間合作諒解備忘錄》。雙方將圍繞網路安全風險資訊共享、網路安全事件聯合響應、人工智慧安全實驗室建設等領域開展深度合作。
+
+---
+
+### 2026-07-16 20:26:45  #國際
+
+英國首相斯塔默：我擔任首相期間曾四次到訪烏克蘭。英國對烏克蘭的支援永遠不會動搖。
+
+---
+
+### 2026-07-16 20:26:40  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+WTI crude reached $80.00 per barrel, up 0.35% intraday.
+
+---
+
+### 2026-07-16 20:26:27  #公司
+
+通用電氣航空執行長：我們不存在需求問題。
+
+---
+
+### 2026-07-16 20:25:53  #公司 #市場 #央行 #國際
+
+【美股盤前要聞速遞】
+①美股三大股指期貨漲跌不一，道指期貨漲0.17%，標普500指數期貨跌0.26%，納指期貨跌0.93%。
+②德國DAX指數跌0.90%，英國富時100指數跌0.19%，法國CAC40指數跌0.83%，歐洲斯托克50指數跌0.56%。
+③WTI原油漲0.18%，報79.74美元/桶。布倫特原油跌0.08%，報84.88美元/桶。
+④韓國央行三年半來首次加息：AI晶片熱潮驅動政策轉向，緊縮週期開啟。
+⑤IEA署長髮出“數週”最後通牒：霍爾木茲海峽若持續關閉，全球經濟將面臨新衝擊。
+⑥繼上週釋放本土投資訊號後，日本財長稱經濟增長或支援GPIF重新評估資產配置。
+⑦百度美股盤前最高漲至4%，百度釋出公告稱，公司董事會已授權管理層推進在香港聯交所主機板自願轉換為主要上市，預計於今年內生效。
+⑧小鵬集團盤前漲近4%，據報擬於明年在全球推出人形機器人。
+⑨谷歌盤前續漲近2%，巴菲特在最新的訪談中坦言自己早年沒能投資Alphabet是一大失誤。
 
 ---
 
@@ -24267,281 +24704,5 @@ IMF says even if the Strait of Hormuz reopens, restoring normal oil flows from t
 ### 2026-07-15 18:05:11  #國際
 
 【專家：美希望以霍爾木茲海峽牟利 地區安全面臨挑戰】美軍於北京時間15日凌晨4時恢復了針對伊朗的海上封鎖行動。美國總統特朗普14日表示，決定用貿易投資協議來取代霍爾木茲海峽貨物收費。中國國際問題研究院助理研究員李子昕表示，美國全面恢復對伊朗的海上封鎖，證明美國對伊朗的極限施壓仍在繼續。並且從削弱伊朗對霍爾木茲海峽的控制力，正快速拓展到全面遏制伊朗的財政和經濟。戰略邏輯也從軍事癱瘓升級到經濟絞殺，要從根本上廢掉伊朗的石油出口創收能力。此舉對伊朗而言無疑影響巨大，也迫使伊朗做出了“諒解備忘錄已經失效”的最終論斷。（央視新聞）
-
----
-
-### 2026-07-15 18:04:44  #MKT News #BLK.O #Impact bullish
-
-BlackRock's assets under management totaled $15.34 tln in Q2, versus market expectations of $15.19 tln.
-
----
-
-### 2026-07-15 18:04:35  #公司
-
-【華凱易佰：持股5%以上股東及其一致行動人合計持股降至8.71%】華凱易佰公告稱，持股5%以上股東周新華及其一致行動人羅曄，計劃在2026年7月13日至10月12日減持不超1168.25萬股。7月14日，周新華以集中競價和大宗交易方式合計減持106.84萬股，佔總股本0.27%；羅曄以大宗交易方式減持40萬股，佔比0.10%。本次權益變動後，二者合計持股降至8.71%，累計權益變動觸及1%整數倍，減持計劃尚未實施完畢。
-
----
-
-### 2026-07-15 18:04:19  #公司
-
-【大普微：預計2026年上半年實現扭虧為盈，淨利潤為12億-13.5億元】大普微公告，預計2026年上半年歸屬於上市公司股東的淨利潤為12億-13.5億元，上年同期虧損3.54億元，實現扭虧為盈。預計營業收入為43億-48億元，同比增長474.73%-541.56%；扣除非經常性損益後的淨利潤為11.95億-13.45億元，上年同期虧損3.61億元。業績變動因全球人工智慧發展帶動資料中心企業級儲存需求增長，公司產品創新與海外市場拓展成效顯著。
-
----
-
-### 2026-07-15 18:04:17  #MKT News
-
-【Changxin Technology clarifies employee incentive allocation details】On July 15 at an online investor Q&A relating to its Sci‑Tech Innovation Board (STAR Market) listing, Changxin Technology vice‑president and board secretary Yuan Yuan said the company has implemented two employee shareholding plans. The first was granted at 1.05 yuan per unit of registered capital, totaling 3,596 person‑times; the second at 0.108 yuan per unit, totaling 3,164 person‑times. The company said the plans establish a long‑term incentive and restraint mechanism to motivate R&D and core management, align employee and company long‑term interests, and are expected to have a positive effect on future financial position and operating results.
-
----
-
-### 2026-07-15 18:04:11  #其他
-
-【金融監管總局召開2026年兩會重點建議提案座談會】座談會上，代表委員結合工作和調研實際，深入分析當前普惠金融發展面臨的問題和困難，並提出有針對性的意見建議。代表委員建議，全面加強金融監管，健全普惠金融組織體系，豐富普惠金融產品供給；建立跨部門協調機制，促進普惠金融政策落地見效；加強普惠金融頂層設計和系統謀劃，創新普惠金融發展模式，打造良好普惠金融生態；提升民營企業金融服務質效，保障民營企業平等獲得融資，引導金融機構最佳化信用評價方式等。提案建議辦理單位結合各自工作職責彙報了推進普惠金融高質量發展的工作成效，介紹了涉及工作辦理進展。
-
----
-
-### 2026-07-15 18:04:06  #其他
-
-英國金融行為監管局局長拉蒂：我們正密切關注利塔尼對英傑華股東的做法。
-
----
-
-### 2026-07-15 18:03:34  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Elevance Health earnings above expectations at 7.45 USD — Elevance Health (ANTM) released earnings per share at 7.45 USD, compared to market expectations of 6.19 USD.
-
----
-
-### 2026-07-15 18:03:33  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-BlackRock earnings above expectations at 13.91 USD — BlackRock (BLK) released earnings per share at 13.91 USD, compared to market expectations of 12.55 USD.
-
----
-
-### 2026-07-15 18:03:07  #公司
-
-【長鑫科技就員工激勵分配執行細節作出說明】7月15日，長鑫科技科創板上市網上投資者交流會在上海證券報·中國證券網、上證路演中心舉行。有投資者詢問長鑫科技員工持股計劃相關安排，長鑫科技副總裁、董事會秘書袁園表示，公司共實施兩期員工持股計劃，第一期授予價格1.05元/註冊資本、累計授予3596人次；第二期授予價格0.108元/註冊資本、累計授予3164人次。透過實施員工持股計劃，公司建立健全激勵約束長效機制，充分調動公司研發和核心管理等人員的積極性，有利於兼顧員工與公司長遠利益，對公司未來的財務狀況及經營成果有著積極影響。
-
----
-
-### 2026-07-15 18:02:35  #公司 #市場
-
-【四方科技：股價連續2日跌幅偏離值累計達20% 不存在未披露重大事項】四方科技公告稱，2026年7月14日、7月15日公司股票連續2個交易日內收盤價格跌幅偏離值累計達20%，屬異常波動。經自查及向控股股東、實控人核實，公司生產經營正常，不存在應披露而未披露的重大事項，包括重大資產重組等。公司董事、高管、控股股東及實控人在異常波動期間無買賣公司股票情況。提醒投資者理性投資，注意風險。
-
----
-
-### 2026-07-15 18:02:22  #國際
-
-【俄外交部：日本應恪守和平憲法全面承認二戰結果】）俄羅斯外交部發言人扎哈羅娃15日表示，日本應恪守和平憲法，全面承認第二次世界大戰的結果。扎哈羅娃在書面回答新華社記者相關提問時表示，日方加速推進“再軍事化”、不斷擴大軍事活動範圍，俄方對此密切關注。扎哈羅娃還指出，俄方堅決駁回日方就俄中聯合軍事演習所提出的交涉，該演習完全符合國際法。（新華社）
-
----
-
-### 2026-07-15 18:02:05  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #Copper
-
-【Son predicts 100 trillion AI agents by 2040; AI to account for ~20% of global GDP】SoftBank chairman and CEO Masayoshi Son told the SoftBank World meeting in Tokyo that he expects about 100 trillion AI agents and 1 billion humanoid robots by 2040, and that AI will be the largest industry in human history, contributing roughly 20% of global GDP. He said humanoid robots, operating 24/7, would be equivalent to roughly 3 billion workers and become central to the workforce. Son flagged data-center expansion as critical, forecasting AI-related power demand to double by 2040 and requiring about $5 trillion a year in investment (¥800 trillion). He said the AI revolution should not be limited to Japan and resources must be concentrated in the U.S. as the core battleground. Yomiuri reported the remarks.
-
----
-
-### 2026-07-15 18:02:01  #公司
-
-【和鉑醫藥：HBM7575用於治療哮喘的新藥臨床試驗申請獲NMPA批准】和鉑醫藥-B公告，靶向胸腺基質淋巴細胞生成素（TSLP）及一個未公開靶點的長效雙特異性抗體HBM7575（亦稱SKB575）的新藥臨床試驗（IND）申請已獲中國國家藥品監督管理局（NMPA）批准，用於治療哮喘。該款雙特異性抗體由公司與四川科倫博泰生物醫藥股份有限公司（科倫博泰）合作研發。此前，HBM7575/SKB575用於治療特應性皮炎的I期臨床研究已順利完成首例受試者給藥。
-
----
-
-### 2026-07-15 18:01:55  #市場 #國際
-
-印度盧比<INR=IN>收於1美元兌96.2550盧比，較前收盤價96.20幾乎持平。
-
----
-
-### 2026-07-15 18:01:46  #其他
-
-*IBM推出全新Power系列伺服器及配套軟體以及IBM Power自主運維AI智慧代理。
-
----
-
-### 2026-07-15 18:01:04  #MKT News #GS.N #Impact bullish
-
-Barclays raises Goldman Sachs (GS.N) PT to $1,245 from $1,048.
-
----
-
-### 2026-07-15 18:00:57  #MKT News #Market Regions #Europe & UK
-
-European Commission President Von der Leyen said the EU and Ukraine need to "combine our strengths in drone production".
-
----
-
-### 2026-07-15 18:00:39  #MKT News #Market Regions #Europe & UK
-
-EU Commission President Von der Leyen said the EU has a "safe and reliable production base" that can help scale up drone production.
-
----
-
-### 2026-07-15 18:00:36  #其他
-
-貝萊德第二季度資產管理規模達15.34萬億美元，市場預期15.19萬億美元。貝萊德第二季度營收70.8億美元，預估68.2億美元。第二季度調整後每股收益13.91美元，預估12.66美元。貝萊德第二季度資產管理規模15.34萬億美元，預估15.19萬億美元。貝萊德將季度股票回購規模提高至5.5億美元。貝萊德美股盤前漲1.5%。
-
----
-
-### 2026-07-15 18:00:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Kremlin says the situation in the Persian Gulf region has entered a deteriorating phase.
-
----
-
-### 2026-07-15 18:00:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-IMF: Oil supply should be restored swiftly to prevent larger economic losses.
-
----
-
-### 2026-07-15 18:00:17  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-IMF says the global economy's capacity to absorb oil supply disruptions has weakened.
-
----
-
-### 2026-07-15 17:59:59  #公司
-
-【雪龍集團：股東寧波聯展已減持0.10%】雪龍集團公告，股東賀頻豔、賀群豔、寧波聯展決定提前終止本次股份減持計劃。2026年5月19日至2026年7月15日，寧波聯展透過集中競價方式減持公司股份22.48萬股，減持比例佔公司當前總股本的0.10%，減持價格區間18.9～19.34元/股，減持總金額428.09萬元；賀頻豔、賀群豔減持數量均為0股。
-
----
-
-### 2026-07-15 17:59:29  #公司
-
-【海航控股：6月載客人數488.73萬人，同比下降10.30%】海航控股公告，2026年6月本集團載客人數488.73萬人，同比下降10.30%，其中國內453.99萬人，同比下降11.14%，國際32.48萬人，同比增長2.19%；2026年累計載客人數3353.73萬人，同比下降1.62%。貨運及郵運量合計5萬噸，同比下降9.60%，累計28.98萬噸，同比增長1.82%。客座率合計81.75%，同比下降0.67個百分點。截至6月底，本集團合計運營367架飛機。
-
----
-
-### 2026-07-15 17:59:29  #MKT News #S&P500 #Impact bullish #EURUSD #Copper
-
-Market sources: the EU and the US have shared a list of goods proposed for tariff reductions.
-
----
-
-### 2026-07-15 17:59:08  #國際
-
-市場訊息：歐盟與美國共享擬下調關稅商品清單。
-
----
-
-### 2026-07-15 17:58:39  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
-
-【Sources: Major Russian petrochemical plant halted after July 14 drone strike】Two industry sources said Salavat petrochemical plant in Russia’s Ural region halted operations after a July 14 Ukrainian drone strike. The regional governor confirmed the attack and said normal production is expected to resume within days, but sources said two main crude distillation units and several secondary units were damaged and taken offline. Affected units include CDU-6 (17,140 t/day crude distillation) and CDU-4 (11,430 t/day including crude and condensate). Repair work could take weeks to months.
-
----
-
-### 2026-07-15 17:58:27  #公司
-
-【賽微電子：控股子公司完成股權變動工商變更登記】賽微電子公告稱，公司於2026年3月26日同意以零對價受讓北京賽微私募基金管理有限公司持有的海創微元未實繳的9%認繳出資權。本次變更後，公司對海創微元的持股比例為51%。7月15日，海創微元已在北京市懷柔區市場監督管理局完成相關工商變更登記手續，並取得《備案通知書》。
-
----
-
-### 2026-07-15 17:58:13  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #Brent
-
-The Kremlin says it has received signals via communications channels that the U.S. is prepared to continue cooperating on the Ukraine issue after reaching an agreement with Iran.
-
----
-
-### 2026-07-15 17:58:02  #公司
-
-【海航控股：2026年6月多項運營資料有變動 引進7架飛機】海航控股公告稱，2026年6月，集團收入客公里合計9664.68百萬，同比降7.70%；收入噸公里合計1038.66百萬，同比降6.49%；載客人數合計4887.33千人，同比降10.30%；貨運及郵運量合計50.05千噸，同比降9.60%。6月引進3架A320NEO、3架B737 - 8MAX和1架C909飛機，退出3架B737 - 800飛機，截至6月底運營367架飛機。6月20日起新開海口=重慶=馬德里航線（每週一班）。
-
----
-
-### 2026-07-15 17:57:41  #其他
-
-巴黎上訴法院檢察官表示不會就勒龐案判決提起上訴。
-
----
-
-### 2026-07-15 17:57:22  #公司 #國際
-
-【心脈醫療：Aorfix腹主動脈覆膜支架系統進入國家創新“綠色通道”】7月15日，心脈醫療宣佈，其歐洲子公司朗巴德醫療有限公司（Lombard Medical）研發的腹主動脈疾病介入治療領域產品Aorfix™腹主動脈覆膜支架系統正式獲批進入國家藥品監督管理局（NMPA）創新醫療器械特別審查程式。
-
----
-
-### 2026-07-15 17:57:14  #公司 #市場
-
-【天普股份：股東中昊芯英無資產注入計劃，公司無開展AI業務計劃】天普股份公告，公司股票於2026年7月13日至15日連續3個交易日收盤價格漲幅偏離值累計達20%，屬於股票交易異常波動。經自查及向股東核實，股東中昊芯英無資產注入計劃，其自身獨立IPO已進入股改階段，與上市公司無關；公司無開展人工智慧相關業務計劃，未與中昊芯英簽訂任何框架性合作協議。公司主營業務未發生變化，仍為汽車用高分子流體管路系統及密封系統零件。此外，公司預計2026年半年度歸母淨利潤為-1650萬元至-1100萬元，業績下滑；股價自2025年8月22日至2026年7月15日累計上漲227.29%，市盈率777.22倍，顯著高於行業平均水平。
-
----
-
-### 2026-07-15 17:57:08  #公司
-
-【海航控股：2026年6月，公司合併主要運營資料同比變動在-11.14%到7.61%之間】海航控股公告，2026年6月，公司合併主要運營資料同比變動在-11.14%到7.61%之間。其中，國內收入客公里76.04億，同比減少8.34%；地區收入客公里2502萬，同比減少11.49%；國際收入客公里20.35億，同比減少5.19%；合計收入客公里96.65億，同比減少7.70%。國內收入噸公里7.42億，同比減少7.89%；地區收入噸公里239萬，同比減少8.85%；國際收入噸公里2.95億，同比減少2.78%；合計收入噸公里10.39億，同比減少6.49%。國內載客人數453.99萬人，同比減少11.14%；地區載客人數2.27萬人，同比增加5.28%；國際載客人數32.48萬人，同比增加2.19%；合計載客人數488.73萬人，同比減少10.30%。
-
----
-
-### 2026-07-15 17:56:39  #公司
-
-【海星股份：股東南通聯力擬減持不超過2%】海星股份公告，南通聯力擬自本公告披露之日起15個交易日後3個月內，透過大宗交易方式減持公司股份數量不超過483.78萬股，減持比例不超過公司總股本的2%。截至公告披露日，南通聯力持有公司1482萬股，佔6.13%；減持期間為2026年8月7日～2026年11月6日。
-
----
-
-### 2026-07-15 17:56:33  #公司
-
-【鵬輝能源：預計2026年上半年實現扭虧為盈，淨利潤8億-8.66億元】鵬輝能源公告，預計2026年上半年歸屬於上市公司股東的淨利潤為8億元-8.66億元，上年同期虧損8822.67萬元；扣除非經常性損益後的淨利潤為7.92億元-8.56億元，上年同期虧損1.59億元。業績變動主要因行業向好，公司產品產銷兩旺，銷售訂單增加，營業收入增長。
-
----
-
-### 2026-07-15 17:56:18  #公司
-
-【中熔電氣：預計上半年淨利潤同比增長46.91%-68.73%】中熔電氣公告，預計2026年上半年淨利潤為2.02億元到2.32億元，同比增長46.91%到68.73%。報告期內，公司業績變動的主要原因是：公司持續加強企業管理和研發投入，透過調整產品結構、技術攻關、工藝最佳化、降本增效等多方面措施，讓效益在供、產、銷各個環節中充分發揮作用。積極開展銷售業務，制定差異化的營銷策略，有效提升產品競爭力，實現銷售收入及利潤持續增長。
-
----
-
-### 2026-07-15 17:55:50  #公司
-
-【聖湘生物：產品A族鏈球菌（GAS）核酸檢測試劑盒（熒光PCR法）取得醫療器械註冊證】聖湘生物公告，公司產品A族鏈球菌（GAS）核酸檢測試劑盒（熒光PCR法）近日取得國家藥品監督管理局頒發的《醫療器械註冊證》，註冊證編號為國械注準20263401419，有效期至2031年7月9日。該試劑盒用於體外定性檢測人咽拭子樣本中的A族鏈球菌核酸，具有高靈敏度、高特異性及操作簡便等特點，可與公司現有呼吸道感染核酸快速檢測方案靈活組合，實現多病原同步檢測。
-
----
-
-### 2026-07-15 17:55:45  #宏觀 #公司
-
-【廣匯物流：簽署紅淖鐵路相關區段納入臨哈骨幹通道管理三方合作框架協議】廣匯物流公告，近日，公司及下屬子公司新疆紅淖三鐵路有限公司與中國鐵路烏魯木齊局集團有限公司、臨哈骨幹鐵路通道新疆有限公司就紅淖鐵路納入臨哈骨幹通道管理事項簽署了《紅淖鐵路相關區段納入臨哈骨幹通道管理三方合作框架協議》。根據國家發改委臨哈骨幹鐵路通道建設部署，新建淖毛湖至梧桐水鐵路與既有紅柳河至淖毛湖鐵路統一規劃、雙線並行，共同構成臨哈鐵路骨幹運輸通道。公司作為紅淖鐵路資產持有方，參與通道一體化建設、統一運營管理。
-
----
-
-### 2026-07-15 17:55:41  #公司
-
-【廣匯物流：預計2026年上半年淨利潤同比減少94.62%至96.16%】廣匯物流公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為1000萬元至1400萬元，與上年同期相比，將減少2.46億元至2.5億元，同比減少94.62%至96.16%。預計公司2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤1350萬元至1750萬元，與上年同期相比，將減少1.97億元到2.01億元，同比減少91.86%到93.72%。
-
----
-
-### 2026-07-15 17:55:26  #MKT News
-
-Kremlin dismisses Lithuania's allegation that Russia plans to attack infrastructure as scare stories intended to pave the way for further militarization.
-
----
-
-### 2026-07-15 17:55:21  #國際
-
-克里姆林宮就立陶宛指控俄羅斯計劃襲擊基礎設施一事作出回應：這些都是為讓公眾為進一步軍事化做準備而編造的恐怖謊言。
-
----
-
-### 2026-07-15 17:55:16  #其他
-
-克里姆林宮：這是北約向波羅的海國家進一步部署軍事基礎設施的藉口。
-
----
-
-### 2026-07-15 17:55:10  #國際
-
-市場訊息：印度預計透過半導體計劃吸引4萬億盧比投資。
-
----
-
-### 2026-07-15 17:54:35  #其他
-
-根據港交所披露檔案，中國石化於7月15日以1270萬港元回購310萬股H股。
-
----
-
-### 2026-07-15 17:54:27  #MKT News #Market Themes #Chip Wars
-
-【India pledges 1.28 tln rupees (~$13.3 bln) to boost chip manufacturing】India's electronics and IT minister announced on Wednesday an additional 1.28 trillion rupees (about $13.3 bln) to support domestic chip manufacturing, expanding a 2021 $10 bln incentive scheme. The earlier program pledged to cover roughly half of semiconductor project construction costs and helped attract Micron and Tata to Gujarat. The initiative remains at an early stage with only a few large projects under way; the government, led by Prime Minister Modi, aims to leverage Indian engineering and design talent plus subsidies to draw major chipmakers.
 
 ---
