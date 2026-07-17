@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-18 01:59:51",
-  "count": 18932,
+  "updated": "2026-07-18 02:03:50",
+  "count": 18933,
   "items": [
+    {
+      "id": "mkt:019f713e-d7da-7aab-8de9-f9f360deabde",
+      "time": "2026-07-18 02:02:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Nour, citing local sources, reported explosions were heard at Bandar Abbas port."
+    },
+    {
+      "id": "4994987",
+      "time": "2026-07-18 02:02:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗努爾新聞援引當地訊息人士報道，海灣沿岸的阿巴斯港傳出爆炸聲。"
+    },
+    {
+      "id": "4994986",
+      "time": "2026-07-18 02:01:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）：7月14日當週，投機者所持ICE布倫特原油淨多頭頭寸增加114,752手合約，至169,839手合約，創五週新高。"
+    },
+    {
+      "id": "mkt:019f713c-28ec-7aab-8de9-f76a8b634248",
+      "time": "2026-07-18 01:59:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Vessel struck in Strait of Hormuz】An Iranian source said a Thai-flagged vessel was struck in the Strait of Hormuz after ignoring warnings and attempting to transit without permission from the Islamic Revolutionary Guard Corps Navy; it was intercepted and hit by IRGC naval forces."
+    },
     {
       "id": "mkt:019f713b-8e6e-7aab-8de9-edb7e79712e7",
       "time": "2026-07-18 01:59:16",
@@ -174555,30 +174592,6 @@
         "國際"
       ],
       "text": "土耳其外長菲丹：我們解讀特朗普總統表態後認為，他並非真的宣佈停火已經失效。他此番言論主要是針對美伊之間一系列衝突事件引發的報復行動作出回應。美伊雙方在霍爾木茲海峽通航規則執行事宜上溝通不暢，產生了誤解。兩國需要加強溝通，並建立更完善的衝突規避機制。"
-    },
-    {
-      "id": "4981827",
-      "time": "2026-07-11 02:02:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其外長菲丹：土耳其向阿聯酋出口 S-400 防空系統的相關事宜仍在推進中，土耳其政府內部已開展多輪磋商。也必須與俄方開展妥善溝通，現階段無法透露涉及的國家、推進流程或是解決方案型別。"
-    },
-    {
-      "id": "4981826",
-      "time": "2026-07-11 02:01:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基宣佈成立烏軍遠端打擊司令部】烏克蘭總統澤連斯基10日表示，他已簽署命令，在烏克蘭武裝部隊內部設立一個新的遠端打擊司令部，併成立聯合快速反應部隊。澤連斯基說，新設立的遠端打擊司令部將集中現有資源，對俄進行深入打擊；聯合快速反應部隊將整合突擊部隊、無人機、炮兵等作戰力量，以提升前線快速反應能力，並建設一支現代化、技術化的突擊力量。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f4d31-2bc4-7aab-8d38-7004b8236c8a",
-      "time": "2026-07-11 02:01:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Financial Times reports the US has sent a team to Beirut to press for a ceasefire between Israel and Hezbollah."
     }
   ]
 }
