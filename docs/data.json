@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-18 06:06:38",
-  "count": 18939,
+  "updated": "2026-07-18 06:10:28",
+  "count": 18940,
   "items": [
+    {
+      "id": "4995118",
+      "time": "2026-07-18 06:08:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：“敵方”發射的彈丸落在伊朗中部亞茲德市域外，目前尚無人員傷亡報告。"
+    },
+    {
+      "id": "4995117",
+      "time": "2026-07-18 06:06:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 白宮正管控前沿人工智慧模型的訪問許可權。"
+    },
     {
       "id": "4995116",
       "time": "2026-07-18 06:04:36",
@@ -174607,14 +174623,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: Polish Zloty Increases by 0.99% — Top currency gainers are Polish Zloty (0.99%), Brazilian Real (0.50%), Mexican Peso (0.43%), Japanese Yen (0.41%) and Dollar Index (0.06%). Biggest losers are Norwegian Krone (-0.61%) and Euro (-0.14%). Meanwhile British Pound was little changed."
-    },
-    {
-      "id": "4981945",
-      "time": "2026-07-11 06:09:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉地震已致4118人遇難】當地時間7月10日傍晚，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國地震遇難人數上升至4118人。（CCTV國際時訊）"
     }
   ]
 }
