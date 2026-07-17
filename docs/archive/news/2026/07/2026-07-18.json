@@ -1,7 +1,82 @@
 {
   "date": "2026-07-18",
-  "count": 149,
+  "count": 158,
   "items": [
+    {
+      "id": "mkt:019f718c-bc85-7aab-8dea-ea29be127bb7",
+      "time": "2026-07-18 03:27:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Canada has refused to carry out basic forest management and cleanup, and that the cost of the resulting pollution will be added to tariffs Canada currently pays."
+    },
+    {
+      "id": "mkt:019f718c-4d40-7aab-8dea-e56bc5867ae3",
+      "time": "2026-07-18 03:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will call ministers and Canadian Prime Minister Carney during the day to find out how they will respond to the wildfires."
+    },
+    {
+      "id": "4995029",
+      "time": "2026-07-18 03:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱加拿大山火是“故意疏忽”。"
+    },
+    {
+      "id": "4995028",
+      "time": "2026-07-18 03:26:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：墨西哥央行公佈政府債務互換結果，以延長債務期限。"
+    },
+    {
+      "id": "mkt:019f718a-fbe7-7aab-8dea-da9302c55318",
+      "time": "2026-07-18 03:26:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump demanded that Canada be held accountable for inadequate forest maintenance."
+    },
+    {
+      "id": "4995027",
+      "time": "2026-07-18 03:25:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將就山火問題致電卡尼。"
+    },
+    {
+      "id": "4995026",
+      "time": "2026-07-18 03:25:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：汙染成本必須計入關稅。"
+    },
+    {
+      "id": "4995025",
+      "time": "2026-07-18 03:25:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大未能妥善管護本國森林，應當為此承擔責任。"
+    },
+    {
+      "id": "4995024",
+      "time": "2026-07-18 03:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將追究加拿大的責任。"
+    },
     {
       "id": "4995023",
       "time": "2026-07-18 03:23:31",

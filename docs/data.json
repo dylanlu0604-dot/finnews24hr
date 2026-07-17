@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-18 03:25:27",
-  "count": 18916,
+  "updated": "2026-07-18 03:29:24",
+  "count": 18924,
   "items": [
+    {
+      "id": "mkt:019f718c-bc85-7aab-8dea-ea29be127bb7",
+      "time": "2026-07-18 03:27:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Canada has refused to carry out basic forest management and cleanup, and that the cost of the resulting pollution will be added to tariffs Canada currently pays."
+    },
+    {
+      "id": "mkt:019f718c-4d40-7aab-8dea-e56bc5867ae3",
+      "time": "2026-07-18 03:27:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will call ministers and Canadian Prime Minister Carney during the day to find out how they will respond to the wildfires."
+    },
+    {
+      "id": "4995029",
+      "time": "2026-07-18 03:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱加拿大山火是“故意疏忽”。"
+    },
+    {
+      "id": "4995028",
+      "time": "2026-07-18 03:26:35",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：墨西哥央行公佈政府債務互換結果，以延長債務期限。"
+    },
+    {
+      "id": "mkt:019f718a-fbe7-7aab-8dea-da9302c55318",
+      "time": "2026-07-18 03:26:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump demanded that Canada be held accountable for inadequate forest maintenance."
+    },
+    {
+      "id": "4995027",
+      "time": "2026-07-18 03:25:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將就山火問題致電卡尼。"
+    },
+    {
+      "id": "4995026",
+      "time": "2026-07-18 03:25:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：汙染成本必須計入關稅。"
+    },
+    {
+      "id": "4995025",
+      "time": "2026-07-18 03:25:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大未能妥善管護本國森林，應當為此承擔責任。"
+    },
+    {
+      "id": "4995024",
+      "time": "2026-07-18 03:25:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將追究加拿大的責任。"
+    },
     {
       "id": "4995023",
       "time": "2026-07-18 03:23:31",
@@ -174444,14 +174519,6 @@
         "國際"
       ],
       "text": "美國商品期貨交易委員會：截至 2026 年 7 月 7 日當週，比特幣淨多頭持倉為 3500 手合約。"
-    },
-    {
-      "id": "4981880",
-      "time": "2026-07-11 03:26:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【中國代表：中方將繼續推動全球互聯互通】當地時間8日，在2026年聯合國可持續發展高階別政治論壇期間，“推進聯合國可持續交通十年”主題邊會在紐約聯合國總部舉行。中國常駐聯合國副代表孫磊表示，今年是《聯合國可持續交通十年實施計劃》開局之年。我們要抓住機遇，推進互聯互通、增進民心相通、共促綠色發展。中方表示，中國也是全球可持續交通事業的積極貢獻者。中國將繼續與世界相交、與時代相通，推動全球互聯互通，為全球可持續發展事業作出更大貢獻。（央視新聞）"
     }
   ]
 }
