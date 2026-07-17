@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-17 12:33:50",
-  "count": 18865,
+  "updated": "2026-07-17 12:38:00",
+  "count": 18871,
   "items": [
+    {
+      "id": "te:markets:567748",
+      "time": "2026-07-17 12:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises on Tech Optimism — India’s BSE Sensex rose about 0.8% to 77,778 on Friday, rebounding from the previous session’s subdued performance, as information technology stocks gained after Tech Mahindra reported stronger-than-expected quarterly revenue. Investors also looked ahead to earnings from heavyweight companies, including Reliance Industries, HDFC Bank, and ICICI Bank, with Indian equities remaining range-bound in recent weeks. Among corporate updates, Wipro reported quarterly earnings that missed estimates, while Jio Financial Services more than doubled its June-quarter profit, whereas tyre maker CEAT and dairy company Heritage Foods both disappointed on earnings. Global cues also remained mixed, with Brent crude hovering near $85 a barrel amid renewed geopolitical tensions in the Middle East. Among individual stocks, top gainers included Laser Power (10.0%), Jio Financial (4.1%), 360 One (3.8%), and Billionbrains (2.7%). On a weekly basis, the benchmark index is up just 0.28% so far."
+    },
+    {
+      "id": "mkt:019f6e5b-64a5-7aab-8dd9-b34b06d4f152",
+      "time": "2026-07-17 12:35:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raises TSMC (TSM.N) PT to $440 from $400."
+    },
+    {
+      "id": "4993514",
+      "time": "2026-07-17 12:35:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數跌破 63000 點，為 6 月 11 日以來首次。"
+    },
+    {
+      "id": "4993513",
+      "time": "2026-07-17 12:34:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌1.1%，德國DAX指數期貨下滑0.9%，富時指數期貨下挫0.4%。"
+    },
+    {
+      "id": "te:economy:567747",
+      "time": "2026-07-17 12:34:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Malaysia Food Inflation Stays at 4-Month High — Food prices in Malaysia rose 1.4% year-on-year in June 2026, matching May's pace and remaining at the steepest pace in four months. Prices continued to increase for food at home (0.5% vs 0.3% in May), cereals & cereal products (0.2% vs 0.1%), meat (1.5% vs 0.2%), fish & other seafood (1.4% vs 1.6%), oils & fats (0.2% vs flat reading), fruits & nuts (1.0% vs 1.4%), sugar, confectionary & desserts (0.5% vs 0.5%), and food away from home (2.4% vs 2.5%). Meanwhile, cost of milk, other dairy products & eggs edged up 0.1%, reversing a 0.8% decline in May."
+    },
+    {
+      "id": "mkt:019f6e5a-5674-7aab-8dd9-a9e5f1d3e495",
+      "time": "2026-07-17 12:34:01",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 futures down 0.85%, Nasdaq futures down 1.45%."
+    },
+    {
+      "id": "4993512",
+      "time": "2026-07-17 12:33:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨跌幅擴大至0.85%，納斯達克指數期貨下跌1.45%。"
+    },
+    {
+      "id": "4993510",
+      "time": "2026-07-17 12:33:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【新易盛據悉提交融資不超過50億美元的香港上市申請】據媒體援引知情人士透露，中國光模組製造商新易盛已經以保密形式提交在香港上市的申請。一些知情人士稱，新易盛或透過在香港發行股票籌集40億至50億美元。知情人士透露，摩根士丹利也加入了安排此次發行交易的銀行之列。媒體4月份曾報道，新易盛正與中信證券和摩根大通合作籌備香港上市事宜。"
+    },
     {
       "id": "mkt:019f6e59-4c57-7aab-8dd9-a6d9b9178333",
       "time": "2026-07-17 12:32:53",
@@ -173490,29 +173571,6 @@
         "其他"
       ],
       "text": "【五菱星光L將於7月16日上市】7月10日，據上汽通用五菱訊息，旗下插混中大型SUV五菱星光L將於7月16日正式上市。新車共推出3款配置車型，官方預售價區間為12.28萬至14.28萬元。"
-    },
-    {
-      "id": "4980280",
-      "time": "2026-07-10 12:35:29",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日元全面走強，因日本官員表態提振日本資產】日本財務大臣片山皋月和經濟財政大臣城內實的言論助推日元今日全面走強兩人均否認施壓日本央行要求維持利率不變，並敦促GPIF投資日本 。片山皋月關於敦促GPIF及其他投資者增加在日本投資的言論引發強烈反響。這一訊息傳出後，日元、日本國債和股市均上漲。美元兌日元匯率在EBS平臺從162.43大跌至161.45。持多頭頭寸的投資者減持了倉位，外國投資者是否也透過外匯對沖進行了調整。美元走跌被視為有利日本進口商。受燃料成本上漲和日元走軟影響，日本6月批發通脹率達到三年多來最高。日線圖顯示，美元兌日元已回落至161.17的一目均衡基準線區域。"
-    },
-    {
-      "id": "te:markets:565886",
-      "time": "2026-07-10 12:34:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "India",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Sensex Advances on Tech-Led Buying — India’s BSE Sensex rose about 1.1% to 77,543 on Friday, following gains from the last session, as upbeat earnings from Tata Consultancy Services (TCS) lifted sentiment toward the country's IT sector. The benchmark index tracked broader strength across Asian markets, where optimism surrounding AI-driven technology stocks offset concerns over ongoing geopolitical tensions in the Middle East. Zensar Tech surged 8.8%, Newgen climbed 7.8%, KPIT gained 2.6%, and TCS added 1.5%. Market participants are now focused on upcoming quarterly earnings from other major companies to gauge the strength of India's earnings season. Meanwhile, investors are also watching June inflation data, with consumer inflation expected to have exceeded the Reserve Bank of India's 4% target for the first time in 16 months, a development that could shape expectations for the central bank's policy outlook. So far this week, the benchmark has declined 0.3%."
     }
   ]
 }

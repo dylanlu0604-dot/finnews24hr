@@ -1,7 +1,88 @@
 {
   "date": "2026-07-17",
-  "count": 1217,
+  "count": 1225,
   "items": [
+    {
+      "id": "te:markets:567748",
+      "time": "2026-07-17 12:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Rises on Tech Optimism — India’s BSE Sensex rose about 0.8% to 77,778 on Friday, rebounding from the previous session’s subdued performance, as information technology stocks gained after Tech Mahindra reported stronger-than-expected quarterly revenue. Investors also looked ahead to earnings from heavyweight companies, including Reliance Industries, HDFC Bank, and ICICI Bank, with Indian equities remaining range-bound in recent weeks. Among corporate updates, Wipro reported quarterly earnings that missed estimates, while Jio Financial Services more than doubled its June-quarter profit, whereas tyre maker CEAT and dairy company Heritage Foods both disappointed on earnings. Global cues also remained mixed, with Brent crude hovering near $85 a barrel amid renewed geopolitical tensions in the Middle East. Among individual stocks, top gainers included Laser Power (10.0%), Jio Financial (4.1%), 360 One (3.8%), and Billionbrains (2.7%). On a weekly basis, the benchmark index is up just 0.28% so far."
+    },
+    {
+      "id": "mkt:019f6e5b-64a5-7aab-8dd9-b34b06d4f152",
+      "time": "2026-07-17 12:35:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TD Cowen raises TSMC (TSM.N) PT to $440 from $400."
+    },
+    {
+      "id": "4993514",
+      "time": "2026-07-17 12:35:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數跌破 63000 點，為 6 月 11 日以來首次。"
+    },
+    {
+      "id": "4993513",
+      "time": "2026-07-17 12:34:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌1.1%，德國DAX指數期貨下滑0.9%，富時指數期貨下挫0.4%。"
+    },
+    {
+      "id": "te:economy:567747",
+      "time": "2026-07-17 12:34:02",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "Food Inflation",
+        "Importance 1"
+      ],
+      "text": "Malaysia Food Inflation Stays at 4-Month High — Food prices in Malaysia rose 1.4% year-on-year in June 2026, matching May's pace and remaining at the steepest pace in four months. Prices continued to increase for food at home (0.5% vs 0.3% in May), cereals & cereal products (0.2% vs 0.1%), meat (1.5% vs 0.2%), fish & other seafood (1.4% vs 1.6%), oils & fats (0.2% vs flat reading), fruits & nuts (1.0% vs 1.4%), sugar, confectionary & desserts (0.5% vs 0.5%), and food away from home (2.4% vs 2.5%). Meanwhile, cost of milk, other dairy products & eggs edged up 0.1%, reversing a 0.8% decline in May."
+    },
+    {
+      "id": "mkt:019f6e5a-5674-7aab-8dd9-a9e5f1d3e495",
+      "time": "2026-07-17 12:34:01",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "S&P 500 futures down 0.85%, Nasdaq futures down 1.45%."
+    },
+    {
+      "id": "4993512",
+      "time": "2026-07-17 12:33:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨跌幅擴大至0.85%，納斯達克指數期貨下跌1.45%。"
+    },
+    {
+      "id": "4993510",
+      "time": "2026-07-17 12:33:16",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【新易盛據悉提交融資不超過50億美元的香港上市申請】據媒體援引知情人士透露，中國光模組製造商新易盛已經以保密形式提交在香港上市的申請。一些知情人士稱，新易盛或透過在香港發行股票籌集40億至50億美元。知情人士透露，摩根士丹利也加入了安排此次發行交易的銀行之列。媒體4月份曾報道，新易盛正與中信證券和摩根大通合作籌備香港上市事宜。"
+    },
     {
       "id": "mkt:019f6e59-4c57-7aab-8dd9-a6d9b9178333",
       "time": "2026-07-17 12:32:53",
