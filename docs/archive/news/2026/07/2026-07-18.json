@@ -1,7 +1,34 @@
 {
   "date": "2026-07-18",
-  "count": 44,
+  "count": 47,
   "items": [
+    {
+      "id": "4994971",
+      "time": "2026-07-18 01:16:28",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週五（7月17日），美聯儲隔夜逆回購協議（RRP）使用規模為1億美元（交易對手1家），上個交易日報1.25億美元。"
+    },
+    {
+      "id": "4994970",
+      "time": "2026-07-18 01:16:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "航班雷達監測資訊：一架美國空軍 KC-135 加油機在米爾登霍爾基地附近發出 7700 緊急應答機編碼訊號。（ squawk 7700：航空標準緊急程式碼，代表航空器遭遇險情、劫持等危急狀況 ）"
+    },
+    {
+      "id": "mkt:019f7114-3c06-7aab-8de9-762c5bea3d4a",
+      "time": "2026-07-18 01:16:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $100 mln from one counterparty in a fixed-rate reverse repo operation."
+    },
     {
       "id": "4994969",
       "time": "2026-07-18 01:04:45",
