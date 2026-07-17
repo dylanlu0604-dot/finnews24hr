@@ -1,7 +1,36 @@
 {
   "date": "2026-07-18",
-  "count": 251,
+  "count": 254,
   "items": [
+    {
+      "id": "4995091",
+      "time": "2026-07-18 04:46:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里爾將繼續就美墨加協定進行雙邊磋商。"
+    },
+    {
+      "id": "mkt:019f71d4-371b-7aab-8deb-dfe5b5770f7f",
+      "time": "2026-07-18 04:46:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran’s Islamic Revolutionary Guard Corps said the operation was a response to earlier US strikes on Iranian bridges and other infrastructure. It warned that if the US continues to hit Iranian targets, Iran will expand attacks on US industrial, technology and AI assets in the Middle East."
+    },
+    {
+      "id": "4995090",
+      "time": "2026-07-18 04:45:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國貿易代表格里爾將於7月22日至24日訪問墨西哥。"
+    },
     {
       "id": "te:markets:567985",
       "time": "2026-07-18 04:45:00",
