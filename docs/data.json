@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-17 18:50:03",
-  "count": 19039,
+  "updated": "2026-07-17 18:54:05",
+  "count": 19038,
   "items": [
+    {
+      "id": "mkt:019f6fb5-c5de-7aab-8de2-75f416c62595",
+      "time": "2026-07-17 18:53:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine destroyed a Russian Tu-95 military aircraft at Engels airbase."
+    },
+    {
+      "id": "4994380",
+      "time": "2026-07-17 18:52:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4252.7 萬千瓦！上海電網兩天前的“歷史新高”負荷已成歷史】持續高溫的天氣再次助推上海用電負荷增加。記者剛剛從國網上海電力獲悉，曾於7月15日以4221.6 萬千瓦創下的“歷史新高”用電負荷，已於今天（7月17 日）16 時22分重新整理——當時，上海全市的用電負荷為4252.7萬千瓦。統計顯示，隨著今天用電負荷再創歷史新高，上海7月13日至17日用電的平均最高負荷達4100.30萬千瓦，與去年同期的3658.28萬千瓦相比，增加了12.08%。（上觀）"
+    },
+    {
+      "id": "4994379",
+      "time": "2026-07-17 18:52:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泛亞微透：擬收購天緣電工54.089%股份取得控股權 拓展高階材料矩陣】泛亞微透(688386.SH)公告稱，公司擬透過支付現金方式收購張玉謙及天津市天緣電工材料股份有限公司其他股東合計持有的天緣電工54.089%股份，取得其控股權。本次交易不構成關聯交易及重大資產重組，交易價格尚未確定，目標公司100%股份價值暫定為2-3億元。交易旨在產品拓展、銷售渠道、研發技術等方面產生協同效應，補齊上游 PI膜的產能與技術短板，打通從PI(聚醯亞胺)基材到下游 FCCL、航空航天級複合薄膜的全產業鏈，實現產品銷售、渠道及技術協同，拓展高階材料矩陣。注：天緣電工深耕行業十餘載，專注於聚醯亞胺薄膜的研發與生產。成功開發了多款PI 薄膜，應用領域包括電工、電子、以及一些航空航天及特種領域。"
+    },
+    {
+      "id": "4994378",
+      "time": "2026-07-17 18:52:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）紐約可可期貨上漲超5%，報每噸5786美元。"
+    },
+    {
+      "id": "te:markets:567875",
+      "time": "2026-07-17 18:51:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Gains More than 10% on the Week — Brent traded above $85 per barrel on Friday, returning to one-month highs after a modest pullback in the previous session, as investors continued to assess the escalating conflict between the US and Iran. Overnight, US Central Command said it had completed its sixth consecutive night of strikes against Iran, targeting dozens of military sites, including logistics infrastructure and maritime assets. Iran has been responding by launching attacks on US bases in Kuwait, Jordan and Bahrain while reports indicated that Iran had instructed Yemen's Houthi forces to prepare to disrupt shipping through the Red Sea if the US targets Iranian power infrastructure. Meanwhile, commercial traffic through the Strait of Hormuz has remained largely limited. Oil prices have risen more than 10% this week as hostilities intensified, raising fears of a broader regional conflict. Early this week, the US reinstated a naval blockade targeting Iranian ports near the Strait of Hormuz."
+    },
+    {
+      "id": "4994377",
+      "time": "2026-07-17 18:51:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，最新衛星圖片證實，伊朗無人機精準命中伊拉克北部埃爾比勒國際機場附近基地內的美軍愛國者防空陣地，並引發火情。"
+    },
+    {
+      "id": "4994375",
+      "time": "2026-07-17 18:50:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦洲際交易所（ICE）可可期貨上漲超5%，報每噸4242英鎊。"
+    },
     {
       "id": "4994374",
       "time": "2026-07-17 18:48:59",
@@ -175187,79 +175246,6 @@
         "公司"
       ],
       "text": "【全國首個WorkBuddy OPC合作社群落地成都】據騰訊雲訊息，7月10日，騰訊WorkBuddy全國首個OPC合作社群，在成都天府長島數字文創園落戶。據介紹，該社群由騰訊雲與成都高新文創傳媒有限公司聯合發起，入駐社群的OPC和個人創作者可申領WorkBuddy專屬賬號，服務期內每月可免費獲得4000通用算力積分。"
-    },
-    {
-      "id": "mkt:019f4ba8-e173-7aab-8d30-80b7cba9e592",
-      "time": "2026-07-10 18:53:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kazakhstan central bank says it plans next week to temporarily suspend the mandatory conversion requirement for export proceeds of quasi-public sector enterprises."
-    },
-    {
-      "id": "4981147",
-      "time": "2026-07-10 18:53:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "哈薩克央行：擬於下週起，暫時取消準公共部門企業須出售50%出口外匯收入的規定。"
-    },
-    {
-      "id": "mkt:019f4ba6-b02b-7aab-8d30-78e90db69c63",
-      "time": "2026-07-10 18:50:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's first WorkBuddy OPC cooperation community launches in Chengdu】A WorkBuddy OPC cooperation community opened at Chengdu Tianfu Changdao Digital Cultural and Creative Park. Jointly initiated by Tencent Cloud and Chengdu High‑tech Cultural & Creative Media Co., the community will use Tencent's in‑house AI workstation WorkBuddy and focus on OPC (One Person Company) entities to pilot a three‑party support model—government support, platform support and community co‑creation—for end‑to‑end OPC growth."
-    },
-    {
-      "id": "mkt:019f4ba6-8d62-7aab-8d30-747272dd4a3d",
-      "time": "2026-07-10 18:50:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Market Themes",
-        "AI Revolution",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "【JEFFERIES: Europe has a genuine tech advantage】Jefferies analysts say European equities warrant reappraisal given the continent’s technology strengths. Higher social acceptance of AI in many European countries than in the US could allow Europe to capture AI-driven productivity gains; Europe’s large financial and industrial sectors should benefit from reforms aimed at encouraging investment. Heavy European investment in Africa gives listed European companies direct exposure to African growth. Jefferies sees these factors as a credible diversification case for investors."
-    },
-    {
-      "id": "4981146",
-      "time": "2026-07-10 18:50:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【世紀華通：全資子公司認繳出資1.5億元參與創業投資基金】世紀華通公告，公司全資子公司上海盛趣數盟企業管理有限公司近日與天津礪思明棠企業管理諮詢合夥企業（有限合夥）簽署合夥協議，參與投資天津礪思星雀創業投資合夥企業（有限合夥），作為有限合夥人以自有資金認繳出資1.5億元，佔合夥企業認繳出資總額的35.4610%。合夥企業基金規模為4.23億元，存續期限5年，主要投資於數字科技類計算機及軟體技術開發企業，由海南礪思私募基金管理有限公司擔任管理人。"
-    },
-    {
-      "id": "4981145",
-      "time": "2026-07-10 18:50:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛視科技：太原武宿機場專案預中標被終止】盛視科技公告，公司此前參與了太原武宿國際機場三期改擴建工程口岸查驗配套設施裝置專案裝置採購及安裝的投標，並被列為中標候選單位第一名。近日，公司收到招標人山西航空產業集團有限公司出具的《關於終止太原武宿國際機場三期改擴建工程口岸查驗配套設施裝置專案裝置採購及安裝的通知》，因本專案採購內容發生調整，原招標階段確定的採購內容、技術引數、清單不滿足立項批覆要求，決定終止此前發出的本專案預中標結果，招標人將根據調整後的採購內容及投資指標組織重新公開招標。該事項不會對公司日常經營業務開展及業務獨立性產生影響。"
-    },
-    {
-      "id": "4981144",
-      "time": "2026-07-10 18:50:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【拓荊科技：擬購買無錫尚積控股權 7月13日復牌】拓荊科技公告，公司正在籌劃以發行股份及支付現金的方式購買無錫尚積半導體科技股份有限公司的控股權並募集配套資金。公司股票自2026年6月29日開市起停牌，預計停牌時間不超過10個交易日。2026年7月10日，公司召開第二屆董事會第二十七次會議，審議透過了《關於及其摘要的議案》等與本次交易相關的議案。根據上海證券交易所的有關規定，經公司申請，公司股票將於2026年7月13日（星期一）開市起復牌。"
-    },
-    {
-      "id": "4981143",
-      "time": "2026-07-10 18:50:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓南部山體滑坡致10人死亡】據菲律賓媒體報道，菲南部棉蘭老島薩蘭加尼省一個村莊10日凌晨發生山體滑坡，造成10人死亡。上百戶家庭被疏散。 報道說，一名男子從廢墟中獲救，已被送往醫院。搜救仍在進行。 據初步調查，持續強降雨可能是此次山體滑坡的原因之一。此外，棉蘭老島周邊海域6月8日發生7.8級地震，薩蘭加尼省受災嚴重。地震破壞岩土結構，也可能是導致山體滑坡的因素。(新華社)"
     }
   ]
 }

@@ -1,7 +1,66 @@
 {
   "date": "2026-07-17",
-  "count": 2407,
+  "count": 2414,
   "items": [
+    {
+      "id": "mkt:019f6fb5-c5de-7aab-8de2-75f416c62595",
+      "time": "2026-07-17 18:53:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said Ukraine destroyed a Russian Tu-95 military aircraft at Engels airbase."
+    },
+    {
+      "id": "4994380",
+      "time": "2026-07-17 18:52:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【4252.7 萬千瓦！上海電網兩天前的“歷史新高”負荷已成歷史】持續高溫的天氣再次助推上海用電負荷增加。記者剛剛從國網上海電力獲悉，曾於7月15日以4221.6 萬千瓦創下的“歷史新高”用電負荷，已於今天（7月17 日）16 時22分重新整理——當時，上海全市的用電負荷為4252.7萬千瓦。統計顯示，隨著今天用電負荷再創歷史新高，上海7月13日至17日用電的平均最高負荷達4100.30萬千瓦，與去年同期的3658.28萬千瓦相比，增加了12.08%。（上觀）"
+    },
+    {
+      "id": "4994379",
+      "time": "2026-07-17 18:52:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泛亞微透：擬收購天緣電工54.089%股份取得控股權 拓展高階材料矩陣】泛亞微透(688386.SH)公告稱，公司擬透過支付現金方式收購張玉謙及天津市天緣電工材料股份有限公司其他股東合計持有的天緣電工54.089%股份，取得其控股權。本次交易不構成關聯交易及重大資產重組，交易價格尚未確定，目標公司100%股份價值暫定為2-3億元。交易旨在產品拓展、銷售渠道、研發技術等方面產生協同效應，補齊上游 PI膜的產能與技術短板，打通從PI(聚醯亞胺)基材到下游 FCCL、航空航天級複合薄膜的全產業鏈，實現產品銷售、渠道及技術協同，拓展高階材料矩陣。注：天緣電工深耕行業十餘載，專注於聚醯亞胺薄膜的研發與生產。成功開發了多款PI 薄膜，應用領域包括電工、電子、以及一些航空航天及特種領域。"
+    },
+    {
+      "id": "4994378",
+      "time": "2026-07-17 18:52:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所（ICE）紐約可可期貨上漲超5%，報每噸5786美元。"
+    },
+    {
+      "id": "te:markets:567875",
+      "time": "2026-07-17 18:51:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Gains More than 10% on the Week — Brent traded above $85 per barrel on Friday, returning to one-month highs after a modest pullback in the previous session, as investors continued to assess the escalating conflict between the US and Iran. Overnight, US Central Command said it had completed its sixth consecutive night of strikes against Iran, targeting dozens of military sites, including logistics infrastructure and maritime assets. Iran has been responding by launching attacks on US bases in Kuwait, Jordan and Bahrain while reports indicated that Iran had instructed Yemen's Houthi forces to prepare to disrupt shipping through the Red Sea if the US targets Iranian power infrastructure. Meanwhile, commercial traffic through the Strait of Hormuz has remained largely limited. Oil prices have risen more than 10% this week as hostilities intensified, raising fears of a broader regional conflict. Early this week, the US reinstated a naval blockade targeting Iranian ports near the Strait of Hormuz."
+    },
+    {
+      "id": "4994377",
+      "time": "2026-07-17 18:51:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面稱，最新衛星圖片證實，伊朗無人機精準命中伊拉克北部埃爾比勒國際機場附近基地內的美軍愛國者防空陣地，並引發火情。"
+    },
+    {
+      "id": "4994375",
+      "time": "2026-07-17 18:50:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "倫敦洲際交易所（ICE）可可期貨上漲超5%，報每噸4242英鎊。"
+    },
     {
       "id": "4994374",
       "time": "2026-07-17 18:48:59",
