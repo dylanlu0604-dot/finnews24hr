@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-18 02:19:44",
-  "count": 18916,
+  "updated": "2026-07-18 02:23:46",
+  "count": 18917,
   "items": [
+    {
+      "id": "mkt:019f7150-8ba2-7aab-8dea-25cb333ebfa6",
+      "time": "2026-07-18 02:22:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran International TV reported that, citing a directive it obtained from Iran's Supreme National Security Council, media are instructed not to publish details of damage to civilian infrastructure, the extent of destruction, or the impact of attacks on public-service provision."
+    },
+    {
+      "id": "mkt:019f7150-6283-7aab-8dea-1bdb6e434f37",
+      "time": "2026-07-18 02:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European Union reiterated its call for Israel to halt further expansion of settlements in the West Bank."
+    },
+    {
+      "id": "4994992",
+      "time": "2026-07-18 02:21:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙 - 華納兄弟併購案法官表示將於 7 月 22 日前作出裁決。"
+    },
+    {
+      "id": "4994991",
+      "time": "2026-07-18 02:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟重申呼籲以色列停止進一步擴建定居點。"
+    },
+    {
+      "id": "te:markets:567975",
+      "time": "2026-07-18 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 2.03% — Top commodity losers are Platinum (-2.03%), Silicon (-1.31%) and Copper (-1.25%). Gains are led by Silver (1.07%), Gold (0.90%) and Lithium Carbonate (0.66%)."
+    },
     {
       "id": "mkt:019f714b-35e7-7aab-8dea-11cd19a7141a",
       "time": "2026-07-18 02:16:22",
@@ -174395,44 +174438,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.47% — Top commodity losers are Cocoa (-7.47%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (1.57%) and Soybeans (1.29%)."
-    },
-    {
-      "id": "4981846",
-      "time": "2026-07-11 02:23:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【SK海力士執行長預計儲存晶片短缺將持續到下一個十年】SK海力士執行長Kwak Noh-Jung表示，正在擾亂計算機、汽車和裝置市場的儲存晶片短缺現象，可能會持續到2030年以後。Kwak在其首次英語採訪中表示，客戶正在簽署長期合同，因為“他們認為短缺局面將持續更長時間”。此前，這家韓國公司在美國進行了創紀錄的股票發行。該公司及其同行——三星電子和美光科技——都是人工智慧熱潮的主要受益者。資料中心運營商掀起的支出熱潮，刺激了對傳統儲存晶片以及一種名為高頻寬記憶體的新型儲存晶片的需求，後者可與人工智慧系統配合使用。這場爭搶使得滿足更廣泛的儲存晶片需求變得更加困難，並在計算機、手機和汽車等領域造成短缺。Kwak在紐約接受採訪時表示，SK海力士的分析顯示，短缺可能會持續到下一個十年。客戶釋放的訊號也顯示，他們預計儲存晶片供應不足的局面將持續較長時間。"
-    },
-    {
-      "id": "4981845",
-      "time": "2026-07-11 02:22:50",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【倫敦股市10日上漲】英國倫敦股市《金融時報》100種股票平均價格指數10日報收於10497.29點，較前一交易日上漲24.84點，漲幅為0.24%。歐洲三大股指當天漲跌不一。當天倫敦股市成分股中位於漲幅前五位的個股分別為：沃達豐集團股價上漲12.62%，體育博彩公司恩坦股價上漲3.92%，約翰-戴維運動時裝公司股價上漲2.92%，斯皮拉克斯集團股價上漲2.50%，潘興廣場控股公司股價上漲1.94%。當天倫敦股市成分股中位於跌幅前五位的個股分別為：金融投資企業聖詹姆斯廣場股價下跌8.55%，阿斯利康製藥公司股價下跌3.89%，希思科保險公司股價下跌2.26%，商業服務公司能多潔公司股價下跌2.05%，企業服務外包商巴布科克國際集團股價下跌1.61%。歐洲其他兩大主要股指方面，法國巴黎股市CAC40指數報收於8338.97點，較前一交易日上漲12.35點，漲幅為0.15%；德國法蘭克福股市DAX指數報收於25067.09點，較前一交易日下跌51.18點，跌幅為0.20%。（新華社）"
-    },
-    {
-      "id": "te:markets:566121",
-      "time": "2026-07-11 02:20:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.21% — Top commodity losers are Lithium Carbonate (-2.21%), Silver (-0.63%) and Gold (-0.50%). Gains are led by Silicon (0.84%) and Iron Ore CNY (0.80%)."
-    },
-    {
-      "id": "4981844",
-      "time": "2026-07-11 02:19:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：會見了美國國會眾議院外交事務委員會名譽主席，探討了俄烏前線戰況，以及烏克蘭遠端反擊行動。計劃持續深耕該領域，重點發展無人機相關技術。"
     }
   ]
 }

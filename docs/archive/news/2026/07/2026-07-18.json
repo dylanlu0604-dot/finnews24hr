@@ -1,7 +1,50 @@
 {
   "date": "2026-07-18",
-  "count": 91,
+  "count": 96,
   "items": [
+    {
+      "id": "mkt:019f7150-8ba2-7aab-8dea-25cb333ebfa6",
+      "time": "2026-07-18 02:22:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran International TV reported that, citing a directive it obtained from Iran's Supreme National Security Council, media are instructed not to publish details of damage to civilian infrastructure, the extent of destruction, or the impact of attacks on public-service provision."
+    },
+    {
+      "id": "mkt:019f7150-6283-7aab-8dea-1bdb6e434f37",
+      "time": "2026-07-18 02:22:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The European Union reiterated its call for Israel to halt further expansion of settlements in the West Bank."
+    },
+    {
+      "id": "4994992",
+      "time": "2026-07-18 02:21:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "派拉蒙 - 華納兄弟併購案法官表示將於 7 月 22 日前作出裁決。"
+    },
+    {
+      "id": "4994991",
+      "time": "2026-07-18 02:20:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟重申呼籲以色列停止進一步擴建定居點。"
+    },
+    {
+      "id": "te:markets:567975",
+      "time": "2026-07-18 02:20:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Falls by 2.03% — Top commodity losers are Platinum (-2.03%), Silicon (-1.31%) and Copper (-1.25%). Gains are led by Silver (1.07%), Gold (0.90%) and Lithium Carbonate (0.66%)."
+    },
     {
       "id": "mkt:019f714b-35e7-7aab-8dea-11cd19a7141a",
       "time": "2026-07-18 02:16:22",
