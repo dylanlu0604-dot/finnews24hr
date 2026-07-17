@@ -1,7 +1,55 @@
 {
   "date": "2026-07-18",
-  "count": 169,
+  "count": 174,
   "items": [
+    {
+      "id": "4995038",
+      "time": "2026-07-18 03:40:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "被質詢的公司包括TOTALENERGIES、海洋風能、杜克能源公司、INVENERGY公司。"
+    },
+    {
+      "id": "4995037",
+      "time": "2026-07-18 03:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國民主黨議員就海上風電租賃權回購事宜質詢多家海上風電企業。"
+    },
+    {
+      "id": "mkt:019f7195-cdbb-7aab-8deb-27eb8a82da83",
+      "time": "2026-07-18 03:37:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said June inflation data is \"major good news\" and that the United States is entering a \"golden age\"."
+    },
+    {
+      "id": "4995036",
+      "time": "2026-07-18 03:37:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：臺積電宣佈追加 1000 億美元投資亞利桑那州。"
+    },
+    {
+      "id": "mkt:019f7195-464e-7aab-8deb-1e3d99100e76",
+      "time": "2026-07-18 03:37:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【TSMC adds $100 bln to Arizona fab; Trump invites firms to build in US】President Trump said TSMC will add $100 billion to its Arizona semiconductor fab, bringing total US investment to a record $265 billion. He credited his trade policies with driving reshoring of advanced manufacturing and invited companies to build plants in the United States."
+    },
     {
       "id": "4995035",
       "time": "2026-07-18 03:36:27",

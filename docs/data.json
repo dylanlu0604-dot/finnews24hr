@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-18 03:37:18",
-  "count": 18923,
+  "updated": "2026-07-18 03:41:13",
+  "count": 18925,
   "items": [
+    {
+      "id": "4995038",
+      "time": "2026-07-18 03:40:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "被質詢的公司包括TOTALENERGIES、海洋風能、杜克能源公司、INVENERGY公司。"
+    },
+    {
+      "id": "4995037",
+      "time": "2026-07-18 03:39:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國民主黨議員就海上風電租賃權回購事宜質詢多家海上風電企業。"
+    },
+    {
+      "id": "mkt:019f7195-cdbb-7aab-8deb-27eb8a82da83",
+      "time": "2026-07-18 03:37:50",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US President Trump said June inflation data is \"major good news\" and that the United States is entering a \"golden age\"."
+    },
+    {
+      "id": "4995036",
+      "time": "2026-07-18 03:37:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：臺積電宣佈追加 1000 億美元投資亞利桑那州。"
+    },
+    {
+      "id": "mkt:019f7195-464e-7aab-8deb-1e3d99100e76",
+      "time": "2026-07-18 03:37:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【TSMC adds $100 bln to Arizona fab; Trump invites firms to build in US】President Trump said TSMC will add $100 billion to its Arizona semiconductor fab, bringing total US investment to a record $265 billion. He credited his trade policies with driving reshoring of advanced manufacturing and invited companies to build plants in the United States."
+    },
     {
       "id": "4995035",
       "time": "2026-07-18 03:36:27",
@@ -174467,38 +174515,6 @@
         "Importance 2"
       ],
       "text": "Oil Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Crude oil settled around $71 per barrel, recording a weekly gain of about 4%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance."
-    },
-    {
-      "id": "te:economy:566124",
-      "time": "2026-07-11 03:39:07",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Brazil Bond Yields Ease on Soft CPI — Brazil's 10-year government bond yield fell to 14.43% in July from 14.54% a week earlier after inflation data came in below expectations. Annual inflation eased to 4.64% in June from 4.72% in May, below market forecasts of 4.80%, bringing it closer to the BCB's target range of 1.5%-4.5%. The softer inflation reading reinforced expectations that the central bank could adopt a more dovish stance. Meanwhile, oil prices retreated on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions, easing energy-driven inflation concerns. At the same time, formal job creation slowed to about 73,000 positions in May, well below forecasts of 115,000, pointing to a gradual cooling in the labor market."
-    },
-    {
-      "id": "mkt:019f4d89-84d3-7aab-8d39-87ceadaf53d5",
-      "time": "2026-07-11 03:38:05",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "CENTCOM said the USS George H.W. Bush is sailing in regional waters and its sailors are conducting night air-combat training onboard."
-    },
-    {
-      "id": "4981887",
-      "time": "2026-07-11 03:37:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：喬治・H・W・布什號航空母艦（CVN 77）在區域海域航行期間，美國海軍艦員於艦上開展夜間飛行作業。"
     }
   ]
 }
