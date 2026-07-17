@@ -1,7 +1,89 @@
 {
   "date": "2026-07-17",
-  "count": 3082,
+  "count": 3091,
   "items": [
+    {
+      "id": "4994876",
+      "time": "2026-07-17 22:35:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍：摧毀革命衛隊監控塔 削弱其襲擊商船協調能力】美國中央司令部：7月16日，美軍成功摧毀了卡蘭塔里港的海上監視塔，該塔是伊朗革命衛隊沿阿曼灣海岸線使用數十年的海上監視網路的一部分，用於跟蹤和瞄準透過霍爾木茲海峽的商船。該塔的摧毀直接削弱了革命衛隊協調襲擊無辜平民船員的能力。此外，此次打擊保護了該區域水域所有船隻的航行自由，但試圖違反美國對伊朗持續海上封鎖的船隻除外。"
+    },
+    {
+      "id": "4994875",
+      "time": "2026-07-17 22:34:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【彭水山體崩塌現場還有34人失聯】記者17日從重慶市彭水縣山體崩塌搶險救援現場新聞釋出會獲悉，彭水山體崩塌現場還有34人失聯。（央視新聞）"
+    },
+    {
+      "id": "4994874",
+      "time": "2026-07-17 22:34:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部表示，法國於7月17日召見了俄羅斯駐巴黎大使。"
+    },
+    {
+      "id": "mkt:019f707f-9c1b-7aab-8de7-d42c2170d1ad",
+      "time": "2026-07-17 22:33:58",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Dollar hedging costs fall to lowest level this year】Cost of hedging dollar volatility has dropped to its lowest level this year. This week the one‑month implied volatility on the dollar spot index fell to its lowest since December, reversing much of the spike after the March outbreak of the Iran war. Despite Fed policy uncertainty and renewed Middle East tensions, traders signal a very low probability of a major shock to the global reserve currency. The calm is reinforcing a key market theme: US equity resilience and reduced currency volatility are drawing flows into arbitrage and carry trades that profit from interest‑rate differentials when FX and risk appetite are stable. ING FX strategist Francesco Pesole called the fall in dollar volatility striking and said AI‑driven equity resilience appears to be stabilising exchange rates and sustaining a self‑reinforcing low‑volatility, carry‑dominated environment; he added that a tech sell‑off would likely not deter demand for these strategies."
+    },
+    {
+      "id": "4994873",
+      "time": "2026-07-17 22:33:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海港完成首次滬產綠色甲醇加註】2026年7月17日凌晨，上港能源旗下甲醇加註船“海港致遠”輪，順利為一艘名為“北極燕鷗”輪的甲醇雙燃料汽車運輸船，加註超2800噸滬產綠色甲醇。這是上海本地產綠色甲醇首次實現在上海本地港口加註，上海港綠色甲醇加註“滬產滬儲滬加”全鏈條打通。"
+    },
+    {
+      "id": "4994872",
+      "time": "2026-07-17 22:33:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "Yara執行長：化肥採購將從戰爭導致的低迷中復甦。"
+    },
+    {
+      "id": "mkt:019f707e-8c1c-7aab-8de7-c8f75c1fdcf6",
+      "time": "2026-07-17 22:32:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lithium batteries to face consumption tax like refined fuel】Broker analysts say a consumption tax on lithium batteries was widely anticipated and industry expects limited impact. Battery cell prices are about 0.35–0.40 yuan/Wh; a 2% consumption tax would add roughly 0.007–0.008 yuan/Wh. A 2–4% tax range corresponds to an equivalent 12,000–25,000 yuan/ton effect on lithium carbonate. Lithium carbonate prices have been rising and orders remain supply-constrained, so the tax’s incremental burden is small. For end buyers, a 2–4% levy would raise per‑vehicle costs by only a few hundred yuan, well below prior lithium-driven cost swings. CPCA secretary-general Cui Dongshu said the move signals that “parity between oil and electricity” is being established; together with earlier purchase‑tax cuts and the removal of vehicle-and-vessel tax exemptions, the sector’s tax preferences are being phased out."
+    },
+    {
+      "id": "4994871",
+      "time": "2026-07-17 22:32:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "道富銀行獲富國銀行維持增持評級，目標價獲富國銀行上調，從每股196.00美元提高至215.00美元。"
+    },
+    {
+      "id": "mkt:019f707d-763d-7aab-8de7-c74c7cc1dce4",
+      "time": "2026-07-17 22:31:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said on July 16 US forces destroyed a maritime surveillance tower at Karantari Port, part of an IRGC decades-old coastal surveillance network along the Gulf of Oman used to track and target commercial vessels transiting the Strait of Hormuz."
+    },
     {
       "id": "4994870",
       "time": "2026-07-17 22:30:20",
