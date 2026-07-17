@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-17 08:06:58",
-  "count": 18809,
+  "updated": "2026-07-17 08:10:50",
+  "count": 18806,
   "items": [
+    {
+      "id": "4993106",
+      "time": "2026-07-17 08:09:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【今年上半年全國鐵路完成固定資產投資3632億元】記者從國鐵集團獲悉，今年上半年，鐵路建設優質高效推進，全國鐵路完成固定資產投資3632億元，同比增長2.1%。"
+    },
+    {
+      "id": "4993105",
+      "time": "2026-07-17 08:08:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.3%，報8,814.20點。"
+    },
+    {
+      "id": "4993104",
+      "time": "2026-07-17 08:08:34",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "SEVEN & I 股價上漲 5%；公司據稱正在考慮收購波蘭最大的便利店運營商ZABKA 股份。"
+    },
+    {
+      "id": "mkt:019f6d66-8f5b-7aab-8dd3-7259d7c58071",
+      "time": "2026-07-17 08:07:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "7-Eleven parent says it is in talks to invest in Poland's largest convenience-store chain but has made no decision yet."
+    },
+    {
+      "id": "4993103",
+      "time": "2026-07-17 08:07:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國獨角獸企業數量全球第二，硬科技成核心】昨日釋出的《中國獨角獸企業研究報告2026》顯示，截至2025年末，中國獨角獸企業總數達376家，較上一年增加35家；總估值達14467億美元，平均估值38.5億美元，較上年提升5.1億美元。超級獨角獸企業增至12家。中國獨角獸企業中近九成為民營企業，佔比達88.6%；高新技術企業佔比66.5%，專精特新“小巨人”企業佔比34.8%。2025年前沿科技獨角獸企業數量達320家，佔總數的85.1%，較上年提升14.9個百分點；新晉獨角獸企業中，前沿科技企業佔比更是超過九成。（央視新聞）"
+    },
+    {
+      "id": "4993102",
+      "time": "2026-07-17 08:06:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數下跌2.1%，至65422.88點。"
+    },
+    {
+      "id": "4993101",
+      "time": "2026-07-17 08:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本柒和伊控股表示，關於投資波蘭最大連鎖便利店的磋商確在進行中，但目前尚未作出任何決定。"
+    },
+    {
+      "id": "mkt:019f6d65-b052-7aab-8dd3-6bf56f190e4c",
+      "time": "2026-07-17 08:06:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell as much as 2.00% intraday."
+    },
     {
       "id": "4993100",
       "time": "2026-07-17 08:06:21",
@@ -172942,107 +173012,6 @@
         "MKT News"
       ],
       "text": "Australia's S&P/ASX 200 opened down 2.40 points (-0.03%) at 8,760.10 on Friday, July 10."
-    },
-    {
-      "id": "4979916",
-      "time": "2026-07-10 08:10:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本經濟財政大臣城內實：必須尊重日本央行的自主權。"
-    },
-    {
-      "id": "te:economy:565819",
-      "time": "2026-07-10 08:10:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Indonesia",
-        "Car Registrations",
-        "Importance 1"
-      ],
-      "text": "Indonesia Car Sales Grow 12% YoY in June — New car sales in Indonesia rose 12.0% year-on-year to 77,550 units in June 2026, following a 14.0% increase in May and marking the third consecutive month of growth. According to data from the Association of Indonesian Automotive Industries (Gaikindo), first-half sales rose 15.9% from the same period a year earlier to 436,564 units, highlighting resilient consumer demand despite inflationary pressures and higher non-subsidized fuel prices. Market sentiment is expected to receive further support from upcoming major automotive events. Even so, industry participants remain cautious as macroeconomic challenges persist, notably elevated borrowing costs that weigh on vehicle financing demand, the primary purchase channel for most Indonesian buyers. At the same time, the weak rupiah continues to raise the cost of imported components and raw materials, adding pressure to production costs and vehicle prices. Meanwhile, retail new car sales surged 19.6% yoy to 74,507 units."
-    },
-    {
-      "id": "mkt:019f495c-180f-7aab-8d22-cc76074e471d",
-      "time": "2026-07-10 08:09:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's Economy Minister Kiuchi said wholesale price rises reflect recent oil price increases, but consumer inflation growth remains moderate."
-    },
-    {
-      "id": "mkt:019f495b-75c0-7aab-8d22-c76d1edf151a",
-      "time": "2026-07-10 08:09:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's Economy Minister Kiuchi said the weak yen's effect on domestic inf is lagged and its magnitude may not be large."
-    },
-    {
-      "id": "mkt:019f495a-89ff-7aab-8d22-bbab95758b1d",
-      "time": "2026-07-10 08:08:18",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "SK Hynix shares rose about 2.5% intraday; Samsung Electronics gained more than 3%."
-    },
-    {
-      "id": "4979914",
-      "time": "2026-07-10 08:08:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本經濟再生擔當大臣：批發價格因近期油價上漲而上升，但消費者通脹升幅溫和。"
-    },
-    {
-      "id": "4979913",
-      "time": "2026-07-10 08:08:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟再生擔當大臣：日元疲軟對國內通脹的影響存在滯後性，且影響未必很大。"
-    },
-    {
-      "id": "4979912",
-      "time": "2026-07-10 08:07:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西班牙南部森林火災致6人死亡】西班牙安達盧西亞自治區政府10日凌晨證實，南部阿爾梅里亞省洛斯加利亞爾多斯9日下午發生森林火災，已造成6人死亡。安達盧西亞應急服務部門表示，當地時間9日17時左右接到火警報警，火勢迅速蔓延至鄰近貝達爾市鎮，當地政府啟動森林火災應急預案，緊急疏散貝達爾及周邊多個居民點居民並封閉部分道路。救援人員隨後在火場附近發現6名遇難者，其中多人在被焚燬的車內。目前，地面和空中力量仍在滅火。當地政府表示，起火原因仍在調查中。"
-    },
-    {
-      "id": "4979911",
-      "time": "2026-07-10 08:07:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘官員：大馬士革爆炸案作案團伙隸屬“伊斯蘭國”】敘利亞大馬士革農村省安全部門負責人10日凌晨向敘國家電視臺表示，初步調查顯示，7日在敘首都大馬士革實施爆炸襲擊的團伙隸屬於極端組織“伊斯蘭國”。 敘過渡政府內政部部長阿納斯·哈塔卜9日晚在社交媒體發文說，兩天前在大馬士革策劃和實施恐怖爆炸襲擊的作案團伙已全部落網。敘過渡政府內政部隨後發表宣告說，敘安全部隊對這一“恐怖團伙”在大馬士革各據點開展同步突擊，成功逮捕參與爆炸事件的所有“恐怖分子”。"
-    },
-    {
-      "id": "4979910",
-      "time": "2026-07-10 08:07:22",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【華泰證券：科技內部建議規避純題材和高擁擠方向 關注四條線索】華泰證券指出，短期科技超跌後或有修復，但擁擠度壓力充分消化前可能仍處於高波動狀態，7月中下旬中美財報季共振下有望迎來做多視窗。科技內部建議規避純題材和高擁擠方向，關注四條線索：1）國產AI算力，包括昇騰生態、國產GPU供應鏈和模型側真實呼叫；2）儲存，尤其是長協、擴產和HBM/高階DRAM受益鏈；3）受益於儲存擴產和國產替代預期的半導體裝置；4）受益於AI通脹的MLCC、PCB及上游材料。"
-    },
-    {
-      "id": "4979909",
-      "time": "2026-07-10 08:07:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【為防禦颱風“巴威” 浙滬全面鋪開防颱風防汛準備】為防禦颱風“巴威”，浙江台州沿海水產養殖基地全面鋪開防颱風防汛準備。透過加大投餵、加固設施、備足排水裝置等措施，最大限度降低颱風帶來的漁業損失。（央視）"
     }
   ]
 }
