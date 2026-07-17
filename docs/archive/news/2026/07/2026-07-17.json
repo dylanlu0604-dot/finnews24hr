@@ -1,7 +1,77 @@
 {
   "date": "2026-07-17",
-  "count": 1455,
+  "count": 1462,
   "items": [
+    {
+      "id": "4993676",
+      "time": "2026-07-17 14:17:29",
+      "tags": [],
+      "text": "A股三大指數觸底回升，創業板指跌幅收窄至4％以內，此前一度跌逾8％。"
+    },
+    {
+      "id": "mkt:019f6eb8-bed7-7aab-8ddb-f8be7a222b3e",
+      "time": "2026-07-17 14:17:08",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "VOLV-B.ST",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "Volvo Cars' chief commercial officer said the US market shows some signs of recovery but faces headwinds from high tariffs and shifting electric-vehicle regulations."
+    },
+    {
+      "id": "mkt:019f6eb8-a91d-7aab-8ddb-f5f11899521d",
+      "time": "2026-07-17 14:17:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Saudi Arabian television reported Iran said US military strikes since June 22 have killed 38 people and wounded 400."
+    },
+    {
+      "id": "4993675",
+      "time": "2026-07-17 14:16:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "沃爾沃汽車首席商務官談美國市場：我們確實看到一些復甦的積極跡象，但市場形勢嚴峻，面臨高額關稅和電動汽車法規變動。"
+    },
+    {
+      "id": "te:markets:567767",
+      "time": "2026-07-17 14:15:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Pound Holds Weekly Gain as Burnham Nears Leadership — The British pound eased to around $1.346 after reaching a two-month high of $1.354 earlier in the week, but remained on track for a weekly gain against the US dollar. Markets have largely priced in Andy Burnham’s expected confirmation as Labour leader today, with attention now turning to his choice of Chancellor. Reports that Mahmood is the leading candidate have reassured investors and eased concerns over a more expansionary fiscal approach under Ed Miliband. Meanwhile, rising tensions in the Middle East have pushed oil prices to one-month highs, reinforcing expectations that the Bank of England will continue tightening monetary policy. Markets now fully price in a rate hike in November, with another increase expected by March 2027. UK GDP rose 0.1% in May after a 0.1% contraction in April, while growth over the three months to May reached 0.7%, beating forecasts of 0.5%."
+    },
+    {
+      "id": "4993674",
+      "time": "2026-07-17 14:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省正式啟動跨境貿易高水平開放試點 首日業務順利落地】近期，中國人民銀行四川省分行、國家外匯管理局四川省分局批覆同意四川省內19家銀行業金融機構取得跨境貿易高水平開放試點業務資格，正式在全省範圍內啟動跨境貿易高水平開放試點工作。此舉標誌著四川在推進外匯管理改革創新、提升跨境貿易便利化水平方面邁出關鍵一步，為外貿企業高質量發展注入新動能。（每經）"
+    },
+    {
+      "id": "4993673",
+      "time": "2026-07-17 14:14:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【得物App WAIC 上展出首個AI鑑別機器人】7月16日訊息，在世界人工智慧大會首日，得物App聯合千覺機器人制造的AI鑑別機器人展出。鑑別機器人的機械臂抓取運動鞋；高畫質攝像頭對鞋面、中底、鞋墊、配件及鞋盒進行資料採集。影象識別技術抓取商品細節，並實時回傳給“AI大腦”進行畫素級比對。5秒後，一份鑑別報告便自動生成。"
+    },
     {
       "id": "4993672",
       "time": "2026-07-17 14:13:46",
