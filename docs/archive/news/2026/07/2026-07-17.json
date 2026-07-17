@@ -1,7 +1,59 @@
 {
   "date": "2026-07-17",
-  "count": 636,
+  "count": 641,
   "items": [
+    {
+      "id": "4993116",
+      "time": "2026-07-17 08:16:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：xAI當前呈現“基建一線、模型二線”的特徵 Grok4.5模型及應用的商業化潛力仍待驗證】中信證券研報表示，xAI是全球AI模型產業的重要參與者，也是SpaceX“航天—連線—AI”戰略的重要組成部分。公司依託Colossus叢集、X實時資料、Grok模型及Cursor開發者入口，初步形成“算力—資料—模型—應用”閉環。我們認為，xAI當前呈現“基建一線、模型二線”的特徵，中期增長將主要來自算力租賃與Cursor，Grok4.5模型及應用的商業化潛力仍待驗證。當前公司算力基建資本開支達127億美元，但AI原生收入不足5億美元，商業化進度與基礎設施投入仍存在明顯錯配。我們認為，公司增長將主要依賴其算力租賃與Cursor的增長，其中算力租賃業務訂單規模達800億美元，是xAI增長的核心動力。當前大模型產業處於技術與商業雙重拐點，我們看好具備訂單和交付能力的AI基建廠商，以及能夠率先兌現使用者增長與商業價值的AI應用投資機會。後續重點跟蹤商業化產品形態、模型廠商競爭格局演變及收入利潤增長曲線等。"
+    },
+    {
+      "id": "mkt:019f6d6d-40fd-7aab-8dd3-88a5647e5704",
+      "time": "2026-07-17 08:15:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell 3.00% intraday to 64,828.46 points."
+    },
+    {
+      "id": "4993115",
+      "time": "2026-07-17 08:14:54",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：霍爾木茲海峽通航問題仍將繼續擾動全球各類資產】中信證券研報表示，霍爾木茲海峽局勢再度升級，美伊的海峽控制權等核心矛盾並未因6月《伊斯蘭堡諒解備忘錄》而得到解決。備忘錄一度推動海峽通航恢復，但隨著美國推行南部航道、伊朗強化對航道的實際控制，雙方矛盾重新激化致使通航再度受阻。資產方面，預計原油短期走強，後續仍大幅波動；全球股市等風險資產仍然能走出獨立行情；黃金短期內繼續表現為風險資產受到壓制。預計美伊核心分歧短時間無法真正解決，在此之前霍爾木茲海峽通航問題仍將繼續擾動全球各類資產。"
+    },
+    {
+      "id": "mkt:019f6d6c-deac-7aab-8dd3-81092373fa57",
+      "time": "2026-07-17 08:14:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "09678.HK"
+      ],
+      "text": "Yunzhisheng (09678.HK) said it completed an iterative upgrade of its U2 base model and launched U2-Med, marketed as the industry’s first specialized large model for medical care, medical insurance (including commercial insurance) and pharmaceuticals."
+    },
+    {
+      "id": "4993114",
+      "time": "2026-07-17 08:14:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數擴大跌幅，最新下跌3%至64,822.86點。"
+    },
     {
       "id": "4993113",
       "time": "2026-07-17 08:13:48",

@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-17 08:14:45",
-  "count": 18805,
+  "updated": "2026-07-17 08:18:36",
+  "count": 18800,
   "items": [
+    {
+      "id": "4993116",
+      "time": "2026-07-17 08:16:37",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信證券：xAI當前呈現“基建一線、模型二線”的特徵 Grok4.5模型及應用的商業化潛力仍待驗證】中信證券研報表示，xAI是全球AI模型產業的重要參與者，也是SpaceX“航天—連線—AI”戰略的重要組成部分。公司依託Colossus叢集、X實時資料、Grok模型及Cursor開發者入口，初步形成“算力—資料—模型—應用”閉環。我們認為，xAI當前呈現“基建一線、模型二線”的特徵，中期增長將主要來自算力租賃與Cursor，Grok4.5模型及應用的商業化潛力仍待驗證。當前公司算力基建資本開支達127億美元，但AI原生收入不足5億美元，商業化進度與基礎設施投入仍存在明顯錯配。我們認為，公司增長將主要依賴其算力租賃與Cursor的增長，其中算力租賃業務訂單規模達800億美元，是xAI增長的核心動力。當前大模型產業處於技術與商業雙重拐點，我們看好具備訂單和交付能力的AI基建廠商，以及能夠率先兌現使用者增長與商業價值的AI應用投資機會。後續重點跟蹤商業化產品形態、模型廠商競爭格局演變及收入利潤增長曲線等。"
+    },
+    {
+      "id": "mkt:019f6d6d-40fd-7aab-8dd3-88a5647e5704",
+      "time": "2026-07-17 08:15:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell 3.00% intraday to 64,828.46 points."
+    },
+    {
+      "id": "4993115",
+      "time": "2026-07-17 08:14:54",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【中信證券：霍爾木茲海峽通航問題仍將繼續擾動全球各類資產】中信證券研報表示，霍爾木茲海峽局勢再度升級，美伊的海峽控制權等核心矛盾並未因6月《伊斯蘭堡諒解備忘錄》而得到解決。備忘錄一度推動海峽通航恢復，但隨著美國推行南部航道、伊朗強化對航道的實際控制，雙方矛盾重新激化致使通航再度受阻。資產方面，預計原油短期走強，後續仍大幅波動；全球股市等風險資產仍然能走出獨立行情；黃金短期內繼續表現為風險資產受到壓制。預計美伊核心分歧短時間無法真正解決，在此之前霍爾木茲海峽通航問題仍將繼續擾動全球各類資產。"
+    },
+    {
+      "id": "4993114",
+      "time": "2026-07-17 08:14:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數擴大跌幅，最新下跌3%至64,822.86點。"
+    },
+    {
+      "id": "mkt:019f6d6c-deac-7aab-8dd3-81092373fa57",
+      "time": "2026-07-17 08:14:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "09678.HK"
+      ],
+      "text": "Yunzhisheng (09678.HK) said it completed an iterative upgrade of its U2 base model and launched U2-Med, marketed as the industry’s first specialized large model for medical care, medical insurance (including commercial insurance) and pharmaceuticals."
+    },
     {
       "id": "4993113",
       "time": "2026-07-17 08:13:48",
@@ -172904,97 +172956,6 @@
         "Macro & Rates"
       ],
       "text": "Japan's finance minister KIUCHI said exchange rates are determined by multiple factors, including interest-rate differentials, inf differentials between Japan and other countries, and current-account dynamics."
-    },
-    {
-      "id": "4979926",
-      "time": "2026-07-10 08:17:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞競爭與消費者監管局（ACCC）：2026年第四季度東海岸天然氣市場供應將保持充足，但需要追加投資以滿足長期需求"
-    },
-    {
-      "id": "4979925",
-      "time": "2026-07-10 08:17:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟財政大臣城內實：長期利率由通脹、增長預期以及風險溢價等多種因素決定。"
-    },
-    {
-      "id": "4979924",
-      "time": "2026-07-10 08:17:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本 日本經濟財政大臣城內實：  匯率由多種因素決定，包括利差、日本與其他國家通脹率差距以及經常賬戶動態。"
-    },
-    {
-      "id": "te:markets:565822",
-      "time": "2026-07-10 08:17:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Set to End Volatile Week Lower — Silver steadied near $60 an ounce on Friday, but was still on track to end the week lower as investors continued to assess developments in the Middle East and their potential impact on inflation and monetary policy. Reports indicated that the US and Iran will continue peace talks despite a recent escalation in hostilities that disrupted energy flows through the Strait of Hormuz and renewed concerns over inflation. US forces carried out strikes on targets in Iran over two days in response to recent attacks on vessels in Hormuz, prompting retaliatory strikes by Tehran on US bases across the region. Markets continue to expect the Federal Reserve to raise interest rates at least once this year, although the policy outlook remains highly uncertain. Meanwhile, New York Fed President John Williams said that, among the factors driving inflation in the US, he is most focused on demand fueled by artificial intelligence."
-    },
-    {
-      "id": "mkt:019f4961-eeba-7aab-8d23-041e50773626",
-      "time": "2026-07-10 08:16:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SK Hynix shares retreated, gains narrowed to 0.5%."
-    },
-    {
-      "id": "mkt:019f4961-9b36-7aab-8d22-fedbc447c3fe",
-      "time": "2026-07-10 08:16:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kiuchi said close communication between the government and the Bank of Japan and regular exchange of views on the economy, inflation and financial conditions are essential."
-    },
-    {
-      "id": "mkt:019f4961-9776-7aab-8d22-f642ca2eb790",
-      "time": "2026-07-10 08:16:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【CSC Financial: Spot tightness and rising demand expectations point to higher rare-earth prices】CSC Financial says recycled feedstock has tightened and recycler operating rates have fallen, prompting a downgrade to overall rare-earth output. SMM estimates June praseodymium‑neodymium (PrNd) oxide production fell about 6%, and the share of recycled PrNd oxide in total output dropped from 44% in May to 37% in June. Supply is broadly tight with little near‑term upside. On the demand side, European heat waves have lifted air‑conditioner sales—each unit uses roughly 0.1–0.2kg of rare‑earth permanent magnet—and magnet‑material makers, running low inventories, are expected to increase purchases ahead of the air‑con peak and a strong Q3 auto season. Rare‑earth prices are therefore likely to trend higher."
-    },
-    {
-      "id": "4979923",
-      "time": "2026-07-10 08:15:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價回吐部分早前漲幅，現上漲1.5%。"
-    },
-    {
-      "id": "mkt:019f4961-48a8-7aab-8d22-ee96f60b5b6d",
-      "time": "2026-07-10 08:15:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's economy and finance minister Kiuchi said the government is revising its draft economic blueprint and has incorporated ruling-coalition lawmakers' views."
-    },
-    {
-      "id": "te:markets:565821",
-      "time": "2026-07-10 08:15:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Steady After Tech-Led Rally — US stock futures were little changed on Friday after the major indexes advanced in the previous session, supported by a strong rally in semiconductor stocks. During Thursday's regular session, the S&P 500 and Nasdaq Composite rose 0.81% and 1.3%, respectively, with both benchmarks remaining on track to post weekly gains. The Dow Jones also added 0.27%. Sentiment toward AI-related stocks has been volatile in recent weeks amid concerns over elevated valuations, though optimism was boosted by robust demand for SK Hynix's US share offering, which was oversubscribed by more than seven times. Leading Thursday's gains were Micron Technology (4.5%), Sandisk (7.6%), and AMD (5.7%). Stocks also drew support from easing oil prices as investors welcomed signs that the US and Iran will continue peace negotiations despite the recent escalation in hostilities."
     }
   ]
 }
