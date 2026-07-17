@@ -1,7 +1,185 @@
 {
   "date": "2026-07-17",
-  "count": 1551,
+  "count": 1573,
   "items": [
+    {
+      "id": "mkt:019f6edb-1530-7aab-8ddd-128ee743984d",
+      "time": "2026-07-17 14:54:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Azerbaijan's Ministry of Energy said average daily oil production in Jan–Jun was 61,000 tonnes."
+    },
+    {
+      "id": "mkt:019f6eda-e477-7aab-8ddd-0a15278fab41",
+      "time": "2026-07-17 14:54:26",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Palladium most-active contract dropped over 5% to 294.7 yuan/gram."
+    },
+    {
+      "id": "4993744",
+      "time": "2026-07-17 14:54:21",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：上調臺積電目標價至3100元新臺幣，AI需求增加帶動全年指引樂觀】高盛發表報告指，臺積電於第二季業績會議中，2026年全年營收及資本支出指引的顯著上調是主要驚喜。管理層將2026年營收同比增長展望上調至略高於40%，之前為高於30%，好過該行預估的39%；並將資本支出上調至600-640億美元，之前為520-560億美元，該行預估為560億美元。第二季毛利率67.7%雖好過公司自身指引，但低於該行預估的68.5%及投資者的樂觀預期，成為相對較弱的一點。整體而言，該行認為會中對AI需求的更正面論調強化了長期需求展望。管理層表示需求較上季更強，並據此加速產能建置，額外在亞利桑那州投資1000億美元。該行將臺積電目標價由3000元新臺幣上調至3100元新臺幣，重申“買入”評級。"
+    },
+    {
+      "id": "4993743",
+      "time": "2026-07-17 14:54:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞塞拜然能源部：該國 1 至 6 月向歐洲出口天然氣 59 億立方米。"
+    },
+    {
+      "id": "4993742",
+      "time": "2026-07-17 14:54:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗基礎設施 伊朗繼續打擊美軍中東目標】美軍中央司令部16日說，美國東部時間16日21時40分（北京時間17日9時40分），美軍完成了針對伊朗的最新一輪大規模打擊。多家伊朗媒體報道，美軍襲擊伊朗南部機場、橋樑、火車站等基礎設施，造成多人死傷。與此同時，伊朗武裝力量繼續對美軍在科威特、巴林、敘利亞等地的軍事目標發動打擊。美軍中央司令部當天在社交媒體上說，美軍動用戰鬥機、無人機和軍艦，發射精確制導彈藥，擊中數十個伊朗軍事目標，包括沿海監視和防空設施、軍事後勤基礎設施以及海上作戰設施。此次行動共持續7小時40分鐘。這是美軍連續第六晚對伊朗實施打擊。（新華社）"
+    },
+    {
+      "id": "4993741",
+      "time": "2026-07-17 14:53:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然能源部：該國 1 至 6 月石油日均產量為 6.1 萬噸。"
+    },
+    {
+      "id": "4993740",
+      "time": "2026-07-17 14:53:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長電科技成交額達200億元】7月17日下午，長電科技成交額達200億元，現漲2.82%。"
+    },
+    {
+      "id": "mkt:019f6ed9-c8b3-7aab-8ddd-0519357f3063",
+      "time": "2026-07-17 14:53:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Azerbaijan's Ministry of Energy said January-June crude oil exports totaled 10.5 million tonnes."
+    },
+    {
+      "id": "mkt:019f6ed9-a444-7aab-8ddc-fdcb8e12695d",
+      "time": "2026-07-17 14:53:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PBOC's Pan meets Libya central bank governor Najy Isa Belkasim】On July 15, 2026 PBOC's Pan met with Libya central bank governor Najy Isa Belkasim; they exchanged views on the current economic and financial situation and China‑Libya economic and financial cooperation."
+    },
+    {
+      "id": "4993739",
+      "time": "2026-07-17 14:53:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川青衣江發生2026年第1號洪水】根據四川省水文水資源勘測中心最新訊息，受持續強降雨影響，四川青衣江17日發生2026年第1號洪水。（央視新聞）"
+    },
+    {
+      "id": "4993738",
+      "time": "2026-07-17 14:52:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然能源部：該國 1 至 6 月石油出口量達 1050 萬噸。"
+    },
+    {
+      "id": "4993737",
+      "time": "2026-07-17 14:51:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞塞拜然能源部表示，英國石油公司今年 1 至 6 月原油產量達 790 萬噸。"
+    },
+    {
+      "id": "mkt:019f6ed8-8514-7aab-8ddc-f25511b775e7",
+      "time": "2026-07-17 14:51:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Japan & APAC",
+        "S&P500",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "【Investors pull out of AI stocks as global markets tumble】Global equities fell on Friday as investors fled AI and tech names; Japan's Nikkei 225 slid more than 6% intraday. A Tokyo broker called it one of the worst trading days in years, saying aggressive tech/AI positions were being rapidly liquidated. US futures pointed to a weaker open and Stoxx Europe 600 futures were down about 0.6%. ANZ chief economist and head of research Richard Yetsenga said the sell-off exposed an alarming degree of market and economic dependence on the AI boom."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607173810983172",
+      "time": "2026-07-17 14:51:44",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【中國人民銀行行長潘功勝會見利比亞央行行長納吉·伊薩·貝爾卡西姆】7月15日，中國人民銀行行長潘功勝會見利比亞央行行長納吉·伊薩·貝爾卡西姆。雙方就當前經濟金融形勢、中利經濟金融合作等議題交換了意見。"
+    },
+    {
+      "id": "mkt:019f6ed8-591d-7aab-8ddc-eb98852def46",
+      "time": "2026-07-17 14:51:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI"
+      ],
+      "text": "Azerbaijan's Ministry of Energy says oil production in January–June was 13.3 million tonnes."
+    },
+    {
+      "id": "te:markets:567781",
+      "time": "2026-07-17 14:51:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Tumble on Tech Rout — The Nikkei 225 Index plunged 4.03% to close at 64,140 on Friday, while the broader Topix Index fell 2.72% to 3,919, with both benchmarks finishing at their lowest levels in more than a month as a global selloff in semiconductor stocks accelerated amid mounting concerns over heavy AI-related spending and stretched valuations. Investor sentiment was also weighed down by the escalating conflict between the US and Iran, which drove oil prices higher and heightened inflationary and interest rate concerns. Technology and AI-related shares led the declines in Japan, with Kioxia Holdings tumbling 16.1%, Tokyo Electron sliding 8.1%, SoftBank Group losing 9%, Advantest falling 7.2%, and Taiyo Yuden dropping 11.9%. For the week, the Nikkei 225 and Topix indexes recorded losses of 6.4% and 2.9%, respectively."
+    },
+    {
+      "id": "4993736",
+      "time": "2026-07-17 14:51:07",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【中國人民銀行行長潘功勝會見利比亞央行行長納吉·伊薩·貝爾卡西姆】2026年7月15日，中國人民銀行行長潘功勝會見利比亞央行行長納吉·伊薩·貝爾卡西姆。雙方就當前經濟金融形勢、中利經濟金融合作等議題交換了意見。（中國人民銀行）"
+    },
+    {
+      "id": "mkt:019f6ed7-cc8c-7aab-8ddc-e2e3d5804cdb",
+      "time": "2026-07-17 14:51:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T",
+        "Impact bearish",
+        "ARM.O"
+      ],
+      "text": "【SoftBank to sell ¥60bn bonds to Japanese institutions to fund AI investments】SoftBank Group plans to issue about ¥60bn (≈$369m) of bonds to Japanese institutional investors this month, offering roughly ¥50bn of 3-year and ¥10bn of 5-year tranches in the week of July 27, according to lead underwriter Daiwa Securities. The move underscores growing financing needs; SoftBank earlier raised ¥678bn via retail subordinated notes and tapped US and European bond markets in April. Renewed market concern over AI investment returns has weighed on semiconductor-related names including Arm and pressured SoftBank shares, which have slipped from early-June highs after reports an OpenAI IPO may be delayed. SoftBank has been considering using its OpenAI stake as collateral for margin loans and has scaled planned financing down from $10bn to about $6bn."
+    },
+    {
+      "id": "4993735",
+      "time": "2026-07-17 14:50:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【軟銀集團擬新發行600億日元債券 加碼AI投資融資】據報道，軟銀集團計劃於本月面向日本機構投資者發行約600億日元（約3.69億美元）債券。根據主承銷商大和證券資訊，軟銀計劃在7月27日當週發行約500億日元的3年期債券和約100億日元的5年期債券。此次新發債凸顯出軟銀不斷增長的融資需求。軟銀今年已透過面向散戶投資者發行次級債籌集6780億日元，並於4月進入美國和歐洲債券市場融資。市場近期對人工智慧投資回報的擔憂加劇，拖累包括軟銀子公司Arm(ARM.O)在內的半導體相關股票表現。在有報道稱OpenAI IPO可能推遲後，軟銀股價已從6月初高點回落。軟銀還一直在考慮以其持有的OpenAI股份作為抵押進行保證金貸款，並已將原計劃融資規模從最初的100億美元下調至約60億美元。"
+    },
     {
       "id": "mkt:019f6ed7-4b45-7aab-8ddc-d941f035db5a",
       "time": "2026-07-17 14:50:30",
@@ -9,6 +187,30 @@
         "MKT News"
       ],
       "text": "【China wholesale pork average price down 0.3% vs yesterday】China Agricultural Products Wholesale Price 200 Index was 111.80 on July 17, up 0.18 points from the previous day; the \"vegetable basket\" wholesale price index was 111.65, up 0.21 points. As of 14:00, nationwide agricultural wholesale market average prices were: pork 15.81 yuan/kg (-0.3% vs yesterday), beef 66.75 yuan/kg (-0.3%), mutton 64.27 yuan/kg (-0.1%), eggs 10.04 yuan/kg (+1.1%), dressed chicken 17.19 yuan/kg (-1.2%)."
+    },
+    {
+      "id": "4993734",
+      "time": "2026-07-17 14:50:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "亞塞拜然能源部表示，該國上半年石油產量為1330萬噸。"
+    },
+    {
+      "id": "4993733",
+      "time": "2026-07-17 14:50:08",
+      "tags": [
+        "行業"
+      ],
+      "text": "【崔東樹：2026年6月末全國乘用車行業庫存343萬輛，較上月下降5萬輛】乘聯分會崔東樹發文稱：2026年6月末全國乘用車行業庫存343萬輛，較上月下降5萬輛，較2025年6月增11萬輛，形成庫存持續走平的趨勢，其中廠家庫存佔比30.2%，相對偏高。乘聯分會預測團隊2026年6月樂觀度31%，7月初的6月月後滿意度為37%，預期低但滿意度也差，主要是高油價的衝擊太大。團隊對7月市場的樂觀度降到19%，這是近期市場樂觀度判斷的歷史偏低預測指數。"
+    },
+    {
+      "id": "4993732",
+      "time": "2026-07-17 14:50:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【於祥成任華南理工大學黨委書記】據“微言教育”，7月17日，教育部人事司在華南理工大學宣佈了教育部黨組的任免決定，於祥成同志任華南理工大學黨委書記，唐洪武同志不再擔任華南理工大學黨委書記職務。教育部人事司主要負責同志、廣東省委組織部有關負責同志出席會議並講話。於祥成，1970年5月出生，研究生，博士學位，中共黨員，研究員。曾任湖南大學黨委副書記，新疆師範大學黨委副書記、副校長（援疆），合肥工業大學黨委書記。"
     },
     {
       "id": "4993731",
