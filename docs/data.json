@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-18 01:35:58",
-  "count": 18951,
+  "updated": "2026-07-18 01:39:58",
+  "count": 18956,
   "items": [
+    {
+      "id": "mkt:019f7129-0927-7aab-8de9-baf3335225bb",
+      "time": "2026-07-18 01:39:02",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Tasnim news agency reports Iran's crude oil basket price has topped $80 per barrel."
+    },
+    {
+      "id": "4994981",
+      "time": "2026-07-18 01:38:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列第12頻道：美軍正重新向中東部署兵力，已有5架空中加油機飛往以色列，後續還將有數十架增援。"
+    },
+    {
+      "id": "4994980",
+      "time": "2026-07-18 01:38:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美銀：關鍵指標極度看漲，建議拋售股票】美國銀行由邁克爾·哈特內特（Michael Hartnett）領導的策略師團隊表示，資產配置者已變得極度看漲，這通常是市場的一個警告訊號，表明投資者應該“減少股票敞口、撤退或進行板塊輪動”，而不是繼續加倉風險資產。 哈特內特在週五的一份報告中寫道，美國銀行的內部情緒指標——“牛熊指標”（Bull & Bear Indicator）正在閃爍逆向的“賣出訊號”。這主要歸因於“機構現金水平驟降、強勁的股票資金流入”以及全球股指廣度的增強。該指標已攀升至9.6，進一步推入極度看漲區域。而在大約兩個月前，該指標讀數為8.0，這通常意味著市場因擁擠的看漲倉位而過熱。美銀表示，該指標低於2.0的閾值意味著買入訊號。"
+    },
+    {
+      "id": "4994979",
+      "time": "2026-07-18 01:37:55",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：伊朗原油一攬子均價突破每桶 80 美元。"
+    },
+    {
+      "id": "mkt:019f7127-8a1e-7aab-8de9-b564feae5142",
+      "time": "2026-07-18 01:37:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's Channel 12 reports the U.S. military is redeploying forces to the Middle East; five aerial refueling tankers have flown to Israel and dozens more aircraft are expected to follow."
+    },
+    {
+      "id": "mkt:019f7126-cb0d-7aab-8de9-ae2734953c67",
+      "time": "2026-07-18 01:36:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reports a Thai-flagged vessel was attacked after transiting the Strait of Hormuz without permission from Iran’s Islamic Revolutionary Guard Corps (IRGC)."
+    },
     {
       "id": "4994978",
       "time": "2026-07-18 01:35:15",
@@ -174719,15 +174781,6 @@
         "市場"
       ],
       "text": "標普 500 與納指 100 指數創日內新高。"
-    },
-    {
-      "id": "4981799",
-      "time": "2026-07-11 01:36:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "洲際交易所歐洲期貨分部：截至7月7日，可可投機者將淨空頭頭寸削減3502手至4254手。"
     }
   ]
 }
