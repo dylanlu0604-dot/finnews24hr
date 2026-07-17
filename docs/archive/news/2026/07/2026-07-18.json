@@ -1,7 +1,51 @@
 {
   "date": "2026-07-18",
-  "count": 217,
+  "count": 222,
   "items": [
+    {
+      "id": "mkt:019f71ba-b999-7aab-8deb-a1c44311682a",
+      "time": "2026-07-18 04:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US bank deposits fell to $19.361 tln from $19.435 tln the prior week."
+    },
+    {
+      "id": "4995069",
+      "time": "2026-07-18 04:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗南部錫裡克地區聽到三聲爆炸。"
+    },
+    {
+      "id": "mkt:019f71b9-8992-7aab-8deb-9f167c52f5ff",
+      "time": "2026-07-18 04:16:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's state TV reported three explosions were heard in Sirik in southern Iran."
+    },
+    {
+      "id": "4995068",
+      "time": "2026-07-18 04:16:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國銀行存款從前一週的19.435萬億美元降至19.361萬億美元。"
+    },
+    {
+      "id": "4995067",
+      "time": "2026-07-18 04:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥駐美國大使：持續圍繞美國墨西哥加拿大貿易協議（USMCA）取得談判進展。這是翻新USMCA的好時機。每次我們損失，都是在喪失競爭。快速達成新版USMCA協議符合地區的最佳利益。"
+    },
     {
       "id": "4995066",
       "time": "2026-07-18 04:14:05",

@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-18 04:14:45",
-  "count": 18932,
+  "updated": "2026-07-18 04:18:46",
+  "count": 18934,
   "items": [
+    {
+      "id": "mkt:019f71ba-b999-7aab-8deb-a1c44311682a",
+      "time": "2026-07-18 04:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US bank deposits fell to $19.361 tln from $19.435 tln the prior week."
+    },
+    {
+      "id": "4995069",
+      "time": "2026-07-18 04:16:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗南部錫裡克地區聽到三聲爆炸。"
+    },
+    {
+      "id": "mkt:019f71b9-8992-7aab-8deb-9f167c52f5ff",
+      "time": "2026-07-18 04:16:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's state TV reported three explosions were heard in Sirik in southern Iran."
+    },
+    {
+      "id": "4995068",
+      "time": "2026-07-18 04:16:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國銀行存款從前一週的19.435萬億美元降至19.361萬億美元。"
+    },
+    {
+      "id": "4995067",
+      "time": "2026-07-18 04:15:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥駐美國大使：持續圍繞美國墨西哥加拿大貿易協議（USMCA）取得談判進展。這是翻新USMCA的好時機。每次我們損失，都是在喪失競爭。快速達成新版USMCA協議符合地區的最佳利益。"
+    },
     {
       "id": "4995066",
       "time": "2026-07-18 04:14:05",
@@ -174563,33 +174607,6 @@
         "國際"
       ],
       "text": "西方石油公司：美國證券交易委員會檔案顯示，2026 年第二季度原油區間期權交割令經營現金流減少 1.56 億美元；2026 年第二季度全球原油平均實現售價為每桶 96.78 美元； 2026 年第二季度全球天然氣平均實現售價為每千立方英尺負 0.8 美元。"
-    },
-    {
-      "id": "mkt:019f4dad-f243-7aab-8d39-e12b51aa494f",
-      "time": "2026-07-11 04:17:53",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iranian foreign ministry spokesman Baghaei said Araghchi will visit Oman to discuss and exchange views on establishing an appropriate mechanism to ensure safe passage of vessels through the Strait of Hormuz."
-    },
-    {
-      "id": "4981910",
-      "time": "2026-07-11 04:17:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部發言人表示，阿拉格齊將出訪阿曼，商討並交流霍爾木茲海峽船舶安全通行配套機制相關事宜。"
-    },
-    {
-      "id": "4981909",
-      "time": "2026-07-11 04:16:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行存款規模從前一週 19.382 萬億美元升至 19.435 萬億美元。"
     }
   ]
 }
