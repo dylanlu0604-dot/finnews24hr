@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-17 16:42:05",
-  "count": 19066,
+  "updated": "2026-07-17 16:46:14",
+  "count": 19060,
   "items": [
+    {
+      "id": "mkt:019f6f40-3698-7aab-8de0-0fb0e66ed159",
+      "time": "2026-07-17 16:45:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA meets Cambodian Prime Minister Hun Manet】CHINA met Cambodian Prime Minister Hun Manet in Shanghai on July 17."
+    },
+    {
+      "id": "4994027",
+      "time": "2026-07-17 16:44:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平會見柬埔寨首相洪瑪奈】7月17日下午，國家主席習近平在上海西郊賓館會見來華出席2026世界人工智慧大會暨人工智慧全球治理高階別會議並進行工作訪問的柬埔寨首相洪瑪奈。(央視新聞)"
+    },
+    {
+      "id": "4994026",
+      "time": "2026-07-17 16:44:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奇瑞旗下安慶立業汽車零部件公司擬登出】天眼查經營風險資訊顯示，近日，安慶立業汽車零部件有限公司新增一則簡易登出公告，公告期自7月15日至8月4日。該公司成立於2025年2月，法定代表人為朱少東，註冊資本2億人民幣，經營範圍包括汽車零部件及配件製造、汽車零部件研發、汽車零配件批發等。股東資訊顯示，該公司由奇瑞汽車股份有限公司、蕪湖普瑞汽車投資有限公司共同持股。"
+    },
+    {
+      "id": "4994025",
+      "time": "2026-07-17 16:44:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華蘭生物：副總經理陳正躍辭職】華蘭生物公告，公司董事會收到高階管理人員陳正躍先生的書面辭職報告。陳正躍先生因個人原因辭去公司副總經理職務，辭職後將繼續在公司擔任其他職務。其持有公司股票34000股，辭職不會影響公司相關工作的正常進行。"
+    },
+    {
+      "id": "4994024",
+      "time": "2026-07-17 16:44:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【風語築：多名高管減持計劃已實施完畢】風語築公告，公司董事兼總經理陳禮文、常務副總經理哈長虹、劉駿、王正國及副總經理張樹玉減持計劃實施完畢，分別透過集中競價減持17300股、41300股、11600股、15400股、28300股，約佔公司總股本的0.003%、0.007%、0.002%、0.0026%、0.005%。"
+    },
+    {
+      "id": "4994023",
+      "time": "2026-07-17 16:44:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浩通科技：首次透過回購專用證券賬戶以集中競價交易方式回購公司股份138萬股，佔公司總股本的0.62%】浩通科技公告，2026年7月17日，公司首次透過回購專用證券賬戶以集中競價交易方式回購公司股份138萬股，佔公司總股本的0.62%，最高成交價為17.48元/股，最低成交價為16.93元/股，成交金額為2378.53萬元（不含交易費用）。"
+    },
+    {
+      "id": "4994022",
+      "time": "2026-07-17 16:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會解散 內塔尼亞胡政府轉為看守政府】以色列議會於17日凌晨解散，新一屆議會選舉將在10月27日舉行。以色列總理內塔尼亞胡領導的政府在新政府成立前將作為看守政府繼續履職。根據以色列法律，議會選舉原則上每4年舉行一次。以色列媒體報道說，此次選舉是以色列38年來首次按法定任期而非提前舉行的議會選舉。根據規定，從議會解散起至新政府成立前，現政府將轉為看守政府，原則上不得推動實施重大政策或具有爭議性的立法，僅可處理獲得廣泛支援的法案、日常行政事務及國家安全所需事項。以色列媒體近期公佈的多項民調顯示，內塔尼亞胡領導的執政聯盟預計將在擁有120個席位的議會中獲得約50席，低於組建政府所需的61席，按目前聯盟格局難以繼續執政。（新華社）"
+    },
+    {
+      "id": "mkt:019f6f3d-ca05-7aab-8de0-0127818b8001",
+      "time": "2026-07-17 16:42:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai issues measures to advance AI+manufacturing】Shanghai Municipal Commission of Economy and Informatization issued measures to accelerate AI+manufacturing, offering targeted grants and subsidies to speed R&D and deployment. Up to 20 mln yuan in support for breakthroughs in core technologies including industrial vertical large models, AI coding models, physical AI, industrial agents, industrial software and industrial internet — with specific aims such as knowledge-graph fusion and text-to-3D parts design. Up to 10 mln yuan for integrated security solutions for industrial models and agents. To lower intelligent-input costs, the city encourages industrial cloud platforms to offer low-code agent development, free trials, token experience vouchers and preferential compute plans; subsidies of up to 40 mln yuan for leasing non-affiliated compute resources for industrial model/agent R&D. Subsidies up to 5 mln yuan each for invoking or privately deploying third‑party models and for purchasing high-quality training corpora for industrial model and agent development."
+    },
+    {
+      "id": "4994021",
+      "time": "2026-07-17 16:42:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國投電力：上半年發電量703.58億千瓦時，同比減少8.70%】國投電力公告，2026年4-6月公司控股企業累計完成發電量324.51億千瓦時，上網電量314.56億千瓦時，同比分別減少14.75%和15.15%；2026年1-6月累計完成發電量703.58億千瓦時，上網電量685.03億千瓦時，同比分別減少8.70%和8.88%。公司二季度控股投產裝機容量增加46.5萬千瓦，截至二季度末已投產控股裝機容量4766.06萬千瓦。"
+    },
+    {
+      "id": "mkt:019f6f3d-59e0-7aab-8ddf-f847eb644f7d",
+      "time": "2026-07-17 16:41:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "In Germany's OTC market, baseload power traded at €110/MWh on Monday, down 21.8% from last Friday's settlement price."
+    },
+    {
+      "id": "4994020",
+      "time": "2026-07-17 16:41:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國場外市場週一基荷電力價格為110歐元/兆瓦時，較週五交割結算價下跌21.8%。"
+    },
+    {
+      "id": "mkt:019f6f3d-23e8-7aab-8ddf-f5e39712347d",
+      "time": "2026-07-17 16:41:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US strikes destroy five Hormozgan bridges, severing Bandar Abbas logistics】US strikes destroyed five bridges in Hormozgan province, cutting road links between Bandar Abbas and surrounding districts. Bandar Abbas, Iran’s primary southern naval logistics hub, supports IRGC, coastal defense, missile, engineering units and transport of military supplies. Damage to transport nodes may delay fuel, ammunition, engineering gear, spare parts and other military materiel, lowering logistics efficiency and degrading operational execution. Rapid deployment and mobility of anti-ship cruise missiles, coastal defense systems, ballistic missile launchers and UAVs could be impaired; with fewer road corridors formerly dispersed assets may become easier to detect and track by ISR. The Hormozgan road network also underpins Iran’s monitoring and reinforcement of Strait of Hormuz coastal bases; damaged routes will hinder troop and resupply movements, radar sustainment, launcher repairs and the maintenance of deterrent/threat capabilities against maritime traffic."
+    },
     {
       "id": "mkt:019f6f3c-d4f5-7aab-8ddf-e9f19ebb7217",
       "time": "2026-07-17 16:41:25",
@@ -175300,159 +175413,6 @@
         "公司"
       ],
       "text": "【*ST天喻：再次延期至7月17日前回復深交所2025年報問詢函】*ST天喻公告稱，公司於2026年4月27日收到深交所下發的2025年年報問詢函，原要求5月21日前回復，後因部分問題需進一步瞭解、核實，延期至7月10日前回復。截至公告披露日，回覆內容尚需補充完善，經申請，本次問詢函將再次延期至7月17日前完成回覆並披露。"
-    },
-    {
-      "id": "mkt:019f4b34-823c-7aab-8d2d-a7d5f5ad8d05",
-      "time": "2026-07-10 16:46:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Ministry of Agriculture and Rural Affairs mobilizes emergency response to Typhoon Bawei】On the 10th, the Ministry of Agriculture and Rural Affairs said it has made preparedness for Typhoon Bawei a priority, mobilizing flood and typhoon defenses to limit damage. The ministry warned Bawei's wide reach, strong winds and heavy rain may adversely affect autumn grain and broader agricultural production, and urged local agricultural authorities to closely monitor rainfall, floods and winds, issue timely agrometeorological disaster warnings, and implement direct-to-frontline call-and-response pre-disaster warning systems. The ministry and the China Meteorological Administration have already issued warnings for field waterlogging and wind damage and circulated an emergency notice to coordinate responses."
-    },
-    {
-      "id": "4980780",
-      "time": "2026-07-10 16:45:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【農業農村部緊急部署做好颱風“巴威”防範應對工作】農業農村部把防範應對臺風“巴威”作為當前農業農村工作的重要任務，全力以赴做好防汛防颱風各項工作，最大程度減輕災害損失。農業農村部有關負責人表示，颱風“巴威”影響範圍廣，風大雨強，可能對秋糧和農業生產帶來不利影響。這位負責人強調，各有關地區農業農村部門要密切監測雨情汛情風情，及時釋出農業氣象災害預警，嚴格落實直達基層一線的臨災預警“叫應”機制。要指導受災地區抓緊搶收成熟作物，疏通農田溝渠防止內澇，加固大棚、養殖圈舍、漁排等農業設施，及時組織漁船回港、漁民上岸。做好災情排程工作，備好種子、農藥等救災物資，動員區域農業應急救災中心、農機應急作業服務隊等做好救災準備。加強因災返貧致貧風險監測，及時啟動“綠色通道”，落實精準幫扶措施，堅決守牢不發生規模性返貧致貧底線。（新華社）"
-    },
-    {
-      "id": "mkt:019f4b33-fa57-7aab-8d2d-9d930d31552e",
-      "time": "2026-07-10 16:45:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【IEA monthly report: UAE June crude output hits record high】The IEA says UAE June crude production averaged 4.10 mln b/d, a record above the 4.00 mln b/d peak reached in 2020 during its brief price war with Saudi Arabia. The report frames Abu Dhabi’s response as bolder than any Persian Gulf peer in offsetting supply disruptions linked to hostilities involving Iran. Measures cited include deploying a large national tanker fleet and chartering additional vessels from South Korea’s Sinokor, which now operates the world’s largest VLCC fleet; many ships reportedly ran with AIS transponders off to move crude out of the Gulf. The UAE announced its exit from OPEC at end-April to remove output constraints and pursue expansion; most of the recent production ramp-up occurred before this week’s attacks on merchant vessels in the Strait of Hormuz."
-    },
-    {
-      "id": "4980778",
-      "time": "2026-07-10 16:44:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【龍佰集團：子公司受讓鑫潤礦業55.10%股權完成工商變更】龍佰集團公告稱，公司全資子公司龍佰礦冶擬受讓河南振興釩鈦低碳發展私募股權投資基金中心持有的鑫潤礦業55.10%股權，該事項於2026年4月25日獲公司第九屆董事會第二次會議審議透過。近日，鑫潤礦業已完成相關工商變更登記，並取得鹽邊縣市場監督管理局換髮的《營業執照》。股權劃轉完成後，龍佰礦冶持有鑫潤礦業55.10%股權，公司另一全資子公司攀枝花龍佰豐源礦業有限公司持有44.90%股權。"
-    },
-    {
-      "id": "4980777",
-      "time": "2026-07-10 16:44:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中信金融資產等在深圳成立私募股權投資基金 出資額100.01億】天眼查App顯示，近日，深圳信創煥星特殊機遇私募股權投資基金合夥企業（有限合夥）成立，執行事務合夥人為星火聚信（深圳）投資有限公司，出資額100.01億人民幣，經營範圍為以私募基金從事股權投資、投資管理、資產管理等活動。合夥人資訊顯示，該基金由中信金融資產（02799.HK）、星火聚信（深圳）投資有限公司共同出資。"
-    },
-    {
-      "id": "mkt:019f4b32-ebbc-7aab-8d2d-92284e3a3835",
-      "time": "2026-07-10 16:44:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Beijing Daxing International Airport issues large-scale flight-delay warning】Beijing Daxing International Airport warned of large-scale flight delays from 17:30 local time after forecasts of intermittent thunderstorms with intense short-duration rainfall and heavy accumulated precipitation. The airport operations committee has issued a blue flood alert and a widescale flight-delay advisory and is coordinating with air traffic control and airlines to manage flight operations and passenger services."
-    },
-    {
-      "id": "4980776",
-      "time": "2026-07-10 16:44:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【民和股份：2026年6月雞苗銷售收入6391.03萬元，同比增長25.84%】民和股份公告，2026年6月公司銷售商品代雞苗2557.41萬隻，同比變動5.16%，環比變動-10.28%；銷售收入6391.03萬元，同比變動25.84%，環比變動-33.47%。銷售收入環比下降主要因本期雞苗售價下降及銷量下降所致。"
-    },
-    {
-      "id": "4980775",
-      "time": "2026-07-10 16:44:09",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【三星將釋出三款全新Galaxy Z8摺疊手機 售價最高漲20萬韓元】三星電子將於 7 月 22 日在倫敦舉辦釋出會，正式釋出旗艦摺疊屏手機 Galaxy Z8 系列新品。本次產品線擴充至三款機型，主打面向智慧自主人工智慧時代打造的全新 Galaxy 生態使用體驗。全新 Galaxy Z8 系列預計 8 月 7 日正式開售；預售時段大機率為 7 月 28 日至 8 月 3 日，8 月 4 日起開啟搶先啟用使用。 受零部件成本上漲影響，新機售價相較上一代最高上調 20 萬韓元。據爆料資訊，256GB 版本定價參考如下：Galaxy Z Fold8 Ultra 約 257 萬韓元，Galaxy Z Fold8 約 227 萬韓元，Galaxy Z Flip8 約 168 萬韓元。三星大機率會延續經典的儲存翻倍福利活動，使用者在預售期下單可免費升級高一檔機身儲存。"
-    },
-    {
-      "id": "4980774",
-      "time": "2026-07-10 16:44:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天沃科技：預計2026年上半年淨虧損6500萬元-8500萬元】天沃科技公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為6500萬元-8500萬元，基本每股收益虧損0.08元/股-0.1元/股。扣除非經常性損益後的淨利潤虧損2700萬元-4000萬元，基本每股收益虧損0.01元/股。報告期內，公司歸屬於上市公司股東的淨利潤出現虧損，主要原因如下：受國際環境不確定性影響，大型石油化工、煤化工投資專案放緩，傳統石化裝備市場需求不足，市場競爭加劇，公司高階裝備製造業務年初在手訂單同比有所減少，毛利率有所下滑，使得報告期內可實現的銷售業務規模同比出現一定幅度下降，盈利不及預期；同時疊加投資者索賠事項計提預計負債，導致歸屬於上市公司股東的淨利潤出現虧損。"
-    },
-    {
-      "id": "4980773",
-      "time": "2026-07-10 16:44:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京大興機場釋出大面積航班延誤預警】據北京大興國際機場官方微博訊息，據氣象部門預測，大興機場今日17時30分起將有間歇性雷雨，短時雨強較大，過程累計降水量大雨。目前，大興機場運管委已釋出汛情藍色預警和大面積航班延誤預警，會同空管部門、航空公司等各保障單位全力做好航班執行和旅客服務保障工作。請廣大旅客及時關注天氣變化和所乘航班動態，合理調整出行計劃。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f4b32-672b-7aab-8d2d-8d13d84b8ede",
-      "time": "2026-07-10 16:43:42",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【Commercial aerospace sector active today; Guotai Haitong buys Hailanxin】China's commercial aerospace sector was active today: Hailanxin, Hangtian Huanyu, Shenjian and China Satcom were among stocks that hit daily limit-ups. Post-close data show Hailanxin turnover at 3.279 billion yuan; Guotai Haitong Securities' Beijing Zhichun Road brokerage purchased 120 million yuan of Hailanxin."
-    },
-    {
-      "id": "4980772",
-      "time": "2026-07-10 16:43:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【地區多國緊急斡旋 美官員稱美伊緊張態勢趨緩】美國阿克西奧斯新聞網站9日援引知情人士訊息報道，巴基斯坦、卡達和其他地區斡旋方力勸美國和伊朗降級緊張態勢並就伊朗核問題恢復談判。美國官員稱，局勢9日“平靜多了”。美軍7日和8日以回應伊朗近期襲擊透過霍爾木茲海峽的商船為由，連續兩天對伊朗發動軍事打擊，伊朗則向美方在巴林、科威特、卡達和約旦等國的設施發動導彈和無人機襲擊。美國總統特朗普8日在土耳其首都安卡拉參加北約峰會時說，他認為美國和伊朗達成的諒解備忘錄“已終結”，美軍“今晚很可能再次狠狠打擊伊朗”。（新華社）"
-    },
-    {
-      "id": "4980771",
-      "time": "2026-07-10 16:43:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：軟銀考慮收購7&I控股部分股權。"
-    },
-    {
-      "id": "4980770",
-      "time": "2026-07-10 16:43:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【動力源：籌劃控制權變更事項取得進展 股票7月13日起復牌】動力源公告稱，公司控股股東及實際控制人何振亞籌劃控制權變更事項取得重大進展。7月10日，何振亞與深圳灣紅棉科創有限公司簽署《股份轉讓協議》，完成後控股股東將變更為深圳灣紅棉科創，實控人將變更為陳志茂。公司股票自7月6日起停牌，將於7月13日開市起復牌。該事項尚需上交所合規確認，並辦理股份過戶登記，能否完成及時間存在不確定性。"
-    },
-    {
-      "id": "4980769",
-      "time": "2026-07-10 16:42:47",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【巨化股份：2026年上半年營收125.35億元 同比增長7.03%】巨化股份公告稱，2026年上半年公司營收125.35億元，同比增長7.03%。主要產品中，製冷劑營收71.01億元，同比增長16.67%；含氟聚合物材料營收11.62億元，同比增長32.31%；含氟精細化學品營收2.84億元，同比增長52.81%。氟化工原料、石化材料、基礎化工產品及其它營收同比下降。主要產品價格多數上漲，主要原材料採購價格漲跌互現。"
-    },
-    {
-      "id": "4980768",
-      "time": "2026-07-10 16:42:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深圳燃氣：2026年上半年淨利潤7.78億元，同比增長22.02%】深圳燃氣公告，2026年上半年營業收入147.88億元，同比減少4.17%。歸屬於上市公司股東的淨利潤7.78億元，同比增長22.02%。扣除非經常性損益後歸屬於上市公司股東的淨利潤7.59億元，同比增長22.99%。"
-    },
-    {
-      "id": "4980767",
-      "time": "2026-07-10 16:42:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【焦作萬方：2026年上半年淨利潤預增118.35%-137.01%】焦作萬方公告稱，預計2026年上半年歸屬於上市公司股東的淨利潤為11.70億元-12.70億元，同比增長118.35%-137.01%；扣除非經常性損益後的淨利潤為11.58億元-12.58億元，同比增長116.93%-135.66%。業績增長主要因電解鋁價格高位執行，公司加強銷售管理，營收同比增長；主要原材料氧化鋁採購價下降，公司最佳化採購策略、降低能耗，有效降低生產成本。"
-    },
-    {
-      "id": "4980766",
-      "time": "2026-07-10 16:42:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長盈精密：為子公司崑山長盈3000萬元融資貸款提供擔保】長盈精密公告稱，公司此前已審議透過為子公司融資提供不超82.60億元擔保額度的議案。近日，公司與交通銀行崑山分行簽署《保證合同》，為全資子公司崑山長盈不超3000萬元融資貸款提供連帶責任保證。截至2026年7月8日，公司及子公司累計實際對外擔保餘額23.98億元，佔最近一期經審計歸母權益的28.73%，無逾期對外擔保等情形。"
     }
   ]
 }

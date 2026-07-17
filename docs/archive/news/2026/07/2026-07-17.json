@@ -1,7 +1,120 @@
 {
   "date": "2026-07-17",
-  "count": 1959,
+  "count": 1971,
   "items": [
+    {
+      "id": "mkt:019f6f40-3698-7aab-8de0-0fb0e66ed159",
+      "time": "2026-07-17 16:45:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【CHINA meets Cambodian Prime Minister Hun Manet】CHINA met Cambodian Prime Minister Hun Manet in Shanghai on July 17."
+    },
+    {
+      "id": "4994027",
+      "time": "2026-07-17 16:44:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【習近平會見柬埔寨首相洪瑪奈】7月17日下午，國家主席習近平在上海西郊賓館會見來華出席2026世界人工智慧大會暨人工智慧全球治理高階別會議並進行工作訪問的柬埔寨首相洪瑪奈。(央視新聞)"
+    },
+    {
+      "id": "4994026",
+      "time": "2026-07-17 16:44:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奇瑞旗下安慶立業汽車零部件公司擬登出】天眼查經營風險資訊顯示，近日，安慶立業汽車零部件有限公司新增一則簡易登出公告，公告期自7月15日至8月4日。該公司成立於2025年2月，法定代表人為朱少東，註冊資本2億人民幣，經營範圍包括汽車零部件及配件製造、汽車零部件研發、汽車零配件批發等。股東資訊顯示，該公司由奇瑞汽車股份有限公司、蕪湖普瑞汽車投資有限公司共同持股。"
+    },
+    {
+      "id": "4994025",
+      "time": "2026-07-17 16:44:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華蘭生物：副總經理陳正躍辭職】華蘭生物公告，公司董事會收到高階管理人員陳正躍先生的書面辭職報告。陳正躍先生因個人原因辭去公司副總經理職務，辭職後將繼續在公司擔任其他職務。其持有公司股票34000股，辭職不會影響公司相關工作的正常進行。"
+    },
+    {
+      "id": "4994024",
+      "time": "2026-07-17 16:44:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【風語築：多名高管減持計劃已實施完畢】風語築公告，公司董事兼總經理陳禮文、常務副總經理哈長虹、劉駿、王正國及副總經理張樹玉減持計劃實施完畢，分別透過集中競價減持17300股、41300股、11600股、15400股、28300股，約佔公司總股本的0.003%、0.007%、0.002%、0.0026%、0.005%。"
+    },
+    {
+      "id": "4994023",
+      "time": "2026-07-17 16:44:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浩通科技：首次透過回購專用證券賬戶以集中競價交易方式回購公司股份138萬股，佔公司總股本的0.62%】浩通科技公告，2026年7月17日，公司首次透過回購專用證券賬戶以集中競價交易方式回購公司股份138萬股，佔公司總股本的0.62%，最高成交價為17.48元/股，最低成交價為16.93元/股，成交金額為2378.53萬元（不含交易費用）。"
+    },
+    {
+      "id": "4994022",
+      "time": "2026-07-17 16:42:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列議會解散 內塔尼亞胡政府轉為看守政府】以色列議會於17日凌晨解散，新一屆議會選舉將在10月27日舉行。以色列總理內塔尼亞胡領導的政府在新政府成立前將作為看守政府繼續履職。根據以色列法律，議會選舉原則上每4年舉行一次。以色列媒體報道說，此次選舉是以色列38年來首次按法定任期而非提前舉行的議會選舉。根據規定，從議會解散起至新政府成立前，現政府將轉為看守政府，原則上不得推動實施重大政策或具有爭議性的立法，僅可處理獲得廣泛支援的法案、日常行政事務及國家安全所需事項。以色列媒體近期公佈的多項民調顯示，內塔尼亞胡領導的執政聯盟預計將在擁有120個席位的議會中獲得約50席，低於組建政府所需的61席，按目前聯盟格局難以繼續執政。（新華社）"
+    },
+    {
+      "id": "mkt:019f6f3d-ca05-7aab-8de0-0127818b8001",
+      "time": "2026-07-17 16:42:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai issues measures to advance AI+manufacturing】Shanghai Municipal Commission of Economy and Informatization issued measures to accelerate AI+manufacturing, offering targeted grants and subsidies to speed R&D and deployment. Up to 20 mln yuan in support for breakthroughs in core technologies including industrial vertical large models, AI coding models, physical AI, industrial agents, industrial software and industrial internet — with specific aims such as knowledge-graph fusion and text-to-3D parts design. Up to 10 mln yuan for integrated security solutions for industrial models and agents. To lower intelligent-input costs, the city encourages industrial cloud platforms to offer low-code agent development, free trials, token experience vouchers and preferential compute plans; subsidies of up to 40 mln yuan for leasing non-affiliated compute resources for industrial model/agent R&D. Subsidies up to 5 mln yuan each for invoking or privately deploying third‑party models and for purchasing high-quality training corpora for industrial model and agent development."
+    },
+    {
+      "id": "4994021",
+      "time": "2026-07-17 16:42:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國投電力：上半年發電量703.58億千瓦時，同比減少8.70%】國投電力公告，2026年4-6月公司控股企業累計完成發電量324.51億千瓦時，上網電量314.56億千瓦時，同比分別減少14.75%和15.15%；2026年1-6月累計完成發電量703.58億千瓦時，上網電量685.03億千瓦時，同比分別減少8.70%和8.88%。公司二季度控股投產裝機容量增加46.5萬千瓦，截至二季度末已投產控股裝機容量4766.06萬千瓦。"
+    },
+    {
+      "id": "mkt:019f6f3d-59e0-7aab-8ddf-f847eb644f7d",
+      "time": "2026-07-17 16:41:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "In Germany's OTC market, baseload power traded at €110/MWh on Monday, down 21.8% from last Friday's settlement price."
+    },
+    {
+      "id": "4994020",
+      "time": "2026-07-17 16:41:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，德國場外市場週一基荷電力價格為110歐元/兆瓦時，較週五交割結算價下跌21.8%。"
+    },
+    {
+      "id": "mkt:019f6f3d-23e8-7aab-8ddf-f5e39712347d",
+      "time": "2026-07-17 16:41:45",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【US strikes destroy five Hormozgan bridges, severing Bandar Abbas logistics】US strikes destroyed five bridges in Hormozgan province, cutting road links between Bandar Abbas and surrounding districts. Bandar Abbas, Iran’s primary southern naval logistics hub, supports IRGC, coastal defense, missile, engineering units and transport of military supplies. Damage to transport nodes may delay fuel, ammunition, engineering gear, spare parts and other military materiel, lowering logistics efficiency and degrading operational execution. Rapid deployment and mobility of anti-ship cruise missiles, coastal defense systems, ballistic missile launchers and UAVs could be impaired; with fewer road corridors formerly dispersed assets may become easier to detect and track by ISR. The Hormozgan road network also underpins Iran’s monitoring and reinforcement of Strait of Hormuz coastal bases; damaged routes will hinder troop and resupply movements, radar sustainment, launcher repairs and the maintenance of deterrent/threat capabilities against maritime traffic."
+    },
     {
       "id": "mkt:019f6f3c-d4f5-7aab-8ddf-e9f19ebb7217",
       "time": "2026-07-17 16:41:25",
