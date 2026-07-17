@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-17 21:42:07",
-  "count": 19130,
+  "updated": "2026-07-17 21:46:14",
+  "count": 19132,
   "items": [
+    {
+      "id": "mkt:019f7053-5e5b-7aab-8de6-6d0f9bde86ec",
+      "time": "2026-07-17 21:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. major indices opened lower on Friday, July 17: the Dow Jones Industrial Average fell 197.40 points (-0.38%) to 52,355.57 at the open; the S&P 500 declined 89.23 points (-1.18%) to 7,444.54; the Nasdaq Composite dropped 621.17 points (-2.40%) to 25,260.77."
+    },
+    {
+      "id": "4994788",
+      "time": "2026-07-17 21:45:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：預計馬克龍繼任者將維繫法德同盟關係。"
+    },
+    {
+      "id": "mkt:019f7052-ce47-7aab-8de6-61ad4a66169a",
+      "time": "2026-07-17 21:45:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 slid nearly 3% to an intraday low."
+    },
+    {
+      "id": "4994787",
+      "time": "2026-07-17 21:44:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌至盤中低點，跌2.7%。"
+    },
+    {
+      "id": "4994786",
+      "time": "2026-07-17 21:44:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：無論選民選擇誰，德國始終向法國伸出合作之手。"
+    },
+    {
+      "id": "te:markets:567933",
+      "time": "2026-07-17 21:44:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at 2-Week Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, retreated for the third session on Friday, slipping about 3.1% to its lowest since July 3 at 2,752 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also declined for the third day, dropping 5.6% to 4,097 points, as weaker cargo enquiries and increased vessel availability pressured spot earnings. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 0.4% to 2,248 points. Among smaller vessels, the supramax index rose 0.4% to a fresh high since August 2022 at 1,737 points. For the week, the benchmark index was down more than 6%."
+    },
+    {
+      "id": "te:markets:567932",
+      "time": "2026-07-17 21:43:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 24-month High — Merck shares increased to 130.50 USD, the highest since June 2024. Over the past 4 weeks, Merck & Co gained 12.81%, and in the last 12 months, it increased 59.75%."
+    },
+    {
+      "id": "4994785",
+      "time": "2026-07-17 21:42:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：蒂森克虜伯海事系統執行長預計年底前拿下印度潛艇訂單。"
+    },
+    {
+      "id": "mkt:019f704f-d99b-7aab-8de6-5e30f460ae8a",
+      "time": "2026-07-17 21:41:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT directs local radio regulators to swiftly probe suspected illegal online sales of signal jammers】China's Ministry of Industry and Information Technology has instructed local radio regulatory bodies to immediately investigate and crack down on suspected unlawful online sales of signal jammers. Authorities will coordinate with local public security and market supervision departments to conduct inspections, rapidly address suspected violations, and have ordered e-commerce platforms to remove listings and merchant accounts selling such devices."
+    },
+    {
+      "id": "4994784",
+      "time": "2026-07-17 21:41:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數跌幅擴大至逾5%，AMD跌超7%，英特爾跌超6%，臺積電跌超5%。"
+    },
     {
       "id": "4994783",
       "time": "2026-07-17 21:40:59",
@@ -176154,81 +176249,6 @@
         "其他"
       ],
       "text": "美銀全球研究將強生目標股價從254美元上調至263美元。"
-    },
-    {
-      "id": "te:markets:566069",
-      "time": "2026-07-10 21:45:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gold Dips as Oil Surge Fuels Fed Tightening Fears — Gold edged lower to $4,100 an ounce on Friday, ending the week down about 1.5%, as rising crude oil prices and escalating US-Iran tensions raised concerns that the Federal Reserve may maintain tight monetary policy for longer. Oil surged 5% this week after renewed strikes between US and Iranian forces, heightening inflation fears and prompting markets to price in a near 60% chance of a September Fed rate hike. Investors will closely watch US inflation data due next week and Fed Chair Kevin Warsh’s testimony for further policy cues. Minutes from the Fed’s June meeting revealed growing inflation concerns, with some policymakers having favored a rate hike before rates were left unchanged. Meanwhile, gold faced a wide discount in India this week due to price volatility, while demand in China remained steady. China’s central bank reported its largest monthly increase in gold reserves in over 2-1/2 years in June."
-    },
-    {
-      "id": "4981459",
-      "time": "2026-07-10 21:44:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【金三江：可轉換公司債券“三江轉債”停牌核查】金三江公告稱，公司可轉換公司債券“三江轉債”自2026年7月3日上市，當日收盤漲幅57.3%。7月3日至10日，其收盤價格累計漲幅247.00%，累計換手率約888.36%，價格變動嚴重偏離正股走勢。鑑於價格波動較大，公司申請“三江轉債”自7月13日開市起停牌核查，期間公司股票正常交易。公司將盡快披露核查結果並申請復牌。"
-    },
-    {
-      "id": "4981458",
-      "time": "2026-07-10 21:43:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所原糖期貨價格下跌近3%，報每磅14.71美分。"
-    },
-    {
-      "id": "te:markets:566068",
-      "time": "2026-07-10 21:43:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Up for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for the second session on Friday, rising about 1.2% to its highest since June 5 at 2,944 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also advanced for the second day, rising 1.9% to 4,655 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, was little changed at 2,253 points. Among smaller vessels, the supramax index increased by 0.4% to 1,706 points. The benchmark index rose about 8.4% for the week."
-    },
-    {
-      "id": "mkt:019f4c45-03d2-7aab-8d34-02e076f3f382",
-      "time": "2026-07-10 21:43:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran confirms Qatari delegation visit; China says Qatar should explain Strait of Hormuz accusation】Iran confirmed a Qatari political delegation arrived today for talks, with Doha said to be seeking to consolidate its mediator role. Qatar had earlier accused Iran over an incident in the Strait of Hormuz; US military forces subsequently carried out large-scale strikes on Iranian military and civilian targets on Wednesday and Thursday. A Chinese Foreign Ministry spokesman said he regretted Qatar’s accusations, calling them “questionable, contrary to the principle of good-neighborliness and unacceptable,” and said Qatar should, during the visit, explain why it sought to cooperate with the US to bypass Iran-designated shipping channels despite knowing Article 5 of the Islamabad memorandum, and why it rushed to accuse Iran before any direct communication."
-    },
-    {
-      "id": "4981457",
-      "time": "2026-07-10 21:42:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗：一支卡達政治代表團抵達伊朗】伊朗方面訊息：一支卡達政治代表團於本週五抵達伊朗，與伊朗官員展開磋商。伊朗官員阿巴斯・阿拉格齊目前身處馬什哈德，這支包含卡達外交部一名顧問的代表團或將前往馬什哈德與其會面。 據悉此次訪問核心目的是鞏固卡達調停方身份。此前週二、週四接連發生相關事態：卡達指控伊朗牽涉霍爾木茲海峽相關事件後，美軍於週三、週四對伊朗多處軍民目標實施大規模打擊。"
-    },
-    {
-      "id": "4981456",
-      "time": "2026-07-10 21:42:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國天然氣期貨日內跌幅達3.00%，現報2.921美元/百萬英熱。"
-    },
-    {
-      "id": "mkt:019f4c43-a601-7aab-8d33-fa0a70db1ee3",
-      "time": "2026-07-10 21:42:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures slid as much as 3.00% intraday, trading at $2.921/MMBtu."
     }
   ]
 }

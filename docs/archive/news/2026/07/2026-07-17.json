@@ -1,7 +1,102 @@
 {
   "date": "2026-07-17",
-  "count": 2937,
+  "count": 2947,
   "items": [
+    {
+      "id": "mkt:019f7053-5e5b-7aab-8de6-6d0f9bde86ec",
+      "time": "2026-07-17 21:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. major indices opened lower on Friday, July 17: the Dow Jones Industrial Average fell 197.40 points (-0.38%) to 52,355.57 at the open; the S&P 500 declined 89.23 points (-1.18%) to 7,444.54; the Nasdaq Composite dropped 621.17 points (-2.40%) to 25,260.77."
+    },
+    {
+      "id": "4994788",
+      "time": "2026-07-17 21:45:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "默茨：預計馬克龍繼任者將維繫法德同盟關係。"
+    },
+    {
+      "id": "mkt:019f7052-ce47-7aab-8de6-61ad4a66169a",
+      "time": "2026-07-17 21:45:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Nasdaq-100 slid nearly 3% to an intraday low."
+    },
+    {
+      "id": "4994787",
+      "time": "2026-07-17 21:44:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數跌至盤中低點，跌2.7%。"
+    },
+    {
+      "id": "4994786",
+      "time": "2026-07-17 21:44:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理默茨：無論選民選擇誰，德國始終向法國伸出合作之手。"
+    },
+    {
+      "id": "te:markets:567933",
+      "time": "2026-07-17 21:44:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index at 2-Week Low — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, retreated for the third session on Friday, slipping about 3.1% to its lowest since July 3 at 2,752 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also declined for the third day, dropping 5.6% to 4,097 points, as weaker cargo enquiries and increased vessel availability pressured spot earnings. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 0.4% to 2,248 points. Among smaller vessels, the supramax index rose 0.4% to a fresh high since August 2022 at 1,737 points. For the week, the benchmark index was down more than 6%."
+    },
+    {
+      "id": "te:markets:567932",
+      "time": "2026-07-17 21:43:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Merck Stock Price Hits 24-month High — Merck shares increased to 130.50 USD, the highest since June 2024. Over the past 4 weeks, Merck & Co gained 12.81%, and in the last 12 months, it increased 59.75%."
+    },
+    {
+      "id": "4994785",
+      "time": "2026-07-17 21:42:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：蒂森克虜伯海事系統執行長預計年底前拿下印度潛艇訂單。"
+    },
+    {
+      "id": "mkt:019f704f-d99b-7aab-8de6-5e30f460ae8a",
+      "time": "2026-07-17 21:41:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MIIT directs local radio regulators to swiftly probe suspected illegal online sales of signal jammers】China's Ministry of Industry and Information Technology has instructed local radio regulatory bodies to immediately investigate and crack down on suspected unlawful online sales of signal jammers. Authorities will coordinate with local public security and market supervision departments to conduct inspections, rapidly address suspected violations, and have ordered e-commerce platforms to remove listings and merchant accounts selling such devices."
+    },
+    {
+      "id": "4994784",
+      "time": "2026-07-17 21:41:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "費城半導體指數跌幅擴大至逾5%，AMD跌超7%，英特爾跌超6%，臺積電跌超5%。"
+    },
     {
       "id": "4994783",
       "time": "2026-07-17 21:40:59",
