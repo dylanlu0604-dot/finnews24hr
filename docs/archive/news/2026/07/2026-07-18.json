@@ -1,7 +1,50 @@
 {
   "date": "2026-07-18",
-  "count": 53,
+  "count": 57,
   "items": [
+    {
+      "id": "4994975",
+      "time": "2026-07-18 01:30:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報541.70元。"
+    },
+    {
+      "id": "mkt:019f711e-e031-7aab-8de9-9b04f382bc4d",
+      "time": "2026-07-18 01:27:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "A US judge declined to block Meta Platforms' (META.O) layoff plan in a novel AI-discrimination lawsuit."
+    },
+    {
+      "id": "4994974",
+      "time": "2026-07-18 01:26:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官駁回禁令申請，不會阻止Meta在這起新型 AI 歧視訴訟中實施裁員。"
+    },
+    {
+      "id": "te:economy:567969",
+      "time": "2026-07-18 01:26:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jul 20th — Developments between the US and Iran will remain in the global spotlight after strikes escalated, impacting energy prices and interest rate outlooks for central banks. Meanwhile, the AI trade will be further tested with a batch of earnings from hyperscalers, chip producers, and infrastructure operators, including Alphabet, Intel, Tesla, and GE Vernova. A softer week of US data will be headlined by leading indicators in S&P PMIs, the CB leading index, and results from regional Fed surveys. Meanwhile, the ECB will deliver a rate decision and Europe will see a batch of sentiment indicators, while the UK will unveil inflation rates, the unemployment rate, and retail sales. In Japan, the trade balance and CPI are due. Elsewhere, South Korea will post its Q2 GDP and Canada will publish consumer inflation data. On the political front, Labour Party leader Andy Burnham is due to become the UK Prime Minister."
+    },
     {
       "id": "mkt:019f711b-a20c-7aab-8de9-95ea502aa784",
       "time": "2026-07-18 01:24:24",

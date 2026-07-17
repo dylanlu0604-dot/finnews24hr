@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-18 01:25:56",
-  "count": 18959,
+  "updated": "2026-07-18 01:31:51",
+  "count": 18954,
   "items": [
+    {
+      "id": "4994975",
+      "time": "2026-07-18 01:30:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報541.70元。"
+    },
+    {
+      "id": "mkt:019f711e-e031-7aab-8de9-9b04f382bc4d",
+      "time": "2026-07-18 01:27:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "A US judge declined to block Meta Platforms' (META.O) layoff plan in a novel AI-discrimination lawsuit."
+    },
+    {
+      "id": "4994974",
+      "time": "2026-07-18 01:26:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國法官駁回禁令申請，不會阻止Meta在這起新型 AI 歧視訴訟中實施裁員。"
+    },
+    {
+      "id": "te:economy:567969",
+      "time": "2026-07-18 01:26:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Calendar",
+        "Importance 2"
+      ],
+      "text": "Week Ahead - Jul 20th — Developments between the US and Iran will remain in the global spotlight after strikes escalated, impacting energy prices and interest rate outlooks for central banks. Meanwhile, the AI trade will be further tested with a batch of earnings from hyperscalers, chip producers, and infrastructure operators, including Alphabet, Intel, Tesla, and GE Vernova. A softer week of US data will be headlined by leading indicators in S&P PMIs, the CB leading index, and results from regional Fed surveys. Meanwhile, the ECB will deliver a rate decision and Europe will see a batch of sentiment indicators, while the UK will unveil inflation rates, the unemployment rate, and retail sales. In Japan, the trade balance and CPI are due. Elsewhere, South Korea will post its Q2 GDP and Canada will publish consumer inflation data. On the political front, Labour Party leader Andy Burnham is due to become the UK Prime Minister."
+    },
     {
       "id": "mkt:019f711b-a20c-7aab-8de9-95ea502aa784",
       "time": "2026-07-18 01:24:24",
@@ -174703,89 +174746,6 @@
         "其他"
       ],
       "text": "秘魯央行首席經濟學家：預測秘魯通脹將於 2027 年初回歸目標區間。"
-    },
-    {
-      "id": "mkt:019f4d15-ad93-7aab-8d38-0f7630f75c40",
-      "time": "2026-07-11 01:31:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said Ukraine plans to adjust its assault units."
-    },
-    {
-      "id": "4981793",
-      "time": "2026-07-11 01:31:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：烏克蘭計劃對突擊部隊進行改組。"
-    },
-    {
-      "id": "mkt:019f4d15-055f-7aab-8d38-07677264381e",
-      "time": "2026-07-11 01:30:50",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "President Zelenskiy said Ukraine will establish a long-range strike command within its armed forces targeting Russia."
-    },
-    {
-      "id": "4981792",
-      "time": "2026-07-11 01:30:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基宣佈：烏克蘭將在武裝部隊內部設立遠端打擊指揮部，專門針對俄羅斯實施打擊。"
-    },
-    {
-      "id": "te:economy:566118",
-      "time": "2026-07-11 01:28:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Calendar",
-        "Importance 2"
-      ],
-      "text": "Week Ahead - Jul 13th — A busy week for global markets will feature the start of the earnings season, commonly dominated by the largest US banks, in addition to Netflix, J&J, and UnitedHealth. Meanwhile, Fed Chairman Warsh may elaborate on potential Fed overhauls during his testimony to Congress after his task forces were assembled. Earnings and policy signals will come alongside the June CPI report, which will unveil whether the pullback in oil prices was transmitted to consumers. The calendar also includes the UMich consumer confidence index, trade terms, and housing data. Across the Atlantic, the UK will release its May GDP report and join the Eurozone in posting industrial production. China's data dump will include its Q2 GDP, trade balance, and monetary aggregates together with industrial production, retail sales, unemployment, and housing prices. In Japan, machine orders are featured. Among Asian earnings, results from TSMC will be another catalyst for volatility in global chip producer stocks."
-    },
-    {
-      "id": "4981791",
-      "time": "2026-07-11 01:28:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行的Moulin認為人工智慧可能加劇通脹波動】歐洲央行管委Emmanuel Moulin表示，人工智慧對通脹的影響難以預測，而且可能導致價格波動加劇。“由於人工智慧同時作用於供需兩方面的變數，因此對通脹的總體影響尤為難以預測，”Moulin表示。“此外，其影響可能不僅體現在通脹水平，還可能體現在通脹的波動。”這位法國央行行長表示，由於資本支出增加，人工智慧短期內可能具有通脹效應，但隨著生產率提升，後續則可能抑制通脹。Moulin表示，目前人工智慧對歐洲央行政策影響有限，並且人工智慧只是多項結構性變化之一，其他還包括人口老齡化和氣候變化。“這是理解供給狀況時需要考慮的重要因素，但它並不具備足以促使我們調整貨幣政策反應函式的具體特徵，”Moulin表示。這位法國央行官員還表示，人工智慧對勞動力市場的影響“有限且不確定”，但對法國資料的分析顯示，從四年的時間跨度來看，採用人工智慧應該會產生積極影響。"
-    },
-    {
-      "id": "4981790",
-      "time": "2026-07-11 01:27:49",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行首席經濟學家： 秘魯 2026 年通脹預期為 3.8%。"
-    },
-    {
-      "id": "4981789",
-      "time": "2026-07-11 01:26:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員格雷厄姆：俄羅斯石油、天然氣採購方將付出沉重代價。"
-    },
-    {
-      "id": "4981788",
-      "time": "2026-07-11 01:26:26",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "秘魯央行首席經濟學家：厄爾尼諾現象加劇秘魯通脹風險。"
     }
   ]
 }
