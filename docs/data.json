@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-18 01:01:57",
-  "count": 18969,
+  "updated": "2026-07-18 01:05:58",
+  "count": 18965,
   "items": [
+    {
+      "id": "4994969",
+      "time": "2026-07-18 01:04:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【康菲石油加入英國石油在伊拉克的數十億桶級油田專案】康菲石油同意收購英國石油在伊拉克巨型基爾庫克（Kirkuk）油田群的42%股份，這對於這個因伊朗衝突而遭受嚴重減產的國家來說，是一個重大的利好訊息。康菲石油在7月17日的一份宣告中表示，該交易是伊拉克總理阿里·扎伊迪（Ali al-Zaidi）訪美期間簽署的幾項協議之一。交易涉及的區域蘊藏著超過30億桶油當量的資源，並具備“額外的勘探潛力”。交易的財務條款未予披露，但巴克萊的分析師估計收購價格約為4億美元。"
+    },
+    {
+      "id": "mkt:019f7108-e525-7aab-8de9-6cdf5e75ed68",
+      "time": "2026-07-18 01:03:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Baker Hughes said U.S. energy companies added rigs for a fifth consecutive week."
+    },
+    {
+      "id": "4994968",
+      "time": "2026-07-18 01:01:41",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月17日當週石油鑽井總數 452口，前值445口。\n美國至7月17日當週總鑽井總數 588口，前值581口。\n美國至7月17日當週天然氣鑽井總數 126口，前值126口。"
+    },
+    {
+      "id": "mkt:019f7106-c249-7aab-8de9-667dbd4605cc",
+      "time": "2026-07-18 01:01:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural-gas rig count for week to July 17: 126 (previous 126)."
+    },
+    {
+      "id": "mkt:019f7106-b9c8-7aab-8de9-5e3bb72d0fed",
+      "time": "2026-07-18 01:01:33",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US total rig count for the week to July 17 was 588 rigs, up from 581 the prior week."
+    },
+    {
+      "id": "mkt:019f7106-a24a-7aab-8de9-5776a66700fd",
+      "time": "2026-07-18 01:01:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Natural Gas Rig Count (Jul.17) | actual 126 | previous 126"
+    },
+    {
+      "id": "mkt:019f7106-9918-7aab-8de9-4a07ffb80e9d",
+      "time": "2026-07-18 01:01:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US oil rig count rose to 452 in the week to July 17 from 445 the prior week."
+    },
     {
       "id": "mkt:019f7106-95e4-7aab-8de9-404b70de892c",
       "time": "2026-07-18 01:01:24",
@@ -174760,112 +174838,6 @@
         "Importance 1"
       ],
       "text": "Canadian Dollar Gains on Strong Jobs Data — The Canadian dollar rebounded to 1.41 per USD from the 15-month low of 1.425 on June 28th after stronger-than-expected employment data. Canada added 18,200 jobs in June following an 88,000 increase in May, while the unemployment rate unexpectedly fell and tied its lowest level in nearly two years, reducing the risk that the Bank of Canada would cut rates to attend a weaker economy. Meanwhile, oil prices retreated on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions, easing some energy-driven inflation concerns. At the same time, the US dollar remained firm amid the possibility of a Federal Reserve rate hike later this year."
-    },
-    {
-      "id": "4981777",
-      "time": "2026-07-11 01:05:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 特朗普政府正考慮在白宮附近的賓夕法尼亞大道部分路段及拉斐特廣場周邊修建永久性安全圍欄。該提案仍在稽核階段，需獲得總統特朗普批准。"
-    },
-    {
-      "id": "mkt:019f4cfc-bc65-7aab-8d37-db33f1099f2d",
-      "time": "2026-07-11 01:04:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. natural gas rig count 126 for the week to July 10, unchanged from the prior week."
-    },
-    {
-      "id": "mkt:019f4cfc-abe7-7aab-8d37-d30e41a7d93c",
-      "time": "2026-07-11 01:04:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "US total rig count for week to July 10: 581 rigs, up from 580 the prior week."
-    },
-    {
-      "id": "mkt:019f4cfc-9eab-7aab-8d37-ca49fe0e832c",
-      "time": "2026-07-11 01:04:11",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Natural Gas Rig Count (Jul.10) | actual 126 | previous 126"
-    },
-    {
-      "id": "mkt:019f4cfc-947b-7aab-8d37-c776049149c4",
-      "time": "2026-07-11 01:04:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. oil rig count 445 in the week to July 10, unchanged from the prior week."
-    },
-    {
-      "id": "mkt:019f4cfc-8b76-7aab-8d37-bd57b814eb06",
-      "time": "2026-07-11 01:04:06",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Rig Count (Jul.10) | actual 581 | previous 580"
-    },
-    {
-      "id": "mkt:019f4cfc-7284-7aab-8d37-b23ed74557ce",
-      "time": "2026-07-11 01:04:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Weekly Total Oil Rig Count (Jul.10) | actual 445 | previous 445"
-    },
-    {
-      "id": "4981776",
-      "time": "2026-07-11 01:03:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長放話：不會投降，若美方“背信”將全面防禦】伊朗議會議長卡利巴夫表示，伊朗從未尋求戰爭，但絕不會向外部壓力屈服。卡利巴夫稱，近期衝突爆發前，美國、以色列和北約曾認為可以在數日內迫使伊朗投降，但最終未能實現目標。他表示，美方因承受經濟、政治和輿論壓力，才尋求停火。他強調，伊朗並不信任美國，只有做好戰爭準備，才有資格與美國談判。若美國“背棄雙方諒解備忘錄”，伊朗將做好“全面防禦”準備，並堅定捍衛國家利益。卡利巴夫表示，國際社會都希望結束戰爭，但任何人都應清楚，衝突不會以伊朗投降收場。"
-    },
-    {
-      "id": "mkt:019f4cfb-24e0-7aab-8d37-afeb50754b0c",
-      "time": "2026-07-11 01:02:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran parliamentary speaker Ghalibaf says Iran will not surrender; will mount \"comprehensive defense\" if U.S. \"breaches\" memorandum】Iran parliamentary speaker Ghalibaf said Iran has never sought war but will not yield to external pressure. He said the U.S., Israel and NATO had expected to force Iran to surrender within days before recent hostilities, but failed. Ghalibaf said the U.S. sought a ceasefire under economic, political and public pressure and that Iran does not trust the U.S.; only by preparing for war can it earn the right to negotiate. He warned that if the U.S. \"breaches the memorandum of understanding between the sides,\" Iran will prepare for a \"comprehensive defense\" and defend its national interests. He added that although the international community wants an end to the war, the conflict will not end with Iran’s surrender."
-    },
-    {
-      "id": "4981775",
-      "time": "2026-07-11 01:02:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯：美國石油鑽井平臺數量維持 445 座不變。"
-    },
-    {
-      "id": "4981774",
-      "time": "2026-07-11 01:02:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "貝克休斯資料：美國總鑽井平臺數 581 座。"
     }
   ]
 }
