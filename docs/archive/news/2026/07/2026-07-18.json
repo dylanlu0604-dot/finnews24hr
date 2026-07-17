@@ -1,7 +1,37 @@
 {
   "date": "2026-07-18",
-  "count": 30,
+  "count": 33,
   "items": [
+    {
+      "id": "4994966",
+      "time": "2026-07-18 00:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列第12頻道：美國尚未向以色列通報任何增派空中加油機的計劃， 削減機隊規模至約 20 架飛機的計劃仍在推進中。"
+    },
+    {
+      "id": "mkt:019f7101-df24-7aab-8de9-28fbea253731",
+      "time": "2026-07-18 00:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reports the US has not informed Israel of any plans to send additional aerial refueling tankers."
+    },
+    {
+      "id": "mkt:019f7100-0a75-7aab-8de9-24be5d9b21f0",
+      "time": "2026-07-18 00:54:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "Apple (AAPL.O) is in preliminary settlement talks with the U.S. Department of Justice over an antitrust lawsuit."
+    },
     {
       "id": "mkt:019f70fe-a71d-7aab-8de9-1d73126edc57",
       "time": "2026-07-18 00:52:44",

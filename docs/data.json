@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-18 00:53:52",
-  "count": 18974,
+  "updated": "2026-07-18 00:57:53",
+  "count": 18972,
   "items": [
+    {
+      "id": "4994966",
+      "time": "2026-07-18 00:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "據以色列第12頻道：美國尚未向以色列通報任何增派空中加油機的計劃， 削減機隊規模至約 20 架飛機的計劃仍在推進中。"
+    },
+    {
+      "id": "mkt:019f7101-df24-7aab-8de9-28fbea253731",
+      "time": "2026-07-18 00:56:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's Channel 12 reports the US has not informed Israel of any plans to send additional aerial refueling tankers."
+    },
+    {
+      "id": "mkt:019f7100-0a75-7aab-8de9-24be5d9b21f0",
+      "time": "2026-07-18 00:54:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "Apple (AAPL.O) is in preliminary settlement talks with the U.S. Department of Justice over an antitrust lawsuit."
+    },
     {
       "id": "mkt:019f70fe-a71d-7aab-8de9-1d73126edc57",
       "time": "2026-07-18 00:52:44",
@@ -174857,49 +174887,6 @@
         "國際"
       ],
       "text": "【京東旗下平臺等組成的財團據悉接近提交REIT在新加坡IPO的檔案】知情人士透露，一個包括京東旗下資產管理平臺和瑞士Partners Group Holding AG在內的財團，正準備以保密方式提交一隻房地產投資信託基金（REIT）在新加坡首次公開募股（IPO）的相關檔案。媒體3月曾報道，該REIT還將納入由高瓴支援的EZA Hill Property Management Pte所持東南亞資產，IPO募資規模可能約為10億新元（7.75億美元）。美國銀行、星展集團和瑞銀集團參與這筆交易。知情人士稱，註冊草案可能很快提交給新加坡金融管理局和當地證券交易所。因資訊尚未公開，知情人士要求匿名。他們表示，相關方案仍在討論中，時間安排可能會有調整。"
-    },
-    {
-      "id": "mkt:019f4cf5-a2e4-7aab-8d37-a66e89e615dc",
-      "time": "2026-07-11 00:56:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliament speaker Ghalibaf said Tehran is prepared to implement a \"comprehensive defense\" if the US abandons the memorandum of understanding."
-    },
-    {
-      "id": "4981766",
-      "time": "2026-07-11 00:56:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【LME金屬收盤多數下跌】LME金屬收盤多數下跌，LME期銅收跌5美元，報13484美元/噸。LME期鋁收跌61美元，報3140美元/噸。LME期鋅收跌10美元，報3616美元/噸。LME期鉛收漲4美元，報1896美元/噸。LME期鎳收漲154美元，報16741美元/噸。LME期錫收跌522美元，報53125美元/噸。"
-    },
-    {
-      "id": "4981765",
-      "time": "2026-07-11 00:55:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫稱，若美方違背共識，德黑蘭已做好全面防禦準備。"
-    },
-    {
-      "id": "mkt:019f4cf4-25d5-7aab-8d37-9feadd39d075",
-      "time": "2026-07-11 00:54:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said the conflict will not end with Iran's surrender."
-    },
-    {
-      "id": "4981764",
-      "time": "2026-07-11 00:54:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗議長卡利巴夫表示，近期衝突絕不會以伊朗投降告終。"
     }
   ]
 }
