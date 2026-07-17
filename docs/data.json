@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-18 01:21:57",
-  "count": 18960,
+  "updated": "2026-07-18 01:25:56",
+  "count": 18959,
   "items": [
+    {
+      "id": "mkt:019f711b-a20c-7aab-8de9-95ea502aa784",
+      "time": "2026-07-18 01:24:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude up 3.00% intraday at $86.64/bbl."
+    },
+    {
+      "id": "mkt:019f7119-d8d6-7aab-8de9-8a6735484fc0",
+      "time": "2026-07-18 01:22:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's first vice president said any violation of Iranian territory would be met with a decisive, unexpected and unconventional response."
+    },
+    {
+      "id": "mkt:019f7119-820b-7aab-8de9-83bbfb51f057",
+      "time": "2026-07-18 01:22:04",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "The US Federal Aviation Administration will announce it will allow Boeing (BA.N) to reinstate airworthiness certificates for all 737 MAX and 787 aircraft."
+    },
     {
       "id": "mkt:019f7118-6c96-7aab-8de9-78103da25bab",
       "time": "2026-07-18 01:20:53",
@@ -174752,39 +174786,6 @@
         "其他"
       ],
       "text": "秘魯央行首席經濟學家：厄爾尼諾現象加劇秘魯通脹風險。"
-    },
-    {
-      "id": "4981787",
-      "time": "2026-07-11 01:25:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯緊急情況部訊息：莫斯科郊區克拉斯諾戈爾斯克一處購物中心屋頂起火。 起火面積達 200 平方米，已有 14 輛消防車趕赴現場開展滅火作業。"
-    },
-    {
-      "id": "4981785",
-      "time": "2026-07-11 01:23:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：2026年第二季度企業評級趨勢出現反轉，評級調整以利好為主。"
-    },
-    {
-      "id": "4981784",
-      "time": "2026-07-11 01:22:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾集會 反對高市擴軍修憲】日本民眾10日在位於東京的日本國會前舉行大規模集會，抗議高市政權解禁殺傷性武器出口，反對日本政府推動擴軍修憲。（央視新聞）"
-    },
-    {
-      "id": "4981783",
-      "time": "2026-07-11 01:22:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【分析師：有關俄羅斯關閉關鍵糧食走廊的傳聞是交易員的首要關注點】在世界農產品供需預期報告被普遍認為對市場呈中性影響的背景下，交易員的注意力重新轉向俄烏衝突的最新進展。有關俄羅斯關閉關鍵糧食走廊的傳聞是交易員的首要關注點。StoneX分析師Arlan Suderman在一份報告中表示：“主要情況依然是，由於刻赤海峽關閉，在週末到來前，小麥市場出現了一些風險溢價。”此前，烏克蘭對俄羅斯能源設施的打擊升級，隨後出現了關鍵出口基礎設施可能關閉的情況。俄羅斯反擊擾亂烏克蘭小麥供應的風險也是交易員擔憂的問題。小麥期貨上漲3.4%。"
     }
   ]
 }

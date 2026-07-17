@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 50,
+  "count": 53,
   "items": [
+    {
+      "id": "mkt:019f711b-a20c-7aab-8de9-95ea502aa784",
+      "time": "2026-07-18 01:24:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude up 3.00% intraday at $86.64/bbl."
+    },
+    {
+      "id": "mkt:019f7119-d8d6-7aab-8de9-8a6735484fc0",
+      "time": "2026-07-18 01:22:27",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's first vice president said any violation of Iranian territory would be met with a decisive, unexpected and unconventional response."
+    },
+    {
+      "id": "mkt:019f7119-820b-7aab-8de9-83bbfb51f057",
+      "time": "2026-07-18 01:22:04",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "The US Federal Aviation Administration will announce it will allow Boeing (BA.N) to reinstate airworthiness certificates for all 737 MAX and 787 aircraft."
+    },
     {
       "id": "mkt:019f7118-6c96-7aab-8de9-78103da25bab",
       "time": "2026-07-18 01:20:53",
