@@ -1,7 +1,43 @@
 {
   "date": "2026-07-17",
-  "count": 1266,
+  "count": 1270,
   "items": [
+    {
+      "id": "mkt:019f6e73-e625-7aab-8dda-3f04ebd85006",
+      "time": "2026-07-17 13:01:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Ministry of Emergency Management launches national Level II geological disaster response】At about 09:00 on July 17 a landslide near Wujiang Third Bridge, Hanjia subdistrict, Pengshui county, Chongqing caused house collapses and left people trapped. The Ministry of Emergency Management activated a national Level II geological disaster emergency response. Minister Zhang Chengzhong led a working group to the scene and ordered full search-and-rescue, rapid accounting of those trapped and measures to prevent secondary disasters; Vice Minister Xu Jia'ai continued coordination. The ministry dispatched 100 professional rescuers with equipment from the Natural Disaster Engineering Emergency Rescue Center (China Aneng Group). The national comprehensive fire and rescue team deployed 49 vehicles and 206 personnel to the site."
+    },
+    {
+      "id": "4993541",
+      "time": "2026-07-17 13:01:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【應急管理部排程重慶彭水縣山體垮塌搶險救援 啟動國家地質災害二級應急響應 派出工作組趕赴現場指導救援處置】7月17日9時許，重慶市彭水縣漢葭街道烏江三橋附近發生山體垮塌，造成房屋倒塌，有人員被困。 應急管理部啟動國家地質災害二級應急響應，部長張成中率工作組趕赴現場指導救援處置。接報後，張成中立即排程部署搶險救援工作，要求全力搜救被困人員，迅速核清人數，科學開展救援，防止次生災害。副部長徐加愛持續排程。 應急管理部調派自然災害工程應急救援中心（中國安能集團）專業救援力量100人攜帶裝備趕赴現場處置。國家綜合性消防救援隊伍49車206人已赴現場開展救援。"
+    },
+    {
+      "id": "4993540",
+      "time": "2026-07-17 12:58:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光本位科技全球首發256*256光子存內計算晶片】在WAIC期間，光本位科技首次成功流片256*256矩陣規模光子存內計算晶片，該晶片為目前世界上算力密度最大和算力精度最大的光計算晶片。今年年內光本位科技將推出基於該晶片的第二代光電融合計算卡，單卡算力可對標全球頂尖電計算公司專用於AI推理的主流GPU產品，這標誌著光本位科技的光電融合計算卡將從第一代的百TOPS級躍升為千TPOS級。"
+    },
+    {
+      "id": "mkt:019f6e70-9c89-7aab-8dda-312b4d38aa5b",
+      "time": "2026-07-17 12:58:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Atlas950 SuperPoD hardware debuts at WAIC 2026】At the 2026 World Artificial Intelligence Conference (WAIC), the Atlas950 SuperPoD super-node made its first public hardware appearance. Organizers presented it as the industry's largest super-node, targeting large-scale data-center construction, trillion-parameter model training and high-concurrency inference, and said it offers ultra-high bandwidth, ultra-low latency and unified memory addressing."
+    },
     {
       "id": "4993539",
       "time": "2026-07-17 12:57:14",
