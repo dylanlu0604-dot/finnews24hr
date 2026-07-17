@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-18 00:21:10",
-  "count": 19002,
+  "updated": "2026-07-18 00:25:13",
+  "count": 19001,
   "items": [
+    {
+      "id": "4994959",
+      "time": "2026-07-18 00:23:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨西哥近海7.4級地震後餘震不斷】當地時間17日，據墨西哥國家地震局訊息，墨西哥南部近海發生7.4級地震後餘震不斷，分別在當地時間9時9分21秒、9時14分56秒和9時20分10秒，在震中海域附近再次發生4.5級、5.8級和6.5級餘震。據通報，三次餘震的震中位於恰帕斯州伊達爾戈城西南部，震源深度均為10公里。目前暫無人員傷亡和財產損失報告。首都墨西哥城地震預警系統沒有啟動。（央視新聞）"
+    },
+    {
+      "id": "4994958",
+      "time": "2026-07-18 00:22:47",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "【報道：Meta 洽談向 Anthropic 出租算力，交易兩年最高價值或達100億美元】三位知悉談判內情的人士透露，Meta 正洽談將自有 AI 資料中心算力出租給 Anthropic，這份兩年期合作協議規模最高可達100億美元。訊息人士稱，合作方案由 Anthropic 在 6 月率先提出，Meta 目前正在評估。雙方交易細則仍在調整，按照方案，Anthropic 將在兩年內按月分期向 Meta 支付費用，且兩家企業均有權提前終止協議。Anthropic 此次向 Meta 提出的算力採購規模，僅為其今年 5 月與埃隆・馬斯克旗下SpaceX所籤合約的三分之一。知情人士表示，Meta 與 Anthropic 的談判尚處於初期階段，最終未必能落地。"
+    },
+    {
+      "id": "mkt:019f70e1-ddfa-7aab-8de8-f68d48466cea",
+      "time": "2026-07-18 00:21:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O",
+        "Impact bullish"
+      ],
+      "text": "Meta Platforms (META.O) is in talks with ANTHROPIC to lease compute capacity in a deal that could total up to $10 billion over two years, the New York Times reports."
+    },
     {
       "id": "4994957",
       "time": "2026-07-18 00:18:45",
@@ -175091,42 +175123,6 @@
         "其他"
       ],
       "text": "【旅遊市場強迫購物集中整治取得階段性成效】記者從文化和旅遊部10日舉行的新聞釋出會上獲悉，文化和旅遊部聯合有關部門持續開展旅遊市場強迫購物集中整治，取得階段性成效。2026年上半年，立案數量同比增長49.3%，查處涉及強迫購物的案件同比增長86.9%，對損害遊客合法權益、影響公平競爭市場秩序的違法違規行為形成更加有力的震懾。旅遊投訴是衡量群眾滿意度的重要指標。在投訴處理和執法辦案方面，今年上半年，全國文化和旅遊市場網上舉報投訴處理系統接收旅遊投訴數量同比下降24.2%，環比下降31.4%。（新華社）"
-    },
-    {
-      "id": "mkt:019f4cd8-cb20-7aab-8d37-66df4d7c195a",
-      "time": "2026-07-11 00:25:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【After Trump says US-Iran 'ceasefire over', US military reports no change in operations】On the 10th, CENTCOM spokesman Tim Hawkins said there were no operational updates after President Trump posted that the US had informed Iran the 'ceasefire is over'. Asked whether that implied a restart of US air strikes, Hawkins would not predict future action, saying US forces in the region remain vigilant, lethal and ready to execute orders from the commander-in-chief."
-    },
-    {
-      "id": "te:markets:566107",
-      "time": "2026-07-11 00:24:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "DAX Underperforms in Europe — The DAX 40 closed about 0.2% down at 25,067 after a volatile session on Friday, following yesterday's rise, underperforming its European peers. The tech sector remained a drag on the market, while renewed tensions in the Middle East kept investors cautious, despite expectations of continued US-Iran talks. Weakness in tech stocks and industrials contrasted with strong performance of telecommunication companies and banks. AI-exposed companies like Siemens Energy (-2.5%), Hochtief (-2.4%) and Infineon Technologies (-1.2%) faced heavy pressure. Industrial giant Rheinmetall dropped 2%. Among gainers, Deutsche Telekom climbed 2.8% after JPMorgan upgraded the stock to \"buy.\" Heidelberg Materials also advanced 2.8%, while Commerzbank and Deutsche Bank gained more than 1% each. For the week, the index lost roughly 2.8%."
-    },
-    {
-      "id": "4981733",
-      "time": "2026-07-11 00:23:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普宣佈美伊“停火結束”後 美軍稱暫無行動變化】當地時間10日獲悉，美國中央司令部發言人蒂姆·霍金斯表示，在特朗普總統宣佈與伊朗停火結束後，目前“沒有行動更新”。特朗普當天在社交平臺發文稱，美國已明確告知伊朗，“停火已經結束”。當被問及停火結束是否意味著美軍將重啟空中轟炸時，霍金斯表示，他不會預測未來行動。但他稱，駐該地區美軍仍“保持警惕、具備殺傷力，並準備執行總司令下達的行動”。（央視新聞）"
-    },
-    {
-      "id": "4981732",
-      "time": "2026-07-11 00:22:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防部長：以色列國防軍時刻做好準備，應對各類局勢。"
     }
   ]
 }
