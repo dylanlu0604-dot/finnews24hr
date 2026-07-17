@@ -1,7 +1,18 @@
 {
   "date": "2026-07-18",
-  "count": 291,
+  "count": 292,
   "items": [
+    {
+      "id": "te:markets:567988",
+      "time": "2026-07-18 06:15:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Drops by 0.53% — Top currency losers are Mexican Peso (-0.53%), South Korean Won (-0.53%), Indian Rupee (-0.25%) and British Pound (-0.18%). Gains are led by Norwegian Krone (0.33%). Meanwhile, Euro and Dollar Index were little changed."
+    },
     {
       "id": "4995118",
       "time": "2026-07-18 06:08:10",
