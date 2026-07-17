@@ -1,7 +1,19 @@
 {
   "date": "2026-07-18",
-  "count": 260,
+  "count": 261,
   "items": [
+    {
+      "id": "mkt:019f71df-9cdc-7aab-8deb-f3928349a524",
+      "time": "2026-07-18 04:58:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says it attacked US facilities in Bahrain, warns US AI assets in Middle East may be targeted】Iran's Islamic Revolutionary Guard Corps said its forces attacked US facilities in Bahrain, destroying a US military unmanned-boat storage facility and striking an AI center used for targeting. Tehran said the action was in response to earlier US strikes on Iranian bridges and other infrastructure, and warned that if the US continues attacks on Iranian targets, Iran will expand strikes to target US industrial, technology and AI-related assets in the Middle East."
+    },
     {
       "id": "mkt:019f71de-6435-7aab-8deb-ee3db753ded6",
       "time": "2026-07-18 04:57:07",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-18 04:58:03",
-  "count": 18946,
+  "updated": "2026-07-18 05:01:58",
+  "count": 18944,
   "items": [
+    {
+      "id": "mkt:019f71df-9cdc-7aab-8deb-f3928349a524",
+      "time": "2026-07-18 04:58:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says it attacked US facilities in Bahrain, warns US AI assets in Middle East may be targeted】Iran's Islamic Revolutionary Guard Corps said its forces attacked US facilities in Bahrain, destroying a US military unmanned-boat storage facility and striking an AI center used for targeting. Tehran said the action was in response to earlier US strikes on Iranian bridges and other infrastructure, and warned that if the US continues attacks on Iranian targets, Iran will expand strikes to target US industrial, technology and AI-related assets in the Middle East."
+    },
     {
       "id": "mkt:019f71de-6435-7aab-8deb-ee3db753ded6",
       "time": "2026-07-18 04:57:07",
@@ -174662,34 +174674,6 @@
         "國際"
       ],
       "text": "美國高階官員： 若無法獲取核相關材料，美伊就不可能達成協議。"
-    },
-    {
-      "id": "mkt:019f4dd6-447e-7aab-8d3a-3635c7de7a86",
-      "time": "2026-07-11 05:01:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Senior U.S. official: Washington has demanded Iran publicly commit to stop firing on vessels in the Strait of Hormuz and to confirm all shipping lanes remain open."
-    },
-    {
-      "id": "4981925",
-      "time": "2026-07-11 05:01:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "【現貨黃金本週跌1.5%，紐約銅漲1.9%】週五（7月10日）紐約尾盤，現貨黃金跌0.23%，報4114.36美元/盎司，本週累跌1.51%，在持續震盪下行中、7月8日美股早盤曾跌至4021.92美元。COMEX黃金期貨本週累跌0.12%，報4120.70美元/盎司。現貨白銀跌0.21%，報59.8310美元/盎司，本週累跌4.13%，7月8日美股早盤曾跌至57.2260美元。COMEX白銀期貨本週累跌1.41%，報60.200美元/盎司。COMEX銅期貨累漲1.90%，報6.2865美元/磅。現貨鉑金累跌0.53%，報1634.25美元/盎司；現貨鈀金累漲0.48%，報1279.88美元/盎司。"
-    },
-    {
-      "id": "4981924",
-      "time": "2026-07-11 05:00:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國高階官員：美方要求伊朗公開發表宣告，承諾停止在霍爾木茲海峽襲擊過往船隻。"
     }
   ]
 }
