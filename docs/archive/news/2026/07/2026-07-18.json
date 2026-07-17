@@ -1,7 +1,35 @@
 {
   "date": "2026-07-18",
-  "count": 300,
+  "count": 303,
   "items": [
+    {
+      "id": "te:markets:567991",
+      "time": "2026-07-18 06:39:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rises by 4.63% — Top commodity gainers are Cocoa (4.63%) and Coffee (2.74%). Biggest losers are Oat (-1.30%), Rubber (-1.23%) and Cotton (-0.90%)."
+    },
+    {
+      "id": "4995126",
+      "time": "2026-07-18 06:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：兩艘油輪在霍爾木茲海峽爆炸起火】伊朗伊斯蘭革命衛隊18日釋出宣告說，兩艘油輪在透過霍爾木茲海峽南部一處佈雷區域時發生爆炸並引發大火。宣告強調，受美國近期軍事行動影響，霍爾木茲海峽已“完全關閉”，在美國停止其對伊軍事行動前，該海峽無法進行石油和天然氣運輸，船隻應避免進入佈雷區域。宣告沒有說明兩艘油輪的國籍、人員傷亡及損失情況。（新華社）"
+    },
+    {
+      "id": "4995125",
+      "time": "2026-07-18 06:38:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 本田社長表示，公司正選址新建美國生產基地。"
+    },
     {
       "id": "te:markets:567990",
       "time": "2026-07-18 06:35:18",

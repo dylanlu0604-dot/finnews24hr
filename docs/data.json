@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18 06:37:20",
-  "count": 18940,
+  "updated": "2026-07-18 06:41:09",
+  "count": 18941,
   "items": [
+    {
+      "id": "te:markets:567991",
+      "time": "2026-07-18 06:39:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Rises by 4.63% — Top commodity gainers are Cocoa (4.63%) and Coffee (2.74%). Biggest losers are Oat (-1.30%), Rubber (-1.23%) and Cotton (-0.90%)."
+    },
+    {
+      "id": "4995126",
+      "time": "2026-07-18 06:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：兩艘油輪在霍爾木茲海峽爆炸起火】伊朗伊斯蘭革命衛隊18日釋出宣告說，兩艘油輪在透過霍爾木茲海峽南部一處佈雷區域時發生爆炸並引發大火。宣告強調，受美國近期軍事行動影響，霍爾木茲海峽已“完全關閉”，在美國停止其對伊軍事行動前，該海峽無法進行石油和天然氣運輸，船隻應避免進入佈雷區域。宣告沒有說明兩艘油輪的國籍、人員傷亡及損失情況。（新華社）"
+    },
+    {
+      "id": "4995125",
+      "time": "2026-07-18 06:38:47",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息： 本田社長表示，公司正選址新建美國生產基地。"
+    },
     {
       "id": "te:markets:567990",
       "time": "2026-07-18 06:35:18",
@@ -174598,25 +174626,6 @@
         "Importance 1"
       ],
       "text": "Crypto Updates: Ether Increases by 2.76% — Top crypto gainers are Ether (2.76%), Bitcoin (1.38%) and Binance (1.27%)."
-    },
-    {
-      "id": "4981951",
-      "time": "2026-07-11 06:41:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：沙特王儲與特朗普就地區最新局勢交換意見，其中涵蓋美伊談判相關事宜。"
-    },
-    {
-      "id": "te:markets:566140",
-      "time": "2026-07-11 06:40:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.46% — Top commodity losers are Cocoa (-7.46%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (2.40%) and Barley (2%)."
     }
   ]
 }
