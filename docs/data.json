@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-17 15:16:05",
-  "count": 19063,
+  "updated": "2026-07-17 15:20:11",
+  "count": 19068,
   "items": [
+    {
+      "id": "mkt:019f6ef1-8eb2-7aab-8ddd-e1ebd9aa402f",
+      "time": "2026-07-17 15:19:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China government bond futures midday close】China government bond futures midday close: 2-year (TS) main contract +0.01%, 5-year (TF) main contract +0.02%, 10-year (T) main contract +0.04%, 30-year (TL) main contract +0.24%."
+    },
+    {
+      "id": "4993802",
+      "time": "2026-07-17 15:18:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【地瓜機器人與博世子公司達成戰略合作】2026年7月17日，地瓜機器人與Bosch Sensortec宣佈正式達成戰略合作。雙方簽署合作諒解備忘錄，共同開發基於旭日S600的Physical AI應用解決方案。未來，雙方將持續針對人形機器人、工業輪式雙臂機器人、移動作業機器人等多樣化場景最佳化定製化套件。Bosch Sensortec GmbH是博世公司的全資子公司。"
+    },
+    {
+      "id": "te:economy:567800",
+      "time": "2026-07-17 15:18:09",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Austria",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Austria Inflation Confirmed at 3-Month Low — The annual inflation rate in Austria slowed to 3.2% in June 2026 from a five-month high of 3.7% in the previous month, confirming initial estimates. This marked the lowest reading since March, as price pressures eased mainly due to a moderation in fuel and heating oil inflation, while food prices also rose at a slower pace. Despite the slowdown, transport remained the largest contributor to inflation, with prices rising 6.5%, driven by fuel prices that were still 16.3% higher than a year earlier and airfares that surged 22.4%. Housing and utilities rose 3.0%, while restaurants and accommodation services increased 4.5%. Health costs climbed 4.4%, whereas food and non-alcoholic beverages rose a modest 1.3%. On a monthly basis, consumer prices were unchanged in June after rising 0.1% in May. The harmonised inflation rate (HICP) was also confirmed at 3.2%."
+    },
+    {
+      "id": "4993801",
+      "time": "2026-07-17 15:18:02",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【中共中央政治局常委、全國政協主席王滬寧對朝鮮進行正式友好訪問】應朝鮮勞動黨中央委員會和朝鮮民主主義人民共和國政府邀請，中共中央政治局常委、全國政協主席王滬寧於7月15日至17日率中國黨政代表團對朝鮮進行正式友好訪問，在平壤會見朝鮮勞動黨總書記、國務委員長金正恩，同朝鮮勞動黨中央政治局常委、國務委員會副委員長、內閣總理樸泰成共同出席《中朝友好合作互助條約》簽訂65週年紀念招待會，同朝鮮勞動黨中央政治局常委、中央書記、組織指導部部長趙甬元舉行會談。(新華社)"
+    },
+    {
+      "id": "4993800",
+      "time": "2026-07-17 15:17:46",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "博柏利集團公佈財報後股價下跌 4.1%；公司稱中東衝突拖累歐洲旅遊消費。"
+    },
+    {
+      "id": "4993799",
+      "time": "2026-07-17 15:17:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "西部證券恢復跟蹤寧波銀行；評級增持。"
+    },
+    {
+      "id": "4993798",
+      "time": "2026-07-17 15:16:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月17日滬深兩市漲停分析】創業板指放量跌超7%、滬指失守3800點，全市近200股跌停。艾艾精工4連板，香江控股、智度股份、浙江美大3連板，一圖看懂>>"
+    },
+    {
+      "id": "4993797",
+      "time": "2026-07-17 15:16:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "博柏利首席財務官：伊朗戰爭影響阿聯酋旅遊業，赴歐亞洲購物客減少。"
+    },
+    {
+      "id": "4993796",
+      "time": "2026-07-17 15:16:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外長說西方500多年主導地位終結】俄羅斯外長拉夫羅夫7月16日在莫斯科與幾內亞比索外長會談後表示，西方國家一直在試圖阻撓各國人民自主選擇發展道路的權利，因為他們無法接受“西方在全球事務中長達500多年的主導地位已經終結，且一去不復返”。拉夫羅夫指出，俄方在聯合國框架內協調行動，推動透過重要決議，包括認定西方奴隸制為“最嚴重的危害人類罪”等決議。他強調，這些決議不應僅停留於口號，而應推動採取實際行動，徹底消除殖民主義餘毒。（CCTV國際時訊）"
+    },
+    {
+      "id": "te:markets:567798",
+      "time": "2026-07-17 15:16:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 3.03% Lower — The Shangai Composite Index fell 118 points or 3.03 percent on Friday to close at 3765 points. Leading the losses are Kangmei Pharma (-6.21%), Sanan Optoelectron (-5.96%) and Yonghui Superstore (-4.97%)."
+    },
+    {
+      "id": "te:markets:567797",
+      "time": "2026-07-17 15:15:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "AXA Stock Price Hits 9-1/2-year High — AXA shares increased to 44.55 EUR, the highest since December 2016. Over the past 4 weeks, AXA gained 5%, and in the last 12 months, it increased 6.28%."
+    },
+    {
+      "id": "4993795",
+      "time": "2026-07-17 15:15:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人民幣國際使用路演活動在巴西聖保羅舉辦】當地時間7月16日，中國銀行2026年全球人民幣國際使用系列路演活動第七站在巴西舉行。本次活動以“共享發展機遇，共促跨境融通”為主題，邀請中巴兩國金融機構、工商企業和行業組織100餘名代表參會，圍繞中巴金融合作、人民幣跨境使用及本幣結算等議題展開交流。（新華財經）"
+    },
     {
       "id": "4993794",
       "time": "2026-07-17 15:15:18",
@@ -175361,68 +175473,6 @@
         "國際"
       ],
       "text": "【索羅門群島外交和外貿部長霍尼普維拉將訪華 外交部介紹情況】7月10日，外交部發言人毛寧主持例行記者會。有記者提問，中方剛剛釋出索羅門群島外交和外貿部長霍尼普維拉訪華訊息，發言人能否介紹此訪背景和中方期待？毛寧表示，中國同索羅門群島是新時代相互尊重、共同發展的全面戰略伙伴。中所2019年建交以來，雙邊關係全方位快速發展，成為發展中國家平等相待、互利合作的典範。此次訪問是霍尼普維拉先生就任外長以來首次正式訪華。中方期待透過此訪增進兩國政治互信，深化互利合作，推動中所關係穩定發展，更好造福兩國人民。（央視新聞）"
-    },
-    {
-      "id": "4980531",
-      "time": "2026-07-10 15:20:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本內閣房長官：貨幣政策的具體細節應由日本央行決定。"
-    },
-    {
-      "id": "4980530",
-      "time": "2026-07-10 15:19:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中方堅決反對在北極渲染緊張、製造對抗】針對北約秘書長呂特近日涉華言論，外交部發言人毛寧10日在例行記者會上答問時表示，北極涉及國際社會的整體利益。中國在北極的活動旨在促進北極的和平、穩定和可持續發展，符合國際法。各國依法在北極開展活動的權利和自由應當得到充分尊重。中方堅決反對翻炒“中國威脅”，在北極渲染緊張、製造對抗。"
-    },
-    {
-      "id": "4980529",
-      "time": "2026-07-10 15:18:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "和碩：6月銷售額913.0億元新臺幣，同比增長15.9%。"
-    },
-    {
-      "id": "4980528",
-      "time": "2026-07-10 15:17:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿里巴巴赴北京市豐臺區開展合作交流】近日，阿里巴巴一行赴豐臺區開展合作交流，實地參觀北京10號線“青創村”展示中心、青年人才會客廳和允康科技公司，詳細瞭解豐臺區支援青年人才創新創業和OPC社群建設運營情況。豐臺區投促中心、區人才局等單位重點介紹了區域產業佈局、人才配套扶持政策等情況，全面展現豐臺穩固的經濟發展基礎與面向青年群體的優質創新創業發展生態。雙方圍繞資源對接、人才賦能、產業數字化升級等方面深度交流，就共建OPC創業實踐基地、校地聯動、生態聯動、優惠算力供給等達成初步共識。（北京豐臺）"
-    },
-    {
-      "id": "4980527",
-      "time": "2026-07-10 15:17:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：中朝雙方將舉辦《中朝友好合作互助條約》簽訂65週年紀念活動】7月10日，外交部發言人毛寧主持例行記者會。有記者就朝鮮內閣總理樸泰成訪華提問。毛寧表示，昨天我們釋出了朝鮮內閣總理樸泰成訪華的訊息，今年是《中朝友好合作互助條約》簽訂65週年，中朝雙方商定將共同隆重舉辦紀念活動，至於紀念活動的具體情況，我們會及時釋出訊息。（央視新聞）"
-    },
-    {
-      "id": "4980526",
-      "time": "2026-07-10 15:16:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【以媒：美以等國被曝正研究更迭伊朗政權方案】據以色列媒體報道，美國、以色列及部分地區國家目前正在評估針對伊朗的行動方案，並探討推翻伊朗現政權、為其實現該目標創造必要條件的可能性。報道指出，相關國家得出的一項核心結論表明，為推進這一目標，必須儘快重啟對伊朗的全面經濟封鎖。"
-    },
-    {
-      "id": "te:markets:565941",
-      "time": "2026-07-10 15:16:08",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Shangai Composite Index Closes 0.97% Lower — The Shangai Composite Index fell 39 points or 0.97 percent on Friday to close at 3997 points. Leading the losses are China Merchants Securities (-5.24%), Bank Of Beijing (-4.31%) and Sanan Optoelectron (-3.20%). Top gainers were Aisino (4.89%), BAIC BluePark (4.31%) and Yonghui Superstore (3.92%)."
     }
   ]
 }
