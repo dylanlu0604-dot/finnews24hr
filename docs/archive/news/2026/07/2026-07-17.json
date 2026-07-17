@@ -1,7 +1,118 @@
 {
   "date": "2026-07-17",
-  "count": 759,
+  "count": 770,
   "items": [
+    {
+      "id": "4993197",
+      "time": "2026-07-17 09:22:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就英國政府將英國鋼鐵國有化答記者問】有記者問：7月16日，英國政府宣佈已透過相關立法，將中國敬業集團旗下的英國鋼鐵公司國有化。請問中方對此有何評論？答：中方對英政府相關決定表示堅決反對和強烈不滿。英鋼在敬業收購之前就已多年虧損。敬業收購後對英鋼注入鉅額資金，使公司經營得以維繫，就業崗位得以保留。英方罔顧敬業對英經濟社會做出的重要貢獻，以國家安全之名，強行接管、進而對英鋼實施國有化，嚴重損害了敬業的正當權益，嚴重挫傷了中國企業對英投資信心。中方敦促英國政府遵守相關國際規則，切實履行中英投資保護協定有關義務，公平公正對待在英中資企業，充分保障其正當合法權益。中方將密切關注事件進展，支援中國企業運用法律手段維權，並將採取有力措施堅定維護中國企業利益。"
+    },
+    {
+      "id": "4993196",
+      "time": "2026-07-17 09:22:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放4,305.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019f6daa-0f44-7aab-8dd4-e1ccbcb40b1a",
+      "time": "2026-07-17 09:21:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong open July 17: Hang Seng Index (HSI) +13.94 pts (+0.06%) at 25,022.54; Hang Seng Tech Index -2.37 pts (-0.05%) at 4,832.07; Hang Seng China Enterprises Index (HSCEI) +16.53 pts (+0.20%) at 8,334.67; Red Chip Index +4.68 pts (+0.12%) at 3,996.06."
+    },
+    {
+      "id": "4993195",
+      "time": "2026-07-17 09:21:29",
+      "tags": [],
+      "text": "港股恒指高開漲0.06％，國企指數漲0.2％，恒生科技指數開跌0.05%，智譜開跌12.14%。"
+    },
+    {
+      "id": "mkt:019f6da9-fa59-7aab-8dd4-dbf84fb07d31",
+      "time": "2026-07-17 09:21:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Tata Electronics to start wafer production at 90nm; India chip push faces headwinds】Tata Electronics plans to begin wafer production on a 90nm process at a planned large-scale fab in Dholera, Gujarat, people familiar said. 90nm is a mature node primarily used for low-end industrial and automotive chips and faces a risk of obsolescence over the next few years. The move is more conservative than Tata’s annual report for the year to March 2025, which had cited 28nm as the intended starting point for its chip-making business. The decision highlights execution and technology-capability challenges for India’s effort to build a domestic semiconductor industry from scratch."
+    },
+    {
+      "id": "mkt:019f6da9-f74d-7aab-8dd4-d19854de8976",
+      "time": "2026-07-17 09:21:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted CNY 450.5 bln of 7-day reverse repos today; bids and allotments both CNY 450.5 bln; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "te:markets:567688",
+      "time": "2026-07-17 09:21:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Set for Weekly Fall — The dollar index steadied around 100.7 on Friday but remained on track for a weekly decline, as softer-than-expected US inflation prompted traders to scale back expectations of near-term Federal Reserve rate hikes, although the escalating conflict between the US and Iran continued to fuel inflation concerns. The US launched multiple strikes against Iran this week, while Tehran retaliated by targeting US bases in neighboring countries. Economic data released earlier this week showed US consumer inflation increased less than expected in June, while producer prices unexpectedly fell. Retail sales also rose in line with forecasts, as lower gasoline prices weighed on receipts at fuel stations, while spending at motor vehicle dealers and online retailers remained strong. Meanwhile, initial jobless claims dropped to a two-month low of 208K. Markets have now largely ruled out a Fed rate hike this month, though expectations remain split over the possibility of a move in September."
+    },
+    {
+      "id": "mkt:019f6da9-e519-7aab-8dd4-cbb69f03c434",
+      "time": "2026-07-17 09:21:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02513.HK",
+        "Impact bearish",
+        "06127.HK"
+      ],
+      "text": "Hong Kong stocks opened: HSI 0.06% higher, Hang Seng Tech Index 0.05% lower. Zhipu (02513.HK) down 12.14% at the open; Zhaoyan Xinyao (06127.HK) down 1.16% at the open."
+    },
+    {
+      "id": "4993194",
+      "time": "2026-07-17 09:21:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行開展4505億元7天期逆回購操作，利率1.40%，持平上次。"
+    },
+    {
+      "id": "mkt:019f6da9-92c5-7aab-8dd4-c598c0eb8ee4",
+      "time": "2026-07-17 09:20:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 3.9 earthquake at 09:08 on July 17 in Haixi Prefecture, Qinghai (37.81°N, 95.57°E); depth 10 km."
+    },
+    {
+      "id": "4993193",
+      "time": "2026-07-17 09:20:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債<JP30YTN=JBTC>收益率下跌1個基點，至3.820%。"
+    },
     {
       "id": "4993192",
       "time": "2026-07-17 09:18:12",

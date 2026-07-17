@@ -1,7 +1,118 @@
 {
-  "updated": "2026-07-17 09:20:06",
+  "updated": "2026-07-17 09:24:01",
   "count": 18813,
   "items": [
+    {
+      "id": "4993197",
+      "time": "2026-07-17 09:22:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就英國政府將英國鋼鐵國有化答記者問】有記者問：7月16日，英國政府宣佈已透過相關立法，將中國敬業集團旗下的英國鋼鐵公司國有化。請問中方對此有何評論？答：中方對英政府相關決定表示堅決反對和強烈不滿。英鋼在敬業收購之前就已多年虧損。敬業收購後對英鋼注入鉅額資金，使公司經營得以維繫，就業崗位得以保留。英方罔顧敬業對英經濟社會做出的重要貢獻，以國家安全之名，強行接管、進而對英鋼實施國有化，嚴重損害了敬業的正當權益，嚴重挫傷了中國企業對英投資信心。中方敦促英國政府遵守相關國際規則，切實履行中英投資保護協定有關義務，公平公正對待在英中資企業，充分保障其正當合法權益。中方將密切關注事件進展，支援中國企業運用法律手段維權，並將採取有力措施堅定維護中國企業利益。"
+    },
+    {
+      "id": "4993196",
+      "time": "2026-07-17 09:22:02",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨投放4,305.0億元人民幣。"
+    },
+    {
+      "id": "4993195",
+      "time": "2026-07-17 09:21:29",
+      "tags": [],
+      "text": "港股恒指高開漲0.06％，國企指數漲0.2％，恒生科技指數開跌0.05%，智譜開跌12.14%。"
+    },
+    {
+      "id": "mkt:019f6daa-0f44-7aab-8dd4-e1ccbcb40b1a",
+      "time": "2026-07-17 09:21:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong open July 17: Hang Seng Index (HSI) +13.94 pts (+0.06%) at 25,022.54; Hang Seng Tech Index -2.37 pts (-0.05%) at 4,832.07; Hang Seng China Enterprises Index (HSCEI) +16.53 pts (+0.20%) at 8,334.67; Red Chip Index +4.68 pts (+0.12%) at 3,996.06."
+    },
+    {
+      "id": "mkt:019f6da9-fa59-7aab-8dd4-dbf84fb07d31",
+      "time": "2026-07-17 09:21:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Tata Electronics to start wafer production at 90nm; India chip push faces headwinds】Tata Electronics plans to begin wafer production on a 90nm process at a planned large-scale fab in Dholera, Gujarat, people familiar said. 90nm is a mature node primarily used for low-end industrial and automotive chips and faces a risk of obsolescence over the next few years. The move is more conservative than Tata’s annual report for the year to March 2025, which had cited 28nm as the intended starting point for its chip-making business. The decision highlights execution and technology-capability challenges for India’s effort to build a domestic semiconductor industry from scratch."
+    },
+    {
+      "id": "mkt:019f6da9-f74d-7aab-8dd4-d19854de8976",
+      "time": "2026-07-17 09:21:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted CNY 450.5 bln of 7-day reverse repos today; bids and allotments both CNY 450.5 bln; operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "te:markets:567688",
+      "time": "2026-07-17 09:21:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Set for Weekly Fall — The dollar index steadied around 100.7 on Friday but remained on track for a weekly decline, as softer-than-expected US inflation prompted traders to scale back expectations of near-term Federal Reserve rate hikes, although the escalating conflict between the US and Iran continued to fuel inflation concerns. The US launched multiple strikes against Iran this week, while Tehran retaliated by targeting US bases in neighboring countries. Economic data released earlier this week showed US consumer inflation increased less than expected in June, while producer prices unexpectedly fell. Retail sales also rose in line with forecasts, as lower gasoline prices weighed on receipts at fuel stations, while spending at motor vehicle dealers and online retailers remained strong. Meanwhile, initial jobless claims dropped to a two-month low of 208K. Markets have now largely ruled out a Fed rate hike this month, though expectations remain split over the possibility of a move in September."
+    },
+    {
+      "id": "mkt:019f6da9-e519-7aab-8dd4-cbb69f03c434",
+      "time": "2026-07-17 09:21:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "02513.HK",
+        "Impact bearish",
+        "06127.HK"
+      ],
+      "text": "Hong Kong stocks opened: HSI 0.06% higher, Hang Seng Tech Index 0.05% lower. Zhipu (02513.HK) down 12.14% at the open; Zhaoyan Xinyao (06127.HK) down 1.16% at the open."
+    },
+    {
+      "id": "4993194",
+      "time": "2026-07-17 09:21:16",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行開展4505億元7天期逆回購操作，利率1.40%，持平上次。"
+    },
+    {
+      "id": "mkt:019f6da9-92c5-7aab-8dd4-c598c0eb8ee4",
+      "time": "2026-07-17 09:20:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 3.9 earthquake at 09:08 on July 17 in Haixi Prefecture, Qinghai (37.81°N, 95.57°E); depth 10 km."
+    },
+    {
+      "id": "4993193",
+      "time": "2026-07-17 09:20:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債<JP30YTN=JBTC>收益率下跌1個基點，至3.820%。"
+    },
     {
       "id": "4993192",
       "time": "2026-07-17 09:18:12",
@@ -172986,108 +173097,6 @@
         "市場"
       ],
       "text": "SK海力士股價回吐早盤漲幅，最新漲1.5%，報221.9萬韓元。"
-    },
-    {
-      "id": "4980007",
-      "time": "2026-07-10 09:23:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪佛龍與Alinta Energy簽署天然氣供應協議，五年供應46PJ天然氣】雪佛龍澳大利亞公司7月10日宣佈，與澳大利亞能源企業Alinta Energy簽署長期天然氣銷售與採購協議，將從其西澳天然氣資產組合中供應天然氣。根據協議，雪佛龍將自2027年7月起，在五年內向Alinta Energy供應46拍焦（PJ）天然氣，氣源來自雪佛龍運營的Gorgon和Wheatstone液化天然氣專案權益以及西北大陸架專案。"
-    },
-    {
-      "id": "4980006",
-      "time": "2026-07-10 09:22:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本10年期國債收益率下跌7.5個基點，至2.800%。"
-    },
-    {
-      "id": "4980005",
-      "time": "2026-07-10 09:22:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "晶合整合（Nexchip）香港上市首日開盤漲11.5%。"
-    },
-    {
-      "id": "4980004",
-      "time": "2026-07-10 09:21:29",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行逆回購今日淨回籠430.0億元人民幣。"
-    },
-    {
-      "id": "4980003",
-      "time": "2026-07-10 09:21:27",
-      "tags": [],
-      "text": "港股恒指高開漲0.76％，國企指數漲0.85％，科指開漲1.25%。聯想集團漲約9%，智譜跌約9%，MINIMAX-W跌超5%。"
-    },
-    {
-      "id": "mkt:019f499d-5917-7aab-8d24-148508c997ad",
-      "time": "2026-07-10 09:21:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "HSI opened up 183.26 points (0.76%) at 24,213.44 on Friday, July 10. Hang Seng Tech Index opened up 58.95 points (1.25%) at 4,790.51. Hang Seng China Enterprises Index (HSCEI) opened up 68.01 points (0.85%) at 8,065.30. Hang Seng Red Chip Index opened up 21.90 points (0.57%) at 3,846.01."
-    },
-    {
-      "id": "em:qqyh_zgyh:202607103800941797",
-      "time": "2026-07-10 09:21:08",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展200億元7天逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019f499d-2b91-7aab-8d24-0eb749ca7c08",
-      "time": "2026-07-10 09:21:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng TECH Index",
-        "00992.HK"
-      ],
-      "text": "At the Hong Kong open, the Hang Seng Index rose 0.76% and the Hang Seng TECH Index gained 1.25%. Lenovo Group (00992.HK) was up about 9%, Baidu (09888.HK) up about 3%; Zhipu (02513.HK) fell about 9%, MINIMAX-W (00100.HK) fell more than 5%."
-    },
-    {
-      "id": "mkt:019f499c-bfb7-7aab-8d24-0291e0d294fc",
-      "time": "2026-07-10 09:20:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish"
-      ],
-      "text": "PBOC conducted a 200bn yuan 7-day reverse repo today; bids 200bn yuan, allotment 200bn yuan; rate 1.40%, unchanged from prior operation."
-    },
-    {
-      "id": "4980002",
-      "time": "2026-07-10 09:20:36",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展200億元7天逆回購操作，投標量200億元，中標量200億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4980001",
-      "time": "2026-07-10 09:20:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數上漲1.1%至272.06點。"
     }
   ]
 }
