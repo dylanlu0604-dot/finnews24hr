@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-17 23:23:14",
-  "count": 19042,
+  "updated": "2026-07-17 23:27:24",
+  "count": 19037,
   "items": [
+    {
+      "id": "mkt:019f70af-4927-7aab-8de8-66fb169d2f91",
+      "time": "2026-07-17 23:26:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's navy minister said the earthquake caused no major problems."
+    },
+    {
+      "id": "4994926",
+      "time": "2026-07-17 23:23:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦通訊委員會民主黨籍委員戈麥斯：委員會無權因各大電視臺拒絕播放特朗普的演講而對其進行處罰。"
+    },
+    {
+      "id": "4994925",
+      "time": "2026-07-17 23:22:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西財長：令人遺憾的是，有人將關稅當作選舉籌碼。美國關稅明顯是政治工具。將在合適時機、以恰當方式評估對等反制舉措。"
+    },
     {
       "id": "mkt:019f70ab-6fce-7aab-8de8-5911730252a1",
       "time": "2026-07-17 23:21:51",
@@ -175391,78 +175415,6 @@
         "國際"
       ],
       "text": "【美聯儲政策報告重申對價格穩定的承諾 稱一些通脹指標過去一年回落】美聯儲週五在華盛頓釋出提交國會的7月貨幣政策報告，其中強調將致力於實現價格穩定。報告指出，受關稅影響，去年下半年“消費者通脹指標穩步上升”；今年以來，受伊朗戰爭推高能源價格影響，通脹進一步攀升。報告同時指出，包括美聯儲主席沃什此前重點提及的PCE截尾均值在內的其他一些通脹指標，過去一年有所回落。美聯儲表示，將準備動用所有政策工具，實現充分就業和價格穩定目標，尤其是在聯邦基金利率受有效下限約束時。報告還稱，美國勞動生產率增長依然強勁。"
-    },
-    {
-      "id": "4981670",
-      "time": "2026-07-10 23:26:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國FDA批准輝瑞Padcev聯合Keytruda用於治療肌層浸潤性膀胱癌（MIBC）。"
-    },
-    {
-      "id": "mkt:019f4ca3-0fbb-7aab-8d36-d2b22b01f85a",
-      "time": "2026-07-10 23:26:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "SC front-month crude oil contract fell more than 2.0% intraday to 459.10 yuan/barrel."
-    },
-    {
-      "id": "4981669",
-      "time": "2026-07-10 23:26:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【研究機構：全球電動汽車需求持續增長】電動汽車及電池材料研究機構基準礦業情報公司10日公佈的資料顯示，6月全球電動汽車註冊量連續第四個月增長，其中歐洲地區增長勢頭強勁，北美等地區銷量下滑。資料顯示，今年上半年全球純電動汽車和插電式混合動力汽車（下文統稱電動汽車）註冊量較去年增長2%。6月全球電動汽車註冊量達200萬輛，同比增長7%。從地區看，6月，歐洲電動汽車註冊量同比大增31%，至約53萬輛；受美國電動汽車稅收減免政策終止影響，北美電動汽車註冊量同比下降13%。該公司分析說，在電動汽車製造商積極推動下，全球電動汽車市場不斷擴張。受電動化轉型受挫、美國關稅衝擊和國際市場競爭激烈等因素影響，一些德國車企經營面臨挑戰。保時捷集團今年1至6月全球銷量下滑16%至12.23萬輛，為2020年以來最低水平。大眾汽車集團2025年營業利潤下降約54%，至約89億歐元，為2016年以來最低水平。德國媒體近日報道大眾汽車集團將裁員10萬人，關停4家本土工廠並實施重組。大眾汽車集團監事會9日討論集團管理層提出的全面重組轉型計劃，但未就大規模裁員和關閉工廠作出決定。(新華社)"
-    },
-    {
-      "id": "4981668",
-      "time": "2026-07-10 23:25:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：賓夕法尼亞美國水務公司呼籲客戶減少用水量。"
-    },
-    {
-      "id": "4981667",
-      "time": "2026-07-10 23:25:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數轉漲，抹去了此前高達0.8%的跌幅。"
-    },
-    {
-      "id": "4981666",
-      "time": "2026-07-10 23:24:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部針對浙江福建啟動洪水防禦Ⅳ級應急響應】從水利部瞭解到，水利部10日對浙江、福建2省啟動洪水防禦Ⅳ級應急響應，派出2個工作組赴防汛一線協助指導。受颱風“巴威”和冷空氣共同影響，7月11日至12日，我國東部地區將有大範圍強降雨過程，其中福建中部北部、浙江中部南部等地部分地區將有大暴雨。閩江、甌江、錢塘江上游及沿海諸河將出現明顯漲水過程，閩江、甌江可能發生編號洪水，浙江、福建沿海潮位站可能普遍超警，山丘區山洪災害風險較大。（新華社）"
-    },
-    {
-      "id": "mkt:019f4ca0-c817-7aab-8d36-c98566096902",
-      "time": "2026-07-10 23:23:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China's Ministry of Water Resources launches Level-IV flood-defense emergency for Zhejiang, Fujian】China's Ministry of Water Resources on July 10 activated a Level-IV flood-defense emergency for Zhejiang and Fujian and sent two working groups to frontline flood-control sites to assist and advise. Typhoon Bavi combined with an incoming cold front is expected to bring widespread heavy rainfall to eastern China on July 11–12, with central–northern Fujian and central–southern Zhejiang facing potential torrential downpours. The Min, Ou and upper Qiantang river basins and coastal rivers are forecast to see significant water rises; the Min and Ou rivers may generate numbered flood events. Coastal tide gauges in Zhejiang and Fujian are likely to exceed warning levels at many stations, and hilly areas face elevated mountain-torrent/flash-flood risk."
-    },
-    {
-      "id": "4981665",
-      "time": "2026-07-10 23:23:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普：拜耳與阿波羅宣佈達成合作，標普維持拜耳 BBB/A-2 評級，展望仍為負面。"
     }
   ]
 }
