@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-18 03:33:21",
+  "updated": "2026-07-18 03:37:18",
   "count": 18923,
   "items": [
+    {
+      "id": "4995035",
+      "time": "2026-07-18 03:36:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普再次稱讚6月份的通脹資料。"
+    },
+    {
+      "id": "4995034",
+      "time": "2026-07-18 03:35:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：“汙濁、受汙染且有害健康的空氣正無端侵入美國境內。”"
+    },
+    {
+      "id": "mkt:019f7192-3155-7aab-8deb-1087f87fd685",
+      "time": "2026-07-18 03:33:53",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "U.S. Commodity Futures Trading Commission data for the week to July 14 show speculators net short the yen by 122,663 contracts; the Swiss franc flipped to a net short of 36,956 contracts; the pound net short 71,253 contracts; the euro net short 12,605 contracts."
+    },
+    {
+      "id": "4995033",
+      "time": "2026-07-18 03:33:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國商品期貨交易委員會（CFTC）：7月14日當週，投機者所持NYMEX WTI原油淨多頭頭寸增加11,704手合約，至86,383手合約。所持布倫特與WTI原油淨多頭頭寸增至252,836手合約，創五週新高。所持NYMEX天然氣淨空頭頭寸增至48,229手合約，創逾兩年新高。"
+    },
     {
       "id": "mkt:019f7191-3a06-7aab-8deb-0f2ecf1286a3",
       "time": "2026-07-18 03:32:50",
@@ -174461,47 +174499,6 @@
         "國際"
       ],
       "text": "美國中央司令部：喬治・H・W・布什號航空母艦（CVN 77）在區域海域航行期間，美國海軍艦員於艦上開展夜間飛行作業。"
-    },
-    {
-      "id": "mkt:019f4d85-e1cd-7aab-8d39-7c7d1a09c108",
-      "time": "2026-07-11 03:34:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "CFTC: For the week to July 7, speculators increased net short positions in CBOT U.S. Treasury futures by 52,811 contracts to 143,591. Speculators raised net shorts in CBOT 5‑year Treasury futures by 38,606 contracts to 1,359,116, and in CBOT ultra‑long Treasury futures by 21,150 contracts to 307,819."
-    },
-    {
-      "id": "4981886",
-      "time": "2026-07-11 03:33:56",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，四大紐約商品交易所、洲際交易所天然氣市場投機者減持 1597 手淨多頭合約，淨多頭持倉降至 7366 手。"
-    },
-    {
-      "id": "mkt:019f4d85-ae84-7aab-8d39-7202412161f8",
-      "time": "2026-07-11 03:33:54",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact mixed"
-      ],
-      "text": "CFTC: In the week to July 7, speculators increased net short positions in CBOT U.S. 10‑year Treasury futures by 5,371 contracts to 814,262 contracts, and cut net short positions in CBOT U.S. 2‑year Treasury futures by 26,573 contracts to 1,261,008 contracts."
-    },
-    {
-      "id": "4981885",
-      "time": "2026-07-11 03:33:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會：截至 7 月 7 日當週，投機者削減 26573 手芝加哥期貨交易所美國 2 年期國債期貨淨空頭持倉，淨空頭持倉降至 1261008 手；\n增持 38606 手美國 5 年期國債期貨淨空頭合約，淨空頭持倉達 1359116 手；\n增持 5371 手美國 10 年期國債期貨淨空頭合約，淨空頭持倉增至 814262 手；\n增持 21150 手美國超長期國債期貨淨空頭合約，淨空頭持倉增至 307819 手。"
     }
   ]
 }
