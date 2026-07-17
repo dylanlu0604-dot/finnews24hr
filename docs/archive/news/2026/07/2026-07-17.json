@@ -1,7 +1,221 @@
 {
   "date": "2026-07-17",
-  "count": 2011,
+  "count": 2034,
   "items": [
+    {
+      "id": "4994073",
+      "time": "2026-07-17 17:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞外國遊客使用Alipay+掃碼支付交易額大幅增長】馬來西亞總理安瓦爾17日在國會表示，外國遊客透過Alipay+生態系統在該國進行掃碼支付的交易持續快速增長，交易額由2024年的4.35億林吉特（約合人民幣7.42億元），大幅增長89.6%至2025年的8.24億林吉特（約合人民幣14.05億元）。安瓦爾援引相關資料顯示，外國遊客透過Alipay+生態系統在馬來西亞完成的掃碼支付交易筆數，也由2024年的660萬筆，增長60.4%至2025年的1050萬筆。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6f4f-49a5-7aab-8de0-80a84f70d06f",
+      "time": "2026-07-17 17:01:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nomura: Singapore exports underpin solid economic outlook】Singapore's June non-oil domestic export growth slowed, but Nomura says the moderation does not alter its positive outlook. A surge in electronics shipments—supported by strong global chip sales and widening AI-related demand—offset volatility in pharmaceutical and gold exports and sustained overall export momentum. Nomura maintains its 2026 GDP forecast at 4.6%, above market expectations, and sees upside risk. Singapore outperformed in 1H and retains multiple near-term growth drivers, notably electronics exports."
+    },
+    {
+      "id": "4994072",
+      "time": "2026-07-17 17:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "小馬智行：將於2026年8月18日釋出2026年第二季度及中期財務業績。"
+    },
+    {
+      "id": "te:economy:567858",
+      "time": "2026-07-17 17:00:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Business Morale Improves Slightly in Q3 — Business confidence in Hong Kong edged up to -4 in the third quarter of 2026 from -5 in the previous quarter. The share of respondents expecting a better business condition declined to 10% from 11% in Q2 2026, while those anticipating worse conditions eased slightly to 14% from 16%. Confidence strengthened in manufacturing (5 vs 0 in Q2) and sentiment also improved, though remained negative, in accommodation and food services (-9 vs -35), construction (-6 vs -21), and transportation, storage and courier services (-15 vs -24), information and communications (-7 vs -16), and retail (-2 vs -3). Confidence in import/export trade and wholesale was unchanged at -9. However, optimism eased in financing and insurance (10 vs 12), while sentiment deteriorated sharply in real estate (-11 vs 9) and professional and business services (-10 vs 2)."
+    },
+    {
+      "id": "4994071",
+      "time": "2026-07-17 17:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區6月份消費者價格同比上升2.8%；預期為2.8%。"
+    },
+    {
+      "id": "mkt:019f6f4e-113b-7aab-8de0-7c9bd6e9a33e",
+      "time": "2026-07-17 17:00:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Eurozone June CPI m/m final -0.1% (exp -0.1%, prior -0.1%)."
+    },
+    {
+      "id": "4994070",
+      "time": "2026-07-17 17:00:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區6月份CPI環比-0.1%；預期為-0.1%。"
+    },
+    {
+      "id": "mkt:019f6f4d-fad8-7aab-8de0-744dc5a1cc4c",
+      "time": "2026-07-17 17:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Eurozone June core CPI final MoM +0.2% (prev +0.2%)."
+    },
+    {
+      "id": "4994069",
+      "time": "2026-07-17 17:00:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區6月份核心CPI同比上升2.4%；預期為2.4%。"
+    },
+    {
+      "id": "mkt:019f6f4d-f87e-7aab-8de0-6983688e12fa",
+      "time": "2026-07-17 17:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "Euro area final June CPI YoY 2.8%; expected 2.80%, prior 2.80%."
+    },
+    {
+      "id": "mkt:019f6f4d-f830-7aab-8de0-60a6e8fd9212",
+      "time": "2026-07-17 17:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Eurozone June final core CPI YoY 2.1% vs 2.2% prior."
+    },
+    {
+      "id": "te:markets:567857",
+      "time": "2026-07-17 17:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.40% — Top currency losers are South Korean Won (-0.40%), Australian Dollar (-0.32%), Mexican Peso (-0.29%) and British Pound (-0.26%). Gains are led by Brazilian Real (0.32%) and Swiss Franc (0.29%). Meanwhile, Dollar Index and Japanese Yen were little changed."
+    },
+    {
+      "id": "mkt:019f6f4d-da7f-7aab-8de0-5bbaa953a4cd",
+      "time": "2026-07-17 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (MoM) (Jun) | actual 0.2% | previous 0.2%"
+    },
+    {
+      "id": "mkt:019f6f4d-da74-7aab-8de0-50abc03faee3",
+      "time": "2026-07-17 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Final (YoY) (Jun) | actual 2.8% | consensus 2.80% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019f6f4d-da65-7aab-8de0-4c07f2799eec",
+      "time": "2026-07-17 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (YoY) (Jun) | actual 2.1% | previous 2.2%"
+    },
+    {
+      "id": "4994068",
+      "time": "2026-07-17 16:59:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船特氣：2026年上半年淨利潤3.48億元，同比增長95.63%】中船特氣公告，2026年上半年營業收入19.04億元，同比增長83.13%。淨利潤3.48億元，同比增長95.63%。"
+    },
+    {
+      "id": "4994067",
+      "time": "2026-07-17 16:59:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣汽能源科技公司經營異常】天眼查經營風險資訊顯示，近日，廣汽能源科技有限公司因未依照規定期限公示年度報告，被廣州市南沙區市場監督管理局列入經營異常名錄。該公司成立於2022年7月，法定代表人為高銳，註冊資本10億人民幣，經營範圍包括新興能源技術研發、儲能技術服務、充電樁銷售、電動汽車充電基礎設施運營等，由優湃能源科技（廣州）有限公司、廣汽埃安新能源汽車股份有限公司共同持股。"
+    },
+    {
+      "id": "4994066",
+      "time": "2026-07-17 16:59:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【成都出臺租賃住房新政 不得隔斷出租，不得按床位出租】7月17日，記者從成都市住建局獲悉，成都市人民政府辦公廳近日印發《關於明確成都市租賃住房租住標準進一步加強住房租賃管理工作的通知》（以下簡稱《通知》），其中明確，租賃住房不得隔斷室內空間出租，不得按床位出租，單間不超2人，人均面積不低於4.5平方米。《通知》自2026年8月15日起實施，有效期5年。（紅星新聞）"
+    },
+    {
+      "id": "mkt:019f6f4d-0a10-7aab-8de0-4503d341dc69",
+      "time": "2026-07-17 16:59:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yuejiang Technology disputes whistleblower claims; says H-to-A listing prep on schedule, review set for July 22】Yuejiang Technology on July 17 said a recent signed complaint and related reports are untrue and \"seriously misleading,\" and that production and operations are normal. The company said preparations for its H-to-A return to the A-share market on the ChiNext are proceeding on schedule, it will continue to meet disclosure obligations, and the listing review is scheduled for July 22. The complaint, filed early July 17 by Song Tao who says he is a co-founder and former executive VP/COO, alleges the A-share prospectus misstates equity ownership — claiming his expected 69.7373% property interest is recorded as 22.455% — and accuses the prospectus of \"false statements and deliberately concealing a hundred‑million‑yuan‑level equity ownership dispute.\""
+    },
+    {
+      "id": "mkt:019f6f4c-e11b-7aab-8de0-3a5b28b6d983",
+      "time": "2026-07-17 16:58:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's Ministry of Electricity says power and desalination plants were damaged in an Iranian attack."
+    },
+    {
+      "id": "4994065",
+      "time": "2026-07-17 16:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特方面稱，一處供水發電站遭伊朗襲擊。"
+    },
+    {
+      "id": "4994064",
+      "time": "2026-07-17 16:57:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新天科技：擬出售不超過1842.67萬股已回購股份 佔公司總股本的1.60%】新天科技公告，公司於2026年07月16日召開的第六屆董事會第四次會議審議透過了《關於出售公司已回購股份的議案》。根據公司於2024年2月7日披露的《回購報告書》之約定用途，同意公司以集中競價方式出售已回購股份不超過1842.67萬股，佔公司總股本的1.60%，實施期限為自本公告披露之日起15個交易日後的6個月內（即2026年08月10日至2027年02月09日）。"
+    },
+    {
+      "id": "4994063",
+      "time": "2026-07-17 16:57:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【領益智造：擬將回購資金總額調整為4億元-8億元】領益智造公告，公司擬增加回購股份資金總額，由“不低於人民幣2億元（含），不超過人民幣4億元（含）”調整為“不低於人民幣4億元（含），不超過人民幣8億元（含）”。回購價格上限仍為21.08元/股，回購股份的用途為在未來適宜時機用於實施股權激勵計劃或員工持股計劃。"
+    },
     {
       "id": "4994062",
       "time": "2026-07-17 16:57:39",

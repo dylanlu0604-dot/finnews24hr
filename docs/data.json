@@ -1,7 +1,221 @@
 {
-  "updated": "2026-07-17 16:58:22",
-  "count": 19042,
+  "updated": "2026-07-17 17:02:22",
+  "count": 19046,
   "items": [
+    {
+      "id": "4994073",
+      "time": "2026-07-17 17:01:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬來西亞外國遊客使用Alipay+掃碼支付交易額大幅增長】馬來西亞總理安瓦爾17日在國會表示，外國遊客透過Alipay+生態系統在該國進行掃碼支付的交易持續快速增長，交易額由2024年的4.35億林吉特（約合人民幣7.42億元），大幅增長89.6%至2025年的8.24億林吉特（約合人民幣14.05億元）。安瓦爾援引相關資料顯示，外國遊客透過Alipay+生態系統在馬來西亞完成的掃碼支付交易筆數，也由2024年的660萬筆，增長60.4%至2025年的1050萬筆。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6f4f-49a5-7aab-8de0-80a84f70d06f",
+      "time": "2026-07-17 17:01:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Nomura: Singapore exports underpin solid economic outlook】Singapore's June non-oil domestic export growth slowed, but Nomura says the moderation does not alter its positive outlook. A surge in electronics shipments—supported by strong global chip sales and widening AI-related demand—offset volatility in pharmaceutical and gold exports and sustained overall export momentum. Nomura maintains its 2026 GDP forecast at 4.6%, above market expectations, and sees upside risk. Singapore outperformed in 1H and retains multiple near-term growth drivers, notably electronics exports."
+    },
+    {
+      "id": "4994072",
+      "time": "2026-07-17 17:00:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "小馬智行：將於2026年8月18日釋出2026年第二季度及中期財務業績。"
+    },
+    {
+      "id": "te:economy:567858",
+      "time": "2026-07-17 17:00:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Business Morale Improves Slightly in Q3 — Business confidence in Hong Kong edged up to -4 in the third quarter of 2026 from -5 in the previous quarter. The share of respondents expecting a better business condition declined to 10% from 11% in Q2 2026, while those anticipating worse conditions eased slightly to 14% from 16%. Confidence strengthened in manufacturing (5 vs 0 in Q2) and sentiment also improved, though remained negative, in accommodation and food services (-9 vs -35), construction (-6 vs -21), and transportation, storage and courier services (-15 vs -24), information and communications (-7 vs -16), and retail (-2 vs -3). Confidence in import/export trade and wholesale was unchanged at -9. However, optimism eased in financing and insurance (10 vs 12), while sentiment deteriorated sharply in real estate (-11 vs 9) and professional and business services (-10 vs 2)."
+    },
+    {
+      "id": "4994071",
+      "time": "2026-07-17 17:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元區6月份消費者價格同比上升2.8%；預期為2.8%。"
+    },
+    {
+      "id": "mkt:019f6f4e-113b-7aab-8de0-7c9bd6e9a33e",
+      "time": "2026-07-17 17:00:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Eurozone June CPI m/m final -0.1% (exp -0.1%, prior -0.1%)."
+    },
+    {
+      "id": "4994070",
+      "time": "2026-07-17 17:00:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區6月份CPI環比-0.1%；預期為-0.1%。"
+    },
+    {
+      "id": "4994069",
+      "time": "2026-07-17 17:00:09",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區6月份核心CPI同比上升2.4%；預期為2.4%。"
+    },
+    {
+      "id": "mkt:019f6f4d-fad8-7aab-8de0-744dc5a1cc4c",
+      "time": "2026-07-17 17:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "Eurozone June core CPI final MoM +0.2% (prev +0.2%)."
+    },
+    {
+      "id": "mkt:019f6f4d-f87e-7aab-8de0-6983688e12fa",
+      "time": "2026-07-17 17:00:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "Euro area final June CPI YoY 2.8%; expected 2.80%, prior 2.80%."
+    },
+    {
+      "id": "mkt:019f6f4d-f830-7aab-8de0-60a6e8fd9212",
+      "time": "2026-07-17 17:00:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Eurozone June final core CPI YoY 2.1% vs 2.2% prior."
+    },
+    {
+      "id": "te:markets:567857",
+      "time": "2026-07-17 17:00:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Drops by 0.40% — Top currency losers are South Korean Won (-0.40%), Australian Dollar (-0.32%), Mexican Peso (-0.29%) and British Pound (-0.26%). Gains are led by Brazilian Real (0.32%) and Swiss Franc (0.29%). Meanwhile, Dollar Index and Japanese Yen were little changed."
+    },
+    {
+      "id": "mkt:019f6f4d-da7f-7aab-8de0-5bbaa953a4cd",
+      "time": "2026-07-17 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (MoM) (Jun) | actual 0.2% | previous 0.2%"
+    },
+    {
+      "id": "mkt:019f6f4d-da74-7aab-8de0-50abc03faee3",
+      "time": "2026-07-17 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | CPI Final (YoY) (Jun) | actual 2.8% | consensus 2.80% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019f6f4d-da65-7aab-8de0-4c07f2799eec",
+      "time": "2026-07-17 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Core CPI Final (YoY) (Jun) | actual 2.1% | previous 2.2%"
+    },
+    {
+      "id": "4994068",
+      "time": "2026-07-17 16:59:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中船特氣：2026年上半年淨利潤3.48億元，同比增長95.63%】中船特氣公告，2026年上半年營業收入19.04億元，同比增長83.13%。淨利潤3.48億元，同比增長95.63%。"
+    },
+    {
+      "id": "4994067",
+      "time": "2026-07-17 16:59:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣汽能源科技公司經營異常】天眼查經營風險資訊顯示，近日，廣汽能源科技有限公司因未依照規定期限公示年度報告，被廣州市南沙區市場監督管理局列入經營異常名錄。該公司成立於2022年7月，法定代表人為高銳，註冊資本10億人民幣，經營範圍包括新興能源技術研發、儲能技術服務、充電樁銷售、電動汽車充電基礎設施運營等，由優湃能源科技（廣州）有限公司、廣汽埃安新能源汽車股份有限公司共同持股。"
+    },
+    {
+      "id": "4994066",
+      "time": "2026-07-17 16:59:09",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【成都出臺租賃住房新政 不得隔斷出租，不得按床位出租】7月17日，記者從成都市住建局獲悉，成都市人民政府辦公廳近日印發《關於明確成都市租賃住房租住標準進一步加強住房租賃管理工作的通知》（以下簡稱《通知》），其中明確，租賃住房不得隔斷室內空間出租，不得按床位出租，單間不超2人，人均面積不低於4.5平方米。《通知》自2026年8月15日起實施，有效期5年。（紅星新聞）"
+    },
+    {
+      "id": "mkt:019f6f4d-0a10-7aab-8de0-4503d341dc69",
+      "time": "2026-07-17 16:59:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yuejiang Technology disputes whistleblower claims; says H-to-A listing prep on schedule, review set for July 22】Yuejiang Technology on July 17 said a recent signed complaint and related reports are untrue and \"seriously misleading,\" and that production and operations are normal. The company said preparations for its H-to-A return to the A-share market on the ChiNext are proceeding on schedule, it will continue to meet disclosure obligations, and the listing review is scheduled for July 22. The complaint, filed early July 17 by Song Tao who says he is a co-founder and former executive VP/COO, alleges the A-share prospectus misstates equity ownership — claiming his expected 69.7373% property interest is recorded as 22.455% — and accuses the prospectus of \"false statements and deliberately concealing a hundred‑million‑yuan‑level equity ownership dispute.\""
+    },
+    {
+      "id": "mkt:019f6f4c-e11b-7aab-8de0-3a5b28b6d983",
+      "time": "2026-07-17 16:58:57",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's Ministry of Electricity says power and desalination plants were damaged in an Iranian attack."
+    },
+    {
+      "id": "4994065",
+      "time": "2026-07-17 16:57:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特方面稱，一處供水發電站遭伊朗襲擊。"
+    },
+    {
+      "id": "4994064",
+      "time": "2026-07-17 16:57:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新天科技：擬出售不超過1842.67萬股已回購股份 佔公司總股本的1.60%】新天科技公告，公司於2026年07月16日召開的第六屆董事會第四次會議審議透過了《關於出售公司已回購股份的議案》。根據公司於2024年2月7日披露的《回購報告書》之約定用途，同意公司以集中競價方式出售已回購股份不超過1842.67萬股，佔公司總股本的1.60%，實施期限為自本公告披露之日起15個交易日後的6個月內（即2026年08月10日至2027年02月09日）。"
+    },
+    {
+      "id": "4994063",
+      "time": "2026-07-17 16:57:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【領益智造：擬將回購資金總額調整為4億元-8億元】領益智造公告，公司擬增加回購股份資金總額，由“不低於人民幣2億元（含），不超過人民幣4億元（含）”調整為“不低於人民幣4億元（含），不超過人民幣8億元（含）”。回購價格上限仍為21.08元/股，回購股份的用途為在未來適宜時機用於實施股權激勵計劃或員工持股計劃。"
+    },
     {
       "id": "4994062",
       "time": "2026-07-17 16:57:39",
@@ -175090,171 +175304,6 @@
         "公司"
       ],
       "text": "大眾汽車集團第二季度在華交付量下降36.6%。"
-    },
-    {
-      "id": "4980839",
-      "time": "2026-07-10 17:02:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國京畿道推行無手機校園試點】韓國京畿道教育廳本週表示，轄區中小學校已經開始推行校內限用手機試點政策。"
-    },
-    {
-      "id": "4980838",
-      "time": "2026-07-10 17:02:07",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中泰證券：預計2026年上半年淨利潤同比增長146.31%】中泰證券公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為17.52億元，同比增長146.31%；預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為16.98億元，同比增長144.48%。2026年是“十五五”的開局之年，上半年資本市場穩中向好，公司錨定“七個一流”證券公司建設目標，聚焦高質量發展首要任務，持續做深做細金融“五篇大文章”，緊扣管理提質、經營增效要求，推動各領域穩健發展，財富管理、投資交易、資產管理、投資銀行等業務收入實現同比增長，公司整體經營業績顯著提升。"
-    },
-    {
-      "id": "4980837",
-      "time": "2026-07-10 17:01:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【交投生態：預計上半年淨利潤為5000萬元至6000萬元，上年同期虧損6071.1萬元】交投生態公告，預計2026年1月1日至2026年6月30日，歸屬於上市公司股東的淨利潤為盈利5000萬元至6000萬元，上年同期虧損6071.1萬元。扣除非經常性損益後的淨利潤為盈利2500萬元至3500萬元，上年同期虧損3549.24萬元。報告期內，一方面公司加快推進在手訂單的實施，實現營業收入、淨利潤較上年同期增長。另一方面，根據公司與四川易園園林集團有限公司“股權轉讓糾紛”訴訟案二審判決結果，結合相關會計準則要求，公司將已計提的預計負債進行轉回，確認非經常性損益約2500萬元，對報告期歸母淨利潤產生影響。"
-    },
-    {
-      "id": "4980836",
-      "time": "2026-07-10 17:01:23",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【豆粕ETF華夏：提示二級市場交易價格溢價風險】豆粕ETF華夏公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月10日，收盤價為2.144元，收盤時基金份額參考淨值為2.0409元。若7月13日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。基金管理人提醒投資者關注產品風險，謹慎投資，截至目前基金運作正常，無應披露未披露重大資訊。"
-    },
-    {
-      "id": "4980835",
-      "time": "2026-07-10 17:01:01",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【商務部、海關總署：對氦氣實施臨時禁止出口管理】商務部 海關總署公告2026年第29號 公佈對氦氣實施臨時禁止出口管理依據《中華人民共和國對外貿易法》有關規定，商務部、海關總署決定對氦氣（海關商品編號：2804290010）實施臨時禁止出口管理。本公告自公佈之日起執行，後續相關調整將另行公告。商務部海關總署2026年7月10日"
-    },
-    {
-      "id": "mkt:019f4b42-3962-7aab-8d2e-1787ac9a69df",
-      "time": "2026-07-10 17:00:58",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "MOFCOM and CUSTOMS impose a temporary ban on helium exports."
-    },
-    {
-      "id": "4980834",
-      "time": "2026-07-10 17:00:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "奧迪2026年上半年交付量下降7.2%，至727,245輛。上半年電動車交付量下降6.3%，至95,016輛。"
-    },
-    {
-      "id": "mkt:019f4b41-f836-7aab-8d2e-086d7d612020",
-      "time": "2026-07-10 17:00:42",
-      "tags": [
-        "MKT News",
-        "VOW3.DE",
-        "Impact bearish"
-      ],
-      "text": "Audi's 1H 2026 electric vehicle deliveries fell 6.3% to 95,016 units."
-    },
-    {
-      "id": "mkt:019f4b41-e523-7aab-8d2e-0109b3f44c40",
-      "time": "2026-07-10 17:00:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Audi's 1H 2026 deliveries fell 7.2% YoY to 727,245 vehicles."
-    },
-    {
-      "id": "4980833",
-      "time": "2026-07-10 17:00:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣西北部灣投資集團有限公司原黨委書記朱堅和接受審查調查】中央紀委國家監委網站7月10日通報，據廣西壯族自治區紀委監委訊息：廣西北部灣投資集團有限公司原黨委書記、董事長朱堅和涉嫌嚴重違紀違法，目前正接受自治區紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4980832",
-      "time": "2026-07-10 17:00:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信宇人：減持已回購股份1萬股 未完成既定減持計劃】信宇人公告稱，2026年4月10日至7月9日，公司透過集中競價交易方式出售已回購股份10,000股，佔公司總股本的0.0102%，減持均價23.29元/股，減持總金額232,900元。公司原計劃減持不超過977,543股，佔總股本的1.0000%，此次減持未完成。本次出售已回購股份符合規定，所得資金將補充日常經營流動資金，不會對公司產生重大影響。"
-    },
-    {
-      "id": "4980831",
-      "time": "2026-07-10 17:00:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【先達股份：控股股東王現全向一致行動人孫利娟內部轉讓2%股份完成】先達股份公告，公司控股股東、實際控制人王現全於2026年7月6日至7月10日期間，透過大宗交易方式向其一致行動人孫利娟累計轉讓公司股份869.63萬股，佔公司總股本的2%，轉讓價格區間為4.72元/股，轉讓總金額4104.64萬元。本次轉讓計劃已實施完畢，系控股股東與其一致行動人之間股份的內部轉讓，不涉及向市場減持，不會導致控股股東及其一致行動人的合計持股數量和比例發生變化。"
-    },
-    {
-      "id": "te:markets:566003",
-      "time": "2026-07-10 17:00:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Japanese Yen Appreciates by 0.43% — Top currency gainers are Japanese Yen (0.43%) and Brazilian Real (0.40%). Biggest losers are Norwegian Krone (-0.40%) and Polish Zloty (-0.34%). Meanwhile, Dollar Index and British Pound were little changed."
-    },
-    {
-      "id": "mkt:019f4b41-523d-7aab-8d2d-fcd0240b61dd",
-      "time": "2026-07-10 16:59:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Copper"
-      ],
-      "text": "People familiar with the matter said one of Indonesia's largest copper‑gold miners, Amman Mineral Internasional, is considering a secondary listing in Hong Kong."
-    },
-    {
-      "id": "4980830",
-      "time": "2026-07-10 16:59:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：據稱希音將推進香港首次公開募股籌備工作。"
-    },
-    {
-      "id": "4980829",
-      "time": "2026-07-10 16:59:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：希臘工業生產或將同比增長3.9%。"
-    },
-    {
-      "id": "4980828",
-      "time": "2026-07-10 16:59:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣弘控股：預計2026年上半年淨利潤同比下降49.68%-60.56%】廣弘控股公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為2900萬元–3700萬元，比上年同期下降49.68%-60.56%。扣除非經常性損益後的淨利潤為虧損5000萬元–6400萬元，比上年同期下降184.15%-207.72%。基本每股收益為0.05元/股-0.06元/股。業績同比下降主要由於生豬市場行情波動和分紅收益減少。"
-    },
-    {
-      "id": "mkt:019f4b40-7e30-7aab-8d2d-f4732cbcf1e9",
-      "time": "2026-07-10 16:59:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "New Zealand Prime Minister Luxon posted on social media welcoming Indian Prime Minister Modi's visit."
-    },
-    {
-      "id": "4980827",
-      "time": "2026-07-10 16:58:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【貴繩股份：股票交易異常波動 不存在應披露未披露重大資訊】貴繩股份公告稱，公司股票於2026年7月8日至7月10日連續3個交易日內日收盤價格漲幅偏離值累計達20%，屬異常波動。經自查及向控股股東核實，截至公告披露日，公司生產經營正常，不存在影響股價異常波動的重大事項，也無應披露而未披露的重大資訊。公司提醒投資者注意投資風險。"
     }
   ]
 }
