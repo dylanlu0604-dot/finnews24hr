@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-17 20:33:16",
-  "count": 19091,
+  "updated": "2026-07-17 20:37:21",
+  "count": 19097,
   "items": [
+    {
+      "id": "te:economy:567898",
+      "time": "2026-07-17 20:36:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Housing Starts",
+        "Importance 3"
+      ],
+      "text": "US Housing Starts Soar — Housing starts in the US jumped 19% to a seasonally adjusted annualized rate of 1427 thousand units in June 2026, the highest in three months, compared to forecasts of 1310 thousand. It follows a revised 15.4% jump in May that sent housing starts to a six-year low. Multi-family starts soared 76.3% to 513 thousand while single-family starts edged down 0.2% to 895 thousand."
+    },
+    {
+      "id": "mkt:019f7013-d73f-7aab-8de4-f5f7a44b3a41",
+      "time": "2026-07-17 20:36:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Former Iranian foreign minister Salehi said Iran does not intend to escalate tensions or inflame the Middle East; higher regional security is in Iran's interest."
+    },
+    {
+      "id": "mkt:019f7013-af53-7aab-8de4-ed7b1ad63e4f",
+      "time": "2026-07-17 20:36:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former Iranian foreign minister Salihi said mutual cooperation could find a way out of the current Middle East crisis that benefits all regional states and peoples."
+    },
+    {
+      "id": "mkt:019f7013-90c8-7aab-8de4-e23779e2bd80",
+      "time": "2026-07-17 20:35:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former Iranian foreign minister Salehi said regional countries should stop the \"mutual blame game\" and return to the negotiating table."
+    },
+    {
+      "id": "4994625",
+      "time": "2026-07-17 20:35:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美年健康：董事楊策辭職 提名張帆補選非獨立董事】美年健康公告稱，董事楊策因個人工作安排調整，申請辭去公司董事等職務，辭職後不再擔任公司任何職務，原定任期至2027年10月14日。公司於2026年7月17日召開會議，同意提名張帆為補選的第九屆董事會非獨立董事候選人，任期自股東會審議透過起至第九屆董事會任期屆滿，該事項尚需股東會審議。截至公告披露日，楊策和張帆均未持有公司股份。"
+    },
+    {
+      "id": "4994624",
+      "time": "2026-07-17 20:35:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "7月17日全球基金淨賣出37.6億印度盧比的印度股票。"
+    },
+    {
+      "id": "4994623",
+      "time": "2026-07-17 20:35:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【蜜雪冰城日本門店營業額創新高，有門店月營業額近1900萬日元】7月17日，近日，蜜雪冰城神戶店戰報顯示，重灌開業活動店均營業額大幅提升151%，日均營業額突破2萬元。此次重灌開業的蜜雪冰城神戶店，不僅新增了二樓客休區，品牌周邊產品也更豐富。"
+    },
+    {
+      "id": "4994622",
+      "time": "2026-07-17 20:35:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度啟用首列氫動力列車，莫迪說要讓講衛生成為習慣】印度總理莫迪17日在哈里亞納邦金德火車站完成該國首列氫能列車的發車儀式，印度也成為繼中、美、日、德之後，少數掌握氫能列車技術的國家。 據印度新聞資訊局（PIB）7月17日訊息，莫迪表示，19世紀以蒸汽機車為標誌，20世紀則由電力驅動定義，展望21世紀，這將是氫能出行的時代。 此外，莫迪還高度讚賞當地民眾展現出的極高公民責任感，特別肯定了大家在迎接他到訪前夕，以極其嚴肅認真的態度積極參與“潔淨迎賓”行動。看到社群以全新面貌投身環境衛生整治，他深感欣慰，並呼籲將這種源自基層的動力長久保持下去。 莫迪稱，“我們要讓講衛生成為一種習慣，讓潔淨成為一種文化。我們要把講衛生真正融入日常生活的點滴之中。”（鳳凰網）"
+    },
+    {
+      "id": "te:economy:567897",
+      "time": "2026-07-17 20:34:44",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Export Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Export Prices Post First Monthly Decline in Over a Year — US export prices fell 0.6% month-over-month in June 2026, reversing a downwardly revised 1.2% increase in May and exceeding expectations for a 0.4% decline. It marked the first monthly drop since May 2025, driven by a 0.7% fall in nonagricultural export prices, as lower prices for industrial supplies and materials outweighed gains in capital goods, consumer goods, and automotive products. Meanwhile, agricultural export prices rose 0.2%, extending gains for a sixth straight month, supported by higher prices for other foods and food preparations and nuts, which more than offset declines in soybean and corn prices. On an annual basis, US export prices increased 10.2% in June."
+    },
+    {
+      "id": "4994621",
+      "time": "2026-07-17 20:33:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油、美國原油期貨因美伊敵對關係重新升級，每桶漲幅超2美元。"
+    },
+    {
+      "id": "4994620",
+      "time": "2026-07-17 20:33:51",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛預計美股將迎強勁財報季 標普500成分股二季度盈利將同比飆升22%】根據高盛預期，美股市場將迎來又一個強勁的盈利季。高盛預計標普500成分股二季度盈利同比飆升22%，其中AI基礎設施相關股票貢獻近60%的增長，其中美光科技和英偉達兩家合計貢獻超40%。如果最終兌現，這將是標普500連續第二個季度實現超過20%的盈利增長。高盛報告強調，目前市場最關注的焦點並非科技巨頭本身的表現——畢竟超大規模雲端計算商的AI支出已有目共睹——而是產業鏈上更廣泛的企業能否憑藉AI需求實現盈利兌現。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607173811266759",
+      "time": "2026-07-17 20:32:01",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月進口價格指數同比增長7.1%，預期增長6.5%，前值增長6.7%。"
+    },
     {
       "id": "te:economy:567896",
       "time": "2026-07-17 20:31:30",
@@ -13,6 +126,15 @@
         "Importance 1"
       ],
       "text": "Brazil's IBC-Br Growth Slows in May — Brazil’s IBC-Br economic activity index rose 0.1% month-over-month in May 2026, easing from a 0.5% increase in the previous month but slightly above forecasts for a flat reading. Industrial activity increased 0.4%, matching April's pace, while services rose 0.1% after a 0.3% increase in the previous month. Likewise, the taxes index advanced 0.1% following a 0.3% rise in April. Meanwhile, the agriculture and livestock sector contracted 1.0% after posting a flat reading in April. Excluding agriculture and livestock, the IBC-Br rose 0.2% in May."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607173811266684",
+      "time": "2026-07-17 20:31:11",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月進口價格上升0.3%，市場預期下降0.8%。美國6月石油進口價格下降0.7%。"
     },
     {
       "id": "4994619",
@@ -70,6 +192,15 @@
         "US10Y"
       ],
       "text": "U.S. import price index YoY rose 7.1% in June; consensus 6.7%, prior 6.7%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607173811266338",
+      "time": "2026-07-17 20:30:36",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "美國6月營建許可總數136.7萬戶，預期140萬戶，前值141萬戶。"
     },
     {
       "id": "mkt:019f700e-8897-7aab-8de4-c6bb46fec611",
@@ -183,6 +314,15 @@
         "EURUSD"
       ],
       "text": "US June export prices m/m -0.6% vs -0.4% expected; May revised to 1.2% from 1.30%."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607173811265918",
+      "time": "2026-07-17 20:30:18",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國6月新屋開工總數年化142.7萬戶】美國6月新屋開工總數年化142.7萬戶，預期131萬戶，前值由117.7萬戶修正為119.9萬戶。"
     },
     {
       "id": "4994616",
@@ -175674,84 +175814,6 @@
         "Importance 2"
       ],
       "text": "Canada Unemployment Rate Unexpectedly Drops — The unemployment rate in Canada eased to 6.5% in June of 2026 from 6.6% in the previous month, below market expectations that it would remain unchanged and tying for the lowest since July of 2024. Net employment rose by 18,000 positions to 21,139,700, mostly supported by part-time positions. In the meantime, unemployment fell by 13,200 to 1,469,200. The developments translated to an unchanged labor force participation rate of 65%, which has remained relatively steady since the start of the year despite the energy supply shocks due to the war in Iran and the exchange of tariffs with the United States."
-    },
-    {
-      "id": "4981328",
-      "time": "2026-07-10 20:36:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "東方證券給予中遠海能A股買進的初始評級；目標價25.08元人民幣。"
-    },
-    {
-      "id": "4981327",
-      "time": "2026-07-10 20:35:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上交所：將“提質增效重回報”2.0專項行動要求嵌入日常監管】7月10日，上交所舉辦“提質增效重回報”2.0專項行動專題培訓暨現場座談會。證券時報記者從會上獲悉，“提質增效重回報”2.0專項行動自啟動以來得到滬市公司的廣泛響應。下一步，上交所將持續做好常態化服務保障，對積極響應和參與專項行動的公司開展針對性引導和常態化交流，加快培育併發布首批優秀示範案例，發揮標杆企業的引領帶動效應；同時將專項行動要求嵌入日常監管、資訊披露與公司治理服務全鏈條，引導滬市公司持續夯實主業根基、提升治理效能、厚植回報文化，以實實在在的經營成效與股東回報，助力資本市場功能提升與實體經濟高質量發展。"
-    },
-    {
-      "id": "4981326",
-      "time": "2026-07-10 20:35:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【紫光股份：股價連續三日漲幅偏離值累計超20% 提示投資風險】紫光股份公告稱，公司股票在2026年7月8日至7月10日連續三個交易日內，日收盤價格漲幅偏離值累計超過20%，屬股票交易異常波動。經核查，公司前期資訊無需更正補充，未發現影響股價的未公開重大資訊，經營及環境無重大變化，控股股東等不存在應披露未披露事項，異常波動期間也無買賣公司股票行為。公司同日披露業績預告為初步測算，提醒投資者理性投資。"
-    },
-    {
-      "id": "4981325",
-      "time": "2026-07-10 20:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國計劃立法限定水務企業債務規模。"
-    },
-    {
-      "id": "4981324",
-      "time": "2026-07-10 20:34:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【金建希涉腐敗案下週終審判決】韓國媒體10日援引訊息人士的話報道，韓國最高法院定於下週就前總統尹錫悅妻子金建希所涉腐敗案作出終審判決。這將是金建希因多項罪名遭起訴以來，法院首次對其作出終審判決。根據法律界訊息人士的說法，韓國最高法院將於16日10時15分審理金建希涉嫌操縱股價、收受賄賂一案。金建希被指控在2010年10月至2012年12月期間參與操縱韓國一家寶馬汽車經銷商的股價，非法獲利8.1億韓元（約合365萬元人民幣）。此外，她還被指控收受一條名貴鑽石項鍊和兩個奢侈品牌手袋。（新華社）"
-    },
-    {
-      "id": "mkt:019f4c05-f074-7aab-8d32-f0647a0a886b",
-      "time": "2026-07-10 20:34:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Zloty tumbles as Polish central bank signals rate cuts】The Polish zloty slid to a 19-month low versus the euro and a two-and-a-half-year low versus the Czech koruna after Polish central bank governor Glapiński signaled future rate cuts at a Thursday press conference. The central bank had left the policy rate unchanged at 3.75% a day earlier, as expected. In a note, Deutsche Bank’s Tatha Ghose said the move was surprising amid renewed U.S.-Iran tensions and that the notion Iran could force the central bank to raise rates has evaporated."
-    },
-    {
-      "id": "4981323",
-      "time": "2026-07-10 20:34:24",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "【專家稱人民幣國際化迎視窗期】7月9日，在中歐國際工商學院舉辦的第六屆“智薈中歐·北京論壇”上，中國社會科學院世界經濟與政治研究所副所長張明就國際貨幣體系演變與人民幣國際化發表主旨演講。 張明認為，當前美元本位制存在三大缺陷：廣義“特里芬兩難”持續凸顯，向全球提供充足的美元流動性與美元匯率穩定之間存在矛盾；美聯儲貨幣政策外溢效應顯著，貨幣政策轉向對新興市場產生直接衝擊；“美元武器化”頻發，諸多單邊制裁手段嚴重削弱美元體系信用。各國正加速去美元化，透過增持本幣結算、佈局數字貨幣、搭建新型支付清算體系等手段應對變局。 張明強調，這正是人民幣國際化的戰略視窗期——全球多國開始減持美元資產、尋找替代安全資產和新的清算通道，中國應主動抓住這一歷史機遇。（21財經）"
-    },
-    {
-      "id": "4981322",
-      "time": "2026-07-10 20:33:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟理事會已批准匈牙利提交的新版復甦與韌性計劃（RRP）】歐盟理事會已批准解凍對匈牙利高達100億歐元的融資，據匈牙利駐歐盟代表團在社交媒體上釋出的訊息。 與此同時，歐盟理事會在另一則宣告中指出，該方案將為匈牙利提供65億歐元的贈款和35億歐元的優惠貸款。"
-    },
-    {
-      "id": "4981321",
-      "time": "2026-07-10 20:33:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【證監會就中歐基金變更主要股東申請下發反饋意見】7月10日晚，證監會就中歐基金變更主要股東申請下發反饋意見，要求中歐基金在30個工作日內提交相關問題的書面回覆與電子文件；無法按期回覆的可提交延期申請，證監會收到回覆後將視情況決定是否再次出具反饋意見。本次反饋共涉及五項事項：一是要求華平亞太資產管理有限公司說明首次入股中歐基金以來定位、持牌情況是否發生變化；二是要求華平亞太資管的股東出具增資資產證明，確保其具備本次交易付款能力；三是說明華平投資集團自稱2021年至今信用評級未變、但兩次入股時資信證明評級結果存在差異的情況；四是提供近三年地產資管機構中華平投資集團的原始排名資料；五是提交華平亞太資管2025年度經審計的財務報告。據中歐基金官網，華平亞太資管在2023年入股為第一大股東。（第一財經）"
     }
   ]
 }
