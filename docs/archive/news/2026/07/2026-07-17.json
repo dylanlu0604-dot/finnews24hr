@@ -1,7 +1,89 @@
 {
   "date": "2026-07-17",
-  "count": 1670,
+  "count": 1680,
   "items": [
+    {
+      "id": "4993809",
+      "time": "2026-07-17 15:27:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿曼附近海域一油輪遭不明彈體襲擊】當地時間17日，英國海上貿易行動辦公室表示，當日一艘油輪在航行至阿曼海岸海塞卜以東約19海里處時，遭到不明彈體襲擊。該船左舷受到輕微損壞，船上船員安全，仍繼續駛向目的地。襲擊未造成環境影響。（央視新聞）"
+    },
+    {
+      "id": "4993808",
+      "time": "2026-07-17 15:27:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 日本執政黨要求國會會期延長至 7 月 25 日。"
+    },
+    {
+      "id": "4993807",
+      "time": "2026-07-17 15:25:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【白宮再曝內幕交易醜聞 特朗普御用提詞員利用演講資訊牟利遭調查】據知情人士報道，美國總統特朗普的長期提詞器操作員Gabriel Perez正在接受聯邦監管機構的調查，因其涉嫌在預測市場平臺Kalshi上進行內幕交易。報道稱，Perez透過對特朗普的演講進行押注獲利超9萬美元，但其賬戶已遭Kalshi平臺凍結。"
+    },
+    {
+      "id": "4993806",
+      "time": "2026-07-17 15:25:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家質量強國建設專家諮詢委員會第一次全體會議在京召開】會議指出，習近平總書記高度重視質量工作，強調要“始終堅持質量第一、效益優先，大力增強質量意識，視質量為生命，以高質量為追求”，為質量強國建設指明瞭前進方向、提供了根本遵循。組建國家質量強國建設專家諮詢委員會，是深入貫徹黨的二十大和二十屆歷次全會精神、推動落實《質量強國建設綱要》的重要舉措，是完善質量強國建設推進機制、凝聚高層次智力支撐的制度安排，對於提升質量強國建設謀劃水平、破解質量發展複雜問題、營造質量共治格局具有重要意義。會議強調，黨的二十屆四中全會對加快建設質量強國作出了明確部署，“十五五”時期是質量強國建設承前啟後、縱深推進的關鍵階段，專家諮詢委要緊扣全會部署要求，在全域性上謀劃質量、從長遠上研究質量，圍繞重點任務深入調查研究、發展質量理論、積極建言獻策、廣泛溝通交流，為到2035年實現質量強國建設中長期目標提供有力支撐。"
+    },
+    {
+      "id": "mkt:019f6ef6-90e0-7aab-8dde-10289b6eda61",
+      "time": "2026-07-17 15:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A relief organization head said seven US nationals are quarantined at an Ebola isolation facility in Kenya after the US imposed a travel ban."
+    },
+    {
+      "id": "mkt:019f6ef6-7bb7-7aab-8dde-0e995fd5b8a8",
+      "time": "2026-07-17 15:24:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Futures Exchange reported this week’s inventory changes: copper down 20,362 t, aluminium down 5,401 t, zinc down 427 t, lead down 1,361 t, nickel up 11,078 t, tin down 268 t, and natural rubber down 190 t."
+    },
+    {
+      "id": "mkt:019f6ef6-7719-7aab-8ddd-fa955693a65e",
+      "time": "2026-07-17 15:24:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "VOW3.DE",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Volkswagen's works council said the company's restructuring will put about 140,000 jobs at risk."
+    },
+    {
+      "id": "4993805",
+      "time": "2026-07-17 15:24:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "上期所：本週銅庫存減少20362噸，鋁庫存減少5401噸，鋅庫存減少427噸，鉛庫存減少1361噸，鎳庫存增加11078噸，錫庫存減少268噸，天然橡膠庫存減少190噸。"
+    },
+    {
+      "id": "4993804",
+      "time": "2026-07-17 15:24:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "救援組織負責人表示，在美國實施旅行禁令後，有七名美國人在肯亞的埃博拉隔離設施內接受隔離。"
+    },
     {
       "id": "4993803",
       "time": "2026-07-17 15:22:12",
@@ -312,6 +394,19 @@
         "其他"
       ],
       "text": "【ABB宣佈收購電動執行器製造商羅托克】7月17日，ABB Ltd宣佈與Rotork plc（簡稱“羅托克”）就收購其全部已發行及將發行股本的推薦性現金要約條款達成一致。羅托克是一家全球關鍵任務智慧流體控制解決方案供應商，也是獨立電動執行器製造商。根據要約條款，羅托克股東每股將獲得503便士現金對價，較其近三個月均價溢價約60%。本次交易隱含企業價值約55億美元。此外，羅托克股東仍有權獲得截至2026年6月30日的中期股息，每股最高3便士，不影響要約對價。"
+    },
+    {
+      "id": "mkt:019f6ef6-7752-7aab-8dde-0006eed93282",
+      "time": "2026-07-17 15:08:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European equities opened lower on Friday, July 17: Euro STOXX 50 down 66.36 pts (-1.06%) at 6,217.25; Germany’s DAX down 145.87 pts (-0.59%) at 24,720.59; France’s CAC 40 down 57.99 pts (-0.69%) at 8,319.87; Italy’s FTSE MIB down 506.46 pts (-0.97%) at 51,867.50; Spain’s IBEX 35 down 55.44 pts (-0.29%) at 19,182.96; UK’s FTSE 100 down 1.67 pts (-0.02%) at 10,570.57."
     },
     {
       "id": "4993782",
