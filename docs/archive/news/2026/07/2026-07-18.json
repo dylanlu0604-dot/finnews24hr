@@ -1,7 +1,19 @@
 {
   "date": "2026-07-18",
-  "count": 225,
+  "count": 226,
   "items": [
+    {
+      "id": "te:markets:567983",
+      "time": "2026-07-18 04:25:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Retreats as Risk Aversion Boosts Dollar — The Mexican peso weakened to 17.52 per USD in July after reaching 17.40 earlier in the month, as escalating tensions in the Middle East fueled risk aversion across global financial markets. The escalation prompted investors to seek safe-haven assets such as the US dollar. Meanwhile, Mexico's industrial output contracted by more than expected in May, with weakness broad-based across sectors, adding pressure to the peso amid signs of a slowing economy. Oil prices also extended gains as tensions near the Strait of Hormuz intensified, fueling energy-driven inflation fears. In contrast, Mexico's annual inflation rate eased to 3.37% in June 2026 from 3.94% in May, the lowest reading since December 2020. The figure came in slightly below market expectations of 3.52% and remained within the Bank of Mexico's target tolerance range of one percentage point around 3%."
+    },
     {
       "id": "4995072",
       "time": "2026-07-18 04:21:25",

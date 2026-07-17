@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-18 04:22:45",
-  "count": 18933,
+  "updated": "2026-07-18 04:26:39",
+  "count": 18929,
   "items": [
+    {
+      "id": "te:markets:567983",
+      "time": "2026-07-18 04:25:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Mexico",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Mexican Peso Retreats as Risk Aversion Boosts Dollar — The Mexican peso weakened to 17.52 per USD in July after reaching 17.40 earlier in the month, as escalating tensions in the Middle East fueled risk aversion across global financial markets. The escalation prompted investors to seek safe-haven assets such as the US dollar. Meanwhile, Mexico's industrial output contracted by more than expected in May, with weakness broad-based across sectors, adding pressure to the peso amid signs of a slowing economy. Oil prices also extended gains as tensions near the Strait of Hormuz intensified, fueling energy-driven inflation fears. In contrast, Mexico's annual inflation rate eased to 3.37% in June 2026 from 3.94% in May, the lowest reading since December 2020. The figure came in slightly below market expectations of 3.52% and remained within the Bank of Mexico's target tolerance range of one percentage point around 3%."
+    },
     {
       "id": "4995072",
       "time": "2026-07-18 04:21:25",
@@ -174541,62 +174553,6 @@
         "Brent"
       ],
       "text": "Iranian foreign ministry spokesman Baghaei said Iran will not permit inspections of facilities damaged in US and Israeli strikes, and that UN Security Council Resolution 2231 has effectively lost its legal force."
-    },
-    {
-      "id": "mkt:019f4db5-6a82-7aab-8d3a-04420b61267d",
-      "time": "2026-07-11 04:26:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Court filings show Apple (AAPL.O) has sued OpenAI, alleging misappropriation of trade secrets."
-    },
-    {
-      "id": "4981914",
-      "time": "2026-07-11 04:25:26",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "法庭檔案顯示，蘋果起訴OpenAI，指控其盜用商業機密。"
-    },
-    {
-      "id": "te:markets:566130",
-      "time": "2026-07-11 04:23:54",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Nears Record High on Strong Jobs Report — The S&P/TSX Composite Index gained 0.3% to close at 35,305, nearing its record high after a stronger-than-expected jobs report. Employment in Canada rose by 18,200 in June following an increase of 88,000 in May, while the unemployment rate unexpectedly fell to its lowest level in nearly two years. Financials traded higher, with RBC up 1%, TD Bank adding 0.7%, BMO gaining 1.1%, and Brookfield rising 1.6%. Retailers also posted gains, with ATD up 0.8% and Loblaw adding 1.2%. In the tech sector, Constellation Software gained 2.4% after SK Hynix raised $26.5 billion in its American depositary receipt offering, delivering the largest-ever US first-time stock sale by a foreign company. In contrast, mining stocks declined as gold prices moved lower. Agnico Eagle lost 1.6%, Barrick shed 0.6%, and Franco-Nevada fell 1.4%."
-    },
-    {
-      "id": "mkt:019f4db3-20af-7aab-8d39-ff581da87a67",
-      "time": "2026-07-11 04:23:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry spokesman said Tehran, on a responsible basis, has not rejected a regional mediator's request to visit and hold talks on recent developments."
-    },
-    {
-      "id": "mkt:019f4db2-a942-7aab-8d39-f15cff9b547e",
-      "time": "2026-07-11 04:23:02",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iran's Foreign Ministry spokesman Baqaei said Iran is determined to ensure maritime traffic safety in the Strait of Hormuz and will continue cooperating with Oman."
     }
   ]
 }
