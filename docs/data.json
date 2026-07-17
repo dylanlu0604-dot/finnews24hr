@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-17 23:19:10",
-  "count": 19046,
+  "updated": "2026-07-17 23:23:14",
+  "count": 19042,
   "items": [
+    {
+      "id": "mkt:019f70ab-6fce-7aab-8de8-5911730252a1",
+      "time": "2026-07-17 23:21:51",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Brazil's finance minister said Brazil will work to counter U.S. tariffs, calling the measures clearly a political tool."
+    },
+    {
+      "id": "4994924",
+      "time": "2026-07-17 23:21:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "信實工業：烏克蘭襲擊俄羅斯煉油廠引發市場恐慌。"
+    },
+    {
+      "id": "4994923",
+      "time": "2026-07-17 23:21:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西財長：若要合理運用對等反制措施，必先審慎評估對等原則的實施尺度。"
+    },
+    {
+      "id": "4994922",
+      "time": "2026-07-17 23:20:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "信實工業：將審慎評估霍爾木茲海峽以西產油國供應的原油。"
+    },
+    {
+      "id": "4994921",
+      "time": "2026-07-17 23:20:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國地震臺網正式測定：07月17日22時48分在墨西哥恰帕斯州沿岸近海（北緯14.80度，西經92.95度）發生7.2級地震，震源深度10千米。"
+    },
     {
       "id": "4994920",
       "time": "2026-07-17 23:16:12",
@@ -175418,87 +175463,6 @@
         "其他"
       ],
       "text": "標普：拜耳與阿波羅宣佈達成合作，標普維持拜耳 BBB/A-2 評級，展望仍為負面。"
-    },
-    {
-      "id": "4981664",
-      "time": "2026-07-10 23:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會主席卡爾： 迪士尼曲解聯邦通訊委員會針對政治候選人的相關規定。"
-    },
-    {
-      "id": "mkt:019f4c9f-faf5-7aab-8d36-c137a780c58d",
-      "time": "2026-07-10 23:23:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "000660.KS",
-        "Impact mixed"
-      ],
-      "text": "【SK Group chairman says SK Hynix open to ADR issuance if returns strong and share price stable】SK Group chairman Choi Tae-won said SK Hynix is open to issuing additional U.S. shares (ADRs) if returns improve and the stock remains stable, noting the priority is to maintain share-price stability while preserving long-term upside. He pledged to increase the company's investment in the United States and said the AI era has materially boosted demand for memory chips. All three leading memory suppliers are accelerating capacity expansion; SK Hynix and Samsung last week announced a combined investment of 800 trillion won to build new fabs as part of a plan to double South Korea’s memory capacity within five years."
-    },
-    {
-      "id": "4981663",
-      "time": "2026-07-10 23:22:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：法國總統馬克龍在巴黎愛麗捨宮會見南非總統，雙方舉行雙邊會談。"
-    },
-    {
-      "id": "4981662",
-      "time": "2026-07-10 23:21:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：大眾汽車正尋求與日產合作，在美國市場開發一款大型 SUV。"
-    },
-    {
-      "id": "mkt:019f4c9e-d62a-7aab-8d36-bcd332b14565",
-      "time": "2026-07-10 23:21:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "French President Macron welcomed South African President Ramaphosa to the Élysée Palace in Paris for bilateral talks."
-    },
-    {
-      "id": "mkt:019f4c9e-ad44-7aab-8d36-b3b380622563",
-      "time": "2026-07-10 23:21:35",
-      "tags": [
-        "MKT News",
-        "VOW3.DE",
-        "Impact bullish",
-        "7201.T"
-      ],
-      "text": "Nikkei reports Volkswagen is seeking to partner with Nissan to develop a large SUV for the U.S. market."
-    },
-    {
-      "id": "mkt:019f4c9e-2833-7aab-8d36-af9cf0f2c417",
-      "time": "2026-07-10 23:21:01",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "Market sources: the US government has authorized the UAE to receive advanced computing items without a license."
-    },
-    {
-      "id": "4981661",
-      "time": "2026-07-10 23:20:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國允許阿聯酋免許可證獲取先進計算相關物項。"
-    },
-    {
-      "id": "4981660",
-      "time": "2026-07-10 23:19:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國新增 61 例麻疹病例，年內累計確診 2231 例。"
     }
   ]
 }
