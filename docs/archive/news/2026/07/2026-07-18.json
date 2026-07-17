@@ -1,7 +1,43 @@
 {
   "date": "2026-07-18",
-  "count": 33,
+  "count": 37,
   "items": [
+    {
+      "id": "mkt:019f7106-95e4-7aab-8de9-404b70de892c",
+      "time": "2026-07-18 01:01:24",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Rig Count (Jul.17) | actual 588 | previous 581"
+    },
+    {
+      "id": "mkt:019f7106-7681-7aab-8de9-3b87f1bb8fa4",
+      "time": "2026-07-18 01:01:16",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Weekly Total Oil Rig Count (Jul.17) | actual 452 | previous 445"
+    },
+    {
+      "id": "4994967",
+      "time": "2026-07-18 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.18%，滬銅收漲0.15%，滬鋁收漲0.22%，滬鋅收跌0.85%，滬鉛收漲0.69%，滬鎳收跌0.28%，滬錫收漲1.57%。氧化鋁夜盤收漲1.64%，鋁合金收漲0.67%。不鏽鋼夜盤收跌0.30%。"
+    },
+    {
+      "id": "mkt:019f7103-1303-7aab-8de9-33d061f0f253",
+      "time": "2026-07-18 00:57:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israel's plan to cut its air-to-air refuelling tanker fleet to about 20 aircraft remains underway, Channel 12 reports."
+    },
     {
       "id": "4994966",
       "time": "2026-07-18 00:56:45",
