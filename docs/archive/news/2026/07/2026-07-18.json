@@ -1,7 +1,33 @@
 {
   "date": "2026-07-18",
-  "count": 47,
+  "count": 50,
   "items": [
+    {
+      "id": "mkt:019f7118-6c96-7aab-8de9-78103da25bab",
+      "time": "2026-07-18 01:20:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Flightradar24 reported a US Air Force KC-135 tanker squawked emergency code 7700 near Mildenhall, UK."
+    },
+    {
+      "id": "4994973",
+      "time": "2026-07-18 01:20:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗第一副總統在同南部各省省長談話時稱：但凡伊朗領土有一寸遭到侵佔，即是對國家主權的侵犯；我方的反擊將果斷、出其不意，且不拘泥於常規手段。"
+    },
+    {
+      "id": "4994972",
+      "time": "2026-07-18 01:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局即將宣佈，批准波音恢復全部 737 MAX、787 機型的售票運營。"
+    },
     {
       "id": "4994971",
       "time": "2026-07-18 01:16:28",
