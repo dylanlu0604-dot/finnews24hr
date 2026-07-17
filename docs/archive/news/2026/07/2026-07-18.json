@@ -1,7 +1,61 @@
 {
   "date": "2026-07-18",
-  "count": 100,
+  "count": 106,
   "items": [
+    {
+      "id": "4994996",
+      "time": "2026-07-18 02:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克已與星鏈簽署運營合作協議，准許星鏈在伊開展業務。"
+    },
+    {
+      "id": "4994995",
+      "time": "2026-07-18 02:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國就伊拉克-敘利亞原油管道發表宣告：美國歡迎伊拉克與敘利亞就管道專案合作，管道完成後初始輸送能力將達每天200萬桶。"
+    },
+    {
+      "id": "te:markets:567977",
+      "time": "2026-07-18 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 1.44% — Top crypto losers are Ether (-1.44%) and Binance (-1.19%). Gains are led by Bitcoin (0.20%)."
+    },
+    {
+      "id": "4994994",
+      "time": "2026-07-18 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲5.23%，報542.90元人民幣/桶。滬金夜盤收漲0.71%，滬銀收漲1.05%。"
+    },
+    {
+      "id": "mkt:019f7156-de7a-7aab-8dea-45c486d18907",
+      "time": "2026-07-18 02:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi state media reported the government has signed an agreement with SpaceX to allow Starlink to operate in Iraq."
+    },
+    {
+      "id": "mkt:019f7156-bb01-7aab-8dea-3dae12076e77",
+      "time": "2026-07-18 02:28:57",
+      "tags": [
+        "MKT News",
+        "WBD.O",
+        "Impact mixed",
+        "PARA.O"
+      ],
+      "text": "A judge said he will issue a ruling by July 22 on the Paramount-Warner Bros. Discovery (WBD.O) transaction."
+    },
     {
       "id": "4994993",
       "time": "2026-07-18 02:26:29",

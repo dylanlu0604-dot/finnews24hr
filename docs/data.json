@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-18 02:27:41",
-  "count": 18919,
+  "updated": "2026-07-18 02:31:34",
+  "count": 18916,
   "items": [
+    {
+      "id": "4994996",
+      "time": "2026-07-18 02:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克已與星鏈簽署運營合作協議，准許星鏈在伊開展業務。"
+    },
+    {
+      "id": "4994995",
+      "time": "2026-07-18 02:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國就伊拉克-敘利亞原油管道發表宣告：美國歡迎伊拉克與敘利亞就管道專案合作，管道完成後初始輸送能力將達每天200萬桶。"
+    },
+    {
+      "id": "te:markets:567977",
+      "time": "2026-07-18 02:30:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 1.44% — Top crypto losers are Ether (-1.44%) and Binance (-1.19%). Gains are led by Bitcoin (0.20%)."
+    },
+    {
+      "id": "4994994",
+      "time": "2026-07-18 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲5.23%，報542.90元人民幣/桶。滬金夜盤收漲0.71%，滬銀收漲1.05%。"
+    },
+    {
+      "id": "mkt:019f7156-de7a-7aab-8dea-45c486d18907",
+      "time": "2026-07-18 02:29:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi state media reported the government has signed an agreement with SpaceX to allow Starlink to operate in Iraq."
+    },
+    {
+      "id": "mkt:019f7156-bb01-7aab-8dea-3dae12076e77",
+      "time": "2026-07-18 02:28:57",
+      "tags": [
+        "MKT News",
+        "WBD.O",
+        "Impact mixed",
+        "PARA.O"
+      ],
+      "text": "A judge said he will issue a ruling by July 22 on the Paramount-Warner Bros. Discovery (WBD.O) transaction."
+    },
     {
       "id": "4994993",
       "time": "2026-07-18 02:26:29",
@@ -174374,87 +174428,6 @@
         "國際"
       ],
       "text": "WTI 8月原油期貨收跌0.67美元，跌幅0.93%，報71.41美元/桶。中東Abu Dhabi Murban原油期貨跌0.99%，報70.66美元/桶，本週累漲6.29%。NYMEX 8月天然氣期貨收報2.94美元/百萬英熱單位。NYMEX 8月汽油期貨收報2.9846美元/加侖，NYMEX 8月取暖油期貨收報3.5533美元/加侖。"
-    },
-    {
-      "id": "4981852",
-      "time": "2026-07-11 02:31:21",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "市場訊息：美國財政部鎖定伊朗最高領袖核心資金支持者實施制裁。"
-    },
-    {
-      "id": "4981851",
-      "time": "2026-07-11 02:30:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國原油期貨結算價報每桶71.41美元，下跌67美分，跌幅0.93%。"
-    },
-    {
-      "id": "mkt:019f4d4b-8e04-7aab-8d38-c023929fc826",
-      "time": "2026-07-11 02:30:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed down 0.34% at 895.57 yuan/gram in the evening session on Friday, July 10; Shanghai Gold Exchange silver T+D closed down 0.69% at 14,535.0 yuan/kilogram."
-    },
-    {
-      "id": "te:markets:566123",
-      "time": "2026-07-11 02:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Rises by 2.53% — Top crypto gainers are Ether (2.53%), Binance (1.38%) and Bitcoin (1.05%)."
-    },
-    {
-      "id": "4981850",
-      "time": "2026-07-11 02:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌1.35%，報467.20元人民幣/桶。滬金夜盤收跌0.56%，滬銀收跌0.58%。"
-    },
-    {
-      "id": "4981849",
-      "time": "2026-07-11 02:29:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：特朗普背書扎克・萊恩參選艾奧瓦州州長。"
-    },
-    {
-      "id": "4981848",
-      "time": "2026-07-11 02:29:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：卡達傾向承辦下一輪瑞士談判。"
-    },
-    {
-      "id": "mkt:019f4d4a-633e-7aab-8d38-b8d8bec479cc",
-      "time": "2026-07-11 02:29:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Small refinery fire in western Iran】A small refinery in Pol-e Dokhtar, Lorestan province in western Iran caught fire at about 17:00 local time, producing heavy smoke. Large quantities of flammable materials on site made the blaze intense and impeded firefighting; rescue teams were unable to approach the core area in the first hours. Firefighters and emergency crews remain on scene and firefighting operations are ongoing."
-    },
-    {
-      "id": "mkt:019f4d4a-05a1-7aab-8d38-b5cc19831a68",
-      "time": "2026-07-11 02:28:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reports Qatar prefers Switzerland as the venue for upcoming U.S.-Iran talks."
     }
   ]
 }
