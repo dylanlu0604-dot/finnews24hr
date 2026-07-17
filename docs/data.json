@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-17 20:12:44",
-  "count": 19076,
+  "updated": "2026-07-17 20:16:53",
+  "count": 19072,
   "items": [
+    {
+      "id": "mkt:019f7001-72fd-7aab-8de4-065ac425c04d",
+      "time": "2026-07-17 20:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caspian Pipeline Consortium says ExxonMobil‑chartered tanker Nordic Zenith was attacked while approaching the CPC terminal in the Black Sea."
+    },
+    {
+      "id": "4994584",
+      "time": "2026-07-17 20:16:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪成為巴黎聖日耳曼官方合作伙伴】近日，比亞迪與巴黎聖日耳曼足球俱樂部（PSG）達成全球戰略合作關係，這份合作直至2029年6月。未來三個賽季，雙方將透過全球傳播活動、球迷互動等形式推進合作落地。同時，比亞迪及其高階品牌騰勢將為俱樂部日常運營提供支援。"
+    },
+    {
+      "id": "4994583",
+      "time": "2026-07-17 20:16:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將Cloudflare目標股價從305美元上調至322美元。"
+    },
+    {
+      "id": "4994581",
+      "time": "2026-07-17 20:15:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "裡海石油管道財團（CPC）表示，埃克森美孚租用的油輪“北歐天頂號”在駛入黑海CPC碼頭途中遇襲。"
+    },
+    {
+      "id": "4994579",
+      "time": "2026-07-17 20:15:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將凱悅酒店目標股價從208.00美元上調至218.00美元；將萬豪國際目標股價從353.00美元上調至380.00美元；將希爾頓其目標股價從319.00美元上調至332.00美元。"
+    },
+    {
+      "id": "4994576",
+      "time": "2026-07-17 20:15:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美不再延續涉港國家緊急狀態答記者問】有記者問：關注到截至目前，美國未再延續7月14日到期的《香港正常化總統行政令》（第13936號）中的涉港國家緊急狀態，這是否意味著涉港行政令已經終止？中方對此有何評論？\n\n答：中方注意到有關情況。在中美馬德里經貿磋商中，美方就有關涉港、投資等問題作出承諾。近期，美方已向中方確認，第13936號行政令中的涉港國家緊急狀態今年到期後不再延續，該行政令將終止。美方有關行動是履行雙方經貿磋商共識的重要一步，中方對此表示讚賞。\n\n維護香港繁榮穩定符合中美共同利益。美方涉港政策向積極方向調整，也符合國際社會的普遍期待。希望美方恪守有關國際公約和雙方共識，尊重中國主權和香港特區法治，恢復並加強與香港特區的正常經貿往來，為構建中美建設性戰略穩定關係發揮積極作用。"
+    },
+    {
+      "id": "4994575",
+      "time": "2026-07-17 20:12:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "JSW鋼鐵高管：第一季度焦煤價格每噸上漲17美元，漲幅高於公司此前預估的每噸15美元。"
+    },
+    {
+      "id": "mkt:019f6ffe-7a3b-7aab-8de3-fdcabb130530",
+      "time": "2026-07-17 20:12:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Unisoc, China Unicom push commercial rollout of AI+eSIM】At an AI+eSIM forum co‑hosted by China Unicom and GSMA, Unisoc and China Unicom said they are promoting commercial deployment of AI+eSIM solutions and launched two Unisoc‑powered terminals. China Unicom’s VE202 international eSIM portable Wi‑Fi is built on the Unisoc V8310 chip and targets global roaming users. A second high‑uplink portable Wi‑Fi model using the Unisoc V620 platform supports 5G dual‑carrier and 3TX uplink technology, with NR peak rates up to 3.27Gbps downlink and 1.25Gbps uplink."
+    },
+    {
+      "id": "4994574",
+      "time": "2026-07-17 20:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示：目前並未討論瑟爾斯基辭職一事。"
+    },
     {
       "id": "mkt:019f6ffd-b028-7aab-8de3-f7358a473442",
       "time": "2026-07-17 20:12:04",
@@ -18,6 +94,14 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：攻擊平民和非民用基礎設施將付出極其沉重和毀滅性的代價；我們的有效精準打擊將持續至局勢恢復平靜。"
+    },
+    {
+      "id": "4994572",
+      "time": "2026-07-17 20:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紫光展銳攜手中國聯通 推動“AI+eSIM”方案商用落地】近日，由中國聯通與GSMA聯合舉辦的“AI+eSIM中國方案主題沙龍”活動正式舉行。本次活動上，紫光展銳攜手中國聯通釋出了兩款搭載展銳芯的終端新品，一款是中國聯通隨身Wi-Fi國際eSIM版本VE202，搭載紫光展銳V8310晶片，面向全球漫遊使用者提供便捷高效的網路接入體驗；另一款是通則康威隨身Wi-Fi大上行版，搭載紫光展銳V620晶片平臺，支援5G雙載波和上行3TX技術，NR峰值速率可達下行3.27Gbps、上行1.25Gbps。當前，eSIM已邁入試商用階段，2026年也被視為AI全鏈路應用規模化爆發的關鍵之年。在這一背景下，AI技術與eSIM能力的融合正逐步從概念走向產品化，終端形態和應用場景不斷拓展。"
     },
     {
       "id": "4994571",
@@ -175432,139 +175516,6 @@
         "DAX"
       ],
       "text": "EEX said German solar generation reached a record 57,317 MW on Friday."
-    },
-    {
-      "id": "4981298",
-      "time": "2026-07-10 20:16:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：卡達稱伊朗和美國落實諒解備忘錄至關重要。"
-    },
-    {
-      "id": "4981297",
-      "time": "2026-07-10 20:16:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際原子能機構總幹事格羅西：我們正在密切關注伊朗布什爾核電站的情況，並敦促各方保持克制。"
-    },
-    {
-      "id": "mkt:019f4bf5-3dbd-7aab-8d32-66e0a11a8ff4",
-      "time": "2026-07-10 20:16:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "IAEA Director-General Grossi said the agency is monitoring the situation at Iran's Bushehr nuclear power plant and called on all parties to exercise restraint."
-    },
-    {
-      "id": "4981296",
-      "time": "2026-07-10 20:16:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯國家原子能公司負責人：國際原子能機構報告未能充分反映扎波羅熱核電站面臨的安全威脅】俄羅斯國家原子能公司（Rosatom）總經理解放前列克謝·利哈喬夫（Alexey Likhachev）當地時間10日表示，國際原子能機構（IAEA）定期釋出的官方報告未能充分反映扎波羅熱核電站所面臨的客觀實際情況，特別是針對該核電站的安全威脅未能在報告中得到完整體現。利哈喬夫是在當日與國際原子能機構總幹事拉斐爾·格羅西（Rafael Grossi）結束磋商後，接受媒體採訪時作出的上述表態。他強調，俄方認為該機構目前的報告內容並不全面，無法完全展現核電站面臨的真實安全挑戰。"
-    },
-    {
-      "id": "4981295",
-      "time": "2026-07-10 20:15:25",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【*ST英飛：擬掛牌轉讓全資子公司印度英飛拓100%股權】*ST英飛公告，公司擬在淘寶網資產競價網路平臺公開掛牌轉讓透過全資子公司英飛拓國際和英飛拓環球持有的印度英飛拓100%股權。掛牌交易底價為155萬元。截至2026年6月30日，印度英飛拓欠公司全資子公司英飛拓智慧貨款301萬美金，摺合人民幣約2050萬元，交易對方需在股權過戶前提供足額借款用於償還。本次交易尚需履行公開掛牌程式，尚未確定交易對方，無法確定是否構成關聯交易。本次交易不構成重大資產重組，公開掛牌轉讓能否成功摘牌存在不確定性。"
-    },
-    {
-      "id": "4981294",
-      "time": "2026-07-10 20:15:07",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "捷克央行副行長：通脹率在年底年初時很有可能超過3%。"
-    },
-    {
-      "id": "4981293",
-      "time": "2026-07-10 20:14:55",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨轉為上漲。"
-    },
-    {
-      "id": "mkt:019f4bf3-59a6-7aab-8d32-59195a84cbac",
-      "time": "2026-07-10 20:14:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Refinitiv, citing sources, reported that a Qatari negotiating delegation has arrived in Iran to meet Iranian officials to ease tensions and create conditions for broader, ongoing talks; the visit is being coordinated with the United States."
-    },
-    {
-      "id": "4981292",
-      "time": "2026-07-10 20:14:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "知情人士表示，會談旨在討論美伊諒解備忘錄的執行情況，以及引發近期美伊緊張局勢升級的問題，包括有關霍爾木茲海峽航行權的爭議。"
-    },
-    {
-      "id": "te:economy:566044",
-      "time": "2026-07-10 20:14:19",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Brazil Annual Inflation Eases in June — Brazil's annual inflation rate eased to 4.64% in June 2026 from 4.72% in May, below market expectations of 4.80%. Price growth slowed for food and beverages (3.82% vs. 3.87%), housing (5.85% vs. 6.22%), clothing (3.99% vs. 4.60%), transport (3.95% vs. 4.05%), and education (6.33% vs. 6.36%). Meanwhile, inflation accelerated for household articles (0.69% vs. 0.54%), health and personal care (6.21% vs. 6.04%), personal expenses (5.79% vs. 5.77%), and communication (1.83% vs. 1.75%). Energy and fuel inflation remained elevated at 7.71%, reflecting supply disruptions linked to the closure of the Strait of Hormuz during the US-Iran conflict, although it eased from 8.90% in May as geopolitical tensions showed signs of moderating. On a monthly basis, consumer prices rose 0.16%, following a 0.58% increase in May."
-    },
-    {
-      "id": "4981291",
-      "time": "2026-07-10 20:14:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：卡達談判代表已抵達伊朗，與伊朗官員會面，旨在緩和緊張局勢併為更廣泛的談判繼續推進創造條件；訊息人士向透露，相關會談是在與美方協調下進行的。"
-    },
-    {
-      "id": "mkt:019f4bf2-d597-7aab-8d32-5032f3b4dd92",
-      "time": "2026-07-10 20:13:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Russia's state nuclear corporation Rosatom said the first six employees have begun returning to Iran's Bushehr nuclear power plant."
-    },
-    {
-      "id": "mkt:019f4bf2-5829-7aab-8d32-4c5968a390c9",
-      "time": "2026-07-10 20:13:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Israel Defense Forces said over the past week it conducted more than 20 strikes in Lebanon, carried out over 10 targeted operations in Gaza, and arrested about 70 people in Judea and Samaria."
-    },
-    {
-      "id": "mkt:019f4bf2-18bd-7aab-8d32-472d7a56c405",
-      "time": "2026-07-10 20:13:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's National Flood Control and Drought Relief Headquarters elevated flood and typhoon emergency responses to Level II for Zhejiang and Fujian, and initiated a Level IV flood emergency response for Hebei and Liaoning."
     }
   ]
 }

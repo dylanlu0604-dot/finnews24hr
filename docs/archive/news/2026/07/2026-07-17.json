@@ -1,7 +1,83 @@
 {
   "date": "2026-07-17",
-  "count": 2651,
+  "count": 2661,
   "items": [
+    {
+      "id": "mkt:019f7001-72fd-7aab-8de4-065ac425c04d",
+      "time": "2026-07-17 20:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caspian Pipeline Consortium says ExxonMobil‑chartered tanker Nordic Zenith was attacked while approaching the CPC terminal in the Black Sea."
+    },
+    {
+      "id": "4994584",
+      "time": "2026-07-17 20:16:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪成為巴黎聖日耳曼官方合作伙伴】近日，比亞迪與巴黎聖日耳曼足球俱樂部（PSG）達成全球戰略合作關係，這份合作直至2029年6月。未來三個賽季，雙方將透過全球傳播活動、球迷互動等形式推進合作落地。同時，比亞迪及其高階品牌騰勢將為俱樂部日常運營提供支援。"
+    },
+    {
+      "id": "4994583",
+      "time": "2026-07-17 20:16:06",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將Cloudflare目標股價從305美元上調至322美元。"
+    },
+    {
+      "id": "4994581",
+      "time": "2026-07-17 20:15:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "裡海石油管道財團（CPC）表示，埃克森美孚租用的油輪“北歐天頂號”在駛入黑海CPC碼頭途中遇襲。"
+    },
+    {
+      "id": "4994579",
+      "time": "2026-07-17 20:15:20",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將凱悅酒店目標股價從208.00美元上調至218.00美元；將萬豪國際目標股價從353.00美元上調至380.00美元；將希爾頓其目標股價從319.00美元上調至332.00美元。"
+    },
+    {
+      "id": "4994576",
+      "time": "2026-07-17 20:15:07",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【商務部新聞發言人就美不再延續涉港國家緊急狀態答記者問】有記者問：關注到截至目前，美國未再延續7月14日到期的《香港正常化總統行政令》（第13936號）中的涉港國家緊急狀態，這是否意味著涉港行政令已經終止？中方對此有何評論？\n\n答：中方注意到有關情況。在中美馬德里經貿磋商中，美方就有關涉港、投資等問題作出承諾。近期，美方已向中方確認，第13936號行政令中的涉港國家緊急狀態今年到期後不再延續，該行政令將終止。美方有關行動是履行雙方經貿磋商共識的重要一步，中方對此表示讚賞。\n\n維護香港繁榮穩定符合中美共同利益。美方涉港政策向積極方向調整，也符合國際社會的普遍期待。希望美方恪守有關國際公約和雙方共識，尊重中國主權和香港特區法治，恢復並加強與香港特區的正常經貿往來，為構建中美建設性戰略穩定關係發揮積極作用。"
+    },
+    {
+      "id": "4994575",
+      "time": "2026-07-17 20:12:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "JSW鋼鐵高管：第一季度焦煤價格每噸上漲17美元，漲幅高於公司此前預估的每噸15美元。"
+    },
+    {
+      "id": "mkt:019f6ffe-7a3b-7aab-8de3-fdcabb130530",
+      "time": "2026-07-17 20:12:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Unisoc, China Unicom push commercial rollout of AI+eSIM】At an AI+eSIM forum co‑hosted by China Unicom and GSMA, Unisoc and China Unicom said they are promoting commercial deployment of AI+eSIM solutions and launched two Unisoc‑powered terminals. China Unicom’s VE202 international eSIM portable Wi‑Fi is built on the Unisoc V8310 chip and targets global roaming users. A second high‑uplink portable Wi‑Fi model using the Unisoc V620 platform supports 5G dual‑carrier and 3TX uplink technology, with NR peak rates up to 3.27Gbps downlink and 1.25Gbps uplink."
+    },
+    {
+      "id": "4994574",
+      "time": "2026-07-17 20:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示：目前並未討論瑟爾斯基辭職一事。"
+    },
     {
       "id": "mkt:019f6ffd-b028-7aab-8de3-f7358a473442",
       "time": "2026-07-17 20:12:04",
@@ -18,6 +94,14 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：攻擊平民和非民用基礎設施將付出極其沉重和毀滅性的代價；我們的有效精準打擊將持續至局勢恢復平靜。"
+    },
+    {
+      "id": "4994572",
+      "time": "2026-07-17 20:11:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【紫光展銳攜手中國聯通 推動“AI+eSIM”方案商用落地】近日，由中國聯通與GSMA聯合舉辦的“AI+eSIM中國方案主題沙龍”活動正式舉行。本次活動上，紫光展銳攜手中國聯通釋出了兩款搭載展銳芯的終端新品，一款是中國聯通隨身Wi-Fi國際eSIM版本VE202，搭載紫光展銳V8310晶片，面向全球漫遊使用者提供便捷高效的網路接入體驗；另一款是通則康威隨身Wi-Fi大上行版，搭載紫光展銳V620晶片平臺，支援5G雙載波和上行3TX技術，NR峰值速率可達下行3.27Gbps、上行1.25Gbps。當前，eSIM已邁入試商用階段，2026年也被視為AI全鏈路應用規模化爆發的關鍵之年。在這一背景下，AI技術與eSIM能力的融合正逐步從概念走向產品化，終端形態和應用場景不斷拓展。"
     },
     {
       "id": "4994571",
