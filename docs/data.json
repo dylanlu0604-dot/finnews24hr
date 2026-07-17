@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-18 02:07:49",
-  "count": 18925,
+  "updated": "2026-07-18 02:11:45",
+  "count": 18918,
   "items": [
+    {
+      "id": "mkt:019f7146-81f1-7aab-8dea-00538b164a21",
+      "time": "2026-07-18 02:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Congress announced a short-term continuing resolution extending federal government funding through Dec. 4."
+    },
+    {
+      "id": "4994989",
+      "time": "2026-07-18 02:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會兩院撥款法案正式公佈，將聯邦政府資金授權延期至 12 月 4 日。"
+    },
     {
       "id": "4994988",
       "time": "2026-07-18 02:06:18",
@@ -174436,89 +174452,6 @@
         "國際"
       ],
       "text": "美國將多家伊朗本土交易所列入制裁名單。"
-    },
-    {
-      "id": "4981839",
-      "time": "2026-07-11 02:11:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外長菲丹表示，計劃聯合地區各國政府，向以方傳達立場：請摒棄那種依靠他國動盪與分裂換取自身安全的策略。應當轉變這種思路。地區其他國家一旦實現穩定與安全，對以色列自身同樣有益。"
-    },
-    {
-      "id": "4981838",
-      "time": "2026-07-11 02:10:47",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：發放涉伊朗通用許可。"
-    },
-    {
-      "id": "4981837",
-      "time": "2026-07-11 02:10:40",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：釋出涉伊朗及反恐相關制裁指定清單。"
-    },
-    {
-      "id": "4981836",
-      "time": "2026-07-11 02:10:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "土耳其外長菲丹：敘利亞面臨一大風險，那就是以色列的各項政策。以色列正試圖破壞敘利亞的穩定，這是我們不願看到的局面。"
-    },
-    {
-      "id": "mkt:019f4d38-db74-7aab-8d38-a3c6443738d0",
-      "time": "2026-07-11 02:09:59",
-      "tags": [
-        "MKT News",
-        "000660.KS"
-      ],
-      "text": "SK Hynix CEO Guo Luzheng said the U.S. has not yet decided on the shortlist of candidate sites for future wafer fabs."
-    },
-    {
-      "id": "4981835",
-      "time": "2026-07-11 02:09:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗西部一座煉油廠發生大火】總檯記者當地時間10日獲悉，當天17時許，位於伊朗西部洛雷斯坦省波勒多赫塔爾（Pol-e Dokhtar）的一座小型煉油廠發生大火，現場升起滾滾濃煙。由於現場存放大量易燃物質，火勢兇猛，火災發生後不久便給滅火工作帶來極大困難。在最初幾個小時內，救援人員無法接近火場核心區域。目前，消防人員和應急救援隊仍在現場展開處置，滅火工作正持續進行。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f4d38-07a4-7aab-8d38-9c6bf54730d0",
-      "time": "2026-07-11 02:09:05",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix CEO Guo Luzheng said he expects customer demand to exceed supply capacity after 2030."
-    },
-    {
-      "id": "4981834",
-      "time": "2026-07-11 02:08:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：必和必拓擬出售其位於智利的海水淡化廠與輸電線路。"
-    },
-    {
-      "id": "mkt:019f4d37-78ed-7aab-8d38-94565ce9c788",
-      "time": "2026-07-11 02:08:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "SK Hynix CEO Guo Luzheng said supply-side dynamics will make 2027 the worst year of the memory shortage cycle."
     }
   ]
 }

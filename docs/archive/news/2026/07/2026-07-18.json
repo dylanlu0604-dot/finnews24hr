@@ -1,7 +1,23 @@
 {
   "date": "2026-07-18",
-  "count": 85,
+  "count": 87,
   "items": [
+    {
+      "id": "mkt:019f7146-81f1-7aab-8dea-00538b164a21",
+      "time": "2026-07-18 02:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Congress announced a short-term continuing resolution extending federal government funding through Dec. 4."
+    },
+    {
+      "id": "4994989",
+      "time": "2026-07-18 02:08:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國會兩院撥款法案正式公佈，將聯邦政府資金授權延期至 12 月 4 日。"
+    },
     {
       "id": "4994988",
       "time": "2026-07-18 02:06:18",
