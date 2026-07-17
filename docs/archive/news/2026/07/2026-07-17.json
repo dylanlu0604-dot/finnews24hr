@@ -1,7 +1,35 @@
 {
   "date": "2026-07-17",
-  "count": 672,
+  "count": 675,
   "items": [
+    {
+      "id": "4993137",
+      "time": "2026-07-17 08:41:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報55.59美元/盎司。"
+    },
+    {
+      "id": "te:markets:567674",
+      "time": "2026-07-17 08:40:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Advantest Stock Price Hits 5-week Low — Advantest shares decreased to 27530.00 JPY, the lowest since June 2026. Over the past 4 weeks, Advantest lost 8.76%, and in the last 12 months, it increased 147.16%."
+    },
+    {
+      "id": "4993136",
+      "time": "2026-07-17 08:38:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "【尼加拉瓜宣佈與義大利斷絕外交關係】尼加拉瓜外交部16日發表宣告，宣佈與義大利斷絕外交關係，理由是義大利副總理兼外長塔亞尼近日發表針對尼加拉瓜政府的言論“毫無根據、攻擊性強、不負責任”。尼外交部在宣告中說，塔亞尼的有關言論“侮辱了尼加拉瓜人民和政府”，違背國家和人民之間相互尊重的原則。目前，義大利政府尚未就此作出正式回應。（新華社）"
+    },
     {
       "id": "mkt:019f6d81-a3c8-7aab-8dd3-d36bb9606812",
       "time": "2026-07-17 08:37:20",
