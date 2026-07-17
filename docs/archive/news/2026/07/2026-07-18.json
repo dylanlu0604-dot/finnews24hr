@@ -1,7 +1,20 @@
 {
   "date": "2026-07-18",
-  "count": 113,
+  "count": 114,
   "items": [
+    {
+      "id": "mkt:019f7162-ea36-7aab-8dea-6e36325ee82f",
+      "time": "2026-07-18 02:42:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【US oil rigs rise for 12th straight week】Baker Hughes said on Friday U.S. energy firms added rigs for a fifth consecutive week, the longest run since early June, pushing the total to its highest level since April 2025. U.S. oil rigs increased by 7 to 452, marking a 12th straight weekly rise — the longest streak since January 2022."
+    },
     {
       "id": "mkt:019f715d-382b-7aab-8dea-602be7498181",
       "time": "2026-07-18 02:36:02",
