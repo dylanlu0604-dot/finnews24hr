@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-17 15:12:01",
-  "count": 19059,
+  "updated": "2026-07-17 15:16:05",
+  "count": 19063,
   "items": [
+    {
+      "id": "4993794",
+      "time": "2026-07-17 15:15:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首個千億引數級！“風和”模型全球開源計劃啟動】7月17日，在2026世界人工智慧大會（WAIC）氣象專會上，中國氣象局釋出人工智慧氣象服務系統“風和”大語言模型，並啟動“風和”全球開源計劃。（央視新聞）"
+    },
+    {
+      "id": "4993793",
+      "time": "2026-07-17 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.24%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "te:markets:567793",
+      "time": "2026-07-17 15:14:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Ends 6.5% Lower on Tech Selloff — The TAIEX, Taiwan’s benchmark stock index, plunged 2,954 points, or 6.5%, to close at 42,671 on Friday, after being almost flat in the previous session, tracking a decline on Wall Street overnight amid a sharp selloff in semiconductor stocks. The broader index hit its lowest level since May 22, mainly weighed down by electronic technology stocks, which plunged 7.5%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, slumped 7.3%, as strong results failed to meet investors' lofty expectations, stoking worries over heavy spending and a weaker outlook for profitability. MediaTek and Delta Electronics plunged 8.9% and 8.7%, respectively, while ASE Technology and United Microelectronics each slumped 10.0%. For the week, the index fell 5.9%, posting its second consecutive weekly loss amid a global tech stock selloff."
+    },
+    {
+      "id": "te:economy:567792",
+      "time": "2026-07-17 15:14:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Moldova Producer Prices Fall for Second Month — Producer prices in Moldova fell 0.4% year-on-year in June 2026, following a 0.1% drop in the previous month. This marked the second consecutive month of contraction and the lowest reading since December 2024. Price growth moderated in the manufacturing sector (0.6% vs 0.9% in May), driven largely by slower increases in the prices of food products (1.9% vs 2.2%), beverages (1.7% vs 1.8%), rubber and plastic products (0.7% vs 3.4%), and furniture (0.5% vs 0.6%). Additionally, prices for electricity, gas, steam, and air-conditioning supply declined by 12.8%, matching the pace recorded in the previous two months. In contrast, costs increased in mining and quarrying (6.8% vs 6.5%). On a monthly basis, producer prices rose 0.1% in June, easing from a 0.4% increase in each of the previous two months."
+    },
+    {
+      "id": "4993792",
+      "time": "2026-07-17 15:14:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尊界MPV車型訂單突破1萬臺】7月17日，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東宣佈，尊界V800、尊界V680兩款MPV車型開啟預售23天，訂單突破1萬臺，其中尊界V800佔比約80%。"
+    },
+    {
+      "id": "mkt:019f6eec-677f-7aab-8ddd-dd46c15a51e8",
+      "time": "2026-07-17 15:13:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to HKEX filings, Zhongji Xuchuang Co., Ltd. has passed its HKEX listing hearing."
+    },
+    {
+      "id": "4993791",
+      "time": "2026-07-17 15:13:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%，至6167.90美元。"
+    },
+    {
+      "id": "mkt:019f6eeb-9c15-7aab-8ddd-d2b59406a24a",
+      "time": "2026-07-17 15:12:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-Thailand joint laboratory for AI meteorological disaster forecasting and early warning launched】At the meteorology session of the 2026 World Artificial Intelligence Conference, the China Meteorological Administration announced the launch of a China–Thailand Joint Laboratory for AI meteorological disaster forecasting and early warning, the first bilateral international lab in meteorological AI. The lab will develop subseasonal-to-seasonal intelligent early-warning technologies for typhoons, heavy rainfall, heat and drought, build an international demonstration platform to support the UN Early Warnings for All initiative, and use the \"Mazu\" meteorological intelligent warning system as a technology- and talent-sharing hub for Southeast Asia and Belt and Road partner countries."
+    },
+    {
+      "id": "mkt:019f6eeb-9b43-7aab-8ddd-cc642ac0ec47",
+      "time": "2026-07-17 15:12:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【Strategists Turn More Bullish on European Stocks; UBS Sees STOXX Europe 600 Up 8% by Year-end】A July survey of 18 strategists shows rising optimism on European equities as earnings revisions support upside. UBS was most bullish, projecting the STOXX Europe 600 to climb about 8% by year-end. BofA, Deutsche Bank and Kepler Cheuvreux also raised targets. The surveyed strategists’ average expects the index at 647 by end-2026 — under 1% above current levels — but bearish views have narrowed: only five respondents expect a decline. UBS strategist Gerry Fowler said upside risks now outweigh downside risks. CITIGROUP’s head of European equity strategy Beata Manthey said she remains constructive over the next 12 months and is encouraged by the magnitude, breadth and timing of recent upward revisions to corporate earnings."
+    },
+    {
+      "id": "4993790",
+      "time": "2026-07-17 15:12:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中際旭創股份有限公司透過港交所上市聆訊】據港交所檔案：中際旭創股份有限公司透過港交所上市聆訊。"
+    },
     {
       "id": "4993789",
       "time": "2026-07-17 15:10:50",
@@ -175327,62 +175423,6 @@
         "Importance 1"
       ],
       "text": "The Shangai Composite Index Closes 0.97% Lower — The Shangai Composite Index fell 39 points or 0.97 percent on Friday to close at 3997 points. Leading the losses are China Merchants Securities (-5.24%), Bank Of Beijing (-4.31%) and Sanan Optoelectron (-3.20%). Top gainers were Aisino (4.89%), BAIC BluePark (4.31%) and Yonghui Superstore (3.92%)."
-    },
-    {
-      "id": "4980525",
-      "time": "2026-07-10 15:15:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：菲方不要以所謂“裁決”給“南海行為準則”的達成製造障礙】7月10日，外交部發言人毛寧主持例行記者會。有外媒記者提問，本週末是海牙常設仲裁法院就南海仲裁案作出裁決10週年。該裁決認定，中國在南海提出的海洋權益主張不符合國際法。菲律賓今天表示，將繼續推動達成“南海行為準則”，並以仲裁裁決作為不可動搖的基礎。中方對此有何評論？毛寧表示，中方已經多次闡明所謂“裁決”非法無效，沒有拘束力，中國不接受、不承認，我們也不會接受任何基於該裁決的主張。她強調，制定“南海行為準則”是落實《南海各方行為宣言》的重要舉措，也是中國和東盟國家的重要共識。中國始終致力於同東盟國家加快推進磋商，爭取早日達成準則，共同維護南海和平穩定。所謂“裁決”與準則毫無關係，菲方不要以所謂“裁決”給準則的達成製造障礙。"
-    },
-    {
-      "id": "4980524",
-      "time": "2026-07-10 15:15:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【2家銀行近百億轉債即將到期】7月以來，銀行板塊一度反彈超2%，但9日伴隨半導體板塊全線爆發，銀行板塊再度回落，10日中證銀行指數低開後低位震盪，個股表現分化。如果從2025年7月8日高點算起，中證銀行指數已經累計跌去近20%。這一年間，A股僅5家銀行股價上漲，10家跌幅超過20%，浦發銀行（600000.SH）、民生銀行（600016.SH）跌幅超過30%。這讓僅存的幾隻銀行可轉債再度陷入轉股困境。目前存續的6只銀行轉債中，紫銀轉債、青農轉債距離最後轉股時間分別不足半個月、一個半月，合計金額近百億元。其餘4只銀行轉債也將在2028年9月底前全部到期，目前轉股率普遍較低。當前，紫金銀行（601860.SH）、青農商行（002958.SZ）正股價均大幅低於轉股價，持有人轉股動力不足。在受訪人士看來，如果股價表現短期難有明顯起色，後續兌付壓力值得關注。與此同時，由於可轉債轉股補充資本的作用得不到有效發揮，後續還要考慮拓展資本補充渠道的問題。目前來看，受到估值與政策等約束，銀行資本市場再融資依然困難。（第一財經）"
-    },
-    {
-      "id": "4980523",
-      "time": "2026-07-10 15:15:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長虹與兆易創新成立聯合實驗室 雙方在家電核心晶片國產化落地等取得實質成果】7月10日，四川長虹控股集團官微訊息，長虹與兆易創新聯合實驗室已舉行揭牌儀式，雙方聯合研發的GD531晶片應用解決方案配套家用空調整機同步成功下線，標誌著雙方在家電核心晶片國產化落地、家電智慧化升級領域取得標誌性實質成果。未來，雙方將依託實驗室專業平臺，重點推進三大核心工作：一是推進MCU晶片、儲存產品、模擬器件等核心半導體器件在家電終端的場景化適配與最佳化應用；二是構建“研發-測試-迭代-量產”全鏈條創新閉環，全面提升技術轉化效率與產品穩定性；三是緊扣產業發展需求，培育晶片研發、家電智慧控制、系統整合等領域複合型技術人才。"
-    },
-    {
-      "id": "4980522",
-      "time": "2026-07-10 15:15:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【全球南方工業化發展空間遭“中國擠壓”？外交部：中國和全球南方國家始終是同行者】7月10日，外交部發言人毛寧主持例行記者會。澎湃新聞記者提問，我們注意到，近期一些國際媒體刊文提出“中國擠壓”概念，認為中國的製造業能力不僅衝擊西方國家，還擠佔了全球南方國家的工業化發展空間。請問發言人對此有何評論？毛寧表示，所謂“中國擠壓”顯然不符合事實，我想全球南方國家也不會認同這種說法。作為全球南方大家庭的一員，中國始終毫無保留地分享經驗，幫助全球南方國家發展；透過富有成效的基礎設施投資和技術合作，幫助南方國家提升自主發展能力；透過開放市場，助力南方國家擴大優質產品的對華出口，以貿易收益反哺產業發展；透過普惠可及的綠色產品，幫助南方國家最佳化資源配置，加快產業轉型升級。“在攜手實現現代化的道路上，中國和全球南方國家始終是同行者。大國之大在於立天下，中國將繼續以自身的發展為世界提供機遇，實現共同繁榮。”毛寧說。"
-    },
-    {
-      "id": "te:economy:565940",
-      "time": "2026-07-10 15:13:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Czech Republic Inflation Confirmed at 4-Month Low — The annual inflation rate in the Czech Republic rose to 1.5% in June 2026, confirming initial estimates and slowing from 2.1% in the previous month. This marked the lowest reading since February, driven largely by declines in prices for food and non-alcoholic beverages (-3.4% vs -1.9% in May) and clothing and footwear (-2.7% vs -2.5%). At the same time, inflation softened for transport (5.7% vs 9.4%), information and communication (1.9% vs 2.5%), and recreation, sport and culture (2.7% vs 3%). In contrast, costs increased at a faster pace for alcoholic beverages and tobacco (4.3% vs 3.7%), furnishings, household equipment and routine maintenance (1.3% vs 1.1%), and health (3.4% vs 2.8%), while inflation remained steady for housing and utilities (at 1.3%). On a monthly basis, consumer prices fell by 0.3% in June, marking the first decline in four months and reversing a 0.1% gain in the preceding period."
-    },
-    {
-      "id": "te:economy:565939",
-      "time": "2026-07-10 15:12:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Turkey",
-        "Industrial Production",
-        "Importance 2"
-      ],
-      "text": "Turkey Industrial Output Stalls in May — Industrial production in Turkey was unchanged year-on-year in May 2026, following a marginally revised 6.1% increase in the previous month, which marked the strongest annual growth since August 2025. Manufacturing output, the largest component, slowed sharply (0.3% vs 6.9% in April), weighed down by weaker production of tobacco products, wearing apparel, leather and related products, printing, and coke and refined petroleum products. Also, growth in electricity, gas, steam, and air-conditioning supply eased (1.0% vs 1.8%). Meanwhile, the decline in mining and quarrying activity deepened (-5.0% vs- 2.8%), weighing on overall industrial performance. On a monthly basis, industrial production fell 2.9%, reversing a marginally revised 3.8% gain in April, suggesting momentum softened after the previous month's strong rebound."
     }
   ]
 }

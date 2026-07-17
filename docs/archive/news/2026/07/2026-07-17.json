@@ -1,7 +1,103 @@
 {
   "date": "2026-07-17",
-  "count": 1643,
+  "count": 1653,
   "items": [
+    {
+      "id": "4993794",
+      "time": "2026-07-17 15:15:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首個千億引數級！“風和”模型全球開源計劃啟動】7月17日，在2026世界人工智慧大會（WAIC）氣象專會上，中國氣象局釋出人工智慧氣象服務系統“風和”大語言模型，並啟動“風和”全球開源計劃。（央視新聞）"
+    },
+    {
+      "id": "4993793",
+      "time": "2026-07-17 15:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.24%， 10年期主力合約漲0.04%， 5年期主力合約漲0.02%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "te:markets:567793",
+      "time": "2026-07-17 15:14:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Ends 6.5% Lower on Tech Selloff — The TAIEX, Taiwan’s benchmark stock index, plunged 2,954 points, or 6.5%, to close at 42,671 on Friday, after being almost flat in the previous session, tracking a decline on Wall Street overnight amid a sharp selloff in semiconductor stocks. The broader index hit its lowest level since May 22, mainly weighed down by electronic technology stocks, which plunged 7.5%. TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, slumped 7.3%, as strong results failed to meet investors' lofty expectations, stoking worries over heavy spending and a weaker outlook for profitability. MediaTek and Delta Electronics plunged 8.9% and 8.7%, respectively, while ASE Technology and United Microelectronics each slumped 10.0%. For the week, the index fell 5.9%, posting its second consecutive weekly loss amid a global tech stock selloff."
+    },
+    {
+      "id": "te:economy:567792",
+      "time": "2026-07-17 15:14:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Moldova",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Moldova Producer Prices Fall for Second Month — Producer prices in Moldova fell 0.4% year-on-year in June 2026, following a 0.1% drop in the previous month. This marked the second consecutive month of contraction and the lowest reading since December 2024. Price growth moderated in the manufacturing sector (0.6% vs 0.9% in May), driven largely by slower increases in the prices of food products (1.9% vs 2.2%), beverages (1.7% vs 1.8%), rubber and plastic products (0.7% vs 3.4%), and furniture (0.5% vs 0.6%). Additionally, prices for electricity, gas, steam, and air-conditioning supply declined by 12.8%, matching the pace recorded in the previous two months. In contrast, costs increased in mining and quarrying (6.8% vs 6.5%). On a monthly basis, producer prices rose 0.1% in June, easing from a 0.4% increase in each of the previous two months."
+    },
+    {
+      "id": "4993792",
+      "time": "2026-07-17 15:14:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尊界MPV車型訂單突破1萬臺】7月17日，華為常務董事、產品投資評審委員會主任、終端BG董事長餘承東宣佈，尊界V800、尊界V680兩款MPV車型開啟預售23天，訂單突破1萬臺，其中尊界V800佔比約80%。"
+    },
+    {
+      "id": "mkt:019f6eec-677f-7aab-8ddd-dd46c15a51e8",
+      "time": "2026-07-17 15:13:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "According to HKEX filings, Zhongji Xuchuang Co., Ltd. has passed its HKEX listing hearing."
+    },
+    {
+      "id": "4993791",
+      "time": "2026-07-17 15:13:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市基準指數上漲1%，至6167.90美元。"
+    },
+    {
+      "id": "mkt:019f6eeb-9c15-7aab-8ddd-d2b59406a24a",
+      "time": "2026-07-17 15:12:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China-Thailand joint laboratory for AI meteorological disaster forecasting and early warning launched】At the meteorology session of the 2026 World Artificial Intelligence Conference, the China Meteorological Administration announced the launch of a China–Thailand Joint Laboratory for AI meteorological disaster forecasting and early warning, the first bilateral international lab in meteorological AI. The lab will develop subseasonal-to-seasonal intelligent early-warning technologies for typhoons, heavy rainfall, heat and drought, build an international demonstration platform to support the UN Early Warnings for All initiative, and use the \"Mazu\" meteorological intelligent warning system as a technology- and talent-sharing hub for Southeast Asia and Belt and Road partner countries."
+    },
+    {
+      "id": "mkt:019f6eeb-9b43-7aab-8ddd-cc642ac0ec47",
+      "time": "2026-07-17 15:12:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "【Strategists Turn More Bullish on European Stocks; UBS Sees STOXX Europe 600 Up 8% by Year-end】A July survey of 18 strategists shows rising optimism on European equities as earnings revisions support upside. UBS was most bullish, projecting the STOXX Europe 600 to climb about 8% by year-end. BofA, Deutsche Bank and Kepler Cheuvreux also raised targets. The surveyed strategists’ average expects the index at 647 by end-2026 — under 1% above current levels — but bearish views have narrowed: only five respondents expect a decline. UBS strategist Gerry Fowler said upside risks now outweigh downside risks. CITIGROUP’s head of European equity strategy Beata Manthey said she remains constructive over the next 12 months and is encouraged by the magnitude, breadth and timing of recent upward revisions to corporate earnings."
+    },
+    {
+      "id": "4993790",
+      "time": "2026-07-17 15:12:05",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【中際旭創股份有限公司透過港交所上市聆訊】據港交所檔案：中際旭創股份有限公司透過港交所上市聆訊。"
+    },
     {
       "id": "4993789",
       "time": "2026-07-17 15:10:50",
