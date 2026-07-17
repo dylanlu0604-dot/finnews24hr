@@ -1,7 +1,49 @@
 {
   "date": "2026-07-17",
-  "count": 3185,
+  "count": 3190,
   "items": [
+    {
+      "id": "mkt:019f70c5-ff20-7aab-8de8-c1a58cc9cf40",
+      "time": "2026-07-17 23:50:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【LS Power: U.S. power market largely insulated from Iran-related oil-price spike】LS Power LLC CEO Paul Siegel said on Friday the U.S. power market is largely insulated from oil-price spikes tied to a war with Iran because oil is no longer a primary fuel for power generation and the system now relies mainly on natural gas. Ample U.S. shale output has kept gas prices relatively stable year-to-date. \"The grid needs a mix of generation technologies,\" Siegel said; LS Power is developing solar, battery storage and new gas-fired plants."
+    },
+    {
+      "id": "4994947",
+      "time": "2026-07-17 23:48:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "農業諮詢機構 Safras：巴西 2026/27 年度玉米總產量預估 1.4496 億噸，上一產季產量為 1.4037 億噸。"
+    },
+    {
+      "id": "4994946",
+      "time": "2026-07-17 23:47:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【農業農村部組織開展強田管抗災害奪秋糧豐收行動】記者17日從農業農村部獲悉，農業農村部決定組織實施奮戰100天強田管抗災害奪秋糧豐收行動，全力以赴奪取秋糧和全年糧食豐收。當前，全國進入“七下八上”主汛期，是農業災害高發期，也是秋糧產量形成關鍵期。據氣象部門預測，全國主汛期氣溫偏高、旱澇並重，登陸颱風數量偏多、強度偏大，區域性和階段性旱澇災害明顯。同時，秋糧病蟲害呈偏重發生態勢，奪取秋糧豐收面臨風險挑戰。據介紹，農業農村部將聚焦重點作物、重點區域、重大災情，組織工作組和科技小分隊下沉一線，開展巡迴指導、技術培訓、觀摩交流等活動，分作物分割槽域分環節落實科學施肥、節水灌溉、葉面噴施等田間管理和單產提升措施；緊盯暴雨洪澇、高溫熱害、乾旱、颱風等重大災害，指導落實清溝理墒、化控防倒、一噴多促等防災減災措施；突出水稻“兩遷”害蟲和稻瘟病、玉米螟和南方鏽病、大豆食心蟲和根腐病等重大病蟲害，開展統防統治、聯防聯控、應急防控，最大程度減輕災害損失。（新華社）"
+    },
+    {
+      "id": "4994945",
+      "time": "2026-07-17 23:47:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "洲際交易所原糖期貨（SBC1）上漲 3%，報每磅 14.88 美分。"
+    },
+    {
+      "id": "4994944",
+      "time": "2026-07-17 23:47:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲1%，現報4017.13美元/盎司。"
+    },
     {
       "id": "mkt:019f70c2-a03f-7aab-8de8-bb08bbb2b27a",
       "time": "2026-07-17 23:47:10",
