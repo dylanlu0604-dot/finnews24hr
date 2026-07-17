@@ -1,7 +1,170 @@
 {
   "date": "2026-07-17",
-  "count": 704,
+  "count": 721,
   "items": [
+    {
+      "id": "mkt:019f6d98-1e98-7aab-8dd4-4fb5d9499129",
+      "time": "2026-07-17 09:01:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened 0.32% lower."
+    },
+    {
+      "id": "mkt:019f6d98-19d1-7aab-8dd4-43250977a5ea",
+      "time": "2026-07-17 09:01:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.09% in early trade on July 17 to 870.12 yuan/gram; silver T+D dropped 2.67% to 13,540.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f6d98-0ae9-7aab-8dd4-3bb2cfdd315d",
+      "time": "2026-07-17 09:01:48",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "【Hyundai Motor union extends strikes to 4 hours; wage talks risk protracted standoff】The Hyundai Motor branch of the Korean Metalworkers' Union said it will extend daily strike action from 2 to 4 hours and conduct three consecutive days of 4‑hour strikes from July 20-22 after a July 16 meeting. Formal wage talks have been deadlocked for more than a week; informal working‑level contacts have not produced substantive progress. The union's principal demands are higher base pay, raising bonus payouts from 750% to 800%, reinstatement of dismissed union members and raising the retirement age; the union said it would suspend strikes if formal negotiations restart. If differences are not narrowed next week, this year's wage and collective bargaining round may become a prolonged dispute."
+    },
+    {
+      "id": "4993168",
+      "time": "2026-07-17 09:01:48",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一。鈀跌近4％，滬銀跌超3％，鉑、純鹼跌超2％。漲幅方面，碳酸鋰漲超2％，滬鉛、液化石油氣（LPG）漲超1％。"
+    },
+    {
+      "id": "mkt:019f6d97-d635-7aab-8dd4-37c9d23a35ca",
+      "time": "2026-07-17 09:01:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bearish"
+      ],
+      "text": "TSMC shares opened down more than 3% despite Q2 results beating expectations; its U.S. ADRs closed lower overnight."
+    },
+    {
+      "id": "mkt:019f6d97-97f6-7aab-8dd4-28b8f73f127b",
+      "time": "2026-07-17 09:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened down 1,455.69 points, or 3.19%, at 44,169.29 on Friday, July 17."
+    },
+    {
+      "id": "4993166",
+      "time": "2026-07-17 09:01:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1.3%至264.97點。"
+    },
+    {
+      "id": "4993165",
+      "time": "2026-07-17 09:00:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電臺灣上市股票開盤下跌3.8%，此前公佈第二季業績。"
+    },
+    {
+      "id": "te:markets:567679",
+      "time": "2026-07-17 09:00:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Set for Second Weekly Decline — Australian stocks slipped 57 points or 0.7% to 8,783 on Friday morning deals following a subdued session the day before, with overnight weakness on Wall Street as the U.S.–Iran conflict weighed on sentiment. Locally, investors turned cautious ahead of June labor data due next week, following May’s strongest jobs growth in five months but with unemployment still hovering near a four-year high. Losses were partly contained by hopes that main trading partner China may unveil fresh support measures at the late-July Politburo meeting to counter sluggish Q2 GDP growth, Australia's largest trading partner. Electronic technology, non-energy minerals, and producer manufacturing led the weakness, partly offset by gains in energy minerals, retail trade, and process industries. Heavyweights BHP Group fell 2.6%, alongside Northern Star Resources (-3.7%), Evolution Mining (-4.4%), and South32 Ltd (-3.2%). For the week, the market is tracking a 0.2% loss, extending the prior period’s drop."
+    },
+    {
+      "id": "mkt:019f6d96-b6a4-7aab-8dd4-26dc652ba2cd",
+      "time": "2026-07-17 09:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "At the open, China front-month main futures were mixed. Palladium fell about 4%; Shanghai silver dropped over 3%. Platinum and soda ash declined more than 2%. Lithium carbonate rose over 2%; Shanghai lead and LPG gained more than 1%."
+    },
+    {
+      "id": "4993164",
+      "time": "2026-07-17 09:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌2.7%至44,383.56點。"
+    },
+    {
+      "id": "4993163",
+      "time": "2026-07-17 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.9%報45,234.08。"
+    },
+    {
+      "id": "4993162",
+      "time": "2026-07-17 09:00:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人等在江蘇成立科技新公司】近日，昂晟科技（江蘇）有限公司成立，經營範圍包含：智慧機器人銷售；工業機器人銷售；服務消費機器人銷售；智慧機器人的研發；人工智慧硬體銷售；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司等共同持股。"
+    },
+    {
+      "id": "4993161",
+      "time": "2026-07-17 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報13619.00元。"
+    },
+    {
+      "id": "4993160",
+      "time": "2026-07-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.43%。"
+    },
+    {
+      "id": "4993159",
+      "time": "2026-07-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鈀連續跌3.28%，鉑連續跌3.06%，白銀連續跌3.05%，碳酸鋰連續漲2.49%，純鹼連續跌2.02%。"
+    },
+    {
+      "id": "4993158",
+      "time": "2026-07-17 08:59:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寬基ETF週四獲資金流入 華泰柏瑞滬深300ETF淨流入去年4月來最大】資料顯示，週四華泰柏瑞旗下的滬深300ETF獲資金流入逾62億元，為去年4月8日以來最大單日淨流入。週四滬深300指數下跌逾1.8%。上證ETF華夏週四淨流入也創去年4月來最大。科創50ETF華夏週四獲淨流入逾15億元人民幣，為連續六日資金流入。"
+    },
     {
       "id": "4993157",
       "time": "2026-07-17 08:58:58",

@@ -1,7 +1,170 @@
 {
-  "updated": "2026-07-17 08:59:37",
-  "count": 18797,
+  "updated": "2026-07-17 09:03:43",
+  "count": 18793,
   "items": [
+    {
+      "id": "mkt:019f6d98-1e98-7aab-8dd4-4fb5d9499129",
+      "time": "2026-07-17 09:01:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 index futures opened 0.32% lower."
+    },
+    {
+      "id": "mkt:019f6d98-19d1-7aab-8dd4-43250977a5ea",
+      "time": "2026-07-17 09:01:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D fell 1.09% in early trade on July 17 to 870.12 yuan/gram; silver T+D dropped 2.67% to 13,540.0 yuan/kg."
+    },
+    {
+      "id": "4993168",
+      "time": "2026-07-17 09:01:48",
+      "tags": [],
+      "text": "國內期貨主力合約漲跌不一。鈀跌近4％，滬銀跌超3％，鉑、純鹼跌超2％。漲幅方面，碳酸鋰漲超2％，滬鉛、液化石油氣（LPG）漲超1％。"
+    },
+    {
+      "id": "mkt:019f6d98-0ae9-7aab-8dd4-3bb2cfdd315d",
+      "time": "2026-07-17 09:01:48",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "【Hyundai Motor union extends strikes to 4 hours; wage talks risk protracted standoff】The Hyundai Motor branch of the Korean Metalworkers' Union said it will extend daily strike action from 2 to 4 hours and conduct three consecutive days of 4‑hour strikes from July 20-22 after a July 16 meeting. Formal wage talks have been deadlocked for more than a week; informal working‑level contacts have not produced substantive progress. The union's principal demands are higher base pay, raising bonus payouts from 750% to 800%, reinstatement of dismissed union members and raising the retirement age; the union said it would suspend strikes if formal negotiations restart. If differences are not narrowed next week, this year's wage and collective bargaining round may become a prolonged dispute."
+    },
+    {
+      "id": "mkt:019f6d97-d635-7aab-8dd4-37c9d23a35ca",
+      "time": "2026-07-17 09:01:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bearish"
+      ],
+      "text": "TSMC shares opened down more than 3% despite Q2 results beating expectations; its U.S. ADRs closed lower overnight."
+    },
+    {
+      "id": "mkt:019f6d97-97f6-7aab-8dd4-28b8f73f127b",
+      "time": "2026-07-17 09:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened down 1,455.69 points, or 3.19%, at 44,169.29 on Friday, July 17."
+    },
+    {
+      "id": "4993166",
+      "time": "2026-07-17 09:01:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數下跌1.3%至264.97點。"
+    },
+    {
+      "id": "4993165",
+      "time": "2026-07-17 09:00:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電臺灣上市股票開盤下跌3.8%，此前公佈第二季業績。"
+    },
+    {
+      "id": "te:markets:567679",
+      "time": "2026-07-17 09:00:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Equities Set for Second Weekly Decline — Australian stocks slipped 57 points or 0.7% to 8,783 on Friday morning deals following a subdued session the day before, with overnight weakness on Wall Street as the U.S.–Iran conflict weighed on sentiment. Locally, investors turned cautious ahead of June labor data due next week, following May’s strongest jobs growth in five months but with unemployment still hovering near a four-year high. Losses were partly contained by hopes that main trading partner China may unveil fresh support measures at the late-July Politburo meeting to counter sluggish Q2 GDP growth, Australia's largest trading partner. Electronic technology, non-energy minerals, and producer manufacturing led the weakness, partly offset by gains in energy minerals, retail trade, and process industries. Heavyweights BHP Group fell 2.6%, alongside Northern Star Resources (-3.7%), Evolution Mining (-4.4%), and South32 Ltd (-3.2%). For the week, the market is tracking a 0.2% loss, extending the prior period’s drop."
+    },
+    {
+      "id": "mkt:019f6d96-b6a4-7aab-8dd4-26dc652ba2cd",
+      "time": "2026-07-17 09:00:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "At the open, China front-month main futures were mixed. Palladium fell about 4%; Shanghai silver dropped over 3%. Platinum and soda ash declined more than 2%. Lithium carbonate rose over 2%; Shanghai lead and LPG gained more than 1%."
+    },
+    {
+      "id": "4993164",
+      "time": "2026-07-17 09:00:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數下跌2.7%至44,383.56點。"
+    },
+    {
+      "id": "4993163",
+      "time": "2026-07-17 09:00:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開低0.9%報45,234.08。"
+    },
+    {
+      "id": "4993162",
+      "time": "2026-07-17 09:00:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智元機器人等在江蘇成立科技新公司】近日，昂晟科技（江蘇）有限公司成立，經營範圍包含：智慧機器人銷售；工業機器人銷售；服務消費機器人銷售；智慧機器人的研發；人工智慧硬體銷售；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司等共同持股。"
+    },
+    {
+      "id": "4993161",
+      "time": "2026-07-17 09:00:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報13619.00元。"
+    },
+    {
+      "id": "4993160",
+      "time": "2026-07-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤下跌0.43%。"
+    },
+    {
+      "id": "4993159",
+      "time": "2026-07-17 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】鈀連續跌3.28%，鉑連續跌3.06%，白銀連續跌3.05%，碳酸鋰連續漲2.49%，純鹼連續跌2.02%。"
+    },
+    {
+      "id": "4993158",
+      "time": "2026-07-17 08:59:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【寬基ETF週四獲資金流入 華泰柏瑞滬深300ETF淨流入去年4月來最大】資料顯示，週四華泰柏瑞旗下的滬深300ETF獲資金流入逾62億元，為去年4月8日以來最大單日淨流入。週四滬深300指數下跌逾1.8%。上證ETF華夏週四淨流入也創去年4月來最大。科創50ETF華夏週四獲淨流入逾15億元人民幣，為連續六日資金流入。"
+    },
     {
       "id": "4993157",
       "time": "2026-07-17 08:58:58",
@@ -172768,209 +172931,6 @@
         "公司"
       ],
       "text": "【亞星錨鏈成立科技新公司，含海洋工程裝備業務】企查查APP顯示，近日，天津星揚綠航科技有限公司成立，經營範圍包含：海洋工程關鍵配套系統開發；海洋工程裝備製造；海洋工程平臺裝備製造；海洋工程裝備銷售等。企查查股權穿透顯示，該公司由亞星錨鏈全資持股。"
-    },
-    {
-      "id": "4979987",
-      "time": "2026-07-10 09:03:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：韓國和蒙古央行簽署諒解備忘錄，以擴大合作。"
-    },
-    {
-      "id": "4979986",
-      "time": "2026-07-10 09:02:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上漲超過2%，一度達到69123.63點。"
-    },
-    {
-      "id": "4979985",
-      "time": "2026-07-10 09:02:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電宣佈將月度銷售業績公佈日期推遲至7月13日。"
-    },
-    {
-      "id": "te:markets:565827",
-      "time": "2026-07-10 09:02:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Extends Losses — US gasoline futures fell to around $3.0 per gallon, extending their retreat from a one-month high of $3.10 on July 8, as continued technical talks between the US and Iran despite renewed hostilities prompted markets to reassess the supply outlook. Both sides have stopped short of all-out war, and Washington said it remains committed to finding a solution, while some provisions of their interim agreement remain in effect. Although security conditions in the Strait of Hormuz have deteriorated and tanker traffic has slowed, investors expect the waterway to remain open. Selected laden tankers from the UAE continued to load and sail, reducing fears that exports from the region could come to a standstill. The prospect of a crude supply glut amid higher OPEC+ output also weighed on prices, though concerns remained over whether global refineries have sufficient capacity to process the additional supply."
-    },
-    {
-      "id": "4979984",
-      "time": "2026-07-10 09:02:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內跌2%，現報7516.00元。"
-    },
-    {
-      "id": "4979983",
-      "time": "2026-07-10 09:02:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌2%，現報2451.00元。"
-    },
-    {
-      "id": "mkt:019f498b-8c93-7aab-8d23-d64b7fd39bea",
-      "time": "2026-07-10 09:01:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 intraday gain reached 2.00%."
-    },
-    {
-      "id": "te:markets:565826",
-      "time": "2026-07-10 09:01:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Japanese Shares Gain for Second Session — The Nikkei 225 Index climbed 1.5% to above 68,700, while the broader Topix Index advanced 0.8% to 4,052 on Friday, with Japanese shares rising for the second straight session and tracking gains on Wall Street overnight as a rally in semiconductor stocks lifted investor sentiment. Easing oil prices also supported the market by helping curb inflation concerns and reducing pressure on Japan’s import-dependent economy. Meanwhile, data showed Japan’s producer prices accelerated to their fastest pace in more than three years, reflecting persistent cost pressures stemming from the Middle East conflict. Technology stocks led the advance, with strong gains from Kioxia Holdings (5.4%), SoftBank Group (7.9%), Murata Manufacturing (5.5%), Tokyo Electron (2.2%), and Advantest (3.3%)."
-    },
-    {
-      "id": "4979982",
-      "time": "2026-07-10 09:01:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報5568.00元。"
-    },
-    {
-      "id": "mkt:019f498b-2aa6-7aab-8d23-cdd21388e60d",
-      "time": "2026-07-10 09:01:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 1.2% at the morning open to 901.7 yuan/gram on July 10; Silver T+D climbed 3.23% to 14,692.0 yuan/kg."
-    },
-    {
-      "id": "mkt:019f498b-0db9-7aab-8d23-c6e3e6795898",
-      "time": "2026-07-10 09:01:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened down 379.8 points, or 0.83%, at 45,354.61 on Friday, July 9."
-    },
-    {
-      "id": "mkt:019f498a-f6f4-7aab-8d23-bed0194c9d20",
-      "time": "2026-07-10 09:01:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 futures opened 0.38% higher."
-    },
-    {
-      "id": "4979981",
-      "time": "2026-07-10 09:00:49",
-      "tags": [],
-      "text": "國內期貨主力合約跌多漲少，SC原油跌超3％，焦煤跌近3％，純苯、焦炭跌超2％，燃料油、低硫燃料油（LU）跌近2％，聚丙烯、聚丙烯月均跌超1％。漲幅方面，滬銀漲超3％，紙漿、滬錫漲超2％，鉑、鈀、多晶矽、國際銅、滬銅、滬鋅、滬金、雞蛋漲超1％。"
-    },
-    {
-      "id": "4979980",
-      "time": "2026-07-10 09:00:30",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【日本國債在東京市場走高 追隨隔夜美國國債價格的漲勢】日本國債和美國國債往往同步波動。日本國債價格可能也受到近期原油價格下跌的提振，這可能導致日本通脹壓力降低，並緩解對日本央行快速加息的擔憂。日本20年期收益率跌7.5個基點至3.79%。10年期日本國債收益率下跌4.5個基點，至2.830%。日本40年期國債收益率下跌7個基點至3.965%。與此同時，日元兌美元漲0.2%至162.11。"
-    },
-    {
-      "id": "4979979",
-      "time": "2026-07-10 09:00:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月9日498股獲融資買入超億元 中際旭創穫買入65.08億元居首】7月9日共有3464只個股獲融資資金買入，有498股買入金額超億元。其中，中際旭創、兆易創新、京東方Ａ融資買入金額排名前三，分別獲買入65.08億元、56.04億元、34.23億元。"
-    },
-    {
-      "id": "mkt:019f498a-340f-7aab-8d23-b285c97933ca",
-      "time": "2026-07-10 09:00:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "At the morning open, China’s most-active futures were mostly lower. Shanghai crude oil (SC) slid more than 3%; coking coal fell nearly 3%; benzene and coke dropped over 2%; fuel oil and low‑sulfur fuel oil (LU) fell about 2%; polypropylene and the polypropylene monthly‑average contract declined over 1%. On the upside, Shanghai silver rose more than 3%; pulp and Shanghai tin gained over 2%; platinum, palladium, polysilicon, international copper, Shanghai copper, Shanghai zinc, Shanghai gold and eggs were up more than 1%."
-    },
-    {
-      "id": "4979978",
-      "time": "2026-07-10 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】白銀連續漲3.40%，上海原油連續跌3.10%，純苯連續跌3.02%，焦煤連續跌2.83%，紙漿連續漲2.52%。"
-    },
-    {
-      "id": "4979977",
-      "time": "2026-07-10 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報14718.00元。"
-    },
-    {
-      "id": "4979976",
-      "time": "2026-07-10 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌1%，現報5594.00元。"
-    },
-    {
-      "id": "4979975",
-      "time": "2026-07-10 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.39%。"
-    },
-    {
-      "id": "4979974",
-      "time": "2026-07-10 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內跌2%，現報3110.00元。"
     }
   ]
 }
