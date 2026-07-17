@@ -1,7 +1,157 @@
 {
   "date": "2026-07-17",
-  "count": 1529,
+  "count": 1544,
   "items": [
+    {
+      "id": "4993726",
+      "time": "2026-07-17 14:45:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時放量2608億元。"
+    },
+    {
+      "id": "mkt:019f6ed2-bb2c-7aab-8ddc-cd65f1b67742",
+      "time": "2026-07-17 14:45:31",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Goldman: Australian inflation still slightly concerning; June core likely to accelerate】Goldman Sachs chief economist Andrew Boak said Australian inflation remains slightly concerning. He expects June headline CPI to rise 0.2% m/m, keeping the YoY rate at 4.0% (RBA target ~2.5%). Boak forecasts the trimmed-mean CPI — a core measure — to rise 0.4% m/m, lifting the YoY rate by 10bps to 3.7%. Data are due July 29."
+    },
+    {
+      "id": "4993725",
+      "time": "2026-07-17 14:45:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【磐石·科學基礎大模型2.0釋出 開啟AI賦能基礎研究全新正規化】人工智慧正成為基礎科研突破的全新引擎，通用和專業能力融合的科學大模型更是重塑科研模式的核心關鍵。今天，在2026世界人工智慧大會上，由中國科學院多個研究所聯合研發的磐石·科學基礎大模型2.0正式釋出。此次釋出的磐石2.0創新性採用三層遞進技術架構，搭建起完整的科學智慧研究鏈路，可高效完成跨學科資料解析、知識推理、科學預測等核心科研工作，破解了通用模型專業性不足、領域模型通用性差的行業痛點。依託800萬條高質量科學推理資料訓練，模型形成可驗證、可追溯的科研推理體系。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6ed2-3e7d-7aab-8ddc-c68c47702e7e",
+      "time": "2026-07-17 14:44:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【East Money Securities’ Chen Guo says A‑share market entering this year's \"golden buy\" window】Chen Guo, deputy director and chief strategist at East Money Securities’ research institute, said the A‑share market is entering this year’s \"golden buy\" window and major indices could make new highs in H2. He cited five market drivers: H2 GDP growth is expected to improve; Q2 micro funding in A‑shares appears to mark a funding trough with liquidity set to ease; sentiment indicators are near lows; many non‑tech quality names are in early profit‑recovery with low valuations; and a wave of China “real‑tech” IPOs on the A‑share market in H2 could draw incremental flows and lift activity and risk appetite. He expects Chinese equities to stabilise and trend higher and prefers non‑bank financials, new and traditional energy, internet, pharmaceuticals, consumer and domestic AI/real‑tech leaders, recommending buying into pessimistic sentiment."
+    },
+    {
+      "id": "4993724",
+      "time": "2026-07-17 14:44:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浪潮計算機在臨沂成立新公司 註冊資本2000萬】天眼查App顯示，近日，浪潮（臨沂）計算機科技有限公司成立，法定代表人為於亮，註冊資本2000萬人民幣，經營範圍包括計算機軟硬體及外圍裝置製造、資訊系統整合服務、軟體開發等，由浪潮計算機科技有限公司全資持股。"
+    },
+    {
+      "id": "4993723",
+      "time": "2026-07-17 14:44:30",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【股市高槓杆下 韓國每30名成年人就有1人被追加保證金】高盛交易部門董事總經理Ioannis Blekos指出，截至7月13日，韓國市場上超過120萬個散戶的槓桿信用賬戶已觸發追加保證金通知，約32萬至36萬個賬戶已被券商強制平倉。韓國15至64歲人口約3570萬，據此估算，約每30名適齡勞動人口中就有1人收到追加保證金通知。據報道，散戶經紀賬戶保證金餘額已減少約30萬億韓元，降至今年2月20日以來的最低水平。同時，收到追加保證金通知的賬戶比例在上週五升至約5%左右，且隨著半導體板塊拋售加劇預計還將進一步上升。據悉，週四的資金流向資料顯示，外資和本土機構投資者已在撤離。週五，因法定假日，韓國股市休市。"
+    },
+    {
+      "id": "mkt:019f6ed1-5b36-7aab-8ddc-bcd532bc7a39",
+      "time": "2026-07-17 14:44:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Ukrainian President Zelenskiy said the Sumy region was struck by 15 precision-guided aerial bombs. One person was wounded and multiple residential buildings and civilian infrastructure, including a library, were damaged."
+    },
+    {
+      "id": "mkt:019f6ed1-3f5a-7aab-8ddc-b0d352b32ac2",
+      "time": "2026-07-17 14:43:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact mixed",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "【Shanghai Composite dips below 3,800 intraday; A‑shares hit by volatile selloff】On July 17 afternoon the Shanghai Composite Index briefly fell below 3,800; the ChiNext Index and Shenzhen Composite Index were down over 8% at the session low before staging a rebound, with ChiNext’s decline narrowing to about 4%. Market participants described the move as a high‑volatility episode within a slow bull rather than a structural trend reversal. Factors cited as providing support include the Shanghai Composite trading near its annual moving average, a partial reduction in margin‑finance leverage, and continued inflows into growth ETFs tracking STAR 50, ChiNext and CSI 1000."
+    },
+    {
+      "id": "4993722",
+      "time": "2026-07-17 14:43:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【業內人士：當前A股市場調整更多是慢牛中的高波動，市場當前位置具備較強支撐】7月17日午後，上證指數盤中失守3800點，創業板、深證成指一度跌超8%。隨後，三大指數觸底回升，創業板指跌幅迅速收窄至4%左右。業內人士分析，當前調整更多是慢牛過程中的一次高波動，而不是趨勢性拐點。尤其在上證指數回到年線附近、兩融槓桿已有一定去化、科創50、創業板指、中證1000等成長類ETF仍有資金流入的背景下，市場當前位置具備較強支撐。（新京報）"
+    },
+    {
+      "id": "4993721",
+      "time": "2026-07-17 14:43:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東方財富證券陳果：市場正迎來今年的黃金買點】7月17日，東方財富證券研究所副所長、首席策略官陳果點評今日市場行情稱：“我們對A股今年走勢一直是N型判斷。我們認為正在迎來今年的黃金買點，市場主要指數有望在下半年創出新高。”理由包括五方面：第一，今年下半年GDP增速預計將改善；第二，二季度A股市場微觀資金面是資金底，下半年預計將改善；第三，情緒指標顯示，最近A股市場情緒指標已接近低位水平；第四，下半年大批非科技行業優質資產處於盈利復甦初期，目前仍處估值低位；第五，下半年多家中國真科技優質公司登陸A股，有望吸引增量資金流入A股，有望提升市場活躍度和風險偏好。“預計中國股市很快將穩住陣腳，震盪上行，繼續看好非銀金融、新老能源、網際網路、醫藥、消費和國產AI鏈真科技龍頭。買在情緒悲觀時，讓我們在新高再相聚。”陳果表示。"
+    },
+    {
+      "id": "te:economy:567779",
+      "time": "2026-07-17 14:43:41",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Romania",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Romanian Industrial Output Drops by Most in Over a Year — Industrial production in Romania declined 5.3% year-on-year in May 2026, following a revised 3.0% drop in April and marking the sharpest fall since March 2025. The decline in manufacturing output deepened (-5.5% vs -4.3% in April), amid steeper declines across most subsectors, notably the manufacture of motor vehicles, trailers and semi-trailers (-15.3% vs -14.5%), fabricated metal products, except machinery and equipment (-4.3% vs 1.0%), rubber and plastic products (-4.5% vs 1.0%), chemicals and chemical products (-1.6% vs 0.1%), and furniture (-23.0% vs -16.9%). Output in mining and quarrying also contracted further (-4.8% vs -1.0%), while electricity, gas, steam and air conditioning supply fell 3.1%, reversing a 3.8% rise in the previous month. On a monthly basis, industrial output decreased 2.8%, after a revised 1.6% increase in April."
+    },
+    {
+      "id": "mkt:019f6ed1-09a1-7aab-8ddc-aba7619e3da0",
+      "time": "2026-07-17 14:43:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zelenskiy said a Russian overnight missile strike on a residential building in Odesa killed two and wounded five, including three children."
+    },
+    {
+      "id": "4993720",
+      "time": "2026-07-17 14:43:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【圖靈獎得主稱讚中國倡導AI向善】圖靈獎得主、中國科學院外籍院士約瑟夫·希發基思接受總檯專訪時表示，中國的產業根基雄厚，數字基礎設施規模龐大、型別豐富，他十分認同中國倡導人工智慧向善、推進協同發展人工智慧的理念。“這項主張意義重大，國際社會需要多方達成共識，共同轉向全新的人工智慧發展道路。”（央視新聞）"
+    },
+    {
+      "id": "mkt:019f6ed0-39ef-7aab-8ddc-a6b14b8a87fe",
+      "time": "2026-07-17 14:42:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan, South Korea volatility rises as retail margin buying surges; Morgan Asset Management flags AI valuation risk】Volatility in Japan and South Korea has risen recently as retail investors increasingly buy stocks on margin, Morgan Asset Management’s Japan equity portfolio manager Michiko Sakai said. She warned that while severely underweighting AI is risky, aggressively expanding AI exposure also carries risk. The AI rally has broadened beyond a few \"AI concept\" names into infrastructure, storage chips and components, offering more avenues for positioning. Sakai said markets are becoming more sensitive to valuation levels and the durability of corporate profits and asked: \"Should AI company valuations be anchored to near-term earnings or to long-term growth expectations?\""
+    },
+    {
+      "id": "4993719",
+      "time": "2026-07-17 14:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘑菇物聯與三菱旗下RYODEN達成戰略合作】近日，蘑菇物聯與全球工業自動化巨頭三菱電機集團旗下核心上市公司——株式會社RYODEN、菱商電子（上海）有限公司達成戰略合作。本次合作將圍繞能效領域的物理AI控制展開技術合作與市場拓展。"
+    },
     {
       "id": "mkt:019f6ecf-8115-7aab-8ddc-9e751659fbe1",
       "time": "2026-07-17 14:42:00",
