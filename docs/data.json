@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-17 14:26:51",
-  "count": 18913,
+  "updated": "2026-07-17 14:30:54",
+  "count": 18915,
   "items": [
+    {
+      "id": "te:markets:567775",
+      "time": "2026-07-17 14:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 4.73% Lower — The Nikkei 225 Index dropped 3161 points or 4.73 percent on Friday to close at 63674 points. Losses were led by Sumco (-15.17%), Screen Holdings (-13.05%) and Taiyo Yuden (-12.53%)."
+    },
+    {
+      "id": "4993698",
+      "time": "2026-07-17 14:29:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【民調：特朗普在伊朗問題上遭遇政治失敗】美國媒體16日釋出的最新民調顯示，美國總統特朗普在伊朗問題上的政治處境正持續惡化。雖然特朗普反覆將前總統奧巴馬執政時期達成的伊朗核問題全面協議描繪為“災難”，並承諾推出“好得多”的協議，但美國公眾對其在伊朗問題上的表現及前景普遍持悲觀態度。美國《華盛頓郵報》和益普索集團聯合進行的最新民調顯示，特朗普的總體支援率為37%，不支援率為61%。其中，“強烈支援”特朗普的比例降至新低15%，低於2月的19%。（新華社）"
+    },
+    {
+      "id": "mkt:019f6ec3-35df-7aab-8ddc-37adf89eeb24",
+      "time": "2026-07-17 14:28:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "VOLCAR-B.ST",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Volvo Cars CFO said the impact of higher oil and raw-material prices began to show in H2 this year."
+    },
+    {
+      "id": "4993697",
+      "time": "2026-07-17 14:28:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "沃爾沃汽車首席財務官：高油價和原材料價格的影響將在今年下半年真正開始顯現。"
+    },
+    {
+      "id": "4993696",
+      "time": "2026-07-17 14:28:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【時隔近8年 義大利熱那亞公路橋垮塌案宣判】義大利熱那亞一家法院16日就2018年熱那亞公路橋垮塌案作出一審判決，32人被判有罪，該公路橋運營商義大利高速公路公司的前負責人喬瓦尼·卡斯泰盧奇獲刑12年。（新華社）"
+    },
+    {
+      "id": "te:markets:567774",
+      "time": "2026-07-17 14:27:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "EU Carbon Permits Hits 4-week Low — EU Carbon Permits decreased to 78.26 EUR, the lowest since June 2026. Over the past 4 weeks, EU Carbon Permits lost 1.81%, and in the last 12 months, it increased 12.41%."
+    },
+    {
+      "id": "4993695",
+      "time": "2026-07-17 14:27:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【米哈遊訴二遊說事勝訴】7月17日，米哈遊法務部發文：近日，米哈遊訴微信公眾號“二遊說事”（原名“二遊戲貓”）運營者覃某商業詆譭案的判決已生效。法院認定覃某的行為構成商業詆譭，判令其在公眾號首頁連續十日刊登宣告、消除影響，並賠償米哈遊經濟損失及合理開支共計10萬元。"
+    },
+    {
+      "id": "4993694",
+      "time": "2026-07-17 14:27:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優酷總裁吳倩：積極擁抱AI，但AI無法取代真人演員】由HappyHorse與虎鯨文娛集團聯合主辦的“HorsePower · AI影像大賽”啟動“HappyHorse AI影視實戰營”。虎鯨文娛集團COO兼優酷總裁吳倩發表寄語，希望所有創作者都能積極擁抱AI，但不盲目迷信技術，並對“能否用AI替代演員”的行業爭議話題表明態度，直言AI無法取代真人演員。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f6ec1-bc2b-7aab-8ddc-2f52f9c3788f",
+      "time": "2026-07-17 14:26:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "A-share Zhongji Xuchuang turnover hit 50 bln yuan; stock now down 7.91%."
+    },
     {
       "id": "4993693",
       "time": "2026-07-17 14:26:07",
@@ -173950,73 +174039,6 @@
         "Importance 1"
       ],
       "text": "Romania Trade Gap Narrows Slightly in May — Romania’s trade deficit narrowed slightly to EUR 2.616 billion in May 2026 from EUR 2.762 billion in the corresponding month a year earlier. Exports grew by 4.5% year-on-year to EUR 8.325 billion, driven by stronger shipments to both EU (3%) and non-EU markets (8.6%). Meanwhile, imports rose by 1.9% to EUR 10.941 billion, supported by higher purchases from EU (1%) and non-EU countries (4.6%). In the first five months of the year, the country’s trade deficit was EUR 13.506 billion, lower by EUR 0.9 billion or 6.2% compared to the same period a year ago. Over this period, exports increased by 2.4% to EUR 40.337 billion, supported by higher sales for animal and vegetable oils (119.7%), crude materials (8.7%), food and live animals (8.2%), and mineral fuels (7.5%). In contrast, imports rose at a softer 0.1% to EUR 53.843 billion, with arrivals rising for mineral fuels (7.4%) and machinery and transport equipment (1.4%), while decreasing for animal and vegetable oils (-8.6%)."
-    },
-    {
-      "id": "4980439",
-      "time": "2026-07-10 14:30:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蜂助手等成立互聯科技公司，含物聯網業務】企查查APP顯示，近日，廣州笙淼互聯科技有限公司成立，經營範圍包含：物聯網應用服務；物聯網技術服務；物聯網技術研發；地理遙感資訊服務等。企查查股權穿透顯示，該公司由蜂助手等共同持股。"
-    },
-    {
-      "id": "4980438",
-      "time": "2026-07-10 14:30:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4732.80點。"
-    },
-    {
-      "id": "te:markets:565928",
-      "time": "2026-07-10 14:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.59% Higher — The Nikkei 225 Index gained 1077 points or 1.59 percent on Friday to close at 68821 points. Gains were led by Sumco (15.23%), Softbank (11.38%) and Mitsubishi Motors (11.25%)."
-    },
-    {
-      "id": "4980437",
-      "time": "2026-07-10 14:29:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超3萬億元，較上日此時放量4340億元。"
-    },
-    {
-      "id": "te:economy:565927",
-      "time": "2026-07-10 14:29:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Lithuania",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Lithuania Trade Deficit Widens in May — Lithuania posted a trade deficit of EUR 855.2 million in May 2026, widening from EUR 615.5 million in the same month last year, still remaining as the largest trade shortfall since July 2025. Exports edged up by 1.4% year-on-year to EUR 3,113.8 million, mainly due to increased exports of mineral fuels, mineral oils and their distillation products (59.7%), land vehicles, their parts (7.7%), tobacco and processed tobacco substitutes (20.7%). Meanwhile, imports grew 7.7% to EUR 3,969.0 million due to increased imports of mineral fuels, mineral oils and their distillation products (68.3%), organic chemical products (69.0%), plastics and articles thereof (19.0%). In the January-May period, the country’s trade deficit narrowed slightly to EUR 2,813.1 million from EUR 2,835.1 million in the same period a year ago, as exports (3.0%) rose faster than imports (2.4%)."
-    },
-    {
-      "id": "4980436",
-      "time": "2026-07-10 14:28:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "ITS：馬來西亞7月1日至10日棕櫚油出口量預計為434,090噸，同比增長1.6%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607103801597817",
-      "time": "2026-07-10 14:27:23",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【AI投資已成通脹主要推手？美聯儲“三把手”：或被迫加息應對！】美聯儲“三把手”、紐約聯儲主席約翰·威廉姆斯週四表示，在推動美國通脹的諸多因素中，他目前最關注的是由人工智慧（AI）驅動的需求。如果這種需求持續存在，可能會迫使美聯儲提高利率。"
     }
   ]
 }
