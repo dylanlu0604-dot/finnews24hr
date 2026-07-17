@@ -1,7 +1,73 @@
 {
   "date": "2026-07-17",
-  "count": 641,
+  "count": 648,
   "items": [
+    {
+      "id": "mkt:019f6d73-84ff-7aab-8dd3-996046cff589",
+      "time": "2026-07-17 08:21:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 0.3% lower at 8,814.20 on Friday, July 17."
+    },
+    {
+      "id": "mkt:019f6d72-1532-7aab-8dd3-91e2951b6d28",
+      "time": "2026-07-17 08:20:20",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【CITIC Securities: power–compute coordination to underpin high-quality expansion of China’s domestic compute capacity】CITIC Securities says power–compute coordination is the key infrastructure for high-quality expansion of China’s domestic compute capacity. The National Energy Administration’s guidance targets 800 billion kWh of data-center electricity use by 2030; CITIC projects incremental data-center capacity of 78.5 GW during the 15th Five-Year period, corresponding to about 10.7 trillion yuan in CAPEX. Investment to couple power and compute—covering on‑park and off‑park solutions—is estimated at roughly 2 trillion yuan, with a 15th Five-Year CAGR near 42%, indicating an acceleration phase for related capex."
+    },
+    {
+      "id": "4993121",
+      "time": "2026-07-17 08:20:04",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本晶片股下跌，鎧俠市值較6月峰值縮水一半。"
+    },
+    {
+      "id": "4993120",
+      "time": "2026-07-17 08:19:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下滑0.2%，英國富時指數期貨持平。"
+    },
+    {
+      "id": "4993119",
+      "time": "2026-07-17 08:18:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：算電協同支撐國產算力高質量擴容】中信證券研報稱，算電協同是國產算力擴容的關鍵基礎設施，沒有算電協同就沒有國產算力的高質量發展。中國的能源體系可為國產算力提供廣袤的可擴容空間，不受電網排隊併網約束，每單位CAPEX可更高效地轉化為實際算力。國家能源局指引2030年中國資料中心耗電量為8000億度電，基於此指引預測中國資料中心“十五五”時期增量規模為78.5GW，對應資本開支為10.7萬億元。算電協同分為資料中心園區內外兩側，作為耦合電力與算力主要手段，預測對應總投資規模約為2萬億元。算電協同投資“十五五”CAGR約42%，迎來加速成長階段。"
+    },
+    {
+      "id": "4993118",
+      "time": "2026-07-17 08:18:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲知聲：公司近期接連拿下多家國內頭部三甲醫院的智慧醫療建設專案】雲知聲在港交所公告，近期，依託公司多年沉澱的醫療行業資料資源，同時結合對各類醫療業務場景的深度洞察，公司推出業內首款覆蓋醫療、醫保（含商業保險）、醫藥三大賽道的專業大模型 ——U2-Med 三醫大模型，進一步鞏固自身在泛醫療領域大模型賽道的領先地位。依託上述核心競爭優勢，公司近期接連拿下多家國內頭部三甲醫院的智慧醫療建設專案，合作機構包含首都醫科大學附屬北京佑安醫院、山東第一醫科大學附屬省立醫院、南京同仁醫院等區域標杆醫療機構。上述標杆專案落地，一方面持續夯實公司在高階醫療市場的核心競爭力，另一方面也標誌著公司醫療大模型商業化邁入可規模化複製的全新階段。批次落地的專案訂單充分驗證：公司醫療大模型已搭建起一套成熟完善、標準化、可快速批次複製的交付落地體系，能夠快速適配不同科室、不同等級醫院的智慧化建設需求，樹立起國內醫療大模型商業化落地的標杆樣板。"
+    },
+    {
+      "id": "4993117",
+      "time": "2026-07-17 08:18:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3990美元/盎司，日內漲0.35%。"
+    },
     {
       "id": "4993116",
       "time": "2026-07-17 08:16:37",

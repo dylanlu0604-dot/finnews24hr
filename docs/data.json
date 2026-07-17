@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-17 08:18:36",
-  "count": 18800,
+  "updated": "2026-07-17 08:22:30",
+  "count": 18801,
   "items": [
+    {
+      "id": "mkt:019f6d73-84ff-7aab-8dd3-996046cff589",
+      "time": "2026-07-17 08:21:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened 0.3% lower at 8,814.20 on Friday, July 17."
+    },
+    {
+      "id": "mkt:019f6d72-1532-7aab-8dd3-91e2951b6d28",
+      "time": "2026-07-17 08:20:20",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【CITIC Securities: power–compute coordination to underpin high-quality expansion of China’s domestic compute capacity】CITIC Securities says power–compute coordination is the key infrastructure for high-quality expansion of China’s domestic compute capacity. The National Energy Administration’s guidance targets 800 billion kWh of data-center electricity use by 2030; CITIC projects incremental data-center capacity of 78.5 GW during the 15th Five-Year period, corresponding to about 10.7 trillion yuan in CAPEX. Investment to couple power and compute—covering on‑park and off‑park solutions—is estimated at roughly 2 trillion yuan, with a 15th Five-Year CAGR near 42%, indicating an acceleration phase for related capex."
+    },
+    {
+      "id": "4993121",
+      "time": "2026-07-17 08:20:04",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "日本晶片股下跌，鎧俠市值較6月峰值縮水一半。"
+    },
+    {
+      "id": "4993120",
+      "time": "2026-07-17 08:19:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下滑0.2%，英國富時指數期貨持平。"
+    },
+    {
+      "id": "4993119",
+      "time": "2026-07-17 08:18:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：算電協同支撐國產算力高質量擴容】中信證券研報稱，算電協同是國產算力擴容的關鍵基礎設施，沒有算電協同就沒有國產算力的高質量發展。中國的能源體系可為國產算力提供廣袤的可擴容空間，不受電網排隊併網約束，每單位CAPEX可更高效地轉化為實際算力。國家能源局指引2030年中國資料中心耗電量為8000億度電，基於此指引預測中國資料中心“十五五”時期增量規模為78.5GW，對應資本開支為10.7萬億元。算電協同分為資料中心園區內外兩側，作為耦合電力與算力主要手段，預測對應總投資規模約為2萬億元。算電協同投資“十五五”CAGR約42%，迎來加速成長階段。"
+    },
+    {
+      "id": "4993118",
+      "time": "2026-07-17 08:18:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲知聲：公司近期接連拿下多家國內頭部三甲醫院的智慧醫療建設專案】雲知聲在港交所公告，近期，依託公司多年沉澱的醫療行業資料資源，同時結合對各類醫療業務場景的深度洞察，公司推出業內首款覆蓋醫療、醫保（含商業保險）、醫藥三大賽道的專業大模型 ——U2-Med 三醫大模型，進一步鞏固自身在泛醫療領域大模型賽道的領先地位。依託上述核心競爭優勢，公司近期接連拿下多家國內頭部三甲醫院的智慧醫療建設專案，合作機構包含首都醫科大學附屬北京佑安醫院、山東第一醫科大學附屬省立醫院、南京同仁醫院等區域標杆醫療機構。上述標杆專案落地，一方面持續夯實公司在高階醫療市場的核心競爭力，另一方面也標誌著公司醫療大模型商業化邁入可規模化複製的全新階段。批次落地的專案訂單充分驗證：公司醫療大模型已搭建起一套成熟完善、標準化、可快速批次複製的交付落地體系，能夠快速適配不同科室、不同等級醫院的智慧化建設需求，樹立起國內醫療大模型商業化落地的標杆樣板。"
+    },
+    {
+      "id": "4993117",
+      "time": "2026-07-17 08:18:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破3990美元/盎司，日內漲0.35%。"
+    },
     {
       "id": "4993116",
       "time": "2026-07-17 08:16:37",
@@ -172904,58 +172970,6 @@
         "Impact bearish"
       ],
       "text": "South Korea's KOSPI pared intraday gains to 2%; SK Hynix turned negative, down 0.7%."
-    },
-    {
-      "id": "4979930",
-      "time": "2026-07-10 08:22:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數上漲1.5%，跟隨華爾街漲勢 】日本股市早盤走高，跟隨華爾街隔夜漲勢。InTouch Capital Markets分析師團隊在評論中表示：“隨著油價下跌幫助推動股市上漲，風險偏好有所上升。“該團隊補充說：“對價格走勢的一種解讀是，市場正越來越習慣於“美國和伊朗之間持續的低水平衝突。在基準指數表現最好的成分股中，Fujikura上漲5.2%，安川電機上漲4.9%，Mitsui Kinzoku上漲4.7%。日經指數上漲1.5%，報68770.27點。"
-    },
-    {
-      "id": "4979929",
-      "time": "2026-07-10 08:22:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【MINIMAX：擬發行新股及債券 配售價為每股配售股份268港元】MINIMAX港交所公告，公司於2026年7月10日與配售代理訂立配售協議，同意發行及配售配售股份，配售價為每股配售股份268港元。配售股份預計將為公司帶來約95.4億港元的所得款總額，預計淨額約為94.91億港元。同時，公司擬發行本金總額為65港元的債券，初步轉換價為每股A類股份335港元，較A類股份於最後交易日在香港聯交所收市價每股297.4港元溢價約12.64%。"
-    },
-    {
-      "id": "4979928",
-      "time": "2026-07-10 08:21:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國商務部長敦促SK海力士和三星電子擴大在美國的記憶體晶片產能】美國商務部長霍華德·盧特尼克呼籲三星電子和SK海力士加快擴大在美國的記憶體晶片生產，以幫助緩解人工智慧發展所需關鍵元件的全球性短缺。盧特尼克在美光科技舉辦的一場活動上表示，他正在與這兩家韓國儲存晶片製造商進行磋商，但拒絕透露具體細節。他承認，美光執行長Sanjay Mehrotra未必樂見競爭對手擴大在美國的佈局，但他強調，美國需要建立更加穩健的晶片供應鏈。“你知道，他不會喜歡這一點，但我希望把他的競爭對手——三星和SK海力士——也帶到美國來建廠，”盧特尼克說，“美光正在開路。現在其他公司會嫉妒，對吧？它們也不得不跟進。”"
-    },
-    {
-      "id": "4979927",
-      "time": "2026-07-10 08:19:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌0.5個基點至2.87%。"
-    },
-    {
-      "id": "mkt:019f4964-b1ab-7aab-8d23-16b8a8538af4",
-      "time": "2026-07-10 08:19:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japanese finance minister KIUCHI said long-term interest rates are determined by multiple factors, including inf, growth expectations and risk premia."
-    },
-    {
-      "id": "mkt:019f4964-4c8f-7aab-8d23-083ec2eea94d",
-      "time": "2026-07-10 08:18:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Japan's finance minister KIUCHI said exchange rates are determined by multiple factors, including interest-rate differentials, inf differentials between Japan and other countries, and current-account dynamics."
     }
   ]
 }
