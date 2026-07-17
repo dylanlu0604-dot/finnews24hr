@@ -1,7 +1,43 @@
 {
   "date": "2026-07-18",
-  "count": 96,
+  "count": 100,
   "items": [
+    {
+      "id": "4994993",
+      "time": "2026-07-18 02:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普正前往紐約參加國際足聯招待會，登上新“空軍一號”總統專機。"
+    },
+    {
+      "id": "mkt:019f7153-5e6c-7aab-8dea-33ca9aac51bc",
+      "time": "2026-07-18 02:25:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports President Trump is flying to New York to attend a FIFA reception aboard the new Air Force One presidential aircraft."
+    },
+    {
+      "id": "te:markets:567976",
+      "time": "2026-07-18 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Gains by 4.63% — Top commodity gainers are Cocoa (4.63%) and Coffee (2.72%). Biggest losers are Oat (-1.42%), Rubber (-1.23%) and Cotton (-0.76%)."
+    },
+    {
+      "id": "mkt:019f7152-224a-7aab-8dea-2abe8def8073",
+      "time": "2026-07-18 02:23:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Central Bank of the Democratic Republic of Congo to lower its benchmark rate to 12.5%."
+    },
     {
       "id": "mkt:019f7150-8ba2-7aab-8dea-25cb333ebfa6",
       "time": "2026-07-18 02:22:11",

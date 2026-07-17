@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-18 02:23:46",
-  "count": 18917,
+  "updated": "2026-07-18 02:27:41",
+  "count": 18919,
   "items": [
+    {
+      "id": "4994993",
+      "time": "2026-07-18 02:26:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國總統特朗普正前往紐約參加國際足聯招待會，登上新“空軍一號”總統專機。"
+    },
+    {
+      "id": "mkt:019f7153-5e6c-7aab-8dea-33ca9aac51bc",
+      "time": "2026-07-18 02:25:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CNN reports President Trump is flying to New York to attend a FIFA reception aboard the new Air Force One presidential aircraft."
+    },
+    {
+      "id": "te:markets:567976",
+      "time": "2026-07-18 02:25:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Gains by 4.63% — Top commodity gainers are Cocoa (4.63%) and Coffee (2.72%). Biggest losers are Oat (-1.42%), Rubber (-1.23%) and Cotton (-0.76%)."
+    },
+    {
+      "id": "mkt:019f7152-224a-7aab-8dea-2abe8def8073",
+      "time": "2026-07-18 02:23:55",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Central Bank of the Democratic Republic of Congo to lower its benchmark rate to 12.5%."
+    },
     {
       "id": "mkt:019f7150-8ba2-7aab-8dea-25cb333ebfa6",
       "time": "2026-07-18 02:22:11",
@@ -174419,25 +174455,6 @@
         "MKT News"
       ],
       "text": "Al Arabiya reports Qatar prefers Switzerland as the venue for upcoming U.S.-Iran talks."
-    },
-    {
-      "id": "4981847",
-      "time": "2026-07-11 02:25:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦總理呼籲落實美伊諒解備忘錄 維護地區和平】巴基斯坦總理府當地時間10日晚通報，巴總理夏巴茲·謝里夫當天分別與伊朗總統佩澤希齊揚和卡達埃米爾謝赫·塔米姆·本·哈馬德·阿勒薩尼通電話，就地區局勢等交換意見。在與伊朗總統佩澤希齊揚的通話中，夏巴茲強調必須儘快恢復地區和平與穩定。他呼籲所有相關方保持最大剋制，避免採取任何可能破壞和平成果的行動。夏巴茲還強調，各方應切實履行美伊諒解備忘錄。佩澤希齊揚對巴方出席已故伊朗最高領袖哈梅內伊的葬禮和安葬儀式表示感謝，並重申伊方維護地區和平的承諾，並對巴基斯坦給予的支援及發揮的建設性作用表示讚賞。夏巴茲就近期卡達遭襲等事件表達巴方對卡方的聲援與支援。巴基斯坦與卡達雙方一致認為，應繼續透過外交接觸與對話推動和平程序，並強調各方應切實履行在和平諒解備忘錄框架下作出的各項承諾。（央視新聞）"
-    },
-    {
-      "id": "te:markets:566122",
-      "time": "2026-07-11 02:25:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.47% — Top commodity losers are Cocoa (-7.47%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (1.57%) and Soybeans (1.29%)."
     }
   ]
 }
