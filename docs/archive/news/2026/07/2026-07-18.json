@@ -1,7 +1,38 @@
 {
   "date": "2026-07-18",
-  "count": 174,
+  "count": 177,
   "items": [
+    {
+      "id": "4995040",
+      "time": "2026-07-18 03:44:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方：一枚巡航導彈擊中一艘美軍船隻。"
+    },
+    {
+      "id": "4995039",
+      "time": "2026-07-18 03:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國改革黨領袖奈傑爾・法拉奇出現在滕德靈區議會候選人名單中。"
+    },
+    {
+      "id": "mkt:019f7198-dff6-7aab-8deb-28164cf5dc54",
+      "time": "2026-07-18 03:41:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Trump says June CPI posted biggest monthly drop in six years; real wages up 0.8%】Trump said June CPI month-on-month posted its largest decline in six years and came in below every forecast in a Bloomberg survey of 67 economists. He said prices fell for gasoline, electricity, auto insurance, hotels and prescription drugs, real wages rose 0.8% amid strong wage growth and lower prices, and that investment inflows, rapid factory construction and rising manufacturing employment are underway."
+    },
     {
       "id": "4995038",
       "time": "2026-07-18 03:40:41",

@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-18 03:41:13",
-  "count": 18925,
+  "updated": "2026-07-18 03:45:10",
+  "count": 18927,
   "items": [
+    {
+      "id": "4995040",
+      "time": "2026-07-18 03:44:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方：一枚巡航導彈擊中一艘美軍船隻。"
+    },
+    {
+      "id": "4995039",
+      "time": "2026-07-18 03:42:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國改革黨領袖奈傑爾・法拉奇出現在滕德靈區議會候選人名單中。"
+    },
+    {
+      "id": "mkt:019f7198-dff6-7aab-8deb-28164cf5dc54",
+      "time": "2026-07-18 03:41:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Trump says June CPI posted biggest monthly drop in six years; real wages up 0.8%】Trump said June CPI month-on-month posted its largest decline in six years and came in below every forecast in a Bloomberg survey of 67 economists. He said prices fell for gasoline, electricity, auto insurance, hotels and prescription drugs, real wages rose 0.8% amid strong wage growth and lower prices, and that investment inflows, rapid factory construction and rising manufacturing employment are underway."
+    },
     {
       "id": "4995038",
       "time": "2026-07-18 03:40:41",
@@ -174504,17 +174535,6 @@
         "其他"
       ],
       "text": "【霍爾木茲海峽船舶通行量持續低迷】航運資料平臺 MarineTraffic 統計顯示，美伊雙方相互發動打擊的過去 24 小時內，僅有至少 15 艘商船駛過霍爾木茲海峽。 其中共計 11 艘船舶駛入波斯灣，包含 6 艘貨輪、5 艘油輪；另有 4 艘貨輪穿過海峽駛入阿曼灣。該資料與近幾周持續低迷的通航水平相符，僅在美伊談判期間出現過短暫回升。衝突爆發前，平均每日約有 110 艘船舶通行該海峽。這片海域已連續數月遭遇 GPS 訊號欺騙干擾，這類導航干擾會讓船舶對外播報的定位出現嚴重偏差。而本次通行船隻的定位訊號暫未發現遭篡改跡象。"
-    },
-    {
-      "id": "te:markets:566125",
-      "time": "2026-07-11 03:42:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Posts Weekly Gain as Hormuz Risks Persist — Oil prices fell on Friday but still ended the week higher because the conflict between the United States and Iran continued to raise concerns about global energy supplies. Crude oil settled around $71 per barrel, recording a weekly gain of about 4%. Markets were encouraged by reports that the US and Iran will continue technical and peace talks despite renewed military exchanges and uncertainty over the ceasefire. However, shipping through the Strait of Hormuz, a critical route for around 20% of the world's oil and gas trade, remains significantly disrupted, keeping a risk premium in oil prices. The market expects the conflict to remain limited, but reduced tanker traffic and possible supply interruptions continue to support prices. Meanwhile, the International Energy Agency warned that prolonged tensions could delay rebuilding global oil inventories and disrupt the expected oil market balance."
     }
   ]
 }
