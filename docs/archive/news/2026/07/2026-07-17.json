@@ -1,7 +1,74 @@
 {
   "date": "2026-07-17",
-  "count": 1270,
+  "count": 1276,
   "items": [
+    {
+      "id": "4993546",
+      "time": "2026-07-17 13:05:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月20日上線！鐵路部門試點提前60天預約購票服務】記者今天（17日）從國鐵集團客運中心瞭解到，7月20日起，將在京滬高鐵、京滬鐵路試點新增火車票預約購票服務，旅客可預約開車前第60天至第17天的車票。"
+    },
+    {
+      "id": "mkt:019f6e76-7067-7aab-8dda-49a581bf011f",
+      "time": "2026-07-17 13:04:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "China's Shanghai Composite Index fell as much as 2% in afternoon trade; Shenzhen Composite Index down 4.22%; ChiNext Index down 5.4%."
+    },
+    {
+      "id": "4993545",
+      "time": "2026-07-17 13:04:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數跌2.00%，現報3804.753點；深證成指跌4.22%，現報13877.117點；創業板指跌5.41%，現報3492.771點。"
+    },
+    {
+      "id": "mkt:019f6e75-8d8f-7aab-8dda-45fcc3e50b9f",
+      "time": "2026-07-17 13:03:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "China Sci‑Tech Innovation 50 Index (STAR 50) extended losses to 5% in afternoon trade; Yuanjie Technology, Beiwei Storage and Shengke Communication each fell more than 10%."
+    },
+    {
+      "id": "4993544",
+      "time": "2026-07-17 13:03:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達5.07%，成分股中，源傑科技跌12.70%，佰維儲存跌11.52%，盛科通訊跌10.81%，沐曦股份跌9.57%。"
+    },
+    {
+      "id": "4993542",
+      "time": "2026-07-17 13:03:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.03%，成分股中，德源藥業跌8.62%，諾思蘭德跌8.36%，錦波生物跌7.37%，森萱醫藥跌4.61%。"
+    },
     {
       "id": "mkt:019f6e73-e625-7aab-8dda-3f04ebd85006",
       "time": "2026-07-17 13:01:56",
