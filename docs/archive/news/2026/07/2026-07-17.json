@@ -1,7 +1,77 @@
 {
   "date": "2026-07-17",
-  "count": 839,
+  "count": 848,
   "items": [
+    {
+      "id": "4993248",
+      "time": "2026-07-17 09:42:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電力板塊異動拉昇 華銀電力觸及漲停】電力板塊異動拉昇，華銀電力觸及漲停，樂山電力、深南電A、杭州熱電、西昌電力跟漲。"
+    },
+    {
+      "id": "mkt:019f6dbd-1cbf-7aab-8dd5-997952ebbb33",
+      "time": "2026-07-17 09:42:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Fudan reports room‑temperature single‑electron nonvolatile memory in Science】A Fudan University team at the National Key Laboratory for Integrated Circuits and Systems and the School of Integrated Circuit and Micro‑Nano Electronics published in Science a device called QuantumFlash that uses a coplanar drain–channel–source “unified” structure to demonstrate clear single‑electron nonvolatile storage behavior at room temperature (27°C) for the first time. The team says the result overturns the conventional view that single‑electron storage is infeasible and establishes a new theoretical framework for single‑electron quantum storage that could underpin future AI‑era compute. Researchers report an end‑to‑end technology chain from materials and device innovation to high‑end chip integration and applications and plan to accelerate industrialization: they aim to form a company, engage leading AI customers, recruit strategic partners and seek social and government support to commercialize products within 1–3 years."
+    },
+    {
+      "id": "4993247",
+      "time": "2026-07-17 09:41:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量145億元。"
+    },
+    {
+      "id": "mkt:019f6dbc-73bb-7aab-8dd5-91e0fd1163ba",
+      "time": "2026-07-17 09:41:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said television networks that do not broadcast his speeches should have their licenses revoked."
+    },
+    {
+      "id": "4993246",
+      "time": "2026-07-17 09:41:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【乳業板塊短線衝高，一鳴食品漲停】乳業板塊短線衝高，一鳴食品漲停，西部牧業、品渥食品、騎士乳業、陽光乳業、貝因美跟漲、"
+    },
+    {
+      "id": "4993245",
+      "time": "2026-07-17 09:41:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國發明的“量子快閃記憶體”技術成功構建出共面的漏極-溝道-源極“歸壹”結構，觸達理論極限】北京時間7月17日凌晨，復旦大學整合晶片與系統全國重點實驗室積體電路與微納電子創新學院周鵬-劉春森研究團隊在《科學》（Science）發表重磅成果，他們發明的“量子快閃記憶體”（Quantum Flash）技術，成功構建出共面的漏極-溝道-源極“歸壹”結構，首次在室溫（27℃）環境下清晰觀測到了單電子的非易失性儲存行為，這不僅徹底打破了“單電子儲存”無法實現的傳統認知，開創了單電子量子儲存的全新理論體系，更為AI時代算力革命奠定關鍵理論基礎。該研究將電荷儲存的資訊密度提升至理論極限，實現了“一電子一位元”，也為面向人工通用智慧（AGI）需求的高密度儲存器研發提供了新的技術基礎。目前，團隊已系統性地打通了從底層材料、器件創新到高階晶片整合與應用的全鏈條：“破曉”實現存取速度突破，“歸壹”解決密度極限，“長纓”完成了與現有CMOS矽工藝相容的原型晶片驗證。（澎湃新聞）"
+    },
+    {
+      "id": "4993244",
+      "time": "2026-07-17 09:40:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO板塊大幅調整，光迅科技盤中觸及跌停】CPO板塊大幅調整，光迅科技盤中觸及跌停，源傑科技、中際旭創、新易盛、仕佳光子、劍橋科技、長芯博創等跟跌。"
+    },
+    {
+      "id": "te:markets:567701",
+      "time": "2026-07-17 09:40:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Holds Near 2-Month High — Gasoline futures in the US rose above $3.30 per gallon, remaining close to their highest level since late May, driven by growing concerns over global refined fuel supplies. The collapse of the US-Iran truce and renewed tanker attacks in the Strait of Hormuz heightened fears of disruptions to fuel shipments from the Persian Gulf. Additionally, Ukrainian strikes on Russia's energy infrastructure continued to hamper operations at major refineries, including NORSI and Omsk. US and global refiners also reduced gasoline output in favor of higher-margin diesel and jet fuel production, while strong overseas demand pushed US fuel exports to record highs. EIA data showed gasoline inventories fell by 1.5 million barrels in the week ending July 10, leaving stockpiles about 14 million barrels below their five-year seasonal average and at their lowest level for this time of year since 2012. The US gasoline crack spread climbed to about $59 per barrel, its highest level since June 2022."
+    },
     {
       "id": "mkt:019f6dba-78f6-7aab-8dd5-8da9c57686f9",
       "time": "2026-07-17 09:39:24",
@@ -9,6 +79,14 @@
         "MKT News"
       ],
       "text": "【Survey: Japanese firms' rare-earth procurement costs up 22.3% on average; pass-through limited】Tokyo-based supply-chain risk firm Resilire’s online June survey of 400 decision-makers at manufacturers that buy rare earths and rare-earth materials found average procurement costs rose 22.3% year-on-year. About 30% of respondents reported cost increases of 20–29% (the largest share); roughly 20% reported increases of 10–19%; just over 10% reported increases of 30–39%. Most firms report limited ability to pass higher input costs to customers: among firms with rising procurement costs, 4.2% said they can almost fully pass the increase through to prices, about 10% said they cannot pass costs on at all, and more than 40% said they can absorb less than half of the added cost when combining the under-25% and 25–49% pass-through groups."
+    },
+    {
+      "id": "4993243",
+      "time": "2026-07-17 09:39:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股電力裝置股走低 偉能集團跌超8%】截至發稿，偉能集團(01608.HK)跌8.11%，濰柴動力(02338.HK)跌4.56%，哈爾濱電氣(01133.HK)跌3.98%。"
     },
     {
       "id": "mkt:019f6dba-67b8-7aab-8dd5-875867c5a943",
