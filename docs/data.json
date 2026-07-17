@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 05:29:19",
+  "updated": "2026-07-18 05:35:20",
   "count": 18933,
   "items": [
+    {
+      "id": "4995107",
+      "time": "2026-07-18 05:29:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗多地傳出爆炸聲】總檯記者當地時間18日凌晨獲悉，伊朗多地傳出爆炸聲。伊朗南部法爾斯省拉爾市南部郊區傳出爆炸聲；伊朗中部城市亞茲德周邊地區傳出5次爆炸聲，當地居民稱聽見戰機飛行的聲音。（央視新聞）"
+    },
     {
       "id": "4995106",
       "time": "2026-07-18 05:24:02",
@@ -174550,18 +174558,6 @@
         "MKT News"
       ],
       "text": "Axios cited a U.S. official: \"If tomorrow they (Iran) do not make a related statement, tomorrow will not be a good day for them.\""
-    },
-    {
-      "id": "mkt:019f4df0-b664-7aab-8d3a-947670a43466",
-      "time": "2026-07-11 05:30:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Israel curbs operations in southern Lebanon at US request, media says】Israeli public broadcaster reported on Oct. 10 that, at Washington’s request, Israel has ordered its military to suspend \"sensitive\" operations in southern Lebanon. The directive will remain in effect until further notice and is conditional on developments in the US–Iran military confrontation and progress in Israel–Lebanon negotiations. The report said US concern about escalation linked to its recent confrontation with Iran prompted the request; Israeli forces are to maintain restraint and will begin next week withdrawing from two areas of their designated south Lebanon security zone, a step tied to a late‑June framework agreement reached in Washington. Israel and Lebanon are expected to resume talks next week in Rome."
     }
   ]
 }
