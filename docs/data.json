@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-17 08:51:47",
-  "count": 18805,
+  "updated": "2026-07-17 08:55:42",
+  "count": 18798,
   "items": [
+    {
+      "id": "mkt:019f6d91-947d-7aab-8dd4-0e08dd962df7",
+      "time": "2026-07-17 08:54:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "TSM.O",
+        "Impact bearish",
+        "Nikkei 225",
+        "Hang Seng Index"
+      ],
+      "text": "【US semiconductor rout spills into Asia; Asian tech supply chain suffers broad selloff】Overnight US semiconductor and AI‑name valuation collapses spilled into Asian markets, triggering a second wave of heavy selling across Japan and the broader Asian tech supply chain in early July 17 trade. The Philadelphia Semiconductor Index fell 4.3% on July 16, marking a second day of weakness; TSMC reported Q2 net profit +77.4% YoY and raised full‑year capex guidance to $60–64bn from $52–56bn, yet its ADR fell 2.3% as markets question whether expanded AI compute investment will convert to timely cash flow and profit. Bloomberg macro strategists say the sharp US decline forced liquidations and long squeezes in leveraged equity funds, prompting large quant‑driven outflows from beta‑sensitive Japanese tech names including Kioxia, Tokyo Electron, Advantest and SoftBank in the Asian session. Geopolitical tensions and commodity‑driven valuation pressure, combined with renewed concern about higher forward inflation and prolonged high rates, add further downside risk for high‑markup growth tech stocks."
+    },
+    {
+      "id": "4993153",
+      "time": "2026-07-17 08:54:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【斯塔默：英國瑞典將聯合向烏提供新戰機】16日，英國首相斯塔默在訪問烏克蘭基輔時宣佈，英國將聯合瑞典，向烏克蘭提供16架現代化的新戰鬥機。即將卸任英國首相的斯塔默此次是最後一次以首相身份訪問基輔，當天他與烏克蘭總統澤連斯基舉行會談，並共同出席新聞釋出會。斯塔默在釋出會上表示，英國將與瑞典一起，向烏克蘭方面移交16架瑞典“鷹獅”戰鬥機，總價值3億歐元，製造戰鬥機的費用由英國政府撥款。他強調，此次戰機援助旨在強化烏克蘭領空防禦能力，提升烏防空作戰水平，為烏空域安全提供支援。據英國首相府釋出的訊息稱，這批戰機將在2029年前移交給烏方，數十家英國公司將參與戰機的生產。"
+    },
+    {
+      "id": "4993152",
+      "time": "2026-07-17 08:52:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：8 月是新興市場利差交易表現最差月份】花旗集團表示，從歷史規律來看，8 月是新興市場利差交易表現最差的一個月，市場擁擠的持倉頭寸會令投資者極易受到各類市場衝擊影響。分析師路易斯・科斯塔（ Luis Costa）、多納託・瓜裡諾（ Donato Guarino）等人在研報中寫道：“我們回溯測算的資料持續印證，8 月行情波動劇烈，整體交易環境不利。”這一規律源於 “夏季市場普遍偏好利差交易，導致 8 月持倉規模偏高”，一旦出現突發重磅訊息，就會引發大幅行情震盪。與之相對，7 月從歷史資料看，風險收益配比整體更為可觀。"
+    },
     {
       "id": "4993151",
       "time": "2026-07-17 08:50:51",
@@ -172945,93 +172978,6 @@
         "其他"
       ],
       "text": "【浙江溫州海事部門啟動水上二級防颱風應急響應】面對即將到來的颱風“巴威”，浙江溫州海事局於昨天傍晚6點啟動水上二級防颱風應急響應。溫州港全面實施交通管制。浙江溫州海事部門對轄區船舶開展全覆蓋滾動排查，逐船核實船舶位置、擬避風水域、人員撤離計劃等，並抓住颱風影響轄區前的有限時間，利用海巡+空巡+電子巡航方式，開展全域風險再排查。"
-    },
-    {
-      "id": "4979968",
-      "time": "2026-07-10 08:55:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江溫州防颱風應急響應提升為Ⅱ級】今年第9號颱風“巴威”最大可能於11日白天掠過臺灣島北部沿海，並於11日夜間在浙江溫嶺至福建福清一帶沿海登陸。根據《溫州市防汛防颱抗旱應急預案》，經會商研判，浙江溫州市防指決定於7月10日8時起將防颱風應急響應提升為Ⅱ級。"
-    },
-    {
-      "id": "mkt:019f4985-cdb1-7aab-8d23-922b50067c1a",
-      "time": "2026-07-10 08:55:33",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY dipped to 162, down 0.22% intraday."
-    },
-    {
-      "id": "4979967",
-      "time": "2026-07-10 08:55:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構預測今年颱風季\"異常活躍\"，活動水平超均值40%】英國氣象預測機構“熱帶風暴風險”(Tropical Storm Risk，TSR)上調今年西北太平洋颱風活動預測，預計將迎來一個“異常活躍的颱風季”，活動水平將較1991-2020年均值高出約40%。7月份的最新預報顯示，6月至11月期間將出現28場熱帶風暴、19場颱風和12場強颱風，30年平均水平分別為25.5場、16.0場和9.3場。該機構表示，預計正在形成的強厄爾尼諾現象將在夏秋兩季對西北太平洋颱風活動產生“強烈增強效應”。"
-    },
-    {
-      "id": "4979966",
-      "time": "2026-07-10 08:54:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "深交所公告，深港通下的港股通標的證券名單調入禾賽－Ｗ（02983）、濱化股份，調出合生創展集團、禾賽－Ｗ（02525）、中慧生物－Ｂ、MIRXES-B。"
-    },
-    {
-      "id": "4979965",
-      "time": "2026-07-10 08:53:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾院下週表決永久實施夏令時間法案】根據週四釋出的一份通知，美國眾議院下週將表決一項法案，擬將夏令時間永久化。今年5月，眾議院能源暨商業委員會以48票贊成、1票反對的結果透過陽光保護法案。參議院早在2022年3月便一致投票透過將夏令時間永久化，但眾議院在反對聲浪下始終未審議該議案。眾議院下週審議的提案，將允許各州選擇不實行夏令時間。夏令時間是指在一年中的夏季時段將時鐘撥快一小時。自1960年代以來，美國大部分地區一直實施夏令時間制度。這項眾議院議案的支持者表示，時間調整會導致睡眠障礙、增加職場受傷風險與交通事故發生率。他們也認為，若冬季傍晚保有較長日照時間，將有助於刺激更多經濟活動。"
-    },
-    {
-      "id": "4979964",
-      "time": "2026-07-10 08:53:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【摩根大通打造的AI代理在回測中跑贏60/40投資組合】投資者如今正日益藉助人工智慧來執行從選股到風險管理的各種任務，摩根大通研究人員構建了一批AI投資代理，它們會根據不斷變化的市況在股票和債券之間切換。在針對過去二十年開展的回溯性測試中，表現最佳的系統每年跑贏傳統的60/40投資組合（六成股票四成債券）0.7個百分點，且波動率更低，同時也跑贏了摩根大通自有的基於規則的市場狀態模型。"
-    },
-    {
-      "id": "mkt:019f4983-4cc2-7aab-8d23-890d1b9ef656",
-      "time": "2026-07-10 08:52:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Japan to test-launch reusable rocket prototype in response to SpaceX technology】Japan Aerospace Exploration Agency (JAXA) will test-launch an experimental reusable rocket, the RV-X, on Saturday from its Noshiro Rocket Test Center in Akita prefecture to cut launch costs and respond to SpaceX technology. The flight, originally planned for March, was delayed by bad weather and equipment faults. JAXA has been developing reusable launchers since 2016 and carried out multiple engine burn tests last year; it aims to field a lower-cost reusable rocket in the early 2030s to replace the H3 as its primary launcher."
-    },
-    {
-      "id": "mkt:019f4982-fd8a-7aab-8d23-87cf24c02908",
-      "time": "2026-07-10 08:52:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "20-year Japanese government bond yield fell 7 bps to 3.795%."
-    },
-    {
-      "id": "4979963",
-      "time": "2026-07-10 08:51:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率下跌7.0個基點，至3.795%。"
-    },
-    {
-      "id": "4979962",
-      "time": "2026-07-10 08:51:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "日元兌美元一度升至162.09。"
     }
   ]
 }

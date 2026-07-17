@@ -1,7 +1,40 @@
 {
   "date": "2026-07-17",
-  "count": 695,
+  "count": 698,
   "items": [
+    {
+      "id": "mkt:019f6d91-947d-7aab-8dd4-0e08dd962df7",
+      "time": "2026-07-17 08:54:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "TSM.O",
+        "Impact bearish",
+        "Nikkei 225",
+        "Hang Seng Index"
+      ],
+      "text": "【US semiconductor rout spills into Asia; Asian tech supply chain suffers broad selloff】Overnight US semiconductor and AI‑name valuation collapses spilled into Asian markets, triggering a second wave of heavy selling across Japan and the broader Asian tech supply chain in early July 17 trade. The Philadelphia Semiconductor Index fell 4.3% on July 16, marking a second day of weakness; TSMC reported Q2 net profit +77.4% YoY and raised full‑year capex guidance to $60–64bn from $52–56bn, yet its ADR fell 2.3% as markets question whether expanded AI compute investment will convert to timely cash flow and profit. Bloomberg macro strategists say the sharp US decline forced liquidations and long squeezes in leveraged equity funds, prompting large quant‑driven outflows from beta‑sensitive Japanese tech names including Kioxia, Tokyo Electron, Advantest and SoftBank in the Asian session. Geopolitical tensions and commodity‑driven valuation pressure, combined with renewed concern about higher forward inflation and prolonged high rates, add further downside risk for high‑markup growth tech stocks."
+    },
+    {
+      "id": "4993153",
+      "time": "2026-07-17 08:54:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【斯塔默：英國瑞典將聯合向烏提供新戰機】16日，英國首相斯塔默在訪問烏克蘭基輔時宣佈，英國將聯合瑞典，向烏克蘭提供16架現代化的新戰鬥機。即將卸任英國首相的斯塔默此次是最後一次以首相身份訪問基輔，當天他與烏克蘭總統澤連斯基舉行會談，並共同出席新聞釋出會。斯塔默在釋出會上表示，英國將與瑞典一起，向烏克蘭方面移交16架瑞典“鷹獅”戰鬥機，總價值3億歐元，製造戰鬥機的費用由英國政府撥款。他強調，此次戰機援助旨在強化烏克蘭領空防禦能力，提升烏防空作戰水平，為烏空域安全提供支援。據英國首相府釋出的訊息稱，這批戰機將在2029年前移交給烏方，數十家英國公司將參與戰機的生產。"
+    },
+    {
+      "id": "4993152",
+      "time": "2026-07-17 08:52:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：8 月是新興市場利差交易表現最差月份】花旗集團表示，從歷史規律來看，8 月是新興市場利差交易表現最差的一個月，市場擁擠的持倉頭寸會令投資者極易受到各類市場衝擊影響。分析師路易斯・科斯塔（ Luis Costa）、多納託・瓜裡諾（ Donato Guarino）等人在研報中寫道：“我們回溯測算的資料持續印證，8 月行情波動劇烈，整體交易環境不利。”這一規律源於 “夏季市場普遍偏好利差交易，導致 8 月持倉規模偏高”，一旦出現突發重磅訊息，就會引發大幅行情震盪。與之相對，7 月從歷史資料看，風險收益配比整體更為可觀。"
+    },
     {
       "id": "4993151",
       "time": "2026-07-17 08:50:51",
