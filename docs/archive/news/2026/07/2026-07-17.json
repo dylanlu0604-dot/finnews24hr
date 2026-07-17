@@ -1,7 +1,73 @@
 {
   "date": "2026-07-17",
-  "count": 2683,
+  "count": 2690,
   "items": [
+    {
+      "id": "mkt:019f700c-2819-7aab-8de4-2b761124efce",
+      "time": "2026-07-17 20:27:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "CNH",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai Stock Exchange and HKEX sign cooperation memorandum】July 17, 2026 — The Shanghai Stock Exchange and Hong Kong Exchanges and Clearing (HKEX) signed a memorandum to deepen information exchange and cross‑border cooperation. The MoU supports voluntary submission of relevant information by HKEX participants and aims to further develop and optimise interconnectivity mechanisms, including Stock Connect. The SSE said it will, under CSRC guidance, continue to refine cross‑border cooperation and improve the effectiveness of connectivity as part of institutional market‑opening efforts."
+    },
+    {
+      "id": "4994613",
+      "time": "2026-07-17 20:27:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鉑金下跌3%至每盎司1569.38美元。"
+    },
+    {
+      "id": "4994612",
+      "time": "2026-07-17 20:26:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖哈梅內伊顧問週五批評伊拉克總理訪美之行，稱此次訪問 “令人遺憾、時機不當”，有損伊拉克國際地位。"
+    },
+    {
+      "id": "mkt:019f700a-8d4a-7aab-8de4-25db995311fa",
+      "time": "2026-07-17 20:26:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Taihao Software signs strategic cooperation agreement with CHINA'S CPU MAKER HAIGUANG】Taihao Software signed a strategic cooperation agreement with CHINA'S CPU MAKER HAIGUANG at the Light Organism 2026 Intelligent Computing Application Conference in Zhengzhou, Henan. The deal commits both parties to deepen cooperation on technology adaptation, product coordination and joint ecosystem development."
+    },
+    {
+      "id": "4994611",
+      "time": "2026-07-17 20:25:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【泰豪軟體與海光資訊簽署戰略合作協議】近日，在河南鄭州舉辦的“光合組織2026智慧計算應用大會”期間，泰豪軟體與海光資訊正式簽署戰略合作協議。根據協議，雙方將圍繞技術適配、產品協同、生態共建等方面開展深入合作。"
+    },
+    {
+      "id": "4994610",
+      "time": "2026-07-17 20:25:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上交所和香港聯交所簽署合作備忘錄 以進一步促進資訊交流及跨境合作】上海證券交易所與香港聯合交易所有限公司17日簽署合作備忘錄，以進一步促進資訊交流及跨境合作。自滬港通推出以來，上交所與香港聯交所根據市場發展情況，已持續最佳化完善多項機制安排，積極促進兩地市場穩定健康發展。此次簽署的備忘錄將進一步推動雙方在資訊交流方面的協同合作，支援有關香港聯交所參與者自願報送相關資訊，促進互聯互通機制持續深化完善。下一步，上交所將在中國證監會統籌指導下，持續最佳化完善跨境合作，提升互聯互通機制效能，堅定不移推動資本市場高水平制度型開放。"
+    },
+    {
+      "id": "4994609",
+      "time": "2026-07-17 20:24:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "賽峰集團與ZeroAvia攜手合作開發氫電技術。"
+    },
     {
       "id": "4994606",
       "time": "2026-07-17 20:23:39",
