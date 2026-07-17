@@ -1,7 +1,132 @@
 {
   "date": "2026-07-17",
-  "count": 866,
+  "count": 879,
   "items": [
+    {
+      "id": "mkt:019f6dc4-da3d-7aab-8dd5-f822b100600b",
+      "time": "2026-07-17 09:50:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell to its lowest intraday level since June 11."
+    },
+    {
+      "id": "mkt:019f6dc4-94cc-7aab-8dd5-f09b3930db4a",
+      "time": "2026-07-17 09:50:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "China palladium most‑active contract fell as much as 4.00% intraday, trading at 298.65 yuan/gram."
+    },
+    {
+      "id": "mkt:019f6dc4-621e-7aab-8dd5-e98721536a83",
+      "time": "2026-07-17 09:50:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. CENTCOM says it carried out new strikes on Iran; sixth consecutive night】CENTCOM said at 9:40 p.m. ET it completed a large-scale strike on Iran using fighters, drones and warships, firing precision-guided munitions at dozens of Iranian military targets, including coastal surveillance and air-defence sites, military logistics infrastructure and facilities tied to maritime combat capability. CENTCOM said the action — the sixth consecutive night of strikes — is intended to further degrade Iran’s military capacity and hold it accountable for recent attacks on commercial vessels. More than 50,000 U.S. service members are deployed in the Middle East and remain on high alert."
+    },
+    {
+      "id": "4993267",
+      "time": "2026-07-17 09:50:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國東部時間今晚9點40分，美國中央司令部（CENTCOM）完成了對伊朗的最新一輪大規模空襲。美軍出動了包括戰鬥機、無人機和軍艦在內的多架裝備，發射精確制導武器，打擊了數十個伊朗軍事目標，例如海岸監視和防空設施、軍事後勤基礎設施以及海上作戰能力。這是美國連續第六晚對伊朗發動空襲。中央司令部正在進一步削弱伊朗的軍事能力，並追究伊朗近期襲擊商船的責任。超過5萬名美軍官兵在中東地區執行任務，保持高度警惕，隨時準備投入戰鬥。"
+    },
+    {
+      "id": "4993266",
+      "time": "2026-07-17 09:49:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌4%，現報301.80元。"
+    },
+    {
+      "id": "4993265",
+      "time": "2026-07-17 09:48:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【減速器板塊走低，綠的諧波跌超10%】減速器板塊走低，綠的諧波跌超10%，昊志機電、雙環傳動、金帝股份、領益智造跟跌。"
+    },
+    {
+      "id": "4993264",
+      "time": "2026-07-17 09:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國襲擊了伊朗沿海監視和防空設施。"
+    },
+    {
+      "id": "4993263",
+      "time": "2026-07-17 09:48:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：正在進一步削弱伊朗的軍事能力。"
+    },
+    {
+      "id": "mkt:019f6dc2-a1e7-7aab-8dd5-e37f86d7b3ce",
+      "time": "2026-07-17 09:48:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM says it has completed its latest major strike against Iran."
+    },
+    {
+      "id": "4993262",
+      "time": "2026-07-17 09:48:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達國防部當地時間今天（7月17日）表示，卡達武裝部隊成功攔截來襲導彈。卡達內政部則稱，此次安全威脅已解除。稍早前，有目擊者稱，卡達首都多哈傳出數聲爆炸聲。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f6dc2-89ff-7aab-8dd5-d88567584bc8",
+      "time": "2026-07-17 09:48:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report the country's 25th Knesset has formally dissolved and elections are scheduled in 102 days."
+    },
+    {
+      "id": "mkt:019f6dc1-d274-7aab-8dd5-d5cd33b1d268",
+      "time": "2026-07-17 09:47:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai (SHFE) main silver contract fell 4.00% intraday to 13,474 yuan/kg."
+    },
+    {
+      "id": "4993261",
+      "time": "2026-07-17 09:47:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國完成對伊朗的新一輪打擊，襲擊數十個伊朗軍事目標。"
+    },
     {
       "id": "4993260",
       "time": "2026-07-17 09:47:09",

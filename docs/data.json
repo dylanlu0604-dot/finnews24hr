@@ -1,7 +1,132 @@
 {
-  "updated": "2026-07-17 09:47:52",
-  "count": 18815,
+  "updated": "2026-07-17 09:51:47",
+  "count": 18819,
   "items": [
+    {
+      "id": "mkt:019f6dc4-da3d-7aab-8dd5-f822b100600b",
+      "time": "2026-07-17 09:50:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell to its lowest intraday level since June 11."
+    },
+    {
+      "id": "mkt:019f6dc4-94cc-7aab-8dd5-f09b3930db4a",
+      "time": "2026-07-17 09:50:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "China palladium most‑active contract fell as much as 4.00% intraday, trading at 298.65 yuan/gram."
+    },
+    {
+      "id": "mkt:019f6dc4-621e-7aab-8dd5-e98721536a83",
+      "time": "2026-07-17 09:50:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. CENTCOM says it carried out new strikes on Iran; sixth consecutive night】CENTCOM said at 9:40 p.m. ET it completed a large-scale strike on Iran using fighters, drones and warships, firing precision-guided munitions at dozens of Iranian military targets, including coastal surveillance and air-defence sites, military logistics infrastructure and facilities tied to maritime combat capability. CENTCOM said the action — the sixth consecutive night of strikes — is intended to further degrade Iran’s military capacity and hold it accountable for recent attacks on commercial vessels. More than 50,000 U.S. service members are deployed in the Middle East and remain on high alert."
+    },
+    {
+      "id": "4993267",
+      "time": "2026-07-17 09:50:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國東部時間今晚9點40分，美國中央司令部（CENTCOM）完成了對伊朗的最新一輪大規模空襲。美軍出動了包括戰鬥機、無人機和軍艦在內的多架裝備，發射精確制導武器，打擊了數十個伊朗軍事目標，例如海岸監視和防空設施、軍事後勤基礎設施以及海上作戰能力。這是美國連續第六晚對伊朗發動空襲。中央司令部正在進一步削弱伊朗的軍事能力，並追究伊朗近期襲擊商船的責任。超過5萬名美軍官兵在中東地區執行任務，保持高度警惕，隨時準備投入戰鬥。"
+    },
+    {
+      "id": "4993266",
+      "time": "2026-07-17 09:49:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內跌4%，現報301.80元。"
+    },
+    {
+      "id": "4993265",
+      "time": "2026-07-17 09:48:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【減速器板塊走低，綠的諧波跌超10%】減速器板塊走低，綠的諧波跌超10%，昊志機電、雙環傳動、金帝股份、領益智造跟跌。"
+    },
+    {
+      "id": "4993264",
+      "time": "2026-07-17 09:48:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國襲擊了伊朗沿海監視和防空設施。"
+    },
+    {
+      "id": "4993263",
+      "time": "2026-07-17 09:48:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：正在進一步削弱伊朗的軍事能力。"
+    },
+    {
+      "id": "mkt:019f6dc2-a1e7-7aab-8dd5-e37f86d7b3ce",
+      "time": "2026-07-17 09:48:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM says it has completed its latest major strike against Iran."
+    },
+    {
+      "id": "4993262",
+      "time": "2026-07-17 09:48:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達國防部當地時間今天（7月17日）表示，卡達武裝部隊成功攔截來襲導彈。卡達內政部則稱，此次安全威脅已解除。稍早前，有目擊者稱，卡達首都多哈傳出數聲爆炸聲。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f6dc2-89ff-7aab-8dd5-d88567584bc8",
+      "time": "2026-07-17 09:48:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report the country's 25th Knesset has formally dissolved and elections are scheduled in 102 days."
+    },
+    {
+      "id": "mkt:019f6dc1-d274-7aab-8dd5-d5cd33b1d268",
+      "time": "2026-07-17 09:47:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai (SHFE) main silver contract fell 4.00% intraday to 13,474 yuan/kg."
+    },
+    {
+      "id": "4993261",
+      "time": "2026-07-17 09:47:19",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國完成對伊朗的新一輪打擊，襲擊數十個伊朗軍事目標。"
+    },
     {
       "id": "4993260",
       "time": "2026-07-17 09:47:09",
@@ -173027,91 +173152,6 @@
         "國際"
       ],
       "text": "上證50股指期貨(IH)主力合約日內漲超1%，現報2972.0點。"
-    },
-    {
-      "id": "mkt:019f49b9-47d3-7aab-8d25-3201b0d400c8",
-      "time": "2026-07-10 09:51:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Promotion for 9th China International Import Expo and 'Export China' Thailand session held in Bangkok】Bangkok, July 9 — A promotional event for the 9th China International Import Expo (CIIE) and the 'Export China' Thailand session took place in Bangkok. MOFCOM vice minister Yan Dong, Chinese ambassador Zhang Jianwei and Thai Department of Trade Promotion director Sunanta attended; more than 200 Chinese and Thai business representatives participated. Yan said China has been Thailand's largest trading partner for 13 consecutive years and that Thailand remains an important ASEAN trade partner; Thai tropical fruit and seafood are selling well in China. He said 2026, the start year of China’s 15th Five-Year Plan, will see CIIE coordinate with 'Export China' activities to step up import expansion. Thailand is a 2026 'Export China' theme country and Thai firms are invited to participate in the 9th CIIE to deepen bilateral trade cooperation."
-    },
-    {
-      "id": "4980074",
-      "time": "2026-07-10 09:51:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指漲1.01%，現報4058.850點；上證指數漲0.40%，現報4052.881點；深證成指漲1.07%，現報15562.811點。"
-    },
-    {
-      "id": "4980073",
-      "time": "2026-07-10 09:50:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指漲1.01%，現報15553.701點；上證指數漲0.39%，現報4052.347點；創業板指漲0.88%，現報4053.458點。"
-    },
-    {
-      "id": "4980072",
-      "time": "2026-07-10 09:50:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國副財長表示，當前匯率未能反映經濟基本面。"
-    },
-    {
-      "id": "te:markets:565837",
-      "time": "2026-07-10 09:50:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Taiwan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Taiwan Stocks Closed Friday Due to Typhoon Bavi — Taiwan's financial markets will remain closed on Friday after the Taipei City Government ordered offices and schools to close in anticipation of Typhoon Bavi. The Taiwan Stock Exchange also confirmed that all trading will be suspended, with settlements originally scheduled for Friday postponed to the next business day. The closure is expected to temporarily halt trading activity and delay settlement across the island's capital markets. Ahead of the shutdown, Taiwan's benchmark stock index fell 0.8% to close at 45,352 on Thursday, extending its weekly loss to 3.0% amid cautious sentiment. The decline reflected broader risk aversion, with investors also weighing external uncertainties, including global trade developments and expectations for major central bank policy, before markets pause for the storm."
-    },
-    {
-      "id": "4980071",
-      "time": "2026-07-10 09:50:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【電力板塊拉昇，華電遼能漲停】電力板塊拉昇，華電遼能漲停，大連熱電、華能蒙電、大唐發電、粵電力A紛紛上揚。"
-    },
-    {
-      "id": "mkt:019f49b7-af4e-7aab-8d25-2dd2a618ea1b",
-      "time": "2026-07-10 09:50:02",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Japan 10-year government bond yield fell 10 bps to 2.775%; 20-year yield fell 10 bps to 3.765%."
-    },
-    {
-      "id": "4980070",
-      "time": "2026-07-10 09:49:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【大和證券：片山皋月關於GPIF的言論或將帶動日本股債匯“三重上漲”】大和證券表示，日本財務大臣片山皋月表示，日本希望鼓勵包括政府養老投資基金(GPIF)在內的養老基金增加對國內金融資產的投資，此番的言論可能有助於帶動日本股市、債市和日元的“三重上漲”。  其特意提及GPIF的投資組合管理，這引發了外界猜測，認為該基金可能會增加對日本資產的配置，鑑於GPIF管理資產規模龐大，其潛在的動向“不容忽視”。"
-    },
-    {
-      "id": "mkt:019f49b6-a8c8-7aab-8d25-260044fb05ba",
-      "time": "2026-07-10 09:48:55",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-share CRO sector continued to rally; Heyuan Bio rose over 17%, Medicilon rose over 10%, Yinuosi rose over 7%, Baiaosaitu rose over 6%, Joinn Labs rose over 5%."
     }
   ]
 }
