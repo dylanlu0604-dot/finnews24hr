@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-18 04:50:14",
-  "count": 18946,
+  "updated": "2026-07-18 04:54:09",
+  "count": 18947,
   "items": [
+    {
+      "id": "4995093",
+      "time": "2026-07-18 04:52:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月18日美股成交額前20：傳Meta向Anthropic租賃算力 價值最高可達100億美元】週五美股成交額第6名Meta Platforms收跌2.79%，成交141.04億美元。據報道，Meta Platforms正與Anthropic展開初步磋商，擬向後者出租其資料中心的算力。這項合作將為時兩年，價值最高可達100億美元。本月早些時候報道稱，Meta正籌劃開展雲端計算業務，其中包括向其他公司出租算力的可能性。Meta執行長馬克·扎克伯格此前接受採訪時表示，公司目前所有算力仍用於內部專案，但市場對算力的報價十分可觀，令他開始考慮將部分算力對外出租。"
+    },
+    {
+      "id": "4995092",
+      "time": "2026-07-18 04:51:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：特朗普媒體向金融機構推銷“Truth API”，三年期優惠價每月6萬美元。"
+    },
+    {
+      "id": "mkt:019f71d8-f833-7aab-8deb-e1f534b5d8d8",
+      "time": "2026-07-18 04:51:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Trump's media is pitching \"Truth API\" to financial institutions at a three-year promotional price of USD 60,000 per month."
+    },
     {
       "id": "4995091",
       "time": "2026-07-18 04:46:19",
@@ -174670,22 +174694,6 @@
         "Energy"
       ],
       "text": "Cuba's National Electric Union said the country's national power grid has collapsed."
-    },
-    {
-      "id": "4981920",
-      "time": "2026-07-11 04:52:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "古巴本週遭遇第二次全國大範圍停電。"
-    },
-    {
-      "id": "4981919",
-      "time": "2026-07-11 04:52:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國緬因州州務卿辦公室宣告確認：聯邦參議院候選人格雷厄姆・普拉特納的正式退選文書已完成收悉。"
     }
   ]
 }
