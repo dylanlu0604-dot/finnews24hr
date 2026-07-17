@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-18 00:02:09",
-  "count": 19023,
+  "updated": "2026-07-18 00:08:48",
+  "count": 19015,
   "items": [
+    {
+      "id": "te:markets:567961",
+      "time": "2026-07-18 00:07:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.08% Higher — The FTSE 100 Index gained 8 points or 0.08 percent on Friday to close at 10581 points. Gains were led by National Grid (3.23%), Severn Trent (2.92%) and British American Tobacco (2.69%). Biggest losers were Burberry (-5.80%), Scottish Mortgage (-3.62%) and St. Jamess (-2.97%)."
+    },
+    {
+      "id": "mkt:019f70d2-4d1f-7aab-8de8-e5faf3a13bb2",
+      "time": "2026-07-18 00:04:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reports the US has deployed dozens of air-to-air refueling tankers to Israel to respond to a possible escalation."
+    },
+    {
+      "id": "4994954",
+      "time": "2026-07-18 00:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【育碧娛樂：《刺客信條：黑旗 記憶重置》一週內銷量突破300萬份】育碧娛樂旗下公司Vantage Studios宣佈，自7月9日發售以來，《刺客信條™：黑旗 記憶重置》（Assassin’s Creed™ Black Flag Resynced）在短短一週內銷量已突破300萬份。該作首日便以200萬份的強勁成績開局，這一新里程碑進一步印證了其持續的熱度。"
+    },
+    {
+      "id": "mkt:019f70d1-7494-7aab-8de8-dd7d72c951b9",
+      "time": "2026-07-18 00:03:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose 3.00% intraday to $81.85/bbl."
+    },
+    {
+      "id": "4994953",
+      "time": "2026-07-18 00:02:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據美媒報道，三名美以官員透露，特朗普政府已通知以色列，在美國可能擴大針對伊朗軍事行動前，向該國增派數十架空中加油機。"
+    },
+    {
+      "id": "te:markets:567959",
+      "time": "2026-07-18 00:02:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "GSCI Hits 5-week High — GSCI increased to 671.90 Index Points, the highest since June 2026. Over the past 4 weeks, GSCI Commodity Index gained 4.38%, and in the last 12 months, it increased 21.52%."
+    },
     {
       "id": "4994952",
       "time": "2026-07-18 00:00:06",
@@ -175176,131 +175240,6 @@
         "公司"
       ],
       "text": "市場訊息：斯泰蘭蒂斯集團對英國法院駁回柴油排放訴訟的“絕大部分訴求”表示歡迎。"
-    },
-    {
-      "id": "4981719",
-      "time": "2026-07-11 00:08:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部預計美國期末棉花庫存410萬捆，分析師預期377萬捆，之前預計370萬捆。"
-    },
-    {
-      "id": "4981718",
-      "time": "2026-07-11 00:07:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟批准匈牙利新版復甦與韌性計劃】歐盟委員會10日宣佈，當天已正式透過匈牙利提交的新版復甦與韌性計劃。該計劃預計將為匈牙利提供總額約100億歐元的資金支援。根據歐盟委員會發布的訊息，這筆資金中約65億歐元為贈款，約35億歐元為貸款。匈牙利總理毛焦爾·彼得在社交媒體上說，歐盟資金“即將到位”，將用於交通、能源、醫療等領域。復甦與韌性計劃屬於“下一代歐盟”計劃，是歐盟推出的大規模財政支援計劃。2022年，歐盟以匈牙利在司法改革、反腐措施等方面有違歐盟“法治原則”為由，對其啟動“條件機制”程式，凍結對匈牙利的資金撥付。今年5月，歐委會主席馮德萊恩表示，歐盟將解凍屬於匈牙利的164億歐元歐盟資金，包括“下一代歐盟”計劃的100億歐元。10日，歐盟委員會批准匈牙利加入歐洲檢察官辦公室。馮德萊恩表示，匈牙利加入該機構將有助於確保歐盟資金更好服務匈牙利民眾。（新華社）"
-    },
-    {
-      "id": "te:markets:566099",
-      "time": "2026-07-11 00:07:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.23% Higher — The FTSE 100 Index gained 24 points or 0.23 percent on Friday to close at 10497 points. Gains were led by Vodafone (12.67%), Entain (4.04%) and Marks & Spencer (2.14%). Biggest losers were St. Jamess (-8.63%), AstraZeneca (-3.49%) and Hiscox (-1.63%)."
-    },
-    {
-      "id": "4981717",
-      "time": "2026-07-11 00:06:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "ICE棉花期貨在美國農業部WASDE報告發布後下跌，最新跌幅0.4%。"
-    },
-    {
-      "id": "4981716",
-      "time": "2026-07-11 00:06:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部維持阿根廷2025/2026年度大豆產量預期在5000萬噸不變，市場預期為5008萬噸；維持巴西2025/2026年度大豆產量預期在1.8億噸不變，市場預期為1.80328億噸。將阿根廷2025/2026年度玉米產量預期從之前的6100萬噸上調至6300萬噸，市場預期為6158萬噸；維持巴西2025/2026年度玉米產量預期在1.38億噸不變，市場預期為1.3824億噸。"
-    },
-    {
-      "id": "mkt:019f4cc6-5d5e-7aab-8d37-3ae1fcf07311",
-      "time": "2026-07-11 00:04:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat said Russia's gasoline prices rose 6.8% month-on-month in June, accelerating from a 0.85% rise in May."
-    },
-    {
-      "id": "mkt:019f4cc5-daae-7aab-8d37-35ecf07ad08b",
-      "time": "2026-07-11 00:04:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "USDA maintained Argentina's 2025/26 soybean production forecast at 50.00 mln tonnes, vs. market expected 50.08 mln. It also left Brazil's 2025/26 soybean production forecast at 180.00 mln tonnes, vs. market expected 180.328 mln."
-    },
-    {
-      "id": "mkt:019f4cc5-c512-7aab-8d37-29d945466c21",
-      "time": "2026-07-11 00:04:17",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "USDA raised Argentina 2025/26 corn production forecast to 63.0 mln t from 61.0 mln t; market had expected 61.58 mln t. USDA left Brazil 2025/26 corn production unchanged at 138.0 mln t versus a market estimate of 138.24 mln t."
-    },
-    {
-      "id": "4981715",
-      "time": "2026-07-11 00:03:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部：7月美國2026/2027年度大豆產量預期為44.75億蒲式耳，市場預期為44.59億蒲式耳，6月預期為44.35億蒲式耳。7月美國2026/2027年度大豆期末庫存預期為3.1億蒲式耳，市場預期為3.3億蒲式耳，6月預期為3.1億蒲式耳。7月美國2026/2027年度大豆單產預期為53蒲式耳/英畝，市場預期為53蒲式耳/英畝，6月預期為53蒲式耳/英畝。"
-    },
-    {
-      "id": "4981714",
-      "time": "2026-07-11 00:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯聯邦統計局資料顯示，俄羅斯6月汽油價格漲幅擴大至6.8%，5月漲幅為0.85%。"
-    },
-    {
-      "id": "mkt:019f4cc4-ce46-7aab-8d37-2379a1731a3c",
-      "time": "2026-07-11 00:03:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Rosstat: Russia's June consumer price index rose 0.87% MoM (exp. 0.8%); up 6.02% YoY (exp. 6.0%)."
-    },
-    {
-      "id": "te:markets:566098",
-      "time": "2026-07-11 00:03:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "FTSE 100 Rises Led by Vodafone — The FTSE 100 gained on Friday as markets steadied after a volatile week marked by renewed Middle East tensions. Vodafone shares surged nearly 13% after French billionaire Xavier Niel agreed to acquire Emirates Telecommunications’ stake, making him the company’s largest shareholder. Mining stocks also supported the index, with firm metals prices lifting Rio Tinto by 0.9% and Anglo American by 0.8%. In the FTSE 250, EasyJet jumped after private equity firm Apollo agreed to buy the airline for £7.15 per share in a deal worth around £5.7 billion, exceeding a rival offer from Castlelake. On the downside, St James’s Place dropped by over 8% after reports that a major advice firm plans to leave the wealth manager, raising concerns over adviser retention. AstraZeneca also fell more than 3%, extending losses after a failed drug trial. Despite Friday’s recovery, the FTSE 100 ended the week 1.7% lower, breaking a two-week winning streak."
-    },
-    {
-      "id": "mkt:019f4cc4-8b3e-7aab-8d37-1e591ef3a7af",
-      "time": "2026-07-11 00:02:56",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "USDA July estimates: US 2026/27 soybean production 4.475 bln bu vs market 4.459 bln and June 4.435 bln. 2026/27 ending stocks 310 mln bu vs market 330 mln and June 310 mln. Yield 53 bu/acre, unchanged from June and market expectations."
-    },
-    {
-      "id": "4981713",
-      "time": "2026-07-11 00:02:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯 6 月核心居民消費價格指數環比上漲 0.48%， 同比上漲 5.02%。"
     }
   ]
 }

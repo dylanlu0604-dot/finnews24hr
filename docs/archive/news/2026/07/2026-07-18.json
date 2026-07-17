@@ -1,7 +1,71 @@
 {
   "date": "2026-07-18",
-  "count": 1,
+  "count": 7,
   "items": [
+    {
+      "id": "te:markets:567961",
+      "time": "2026-07-18 00:07:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.08% Higher — The FTSE 100 Index gained 8 points or 0.08 percent on Friday to close at 10581 points. Gains were led by National Grid (3.23%), Severn Trent (2.92%) and British American Tobacco (2.69%). Biggest losers were Burberry (-5.80%), Scottish Mortgage (-3.62%) and St. Jamess (-2.97%)."
+    },
+    {
+      "id": "mkt:019f70d2-4d1f-7aab-8de8-e5faf3a13bb2",
+      "time": "2026-07-18 00:04:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Axios reports the US has deployed dozens of air-to-air refueling tankers to Israel to respond to a possible escalation."
+    },
+    {
+      "id": "4994954",
+      "time": "2026-07-18 00:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【育碧娛樂：《刺客信條：黑旗 記憶重置》一週內銷量突破300萬份】育碧娛樂旗下公司Vantage Studios宣佈，自7月9日發售以來，《刺客信條™：黑旗 記憶重置》（Assassin’s Creed™ Black Flag Resynced）在短短一週內銷量已突破300萬份。該作首日便以200萬份的強勁成績開局，這一新里程碑進一步印證了其持續的熱度。"
+    },
+    {
+      "id": "mkt:019f70d1-7494-7aab-8de8-dd7d72c951b9",
+      "time": "2026-07-18 00:03:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose 3.00% intraday to $81.85/bbl."
+    },
+    {
+      "id": "4994953",
+      "time": "2026-07-18 00:02:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據美媒報道，三名美以官員透露，特朗普政府已通知以色列，在美國可能擴大針對伊朗軍事行動前，向該國增派數十架空中加油機。"
+    },
+    {
+      "id": "te:markets:567959",
+      "time": "2026-07-18 00:02:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "GSCI Hits 5-week High — GSCI increased to 671.90 Index Points, the highest since June 2026. Over the past 4 weeks, GSCI Commodity Index gained 4.38%, and in the last 12 months, it increased 21.52%."
+    },
     {
       "id": "4994952",
       "time": "2026-07-18 00:00:06",
