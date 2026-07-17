@@ -1,7 +1,28 @@
 {
   "date": "2026-07-18",
-  "count": 111,
+  "count": 113,
   "items": [
+    {
+      "id": "mkt:019f715d-382b-7aab-8dea-602be7498181",
+      "time": "2026-07-18 02:36:02",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Airstrike hits Iranian Kurdish opposition camp in Iraq's Kurdistan Region】An airstrike hit a camp belonging to an Iranian Kurdish opposition group in Tasluja, Sulaymaniyah province, in Iraq's Kurdistan Region on the evening of the 17th (local time)."
+    },
+    {
+      "id": "4994999",
+      "time": "2026-07-18 02:35:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "百勝餐飲集團午後股價下跌 2.1%；業內訊息稱，生鮮供應商泰勒農場昨日已致電包括百勝餐飲、思科在內的合作客戶，要求渠道停售其碎生菜產品。"
+    },
     {
       "id": "4994998",
       "time": "2026-07-18 02:34:29",
