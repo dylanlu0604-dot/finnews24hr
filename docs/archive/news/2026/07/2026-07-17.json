@@ -1,7 +1,89 @@
 {
   "date": "2026-07-17",
-  "count": 3091,
+  "count": 3101,
   "items": [
+    {
+      "id": "mkt:019f7085-9918-7aab-8de7-e06415830460",
+      "time": "2026-07-17 22:40:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yemen: oil/chemical tanker Asana reportedly hijacked in Gulf of Aden】Yemeni coastguard said on July 17 the tanker Asana was reportedly hijacked in the Gulf of Aden about 26 nm off Hadramawt. The IMO 9035838 vessel, flagged to Tanzania and carrying oil and chemical products, was boarded by unauthorized persons while eastbound; there were no private armed guards on board and the ship issued a distress signal. AIS data show a marked course change toward Bosaso, Puntland. Yemeni authorities preliminarily judge the incident a pirate hijacking, possibly aimed at seizing the vessel and crew for ransom."
+    },
+    {
+      "id": "4994885",
+      "time": "2026-07-17 22:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【胖東來闢謠網傳“於東來座談會發言稿”】7月17日，胖東來發布關於網傳“座談會發言稿”的情況說明稱，“近期，網路上出現大量關於“胖東來創始人於東來先生在北京參加座談會的發言稿”，引發了大家的關注和傳播。網傳的發言稿是虛假杜撰，存在自行編寫、拼接和演繹的情況，並非胖東來官方釋出內容，也非於東來先生在任何官方會議、公開場合的真實發言，系不實資訊。”"
+    },
+    {
+      "id": "4994884",
+      "time": "2026-07-17 22:40:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "薩博(SAAB)股價午後交易時段上漲9.1%，有望創下2025年7月以來最大單日漲幅。"
+    },
+    {
+      "id": "4994883",
+      "time": "2026-07-17 22:40:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年澳門入境旅客2094.4萬人次 同比增9%】澳門特區政府統計暨普查局17日公佈的資料顯示，今年上半年入境旅客2094.4萬人次，同比上升9%。其中，中國內地旅客和國際旅客分別同比增加11%和6%。 按客源分析，上半年中國內地旅客同比增11%至1528.6萬人次，個人遊旅客841.7萬人次，同比增13.6%。香港特區旅客365.9萬人次、臺灣地區旅客57.5萬人次，同比分別增0.3%和24.7%。 上半年國際旅客142.2萬人次，同比增加6%。（新華社）"
+    },
+    {
+      "id": "mkt:019f7084-32da-7aab-8de7-dfef696e2e94",
+      "time": "2026-07-17 22:38:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Pakistan military says 24 terrorists killed】Pakistan's military said on the 17th that security forces killed 24 terrorists in an operation in Khyber Pakhtunkhwa over the previous 24 hours. The statement said the group, identified as the Pakistan Taliban, had escalated attacks on police; those killed were allegedly involved in multiple attacks and violent incidents. Security forces seized substantial weapons and ammunition and clearance operations are ongoing."
+    },
+    {
+      "id": "4994882",
+      "time": "2026-07-17 22:38:58",
+      "tags": [
+        "行業"
+      ],
+      "text": "【本週滬市ETF資金流入超千億元 】本週滬市ETF資金流入超千億元，增量資金持續流入A股市場。截至7月16日，本週滬市ETF資金淨流入達1068億元，其中股票ETF淨流入額達926億元(寬基ETF淨流入額達668億元)，資金主要流向滬深300、中證500、中證1000、科創50、上證50等寬基ETF，資金大幅流入體現了各類投資者對A股市場的堅定信心。"
+    },
+    {
+      "id": "4994881",
+      "time": "2026-07-17 22:38:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：截至7月15日，巴西2026/27年度咖啡採摘已完成64%。"
+    },
+    {
+      "id": "4994880",
+      "time": "2026-07-17 22:37:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家颶風中心風暴公告：埃利達的強度仍未出現明顯變化。"
+    },
+    {
+      "id": "4994879",
+      "time": "2026-07-17 22:37:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "LS 電力表示，美國電力行業不受國際原油市場波動衝擊。"
+    },
+    {
+      "id": "4994877",
+      "time": "2026-07-17 22:35:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【秘魯對華熱軋碳鋼管作出反傾銷終裁】7月16日，秘魯國家競爭和智慧財產權保護局傾銷、補貼和消除非關稅貿易壁壘委員會在官方日報《秘魯人報》（El Peruano）釋出第156-2026/CDB-INDECOPI號公告，對原產於中國的用於鋼結構的熱軋碳鋼管作出反傾銷肯定性終裁，決定徵收為期五年的反傾銷稅，稅額為49.2美元/噸至193.6美元/噸。"
+    },
     {
       "id": "4994876",
       "time": "2026-07-17 22:35:04",
