@@ -1,7 +1,17 @@
 {
   "date": "2026-07-18",
-  "count": 24,
+  "count": 25,
   "items": [
+    {
+      "id": "mkt:019f70f5-457d-7aab-8de9-0c1e34984828",
+      "time": "2026-07-18 00:42:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【Financial Times: Trump Media & Technology Group seeks up to $100,000/month for millisecond access to Truth Social posts】Financial Times reports Trump Media & Technology Group has discussed charging potential buyers of its Truth API up to $100,000/month for faster, millisecond-speed access to posts on Truth Social. The FT says proprietary trading firms and hedge funds may pay the fee because market reaction to major news can be as fast as one millisecond."
+    },
     {
       "id": "4994962",
       "time": "2026-07-18 00:30:34",
