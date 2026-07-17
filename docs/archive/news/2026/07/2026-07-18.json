@@ -1,7 +1,46 @@
 {
   "date": "2026-07-18",
-  "count": 57,
+  "count": 61,
   "items": [
+    {
+      "id": "4994978",
+      "time": "2026-07-18 01:35:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗塔斯尼姆通訊社：一艘懸掛泰國國旗的船隻無視警告，未經伊朗革命衛隊許可試圖穿越霍爾木茲海峽，隨即遭到打擊。"
+    },
+    {
+      "id": "mkt:019f7124-be3e-7aab-8de9-a054cb014de4",
+      "time": "2026-07-18 01:34:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS cited sources saying Iran's Islamic Revolutionary Guard Corps attacked a vessel in the Strait of Hormuz."
+    },
+    {
+      "id": "4994977",
+      "time": "2026-07-18 01:34:04",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社援引知情人士訊息稱，伊朗革命衛隊在霍爾木茲海峽對一艘船隻實施了打擊。"
+    },
+    {
+      "id": "4994976",
+      "time": "2026-07-18 01:31:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破88美元/桶，日內漲4.48%。"
+    },
     {
       "id": "4994975",
       "time": "2026-07-18 01:30:41",
