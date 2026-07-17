@@ -1,7 +1,115 @@
 {
   "date": "2026-07-17",
-  "count": 2537,
+  "count": 2549,
   "items": [
+    {
+      "id": "4994489",
+      "time": "2026-07-17 19:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊Buddy全系產品內建模型已支援Kimi K3】7月17日，騰訊宣佈Buddy全系產品內建模型已支援Kimi K3。據騰訊方面介紹，目前資源緊張，CodeBuddy現階段僅對“企業專享版”及“個人訂閱使用者”優先開放Kimi K3，在使用量較大的情況下，可能會出現排隊等候現象。待資源充足後，會面向所有使用者開放。"
+    },
+    {
+      "id": "te:markets:567889",
+      "time": "2026-07-17 19:36:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Eases as Burnham Becomes Labour Leader — Sterling fell below $1.345, pulling back from Thursday's two-month high of $1.354, after Andy Burnham was officially confirmed as the new leader of the UK Labour Party following an uncontested leadership race. Burnham succeeds Keir Starmer and is expected to become prime minister next week. In his first speech as leader, Burnham said Labour was united and committed to putting political power \"at the service of people,\" while pledging to build on the foundations laid by Starmer. Markets are now focused on Burnham's choice of Chancellor. Reports that Shabana Mahmood is the frontrunner have reassured investors, easing concerns over a more expansionary fiscal stance. Meanwhile, escalating tensions in the Middle East have pushed oil prices to one-month highs, adding to inflation risks and reinforcing expectations that the Bank of England will continue tightening policy. Markets now fully price in a rate hike by year-end, with another increase expected by March 2027."
+    },
+    {
+      "id": "4994487",
+      "time": "2026-07-17 19:35:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂心醫療：控股子公司完成數字式多道心電圖機註冊證變更】樂心醫療公告稱，其控股子公司深圳市瑞康宏業科技開發有限公司申報的數字式多道心電圖機變更醫療器械註冊證事項已獲批。註冊證編號為粵械注準20172071217，規格型號有e1200等多種。主要變更內容為根據最新強制性標準更新產品技術要求。該變更有助於提升公司市場拓展能力，但目前無法預測對未來業績的影響。"
+    },
+    {
+      "id": "4994486",
+      "time": "2026-07-17 19:35:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度總理納倫德拉・莫迪：我們要讓清潔成為習慣，讓潔淨成為文化。"
+    },
+    {
+      "id": "4994485",
+      "time": "2026-07-17 19:35:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【當選英國工黨黨首，伯納姆發聲】據英國天空新聞網報道，當地時間7月17日，英國執政黨工黨在特別大會上宣佈，安迪·伯納姆當選工黨黨首。伯納姆隨後在當選工黨黨首後的演講中感謝了現場所有人和支持者，稱這是一個“重要的時刻”，並表示自己“已經準備好了”。（環球網）"
+    },
+    {
+      "id": "mkt:019f6fdb-b613-7aab-8de3-4aedcfcf2a91",
+      "time": "2026-07-17 19:34:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Borsa Istanbul said it will apply an up-tick rule to short sales for the remainder of the trading day."
+    },
+    {
+      "id": "mkt:019f6fdb-745f-7aab-8de3-41e6eef41ef3",
+      "time": "2026-07-17 19:34:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ICBC Credit Suisse files dividend-focused active ETF】CSRC website on July 17 shows the first batch of active ETF applications listed as \"materials received\"; ICBC Credit Suisse Asset Management's filing is a dividend-focused active ETF."
+    },
+    {
+      "id": "4994484",
+      "time": "2026-07-17 19:34:30",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "英國工黨領袖伯納姆：我將成為一名支援工商業發展的工黨領袖。"
+    },
+    {
+      "id": "4994483",
+      "time": "2026-07-17 19:34:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華夏基金首批申報主動ETF】7月17日，證監會官網顯示，華夏基金遞交的主動ETF產品註冊申請材料——華夏質量價值甄選主動管理交易型開放式股票證券投資基金已經“接收材料”。（上證報）"
+    },
+    {
+      "id": "mkt:019f6fda-f7e9-7aab-8de3-39e1babd5192",
+      "time": "2026-07-17 19:34:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huaxia Fund submits inaugural active ETF registration】July 17 — The CSRC’s website shows it has received registration materials from Huaxia Fund for an actively managed ETF, the Huaxia Quality Value Select Active Management ETF."
+    },
+    {
+      "id": "4994482",
+      "time": "2026-07-17 19:33:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "瑞士鐘錶集團首席財務官：目前暫無在美國上市的計劃。"
+    },
+    {
+      "id": "mkt:019f6fda-72f8-7aab-8de3-362ec841f77b",
+      "time": "2026-07-17 19:33:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution"
+      ],
+      "text": "【Huawei says Ascend supernodes commercially deployed in over 750 installations】Huawei told the World Artificial Intelligence Conference in Shanghai that its Ascend 384 supernode has been commercially deployed in over 750 installations across internet, telecom carriers, finance, education, healthcare, transport and manufacturing. The Ascend 950 supernode (Atlas 950 SuperPoD) was publicly shown for the first time; Huawei said supernodes are becoming the mainstream compute infrastructure in the Agentic AI era."
+    },
     {
       "id": "4994481",
       "time": "2026-07-17 19:33:12",
