@@ -1,7 +1,53 @@
 {
   "date": "2026-07-18",
-  "count": 193,
+  "count": 198,
   "items": [
+    {
+      "id": "4995055",
+      "time": "2026-07-18 04:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部：特朗普政府將巴氏殺菌橙汁的最低白利糖度標準從10.5度下調至10度。"
+    },
+    {
+      "id": "4995054",
+      "time": "2026-07-18 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.79%】海天網路跌10.16%，億咖通科技跌6.41%，萬物新生跌5.84%，金山雲跌5.02%，嗶哩嗶哩跌5.00%。"
+    },
+    {
+      "id": "4995053",
+      "time": "2026-07-18 03:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部：宣佈美國食品藥品監督管理局釋出最終規定，修訂巴氏殺菌橙汁的過時身份標準。"
+    },
+    {
+      "id": "4995052",
+      "time": "2026-07-18 03:57:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：古巴央行宣佈採取措施改善現金獲取渠道並促進數字支付。"
+    },
+    {
+      "id": "mkt:019f71a6-f895-7aab-8deb-5c3fa8dfe392",
+      "time": "2026-07-18 03:56:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said that in the first three days after resuming enforcement of blockade measures in the Strait of Hormuz, US forces intercepted and forced four merchant vessels to divert, disabled one vessel and boarded another for inspection to ensure compliance with relevant regulations."
+    },
     {
       "id": "4995051",
       "time": "2026-07-18 03:55:53",

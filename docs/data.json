@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-18 03:56:55",
-  "count": 18934,
+  "updated": "2026-07-18 04:00:52",
+  "count": 18935,
   "items": [
+    {
+      "id": "4995055",
+      "time": "2026-07-18 04:00:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部：特朗普政府將巴氏殺菌橙汁的最低白利糖度標準從10.5度下調至10度。"
+    },
+    {
+      "id": "4995054",
+      "time": "2026-07-18 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.79%】海天網路跌10.16%，億咖通科技跌6.41%，萬物新生跌5.84%，金山雲跌5.02%，嗶哩嗶哩跌5.00%。"
+    },
+    {
+      "id": "4995053",
+      "time": "2026-07-18 03:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部：宣佈美國食品藥品監督管理局釋出最終規定，修訂巴氏殺菌橙汁的過時身份標準。"
+    },
+    {
+      "id": "4995052",
+      "time": "2026-07-18 03:57:43",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：古巴央行宣佈採取措施改善現金獲取渠道並促進數字支付。"
+    },
+    {
+      "id": "mkt:019f71a6-f895-7aab-8deb-5c3fa8dfe392",
+      "time": "2026-07-18 03:56:35",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said that in the first three days after resuming enforcement of blockade measures in the Strait of Hormuz, US forces intercepted and forced four merchant vessels to divert, disabled one vessel and boarded another for inspection to ensure compliance with relevant regulations."
+    },
     {
       "id": "4995051",
       "time": "2026-07-18 03:55:53",
@@ -174564,45 +174610,6 @@
         "Importance 1"
       ],
       "text": "MXN Strengthens with Emerging Market Currencies — The Mexican peso strengthened to 17.48 per USD in July from 17.63 earlier in the month, tracking gains across other emerging market currencies as the US dollar weakened. Risk appetite improved after signs that diplomatic talks between the US and Iran are continuing despite recent tensions, easing geopolitical concerns and reducing demand for safe-haven assets. Domestically, Mexico's annual inflation rate eased to 3.37% in June 2026 from 3.94% in May, the lowest reading since December 2020. The figure came in slightly below market expectations of 3.52% and remained within the Bank of Mexico's target tolerance range of one percentage point around 3%. Meanwhile, Mexico's industrial output contracted by more than expected in May, though the impact on the peso was limited as improving global risk sentiment outweighed weaker domestic data."
-    },
-    {
-      "id": "4981895",
-      "time": "2026-07-11 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收漲】道指漲0.29%，標普500指數漲0.42%，納指漲0.29%。惠好漲4.16%，SBA通訊公司漲4.14%。“七姐妹”方面：Meta Platforms漲5.97%，英偉達漲4.03%，特斯拉漲0.30%，微軟漲0.19%，蘋果跌0.28%，谷歌跌0.34%，亞馬遜跌0.69%。"
-    },
-    {
-      "id": "4981894",
-      "time": "2026-07-11 04:00:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收跌0.19%】360數科跌11.22%，樂信跌8.51%，盛豐物流跌8.38%，網易有道跌5.15%，網易跌4.44%。"
-    },
-    {
-      "id": "mkt:019f4d9c-314e-7aab-8d39-9d66cd71526d",
-      "time": "2026-07-11 03:58:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【International oil prices slip on 10th】NYMEX August WTI light sweet crude futures fell $0.67 to $71.41/bbl (-0.93%) at the close; ICE September Brent futures fell $0.29 to $76.01/bbl (-0.38%)."
-    },
-    {
-      "id": "4981893",
-      "time": "2026-07-11 03:57:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價10日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌67美分，收於每桶71.41美元，跌幅為0.93%；9月交貨的倫敦布倫特原油期貨價格下跌29美分，收於每桶76.01美元，跌幅為0.38%。"
     }
   ]
 }
