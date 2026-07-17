@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-18 04:34:28",
-  "count": 18933,
+  "updated": "2026-07-18 04:38:24",
+  "count": 18940,
   "items": [
+    {
+      "id": "mkt:019f71cc-076b-7aab-8deb-c0d093b4e686",
+      "time": "2026-07-18 04:37:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A US–Mexico meeting will be held on July 21 local time."
+    },
+    {
+      "id": "4995084",
+      "time": "2026-07-18 04:36:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國法官裁定，特朗普政府無權根據新施政優先順序廣泛自由裁量撤銷撥款資金。"
+    },
+    {
+      "id": "4995083",
+      "time": "2026-07-18 04:36:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國和墨西哥將討論鋼鐵、鋁和汽車貿易。"
+    },
+    {
+      "id": "4995082",
+      "time": "2026-07-18 04:35:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國：談判團隊將召開為期三天的會議。"
+    },
+    {
+      "id": "mkt:019f71ca-cef8-7aab-8deb-ba0f529782c5",
+      "time": "2026-07-18 04:35:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US to hold third bilateral talks in Mexico City with Mexican officials to consult on a joint review of the US–Mexico Free Trade Agreement."
+    },
+    {
+      "id": "4995081",
+      "time": "2026-07-18 04:35:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國和墨西哥將於7月21日舉行第三輪雙邊談判。"
+    },
+    {
+      "id": "te:markets:567984",
+      "time": "2026-07-18 04:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.70% Lower — The Dow Jones Index dropped 366 points or 0.70 percent on Friday to close at 52187 points. Losses were led by Coca-Cola (-4.04%), IBM (-3.14%) and Goldman Sachs (-2.67%). Offsetting the fall, top gainers were Travelers Companies (9.32%), Cisco Systems (2.14%) and Chevron (1.91%)."
+    },
+    {
+      "id": "4995080",
+      "time": "2026-07-18 04:34:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國和墨西哥將在墨西哥城舉行會議，審查美墨加協定。"
+    },
+    {
+      "id": "4995079",
+      "time": "2026-07-18 04:34:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：TXNM 能源與黑石基礎設施集團延長合併協議。"
+    },
     {
       "id": "mkt:019f71c9-3f02-7aab-8deb-b7d4f2f12716",
       "time": "2026-07-18 04:34:01",
@@ -174559,27 +174635,6 @@
         "Importance 0"
       ],
       "text": "El Salvador Producer Inflation Rises in June — Producer prices in El Salvador rose 3.2% year-on-year in June 2026, accelerating from a 2.8% increase in the previous month. The pickup was largely driven by higher costs for transport and warehousing (8.7% vs. 3.2%) and electricity, gas, steam, and air conditioning (15.2% vs. 10.3%). The increases reflected higher energy costs amid disruptions to oil and gas supplies in the Middle East due to the US-Iran conflict. Prices also rose at a faster pace for manufacturing (2.8% vs. 2.3%), real estate (1.7% vs. 1.4%), professional, scientific, and technical activities (1.4% vs. 1.0%), and education (2.6%). Meanwhile, producer prices continued to decline for water supply, sewerage, waste management, and remediation activities, falling 0.15%, unchanged from the previous month."
-    },
-    {
-      "id": "te:markets:566132",
-      "time": "2026-07-11 04:35:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.28% Higher — The Dow Jones Index gained 150 points or 0.28 percent on Friday to close at 52637 points. Gains were led by Nvidia (3.91%), Nike (3.74%) and Cisco Systems (2.53%). Biggest losers were IBM (-2.51%), UnitedHealth (-1.53%) and Merck (-1.22%)."
-    },
-    {
-      "id": "mkt:019f4dbd-46a7-7aab-8d3a-172a956f1c99",
-      "time": "2026-07-11 04:34:37",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Iran says it never sought talks with US; agrees mediators may visit】Iran Foreign Ministry spokesman Baghaei said on the 10th Iran never sought negotiations with the US but has agreed to allow mediators to visit. Earlier the same day President Trump posted on Truth Social that Iran wants to continue \"negotiations\" with the US and that the US has agreed to continue talks."
     }
   ]
 }
