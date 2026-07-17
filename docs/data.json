@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-17 23:27:24",
-  "count": 19037,
+  "updated": "2026-07-17 23:31:29",
+  "count": 19039,
   "items": [
+    {
+      "id": "mkt:019f70b3-a762-7aab-8de8-765a0c0929af",
+      "time": "2026-07-17 23:30:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House press secretary Leavitt said the U.S. consumer confidence index rose to a five-month high in early July, attributing the gain to lower gasoline prices boosting sentiment."
+    },
+    {
+      "id": "4994931",
+      "time": "2026-07-17 23:30:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌0.58%，報24771.68點，本週累跌約1.2%。法國股指初步收跌0.69%，義大利股指初步收跌1.20%、銀行指數跌2.23%，英國股指初步收跌0.06%。"
+    },
+    {
+      "id": "4994930",
+      "time": "2026-07-17 23:30:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌0.60%，報639.87點，本週累跌約0.2%。歐元區STOXX 50指數初步收跌1.09%，報6215.32點，本週累跌約0.8%。富時泛歐績優300指數初步收跌0.65%，報2557.40點。"
+    },
+    {
+      "id": "4994929",
+      "time": "2026-07-17 23:30:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4020美元/盎司，日內漲0.70%。"
+    },
+    {
+      "id": "4994928",
+      "time": "2026-07-17 23:28:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "Placer.AI 客流資料：6 月 29 日至 7 月 6 日當週，美國塔可貝爾門店到店客流同比下滑 1.5%。"
+    },
+    {
+      "id": "mkt:019f70b1-97e0-7aab-8de8-6bf682f2ad0c",
+      "time": "2026-07-17 23:28:34",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Analyst: Consumer confidence survey offers relief for Fed policy】Pantheon’s Samuel Tombs wrote the University of Michigan consumer sentiment index rose to 54.4 in July from 49.5 in June, beating economists’ 50.5 forecast but remaining below last year’s average. He said falling inflation expectations provide some comfort to the Fed, though the Fed chair may be disappointed that his hawkish remarks did not push expectations lower. Tombs added that workers’ limited bargaining power makes wage growth unlikely to accelerate in response to the recent uptick in headline inflation."
+    },
+    {
+      "id": "4994927",
+      "time": "2026-07-17 23:26:51",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "巴西財政部長將在未來數日至數週內與多家企業舉行會談。"
+    },
     {
       "id": "mkt:019f70af-4927-7aab-8de8-66fb169d2f91",
       "time": "2026-07-17 23:26:03",
@@ -175368,53 +175432,6 @@
         "國際"
       ],
       "text": "歐洲斯托克指數下跌0.15%；歐元區藍籌股指數下跌0.25%。"
-    },
-    {
-      "id": "4981674",
-      "time": "2026-07-10 23:30:24",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利警告稱晶片製造商的定價能力面臨更大壓力】摩根士丹利的Lisa Shalett呼籲投資者對晶片股保持謹慎，她表示，更多跡象表明，晶片製造商的定價能力有限，意味著這些股票可能因為對人工智慧支出的樂觀情緒而上漲過頭。摩根士丹利財富管理首席投資官Shalett週五表示：“我們看到AI資料中心技術棧正在被重新設計，以納入成本更低的自研晶片，而許多超大規模雲服務商如今在自行設計這些晶片。”“總體而言，該交易領域仍有充足的資金可用，”Shalett表示。但她指出，市場正出現業內一種典型現象：“當供應鏈出現瓶頸，並且部分儲存晶片廠商獲取超額利潤時，工程師們就會著手”尋找更便宜的替代方案。"
-    },
-    {
-      "id": "te:economy:566091",
-      "time": "2026-07-10 23:30:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Bonds",
-        "Importance 1"
-      ],
-      "text": "Bonds Update: Japan 10Y Bond Yield Drops by 12 bps — Government bonds yields are lower on Friday. Top losers are Japan 10Y (-12.20bps), Brazil 10Y (-11.50bps), Germany 10Y (-1.86bps) and US 10Y (-0.80bps)."
-    },
-    {
-      "id": "4981673",
-      "time": "2026-07-10 23:29:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會主席卡爾：聯邦通訊委員會尚未就迪士尼相關事宜作出裁定。"
-    },
-    {
-      "id": "4981672",
-      "time": "2026-07-10 23:28:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會主席卡爾：聯邦通訊委員會不排除吊銷迪士尼廣播牌照的可能性。"
-    },
-    {
-      "id": "4981671",
-      "time": "2026-07-10 23:28:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲政策報告重申對價格穩定的承諾 稱一些通脹指標過去一年回落】美聯儲週五在華盛頓釋出提交國會的7月貨幣政策報告，其中強調將致力於實現價格穩定。報告指出，受關稅影響，去年下半年“消費者通脹指標穩步上升”；今年以來，受伊朗戰爭推高能源價格影響，通脹進一步攀升。報告同時指出，包括美聯儲主席沃什此前重點提及的PCE截尾均值在內的其他一些通脹指標，過去一年有所回落。美聯儲表示，將準備動用所有政策工具，實現充分就業和價格穩定目標，尤其是在聯邦基金利率受有效下限約束時。報告還稱，美國勞動生產率增長依然強勁。"
     }
   ]
 }
