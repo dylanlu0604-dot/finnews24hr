@@ -1,7 +1,141 @@
 {
   "date": "2026-07-17",
-  "count": 2947,
+  "count": 2961,
   "items": [
+    {
+      "id": "mkt:019f7057-24fd-7aab-8de6-8c7d3c099950",
+      "time": "2026-07-17 21:49:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Angola's preliminary export plan for September sets crude shipments at 1.08 mln bpd."
+    },
+    {
+      "id": "te:markets:567937",
+      "time": "2026-07-17 21:49:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Netflix Stock Price Hits 23-month Low — Netflix shares decreased to 65.48 USD, the lowest since August 2024. Over the past 4 weeks, Netflix lost 14.25%, and in the last 12 months, it decreased 48.21%."
+    },
+    {
+      "id": "4994796",
+      "time": "2026-07-17 21:49:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊拉克北部一伊朗反政府武裝遭襲9死3傷】伊拉克北部庫爾德自治區（庫區）一名安全訊息人士17日說，伊朗當天向庫區蘇萊曼尼亞省發射多枚導彈，導致活躍在當地的一伊朗反政府武裝至少9名成員死亡、3人受傷。（新華社）"
+    },
+    {
+      "id": "4994795",
+      "time": "2026-07-17 21:49:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "默茨談及核威懾：需適應全新國際格局。"
+    },
+    {
+      "id": "te:markets:567936",
+      "time": "2026-07-17 21:48:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "ProLogis Stock Price Hits 4-year High — ProLogis shares increased to 152.60 USD, the highest since May 2022. Over the past 4 weeks, ProLogis gained 8.16%, and in the last 12 months, it increased 43.23%."
+    },
+    {
+      "id": "te:markets:567935",
+      "time": "2026-07-17 21:48:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Prices Extend Gains — Crude oil extended its gains to above $81 per barrel on Friday, reaching its highest level in a month, after Kuwait said Iran had attacked a power and water desalination plant. Meanwhile, reports indicated that Iran launched strikes against US targets in Bahrain, Jordan, Kuwait, Oman, Qatar and Syria in retaliation for Washington's latest round of military attacks. The US Central Command said it had completed its sixth consecutive night of strikes against Iran, targeting dozens of military sites. Also, reports indicated that Iran had instructed Houthi forces to prepare to disrupt shipping through the Red Sea if the US targets Iranian power infrastructure. Meanwhile, commercial traffic through the Strait of Hormuz has remained largely limited. Oil prices have risen more than 10% this week as hostilities intensified, raising fears of a broader regional conflict. Early this week, the US reinstated a naval blockade targeting Iranian ports near the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f7055-7e0d-7aab-8de6-834af70fdbd4",
+      "time": "2026-07-17 21:47:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【ZELENSKIY names ex-interior minister Igor Klimenko as National Security and Defense Council secretary】ZELENSKIY said on social media on the 17th that former interior minister Igor Klimenko will replace Umerov as secretary of Ukraine's National Security and Defense Council (NSDC); he met Klimenko that day and appointment paperwork is being prepared. ZELENSKIY said the NSDC's primary tasks are efficient coordination of security and defense work, daily oversight of implementation of decisions, and coordinating defense production as a priority."
+    },
+    {
+      "id": "4994794",
+      "time": "2026-07-17 21:47:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：索羅門群島基拉基拉西北 16 公里處發生 5.1 級地震。"
+    },
+    {
+      "id": "4994793",
+      "time": "2026-07-17 21:47:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【快看漫畫發起成立“快看IP生態聯盟”】7月17日訊息，快看漫畫發起成立“快看IP生態聯盟”，並宣佈與騰訊音樂人、京東圖書、國文聚等生態夥伴展開戰略合作。"
+    },
+    {
+      "id": "4994791",
+      "time": "2026-07-17 21:46:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：法國反壟斷機構附條件批准尤拉利斯與邁薩杜爾併購交易。"
+    },
+    {
+      "id": "mkt:019f7053-e8c6-7aab-8de6-7a4e3ce0d950",
+      "time": "2026-07-17 21:46:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SKHY.O",
+        "Impact bearish"
+      ],
+      "text": "SK Hynix ADR (SKHY.O) fell below its $149 issue price for the first time."
+    },
+    {
+      "id": "mkt:019f7053-b0cb-7aab-8de6-76732451d516",
+      "time": "2026-07-17 21:46:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bearish",
+        "INTC.O",
+        "TSM.N"
+      ],
+      "text": "Philadelphia Semiconductor Index fell more than 5%; AMD (AMD.O) down over 7%, Intel (INTC.O) down over 6%, TSMC (TSM.N) down over 5%."
+    },
+    {
+      "id": "4994790",
+      "time": "2026-07-17 21:45:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士ADR首次跌破149美元的上市價格。"
+    },
+    {
+      "id": "4994789",
+      "time": "2026-07-17 21:45:43",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "美國密歇根大學7月消費者信心指數初值將於美東時間上午10點公佈（北京時間晚上十點）；預計為50.5。"
+    },
     {
       "id": "mkt:019f7053-5e5b-7aab-8de6-6d0f9bde86ec",
       "time": "2026-07-17 21:45:39",
