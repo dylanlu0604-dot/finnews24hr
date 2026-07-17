@@ -1,7 +1,86 @@
 {
   "date": "2026-07-17",
-  "count": 3058,
+  "count": 3067,
   "items": [
+    {
+      "id": "mkt:019f7075-6e90-7aab-8de7-aa6b014b5c6c",
+      "time": "2026-07-17 22:22:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【July U.S. consumer sentiment rises; Middle East flare-up raises downside risk】University of Michigan consumer sentiment rose to 54.4 in July, the highest since February, versus a June final of 49.5 and economists’ forecast of 51.0. The survey ran June 23–July 13; more than 70% of interviews were completed before last week’s breakdown of a U.S.-Iran ceasefire that pushed oil to a one-month high and lifted gasoline prices. The survey director Joanne Xu said the July gain was broad-based across age, income, wealth and political affiliation, but consumers remain downbeat on the outlook—sentiment is 12% lower than a year ago—and the confidence upswing may not persist if gasoline prices resume rising."
+    },
+    {
+      "id": "4994857",
+      "time": "2026-07-17 22:22:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國軟體總經理周在龍一行赴中國電氣裝備集團開展座談交流】7月17日，中國軟體黨委副書記、總經理周在龍與中國電氣裝備集團黨委常委、紀委書記蔡雙英開展座談交流。雙方圍繞紀檢監察資訊化、合規風控數字化、樂企財稅數智化、創新聯合體建設等核心方向開展深度研討。"
+    },
+    {
+      "id": "4994856",
+      "time": "2026-07-17 22:21:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版預測票房顯示，電影《八仙》預測票房已出，預測總票房11.62億。"
+    },
+    {
+      "id": "4994855",
+      "time": "2026-07-17 22:21:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部啟動水文現代化建設三年行動】水利部近日印發《水文現代化建設三年行動方案（2026—2028年）》，啟動水文現代化建設三年行動。《行動方案》提出，至2028年，推動國家水文站網體系進一步最佳化，雨水情監測立體感知能力進一步提升，“三道防線”耦合貫通範圍進一步擴大至有防洪任務的主要江河流域。（央視新聞）"
+    },
+    {
+      "id": "4994854",
+      "time": "2026-07-17 22:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：沃爾瑪美國營運長將辭職。"
+    },
+    {
+      "id": "mkt:019f7072-fcb9-7aab-8de7-a2e5683e02da",
+      "time": "2026-07-17 22:20:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "{\"title\":\"Baltic Dry Index falls, posts weekly loss as capesize rates weaken\",\"content\":\"Baltic Dry Index (BDI) fell 88 points (3.1%) to 2,752 on Friday, its lowest since July 3, and is down just over 6% for the week. The capesize index (BCI) slid 242 points (5.6%) to 4,097, down nearly 12% on the week; capesize daily earnings declined $2,196 to $33,653. Capesizes typically carry about 150,000 dwt of iron ore and coal. The panamax index (BPI) fell 9 points (0.4%) to 2,248, down 0.2% for the week; panamax daily earnings fell $80 to $20,236. The supramax index (BSI) rose 7 points (0.4%) to 1,737, its highest since August 2022, up 1.8% this week. The handysize index (BHSI) eased 1 point to 903.\""
+    },
+    {
+      "id": "4994853",
+      "time": "2026-07-17 22:19:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 沃爾瑪進一步調整高層管理團隊。"
+    },
+    {
+      "id": "4994852",
+      "time": "2026-07-17 22:19:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "可口可樂股價下跌2.3%，此前其旗下FAIRLIFE部門遭遇網路攻擊。"
+    },
+    {
+      "id": "4994851",
+      "time": "2026-07-17 22:19:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數縮窄跌幅至0.5%。"
+    },
     {
       "id": "4994850",
       "time": "2026-07-17 22:18:36",
