@@ -1,7 +1,145 @@
 {
   "date": "2026-07-17",
-  "count": 2159,
+  "count": 2174,
   "items": [
+    {
+      "id": "4994184",
+      "time": "2026-07-17 17:37:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【中美工商界人士期待共同探索經貿合作新機遇】美國中國總商會16日在紐約舉行中美工商界對話交流活動。與會人士表示，中美兩國經貿領域互利合作空間依然廣闊，期待共同探索經貿合作新機遇。美國中國總商會會長、中國工商銀行美國區域機構執行長張劍宇在致辭中表示，中美互利合作的基礎依然強勁，相信透過繼續接觸和共同的承諾，中美商界將繼續發現新機遇並共同創造新價值。中國駐紐約總領事陳立在致辭中說，中美經貿合作互利共贏的本質並未改變，發展空間依然廣闊。在元首外交戰略引領下，雙方經貿團隊取得總體平衡積極的成果，同意成立貿易理事會和投資理事會，為中美經貿合作搭建了新的制度性平臺。（新華社）"
+    },
+    {
+      "id": "4994182",
+      "time": "2026-07-17 17:37:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【開潤股份：子公司間接投資DeepSeek，穿透持股比例為0.0114%】開潤股份7月17日釋出公告，公司股票交易於2026年7月15日、2026年7月16日、2026年7月17日連續三個交易日內收盤價格漲幅偏離值累計超過了30%，根據《深圳證券交易所交易規則》的有關規定，屬於股票交易異常波動情形。經核實，公司近期生產經營情況及內外部經營環境未發生重大變化，公司生產經營正常。公司於2026年7月16日披露了《關於全資子公司與專業投資機構共同投資的進展公告》，公司全資子公司寧波浦潤投資合夥企業透過天津礪思星靈創業投資合夥企業間接投資杭州深度求索人工智慧基礎技術研究有限公司4000萬元，穿透持股比例為0.0114%，僅作為財務性投資，對公司整體業績不構成重大影響，不會影響公司現有業務及資產安全，公司亦未就該投資提供任何擔保或流動性支援安排。"
+    },
+    {
+      "id": "4994181",
+      "time": "2026-07-17 17:36:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鈦動科技在WAIC釋出AI營銷智慧體Navos 2.0】7月17訊息，在世界人工智慧大會現場，AI營銷科技企業鈦動科技釋出AI營銷智慧體Navos 2.0，以多智慧體協同的方式串聯市場分析、創意生成、廣告投放等營銷鏈路環節。"
+    },
+    {
+      "id": "mkt:019f6f6f-7730-7aab-8de1-5180127c019f",
+      "time": "2026-07-17 17:36:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meituan",
+        "Alibaba",
+        "3690.HK",
+        "Impact bearish",
+        "9988.HK",
+        "981.HK"
+      ],
+      "text": "Southbound funds were net sellers of CNY 1.457 bln today. Via Shanghai–Hong Kong Stock Connect, Meituan-W and Alibaba-W saw net selling of HKD 966 mln and HKD 962 mln respectively; Zhipu led net buying at HKD 1.13 bln. Via Shenzhen–Hong Kong Stock Connect, SMIC and Hua Hong Semiconductor posted net selling of HKD 2.014 bln and HKD 1.633 bln respectively; the Tracker Fund of Hong Kong recorded the largest net buy at HKD 2.975 bln."
+    },
+    {
+      "id": "4994180",
+      "time": "2026-07-17 17:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：普京今日將與聯邦安全會議常務委員舉行會議。"
+    },
+    {
+      "id": "4994179",
+      "time": "2026-07-17 17:36:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄外長佩斯科夫表示，莫斯科從未乾涉他國內政，同時也希望他國不要干涉俄羅斯內政。"
+    },
+    {
+      "id": "mkt:019f6f6e-c968-7aab-8de1-48b8c739f949",
+      "time": "2026-07-17 17:35:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin will meet today with permanent members of the Security Council."
+    },
+    {
+      "id": "mkt:019f6f6e-a926-7aab-8de1-447d9e51ef45",
+      "time": "2026-07-17 17:35:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "German Chancellor Merz met French President Macron ahead of a joint Franco-German cabinet meeting."
+    },
+    {
+      "id": "mkt:019f6f6e-77b3-7aab-8de1-3cb4fff1ed40",
+      "time": "2026-07-17 17:35:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【BofA Securities: Moonshot AI's new model suggests industry leadership is becoming short-lived】BofA Securities said in a research note that Moonshot AI's new Kimi K3 model has nearly three times the parameter scale of the prior K2, implying competitive advantages in AI are eroding more quickly. The bank said Alibaba's cloud business should still benefit from sustained AI training and application demand despite tight compute capacity, but Tongyi Qianwen's market narrative as an \"open‑source leader\" may face fresh tests. The launch also increases pressure on independent AI labs including Zhipu AI and MiniMax."
+    },
+    {
+      "id": "4994178",
+      "time": "2026-07-17 17:35:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商南油：選舉副董事長並擬投資1.83億美元新建四艘油化船】招商南油公告稱，公司第十一屆董事會第十八次會議於2026年7月17日召開，審議透過兩項決議。一是選舉李增忠為第十一屆董事會副董事長，任期與本屆董事會同步；二是同意下屬全資子公司南京油運（新加坡）有限公司或其指定方投資不超1.828億美元，在廣船國際新建四艘5萬噸級方便旗節能型MR油品/化學品船，預計2028 - 2029年陸續交付。"
+    },
+    {
+      "id": "mkt:019f6f6e-3391-7aab-8de1-30ea18776591",
+      "time": "2026-07-17 17:35:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin rejects all allegations of interference in U.S. elections."
+    },
+    {
+      "id": "4994177",
+      "time": "2026-07-17 17:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮表示，其否認所有關於干預美國選舉的指控。"
+    },
+    {
+      "id": "4994176",
+      "time": "2026-07-17 17:34:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：德國總理默茨與法國總統馬克龍會面，隨後雙方舉行聯合內閣會議。"
+    },
+    {
+      "id": "4994175",
+      "time": "2026-07-17 17:34:25",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【慧辰股份：董事長趙龍因涉嫌違規披露、不披露重要資訊罪被刑事拘留】慧辰股份(688500.SH)公告稱，公司實際控制人、董事長兼總經理趙龍因涉嫌違規披露、不披露重要資訊罪被北京市公安局海淀分局刑事拘留。公司已對相關工作妥善安排，日常經營運作正常，各項工作有序開展。"
+    },
+    {
+      "id": "4994174",
+      "time": "2026-07-17 17:34:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天士力：子公司藥物急性缺血性卒中擴充套件時間窗獲批臨床試驗】天士力公告稱，其全資子公司天士力生物收到國家藥監局核准簽發的注射用重組人尿激酶原（普佑克）《藥品臨床試驗通知書》，獲批開展用於發病4.5至24小時急性缺血性卒中患者的臨床試驗。普佑克已有適應症為發病4.5小時內急性缺血性卒中患者。目前，天士力生物針對此次擴充套件適應症的研發投入為54.85萬元。新藥研發週期長、環節多，易受不確定因素影響，公司將推進專案並及時披露進展。"
+    },
     {
       "id": "4994173",
       "time": "2026-07-17 17:33:59",
