@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-17 16:46:14",
-  "count": 19060,
+  "updated": "2026-07-17 16:50:20",
+  "count": 19055,
   "items": [
+    {
+      "id": "4994040",
+      "time": "2026-07-17 16:49:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【香港聯交所：對佳源服務控股三名前董事採取紀律行動】香港聯交所發文，向下列人士作出董事不適合性宣告及譴責：佳源服務控股(01153.HK)前主席、集團總裁兼執行董事朱宏戈。同時向下列人士作出損害投資者權益宣告及譴責：前執行董事鮑國軍、前執行董事龐博。"
+    },
+    {
+      "id": "4994039",
+      "time": "2026-07-17 16:49:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍尼韋爾科技完成收購莊信萬豐的催化劑技術業務。"
+    },
+    {
+      "id": "4994038",
+      "time": "2026-07-17 16:48:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【水井坊：副總經理兼財務總監蔣磊峰辭職】水井坊公告，公司董事會收到蔣磊峰先生的書面辭職報告，因個人原因，蔣磊峰先生自2026年7月17日起辭去公司董事、戰略委員會委員、副總經理、財務總監職務。蔣磊峰先生辭職不會影響公司正常執行，且不會導致董事會成員低於法定最低人數。截至公告披露日，蔣磊峰先生未持有公司股份，將按公司規定做好交接工作。"
+    },
+    {
+      "id": "4994037",
+      "time": "2026-07-17 16:48:39",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY指數上漲1%，至24,312.65點。印尼雅加達綜合指數漲1.16%，報6179.37點。"
+    },
+    {
+      "id": "4994036",
+      "time": "2026-07-17 16:48:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大恆科技：股價異常波動 上半年預計扭虧為盈】大恆科技公告稱，公司股票於2026年7月15日至17日連續3個交易日內收盤價格跌幅偏離值累計超20%，屬異常波動。經自查，公司經營正常，無控股股東和實控人，不存在應披露未披露重大資訊。公司預計2026年半年度淨利潤約8500萬元，扭虧為盈；扣非淨利潤約6320萬元。業績預告未經審計，提醒投資者注意風險。"
+    },
+    {
+      "id": "4994035",
+      "time": "2026-07-17 16:48:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "國泰航空：國泰將重新評估恢復利雅得貨運航班服務的時間安排。"
+    },
+    {
+      "id": "4994034",
+      "time": "2026-07-17 16:47:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍旗科技：首次回購公司股份約2000萬元，已回購49.77萬股】龍旗科技公告，公司於2026年4月28日審議透過回購方案，擬以2.5億元至5億元回購股份，用於員工持股計劃或股權激勵，回購價格上限調整為不超過57.22元/股。2026年7月17日，公司透過集中競價交易方式首次回購股份49.77萬股，佔公司總股本的0.10%，成交最高價40.8元/股，最低價39.5元/股，已支付總金額1999.82萬元（不含交易費用）。"
+    },
+    {
+      "id": "4994033",
+      "time": "2026-07-17 16:47:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億能電力：股東黃彩霞、億能資訊、倪成標已分別減持0.9886%、0.7291%和0.0761%】億能電力公告，股東黃彩霞、無錫億能資訊科技合夥企業(有限合夥)、倪成標減持計劃實施完畢，分別透過集中競價減持100萬股、73.75萬股、77000股，佔總股本比例0.9886%、0.7291%、0.0761%；當前持股數量分別為4573.53萬股、589.4萬股、23.1萬股。"
+    },
+    {
+      "id": "4994032",
+      "time": "2026-07-17 16:47:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "國泰航空：國泰貨運往利雅得的貨運航班服務恢復時間將自8月1日起推遲。"
+    },
+    {
+      "id": "4994031",
+      "time": "2026-07-17 16:47:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "國泰航空：恢復迪拜每日客運航班及利雅得每週四班客運航班的計劃推遲至10月25-26日。"
+    },
+    {
+      "id": "mkt:019f6f42-2ff3-7aab-8de0-17b2d656b1a0",
+      "time": "2026-07-17 16:47:16",
+      "tags": [
+        "MKT News",
+        "00293.HK",
+        "Impact bearish"
+      ],
+      "text": "Cathay Pacific (00293.HK) delays resumption of passenger and cargo services to and from the Middle East."
+    },
+    {
+      "id": "4994030",
+      "time": "2026-07-17 16:46:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【尚界汽車否認脫離鴻蒙智行：品牌經營未發生任何變化】7月17日，尚界汽車法務部發布宣告稱，近日網路上出現“尚界脫離鴻蒙智行”等謠言。經初步調查，系“車軲轆話”等網路賬號製作、釋出虛假性資訊或誤導性資訊，侵害尚界汽車合法權益。宣告稱，尚界汽車是由上汽集團與華為深度賦能的鴻蒙智行生態成員，當前雙方合作模式穩定，市場表現穩健向好，品牌經營未發生任何變化。"
+    },
+    {
+      "id": "4994029",
+      "time": "2026-07-17 16:46:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺水泥在宣城成立新型建材公司，註冊資本3000萬】天眼查App顯示，7月15日，寧國海螺新型建材有限公司成立，法定代表人為周德剛，註冊資本3000萬人民幣，經營範圍包括水泥製品製造、新型建築材料製造、建築砌塊製造、輕質建築材料製造等。股東資訊顯示，該公司由海螺水泥（600585）、安徽宣城海螺水泥有限公司共同持股。"
+    },
     {
       "id": "mkt:019f6f40-3698-7aab-8de0-0fb0e66ed159",
       "time": "2026-07-17 16:45:06",
@@ -175254,165 +175362,6 @@
         "Impact bearish"
       ],
       "text": "BMW second-quarter deliveries fell 4.9% to 590,962 vehicles."
-    },
-    {
-      "id": "4980791",
-      "time": "2026-07-10 16:50:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "寶馬：第二季度寶馬與MINI品牌歐洲銷量增長7.6%，美國銷量增長11.9%，中國銷量下降30.2%。"
-    },
-    {
-      "id": "4980790",
-      "time": "2026-07-10 16:50:01",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【安凱客車：預計2026年上半年淨利潤同比下降88.58%–91.85%】安凱客車公告，預計2026年1月1日至2026年6月30日，歸屬於上市公司股東的淨利潤為150萬元–210萬元，比上年同期下降88.58%–91.85%。扣除非經常性損益後的淨利潤虧損550萬元–700萬元，比上年同期下降222.14%―255.45%。基本每股收益為0.0016元/股–0.0022元/股。報告期內公司營收同比增長，歸母淨利潤同比下降，主要系匯率波動推高財務費用上漲等因素所致。"
-    },
-    {
-      "id": "4980789",
-      "time": "2026-07-10 16:49:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "寶馬集團第二季度純電動汽車銷量同比增長5.2%。"
-    },
-    {
-      "id": "4980788",
-      "time": "2026-07-10 16:49:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "寶馬第二季度交付量下降4.9%，至590,962輛。"
-    },
-    {
-      "id": "te:economy:565996",
-      "time": "2026-07-10 16:49:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Azerbaijan",
-        "Monthly GDP YoY",
-        "Importance 0"
-      ],
-      "text": "Azerbaijan GDP Grows 0.8% in January–June — Azerbaijan’s gross domestic product grew 0.8% in January–June 2026, picking up from a flat reading in the first five months of the year but slowing from a 1.5% expansion in the same period last year. This marked the strongest growth since January, with value added in the non-oil and gas sector accelerating to 1.5% from 0.4% in the first five months, while value added in the oil and gas sector contracted 0.7%, easing from a 1.0% decline."
-    },
-    {
-      "id": "mkt:019f4b37-2f43-7aab-8d2d-cdb61e080a81",
-      "time": "2026-07-10 16:48:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Wenfeng Optoelectronics cleared for Beijing Stock Exchange IPO】The Beijing Stock Exchange listing committee at its 66th meeting in 2026 determined Huainan Wenfeng Optoelectronics Technology Co., Ltd. meets issuance, listing and information-disclosure requirements."
-    },
-    {
-      "id": "4980787",
-      "time": "2026-07-10 16:48:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【Meta美股盤前漲超2%】Meta美股盤前漲超2%，現報644.16美元。"
-    },
-    {
-      "id": "mkt:019f4b37-12dc-7aab-8d2d-c3cfc8874312",
-      "time": "2026-07-10 16:48:48",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures fell 1.00% intraday to $59.75/oz."
-    },
-    {
-      "id": "mkt:019f4b36-ec45-7aab-8d2d-be6ad35b1403",
-      "time": "2026-07-10 16:48:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Tianqi, Guoji Zhilian sign framework agreement on embodied‑intelligence industry‑education integration】Tianqi and Guoji Zhilian signed a framework agreement to integrate embodied intelligence across education and industry. They will pool technical and channel resources to coordinate top‑level curriculum design, product R&D, research innovation, market deployment and talent development for higher education, aligning the initiative with national industry‑education integration and science‑education fusion policies."
-    },
-    {
-      "id": "4980786",
-      "time": "2026-07-10 16:48:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【文峰光電北交所IPO過會】7月10日，北交所上市委員會召開2026年第66次審議會議，審議結果顯示，淮南文峰光電科技股份有限公司符合發行條件、上市條件和資訊披露要求。"
-    },
-    {
-      "id": "mkt:019f4b36-87d0-7aab-8d2d-b76753b03a65",
-      "time": "2026-07-10 16:48:12",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact mixed"
-      ],
-      "text": "【US official says strikes paired with diplomacy; pauses to preserve diplomatic space】According to CNN, a US official said Washington has been conducting strikes but intentionally pauses afterward to avoid escalation and preserve room for diplomacy, while keeping a target list as leverage. Multiple US officials said strike options remain prepared, but diplomacy is being prioritized for now."
-    },
-    {
-      "id": "4980785",
-      "time": "2026-07-10 16:48:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "天津市薊州區啟動防汛一級應急響應。（新華社）"
-    },
-    {
-      "id": "4980784",
-      "time": "2026-07-10 16:47:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東貝集團：預計2026年上半年淨利潤為虧損5800萬元到虧損4840萬元】東貝集團公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為虧損5800萬元到虧損4840萬元，與上年同期相比，將出現虧損。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為虧損7800萬元到虧損6500萬元。"
-    },
-    {
-      "id": "4980783",
-      "time": "2026-07-10 16:47:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天奇股份與國技智聯達成具身智慧產教融合合作】據天奇股份訊息，7月9日，天奇股份與國技智聯正式簽訂具身智慧產教融合領域的合作框架協議。雙方將充分發揮各自技術、渠道資源優勢，攜手打通教育鏈、產業鏈、創新鏈、人才鏈，實現從專業頂層設計到產品研發、科研創新、市場覆蓋全維度協同佈局，響應國家產教融合、科教融匯戰略部署，打造具身智慧高等教育產教融合標杆樣板。"
-    },
-    {
-      "id": "mkt:019f4b35-7f49-7aab-8d2d-ae1b8ac03adb",
-      "time": "2026-07-10 16:47:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ministry of Natural Resources activates Level III geological disaster response for Fujian, Zhejiang】The Ministry of Natural Resources has activated a Level III geological disaster defense response for Zhejiang and Fujian and dispatched working groups to the field to guide preparedness. Meteorological forecasts say Typhoon No.9 Bavi (super-typhoon) will bring 150–300 mm of cumulative rain to parts of southern Zhejiang and northeastern Fujian from July 10–13, with localized totals of 500–600 mm in southeastern Zhejiang and parts of northeastern Fujian. The ministry’s Geohazard Technical Guidance Center judged the rainfall will create a high risk of geological disasters in the affected areas."
-    },
-    {
-      "id": "te:economy:565995",
-      "time": "2026-07-10 16:46:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Slovenia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Slovenia Industrial Activity Slows in May — Industrial production in Slovenia eased to 4.2% year-on-year in May 2026, down from 4.4% in the previous month. Production in electricity, gas and steam supply declined 4.3%, reversing a 1.1% gain in the previous month, while mining and quarrying output contracted further, falling by 36.3% from 35.2%. In contrast, manufacturing output accelerated to 5.6% from 5%. By product category, production eased for intermediate products to 1.1% from 2.5%, reflecting a steeper 7.4% decline in energy products, while raw materials output remained unchanged at 3.0%. Production of investment goods also moderated, increasing 6.3% after an 8.1% rise. Meanwhile, consumer goods production strengthened to 8.1% from 4.9%, supported by a sharp acceleration in non-durable consumer goods to 15.0% from 5.1%, while consumer durables output slowed its decline to 8.3% from 9.9%. On a monthly basis, industrial activity rose 0.9% in May, accelerating from 0.3% in the previous month."
-    },
-    {
-      "id": "4980782",
-      "time": "2026-07-10 16:46:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中央商場：預計2026年上半年淨利潤為-3750萬元到-2500萬元】中央商場公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為-3750萬元到-2500萬元。報告期內，消費復甦節奏不及預期，居民消費信心與線下實體消費意願整體偏弱，大眾消費更趨保守理性，到店客流、客單價同步走弱，公司各百貨門店銷售規模持續承壓，板塊營收規模有所收縮；同時零售行業同質化競爭日趨白熱化，線上電商平臺、社群即時零售、直播帶貨等新業態持續搶佔消費市場份額，多渠道長期分流線下實體客流，持續壓縮傳統百貨門店經營空間，進一步拖累百貨板塊營業收入同比下滑。"
-    },
-    {
-      "id": "4980781",
-      "time": "2026-07-10 16:46:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST天喻：再次延期至7月17日前回復深交所2025年報問詢函】*ST天喻公告稱，公司於2026年4月27日收到深交所下發的2025年年報問詢函，原要求5月21日前回復，後因部分問題需進一步瞭解、核實，延期至7月10日前回復。截至公告披露日，回覆內容尚需補充完善，經申請，本次問詢函將再次延期至7月17日前完成回覆並披露。"
     }
   ]
 }
