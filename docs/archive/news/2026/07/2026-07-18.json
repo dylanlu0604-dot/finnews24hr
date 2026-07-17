@@ -1,7 +1,51 @@
 {
   "date": "2026-07-18",
-  "count": 142,
+  "count": 147,
   "items": [
+    {
+      "id": "mkt:019f7184-62d8-7aab-8dea-d0cb12971431",
+      "time": "2026-07-18 03:18:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Pentagon: 13 more U.S. service members wounded in operations against Iran】The Pentagon said 13 additional U.S. service members were wounded in operations against Iran since Monday, including 10 Army soldiers and three Navy sailors. The Pentagon did not disclose the times or locations of the injuries."
+    },
+    {
+      "id": "4995021",
+      "time": "2026-07-18 03:18:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：雪佛龍已與伊拉克濟加爾石油公司簽署協議，推進納西里耶油田及周邊勘探區的談判。"
+    },
+    {
+      "id": "mkt:019f7183-8eb4-7aab-8dea-c9aabf10348c",
+      "time": "2026-07-18 03:17:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he has invited Darline Graham to participate in the Republican special Senate primary on Aug. 11."
+    },
+    {
+      "id": "4995020",
+      "time": "2026-07-18 03:17:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：BRB表示與Quadra Capital的談判已經結束。"
+    },
+    {
+      "id": "4995019",
+      "time": "2026-07-18 03:17:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國防部：美軍在對伊作戰中新增13人受傷】央視記者當地時間17日獲悉，美國國防部最新公佈的資料顯示，自本週一以來，又有13名美軍人員在對伊朗作戰中受傷，包括10名陸軍士兵和3名海軍水兵。有關傷者受傷的具體時間和地點尚未公佈。近期，美伊雙方連續多日相互發動打擊，戰事再度升級。美中央司令部發言人蒂姆·霍金斯拒絕透露傷情細節，也未說明哪些美軍基地或設施在新一輪交火中遭到襲擊。截至目前，美軍在這場衝突中的傷亡總數已升至14人死亡、427人受傷。美國中央司令部此前表示，大多數傷員遭受了創傷性腦損傷。（央視新聞）"
+    },
     {
       "id": "4995018",
       "time": "2026-07-18 03:16:20",
