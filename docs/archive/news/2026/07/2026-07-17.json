@@ -1,7 +1,136 @@
 {
   "date": "2026-07-17",
-  "count": 1495,
+  "count": 1508,
   "items": [
+    {
+      "id": "mkt:019f6ec8-1083-7aab-8ddc-53dd27b8d39f",
+      "time": "2026-07-17 14:33:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Nikkei 225",
+        "Impact bearish",
+        "Hang Seng Index"
+      ],
+      "text": "【Kioxia rout drags Nikkei as AI rally cools; bottom still unclear】Kioxia Holdings plunged as much as 16% intraday on Friday as investors unwound leverage in AI-related tech names, dragging the Nikkei 225 down more than 6% to a one-month intraday low. Taiwan’s TAIEX fell about 6.5%. South Korea was closed for a holiday; Australia, Hong Kong and Singapore markets also declined. Kioxia, a key beneficiary of this year’s AI-led rally, hit intraday limit down; its market value fell to roughly ¥28 trillion from a peak near ¥60 trillion (about $370 billion), and the stock is about 50% below its June 22 intraday high. JP Morgan’s quantitative strategies team said recent market sentiment has swung toward excess pessimism — narratives that the AI boom is ending or an AI bubble is bursting — and added: “Although supply-demand adjustment in AI names may be nearing completion, AI stocks driven by sentiment and flows may still need more time to bottom as these pessimistic narratives fully unwind.”"
+    },
+    {
+      "id": "4993707",
+      "time": "2026-07-17 14:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元下跌0.5%至32.412。"
+    },
+    {
+      "id": "4993706",
+      "time": "2026-07-17 14:33:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翱坤科技完成數千萬元 A 輪融資】翱坤科技宣佈正式完成數千萬元A輪融資。本輪由中芯聚源領投，元禾璞華、金雨茂物、珠海金航基金跟投。本次募集資金將重點投入航空測控系統與工程數智化核心產品研發、適航認證與試驗試飛服務能力提升，持續夯實公司一站式航空工程服務核心競爭力。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f6ec6-be74-7aab-8ddc-495d3c4f8082",
+      "time": "2026-07-17 14:32:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "CHINA'S WERIDE (WRD.O) unveiled WITT, a physical AI cognitive foundation model."
+    },
+    {
+      "id": "4993705",
+      "time": "2026-07-17 14:32:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "文遠知行釋出物理AI認知基礎模型WITT。"
+    },
+    {
+      "id": "mkt:019f6ec6-616f-7aab-8ddc-47c9bfc215d5",
+      "time": "2026-07-17 14:32:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Two Chinese ETFs post highest turnover since Sept. 24, 2024】Huaxia Sci‑Tech Innovation 50 ETF (588000) traded 13.0 bln yuan and E Fund ChiNext ETF (159915) traded 13.8 bln yuan, each the largest daily turnover since the Sept. 24, 2024 session. Their prior post‑Sept. 24 highs were 12.714 bln yuan on Aug. 28, 2025 (Huaxia) and 13.721 bln yuan on Jan. 16, 2026 (E Fund). Huaxia recorded net inflows of 7.032 bln yuan over the past five trading days; E Fund ChiNext ETF net inflows were 4.581 bln yuan over the same period."
+    },
+    {
+      "id": "4993704",
+      "time": "2026-07-17 14:31:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯農業部長盧特：俄羅斯已收穫超過2100萬噸穀物。"
+    },
+    {
+      "id": "te:markets:567776",
+      "time": "2026-07-17 14:31:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "ASX Slips 0.3% This Week — Australia's ASX 200 fell 58 points, or 0.7%, to close at 8,783 on Friday, pressured by sharp losses in U.S. stock futures after chip stocks tumbled on Wall Street Thursday following their blistering rally earlier this year. Escalating Middle East tensions and weaker shipping flows through the Strait of Hormuz added to the cautious tone. The local benchmark reversed from a muted prior session, ending the week down 0.3% and marking a second straight weekly decline. Traders cautiously braced for Australia's labor data next week after May logged the strongest jobs growth in five months, even as unemployment stayed near a four-year top. Tech, non-energy minerals, manufacturing, and consumer non-durables led falls. Miners dropped 2.9%, with BHP and Rio Tinto sliding 2.9% and 2.5%, while gold names Evolution Mining (-4.2%) and Northern Star (-4.0%) also weighed. The big four banks eased between 0.2% and 1.1%. Energy stocks bucked the trend, lifted by Woodside Energy (2.9%) and Santos (1.7%)."
+    },
+    {
+      "id": "mkt:019f6ec5-ec35-7aab-8ddc-3d7798648013",
+      "time": "2026-07-17 14:31:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Japan's Nikkei 225 down 4% at close; South Korea market closed】Japan's Nikkei 225 closed down 2,694.42 points (-4.03%) at 64,141.12 on July 17 (Friday), after an intraday drop of as much as 6% that briefly pushed the index below 63,000. TOPIX fell 2.72%. Notable movers: Kioxia -16%, SoftBank -8.5%, Advantest -8%. South Korea's stock market was closed today."
+    },
+    {
+      "id": "4993702",
+      "time": "2026-07-17 14:31:19",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "【2只科創、創業ETF均創924行情後最高成交記錄】科創50ETF華夏（588000）成交額達130億元，創業板ETF易方達（159915）成交額達138億元均重新整理2024年9月24日行情以後最高成交記錄，2只ETF在924行情後最高記錄分別為2025年8月28日的127.14億元和2026年1月16日的137.21億元。科創50ETF華夏（588000）近5個交易日累計淨流入70.32億元；創業板ETF易方達（159915）近5個交易日累計淨流入45.81億元。"
+    },
+    {
+      "id": "4993701",
+      "time": "2026-07-17 14:31:11",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【日股低收4% 韓股休市】日經225指數收盤下跌2694.42點，跌幅4.03%，報64141.12點，盤中一度下跌6%，失守63000點；日本東證指數收盤跌2.72%；個股鎧俠跌16%、軟銀跌8.5%、愛德萬測試跌8%。韓國股市今日休市。"
+    },
+    {
+      "id": "4993700",
+      "time": "2026-07-17 14:30:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭稱昨晚在黑海襲擊了12艘俄羅斯船隻。"
+    },
+    {
+      "id": "4993699",
+      "time": "2026-07-17 14:30:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【均勝電子釋出混合驅動靈巧手及執行器等關鍵技術】7月17日，均勝電子在世界人工智慧大會上釋出了獨創的“掌內混合驅動”的靈巧手。該靈巧手具備20個自由度，掌內整合直驅、腱繩和連桿三種驅動方式，並整合自研微型執行器，體積減半、重量減輕30%，扭矩密度高於同行業2—3倍；自研的電子皮膚擁有全球獨創物理原生解耦的三維力感知技術，感知解析度媲美人手感知。同時，均勝電子還發布了固液混合電池（半固態電池）等機器人全場景能源解決方案和機器人具身智慧體大腦等新產品。"
+    },
     {
       "id": "te:markets:567775",
       "time": "2026-07-17 14:30:03",
