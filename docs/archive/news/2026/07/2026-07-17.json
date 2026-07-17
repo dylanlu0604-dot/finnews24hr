@@ -1,7 +1,63 @@
 {
   "date": "2026-07-17",
-  "count": 3190,
+  "count": 3195,
   "items": [
+    {
+      "id": "mkt:019f70c8-bf9d-7aab-8de8-d70faf83702c",
+      "time": "2026-07-17 23:53:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,020/oz, up 1.10% on the day."
+    },
+    {
+      "id": "mkt:019f70c8-82f2-7aab-8de8-cd1a42317991",
+      "time": "2026-07-17 23:53:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DAX",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【JP Morgan: European equities likely to underperform while AI remains market theme】Fabio Bassi, JP Morgan head of cross-asset strategy, said that as long as AI remains the market’s dominant theme, European equities are likely to continue lagging other major markets. He flagged structural headwinds — higher policy rates, elevated energy costs and low productivity — but noted a medium-term support case from Europe’s large export sector if global growth stays resilient."
+    },
+    {
+      "id": "te:markets:567956",
+      "time": "2026-07-17 23:53:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Chip Selloff and US-Iran Tensions — The CAC 40 fell 0.5% to close at 8,339 on Friday as a broad-based semiconductor selloff swept across global markets and weighed heavily on technology stocks. Concerns over the sector resurfaced amid elevated AI spending and stretched valuations. STMicroelectronics shed 3.9%. Meanwhile, investors continued to monitor developments in the escalating US-Iran conflict, which pushed oil prices higher and renewed concerns over inflation and the interest rate outlook. Markets largely expect the ECB to keep borrowing costs unchanged next week before potentially delivering a final rate cut in September, when the central bank will release updated quarterly projections. Financials posted losses, with BNP Paribas down 1.0%, Crédit Agricole down 0.7%, and Société Générale losing 1.5%. Luxury stocks also traded lower amid higher risk aversion, with LVMH down 1.6%, Hermès losing 1.5%, and Kering shedding 1.2%. In contrast, TotalEnergies gained 1.3% on higher oil prices."
+    },
+    {
+      "id": "4994949",
+      "time": "2026-07-17 23:53:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿斯麥擬向員工發放2萬歐元一次性獎勵 AI需求旺盛推動業績增長】阿斯麥控股將向全球員工發放一次性2萬歐元（約合22,862美元）獎勵。隨著人工智慧需求推動銷售額創下新高，該公司加入了越來越多晶片企業與員工分享業績紅利的行列。這家歐洲市值最高的公司週五透過電子郵件宣告表示，將於2027年1月1日向全球員工授予股票獎勵，前提是員工在整個歸屬期內持續任職，該獎勵將於2030年初完成歸屬。阿斯麥此舉正值全球AI建設熱潮推動對其產品需求激增之際。此前，包括三星電子和SK海力士在內的晶片製造商也已向員工發放獎金。隨著AI基礎設施投資帶來鉅額收益，越來越多受益最大的企業正面臨與員工分享更多利潤的壓力。臺積電今年5月也承諾，今年員工獲得的利潤分成平均提高30%以上。"
+    },
+    {
+      "id": "4994948",
+      "time": "2026-07-17 23:53:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4020美元/盎司，日內漲1.11%。"
+    },
     {
       "id": "mkt:019f70c5-ff20-7aab-8de8-c1a58cc9cf40",
       "time": "2026-07-17 23:50:51",

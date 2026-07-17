@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-17 23:51:57",
-  "count": 19030,
+  "updated": "2026-07-17 23:58:02",
+  "count": 19023,
   "items": [
+    {
+      "id": "mkt:019f70c8-bf9d-7aab-8de8-d70faf83702c",
+      "time": "2026-07-17 23:53:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,020/oz, up 1.10% on the day."
+    },
+    {
+      "id": "mkt:019f70c8-82f2-7aab-8de8-cd1a42317991",
+      "time": "2026-07-17 23:53:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "DAX",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【JP Morgan: European equities likely to underperform while AI remains market theme】Fabio Bassi, JP Morgan head of cross-asset strategy, said that as long as AI remains the market’s dominant theme, European equities are likely to continue lagging other major markets. He flagged structural headwinds — higher policy rates, elevated energy costs and low productivity — but noted a medium-term support case from Europe’s large export sector if global growth stays resilient."
+    },
+    {
+      "id": "te:markets:567956",
+      "time": "2026-07-17 23:53:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Falls on Chip Selloff and US-Iran Tensions — The CAC 40 fell 0.5% to close at 8,339 on Friday as a broad-based semiconductor selloff swept across global markets and weighed heavily on technology stocks. Concerns over the sector resurfaced amid elevated AI spending and stretched valuations. STMicroelectronics shed 3.9%. Meanwhile, investors continued to monitor developments in the escalating US-Iran conflict, which pushed oil prices higher and renewed concerns over inflation and the interest rate outlook. Markets largely expect the ECB to keep borrowing costs unchanged next week before potentially delivering a final rate cut in September, when the central bank will release updated quarterly projections. Financials posted losses, with BNP Paribas down 1.0%, Crédit Agricole down 0.7%, and Société Générale losing 1.5%. Luxury stocks also traded lower amid higher risk aversion, with LVMH down 1.6%, Hermès losing 1.5%, and Kering shedding 1.2%. In contrast, TotalEnergies gained 1.3% on higher oil prices."
+    },
+    {
+      "id": "4994949",
+      "time": "2026-07-17 23:53:24",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【阿斯麥擬向員工發放2萬歐元一次性獎勵 AI需求旺盛推動業績增長】阿斯麥控股將向全球員工發放一次性2萬歐元（約合22,862美元）獎勵。隨著人工智慧需求推動銷售額創下新高，該公司加入了越來越多晶片企業與員工分享業績紅利的行列。這家歐洲市值最高的公司週五透過電子郵件宣告表示，將於2027年1月1日向全球員工授予股票獎勵，前提是員工在整個歸屬期內持續任職，該獎勵將於2030年初完成歸屬。阿斯麥此舉正值全球AI建設熱潮推動對其產品需求激增之際。此前，包括三星電子和SK海力士在內的晶片製造商也已向員工發放獎金。隨著AI基礎設施投資帶來鉅額收益，越來越多受益最大的企業正面臨與員工分享更多利潤的壓力。臺積電今年5月也承諾，今年員工獲得的利潤分成平均提高30%以上。"
+    },
+    {
+      "id": "4994948",
+      "time": "2026-07-17 23:53:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4020美元/盎司，日內漲1.11%。"
+    },
     {
       "id": "mkt:019f70c5-ff20-7aab-8de8-c1a58cc9cf40",
       "time": "2026-07-17 23:50:51",
@@ -175243,122 +175299,6 @@
         "其他"
       ],
       "text": "全球農產品供需報告：全球小麥期末庫存 2.73 億噸。"
-    },
-    {
-      "id": "mkt:019f4cbd-45b1-7aab-8d37-116e8cdf9f2a",
-      "time": "2026-07-10 23:55:00",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "BARCLAYS says risks to its Brent crude forecasts of $96/bbl for 2026 and $85/bbl for 2027 are broadly balanced."
-    },
-    {
-      "id": "4981708",
-      "time": "2026-07-10 23:54:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊銀行表示，其對2026年和2027年布倫特原油分別為每桶96美元和每桶85美元的預測面臨的風險基本平衡。"
-    },
-    {
-      "id": "mkt:019f4cbc-dc9c-7aab-8d37-08d8d9f03901",
-      "time": "2026-07-10 23:54:33",
-      "tags": [
-        "MKT News",
-        "MU.O",
-        "Impact bearish"
-      ],
-      "text": "Micron Technology (MU.O) shares extended losses, down about 3%. SK Hynix's Nasdaq-listed shares have started trading."
-    },
-    {
-      "id": "4981707",
-      "time": "2026-07-10 23:54:07",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "美光股價跌幅擴大，最新下跌2.9%；其競爭對手海力士的美國上市股份在納斯達克掛牌交易。"
-    },
-    {
-      "id": "4981706",
-      "time": "2026-07-10 23:54:02",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲債市：德國國債收益率單週漲幅創5月份以來最大】歐洲債市窄幅震盪，此前美國總統特朗普表示，美國將繼續與伊朗舉行談判，但他認為兩國之間的停火已經結束。德國10年期國債收益率週五下跌2個基點，報3.07%；本週累計上升13個基點，創5月份以來最大單週升幅。交易員維持對歐洲央行今年加息33個基點、英國央行加息29個基點的押注，日內基本持平。2年期英國國債收益率下跌2個基點，報4.23%；本週累計上升11個基點，創一個多月來最大單週升幅。"
-    },
-    {
-      "id": "4981705",
-      "time": "2026-07-10 23:53:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通宇通訊擬變更2.57億元募資用途，用於永久補充流動資金】7月10日，通宇通訊釋出公告稱，公司董事會會議審議透過了兩項重要議案：擬將已終止的兩個募投專案剩餘募集資金2.57億元（含利息）永久補充流動資金，並對\"下一代高效能天線專案\"內部投資結構進行調整。其中，資金用途變更事項尚需提交公司股東會審議。公司表示，本次資金用途變更不會影響研發實力，衛星通訊核心研發業務已由全資子公司成都俱吉毫米波技術有限公司承接，原有核心研發團隊、技術儲備和研發體系完整保留。同時，公司日常經營中已建立常態化、穩定化的研發投入機制，自有經營資金可充分保障核心技術研發需求。"
-    },
-    {
-      "id": "te:markets:566097",
-      "time": "2026-07-10 23:53:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Close Mixed — European stocks closed mixed on Friday, capping off a volatile week as more weakness in the tech sector matched with an uncertain macroeconomic outlook. The Euro STOXX 50 fell 0.3% to 6,267 and the STOXX Europe 600 closed flat at 641. Companies with exposure to the AI trade pared the sharp gains from yesterday as markets continued to gauge whether speculative demand on AI infrastructure will translate to sustainable returns. ASML dropped 2.1%, Siemens Energy fell 2.6%, and Infineon dropped 1.3%, even as the start of trading for SK Hynix in the US brought strong orders. In turn, banks closed higher on another strong session for Eurozone sovereign bonds after oil prices continued to trim gains from the week. BBVA, Deutsche Bank, and UniCredit gained around 1.5% each. The Euro STOXX 50 fell 2.3% and the STOXX Europe 600 fell 1.8% from their records last Friday."
-    },
-    {
-      "id": "4981704",
-      "time": "2026-07-10 23:52:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心：843 名環孢子蟲病患者中，86 人入院治療。"
-    },
-    {
-      "id": "4981703",
-      "time": "2026-07-10 23:52:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所 7 月柴油期貨結算價報每噸 1043 美元。"
-    },
-    {
-      "id": "te:markets:566096",
-      "time": "2026-07-10 23:52:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Sugar Futures Ease to 1-Week Lows — Sugar futures in the US fell below 15 US cents, reaching one-week lows, pressured by lower oil prices, which reduce incentives to divert sugarcane toward ethanol production and could boost sugar output. Investors also monitored the recovery of India's monsoon, which has eased some concerns over global supplies, although broader structural factors continue to support the market. The rainfall deficit narrowed to 15% below the historical average by July 8, a marked improvement from the 42% shortfall recorded at the end of June. However, India's Ministry of Earth Sciences continues to warn that this year's monsoon could still be the weakest in 11 years. Rainfall between June and September is critical for sugarcane development. Meanwhile, the El Nino risk remained a concern. The weather phenomenon typically causes drought and heat in major sugar-producing countries like India and Thailand, while it can also favor excessive rainfall during the harvest in Brazil."
-    },
-    {
-      "id": "te:markets:566095",
-      "time": "2026-07-10 23:52:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Brent Heads for Weekly Gain — Brent crude oil slipped to around $75.5 per barrel on Friday but remained on track for a weekly gain of about 4.7% as renewed US-Iran tensions disrupted shipping through the Strait of Hormuz and raised supply concerns. Markets continued to monitor developments after fresh attacks strained the ceasefire, although talks between Washington and Tehran are expected to continue. President Donald Trump said the two sides had agreed to keep negotiations open but warned that the ceasefire was effectively over following renewed hostilities. Earlier reports indicated technical discussions could resume, with a Qatari delegation arriving in Iran as part of diplomatic efforts. The IEA cautioned that a prolonged escalation could undermine plans to rebuild global oil inventories later this year. Meanwhile, the United Arab Emirates increased crude production to a record high last month, highlighting efforts by Gulf producers to maintain exports despite ongoing uncertainty."
-    },
-    {
-      "id": "4981702",
-      "time": "2026-07-10 23:51:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美四州向元公司索賠1.4萬億美元】據近日報道，一份法院檔案中顯示，美國社交媒體“元”公司面臨鉅額訴訟風波。加利福尼亞、科羅拉多、肯塔基和新澤西4州指控“元”公司刻意將旗下“臉書”和“照片牆”平臺設計為易讓未成年人沉迷成癮的演算法模式，並刻意隱瞞平臺對青少年心理健康造成的負面影響，涉嫌誤導公眾、侵害未成年人權益，要求其支付1.4萬億美元的鉅額罰款。案件定於8月在加州奧克蘭開庭審理。（CCTV國際時訊）"
     }
   ]
 }
