@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-17 23:02:47",
-  "count": 19071,
+  "updated": "2026-07-17 23:06:54",
+  "count": 19056,
   "items": [
+    {
+      "id": "mkt:019f709b-dbab-7aab-8de8-3168a0a83757",
+      "time": "2026-07-17 23:04:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose intraday, touching $4,010/oz and gaining 0.86% on the day."
+    },
+    {
+      "id": "4994913",
+      "time": "2026-07-17 23:04:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4010美元/盎司，日內漲0.91%。"
+    },
+    {
+      "id": "4994912",
+      "time": "2026-07-17 23:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海嘯預警系統：墨西哥震區附近太平洋部分割槽域存在海嘯風險。"
+    },
     {
       "id": "mkt:019f7099-6fb9-7aab-8de8-2da349efcda3",
       "time": "2026-07-17 23:02:11",
@@ -175580,192 +175610,6 @@
         "國際"
       ],
       "text": "【SK海力士ADR預示開盤價為180美元 較發行價高出21%】SK海力士美國存託憑證(ADR)預示開盤價將較發行價高出21%。這家韓國儲存晶片製造商此次募股總計融資265億美元，創下外國企業赴美上市之最。截至紐約時間週五上午10時15分，做市商盤前報價顯示，SK海力士ADR價格為每份180美元，高於149美元的發行價。盤前報價反映的是做市商預計股票開盤交易的價格水平。華爾街預計，SK海力士ADR將較其韓國上市普通股出現溢價。這一方面是由於韓國普通股轉換為ADR受到限制，另一方面也反映出投資者希望直接投資這家在人工智慧高頻寬儲存器(HBM)領域佔據領先地位的企業。SK海力士執行長Kwak Noh-Jung在納斯達克開市敲鐘儀式上表示：“今天是SK海力士非常值得驕傲的一天，也是具有歷史意義的一天。”他說：“如今，高頻寬儲存器已處於人工智慧革命的核心。”根據計算，SK海力士韓國上市股票今年已有50多個交易日漲跌幅達到5%以上，而去年全年約為37個交易日，再往前三年合計約44個交易日。該股週五收跌0.3%。"
-    },
-    {
-      "id": "4981648",
-      "time": "2026-07-10 23:06:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾安基金：聘任劉翔為總經理 齊斌因個人原因離任】諾安基金公告稱，經董事會審議透過，自2026年7月10日起，聘任劉翔為公司總經理，原總經理齊斌因個人原因離任；同時，劉翔因工作調整，不再擔任副總經理。劉翔2024年3月加入諾安基金，歷任總經理助理、副總經理，擁有基金從業資格。"
-    },
-    {
-      "id": "mkt:019f4c90-6836-7aab-8d36-4bcc2544afff",
-      "time": "2026-07-10 23:05:59",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Meta Platforms",
-        "Market Themes",
-        "Magnificent 7",
-        "META.O",
-        "Impact bullish"
-      ],
-      "text": "Meta Platforms (META.O) rose nearly 6% to its highest level since April."
-    },
-    {
-      "id": "4981647",
-      "time": "2026-07-10 23:05:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "META Platforms股價創下四月以來新高，最新上漲近6%。"
-    },
-    {
-      "id": "4981646",
-      "time": "2026-07-10 23:05:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "土耳其央行稱 7 月通脹是利率前景的關鍵依據。"
-    },
-    {
-      "id": "mkt:019f4c8f-b565-7aab-8d36-40315afa4f7a",
-      "time": "2026-07-10 23:05:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)"
-      ],
-      "text": "SK chairman Chey Tae-won said he plans to make \"larger-scale\" investments in the United States."
-    },
-    {
-      "id": "4981645",
-      "time": "2026-07-10 23:05:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團董事長崔泰源表示，對多輪增發ADRS持開放態度。"
-    },
-    {
-      "id": "4981644",
-      "time": "2026-07-10 23:04:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【好醫生集團：核心產品康復新液入選《國家基本藥物目錄（2026版）》】好醫生集團官微7月10日訊息，《國家基本藥物目錄（2026年版）》將從2026年9月1日起正式施行，這是國家基本藥物目錄時隔八年後的首次調整，好醫生集團旗下核心產品康復新液成功入選新增名單，標誌著康復新液的黏膜創面修復臨床價值與安全性獲得國家權威認證。目前，康復新液已在全國4000餘家二級以上醫院廣泛應用，進入超10萬家基層醫療單位，覆蓋消化、口腔、皮膚、外科等多科室臨床場景。"
-    },
-    {
-      "id": "4981643",
-      "time": "2026-07-10 23:04:34",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "SK集團董事長崔泰源：我的計劃是大幅加碼在美投資。"
-    },
-    {
-      "id": "mkt:019f4c8e-fb19-7aab-8d36-3f1815e747ea",
-      "time": "2026-07-10 23:04:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report says the central bank stands ready to use all available tools to fulfill its dual mandate."
-    },
-    {
-      "id": "mkt:019f4c8e-83e9-7aab-8d36-329f8fecc2e8",
-      "time": "2026-07-10 23:03:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report: real estate market activity \"stalled\"."
-    },
-    {
-      "id": "4981642",
-      "time": "2026-07-10 23:03:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：高通脹部分反映了供給衝擊。"
-    },
-    {
-      "id": "mkt:019f4c8e-4058-7aab-8d36-2d07f6edca71",
-      "time": "2026-07-10 23:03:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report: financial system remains \"sound and resilient\"; vulnerabilities unchanged."
-    },
-    {
-      "id": "4981641",
-      "time": "2026-07-10 23:03:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK 集團董事長崔泰源：儲存即服務模式將是我們未來重點佈局的另一領域。"
-    },
-    {
-      "id": "mkt:019f4c8e-0ba9-7aab-8d36-2546c8f2902b",
-      "time": "2026-07-10 23:03:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report: despite elevated uncertainty from the Iran war, economic activity continues to expand at a solid pace."
-    },
-    {
-      "id": "mkt:019f4c8d-eaa9-7aab-8d36-1fa3121b253c",
-      "time": "2026-07-10 23:03:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "The Federal Reserve's semiannual report said asset values for equities, corporate debt and residential real estate are above historical norms."
-    },
-    {
-      "id": "mkt:019f4c8d-d9bc-7aab-8d36-17a7f15efe41",
-      "time": "2026-07-10 23:03:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Fed semiannual report says small businesses and households continue to face relatively tight credit conditions."
-    },
-    {
-      "id": "mkt:019f4c8d-bedc-7aab-8d36-0b37f92c7376",
-      "time": "2026-07-10 23:03:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report: M2 money supply growth was moderate and broadly similar to the typical pace seen in the 2010s."
-    },
-    {
-      "id": "mkt:019f4c8d-96e3-7aab-8d36-06b995b93188",
-      "time": "2026-07-10 23:02:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve semiannual report: inf remains elevated, driven mainly by tariffs, the Middle East war and AI-related factors."
     }
   ]
 }

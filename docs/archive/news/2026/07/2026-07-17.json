@@ -1,7 +1,37 @@
 {
   "date": "2026-07-17",
-  "count": 3135,
+  "count": 3138,
   "items": [
+    {
+      "id": "mkt:019f709b-dbab-7aab-8de8-3168a0a83757",
+      "time": "2026-07-17 23:04:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose intraday, touching $4,010/oz and gaining 0.86% on the day."
+    },
+    {
+      "id": "4994913",
+      "time": "2026-07-17 23:04:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4010美元/盎司，日內漲0.91%。"
+    },
+    {
+      "id": "4994912",
+      "time": "2026-07-17 23:03:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海嘯預警系統：墨西哥震區附近太平洋部分割槽域存在海嘯風險。"
+    },
     {
       "id": "mkt:019f7099-6fb9-7aab-8de8-2da349efcda3",
       "time": "2026-07-17 23:02:11",
