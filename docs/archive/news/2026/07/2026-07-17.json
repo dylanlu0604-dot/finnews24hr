@@ -1,7 +1,75 @@
 {
   "date": "2026-07-17",
-  "count": 1187,
+  "count": 1194,
   "items": [
+    {
+      "id": "mkt:019f6e4a-5a03-7aab-8dd9-6e4d16e030ea",
+      "time": "2026-07-17 12:16:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【GigaDevice and Digua Robot form strategic partnership to scale embodied intelligence industry】GigaDevice and Digua Robot agreed a strategic cooperation centered on the GD32 MCU and the Xuri S600 platform. The firms will collaborate on product solutions, ecosystem integration and joint standards promotion to accelerate industrial-scale development of embodied intelligence."
+    },
+    {
+      "id": "mkt:019f6e4a-52cc-7aab-8dd9-61a828946cfc",
+      "time": "2026-07-17 12:16:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Approval status of first active ETF batch updated】CSRC’s website shows the approval status for the first batch of active ETFs has changed to materials received and discloses the product names: Jianxin Competitive Advantage Active Management ETF; Guotai Xinhui Balanced Income Active Management ETF; Huabao Select Stable Equity Active Management ETF; ICBC Credit Suisse Dividend Active Management ETF; Dacheng Dividend Smart-Select Active Management ETF; Southern Large‑Cap Style Allocation Active Management ETF; Penghua Value Select Active Management ETF; Fullgoal Value Preferred Active Management ETF; China Merchants Value Smart‑Select Active Management ETF; Huatai‑PineBridge Value Select Active Management ETF; Tianhong Balanced Preferred Active Management ETF; Hua Xia Quality Value Select Active Management ETF; Huaan Quality Strict‑Select Active Management ETF; Yongying Prosperity Select Active Management ETF; Huitianfu Balanced Strategy Active Management ETF; E Fund Quality Future Active Management ETF; Ping An Industry Preferred Active Management ETF; Morgan Core Growth Active Management ETF. Most of the products are balanced-style mandates; a minority focus on growth."
+    },
+    {
+      "id": "mkt:019f6e49-fdbe-7aab-8dd9-5cff1ade053f",
+      "time": "2026-07-17 12:16:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's ISNA, citing provincial officials, reported that US forces struck an area in Lorestan province."
+    },
+    {
+      "id": "4993493",
+      "time": "2026-07-17 12:16:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "EOPTOLINK （新易盛） 據悉將提交至多50億美元的香港上市申請。"
+    },
+    {
+      "id": "te:economy:567739",
+      "time": "2026-07-17 12:16:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Malaysia",
+        "GDP Annual Growth Rate",
+        "Importance 2"
+      ],
+      "text": "Malaysia’s Economy Expands 5.8% in Q2 — Malaysia’s economy expanded 5.8% year-on-year in Q2 2026, accelerating from 5.4% in the previous period, according to preliminary estimates. Chief Statistician Datuk Seri Dr Mohd Uzir Mahidin said resilient domestic demand and improvements across key productive sectors continued to underpin growth, despite weakness in agriculture. Mining and quarrying rebounded strongly (10.2% vs. -2.1% in Q1), mainly driven by higher natural gas production. Manufacturing growth also accelerated (7.5% vs. 5.9%), primarily supported by increased output of electrical, electronic and optical products, as well as petroleum, chemical, rubber and plastic products. Growth remained solid but eased in services (5.4% vs. 5.6%) and construction (6.6% vs. 7.0%). Meanwhile, agriculture contracted (-3.7% vs. 2.6%), reflecting weaker output in the oil palm and fishing subsectors. In the first half of 2026, Malaysia’s economy grew 5.6%, up from 4.5% in the same period a year earlier."
+    },
+    {
+      "id": "4993491",
+      "time": "2026-07-17 12:14:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "車車科技宣佈進行35比1的股份合併。"
+    },
+    {
+      "id": "mkt:019f6e47-6973-7aab-8dd9-54e7813117c9",
+      "time": "2026-07-17 12:13:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "According to the Financial Times, investors say the Bank of England should slow or halt sales of long-dated gilts."
+    },
     {
       "id": "4993490",
       "time": "2026-07-17 12:12:45",
