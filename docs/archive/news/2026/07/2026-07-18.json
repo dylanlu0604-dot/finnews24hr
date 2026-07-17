@@ -1,7 +1,96 @@
 {
   "date": "2026-07-18",
-  "count": 198,
+  "count": 207,
   "items": [
+    {
+      "id": "mkt:019f71ad-9424-7aab-8deb-792c4ecb076e",
+      "time": "2026-07-18 04:03:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "The Philadelphia Semiconductor Index is 20.2% below its record closing high on June 22."
+    },
+    {
+      "id": "mkt:019f71ad-851f-7aab-8deb-7652d2b5e8a3",
+      "time": "2026-07-18 04:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equity indices on Friday, July 17: Dow Jones Industrial Average closed down 406.55 points (-0.77%) at 52,146.42; S&P 500 closed down 76.11 points (-1.01%) at 7,457.66; Nasdaq Composite closed down 361.70 points (-1.40%) at 25,520.24."
+    },
+    {
+      "id": "4995060",
+      "time": "2026-07-18 04:02:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "Lucid集團漲32%，創將近一年來最大單日漲幅。"
+    },
+    {
+      "id": "mkt:019f71ab-6eff-7aab-8deb-64b36cf62452",
+      "time": "2026-07-18 04:01:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "NVIDIA",
+        "Apple",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "NVDA.O"
+      ],
+      "text": "【US close: major indices lower; chips mixed】US stocks closed lower on Friday: Dow Jones -0.77%, S&P 500 -1.07%, Nasdaq -1.40%. Chip names were mixed — Western Digital (WDC.O) +2.23%, SK Hynix ADR (SKHY.O) +1.13%, NVIDIA (NVDA.O) -2.21%. Meta Platforms (META.O) -2.79%, SpaceX (SPCX.O) -5.43%. Apple (AAPL.O) +0.14%; its market value briefly exceeded NVIDIA intraday. Nasdaq Golden Dragon China Index -1.82%; Alibaba (BABA.N) -2.00%."
+    },
+    {
+      "id": "4995059",
+      "time": "2026-07-18 04:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX股價暴跌，市值較峰值蒸發超過1萬億美元。"
+    },
+    {
+      "id": "4995058",
+      "time": "2026-07-18 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.77%，標普500指數跌1.01%，納指跌1.44%。直覺外科跌14.23%，鏗騰電子跌9.49%，新思科技跌7.81%，奈飛跌7.18%。“七姐妹”方面：蘋果漲0.17%，亞馬遜跌1.08%，微軟跌1.77%，谷歌跌2.15%，英偉達跌2.17%，特斯拉跌2.60%，Meta Platforms跌2.77%。"
+    },
+    {
+      "id": "4995057",
+      "time": "2026-07-18 04:00:38",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "本週，儲存晶片指數跌16.7%——成分股閃迪跌27.3%、西部資料跌17.6%、美光跌11.8%。標普累跌1.5%，道指累跌0.8%，納指累跌2.7%。費城半導體指數跌9.5%。標普500指數初步收跌約1%，電信板塊跌2.4%，可選消費板塊跌1.5%，科技板塊跌0.8%，能源板塊漲1.1%。納斯達克100指數初步收跌1.5%，成分股中，ISRG初步收跌13.8%，鏗騰電子跌9%，新思科技跌8%，奈飛跌6.9%，應用材料、Astera Labs跌超5%，西部資料漲2.2%，Diamondback Energy漲2.9%，Nebius集團漲3%，Lumentum漲4.1%，希捷科技漲6.2%。可口可樂初步收跌4.1%，與IBM、家得寶、高盛、SHW、麥當勞、谷歌A領跌道指成分股，蘋果漲0.1%，思科漲2.1%，Travelers Companies Inc.漲9.5%。"
+    },
+    {
+      "id": "4995056",
+      "time": "2026-07-18 04:00:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "INTUITIVE SURGICAL股價收盤下跌14%，創2022年4月以來最大單日跌幅。"
+    },
     {
       "id": "4995055",
       "time": "2026-07-18 04:00:04",
@@ -731,6 +820,18 @@
         "Impact mixed"
       ],
       "text": "【Apple in early settlement talks with U.S. DOJ over 2024 antitrust suit, sources say】People familiar with the matter said Apple is in early settlement talks with the U.S. Department of Justice over a 2024 antitrust suit alleging Apple monopolized the smartphone market, harmed smaller rivals and pushed up prices. Apple and the DOJ did not immediately respond to requests for comment. Sources said talks are active but no agreement is guaranteed; Apple has submitted multiple proposals to resolve the case. It is unclear whether the 15 state attorneys general that joined the DOJ suit are engaged in parallel negotiations."
+    },
+    {
+      "id": "mkt:019f71ab-f78a-7aab-8deb-69c49f8c3132",
+      "time": "2026-07-18 03:01:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng futures' night session closed up 0.54% at 24,602, trading 40 points above the cash index."
     },
     {
       "id": "4995005",
