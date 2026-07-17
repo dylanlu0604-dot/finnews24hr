@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-17 23:06:54",
+  "updated": "2026-07-17 23:10:57",
   "count": 19056,
   "items": [
+    {
+      "id": "mkt:019f70a0-a51e-7aab-8de8-425dc84c8f83",
+      "time": "2026-07-17 23:10:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Ministry of Natural Resources tsunami warning center: M7.3 quake offshore Chiapas, Mexico; local tsunami possible】China's Ministry of Natural Resources Tsunami Warning Center preliminarily reported a magnitude-7.3 earthquake at 22:48 on July 17, 2026 (Beijing time) offshore Chiapas, Mexico (14.64°N, 93.00°W), depth 20 km. Earthquake parameters are subject to confirmation by cenc. Based on preliminary data, the center said a local tsunami may be generated near the epicenter but will not affect China's coast. The center will continue to monitor seismic and tsunami data and issue updates as required."
+    },
+    {
+      "id": "mkt:019f709f-d95c-7aab-8de8-3833a1a7549b",
+      "time": "2026-07-17 23:09:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Atlanta Fed's GDPNow model leaves its estimate for Q2 real GDP growth at 1.7%."
+    },
+    {
+      "id": "4994915",
+      "time": "2026-07-17 23:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：7月16日，美軍摧毀了恰赫巴哈爾港一處伊朗革命衛隊監控塔。"
+    },
+    {
+      "id": "4994914",
+      "time": "2026-07-17 23:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海嘯預警系統通報：本次地震可能在震中 300 公里範圍內的墨西哥、瓜地馬拉沿岸引發危險海嘯浪湧。"
+    },
     {
       "id": "mkt:019f709b-dbab-7aab-8de8-3168a0a83757",
       "time": "2026-07-17 23:04:50",
@@ -175571,45 +175605,6 @@
         "DXY"
       ],
       "text": "【Fed: AI investment fuels strong output growth; Iran war remains chief risk】The Fed's semiannual report said US economic activity remained robust in 2026, driven by high‑tech investment and government spending. Factory output rose sharply as AI-related data‑center investment boosted capacity. Housing activity stalled. External demand was weak, weighed down by the Middle East conflict and tariffs. The labor market was broadly stable with wages and productivity rising, but slower immigration reduced labor supply. Small firms and households face tighter credit conditions. Inflation remains elevated and rose further in spring; asset prices are above historical norms. The financial system is broadly sound, with ample bank reserves; private credit markets face some redemption pressure but are functioning. Long-run inflation expectations remain anchored near the 2% target. Uncertainty from a possible Iran war is identified as the primary downside risk."
-    },
-    {
-      "id": "4981651",
-      "time": "2026-07-10 23:10:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【地區多國緊急斡旋 力勸美伊降級緊張態勢】據美國方面9日訊息，有知情人士稱，巴基斯坦、卡達和其他地區斡旋方力勸美國和伊朗降級緊張態勢並就伊朗核問題恢復談判。根據斡旋方和美國官員的說法，巴基斯坦、卡達、土耳其、埃及和沙烏地阿拉伯等國官員8日就和美伊官員通電話，力勸雙方降級緊張態勢。伊朗方面9日訊息說，伊朗布什爾核電站周邊區域等地當天遭美軍襲擊。阿巴斯港沿海區域、沿海城市科納拉克當晚均傳出爆炸聲。有美國官員表示，雖然有報道稱伊朗南部再度發生爆炸，但美軍9日沒有發動新一輪打擊。另據美方訊息，在連續兩天夜間打擊後，美軍9日夜晚至10日凌晨暫停了行動。此外，美伊雙方仍在就核問題進行“技術性談判”，以期達成外交解決方案。伊朗對此暫未回應。伊朗伊斯蘭革命衛隊9日發表宣告說，用10枚彈道導彈打擊了位於西亞的美軍指揮控制中心和位於約旦的美軍事目標。國際危機研究組織伊朗專案主任阿里·瓦埃茲認為，當前的軍事對抗是美伊互相加壓的手段，外交大門尚未關閉。在美伊不願戰火重燃但又希望爭取談判優勢的背景下，雙方可能繼續維持有限衝突和間接接觸的博弈態勢。（央視新聞）"
-    },
-    {
-      "id": "4981650",
-      "time": "2026-07-10 23:09:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【國際原子能機構：對任何核電站的襲擊都不可接受】據俄羅斯塔斯社報道，國際原子能機構總幹事格羅西10日說，對任何核電站的任何襲擊都是不可接受的，國際原子能機構正在密切關注伊朗布什爾核電站。報道說，格羅西在俄羅斯加里寧格勒州與俄羅斯國家原子能公司執行長利哈喬夫會談後向媒體表示，國際原子能機構暫未觀察到伊朗布什爾核電站遭到直接襲擊，“任何核設施的物理完整性都是核設施安全的絕對優先事項”。他呼籲各方保持最大限度剋制。據伊朗邁赫爾通訊社報道，伊朗南部布什爾省多處地點9日遭美軍襲擊，其中包括布什爾核電站周邊區域。（新華社）"
-    },
-    {
-      "id": "mkt:019f4c92-e7a4-7aab-8d36-500597f9541b",
-      "time": "2026-07-10 23:08:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Trump says he left orders for 'unprecedented' bombing of Iran if assassination succeeds】In a New York Post interview on Friday, President Trump said \"if Iran succeeds in assassinating me, I have left orders — if anything happens, to directly carry out unprecedented bombing of Iran.\" Asked about Israeli intelligence this week reporting an Iranian plot to kill the U.S. president, Trump said Iran currently has no new plan but has sought his death for years."
-    },
-    {
-      "id": "4981649",
-      "time": "2026-07-10 23:08:11",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士ADR預示開盤價為180美元 較發行價高出21%】SK海力士美國存託憑證(ADR)預示開盤價將較發行價高出21%。這家韓國儲存晶片製造商此次募股總計融資265億美元，創下外國企業赴美上市之最。截至紐約時間週五上午10時15分，做市商盤前報價顯示，SK海力士ADR價格為每份180美元，高於149美元的發行價。盤前報價反映的是做市商預計股票開盤交易的價格水平。華爾街預計，SK海力士ADR將較其韓國上市普通股出現溢價。這一方面是由於韓國普通股轉換為ADR受到限制，另一方面也反映出投資者希望直接投資這家在人工智慧高頻寬儲存器(HBM)領域佔據領先地位的企業。SK海力士執行長Kwak Noh-Jung在納斯達克開市敲鐘儀式上表示：“今天是SK海力士非常值得驕傲的一天，也是具有歷史意義的一天。”他說：“如今，高頻寬儲存器已處於人工智慧革命的核心。”根據計算，SK海力士韓國上市股票今年已有50多個交易日漲跌幅達到5%以上，而去年全年約為37個交易日，再往前三年合計約44個交易日。該股週五收跌0.3%。"
     }
   ]
 }

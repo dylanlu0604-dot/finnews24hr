@@ -1,7 +1,41 @@
 {
   "date": "2026-07-17",
-  "count": 3138,
+  "count": 3142,
   "items": [
+    {
+      "id": "mkt:019f70a0-a51e-7aab-8de8-425dc84c8f83",
+      "time": "2026-07-17 23:10:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Ministry of Natural Resources tsunami warning center: M7.3 quake offshore Chiapas, Mexico; local tsunami possible】China's Ministry of Natural Resources Tsunami Warning Center preliminarily reported a magnitude-7.3 earthquake at 22:48 on July 17, 2026 (Beijing time) offshore Chiapas, Mexico (14.64°N, 93.00°W), depth 20 km. Earthquake parameters are subject to confirmation by cenc. Based on preliminary data, the center said a local tsunami may be generated near the epicenter but will not affect China's coast. The center will continue to monitor seismic and tsunami data and issue updates as required."
+    },
+    {
+      "id": "mkt:019f709f-d95c-7aab-8de8-3833a1a7549b",
+      "time": "2026-07-17 23:09:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Atlanta Fed's GDPNow model leaves its estimate for Q2 real GDP growth at 1.7%."
+    },
+    {
+      "id": "4994915",
+      "time": "2026-07-17 23:07:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：7月16日，美軍摧毀了恰赫巴哈爾港一處伊朗革命衛隊監控塔。"
+    },
+    {
+      "id": "4994914",
+      "time": "2026-07-17 23:07:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國海嘯預警系統通報：本次地震可能在震中 300 公里範圍內的墨西哥、瓜地馬拉沿岸引發危險海嘯浪湧。"
+    },
     {
       "id": "mkt:019f709b-dbab-7aab-8de8-3168a0a83757",
       "time": "2026-07-17 23:04:50",
