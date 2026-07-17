@@ -1,7 +1,35 @@
 {
   "date": "2026-07-18",
-  "count": 261,
+  "count": 264,
   "items": [
+    {
+      "id": "4995096",
+      "time": "2026-07-18 05:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：EXODUS公司將裁員25%。"
+    },
+    {
+      "id": "4995095",
+      "time": "2026-07-18 05:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美元指數17日微漲】美元指數17日微漲。衡量美元對六種主要貨幣的美元指數當天在匯市尾市收於100.765，略高於前一交易日的100.763。截至紐約匯市尾市，1歐元兌換1.1436美元，低於前一交易日的1.1438美元；1英鎊兌換1.3454美元，低於前一交易日的1.3470美元。1美元兌換162.45日元，高於前一交易日的162.39日元；1美元兌換0.8075瑞士法郎，低於前一交易日的0.8089瑞士法郎；1美元兌換1.4011加元，低於前一交易日的1.4048加元；1美元兌換9.6497瑞典克朗，低於前一交易日的9.6499瑞典克朗。（新華社）"
+    },
+    {
+      "id": "te:economy:567987",
+      "time": "2026-07-18 05:02:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Consumer Confidence Jumps in June — Colombia’s Consumer Confidence Index rose 6.5 percentage points to 24.3% in June 2026 from 17.8% in May. The Consumer Expectations Index climbed to 31.4% in June from 26.7% in May, while the Current Economic Conditions Index rose to 13.8% from 4.4%. Consumers became more optimistic about both their household finances and the country's economic outlook. The share of respondents expecting \"good economic times\" over the next 12 months increased to 31.3% from 21.1%, while expectations for an improvement in the national economy rose to 22.5% from 16.8%. Households also reported a better assessment of their current financial situation. The balance of respondents who said their household's financial condition was better than a year earlier increased to 11.5% from 3.1%. Meanwhile, willingness to purchase durable goods jumped to 16.1% from 5.8%."
+    },
     {
       "id": "mkt:019f71df-9cdc-7aab-8deb-f3928349a524",
       "time": "2026-07-18 04:58:27",

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-18 05:01:58",
-  "count": 18944,
+  "updated": "2026-07-18 05:05:55",
+  "count": 18939,
   "items": [
+    {
+      "id": "4995096",
+      "time": "2026-07-18 05:03:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：EXODUS公司將裁員25%。"
+    },
+    {
+      "id": "4995095",
+      "time": "2026-07-18 05:03:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美元指數17日微漲】美元指數17日微漲。衡量美元對六種主要貨幣的美元指數當天在匯市尾市收於100.765，略高於前一交易日的100.763。截至紐約匯市尾市，1歐元兌換1.1436美元，低於前一交易日的1.1438美元；1英鎊兌換1.3454美元，低於前一交易日的1.3470美元。1美元兌換162.45日元，高於前一交易日的162.39日元；1美元兌換0.8075瑞士法郎，低於前一交易日的0.8089瑞士法郎；1美元兌換1.4011加元，低於前一交易日的1.4048加元；1美元兌換9.6497瑞典克朗，低於前一交易日的9.6499瑞典克朗。（新華社）"
+    },
+    {
+      "id": "te:economy:567987",
+      "time": "2026-07-18 05:02:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Colombia Consumer Confidence Jumps in June — Colombia’s Consumer Confidence Index rose 6.5 percentage points to 24.3% in June 2026 from 17.8% in May. The Consumer Expectations Index climbed to 31.4% in June from 26.7% in May, while the Current Economic Conditions Index rose to 13.8% from 4.4%. Consumers became more optimistic about both their household finances and the country's economic outlook. The share of respondents expecting \"good economic times\" over the next 12 months increased to 31.3% from 21.1%, while expectations for an improvement in the national economy rose to 22.5% from 16.8%. Households also reported a better assessment of their current financial situation. The balance of respondents who said their household's financial condition was better than a year earlier increased to 11.5% from 3.1%. Meanwhile, willingness to purchase durable goods jumped to 16.1% from 5.8%."
+    },
     {
       "id": "mkt:019f71df-9cdc-7aab-8deb-f3928349a524",
       "time": "2026-07-18 04:58:27",
@@ -174598,82 +174626,6 @@
         "MKT News"
       ],
       "text": "FITCH affirms Saudi Arabia's rating at 'A+'; outlook stable."
-    },
-    {
-      "id": "mkt:019f4dd9-6c05-7aab-8d3a-51749f6847f2",
-      "time": "2026-07-11 05:05:22",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A senior U.S. official said Iran attributed recent attacks on vessels to a malfunction in its internal systems."
-    },
-    {
-      "id": "mkt:019f4dd8-4b0c-7aab-8d3a-4c89032802f8",
-      "time": "2026-07-11 05:04:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Senior U.S. official says the U.S. will not reach an agreement with Iran unless Tehran provides explicit commitments on its nuclear program."
-    },
-    {
-      "id": "4981929",
-      "time": "2026-07-11 05:03:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 美伊之間的磋商取得一定進展，但雙方能否達成協議尚無定論。"
-    },
-    {
-      "id": "mkt:019f4dd7-30a5-7aab-8d3a-410c18fafae9",
-      "time": "2026-07-11 05:02:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Senior U.S. official says the U.S. has military means to render Iranian nuclear facilities inoperable."
-    },
-    {
-      "id": "4981928",
-      "time": "2026-07-11 05:02:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 美方掌握軍事手段，可確保伊朗核設施無法投入使用。"
-    },
-    {
-      "id": "mkt:019f4dd7-121e-7aab-8d3a-3bbf8ae5ec37",
-      "time": "2026-07-11 05:02:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Brent"
-      ],
-      "text": "A senior U.S. official said U.S.-Iran talks have made progress but will ultimately either result in an agreement or fail to do so."
-    },
-    {
-      "id": "4981927",
-      "time": "2026-07-11 05:02:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國高階官員：伊朗方面向美方表示近期針對航運船隻的襲擊系其體系內失控分支所為。"
-    },
-    {
-      "id": "4981926",
-      "time": "2026-07-11 05:02:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國高階官員： 若無法獲取核相關材料，美伊就不可能達成協議。"
     }
   ]
 }
