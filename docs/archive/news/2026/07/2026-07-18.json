@@ -1,7 +1,83 @@
 {
   "date": "2026-07-18",
-  "count": 120,
+  "count": 127,
   "items": [
+    {
+      "id": "mkt:019f7178-0f1c-7aab-8dea-9ca39598c68a",
+      "time": "2026-07-18 03:05:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Wall Street Journal reports SpaceX (SPCX.O) is in talks to provide computing capacity to the Pentagon's AI acceleration program."
+    },
+    {
+      "id": "mkt:019f7177-abcf-7aab-8dea-92bf32965a1a",
+      "time": "2026-07-18 03:04:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq and Syria signed a memorandum of understanding to repair the Haditha-Baniyas oil pipeline, with Chevron (CVX.N) set to implement the project."
+    },
+    {
+      "id": "4995008",
+      "time": "2026-07-18 03:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：SPACEX正洽談為五角大樓提供計算能力。"
+    },
+    {
+      "id": "mkt:019f7176-b288-7aab-8dea-8f774710daa1",
+      "time": "2026-07-18 03:03:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Advisor to Iran's Supreme Leader Rezaei said if US forces occupy any location inside Iran, Tehran may enter an offensive phase of warfare rather than remain solely defensive."
+    },
+    {
+      "id": "4995007",
+      "time": "2026-07-18 03:03:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖顧問：如果美國人攻佔伊朗任何領土，我方可能會由防禦性戰爭轉為進攻性戰爭。"
+    },
+    {
+      "id": "mkt:019f7175-8194-7aab-8dea-851fa506fb01",
+      "time": "2026-07-18 03:02:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "【Apple in early settlement talks with U.S. DOJ over 2024 antitrust suit, sources say】People familiar with the matter said Apple is in early settlement talks with the U.S. Department of Justice over a 2024 antitrust suit alleging Apple monopolized the smartphone market, harmed smaller rivals and pushed up prices. Apple and the DOJ did not immediately respond to requests for comment. Sources said talks are active but no agreement is guaranteed; Apple has submitted multiple proposals to resolve the case. It is unclear whether the 15 state attorneys general that joined the DOJ suit are engaged in parallel negotiations."
+    },
+    {
+      "id": "4995005",
+      "time": "2026-07-18 03:01:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：伊拉克與敘利亞簽署諒解備忘錄，將修復哈迪塞-巴尼亞斯輸油管道，由雪佛龍公司負責實施。"
+    },
     {
       "id": "mkt:019f7174-0a11-7aab-8dea-7ebeac0eeea9",
       "time": "2026-07-18 03:00:57",
