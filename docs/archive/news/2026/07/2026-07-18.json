@@ -1,7 +1,77 @@
 {
   "date": "2026-07-18",
-  "count": 180,
+  "count": 187,
   "items": [
+    {
+      "id": "4995046",
+      "time": "2026-07-18 03:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：已改變4艘商船的航行路線。"
+    },
+    {
+      "id": "mkt:019f71a2-8d74-7aab-8deb-4edc540d0b5a",
+      "time": "2026-07-18 03:51:46",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Kuwait's military said Iran used drones to strike multiple military facilities and camps."
+    },
+    {
+      "id": "mkt:019f71a2-8874-7aab-8deb-4066c38aced2",
+      "time": "2026-07-18 03:51:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military said critical infrastructure and civilian facilities, including power plants and desalination stations, were attacked."
+    },
+    {
+      "id": "mkt:019f71a1-91ad-7aab-8deb-3de2e1737d99",
+      "time": "2026-07-18 03:50:41",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military said it detected hostile ballistic missiles and drones entering Kuwaiti airspace since dawn local time and successfully intercepted them."
+    },
+    {
+      "id": "4995045",
+      "time": "2026-07-18 03:49:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約1.8億美國人面臨煙霧、高溫或洪水威脅】美國天氣預測中心高階預報員Bob Oravec表示，從落基山脈北部延伸至中大西洋地區，再向南至墨西哥灣沿岸，約1.51億人週五再次遭遇高溫天氣。他表示，來自加拿大的泛黃野火煙霧籠罩了東北部、中大西洋和中西部的大片地區，週五影響了約8700萬美國人的空氣質量。約7000萬人同時面臨煙霧和高溫的雙重侵襲。"
+    },
+    {
+      "id": "4995044",
+      "time": "2026-07-18 03:49:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍方：自黎明以來，科威特領空偵測到敵方彈道導彈與無人機，並已將其全部攔截。"
+    },
+    {
+      "id": "4995043",
+      "time": "2026-07-18 03:48:41",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【美元指數本週累跌約0.2%】週五（7月17日）紐約尾盤，ICE美元指數大致持平，報100.766點，本週累跌0.18%，整體交投區間為101.327-100.353點，美國CPI和PPI帶來兩波顯著的下跌行情。彭博美元指數漲0.09%，報1217.29點，本週累跌0.14%，交投區間為1222.56-1212.47點。美元兌日元漲0.04%，報162.46日元，本週累漲0.48%，交投區間為161.62-162.55日元。歐元兌日元累漲0.69%，報185.84日元；英鎊兌日元累漲0.86%，報218.611日元。"
+    },
     {
       "id": "mkt:019f719f-571b-7aab-8deb-37e0999978df",
       "time": "2026-07-18 03:48:15",
