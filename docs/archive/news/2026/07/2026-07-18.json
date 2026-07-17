@@ -1,7 +1,58 @@
 {
   "date": "2026-07-18",
-  "count": 228,
+  "count": 234,
   "items": [
+    {
+      "id": "mkt:019f71c9-3f02-7aab-8deb-b7d4f2f12716",
+      "time": "2026-07-18 04:34:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【US media: Washington to send dozens more refueling tankers to Israel】US media report the US has notified Israel it will deploy dozens more air-to-air refueling tankers and may broaden military action against Iran. Axios, citing Israeli officials, said Washington wants the additional tankers in the coming days to restore numbers to levels seen at the start of US-Israeli operations against Iran in late February. The US has asked Israel to accept the deployments; Prime Minister Netanyahu will make the final decision. About 30 US tankers are parked at Ben Gurion near Tel Aviv and a similar number at Ramon in southern Israel. Axios added President Trump appears inclined to escalate to force Iran to reopen the Strait of Hormuz and accept US demands on its nuclear program, and US and Israeli officials said Trump could order an escalation in coming days."
+    },
+    {
+      "id": "4995078",
+      "time": "2026-07-18 04:33:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：委內瑞拉地震死亡人數超過5000人。"
+    },
+    {
+      "id": "4995077",
+      "time": "2026-07-18 04:32:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱重啟對伊朗海上封鎖三天內攔截6艘船隻】當地時間7月17日，美國中央司令部表示，美軍正在嚴格執行針對伊朗的海上封鎖，並保持高度警戒。美國中央司令部稱，自14日恢復對伊朗實施海上封鎖的三天內，美軍已迫使4艘商業船隻改變航向，使1艘船隻失去行動能力，並登上另1艘船進行檢查，以確保其完全遵守封鎖規定。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f71c7-4791-7aab-8deb-af5ec59761b5",
+      "time": "2026-07-18 04:31:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Iran supreme leader military adviser says US-Iran memorandum effectively dead】On the 17th, Mohsen Rezaei, military adviser to Iran’s supreme leader, said the US violated the US‑Iran memorandum of understanding, rendering it effectively defunct. He accused US forces of mounting large-scale, hybrid strikes on infrastructure in southern Iran. Rezaei said Iran has already widened the scope of its response after recent US attacks and warned that continued US strikes over the coming days would prompt a shift from “deterrence and retaliation” to a “full offensive and destruction” phase, with bases and troops outside US territory becoming direct targets. He added Iran’s strikes will intensify in the coming days."
+    },
+    {
+      "id": "4995076",
+      "time": "2026-07-18 04:30:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部錫裡克地區傳出3次爆炸聲】據伊朗方面當地時間17日訊息，伊朗南部錫裡克地區傳出3次爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "4995075",
+      "time": "2026-07-18 04:30:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗最高領袖軍事顧問：美伊諒解備忘錄已名存實亡】當地時間17日，伊朗最高領袖軍事顧問穆赫辛·雷扎伊表示，美國違反了美伊諒解備忘錄的條款，如今這份備忘錄已名存實亡。雷扎伊說，以色列未從黎巴嫩南部撤軍；在霍爾木茲海峽伊朗一側合法航道已開放的情況下，美方卻開闢非法航道；不尊重伊朗主權，並對伊朗沿海地區發動軍事襲擊；未解凍伊朗被凍結資產——這些都是美國違反諒解備忘錄的具體表現。雷扎伊還表示，美國軍隊正在透過一種混合戰爭的方式，對伊朗南部的基礎設施發動大規模襲擊。隨著美軍再次發動襲擊，根據之前的警告，伊朗已擴大戰爭範圍。（央視新聞）"
+    },
     {
       "id": "4995074",
       "time": "2026-07-18 04:28:57",
