@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-18 01:47:55",
-  "count": 18941,
+  "updated": "2026-07-18 01:51:52",
+  "count": 18940,
   "items": [
+    {
+      "id": "mkt:019f7133-ed05-7aab-8de9-d956930f2b89",
+      "time": "2026-07-18 01:50:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【U.S. oil rig count continues to rise】Baker Hughes reported U.S. oil rigs rose by 7 last week to 452, up 30 YoY and up 45 since the U.S.-Iran conflict began, citing firmer oil prices as the driver. The EIA says higher drilling activity is expected to lift U.S. crude output from 13.8 mln bpd this year to 14.0 mln bpd next year. U.S. natural-gas rigs were unchanged for a second week at 126, up 9 YoY."
+    },
+    {
+      "id": "4994983",
+      "time": "2026-07-18 01:49:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：ACI 環球正考慮出售旗下賬單計費業務部門，該賬單業務板塊若出售，估值約 15 億美元。"
+    },
+    {
+      "id": "mkt:019f7131-ad87-7aab-8de9-d5f26c6aff45",
+      "time": "2026-07-18 01:48:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent"
+      ],
+      "text": "Barclays leaves its 2026 and 2027 Brent crude forecasts unchanged at $96/bbl and $85/bbl, respectively."
+    },
+    {
+      "id": "mkt:019f7131-6fa1-7aab-8de9-c924954a3035",
+      "time": "2026-07-18 01:48:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pacific Tsunami Warning Center says earthquake offshore Chiapas, Mexico no longer poses a tsunami threat."
+    },
     {
       "id": "4994982",
       "time": "2026-07-18 01:47:22",
@@ -174620,50 +174660,6 @@
         "國際"
       ],
       "text": "美國國家運輸安全委員會：將協助北馬其頓調查瑞安航空事故。"
-    },
-    {
-      "id": "4981817",
-      "time": "2026-07-11 01:50:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至7月10日當週，美國水平鑽井鑽機數量減少3臺，降至517臺。"
-    },
-    {
-      "id": "4981816",
-      "time": "2026-07-11 01:49:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至7月10日當週，美國天然氣鑽井平臺數量維持在126座不變。"
-    },
-    {
-      "id": "4981815",
-      "time": "2026-07-11 01:49:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至7月10日當週，美國石油鑽井平臺數量持平於445口，較去年同期增加21口。"
-    },
-    {
-      "id": "4981814",
-      "time": "2026-07-11 01:49:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "截至7月10日當週，美國各油氣盆地周度鑽井平臺數量變動如下：二疊紀盆地較前一週減少5座；伊格爾福德增加3座；威利斯頓盆地無變動；奈厄布拉勒增加1座；海恩斯維爾盆地無變動；尤蒂卡盆地無變動。"
-    },
-    {
-      "id": "mkt:019f4d25-cbae-7aab-8d38-4863c0c0c1da",
-      "time": "2026-07-11 01:49:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "ICE: For the week to July 7, speculative net longs in Brent crude fell 547 contracts to 55,087. Speculative net longs in gasoil (diesel) rose 11,634 contracts to 69,486."
     }
   ]
 }
