@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-17 09:12:05",
-  "count": 18812,
+  "updated": "2026-07-17 09:16:04",
+  "count": 18815,
   "items": [
+    {
+      "id": "4993189",
+      "time": "2026-07-17 09:15:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報919.00元。"
+    },
+    {
+      "id": "4993188",
+      "time": "2026-07-17 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.30%，報24915.00點，低水93.60點。"
+    },
+    {
+      "id": "mkt:019f6da3-6666-7aab-8dd4-bfdbe4696dfb",
+      "time": "2026-07-17 09:14:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Container shipping index (Europe route) front-month contract intraday gain widened to 4.00%, now at 2671.0 points."
+    },
+    {
+      "id": "4993187",
+      "time": "2026-07-17 09:14:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2671.00點。"
+    },
+    {
+      "id": "4993186",
+      "time": "2026-07-17 09:13:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【五糧液普五八代領跌 白酒大單品總價連續四日重新整理近四個月新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月17日整體繼續微幅回落，深陷低位連創新低。如果主要單品各取一瓶整體打包售賣，今日總售價為9806元，較昨日小幅下跌4元，連續第六天回落，並連續四日重新整理今年3月22日以來最低。五糧液普五八代跌至776元/瓶，再創“酒價內參”自去年11月有統計以來最低。縱觀全場，核心單品的漲跌分化依然顯著，終端交投量能基本穩定，總價低位震盪下行態勢延續。今日11大白酒單品七漲四跌，贏家數量佔據明顯優勢，但輸家跌幅更具壓制力。上漲方面，國窖1573漲幅居前，上漲5元/瓶，終結此前三連跌；飛天茅臺、五糧液1618、青花汾20、洋河夢之藍M6+與習酒君品均上漲2元/瓶，飛天茅臺回補昨日全部跌幅，但仍處於近四個月次低位；五糧液1618連續兩日回升，重新站上820元關口；青花汾20自近半月低位修復，重返370元關口上方；洋河夢之藍M6+自昨日創下的近一月最低位小幅反彈，但仍處於590元關口下方；習酒君品收復昨日全部失地，重返630元關口。精品茅臺小幅上漲1元/瓶，連續兩日回升，進一步向2400元關口靠近。下跌方面，五糧液普五八代跌幅居前，下跌7元/瓶，四日累計下跌23元/瓶，價格快速下探跌至776元/瓶，再創“酒價內參”自去年11月有統計以來最低；古井貢古20與青花郎均下跌6元/瓶，其中前者再度逼近530元關口；後者再度失守690元關口。水晶劍南春小幅下跌1元/瓶，昨日反彈後弱勢回落。"
+    },
+    {
+      "id": "te:markets:567686",
+      "time": "2026-07-17 09:13:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Rises to 2-Month High — Heating oil futures in the US rose above $4.0 per gallon, hitting their highest level in two months, as escalating tensions in the Middle East deepened concerns over global supplies of refined fuels. The collapse of the US-Iran truce and renewed tanker attacks in the Strait of Hormuz raised fears of disruptions to fuel shipments from the Persian Gulf, while Ukrainian strikes on Russia's largest refineries continued to curb diesel exports. Seasonal refinery maintenance and years of refinery closures in the US and Europe further tightened the supply outlook. The tightening backdrop lifted US refining margins to record highs, while European diesel refining margins climbed to their highest level since at least 2011, underscoring the global shortage of refined fuels. Still, EIA data showed distillate fuel inventories rose by 4.6 million barrels in the week ending July 19, nearly offsetting the previous week's draw."
+    },
+    {
+      "id": "mkt:019f6da1-2425-7aab-8dd4-b41c3ae52b07",
+      "time": "2026-07-17 09:11:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC automatic determination: M4.2 at 09:08 CST on Jul 17 near Haixi Prefecture, Qinghai (37.82°N, 95.47°E). Final parameters subject to the official rapid bulletin."
+    },
     {
       "id": "4993185",
       "time": "2026-07-17 09:11:01",
@@ -173047,46 +173108,6 @@
         "公司"
       ],
       "text": "【千方科技：公司鯤巢雙智路口、V2X成套裝置已在北京亦莊、望京等智慧網聯示範區域及相關專案中開展部署應用】千方科技10日在互動平臺表示，公司自研RSU、OBU等V2X產品基於C-V2XPC5（直連）和5G/Uu（蜂窩）雙模通訊架構，實現路側感知資料與車輛行駛狀態雙向互動。落地方面，公司鯤巢雙智路口、V2X成套裝置已在北京亦莊、望京等智慧網聯示範區域及相關專案中開展部署應用，相關專案進展請以公司公告為準。"
-    },
-    {
-      "id": "4979997",
-      "time": "2026-07-10 09:15:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7989元，較上日調高47點。"
-    },
-    {
-      "id": "4979996",
-      "time": "2026-07-10 09:15:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.46%，報24088.20點，高水58.02點。"
-    },
-    {
-      "id": "4979995",
-      "time": "2026-07-10 09:14:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【片山皋月講話之際日元走強 日本超長期國債收益率下跌】隨著日本財務大臣片山皋月發表講話，日本20年期和40年期國債收益率下跌，日元匯率走強。20年期收益率跌8.5個基點至3.78%；40年期收益率跌7個基點至3.965%；日本10年期國債收益率下跌6個基點至2.815%。日元兌美元漲0.3%至161.98。片山皋月稱，日本將透過降低債務佔GDP的比例來確保市場信任，並表示她支援日本政府養老金投資基金(GPIF)進行金融資產投資。"
-    },
-    {
-      "id": "mkt:019f4995-d14d-7aab-8d23-edebe169ccd6",
-      "time": "2026-07-10 09:13:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Japan 10-year government bond yield fell 6 bps to 2.815%."
     }
   ]
 }
