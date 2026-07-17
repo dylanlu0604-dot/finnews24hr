@@ -1,7 +1,57 @@
 {
   "date": "2026-07-18",
-  "count": 137,
+  "count": 142,
   "items": [
+    {
+      "id": "4995018",
+      "time": "2026-07-18 03:16:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我要求達琳·格雷厄姆參加8月11日星期二的共和黨特別初選，競選美國參議員。"
+    },
+    {
+      "id": "4995017",
+      "time": "2026-07-18 03:15:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：邀請達琳·格雷厄姆參加初選。"
+    },
+    {
+      "id": "mkt:019f717f-9d04-7aab-8dea-c38e55dbb799",
+      "time": "2026-07-18 03:13:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran adviser warns of 'full offensive' within days if US continues strikes】Rezaei, an adviser to Iran’s Supreme Leader, warned that if US forces continue strikes for the next two to three days Iran will abandon its deterrence-and-matched-response posture and shift to a “full offensive and destruction” phase, potentially striking US military bases and personnel overseas. He said prior Iranian restraint aimed to avoid regional spillover but that US “miscalculation” could escalate the situation; Rezaei urged Kuwait, Jordan, Qatar and the UAE to prevent the US and Israel from widening operations and said the US policy of “war and negotiation simultaneously” has failed, adding Iran will intensify retaliation in the coming days."
+    },
+    {
+      "id": "mkt:019f717f-8f6e-7aab-8dea-bb211604452d",
+      "time": "2026-07-18 03:13:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Crude oil futures rise on renewed Middle East tensions】Crude oil futures rose, logging double-digit weekly gains after the US expanded strikes on Iranian targets and Iran attacked neighboring Gulf states, heightening supply-risk fears. Market concerns were amplified by the threat of a Houthi blockade of Red Sea shipping; Saudi Arabia has previously rerouted exports via the Red Sea when the Strait of Hormuz was closed. Barclays analyst Amarpreet Singh said inventories are at multi-year lows and most strategic petroleum reserve releases have ended, so renewed tensions around the strait's \"red line\" pose significant upside risk to energy prices and the market remains too complacent about potential inventory impacts."
+    },
+    {
+      "id": "4995016",
+      "time": "2026-07-18 03:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗將領：就算敵人僥倖在某處完成登陸，他們又打算如何脫身？"
+    },
     {
       "id": "4995015",
       "time": "2026-07-18 03:11:51",
