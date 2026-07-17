@@ -1,7 +1,176 @@
 {
   "date": "2026-07-17",
-  "count": 721,
+  "count": 740,
   "items": [
+    {
+      "id": "mkt:019f6d9c-d07b-7aab-8dd4-9bbdbb1e1f20",
+      "time": "2026-07-17 09:07:01",
+      "tags": [
+        "MKT News",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "【Zhipu ARR hits $1.0 bln; ~15x growth in six months】Multiple independent sources say Zhipu's ARR reached $1.0 bln as of July 2026, about 15x higher than six months earlier. Zhipu (02513.HK) did not respond to requests for comment. AI coding and video-generation models have been the strongest revenue drivers globally over the past year. Overseas, Anthropic's Claude Code reached $1.0 bln ARR within six months of launch and helped lift Anthropic's valuation to roughly $1.0 tln in May 2026, exceeding OpenAI."
+    },
+    {
+      "id": "mkt:019f6d9c-d010-7aab-8dd4-90da26ba9091",
+      "time": "2026-07-17 09:07:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said the United States has the world's most powerful military and holds the upper hand on Iran."
+    },
+    {
+      "id": "4993177",
+      "time": "2026-07-17 09:06:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本經濟產業大臣赤澤亮正：希望英偉達進一步與日本在具身智慧領域展開合作。"
+    },
+    {
+      "id": "mkt:019f6d9c-3a56-7aab-8dd4-8c1609d5f9b0",
+      "time": "2026-07-17 09:06:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Most-active lithium carbonate futures contract rose more than 3% to 153,780 yuan/ton."
+    },
+    {
+      "id": "4993176",
+      "time": "2026-07-17 09:06:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【先導基電投資成立領芯科技公司】企查查APP顯示，近日，深圳先導領芯科技有限公司成立，經營範圍包含：電子產品銷售；電子元器件零售；新材料技術研發；新材料技術推廣服務等。企查查股權穿透顯示，該公司由先導基電全資持股。"
+    },
+    {
+      "id": "mkt:019f6d9c-0781-7aab-8dd4-8027b217c0f3",
+      "time": "2026-07-17 09:06:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump says the US border has become more secure."
+    },
+    {
+      "id": "4993175",
+      "time": "2026-07-17 09:06:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破64000美元，日內漲0.27%。"
+    },
+    {
+      "id": "4993174",
+      "time": "2026-07-17 09:06:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【智譜ARR達到10億美元，半年增長15倍】從多個獨立信源處獲悉，截至2026年7月，智譜的ARR（年度經常性收入）已經達到10億美元。截至發稿前，針對上述資訊，智譜未回覆。(36氪)"
+    },
+    {
+      "id": "4993173",
+      "time": "2026-07-17 09:05:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：美國通脹創六年來最大降幅。我們的投資規模創歷史新高，股市表現也處於最佳狀態。"
+    },
+    {
+      "id": "mkt:019f6d9b-5877-7aab-8dd4-7cc91f1656b2",
+      "time": "2026-07-17 09:05:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Trump said investment levels are at a record high and the stock market is at its strongest."
+    },
+    {
+      "id": "mkt:019f6d9b-048d-7aab-8dd4-7242e158f4ec",
+      "time": "2026-07-17 09:05:03",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Trump said U.S. inflation posted its largest decline in six years."
+    },
+    {
+      "id": "mkt:019f6d9a-cd4d-7aab-8dd4-685f867986f5",
+      "time": "2026-07-17 09:04:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said our current investment in the United States is the largest in history."
+    },
+    {
+      "id": "4993172",
+      "time": "2026-07-17 09:04:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普宣揚股市上漲。"
+    },
+    {
+      "id": "mkt:019f6d9a-a741-7aab-8dd4-60d30b41e145",
+      "time": "2026-07-17 09:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the United States is safer than ever."
+    },
+    {
+      "id": "mkt:019f6d9a-3202-7aab-8dd4-5f373b19ed31",
+      "time": "2026-07-17 09:04:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said the United States is now the greatest country in the world."
+    },
+    {
+      "id": "4993171",
+      "time": "2026-07-17 09:03:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中石油崑崙資本等新設先進材料產業基金】企查查APP顯示，近日，湖南崑崙國創金芙蓉先進材料產業基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由中國石油集團崑崙資本有限公司、央企戰略性新興產業發展基金有限責任公司等共同出資。"
+    },
+    {
+      "id": "4993170",
+      "time": "2026-07-17 09:03:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普宣揚通脹下降。"
+    },
+    {
+      "id": "mkt:019f6d99-a94c-7aab-8dd4-537cad61016e",
+      "time": "2026-07-17 09:03:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Ministry of Interior says the security threat has been lifted."
+    },
+    {
+      "id": "4993169",
+      "time": "2026-07-17 09:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達內政部稱安全威脅已解除。"
+    },
     {
       "id": "mkt:019f6d98-1e98-7aab-8dd4-4fb5d9499129",
       "time": "2026-07-17 09:01:53",
