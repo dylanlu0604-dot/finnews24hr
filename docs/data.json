@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-18 02:15:43",
-  "count": 18915,
+  "updated": "2026-07-18 02:19:44",
+  "count": 18916,
   "items": [
+    {
+      "id": "mkt:019f714b-35e7-7aab-8dea-11cd19a7141a",
+      "time": "2026-07-18 02:16:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "ICE data: For the week to July 14, speculative net long positions in Brent crude rose by 114,752 contracts to 169,839; speculative net longs in diesel increased by 2,389 contracts to 71,875."
+    },
+    {
+      "id": "mkt:019f714a-5df7-7aab-8dea-0c9ecb0530a7",
+      "time": "2026-07-18 02:15:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's state news agency KUNA said two fires in southern Kuwait at facilities that were earlier attacked by Iran have been brought under control; no casualties reported."
+    },
     {
       "id": "te:markets:567974",
       "time": "2026-07-18 02:15:07",
@@ -174413,15 +174433,6 @@
         "國際"
       ],
       "text": "烏克蘭總統澤連斯基：會見了美國國會眾議院外交事務委員會名譽主席，探討了俄烏前線戰況，以及烏克蘭遠端反擊行動。計劃持續深耕該領域，重點發展無人機相關技術。"
-    },
-    {
-      "id": "4981843",
-      "time": "2026-07-11 02:18:23",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國發布針對伊朗的新制裁措施】當地時間7月10日，美國財政部網站顯示，美國發布針對伊朗的新制裁措施。（央視新聞）"
     }
   ]
 }

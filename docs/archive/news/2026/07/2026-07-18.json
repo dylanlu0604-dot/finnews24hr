@@ -1,7 +1,27 @@
 {
   "date": "2026-07-18",
-  "count": 89,
+  "count": 91,
   "items": [
+    {
+      "id": "mkt:019f714b-35e7-7aab-8dea-11cd19a7141a",
+      "time": "2026-07-18 02:16:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "ICE data: For the week to July 14, speculative net long positions in Brent crude rose by 114,752 contracts to 169,839; speculative net longs in diesel increased by 2,389 contracts to 71,875."
+    },
+    {
+      "id": "mkt:019f714a-5df7-7aab-8dea-0c9ecb0530a7",
+      "time": "2026-07-18 02:15:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait's state news agency KUNA said two fires in southern Kuwait at facilities that were earlier attacked by Iran have been brought under control; no casualties reported."
+    },
     {
       "id": "te:markets:567974",
       "time": "2026-07-18 02:15:07",
