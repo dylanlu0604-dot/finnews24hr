@@ -1,7 +1,135 @@
 {
   "date": "2026-07-17",
-  "count": 879,
+  "count": 892,
   "items": [
+    {
+      "id": "mkt:019f6dc8-a83f-7aab-8dd6-1aff1752e31e",
+      "time": "2026-07-17 09:54:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share Xinchuang (domestic IT) sector surged; Shaanxi Drum Power hit daily limit, while Hanxin Technology, Zhongcheng Technology, Hillstone Network Technology, Meiri Hudong, Huijin Technology and Ronglian Technology also advanced."
+    },
+    {
+      "id": "4993276",
+      "time": "2026-07-17 09:54:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "習近平出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話。（央視新聞）"
+    },
+    {
+      "id": "4993275",
+      "time": "2026-07-17 09:54:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報24756.039點；恒生科技指數現跌2.297%。"
+    },
+    {
+      "id": "mkt:019f6dc8-3def-7aab-8dd6-1636b68c0081",
+      "time": "2026-07-17 09:54:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Chinese President Xi Jinping attended the opening ceremony of the 2026 World Artificial Intelligence Conference."
+    },
+    {
+      "id": "4993274",
+      "time": "2026-07-17 09:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股位元組跳動概念板塊異動拉昇】智度股份觸及漲停，億能電力、每日互動、科藍軟體、ST浩豐、三維通訊、派諾科技跟漲。"
+    },
+    {
+      "id": "4993273",
+      "time": "2026-07-17 09:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股信創概念板塊異動拉昇】雲創退觸及漲停，漢鑫科技、眾誠科技、山石網科、星網銳捷、資訊發展、東土科技跟漲。"
+    },
+    {
+      "id": "4993272",
+      "time": "2026-07-17 09:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股資料安全板塊異動拉昇】陝鼓動力觸及漲停，漢鑫科技、眾誠科技、山石網科、每日互動、匯金科技、榮聯科技跟漲。"
+    },
+    {
+      "id": "4993271",
+      "time": "2026-07-17 09:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股網路安全板塊異動拉昇】共進股份觸及漲停，眾誠科技、山石網科、每日互動、星網銳捷、東土科技、匯金科技跟漲。"
+    },
+    {
+      "id": "mkt:019f6dc7-ca97-7aab-8dd6-0dade474b6a5",
+      "time": "2026-07-17 09:53:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump primetime speech offers no clear response plan on Iran conflict】CNN reports President Trump used a rare wartime primetime address but did not outline a response strategy to the escalating Iran conflict. He barely mentioned the issue, saying \"we have the most powerful military in the world today... I built it in my first term, but unfortunately we are now forced to use it,\" and asserting the US is \"winning big\" and that results will be seen soon. That was his only reference to the conflict."
+    },
+    {
+      "id": "4993270",
+      "time": "2026-07-17 09:53:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數跌4.0%，報64158.85點；盤中一度觸及64104.78點。"
+    },
+    {
+      "id": "4993269",
+      "time": "2026-07-17 09:53:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯茂電子AI算力高階電子基板材料研發製造總部專案在無錫簽約落地】據“無錫釋出”訊息，7月16日，聯茂電子AI算力高階電子基板材料研發製造總部專案簽約落地無錫市。該專案將重點突破超低損耗基材配方、高精度壓合等關鍵技術，打造面向AI算力硬體的研發製造總部，達產後預計年營業收入超100億元。"
+    },
+    {
+      "id": "4993268",
+      "time": "2026-07-17 09:52:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國銀行：黃金跌勢遠未結束 恐跌向3315美元】美東時間週四，美國銀行的技術策略師警告稱，黃金今年以來的回撥可能仍有較大幅度空間，其走勢可能將與1980年和2011年金價大幅上漲後出現的毀滅性熊市相似。他們提出了一項分階段買入策略，建議只有當黃金價格跌至3450至3250美元區間時才完成全部配置。美銀分析師在技術研究報告中指出，當前金價已經匯聚了一系列看跌訊號，持續下跌的風險越來越大：死亡交叉形態、淨多頭持倉水平偏高、出現警示性的頂部蠟燭線、TD序列耗盡訊號，以及最近高點處RSI指標達到90——這一水平與1980年和2011年的金價頂部一致。"
+    },
+    {
+      "id": "mkt:019f6dc5-a7cf-7aab-8dd6-0077b79bb304",
+      "time": "2026-07-17 09:51:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump cites disputed data saying about 278,000 non‑citizens registered to vote】Trump on Thursday said DHS had found roughly 278,000 non‑U.S. citizens on state voter rolls. The figure stems from a verification project that has been shown to overstate non‑citizen counts, in part because naturalized citizens are often misclassified as non‑citizens. DHS agreements with states using the Systematic Alien Verification for Entitlements (SAVE) system explicitly warn states to perform their own legal due diligence before using results to clean voter rolls."
+    },
     {
       "id": "mkt:019f6dc4-da3d-7aab-8dd5-f822b100600b",
       "time": "2026-07-17 09:50:45",
