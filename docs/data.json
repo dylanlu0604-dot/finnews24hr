@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-18 04:54:09",
-  "count": 18947,
+  "updated": "2026-07-18 04:58:03",
+  "count": 18946,
   "items": [
+    {
+      "id": "mkt:019f71de-6435-7aab-8deb-ee3db753ded6",
+      "time": "2026-07-18 04:57:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil prices surge on 17th】As of the close on the 17th, NYMEX August light sweet crude rose $3.54 to $82.49/bbl, up 4.48%; ICE Brent September rose $3.87 to $88.10/bbl, up 4.59%."
+    },
+    {
+      "id": "4995094",
+      "time": "2026-07-18 04:56:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價17日顯著上漲】國際油價17日顯著上漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲3.54美元，收於每桶82.49美元，漲幅為4.48%；9月交貨的倫敦布倫特原油期貨價格上漲3.87美元，收於每桶88.10美元，漲幅為4.59%。（新華社）"
+    },
+    {
+      "id": "te:markets:567986",
+      "time": "2026-07-18 04:54:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Ends Slightly Lower as Financials Weigh — The Ibovespa inched 0.1% lower to close at 173,714 on Friday as losses in the financial sector weighed on the index, while gains in energy stocks partially offset the decline. The US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market, while supporting energy stocks. Itaú lost 1.4%, Bradesco shed 0.6%, and both Itaúsa and Banco do Brasil retreated 1.3%, while Petrobras advanced 2.5%. Utility stocks traded mixed, with Axia up 0.9%, while Sabesp shed 0.3%. Steelmakers also traded mixed after the US announced a new 25% tariff on Brazilian imports. CSN lost 1.0%, while Gerdau added 0.5%. Meanwhile, the IBC-Br economic activity index rose 0.1% month-over-month in May 2026, easing from a 0.5% increase in the previous month but slightly exceeding forecasts for a flat reading."
+    },
     {
       "id": "4995093",
       "time": "2026-07-18 04:52:30",
@@ -174657,43 +174690,6 @@
         "國際"
       ],
       "text": "美國高階官員：美方要求伊朗公開發表宣告，承諾停止在霍爾木茲海峽襲擊過往船隻。"
-    },
-    {
-      "id": "4981923",
-      "time": "2026-07-11 04:56:23",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "【蘋果起訴 OpenAI 及兩名前員工竊取商業機密】蘋果公司於週五正式提起訴訟，將 OpenAI 以及兩名蘋果前員工列為被告，指控後者有預謀、系統性地拉攏蘋果在職及離職員工，盜取蘋果保密核心資料，為 ChatGPT 母公司佈局消費硬體業務提供便利。蘋果在宣告中表示：“近期出現大量關鍵證據，證實 OpenAI 在職人員非法竊取蘋果未對外發布的技術、生產工藝與產品相關保密機密資料。”\n訴狀稱，蘋果前高階電氣工程師Chang Liu離職後入職 OpenAI 研發硬體期間，多次登入蘋果內網，下載數百份標註保密等級的內部檔案。\n蘋果還指控 Tang Tan（曾負責 iPhone 與 Apple Watch 研發，現任 OpenAI 硬體業務首席官）利用蘋果內部專案代號，向仍在蘋果任職的 OpenAI 求職候選人套取更多內部資訊。據稱他要求求職者攜帶實物零部件（電池、主機板、系統級封裝晶片）到場展示交流；訴狀還提到， Tang Tan持有或私自獲取了蘋果涉密離職管控檔案，並在內部傳閱，指導 OpenAI 新員工規避蘋果離職安檢流程。\n蘋果還指控 OpenAI 在自研硬體階段，向蘋果長期合作供應商洩露蘋果保密資訊。訴狀寫明，OpenAI 誘導一家合作廠商演示蘋果專屬金屬精加工商業工藝，刻意誤導合作方，使其誤以為已獲得蘋果授權。\n蘋果稱，目前已有超 400 名蘋果前員工入職 OpenAI。蘋果要求法院判令被告不得持有、使用、披露蘋果商業機密，強制被告留存並歸還全部蘋果涉密資料，同時就竊取商業機密、違反合作協議造成的損失作出賠償。"
-    },
-    {
-      "id": "4981922",
-      "time": "2026-07-11 04:56:08",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【7月11日美股成交額前20：Meta創2024年初以來最佳單週表現】週五美股成交額第3名Meta Platforms收高5.97%，成交268.16億美元。隨著市場對扎克伯格佈局的人工智慧戰略樂觀情緒持續升溫，Meta股價週五大幅拉昇，單週漲幅擴大至14.8%，創下2024年初以來最強單週行情。在推出首款自研基礎大模型Muse Spark僅三個月後，Meta本週接連釋放兩項重磅AI產品，彰顯Meta正全力衝刺AI大模型賽道，正面追趕已搶佔先發優勢的OpenAI、Anthropic與谷歌，並體現公司擺脫廣告單一收入、拓展多元營收渠道的戰略佈局，同時印證Meta超級智慧實驗室研發取得實質性進展。"
-    },
-    {
-      "id": "4981921",
-      "time": "2026-07-11 04:54:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國破產法官裁定：加州不得就 2023 年資料洩露事件向 23andMe 的承繼方索要經濟賠償。"
-    },
-    {
-      "id": "mkt:019f4dcf-46e0-7aab-8d3a-2f048a7038a9",
-      "time": "2026-07-11 04:54:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Cuba's National Electric Union said the country's national power grid has collapsed."
     }
   ]
 }

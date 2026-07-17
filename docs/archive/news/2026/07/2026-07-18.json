@@ -1,7 +1,40 @@
 {
   "date": "2026-07-18",
-  "count": 257,
+  "count": 260,
   "items": [
+    {
+      "id": "mkt:019f71de-6435-7aab-8deb-ee3db753ded6",
+      "time": "2026-07-18 04:57:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Oil prices surge on 17th】As of the close on the 17th, NYMEX August light sweet crude rose $3.54 to $82.49/bbl, up 4.48%; ICE Brent September rose $3.87 to $88.10/bbl, up 4.59%."
+    },
+    {
+      "id": "4995094",
+      "time": "2026-07-18 04:56:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價17日顯著上漲】國際油價17日顯著上漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲3.54美元，收於每桶82.49美元，漲幅為4.48%；9月交貨的倫敦布倫特原油期貨價格上漲3.87美元，收於每桶88.10美元，漲幅為4.59%。（新華社）"
+    },
+    {
+      "id": "te:markets:567986",
+      "time": "2026-07-18 04:54:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Ends Slightly Lower as Financials Weigh — The Ibovespa inched 0.1% lower to close at 173,714 on Friday as losses in the financial sector weighed on the index, while gains in energy stocks partially offset the decline. The US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market, while supporting energy stocks. Itaú lost 1.4%, Bradesco shed 0.6%, and both Itaúsa and Banco do Brasil retreated 1.3%, while Petrobras advanced 2.5%. Utility stocks traded mixed, with Axia up 0.9%, while Sabesp shed 0.3%. Steelmakers also traded mixed after the US announced a new 25% tariff on Brazilian imports. CSN lost 1.0%, while Gerdau added 0.5%. Meanwhile, the IBC-Br economic activity index rose 0.1% month-over-month in May 2026, easing from a 0.5% increase in the previous month but slightly exceeding forecasts for a flat reading."
+    },
     {
       "id": "4995093",
       "time": "2026-07-18 04:52:30",
