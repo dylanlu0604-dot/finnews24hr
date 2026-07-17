@@ -1,7 +1,297 @@
 {
-  "updated": "2026-07-17 21:34:24",
-  "count": 19123,
+  "updated": "2026-07-17 21:42:07",
+  "count": 19130,
   "items": [
+    {
+      "id": "4994783",
+      "time": "2026-07-17 21:40:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【外媒：愛爾蘭女演員布倫達·弗裡克去世，曾出演《小鬼當家2》】據英國廣播公司（BBC）、天空新聞網等多家外媒17日訊息，愛爾蘭女演員布倫達·弗裡克去世，終年81歲。其經紀人已發宣告確認這一訊息。（環球網）"
+    },
+    {
+      "id": "4994782",
+      "time": "2026-07-17 21:40:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達延續下跌走勢，最新跌超3.7%。"
+    },
+    {
+      "id": "mkt:019f704e-9b5f-7aab-8de6-546ca10b97d7",
+      "time": "2026-07-17 21:40:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "【Apple overtakes NVIDIA as world's most valuable company】On Friday Apple (AAPL.O) overtook NVIDIA (NVDA.O) as the world's most valuable company. Apple's intraday market value stood at $4.88 trillion; NVIDIA shares fell 3.5%, putting its market value at about $4.86 trillion. The ranking change reflects investors re-evaluating which firms benefit from the AI boom beyond the most obvious winners and is the first time Apple has held the top spot since April last year. Tony Meadows, chief investment officer at BRI Wealth Management, said Apple had been viewed as an AI laggard for not investing in model development but market sentiment has shifted; he said Apple's lower capex dependence and its ability to monetise AI through services, ecosystem lock‑in and hardware upgrades supports a valuation reset that reflects confidence in earnings sustainability rather than speculative AI upside."
+    },
+    {
+      "id": "4994781",
+      "time": "2026-07-17 21:40:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中塞友誼健身園在達喀爾投入使用】由中國路橋工程有限責任公司捐建的中塞友誼健身園7月14日在塞內加爾首都達喀爾竣工交接。該健身園位於達喀爾西部濱海大道，毗鄰達喀爾大學，佔地面積4000餘平方米，配備260餘套健身器材，涵蓋青少年趣味運動、成人力量訓練和老年康復鍛鍊等多種使用場景。（新華社）"
+    },
+    {
+      "id": "te:markets:567931",
+      "time": "2026-07-17 21:40:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.59% Lower — The Dow Jones Index is losing 310 points. Losses were led by Caterpillar (-4.40%), Nvidia (-3.78%) and Goldman Sachs (-3.15%). Offsetting the fall, top gainers were Travelers Companies (6.43%), UnitedHealth (2.62%) and Walmart (2.10%)."
+    },
+    {
+      "id": "te:markets:567930",
+      "time": "2026-07-17 21:39:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "P&G Stock Price Hits 18-week High — P&G shares increased to 153.57 USD, the highest since March 2026. Over the past 4 weeks, Procter & Gamble gained 1.95%, and in the last 12 months, it decreased 1.37%."
+    },
+    {
+      "id": "4994780",
+      "time": "2026-07-17 21:39:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽船舶透過量降至三週來最低點】國際市場服務機構克普勒公司17日釋出的資料顯示，霍爾木茲海峽船舶通行活動16日繼續走弱，經確認當天透過該海峽的船舶數量降至8艘，為近三週以來最低水平。資料顯示，當天8艘透過霍爾木茲海峽的船舶中有7艘選擇經伊朗一側航道通行，反映出航運企業在重新評估地區安全形勢、船員安全及保險風險後，船舶通行進一步向這一航道集中。分析認為，襲船事件和美軍封鎖行動進一步增加了市場不確定性。儘管地區斡旋工作仍在持續推進，但商業航運活動的變化表明，當前軍事衝突的發展正比外交進展更大程度地影響航運企業的運營決策。（新華社）"
+    },
+    {
+      "id": "4994779",
+      "time": "2026-07-17 21:39:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX延續下跌，最近跌超6.5%。"
+    },
+    {
+      "id": "4994778",
+      "time": "2026-07-17 21:39:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "信實工業一季度淨利潤2095億盧比，市場預期1982.3億盧比。"
+    },
+    {
+      "id": "mkt:019f704d-24c0-7aab-8de6-4925c177506a",
+      "time": "2026-07-17 21:38:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian military said it struck a refinery in Russia's Yaroslavl region and hit two Russian oil tankers in the Black Sea."
+    },
+    {
+      "id": "4994777",
+      "time": "2026-07-17 21:38:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【亮源新創CEO、ChatGPT核心貢獻者姜旭：具身智慧透過“模仿人”實現“超越人”】“OpenAI在ChatGPT成功之前，也經歷大量產品探索，其中很多都沒有成功。”7月17日下午，在世界人工智慧大會（WAIC2026）主論壇現場，亮源新創創始人兼CEO、ChatGPT核心貢獻者姜旭分享了他的觀點。作為華人科學家，在離開OpenAI後，姜旭去年回國在深圳創辦“亮源新創”，投身具身基礎模型，今年也是他首次亮相WAIC。姜旭表示，過去幾年，大模型的發展本質上是一個不斷模仿人、最終超越人的過程。網際網路幾十年積累了海量的人類文字資料，大語言模型透過學習這些資料，逐步獲得並最終超越了人類在許多工上的能力。具身智慧的發展也應該遵循類似的路徑——透過大規模模仿人，最終實現超越人。（澎湃）"
+    },
+    {
+      "id": "te:markets:567929",
+      "time": "2026-07-17 21:38:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Stocks Fall Sharply — US stocks fell sharply on Friday amid a fresh selloff for chip producers and new geopolitical tensions. The S&P 500 lost 1.4%, the Nasdaq 100 fell 2.5%, and the Dow lost 400 points. Semiconductor manufacturers plunged on concerns that AI hyperscalers will invest less in AI infrastructure, reversing the rally from this year. Risks of lower capital expenditure were also stemmed from improving Chinese AI models, including the latest Kimi release by Kimi. Micron and Intel dropped more than 4%, while Nvidia lost 2%. Meanwhile, pro-inflationary risks gathered momentum as the war in the Middle East continued and fuel costs picked up. Economic headwinds were also stemmed by US President Trump claiming China interfered in the US 2020 presidential elections, risking the truce between both countries since last year's tariff's exchanges. On the earnings front, Netflix sank 11% after it forecast another quarter of slowing sales."
+    },
+    {
+      "id": "te:markets:567927",
+      "time": "2026-07-17 21:37:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Altria Stock Price Hits 8-week High — Altria shares increased to 74.21 USD, the highest since May 2026. Over the past 4 weeks, Altria gained 7.51%, and in the last 12 months, it increased 27.85%."
+    },
+    {
+      "id": "4994776",
+      "time": "2026-07-17 21:37:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【金融監管總局副局長肖遠企赴羅馬尼亞、希臘訪問】近日，國家金融監督管理總局黨委委員、副局長肖遠企應邀赴羅馬尼亞、希臘訪問。與羅馬尼亞金融監管局主席佩特雷斯庫、副主席米蒂特盧，羅馬尼亞國家銀行第一副行長巴迪亞，希臘銀行副行長佩拉吉迪斯等就當前國際經濟金融形勢，國際金融監管規則和雙邊監管合作等議題進行了深入友好交流。"
+    },
+    {
+      "id": "4994775",
+      "time": "2026-07-17 21:36:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "【此猴非彼猴！這種炒作離大譜】7月17日，“猴”概念股集體降溫。截至當日收盤，益諾思跌超14%，昭衍新藥A股股價跌停，美迪西、康龍化成、藥明康德等熱門“猴”概念股紛紛下挫。 值得注意的是，“猴”概念爆火後，有不少網友將實驗猴炒作成了“猴模組”，把峨眉山稱為“猴儲存”，甚至連帶著給果蔬企業宏輝果蔬都編出了“光刻蕉”的諧音梗。7月15日，宏輝果蔬收穫漲停，有網友給出的解釋是“宏輝果蔬賣香蕉，猴子愛吃香蕉”；以文旅主業聞名的峨眉山A則因景區裡猴子多，被網友強行劃入“猴”概念陣營，近期連續收漲。 這種以諧音、聯想為依據的炒作路徑，或存在市場情緒過熱和非理性炒作的風險。今日，隨著“猴”概念股集體降溫，峨眉山A、宏輝果蔬也隨之一同下挫。（上海證券報微信公眾號）"
+    },
+    {
+      "id": "mkt:019f704a-2b70-7aab-8de6-4274578b4716",
+      "time": "2026-07-17 21:35:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) shares are down 38% from their peak, erasing about $1 trillion of market value."
+    },
+    {
+      "id": "4994774",
+      "time": "2026-07-17 21:35:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "truist金融（Truist Financial）股價在第二財季業績公佈後下跌1.1%。"
+    },
+    {
+      "id": "mkt:019f7049-e90e-7aab-8de6-3970701fcd00",
+      "time": "2026-07-17 21:35:19",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "【U.S. June factory output stalls as durable-goods slump drags】U.S. manufacturing output stalled in June, weighed down by a drop in durable-goods production. Factory output, which accounts for roughly three-quarters of total industrial production, was flat month-on-month in June after May was revised to +0.1%; economists had expected +0.1%. Overall industrial production rose 0.1% for the second consecutive month; utilities and mining each climbed 0.4%. Within durables, output of wood products, machinery, electrical equipment and household appliances fell, while growth in computers & electronics and defense & aerospace slowed. Other recent data show some manufacturing pickup, but renewed U.S.-Iran conflict poses upside risk to energy prices that could raise input costs and suppress demand."
+    },
+    {
+      "id": "mkt:019f7049-e8a7-7aab-8de6-35031e484912",
+      "time": "2026-07-17 21:35:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Xiao Yuanqi visits Romania and Greece】Xiao Yuanqi, party committee member and deputy director of the National Financial Regulatory Administration, visited Romania and Greece recently. He met with Petrescu and Mititelu of Romania’s financial regulator, Badia, first deputy governor of the National Bank of Romania, and Pelagidis, deputy governor of the Bank of Greece, to discuss the international economic and financial outlook, international regulatory standards and bilateral supervisory cooperation."
+    },
+    {
+      "id": "4994773",
+      "time": "2026-07-17 21:35:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "太空探索技術公司股價較峰值暴跌38%，市值或將蒸發1萬億美元。"
+    },
+    {
+      "id": "4994772",
+      "time": "2026-07-17 21:34:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超2%，世紀互聯跌7.02%，金山雲跌6.91%，小鵬汽車跌5.98%，嗶哩嗶哩跌5.45%，網易有道跌4.94%。"
+    },
+    {
+      "id": "mkt:019f7049-69df-7aab-8de6-29fae7acf66d",
+      "time": "2026-07-17 21:34:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Hong Kong government welcomes U.S. decision not to extend Hong Kong-related national emergency】The Hong Kong government said on July 17 the U.S. decision not to extend the national emergency on Hong Kong is an important step toward implementing consensus from China-U.S. economic and trade talks. The government said maintaining Hong Kong’s prosperity and stability serves China-U.S. mutual interests and international expectations, welcomed the positive shift in U.S. policy toward Hong Kong, and urged Washington to respect Chinese sovereignty and Hong Kong’s rule of law and to restore and strengthen normal economic and trade ties with the territory."
+    },
+    {
+      "id": "4994771",
+      "time": "2026-07-17 21:34:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉脫維亞總理庫爾貝格稱，拉脫維亞正就波羅的海航空（airBaltic）與一名戰略投資者進行談判。"
+    },
+    {
+      "id": "mkt:019f7049-36ac-7aab-8de6-236e97b1ec02",
+      "time": "2026-07-17 21:34:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Nasdaq Composite early losses quickly widened to 2%."
+    },
+    {
+      "id": "4994769",
+      "time": "2026-07-17 21:34:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞吉恩金融第二季度業績公佈後，股價下跌1.2%。"
+    },
+    {
+      "id": "4994768",
+      "time": "2026-07-17 21:34:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納指跌2.00%，現報25364.072點；道指跌0.91%，現報52075.102點；標普500指數跌1.27%，現報7438.050點。"
+    },
+    {
+      "id": "4994767",
+      "time": "2026-07-17 21:33:54",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "旅行者保險公司股價上漲5.4%，此前其二季度利潤大幅超出華爾街預期。"
+    },
+    {
+      "id": "mkt:019f7048-96d1-7aab-8de6-1a3aa2869c80",
+      "time": "2026-07-17 21:33:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "Apple (AAPL.O) overtook NVIDIA (NVDA.O) to become the world’s largest company by market capitalization."
+    },
     {
       "id": "te:markets:567926",
       "time": "2026-07-17 21:33:40",
@@ -175939,190 +176229,6 @@
         "Energy"
       ],
       "text": "U.S. natural gas futures slid as much as 3.00% intraday, trading at $2.921/MMBtu."
-    },
-    {
-      "id": "4981455",
-      "time": "2026-07-10 21:41:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【信捷電氣具身智慧及高階裝備核心部件研製專案簽約落地】據“無錫釋出”，7月10日，總投資超50億元的信捷電氣具身智慧及高階裝備核心部件研製專案簽約落地濱湖區。此次簽約的專案計劃分三期建設，主要用於伺服系統及控制器的擴產、高壓變頻系統及人形機器人核心零部件無框電機和高精度編碼器的研發生產等，建成投產後將為無錫具身智慧和智慧製造產業發展注入新活力。"
-    },
-    {
-      "id": "4981454",
-      "time": "2026-07-10 21:41:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基： 作為對俄方襲擊的反擊，我方還打擊了薩拉托夫州、羅斯托夫州、特維爾州、斯塔夫羅波爾邊疆區、克拉斯諾達爾邊疆區，以及韃靼斯坦、巴什科爾託斯坦境內的石油設施。沃羅涅日州一處機場和特維爾州一處戰略設施也遭打擊。無人機同時針對莫斯科州、列寧格勒州、布良斯克州的相關設施發起攻擊。"
-    },
-    {
-      "id": "4981453",
-      "time": "2026-07-10 21:41:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：烏克蘭無人機已飛抵西伯利亞，襲擊了距烏克蘭近 2500 公里的鄂木斯克煉油廠。如今，俄羅斯境內已沒有任何一座煉油廠能躲開烏克蘭武器的打擊範圍。"
-    },
-    {
-      "id": "4981452",
-      "time": "2026-07-10 21:41:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【三菱汽車將量產人形機器人】三菱汽車7月9日宣佈，將在日本工廠啟動人形機器人量產。三菱汽車與其投資的新興企業Highlanders共同開發的人形機器人將於2027年左右投入生產，並率先匯入自有工廠使用，未來還將考慮對外銷售。"
-    },
-    {
-      "id": "4981451",
-      "time": "2026-07-10 21:40:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【八馬茶業：預計上半年收入同比增長不少於30.0%】八馬茶業公告，預計截至2026年6月30日止六個月收入同比增長不少於30.0%，至約人民幣10.63億元；公司股東應占溢利同比增長不少於60.0%，至約人民幣1.2億元。"
-    },
-    {
-      "id": "te:markets:566066",
-      "time": "2026-07-10 21:40:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Waver on Friday — US stock indices were mixed on Friday with more volatility for heavyweight chip producers clashed against a pullback in Treasury yields, aiding traditional economic sectors. The S&P 500 and the Dow inched, higher, while the Nasdaq 100 fell 0.5%. The SK Hynix ADRs were due to begin trading in domestic stock exchanges for the largest first-time share sale by a foreign company. Reports that the offering was seven times oversubscribed lifted AI infrastructure companies, especially boosting memory producers after Micron increased its investment guidance. The speculative sector trimmed yesterday’s increase with Micron and Sandisk down over 2% each. In turn, the Dow inched higher as it is not directly exposed so chip producers. Financial companies and traditional economic sectors enjoyed some respite as oil prices halted their rebound and softened concerns of another rate hike by the Fed. Also, Delta added 2% on strong earnings and a dividend increase."
-    },
-    {
-      "id": "4981450",
-      "time": "2026-07-10 21:40:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西基準股指伊博韋斯帕指數<.BVSP>上漲2%。"
-    },
-    {
-      "id": "4981449",
-      "time": "2026-07-10 21:40:21",
-      "tags": [
-        "宏觀",
-        "國際",
-        "兩會"
-      ],
-      "text": "【趙樂際分別會見奈米比亞總統恩代特瓦、朝鮮內閣總理樸泰成】全國人大常委會委員長趙樂際7月10日下午在北京分別會見奈米比亞總統恩代特瓦，朝鮮勞動黨中央政治局常委、國務委員會副委員長、內閣總理樸泰成。在會見恩代特瓦時，趙樂際表示，中納是好朋友、好兄弟、好夥伴。中方願同納方一道，落實好兩國元首重要共識，弘揚傳統友誼，深化務實合作，不斷提升中納全面戰略合作伙伴關係水平，共築新時代全天候中非命運共同體。中國全國人大願同奈米比亞議會加強交往交流，深化在各國議會聯盟等多邊平臺的協作，助力共同發展。歡迎納方派員參加中國全國人大舉辦的非洲國家議員研討班。恩代特瓦表示，納中友誼源遠流長、歷久彌堅。納方恪守一箇中國原則，願同中方在經貿、基礎設施、農業、礦產等各領域開展強有力合作，加強立法機構交流，不斷增進兩國人民的友好情誼。（新華社）"
-    },
-    {
-      "id": "te:markets:566065",
-      "time": "2026-07-10 21:40:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.20% Higher — The Dow Jones Index is picking up 105 points or 0.20 percent on Friday. Gains are led by Microsoft (1.80%), American Express (1.16%) and Nike (1.15%). Biggest losers are Alphabet (-1.22%), UnitedHealth (-0.92%) and McDonalds (-0.78%)."
-    },
-    {
-      "id": "4981448",
-      "time": "2026-07-10 21:39:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【某長三角理財子因規模增速過快收到監管提示函】從多個獨立信源處獲悉，某長三角理財子因今年規模增速過快，收到監管單獨傳送的提示函，但並未要求採取具體的壓降措施或行政處罰。資料顯示，此次被髮函提示的理財公司整體規模並不算高，但近期增速較為突出，尤其短期產品規模增長明顯，上半年整體增速約16%，而行業內其他理財公司增速多在10%以內。分析認為，監管對短期產品增速過快的機構保持關注，流動性風險是其中一個重要考量。（21財經）"
-    },
-    {
-      "id": "mkt:019f4c41-44e6-7aab-8d33-f285bc217723",
-      "time": "2026-07-10 21:39:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Yangtze River Delta wealth-management subsidiary hit with regulatory notice over rapid asset growth】A Yangtze River Delta-based wealth-management subsidiary has received a separate regulatory notice for unusually rapid asset growth this year; regulators did not require immediate asset reductions or impose administrative penalties. The firm's total AUM is not large but expanded roughly 16% in 1H, well above peers’ growth mostly below 10%, driven by a marked jump in short-term product volumes. Regulatory attention appears focused on rapid short-term product expansion, with liquidity risk cited as the primary concern."
-    },
-    {
-      "id": "4981447",
-      "time": "2026-07-10 21:38:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【研究顯示地球過去溫暖時期氣溫低於此前估計】英國利茲大學9日釋出的一項新研究顯示，地球顯生宙以來較溫暖時期的氣溫可能比此前認為的更低，相關結論有助於更深入理解地球未來氣溫走向 。(新華社)"
-    },
-    {
-      "id": "mkt:019f4c40-6a6a-7aab-8d33-eda848035d32",
-      "time": "2026-07-10 21:38:37",
-      "tags": [
-        "MKT News",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "【Samsung to unveil new foldables on July 22; U.S. price for Z Fold8 Ultra seen above $2,000】Samsung will announce new foldable models on July 22, expected to include the Galaxy Z Flip8, Galaxy Z Fold8 and Galaxy Z Fold8 Ultra. South Korean media, citing industry sources, report the Z Fold8 Ultra’s U.S. price will top $2,000, with $2,099 described as “very likely” versus the Z Fold7’s $1,999.99 launch price — implying about a $100 increase; pricing is not final as Samsung continues to review overall strategy. Reported drivers include a RAM supply strain and earlier price increases on the Galaxy S26 series."
-    },
-    {
-      "id": "4981446",
-      "time": "2026-07-10 21:38:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【第九屆進博會推介會在泰國舉行】據新華社，第九屆中國國際進口博覽會（進博會）推介會暨“共享大市場·出口中國”泰國專場活動9日在曼谷舉行。中泰工商界代表200餘人參加，共同探討兩國經貿合作高質量發展。中國商務部副部長鄢東在致辭中表示，中國已連續13年穩居泰國最大貿易伙伴，泰國也是中國在東盟的重要貿易伙伴。2026年是中國“十五五”開局之年，進博會將與“出口中國”系列活動協同聯動，以更大力度擴大進口，與世界各國共享中國發展新機遇。泰國是2026年“出口中國”主題國之一，歡迎泰國企業積極參與第九屆進博會，對接中方合作伙伴，助推中泰經貿關係邁上新臺階。"
-    },
-    {
-      "id": "4981445",
-      "time": "2026-07-10 21:38:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普下令翻新白宮廊柱】據埃菲社7月9日報道，美國總統特朗普已下令對白宮北門廊的柱子進行翻新，增添新裝飾，使其風格比目前更為華麗。7月9日，建築工人用一塊印有北門廊實物大小影象的巨型帆布，覆蓋在門廊上搭建的腳手架之上。白宮北門廊採用新古典主義風格，擁有8根愛奧尼柱。然而，特朗普最近在社交媒體上釋出了一張科林斯柱的圖片，這種柱式以裝飾更繁複、更華麗著稱，符合他的審美品味。報道稱，身為前房地產大亨的特朗普決心在其第二個也是最後一個任期內在首都留下自己的建築印記。（參考訊息）"
-    },
-    {
-      "id": "te:markets:566064",
-      "time": "2026-07-10 21:37:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Surges on Softer-Than-Expected Inflation — The Ibovespa jumped nearly 2% to trade close to 176,000 on Friday after Brazil's inflation data came in below expectations. Annual inflation eased to 4.64% in June from 4.72% in May, below market forecasts of 4.80%, bringing it closer to the BCB's target range of 1.5%-4.5%. The softer inflation reading pushed bond yields lower and strengthened expectations that the central bank could adopt a more dovish stance. Financial stocks led the rally, with Itaú and Itaúsa gaining more than 2%, Bradesco rising over 2.5%, and B3 advancing more than 3%. Utilities also moved higher, with Axia and Sabesp up over 2%. Other notable gainers included Rede D'Or (+3%) and CSN (+4%)."
-    },
-    {
-      "id": "4981444",
-      "time": "2026-07-10 21:37:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外媒：東道主美國何以輸掉世界盃人心】據美國《紐約時報》網站7月6日報道，6日，本就關係緊張的美國與歐洲出現新矛盾。在當晚美國對陣比利時的世界盃比賽中，一名遭禁賽的美國球員被恢復參賽資格，比利時官方及歐洲足壇人士對此表示強烈不滿。過去一年半以來，跨大西洋關係本就持續承壓，如今歐洲不少人士對美國總統插手足球事務感到憤慨。曾擔任足球裁判的比利時外交大臣馬克西姆·普雷沃6日表示，國際足聯的裁決恐將損害其一貫標榜的公平競賽原則。普雷沃說：“這一決定顯然存在諸多疑點。如果作出這個令人費解的決定確實是因為一通電話，那無疑是在踐踏足球乃至體育界秉持的基本原則。”歐洲足球協會聯盟在一份宣告中表示，國際足聯的改判“越過了紅線”，稱這是“一個史無前例、不可理解、毫無道理的決定”。比利時布魯蓋爾研究所分析師雅各布·豐克·柯克加德表示，歐洲政要可能將此次足球風波視為“特朗普治下的美國是一個無視法規、不受約束的國家”的又一明證。（參考訊息）"
-    },
-    {
-      "id": "4981443",
-      "time": "2026-07-10 21:36:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【打八折仍然流拍！大通證券51.59%股權二拍折戟後，三拍起拍價降至32億元】大通證券二拍再次流拍。7月9日午間，華信信託股份有限公司管理人與大連海創匯通投資有限公司持有的合計17.03億股大通證券股份有限公司股份在京東拍賣破產強清平臺第二次公開拍賣結束。京東拍賣平臺顯示，本場拍賣0人報名，起拍價約34.63億元，較評估價43.29億元已折讓兩成，但仍因無人出價而流拍。截至拍賣結束，該標的共吸引14316人次圍觀、118人設定關注。（澎湃）"
-    },
-    {
-      "id": "4981442",
-      "time": "2026-07-10 21:35:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "報道稱，烏克蘭武裝部隊發動襲擊後，亞速兩處石油儲存設施燃起的大火已得到控制。"
-    },
-    {
-      "id": "4981441",
-      "time": "2026-07-10 21:35:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日媒：東盟擬邀緬甸參加外長會議】據日本《每日新聞》7月10日報道，東盟外交人士9日向該報透露稱，東盟將於12日在泰國召開臨時外長會議，目前正在協調邀請緬甸政府外長出席會議。東盟自2021年緬甸軍方實施緊急狀態以來一直將緬甸領導人及部長排除在主要會議之外，這次邀請將是一次重大的政策轉變。東盟在今年5月的峰會上達成一致，同意緬甸外長以線上方式參加今年7月在輪值主席國菲律賓舉行的外長會議。（參考訊息）"
-    },
-    {
-      "id": "4981440",
-      "time": "2026-07-10 21:34:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將可口可樂目標股價從90美元上調至95美元。"
     }
   ]
 }
