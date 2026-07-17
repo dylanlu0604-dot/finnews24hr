@@ -1,7 +1,26 @@
 {
   "date": "2026-07-18",
-  "count": 87,
+  "count": 89,
   "items": [
+    {
+      "id": "te:markets:567974",
+      "time": "2026-07-18 02:15:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Soars by 6.95% — Top commodity gainers are Natural Gas EU (6.95%), Natural Gas UK (6.02%), Crude Oil WTI (4.72%) and Brent Crude Oil (4.69%). Biggest loser is Methanol (-0.72%)."
+    },
+    {
+      "id": "4994990",
+      "time": "2026-07-18 02:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特國家通訊社：科威特南部兩處遭伊朗襲擊的地點發生火情，目前火勢已得到控制，暫無人員傷亡報告。"
+    },
     {
       "id": "mkt:019f7146-81f1-7aab-8dea-00538b164a21",
       "time": "2026-07-18 02:11:13",
