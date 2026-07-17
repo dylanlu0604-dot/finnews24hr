@@ -1,7 +1,55 @@
 {
   "date": "2026-07-18",
-  "count": 246,
+  "count": 251,
   "items": [
+    {
+      "id": "te:markets:567985",
+      "time": "2026-07-18 04:45:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Slips as Tech Weakness Offsets Energy Gains — The S&P/TSX Composite Index edged 0.2% lower to close at 35,264 on Friday amid a selloff in US semiconductor stocks. Technology shares came under pressure as investors reassessed the sustainability of this year's AI-driven rally. Fresh weakness in chipmakers and a disappointing forecast from streaming giant Netflix added to the negative sentiment. Shopify lost 1.4%, Constellation Software was down 0.9%, and Celestica shed 1.2%. Meanwhile, the US and Iran intensified attacks across the Gulf, with their collapsed truce disrupting oil flows through the Strait of Hormuz. The conflict pushed oil prices higher, stoking inflation fears and weighing on financials and the broader market. BMO and Scotiabank lost 0.5% each, while Brookfield shed 1.7%. In contrast, energy stocks posted gains on higher oil prices, with Canadian Natural up 2.0% and Suncor adding 2.6%."
+    },
+    {
+      "id": "mkt:019f71d2-78e4-7aab-8deb-d2bf4ee873b8",
+      "time": "2026-07-18 04:44:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it attacked US facilities in Bahrain, destroying a drone-boat warehouse and an artificial intelligence center."
+    },
+    {
+      "id": "4995089",
+      "time": "2026-07-18 04:43:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，其使用彈道導彈與無人機摧毀了 “巴林主要人工智慧中心”。"
+    },
+    {
+      "id": "4995088",
+      "time": "2026-07-18 04:43:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉強震遇難人數上升至5069人】當地時間17日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的強震造成的遇難人數上升至5069人，受傷人數為16740人，強震過後發生餘震1331次。（央視新聞）"
+    },
+    {
+      "id": "4995087",
+      "time": "2026-07-18 04:42:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗伊斯蘭革命衛隊稱其襲擊了美國位於巴林的無人機倉庫。"
+    },
     {
       "id": "4995086",
       "time": "2026-07-18 04:41:24",
