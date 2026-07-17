@@ -1,7 +1,82 @@
 {
   "date": "2026-07-17",
-  "count": 2625,
+  "count": 2633,
   "items": [
+    {
+      "id": "4994555",
+      "time": "2026-07-17 20:07:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度JSW鋼鐵高管：國內鋼鐵需求前景向好，預計將增長7%-9%。"
+    },
+    {
+      "id": "mkt:019f6ff9-446e-7aab-8de3-e277b3f3461e",
+      "time": "2026-07-17 20:07:14",
+      "tags": [
+        "MKT News",
+        "FTSE100",
+        "Impact bullish",
+        "GBPUSD",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Fitch expects further loosening of UK bank capital rules."
+    },
+    {
+      "id": "mkt:019f6ff9-095c-7aab-8de3-dbdaa7c8fa93",
+      "time": "2026-07-17 20:06:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【India proposes tighter passenger-car fuel-efficiency rules to cut oil imports】India's Ministry of Power has proposed draft fuel-efficiency standards for passenger cars covering vehicles produced over the next five years through March 2032, with fuel-consumption limits set to tighten annually. The measures, aimed at reducing crude imports and cutting vehicle emissions—a major source of urban pollution—will be finalised after public consultation. Supply disruptions from the war in Iran have accelerated the push; India currently imports about 90% of its crude, and nearly all petrol and most diesel consumption is for road vehicles."
+    },
+    {
+      "id": "4994554",
+      "time": "2026-07-17 20:06:53",
+      "tags": [
+        "宏觀",
+        "兩會"
+      ],
+      "text": "【李鴻忠在安徽、河南開展執法檢查時強調 堅持以習近平總書記關於國家糧食安全重要論述精神為指導 推動糧食安全保障法全面有效實施】中共中央政治局委員、全國人大常委會副委員長李鴻忠7月13日至17日率全國人大常委會執法檢查組在安徽、河南檢查糧食安全保障法實施情況。他強調，要堅持以習近平總書記關於國家糧食安全重要論述精神為指導，推動糧食安全保障法全面有效實施，為夯實國家糧食安全根基提供法治保障。執法檢查組先後在安徽、河南開展實地檢查。在安徽期間，到合肥考察種業發展振興、糧食食品生產經營和安全管控工作，檢查土地集中連片整治成效，調研全過程人民民主基層實踐站執行情況；到阜陽檢查糧食生產基地建設、農業服務和糧食收購、倉儲、加工等情況。在河南期間，到周口檢查小麥良種育繁推產業化發展、惠農社會化服務、糧油產品依託水運聯通全國統一大市場、農資保供儲備等工作；到鄭州考察糧食精深加工業發展，調研小麥國家工程實驗室執行和良種選育應用等情況。（新華社）"
+    },
+    {
+      "id": "4994553",
+      "time": "2026-07-17 20:06:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【強腦科技釋出腦控機器人訓練平臺 10分鐘解鎖“意念”控制機器人】7月17日，2026世界人工智慧大會（WAIC 2026）在上海世博展覽館開幕。大會期間，強腦科技全球首發BrainCo腦控機器人訓練平臺、BrainCo靈巧運算元採矩陣，集中展示腦機介面技術的最新探索。"
+    },
+    {
+      "id": "4994552",
+      "time": "2026-07-17 20:06:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：週四， 以軍與辛貝特對汗尤尼斯地區實施打擊，擊斃恐怖分子阿納斯・馬哈茂德・艾哈邁德・哈姆丹。"
+    },
+    {
+      "id": "4994551",
+      "time": "2026-07-17 20:05:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奕帆傳動：股東宋益群減持計劃實施完成 合計減持193.37萬股】奕帆傳動公告稱，股東宋益群此前計劃減持公司股份。近日，其減持計劃實施完畢，合計減持193.369萬股（含公積金轉增股份數），佔扣除公司回購股份數後總股本比例為2.3684%。減持前持股190.7802萬股，比例2.4532%；減持後持股7.91萬股，佔比0.0848%。宋益群因誤操作超比例減持，已購回7.91萬股並承諾上繳價差收益。此次減持不會對公司治理等產生重大影響。"
+    },
+    {
+      "id": "4994550",
+      "time": "2026-07-17 20:04:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州國資擬受讓珠江人壽10%股權】近日，珠江人壽披露的一則股權變更公告顯示，公司第三大股東衡陽合創房地產開發有限公司將持有的珠江人壽6.7億股股份（股比10%）轉讓給廣州市廣永國有資產經營有限公司，後者為廣州金融控股集團有限公司的全資子公司。本次股權轉讓完成後，合創房地產持有珠江人壽6億股，佔珠江人壽總股比8.96%；廣永國有資產持有珠江人壽6.7億股，佔珠江人壽總股比10%。"
+    },
     {
       "id": "mkt:019f6ff5-f1fd-7aab-8de3-d661cee3fe9a",
       "time": "2026-07-17 20:03:36",
