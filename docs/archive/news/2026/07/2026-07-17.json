@@ -1,7 +1,46 @@
 {
   "date": "2026-07-17",
-  "count": 648,
+  "count": 652,
   "items": [
+    {
+      "id": "4993123",
+      "time": "2026-07-17 08:25:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬X9遭遇空氣彈簧故障，官方致歉：將提供專項升級質保方案】針對車主反饋的空氣彈簧故障，小鵬近日在官方社群釋出《關於小鵬X9空氣彈簧的質保方案升級》的公告。 公告表示，關注到部分小鵬X9使用者在高溫等極端場景遇到空氣彈簧故障，帶來不好的用車體驗，小鵬對此深表歉意。針對部分小鵬X9空氣彈簧出現的故障，小鵬集團將提供小鵬X9專項升級質保方案。即日起小鵬X9前空氣彈簧系統(含前空簧滑柱總成、供氣單元、供氣單元電磁閥盒、儲氣罐)質保延長至8年或16萬公里，該質保不受車主變更的影響。此前有媒體報道，重慶多名小鵬X9車主反饋車輛行駛途中突發故障趴窩，引發關注。 （新浪科技）"
+    },
+    {
+      "id": "te:markets:567669",
+      "time": "2026-07-17 08:24:07",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tokyo Electron Stock Price Hits 5-week Low — Tokyo Electron shares decreased to 66360.00 JPY, the lowest since June 2026. Over the past 4 weeks, Tokyo Electron lost 2.41%, and in the last 12 months, it increased 155.28%."
+    },
+    {
+      "id": "4993122",
+      "time": "2026-07-17 08:22:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經225指數較6月高點下跌超過10%】日本日經225指數一度下跌3.1%，較6月25日觸及的高點下跌超過10%，隨著科技板塊拋售加劇，該指數邁向技術性回撥。日經225指數在6月25日觸及72366.34點的高位。東證指數下跌1.8%。"
+    },
+    {
+      "id": "mkt:019f6d74-183d-7aab-8dd3-a11008cb2b3a",
+      "time": "2026-07-17 08:22:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions"
+      ],
+      "text": "Kioxia shares in Tokyo extended early-session losses to 10%."
+    },
     {
       "id": "mkt:019f6d73-84ff-7aab-8dd3-996046cff589",
       "time": "2026-07-17 08:21:54",
