@@ -1,7 +1,51 @@
 {
   "date": "2026-07-18",
-  "count": 284,
+  "count": 288,
   "items": [
+    {
+      "id": "mkt:019f7218-ae89-7aab-8dec-1e6263c6a0da",
+      "time": "2026-07-18 06:00:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it shot down US MQ-9 drone】Iran said early on the 18th local time that an Islamic Revolutionary Guard Corps naval air-defense system shot down a US MQ-9 drone."
+    },
+    {
+      "id": "4995115",
+      "time": "2026-07-18 06:00:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤金價突破4000美元/盎司 日內漲幅0.5%。"
+    },
+    {
+      "id": "mkt:019f7217-f0ca-7aab-8dec-1100fd619e83",
+      "time": "2026-07-18 05:59:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian state TV, citing the Islamic Revolutionary Guard Corps, said two oil tankers exploded and caught fire after transiting a route south of the Strait of Hormuz that the IRGC said was seeded with sea mines."
+    },
+    {
+      "id": "4995114",
+      "time": "2026-07-18 05:58:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱擊落一架美軍MQ-9無人機】據伊朗方面當地時間18日凌晨訊息，伊朗伊斯蘭革命衛隊海軍的防空系統擊落一架美軍MQ-9無人機。（央視新聞）"
+    },
     {
       "id": "4995113",
       "time": "2026-07-18 05:57:41",
