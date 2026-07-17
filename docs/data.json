@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-18 06:33:31",
-  "count": 18939,
+  "updated": "2026-07-18 06:37:20",
+  "count": 18940,
   "items": [
+    {
+      "id": "te:markets:567990",
+      "time": "2026-07-18 06:35:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Platinum Drops by 2.37% — Top commodity losers are Platinum (-2.37%), Silicon (-1.31%) and Copper (-1.25%). Gains are led by Gold (1.03%), Silver (0.73%) and Lithium Carbonate (0.66%)."
+    },
+    {
+      "id": "4995124",
+      "time": "2026-07-18 06:33:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局（USGS）：墨西哥馬德羅港西南 79 公里處發生 5.0 級地震。"
+    },
     {
       "id": "te:markets:567989",
       "time": "2026-07-18 06:30:18",
@@ -174598,17 +174617,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Cocoa Slumps by 7.46% — Top commodity losers are Cocoa (-7.46%), Coffee (-2.92%) and Palm Oil (-1.76%). Gains are led by Wheat (3.07%), Corn (2.40%) and Barley (2%)."
-    },
-    {
-      "id": "te:markets:566139",
-      "time": "2026-07-11 06:35:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 2.21% — Top commodity losers are Lithium Carbonate (-2.21%) and Gold (-0.06%). Gains are led by Silicon (0.84%), Iron Ore CNY (0.80%) and Platinum (0.52%)."
     }
   ]
 }
