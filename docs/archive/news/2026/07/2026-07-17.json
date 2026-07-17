@@ -1,7 +1,125 @@
 {
   "date": "2026-07-17",
-  "count": 1984,
+  "count": 1998,
   "items": [
+    {
+      "id": "mkt:019f6f48-3ef3-7aab-8de0-2be6d2c9ec1a",
+      "time": "2026-07-17 16:53:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of Japan may raise growth forecast, keep policy rate unchanged】Insiders say the Bank of Japan may consider raising its economic growth forecast for the fiscal year to March next year (currently +0.5%) at this month's policy meeting while keeping the policy rate unchanged. The bank has already lifted rates to their highest level since 1995. Officials cited sustained global AI‑related demand as supporting Japan's economic resilience and are weighing revising the assessment that economic risks are \"tilted to the downside\" to reflect growing confidence Japan can avoid a severe recession. Insiders said final decisions will follow assessment of all available data up to the 11th hour."
+    },
+    {
+      "id": "mkt:019f6f48-2db9-7aab-8de0-2468aefc3fe4",
+      "time": "2026-07-17 16:53:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Huawei Cloud said it will retire its KVS key-value cloud storage service at 00:00 on April 30, 2027 (Beijing time) as part of a business strategy adjustment."
+    },
+    {
+      "id": "4994048",
+      "time": "2026-07-17 16:53:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆通股份：SONG JIANBO增持股份至5%並計劃繼續增持】恆通股份公告稱，7月17日，資訊披露義務人SONG JIANBO透過集中競價方式增持公司371.54萬股，持股比例由4.47%提升至5%。本次增持資金源於自有資金，控股股東、實際控制人未變，且其股份無質押、凍結等受限情況。SONG JIANBO計劃在2026年7月17日至2027年1月16日期間，增持不超5000萬元公司股份（含已增持金額）。"
+    },
+    {
+      "id": "te:economy:567853",
+      "time": "2026-07-17 16:53:13",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Unemployment Rate Steady — Hong Kong’s seasonally adjusted unemployment rate held steady at 3.7% in the three months ending June 2026, remaining at its lowest level since the period ending August 2025. The number of unemployed people declined by 1,400 month-on-month to 139,700, while total employment increased by 6,800 to 3.6 million. However, labor market conditions among younger workers weakened, with the unemployment rate for those aged 20 to 29 rising to 7.5% from 7%, the highest since the three months ending November 2025. The underemployment rate also edged up to 1.6% from 1.5%. Meanwhile, the labor force participation rate inched higher to 56.2% from 56.1% in the previous period."
+    },
+    {
+      "id": "4994047",
+      "time": "2026-07-17 16:53:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【邁入AGI科學元認知時刻，上海釋出“書生·端硯”，解鎖全棧科研新能力】今天（17日），在2026世界人工智慧大會科學（WAIC 2026）前沿論壇上，上海人工智慧實驗室釋出“書生·端硯”科學發現平臺。“書生·端硯”面向真實科研全流程，連線了科學大模型、專業智慧體、實驗資料與具身自動化裝置，覆蓋從“假設提出”到“實驗驗證”的完整科研流程。“書生·端硯”已在生命科學、關鍵材料、半導體、核聚變、量子、地球氣象六大核心科研領域落地。其中在蛋白質、材料等前沿研究中，“書生·端硯”完成了乾溼實驗閉環，實現了科學發現全流程端到端驗證。（上觀）"
+    },
+    {
+      "id": "te:economy:567851",
+      "time": "2026-07-17 16:52:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kazakhstan",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Kazakhstan Industrial Activity Expands — Kazakhstan’s industrial production rose 8.2% year-on-year in June 2026, accelerating from 4.7% in the previous month. The largest jump was recorded in the manufacturing sector, surging 13.7% from 5.2% in the previous month, followed by the supply of electricity, gas, steam, hot water and air conditioning, edging up to 16.9% from 16%. Meanwhile, mining quarrying output slowed to 1.8% from 3%, largely due to a decrease in production of crude oil and natural gas. Activity in water supply, water drainage, waste collection, treatment and disposal, pollution abatement services contracted 1.3% after a 2.9% increase in the previous month. For the first half of the year, industrial production rose 3.5% compared to the same period a year earlier."
+    },
+    {
+      "id": "4994046",
+      "time": "2026-07-17 16:52:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國科學院釋出“敖倉·科技語料庫”】7月17日，由中國科學院文獻情報中心牽頭建設的“敖倉·科技語料庫”在2026世界人工智慧大會暨人工智慧全球治理高階別會議期間正式釋出。“敖倉·科技語料庫”是透過精煉大量科學資料、科技論文、發明專利和科技圖書，形成的讓人工智慧“讀懂”的海量資料集合。（新華社）"
+    },
+    {
+      "id": "4994045",
+      "time": "2026-07-17 16:51:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雅本化學：擬以2500萬元-5000萬元回購公司股份】雅本化學公告，擬使用自有資金及自籌資金以集中競價交易方式回購部分公司A股股票，回購資金總額不低於2500萬元（含）且不超過5000萬元（含），預計回購股份數量約為362.84萬股至725.69萬股，佔公司目前總股本的0.38%至0.75%。"
+    },
+    {
+      "id": "4994044",
+      "time": "2026-07-17 16:50:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綜合鑑定準確率超98%，合合資訊AI跨模態鑑偽技術亮相2026WAIC】“確保人工智慧安全、可靠、可控”是國家對人工智慧發展的核心要求。當前，隨著高密度的AI內容滲透和模型的進化，公眾僅憑直覺和經驗難免會被AI偽造資訊誤導，甚至產生經濟損失。2026世界人工智慧大會期間，合合資訊打造了一把能夠“看透”虛假資訊的趁手工具AI跨模態鑑偽技術，綜合鑑定測試準確率均超過98%；此外，公司還推出了“掃描全能王AI鑑偽小程式”，助力公眾與AI偽造“魔法對轟”。影象、影片和文字是當前AI偽造內容的主要載體。為幫助使用者應對猖獗、頻繁的偽造亂象，合合資訊AI跨模態鑑偽技術及“掃描全能王AI鑑偽小程式”，將偽造現象鑑定範圍從合規風控專業場景，升級至常見的社交軟體聊天、圖文資訊、電商交易、短影片分享、學術研究等泛人群場景。（上觀）"
+    },
+    {
+      "id": "4994043",
+      "time": "2026-07-17 16:50:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濱海能源：控股股東及其一致行動人增持股份觸及1%整數倍】濱海能源公告稱，7月16日、17日，控股股東旭陽集團以集中競價交易方式共增持公司股份455萬股，佔公司總股本的1.96%。本次權益變動後，旭陽集團及其一致行動人旭陽控股合計持有公司股份6248.7978萬股，佔公司總股本的26.96%，變動觸及1%刻度的整數倍26%。此次增持基於對公司未來發展前景等的認同。"
+    },
+    {
+      "id": "4994042",
+      "time": "2026-07-17 16:50:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西井科技2026WAIC上釋出智慧排程管理平臺】7月17日，2026世界人工智慧大會（WAIC）在上海開幕。西井科技展示“物理AI+運營AI”雙智體系下的全棧AI智慧物流體系，併發布升級版ReeWell全場全要素智慧排程管理平臺。"
+    },
+    {
+      "id": "mkt:019f6f44-c7d2-7aab-8de0-1ed77a399967",
+      "time": "2026-07-17 16:50:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "Eurozone final June CPI YoY and MoM due in 10 minutes."
+    },
+    {
+      "id": "4994041",
+      "time": "2026-07-17 16:50:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國ITC釋出對奈米層壓合金塗層金屬零件及其下游產品的337部分終裁】7月16日，美國國際貿易委員會（ITC）釋出公告稱，對特定奈米層壓合金塗層金屬零件及其下游產品作出337部分終裁：對本案行政法官於2026年4月30日作出的最終初裁（FID）進行復審，複審後確認本案不存在侵權，並終止本案調查。"
+    },
     {
       "id": "4994040",
       "time": "2026-07-17 16:49:13",
@@ -109,6 +227,14 @@
         "公司"
       ],
       "text": "【海螺水泥在宣城成立新型建材公司，註冊資本3000萬】天眼查App顯示，7月15日，寧國海螺新型建材有限公司成立，法定代表人為周德剛，註冊資本3000萬人民幣，經營範圍包括水泥製品製造、新型建築材料製造、建築砌塊製造、輕質建築材料製造等。股東資訊顯示，該公司由海螺水泥（600585）、安徽宣城海螺水泥有限公司共同持股。"
+    },
+    {
+      "id": "4994028",
+      "time": "2026-07-17 16:45:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三一重能增資至15.9億元，增幅約30%】天眼查App顯示，7月16日，三一重能（688349）發生工商變更，註冊資本由約12.3億人民幣增至約15.9億人民幣，增幅約30%。三一重能股份有限公司成立於2008年4月，法定代表人為李強，經營範圍包括機械電氣裝置製造、發電機及發電機組製造、風力發電技術服務等。"
     },
     {
       "id": "mkt:019f6f40-3698-7aab-8de0-0fb0e66ed159",
