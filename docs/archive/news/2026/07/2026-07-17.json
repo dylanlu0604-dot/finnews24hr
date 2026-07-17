@@ -1,7 +1,106 @@
 {
   "date": "2026-07-17",
-  "count": 2034,
+  "count": 2047,
   "items": [
+    {
+      "id": "4994081",
+      "time": "2026-07-17 17:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網信辦釋出《智慧體互信互聯互操作全球合作倡議》】7月17日，中國國家網際網路資訊辦公室會同有關方面於2026世界人工智慧大會暨人工智慧全球治理高階別會議主論壇，提出《智慧體互信互聯互操作全球合作倡議》，希凝聚各方共識，與全球夥伴共同打造開放、可信、安全、普惠的智慧體生態。我們支援在各國普遍參與的基礎上，制定開放、非歧視、透明的智慧體互操作國際標準，推動介面、互聯協議、語義與流程層的相容互認。建立開放式標準驗證與迭代機制，避免技術壁壘與生態割裂，推動不同智慧體無縫接入全球協作網路。（網信辦）"
+    },
+    {
+      "id": "te:economy:567860",
+      "time": "2026-07-17 17:04:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Current Account Deficit Widens in May — Bulgaria’s current account deficit widened sharply to EUR 597.8 million in May 2026 from EUR 88.2 million in the corresponding month of the previous year. The goods account deficit increased to EUR 782.6 million from EUR 419.2 million, while the services account surplus narrowed to EUR 556.9 million from EUR 634.1 million, mainly due to weaker manufacturing services, which stagnated (vs EUR 10.4 million), and transportation services (EUR 190.5 million vs EUR 201.2 million). Meanwhile, the primary income deficit widened slightly to EUR 480.1 million from EUR 479.4 million a year earlier. The secondary income surplus also declined by EUR 68.3 million to EUR 108 million."
+    },
+    {
+      "id": "4994080",
+      "time": "2026-07-17 17:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗首次承認對電力基礎設施實施襲擊，並呼籲民眾節約用電。"
+    },
+    {
+      "id": "4994079",
+      "time": "2026-07-17 17:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科大訊飛在WAIC2026釋出智慧互動服務Agent GuideX】WAIC2026期間，科大訊飛釋出智慧互動服務Agent——GuideX。GuideX融合全模態感知、自治理Agent、SkillHub等能力，可執行感知、理解、執行、記憶、共情等服務。在東南亞、中東、拉美等多個國家和地區，GuideX已穩定落地應用，支援3000+行業服務技能，覆蓋機場、酒店、展館、政務、運營商等公共服務場景。"
+    },
+    {
+      "id": "mkt:019f6f51-0b93-7aab-8de0-907f15411faf",
+      "time": "2026-07-17 17:03:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "002230.SZ"
+      ],
+      "text": "【iFlytek unveils GuideX intelligent interaction agent at WAIC2026】At WAIC2026 iFlytek launched GuideX, an intelligent interaction agent that integrates multi‑modal perception, autonomous-agent governance and a SkillHub. GuideX offers perception, understanding, execution, memory and empathy capabilities and is already deployed in multiple countries across Southeast Asia, the Middle East and Latin America. The product supports over 3,000 industry service skills and targets public-service use cases including airports, hotels, exhibition centers, government services and telecom operators."
+    },
+    {
+      "id": "4994078",
+      "time": "2026-07-17 17:03:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州市地鐵集團有限責任公司董事長明剛接受審查調查】中央紀委國家監委網站7月17日通報，據杭州市紀委監委訊息：杭州市地鐵集團有限責任公司黨委書記、董事長明剛涉嫌嚴重違紀違法，主動投案，目前正接受杭州市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4994077",
+      "time": "2026-07-17 17:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 黑海里海管道集團碼頭附近一艘油輪遭襲擊。"
+    },
+    {
+      "id": "4994076",
+      "time": "2026-07-17 17:02:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英鎊/美元跌幅擴大至0.3%，報1.3442，觸及日內新低。"
+    },
+    {
+      "id": "4994075",
+      "time": "2026-07-17 17:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國拍賣100萬噸現貨碳排放配額，成交價為每噸77.0歐元。"
+    },
+    {
+      "id": "mkt:019f6f4f-99f3-7aab-8de0-8b98fba5a314",
+      "time": "2026-07-17 17:01:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude touched $80/bbl, up 0.69% intraday."
+    },
+    {
+      "id": "4994074",
+      "time": "2026-07-17 17:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特：水廠和發電廠發生火災，目前情況已得到控制。"
+    },
     {
       "id": "4994073",
       "time": "2026-07-17 17:01:40",
@@ -27,6 +126,15 @@
       "text": "小馬智行：將於2026年8月18日釋出2026年第二季度及中期財務業績。"
     },
     {
+      "id": "em:jjsj_oyqsj:202607173811090260",
+      "time": "2026-07-17 17:00:41",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區6月核心調和CPI同比終值2.4%】歐元區6月核心調和CPI同比終值2.4%，預期2.4%，初值2.4%。"
+    },
+    {
       "id": "te:economy:567858",
       "time": "2026-07-17 17:00:31",
       "tags": [
@@ -37,6 +145,15 @@
         "Importance 1"
       ],
       "text": "Hong Kong Business Morale Improves Slightly in Q3 — Business confidence in Hong Kong edged up to -4 in the third quarter of 2026 from -5 in the previous quarter. The share of respondents expecting a better business condition declined to 10% from 11% in Q2 2026, while those anticipating worse conditions eased slightly to 14% from 16%. Confidence strengthened in manufacturing (5 vs 0 in Q2) and sentiment also improved, though remained negative, in accommodation and food services (-9 vs -35), construction (-6 vs -21), and transportation, storage and courier services (-15 vs -24), information and communications (-7 vs -16), and retail (-2 vs -3). Confidence in import/export trade and wholesale was unchanged at -9. However, optimism eased in financing and insurance (10 vs 12), while sentiment deteriorated sharply in real estate (-11 vs 9) and professional and business services (-10 vs 2)."
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607173811092741",
+      "time": "2026-07-17 17:00:26",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區6月CPI同比增長2.8% 預期2.8%】歐元區6月CPI同比增長2.8%，預期2.8%；6月CPI環比下降0.1%，預期下降0.1%。"
     },
     {
       "id": "4994071",

@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-17 17:02:22",
-  "count": 19046,
+  "updated": "2026-07-17 17:06:33",
+  "count": 19043,
   "items": [
+    {
+      "id": "4994081",
+      "time": "2026-07-17 17:05:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網信辦釋出《智慧體互信互聯互操作全球合作倡議》】7月17日，中國國家網際網路資訊辦公室會同有關方面於2026世界人工智慧大會暨人工智慧全球治理高階別會議主論壇，提出《智慧體互信互聯互操作全球合作倡議》，希凝聚各方共識，與全球夥伴共同打造開放、可信、安全、普惠的智慧體生態。我們支援在各國普遍參與的基礎上，制定開放、非歧視、透明的智慧體互操作國際標準，推動介面、互聯協議、語義與流程層的相容互認。建立開放式標準驗證與迭代機制，避免技術壁壘與生態割裂，推動不同智慧體無縫接入全球協作網路。（網信辦）"
+    },
+    {
+      "id": "te:economy:567860",
+      "time": "2026-07-17 17:04:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Bulgaria",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Bulgaria Current Account Deficit Widens in May — Bulgaria’s current account deficit widened sharply to EUR 597.8 million in May 2026 from EUR 88.2 million in the corresponding month of the previous year. The goods account deficit increased to EUR 782.6 million from EUR 419.2 million, while the services account surplus narrowed to EUR 556.9 million from EUR 634.1 million, mainly due to weaker manufacturing services, which stagnated (vs EUR 10.4 million), and transportation services (EUR 190.5 million vs EUR 201.2 million). Meanwhile, the primary income deficit widened slightly to EUR 480.1 million from EUR 479.4 million a year earlier. The secondary income surplus also declined by EUR 68.3 million to EUR 108 million."
+    },
+    {
+      "id": "4994080",
+      "time": "2026-07-17 17:04:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗首次承認對電力基礎設施實施襲擊，並呼籲民眾節約用電。"
+    },
+    {
+      "id": "4994079",
+      "time": "2026-07-17 17:03:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科大訊飛在WAIC2026釋出智慧互動服務Agent GuideX】WAIC2026期間，科大訊飛釋出智慧互動服務Agent——GuideX。GuideX融合全模態感知、自治理Agent、SkillHub等能力，可執行感知、理解、執行、記憶、共情等服務。在東南亞、中東、拉美等多個國家和地區，GuideX已穩定落地應用，支援3000+行業服務技能，覆蓋機場、酒店、展館、政務、運營商等公共服務場景。"
+    },
+    {
+      "id": "mkt:019f6f51-0b93-7aab-8de0-907f15411faf",
+      "time": "2026-07-17 17:03:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "002230.SZ"
+      ],
+      "text": "【iFlytek unveils GuideX intelligent interaction agent at WAIC2026】At WAIC2026 iFlytek launched GuideX, an intelligent interaction agent that integrates multi‑modal perception, autonomous-agent governance and a SkillHub. GuideX offers perception, understanding, execution, memory and empathy capabilities and is already deployed in multiple countries across Southeast Asia, the Middle East and Latin America. The product supports over 3,000 industry service skills and targets public-service use cases including airports, hotels, exhibition centers, government services and telecom operators."
+    },
+    {
+      "id": "4994078",
+      "time": "2026-07-17 17:03:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州市地鐵集團有限責任公司董事長明剛接受審查調查】中央紀委國家監委網站7月17日通報，據杭州市紀委監委訊息：杭州市地鐵集團有限責任公司黨委書記、董事長明剛涉嫌嚴重違紀違法，主動投案，目前正接受杭州市紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4994077",
+      "time": "2026-07-17 17:02:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息： 黑海里海管道集團碼頭附近一艘油輪遭襲擊。"
+    },
+    {
+      "id": "4994076",
+      "time": "2026-07-17 17:02:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "英鎊/美元跌幅擴大至0.3%，報1.3442，觸及日內新低。"
+    },
+    {
+      "id": "4994075",
+      "time": "2026-07-17 17:02:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國拍賣100萬噸現貨碳排放配額，成交價為每噸77.0歐元。"
+    },
+    {
+      "id": "mkt:019f6f4f-99f3-7aab-8de0-8b98fba5a314",
+      "time": "2026-07-17 17:01:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude touched $80/bbl, up 0.69% intraday."
+    },
+    {
+      "id": "4994074",
+      "time": "2026-07-17 17:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特：水廠和發電廠發生火災，目前情況已得到控制。"
+    },
     {
       "id": "4994073",
       "time": "2026-07-17 17:01:40",
@@ -27,6 +126,15 @@
       "text": "小馬智行：將於2026年8月18日釋出2026年第二季度及中期財務業績。"
     },
     {
+      "id": "em:jjsj_oyqsj:202607173811090260",
+      "time": "2026-07-17 17:00:41",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區6月核心調和CPI同比終值2.4%】歐元區6月核心調和CPI同比終值2.4%，預期2.4%，初值2.4%。"
+    },
+    {
       "id": "te:economy:567858",
       "time": "2026-07-17 17:00:31",
       "tags": [
@@ -37,6 +145,15 @@
         "Importance 1"
       ],
       "text": "Hong Kong Business Morale Improves Slightly in Q3 — Business confidence in Hong Kong edged up to -4 in the third quarter of 2026 from -5 in the previous quarter. The share of respondents expecting a better business condition declined to 10% from 11% in Q2 2026, while those anticipating worse conditions eased slightly to 14% from 16%. Confidence strengthened in manufacturing (5 vs 0 in Q2) and sentiment also improved, though remained negative, in accommodation and food services (-9 vs -35), construction (-6 vs -21), and transportation, storage and courier services (-15 vs -24), information and communications (-7 vs -16), and retail (-2 vs -3). Confidence in import/export trade and wholesale was unchanged at -9. However, optimism eased in financing and insurance (10 vs 12), while sentiment deteriorated sharply in real estate (-11 vs 9) and professional and business services (-10 vs 2)."
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607173811092741",
+      "time": "2026-07-17 17:00:26",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "【歐元區6月CPI同比增長2.8% 預期2.8%】歐元區6月CPI同比增長2.8%，預期2.8%；6月CPI環比下降0.1%，預期下降0.1%。"
     },
     {
       "id": "4994071",
@@ -175163,147 +175280,6 @@
         "Impact bullish"
       ],
       "text": "【Mitsubishi UFJ: Japan investment push unlikely to have lasting impact on yen】Mitsubishi UFJ Financial Group analyst Derek Halpenny says Finance Minister Satsuki Katayama’s call for households and pension funds to increase domestic allocations is positive but unlikely to sustain the yen in the near term; such policy shifts will take time. The Bank of Japan’s credibility and concerns it remains behind the curve on rate hikes remain the key drivers. Markets may view Katayama’s remarks as signaling reduced willingness to intervene to support the yen, which, if global yields rise, could prompt renewed yen weakness."
-    },
-    {
-      "id": "mkt:019f4b47-1bc8-7aab-8d2e-30ace0df8db8",
-      "time": "2026-07-10 17:06:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact mixed",
-        "S&P500",
-        "Nikkei 225"
-      ],
-      "text": "【Nanya Technology: capacity to expand ~69%; expects DRAM undersupply through 2028】Nanya Technology said at an investor briefing that next‑generation AI acceleration platforms including Rubin Ultra and TPA are lifting HBM bit demand and crowding out traditional DRAM capacity, and that global DRAM should remain supply‑deficit through 2028. The company forecasts capacity will grow about 69% in 2026–2028. A new 5A fab will deploy 1C/1D nm process nodes and add roughly 45,000 wafers of capacity, improving wafer‑bit output. Nanya expects bit shipments to rise 8% in 2027 and 53% in 2028 to 6.75 billion Gb and 10.33 billion Gb, respectively. It said Q2 average per‑Gb prices have not fully reflected recent contract price increases and timing of renewals with large long‑term customers, leaving upside risk to Q3 ASP."
-    },
-    {
-      "id": "4980851",
-      "time": "2026-07-10 17:05:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雪龍集團：“研發技術中心建設專案”延期至2027年4月30日】雪龍集團公告稱，公司首次公開發行股票募集資金淨額4.32億元。截至2025年12月31日，募投專案累計投入3.14億元。因研發中心與全廠配套工程需同步閉環，公司決定將“研發技術中心建設專案”達到預定可使用狀態的日期延長至2027年4月30日。該決定已透過董事會審議，不會對專案實施產生重大不利影響，也不存在損害股東利益的情形。"
-    },
-    {
-      "id": "4980850",
-      "time": "2026-07-10 17:05:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【朗威股份：全資子公司擬1.04億元購買美國工業建築】朗威股份公告稱，公司全資子公司美國朗威近日與賣方簽署正式協議，擬以1523.52萬美元（摺合人民幣約1.04億元）現金購買位於美國伊利諾伊州的工業建築。該交易有助於公司縮短交付半徑、降低成本等，資金為自有資金，不會對財務及經營產生重大不利影響。不過，交易能否順利完成過戶存在不確定性。"
-    },
-    {
-      "id": "4980849",
-      "time": "2026-07-10 17:04:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國廣核：2026年上半年發電量降2.12% 完成股權收購】中國廣核公告稱，2026年1-6月，集團運營管理的核電機組總發電量約1177.66億千瓦時，同比降2.12%；總商運上網電量約1095.97億千瓦時，同比降3.32%。二季度，惠州1號、蒼南1號機組投運，完成3個年度換料大修和2個十年大修。三季度計劃開展3項年度換料大修和2項十年大修。此外，公司將按每股0.086元（含稅）派2025年度末期股息，預計7月10日支付；6月30日完成收購控股股東持有的中廣核蒼南核電46%股權、中廣核蒼南第二核電51%股權。"
-    },
-    {
-      "id": "4980848",
-      "time": "2026-07-10 17:03:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國藥現代：預計2026年上半年淨利潤同比下降63.54%到54.61%】國藥現代公告，預計2026年1-6月實現歸屬於上市公司股東的淨利潤2.45億元到3.05億元，同比下降63.54%到54.61%。當前，抗生素類中間體及原料藥領域正經歷多重挑戰，一方面受國際地緣政治影響，海外市場保護主義抬頭；另一方面國內抗生素產能過剩、集採效應向產業鏈上游傳導，行業經營壓力顯著增大。"
-    },
-    {
-      "id": "4980847",
-      "time": "2026-07-10 17:03:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【清源股份：預計2026年上半年淨利潤同比下降70.04%-79.26%】清源股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1800萬元到2600萬元，與上年同期相比，將減少6077.77萬元到6877.77萬元，同比減少70.04%到79.26%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤1600萬元到2400萬元，與上年同期相比，將減少6197.22萬元到6997.22萬元，同比減少72.08%到81.39%。"
-    },
-    {
-      "id": "mkt:019f4b44-c74a-7aab-8d2e-2809ad7a4eed",
-      "time": "2026-07-10 17:03:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman state news agency said Oman set its official crude price at $69.29/bbl for September delivery."
-    },
-    {
-      "id": "4980846",
-      "time": "2026-07-10 17:03:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【《銀行業保險業網路安全管理辦法（徵求意見稿）》公開徵求意見】為加強銀行業金融機構、保險業金融機構和金融控股公司網路安全管理，防範化解銀行業保險業網路安全風險，推動金融高質量發展，國家金融監督管理總局起草了《銀行業保險業網路安全管理辦法（徵求意見稿）》，現面向社會公開徵求意見。"
-    },
-    {
-      "id": "mkt:019f4b44-9b06-7aab-8d2e-2262e3ad3a74",
-      "time": "2026-07-10 17:03:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's State Council issued a reply approving, in principle, the 15th Five-Year Plan for the Revitalization and Development of Traditional Chinese Medicine."
-    },
-    {
-      "id": "4980845",
-      "time": "2026-07-10 17:03:26",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院原則同意《中醫藥振興發展“十五五”規劃》】國務院原則同意《中醫藥振興發展“十五五”規劃》，請認真組織實施。《規劃》實施要堅持以習近平新時代中國特色社會主義思想為指導，深入貫徹黨的二十大和二十屆歷次全會精神，認真落實四中全會部署，全面貫徹習近平總書記關於健康中國建設和中醫藥工作的重要論述，堅定不移走中國特色衛生與健康發展道路，堅定不移貫徹新時代衛生與健康工作方針，堅持中西醫並重，堅持守正創新，遵循中醫藥規律和特點，完善中醫藥傳承創新發展機制，加快推進中醫藥現代化，推動中醫藥走向世界，為推動“十五五”時期健康中國建設取得決定性進展提供有力支撐。"
-    },
-    {
-      "id": "mkt:019f4b44-3518-7aab-8d2e-1a2c10b60bc1",
-      "time": "2026-07-10 17:03:08",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【IEA: US gasoline demand resilient despite near‑50% rise in pump prices】The IEA says US gasoline consumption surprised on the upside, averaging +1.5% YoY in March–April and reversing a 12‑month decline. Pump prices have risen nearly 50% since the conflict began, yet demand grew; preliminary data show growth slowed in May–June. US drivers account for almost one‑third of global gasoline use, making US demand pivotal for markets. The IEA cautioned some recent gains may reflect stockpiling and expects demand growth to revert toward historical trends by 2027."
-    },
-    {
-      "id": "4980844",
-      "time": "2026-07-10 17:02:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金帝股份旗下重慶公司增資至4.75億 增幅約296%】天眼查App顯示，近日，博源電驅動科技（重慶）有限公司發生工商變更，新增金帝股份（603270）為股東，同時，註冊資本由1.2億人民幣增至4.75億人民幣，增幅約296%。該公司成立於2025年8月，法定代表人為鄭德儉，經營範圍包括新興能源技術研發、汽車零部件及配件製造、風力發電技術服務等，現由海南金海慧投資有限公司及上述新增股東共同持股。"
-    },
-    {
-      "id": "4980843",
-      "time": "2026-07-10 17:02:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【卓然股份：公司股票可能被終止上市】卓然股份公告，公司因無法在法定期限內披露經審計的《2025年年度報告》，公司股票自2026年5月6日起停牌，因公司在停牌後2個月內未完成披露經審計的《2025年年度報告》，公司於2026年7月7日復牌並被實施退市風險警示。若公司股票被實施退市風險警示之日起2個月內仍未披露過半數董事保證真實、準確、完整的《2025年年度報告》，公司股票將被終止上市。公司及實際控制人已被中國證監會立案調查，若後續經中國證監會行政處罰認定的事實，觸及《股票上市規則》規定的重大違法強制退市情形，公司股票將被實施重大違法強制退市。"
-    },
-    {
-      "id": "4980842",
-      "time": "2026-07-10 17:02:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "大眾卡客車2026年第二季度銷量增長15%。"
-    },
-    {
-      "id": "4980841",
-      "time": "2026-07-10 17:02:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車集團第二季度交付量同比下降8.6%。"
-    },
-    {
-      "id": "4980840",
-      "time": "2026-07-10 17:02:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "大眾汽車集團第二季度在華交付量下降36.6%。"
     }
   ]
 }
