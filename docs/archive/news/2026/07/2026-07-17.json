@@ -1,7 +1,76 @@
 {
   "date": "2026-07-17",
-  "count": 1206,
+  "count": 1213,
   "items": [
+    {
+      "id": "4993506",
+      "time": "2026-07-17 12:28:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗Press TV：作為對美國軍事侵略的回應，伊斯蘭革命衛隊航空航天部隊在“納斯爾行動”第十一波次中，對敘利亞Al-Tanf地區的敵方特種作戰指揮中心發動了突然襲擊。此次襲擊摧毀了一套雷達系統及數架特種作戰直升機，並造成大量美軍人員傷亡。"
+    },
+    {
+      "id": "4993505",
+      "time": "2026-07-17 12:26:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤集團：監測發現社交平臺上存在不實招聘資訊，提醒求職者加強風險防範意識】7月17日，華潤（集團）有限公司釋出宣告稱，近期監測發現，有第三方機構或個人以“就業指導規劃”“資訊資料來源於華潤官網”“關注即內推”“留言可分享報名入口”“提前預定暑假實習”等話術，在微信影片號、小紅書及抖音等社交媒體平臺上釋出不實招聘資訊。公司的招聘、面試以及入職培訓等相關活動，不會以任何名目嚮應聘者收取任何費用，更不會以任何理由索要銀行卡密碼、驗證碼等涉及個人財產安全的資訊。請廣大求職者加強風險防範意識，請認準並透過公司官方渠道瞭解招聘資訊、參加相關招聘活動，謹防上當受騙。"
+    },
+    {
+      "id": "mkt:019f6e53-2d9b-7aab-8dd9-9907a06493af",
+      "time": "2026-07-17 12:26:12",
+      "tags": [
+        "MKT News",
+        "NFLX.O",
+        "Impact bearish"
+      ],
+      "text": "Jefferies cuts Netflix (NFLX.O) PT to $90 from $110."
+    },
+    {
+      "id": "4993504",
+      "time": "2026-07-17 12:25:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "傑富瑞將 奈飛公司  目標價從110美元下調至90美元。"
+    },
+    {
+      "id": "4993503",
+      "time": "2026-07-17 12:25:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜ARR已達10億美元】記者獲悉，截至2026年7月，智譜ARR（年度經常性收入）規模已達10億美元。僅今年1至7月，公司ARR同比增幅高達15倍。截至發稿，智譜尚未就上述資料予以回應。"
+    },
+    {
+      "id": "mkt:019f6e52-969b-7aab-8dd9-9679ccadae10",
+      "time": "2026-07-17 12:25:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Institutions criticize South Korean regulators' rushed approval of single-stock leveraged products as creating a \"casino\" for retail investors】South Korean equities have seen extreme volatility, with single-stock leveraged ETFs linked to Samsung Electronics and SK Hynix amplifying sell pressure. The Korea Exchange logged 37 trading halts year-to-date, more than half occurring after the May launch of single-stock leveraged products. Chairman of the Korea Corporate Governance Forum Namuh Rhee said: \"Storage-chip businesses are highly cyclical and demand is hard to predict; allowing retail investors to use 2x leverage in this area is a serious policy mistake.\" Tcha Partners executive director Kim Hyung-kyoon said regulators moved too quickly to approve the products after a large market run, adding \"they have effectively created a casino for retail investors.\""
+    },
+    {
+      "id": "mkt:019f6e52-80cf-7aab-8dd9-8f442cb47f59",
+      "time": "2026-07-17 12:25:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Press TV reported Iran’s Islamic Revolutionary Guard Corps launched a surprise strike on the U.S. Special Operations command center at al-Tanf, Syria, destroying a radar system and several special-operations helicopters and inflicting significant U.S. casualties."
+    },
     {
       "id": "4993502",
       "time": "2026-07-17 12:24:56",
