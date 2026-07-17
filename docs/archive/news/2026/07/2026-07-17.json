@@ -1,7 +1,82 @@
 {
   "date": "2026-07-17",
-  "count": 3128,
+  "count": 3135,
   "items": [
+    {
+      "id": "mkt:019f7099-6fb9-7aab-8de8-2da349efcda3",
+      "time": "2026-07-17 23:02:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Sources say Brazil plans to maintain the crude oil export tax for two months."
+    },
+    {
+      "id": "mkt:019f7098-8087-7aab-8de8-26bd08623cee",
+      "time": "2026-07-17 23:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the 23:00 close, China’s main commodity futures were mostly higher: low-sulfur fuel oil (LU) rose over 4%; methanol, LPG and asphalt gained more than 2%; benzene and propylene rose about 2%; glass fell just over 1%."
+    },
+    {
+      "id": "4994911",
+      "time": "2026-07-17 23:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西維持柴油補貼政策，計劃延長兩個月。"
+    },
+    {
+      "id": "te:markets:567955",
+      "time": "2026-07-17 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Depreciates by 0.60% — Top currency losers are Mexican Peso (-0.60%), South Korean Won (-0.47%) and British Pound (-0.25%). Gains are led by Swiss Franc (0.27%). Meanwhile, Dollar Index, Euro and Japanese Yen were little changed."
+    },
+    {
+      "id": "4994910",
+      "time": "2026-07-17 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續漲4.37%，甲醇連續漲2.62%，液化石油氣連續漲2.45%，瀝青連續漲2.15%，苯乙烯連續漲2.00%。"
+    },
+    {
+      "id": "mkt:019f7097-1754-7aab-8de8-1c2a28c0ba58",
+      "time": "2026-07-17 22:59:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. tsunami warning system says a tsunami threat exists after a magnitude-7.4 earthquake off Mexico's coast."
+    },
+    {
+      "id": "mkt:019f7096-4176-7aab-8de8-13028ee8ee1d",
+      "time": "2026-07-17 22:58:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Fed officials speak ahead of blackout; rate path still divided】As the Fed enters its pre-meeting blackout period, several regional presidents and governors concluded a week of intensive public remarks. Vice Chair JEFFERSON and New York Fed President Williams said policy is well positioned to drive DISINFLATION back to the Fed's target. Governor COOK said she is prepared to act if near-term signs of slowing inf do not appear but also wants more time to observe the trend. Dallas Fed President Logan, an FOMC voter this year, said rates likely need to rise further to return inf to target and signaled she could dissent at the July meeting if the FOMC keeps the policy range at 3.50%–3.75%."
+    },
     {
       "id": "mkt:019f7095-c0cb-7aab-8de8-0b718fe433e9",
       "time": "2026-07-17 22:58:10",

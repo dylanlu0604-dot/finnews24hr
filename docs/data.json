@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-17 22:58:47",
-  "count": 19098,
+  "updated": "2026-07-17 23:02:47",
+  "count": 19071,
   "items": [
+    {
+      "id": "mkt:019f7099-6fb9-7aab-8de8-2da349efcda3",
+      "time": "2026-07-17 23:02:11",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Sources say Brazil plans to maintain the crude oil export tax for two months."
+    },
+    {
+      "id": "mkt:019f7098-8087-7aab-8de8-26bd08623cee",
+      "time": "2026-07-17 23:01:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the 23:00 close, China’s main commodity futures were mostly higher: low-sulfur fuel oil (LU) rose over 4%; methanol, LPG and asphalt gained more than 2%; benzene and propylene rose about 2%; glass fell just over 1%."
+    },
+    {
+      "id": "4994911",
+      "time": "2026-07-17 23:00:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴西維持柴油補貼政策，計劃延長兩個月。"
+    },
+    {
+      "id": "te:markets:567955",
+      "time": "2026-07-17 23:00:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Mexican Peso Depreciates by 0.60% — Top currency losers are Mexican Peso (-0.60%), South Korean Won (-0.47%) and British Pound (-0.25%). Gains are led by Swiss Franc (0.27%). Meanwhile, Dollar Index, Euro and Japanese Yen were little changed."
+    },
+    {
+      "id": "4994910",
+      "time": "2026-07-17 23:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續漲4.37%，甲醇連續漲2.62%，液化石油氣連續漲2.45%，瀝青連續漲2.15%，苯乙烯連續漲2.00%。"
+    },
+    {
+      "id": "mkt:019f7097-1754-7aab-8de8-1c2a28c0ba58",
+      "time": "2026-07-17 22:59:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. tsunami warning system says a tsunami threat exists after a magnitude-7.4 earthquake off Mexico's coast."
+    },
+    {
+      "id": "mkt:019f7096-4176-7aab-8de8-13028ee8ee1d",
+      "time": "2026-07-17 22:58:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "US10Y",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【Fed officials speak ahead of blackout; rate path still divided】As the Fed enters its pre-meeting blackout period, several regional presidents and governors concluded a week of intensive public remarks. Vice Chair JEFFERSON and New York Fed President Williams said policy is well positioned to drive DISINFLATION back to the Fed's target. Governor COOK said she is prepared to act if near-term signs of slowing inf do not appear but also wants more time to observe the trend. Dallas Fed President Logan, an FOMC voter this year, said rates likely need to rise further to return inf to target and signaled she could dissent at the July meeting if the FOMC keeps the policy range at 3.50%–3.75%."
+    },
     {
       "id": "mkt:019f7095-c0cb-7aab-8de8-0b718fe433e9",
       "time": "2026-07-17 22:58:10",
@@ -175691,352 +175766,6 @@
         "XAUUSD"
       ],
       "text": "Federal Reserve semiannual report: inf remains elevated, driven mainly by tariffs, the Middle East war and AI-related factors."
-    },
-    {
-      "id": "4981640",
-      "time": "2026-07-10 23:02:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：準備動用全部政策工具實現雙重目標。"
-    },
-    {
-      "id": "mkt:019f4c8d-6ee5-7aab-8d35-f9f9f74c8cb4",
-      "time": "2026-07-10 23:02:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve's semiannual report said previously-strong inf accelerated further in spring."
-    },
-    {
-      "id": "mkt:019f4c8d-3359-7aab-8d35-f370141653ea",
-      "time": "2026-07-10 23:02:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Federal Reserve semiannual report: in Q1 some private credit vehicles experienced a marked rise in redemption requests, reflecting several defaults and heightened concern about underlying asset quality."
-    },
-    {
-      "id": "mkt:019f4c8d-08f4-7aab-8d35-eb525d65ec40",
-      "time": "2026-07-10 23:02:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report: in most cases, funds imposed redemption limits, and the private credit market continued to operate normally."
-    },
-    {
-      "id": "4981639",
-      "time": "2026-07-10 23:02:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲重申維持價格穩定的承諾。"
-    },
-    {
-      "id": "mkt:019f4c8c-f429-7aab-8d35-e3be97d630df",
-      "time": "2026-07-10 23:02:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "Market Themes",
-        "AI Revolution",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "Federal Reserve semiannual report: manufacturing output was strong, driven by AI-related data-center investment, and US production capacity rose at a \"solid pace\"."
-    },
-    {
-      "id": "mkt:019f4c8c-cb54-7aab-8d35-db39e131ea86",
-      "time": "2026-07-10 23:02:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Fed semiannual report: In 1H 2026, external economic activity growth was weak due to headwinds from the Middle East conflict and US tariffs, partly offset by investment in artificial intelligence."
-    },
-    {
-      "id": "4981638",
-      "time": "2026-07-10 23:01:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK董事長崔泰源：我們必須降低AI代幣成本。"
-    },
-    {
-      "id": "mkt:019f4c8c-a5a2-7aab-8d35-d6ed76ea2e58",
-      "time": "2026-07-10 23:01:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve semiannual report: labor supply growth has slowed due to slowing immigration and demographic shifts."
-    },
-    {
-      "id": "mkt:019f4c8c-8681-7aab-8d35-cce5d90ca26a",
-      "time": "2026-07-10 23:01:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve semiannual report: Q1 2026 economic growth was driven by high-tech investment and government spending."
-    },
-    {
-      "id": "mkt:019f4c8c-721a-7aab-8d35-c33cf8806245",
-      "time": "2026-07-10 23:01:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "SK Group chairman Choi Tae-won said the company must reduce AI token costs."
-    },
-    {
-      "id": "mkt:019f4c8c-5313-7aab-8d35-bee4635874a5",
-      "time": "2026-07-10 23:01:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report says long-term inflation-expectation measures are broadly consistent with the Fed's 2% inflation target."
-    },
-    {
-      "id": "4981637",
-      "time": "2026-07-10 23:01:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：包括截尾均值在內的一些通脹指標有所下降。"
-    },
-    {
-      "id": "4981636",
-      "time": "2026-07-10 23:01:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：美國勞動力市場總體穩定，生產率強勁。"
-    },
-    {
-      "id": "mkt:019f4c8c-2c85-7aab-8d35-b58f831dd7d3",
-      "time": "2026-07-10 23:01:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve semiannual report: under reserve-management purchase operations, bank reserves remain in the \"ample\" range."
-    },
-    {
-      "id": "4981635",
-      "time": "2026-07-10 23:01:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：2026年第一季度經濟增長受高科技投資與政府支出提振。"
-    },
-    {
-      "id": "4981634",
-      "time": "2026-07-10 23:01:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：長期通脹預期指標與2%通脹目標“大體一致”。"
-    },
-    {
-      "id": "4981633",
-      "time": "2026-07-10 23:00:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告稱通脹\"加劇\"。"
-    },
-    {
-      "id": "4981632",
-      "time": "2026-07-10 23:00:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：一些民間信貸工具在第一季度面臨贖回請求顯著增加，反映出部分違約情況以及對基礎資產質量的擔憂。"
-    },
-    {
-      "id": "4981631",
-      "time": "2026-07-10 23:00:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：房地產市場活動一直“停滯”。"
-    },
-    {
-      "id": "4981630",
-      "time": "2026-07-10 23:00:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯國家原子能公司啟動重返布什爾核電站程序】俄羅斯國家原子能公司（Rosatom）總經理阿列克謝·利哈喬夫10日宣佈，鑑於中東地緣安全域性勢的最新變化，該公司已正式啟動派遣專家和技術人員重返伊朗布什爾核電站的復工程序。目前首批6名俄羅斯籍員工已抵達德黑蘭。利哈喬夫當日在結束與國際原子能機構（IAEA）代表團的會談後向媒體證實，首批技術專家已於數小時前啟程。儘管布什爾省近期遭遇多輪外部軍事打擊，導致俄方人員前往核電站現場的後續行程一度擱淺，部分員工暫留德黑蘭，但俄方強調，近期的任何襲擊均未波及布什爾核電站本身，核設施目前處於安全狀態。俄方將在未來數小時內全面評估安全風險，以決定是否繼續向現場增派後續人員。"
-    },
-    {
-      "id": "4981629",
-      "time": "2026-07-10 23:00:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：金融體系依然“穩健且有韌性”，脆弱性未變。"
-    },
-    {
-      "id": "4981628",
-      "time": "2026-07-10 23:00:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：在儲備管理購買操作下銀行儲備仍處於“充裕”區間。"
-    },
-    {
-      "id": "4981627",
-      "time": "2026-07-10 23:00:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：本已強勁的通脹在春季進一步攀升。"
-    },
-    {
-      "id": "4981626",
-      "time": "2026-07-10 23:00:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：勞動力市場總體穩定，\"穩健\"的名義薪資增長與\"強勁\"的生產率提升並存。"
-    },
-    {
-      "id": "4981625",
-      "time": "2026-07-10 23:00:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：儘管因伊朗戰爭不確定性升高，經濟活動仍以穩健步伐擴張。"
-    },
-    {
-      "id": "4981624",
-      "time": "2026-07-10 23:00:30",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：M2貨幣供應量增速處於溫和水平，總體與2010年代的常見增速基本一致。"
-    },
-    {
-      "id": "4981623",
-      "time": "2026-07-10 23:00:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：勞動力供給增長因移民放緩、人口結構轉變下降。"
-    },
-    {
-      "id": "4981622",
-      "time": "2026-07-10 23:00:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲報告：小型企業與家庭仍面臨相對收緊的信貸環境。"
-    },
-    {
-      "id": "4981621",
-      "time": "2026-07-10 23:00:19",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲：通脹高企部分源於供給衝擊。"
-    },
-    {
-      "id": "te:markets:566087",
-      "time": "2026-07-10 23:00:16",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Increases by 0.49% — Top currency gainers are Brazilian Real (0.49%) and Japanese Yen (0.34%). Biggest losers are Norwegian Krone (-0.45%) and Euro (-0.06%). Meanwhile, British Pound and Dollar Index were little changed."
-    },
-    {
-      "id": "4981620",
-      "time": "2026-07-10 23:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】焦炭連續跌1.15%，紙漿連續漲1.12%，焦煤連續跌1.03%，天然橡膠連續漲0.77%，豆粕連續漲0.75%。"
-    },
-    {
-      "id": "4981619",
-      "time": "2026-07-10 22:59:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國農業部（USDA）表示：食品安全檢驗局（FSIS）還將把重金屬監測範圍擴大至加工食品，例如香腸和即食餐食。"
-    },
-    {
-      "id": "4981618",
-      "time": "2026-07-10 22:59:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團董事長崔泰源： SK 未來或將重點發展儲存即服務業務。"
     }
   ]
 }
