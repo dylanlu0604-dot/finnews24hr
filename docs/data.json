@@ -1,7 +1,110 @@
 {
-  "updated": "2026-07-17 20:37:21",
-  "count": 19097,
+  "updated": "2026-07-17 20:41:24",
+  "count": 19103,
   "items": [
+    {
+      "id": "te:economy:567904",
+      "time": "2026-07-17 20:39:52",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Building Permits",
+        "Importance 1"
+      ],
+      "text": "US Building Permits Fall More than Anticipated — US building permits dropped by 3% month-over-month to a seasonally adjusted annual rate of 1.367 million in June 2026, below the market expectations of 1.40 million, preliminary figures showed. Permits for buildings with five or more units slipped 4.9% to 445,000, and single-family permits fell 2.4% to 871,000. Regionally, permits dropped in the South (-7.2% to 707,000) and the West (-6.2% to 302,000), but rose in the Northeast (15.8% to 154,000) and the Midwest (5.7% to 204,000)."
+    },
+    {
+      "id": "4994632",
+      "time": "2026-07-17 20:38:56",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【高盛：央行買盤將支撐金價】高盛表示，儘管面臨美聯儲偏緊縮預期的壓力，但央行買盤預計將為黃金提供底部支撐。目前需求依然強勁，據該行估算，5月份央行購金量為81公噸，三個月平均月度購金量為67公噸，遠高於2022年之前17公噸的平均水平。高盛分析師表示：“我們認為，隨著各國央行透過儲備多元化來對沖地緣政治和金融風險，央行增持黃金的趨勢將持續多年。”該行預測，今明兩年的月均購金量將分別為50公噸和40公噸。"
+    },
+    {
+      "id": "4994631",
+      "time": "2026-07-17 20:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【IDC：2030年全球活躍Agent數量或將超過22億個】IDC預釋出《DAA研究報告》，系統解析DAA（Daily Active Agents，日活智慧體數）指標。報告顯示，全球活躍Agent數量2025年是2860萬個，預計2026年達到7940萬個，2030年增長到22.16億個。據瞭解，DAA度量衡指標由百度創始人李彥宏在Create 2026大會上首次提出。與模型引數、Token消耗等傳統指標相比，DAA更關注每天有多少智慧體真正進入業務流程、完成任務並創造價值。"
+    },
+    {
+      "id": "4994630",
+      "time": "2026-07-17 20:38:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗前外長：地區國家是時候停止“相互指責的遊戲”，回到對話桌前了。透過彼此合作，我們可以找到一條走出中東當前危機、造福地區所有國家和人民的道路。伊朗無意加劇緊張局勢或激化中東局勢，地區安全程度越高，對伊朗的利益也越大。"
+    },
+    {
+      "id": "4994629",
+      "time": "2026-07-17 20:38:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英飛特：擬3000萬元與關聯方設合資公司，持股51%】英飛特公告稱，公司擬與關聯方森湖控股共同出資3000萬元設立合資公司，公司以自有資金出資1530萬元，佔比51%；森湖控股出資1470萬元，佔比49%。合資公司將聚焦新質生產力領域，佈局資料中心電源解決方案。本次交易構成關聯交易，不屬重大資產重組，已透過董事會審議，無需股東會審議。截至公告日，合資公司未註冊成立，實施情況和進度存不確定性。"
+    },
+    {
+      "id": "mkt:019f7015-c0dd-7aab-8de5-01ac332f5a22",
+      "time": "2026-07-17 20:38:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Goldman Sachs: central bank buying to underpin gold】Goldman Sachs said central bank purchases should provide a floor for gold despite pressure from Fed tightening expectations. The bank estimates central banks bought 81t of gold in May and a three-month average of 67t/month, well above the pre-2022 average of 17t. Analysts said reserve diversification to hedge geopolitical and financial risks will keep central-bank buying elevated for years. Goldman forecasts average monthly purchases of 50t this year and 40t next year."
+    },
+    {
+      "id": "te:economy:567902",
+      "time": "2026-07-17 20:38:20",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Import Prices MoM",
+        "Importance 1"
+      ],
+      "text": "US Import Prices Unexpectedly Rise — Prices of goods imported into the US rose by 0.3% from the previous month in June of 2026, slowing from the revised 1.7% in May but contrasting sharply with market expectations of a 0.7% decline. Imports of fuel and lubricants fell by 0.4% as the momentary pickup in tanker volumes leaving the Persian Gulf allowed for some relief in wholesale fuel oil and refined fuel costs. The slight drop compared to a 12.6% surge in May and an 18.9% jump in April. In turn, non-fuel import prices rose by 0.4%, extending the 0.7% increase in the previous month to mark a seventh consecutive period of higher prices. The increase in import costs do not include tariffs that have recently been raised by the presidential administration. From the previous month, import prices rose by 7.1%, the highest in nearly four years."
+    },
+    {
+      "id": "4994628",
+      "time": "2026-07-17 20:37:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港工程師學會內地首個辦事處落戶廣州南沙】粵港澳大灣區工程人才融合發展迎來新進展！香港工程師學會近日在香港科技大學（廣州）設立其在內地的首個官方辦事機構。香港工程師學會將與港科大（廣州）展開深度合作，旨在幫助內地學生在讀期間瞭解香港工程師的資格認證體系，未來有望在獲得內地職稱的同時，也取得香港的專業工程師資格，為個人職業發展提供更多選擇。這將成為推動大灣區工程領域專業資格互認、助力內地工程行業國際化的重要一步，也將為國家培養更多具備國際視野的卓越工程師提供支援。（大灣區之聲）"
+    },
+    {
+      "id": "4994627",
+      "time": "2026-07-17 20:36:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【日立能源與電動垂直起降飛行器Eve達成合作，開發電力基礎設施】7月17日，日立能源與巴西航空工業公司控股的的電動垂直起降飛行器（eVTOL）製造商Eve Air Mobility簽署諒解備忘錄，，將合作探索實現垂直起降場的切實可行途徑，包括提供電力基礎設施。"
+    },
+    {
+      "id": "mkt:019f7014-5cb4-7aab-8de4-fb375c752a22",
+      "time": "2026-07-17 20:36:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Russia's economic difficulties \"not critical\" and macroeconomic stability remains unaffected."
+    },
+    {
+      "id": "4994626",
+      "time": "2026-07-17 20:36:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜旗下Zoox部門召回自動駕駛車輛，原因是該批車輛可能無法偵測濃煙霧並作出反應。"
+    },
     {
       "id": "te:economy:567898",
       "time": "2026-07-17 20:36:21",
@@ -537,6 +640,14 @@
       "text": "賽峰集團與ZeroAvia攜手合作開發氫電技術。"
     },
     {
+      "id": "4994607",
+      "time": "2026-07-17 20:24:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【海南省海水養殖突出生態環境問題整改和產業綠色轉型示範推進現場會在樂東舉行】7月17日，海南省海水養殖突出生態環境問題整改和產業綠色轉型示範推進現場會在樂東舉行，深入學習貫徹習近平生態文明思想，總結經驗做法，合力攻堅克難，以最堅決態度、最高標準、最嚴要求推進問題整改，堅定不移走生態環境友好型自由貿易港建設之路。省委書記馮飛講話，省長劉小明主持會議，省委副書記、政法委書記楊晉柏出席。（海南釋出）"
+    },
+    {
       "id": "4994606",
       "time": "2026-07-17 20:23:39",
       "tags": [
@@ -715,6 +826,14 @@
       "text": "【超聚變：公司AI機架伺服器產品FusionServer G8600年銷售額超百億元】超聚變創業板IPO問訊回覆中表示，AI計算方面，公司AI機架伺服器產品FusionServer G8600在供電、散熱、相容性上均保持行業領先，憑藉硬核產品力精準契合AI產業發展趨勢，成為國內AI伺服器領域的標杆之作，年銷售額超百億元。"
     },
     {
+      "id": "4994587",
+      "time": "2026-07-17 20:17:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國工黨新黨首伯納姆發表講話 提出施政計劃】在當地時間17日舉行的英國工黨特別大會上，英國工黨新任黨首安迪·伯納姆發表就任後的首次講話。伯納姆表示自己已經“準備好了”，他提出未來工黨政府施政計劃，堅持工黨內部應更為團結，將把更多權力交還給地方，推動全國經濟增長。伯納姆表示，新一屆政府將“打造新的政治格局”，改變“政治方向”，工黨應當讓英國民眾“相信我們能夠把這個國家建設得更好”“推動英國整體向前發展”。伯納姆還強調，其領導下的工黨政府將推動經濟振興，加強公共領域管理，並把更多權力交還地方。伯納姆還表示，工黨將更加團結，聚焦解決實際問題，並願與其他政黨合作應對英國面臨的長期挑戰。講話中，伯納姆還向即將卸任的英國首相斯塔默表達感謝，稱讚其帶領工黨取得“史上最重要的大選勝利之一”，並肯定其在各方面取得的成績。（央視新聞）"
+    },
+    {
       "id": "4994586",
       "time": "2026-07-17 20:16:46",
       "tags": [
@@ -753,6 +872,14 @@
         "觀點"
       ],
       "text": "摩根士丹利將Cloudflare目標股價從305美元上調至322美元。"
+    },
+    {
+      "id": "4994582",
+      "time": "2026-07-17 20:15:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一艘化學品運輸船在亞丁灣遭海盜劫持】葉門海岸警衛隊一名官員17日表示，懸掛坦尚尼亞國旗的化學品運輸船“阿薩納”號當天在亞丁灣海域航行時，被索馬利亞海盜劫持。這名不願透露姓名的官員告訴新華社記者，“阿薩納”號當時正在葉門東部穆卡拉海岸附近的亞丁灣海域航行。英國海上貿易行動辦公室當天早些時候在社交媒體平臺發表宣告說，該機構收到報告稱，在葉門港口城市穆卡拉以南約65海里處，一艘船在向東穿越亞丁灣時“遭未經授權人員登船”。有關部門正在調查。近期，紅海和亞丁灣海域安全形勢持續緊張，商船接連遭遇襲擊、他人企圖登船等安全事件。（新華社）"
     },
     {
       "id": "4994581",
@@ -175744,76 +175871,6 @@
         "公司"
       ],
       "text": "【贊宇科技：股東方銀軍擬減持不超過0.21%股份】贊宇科技公告，持有5%以上股份的股東方銀軍先生持有公司股份2380.18萬股，佔公司總股本比例為5.06%。其計劃自本公告披露之日起15個交易日後的三個月內（2026年8月3日—2026年11月2日），以集中競價交易方式減持不超過100萬股，佔公司總股本比例為0.21%。"
-    },
-    {
-      "id": "4981333",
-      "time": "2026-07-10 20:40:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【交通運輸部：加快完善綜合交通運輸法規體系 加強重點領域、新興領域、涉外領域立法】7月10日，交通運輸部召開黨組會，審議《交通運輸立法工作方案（2026—2030年）》。會議強調，要堅持科學立法、民主立法、依法立法，加快完善綜合交通運輸法規體系，加強重點領域、新興領域、涉外領域立法，加強不同運輸方式法律制度銜接協調，提高立法質量，為交通運輸高質量發展提供法治保障。"
-    },
-    {
-      "id": "4981332",
-      "time": "2026-07-10 20:40:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【AI投資狂潮之下 科技巨頭債務規模翻倍】全球大舉建設人工智慧資料中心的科技巨頭在過去五年將債務規模擴大了一倍。為了支撐一場前所未有的資本支出狂潮，這些公司紛紛舉債融資，並認為這是推動經濟轉型所必需的。資料顯示，美國資料中心投資規模最大的五家公司 ——Alphabet Inc.、亞馬遜、Meta Platforms微軟和甲骨文 —— 過去五年合計新增債務約3500億美元。這些公司押注，前沿人工智慧服務終將帶來可觀的新收入。投資者此前一直熱捧這些企業，積極認購其發行的各種幣種債券。不過，據知情人士透露，亞馬遜本週250億美元債券發行卻遭遇了不同尋常的冷遇，顯示資本市場承接科技巨頭持續融資以支援AI投資的能力並非無限。"
-    },
-    {
-      "id": "mkt:019f4c0a-9ea3-7aab-8d33-01fe1af64ab1",
-      "time": "2026-07-10 20:39:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ING: Euro-area savings reverting to pre-pandemic levels could free demand worth ~1% of GDP】ING economists Marieke Blom and Amrita Naik Nimbalkar say in a report that if euro-area household saving rates fell back to pre-pandemic averages, it would release demand equal to about 1% of GDP. Household saving was 14.3% of disposable income in Q1 versus a five-year pre-pandemic average of 12.5%. If savings dropped to the US level of 10.2% (US Q4 2025), the euro-area GDP boost could approach 2%. Higher mortgage rates, slower credit growth and elevated precautionary savings are likely to keep consumption weak, but a shift from bank deposits into investments could underpin stronger spending and domestic demand over the coming years."
-    },
-    {
-      "id": "4981331",
-      "time": "2026-07-10 20:39:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海人工智慧大會將展示300多款新產品】2026世界人工智慧大會將於7月17日至20日在上海舉行，預計將有超過300款產品全球首發。華為將展示最新超節點產品Atlas 950 SuperPoD和全球最強超節點叢集Atlas 950 SuperCluster。上海東方算芯科技有限公司將首發全球首顆軟體定義近存計算3D晶片DF1000。天鶩科技將展示透過AI技術將廢棄塑膠重新變成紡織原料的創新技術產品。上海維智科技集團將展示首個面向城市空間的多模態時空基礎模型。（澎湃新聞）"
-    },
-    {
-      "id": "mkt:019f4c09-2532-7aab-8d32-fad68cff9814",
-      "time": "2026-07-10 20:38:15",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CNN, citing sources, reports Trump does not want Israel to participate in U.S. strike operations."
-    },
-    {
-      "id": "4981330",
-      "time": "2026-07-10 20:38:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北交所本週對35起證券異常交易行為採取自律監管措施】從北京證券交易所瞭解到，2026年7月6日至7月10日，北交所將退市整理股票“雲創退”（920305）和退市風險警示股票“*ST田野”（920023）、“*ST同輝”（920090）、“*ST康樂”（920575）列為重點監控股票；對35起證券異常交易行為採取自律監管措施，其中對“雲創退”上的異常交易行為採取暫停證券賬戶交易等自律監管措施 11人次，對“*ST同輝”上的異常交易行為採取出具警示函等自律監管措施10人次；對1起上市公司重大事項進行專項核查。"
-    },
-    {
-      "id": "4981329",
-      "time": "2026-07-10 20:37:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 特朗普政府不希望以色列參與美方打擊行動。"
-    },
-    {
-      "id": "te:economy:566047",
-      "time": "2026-07-10 20:37:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Unemployment Rate",
-        "Importance 2"
-      ],
-      "text": "Canada Unemployment Rate Unexpectedly Drops — The unemployment rate in Canada eased to 6.5% in June of 2026 from 6.6% in the previous month, below market expectations that it would remain unchanged and tying for the lowest since July of 2024. Net employment rose by 18,000 positions to 21,139,700, mostly supported by part-time positions. In the meantime, unemployment fell by 13,200 to 1,469,200. The developments translated to an unchanged labor force participation rate of 65%, which has remained relatively steady since the start of the year despite the energy supply shocks due to the war in Iran and the exchange of tariffs with the United States."
     }
   ]
 }
