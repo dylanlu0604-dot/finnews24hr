@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-18 06:44:59",
-  "count": 18942,
+  "updated": "2026-07-18 06:48:47",
+  "count": 18944,
   "items": [
+    {
+      "id": "mkt:019f7242-5488-7aab-8dec-28578a25e956",
+      "time": "2026-07-18 06:46:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said four \"violating\" oil tankers attempting to transit the Strait of Hormuz were intercepted in a combined missile-and-drone operation."
+    },
+    {
+      "id": "mkt:019f7241-7ba0-7aab-8dec-22feadc329b2",
+      "time": "2026-07-18 06:45:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【IRGC says two tankers exploded, caught fire in southern Strait of Hormuz】The Islamic Revolutionary Guard Corps said on the 18th that two oil tankers exploded and caught fire while transiting a mined area in the southern Strait of Hormuz. The IRGC said the Strait is \"completely closed\" because of recent US military actions and that oil and gas shipments cannot transit until the US halts its operations, warning vessels to avoid the mined area. The statement gave no details on the tankers' nationality, casualties or damage."
+    },
+    {
+      "id": "te:markets:567992",
+      "time": "2026-07-18 06:44:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Depreciates by 1.41% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a -1.41% decrease."
+    },
     {
       "id": "4995127",
       "time": "2026-07-18 06:42:31",
@@ -174623,17 +174662,6 @@
         "國際"
       ],
       "text": "【俄稱在紅利曼方向繼續推進 烏稱打擊俄船隻及能源設施】俄羅斯國防部10日通報稱，俄軍過去一週對烏克蘭軍工企業、燃料能源設施及烏軍實施了一次密集打擊和六次叢集打擊。俄軍控制7個居民點，在紅利曼方向繼續排雷和搜尋清除剩餘烏軍人員，並向西推進。俄國防部還稱，10日在多個州及黑海水域上空攔截、摧毀了144架烏固定翼無人機。\n烏克蘭武裝部隊總參謀部10日通報稱，當天凌晨烏軍對俄羅斯境內及被俄方控制地區的多處目標實施打擊。據烏軍釋出的訊息，遭到打擊的目標包括煉油廠、石油終端、油庫、天然氣凝析油加工企業，以及包括油輪在內的共18艘船隻。（央視新聞）"
-    },
-    {
-      "id": "te:markets:566141",
-      "time": "2026-07-11 06:45:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Increases by 2.76% — Top crypto gainers are Ether (2.76%), Bitcoin (1.38%) and Binance (1.27%)."
     }
   ]
 }
