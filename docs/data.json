@@ -1,7 +1,140 @@
 {
-  "updated": "2026-07-17 09:35:57",
-  "count": 18825,
+  "updated": "2026-07-17 09:39:54",
+  "count": 18824,
   "items": [
+    {
+      "id": "mkt:019f6dba-78f6-7aab-8dd5-8da9c57686f9",
+      "time": "2026-07-17 09:39:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Survey: Japanese firms' rare-earth procurement costs up 22.3% on average; pass-through limited】Tokyo-based supply-chain risk firm Resilire’s online June survey of 400 decision-makers at manufacturers that buy rare earths and rare-earth materials found average procurement costs rose 22.3% year-on-year. About 30% of respondents reported cost increases of 20–29% (the largest share); roughly 20% reported increases of 10–19%; just over 10% reported increases of 30–39%. Most firms report limited ability to pass higher input costs to customers: among firms with rising procurement costs, 4.2% said they can almost fully pass the increase through to prices, about 10% said they cannot pass costs on at all, and more than 40% said they can absorb less than half of the added cost when combining the under-25% and 25–49% pass-through groups."
+    },
+    {
+      "id": "mkt:019f6dba-67b8-7aab-8dd5-875867c5a943",
+      "time": "2026-07-17 09:39:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A-share retail sector rallied; Zhongbai Group and Central Department Store hit limit-up, while Ningbo Zhongbai, Xinhua Department Store and Sanjiang Shopping also gained."
+    },
+    {
+      "id": "te:economy:567700",
+      "time": "2026-07-17 09:39:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Treasury Yield Steadies — The yield on the 10-year US Treasury note steadied around 4.56% on Friday and was on track to finish the week little changed, as investors balanced softer US inflation data against the escalating conflict between the US and Iran and its potential impact on the interest rate outlook. The US launched multiple strikes against Iran this week, while Tehran responded by targeting US bases in neighboring countries, driving oil prices higher and intensifying inflation concerns. Meanwhile, data released earlier this week showed US consumer inflation rose less than expected in June, while producer prices unexpectedly declined. Markets have now largely priced out the possibility of a Fed rate hike this month, though expectations remain divided over whether policymakers will raise rates in September."
+    },
+    {
+      "id": "4993242",
+      "time": "2026-07-17 09:39:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【零售板塊拉昇， 中央商場漲停】零售板塊拉昇，中百集團、中央商場漲停，寧波中百、新華百貨、三江購物跟漲。"
+    },
+    {
+      "id": "4993241",
+      "time": "2026-07-17 09:38:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇華辰、國晟科技等成立能源科技新公司】企查查APP顯示，近日，徐儲能源科技（江蘇）有限公司成立，經營範圍包含：人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由江蘇華辰、國晟科技等共同持股。"
+    },
+    {
+      "id": "mkt:019f6db9-78c5-7aab-8dd5-7ce58b333e62",
+      "time": "2026-07-17 09:38:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "07709.HK",
+        "Impact bearish",
+        "07747.HK",
+        "06809.HK"
+      ],
+      "text": "Hong Kong storage-chip names slid. China Southern 2x-long SK Hynix (07709) fell over 13%; China Southern 2x-long Samsung Electronics (07747), Lanqi Technology (06809.HK) and GigaDevice (03986.HK) each dropped more than 3%."
+    },
+    {
+      "id": "4993240",
+      "time": "2026-07-17 09:37:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海蘭信在南京成立科技新公司】企查查APP顯示，近日，海蘭信（南京）科技有限公司成立，經營範圍包含：船舶自動化、檢測、監控系統製造；海洋工程裝備製造；海洋工程裝備銷售等。企查查股權穿透顯示，該公司由海蘭信全資持股。"
+    },
+    {
+      "id": "4993239",
+      "time": "2026-07-17 09:37:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊短線走低，東山精密跌停】元件板塊短線走低，東山精密跌停，逸豪新材跌超17%，廣合科技、滬電股份、紅板科技紛紛下挫。"
+    },
+    {
+      "id": "mkt:019f6db8-44b3-7aab-8dd5-709c501e667e",
+      "time": "2026-07-17 09:37:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "688256.SS",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's STAR 50 Index extended losses to 2%; Cambricon shares fell more than 5%."
+    },
+    {
+      "id": "mkt:019f6db7-ced2-7aab-8dd5-68099e1633f9",
+      "time": "2026-07-17 09:36:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Ministry of Defense said it intercepted a missile attack."
+    },
+    {
+      "id": "4993238",
+      "time": "2026-07-17 09:36:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數下跌4%至43,791.47點。"
+    },
+    {
+      "id": "4993237",
+      "time": "2026-07-17 09:36:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股光電子板塊短線走低】光迅科技跌9.50%"
+    },
+    {
+      "id": "4993236",
+      "time": "2026-07-17 09:35:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【CPO板塊大幅下挫，中際旭創跌超10%】CPO板塊大幅下挫，中際旭創跌超10%，長光華芯、鼎通科技、源傑科技、新易盛、天孚通訊等紛紛跌超10%。"
+    },
+    {
+      "id": "mkt:019f6db6-ed68-7aab-8dd5-621ec208bf93",
+      "time": "2026-07-17 09:35:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "China A-share Zhongji Xuchuang fell 10.06% intraday to 1,001.00 yuan."
+    },
     {
       "id": "4993235",
       "time": "2026-07-17 09:35:20",
@@ -173056,146 +173189,6 @@
         "Importance 1"
       ],
       "text": "European Gas Prices Retreat — European natural gas prices dropped more than 2% toward €49 per MWh on Friday, pulling back from a one-month high amid reports of continued US-Iran negotiations despite recent military exchanges. A US official reaffirmed Washington's commitment to pursuing a diplomatic resolution with Tehran, easing concerns that the conflict could escalate into a broader war and once again disrupt supplies from the Persian Gulf. Prices had surged more than 12% over the previous three sessions after the US carried out new strikes on Iranian targets in response to attacks on vessels in the Strait of Hormuz. Iran retaliated by targeting US bases in the region over the past two nights. While President Trump declared that the ceasefire had ended, he said he would not prevent talks from continuing. Investors remain focused on the security of energy flows through the strait, as any renewed disruption could complicate Europe's efforts to replenish gas inventories ahead of the winter."
-    },
-    {
-      "id": "4980046",
-      "time": "2026-07-10 09:39:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統政策室長：韓國將於7月14日至16日舉行房地產市場研討會。"
-    },
-    {
-      "id": "4980045",
-      "time": "2026-07-10 09:39:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4120美元/盎司，日內跌0.51%。"
-    },
-    {
-      "id": "4980044",
-      "time": "2026-07-10 09:39:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股光通訊股走強 劍橋科技漲超9%】截至發稿，劍橋科技(06166.HK)漲9.08%，長飛廣纖光纜(06869.HK)漲7.43%，匯聚科技(01729.HK)漲3.81%。"
-    },
-    {
-      "id": "4980042",
-      "time": "2026-07-10 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股其他電子Ⅲ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。"
-    },
-    {
-      "id": "4980041",
-      "time": "2026-07-10 09:39:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股其他電子Ⅱ板塊異動拉昇】旭光電子觸及漲停，力源資訊、民德電子、國力電子、瑞可達、富信科技、潔美科技跟漲。"
-    },
-    {
-      "id": "4980040",
-      "time": "2026-07-10 09:38:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.17%，成分股中，滬矽產業漲6.85%，和輝光電漲6.30%，華海清科漲5.57%，海光資訊漲4.27%。"
-    },
-    {
-      "id": "4980039",
-      "time": "2026-07-10 09:38:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量1007億元。"
-    },
-    {
-      "id": "4980037",
-      "time": "2026-07-10 09:38:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【PCB概念股盤初拉昇，崇達技術、寶鼎科技2連板】PCB概念股盤初拉昇，艾森股份盤中創新高，崇達技術、寶鼎科技2連板，平安電工漲停，泰金新能漲超10%。"
-    },
-    {
-      "id": "mkt:019f49ac-85a1-7aab-8d24-c6aec2c9686b",
-      "time": "2026-07-10 09:37:50",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Long March 10B begins propellant loading; maiden flight expected around midday】Long March 10B Yao-1 rocket has begun propellant loading and is expected to lift off at about 12:10 p.m. today, attempting the world’s first sea‑based net recovery validation of a rocket first stage. If successful, China would become the second country to master heavy‑lift reusable rocket technology."
-    },
-    {
-      "id": "4980036",
-      "time": "2026-07-10 09:37:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上漲2.1%，報69182.44點。"
-    },
-    {
-      "id": "mkt:019f49ac-2c58-7aab-8d24-ba93cccaac5c",
-      "time": "2026-07-10 09:37:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's A-share fiber-optic sector jumped in early trade: Bichuang Technology up over 12%, Guangxun Technology up over 8%, Zhichun Technology up over 7%, Tianfu Communication and Juguang Technology up over 6%."
-    },
-    {
-      "id": "4980035",
-      "time": "2026-07-10 09:37:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "【長征十號乙已經開始燃料加註 今日中午有望首飛】記者獲悉，長征十號乙遙一火箭已開始燃料加註，有望在12點10分左右發射升空，挑戰全球首次火箭一子級海上網系回收驗證。如果本次驗證成功，我國將成為全球第二個掌握大運力可回收火箭技術的國家。（證券時報）"
-    },
-    {
-      "id": "4980034",
-      "time": "2026-07-10 09:36:36",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【半導體裝置概念持續走強，亞翔整合觸及漲停】半導體裝置概念持續走強，亞翔整合觸及漲停，深科達、國林科技、旭光電子、亞威股份、國力電子、茂萊光學等跟漲。"
-    },
-    {
-      "id": "mkt:019f49aa-f87c-7aab-8d24-b60ff6ba1a1d",
-      "time": "2026-07-10 09:36:09",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "DXY",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan urges pension funds to boost domestic investment; yen rises to 161.63 per dollar】Japan’s finance minister Katayama said on Friday the government wants pension funds, including the Government Pension Investment Fund (GPIF), to increase allocations to domestic financial assets to ensure the public directly benefits from Japan’s economic growth. Her remarks pushed the yen to a session high of 161.63 per dollar. Katayama said encouraging households and pensions to invest more in Japanese assets is a priority and that the government will implement policies to support that goal, signaling an intent to channel more household and institutional savings into domestic markets as Japan moves toward positive interest rates and gradual Bank of Japan policy normalization."
-    },
-    {
-      "id": "mkt:019f49aa-e736-7aab-8d24-a8834ec2e305",
-      "time": "2026-07-10 09:36:04",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "300750.SZ",
-        "Impact bearish",
-        "03750.HK"
-      ],
-      "text": "CATL A-shares fell more than 3%; Hong Kong-listed shares (03750.HK) slipped over 1%."
     }
   ]
 }
