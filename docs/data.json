@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-18 00:08:48",
-  "count": 19015,
+  "updated": "2026-07-18 00:12:56",
+  "count": 19012,
   "items": [
+    {
+      "id": "te:markets:567967",
+      "time": "2026-07-18 00:12:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.94% Lower — The FTSE MIB Index dropped 492 points or 0.94 percent on Friday to close at 51882 points. Losses were led by Prysmian (-4.76%), STMicroelectronics (-4.31%) and Buzzi Unicem (-3.24%). Offsetting the fall, top gainers were Terna Rete Elettrica Nazionale (2.63%), Eni (2.53%) and Leonardo SpA (2.20%)."
+    },
+    {
+      "id": "mkt:019f70d9-6aa0-7aab-8de8-ec21f43c4399",
+      "time": "2026-07-18 00:12:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Axios: US to send dozens of air-refuelling tankers to Israel ahead of possible Iran escalation】Axios reports US and Israeli officials say the Trump administration has notified Israel it will deploy dozens of air-refuelling tankers prior to any potential expansion of military action against Iran. After reviewing new strike options, Trump is said to be weighing a broader operation beyond current strikes around the Strait of Hormuz and could order an escalation within days. The US currently positions roughly 30 military tankers each at Ben-Gurion Airport (near Tel Aviv) and Ramon Airport (southern Israel). Israeli officials say Washington aims to send additional dozens of tankers in the coming days to restore levels seen early in the conflict and prefers operating from Ben-Gurion because other Israeli airbases are viewed as more vulnerable to Iranian attack."
+    },
+    {
+      "id": "te:markets:567965",
+      "time": "2026-07-18 00:11:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Close Lower — European stocks closed sharply lower on Friday, tracking global equity markets as investors continued to pivot out of the AI trade and geopolitical tensions escalated. The Euro STOXX 50 dropped 1.1% to 6,229 and the STOXX Europe 600 fell 0.4% to 641. AI-related companies tanked across the world amid lingering concerns that AI hyperscalers are due to slow spending on infrastructure. This was magnified by the release of strong LLM models by Chinese firm Moonshot, risking a pivot away from Western technology. ASML slipped 3.9%, while Siemens tanked 2.3%. In the meantime, pro-inflationary risks from higher natural gas prices pressured the credit outlook and equity for the main banks. BBVA and Deutsche Bank slipped around 2.5% each. Meanwhile, UniCredit lost 2.5% after the German government signaled some willingness to discuss acquisition terms with the Italian lender for the tender of its Commerzbank stake."
+    },
+    {
+      "id": "te:markets:567964",
+      "time": "2026-07-18 00:11:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.34% Lower — The DAX Index decreased 85 points or 0.34 percent on Friday to close at 24831 points. The decline was led by Commerzbank (-3.10%), Deutsche Bank (-2.67%) and Siemens (-2.48%). On the upside, the strongest performers were Rheinmetall (2.39%), E.ON (1.80%) and Deutsche Telekom (1.61%)."
+    },
+    {
+      "id": "te:markets:567963",
+      "time": "2026-07-18 00:10:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.47% Lower — The CAC 40 Index fell 39 points or 0.47 percent on Friday to close at 8339 points. Leading the losses are STMicroelectronics (-4.63%), Publicis (-4.20%) and Renault (-2.86%). Top gainers were Orange (2.75%), Thales (1.82%) and TP (1.69%)."
+    },
+    {
+      "id": "4994955",
+      "time": "2026-07-18 00:09:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲4%，現報81.42美元/桶。"
+    },
+    {
+      "id": "te:markets:567962",
+      "time": "2026-07-18 00:09:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ends Week Lower — The FTSE MIB fell 1% to close at 51,882 on Friday, pressured by losses in chips and financial stocks, while monitoring developments surrounding UniCredit's bid for Commerzbank. UniCredit slipped 2.5% after reports that Berlin is shifting its focus from blocking a takeover to securing key conditions, including preserving Commerzbank's separate stock market listing and protecting the Mittelstand. UniCredit would likely hold a stake just below 50%, enough to secure a voting majority. Semiconductor stocks also remained under pressure amid renewed concerns over high valuations and AI-driven overspending. STMicroelectronics fell 4%, while Prysmian led losses on the index at 4.5%. Financials weakened as geopolitical tensions raised uncertainty on the market and weighed on the sector, with the BTP-Bund spread rising further to 83 bps. Unipol, FinecoBank and BMPS all fell more than 1.5%. For the week, the index recorded a 1.8% decline."
+    },
     {
       "id": "te:markets:567961",
       "time": "2026-07-18 00:07:09",
@@ -175136,110 +175216,6 @@
         "國際"
       ],
       "text": "市場訊息：10 架美國空軍 F-22 “猛禽” 戰機在參與針對伊朗的 “史詩怒火行動” 後，已從以色列奧夫達空軍基地重新部署至英國費爾福德皇家空軍基地。此次調防是美軍從中東大規模撤軍行動的一環。"
-    },
-    {
-      "id": "te:markets:566104",
-      "time": "2026-07-11 00:12:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.44% Higher — The FTSE MIB Index gained 232 points or 0.44 percent on Friday to close at 52614 points. Gains were led by Nexi (6.28%), Stellantis N.V. (3.83%) and Buzzi Unicem (2.51%). Biggest losers were Avio (-1.82%), Leonardo SpA (-1.30%) and Eni (-1.19%)."
-    },
-    {
-      "id": "4981723",
-      "time": "2026-07-11 00:12:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際足聯基金會撥款援助委內瑞拉地震災區】國際足聯基金會10日宣佈，將從其人道主義援助基金中撥款100萬美元，用於支援委內瑞拉地震災區的緊急救援和災後恢復工作。國際足聯基金會當天發表宣告說，這筆資金將用於向受災民眾提供緊急人道主義援助，支援當地和國際合作夥伴開展救援行動，並幫助受災社群逐步恢復正常生活。具體受援專案和資金使用方式將在相關人道主義評估及實施方案確定後公佈。（新華社）"
-    },
-    {
-      "id": "te:markets:566103",
-      "time": "2026-07-11 00:11:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.20% Lower — The DAX Index decreased 51 points or 0.20 percent on Friday to close at 25067 points. The decline was led by Siemens Energy (-2.64%), Rheinmetall (-1.98%) and E.ON (-1.46%). On the upside, the strongest performers were Deutsche Telekom (3.08%), HeidelbergCement (2.94%) and Commerzbank (1.95%)."
-    },
-    {
-      "id": "te:markets:566102",
-      "time": "2026-07-11 00:10:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Ends Higher, but Posts Weekly Loss — The FTSE MIB rose 0.4% to close at 52,614 on Friday, supported by strong gains in the financial and payment sectors. Nexi led the index with a 6.7% jump after the European Parliament approved its negotiating position on the digital euro. Stellantis was the second-best performer, climbing 3.4%. Financial stocks also advanced as the US and Iran confirmed that negotiations were underway, despite Washington denying any extension of the ceasefire. Azimut, Unipol, Mediobanca, Intesa Sanpaolo, Banco BPM, and FinecoBank all gained more than 1%, while UniCredit rose 1.3%, riding the news of a possible takeover of Commerzbank. Meanwhile, defense stocks extended recent losses despite earlier talks of an increase in military spending from NATO countries. AI-linked stocks remained volatile, with Prysmian falling 1.1% and STMicroelectronics losing 1.0%. Energy major Eni also declined 1.2% amid continued volatility in crude oil prices. For the week, benchmark index declined 0.9%."
-    },
-    {
-      "id": "4981722",
-      "time": "2026-07-11 00:10:26",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【歐洲股市結束四周連漲 易捷航空股價飆升】歐洲股市終結四周連漲勢頭，因中東緊張局勢持續發酵打壓市場情緒。易捷航空飆升14%，此前Apollo出人意料地提出收購報價，高於Castlelake的報價。斯托克歐洲600指數週五收盤基本持平，本週累計下跌1.8%。該基準指數一度跌0.3%，隨後在美國總統唐納德·特朗普表示美國將繼續與伊朗談判、但認為兩國之間的停火已經結束後重新轉為持平。投資者將把注意力轉向下週的財報季，尋找顯示歐洲股市能否創新高的訊號。行業研究高階策略師Laurent Douillet指出，銀行和能源等板塊有望帶來驚喜。“盈利仍然是股市的關鍵催化劑，”巴克萊策略師Emmanuel Cau表示。花旗團隊援引EPFR Global資料稱，截至7月8日當週，歐洲股票基金淨流入4億美元。這是13周以來首次淨流入。"
-    },
-    {
-      "id": "te:markets:566101",
-      "time": "2026-07-11 00:10:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.05% Lower — The CAC 40 Index fell 4 points or 0.05 percent on Friday to close at 8322 points. Leading the losses are Thales (-1.90%), Safran (-1.15%) and ENGIE (-0.92%). Top gainers were ArcelorMittal (6.42%), Stellantis NV (3.92%) and TP (2.63%)."
-    },
-    {
-      "id": "mkt:019f4cca-e215-7aab-8d37-4064cc170c02",
-      "time": "2026-07-11 00:09:52",
-      "tags": [
-        "MKT News",
-        "GLEN.L"
-      ],
-      "text": "【DRC tax authority seizes Glencore office over alleged unpaid state funds】Democratic Republic of Congo tax authority DGI seized the office of Glencore-owned Kamoto Copper Company in Kolwezi on Thursday in a dispute over alleged unpaid state funds, sources said. The DGI action did not affect production at nearby mines and processing plants, the sources added. Two sources said the tax authority alleges the company owes tens of billions of dollars and that the Swiss tax authority intervened after failing to reach a settlement with Glencore. A Glencore spokesperson denied the DGI’s claims and said the company is engaging with authorities."
-    },
-    {
-      "id": "4981721",
-      "time": "2026-07-11 00:09:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【剛果稅務局查封嘉能可礦業公司辦公室，因其涉嫌欠繳國家款項】剛果（金）稅務部門DGI查封了由嘉能可公司擁有的銅礦所屬辦公室，進一步升級了有關涉嫌欠繳國家款項的爭議。據知情人士稱，DGI週四關閉了位於科韋齊市的Kamoto銅業公司的辦公室。一位知情人士表示，此次突擊行動並未影響該公司附近礦場和加工廠的生產。剛果（金）是全球第二大銅生產國，同時也是鈷的最大生產國之一，其中Kamoto公司是兩種礦物的主要生產商之一。有兩位人士稱，稅務部門指控該公司欠下數十億美元。該人士表示，瑞士國家稅務局在與該公司未能達成和解後介入了此事。嘉能可公司一名發言人表示，該公司否認DGI的指控，並繼續與當局保持溝通。"
-    },
-    {
-      "id": "te:markets:566100",
-      "time": "2026-07-11 00:09:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Edges Up on US-Iran Diplomatic Hopes — The CAC 40 rose 0.1% to close at 8,339 on Friday on signs that diplomatic efforts between the US and Iran remain on track despite recent tensions and softer inflation. US President Trump said Iran had requested to continue talks and that the US had agreed, although he reiterated that the June ceasefire was \"over.\" Oil prices slipped, easing energy-driven inflation concerns. Domestically, annual inflation eased to 1.8% in June from a more than two-year high of 2.4% in May, confirming preliminary estimates and reinforcing expectations that price pressures are moderating. Bond yields moved lower. Financials posted gains, with BNP Paribas up 0.9% and Societe Generale adding 1.4%. Luxury stocks traded mixed, with Hermes rising 1% and L'Oreal gaining 0.4%, while LVMH shed 0.6%. Meanwhile, most industrial stocks declined, with Safran down 1.1% and Thales losing 1.5%. TotalEnergies also fell 0.6% as oil prices pulled back."
-    },
-    {
-      "id": "4981720",
-      "time": "2026-07-11 00:08:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：斯泰蘭蒂斯集團對英國法院駁回柴油排放訴訟的“絕大部分訴求”表示歡迎。"
     }
   ]
 }
