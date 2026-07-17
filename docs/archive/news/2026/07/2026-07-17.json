@@ -1,7 +1,90 @@
 {
   "date": "2026-07-17",
-  "count": 1225,
+  "count": 1233,
   "items": [
+    {
+      "id": "mkt:019f6e60-957b-7aab-8dd9-c8b37fa1df8a",
+      "time": "2026-07-17 12:40:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell 6%, sliding below 63,000 points to its lowest level since June 11."
+    },
+    {
+      "id": "4993519",
+      "time": "2026-07-17 12:40:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌6%。"
+    },
+    {
+      "id": "mkt:019f6e60-18cf-7aab-8dd9-c5e3fd1a5ee0",
+      "time": "2026-07-17 12:40:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Reserve Bank of India governor said bank credit growth is quite satisfactory."
+    },
+    {
+      "id": "4993518",
+      "time": "2026-07-17 12:39:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：通脹高企是由於供給側因素所致。"
+    },
+    {
+      "id": "4993517",
+      "time": "2026-07-17 12:39:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：銀行信貸增速相當令人滿意。"
+    },
+    {
+      "id": "4993516",
+      "time": "2026-07-17 12:38:41",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "國家發改委釋出人工智慧合作發展行動計劃。（國家發改委）"
+    },
+    {
+      "id": "mkt:019f6e5e-41bd-7aab-8dd9-bec6252c7b30",
+      "time": "2026-07-17 12:38:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China State Planner issues action plan for collaborative development of artificial intelligence."
+    },
+    {
+      "id": "4993515",
+      "time": "2026-07-17 12:37:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構上調臺積電目標價】D.A. Davidson將臺積電目標價從450美元上調至500美元，TD Cowen將臺積電目標股價從400美元上調至440美元。臺積電早盤一度跌逾3%，臺股早盤一度崩跌逾4%失守44,000點整數關卡，分析師認為，主要受臺積電投資人說明會(法說會)後股價大幅回檔拖累，在臺積電領跌下，市場賣壓帶動AI(人工智慧)板塊重挫，使得指數跌幅一度擴大至超4%。"
+    },
     {
       "id": "te:markets:567748",
       "time": "2026-07-17 12:35:18",

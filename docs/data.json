@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-17 12:38:00",
-  "count": 18871,
+  "updated": "2026-07-17 12:42:02",
+  "count": 18876,
   "items": [
+    {
+      "id": "mkt:019f6e60-957b-7aab-8dd9-c8b37fa1df8a",
+      "time": "2026-07-17 12:40:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan's Nikkei 225 fell 6%, sliding below 63,000 points to its lowest level since June 11."
+    },
+    {
+      "id": "4993519",
+      "time": "2026-07-17 12:40:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌6%。"
+    },
+    {
+      "id": "mkt:019f6e60-18cf-7aab-8dd9-c5e3fd1a5ee0",
+      "time": "2026-07-17 12:40:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Reserve Bank of India governor said bank credit growth is quite satisfactory."
+    },
+    {
+      "id": "4993518",
+      "time": "2026-07-17 12:39:45",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行：通脹高企是由於供給側因素所致。"
+    },
+    {
+      "id": "4993517",
+      "time": "2026-07-17 12:39:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度央行行長：銀行信貸增速相當令人滿意。"
+    },
+    {
+      "id": "4993516",
+      "time": "2026-07-17 12:38:41",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "國家發改委釋出人工智慧合作發展行動計劃。（國家發改委）"
+    },
+    {
+      "id": "mkt:019f6e5e-41bd-7aab-8dd9-bec6252c7b30",
+      "time": "2026-07-17 12:38:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "China State Planner issues action plan for collaborative development of artificial intelligence."
+    },
+    {
+      "id": "4993515",
+      "time": "2026-07-17 12:37:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構上調臺積電目標價】D.A. Davidson將臺積電目標價從450美元上調至500美元，TD Cowen將臺積電目標股價從400美元上調至440美元。臺積電早盤一度跌逾3%，臺股早盤一度崩跌逾4%失守44,000點整數關卡，分析師認為，主要受臺積電投資人說明會(法說會)後股價大幅回檔拖累，在臺積電領跌下，市場賣壓帶動AI(人工智慧)板塊重挫，使得指數跌幅一度擴大至超4%。"
+    },
     {
       "id": "te:markets:567748",
       "time": "2026-07-17 12:35:18",
@@ -173544,33 +173627,6 @@
         "DXY"
       ],
       "text": "【OCBC says now is an appropriate time to reassess domestic vs offshore intraday allocations】In Tokyo trade, Japanese government bonds rose on prospects of increased inflows. Frances Cheung, head of FX and rates strategy at OCBC Group Research, said in a note that Japan's finance minister Katayama is seeking to encourage GPIF and similar funds to increase investment in yen assets, making now an appropriate time to reassess domestic versus offshore allocations. Cheung added that on a currency‑hedged basis the rebound in JGB yields has been comparable with, or even superior to, US Treasuries. The 10‑year JGB yield fell about 10bp to 2.775%; the 20‑year yield dropped about 11.5bp to 3.750%."
-    },
-    {
-      "id": "te:markets:565888",
-      "time": "2026-07-10 12:39:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Copper Rebounds as Risk Appetite Improves — Copper futures climbed to around $6.26 per pound on Friday, reversing losses from earlier this week as investor appetite for risk assets improved, led by a rebound in semiconductor and artificial intelligence-related stocks. Market participants also looked past the renewed fighting in the Middle East after reports indicated that the US and Iran will continue peace negotiations aimed at securing a lasting resolution to the conflict. Meanwhile, oil prices retreated from recent highs, helping ease inflation concerns and reduce fears of aggressive interest rate hikes, which improved the outlook for manufacturing activity. Even so, markets continue to expect the Federal Reserve to raise interest rates at least once this year. Copper, often viewed as a barometer of global economic growth, remained sensitive to shifts in the economic and monetary policy outlook."
-    },
-    {
-      "id": "4980282",
-      "time": "2026-07-10 12:39:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "【無人機襲擊後俄羅斯伊利斯基煉油廠起火】當地政府通報，無人機殘骸墜落廠區，俄羅斯克拉斯諾達爾邊疆區伊利斯基（ Ilsky）煉油廠發生火情。初步訊息暫未出現人員傷亡。羅斯托夫州州長尤里・斯柳薩爾（Yuri Slyusar ）表示，塔甘羅格、亞速及周邊空域共擊落約35架無人機；無人機襲擊致使亞速兩處成品油倉儲設施起火，塔甘羅格海港也有火情正在撲救。注：伊利斯基煉油廠是俄羅斯南部規模最大的煉油廠之一，年加工產能約660萬噸。衝突爆發以來該廠已多次遭襲，6月初曾發生一次襲擊事件。"
-    },
-    {
-      "id": "4980281",
-      "time": "2026-07-10 12:39:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五菱星光L將於7月16日上市】7月10日，據上汽通用五菱訊息，旗下插混中大型SUV五菱星光L將於7月16日正式上市。新車共推出3款配置車型，官方預售價區間為12.28萬至14.28萬元。"
     }
   ]
 }
