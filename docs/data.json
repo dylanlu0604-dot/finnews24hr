@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-17 20:49:27",
-  "count": 19088,
+  "updated": "2026-07-17 20:53:30",
+  "count": 19087,
   "items": [
+    {
+      "id": "mkt:019f7022-5f5e-7aab-8de5-143c70568cbf",
+      "time": "2026-07-17 20:52:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China's MIIT orders tighter safety assessments for driver-assistance and autonomous driving functions】MIIT’s Equipment Industry Department convened major auto manufacturers to deploy supervision and inspection of auto producers and products. The ministry ordered stronger safety assessments for combined driver-assistance and autonomous driving functions and instructed firms to reinforce capabilities in functional safety, safety of intended functionality (SOTIF), cybersecurity, data security, over‑the‑air software upgrades, and to improve safety-incident monitoring and response."
+    },
+    {
+      "id": "4994655",
+      "time": "2026-07-17 20:51:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千方集團出席哈中高科技企業圓桌會議並簽署框架協議】7月16日，哈薩克·中國高科技企業圓桌會議在上海舉辦。千方集團董事長夏曙東受邀參會，與哈薩克國家公路公司簽署《智慧交通物流數字化專案合作框架協議》，雙方將圍繞公路貨運數字化、智慧裝置本土化生產等領域深度合作。"
+    },
+    {
+      "id": "4994654",
+      "time": "2026-07-17 20:51:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工信部組織召開重點汽車生產企業座談會 要求汽車生產企業堅決抵制非理性競爭、加強產品測試驗證與安全評估】7月17日，工業和資訊化部裝備工業一司組織召開重點汽車生產企業座談會，部署進一步規範汽車產業競爭秩序、提升汽車產品生產一致性和質量安全水平、開展汽車產品安全風險隱患排查和監督檢查等重點工作。會議要求，汽車生產企業要深入貫徹落實黨中央、國務院決策部署，堅決抵制非理性競爭，加強產品測試驗證與安全評估，守牢產品生產一致性和質量安全底線。一是要深入開展產品安全風險隱患排查，對照有關管理要求，系統查詢企業自身和關鍵零部件供應商在產品生產一致性、可靠性、耐久性和新技術測試驗證等方面存在的問題，認真做好整改工作，全面加強供應鏈管理，強化生產一致性保證能力。二是要加強產品創新設計測試驗證，充分評估有關安全風險，穩妥推動新技術裝車應用，確保符合有關國家標準要求，以及保障人體健康和人身、財產安全的要求，嚴格履行告知義務，不得誇大和虛假宣傳。三是要加強組合駕駛輔助和自動駕駛功能安全評估，進一步強化企業在功能安全、預期功能安全、網路安全、資料安全、軟體升級等方面的安全保障能力，加強安全事件監測和處置。會議強調，汽車生產企業要牢固樹立“安全第一、質量至上”的理念，切實承擔起保障產品質量安全和維護公共安全、公民生命財產安全的責任，圍繞產品設計驗證、生產製造、售後服務等方面做好風險防範，切實維護消費者合法權益。下一步，工業和資訊化部將會同相關部門深入開展道路機動車輛產品生產一致性和質量提升行動，集中整治突出問題，進一步加強汽車產品創新設計准入審查和測試驗證有關工作，開展道路機動車輛生產企業產品安全保障能力和生產一致性監督檢查，加強道路機動車輛檢驗檢測機構管理，對於存在問題的道路機動車輛生產企業、檢驗檢測機構，依法依規嚴肅處理，堅決守牢汽車產品安全底線。"
+    },
+    {
+      "id": "4994653",
+      "time": "2026-07-17 20:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【階躍星辰AI智慧體手機STEPX Neo亮相，獲評“鎮館之寶”】2026世界人工智慧大會（WAIC）開幕首日，階躍星辰大模型原生AI終端品牌STEPX攜自主研發的首款AI終端、大模型原生智慧體手機STEPX Neo亮相，展示了原生AI終端在本地生活服務、移動高效辦公、一站式出行等全場景下的智慧生態服務能力。（新浪科技）"
+    },
+    {
+      "id": "4994651",
+      "time": "2026-07-17 20:50:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：將巴氏殺菌橙汁中允許新增的橘汁最大佔比上調至體積佔比15%。"
+    },
+    {
+      "id": "4994650",
+      "time": "2026-07-17 20:49:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東方新能：股價連續三日漲幅偏離值超20% 經營情況正常】東方新能公告稱，公司股票連續三個交易日（2026年7月15日-7月17日）收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司前期披露資訊無需更正補充，未發現公共傳媒報道未公開重大資訊，近期經營及內外部環境未變，公司、控股股東和實控人無應披露未披露重大事項，異常波動期間控股股東和實控人無主動買賣行為。公司預計2026年上半年營收1.4億-1.6億元，淨利潤250萬-370萬元。"
+    },
+    {
+      "id": "4994649",
+      "time": "2026-07-17 20:49:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：將巴氏殺菌橙汁的最低白利糖度要求從10.5°下調至10°。"
+    },
+    {
+      "id": "4994648",
+      "time": "2026-07-17 20:49:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【同程旅行：近一週避暑遊搜尋熱度環比增長超50%】7月17日，同程旅行釋出《2026避暑遊趨勢報告》顯示，近一週平臺有關“避暑”的搜尋量環比增長超50%。今年居民避暑遊需求多元化趨勢明顯。一方面，貴州、雲南等地傳統長線避暑遊目的地人氣持續走高；另一方面，一批“清涼小城”人氣高漲。另外，外國遊客到中國避暑度假成為今年暑期新亮點，愛丁堡、馬德里等歐洲城市至中國避暑勝地的機票預訂熱度同比增長超80%。"
+    },
+    {
+      "id": "te:economy:567906",
+      "time": "2026-07-17 20:48:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Foreign Stock Investment",
+        "Importance 1"
+      ],
+      "text": "Foreign Investment in Canadian Securities Eases — Foreign investors acquired C$7.9 billion in Canadian securities in May 2026, down sharply from C$46.9 billion in April and well below market expectations of C$15.21 billion. Non-resident investors sold C$16.1 billion of Canadian equity securities, marking the largest monthly divestment since February 2025. The selloff was concentrated in the energy and mining (C$7.7 billion) and manufacturing (C$4.9 billion) sectors. Despite the equity outflows, foreign investors remained net buyers of Canadian securities for a fifth consecutive month, supported by acquisitions of federal government bonds (C$7.8 billion) and provincial government bonds (C$7.1 billion). Foreign investors also increased their holdings of money market instruments by C$6.0 billion, the largest investment since September 2025, driven primarily by purchases of private corporate paper (C$3.7 billion) and federal government business enterprise paper (C$2.8 billion)."
+    },
     {
       "id": "4994646",
       "time": "2026-07-17 20:47:42",
@@ -175648,87 +175731,6 @@
         "MKT News"
       ],
       "text": "【US and Iran may enter \"tactical pause\" but memorandum ambiguity must be resolved】Analysts say the renewed US‑Iran escalation centers on divergent readings of Article 5 of the memorandum of understanding. Article 5 requires Iran to \"make arrangements... to ensure safe passage of commercial ships\" and to work with Oman to \"determine the Strait's future management,\" but does not clearly grant Iran exclusive jurisdiction. Iranian commentators say Tehran insists the Strait is open — not on US terms — and is returning the dispute to the memorandum's text to argue military force cannot rewrite negotiated outcomes. The International Crisis Group warns the memorandum's early ambiguity, once useful to stop fighting, has become a risk; it urges both sides to stop imposing competing interpretations — specifically that Iran cease firing on vessels and the US suspend promoting alternative shipping routes, at least temporarily. Mediators are pushing for talks; no deal yet, though hostilities have eased for now."
-    },
-    {
-      "id": "4981362",
-      "time": "2026-07-10 20:53:29",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【中華人民共和國和奈米比亞共和國關於構建新時代中納命運共同體的聯合宣告】應中華人民共和國主席習近平邀請，奈米比亞共和國總統內通博·南迪-恩代特瓦於2026年7月5日至11日對中華人民共和國進行國事訪問。\n\n兩國元首就新形勢下中納兩國關係以及共同關心的國際和地區問題深入交換意見。中華人民共和國國務院總理李強、全國人民代表大會常務委員會委員長趙樂際分別同恩代特瓦總統會見。\n\n雙方認為，中納兩國傳統友誼深厚，歷久彌堅。兩國於1990年建交，2018年建立全面戰略合作伙伴關係，雙方政治互信持續鞏固，務實合作成果豐碩，在國際事務中協調和配合，成為中非友好和南南合作的典範。\n\n雙方認為，世界百年變局加速演進，面對前所未有的全球性挑戰，亟需建立強有力的機制，強化全球治理制度性框架，加強多邊機構作用。\n\n納方讚賞習近平主席提出的構建人類命運共同體、高質量共建“一帶一路”、全球發展倡議、全球安全倡議、全球文明倡議和全球治理倡議，認為上述重大理念倡議有助於應對全球挑戰、促進世界和平發展和共同繁榮。\n\n納方讚賞習近平新時代中國特色社會主義思想的科學指引作用和中國共產黨以人民為中心的發展思想，認為中國式現代化的成功實踐為發展中國家探索自身現代化道路提供了有益借鑑。\n\n中方讚賞恩代特瓦總統具有前瞻性的領導力，支援納方致力於經濟增長、工業化和繁榮發展。\n\n雙方致力於在新形勢下加強友好、互利合作，這符合兩國人民共同發展期盼，有助於攜手推動國際秩序朝著更加公正合理的方向發展。為此，雙方決定將雙邊關係提升為新時代中納命運共同體。（央視新聞）"
-    },
-    {
-      "id": "4981361",
-      "time": "2026-07-10 20:52:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨運價指數較前一交易日上漲34點，漲幅1.2%，報2944點，本週累計上漲8.4%。"
-    },
-    {
-      "id": "mkt:019f4c15-a107-7aab-8d33-495c0d3f7dca",
-      "time": "2026-07-10 20:51:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic Dry Index posts weekly gain as Capesize strength lifts rates】The Baltic Dry Index rose 34 points (1.2%) on Friday to 2,944, marking an 8.4% weekly gain as a stronger Capesize index boosted rates. The Capesize index gained 86 points (1.9%) to 4,655, raising Capesize daily earnings by $780 to $38,711/day and delivering about a 13.5% weekly advance. The Panamax index was unchanged at 2,253 but up 2.3% for the week; Panamax daily earnings fell $3 to $20,273/day. The Supramax index rose 6 points (0.4%) to 1,706, up roughly 2% on the week."
-    },
-    {
-      "id": "4981360",
-      "time": "2026-07-10 20:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗全國舉行系列活動紀念已故最高領袖哈梅內伊及其家屬】據伊朗最高領袖辦公室官方渠道通報，伊朗新任最高領袖阿亞圖拉賽義德·穆傑塔巴·哈梅內伊宣佈，自當地時間7月10日起（伊朗歷4月19日），伊朗全國舉行為期三天的系列活動，隆重紀念在今年2月美以空襲中遇難的前最高領袖阿亞圖拉賽義德·阿里·哈梅內伊及殉難的家屬。根據追悼儀式安排，位於馬什哈德的伊瑪目裡薩聖陵將作為核心悼念場所，自10日晚間例行禮拜後連續三晚舉行大規模官方紀念活動。同時，庫姆的法蒂瑪·馬蘇麥聖陵伊瑪目霍梅尼大廳於週五晚間舉行專項悼念大會，並邀請伊朗伊斯蘭革命奠基人霍梅尼之孫賽義德·阿里·霍梅尼發表專題悼念講話。通報強調，除上述兩處聖地的核心儀式外，伊朗各省市主要廣場、清真寺及宗教場所也將在本週末三天內同步舉行廣泛的集會與悼念活動。"
-    },
-    {
-      "id": "4981359",
-      "time": "2026-07-10 20:50:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和勝股份：股東李建湘、李江擬減持不超過3%股份】和勝股份公告，股東李建湘持有公司股份8790.17萬股（佔總股本28.25%），股東李江持有公司股份1047.64萬股（佔總股本3.37%），兩人合計持有9837.81萬股（佔總股本31.62%）。二人計劃自2026年8月3日至2026年11月2日，以集中競價或大宗交易方式合計減持不超過933.52萬股（佔總股本3%），其中集中競價減持不超過311.17萬股（佔總股本1%），大宗交易減持不超過622.35萬股（佔總股本2%）。減持原因為個人資金需求。"
-    },
-    {
-      "id": "4981358",
-      "time": "2026-07-10 20:50:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西安銀行：資訊長陳欽因工作變動辭任】西安銀行(600928)7月10日公告，該行資訊長陳欽因工作變動於2026年7月9日向公司董事會提交了辭職報告，申請辭去公司資訊長職務。陳欽已按照公司有關要求做好工作交接。"
-    },
-    {
-      "id": "4981357",
-      "time": "2026-07-10 20:50:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞官方：針對製造 7 月 7 日大馬士革爆炸案的恐怖組織團伙成員開展深度調查後，我方查獲該團伙一處秘密窩點，該窩點用於存放爆炸物，團伙曾計劃實施連環恐怖襲擊。"
-    },
-    {
-      "id": "4981356",
-      "time": "2026-07-10 20:50:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "【瑞銀：AI熱潮料將提振股市長期收益】瑞銀全球財富管理策略師在一份報告中表示，預計AI行業的增長將推動股市的長期回報。不過他們表示，投資者需要對AI投資採取多元化的策略。“我們看好半導體裝置、代工廠、與CPU相關的計算機基礎設施以及儲存晶片，”他們表示。這些策略師還青睞資料中心不動產投資信託(REIT)和支付網路等防禦性板塊。"
-    },
-    {
-      "id": "4981355",
-      "time": "2026-07-10 20:50:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北省防汛抗旱指揮部將防汛四級應急響應提升至三級】據“河北釋出”訊息，根據當前雨水情形勢，經研究，河北省防汛抗旱指揮部決定於7月10日20時將針對承德、秦皇島、唐山、保定市的防汛四級應急響應提升至三級。"
-    },
-    {
-      "id": "4981354",
-      "time": "2026-07-10 20:49:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【招商輪船：擬新建5艘油輪、4艘集裝箱船及1艘散貨船】招商輪船公告，董事會同意新建5艘配備脫硫洗滌塔和軸帶發電機的AFRAMAX油輪，在中船大連船廠建造，預計2029年開始交付；增建4艘1800TEU集裝箱船舶及1艘21萬載重噸紐卡斯爾型散貨船，預計2028年交付。其中4艘集裝箱船和1艘散貨船交由關聯方招商船舶建造。上述新建船舶及董事薪酬方案等議案將提交2026年第一次臨時股東會審議。"
     }
   ]
 }

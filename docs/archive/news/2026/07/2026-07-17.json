@@ -1,7 +1,90 @@
 {
   "date": "2026-07-17",
-  "count": 2763,
+  "count": 2772,
   "items": [
+    {
+      "id": "mkt:019f7022-5f5e-7aab-8de5-143c70568cbf",
+      "time": "2026-07-17 20:52:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "【China's MIIT orders tighter safety assessments for driver-assistance and autonomous driving functions】MIIT’s Equipment Industry Department convened major auto manufacturers to deploy supervision and inspection of auto producers and products. The ministry ordered stronger safety assessments for combined driver-assistance and autonomous driving functions and instructed firms to reinforce capabilities in functional safety, safety of intended functionality (SOTIF), cybersecurity, data security, over‑the‑air software upgrades, and to improve safety-incident monitoring and response."
+    },
+    {
+      "id": "4994655",
+      "time": "2026-07-17 20:51:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【千方集團出席哈中高科技企業圓桌會議並簽署框架協議】7月16日，哈薩克·中國高科技企業圓桌會議在上海舉辦。千方集團董事長夏曙東受邀參會，與哈薩克國家公路公司簽署《智慧交通物流數字化專案合作框架協議》，雙方將圍繞公路貨運數字化、智慧裝置本土化生產等領域深度合作。"
+    },
+    {
+      "id": "4994654",
+      "time": "2026-07-17 20:51:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工信部組織召開重點汽車生產企業座談會 要求汽車生產企業堅決抵制非理性競爭、加強產品測試驗證與安全評估】7月17日，工業和資訊化部裝備工業一司組織召開重點汽車生產企業座談會，部署進一步規範汽車產業競爭秩序、提升汽車產品生產一致性和質量安全水平、開展汽車產品安全風險隱患排查和監督檢查等重點工作。會議要求，汽車生產企業要深入貫徹落實黨中央、國務院決策部署，堅決抵制非理性競爭，加強產品測試驗證與安全評估，守牢產品生產一致性和質量安全底線。一是要深入開展產品安全風險隱患排查，對照有關管理要求，系統查詢企業自身和關鍵零部件供應商在產品生產一致性、可靠性、耐久性和新技術測試驗證等方面存在的問題，認真做好整改工作，全面加強供應鏈管理，強化生產一致性保證能力。二是要加強產品創新設計測試驗證，充分評估有關安全風險，穩妥推動新技術裝車應用，確保符合有關國家標準要求，以及保障人體健康和人身、財產安全的要求，嚴格履行告知義務，不得誇大和虛假宣傳。三是要加強組合駕駛輔助和自動駕駛功能安全評估，進一步強化企業在功能安全、預期功能安全、網路安全、資料安全、軟體升級等方面的安全保障能力，加強安全事件監測和處置。會議強調，汽車生產企業要牢固樹立“安全第一、質量至上”的理念，切實承擔起保障產品質量安全和維護公共安全、公民生命財產安全的責任，圍繞產品設計驗證、生產製造、售後服務等方面做好風險防範，切實維護消費者合法權益。下一步，工業和資訊化部將會同相關部門深入開展道路機動車輛產品生產一致性和質量提升行動，集中整治突出問題，進一步加強汽車產品創新設計准入審查和測試驗證有關工作，開展道路機動車輛生產企業產品安全保障能力和生產一致性監督檢查，加強道路機動車輛檢驗檢測機構管理，對於存在問題的道路機動車輛生產企業、檢驗檢測機構，依法依規嚴肅處理，堅決守牢汽車產品安全底線。"
+    },
+    {
+      "id": "4994653",
+      "time": "2026-07-17 20:51:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【階躍星辰AI智慧體手機STEPX Neo亮相，獲評“鎮館之寶”】2026世界人工智慧大會（WAIC）開幕首日，階躍星辰大模型原生AI終端品牌STEPX攜自主研發的首款AI終端、大模型原生智慧體手機STEPX Neo亮相，展示了原生AI終端在本地生活服務、移動高效辦公、一站式出行等全場景下的智慧生態服務能力。（新浪科技）"
+    },
+    {
+      "id": "4994651",
+      "time": "2026-07-17 20:50:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：將巴氏殺菌橙汁中允許新增的橘汁最大佔比上調至體積佔比15%。"
+    },
+    {
+      "id": "4994650",
+      "time": "2026-07-17 20:49:32",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【東方新能：股價連續三日漲幅偏離值超20% 經營情況正常】東方新能公告稱，公司股票連續三個交易日（2026年7月15日-7月17日）收盤價格漲幅偏離值累計超20%，屬異常波動。經核查，公司前期披露資訊無需更正補充，未發現公共傳媒報道未公開重大資訊，近期經營及內外部環境未變，公司、控股股東和實控人無應披露未披露重大事項，異常波動期間控股股東和實控人無主動買賣行為。公司預計2026年上半年營收1.4億-1.6億元，淨利潤250萬-370萬元。"
+    },
+    {
+      "id": "4994649",
+      "time": "2026-07-17 20:49:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：將巴氏殺菌橙汁的最低白利糖度要求從10.5°下調至10°。"
+    },
+    {
+      "id": "4994648",
+      "time": "2026-07-17 20:49:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【同程旅行：近一週避暑遊搜尋熱度環比增長超50%】7月17日，同程旅行釋出《2026避暑遊趨勢報告》顯示，近一週平臺有關“避暑”的搜尋量環比增長超50%。今年居民避暑遊需求多元化趨勢明顯。一方面，貴州、雲南等地傳統長線避暑遊目的地人氣持續走高；另一方面，一批“清涼小城”人氣高漲。另外，外國遊客到中國避暑度假成為今年暑期新亮點，愛丁堡、馬德里等歐洲城市至中國避暑勝地的機票預訂熱度同比增長超80%。"
+    },
+    {
+      "id": "te:economy:567906",
+      "time": "2026-07-17 20:48:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Foreign Stock Investment",
+        "Importance 1"
+      ],
+      "text": "Foreign Investment in Canadian Securities Eases — Foreign investors acquired C$7.9 billion in Canadian securities in May 2026, down sharply from C$46.9 billion in April and well below market expectations of C$15.21 billion. Non-resident investors sold C$16.1 billion of Canadian equity securities, marking the largest monthly divestment since February 2025. The selloff was concentrated in the energy and mining (C$7.7 billion) and manufacturing (C$4.9 billion) sectors. Despite the equity outflows, foreign investors remained net buyers of Canadian securities for a fifth consecutive month, supported by acquisitions of federal government bonds (C$7.8 billion) and provincial government bonds (C$7.1 billion). Foreign investors also increased their holdings of money market instruments by C$6.0 billion, the largest investment since September 2025, driven primarily by purchases of private corporate paper (C$3.7 billion) and federal government business enterprise paper (C$2.8 billion)."
+    },
     {
       "id": "4994646",
       "time": "2026-07-17 20:47:42",
