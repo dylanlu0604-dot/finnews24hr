@@ -1,7 +1,37 @@
 {
   "date": "2026-07-17",
-  "count": 3182,
+  "count": 3185,
   "items": [
+    {
+      "id": "mkt:019f70c2-a03f-7aab-8de8-bb08bbb2b27a",
+      "time": "2026-07-17 23:47:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose 1.00% intraday to $4,016.21/oz."
+    },
+    {
+      "id": "4994943",
+      "time": "2026-07-17 23:45:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮新聞秘書萊維特：為何國會全體民主黨議員都反對在美國選舉中推行看似合乎常理的帶照片身份證件投票規定與公民身份核驗要求？ 共和黨必須推動《拯救美國法案》立法落地！"
+    },
+    {
+      "id": "mkt:019f70c0-613d-7aab-8de8-b1a51f255e33",
+      "time": "2026-07-17 23:44:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's Prime Minister Magyar said Hungary will end tax incentives for multinational companies."
+    },
     {
       "id": "4994942",
       "time": "2026-07-17 23:42:55",
