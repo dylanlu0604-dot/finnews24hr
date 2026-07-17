@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-17 22:11:21",
-  "count": 19157,
+  "updated": "2026-07-17 22:15:30",
+  "count": 19160,
   "items": [
+    {
+      "id": "4994846",
+      "time": "2026-07-17 22:14:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將聯合健康目標價從460美元上調至490美元。"
+    },
+    {
+      "id": "mkt:019f706d-588b-7aab-8de7-975d1fe451ac",
+      "time": "2026-07-17 22:14:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish",
+        "SNDK.O",
+        "SKHY.O"
+      ],
+      "text": "Dow turns positive; Micron Technology (MU.O) up 1.5%, SanDisk (SNDK.O) up 1.7%, SK Hynix ADR (SKHY.O) up 3%."
+    },
+    {
+      "id": "4994845",
+      "time": "2026-07-17 22:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：馬斯克旗下X平臺與各大唱片公司就該社交平臺的音樂版權糾紛達成和解。"
+    },
+    {
+      "id": "mkt:019f706c-db00-7aab-8de7-8cbe9cbdd605",
+      "time": "2026-07-17 22:13:29",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【Fed HAMMACK: Persistent high inflation remains top concern】HAMMACK said there is no conflict between the Fed’s dual mandate: inflation remains too high while the labor market is near full employment. He said corporate leaders point to energy costs and supply‑chain disruptions as key drivers, and flagged insurance cost pressure and rising costs from AI data‑center construction."
+    },
+    {
+      "id": "4994844",
+      "time": "2026-07-17 22:13:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【伯納姆擬擴充英國商業部門 雷諾茲有望重回商務大臣一職】據知情人士透露，安迪・伯納姆正擬定方案，計劃擴充商業部編制，並讓喬納森・雷諾茲重新出任英國商務大臣。 週五，伯納姆在宣告自己正式就任英國工黨新領袖的演講中表態，將推行“親商”政策。他稱內閣班子名單尚未最終敲定，但黨內同僚表示，核心領導層的框架已經基本成型。 2024年大選後，雷諾茲在基爾・斯塔默爵士內閣中擔任商務大臣，直至去年9月內閣改組，他被平調至黨鞭長一職。 多名工黨人士與商界代表表示，雷諾茲極有可能官復原職；他在商務大臣任內深受工會領袖與部分企業高管認可。 雷諾茲已向多人坦言，自己並不適應黨鞭長這份工作。 若重返商務大臣崗位，他或將被賦予更多能源與科技政策相關權責。"
+    },
+    {
+      "id": "4994843",
+      "time": "2026-07-17 22:12:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將通用電氣航空航天公司目標價從426美元上調至435美元。"
+    },
+    {
+      "id": "4994842",
+      "time": "2026-07-17 22:12:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "道指轉漲，重新整理日高、逼近52560點，美股盤初一度跌至51986.74點重新整理日低。"
+    },
+    {
+      "id": "4994841",
+      "time": "2026-07-17 22:11:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【超聚變：預計未來下游客戶仍將保持持續旺盛的伺服器採購需求】7月17日，超聚變及中介機構回覆稽核問詢函。其中提到，公司下游客戶主要屬於網際網路、運營商、金融、政企行業。公司在手訂單統計範圍為已明確採購數量及金額的合同與訂單，未包括已中標並簽署框架協議但尚未下訂單及潛在客戶需求。截至2025年12月31日，公司在手訂單金額合計為226.85億元，訂單儲備充足，該部分在手訂單預計在一年內將完成大部分交付。2026年以來，除前述在手訂單將持續轉化為收入外，基於框架協議新簽署的採購訂單以及客戶新增採購需求將帶來期後收入的持續增長。結合網際網路、運營商等客戶資本開支的趨勢性及結構性變化，預計未來下游客戶仍將保持持續旺盛的伺服器採購需求，公司營收規模有望保持穩步增長趨勢。"
+    },
+    {
+      "id": "4994840",
+      "time": "2026-07-17 22:10:55",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "建築夥伴公司股價因獲納入標普小型股600指數計劃上漲5.4%。"
+    },
+    {
+      "id": "4994839",
+      "time": "2026-07-17 22:10:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伯納姆將重新任命喬納森・雷諾茲出任英國商務與貿易大臣。"
+    },
     {
       "id": "4994838",
       "time": "2026-07-17 22:10:00",
@@ -176508,65 +176602,6 @@
         "Impact bullish"
       ],
       "text": "【Qatar leads talks with Iran; Trump unusually quiet】Al Jazeera reports Qatar is leading mediation talks with Iran; the US State Department and the White House have declined to comment on the reported discussions. Qatar and Pakistan have previously acted as intermediaries during earlier spikes in US-Iran tensions. Trump, who has praised Qatar’s role in past mediation, has made no public comment on these talks in the 24 hours since returning from the NATO summit in Turkey, posting only a social-media announcement renaming Palm International Airport after himself."
-    },
-    {
-      "id": "mkt:019f4c61-c048-7aab-8d34-901002526b17",
-      "time": "2026-07-10 22:15:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SK chairman Chey Tae-won said the group is willing to increase investment in the United States."
-    },
-    {
-      "id": "4981516",
-      "time": "2026-07-10 22:14:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "SK集團會長崔泰源在接受採訪時表示，對包括在美建廠生產晶片在內的更多投資持開放態度。"
-    },
-    {
-      "id": "4981515",
-      "time": "2026-07-10 22:14:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【聯合海上資訊中心：霍爾木茲海峽南部航道仍然開放】由美國主導的聯合海上資訊中心10日釋出通報說，由美軍提供通航協助的霍爾木茲海峽南部航道仍然處於開放狀態。但多家海事資訊平臺統計資料顯示，近日僅有零星船舶從南部航道透過海峽。 上述通報由英國海上貿易行動辦公室當天對外發布。通報說，霍爾木茲海峽海上安全威脅等級仍為“嚴重”，但“霍爾木茲海峽南部航道已得到擴充套件，並繼續向所有船舶開放”。 然而，溫沃德海事分析公司等機構的資料顯示，由於美伊持續交火，霍爾木茲海峽通航量近日急劇下降，南部航道基本被棄用，只有零星船舶通行。 美伊諒解備忘錄達成後，霍爾木茲海峽主要有兩條通行航道，分別為伊朗管控的北部航道和靠近阿曼一側的南部航道，美軍在南部航道提供通航協助。聯合海上資訊中心在通報中提到：“任何航道均不存在負責管理船舶通行的主管機構，也無需繳納任何通行費用。” 今年5月，伊朗宣佈成立管理霍爾木茲海峽的新機構“波斯灣海峽管理局”，要求在相關水域通行的船隻與伊方協調並取得許可。美國政府隨即將該機構列入制裁名單。(新華社)"
-    },
-    {
-      "id": "4981514",
-      "time": "2026-07-10 22:13:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "SK集團董事長崔泰源在接受採訪時表示，對在美國進一步投資持開放態度。"
-    },
-    {
-      "id": "mkt:019f4c5f-f9a0-7aab-8d34-8c368f70737d",
-      "time": "2026-07-10 22:13:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UN Security Council holds meeting on Iran's nuclear programme."
-    },
-    {
-      "id": "4981513",
-      "time": "2026-07-10 22:12:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "黎巴嫩納巴蒂耶省再遭兩起以色列無人機襲擊，一處發生在卡夫魯曼鎮，另一處位於上納巴蒂耶鎮。"
-    },
-    {
-      "id": "4981512",
-      "time": "2026-07-10 22:12:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【飛行中舷窗“脫落” 瑞安航空一客機緊急降落希臘】當地時間7月10日，歐洲最大廉價航空公司愛爾蘭瑞安航空公司表示，其一架客機在希臘塞薩洛尼基機場起飛後不久，因舷窗“脫落”被迫緊急降落。希臘方面訊息稱，飛機發動機部件脫落並砸碎了一扇舷窗，導致機艙失壓，一名乘客被部分吸出窗外。該航空公司表示，一名乘客接受了醫療救助，但未詳細說明事故原因。這架飛機原計劃從希臘塞薩洛尼基飛往德國梅明根機場。瑞安航空在一份宣告中表示：“飛機正常著陸，乘客已返回航站樓。”（央視新聞）"
     }
   ]
 }
