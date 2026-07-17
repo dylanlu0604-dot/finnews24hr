@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-18 01:43:57",
-  "count": 18949,
+  "updated": "2026-07-18 01:47:55",
+  "count": 18941,
   "items": [
+    {
+      "id": "4994982",
+      "time": "2026-07-18 01:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊維持布倫特原油 2026 年、2027 年油價預測，分別為每桶 96 美元、每桶 85 美元。"
+    },
+    {
+      "id": "mkt:019f7130-66fa-7aab-8de9-c448c86b4694",
+      "time": "2026-07-18 01:47:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report Prime Minister Netanyahu has postponed a visit to the United States, citing both changes to arrangements for the funeral of the late Republican Senator Lindsey Graham and an intensifying rift with the Trump administration, notably recent sharp criticism from U.S. Vice President Vance."
+    },
     {
       "id": "te:markets:567973",
       "time": "2026-07-18 01:42:36",
@@ -174648,87 +174664,6 @@
         "Impact bearish"
       ],
       "text": "ICE: For the week to July 7, speculative net longs in Brent crude fell 547 contracts to 55,087. Speculative net longs in gasoil (diesel) rose 11,634 contracts to 69,486."
-    },
-    {
-      "id": "4981813",
-      "time": "2026-07-11 01:47:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "洲際交易所（ICE）：截至7月7日當週，柴油投機商將淨多頭頭寸增加11634手，至69486手。"
-    },
-    {
-      "id": "4981812",
-      "time": "2026-07-11 01:47:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "截至7月7日當週， ICE布倫特原油投機者將淨多頭頭寸削減了547手，至55087手。"
-    },
-    {
-      "id": "4981811",
-      "time": "2026-07-11 01:47:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國參議員稱將推進俄羅斯石油制裁立法 讓購買者付出“沉重代價”】美國參議員Richard Blumenthal、Lindsey Graham、Jeanne Shaheen和Roger Wicker在X上釋出的一份聯合宣告中表示：“我們已與特朗普政府達成協議，將推進我們更新後的俄羅斯制裁立法。”宣告稱：“立法和行政部門必須共同努力，制定工具，讓那些購買俄羅斯石油和天然氣的人付出沉重代價”美國參議員Graham稱特朗普為對俄製裁法案開綠燈 有望最快下週投票。"
-    },
-    {
-      "id": "4981810",
-      "time": "2026-07-11 01:46:17",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "紐約聯儲隔夜回購操作無投標報價。"
-    },
-    {
-      "id": "mkt:019f4d22-5927-7aab-8d38-443826d66688",
-      "time": "2026-07-11 01:45:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister said he agreed to advance the bilateral cooperation agenda set during Iranian President Pezeshkian's recent visit to Pakistan."
-    },
-    {
-      "id": "4981809",
-      "time": "2026-07-11 01:45:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理謝里夫：巴基斯坦已做好準備，繼續發揮坦誠真摯的調停者作用，推動實現地區持久和平。"
-    },
-    {
-      "id": "4981808",
-      "time": "2026-07-11 01:44:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴基斯坦總理謝里夫：同意推進在伊朗總統佩澤希齊揚近期訪問伊斯蘭堡期間達成的雙邊合作議程。"
-    },
-    {
-      "id": "mkt:019f4d21-c10c-7aab-8d38-3cc556fc84e5",
-      "time": "2026-07-11 01:44:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister reiterated that Pakistan is willing to continue acting as an honest, sincere mediator to pursue lasting regional peace."
-    },
-    {
-      "id": "4981807",
-      "time": "2026-07-11 01:44:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 美國內政部發布宣告，敲定《瀕危物種法》相關最終規則。特朗普政府收窄物種 “損害” 定義，簡化審批流程。"
-    },
-    {
-      "id": "mkt:019f4d21-16fb-7aab-8d38-35408e5c4b56",
-      "time": "2026-07-11 01:44:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Pakistan's prime minister phoned Iran's president, urging restraint, dialogue and diplomacy to preserve regional peace."
     }
   ]
 }

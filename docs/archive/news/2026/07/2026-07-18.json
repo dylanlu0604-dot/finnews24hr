@@ -1,7 +1,23 @@
 {
   "date": "2026-07-18",
-  "count": 70,
+  "count": 72,
   "items": [
+    {
+      "id": "4994982",
+      "time": "2026-07-18 01:47:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊維持布倫特原油 2026 年、2027 年油價預測，分別為每桶 96 美元、每桶 85 美元。"
+    },
+    {
+      "id": "mkt:019f7130-66fa-7aab-8de9-c448c86b4694",
+      "time": "2026-07-18 01:47:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli media report Prime Minister Netanyahu has postponed a visit to the United States, citing both changes to arrangements for the funeral of the late Republican Senator Lindsey Graham and an intensifying rift with the Trump administration, notably recent sharp criticism from U.S. Vice President Vance."
+    },
     {
       "id": "te:markets:567973",
       "time": "2026-07-18 01:42:36",
