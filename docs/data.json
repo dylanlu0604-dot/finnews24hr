@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-18 04:08:45",
-  "count": 18934,
+  "updated": "2026-07-18 04:14:45",
+  "count": 18932,
   "items": [
+    {
+      "id": "4995066",
+      "time": "2026-07-18 04:14:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗：海軍利用岸基巡航導彈打擊了美軍艦艇】伊朗軍隊當地時間17日釋出宣告稱，伊朗海軍利用岸基巡航導彈，打擊了位於印度洋北部的一艘美軍艦艇。該艦艇被迫駛離伊朗的打擊範圍。截至目前，美國方面對此尚無回應。（央視新聞）"
+    },
+    {
+      "id": "4995065",
+      "time": "2026-07-18 04:13:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥駐美國大使：我們需要給投資者帶來確定性。"
+    },
+    {
+      "id": "4995064",
+      "time": "2026-07-18 04:12:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥駐美國大使：美墨加協定正在不斷取得進展。"
+    },
+    {
+      "id": "4995063",
+      "time": "2026-07-18 04:11:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： iPhone 破解技術廠商起訴前員工，指控其涉嫌竊取機密。"
+    },
     {
       "id": "te:markets:567982",
       "time": "2026-07-18 04:07:50",
@@ -174558,58 +174590,6 @@
         "國際"
       ],
       "text": "美國銀行存款規模從前一週 19.382 萬億美元升至 19.435 萬億美元。"
-    },
-    {
-      "id": "4981908",
-      "time": "2026-07-11 04:14:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：今日與盧拉通電話。"
-    },
-    {
-      "id": "te:markets:566129",
-      "time": "2026-07-11 04:13:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Rise as SK Hynix Soars in Debut — US stock indices closed higher on Friday ahead of the earnings season, with SK Hynix surging in its market debut. The S&P 500 gained 0.4%, the Nasdaq 100 advanced 0.3%, and the Dow added 150 points. SK Hynix American depositary receipts jumped 15% above their offering price after raising $26.5 billion in the largest-ever US listing by a foreign company. Peer chipmakers traded mixed, with Nvidia advancing 4% and AMD rising 2%, while Broadcom lost 0.3% and Intel shed 2.4%. In tech services, Meta jumped 6% after research firm SemiAnalysis published a positive report on its AI compute business. Meanwhile, financial stocks and other traditional sectors found support as oil prices halted their rebound, easing concerns over another Fed rate hike. JPMorgan added 0.3%, while Mastercard and Bank of America both gained 0.7%. In manufacturing, Applied Materials advanced 2.4%, while Caterpillar rose 1.5%."
-    },
-    {
-      "id": "4981907",
-      "time": "2026-07-11 04:11:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克交易所：6 月末空頭持倉較 6 月中旬上升 3.3%。"
-    },
-    {
-      "id": "4981906",
-      "time": "2026-07-11 04:11:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約證交所交易資料包告平臺自 12 月 6 日起延長運營時間。"
-    },
-    {
-      "id": "4981905",
-      "time": "2026-07-11 04:10:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "可口可樂公司公佈 2026 年第三季度每股派息 0.25 美元，股息將於 2026 年 8 月 7 日發放。"
-    },
-    {
-      "id": "mkt:019f4da6-c457-7aab-8d39-dd95d19f65db",
-      "time": "2026-07-11 04:10:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran foreign minister to visit Oman to discuss Strait of Hormuz】Iran's foreign minister Araghchi will lead a diplomatic delegation to Oman on the 11th to hold talks on bilateral ties and regional developments, with particular focus on the current situation in the Strait of Hormuz."
     }
   ]
 }
