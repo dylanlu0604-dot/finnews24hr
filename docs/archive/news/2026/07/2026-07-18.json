@@ -1,7 +1,28 @@
 {
   "date": "2026-07-18",
-  "count": 264,
+  "count": 266,
   "items": [
+    {
+      "id": "4995097",
+      "time": "2026-07-18 05:07:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "週五（7月17日）紐約尾盤，標普500股指期貨最終跌1.04%，道指期貨跌0.76%，納斯達克100股指期貨跌1.51%。羅素2000股指期貨跌0.48%。"
+    },
+    {
+      "id": "mkt:019f71e6-11df-7aab-8deb-f9be9707a27d",
+      "time": "2026-07-18 05:05:30",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index edged up on the 17th】The dollar index, measuring the dollar against six major currencies, closed at 100.765 at the New York close, marginally above 100.763 a session earlier. EUR/USD 1.1436 (prev. 1.1438); GBP/USD 1.3454 (1.3470); USD/JPY 162.45 (162.39); USD/CHF 0.8075 (0.8089); USD/CAD 1.4011 (1.4048); USD/SEK 9.6497 (9.6499)."
+    },
     {
       "id": "4995096",
       "time": "2026-07-18 05:03:54",
