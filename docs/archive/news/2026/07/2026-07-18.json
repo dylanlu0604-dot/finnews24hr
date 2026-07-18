@@ -1,7 +1,44 @@
 {
   "date": "2026-07-18",
-  "count": 686,
+  "count": 690,
   "items": [
+    {
+      "id": "mkt:019f746b-5f31-7aab-8def-3f2834a0a942",
+      "time": "2026-07-18 16:50:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Biren Technology debuts NPO optical interconnect and 1,024-card super-node at WAIC2026】Biren Technology unveiled at WAIC2026 a next-generation NPO (near-package optics) optical interconnect and distributed-decoupling super-node architecture that supports scaling to 1,024 cards per single super-node."
+    },
+    {
+      "id": "4995424",
+      "time": "2026-07-18 16:49:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月以來股票型ETF淨流入超過3200億元】7月17日，市場震盪調整，多隻寬基ETF成交顯著放量。從資金流向看，當日股票型ETF淨流入超750億元，7月13日至7月17日這5個交易日淨流入超2000億元。7月以來，股票型ETF淨流入更是超過3200億元。（上證報）"
+    },
+    {
+      "id": "4995423",
+      "time": "2026-07-18 16:48:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "暗盤白銀突破56美元/盎司 日內漲幅0.5%。"
+    },
+    {
+      "id": "mkt:019f7468-1de9-7aab-8def-34bc449f6f92",
+      "time": "2026-07-18 16:46:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Shanghai unveils inaugural constellation under \"StarHub Plan\"】On July 18 at the World Artificial Intelligence Conference forum Future Computing, Future Compute, Shanghai released the inaugural constellation of its flagship space digital-infrastructure project, the StarHub Plan. The project is positioned as Shanghai’s benchmark space-compute constellation: engineering verification will launch 2 compute satellites and 12 edge-computing satellites; commercial deployment envisages 50 compute satellites and 100 edge-computing satellites; full commercial operation targets a 1,000-satellite constellation."
+    },
     {
       "id": "mkt:019f7465-495f-7aab-8def-2b9278709782",
       "time": "2026-07-18 16:43:42",
