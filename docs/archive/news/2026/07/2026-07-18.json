@@ -1,7 +1,57 @@
 {
   "date": "2026-07-18",
-  "count": 701,
+  "count": 706,
   "items": [
+    {
+      "id": "mkt:019f747c-6d5d-7aab-8def-6c2c3ed93fab",
+      "time": "2026-07-18 17:08:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ZTE unveils OEX Super Node】ZTE unveiled its OEX Super Node product at the 2026 World Artificial Intelligence Conference during the company’s Full-Stack Intelligent Computing Ecosystem Forum."
+    },
+    {
+      "id": "4995434",
+      "time": "2026-07-18 17:08:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C919將首次執飛國際商業航線】從國航瞭解到，8月12日起，國航北京首都—烏蘭巴托航線將啟用C919國產大飛機執飛，每日1班，這是C919飛機首條常態化投入運營的定期國際客運航線。去程航班：CA723北京首都15:00—烏蘭巴托17:15；返程航班：CA724烏蘭巴托18:30—北京首都20:35。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f747a-e87e-7aab-8def-673e2793b1f5",
+      "time": "2026-07-18 17:07:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's Ministry of Oil signed two supplemental agreements with Chevron (CVX.N) to develop oilfields and energy infrastructure."
+    },
+    {
+      "id": "4995433",
+      "time": "2026-07-18 17:07:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊拉克石油部與美國雪佛龍公司簽署兩項補充協議，共同開發油田和能源基礎設施。"
+    },
+    {
+      "id": "mkt:019f747a-3b27-7aab-8def-5f2df6af3b93",
+      "time": "2026-07-18 17:06:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sichuan issues yellow heat warning; several areas may exceed 40°C】Sichuan Meteorological Observatory issued a yellow high-temperature warning at 15:30 on July 18. From July 19–23 most of the basin will see daily highs of 35–39°C; eastern Mianyang, Deyang, Chengdu, Meishan and Leshan, southern Guangyuan, and parts of Nanchong, Suining, Ziyang, Neijiang and Zigong could reach 40°C or above."
+    },
     {
       "id": "4995432",
       "time": "2026-07-18 17:06:01",

@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-18 17:06:59",
-  "count": 19058,
+  "updated": "2026-07-18 17:10:59",
+  "count": 19057,
   "items": [
+    {
+      "id": "mkt:019f747c-6d5d-7aab-8def-6c2c3ed93fab",
+      "time": "2026-07-18 17:08:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【ZTE unveils OEX Super Node】ZTE unveiled its OEX Super Node product at the 2026 World Artificial Intelligence Conference during the company’s Full-Stack Intelligent Computing Ecosystem Forum."
+    },
+    {
+      "id": "4995434",
+      "time": "2026-07-18 17:08:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【C919將首次執飛國際商業航線】從國航瞭解到，8月12日起，國航北京首都—烏蘭巴托航線將啟用C919國產大飛機執飛，每日1班，這是C919飛機首條常態化投入運營的定期國際客運航線。去程航班：CA723北京首都15:00—烏蘭巴托17:15；返程航班：CA724烏蘭巴托18:30—北京首都20:35。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f747a-e87e-7aab-8def-673e2793b1f5",
+      "time": "2026-07-18 17:07:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CVX.N",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's Ministry of Oil signed two supplemental agreements with Chevron (CVX.N) to develop oilfields and energy infrastructure."
+    },
+    {
+      "id": "4995433",
+      "time": "2026-07-18 17:07:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "伊拉克石油部與美國雪佛龍公司簽署兩項補充協議，共同開發油田和能源基礎設施。"
+    },
+    {
+      "id": "mkt:019f747a-3b27-7aab-8def-5f2df6af3b93",
+      "time": "2026-07-18 17:06:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Sichuan issues yellow heat warning; several areas may exceed 40°C】Sichuan Meteorological Observatory issued a yellow high-temperature warning at 15:30 on July 18. From July 19–23 most of the basin will see daily highs of 35–39°C; eastern Mianyang, Deyang, Chengdu, Meishan and Leshan, southern Guangyuan, and parts of Nanchong, Suining, Ziyang, Neijiang and Zigong could reach 40°C or above."
+    },
     {
       "id": "4995432",
       "time": "2026-07-18 17:06:01",
@@ -175675,64 +175725,6 @@
         "公司"
       ],
       "text": "市場訊息：維珍理財（Virgin Money）前執行長加迪亞將領導英國審計監管機構FRC。"
-    },
-    {
-      "id": "mkt:019f5071-99f8-7aab-8d3c-d51684d3d80b",
-      "time": "2026-07-11 17:10:49",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Ukrainian military said it struck 21 Russian oil tankers overnight."
-    },
-    {
-      "id": "4982171",
-      "time": "2026-07-11 17:09:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭軍方稱在夜間襲擊了21艘俄羅斯油輪。"
-    },
-    {
-      "id": "mkt:019f5070-9ea0-7aab-8d3c-cb3d593bc3c5",
-      "time": "2026-07-11 17:09:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: Israel carried out two air strikes on Kafr Tibnit in southern Lebanon."
-    },
-    {
-      "id": "4982170",
-      "time": "2026-07-11 17:08:33",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【多家A股公司預計業績大增 儲存、鋰礦、有色等頭部企業表現亮眼】7月10日晚間，多家A股公司釋出2026年半年度業績預告，儲存、鋰電上游資源、有色等多個賽道頭部企業集體交出亮眼成績單，部分公司上半年淨利潤實現10倍以上增長，行業景氣度大幅提升。從行業層面來看，受人工智慧相關需求增長影響，網際網路資料中心等領域對企業級儲存產品的需求持續增加，儲存晶片行業保持高景氣度，相關產品價格較上年同期穩步上漲，業內企業普遍實現高增長。鋰電行業自2025年下半年以來持續修復基本面，業內企業業績迎來複蘇，其中鋰電上游礦端及鋰鹽端受益最為明顯。除鋰礦外，受新能源、人工智慧產業需求拉動，上半年銅、鎢、鋁、稀土等有色金屬價格水漲船高，相關上市公司收穫業績釋放紅利。作為有色金屬中的漲幅明星，鎢精礦價格上半年同比增幅超350%，拉動相關上市公司業績大增。"
-    },
-    {
-      "id": "4982169",
-      "time": "2026-07-11 17:08:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西壯族自治區貴港市委原常委、市人民政府原副市長潘漢勝被開除黨籍和公職】據廣西壯族自治區紀委監委訊息：經自治區黨委批准，自治區紀委監委對貴港市委原常委、市人民政府原副市長潘漢勝嚴重違紀違法問題進行了立案審查調查。經查，潘漢勝喪失理想信念，背棄初心使命，對黨不忠誠不老實，對抗組織審查；無視中央八項規定精神，收受可能影響公正執行公務的禮品禮金；違背組織原則，隱瞞不報個人有關事項；私慾膨脹，以權謀私，大搞權錢交易，利用職務便利在工程承攬、專案推進、用地規劃調整等方面為他人謀利，並非法收受鉅額財物。潘漢勝嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經自治區紀委常委會會議研究並報自治區黨委批准，決定給予潘漢勝開除黨籍處分；由自治區監委給予其開除公職處分；終止其自治區第十二次黨代會代表、貴港市第六次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。"
-    },
-    {
-      "id": "mkt:019f506e-63ef-7aab-8d3c-c346514b29eb",
-      "time": "2026-07-11 17:07:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Zelenskiy: Russian overnight strike on Kyiv injures 11, urges faster air-defence deliveries】Ukrainian President Zelenskiy said a Russian overnight attack on Kyiv injured 11 people, including a child, and damaged residential, office and other civilian facilities; some infrastructure was hit before air-raid warnings were issued. Russian forces launched more than 120 drones and 12 missiles, roughly half of the missiles ballistic; Ukrainian air defences intercepted most targets but failed to stop the ballistic missiles. Odesa, Sumy, Kharkiv and Chernihiv regions are undertaking restoration work. Zelenskiy urged partners to deliver on NATO summit aid pledges, calling for rapid finalisation of a Patriot system licensing agreement and a European joint missile-defence project and saying all institutions should prioritise implementation."
     }
   ]
 }
