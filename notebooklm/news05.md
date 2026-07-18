@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-19 00:05:55_
-_本檔包含 3607 則快訊，約 720753 字_
+_更新時間：2026-07-19 01:08:25_
+_本檔包含 3615 則快訊，約 722019 字_
+
+---
+
+### 2026-07-13 23:32:29  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
+
+US 3-month Treasury auction through July 13 — percentage of allotment awarded at the stop-out yield 8.47%, previous 93.49%.
+
+---
+
+### 2026-07-13 23:32:23  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+US 3-month Treasury auction on July 13: bid-cover ratio 2.84, prior 2.58.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Market Themes #AI Revolution #DXY #Impact bearish #S&P500 #EURUSD #Impact bullish
+
+【Apollo warns dollar vulnerable to AI-driven sell-off】Apollo Global Management chief economist Torsten Slok said the dollar’s recent strength is vulnerable if an AI-led equity sell-off intensifies. He noted international investors’ heavy, largely unhedged allocation to AI themes has driven record rolling net foreign inflows into US equities over the past 12 months, boosting dollar demand as buyers convert local currency into dollars. With US rates high, hedging costs remain elevated, making dollar moves more sensitive to equity flows. Slok warned that a loss of confidence in AI triggering equity outflows would pose material downside risk to the dollar.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #WTI
+
+US 6-month Treasury auction stop-out yield 3.86% as of July 13, versus 3.83% prior.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
+
+US 3-month Treasury auction (settlement July 13) stop-out yield 3.76% vs 3.74% prior.
+
+---
+
+### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
+
+U.S. 6-month Treasury auction on July 13 bid-cover ratio 3.11; prior 3.05.
+
+---
+
+### 2026-07-13 23:32:13  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+US 6-month Treasury auction on July 13: share of allotment at the stop-out yield 54.42%, previous 0.86%.
+
+---
+
+### 2026-07-13 23:32:07  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 2.84 | previous 2.58
+
+---
+
+### 2026-07-13 23:32:07  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction High Yield Rate (Jul.13) | actual 3.76% | previous 3.74%
+
+---
+
+### 2026-07-13 23:32:07  #MKT News #Economic Calendar
+
+United States | 3-Month Bill Auction Accepted at High (Jul.13) | actual 8.47% | previous 93.49%
+
+---
+
+### 2026-07-13 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 3.11 | previous 3.05
+
+---
+
+### 2026-07-13 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction High Yield Rate (Jul.13) | actual 3.86% | previous 3.83%
+
+---
+
+### 2026-07-13 23:32:03  #MKT News #Economic Calendar
+
+United States | 6-Month Bill Auction Accepted at High (Jul.13) | actual 54.42% | previous 0.86%
+
+---
+
+### 2026-07-13 23:31:01  #市場 #央行 #國際
+
+【美國2年期國債收益率升至2025年以來最高 因油價躍升】短端美國國債收益率升至2025年初以來最高水平，伊朗局勢再度緊張推升油價，令市場猜測美聯儲可能需加息抗通脹。對利率敏感的2年期美債收益率一度上漲4個基點，至4.25%，為2025年2月以來最高；5年期收益率也觸及類似高點，報4.35%。基準10年期美債收益率上漲3個基點，至4.60%，為5月份以來最高。在美國和伊朗新一輪互襲後，布倫特原油上漲5%。雙方就霍爾木茲海峽是否仍然開放給出了相互矛盾的說法。美國總統唐納德·特朗普稱美國正在“恢復”對伊朗船隻的封鎖後，債券市場跌幅擴大。
+
+---
+
+### 2026-07-13 23:30:46  #市場
+
+【義大利銀行板塊有望連續兩天創收盤歷史新高】德國DAX 30指數初步收漲0.20%，報25117.05點。法國股指初步收漲0.18%，義大利股指初步收漲0.25%、銀行指數漲0.29%，英國股指初步收漲0.01%。
+
+---
+
+### 2026-07-13 23:30:43  #國際
+
+歐洲STOXX 600指數初步收跌0.05%，報640.77點。歐元區STOXX 50指數初步收跌0.04%，報6267.47點。富時泛歐績優300指數初步收跌0.10%，報2564.37點。
+
+---
+
+### 2026-07-13 23:30:41  #國際
+
+博世：計劃至 2031 年在美國業務最高投資 75 億美元。
+
+---
+
+### 2026-07-13 23:30:00  #Trading Economics #Economy #Bonds #Importance 1
+
+Bonds Update: France 10Y Bond Yield Rises by 15 bps — Government bonds yields are higher on Monday. Top gainers are France 10Y (15.30bps), US 10Y (3.90bps), Germany 10Y (3.65bps) and Japan 10Y (2.49bps).
+
+---
+
+### 2026-07-13 23:29:48  #國際
+
+博世宣佈與美國商務部達成 2.25 億美元直接資助協議，該資金為其在羅斯維爾 20 億美元投資專案的組成部分。
+
+---
+
+### 2026-07-13 23:28:28  #市場 #國際
+
+【機構：標普500指數EPS動能有望繼續強勁上行】儘管在經歷了“爆炸性”增長的第一季度後，市場對標普500指數第二季度的每股收益（EPS）預期已經很高，但美國銀行證券指出，目前“沒有任何跡象表明盈利動能正在減弱”。由Savita Subramanian領銜的策略師團隊在週一的研報中寫道，美國銀行預計第二季度每股收益為85.50美元，同比增長28%；並將2026年的每股收益預期從335美元上調至345美元，即全年增長26%。市場共識預計，在第一季度增長27%之後，標普500指數第二季度的每股收益將同比增長22%。
+
+---
+
+### 2026-07-13 23:28:12  #MKT News
+
+Erdogan announced a new 1 trillion lira program to give manufacturing firms access to concessional-rate loans.
+
+---
+
+### 2026-07-13 23:28:02  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
+
+Prime Minister Starmer has agreed to the UK joining a £78 billion loan package to support Ukraine.
+
+---
+
+### 2026-07-13 23:27:57  #其他
+
+土耳其總統埃爾多安：推出總額 1 萬億里拉新信貸計劃，為製造企業爭取低息貸款創造條件。
+
+---
+
+### 2026-07-13 23:27:43  #國際
+
+英國首相斯塔默達成協議，英國將參與 780 億英鎊烏克蘭援助貸款計劃。
+
+---
+
+### 2026-07-13 23:27:34  #Trading Economics #Markets #Commodity #Importance 2
+
+US Natgas Prices Fall to 2-Month Low — US natural gas prices fell more than 2% to below $2.90 per MMBtu, the lowest level in two months, pressured by rising production, weaker demand expectations, and lower LNG export flows during planned maintenance at Freeport LNG in Texas. Market estimates showed inventories were expected to remain around 6.6% above the five-year average for the week ended July 10, reflecting comfortable supply conditions. The latest EIA data showed US gas stocks were already 6.6% above the seasonal average as of July 3, supported by mild spring weather that allowed producers to build inventories. Gas output in the Lower 48 states increased to 110.2 billion cubic feet per day in July so far, up from 110.0 bcfd in June. Although warmer-than-normal temperatures are forecast through July 28, supporting power sector demand, lower LNG feedgas flows due to Freeport LNG’s maintenance shutdown are expected to weigh on the market.
+
+---
+
+### 2026-07-13 23:25:59  #其他
+
+土耳其總統埃爾多安：將附帶投資承諾的貸款計劃規模擴大至 7500 億里拉。
+
+---
+
+### 2026-07-13 23:24:42  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+【Shenzhen office sales jump 103% in 1H to six-year high】Primary and secondary office transactions in Shenzhen totaled 6,567 units in 1H 2026, up 103% YoY and the highest in six years, the Shenzhen Housing and Urban‑Rural Development Bureau said. Qianhai’s targeted support for cross‑border e‑commerce, tech and Hong Kong‑funded firms has concentrated buyer demand. Leasing momentum carried into Q2 as AI and semiconductor tenants expanded, pushing citywide Grade‑A office vacancy rates down for a third consecutive quarter. Commercial apartment transactions also hit a five‑year high in 1H 2026 after January 2026 cuts to commercial property downpayments from 50% to 30%, which materially lowered the purchase threshold and lifted volumes.
+
+---
+
+### 2026-07-13 23:24:39  #國際
+
+美國聯邦通訊委員會主席卡爾： 美國聯邦通訊委員會有權監督迪士尼管理層有關多元、公平與包容（DEI）相關決策。 華納的交易不應以 CNN 為附加條件。
+
+---
+
+### 2026-07-13 23:24:09  #市場
+
+萊茵金屬股價大幅下跌，最新跌幅 4.5%。
+
+---
+
+### 2026-07-13 23:23:14  #市場
+
+【創6年新高！深圳寫字樓上半年成交量大增103%】深圳市住建局資料顯示，今年上半年，深圳全市一、二手寫字樓成交6567套，同比大幅增長103%，創6年新高。深圳前海作為深港融合示範區，對跨境電商、科技企業、港資企業等均有針對性扶持政策，區位優勢疊加政策紅利，吸引大量相關企業在此購入物業。在商業用房買賣交易大漲的同時，二季度，深圳甲級寫字樓租賃市場也延續回暖態勢。人工智慧、半導體等科創企業持續擴租，推動深圳全市甲級寫字樓空置率連續三個季度回落。此外，隨著產業持續發展帶動人才大量流入，深圳公寓市場也表現亮眼。深圳市住建局資料顯示，2026年上半年全市商務公寓成交量創5年來新高。首付政策的調整成為此輪公寓成交放量的重要催化劑。今年1月，深圳將商業用房購房首付比例從50%下調至30%，大大降低了商業用房購買門檻，不少公寓專案成交量大幅提升。（央視財經）
+
+---
+
+### 2026-07-13 23:23:02  #國際
+
+【歐盟未就第21輪對俄製裁達成一致】當地時間7月13日，歐盟成員國外長會結束，各成員國未能就第21輪對俄羅斯制裁方案達成一致，相關方案因存在分歧而未獲透過。歐盟外交與安全政策高階代表卡拉斯在當天歐盟外長會後表示，成員國圍繞第21輪對俄製裁方案的相關磋商仍將進行。由於歐盟對俄製裁需獲得27個成員國一致同意，任何成員國反對都將導致方案無法透過。（央視新聞）
+
+---
+
+### 2026-07-13 23:22:48  #公司 #國際
+
+美國聯邦通訊委員會主席卡爾：亞馬遜收購全球星或將推動手機直連衛星業務發展。
+
+---
+
+### 2026-07-13 23:22:13  #國際
+
+市場訊息：法國總統馬克龍主持召開所謂 “自願聯盟” 會議，約 30 國國家元首出席，會議正式啟幕。
+
+---
+
+### 2026-07-13 23:20:27  #Trading Economics #Markets #Commodity #Importance 0
+
+Palladium Trades Lower — Palladium fell below $1,260 per ounce as investors weighed geopolitical risks against a weakening demand outlook. The US and Iran continued exchanging strikes, while uncertainty over the Strait of Hormuz kept oil prices elevated, amid conflicting claims over whether the waterway remained open. Rising inflation concerns reinforced expectations that the Federal Reserve will raise interest rates by year-end, weighing on sentiment of non-yielding assets. Meanwhile, demand for palladium remained under pressure as the shift toward electric vehicles continued to reduce consumption from gasoline-powered vehicles, while ongoing substitution by automakers in favor of platinum further limited the metal's upside. On the supply side, South Africa's Sibanye-Stillwater announced plans to advance seven primary platinum group metals mining projects, with the first phase already approved.
 
 ---
 
@@ -21634,169 +21838,5 @@ Ukrainian President Zelenskiy urged Ukraine’s diplomatic efforts to focus on p
 ### 2026-07-12 01:09:29  #宏觀 #焦點
 
 【我國生源地助學貸款累計發放6207億元 資助學生6821萬人次】記者從教育部瞭解到，今年，生源地信用助學貸款開辦已進入第20個年頭。近20年來，我國生源地信用助學貸款已經累計發放貸款6207億元、資助學生6821萬人次。從2007年的甘肅、江蘇、湖北、重慶、陝西五省市試點，到如今覆蓋全國，教育部會同財政部、金融監管總局、中國人民銀行等部門，持續完善國家助學貸款政策，透過上調貸款額度、拓寬使用範圍、下調貸款利率，疊加在校全額貼息、還本寬限期、信用修復等暖心服務，打消家庭經濟困難學生求學顧慮，讓廣大學生只要考得上，都能讀得起。（央視新聞）
-
----
-
-### 2026-07-12 01:03:07  #其他
-
-【國家海洋預報臺持續釋出海浪紅色警報】記者從自然資源部獲悉，國家海洋預報臺11日22點繼續釋出海浪紅色警報。受今年第9號颱風“巴威”的影響，預計7月11日夜間到12日夜間，東海南部將出現8到12米的狂浪到狂濤區，東海北部、臺灣海峽將出現5到8米的巨浪到狂浪區，近海海域海浪預警級別為橙色；浙江近岸海域將出現6到9米的狂浪到狂濤，福建北部近岸海域將出現4到6米的巨浪到狂浪，該近岸海域海浪預警級別為紅色，上海近岸海域將出現3.5到5米的大浪到巨浪，該近岸海域海浪預警級別為橙色，江蘇南部、福建南部近岸海域將出現2.5到3.8米的大浪，該近岸海域海浪預警級別為黃色，山東南部、江蘇北部近岸海域將出現2到3米的中浪到大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。（央視新聞）
-
----
-
-### 2026-07-12 01:00:51  #其他
-
-【受“巴威”影響 上海兩機場計劃取消航班653架次】記者從上海機場瞭解到，受今年第9號颱風“巴威”影響，12日上海浦東機場和虹橋機場通行能力將出現下降，近三成進出港航班調減取消。兩機場計劃取消進出港航班653架次，其中，浦東機場458架次、虹橋機場195架次。上海機場提醒旅客及時向所乘航司瞭解查詢航班最新動態，合理安排出行。（央視新聞）
-
----
-
-### 2026-07-12 00:59:51  #其他
-
-委內瑞拉國民議會議長豪爾赫·羅德里格斯表示，地震已造成4,333人死亡，16,740人受傷。
-
----
-
-### 2026-07-12 00:58:40  #MKT News #WTI #Impact bearish #Brent
-
-【US pushes to reopen Iraq‑Syria oil pipeline to bypass Strait of Hormuz】Middle East Eye reports the US is working with Iraq and Syria to rehabilitate an about 800 km pipeline from Kirkuk to the Mediterranean port of Baniyas to enable Iraqi crude exports that bypass the Strait of Hormuz. An agreement is expected to be announced during Iraqi PM Ali al‑Zaidi’s planned White House meeting with Trump next week. The pipeline has been out of service for decades and is severely damaged; a senior official said it will likely require full reconstruction, a project expected to take two to three years. A group of US companies has been recruited to participate.
-
----
-
-### 2026-07-12 00:48:06  #公司
-
-馬斯克社交媒體發文稱，OpenAI CEO奧特曼把詐騙提升到了一個全新的高度。奧特曼回應馬斯克：“是你一直在向公開市場投資者兜售短期太空資料中心專案。”
-
----
-
-### 2026-07-12 00:47:41  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-IRNA reports explosions heard in Erbil and Sulaymaniyah in northern Iraq.
-
----
-
-### 2026-07-12 00:45:44  #MKT News
-
-【Qatar, Jordan discuss regional tensions, urge de-escalation】Qatari prime minister and foreign minister held a phone call with Jordan's deputy prime minister and foreign minister to discuss the current US‑Iran escalation, Qatar's foreign ministry said. Both stressed diplomacy and de‑escalation; Qatar called for implementation of the US‑Iran memorandum of understanding and maintenance of freedom of navigation in the Strait of Hormuz.
-
----
-
-### 2026-07-12 00:41:58  #公司
-
-OpenAI CEO奧特曼：大量基準測試資料都表明5.6 Sol是目前全球效能最強的模型，但最有力的佐證是，埃隆（馬斯克）又一門心思盯著我了。
-
----
-
-### 2026-07-12 00:37:26  #其他
-
-【“巴威”已登陸！專家提醒：登陸≠危險解除 這些區域有大暴雨】
-7月11日23時20分前後，今年第9號颱風“巴威”以颱風級在浙江省玉環市坎門街道沿海登陸，成為今年以來登陸我國的最強颱風。登陸後,“巴威”將繼續給福建、浙江等地製造強風雨，隨後深入內陸，由於其“體型”龐大，強降雨將波及江西、安徽、湖北、河南、京津冀等十餘省區市。
-
-登陸並不等於危險解除，專家分析稱，“巴威”體型龐大、強度強，其帶來的影響持續時間長、範圍廣，11日至12日其主體和遠距離水汽輸送將給我國華東及華北、東北帶來強降雨，東南沿海有持續大風。13日至15日“巴威”的低壓以及殘渦還會陸續影響到江漢、黃淮、華北、東北等地。
-
-11日夜間到12日，浙江東部和中南部、福建北部、江西東北部、北京、天津北部、河北中北部、遼寧西部、吉林北部、四川盆地西部、臺灣島等地部分地區有大暴雨，局地特大暴雨，其中北京東北部和南部、河北中部和東北部、天津北部局地有250~300毫米，浙江東部和南部、安徽南部、臺灣島局地有250~450毫米。
-
-
-之後，“巴威”還將深入內陸，12日至13日給江西、安徽、江蘇等地帶來強降雨，部分地區有大暴雨或特大暴雨。13日之後“巴威”殘餘環流還會繼續北上，13日至14日黃淮、華北將有明顯降雨，14日至15日東北等地也可能出現強降雨。（央視新聞）
-
----
-
-### 2026-07-12 00:31:49  #國際
-
-市場資訊：美國參與一項伊敘管道專案籌備計劃，該管線旨在繞開霍爾木茲海峽。
-
----
-
-### 2026-07-12 00:30:49  #國際
-
-特朗普：我剛在沃爾特里德醫療中心完成一次完美體檢，我每半年都會做一次體檢。這次我主動要求再加做一套認知能力測試，我是唯一先後三次主動接受該項測試的總統，而且三次測試全部拿滿分，所有題目全部答對。華盛頓沒幾個人能做到這點。
-
----
-
-### 2026-07-12 00:30:11  #國際
-
-特朗普：瑪吉·哈格曼十年來對我的報道全是歪曲抹黑。她寫的書簡直荒唐可笑，九成內容都是假新聞。她靠失真報道謀生，而等我們針對日漸衰敗的《紐約時報》發起的數十億美元訴訟開庭後，她必將付出代價，這場庭審不會讓大家等太久。我不介意負面報道，前提是內容屬實。但我絕不能容忍虛假報道，就像她這本乏味的書裡寫的內容，還有她過去十一年一貫的操作——她從頭到尾只有一個目的，就是讓我輸掉大選。可如今我穩坐橢圓辦公室，反觀她的算計，根本沒能得逞。瑪吉就是個失敗者！如果她肯如實寫下我的真實經歷，那故事其實平淡無奇，字裡行間卻全是我的累累功績。
-
----
-
-### 2026-07-12 00:29:16  #國際
-
-克里姆林宮發言人明確否認莫斯科有意發動第三次世界大戰，同時警告，西方大規模向烏克蘭提供軍事援助加劇了這場危機。
-
----
-
-### 2026-07-12 00:27:26  #MKT News
-
-US President Trump said he completed a perfect physical at Walter Reed Hospital, undergoes a physical every six months, requested an additional cognitive test—he said he is the only president to do so—and passed three cognitive tests, answering every question correctly.
-
----
-
-### 2026-07-12 00:26:51  #國際
-
-一位伊朗高階情報人士表示，美國正在對伊朗發動一場協調的壓力、威脅和媒體虛假資訊運動。
-
----
-
-### 2026-07-12 00:26:00  #MKT News
-
-【US, Lebanon discuss forming security-management committee to push Israel withdrawal from 'pilot zones'】Al Arabiya, citing sources, reported a US delegation is in Lebanon discussing creation of a committee to handle security and administrative matters and to implement a plan for Israel to withdraw from 'pilot zones'. Lebanon had said it would only join mediation in Rome if Israel withdrew from two trial areas; it has agreed to attend the Rome meeting on the condition the committee is established.
-
----
-
-### 2026-07-12 00:24:36  #國際
-
-特朗普：我要求再做一次認知測試。
-
----
-
-### 2026-07-12 00:24:28  #國際
-
-特朗普：我剛剛在沃爾特·裡德國家軍事醫療中心完成了一次完全合格的體檢。
-
----
-
-### 2026-07-12 00:20:48  #MKT News
-
-Press TV quoted a senior Iranian intelligence source saying the U.S. is conducting a coordinated campaign of pressure, threats and media disinformation against Iran.
-
----
-
-### 2026-07-12 00:17:38  #國際
-
-【伊朗、阿曼商討霍爾木茲海峽通航“相關機制”】伊朗外交部發布宣告稱，伊朗與阿曼外長於馬斯喀特舉行會晤，依據《伊斯蘭堡諒解備忘錄》第五條，就保障船舶安全通行霍爾木茲海峽的適宜機制交換了意見。
-
----
-
-### 2026-07-12 00:17:00  #MKT News
-
-【Iran, Oman foreign ministers meet in Muscat to discuss Strait of Hormuz】Iran's foreign minister led a political and legal delegation to Muscat and met Omani foreign minister Sayyid Badr Albusaidi. The two discussed bilateral ties and regional developments, with a focus on the Strait of Hormuz, and exchanged views on using mechanisms under Article 5 of the Islamabad memorandum to ensure safe passage of vessels through the strait.
-
----
-
-### 2026-07-12 00:16:49  #國際
-
-伊朗外長表示，伊朗與阿曼兩國外長已就根據伊斯蘭堡諒解備忘錄第五條，建立霍爾木茲海峽船舶安全通行“適當機制”交換了意見。
-
----
-
-### 2026-07-12 00:16:38  #國際
-
-伊朗和阿曼外長就霍爾木茲海峽問題舉行會談。
-
----
-
-### 2026-07-12 00:13:39  #MKT News
-
-According to AFP, a Lebanese military official said a US military delegation met with the Lebanese army in Beirut to discuss implementing Israel's withdrawal from a "pilot zone" in Israeli-occupied territory.
-
----
-
-### 2026-07-12 00:08:40  #MKT News #Market Regions #Greater China
-
-【Typhoon Bavi makes second landfall on Qingjiang coast in Yueqing, Wenzhou, Zhejiang】Typhoon Bavi, the year’s ninth, made a second landfall around 00:00 on the 12th on the coast at Qingjiang town, Yueqing city, Wenzhou, Zhejiang province. Maximum winds near the center reached force 13 (38 m/s); central minimum pressure was 960 hPa.
-
----
-
-### 2026-07-12 00:05:57  #其他 #焦點
-
-颱風“巴威”於12日0時前後，在浙江省溫州市樂清市清江鎮沿海二次登陸，登陸時中心附近最大風力13級（38米/秒），中心最低氣壓960百帕。 （中央氣象臺）
 
 ---

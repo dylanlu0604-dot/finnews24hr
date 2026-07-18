@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-19 00:05:55_
-_本檔包含 3830 則快訊，約 722381 字_
+_更新時間：2026-07-19 01:08:25_
+_本檔包含 3831 則快訊，約 721819 字_
+
+---
+
+### 2026-07-14 21:38:05  #Trading Economics #Economy #Germany #Government Bond 10Y #Importance 1
+
+Bund Yields Ease Slightly After US Inflation Data — Germany’s 10-year Bund yield trimmed its rise to 3.09% after softer-than-expected US inflation data for June reduced expectations for Federal Reserve rate hikes this year. However, yields remained at their highest level since May 21, as Middle East tensions raised concerns that higher energy prices could fuel inflation and push interest rates higher. The two-year bond yield, more sensitive to policy rate expectations, also climbed to 2.8%, its highest since July 2024. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, increasing uncertainty over energy flows. Markets responded by betting on further European Central Bank rate hikes, with money markets pricing in a deposit rate of 2.70% by December (up from the current 2.25%) and fully expecting a September hike.
+
+---
+
+### 2026-07-14 21:37:54  #市場
+
+HCA醫療下調年度營收預期後，醫院運營商股價集體下跌。
+
+---
+
+### 2026-07-14 21:37:43  #其他
+
+訴訟稱Meta利用人工智慧驅動軟體篩選出患病員工進行裁員。
+
+---
+
+### 2026-07-14 21:37:36  #市場
+
+受HCA醫療保健前景令人失望的影響，史賽克股價下跌6%。
+
+---
+
+### 2026-07-14 21:37:13  #MKT News
+
+Explosion reported in Ukraine's Kharkiv region.
+
+---
+
+### 2026-07-14 21:37:04  #公司 #市場
+
+蘋果公司股價下跌1.2%，此前KeyBanc將其評級從「板塊配比」下調至「低配」。
+
+---
+
+### 2026-07-14 21:36:31  #MKT News #Commodities #Energy
+
+【Hunan power load hits record high】State Grid Hunan said at 12:31 on July 14 the Hunan grid's peak load reached a record 48.09 GW, up 1.45 GW from the previous high. The province is in its first summer heatwave and demand is climbing; State Grid said power supply is currently sufficient and grid operations are stable.
+
+---
+
+### 2026-07-14 21:36:30  #MKT News #Market Themes #AI Revolution #Hang Seng Index #Impact bullish #CSI300
+
+Goldman Sachs CEO Solomon said client activity in Asia is particularly strong, partly driven by robust AI-related capital formation and investment.
+
+---
+
+### 2026-07-14 21:36:23  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Israeli forces are dropping incendiary munitions on the Raman area of southern Lebanon.
+
+---
+
+### 2026-07-14 21:36:15  #公司
+
+據悉KKR與能源資本集團即將以57億英鎊收購DCC公司。
+
+---
+
+### 2026-07-14 21:36:05  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Inch Higher After Soft CPI — US equity indices were mostly higher on Tuesday after softer inflation data shut the door on a Federal Reserve rate hike this month. The S&P 500 inched higher and the Nasdaq 100 rose 0.7%, while the Dow erased a sharp deficit to hover only slightly under the flatline. Both headline and core inflation rates declined, easing the impact of another rally in energy prices after the US and Iran maintained strikes against each other. Chip producers rebounded from yesterday's selloff with Micron and Sandisk adding 5% each, tracking major memory producers, while Nvidia rose 1%. On the other hand, the country's largest banks were lower. JPMorgan fell 2.5% despite posting its strongest profit level ever, and Bank of America dropped 1% despite beating earnings. Likewise, Wells Fargo sank 2% even though its earnings report was also seen as a beat. In turn, Goldman Sachs surged 4% on strong results for the period.
+
+---
+
+### 2026-07-14 21:36:02  #MKT News #GS.O #Impact bullish
+
+Goldman Sachs Chief Executive David Solomon said trading backlog has risen to its highest level in five years.
+
+---
+
+### 2026-07-14 21:35:48  #公司
+
+【湖南用電負荷創歷史新高】記者從國網湖南省電力公司獲悉，7月14日12時31分，湖南電網用電負荷創歷史新高，達4809萬千瓦，較上次歷史最高負荷增長145萬千瓦。湖南當下正迎來度夏首輪高溫天氣過程，各地用電負荷持續攀升，目前全省電力供應充足，電網執行安全平穩。為保障供電充足，國網湖南省電力公司配合政府部門推動巖門口電廠1號、2號機組成功投產，督促火電企業加大電煤調運和機組檢修，全省44臺火電機組執行正常，電煤庫存達613萬噸，儲備充足。公司還聯合水利、氣象等部門，實行“一庫一策”排程，有序開展攔蓄尾洪，提升水能利用效率，全省骨幹水庫蓄能值達27.88億千瓦時。（新華社）
+
+---
+
+### 2026-07-14 21:35:33  #公司 #市場
+
+自由能源公司股價上漲3.3%，此前該公司與斯倫貝謝達成戰略聯盟，合作開發資料中心基礎設施與電力業務.
+
+---
+
+### 2026-07-14 21:35:14  #國際
+
+【伊朗稱備忘錄簽署以來超200艘非伊朗船隻透過霍爾木茲海峽】伊朗波斯灣海峽管理局7月14日在社交媒體發表宣告說，自簽署諒解備忘錄至美國在該地區挑釁導致霍爾木茲海峽關閉的3周時間內，已有超200艘非伊朗船隻以協調的方式透過該海峽，其中大多數船隻獲得了通行許可和保險。（新華社）
+
+---
+
+### 2026-07-14 21:35:00  #市場
+
+富國銀行股價一度下跌4.4%，創5月以來最大跌幅.
+
+---
+
+### 2026-07-14 21:35:00  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
+
+【Moderate inflation data lowers market odds of Fed July rate hike】June inflation undershot expectations; CME's FedWatch shows probability of a Fed July rate hike fell to 17% from 42% yesterday. June CPI was -0.4% MoM and +3.5% YoY, indicating softer price trends than economists had forecast. Even excluding last month's sharp oil-price drop, inflation still came in better than expected. Spartan's Peter Cardillo said the print exceeded expectations and has sharply reduced, though not eliminated, the chance of a July hike. FedWatch still implies markets expect at least one rate hike this year.
+
+---
+
+### 2026-07-14 21:34:55  #其他
+
+【搭載旭日S600，它石智航開啟全國首個千臺級工業具身機器人規模化部署】在2026世界人工智慧大會（WAIC）即將啟幕之際，地瓜機器人宣佈與它石智航的最新合作成果，即它石智航全新一代A3輪式雙臂具身工業機器人將全面搭載旭日S600具身智慧大算力晶片，面向工業、汽車、科研等場景開啟規模化落地量產。雙方基於地瓜機器人成熟的工具鏈與軟體棧，順利完成大模型端側部署，端側推理效果達到工業級高效能標準，為全行業邊緣端具身大模型落地提供了可複用、高完成度的工程範本。此次合作標誌著具身智慧產業從單點技術創新，正式邁向"演算法+端側算力+本體"系統級規模化量產的關鍵階段。（上觀）
+
+---
+
+### 2026-07-14 21:34:53  #MKT News #IBM.N #Impact bearish
+
+IBM (IBM.N) shares fell 26%, marking the largest intraday decline in the company's history.
+
+---
+
+### 2026-07-14 21:34:36  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
+
+【Fed-focused services inflation measure flat in June】Overseas media reported Tuesday's US CPI missed expectations; core CPI and related persistence gauges also undershot. The Fed-tracked services ex-energy inflation measure was flat in June after a 0.3 pct rise in May. Fed officials, concerned that underlying or structural inflation may persist, have flagged services inflation as a key watch because services price pressures are typically more persistent and evolve more slowly than energy.
+
+---
+
+### 2026-07-14 21:34:32  #MKT News #Market Themes #AI Revolution
+
+Goldman Sachs CEO David Solomon said the AI investment cycle is expanding capital demand beyond core technology, infrastructure, energy and data centers.
+
+---
+
+### 2026-07-14 21:34:29  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #DXY
+
+JP Morgan CEO Dimon said market participants need not panic when banks fail.
+
+---
+
+### 2026-07-14 21:34:17  #MKT News #Market Regions #Wall Street (US) #GS.N #Impact bullish #JPM.N #Impact bearish #WFC.N
+
+U.S. bank stocks were mixed: Goldman Sachs (GS.N) rose more than 5%, Morgan Stanley (MS.N) rose over 2%, JPMorgan Chase (JPM.N) fell about 1%, and Wells Fargo (WFC.N) dropped more than 4%.
+
+---
+
+### 2026-07-14 21:33:46  #公司 #觀點
+
+高盛執行長表示，人工智慧投資週期正在推升資本需求，需求範圍已超出核心科技與基礎設施領域，延伸至能源以及資料中心行業。
+
+---
+
+### 2026-07-14 21:33:30  #市場 #觀點
+
+高盛股價在第二季度業績超預期後繼續上漲，漲幅達5.2%。
+
+---
+
+### 2026-07-14 21:33:23  #公司 #市場 #國際
+
+高塔半導體(Tower Semiconductor)在美國上市的股票上漲16.5%，此前該公司宣佈獲得日本政府約10億美元的投資。
+
+---
+
+### 2026-07-14 21:33:19  #MKT News
+
+Czech foreign minister says Prague is negotiating to acquire an Israeli air-defence system.
+
+---
+
+### 2026-07-14 21:33:09  #市場 #觀點
+
+高盛股價在第二財季業績公佈後上漲4.5%。
+
+---
+
+### 2026-07-14 21:32:49  #公司 #市場 #觀點
+
+摩根士丹利股價上漲2%，此前公佈了財報。
+
+---
+
+### 2026-07-14 21:32:39  #國際
+
+市場訊息：以色列對黎巴嫩南部發動襲擊。
+
+---
+
+### 2026-07-14 21:32:36  #MKT News #JPM.O #Impact bullish
+
+JP Morgan's CFO said the range of regulatory volatility in the banking sector is narrowing.
+
+---
+
+### 2026-07-14 21:32:21  #市場
+
+富國銀行股價在公佈第二季度業績後下跌3.2%。
+
+---
+
+### 2026-07-14 21:32:04  #國際
+
+國際能源署（IEA）警告稱，歐盟甲烷法規可能會限制歐盟內部的石油供應選擇。
+
+---
+
+### 2026-07-14 21:31:52  #MKT News #Important #IBM.N #Impact bearish
+
+IBM (IBM.N) plunged 23%, its largest intraday drop since 1987.
+
+---
+
+### 2026-07-14 21:31:21  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
+
+U.S. equities opened mixed on Tuesday, July 14: Dow Jones Industrial Average down 65.95 points (-0.13%) at 52,432.69; S&P 500 up 17.48 points (+0.23%) at 7,532.82; Nasdaq Composite up 162.84 points (+0.63%) at 26,036.02.
 
 ---
 
@@ -22922,209 +23132,5 @@ Axios: a U.S. official said U.S. Central Command will announce later on Monday t
 ### 2026-07-13 23:32:41  #焦點 #國際
 
 據Axios記者： 新一輪海上封鎖尚未生效，相關法規要求需提前 24 小時通知船東。一名美國官員表示，美軍中央司令部將於週一晚些時候公佈具體實施時間。
-
----
-
-### 2026-07-13 23:32:29  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish #EURUSD
-
-US 3-month Treasury auction through July 13 — percentage of allotment awarded at the stop-out yield 8.47%, previous 93.49%.
-
----
-
-### 2026-07-13 23:32:23  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-US 3-month Treasury auction on July 13: bid-cover ratio 2.84, prior 2.58.
-
----
-
-### 2026-07-13 23:32:22  #MKT News #Market Themes #AI Revolution #DXY #Impact bearish #S&P500 #EURUSD #Impact bullish
-
-【Apollo warns dollar vulnerable to AI-driven sell-off】Apollo Global Management chief economist Torsten Slok said the dollar’s recent strength is vulnerable if an AI-led equity sell-off intensifies. He noted international investors’ heavy, largely unhedged allocation to AI themes has driven record rolling net foreign inflows into US equities over the past 12 months, boosting dollar demand as buyers convert local currency into dollars. With US rates high, hedging costs remain elevated, making dollar moves more sensitive to equity flows. Slok warned that a loss of confidence in AI triggering equity outflows would pose material downside risk to the dollar.
-
----
-
-### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #XAUUSD #Impact bearish #WTI
-
-US 6-month Treasury auction stop-out yield 3.86% as of July 13, versus 3.83% prior.
-
----
-
-### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact bullish #EURUSD #Impact bearish
-
-US 3-month Treasury auction (settlement July 13) stop-out yield 3.76% vs 3.74% prior.
-
----
-
-### 2026-07-13 23:32:22  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish
-
-U.S. 6-month Treasury auction on July 13 bid-cover ratio 3.11; prior 3.05.
-
----
-
-### 2026-07-13 23:32:13  #MKT News #Macro & Rates #Treasury Yields #US10Y
-
-US 6-month Treasury auction on July 13: share of allotment at the stop-out yield 54.42%, previous 0.86%.
-
----
-
-### 2026-07-13 23:32:07  #MKT News #Economic Calendar
-
-United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 2.84 | previous 2.58
-
----
-
-### 2026-07-13 23:32:07  #MKT News #Economic Calendar
-
-United States | 3-Month Bill Auction High Yield Rate (Jul.13) | actual 3.76% | previous 3.74%
-
----
-
-### 2026-07-13 23:32:07  #MKT News #Economic Calendar
-
-United States | 3-Month Bill Auction Accepted at High (Jul.13) | actual 8.47% | previous 93.49%
-
----
-
-### 2026-07-13 23:32:03  #MKT News #Economic Calendar
-
-United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 3.11 | previous 3.05
-
----
-
-### 2026-07-13 23:32:03  #MKT News #Economic Calendar
-
-United States | 6-Month Bill Auction High Yield Rate (Jul.13) | actual 3.86% | previous 3.83%
-
----
-
-### 2026-07-13 23:32:03  #MKT News #Economic Calendar
-
-United States | 6-Month Bill Auction Accepted at High (Jul.13) | actual 54.42% | previous 0.86%
-
----
-
-### 2026-07-13 23:31:01  #市場 #央行 #國際
-
-【美國2年期國債收益率升至2025年以來最高 因油價躍升】短端美國國債收益率升至2025年初以來最高水平，伊朗局勢再度緊張推升油價，令市場猜測美聯儲可能需加息抗通脹。對利率敏感的2年期美債收益率一度上漲4個基點，至4.25%，為2025年2月以來最高；5年期收益率也觸及類似高點，報4.35%。基準10年期美債收益率上漲3個基點，至4.60%，為5月份以來最高。在美國和伊朗新一輪互襲後，布倫特原油上漲5%。雙方就霍爾木茲海峽是否仍然開放給出了相互矛盾的說法。美國總統唐納德·特朗普稱美國正在“恢復”對伊朗船隻的封鎖後，債券市場跌幅擴大。
-
----
-
-### 2026-07-13 23:30:46  #市場
-
-【義大利銀行板塊有望連續兩天創收盤歷史新高】德國DAX 30指數初步收漲0.20%，報25117.05點。法國股指初步收漲0.18%，義大利股指初步收漲0.25%、銀行指數漲0.29%，英國股指初步收漲0.01%。
-
----
-
-### 2026-07-13 23:30:43  #國際
-
-歐洲STOXX 600指數初步收跌0.05%，報640.77點。歐元區STOXX 50指數初步收跌0.04%，報6267.47點。富時泛歐績優300指數初步收跌0.10%，報2564.37點。
-
----
-
-### 2026-07-13 23:30:41  #國際
-
-博世：計劃至 2031 年在美國業務最高投資 75 億美元。
-
----
-
-### 2026-07-13 23:30:00  #Trading Economics #Economy #Bonds #Importance 1
-
-Bonds Update: France 10Y Bond Yield Rises by 15 bps — Government bonds yields are higher on Monday. Top gainers are France 10Y (15.30bps), US 10Y (3.90bps), Germany 10Y (3.65bps) and Japan 10Y (2.49bps).
-
----
-
-### 2026-07-13 23:29:48  #國際
-
-博世宣佈與美國商務部達成 2.25 億美元直接資助協議，該資金為其在羅斯維爾 20 億美元投資專案的組成部分。
-
----
-
-### 2026-07-13 23:28:28  #市場 #國際
-
-【機構：標普500指數EPS動能有望繼續強勁上行】儘管在經歷了“爆炸性”增長的第一季度後，市場對標普500指數第二季度的每股收益（EPS）預期已經很高，但美國銀行證券指出，目前“沒有任何跡象表明盈利動能正在減弱”。由Savita Subramanian領銜的策略師團隊在週一的研報中寫道，美國銀行預計第二季度每股收益為85.50美元，同比增長28%；並將2026年的每股收益預期從335美元上調至345美元，即全年增長26%。市場共識預計，在第一季度增長27%之後，標普500指數第二季度的每股收益將同比增長22%。
-
----
-
-### 2026-07-13 23:28:12  #MKT News
-
-Erdogan announced a new 1 trillion lira program to give manufacturing firms access to concessional-rate loans.
-
----
-
-### 2026-07-13 23:28:02  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
-
-Prime Minister Starmer has agreed to the UK joining a £78 billion loan package to support Ukraine.
-
----
-
-### 2026-07-13 23:27:57  #其他
-
-土耳其總統埃爾多安：推出總額 1 萬億里拉新信貸計劃，為製造企業爭取低息貸款創造條件。
-
----
-
-### 2026-07-13 23:27:43  #國際
-
-英國首相斯塔默達成協議，英國將參與 780 億英鎊烏克蘭援助貸款計劃。
-
----
-
-### 2026-07-13 23:27:34  #Trading Economics #Markets #Commodity #Importance 2
-
-US Natgas Prices Fall to 2-Month Low — US natural gas prices fell more than 2% to below $2.90 per MMBtu, the lowest level in two months, pressured by rising production, weaker demand expectations, and lower LNG export flows during planned maintenance at Freeport LNG in Texas. Market estimates showed inventories were expected to remain around 6.6% above the five-year average for the week ended July 10, reflecting comfortable supply conditions. The latest EIA data showed US gas stocks were already 6.6% above the seasonal average as of July 3, supported by mild spring weather that allowed producers to build inventories. Gas output in the Lower 48 states increased to 110.2 billion cubic feet per day in July so far, up from 110.0 bcfd in June. Although warmer-than-normal temperatures are forecast through July 28, supporting power sector demand, lower LNG feedgas flows due to Freeport LNG’s maintenance shutdown are expected to weigh on the market.
-
----
-
-### 2026-07-13 23:25:59  #其他
-
-土耳其總統埃爾多安：將附帶投資承諾的貸款計劃規模擴大至 7500 億里拉。
-
----
-
-### 2026-07-13 23:24:42  #MKT News #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
-
-【Shenzhen office sales jump 103% in 1H to six-year high】Primary and secondary office transactions in Shenzhen totaled 6,567 units in 1H 2026, up 103% YoY and the highest in six years, the Shenzhen Housing and Urban‑Rural Development Bureau said. Qianhai’s targeted support for cross‑border e‑commerce, tech and Hong Kong‑funded firms has concentrated buyer demand. Leasing momentum carried into Q2 as AI and semiconductor tenants expanded, pushing citywide Grade‑A office vacancy rates down for a third consecutive quarter. Commercial apartment transactions also hit a five‑year high in 1H 2026 after January 2026 cuts to commercial property downpayments from 50% to 30%, which materially lowered the purchase threshold and lifted volumes.
-
----
-
-### 2026-07-13 23:24:39  #國際
-
-美國聯邦通訊委員會主席卡爾： 美國聯邦通訊委員會有權監督迪士尼管理層有關多元、公平與包容（DEI）相關決策。 華納的交易不應以 CNN 為附加條件。
-
----
-
-### 2026-07-13 23:24:09  #市場
-
-萊茵金屬股價大幅下跌，最新跌幅 4.5%。
-
----
-
-### 2026-07-13 23:23:14  #市場
-
-【創6年新高！深圳寫字樓上半年成交量大增103%】深圳市住建局資料顯示，今年上半年，深圳全市一、二手寫字樓成交6567套，同比大幅增長103%，創6年新高。深圳前海作為深港融合示範區，對跨境電商、科技企業、港資企業等均有針對性扶持政策，區位優勢疊加政策紅利，吸引大量相關企業在此購入物業。在商業用房買賣交易大漲的同時，二季度，深圳甲級寫字樓租賃市場也延續回暖態勢。人工智慧、半導體等科創企業持續擴租，推動深圳全市甲級寫字樓空置率連續三個季度回落。此外，隨著產業持續發展帶動人才大量流入，深圳公寓市場也表現亮眼。深圳市住建局資料顯示，2026年上半年全市商務公寓成交量創5年來新高。首付政策的調整成為此輪公寓成交放量的重要催化劑。今年1月，深圳將商業用房購房首付比例從50%下調至30%，大大降低了商業用房購買門檻，不少公寓專案成交量大幅提升。（央視財經）
-
----
-
-### 2026-07-13 23:23:02  #國際
-
-【歐盟未就第21輪對俄製裁達成一致】當地時間7月13日，歐盟成員國外長會結束，各成員國未能就第21輪對俄羅斯制裁方案達成一致，相關方案因存在分歧而未獲透過。歐盟外交與安全政策高階代表卡拉斯在當天歐盟外長會後表示，成員國圍繞第21輪對俄製裁方案的相關磋商仍將進行。由於歐盟對俄製裁需獲得27個成員國一致同意，任何成員國反對都將導致方案無法透過。（央視新聞）
-
----
-
-### 2026-07-13 23:22:48  #公司 #國際
-
-美國聯邦通訊委員會主席卡爾：亞馬遜收購全球星或將推動手機直連衛星業務發展。
-
----
-
-### 2026-07-13 23:22:13  #國際
-
-市場訊息：法國總統馬克龍主持召開所謂 “自願聯盟” 會議，約 30 國國家元首出席，會議正式啟幕。
-
----
-
-### 2026-07-13 23:20:27  #Trading Economics #Markets #Commodity #Importance 0
-
-Palladium Trades Lower — Palladium fell below $1,260 per ounce as investors weighed geopolitical risks against a weakening demand outlook. The US and Iran continued exchanging strikes, while uncertainty over the Strait of Hormuz kept oil prices elevated, amid conflicting claims over whether the waterway remained open. Rising inflation concerns reinforced expectations that the Federal Reserve will raise interest rates by year-end, weighing on sentiment of non-yielding assets. Meanwhile, demand for palladium remained under pressure as the shift toward electric vehicles continued to reduce consumption from gasoline-powered vehicles, while ongoing substitution by automakers in favor of platinum further limited the metal's upside. On the supply side, South Africa's Sibanye-Stillwater announced plans to advance seven primary platinum group metals mining projects, with the first phase already approved.
 
 ---
