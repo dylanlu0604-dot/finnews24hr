@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 12:32:53",
-  "count": 19024,
+  "updated": "2026-07-18 12:36:53",
+  "count": 19022,
   "items": [
+    {
+      "id": "4995316",
+      "time": "2026-07-18 12:34:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國足協釋出有關申思等“禁足”人員的情況通報】中國足協18日釋出有關申思等“禁足”人員的情況通報，原文如下:\n\n近日，中國足球協會關注到有關申思、祁宏參與足球青訓活動相關事件的資訊，現通報如下情況：\n\n1.《關於對原上海中遠匯麗足球俱樂部運動員申思等四人違規違紀行為的處罰決定》（足紀字〔2013〕028號）已註明，中國足球協會終身禁止申思、祁宏從事任何與足球有關的活動。\n\n2.《中國足球協會紀律準則》第二十四條針對“禁止從事任何與足球有關的活動”作明確解釋：禁止從事任何與足球有關的活動是指禁止被處罰物件從事任何與足球有關的活動（包括但不限於投資、管理、比賽或其他）。\n\n3.中國足球協會將密切關注上海市有關部門對事件的調查進展，調查結果將及時向社會通報。"
+    },
     {
       "id": "4995315",
       "time": "2026-07-18 12:29:52",
@@ -175352,37 +175360,6 @@
         "其他"
       ],
       "text": "【墨媒：中國汽車在墨西哥銷量增長迅猛】據墨西哥《經濟學家報》網站7月7日報道，從中國進口的汽車在墨西哥市場份額持續擴大，正開足馬力全速擴張。中國汽車憑藉豐富的產品矩陣、多元的車型選擇、領先的技術創新和更低的價格強勢入局。墨西哥本土車價漲幅低於通脹水平，這一市場現象在一定程度上正是由中國車企推動的。 消費者正抓住這一購車視窗期，而汽車信貸和金融服務的普及進一步放大了這一利好。截至目前，墨西哥新車銷售中貸款購車的比例已達74%至77%。 （參考訊息）"
-    },
-    {
-      "id": "4982075",
-      "time": "2026-07-11 12:34:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【三家中國企業獲世界智慧財產權組織全球獎】世界智慧財產權組織10日在瑞士日內瓦揭曉2026年度全球獎獲獎名單。在來自全球的1300多家申請企業中，11家中小企業和初創企業脫穎而出，三家中國企業榜上有名。在獲獎的中國企業中，吉美瑞生自主研發的肺再生創新療法已進入三期臨床階段，成功幫助數百位重症呼吸系統疾病患者重獲生機；脈流科技聚焦心腦血管疾病的智慧血流動力學診療，研發的智慧演算法產品可在3分鐘內無創計算血流儲備分數；博萃迴圈透過創新技術，實現了鎳、鈷、鋰等關鍵金屬的高效且經濟化回收，讓廢舊電池為新一代電池提供原材料。（新華社）"
-    },
-    {
-      "id": "4982074",
-      "time": "2026-07-11 12:34:08",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【API賬單“高過全員工資” 海外企業加速擁抱中國大模型：價效比主導模型選擇】記者採訪了美國AI初創公司Lindy、愛沙尼亞資料採集公司Floxy、AI車輛智慧分析公司VINspectorAI、加拿大律所Substance Law和英國線上教育平臺ExpertEdge等多家海外企業。多位負責人透露，遷移至中國大模型後，推理成本下降了30%至95%不等。與此同時，對比美國競品，中國AI大模型效能差距持續收窄至1%~4%，價格卻低出60%~90%。（每經）"
-    },
-    {
-      "id": "mkt:019f4f73-76d6-7aab-8d3b-a19d768ece7d",
-      "time": "2026-07-11 12:33:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Industrial Metals",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【Raw-material surge pushes Shenghong to raise full product prices 10%-30%】Shenghong Co. will raise prices across its electric power-quality, charging/swapping, energy-storage microgrid, battery formation and test, and residential storage product lines by 10%-30% effective July 21, 2026; the increase will not be applied retroactively to orders already in transit. The company says the move is a forced pass-through after core raw-material costs and lead times rose sharply: gold, silver, copper and tin up 30%-200%; PCBs, memory chips, magnetic components, SMD resistors/capacitors, IGBT chips, isolation driver chips, and breakers/relays up 50%-800% and still rising. Manufacturing costs have climbed markedly since early 2026; Shenghong says supply-chain optimization and lean measures have been insufficient and the existing price structure no longer covers cost increases."
     }
   ]
 }
