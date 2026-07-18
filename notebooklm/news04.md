@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-19 02:05:38_
-_本檔包含 3831 則快訊，約 722617 字_
+_更新時間：2026-07-19 03:18:20_
+_本檔包含 3852 則快訊，約 723024 字_
+
+---
+
+### 2026-07-14 21:56:53  #MKT News #Market Themes #AI Revolution
+
+【Shanghai executive meeting orders full-scale sprint to complete preparations for 2026 World Artificial Intelligence Conference】Shanghai municipal executive meeting, chaired by Shanghai Party deputy secretary and mayor Gong Zheng on July 14, ordered an accelerated, sprint-stage push to complete preparations for the 2026 World Artificial Intelligence Conference and the linked high-level Global AI Governance meeting, and directed stronger support for green, low-carbon agricultural development. The meeting said the conference carries a national mandate for international cooperation in AI and comes at a global inflection as AI moves from assistant tools toward intelligent partners; it will be larger and higher-level than prior editions. Shanghai will pursue highest standards, premium service and the latest成果, emphasize innovation leadership to boost international influence, and stage curated inaugural showcases to comprehensively display high-quality innovations and position the event as a globally credible AI-technology barometer.
+
+---
+
+### 2026-07-14 21:56:45  #市場
+
+UBER股價下跌2.5%。
+
+---
+
+### 2026-07-14 21:56:10  #市場
+
+UBER股價跌至盤中低點，據稱正在與DELIVERY HERO洽談合作。
+
+---
+
+### 2026-07-14 21:56:05  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
+
+White House National Economic Council director HASSETT said core inflation momentum is approaching the Fed's target.
+
+---
+
+### 2026-07-14 21:55:21  #其他
+
+市場訊息：優步（Uber）據悉正在就收購德國線上外賣訂餐平臺Delivery Hero進行深入談判。
+
+---
+
+### 2026-07-14 21:55:12  #市場
+
+百健下跌逾7%，料創2020年11月以來最大百分比跌幅。
+
+---
+
+### 2026-07-14 21:55:10  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+White House National Economic Council director Hassett said the US is confident it can get oil flowing from the Gulf region to calm markets.
+
+---
+
+### 2026-07-14 21:54:35  #其他
+
+哈塞特：我有信心將石油從墨西哥灣運出，以穩定市場。
+
+---
+
+### 2026-07-14 21:54:17  #MKT News #UBER.N #Impact mixed #DHER.DE #Impact bullish
+
+Uber (UBER.N) is in advanced talks to acquire Delivery Hero.
+
+---
+
+### 2026-07-14 21:54:05  #其他
+
+哈塞特：海軍在幫助海灣地區的友軍艦艇方面取得了進展。
+
+---
+
+### 2026-07-14 21:54:05  #其他
+
+【上海市政府常務會議部署，全力推進2026世界人工智慧大會籌備衝刺階段各項任務】上海市委副書記、市長龔正今天（7月14日）主持召開市政府常務會議，要求在市委堅強領導下，全力推進2026世界人工智慧大會暨人工智慧全球治理高階別會議籌備衝刺階段各項任務；大力推動農業綠色低碳發展。會議指出，世界人工智慧大會承擔著國家在人工智慧領域對外合作交流的重要使命。本屆大會恰逢全球人工智慧從“輔助工具”邁向“智慧夥伴”的關鍵節點，與往屆相比規模更大、能級更高，我們要以最高標準、最優服務、最新成果，向世界呈現一場國際化、高階化、專業化、年輕化的人工智慧盛會。要突出創新引領，提升國際影響，精心策劃“首展首秀”，全方位展示高質量創新成果，讓前沿思想在浦江之畔交流交融，打造具有全球公信力的人工智慧技術風向標。要突出精準精細，做優服務保障，各成員單位要細化工作方案，對重大活動全流程推演、清單化管理，確保各環節銜接緊密、運轉高效，同時要在會場內外全面部署智慧應用，讓大會成為人工智慧賦能大型活動的最佳實踐。要突出生態營造，放大溢位效應，依託創投、連結、智識、青創、出海五大生態矩陣，構建覆蓋資本、人才、技術等全鏈條創新支撐體系，營造國際一流發展環境，加快集聚高能級主體。同時，加速創新成果轉化，把實驗室的新技術、展會的新成果，快速轉化為可落地的新產品、新應用，持續培育壯大新質生產力，以人工智慧賦能各行業高質量發展。（上觀）
+
+---
+
+### 2026-07-14 21:53:34  #MKT News #JPM.O
+
+JP Morgan expects net interest income for fiscal 2026 to be about $105.5 billion.
+
+---
+
+### 2026-07-14 21:53:33  #MKT News #Macro & Rates #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
+
+WHITE HOUSE National Economic Council director HASSETT said he saw signs in CPI data that Trump's policies are working.
+
+---
+
+### 2026-07-14 21:53:20  #資料 #國際
+
+哈塞特：我們在消費者物價指數（CPI）中看到了特朗普政策取得成功的跡象。
+
+---
+
+### 2026-07-14 21:51:40  #MKT News #WTI #Impact mixed #XAUUSD #Impact bullish
+
+White House National Economic Council director HASSETT said prices had fluctuated due to Iranian influence.
+
+---
+
+### 2026-07-14 21:51:31  #國際
+
+哈塞特：由於伊朗人，價格出現了一些波動。
+
+---
+
+### 2026-07-14 21:51:12  #市場 #焦點
+
+鈀金期貨突破1300美元/盎司，日內漲3.79%。
+
+---
+
+### 2026-07-14 21:50:59  #MKT News #WTI
+
+HASSETT, director of the White House National Economic Council, said lowering gasoline prices to $3/gal is realistic.
+
+---
+
+### 2026-07-14 21:50:26  #其他
+
+哈塞特：將汽油價格降至每加侖3美元是現實的。
+
+---
+
+### 2026-07-14 21:50:11  #MKT News #WTI #Impact bearish #US10Y #Impact bullish #DXY
+
+HASSETT: A sharp fall in inf from lower gasoline prices is imminent.
+
+---
+
+### 2026-07-14 21:50:10  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh, chair of the Federal Reserve, will appear before the House Financial Services Committee in ten minutes for the Fed's semiannual monetary policy report hearing.
+
+---
+
+### 2026-07-14 21:49:31  #市場
+
+白宮國家經濟委員會主任哈塞特：汽油價格即將大幅下跌。
+
+---
+
+### 2026-07-14 21:49:23  #國際
+
+墨西哥已就本國公民在美國移民拘留期間死亡一事，向美國各州檢察官提起刑事訴訟。
+
+---
+
+### 2026-07-14 21:49:08  #MKT News #Market Themes #Chip Wars #AMD.O #Impact bullish #MU.O #MRVL.O
+
+U.S. semiconductor stocks rose in early trade; the Philadelphia Semiconductor Index gained 3.1% and the iShares Semiconductor ETF rose 3.1%. AMD (AMD.O) +3.6%, Micron Technology (MU.O) +3.5%, Western Digital (WDC.O) +4.2%, MARVELL (MRVL.O) +4.2%.
+
+---
+
+### 2026-07-14 21:49:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+White House National Economic Council director Hassett said energy prices have fallen sharply.
+
+---
+
+### 2026-07-14 21:48:51  #其他
+
+哈塞特：能源價格已經大幅下降。
+
+---
+
+### 2026-07-14 21:48:28  #市場
+
+費城SE半導體指數上漲3.1%，iShares半導體ETF上漲3.1%。
+
+---
+
+### 2026-07-14 21:48:20  #市場
+
+超威半導體（AMD）上漲3.6%，美光科技上漲3.5%，西部資料上漲4.2%，美滿電子上漲4.2%。
+
+---
+
+### 2026-07-14 21:48:15  #其他
+
+【普華永道：中國AI崗位招聘回暖】7月14日，普華永道釋出《2026年全球人工智慧就業晴雨表》顯示，中國內地AI崗位招聘回暖，AI應用加速向全行業滲透，受AI影響程度高的職業的技能轉型速度明顯更快，整體就業市場呈現結構最佳化的新特徵。
+
+---
+
+### 2026-07-14 21:48:07  #MKT News
+
+HASSETT said this is the best inf report we have seen in six years.
+
+---
+
+### 2026-07-14 21:47:59  #MKT News #GS.O #Impact bullish
+
+Goldman Sachs CFO expects full-year alternatives fundraising to exceed US$125 bln.
+
+---
+
+### 2026-07-14 21:47:40  #國際
+
+伊朗議會國家安全與外交政策委員會委員：伊朗在霍爾木茲海峽的掌控力是永久且不可動搖的。
+
+---
+
+### 2026-07-14 21:46:40  #Trading Economics #Markets #United States #stocks #Importance 1
+
+TJX Companies Stock Price Hits 8-week Low — TJX Companies shares decreased to 149.53 USD, the lowest since May 2026. Over the past 4 weeks, TJX Companies lost 10.47%, and in the last 12 months, it increased 21.24%.
+
+---
+
+### 2026-07-14 21:46:03  #觀點
+
+高盛首席財務官表示，與歷史平均水平相比，由私募股權基金支援的交易量仍顯低迷。
+
+---
+
+### 2026-07-14 21:45:46  #公司
+
+【陝西發現大型深層煤層氣田】7月14日，記者從陝西延長石油（集團）有限責任公司獲悉，該集團提交的延東煤層氣田探明地質儲量透過自然資源部評審備案，探明地質儲量約537億立方米。延東煤層氣田位於延安市延長縣和宜川縣境內，埋深超過2000米。據專家評估，延東煤層氣田探明儲量具備年產8億至10億立方米煤層氣產能建設基礎，將為陝西天然氣增儲上產提供堅強支撐。（光明日報）
+
+---
+
+### 2026-07-14 21:45:10  #國際
+
+阿曼外交大臣表示：過去幾十年，美國投入了龐大的軍費開支，也在本地區不斷擴建軍事基地，並確立了一套依賴外部保護的安全體系。然而，這一切並沒有建立起可持續的地區穩定局勢，也未能阻止戰爭與危機的爆發。
+
+---
+
+### 2026-07-14 21:44:59  #市場 #焦點
+
+白銀連續主力合約日內漲3%，現報14528.00元。
+
+---
+
+### 2026-07-14 21:43:39  #市場
+
+UL Solutions股價上漲2.5%，此前瑞銀將其評級從中性上調至買入。
 
 ---
 
@@ -23030,107 +23258,5 @@ Agentio 宣佈與 Meta 達成合作，助力品牌僅需數日即可完成從創
 ### 2026-07-14 00:05:55  #Trading Economics #Markets #Euro Area #Stock Market #Importance 1
 
 European Stocks Inch Marginally Lower — Pan-European stock indices closed marginally lower on Monday as the escalation to the war in the Middle East continued to cloud the macroeconomic backdrop for energy importers. The Euro STOXX 50 inched 0.1% down to 6,264 and the STOXX Europe 600 inched 0.1% down to 641. Sovereign yields rose together with energy prices after the US and Iran threatened to restore blockades on vessels leaving the Strait of Hormuz. Banks dropped from the tighter credit conditions, with Santander and Deutsche Bank down more than 1% each. Also, ASML lost 1.8% and Infineon dropped close to 3%, tracking losses for US and Asian counterparts after brokers noted that SK Hynix may miss its earnings guidance. In turn, the traction in oil prices aided energy producers with TotalEnergies and ENI gaining 3% and 4%, respectively.
-
----
-
-### 2026-07-14 00:05:46  #MKT News #WTI #Impact bullish #Brent
-
-A UN shipping agency spokesperson said the agency is awaiting further details on President Trump’s comment that the US would impose a 20% fee on cargo transiting the Strait of Hormuz.
-
----
-
-### 2026-07-14 00:05:39  #MKT News #Important
-
-A UN shipping agency spokesperson said there is no legal basis for imposing mandatory transit charges and the agency opposes levying fees on any straits used for international navigation.
-
----
-
-### 2026-07-14 00:04:39  #Trading Economics #Markets #France #Stock Market #Importance 0
-
-CAC 40 Rises as Energy Stocks Rally — The CAC 40 gained 0.3% to close at 8,365 on Monday, lifted by gains in the energy and luxury sectors. TotalEnergies advanced 3% as oil prices surged following a fresh wave of US strikes on Iran and conflicting statements from Washington and Tehran over the status of the Strait of Hormuz. Luxury stocks also traded higher, with Hermes up 0.9% and Kering adding 0.7%. Stellantis gained 1.8% after reporting that preliminary second-quarter vehicle shipments rose 10% year-on-year to nearly 1.6 million units, driven by strong growth in North America, its largest market. In contrast, heavyweight industrial stocks posted losses as Middle East tensions heightened market uncertainty. The spike in energy prices reignited inflation concerns, prompting markets to price in two additional ECB interest rate hikes over the next year, with the first expected in September. Airbus lost 1%, while Safran shed 1.8%.
-
----
-
-### 2026-07-14 00:04:37  #國際
-
-聯合國航運機構發言人：該機構正等待特朗普相關言論的更多細節 —— 特朗普稱美國將對經霍爾木茲海峽通行貨物徵收 20% 稅費。 反對對任何用於國際航行的海峽收取通行費。 針對海峽過境強制徵收通行費缺乏法律依據。
-
----
-
-### 2026-07-14 00:04:20  #MKT News
-
-Canadian Oil Sands Alliance says Canada’s federal government, the Alberta government and industry have agreed to advance an implementation pathway for carbon capture and storage (CCS) projects.
-
----
-
-### 2026-07-14 00:02:52  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
-
-FTSE 100 Supported by Oil Companies — The FTSE 100 was little changed on Monday as strength in energy stocks and homebuilders offset broad market weakness. Oil companies supported the index after President Donald Trump said the US would reimpose a blockade on Iran and proposed a 20% fee on cargo passing through the Strait of Hormuz, raising concerns over renewed geopolitical risks. Shell gained 2.3% and BP advanced 4.2%. Shell also announced the sale of its Indian renewable energy business, Sprng Energy, to Aditya Birla for $1.8 billion as part of its strategy to refocus on oil and gas assets. Homebuilders also benefited from reports that Andy Burnham could revive a government-backed housing support scheme, with Persimmon rising 2.6% and Barratt Redrow up 1.5%. On the other hand, mining shares were among the biggest decliners, with Fresnillo and Endeavour both down around 2.6%, while banks and pharmaceutical stocks also came under pressure.
-
----
-
-### 2026-07-14 00:02:36  #國際
-
-【IMF警告：若不解決債務問題，歐洲恐面臨“爆炸性”風險】國際貨幣基金組織（IMF）表示，如果歐洲地區不能有效管控其公共財政，其主權債務動態將面臨嚴重失控的危險。包括Luc Eyraud、Mahika Gandhi和Andrew Hodge在內的經濟學家在週一釋出的一份報告中寫道，隨著人口老齡化、能源轉型和重新武裝等挑戰日益加劇，許多國家採取的“零敲碎打式”應對方法已走到盡頭。
-
----
-
-### 2026-07-14 00:01:38  #公司 #觀點 #國際
-
-【華爾街大行將密集釋出財報 瑞銀料高盛財報與摩根大通接班人將成焦點】瑞銀分析師Erika Najarian表示，高盛在本輪財報中面臨最大的考驗，要在華爾街各大銀行中脫穎而出並不容易；與此同時，投資者正聚焦誰可能接替傑米·戴蒙出任摩根大通執行長。Najarian週一表示，“考慮到市場預期和投資者持倉，高盛面臨的考驗最大。”Najarian說，美國六大銀行中有五家將於週二公佈業績，“想要脫穎而出並不容易，尤其是我預計摩根大通的財報電話會很大程度上將圍繞接班人問題展開。”Najarian是瑞銀負責大型銀行和消費金融板塊的股票研究分析師。本週，美國市值合計超過2萬億美元的大型銀行將密集釋出財報。高盛、摩根大通、美國銀行、富國和花旗集團將於週二公佈業績，摩根士丹利則於週三釋出。相比這些行業龍頭通常為期三天的財報釋出節奏，今年時間安排更為集中。
-
----
-
-### 2026-07-14 00:01:08  #公司 #國際
-
-【英國加入歐盟援烏貸款計劃】英國首相斯塔默當地時間7月13日簽署協議，宣佈英國加入歐盟援助烏克蘭貸款計劃，旨在加強英國與歐盟在防務等領域的合作。5月28日，歐盟委員會發布公告稱，歐盟委員會與烏克蘭方面近日正式透過了向烏克蘭提供900億歐元貸款的相關協議和諒解備忘錄，首批資金預計於6月啟動撥付。 (央視新聞)
-
----
-
-### 2026-07-14 00:00:38  #焦點 #國際
-
-上週美國戰略石油儲備原油庫存減少約 300 萬桶，降至 3.165 億桶，創 1983 年以來新低。
-
----
-
-### 2026-07-14 00:00:22  #其他
-
-加拿大油砂聯盟表示，加拿大聯邦政府、艾伯塔省及多家企業已達成協議，共同推進碳捕獲與封存專案相關實施路徑建設。
-
----
-
-### 2026-07-13 23:55:49  #其他
-
-美元/瑞郎日內漲幅達0.5%，報0.8125。
-
----
-
-### 2026-07-13 23:50:32  #MKT News #Important #SKHY.O #Impact bearish
-
-SK Hynix (SKHY.O) shares fell as much as 9.9% to an intraday low.
-
----
-
-### 2026-07-13 23:49:56  #市場
-
-【英國兩年期國債收益率漲超13個基點】週一（7月13日）歐市尾盤，英國10年期國債收益率漲10.7個基點，重新整理日高至4.979%，北京時間18:00以來持續擴大漲幅。兩年期英債收益率漲13.4個基點，重新整理日高至4.355%。30年期英債收益率漲7.2個基點，50年期英債收益率漲6.5個基點。2/10年期英債收益率利差跌2.732個基點，報+62.057個基點。
-
----
-
-### 2026-07-13 23:49:43  #市場
-
-SK海力士ADR跌幅擴大至9.9%，觸及盤中低點。
-
----
-
-### 2026-07-13 23:49:27  #其他
-
-加州總檢察長表示，多個州已要求派拉蒙在相關訴訟審結前不得完成併購交易。
-
----
-
-### 2026-07-13 23:48:21  #國際
-
-【美軍稱首次在實戰中動用海上無人艇】美軍中央司令部13日說，美軍12日動用了海上無人艇打擊伊朗。這是美軍首次在實戰中動用海上無人艇。美軍中央司令部當天在社交媒體上說，美軍使用多艘“單向攻擊水面無人艇”，成功打擊伊朗一處潛艇和艦船維修設施。三艘“海盜”水面無人艇擊中阿巴斯港海軍基地的港口。美軍帖文配發一段時長25秒的影片。影片中美軍水面無人艇衝向伊朗目標，隨即發生劇烈爆炸。（新華社）
 
 ---

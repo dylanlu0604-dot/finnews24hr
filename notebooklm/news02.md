@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-19 02:05:38_
-_本檔包含 4050 則快訊，約 722459 字_
+_更新時間：2026-07-19 03:18:20_
+_本檔包含 4063 則快訊，約 722824 字_
+
+---
+
+### 2026-07-17 08:20:04  #公司 #市場 #焦點 #國際
+
+日本晶片股下跌，鎧俠市值較6月峰值縮水一半。
+
+---
+
+### 2026-07-17 08:19:23  #市場 #國際
+
+歐洲斯托克50指數期貨下跌0.4%，德國DAX指數期貨下滑0.2%，英國富時指數期貨持平。
+
+---
+
+### 2026-07-17 08:18:56  #觀點
+
+【中信證券：算電協同支撐國產算力高質量擴容】中信證券研報稱，算電協同是國產算力擴容的關鍵基礎設施，沒有算電協同就沒有國產算力的高質量發展。中國的能源體系可為國產算力提供廣袤的可擴容空間，不受電網排隊併網約束，每單位CAPEX可更高效地轉化為實際算力。國家能源局指引2030年中國資料中心耗電量為8000億度電，基於此指引預測中國資料中心“十五五”時期增量規模為78.5GW，對應資本開支為10.7萬億元。算電協同分為資料中心園區內外兩側，作為耦合電力與算力主要手段，預測對應總投資規模約為2萬億元。算電協同投資“十五五”CAGR約42%，迎來加速成長階段。
+
+---
+
+### 2026-07-17 08:18:53  #公司
+
+【雲知聲：公司近期接連拿下多家國內頭部三甲醫院的智慧醫療建設專案】雲知聲在港交所公告，近期，依託公司多年沉澱的醫療行業資料資源，同時結合對各類醫療業務場景的深度洞察，公司推出業內首款覆蓋醫療、醫保（含商業保險）、醫藥三大賽道的專業大模型 ——U2-Med 三醫大模型，進一步鞏固自身在泛醫療領域大模型賽道的領先地位。依託上述核心競爭優勢，公司近期接連拿下多家國內頭部三甲醫院的智慧醫療建設專案，合作機構包含首都醫科大學附屬北京佑安醫院、山東第一醫科大學附屬省立醫院、南京同仁醫院等區域標杆醫療機構。上述標杆專案落地，一方面持續夯實公司在高階醫療市場的核心競爭力，另一方面也標誌著公司醫療大模型商業化邁入可規模化複製的全新階段。批次落地的專案訂單充分驗證：公司醫療大模型已搭建起一套成熟完善、標準化、可快速批次複製的交付落地體系，能夠快速適配不同科室、不同等級醫院的智慧化建設需求，樹立起國內醫療大模型商業化落地的標杆樣板。
+
+---
+
+### 2026-07-17 08:18:22  #市場 #焦點
+
+現貨黃金突破3990美元/盎司，日內漲0.35%。
+
+---
+
+### 2026-07-17 08:16:37  #公司 #觀點
+
+【中信證券：xAI當前呈現“基建一線、模型二線”的特徵 Grok4.5模型及應用的商業化潛力仍待驗證】中信證券研報表示，xAI是全球AI模型產業的重要參與者，也是SpaceX“航天—連線—AI”戰略的重要組成部分。公司依託Colossus叢集、X實時資料、Grok模型及Cursor開發者入口，初步形成“算力—資料—模型—應用”閉環。我們認為，xAI當前呈現“基建一線、模型二線”的特徵，中期增長將主要來自算力租賃與Cursor，Grok4.5模型及應用的商業化潛力仍待驗證。當前公司算力基建資本開支達127億美元，但AI原生收入不足5億美元，商業化進度與基礎設施投入仍存在明顯錯配。我們認為，公司增長將主要依賴其算力租賃與Cursor的增長，其中算力租賃業務訂單規模達800億美元，是xAI增長的核心動力。當前大模型產業處於技術與商業雙重拐點，我們看好具備訂單和交付能力的AI基建廠商，以及能夠率先兌現使用者增長與商業價值的AI應用投資機會。後續重點跟蹤商業化產品形態、模型廠商競爭格局演變及收入利潤增長曲線等。
+
+---
+
+### 2026-07-17 08:15:04  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 fell 3.00% intraday to 64,828.46 points.
+
+---
+
+### 2026-07-17 08:14:54  #市場 #觀點 #國際
+
+【中信證券：霍爾木茲海峽通航問題仍將繼續擾動全球各類資產】中信證券研報表示，霍爾木茲海峽局勢再度升級，美伊的海峽控制權等核心矛盾並未因6月《伊斯蘭堡諒解備忘錄》而得到解決。備忘錄一度推動海峽通航恢復，但隨著美國推行南部航道、伊朗強化對航道的實際控制，雙方矛盾重新激化致使通航再度受阻。資產方面，預計原油短期走強，後續仍大幅波動；全球股市等風險資產仍然能走出獨立行情；黃金短期內繼續表現為風險資產受到壓制。預計美伊核心分歧短時間無法真正解決，在此之前霍爾木茲海峽通航問題仍將繼續擾動全球各類資產。
+
+---
+
+### 2026-07-17 08:14:39  #市場 #國際
+
+日本日經指數擴大跌幅，最新下跌3%至64,822.86點。
+
+---
+
+### 2026-07-17 08:14:39  #MKT News #Market Themes #AI Revolution #09678.HK
+
+Yunzhisheng (09678.HK) said it completed an iterative upgrade of its U2 base model and launched U2-Med, marketed as the industry’s first specialized large model for medical care, medical insurance (including commercial insurance) and pharmaceuticals.
+
+---
+
+### 2026-07-17 08:13:48  #宏觀 #公司
+
+【上半年全國鐵路完成固定資產投資3632億元 同比增長2.1%】2026年上半年，全國鐵路完成固定資產投資3632億元，同比增長2.1%，累計投產新線355.2公里。下一步，國鐵集團將深入貫徹落實黨中央、國務院關於完善現代化綜合交通運輸體系的部署要求，全面落實國家“十五五”規劃《綱要》確定的各項鐵路重點工程建設任務，加快推進重點專案前期工作，科學最佳化在建專案施工組織，提升鐵路投資質量和效益，確保完成全年建設任務，助力經濟社會高質量發展。
+
+---
+
+### 2026-07-17 08:13:09  #市場
+
+日經225指數在交易時段內跌破 65000 點，為 6 月 12 日以來首次。
+
+---
+
+### 2026-07-17 08:13:00  #MKT News
+
+Republican Senator Bernie Moreno said he had just been briefed by the WHITE HOUSE on tonight’s speech and urged Americans to watch President Trump’s address at 9:00 a.m. Beijing time, calling it possibly the most important Oval Office speech since the Cuban Missile Crisis.
+
+---
+
+### 2026-07-17 08:12:40  #市場
+
+日經225指數較6月份高點下跌10%。
+
+---
+
+### 2026-07-17 08:11:58  #市場
+
+標普500指數期貨下跌0.3%，納斯達克指數期貨下跌0.6%。
+
+---
+
+### 2026-07-17 08:11:52  #市場
+
+日經指數擴大跌幅，最新下跌2.6%，報65081.22點。
+
+---
+
+### 2026-07-17 08:11:20  #國際
+
+【美軍空襲伊朗南部機場、橋樑等多處基礎設施】據伊朗塔斯尼姆通訊社等多家伊朗媒體16日晚報道，美軍當天襲擊伊朗南部機場、橋樑、火車站等多處基礎設施，造成至少兩人死亡、多人死傷。據報道，錫斯坦-俾路支斯坦省的沙赫爾機場遭美軍導彈襲擊，當地居民聽到機場附近傳來三聲劇烈爆炸，造成一人受傷。該機場電力中斷，但火災已被撲滅。報道還說，當晚霍爾木茲甘省多地也遭到襲擊。美軍襲擊該省兩座橋樑，造成兩人死亡、4人受傷；襲擊該省阿巴斯港一火車站，造成兩人受傷。（新華社）
+
+---
+
+### 2026-07-17 08:11:03  #公司
+
+【警惕高薪兼職陷阱 13人因侵犯個人資訊被採取強制措施】高薪兼職？辦卡送禮？看似低成本獲利，實則暗藏重大法律風險。近期，新疆烏魯木齊公安網安部門工作中發現，章某某等人註冊多家網路科技類公司，並以招聘兼職為名，誘導網民完成各類賬號實名註冊，再將實名賬號對外售賣牟利，涉嫌侵犯公民個人資訊犯罪。經查，該起利用公司掩護收集販賣公民個人資訊案，涉案金額共計30萬餘元，章某某等13人被依法採取刑事強制措施。（央視）
+
+---
+
+### 2026-07-17 08:09:40  #公司
+
+【今年上半年全國鐵路完成固定資產投資3632億元】記者從國鐵集團獲悉，今年上半年，鐵路建設優質高效推進，全國鐵路完成固定資產投資3632億元，同比增長2.1%。
+
+---
+
+### 2026-07-17 08:08:44  #市場
+
+澳大利亞S&P/ASX 200指數早盤下跌0.3%，報8,814.20點。
+
+---
+
+### 2026-07-17 08:08:34  #公司 #市場 #國際
+
+SEVEN & I 股價上漲 5%；公司據稱正在考慮收購波蘭最大的便利店運營商ZABKA 股份。
+
+---
+
+### 2026-07-17 08:07:45  #MKT News
+
+7-Eleven parent says it is in talks to invest in Poland's largest convenience-store chain but has made no decision yet.
+
+---
+
+### 2026-07-17 08:07:15  #其他
+
+【中國獨角獸企業數量全球第二，硬科技成核心】昨日釋出的《中國獨角獸企業研究報告2026》顯示，截至2025年末，中國獨角獸企業總數達376家，較上一年增加35家；總估值達14467億美元，平均估值38.5億美元，較上年提升5.1億美元。超級獨角獸企業增至12家。中國獨角獸企業中近九成為民營企業，佔比達88.6%；高新技術企業佔比66.5%，專精特新“小巨人”企業佔比34.8%。2025年前沿科技獨角獸企業數量達320家，佔總數的85.1%，較上年提升14.9個百分點；新晉獨角獸企業中，前沿科技企業佔比更是超過九成。（央視新聞）
+
+---
+
+### 2026-07-17 08:06:59  #市場 #國際
+
+日本日經指數下跌2.1%，至65422.88點。
+
+---
+
+### 2026-07-17 08:06:49  #國際
+
+日本柒和伊控股表示，關於投資波蘭最大連鎖便利店的磋商確在進行中，但目前尚未作出任何決定。
+
+---
+
+### 2026-07-17 08:06:48  #MKT News #Important #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 fell as much as 2.00% intraday.
+
+---
+
+### 2026-07-17 08:06:21  #其他
+
+【馬斯克：部分發動機未能啟動，SpaceX星艦發射嘗試推遲】SpaceX星艦第13次試飛原定於當地時間週四下午在德克薩斯州南部的星港基地進行。這也是最新迭代版本V3火箭的第二次飛行，其將搭載20顆星鏈V3衛星執行測試任務。倒計時期間，發射測試出現狀況。SpaceX在社交媒體上發文稱，決定停止本次飛行測試嘗試。埃隆·馬斯克也發文回應稱：“部分發動機未能啟動，觸發了自動發射中止。目前正在解除安裝推進劑。下一次發射嘗試有望在幾天後進行。”
+
+---
+
+### 2026-07-17 08:05:29  #市場
+
+日經225指數下跌1.31%，報65,958.00點。
+
+---
+
+### 2026-07-17 08:04:55  #其他
+
+馬斯克在X平臺上表示：星際飛船最可能的發射時間是下週初。為了確保飛行順利，將移除並更換2臺星艦的猛禽發動機。
+
+---
+
+### 2026-07-17 08:04:45  #MKT News
+
+Musk said two Raptor engines on Starship will be removed and replaced to ensure a successful flight.
+
+---
+
+### 2026-07-17 08:04:14  #MKT News
+
+Musk said Starship is most likely to launch early next week.
+
+---
+
+### 2026-07-17 08:04:03  #市場
+
+日經225指數在交易時段內跌破 66000 點，為 6 月 12 日以來首次。
+
+---
+
+### 2026-07-17 08:03:26  #其他
+
+【端側AI集中備案、京東騰訊生態打通 消費級AI迎來規模化拐點】7月15日，國內消費級人工智慧領域接連落地兩項重要進展。國家網信辦當日正式公示7款手機端側生成式人工智慧服務備案資訊，蘋果、華為、OPPO、vivo等主流終端品牌相關產品均在列，端側生成式AI服務正式步入合規運營階段，應用範圍將從試點逐步向規模化推廣；同日，京東與騰訊聯合宣佈京東AI Agent（智慧助理）與騰訊元寶完成小程式生態打通，以A2A模式將電商全鏈路服務能力接入對話式AI場景。
+
+---
+
+### 2026-07-17 08:01:44  #MKT News #Important
+
+South Korea's Seoul Stock Exchange is closed today.
+
+---
+
+### 2026-07-17 08:01:31  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 opened down 486.99 points (-0.73%) at 66,348.55 on Friday, July 17.
+
+---
+
+### 2026-07-17 08:00:46  #觀點
+
+【中信建投：解鎖不可成藥靶點 RAS藥物開啟腫瘤治療新格局】中信建投證券研報稱，解鎖不可成藥靶點，RAS藥物開啟腫瘤治療新格局。RAS是人類腫瘤中最重要的致癌驅動基因家族之一，主要包括KRAS、NRAS和HRAS，其中KRAS佔據核心地位。RAS靶向治療已從G12C單點突破，進入G12D、Pan-KRAS和Pan-RAS(ON)多路線推進階段，管線佈局和臨床驗證正在逐步豐富。2026年ASCO大會上，RMC-6236在2L轉移性胰腺癌III期研究中取得積極結果，中位OS較化療接近翻倍，進一步強化了市場對RAS靶向治療臨床價值的期待。國內企業也在G12D、Pan-RAS、Pan-KRAS等多方向積極跟進。
+
+---
+
+### 2026-07-17 08:00:16  #市場
+
+日經225指數上午開盤報66339.85點，跌幅0.74％。韓國首爾證券交易所今日休市一日。
+
+---
+
+### 2026-07-17 08:00:01  #市場 #焦點
+
+紐約期金突破3990美元/盎司，日內跌0.05%。
+
+---
+
+### 2026-07-17 07:59:56  #公司
+
+【康耐特光學：近期簽署四份框架協議，積極擴建和新建XR智慧眼鏡專用產線】康耐特光學公告，公司近期在智慧眼鏡新業務方面取得多項積極進展：1）本公司近期同四家國際及國內頭部科技企業、消費電子巨頭簽訂了合作研發框架協議或採購框架協議；2）同時本公司也正在積極擴建和新建XR智慧眼鏡專用產線以應對國內外客戶日益增長的訂單需求，其中包括擴建位於啟東工廠的XR智慧眼鏡鏡片專用產線，以及在上海工廠新建四條鏡片貼合和整機包裝生產線。
 
 ---
 
@@ -24290,161 +24524,5 @@ Fed chair Kevin Warsh said inflation will not be permanent.
 ### 2026-07-15 23:11:09  #國際
 
 【法國授權烏克蘭本土生產法制導彈】法國總統馬克龍本週（7月13日）宣佈，法國將向烏克蘭授予生產許可，允許烏克蘭在本國境內製造歐洲自主研發的巡航導彈、防空攔截彈等武器。（ CCTV國際時訊）
-
----
-
-### 2026-07-15 23:11:07  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed chairman Kevin Warsh said previous monetary policy caused inflation.
-
----
-
-### 2026-07-15 23:10:58  #央行 #美聯儲
-
-【美聯儲主席沃什表示 特朗普沒有試圖影響美聯儲政策】美聯儲主席沃什表示，特朗普沒有試圖影響美聯儲政策。如果特朗普試圖影響政策，他自己會保持低調。
-
----
-
-### 2026-07-15 23:10:47  #央行 #其他
-
-加拿大央行高階副行長卡羅琳・羅傑斯表示，各大城市公寓市場行情對貨幣政策決議影響有限。
-
----
-
-### 2026-07-15 23:10:32  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Below $84 — Brent pared early gains to trade below $84 a barrel on Wednesday, but escalating tensions in the Middle East continued to fuel supply concerns. The move followed another round of US strikes against Iran and the reinstatement of a naval blockade targeting Iranian ports near the Strait of Hormuz. US forces struck dozens of military assets along Iran's coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran's ability to disrupt shipping through the Strait of Hormuz. President Trump also pledged to intensify military operations until Iran halts attacks on vessels in the Strait and agrees to reopen the waterway. Meanwhile, on Tuesday, President Trump abandoned plans to impose a 20% fee on cargo transiting Hormuz, arguing that any forgone revenue would be more than offset by future investments from Gulf nations in the US. On the data front, EIA data showed that US crude inventories fell by 1.7 million barrels last week.
-
----
-
-### 2026-07-15 23:10:17  #央行 #國際
-
-美聯儲主席沃什： 貨幣政策誘發了通脹。
-
----
-
-### 2026-07-15 23:10:02  #央行 #國際
-
-美聯儲主席沃什： 尚不確定降息是否是引發該情況的誘因。
-
----
-
-### 2026-07-15 23:09:48  #央行 #國際
-
-美聯儲主席沃什：總統從未要求我做出任何不當舉措，即便他提出，我也不會照做。勞動力市場狀況良好。
-
----
-
-### 2026-07-15 23:09:41  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said labor market conditions are healthy.
-
----
-
-### 2026-07-15 23:09:33  #國際
-
-【馬來西亞總理安瓦爾：政府正在調查柔佛州一網路學校的運營是否有以色列人參與】馬來西亞總理安瓦爾15日表示，政府正在調查柔佛州一網路學校的運營是否有以色列人參與，一旦查實，將立即把他們驅逐出境。安瓦爾當天在出席一個活動時說：“我們正在調查此事，絕不允許有這種情況發生。如果確有其事，就必須採取行動。因為馬來西亞不承認以色列，相關人士將被立即驅逐出境。”據當地媒體近日報道，柔佛州發現多人隱瞞其以色列人身份、使用其他國籍身份檔案參與該網校運營，引起軒然大波。馬來西亞是巴勒斯坦事業的堅定支持者，迄今未與以色列建立外交關係，也不承認以色列為主權國家。（新華社）
-
----
-
-### 2026-07-15 23:09:31  #MKT News
-
-Federal Reserve Chair Kevin Warsh said the president never asked him to do anything improper and that he would not have complied even if asked.
-
----
-
-### 2026-07-15 23:09:21  #MKT News #Market Themes #The Trump Trade
-
-Kevin Warsh said he would not be uncomfortable receiving a call from Trump or the chair of the banking committee.
-
----
-
-### 2026-07-15 23:08:46  #央行 #國際
-
-美聯儲主席沃什： 接到特朗普或銀行委員會主席來電，我並無不適。
-
----
-
-### 2026-07-15 23:08:09  #其他
-
-市場訊息：敖德薩傳出爆炸聲。
-
----
-
-### 2026-07-15 23:07:45  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said if President Trump attempted to influence monetary policy he would take it in stride and remain focused on his duties.
-
----
-
-### 2026-07-15 23:07:02  #央行 #國際
-
-美聯儲主席沃什： 若特朗普試圖干預政策，我會專注履職、不予理會。
-
----
-
-### 2026-07-15 23:06:45  #央行 #焦點 #國際
-
-美聯儲主席沃什：我可不想與你們（國會山）分享有關我和總統溝通的情況。特朗普並未試圖干預政策制定工作。
-
----
-
-### 2026-07-15 23:06:35  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Kyiv issues air-raid alert.
-
----
-
-### 2026-07-15 23:06:20  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said President Trump did not attempt to influence the Fed's execution of policy.
-
----
-
-### 2026-07-15 23:05:47  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Prices Pare Gains — Crude oil pared early gains to trade below $79 a barrel on Wednesday, but escalating tensions in the Middle East continued to fuel supply concerns. The move followed another round of US strikes against Iran and the reinstatement of a naval blockade targeting Iranian ports near the Strait of Hormuz. US forces struck dozens of military assets along Iran's coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran's ability to disrupt shipping through the Strait of Hormuz. President Trump also pledged to intensify military operations until Iran halts attacks on vessels in the Strait and agrees to reopen the waterway. Meanwhile, on Tuesday, President Trump abandoned plans to impose a 20% fee on cargo transiting Hormuz, arguing that any forgone revenue would be more than offset by future investments from Gulf nations in the US. On the data front, EIA data showed that US crude inventories fell by 1.7 million barrels last week.
-
----
-
-### 2026-07-15 23:05:41  #其他
-
-【民航上半年旅客運輸量達3.8億人次】記者從民航局瞭解到，今年上半年，民航全行業完成運輸總週轉量833.7億噸公里、旅客運輸量3.8億人次、貨郵運輸量507.3萬噸，同比分別增長6.4%、1%和6%。完成運輸飛行714.6萬小時、268.3萬架次，人為原因責任徵候萬時率同比下降20.6%。航班正常率93.5%。（央視新聞）
-
----
-
-### 2026-07-15 23:05:30  #央行 #美聯儲
-
-美聯儲主席沃什表示，不想透露與特朗普的談話內容。
-
----
-
-### 2026-07-15 23:05:12  #央行 #國際
-
-美聯儲主席沃什：（被問及是否與特朗普有過交談） 無可奉告。
-
----
-
-### 2026-07-15 23:05:12  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-When asked whether he had spoken with President Trump, Fed chair Kevin Warsh declined to comment, saying he would not disclose the contents of their conversation.
-
----
-
-### 2026-07-15 23:04:50  #央行 #國際
-
-美聯儲主席沃什：控制中期通脹是美聯儲的工作職責。資產負債表應儘可能小，這樣在危機時可以擴張。
-
----
-
-### 2026-07-15 23:03:53  #MKT News
-
-Egypt's prime minister said the country has purchased nearly 4.9 million tonnes of wheat since the start of the harvest season.
-
----
-
-### 2026-07-15 23:03:33  #MKT News
-
-【Merz says he does not want U.S. to interfere in German elections】Chancellor Merz said on the 15th at the government’s summer press conference he does not want the U.S. to interfere in German elections and stressed Germany will not interfere in U.S. voting. He warned foreign funding of German parties breaches German law and urged foreign states and government‑affiliated entities to comply. State elections in Saxony‑Anhalt, Berlin and Mecklenburg‑Western Pomerania are due in September; polls show the far‑right Alternative for Germany (AfD) leading in Saxony‑Anhalt and Mecklenburg‑Western Pomerania. Merz said an AfD entry into government would have distinct implications for Germany compared with similar developments elsewhere in the EU and that he will do his utmost to prevent it.
 
 ---

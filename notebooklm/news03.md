@@ -1,7 +1,163 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-19 02:05:38_
-_本檔包含 4017 則快訊，約 722648 字_
+_更新時間：2026-07-19 03:18:20_
+_本檔包含 4005 則快訊，約 722948 字_
+
+---
+
+### 2026-07-15 23:11:07  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed chairman Kevin Warsh said previous monetary policy caused inflation.
+
+---
+
+### 2026-07-15 23:10:58  #央行 #美聯儲
+
+【美聯儲主席沃什表示 特朗普沒有試圖影響美聯儲政策】美聯儲主席沃什表示，特朗普沒有試圖影響美聯儲政策。如果特朗普試圖影響政策，他自己會保持低調。
+
+---
+
+### 2026-07-15 23:10:47  #央行 #其他
+
+加拿大央行高階副行長卡羅琳・羅傑斯表示，各大城市公寓市場行情對貨幣政策決議影響有限。
+
+---
+
+### 2026-07-15 23:10:32  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Below $84 — Brent pared early gains to trade below $84 a barrel on Wednesday, but escalating tensions in the Middle East continued to fuel supply concerns. The move followed another round of US strikes against Iran and the reinstatement of a naval blockade targeting Iranian ports near the Strait of Hormuz. US forces struck dozens of military assets along Iran's coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran's ability to disrupt shipping through the Strait of Hormuz. President Trump also pledged to intensify military operations until Iran halts attacks on vessels in the Strait and agrees to reopen the waterway. Meanwhile, on Tuesday, President Trump abandoned plans to impose a 20% fee on cargo transiting Hormuz, arguing that any forgone revenue would be more than offset by future investments from Gulf nations in the US. On the data front, EIA data showed that US crude inventories fell by 1.7 million barrels last week.
+
+---
+
+### 2026-07-15 23:10:17  #央行 #國際
+
+美聯儲主席沃什： 貨幣政策誘發了通脹。
+
+---
+
+### 2026-07-15 23:10:02  #央行 #國際
+
+美聯儲主席沃什： 尚不確定降息是否是引發該情況的誘因。
+
+---
+
+### 2026-07-15 23:09:48  #央行 #國際
+
+美聯儲主席沃什：總統從未要求我做出任何不當舉措，即便他提出，我也不會照做。勞動力市場狀況良好。
+
+---
+
+### 2026-07-15 23:09:41  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said labor market conditions are healthy.
+
+---
+
+### 2026-07-15 23:09:33  #國際
+
+【馬來西亞總理安瓦爾：政府正在調查柔佛州一網路學校的運營是否有以色列人參與】馬來西亞總理安瓦爾15日表示，政府正在調查柔佛州一網路學校的運營是否有以色列人參與，一旦查實，將立即把他們驅逐出境。安瓦爾當天在出席一個活動時說：“我們正在調查此事，絕不允許有這種情況發生。如果確有其事，就必須採取行動。因為馬來西亞不承認以色列，相關人士將被立即驅逐出境。”據當地媒體近日報道，柔佛州發現多人隱瞞其以色列人身份、使用其他國籍身份檔案參與該網校運營，引起軒然大波。馬來西亞是巴勒斯坦事業的堅定支持者，迄今未與以色列建立外交關係，也不承認以色列為主權國家。（新華社）
+
+---
+
+### 2026-07-15 23:09:31  #MKT News
+
+Federal Reserve Chair Kevin Warsh said the president never asked him to do anything improper and that he would not have complied even if asked.
+
+---
+
+### 2026-07-15 23:09:21  #MKT News #Market Themes #The Trump Trade
+
+Kevin Warsh said he would not be uncomfortable receiving a call from Trump or the chair of the banking committee.
+
+---
+
+### 2026-07-15 23:08:46  #央行 #國際
+
+美聯儲主席沃什： 接到特朗普或銀行委員會主席來電，我並無不適。
+
+---
+
+### 2026-07-15 23:08:09  #其他
+
+市場訊息：敖德薩傳出爆炸聲。
+
+---
+
+### 2026-07-15 23:07:45  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said if President Trump attempted to influence monetary policy he would take it in stride and remain focused on his duties.
+
+---
+
+### 2026-07-15 23:07:02  #央行 #國際
+
+美聯儲主席沃什： 若特朗普試圖干預政策，我會專注履職、不予理會。
+
+---
+
+### 2026-07-15 23:06:45  #央行 #焦點 #國際
+
+美聯儲主席沃什：我可不想與你們（國會山）分享有關我和總統溝通的情況。特朗普並未試圖干預政策制定工作。
+
+---
+
+### 2026-07-15 23:06:35  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Kyiv issues air-raid alert.
+
+---
+
+### 2026-07-15 23:06:20  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said President Trump did not attempt to influence the Fed's execution of policy.
+
+---
+
+### 2026-07-15 23:05:47  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Prices Pare Gains — Crude oil pared early gains to trade below $79 a barrel on Wednesday, but escalating tensions in the Middle East continued to fuel supply concerns. The move followed another round of US strikes against Iran and the reinstatement of a naval blockade targeting Iranian ports near the Strait of Hormuz. US forces struck dozens of military assets along Iran's coastline and near the strategic waterway during a seven-hour operation aimed at weakening Tehran's ability to disrupt shipping through the Strait of Hormuz. President Trump also pledged to intensify military operations until Iran halts attacks on vessels in the Strait and agrees to reopen the waterway. Meanwhile, on Tuesday, President Trump abandoned plans to impose a 20% fee on cargo transiting Hormuz, arguing that any forgone revenue would be more than offset by future investments from Gulf nations in the US. On the data front, EIA data showed that US crude inventories fell by 1.7 million barrels last week.
+
+---
+
+### 2026-07-15 23:05:41  #其他
+
+【民航上半年旅客運輸量達3.8億人次】記者從民航局瞭解到，今年上半年，民航全行業完成運輸總週轉量833.7億噸公里、旅客運輸量3.8億人次、貨郵運輸量507.3萬噸，同比分別增長6.4%、1%和6%。完成運輸飛行714.6萬小時、268.3萬架次，人為原因責任徵候萬時率同比下降20.6%。航班正常率93.5%。（央視新聞）
+
+---
+
+### 2026-07-15 23:05:30  #央行 #美聯儲
+
+美聯儲主席沃什表示，不想透露與特朗普的談話內容。
+
+---
+
+### 2026-07-15 23:05:12  #央行 #國際
+
+美聯儲主席沃什：（被問及是否與特朗普有過交談） 無可奉告。
+
+---
+
+### 2026-07-15 23:05:12  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+When asked whether he had spoken with President Trump, Fed chair Kevin Warsh declined to comment, saying he would not disclose the contents of their conversation.
+
+---
+
+### 2026-07-15 23:04:50  #央行 #國際
+
+美聯儲主席沃什：控制中期通脹是美聯儲的工作職責。資產負債表應儘可能小，這樣在危機時可以擴張。
+
+---
+
+### 2026-07-15 23:03:53  #MKT News
+
+Egypt's prime minister said the country has purchased nearly 4.9 million tonnes of wheat since the start of the harvest season.
+
+---
+
+### 2026-07-15 23:03:33  #MKT News
+
+【Merz says he does not want U.S. to interfere in German elections】Chancellor Merz said on the 15th at the government’s summer press conference he does not want the U.S. to interfere in German elections and stressed Germany will not interfere in U.S. voting. He warned foreign funding of German parties breaches German law and urged foreign states and government‑affiliated entities to comply. State elections in Saxony‑Anhalt, Berlin and Mecklenburg‑Western Pomerania are due in September; polls show the far‑right Alternative for Germany (AfD) leading in Saxony‑Anhalt and Mecklenburg‑Western Pomerania. Merz said an AfD entry into government would have distinct implications for Germany compared with similar developments elsewhere in the EU and that he will do his utmost to prevent it.
 
 ---
 
@@ -23981,233 +24137,5 @@ White House National Economic Council director HASSETT, commenting on Trump's pr
 ### 2026-07-14 21:57:03  #其他
 
 【深圳機場口岸今年出入境外國人超百萬人次】據深圳邊檢總站統計，截至7月12日，深圳機場口岸今年出入境外國人超102.2萬人次，同比增長超32.5%，創歷史同期新高，較去年提前71天突破100萬人次大關。（新華社）
-
----
-
-### 2026-07-14 21:56:53  #MKT News #Market Themes #AI Revolution
-
-【Shanghai executive meeting orders full-scale sprint to complete preparations for 2026 World Artificial Intelligence Conference】Shanghai municipal executive meeting, chaired by Shanghai Party deputy secretary and mayor Gong Zheng on July 14, ordered an accelerated, sprint-stage push to complete preparations for the 2026 World Artificial Intelligence Conference and the linked high-level Global AI Governance meeting, and directed stronger support for green, low-carbon agricultural development. The meeting said the conference carries a national mandate for international cooperation in AI and comes at a global inflection as AI moves from assistant tools toward intelligent partners; it will be larger and higher-level than prior editions. Shanghai will pursue highest standards, premium service and the latest成果, emphasize innovation leadership to boost international influence, and stage curated inaugural showcases to comprehensively display high-quality innovations and position the event as a globally credible AI-technology barometer.
-
----
-
-### 2026-07-14 21:56:45  #市場
-
-UBER股價下跌2.5%。
-
----
-
-### 2026-07-14 21:56:10  #市場
-
-UBER股價跌至盤中低點，據稱正在與DELIVERY HERO洽談合作。
-
----
-
-### 2026-07-14 21:56:05  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-White House National Economic Council director HASSETT said core inflation momentum is approaching the Fed's target.
-
----
-
-### 2026-07-14 21:55:21  #其他
-
-市場訊息：優步（Uber）據悉正在就收購德國線上外賣訂餐平臺Delivery Hero進行深入談判。
-
----
-
-### 2026-07-14 21:55:12  #市場
-
-百健下跌逾7%，料創2020年11月以來最大百分比跌幅。
-
----
-
-### 2026-07-14 21:55:10  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-White House National Economic Council director Hassett said the US is confident it can get oil flowing from the Gulf region to calm markets.
-
----
-
-### 2026-07-14 21:54:35  #其他
-
-哈塞特：我有信心將石油從墨西哥灣運出，以穩定市場。
-
----
-
-### 2026-07-14 21:54:17  #MKT News #UBER.N #Impact mixed #DHER.DE #Impact bullish
-
-Uber (UBER.N) is in advanced talks to acquire Delivery Hero.
-
----
-
-### 2026-07-14 21:54:05  #其他
-
-哈塞特：海軍在幫助海灣地區的友軍艦艇方面取得了進展。
-
----
-
-### 2026-07-14 21:54:05  #其他
-
-【上海市政府常務會議部署，全力推進2026世界人工智慧大會籌備衝刺階段各項任務】上海市委副書記、市長龔正今天（7月14日）主持召開市政府常務會議，要求在市委堅強領導下，全力推進2026世界人工智慧大會暨人工智慧全球治理高階別會議籌備衝刺階段各項任務；大力推動農業綠色低碳發展。會議指出，世界人工智慧大會承擔著國家在人工智慧領域對外合作交流的重要使命。本屆大會恰逢全球人工智慧從“輔助工具”邁向“智慧夥伴”的關鍵節點，與往屆相比規模更大、能級更高，我們要以最高標準、最優服務、最新成果，向世界呈現一場國際化、高階化、專業化、年輕化的人工智慧盛會。要突出創新引領，提升國際影響，精心策劃“首展首秀”，全方位展示高質量創新成果，讓前沿思想在浦江之畔交流交融，打造具有全球公信力的人工智慧技術風向標。要突出精準精細，做優服務保障，各成員單位要細化工作方案，對重大活動全流程推演、清單化管理，確保各環節銜接緊密、運轉高效，同時要在會場內外全面部署智慧應用，讓大會成為人工智慧賦能大型活動的最佳實踐。要突出生態營造，放大溢位效應，依託創投、連結、智識、青創、出海五大生態矩陣，構建覆蓋資本、人才、技術等全鏈條創新支撐體系，營造國際一流發展環境，加快集聚高能級主體。同時，加速創新成果轉化，把實驗室的新技術、展會的新成果，快速轉化為可落地的新產品、新應用，持續培育壯大新質生產力，以人工智慧賦能各行業高質量發展。（上觀）
-
----
-
-### 2026-07-14 21:53:34  #MKT News #JPM.O
-
-JP Morgan expects net interest income for fiscal 2026 to be about $105.5 billion.
-
----
-
-### 2026-07-14 21:53:33  #MKT News #Macro & Rates #S&P500 #Impact bullish #DXY #Impact bearish #US10Y
-
-WHITE HOUSE National Economic Council director HASSETT said he saw signs in CPI data that Trump's policies are working.
-
----
-
-### 2026-07-14 21:53:20  #資料 #國際
-
-哈塞特：我們在消費者物價指數（CPI）中看到了特朗普政策取得成功的跡象。
-
----
-
-### 2026-07-14 21:51:40  #MKT News #WTI #Impact mixed #XAUUSD #Impact bullish
-
-White House National Economic Council director HASSETT said prices had fluctuated due to Iranian influence.
-
----
-
-### 2026-07-14 21:51:31  #國際
-
-哈塞特：由於伊朗人，價格出現了一些波動。
-
----
-
-### 2026-07-14 21:51:12  #市場 #焦點
-
-鈀金期貨突破1300美元/盎司，日內漲3.79%。
-
----
-
-### 2026-07-14 21:50:59  #MKT News #WTI
-
-HASSETT, director of the White House National Economic Council, said lowering gasoline prices to $3/gal is realistic.
-
----
-
-### 2026-07-14 21:50:26  #其他
-
-哈塞特：將汽油價格降至每加侖3美元是現實的。
-
----
-
-### 2026-07-14 21:50:11  #MKT News #WTI #Impact bearish #US10Y #Impact bullish #DXY
-
-HASSETT: A sharp fall in inf from lower gasoline prices is imminent.
-
----
-
-### 2026-07-14 21:50:10  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Kevin Warsh, chair of the Federal Reserve, will appear before the House Financial Services Committee in ten minutes for the Fed's semiannual monetary policy report hearing.
-
----
-
-### 2026-07-14 21:49:31  #市場
-
-白宮國家經濟委員會主任哈塞特：汽油價格即將大幅下跌。
-
----
-
-### 2026-07-14 21:49:23  #國際
-
-墨西哥已就本國公民在美國移民拘留期間死亡一事，向美國各州檢察官提起刑事訴訟。
-
----
-
-### 2026-07-14 21:49:08  #MKT News #Market Themes #Chip Wars #AMD.O #Impact bullish #MU.O #MRVL.O
-
-U.S. semiconductor stocks rose in early trade; the Philadelphia Semiconductor Index gained 3.1% and the iShares Semiconductor ETF rose 3.1%. AMD (AMD.O) +3.6%, Micron Technology (MU.O) +3.5%, Western Digital (WDC.O) +4.2%, MARVELL (MRVL.O) +4.2%.
-
----
-
-### 2026-07-14 21:49:07  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-White House National Economic Council director Hassett said energy prices have fallen sharply.
-
----
-
-### 2026-07-14 21:48:51  #其他
-
-哈塞特：能源價格已經大幅下降。
-
----
-
-### 2026-07-14 21:48:28  #市場
-
-費城SE半導體指數上漲3.1%，iShares半導體ETF上漲3.1%。
-
----
-
-### 2026-07-14 21:48:20  #市場
-
-超威半導體（AMD）上漲3.6%，美光科技上漲3.5%，西部資料上漲4.2%，美滿電子上漲4.2%。
-
----
-
-### 2026-07-14 21:48:15  #其他
-
-【普華永道：中國AI崗位招聘回暖】7月14日，普華永道釋出《2026年全球人工智慧就業晴雨表》顯示，中國內地AI崗位招聘回暖，AI應用加速向全行業滲透，受AI影響程度高的職業的技能轉型速度明顯更快，整體就業市場呈現結構最佳化的新特徵。
-
----
-
-### 2026-07-14 21:48:07  #MKT News
-
-HASSETT said this is the best inf report we have seen in six years.
-
----
-
-### 2026-07-14 21:47:59  #MKT News #GS.O #Impact bullish
-
-Goldman Sachs CFO expects full-year alternatives fundraising to exceed US$125 bln.
-
----
-
-### 2026-07-14 21:47:40  #國際
-
-伊朗議會國家安全與外交政策委員會委員：伊朗在霍爾木茲海峽的掌控力是永久且不可動搖的。
-
----
-
-### 2026-07-14 21:46:40  #Trading Economics #Markets #United States #stocks #Importance 1
-
-TJX Companies Stock Price Hits 8-week Low — TJX Companies shares decreased to 149.53 USD, the lowest since May 2026. Over the past 4 weeks, TJX Companies lost 10.47%, and in the last 12 months, it increased 21.24%.
-
----
-
-### 2026-07-14 21:46:03  #觀點
-
-高盛首席財務官表示，與歷史平均水平相比，由私募股權基金支援的交易量仍顯低迷。
-
----
-
-### 2026-07-14 21:45:46  #公司
-
-【陝西發現大型深層煤層氣田】7月14日，記者從陝西延長石油（集團）有限責任公司獲悉，該集團提交的延東煤層氣田探明地質儲量透過自然資源部評審備案，探明地質儲量約537億立方米。延東煤層氣田位於延安市延長縣和宜川縣境內，埋深超過2000米。據專家評估，延東煤層氣田探明儲量具備年產8億至10億立方米煤層氣產能建設基礎，將為陝西天然氣增儲上產提供堅強支撐。（光明日報）
-
----
-
-### 2026-07-14 21:45:10  #國際
-
-阿曼外交大臣表示：過去幾十年，美國投入了龐大的軍費開支，也在本地區不斷擴建軍事基地，並確立了一套依賴外部保護的安全體系。然而，這一切並沒有建立起可持續的地區穩定局勢，也未能阻止戰爭與危機的爆發。
-
----
-
-### 2026-07-14 21:44:59  #市場 #焦點
-
-白銀連續主力合約日內漲3%，現報14528.00元。
-
----
-
-### 2026-07-14 21:43:39  #市場
-
-UL Solutions股價上漲2.5%，此前瑞銀將其評級從中性上調至買入。
 
 ---
