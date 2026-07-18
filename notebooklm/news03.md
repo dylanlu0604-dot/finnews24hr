@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-18 23:11:20_
-_本檔包含 3980 則快訊，約 721677 字_
+_更新時間：2026-07-19 00:05:55_
+_本檔包含 3975 則快訊，約 720584 字_
+
+---
+
+### 2026-07-15 22:43:08  #公司
+
+安哥拉國家石油公司執行長稱，其持有 GALP、BCP 的股份令他 “十分安心”。
+
+---
+
+### 2026-07-15 22:42:55  #央行 #國際
+
+美聯儲主席沃什：我一直都要求獲得關於一些列新AI模型的許可權。
+
+---
+
+### 2026-07-15 22:42:47  #央行 #國際
+
+美聯儲主席沃什：巴塞爾協議終章並非美國的終章。
+
+---
+
+### 2026-07-15 22:42:39  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Hold Most Gains — US stocks were mostly higher on Wednesday amid signs that the war in Iran has not been as inflationary as feared. The S&P 500 gained 0.4% and the Dow gained 250 points. Headline and core producer prices rose less than expected in June, aligning with the soft CPI report from yesterday and further trimming risks that the Fed could raise interest rates in their upcoming meeting. The data offset pressure from higher energy prices on further escalation to strikes between the US and Iran. Yields rose further, but strong earnings reports underpinned broad gains for equities. Morgan Stanley added 1.6% after posting optimistic results, joining JPMorgan and Goldman Sachs in their strong reports. Blackrock and other asset managers surged over 5% after their results, and J&J was flat after earnings. In turn, hyperscalers were sharply higher with Microsoft, Amazon, and Alphabet adding over 3% after strong results from ASML. On the other hand, the Nasdaq 100 fell 1% as memory producers plunged.
 
 ---
 
@@ -23933,59 +23957,5 @@ IBM (IBM.N) plunged 23%, its largest intraday drop since 1987.
 ### 2026-07-14 21:31:21  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Impact bullish #Nasdaq100
 
 U.S. equities opened mixed on Tuesday, July 14: Dow Jones Industrial Average down 65.95 points (-0.13%) at 52,432.69; S&P 500 up 17.48 points (+0.23%) at 7,532.82; Nasdaq Composite up 162.84 points (+0.63%) at 26,036.02.
-
----
-
-### 2026-07-14 21:31:17  #公司 #市場
-
-SK海力士美股上市股份上漲10.7%。
-
----
-
-### 2026-07-14 21:31:01  #MKT News #S&P500 #Impact bullish #Copper #DXY #Impact bearish
-
-JP Morgan CFO: data center construction is a bellwether for overall activity.
-
----
-
-### 2026-07-14 21:30:58  #其他
-
-IBM股價重挫22%，因初步公佈的第二季營收及調整後獲利均低於預估。
-
----
-
-### 2026-07-14 21:30:48  #市場 #焦點
-
-【美股開盤：三大股指漲跌不一】道指跌0.19%，標普500指數漲0.17%，納指持平。閃迪漲7.58%，Lumentum Holdings Inc. Common Stock When Issued漲7.01%，IBM跌21.87%，HCA控股跌8.96%。“七姐妹”方面：英偉達漲1.99%，特斯拉漲1.33%，谷歌跌0.29%，Meta Platforms跌0.51%，亞馬遜跌0.57%，蘋果跌1.03%，微軟跌2.39%。
-
----
-
-### 2026-07-14 21:30:42  #MKT News #Important #Market Regions #Wall Street (US) #MU.O #Impact bullish #SKHY.O #Nasdaq100
-
-U.S. stocks opened with the Dow down 0.26%, the S&P 500 up 0.19% and the Nasdaq up 0.53%. SK Hynix ADR (SKHY.O) rose more than 11%, SanDisk (SNDK.O) gained over 7%, Micron Technology (MU.O) climbed over 5%, Qualcomm (QCOM.O) was up about 2% and Intel (INTC.O) rose about 4%.
-
----
-
-### 2026-07-14 21:30:33  #公司
-
-【羅技授權店鋪釋出侮辱性廣告被罰20萬元】信用中國網站顯示，6月29日，上海百事得電子有限公司被上海市靜安區市場監督管理局責令停止釋出，並罰款20萬元。違法事實為：當事人作為廣告主，於2026年3月25日至3月26日期間在抖音號釋出了含有侮辱性文字內容的影片廣告。
-
----
-
-### 2026-07-14 21:30:25  #市場 #焦點
-
-納斯達克中國金龍指數漲超0.5%，蔚來漲4.56%，萬國資料漲1.52%，華住酒店集團漲1.27%，聲網漲0.96%，鬥魚漲0.65%。
-
----
-
-### 2026-07-14 21:30:22  #Trading Economics #Markets #Euro Area #Currency #Importance 1
-
-Euro Rebounds as Dollar Weakens on Soft US Inflation — The euro climbed to $1.145, its strongest level since June 19, supported by broad dollar weakness after softer-than-expected US inflation data eased pressure on the Federal Reserve to raise rates this year. Investors also reacted to escalating Middle East tensions and rising oil prices, which fueled concerns about inflation’s impact on monetary policy and economic growth. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, heightening uncertainty over energy flows. Markets responded by pricing in further European Central Bank rate hikes, with money markets now expecting a deposit rate of 2.70% by December (up from 2.25%) and fully anticipating a September increase.
-
----
-
-### 2026-07-14 21:30:21  #MKT News #Macro & Rates #The Fed (FOMC) #Market Regions #Europe & UK #EURUSD #Impact bullish #Brent #DXY #Impact mixed
-
-【German yields rise on Iran-related inflation risk; US CPI cooling briefly eases gains】German two-year bond yield rose intraday to 2.7985%, the highest since July 2024, as markets worried an Iran conflict could lift energy prices, re-ignite inflation and force further central-bank tightening. Later, US June CPI cooled more than expected, bolstering expectations of a milder Fed path and trimming euro-area yield gains. Money markets now price the ECB deposit rate at 2.68% by December (current 2.25%), fully pricing a 25bp hike in September.
 
 ---

@@ -1,7 +1,61 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-18 23:11:20_
-_本檔包含 3834 則快訊，約 722162 字_
+_更新時間：2026-07-19 00:05:55_
+_本檔包含 3830 則快訊，約 722381 字_
+
+---
+
+### 2026-07-14 21:31:17  #公司 #市場
+
+SK海力士美股上市股份上漲10.7%。
+
+---
+
+### 2026-07-14 21:31:01  #MKT News #S&P500 #Impact bullish #Copper #DXY #Impact bearish
+
+JP Morgan CFO: data center construction is a bellwether for overall activity.
+
+---
+
+### 2026-07-14 21:30:58  #其他
+
+IBM股價重挫22%，因初步公佈的第二季營收及調整後獲利均低於預估。
+
+---
+
+### 2026-07-14 21:30:48  #市場 #焦點
+
+【美股開盤：三大股指漲跌不一】道指跌0.19%，標普500指數漲0.17%，納指持平。閃迪漲7.58%，Lumentum Holdings Inc. Common Stock When Issued漲7.01%，IBM跌21.87%，HCA控股跌8.96%。“七姐妹”方面：英偉達漲1.99%，特斯拉漲1.33%，谷歌跌0.29%，Meta Platforms跌0.51%，亞馬遜跌0.57%，蘋果跌1.03%，微軟跌2.39%。
+
+---
+
+### 2026-07-14 21:30:42  #MKT News #Important #Market Regions #Wall Street (US) #MU.O #Impact bullish #SKHY.O #Nasdaq100
+
+U.S. stocks opened with the Dow down 0.26%, the S&P 500 up 0.19% and the Nasdaq up 0.53%. SK Hynix ADR (SKHY.O) rose more than 11%, SanDisk (SNDK.O) gained over 7%, Micron Technology (MU.O) climbed over 5%, Qualcomm (QCOM.O) was up about 2% and Intel (INTC.O) rose about 4%.
+
+---
+
+### 2026-07-14 21:30:33  #公司
+
+【羅技授權店鋪釋出侮辱性廣告被罰20萬元】信用中國網站顯示，6月29日，上海百事得電子有限公司被上海市靜安區市場監督管理局責令停止釋出，並罰款20萬元。違法事實為：當事人作為廣告主，於2026年3月25日至3月26日期間在抖音號釋出了含有侮辱性文字內容的影片廣告。
+
+---
+
+### 2026-07-14 21:30:25  #市場 #焦點
+
+納斯達克中國金龍指數漲超0.5%，蔚來漲4.56%，萬國資料漲1.52%，華住酒店集團漲1.27%，聲網漲0.96%，鬥魚漲0.65%。
+
+---
+
+### 2026-07-14 21:30:22  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro Rebounds as Dollar Weakens on Soft US Inflation — The euro climbed to $1.145, its strongest level since June 19, supported by broad dollar weakness after softer-than-expected US inflation data eased pressure on the Federal Reserve to raise rates this year. Investors also reacted to escalating Middle East tensions and rising oil prices, which fueled concerns about inflation’s impact on monetary policy and economic growth. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, heightening uncertainty over energy flows. Markets responded by pricing in further European Central Bank rate hikes, with money markets now expecting a deposit rate of 2.70% by December (up from 2.25%) and fully anticipating a September increase.
+
+---
+
+### 2026-07-14 21:30:21  #MKT News #Macro & Rates #The Fed (FOMC) #Market Regions #Europe & UK #EURUSD #Impact bullish #Brent #DXY #Impact mixed
+
+【German yields rise on Iran-related inflation risk; US CPI cooling briefly eases gains】German two-year bond yield rose intraday to 2.7985%, the highest since July 2024, as markets worried an Iran conflict could lift energy prices, re-ignite inflation and force further central-bank tightening. Later, US June CPI cooled more than expected, bolstering expectations of a milder Fed path and trimming euro-area yield gains. Money markets now price the ECB deposit rate at 2.68% by December (current 2.25%), fully pricing a 25bp hike in September.
 
 ---
 
@@ -23072,83 +23126,5 @@ US Natgas Prices Fall to 2-Month Low — US natural gas prices fell more than 2%
 ### 2026-07-13 23:20:27  #Trading Economics #Markets #Commodity #Importance 0
 
 Palladium Trades Lower — Palladium fell below $1,260 per ounce as investors weighed geopolitical risks against a weakening demand outlook. The US and Iran continued exchanging strikes, while uncertainty over the Strait of Hormuz kept oil prices elevated, amid conflicting claims over whether the waterway remained open. Rising inflation concerns reinforced expectations that the Federal Reserve will raise interest rates by year-end, weighing on sentiment of non-yielding assets. Meanwhile, demand for palladium remained under pressure as the shift toward electric vehicles continued to reduce consumption from gasoline-powered vehicles, while ongoing substitution by automakers in favor of platinum further limited the metal's upside. On the supply side, South Africa's Sibanye-Stillwater announced plans to advance seven primary platinum group metals mining projects, with the first phase already approved.
-
----
-
-### 2026-07-13 23:20:20  #國際
-
-美國聯邦通訊委員會主席卡爾：已將頻譜審批積壓申請量削減一半。
-
----
-
-### 2026-07-13 23:19:58  #MKT News
-
-Yemen's Civil Aviation Authority said it has notified airlines that all airports nationwide are now open to air traffic.
-
----
-
-### 2026-07-13 23:19:45  #國際
-
-歐盟外交與安全政策高階代表卡拉斯： 無法保證俄羅斯原油價格上限機制延期落地。
-
----
-
-### 2026-07-13 23:19:05  #國際
-
-美國聯邦通訊委員會主席卡爾： 當下對通訊行業企業而言是 “利好時期”。
-
----
-
-### 2026-07-13 23:18:49  #國際
-
-美國聯邦通訊委員會將為衛星業務申請者制定客觀審批標準。
-
----
-
-### 2026-07-13 23:18:30  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iran's Islamic Revolutionary Guard Corps said a U.S. airstrike in Iran on Monday killed three of its members.
-
----
-
-### 2026-07-13 23:18:28  #國際
-
-市場訊息：三名伊朗革命衛隊成員在週一美軍對伊朗的打擊行動中身亡。
-
----
-
-### 2026-07-13 23:18:11  #MKT News #Market Regions #Europe & UK #Brent #Impact mixed #WTI
-
-kallas said the EU cannot guarantee the continuation of the Russian oil price cap mechanism.
-
----
-
-### 2026-07-13 23:18:08  #國際
-
-美國聯邦通訊委員會主席卡爾：擬加快衛星相關申請審批流程。
-
----
-
-### 2026-07-13 23:17:57  #MKT News #Nasdaq100 #Impact bullish #S&P500
-
-U.S. Federal Communications Commission (FCC) will accelerate approval of satellite applications.
-
----
-
-### 2026-07-13 23:16:26  #國際
-
-美國食品藥品監督管理局呼籲嬰兒配方奶粉行業加強防範供應鏈環節產生的汙染物。
-
----
-
-### 2026-07-13 23:13:36  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
-
-【ING: US corporates may boost euro-denominated credit issuance】ING strategists say US corporates could issue as much as €120bn of euro-denominated credit in 2026, a record high. They cite a cost advantage in the euro credit market versus dollar markets as the driver. ING adds that €120bn of issuance should not unduly strain market liquidity or crowd out European issuers.
-
----
-
-### 2026-07-13 23:13:07  #Trading Economics #Markets #Commodity #Importance 0
-
-Platinum Trades Near November Levels — Platinum futures fell below $1,630 an ounce, hovering near late-November levels, as heightened geopolitical tensions weighed. Ongoing US-Iran hostilities and uncertainty surrounding the Strait of Hormuz lifted oil prices, amid conflicting claims over whether the waterway remained open. Higher energy costs renewed inflation concerns, reinforcing expectations of a rate hike by the Federal Reserve by year-end and weighing on non-yielding assets such as platinum. Meanwhile, the platinum market remained structurally tight and on track for a fourth consecutive annual deficit, as constrained South African mine output and subdued recycled supply continued to limit availability. The World Platinum Investment Council expects above-ground stocks to fall to 2.3 million ounces, less than three months of global demand, while robust investment demand and continued substitution of platinum for palladium in autocatalysts provided support.
 
 ---

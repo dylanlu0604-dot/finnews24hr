@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-18 23:11:20_
-_本檔包含 3611 則快訊，約 720972 字_
+_更新時間：2026-07-19 00:05:55_
+_本檔包含 3607 則快訊，約 720753 字_
+
+---
+
+### 2026-07-13 23:20:20  #國際
+
+美國聯邦通訊委員會主席卡爾：已將頻譜審批積壓申請量削減一半。
+
+---
+
+### 2026-07-13 23:19:58  #MKT News
+
+Yemen's Civil Aviation Authority said it has notified airlines that all airports nationwide are now open to air traffic.
+
+---
+
+### 2026-07-13 23:19:45  #國際
+
+歐盟外交與安全政策高階代表卡拉斯： 無法保證俄羅斯原油價格上限機制延期落地。
+
+---
+
+### 2026-07-13 23:19:05  #國際
+
+美國聯邦通訊委員會主席卡爾： 當下對通訊行業企業而言是 “利好時期”。
+
+---
+
+### 2026-07-13 23:18:49  #國際
+
+美國聯邦通訊委員會將為衛星業務申請者制定客觀審批標準。
+
+---
+
+### 2026-07-13 23:18:30  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Iran's Islamic Revolutionary Guard Corps said a U.S. airstrike in Iran on Monday killed three of its members.
+
+---
+
+### 2026-07-13 23:18:28  #國際
+
+市場訊息：三名伊朗革命衛隊成員在週一美軍對伊朗的打擊行動中身亡。
+
+---
+
+### 2026-07-13 23:18:11  #MKT News #Market Regions #Europe & UK #Brent #Impact mixed #WTI
+
+kallas said the EU cannot guarantee the continuation of the Russian oil price cap mechanism.
+
+---
+
+### 2026-07-13 23:18:08  #國際
+
+美國聯邦通訊委員會主席卡爾：擬加快衛星相關申請審批流程。
+
+---
+
+### 2026-07-13 23:17:57  #MKT News #Nasdaq100 #Impact bullish #S&P500
+
+U.S. Federal Communications Commission (FCC) will accelerate approval of satellite applications.
+
+---
+
+### 2026-07-13 23:16:26  #國際
+
+美國食品藥品監督管理局呼籲嬰兒配方奶粉行業加強防範供應鏈環節產生的汙染物。
+
+---
+
+### 2026-07-13 23:13:36  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+【ING: US corporates may boost euro-denominated credit issuance】ING strategists say US corporates could issue as much as €120bn of euro-denominated credit in 2026, a record high. They cite a cost advantage in the euro credit market versus dollar markets as the driver. ING adds that €120bn of issuance should not unduly strain market liquidity or crowd out European issuers.
+
+---
+
+### 2026-07-13 23:13:07  #Trading Economics #Markets #Commodity #Importance 0
+
+Platinum Trades Near November Levels — Platinum futures fell below $1,630 an ounce, hovering near late-November levels, as heightened geopolitical tensions weighed. Ongoing US-Iran hostilities and uncertainty surrounding the Strait of Hormuz lifted oil prices, amid conflicting claims over whether the waterway remained open. Higher energy costs renewed inflation concerns, reinforcing expectations of a rate hike by the Federal Reserve by year-end and weighing on non-yielding assets such as platinum. Meanwhile, the platinum market remained structurally tight and on track for a fourth consecutive annual deficit, as constrained South African mine output and subdued recycled supply continued to limit availability. The World Platinum Investment Council expects above-ground stocks to fall to 2.3 million ounces, less than three months of global demand, while robust investment demand and continued substitution of platinum for palladium in autocatalysts provided support.
 
 ---
 
@@ -21720,107 +21798,5 @@ According to AFP, a Lebanese military official said a US military delegation met
 ### 2026-07-12 00:05:57  #其他 #焦點
 
 颱風“巴威”於12日0時前後，在浙江省溫州市樂清市清江鎮沿海二次登陸，登陸時中心附近最大風力13級（38米/秒），中心最低氣壓960百帕。 （中央氣象臺）
-
----
-
-### 2026-07-12 00:05:44  #其他
-
-【颱風“巴威”登陸浙江，上海已組織轉移29.97萬人】據上海市氣象臺訊息，今年第9號颱風“巴威”（颱風級）的中心已於7月11日23點20分在浙江玉環沿海登陸，登陸時中心附近最大風力有13級（40米/秒），中心最低氣壓為955百帕。記者從上海市防汛指揮部獲悉，截至11日21時，全市共組織轉移 29.97 萬人，全市共啟用 905 處防汛避災安置場所。
-
----
-
-### 2026-07-12 00:03:14  #其他
-
-【“張雪機車”獲WSBK多寧頓公園站首回合第八名】11日在2026世界超級摩托車錦標賽（WSBK）英國多寧頓公園站WorldSSP組別首回合正賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯取得第八名。凱旋車隊的英國車手布思-阿莫斯奪得冠軍。（新華社）
-
----
-
-### 2026-07-12 00:02:41  #其他
-
-【高溫乾旱加劇火情 義大利多地林火持續】受持續高溫、乾旱及大風天氣影響，義大利北部皮埃蒙特大區以及西西里島、撒丁島等地森林火災仍在持續。相關部門已投入消防飛機、直升機及地面救援力量展開撲救。當地時間7月11日，皮埃蒙特大區釋出宣告稱，此輪森林火災已造成都靈、韋爾切利、諾瓦拉和韋巴諾-庫西奧-奧索拉等省約800至900公頃森林過火，約70萬棵樹木被毀，演變成一場“生態災難”。宣告表示，受損地區草本植物和灌木恢復預計需要2至5年，而森林生態系統恢復則可能需要50至70年。皮埃蒙特大區初步調查認為，此輪火災多由雷擊引發，在高溫、乾旱和強風作用下迅速蔓延。（央視新聞）
-
----
-
-### 2026-07-12 00:01:14  #其他
-
-據貓眼專業版資料，電影 《小黃人與大怪獸》 上映10天， 總票房破2億。
-
----
-
-### 2026-07-11 23:59:30  #國際
-
-美國空軍方面表示，軍方在一項晉升必考科目閱卷評分出現差錯後，135 名原本被告知獲得晉升資格的空軍人員將無法兌現此次晉升。
-
----
-
-### 2026-07-11 23:45:33  #國際
-
-市場資訊：伊朗正試圖與阿曼就霍爾木茲海峽達成協議。
-
----
-
-### 2026-07-11 23:42:15  #其他
-
-【應急管理部對河北啟動國家地質災害三級應急響應】記者從應急管理部獲悉，應急管理部11日將針對河北的國家地質災害四級應急響應提升至三級，針對安徽啟動國家地質災害四級應急響應。據氣象部門預測，受西南季風和颱風“巴威”影響，安徽南部、河北中部和東北部等部分地區大暴雨，局地特大暴雨。經應急管理部與自然資源部會商研判，安徽南部局地發生地質災害風險高，河北東北部發生地質災害風險很高。（新華社）
-
----
-
-### 2026-07-11 23:39:41  #國際
-
-【伊朗方面公佈被導彈擊中的約旦美軍基地衛星影象】當地時間7月11日，伊朗方面公佈衛星影象，稱是伊朗導彈擊中的約旦美軍基地。伊朗方面訊息稱，衛星影象顯示，位於約旦的穆瓦法克·薩爾提空軍基地在美國多次違反停火後遭到打擊。影象顯示，基地內至少有兩處設施遭導彈擊中，據稱美軍戰機機庫被毀，但目前尚不清楚機庫內當時存放何種裝備。伊朗方面稱，此前美國和約旦方面均表示，來襲目標已全部被攔截。當地時間9日，美軍部署在約旦穆瓦法克·薩爾提的基地遭目標鎖定。約旦政府在一份宣告中稱，該國軍方已攔截來自伊朗方面的導彈，並將持續為維護國家安全做好準備。約旦軍方稱，攔截了8枚來自伊朗的導彈。（央視新聞）
-
----
-
-### 2026-07-11 23:31:39  #其他 #焦點
-
-【颱風“巴威”在浙江台州玉環登陸】今年第9號颱風“巴威”(颱風級)的中心已於11日23時20分前後在臺州玉環登陸，登陸時中心附近最大風力13級(40米/秒)，中心最低氣壓為955百帕。（央視新聞）
-
----
-
-### 2026-07-11 23:31:01  #國際
-
-以色列警方稱，四名以色列定居者因涉嫌襲擊美國有線電視新聞網（CNN）採訪團隊被逮捕。
-
----
-
-### 2026-07-11 23:27:06  #其他
-
-【國內航司計劃取消12日進出港航班超2800架次】大資料顯示，7月11日，上海浦東機場、常州奔牛機場、上海虹橋機場、杭州蕭山機場、寧波櫟社機場、無錫碩放機場等約36個機場釋出了雷雨天氣預報。上海浦東機場、杭州蕭山機場、寧波櫟社機場、上海虹橋機場、北京首都機場當日臨時取消航班量位列國內前五。截至7月11日20:00，今天國內機場的延誤航班數量超1300架次。福州長樂、舟山普陀山、武夷山、梧州西江、安順黃果樹、義烏、寧波櫟社、瓊海博鰲等機場的航班大面積取消；北京首都、北京大興機場大面積延誤，最高延誤比例達96%。截至7月11日20:00，國內各航司計劃取消12日進出港航班超2800架次，建議旅客密切關注天氣狀況和航班動態，靈活調整出行安排。（央視新聞）
-
----
-
-### 2026-07-11 23:26:09  #國際
-
-卡達外交部：首相強調，所有各方（美伊）有必要堅持外交途徑，執行諒解備忘錄，並確保航行自由。
-
----
-
-### 2026-07-11 23:25:44  #國際
-
-黎巴嫩軍方訊息人士：軍方領導層與美國軍事代表團會晤，以建立在南部實施首個試點地區的機制。
-
----
-
-### 2026-07-11 23:25:35  #國際
-
-美國官員：萬斯不會前往安曼，魯比奧、維特科夫和庫什納也不會參與那裡的會談。
-
----
-
-### 2026-07-11 23:22:11  #其他
-
-【受颱風“巴威”影響 上海部分景區景點暫時關閉】記者從上海文旅部門及多個景區獲悉，受今年第9號颱風“巴威”影響，上海已有數十家景區暫時關閉或調整運營安排。 截至11日下午4時，暫時關閉的50餘家國家A級旅遊景區分佈在上海市崇明區、閔行區、金山區、奉賢區、嘉定區、浦東新區、寶山區、青浦區、松江區等，包括上海市崇明區西沙明珠湖景區、上海東灘溼地公園、金山城市沙灘景區、楓涇古鎮、上海花開海上生態園、上海閔行文化公園、上海國際賽車場旅遊景區、碧海金沙景區、上海佘山國家森林公園東佘山園及西佘山園等。（新華社）
-
----
-
-### 2026-07-11 23:19:13  #國際
-
-美國官員：如果與伊朗談判失敗，特朗普有（其他）多個選項。
-
----
-
-### 2026-07-11 23:12:44  #其他
-
-【湖北十堰釋出暴雨紅色預警】湖北十堰市氣象臺2026年7月11日20時38分發布暴雨紅色預警訊號：過去2小時，竹溪豐溪界梁村雨量已達60毫米。預計未來3小時，竹溪豐溪及周邊鄉鎮區域性累計雨量將達100毫米以上，山區山洪、地質災害、中小河流洪水、城鄉積澇風險極高，請注意防範。（央視新聞）
 
 ---
