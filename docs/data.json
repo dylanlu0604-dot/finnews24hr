@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-18 18:18:22",
-  "count": 19059,
+  "updated": "2026-07-18 18:22:25",
+  "count": 19060,
   "items": [
+    {
+      "id": "4995462",
+      "time": "2026-07-18 18:21:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藍思科技子公司與上緯新材達成戰略合作】7月18日，2026世界人工智慧大會期間，藍思科技子公司藍思智慧機器人(長沙)有限公司與上緯新材正式簽約，達成首期規劃萬臺級機器人的產線合作。雙方將圍繞機器人精密零部件加工、關節模組生產、整機組裝等智造環節開展深度協同，穩步推進機器人產能落地與量產交付工作。藍思智慧將發揮從新材料、精密結構件到自動化系統整合的垂直研發優勢，依託集團覆蓋湖南、江蘇、廣東及東南亞等地的超級工廠叢集，以及長期服務消費電子與智慧汽車頭部客戶所積累的跨行業精密製造經驗與OEM、ODM、OAM服務模式，為機器人硬體的高精度、標準化量產提供成熟可靠的供應鏈底座。"
+    },
+    {
+      "id": "4995461",
+      "time": "2026-07-18 18:21:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：澤連斯基考慮罷免烏克蘭武裝部隊總司令亞歷山大·瑟爾斯基。"
+    },
+    {
+      "id": "4995460",
+      "time": "2026-07-18 18:19:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶彭水山體崩塌救援最新進展：已在生命跡象位置上方開口】今天上午10時50分許，重慶彭水山體崩塌救援現場發現生命跡象。目前，救援人員已在疑似生命跡象上方破開口子，陸續清理出各類生活用品。救援仍在謹慎推進中。（央視新聞）"
+    },
     {
       "id": "mkt:019f74b5-40d9-7aab-8def-d7af9c0f20c8",
       "time": "2026-07-18 18:11:03",
@@ -175743,23 +175767,6 @@
         "國際"
       ],
       "text": "【訊息稱伊朗拒絕與美國談判 除非華盛頓改變立場】據知情人士稱，除非華盛頓退讓，否則伊朗不會與美國進行談判。“能代表美國退讓的是實施約定的諒解，”該人士表示， 條件包括成立一個黎巴嫩問題工作組、解決霍爾木茲海峽的通行問題以及伊朗石油出口正常化。"
-    },
-    {
-      "id": "4982196",
-      "time": "2026-07-11 18:20:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬斯克回應OpenAI被蘋果起訴竊取商業機密：他們確實為這起犯罪費了不少心思。"
-    },
-    {
-      "id": "mkt:019f50b1-56d3-7aab-8d3d-2ddbcc08bc80",
-      "time": "2026-07-11 18:20:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China FAW completes China-7 hybrid-dedicated gasoline engine R&D; to fit Hongqi models】On July 11 China FAW said its project on hybrid-dedicated gasoline engines targeting China-7 emissions passed final acceptance, completing integrated China-7 technical readiness three years ahead of schedule. Results cover combustion, engine control and aftertreatment; the self-developed system will be applied to Hongqi-brand hybrid and energy-saving models to meet the strictest upcoming emission rules."
     }
   ]
 }
