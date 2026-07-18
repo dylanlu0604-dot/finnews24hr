@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-19 00:05:55",
-  "count": 19069,
+  "updated": "2026-07-19 00:10:46",
+  "count": 19073,
   "items": [
+    {
+      "id": "mkt:019f75fc-bf7b-7aab-8df1-a3abb3f0ec69",
+      "time": "2026-07-19 00:08:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran desalination plant struck; drinking water cut for 10,000】Iranian sources said on the 18th that US strikes on Hormozgan province infrastructure continued, hitting the Benji desalination plant west of Jask. Seawater intake pumps and associated power transformers were destroyed, cutting drinking water to about 10,000 people across 20 villages, Hormozgan Water and Wastewater Company CEO Abdul Hamid Hamzehpour said. Company crews are supplying emergency water and repairing equipment to restore service as soon as possible."
+    },
+    {
+      "id": "4995613",
+      "time": "2026-07-19 00:08:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱，其發現了一個真主黨小組，該小組一直在安全區和以色列士兵附近操作無人機並藏匿。"
+    },
+    {
+      "id": "mkt:019f75fc-04a8-7aab-8df1-9adf6b220d9f",
+      "time": "2026-07-19 00:07:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli military said that after detecting a drone the Israeli Air Force located a Hezbollah armed group in the area and struck them to remove a threat to Israeli soldiers conducting nearby operations."
+    },
+    {
+      "id": "mkt:019f75fb-94d6-7aab-8df1-945f2f21796d",
+      "time": "2026-07-19 00:07:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military says it found a Hezbollah drone in the Tebnit area of southern Lebanon."
+    },
+    {
+      "id": "4995612",
+      "time": "2026-07-19 00:07:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，其在黎巴嫩南部提卜尼特地區識別出一架真主黨無人機。"
+    },
+    {
+      "id": "4995611",
+      "time": "2026-07-19 00:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙烏地阿拉伯：強烈譴責伊朗持續對科威特、巴林和約旦採取侵略行徑。"
+    },
     {
       "id": "4995610",
       "time": "2026-07-19 00:04:58",
@@ -175846,25 +175902,6 @@
         "MKT News"
       ],
       "text": "According to AFP, a Lebanese military official said a US military delegation met with the Lebanese army in Beirut to discuss implementing Israel's withdrawal from a \"pilot zone\" in Israeli-occupied territory."
-    },
-    {
-      "id": "mkt:019f51f0-2782-7aab-8d3e-ea19dd42f9c4",
-      "time": "2026-07-12 00:08:40",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Typhoon Bavi makes second landfall on Qingjiang coast in Yueqing, Wenzhou, Zhejiang】Typhoon Bavi, the year’s ninth, made a second landfall around 00:00 on the 12th on the coast at Qingjiang town, Yueqing city, Wenzhou, Zhejiang province. Maximum winds near the center reached force 13 (38 m/s); central minimum pressure was 960 hPa."
-    },
-    {
-      "id": "4982305",
-      "time": "2026-07-12 00:05:57",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "颱風“巴威”於12日0時前後，在浙江省溫州市樂清市清江鎮沿海二次登陸，登陸時中心附近最大風力13級（38米/秒），中心最低氣壓960百帕。 （中央氣象臺）"
     }
   ]
 }
