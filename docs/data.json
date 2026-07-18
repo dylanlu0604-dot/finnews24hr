@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19 00:18:49",
-  "count": 19070,
+  "updated": "2026-07-19 00:22:48",
+  "count": 19071,
   "items": [
+    {
+      "id": "mkt:019f7607-4d0b-7aab-8df1-b7f3b85c84d0",
+      "time": "2026-07-19 00:20:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran foreign ministry says MoU does not allow US to open independent parallel route in Strait of Hormuz】On the 18th, Iran’s foreign ministry said Article 5 of the US‑Iran MoU does not permit the US to open an independent parallel route in the Strait of Hormuz. The MoU is based on reciprocal commitments; Iran will abide by its obligations so long as the US fulfills its own."
+    },
+    {
+      "id": "mkt:019f7605-d6cc-7aab-8df1-ad4ae4f1c715",
+      "time": "2026-07-19 00:18:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【AIPAC removes online donation links for House Democrats who voted to halt U.S. military aid to Israel】Politico and other outlets report AIPAC’s political action committee has removed online donation options for more than ten House Democrats who had previously supported U.S. military aid to Israel but recently voted to halt it, including House Democratic No.2 Katherine Clark. AIPAC spokesman Darin Sousa said, \"AIPAC members are very grateful to representatives who stood by their position and disappointed in those who did not.\""
+    },
     {
       "id": "4995615",
       "time": "2026-07-19 00:12:06",
@@ -175870,14 +175886,6 @@
         "國際"
       ],
       "text": "特朗普：我剛剛在沃爾特·裡德國家軍事醫療中心完成了一次完全合格的體檢。"
-    },
-    {
-      "id": "mkt:019f51fb-42ea-7aab-8d3f-011b3ed3772b",
-      "time": "2026-07-12 00:20:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Press TV quoted a senior Iranian intelligence source saying the U.S. is conducting a coordinated campaign of pressure, threats and media disinformation against Iran."
     }
   ]
 }
