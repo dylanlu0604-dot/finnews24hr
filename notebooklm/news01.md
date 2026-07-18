@@ -1,7 +1,151 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-19 01:08:25_
-_本檔包含 3569 則快訊，約 722230 字_
+_更新時間：2026-07-19 02:05:38_
+_本檔包含 3576 則快訊，約 722817 字_
+
+---
+
+### 2026-07-19 02:03:41  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Expert: US-Iran conflict could further escalate in coming weeks】Abbas Aslani, senior researcher at Tehran’s Middle East Strategic Studies Center, said CENTCOM’s latest statement may be a prelude to further escalation. "In the past few days we have seen limited, controlled exchanges of fire. It appears the conflict has not reached its final phase of confrontation. In the coming days or weeks we may see more intense hostile actions," he said.
+
+---
+
+### 2026-07-19 02:02:41  #公司 #市場
+
+【SpaceX跌破發行價 “木頭姐”抄底增持】根據“木頭姐”Cathie Wood旗下ARK Invest投資管理公司7月17日的交易披露，在SpaceX(SPCX.O)股價週五跌破發行價後，ARK Invest買入了價值1830萬美元的該股股票。ARK Invest四隻主動管理型ETF合計買入147,623股。當日該股收盤價為123.99美元，盤中最低觸及122.12美元。此次買入更像是在股價走弱過程中堅定增持而非對沖操作，因為此次交易進一步擴大了ARK此前已經持有的較大倉位。根據追蹤ARK持倉的資料顯示，截至7月10日當週，該公司透過旗下ARKK、ARKQ、ARKW和ARKX基金合計累計買入約5210萬美元的相關股票，使ARK自6月SpaceX上市以來累計投入金額超過4.75億美元。這表明Cathie Wood領導的團隊一直將每次下跌都視為買入機會，而非警示訊號。
+
+---
+
+### 2026-07-19 02:00:37  #觀點
+
+摩根大通與Coinbase至今仍未推出雙方近一年前官宣的面向普通使用者的加密貨幣相關服務。
+
+---
+
+### 2026-07-19 01:43:52  #國際
+
+美國地質調查局：墨西哥馬德羅港西南72公里處發生5.7級地震。
+
+---
+
+### 2026-07-19 01:39:26  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【CNN: Trump administration has not specified duration or end goals of current Iran strikes】CNN reports that since the U.S. resumed daily airstrikes on Iran and reimposed a maritime blockade of Iranian ports a week ago after a fragile ceasefire collapsed, the Trump administration has not defined how long operations will continue or what the ultimate objectives are. Officials say Trump has received multiple options to expand the campaign; the U.S. military is seeking to degrade Iran’s control of the Strait of Hormuz. Trump has signaled intent to further escalate airstrikes, including threats to hit civilian infrastructure and potentially energy facilities, and has downplayed the importance of operation duration. Vice President Vance, the administration’s chief Iran negotiator, said military force alone would not be sufficient to eliminate Iranian control of the Strait of Hormuz.
+
+---
+
+### 2026-07-19 01:36:55  #MKT News #Market Themes #The Trump Trade #Market Regions #Europe & UK
+
+【Trump administration preparing grants to back MAGA-aligned projects in Europe; $2m proposed to counter EU digital rules】FT reports the Trump administration is preparing a package of grants for Europe and other regions to support initiatives aligned with MAGA, as part of a major reprioritization of U.S. foreign-aid priorities. A copy of a State Department notice to lawmakers shows proposed funding includes $2m for "countering censorship," aimed at addressing impacts from EU rules such as the Digital Services Act and Digital Markets Act; other listed projects resemble traditional U.S. aid programs.
+
+---
+
+### 2026-07-19 01:31:57  #MKT News #Market Themes #The Trump Trade
+
+Financial Times reports Trump will use changes to U.S. foreign aid policy to fund European projects that promote "MAGA".
+
+---
+
+### 2026-07-19 01:31:08  #國際
+
+【伊朗最高領袖發宣告呼籲團結】當地時間7月18日晚，伊朗最高領袖穆傑塔巴·哈梅內伊發表書面宣告指出，美國一再違反《伊斯蘭堡諒解備忘錄》（伊美諒解備忘錄），再次證明了美國總統簽名的“毫無價值與無效性”。穆傑塔巴強調，“在此關頭，最根本的要務之一，便是伊朗堅持上下一心，維護團結——捍衛團結、避免分裂與內訌，摒棄政見分歧、淡化社會差異，乃伊朗全民之責。伊朗各級官員在維護國家凝聚力與整體性方面，肩負著更為重大而敏感的職責。伊朗人民應繼續信任各權力機構中那些心繫民生的官員。與此同時，為確保國家的利益不受侵犯，伊朗全國人民必將時刻保持警惕，活躍在鬥爭的最前線。” （CCTV國際時訊）
+
+---
+
+### 2026-07-19 01:30:07  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+【Iran supreme leader revives Islamic Revolution-era anti-US rhetoric】Iran’s supreme leader Mujtaba Khamenei on Saturday issued a strongly worded statement accusing US President Trump of violating a US‑Iran agreement and called the United States the great Satan — the first time he has used that epithet since taking office. The language marks a return to Islamic Revolution‑era political rhetoric; the term originated with Ayatollah Khomeini during the 1979 revolution and embassy hostage crisis, with Israel historically labeled the little Satan and the phrasing becoming a pillar of revolutionary ideology.
+
+---
+
+### 2026-07-19 01:28:35  #國際
+
+【美稱數名駐中東地區美軍士兵因伊朗襲擊死亡、失蹤】美國中央司令部當地時間18日發表宣告稱，7月17日，在約旦應對伊朗彈道導彈和無人機襲擊期間，2名美軍士兵死亡，另有1名美軍士兵失蹤。（央視新聞）
+
+---
+
+### 2026-07-19 01:26:26  #MKT News
+
+NHC: 30% chance a storm in the northern Gulf of Mexico and near Florida will develop into a tropical cyclone within 48 hours.
+
+---
+
+### 2026-07-19 01:26:09  #國際
+
+美國正籌備資金，用以在歐洲推行貼合“讓美國再次偉大”理念的相關活動。
+
+---
+
+### 2026-07-19 01:22:09  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran missile strike on Jordan airbase kills two U.S. service members, wounds others】Axios cited U.S. military officials saying two U.S. service members were killed and several wounded after Iran fired at least two ballistic missiles on Saturday that struck Jordan’s Muwaffaq Salti Airbase, which hosts U.S. forces and fighter jets. The deaths are the first U.S. fatalities since the conflict resumed two weeks ago and raise U.S. deaths in this round to 16.
+
+---
+
+### 2026-07-19 01:20:20  #MKT News #Important #ORCL.N #Impact bearish
+
+The Information reports Oracle (ORCL.N)'s data center project is facing unexpected cost overruns of several bln dollars.
+
+---
+
+### 2026-07-19 01:18:05  #國際
+
+伊朗革命衛隊航空航天部隊司令：警告波斯灣沿岸阿拉伯國家統治者須認真對待伊朗發出的“最後警告”。
+
+---
+
+### 2026-07-19 01:16:41  #其他
+
+英國海上貿易行動辦公室：相關報告顯示，葉門海域的相關船隻系當地持續軍事行動衝突波及目標。
+
+---
+
+### 2026-07-19 01:15:47  #國際
+
+伊朗最高領袖：絕不能讓敵人看到我們露出絲毫軟弱；只要我們保持團結一心、眾志成城，敵人就必將被迫退卻、遭受挫敗。
+
+---
+
+### 2026-07-19 01:14:39  #國際
+
+美國軍方稱另有一名軍人在行動中失蹤。
+
+---
+
+### 2026-07-19 01:14:36  #國際
+
+美國軍方表示，兩名駐約旦的美國軍人於7月17日在行動中喪生。
+
+---
+
+### 2026-07-19 01:14:34  #MKT News
+
+CENTCOM said two U.S. service members were killed in Jordan on July 17 and another is missing.
+
+---
+
+### 2026-07-19 01:13:40  #MKT News
+
+【Indonesia minister confident on China-Indonesia investment cooperation】Indonesia's Investment and Downstream Industry Minister Rosan said the government will continue policies to promote trade and investment and improve the business environment, expressing confidence in future China-Indonesia investment cooperation. He highlighted bilateral gains in downstream chemicals, manufacturing, infrastructure, natural resources and energy transition, and said China invested about USD 3.9 bln in Indonesia in 1H2026, keeping China among Indonesia's largest foreign investors. Rosan reiterated the government's priority of maintaining long-term stability in the comprehensive strategic partnership and reaffirmed commitments from President Prabowo's China visit to deepen trade and investment ties.
+
+---
+
+### 2026-07-19 01:12:17  #焦點 #國際
+
+【印尼投資部部長：對中印尼投資合作未來充滿信心】印度尼西亞投資與下游化部部長羅山18日在接受新華社記者採訪時表示，印尼政府將繼續推行促進貿易投資、改善營商環境的政策，對中國和印尼投資合作的未來充滿信心。（新華社）
+
+---
+
+### 2026-07-19 01:11:51  #其他
+
+紅牛拒絕以30億美元收購紅牛F1賽車隊（Red Bull Racing）。
+
+---
+
+### 2026-07-19 01:09:06  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+UK Maritime Trade Operations said military authorities reported the vessel had been forced into Somali territorial waters and the office has reclassified the incident as a hijacking.
 
 ---
 
@@ -21463,107 +21607,5 @@ Japan's Nikkei 225 opened down 486.99 points (-0.73%) at 66,348.55 on Friday, Ju
 ### 2026-07-17 07:59:56  #公司
 
 【康耐特光學：近期簽署四份框架協議，積極擴建和新建XR智慧眼鏡專用產線】康耐特光學公告，公司近期在智慧眼鏡新業務方面取得多項積極進展：1）本公司近期同四家國際及國內頭部科技企業、消費電子巨頭簽訂了合作研發框架協議或採購框架協議；2）同時本公司也正在積極擴建和新建XR智慧眼鏡專用產線以應對國內外客戶日益增長的訂單需求，其中包括擴建位於啟東工廠的XR智慧眼鏡鏡片專用產線，以及在上海工廠新建四條鏡片貼合和整機包裝生產線。
-
----
-
-### 2026-07-17 07:59:34  #公司
-
-【報道稱PayPal董事會認為Stripe與Advent的收購要約低估其公司價值】當地時間7月16日，據報道，知情人士表示，PayPal董事會認為，支付公司Stripe與私募股權公司Advent International提出的收購要約低估了其公司價值，且面臨監管和融資方面的障礙。另有兩名訊息人士稱，PayPal尚未對該提議作出正式回應。
-
----
-
-### 2026-07-17 07:58:50  #其他
-
-【人民時評：謀算力也應提效能】如今，算力互聯互通加速推進，跨區域、跨主體的協同排程不斷深化，分散的算力資源正在被盤活，精準流向最需要的地方。由此可見，發展新質生產力，既要防止一哄而上，也要避免大而不當。因地制宜做好精準配置，追求實實在在的效能，才是謀求發展的真功夫。人工智慧產業發展，比的不單是誰的資源厚、規模大，更是誰的技術巧、路子對。今年3月，我國日均詞元（Token）呼叫量突破140萬億，人工智慧加速從實驗室走進工廠車間、田間地頭、學校課堂。創新每向前一步，普惠的門檻就降低一分。 “特點是創新，關鍵在質優”。發展新質生產力，不能搞一陣風、大呼隆，不能搞規模堆砌的“燒錢競賽”，而要以前瞻眼光謀佈局、以創新提效能、以應用定方向，一步一個腳印紮實往前走。走好這段路，我們必將贏得高質量發展的更大戰略主動。（人民日報）
-
----
-
-### 2026-07-17 07:57:01  #國際
-
-【受加拿大森林野火影響 美國多地“危險”煙霧籠罩 】加拿大森林野火產生的大量煙霧15日晚南移湧入美國，導致美國中西部和東北部地區超過1.15億人口遭受不利健康的空氣質量威脅，這一狀況或將持續至17日。 美國空氣質量監測網站www.airnow.gov資料顯示，伊利諾伊州芝加哥市空氣中有害健康的細顆粒物（PM2.5）指數升至489，達到“危險”程度。密歇根州部分地區這一指數一度達到500。兩州一些地區的居民稱在家中就能聞到煙味。 美國國家氣象局已針對受影響地區釋出空氣質量警報。預計美國中西部、東北部地區的煙霧瀰漫狀況將持續至16日晚間或17日。
-
----
-
-### 2026-07-17 07:56:21  #其他
-
-塔可鍾：受影響的供應商原料已從全美供應鏈中永久移除，部分州將在24小時內完成替換。
-
----
-
-### 2026-07-17 07:55:54  #其他
-
-塔可鍾：塔可鍾已立即採取行動，主動從多個州下架了來自一家供應商的可能受汙染的生菜。
-
----
-
-### 2026-07-17 07:54:17  #公司
-
-【波音與空客競逐租賃公司SMBC的大額飛機訂單】當地時間7月16日，據報道，知情人士透露，波音公司和空中客車公司均在尋求從飛機租賃公司SMBCAviationCapital手中拿下其熱門窄體客機的大額訂單。
-
----
-
-### 2026-07-17 07:53:53  #市場 #國際
-
-【在供應中斷擔憂加劇之際油價上漲】在對中東供應中斷擔憂加劇之際，油價在早盤交易中上漲。近月西得州中質油期貨上漲0.85%，報每桶79.62美元。一位美國高階官員稱，美國週四打擊了伊朗境內的多座橋樑，以切斷通往霍爾木茲海峽一個港口城市和海軍基地的補給路線。該海峽是一條關鍵水道，全球五分之一的石油透過該水道運輸。作為回應，伊朗打擊了美國在該地區的基礎設施及其海灣盟友。
-
----
-
-### 2026-07-17 07:53:43  #觀點
-
-【華泰證券：當前化工行業結構性機會凸顯】華泰證券研報認為，當前化工行業在AI需求驅動、油價中樞回落、地緣重塑供應鏈及低利率環境等多重變數下，結構性機會凸顯，建議關注：（1）AI算力爆發驅動半導體產業擴產提速，電子特氣、溼電子化材、先進封裝耗材需求剛性放大，國產替代程序有望加速。（2）關注油價企穩後的下游補庫行情。（3）地緣衝突反覆持續衝擊日韓、東南亞等海外產能，國內企業有望加快提高市場份額，近期成本壓力有所緩解。（4）低利率環境下高股息資產吸引力增強，伴隨資本開支下降，主動分紅意願和能力或提升。
-
----
-
-### 2026-07-17 07:53:27  #Trading Economics #Markets #Commodity #Importance 0
-
-Silver Poised for Weekly Drop — Silver held below $56 an ounce on Friday and was on track to lose more than 7% for the week, as escalating tensions in the Middle East pushed oil prices higher, keeping inflationary pressures and interest rate concerns at the forefront. The US launched multiple strikes against Iran this week, while President Donald Trump warned that the US could target the country's infrastructure next week unless diplomatic efforts result in a breakthrough. Iran responded by launching attacks on US bases in neighboring countries, fueling fears of further escalation and a prolonged disruption to energy supplies from the region. Meanwhile, softer-than-expected US inflation data released this week has largely ruled out a July rate increase, even as Fed Chair Kevin Warsh reiterated his commitment to restoring price stability. However, markets remain divided on whether the Fed will hike rates in September, keeping the non-yielding metal under pressure.
-
----
-
-### 2026-07-17 07:53:06  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish #DXY
-
-Bernstein raised its 2026 gold price target to $4,533/oz, citing central-bank reserve diversification and an expectation that the Fed will raise rates at most one or two times over the next year.
-
----
-
-### 2026-07-17 07:53:01  #央行 #美聯儲
-
-【“鷹聲四起”！美聯儲官員警告：通脹過熱太久 未必是暫時的！】美國堪薩斯城聯儲主席傑弗裡·施密德（JeffreySchmid）週四警告稱，鑑於未來幾個月通脹可能進一步加速，通脹是他最擔心的問題。他還提醒道，不要理所當然地認為通脹只是暫時的。他在一場經濟論壇上發表演講時表示，在勞動力市場穩定的背景下，商品和服務通脹依然普遍存在，並且仍然是貨幣政策的核心關注點。
-
----
-
-### 2026-07-17 07:52:48  #公司
-
-【A股定增一覽：15家公司披露定增進展】Wind資料顯示，7月17日，A股共15家公司釋出定增相關公告。其中2家公司披露股票定增預案，6家定增預案獲股東大會透過，1家定增預案獲交易所透過，6家定增預案獲證監會透過。從當日最新披露定增預案來看，京能電力、威爾高定增募資預案金額最高，分別擬定增不超50.0億元、13.0億元。今年以來，已有101家公司公告定增方案已完成，35家公司定增金額超10億元。具體來看，中國國航、中國神華、中國能建定增募資金額最高，募資總額分別為200.0億元、200.0億元、65.0億元。
-
----
-
-### 2026-07-17 07:52:05  #Trading Economics #Markets #Commodity #Importance 2
-
-Gold Set for Weekly Loss — Gold held below $4,000 an ounce on Friday and was on track to lose more than 3% for the week, as escalating tensions in the Middle East pushed oil prices higher, keeping inflationary pressures and interest rate concerns at the forefront. The US launched multiple strikes against Iran this week, while President Donald Trump warned that the US could target the country's infrastructure next week unless diplomatic efforts result in a breakthrough. Iran responded by launching attacks on US bases in neighboring countries, fueling fears of further escalation and a prolonged disruption to energy supplies from the region. Meanwhile, softer-than-expected US inflation data released this week has largely ruled out a July rate increase, even as Fed Chair Kevin Warsh reiterated his commitment to restoring price stability. However, markets remain divided on whether the Fed will hike rates in September, keeping the non-yielding gold under pressure.
-
----
-
-### 2026-07-17 07:51:54  #公司 #國際
-
-【古巴外長：美國政府正為對古動武“試探輿論”】古巴外交部長羅德里格斯16日表示，美國一些媒體屢屢加入美政府對古武力威脅的造勢行動，美政府正藉助這些向媒體“投放”的所謂訊息，為一場毫無正當理由的軍事冒險試探“公眾輿論”。 羅德里格斯強調，古巴不是威脅，美國情報機構心知肚明。 據美國哥倫比亞廣播公司15日報道，據多名知情官員透露，美國防部的軍事規劃人員近幾周來研究了對古巴採取軍事行動的一系列方案，其中包括由陸軍主導、第101空降師執行、動用數千名士兵的空中突擊行動。 美國長期對古巴實施經濟、金融封鎖和貿易禁運。繼今年相繼對委內瑞拉、伊朗發起軍事行動後，美國總統特朗普又對古巴發出威脅，稱“下一個是古巴”，並進一步加大對古巴施壓，實行石油封鎖。(新華社)
-
----
-
-### 2026-07-17 07:51:48  #公司
-
-【A股分紅派息轉增一覽：15股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，15只A股今日股權登記。其中，13股擬派息，2股派息、轉增或送股同時實施。分紅派息方面，13只個股分紅派息的股權登記日為7月17日。信捷電氣、中國船舶、東方鐵塔分紅力度最大，每10股分別派息9.53元、3.65元、3.00元。2股派息、轉增或送股同時實施，股權登記日為7月17日。華之傑、恆工精密分紅力度最大，每10股分別派息3.00元、2.50元。
-
----
-
-### 2026-07-17 07:51:46  #央行 #國際
-
-【美聯儲副主席Jefferson稱目前貨幣政策狀態良好 如有必要將會重新考慮】美聯儲副主席Philip Jefferson表示，如果通脹不能很快降溫，就應該考慮加息，但同時表示，目前的貨幣政策狀態良好。Jefferson週四在為加州斯坦福一場活動準備的講話稿中表示，美聯儲目前的利率設定可能會支援勞動力市場，同時使得通脹下降。但他隨即補充了一句附加條件。“如果實際通脹短期內沒有開始降溫，我認為或許應該重新考慮我們目前的政策立場，”他說道。“幸運的是，我們目前的政策立場使我們能夠很好地應對經濟發展態勢。”
-
----
-
-### 2026-07-17 07:51:21  #國際
-
-【特朗普政府官員：美國將承辦2031年女足世界盃】據報道，一名特朗普政府高階官員週四稱，國際足聯已告知美國總統唐納德・特朗普，美國將承辦2031年國際足聯女子世界盃。白宮世界盃專項工作組執行董事安德魯・朱利安尼表示，國際足聯已通知特朗普，美國確定將舉辦這屆賽事。朱利安尼在採訪中表示：“我確認他們已經告知總統，美國會拿到2031年世界盃舉辦權，這著實是一件大好事。”但特朗普政府釋放訊號：美方能否全力配合辦好本屆賽事，部分取決於國際足聯的跨性別運動員參賽規則能否大幅靠攏美國現行政策——美國政策旨在禁止跨性別選手參與女子體育賽事。
 
 ---

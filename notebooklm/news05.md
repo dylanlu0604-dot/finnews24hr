@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-19 01:08:25_
-_本檔包含 3615 則快訊，約 722019 字_
+_更新時間：2026-07-19 02:05:38_
+_本檔包含 3627 則快訊，約 722620 字_
+
+---
+
+### 2026-07-13 23:48:00  #MKT News #PARA.O #Impact bearish #WBD.O #Impact bullish
+
+California and 11 other state attorneys general said they are filing suit to block Paramount's acquisition of Warner Bros.
+
+---
+
+### 2026-07-13 23:47:41  #國際
+
+加州總檢察長稱，加州及美國另外 11 個州提起訴訟，試圖阻止派拉蒙收購華納兄弟。
+
+---
+
+### 2026-07-13 23:47:23  #其他
+
+英國首相斯塔默宣佈與瑞士達成貿易協議。
+
+---
+
+### 2026-07-13 23:46:52  #國際
+
+烏克蘭總統澤連斯基：強大且充足的反彈道作戰能力，是結束俄烏衝突的關鍵。其重要性不亞於針對俄羅斯經濟的中遠端打擊，或是前線的作戰行動。烏克蘭攔截俄軍彈道導彈的手段越多，普京坐到談判桌前的可能性就越大 —— 因為他手中這場戰爭最後的依仗將徹底失效。
+
+---
+
+### 2026-07-13 23:45:42  #國際
+
+法庭檔案顯示：法官將特朗普律師及司法部多名高階官員移交州律師協會處理。
+
+---
+
+### 2026-07-13 23:45:13  #MKT News
+
+A member of Iran's National Security and Foreign Policy Commission, Sayyedi, said the United States ranks first in breaches of trust and violations of international law, and that global — not just Iranian — distrust stems from its abandonment of international treaties and commitments.
+
+---
+
+### 2026-07-13 23:44:04  #MKT News
+
+【U.S. expands Cuba sanctions, targets tourism ministry】The U.S. added Cuba’s Ministry of Tourism to its sanctions list, the Treasury’s Office of Foreign Assets Control (OFAC) said in guidance updated Monday; the ministry was one of 10 entities newly designated. The U.S. has cut large-scale fuel shipments to Cuba, forcing resort closures, airline cancellations and international operators to abandon contracts, and international visitor numbers have fallen to record lows. Cuba’s power grid is under growing strain, with two nationwide blackouts last week. Under pressure from the Trump administration, the Cuban government announced nearly 200 economic reforms last month, including allowing new tourism projects to be 100% foreign-owned and permitting operators to import supplies directly rather than through the state distribution system; the U.S. described the measures as "belated and ultimately just cosmetic smoke-and-mirrors."
+
+---
+
+### 2026-07-13 23:43:19  #MKT News
+
+A U.S. judge has ruled the settlement between Trump and the IRS invalid.
+
+---
+
+### 2026-07-13 23:42:51  #國際
+
+美國法官裁定特朗普與美國國稅局達成的和解協議無效。
+
+---
+
+### 2026-07-13 23:42:16  #公司
+
+蘇黎世機場集團：6 月蘇黎世機場貨運量 34978 噸，同比下降 2.6%。
+
+---
+
+### 2026-07-13 23:41:28  #其他
+
+馬士基：WAF6 航線將往返塞拉萊與西地中海。
+
+---
+
+### 2026-07-13 23:41:15  #MKT News #AMKBY.O #Impact bullish
+
+Maersk says its WAF6 service will be rerouted to transit the Red Sea.
+
+---
+
+### 2026-07-13 23:41:06  #其他
+
+馬士基：WAF6服務現在可以透過紅海航線落實。
+
+---
+
+### 2026-07-13 23:41:00  #國際
+
+市場訊息：美國國會大廈附近出現安全險情。
+
+---
+
+### 2026-07-13 23:40:38  #MKT News
+
+Market news: security incident reported near the U.S. Capitol.
+
+---
+
+### 2026-07-13 23:39:38  #公司
+
+【報道：迪拜擬新建港口以繞開霍爾木茲海峽】英國《金融時報》援引知情人士報道稱，迪拜環球港務集團計劃在阿聯酋東海岸建設一座新港口和一個集裝箱碼頭，以降低迪拜對傑貝阿里港（Jebel Ali）的依賴，並繞開霍爾木茲海峽。報道稱，這家港口運營商正在洽談在富查伊拉(Fujairah)沿海地區開發一座多功能港口，以及在該酋長國的現有港口內建造一個新碼頭。迪拜環球港務集團正與政府官員磋商條款清單。報道稱，迪拜環球港務集團拒絕證實任何東海岸專案的細節，但表示“正制定多元化計劃以應對此次中斷”。
+
+---
+
+### 2026-07-13 23:38:48  #其他
+
+沙馬蘭石油：阿特魯什油田產量預計很快恢復至 4 萬桶 / 日以上，阿特魯什油田日產原油約 3.7 萬桶，薩爾桑油田日產原油約 7000 桶。
+
+---
+
+### 2026-07-13 23:38:25  #市場
+
+AppLovin 股價下跌 9.6%。
+
+---
+
+### 2026-07-13 23:37:09  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
+
+On Monday July 13, European equity indices closed as follows: Germany's DAX 30 +22.95 pts (+0.09%) at 25,108.37. UK FTSE 100 -5.86 pts (-0.06%) at 10,491.43. France's CAC 40 +25.68 pts (+0.31%) at 8,364.65. Euro STOXX 50 -1.51 pts (-0.02%) at 6,268.46. Spain's IBEX 35 -59.80 pts (-0.31%) at 19,324.90. Italy's FTSE MIB +188.33 pts (+0.36%) at 52,802.50.
+
+---
+
+### 2026-07-13 23:36:47  #國際
+
+【英國擬將伊朗伊斯蘭革命衛佇列為“非法組織”】英國政府13日宣佈，已向議會提交法規草案，擬將伊朗伊斯蘭革命衛隊等3個組織列為“非法組織”。英國政府說，草案將於本週晚些時候由議會審議。草案如獲議會批准，支援或協助相關組織可被判處14年監禁；受相關組織指使實施縱火等破壞活動，最高可被判處終身監禁。新規還將降低檢方的舉證難度。截至目前，伊朗方面尚未就此作出回應。（新華社）
+
+---
+
+### 2026-07-13 23:34:05  #宏觀 #國際
+
+【中國駐日使館就日涉“南海仲裁案裁決”惡劣言行提出嚴正交涉】針對日本外相就“南海仲裁案裁決”出臺十年發表談話、日夥同他國發表所謂聯合宣告，中國駐日本大使館公使施泳13日向日本外務省亞洲大洋州局局長金井正彰提出嚴正交涉和強烈抗議。中方強調，所謂“裁決”違反國際法基本準則，嚴重損害《聯合國海洋法公約》嚴肅性和權威性，嚴重衝擊國際法治，是一張非法無效沒有約束力的廢紙，中方反對且不接受任何基於該“裁決”的主張和行動。中國在南海的領土主權和海洋權益任何情況下不受該“裁決”影響。日本在南海問題上負有歷史罪責且並未清算，沒有資格說三道四。日方持續插手南海問題、政治操弄非法“裁決”，有關惡劣言行挑戰戰後國際秩序和國際法治，破壞南海和平穩定，違背地區國家共同利益和意願，引發地區國家和國際社會的高度警惕。中方將堅決有力回擊日方挑釁，堅定捍衛自身領土主權和海洋權益。（新華社）
+
+---
+
+### 2026-07-13 23:33:26  #國際
+
+博世將於 2026 年啟動美國本土商業化生產。
+
+---
+
+### 2026-07-13 23:33:25  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+Axios: a U.S. official said U.S. Central Command will announce later on Monday the specific timing for resuming the 'Block Iran' operation.
+
+---
+
+### 2026-07-13 23:32:53  #宏觀 #市場 #國際
+
+美國財政部拍賣三個月期國債，得標利率3.760%，投標倍數2.84。拍賣六個月期國債，得標利率3.860%，投標倍數3.11。
+
+---
+
+### 2026-07-13 23:32:41  #焦點 #國際
+
+據Axios記者： 新一輪海上封鎖尚未生效，相關法規要求需提前 24 小時通知船東。一名美國官員表示，美軍中央司令部將於週一晚些時候公佈具體實施時間。
 
 ---
 
@@ -21757,86 +21907,5 @@ The U.S. ambassador to Israel said Israel has notified Washington of an Iranian 
 ### 2026-07-12 02:05:57  #MKT News
 
 Ukrainian President Zelenskiy urged Ukraine’s diplomatic efforts to focus on pressing allies to speed up implementation of weapons supply agreements.
-
----
-
-### 2026-07-12 02:04:24  #國際
-
-澤連斯基呼籲烏克蘭外交部門將工作重心放在推動盟友更快落實軍供協議上。
-
----
-
-### 2026-07-12 01:58:39  #國際
-
-烏克蘭發動襲擊後，塔甘羅格港口持續起火。該港口承擔貨運與燃料轉運的關鍵職能，為俄方戰事提供物資支撐。
-
----
-
-### 2026-07-12 01:53:11  #國際
-
-【美國就空軍一號報道傳喚《紐約時報》記者】美國聯邦檢察官向四名《紐約時報》記者發出傳票，強制其披露兩篇報道的訊息來源。這兩篇報道曝光了卡達贈予美國的全新總統專機存在安全防護缺陷。檢方要求記者交代訊息源，相關報道稱，美國特勤局出於安全隱患考量，建議特朗普搭乘老式空軍一號從土耳其返程，新機缺少反導彈防護能力。《紐約時報》及多家媒體批評此次傳喚舉動，認為政府意在恐嚇媒體，阻撓公眾瞭解國內實情。
-
----
-
-### 2026-07-12 01:46:03  #其他
-
-【長江海事局提升防禦颱風應急響應至二級】為全力應對今年第9號颱風“巴威”，保障長江干線水上交通安全，11日18時起，長江海事局將防禦颱風應急響應提升至二級。
-根據預測，11日至13日，颱風“巴威”將給長江中下游的湖北東部、江西、安徽等地帶來強風雨。
-長江海事局表示，二級應急響應期間，船舶應合理選擇安全水域錨泊，切勿冒險航行；錨泊時應加強值班瞭望，加固錨鏈纜繩，及時檢查關鍵裝置狀況；涉客船舶、施工船舶、“五小船舶”等重點船舶務必嚴格執行“應停盡停、應關盡關、應撤盡撤”要求。
-長江海事部門已加密與氣象部門會商研判，依託智慧管理平臺、電話、簡訊等多渠道開展預警叫應，把颱風動態、安全避險提示精準推送到相關船舶和港航企業。（新華社）
-
----
-
-### 2026-07-12 01:42:52  #其他
-
-【民政部部署各地民政部門全力做好民政領域防汛救災工作】記者7月11日從民政部獲悉，民政部近日印發通知，要求各地民政部門全力做好民政領域防汛救災工作，著力強化養老機構、兒童福利機構、精神衛生福利機構等民政服務機構汛期安全防範工作，堅持“以防為主”，抓緊對民政服務機構進行全覆蓋隱患排查，強化閉環整改整治，將安全隱患消除在成災前。（新華社）
-
----
-
-### 2026-07-12 01:32:19  #MKT News #Market Themes #AI Revolution
-
-【OpenAI releases GPT-5.6 as Musk and Altman trade public barbs】OpenAI released GPT-5.6 as Elon Musk and OpenAI founder Altman exchanged public insults on social media. Musk posted first, accusing Altman of having "taken fraud to a whole new level," and reposted a screenshot of Altman's US congressional hearing remark "I did this not out of enthusiasm," mocking that the "this" referred to fraud and alleging Altman's "love of scamming" is unmatched. Altman replied, accusing Musk of misleading public-market investors by promising to "short-term build space data centers," then promoted the new ChatGPT model, saying multiple benchmarks show GPT-5.6 Sol is currently the world's best model and that Musk's renewed attacks are a reliable signal.
-
----
-
-### 2026-07-12 01:32:09  #國際
-
-【GPT-5.6釋出之際 馬斯克與奧特曼隔空互懟】GPT-5.6釋出之際，埃隆·馬斯克與OpenAI創始人奧特曼在社交平臺上爆發公開交鋒。馬斯克率先發文，稱“他把詐騙提升到了一個全新的高度”。不久後，又轉發奧特曼此前的美國國會聽證會發言截圖，該圖配文為“我做這件事並非出於熱衷”，馬斯克嘲諷稱“他說的‘這件事’指的就是詐騙”，“他對搞詐騙的熱愛，可能超過了任何一個活著的人”。對此，奧爾特曼發文回應，調侃稱“哥們兒，你才是真正拿‘短期內建太空資料中心’忽悠公開市場投資者的人。”隨後，奧特曼再次發帖，宣傳最新推出的ChatGPT模型的同時進一步反擊，“有很多基準測試表明GPT‑5.6 Sol是目前世界上最好的模型，但最可靠的判斷方式就是埃隆又開始針對我了。”
-
----
-
-### 2026-07-12 01:23:18  #其他
-
-黎巴嫩官方訊息人士：黎巴嫩代表團僅由外交人員組成，不會安排軍方代表參會。
-
----
-
-### 2026-07-12 01:23:10  #國際
-
-市場資訊：黎巴嫩已通知華盛頓，其將參與在羅馬與以色列舉行的新一輪談判。
-
----
-
-### 2026-07-12 01:18:11  #其他
-
-【委內瑞拉強震遇難人數上升至4333人】當地時間11日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯召開新聞釋出會，通報該國日前發生的強震遇難人數已上升至4333人。此外，地震造成16740人受傷，發生餘震超過1200次。（央視新聞）
-
----
-
-### 2026-07-12 01:17:02  #國際
-
-【伊朗與阿曼兩國舉行會談 討論霍爾木茲海峽航運】當地時間11日，伊朗外交部長阿拉格齊率團訪問阿曼首都馬斯喀特，並與阿曼外交大臣巴德爾舉行會談。總檯記者獲悉，雙方重點討論了伊朗與阿曼雙邊關係、地區局勢以及霍爾木茲海峽問題。阿曼方面表示，希望伊朗與美國能夠全面落實美伊諒解備忘錄，透過外交途徑緩和地區緊張局勢，推動地區安全形勢改善。會談中，雙方還圍繞該諒解備忘錄第五條，就建立確保船舶安全透過霍爾木茲海峽的相關機制交換了意見。（央視新聞）
-
----
-
-### 2026-07-12 01:13:09  #MKT News #Market Regions #Greater China
-
-【China origin-based student credit loans total 620.7 bln yuan; 68.21 mln student person-times aided】China’s origin-based student credit loan program entered its 20th year this year. Over nearly two decades it has cumulatively disbursed 620.7 bln yuan and supported 68.21 mln student person-times, the Ministry of Education said.
-
----
-
-### 2026-07-12 01:09:29  #宏觀 #焦點
-
-【我國生源地助學貸款累計發放6207億元 資助學生6821萬人次】記者從教育部瞭解到，今年，生源地信用助學貸款開辦已進入第20個年頭。近20年來，我國生源地信用助學貸款已經累計發放貸款6207億元、資助學生6821萬人次。從2007年的甘肅、江蘇、湖北、重慶、陝西五省市試點，到如今覆蓋全國，教育部會同財政部、金融監管總局、中國人民銀行等部門，持續完善國家助學貸款政策，透過上調貸款額度、拓寬使用範圍、下調貸款利率，疊加在校全額貼息、還本寬限期、信用修復等暖心服務，打消家庭經濟困難學生求學顧慮，讓廣大學生只要考得上，都能讀得起。（央視新聞）
 
 ---

@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-19 01:08:25_
-_本檔包含 3831 則快訊，約 721819 字_
+_更新時間：2026-07-19 02:05:38_
+_本檔包含 3831 則快訊，約 722617 字_
+
+---
+
+### 2026-07-14 21:43:28  #MKT News #Star Stocks #MSFT.O #Impact bearish
+
+Microsoft (MSFT.O) shares fell more than 2%.
+
+---
+
+### 2026-07-14 21:43:03  #MKT News #Macro & Rates #WTI #Impact bullish #US10Y #Nasdaq100 #Impact bearish
+
+【Analyst: Rising oil and inf risks remain market trading focus】eToro analyst Lale Akoner says the U.S.-Iran war is pushing oil higher, raising inf risk and could keep interest rates elevated for longer, a negative backdrop for bonds and rate-sensitive sectors including property, utilities and expensive growth stocks. "Unless oil supply faces a more severe shock, the market's main focus will remain on oil prices, inf expectations and rate-sensitive asset classes."
+
+---
+
+### 2026-07-14 21:43:02  #其他
+
+滙豐銀行將ARM HOLDINGS PLC <ARM.N>評級從買入下調至持有；目標價從255美元上調至315美元。
+
+---
+
+### 2026-07-14 21:42:26  #市場
+
+微軟股價下跌2.2%，此前IBM公佈第二季度初步業績。
+
+---
+
+### 2026-07-14 21:42:22  #其他
+
+美股盤初，主要行業ETF漲跌不一，半導體ETF漲近3%，全球科技股指數ETF漲超1%，醫療業ETF跌近2%。
+
+---
+
+### 2026-07-14 21:42:03  #國際
+
+烏克蘭將根據與法國達成的協議採購陣風戰鬥機及防空系統。
+
+---
+
+### 2026-07-14 21:42:00  #MKT News #Market Themes #AI Revolution
+
+Goldman Sachs CEO Solomon said AI development remains at an early stage.
+
+---
+
+### 2026-07-14 21:41:53  #其他
+
+【寬基ETF兩天爆量成交，業內直言：這是“跌出來”的機會】中小盤寬基ETF亦受到資金追捧。7 月13日，南方中證500ETF、南方中證1000ETF分別淨流入約60億元，華夏中證1000ETF淨流入48.45億元，華夏科創板50ETF和易方達創業板ETF均獲淨流入20億元。在業內看來，大額資金再次流向寬基ETF，讓市場嗅到了“抄底”的訊號。華泰柏瑞滬深300ETF在7月12日的成交額為40億元，13日成交額達到77.05億元，14日繼續放大至86.31億元。 7月13日，該ETF獲得55.38億元資金淨流入，最新規模為868.83億元。有市場人士指出，7月市場“變盤”訊號明顯，部分寬基ETF份額翻倍。以南方中證1000ETF為例，其6月底份額為30.77億份，至7月13日，份額為71.2億份，增幅為131.4%。這種短時間內的倍數級增長，在歷史上往往與重要底部區域的機構大舉建倉行為高度吻合。（中國基金報）
+
+---
+
+### 2026-07-14 21:40:51  #公司
+
+【長鑫科技市值在A股排名第28】7月14日，長鑫科技公佈了公司科創板IPO發行價為8.66元/股。而長鑫科技在行使超額配售選擇權之前，發行後總股本6688088.6077萬股，據此計算，長鑫科技市值為5791.88億元，若順利上市長鑫市值在A股排名第28。（第一財經）
+
+---
+
+### 2026-07-14 21:40:16  #公司 #市場
+
+財捷集團下跌4.6%，Atlassian下跌7.5%，Adobe下跌4.8%。
+
+---
+
+### 2026-07-14 21:40:12  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
+
+【Analyst: June price gains broadly eased, may not repeat in coming months】June CPI showed a broad slowdown in price gains. Clothing, used cars, auto insurance and healthcare prices fell MoM in June, while the MoM increase in housing costs hit its lowest level since 2021. Omair Sharif, head of consulting firm Inflation Insights, said declines in auto insurance, wireless data services and hotels jointly pulled down overall inf in June, but warned the improvement may not recur in the coming months.
+
+---
+
+### 2026-07-14 21:40:11  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.08% Higher — The Dow Jones Index is picking up 42 points or 0.08 percent on Tuesday. Gains are led by Goldman Sachs (4.55%), Caterpillar (3.28%) and 3M (1.03%). Biggest losers are IBM (-23.81%), Microsoft (-2.42%) and Merck (-1.73%).
+
+---
+
+### 2026-07-14 21:40:00  #市場
+
+ServiceNow股價下跌7%，賽富時（Salesforce）股價下跌3.9%，埃森哲（Accenture）股價下跌3.5%。
+
+---
+
+### 2026-07-14 21:39:56  #MKT News #GS.O #Impact bullish
+
+Goldman Sachs CEO Solomon said the bank is further accelerating growth in asset and wealth management through targeted acquisitions.
+
+---
+
+### 2026-07-14 21:39:47  #公司 #觀點
+
+高盛執行長表示，公司將透過定向收購進一步加快資產管理與財富管理板塊的增長。
+
+---
+
+### 2026-07-14 21:39:36  #Trading Economics #Markets #United States #stocks #Importance 1
+
+NextEra Energy Stock Price Hits 7-week High — NextEra Energy shares increased to 89.26 USD, the highest since May 2026. Over the past 4 weeks, NextEra Energy gained 3.61%, and in the last 12 months, it increased 18.91%.
+
+---
+
+### 2026-07-14 21:39:32  #其他
+
+【我國自然資源確權登記將加快全域立體發展】據新華社北京7月14日電，為健全自然資源資產產權制度，我國將深化自然資源確權登記制度改革，推進自然資源和不動產統一確權登記全域立體發展。
+
+---
+
+### 2026-07-14 21:39:26  #市場 #國際
+
+【美伊對抗升溫刺激國際油價繼續大漲】由於美國和伊朗軍事對抗升溫、美方宣稱將恢復對伊朗的海上封鎖並對經由霍爾木茲海峽運輸的貨物收費等訊息加劇市場對原油供應短缺的擔憂，國際原油期貨價格14日再度大漲。當天，紐約商品交易所輕質原油期貨價格一度上漲3.9%，至每桶81美元以上；倫敦布倫特原油期貨價格盤中一度漲超5%，至每桶87美元以上。美軍13日宣佈，對伊朗發動“連續第三晚”的打擊行動，並將於美國東部時間14日恢復對伊朗的海上封鎖。伊朗方面則表示霍爾木茲海峽近期局勢升級的直接責任在美國，並對位於中東地區的美軍基地實施報復性打擊。（央視新聞）
+
+---
+
+### 2026-07-14 21:39:02  #其他
+
+【吉林省釋出山洪災害氣象風險紅色預警】吉林省水利廳和吉林省氣象局2026年7月14日21時聯合釋出山洪災害氣象風險紅色預警。預計，7月14日夜間至7月15日白天：延邊州敦化市、汪清縣、延吉市發生山洪災害可能性很大；白山市撫松縣、靖宇縣，吉林市樺甸市、磐石市，通化市輝南縣，延邊州安圖縣、和龍市、琿春市、龍井市、圖們市，長白山保護開發區發生山洪災害可能性大；白山市渾江區、江源區、臨江市、長白縣，遼源市東豐縣，梅河口市，通化市本級、通化縣、柳河縣、集安市發生山洪災害可能性較大；其他地區也可能因局地短時強降水引發山洪災害。（央視新聞）
+
+---
+
+### 2026-07-14 21:39:00  #其他
+
+【北京成立全國首個自主實驗室聯盟，首批意向成員單位超百家】7月14日，2026自主實驗室大會在中關村國際技術交易中心召開。大會上，中關村儀創智慧實驗室創新發展聯盟揭牌成立，標誌著我國自主實驗室行業首個跨領域、非營利性產業協同組織正式投入執行。目前，聯盟的首批意向成員單位已超過100家，涵蓋高校院所、儀器裝備企業、AI技術企業、標準化單位、檢測認證機構、使用者單位等產學研用各方力量，將共同推動自主實驗室技術的標準化、規模化、商業化應用。近期，聯盟將釋出首批自主實驗室團體標準立項計劃，並聯合會員單位在生命科學、醫藥健康、新材料、新能源等領域建設自主實驗室示範專案。（北京日報）
+
+---
+
+### 2026-07-14 21:38:52  #MKT News #Brent #Impact bearish #XAUUSD #S&P500 #Impact bullish
+
+Market sources say Lebanon and Israel are in talks in Rome to implement an agreement to end hostilities.
+
+---
+
+### 2026-07-14 21:38:41  #國際
+
+【船員遇害 印度向伊朗提出強烈抗議】據新加坡《聯合早報》網站7月14日報道，印度外交部14日說，已就一名印度海員在霍爾木茲海峽遇害事件召見伊朗副大使，並向伊朗提出強烈抗議。（上證報）
+
+---
+
+### 2026-07-14 21:38:27  #公司 #觀點
+
+高盛執行長表示，我們第二季度在私人信貸領域籌集了310億美元。
+
+---
+
+### 2026-07-14 21:38:12  #MKT News #WTI #Impact mixed #Brent #XAUUSD
+
+US Republican Senator Marshall said Iran remains decades away from acquiring nuclear weapons. He said Gulf states should, if necessary, deploy ground forces against Iran, and that the US should not take a leading role in such operations.
+
+---
+
+### 2026-07-14 21:38:06  #其他
+
+【西安：聚焦光子、半導體等優勢領域 打造硬科技產業領域整合式場景】7月14日，西安市人民政府辦公廳印發《西安市加快場景培育和開放推動新場景大規模應用實施方案》。其中提出，以場景創新助力產業強鏈。依託航天、航空、低空經濟等優勢，在全空間無人體系等領域拓展重大應用場景。聚焦光子、半導體等優勢領域，釋放全鏈條場景需求，打造硬科技產業領域整合式場景。瞄準工業軟體研發、氫能應用、無人機巡檢、腦機介面等細分賽道，開展高價值小切口場景建設，加速新技術、新產品的落地驗證和迭代升級。精準培育氫能與核聚變能、生物製造、具身智慧等高潛能未來產業，用場景牽引技術落地、補鏈強鏈，提升全要素生產率，形成“場景釋出—技術適配—中試驗證—規模化應用—產業集聚”閉環。
 
 ---
 
@@ -22982,155 +23132,5 @@ SK海力士ADR跌幅擴大至9.9%，觸及盤中低點。
 ### 2026-07-13 23:48:21  #國際
 
 【美軍稱首次在實戰中動用海上無人艇】美軍中央司令部13日說，美軍12日動用了海上無人艇打擊伊朗。這是美軍首次在實戰中動用海上無人艇。美軍中央司令部當天在社交媒體上說，美軍使用多艘“單向攻擊水面無人艇”，成功打擊伊朗一處潛艇和艦船維修設施。三艘“海盜”水面無人艇擊中阿巴斯港海軍基地的港口。美軍帖文配發一段時長25秒的影片。影片中美軍水面無人艇衝向伊朗目標，隨即發生劇烈爆炸。（新華社）
-
----
-
-### 2026-07-13 23:48:00  #MKT News #PARA.O #Impact bearish #WBD.O #Impact bullish
-
-California and 11 other state attorneys general said they are filing suit to block Paramount's acquisition of Warner Bros.
-
----
-
-### 2026-07-13 23:47:41  #國際
-
-加州總檢察長稱，加州及美國另外 11 個州提起訴訟，試圖阻止派拉蒙收購華納兄弟。
-
----
-
-### 2026-07-13 23:47:23  #其他
-
-英國首相斯塔默宣佈與瑞士達成貿易協議。
-
----
-
-### 2026-07-13 23:46:52  #國際
-
-烏克蘭總統澤連斯基：強大且充足的反彈道作戰能力，是結束俄烏衝突的關鍵。其重要性不亞於針對俄羅斯經濟的中遠端打擊，或是前線的作戰行動。烏克蘭攔截俄軍彈道導彈的手段越多，普京坐到談判桌前的可能性就越大 —— 因為他手中這場戰爭最後的依仗將徹底失效。
-
----
-
-### 2026-07-13 23:45:42  #國際
-
-法庭檔案顯示：法官將特朗普律師及司法部多名高階官員移交州律師協會處理。
-
----
-
-### 2026-07-13 23:45:13  #MKT News
-
-A member of Iran's National Security and Foreign Policy Commission, Sayyedi, said the United States ranks first in breaches of trust and violations of international law, and that global — not just Iranian — distrust stems from its abandonment of international treaties and commitments.
-
----
-
-### 2026-07-13 23:44:04  #MKT News
-
-【U.S. expands Cuba sanctions, targets tourism ministry】The U.S. added Cuba’s Ministry of Tourism to its sanctions list, the Treasury’s Office of Foreign Assets Control (OFAC) said in guidance updated Monday; the ministry was one of 10 entities newly designated. The U.S. has cut large-scale fuel shipments to Cuba, forcing resort closures, airline cancellations and international operators to abandon contracts, and international visitor numbers have fallen to record lows. Cuba’s power grid is under growing strain, with two nationwide blackouts last week. Under pressure from the Trump administration, the Cuban government announced nearly 200 economic reforms last month, including allowing new tourism projects to be 100% foreign-owned and permitting operators to import supplies directly rather than through the state distribution system; the U.S. described the measures as "belated and ultimately just cosmetic smoke-and-mirrors."
-
----
-
-### 2026-07-13 23:43:19  #MKT News
-
-A U.S. judge has ruled the settlement between Trump and the IRS invalid.
-
----
-
-### 2026-07-13 23:42:51  #國際
-
-美國法官裁定特朗普與美國國稅局達成的和解協議無效。
-
----
-
-### 2026-07-13 23:42:16  #公司
-
-蘇黎世機場集團：6 月蘇黎世機場貨運量 34978 噸，同比下降 2.6%。
-
----
-
-### 2026-07-13 23:41:28  #其他
-
-馬士基：WAF6 航線將往返塞拉萊與西地中海。
-
----
-
-### 2026-07-13 23:41:15  #MKT News #AMKBY.O #Impact bullish
-
-Maersk says its WAF6 service will be rerouted to transit the Red Sea.
-
----
-
-### 2026-07-13 23:41:06  #其他
-
-馬士基：WAF6服務現在可以透過紅海航線落實。
-
----
-
-### 2026-07-13 23:41:00  #國際
-
-市場訊息：美國國會大廈附近出現安全險情。
-
----
-
-### 2026-07-13 23:40:38  #MKT News
-
-Market news: security incident reported near the U.S. Capitol.
-
----
-
-### 2026-07-13 23:39:38  #公司
-
-【報道：迪拜擬新建港口以繞開霍爾木茲海峽】英國《金融時報》援引知情人士報道稱，迪拜環球港務集團計劃在阿聯酋東海岸建設一座新港口和一個集裝箱碼頭，以降低迪拜對傑貝阿里港（Jebel Ali）的依賴，並繞開霍爾木茲海峽。報道稱，這家港口運營商正在洽談在富查伊拉(Fujairah)沿海地區開發一座多功能港口，以及在該酋長國的現有港口內建造一個新碼頭。迪拜環球港務集團正與政府官員磋商條款清單。報道稱，迪拜環球港務集團拒絕證實任何東海岸專案的細節，但表示“正制定多元化計劃以應對此次中斷”。
-
----
-
-### 2026-07-13 23:38:48  #其他
-
-沙馬蘭石油：阿特魯什油田產量預計很快恢復至 4 萬桶 / 日以上，阿特魯什油田日產原油約 3.7 萬桶，薩爾桑油田日產原油約 7000 桶。
-
----
-
-### 2026-07-13 23:38:25  #市場
-
-AppLovin 股價下跌 9.6%。
-
----
-
-### 2026-07-13 23:37:09  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish #FTSE100 #Impact bearish
-
-On Monday July 13, European equity indices closed as follows: Germany's DAX 30 +22.95 pts (+0.09%) at 25,108.37. UK FTSE 100 -5.86 pts (-0.06%) at 10,491.43. France's CAC 40 +25.68 pts (+0.31%) at 8,364.65. Euro STOXX 50 -1.51 pts (-0.02%) at 6,268.46. Spain's IBEX 35 -59.80 pts (-0.31%) at 19,324.90. Italy's FTSE MIB +188.33 pts (+0.36%) at 52,802.50.
-
----
-
-### 2026-07-13 23:36:47  #國際
-
-【英國擬將伊朗伊斯蘭革命衛佇列為“非法組織”】英國政府13日宣佈，已向議會提交法規草案，擬將伊朗伊斯蘭革命衛隊等3個組織列為“非法組織”。英國政府說，草案將於本週晚些時候由議會審議。草案如獲議會批准，支援或協助相關組織可被判處14年監禁；受相關組織指使實施縱火等破壞活動，最高可被判處終身監禁。新規還將降低檢方的舉證難度。截至目前，伊朗方面尚未就此作出回應。（新華社）
-
----
-
-### 2026-07-13 23:34:05  #宏觀 #國際
-
-【中國駐日使館就日涉“南海仲裁案裁決”惡劣言行提出嚴正交涉】針對日本外相就“南海仲裁案裁決”出臺十年發表談話、日夥同他國發表所謂聯合宣告，中國駐日本大使館公使施泳13日向日本外務省亞洲大洋州局局長金井正彰提出嚴正交涉和強烈抗議。中方強調，所謂“裁決”違反國際法基本準則，嚴重損害《聯合國海洋法公約》嚴肅性和權威性，嚴重衝擊國際法治，是一張非法無效沒有約束力的廢紙，中方反對且不接受任何基於該“裁決”的主張和行動。中國在南海的領土主權和海洋權益任何情況下不受該“裁決”影響。日本在南海問題上負有歷史罪責且並未清算，沒有資格說三道四。日方持續插手南海問題、政治操弄非法“裁決”，有關惡劣言行挑戰戰後國際秩序和國際法治，破壞南海和平穩定，違背地區國家共同利益和意願，引發地區國家和國際社會的高度警惕。中方將堅決有力回擊日方挑釁，堅定捍衛自身領土主權和海洋權益。（新華社）
-
----
-
-### 2026-07-13 23:33:26  #國際
-
-博世將於 2026 年啟動美國本土商業化生產。
-
----
-
-### 2026-07-13 23:33:25  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-Axios: a U.S. official said U.S. Central Command will announce later on Monday the specific timing for resuming the 'Block Iran' operation.
-
----
-
-### 2026-07-13 23:32:53  #宏觀 #市場 #國際
-
-美國財政部拍賣三個月期國債，得標利率3.760%，投標倍數2.84。拍賣六個月期國債，得標利率3.860%，投標倍數3.11。
-
----
-
-### 2026-07-13 23:32:41  #焦點 #國際
-
-據Axios記者： 新一輪海上封鎖尚未生效，相關法規要求需提前 24 小時通知船東。一名美國官員表示，美軍中央司令部將於週一晚些時候公佈具體實施時間。
 
 ---

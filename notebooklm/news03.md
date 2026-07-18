@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-19 01:08:25_
-_本檔包含 4010 則快訊，約 722355 字_
+_更新時間：2026-07-19 02:05:38_
+_本檔包含 4017 則快訊，約 722648 字_
+
+---
+
+### 2026-07-15 23:03:29  #國際
+
+【默茨稱不希望美國干涉德國選舉】德國總理默茨15日表示，不希望美國干涉德國選舉。默茨當天在出席政府夏季新聞釋出會時說，德國不會干涉美國大選。“反過來說，我也不希望美國政府或與政府關係密切的機構干涉德國選舉。”默茨說，外國向德國政黨提供資金違反德國法律，希望有關國家遵守德國相關法律規定。德國薩克森-安哈爾特州、柏林州和梅克倫堡-前波莫瑞州將於今年9月舉行州議會選舉。多項民調顯示，極右翼的德國選擇黨目前在薩克森-安哈爾特州和梅克倫堡-前波莫瑞州的支援率均位居第一。“在德國，一個極右翼政黨進入政府，這與歐盟其他國家出現類似情況具有完全不同的意義，”默茨說，“我將竭盡所能阻止這種情況發生。”（新華社）
+
+---
+
+### 2026-07-15 23:03:19  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh said controlling inf over the medium term is the Fed's responsibility.
+
+---
+
+### 2026-07-15 23:02:28  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+US Treasury said on its website it has imposed counterterrorism sanctions that include entities in Russia and Iran.
+
+---
+
+### 2026-07-15 23:02:06  #MKT News
+
+【US embassy in Lebanon says Lebanon, Israel to start pilot-zone agreement within days】The US embassy in Beirut said on the afternoon of the 15th that Lebanon and Israel concluded two days of talks and have agreed on the structure and operating rules for a proposed pilot zone. Final procedural steps are imminent and implementation is expected within days. The embassy said the next phase will expand technical talks to implement all terms of the trilateral framework and pursue a comprehensive Lebanon‑Israel agreement. The sixth round of talks began in Rome on the 14th and focused on a pilot plan for Israeli forces to withdraw from two southern Lebanese pilot areas, with the Lebanese army to enter the vacated zones to ensure the absence of HEZBOLLAH weapons.
+
+---
+
+### 2026-07-15 23:02:04  #國際
+
+【美駐黎大使館：黎以就試點區達成的協議將在幾天內啟動】美國駐黎巴嫩大使館當地時間15日下午宣佈，黎巴嫩和以色列經過兩天的“富有成效的積極討論”後結束會談，雙方就擬議試點區的結構和運作準則達成一致。美大使館在一份宣告中表示，最後的程式步驟即將完成，預計將在未來幾天內開始實施。大使館補充說，下一階段將擴大技術會談的範圍，重點是落實三邊框架的所有條款，以達成黎巴嫩和以色列之間的全面協議。當地時間14日，以色列與黎巴嫩在義大利羅馬開始舉行第六輪談判。本輪談判為期兩天。本次談判重點聚焦一項試點計劃，即討論以軍從黎巴嫩南部兩個試點區域實施首批撤軍的具體落實方案。根據該計劃，黎巴嫩政府軍將進入以軍撤出的區域，以確保該地區沒有黎巴嫩真主黨的武器。（央視）
+
+---
+
+### 2026-07-15 23:01:24  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said the Fed's balance sheet should be kept as small as possible so it can be expanded in a crisis.
+
+---
+
+### 2026-07-15 23:01:07  #MKT News
+
+BOC Governor Macklem said the bank will make interest-rate decisions gradually.
+
+---
+
+### 2026-07-15 23:01:02  #MKT News #Important
+
+As of the 23:00 close, China's most-active futures contracts were mixed: PTA fell more than 2%; bottle-grade PET chips and short-fiber (PSF) fell about 2%; p-xylene (PX), low-sulfur fuel oil (LU) and fuel oil fell over 1%; caustic soda fell nearly 1%; synthetic rubber rose over 1%; plastics and soybean meal rose about 1%.
+
+---
+
+### 2026-07-15 23:01:01  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Breaks 4-Day Advance — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, halted a four-day advance on Wednesday, falling about 1.7% to 2,929 points, dragged down by the bigger-size segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, snapped a four-day rally, dropping about 3.3% to 4,594 points. Conversely, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, went up 0.3% to 2,258 points; and the supramax index rose by 0.6% to its highest since August 2022 at 1,720 points.
+
+---
+
+### 2026-07-15 23:00:32  #其他
+
+國際貨幣基金組織戰略部門主管：目前很難判斷10月的預測結果將是怎樣；我們必須繼續對不同情景展開研判。
+
+---
+
+### 2026-07-15 23:00:16  #MKT News
+
+Ukrainian President Zelenskiy said Ukraine expects to have the technical capability to produce Patriot missiles by end-2026.
+
+---
+
+### 2026-07-15 23:00:14  #國際
+
+澤連斯基稱，烏克蘭預計將在2026年底前獲得生產愛國者導彈的技術能力。
+
+---
+
+### 2026-07-15 23:00:10  #央行 #國際
+
+美聯儲主席沃什：利率應作為貨幣政策的主要調控工具。
+
+---
+
+### 2026-07-15 23:00:09  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: British Pound Appreciates by 0.66% — Top currency gainers are British Pound (0.66%), New Zealand Dollar (0.45%), Australian Dollar (0.33%), Euro (0.14%) and Japanese Yen (0.07%). Biggest losers are Indian Rupee (-0.25%) and Dollar Index (-0.18%).
+
+---
+
+### 2026-07-15 23:00:09  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said interest rates should be the primary driver of monetary policy.
+
+---
+
+### 2026-07-15 23:00:06  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he hopes policy decisions will promote balance-sheet adjustment.
+
+---
+
+### 2026-07-15 23:00:02  #市場
+
+【夜盤期貨收盤】PTA連續跌2.55%，短纖連續跌1.79%，低硫燃料油連續跌1.26%，燃料油連續跌1.06%，豆粕連續漲0.88%。
+
+---
+
+### 2026-07-15 22:59:57  #央行 #其他
+
+加拿大央行行長：近期經濟增長的可持續性存在疑問。
+
+---
+
+### 2026-07-15 22:59:50  #央行 #國際
+
+美聯儲主席沃什：希望政策決議主導資產負債表配套機制搭建。
+
+---
+
+### 2026-07-15 22:59:36  #MKT News #SNDK.O #Impact bullish
+
+Societe Generale raised its PT on SanDisk (SNDK.O) to $1,900 from $1,200.
+
+---
+
+### 2026-07-15 22:59:32  #其他
+
+國際貨幣基金組織戰略主管：能源供應長期持續中斷將對全球經濟造成影響。
+
+---
+
+### 2026-07-15 22:59:20  #其他
+
+法國巴黎銀行Exane分部將閃迪目標股價從1200美元上調至1900美元。
+
+---
+
+### 2026-07-15 22:59:08  #央行 #其他
+
+加拿大央行行長：如果油價持續走高，很可能仍有必要連續加息；但他稱這並非該行的基準情景。
+
+---
+
+### 2026-07-15 22:58:49  #其他
+
+國際貨幣基金組織戰略主管：氣候問題對許多國家的宏觀經濟健康至關重要；我們並未停止對該議題的關注。
+
+---
+
+### 2026-07-15 22:58:45  #公司 #觀點 #國際
+
+一份備忘錄顯示，花旗集團已任命文森佐·魯傑裡擔任航空航天與國防業務董事總經理兼英國、歐洲、中東及非洲區域主管。
+
+---
+
+### 2026-07-15 22:58:39  #MKT News #DXY #Impact bearish #WTI #Impact bullish #Brent
+
+BOC Governor Macklem said if oil prices rise again and push up inf, consecutive rate hikes would likely be required to rein it in.
+
+---
+
+### 2026-07-15 22:58:37  #央行 #市場 #焦點
+
+加拿大央行行長：若油價再度上漲並傳導至通脹，預計需要連續加息以控制通脹。
+
+---
+
+### 2026-07-15 22:58:25  #公司
+
+【百事益生元可樂正式進入中國市場】7月15日，百事集團旗下產品百事益生元可樂正式進入中國市場，新品採用330ml常規罐及500ml中膠瓶兩種規格。
+
+---
+
+### 2026-07-15 22:58:21  #其他
+
+哥倫比亞 5 月製造業產值同比下滑 0.4%，市場預期為增長 1.9%。
+
+---
+
+### 2026-07-15 22:58:16  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said he does not want to prejudge the findings of the balance-sheet working group.
+
+---
+
+### 2026-07-15 22:57:56  #央行 #國際
+
+美聯儲主席沃什：不會預先判定資產負債表專項工作組的調查結論。
+
+---
+
+### 2026-07-15 22:57:50  #公司 #國際
+
+【德國總理表示不會阻止裕信銀行收購德國商業銀行】德國總理弗里德里希·默茨表示，他從根本上並不反對裕信銀行（UniCredit SpA）收購德國商業銀行（Commerzbank AG）的嘗試，但他不喜歡這家義大利銀行的操作方式。默茨指出，目前仍持有德國商業銀行超過12%股份的德國政府，並未向裕信銀行出售其股份，但“相當大比例”的投資者做出了不同的決定。默茨表示，他認同歐洲需要大型、有競爭力的銀行，且公司的所有權結構應由股東而非政府決定，但他希望瞭解相關的商業模式，因為德國商業銀行在為德國中小企業提供融資方面發揮著重要作用。
 
 ---
 
@@ -24017,155 +24209,5 @@ TJX Companies Stock Price Hits 8-week Low — TJX Companies shares decreased to 
 ### 2026-07-14 21:43:39  #市場
 
 UL Solutions股價上漲2.5%，此前瑞銀將其評級從中性上調至買入。
-
----
-
-### 2026-07-14 21:43:28  #MKT News #Star Stocks #MSFT.O #Impact bearish
-
-Microsoft (MSFT.O) shares fell more than 2%.
-
----
-
-### 2026-07-14 21:43:03  #MKT News #Macro & Rates #WTI #Impact bullish #US10Y #Nasdaq100 #Impact bearish
-
-【Analyst: Rising oil and inf risks remain market trading focus】eToro analyst Lale Akoner says the U.S.-Iran war is pushing oil higher, raising inf risk and could keep interest rates elevated for longer, a negative backdrop for bonds and rate-sensitive sectors including property, utilities and expensive growth stocks. "Unless oil supply faces a more severe shock, the market's main focus will remain on oil prices, inf expectations and rate-sensitive asset classes."
-
----
-
-### 2026-07-14 21:43:02  #其他
-
-滙豐銀行將ARM HOLDINGS PLC <ARM.N>評級從買入下調至持有；目標價從255美元上調至315美元。
-
----
-
-### 2026-07-14 21:42:26  #市場
-
-微軟股價下跌2.2%，此前IBM公佈第二季度初步業績。
-
----
-
-### 2026-07-14 21:42:22  #其他
-
-美股盤初，主要行業ETF漲跌不一，半導體ETF漲近3%，全球科技股指數ETF漲超1%，醫療業ETF跌近2%。
-
----
-
-### 2026-07-14 21:42:03  #國際
-
-烏克蘭將根據與法國達成的協議採購陣風戰鬥機及防空系統。
-
----
-
-### 2026-07-14 21:42:00  #MKT News #Market Themes #AI Revolution
-
-Goldman Sachs CEO Solomon said AI development remains at an early stage.
-
----
-
-### 2026-07-14 21:41:53  #其他
-
-【寬基ETF兩天爆量成交，業內直言：這是“跌出來”的機會】中小盤寬基ETF亦受到資金追捧。7 月13日，南方中證500ETF、南方中證1000ETF分別淨流入約60億元，華夏中證1000ETF淨流入48.45億元，華夏科創板50ETF和易方達創業板ETF均獲淨流入20億元。在業內看來，大額資金再次流向寬基ETF，讓市場嗅到了“抄底”的訊號。華泰柏瑞滬深300ETF在7月12日的成交額為40億元，13日成交額達到77.05億元，14日繼續放大至86.31億元。 7月13日，該ETF獲得55.38億元資金淨流入，最新規模為868.83億元。有市場人士指出，7月市場“變盤”訊號明顯，部分寬基ETF份額翻倍。以南方中證1000ETF為例，其6月底份額為30.77億份，至7月13日，份額為71.2億份，增幅為131.4%。這種短時間內的倍數級增長，在歷史上往往與重要底部區域的機構大舉建倉行為高度吻合。（中國基金報）
-
----
-
-### 2026-07-14 21:40:51  #公司
-
-【長鑫科技市值在A股排名第28】7月14日，長鑫科技公佈了公司科創板IPO發行價為8.66元/股。而長鑫科技在行使超額配售選擇權之前，發行後總股本6688088.6077萬股，據此計算，長鑫科技市值為5791.88億元，若順利上市長鑫市值在A股排名第28。（第一財經）
-
----
-
-### 2026-07-14 21:40:16  #公司 #市場
-
-財捷集團下跌4.6%，Atlassian下跌7.5%，Adobe下跌4.8%。
-
----
-
-### 2026-07-14 21:40:12  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
-
-【Analyst: June price gains broadly eased, may not repeat in coming months】June CPI showed a broad slowdown in price gains. Clothing, used cars, auto insurance and healthcare prices fell MoM in June, while the MoM increase in housing costs hit its lowest level since 2021. Omair Sharif, head of consulting firm Inflation Insights, said declines in auto insurance, wireless data services and hotels jointly pulled down overall inf in June, but warned the improvement may not recur in the coming months.
-
----
-
-### 2026-07-14 21:40:11  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.08% Higher — The Dow Jones Index is picking up 42 points or 0.08 percent on Tuesday. Gains are led by Goldman Sachs (4.55%), Caterpillar (3.28%) and 3M (1.03%). Biggest losers are IBM (-23.81%), Microsoft (-2.42%) and Merck (-1.73%).
-
----
-
-### 2026-07-14 21:40:00  #市場
-
-ServiceNow股價下跌7%，賽富時（Salesforce）股價下跌3.9%，埃森哲（Accenture）股價下跌3.5%。
-
----
-
-### 2026-07-14 21:39:56  #MKT News #GS.O #Impact bullish
-
-Goldman Sachs CEO Solomon said the bank is further accelerating growth in asset and wealth management through targeted acquisitions.
-
----
-
-### 2026-07-14 21:39:47  #公司 #觀點
-
-高盛執行長表示，公司將透過定向收購進一步加快資產管理與財富管理板塊的增長。
-
----
-
-### 2026-07-14 21:39:36  #Trading Economics #Markets #United States #stocks #Importance 1
-
-NextEra Energy Stock Price Hits 7-week High — NextEra Energy shares increased to 89.26 USD, the highest since May 2026. Over the past 4 weeks, NextEra Energy gained 3.61%, and in the last 12 months, it increased 18.91%.
-
----
-
-### 2026-07-14 21:39:32  #其他
-
-【我國自然資源確權登記將加快全域立體發展】據新華社北京7月14日電，為健全自然資源資產產權制度，我國將深化自然資源確權登記制度改革，推進自然資源和不動產統一確權登記全域立體發展。
-
----
-
-### 2026-07-14 21:39:26  #市場 #國際
-
-【美伊對抗升溫刺激國際油價繼續大漲】由於美國和伊朗軍事對抗升溫、美方宣稱將恢復對伊朗的海上封鎖並對經由霍爾木茲海峽運輸的貨物收費等訊息加劇市場對原油供應短缺的擔憂，國際原油期貨價格14日再度大漲。當天，紐約商品交易所輕質原油期貨價格一度上漲3.9%，至每桶81美元以上；倫敦布倫特原油期貨價格盤中一度漲超5%，至每桶87美元以上。美軍13日宣佈，對伊朗發動“連續第三晚”的打擊行動，並將於美國東部時間14日恢復對伊朗的海上封鎖。伊朗方面則表示霍爾木茲海峽近期局勢升級的直接責任在美國，並對位於中東地區的美軍基地實施報復性打擊。（央視新聞）
-
----
-
-### 2026-07-14 21:39:02  #其他
-
-【吉林省釋出山洪災害氣象風險紅色預警】吉林省水利廳和吉林省氣象局2026年7月14日21時聯合釋出山洪災害氣象風險紅色預警。預計，7月14日夜間至7月15日白天：延邊州敦化市、汪清縣、延吉市發生山洪災害可能性很大；白山市撫松縣、靖宇縣，吉林市樺甸市、磐石市，通化市輝南縣，延邊州安圖縣、和龍市、琿春市、龍井市、圖們市，長白山保護開發區發生山洪災害可能性大；白山市渾江區、江源區、臨江市、長白縣，遼源市東豐縣，梅河口市，通化市本級、通化縣、柳河縣、集安市發生山洪災害可能性較大；其他地區也可能因局地短時強降水引發山洪災害。（央視新聞）
-
----
-
-### 2026-07-14 21:39:00  #其他
-
-【北京成立全國首個自主實驗室聯盟，首批意向成員單位超百家】7月14日，2026自主實驗室大會在中關村國際技術交易中心召開。大會上，中關村儀創智慧實驗室創新發展聯盟揭牌成立，標誌著我國自主實驗室行業首個跨領域、非營利性產業協同組織正式投入執行。目前，聯盟的首批意向成員單位已超過100家，涵蓋高校院所、儀器裝備企業、AI技術企業、標準化單位、檢測認證機構、使用者單位等產學研用各方力量，將共同推動自主實驗室技術的標準化、規模化、商業化應用。近期，聯盟將釋出首批自主實驗室團體標準立項計劃，並聯合會員單位在生命科學、醫藥健康、新材料、新能源等領域建設自主實驗室示範專案。（北京日報）
-
----
-
-### 2026-07-14 21:38:52  #MKT News #Brent #Impact bearish #XAUUSD #S&P500 #Impact bullish
-
-Market sources say Lebanon and Israel are in talks in Rome to implement an agreement to end hostilities.
-
----
-
-### 2026-07-14 21:38:41  #國際
-
-【船員遇害 印度向伊朗提出強烈抗議】據新加坡《聯合早報》網站7月14日報道，印度外交部14日說，已就一名印度海員在霍爾木茲海峽遇害事件召見伊朗副大使，並向伊朗提出強烈抗議。（上證報）
-
----
-
-### 2026-07-14 21:38:27  #公司 #觀點
-
-高盛執行長表示，我們第二季度在私人信貸領域籌集了310億美元。
-
----
-
-### 2026-07-14 21:38:12  #MKT News #WTI #Impact mixed #Brent #XAUUSD
-
-US Republican Senator Marshall said Iran remains decades away from acquiring nuclear weapons. He said Gulf states should, if necessary, deploy ground forces against Iran, and that the US should not take a leading role in such operations.
-
----
-
-### 2026-07-14 21:38:06  #其他
-
-【西安：聚焦光子、半導體等優勢領域 打造硬科技產業領域整合式場景】7月14日，西安市人民政府辦公廳印發《西安市加快場景培育和開放推動新場景大規模應用實施方案》。其中提出，以場景創新助力產業強鏈。依託航天、航空、低空經濟等優勢，在全空間無人體系等領域拓展重大應用場景。聚焦光子、半導體等優勢領域，釋放全鏈條場景需求，打造硬科技產業領域整合式場景。瞄準工業軟體研發、氫能應用、無人機巡檢、腦機介面等細分賽道，開展高價值小切口場景建設，加速新技術、新產品的落地驗證和迭代升級。精準培育氫能與核聚變能、生物製造、具身智慧等高潛能未來產業，用場景牽引技術落地、補鏈強鏈，提升全要素生產率，形成“場景釋出—技術適配—中試驗證—規模化應用—產業集聚”閉環。
 
 ---
