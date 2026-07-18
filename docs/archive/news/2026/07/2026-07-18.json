@@ -1,7 +1,39 @@
 {
   "date": "2026-07-18",
-  "count": 781,
+  "count": 785,
   "items": [
+    {
+      "id": "mkt:019f750e-fe59-7aab-8df0-5ff52946b8c1",
+      "time": "2026-07-18 19:49:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Major data leak at India's largest nuclear plant, Kudankulam】Indian authorities reported on the 17th that the country's largest nuclear plant, the Kudankulam nuclear power plant, suffered a major data breach that exposed nearly 19,000 files, including engineering design drawings, supplier information and employee records. Some experts warned the leak could pose security and safety risks to the facility; the plant operator said the breach does not pose related operational or safety risk."
+    },
+    {
+      "id": "mkt:019f750e-7c48-7aab-8df0-53dfe03e3d6f",
+      "time": "2026-07-18 19:48:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ren Zeping team dissolves VIP chat after scam links; annual-membership course sales ≈26.22 mln yuan】Ren Zeping's team dissolved its VIP group chat mid-week after discovering, according to the team's assistant, that \"some people were using our group to send scam links and creating unauthorized groups to post prohibited content.\" The team said it will stop using group chat for notifications; course enrollment and member benefits continue to be delivered. Third-party platform data show year-to-date single-platform paid-course sales of 20,000–100,000 units; the top five courses are an annual membership priced at 2,980 yuan with cumulative sales above 8,800 units, implying at least 26.22 mln yuan of revenue. The membership remains available for purchase on WeChat store and other platforms."
+    },
+    {
+      "id": "4995491",
+      "time": "2026-07-18 19:47:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度最大核電站發生大規模資料洩露】據印度方面17日訊息，印度最大核電站庫丹庫拉姆核電站近日發生大規模資料洩露，包括工程設計圖、供應商資訊和員工資料等近1.9萬份檔案外洩。一些專家擔憂，這起事件可能對該核電站安全構成威脅，但運營方稱核電站不存在相關風險。（新華社）"
+    },
+    {
+      "id": "4995490",
+      "time": "2026-07-18 19:45:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高通：與榮耀等生態夥伴深化協作，推動智慧體體驗和終端的加速落地】2026年世界人工智慧大會正在進行中，“從數字螢幕到具身智慧——物理世界新正規化”榮耀分論壇於17日下午舉行。高通公司全球副總裁、中國區研發負責人、IEEE Fellow徐晧博士表示，”智慧體之年已至。”徐晧博士以這一判斷開篇，系統闡述了智慧體浪潮對終端產業帶來的底層正規化變革。他表示，智慧體不僅是互動方式的升級，更是對終端設計理念的重構——裝置需要從”被動響應”轉向”主動服務”，這對終端感知能力、AI算力、實時連線能力提出了全新要求。為此，高通正透過異構計算架構、端側感知能力最佳化、廣泛終端產品覆蓋等舉措，構建以智慧體為中心的終端生態，與榮耀等生態夥伴深化協作，推動智慧體體驗和終端的加速落地。（澎湃）"
+    },
     {
       "id": "4995487",
       "time": "2026-07-18 19:38:31",
