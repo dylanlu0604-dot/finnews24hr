@@ -1,7 +1,55 @@
 {
   "date": "2026-07-18",
-  "count": 828,
+  "count": 833,
   "items": [
+    {
+      "id": "mkt:019f7553-7baa-7aab-8df0-dc73e2eaae4d",
+      "time": "2026-07-18 21:03:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said continued attacks constitute a serious escalation, complicating efforts to de-escalate tensions and undermining political and diplomatic initiatives for regional security and stability."
+    },
+    {
+      "id": "mkt:019f7553-32dd-7aab-8df0-d5c99f5417c7",
+      "time": "2026-07-18 21:03:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry said attacks on a Kuwaiti power plant and desalination facility have crossed all red lines and flagrantly violated UN Security Council resolutions."
+    },
+    {
+      "id": "mkt:019f7552-b0d6-7aab-8df0-cbb5daaee63e",
+      "time": "2026-07-18 21:03:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Qatar's foreign ministry strongly condemned Iran's repeated attacks on Jordan, Bahrain and Kuwait, saying they flagrantly violate those states' sovereignty and territorial integrity and breach international law, the UN Charter and principles of good-neighbourliness."
+    },
+    {
+      "id": "4995537",
+      "time": "2026-07-18 21:02:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【太空計算服務專委會正式成立】7月18日，在2026世界人工智慧大會（WAIC）期間，由工業和資訊化部中小企業發展促進中心發起的中國中小企業國際合作協會太空計算服務專業委員會正式成立。作為國內首個聚焦太空計算、面向廣大中小企業服務的全國性產業協同平臺，專委會將搭建一體化產業對接載體，助力中小企業貫通星地算力全產業鏈條，助推我國空天資訊產業高質量發展。東方天算作為專委會常務理事單位，聯合四十餘家產業鏈上下游主體，共同構建產學研用深度融合的產業樞紐。"
+    },
+    {
+      "id": "mkt:019f7550-a0fc-7aab-8df0-c5ec3c8c7811",
+      "time": "2026-07-18 21:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Turing Quantum launches industry-grade quantum-classical hybrid agent platform QAgent】July 18 — Turing Quantum unveiled QAgent at the 2026 World Artificial Intelligence Conference (WAIC). The company says QAgent is the world’s first photonic-quantum-based, industry-deployable quantum-classical hybrid agent platform, exposing large language models and agents as a single scheduling interface. Built on Turing Quantum’s proprietary photonic quantum computing stack, QAgent integrates a hybrid quantum-classical compute layer, the DeepQuantum quantum AI programming framework, a quantum algorithm library and industry toolkits, and supports an end-to-end workflow from natural-language input and task decomposition to coordinated quantum-agent invocation, quantum compute scheduling and result aggregation. Turing positions the product as a step toward moving quantum computing from frontier research capacity to industry capability and agent-driven commercial services."
+    },
     {
       "id": "4995535",
       "time": "2026-07-18 20:59:03",
