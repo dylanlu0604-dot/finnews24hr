@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19 02:56:22",
-  "count": 19109,
+  "updated": "2026-07-19 03:00:33",
+  "count": 19110,
   "items": [
+    {
+      "id": "4995669",
+      "time": "2026-07-19 02:57:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西戈爾航空母公司即將達成採購最多20架巴航工業E2支線客機的交易。"
+    },
+    {
+      "id": "mkt:019f7696-384d-7aab-8df2-c1462d9f15c1",
+      "time": "2026-07-19 02:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy said he spoke today with the commander-in-chief of the Armed Forces of Ukraine."
+    },
     {
       "id": "mkt:019f7692-886e-7aab-8df2-b9ab2efa4f76",
       "time": "2026-07-19 02:52:22",
@@ -176246,15 +176262,6 @@
         "國際"
       ],
       "text": "市場資訊：阿曼提出一項方案，計劃透過兩條受管控航運通道保障霍爾木茲海峽通航暢通，即船舶可經阿曼水域自由通行，若取道伊朗水域，則需事先獲得伊朗許可。"
-    },
-    {
-      "id": "mkt:019f528b-23dc-7aab-8d3f-737723713eaa",
-      "time": "2026-07-12 02:57:58",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "CNN sources say Oman has proposed managing shipping through the Strait of Hormuz via two separately controlled channels; the proposal has not been finalized."
     }
   ]
 }
