@@ -1,7 +1,27 @@
 {
   "date": "2026-07-19",
-  "count": 159,
+  "count": 161,
   "items": [
+    {
+      "id": "4995701",
+      "time": "2026-07-19 05:35:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI與Anthropic均表示不會利用企業客戶的提示詞開展模型訓練，但企業仍會因員工使用聊天機器人、反饋工具以及留存的使用資料產生資訊洩露風險。兩家公司的競品廠商正藉助企業的這類顧慮，主推私密性更強的替代產品。"
+    },
+    {
+      "id": "mkt:019f7727-c902-7aab-8df3-8d27e2d8a1db",
+      "time": "2026-07-19 05:35:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian government: Iranian foreign minister Araghchi and Iraqi foreign minister Fouad Hussein discussed latest regional developments following a US military strike on Iran, Washington’s repeated violations of the Islamabad Memorandum of Understanding, and Iran’s responses to those actions."
+    },
     {
       "id": "4995700",
       "time": "2026-07-19 05:31:47",
