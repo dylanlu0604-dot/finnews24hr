@@ -1,7 +1,235 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-18 22:03:21_
-_本檔包含 3832 則快訊，約 722259 字_
+_更新時間：2026-07-18 23:11:20_
+_本檔包含 3834 則快訊，約 722162 字_
+
+---
+
+### 2026-07-14 21:30:20  #其他
+
+COINBASE GLOBAL INC：部分使用者在Flare網路上可能會遇到傳送和接收延遲的情況。
+
+---
+
+### 2026-07-14 21:30:07  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Intuitive Surgical Stock Price Hits 25-month Low — Intuitive Surgical shares decreased to 395.02 USD, the lowest since May 2024. Over the past 4 weeks, Intuitive Surgical lost 2.23%, and in the last 12 months, it decreased 21.14%.
+
+---
+
+### 2026-07-14 21:30:06  #Trading Economics #Markets #United States #stocks #Importance 1
+
+IBM Stock Price Hits 7-week Low — IBM shares decreased to 226.24 USD, the lowest since May 2026. Over the past 4 weeks, IBM gained 8.01%, and in the last 12 months, it increased 2.27%.
+
+---
+
+### 2026-07-14 21:29:40  #國際
+
+市場訊息：美國官員表示今天對伊朗今天實施了有限數量的額外打擊，以消除在伊朗出現的新威脅。
+
+---
+
+### 2026-07-14 21:28:42  #MKT News #Macro & Rates #US Economy #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+TRUMP: Labor Department report shows June headline CPI 3.5% YoY; seasonally adjusted CPI -0.4% MoM, the largest monthly drop in six years.
+
+---
+
+### 2026-07-14 21:28:30  #公司 #國際
+
+挪威航空執行長表示，歐洲航空公司仍普遍面臨通脹壓力。
+
+---
+
+### 2026-07-14 21:28:14  #市場
+
+【SK海力士美股盤前漲超10%】SK海力士美股盤前漲超10%，現報167.67美元。
+
+---
+
+### 2026-07-14 21:28:10  #其他
+
+巴克萊將百度目標價從每股128.00美元下調至124.00美元。
+
+---
+
+### 2026-07-14 21:27:56  #其他
+
+博鋒航運：預計租船延期將產生約2900萬美元總收入。
+
+---
+
+### 2026-07-14 21:27:48  #其他
+
+巴克萊維持百度評級為持股觀望。
+
+---
+
+### 2026-07-14 21:27:24  #宏觀
+
+【陝西金融監管局：推動建成全國首個省市聯動多層次綜合巨災保險機制】7月14日，陝西金融監管局發文表示，陝西金融監管局指導延安金融監管分局聯合市應急、財政等9部門，統籌推進綜合巨災補充保險試點落地，出臺《延安市綜合巨災補充保險試點實施方案》《延安市綜合巨災補充保險損失評定和理賠細則》，明晰災情預警、現場核查、房屋定損、災後救助全鏈條權責，擇優篩選7家優質保險機構組建市級共保體，統一全市承保、定損、理賠服務標準，推動市級財政統籌出資3600萬元，為轄區群眾人身安全、居民住宅提供總額2億元風險保障，打造全國首個“省級基礎兜底、市級補充升級”的省市聯動多層次綜合巨災保險機制。
+
+---
+
+### 2026-07-14 21:26:55  #公司
+
+【因虛假理賠，華安保險甘南中心支公司一原查勘定損員被禁業6年】7月14日，國家金融監督管理總局甘南監管分局釋出行政處罰資訊顯示，華安財產保險股份有限公司甘南中心支公司因虛假理賠被罰款7萬元；時任華安財產保險股份有限公司甘南中心支公司副總經理（主持工作）王有斌被罰款1萬元；華安財產保險股份有限公司甘南中心支公司原查勘定損員馬維宏被禁止進入保險業6年。
+
+---
+
+### 2026-07-14 21:26:54  #MKT News #Commodities #Energy
+
+【Vedanta Oil & Gas to invest $5 bln over five years to lift output to ~500,000 boe/d】Vedanta Oil & Gas said it will invest $5 billion over the next five years to raise oil and gas output to about 500,000 barrels of oil equivalent per day, more than fivefold its recent level. The company reported average production of 87,200 bbl/d in the fiscal year ended March 31 (down from over 210,000 bbl/d a decade ago) and expects about 100,000 bbl/d this fiscal year. Vedanta said the investment will focus on improved recovery at mature fields and new field development to offset declining mature-field output and help reduce India’s energy import reliance; it aims for its volumes to account for over half of India’s crude production.
+
+---
+
+### 2026-07-14 21:26:26  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Ease but Remain Close to Two-Month Highs — UK 10-year gilt yields fell back below 5%, though they remained near two-month highs, tracking a decline in US Treasury yields after softer-than-expected US inflation data reduced expectations for Federal Reserve rate hikes this year. However, Middle East tensions raised concerns that rising energy prices could reignite inflation and push interest rates higher, leading markets to increase bets on Bank of England rate hikes. Investors now nearly fully expect two increases in 2026, with a September hike fully priced in. Attention also shifted to UK politics, as Andy Burnham prepares to replace Keir Starmer as prime minister on July 20. The focus is on his choice for finance minister, with Ed Miliband, seen as fiscally expansive, emerging as the favorite. This prospect has unsettled gilt investors, who are already wary of Britain’s fiscal fragility.
+
+---
+
+### 2026-07-14 21:26:06  #其他
+
+【五一視界進入IDC物理AI軟體基礎設施】7月13日，IDC物理AI報告指出，軟體基礎設施層是物理AI從演示走向規模化應用的關鍵。報告所附產業圖譜顯示，五一視界同時進入物理AI軟體基礎設施層模組，覆蓋模型與策略、模擬與驗證平臺、場景資料與合成資料。
+
+---
+
+### 2026-07-14 21:25:49  #公司
+
+【樂通股份：預計2026年上半年淨利潤為580萬元–870萬元】樂通股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為盈利580萬元–870萬元，上年同期虧損293.9萬元。扣除非經常性損益後的淨利潤為盈利550萬元–820萬元，上年同期虧損350.56萬元。公司業績同比扭虧為盈，主要原因為油墨銷售收入同比增長約19.53%，產品毛利率上升，財務費用下降，及對聯營企業投資虧損減少。
+
+---
+
+### 2026-07-14 21:24:19  #公司
+
+【安道麥A：2026年上半年預計淨利潤3.64億-5.01億元 扭虧為盈】安道麥A公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為3.64億元 - 5.01億元，上年同期虧損8035萬元；扣除非經常性損益後的淨利潤為6500萬元 - 9600萬元，上年同期虧損1.50億元。公司預計2026年上半年銷售額以美元計算與2025年上半年持平，受人民幣對美元升值影響，以人民幣計算的銷售額同比下降。扭虧為盈主要因息稅前利潤同比增加、財務費用同比減少，抵消了計提固定資產減值的影響。
+
+---
+
+### 2026-07-14 21:23:42  #公司 #市場
+
+百健盤前股價下跌3%，此前該公司釋出了阿爾茨海默病藥物更新資訊。
+
+---
+
+### 2026-07-14 21:23:10  #公司
+
+【海洋王：2026年上半年淨利潤2450-3180萬元 同比下降64.78%-72.86%】海洋王公告稱，預計2026年1-6月歸屬於上市公司股東的淨利潤2450-3180萬元，同比下降64.78%-72.86%；扣非後淨利潤470-670萬元，同比下降89.84%-92.87%。業績下滑主因專業照明部分行業訂單收入不及預期、公司加大前瞻性投入致成本費用上升、控股子公司明之輝營收下滑。
+
+---
+
+### 2026-07-14 21:22:54  #國際
+
+【伊朗議會代表發表宣告：強調必須追究報復責任，並宣佈與伊斯蘭堡的協議已告終結】約180名議員發表聯合宣告，強調必須追究報復責任、終止與美國的協議、成立特別委員會審查談判事宜、透過《霍爾木茲海峽管理法》，並全方位支援武裝部隊。 宣告部分內容指出：“在議會這個陣地上，我們誓死不渝：在反抗的道路上，絕不會在努力、規劃和實際行動上有片刻懈怠。”我們堅決支援武裝部隊的表現，特別是在行使伊朗對霍爾木茲海峽的主權權利方面；在滿足他們的需求上，我們絕不吝惜任何支援。
+
+---
+
+### 2026-07-14 21:21:12  #市場 #焦點
+
+比特幣升破64000美元，日內漲2.70%。
+
+---
+
+### 2026-07-14 21:20:45  #其他
+
+市場訊息：哥倫比亞領航投資推出兩隻全新優質收益型交易所交易基金。
+
+---
+
+### 2026-07-14 21:20:42  #公司
+
+【Palantir CEO批評AI行業高管：一邊宣揚失業風險 一邊賺得盆滿缽滿】Palantir執行長亞歷克斯・卡普在採訪中表示，AI固然會整體提升民眾生活水平，但行業頂層群體攫取的收益，和其他領域的收入將形成極度失衡的懸殊差距。卡普在節目中談道：“普通民眾的生活質量會有所改善，但身處AI核心圈層的從業者，財富規模或將在原有基礎上翻十倍甚至上百倍。” 卡普認為，即便AI不會造成大規模崗位流失，大眾依舊會為此深感焦慮。不少技術領域從業者早已把這類行業收縮、崗位替代描述成無可避免的必然結果。 “手握實驗室企業管理權的管理層，一直在向外界灌輸這套說辭。他們直白告訴大家，普通人未來的生活會變得糟糕不堪，而他們自己卻藉此賺得盆滿缽滿，這也是這群人很難獲得大眾好感的原因。”卡普並未點名具體高管，但AI企業Anthropic的達里奧・阿莫代伊、OpenAI的山姆・奧特曼，此前都曾警示AI或將引發失業潮，只是後續二人相關表態有所軟化。
+
+---
+
+### 2026-07-14 21:20:41  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #XAUUSD #Impact bullish #EURUSD
+
+【U.S. inflation softer than expected, dollar under pressure】The U.S. Bureau of Labor Statistics reported June CPI -0.4% MoM and +3.5% YoY, both below consensus. The softer prints eased pressure on the Fed to hike this month and trimmed near-term rate-hike odds. Corpay Chief Market Strategist Karl Schamotta said traders pared bets on a July Fed move and the dollar extended overnight losses, with commodity currencies and other rate-sensitive FX broadly weaker.
+
+---
+
+### 2026-07-14 21:20:02  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Market sources report guided-bomb strikes on Ukraine's Zaporizhzhia region.
+
+---
+
+### 2026-07-14 21:19:41  #國際
+
+【美移民執法一週兩殺惹眾怒】當地時間7月13日，美國移民與海關執法局（ICE）執法人員在緬因州打擊“非正規移民”的行動中，開槍射殺一名26歲的哥倫比亞籍男子。這是該機構人員一週內第二次在這類行動中打死外籍移民，引發抗議。ICE所屬國土安全部發言人稱，執法人員當時正準備抓捕並驅逐一名非法移民，“另一名非法外國人乘車離開住所時，ICE人員試圖攔截汽車。這輛車企圖逃離。出於對公共安全的考慮，執法人員開槍。”但這名發言人沒有解釋死者可能構成何種“公共安全威脅”。 緬因州總檢察長辦公室說，根據“初步陳述”，這名男子在ICE人員執法時“試圖駕車朝著一名執法人員所在方向逃離”，隨即遭射殺。 而據移民權利組織說，這名哥倫比亞籍男子生前已獲准在美國工作。現場目擊者則稱清楚地聽見受害者說“我想停車”。 據統計，美國聯邦政府去年加強針對移民的執法行動力度以來，已有至少9人在這類執法行動中喪生。（CCTV國際時訊）
+
+---
+
+### 2026-07-14 21:18:58  #觀點
+
+摩根大通CFO稱近期部分經濟資料削弱K型經濟敘事。
+
+---
+
+### 2026-07-14 21:18:13  #其他
+
+現貨鈀金<XPD=>漲幅超3%，報每盎司1286.07美元。
+
+---
+
+### 2026-07-14 21:17:54  #公司
+
+TAT TECHNOLOGIES LTD：公司正在擴張，將成為331-200/250輔助動力裝置平臺備件的全球獨家授權經銷商。
+
+---
+
+### 2026-07-14 21:17:02  #公司
+
+TAT TECHNOLOGIES LTD：與霍尼韋爾航空航天公司拓展戰略合作關係。
+
+---
+
+### 2026-07-14 21:16:33  #國際
+
+印度電商企業 Udaan 宣佈完成 1.6 億美元融資。
+
+---
+
+### 2026-07-14 21:16:24  #市場
+
+鈀金期貨日內漲3%，現報1290.50美元/盎司。
+
+---
+
+### 2026-07-14 21:16:19  #公司
+
+【滙豐銀行下調IBM評級】滙豐銀行將IBM評級從持有下調至減持，目標價從231美元下調至191美元。
+
+---
+
+### 2026-07-14 21:16:13  #MKT News #Market Regions #Europe & UK #DAX #Impact bullish
+
+【European Commission to propose easing bank capital requirements this week】The European Commission will propose lowering capital requirements for some banks this week to mirror recent US and UK regulatory loosening, saying overlapping rules from different supervisors leave EU banks at a competitive disadvantage and force higher capital allocation. The change appears in a draft report due Friday that outlines the scope of legislative proposals expected next year. The draft says the Commission will propose removing leverage-related Pillar 2 capital add-ons — discretionary extra requirements set by supervisors such as the ECB — and urges reducing the number and size of other additional capital buffers and improving their design and calibration.
+
+---
+
+### 2026-07-14 21:16:10  #MKT News #Market Themes #AI Revolution #JPM.O #Impact bullish
+
+JP Morgan CEO Dimon said some roles have seen headcount reductions of 30-40% due to AI deployment, though most affected employees have been redeployed to other positions.
+
+---
+
+### 2026-07-14 21:15:53  #MKT News #Commodities #Energy
+
+ICE near-month UK wholesale gas 130.3 p/therm, up 5.01% intraday.
+
+---
+
+### 2026-07-14 21:15:43  #市場 #國際
+
+摩根大通戴蒙稱，我們部分業務已因人工智慧裁員30%至40%，且我們為大部分被裁員工安排了公司其他崗位。
+
+---
+
+### 2026-07-14 21:15:23  #MKT News #BIIB.O #Impact bullish
+
+Biogen (BIIB.O) will advance Alzheimer’s drug Diranersen into Phase III clinical trials.
 
 ---
 
@@ -22922,221 +23150,5 @@ U.S. Federal Communications Commission (FCC) will accelerate approval of satelli
 ### 2026-07-13 23:13:07  #Trading Economics #Markets #Commodity #Importance 0
 
 Platinum Trades Near November Levels — Platinum futures fell below $1,630 an ounce, hovering near late-November levels, as heightened geopolitical tensions weighed. Ongoing US-Iran hostilities and uncertainty surrounding the Strait of Hormuz lifted oil prices, amid conflicting claims over whether the waterway remained open. Higher energy costs renewed inflation concerns, reinforcing expectations of a rate hike by the Federal Reserve by year-end and weighing on non-yielding assets such as platinum. Meanwhile, the platinum market remained structurally tight and on track for a fourth consecutive annual deficit, as constrained South African mine output and subdued recycled supply continued to limit availability. The World Platinum Investment Council expects above-ground stocks to fall to 2.3 million ounces, less than three months of global demand, while robust investment demand and continued substitution of platinum for palladium in autocatalysts provided support.
-
----
-
-### 2026-07-13 23:11:47  #國際
-
-歐盟外交與安全政策高階代表卡拉斯： 獲得最多支援的方案是禁止與以色列定居點開展貿易，但未說明支援該方案的具體票數規模。
-
----
-
-### 2026-07-13 23:11:34  #市場 #國際
-
-【美國銀行調查：全球基金經理對日元看空情緒達到2022年以來最高】美國銀行調查顯示，由於日本財政和貨幣政策前景風險蓋過日本政府幹預匯市的可能性，全球投資組合經理對日元的看空情緒升至約四年來最高水平。美國銀行策略師Ralf Preusser、Adarsh Sinha等人在7月10日的報告中寫道：“投資者對日元匯率的看空程度達到2022年以來最高，推動這一觀點的主要因素是貨幣政策和財政政策風險。與此同時，美國商品期貨交易委員會(CFTC)資料顯示，截至6月底，投機性槓桿基金持有的日元淨空頭倉位達到2007年以來最多。
-
----
-
-### 2026-07-13 23:11:08  #MKT News
-
-【China foreign minister Wang Yi meets Kazakhstan foreign minister Koshyrebayev】China foreign minister Wang Yi met Kazakhstan foreign minister Koshyrebayev in Beijing on July 13. Wang pledged Chinese support for Kazakhstan’s chosen development path and offered to deepen bilateral exchanges, governance-experience sharing and pragmatic cooperation to expand their permanent comprehensive strategic partnership. China welcomed Kazakhstan’s accession to the International Mediation Institute, praised its constructive role in the China–Central Asia mechanism, the Shanghai Cooperation Organization (SCO) and CICA, and Koshyrebayev signed the institute’s convention with Wang witnessing.
-
----
-
-### 2026-07-13 23:10:50  #公司
-
-葉門民航管理局釋出通告，通知各航空公司全國所有機場現已恢復開放。
-
----
-
-### 2026-07-13 23:10:07  #國際
-
-歐盟外交與安全政策高階代表卡拉斯： 歐盟距離就針對俄羅斯的第 21 輪制裁方案達成協議 “已相當接近”。
-
----
-
-### 2026-07-13 23:07:45  #其他
-
-德國地學研究中心監測：洛亞蒂群島東南發生 6.3 級地震。
-
----
-
-### 2026-07-13 23:07:39  #央行 #其他
-
-加拿大央行將於當地時間週三09:45（北京時間21:45）釋出宣告與MPR（貨幣政策報告）。
-
----
-
-### 2026-07-13 23:07:23  #國際
-
-歐盟外交與安全政策高階代表卡拉斯： 或將召開會議討論以色列定居點相關貿易問題，所有27個成員國一致認為，以色列在西岸的定居點是非法的。
-
----
-
-### 2026-07-13 23:07:15  #MKT News #Market Regions #Europe & UK
-
-EU foreign policy chief Kallas said she may convene a meeting to discuss trade issues related to Israeli settlements.
-
----
-
-### 2026-07-13 23:05:50  #MKT News
-
-A severe wildfire is burning in the Fontainebleau forest about 60 km southeast of Paris; flames remain intense on site.
-
----
-
-### 2026-07-13 23:04:35  #國際
-
-伊朗安全官員：霍爾木茲海峽的管理權由我們的意志決定，而非你（特朗普）的帖子。特朗普所謂美國保護霍爾木茲海峽已有50年的說法，純粹是一種幻覺。特朗普忘了，霍爾木茲海峽在美國誕生之前數千年，就一直屬於伊朗。美國一再的挑釁行為，將導致伊朗行動範圍的擴大。美國及其盟友必須服從我們的安排，請把此點牢記在心。
-
----
-
-### 2026-07-13 23:04:09  #其他
-
-納斯達克100指數跌幅收窄至1%，半導體指數目前跌2.9%。
-
----
-
-### 2026-07-13 23:03:22  #MKT News #Market Regions #Europe & UK
-
-EU high representative for foreign affairs and security policy Kallas said all 27 member states agree that Israeli settlements in the West Bank are illegal.
-
----
-
-### 2026-07-13 23:03:06  #其他
-
-【鈣鈦礦-有機疊層太陽能電池研究取得新突破】中國科學院化學研究所李永舫、孟磊團隊在國際學術期刊《自然》上發表新研究成果，團隊提出“全階段調控”策略，透過引入一種可光轉換的新增劑分子，成功製備出穩態光電轉換效率達到28.04%的高效能鈣鈦礦-有機疊層太陽能電池，重新整理此類器件光電轉換效率世界紀錄，標誌著鈣鈦礦-有機疊層太陽能電池向實際應用邁出關鍵一步。
-
----
-
-### 2026-07-13 23:02:59  #MKT News
-
-【Changjiang in Poyang Lake system records 2026 No.2 flood】Rainfall pushed the Zhangshukeng hydrological station on the Changjiang (Poyang Lake system, Jiangxi) to 34.52 m at 21:40 on July 13, 0.02 m above the warning level (34.50 m), with flow at 2,530 m3/s; under main-river flood-numbering rules the event is designated "Changjiang 2026 No.2 flood".
-
----
-
-### 2026-07-13 23:02:58  #其他
-
-【鄱陽湖水系昌江發生2026年第2號洪水】受降雨影響，江西鄱陽湖水系昌江樟樹坑水文站（江西省景德鎮市）7月13日21時40分水位漲至34.52米，超過警戒水位（34.50米）0.02米，相應流量2530立方米每秒，依據主要江河洪水編號規定，此次洪水編號為“昌江2026年第2號洪水”。水利部緊盯汛情發展態勢，加強雨水情監測預報預警，提前啟動針對江西省的洪水防禦IV級應急響應，督促指導地方落實落細昌江洪水防禦各項措施，全力確保人民群眾生命財產安全。
-
----
-
-### 2026-07-13 23:02:41  #MKT News #Commodities #Energy
-
-【Chinese team sets perovskite–organic tandem solar cell record at 28.04%】Researchers at the Institute of Chemistry, Chinese Academy of Sciences, led by Academician Li Yongfang and researcher Meng Lei, reported a certified steady-state power conversion efficiency of 28.04% for a perovskite–organic tandem solar cell, a world record for this device class. The result was published July 13 in Nature and marks an important step toward practical application.
-
----
-
-### 2026-07-13 23:02:09  #MKT News #XAUUSD #Impact bullish #Brent #WTI
-
-An Iranian security official said repeated US provocations will expand Iran’s scope of action and that the United States and its allies must comply with Iran’s arrangements.
-
----
-
-### 2026-07-13 23:01:38  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-An Iranian security official said Trump had forgotten the Strait of Hormuz had belonged to Iran for thousands of years, long before the United States existed.
-
----
-
-### 2026-07-13 23:01:20  #MKT News #WTI #Impact bullish #Brent
-
-An Iranian security official said Trump’s claim that the United States has protected the Strait of Hormuz for 50 years is purely an illusion.
-
----
-
-### 2026-07-13 23:01:00  #MKT News #WTI #Impact bullish #Brent
-
-Iran security official says control of the Strait of Hormuz is determined by Iran's will, not by Trump's posts.
-
----
-
-### 2026-07-13 23:00:59  #MKT News #Important #Commodities #Energy
-
-By the 23:00 close, China’s most-active futures contracts were mostly higher. Asphalt rose over 3%; plastic, fuel oil, propylene and ethylene glycol (EG) gained more than 2%; low-sulfur fuel oil (LU) was up about 2%. Soda ash and coke fell over 1%; pulp and caustic soda declined nearly 1%.
-
----
-
-### 2026-07-13 23:00:34  #其他
-
-市場訊息：WYNNCHURCH CAPITAL 宣佈以 16 億美元將 FLOWORKS 出售給 FERGUSON。
-
----
-
-### 2026-07-13 23:00:17  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Indian Rupee Depreciates by 0.56% — Top currency losers are Indian Rupee (-0.56%), Swiss Franc (-0.42%), Japanese Yen (-0.41%), British Pound (-0.24%) and Euro (-0.10%). Gains are led by South Korean Won (0.35%) and Dollar Index (0.14%).
-
----
-
-### 2026-07-13 23:00:11  #國際
-
-7月第9周，美國對出口小麥進行了373,611噸的檢驗。對出口大豆進行了418,592噸的檢驗。對154萬噸出口玉米進行了檢驗。
-
----
-
-### 2026-07-13 23:00:03  #市場
-
-【夜盤期貨收盤】瀝青連續漲3.23%，燃料油連續漲2.41%，乙二醇連續漲2.18%，低硫燃料油連續漲1.72%，聚丙烯連續漲1.64%。
-
----
-
-### 2026-07-13 22:59:32  #MKT News
-
-USGS reports a 6.7-magnitude earthquake in the Loyalty Islands region.
-
----
-
-### 2026-07-13 22:59:21  #國際
-
-卡拉斯：歐盟將就網路行動召見俄羅斯代表。
-
----
-
-### 2026-07-13 22:58:34  #公司
-
-【港股IPO：杭州鉑科電子股份有限公司遞表港交所】利弗莫爾證券顯示，杭州鉑科電子股份有限公司向港交所提交上市申請書，獨家保薦人為招商證券國際。
-
----
-
-### 2026-07-13 22:58:28  #國際
-
-【胡塞武裝指責沙特空襲機場 葉門稱胡塞劫持飛機】薩那訊息：據胡塞武裝控制的馬西拉電視臺13日報道，沙烏地阿拉伯對胡塞武裝控制的葉門首都薩那國際機場的跑道發動多次空襲。據報道，空襲發生時，一架載有胡塞武裝代表團的伊朗客機正從伊朗首都德黑蘭飛往薩那。這架飛機最終降落在胡塞武裝控制的葉門西北部荷臺達機場。報道稱，該客機此前搭載胡塞武裝代表團前往伊朗參加伊朗已故最高領袖哈梅內伊的葬禮。葉門政府曾提出胡塞武裝代表團應在政府監督下乘坐非伊朗的飛機返回。胡塞武裝方面對此予以拒絕，並警告沙特和葉門政府不要攔截此次航班。（新華社）
-
----
-
-### 2026-07-13 22:57:20  #MKT News
-
-HKEX filing: Hangzhou Boke Electronics Co., Ltd. has submitted a listing application.
-
----
-
-### 2026-07-13 22:56:10  #國際
-
-【馬克龍稱將追加360億歐元國防投入】法國總統馬克龍今天（7月13日）宣佈，法國將在2026年至2030年期間追加360億歐元（約合2783億元人民幣）國防投入。據稱，新增投入將主要用於增加彈藥儲備、加強軍隊戰備水平、提升法國國防自主能力以及增強核威懾能力。馬克龍同時稱，法國已兌現將國防投入提高至國內生產總值的2.5%的承諾，並重申，將在其第二個總統任期結束時實現軍費預算較2017年翻一番的目標。（CCTV國際時訊）
-
----
-
-### 2026-07-13 22:54:43  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Market near fully pricing Fed hike before September】Market pricing indicates at least one Fed rate hike before September is nearly fully priced in, and two hikes are fully priced by end-March next year. Earlier, Trump said on social media the US will resume a blockade of Iran and plans to levy a 20% fee on any goods transiting the Strait of Hormuz.
-
----
-
-### 2026-07-13 22:53:47  #Trading Economics #Markets #Commodity #Importance 1
-
-Aluminum Holds Rebound from 4-Month Low — Aluminum futures in the UK were at $3,150,holding most of their rebound from the four-month low of $3,085 from earlier in July amid fresh threats to supply. US President Trump stated he would reinstate the blockade of commercial vessels out of the Strait of Hormuz following the exchange of strikes with Iran. The move dented prospect that supply from the key region would be restored. Pre-war exports from the GCC were responsible for 9% of global aluminum consumption. On top of that, the surge in natural gas prices due to the shortage from the Middle East lifted operating costs for power-hungry aluminum smelters in Europe and Asia. This added to constraints as the 45 million ton supply cap for China was due to become restricting this year. Consequently, stocks of primary aluminum at the LME sank by 43% tonnes this year to 285,000 tonnes. Also, industry giant Macquarie forecasted a global aluminum shortfall of around 930,000 tonnes.
-
----
-
-### 2026-07-13 22:53:33  #其他
-
-洛亞蒂群島東南發生6.01級地震。
-
----
-
-### 2026-07-13 22:52:00  #MKT News #Market Regions #Greater China
-
-【Chengdu proposes 1,800 yuan monthly cap for housing provident fund rental withdrawals】Chengdu Housing Provident Fund Management Center proposes allowing contributors renting commercial housing in the city to withdraw up to 1,800 yuan per month from their housing provident fund, capped at 21,600 yuan annually, to boost rental support and housing consumption. The proposal is open for public comment from July 14 to July 20, 2026.
 
 ---
