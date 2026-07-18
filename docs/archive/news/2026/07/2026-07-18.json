@@ -1,7 +1,27 @@
 {
   "date": "2026-07-18",
-  "count": 471,
+  "count": 473,
   "items": [
+    {
+      "id": "4995261",
+      "time": "2026-07-18 10:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司：未授權訪問影響15家子公司，3300個使用者賬戶的資料已被下載。"
+    },
+    {
+      "id": "mkt:019f7321-4db9-7aab-8ded-56071cbd6357",
+      "time": "2026-07-18 10:49:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Alibaba launches Meoo Team enterprise AI application platform】At the 2026 World Artificial Intelligence Conference on July 18, Alibaba launched Meoo Team, an enterprise AI application-creation platform. Core features include unified identity management, centralized procurement and quota control, fine-grained permission management and team asset sharing. Meoo Team is designed to address enterprise challenges in resource coordination, permission allocation and asset ownership for AI workflows and to improve collaboration across e-commerce, content production, operations, marketing, finance and education teams."
+    },
     {
       "id": "4995260",
       "time": "2026-07-18 10:47:21",

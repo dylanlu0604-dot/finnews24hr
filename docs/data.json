@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-18 10:48:54",
+  "updated": "2026-07-18 10:52:49",
   "count": 19011,
   "items": [
+    {
+      "id": "4995261",
+      "time": "2026-07-18 10:50:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "哥倫比亞國家石油公司：未授權訪問影響15家子公司，3300個使用者賬戶的資料已被下載。"
+    },
+    {
+      "id": "mkt:019f7321-4db9-7aab-8ded-56071cbd6357",
+      "time": "2026-07-18 10:49:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Alibaba"
+      ],
+      "text": "【Alibaba launches Meoo Team enterprise AI application platform】At the 2026 World Artificial Intelligence Conference on July 18, Alibaba launched Meoo Team, an enterprise AI application-creation platform. Core features include unified identity management, centralized procurement and quota control, fine-grained permission management and team asset sharing. Meoo Team is designed to address enterprise challenges in resource coordination, permission allocation and asset ownership for AI workflows and to improve collaboration across e-commerce, content production, operations, marketing, finance and education teams."
+    },
     {
       "id": "4995260",
       "time": "2026-07-18 10:47:21",
@@ -175230,22 +175250,6 @@
         "其他"
       ],
       "text": "【中國代表強調聯合國建和工作應堅持發展優先】中國常駐聯合國副代表孫磊10日在聯大審議“建設和平與持久和平”議題時發言，強調聯合國建和工作應堅持發展優先，將資源重點投向減貧、教育、就業、醫療衛生和公共服務等民生領域，讓民眾切實感受到和平的寶貴與生活的希望，幫助當事國夯實持久和平的經濟和社會基礎，實現長治久安。（央視新聞）"
-    },
-    {
-      "id": "4982029",
-      "time": "2026-07-11 10:51:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員稱伊朗私下就近期襲擊商船認錯】一名美國高階官員稱，伊朗官員私下告訴美國政府顧問，伊朗在霍爾木茲海峽向商船開火是一個“錯誤”，相關襲擊來自“部分誤入歧途的強硬派”。伊朗方面尚未對此作出回應。報道稱，伊朗方面表示希望繼續進行談判。美方認為，襲擊商船違反了停火協議，希望伊朗公開承認這一錯誤。美官員稱，美國總統特朗普已指示由副總統萬斯、特朗普女婿庫什納、美國總統特使威特科夫以及國務卿魯比奧組成的團隊繼續推進談判，相關會談將在阿曼舉行。美官員表示，如果伊朗繼續採取敵對行動，美國將動用軍事和經濟手段進行回應。（新華社）"
-    },
-    {
-      "id": "mkt:019f4f15-0b84-7aab-8d3b-55dee63edb43",
-      "time": "2026-07-11 10:50:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC reported a magnitude 4.9 earthquake in the Seram Sea, Indonesia; focal depth 10.0 km."
     }
   ]
 }
