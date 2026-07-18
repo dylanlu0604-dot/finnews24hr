@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 347,
+  "count": 351,
   "items": [
+    {
+      "id": "4995171",
+      "time": "2026-07-18 08:05:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【1722家A股公司釋出中報預告 39家預計淨利潤增幅超1000%】統計顯示，截至7月17日記者發稿，共有1722家A股公司釋出2026年中報業績預告。其中，有937家公司預計歸屬於上市公司股東的淨利潤有不同程度的增長（按預計淨利潤同比增長幅度下限排序，下同），有463家公司預計淨利潤增長幅度超過100%，有39家公司預計淨利潤增長幅度超過1000%。上述39家公司中，有11家公司來自計算機、通訊和其他電子裝置製造業。（證券日報）"
+    },
+    {
+      "id": "mkt:019f7289-d383-7aab-8dec-4055d73ad39c",
+      "time": "2026-07-18 08:04:22",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【National peak power load may top 1.6 bln kW; grid upgrades and green-power expansion accelerate】China's National Energy Administration (NEA) estimates 2026 peak power load at 1.575–1.6 bln kW; widespread extreme heat could push the peak above 1.6 bln kW. Industry expects 2026 electricity consumption to rise 5–6% YoY; supply-demand should be broadly balanced, with seasonal regional tightness in summer. Trillion-yuan grid investment under the 15th Five-Year plan is accelerating construction of a new power system and expansion of green power capacity. Experts say renewable integration and battery/storage build-out remain central to the transition; coal and nuclear are needed to shore up supply near term, while market-based policies must coordinate long-term security of year-round power supply."
+    },
+    {
+      "id": "4995170",
+      "time": "2026-07-18 08:02:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中小市值企業佔比逾六成 7月以來逾60家公司釋出股份回購預案】上市公司正在積極回購。據統計，7月以來已有逾60家上市公司釋出股份回購預案，其中市值不足百億元的公司佔比超過六成，回購目的聚焦股權激勵、登出資本與維護公司價值。記者梳理發現，當前上市公司回購資金渠道持續拓寬，自有資金搭配銀行專項貸款的模式愈發普及。還有公司透過上調回購額度、最佳化資金來源等方式保障回購實施。監管層面則強化約束，對未足額履約的“畫餅式”回購亮出利劍。（上海證券報）"
+    },
+    {
+      "id": "4995169",
+      "time": "2026-07-18 08:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官方資料顯示美軍對伊朗行動受傷人數增加14人】根據隸屬於美國國防部的“國防傷亡分析系統”網站17日公佈的最新資料，美軍在對伊朗軍事行動中的受傷人員7月增加了14人。 資料顯示，截至7月17日，美軍在對伊朗軍事行動中共有14人死亡，427人受傷。該網站統計的包含至6月傷亡情況的資料顯示，美軍受傷人員為413人，最新資料比其增加了14人。（新華社）"
+    },
     {
       "id": "4995168",
       "time": "2026-07-18 08:01:29",
