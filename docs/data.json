@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-18 08:48:22",
-  "count": 18984,
+  "updated": "2026-07-18 08:52:15",
+  "count": 18985,
   "items": [
+    {
+      "id": "4995192",
+      "time": "2026-07-18 08:51:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【壁仞科技推出NPO光互連、分散式解耦架構超節點方案，最大實現1024卡】7月17日-20日，2026世界人工智慧大會（WAIC）在上海召開。壁仞科技正式推出下一代NPO光互連、分散式解耦架構超節點方案，支援單個超節點1024卡Scale-up擴充套件。"
+    },
+    {
+      "id": "mkt:019f72b4-d05e-7aab-8dec-a04a5592ebd2",
+      "time": "2026-07-18 08:51:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "【Biren launches BR2xx GPUs and 1024‑card NPO optical supernode at WAIC】At the World Artificial Intelligence Conference in Shanghai (July 17-20, 2026), Biren Technology unveiled a next‑generation NPO optical interconnect, distributed-decoupled supernode architecture that scales up to 1024 cards per supernode. The company said its BR2xx series continues a chiplet architecture, supports low-precision high-throughput FP8/FP4 compute, increases memory bandwidth, and natively integrates supernode interconnect. Biren’s BLink2.0 protocol reportedly lets up to 1,024 GPUs share a single memory space. Product lineup includes a 16-card standard server supernode (electrical interconnect), a 128-card high-density rack supernode (electrical), and a 1,024-card distributed, decoupled supernode using NPO optical interconnect."
+    },
+    {
+      "id": "mkt:019f72b2-6bab-7aab-8dec-99a5976a8eb1",
+      "time": "2026-07-18 08:48:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ISNA reports the deputy governor of Iran's Hormozgan province said communications infrastructure is being repaired."
+    },
     {
       "id": "mkt:019f72b1-8987-7aab-8dec-90c1b0e53a1c",
       "time": "2026-07-18 08:47:45",
@@ -174974,27 +175001,6 @@
         "WTI"
       ],
       "text": "Ukrainian authorities said Russia launched a missile strike on Kyiv."
-    },
-    {
-      "id": "4981979",
-      "time": "2026-07-11 08:51:44",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【券商業績迎高光時刻 最高預增693.5%】7月剛過10天，已有9家上市券商釋出2026年半年度業績預告，無一例外實現高增長，招商證券等更是直言經營業績已創歷史新高。具體來看，從絕對值計，中信證券、國泰海通雙雙淨利潤超200億元；從增幅計，天風證券以最高693.5%的增幅領跑。更為亮眼的是，多家券商在第二季度實現業績爆發，5家單季淨利增幅翻倍。非銀分析師研判，隨著財報陸續披露，市場對2026年證券業務的預期差有望逐步修復，券商板塊估值修復空間顯著。"
-    },
-    {
-      "id": "mkt:019f4ea6-7bfc-7aab-8d3a-e155429793cc",
-      "time": "2026-07-11 08:49:21",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "AFP reports at least five explosions were heard in Kyiv."
     }
   ]
 }
