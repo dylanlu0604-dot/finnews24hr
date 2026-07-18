@@ -1,7 +1,17 @@
 {
   "date": "2026-07-18",
-  "count": 745,
+  "count": 746,
   "items": [
+    {
+      "id": "mkt:019f74bf-6e9b-7aab-8def-dda1fef6045d",
+      "time": "2026-07-18 18:22:10",
+      "tags": [
+        "MKT News",
+        "300433.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Lens Technology unit and Shangwei New Materials agree first-phase 10,000-unit robot production-line cooperation】July 18, 2026 — Lens Technology’s unit Lens Intelligent Robotics (Changsha) and Shangwei New Materials signed a strategic cooperation to build a first-phase production line targeting a 10,000‑unit robot capacity. The agreement covers precision parts machining, joint-module manufacture and final assembly, and aims to deploy capacity and advance mass-production delivery."
+    },
     {
       "id": "4995462",
       "time": "2026-07-18 18:21:10",
