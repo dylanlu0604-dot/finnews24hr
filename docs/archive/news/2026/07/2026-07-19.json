@@ -1,7 +1,23 @@
 {
   "date": "2026-07-19",
-  "count": 50,
+  "count": 52,
   "items": [
+    {
+      "id": "4995637",
+      "time": "2026-07-19 01:02:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方稱其對黎巴嫩南部的真主黨武裝人員發動了襲擊。"
+    },
+    {
+      "id": "mkt:019f762d-6fc7-7aab-8df2-210bf8bb83da",
+      "time": "2026-07-19 01:01:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Study: Extreme heat could cost Italy EUR 60–120 billion annually】On the 18th, a study by the Italian federation of commerce, tourism and services estimated that more frequent extreme heat could impose EUR 60–120 billion in annual economic losses. If Italy sees 30–60 days of extreme heat a year, firms would face higher energy costs, lower labor productivity, forced adaptation investment and revenue declines; shifts in household consumption and tourism patterns would further strain retail and tourism sector revenues."
+    },
     {
       "id": "mkt:019f762a-4609-7aab-8df2-1eb4ff5b23eb",
       "time": "2026-07-19 00:58:29",
