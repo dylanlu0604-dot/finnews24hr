@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-19 01:39:45",
+  "updated": "2026-07-19 01:43:40",
   "count": 19101,
   "items": [
+    {
+      "id": "mkt:019f764f-c50c-7aab-8df2-71008ad0759d",
+      "time": "2026-07-19 01:39:26",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CNN: Trump administration has not specified duration or end goals of current Iran strikes】CNN reports that since the U.S. resumed daily airstrikes on Iran and reimposed a maritime blockade of Iranian ports a week ago after a fragile ceasefire collapsed, the Trump administration has not defined how long operations will continue or what the ultimate objectives are. Officials say Trump has received multiple options to expand the campaign; the U.S. military is seeking to degrade Iran’s control of the Strait of Hormuz. Trump has signaled intent to further escalate airstrikes, including threats to hit civilian infrastructure and potentially energy facilities, and has downplayed the importance of operation duration. Vice President Vance, the administration’s chief Iran negotiator, said military force alone would not be sufficient to eliminate Iranian control of the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f764d-742b-7aab-8df2-69131bc53b24",
       "time": "2026-07-19 01:36:55",
@@ -176166,14 +176178,6 @@
         "其他"
       ],
       "text": "【長江海事局提升防禦颱風應急響應至二級】為全力應對今年第9號颱風“巴威”，保障長江干線水上交通安全，11日18時起，長江海事局將防禦颱風應急響應提升至二級。\n根據預測，11日至13日，颱風“巴威”將給長江中下游的湖北東部、江西、安徽等地帶來強風雨。\n長江海事局表示，二級應急響應期間，船舶應合理選擇安全水域錨泊，切勿冒險航行；錨泊時應加強值班瞭望，加固錨鏈纜繩，及時檢查關鍵裝置狀況；涉客船舶、施工船舶、“五小船舶”等重點船舶務必嚴格執行“應停盡停、應關盡關、應撤盡撤”要求。\n長江海事部門已加密與氣象部門會商研判，依託智慧管理平臺、電話、簡訊等多渠道開展預警叫應，把颱風動態、安全避險提示精準推送到相關船舶和港航企業。（新華社）"
-    },
-    {
-      "id": "4982328",
-      "time": "2026-07-12 01:42:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【民政部部署各地民政部門全力做好民政領域防汛救災工作】記者7月11日從民政部獲悉，民政部近日印發通知，要求各地民政部門全力做好民政領域防汛救災工作，著力強化養老機構、兒童福利機構、精神衛生福利機構等民政服務機構汛期安全防範工作，堅持“以防為主”，抓緊對民政服務機構進行全覆蓋隱患排查，強化閉環整改整治，將安全隱患消除在成災前。（新華社）"
     }
   ]
 }
