@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 21:51:18",
-  "count": 19062,
+  "updated": "2026-07-18 21:55:21",
+  "count": 19061,
   "items": [
+    {
+      "id": "4995570",
+      "time": "2026-07-18 21:50:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧撫順明天全市停課】據“撫順發布”官方公眾號訊息，7月18日，遼寧省撫順市教育局釋出通知稱，該市19日有大雨區域性特大暴雨天氣，為保障師生安全，經研究決定：7月19日，全市所有中小學校、幼兒園、校外培訓機構停課。 停課期間，請學生家長做好子女居家期間安全監護工作，倡導學生非必要不出門，避免發生危險。 另據遼寧氣象訊息，預計19日，遼寧省將出現強對流天氣，中北部地區有中雨，區域性有大雨到暴雨，個別鄉鎮（街道）有大暴雨，最大小時降雨量40～80毫米，雷雨時最大風力8～10級。 前期遼寧省中北部地區洪澇災害較重，需重點防範此次局地強降雨和強對流天氣引發的次生災害。"
+    },
     {
       "id": "mkt:019f7576-681b-7aab-8df1-238499155c8d",
       "time": "2026-07-18 21:42:01",
@@ -175781,27 +175789,6 @@
         "MKT News"
       ],
       "text": "The Ministry of Emergency Management will raise Hebei's national geological-hazard emergency response from Level IV to Level III and will activate a Level IV national geological-hazard emergency response for Anhui."
-    },
-    {
-      "id": "mkt:019f5174-8e26-7aab-8d3e-8c38284fe223",
-      "time": "2026-07-11 21:53:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "RIA quoted Russia's defence ministry as saying Ukrainian President Zelenskiy has deployed nearly all available Western air- and missile-defence systems to Kyiv."
-    },
-    {
-      "id": "4982270",
-      "time": "2026-07-11 21:52:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“美莎克”殘餘環流已結束 廣西調整防汛防颱風應急響應】據廣西氣象局監測，今年第10號颱風“美莎克”殘餘環流在廣西已結束，廣西自然資源廳9日18時將地質災害防禦三級應急響應調整為四級，廣西水文中心11日13時將水文測報三級應急響應調整為四級。根據《廣西防汛抗旱應急預案》等有關規定，廣西防汛抗旱指揮部決定於7月11日18時將針對南寧、貴港的防汛防颱風（含地質災害）一級應急響應調整為三級，終止針對欽州、玉林的防汛防颱風（含地質災害）二級應急響應，保持廣西自然災害救助一級應急響應。"
     }
   ]
 }
