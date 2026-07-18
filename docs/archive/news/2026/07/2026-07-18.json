@@ -1,7 +1,31 @@
 {
   "date": "2026-07-18",
-  "count": 384,
+  "count": 386,
   "items": [
+    {
+      "id": "mkt:019f72b6-f47d-7aab-8dec-b29174800293",
+      "time": "2026-07-18 08:53:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's military claimed its latest strikes targeted a US ammunition depot in Kuwait, bridges, and fuel reserves in Jordan."
+    },
+    {
+      "id": "mkt:019f72b6-acce-7aab-8dec-ab7da2e013de",
+      "time": "2026-07-18 08:53:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Pentagon data: US casualties in actions against Iran up 14 since July; 14 killed, 427 wounded as of July 17】The Defense Casualty Analysis System at the Pentagon published July 17 data showing US forces in actions against Iran have 14 killed and 427 wounded as of July 17. The wounded tally rose by 14 from the site's count through June, which recorded 413 wounded."
+    },
     {
       "id": "4995192",
       "time": "2026-07-18 08:51:34",
