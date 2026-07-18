@@ -1,7 +1,35 @@
 {
   "date": "2026-07-18",
-  "count": 357,
+  "count": 360,
   "items": [
+    {
+      "id": "4995177",
+      "time": "2026-07-18 08:15:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：“伊朗伊斯蘭革命衛隊（IRGC）聲稱，兩艘油輪在霍爾木茲海峽國際航道上撞上水雷後爆炸”，這一說法不實。"
+    },
+    {
+      "id": "4995176",
+      "time": "2026-07-18 08:14:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "看圖：DeepSeek完成首輪融資，這些上市公司參股。"
+    },
+    {
+      "id": "mkt:019f7293-0b99-7aab-8dec-5d78ba0a71b1",
+      "time": "2026-07-18 08:14:27",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【U.S. strikes in Iran's Hormozgan province kill 3, injure 8】An agency reported on the 18th that U.S. strikes on parts of Iran's Hormozgan province killed three and injured eight. Citing a provincial government official, the report said the early-hours strikes also damaged three bridges and one tunnel."
+    },
     {
       "id": "4995175",
       "time": "2026-07-18 08:13:52",
