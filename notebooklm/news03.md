@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-19 04:24:37_
-_本檔包含 3995 則快訊，約 723539 字_
+_更新時間：2026-07-19 05:28:41_
+_本檔包含 3983 則快訊，約 723730 字_
+
+---
+
+### 2026-07-15 23:21:06  #公司
+
+【55家內地出版文化單位亮相香港書展】7月15日在香港會展中心拍攝的書展內地展區。香港書展是內地與香港文化交流、對接海外市場的重要平臺。本屆書展內地出版單位展區總面積544平方米，以“精品展示、文化互鑑、產業合作”為核心定位，參展單位涵蓋出版集團、地方出版社、高校學術社和發行機構，展出書籍種類豐富。展區採用“1個主題省展區+3大特色展區”組合模式，全方位展現新時代內地出版高質量發展成果。（新華社）
+
+---
+
+### 2026-07-15 23:20:54  #MKT News #Important #Commodities #Precious Metals
+
+Spot silver fell more than 2.00% intraday, trading at $57.52/oz.
+
+---
+
+### 2026-07-15 23:20:45  #央行 #其他
+
+加拿大央行高階副行長卡羅琳・羅傑斯： 住房可負擔性問題正在削弱降息本應帶來的刺激效果。
+
+---
+
+### 2026-07-15 23:19:38  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said the Fed should jointly formulate rules with other regulators.
+
+---
+
+### 2026-07-15 23:19:21  #央行 #國際
+
+美聯儲主席沃什： 美聯儲應與其他監管機構協同制定監管規則。
+
+---
+
+### 2026-07-15 23:18:45  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
+
+UK Gilt Yields Retreat from Two-Month Highs on Fiscal Optimism — The UK 10-year gilt yield reversed early gains to trade around 4.95%, retreating from near two-month highs as investors welcomed expectations that Andy Burnham, widely expected to be confirmed as the UK's next prime minister on Monday, will appoint a fiscally conservative finance minister. With Burnham's confirmation largely priced in, markets have shifted their focus to his choice for the Treasury amid the UK's fragile public finances. Reports naming Home Secretary Shabana Mahmood as the leading candidate reassured investors, easing concerns that Burnham could instead appoint Ed Miliband, who is viewed as favoring a more expansionary fiscal stance. Meanwhile, rising Middle East tensions have pushed oil prices to one-month highs, reinforcing expectations that the Bank of England will continue tightening policy. Markets now fully price in a rate hike in November, with another expected by March 2027.
+
+---
+
+### 2026-07-15 23:17:47  #央行 #宏觀 #市場
+
+加拿大央行行長麥克勒姆： 若通脹飆升是油價上漲所致且後續油價回落，他不傾向就此出臺應對舉措。
+
+---
+
+### 2026-07-15 23:17:47  #Trading Economics #Markets #Switzerland #stocks #Importance 0
+
+UBS Stock Price Hits 18-1/2-year High — UBS shares increased to 44.44 CHF, the highest since January 2008. Over the past 4 weeks, UBS gained 10.55%, and in the last 12 months, it increased 56.35%.
+
+---
+
+### 2026-07-15 23:17:38  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Inches Down from $4 — Heating oil futures in the US were at $3.95 per gallon, easing from the two-month high of $4.02 on July 14th as stronger inventory data momentarily offset a tightening supply backdrop. Data from the EIA indicated that distillate fuel stocks rose by 4.6 million barrels on the week ending July 19th, nearly erasing the draw from the earlier week. The build weighed against a decreasing SPR as more strikes between the US and Iran continued to hamper global supply of crude oil and refined fuels. On top of that, major diesel producer Russia halted exports of the fuel and shifted to an importer, as higher crude prices exacerbated the series of Ukrainian strikes on the country's largest refineries. This magnified the impact of refinery bottlenecks in the US and direct damage for facilities in the Middle East. Consequently, diesel crack spreads rose to a record high in July.
+
+---
+
+### 2026-07-15 23:17:33  #央行 #國際
+
+美聯儲主席沃什： 美聯儲有能力阻止各類生鮮雜貨全線漲價。
+
+---
+
+### 2026-07-15 23:17:30  #MKT News
+
+Spot silver slid about $0.70 intraday to $57.60/oz.
+
+---
+
+### 2026-07-15 23:17:30  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+Fed chairman Kevin Warsh said the Fed can ensure average prices across grocery shelves stop rising.
+
+---
+
+### 2026-07-15 23:17:13  #央行 #國際
+
+美聯儲主席沃什： 美聯儲對牛奶、牲畜價格很難起到有效調控作用。勞動力市場發生了許多結構性變化。
+
+---
+
+### 2026-07-15 23:17:05  #MKT News
+
+Fed Chair Kevin Warsh said he does not believe the Fed can do much about milk and beef prices.
+
+---
+
+### 2026-07-15 23:16:49  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve chairman Kevin Warsh said the labor market looks fairly strong, but the outlook for inf is less optimistic.
 
 ---
 
@@ -23915,167 +24005,5 @@ Fed Chairman Kevin Warsh said he wants economic growth to be more broad-based.
 ### 2026-07-14 22:23:40  #公司
 
 【KeyBanc：將蘋果評級降至“減持”，指硬體需求資料持續疲弱】投資銀行KeyBanc Capital Markets將蘋果的評級由“與大盤同步”下調至“減持”，設定目標價為250美元，理由是硬體需求資料持續疲弱，以及對2027年增長預期存有隱憂。
-
----
-
-### 2026-07-14 22:22:48  #市場
-
-DENALI THERAPEUTICS股價下跌幅度高達16%，創下自2023年以來的最大跌幅。
-
----
-
-### 2026-07-14 22:22:23  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #EURUSD #Impact bullish #XAUUSD
-
-【Analyst: US inflation miss could push dollar lower】Monex Europe analyst Nick Rees said in a note that Tuesday’s US June inflation print slowed more than expected, leaving the dollar at further downside risk. He said Monex still expects the Fed to keep policy rates unchanged through 2026, conditional on cooling Middle East tensions and contained oil prices. Rees added that markets still price a rate hike before year-end, and that expectation could weigh on the dollar.
-
----
-
-### 2026-07-14 22:22:13  #公司
-
-【德國大眾汽車集團：裁員或達10萬人】據路透社等媒體13日報道，德國大眾汽車集團執行長確認，為保持競爭力，公司可能還需要再裁員5萬人。這意味著，大眾汽車的裁員規模將達到10萬人，受競爭壓力、美關稅政策等因素影響，目前大眾汽車面臨嚴峻的成本壓力。（央視財經）
-
----
-
-### 2026-07-14 22:22:00  #市場
-
-受 Uber 收購外賣平臺訊息的影響，Lyft 和 DoorDash 股價下跌。
-
----
-
-### 2026-07-14 22:21:38  #市場 #觀點 #國際
-
-【報道：高盛公佈亮眼業績後啟動高評級債券發行】高盛在公佈創紀錄的股票交易收入後啟動高評級（投資級）債券發行，適逢美國通脹低於預期提振信貸市場。據知情人士透露，高盛正推介三部分美元債，債券期限從6年到31年不等。最長期限債券的初始價格指引為較美國國債收益率高約135個基點。高盛週二公佈的業績遠超市場預期，其股票業務連續第三個季度創下歷史最高紀錄。僅過去三個月的收入，就超過該業務2019年全年四個季度的總和。
-
----
-
-### 2026-07-14 22:20:59  #公司
-
-美銀全球研究將瑞士鐘錶集團(WATCHES OF SWITZERLAND)<WOSG.L> 目標價從600便士上調至830便士。
-
----
-
-### 2026-07-14 22:19:58  #其他
-
-【山東釋出暴雨、地質災害、山洪災害預警】記者14日下午從山東省氣象局、山東省自然資源廳、山東省水利廳等部門獲悉，受副高邊緣低渦切變線影響，預計15日凌晨開始，山東省中南部地區自西向東將出現一次較強降雨天氣過程。山東釋出了暴雨、地質災害、山洪災害預警。記者瞭解到，此次天氣過程中，對流明顯，伴有雷電、短時強降水和8級至10級、區域性11級以上雷雨陣風。其中，聊城、濟南南部、泰安、淄博南部、濰坊南部、菏澤、濟寧、棗莊、臨沂、日照和青島南部有大到暴雨區域性大暴雨，其他地區有雷雨或陣雨區域性大雨。（新華社）
-
----
-
-### 2026-07-14 22:18:46  #MKT News #S&P500 #Impact bearish
-
-S&P 500 quickly surrendered gains, briefly dipping into negative territory.
-
----
-
-### 2026-07-14 22:18:43  #公司 #市場 #觀點
-
-【中金公司：重大資產重組事項相關申請獲得中國證監會受理】中金公司7月14日公告，公司擬透過向東興證券全體A股換股股東發行A股股票、向信達證券全體A股換股股東發行A股股票的方式，換股吸收合併東興證券、信達證券。近日，中國證監會就本次交易涉及的包括中金公司與東興證券、信達證券合併，中金公司變更主要股東，東興基金管理有限公司變更主要股東，信達澳亞基金管理有限公司變更主要股東，東興期貨有限責任公司變更控股股東，信達期貨有限公司變更控股股東等行政許可申請依法予以受理，並出具《中國證監會行政許可申請受理單》。
-
----
-
-### 2026-07-14 22:18:18  #公司 #市場
-
-大型銀行財報釋出後，KBW銀行指數上漲高達2.4%。
-
----
-
-### 2026-07-14 22:17:54  #市場
-
-現貨鈀金<XPD=>擴大漲幅，最新上漲5%，報每盎司1,307.25美元。
-
----
-
-### 2026-07-14 22:17:44  #MKT News #Market Regions #Europe & UK
-
-France's representative to the UN said freedom of navigation must be respected and that Houthi forces should cease their threatening actions.
-
----
-
-### 2026-07-14 22:17:42  #市場 #觀點
-
-摩根大通股價創歷史新高，最新上漲2.8%。
-
----
-
-### 2026-07-14 22:17:21  #MKT News #Important #GS.O #Impact bullish
-
-Goldman Sachs (GS.N) shares rose more than 8% to a record high.
-
----
-
-### 2026-07-14 22:16:32  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-IBM earnings below expectations at 2.93 USD — IBM (IBM) released earnings per share at 2.93 USD, compared to market expectations of 3.01 USD.
-
----
-
-### 2026-07-14 22:16:15  #市場 #觀點
-
-高盛股價創歷史新高，最新上漲8.1%。
-
----
-
-### 2026-07-14 22:15:58  #市場 #觀點
-
-道瓊斯指數上漲138點，領漲個股為高盛與摩根大通。
-
----
-
-### 2026-07-14 22:15:41  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-AstraZeneca Stock Price Hits 4-week Low — AstraZeneca shares decreased to 12386.00 GBp, the lowest since June 2026. Over the past 4 weeks, AstraZeneca lost 6.09%, and in the last 12 months, it increased 18.1%.
-
----
-
-### 2026-07-14 22:15:16  #MKT News #GS.O #Impact bullish
-
-Goldman Sachs CEO Solomon said its M&A business will produce a significant multiplier effect.
-
----
-
-### 2026-07-14 22:14:59  #MKT News #Macro & Rates #US Economy #BAC.O #Impact bullish #S&P500
-
-BofA CEO says consumer credit is improving.
-
----
-
-### 2026-07-14 22:14:53  #公司 #觀點
-
-高盛執行長：併購業務將產生顯著乘數效應。
-
----
-
-### 2026-07-14 22:14:33  #MKT News #Market Themes #AI Revolution
-
-OpenAI said weekly usage of its agent products, Codex and ChatGPT Work, rose 2.5x week-on-week.
-
----
-
-### 2026-07-14 22:14:23  #其他
-
-巴西能源部長：新型乙醇汽油混合燃料或將成為永久性燃料。
-
----
-
-### 2026-07-14 22:13:54  #公司 #國際
-
-基什水電公司釋出宣告稱，伊朗基什島一座發電廠的部分設施於週二凌晨遭美軍襲擊受損。
-
----
-
-### 2026-07-14 22:13:39  #MKT News
-
-U.S. envoy to the United Nations said concrete measures are needed to enforce a resolution banning arms transfers to Houthi forces.
-
----
-
-### 2026-07-14 22:13:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. ambassador to the United Nations said an Iranian plane transported military equipment to Houthi forces.
-
----
-
-### 2026-07-14 22:12:47  #其他
-
-據訊息人士透露，義大利法官駁回了電信塔運營商Inwit請求暫停Fastweb退出租賃合同的申請。
 
 ---

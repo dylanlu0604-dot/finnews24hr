@@ -1,7 +1,25 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-19 04:24:37_
-_本檔包含 3624 則快訊，約 723570 字_
+_更新時間：2026-07-19 05:28:41_
+_本檔包含 3612 則快訊，約 723110 字_
+
+---
+
+### 2026-07-14 00:17:01  #國際
+
+【伊朗稱霍爾木茲海峽南部航道“不安全”】伊朗駐英國大使館13日在社交媒體上說，霍爾木茲海峽南部航道“不安全、不可靠，且易發生事故”。 伊朗駐英國大使兼任伊朗常駐國際海事組織代表。伊朗駐英使館說，為遵守伊斯蘭堡諒解備忘錄，伊朗建立一條臨時海上安全走廊，該走廊無技術和軍事障礙，並已告知國際海事組織。然而，“美國正將船隻引向一條危險的南部平行航道。該路線不僅合法性存疑，還不安全、不可靠，且易發生事故”。 伊朗駐英使館說，美國襲擊伊朗港口等“軍事侵略行徑”，已使霍爾木茲海峽成為高度緊張且高風險區域。 美伊諒解備忘錄達成後，海峽形成兩條通行航道，分別為伊朗管控的北部航道和靠近阿曼一側的南部航道，美軍在南部航道提供通航協助。 伊朗伊斯蘭革命衛隊海軍當地時間12日凌晨宣佈，鑑於外國勢力非法干預造成不安全域性面，霍爾木茲海峽即日起關閉，直至另行通知以及美國停止干涉這一地區為止。美軍中央司令部於美國東部時間12日上午在社交媒體上發文稱，霍爾木茲海峽的“通行仍在繼續”。伊朗並不控制該海峽。(新華社)
+
+---
+
+### 2026-07-14 00:16:31  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Oracle Stock Price Hits 14-month Low — Oracle shares decreased to 134.51 USD, the lowest since April 2025. Over the past 4 weeks, Oracle lost 29.96%, and in the last 12 months, it decreased 41.15%.
+
+---
+
+### 2026-07-14 00:13:37  #Trading Economics #Markets #Italy #Stock Market #Importance 0
+
+FTSE MIB Edges Higher — The FTSE MIB gained 0.4% to close at 52,809 on Monday, supported by broad-based gains across sectors. Oil major Eni led the index, climbing 3.9% as oil prices advanced amid heightened uncertainty over the Strait of Hormuz, despite conflicting claims over whether the waterway remained open. Tenaris followed with a 1.7% gain, while utility stocks also advanced as higher temperatures increase electricity demand for cooling. Stellantis added 2.6% on reports of stronger growth in North America, its most important market. Inwit rose 2.2% after a Milan court suspended TIM's withdrawal from their MSA. Financial stocks were also higher, with FinecoBank, Banca Monte dei Paschi di Siena (BMPS) and Mediobanca each gaining more than 1%. Meanwhile, the defense sector lagged, along with the technology sector after SK Hynix plunged 17% in Seoul amid renewed concerns over excessive valuations of artificial intelligence, with Leonardo (-1.3%), Prysmian (-1.3%) and Avio (-1.2%) leading the declines.
 
 ---
 
@@ -21798,96 +21816,5 @@ US Secretary of State Rubio said Cuban leaders must implement broad reforms whil
 ### 2026-07-12 05:34:32  #MKT News
 
 US President Trump said he would still win the presidential election in a landslide despite pervasive media smearing and fake news, arguing this shows mainstream media have no credibility.
-
----
-
-### 2026-07-12 05:27:03  #國際
-
-伊朗議員梅薩姆・佐胡裡安表示，伊朗此前相當一部分行政體系精力都放在了謀求立刻取消制裁這一 “失敗方案” 上，卻沒有做好應對中長期持續遭受制裁的準備。
-
----
-
-### 2026-07-12 05:26:48  #國際
-
-伊朗議員梅薩姆・佐胡裡安於週六表示，德黑蘭方面不應寄望於制裁解除或停戰後的大規模重建計劃，從而拖延經濟改革程序。
-
----
-
-### 2026-07-12 05:20:10  #MKT News
-
-cenc measured a magnitude-3.8 earthquake at 05:09 on July 12 in Arong Banner, Hulunbuir, Inner Mongolia; hypocenter depth 10 km.
-
----
-
-### 2026-07-12 05:19:53  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish
-
-An Elabe poll for BFM shows that if the first-round vote were held this Sunday, France's far-right National Rally candidate Le Pen would receive 34.0–35.5% of the vote.
-
----
-
-### 2026-07-12 05:18:52  #MKT News
-
-After an appeals judge shortened a previous ban on Marine Le Pen's candidacy, clearing her to run for a fourth time, Le Pen has widened her lead in voter polls ahead of next April's French presidential election.
-
----
-
-### 2026-07-12 05:13:23  #國際
-
-【日本民眾集會反對修憲擴軍 擔憂民生受擠壓】當地時間11日傍晚，日本民眾自發在東京的新宿車站附近舉行集會，反對日本政府修改憲法、推動“再軍事化”等動向。（央視新聞）
-
----
-
-### 2026-07-12 05:01:12  #國際
-
-特朗普：即便所有媒體都對我極盡抹黑、充斥虛假新聞，我依舊以壓倒性大勝拿下總統大選。由此可見，主流媒體毫無公信力可言！倘若它們尚有半點信譽，這場歷史性勝利根本不可能實現。我希望媒體能重新贏回早已喪失殆盡的公眾尊重。
-
----
-
-### 2026-07-12 04:52:22  #國際
-
-【特朗普政府對達成伊朗核協議愈發悲觀】多名美國高階官員表示，特朗普政府認為，與伊朗達成核協議的希望愈發渺茫。這是美方罕見承認，總統核心外交目標之一——限制伊朗核專案，或許無法依靠和平談判實現。美方官員提出，伊朗應當釋出宣告，宣告霍爾木茲海峽保持通航，並停止向過往船隻開火。其中一名官員表示，若伊朗無法在週六前作出上述承諾，將會付出嚴重代價；其餘官員則未提及明確的最後期限。此番表態引發外界猜測：在宣佈美伊停火狀態結束後，特朗普或許正準備再次大幅調整對伊戰略。特朗普可供選擇的方案包括：重啟全面軍事打擊，阻止伊朗研發核武器；簽署一份無法完全滿足美方訴求的協議；或是徹底抽身退出衝突，但此舉會讓霍爾木茲海峽通航控制權懸而未決。
-
----
-
-### 2026-07-12 04:50:52  #國際
-
-一名美國高階官員表示，伊朗必須承諾在週六前重新開放霍爾木茲海峽，否則將承擔相應後果。
-
----
-
-### 2026-07-12 04:43:06  #國際
-
-【兩黨住房法案未經特朗普簽署自動生效，多名議員表示慶賀】美國國會未能透過配套選舉法案《拯救美國法案》，特朗普以此為由拒絕簽署這份住房法案。當地時間週六晚間，儘管特朗普拒絕簽字，參眾兩院兩黨議員仍共同慶祝這項具有里程碑意義的跨黨派住房法案正式落地生效。《21世紀安居之路法案》旨在透過增加住房供給、提升民眾自有住房比例，緩解全美住房短缺危機。法案放寬建築監管規定以鼓勵新建住宅，同時限制華爾街投資機構收購本可供給普通家庭的自住房屋。
-
----
-
-### 2026-07-12 04:37:42  #其他
-
-英國下一任首相頭號熱門人選伯納姆將廢除拉米限制陪審團審判的相關方案。
-注：英國司法大臣戴維·拉米2025年12月公佈英格蘭及威爾士刑事司法重大改革，核心是大幅縮減陪審團適用範圍，官方目的是解決刑事法院積壓近8萬起案件、大量受害者等待數年才能開庭的司法擁堵危機。
-
----
-
-### 2026-07-12 04:35:13  #MKT News #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #DXY #Impact bearish
-
-OpenAI founder Altman said he is, so far, fairly confident AI is net-creating jobs rather than reducing them, contrary to his earlier expectation. He said he is less pessimistic than some but had expected AI at its current capability to already affect the labor market; that trend could continue.
-
----
-
-### 2026-07-12 04:34:58  #其他
-
-挪威球員埃爾林・哈蘭德目前在五場世界盃賽事中打入七球，過去三十天內，他的Instagram粉絲數量暴漲近1900萬。
-
----
-
-### 2026-07-12 04:32:51  #宏觀 #國際
-
-伊朗強硬派輿論人士阿里·戈爾哈基：外界原本預期外長阿拉格齊此次阿曼之行能出臺一份涉及霍爾木茲海峽南北航道的聯合宣告，後續卡利巴夫與美國副總統萬斯也會參與談判。但阿拉格齊空手而歸後，外界對於《諒解備忘錄》第五條相關外交磋商陷入停滯的猜測空前加劇。
-
----
-
-### 2026-07-12 04:25:03  #公司
-
-OpenAI CEO奧特曼：至少到目前為止，我十分確定人工智慧整體上創造了更多就業崗位。這和我當初預想的不一樣——雖說我原本就比其他人樂觀不少，但我本以為當AI發展到如今這種能力水平時，就業市場已經能顯現出明顯衝擊。這種向好趨勢或許還會持續下去。
 
 ---

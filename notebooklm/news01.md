@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-19 04:24:37_
-_本檔包含 3580 則快訊，約 723657 字_
+_更新時間：2026-07-19 05:28:41_
+_本檔包含 3571 則快訊，約 723978 字_
+
+---
+
+### 2026-07-19 05:26:10  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
+
+【Trump: "Completely doesn't care" after Iran suspends compliance with interim agreement】Per NewsNation, US President Trump reiterated that Iran "cannot and should not" possess nuclear weapons. After Iran announced it would suspend compliance with commitments under an interim agreement, Trump said he "completely doesn't care."
+
+---
+
+### 2026-07-19 05:22:54  #國際
+
+【特朗普：痛心美軍士兵遇難，絕不允許伊朗擁核，無視協議停擺】美國總統特朗普稱兩名美軍人員在約旦遇難一事“令人萬分痛心”。他表示：“我們不願看到這樣的悲劇發生，這些軍人是為國效力。”同時再次強調，伊朗“不能、也絕不應該擁有核武器”。此後伊朗宣佈暫停履行臨時協議相關承諾，特朗普對此表示自己“毫不在意”。
+
+---
+
+### 2026-07-19 05:22:27  #MKT News
+
+NewsNation reported President Trump, in his first response after two US service members were killed in an Iranian attack, called the deaths "very sad" and said they were serving the country.
+
+---
+
+### 2026-07-19 05:15:11  #MKT News
+
+【UAE urges immediate halt to escalation】The UAE Foreign Ministry called for an immediate end to hostilities and resumption of talks amid recent regional developments, warned any attack on civilian infrastructure breaches international law and is unacceptable, and stressed securing the Strait of Hormuz to ensure uninterrupted navigation.
+
+---
+
+### 2026-07-19 05:09:42  #國際
+
+【伊前副石油部長：美在阿聯酋建基地募僱傭兵，籌備九月入侵伊朗南部】伊朗前石油部副部長阿斯加爾·易卜拉欣-阿斯勒於週六聲稱，美國正在阿聯酋等國修建大型軍事基地，並招募外籍僱傭兵，為入侵伊朗做準備。他表示，美方潛在打擊目標包括格什姆島、哈爾克島部分割槽域以及伊朗南部海岸多處地帶，還稱美國或將推遲地面進攻行動，等到9月氣候轉涼後再實施。
+
+---
+
+### 2026-07-19 05:02:59  #國際
+
+阿聯酋呼籲“立即停止（中東地區）局勢升級”。
+
+---
+
+### 2026-07-19 05:02:44  #國際
+
+美國國防部長：美軍人員遇難一事“堅定了我們的決心”。
+
+---
+
+### 2026-07-19 04:56:58  #MKT News
+
+Iranian Foreign Minister Araghchi held a phone call with Iraqi Foreign Minister Fouad Hussein to discuss the Middle East situation and bilateral cooperation.
+
+---
+
+### 2026-07-19 04:56:28  #MKT News
+
+Lebanese President Aoun has arrived in Washington and will meet US Secretary of State Rubio tomorrow, followed by a meeting with US President Trump next Tuesday.
+
+---
+
+### 2026-07-19 04:54:15  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【US-Iran fighting intensifies — can Gulf states push for de‑escalation?】Former U.S. Navy senior officer Harlan Ullman said the escalating conflict could prompt Gulf states to exert "huge pressure" on Trump to seek a resolution. He warned Gulf fiscal revenues have been cut and their reliance on seawater desalination makes them vulnerable — without those facilities they cannot survive — a strain he said may be more severe than Iran's current economic situation. Ullman added these pressures could push both sides toward some form of negotiation, but cautioned the situation could still "seriously escalate."
+
+---
+
+### 2026-07-19 04:52:36  #其他
+
+【英國下一任首相伯納姆宣佈取消數字身份證計劃】英國工黨領袖的發言人表示，將於週一正式就職的英國首相安迪·伯納姆，上臺後將廢止政府這項爭議重重的數字身份證方案。該發言人稱，跨黨派議員委員會將這套數字身份證專案評價為一場“徹底失敗的工程”，原本投入該專案的資金資源，將被調撥至伯納姆重點推進的民生事項。伯納姆於週五當選執政黨工黨領袖，他將在週一就任首相。斯塔默曾在去年9月推出數字身份證規劃，要求所有務工人員持有數字身份憑證，初衷是打擊非法移民、對沖英國改革黨的政治影響力。但該政策引發民眾強烈反對，斯塔默今年1月取消了強制辦理的要求。伯納姆的發言人表示：“原本計劃投入全國數字身份證專案的全部人力財力，將轉投最急需資金的領域，例如緩解民眾生活開支壓力。”英國預算責任辦公室去年11月測算，2026/27至2028/29三個財年內，這套數字身份證專案總成本約18億英鎊（摺合24億美元）。
+
+---
+
+### 2026-07-19 04:42:57  #MKT News #Macro & Rates #US Economy
+
+Commerce Secretary Lutnick said the US reached an agreement on the Gordie Howe International Bridge (US-Canada cross-border project), securing a 50% share of net revenues through 2041 and a US role in toll-setting.
+
+---
+
+### 2026-07-19 04:40:30  #國際
+
+美國商務部長盧特尼克：美國就戈迪·豪大橋達成優厚協議，美方可分得戈迪·豪大橋五成淨運營收益。
+注：戈迪·豪國際大橋，連線加拿大溫莎與美國底特律。
+
+---
+
+### 2026-07-19 04:38:21  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+US officials told the New York Times that an Iranian attack on US military bases in Jordan damaged multiple US helicopters and wounded dozens of US personnel.
+
+---
+
+### 2026-07-19 04:35:47  #國際
+
+美方官員：伊朗對約旦境內美軍（基地）發動了打擊，此次襲擊造成多架美軍直升機受損，數十名美軍人員負傷。
+
+---
+
+### 2026-07-19 04:34:26  #國際
+
+【烏克蘭總統澤連斯基考慮撤換總司令瑟爾斯基】此前烏克蘭頗具爭議地解除國防部長費多羅夫職務，國內爆發大規模抗議，高層出現嚴重分裂，在此背景下，烏克蘭總統正考慮罷免武裝部隊總司令亞歷山大·瑟爾斯基。
+
+---
+
+### 2026-07-19 04:33:24  #MKT News
+
+【Iran envoy to Pakistan says Trump destroyed two major diplomatic achievements】Iran's ambassador to Pakistan Reza Amiri‑Moghaddam wrote on social media that, despite Trump claiming to seek peace, he has destroyed two major diplomatic achievements: abandoning the JCPOA in 2018, 473 days after taking office, and nullifying an Islamabad memorandum less than 20 days after it was signed through what the ambassador called a malicious reinterpretation.
+
+---
+
+### 2026-07-19 04:31:26  #公司
+
+瓦拉原子公司計劃融資10億美元，投前估值約50億美元，紅杉資本正洽談領投本輪融資。
+
+---
+
+### 2026-07-19 04:31:11  #國際
+
+市場資訊：伊朗駐巴基斯坦大使稱，特朗普“毀掉了兩項重要外交成果”。
+
+---
+
+### 2026-07-19 04:28:06  #國際
+
+伊朗最高領袖：伊朗與伊拉克數千萬民眾自發前來，為哈梅內伊告別。這場盛大集會掀開了民眾覺醒、主動抗爭的全新篇章，勢將打破霸權勢力一手炮製的地緣格局。
+
+---
+
+### 2026-07-19 04:27:27  #國際
+
+阿聯酋表示對近期中東地區局勢升級深感擔憂，並提出以下訴求：
+1. 立即停止敵對行動，緩和緊張局勢；
+2. 各方最大限度保持克制，避免地區陷入更嚴重的衝突；
+3. 儘快重啟談判；
+4. 保障霍爾木茲海峽航運安全暢通，稱該海峽對全球經濟至關重要；
+5. 停止襲擊民用基礎設施（學校、醫院、海水淡化廠、能源設施等），此類襲擊嚴重違反國際法，毫無正當理由。
 
 ---
 
@@ -21451,185 +21583,5 @@ Iranian state TV reports a US strike on roads and bridges in the Bandahamir area
 ### 2026-07-17 08:50:22  #公司 #觀點
 
 花旗集團稱8月是新興市場套利交易表現最差的月份。
-
----
-
-### 2026-07-17 08:50:04  #MKT News #Important
-
-US President Trump will deliver a nationwide address in 10 minutes.
-
----
-
-### 2026-07-17 08:50:01  #市場
-
-【機構：2026年10英寸及以上的大尺寸OLED面板出貨量有望逆勢增長18.8%】Omdia最新預測，認為10英寸及以上的大尺寸OLED顯示面板出貨規模有望在今年達到3880萬片，在整體大尺寸顯示面板出貨衰退2.3%的背景下逆勢實現18.8%的同比增幅。機構認為，儘管下游在2026年上半年提前拉貨，但零部件價格上漲、地緣政治緊張、經濟不確定性上升等因素導致2026全年尤其是下半年的大尺寸顯示面板需求有所減弱。
-
----
-
-### 2026-07-17 08:49:24  #市場 #國際
-
-【日經225指數重挫4% AI前景不明令科技股承壓】由於日本日經225指數一度下跌4.1%，鎧俠帶領科技股重挫。鎧俠股價一度重挫16%，這家儲存晶片製造商的市值較6月的峰值縮水一半。Screen、Lasertec和Sumco晶片相關股票均下跌超過12%。東證指數下跌2.3%。
-
----
-
-### 2026-07-17 08:48:21  #MKT News #Market Themes #AI Revolution
-
-The 2026 World Artificial Intelligence Conference and High-Level Meeting on Global Governance of Artificial Intelligence opened in Shanghai on July 17. CHINA will attend the opening ceremony and deliver the keynote address.
-
----
-
-### 2026-07-17 08:47:46  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【Margin balances on China’s two exchanges fall 28.586 bln yuan】As of July 16, Shanghai Stock Exchange margin balance was 1.430821 trillion yuan, down 13.961 bln yuan from the previous trading day; Shenzhen Stock Exchange was 1.398204 trillion yuan, down 14.625 bln yuan. Combined margin balance totaled 2.829025 trillion yuan, down 28.586 bln yuan.
-
----
-
-### 2026-07-17 08:47:17  #其他
-
-【兩市融資餘額較上日減少285.87億元】截至7月16日，上交所融資餘額報14308.21億元，較前一交易日減少139.61億元；深交所融資餘額報13982.04億元，較前一交易日減少146.26億元；兩市合計28290.25億元，較前一交易日減少285.87億元。
-
----
-
-### 2026-07-17 08:46:58  #其他
-
-【習近平將出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話】2026世界人工智慧大會暨人工智慧全球治理高階別會議於7月17日在上海開幕。國家主席習近平將出席大會開幕式並發表主旨講話。（央視新聞）
-
----
-
-### 2026-07-17 08:46:25  #其他
-
-2026世界人工智慧大會暨人工智慧全球治理高階別會議於7月17日在上海開幕。國家主席習近平將出席大會開幕式並發表主旨講話。（央視新聞）
-
----
-
-### 2026-07-17 08:45:34  #市場
-
-【昨日ETF資金淨流入TOP 10榜單出爐】據同花順iFinD資料，昨日A股ETF資金淨流入前10中有9只為大盤寬基ETF，其中華泰柏瑞滬深300ETF（510300）淨流入62.30億元，南方中證1000ETF（512100）淨流入36.19億元，華夏上證50ETF（510050）淨流入26.94億元。
-
----
-
-### 2026-07-17 08:44:43  #市場 #焦點
-
-布倫特原油突破85美元/桶，日內漲0.91%。
-
----
-
-### 2026-07-17 08:44:36  #其他
-
-【卡達多哈傳出爆炸聲 】目擊者稱，當地時間今天（7月17日）凌晨，卡達首都多哈傳來數聲爆炸巨響，卡達政府已向手機使用者傳送警報。（ CCTV國際時訊  ）
-
----
-
-### 2026-07-17 08:44:30  #MKT News #Market Themes #Chip Wars #MU.O #Impact bearish #SNDK.O #SKHY.O #Impact bullish
-
-Micron Technology (MU.O) and SanDisk (SNDK.O) fell 4% in U.S. after-hours trading; SK Hynix ADR (SKHY.O) rose 0.4%.
-
----
-
-### 2026-07-17 08:42:59  #其他 #焦點
-
-【日經225指數跌幅擴大至4%】AI擔憂導致科技股下挫，日經225指數跌幅擴大至4%，現報64128.45點。
-
----
-
-### 2026-07-17 08:42:56  #MKT News
-
-Qatar's Ministry of Interior says security threat level is currently elevated.
-
----
-
-### 2026-07-17 08:42:51  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 plunged 4.00% intraday to 64,128.45 points.
-
----
-
-### 2026-07-17 08:41:48  #市場 #國際
-
-5年期日本國債收益率下跌0.5個基點，至1.945%。
-
----
-
-### 2026-07-17 08:41:32  #市場 #國際
-
-日本鎧俠股價短暫觸及跌停。
-
----
-
-### 2026-07-17 08:41:16  #市場 #國際
-
-20年期日本國債收益率下跌1.5個基點，至3.575%。
-
----
-
-### 2026-07-17 08:41:03  #市場
-
-紐約期銀日內跌1%，現報55.59美元/盎司。
-
----
-
-### 2026-07-17 08:40:06  #Trading Economics #Markets #Japan #stocks #Importance 1
-
-Advantest Stock Price Hits 5-week Low — Advantest shares decreased to 27530.00 JPY, the lowest since June 2026. Over the past 4 weeks, Advantest lost 8.76%, and in the last 12 months, it increased 147.16%.
-
----
-
-### 2026-07-17 08:38:20  #國際
-
-【尼加拉瓜宣佈與義大利斷絕外交關係】尼加拉瓜外交部16日發表宣告，宣佈與義大利斷絕外交關係，理由是義大利副總理兼外長塔亞尼近日發表針對尼加拉瓜政府的言論“毫無根據、攻擊性強、不負責任”。尼外交部在宣告中說，塔亞尼的有關言論“侮辱了尼加拉瓜人民和政府”，違背國家和人民之間相互尊重的原則。目前，義大利政府尚未就此作出正式回應。（新華社）
-
----
-
-### 2026-07-17 08:37:20  #MKT News #USDJPY
-
-Japan's finance minister KATAYAMA said she would not discuss specific exchange-rate levels.
-
----
-
-### 2026-07-17 08:37:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
-
-Japan's finance minister Katayama said she stands ready to act as necessary to respond to currency volatility.
-
----
-
-### 2026-07-17 08:36:47  #MKT News
-
-Multiple explosions reported in Doha, Qatar; mobile emergency alerts sent.
-
----
-
-### 2026-07-17 08:36:33  #其他
-
-目擊者稱卡達多哈發生多起爆炸，政府已向手機使用者傳送警報。
-
----
-
-### 2026-07-17 08:35:48  #國際
-
-日本財務官片山：準備在必要時隨時對匯率波動做出適當應對。
-
----
-
-### 2026-07-17 08:35:44  #國際
-
-日本財務大臣片山：不就具體匯率水平置評。
-
----
-
-### 2026-07-17 08:35:38  #公司 #市場 #國際
-
-【SpaceX第13次星艦試飛因發動機故障自動中止 股價盤後下跌】SpaceX表示，在週四發射任務因部分發動機未能啟動而中止後，公司計劃於未來幾天再次嘗試發射星艦(Starship)火箭。訊息公佈後，SpaceX股價下跌。“星艦”原定於當地時間下午5時45分從SpaceX位於美國德克薩斯州南部的星際基地(Starbase)發射場執行第13次重大測試任務。不過，就在預定發射時刻，發射塔處冒出滾滾濃煙，而火箭並未升空。SpaceX股價週四常規交易時段收跌，盤後進一步下跌約3%。該股在上市後曾大幅飆升，但近期有所回落。儘管如此，華爾街分析師整體仍維持看多立場。
-
----
-
-### 2026-07-17 08:34:50  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-Iran's Fars news agency, citing Arab sources, reported an explosion at the US military base at Al Udeid in Qatar.
-
----
-
-### 2026-07-17 08:34:42  #Trading Economics #Economy #Singapore #Domestic Exports of Non Oil (nodx) (%yoy) #Importance 1
-
-Singapore NODX Growth Below Forecasts — Singapore’s non-oil domestic exports (NODX) grew 20.7% year-on-year in June 2026, moderating from a marginally revised 38.4% jump in May and falling short of forecasts of 30.2%. It was the ninth straight month of expansion, though the slowest growth since March, with electronics continuing to grow strongly (105.1% vs 94.8% in May), supported by robust AI-related demand. Electronic exports were driven mainly by disk media products (170.9%), ICs (115.4%), and PCs (95.8%).
 
 ---

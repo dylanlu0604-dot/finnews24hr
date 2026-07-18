@@ -1,7 +1,187 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-19 04:24:37_
-_本檔包含 4049 則快訊，約 723677 字_
+_更新時間：2026-07-19 05:28:41_
+_本檔包含 4064 則快訊，約 724245 字_
+
+---
+
+### 2026-07-17 08:50:04  #MKT News #Important
+
+US President Trump will deliver a nationwide address in 10 minutes.
+
+---
+
+### 2026-07-17 08:50:01  #市場
+
+【機構：2026年10英寸及以上的大尺寸OLED面板出貨量有望逆勢增長18.8%】Omdia最新預測，認為10英寸及以上的大尺寸OLED顯示面板出貨規模有望在今年達到3880萬片，在整體大尺寸顯示面板出貨衰退2.3%的背景下逆勢實現18.8%的同比增幅。機構認為，儘管下游在2026年上半年提前拉貨，但零部件價格上漲、地緣政治緊張、經濟不確定性上升等因素導致2026全年尤其是下半年的大尺寸顯示面板需求有所減弱。
+
+---
+
+### 2026-07-17 08:49:24  #市場 #國際
+
+【日經225指數重挫4% AI前景不明令科技股承壓】由於日本日經225指數一度下跌4.1%，鎧俠帶領科技股重挫。鎧俠股價一度重挫16%，這家儲存晶片製造商的市值較6月的峰值縮水一半。Screen、Lasertec和Sumco晶片相關股票均下跌超過12%。東證指數下跌2.3%。
+
+---
+
+### 2026-07-17 08:48:21  #MKT News #Market Themes #AI Revolution
+
+The 2026 World Artificial Intelligence Conference and High-Level Meeting on Global Governance of Artificial Intelligence opened in Shanghai on July 17. CHINA will attend the opening ceremony and deliver the keynote address.
+
+---
+
+### 2026-07-17 08:47:46  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+【Margin balances on China’s two exchanges fall 28.586 bln yuan】As of July 16, Shanghai Stock Exchange margin balance was 1.430821 trillion yuan, down 13.961 bln yuan from the previous trading day; Shenzhen Stock Exchange was 1.398204 trillion yuan, down 14.625 bln yuan. Combined margin balance totaled 2.829025 trillion yuan, down 28.586 bln yuan.
+
+---
+
+### 2026-07-17 08:47:17  #其他
+
+【兩市融資餘額較上日減少285.87億元】截至7月16日，上交所融資餘額報14308.21億元，較前一交易日減少139.61億元；深交所融資餘額報13982.04億元，較前一交易日減少146.26億元；兩市合計28290.25億元，較前一交易日減少285.87億元。
+
+---
+
+### 2026-07-17 08:46:58  #其他
+
+【習近平將出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話】2026世界人工智慧大會暨人工智慧全球治理高階別會議於7月17日在上海開幕。國家主席習近平將出席大會開幕式並發表主旨講話。（央視新聞）
+
+---
+
+### 2026-07-17 08:46:25  #其他
+
+2026世界人工智慧大會暨人工智慧全球治理高階別會議於7月17日在上海開幕。國家主席習近平將出席大會開幕式並發表主旨講話。（央視新聞）
+
+---
+
+### 2026-07-17 08:45:34  #市場
+
+【昨日ETF資金淨流入TOP 10榜單出爐】據同花順iFinD資料，昨日A股ETF資金淨流入前10中有9只為大盤寬基ETF，其中華泰柏瑞滬深300ETF（510300）淨流入62.30億元，南方中證1000ETF（512100）淨流入36.19億元，華夏上證50ETF（510050）淨流入26.94億元。
+
+---
+
+### 2026-07-17 08:44:43  #市場 #焦點
+
+布倫特原油突破85美元/桶，日內漲0.91%。
+
+---
+
+### 2026-07-17 08:44:36  #其他
+
+【卡達多哈傳出爆炸聲 】目擊者稱，當地時間今天（7月17日）凌晨，卡達首都多哈傳來數聲爆炸巨響，卡達政府已向手機使用者傳送警報。（ CCTV國際時訊  ）
+
+---
+
+### 2026-07-17 08:44:30  #MKT News #Market Themes #Chip Wars #MU.O #Impact bearish #SNDK.O #SKHY.O #Impact bullish
+
+Micron Technology (MU.O) and SanDisk (SNDK.O) fell 4% in U.S. after-hours trading; SK Hynix ADR (SKHY.O) rose 0.4%.
+
+---
+
+### 2026-07-17 08:42:59  #其他 #焦點
+
+【日經225指數跌幅擴大至4%】AI擔憂導致科技股下挫，日經225指數跌幅擴大至4%，現報64128.45點。
+
+---
+
+### 2026-07-17 08:42:56  #MKT News
+
+Qatar's Ministry of Interior says security threat level is currently elevated.
+
+---
+
+### 2026-07-17 08:42:51  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
+
+Japan's Nikkei 225 plunged 4.00% intraday to 64,128.45 points.
+
+---
+
+### 2026-07-17 08:41:48  #市場 #國際
+
+5年期日本國債收益率下跌0.5個基點，至1.945%。
+
+---
+
+### 2026-07-17 08:41:32  #市場 #國際
+
+日本鎧俠股價短暫觸及跌停。
+
+---
+
+### 2026-07-17 08:41:16  #市場 #國際
+
+20年期日本國債收益率下跌1.5個基點，至3.575%。
+
+---
+
+### 2026-07-17 08:41:03  #市場
+
+紐約期銀日內跌1%，現報55.59美元/盎司。
+
+---
+
+### 2026-07-17 08:40:06  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Advantest Stock Price Hits 5-week Low — Advantest shares decreased to 27530.00 JPY, the lowest since June 2026. Over the past 4 weeks, Advantest lost 8.76%, and in the last 12 months, it increased 147.16%.
+
+---
+
+### 2026-07-17 08:38:20  #國際
+
+【尼加拉瓜宣佈與義大利斷絕外交關係】尼加拉瓜外交部16日發表宣告，宣佈與義大利斷絕外交關係，理由是義大利副總理兼外長塔亞尼近日發表針對尼加拉瓜政府的言論“毫無根據、攻擊性強、不負責任”。尼外交部在宣告中說，塔亞尼的有關言論“侮辱了尼加拉瓜人民和政府”，違背國家和人民之間相互尊重的原則。目前，義大利政府尚未就此作出正式回應。（新華社）
+
+---
+
+### 2026-07-17 08:37:20  #MKT News #USDJPY
+
+Japan's finance minister KATAYAMA said she would not discuss specific exchange-rate levels.
+
+---
+
+### 2026-07-17 08:37:05  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish #DXY
+
+Japan's finance minister Katayama said she stands ready to act as necessary to respond to currency volatility.
+
+---
+
+### 2026-07-17 08:36:47  #MKT News
+
+Multiple explosions reported in Doha, Qatar; mobile emergency alerts sent.
+
+---
+
+### 2026-07-17 08:36:33  #其他
+
+目擊者稱卡達多哈發生多起爆炸，政府已向手機使用者傳送警報。
+
+---
+
+### 2026-07-17 08:35:48  #國際
+
+日本財務官片山：準備在必要時隨時對匯率波動做出適當應對。
+
+---
+
+### 2026-07-17 08:35:44  #國際
+
+日本財務大臣片山：不就具體匯率水平置評。
+
+---
+
+### 2026-07-17 08:35:38  #公司 #市場 #國際
+
+【SpaceX第13次星艦試飛因發動機故障自動中止 股價盤後下跌】SpaceX表示，在週四發射任務因部分發動機未能啟動而中止後，公司計劃於未來幾天再次嘗試發射星艦(Starship)火箭。訊息公佈後，SpaceX股價下跌。“星艦”原定於當地時間下午5時45分從SpaceX位於美國德克薩斯州南部的星際基地(Starbase)發射場執行第13次重大測試任務。不過，就在預定發射時刻，發射塔處冒出滾滾濃煙，而火箭並未升空。SpaceX股價週四常規交易時段收跌，盤後進一步下跌約3%。該股在上市後曾大幅飆升，但近期有所回落。儘管如此，華爾街分析師整體仍維持看多立場。
+
+---
+
+### 2026-07-17 08:34:50  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+Iran's Fars news agency, citing Arab sources, reported an explosion at the US military base at Al Udeid in Qatar.
+
+---
+
+### 2026-07-17 08:34:42  #Trading Economics #Economy #Singapore #Domestic Exports of Non Oil (nodx) (%yoy) #Importance 1
+
+Singapore NODX Growth Below Forecasts — Singapore’s non-oil domestic exports (NODX) grew 20.7% year-on-year in June 2026, moderating from a marginally revised 38.4% jump in May and falling short of forecasts of 30.2%. It was the ninth straight month of expansion, though the slowest growth since March, with electronics continuing to grow strongly (105.1% vs 94.8% in May), supported by robust AI-related demand. Electronic exports were driven mainly by disk media products (170.9%), ICs (115.4%), and PCs (95.8%).
 
 ---
 
@@ -24350,95 +24530,5 @@ Federal Reserve chair Kevin Warsh said including the M2 indicator in Fed reports
 ### 2026-07-15 23:21:12  #MKT News
 
 【Baltic Dry Index retreats as capesize demand weakens】Baltic Dry Index slipped from a one-month high, down 51 pts (-1.71%) to 2,929 as capesize demand eased. Baltic Capesize Index (BCI) fell 157 pts (-3.3%) to 4,594; capesize average daily earnings dropped $1,420 to $38,163. Baltic Panamax Index (BPI) rose 7 pts (0.3%) to 2,258; Panamax daily earnings increased $65 to $20,325. Baltic Supramax Index (BSI) gained 10 pts (0.6%) to 1,720, its highest since Aug 2022. Baltic Handysize Index (BHSI) eased 3 pts to 906.
-
----
-
-### 2026-07-15 23:21:06  #公司
-
-【55家內地出版文化單位亮相香港書展】7月15日在香港會展中心拍攝的書展內地展區。香港書展是內地與香港文化交流、對接海外市場的重要平臺。本屆書展內地出版單位展區總面積544平方米，以“精品展示、文化互鑑、產業合作”為核心定位，參展單位涵蓋出版集團、地方出版社、高校學術社和發行機構，展出書籍種類豐富。展區採用“1個主題省展區+3大特色展區”組合模式，全方位展現新時代內地出版高質量發展成果。（新華社）
-
----
-
-### 2026-07-15 23:20:54  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell more than 2.00% intraday, trading at $57.52/oz.
-
----
-
-### 2026-07-15 23:20:45  #央行 #其他
-
-加拿大央行高階副行長卡羅琳・羅傑斯： 住房可負擔性問題正在削弱降息本應帶來的刺激效果。
-
----
-
-### 2026-07-15 23:19:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said the Fed should jointly formulate rules with other regulators.
-
----
-
-### 2026-07-15 23:19:21  #央行 #國際
-
-美聯儲主席沃什： 美聯儲應與其他監管機構協同制定監管規則。
-
----
-
-### 2026-07-15 23:18:45  #Trading Economics #Economy #United Kingdom #Government Bond 10Y #Importance 1
-
-UK Gilt Yields Retreat from Two-Month Highs on Fiscal Optimism — The UK 10-year gilt yield reversed early gains to trade around 4.95%, retreating from near two-month highs as investors welcomed expectations that Andy Burnham, widely expected to be confirmed as the UK's next prime minister on Monday, will appoint a fiscally conservative finance minister. With Burnham's confirmation largely priced in, markets have shifted their focus to his choice for the Treasury amid the UK's fragile public finances. Reports naming Home Secretary Shabana Mahmood as the leading candidate reassured investors, easing concerns that Burnham could instead appoint Ed Miliband, who is viewed as favoring a more expansionary fiscal stance. Meanwhile, rising Middle East tensions have pushed oil prices to one-month highs, reinforcing expectations that the Bank of England will continue tightening policy. Markets now fully price in a rate hike in November, with another expected by March 2027.
-
----
-
-### 2026-07-15 23:17:47  #央行 #宏觀 #市場
-
-加拿大央行行長麥克勒姆： 若通脹飆升是油價上漲所致且後續油價回落，他不傾向就此出臺應對舉措。
-
----
-
-### 2026-07-15 23:17:47  #Trading Economics #Markets #Switzerland #stocks #Importance 0
-
-UBS Stock Price Hits 18-1/2-year High — UBS shares increased to 44.44 CHF, the highest since January 2008. Over the past 4 weeks, UBS gained 10.55%, and in the last 12 months, it increased 56.35%.
-
----
-
-### 2026-07-15 23:17:38  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Inches Down from $4 — Heating oil futures in the US were at $3.95 per gallon, easing from the two-month high of $4.02 on July 14th as stronger inventory data momentarily offset a tightening supply backdrop. Data from the EIA indicated that distillate fuel stocks rose by 4.6 million barrels on the week ending July 19th, nearly erasing the draw from the earlier week. The build weighed against a decreasing SPR as more strikes between the US and Iran continued to hamper global supply of crude oil and refined fuels. On top of that, major diesel producer Russia halted exports of the fuel and shifted to an importer, as higher crude prices exacerbated the series of Ukrainian strikes on the country's largest refineries. This magnified the impact of refinery bottlenecks in the US and direct damage for facilities in the Middle East. Consequently, diesel crack spreads rose to a record high in July.
-
----
-
-### 2026-07-15 23:17:33  #央行 #國際
-
-美聯儲主席沃什： 美聯儲有能力阻止各類生鮮雜貨全線漲價。
-
----
-
-### 2026-07-15 23:17:30  #MKT News
-
-Spot silver slid about $0.70 intraday to $57.60/oz.
-
----
-
-### 2026-07-15 23:17:30  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
-
-Fed chairman Kevin Warsh said the Fed can ensure average prices across grocery shelves stop rising.
-
----
-
-### 2026-07-15 23:17:13  #央行 #國際
-
-美聯儲主席沃什： 美聯儲對牛奶、牲畜價格很難起到有效調控作用。勞動力市場發生了許多結構性變化。
-
----
-
-### 2026-07-15 23:17:05  #MKT News
-
-Fed Chair Kevin Warsh said he does not believe the Fed can do much about milk and beef prices.
-
----
-
-### 2026-07-15 23:16:49  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve chairman Kevin Warsh said the labor market looks fairly strong, but the outlook for inf is less optimistic.
 
 ---
