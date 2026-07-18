@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-19 00:37:09",
-  "count": 19076,
+  "updated": "2026-07-19 00:41:04",
+  "count": 19082,
   "items": [
+    {
+      "id": "4995627",
+      "time": "2026-07-19 00:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖稱，（國內）批評之聲不應破壞社會團結。"
+    },
+    {
+      "id": "4995626",
+      "time": "2026-07-19 00:38:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利總統簽署憲法修正案，其任期即將終止】據匈牙利當地媒體18日報道，匈牙利總統舒尤克已簽署《基本法》修正案，其任期即將終止，國會將於30天內選舉產生新總統。（新華社）"
+    },
+    {
+      "id": "4995625",
+      "time": "2026-07-19 00:38:52",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗最高領袖指責美國一再違約】當地時間7月18日晚，伊朗最高領袖穆傑塔巴·哈梅內伊發表宣告，指責美國一再違反伊美諒解備忘錄中的承諾，稱美國總統的簽名“毫無價值、無效”。"
+    },
+    {
+      "id": "mkt:019f7618-2550-7aab-8df1-fd38f01ab79e",
+      "time": "2026-07-19 00:38:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hungary president signs constitutional amendment, term to end】Local media reported on the 18th that Hungary’s president has signed an amendment to the Fundamental Law; the president’s term is ending and parliament will elect a successor within 30 days."
+    },
+    {
+      "id": "4995624",
+      "time": "2026-07-19 00:38:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾瑪下架四款泰勒農場袋裝西生菜沙拉，同步下架旗下自有品牌Marketside袋裝沙拉產品，目前尚未確認有消費者因食用該沙拉感染寄生蟲。"
+    },
+    {
+      "id": "mkt:019f7617-bb51-7aab-8df1-f40966b4a3b0",
+      "time": "2026-07-19 00:38:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Kuwait says Iranian attack sparks multiple fires; several firefighters injured】Kuwait fire service said an Iranian attack sparked multiple fires and injured several firefighters. Crews brought two fires under control this afternoon local time; in one area several firefighters and one oil-sector worker were injured and the site came under attack again during firefighting. Firefighters also extinguished three smaller blazes in residential areas caused by falling shrapnel; those incidents caused no casualties."
+    },
+    {
+      "id": "4995623",
+      "time": "2026-07-19 00:36:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖稱，伊朗民族與抵抗陣線給美國上了“永世難忘的一課”。"
+    },
     {
       "id": "4995622",
       "time": "2026-07-19 00:34:49",
@@ -175935,14 +175996,6 @@
         "公司"
       ],
       "text": "OpenAI CEO奧特曼：大量基準測試資料都表明5.6 Sol是目前全球效能最強的模型，但最有力的佐證是，埃隆（馬斯克）又一門心思盯著我了。"
-    },
-    {
-      "id": "4982316",
-      "time": "2026-07-12 00:37:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“巴威”已登陸！專家提醒：登陸≠危險解除 這些區域有大暴雨】\n7月11日23時20分前後，今年第9號颱風“巴威”以颱風級在浙江省玉環市坎門街道沿海登陸，成為今年以來登陸我國的最強颱風。登陸後,“巴威”將繼續給福建、浙江等地製造強風雨，隨後深入內陸，由於其“體型”龐大，強降雨將波及江西、安徽、湖北、河南、京津冀等十餘省區市。\n\n登陸並不等於危險解除，專家分析稱，“巴威”體型龐大、強度強，其帶來的影響持續時間長、範圍廣，11日至12日其主體和遠距離水汽輸送將給我國華東及華北、東北帶來強降雨，東南沿海有持續大風。13日至15日“巴威”的低壓以及殘渦還會陸續影響到江漢、黃淮、華北、東北等地。\n\n11日夜間到12日，浙江東部和中南部、福建北部、江西東北部、北京、天津北部、河北中北部、遼寧西部、吉林北部、四川盆地西部、臺灣島等地部分地區有大暴雨，局地特大暴雨，其中北京東北部和南部、河北中部和東北部、天津北部局地有250~300毫米，浙江東部和南部、安徽南部、臺灣島局地有250~450毫米。\n\n\n之後，“巴威”還將深入內陸，12日至13日給江西、安徽、江蘇等地帶來強降雨，部分地區有大暴雨或特大暴雨。13日之後“巴威”殘餘環流還會繼續北上，13日至14日黃淮、華北將有明顯降雨，14日至15日東北等地也可能出現強降雨。（央視新聞）"
     }
   ]
 }
