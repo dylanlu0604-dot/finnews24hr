@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18 21:43:26",
-  "count": 19068,
+  "updated": "2026-07-18 21:47:21",
+  "count": 19067,
   "items": [
     {
       "id": "mkt:019f7576-681b-7aab-8df1-238499155c8d",
@@ -175844,14 +175844,6 @@
         "Greater China"
       ],
       "text": "【Shanghai Donghai Bridge closed to traffic】Affected by Typhoon Bavi, Shanghai's Donghai Bridge has been closed and placed under traffic control from 21:00 on July 11 to ensure road safety."
-    },
-    {
-      "id": "mkt:019f516c-cc5a-7aab-8d3e-75b6cf5ddcc1",
-      "time": "2026-07-11 21:45:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Foreign Ministry said the Saudi foreign minister spoke with Pakistan's foreign minister, confirming Saudi support for mediation efforts and the resumption of dialogue."
     }
   ]
 }
