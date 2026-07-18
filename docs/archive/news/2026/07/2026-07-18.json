@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 833,
+  "count": 837,
   "items": [
+    {
+      "id": "mkt:019f7555-4a53-7aab-8df0-e8958e2e5970",
+      "time": "2026-07-18 21:05:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China launches AI-enabled accelerator-driven advanced nuclear roadmap (AIforADANES) globally】At the 2026 World Artificial Intelligence Conference, the Institute of Modern Physics at the Chinese Academy of Sciences said China globally launched an AI-empowered accelerator-driven advanced nuclear system technology roadmap, AIforADANES, and established an associated all-domain innovation alliance. The roadmap adopts a physics-intrinsic world-model intelligence framework and a ‘‘data + physical model + expert experience’’ triple-driven paradigm, which the institute says addresses AI black-box controllability concerns against the nuclear sector’s zero-tolerance safety requirements and fills a technical gap for deploying intelligent advanced nuclear systems."
+    },
+    {
+      "id": "4995542",
+      "time": "2026-07-18 21:05:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特說伊朗襲擊造成基礎設施損毀和人員受傷】科威特武裝部隊18日表示，伊朗當天對該國軍事基礎設施和重要民用基礎設施發動襲擊，造成人員受傷和財產損失，科防空部隊對伊朗導彈和無人機實施了攔截。科威特武裝部隊在社交媒體發表宣告稱，“伊朗持續侵略”的目標是軍事和安全設施以及重要民用基礎設施，包括石油、電力和水務部門設施。防空部隊自凌晨以來持續攔截進入該國領空的導彈和無人機。宣告說，襲擊給多個設施造成“重大損失”。多名消防員和石油行業工人在執行滅火和搶修任務時受傷，傷者已送醫接受治療。宣告未說明受傷人數，也未提供有關損失的細節。宣告還說，被攔截的導彈和無人機碎片落入多個居民區，造成財產損失。科威特外交部當天發表宣告譴責上述襲擊，稱其侵犯科威特主權，伊朗應對上述襲擊及其造成的一切後果承擔全部責任，並呼籲伊朗立即停止襲擊。"
+    },
+    {
+      "id": "4995541",
+      "time": "2026-07-18 21:05:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗霍爾木茲甘省通訊部門：昨日美軍針對網路線路發動空襲，造成 116 座通訊塔受損癱瘓。"
+    },
+    {
+      "id": "mkt:019f7553-e745-7aab-8df0-e115a06dab27",
+      "time": "2026-07-18 21:04:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said all military actions and aggression that threaten regional security and stability must stop immediately and comprehensively; it urged avoidance of any steps that could escalate tensions, a prompt return to dialogue and negotiations, and adherence to agreements reached through diplomacy."
+    },
     {
       "id": "mkt:019f7553-7baa-7aab-8df0-dc73e2eaae4d",
       "time": "2026-07-18 21:03:53",
