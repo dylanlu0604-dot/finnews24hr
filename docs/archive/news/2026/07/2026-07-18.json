@@ -1,7 +1,23 @@
 {
   "date": "2026-07-18",
-  "count": 848,
+  "count": 850,
   "items": [
+    {
+      "id": "4995556",
+      "time": "2026-07-18 21:21:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "AI模型評測平臺Arena顯示，Kimi-K3現已在Frontend Code Arena中以1679分位居第一，超越了Claude Fable 5。"
+    },
+    {
+      "id": "mkt:019f7563-269a-7aab-8df1-0a47c53e2d86",
+      "time": "2026-07-18 21:20:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Bank of China issues support plan for MAZU overseas deployment】Bank of China has issued a service plan to support overseas rollout of MAZU, a meteorological intelligent early‑warning solution (MAZU: Multi‑hazard, Alert, Zero‑gap, Universal). The bank will leverage a \"one‑point global access response\" service mechanism, its global institutional network and primary cross‑border clearing channels to provide core operating firms with full‑cycle integrated financial services across R&D, equipment manufacturing, overseas project deployment, delivery and operations & maintenance, and to build an integrated cross‑border settlement system to deepen a financial–meteorological collaboration ecosystem."
+    },
     {
       "id": "mkt:019f7562-9733-7aab-8df1-073eeabe92bc",
       "time": "2026-07-18 21:20:23",
