@@ -1,7 +1,27 @@
 {
   "date": "2026-07-19",
-  "count": 114,
+  "count": 116,
   "items": [
+    {
+      "id": "4995675",
+      "time": "2026-07-19 03:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙城致8人死亡】據巴勒斯坦通訊社18日報道，以色列軍隊當天空襲加沙城兩處社群，共造成8人死亡。以軍尚未對此發表回應。據加沙地帶衛生部門18日釋出的資料，自2025年10月加沙停火第一階段協議生效以來，以軍在加沙地帶的行動已造成1144人死亡、3703人受傷。"
+    },
+    {
+      "id": "mkt:019f76b9-158f-7aab-8df2-f05f4fc14b54",
+      "time": "2026-07-19 03:34:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【U.S. long-term unemployed rise; nearly 2 million jobless at least six months】The Wall Street Journal reports nearly 2 million Americans have been unemployed for at least six months. U.S. Labor Department data show June long-term unemployment (27 weeks+) accounted for 27.3% of total unemployed, up 4 percentage points year-on-year and near the highest level since late 2021. Overall unemployment remains low, so the stock of long-term unemployed is not yet large enough to materially hit the economy, but analysts warn spillovers are accumulating. Employ America senior economist Preston Mui said: \"We haven't seen large-scale layoffs in recent years, so short-term unemployment has stayed relatively stable. At the same time hiring activity has fallen off noticeably. Even if some long-term unemployed find jobs, the weak hiring environment means more people keep joining the long-term unemployed pool, keeping the count elevated.\""
+    },
     {
       "id": "4995674",
       "time": "2026-07-19 03:19:27",

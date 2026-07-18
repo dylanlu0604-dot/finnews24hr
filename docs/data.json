@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-19 03:33:56",
-  "count": 19115,
+  "updated": "2026-07-19 03:37:51",
+  "count": 19116,
   "items": [
+    {
+      "id": "4995675",
+      "time": "2026-07-19 03:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙城致8人死亡】據巴勒斯坦通訊社18日報道，以色列軍隊當天空襲加沙城兩處社群，共造成8人死亡。以軍尚未對此發表回應。據加沙地帶衛生部門18日釋出的資料，自2025年10月加沙停火第一階段協議生效以來，以軍在加沙地帶的行動已造成1144人死亡、3703人受傷。"
+    },
+    {
+      "id": "mkt:019f76b9-158f-7aab-8df2-f05f4fc14b54",
+      "time": "2026-07-19 03:34:28",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【U.S. long-term unemployed rise; nearly 2 million jobless at least six months】The Wall Street Journal reports nearly 2 million Americans have been unemployed for at least six months. U.S. Labor Department data show June long-term unemployment (27 weeks+) accounted for 27.3% of total unemployed, up 4 percentage points year-on-year and near the highest level since late 2021. Overall unemployment remains low, so the stock of long-term unemployed is not yet large enough to materially hit the economy, but analysts warn spillovers are accumulating. Employ America senior economist Preston Mui said: \"We haven't seen large-scale layoffs in recent years, so short-term unemployment has stayed relatively stable. At the same time hiring activity has fallen off noticeably. Even if some long-term unemployed find jobs, the weak hiring environment means more people keep joining the long-term unemployed pool, keeping the count elevated.\""
+    },
     {
       "id": "4995674",
       "time": "2026-07-19 03:19:27",
@@ -176309,14 +176329,6 @@
         "Impact bearish"
       ],
       "text": "【US equity rally shows cracks as market breadth narrows】Independent researcher The Kobeissi Letter reports 48% of Nasdaq-100 constituents are at least 20% below their all-time highs, the highest since February–March’s selloff this year. That is below the roughly 60% level seen before the March 30 trough, roughly double the share from 12 months ago and well under the 80% peak in the 2022 bear market. Meanwhile 64% of Nasdaq-100 names trade above their 200-day moving average—near this year’s high versus 38% at the March 30 trough. The readings indicate the recent US rally is increasingly concentrated in a small number of large-cap tech stocks and market breadth is narrowing."
-    },
-    {
-      "id": "4982348",
-      "time": "2026-07-12 03:33:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國全國記者俱樂部：呼籲美國司法部立即撤回針對《紐約時報》記者的傳票。"
     }
   ]
 }
