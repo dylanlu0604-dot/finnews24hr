@@ -1,7 +1,15 @@
 {
   "date": "2026-07-18",
-  "count": 773,
+  "count": 774,
   "items": [
+    {
+      "id": "mkt:019f74f6-fb89-7aab-8df0-3be37a61a20c",
+      "time": "2026-07-18 19:22:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese military said a suspected explosive device detonated on a military vehicle in the Mansouri area, killing one soldier and wounding another."
+    },
     {
       "id": "4995478",
       "time": "2026-07-18 19:17:14",
