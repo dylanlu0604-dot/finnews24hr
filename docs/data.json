@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-18 20:56:20",
-  "count": 19053,
+  "updated": "2026-07-18 21:00:48",
+  "count": 19055,
   "items": [
+    {
+      "id": "4995535",
+      "time": "2026-07-18 20:59:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗衛生部：自6月27日以來美對伊襲擊已致至少50人死亡】當地時間18日，伊朗衛生部發表宣告稱，自6月27日以來，美國對伊朗發動的襲擊已導致至少50人死亡，近500人受傷。（央視新聞）"
+    },
+    {
+      "id": "4995534",
+      "time": "2026-07-18 20:58:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國首創人工智慧賦能核能技術路線全球首發】記者18日從中國科學院近代物理研究所獲悉，在2026世界人工智慧大會暨人工智慧全球治理高階別會議期間，中國首創的人工智慧賦能加速器驅動先進核能系統(AI for ADANES)技術路線面向全球首發，其全域創新聯盟同步揭牌成立。據介紹，該技術路線透過搭建物理本徵世界模型智慧體系，首創“資料+物理模型+專家經驗三重驅動”全新正規化，破解了AI“黑箱不可控”與核工業“安全零容錯”的核心矛盾，填補了全球先進核能智慧化落地的技術空白。（中國新聞網）"
+    },
+    {
+      "id": "4995531",
+      "time": "2026-07-18 20:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首個基於光量子技術路線的智慧體平臺：圖靈量子釋出行業級量子-經典混合Agent平臺QAgent】7月18日，2026世界人工智慧大會WAIC現場，圖靈量子釋出量子-經典混合Agent平臺QAgent。這是全球首個基於光量子技術路線、面向全行業落地的量子 - 經典混合智慧體平臺。作為2026浦東AI標誌性成果，平臺打通AI智慧體與光量子真機算力的產業落地通道，QAgent以大語言模型與智慧體為統一排程入口，依託自研光量子計算體系，深度融合量子-經典混合算力底座、DeepQuantum量子人工智慧程式設計框架、全場景量子演算法庫及行業化工具技能，首次打通了“自然語言輸入—任務智慧拆解—量子Agent協同呼叫—量子算力排程—結果聚合與輸出”的端到端閉環。這標誌著，量子計算正從前沿算力走向行業能力，從專家驅動的科研工具邁向Agent驅動的產業服務。"
+    },
     {
       "id": "4995530",
       "time": "2026-07-18 20:53:54",
@@ -175713,14 +175737,6 @@
         "其他"
       ],
       "text": "【杭州蕭山國際機場已取消11日進出港航班214架次】受今年第9號颱風“巴威”影響，7月11日，杭州蕭山國際機場已取消當日進出港航班214架次。同時，機場方面還部署航空器繫留、設施排查、人員轉移、旅客保障等一系列舉措，築牢機場執行安全屏障。（新華社）"
-    },
-    {
-      "id": "mkt:019f5144-22d8-7aab-8d3e-36f771e52ef4",
-      "time": "2026-07-11 21:00:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【NYT reporters subpoenaed over disclosure of safety flaws on Trump’s new plane】The New York Times reported on the 11th that reporters who contributed to its story on safety defects in President Trump’s newly refurbished presidential plane were served subpoenas. Federal law enforcement officers reportedly went to the reporters’ homes on the 10th to deliver subpoenas requiring them to testify before a Manhattan federal grand jury on the 15th about possible violations of federal criminal law. The plane, donated by Qatar and recently refitted, carried Trump to this month’s NATO summit in Turkey; on the 8th he initially flew on the older Air Force One to RAF Mildenhall before switching to the new aircraft for the return. The Times, citing unnamed sources, said the switch was made at the request of the U.S. Secret Service because the new plane lacked some security features of the older aircraft."
     }
   ]
 }
