@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-18 09:39:32",
-  "count": 18987,
+  "updated": "2026-07-18 09:45:37",
+  "count": 18991,
   "items": [
+    {
+      "id": "mkt:019f72e5-a61e-7aab-8dec-e8e4560c2d6c",
+      "time": "2026-07-18 09:44:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【First World Artificial Intelligence Conference — Academic (WAIC-Academic) debuts】China today launched the inaugural World Artificial Intelligence Conference — Academic (WAIC-Academic, WAICA), an international open academic platform built on eight years of WAIC experience to serve global AI researchers."
+    },
+    {
+      "id": "4995220",
+      "time": "2026-07-18 09:42:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國發起 面向世界 首屆世界人工智慧大會·學術正式亮相】今天上午（18日），依託世界人工智慧大會（WAIC）八年深厚積澱打造的首屆世界人工智慧大會·學術（WAIC-Academic，簡稱WAICA）正式亮相。這是一個由中國發起、面向世界的開放學術公共平臺，為全球AI學者構建一個迴歸學術本質的創新舞臺。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f72e3-0c0c-7aab-8dec-e5700ad7e1cd",
+      "time": "2026-07-18 09:41:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says seventh consecutive night of strikes on Iran ends】CENTCOM said U.S. forces ended a seventh consecutive night of strikes on Iran at 9:30 p.m. ET on July 17. Strikes struck reconnaissance sites, military logistics infrastructure, underground weapons storage and maritime targets, using fighters, drones, warships and other assets. CENTCOM said it is following commander direction to continue holding Iran accountable and is fully enforcing a maritime blockade of Iranian ports. More than 50,000 U.S. service members are deployed in the Middle East, remaining vigilant with lethal strike capability and on standby."
+    },
+    {
+      "id": "4995219",
+      "time": "2026-07-18 09:41:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【直擊WAIC丨騰訊副總裁林松濤：真實場景永遠是AI價值的第一現場，讓懂業務的人去拿起AI能創造更大價值】7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海舉行。今日，騰訊AI應用創新論壇舉行。騰訊公司副總裁林松濤現場表示：“真實場景永遠是AI價值的第一現場。AI發展到今天，不同領域、不同企業、不同個體每天都要遇到大量問題，不是大模型繼續升級迭代就能夠徹底解決。”林松濤指出：“AI要想真正創造價值，必須先理解企業和個人面臨的垂直領域需求。我們也發現，讓懂業務的垂直領域的這些人去拿起AI，遠比讓懂AI的人去學業務快得多，能創造更大的價值和能力。這也是我們一直希望真正去做到AI普惠的真實意義所在，它應該是服務於方方面面和每個行業。”（新浪科技）"
+    },
+    {
+      "id": "mkt:019f72e1-9e69-7aab-8dec-de860642a617",
+      "time": "2026-07-18 09:40:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "U.S. military said it ended its seventh consecutive night of strikes on Iran."
+    },
+    {
+      "id": "4995218",
+      "time": "2026-07-18 09:40:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美軍中央司令部：結束了對伊朗連續第七夜的打擊】美軍中央司令部：美國東部時間7月17日晚9時30分，美軍結束連續第七晚對伊朗實施的打擊行動。美軍中央司令部（CENTCOM）此次打擊目標包含偵察據點、軍用後勤設施、地下武器儲存庫以及海上作戰力量。美軍動用戰鬥機、空中無人機、軍艦及其他作戰裝備實施攻擊。遵照美軍最高統帥指示，中央司令部將持續追究伊朗相關責任，同時全面執行針對伊朗港口的海上封鎖措施。超5萬名美軍官兵部署於中東各地，始終保持戒備、具備作戰能力、隨時待命。"
+    },
+    {
+      "id": "4995217",
+      "time": "2026-07-18 09:39:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國代表敦促全力推動烏克蘭危機局勢降溫】中國常駐聯合國代表團參贊滕飛17日在俄羅斯舉辦的烏克蘭問題安理會阿里亞模式會議上說，中方譴責任何針對無辜平民的襲擊，敦促當事方保持冷靜剋制，切實履行國際人道法，避免採取任何傷害平民、導致形勢惡化的行動，保護平民和民用基礎設施安全，全力推動局勢降溫，為早日停火止戰創造條件。（新華社）"
+    },
     {
       "id": "4995216",
       "time": "2026-07-18 09:37:11",
@@ -175002,32 +175070,6 @@
         "國際"
       ],
       "text": "【美不希望以色列介入對伊朗打擊行動】據美國有線電視新聞網7月10日援引兩名以色列訊息人士的話報道，美國政府不希望以色列介入美國對伊朗的軍事打擊行動，擔心這會導致局勢失去控制。訊息人士說，以色列總理內塔尼亞胡“非常想加入美國的打擊行動，但美國目前不希望以色列介入”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4982002",
-      "time": "2026-07-11 09:43:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【景順長城基金經理餘廣卸任所有在管產品】景順長城基金7月11日公告稱，旗下基金經理餘廣因個人原因卸任所有在管產品，共有4只：包括景順長城核心競爭力、景順長城核心優選一年、景順長城核心中景一年持有和景順長城核心招景，餘廣於2026年7月10日正式離任。"
-    },
-    {
-      "id": "mkt:019f4ed5-4515-7aab-8d3b-2273ea40fb63",
-      "time": "2026-07-11 09:40:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【LNG-derived methane used on Long March 10B; 98.7% purity, domestically supplied】Sinopec said the Long March 10B, successfully net-recovered in Hainan, used at scale high-purity methane produced from liquefied natural gas as aerospace fuel for the first time, marking a key technology breakthrough in fuel diversification for China’s commercial space sector. The two-stage reusable rocket, developed for the commercial market, has a 5‑metre core diameter and core components are 100% domestically produced. The LOX‑methane propellant used in this launch had 98.7% methane purity and was entirely domestically supplied."
-    },
-    {
-      "id": "4982001",
-      "time": "2026-07-11 09:40:22",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國務院安委會對福建泉州“7·9”重大火災查處掛牌督辦】7月9日，福建省泉州市晉江市陳埭鎮一鞋廠發生重大火災，造成28人死亡。國務院安委會決定對該起重大火災查處掛牌督辦，並派出國家消防救援局牽頭的現場督辦組，督促指導福建省開展調查處理工作，要求福建省依照有關法律法規及規章規定，抓緊組織開展調查，儘快查明起火原因和管理原因，精準確定火災性質，查清責任，嚴肅提出處理意見和整改措施。（央視新聞）"
     }
   ]
 }
