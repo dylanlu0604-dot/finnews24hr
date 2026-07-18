@@ -1,7 +1,27 @@
 {
   "date": "2026-07-18",
-  "count": 734,
+  "count": 736,
   "items": [
+    {
+      "id": "mkt:019f74aa-bb88-7aab-8def-ba6ebb035429",
+      "time": "2026-07-18 17:59:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Foreign Ministry spokesman on UK steel nationalization】China says the UK steel nationalization has drawn strong public attention. Beijing urged the UK to respect market principles and the spirit of contracts and to find a mutually acceptable solution, including on compensation. China supports firms using legal channels to defend their rights, is closely monitoring the situation and will take rights‑protection measures if necessary."
+    },
+    {
+      "id": "4995454",
+      "time": "2026-07-18 17:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦稱攔截並擊落了四架侵入其領空的無人機。"
+    },
     {
       "id": "4995453",
       "time": "2026-07-18 17:55:57",

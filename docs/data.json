@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-18 17:57:31",
-  "count": 19061,
+  "updated": "2026-07-18 18:02:31",
+  "count": 19062,
   "items": [
+    {
+      "id": "mkt:019f74aa-bb88-7aab-8def-ba6ebb035429",
+      "time": "2026-07-18 17:59:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【Foreign Ministry spokesman on UK steel nationalization】China says the UK steel nationalization has drawn strong public attention. Beijing urged the UK to respect market principles and the spirit of contracts and to find a mutually acceptable solution, including on compensation. China supports firms using legal channels to defend their rights, is closely monitoring the situation and will take rights‑protection measures if necessary."
+    },
+    {
+      "id": "4995454",
+      "time": "2026-07-18 17:57:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦稱攔截並擊落了四架侵入其領空的無人機。"
+    },
     {
       "id": "4995453",
       "time": "2026-07-18 17:55:57",
@@ -175762,14 +175782,6 @@
         "其他"
       ],
       "text": "【浙江省氣象局：颱風“巴威”最大可能今天半夜前後在洞頭至溫嶺一帶沿海登陸】7月11日，浙江省氣象局釋出訊息，今年第9號颱風“巴威”已於今天11時減弱為颱風級，17時其中心位於距離浙江省溫嶺市東南方向約165公里，中心附近最大風力13級（40米/秒）。 預計“巴威”將以每小時25～30公里的速度向西北方向移動，強度變化不大，最大可能今天半夜前後在洞頭至溫嶺一帶沿海登陸（颱風級，12～13級，33～38米/秒），登陸後繼續向西北方向移動，強度逐漸減弱，12日下午移出浙江進入安徽境內。"
-    },
-    {
-      "id": "4982188",
-      "time": "2026-07-11 18:01:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺釋出海浪紅色警報】從自然資源部獲悉，受今年第9號颱風“巴威”影響，國家海洋預報臺今天下午釋出海浪紅色警報。預計7月11日下午到12日下午，東海南部將出現8到12米的狂浪到狂濤區，東海北部、臺灣海峽將出現5到8米的巨浪到狂浪區，近海海域海浪預警級別為橙色。浙江、福建北部近岸海域將出現5到8米的巨浪到狂浪，該近岸海域海浪預警級別為紅色；上海近岸海域將出現3.5到5米的大浪到巨浪，該近岸海域海浪預警級別為橙色；江蘇南部近岸海域將出現3到4米的大浪到巨浪，福建南部近岸海域將出現2.5到3.5米的大浪，該近岸海域海浪預警級別為黃色；山東南部、江蘇北部近岸海域將出現2到3米的中浪到大浪，該近岸海域海浪預警級別為藍色。請在上述海域作業的船隻注意安全，沿海各有關單位提前採取防浪避浪措施。（央視新聞）"
     }
   ]
 }
