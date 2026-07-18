@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-19 00:41:04",
-  "count": 19082,
+  "updated": "2026-07-19 00:44:59",
+  "count": 19085,
   "items": [
+    {
+      "id": "4995631",
+      "time": "2026-07-19 00:43:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大安大略省自然資源部長表示，過去24小時內，林火活動已開始有所放緩。"
+    },
+    {
+      "id": "4995630",
+      "time": "2026-07-19 00:42:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大安大略省自然資源部長表示，週末及下週天氣將會好轉得多。"
+    },
+    {
+      "id": "4995629",
+      "time": "2026-07-19 00:41:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖敦促民眾與官員團結一致。"
+    },
+    {
+      "id": "4995628",
+      "time": "2026-07-19 00:41:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大安大略省省長表示，美國對加拿大滅火工作的批評是不可接受的。"
+    },
     {
       "id": "4995627",
       "time": "2026-07-19 00:39:30",
@@ -175988,14 +176020,6 @@
         "MKT News"
       ],
       "text": "【Qatar, Jordan discuss regional tensions, urge de-escalation】Qatari prime minister and foreign minister held a phone call with Jordan's deputy prime minister and foreign minister to discuss the current US‑Iran escalation, Qatar's foreign ministry said. Both stressed diplomacy and de‑escalation; Qatar called for implementation of the US‑Iran memorandum of understanding and maintenance of freedom of navigation in the Strait of Hormuz."
-    },
-    {
-      "id": "4982317",
-      "time": "2026-07-12 00:41:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "OpenAI CEO奧特曼：大量基準測試資料都表明5.6 Sol是目前全球效能最強的模型，但最有力的佐證是，埃隆（馬斯克）又一門心思盯著我了。"
     }
   ]
 }
