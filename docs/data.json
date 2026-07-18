@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-19 02:09:31",
+  "updated": "2026-07-19 02:13:26",
   "count": 19103,
   "items": [
+    {
+      "id": "4995655",
+      "time": "2026-07-19 02:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：民眾應充分信任政府三大部門恪盡職守的官員，他們為人民福祉與國家繁榮付出的努力有目共睹；與此同時，民眾也將保持警醒、積極行動，全力捍衛伊朗的各項利益。"
+    },
+    {
+      "id": "mkt:019f766d-c3e3-7aab-8df2-8c3c149f35a2",
+      "time": "2026-07-19 02:12:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's Channel 13 reported the U.S. is preparing to deploy about 100 aerial-refueling tankers to the Middle East to extend its operational range against Iran. Israel's defense establishment is preparing for a possible major escalation in the region."
+    },
+    {
+      "id": "4995654",
+      "time": "2026-07-19 02:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員：美國正準備擴大針對伊朗的打擊行動範圍，計劃向該地區部署約100架空中加油機。"
+    },
     {
       "id": "4995653",
       "time": "2026-07-19 02:08:33",
@@ -176170,36 +176199,6 @@
         "Impact bearish"
       ],
       "text": "The U.S. ambassador to Israel said Israel has notified Washington of an Iranian plot to assassinate the U.S. president. He said Iran's threats are not new, its behavior has not changed, and there is no evidence of a genuine moderate faction in Iran."
-    },
-    {
-      "id": "mkt:019f5260-aeb4-7aab-8d3f-4d37607f98e7",
-      "time": "2026-07-12 02:11:35",
-      "tags": [
-        "MKT News",
-        "EWY",
-        "Impact bearish",
-        "MU",
-        "Impact bullish",
-        "005930.KS",
-        "Impact mixed"
-      ],
-      "text": "【Roundhill Memory ETF gathers $22bn in three months; AUM tops iShares MSCI Korea (EWY)】Roundhill Memory ETF (DRAM) has reached about $25bn AUM since launching on April 2, attracting a record $22bn of net inflows in roughly three months and surpassing the 26‑year‑old iShares MSCI Korea ETF (EWY). Over the same period EWY logged roughly $2bn of net outflows; earlier in 2026 EWY had drawn about $6bn of inflows. DRAM allocates more than 90% of its weight to memory names — Samsung Electronics, Micron Technology, SK Hynix, SanDisk, Seagate Technology, Western Digital and Kioxia — and its holdings overlap with EWY by roughly 46%."
-    },
-    {
-      "id": "4982334",
-      "time": "2026-07-12 02:11:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐以色列大使：真主黨是黎巴嫩與以色列共同的敵人。"
-    },
-    {
-      "id": "4982333",
-      "time": "2026-07-12 02:10:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐以色列大使：我們沒有看到伊朗存在溫和派的真正證據。"
     }
   ]
 }

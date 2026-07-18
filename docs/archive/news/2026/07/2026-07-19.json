@@ -1,7 +1,36 @@
 {
   "date": "2026-07-19",
-  "count": 80,
+  "count": 83,
   "items": [
+    {
+      "id": "4995655",
+      "time": "2026-07-19 02:12:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：民眾應充分信任政府三大部門恪盡職守的官員，他們為人民福祉與國家繁榮付出的努力有目共睹；與此同時，民眾也將保持警醒、積極行動，全力捍衛伊朗的各項利益。"
+    },
+    {
+      "id": "mkt:019f766d-c3e3-7aab-8df2-8c3c149f35a2",
+      "time": "2026-07-19 02:12:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Israel's Channel 13 reported the U.S. is preparing to deploy about 100 aerial-refueling tankers to the Middle East to extend its operational range against Iran. Israel's defense establishment is preparing for a possible major escalation in the region."
+    },
+    {
+      "id": "4995654",
+      "time": "2026-07-19 02:10:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員：美國正準備擴大針對伊朗的打擊行動範圍，計劃向該地區部署約100架空中加油機。"
+    },
     {
       "id": "4995653",
       "time": "2026-07-19 02:08:33",
