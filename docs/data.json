@@ -1,7 +1,81 @@
 {
-  "updated": "2026-07-19 00:26:47",
-  "count": 19069,
+  "updated": "2026-07-19 00:33:02",
+  "count": 19071,
   "items": [
+    {
+      "id": "mkt:019f7612-4bed-7aab-8df1-e3827c5e8cac",
+      "time": "2026-07-19 00:32:18",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran Supreme Leader Mujtaba Khamenei said the United States has repeatedly violated agreements, proving how worthless and untrustworthy a U.S. president's signature is, and that coercion, hegemonism and brutal conduct are inseparable elements of U.S. policy and practice."
+    },
+    {
+      "id": "4995618",
+      "time": "2026-07-19 00:31:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴釋出書面宣告。"
+    },
+    {
+      "id": "mkt:019f7611-2767-7aab-8df1-df72f790f885",
+      "time": "2026-07-19 00:31:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "An adviser to Ukraine's interior minister said Ukrainian strikes have reduced Russia's oil refining capacity."
+    },
+    {
+      "id": "mkt:019f7610-e3cf-7aab-8df1-d58653820401",
+      "time": "2026-07-19 00:30:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Advisor to Ukraine's interior minister says Russian President Putin's approval rating has fallen significantly."
+    },
+    {
+      "id": "mkt:019f7610-526e-7aab-8df1-cd360336131d",
+      "time": "2026-07-19 00:30:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Palantir",
+        "PLTR.N",
+        "Impact bearish"
+      ],
+      "text": "【France and Germany to study European military software to reduce reliance on Palantir】France and Germany said they will study and develop Europe-controlled military software as an alternative to US firm Palantir Technologies Inc (PLTR.N). France’s domestic intelligence service announced in June it would terminate its Palantir contract, and Germany’s intelligence service has selected the French alternative ChapsVision. In a joint statement after talks between Macron and German chancellor Merz, the two governments said they will pursue European sovereign digital infrastructure and assess joint capabilities in data-centric security, artificial intelligence and cloud solutions, citing France’s Arcadia project and a similar German solution."
+    },
+    {
+      "id": "mkt:019f760e-b68a-7aab-8df1-c4a3eb369d14",
+      "time": "2026-07-19 00:28:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to a statement, Hungary's president has signed a constitutional amendment that ends his tenure as head of state."
+    },
+    {
+      "id": "4995617",
+      "time": "2026-07-19 00:27:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總統舒尤克簽署憲法修正案，結束其國家元首任期。"
+    },
+    {
+      "id": "mkt:019f760c-e982-7aab-8df1-bba1817722d1",
+      "time": "2026-07-19 00:26:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran's Hormozgan province warns residents to avoid non-essential travel】Iran's Hormozgan provincial government warned residents to avoid non-essential travel on provincial roads and main transport arteries until further notice, citing the possibility of renewed enemy attacks. It urged travel only when necessary and asked people to avoid intercity roads and areas judged to be at risk."
+    },
     {
       "id": "4995616",
       "time": "2026-07-19 00:23:08",
@@ -175823,54 +175897,6 @@
         "其他"
       ],
       "text": "【“巴威”已登陸！專家提醒：登陸≠危險解除 這些區域有大暴雨】\n7月11日23時20分前後，今年第9號颱風“巴威”以颱風級在浙江省玉環市坎門街道沿海登陸，成為今年以來登陸我國的最強颱風。登陸後,“巴威”將繼續給福建、浙江等地製造強風雨，隨後深入內陸，由於其“體型”龐大，強降雨將波及江西、安徽、湖北、河南、京津冀等十餘省區市。\n\n登陸並不等於危險解除，專家分析稱，“巴威”體型龐大、強度強，其帶來的影響持續時間長、範圍廣，11日至12日其主體和遠距離水汽輸送將給我國華東及華北、東北帶來強降雨，東南沿海有持續大風。13日至15日“巴威”的低壓以及殘渦還會陸續影響到江漢、黃淮、華北、東北等地。\n\n11日夜間到12日，浙江東部和中南部、福建北部、江西東北部、北京、天津北部、河北中北部、遼寧西部、吉林北部、四川盆地西部、臺灣島等地部分地區有大暴雨，局地特大暴雨，其中北京東北部和南部、河北中部和東北部、天津北部局地有250~300毫米，浙江東部和南部、安徽南部、臺灣島局地有250~450毫米。\n\n\n之後，“巴威”還將深入內陸，12日至13日給江西、安徽、江蘇等地帶來強降雨，部分地區有大暴雨或特大暴雨。13日之後“巴威”殘餘環流還會繼續北上，13日至14日黃淮、華北將有明顯降雨，14日至15日東北等地也可能出現強降雨。（央視新聞）"
-    },
-    {
-      "id": "4982315",
-      "time": "2026-07-12 00:31:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國參與一項伊敘管道專案籌備計劃，該管線旨在繞開霍爾木茲海峽。"
-    },
-    {
-      "id": "4982314",
-      "time": "2026-07-12 00:30:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我剛在沃爾特里德醫療中心完成一次完美體檢，我每半年都會做一次體檢。這次我主動要求再加做一套認知能力測試，我是唯一先後三次主動接受該項測試的總統，而且三次測試全部拿滿分，所有題目全部答對。華盛頓沒幾個人能做到這點。"
-    },
-    {
-      "id": "4982313",
-      "time": "2026-07-12 00:30:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：瑪吉·哈格曼十年來對我的報道全是歪曲抹黑。她寫的書簡直荒唐可笑，九成內容都是假新聞。她靠失真報道謀生，而等我們針對日漸衰敗的《紐約時報》發起的數十億美元訴訟開庭後，她必將付出代價，這場庭審不會讓大家等太久。我不介意負面報道，前提是內容屬實。但我絕不能容忍虛假報道，就像她這本乏味的書裡寫的內容，還有她過去十一年一貫的操作——她從頭到尾只有一個目的，就是讓我輸掉大選。可如今我穩坐橢圓辦公室，反觀她的算計，根本沒能得逞。瑪吉就是個失敗者！如果她肯如實寫下我的真實經歷，那故事其實平淡無奇，字裡行間卻全是我的累累功績。"
-    },
-    {
-      "id": "4982312",
-      "time": "2026-07-12 00:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "克里姆林宮發言人明確否認莫斯科有意發動第三次世界大戰，同時警告，西方大規模向烏克蘭提供軍事援助加劇了這場危機。"
-    },
-    {
-      "id": "mkt:019f5201-54b5-7aab-8d3f-1672e98225b0",
-      "time": "2026-07-12 00:27:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he completed a perfect physical at Walter Reed Hospital, undergoes a physical every six months, requested an additional cognitive test—he said he is the only president to do so—and passed three cognitive tests, answering every question correctly."
-    },
-    {
-      "id": "4982311",
-      "time": "2026-07-12 00:26:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "一位伊朗高階情報人士表示，美國正在對伊朗發動一場協調的壓力、威脅和媒體虛假資訊運動。"
     }
   ]
 }
