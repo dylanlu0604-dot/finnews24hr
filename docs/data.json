@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-18 15:32:19",
-  "count": 19031,
+  "updated": "2026-07-18 15:36:18",
+  "count": 19029,
   "items": [
+    {
+      "id": "4995393",
+      "time": "2026-07-18 15:32:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【受暴雨影響 國鐵成都局重慶車站臨時停運南向列車12趟】7月18日，國鐵成都局重慶車站共計停運列車12趟，以保障列車執行和旅客出行安全。國鐵成都局重慶車站對途經渝懷鐵路等線路的列車進行臨時停運，主要為重慶開往廣州白雲、深圳東、東莞東、寧波、廈門北、惠州、福州、遵義等方向列車12趟。其中，重慶北站7趟、重慶西站2趟，重慶東站3趟。"
+    },
+    {
+      "id": "4995392",
+      "time": "2026-07-18 15:32:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗確定國家利益委員會穆扎法爾表示，伊朗之所以攻擊霍爾木茲海峽阿曼段的船隻，是因為敵人正透過阿曼水域運輸軍事裝備，威脅伊朗的國家安全。"
+    },
     {
       "id": "mkt:019f7421-53e6-7aab-8dee-5b94d5a9f46d",
       "time": "2026-07-18 15:29:28",
@@ -175428,38 +175444,6 @@
         "Brent"
       ],
       "text": "Russian authorities in Rostov said fires at two oil storage depots in the region have been extinguished."
-    },
-    {
-      "id": "mkt:019f501a-2a63-7aab-8d3c-4a9d13636e5d",
-      "time": "2026-07-11 15:35:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RIA reported Ukrainian forces launched 41 attacks on Russia's Belgorod region in one day; 47 drones were intercepted."
-    },
-    {
-      "id": "mkt:019f5019-7dff-7aab-8d3c-43e170822869",
-      "time": "2026-07-11 15:34:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Liaoning raises flood emergency response to Level III】Liaoning flood control and drought relief command has issued a yellow alert for all cities and the Shenyang‑Fushun demonstration zone and raised the flood emergency response from Level IV to Level III, effective 13:00 on July 11, citing the latest meteorological forecast and current rainfall/hydrological conditions."
-    },
-    {
-      "id": "mkt:019f5019-0a51-7aab-8d3c-3dd8fd893e84",
-      "time": "2026-07-11 15:34:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Explosions in eastern Tehran province due to disposal of unexploded ordnance】Explosions were heard in eastern Tehran province on the 11th. Iranian military sources confirmed the blasts resulted from a planned disposal of wartime unexploded bombs and ammunition in areas including Pakdasht. State media said the operation was conducted under relevant agencies’ supervision and did not pose a threat to public safety."
-    },
-    {
-      "id": "4982139",
-      "time": "2026-07-11 15:33:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國工商銀行行長劉珺會見香港金融管理局副總裁阮國恆】7月10日，中國工商銀行行長劉珺會見香港金融管理局副總裁阮國恆，雙方就服務香港國際金融中心建設、推動人民幣離岸市場發展、支援香港產業發展、加快金融科技創新及應用等話題進行交流。"
     }
   ]
 }
