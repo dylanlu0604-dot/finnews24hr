@@ -1,7 +1,19 @@
 {
   "date": "2026-07-19",
-  "count": 71,
+  "count": 72,
   "items": [
+    {
+      "id": "mkt:019f764d-742b-7aab-8df2-69131bc53b24",
+      "time": "2026-07-19 01:36:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Trump administration preparing grants to back MAGA-aligned projects in Europe; $2m proposed to counter EU digital rules】FT reports the Trump administration is preparing a package of grants for Europe and other regions to support initiatives aligned with MAGA, as part of a major reprioritization of U.S. foreign-aid priorities. A copy of a State Department notice to lawmakers shows proposed funding includes $2m for \"countering censorship,\" aimed at addressing impacts from EU rules such as the Digital Services Act and Digital Markets Act; other listed projects resemble traditional U.S. aid programs."
+    },
     {
       "id": "mkt:019f7648-e7d4-7aab-8df2-6004d73965da",
       "time": "2026-07-19 01:31:57",
