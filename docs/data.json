@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-18 14:39:44",
-  "count": 19022,
+  "updated": "2026-07-18 14:43:42",
+  "count": 19025,
   "items": [
+    {
+      "id": "mkt:019f73f6-3a02-7aab-8dee-279ab761b78a",
+      "time": "2026-07-18 14:42:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Guangzhou issues yellow warning for thunderstorms and strong winds in multiple districts】Guangzhou meteorological authorities said on July 18 a southward-moving convective band will bring moderate-to-heavy thunderstorms with lightning and gusts of force 7–8. From 13:43 on July 18 a yellow thunderstorm-and-strong-wind warning took effect for Yuexiu and Tianhe districts. Yellow thunderstorm-and-strong-wind warnings are currently active for Yuexiu, Haizhu, Liwan, Tianhe, Huangpu, Baiyun, Huadu and Panyu; Baiyun also has a yellow heavy-rain warning."
+    },
+    {
+      "id": "4995369",
+      "time": "2026-07-18 14:42:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "由Skyroot公司製造的印度首枚私營部門火箭升空。"
+    },
+    {
+      "id": "mkt:019f73f5-ef33-7aab-8dee-1ddb68441ba3",
+      "time": "2026-07-18 14:42:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Fars news agency says Shiraz-Dubai flights resumed after a five-month suspension."
+    },
+    {
+      "id": "4995368",
+      "time": "2026-07-18 14:41:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社援引一名官員的話稱，設拉子至迪拜的航班在中斷五個月後恢復運營。"
+    },
+    {
+      "id": "4995367",
+      "time": "2026-07-18 14:40:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【阿里雲釋出靈駿真武M890超節點例項】在2026世界人工智慧大會（WAIC）上，阿里雲正式釋出靈駿真武M890超節點例項，以超節點形態，提供高速互聯、開箱即用的64卡算力單元。這是阿里雲首次透過公共雲對外提供超節點形態的AI算力服務。靈駿真武M890超節點例項支援FP8/FP4低精度計算，透過ICNSwitch1.0晶片Scale-up互聯規模由16卡拉昇至64卡，卡間互聯提升至800GB/s。一臺超節點例項可承載十萬億引數級MoE大模型的推理。日前，靈駿超節點例項現已於烏蘭察布地域開放邀測"
+    },
     {
       "id": "4995366",
       "time": "2026-07-18 14:32:53",
@@ -175371,22 +175412,6 @@
         "其他"
       ],
       "text": "【水利部針對黑龍江省啟動洪水防禦Ⅳ級應急響應】據預報，受颱風“巴威”外圍水汽和冷空氣共同影響，7月11日—15日，黑龍江中部東部部分地區將有大到暴雨，松花江、嫩江、雅魯河、拉林河、螞蟻河、牡丹江、湯旺河等河流將出現明顯漲水過程，其中拉林河可能發生編號洪水，暴雨區內部分中小河流可能發生較大洪水，山丘區山洪災害風險大。依據《水利部水旱災害防禦應急響應工作規程》，水利部於7月11日12時針對黑龍江省啟動洪水防禦Ⅳ級應急響應。（央視新聞）"
-    },
-    {
-      "id": "4982121",
-      "time": "2026-07-11 14:43:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：美政府不滿情緒加劇，FBI局長被臨時召往白宮】據美國MS Now新聞頻道、Mediaite新聞網等媒體報道，美國聯邦調查局局長卡什·帕特爾當地時間10日臨時被召往白宮，原定於週末赴芝加哥觀看女友演出的行程因此取消。有訊息稱，由於帕特爾近期種種表現，特朗普政府高階官員對其不滿情緒正在升溫。（環球網）"
-    },
-    {
-      "id": "4982120",
-      "time": "2026-07-11 14:42:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海外高橋口岸：近50艘國際航船因颱風航行受阻】11日8時，隨著最後一艘國際航行船舶安地卡及巴布達籍“金星卡蘭德拉”輪駛離港口，上海外高橋口岸泊位都已清空，完成停工封港。據外高橋邊檢站指揮中心方面介紹，近兩日，外高橋口岸近50艘計劃靠泊的國際航行船舶變更或取消了航行計劃，在靠船舶也紛紛加快裝卸作業程序，選擇提前離港、離境或前往錨地避風。（中新網）"
     }
   ]
 }
