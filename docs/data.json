@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-19 04:12:58",
+  "updated": "2026-07-19 04:16:50",
   "count": 19126,
   "items": [
+    {
+      "id": "4995683",
+      "time": "2026-07-19 04:15:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美沙擬籤核合作協議，允許沙特鈾濃縮】特朗普政府已與沙烏地阿拉伯擬定一份核合作協議，該協議允許沙特為其民用核計劃開展鈾濃縮活動。這份協議文字已擬定完畢，但尚未經特朗普簽署，也未提交至美國國會。該提案頗具爭議，因為協議不要求沙特接受國際原子能機構最嚴格的核查機制（即附加議定書），取而代之的是一份美沙單獨達成的保障監督協定。批評人士警告稱，此舉或將讓沙特未來更易具備研發核武器的能力。"
+    },
+    {
+      "id": "mkt:019f76dc-1832-7aab-8df3-3137482828b0",
+      "time": "2026-07-19 04:12:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to the Wall Street Journal, U.S. officials familiar with the attacks said Iran has adapted to U.S. defenses; the missiles fired are very high-speed and can maneuver in flight to alter their trajectories en route to targets."
+    },
     {
       "id": "4995682",
       "time": "2026-07-19 04:06:10",
@@ -176407,26 +176427,6 @@
         "國際"
       ],
       "text": "【美官員稱美國團隊未前往阿曼參加與伊朗的談判】一名美國官員表示，美國談判人員並未前往阿曼參加與伊朗的談判。該官員稱，美國技術團隊不會在阿曼現場出席，但將隨著事態發展，與阿曼和卡達方面保持聯絡。據美方訊息，一名美國高階官員曾於7月10日表示，談判將在阿曼恢復，但未說明美方團隊是否會親自到場。另一名美國官員稱，美方原本預計伊朗會在會談後公開表示將停止襲擊霍爾木茲海峽船隻，但根據伊朗方面訊息，伊朗並未作出此類承諾。伊朗方面訊息表示，阿曼和伊朗官員討論了“船隻安全通行機制”，並強調阿曼主張“透過外交防止地區緊張局勢升級”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f52d2-8f11-7aab-8d3f-9300509ed17e",
-      "time": "2026-07-12 04:15:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【US official says US team did not travel to Oman for talks with Iran】A US official said US negotiators did not travel to Oman for talks with Iran and that a US technical team will not be present on-site; Washington will remain in contact with Oman and Qatar as events evolve. A US official said Washington had expected Iran to publicly commit to stop attacks on vessels in the Strait of Hormuz after the talks, but Iranian sources reported no such commitment. Iranian sources said Oman and Iran discussed a \"mechanism for safe passage of vessels\" and that Oman urged preventing regional escalation through diplomacy."
-    },
-    {
-      "id": "4982351",
-      "time": "2026-07-12 04:13:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "凱文·沃什即將以美聯儲主席身份首次出席國會聽證會，在為期兩天的質詢中，他將與眾議員探討最新的美國通脹資料。"
     }
   ]
 }
