@@ -1,7 +1,193 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-19 03:18:20_
-_本檔包含 4005 則快訊，約 722948 字_
+_更新時間：2026-07-19 04:24:37_
+_本檔包含 3995 則快訊，約 723539 字_
+
+---
+
+### 2026-07-15 23:16:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair KEVIN WARSH said the labor market has undergone many structural changes.
+
+---
+
+### 2026-07-15 23:16:35  #國際
+
+據伊朗媒體15日報道，伊朗南部亨加姆島遭美軍炮彈擊中。（新華社）
+
+---
+
+### 2026-07-15 23:16:13  #央行 #國際
+
+美聯儲主席沃什： 通脹這一政策目標方面的情況則不容樂觀。
+
+---
+
+### 2026-07-15 23:16:07  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell $20 intraday and is now quoted at $4,044/oz.
+
+---
+
+### 2026-07-15 23:16:03  #央行 #美聯儲
+
+美聯儲主席沃什表示，美國勞動力市場看起來總體上處於平衡狀態。
+
+---
+
+### 2026-07-15 23:15:57  #央行 #國際
+
+美聯儲主席沃什：總體而言，政策目標中就業市場相關指標表現相當向好。
+
+---
+
+### 2026-07-15 23:15:43  #央行 #國際
+
+美聯儲主席沃什：勞動力市場看起來總體上處於平衡狀態， 我的觀點是，經濟增速不存在上限。
+
+---
+
+### 2026-07-15 23:15:39  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Pound Rises on Fiscal Optimism and BoE Rate Hike Bets — The pound climbed to $1.348, its highest level since late May, and reached its strongest level against the euro in more than a year, driven by expectations that Andy Burnham, widely expected to be confirmed as the UK's next prime minister on Monday, will appoint a fiscally conservative finance minister. With Burnham's confirmation largely anticipated, investor attention has shifted to his choice for the Treasury, particularly given the UK's fragile public finances. Reports suggesting that Home Secretary Shabana Mahmood is the leading candidate to head the finance ministry helped reassure markets, easing concerns that Burnham could instead appoint Ed Miliband, who is viewed as favoring a more expansionary fiscal stance. Meanwhile, rising Middle East tensions have lifted oil prices to one-month highs, reinforcing expectations of further Bank of England rate hikes. Markets now fully price in a November increase, with another expected by March 2027.
+
+---
+
+### 2026-07-15 23:15:36  #MKT News #Macro & Rates #US Economy
+
+KEVIN WARSH: U.S. labor market appears broadly in balance.
+
+---
+
+### 2026-07-15 23:15:13  #MKT News #Important #Commodities #Industrial Metals #Precious Metals #Copper #Impact bearish
+
+SHFE tin main contract fell more than 2.0% intraday to 408,430 yuan/ton. SHFE silver main contract was down 2.0% intraday at 14,102 yuan/kg.
+
+---
+
+### 2026-07-15 23:15:12  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #US10Y #Impact bearish #DXY
+
+Kevin Warsh, Federal Reserve chairman, said he believes there is no ceiling to the pace of economic growth.
+
+---
+
+### 2026-07-15 23:15:06  #央行 #國際
+
+美聯儲主席沃什： 我給各專項工作組六個月時間完成報告。
+
+---
+
+### 2026-07-15 23:15:05  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Cisco Systems Stock Price Hits 9-week Low — Cisco Systems shares decreased to 111.29 USD, the lowest since May 2026. Over the past 4 weeks, Cisco Systems lost 6.85%, and in the last 12 months, it increased 65.33%.
+
+---
+
+### 2026-07-15 23:14:49  #央行 #國際
+
+加拿大央行行長麥克勒姆： 美國經濟表現強勁，該國對加拿大出口商品存在需求。
+
+---
+
+### 2026-07-15 23:14:47  #市場
+
+紐約期銀日內跌2%，現報57.92美元/盎司。
+
+---
+
+### 2026-07-15 23:14:35  #Trading Economics #Economy #Nigeria #Inflation Rate #Importance 0
+
+Nigeria Inflation Rate Almost Steady in June — The annual inflation rate in Nigeria was little changed at 15.91% in June 2026, compared to May's 15.93%, helped by the relative stability of the naira, despite strong inflationary pressures linked to the Middle East conflict. Food inflation, the largest component of the inflation basket, quickened for the fifth month to 17.52% from 16.96% in May. Meanwhile, the core inflation rate, which strips out the volatile prices of agricultural produce and energy, eased to 15.92% from a four-month high of 16.82% in May. On a monthly basis, the CPI rose by 1.66% in June, the least in five months, after a 1.75% advance in May.
+
+---
+
+### 2026-07-15 23:14:31  #市場 #焦點
+
+紐約期銀失守58美元/盎司，日內跌1.87%。
+
+---
+
+### 2026-07-15 23:14:08  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he is not satisfied with any inf metric.
+
+---
+
+### 2026-07-15 23:13:21  #央行 #焦點 #國際
+
+美聯儲主席沃什： 現行各類通脹衡量指標均無法令我滿意。
+
+---
+
+### 2026-07-15 23:13:02  #央行 #國際
+
+美聯儲主席沃什： 特別工作組的審議過程將對外公開。
+
+---
+
+### 2026-07-15 23:12:54  #MKT News
+
+Federal Reserve Chairman Kevin Warsh said he expects a task-force briefing in early September.
+
+---
+
+### 2026-07-15 23:12:43  #央行 #國際
+
+美聯儲主席沃什： 預計最早 9 月就能收到特別工作組的簡報。
+
+---
+
+### 2026-07-15 23:12:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+According to Iran's Mehr news agency, U.S. shells struck a location on Iran's Hengam Island.
+
+---
+
+### 2026-07-15 23:12:15  #國際
+
+邁赫爾通訊社訊息：伊朗稱美軍襲擊了霍爾木茲海峽附近的亨格姆島。
+
+---
+
+### 2026-07-15 23:11:52  #央行 #國際
+
+美聯儲主席沃什： 我們將審視資產負債表與利率兩類政策工具，研判是否需要調整以應對通脹問題。通脹不會是永久性的。
+
+---
+
+### 2026-07-15 23:11:44  #MKT News
+
+Market sources: Morocco signs agreement to join an international stabilization force for Gaza.
+
+---
+
+### 2026-07-15 23:11:35  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Kevin Warsh said the Fed will review its policy tools, including the balance sheet and interest rates, to assess whether adjustments are needed to address inf.
+
+---
+
+### 2026-07-15 23:11:34  #國際
+
+摩洛哥簽署協議，將加入加沙國際穩定部隊。
+
+---
+
+### 2026-07-15 23:11:24  #MKT News #Macro & Rates #The Fed (FOMC)
+
+【Kevin Warsh declines to discuss talks with Trump】Asked whether he had spoken with President Trump, Fed chair Kevin Warsh said "no comment" and declined to disclose details. He said Trump has not tried to influence the Fed’s policy execution and that, if the president attempted to influence policy, he would remain unfazed and focus on his duties. Warsh added that calls from the president or the banking committee chair would not make him uncomfortable and that the president has never asked him to do anything improper — and he would refuse if asked.
+
+---
+
+### 2026-07-15 23:11:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+Fed chair Kevin Warsh said inflation will not be permanent.
+
+---
+
+### 2026-07-15 23:11:09  #國際
+
+【法國授權烏克蘭本土生產法制導彈】法國總統馬克龍本週（7月13日）宣佈，法國將向烏克蘭授予生產許可，允許烏克蘭在本國境內製造歐洲自主研發的巡航導彈、防空攔截彈等武器。（ CCTV國際時訊）
 
 ---
 
@@ -23891,251 +24077,5 @@ U.S. ambassador to the United Nations said an Iranian plane transported military
 ### 2026-07-14 22:12:47  #其他
 
 據訊息人士透露，義大利法官駁回了電信塔運營商Inwit請求暫停Fastweb退出租賃合同的申請。
-
----
-
-### 2026-07-14 22:10:57  #MKT News
-
-Market news: U.S. Supreme Court Justices Elena Kagan and Amy C. Barrett testified before a House committee on the court's budget request.
-
----
-
-### 2026-07-14 22:10:45  #國際
-
-美國最高法院大法官卡根和巴雷特出席眾議院委員會，就法院預算請求作證詞陳述。
-
----
-
-### 2026-07-14 22:09:29  #Trading Economics #Markets #United States #stocks #Importance 1
-
-American Express Stock Price Hits 21-week High — American Express shares increased to 359.67 USD, the highest since February 2026. Over the past 4 weeks, American Express gained 7.17%, and in the last 12 months, it increased 15.7%.
-
----
-
-### 2026-07-14 22:09:20  #公司 #市場 #觀點
-
-高盛釋出財報後，摩根士丹利股價攀升至盤中高點4.7%。
-
----
-
-### 2026-07-14 22:08:47  #公司
-
-英格蘭銀行：自保保險制度提案擬設定4-6周審批時限，將自保公司排除在英國償付能力監管及消費者責任規則之外。
-
----
-
-### 2026-07-14 22:08:34  #Trading Economics #Economy #Spain #Consumer Confidence #Importance 0
-
-Spain’s Consumer Confidence Highest Since Pre-War February — Spain’s consumer confidence climbed to 81.2 in June 2026, up from 77.7 in the previous two months, marking the strongest reading since February, before the Iran war began. Households’ assessment of the current economic situation surged by 5.3 points to 77.4, while future expectations improved by 1.7 points to 85.1.
-
----
-
-### 2026-07-14 22:08:24  #公司 #市場
-
-Delivery Hero股價上漲，最新漲幅達6.5%，此前有媒體報道稱，優步(Uber)正與該公司進行深入收購談判。
-
----
-
-### 2026-07-14 22:08:16  #公司 #市場
-
-【長鑫科技發行價8.66元/股，朱一明身家超300億元】7月14日，長鑫科技公佈公司科創板IPO發行價為8.66元/股。根據長鑫科技創始人、董事長朱一明持有股份1592430946股計算，他持有股份對應的長鑫科技市值為137.9億元。此外根據朱一明持有兆易創新5.13%股份及兆易創新7月14日收盤市值4103億元計算，他持有長鑫科技及兆易創新市值共計348億元。（第一財經）
-
----
-
-### 2026-07-14 22:07:28  #公司
-
-【剛剛，長鑫科技IPO定價出爐！詳解合理性】7月14日，長鑫科技披露IPO上市發行安排及初步詢價公告，透過網下詢價方式確定公司發行價為8.66元/股。結合公司上市後的總股本來推算，長鑫科技的上市估值為5791.78億元。對於這一發行定價，不少投資者難免疑惑。說好的市值衝擊萬億，詢價結果是不是低於預期？市場專家告訴上證報記者，長鑫的發行定價，是充分考慮了企業當下的實際情況，公司估值要隨著企業的成長逐步提升；這才是真正的“長期主義”。（上海證券報微信公眾號）
-
----
-
-### 2026-07-14 22:07:15  #公司 #國際
-
-美國銀行執行長：對我們承銷信貸的方式感到非常滿意。
-
----
-
-### 2026-07-14 22:07:03  #公司 #觀點
-
-【獲證監會受理！中金公司“三合一”重組迎來新進展】中金公司“三合一”重組又迎來新進展。中金公司7月14日公告稱，公司擬透過向東興證券、信達證券全體A股換股股東發行A股股票的方式，換股吸收合併東興證券、信達證券，中國證監會近日就本次交易涉及的合併、變更主要股東等行政許可申請依法予以受理。（上海證券報微信公眾號）
-
----
-
-### 2026-07-14 22:06:40  #國際
-
-官方資料顯示，截至7月12日，歐盟2026/27年度豆粕進口量為436,421噸，上年同期為708,782噸。
-
----
-
-### 2026-07-14 22:06:01  #國際
-
-歐盟2026/27年度大豆進口量截至7月12日為20.855萬噸，去年同期為53.4565萬噸。
-
----
-
-### 2026-07-14 22:05:55  #Trading Economics #Markets #commodity #Importance 0
-
-Cocoa is down by 5.08% — Cocoa decreased 5.08% to 5545.36 USD/T
-
----
-
-### 2026-07-14 22:05:53  #公司
-
-【威帝股份：簽署重大資產重組補充協議 調整付款安排】威帝股份公告稱，公司擬與重大資產重組轉讓方及智越天成、玖星精密簽訂《關於促成交割先決條件之補充協議》，在《股權轉讓協議》履行中，因有權機關要求，本次交易相關稅費需在交割前一次性繳納，故對部分付款時間安排調整，不會增加付款義務，交易總價不變。本次簽署事項已透過董事會審議，但交易最終完成時間尚不確定。
-
----
-
-### 2026-07-14 22:05:17  #國際
-
-官方資料顯示，截至7月12日，歐盟2026/27年度玉米進口量為590301噸，去年同期進口量為381119噸。
-
----
-
-### 2026-07-14 22:04:50  #央行 #國際
-
-據美國紐約聯儲資料，上個交易日（7月13日）擔保隔夜融資利率（SOFR）報3.60%，之前一天報3.55%。上個交易日有效的聯邦基金利率報3.62%，之前一天報3.62%。
-
----
-
-### 2026-07-14 22:04:45  #國際
-
-官方資料顯示，截至7月12日，歐盟2026/27年度大麥出口量為187,408噸，上年同期出口量為759,472噸。
-
----
-
-### 2026-07-14 22:04:39  #市場
-
-洲際交易所倫敦可可期貨<LCCc2>跌幅超5%，報每噸4127英鎊。
-
----
-
-### 2026-07-14 22:04:17  #MKT News #BAC.N #Impact bullish
-
-Bank of America CEO Moynihan said overall consumer conditions remain broadly healthy.
-
----
-
-### 2026-07-14 22:04:17  #MKT News #Important #DXY #Impact bearish
-
-AUD/USD up over 1% intraday at 0.6986.
-
----
-
-### 2026-07-14 22:04:15  #國際
-
-官方資料顯示，截至7月12日，歐盟2026/27年度軟小麥出口量為21.4904萬噸，去年同期出口量為56.0897萬噸。
-
----
-
-### 2026-07-14 22:03:52  #市場 #觀點
-
-高盛漲幅擴大，盤中最高漲7.4%。
-
----
-
-### 2026-07-14 22:03:10  #其他
-
-提示：沃什出席眾議院小組聽證會作證 。
-
----
-
-### 2026-07-14 22:02:39  #其他
-
-標普將義大利聯合信貸銀行（UNICREDIT SPA）長期信託基金（L-T RTG）的評級上調至“A-”；展望穩定。
-
----
-
-### 2026-07-14 22:02:33  #MKT News #Commodities #Precious Metals
-
-Spot palladium rose above $1,300/oz, up 4.09% intraday.
-
----
-
-### 2026-07-14 22:02:02  #觀點
-
-摩根大通將Carpenter Tech的目標價從470.00美元上調至705.00美元。
-
----
-
-### 2026-07-14 22:01:40  #公司
-
-【川投能源：廣西農光受颱風影響造成一定資產損失】川投能源(600674)7月14日公告，受“美莎克”颱風天氣影響，公司所屬公司廣西玉柴農光電力有限公司（簡稱“廣西農光”）位於廣西貴港市桂平市的光伏電站（裝機規模18.36萬千瓦）受到一定資產損失，未發生人員傷亡。根據現場初步排查情況，電站光伏元件、逆變器、箱變等大部分裝置遭受水害，相關資產前期已購買財產保險，實際損失金額需根據受損裝置排查情況、保險理賠情況進一步確定，最終以公司年度審計結果為準。
-
----
-
-### 2026-07-14 22:01:26  #市場
-
-鈀金期貨日內漲4%，現報1303.00美元/盎司。
-
----
-
-### 2026-07-14 22:00:44  #其他
-
-BRINC完成1.25億美元融資，摩托羅拉領投。
-
----
-
-### 2026-07-14 22:00:26  #央行 #美聯儲
-
-【白宮經濟顧問：我們尊重美聯儲的獨立性】白宮經濟顧問哈塞特表示，我們尊重美聯儲的獨立性。
-
----
-
-### 2026-07-14 22:00:16  #其他
-
-白宮經濟顧問哈塞特被問及20%的貨船收費時說：這是一個想法。
-
----
-
-### 2026-07-14 21:59:41  #其他
-
-百度評級維持買入，美銀證券給出該評級。
-
----
-
-### 2026-07-14 21:59:20  #國際
-
-哈塞特：伊朗緊張局勢對石油運輸的影響小於預期。
-
----
-
-### 2026-07-14 21:58:44  #MKT News
-
-HASSETT, White House National Economic Council director, said when asked about Iraq that Trump may discuss the banking system.
-
----
-
-### 2026-07-14 21:58:32  #MKT News #Macro & Rates #The Fed (FOMC)
-
-White House National Economic Council Director Hassett said the administration respects the Federal Reserve's independence.
-
----
-
-### 2026-07-14 21:58:27  #MKT News #Market Themes #The Trump Trade
-
-White House National Economic Council director HASSETT, commenting on Trump's proposal to impose a 20% fee on shipping, said it was indeed an idea.
-
----
-
-### 2026-07-14 21:58:17  #央行 #國際
-
-哈塞特：我們尊重美聯儲的獨立性。
-
----
-
-### 2026-07-14 21:57:37  #國際
-
-哈塞特被問及伊拉克問題：特朗普可能會討論銀行系統。
-
----
-
-### 2026-07-14 21:57:28  #市場
-
-外賣英雄股價大漲 5.5%，據傳優步正推進收購洽談。
-
----
-
-### 2026-07-14 21:57:03  #其他
-
-【深圳機場口岸今年出入境外國人超百萬人次】據深圳邊檢總站統計，截至7月12日，深圳機場口岸今年出入境外國人超102.2萬人次，同比增長超32.5%，創歷史同期新高，較去年提前71天突破100萬人次大關。（新華社）
 
 ---
