@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-19 05:28:41_
-_本檔包含 3612 則快訊，約 723110 字_
+_更新時間：2026-07-19 06:26:20_
+_本檔包含 3602 則快訊，約 723659 字_
+
+---
+
+### 2026-07-14 00:25:55  #MKT News
+
+The Lebanese presidential palace said President Aoun and Prime Minister Salam discussed upcoming Lebanon–US–Israel trilateral talks in Rome and urged Lebanon’s delegation to insist that Israeli forces immediately withdraw from two pilot areas before discussing any other issues.
+
+---
+
+### 2026-07-14 00:24:51  #國際
+
+黎巴嫩總統府：奧恩總統今晚會見總理。二人結合以色列持續採取的敵對行動，全面商討黎巴嫩全國整體局勢，重點討論南部地區形勢。會談還談及黎、美、以色列將於明日及後天在羅馬舉行新一輪談判；黎方已向本國談判代表團作出指示，要求必須先爭取以色列軍隊從兩處試驗地帶立即撤軍，再開展其他議題磋商。 雙方同時談及奧恩總統即將出訪美國，並將與美國總統唐納德・特朗普舉行會面一事。
+
+---
+
+### 2026-07-14 00:23:10  #MKT News #Market Regions #Europe & UK #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran says southern Strait of Hormuz lane 'unsafe'】Iran's embassy in the UK said on the 13th on social media that the southern navigation lane of the Strait of Hormuz is "unsafe, unreliable and prone to accidents." The embassy, noting Iran's ambassador to the UK also serves as its permanent representative to the IMO, said Iran has set up a temporary maritime security corridor to comply with an Islamabad MoU, that corridor has no technical or military barriers and has been notified to the IMO. It accused the United States of directing ships onto a dangerous southern parallel route whose legality is doubtful and which is unsafe, and said US attacks on Iranian ports and other "acts of military aggression" have made the Strait a highly tense, high-risk area.
+
+---
+
+### 2026-07-14 00:22:33  #國際
+
+【法國楓丹白露森林大火過火面積已接近1000公頃】法國民防部門當地時間13日表示，楓丹白露森林大火過火面積已經接近1000公頃。根據統計資料，楓丹白露森林火災是自2006年以來法國北部地區發生的最嚴重的火災之一。法國總統馬克龍當天表示，楓丹白露森林正遭遇“一場規模異常嚴重”的火災，政府已調動一切可用力量參與救援。法國內政部長努內茲當天稍早前表示，楓丹白露森林大火疑似是人為引發。（央視新聞）
+
+---
+
+### 2026-07-14 00:22:15  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Exxon Mobil Stock Price Hits 4-week High — Exxon Mobil shares increased to 144.00 USD, the highest since June 2026. Over the past 4 weeks, Exxon Mobil lost 1.8%, and in the last 12 months, it increased 24.72%.
+
+---
+
+### 2026-07-14 00:21:34  #MKT News
+
+Hungarian parliament passed legislation enabling the removal of the president.
+
+---
+
+### 2026-07-14 00:20:06  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve Governor WALLER to speak in 10 minutes.
+
+---
+
+### 2026-07-14 00:19:58  #其他
+
+匈牙利議會透過罷免總統相關法案。
+
+---
+
+### 2026-07-14 00:17:42  #MKT News
+
+【IMO: No legal basis for charging transit fees after Trump proposes 20% charge on Strait of Hormuz shipments】Trump said the US would impose a 20% charge on cargo transiting the Strait of Hormuz. An IMO spokesperson said: "We have been made aware of the matter and are awaiting further details. The International Maritime Organization firmly opposes charging fees for straits used for international navigation. There is no legal basis for compulsory strait transit fees."
+
+---
+
+### 2026-07-14 00:17:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Heating Oil Rises to Nearly 6-Week High — Heating oil in the US rose nearly 6% to $3.76 per gallon, the highest since June 3, as concerns over fuel supplies increased. President Donald Trump said the US would reinstate a naval blockade on Iran and impose a 20% reimbursement fee on cargo passing through the Strait of Hormuz, raising fears over disruptions to regional energy flows. Supply concerns were also heightened by disruptions to Russian energy exports, with Ukraine reporting strikes on an oil depot in Stavropol and storage facilities at the port of Kavkaz. Russia said it would suspend diesel exports and become a net importer as repeated Ukrainian attacks and higher crude prices disrupted operations at key refineries. Meanwhile, Kazakhstan’s Caspian Pipeline Consortium reduced shipments by 7% in June due to maintenance at the Tengiz oilfield and lower Russian flows. At the same time, warmer-than-normal weather forecasts through July 28 are also expected to keep power sector fuel demand elevated.
 
 ---
 
@@ -21696,125 +21756,5 @@ SpaceX：星艦第13次飛行測試最早將於7月16日（週四）準備發射
 ### 2026-07-12 06:26:55  #公司
 
 馬斯克再次回嗆OpenAI CEO奧特曼：我們明年就會啟動飛行器試飛。要是你的假釋官點頭同意，你或許可以過來參觀。你先是竊取了一家開源人工智慧公益機構，轉頭又把蘋果手機全套技術剽竊一空！真是厲害。接下來你還打算搞什麼大動作？很難再有操作能超越這兩件事了。
-
----
-
-### 2026-07-12 06:23:48  #國際
-
-美國高階官員：伊朗革命衛隊向透過霍爾木茲海峽的一艘商船發射導彈，該船受到打擊。
-
----
-
-### 2026-07-12 06:21:03  #焦點 #國際
-
-伊朗伊斯蘭革命衛隊海軍表示，如果“敵方”以此事件為藉口採取任何錯誤行動，必將遭到“猛烈回擊”。
-
----
-
-### 2026-07-12 06:19:50  #焦點 #國際
-
-伊朗伊斯蘭革命衛隊海軍表示，任何船隻都不得通行。
-
----
-
-### 2026-07-12 06:19:04  #焦點 #國際
-
-伊朗伊斯蘭革命衛隊海軍表示，此次事件發生後，霍爾木茲海峽將關閉，直至另行通知，且直至美國停止在該地區的干涉活動為止。
-
----
-
-### 2026-07-12 06:17:33  #焦點 #國際
-
-伊朗伊斯蘭革命衛隊海軍表示，一艘試圖在霍爾木茲海峽沿未經批准路線航行的船隻被警告彈“擊中”後停駛。
-
----
-
-### 2026-07-12 06:14:17  #國際
-
-【古巴譴責美國石油封鎖致使古斷電頻發】古巴政府11日譴責美國對古實施的“種族滅絕式”石油封鎖致使古電力故障頻發。古巴國家主席迪亞斯-卡內爾在社交媒體表示，國家電力系統幾天內兩度崩潰，修復工作面臨壓力，但古巴電力工人並未放棄，目前已有部分機組重新執行。他說，在美國“種族滅絕式”石油封鎖之下，修復過程非常複雜。（新華社）
-
----
-
-### 2026-07-12 06:13:15  #國際
-
-【埃及仍有意擴大與以色列的經濟合作】儘管雙邊政治關係陷入停滯，埃及仍有意擴大與以色列的經濟合作。開羅方面希望進一步發展雙邊貿易、接待以色列商務代表團，並爭取美國助力兩國商貿往來；與此同時，埃以之間的能源合作保持緊密態勢。
-
----
-
-### 2026-07-12 06:10:46  #其他
-
-【“巴威”兩次登陸帶來急風暴雨！今晨減弱為強熱帶風暴】今早5點，“巴威”減弱為強熱帶風暴，中心最大風力11級，預計“巴威”將以每小時20—25公里的速度向西北方向移動，強度逐漸減弱。（央視新聞）
-
----
-
-### 2026-07-12 06:05:42  #MKT News
-
-【China issues yellow typhoon warning for Bavi at 06:00 Jul 12】China's Central Meteorological Observatory at 06:00 on July 12 said Typhoon Bavi weakened overnight to a severe tropical storm. At 05:00 its center was over Yiwu, Jinhua, Zhejiang (29.3°N, 120.0°E). Peripheral maximum winds were 11 on the scale (≈30 m/s) and central pressure 970 hPa. Bavi is moving northwest at 20–25 km/h, is expected to continue weakening, turn northeast on July 13 over eastern Anhui, and on July 14 move from the Shandong peninsula into the northern Yellow Sea while gradually transitioning to an extratropical cyclone.
-
----
-
-### 2026-07-12 06:04:09  #國際
-
-兩名美國官員透露，特朗普近期一直在聽取關於烏克蘭新型遠端打擊能力的情報簡報，並且對其打擊效果印象深刻。以上評估是特朗普相較於去年對烏克蘭態度轉向更為積極的核心原因。
-
----
-
-### 2026-07-12 05:59:09  #其他
-
-中央氣象臺7月12日06時釋出颱風黃色預警。
-
----
-
-### 2026-07-12 05:58:54  #其他
-
-中央氣象臺7月12日06時釋出暴雨橙色預警。
-
----
-
-### 2026-07-12 05:58:35  #其他
-
-中央氣象臺7月12日06時釋出暴雨橙色預警。
-
----
-
-### 2026-07-12 05:49:35  #MKT News #DHI.O #Impact bullish #LEN.O #TOL.O
-
-【Bipartisan housing bill becomes law despite Trump refusal to sign】The 21st Century Housing Pathways Act automatically took effect Saturday night despite President Trump declining to sign it. The law seeks to expand housing supply and boost homeownership to ease the U.S. housing shortage, loosening residential construction regulations and curbing Wall Street firms' purchases of single‑family homes to improve affordability.
-
----
-
-### 2026-07-12 05:48:30  #其他
-
-【克羅埃西亞多地突發山火 科爾丘拉島火勢猛烈】當地時間7月11日，克羅埃西亞南部亞得里亞海沿岸多地發生森林火災，其中科爾丘拉島火情最為嚴重。島上部分地區火光沖天、濃煙瀰漫，大片植被受到影響，現場一度出現火勢迅速擴大的跡象。據當地訊息，火線長度已超過3公里且蔓延到附近松林和葡萄園。受火災影響，島上部分道路暫時關閉。克羅埃西亞消防部門迅速調集力量展開撲救，目前已有三架水上消防飛機投入滅火，島上消防人員以及從大陸調派的增援力量參與地面救援。由於島嶼地形複雜，加上海風影響，滅火工作面臨較大挑戰。同時，克羅埃西亞其他地區當天也報告發生火情。希貝尼克-克寧縣等沿海地區出現山火。（央視新聞）
-
----
-
-### 2026-07-12 05:41:33  #MKT News
-
-US Secretary of State Rubio said Cuban leaders must implement broad reforms while there is still time.
-
----
-
-### 2026-07-12 05:39:40  #國際
-
-伊朗革命衛隊週六釋出了最高領袖穆傑塔巴的全新照片，稱其身體狀況“一切良好”；有敵對勢力不斷散播有關其健康狀況的不實猜測。該照片由最高領袖辦公室官網對外發布。
-
----
-
-### 2026-07-12 05:38:48  #國際
-
-【美國代表團與黎巴嫩軍方討論以軍從試點區撤軍】據黎巴嫩軍方訊息人士11日透露，一個美國軍事代表團已抵達黎巴嫩，開始與黎巴嫩軍方舉行會談，討論制定相關機制、以落實以色列軍隊從黎巴嫩南部劃定的所謂“安全區”中的兩個區域逐步撤軍。這名黎巴嫩軍方訊息人士稱，美國代表團與黎巴嫩軍隊領導層會談的主要目的是啟動第一個試點區，以色列軍隊將從該區域撤出，以便黎巴嫩軍隊部署到位。首個試點區域將在幾天內啟動，其餘試點區域也在規劃推進中。據此前訊息，黎巴嫩方面已告知美國，在以方完成約定撤軍前，不會參加即將在義大利羅馬舉行的新一輪黎以談判。
-
----
-
-### 2026-07-12 05:35:03  #國際
-
-美國國務卿魯比奧：古巴領導人需實施廣泛改革，趁現在還來得及。
-
----
-
-### 2026-07-12 05:34:32  #MKT News
-
-US President Trump said he would still win the presidential election in a landslide despite pervasive media smearing and fake news, arguing this shows mainstream media have no credibility.
 
 ---

@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-19 05:28:41_
-_本檔包含 3983 則快訊，約 723730 字_
+_更新時間：2026-07-19 06:26:20_
+_本檔包含 3970 則快訊，約 723289 字_
+
+---
+
+### 2026-07-15 23:25:29  #國際
+
+美國貿易代表格里爾將於 7 月 22 日出席參議院小組聽證會並作證。
+
+---
+
+### 2026-07-15 23:25:00  #市場
+
+【瑞銀：若伯納姆堅守財政規則，英國國債收益率或將下行20個基點】瑞銀策略師表示，英國的政策不確定性為10年期英國國債（gilts）增加了約20個基點的額外風險溢價，而在安迪·伯納姆（Andy Burnham）正式確認成為工黨領袖之前，市場尚未將這部分溢價完全剔除。穆斯塔法·奧古茲·卡伊蘭（Mustafa Oguz Caylan）在週三釋出的一份報告中表示：“如果秋季預算符合當前的財政規則，這將為英國國債提供至少20個基點的反彈空間。”目前，英國10年期國債收益率已小幅下行4個基點，至4.94%。
+
+---
+
+### 2026-07-15 23:25:00  #MKT News
+
+U.S. Trade Representative Greer will testify at a Senate panel hearing on July 22.
+
+---
+
+### 2026-07-15 23:24:16  #市場
+
+WTI原油日內跌1%，現報78.54美元/桶。
+
+---
+
+### 2026-07-15 23:23:45  #MKT News
+
+Kevin Warsh said if policymakers had monitored money supply in 2021 they might have detected early signs of inflation.
+
+---
+
+### 2026-07-15 23:23:38  #央行 #國際
+
+美聯儲主席沃什： 倘若當時關注貨幣供應量，我們或許早在 2021 年就已察覺相關問題。
+
+---
+
+### 2026-07-15 23:23:31  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said monetary aggregates are not perfect but provide a useful cross-check.
+
+---
+
+### 2026-07-15 23:23:28  #央行 #國際
+
+美聯儲主席沃什： 貨幣總量指標並非盡善盡美，但不失為一項有效的交叉驗證工具。
+
+---
+
+### 2026-07-15 23:22:52  #其他
+
+達美航空：殼牌航空將在達美航空樞紐供應混合可持續航空燃料與純可持續航空燃料。
+
+---
+
+### 2026-07-15 23:22:21  #市場
+
+現貨白銀日內跌2%，現報57.47美元/盎司。
+
+---
+
+### 2026-07-15 23:22:04  #其他
+
+達美航空與殼牌簽署為期五年的航空燃料合作協議，計劃到 2030 年擴大可持續航空燃料（SAF）使用規模。
+
+---
+
+### 2026-07-15 23:21:39  #央行 #國際
+
+美聯儲主席沃什： 我並非以貨幣主義者的身份出席本次會議。
+
+---
+
+### 2026-07-15 23:21:28  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said including the M2 indicator in Fed reports was deliberate.
+
+---
+
+### 2026-07-15 23:21:22  #央行 #國際
+
+美聯儲主席沃什： 美聯儲報告新增 M2 貨幣供應量指標是有意為之。
+
+---
+
+### 2026-07-15 23:21:20  #MKT News #Important
+
+【Fed Chair Kevin Warsh: I am not satisfied with any inf indicator】Fed Chair Kevin Warsh told a Senate hearing he is "not satisfied with any inf indicator", saying recent data may not fully reflect underlying inf. He said the labor market looks strong but inf is less encouraging, and the Fed will review its tools — including the balance sheet and rates — to assess whether adjustments are needed to address inf.
+
+---
+
+### 2026-07-15 23:21:12  #MKT News
+
+【Baltic Dry Index retreats as capesize demand weakens】Baltic Dry Index slipped from a one-month high, down 51 pts (-1.71%) to 2,929 as capesize demand eased. Baltic Capesize Index (BCI) fell 157 pts (-3.3%) to 4,594; capesize average daily earnings dropped $1,420 to $38,163. Baltic Panamax Index (BPI) rose 7 pts (0.3%) to 2,258; Panamax daily earnings increased $65 to $20,325. Baltic Supramax Index (BSI) gained 10 pts (0.6%) to 1,720, its highest since Aug 2022. Baltic Handysize Index (BHSI) eased 3 pts to 906.
 
 ---
 
@@ -23831,179 +23927,5 @@ According to Nikkei, under an agreement Mitsubishi Heavy Industries will supply 
 ### 2026-07-14 22:28:28  #央行 #美聯儲
 
 【美聯儲主席沃什：現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。
-
----
-
-### 2026-07-14 22:28:16  #國際
-
-【澤連斯基稱與法國就防空系統及戰機採購等達成合作協議】烏克蘭總統澤連斯基14日表示，烏克蘭與法國達成多項防務合作協議，內容包括導彈許可生產、防空反導系統供應以及採購“陣風”戰鬥機等。（央視新聞）
-
----
-
-### 2026-07-14 22:28:13  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
-
-Nikkei reports NVIDIA is in talks with Japan’s Mitsubishi Heavy Industries on cooling and power solutions for AI data centers.
-
----
-
-### 2026-07-14 22:27:59  #其他
-
-沃什：將重新審視通脹框架，以理解通脹成因及應對之策。
-
----
-
-### 2026-07-14 22:27:56  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said he will reassess the inf framework to better understand its drivers and the measures available to address it.
-
----
-
-### 2026-07-14 22:27:51  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed chair Kevin Warsh said he was pleased his predecessor later abandoned the Fed's 2020 framework.
-
----
-
-### 2026-07-14 22:27:31  #其他
-
-T-Mobile <TMUS.O>：BERNSTEIN將目標價從245美元下調至220美元。
-
----
-
-### 2026-07-14 22:27:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500 #Impact mixed
-
-Fed chair Kevin Warsh said the Fed's 2020 policy framework was a mistake and did not succeed.
-
----
-
-### 2026-07-14 22:27:08  #央行 #國際
-
-沃什：我樂見前任摒棄2020年美聯儲政策框架。
-
----
-
-### 2026-07-14 22:27:08  #央行 #美聯儲
-
-【美聯儲主席沃什表示 現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。
-
----
-
-### 2026-07-14 22:27:00  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve chair Kevin Warsh said he is highly critical of the Fed's 2020 policy framework and that this is no secret.
-
----
-
-### 2026-07-14 22:26:35  #央行 #國際
-
-沃什：我此前對2020年美聯儲政策框架持強烈批評態度，這一點眾所周知。
-
----
-
-### 2026-07-14 22:26:16  #央行 #國際
-
-美聯儲主席沃什：我們希望，通脹升幅更加受限。這並非美聯儲在通脹問題上推卸責任（pass the buck）的時刻。
-
----
-
-### 2026-07-14 22:26:08  #MKT News #LLY.N #Impact bullish
-
-Bernstein raises Eli Lilly (LLY.N) price target to $1,385 from $1,300.
-
----
-
-### 2026-07-14 22:25:57  #其他
-
-沃什：我們有可用工具來實現這一目標。
-
----
-
-### 2026-07-14 22:25:47  #其他
-
-沃什： 將致力於實現價格穩定。
-
----
-
-### 2026-07-14 22:25:40  #MKT News
-
-Fed Chair Kevin Warsh said the Fed has the tools to achieve price stability.
-
----
-
-### 2026-07-14 22:25:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed is committed to price stability and maintains a 2% inf target.
-
----
-
-### 2026-07-14 22:25:27  #MKT News
-
-Fed chair Kevin Warsh said now is not the time for the Fed to shirk responsibility for inf.
-
----
-
-### 2026-07-14 22:25:18  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve chair KEVIN WARSH said inf is a "choice".
-
----
-
-### 2026-07-14 22:25:17  #央行 #國際
-
-沃什：美聯儲正就物價穩定作出承諾，通脹目標維持在2%。
-
----
-
-### 2026-07-14 22:25:03  #其他
-
-沃什： 通脹是一種選擇。
-
----
-
-### 2026-07-14 22:24:50  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish
-
-Federal Reserve Chair Kevin Warsh said he hopes the rise in inf will be more limited.
-
----
-
-### 2026-07-14 22:24:33  #央行 #國際
-
-美聯儲主席沃什：我們希望經濟增長覆蓋更為廣泛。
-
----
-
-### 2026-07-14 22:24:28  #MKT News #Market Themes #AI Revolution
-
-Goldman Sachs CFO says AI may make it unnecessary to replace employees.
-
----
-
-### 2026-07-14 22:24:27  #其他
-
-【武漢市氣象臺釋出高溫橙色預警訊號，電網負荷創歷史新高】7月14日，武漢市氣象臺釋出高溫橙色預警訊號，帶動全社會用電需求走高。當天14時07分，武漢電網用電負荷達1826.54萬千瓦，創下歷史新高。目前，全市電力供應保持平穩有序執行。
-
----
-
-### 2026-07-14 22:24:23  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Fed Chairman Kevin Warsh said he wants economic growth to be more broad-based.
-
----
-
-### 2026-07-14 22:24:00  #國際
-
-鑑於外界對繁瑣行政程式的擔憂，歐盟外商補貼規則或將更側重規模較大的交易。
-
----
-
-### 2026-07-14 22:23:54  #公司 #觀點 #國際
-
-【摩根大通業績報告要點總結】1、摩根大通公佈了有史以來最高的季度利潤，淨利潤達到212億美元。2、股票交易業務大幅超出分析師預期，創下60.3億美元的歷史紀錄——同比增長86%。3、摩根大通還報告了從其長期持有的Visa股份中獲得的淨收益，這使該行的季度利潤增加了46億美元。上個月，該銀行任命特洛伊·羅爾博（Troy Rohrbaugh）和道格·佩特諾（Doug Petno）為消費者銀行業務的聯席總裁後，繼任計劃的問題在本季顯得尤為突出。CEO戴蒙（Dimon）列舉了他在尋找新領導人時所看重的一系列特質，包括“靈魂（soul）”和“紮實的工作態度”。他表示，自己的CEO任期還有“好幾年”。4、戴蒙表示，他希望打造一家“出色的歐洲數字銀行”，並指出了該行在英國和德國消費者業務方面的擴張舉措。
-
----
-
-### 2026-07-14 22:23:40  #公司
-
-【KeyBanc：將蘋果評級降至“減持”，指硬體需求資料持續疲弱】投資銀行KeyBanc Capital Markets將蘋果的評級由“與大盤同步”下調至“減持”，設定目標價為250美元，理由是硬體需求資料持續疲弱，以及對2027年增長預期存有隱憂。
 
 ---

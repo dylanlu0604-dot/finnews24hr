@@ -1,7 +1,43 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-19 05:28:41_
-_本檔包含 4064 則快訊，約 724245 字_
+_更新時間：2026-07-19 06:26:20_
+_本檔包含 4054 則快訊，約 724300 字_
+
+---
+
+### 2026-07-17 08:56:22  #其他
+
+【卡達多哈傳出爆炸聲】當地時間7月17日，卡達首都多哈傳出爆炸聲。卡達內政部發布安全警報，敦促民眾待在室內。目前，爆炸原因尚不清楚。
+
+---
+
+### 2026-07-17 08:54:44  #MKT News #Market Themes #Chip Wars #AI Revolution #TSM.O #Impact bearish #Nikkei 225 #Hang Seng Index
+
+【US semiconductor rout spills into Asia; Asian tech supply chain suffers broad selloff】Overnight US semiconductor and AI‑name valuation collapses spilled into Asian markets, triggering a second wave of heavy selling across Japan and the broader Asian tech supply chain in early July 17 trade. The Philadelphia Semiconductor Index fell 4.3% on July 16, marking a second day of weakness; TSMC reported Q2 net profit +77.4% YoY and raised full‑year capex guidance to $60–64bn from $52–56bn, yet its ADR fell 2.3% as markets question whether expanded AI compute investment will convert to timely cash flow and profit. Bloomberg macro strategists say the sharp US decline forced liquidations and long squeezes in leveraged equity funds, prompting large quant‑driven outflows from beta‑sensitive Japanese tech names including Kioxia, Tokyo Electron, Advantest and SoftBank in the Asian session. Geopolitical tensions and commodity‑driven valuation pressure, combined with renewed concern about higher forward inflation and prolonged high rates, add further downside risk for high‑markup growth tech stocks.
+
+---
+
+### 2026-07-17 08:54:38  #公司 #國際
+
+【斯塔默：英國瑞典將聯合向烏提供新戰機】16日，英國首相斯塔默在訪問烏克蘭基輔時宣佈，英國將聯合瑞典，向烏克蘭提供16架現代化的新戰鬥機。即將卸任英國首相的斯塔默此次是最後一次以首相身份訪問基輔，當天他與烏克蘭總統澤連斯基舉行會談，並共同出席新聞釋出會。斯塔默在釋出會上表示，英國將與瑞典一起，向烏克蘭方面移交16架瑞典“鷹獅”戰鬥機，總價值3億歐元，製造戰鬥機的費用由英國政府撥款。他強調，此次戰機援助旨在強化烏克蘭領空防禦能力，提升烏防空作戰水平，為烏空域安全提供支援。據英國首相府釋出的訊息稱，這批戰機將在2029年前移交給烏方，數十家英國公司將參與戰機的生產。
+
+---
+
+### 2026-07-17 08:52:04  #公司 #觀點
+
+【花旗：8 月是新興市場利差交易表現最差月份】花旗集團表示，從歷史規律來看，8 月是新興市場利差交易表現最差的一個月，市場擁擠的持倉頭寸會令投資者極易受到各類市場衝擊影響。分析師路易斯・科斯塔（ Luis Costa）、多納託・瓜裡諾（ Donato Guarino）等人在研報中寫道：“我們回溯測算的資料持續印證，8 月行情波動劇烈，整體交易環境不利。”這一規律源於 “夏季市場普遍偏好利差交易，導致 8 月持倉規模偏高”，一旦出現突發重磅訊息，就會引發大幅行情震盪。與之相對，7 月從歷史資料看，風險收益配比整體更為可觀。
+
+---
+
+### 2026-07-17 08:50:51  #國際
+
+【剛果（金）發現新物種猴子 橙色嘴唇為顯著特徵】日前，研究人員宣佈在剛果（金）中東部的叢林中，發現一種新的猴子。這種猴子被命名為剛果疣猴，獨特的橙色嘴唇是其最明顯的特徵。研究團隊表示，鑑於這種猴子的分佈範圍和種群數量都很小，加上狩獵壓力增加和棲息地改變帶來的預期影響，建議將該物種初步歸類為世界自然保護聯盟紅色名錄中的“瀕危”等級，並呼籲剛果（金）政府加強對其主要棲息地洛馬米國家公園的保護。（央視）
+
+---
+
+### 2026-07-17 08:50:22  #公司 #觀點
+
+花旗集團稱8月是新興市場套利交易表現最差的月份。
 
 ---
 
@@ -24434,101 +24470,5 @@ Yemen's Sanaa International Airport resumed operations.
 ### 2026-07-15 23:25:40  #Trading Economics #Economy #Colombia #Industrial Production #Importance 1
 
 Colombia Industrial Output Unexpectedly Falls in May — Colombia's industrial production fell 0.4% year-on-year in May 2026, reversing a 2.0% increase in the previous month and defying expectations of a 1.3% expansion. This marks the first decline following four consecutive months with increases, as output declined in 25 of the 39 industrial categories. The largest decreases were recorded in the processing and preserving of meat, fish, crustaceans, and molluscs (-10.7%), manufacture of apparel (-11.3%), spinning, weaving, and finishing of textiles (-20.8%), basic iron and steel industries (-10.6%), and manufacture of cocoa, chocolate, and confectionery (-18.1%). Offsetting part of the decline were gains in the manufacture of beverages (9.1%), sugar and unrefined cane sugar (62.1%), and soaps and detergents (5.7%). Meanwhile, industrial employment continued to contract, with the decline widening to 1.0% year-on-year in May from 0.9% in the previous month.
-
----
-
-### 2026-07-15 23:25:29  #國際
-
-美國貿易代表格里爾將於 7 月 22 日出席參議院小組聽證會並作證。
-
----
-
-### 2026-07-15 23:25:00  #市場
-
-【瑞銀：若伯納姆堅守財政規則，英國國債收益率或將下行20個基點】瑞銀策略師表示，英國的政策不確定性為10年期英國國債（gilts）增加了約20個基點的額外風險溢價，而在安迪·伯納姆（Andy Burnham）正式確認成為工黨領袖之前，市場尚未將這部分溢價完全剔除。穆斯塔法·奧古茲·卡伊蘭（Mustafa Oguz Caylan）在週三釋出的一份報告中表示：“如果秋季預算符合當前的財政規則，這將為英國國債提供至少20個基點的反彈空間。”目前，英國10年期國債收益率已小幅下行4個基點，至4.94%。
-
----
-
-### 2026-07-15 23:25:00  #MKT News
-
-U.S. Trade Representative Greer will testify at a Senate panel hearing on July 22.
-
----
-
-### 2026-07-15 23:24:16  #市場
-
-WTI原油日內跌1%，現報78.54美元/桶。
-
----
-
-### 2026-07-15 23:23:45  #MKT News
-
-Kevin Warsh said if policymakers had monitored money supply in 2021 they might have detected early signs of inflation.
-
----
-
-### 2026-07-15 23:23:38  #央行 #國際
-
-美聯儲主席沃什： 倘若當時關注貨幣供應量，我們或許早在 2021 年就已察覺相關問題。
-
----
-
-### 2026-07-15 23:23:31  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said monetary aggregates are not perfect but provide a useful cross-check.
-
----
-
-### 2026-07-15 23:23:28  #央行 #國際
-
-美聯儲主席沃什： 貨幣總量指標並非盡善盡美，但不失為一項有效的交叉驗證工具。
-
----
-
-### 2026-07-15 23:22:52  #其他
-
-達美航空：殼牌航空將在達美航空樞紐供應混合可持續航空燃料與純可持續航空燃料。
-
----
-
-### 2026-07-15 23:22:21  #市場
-
-現貨白銀日內跌2%，現報57.47美元/盎司。
-
----
-
-### 2026-07-15 23:22:04  #其他
-
-達美航空與殼牌簽署為期五年的航空燃料合作協議，計劃到 2030 年擴大可持續航空燃料（SAF）使用規模。
-
----
-
-### 2026-07-15 23:21:39  #央行 #國際
-
-美聯儲主席沃什： 我並非以貨幣主義者的身份出席本次會議。
-
----
-
-### 2026-07-15 23:21:28  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve chair Kevin Warsh said including the M2 indicator in Fed reports was deliberate.
-
----
-
-### 2026-07-15 23:21:22  #央行 #國際
-
-美聯儲主席沃什： 美聯儲報告新增 M2 貨幣供應量指標是有意為之。
-
----
-
-### 2026-07-15 23:21:20  #MKT News #Important
-
-【Fed Chair Kevin Warsh: I am not satisfied with any inf indicator】Fed Chair Kevin Warsh told a Senate hearing he is "not satisfied with any inf indicator", saying recent data may not fully reflect underlying inf. He said the labor market looks strong but inf is less encouraging, and the Fed will review its tools — including the balance sheet and rates — to assess whether adjustments are needed to address inf.
-
----
-
-### 2026-07-15 23:21:12  #MKT News
-
-【Baltic Dry Index retreats as capesize demand weakens】Baltic Dry Index slipped from a one-month high, down 51 pts (-1.71%) to 2,929 as capesize demand eased. Baltic Capesize Index (BCI) fell 157 pts (-3.3%) to 4,594; capesize average daily earnings dropped $1,420 to $38,163. Baltic Panamax Index (BPI) rose 7 pts (0.3%) to 2,258; Panamax daily earnings increased $65 to $20,325. Baltic Supramax Index (BSI) gained 10 pts (0.6%) to 1,720, its highest since Aug 2022. Baltic Handysize Index (BHSI) eased 3 pts to 906.
 
 ---

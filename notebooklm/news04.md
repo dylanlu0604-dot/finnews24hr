@@ -1,7 +1,181 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-19 05:28:41_
-_本檔包含 3905 則快訊，約 724803 字_
+_更新時間：2026-07-19 06:26:20_
+_本檔包含 3924 則快訊，約 723867 字_
+
+---
+
+### 2026-07-14 22:28:16  #國際
+
+【澤連斯基稱與法國就防空系統及戰機採購等達成合作協議】烏克蘭總統澤連斯基14日表示，烏克蘭與法國達成多項防務合作協議，內容包括導彈許可生產、防空反導系統供應以及採購“陣風”戰鬥機等。（央視新聞）
+
+---
+
+### 2026-07-14 22:28:13  #MKT News #Star Stocks #NVIDIA #Market Themes #AI Revolution #Magnificent 7 #NVDA.O #Impact bullish
+
+Nikkei reports NVIDIA is in talks with Japan’s Mitsubishi Heavy Industries on cooling and power solutions for AI data centers.
+
+---
+
+### 2026-07-14 22:27:59  #其他
+
+沃什：將重新審視通脹框架，以理解通脹成因及應對之策。
+
+---
+
+### 2026-07-14 22:27:56  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said he will reassess the inf framework to better understand its drivers and the measures available to address it.
+
+---
+
+### 2026-07-14 22:27:51  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Fed chair Kevin Warsh said he was pleased his predecessor later abandoned the Fed's 2020 framework.
+
+---
+
+### 2026-07-14 22:27:31  #其他
+
+T-Mobile <TMUS.O>：BERNSTEIN將目標價從245美元下調至220美元。
+
+---
+
+### 2026-07-14 22:27:13  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500 #Impact mixed
+
+Fed chair Kevin Warsh said the Fed's 2020 policy framework was a mistake and did not succeed.
+
+---
+
+### 2026-07-14 22:27:08  #央行 #國際
+
+沃什：我樂見前任摒棄2020年美聯儲政策框架。
+
+---
+
+### 2026-07-14 22:27:08  #央行 #美聯儲
+
+【美聯儲主席沃什表示 現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。
+
+---
+
+### 2026-07-14 22:27:00  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said he is highly critical of the Fed's 2020 policy framework and that this is no secret.
+
+---
+
+### 2026-07-14 22:26:35  #央行 #國際
+
+沃什：我此前對2020年美聯儲政策框架持強烈批評態度，這一點眾所周知。
+
+---
+
+### 2026-07-14 22:26:16  #央行 #國際
+
+美聯儲主席沃什：我們希望，通脹升幅更加受限。這並非美聯儲在通脹問題上推卸責任（pass the buck）的時刻。
+
+---
+
+### 2026-07-14 22:26:08  #MKT News #LLY.N #Impact bullish
+
+Bernstein raises Eli Lilly (LLY.N) price target to $1,385 from $1,300.
+
+---
+
+### 2026-07-14 22:25:57  #其他
+
+沃什：我們有可用工具來實現這一目標。
+
+---
+
+### 2026-07-14 22:25:47  #其他
+
+沃什： 將致力於實現價格穩定。
+
+---
+
+### 2026-07-14 22:25:40  #MKT News
+
+Fed Chair Kevin Warsh said the Fed has the tools to achieve price stability.
+
+---
+
+### 2026-07-14 22:25:38  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed is committed to price stability and maintains a 2% inf target.
+
+---
+
+### 2026-07-14 22:25:27  #MKT News
+
+Fed chair Kevin Warsh said now is not the time for the Fed to shirk responsibility for inf.
+
+---
+
+### 2026-07-14 22:25:18  #MKT News #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve chair KEVIN WARSH said inf is a "choice".
+
+---
+
+### 2026-07-14 22:25:17  #央行 #國際
+
+沃什：美聯儲正就物價穩定作出承諾，通脹目標維持在2%。
+
+---
+
+### 2026-07-14 22:25:03  #其他
+
+沃什： 通脹是一種選擇。
+
+---
+
+### 2026-07-14 22:24:50  #MKT News #Important #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said he hopes the rise in inf will be more limited.
+
+---
+
+### 2026-07-14 22:24:33  #央行 #國際
+
+美聯儲主席沃什：我們希望經濟增長覆蓋更為廣泛。
+
+---
+
+### 2026-07-14 22:24:28  #MKT News #Market Themes #AI Revolution
+
+Goldman Sachs CFO says AI may make it unnecessary to replace employees.
+
+---
+
+### 2026-07-14 22:24:27  #其他
+
+【武漢市氣象臺釋出高溫橙色預警訊號，電網負荷創歷史新高】7月14日，武漢市氣象臺釋出高溫橙色預警訊號，帶動全社會用電需求走高。當天14時07分，武漢電網用電負荷達1826.54萬千瓦，創下歷史新高。目前，全市電力供應保持平穩有序執行。
+
+---
+
+### 2026-07-14 22:24:23  #MKT News #Important #Macro & Rates #The Fed (FOMC)
+
+Fed Chairman Kevin Warsh said he wants economic growth to be more broad-based.
+
+---
+
+### 2026-07-14 22:24:00  #國際
+
+鑑於外界對繁瑣行政程式的擔憂，歐盟外商補貼規則或將更側重規模較大的交易。
+
+---
+
+### 2026-07-14 22:23:54  #公司 #觀點 #國際
+
+【摩根大通業績報告要點總結】1、摩根大通公佈了有史以來最高的季度利潤，淨利潤達到212億美元。2、股票交易業務大幅超出分析師預期，創下60.3億美元的歷史紀錄——同比增長86%。3、摩根大通還報告了從其長期持有的Visa股份中獲得的淨收益，這使該行的季度利潤增加了46億美元。上個月，該銀行任命特洛伊·羅爾博（Troy Rohrbaugh）和道格·佩特諾（Doug Petno）為消費者銀行業務的聯席總裁後，繼任計劃的問題在本季顯得尤為突出。CEO戴蒙（Dimon）列舉了他在尋找新領導人時所看重的一系列特質，包括“靈魂（soul）”和“紮實的工作態度”。他表示，自己的CEO任期還有“好幾年”。4、戴蒙表示，他希望打造一家“出色的歐洲數字銀行”，並指出了該行在英國和德國消費者業務方面的擴張舉措。
+
+---
+
+### 2026-07-14 22:23:40  #公司
+
+【KeyBanc：將蘋果評級降至“減持”，指硬體需求資料持續疲弱】投資銀行KeyBanc Capital Markets將蘋果的評級由“與大盤同步”下調至“減持”，設定目標價為250美元，理由是硬體需求資料持續疲弱，以及對2027年增長預期存有隱憂。
 
 ---
 
@@ -23516,65 +23690,5 @@ Waller said if core inflation prints high again this week, the Fed will need to 
 ### 2026-07-14 00:26:05  #MKT News
 
 Lebanon's presidential palace said President Aoun and Prime Minister Salam discussed Aoun's upcoming visit to the United States, including a meeting with U.S. President Trump.
-
----
-
-### 2026-07-14 00:25:55  #MKT News
-
-The Lebanese presidential palace said President Aoun and Prime Minister Salam discussed upcoming Lebanon–US–Israel trilateral talks in Rome and urged Lebanon’s delegation to insist that Israeli forces immediately withdraw from two pilot areas before discussing any other issues.
-
----
-
-### 2026-07-14 00:24:51  #國際
-
-黎巴嫩總統府：奧恩總統今晚會見總理。二人結合以色列持續採取的敵對行動，全面商討黎巴嫩全國整體局勢，重點討論南部地區形勢。會談還談及黎、美、以色列將於明日及後天在羅馬舉行新一輪談判；黎方已向本國談判代表團作出指示，要求必須先爭取以色列軍隊從兩處試驗地帶立即撤軍，再開展其他議題磋商。 雙方同時談及奧恩總統即將出訪美國，並將與美國總統唐納德・特朗普舉行會面一事。
-
----
-
-### 2026-07-14 00:23:10  #MKT News #Market Regions #Europe & UK #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran says southern Strait of Hormuz lane 'unsafe'】Iran's embassy in the UK said on the 13th on social media that the southern navigation lane of the Strait of Hormuz is "unsafe, unreliable and prone to accidents." The embassy, noting Iran's ambassador to the UK also serves as its permanent representative to the IMO, said Iran has set up a temporary maritime security corridor to comply with an Islamabad MoU, that corridor has no technical or military barriers and has been notified to the IMO. It accused the United States of directing ships onto a dangerous southern parallel route whose legality is doubtful and which is unsafe, and said US attacks on Iranian ports and other "acts of military aggression" have made the Strait a highly tense, high-risk area.
-
----
-
-### 2026-07-14 00:22:33  #國際
-
-【法國楓丹白露森林大火過火面積已接近1000公頃】法國民防部門當地時間13日表示，楓丹白露森林大火過火面積已經接近1000公頃。根據統計資料，楓丹白露森林火災是自2006年以來法國北部地區發生的最嚴重的火災之一。法國總統馬克龍當天表示，楓丹白露森林正遭遇“一場規模異常嚴重”的火災，政府已調動一切可用力量參與救援。法國內政部長努內茲當天稍早前表示，楓丹白露森林大火疑似是人為引發。（央視新聞）
-
----
-
-### 2026-07-14 00:22:15  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Exxon Mobil Stock Price Hits 4-week High — Exxon Mobil shares increased to 144.00 USD, the highest since June 2026. Over the past 4 weeks, Exxon Mobil lost 1.8%, and in the last 12 months, it increased 24.72%.
-
----
-
-### 2026-07-14 00:21:34  #MKT News
-
-Hungarian parliament passed legislation enabling the removal of the president.
-
----
-
-### 2026-07-14 00:20:06  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve Governor WALLER to speak in 10 minutes.
-
----
-
-### 2026-07-14 00:19:58  #其他
-
-匈牙利議會透過罷免總統相關法案。
-
----
-
-### 2026-07-14 00:17:42  #MKT News
-
-【IMO: No legal basis for charging transit fees after Trump proposes 20% charge on Strait of Hormuz shipments】Trump said the US would impose a 20% charge on cargo transiting the Strait of Hormuz. An IMO spokesperson said: "We have been made aware of the matter and are awaiting further details. The International Maritime Organization firmly opposes charging fees for straits used for international navigation. There is no legal basis for compulsory strait transit fees."
-
----
-
-### 2026-07-14 00:17:09  #Trading Economics #Markets #Commodity #Importance 1
-
-Heating Oil Rises to Nearly 6-Week High — Heating oil in the US rose nearly 6% to $3.76 per gallon, the highest since June 3, as concerns over fuel supplies increased. President Donald Trump said the US would reinstate a naval blockade on Iran and impose a 20% reimbursement fee on cargo passing through the Strait of Hormuz, raising fears over disruptions to regional energy flows. Supply concerns were also heightened by disruptions to Russian energy exports, with Ukraine reporting strikes on an oil depot in Stavropol and storage facilities at the port of Kavkaz. Russia said it would suspend diesel exports and become a net importer as repeated Ukrainian attacks and higher crude prices disrupted operations at key refineries. Meanwhile, Kazakhstan’s Caspian Pipeline Consortium reduced shipments by 7% in June due to maintenance at the Tengiz oilfield and lower Russian flows. At the same time, warmer-than-normal weather forecasts through July 28 are also expected to keep power sector fuel demand elevated.
 
 ---

@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-19 05:28:41_
-_本檔包含 3571 則快訊，約 723978 字_
+_更新時間：2026-07-19 06:26:20_
+_本檔包含 3580 則快訊，約 723916 字_
+
+---
+
+### 2026-07-19 06:23:38  #國際
+
+【美軍連續第八晚襲擊伊朗】美軍中央司令部在社交媒體平臺發宣告稱，美國東部時間7月18日下午6點（伊朗時間7月19日凌晨1點30分，北京時間清晨6點），美軍奉總統特朗普之命，開始對伊朗發動新一輪空襲，以“進一步削弱伊朗威脅霍爾木茲海峽商業航運的能力，並迅速懲戒伊朗伊斯蘭革命衛隊——該武裝前一日對駐約旦美軍人員發動了襲擊。”
+
+---
+
+### 2026-07-19 06:21:22  #焦點 #國際
+
+【美對伊展開新空襲，打擊海峽航運威脅武裝】美國於週六對伊朗發動新一輪空襲。美國中央司令部稱，此次打擊目標包括兩類設施：一是可用於威脅霍爾木茲海峽商船航運的相關裝備，二是被指控襲擊約旦美軍人員的伊朗伊斯蘭革命衛隊武裝力量。美國中央司令部表示，本次空襲行動由特朗普總統下令，於美國東部時間當日18時（北京時間06:00）啟動。
+
+---
+
+### 2026-07-19 06:19:35  #焦點 #國際
+
+美國中央司令部：美軍已開始對伊朗發動新一輪空襲。
+
+---
+
+### 2026-07-19 06:19:14  #國際
+
+美國中央司令部：打擊行動旨在削弱伊朗威脅航運的能力。
+
+---
+
+### 2026-07-19 06:03:00  #公司 #國際
+
+美國食品藥品監督管理局（FDA）：泰勒農場已確認，這批檢測呈陽性的碎冰山生菜不屬於該公司當前召回範圍。
+
+---
+
+### 2026-07-19 06:02:16  #MKT News
+
+【Israeli military says explosive that killed Lebanese soldier was not its device】Israeli military said the explosive that killed a Lebanese soldier earlier today in Mansouri, southern Lebanon, was not its device. Lebanon’s army said a "suspicious object" inside a military vehicle exploded in the southern town, killing one soldier and wounding another. The Israeli military said the Lebanese vehicle ran over the device in the border "security zone", that Israeli troops had not been operating in the area recently, and that the device may have been emplaced by Hezbollah.
+
+---
+
+### 2026-07-19 06:01:48  #公司 #國際
+
+美國食品藥品監督管理局（FDA）：泰勒農場墨西哥分公司供應的碎冰山萵苣樣本檢測出環孢子菌呈陽性。
+
+---
+
+### 2026-07-19 05:59:17  #國際
+
+美國國務卿魯比奧向古巴喊話：釋放700名遭不公正關押的政治犯。
+
+---
+
+### 2026-07-19 05:55:12  #國際
+
+美國食品藥品監督管理局：泰勒農場生菜環孢子蟲檢測呈陽性，泰勒農場正在核查涉事產品是否已流入消費者手中。
+
+---
+
+### 2026-07-19 05:54:12  #MKT News #Market Themes #AI Revolution
+
+Former White House AI policy official and OpenAI director of strategic futures Dean Bower said Kimi K3 is a very capable model; in agent-programming scenarios its performance appears broadly comparable to the best public models from Q1 2026.
+
+---
+
+### 2026-07-19 05:45:52  #MKT News
+
+Samsung Electronics' U.S. unit cut 739 jobs in New Jersey.
+
+---
+
+### 2026-07-19 05:44:59  #公司 #國際
+
+三星電子美國分公司將在新澤西州裁員739人。
+
+---
+
+### 2026-07-19 05:35:50  #公司
+
+OpenAI與Anthropic均表示不會利用企業客戶的提示詞開展模型訓練，但企業仍會因員工使用聊天機器人、反饋工具以及留存的使用資料產生資訊洩露風險。兩家公司的競品廠商正藉助企業的這類顧慮，主推私密性更強的替代產品。
+
+---
+
+### 2026-07-19 05:35:23  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iranian government: Iranian foreign minister Araghchi and Iraqi foreign minister Fouad Hussein discussed latest regional developments following a US military strike on Iran, Washington’s repeated violations of the Islamabad Memorandum of Understanding, and Iran’s responses to those actions.
+
+---
+
+### 2026-07-19 05:31:47  #國際
+
+沙特、科威特外交部長譴責伊朗在該地區實施的“惡劣襲擊”。
 
 ---
 
@@ -21547,41 +21637,5 @@ At the open, China front-month main futures were mixed. Palladium fell about 4%;
 ### 2026-07-17 08:57:19  #MKT News #XAUUSD #Impact bullish #WTI #DXY
 
 Iranian state TV reports a US strike on roads and bridges in the Bandahamir area killed seven and wounded nine.
-
----
-
-### 2026-07-17 08:56:22  #其他
-
-【卡達多哈傳出爆炸聲】當地時間7月17日，卡達首都多哈傳出爆炸聲。卡達內政部發布安全警報，敦促民眾待在室內。目前，爆炸原因尚不清楚。
-
----
-
-### 2026-07-17 08:54:44  #MKT News #Market Themes #Chip Wars #AI Revolution #TSM.O #Impact bearish #Nikkei 225 #Hang Seng Index
-
-【US semiconductor rout spills into Asia; Asian tech supply chain suffers broad selloff】Overnight US semiconductor and AI‑name valuation collapses spilled into Asian markets, triggering a second wave of heavy selling across Japan and the broader Asian tech supply chain in early July 17 trade. The Philadelphia Semiconductor Index fell 4.3% on July 16, marking a second day of weakness; TSMC reported Q2 net profit +77.4% YoY and raised full‑year capex guidance to $60–64bn from $52–56bn, yet its ADR fell 2.3% as markets question whether expanded AI compute investment will convert to timely cash flow and profit. Bloomberg macro strategists say the sharp US decline forced liquidations and long squeezes in leveraged equity funds, prompting large quant‑driven outflows from beta‑sensitive Japanese tech names including Kioxia, Tokyo Electron, Advantest and SoftBank in the Asian session. Geopolitical tensions and commodity‑driven valuation pressure, combined with renewed concern about higher forward inflation and prolonged high rates, add further downside risk for high‑markup growth tech stocks.
-
----
-
-### 2026-07-17 08:54:38  #公司 #國際
-
-【斯塔默：英國瑞典將聯合向烏提供新戰機】16日，英國首相斯塔默在訪問烏克蘭基輔時宣佈，英國將聯合瑞典，向烏克蘭提供16架現代化的新戰鬥機。即將卸任英國首相的斯塔默此次是最後一次以首相身份訪問基輔，當天他與烏克蘭總統澤連斯基舉行會談，並共同出席新聞釋出會。斯塔默在釋出會上表示，英國將與瑞典一起，向烏克蘭方面移交16架瑞典“鷹獅”戰鬥機，總價值3億歐元，製造戰鬥機的費用由英國政府撥款。他強調，此次戰機援助旨在強化烏克蘭領空防禦能力，提升烏防空作戰水平，為烏空域安全提供支援。據英國首相府釋出的訊息稱，這批戰機將在2029年前移交給烏方，數十家英國公司將參與戰機的生產。
-
----
-
-### 2026-07-17 08:52:04  #公司 #觀點
-
-【花旗：8 月是新興市場利差交易表現最差月份】花旗集團表示，從歷史規律來看，8 月是新興市場利差交易表現最差的一個月，市場擁擠的持倉頭寸會令投資者極易受到各類市場衝擊影響。分析師路易斯・科斯塔（ Luis Costa）、多納託・瓜裡諾（ Donato Guarino）等人在研報中寫道：“我們回溯測算的資料持續印證，8 月行情波動劇烈，整體交易環境不利。”這一規律源於 “夏季市場普遍偏好利差交易，導致 8 月持倉規模偏高”，一旦出現突發重磅訊息，就會引發大幅行情震盪。與之相對，7 月從歷史資料看，風險收益配比整體更為可觀。
-
----
-
-### 2026-07-17 08:50:51  #國際
-
-【剛果（金）發現新物種猴子 橙色嘴唇為顯著特徵】日前，研究人員宣佈在剛果（金）中東部的叢林中，發現一種新的猴子。這種猴子被命名為剛果疣猴，獨特的橙色嘴唇是其最明顯的特徵。研究團隊表示，鑑於這種猴子的分佈範圍和種群數量都很小，加上狩獵壓力增加和棲息地改變帶來的預期影響，建議將該物種初步歸類為世界自然保護聯盟紅色名錄中的“瀕危”等級，並呼籲剛果（金）政府加強對其主要棲息地洛馬米國家公園的保護。（央視）
-
----
-
-### 2026-07-17 08:50:22  #公司 #觀點
-
-花旗集團稱8月是新興市場套利交易表現最差的月份。
 
 ---
