@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 20:01:43",
-  "count": 19049,
+  "updated": "2026-07-18 20:05:41",
+  "count": 19048,
   "items": [
+    {
+      "id": "4995504",
+      "time": "2026-07-18 20:04:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海釋出一批次子城市空間智慧建設核心成果】在7月17日至18日舉行的2026世界人工智慧大會·量子城市空間智慧論壇上，上海集中釋出首批次子城市政務智慧體、“雲宇星空”行業基座大模型等5項量子城市空間智慧建設核心成果。此次釋出的首批次子城市政務智慧體包括“禹智河洛”防汛智慧體、“美好生活掌中寶”智慧體、“滬派江南行”智慧體等。“禹智河洛”防汛智慧體集全域統籌、聯動排程、實戰推演於一體，透過搭建高精度時空數智底座，打通氣象、水利、排水業務鏈路，整合蓄滯全域性態勢與實時體徵，動態測算可調資源，可以模型推演汛澇風險，賦能實戰決策。“美好生活掌中寶”智慧體整合六大板塊、21項市民高頻服務的通用版已在手機端上線，滿足不同社群、不同年齡人群的“15分鐘社群生活圈”差異化需求；“滬派江南行”智慧體則囊括全市196個風貌村落、15個試點單元、鄉村八古資源和自然生境，實現空間可定位、資訊可檢索、場景可復現、知識可調閱。作為量子城市大模型體系的智慧基座與智慧中樞，“雲宇星空”行業基座大模型覆蓋規劃設計、測繪地理、自然資源全領域專業知識，包含一萬三千對高質量問答、十五億Token高質量語料，可支撐審批、規劃評估、城市執行、政策諮詢、專業報告等場景。（央視新聞）"
+    },
     {
       "id": "4995502",
       "time": "2026-07-18 20:00:02",
@@ -175668,29 +175676,6 @@
         "Brent"
       ],
       "text": "【Eni CEO: Prolonged Middle East conflict could push oil above $80–$100/bbl band by early 2027】Eni CEO Claudio Descalzi said if the Middle East conflict persists, the global oil market will break out of the current roughly $80–$100 per barrel range by Q1 2027 at the latest, boosting inflation and depressing energy demand. Strategic reserve releases have so far kept prices in that band, but reserves are finite and the approach faces rising risk. Iran-related disruptions since late February have driven average daily inventory draws of about 3.8 mln barrels, accelerating to 4.6 mln bpd in May. Descalzi called for diversification of supply sources and routes — highlighting North Africa, sub‑Saharan Africa, Latin America and Southeast Asia — and urged reduced reliance on sea lanes under concentrated control."
-    },
-    {
-      "id": "4982243",
-      "time": "2026-07-11 20:04:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【儲存晶片股過去數週跌超20% 底層邏輯面臨重估】業內人士表示，儲存晶片行業歷史上每逢景氣行情，廠商往往會同步擴大產能，導致新增產能集中釋放、價格暴跌，全行業陷入虧損；隨後廠商又集體收縮資本開支，等到需求回暖，又迎來景氣行情——這一迴圈構成了行業特有的週期性。美股儲存晶片股自6月下旬觸及高點以來，Meta公司出售算力等訊息引發了市場對算力過剩的擔憂，儲存晶片股遭遇集體回撥。資料顯示，閃迪、美光科技、希捷科技、西部資料等行業龍頭在過去數週內股價跌幅均超過20%。分析人士指出，當前支撐儲存晶片需求的行業底層邏輯正面臨重估，核心變數在於各家AI大模型之間的技術差距是否會持續縮小。分析人士還指出，儲存晶片行業正在經歷一次商業模式的深層變化：過去儲存更像大宗商品，價格隨行就市，合同也多以季度、年度為單位；現在，雲廠商和AI資料中心為了保障關鍵供應，正越來越多地和原廠簽下三到五年、帶價格區間、最低採購量和客戶保證金的長期供應協議。（央視財經）"
-    },
-    {
-      "id": "mkt:019f510f-dea0-7aab-8d3d-b2def3725426",
-      "time": "2026-07-11 20:03:42",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "MU.O",
-        "Impact bearish",
-        "STX.O",
-        "WDC.O"
-      ],
-      "text": "【Storage chip stocks fall over 20% in recent weeks as fundamentals are reassessed】Storage-chip names have tumbled more than 20% in recent weeks after peaking in late June, industry participants said. Meta’s sale of compute capacity stoked fears of excess compute and triggered a sectorwide pullback; SanDisk, Micron, Seagate and Western Digital are among leaders down over 20%. Traders note the industry’s long-standing cycle—capacity broadside expansion in booms, price collapses and industrywide losses, then capex retrenchment and eventual recovery—remains intact. Analysts say the key variable now is whether technical gaps between AI large models continue to narrow, which would materially affect incremental storage demand. Separately, commercial dynamics are shifting: cloud providers and AI data centers are increasingly signing three- to five-year supply agreements with price bands, minimum purchase commitments and customer deposits to secure critical supply, replacing shorter-term, spot or quarterly contracting."
     }
   ]
 }
