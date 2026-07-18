@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-18 18:57:09",
-  "count": 19056,
+  "updated": "2026-07-18 19:01:09",
+  "count": 19058,
   "items": [
+    {
+      "id": "mkt:019f74e2-31e3-7aab-8df0-15020aeb1830",
+      "time": "2026-07-18 19:00:08",
+      "tags": [
+        "MKT News",
+        "AVNT.O",
+        "Impact bullish",
+        "LHX.O",
+        "LMT.O"
+      ],
+      "text": "Ukraine's Defense Ministry said the military signed roughly $7.5 billion of drone contracts in 1H2026, about double last year's total, with FPV drones accounting for the largest share."
+    },
+    {
+      "id": "mkt:019f74e0-e00f-7aab-8df0-0e9185199a66",
+      "time": "2026-07-18 18:58:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai releases first difficult-case AI diagnostic evaluation benchmark】July 18, 2026 — At the medical forum of the World Artificial Intelligence Conference in Shanghai's Xuhui West Bund, Shanghai issued the industry's first evaluation benchmark for AI diagnosis of difficult clinical cases covering 30 clinical specialties to assess large medical models' ability to handle complex cases. The city's medical AI evaluation framework was upgraded to version 5.0, adding an 'atomic skills' assessment intended to detect and correct AI-generated false information."
+    },
+    {
+      "id": "4995475",
+      "time": "2026-07-18 18:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海釋出首個疑難病例AI診療評測基準】7月18日，2026世界人工智慧大會醫學分論壇在上海徐匯西岸舉行。論壇上，上海釋出了業界首個針對疑難病例的AI診療評測基準，覆蓋30個臨床專科，專門用於檢驗醫療大模型處理複雜病例的真實能力。同時，原有的醫療AI評測體系也更新到5.0版本，新增“原子技能”評測方式，可對AI模型生成的虛假資訊進行校正。在基礎設施方面，上海市衛生健康行業算力服務中心正式揭牌，打通了從算力供給、資料合成到模型訓練、智慧應用的全鏈條。預計到2026年底，上海醫療健康語料庫規模將超過2PB，資料準備週期可縮短超六成。論壇還發布了《2026人工智慧+衛生健康上海實踐》案例集，梳理了AI在臨床輔助決策、患者就醫、中醫智慧化、基層公共衛生、醫院管理等七大場景的應用經驗。目前，上海已獲批國家醫療領域人工智慧應用中試基地，覆蓋全部七大醫療應用場景。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f74df-62e5-7aab-8df0-07f7f37b45ea",
+      "time": "2026-07-18 18:57:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 5.3 earthquake at 18:36 on July 18 in Tajikistan (37.70°N, 72.55°E); hypocenter depth 140 km."
+    },
+    {
+      "id": "mkt:019f74df-3cae-7aab-8def-f8c404339101",
+      "time": "2026-07-18 18:56:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "ILNA: Lebanese parliament speaker said the immediate priority is a full Israeli troop withdrawal from Lebanese territory and an end to the occupation."
+    },
     {
       "id": "4995474",
       "time": "2026-07-18 18:55:43",
@@ -175714,33 +175762,6 @@
         "其他"
       ],
       "text": "【內蒙古釋出暴雨藍色預警】內蒙古自治區氣象臺2026年7月11日16時55分發布暴雨藍色預警訊號：11日23時至12日11時赤峰市南部、通遼市南部降雨量將達50毫米以上，部分地區伴有短時強降水等強對流天氣，可能造成城市內澇、地質災害、山洪等災害。"
-    },
-    {
-      "id": "mkt:019f50d6-4577-7aab-8d3d-59d054fc8894",
-      "time": "2026-07-11 19:00:47",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Sinopec has completed the restructuring of China Aviation Oil, making China Aviation Oil a second-tier wholly owned subsidiary."
-    },
-    {
-      "id": "4982213",
-      "time": "2026-07-11 19:00:36",
-      "tags": [
-        "宏觀",
-        "公司",
-        "焦點"
-      ],
-      "text": "【中國石化完成對中國航油重組】從中國石化新聞辦獲悉，中國石化宣佈完成對中國航油的重組工作，中國航油正式成為中國石化二級全資子公司。這是推進中央企業戰略性、專業化重組的重要舉措，也是服務國家戰略、應對國際競爭的主動作為，將提升保障國家航空能源供應安全能力和水平，推動航空能源供應綠色低碳轉型，更好地服務人民美好出行需要。2025年底，經黨中央、國務院批准，國務院國資委作出中國航油重組併入中國石化戰略部署。今年1月8日，國務院國資委召開重組大會，就積極穩妥推進重組工作提出明確要求。兩家央企依法合規履行重組前置程式，6月18日，重組事項獲得境內外全部監管審批。7月9日完成工商變更登記，標誌著重組工作圓滿完成。（央視新聞）"
-    },
-    {
-      "id": "4982212",
-      "time": "2026-07-11 18:57:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上海迪士尼度假區調整7月12日運營時間】7月11日，上海迪士尼度假區釋出公告：基於颱風“巴威”當前的路徑及最新的天氣預報，上海迪士尼度假區2026年7月12日（週日）的運營時間將有所調整。7月12日，上海迪士尼樂園的運營時間為中午12:00至21:30，迪士尼小鎮的運營時間為中午12:00至22:00。星願公園將於當日暫停對外開放。"
     }
   ]
 }

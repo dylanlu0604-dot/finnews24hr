@@ -1,7 +1,55 @@
 {
   "date": "2026-07-18",
-  "count": 761,
+  "count": 766,
   "items": [
+    {
+      "id": "mkt:019f74e2-31e3-7aab-8df0-15020aeb1830",
+      "time": "2026-07-18 19:00:08",
+      "tags": [
+        "MKT News",
+        "AVNT.O",
+        "Impact bullish",
+        "LHX.O",
+        "LMT.O"
+      ],
+      "text": "Ukraine's Defense Ministry said the military signed roughly $7.5 billion of drone contracts in 1H2026, about double last year's total, with FPV drones accounting for the largest share."
+    },
+    {
+      "id": "mkt:019f74e0-e00f-7aab-8df0-0e9185199a66",
+      "time": "2026-07-18 18:58:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai releases first difficult-case AI diagnostic evaluation benchmark】July 18, 2026 — At the medical forum of the World Artificial Intelligence Conference in Shanghai's Xuhui West Bund, Shanghai issued the industry's first evaluation benchmark for AI diagnosis of difficult clinical cases covering 30 clinical specialties to assess large medical models' ability to handle complex cases. The city's medical AI evaluation framework was upgraded to version 5.0, adding an 'atomic skills' assessment intended to detect and correct AI-generated false information."
+    },
+    {
+      "id": "4995475",
+      "time": "2026-07-18 18:57:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海釋出首個疑難病例AI診療評測基準】7月18日，2026世界人工智慧大會醫學分論壇在上海徐匯西岸舉行。論壇上，上海釋出了業界首個針對疑難病例的AI診療評測基準，覆蓋30個臨床專科，專門用於檢驗醫療大模型處理複雜病例的真實能力。同時，原有的醫療AI評測體系也更新到5.0版本，新增“原子技能”評測方式，可對AI模型生成的虛假資訊進行校正。在基礎設施方面，上海市衛生健康行業算力服務中心正式揭牌，打通了從算力供給、資料合成到模型訓練、智慧應用的全鏈條。預計到2026年底，上海醫療健康語料庫規模將超過2PB，資料準備週期可縮短超六成。論壇還發布了《2026人工智慧+衛生健康上海實踐》案例集，梳理了AI在臨床輔助決策、患者就醫、中醫智慧化、基層公共衛生、醫院管理等七大場景的應用經驗。目前，上海已獲批國家醫療領域人工智慧應用中試基地，覆蓋全部七大醫療應用場景。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f74df-62e5-7aab-8df0-07f7f37b45ea",
+      "time": "2026-07-18 18:57:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENC reported a magnitude 5.3 earthquake at 18:36 on July 18 in Tajikistan (37.70°N, 72.55°E); hypocenter depth 140 km."
+    },
+    {
+      "id": "mkt:019f74df-3cae-7aab-8def-f8c404339101",
+      "time": "2026-07-18 18:56:54",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "ILNA: Lebanese parliament speaker said the immediate priority is a full Israeli troop withdrawal from Lebanese territory and an end to the occupation."
+    },
     {
       "id": "4995474",
       "time": "2026-07-18 18:55:43",
