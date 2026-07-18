@@ -1,7 +1,325 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-18 18:02:31_
-_本檔包含 3855 則快訊，約 720631 字_
+_更新時間：2026-07-18 19:13:11_
+_本檔包含 3880 則快訊，約 721579 字_
+
+---
+
+### 2026-07-14 20:43:58  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #XAUUSD #Impact bearish #DXY
+
+Federal Reserve Chair KEVIN WARSH said if the Fed gets policy right, the past five years' surge in inflation will be history.
+
+---
+
+### 2026-07-14 20:43:51  #公司 #國際
+
+【SK董事長：當前AI成本過高 半導體供給短期難改善】SK集團會長崔泰源表示：“目前人工智慧（AI）相關成本過高，各方應當攜手尋找技術突破口，壓降相關成本。” 當地時間13日，崔泰源做客節目時談及：“當下半導體價格居高不下，供給也無法充分保障，給行業帶來沉重負擔。而擴充產能存在固定交付週期，該問題無法在短期內徹底解決。” 針對這一現狀，崔泰源介紹了集團規劃：作為韓國政府推進的三大國家級超大型重點專案之一，SK將分階段建設總規模達15吉瓦的AI資料中心。 崔泰源稱：“我們將重點打造能夠以更低運營成本、更高效率生成Token算力的新型AI資料中心，目前正與所有合作方就此展開溝通洽談。” 他還補充道：“集團最初制定1萬億美元規模投資計劃時，並未預料到業務體量會擴張至如今級別，而人工智慧產業的爆發讓這一佈局落地成為現實。AI產業耗資巨大，必須配套建設一定體量以上的資料中心作為支撐。”
+
+---
+
+### 2026-07-14 20:43:49  #公司 #觀點
+
+摩根大通執行長戴蒙稱，大型交易提前完成對第二季度業績貢獻顯著 。
+
+---
+
+### 2026-07-14 20:43:39  #MKT News
+
+JP Morgan CEO Dimon: Markets are clearly exhibiting extreme risk appetite.
+
+---
+
+### 2026-07-14 20:43:32  #央行 #國際
+
+美聯儲主席沃什：美聯儲的首要目標是將貨幣政策做對——或者說儘可能做對。
+
+---
+
+### 2026-07-14 20:43:29  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed's primary objective is to get monetary policy right—or to get it as right as possible.
+
+---
+
+### 2026-07-14 20:43:28  #觀點
+
+摩根大通巴納姆：市場明顯處於極高風險偏好狀態。
+
+---
+
+### 2026-07-14 20:43:20  #公司
+
+【隆達股份：2026年上半年營收預增50%-75% 淨利潤大幅提升】隆達股份公告稱，預計2026年半年度營收12.43億元至14.51億元，同比增長50%到75%；歸屬於母公司所有者的淨利潤1.01億元至1.19億元，同比增長90%至125%；扣非淨利潤0.98億元至1.13億元，同比增長95%至125%。業績增長因全球航空發動機及燃氣輪機市場需求增長，公司市場份額提升，且開展降本增效工作，毛利率提高。不過，公司面臨行業競爭、原材料波動等風險。
+
+---
+
+### 2026-07-14 20:43:11  #其他
+
+招商蛇口：預計上半年淨利潤最多6.5億元，同比下降55%。
+
+---
+
+### 2026-07-14 20:43:06  #其他
+
+ARGUS RESEARCH將達美航空<DAL.N>目標價從100美元上調至105美元。
+
+---
+
+### 2026-07-14 20:43:05  #央行 #美聯儲
+
+美聯儲主席沃什未就利率前景發表評論。
+
+---
+
+### 2026-07-14 20:42:35  #其他
+
+沃什未就利率前景發表評論。
+
+---
+
+### 2026-07-14 20:42:32  #MKT News #JPM.O #Impact bullish
+
+JP Morgan CEO Dimon said the investment-banking pipeline remains robust.
+
+---
+
+### 2026-07-14 20:42:22  #觀點
+
+摩根大通巴納姆：投行業務儲備專案“相當充足”。
+
+---
+
+### 2026-07-14 20:42:19  #Trading Economics #Economy #United States #Inflation Rate MoM #Importance 1
+
+US Consumer Prices Drop For First Time Since 2020 — US consumer prices fell 0.4% month-over-month in June 2026, following a 0.5% rise in May and exceeding market expectations of a 0.1% drop. This marked the first monthly decline since May 2020 and the largest since April 2020, driven primarily by a 5.7% drop in energy prices after increases of 3.9% in May, 3.8% in April, and 10.9% in March. Additional downward pressure came from motor vehicle insurance, communication, apparel, medical care, and used cars and trucks. Meanwhile, food prices rose 0.2%, with both food at home and food away from home increasing by the same margin. Other rising indexes included recreation, household furnishings and operations, and personal care. The core CPI, which excludes food and energy, remained unchanged, below forecasts of a 0.2% rise.
+
+---
+
+### 2026-07-14 20:42:00  #其他
+
+沃什：勞動力市場總體穩定，名義工資增長穩健。
+
+---
+
+### 2026-07-14 20:41:50  #其他
+
+【立陶宛新政府正式就職】立陶宛議會14日投票透過立陶宛新總理明道加斯·辛克維丘斯的內閣名單和施政綱領，其領導的新政府正式就職。根據辛克維丘斯3日公佈的施政綱領，新政府將以國家安全、經濟增長和改善民生作為施政重點。新政府將繼續加強與北約盟國的合作。(新華社)
+
+---
+
+### 2026-07-14 20:41:44  #其他
+
+沃什：監測人工智慧對通貨膨脹和勞動力市場的影響。
+
+---
+
+### 2026-07-14 20:41:17  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy
+
+Fed Chairman Kevin Warsh: consumer spending growth is moderate; housing market continues to lag.
+
+---
+
+### 2026-07-14 20:41:08  #其他
+
+沃什：消費增長溫和，住房市場持續滯後。
+
+---
+
+### 2026-07-14 20:40:56  #公司
+
+【首創證券：股東城市動力擬減持不超過0.6870%】首創證券公告，股東城市動力（北京）投資有限公司計劃於2026年8月6日～2026年11月6日透過集中競價減持不超過1877.91萬股公司A股股份，佔不超過公司總股本的0.6870%，擬減持股份來源為IPO前取得。
+
+---
+
+### 2026-07-14 20:40:55  #MKT News #Copper #Impact bullish #CNH
+
+【China to reshape land-reserve framework】The Ministry of Natural Resources said China will reform its 25-year-old land‑reserve system as urbanization shifts from an expansion to a stock phase. Vice Minister Zhang Wentong said the system will move from concentrating on single plots and near-term economic value to district‑level, multi‑resource management (land, forest, mineral) that balances economic, social and ecological value. Land reserves will be used beyond supplying vacant development plots to raise infrastructure and urban functions, improve living environments and support job creation.
+
+---
+
+### 2026-07-14 20:40:53  #國際
+
+沃什：美國經濟具有韌性，保持穩健增長。
+
+---
+
+### 2026-07-14 20:40:47  #其他
+
+【我國將重構土地儲備的底層邏輯】隨著城鎮化和城市發展進入存量時代，實施25年的土地儲備制度將不斷創新改革，實現生產、生活、生態兼顧的底層邏輯重構。自然資源部副部長張文彤指出，土地儲備曾被稱為“經營城市”，關注點集中在土地本身、單一地塊以及土地自身的經濟價值特別是即期價值迅速實現。隨著城鎮化和城市發展由增量時代進入存量時代，城市內涵式發展要求土地儲備制度創新改革，從過去注重土地資源儲備，向土地、林礦等多種類轉變，既推動經濟發展，也推動生態文明建設；從單宗地塊向片區式各類資源有效組合轉變，在一定區域範圍內系統提高人居環境水平。土地儲備工作將從相對追求經濟價值，向追求經濟價值、社會價值、生態價值系統性轉變；不僅關注“淨地”自身產生的作用和價值，更關注透過土地儲備進一步提高基礎設施水平、完善城市功能，達到生產、生活、生態的高度統一，提供更多就業崗位、良好人居環境。（新華社）
+
+---
+
+### 2026-07-14 20:40:41  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+US stock-index futures surged to intraday highs after US CPI fell MoM.
+
+---
+
+### 2026-07-14 20:40:19  #公司 #觀點
+
+摩根大通執行長戴蒙表示，執行長繼任時間表並未發生變動。
+
+---
+
+### 2026-07-14 20:40:08  #其他
+
+【航行警告！渤海濰坊港實彈射擊】據中國海事局網站訊息，濰坊海事局釋出航行警告，7月15日0時至17日24時，渤海濰坊港部分海域進行實彈射擊，禁止駛入。 （央視軍事）
+
+---
+
+### 2026-07-14 20:40:08  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #S&P500 #Impact bullish #WTI #DXY #Impact bearish
+
+【U.S. CPI posts first monthly decline since 2020; core flat】U.S. consumer prices fell 0.4% MoM in June — the first monthly drop since 2020 — and rose 3.5% YoY, the Bureau of Labor Statistics said Tuesday. Core CPI (ex food and energy) was unchanged MoM and rose 2.6% YoY. The report said a retreat from the peak energy-price shock linked to the Iran war drove gasoline lower, while declines in apparel and used-car prices and a large drop in motor-vehicle insurance restrained core inflation. The print eases some near-term pressure on Fed tightening ahead of the Fed’s month-end meeting; investors pared bets on a July rate hike, U.S. equity futures rose and Treasury yields fell. Renewed U.S.-Iran hostilities lifting oil prices could, however, prolong conflict-driven inflationary effects.
+
+---
+
+### 2026-07-14 20:39:50  #MKT News #Market Regions #Greater China
+
+【Navigation warning: live-fire exercises near Weifang port (Bohai Sea)】China Maritime Safety Administration website: Weifang MSA issued a navigation warning — parts of the Bohai Sea near Weifang port will be closed for live-fire exercises from 0000 on July 15 to 2400 on July 17; entry prohibited.
+
+---
+
+### 2026-07-14 20:39:06  #公司
+
+美銀全球研究將國際紙業公司（股票程式碼：IP.N）目標股價從44美元下調至41美元。
+
+---
+
+### 2026-07-14 20:39:00  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Israeli Prime Minister Netanyahu, addressing Iran's leadership, warned that if Iran attacks Israel "this time will not be a replay" and that the response would be far stronger than in the past.
+
+---
+
+### 2026-07-14 20:38:33  #公司
+
+【ST同德：2026年上半年淨虧損3800萬-5500萬元】ST同德公告稱，預計2026年1月1日至6月30日，歸屬於上市公司股東的淨利潤為-5500萬元至-3800萬元，同比下降595.86%-442.59%；扣除非經常性損益後的淨利潤為-5432萬元至-3732萬元，同比下降1183.56%-844.45%。業績變動主要因二季度母公司炸藥生產線檢修致產銷量下降、子公司專案融資費用化、電力業務產能利用不足持續虧損。
+
+---
+
+### 2026-07-14 20:38:26  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said AI opportunities pose challenges for policymakers and that the Fed is monitoring AI’s impact on inflation and the labor market.
+
+---
+
+### 2026-07-14 20:38:16  #Trading Economics #Economy #United States #Core Inflation Rate #Importance 1
+
+US Core Inflation Rate Below Forecasts — The US core inflation rate, excluding volatile food and fuel costs, fell to 2.6% in June 2026 from a seven-month high of 2.9% in May and below the expected 2.8%. The heavyweight shelter index increased 3.3%, down slightly from a 3.4% rise in May. Other indexes with notable increases included airline fares (+26.5%), medical care (+2%), recreation (+2.8%), and household furnishings and operations (+2.5%). Month-over-month, core consumer prices were flat, after a 0.2% increase in May and undershooting market estimates of a 0.2% rise.
+
+---
+
+### 2026-07-14 20:38:10  #公司
+
+【萊茵生物：預計上半年淨利潤同比增長30%-60%】萊茵生物公告，預計2026年上半年淨利潤為4954.3萬元–6097.6萬元，同比增長30%-60%。主要原因系公司一方面持續提升產品品質、增強客戶粘性，推動營業收入同比穩步增長；另一方面公司不斷最佳化產品結構，綜合毛利率較上年同期有一定修復。收入同比增長與毛利改善同步推動公司報告期業績實現較高增長。
+
+---
+
+### 2026-07-14 20:37:59  #市場 #國際
+
+【美元指數短線約30點，現貨黃金短線拉昇約70美元】美元指數短線走低約30點，現報100.69。美股期貨短線拉昇，納斯達克100指數期貨漲1.4%。美國10年期國債收益率短線走低，現報4.604%；美國兩年期國債收益率日內下跌10個基點，至4.18%。現貨黃金短線拉昇約70美元，現報4096.20美元/盎司。
+
+---
+
+### 2026-07-14 20:37:54  #MKT News #USDJPY #Impact bearish
+
+USD/JPY dropped more than 50 pips intraday to 161.84.
+
+---
+
+### 2026-07-14 20:37:39  #Trading Economics #Markets #United States #Currency #Importance 0
+
+DXY Falls after Inflation Report — The dollar index fell more than 0.5% to around 100.7 on Tuesday after softer-than-expected US inflation reduced expectations of Federal Reserve rate hikes. Annual consumer inflation slowed to 3.5% in June from 4.2% in May, below forecasts of 3.8%, as lower energy prices helped ease overall price pressures. Core inflation also moderated to 2.6%, while monthly consumer prices fell 0.4%, marking the first monthly decline since 2020. The data offset recent hawkish remarks from Federal Reserve Chair Kevin Warsh, who reiterated the central bank's commitment to restoring price stability and stressed that policymakers have no tolerance for persistently elevated inflation. Meanwhile, renewed geopolitical tensions limited the dollar's decline after the interim US-Iran peace agreement unraveled. The US resumed strikes on Iran and reinstated a naval blockade, while Tehran launched fresh attacks on shipping in the Strait of Hormuz, reviving concerns over global energy supplies.
+
+---
+
+### 2026-07-14 20:37:37  #市場
+
+標普500指數期貨上漲0.5%，納斯達克100指數期貨上漲1.3%。
+
+---
+
+### 2026-07-14 20:37:19  #MKT News #GBPUSD #Impact bullish
+
+GBP/USD climbed above 1.34, up 0.66% intraday.
+
+---
+
+### 2026-07-14 20:36:59  #MKT News #Macro & Rates #Treasury Yields #DXY #Impact mixed #EURUSD #US10Y
+
+After US CPI data, German bunds erased earlier losses; 10-year yield held at 3.11%.
+
+---
+
+### 2026-07-14 20:36:49  #市場 #國際
+
+美國通脹資料公佈後，英國金邊期貨上漲約25個基點。
+
+---
+
+### 2026-07-14 20:36:34  #公司
+
+【兄弟科技：2026年上半年淨利潤預增39.45%-70.43%】兄弟科技公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤為9000萬元-11000萬元，較上年同期的6454.10萬元增長39.45%-70.43%。扣除非經常性損益後的淨利潤為8500萬元-10500萬元，同比增長35.93%-67.92%。業績增長主要因維生素、香料等產品市場需求增加，銷售量同比增加、單位成本下降及毛利率上升。
+
+---
+
+### 2026-07-14 20:36:31  #公司
+
+【海南海藥：2026年上半年淨虧損1.5-2.2億元 營收毛利下降】海南海藥公告稱，2026年上半年，公司預計歸屬於上市公司股東的淨利潤虧損1.5-2.2億元，上年同期虧損1.58億元；扣非後淨虧損1.8-2.6億元，上年同期虧損1.81億元。業績變動主因營業收入、毛利同比下降，折舊攤銷費用同比增加。公司預計歸母淨資產為負。後續公司將在研發、銷售體系、生產方面採取舉措提升核心競爭力和市場業績。
+
+---
+
+### 2026-07-14 20:36:23  #MKT News #WTI #Brent
+
+After CPI data was released, WTI and Brent futures saw little immediate reaction, trading at $79.76/bbl and $85.50/bbl, respectively.
+
+---
+
+### 2026-07-14 20:36:20  #公司 #國際
+
+美國銀行執行長布萊恩·莫伊尼漢表示，當前經濟環境仍極具利好性。
+
+---
+
+### 2026-07-14 20:36:15  #市場 #央行 #國際
+
+【美國6月通脹資料公佈後 交易員大幅削減對美聯儲加息的押注】美國6月通脹資料公佈後，美國短期利率期貨大幅跳漲，交易員大幅削減對美聯儲加息的押注。
+
+---
+
+### 2026-07-14 20:35:43  #公司
+
+【信維通訊：擬11億元收購參股公司55%股份並取得控股權】信維通訊公告稱，公司擬透過全資子公司信維通訊（益陽）有限公司收購參股公司信維電子科技（益陽）有限公司55%股份。收購完成後，全資子公司持股比例預計提升至70%並取得控制權，各方還就後續增資事項約定。因浩容電子執行事務合夥人彭宇斐系公司董事，本次事項構成關聯事項，但不構成重大資產重組。董事會同意以不超11億元自有或自籌資金推進收購，關聯董事彭浩、彭宇斐迴避表決，議案以7票同意透過。
+
+---
+
+### 2026-07-14 20:35:12  #公司 #國際
+
+SOFTSERVE公司：SOFTSERVE收購NEWVISION軟體，新增印度專業技術，包括AGENTIC保障和智慧技術。
+
+---
+
+### 2026-07-14 20:35:11  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot silver up 3.00% intraday, now at $59.50/oz.
+
+---
+
+### 2026-07-14 20:35:06  #市場 #國際
+
+德國兩年期政府債券收益率<DE2YT=RR>在美國經濟資料公佈後回落漲幅，最新上漲2.5個基點，報2.74%。
+
+---
+
+### 2026-07-14 20:34:54  #市場
+
+現貨白銀<XAG=>漲幅超3%，報每盎司59.52美元。
+
+---
+
+### 2026-07-14 20:34:50  #Trading Economics #Economy #United States #Core Inflation Rate MoM #Importance 1
+
+US Core Consumer Prices Unexpectedly Hold — Core consumer prices in the United States, which exclude food and energy, were unchanged from the previous month in June of 2026, holding the 0.2% increase in May and undershooting market expectations that they would have risen by 0.2%. I)t was the first month without increases since January 2021. Prices fell for transportation services (-0.3% vs -0.6% in May), apparel (-0.6% vs 0.3%), and medical care services (-0.1% vs 0.5%). In turn, prices inched higher for shelter (0.1% vs 0.3%). From the previous year, core consumer prices were 2.6% higher.
 
 ---
 
@@ -23120,173 +23438,5 @@ Brent Rises on US-Iran Strikes — Brent crude oil climbed more than 3% to aroun
 ### 2026-07-13 21:43:25  #Trading Economics #Markets #Commodity #Importance 2
 
 Oil Jumps on Fresh US-Iran Strikes — Crude oil climbed more than 3% to around $74 per barrel on Monday after the US launched another wave of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. Iran declared the Strait of Hormuz closed until further notice, while Western naval forces maintained that the key shipping route remained open. President Donald Trump said the US would likely take control of the strait and seek reimbursement for securing it, although he provided no further details. Tehran said talks to reduce tensions were continuing despite the interim peace agreement entering a "crisis phase." Iran also targeted US allies across the region, with Kuwait reporting damage to an offshore drilling platform. Tanker traffic through Hormuz remained subdued, although the Omani shipping corridor stayed operational. Meanwhile, OPEC lowered its 2026 oil demand growth forecast to 800,000 barrels per day.
-
----
-
-### 2026-07-13 21:43:03  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Stryker Stock Price Hits 11-week High — Stryker shares increased to 334.88 USD, the highest since April 2026. Over the past 4 weeks, Stryker gained 9.19%, and in the last 12 months, it decreased 14.31%.
-
----
-
-### 2026-07-13 21:42:55  #公司 #國際
-
-【迪拜環球港務擬建東海岸新港 擺脫霍爾木茲海峽航運制約】迪拜環球港務集團（DP World）計劃在阿聯酋東海岸新建一座港口與集裝箱碼頭，此舉將降低迪拜對旗艦傑貝阿里港樞紐的依賴，實現繞開霍爾木茲海峽開展貨運。知情人士透露，這家總部位於迪拜的港口運營商正洽談在富查伊拉沿海區域新建一座綜合性多用途港口，並在當地現有港區擴建一座全新集裝箱碼頭。過去二十年間，迪拜環球港務成長為阿聯酋國際化佈局最廣的企業之一，在全球搭建起港口物流產業版圖，但傑貝阿里港始終是集團乃至迪拜最核心的王牌資產。將部分港口運力外遷到迪拜以外地區，對迪拜酋長國而言是顛覆性轉變。迪拜能成長為全球貿易與金融中心，很大程度依託傑貝阿里港的發展紅利。不過迪拜環球港務的佈局，契合阿聯酋政府一項更大規模戰略規劃：透過降低對霍爾木茲海峽的依賴，打造經濟防禦屏障，抵禦未來與伊朗爆發衝突帶來的衝擊。自美以發動打擊行動以來，伊朗多次動用無人機、導彈襲擊海峽商船，航運秩序持續受擾。
-
----
-
-### 2026-07-13 21:42:44  #MKT News
-
-Iran's Islamic Revolutionary Guard Corps said it will not allow the Strait of Hormuz to fall outside Iranian sovereign control, warned vessels that violate its authority will face decisive punishment, and said the US would be punished again if it seeks to entrench such breaches.
-
----
-
-### 2026-07-13 21:41:57  #其他
-
-美銀全球研究將 SAIA INC <SAIA.O>  評級從中性上調至買入；目標價從499美元上調至502美元。
-
----
-
-### 2026-07-13 21:41:37  #其他
-
-納斯達克100指數跌幅擴大至1.5%。
-
----
-
-### 2026-07-13 21:41:22  #其他
-
-【廣西再次預撥2億元保障防汛救災工作】記者從廣西壯族自治區財政廳獲悉，按照廣西壯族自治區黨委、政府工作部署，7月12日，自治區財政再次預撥2億元，重點支援災情較重的南寧、貴港兩市妥善安置受災群眾、保障群眾基本生活、開展受災地區搶修恢復等工作，幫助災區儘快恢復正常生產生活秩序。截至目前，自治區財政已累計預撥資金4.16億元，支援南寧、貴港、欽州、防城港等受災地區做好救災各項工作。據瞭解，下一步，廣西壯族自治區財政廳將會同自治區應急管理等部門加強救災資金保障和使用監管，全力支援抗洪救災和生產生活恢復各項工作，切實保障人民群眾生命財產安全。 (央視新聞)
-
----
-
-### 2026-07-13 21:40:49  #國際
-
-伊朗革命衛隊發言人：我們繼續維護對霍爾木茲海峽的管轄與控制權。
-
----
-
-### 2026-07-13 21:40:44  #Trading Economics #Markets #Switzerland #Currency #Importance 0
-
-Swiss Franc Edges Up — The Swiss franc rose above $0.809 while US-Iran tensions increase demand for safe-haven assets. US-Iran tensions remained elevated after Washington revoked the 60-day waiver allowing Iran to sell crude and ended the ceasefire. Conflicting statements over the Strait of Hormuz further heightened uncertainty, with President Donald Trump insisting the waterway remained open to commercial shipping while Tehran claimed it had closed the strait after intercepting two vessels it said were using an unauthorized route. As a result, oils prices surged although the US dollar remained stable. At the same time, concerns over supply disruptions and its impact on inflation boosted demand for safe-haven assets and strengthened the Swiss franc. The Swiss National Bank left its policy rate unchanged at 0% and reiterated its willingness to intervene in foreign exchange markets to curb excessive franc appreciation and imported inflation.
-
----
-
-### 2026-07-13 21:40:39  #其他
-
-市場訊息：迪拜計劃新建港口以繞開霍爾木茲海峽。
-
----
-
-### 2026-07-13 21:40:20  #市場
-
-諾基亞股價走低，最新下跌5%。
-
----
-
-### 2026-07-13 21:40:16  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
-
-Treasury Yields Rise — The yield on the US 10-year Treasury note rose toward 4.59% on Monday, extending Friday's gains to its highest level in nearly two months, while the two-year Treasury yield climbed to its highest level since early 2025. The US and Iran exchanged fresh military strikes, and conflicting reports persisted over whether the Strait of Hormuz remains open to shipping. The resulting rise in oil prices heightened concerns that renewed energy cost pressures could fuel inflation. Markets are also awaiting this week's US CPI and PPI reports for further insight into inflation trends, as well as Fed Chair Warsh's testimony before Congress for additional clues on the central bank's policy path. Traders are currently pricing in at least one Federal Reserve interest rate hike this year, with the probability of a September increase hovering around 71%.
-
----
-
-### 2026-07-13 21:40:09  #MKT News #Important #Brent #Impact bearish #WTI
-
-Financial Times reports Dubai plans to build a new port to bypass the Strait of Hormuz.
-
----
-
-### 2026-07-13 21:40:04  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.17% Higher — The Dow Jones Index is up by 88 points or 0.17 percent on Monday. Top gainers are Chevron (2.15%), Apple (2.06%) and IBM (1.85%). Biggest losses came from Cisco Systems (-2.31%), Boeing (-1.14%) and Caterpillar (-1.09%).
-
----
-
-### 2026-07-13 21:39:23  #國際
-
-伊朗革命衛隊發言人：美國干涉霍爾木茲海峽，嚴重危及全球油氣供應安全。
-
----
-
-### 2026-07-13 21:39:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran foreign ministry spokesman Baghaei vows revenge for slain Iranians】Iran foreign ministry spokesman Baghaei said on July 13 Tehran will avenge the slain Iranian Supreme Leader Ali Khamenei and all Iranians killed or wounded in US and Israeli attacks, calling revenge "a basic principle and a common public demand." He said the ministry is recording alleged crimes through international legal channels and seeking justice. Baghaei accused the US of pressuring Oman, saying a planned Iran‑Oman Strait of Hormuz joint management mechanism failed because of US pressure. After four rounds of US‑Iran exchanges last week, he warned Tehran will not hesitate to defend itself and that any foreign territory used to attack Iran will be included within the scope of its defensive strikes.
-
----
-
-### 2026-07-13 21:38:46  #其他
-
-訊息人士：裡海管道聯盟6月石油出口量較5月下降7%，至644.2萬噸。
-
----
-
-### 2026-07-13 21:38:03  #MKT News
-
-Sources: Caspian Pipeline Consortium June oil exports fell 7% MoM to 6.442 million tonnes.
-
----
-
-### 2026-07-13 21:36:54  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Intuit Stock Price Hits 4-week High — Intuit shares increased to 287.00 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 3.35%, and in the last 12 months, it decreased 61.73%.
-
----
-
-### 2026-07-13 21:36:45  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
-
-Swiss 10-Year Yield Rises to 1-Month High — Switzerland's 10-year government bond yield rose above 0.40%, reaching its highest level in a month after touching a nearly four-month low of 0.25% on June 26th, as escalating geopolitical tensions heightened concerns over oil supply disruptions and inflation risks. US-Iran tensions persisted after Washington revoked the 60-day waiver allowing Iran to sell crude and ended the ceasefire. Meanwhile, President Donald Trump said the Strait of Hormuz remained open to commercial shipping, while Tehran claimed it had closed the waterway after intercepting two vessels it said were using an unauthorized route, adding to uncertainty over global energy supplies and boosting safe-haven demand. The Swiss National Bank left its policy rate unchanged at 0% and reiterated its willingness to intervene in foreign exchange markets to curb excessive franc appreciation. Swiss inflation eased to 0.5% in June, the first slowdown in eight months, with the SNB forecasting 0.6% inflation in 2026.
-
----
-
-### 2026-07-13 21:36:44  #市場
-
-【蘋果股價升破6月初高點重新整理記錄新高 總市值報4.71萬億美元】在AI科技股下跌之際，蘋果股價上漲1.65%，報320.530美元/股，重新整理記錄新高，總市值報4.71萬億美元。
-
----
-
-### 2026-07-13 21:36:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Zelenskiy proposes 90-day extension of Ukraine martial law and mobilization to Oct. 31】On the 13th, Ukrainian President Zelenskiy submitted a bill to the Verkhovna Rada proposing a 90-day extension of martial law and mobilization through Oct. 31. Parliament is due to vote on the extension shortly; this is the 20th time the Rada has voted on extending martial law since the Russia-Ukraine conflict escalated in early 2022.
-
----
-
-### 2026-07-13 21:36:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Pull Back — US equity indices were mostly lower on Monday amid weakness for AI companies and more macroeconomic uncertainty. The S&P 500 dropped 0.3% and the Nasdaq 100 lost 1.3%. Chip producers were under fresh pressure to indicate persistent uncertainty on whether the sector will deliver the ambitious guidance that backed its speculative rally. SK Hynix ADRs were 8% down after surging 13% in its issue on Friday as a Korean broker stated it could miss its next earnings. Nvidia, AMD, and Intel fell over 1% while memory producers Sandisk and Micron lost more than 3%. Meanwhile, the Dow inched marginally higher despite the risk of higher interest rates. Strikes between the US and Iran continued to hamper energy exports out of the Middle East, risking inflation and lifting credit costs. Major banks were mixed ahead of their earnings reports tomorrow, with JPMorgan and Bank of America both hovering near the flatline. Still, Visa rose 1.5%, and J&J rose 0.5% ahead of its earnings Wednesday.
-
----
-
-### 2026-07-13 21:35:29  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Chevron Stock Price Hits 4-week High — Chevron shares increased to 180.78 USD, the highest since June 2026. Over the past 4 weeks, Chevron lost 3.08%, and in the last 12 months, it increased 15.96%.
-
----
-
-### 2026-07-13 21:35:25  #市場
-
-ROUNDHILL MEMORY ETF 下跌8.6%。
-
----
-
-### 2026-07-13 21:35:20  #市場 #焦點
-
-納斯達克中國金龍指數漲超1%，貝殼漲3.47%，網易漲3.17%，蔚來漲2.93%，京東漲3.12%，好未來漲2.47%。
-
----
-
-### 2026-07-13 21:35:15  #MKT News
-
-【IRGC says it will inflict unprecedented humiliation on US】The Islamic Revolutionary Guard Corps said that, as it downgraded the US's ostensible objective at the start of US aggression to "reopening the Strait of Hormuz", it will respond to new hostile US actions by shaming and frustrating the US more than before and inflicting unprecedented humiliation.
-
----
-
-### 2026-07-13 21:34:49  #Trading Economics #Markets #United States #stocks #Importance 1
-
-ConocoPhillips Stock Price Hits 4-week High — ConocoPhillips shares increased to 111.97 USD, the highest since June 2026. Over the past 4 weeks, ConocoPhillips lost 0.49%, and in the last 12 months, it increased 18.63%.
-
----
-
-### 2026-07-13 21:33:09  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Oracle Stock Price Hits 13-week Low — Oracle shares decreased to 137.53 USD, the lowest since April 2026. Over the past 4 weeks, Oracle lost 28.24%, and in the last 12 months, it decreased 39.71%.
 
 ---

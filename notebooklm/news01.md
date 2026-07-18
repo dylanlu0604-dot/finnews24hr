@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-18 18:02:31_
-_本檔包含 3616 則快訊，約 721025 字_
+_更新時間：2026-07-18 19:13:11_
+_本檔包含 3585 則快訊，約 721201 字_
+
+---
+
+### 2026-07-18 19:12:11  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index
+
+【Kevin Kelly: Token-cost focus would favor Chinese open-source AI models】At the World Artificial Intelligence Conference on July 18, 2026, futurist Kevin Kelly said if token (inference) costs become a primary concern, Chinese open-source models would gain an advantage. He warned that while token costs are mostly ignored today, persistent high token consumption will make cost critical; a model delivering inference at one-tenth the cost of Anthropic would be disruptive. Kelly added open-source ecosystems still need sizable funding to operate because they are less commercially profitable than closed-source models and building large models requires massive capital.
+
+---
+
+### 2026-07-18 19:08:48  #觀點
+
+【凱文·凱利：如果未來Token成本至關重要，中國開源模型就非常有優勢】7月18日，在2026世界人工智慧大會現場，著名未來學家、“矽谷精神之父”凱文·凱利在接受媒體採訪時表示，如果有一天大家都開始在意Token（詞元）成本，但因為有開源模型的存在，對於中國AI就是個優勢。凱文·凱利認為，中國的開源模型是個很棒的嘗試，“看到中國朝這個方向（發展），我很高興。”凱文·凱利提到，Token（詞元）消耗成本變得越來越重要，而目前大家似乎並不在意成本，“但我認為，當我們無時無刻都在消耗如此龐大的Token時，大家就會變得在意（成本），如果你能提供只有Anthropic十分之一的成本，那麼就會顛覆局面。”不過，凱文·凱利也提醒到，開源模式需要足夠的資金來維持運轉，因為不像閉源模式那麼賺錢，“打造這些大模型需要龐大的資金。”“我現在不知道大家在不在乎成本……如果（未來）大家不願多付錢，Token成本高低變得很關鍵，那麼因為中國有開源模型，很多都會流向中國。”凱文·凱利說道。（澎湃新聞）
+
+---
+
+### 2026-07-18 19:07:43  #MKT News #WTI #Impact bullish #Brent
+
+Kuwait's Ministry of Defense said agencies are fighting fires and carrying out repairs after intercepting a hostile attack; several firefighters and oil-sector workers were injured, and shrapnel struck some sites and residential areas, causing property damage but no fatalities.
+
+---
+
+### 2026-07-18 19:06:00  #MKT News #WTI #Impact bearish #Brent
+
+Iraq's president condemned attacks on Erbil and Sulaymaniyah as violations of sovereignty, said Iraq will not be a theatre for conflict or retaliation, and called for relations based on mutual respect.
+
+---
+
+### 2026-07-18 19:04:54  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwait's defense ministry said that since early today its forces detected hostile ballistic missiles and drones in Kuwaiti airspace and have intercepted and dealt with them. The ministry said Iran's attacks continued to strike multiple military and security sites and several critical infrastructure and civilian facilities, hitting oil and power-sector installations and causing fires and severe damage.
+
+---
+
+### 2026-07-18 19:00:08  #MKT News #AVNT.O #Impact bullish #LHX.O #LMT.O
+
+Ukraine's Defense Ministry said the military signed roughly $7.5 billion of drone contracts in 1H2026, about double last year's total, with FPV drones accounting for the largest share.
+
+---
+
+### 2026-07-18 18:58:42  #MKT News
+
+【Shanghai releases first difficult-case AI diagnostic evaluation benchmark】July 18, 2026 — At the medical forum of the World Artificial Intelligence Conference in Shanghai's Xuhui West Bund, Shanghai issued the industry's first evaluation benchmark for AI diagnosis of difficult clinical cases covering 30 clinical specialties to assess large medical models' ability to handle complex cases. The city's medical AI evaluation framework was upgraded to version 5.0, adding an 'atomic skills' assessment intended to detect and correct AI-generated false information.
+
+---
+
+### 2026-07-18 18:57:45  #其他
+
+【上海釋出首個疑難病例AI診療評測基準】7月18日，2026世界人工智慧大會醫學分論壇在上海徐匯西岸舉行。論壇上，上海釋出了業界首個針對疑難病例的AI診療評測基準，覆蓋30個臨床專科，專門用於檢驗醫療大模型處理複雜病例的真實能力。同時，原有的醫療AI評測體系也更新到5.0版本，新增“原子技能”評測方式，可對AI模型生成的虛假資訊進行校正。在基礎設施方面，上海市衛生健康行業算力服務中心正式揭牌，打通了從算力供給、資料合成到模型訓練、智慧應用的全鏈條。預計到2026年底，上海醫療健康語料庫規模將超過2PB，資料準備週期可縮短超六成。論壇還發布了《2026人工智慧+衛生健康上海實踐》案例集，梳理了AI在臨床輔助決策、患者就醫、中醫智慧化、基層公共衛生、醫院管理等七大場景的應用經驗。目前，上海已獲批國家醫療領域人工智慧應用中試基地，覆蓋全部七大醫療應用場景。（央視新聞）
+
+---
+
+### 2026-07-18 18:57:04  #MKT News
+
+CENC reported a magnitude 5.3 earthquake at 18:36 on July 18 in Tajikistan (37.70°N, 72.55°E); hypocenter depth 140 km.
+
+---
+
+### 2026-07-18 18:56:54  #MKT News #XAUUSD #Impact bearish #DXY #WTI
+
+ILNA: Lebanese parliament speaker said the immediate priority is a full Israeli troop withdrawal from Lebanese territory and an end to the occupation.
+
+---
+
+### 2026-07-18 18:55:43  #其他
+
+中國地震臺網正式測定：07月18日18時36分在塔吉克（北緯37.70度，東經72.55度）發生5.3級地震，震源深度140千米。
+
+---
+
+### 2026-07-18 18:54:16  #其他
+
+【廣西水利廳和廣西氣象局聯合釋出山洪災害氣象預警】廣西水利廳和廣西氣象局於7月18日16時聯合釋出山洪災害氣象預警：預計，7月18日20時至7月19日20時，百色市田林縣發生山洪災害可能性很大（紅色預警）；百色市凌雲縣可能發生山洪災害（藍色預警）。
+
+---
+
+### 2026-07-18 18:50:44  #國際
+
+【美媒體人批美國被以色列牽著鼻子走】在7月17日公佈的影片採訪中，美國媒體人塔克·卡爾森表示，過去幾十年，自己一直公開為共和黨人辯護，但他現在已經被迫被推到了反對共和黨人的立場上。他對特朗普允許美國政府被以色列這個中東小國“牽著鼻子走”，讓美國被迫捲入與伊朗的戰爭而感到“憤慨”。卡爾森還說，他在美以聯合打擊伊朗之後與特朗普曾約定會面，但他並沒有赴約，並在特朗普打來的電話中，與特朗普進行了“激烈對話”，他直接告訴特朗普“你是美國總統，你不能允許這樣的事發生”。 （CCTV國際時訊）
+
+---
+
+### 2026-07-18 18:49:23  #公司 #國際
+
+【沃爾沃CEO駁斥納瓦羅涉華言論：中國車企之所以成功 是依靠行之有效的戰略】沃爾沃汽車集團執行長漢肯·塞繆爾森（Håkan Samuelsson）近日公開反駁美國白宮貿易和製造業高階顧問納瓦羅對中國汽車製造商的指責。塞繆爾森稱，中國車企之所以成功是依靠行之有效的戰略，而非所謂不公平競爭。報道稱，針對納瓦羅所謂中國車企正“掠奪全球汽車市場”的說法，塞繆爾森在沃爾沃汽車17日公佈第二季度業績後接受採訪時表示：“我們正處於一個全新的競爭格局中，必須尊重那些在電動汽車領域取得成功的企業”。“中國製造商做對了很多事情，”塞繆爾森補充說，他們在電池、軟體以及更廣泛的汽車產業價值鏈方面實現了高度垂直整合，“你必須把他們列入新一代行業領軍企業的名單，與那些傳統領軍企業並駕齊驅”。 (環球網)
+
+---
+
+### 2026-07-18 18:48:09  #其他
+
+【華為雲聯合頭部金融機構和行業夥伴 共建開放智慧體生態】7月18日，2026世界人工智慧大會（WAIC）期間，華為雲中國工商銀行、中國銀聯、中國郵政儲蓄銀行等金融客戶與夥伴，宣佈開啟共建行業AI夢工廠·智慧金融專區，沉澱金融行業核心業務場景資產，加速金融智慧體規模落地。
+
+---
+
+### 2026-07-18 18:47:54  #國際
+
+阿聯酋外交部：強烈譴責伊朗對巴林、科威特和約旦再次發動的侵略性襲擊；重申阿聯酋與巴林、科威特和約旦的完全團結，並支援一切有助於維護其安全與穩定的舉措。
+
+---
+
+### 2026-07-18 18:46:52  #國際
+
+科威特外交部：我們譴責伊朗針對另一座發電站和海水淡化廠的侵略行為。反覆針對重要設施的行為顯示出一種侵略性做法，並違反了國際法。科威特保留採取措施維護自身安全、捍衛領土和重要設施的權利。
+
+---
+
+### 2026-07-18 18:45:09  #其他
+
+【任澤平團隊回應解散VIP群】近日，網紅經濟學任澤平再陷風波。本週中，任澤平團隊已解散VIP群聊。7月18日，記者從任澤平團隊助手處獲悉，解散群聊是因為“發現有人借我們的群傳送詐騙連結以及私自拉群發表違規資訊，為保障大家安全，所以不再透過群的方式進行資訊通知”。後續可以正常報課，會員權益也都正常交付。記者從多位VIP學員處瞭解到，解散群聊大概發生在15號，課程仍能正常交付。有學員透露，群聊解散後，每日更新觀點在另一個新的連結中釋出，但該網頁只顯示當天的內容而無此前觀點。原先圈子中的動態顯示已被刪除，但錄播課程仍然可以檢視。 第三方平臺資料顯示，僅今年開來以來，任澤平單平臺上的知識付費課程銷量就有2-10萬。其中，排名前五的課程均為這個收費2980的年度會員，頁面累計銷量超8800份。若按照商品標價計算，僅這項收入保守估計就已在2622萬元以上。目前該會員服務在微信小店等平臺仍可正常購買。（藍鯨新聞）
+
+---
+
+### 2026-07-18 18:45:06  #MKT News #EURUSD #Impact bearish #DXY #Impact bullish #DAX
+
+【Germany raises security alert to 'high threat level', interior minister says】Refinitiv: German Interior Minister Alexander Dobrindt told a Saturday newspaper interview that, citing a rise in reports and intelligence, Germany has raised its security alert from the prior 'abstract threat level' to a 'high threat level'. He said "this means in Germany we must be constantly vigilant to the risk of attacks" and added "attack plans targeting our country are clearly discernible." He cited risks to German infrastructure, individuals and institutions. The Interior Ministry did not immediately respond to requests for further details.
+
+---
+
+### 2026-07-18 18:42:24  #MKT News #Market Themes #AI Revolution
+
+【Shanghai Party Secretary Chen Jining meets Turing Award winner Richard Sutton; pledges to prioritize AI basic research, talent and governance hub】Shanghai Party Secretary Chen Jining met Turing Award winner and Openmind Institute chief scientist Richard Sutton at the 2026 World Artificial Intelligence Conference. Chen said AI is one of Shanghai’s three priority industries and pledged to strengthen basic research, cultivate and optimize the innovation ecosystem, accelerate construction of an AI development and governance innovation hub, and provide efficient, open services to support global scientists and talent. Sutton welcomed deeper cooperation on basic research and talent exchange with Shanghai.
+
+---
+
+### 2026-07-18 18:40:36  #其他
+
+【自然資源部與中國氣象局聯合釋出地質災害橙色預警】自然資源部與中國氣象局7月18日18時聯合釋出橙色地質災害氣象風險預警：2026年7月18日20時至19日20時，安徽西南部、湖北西南部和東部、湖南西部、廣西西北部、重慶東南部、貴州東部和南部、雲南西部和南部發生地質災害的風險較高（黃色預警）；重慶東南區域性發生地質災害的風險高（橙色預警）。
+
+---
+
+### 2026-07-18 18:39:48  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+UAE Foreign Ministry strongly condemned Iran's renewed aggressive attacks on Bahrain, Kuwait and Jordan.
+
+---
+
+### 2026-07-18 18:37:29  #其他
+
+【陳吉寧會見圖靈獎得主、Openmind研究院首席科學家理查德·薩頓】上海市委書記陳吉寧今天會見了來滬參加2026世界人工智慧大會暨人工智慧全球治理高階別會議的圖靈獎得主、Openmind研究院首席科學家理查德·薩頓一行。陳吉寧介紹了上海人工智慧發展相關情況。他說，習近平主席在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上發表主旨講話，就攜手構建公正合理的全球人工智慧治理體系提出4點意見，為我們更加健康、安全、有序發展人工智慧指明瞭方向。人工智慧是上海重點發展的三大先導產業之一，我們秉持以人為本、向上向善理念，保持戰略敏捷、堅持久久為功，著力加強基礎研究，培育最佳化創新生態，加快建設人工智慧發展和治理創新高地。薩頓先生是人工智慧領域知名學者，歡迎抓住難得的歷史性機遇，把自身研究優勢同上海的創新優勢、人才優勢、生態優勢等更加緊密結合起來，在加強基礎研究、人才交流培養等方面深化溝通對接和開放合作，讓人工智慧這一前沿技術更好造福人類社會。上海將持續營造開放包容的創新生態，提供高效便利的對接服務，更好支援全球科學家和各路人才在上海這座城市創新創業、成就夢想。理查德·薩頓表示，人工智慧建立在人類文明發展、人類持續學習基礎上，開源開放、合作共享、互利共贏是推動技術發展的重要前提。此次上海之行同各方面研究人員和研發機構開展了深度交流，充分感受到上海這座城市發展人工智慧的創新活力與優良生態。將秉持“理解智慧並與世界分享”宗旨，深化學術交流，加強經驗互鑑，促進國際合作，攜手探索人工智慧教育創新與基礎研究發展。 (上觀新聞)
+
+---
+
+### 2026-07-18 18:34:57  #國際
+
+【澤連斯基據悉考慮撤換烏軍總司令】據報道，烏克蘭總統澤連斯基正考慮撤換烏克蘭武裝部隊總司令亞歷山大·瑟爾斯基，目前外界對後者軍事領導能力的批評聲浪正日漸高漲。據悉，澤連斯基正在與高階軍事指揮官會面，評估戰場形勢並考察潛在的繼任者。雖然尚未做出最終決定，但據訊息人士稱，如果能找到合適的替代者確保平穩過渡，而不干擾烏軍在前線的防禦，澤連斯基願意撤換瑟爾斯基。
+
+---
+
+### 2026-07-18 18:30:03  #公司
+
+【中建西部建設與國電投貴州金元簽署戰略合作協議】7月17日，中建西部建設黨委書記、董事長章維成與國家電投集團貴州金元股份有限公司（簡稱“國電投貴州金元”）黨委書記、董事長朱仕祥在貴陽舉行會談，共同見證中建西部建設與國電投貴州金元簽署戰略合作協議，雙方圍繞落實國家“雙碳”戰略、新能源業務合作、固廢資源化利用等議題開展深度座談交流。雙方共同簽署戰略合作協議，將聚焦核心合作領域推動重點專案落地見效，攜手賦能高質量發展。
+
+---
+
+### 2026-07-18 18:22:10  #MKT News #300433.SZ #Impact bullish
+
+【Lens Technology unit and Shangwei New Materials agree first-phase 10,000-unit robot production-line cooperation】July 18, 2026 — Lens Technology’s unit Lens Intelligent Robotics (Changsha) and Shangwei New Materials signed a strategic cooperation to build a first-phase production line targeting a 10,000‑unit robot capacity. The agreement covers precision parts machining, joint-module manufacture and final assembly, and aims to deploy capacity and advance mass-production delivery.
+
+---
+
+### 2026-07-18 18:21:10  #公司
+
+【藍思科技子公司與上緯新材達成戰略合作】7月18日，2026世界人工智慧大會期間，藍思科技子公司藍思智慧機器人(長沙)有限公司與上緯新材正式簽約，達成首期規劃萬臺級機器人的產線合作。雙方將圍繞機器人精密零部件加工、關節模組生產、整機組裝等智造環節開展深度協同，穩步推進機器人產能落地與量產交付工作。藍思智慧將發揮從新材料、精密結構件到自動化系統整合的垂直研發優勢，依託集團覆蓋湖南、江蘇、廣東及東南亞等地的超級工廠叢集，以及長期服務消費電子與智慧汽車頭部客戶所積累的跨行業精密製造經驗與OEM、ODM、OAM服務模式，為機器人硬體的高精度、標準化量產提供成熟可靠的供應鏈底座。
+
+---
+
+### 2026-07-18 18:21:00  #國際
+
+市場訊息：澤連斯基考慮罷免烏克蘭武裝部隊總司令亞歷山大·瑟爾斯基。
+
+---
+
+### 2026-07-18 18:19:35  #其他
+
+【重慶彭水山體崩塌救援最新進展：已在生命跡象位置上方開口】今天上午10時50分許，重慶彭水山體崩塌救援現場發現生命跡象。目前，救援人員已在疑似生命跡象上方破開口子，陸續清理出各類生活用品。救援仍在謹慎推進中。（央視新聞）
+
+---
+
+### 2026-07-18 18:11:03  #MKT News #WTI #Impact bullish #Brent
+
+【Kuwait Oil Company says facility struck in Iranian attack; multiple casualties】Kuwait Oil Company said a key facility was struck repeatedly in attacks by Iranian forces, causing multiple casualties and significant damage. Injured personnel have received medical treatment and the site has been evacuated. KOC is coordinating with authorities. The statement did not identify the facility's location.
+
+---
+
+### 2026-07-18 18:10:50  #公司 #國際
+
+【科威特石油公司稱一設施遭伊朗襲擊致多人傷亡】科威特石油公司在一份通告上表示，一處“重要”設施遭到伊朗方面多次猛烈襲擊，造成多人傷亡和重大損失。目前傷者已接受醫療救助，該設施也已疏散人員。科威特石油公司正與相關部門協調應對此次襲擊。通告沒有提及遇襲設施的具體位置。（央視新聞）
+
+---
+
+### 2026-07-18 18:04:32  #MKT News #WTI #Impact bullish #Brent
+
+Kuwait Petroleum Corporation (KPC) told the Kuwait News Agency that an Iranian strike damaged an oil facility, injuring personnel and causing significant property damage.
+
+---
+
+### 2026-07-18 18:03:31  #MKT News
+
+Jordan's state news agency said it intercepted and shot down four unmanned aerial vehicles that entered Jordanian airspace.
+
+---
+
+### 2026-07-18 18:02:29  #公司
+
+科威特國家石油公司(KPC)稱襲擊造成人員受傷和重大財產損失。
+
+---
+
+### 2026-07-18 18:02:04  #公司 #國際
+
+科威特國家石油公司(KPC)稱，一處石油設施在伊朗襲擊中受損。
 
 ---
 
@@ -21492,403 +21702,5 @@ Netflix (NFLX.O) co-CEO says the company still has substantial room to grow in i
 ### 2026-07-17 04:51:04  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
 
 【Dollar index up 0.27% to 100.76 at New York close】Dollar index (DXY) rose 0.27% to 100.76 at the New York FX close. EUR/USD 1.14 (previous close 1.15); GBP/USD 1.35, slightly below the prior session's 1.35; USD/JPY 162.39 (162.05); USD/CHF 0.8089 (0.8047); USD/CAD 1.40, marginally above the prior session's 1.40; USD/SEK 9.65 (9.59).
-
----
-
-### 2026-07-17 04:50:08  #其他
-
-奈飛：圍繞我們的一系列目標取得強勁的進展。 目前僅開發了不足五成的潛在市場。
-
----
-
-### 2026-07-17 04:48:54  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-Iranian media reported U.S. forces attacked the railway hub at Abbas Port, injuring two people.
-
----
-
-### 2026-07-17 04:48:35  #MKT News
-
-Iran's Fars news agency reported a bridge in Bandar-e Khamir was hit in a suspected US military strike at about 23:00 local time (03:30 Beijing). The bridge links the Port of Abbas and Lar city.
-
----
-
-### 2026-07-17 04:47:58  #市場
-
-【美元指數16日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於100.76。 截至紐約匯市尾市，1歐元兌換1.14美元，低於前一交易日的1.15美元；1英鎊兌換1.35美元，低於前一交易日的1.35美元。 1美元兌換162.39日元，高於前一交易日的162.05日元；1美元兌換0.8089瑞士法郎，高於前一交易日的0.8047瑞士法郎；1美元兌換1.4加元，高於前一交易日的1.4加元；1美元兌換9.65瑞典克朗，高於前一交易日的9.59瑞典克朗。(新華社)
-
----
-
-### 2026-07-17 04:47:50  #焦點 #國際
-
-市場訊息：伊朗阿巴斯港鐵路樞紐站遭美軍襲擊，兩人受傷。
-
----
-
-### 2026-07-17 04:42:59  #其他
-
-【國家統計局：2026年上半年社會商品和服務零售總額同比增長2.7%】國家統計局資料顯示，2026年上半年社會商品和服務零售總額同比增長2.7%，居民消費支出同步改善，上半年全國居民人均消費支出14836元，名義同比增長3.7%。在商品零售的幾個大類中，比如家電、手機、汽車、裝修，國家都給予了專項消費補貼。購物前，先問一句“有國補嗎？”，已經成為中國消費者的口頭禪。（央視新聞）
-
----
-
-### 2026-07-17 04:38:46  #國際
-
-市場訊息：特朗普準備在演講中談及委內瑞拉大選相關事宜。
-
----
-
-### 2026-07-17 04:35:44  #其他
-
-委內瑞拉臨時總統羅德里格斯：委內瑞拉目前正在磋商 30 項能源合作協議，尚不確定她是否會參選委內瑞拉大選。
-
----
-
-### 2026-07-17 04:35:18  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index decreased 105 points or 0.20 percent on Thursday to close at 52554 points. The decline was led by Goldman Sachs (-5.02%), Alphabet (-4.64%) and Caterpillar (-4.15%). On the upside, the strongest performers were Nike (4.04%), IBM (3.90%) and Salesforce (3.36%).
-
----
-
-### 2026-07-17 04:34:51  #國際
-
-美國國家颶風中心（NHC）：颶風埃莉達強度小幅增強，預計於今晚至週五轉向西北方向移動。
-
----
-
-### 2026-07-17 04:32:54  #MKT News
-
-Brazil Trade Minister Rosa said the US has asked Brazil to restrict investment by countries that "do not abide by market rules" on rare earths, but Brazil will not accept the demand.
-
----
-
-### 2026-07-17 04:31:21  #央行 #市場 #國際
-
-美國至7月10日當週外國央行持有美國國債 6.39億美元，前值-286.05億美元。
-
----
-
-### 2026-07-17 04:31:13  #MKT News
-
-Foreign central banks' holdings of US Treasuries rose by $639 mln in the week to July 10, versus a -$28.605 bln change the prior week.
-
----
-
-### 2026-07-17 04:30:50  #MKT News #Economic Calendar #Important
-
-United States | US Treasuries held by Foreign Central Banks (Jul.10) | actual 639000000B | previous -28605000000B
-
----
-
-### 2026-07-17 04:30:24  #Trading Economics #Markets #Brazil #Currency #Importance 1
-
-Brazilian Real Weakens on US Tariffs — The Brazilian real weakened slightly to 5.09 per USD in mid-July from 5.07 earlier in the month after the US announced a new 25% tariff on Brazilian imports, effective July 22th. The measure is expected to reduce dollar inflows into Brazil by weighing on exports to the US, potentially weakening the country's trade surplus and slowing the recent appreciation of the real. A decline in export revenues could put upward pressure on the exchange rate in the coming months, particularly if markets revise down Brazil's trade balance outlook or reassess the country's risk profile. Meanwhile, lingering geopolitical risks in the Middle East and expectations that the Federal Reserve could keep interest rates higher for longer continued to limit gains in the Brazilian currency.
-
----
-
-### 2026-07-17 04:29:45  #MKT News #WTI #Impact bearish #Brent
-
-Interim president RODRIGUEZ said Venezuela's oil production is expected to reach 1.4 mln b/d by year-end.
-
----
-
-### 2026-07-17 04:28:22  #公司
-
-加拿大國家鐵路公司：現有證據表明，7 月 5 日列車脫軌事故由鐵軌熱脹變形錯位導致。公司認為此次列車脫軌事故並非由行駛速度、列車排程及機械故障引發。
-
----
-
-### 2026-07-17 04:25:01  #宏觀
-
-巴西財政部長：巴西不會向外國利益屈服，將持續捍衛 PIX 支付系統這一金融主權最核心象徵。
-
----
-
-### 2026-07-17 04:24:47  #MKT News
-
-US Treasury Secretary Bessent met with the Iraqi prime minister on Tuesday.
-
----
-
-### 2026-07-17 04:23:14  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Finish in the Red — US stocks closed lower on Thursday, as weakness in the semiconductor sector and geopolitical risks overshadowed solid corporate results. The S&P 500 dropped 0.5% and the Nasdaq 100 lost 1.5%, while the Dow fell 0.2%. Investors are increasingly questioning whether current valuations of AI-driven chipmakers still justify the highly optimistic growth expectations surrounding the industry. Micron Technology and AMD tumbled more than 5% each. SanDisk slipped over 12% and Broadcom shed about 5%, while US-listed shares of SK Hynix plunged more than 13%. The selling spread across Big Tech, with Alphabet falling over 4% amid reports that it had postponed the release of its most advanced AI model, Gemini 3.5 Pro. Meta Platforms, Nvidia, and Amazon also posted losses. Meanwhile, UnitedHealth topped earnings estimates and issued a stronger-than-expected 2026 earnings outlook. Netflix posted quarterly revenue of $12.56 billion, a 13% increase from a year earlier, just shy of estimates.
-
----
-
-### 2026-07-17 04:23:12  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iranian media outlet Fars News reported the US struck a bridge in the Iranian port city of Hamir.
-
----
-
-### 2026-07-17 04:21:14  #其他
-
-委內瑞拉官員：預計石油產量到年底將達140萬桶/日。
-
----
-
-### 2026-07-17 04:21:01  #公司 #市場
-
-受財報影響，奈飛美股盤後跌超8%。
-
----
-
-### 2026-07-17 04:19:00  #國際
-
-【美軍打擊伊朗多地 已致7人受傷】當地時間16日晚獲悉，美軍打擊伊朗多地，已造成7人受傷。伊朗南部阿巴斯港遭到美軍襲擊。據悉，此次襲擊規模較大，目前已導致阿巴斯港部分地區停電。此次襲擊命中的目標是一座通訊塔。美軍還對阿巴斯港一居民區發動襲擊，造成7人受傷，當地醫院正在開展傷員救治工作。此外，美軍戰機飛越伊朗南部格什姆島上空，當地一個村莊傳出8次爆炸聲。美軍戰機還對位於伊朗東南部錫斯坦－俾路支斯坦省的伊朗沙赫爾機場發動了導彈襲擊。據悉，當地居民聽到機場附近傳出3次劇烈爆炸聲。目前，尚不清楚襲擊造成的損失程度，但部署在當地的武裝部隊負責人已抵達現場。（央視新聞）
-
----
-
-### 2026-07-17 04:18:18  #宏觀
-
-巴西財政部長：巴西的經濟政策服務本國民眾，而非取悅他國官員。
-
----
-
-### 2026-07-17 04:16:59  #其他
-
-可口可樂：正聯合外部顧問持續調查 Fairlife 系統遭攻擊事件。
-
----
-
-### 2026-07-17 04:16:17  #其他
-
-可口可樂：旗下 Fairlife 業務系統在勒索軟體攻擊事件中遭非法入侵，產品質量與安全未受影響。
-
----
-
-### 2026-07-17 04:15:38  #Trading Economics #Markets #Sweden #Earnings #Importance 0
-
-Atlas Copco earnings in line with market expectations at 1.45 SEK — Atlas Copco (ATCOA) released earnings per share at 1.45 SEK, in line with market expectations.
-
----
-
-### 2026-07-17 04:12:03  #國際
-
-伊朗法爾斯通訊社：美國發動襲擊，打擊了哈姆爾港一處橋樑。
-
----
-
-### 2026-07-17 04:10:39  #國際
-
-美國鋁業二季度銷售39.7億美元，分析師預期40.2億美元。
-維持全年鋁產量預期在240萬-260萬噸不變。
-維持全年鋁發貨量預期在260萬-280萬噸不變。
-
----
-
-### 2026-07-17 04:10:34  #宏觀 #國際
-
-美國財政部長週二與伊拉克總理通話。
-
----
-
-### 2026-07-17 04:09:37  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Intuitive Surgical earnings above expectations at 2.80 USD — Intuitive Surgical (ISRG) released earnings per share at 2.80 USD, compared to market expectations of 2.51 USD.
-
----
-
-### 2026-07-17 04:08:59  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Tasnim News Agency reported US fighter jets launched a missile strike on Iran's Shahr Airport.
-
----
-
-### 2026-07-17 04:08:20  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【Oil edges lower on Aug/Sept futures】NYMEX light sweet crude for August delivery fell $0.65 to settle at $78.95/bbl, down 0.82%. ICE Brent for September delivery fell $0.72 to settle at $84.23/bbl, down 0.85%.
-
----
-
-### 2026-07-17 04:07:42  #國際
-
-市場訊息：美軍戰鬥機對伊朗沙赫爾機場發動了導彈襲擊。
-
----
-
-### 2026-07-17 04:07:18  #市場
-
-【國際油價16日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌65美分，收於每桶78.95美元，跌幅為0.82%；9月交貨的倫敦布倫特原油期貨價格下跌72美分，收於每桶84.23美元，跌幅為0.85%。
-
----
-
-### 2026-07-17 04:06:49  #國際
-
-美國宣佈針對恐怖分子的簽證限制政策。
-
----
-
-### 2026-07-17 04:06:23  #市場 #國際
-
-SpaceX收跌3.1%，報131.11美元，美國IPO以來首次收盤破發。
-
----
-
-### 2026-07-17 04:05:50  #MKT News #NFLX.O #Impact bearish
-
-Netflix (NFLX.O) fell more than 4% in after-hours trading following its earnings report.
-
----
-
-### 2026-07-17 04:05:45  #MKT News #Market Regions #Wall Street (US) #Dow #Impact bearish #S&P500 #Nasdaq100
-
-At the close on July 16, the Dow Jones Industrial Average fell 105.14 points (-0.20%) to 52,553.50; the S&P 500 fell 38.54 points (-0.51%) to 7,533.86; the Nasdaq Composite fell 387.28 points (-1.47%) to 25,881.95.
-
----
-
-### 2026-07-17 04:05:38  #MKT News #SPCX.O #Impact bearish
-
-SpaceX (SPCX.O) closed below its IPO issue price for the first time, at $131.11.
-
----
-
-### 2026-07-17 04:05:26  #MKT News #NFLX.O #Impact bearish
-
-Netflix (NFLX.O) said it expects third-quarter EPS of $0.82 versus a $0.84 market consensus, and forecasts Q3 revenue of $12.86 bln versus a $13.01 bln consensus.
-
----
-
-### 2026-07-17 04:04:37  #Trading Economics #Economy #Brazil #Government Bond 10Y #Importance 1
-
-Brazil Yields Rise on New US Tariffs — Brazil's 10-year government bond yield rose to 14.54% in mid-July from 14.43% earlier in the month after the US announced a new 25% tariff on Brazilian imports, effective July 22th. The move fueled concerns that trade tensions could weigh on economic growth, raise uncertainty, and pressure Brazil's fiscal and inflation outlook, prompting investors to demand higher yields. The increase also came amid persistent external risks, including geopolitical tensions and volatility in international oil prices. Meanwhile, the BCB raised its inflation forecast for the fourth quarter of 2027 to 3.7% from 3.5% and highlighted new upside risks, including climate-related pressures on food and energy prices and fiscal stimulus measures that could strengthen domestic demand. At the same time, a rebound in US Treasury yields supported global bond markets.
-
----
-
-### 2026-07-17 04:03:42  #MKT News #NFLX.O
-
-Netflix (NFLX.O) sees FY2026 revenue $51.0–51.4 bln, versus market consensus $51.41 bln.
-
----
-
-### 2026-07-17 04:03:35  #Trading Economics #Markets #United States #Earnings #Importance 0
-
-Netflix earnings above expectations at 0.80 USD — Netflix (NFLX) released earnings per share at 0.80 USD, compared to market expectations of 0.79 USD.
-
----
-
-### 2026-07-17 04:03:20  #其他
-
-行業機構北美可可協會（NCA）表示，北美地區第二季度可可研磨量同比增長 7.65%，達 109659 公噸。
-
----
-
-### 2026-07-17 04:03:07  #MKT News #Important #NFLX.O #Impact bearish
-
-Netflix (NFLX.O) reported Q2 revenue of $12.56 bln, versus $12.59 bln expected.
-
----
-
-### 2026-07-17 04:02:47  #國際
-
-美國財長貝森特強調與伊拉克協同行動以制衡伊朗。
-
----
-
-### 2026-07-17 04:01:57  #其他
-
-奈飛：維持 2026 財年營業利潤率 31.5% 的預期不變。
-
----
-
-### 2026-07-17 04:01:43  #MKT News #Important
-
-【US close: major indexes down; SK Hynix ADR falls 13.6%】US stocks closed lower on Thursday: the Nasdaq Composite fell 1.47%, the Dow Jones Industrial Average fell 0.2% and the S&P 500 fell 0.5%. SK Hynix ADR (SKHY.O) dropped 13.6%, SanDisk (SNDK.O) fell 12.6%, Micron Technology (MU.O) fell 5.6%, Google (GOOG.O) fell more than 4% and NVIDIA (NVDA.O) fell more than 2%. The Nasdaq Golden Dragon China Index rose 1.8%; Tencent Music (TME.N) gained 4%.
-
----
-
-### 2026-07-17 04:01:40  #其他
-
-奈飛預計三季度每股收益（EPS）為0.82美元，分析師預期0.84美元。
-
----
-
-### 2026-07-17 04:01:04  #市場
-
-ALPHABET股價下跌4.4%，市值蒸發2000億美元。
-
----
-
-### 2026-07-17 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收跌】道指跌0.20%，標普500指數跌0.51%，納指跌1.46%。閃迪跌12.63%，希捷跌10.00%，西部資料跌9.25%，康寧跌9.20%。“七姐妹”方面：蘋果漲1.73%，微軟漲1.37%，特斯拉跌0.88%，亞馬遜跌1.98%，英偉達跌2.39%，Meta Platforms跌2.47%，谷歌跌4.43%。
-
----
-
-### 2026-07-17 04:00:11  #宏觀 #國際
-
-巴西外長：針對受美國關稅影響的行業，巴西將出臺並公佈相關應對措施。
-
----
-
-### 2026-07-17 04:00:05  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Visa Stock Price Hits 13-month High — Visa shares increased to 365.14 USD, the highest since June 2025. Over the past 4 weeks, Visa gained 10.31%, and in the last 12 months, it increased 4.18%.
-
----
-
-### 2026-07-17 04:00:01  #市場 #焦點
-
-【納斯達克中國金龍指數收漲1.79%】盛豐物流漲13.77%，愛奇藝漲4.62%，小牛電動漲4.96%，康迪車業漲4.51%，樂信漲4.79%。
-
----
-
-### 2026-07-17 03:59:54  #國際
-
-巴西外長：盧拉一直希望與美國展開談判。
-
----
-
-### 2026-07-17 03:59:03  #MKT News #Brent #Impact bullish #WTI #DXY
-
-Iranian media reported that after U.S. airstrikes on Qeshm Island, eight additional explosions were heard near Massan village.
-
----
-
-### 2026-07-17 03:56:42  #MKT News
-
-Brazilian Vice President ALCKMIN said the government will decide at an appropriate time how to apply the reciprocity law approved by Congress.
-
----
-
-### 2026-07-17 03:56:26  #其他
-
-巴西副總統：政府將擇機決定如何適用國會透過的對等貿易法案。
-
----
-
-### 2026-07-17 03:55:37  #MKT News
-
-Brazil Vice‑President Alckmin said U.S. tariffs are unfair and unreasonable, that Brazil runs a trade surplus with the U.S., Brazil's average tariff on U.S. goods is 3.1% and 75% of U.S. exports to Brazil face zero tariffs. He said U.S. positions in the Section 301 investigation lack a factual basis.
-
----
-
-### 2026-07-17 03:54:55  #國際
-
-美國海軍：白宮直升機坪將改造，避免直升機灼燒草坪。
-
----
-
-### 2026-07-17 03:54:25  #國際
-
-巴西副總統：美國依據 301 條款調查提出的相關指控缺乏事實依據。
-
----
-
-### 2026-07-17 03:54:00  #國際
-
-【伊媒：伊朗布什爾市傳出爆炸聲】據伊朗邁赫爾通訊社16日報道，伊朗西南部布什爾市傳出兩聲爆炸聲，當地政府認為爆炸聲系美軍行動所致。（新華社）
-
----
-
-### 2026-07-17 03:53:37  #國際
-
-巴西副總統：巴西對美商品平均關稅僅 3.1%，美國銷往巴西的產品中有 75% 享受零關稅。
-
----
-
-### 2026-07-17 03:53:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Explosions heard in Iran's Bushehr; local authorities attribute to U.S. military action】Two explosions were heard in Bushehr, southwestern Iran, on the 16th. Local authorities said the blasts were caused by U.S. military action.
 
 ---

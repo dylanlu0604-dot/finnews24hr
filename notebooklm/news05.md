@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-18 18:02:31_
-_本檔包含 3534 則快訊，約 720710 字_
+_更新時間：2026-07-18 19:13:11_
+_本檔包含 3523 則快訊，約 720312 字_
+
+---
+
+### 2026-07-13 21:43:03  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Stryker Stock Price Hits 11-week High — Stryker shares increased to 334.88 USD, the highest since April 2026. Over the past 4 weeks, Stryker gained 9.19%, and in the last 12 months, it decreased 14.31%.
+
+---
+
+### 2026-07-13 21:42:55  #公司 #國際
+
+【迪拜環球港務擬建東海岸新港 擺脫霍爾木茲海峽航運制約】迪拜環球港務集團（DP World）計劃在阿聯酋東海岸新建一座港口與集裝箱碼頭，此舉將降低迪拜對旗艦傑貝阿里港樞紐的依賴，實現繞開霍爾木茲海峽開展貨運。知情人士透露，這家總部位於迪拜的港口運營商正洽談在富查伊拉沿海區域新建一座綜合性多用途港口，並在當地現有港區擴建一座全新集裝箱碼頭。過去二十年間，迪拜環球港務成長為阿聯酋國際化佈局最廣的企業之一，在全球搭建起港口物流產業版圖，但傑貝阿里港始終是集團乃至迪拜最核心的王牌資產。將部分港口運力外遷到迪拜以外地區，對迪拜酋長國而言是顛覆性轉變。迪拜能成長為全球貿易與金融中心，很大程度依託傑貝阿里港的發展紅利。不過迪拜環球港務的佈局，契合阿聯酋政府一項更大規模戰略規劃：透過降低對霍爾木茲海峽的依賴，打造經濟防禦屏障，抵禦未來與伊朗爆發衝突帶來的衝擊。自美以發動打擊行動以來，伊朗多次動用無人機、導彈襲擊海峽商船，航運秩序持續受擾。
+
+---
+
+### 2026-07-13 21:42:44  #MKT News
+
+Iran's Islamic Revolutionary Guard Corps said it will not allow the Strait of Hormuz to fall outside Iranian sovereign control, warned vessels that violate its authority will face decisive punishment, and said the US would be punished again if it seeks to entrench such breaches.
+
+---
+
+### 2026-07-13 21:41:57  #其他
+
+美銀全球研究將 SAIA INC <SAIA.O>  評級從中性上調至買入；目標價從499美元上調至502美元。
+
+---
+
+### 2026-07-13 21:41:37  #其他
+
+納斯達克100指數跌幅擴大至1.5%。
+
+---
+
+### 2026-07-13 21:41:22  #其他
+
+【廣西再次預撥2億元保障防汛救災工作】記者從廣西壯族自治區財政廳獲悉，按照廣西壯族自治區黨委、政府工作部署，7月12日，自治區財政再次預撥2億元，重點支援災情較重的南寧、貴港兩市妥善安置受災群眾、保障群眾基本生活、開展受災地區搶修恢復等工作，幫助災區儘快恢復正常生產生活秩序。截至目前，自治區財政已累計預撥資金4.16億元，支援南寧、貴港、欽州、防城港等受災地區做好救災各項工作。據瞭解，下一步，廣西壯族自治區財政廳將會同自治區應急管理等部門加強救災資金保障和使用監管，全力支援抗洪救災和生產生活恢復各項工作，切實保障人民群眾生命財產安全。 (央視新聞)
+
+---
+
+### 2026-07-13 21:40:49  #國際
+
+伊朗革命衛隊發言人：我們繼續維護對霍爾木茲海峽的管轄與控制權。
+
+---
+
+### 2026-07-13 21:40:44  #Trading Economics #Markets #Switzerland #Currency #Importance 0
+
+Swiss Franc Edges Up — The Swiss franc rose above $0.809 while US-Iran tensions increase demand for safe-haven assets. US-Iran tensions remained elevated after Washington revoked the 60-day waiver allowing Iran to sell crude and ended the ceasefire. Conflicting statements over the Strait of Hormuz further heightened uncertainty, with President Donald Trump insisting the waterway remained open to commercial shipping while Tehran claimed it had closed the strait after intercepting two vessels it said were using an unauthorized route. As a result, oils prices surged although the US dollar remained stable. At the same time, concerns over supply disruptions and its impact on inflation boosted demand for safe-haven assets and strengthened the Swiss franc. The Swiss National Bank left its policy rate unchanged at 0% and reiterated its willingness to intervene in foreign exchange markets to curb excessive franc appreciation and imported inflation.
+
+---
+
+### 2026-07-13 21:40:39  #其他
+
+市場訊息：迪拜計劃新建港口以繞開霍爾木茲海峽。
+
+---
+
+### 2026-07-13 21:40:20  #市場
+
+諾基亞股價走低，最新下跌5%。
+
+---
+
+### 2026-07-13 21:40:16  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+Treasury Yields Rise — The yield on the US 10-year Treasury note rose toward 4.59% on Monday, extending Friday's gains to its highest level in nearly two months, while the two-year Treasury yield climbed to its highest level since early 2025. The US and Iran exchanged fresh military strikes, and conflicting reports persisted over whether the Strait of Hormuz remains open to shipping. The resulting rise in oil prices heightened concerns that renewed energy cost pressures could fuel inflation. Markets are also awaiting this week's US CPI and PPI reports for further insight into inflation trends, as well as Fed Chair Warsh's testimony before Congress for additional clues on the central bank's policy path. Traders are currently pricing in at least one Federal Reserve interest rate hike this year, with the probability of a September increase hovering around 71%.
+
+---
+
+### 2026-07-13 21:40:09  #MKT News #Important #Brent #Impact bearish #WTI
+
+Financial Times reports Dubai plans to build a new port to bypass the Strait of Hormuz.
+
+---
+
+### 2026-07-13 21:40:04  #Trading Economics #Markets #United States #Stock Market #Importance 1
+
+The Dow Jones Index Opens 0.17% Higher — The Dow Jones Index is up by 88 points or 0.17 percent on Monday. Top gainers are Chevron (2.15%), Apple (2.06%) and IBM (1.85%). Biggest losses came from Cisco Systems (-2.31%), Boeing (-1.14%) and Caterpillar (-1.09%).
+
+---
+
+### 2026-07-13 21:39:23  #國際
+
+伊朗革命衛隊發言人：美國干涉霍爾木茲海峽，嚴重危及全球油氣供應安全。
+
+---
+
+### 2026-07-13 21:39:03  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Iran foreign ministry spokesman Baghaei vows revenge for slain Iranians】Iran foreign ministry spokesman Baghaei said on July 13 Tehran will avenge the slain Iranian Supreme Leader Ali Khamenei and all Iranians killed or wounded in US and Israeli attacks, calling revenge "a basic principle and a common public demand." He said the ministry is recording alleged crimes through international legal channels and seeking justice. Baghaei accused the US of pressuring Oman, saying a planned Iran‑Oman Strait of Hormuz joint management mechanism failed because of US pressure. After four rounds of US‑Iran exchanges last week, he warned Tehran will not hesitate to defend itself and that any foreign territory used to attack Iran will be included within the scope of its defensive strikes.
+
+---
+
+### 2026-07-13 21:38:46  #其他
+
+訊息人士：裡海管道聯盟6月石油出口量較5月下降7%，至644.2萬噸。
+
+---
+
+### 2026-07-13 21:38:03  #MKT News
+
+Sources: Caspian Pipeline Consortium June oil exports fell 7% MoM to 6.442 million tonnes.
+
+---
+
+### 2026-07-13 21:36:54  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Intuit Stock Price Hits 4-week High — Intuit shares increased to 287.00 USD, the highest since June 2026. Over the past 4 weeks, Intuit gained 3.35%, and in the last 12 months, it decreased 61.73%.
+
+---
+
+### 2026-07-13 21:36:45  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
+
+Swiss 10-Year Yield Rises to 1-Month High — Switzerland's 10-year government bond yield rose above 0.40%, reaching its highest level in a month after touching a nearly four-month low of 0.25% on June 26th, as escalating geopolitical tensions heightened concerns over oil supply disruptions and inflation risks. US-Iran tensions persisted after Washington revoked the 60-day waiver allowing Iran to sell crude and ended the ceasefire. Meanwhile, President Donald Trump said the Strait of Hormuz remained open to commercial shipping, while Tehran claimed it had closed the waterway after intercepting two vessels it said were using an unauthorized route, adding to uncertainty over global energy supplies and boosting safe-haven demand. The Swiss National Bank left its policy rate unchanged at 0% and reiterated its willingness to intervene in foreign exchange markets to curb excessive franc appreciation. Swiss inflation eased to 0.5% in June, the first slowdown in eight months, with the SNB forecasting 0.6% inflation in 2026.
+
+---
+
+### 2026-07-13 21:36:44  #市場
+
+【蘋果股價升破6月初高點重新整理記錄新高 總市值報4.71萬億美元】在AI科技股下跌之際，蘋果股價上漲1.65%，報320.530美元/股，重新整理記錄新高，總市值報4.71萬億美元。
+
+---
+
+### 2026-07-13 21:36:10  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Zelenskiy proposes 90-day extension of Ukraine martial law and mobilization to Oct. 31】On the 13th, Ukrainian President Zelenskiy submitted a bill to the Verkhovna Rada proposing a 90-day extension of martial law and mobilization through Oct. 31. Parliament is due to vote on the extension shortly; this is the 20th time the Rada has voted on extending martial law since the Russia-Ukraine conflict escalated in early 2022.
+
+---
+
+### 2026-07-13 21:36:04  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Pull Back — US equity indices were mostly lower on Monday amid weakness for AI companies and more macroeconomic uncertainty. The S&P 500 dropped 0.3% and the Nasdaq 100 lost 1.3%. Chip producers were under fresh pressure to indicate persistent uncertainty on whether the sector will deliver the ambitious guidance that backed its speculative rally. SK Hynix ADRs were 8% down after surging 13% in its issue on Friday as a Korean broker stated it could miss its next earnings. Nvidia, AMD, and Intel fell over 1% while memory producers Sandisk and Micron lost more than 3%. Meanwhile, the Dow inched marginally higher despite the risk of higher interest rates. Strikes between the US and Iran continued to hamper energy exports out of the Middle East, risking inflation and lifting credit costs. Major banks were mixed ahead of their earnings reports tomorrow, with JPMorgan and Bank of America both hovering near the flatline. Still, Visa rose 1.5%, and J&J rose 0.5% ahead of its earnings Wednesday.
+
+---
+
+### 2026-07-13 21:35:29  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Chevron Stock Price Hits 4-week High — Chevron shares increased to 180.78 USD, the highest since June 2026. Over the past 4 weeks, Chevron lost 3.08%, and in the last 12 months, it increased 15.96%.
+
+---
+
+### 2026-07-13 21:35:25  #市場
+
+ROUNDHILL MEMORY ETF 下跌8.6%。
+
+---
+
+### 2026-07-13 21:35:20  #市場 #焦點
+
+納斯達克中國金龍指數漲超1%，貝殼漲3.47%，網易漲3.17%，蔚來漲2.93%，京東漲3.12%，好未來漲2.47%。
+
+---
+
+### 2026-07-13 21:35:15  #MKT News
+
+【IRGC says it will inflict unprecedented humiliation on US】The Islamic Revolutionary Guard Corps said that, as it downgraded the US's ostensible objective at the start of US aggression to "reopening the Strait of Hormuz", it will respond to new hostile US actions by shaming and frustrating the US more than before and inflicting unprecedented humiliation.
+
+---
+
+### 2026-07-13 21:34:49  #Trading Economics #Markets #United States #stocks #Importance 1
+
+ConocoPhillips Stock Price Hits 4-week High — ConocoPhillips shares increased to 111.97 USD, the highest since June 2026. Over the past 4 weeks, ConocoPhillips lost 0.49%, and in the last 12 months, it increased 18.63%.
+
+---
+
+### 2026-07-13 21:33:09  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Oracle Stock Price Hits 13-week Low — Oracle shares decreased to 137.53 USD, the lowest since April 2026. Over the past 4 weeks, Oracle lost 28.24%, and in the last 12 months, it decreased 39.71%.
 
 ---
 
@@ -21114,239 +21282,5 @@ Russian Deputy Prime Minister Novak said the ban on diesel exports is intended t
 ### 2026-07-11 19:13:30  #公司
 
 【改革組老將提前出走，永輝超市管理架構面臨重塑】2026年6月30日，永輝超市釋出公告，副總裁羅雯霞、林紅東因“個人原因”提交辭職函，較原定任期提前一年半結束工作。這已是近3個月內永輝超市收到的第3份核心高管辭呈，今年4月，副總裁兼財務總監吳凱之同樣提前離任。而自2024年9月名創優品斥資62.7億元入股成為第一大股東以來，永輝超市的管理層架構正在重塑。管理層變動之外，這家零售巨頭，正在“學習胖東來”的調改路上持續前行。一邊是核心團隊接連離場，一邊是調改進入第二階段、一季度淨利潤同比增長94%，顯然永輝超市正處在轉型的關鍵十字路口。（中國經營報）
-
----
-
-### 2026-07-11 19:11:30  #其他
-
-【受降雨影響 北京市已疏散轉移103951人 救援隊伍備勤27418人】北京市防汛辦啟動聯勤值守機制，組織北京市水務局、北京市住房城鄉建設委、北京市交通委、北京市城市管理委、北京市文旅局、北京市公安局交管局、北京市通訊管理局、北京市消防救援總隊、北京衛戍區、武警北京市總隊等11家單位在北京市應急指揮中心參加降雨聯合指揮應對。落實關停轉移等措施。截至目前，全市應轉人數74424人，實轉人數103951人。關停轉移養老機構73家，疏散安置1902名老人，關閉旅遊景區188家、帳篷露營地167處，暫停4376家鄉村民宿營業、3318項在建工地全部停工，做好山區道路、河道周邊道路管控。搶險救援力量隨時待戰。全市各類救援隊伍備勤27418人，其中，前置備勤2218人、駐地備勤25200人。安能集團3支隊伍150人已經前置到位。累計調動排水裝置近200臺，挖掘機等大型機械裝置470餘臺和通訊無人機佈防在各重點區域。與軍隊建立30分鐘飛行空域快速審批機制，4800名官兵已做好隨時出動準備。（央視新聞）
-
----
-
-### 2026-07-11 19:07:33  #公司
-
-【九州通醫藥集團與廣州市天河區簽署戰略合作協議】記者從九州通醫藥集團獲悉，7月10日，九州通醫藥集團與廣州市天河區舉行戰略合作簽約儀式。雙方將圍繞區域業務總部建設、醫藥供應鏈管理服務、中醫藥傳承創新、產業投資與資本合作等領域開展深度合作。（證券時報）
-
----
-
-### 2026-07-11 19:07:26  #MKT News
-
-China's Central Meteorological Observatory issued another red heavy-rain warning; multiple areas in Zhejiang, Fujian and Jiangxi will see exceptionally heavy rain over the next two days.
-
----
-
-### 2026-07-11 19:06:32  #其他
-
-【今年前5個月刑事案件同比下降】公安部7月11日最新公佈資料顯示，今年1至5月，全國公安機關共立刑事案件數同比下降16.1%、立治安案件數同比下降10.6%。（新華社）
-
----
-
-### 2026-07-11 19:04:03  #其他
-
-【內蒙古釋出暴雨藍色預警】內蒙古自治區氣象臺2026年7月11日16時55分發布暴雨藍色預警訊號：11日23時至12日11時赤峰市南部、通遼市南部降雨量將達50毫米以上，部分地區伴有短時強降水等強對流天氣，可能造成城市內澇、地質災害、山洪等災害。
-
----
-
-### 2026-07-11 19:00:47  #MKT News #Important
-
-Sinopec has completed the restructuring of China Aviation Oil, making China Aviation Oil a second-tier wholly owned subsidiary.
-
----
-
-### 2026-07-11 19:00:36  #宏觀 #公司 #焦點
-
-【中國石化完成對中國航油重組】從中國石化新聞辦獲悉，中國石化宣佈完成對中國航油的重組工作，中國航油正式成為中國石化二級全資子公司。這是推進中央企業戰略性、專業化重組的重要舉措，也是服務國家戰略、應對國際競爭的主動作為，將提升保障國家航空能源供應安全能力和水平，推動航空能源供應綠色低碳轉型，更好地服務人民美好出行需要。2025年底，經黨中央、國務院批准，國務院國資委作出中國航油重組併入中國石化戰略部署。今年1月8日，國務院國資委召開重組大會，就積極穩妥推進重組工作提出明確要求。兩家央企依法合規履行重組前置程式，6月18日，重組事項獲得境內外全部監管審批。7月9日完成工商變更登記，標誌著重組工作圓滿完成。（央視新聞）
-
----
-
-### 2026-07-11 18:57:45  #公司
-
-【上海迪士尼度假區調整7月12日運營時間】7月11日，上海迪士尼度假區釋出公告：基於颱風“巴威”當前的路徑及最新的天氣預報，上海迪士尼度假區2026年7月12日（週日）的運營時間將有所調整。7月12日，上海迪士尼樂園的運營時間為中午12:00至21:30，迪士尼小鎮的運營時間為中午12:00至22:00。星願公園將於當日暫停對外開放。
-
----
-
-### 2026-07-11 18:52:15  #其他
-
-中國地震臺網正式測定：07月11日18時26分在南桑威奇群島地區[大西洋]（南緯55.25度，西經28.85度）發生6.4級地震，震源深度20千米。
-
----
-
-### 2026-07-11 18:50:18  #國際
-
-【穆傑塔巴表示將為已故最高領袖哈梅內伊“復仇”】伊朗最高領袖穆傑塔巴11日發表宣告表示，將為已故最高領袖哈梅內伊和最近兩次戰事中的其他遇難者“復仇”。（新華社）
-
----
-
-### 2026-07-11 18:49:21  #公司
-
-【新疆上半年綠電交易電量創新高】從國網新疆電力有限公司獲悉，新疆今年前6月綠電交易電量達159.2億千瓦時，接近去年全年交易規模的2倍，綠電交易規模創歷史新高。上半年新疆區域內綠電交易完成99.8億千瓦時，同比增長412%；跨省跨區綠電交易完成59.4億千瓦時，同比增長41%。截至6月底，新疆電網新能源裝機規模達1.73億千瓦，佔電力總裝機的60%以上，為綠電交易提供了充足支撐。（新華社）
-
----
-
-### 2026-07-11 18:47:28  #其他
-
-【國家海洋預報臺：南桑威奇群島地區發生6.6級地震，震源周圍可能引發局地海嘯】：據自然資源部海嘯預警中心初步測定，2026年07月11日18時26分（北京時間），南桑威奇群島地區[大西洋]海域（55.43°S,29.10°W）發生6.6級地震，震源深度為15千米。地震確切資訊以中國地震臺網測定為準。自然資源部海嘯預警中心根據初步地震引數判斷，地震可能會在震源周圍引發局地海嘯，但由於震源位於太平洋範圍之外，不會對我國沿岸造成影響。自然資源部海嘯預警中心將繼續跟蹤分析地震和海嘯監測資料，並及時釋出資訊。（國家海洋預報臺）
-
----
-
-### 2026-07-11 18:46:37  #國際
-
-【伊朗最高領袖稱將報復美以】伊朗最高領袖穆傑塔巴·哈梅內伊今天（7月11日）在書面致辭中表示，伊朗將繼續堅持已故最高領袖阿里·哈梅內伊的政治路線，維護國家獨立和主權，不會因領導人遇難而改變既定政策方向。他再次將美國和以色列列為已故最高領袖及其他遇難者遇難事件的責任方，表示伊朗將繼續追究相關責任，並強調將作出報復回應。他還表示，對遇難者的追責是伊朗人民的共同要求，這一目標不會因領導層變化而改變。（CCTV國際時訊）
-
----
-
-### 2026-07-11 18:42:50  #MKT News
-
-【6.6 magnitude quake near South Sandwich Islands may trigger local tsunami; no threat to Chinese coast, tsunami centre says】The Ministry of Natural Resources' Tsunami Warning Center said a preliminary magnitude-6.6 earthquake struck at 18:26 BJT on July 11, 2026, in the South Sandwich Islands region (55.43°S, 29.10°W) in the South Atlantic, at a focal depth of 15 km. The centre judged the quake could generate a local tsunami near the epicentre but, because the epicentre lies outside the Pacific, it does not pose a threat to China's coast. Exact parameters will be confirmed by the China Earthquake Networks Center (CENC); the tsunami centre said it will continue to monitor and issue updates.
-
----
-
-### 2026-07-11 18:40:20  #國際
-
-【伊朗訊息人士：美國不放棄現有立場就“免談”】當地時間11日，一名接近伊朗談判團隊的訊息人士稱，某些“親以色列媒體”釋出的伊朗請求與美國談判的報道是假訊息，伊朗並未提出任何與美國談判的請求。在美國放棄其現有立場前，伊朗不會與其進行任何談判。另據伊朗方面11日訊息，伊朗外交部發言人巴加埃說，伊朗已拒絕了與美國進行談判的請求。但他證實有卡達官員到訪，討論伊美停火現狀。（央視新聞）
-
----
-
-### 2026-07-11 18:38:32  #MKT News #WTI #Impact bullish #Brent #DXY
-
-Iran's supreme leader Mujtaba vowed to avenge "the blood of the martyred leader and all martyrs in the two wars" against "the shameful perpetrators who committed the crimes."
-
----
-
-### 2026-07-11 18:37:53  #國際
-
-伊朗最高領袖：我們誓言要為您和這兩場戰爭中所有殉難者的鮮血復仇，將他們從罪惡滔天的兇手手中奪回。這是我們國家的呼聲，必須予以伸張。這些罪犯，名單很長，他們想要在床上安詳死去的願望，終將帶進墳墓。他們必須明白，這並非取決於我的存在，也並非取決於其他官員的存在。無論我們是否在場，這終將實現。不久之後，來自世界各地熱愛自由的人們都將各自承擔起這項神聖使命的一部分。
-
----
-
-### 2026-07-11 18:37:49  #MKT News
-
-GFZ: A magnitude 6.6 earthquake occurred in the South Sandwich Islands region.
-
----
-
-### 2026-07-11 18:37:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's supreme leader Mujtaba said in a written statement that avenging his assassinated predecessor and father is a requirement of the state and nation and will "certainly" be achieved.
-
----
-
-### 2026-07-11 18:36:18  #國際
-
-伊朗最高領袖穆傑塔巴·哈梅內伊稱，為他被殺害的前任和父親復仇是國家的訴求，而且“必須”進行。
-
----
-
-### 2026-07-11 18:34:20  #國際
-
-伊朗最高領袖穆傑塔巴·哈梅內伊在社交媒體發帖稱必須為父報仇。
-
----
-
-### 2026-07-11 18:33:08  #宏觀
-
-【兩部門緊急預撥4000萬元中央自然災害救災資金 支援福建、浙江做好“巴威”颱風應急搶險救災工作】受強颱風“巴威”影響，我國東部沿海部分地區發生強降雨天氣，引發嚴重險情災情。國家防汛抗旱總指揮部對福建、浙江啟動國家防汛防颱風二級應急響應。為深入貫徹落實習近平總書記關於防汛救災工作的重要指示精神，近日，財政部、應急管理部緊急預撥4000萬元中央自然災害救災資金，支援福建、浙江開展防汛防颱應急搶險救災工作，重點做好受災人員緊急轉移避險、排危除險等應急處置、開展次生災害隱患排查和應急整治等，最大限度減少災害損失和人員傷亡，切實保障人民群眾生命財產安全。（財政部）
-
----
-
-### 2026-07-11 18:33:06  #MKT News
-
-【Finance, Emergency Management advance 40 mln yuan central disaster relief funds for Fujian, Zhejiang as Typhoon Bavi hits】Typhoon Bavi brought heavy rain to parts of China’s eastern coast, prompting the National Flood Control and Drought Relief Headquarters to activate a level-2 emergency response for Fujian and Zhejiang. The Ministry of Finance and Ministry of Emergency Management have advanced 40 mln yuan of central natural-disaster relief funds to support emergency evacuations, hazard removal, secondary-disaster risk inspections and emergency remediation, and rescue operations in the two provinces.
-
----
-
-### 2026-07-11 18:32:30  #其他
-
-【功夫女足首日票房破2億】據燈塔專業版實時資料，影片《功夫女足》今日上映，首日票房已突破2億。
-
----
-
-### 2026-07-11 18:32:17  #其他
-
-【兩部門聯合釋出紅色山洪災害氣象預警】水利部和中國氣象局7月11日18時聯合釋出紅色山洪災害氣象預警：預計，7月11日20時至7月12日20時，北京東部、天津北部、河北東北部、內蒙古東部、遼寧西部、吉林東北部、黑龍江南部、浙江中南部、安徽南部、福建北部、江西東北部、四川中部等地部分地區發生山洪災害可能性大（橙色預警），其中，北京東部、河北東北部、浙江中南部、安徽南部局地發生山洪災害可能性很大（紅色預警）。其他地區也可能因局地短歷時強降水引發山洪災害，請各地注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-07-11 18:31:13  #國際
-
-【伊朗兩名安全人員在哈梅內伊葬禮期間遇襲身亡】據報道，本週早些時候，在伊朗為前最高領袖阿里·哈梅內伊舉行葬禮期間，伊朗準軍事組織巴斯基的兩名成員在馬什哈德遇襲身亡。這兩人是在距離伊瑪目禮薩聖陵約15公里處巡邏時遇襲；哈梅內伊就葬在伊瑪目禮薩聖陵。此次襲擊還造成一名平民受傷。
-
----
-
-### 2026-07-11 18:26:34  #國際
-
-【越南富國島快艇傾覆事故致15人死亡，倖存者中18人情況嚴重】據越南快訊網11日報道，一艘快艇當天在越南南部富國島附近海域傾覆，目前已造成15人死亡。報道援引富國特區官方訊息說，事發快艇載有32名印度遊客、3名船員和1名工作人員。當地時間11日13時許，快艇突發故障並傾覆，導致船上人員全部落水。據報道，救援人員已找到船上全部36名人員，其中15人死亡、21人倖存。倖存者中18人情況嚴重，已被送醫救治。目前，事故原因正在調查中。（新華社）
-
----
-
-### 2026-07-11 18:24:35  #國際
-
-【訊息稱伊朗拒絕與美國談判 除非華盛頓改變立場】據知情人士稱，除非華盛頓退讓，否則伊朗不會與美國進行談判。“能代表美國退讓的是實施約定的諒解，”該人士表示， 條件包括成立一個黎巴嫩問題工作組、解決霍爾木茲海峽的通行問題以及伊朗石油出口正常化。
-
----
-
-### 2026-07-11 18:20:31  #公司 #國際
-
-馬斯克回應OpenAI被蘋果起訴竊取商業機密：他們確實為這起犯罪費了不少心思。
-
----
-
-### 2026-07-11 18:20:27  #MKT News
-
-【China FAW completes China-7 hybrid-dedicated gasoline engine R&D; to fit Hongqi models】On July 11 China FAW said its project on hybrid-dedicated gasoline engines targeting China-7 emissions passed final acceptance, completing integrated China-7 technical readiness three years ahead of schedule. Results cover combustion, engine control and aftertreatment; the self-developed system will be applied to Hongqi-brand hybrid and energy-saving models to meet the strictest upcoming emission rules.
-
----
-
-### 2026-07-11 18:17:38  #其他
-
-【內蒙古啟動防汛四級及暴雨Ⅳ級應急響應】7月11日9時，內蒙古自治區防汛抗旱指揮部與人工影響天氣與氣象災害防禦管理指揮部針對呼倫貝爾市、興安盟、通遼市、赤峰市、錫林郭勒盟五盟市啟動自治區防指防汛四級應急響應和暴雨氣象災害Ⅳ級應急響應。據氣象部門預測，7月11日至15日，內蒙古全區仍有降水天氣過程，其中呼倫貝爾市、通遼市南部、赤峰市南部有大到暴雨，局地大暴雨，並伴有短時強降水、雷暴大風、冰雹等強對流天氣。受前期降水疊加影響，局地可能發生中小河流洪水、山洪、地質災害等次生災害。
-
----
-
-### 2026-07-11 18:12:04  #國際
-
-兩名伊朗安全官員據悉在已故最高領袖哈梅內伊葬禮期間遇害。
-
----
-
-### 2026-07-11 18:11:16  #其他
-
-【颱風“巴威”或將提前登陸 中央氣象臺繼續釋出颱風橙色預警】中央氣象臺7月11日18時繼續釋出颱風橙色預警：今年第9號颱風“巴威”已於今天（11日）中午由強颱風級減弱為颱風級，下午5點鐘其中心位於浙江溫嶺東南方向約165公里的東海南部海面上，就是北緯27.2度、東經122.4度，中心附近最大風力有13級（40米/秒），中心最低氣壓為950百帕，七級風圈半徑300～500公里，十級風圈半徑180～250公里，十二級風圈半徑100～120公里。預計，“巴威”將以每小時30公里左右的速度向西北方向移動，將於11日夜間至12日凌晨在浙江溫嶺至瑞安一帶沿海登陸（颱風級，12～13級，33～40米/秒），登陸後向西北轉偏北方向移動，強度逐漸減弱。
-
----
-
-### 2026-07-11 18:08:29  #其他
-
-【中國一汽完成國7混動專用汽油機技術攻關】記者從中國一汽獲悉，近日，依託吉林省重大科技專項，中國一汽“面向國7排放的混動專用汽油機系統性技術研究”專案正式透過結題驗收，提前三年完成國7一體化技術方案儲備，為紅旗品牌車型滿足未來最嚴排放法規、實現綠色合規迭代提供了完整自研技術體系支撐。（證券時報）
-
----
-
-### 2026-07-11 18:08:16  #公司
-
-【京承高速部分路段今晚20時起臨時管控】7月11日，首發集團釋出訊息，為確保市民通行安全，依據交通運輸部關於主動防禦管控相關工作要求，將於7月11日20時-7月12日7時對京承高速部分路段進行主動管控。具體管控路段為：穆家峪收費站至北京市界（K68+400-K131+100），該路段採取雙向封閉措施，車輛從穆家峪收費站駛出。河北段灤平收費站至北京市界將同時採取封閉管控措施,車輛從灤平收費站駛出。管控時間共11小時。
-
----
-
-### 2026-07-11 18:07:40  #MKT News #Important #WTI #Impact bullish #XAUUSD
-
-Sources told Iran's Fars news agency that Iran will not enter any negotiations until the US withdraws its position.
-
----
-
-### 2026-07-11 18:06:44  #其他
-
-【颱風“巴威”登陸在即 國家防總辦公室持續部署防汛防颱風工作】7月11日上午，國家防總辦公室、應急管理部繼續組織中國氣象局、水利部、自然資源部、住房城鄉建設部、工業和資訊化部、交通運輸部等部門聯合會商，研判颱風和強降雨發展趨勢，部署重點地區防汛防颱風工作。國家防總維持針對浙江、福建的防汛防颱風二級應急響應，啟動針對上海、江蘇、江西、安徽、四川等省（直轄市）的防汛防颱風四級應急響應。國家防總辦公室增派一個工作組赴安徽協助指導防汛防颱風工作。會商指出：颱風“巴威”正在逼近我國東部沿海，浙江、福建首當其衝，除強風、暴雨之外，風暴潮和海浪風險突出，山洪和地質災害、城市內澇等風險高。此外，受颱風遠距離水汽輸送影響，京津冀、東北等地將有持續強降雨，西北地區也有明顯降雨過程，防汛防颱風形勢嚴峻複雜。
-
----
-
-### 2026-07-11 18:06:44  #MKT News #Market Regions #Greater China
-
-【Typhoon Bawei nearing landfall; national flood-control office coordinates emergency response】On the morning of July 11 the Office of the National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management convened joint meetings with the China Meteorological Administration, Ministry of Water Resources, Ministry of Natural Resources, Ministry of Housing and Urban-Rural Development, Ministry of Industry and Information Technology and Ministry of Transport to assess typhoon and heavy-rain trends and deploy flood/typhoon measures in key areas. The office maintained a level-2 emergency response for Zhejiang and Fujian and activated level-4 responses for Shanghai, Jiangsu, Jiangxi, Anhui and Sichuan, and dispatched an additional working group to Anhui to assist and guide operations.
-
----
-
-### 2026-07-11 18:06:00  #其他
-
-【浙江省氣象局：颱風“巴威”最大可能今天半夜前後在洞頭至溫嶺一帶沿海登陸】7月11日，浙江省氣象局釋出訊息，今年第9號颱風“巴威”已於今天11時減弱為颱風級，17時其中心位於距離浙江省溫嶺市東南方向約165公里，中心附近最大風力13級（40米/秒）。 預計“巴威”將以每小時25～30公里的速度向西北方向移動，強度變化不大，最大可能今天半夜前後在洞頭至溫嶺一帶沿海登陸（颱風級，12～13級，33～38米/秒），登陸後繼續向西北方向移動，強度逐漸減弱，12日下午移出浙江進入安徽境內。
 
 ---
