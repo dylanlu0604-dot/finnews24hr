@@ -1,7 +1,17 @@
 {
   "date": "2026-07-19",
-  "count": 70,
+  "count": 71,
   "items": [
+    {
+      "id": "mkt:019f7648-e7d4-7aab-8df2-6004d73965da",
+      "time": "2026-07-19 01:31:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Financial Times reports Trump will use changes to U.S. foreign aid policy to fund European projects that promote \"MAGA\"."
+    },
     {
       "id": "4995648",
       "time": "2026-07-19 01:31:08",
