@@ -1,7 +1,15 @@
 {
   "date": "2026-07-18",
-  "count": 461,
+  "count": 462,
   "items": [
+    {
+      "id": "mkt:019f7316-088b-7aab-8ded-3ef74cb2d88f",
+      "time": "2026-07-18 10:37:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan Armed Forces said there were no reported casualties or material damage."
+    },
     {
       "id": "mkt:019f7314-40bd-7aab-8ded-31ea47a7e79f",
       "time": "2026-07-18 10:35:34",

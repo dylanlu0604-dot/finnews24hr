@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 10:37:02",
-  "count": 19004,
+  "updated": "2026-07-18 10:40:57",
+  "count": 19003,
   "items": [
+    {
+      "id": "mkt:019f7316-088b-7aab-8ded-3ef74cb2d88f",
+      "time": "2026-07-18 10:37:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan Armed Forces said there were no reported casualties or material damage."
+    },
     {
       "id": "mkt:019f7314-40bd-7aab-8ded-31ea47a7e79f",
       "time": "2026-07-18 10:35:34",
@@ -175167,22 +175175,6 @@
         "其他"
       ],
       "text": "【新任駐巴拿馬大使張祥焱向巴外長馬丁內斯-阿查遞交國書副本】2026年7月10日，新任駐巴拿馬大使張祥焱向巴外長馬丁內斯-阿查遞交國書副本。張大使表示，很榮幸受習近平主席委派出任中國駐巴拿馬大使。中巴建交9年來，雙方各領域合作成果豐碩，造福了兩國人民。當前，中巴關係正處於承前啟後、接續前行的關鍵時期。雙方應從國家和人民利益高度出發，增進互信、相互尊重，相向而行、相互成就，推動雙邊關係排除干擾、砥礪前行。"
-    },
-    {
-      "id": "mkt:019f4f0b-3f09-7aab-8d3b-4f6749693dd8",
-      "time": "2026-07-11 10:39:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National Marine Forecasting Center warns high seawater backflow inundation risk for coastal Wenzhou overnight】The National Marine Forecasting Center expects a high risk of seawater backflow inundation overnight on the 11th in coastal low-lying areas of Wenzhou, Zhejiang — Lucheng District, Dongtou District and coastal parts of Yueqing. A risk warning has been issued; authorities advise affected coastal residents to monitor marine disaster alerts and take protective measures."
-    },
-    {
-      "id": "4982027",
-      "time": "2026-07-11 10:39:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【FansAI收購OPC公司新映科技】7月11日訊息，AI內容和互動影視公司垚城智慧（FansAI）宣佈全資收購AI音樂應用新映科技，這是OPC領域目前少見的探索性併購案例。"
     }
   ]
 }
