@@ -1,7 +1,44 @@
 {
   "date": "2026-07-18",
-  "count": 406,
+  "count": 410,
   "items": [
+    {
+      "id": "4995212",
+      "time": "2026-07-18 09:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方算芯WAIC首次展出全球首顆軟體定義近存計算3D AI晶片DF1000】7月17日至20日，2026世界人工智慧大會（WAIC）在上海舉行。東方算芯首次公開展出全球首顆軟體定義近存計算3D AI晶片DF1000，並獲得2026 SAIL獎“卓越人工智慧引領者獎”。該晶片基於國內成熟工藝打造，採用“軟體定義＋3D堆疊近存計算”技術路線，透過DRAM-LOGIC Wafer-level混合鍵合3D垂直封裝。該技術路線的核心價值，在於實現基於國產14nm+成熟晶片製程工藝，打造出效能對標4nm製程的世界先進AI算力晶片的突破。目前，DF1000已完成128卡大規模叢集全功能穩定執行驗證。"
+    },
+    {
+      "id": "mkt:019f72d7-fe32-7aab-8dec-d0188df5729a",
+      "time": "2026-07-18 09:29:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain's Interior Ministry says alarms sounded again."
+    },
+    {
+      "id": "4995211",
+      "time": "2026-07-18 09:29:09",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【大麥陷“跳票”羅生門：搶汪蘇瀧門票變洛天依，平臺拒退款，客服回應】據媒體報道，近日，多名消費者反映在大麥平臺搶購汪蘇瀧演唱會門票時，疑似遭遇頁面跳轉，付款後才發現實際購買的是洛天依演唱會門票，而平臺以“超出退票期限”為由拒絕退款，引發集中維權。對此，大麥官方暫無回應。大麥客服則表示，“經我司技術嚴格排查核實，您反饋的平臺系統不存在任何跳票情況。”客服人員還提到：在首開或熱門演出的高峰搶票時段），系統訪問量較大，偶爾可能會出現短暫延遲或卡頓。建議使用者保持頁面重新整理順暢，避免重複操作導致異。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f72d6-a5a3-7aab-8dec-ce67731f51c7",
+      "time": "2026-07-18 09:28:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "【Trump social posts sold as paid feed, Wall Street faces potential latency disadvantage】Emails promoting a Truth Social data feed have circulated among Wall Street trading desks for weeks, offering 24/7, sub‑second delivery of Trump posts including weekends and after‑hours. The marketing urged quick adoption and said some peers had already deployed the product. Trump Media & Technology Group is providing immediate access to presidential remarks to HFTs and hedge funds, triggering ethical and political debate as institutions weigh the implications of paying a public company with Trump as its largest shareholder for market‑sensitive content. Firms that do not subscribe could face a latency disadvantage in algorithmic trading. Trump is further monetizing his businesses: he is TMTG’s largest shareholder with an estimated stake of about $1bn and earned more than $1bn from a cryptocurrency project in the past year."
+    },
     {
       "id": "4995210",
       "time": "2026-07-18 09:21:06",
