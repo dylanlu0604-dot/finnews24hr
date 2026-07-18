@@ -1,7 +1,18 @@
 {
   "date": "2026-07-18",
-  "count": 685,
+  "count": 686,
   "items": [
+    {
+      "id": "mkt:019f7465-495f-7aab-8def-2b9278709782",
+      "time": "2026-07-18 16:43:42",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0020.HK"
+      ],
+      "text": "【SenseTime launches multimodal base model SenseNova-U1 Pro to rival GPT-Image 2】On July 18 SenseTime unveiled its next-generation flagship multimodal base model, SenseNova-U1 Pro (U1 Pro). The model is positioned as the industry’s first native unified “understand‑generate‑act” multimodal agent base, benchmarked against GPT‑Image 2, and is first to support native 8K output, with an initial commercial focus on delivery‑grade design applications."
+    },
     {
       "id": "4995422",
       "time": "2026-07-18 16:41:50",
