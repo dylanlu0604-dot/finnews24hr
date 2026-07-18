@@ -1,7 +1,20 @@
 {
   "date": "2026-07-19",
-  "count": 157,
+  "count": 158,
   "items": [
+    {
+      "id": "mkt:019f771f-5661-7aab-8df3-87b4bf990b10",
+      "time": "2026-07-19 05:26:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump: \"Completely doesn't care\" after Iran suspends compliance with interim agreement】Per NewsNation, US President Trump reiterated that Iran \"cannot and should not\" possess nuclear weapons. After Iran announced it would suspend compliance with commitments under an interim agreement, Trump said he \"completely doesn't care.\""
+    },
     {
       "id": "4995699",
       "time": "2026-07-19 05:22:54",
