@@ -1,7 +1,33 @@
 {
   "date": "2026-07-19",
-  "count": 166,
+  "count": 169,
   "items": [
+    {
+      "id": "4995706",
+      "time": "2026-07-19 06:03:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：泰勒農場已確認，這批檢測呈陽性的碎冰山生菜不屬於該公司當前召回範圍。"
+    },
+    {
+      "id": "mkt:019f7740-6400-7aab-8df3-a690f2388bf5",
+      "time": "2026-07-19 06:02:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israeli military says explosive that killed Lebanese soldier was not its device】Israeli military said the explosive that killed a Lebanese soldier earlier today in Mansouri, southern Lebanon, was not its device. Lebanon’s army said a \"suspicious object\" inside a military vehicle exploded in the southern town, killing one soldier and wounding another. The Israeli military said the Lebanese vehicle ran over the device in the border \"security zone\", that Israeli troops had not been operating in the area recently, and that the device may have been emplaced by Hezbollah."
+    },
+    {
+      "id": "4995705",
+      "time": "2026-07-19 06:01:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）：泰勒農場墨西哥分公司供應的碎冰山萵苣樣本檢測出環孢子菌呈陽性。"
+    },
     {
       "id": "4995704",
       "time": "2026-07-19 05:59:17",
