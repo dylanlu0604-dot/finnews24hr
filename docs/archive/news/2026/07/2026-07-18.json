@@ -1,7 +1,15 @@
 {
   "date": "2026-07-18",
-  "count": 774,
+  "count": 775,
   "items": [
+    {
+      "id": "mkt:019f7500-335a-7aab-8df0-40755d86bf73",
+      "time": "2026-07-18 19:32:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Youdao debuts AI earphones OpenPods at WAIC】July 18, 2026 — At the World Artificial Intelligence Conference, NetEase Youdao unveiled OpenPods, an AI earphone supporting real-time simultaneous interpretation in over a dozen languages, recording-to-transcript, automated structured summaries and mind-map generation. The device has entered mass production and is scheduled for an August commercial launch. Youdao said OpenPods will be marketed overseas."
+    },
     {
       "id": "mkt:019f74f6-fb89-7aab-8df0-3be37a61a20c",
       "time": "2026-07-18 19:22:50",

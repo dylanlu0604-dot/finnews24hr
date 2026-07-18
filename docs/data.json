@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 19:29:30",
-  "count": 19047,
+  "updated": "2026-07-18 19:33:31",
+  "count": 19046,
   "items": [
+    {
+      "id": "mkt:019f7500-335a-7aab-8df0-40755d86bf73",
+      "time": "2026-07-18 19:32:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Youdao debuts AI earphones OpenPods at WAIC】July 18, 2026 — At the World Artificial Intelligence Conference, NetEase Youdao unveiled OpenPods, an AI earphone supporting real-time simultaneous interpretation in over a dozen languages, recording-to-transcript, automated structured summaries and mind-map generation. The device has entered mass production and is scheduled for an August commercial launch. Youdao said OpenPods will be marketed overseas."
+    },
     {
       "id": "mkt:019f74f6-fb89-7aab-8df0-3be37a61a20c",
       "time": "2026-07-18 19:22:50",
@@ -175667,22 +175675,6 @@
         "其他"
       ],
       "text": "【廣西向受災地區調撥救災物資約17.8萬件】近期，受今年第10號颱風“美莎克”影響，廣西多地遭遇持續性極端強降雨，引發系列災情。記者11日從廣西壯族自治區應急管理廳獲悉，近日自治區應急管理廳會同自治區糧食和物資儲備局分批向受災地區調撥中央和自治區救災物資，合計約17.8萬件，保障安置群眾住宿、日常生活等基本需求。自治區應急管理廳救災與物資保障處應急指揮專員陳靜介紹，首批1萬件救災物資調往防城港、欽州、北海等受災地區，包括帳篷、摺疊床、毛巾被、雨衣雨鞋、夏裝等。第二批、第三批分別調撥15萬件、1.8萬件救災物資，保障南寧和貴港等受災地區需求。（新華社）"
-    },
-    {
-      "id": "4982231",
-      "time": "2026-07-11 19:32:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【唐傑內部信稱將開啟 Touch High（摸高）計劃，“不登頂，就是失敗”】今日智譜創始人唐傑釋出內部信，闡述智譜對 AGI 接下來競爭的理解。唐傑在信中表示，智譜接下來將繼續延續所謂 “反直覺” 路線，開啟 “Touch High（摸高）計劃”，即繼續聚焦於 AGI 研究，而不是短期商業變現。通往 AGI 終點的道路上，有幾座必須翻越的山峰，它們也正是今天技術浪潮最洶湧的地方，唐傑列出的四座高峰分別是：長程任務（Long Horizon Task），自治智慧體系統（Autonomous Agent System），完全自我訓練（Fully Self Training），極致安全治理。其中，極致安全治理被特別強調，智譜計劃投入百億級資源攻堅機械可解釋性，這意味著釐清模型決策背後的神經元邏輯，推動黑盒系統向透明可解釋系統轉變。（晚點Latepost）"
-    },
-    {
-      "id": "4982230",
-      "time": "2026-07-11 19:31:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【受天氣影響 首都機場啟動運管委協同執行一級響應機制】從首都機場瞭解到，因本場及外站特殊天氣影響，目前首都機場已啟動運管委協同執行一級響應機制和紅色汛情保障程式。今日，首都機場計劃起降航班1357架次，預計進出港旅客共計20.6萬人次。截至18:00，已執行865架次。夜間短時強降雨將對航班起降造成一定程度的影響，建議旅客及時聯絡所乘航空公司瞭解航班動態。（央視新聞）"
     }
   ]
 }
