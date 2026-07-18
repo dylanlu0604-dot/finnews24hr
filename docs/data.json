@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 20:52:18",
-  "count": 19056,
+  "updated": "2026-07-18 20:56:20",
+  "count": 19053,
   "items": [
+    {
+      "id": "4995530",
+      "time": "2026-07-18 20:53:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【洞察時空首次公開“數算一體AI星座”：576顆衛星打造“一天一次”對地觀測能力】在2026世界人工智慧大會“未來計算·未來算力”專題論壇上，洞察時空首次公開“數算一體AI星座”，該星座以“一天一次全球掃描”的高頻對地觀測為目標，旨在透過低成本、高時效性、高一致性的多源資料流產品，為AI Agent提供客觀的“地球真值”資料支撐，有效彌補AI大模型在物理世界認知中的預測偏差；同時，以“地球狀態變數”為核心，助力AI構建符合物理世界執行規律的理解與推演能力。 根據規劃，“數算一體AI星座”將由576顆低軌及超低軌衛星組成，形成一張天地一體算力協同的多模態異構資料感知網，全面捕捉地球上的動態變數。星座一期建設規模為168顆衛星，目標實現廣域初步組網，構築天基資訊感知的基礎底座。2026年內，洞察時空將率先完成兩顆試驗衛星的發射。"
+    },
     {
       "id": "4995528",
       "time": "2026-07-18 20:51:27",
@@ -175713,44 +175721,6 @@
         "MKT News"
       ],
       "text": "【NYT reporters subpoenaed over disclosure of safety flaws on Trump’s new plane】The New York Times reported on the 11th that reporters who contributed to its story on safety defects in President Trump’s newly refurbished presidential plane were served subpoenas. Federal law enforcement officers reportedly went to the reporters’ homes on the 10th to deliver subpoenas requiring them to testify before a Manhattan federal grand jury on the 15th about possible violations of federal criminal law. The plane, donated by Qatar and recently refitted, carried Trump to this month’s NATO summit in Turkey; on the 8th he initially flew on the older Air Force One to RAF Mildenhall before switching to the new aircraft for the return. The Times, citing unnamed sources, said the switch was made at the request of the U.S. Secret Service because the new plane lacked some security features of the older aircraft."
-    },
-    {
-      "id": "mkt:019f513f-bcbf-7aab-8d3e-2baa99019735",
-      "time": "2026-07-11 20:55:59",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China daily box office tops 300 mln yuan, highest since Feb. 26】Lighthouse Professional data show that as of 20:34 on July 11 China’s daily box office exceeded 300 mln yuan, the first single-day total above 300 mln yuan since Feb. 26."
-    },
-    {
-      "id": "mkt:019f513e-9a2a-7aab-8d3e-2031a182734b",
-      "time": "2026-07-11 20:54:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Tasnim news agency reported Israeli warplanes carried out a third airstrike on the town of Al-Mansouri in southern Lebanon."
-    },
-    {
-      "id": "4982253",
-      "time": "2026-07-11 20:53:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【披露特朗普新專機安全缺陷的美國記者收到傳票】美國《紐約時報》11日報道，該報參與報道美國總統特朗普新“空軍一號”專機有安全缺陷的多名記者收到了傳票。據報道，聯邦政府執法部門人員10日前往這些記者的住所送交傳票，要求他們就“涉嫌違反聯邦刑法的相關事宜”，於15日在紐約曼哈頓向一個聯邦大陪審團作證。特朗普本月早些時候前往土耳其參加北約峰會時，乘坐由卡達贈送、近期剛完成改裝的新專機。但8日返回美國期間，特朗普先乘坐舊“空軍一號”前往英國米爾登霍爾空軍基地，隨後才換乘新專機回國。《紐約時報》隨後以不願公開姓名的人士為訊息源報道，換機是應美國特勤局要求，原因是新專機不具備舊專機的部分安全功能。（新華社）"
-    },
-    {
-      "id": "mkt:019f513d-0042-7aab-8d3e-1b3bd1a7ef97",
-      "time": "2026-07-11 20:52:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's acting defense minister said Tehran has accurately identified adversary vulnerabilities and knows how, when and to what extent to apply pressure."
     }
   ]
 }
