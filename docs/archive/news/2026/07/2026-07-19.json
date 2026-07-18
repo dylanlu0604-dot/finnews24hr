@@ -1,7 +1,20 @@
 {
   "date": "2026-07-19",
-  "count": 112,
+  "count": 113,
   "items": [
+    {
+      "id": "mkt:019f76a9-4a05-7aab-8df2-e9c95a5a0d19",
+      "time": "2026-07-19 03:17:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian Student News Agency reported minutes ago that explosion-like sounds were heard at Abbas Port. A Hormozgan provincial official confirmed the noises but said there were no reports of missile strikes or U.S. fighter attacks; some media said the sounds may have come from IRGC Navy warnings to vessels in the Strait of Hormuz."
+    },
     {
       "id": "4995673",
       "time": "2026-07-19 03:13:34",
