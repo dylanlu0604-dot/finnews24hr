@@ -1,7 +1,19 @@
 {
   "date": "2026-07-19",
-  "count": 53,
+  "count": 54,
   "items": [
+    {
+      "id": "mkt:019f7633-fd5f-7aab-8df2-2daa9fe55aba",
+      "time": "2026-07-19 01:09:06",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UK Maritime Trade Operations said military authorities reported the vessel had been forced into Somali territorial waters and the office has reclassified the incident as a hijacking."
+    },
     {
       "id": "4995638",
       "time": "2026-07-19 01:04:04",
