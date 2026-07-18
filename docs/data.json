@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-18 22:11:43",
-  "count": 19063,
+  "updated": "2026-07-18 22:15:42",
+  "count": 19060,
   "items": [
+    {
+      "id": "4995576",
+      "time": "2026-07-18 22:14:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【八仙預測票房上調至超14億】據燈塔專業版，影片《八仙！》總票房預測上調至超14億。"
+    },
+    {
+      "id": "4995575",
+      "time": "2026-07-18 22:13:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：土耳其正與阿聯酋商討將一套先進的俄羅斯防空系統轉讓給阿聯酋，希望以此消除美國對其購買先進F-35戰機的反對。"
+    },
     {
       "id": "mkt:019f758f-f3ed-7aab-8df1-3cb5f3779a1a",
       "time": "2026-07-18 22:09:56",
@@ -175757,55 +175773,6 @@
         "MKT News"
       ],
       "text": "【Iran scholar says US never truly implemented memorandum】An Iranian university professor, Hakimeh Saghaye-Biriyah, said the memorandum was never properly implemented and its first paragraph is effectively void. She said Israel has neither agreed to withdraw from southern Lebanon nor stopped strikes on Lebanese territory, while the United States continues to reserve the right to use force—an approach she said contravenes the spirit of the memorandum's first paragraph. She stressed the memorandum’s sovereignty clause covers land, territorial waters and airspace, and said Iran is watching whether the US will respect Iranian sovereignty in waters of the Strait of Hormuz or seek ways to circumvent it. She said these developments call into question whether the memorandum was ever executed in practice."
-    },
-    {
-      "id": "4982276",
-      "time": "2026-07-11 22:15:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《功夫女足》 預測票房上調，預測總票房18.65億。"
-    },
-    {
-      "id": "mkt:019f5187-c42b-7aab-8d3e-ace03d39d80f",
-      "time": "2026-07-11 22:14:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Axios reported a regional source said parties are discussing a possible joint statement to fully open the Strait of Hormuz \"central corridor\" (in international waters) and affirm freedom of navigation."
-    },
-    {
-      "id": "mkt:019f5187-4b44-7aab-8d3e-a1b72eb674c8",
-      "time": "2026-07-11 22:14:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Axios reports, citing diplomats, that Qatari officials are attending talks in Muscat between Iran and Oman on issues related to the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f5186-b437-7aab-8d3e-9c4725256080",
-      "time": "2026-07-11 22:13:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Ukrainian official: Russian refineries increasingly depleted, fighting spreading to sea】Ukrainian Interior Ministry adviser Anton Gerashchenko said Russia’s operating refineries are increasingly depleted and hostilities have spread to maritime routes. After a series of strikes on Russian vessels, Moscow has suspended navigation on the Azov-Don waterway and the Kerch Strait, cutting the link between the Sea of Azov and the Black Sea. Gerashchenko said the Azov-Don route is a key conduit for Russian military logistics, cargo transport, port maintenance and the circumvention of sanctions for oil products; its suspension disrupts a primary export and supply corridor used to ship seized goods and generate revenue that funds procurement of weapons including Iskander missiles and KAB-guided bombs. He identified Taganrog and Azov ports and a ‘shadow fleet’ network as implicated in the trade channel."
-    },
-    {
-      "id": "4982275",
-      "time": "2026-07-11 22:12:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "訊息人士：卡達官員正在參加伊朗和阿曼在馬斯喀特就霍爾木茲海峽問題舉行的會談。雙方正在討論一項可能發表的宣告，旨在全面開放霍爾木茲海峽位於國際水域的“中間航道”，以實現完全自由通行。"
     }
   ]
 }
