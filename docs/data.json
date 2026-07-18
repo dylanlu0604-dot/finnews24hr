@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-19 03:08:19",
-  "count": 19113,
+  "updated": "2026-07-19 03:14:25",
+  "count": 19115,
   "items": [
+    {
+      "id": "4995673",
+      "time": "2026-07-19 03:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威奧斯陸西部德拉門發生重大火災，超百棟房屋被毀。數百名居民緊急疏散，消防員與直升機協同作業控制火勢，目前暫無人員傷亡報告。"
+    },
+    {
+      "id": "mkt:019f76a4-2cf8-7aab-8df2-e11f96e6991a",
+      "time": "2026-07-19 03:11:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Reports say the US is carrying out airstrikes on Iran's southern Bandar Abbas port. Local residents reported hearing three to five explosions across the port."
+    },
+    {
+      "id": "mkt:019f76a1-93c9-7aab-8df2-db729fe94abb",
+      "time": "2026-07-19 03:08:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Preliminary reports indicate an explosion at Iran's port city Bandar Abbas."
+    },
     {
       "id": "4995672",
       "time": "2026-07-19 03:06:34",
@@ -176278,14 +176312,6 @@
         "國際"
       ],
       "text": "【Meta緊急下線爭議AI生圖功能】社交媒體巨頭Meta本週推出一項允許使用者透過@提及公開Instagram賬號、利用他人公開內容生成AI影象的新功能。該功能上線時預設允許公開內容被引用，引發美國演員工會等機構對肖像權侵犯以及犯罪風險的強烈擔憂。Meta表示，相關功能“未能達到預期效果”，因此決定全面下線。"
-    },
-    {
-      "id": "4982345",
-      "time": "2026-07-12 03:10:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國放寬對阿聯酋出口管制，大幅深化雙方人工智慧與防務合作】美國週五放寬針對阿聯酋的出口管制，將這位海灣阿拉伯盟友升級為美國最受信賴的防務與技術合作夥伴之一。美國商務部工業與安全域性表示，鑑於阿聯酋作為美國主要防務合作伙伴發揮的作用，以及該國在維護美國國家安全利益（包括對抗伊朗相關事務）方面提供的支援，該局將依據《出口管理條例》大幅提升阿聯酋的待遇等級。此番調整落地後，經美方核准的阿聯酋機構可直接獲取先進人工智慧晶片、人工智慧伺服器、軍用及軍民兩用技術、商業衛星、無人機，以及油氣、民用核能領域相關技術，無需再走美國出口許可審批流程。"
     }
   ]
 }

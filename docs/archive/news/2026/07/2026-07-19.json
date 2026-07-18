@@ -1,7 +1,41 @@
 {
   "date": "2026-07-19",
-  "count": 109,
+  "count": 112,
   "items": [
+    {
+      "id": "4995673",
+      "time": "2026-07-19 03:13:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "挪威奧斯陸西部德拉門發生重大火災，超百棟房屋被毀。數百名居民緊急疏散，消防員與直升機協同作業控制火勢，目前暫無人員傷亡報告。"
+    },
+    {
+      "id": "mkt:019f76a4-2cf8-7aab-8df2-e11f96e6991a",
+      "time": "2026-07-19 03:11:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Reports say the US is carrying out airstrikes on Iran's southern Bandar Abbas port. Local residents reported hearing three to five explosions across the port."
+    },
+    {
+      "id": "mkt:019f76a1-93c9-7aab-8df2-db729fe94abb",
+      "time": "2026-07-19 03:08:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Preliminary reports indicate an explosion at Iran's port city Bandar Abbas."
+    },
     {
       "id": "4995672",
       "time": "2026-07-19 03:06:34",
