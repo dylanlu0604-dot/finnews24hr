@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 814,
+  "count": 818,
   "items": [
+    {
+      "id": "4995521",
+      "time": "2026-07-18 20:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國地共建人形機器人創新中心首席科學家江磊：將聚力做好機器人全生命週期管理】國地共建人形機器人創新中心（以下簡稱“國地中心”）首席科學家江磊7月18日接受採訪時透露，今年下半年將重點做好一系列工作，包括：將人形機器人開源公版機做得更加紮實，讓任何一家企業能用國地中心的公版機進行開發和迭代；聚力做好機器人全生命週期管理，探索機器人相關保險、維修維保渠道等生態建設。日前，國地中心中試公共服務平臺正式啟用，該平臺坐落於上海張江機器人谷。江磊透露，一些頭部企業也將集聚到張江機器人谷，共同完善當地一體化中試閉環。（證券時報）"
+    },
+    {
+      "id": "4995520",
+      "time": "2026-07-18 20:37:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯國家聯盟秘書長：對任何阿拉伯國家的任何侵略都將被視為對阿拉伯國家安全的侵略，以及對整個阿拉伯民族利益的侵略。"
+    },
+    {
+      "id": "4995519",
+      "time": "2026-07-18 20:36:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉伯聯盟秘書長警告說，伊朗對一些阿拉伯國家，特別是海灣地區國家發動的魯莽襲擊構成了極大的危險。"
+    },
+    {
+      "id": "mkt:019f753a-94a4-7aab-8df0-b4e910bf49a2",
+      "time": "2026-07-18 20:36:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Qianjue Robotics debuts VTLA embodied tactile model at World Artificial Intelligence Conference】At the World Artificial Intelligence Conference (July 17–20, 2026), Qianjue Robotics unveiled a VTLA (vision-tactile-language-action) embodied tactile model, a vision–tactile multimodal dataset, core data-acquisition equipment and a tactile-sensor hardware matrix. Qianjue says VTLA integrates visual and tactile perception unlike traditional vision-only VLA models, enabling robots to capture physical object properties inaccessible to single-camera systems and materially improving recognition dimensions and detection accuracy."
+    },
     {
       "id": "mkt:019f7538-301b-7aab-8df0-ac81dd286a19",
       "time": "2026-07-18 20:34:04",

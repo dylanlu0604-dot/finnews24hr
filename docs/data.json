@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-18 20:36:06",
-  "count": 19060,
+  "updated": "2026-07-18 20:40:12",
+  "count": 19059,
   "items": [
+    {
+      "id": "4995521",
+      "time": "2026-07-18 20:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國地共建人形機器人創新中心首席科學家江磊：將聚力做好機器人全生命週期管理】國地共建人形機器人創新中心（以下簡稱“國地中心”）首席科學家江磊7月18日接受採訪時透露，今年下半年將重點做好一系列工作，包括：將人形機器人開源公版機做得更加紮實，讓任何一家企業能用國地中心的公版機進行開發和迭代；聚力做好機器人全生命週期管理，探索機器人相關保險、維修維保渠道等生態建設。日前，國地中心中試公共服務平臺正式啟用，該平臺坐落於上海張江機器人谷。江磊透露，一些頭部企業也將集聚到張江機器人谷，共同完善當地一體化中試閉環。（證券時報）"
+    },
+    {
+      "id": "4995520",
+      "time": "2026-07-18 20:37:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯國家聯盟秘書長：對任何阿拉伯國家的任何侵略都將被視為對阿拉伯國家安全的侵略，以及對整個阿拉伯民族利益的侵略。"
+    },
+    {
+      "id": "4995519",
+      "time": "2026-07-18 20:36:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿拉伯聯盟秘書長警告說，伊朗對一些阿拉伯國家，特別是海灣地區國家發動的魯莽襲擊構成了極大的危險。"
+    },
+    {
+      "id": "mkt:019f753a-94a4-7aab-8df0-b4e910bf49a2",
+      "time": "2026-07-18 20:36:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Qianjue Robotics debuts VTLA embodied tactile model at World Artificial Intelligence Conference】At the World Artificial Intelligence Conference (July 17–20, 2026), Qianjue Robotics unveiled a VTLA (vision-tactile-language-action) embodied tactile model, a vision–tactile multimodal dataset, core data-acquisition equipment and a tactile-sensor hardware matrix. Qianjue says VTLA integrates visual and tactile perception unlike traditional vision-only VLA models, enabling robots to capture physical object properties inaccessible to single-camera systems and materially improving recognition dimensions and detection accuracy."
+    },
     {
       "id": "mkt:019f7538-301b-7aab-8df0-ac81dd286a19",
       "time": "2026-07-18 20:34:04",
@@ -175742,46 +175776,6 @@
         "其他"
       ],
       "text": "【國內電影市場單日票房突破3億元 創數月新高】燈塔專業版資料顯示，截至7月11日20時34分，國內電影市場單日票房突破3億元，系今年2月26日以來單日票房首次超過3億元。"
-    },
-    {
-      "id": "mkt:019f5130-70e4-7aab-8d3d-ea933a9c954b",
-      "time": "2026-07-11 20:39:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi Press Agency reports Saudi Minister of Industry and Mineral Resources Bandar Al-Khorayef has been removed from his post."
-    },
-    {
-      "id": "mkt:019f512f-ed77-7aab-8d3d-e48cd2d2f775",
-      "time": "2026-07-11 20:38:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【July 2026 box office tops 1 bln yuan】Lighthouse Professional data show that as of July 11 total July 2026 box office, including presales, exceeded 1 bln yuan; Kung Fu Women's Soccer was leading the July box office chart."
-    },
-    {
-      "id": "mkt:019f512f-8f9b-7aab-8d3d-da3f7eca6bfe",
-      "time": "2026-07-11 20:38:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Saudi state news agency reported the royal court appointed Energy Minister Abdulaziz bin Salman, son of King Salman, to also serve as minister of industry and mineral resources."
-    },
-    {
-      "id": "4982248",
-      "time": "2026-07-11 20:38:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年7月票房破10億】據燈塔專業版，截至7月11日，2026年7月總票房（含預售）突破10億，《功夫女足》領跑7月票房榜。"
-    },
-    {
-      "id": "4982247",
-      "time": "2026-07-11 20:37:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "沙特國王任命能源大臣阿卜杜勒阿齊茲·本·薩勒曼親王兼任工業和礦產資源大臣。"
     }
   ]
 }
