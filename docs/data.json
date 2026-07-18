@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-18 09:49:36",
+  "updated": "2026-07-18 09:53:32",
   "count": 18994,
   "items": [
+    {
+      "id": "4995226",
+      "time": "2026-07-18 09:51:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南貴州至長江中下游等地有較強降雨 華北東北降雨頻繁】今天（7月18日）起，南方雨帶明顯南壓，較強降雨將集中在雲南、貴州至長江中下游一帶。與此同時，華北、東北降雨將再度進入集中期，未來一週多陣雨或雷陣雨天氣。氣溫方面，隨著副熱帶高壓減弱東退以及降雨增多，長江中下游高溫會大幅收斂，合肥、武漢、南京、長沙等地將陸續退出高溫圈。（央視新聞）"
+    },
+    {
+      "id": "4995225",
+      "time": "2026-07-18 09:49:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體報道，霍拉馬巴德地區傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019f72ea-4dde-7aab-8dec-f6eca6f72d0e",
+      "time": "2026-07-18 09:49:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media reported explosions were heard in the Khorramabad area."
+    },
     {
       "id": "4995224",
       "time": "2026-07-18 09:48:10",
@@ -175072,30 +175096,6 @@
         "Impact bearish"
       ],
       "text": "【Strong offshore demand at 30-year Treasury auction masks opportunistic buying】The U.S. Treasury sold $22.0bn of 30-year bonds at a stop-out yield of 5.058% (about 0.3bps below pre-auction levels) with a bid-to-cover of 2.44. Indirect bidders—predominantly offshore institutions—took 77.74% of the issue; direct (domestic) bidders accounted for just 12.24%, signalling relatively weak onshore demand. Analysts say this points to price-driven, opportunistic foreign buying—investors only re-enter when yields sufficiently compensate duration and fiscal risks—not a structural, broad-based return to Treasuries. Market implications: the auction eases near-term upside pressure on long-end yields and reduces tail-risk; for gold the effect is neutral-to-negative since high nominal yields keep holding costs elevated and limit durable gains absent a clear drop in real rates. Overall, recovery in long-end demand appears contingent on yield attraction rather than unconditional safe-haven flows."
-    },
-    {
-      "id": "4982005",
-      "time": "2026-07-11 09:51:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【博思軟體完成雲南區域業務整合 博思智合揭牌】博思軟體集團旗下智合力興與雲南博思完成深度整合，全新經營主體博思智合在昆明揭牌。此次合併是集團深化西南區域戰略佈局的重要舉措，標誌著雲南屬地業務從分散協同邁向一體化運營。"
-    },
-    {
-      "id": "mkt:019f4ede-7033-7aab-8d3b-2b006f921af3",
-      "time": "2026-07-11 09:50:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Centers for Disease Control and Prevention says a U.S. citizen in the Democratic Republic of Congo has tested positive for Bundibugyo ebolavirus."
-    },
-    {
-      "id": "4982004",
-      "time": "2026-07-11 09:49:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心報告稱，一名在剛果民主共和國的美國公民布迪布焦埃博拉病毒檢測呈陽性。"
     }
   ]
 }
