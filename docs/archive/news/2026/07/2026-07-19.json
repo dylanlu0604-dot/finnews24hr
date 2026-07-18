@@ -1,0 +1,64 @@
+{
+  "date": "2026-07-19",
+  "count": 6,
+  "items": [
+    {
+      "id": "4995610",
+      "time": "2026-07-19 00:04:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破82美元 日內漲超2.4%。"
+    },
+    {
+      "id": "mkt:019f75f8-68a7-7aab-8df1-8f36194d0c02",
+      "time": "2026-07-19 00:04:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israeli strikes on residential building in west Gaza City kill five】On the 18th local time, Israeli forces struck a residential building in west Gaza City, killing five Palestinians and wounding several. Israeli strikes across Gaza from early morning through evening killed nine people in total, including three children. Israeli authorities had not commented on the reports."
+    },
+    {
+      "id": "4995609",
+      "time": "2026-07-19 00:03:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴將很快就國家問題發表宣告。"
+    },
+    {
+      "id": "mkt:019f75f7-bf7a-7aab-8df1-86aa796156e8",
+      "time": "2026-07-19 00:03:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says US carried out three airstrikes in Hormozgan; 116 telecom towers disrupted】Iranian sources said on the 18th local time that US military forces carried out three airstrikes in southern Hormozgan province. The Hormozgan communications authority said the strikes disrupted 116 telecom towers."
+    },
+    {
+      "id": "4995608",
+      "time": "2026-07-19 00:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，伊朗最高領袖即將釋出訊息  。"
+    },
+    {
+      "id": "mkt:019f75f7-169c-7aab-8df1-7e7c0ec7ac7a",
+      "time": "2026-07-19 00:02:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media says a speech by the Supreme Leader on a martyrs' funeral and several key national issues will be released in minutes."
+    }
+  ]
+}

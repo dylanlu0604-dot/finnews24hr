@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-19 00:00:53",
-  "count": 19067,
+  "updated": "2026-07-19 00:05:55",
+  "count": 19069,
   "items": [
+    {
+      "id": "4995610",
+      "time": "2026-07-19 00:04:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破82美元 日內漲超2.4%。"
+    },
+    {
+      "id": "mkt:019f75f8-68a7-7aab-8df1-8f36194d0c02",
+      "time": "2026-07-19 00:04:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Israeli strikes on residential building in west Gaza City kill five】On the 18th local time, Israeli forces struck a residential building in west Gaza City, killing five Palestinians and wounding several. Israeli strikes across Gaza from early morning through evening killed nine people in total, including three children. Israeli authorities had not commented on the reports."
+    },
+    {
+      "id": "4995609",
+      "time": "2026-07-19 00:03:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高領袖穆傑塔巴將很快就國家問題發表宣告。"
+    },
+    {
+      "id": "mkt:019f75f7-bf7a-7aab-8df1-86aa796156e8",
+      "time": "2026-07-19 00:03:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says US carried out three airstrikes in Hormozgan; 116 telecom towers disrupted】Iranian sources said on the 18th local time that US military forces carried out three airstrikes in southern Hormozgan province. The Hormozgan communications authority said the strikes disrupted 116 telecom towers."
+    },
+    {
+      "id": "4995608",
+      "time": "2026-07-19 00:02:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家媒體稱，伊朗最高領袖即將釋出訊息  。"
+    },
+    {
+      "id": "mkt:019f75f7-169c-7aab-8df1-7e7c0ec7ac7a",
+      "time": "2026-07-19 00:02:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian state media says a speech by the Supreme Leader on a martyrs' funeral and several key national issues will be released in minutes."
+    },
     {
       "id": "4995607",
       "time": "2026-07-18 23:58:10",
@@ -175807,38 +175865,6 @@
         "焦點"
       ],
       "text": "颱風“巴威”於12日0時前後，在浙江省溫州市樂清市清江鎮沿海二次登陸，登陸時中心附近最大風力13級（38米/秒），中心最低氣壓960百帕。 （中央氣象臺）"
-    },
-    {
-      "id": "4982304",
-      "time": "2026-07-12 00:05:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【颱風“巴威”登陸浙江，上海已組織轉移29.97萬人】據上海市氣象臺訊息，今年第9號颱風“巴威”（颱風級）的中心已於7月11日23點20分在浙江玉環沿海登陸，登陸時中心附近最大風力有13級（40米/秒），中心最低氣壓為955百帕。記者從上海市防汛指揮部獲悉，截至11日21時，全市共組織轉移 29.97 萬人，全市共啟用 905 處防汛避災安置場所。"
-    },
-    {
-      "id": "4982303",
-      "time": "2026-07-12 00:03:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“張雪機車”獲WSBK多寧頓公園站首回合第八名】11日在2026世界超級摩托車錦標賽（WSBK）英國多寧頓公園站WorldSSP組別首回合正賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯取得第八名。凱旋車隊的英國車手布思-阿莫斯奪得冠軍。（新華社）"
-    },
-    {
-      "id": "4982302",
-      "time": "2026-07-12 00:02:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【高溫乾旱加劇火情 義大利多地林火持續】受持續高溫、乾旱及大風天氣影響，義大利北部皮埃蒙特大區以及西西里島、撒丁島等地森林火災仍在持續。相關部門已投入消防飛機、直升機及地面救援力量展開撲救。當地時間7月11日，皮埃蒙特大區釋出宣告稱，此輪森林火災已造成都靈、韋爾切利、諾瓦拉和韋巴諾-庫西奧-奧索拉等省約800至900公頃森林過火，約70萬棵樹木被毀，演變成一場“生態災難”。宣告表示，受損地區草本植物和灌木恢復預計需要2至5年，而森林生態系統恢復則可能需要50至70年。皮埃蒙特大區初步調查認為，此輪火災多由雷擊引發，在高溫、乾旱和強風作用下迅速蔓延。（央視新聞）"
-    },
-    {
-      "id": "4982301",
-      "time": "2026-07-12 00:01:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影 《小黃人與大怪獸》 上映10天， 總票房破2億。"
     }
   ]
 }
