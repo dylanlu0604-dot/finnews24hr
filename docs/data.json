@@ -1,7 +1,30 @@
 {
-  "updated": "2026-07-19 01:20:10",
+  "updated": "2026-07-19 01:24:11",
   "count": 19096,
   "items": [
+    {
+      "id": "mkt:019f763f-f14f-7aab-8df2-4a30d11757a1",
+      "time": "2026-07-19 01:22:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran missile strike on Jordan airbase kills two U.S. service members, wounds others】Axios cited U.S. military officials saying two U.S. service members were killed and several wounded after Iran fired at least two ballistic missiles on Saturday that struck Jordan’s Muwaffaq Salti Airbase, which hosts U.S. forces and fighter jets. The deaths are the first U.S. fatalities since the conflict resumed two weeks ago and raise U.S. deaths in this round to 16."
+    },
+    {
+      "id": "mkt:019f763e-4645-7aab-8df2-42d1390bad30",
+      "time": "2026-07-19 01:20:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "The Information reports Oracle (ORCL.N)'s data center project is facing unexpected cost overruns of several bln dollars."
+    },
     {
       "id": "4995645",
       "time": "2026-07-19 01:18:05",
@@ -176103,22 +176126,6 @@
         "國際"
       ],
       "text": "【GPT-5.6釋出之際 馬斯克與奧特曼隔空互懟】GPT-5.6釋出之際，埃隆·馬斯克與OpenAI創始人奧特曼在社交平臺上爆發公開交鋒。馬斯克率先發文，稱“他把詐騙提升到了一個全新的高度”。不久後，又轉發奧特曼此前的美國國會聽證會發言截圖，該圖配文為“我做這件事並非出於熱衷”，馬斯克嘲諷稱“他說的‘這件事’指的就是詐騙”，“他對搞詐騙的熱愛，可能超過了任何一個活著的人”。對此，奧爾特曼發文回應，調侃稱“哥們兒，你才是真正拿‘短期內建太空資料中心’忽悠公開市場投資者的人。”隨後，奧特曼再次發帖，宣傳最新推出的ChatGPT模型的同時進一步反擊，“有很多基準測試表明GPT‑5.6 Sol是目前世界上最好的模型，但最可靠的判斷方式就是埃隆又開始針對我了。”"
-    },
-    {
-      "id": "4982326",
-      "time": "2026-07-12 01:23:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "黎巴嫩官方訊息人士：黎巴嫩代表團僅由外交人員組成，不會安排軍方代表參會。"
-    },
-    {
-      "id": "4982325",
-      "time": "2026-07-12 01:23:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：黎巴嫩已通知華盛頓，其將參與在羅馬與以色列舉行的新一輪談判。"
     }
   ]
 }

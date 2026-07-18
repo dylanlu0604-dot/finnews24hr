@@ -1,7 +1,30 @@
 {
   "date": "2026-07-19",
-  "count": 63,
+  "count": 65,
   "items": [
+    {
+      "id": "mkt:019f763f-f14f-7aab-8df2-4a30d11757a1",
+      "time": "2026-07-19 01:22:09",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran missile strike on Jordan airbase kills two U.S. service members, wounds others】Axios cited U.S. military officials saying two U.S. service members were killed and several wounded after Iran fired at least two ballistic missiles on Saturday that struck Jordan’s Muwaffaq Salti Airbase, which hosts U.S. forces and fighter jets. The deaths are the first U.S. fatalities since the conflict resumed two weeks ago and raise U.S. deaths in this round to 16."
+    },
+    {
+      "id": "mkt:019f763e-4645-7aab-8df2-42d1390bad30",
+      "time": "2026-07-19 01:20:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "The Information reports Oracle (ORCL.N)'s data center project is facing unexpected cost overruns of several bln dollars."
+    },
     {
       "id": "4995645",
       "time": "2026-07-19 01:18:05",
