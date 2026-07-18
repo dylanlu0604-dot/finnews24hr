@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-18 12:28:53",
-  "count": 19026,
+  "updated": "2026-07-18 12:32:53",
+  "count": 19024,
   "items": [
+    {
+      "id": "4995315",
+      "time": "2026-07-18 12:29:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：全國15條河流仍維持超警】今天上午，水利部舉行會商，分析研判全國的防汛形勢，安排部署暴雨洪水防禦工作。截至7月18日9時，吉林、遼寧、黑龍江、內蒙古、天津、河北、雲南、江蘇、廣西等地15條河流仍維持超警，最大超警幅度2.82米。（央視新聞）"
+    },
     {
       "id": "4995313",
       "time": "2026-07-18 12:25:30",
@@ -175375,30 +175383,6 @@
         "Copper"
       ],
       "text": "【Raw-material surge pushes Shenghong to raise full product prices 10%-30%】Shenghong Co. will raise prices across its electric power-quality, charging/swapping, energy-storage microgrid, battery formation and test, and residential storage product lines by 10%-30% effective July 21, 2026; the increase will not be applied retroactively to orders already in transit. The company says the move is a forced pass-through after core raw-material costs and lead times rose sharply: gold, silver, copper and tin up 30%-200%; PCBs, memory chips, magnetic components, SMD resistors/capacitors, IGBT chips, isolation driver chips, and breakers/relays up 50%-800% and still rising. Manufacturing costs have climbed markedly since early 2026; Shenghong says supply-chain optimization and lean measures have been insufficient and the existing price structure no longer covers cost increases."
-    },
-    {
-      "id": "4982073",
-      "time": "2026-07-11 12:32:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【原材料價格攀升，盛弘股份全系產品提價10%-30%】記者獲悉，電能質量領域頭部企業盛弘股份（300693.SZ）已決定自2026年7月21日起，對電能質量、充換電裝置、儲能微網、電池化成與檢測、戶用儲能等全系列產品價格統一上調10%-30%，此前已簽訂的在途訂單不追溯調整。知情人士向記者透露，公司核心原材料價格全面攀升、交期顯著延長——金、銀、銅、錫等有色金屬漲幅在30%-200%不等；PCB、儲存晶片、磁性器件、貼片阻容、IGBT晶片、隔離驅動晶片、斷路器/繼電器等元器件漲幅更高達50%-800%，且漲勢未止。（藍鯨新聞）"
-    },
-    {
-      "id": "4982072",
-      "time": "2026-07-11 12:31:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際能源署：歐盟電氣化推進遲緩實屬失策】國際能源署署長法提赫·比羅爾在與歐盟能源專員丹·約根森共同接受採訪時表示，歐洲未能降低對化石燃料的依賴，此舉是一大失誤。 比羅爾指出，歐盟約23%的電氣化率偏低，正在拖累歐盟整體競爭力。 他稱，歐盟應當效仿電氣化率超30%的國家。 一份草案報道顯示，歐盟能源委員會將於下週公佈方案，要求各成員國下調電力稅費，並加大補貼力度，助力家庭普及綠色能源技術。 比羅爾透露，目前已有600吉瓦可再生能源專案建成完工，正排隊等待併網。"
-    },
-    {
-      "id": "4982071",
-      "time": "2026-07-11 12:29:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家防總針對上海江蘇安徽江西四川啟動防汛防颱風四級應急響應】根據《國家防汛抗旱應急預案》及有關規定，國家防總決定於11日11時針對上海、江蘇、安徽、江西、四川啟動防汛防颱風四級應急響應。"
     }
   ]
 }
