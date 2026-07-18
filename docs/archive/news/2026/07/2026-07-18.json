@@ -1,7 +1,55 @@
 {
   "date": "2026-07-18",
-  "count": 618,
+  "count": 623,
   "items": [
+    {
+      "id": "mkt:019f741a-ae2c-7aab-8dee-4f7036780f29",
+      "time": "2026-07-18 15:22:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain Interior Ministry says alarms sounded again."
+    },
+    {
+      "id": "4995387",
+      "time": "2026-07-18 15:22:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林響起警報。"
+    },
+    {
+      "id": "mkt:019f741a-585f-7aab-8dee-454925b01209",
+      "time": "2026-07-18 15:21:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "CNH",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "【Investment in China AI supply chain becomes global consensus; orders for Chinese AI components booked through end‑2027】Multiple foreign investors say investing in China’s AI supply chain has become a global consensus. China now manufactures over 1.5 billion chips per day, and large models register daily token calls in the hundreds of trillions, the highest globally. China’s AI core industry is expected to expand by more than 30% this year. Goldman Sachs values China’s AI sector at about $4 trillion and sees substantial upside given its industrial advantages. UBS reports sustained strong demand for Chinese AI tech components, with orders booked through end‑2027."
+    },
+    {
+      "id": "4995386",
+      "time": "2026-07-18 15:20:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油暗盤突破86美元 日內漲超3.7%。"
+    },
+    {
+      "id": "4995385",
+      "time": "2026-07-18 15:19:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶釋出地質災害氣象風險橙色預警】18日，重慶市規劃和自然資源局、重慶市氣象局聯合釋出全市地質災害氣象風險預警。 7月18日8時至19日8時，重慶市彭水、武隆、黔江、酉陽屬於風險高地區，地質災害氣象風險等級為Ⅱ級（橙色預警），涪陵、南川、豐都、忠縣、萬州、開州、奉節、巫山、城口、石柱、秀山屬於風險較高地區，地質災害氣象風險等級為Ⅲ級（黃色預警），沙坪壩、北碚、兩江新區、墊江、長壽、梁平、雲陽、巫溪屬於有一定風險地區，地質災害氣象風險等級為Ⅳ級（藍色預警）。"
+    },
     {
       "id": "4995384",
       "time": "2026-07-18 15:17:14",
