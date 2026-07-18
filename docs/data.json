@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-19 02:40:54",
-  "count": 19106,
+  "updated": "2026-07-19 02:44:47",
+  "count": 19107,
   "items": [
+    {
+      "id": "mkt:019f768a-cbd8-7aab-8df2-b00c53ebd89a",
+      "time": "2026-07-19 02:43:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "IRNA reported Bushehr province governor Mohammad Mozafari said there is currently neither a request nor a formal order to evacuate residents of Kharg Island."
+    },
+    {
+      "id": "4995665",
+      "time": "2026-07-19 02:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：伊朗波斯灣領海內的哈爾克島與本土之間常規海上運輸仍保持24小時不間斷正常運營。"
+    },
+    {
+      "id": "4995664",
+      "time": "2026-07-19 02:43:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗布什爾省省長：目前並未收到任何撤離哈爾克島居民的申請，也未下發相關官方指令。"
+    },
+    {
+      "id": "4995663",
+      "time": "2026-07-19 02:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：自去年2月美伊衝突爆發以來，已有16名美軍士兵身亡，超430人受傷。"
+    },
     {
       "id": "4995662",
       "time": "2026-07-19 02:38:21",
@@ -176205,32 +176239,6 @@
         "其他"
       ],
       "text": "訊息人士：阿曼就霍爾木茲海峽航運航線提出一項協議。"
-    },
-    {
-      "id": "mkt:019f527d-3132-7aab-8d3f-6fb5c9a45bfb",
-      "time": "2026-07-12 02:42:44",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Omani state news agency said Oman and Iran agreed to continue technical and political talks to reach a Strait of Hormuz navigation agreement under international law."
-    },
-    {
-      "id": "4982341",
-      "time": "2026-07-12 02:42:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴斯夫：已控制住德國廠區化學品洩漏險情，酸液洩漏事故無人員受傷。"
-    },
-    {
-      "id": "4982340",
-      "time": "2026-07-12 02:41:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "阿曼媒體：阿曼與伊朗同意繼續開展技術及政治層面磋商，以期根據國際法就霍爾木茲海峽航行問題達成協議。"
     }
   ]
 }

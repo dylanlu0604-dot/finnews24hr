@@ -1,7 +1,41 @@
 {
   "date": "2026-07-19",
-  "count": 94,
+  "count": 98,
   "items": [
+    {
+      "id": "mkt:019f768a-cbd8-7aab-8df2-b00c53ebd89a",
+      "time": "2026-07-19 02:43:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Brent"
+      ],
+      "text": "IRNA reported Bushehr province governor Mohammad Mozafari said there is currently neither a request nor a formal order to evacuate residents of Kharg Island."
+    },
+    {
+      "id": "4995665",
+      "time": "2026-07-19 02:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：伊朗波斯灣領海內的哈爾克島與本土之間常規海上運輸仍保持24小時不間斷正常運營。"
+    },
+    {
+      "id": "4995664",
+      "time": "2026-07-19 02:43:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗布什爾省省長：目前並未收到任何撤離哈爾克島居民的申請，也未下發相關官方指令。"
+    },
+    {
+      "id": "4995663",
+      "time": "2026-07-19 02:42:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：自去年2月美伊衝突爆發以來，已有16名美軍士兵身亡，超430人受傷。"
+    },
     {
       "id": "4995662",
       "time": "2026-07-19 02:38:21",
