@@ -1,7 +1,25 @@
 {
   "date": "2026-07-18",
-  "count": 364,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:019f729e-2079-7aab-8dec-6e696855088c",
+      "time": "2026-07-18 08:26:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwaiti military says its air-defence system successfully intercepted an enemy drone attack."
+    },
+    {
+      "id": "4995181",
+      "time": "2026-07-18 08:24:27",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：蘋果公司將日本iPhone售價上調10%。"
+    },
     {
       "id": "4995180",
       "time": "2026-07-18 08:23:14",
