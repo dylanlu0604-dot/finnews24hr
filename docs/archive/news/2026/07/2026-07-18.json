@@ -1,7 +1,45 @@
 {
   "date": "2026-07-18",
-  "count": 373,
+  "count": 376,
   "items": [
+    {
+      "id": "4995188",
+      "time": "2026-07-18 08:42:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：墨西哥總統辛鮑姆將前往美國觀看世界盃決賽。"
+    },
+    {
+      "id": "mkt:019f72ac-2c04-7aab-8dec-853e2318818e",
+      "time": "2026-07-18 08:41:53",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "300207.SZ",
+        "Impact bullish",
+        "300438.SZ",
+        "300274.SZ"
+      ],
+      "text": "【AI data-center energy storage gains traction; listed suppliers position】Energy-storage systems for AI data centers are emerging as a new growth segment as demand climbs. Dedicated storage is cited as better suited than traditional grids for AI workloads’ high energy draw, heavy loads, elevated safety requirements and need for fast response, improving supply reliability and energy efficiency and becoming a core requirement for compute infrastructure. Industry participants say technical barriers are higher than for conventional storage, so clients prioritize quality and delivery, show lower price sensitivity and tend to contract with leading suppliers. Listed companies actively building capacity across the value chain include Sunwoda, Penghui Energy and Sungrow."
+    },
+    {
+      "id": "mkt:019f72ab-513a-7aab-8dec-7ff80771de63",
+      "time": "2026-07-18 08:40:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact mixed"
+      ],
+      "text": "Market sources say Apple (AAPL.O) will raise iPhone prices in Japan by 10%."
+    },
     {
       "id": "4995187",
       "time": "2026-07-18 08:39:36",
