@@ -1,7 +1,15 @@
 {
   "date": "2026-07-18",
-  "count": 868,
+  "count": 869,
   "items": [
+    {
+      "id": "mkt:019f758f-f3ed-7aab-8df1-3cb5f3779a1a",
+      "time": "2026-07-18 22:09:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to the Wall Street Journal, Turkey plans to sell Russian air-defense systems and is seeking to procure U.S. F-35 fighters."
+    },
     {
       "id": "4995574",
       "time": "2026-07-18 22:02:37",
