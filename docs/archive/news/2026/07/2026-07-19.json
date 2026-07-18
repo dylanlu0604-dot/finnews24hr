@@ -1,7 +1,27 @@
 {
   "date": "2026-07-19",
-  "count": 48,
+  "count": 50,
   "items": [
+    {
+      "id": "mkt:019f762a-4609-7aab-8df2-1eb4ff5b23eb",
+      "time": "2026-07-19 00:58:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Codelco said storm impacts in Chile have eased and its Andina copper mine has resumed mining."
+    },
+    {
+      "id": "4995636",
+      "time": "2026-07-19 00:57:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司：智利風暴災情緩解，安第納銅礦恢復開採。"
+    },
     {
       "id": "4995635",
       "time": "2026-07-19 00:55:55",

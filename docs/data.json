@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-19 00:56:44",
+  "updated": "2026-07-19 01:00:36",
   "count": 19089,
   "items": [
+    {
+      "id": "mkt:019f762a-4609-7aab-8df2-1eb4ff5b23eb",
+      "time": "2026-07-19 00:58:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "Codelco said storm impacts in Chile have eased and its Andina copper mine has resumed mining."
+    },
+    {
+      "id": "4995636",
+      "time": "2026-07-19 00:57:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "智利國家銅業公司：智利風暴災情緩解，安第納銅礦恢復開採。"
+    },
     {
       "id": "4995635",
       "time": "2026-07-19 00:55:55",
@@ -176041,25 +176061,6 @@
         "其他"
       ],
       "text": "【受“巴威”影響 上海兩機場計劃取消航班653架次】記者從上海機場瞭解到，受今年第9號颱風“巴威”影響，12日上海浦東機場和虹橋機場通行能力將出現下降，近三成進出港航班調減取消。兩機場計劃取消進出港航班653架次，其中，浦東機場458架次、虹橋機場195架次。上海機場提醒旅客及時向所乘航司瞭解查詢航班最新動態，合理安排出行。（央視新聞）"
-    },
-    {
-      "id": "4982319",
-      "time": "2026-07-12 00:59:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉國民議會議長豪爾赫·羅德里格斯表示，地震已造成4,333人死亡，16,740人受傷。"
-    },
-    {
-      "id": "mkt:019f521d-ed4c-7aab-8d3f-2d1eb5441dd9",
-      "time": "2026-07-12 00:58:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【US pushes to reopen Iraq‑Syria oil pipeline to bypass Strait of Hormuz】Middle East Eye reports the US is working with Iraq and Syria to rehabilitate an about 800 km pipeline from Kirkuk to the Mediterranean port of Baniyas to enable Iraqi crude exports that bypass the Strait of Hormuz. An agreement is expected to be announced during Iraqi PM Ali al‑Zaidi’s planned White House meeting with Trump next week. The pipeline has been out of service for decades and is severely damaged; a senior official said it will likely require full reconstruction, a project expected to take two to three years. A group of US companies has been recruited to participate."
     }
   ]
 }
