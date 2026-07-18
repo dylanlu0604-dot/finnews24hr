@@ -1,7 +1,26 @@
 {
   "date": "2026-07-18",
-  "count": 866,
+  "count": 868,
   "items": [
+    {
+      "id": "4995574",
+      "time": "2026-07-18 22:02:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及譴責伊朗對科威特、巴林和阿曼的襲擊。"
+    },
+    {
+      "id": "mkt:019f7588-9341-7aab-8df1-361dc0f9885a",
+      "time": "2026-07-18 22:01:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Russia, UAE foreign ministers speak; urge US and Iran to cease fire, resume talks】The Russian foreign ministry said on the 18th that Russian FM Lavrov spoke with UAE Deputy Prime Minister and FM Abdullah. Against the backdrop of ongoing US‑Iran exchanges in the Persian Gulf, both ministers called for an immediate ceasefire, resumption of negotiations and measures to保障 navigation safety in the Strait of Hormuz. They also discussed consolidating the Russia‑UAE strategic partnership, including expanding economic ties, and agreed to continue close diplomatic coordination bilaterally and in multilateral forums."
+    },
     {
       "id": "4995573",
       "time": "2026-07-18 21:58:13",
