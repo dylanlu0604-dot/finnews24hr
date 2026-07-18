@@ -1,7 +1,31 @@
 {
   "date": "2026-07-19",
-  "count": 104,
+  "count": 107,
   "items": [
+    {
+      "id": "4995671",
+      "time": "2026-07-19 03:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：部隊嚴格執行針對伊朗的海上封鎖行動。"
+    },
+    {
+      "id": "4995670",
+      "time": "2026-07-19 03:02:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部已調改5艘商船航線。"
+    },
+    {
+      "id": "mkt:019f769b-7a8f-7aab-8df2-cff9ed2e097c",
+      "time": "2026-07-19 03:02:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ZELENSKIY said decisions on the military will continue to be negotiated."
+    },
     {
       "id": "4995669",
       "time": "2026-07-19 02:57:19",
