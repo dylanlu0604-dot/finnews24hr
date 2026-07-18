@@ -1,7 +1,15 @@
 {
   "date": "2026-07-18",
-  "count": 873,
+  "count": 874,
   "items": [
+    {
+      "id": "mkt:019f759a-2676-7aab-8df1-408b78602a95",
+      "time": "2026-07-18 22:21:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yangtze Optical Fibre CEO says polarization‑maintaining fiber demand could rise 10x–20x in 1–2 years】Yangtze Optical Fibre executive director and CEO Zhuang Dan said on July 18 that global fiber demand has shifted from telecom to AI/compute‑center drivers. He cited forecasts to 2030 showing FTTx CAGR of 2.47% versus a 20.74% CAGR for compute‑center demand. Zhuang said Yangtze ranks first domestically in polarization‑maintaining (PM) fiber market share for five consecutive years and predicted PM fiber demand could increase by an order of magnitude — possibly 10x–20x — over the next one to two years, driven by next‑generation high‑performance CPUs and silicon photonics components."
+    },
     {
       "id": "4995578",
       "time": "2026-07-18 22:18:23",
