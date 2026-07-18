@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 810,
+  "count": 814,
   "items": [
+    {
+      "id": "mkt:019f7538-301b-7aab-8df0-ac81dd286a19",
+      "time": "2026-07-18 20:34:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran deputy foreign minister says Iran has stopped implementing Iran-U.S. memorandum】Iranian media reported on the 18th that Deputy Foreign Minister Gharibabadi said Iran has stopped implementing the Iran‑U.S. memorandum of understanding after the U.S. violated its commitments."
+    },
+    {
+      "id": "4995518",
+      "time": "2026-07-18 20:32:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱已停止履行伊美諒解備忘錄】據伊朗媒體18日報道，伊朗副外長加里巴巴迪表示，在美國違反承諾後，伊朗已停止履行伊美諒解備忘錄。（新華社）"
+    },
+    {
+      "id": "4995517",
+      "time": "2026-07-18 20:32:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿迪達斯CEO：目前預測世界盃相關銷售額將達到約15億歐元，高於此前預測的10億歐元。"
+    },
+    {
+      "id": "mkt:019f7536-2af5-7aab-8df0-a4c673ff65d4",
+      "time": "2026-07-18 20:31:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion at Gujarat firecracker factory kills at least 8】On July 18, an explosion at a firecracker factory in Gujarat, India, killed at least eight people and injured several others."
+    },
     {
       "id": "4995516",
       "time": "2026-07-18 20:30:16",

@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-18 20:32:05",
-  "count": 19057,
+  "updated": "2026-07-18 20:36:06",
+  "count": 19060,
   "items": [
+    {
+      "id": "mkt:019f7538-301b-7aab-8df0-ac81dd286a19",
+      "time": "2026-07-18 20:34:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Iran deputy foreign minister says Iran has stopped implementing Iran-U.S. memorandum】Iranian media reported on the 18th that Deputy Foreign Minister Gharibabadi said Iran has stopped implementing the Iran‑U.S. memorandum of understanding after the U.S. violated its commitments."
+    },
+    {
+      "id": "4995518",
+      "time": "2026-07-18 20:32:43",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱已停止履行伊美諒解備忘錄】據伊朗媒體18日報道，伊朗副外長加里巴巴迪表示，在美國違反承諾後，伊朗已停止履行伊美諒解備忘錄。（新華社）"
+    },
+    {
+      "id": "4995517",
+      "time": "2026-07-18 20:32:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿迪達斯CEO：目前預測世界盃相關銷售額將達到約15億歐元，高於此前預測的10億歐元。"
+    },
+    {
+      "id": "mkt:019f7536-2af5-7aab-8df0-a4c673ff65d4",
+      "time": "2026-07-18 20:31:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Explosion at Gujarat firecracker factory kills at least 8】On July 18, an explosion at a firecracker factory in Gujarat, India, killed at least eight people and injured several others."
+    },
     {
       "id": "4995516",
       "time": "2026-07-18 20:30:16",
@@ -175748,14 +175782,6 @@
         "其他"
       ],
       "text": "沙特國王任命能源大臣阿卜杜勒阿齊茲·本·薩勒曼親王兼任工業和礦產資源大臣。"
-    },
-    {
-      "id": "4982246",
-      "time": "2026-07-11 20:34:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【共達電聲：與崑山瑪冀電子達成戰略合作 切入算力供應鏈體系】近日，共達電聲與崑山瑪冀電子股份有限公司（簡稱“崑山瑪冀電子”）正式簽署戰略合作框架協議，兩家企業發揮各自技術，產能與渠道優勢，達成戰略合作關係。此次戰略合作標誌著共達電聲正式切入算力供應鏈體系，在傳統電聲業務之外開闢AI電源全新賽道。"
     }
   ]
 }
