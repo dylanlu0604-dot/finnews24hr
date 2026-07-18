@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-18 08:56:07",
-  "count": 18986,
+  "updated": "2026-07-18 08:59:59",
+  "count": 18989,
   "items": [
+    {
+      "id": "4995195",
+      "time": "2026-07-18 08:58:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗導彈成功突破約旦防空系統，聲稱“愛國者”導彈防禦系統未能有效攔截。"
+    },
+    {
+      "id": "4995194",
+      "time": "2026-07-18 08:58:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【時隔11年 恢復對鋰電池等產品徵收消費稅 專家：引導新能源製造業優質優價 業內人士：推動行業出清和結構最佳化】7月17日，中國光伏行業協會諮詢專家呂錦標對記者稱，新政主要還是引導新能源製造業不要低價競爭，應該優質優價。消費稅為價內稅，在產品生產、委託加工、進口環節由生產/加工/進口企業繳納，把電池類產品納入消費稅，主要體現對節能環保的促進。 評估新政對公司產品價格、利潤的未來影響時，多位光伏、鋰電行業業內人士對記者稱，要看未來的實施細則，目前還很難說，但加稅一定程度上會使產品價格上升。（每經）"
+    },
+    {
+      "id": "mkt:019f72ba-e14c-7aab-8dec-b9996af95959",
+      "time": "2026-07-18 08:57:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "IRNA, citing Arab media, reported that an Iranian missile breached Jordanian air defenses and claimed the Patriot missile defense system failed to intercept effectively."
+    },
+    {
+      "id": "4995193",
+      "time": "2026-07-18 08:56:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶彭水今後三天還會有降雨】7月17日9時10分許，重慶彭水縣漢葭街道突發山體崩塌。截至當天18時30分，山體崩塌現場已搜救出18人，其中8人遇難，10人被送醫院救治。另有34人失聯。18日，中國氣象局天氣預報主持人劉超表示，重慶彭水今後三天還會出現降雨，雨勢不大，明後天氣溫較高，需要注意防暑降溫，謹防中暑。（央視新聞）"
+    },
     {
       "id": "mkt:019f72b6-f47d-7aab-8dec-b29174800293",
       "time": "2026-07-18 08:53:40",
@@ -175005,14 +175041,6 @@
         "Southern General Aviation ETF"
       ],
       "text": "【Commercial aerospace rally lifts satellite ETFs; one ETF posts CNY 2.094 bln one-day net inflow】July 10 — China A-share commercial aerospace names surged, sending satellite and aviation ETFs sharply higher at the close: GF Satellite ETF, Fullgoal Satellite ETF and Southern General Aviation ETF gained over 8%; E Fund, Penghua and China Merchants satellite ETFs rose above 7%. Wind data show Yongying Satellite ETF recorded CNY 2.094 bln in net subscriptions on July 10; Fullgoal, E Fund and GF satellite ETFs each logged net inflows exceeding CNY 300 mln."
-    },
-    {
-      "id": "4981980",
-      "time": "2026-07-11 08:58:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商業航天板塊引爆ETF行情，有ETF單日淨申購近21億元】7月10日，A股商業航天板塊爆發，多隻衛星ETF集體大漲。截至收盤，衛星ETF廣發、衛星ETF富國、通用航空ETF南方漲幅均超過8%。衛星ETF易方達、衛星ETF鵬華、衛星ETF招商等漲幅超過7%。而根據最新ETF申購資料，資金也在湧入相關主題ETF。Wind資料顯示，7月10日，衛星ETF永贏淨申購金額達到20.94億元，衛星ETF富國、衛星ETF易方達、衛星ETF廣發等淨申購金額也超過3億元。"
     }
   ]
 }
