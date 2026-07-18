@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-19 00:44:59",
+  "updated": "2026-07-19 00:48:58",
   "count": 19085,
   "items": [
+    {
+      "id": "mkt:019f761f-956e-7aab-8df2-0196830eec7c",
+      "time": "2026-07-19 00:46:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations said it received a report of an incident involving a merchant vessel and military forces about 100 nm east of Duqm, Oman. The report said an oil tanker was affected amid ongoing military activity in the area."
+    },
+    {
+      "id": "4995633",
+      "time": "2026-07-19 00:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營機構表示，報告顯示該油輪因該地區持續的軍事活動而遭遇接觸。"
+    },
+    {
+      "id": "4995632",
+      "time": "2026-07-19 00:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易組織(UKMTO)表示，已收到報告稱，在阿曼杜庫姆以東約100海里處發生一起涉及商船和軍隊的事件。"
+    },
     {
       "id": "4995631",
       "time": "2026-07-19 00:43:52",
@@ -175992,34 +176020,6 @@
         "Brent"
       ],
       "text": "【US pushes to reopen Iraq‑Syria oil pipeline to bypass Strait of Hormuz】Middle East Eye reports the US is working with Iraq and Syria to rehabilitate an about 800 km pipeline from Kirkuk to the Mediterranean port of Baniyas to enable Iraqi crude exports that bypass the Strait of Hormuz. An agreement is expected to be announced during Iraqi PM Ali al‑Zaidi’s planned White House meeting with Trump next week. The pipeline has been out of service for decades and is severely damaged; a senior official said it will likely require full reconstruction, a project expected to take two to three years. A group of US companies has been recruited to participate."
-    },
-    {
-      "id": "4982318",
-      "time": "2026-07-12 00:48:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "馬斯克社交媒體發文稱，OpenAI CEO奧特曼把詐騙提升到了一個全新的高度。奧特曼回應馬斯克：“是你一直在向公開市場投資者兜售短期太空資料中心專案。”"
-    },
-    {
-      "id": "mkt:019f5213-dcd4-7aab-8d3f-21e02341b78d",
-      "time": "2026-07-12 00:47:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "IRNA reports explosions heard in Erbil and Sulaymaniyah in northern Iraq."
-    },
-    {
-      "id": "mkt:019f5212-1384-7aab-8d3f-1eb621ff53f6",
-      "time": "2026-07-12 00:45:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Qatar, Jordan discuss regional tensions, urge de-escalation】Qatari prime minister and foreign minister held a phone call with Jordan's deputy prime minister and foreign minister to discuss the current US‑Iran escalation, Qatar's foreign ministry said. Both stressed diplomacy and de‑escalation; Qatar called for implementation of the US‑Iran memorandum of understanding and maintenance of freedom of navigation in the Strait of Hormuz."
     }
   ]
 }

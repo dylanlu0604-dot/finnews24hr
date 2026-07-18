@@ -1,7 +1,35 @@
 {
   "date": "2026-07-19",
-  "count": 41,
+  "count": 44,
   "items": [
+    {
+      "id": "mkt:019f761f-956e-7aab-8df2-0196830eec7c",
+      "time": "2026-07-19 00:46:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "UK Maritime Trade Operations said it received a report of an incident involving a merchant vessel and military forces about 100 nm east of Duqm, Oman. The report said an oil tanker was affected amid ongoing military activity in the area."
+    },
+    {
+      "id": "4995633",
+      "time": "2026-07-19 00:46:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易運營機構表示，報告顯示該油輪因該地區持續的軍事活動而遭遇接觸。"
+    },
+    {
+      "id": "4995632",
+      "time": "2026-07-19 00:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易組織(UKMTO)表示，已收到報告稱，在阿曼杜庫姆以東約100海里處發生一起涉及商船和軍隊的事件。"
+    },
     {
       "id": "4995631",
       "time": "2026-07-19 00:43:52",
