@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-18 19:57:40",
-  "count": 19047,
+  "updated": "2026-07-18 20:01:43",
+  "count": 19049,
   "items": [
+    {
+      "id": "4995502",
+      "time": "2026-07-18 20:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "本週大盤主力資金累計淨流入-3985.7億元，煉化及貿易、工業金屬板塊淨流入居前，個股滬電股份、鵬鼎控股淨流入最多。"
+    },
+    {
+      "id": "4995501",
+      "time": "2026-07-18 19:59:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：世界模型的競爭將體現在資料管線、模擬環境、評測框架、訓練工具等方面】畢馬威7月18日在2026世界人工智慧大會上釋出的《跨越奇點：世界模型如何重塑具身智慧產業與商業新正規化》報告提到，儘管世界模型尚無統一定義，關於其能力邊界已逐漸形成較為一致的認識，即世界模型應能學習環境規律、預測未來狀態、推演動作影響，服務於智慧體規劃與決策。世界模型競爭將不只體現在模型引數和生成效果上，也體現在資料管線、模擬環境、評測框架、訓練工具和介面標準上。"
+    },
+    {
+      "id": "4995500",
+      "time": "2026-07-18 19:58:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【摩爾執行緒聯合創始人王東：推理市場沒有“萬能晶片”，而是解決方案的組合】GPU廠商摩爾執行緒聯合創始人、執行總裁王東說，“大模型的發展在國內外都非常迅速，現在頭部廠商平均每兩個月完成一次前沿基礎模型版本迭代，而在模型的呼叫成本上，我們發現，中國前沿基礎模型較國外同等智力水平模型有明顯成本優勢，中國模型價效比更優，這也恰恰說明模型公司在有限算力的情況下，對如何提升模型效率、價格效率以及訓練成本方面做了非常多的工作。”王東指出，推理市場沒有“萬能晶片”，而是“解決方案”的組合，“推理市場的技術應用門檻相對較低，且場景高度碎片化，不存在任何一家公司能夠壟斷所有細分應用場景；沒有絕對完美的單一硬體，透過靈活的軟硬協同，每個模型都能找到最適合它的硬體組合，實現成本與效能的最佳平衡。市場將湧現大量ISP公司，為MaaS提供商或終端客戶提供更具價效比，更靈活的定製化推理服務。”"
+    },
+    {
+      "id": "4995498",
+      "time": "2026-07-18 19:58:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "比利時禁止進口以色列在被佔領巴勒斯坦領土上建立的定居點的產品。"
+    },
+    {
+      "id": "4995497",
+      "time": "2026-07-18 19:57:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林再次拉響警報。"
+    },
     {
       "id": "4995495",
       "time": "2026-07-18 19:56:26",
@@ -175651,33 +175691,6 @@
         "WDC.O"
       ],
       "text": "【Storage chip stocks fall over 20% in recent weeks as fundamentals are reassessed】Storage-chip names have tumbled more than 20% in recent weeks after peaking in late June, industry participants said. Meta’s sale of compute capacity stoked fears of excess compute and triggered a sectorwide pullback; SanDisk, Micron, Seagate and Western Digital are among leaders down over 20%. Traders note the industry’s long-standing cycle—capacity broadside expansion in booms, price collapses and industrywide losses, then capex retrenchment and eventual recovery—remains intact. Analysts say the key variable now is whether technical gaps between AI large models continue to narrow, which would materially affect incremental storage demand. Separately, commercial dynamics are shifting: cloud providers and AI data centers are increasingly signing three- to five-year supply agreements with price bands, minimum purchase commitments and customer deposits to secure critical supply, replacing shorter-term, spot or quarterly contracting."
-    },
-    {
-      "id": "4982242",
-      "time": "2026-07-11 20:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "本週大盤主力資金累計淨流入-2309.06億元，計算機裝置、IT服務Ⅱ板塊淨流入居前，個股華天科技、中興通訊淨流入最多。"
-    },
-    {
-      "id": "4982241",
-      "time": "2026-07-11 19:59:10",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際",
-        "原創"
-      ],
-      "text": "【埃尼集團CEO：石油市場可能在2027年初突破當前價格區間】義大利埃尼集團CEO克勞迪奧·德斯卡爾齊表示，如果中東衝突持續下去，全球石油市場最遲將於2027年第一季度突破每桶80至100美元的區間，這將推高通脹並降低能源需求。他在週六發表的的採訪中表示，迄今為止，原油庫存的釋放幫助原油價格基本維持在該區間內。他指出，由於全球石油儲備有限，這種策略存在越來越大的風險。他表示：“長期的解決方案是透過供應來源和路線的多元化來提高能源安全。”德斯卡爾齊表示，受2月底爆發的伊朗衝突影響，全球石油庫存平均每天下降380萬桶，5月份降幅更是加速至每天460萬桶/日。他表示，各國應重點關注北非和撒哈拉以南非洲、拉丁美洲和東南亞的能源生產國，同時減少對受控海上通道的依賴。"
-    },
-    {
-      "id": "mkt:019f510a-9e6d-7aab-8d3d-af2b2f5891aa",
-      "time": "2026-07-11 19:57:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hangzhou Bay Cross-Sea Bridge closed both directions】Typhoon \"Bavi\", the year’s ninth, has closed the Hangzhou Bay Cross-Sea Bridge to all vehicles in both directions from 19:30 today."
     }
   ]
 }
