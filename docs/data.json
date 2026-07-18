@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-18 09:16:10",
-  "count": 18990,
+  "updated": "2026-07-18 09:20:04",
+  "count": 18988,
   "items": [
+    {
+      "id": "4995209",
+      "time": "2026-07-18 09:17:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果上調Apple Music訂閱價格】7月18日訊息，蘋果公司上調Apple Music全球訂閱價格。其中，個人版月費由10.99美元升至11.99美元，家庭版由16.99美元升至19.99美元，學生版由5.99美元升至6.99美元。蘋果表示，此次調價主要反映音樂版權授權成本上升，並支援持續向音樂人提供合理報酬。與此同時，學生版訂閱新增免費Apple TV+權益。蘋果基礎版Apple One套餐價格維持19.95美元/月不變，但更高等級Apple One套餐價格同步上調2美元。"
+    },
+    {
+      "id": "4995208",
+      "time": "2026-07-18 09:16:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【賽力斯：捐贈1000萬馳援重慶災區】7月18日，賽力斯集團宣佈向重慶災區捐贈1000萬元，用於山體崩塌受災地區的緊急救援與災後重建工作。"
+    },
+    {
+      "id": "4995207",
+      "time": "2026-07-18 09:16:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "國內品牌金飾價格隨金價上調，老廟黃金足金飾品報1222元/克，單日上漲10元。"
+    },
+    {
+      "id": "4995206",
+      "time": "2026-07-18 09:16:16",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗稱襲擊位於科威特和約旦的美軍基地】當地時間18日，伊朗國家電視臺援引軍方訊息稱，伊朗軍方襲擊了位於科威特和約旦的美軍基地。（央視新聞）"
+    },
     {
       "id": "4995205",
       "time": "2026-07-18 09:12:23",
@@ -174996,59 +175029,6 @@
         "其他"
       ],
       "text": "馬斯克：如果在太空大規模利用太陽能進行有用工作，其價值將遠遠超過地球經濟，因為整個地球文明使用的只是我們太陽能量的一萬億分之一。"
-    },
-    {
-      "id": "mkt:019f4ec2-8c26-7aab-8d3b-1094b8d40b2a",
-      "time": "2026-07-11 09:20:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Acting director of the Office of the Director of National Intelligence (ODNI) has launched a third round of reductions targeting redundant or non‑critical personnel."
-    },
-    {
-      "id": "4981991",
-      "time": "2026-07-11 09:19:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家情報局代理局長：啟動第三輪“減少冗餘或非關鍵人員”計劃。"
-    },
-    {
-      "id": "mkt:019f4ec1-fe10-7aab-8d3b-0c7028a22b5b",
-      "time": "2026-07-11 09:19:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EMSC reported a M4.2 earthquake in northern California, US, with a depth of 10.7 km."
-    },
-    {
-      "id": "4981990",
-      "time": "2026-07-11 09:18:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：OpenAI安全團隊現在將向研發副總裁彙報。"
-    },
-    {
-      "id": "4981989",
-      "time": "2026-07-11 09:17:06",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "市場訊息：OpenAI安全系統主管海德克即將離職。"
-    },
-    {
-      "id": "mkt:019f4ebf-8bbd-7aab-8d3b-04ebde56849a",
-      "time": "2026-07-11 09:16:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Analysts: U.S.-Iran exchanges center on Strait of Hormuz】A memorandum of understanding between the U.S. and Iran was signed less than a month ago, yet both sides have already carried out multiple rounds of reciprocal strikes and show signs of escalation, prompting concern over a breakdown in talks or a wider flare-up. Analysts say the confrontation is fundamentally a contest over the Strait of Hormuz: each side is seeking additional leverage for future negotiations while simultaneously having incentives to avoid a major escalation. Interaction is likely to remain a cycle of alternating strikes and talks, with limited attacks used to press bargaining positions rather than provoke full-scale war."
     }
   ]
 }
