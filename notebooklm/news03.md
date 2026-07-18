@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-19 06:26:20_
-_本檔包含 3970 則快訊，約 723289 字_
+_更新時間：2026-07-19 07:31:57_
+_本檔包含 3980 則快訊，約 723227 字_
+
+---
+
+### 2026-07-15 23:33:49  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish
+
+ECB Governing Council member Moulin said reducing France's deficit is very important.
+
+---
+
+### 2026-07-15 23:32:52  #Trading Economics #Economy #Colombia #Retail Sales YoY #Importance 1
+
+Colombia Retail Sales Rise in May — Colombia's real retail sales rose 11.7% year-on-year in May 2026, slightly above market expectations of 11.2%, but easing from a 14.9% increase in April. Eighteen merchandise categories recorded growth in real sales, while only one posted a decline. The largest contributions came from motor vehicles and motorcycles primarily for household use (40%), audio and video equipment (64.9%), and other motor vehicles and motorcycles (13.3%). Meanwhile, sales of books, stationery, newspapers, magazines, and school supplies surged 148%. In contrast, sales of motor vehicle fuels declined 1.7%. Employment in the retail sector increased 1.6% compared with May 2025.
+
+---
+
+### 2026-07-15 23:32:46  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish
+
+US 4-month Treasury auction through July 15: bid-cover ratio 3.35, prior 3.41.
+
+---
+
+### 2026-07-15 23:32:40  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
+
+US 4-month Treasury bill auction maturing Jul 15 — stop-out yield 3.35%, prior 3.79%.
+
+---
+
+### 2026-07-15 23:32:35  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.15) | actual 3.35 | previous 3.41
+
+---
+
+### 2026-07-15 23:32:34  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
+
+U.S. 4-month Treasury auction to July 15: allocation at the stop-out yield 21.99%, prior 80.43%.
+
+---
+
+### 2026-07-15 23:32:31  #MKT News #Economic Calendar
+
+United States | 4-Month Bill Auction High Yield Rate (Jul.15) | actual 3.745% | previous 3.79%
+
+---
+
+### 2026-07-15 23:32:26  #宏觀 #市場 #國際
+
+美國財政部拍賣四個月期國債，得標利率3.745%，投標倍數3.35。
+
+---
+
+### 2026-07-15 23:31:36  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said views within the Federal Reserve are diverse and he does not want to place undue emphasis on any single perspective.
+
+---
+
+### 2026-07-15 23:31:33  #其他
+
+市場訊息：安迪·伯納姆將任命SHABANA MAHMOOD為英國財政大臣。
+
+---
+
+### 2026-07-15 23:31:32  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chairman Kevin Warsh said the Fed is a consensus-driven organization and has no magic.
+
+---
+
+### 2026-07-15 23:31:28  #央行 #國際
+
+美聯儲主席沃什： 美聯儲內部觀點多元，不宜過度拘泥於單一看法。
+
+---
+
+### 2026-07-15 23:31:16  #其他
+
+德國DAX 30指數初步收跌0.55%，報25007.88點。法國股指初步收漲0.21%，義大利股指初步收跌0.83%、銀行指數跌0.57%，英國股指初步收跌0.13%。
+
+---
+
+### 2026-07-15 23:31:13  #國際
+
+歐洲STOXX 600指數初步收漲0.12%，報642.86點。歐元區STOXX 50指數初步收的0.23%，報6265.96點。富時泛歐績優300指數初步收漲0.05%，報2570.37點。
+
+---
+
+### 2026-07-15 23:31:12  #MKT News #EURUSD
+
+ECB Executive Board member Moulin said the ECB must be prepared for any eventuality on inflation.
+
+---
+
+### 2026-07-15 23:31:09  #央行 #國際
+
+美聯儲主席沃什： 美聯儲是依靠共識運作的機構，並無一蹴而就的解決辦法。
+
+---
+
+### 2026-07-15 23:30:41  #資料 #國際
+
+以色列統計局：6 月 CPI 環比持平（0.0%），5 月環比為 - 0.3%。
+
+---
+
+### 2026-07-15 23:30:33  #市場 #國際
+
+以色列統計局：6 月居民消費價格指數同比上漲 1.6%，5 月同比漲幅為 1.9%。
+
+---
+
+### 2026-07-15 23:29:23  #央行 #國際
+
+美聯儲主席沃什： 移民相關政策決定會影響潛在國內生產總值，在採納專項工作組的建議時，會兼顧美聯儲的兩項法定政策目標。
+
+---
+
+### 2026-07-15 23:29:08  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said immigration decisions affect potential GDP.
+
+---
+
+### 2026-07-15 23:28:44  #MKT News #Important
+
+Market sources say ANTHROPIC plans to hold investor meetings for its IPO in the coming weeks.
+
+---
+
+### 2026-07-15 23:28:31  #MKT News
+
+Iran's foreign ministry said it is currently focused on defending the country.
+
+---
+
+### 2026-07-15 23:28:30  #公司 #其他 #焦點 #國際
+
+市場訊息：Anthropic 計劃未來數週開展 IPO 投資者溝通會。
+
+---
+
+### 2026-07-15 23:28:15  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said he will simultaneously consider both of the Fed's dual-mandate objectives when evaluating working group recommendations.
+
+---
+
+### 2026-07-15 23:28:00  #其他
+
+葉門交通與公共事務部長宣佈，薩那國際機場已完成因沙特領導聯軍空襲造成的損毀修復工作，全面恢復運營。
+
+---
+
+### 2026-07-15 23:26:31  #MKT News
+
+Yemen's Sanaa International Airport resumed operations.
+
+---
+
+### 2026-07-15 23:25:40  #Trading Economics #Economy #Colombia #Industrial Production #Importance 1
+
+Colombia Industrial Output Unexpectedly Falls in May — Colombia's industrial production fell 0.4% year-on-year in May 2026, reversing a 2.0% increase in the previous month and defying expectations of a 1.3% expansion. This marks the first decline following four consecutive months with increases, as output declined in 25 of the 39 industrial categories. The largest decreases were recorded in the processing and preserving of meat, fish, crustaceans, and molluscs (-10.7%), manufacture of apparel (-11.3%), spinning, weaving, and finishing of textiles (-20.8%), basic iron and steel industries (-10.6%), and manufacture of cocoa, chocolate, and confectionery (-18.1%). Offsetting part of the decline were gains in the manufacture of beverages (9.1%), sugar and unrefined cane sugar (62.1%), and soaps and detergents (5.7%). Meanwhile, industrial employment continued to contract, with the decline widening to 1.0% year-on-year in May from 0.9% in the previous month.
 
 ---
 
@@ -23825,107 +23987,5 @@ Federal Reserve Chair Kevin Warsh said several working groups he established are
 ### 2026-07-14 22:34:16  #國際
 
 特朗普在社交平臺上宣揚美日貿易和投資協議。
-
----
-
-### 2026-07-14 22:34:13  #市場
-
-鈀金期貨日內漲5%，現報1315.80美元/盎司。
-
----
-
-### 2026-07-14 22:34:04  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Rises on Softer US Inflation Data — The S&P/TSX Composite Index rose 0.5% to trade near 35,500 on Tuesday following the release of US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with RBC, TD Bank, BMO, and CIBC each gaining nearly 1%. Meanwhile, the BoC is widely expected to keep its key policy rate unchanged at 2.25% on Wednesday. In contrast, oil prices rose on renewed concerns over crude shipments through the Strait of Hormuz amid the escalating US-Iran conflict, fueling worries about higher energy costs. Gold prices also advanced, supporting mining stocks. Agnico Eagle, Franco-Nevada, and WPM gained more than 2%, while Barrick added over 2.5%.
-
----
-
-### 2026-07-14 22:33:16  #MKT News #NVDA.O #Impact bullish #7011.T
-
-【NVIDIA to explore partnership with Mitsubishi Heavy Industries on AI data-centre cooling and power】Nikkei reports NVIDIA is considering a partnership with Mitsubishi Heavy Industries to supply cooling systems and energy-management equipment for next-generation AI data centres, which NVIDIA calls "AI factories". Mitsubishi Heavy manufactures data-centre air conditioning, high-efficiency cooling and backup power equipment and provides integrated energy-management systems; it also holds a global-leading share in gas turbines and is expected to pursue collaboration with NVIDIA on power infrastructure. SK Group is working with NVIDIA on a Japan AI factory targeted for 2028-29. As AI data-centre power demand climbs, markets including the US are increasingly deploying gas-fired power plants to supply data centres.
-
----
-
-### 2026-07-14 22:33:09  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed will adhere to its responsibilities; the more it does so, the less it will be drawn into politics.
-
----
-
-### 2026-07-14 22:32:42  #央行 #國際
-
-美聯儲沃什：美聯儲將專注於自身職責範圍。
-
----
-
-### 2026-07-14 22:31:59  #其他
-
-西爾維拉：對可再生能源的補貼不再合理。
-
----
-
-### 2026-07-14 22:30:54  #其他
-
-市場訊息：TECHERA 工程首席財務官SANDIP SHINDE辭職。
-
----
-
-### 2026-07-14 22:30:32  #市場
-
-英國債務管理局表示，將於2026年7月21日透過拍賣發售50億英鎊的2029年到期、票息4.000%的英國國債。
-
----
-
-### 2026-07-14 22:30:17  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Kevin Warsh said the Fed has the commitment, capacity and responsibility to carry out the tasks assigned to it by the Committee.
-
----
-
-### 2026-07-14 22:29:59  #Trading Economics #Markets #Commodity #Importance 1
-
-Baltic Dry Index Up for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for the fourth session on Tuesday, rising about 0.7% to a new high since June 5 at 2,980 points, driven by gains across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, advanced for the fourth day, increasing by 1% to its highest in over a month at 4,751 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, edged up 0.1% to 2,251 points. Among smaller vessels, the supramax index increased by 0.2% to a peak since June 2022 at 1,710 points.
-
----
-
-### 2026-07-14 22:29:50  #MKT News #Market Themes #AI Revolution #7011.T #Impact bullish
-
-According to Nikkei, under an agreement Mitsubishi Heavy Industries will supply cooling systems and energy-management equipment for AI data centers.
-
----
-
-### 2026-07-14 22:29:28  #公司 #市場 #焦點
-
-【7月14日增減持彙總】據不完全統計，7月14日盤後，賽力斯、傑克科技、箭牌家居、泓淋電力4家公司披露增持情況。天馬科技、中持股份、麗尚國潮、東嶽矽材、嘉誠國際、首創證券6家A股公司披露擬減持情況。
-
----
-
-### 2026-07-14 22:29:18  #MKT News
-
-【Hubei peak load hits record 60.34 GW】State Grid Hubei Electric Power Co said Hubei’s grid load reached 60.338 GW at 12:38 on July 14, a record high. Prolonged heat drove rapid demand growth, with Wuhan, Xiangyang, Yichang, Jingzhou and Jingmen each setting all-time peak loads; the operator forecasts the province’s maximum load will exceed 62 GW this year.
-
----
-
-### 2026-07-14 22:29:04  #觀點
-
-高盛：資產管理激勵費將於第三、四季度上行。
-
----
-
-### 2026-07-14 22:28:56  #其他
-
-英偉達據悉與三菱重工就人工智慧資料中心的冷卻與供電展開合作。
-
----
-
-### 2026-07-14 22:28:31  #其他
-
-富國銀行首席財務官邁克·桑托馬西莫表示，第四季度平均貸款規模同比增速很可能會高於預期。
-
----
-
-### 2026-07-14 22:28:28  #央行 #美聯儲
-
-【美聯儲主席沃什：現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。
 
 ---

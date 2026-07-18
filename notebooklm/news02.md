@@ -1,7 +1,85 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-19 06:26:20_
-_本檔包含 4054 則快訊，約 724300 字_
+_更新時間：2026-07-19 07:31:57_
+_本檔包含 4040 則快訊，約 723034 字_
+
+---
+
+### 2026-07-17 09:00:21  #MKT News #Important #Commodities #Precious Metals #Copper #Impact mixed
+
+At the open, China front-month main futures were mixed. Palladium fell about 4%; Shanghai silver dropped over 3%. Platinum and soda ash declined more than 2%. Lithium carbonate rose over 2%; Shanghai lead and LPG gained more than 1%.
+
+---
+
+### 2026-07-17 09:00:19  #市場
+
+臺灣證交所加權股價指數下跌2.7%至44,383.56點。
+
+---
+
+### 2026-07-17 09:00:13  #其他
+
+臺灣證交所加權股價指數開低0.9%報45,234.08。
+
+---
+
+### 2026-07-17 09:00:08  #公司
+
+【智元機器人等在江蘇成立科技新公司】近日，昂晟科技（江蘇）有限公司成立，經營範圍包含：智慧機器人銷售；工業機器人銷售；服務消費機器人銷售；智慧機器人的研發；人工智慧硬體銷售；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由智元機器人關聯公司智元創新（上海）科技股份有限公司等共同持股。
+
+---
+
+### 2026-07-17 09:00:05  #市場 #焦點
+
+白銀連續主力合約日內跌3%，現報13619.00元。
+
+---
+
+### 2026-07-17 09:00:03  #市場
+
+富時中國A50指數期貨開盤下跌0.43%。
+
+---
+
+### 2026-07-17 09:00:03  #市場
+
+【商品期貨開盤】鈀連續跌3.28%，鉑連續跌3.06%，白銀連續跌3.05%，碳酸鋰連續漲2.49%，純鹼連續跌2.02%。
+
+---
+
+### 2026-07-17 08:59:28  #市場
+
+【寬基ETF週四獲資金流入 華泰柏瑞滬深300ETF淨流入去年4月來最大】資料顯示，週四華泰柏瑞旗下的滬深300ETF獲資金流入逾62億元，為去年4月8日以來最大單日淨流入。週四滬深300指數下跌逾1.8%。上證ETF華夏週四淨流入也創去年4月來最大。科創50ETF華夏週四獲淨流入逾15億元人民幣，為連續六日資金流入。
+
+---
+
+### 2026-07-17 08:58:58  #其他
+
+【7月16日357股獲融資買入超億元 中際旭創穫買入65.30億元居首】7月16日共有3508只個股獲融資資金買入，有357股買入金額超億元。其中，中際旭創、東山精密、兆易創新融資買入金額排名前三，分別獲買入65.30億元、40.94億元、36.04億元。
+
+---
+
+### 2026-07-17 08:58:31  #其他
+
+【中國與東盟工商界共話合作提質升級】在16日舉行的2026中國（廣東）—東盟貿易促進與供應鏈合作機制對接交流會上，工商界人士聚焦人工智慧賦能產業升級、新能源產業合作、產業鏈供應鏈協同等主題，探討進一步拓展合作新空間、把握髮展新機遇。交流會上釋出的《中國（廣東）—東盟供應鏈合作報告》顯示，廣東與東盟供應鏈合作邁入提質升級新階段，呈現出區域產供鏈深度融合態勢凸顯、重點產業產供鏈協同模式日趨成熟、合作載體與渠道持續完善等三大鮮明特點。（新華社）
+
+---
+
+### 2026-07-17 08:58:31  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index #SZSE Component
+
+【Huaxi Securities: 2025–26 a critical commercialization window for foundation-model industry; three investment themes】Huaxi Securities says 2025–26 is the industry’s key commercialization window — whether firms secure sustainable monetization then will shape the sector’s long-term structure. The foundation-model market is in rapid expansion, with China’s growth materially above the global average, and Chinese open-source models have moved from peripheral participants to global core players. The report highlights three investible themes: compute and infrastructure — the clearest, highest-certainty beneficiaries; vertical foundation-model vendors with industry data barriers and scenario know‑how — most likely to close early commercial loops; and platform firms with large user bases and application-distribution capability — platform effects should strengthen as commercialization matures.
+
+---
+
+### 2026-07-17 08:58:03  #央行 #市場 #觀點 #國際
+
+【中金財富期貨：黃金遭受了受經濟資料韌性與中東局勢升溫雙重打擊】黃金遭受了受經濟資料韌性與中東局勢升溫雙重打擊，美元反彈，美債收益率小幅走高，黃金則跌破4000美元關口，走勢較為弱勢。申領失業金人數降至5月初以來最低，費城聯儲製造業指數大幅超預期，高盛將二季度GDP增速追蹤估算上調0.2個百分點至2.4%。近期黃金市場走勢顯著弱於我們預期，我們將觀點重新調為謹慎，觀望為宜。
+
+---
+
+### 2026-07-17 08:57:19  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iranian state TV reports a US strike on roads and bridges in the Bandahamir area killed seven and wounded nine.
 
 ---
 
@@ -24308,167 +24386,5 @@ Fed chair Kevin Warsh said if AI companies disappoint investors, capital will dr
 ### 2026-07-15 23:33:57  #MKT News
 
 【FT: Burnham expected to name Shabana Mahmood as UK chancellor】Financial Times, citing three people familiar with Andy Burnham’s thinking, reports Home Secretary Shabana Mahmood is expected to be appointed UK chancellor if Burnham becomes prime minister. Burnham’s spokesman declined to comment and said cabinet roles will be finalised on Monday only after he assumes office. One person familiar with the plan called the appointment a done deal; another said current energy secretary Ed Miliband—previously the frontrunner for chancellor—is now more likely to be foreign secretary. Colleagues said Mahmood discussed policy with Burnham this month, including economic issues, but has not been informed of any move and there is widespread speculation.
-
----
-
-### 2026-07-15 23:33:49  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish
-
-ECB Governing Council member Moulin said reducing France's deficit is very important.
-
----
-
-### 2026-07-15 23:32:52  #Trading Economics #Economy #Colombia #Retail Sales YoY #Importance 1
-
-Colombia Retail Sales Rise in May — Colombia's real retail sales rose 11.7% year-on-year in May 2026, slightly above market expectations of 11.2%, but easing from a 14.9% increase in April. Eighteen merchandise categories recorded growth in real sales, while only one posted a decline. The largest contributions came from motor vehicles and motorcycles primarily for household use (40%), audio and video equipment (64.9%), and other motor vehicles and motorcycles (13.3%). Meanwhile, sales of books, stationery, newspapers, magazines, and school supplies surged 148%. In contrast, sales of motor vehicle fuels declined 1.7%. Employment in the retail sector increased 1.6% compared with May 2025.
-
----
-
-### 2026-07-15 23:32:46  #MKT News #Macro & Rates #US10Y #Impact bearish #DXY #Impact bullish
-
-US 4-month Treasury auction through July 15: bid-cover ratio 3.35, prior 3.41.
-
----
-
-### 2026-07-15 23:32:40  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #XAUUSD
-
-US 4-month Treasury bill auction maturing Jul 15 — stop-out yield 3.35%, prior 3.79%.
-
----
-
-### 2026-07-15 23:32:35  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.15) | actual 3.35 | previous 3.41
-
----
-
-### 2026-07-15 23:32:34  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #DXY #Impact bullish
-
-U.S. 4-month Treasury auction to July 15: allocation at the stop-out yield 21.99%, prior 80.43%.
-
----
-
-### 2026-07-15 23:32:31  #MKT News #Economic Calendar
-
-United States | 4-Month Bill Auction High Yield Rate (Jul.15) | actual 3.745% | previous 3.79%
-
----
-
-### 2026-07-15 23:32:26  #宏觀 #市場 #國際
-
-美國財政部拍賣四個月期國債，得標利率3.745%，投標倍數3.35。
-
----
-
-### 2026-07-15 23:31:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said views within the Federal Reserve are diverse and he does not want to place undue emphasis on any single perspective.
-
----
-
-### 2026-07-15 23:31:33  #其他
-
-市場訊息：安迪·伯納姆將任命SHABANA MAHMOOD為英國財政大臣。
-
----
-
-### 2026-07-15 23:31:32  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve chairman Kevin Warsh said the Fed is a consensus-driven organization and has no magic.
-
----
-
-### 2026-07-15 23:31:28  #央行 #國際
-
-美聯儲主席沃什： 美聯儲內部觀點多元，不宜過度拘泥於單一看法。
-
----
-
-### 2026-07-15 23:31:16  #其他
-
-德國DAX 30指數初步收跌0.55%，報25007.88點。法國股指初步收漲0.21%，義大利股指初步收跌0.83%、銀行指數跌0.57%，英國股指初步收跌0.13%。
-
----
-
-### 2026-07-15 23:31:13  #國際
-
-歐洲STOXX 600指數初步收漲0.12%，報642.86點。歐元區STOXX 50指數初步收的0.23%，報6265.96點。富時泛歐績優300指數初步收漲0.05%，報2570.37點。
-
----
-
-### 2026-07-15 23:31:12  #MKT News #EURUSD
-
-ECB Executive Board member Moulin said the ECB must be prepared for any eventuality on inflation.
-
----
-
-### 2026-07-15 23:31:09  #央行 #國際
-
-美聯儲主席沃什： 美聯儲是依靠共識運作的機構，並無一蹴而就的解決辦法。
-
----
-
-### 2026-07-15 23:30:41  #資料 #國際
-
-以色列統計局：6 月 CPI 環比持平（0.0%），5 月環比為 - 0.3%。
-
----
-
-### 2026-07-15 23:30:33  #市場 #國際
-
-以色列統計局：6 月居民消費價格指數同比上漲 1.6%，5 月同比漲幅為 1.9%。
-
----
-
-### 2026-07-15 23:29:23  #央行 #國際
-
-美聯儲主席沃什： 移民相關政策決定會影響潛在國內生產總值，在採納專項工作組的建議時，會兼顧美聯儲的兩項法定政策目標。
-
----
-
-### 2026-07-15 23:29:08  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said immigration decisions affect potential GDP.
-
----
-
-### 2026-07-15 23:28:44  #MKT News #Important
-
-Market sources say ANTHROPIC plans to hold investor meetings for its IPO in the coming weeks.
-
----
-
-### 2026-07-15 23:28:31  #MKT News
-
-Iran's foreign ministry said it is currently focused on defending the country.
-
----
-
-### 2026-07-15 23:28:30  #公司 #其他 #焦點 #國際
-
-市場訊息：Anthropic 計劃未來數週開展 IPO 投資者溝通會。
-
----
-
-### 2026-07-15 23:28:15  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said he will simultaneously consider both of the Fed's dual-mandate objectives when evaluating working group recommendations.
-
----
-
-### 2026-07-15 23:28:00  #其他
-
-葉門交通與公共事務部長宣佈，薩那國際機場已完成因沙特領導聯軍空襲造成的損毀修復工作，全面恢復運營。
-
----
-
-### 2026-07-15 23:26:31  #MKT News
-
-Yemen's Sanaa International Airport resumed operations.
-
----
-
-### 2026-07-15 23:25:40  #Trading Economics #Economy #Colombia #Industrial Production #Importance 1
-
-Colombia Industrial Output Unexpectedly Falls in May — Colombia's industrial production fell 0.4% year-on-year in May 2026, reversing a 2.0% increase in the previous month and defying expectations of a 1.3% expansion. This marks the first decline following four consecutive months with increases, as output declined in 25 of the 39 industrial categories. The largest decreases were recorded in the processing and preserving of meat, fish, crustaceans, and molluscs (-10.7%), manufacture of apparel (-11.3%), spinning, weaving, and finishing of textiles (-20.8%), basic iron and steel industries (-10.6%), and manufacture of cocoa, chocolate, and confectionery (-18.1%). Offsetting part of the decline were gains in the manufacture of beverages (9.1%), sugar and unrefined cane sugar (62.1%), and soaps and detergents (5.7%). Meanwhile, industrial employment continued to contract, with the decline widening to 1.0% year-on-year in May from 0.9% in the previous month.
 
 ---

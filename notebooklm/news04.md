@@ -1,7 +1,109 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-19 06:26:20_
-_本檔包含 3924 則快訊，約 723867 字_
+_更新時間：2026-07-19 07:31:57_
+_本檔包含 3896 則快訊，約 723876 字_
+
+---
+
+### 2026-07-14 22:34:13  #市場
+
+鈀金期貨日內漲5%，現報1315.80美元/盎司。
+
+---
+
+### 2026-07-14 22:34:04  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Rises on Softer US Inflation Data — The S&P/TSX Composite Index rose 0.5% to trade near 35,500 on Tuesday following the release of US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with RBC, TD Bank, BMO, and CIBC each gaining nearly 1%. Meanwhile, the BoC is widely expected to keep its key policy rate unchanged at 2.25% on Wednesday. In contrast, oil prices rose on renewed concerns over crude shipments through the Strait of Hormuz amid the escalating US-Iran conflict, fueling worries about higher energy costs. Gold prices also advanced, supporting mining stocks. Agnico Eagle, Franco-Nevada, and WPM gained more than 2%, while Barrick added over 2.5%.
+
+---
+
+### 2026-07-14 22:33:16  #MKT News #NVDA.O #Impact bullish #7011.T
+
+【NVIDIA to explore partnership with Mitsubishi Heavy Industries on AI data-centre cooling and power】Nikkei reports NVIDIA is considering a partnership with Mitsubishi Heavy Industries to supply cooling systems and energy-management equipment for next-generation AI data centres, which NVIDIA calls "AI factories". Mitsubishi Heavy manufactures data-centre air conditioning, high-efficiency cooling and backup power equipment and provides integrated energy-management systems; it also holds a global-leading share in gas turbines and is expected to pursue collaboration with NVIDIA on power infrastructure. SK Group is working with NVIDIA on a Japan AI factory targeted for 2028-29. As AI data-centre power demand climbs, markets including the US are increasingly deploying gas-fired power plants to supply data centres.
+
+---
+
+### 2026-07-14 22:33:09  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed will adhere to its responsibilities; the more it does so, the less it will be drawn into politics.
+
+---
+
+### 2026-07-14 22:32:42  #央行 #國際
+
+美聯儲沃什：美聯儲將專注於自身職責範圍。
+
+---
+
+### 2026-07-14 22:31:59  #其他
+
+西爾維拉：對可再生能源的補貼不再合理。
+
+---
+
+### 2026-07-14 22:30:54  #其他
+
+市場訊息：TECHERA 工程首席財務官SANDIP SHINDE辭職。
+
+---
+
+### 2026-07-14 22:30:32  #市場
+
+英國債務管理局表示，將於2026年7月21日透過拍賣發售50億英鎊的2029年到期、票息4.000%的英國國債。
+
+---
+
+### 2026-07-14 22:30:17  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Kevin Warsh said the Fed has the commitment, capacity and responsibility to carry out the tasks assigned to it by the Committee.
+
+---
+
+### 2026-07-14 22:29:59  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Up for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for the fourth session on Tuesday, rising about 0.7% to a new high since June 5 at 2,980 points, driven by gains across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, advanced for the fourth day, increasing by 1% to its highest in over a month at 4,751 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, edged up 0.1% to 2,251 points. Among smaller vessels, the supramax index increased by 0.2% to a peak since June 2022 at 1,710 points.
+
+---
+
+### 2026-07-14 22:29:50  #MKT News #Market Themes #AI Revolution #7011.T #Impact bullish
+
+According to Nikkei, under an agreement Mitsubishi Heavy Industries will supply cooling systems and energy-management equipment for AI data centers.
+
+---
+
+### 2026-07-14 22:29:28  #公司 #市場 #焦點
+
+【7月14日增減持彙總】據不完全統計，7月14日盤後，賽力斯、傑克科技、箭牌家居、泓淋電力4家公司披露增持情況。天馬科技、中持股份、麗尚國潮、東嶽矽材、嘉誠國際、首創證券6家A股公司披露擬減持情況。
+
+---
+
+### 2026-07-14 22:29:18  #MKT News
+
+【Hubei peak load hits record 60.34 GW】State Grid Hubei Electric Power Co said Hubei’s grid load reached 60.338 GW at 12:38 on July 14, a record high. Prolonged heat drove rapid demand growth, with Wuhan, Xiangyang, Yichang, Jingzhou and Jingmen each setting all-time peak loads; the operator forecasts the province’s maximum load will exceed 62 GW this year.
+
+---
+
+### 2026-07-14 22:29:04  #觀點
+
+高盛：資產管理激勵費將於第三、四季度上行。
+
+---
+
+### 2026-07-14 22:28:56  #其他
+
+英偉達據悉與三菱重工就人工智慧資料中心的冷卻與供電展開合作。
+
+---
+
+### 2026-07-14 22:28:31  #其他
+
+富國銀行首席財務官邁克·桑托馬西莫表示，第四季度平均貸款規模同比增速很可能會高於預期。
+
+---
+
+### 2026-07-14 22:28:28  #央行 #美聯儲
+
+【美聯儲主席沃什：現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。
 
 ---
 
@@ -23420,275 +23522,5 @@ Ukrainian parliamentary speaker says Prime Minister Svyrydenko has submitted his
 ### 2026-07-14 00:41:42  #市場 #國際
 
 【美伊衝突持續 船舶戰爭險費率再次上漲】美以伊衝突爆發後，戰爭險費率成為對霍爾木茲海峽安全形勢最敏感的市場指標之一。衝突前，船體戰爭險保費通常僅佔船舶本身價值的0.25%左右。隨著軍事衝突升級、霍爾木茲海峽安全風險驟增，戰爭險費率迅速飆升，最高一度達到船舶價值的約10%。6月美伊達成諒解備忘錄後，局勢一度趨緩。據保險經紀商訊息，戰爭險費率一度降至2%左右。然而，7月8日美軍以“商船遭襲”為由襲擊伊朗，伊朗回擊以來，保險費率再次上漲。綜合多家國際保險經紀機構資訊，目前，船體戰爭險費率已升至船舶價值的約5%。（央視新聞）
-
----
-
-### 2026-07-14 00:41:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #EURUSD
-
-Markets now price a 50% chance of a Fed rate hike this month.
-
----
-
-### 2026-07-14 00:40:36  #央行 #美聯儲
-
-美國短期利率期貨顯示，美聯儲7月加息機率約為45%，較週一早些時候的35%有所上升。
-
----
-
-### 2026-07-14 00:40:20  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-US short-term interest rate futures imply about a 45% chance of a Fed rate hike in July, up from roughly 35% earlier on Monday.
-
----
-
-### 2026-07-14 00:37:41  #央行 #美聯儲
-
-美聯儲理事沃勒表示，如果核心通脹繼續走低仍屬合理情形，將繼續支援維持利率不變。
-
----
-
-### 2026-07-14 00:37:14  #國際
-
-【美國緬因州發生槍擊事件 涉及移民及海關執法局】央視記者當地時間7月13日獲悉，美國緬因州眾議院議長瑞安·費克託在社交媒體上發文稱，當日在緬因州比迪福德發生了一起致人死亡的槍擊事件，事件涉及美國移民及海關執法局（ICE），但目前關於事發經過的細節尚不明確。瑞安·費克託表示，槍擊事件發生在當日上午，地點位於比迪福德，有一人死亡，該事件涉及美國移民及海關執法局（ICE）。緬因州警察和公共安全部目前正在現場收集細節，預計聯邦調查局（FBI）也將介入調查。（央視新聞）
-
----
-
-### 2026-07-14 00:36:57  #央行 #國際
-
-美債收益率走低，因美聯儲沃勒稱短期記憶體在加息可能性。
-
----
-
-### 2026-07-14 00:35:58  #MKT News #Macro & Rates #Market Themes #AI Revolution #Nasdaq100 #Impact bullish #S&P500 #US10Y #Impact bearish
-
-Federal Reserve Governor Waller said he expects consumer spending to remain strong and AI-related investment to stay robust.
-
----
-
-### 2026-07-14 00:35:45  #央行 #焦點 #國際
-
-美聯儲理事沃勒：如果核心通脹繼續走低仍屬合理情形，屆時我將繼續支援維持利率不變。
-
----
-
-### 2026-07-14 00:35:22  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-WALLER: If core inf continues to ease, that remains a reasonable scenario; I will continue to support keeping rates unchanged.
-
----
-
-### 2026-07-14 00:34:51  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Federal Reserve Governor Waller said he is concerned about the rapid pace of elevated core inflation.
-
----
-
-### 2026-07-14 00:34:48  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #S&P500 #Impact mixed
-
-WALLER said he expects headline inflation to start slowing with this week's data, but attention will remain on core inflation.
-
----
-
-### 2026-07-14 00:34:42  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish #WTI
-
-【Spot gold falls below $4,000/oz】Spot gold slid below $4,000/oz for the first time since July 1, falling more than 2.8% intraday after President Trump said he would restart a blockade against Iran and Fed governor Christopher Waller warned rates may need to be raised in the near term.
-
----
-
-### 2026-07-14 00:34:23  #市場
-
-現貨白銀日內跌4%，現報57.43美元/盎司。
-
----
-
-### 2026-07-14 00:34:08  #市場 #焦點
-
-紐約期金失守4000美元/盎司，日內跌2.76%。
-
----
-
-### 2026-07-14 00:33:34  #央行 #焦點 #國際
-
-交易員預計美聯儲本月加息的可能性為50%。
-
----
-
-### 2026-07-14 00:33:32  #市場
-
-現貨黃金日內跌3%，現報3994.41美元/盎司。
-
----
-
-### 2026-07-14 00:33:27  #央行 #市場
-
-委內瑞拉央行：該國 6 月通脹率上漲 13.8% 。
-
----
-
-### 2026-07-14 00:33:22  #市場 #焦點
-
-現貨黃金失守4000美元/盎司，日內跌2.92%。
-
----
-
-### 2026-07-14 00:33:10  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-WALLER said he is determined to avoid repeating the Fed's 2021 mistakes, but the labor market is no longer as tight as it was then and inflation expectations remain stable.
-
----
-
-### 2026-07-14 00:33:00  #MKT News #Macro & Rates #The Fed (FOMC) #US Economy #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed Governor Waller said the economy's underlying condition is solid.
-
----
-
-### 2026-07-14 00:32:57  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
-
-Fed Governor WALLER said household and business spending remain strong despite tariffs pushing up goods costs and energy-price spikes from the Middle East conflict.
-
----
-
-### 2026-07-14 00:32:54  #MKT News #Market Themes #The Trump Trade #AI Revolution #DXY #Impact bullish #US10Y #Impact bearish #WTI
-
-WALLER said tariffs, energy prices and AI-related construction demand are factors pushing inf higher.
-
----
-
-### 2026-07-14 00:32:47  #MKT News #Macro & Rates #US Economy #S&P500 #Impact bullish #DXY #Impact bearish #XAUUSD
-
-WALLER: labor market is not a source of inflationary pressure, nor does it affect the strength of economic expansion.
-
----
-
-### 2026-07-14 00:32:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish
-
-Waller said he is also concerned monetary policy may still need to tighten further.
-
----
-
-### 2026-07-14 00:32:34  #央行 #焦點 #國際
-
-美聯儲理事沃勒： 若本週核心通脹資料再度大幅走高，美國央行將需考慮在短期內加息。
-
----
-
-### 2026-07-14 00:32:18  #央行 #國際
-
-美聯儲理事沃勒： 需要連續數月看到核心通脹走低，才能認定通脹正朝著目標方向回落。
-
----
-
-### 2026-07-14 00:32:08  #央行 #國際
-
-美聯儲理事沃勒： 對核心通脹居高不下的增速感到擔憂。
-
----
-
-### 2026-07-14 00:31:52  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-Federal Reserve Governor WALLER said inflation can return to 2% without further rate hikes, and that assessment remains credible.
-
----
-
-### 2026-07-14 00:31:50  #央行 #國際
-
-美聯儲理事沃勒： 無需進一步加息，通脹仍有可信的回落至 2% 目標的路徑。
-
----
-
-### 2026-07-14 00:31:39  #央行 #國際
-
-美聯儲理事沃勒： 致力於將通脹回落至 2% 的目標水平，同時避免過度收緊貨幣政策而引發衰退風險。
-
----
-
-### 2026-07-14 00:31:28  #央行 #國際
-
-美聯儲理事沃勒： 存在另一種同等可能性的情形，即後續需要收緊貨幣政策，對此我心存擔憂。
-
----
-
-### 2026-07-14 00:31:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #EURUSD
-
-Federal Reserve governor WALLER said he is committed to returning inf to the 2% target while avoiding excessive tightening that could raise the risk of recession.
-
----
-
-### 2026-07-14 00:31:08  #央行 #國際
-
-美聯儲理事沃勒： 預計從本週公佈的通脹資料開始，總體通脹將出現回落，但他將重點關注核心通脹指標。
-
----
-
-### 2026-07-14 00:30:56  #央行 #國際
-
-美聯儲理事沃勒： 實體經濟基本面狀況良好。
-
----
-
-### 2026-07-14 00:30:45  #央行 #國際
-
-美聯儲理事沃勒：決心避免美聯儲重蹈 2021 年的覆轍；不過當前勞動力市場不再那麼緊張，且通脹預期已趨於穩定。
-
----
-
-### 2026-07-14 00:30:35  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-WALLER: US labor market stable and close to the Fed's maximum-employment objective.
-
----
-
-### 2026-07-14 00:30:33  #央行 #國際
-
-美聯儲理事沃勒： 儘管關稅推高商品成本、中東衝突導致能源價格飆升，但居民與企業支出依舊具備韌性。
-
----
-
-### 2026-07-14 00:30:28  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #WTI #Impact mixed #XAUUSD #Impact bearish
-
-Fed Governor Waller said earlier concerns that high oil prices could spur broader inflationary pressures have eased significantly.
-
----
-
-### 2026-07-14 00:30:22  #央行 #國際
-
-美聯儲理事沃勒： 關稅、能源價格、人工智慧產業擴張帶來的需求，均是推高通脹的影響因素。
-
----
-
-### 2026-07-14 00:30:12  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Waller said if core inflation prints high again this week, the Fed will need to consider near-term rate hikes.
-
----
-
-### 2026-07-14 00:30:10  #央行 #國際
-
-美聯儲理事沃勒：此前市場擔憂高油價或將大範圍推升各類物價，目前該擔憂已大幅緩解。
-
----
-
-### 2026-07-14 00:29:59  #央行 #國際
-
-美聯儲理事沃勒： 勞動力市場保持穩定，已接近美聯儲充分就業目標。
-
----
-
-### 2026-07-14 00:29:54  #央行 #國際
-
-美聯儲理事沃勒： 預計居民消費支出將穩健增長，與人工智慧相關的強勁投資勢頭將延續。
-
----
-
-### 2026-07-14 00:29:35  #央行 #焦點 #國際
-
-美聯儲理事沃勒： 勞動力市場既不會帶來通脹壓力，也無需擔憂其拖累經濟擴張勢頭。
-
----
-
-### 2026-07-14 00:26:05  #MKT News
-
-Lebanon's presidential palace said President Aoun and Prime Minister Salam discussed Aoun's upcoming visit to the United States, including a meeting with U.S. President Trump.
 
 ---
