@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 875,
+  "count": 879,
   "items": [
+    {
+      "id": "mkt:019f75a3-9112-7aab-8df1-52e72a1171fc",
+      "time": "2026-07-18 22:31:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's foreign minister said parties must adhere to the memorandum of understanding and avoid escalating tensions."
+    },
+    {
+      "id": "mkt:019f75a3-0dc7-7aab-8df1-4ade9113a2b4",
+      "time": "2026-07-18 22:30:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Xingchen Technology: expects 1H2026 net profit up 583.72%–650.42% YoY】Xingchen Technology expects 1H2026 net profit attributable to shareholders of RMB 820–900 mln, up 583.72%–650.42% YoY. The company said endpoint and edge AI applications reached large-scale deployment during the period and AI is increasingly penetrating smart terminals and edge hardware; concentrated demand growth in embodied intelligence, service robots, home intelligent agents, in-vehicle edge computing and LiDAR is providing strong market support for its core business."
+    },
+    {
+      "id": "4995581",
+      "time": "2026-07-18 22:29:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星宸科技：上半年淨利潤同比預增583.72%—650.42%】星宸科技(301536)披露業績預告，預計2026年上半年歸母淨利潤8.2億元—9億元，同比增長583.72%—650.42%。報告期內，端邊側AI應用進入規模化落地爆發期，AI技術持續向智慧終端、邊緣硬體全場景滲透。具身智慧、服務機器人、家庭智慧體、車載邊緣計算、鐳射雷達等下游核心賽道需求集中放量，為公司主營業務增長提供強勁的市場支撐。"
+    },
+    {
+      "id": "4995580",
+      "time": "2026-07-18 22:29:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【黑石：算力設施規模化建設有望 成為標誌性投資主線】黑石在其釋出的2026年中投資展望中指出，AI依舊是重塑投資格局的決定性力量。當前，資料中心與發電領域正經歷一輪持續多年的資本開支週期。與此同時，AI在實體經濟中的應用也為生產率提升奠定了基礎。私募市場愈發具備優勢，能夠填補需求上升與供給受限之間的資金缺口。算力、電力及實體基礎設施領域存在的結構性供給短缺，催生了大量優質投資機遇。在這些領域，規模優勢與執行能力最為關鍵。"
+    },
     {
       "id": "4995579",
       "time": "2026-07-18 22:26:01",
