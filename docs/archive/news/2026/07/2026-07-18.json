@@ -1,7 +1,43 @@
 {
   "date": "2026-07-18",
-  "count": 766,
+  "count": 769,
   "items": [
+    {
+      "id": "mkt:019f74e9-21ad-7aab-8df0-2fdc8b692443",
+      "time": "2026-07-18 19:07:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait's Ministry of Defense said agencies are fighting fires and carrying out repairs after intercepting a hostile attack; several firefighters and oil-sector workers were injured, and shrapnel struck some sites and residential areas, causing property damage but no fatalities."
+    },
+    {
+      "id": "mkt:019f74e7-8f23-7aab-8df0-20df85b78452",
+      "time": "2026-07-18 19:06:00",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's president condemned attacks on Erbil and Sulaymaniyah as violations of sovereignty, said Iraq will not be a theatre for conflict or retaliation, and called for relations based on mutual respect."
+    },
+    {
+      "id": "mkt:019f74e6-9031-7aab-8df0-1c6e54288e1a",
+      "time": "2026-07-18 19:04:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's defense ministry said that since early today its forces detected hostile ballistic missiles and drones in Kuwaiti airspace and have intercepted and dealt with them. The ministry said Iran's attacks continued to strike multiple military and security sites and several critical infrastructure and civilian facilities, hitting oil and power-sector installations and causing fires and severe damage."
+    },
     {
       "id": "mkt:019f74e2-31e3-7aab-8df0-15020aeb1830",
       "time": "2026-07-18 19:00:08",
