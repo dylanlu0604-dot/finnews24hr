@@ -1,7 +1,29 @@
 {
   "date": "2026-07-19",
-  "count": 122,
+  "count": 124,
   "items": [
+    {
+      "id": "mkt:019f76c5-af32-7aab-8df3-1e9366123aa3",
+      "time": "2026-07-19 03:48:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi state television reported the EU and Gulf states urged Iran to unconditionally, permanently and without transit fees open the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f76c3-aa90-7aab-8df3-13ed66d20160",
+      "time": "2026-07-19 03:46:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Saudi state TV said the EU and Gulf states oppose imposing permit requirements or fees on international navigation through the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f76c2-a577-7aab-8df3-09b96d4742e0",
       "time": "2026-07-19 03:44:55",
