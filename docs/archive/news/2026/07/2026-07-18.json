@@ -1,7 +1,41 @@
 {
   "date": "2026-07-18",
-  "count": 697,
+  "count": 701,
   "items": [
+    {
+      "id": "4995432",
+      "time": "2026-07-18 17:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特稱消防部隊正在應對伊朗襲擊造成的兩起火災。"
+    },
+    {
+      "id": "4995431",
+      "time": "2026-07-18 17:05:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【虎牙CEO黃俊洪：AI模型能力差距在收窄 但工程化差距加大】在2026世界人工智慧大會（WAIC）騰訊AI應用創新論壇上，虎牙公司CEO黃俊洪表示，當前AI領域模型能力的差距正持續收窄，但工程化能力的差距正在逐步拉開；數字人賽道的競爭核心，已從引數規模與實驗室效果的比拼，轉向真實場景下的穩態執行、自然互動與規模化落地能力的較量。"
+    },
+    {
+      "id": "4995430",
+      "time": "2026-07-18 17:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【癌中之王膽囊癌AI無創診斷率超九成 惡性腫瘤的診斷和治療模式發生了根本變革】2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海舉行。在主題論壇《AI賦能生命健康新正規化》中，來自中國的上海腫瘤研究所所長劉穎斌分享了關於人工智慧應用於膽道胰腺腫瘤診斷與治療的經驗。膽囊癌和胰腺癌早期症狀隱蔽、進展快、死亡率極高，被稱為“癌中之王”。不少患者確診時已處於晚期。即使是頂尖的醫生，也鮮少能為患者搶下十年的生存期。早篩查，早確診，是爭取生存期的關鍵。AI的介入，讓術前平掃CT與液體活檢的聯合診斷發揮出更大的效能，膽囊癌無創診斷率上升到92%。劉穎斌說：“人工智慧滲透到醫學以後，讓惡性腫瘤的診斷和治療模式發生了根本的變革。 (央視財經)"
+    },
+    {
+      "id": "mkt:019f7476-a2c3-7aab-8def-5467824d2ca2",
+      "time": "2026-07-18 17:02:39",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Equity ETFs net inflows top CNY 320 bln July-to-date】On July 17, amid market swings many broad-based ETFs saw heavy turnover; equity ETFs recorded net inflows of over CNY 75 bln that day. Over the five trading days from July 13–17 equity ETFs had net inflows above CNY 200 bln, and July-to-date net inflows exceed CNY 320 bln."
+    },
     {
       "id": "4995429",
       "time": "2026-07-18 17:00:25",

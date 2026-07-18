@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-18 17:03:03",
-  "count": 19060,
+  "updated": "2026-07-18 17:06:59",
+  "count": 19058,
   "items": [
+    {
+      "id": "4995432",
+      "time": "2026-07-18 17:06:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特稱消防部隊正在應對伊朗襲擊造成的兩起火災。"
+    },
+    {
+      "id": "4995431",
+      "time": "2026-07-18 17:05:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【虎牙CEO黃俊洪：AI模型能力差距在收窄 但工程化差距加大】在2026世界人工智慧大會（WAIC）騰訊AI應用創新論壇上，虎牙公司CEO黃俊洪表示，當前AI領域模型能力的差距正持續收窄，但工程化能力的差距正在逐步拉開；數字人賽道的競爭核心，已從引數規模與實驗室效果的比拼，轉向真實場景下的穩態執行、自然互動與規模化落地能力的較量。"
+    },
+    {
+      "id": "4995430",
+      "time": "2026-07-18 17:04:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【癌中之王膽囊癌AI無創診斷率超九成 惡性腫瘤的診斷和治療模式發生了根本變革】2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海舉行。在主題論壇《AI賦能生命健康新正規化》中，來自中國的上海腫瘤研究所所長劉穎斌分享了關於人工智慧應用於膽道胰腺腫瘤診斷與治療的經驗。膽囊癌和胰腺癌早期症狀隱蔽、進展快、死亡率極高，被稱為“癌中之王”。不少患者確診時已處於晚期。即使是頂尖的醫生，也鮮少能為患者搶下十年的生存期。早篩查，早確診，是爭取生存期的關鍵。AI的介入，讓術前平掃CT與液體活檢的聯合診斷發揮出更大的效能，膽囊癌無創診斷率上升到92%。劉穎斌說：“人工智慧滲透到醫學以後，讓惡性腫瘤的診斷和治療模式發生了根本的變革。 (央視財經)"
+    },
+    {
+      "id": "mkt:019f7476-a2c3-7aab-8def-5467824d2ca2",
+      "time": "2026-07-18 17:02:39",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Equity ETFs net inflows top CNY 320 bln July-to-date】On July 17, amid market swings many broad-based ETFs saw heavy turnover; equity ETFs recorded net inflows of over CNY 75 bln that day. Over the five trading days from July 13–17 equity ETFs had net inflows above CNY 200 bln, and July-to-date net inflows exceed CNY 320 bln."
+    },
     {
       "id": "4995429",
       "time": "2026-07-18 17:00:25",
@@ -175699,66 +175733,6 @@
         "WTI"
       ],
       "text": "【Zelenskiy: Russian overnight strike on Kyiv injures 11, urges faster air-defence deliveries】Ukrainian President Zelenskiy said a Russian overnight attack on Kyiv injured 11 people, including a child, and damaged residential, office and other civilian facilities; some infrastructure was hit before air-raid warnings were issued. Russian forces launched more than 120 drones and 12 missiles, roughly half of the missiles ballistic; Ukrainian air defences intercepted most targets but failed to stop the ballistic missiles. Odesa, Sumy, Kharkiv and Chernihiv regions are undertaking restoration work. Zelenskiy urged partners to deliver on NATO summit aid pledges, calling for rapid finalisation of a Patriot system licensing agreement and a European joint missile-defence project and saying all institutions should prioritise implementation."
-    },
-    {
-      "id": "4982168",
-      "time": "2026-07-11 17:06:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一艘載有35人的快艇在越南富國島附近傾覆】據越南快訊網11日報道，一艘載有35人的快艇當天在越南南部富國島附近海域傾覆，救援工作正在進行。（新華社）"
-    },
-    {
-      "id": "mkt:019f506c-b62f-7aab-8d3c-bcc151261089",
-      "time": "2026-07-11 17:05:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says Europeans have been 100% brainwashed, that Russia is being portrayed as absolute evil, and that \"everyone is in danger\" is being relentlessly promoted."
-    },
-    {
-      "id": "mkt:019f506b-da2a-7aab-8d3c-b5bd84a43f3b",
-      "time": "2026-07-11 17:04:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kremlin says Russia would use nuclear weapons only if the country's existence is threatened; otherwise it would not, and any other commentary is speculation."
-    },
-    {
-      "id": "4982167",
-      "time": "2026-07-11 17:04:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "長沙通報體育局幹部佔車位事件：體育局幹部彭某某被停職。（新華社）"
-    },
-    {
-      "id": "mkt:019f506b-6cf0-7aab-8d3c-a80ae6197fc9",
-      "time": "2026-07-11 17:04:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Wall Street (US)",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "The Kremlin said one side is Russia and the other is Ukraine together with several European countries and the United States, which have supplied Ukraine with millions of tonnes of weapons. It said the conflict is no longer a special military operation but a full-scale war."
-    },
-    {
-      "id": "mkt:019f506a-7a91-7aab-8d3c-a1f605d85706",
-      "time": "2026-07-11 17:03:03",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "The Kremlin said Ukrainian President Zelenskiy, who pledged on taking office to end the conflict, could still do so by responsibly withdrawing troops from the Donbas and from territories now annexed by Russia and by recognizing the resulting status quo as a legal fact."
     }
   ]
 }
