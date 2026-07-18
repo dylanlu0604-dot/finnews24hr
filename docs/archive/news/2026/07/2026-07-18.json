@@ -1,7 +1,36 @@
 {
   "date": "2026-07-18",
-  "count": 544,
+  "count": 547,
   "items": [
+    {
+      "id": "4995323",
+      "time": "2026-07-18 12:59:42",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "科威特航空在X平臺發文稱，由於週六科威特領空關閉，已對大部分航班進行重新安排。"
+    },
+    {
+      "id": "4995322",
+      "time": "2026-07-18 12:59:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普透露：因凡蒂諾曾建議美國和中國聯合舉辦一屆世界盃】特朗普透露，國際足聯主席因凡蒂諾曾提出由美國和中國聯合舉辦一屆世界盃，並打趣道，“這樣球員們在比賽間隙就能享受一段輕鬆的短途飛行了”。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019f7396-b184-7aab-8ded-ca9b25c33c50",
+      "time": "2026-07-18 12:58:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK"
+      ],
+      "text": "【China-Europe freight train from Fuzhou departs; four-year trade value CNY1.6 bln】A China-Europe freight train carrying 55 containers departed Fuzhou's Jiangyin rail logistics park on the 17th, bound for Eastern Europe via the Erenhot border crossing, Fuzhou Customs said. The Fuzhou route has run 77 trains over four years, shipping 7,918 standard containers and handling more than CNY1.6 billion in import-export trade."
+    },
     {
       "id": "4995321",
       "time": "2026-07-18 12:52:21",
