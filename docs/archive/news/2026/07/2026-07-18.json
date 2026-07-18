@@ -1,7 +1,43 @@
 {
   "date": "2026-07-18",
-  "count": 736,
+  "count": 740,
   "items": [
+    {
+      "id": "mkt:019f74af-4b48-7aab-8def-c869431b27cd",
+      "time": "2026-07-18 18:04:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait Petroleum Corporation (KPC) told the Kuwait News Agency that an Iranian strike damaged an oil facility, injuring personnel and causing significant property damage."
+    },
+    {
+      "id": "mkt:019f74ae-5bb7-7aab-8def-c57f267f998c",
+      "time": "2026-07-18 18:03:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's state news agency said it intercepted and shot down four unmanned aerial vehicles that entered Jordanian airspace."
+    },
+    {
+      "id": "4995456",
+      "time": "2026-07-18 18:02:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "科威特國家石油公司(KPC)稱襲擊造成人員受傷和重大財產損失。"
+    },
+    {
+      "id": "4995455",
+      "time": "2026-07-18 18:02:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "科威特國家石油公司(KPC)稱，一處石油設施在伊朗襲擊中受損。"
+    },
     {
       "id": "mkt:019f74aa-bb88-7aab-8def-ba6ebb035429",
       "time": "2026-07-18 17:59:33",

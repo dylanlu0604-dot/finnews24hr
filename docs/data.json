@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-18 18:02:31",
-  "count": 19062,
+  "updated": "2026-07-18 18:06:29",
+  "count": 19065,
   "items": [
+    {
+      "id": "mkt:019f74af-4b48-7aab-8def-c869431b27cd",
+      "time": "2026-07-18 18:04:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait Petroleum Corporation (KPC) told the Kuwait News Agency that an Iranian strike damaged an oil facility, injuring personnel and causing significant property damage."
+    },
+    {
+      "id": "mkt:019f74ae-5bb7-7aab-8def-c57f267f998c",
+      "time": "2026-07-18 18:03:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's state news agency said it intercepted and shot down four unmanned aerial vehicles that entered Jordanian airspace."
+    },
+    {
+      "id": "4995456",
+      "time": "2026-07-18 18:02:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "科威特國家石油公司(KPC)稱襲擊造成人員受傷和重大財產損失。"
+    },
+    {
+      "id": "4995455",
+      "time": "2026-07-18 18:02:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "科威特國家石油公司(KPC)稱，一處石油設施在伊朗襲擊中受損。"
+    },
     {
       "id": "mkt:019f74aa-bb88-7aab-8def-ba6ebb035429",
       "time": "2026-07-18 17:59:33",
@@ -175774,14 +175810,6 @@
         "Greater China"
       ],
       "text": "【Typhoon Bawei nearing landfall; national flood-control office coordinates emergency response】On the morning of July 11 the Office of the National Flood Control and Drought Relief Headquarters and the Ministry of Emergency Management convened joint meetings with the China Meteorological Administration, Ministry of Water Resources, Ministry of Natural Resources, Ministry of Housing and Urban-Rural Development, Ministry of Industry and Information Technology and Ministry of Transport to assess typhoon and heavy-rain trends and deploy flood/typhoon measures in key areas. The office maintained a level-2 emergency response for Zhejiang and Fujian and activated level-4 responses for Shanghai, Jiangsu, Jiangxi, Anhui and Sichuan, and dispatched an additional working group to Anhui to assist and guide operations."
-    },
-    {
-      "id": "4982189",
-      "time": "2026-07-11 18:06:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【浙江省氣象局：颱風“巴威”最大可能今天半夜前後在洞頭至溫嶺一帶沿海登陸】7月11日，浙江省氣象局釋出訊息，今年第9號颱風“巴威”已於今天11時減弱為颱風級，17時其中心位於距離浙江省溫嶺市東南方向約165公里，中心附近最大風力13級（40米/秒）。 預計“巴威”將以每小時25～30公里的速度向西北方向移動，強度變化不大，最大可能今天半夜前後在洞頭至溫嶺一帶沿海登陸（颱風級，12～13級，33～38米/秒），登陸後繼續向西北方向移動，強度逐漸減弱，12日下午移出浙江進入安徽境內。"
     }
   ]
 }
