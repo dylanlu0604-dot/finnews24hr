@@ -1,7 +1,23 @@
 {
   "date": "2026-07-18",
-  "count": 706,
+  "count": 708,
   "items": [
+    {
+      "id": "mkt:019f7481-571d-7aab-8def-714fe20ce9ad",
+      "time": "2026-07-18 17:14:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【C919 to start first scheduled international commercial route】Air China will deploy the domestically built C919 on its Beijing Capital–Ulaanbaatar route from Aug. 12, operating one daily flight; this will be the C919’s first regular scheduled international passenger service."
+    },
+    {
+      "id": "4995435",
+      "time": "2026-07-18 17:13:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國8790處國家基本水文站實現提檔升級】從水利部瞭解到，“十四五”期間，我國推動水文監測能力數智化轉型，8790處國家基本水文站實現提檔升級，大江大河洪水預見期從3天延長到10天。隨著我國水文基礎設施建設投資大幅提升，各類水文測站達13.3萬餘處，基本實現大江大河及其主要支流、有防洪任務的中小河流全覆蓋。（央視新聞）"
+    },
     {
       "id": "mkt:019f747c-6d5d-7aab-8def-6c2c3ed93fab",
       "time": "2026-07-18 17:08:59",
