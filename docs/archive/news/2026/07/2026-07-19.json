@@ -1,7 +1,28 @@
 {
   "date": "2026-07-19",
-  "count": 107,
+  "count": 109,
   "items": [
+    {
+      "id": "4995672",
+      "time": "2026-07-19 03:06:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗港口城市阿巴斯港發生爆炸。"
+    },
+    {
+      "id": "mkt:019f769d-f2ec-7aab-8df2-d720b6fd4a28",
+      "time": "2026-07-19 03:04:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said U.S. forces continue to strictly enforce a maritime blockade against Iran. As of July 18, CENTCOM has diverted five merchant vessels and rendered one vessel inoperable."
+    },
     {
       "id": "4995671",
       "time": "2026-07-19 03:02:49",
