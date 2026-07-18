@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-19 04:42:23",
+  "updated": "2026-07-19 04:46:15",
   "count": 19133,
   "items": [
+    {
+      "id": "mkt:019f76f7-c6c3-7aab-8df3-515d6a31f686",
+      "time": "2026-07-19 04:42:57",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "Commerce Secretary Lutnick said the US reached an agreement on the Gordie Howe International Bridge (US-Canada cross-border project), securing a 50% share of net revenues through 2041 and a US role in toll-setting."
+    },
     {
       "id": "4995694",
       "time": "2026-07-19 04:40:30",
@@ -176473,14 +176483,6 @@
         "國際"
       ],
       "text": "一名美國高階官員表示，伊朗必須承諾在週六前重新開放霍爾木茲海峽，否則將承擔相應後果。"
-    },
-    {
-      "id": "4982358",
-      "time": "2026-07-12 04:43:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【兩黨住房法案未經特朗普簽署自動生效，多名議員表示慶賀】美國國會未能透過配套選舉法案《拯救美國法案》，特朗普以此為由拒絕簽署這份住房法案。當地時間週六晚間，儘管特朗普拒絕簽字，參眾兩院兩黨議員仍共同慶祝這項具有里程碑意義的跨黨派住房法案正式落地生效。《21世紀安居之路法案》旨在透過增加住房供給、提升民眾自有住房比例，緩解全美住房短缺危機。法案放寬建築監管規定以鼓勵新建住宅，同時限制華爾街投資機構收購本可供給普通家庭的自住房屋。"
     }
   ]
 }
