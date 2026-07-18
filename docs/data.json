@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-19 02:05:38",
-  "count": 19101,
+  "updated": "2026-07-19 02:09:31",
+  "count": 19103,
   "items": [
+    {
+      "id": "4995653",
+      "time": "2026-07-19 02:08:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國民主黨聯邦參議員科裡·布克指責特朗普在對伊朗問題上“一條道走到黑，執意延續這場失敗的戰爭”。他表示，這場衝突毫無意義，既沒有清晰作戰目標，還推高燃油與食品物價，耗費納稅人數十億美元資金。"
+    },
+    {
+      "id": "mkt:019f7669-6006-7aab-8df2-81c45c8c19e2",
+      "time": "2026-07-19 02:07:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senator Sanders said the United States once inspired the world through its steadfast commitment to democracy and justice; regrettably, under President Trump it no longer does."
+    },
+    {
+      "id": "4995652",
+      "time": "2026-07-19 02:07:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約原油暗盤突破83美元 日內漲超1.5%。"
+    },
     {
       "id": "mkt:019f7665-f736-7aab-8df2-7ccd07e5b60b",
       "time": "2026-07-19 02:03:41",
@@ -176175,14 +176200,6 @@
         "國際"
       ],
       "text": "美國駐以色列大使：我們沒有看到伊朗存在溫和派的真正證據。"
-    },
-    {
-      "id": "mkt:019f525b-87ee-7aab-8d3f-4116ed7ec27d",
-      "time": "2026-07-12 02:05:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy urged Ukraine’s diplomatic efforts to focus on pressing allies to speed up implementation of weapons supply agreements."
     }
   ]
 }
