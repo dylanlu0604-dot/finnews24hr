@@ -1,7 +1,23 @@
 {
   "date": "2026-07-18",
-  "count": 601,
+  "count": 603,
   "items": [
+    {
+      "id": "4995371",
+      "time": "2026-07-18 14:52:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "本週，英國金融行為監管局（FCA）根據新規釋出了關於做空者對英國上市公司押注的最新監管資料，其中包含多處明顯錯誤，引發市場對新披露制度下所提供資訊質量的質疑。"
+    },
+    {
+      "id": "mkt:019f73ff-0c31-7aab-8dee-2f9c75e7235f",
+      "time": "2026-07-18 14:52:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【FCA's new aggregated short-position disclosures contain errors, raising market doubts】The Financial Conduct Authority this week published short-position data under its new regime, which replaces name-level disclosure of significant short holders with aggregated per-stock totals, the Financial Times reports. Data provider Breakout Point identified multiple clear errors: positions later deleted or altered with no visible amendment record, and some entries that appear to be years-old and unlikely to still exist. Breakout Point founder Ivan Kosovic said initial errors may be forgivable as the system beds in but that 'invisible edits' to official market records should not become normal. The release has prompted market questions about the reliability of the new disclosure dataset."
+    },
     {
       "id": "4995370",
       "time": "2026-07-18 14:46:18",
