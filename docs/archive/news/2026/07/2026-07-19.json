@@ -1,7 +1,28 @@
 {
   "date": "2026-07-19",
-  "count": 124,
+  "count": 126,
   "items": [
+    {
+      "id": "4995679",
+      "time": "2026-07-19 03:57:58",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國發布全球安全警示 稱中東局勢可能出現意外升級】美國國務院釋出全球安全警示：中東地區緊張局勢加劇，當前安全環境依然複雜，且存在局勢意外升級的可能性。美國國務院建議全球各地的美國公民，尤其是身處中東地區的美國公民，提高安全警惕。美國外交設施，包括中東以外地區的外交機構，已成為襲擊目標。支援伊朗的組織可能會針對美國在海外的其他利益目標，或全球範圍內與美國和/或美國公民有關的地點發動襲擊。"
+    },
+    {
+      "id": "mkt:019f76ce-5f82-7aab-8df3-2169054c37b3",
+      "time": "2026-07-19 03:57:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【U.S. State Department issues global security alert; warns of possible sudden escalation in Middle East】The U.S. State Department issued a global security alert saying Middle East tensions could unexpectedly escalate. It urged U.S. citizens worldwide, especially those in the region, to increase vigilance. The alert said U.S. diplomatic facilities, including posts outside the Middle East, have been targeted. Iran-backed groups may target U.S. overseas interests or locations associated with the U.S. and U.S. citizens globally."
+    },
     {
       "id": "mkt:019f76c5-af32-7aab-8df3-1e9366123aa3",
       "time": "2026-07-19 03:48:14",
