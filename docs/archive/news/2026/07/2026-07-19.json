@@ -1,7 +1,15 @@
 {
   "date": "2026-07-19",
-  "count": 154,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:019f7715-4aa1-7aab-8df3-75229c6617d6",
+      "time": "2026-07-19 05:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UAE urges immediate halt to escalation】The UAE Foreign Ministry called for an immediate end to hostilities and resumption of talks amid recent regional developments, warned any attack on civilian infrastructure breaches international law and is unacceptable, and stressed securing the Strait of Hormuz to ensure uninterrupted navigation."
+    },
     {
       "id": "4995698",
       "time": "2026-07-19 05:09:42",

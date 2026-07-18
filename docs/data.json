@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-19 05:13:15",
+  "updated": "2026-07-19 05:17:07",
   "count": 19137,
   "items": [
+    {
+      "id": "mkt:019f7715-4aa1-7aab-8df3-75229c6617d6",
+      "time": "2026-07-19 05:15:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UAE urges immediate halt to escalation】The UAE Foreign Ministry called for an immediate end to hostilities and resumption of talks amid recent regional developments, warned any attack on civilian infrastructure breaches international law and is unacceptable, and stressed securing the Strait of Hormuz to ensure uninterrupted navigation."
+    },
     {
       "id": "4995698",
       "time": "2026-07-19 05:09:42",
@@ -176511,14 +176519,6 @@
         "MKT News"
       ],
       "text": "After an appeals judge shortened a previous ban on Marine Le Pen's candidacy, clearing her to run for a fourth time, Le Pen has widened her lead in voter polls ahead of next April's French presidential election."
-    },
-    {
-      "id": "4982363",
-      "time": "2026-07-12 05:13:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾集會反對修憲擴軍 擔憂民生受擠壓】當地時間11日傍晚，日本民眾自發在東京的新宿車站附近舉行集會，反對日本政府修改憲法、推動“再軍事化”等動向。（央視新聞）"
     }
   ]
 }
