@@ -1,7 +1,415 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-18 19:13:11_
-_本檔包含 3523 則快訊，約 720312 字_
+_更新時間：2026-07-18 20:36:06_
+_本檔包含 3550 則快訊，約 721469 字_
+
+---
+
+### 2026-07-13 22:09:44  #MKT News #Market Themes #China EV Leaders
+
+【Chinese EV firms' overseas investment outpaces US automakers】US think tank Atlas Public Policy data show Chinese companies announced about $101.0bn of overseas EV and battery project investment for 2019-2025, versus roughly $38.0bn by US automakers — about 2.7x. Chinese brands account for roughly 80% of new electric-vehicle sales in Latin America; growth is also strong in Europe and Australia.
+
+---
+
+### 2026-07-13 22:09:07  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bullish #DXY #Impact bearish
+
+Asset manager Carmignac says the ECB may raise rates at least once and possibly twice.
+
+---
+
+### 2026-07-13 22:09:05  #MKT News #Macro & Rates #Treasury Yields #US10Y
+
+Carmignac said the U.S. 10-year Treasury yield at roughly 4.50% is neither a strong buy nor a strong sell.
+
+---
+
+### 2026-07-13 22:08:44  #Trading Economics #Economy #Russia #Balance of Trade #Importance 2
+
+Russia Trade Surplus Widens in May — The Russian trade surplus widened to $14.2 billion in May of 2026 from $7.4 billion in the corresponding period of the previous year. Exports surged by 32.4% annually to $42.8 billion, the highest this year and the sharpest increase in four years. Sales were supported by larger energy sales after the outbreak of war in the Middle East halted tanker flows from the Persian Gulf and lifted oil and gas prices across the globe. Besides higher prices, Russian oil companies also benefited from the loosened sanctions from the US as Washington attempted to tame the surge in energy costs. Meanwhile, imports rose by 14.8% to $28.7 billion.
+
+---
+
+### 2026-07-13 22:08:40  #其他
+
+殼牌：交易預計將於2026年底前完成。
+
+---
+
+### 2026-07-13 22:08:35  #Trading Economics #Markets #Commodity #Importance 1
+
+Baltic Dry Index Rises for 3rd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, advanced for the third session on Monday, rising about 0.5% to a fresh high since June 5 at 2,960 points. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also increased for the third day, rising by 1% to its highest in over a month at 4,702 points; and the supramax index went up by 0.1% to its highest since June 22 at 1,707 points. Meanwhile, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, fell by 0.1% to 2,250 points.
+
+---
+
+### 2026-07-13 22:07:49  #市場
+
+SPACEX股價跌至盤中低點4.9%。
+
+---
+
+### 2026-07-13 22:07:21  #公司
+
+市場訊息;殼牌將SPRNG能源集團出售給ADITYA BIRLA RENEWABLES.
+
+---
+
+### 2026-07-13 22:07:15  #市場 #焦點
+
+紐約期金失守4040美元/盎司，日內跌1.82%。
+
+---
+
+### 2026-07-13 22:06:41  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish #DXY #Impact bullish
+
+Spot gold fell 2% intraday to $4,036.63/oz.
+
+---
+
+### 2026-07-13 22:06:33  #MKT News
+
+Yemen's Transport Ministry denied earlier reports that airports had been closed, Saudi outlet Hadas reported.
+
+---
+
+### 2026-07-13 22:06:29  #其他
+
+【水利部提升遼寧吉林2省洪水防禦應急響應至Ⅲ級】記者從水利部瞭解到，水利部於13日提升遼寧、吉林2省洪水防禦應急響應至Ⅲ級，並將山洪災害氣象風險預警區域通報地方。據預報分析，7月13日20時至14日20時，遼寧省本溪、撫順、鐵嶺、丹東、遼陽、瀋陽和吉林省白山、吉林、遼源、通化、延邊等市（州）28個縣（市、區）的山洪災害氣象風險達到紅色預警級別、8個縣（市、區）達到橙色預警級別，預報還將有較強降雨，且與山洪災害易發區高度重疊，發生山洪災害風險高。（新華社）
+
+---
+
+### 2026-07-13 22:06:24  #市場
+
+現貨黃金日內跌2%，現報4035.23美元/盎司。
+
+---
+
+### 2026-07-13 22:06:05  #其他
+
+【浙江省委書記王浩主持召開浙江省委教育工作領導小組、省委科技委員會、省委人才工作領導小組會議】7月10日，浙江省委書記王浩主持召開省委教育工作領導小組、省委科技委員會、省委人才工作領導小組會議，深入學習貫徹習近平總書記關於教育、科技、人才的重要論述精神，全面落實總書記“4+1”重要要求和省委“132”總體工作部署，總結創新浙江建設成效，研究部署下步工作，進一步強化創新浙江綱舉目張、支撐引領的戰略地位，全力推動創新浙江建設全面成勢，為推動取得“決定性進展”、率先呈現“生動圖景”提供有力支撐。 王浩充分肯定今年以來創新浙江建設實現時間任務“雙過半”、各項工作取得的積極成效。他指出，創新浙江建設是當前和今後一段時期我省工作的重中之重，在全域性工作中處於綱舉目張、支撐引領的戰略地位，正處於從破局起勢邁向全面成勢的關鍵攻堅期，正遇上人工智慧這個大時代，已經形成了比較清晰的工作邏輯和打法路徑。各級領導幹部一定要讓抓創新成為一種工作習慣，自覺抓、持續抓、深入抓，乘勢而上、加速突破，堅持因地制宜，抓住發力重點，以更大力度擁抱人工智慧，讓人工智慧成為創新浙江的最鮮明標識、最核心支撐，更好發揮創新浙江建設對各領域的支點撬動、引領賦能作用，推動創新浙江建設由區域性優勢拓展為整體勝勢，為高質量發展建設共同富裕示範區注入更強勁的驅動力。（浙江釋出）
+
+---
+
+### 2026-07-13 22:04:49  #Trading Economics #Markets #Canada #Stock Market #Importance 1
+
+TSX Steady as Energy Gains Offset Mining Losses — The S&P/TSX Composite Index was little changed near the 35,000 mark on Monday following military exchanges between the US and Iran. US and Iranian forces exchanged heavy missile and drone attacks over the weekend and into Monday, pushing oil prices higher on renewed concerns over crude shipments through the Strait of Hormuz. Bond yields rose as inflation concerns reinforced expectations that interest rates will remain higher for longer in North America. Financials traded near the flatline, with RBC and TD Bank edging up, while Scotiabank and CIBC inched lower. Meanwhile, gold prices fell on expectations of a hawkish Fed, weighing on mining stocks. Agnico Eagle, Barrick, and WPM shed nearly 2% each. In contrast, energy stocks gained on higher oil prices. Canadian Natural rose 2%, while Imperial Oil, Suncor, and Cenovus added about 3% each. Investors also await the BoC's policy decision on Wednesday, with the central bank widely expected to keep its key interest rate unchanged.
+
+---
+
+### 2026-07-13 22:03:55  #國際
+
+辛鮑姆：墨西哥今日對美國移民及海關執法局（ICE）提起法律訴訟。
+
+---
+
+### 2026-07-13 22:03:52  #Trading Economics #Markets #United States #stocks #Importance 1
+
+CVS Health Stock Price Hits Near 4-year High — CVS Health shares increased to 106.16 USD, the highest since August 2022. Over the past 4 weeks, CVS Health gained 5.48%, and in the last 12 months, it increased 63.62%.
+
+---
+
+### 2026-07-13 22:03:46  #MKT News
+
+Financial Times reports UK and Switzerland will ease visa restrictions as part of a services trade agreement.
+
+---
+
+### 2026-07-13 22:03:09  #市場 #焦點
+
+現貨黃金失守4040美元/盎司，日內跌1.95%。
+
+---
+
+### 2026-07-13 22:03:03  #國際
+
+市場訊息：審計報告顯示，美國五角大樓在邊境行動上至少花費了26億美元。
+
+---
+
+### 2026-07-13 22:02:12  #國際
+
+【伊朗：不會允許美國干涉霍爾木茲海峽管理】據伊朗媒體13日報道，伊朗武裝部隊哈塔姆安比亞中央總部發言人當天表示，絕不允許美國干涉霍爾木茲海峽的管理。這名發言人說，伊朗武裝部隊將對美軍未經伊朗授權、擅自闖入指定航道、干擾商船和油輪通行的行為予以強力回擊。“伊朗伊斯蘭革命衛隊和伊朗伊斯蘭共和國軍隊近期的行動就是明證。”（新華社）
+
+---
+
+### 2026-07-13 22:02:10  #國際
+
+知情人士表示，伊朗因美以打擊行動封鎖霍爾木茲海峽後，區域第一大集裝箱港傑貝阿里港貨運量暴跌90%至95%，這也倒逼港口運營商尋找替代航運通道。
+
+---
+
+### 2026-07-13 22:01:55  #MKT News
+
+【Brazil proposes opening uranium mining to private partners; state to keep at least 20% stake】Brazil plans to open uranium mining to private capital, allowing partnerships with private firms provided the state nuclear fuel-cycle company retains at least a 20% equity stake in each project. A draft regulation would permit the state monopoly on the nuclear fuel cycle to publicly tender joint mineral-exploration projects and to collaborate with private companies on uranium and other nuclear-mineral extraction, processing, industrialisation and sales. The proposal is under review at the presidential civil office and the Ministry of Mines and Energy and may be amended, Agência iNFRA reported late last month.
+
+---
+
+### 2026-07-13 22:01:52  #MKT News #GBPUSD #Impact bearish
+
+Switzerland and the UK have ended talks to strengthen their free trade agreement.
+
+---
+
+### 2026-07-13 22:01:13  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold fell below $4,040/oz, down 1.92% on the day.
+
+---
+
+### 2026-07-13 22:00:13  #其他
+
+瑞士和英國結束了關於加強自由貿易協定的談判。
+
+---
+
+### 2026-07-13 21:59:55  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+New York gold futures fell below $4,050/oz, down 1.92% intraday.
+
+---
+
+### 2026-07-13 21:59:44  #市場 #焦點
+
+紐約期金失守4050美元/盎司，日內跌1.56%。
+
+---
+
+### 2026-07-13 21:57:25  #MKT News #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD
+
+A Russian official said Russia and Ukraine will carry out a new prisoner exchange soon; the date has not been announced.
+
+---
+
+### 2026-07-13 21:57:15  #國際
+
+俄羅斯國防部：俄無人機襲擊了烏克蘭敖德薩地區港口的兩艘散貨船。
+
+---
+
+### 2026-07-13 21:57:03  #MKT News #Commodities #Energy
+
+President Putin said Russia is studying a system to supply petroleum products to Crimea that would be sited to make it extremely difficult for adversaries to strike.
+
+---
+
+### 2026-07-13 21:56:50  #MKT News #WTI #Impact bullish #Brent
+
+Russian Defence Ministry said Russian drones struck two bulk carriers in Ukraine's Odesa region.
+
+---
+
+### 2026-07-13 21:56:46  #公司
+
+【上海誼眾：披露回購股份事項前十大股東和前十大無限售條件股東持股情況】上海誼眾公告稱，公司於2026年7月1日召開第三屆董事會第三次會議，審議透過以集中競價交易方式回購公司股份的議案。根據相關規定，需披露審議回購方案股東會股權登記日（2026年7月13日）登記在冊的前十大股東和前十大無限售條件股東持股情況。前十大股東中，周勁松持股40127058股，佔比19.41%居首；前十大無限售條件股東持股情況與前十大股東一致。
+
+---
+
+### 2026-07-13 21:56:04  #公司 #市場
+
+【7月13日增減持彙總】據不完全統計，7月13日盤後，賽力斯、今天國際、愛施德、泓淋電力等4家公司披露增持情況。迪安診斷、實益達、江鹽集團、優德精密、太極實業等5家A股公司披露擬減持情況。
+
+---
+
+### 2026-07-13 21:55:50  #其他
+
+瑞銀將META <META.O>目標價從865美元下調至766美元。
+
+---
+
+### 2026-07-13 21:55:44  #MKT News #Star Stocks #Alphabet #Market Themes #Magnificent 7 #GOOG.O #Impact bearish
+
+UBS cuts PT for ALPHABET (GOOG.O) to $400 from $410.
+
+---
+
+### 2026-07-13 21:55:22  #MKT News #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O #Impact bearish
+
+UBS cuts price target for Meta Platforms (META.O) to $766 from $865.
+
+---
+
+### 2026-07-13 21:54:54  #公司
+
+瑞銀集團將英特爾目標價從83美元上調至121美元。
+
+---
+
+### 2026-07-13 21:54:12  #其他
+
+瑞銀下調ALPHABET INC <GOOGL.O>目標價至400美元，此前為410美元。
+
+---
+
+### 2026-07-13 21:53:50  #公司
+
+瑞銀將西部資料公司<WDC.O>目標價從375美元上調至560美元。
+
+---
+
+### 2026-07-13 21:52:34  #公司
+
+【瑞博生物：於公開市場購回18.66萬股H股，總代價為930.12萬港元】瑞博生物公告，董事會宣佈，根據股份購回授權，公司於2026年7月13日在公開市場購回合共18.66萬股H股，總代價為930.12萬港元。所有該等購回的H股均作為庫存股份持有。
+
+---
+
+### 2026-07-13 21:51:59  #MKT News #INTC.O #Impact bullish
+
+UBS raised its PT on Intel (INTC.O) to $121 from $83.
+
+---
+
+### 2026-07-13 21:51:58  #公司
+
+訊息人士：派拉蒙與華納兄弟探索公司(WBD.O)合併預計將面臨多個州的訴訟。
+
+---
+
+### 2026-07-13 21:51:44  #MKT News #Important #Nasdaq100 #Impact bearish
+
+Nasdaq Composite losses widened to 1%.
+
+---
+
+### 2026-07-13 21:51:29  #MKT News #PARA.O #Impact bearish #WBD.O
+
+Sources say Paramount's proposed merger with Warner Bros. Discovery (WBD.O) is expected to face lawsuits in multiple states.
+
+---
+
+### 2026-07-13 21:51:13  #市場 #焦點
+
+納指跌1.01%，現報26015.927點；道指漲0.16%，現報52723.691點；標普500指數跌0.32%，現報7551.140點。
+
+---
+
+### 2026-07-13 21:51:12  #其他
+
+瑞銀將艾伯維目標價從230美元上調至260美元。
+
+---
+
+### 2026-07-13 21:50:36  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Putin vowed to take stronger, increasingly forceful responses to attacks on Ukraine.
+
+---
+
+### 2026-07-13 21:49:26  #公司 #國際
+
+阿克蘇諾貝爾公司：俄羅斯業務佔公司營收比例不足2%，對公司整體財務表現不構成重大影響。
+
+---
+
+### 2026-07-13 21:48:47  #國際
+
+【美伊摩擦加劇 霍爾木茲海峽航道通行量跌至月內最低】伊朗於週六襲擊一艘塞普勒斯籍集裝箱貨輪後，美伊雙方隨即展開多輪相互打擊，霍爾木茲海峽航運通行量斷崖式暴跌。 航運資料機構克普勒（Kpler）統計資料顯示，週日僅有14艘船舶穿越該航道，創下一個月以來單日通行新低。其中駛出波斯灣、滿載原油、化工品及其他大宗商品的油輪僅3艘，且這三艘全部屬於掛靠灰色航線或遭制裁的船隻。而在2月末衝突爆發前，霍爾木茲海峽日均通航船舶超130艘。全球最大航運協會波羅的海國際航運公會（BIMCO）首席安全官雅各布・拉森表示，美伊兩國6月17日簽署的諒解備忘錄存在明顯弊端，該協議弱化了規範海上航運的國際公約效力，而國際公約明確規定船舶可在國際水道享有無害通行權。他同時指出，這份協議並未化解兩國之間的核心分歧。 拉森判斷，只要伊朗方面的威懾打擊能力沒有解除，海峽航運流量大機率會持續維持在低位。
+
+---
+
+### 2026-07-13 21:48:27  #其他
+
+【甘肅多地釋出暴雨預警 省水利廳啟動洪水防禦Ⅳ級應急響應】7月13日晚，甘肅多地遭遇強降雨。甘肅省氣象臺釋出暴雨藍色預警；甘南州夏河縣釋出暴雨紅色預警；臨夏州釋出暴雨橙色預警；甘肅省水利廳已啟動洪水防禦Ⅳ級應急響應。（央視新聞）
+
+---
+
+### 2026-07-13 21:48:18  #MKT News
+
+Iran's ambassador to the UK said the security of the Strait of Hormuz is a two-way street and that those who have created the dangerous situation in the region must reconsider their positions if they truly wish to transit the strait safely and without harm.
+
+---
+
+### 2026-07-13 21:47:58  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Slips Amid Middle East Tensions — The Ibovespa edged lower to trade near the 177,000 mark on Monday after military exchanges between the US and Iran. US and Iranian forces exchanged heavy missile and drone attacks over the weekend and into Monday, pushing oil prices higher on renewed concerns over crude shipments through the Strait of Hormuz. Energy-driven inflation concerns reinforced expectations that interest rates will remain higher for longer. Meanwhile, the Focus survey showed lower inflation forecasts for 2026. Financials traded mixed, with Bradesco gaining 0.5% and Itaú trading near flat, while Itaúsa and Banco do Brasil edged lower. Utilities posted losses, with Axia edging down and Sabesp losing nearly 1%. Vale fell nearly 1% on lower iron ore prices. Other notable laggards included WEG (-2%), Rede D'Or (-1%), and Embraer (-1%). In contrast, Petrobras advanced more than 2% on higher oil prices.
+
+---
+
+### 2026-07-13 21:47:19  #MKT News #Commodities #Energy #Brent #Impact bullish #WTI
+
+Putin said actions by Ukrainian armed forces are creating disruptions to Russia's oil-product supplies, but he said conditions would gradually improve.
+
+---
+
+### 2026-07-13 21:47:05  #MKT News #Market Themes #Chip Wars #AMD.O #Impact bullish
+
+Bank of America raised its price target on AMD (AMD.O) to $620 from $550.
+
+---
+
+### 2026-07-13 21:47:04  #公司 #國際
+
+市場訊息：阿克蘇諾貝爾俄羅斯子公司被置於臨時外部管理之下。
+
+---
+
+### 2026-07-13 21:46:22  #MKT News
+
+【Dubai plans new port to bypass Strait of Hormuz】Financial Times, citing people familiar with the matter, reports DP World is planning a new port and container terminal on the UAE’s east coast to reduce reliance on flagship Jebel Ali and to provide a route that avoids the Strait of Hormuz. The Dubai-headquartered operator is in talks to develop a new multipurpose port on Fujairah’s coast and to add a container terminal at the existing local port. Over the past two decades DP World has built a large global ports and logistics footprint, but Jebel Ali remains the group’s and Dubai’s core asset; shifting some throughput offshore would be material for Dubai’s trade and financial hub positioning.
+
+---
+
+### 2026-07-13 21:46:21  #國際
+
+俄羅斯總統普京：針對俄羅斯的襲擊，俄方將作出映象式且數倍猛烈的回應。
+
+---
+
+### 2026-07-13 21:45:53  #其他
+
+美銀全球研究將超威半導體 <AMD.O> 目標價從550美元上調至620美元。
+
+---
+
+### 2026-07-13 21:44:54  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
+
+MOODY'S says a US shift away from involvement in European security affairs would have a negative impact on European sovereign creditworthiness.
+
+---
+
+### 2026-07-13 21:44:42  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Putin said Russia will deliver a mirror response several times more forceful to attacks on Russia.
+
+---
+
+### 2026-07-13 21:44:26  #其他
+
+航運資料機構克普勒（Kpler）統計資料顯示，週日僅有14艘船舶穿越霍爾木茲海峽，創下一個月以來單日通行新低。
+
+---
+
+### 2026-07-13 21:44:26  #MKT News #DPW.L #Impact bullish
+
+Financial Times reports DP World is in talks to develop a new multipurpose port on the coast of Fujairah.
+
+---
+
+### 2026-07-13 21:44:25  #其他
+
+美銀全球研究將恩智浦半導體<NXPI.O> 目標價從275美元上調至310美元。
+
+---
+
+### 2026-07-13 21:44:12  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Rises on US-Iran Strikes — Brent crude oil climbed more than 3% to around $78.7 per barrel on Monday after the US launched another wave of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. Iran declared the Strait of Hormuz closed until further notice, while Western naval forces maintained that the key shipping route remained open. President Donald Trump said the US would likely take control of the strait and seek reimbursement for securing it, although he provided no further details. Tehran said talks to reduce tensions were continuing despite the interim peace agreement entering a "crisis phase." Iran also targeted US allies across the region, with Kuwait reporting damage to an offshore drilling platform. Tanker traffic through Hormuz remained subdued, although the Omani shipping corridor stayed operational. Meanwhile, OPEC lowered its 2026 oil demand growth forecast to 800,000 barrels per day.
+
+---
+
+### 2026-07-13 21:44:08  #公司 #市場
+
+威廉姆斯公司股價下跌2.7%，該公司同意將五個發電專案49%的非控股股權出售給黑石集團牽頭的財團。
+
+---
+
+### 2026-07-13 21:43:37  #市場
+
+美光科技股價下跌7.2%，報908.730美元/股，總市值報1.03萬億美元。
+
+---
+
+### 2026-07-13 21:43:25  #Trading Economics #Markets #Commodity #Importance 2
+
+Oil Jumps on Fresh US-Iran Strikes — Crude oil climbed more than 3% to around $74 per barrel on Monday after the US launched another wave of strikes against Iran, intensifying concerns over supply disruptions in the Middle East. Iran declared the Strait of Hormuz closed until further notice, while Western naval forces maintained that the key shipping route remained open. President Donald Trump said the US would likely take control of the strait and seek reimbursement for securing it, although he provided no further details. Tehran said talks to reduce tensions were continuing despite the interim peace agreement entering a "crisis phase." Iran also targeted US allies across the region, with Kuwait reporting damage to an offshore drilling platform. Tanker traffic through Hormuz remained subdued, although the Omani shipping corridor stayed operational. Meanwhile, OPEC lowered its 2026 oil demand growth forecast to 800,000 barrels per day.
 
 ---
 
@@ -21036,251 +21444,5 @@ Saudi state news agency reported the royal court appointed Energy Minister Abdul
 ### 2026-07-11 20:37:36  #其他
 
 沙特國王任命能源大臣阿卜杜勒阿齊茲·本·薩勒曼親王兼任工業和礦產資源大臣。
-
----
-
-### 2026-07-11 20:34:39  #公司
-
-【共達電聲：與崑山瑪冀電子達成戰略合作 切入算力供應鏈體系】近日，共達電聲與崑山瑪冀電子股份有限公司（簡稱“崑山瑪冀電子”）正式簽署戰略合作框架協議，兩家企業發揮各自技術，產能與渠道優勢，達成戰略合作關係。此次戰略合作標誌著共達電聲正式切入算力供應鏈體系，在傳統電聲業務之外開闢AI電源全新賽道。
-
----
-
-### 2026-07-11 20:26:16  #MKT News #XAUUSD #Impact bullish #Brent #DXY
-
-【Russian Defence Ministry says strikes demonstrate ability to hit any target across Ukraine】Sputnik reported the Russian Defence Ministry said on Sunday that coordinated strikes on a Kyiv military‑industrial complex and maritime port infrastructure in Odesa region demonstrate Russian forces can reliably strike any target across Ukraine. The ministry said strikes on Ukrainian seaports and vessels ferrying weapons to the Zelenskiy administration produced significant results.
-
----
-
-### 2026-07-11 20:25:33  #MKT News #Market Regions #Greater China
-
-【Muxi angel 50 mln yields >7.4 bln unrealised gain in five years; investor says China could spawn multiple trillion-yuan listed firms】The investment firm where Kong Lingguo works, which focuses on the semiconductor value chain, put about 250 mln yuan into Muxi starting at the angel round. Muxi listed on 17 Dec 2025; the 50 mln yuan angel stake has generated over 7.4 bln yuan of unrealised gains in five years and overall paper gains are substantial. An industry forecast projects domestic purchases of compute cards will reach 14.4 tln yuan by 2029, underpinning investor expectations that China could produce multiple listed companies with market capitalisations in the trillion- to ten-trillion-yuan range.
-
----
-
-### 2026-07-11 20:24:28  #MKT News #Market Regions #Greater China
-
-【Hangzhou Metro to suspend entire network from 06:00 on July 12】Hangzhou Metro said on its official account that, due to Typhoon Bavi, the city has activated a Level I typhoon emergency response. From 06:00 on July 12 the entire metro network will suspend operations; resumption time will be announced.
-
----
-
-### 2026-07-11 20:15:07  #國際
-
-【印尼北蘇拉威西省附近地區發生5.6級地震】據印尼氣象、氣候和地球物理局釋出的報告，當地時間7月11日17時51分，印尼北蘇拉威西省塔胡納鎮東北165公里處發生5.6級地震。震源深度10公里，暫無海嘯風險。（央視新聞）
-
----
-
-### 2026-07-11 20:14:48  #公司
-
-【受颱風“巴威”影響，7月12日6時起杭州地鐵全線網停運】7月11日晚，杭州市地鐵集團有限責任公司釋出停運公告：受9號颱風“巴威”影響，我市已啟動防颱風Ⅰ級應急響應。自7月12日6時起，地鐵全線網將採取停運措施，恢復時間另行通知。
-
----
-
-### 2026-07-11 20:10:05  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-【Eni CEO: Prolonged Middle East conflict could push oil above $80–$100/bbl band by early 2027】Eni CEO Claudio Descalzi said if the Middle East conflict persists, the global oil market will break out of the current roughly $80–$100 per barrel range by Q1 2027 at the latest, boosting inflation and depressing energy demand. Strategic reserve releases have so far kept prices in that band, but reserves are finite and the approach faces rising risk. Iran-related disruptions since late February have driven average daily inventory draws of about 3.8 mln barrels, accelerating to 4.6 mln bpd in May. Descalzi called for diversification of supply sources and routes — highlighting North Africa, sub‑Saharan Africa, Latin America and Southeast Asia — and urged reduced reliance on sea lanes under concentrated control.
-
----
-
-### 2026-07-11 20:04:32  #公司
-
-【儲存晶片股過去數週跌超20% 底層邏輯面臨重估】業內人士表示，儲存晶片行業歷史上每逢景氣行情，廠商往往會同步擴大產能，導致新增產能集中釋放、價格暴跌，全行業陷入虧損；隨後廠商又集體收縮資本開支，等到需求回暖，又迎來景氣行情——這一迴圈構成了行業特有的週期性。美股儲存晶片股自6月下旬觸及高點以來，Meta公司出售算力等訊息引發了市場對算力過剩的擔憂，儲存晶片股遭遇集體回撥。資料顯示，閃迪、美光科技、希捷科技、西部資料等行業龍頭在過去數週內股價跌幅均超過20%。分析人士指出，當前支撐儲存晶片需求的行業底層邏輯正面臨重估，核心變數在於各家AI大模型之間的技術差距是否會持續縮小。分析人士還指出，儲存晶片行業正在經歷一次商業模式的深層變化：過去儲存更像大宗商品，價格隨行就市，合同也多以季度、年度為單位；現在，雲廠商和AI資料中心為了保障關鍵供應，正越來越多地和原廠簽下三到五年、帶價格區間、最低採購量和客戶保證金的長期供應協議。（央視財經）
-
----
-
-### 2026-07-11 20:03:42  #MKT News #Market Themes #Chip Wars #AI Revolution #MU.O #Impact bearish #STX.O #WDC.O
-
-【Storage chip stocks fall over 20% in recent weeks as fundamentals are reassessed】Storage-chip names have tumbled more than 20% in recent weeks after peaking in late June, industry participants said. Meta’s sale of compute capacity stoked fears of excess compute and triggered a sectorwide pullback; SanDisk, Micron, Seagate and Western Digital are among leaders down over 20%. Traders note the industry’s long-standing cycle—capacity broadside expansion in booms, price collapses and industrywide losses, then capex retrenchment and eventual recovery—remains intact. Analysts say the key variable now is whether technical gaps between AI large models continue to narrow, which would materially affect incremental storage demand. Separately, commercial dynamics are shifting: cloud providers and AI data centers are increasingly signing three- to five-year supply agreements with price bands, minimum purchase commitments and customer deposits to secure critical supply, replacing shorter-term, spot or quarterly contracting.
-
----
-
-### 2026-07-11 20:00:02  #市場
-
-本週大盤主力資金累計淨流入-2309.06億元，計算機裝置、IT服務Ⅱ板塊淨流入居前，個股華天科技、中興通訊淨流入最多。
-
----
-
-### 2026-07-11 19:59:10  #公司 #觀點 #國際 #原創
-
-【埃尼集團CEO：石油市場可能在2027年初突破當前價格區間】義大利埃尼集團CEO克勞迪奧·德斯卡爾齊表示，如果中東衝突持續下去，全球石油市場最遲將於2027年第一季度突破每桶80至100美元的區間，這將推高通脹並降低能源需求。他在週六發表的的採訪中表示，迄今為止，原油庫存的釋放幫助原油價格基本維持在該區間內。他指出，由於全球石油儲備有限，這種策略存在越來越大的風險。他表示：“長期的解決方案是透過供應來源和路線的多元化來提高能源安全。”德斯卡爾齊表示，受2月底爆發的伊朗衝突影響，全球石油庫存平均每天下降380萬桶，5月份降幅更是加速至每天460萬桶/日。他表示，各國應重點關注北非和撒哈拉以南非洲、拉丁美洲和東南亞的能源生產國，同時減少對受控海上通道的依賴。
-
----
-
-### 2026-07-11 19:57:58  #MKT News
-
-【Hangzhou Bay Cross-Sea Bridge closed both directions】Typhoon "Bavi", the year’s ninth, has closed the Hangzhou Bay Cross-Sea Bridge to all vehicles in both directions from 19:30 today.
-
----
-
-### 2026-07-11 19:56:17  #其他
-
-【杭州灣跨海大橋雙向封閉】受今年第9號颱風“巴威”影響，杭州灣跨海大橋從今天19:30起雙向封閉，禁止所有車輛通行。
-
----
-
-### 2026-07-11 19:55:57  #國際
-
-伊朗代理國防部長賽義德·馬吉德·伊本·禮薩表示，即使在伊朗遭受強加戰爭的高峰期，不僅國防生產沒有停止，而且無人機的生產能力還增加了兩倍。
-
----
-
-### 2026-07-11 19:55:21  #MKT News #WTI #Impact bullish #Brent
-
-ENI CEO said if the Middle East conflict persists, oil markets could break out of the current trading range in early 2027.
-
----
-
-### 2026-07-11 19:53:53  #國際
-
-美國官員：如果伊朗不發表宣告宣佈開放霍爾木茲海峽，後果將對其不利。
-
----
-
-### 2026-07-11 19:52:08  #其他
-
-【自然資源部將河北地質災害防禦響應提至Ⅲ級，對安徽啟動Ⅳ級響應】據自然資源部訊息，第9號颱風“巴威”將於7月11日夜間至12日凌晨在浙江溫嶺至瑞安一帶登陸，並持續北上。據氣象部門預測和自然資源部地質災害技術指導中心研判，河北東北部發生地質災害的風險很高，安徽南部發生地質災害的風險高。自然資源部於7月11日17時將河北地質災害防禦響應等級由Ⅳ級提升為Ⅲ級，增派司局級同志帶隊的工作組赴河北指導地質災害防禦工作；於7月11日18時對安徽啟動地質災害防禦Ⅳ級響應。
-
----
-
-### 2026-07-11 19:51:13  #其他
-
-【山西釋出地質災害、山洪災害雙預警】7月11日，山西省自然資源廳和山西省氣象局聯合釋出地質災害氣象風險預警：預計7月11日20時至7月12日20時，太原市萬柏林區、晉源區、清徐縣、古交市、長治市屯留區、沁源縣、晉城市沁水縣、晉中市太谷區、祁縣、平遙縣、運城市鹽湖區、芮城縣、忻州市河曲縣、保德縣、偏關縣、臨汾市翼城縣、洪洞縣、古縣、安澤縣、浮山縣、蒲縣、呂梁市興縣、臨縣、柳林縣、石樓縣、方山縣、中陽縣部分割槽域地質災害氣象風險預警級別為三級（黃色預警），發生地質災害的風險較高，上述地區政府、部門和群眾應根據預警等級採取相應的防範措施，加強雨前排查、雨中巡查、雨後核查。山西省水利廳和山西省氣象局聯合釋出山洪災害氣象風險預警：預計7月11日15時至7月12日03時，受強降雨影響，忻州市東南部、太原市、陽泉市、晉中市、呂梁市東部、長治市、臨汾市、晉城市西部、運城市9個市68個縣可能發生山洪（藍色預警），其他地區也可能因局地短歷時強降水引發山洪災害， 各地應注意做好實時監測、防汛預警和轉移避險等防範工作。
-
----
-
-### 2026-07-11 19:46:20  #MKT News
-
-【Luanhe 2026 No.1 flood forms; Haihe flood control HQ activates Level III emergency response】The Ministry of Water Resources’ Haihe Water Resources Commission said heavy to torrential rain, locally extremely heavy, is expected in the Luanhe and Beisanhe basins on July 11–12, and rivers within the rainfall area will see significant rises. Under relevant emergency-response plans, Haihe flood control headquarters launched a Level III flood emergency response from 19:00 on July 11 and the Haihe Commission activated a Level III flood-defense response. At 18:00 on July 11 inflow to Panjiakou reservoir on the Luanhe system was 2,240 cubic meters per second; this meets the numbering criteria and is designated Luanhe 2026 No.1 flood under the Ministry of Water Resources’ national major rivers flood numbering list.
-
----
-
-### 2026-07-11 19:46:16  #其他
-
-【北京朝陽站今日19時後傳送車輛及20時後到達車輛全部停運】從北京市重點站區管委會獲悉，北京朝陽站今日19時以後傳送車輛及20時以後到達車輛，全部停運，共停運33列，其中傳送9列、到達24列，共涉及旅客8825人。相關部門已透過12306、點對點簡訊、車站大屏和站內廣播通知旅客，請關注出行資訊。目前，北京朝陽站地區東、西廣場各配備兩把大雨傘供旅客避雨出行使用，降雨時段安排專人引導和服務有需要的旅客，保障順暢出行。同時，在樞紐內部“旅客身邊人”志願服務點位、問詢臺已更新指路板，放置最新制作的彩虹指路條。此外，記者從國鐵北京局獲悉，為應對本輪強降雨天氣，鐵路部門繼續對部分線路實施列車臨時停運措施，今天（7月11日）20時至明天（7月12日）12時京哈高鐵、今天（7月11日）18時之後的津山線部分旅客列車臨時停運。（央視新聞）
-
----
-
-### 2026-07-11 19:44:54  #其他
-
-【“灤河2026年第1號洪水”形成 海河防總啟動防汛Ⅲ級應急響應】從水利部海河水利委員會獲悉，7月11日至12日，灤河、北三河將有大到暴雨，區域性大暴雨，降雨區內河流將發生明顯漲水過程。根據《海河防汛抗旱總指揮部防汛應急響應預案》和《水利部海河水利委員會水旱災害防禦應急響應工作規程》有關規定，經研究，自7月11日19時起，海河防總啟動防汛Ⅲ級應急響應，海委啟動洪水防禦Ⅲ級應急響應。7月11日18時，海河流域灤河系灤河潘家口水庫入庫流量為2240立方米每秒，為2026年灤河第一次達到編號標準的洪水，依據水利部《全國主要江河洪水編號清單》，確定此次洪水編號為“灤河2026年第1號洪水”。
-
----
-
-### 2026-07-11 19:43:51  #MKT News #Star Stocks #JD.com
-
-【JD.com breaks ground on first RoboBase in Guangzhou's Huangpu】On July 11 Guangdong provincial government signed a comprehensive strategic cooperation agreement with JD.com; JD.com broke ground the same day on its first RoboBase in the core zone of Guangzhou’s Huangpu Science City. The project spans about 190,000 sq m of gross floor area and targets three segments—robotics core components, full-system manufacturing and high-end intelligent equipment—with emphasis on embodied intelligence, industrial robots, service robots and upstream/downstream supply‑chain firms.
-
----
-
-### 2026-07-11 19:40:35  #MKT News #Market Regions #Greater China
-
-【Yangtze River Maritime Safety Administration raises typhoon emergency response to level II】Typhoon Bavi (No.9) is expected to affect eastern Hubei, Jiangxi and Anhui in the middle–lower Yangtze between July 11–13. The Yangtze River Maritime Safety Administration raised its typhoon emergency response to level II for the main Yangtze stretch from Anhui to Sichuan from 18:00 on July 11.
-
----
-
-### 2026-07-11 19:37:14  #其他
-
-【長江海事局提升防颱應急響應至二級】今年第9號颱風“巴威”預計於7月11日至13日對長江中下游的湖北東部、江西、安徽等地造成影響。記者從長江海事局獲悉，為保障防颱安全，長江海事局按照“早研判、早預警、早部署、早排查、早轉移”的防颱要求，於7月11日18時起將長江干線安徽至四川段的防颱應急響應提升至二級。
-
----
-
-### 2026-07-11 19:36:56  #其他
-
-【廣西向受災地區調撥救災物資約17.8萬件】近期，受今年第10號颱風“美莎克”影響，廣西多地遭遇持續性極端強降雨，引發系列災情。記者11日從廣西壯族自治區應急管理廳獲悉，近日自治區應急管理廳會同自治區糧食和物資儲備局分批向受災地區調撥中央和自治區救災物資，合計約17.8萬件，保障安置群眾住宿、日常生活等基本需求。自治區應急管理廳救災與物資保障處應急指揮專員陳靜介紹，首批1萬件救災物資調往防城港、欽州、北海等受災地區，包括帳篷、摺疊床、毛巾被、雨衣雨鞋、夏裝等。第二批、第三批分別調撥15萬件、1.8萬件救災物資，保障南寧和貴港等受災地區需求。（新華社）
-
----
-
-### 2026-07-11 19:32:26  #其他
-
-【唐傑內部信稱將開啟 Touch High（摸高）計劃，“不登頂，就是失敗”】今日智譜創始人唐傑釋出內部信，闡述智譜對 AGI 接下來競爭的理解。唐傑在信中表示，智譜接下來將繼續延續所謂 “反直覺” 路線，開啟 “Touch High（摸高）計劃”，即繼續聚焦於 AGI 研究，而不是短期商業變現。通往 AGI 終點的道路上，有幾座必須翻越的山峰，它們也正是今天技術浪潮最洶湧的地方，唐傑列出的四座高峰分別是：長程任務（Long Horizon Task），自治智慧體系統（Autonomous Agent System），完全自我訓練（Fully Self Training），極致安全治理。其中，極致安全治理被特別強調，智譜計劃投入百億級資源攻堅機械可解釋性，這意味著釐清模型決策背後的神經元邏輯，推動黑盒系統向透明可解釋系統轉變。（晚點Latepost）
-
----
-
-### 2026-07-11 19:31:40  #公司
-
-【受天氣影響 首都機場啟動運管委協同執行一級響應機制】從首都機場瞭解到，因本場及外站特殊天氣影響，目前首都機場已啟動運管委協同執行一級響應機制和紅色汛情保障程式。今日，首都機場計劃起降航班1357架次，預計進出港旅客共計20.6萬人次。截至18:00，已執行865架次。夜間短時強降雨將對航班起降造成一定程度的影響，建議旅客及時聯絡所乘航空公司瞭解航班動態。（央視新聞）
-
----
-
-### 2026-07-11 19:29:22  #MKT News #Market Regions #Europe & UK
-
-【EU drafting 'solidarity tool' to back supply‑chain diversification】The European Commission is drafting a "solidarity tool" to help firms shift supplies of critical goods and cushion the impact of trade conflicts, sources say. The measure will require funding and is being considered in talks on the EU's next multiannual financial framework; the required funding is unclear but could be substantial given the scale of affected industries and trade. Some member states are pushing for spending cuts. National envoys were briefed on the proposal this week.
-
----
-
-### 2026-07-11 19:27:10  #其他
-
-【湖北啟動地質災害防禦Ⅲ級響應】從湖北省自然資源廳瞭解到，據最新氣象資料部門資訊，受颱風“巴威”影響，預計12日午後至13日，湖北鄂東地區有大雨到暴雨、局地大暴雨，單點可能發生特大暴雨，西部地區局地暴雨。受14日尾部環流影響，湖北省最強時段為12日午後至13日。鑑於颱風影響不確定性，經組織專家研判，根據《湖北省自然資源廳地質災害防禦響應工作方案（試行）》，湖北省自然資源廳決定自7月11日12時起，對全省啟動地質災害防禦Ⅲ級響應。
-
----
-
-### 2026-07-11 19:22:24  #公司
-
-【京東首個RoboBase專案落地廣州黃埔】7月11日，廣東省政府與京東集團簽署全面戰略合作協議。京東首個RoboBase專案同日在廣州黃埔開工。RoboBase專案是京東產發依託京東集團業務生態打造的機器人全生命週期產業基礎設施，以“研發—製造—應用—服務”一體化為目標，構建機器人完整生態閉環，致力於成為智慧機器人產業服務平臺。此次開工的RoboBase專案位於廣州黃埔科學城核心片區，是此次戰略合作落地的首個實體標杆，也是京東在先進製造與機器人賽道的核心佈局。
-
----
-
-### 2026-07-11 19:20:31  #國際
-
-【越南富國島快艇傾覆事故遇難15人均為印度公民】據印度方面11日訊息，在越南富國島發生的遊艇傾覆事故中，遇難的15人均為印度公民。該船當時搭載了36人，其中包括32名印度遊客、3名船員和1名隨行人員。有21人獲救。印度駐越南大使館表示正在密切關注事件進展，並已在胡志明市和河內市設立緊急響應中心，協助受影響家庭。（央視新聞）
-
----
-
-### 2026-07-11 19:18:13  #MKT News
-
-Hebei will upgrade flood-control emergency response in Chengde and Tangshan from Level III to Level II.
-
----
-
-### 2026-07-11 19:17:50  #MKT News #Commodities #Energy
-
-Russia will begin importing oil products this month, the deputy prime minister said.
-
----
-
-### 2026-07-11 19:17:45  #其他
-
-【河北將針對承德、唐山的防汛三級應急響應提升至二級】根據當前雨水情和汛情形勢，經研究，河北省防汛抗旱指揮部決定於7月11日18時將針對承德、唐山的防汛三級應急響應提升至二級。本次降雨夜雨特徵明顯，河北省防指要求，各級各部門要密切關注雨水情及汛情變化，強化各項防範措施，打足提前量，果斷擴面轉移危險區群眾，做好搶險救援救災工作，全力確保人民群眾生命財產安全。
-
----
-
-### 2026-07-11 19:17:28  #國際
-
-俄羅斯副總理：國內燃料供應形勢依然嚴峻。
-
----
-
-### 2026-07-11 19:16:57  #國際
-
-美國官員稱：美國和伊朗將於週六在阿曼恢復談判。
-
----
-
-### 2026-07-11 19:16:55  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Russian Deputy Prime Minister Novak said the ban on diesel exports is intended to meet domestic demand and that repairs to damaged refineries will be accelerated.
-
----
-
-### 2026-07-11 19:16:20  #國際
-
-俄羅斯副總理：本月我們將開始進口石油產品。
-
----
-
-### 2026-07-11 19:15:30  #國際
-
-俄羅斯副總理：禁止柴油出口是為了滿足國內市場需求，我們將加快受損煉油廠的修復工作。
-
----
-
-### 2026-07-11 19:14:40  #國際
-
-美國官員：美國要求伊朗發表宣告，宣佈霍爾木茲海峽所有航道開放，並承諾不再恢復針對船隻的攻擊。
-
----
-
-### 2026-07-11 19:13:30  #公司
-
-【改革組老將提前出走，永輝超市管理架構面臨重塑】2026年6月30日，永輝超市釋出公告，副總裁羅雯霞、林紅東因“個人原因”提交辭職函，較原定任期提前一年半結束工作。這已是近3個月內永輝超市收到的第3份核心高管辭呈，今年4月，副總裁兼財務總監吳凱之同樣提前離任。而自2024年9月名創優品斥資62.7億元入股成為第一大股東以來，永輝超市的管理層架構正在重塑。管理層變動之外，這家零售巨頭，正在“學習胖東來”的調改路上持續前行。一邊是核心團隊接連離場，一邊是調改進入第二階段、一季度淨利潤同比增長94%，顯然永輝超市正處在轉型的關鍵十字路口。（中國經營報）
 
 ---
