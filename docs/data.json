@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-19 02:52:35",
-  "count": 19110,
+  "updated": "2026-07-19 02:56:22",
+  "count": 19109,
   "items": [
+    {
+      "id": "mkt:019f7692-886e-7aab-8df2-b9ab2efa4f76",
+      "time": "2026-07-19 02:52:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. defense secretary Hegseth posted after two U.S. service members were killed in Jordan that their sacrifice will only strengthen our resolve."
+    },
     {
       "id": "4995668",
       "time": "2026-07-19 02:50:49",
@@ -176247,23 +176255,6 @@
         "Important"
       ],
       "text": "CNN sources say Oman has proposed managing shipping through the Strait of Hormuz via two separately controlled channels; the proposal has not been finalized."
-    },
-    {
-      "id": "4982343",
-      "time": "2026-07-12 02:55:27",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "阿曼提議霍爾木茲海峽航道由兩條獨立管控的航道分流管理，協議尚未最終敲定。"
-    },
-    {
-      "id": "4982342",
-      "time": "2026-07-12 02:54:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士：阿曼就霍爾木茲海峽航運航線提出一項協議。"
     }
   ]
 }
