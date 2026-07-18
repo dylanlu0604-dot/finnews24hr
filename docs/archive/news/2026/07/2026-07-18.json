@@ -1,7 +1,450 @@
 {
   "date": "2026-07-18",
-  "count": 476,
+  "count": 527,
   "items": [
+    {
+      "id": "4995304",
+      "time": "2026-07-18 12:13:21",
+      "tags": [
+        "市場",
+        "觀點",
+        "其他"
+      ],
+      "text": "【兩融“強平潮”來襲？最新資料揭示三大真相】7月17日，市場出現大幅調整，有關兩融被集中強平的訊息開始流傳。記者一線調查發現，兩融資料透露了三大關鍵真相： 一是強平“雷聲大雨點小”，各家券商營業部基本未出現強平操作，調查顯示，僅有A券商大型營業部1人觸發平倉，佔比低於0.1%，風險整體可控； 二是散戶並未恐慌出逃，反而逆市淨流入接籌，市場承接力猶在，“槓桿踩踏”實為過度恐慌下的誤讀； 三是兩融餘額11連降超1700億元，以融資客主動降槓桿為主，實際槓桿普遍未觸上限，滿倉滿融者寥寥。（券商中國）"
+    },
+    {
+      "id": "4995303",
+      "time": "2026-07-18 12:11:45",
+      "tags": [
+        "行業",
+        "市場"
+      ],
+      "text": "【崔東樹：電池企業的競爭格局形成寧德時代和比亞迪兩者相對較強的特徵】乘聯分會秘書長崔東樹發文稱，電池企業的競爭格局形成寧德時代和比亞迪兩者相對較強的特徵。寧德和比亞迪到2026年仍保持64%的比例，其它企業有超35%左右的空間。今年國軒高科、蜂巢能源、吉利耀寧、楚能新能等表現較強。由於比亞迪全面轉型磷酸鐵鋰電池，因此寧德時代、蜂巢能源等三元電池優勢更加明顯，近期高階插混較強推動三元電池走強。"
+    },
+    {
+      "id": "4995302",
+      "time": "2026-07-18 12:11:25",
+      "tags": [
+        "行業"
+      ],
+      "text": "【崔東樹：鋰電池消費稅調整，是對整車企業造電池的有力助推，有利於中國汽車產業做大做強】乘聯分會秘書長崔東樹認為：鋰電池消費稅調整，是對整車企業造電池的有力助推，有利於中國汽車產業做大做強。我對此的核心判斷是：這次政策調整意味著“油電同權”的大幕正式拉開。從購置稅減半、車船稅免徵取消，到電池消費稅恢復徵收，新能源汽車的稅收優惠“保護期”正在分階段、有節奏地退出。燃油車長期承擔全額車船稅與燃油稅，插混、增程式及新能源商用車卻享受免稅紅利，形成“有排放、用道路、獲收益卻不承擔稅負”的漏洞。油電同權不是“一刀切”均等化，而是依據技術屬性、排放特徵、使用場景，建立權責匹配、稅負公平的汽車稅制體系。"
+    },
+    {
+      "id": "4995301",
+      "time": "2026-07-18 12:11:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣藥、華為共創新藥創制AI智慧體專案入選工信部《人工智慧高價值場景應用案例集》】記者從廣藥集團獲悉，工信部最新發布《人工智慧高價值場景應用案例集》中，由廣藥集團旗下廣藥數科聯合華為、首芯分子共同申報的《國產算力驅動的新藥創制AI智慧體研發與應用》專案入選，成為本次案例集中國內製藥行業唯一入選專案。據介紹，該專案已完成概念驗證測試，有望把苗頭化合物發現週期從12—18個月縮短到1—3個月，臨床前效率提升一倍以上。"
+    },
+    {
+      "id": "mkt:019f736b-c515-7aab-8ded-b79dd553f8a0",
+      "time": "2026-07-18 12:11:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait military says it is currently intercepting missiles and drones launched from Iran."
+    },
+    {
+      "id": "4995300",
+      "time": "2026-07-18 12:10:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美國天然氣暗盤日內漲超2% 現報2.8839美元。"
+    },
+    {
+      "id": "mkt:019f736b-5e04-7aab-8ded-a88583ff7864",
+      "time": "2026-07-18 12:10:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Magnificent 7",
+        "Chip Wars",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "Nikkei 225"
+      ],
+      "text": "【Unresolved doubts driving the equity sell-off】Markets are increasingly doubting prior certainties, a dynamic amplifying the current equity decline. The S&P 500 fell 1.6% this week, the Nasdaq Composite dropped 2.9% and the Nasdaq-100 lost 2.7%, putting July on track to be the worst in over 20 years. The Philadelphia Semiconductor Index is down about 20% from its June 22 peak and entered bear-market territory on Friday. Asian pain is visible: KOSPI is off more than 25% and Japan’s Nikkei 225 plunged 4% on Friday, entering a technical correction. The sell-off lacks a single clear catalyst; cited drivers include concerns that chip-sector gains in 1H ran too far, large tech borrowing to fund capex plans, and persistent macro uncertainty under new Fed policy. BTIG chief market technical analyst Jonathan Krinsky warned a summer-style correction similar to 2024 could push the S&P 500 below its 200-day moving average at 6,983 points. If that occurs, semiconductors would likely weaken further and recent breadth trades and the Magnificent Seven could stall and turn down. Market action appears to be moving in that direction despite the absence of an obviously dangerous headline."
+    },
+    {
+      "id": "4995299",
+      "time": "2026-07-18 12:10:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱，正在攔截從伊朗發射的導彈和無人機。"
+    },
+    {
+      "id": "mkt:019f736a-75ca-7aab-8ded-a41437c398db",
+      "time": "2026-07-18 12:09:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait activated its nationwide alarm system for the fourth time."
+    },
+    {
+      "id": "4995298",
+      "time": "2026-07-18 12:02:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴林拉響第四輪防空警報】當地時間18日6時45分左右，巴林境內拉響防空警報，這是當天巴林拉響的第四輪防空警報。伊朗軍方在此之前釋出通告稱，伊方對巴林境內的謝赫伊薩軍事基地等目標發動了襲擊。目前暫無人員傷亡的報告。（央視新聞）"
+    },
+    {
+      "id": "4995297",
+      "time": "2026-07-18 12:02:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：沃森考慮推遲其在倫敦的首次公開募股計劃。"
+    },
+    {
+      "id": "4995296",
+      "time": "2026-07-18 12:02:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百誠醫藥子公司賽默製藥改良新藥“左乙拉西坦緩釋顆粒”獲批上市】近日，百誠醫藥旗下全資子公司浙江賽默製藥有限公司申報的化學藥品2.2類改良新藥左乙拉西坦緩釋顆粒獲得國家藥品監督管理局上市批准。這是百誠醫藥首個獲批的改良型新藥，標誌著公司在改良型新藥研發領域實現了里程碑式的突破。"
+    },
+    {
+      "id": "4995295",
+      "time": "2026-07-18 11:58:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中器無量釋出算力中心級中性原子量子計算機“清河一號”】中器無量7月18日在WAIC 2026徐匯西岸會場釋出算力中心級中性原子量子計算機“清河一號”，並在世博展覽館主展區展示萬位元級量子計算系統架構與核心光鑷技術。"
+    },
+    {
+      "id": "mkt:019f735f-6df8-7aab-8ded-98c0399a8111",
+      "time": "2026-07-18 11:57:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "NIO.O",
+        "Impact bullish"
+      ],
+      "text": "【NIO chip unit Shenji debuts at World AI Conference, unveils NX9031 family and AI platforms】NIO’s chip subsidiary Anhui Shenji Technology Co. made its first independent appearance at the World AI Conference, showcasing the NX9031 chip, an in-vehicle domain controller and new software products including the Ruidong embodied-intelligence development platform and a distributed agent platform. Founded in June 2025, Shenji has raised nearly 3 billion yuan and has developed a full NX9031 product series (NX9031X, NX9031U, NX9031C) targeting intelligent driver assistance, embodied intelligence and Agent inference."
+    },
+    {
+      "id": "4995294",
+      "time": "2026-07-18 11:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚來晶片子公司神璣首次獨立參展世界人工智慧大會，釋出多款前沿AI算力產品】蔚來晶片子公司安徽神璣技術有限公司首次獨立參展世界人工智慧大會。除了展出神璣NX9031晶片和車載域控外，還推出“睿動”具身智慧開發平臺、分散式智慧體平臺等AI新產品。自2025年6月成立以來，神璣公司完成近30億元融資。目前，神璣公司已形成由NX9031X、NX9031U、NX9031C 等多顆晶片構成的完整產品序列，全面覆蓋智慧輔助駕駛、具身智慧、Agent推理三大前沿AI賽道。"
+    },
+    {
+      "id": "4995293",
+      "time": "2026-07-18 11:52:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航光電：目前液冷產品已在大批次出貨 大多數供貨給國內外tire 1廠商】中航光電7月18日在互動平臺表示，公司是業內較早具備整體液冷散熱系統方案提供能力的供應商，具有行業領先的技術實力。目前液冷產品已經在大批次出貨，由於配套關係，公司產品大多數是供貨給國內外的tire 1廠商，並隨著直接客戶的產品銷售到海外市場。公司也將持續關注液冷技術發展趨勢，依託現有渠道積極拓展全球市場，把握行業機遇。"
+    },
+    {
+      "id": "4995292",
+      "time": "2026-07-18 11:52:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“國鐵冷鮮快線”班列今日首發 新疆鮮果36小時直達西安】今天（18日）凌晨，一列加掛鮮果冷藏集裝箱的鐵路班列從新疆烏魯木齊三坪站駛出，前往陝西西安，這標誌著“國鐵冷鮮快線”班列產品正式投入運營。新疆的葡萄、哈密瓜等特色鮮果最快36小時即可運抵陝西西安及周邊市場，較此前壓縮3天左右。（央視新聞）"
+    },
+    {
+      "id": "4995291",
+      "time": "2026-07-18 11:51:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴林第四次啟動警報系統。"
+    },
+    {
+      "id": "mkt:019f7359-0cd2-7aab-8ded-936cc992a4fe",
+      "time": "2026-07-18 11:50:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain activated its alert system for the fourth time."
+    },
+    {
+      "id": "4995290",
+      "time": "2026-07-18 11:48:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拓新藥業全資子公司與河南師範大學達成抗腫瘤抗病毒新藥研發合作】7月17日，“新鄉市深化校（院）企合作推動產業創新發展大會”召開。拓新藥業全資子公司——新鄉製藥股份有限公司受邀參會，並與河南師範大學就“阿康夫定等核苷類抗腫瘤抗病毒新藥研發專案”成功對接，達成合作。"
+    },
+    {
+      "id": "4995289",
+      "time": "2026-07-18 11:47:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【塔可鍾宣佈完成全美供應鏈受影響生菜的撤換，應對環孢子蟲病事件】據美國疾病控制和預防中心最新資料顯示，美國目前已有5個州共報告了1644例環孢子蟲病感染病例，相關患者均表示發病前曾在美國快餐連鎖店塔可鍾（Taco Bell）的門店用餐。美國食品和藥物管理局於7月16日表示，針對該起疫情的調查顯示，感染源可能與該快餐連鎖店部分門店從墨西哥進口的球生菜有關。針對這一突發的食品安全事件，塔可鍾7月17日宣佈，截至今日，全美所有門店已全面完成對受影響的泰勒農場（Taylor Farms）生菜的撤換工作，目前該受影響的原料已從全國供應鏈中徹底清除。"
+    },
+    {
+      "id": "4995288",
+      "time": "2026-07-18 11:46:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱美國應再舉辦一次世界盃】據埃菲社7月17日報道，美國總統特朗普17日在紐約慶祝世界盃“打破紀錄”，成為“史上規模最大的一屆”，並建議美國再舉辦一次世界盃。 他在特朗普大廈舉行的活動上說：“我建議，鑑於本屆世界盃如此成功……我們應該再次選擇美國，不要墨西哥和加拿大。雖然和他們一起舉辦很愉快，但我們為下次舉辦選擇了其他國家。” （參考訊息）"
+    },
+    {
+      "id": "mkt:019f7354-9be4-7aab-8ded-8d734a133b89",
+      "time": "2026-07-18 11:45:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP reports South Korea's President Lee called for increased agricultural subsidies to protect food security and safeguard farmers' livelihoods."
+    },
+    {
+      "id": "4995286",
+      "time": "2026-07-18 11:43:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【世界盃決賽首設中場表演 或將打破競賽規則】2026美加墨世界盃決賽將於當地時間7月19日在美國新澤西體育場打響。國際足聯此前宣佈，將在本場比賽中場休息設定一場表演。此舉或將大幅延長中場休息時間，打破《足球競賽規則》中的相關規定。 這將是世界盃歷史上的首次中場表演。國際足聯預告稱，本場演出時長為11分鐘，麥當娜、夏奇拉、賈斯汀·比伯等藝人將登臺亮相，“把足球史上最重要的比賽變成前所未有的慶典”。（新華社）"
+    },
+    {
+      "id": "4995285",
+      "time": "2026-07-18 11:41:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【強腦科技WAIC首發腦控機器人訓練平臺 打通“意念控制”到“靈巧操作”全鏈條】7月17日，2026世界人工智慧大會（WAIC2026）在上海世博展覽館正式開幕。大會期間，浙江強腦科技有限公司首發的BrainCo腦控機器人訓練平臺、BrainCo靈巧運算元採矩陣及多款新一代腦機介面產品亮相展區，集中展示腦機介面技術的最新探索，以及作為底層技術能力的廣闊應用前景。"
+    },
+    {
+      "id": "4995284",
+      "time": "2026-07-18 11:41:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶將市級三級救災應急響應提升為二級】7月16日以來，重慶市遭遇強降雨天氣過程，導致兩江新區、 萬州區、黔江區、涪陵區、沙坪壩區、北碚區、長壽區、永川區、南川區、璧山區、潼南區、榮昌區、開州區、梁平區、武隆區、城口縣、豐都縣、墊江縣、忠縣、雲陽縣、巫溪縣、奉節縣、巫山縣、石柱自治縣、酉陽自治縣、彭水自治縣、萬盛經開區等27個區縣發生洪澇、地質災害，受災範圍廣，災害損失重。根據《重慶市自然災害救助應急預案》（渝府辦發〔2024〕60號）規定，經綜合研判災情態勢，市防減救災委決定，自7月18日7時起，將市級三級救災應急響應提升為二級救災應急響應。"
+    },
+    {
+      "id": "4995283",
+      "time": "2026-07-18 11:39:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華能雲南分公司新能源裝機規模突破1000萬千瓦】7月18日，隨著華能斷山基地4萬千瓦光伏發電專案實現全容量併網發電，華能雲南分公司新能源裝機規模突破1000萬千瓦。"
+    },
+    {
+      "id": "4995282",
+      "time": "2026-07-18 11:38:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟呼籲以色列停止在約旦河西岸擴建定居點】歐盟對外行動署17日發表宣告，對以色列政府近日決定撥款在巴勒斯坦約旦河西岸擴建定居點表示擔憂，警告此舉將進一步削弱“兩國方案”的可行性。宣告說，以色列此舉將加劇割裂和孤立巴勒斯坦，使當地人權面臨更大的被侵害風險。歐盟反對以色列政府將位於約旦河西岸的吉瓦特澤夫定居點宣佈為其“市政區”的決定。宣告重申，歐盟長期秉持不承認以色列對1967年6月以來所佔領土擁有主權的立場。宣告呼籲以色列停止進一步擴建定居點、將非法定居點“合法化”、徵用土地、拆除房屋、驅逐居民等破壞“兩國方案”可行性的單邊措施。（新華社）"
+    },
+    {
+      "id": "4995281",
+      "time": "2026-07-18 11:36:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三季度起班次加密 天津經霍爾果斯口岸圖定中亞班列運力翻倍】昨天，天津市經霍爾果斯口岸出境的圖定中亞班列平穩駛離中國鐵路北京局集團有限公司所屬天津集裝箱中心站，標誌著自三季度起我市完成中亞霍爾果斯口岸圖定班次加密。該班列將由每週1列提升至每週2列，運力保障能力實現翻倍升級，助力中亞班列常態化穩定執行。"
+    },
+    {
+      "id": "mkt:019f7346-e6e3-7aab-8ded-80b7da70a907",
+      "time": "2026-07-18 11:30:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Thai PM Anutin arrives in Chengdu to continue China visit】July 18 — Thai Prime Minister Anutin arrived in Chengdu to continue a July 16–20 state visit to China, his first since taking office. On July 17 he attended the World Artificial Intelligence Conference and a high-level meeting on global AI governance in Shanghai."
+    },
+    {
+      "id": "4995280",
+      "time": "2026-07-18 11:29:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國總理阿努廷抵達成都繼續訪華行程】泰國總理阿努廷7月18日抵達四川成都，繼續中國之行。阿努廷於7月16日至20日對中國進行正式訪問，這是阿努廷就任泰國總理後首次正式訪華。17日，阿努廷在上海出席了2026世界人工智慧大會暨人工智慧全球治理高階別會議。 (新華社)"
+    },
+    {
+      "id": "4995279",
+      "time": "2026-07-18 11:29:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【比亞迪巴西工廠迎來第10萬輛新能源汽車下線】當地時間7月16日，比亞迪巴西工廠第10萬輛新能源汽車正式下線，本次下線車型為比亞迪海鷗；與此同時，工廠在崗員工規模突破5500人，產能建設與本地化就業同步提速。"
+    },
+    {
+      "id": "4995278",
+      "time": "2026-07-18 11:27:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【京東健康AI醫生“大為”亮相WAIC 2026】7月17日，2026世界人工智慧大會（WAIC）在上海世博展覽館正式開幕。京東健康旗下AI醫生“大為”與專為醫生研發的循證醫學AI產品“京東知醫”同臺參展，成為健康AI領域的焦點。資料層面，“大為”2026年前三個月使用使用者數已超越2025年全年總量，滿意率達98%以上。今年618期間，AI醫生大實現使用者數同比增長超4倍。"
+    },
+    {
+      "id": "mkt:019f7342-2176-7aab-8ded-786b4f0f1f6d",
+      "time": "2026-07-18 11:25:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian state TV, citing the Iranian military, said Iran struck U.S. military assets and fuel tanks in Bahrain."
+    },
+    {
+      "id": "4995277",
+      "time": "2026-07-18 11:25:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺援引伊朗軍方的話稱，其襲擊了美國在巴林的軍事資產和燃料庫。"
+    },
+    {
+      "id": "4995276",
+      "time": "2026-07-18 11:24:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周鴻禕出席WAIC 2026：以“安全+AI”推動人工智慧發展與安全並重】三六零集團創始人周鴻禕作為安全企業代表出席WAIC 2026，他表示，隨著人工智慧從大模型階段邁向智慧體階段，AI已經不再只是回答問題的工具，而是正在成為能夠自主執行任務的“新物種”，其帶來的機遇前所未有，相應的安全挑戰也在不斷增加。人工智慧必須始終堅持安全、可信、可靠、可控的發展方向。如何讓AI更好造福人類，同時避免技術濫用和失控風險，正在成為全球共同關注的重要課題。"
+    },
+    {
+      "id": "mkt:019f7340-3d5b-7aab-8ded-72b6d5a08f89",
+      "time": "2026-07-18 11:23:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Tambov logistics center struck by 'enemy drone'; 7 killed, 24 injured】Russian media reported on the 18th that a logistics center in the Tambov region was struck by an 'enemy drone', killing at least 7 people and injuring 24."
+    },
+    {
+      "id": "4995275",
+      "time": "2026-07-18 11:23:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄一物流中心遭無人機襲擊7死24傷】俄羅斯坦波夫州一個物流中心遭“敵方無人機”襲擊，造成至少7人死亡、24人受傷。（新華社）"
+    },
+    {
+      "id": "4995274",
+      "time": "2026-07-18 11:20:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【直擊WAIC丨清艙機器人、AI辦公耳機、升級版“帝王蟹”……網易多項AI成果亮相】月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海舉行。現場，網易攜帶多項自研人工智慧成果集中亮相，覆蓋工業具身智慧、企業數字化服務、數字生活等領域。（新浪科技）"
+    },
+    {
+      "id": "4995273",
+      "time": "2026-07-18 11:20:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【meland聯手拓竹上線3D列印創造中心，覆蓋全國10餘城】7月18日，親子樂園品牌meland與拓竹科技聯合宣佈，將在北京、廣州、天津、南昌、成都、深圳、武漢、南京、濟南、蘇州等10餘個城市的meland門店上線3D列印創造中心。相關門店將引入拓竹消費級3D印表機，並設定面向兒童的設計、作品製作等體驗專案，將樂園遊玩與動手創造結合。據瞭解，雙方未來計劃繼續擴大合作門店數量，並在更多城市推出兒童3D列印體驗專案。"
+    },
+    {
+      "id": "mkt:019f733c-051d-7aab-8ded-6f456c29fd58",
+      "time": "2026-07-18 11:19:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【NDRC allocates 30 mln yuan central budget for emergency restoration after Chongqing landslide】A July 17 landslide in Pengshui county, Chongqing buried multiple people and left others missing. The National Disaster Reduction and Relief Commission launched a national level-4 emergency response. The National Development and Reform Commission has allocated 30 mln yuan of central-budget investment, under the national natural disaster rescue emergency plan, to support post-disaster emergency restoration of infrastructure and public-service facilities in the affected area."
+    },
+    {
+      "id": "4995272",
+      "time": "2026-07-18 11:17:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全球首創核能智慧化體系 AI for ADANES 技術路線釋出】在WAIC2026 西岸國際會議會場，中國科學院院士、ADANES （加速器驅動先進核能系統）專案總指揮詹文龍，CiADS總工程師、ADANES技術總師何源聯合高校、企業代表，共同釋出全球首創AI for ADANES原創技術路線。"
+    },
+    {
+      "id": "4995271",
+      "time": "2026-07-18 11:17:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美空軍前軍官：伊朗小學遇襲情況符合美軍行動特徵】美國、以色列2月28日對伊朗發起大規模軍事行動，伊朗南部米納卜市的小學遭到導彈襲擊，175人遇害，死者中絕大部分是兒童。美國方面7月16日訊息以三名知情人士為訊息源稱，美軍對米納卜小學遭襲事件的調查已擱置許久。英國天空新聞在同一天的報道中透過衛星影象和影片等資料對遇襲的小學進行了3D重建。美國空軍前軍官在報道中證實，這所小學和周邊建築的遇襲情況“明顯符合美軍行動的特徵”。而且當天該區域就在美軍航母打擊群的射程範圍內——美軍公開資訊顯示，“斯普魯恩斯”號驅逐艦當天發射了“戰斧”導彈。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7339-23d6-7aab-8ded-616fb889da12",
+      "time": "2026-07-18 11:15:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Russia said Ukraine launched 370 drones toward Moscow; most were shot down."
+    },
+    {
+      "id": "4995270",
+      "time": "2026-07-18 11:10:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國星宇航與商湯科技共建太空算力星座】2026世界人工智慧大會（WAIC）“基座大模型架構創新與生態合作論壇”上，國星宇航與商湯科技宣佈共建商湯算力星座，星座規模將達到千星萬P,構建新一代全球化AI基礎設施。雙方將按照“單星驗證—平臺建設—星座組網”的發展路徑，分階段推進天地一體化AI基礎設施建設。計劃在2026年內，“商湯號”算力衛星將完成首發組網，2028年，計劃建成星地混合雲商用算力骨幹網；到2030年，雙方將建成由千顆級算力衛星組成、總算力超萬P的“商湯太空算力星座”，形成覆蓋全球的空間智慧計算網路，實現地面智算中心、在軌算力星座與應用場景深度融合。"
+    },
+    {
+      "id": "4995269",
+      "time": "2026-07-18 11:07:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【樂奇Rokid釋出首款專為智慧眼鏡打造的原生AI作業系統】在WAIC2026現場，樂奇Rokid正式釋出全球首款專為智慧眼鏡打造的原生AI作業系統YodaOS。同時成為全球首款支援AIUI的AI作業系統。《科創板日報》記者獲悉，該系統以圖形化沉浸式互動替代傳統單一文字輸出，新增行程自動記錄、定時主動提醒等功能。"
+    },
+    {
+      "id": "4995268",
+      "time": "2026-07-18 11:04:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國—吉爾吉斯斯坦政府間經貿合作委員會第十七次會議在比什凱克召開】7月17日，商務部副部長兼國際貿易談判副代表凌激在比什凱克與吉爾吉斯斯坦副總理兼水資源、農業和加工業部部長阿昆別科夫共同主持召開中吉政府間經貿合作委員會第十七次會議。凌激表示，在兩國元首戰略引領下，中吉經貿合作保持良好發展勢頭，雙邊貿易平穩執行，投融資合作持續深化，標誌性經濟技術合作專案順利推進。雙方要不斷最佳化貿易結構，打造服務貿易、數字貿易、跨境電商等新增長點；加強綠色礦產全產業鏈合作，保護在吉中資企業合法權益；用好各類投資平臺，探索以市場化的方式開展股權投資合作；加快中吉服務貿易和投資協定談判，推動建立中國—中亞經貿制度安排，促進區域經濟合作。（商務部）"
+    },
+    {
+      "id": "4995267",
+      "time": "2026-07-18 11:04:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【榮耀Robot Phone正式開啟預約】7月18日，業界首款機器人手機榮耀Robot Phone今日開啟預約通道，榮耀線下門店可登記參與。新機預計2026年8月正式釋出。"
+    },
+    {
+      "id": "4995266",
+      "time": "2026-07-18 11:01:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥總統確認：應特朗普邀請，將出席世界盃決賽】據法新社報道，墨西哥總統辛鮑姆當地時間17日表示，應美國總統特朗普邀請，她將於本週末出席在美國舉辦的世界盃決賽。報道稱，儘管墨西哥與美國、加拿大共同主辦本屆世界盃，但辛鮑姆此前也一直沒有出席在墨西哥舉行的比賽。（環球網）"
+    },
+    {
+      "id": "mkt:019f732b-800f-7aab-8ded-584ca174b2ec",
+      "time": "2026-07-18 11:00:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【US official: Iran fired ballistic missile at US base in Saudi Arabia】US officials said on the 17th (local time) Iran fired a ballistic missile at a US military base in Saudi Arabia, the first direct Iranian strike on Saudi territory in nearly four months. Saudi civil defense issued warnings for two locations on the 18th and later said the threat had passed."
+    },
+    {
+      "id": "4995265",
+      "time": "2026-07-18 11:00:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Moonix AI眼鏡標準版7月17日全球發售，售價2299元起】7月17日，新銳AI穿戴硬體品牌Moonix（莫奈）正式宣佈，旗下首款產品Moonix AI眼鏡標準版當天全球同步發售。Moonix AI眼鏡標準版整機重量僅14.9克，鏡腿最薄處僅4毫米，對比市面上普遍40克以上的智慧眼鏡產品具有明顯優勢，甚至和大量傳統無框/半框光學眼鏡達到同樣的重量水平。Moonix AI眼鏡搭載主動式AI助手，透過“無感記錄 + AI 生成”的核心邏輯，打造全球首款基於個人資料的主動式AI眼鏡。此次正式發售的Moonix AI眼鏡標準版，官方定價 2299 元起。"
+    },
     {
       "id": "4995264",
       "time": "2026-07-18 11:00:09",
