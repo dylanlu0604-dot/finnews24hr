@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-19 18:19:59",
+  "updated": "2026-07-19 18:23:57",
   "count": 18945,
   "items": [
+    {
+      "id": "4996048",
+      "time": "2026-07-19 18:22:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：約旦官方人士訊息稱美國駐約旦大使館對亞喀巴國際機場進行疏散的訊息不實。"
+    },
+    {
+      "id": "4996047",
+      "time": "2026-07-19 18:20:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深市非銀金融板塊半年報扎堆預喜】2026年上半年，我國資本市場高質量發展態勢持續鞏固，非銀金融行業業績喜人。截至7月18日，披露業績預告的深市非銀金融行業上市公司中，超八成業績增速超過50%。（上證報）"
+    },
+    {
+      "id": "4996046",
+      "time": "2026-07-19 18:20:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國多州已報告上千例環孢子蟲病】美國多州近日報告上千例環孢子蟲病感染病例，感染源疑似為美國一家快餐連鎖店從墨西哥進口的生菜。墨西哥政府日前宣佈，相關部門已成立專門工作組展開調查，並採取措施避免此類事情發生。不過，墨西哥方面同時表示，調查還未結束，暫不能下定論汙染源就是墨西哥產品。環孢子蟲病是由多種微小的環孢子蟲寄生蟲引起的腸道感染疾病，可能透過受汙染的食物或水感染，感染者可能出現腹瀉、胃痛、噁心等症狀。但該病一般不危及生命。（CCTV國際時訊）"
+    },
     {
       "id": "4996045",
       "time": "2026-07-19 18:15:42",
@@ -174785,33 +174809,6 @@
         "Hang Seng Index"
       ],
       "text": "【China condemns Motegi's comments on 10th anniversary of South China Sea arbitration ruling】On July 12 China's foreign ministry strongly condemned remarks by Japanese foreign minister Motegi on the 10th anniversary of the \"South China Sea arbitration ruling\", saying Japan is not a party to the disputes and has no standing to challenge China's territorial and maritime claims. Beijing accused Tokyo of invoking the \"interested party\" label to justify intervention, cited Japan's wartime seizure of Chinese South China Sea features, warned against attempts at \"re-militarization\", and reiterated it will firmly defend its territorial sovereignty and maritime rights, saying any attempt to challenge China or destabilize the South China Sea is doomed to fail."
-    },
-    {
-      "id": "4982862",
-      "time": "2026-07-12 18:23:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體：一名伊朗海軍軍官在週日襲擊中身亡。"
-    },
-    {
-      "id": "mkt:019f55da-6ac2-7aab-8d44-746f35447b92",
-      "time": "2026-07-12 18:23:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A maritime advisory said the southern channel of the Strait of Hormuz remained open to shipping on Sunday despite reciprocal US‑Iran attacks and Iran's announcement that it had closed the strait."
-    },
-    {
-      "id": "mkt:019f55d7-a324-7aab-8d44-69ca6f53e163",
-      "time": "2026-07-12 18:20:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's foreign ministry reiterated that national sovereignty must be respected and its stability not undermined to help consolidate regional security."
     }
   ]
 }
