@@ -1,7 +1,15 @@
 {
   "date": "2026-07-19",
-  "count": 805,
+  "count": 806,
   "items": [
+    {
+      "id": "mkt:019f7ad9-001b-7aab-8df8-fdd8746680b3",
+      "time": "2026-07-19 22:47:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Knife attack in Bavarian village injures eight; suspect at large】German media reported on the 19th that a knife attack in a village in Bavaria in the early hours injured eight people; the attacker remains at large."
+    },
     {
       "id": "4996181",
       "time": "2026-07-19 22:42:22",
