@@ -1,7 +1,18 @@
 {
   "date": "2026-07-19",
-  "count": 365,
+  "count": 366,
   "items": [
+    {
+      "id": "mkt:019f78d7-a2b3-7aab-8df5-2c859a20f4e6",
+      "time": "2026-07-19 13:27:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "NHC says a disturbance in the northern Gulf of Mexico and near Florida has a 60% chance of becoming a tropical cyclone within 48 hours."
+    },
     {
       "id": "4995857",
       "time": "2026-07-19 13:24:10",

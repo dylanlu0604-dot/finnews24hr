@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-19 13:26:34",
+  "updated": "2026-07-19 13:30:43",
   "count": 18977,
   "items": [
+    {
+      "id": "mkt:019f78d7-a2b3-7aab-8df5-2c859a20f4e6",
+      "time": "2026-07-19 13:27:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "NHC says a disturbance in the northern Gulf of Mexico and near Florida has a 60% chance of becoming a tropical cyclone within 48 hours."
+    },
     {
       "id": "4995857",
       "time": "2026-07-19 13:24:10",
@@ -175101,14 +175112,6 @@
         "國際"
       ],
       "text": "伊朗外交部發言人：伊朗與阿曼週六的會談圍繞霍爾木茲海峽通航與航運管控安排展開。"
-    },
-    {
-      "id": "mkt:019f54cc-f9ef-7aab-8d42-38d1432b570e",
-      "time": "2026-07-12 13:29:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UKMTO says crew of a vessel involved in an incident 9 nm east of Oman have been rescued by local authorities."
     }
   ]
 }
