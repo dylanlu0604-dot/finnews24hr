@@ -1,7 +1,19 @@
 {
   "date": "2026-07-20",
-  "count": 99,
+  "count": 100,
   "items": [
+    {
+      "id": "mkt:019f7bde-0514-7aab-8dfa-8ea10aa42677",
+      "time": "2026-07-20 03:32:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Kuwait says Iran strikes damage critical infrastructure】Kuwait's defense ministry said Iran has carried out sustained strikes against civil and critical infrastructure on Kuwaiti territory, causing multiple fires and severe damage. A ministry spokesman said the attacks hit facilities under the Ministry of Electricity, Water and Renewable Energy."
+    },
     {
       "id": "4996266",
       "time": "2026-07-20 03:14:26",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-20 03:31:26",
+  "updated": "2026-07-20 03:35:19",
   "count": 19017,
   "items": [
+    {
+      "id": "mkt:019f7bde-0514-7aab-8dfa-8ea10aa42677",
+      "time": "2026-07-20 03:32:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Kuwait says Iran strikes damage critical infrastructure】Kuwait's defense ministry said Iran has carried out sustained strikes against civil and critical infrastructure on Kuwaiti territory, causing multiple fires and severe damage. A ministry spokesman said the attacks hit facilities under the Ministry of Electricity, Water and Renewable Energy."
+    },
     {
       "id": "4996266",
       "time": "2026-07-20 03:14:26",
@@ -175422,19 +175434,6 @@
         "國際"
       ],
       "text": "伊朗外長：伊朗支援黎巴嫩主權，要求結束以色列佔領。"
-    },
-    {
-      "id": "mkt:019f57d0-532c-7aab-8d46-bc8d513e815c",
-      "time": "2026-07-13 03:31:38",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Why lower oil prices have not yet reduced inflation】Falling crude has not produced equivalent drops in consumer fuel costs because refined-product supplies—not crude—are tight. The 3-2-1 crack spread has jumped to a record $65/bbl, implying refiners can buy crude at roughly $71/bbl and sell finished products valued around $136. The gap reflects refinery feed shortages—firms running cautious inventories and disruptions around the Strait of Hormuz, where refiners account for over 10% of global product output—rather than raw crude scarcity. Market models that tie consumer fuel costs directly to crude risk understating near-term energy inflation. Diesel remains elevated, keeping transport costs high and sustaining upward pressure on other consumer prices; the price gap has also attracted political attention, with Trump threatening action against oil companies."
     }
   ]
 }
