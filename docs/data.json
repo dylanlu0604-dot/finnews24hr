@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-19 17:27:21",
-  "count": 18940,
+  "updated": "2026-07-19 17:31:28",
+  "count": 18941,
   "items": [
+    {
+      "id": "mkt:019f79b5-9077-7aab-8df6-7829e72f9f8c",
+      "time": "2026-07-19 17:29:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's IP collectible toy sector could top 100 billion yuan】Over 36,000 firms now operate in China's designer/collectible toy sector. The IP-driven market is forecast to exceed 100 billion yuan by 2027 and reach roughly 130 billion yuan by 2029; the industry is expected to create substantial hiring demand and is expanding school-enterprise cooperation to develop creative and AI-related skills."
+    },
+    {
+      "id": "4996020",
+      "time": "2026-07-19 17:29:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【陝西首條專業化星載鐳射通訊終端智慧產線在西安投產】據陝西釋出，近日，陝西首條專業化星載鐳射通訊終端智慧產線在西安投產，標誌著星載鐳射通訊終端正式從實驗室走向生產線，將全面提升我國衛星自主執行、高效組網與大規模星座管理能力。陝西首條專業化星載鐳射通訊終端智慧產線一期可年產600套鐳射通訊終端，預計2027年可實現年產千套以上能力。量產終端通訊速率覆蓋5Gbps至100Gbps，體積小、功耗低、抗干擾能力強，核心光學部件均為西安光機所自主研發，可充分適配各類低軌巨型星座批次配套需求。"
+    },
+    {
+      "id": "4996019",
+      "time": "2026-07-19 17:28:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基宣佈烏軍對俄境內多處石油及海上目標實施遠端打擊 】烏克蘭總統澤連斯基在社交媒體發文證實，烏方已啟動遠端打擊行動，對俄羅斯境內多處石油設施及海上目標實施打擊。澤連斯基表示，此次打擊目標分佈廣泛，縱深跨度極大。烏克蘭國家安全域性作戰人員摧毀了斯塔夫羅波爾地區的三座油庫；烏國防力量則打擊了該地區另一處燃料儲備設施。此外，烏軍在黑海海域對三艘俄羅斯“影子艦隊”油輪實施了精準打擊。"
+    },
+    {
+      "id": "mkt:019f79b3-a045-7aab-8df6-77388920d53b",
+      "time": "2026-07-19 17:27:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Ukrainian President Zelenskiy said Kyiv's forces struck three oil depots and a fuel facility in Russia's Stavropol region."
+    },
+    {
+      "id": "4996018",
+      "time": "2026-07-19 17:27:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基稱，基輔軍隊襲擊了俄羅斯斯塔夫羅波爾地區的三處油庫和一處燃料設施。"
+    },
     {
       "id": "4996017",
       "time": "2026-07-19 17:25:43",
@@ -174752,41 +174799,6 @@
         "Impact bearish"
       ],
       "text": "Wall Street Journal survey: economists expect US CPI inflation of 3.4% this year, up from 3.2% in April."
-    },
-    {
-      "id": "4982840",
-      "time": "2026-07-12 17:30:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列部長稱，以摩（摩納哥）直飛航班將於8月26日恢復運營。"
-    },
-    {
-      "id": "4982839",
-      "time": "2026-07-12 17:28:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧釋出地質災害氣象風險紅色預警】根據持續降雨和颱風“巴威”影響，遼寧省自然資源廳與遼寧省氣象局聯合釋出地質災害氣象風險預警。7月12日20時至7月13日20時，錦州市、鐵嶺市等部分地區地質災害氣象風險預警等級為一級（紅色預警），撫順市、朝陽市、葫蘆島市等部分地區地質災害氣象風險預警等級為二級（橙色預警），瀋陽市等部分地區地質災害氣象風險預警等級為三級（黃色預警），上述地區氣象因素致地質災害發生的風險較高，請注意防範。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f55a7-d4b8-7aab-8d44-086c5fd5bbf8",
-      "time": "2026-07-12 17:28:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Qatar's foreign ministry said ongoing Iranian attacks constitute a serious escalation and will complicate efforts to contain tensions in the region."
-    },
-    {
-      "id": "4982838",
-      "time": "2026-07-12 17:27:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "卡達表示，（伊朗）此類襲擊持續發生是嚴重的局勢升級，會令遏制該地區緊張局勢的努力複雜化。"
     }
   ]
 }
