@@ -1,7 +1,31 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-20 05:31:57_
-_本檔包含 4083 則快訊，約 720832 字_
+_更新時間：2026-07-20 06:26:46_
+_本檔包含 4070 則快訊，約 719855 字_
+
+---
+
+### 2026-07-15 09:18:47  #Trading Economics #Markets #Australia #Currency #Importance 1
+
+Australian Dollar Hits 3-Week Top — The Australian dollar strengthened to around $0.698, reaching more than a three-week high as softer-than-expected US inflation data weighed on the greenback and reduced expectations for further rate hikes by the Federal Reserve. Investors also looked past renewed US-Iran tensions after President Donald Trump threatened additional strikes and reinstated a US blockade against Tehran, focusing instead on Washington's decision to abandon its proposed levy on cargoes transiting the Strait of Hormuz, which improved risk sentiment. In Australia, expectations for further policy tightening remained subdued after the Reserve Bank’s three rate hikes since February. Markets currently price only a 20% chance of a rate hike in August and around 60% odds by December. Meanwhile, recent business surveys showed operating conditions remained soft in June and cost pressures continued to ease somewhat, while consumer confidence improved modestly in July, though will be challenged by rising fuel prices.
+
+---
+
+### 2026-07-15 09:17:45  #MKT News #Macro & Rates
+
+【Strike disrupts release process; BOC cancels media preview of rate decision】The Bank of Canada will not provide a pre-release media preview of Wednesday’s rate decision due to a union-planned protest in support of striking security staff. The decision will be posted on the BOC website at 21:45 Beijing time; reporting may be slightly delayed. About 50 unionized employees at the BOC’s Ottawa and Montreal offices have been on strike since June 23. The bank had moved the certified reporters’ waiting room to an alternate Ottawa site earlier this week; planned protests at that site prompted cancellation of the preview arrangement.
+
+---
+
+### 2026-07-15 09:17:33  #MKT News
+
+Container shipping index (Europe route) lead contract intraday gains narrowed to 2.00%, trading at 2,570.0 points.
+
+---
+
+### 2026-07-15 09:16:49  #MKT News #Copper #Impact bullish #Brent #Impact bearish
+
+【South Korea to mandate 30% cut in medium and heavy commercial vehicle emissions by 2030】South Korea on Tuesday announced a plan to require medium and heavy commercial vehicles to reduce greenhouse gas emissions by 30% by 2030, shifting from a voluntary mechanism to mandatory compliance to meet the country’s mid-term national climate target.
 
 ---
 
@@ -24540,107 +24564,5 @@ Indonesia Equities Extend Gains on S&P Affirmation, Fiscal Lift — Indonesian s
 ### 2026-07-14 10:43:23  #Trading Economics #Economy #China #Balance of Trade #Importance 1
 
 China Posts Second-Largest Trade Surplus on Record — China’s trade surplus widened to USD 125.62 billion in June 2026 from USD 113.89 billion in the same period of 2025, surpassing expectations of USD 121 billion and marking the second-largest monthly trade surplus on record. Export growth accelerated to 27.0% year-on-year, reaching a record high of USD 412.39 billion, up from May’s 19.4% growth and above forecasts of 18.2%, driven by strong demand for AI-related technology products and a rush by manufacturers to ship goods to the US ahead of potential new tariffs. Meanwhile, imports surged 36.0% yoy to USD 286.76 billion, exceeding expectations of 24.0% and accelerating from a 27.4% jump in May amid the government's efforts to boost domestic consumption. China’s trade surplus with the US rose to USD 28.9 billion in June from USD 26.02 billion in May. For H1 of 2026, China’s trade surplus reached USD 575.98 billion, down from USD 586 billion in the same period of 2025, as exports rose 17.6% while imports grew at a faster pace of 26.6%.
-
----
-
-### 2026-07-14 10:41:56  #經濟數據 #中國
-
-【上半年我國體育用品及裝置出口675.3億元】世界盃是當前全球矚目的體育賽事，給廣大球迷帶來精彩觀賽體驗的同時，也掀起了全球對各類體育用品的消費熱情。近年來，中國一直保持全球最大體育用品出口國地位，佔全球出口比重超4成。上半年，我國體育用品及裝置出口675.3億元，其中球類出口30.8億元。
-
----
-
-### 2026-07-14 10:41:34  #宏觀
-
-【海關總署：上半年我國體育用品及裝置出口675.3億元】國務院新聞辦公室今天舉行釋出會，介紹今年以來我國外貿執行情況並回答記者提問。近年來，中國一直保持全球最大體育用品出口國地位，佔全球出口比重超4成。上半年，我國體育用品及裝置出口675.3億元，其中球類出口30.8億元。上半年，我國跑步機等健身康復器械出口267億元，槳板等水上運動器械出口47.7億元。此外，備受年輕群體喜愛的潮流滑板出口增長20.4%。我國體育用品不僅在歐美傳統市場佔比穩定，在拉美、非洲等新興市場也有較好表現。上半年，我國對拉美、非洲出口體育用品分別增長18.9%和8.1%。（央視新聞）
-
----
-
-### 2026-07-14 10:40:50  #國際
-
-韓國將加強對韓元匯率波動的24小時應對機制。
-
----
-
-### 2026-07-14 10:40:26  #國際
-
-韓國將大幅放寬資本交易外匯規定。
-
----
-
-### 2026-07-14 10:39:56  #國際
-
-【伊核協議11週年】  今天（7月14日）是伊朗核問題全面協議達成11週年的日子。這份經過多年談判達成的協議，一度被視為透過外交方式解決國際爭端的重要成果。然而11年過去，伊核問題經歷多次轉折卻並未解決。有伊朗專家表示，此次美以伊衝突讓伊朗認識到，美國關心的並不是核問題，而是伊朗作為地區力量的存在，美國真正無法接受的是一個獨立的伊朗成為中東地區其他國家效仿的榜樣。 （ CCTV國際時訊  ）
-
----
-
-### 2026-07-14 10:39:47  #國際
-
-韓國預計，人工智慧蓬勃發展將推動其2026年經常賬戶順差達到2900億美元。
-
----
-
-### 2026-07-14 10:39:28  #其他
-
-【消費電子零部件及組裝板塊短線走低】消費電子零部件及組裝板塊短線走低，領益智造跌超8%，華勤技術、聯創光電、長盈精密、福立旺等跟跌。
-
----
-
-### 2026-07-14 10:39:22  #其他
-
-半導體晶片股震盪回落，上海合晶跌超12%，有研矽、盛科通訊、華微電子、華海清科、航宇微、電科晶片等多股跌超7%。
-
----
-
-### 2026-07-14 10:39:21  #國際
-
-【法官稱特朗普試圖利用國稅局訴訟操縱司法系統】據報道，一名聯邦法官週一裁定，美國總統特朗普及其家人此前針對美國國稅局提起一樁100億美元訴訟是出於惡意。這位法官嚴厲斥責了特朗普、其律師團隊以及美國司法部。這起訴訟促使特朗普在今年5月與本屆政府達成了一項非同尋常的協議。根據協議，美國政府著手設立一個規模近18億美元的“反武器化基金”，並承諾停止對特朗普、其家人及他旗下企業的所有未決稅務審計。由於遭到包括共和黨人在內的國會議員抵制，特朗普政府隨後放棄了設立該基金的計劃；議員們擔心，這筆資金可能被用來補償2021年1月6日衝撞國會大廈的特朗普支持者。不過，停止審計的承諾依然有效。法官凱瑟琳.威廉斯(Kathleen Williams)寫道：“這是一種企圖，意在利用法院為一項協議提供某種合法性，該協議旨在賦予與總統有關聯的個人和實體豁免權，並撥出數十億美元的美國納稅人資金，以補償法律中未定義的不平。”在這份長達56頁的裁決書中，威廉斯嚴厲批評了特朗普及其家人提起訴訟的決定以及政府未作回應的做法。但該裁決書似乎並未改變特朗普與其政府之間達成的協議，包括結束對他及其企業未決稅務審計的約定。這些檔案從未在此案中正式提交給法院。
-
----
-
-### 2026-07-14 10:38:25  #國際
-
-韓國預測2026年通脹率為2.6%，高於此前預測的2.1%。
-
----
-
-### 2026-07-14 10:37:58  #宏觀 #國際
-
-韓國財政部表示，將加快推進人工智慧“大型專案”建設，以提升經濟增長潛力。
-
----
-
-### 2026-07-14 10:37:27  #公司
-
-光伏加工裝置板塊短線走低，邁為股份、奧特維、拉普拉斯、捷佳偉創、晶盛機電等走低。
-
----
-
-### 2026-07-14 10:37:18  #國際
-
-【美軍中央司令部稱完成對伊朗軍事目標新一輪打擊】美軍中央司令部宣佈，美軍已於美國東部時間當天22時15分完成針對伊朗軍事目標的新一輪打擊行動。美軍中央司令部表示，此次行動持續約5小時，美軍打擊了伊朗境內布什爾、恰巴哈爾、賈斯克、科納拉克、阿布穆薩島和阿巴斯港等地的軍事目標，旨在進一步削弱伊朗襲擊商業航運的能力。根據美方釋出的訊息，美軍此次使用精確制導彈藥，對伊朗沿海防禦系統、導彈和無人機設施以及海上作戰能力實施了打擊。美軍中央司令部還表示，目前有超過5萬名美國軍人部署在中東地區，美軍將繼續保持高度戒備，並隨時做好行動準備。（央視新聞）
-
----
-
-### 2026-07-14 10:36:34  #國際
-
-韓國將2026年經濟增長預期從之前的2%上調至3%。
-
----
-
-### 2026-07-14 10:36:22  #其他
-
-【成都1宗宅地溢價10.08%成交】7月14日，成都1宗金牛區國賓板塊30.3畝宅地出讓，規劃建築面積40394.02平方米，起拍樓面價11900元/平方米，摺合起始總價4.81億元。該地塊吸引了5家房企現場參與競價，最終招商蛇口以樓面價13100元/平方米競得該地塊，成交總價5.29億元，溢價率10.08%。
-
----
-
-### 2026-07-14 10:36:04  #公司
-
-【金山雲在武漢成立數智科技公司 註冊資本1000萬】天眼查App顯示，近日，武漢漢擎數智科技有限公司成立，法定代表人為呂沛傑，註冊資本1000萬人民幣，經營範圍包括網際網路資料服務、計算機系統服務、軟體開發、雲端計算裝置銷售等。股東資訊顯示，該公司由凌穹瞬聯（慶陽）資料科技有限公司全資持股，後者由北京金山雲網路技術有限公司全資持股。
-
----
-
-### 2026-07-14 10:35:33  #Trading Economics #Economy #China #Exports YoY #Importance 2
-
-China Exports Hit Fresh Record High — China’s exports jumped 27.0% year-on-year to a record high of USD 412.39 billion in June 2026, far exceeding forecasts of an 18.2% increase and accelerating sharply from May’s 18.2% rise. It was the fastest increase since February, driven by strong demand for AI-related technology products and a rush by manufacturers to ship goods to the US ahead of potential new tariffs. Among its trading partners, outbound shipments increased to Japan (6.9%), South Korea (42.6%), the US (13.9%), Australia (29.8%), Taiwan (43.7%), the EU (18.5%), and ASEAN (24.3%). For the first half of the year, total exports advanced 17.6% year-on-year to USD 2.12 trillion. During the period, export volumes increased for pharmaceuticals (8.5%), unwrought aluminum and aluminum products (16.3%), integrated circuits (7.0%), automobiles (53.0%), and LCD flat-panel display modules (10.7%). By contrast, export volumes declined for rare earths (-6.4%), refined oil products (-13.2%), fertilizers (-3.1%), and steel (-5.6%).
 
 ---

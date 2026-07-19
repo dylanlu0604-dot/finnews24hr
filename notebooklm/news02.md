@@ -1,7 +1,49 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-20 05:31:57_
-_本檔包含 3845 則快訊，約 719727 字_
+_更新時間：2026-07-20 06:26:46_
+_本檔包含 3841 則快訊，約 719220 字_
+
+---
+
+### 2026-07-17 14:45:44  #市場 #焦點
+
+滬深兩市成交額超2.5萬億元，較上日此時放量2608億元。
+
+---
+
+### 2026-07-17 14:45:31  #MKT News #Macro & Rates #DXY #Impact bearish
+
+【Goldman: Australian inflation still slightly concerning; June core likely to accelerate】Goldman Sachs chief economist Andrew Boak said Australian inflation remains slightly concerning. He expects June headline CPI to rise 0.2% m/m, keeping the YoY rate at 4.0% (RBA target ~2.5%). Boak forecasts the trimmed-mean CPI — a core measure — to rise 0.4% m/m, lifting the YoY rate by 10bps to 3.7%. Data are due July 29.
+
+---
+
+### 2026-07-17 14:45:19  #其他
+
+【磐石·科學基礎大模型2.0釋出 開啟AI賦能基礎研究全新正規化】人工智慧正成為基礎科研突破的全新引擎，通用和專業能力融合的科學大模型更是重塑科研模式的核心關鍵。今天，在2026世界人工智慧大會上，由中國科學院多個研究所聯合研發的磐石·科學基礎大模型2.0正式釋出。此次釋出的磐石2.0創新性採用三層遞進技術架構，搭建起完整的科學智慧研究鏈路，可高效完成跨學科資料解析、知識推理、科學預測等核心科研工作，破解了通用模型專業性不足、領域模型通用性差的行業痛點。依託800萬條高質量科學推理資料訓練，模型形成可驗證、可追溯的科研推理體系。（央視新聞）
+
+---
+
+### 2026-07-17 14:44:59  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
+
+【East Money Securities’ Chen Guo says A‑share market entering this year's "golden buy" window】Chen Guo, deputy director and chief strategist at East Money Securities’ research institute, said the A‑share market is entering this year’s "golden buy" window and major indices could make new highs in H2. He cited five market drivers: H2 GDP growth is expected to improve; Q2 micro funding in A‑shares appears to mark a funding trough with liquidity set to ease; sentiment indicators are near lows; many non‑tech quality names are in early profit‑recovery with low valuations; and a wave of China “real‑tech” IPOs on the A‑share market in H2 could draw incremental flows and lift activity and risk appetite. He expects Chinese equities to stabilise and trend higher and prefers non‑bank financials, new and traditional energy, internet, pharmaceuticals, consumer and domestic AI/real‑tech leaders, recommending buying into pessimistic sentiment.
+
+---
+
+### 2026-07-17 14:44:39  #公司
+
+【浪潮計算機在臨沂成立新公司 註冊資本2000萬】天眼查App顯示，近日，浪潮（臨沂）計算機科技有限公司成立，法定代表人為於亮，註冊資本2000萬人民幣，經營範圍包括計算機軟硬體及外圍裝置製造、資訊系統整合服務、軟體開發等，由浪潮計算機科技有限公司全資持股。
+
+---
+
+### 2026-07-17 14:44:30  #觀點 #國際
+
+【股市高槓杆下 韓國每30名成年人就有1人被追加保證金】高盛交易部門董事總經理Ioannis Blekos指出，截至7月13日，韓國市場上超過120萬個散戶的槓桿信用賬戶已觸發追加保證金通知，約32萬至36萬個賬戶已被券商強制平倉。韓國15至64歲人口約3570萬，據此估算，約每30名適齡勞動人口中就有1人收到追加保證金通知。據報道，散戶經紀賬戶保證金餘額已減少約30萬億韓元，降至今年2月20日以來的最低水平。同時，收到追加保證金通知的賬戶比例在上週五升至約5%左右，且隨著半導體板塊拋售加劇預計還將進一步上升。據悉，週四的資金流向資料顯示，外資和本土機構投資者已在撤離。週五，因法定假日，韓國股市休市。
+
+---
+
+### 2026-07-17 14:44:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+Ukrainian President Zelenskiy said the Sumy region was struck by 15 precision-guided aerial bombs. One person was wounded and multiple residential buildings and civilian infrastructure, including a library, were damaged.
 
 ---
 
@@ -23093,71 +23135,5 @@ Australian Dollar Holds Ground — The Australian dollar held its recent gains t
 ### 2026-07-16 09:52:05  #其他
 
 國家統計局: 二季度房地產業GDP同比-0.2%，金融業GDP同比+6.9%，住宿和餐飲業GDP同比+5.8%。
-
----
-
-### 2026-07-16 09:51:58  #公司 #市場
-
-【端側AI概念持續走高 智度股份等多股漲停】AI手機概念持續活躍，帶動端側AI概念整體走強，智度股份直線漲停走出2連板，此前格林精密、福日電子、國光電器、福蓉科技等漲停，豪聲電子、慧為智慧、電聲股份、泓禧科技均漲超10%。
-
----
-
-### 2026-07-16 09:51:50  #其他
-
-【港股科網股走高，快手-W漲超6%】港股科網股走高，快手-W漲超6%，嗶哩嗶哩-W漲超5%，阿里巴巴-W漲超4%，美團漲近4%。
-
----
-
-### 2026-07-16 09:51:46  #MKT News #7012.T #Impact bullish #NVDA
-
-Kawasaki Heavy Industries announced a partnership with NVIDIA.
-
----
-
-### 2026-07-16 09:51:41  #國際
-
-日本財務大臣片山：將密切關注市場動態和經濟指標，以實現財政可持續性。
-
----
-
-### 2026-07-16 09:51:38  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said he will monitor market developments and economic indicators to maintain fiscal sustainability.
-
----
-
-### 2026-07-16 09:51:32  #央行 #國際
-
-【韓國央行：半導體行業、中東局勢等仍存不確定性，有必要監控匯率高波動性】韓國央行7月16日稱，今年的增長率預計將大幅超過5月份預測的2.6%；通脹壓力將繼續上升，預計將保持在目標水平之上；需要關注房地產市場和家庭債務增長。韓國央行表示，半導體行業、中東局勢發展及貿易環境變化仍存在不確定性，有必要監控匯率的高波動性。
-
----
-
-### 2026-07-16 09:51:22  #公司
-
-【地震預警APP“VIP加速通道”引爭議，成都高新減災研究所釋出整改公告】成都高新減災研究所7月15日釋出關於地震預警APP的情況說明及整改公告：近期，減災所地震預警APP廣告展示、會員服務、資訊推送體驗等問題引發廣大網友、社會公眾的關注與質疑。關於“VIP加速通道”爭議：系產品表述不當，無安全分級機制。經自查，減災所從未設定付費優先推送、普通使用者降速限流的差異化機制。由於平臺存量使用者基數大，易造成高峰擁堵。為保障全網推送穩定，減災所透過會員增值服務收益擴容伺服器資源，客觀上提升了推送穩定性。但減災所產品將其標註為“專屬加速通道”，命名不嚴謹、表述不恰當，帶來了“生命通道分等級”的負面觀感。目前減災所已全面刪除所有歧義文案，完成產品功能表述整改。
-
----
-
-### 2026-07-16 09:51:12  #MKT News #Market Themes #China EV Leaders #09868.HK #Impact bullish #02015.HK #09863.HK
-
-Hong Kong-listed auto shares strengthened: XPeng Inc. (09868.HK) rose nearly 6%, Lantu Auto (07489.HK) climbed nearly 5%; Li Auto (02015.HK) and Leapmotor (09863.HK) also advanced.
-
----
-
-### 2026-07-16 09:50:45  #國際
-
-【藉助中企數字基建 奈及利亞AI使用頻率全球排第二】2026年7月14日，ADP全球研究院釋出了最新的調研報告《職場人2026》。該調研報告顯示，奈及利亞因為吸引來自中國的技術投資，推動了本國人工智慧工具及數字基礎設施的快速落地，有 39% 的員工表示每天都會使用人工智慧，僅次於使用頻率最高的印度。 《職場人2026》顯示，亞洲、中東及非洲地區的員工，其人工智慧使用水平位居全球前列。 該調研報告特別指出，“在奈及利亞這個人口眾多的西非市場中，有 39% 的員工表示每天都會使用人工智慧，僅次於使用頻率最高的印度。這一比例是美國、中國臺灣、澳大利亞和德國的兩倍以上，是韓國的三倍以上。”（中國經營報）
-
----
-
-### 2026-07-16 09:50:44  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bearish #000660.KS
-
-【Korean single-stock leveraged ETFs incur KRW8.83 tln mark-to-market loss over nine trading days】Data published July 15 by FnGuide Quantwise and Mirae Asset Securities show four single-stock leveraged ETFs issued by Mirae Asset Global Investments and Samsung Asset Management—tracking Samsung Electronics and SK Hynix—suffered a cumulative mark-to-market loss of KRW8.8337 tln from July 1–13. AUM for those four ETFs fell from KRW14.3518 tln to KRW8.9389 tln, a 37.7% decline. Across all 14 KRX-listed single-stock leveraged ETFs tracking Samsung Electronics and SK Hynix, assets under management dropped 41.4%—from KRW15.9349 tln at end-June to KRW9.3386 tln on July 13—with Samsung-linked leveraged ETF AUM down 35.3% and SK Hynix-linked leveraged ETF AUM down 44.9%. Korea Capital Market Institute data show individual investors had net bought KRW8.2 tln of single-stock leveraged ETFs as of June 19, about 60% of the related AUM, indicating a substantial portion of recent losses may be borne by retail holders.
-
----
-
-### 2026-07-16 09:50:43  #MKT News #Important #Commodities #Energy
-
-【China refined fuel prices likely to rise for ninth time this year, industry source says】China's refined fuel prices are expected to be adjusted higher when the pricing window opens at 24:00 on July 17, industry firm Longzhong Information said. Longzhong estimates an increase of about 250 yuan/ton, roughly 0.18 yuan/liter; a 70‑liter fill would cost about 13 yuan more. Final adjustment will be confirmed by official authorities.
 
 ---

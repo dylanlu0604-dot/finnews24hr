@@ -1,7 +1,211 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-20 05:31:57_
-_本檔包含 3563 則快訊，約 720108 字_
+_更新時間：2026-07-20 06:26:46_
+_本檔包含 3590 則快訊，約 720831 字_
+
+---
+
+### 2026-07-20 06:22:05  #國際
+
+以色列國家安全部長伊塔馬爾·本-格維爾：加沙全境都將建立猶太人定居點，加沙屬於我們。
+
+---
+
+### 2026-07-20 06:20:38  #市場
+
+【A股市場震盪整理，機構稱短期拋壓或已集中釋放】7月17日，A股市場放量下挫，上證指數跌3.05%失守3800點，創業板指跌7.15%，科創50指數跌逾7%，全市場5000多隻個股下跌。拉長時間維度看，6月下旬以來，A股市場波動顯著加劇。對於近期的市場調整，本週券商策略展望報告形成一致共識：調整更多是海外科技資產微觀流動性衝擊及跨市場共振聯動的結果，A股基本面並未發生根本性變化。隨著科技股拋壓集中釋放，短期情緒宣洩或步入尾聲，超跌後修復動能正在積聚。（上證報）
+
+---
+
+### 2026-07-20 06:13:59  #MKT News
+
+SpaceX (SPCX.O) plans to conduct the 13th flight test of its "Starship" as early as July 23 local time.
+
+---
+
+### 2026-07-20 06:13:53  #其他
+
+SpaceX：目標最早於7月23日進行星艦（Starship）的第13次試飛。
+
+---
+
+### 2026-07-20 06:10:22  #公司 #市場 #焦點
+
+【國家隊領銜大額增持，還有一大波回購自購在路上】7月19日晚，央企、上市券商、私募紛紛用真金白銀表達對A股的堅定看好。 中國國新控股有限責任公司（下稱“中國國新”）表示，堅定看好中國資本市場發展前景，堅定支援央企科技創新和高質量發展，旗下國新投資有限公司相關主體已經使用股票回購增持專項再貸款及配套資金超500億元，用於維護市場穩定，未來還將繼續用好用足再貸款這一政策工具，同時配以自有資金繼續增持中央企業股票，堅決維護資本市場核心資產戰略價值，堅決維護資本市場平穩健康執行。 同日，中國誠通宣佈，該公司及其所屬的誠通資本、誠暘投資聚焦國資央企大額增持中國股票資產，累計買入近百億元。中國誠通表示，其堅定看好中國經濟和中國資本市場前景，後續將繼續使用自有資金和股票回購增持再貸款大額增持國資央企和科技企業股票及ETF，全力維護資本市場平穩執行。
+
+---
+
+### 2026-07-20 06:08:47  #其他
+
+【姆巴佩獲金靴】2026年美加墨世界盃決賽戰罷，本屆賽事的射手榜正式塵埃落定。姆巴佩以10粒進球領跑射手榜，成功摘得世界盃金靴；梅西打入8粒進球，位列射手榜第二位；貝林厄姆、哈蘭德均打入7粒進球，分列三、四名。
+
+---
+
+### 2026-07-20 06:06:36  #公司 #國際
+
+特朗普媒體與科技集團：特朗普媒體公司、帕特里克·奧蘭多、ARC環球公司各方之間所有索賠主張，已透過一份保密和解協議達成互相撤訴、全部解決。
+
+---
+
+### 2026-07-20 06:03:48  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish
+
+U.S. 10‑year Treasury futures fell 6 bps; 30‑year futures fell 10 bps.
+
+---
+
+### 2026-07-20 06:03:40  #市場 #國際
+
+油價上漲拖累美國10年期國債期貨下跌6個基點，30年期國債期貨下滑10個基點。
+
+---
+
+### 2026-07-20 06:03:02  #其他 #焦點
+
+【西班牙奪得2026世界盃冠軍】北京時間7月20日凌晨3時整，2026年美加墨世界盃決賽在紐約新澤西體育場展開角逐，西班牙對陣阿根廷。最終憑藉著加時賽費蘭的破門，西班牙1比0戰勝阿根廷，奪得世界盃冠軍。
+
+---
+
+### 2026-07-20 06:02:38  #MKT News #Important #Market Themes #The Trump Trade
+
+Spain beat Argentina 1-0 to win the US-Mexico-Canada World Cup final; Trump had earlier said he backed Argentina.
+
+---
+
+### 2026-07-20 06:02:36  #市場
+
+WTI原油日內漲3%，現報84.31美元/桶。
+
+---
+
+### 2026-07-20 06:02:35  #市場
+
+布倫特原油日內漲3%，現報90.83美元/桶。
+
+---
+
+### 2026-07-20 06:02:31  #市場 #焦點
+
+布倫特原油期貨價格突破每桶90美元，為6月11日以來首次。
+
+---
+
+### 2026-07-20 06:02:14  #MKT News #USDJPY #Impact bullish
+
+USD/JPY gained 20 pips intraday to 162.56, approaching the prior high of 162.83.
+
+---
+
+### 2026-07-20 06:02:05  #市場
+
+標普500指數期貨盤初持平，納斯達克指數期貨上漲0.1%。
+
+---
+
+### 2026-07-20 06:02:01  #MKT News #Commodities #Precious Metals
+
+Spot silver fell 0.4% in early trade to $55.64/oz.
+
+---
+
+### 2026-07-20 06:01:59  #公司 #國際
+
+特朗普科技和媒體集團了結多項法律糾紛。
+
+---
+
+### 2026-07-20 06:01:20  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bearish
+
+Spot gold opened Monday down nearly $20, slipping below $4,000/oz.
+
+---
+
+### 2026-07-20 06:01:11  #市場 #焦點
+
+WTI原油突破84美元/桶，日內漲2.71%。
+
+---
+
+### 2026-07-20 06:00:43  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+WTI crude rose 2% at Monday's open to $84/bbl.
+
+---
+
+### 2026-07-20 06:00:22  #市場 #焦點
+
+布倫特原油突破90美元/桶，日內漲2.16%。
+
+---
+
+### 2026-07-20 06:00:17  #MKT News
+
+U.S. stock index futures opened essentially flat on Monday.
+
+---
+
+### 2026-07-20 06:00:13  #市場 #焦點
+
+布倫特原油日內漲2%，現報89.92美元/桶。
+
+---
+
+### 2026-07-20 06:00:10  #市場 #焦點
+
+WTI原油日內漲2%，現報83.44美元/桶。
+
+---
+
+### 2026-07-20 06:00:09  #市場 #焦點
+
+紐約期金突破4010美元/盎司，日內跌0.24%。
+
+---
+
+### 2026-07-20 06:00:04  #市場 #焦點
+
+WTI原油突破83美元/桶，日內漲1.53%。
+
+---
+
+### 2026-07-20 06:00:02  #市場
+
+WTI原油日內漲1%，現報82.99美元/桶。
+
+---
+
+### 2026-07-20 06:00:01  #市場
+
+布倫特原油日內漲1%，現報89.50美元/桶。
+
+---
+
+### 2026-07-20 05:52:25  #央行 #國際
+
+【美聯儲7月維持利率不變的機率85.6%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為85.6%，累計加息25個基點的機率為14.4%。 美聯儲到9月維持利率不變的機率為38.5%，累計加息25個基點的機率為53.5%，累計加息50個基點的機率為7.9%。
+
+---
+
+### 2026-07-20 05:43:16  #國際
+
+【伊朗防空系統擊落多架敵方無人機和一枚巡航導彈】伊朗的綜合防空網路已成功攔截並摧毀了該國多個地區的數架敵機和一枚導彈，其中包括在西部擊落的一架MQ-9“死神”無人機、一枚巡航導彈、“盧卡斯”無人機，以及在阿瓦士上空擊落的另一架MQ-9，與此同時，伊朗軍隊持續彰顯其在應對美國侵略方面的空中優勢。
+
+---
+
+### 2026-07-20 05:41:35  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Kyiv hit by largest ballistic-missile strike since crisis escalation; 1 killed, 17 injured】Kyiv police and Ukrainian media said the Russian strike on Kyiv from the evening of the 18th into the early hours of the 19th was the largest-scale ballistic-missile attack since the crisis escalated. As of the evening of the 19th the attack had killed one and wounded 17. TCH TV cited the Ukrainian Air Force saying Russian forces launched 41 missiles and 125 drones toward Kyiv, including 10 Zircon hypersonic missiles and 25 Iskander-M and S-400 missiles.
+
+---
+
+### 2026-07-20 05:38:30  #國際
+
+【基輔市遭“最大規模彈道導彈襲擊”致1死17傷】據烏克蘭首都基輔市警方和烏媒19日晚訊息，俄羅斯18日晚至19日凌晨對基輔市發動的導彈襲擊是烏克蘭危機升級以來“最大規模的彈道導彈襲擊”。截至19日晚，襲擊已造成該市1人死亡、17人受傷。
+
+---
+
+### 2026-07-20 05:33:25  #國際
+
+【美軍在伊拉克1死1傷】北京時間今天（7月20日）凌晨，美軍中央司令部在社交媒體平臺通報稱，美東時間7月18日，在伊拉克北部，一名美軍士兵在對一架伊朗無人機遺留未爆彈藥進行受控引爆作業時死亡，另一名士兵受傷。美軍中央司令部此前曾通報在約旦美軍因伊朗襲擊2人死亡、1人失蹤。據最新通報，經全面搜救，美軍在約旦遭襲現場發現了身份不明的遺骸，目前正在進行鑑定核實工作。（CCTV國際時訊）
 
 ---
 
@@ -21516,47 +21720,5 @@ Japanese Shares Tumble on Tech Rout — The Nikkei 225 Index plunged 4.03% to cl
 ### 2026-07-17 14:47:13  #MKT News #Market Themes #AI Revolution
 
 【Panshi scientific foundation model 2.0 launched with domestically controlled heterogeneous compute stack】Chinese Academy of Sciences institutes unveiled Panshi scientific foundation model 2.0 at the 2026 World AI Conference. Trained on about 8 mln high-quality scientific reasoning records, the model is presented as a verifiable, traceable research-reasoning system; multiple benchmark results show leading performance in chemistry, biology and materials. It is paired with an integrated research-intelligence platform aggregating more than 8,000 professional scientific tools and a domestically controlled heterogeneous compute stack described as 'supercompute + smartcompute + fastcompute'. Early deployments in astronomy, mechanics and chemistry report faster simulation, high-precision celestial identification and intelligent new-materials design, and the platform is serving dozens of domestic research institutions and companies.
-
----
-
-### 2026-07-17 14:45:44  #市場 #焦點
-
-滬深兩市成交額超2.5萬億元，較上日此時放量2608億元。
-
----
-
-### 2026-07-17 14:45:31  #MKT News #Macro & Rates #DXY #Impact bearish
-
-【Goldman: Australian inflation still slightly concerning; June core likely to accelerate】Goldman Sachs chief economist Andrew Boak said Australian inflation remains slightly concerning. He expects June headline CPI to rise 0.2% m/m, keeping the YoY rate at 4.0% (RBA target ~2.5%). Boak forecasts the trimmed-mean CPI — a core measure — to rise 0.4% m/m, lifting the YoY rate by 10bps to 3.7%. Data are due July 29.
-
----
-
-### 2026-07-17 14:45:19  #其他
-
-【磐石·科學基礎大模型2.0釋出 開啟AI賦能基礎研究全新正規化】人工智慧正成為基礎科研突破的全新引擎，通用和專業能力融合的科學大模型更是重塑科研模式的核心關鍵。今天，在2026世界人工智慧大會上，由中國科學院多個研究所聯合研發的磐石·科學基礎大模型2.0正式釋出。此次釋出的磐石2.0創新性採用三層遞進技術架構，搭建起完整的科學智慧研究鏈路，可高效完成跨學科資料解析、知識推理、科學預測等核心科研工作，破解了通用模型專業性不足、領域模型通用性差的行業痛點。依託800萬條高質量科學推理資料訓練，模型形成可驗證、可追溯的科研推理體系。（央視新聞）
-
----
-
-### 2026-07-17 14:44:59  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite #Hang Seng Index
-
-【East Money Securities’ Chen Guo says A‑share market entering this year's "golden buy" window】Chen Guo, deputy director and chief strategist at East Money Securities’ research institute, said the A‑share market is entering this year’s "golden buy" window and major indices could make new highs in H2. He cited five market drivers: H2 GDP growth is expected to improve; Q2 micro funding in A‑shares appears to mark a funding trough with liquidity set to ease; sentiment indicators are near lows; many non‑tech quality names are in early profit‑recovery with low valuations; and a wave of China “real‑tech” IPOs on the A‑share market in H2 could draw incremental flows and lift activity and risk appetite. He expects Chinese equities to stabilise and trend higher and prefers non‑bank financials, new and traditional energy, internet, pharmaceuticals, consumer and domestic AI/real‑tech leaders, recommending buying into pessimistic sentiment.
-
----
-
-### 2026-07-17 14:44:39  #公司
-
-【浪潮計算機在臨沂成立新公司 註冊資本2000萬】天眼查App顯示，近日，浪潮（臨沂）計算機科技有限公司成立，法定代表人為於亮，註冊資本2000萬人民幣，經營範圍包括計算機軟硬體及外圍裝置製造、資訊系統整合服務、軟體開發等，由浪潮計算機科技有限公司全資持股。
-
----
-
-### 2026-07-17 14:44:30  #觀點 #國際
-
-【股市高槓杆下 韓國每30名成年人就有1人被追加保證金】高盛交易部門董事總經理Ioannis Blekos指出，截至7月13日，韓國市場上超過120萬個散戶的槓桿信用賬戶已觸發追加保證金通知，約32萬至36萬個賬戶已被券商強制平倉。韓國15至64歲人口約3570萬，據此估算，約每30名適齡勞動人口中就有1人收到追加保證金通知。據報道，散戶經紀賬戶保證金餘額已減少約30萬億韓元，降至今年2月20日以來的最低水平。同時，收到追加保證金通知的賬戶比例在上週五升至約5%左右，且隨著半導體板塊拋售加劇預計還將進一步上升。據悉，週四的資金流向資料顯示，外資和本土機構投資者已在撤離。週五，因法定假日，韓國股市休市。
-
----
-
-### 2026-07-17 14:44:01  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-Ukrainian President Zelenskiy said the Sumy region was struck by 15 precision-guided aerial bombs. One person was wounded and multiple residential buildings and civilian infrastructure, including a library, were damaged.
 
 ---
