@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-19 10:32:52",
+  "updated": "2026-07-19 10:36:49",
   "count": 19038,
   "items": [
+    {
+      "id": "4995799",
+      "time": "2026-07-19 10:34:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐約市長正研究逮捕內塔尼亞胡】紐約市長馬姆達尼表示，正在與市政府相關部門磋商，如果以色列總理內塔尼亞胡今年9月前往紐約參加聯合國大會，紐約方面是否有權對其實施逮捕。在當地時間7月18日刊發的《紐約時報》採訪中，馬姆達尼再次重申其觀點，因涉嫌在加沙地帶犯下“反人類罪和戰爭罪”，已被國際刑事法院（ICC）簽發逮捕令的內塔尼亞胡，應當為以軍在加沙的行動承擔責任。“我認為，內塔尼亞胡總理應該被送往海牙受審，他是受到國際刑事法院指控的戰爭罪犯。”馬姆達尼說。不過，馬姆達尼承認，他不確定自己是否有權指示紐約警察局拘留外國領導人，因此正與市政府律師討論。“紐約市法律允許我做什麼，我們就會做什麼。”國際刑事法院2024年對內塔尼亞胡發出逮捕令，指控他“自2023年10月8日到至少2024年5月20日期間犯有反人類罪和戰爭罪”。馬姆達尼在競選紐約市長期間便因公開支援巴勒斯坦而備受關注。他此前曾放話說，如果內塔尼亞胡訪問紐約，將推動對其實施逮捕。當被問及馬姆達尼的言論時，內塔尼亞胡回應稱，他認為馬姆達尼“暗地裡憎恨美國”。（觀察者網）"
+    },
+    {
+      "id": "mkt:019f7839-3c3c-7aab-8df4-63b9c747e727",
+      "time": "2026-07-19 10:34:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Chinese Academy of Engineering academician Zheng Weimin: systems that produce stable, low‑cost, high‑quality tokens are scarce in agentic AI era】At an Agentic-era AI infrastructure forum on July 19, Chinese Academy of Engineering academician Zheng Weimin said rapid expansion of compute capacity does not guarantee efficient token production. He warned the real scarcity is system capability to stably produce low‑cost, high‑quality tokens; tokens are transitioning from a technical metric to a core production input and inference systems are moving from single‑machine optimization toward distributed, cached, heterogeneous and service‑oriented architectures."
+    },
+    {
+      "id": "4995798",
+      "time": "2026-07-19 10:33:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，埃利達颶風強度略有減弱。東太平洋颶風季的第六號熱帶低壓已在南下加利福尼亞半島最南端以南較遠海域生成，預計將快速增強。"
+    },
+    {
+      "id": "mkt:019f7838-c870-7aab-8df4-59c0cff63650",
+      "time": "2026-07-19 10:33:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Sixth tropical depression of the Eastern Pacific season formed south of the southern tip of the Baja California peninsula; expected to rapidly intensify."
+    },
+    {
+      "id": "mkt:019f7838-a975-7aab-8df4-526fc0510f87",
+      "time": "2026-07-19 10:33:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC says Tropical Storm Elida has slightly weakened."
+    },
+    {
+      "id": "mkt:019f7838-5fdd-7aab-8df4-4cb873394743",
+      "time": "2026-07-19 10:33:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iranian analyst tells Kuwait to remove US troops or risk becoming a target】An Iranian analyst, replying to remarks by a Kuwaiti expert, said Kuwait must remove US troops from its territory if it does not want to become a target. He said from the Persian Gulf coast one can allegedly see missiles being fired from Kuwaiti soil toward Iran. The analyst also cited Iraq’s Ba'athist occupation of Kuwait, noting Iran sheltered the Kuwaiti emir during that invasion."
+    },
+    {
+      "id": "4995797",
+      "time": "2026-07-19 10:32:16",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【兩儀永珍完成數億元A+輪融資】日前，兩儀永珍科技有限公司完成數億元A+輪融資。本輪融資由君聯資本領投，新增投資機構包括北京基石創投、上海科創基金、北洋海棠基金和中信建投投資，A輪投資方順為資本和科大訊飛持續加註。"
+    },
     {
       "id": "mkt:019f7835-d02a-7aab-8df4-41f56cca1124",
       "time": "2026-07-19 10:30:20",
@@ -175586,69 +175649,6 @@
         "其他"
       ],
       "text": "阿聯酋稱其防空系統目前正在應對一起導彈威脅。"
-    },
-    {
-      "id": "4982547",
-      "time": "2026-07-12 10:36:47",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【日系車在華銷量集體大跌】據日本共同社報道，日本三大車商2026年1至6月在中國市場的新車銷量10日全部出爐，三家公司均較上年同期下滑。具體來看，豐田汽車銷量為69.47萬輛，同比減少17.1%；日產汽車為23.70萬輛，下滑15.0%；本田為20.58萬輛，減少34.7%。新車型投放滯後的本田表現尤為低迷。報道稱，中東局勢惡化導致燃料價格上漲，受此影響汽油車需求減少，拖累了銷量。儘管近期燃料價格上漲勢頭暫歇，但日本車商認為汽油車需求短期內不會恢復。報道還提到，6月單月銷量方面，三家公司也均低於上年同期。其中，本田連續29個月同比下滑。（中新經緯）"
-    },
-    {
-      "id": "4982546",
-      "time": "2026-07-12 10:35:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：訊息稱在科威特聽到兩次爆炸聲。"
-    },
-    {
-      "id": "mkt:019f542d-fb79-7aab-8d41-1187806ce0df",
-      "time": "2026-07-12 10:35:27",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian Fars News Agency, citing Arab sources, reported two explosions were heard in Kuwait."
-    },
-    {
-      "id": "mkt:019f542d-7904-7aab-8d41-0b2398ed6a37",
-      "time": "2026-07-12 10:34:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's Interior Ministry said it has raised the kingdom's alert level."
-    },
-    {
-      "id": "4982545",
-      "time": "2026-07-12 10:34:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京房山、密雲等5區解除防汛一級應急響應 石景山區仍有地質災害風險】記者從北京市防汛辦瞭解到，7月12日8時30分，解除房山、密雲、懷柔、門頭溝、豐臺等5區防汛一級應急響應；解除東城、西城、朝陽、海淀、石景山、昌平、延慶等7區防汛二級應急響應。維持大興、通州、順義、平谷等4區防汛一級應急響應。（央視新聞）"
-    },
-    {
-      "id": "4982544",
-      "time": "2026-07-12 10:33:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部訊息：巴林響起防空警報。"
-    },
-    {
-      "id": "4982543",
-      "time": "2026-07-12 10:32:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿曼附近一貨船遇襲 美軍稱打擊伊朗以作回應】英國海上貿易行動辦公室11日晚釋出通報說，一艘集裝箱船當天在阿曼附近海域遭遇襲擊，船尾受損且船上發生火災。\n通報說，事件發生在阿曼以東約9海里處。英國海上貿易行動辦公室協調世界時11日22時40分（北京時間12日6時40分）收到事件報告。通報沒有透露船名。\n英國海上貿易行動辦公室之後在補充通報中說，已獲軍事當局及該船所屬公司保安員通知，船員已棄船，目前正在救生艇上。\n另據美軍中央司令部11日訊息，伊朗伊斯蘭革命衛隊襲擊了一艘懸掛塞普勒斯國旗、正在透過霍爾木茲海峽的集裝箱船。襲擊導致一名船員失蹤，該船因船上發生火災以及機艙遭受嚴重損壞，已無法繼續航行。訊息說，美軍當晚針對伊朗發起一週以來第三輪軍事打擊，此次打擊是對這一襲擊事件的回應。\n目前，霍爾木茲海峽通航成為美伊博弈焦點。美國總統特朗普近日稱，儘管停火協議“失效”，美伊談判仍將繼續。許多分析人士認為，如不解決霍爾木茲海峽安全通航問題，美伊談判難以推進。（新華社）"
     }
   ]
 }
