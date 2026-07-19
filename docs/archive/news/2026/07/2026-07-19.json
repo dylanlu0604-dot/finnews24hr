@@ -1,7 +1,32 @@
 {
   "date": "2026-07-19",
-  "count": 582,
+  "count": 585,
   "items": [
+    {
+      "id": "mkt:019f79c7-01c6-7aab-8df6-b43dc95f935c",
+      "time": "2026-07-19 17:48:32",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. Embassy in Jordan said Jordanian authorities have evacuated Aqaba’s international airport and seaport after a specific, credible threat. The embassy strongly advised U.S. citizens to avoid the airport and seaport."
+    },
+    {
+      "id": "4996030",
+      "time": "2026-07-19 17:48:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐約旦大使館：我們強烈建議所有美國人不要前往約旦的機場或港口。"
+    },
+    {
+      "id": "4996029",
+      "time": "2026-07-19 17:47:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐約旦大使館表示，因收到明確且可信的威脅，約旦當局已對亞喀巴的國際機場與海港進行了人員疏散。"
+    },
     {
       "id": "mkt:019f79c5-65e4-7aab-8df6-ace0b82d8ef7",
       "time": "2026-07-19 17:46:47",
