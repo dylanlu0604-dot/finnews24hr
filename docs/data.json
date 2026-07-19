@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-20 07:32:38",
-  "count": 19026,
+  "updated": "2026-07-20 07:36:32",
+  "count": 19030,
   "items": [
+    {
+      "id": "4996390",
+      "time": "2026-07-20 07:35:26",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【“含韓”港股ETF淨值跳水 半導體後市行情存在分歧】2026年6月下旬起，此前累計翻倍走強的韓國半導體板塊遭遇猛烈拋壓。三星電子、SK海力士在經歷逾半年單邊上漲後掉頭急跌，宣告估值回撥開啟。作為國內唯一佈局韓國市場的跨境ETF——中韓半導體ETF華泰柏瑞亦同步重挫，7月以來跌幅已超30%。與此同時，港股市場掛鉤上述韓企的兩倍槓桿產品上演極端“過山車”行情。這一劇烈分化走勢，將市場對AI儲存“超級週期”的信仰徹底推向分歧高點。當前韓國半導體板塊後市走勢分歧顯著。受全球資本市場流動性收緊、行業週期邊際變動、市場交易結構失衡及持續累積的板塊利空影響，韓國儲存半導體板塊估值持續承壓，行情震盪加劇。國泰基金指出，韓國市場的熔斷是一記沉重警鐘：高波動賽道搭配過高槓杆，往往是風險的根源。這也說明，短期市場價格有時並不完全等於產業基本面的變化。當持倉過度集中、資金過度擁擠、槓桿比例過高時，即便行業沒有突然惡化，市場也可能發生快速調整。"
+    },
+    {
+      "id": "mkt:019f7cbb-8c10-7aab-8dfb-fb95478df8d8",
+      "time": "2026-07-20 07:34:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "TASNIM NEWS reports multiple loud explosions at Bandar Mahshahr and Bandar Imam Khomeini ports in southwest Iran."
+    },
+    {
+      "id": "4996389",
+      "time": "2026-07-20 07:34:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方通訊社塔斯尼姆訊息，伊朗西南部的馬赫沙赫爾港與伊瑪目霍梅尼港傳出數次爆炸聲。"
+    },
+    {
+      "id": "te:markets:568006",
+      "time": "2026-07-20 07:33:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Jumps as US-Iran Conflict Intensifies — Brent climbed above $90 per barrel on Monday, extending last week's gains as escalating hostilities between the US and Iran raised fears of further disruptions to oil flows from the Middle East. Iran declared that its ceasefire with the US had effectively collapsed and said over the weekend that it intercepted four vessels transiting the Strait of Hormuz. Meanwhile, the US military reported the death of a third US service member in the past two days amid ongoing exchanges of attacks with Tehran. The conflict has also expanded beyond military targets, with bridges, utilities, and port facilities coming under attack. Kuwait Petroleum Corp. said an Iranian strike hit one of its oil facilities on Saturday. Brent prices have now surged about 30% from their July lows as the interim peace agreement between the US and Iran unraveled, the US resumed its blockade of Iranian ports, and Tehran intensified attacks on ships near the Strait of Hormuz."
+    },
+    {
+      "id": "4996388",
+      "time": "2026-07-20 07:33:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【史詩鉅製《奧德賽》北美首映收穫1.245億美元，位列美國票房榜首】由環球影業發行的奇幻冒險史詩電影《奧德賽》7月17日正式在北美上映。該片在上映首週末展現了明確的市場吸引力，在全美3,919家影院放映下取得了1.245億美元的票房，位列最新一期美國週末票房榜第一名。作為一部製作成本達2.5億美元的R級商業影片，該片首週末全球總票房已達到2.64億美元。《奧德賽》改編自荷馬史詩《奧德修紀》，講述特洛伊戰爭後，希臘英雄奧德修斯在外漂泊輾轉十年，最終回到故鄉的故事。‌"
+    },
+    {
+      "id": "te:markets:568005",
+      "time": "2026-07-20 07:32:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Jumps as US-Iran Conflict Intensifies — Crude oil climbed toward $85 per barrel on Monday, extending last week's gains as escalating hostilities between the US and Iran raised fears of further disruptions to oil flows from the Middle East. Iran declared that its ceasefire with the US had effectively collapsed and said over the weekend that it intercepted four vessels transiting the Strait of Hormuz. Meanwhile, the US military reported the death of a third US service member in the past two days amid ongoing exchanges of attacks with Tehran. The conflict has also expanded beyond military targets, with bridges, utilities, and port facilities coming under attack. Kuwait Petroleum Corp. said an Iranian strike hit one of its oil facilities on Saturday. Oil prices have now surged nearly 30% from their July lows as the interim peace agreement between the US and Iran unraveled, the US resumed its blockade of Iranian ports, and Tehran intensified attacks on ships near the Strait of Hormuz."
+    },
+    {
+      "id": "4996387",
+      "time": "2026-07-20 07:32:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【卓越睿新：與火山引擎簽署合作框架協議】卓越睿新在港交所公告，公司於7月20日與北京火山引擎科技有限公司（“火山引擎”）共同簽署了合作框架協議。雙方將圍繞“大模型知識賦能、虛實融合實訓、AI音影片互動教學、數字化人才培養”四大核心領域展開深度協同，旨在探索行業知識、AI技術與實體物理場景結合的產業智慧化合作模式。"
+    },
+    {
+      "id": "4996386",
+      "time": "2026-07-20 07:31:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中信建投：繼續看好GPU、CPU、儲存、高速網路及算力租賃服務等環節】中信建投研報指出，Kimi K3釋出，國產開放權重模型開始參與全球能力邊界和商業定價權競爭；後續重點觀察完整權重開放後的社群部署規模、API呼叫量以及付費轉化。臺積電業績超預期並上調全年收入指引，此前下游晶片、伺服器、交換機相關公司業績預告同樣表現亮眼，AI硬體鏈條景氣度傳導持續，最終體現在模型側持續迭代與應用落地，繼續看好GPU、CPU、儲存、高速網路及算力租賃服務等環節。"
+    },
     {
       "id": "4996385",
       "time": "2026-07-20 07:30:47",
@@ -175507,39 +175583,6 @@
         "其他"
       ],
       "text": "【長江下游支流水陽江發生2026年第2號洪水】據水利部訊息，受降雨影響，長江下游支流水陽江新河莊水文站（安徽宣城）7月13日1時20分水位漲至警戒水位（11.50米），依據主要江河洪水編號規定，此次洪水編號為“水陽江2026年第2號洪水”。水利部緊盯汛情發展態勢，加強雨水情監測預報預警，提前啟動針對安徽、江蘇的洪水防禦Ⅳ級應急響應，督促指導做好港口灣水庫等骨幹水工程科學排程，落實落細水陽江洪水防禦各項措施，全力確保人民群眾生命財產安全。目前，水利部工作組正在安徽省洪水防禦一線協助指導。"
-    },
-    {
-      "id": "4983180",
-      "time": "2026-07-13 07:35:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列推進在被佔領東耶路撒冷建設450個定居點單元的計劃。"
-    },
-    {
-      "id": "4983179",
-      "time": "2026-07-13 07:34:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "安斯泰來：PADCEV聯合療法獲美國批准。"
-    },
-    {
-      "id": "4983178",
-      "time": "2026-07-13 07:33:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI算力需求爆發 光纖量價齊升 多家企業啟動擴產計劃】AI算力需求的爆發式增長，將光纖行業推入了價格上行通道。近日，杭電股份、永鼎股份等上市公司上半年業績預告紛紛錄得大幅增長，行業高景氣度持續得到驗證。光纖價格的大幅上漲以及行業供需缺口的存在，正推動多家企業啟動光棒及光纖擴產計劃。7月10日晚，烽火通訊和領益智造均釋出公告。前者擬定增募資不超過29.13億元用於光纖智慧製造等專案，後者擬參與重整富通嘉善，切入光纖通訊賽道。不過，光纖行業擴產潮也引發市場對“週期魔咒”重演的憂慮。多位業內受訪人士向證券時報記者表示，新增產能落地仍需翻越多重門檻。"
-    },
-    {
-      "id": "4983177",
-      "time": "2026-07-13 07:33:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普將於週一與眾議院議長約翰遜、全國共和黨國會委員會主席會面】白宮官方日程顯示，美國總統特朗普將於美國東部時間下午3點在橢圓形辦公室會見眾議院議長邁克・約翰遜以及全國共和黨國會委員會（NRCC）主席理查德・哈德森。特朗普下午1點將出席自由250大獎賽展示活動。下午4點30分，特朗普將簽署一份行政令。"
     }
   ]
 }
