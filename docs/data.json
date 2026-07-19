@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-19 21:18:13",
-  "count": 18992,
+  "updated": "2026-07-19 21:22:41",
+  "count": 18996,
   "items": [
+    {
+      "id": "4996145",
+      "time": "2026-07-19 21:21:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "據秘魯民防機構Indeci：秘魯中部Junin地區在週六發生5.1級地震，造成4人死亡、20人受傷。"
+    },
+    {
+      "id": "4996144",
+      "time": "2026-07-19 21:19:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗：美國近期發動的襲擊已造成伊朗超過50人罹難，517人受傷。"
+    },
+    {
+      "id": "mkt:019f7a87-f1e8-7aab-8df8-498f0cbfdcfc",
+      "time": "2026-07-19 21:19:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said he will take all actions in the coming weeks and months to reduce energy prices."
+    },
+    {
+      "id": "mkt:019f7a87-8e6c-7aab-8df8-46d7190578a7",
+      "time": "2026-07-19 21:18:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the DOE is tracking large oil tankers transiting the strait."
+    },
+    {
+      "id": "mkt:019f7a87-4172-7aab-8df8-3f03cfbde7b1",
+      "time": "2026-07-19 21:18:32",
+      "tags": [
+        "MKT News",
+        "BA.N"
+      ],
+      "text": "A Boeing (BA.N) executive said 737 production is critical to the company's investment in next-generation aircraft."
+    },
+    {
+      "id": "4996143",
+      "time": "2026-07-19 21:18:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美能源部長：將採取一切行動降低能源價格 確保霍爾木茲海峽石油輸送 】當地時間7月19日，美國能源部長克里斯·賴特（Chris Wright）在接受媒體採訪時表示，無論伊朗方面是否予以配合，美方都將採取措施確保霍爾木茲海峽的石油輸送暢通。賴特披露了當前該海域的石油運輸資料。他指出，目前霍爾木茲海峽石油流量的“七天截尾均值”低於700萬桶/日，整個波斯灣地區的石油供應量也略微低於1400萬桶/日。儘管局勢緊張，但仍有船隻按照既定路線透過海峽，美方正在密切追蹤大型油輪的通行情況。賴特強調，考慮到美國夏季駕車出遊旺季的到來以及中期選舉臨近，美國政府將在未來數週乃至數月內，採取一切必要行動來降低國內能源價格。"
+    },
     {
       "id": "mkt:019f7a85-c1da-7aab-8df8-31947f44a34f",
       "time": "2026-07-19 21:16:53",
@@ -175196,22 +175253,6 @@
         "Impact bullish"
       ],
       "text": "【U.S. military rebuts Iranian claim of control over Strait of Hormuz, says strait is international waterway】CENTCOM said on social media that a recent claim by Iran’s Islamic Revolutionary Guard Corps navy commander — that foreign vessels may not transit the Strait of Hormuz without identification, tracking and monitoring by Iranian forces — is false. Iran does not control the Strait of Hormuz; it remains an international waterway. U.S. forces are deployed and ready to maintain that status and ensure freedom of navigation, and shipping in the strait is continuing normally."
-    },
-    {
-      "id": "4982932",
-      "time": "2026-07-12 21:21:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部澄清：伊朗無法掌控霍爾木茲海峽，它仍然是一條國際水道。美國部隊已部署並準備保持這一現狀。"
-    },
-    {
-      "id": "4982931",
-      "time": "2026-07-12 21:18:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "內塔尼亞胡表示：格雷厄姆去世後，他感到震驚。"
     }
   ]
 }
