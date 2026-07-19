@@ -1,7 +1,19 @@
 {
   "date": "2026-07-20",
-  "count": 100,
+  "count": 101,
   "items": [
+    {
+      "id": "mkt:019f7beb-57ca-7aab-8dfa-9499caa21074",
+      "time": "2026-07-20 03:47:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Times of Israel, citing officials, says Prime Minister Netanyahu’s planned US trip next week for Senator Graham’s funeral may be canceled amid heightened regional security. Israeli officials warn Iran could broaden strikes to other senior Israeli figures, saying many people are under threat."
+    },
     {
       "id": "mkt:019f7bde-0514-7aab-8dfa-8ea10aa42677",
       "time": "2026-07-20 03:32:55",

@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-20 03:43:03",
-  "count": 19014,
+  "updated": "2026-07-20 03:49:24",
+  "count": 19013,
   "items": [
+    {
+      "id": "mkt:019f7beb-57ca-7aab-8dfa-9499caa21074",
+      "time": "2026-07-20 03:47:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Times of Israel, citing officials, says Prime Minister Netanyahu’s planned US trip next week for Senator Graham’s funeral may be canceled amid heightened regional security. Israeli officials warn Iran could broaden strikes to other senior Israeli figures, saying many people are under threat."
+    },
     {
       "id": "mkt:019f7bde-0514-7aab-8dfa-8ea10aa42677",
       "time": "2026-07-20 03:32:55",
@@ -175390,22 +175402,6 @@
         "國際"
       ],
       "text": "【特朗普週一將在白宮舉辦印地賽車活動】特朗普將於週一在白宮舉辦一場印地賽車“大獎賽展示活動”。該活動旨在為下月華盛頓舉辦的街道賽造勢，車手阿萊克斯·帕洛烏等知名印地賽車手將出席本次活動。"
-    },
-    {
-      "id": "4983059",
-      "time": "2026-07-13 03:48:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "【斯洛伐克總統：不會參與新一輪對烏軍援】當地時間7月12日，斯洛伐克總統佩列格里尼表示，斯洛伐克不會參與總額700億歐元的新一輪對烏克蘭援助計劃，也不會向烏克蘭提供武器或為其進一步武裝提供資金。"
-    },
-    {
-      "id": "4983058",
-      "time": "2026-07-13 03:48:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：我們的打擊範圍覆蓋加沙、葉門、黎巴嫩直至伊朗境內的敵人。我們已經消除了懸在我們頭頂的即時生存威脅，其中包括伊朗獲取核武器所帶來的緊迫危險。"
     }
   ]
 }
