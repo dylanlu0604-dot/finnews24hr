@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19 21:30:40",
-  "count": 18998,
+  "updated": "2026-07-19 21:34:47",
+  "count": 18999,
   "items": [
+    {
+      "id": "4996151",
+      "time": "2026-07-19 21:31:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月19日21時30分發布海上雷雨大風黃色預警訊號：受對流雲團影響，北部灣北部海面19日21時30分到20日05時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。（海南氣象服務）"
+    },
+    {
+      "id": "4996150",
+      "time": "2026-07-19 21:30:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "俄國防部通報：俄武裝部隊打擊了切爾尼戈夫州一處用於運送軍用物資的物流中心。"
+    },
     {
       "id": "4996149",
       "time": "2026-07-19 21:29:40",
@@ -175256,18 +175272,6 @@
         "國際"
       ],
       "text": "【美伊就霍爾木茲海峽通行權再起交鋒：伊朗稱海峽無法通行，美軍駁斥並強調航行自由】圍繞霍爾木茲海峽的通行權問題，美伊雙方於12日在媒體上再度爆發激烈交鋒。伊朗波斯灣海峽管理局當日釋出公告宣佈，霍爾木茲海峽目前無法通行，並表示待局勢平靜後，將恢復稽核海峽通行申請並按計劃發放必要的許可證。伊朗伊斯蘭革命衛隊海軍指揮官也在媒體上重申了對海峽的管控要求。針對伊朗方面的宣告，美國中央司令部在社交平臺連續發文予以駁斥。美軍強調，伊朗並不控制霍爾木茲海峽，該海峽仍是國際水道。儘管伊朗方面進行無端侵略、騷擾與武斷宣告，美軍已部署就位並準備就緒，隨時準備維持現狀，確保航行自由持續得到保障，目前海峽航運仍在正常進行。而，美國總統特朗普亦表態稱，霍爾木茲海峽是開放的。美伊雙方圍繞海峽控制權與通行狀態的表態針鋒相對，局勢走向仍存不確定性。"
-    },
-    {
-      "id": "mkt:019f5689-6e89-7aab-8d45-3b13a1da1ede",
-      "time": "2026-07-12 21:34:34",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "Brent"
-      ],
-      "text": "【Russian Defence Ministry says forces carried out large-scale strikes on Ukrainian facilities】The Russian Defence Ministry said on the 12th that overnight from the 11th to early the 12th Russian forces carried out large-scale strikes that damaged Ukrainian fuel, power and transport infrastructure, long-range drone storage sites, ammunition depots and temporary deployment points for Ukrainian troops and foreign mercenaries at 158 locations. The ministry said Russian forces destroyed 585 Ukrainian-launched drones and 11 aerial bombs in the past 24 hours. Belgorod acting governor Shuvaev said on social media that over the same 24-hour period Ukraine struck 11 districts of the region with more than 100 attacks, killing one and wounding seven; Russian authorities said 111 drones were intercepted. Russian media reported that drone attacks prompted temporary restrictions on civilian flights overnight in multiple Russian cities, delaying dozens of flights."
     }
   ]
 }
