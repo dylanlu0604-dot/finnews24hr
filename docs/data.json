@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-19 17:43:42",
-  "count": 18941,
+  "updated": "2026-07-19 17:47:39",
+  "count": 18947,
   "items": [
+    {
+      "id": "mkt:019f79c5-65e4-7aab-8df6-ace0b82d8ef7",
+      "time": "2026-07-19 17:46:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shaanxi opens first specialized spaceborne laser-communication terminal production line in Xi'an】Shaanxi's first specialized automated production line for spaceborne laser-communication terminals began operation in Xi'an, moving devices from laboratory development to serial production and expected to enhance China’s satellite autonomy, high-efficiency networking and large-scale constellation management. Phase one capacity is 600 terminals per year, with output targeted to exceed 1,000 units annually by 2027. Mass-produced terminals support 5–100 Gbps links, are compact, low-power and interference-resistant; core optical components were independently developed by the Xi'an Institute of Optics and Precision Mechanics and are designed to meet bulk supply needs for LEO mega-constellations."
+    },
+    {
+      "id": "mkt:019f79c4-f8bd-7aab-8df6-a56c1d546b3a",
+      "time": "2026-07-19 17:46:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【All Hong Kong Legislative Council members depart for Beijing for week-long national affairs study】All members of the Hong Kong SAR Legislative Council departed for Beijing on the 19th for a week-long national affairs study trip, the first full-LegCo visit of this type since Hong Kong’s return to China."
+    },
+    {
+      "id": "4996028",
+      "time": "2026-07-19 17:45:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯市長索比亞寧表示，防空系統擊落了五架飛向莫斯科的無人機。此前有訊息稱伏努科沃機場與多莫傑多沃機場運營受到限制。"
+    },
+    {
+      "id": "mkt:019f79c4-7728-7aab-8df6-9aab35dcb5f8",
+      "time": "2026-07-19 17:45:46",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【IRGC says it intercepted four 'violating' vessels in Strait of Hormuz】The Islamic Revolutionary Guard Corps (IRGC) said in a statement several hours ago that four 'violating' vessels, which it accused of acting with US support, deliberately switched off navigation systems, ignored warnings from the IRGC's Strait of Hormuz control base and attempted to transit an unsafe route. Two vessels reportedly ran into trouble and were intercepted on the spot; two withdrew from the unsafe route. The IRGC said it now has full control of the Strait of Hormuz and that the only safe passage is the published designated corridor. It warned that, without coordination and permission, no oil, gas or fertilizer shipments may transit the strait and that ships entering unsafe routes under what it characterised as US hostile rhetoric risk becoming involved in incidents."
+    },
+    {
+      "id": "4996027",
+      "time": "2026-07-19 17:44:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【松應科技與西門子擬推動物理AI在先進製造場景應用】7月19日，松應科技與西門子簽署戰略合作協議，雙方將圍繞物理模擬、工業數字孿生與具身智慧等領域展開合作，共同推進物理AI技術在先進製造場景的應用。據悉，雙方有望進一步打通“數字工廠中的訓練驗證”與“真實工廠中的部署執行”，加快多形態機器人協同從展示場景走向實際生產流程。"
+    },
+    {
+      "id": "4996026",
+      "time": "2026-07-19 17:44:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：三菱汽車尋求與ADM公司合作開發可持續燃料。"
+    },
+    {
+      "id": "4996025",
+      "time": "2026-07-19 17:43:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港特區立法會全體議員赴京開展國家事務研修考察】香港特區立法會全體議員19日啟程前往北京，展開為期一週的國家事務研修考察。這是香港迴歸祖國以來，特區立法會全體議員首次赴京參加此類研修考察活動。（新華社）"
+    },
     {
       "id": "mkt:019f79be-ea03-7aab-8df6-95858e9078b6",
       "time": "2026-07-19 17:39:42",
@@ -174779,15 +174843,6 @@
         "Impact mixed"
       ],
       "text": "【BOC Securities: Short-term equilibrium does not alter growth-led trend】BOC Securities says debate over a \"growth-to-value rotation\" has intensified but concludes K-shaped fundamental divergence has not reversed and conditions for a style switch are insufficient. Cloud providers' capex remains on an upward path and global semiconductor sales continue to expand, indicating the AI cycle is still trending higher. Recovery in traditional cyclical sectors is heavily policy-dependent; current macro policy is focused on \"consolidating fundamentals\" with limited urgency or room for broad aggregate stimulus, leaving traditional sectors without systemic earnings elasticity. Growth therefore retains a relative earnings advantage, and the market is in a consolidation phase rather than at a bull–bear regime turning point."
-    },
-    {
-      "id": "4982846",
-      "time": "2026-07-12 17:47:10",
-      "tags": [
-        "市場",
-        "觀點"
-      ],
-      "text": "【開源證券：風險逐步釋放，尋找新一輪科技線索】開源證券在最新研報中指出，本週，市場經歷了一輪調整，雖然週四科技出現大反攻，但週五再次出現下跌，市場波動顯著加大。本輪調整並不是科技趨勢的結束，而是高景氣、高估值、高擁擠狀態下，短期風險的集中釋放，市場嘗試消化估值和擁擠度。展望後市，科技仍是主線，本輪調整是為了更健康的再出發。當下科技仍是最具吸引力、基本面邊際仍在改善的方向，眾多板塊中，以科創板和創業板為代表的科技板塊仍具備較高的相對業績優勢，景氣相對稀缺。階段性再平衡結束後，市場會重新尋找下一批能夠承接風險偏好、同時具備基本面邊際改善的方向——科技再篩選。（一財）"
     }
   ]
 }
