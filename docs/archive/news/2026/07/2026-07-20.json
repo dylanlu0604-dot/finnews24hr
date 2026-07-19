@@ -1,7 +1,19 @@
 {
   "date": "2026-07-20",
-  "count": 39,
+  "count": 40,
   "items": [
+    {
+      "id": "mkt:019f7b50-1e0f-7aab-8df9-e2c882de0507",
+      "time": "2026-07-20 00:57:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "TASNIM News reported Iran said a US-launched cruise missile was intercepted and destroyed by Iranian air defences in western Iran several hours earlier."
+    },
     {
       "id": "mkt:019f7b4d-6ddf-7aab-8df9-dc5a39dca288",
       "time": "2026-07-20 00:54:59",
