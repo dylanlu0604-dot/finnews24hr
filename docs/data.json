@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-19 23:46:57",
-  "count": 18995,
+  "updated": "2026-07-19 23:51:07",
+  "count": 18996,
   "items": [
+    {
+      "id": "mkt:019f7b10-0f52-7aab-8df9-530973db5922",
+      "time": "2026-07-19 23:47:57",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【CSRC to hold roundtable tomorrow on market stability】Several listed companies and market institutions have been notified to attend a CSRC roundtable tomorrow. The regulator will solicit views and suggestions on promoting market stability and healthy development."
+    },
+    {
+      "id": "4996203",
+      "time": "2026-07-19 23:47:25",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【證監會明天將召開座談會促進市場穩定健康發展】證券時報記者瞭解到，多家上市公司、市場機構已收到監管部門通知，將於明日參加證監會座談會。本次座談，證監會旨在就促進市場穩定健康發展聽取各方意見建議。"
+    },
     {
       "id": "mkt:019f7b0b-d186-7aab-8df9-4b037ce95e12",
       "time": "2026-07-19 23:43:19",
@@ -175253,14 +175271,6 @@
         "MKT News"
       ],
       "text": "【Israel to hold Oct. 27 parliamentary election; first on-schedule vote in nearly 40 years】Knesset House Committee chair Ofir Katz said elections will be held on Oct. 27. The current Knesset completes its four‑year statutory term on July 17; Knesset legal adviser Sagit Afik said the Knesset will serve its full term and will not be dissolved early, so no early‑dissolution bill is required. This would be the first Israeli parliamentary election held on its legal date in nearly 40 years and the first government in more than 50 years to complete a full term."
-    },
-    {
-      "id": "4982998",
-      "time": "2026-07-12 23:48:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：外長在與聯合國黎巴嫩事務特使會晤期間，強調繼續支援黎巴嫩及其領土統一。"
     }
   ]
 }
