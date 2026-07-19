@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-19 21:26:41",
-  "count": 18997,
+  "updated": "2026-07-19 21:30:40",
+  "count": 18998,
   "items": [
+    {
+      "id": "4996149",
+      "time": "2026-07-19 21:29:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯方面稱已打擊哈爾科夫州一處天然氣加工廠。"
+    },
+    {
+      "id": "4996148",
+      "time": "2026-07-19 21:29:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩南部發生劇烈爆炸 以軍再次對邊境地區發動軍事襲擊 】黎巴嫩南部邊境地區發生劇烈爆炸。據伊朗媒體援引黎巴嫩當地媒體報道，就在數分鐘前，以軍對黎巴嫩南部城鎮卡夫特巴尼特（Kfartebnit）周邊地區實施了猛烈打擊，現場傳出巨大爆炸聲。"
+    },
+    {
+      "id": "mkt:019f7a8e-8599-7aab-8df8-5c6c0712aa76",
+      "time": "2026-07-19 21:26:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Peru earthquake kills five, 200 affected】A magnitude-5.1 quake struck south of Chupaca in Peru’s Junín region on the evening of the 18th local time, the Peruvian National Emergency Operations Center said. The agency reported five fatalities and about 200 people affected."
+    },
+    {
+      "id": "4996147",
+      "time": "2026-07-19 21:26:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯地震已致5人死亡 200人受災】當地時間18日晚，秘魯胡寧大區丘帕卡市以南發生5.1級地震。秘魯國家應急指揮中心通報稱，地震已致5人死亡，200人受災。（央視新聞）"
+    },
     {
       "id": "4996146",
       "time": "2026-07-19 21:24:28",
@@ -175236,31 +175268,6 @@
         "Brent"
       ],
       "text": "【Russian Defence Ministry says forces carried out large-scale strikes on Ukrainian facilities】The Russian Defence Ministry said on the 12th that overnight from the 11th to early the 12th Russian forces carried out large-scale strikes that damaged Ukrainian fuel, power and transport infrastructure, long-range drone storage sites, ammunition depots and temporary deployment points for Ukrainian troops and foreign mercenaries at 158 locations. The ministry said Russian forces destroyed 585 Ukrainian-launched drones and 11 aerial bombs in the past 24 hours. Belgorod acting governor Shuvaev said on social media that over the same 24-hour period Ukraine struck 11 districts of the region with more than 100 attacks, killing one and wounding seven; Russian authorities said 111 drones were intercepted. Russian media reported that drone attacks prompted temporary restrictions on civilian flights overnight in multiple Russian cities, delaying dozens of flights."
-    },
-    {
-      "id": "4982935",
-      "time": "2026-07-12 21:28:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【開源和人工智慧邊會探討共建開放普惠的數字未來】以“開源和人工智慧促進可持續發展：數字基礎設施、開放資料和多利益相關方合作”為主題的2026年資訊社會世界峰會論壇邊會近日在日內瓦舉辦。邊會以圓桌對話的形式展開，圍繞開源和AI促進實現聯合國可持續發展目標、開放資料與閉源資料的矛盾以及不同模態的大模型在開源生態中的面貌等議題展開深入討論。與會嘉賓一致認為，可持續發展目標的實現離不開開放、可信、可協作的數字基礎設施。開源與AI的交匯正在為全球可持續發展注入前所未有的動力。全球各界應攜手成為這場數字化變革的參與者和推動者，共同構建開放、包容、普惠的數字未來。（新華社）"
-    },
-    {
-      "id": "4982934",
-      "time": "2026-07-12 21:28:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄國防部：俄軍大規模打擊烏軍設施】俄羅斯國防部12日釋出訊息說，11日夜間至12日凌晨，俄軍大規模打擊並破壞了烏克蘭軍隊的多個設施。俄國防部訊息說，俄軍打擊並破壞了烏軍的燃料、能源和運輸設施，遠端無人機儲存點，彈藥庫以及烏軍和外國僱傭兵在158個地區的臨時部署點。過去24小時，俄軍共摧毀烏軍發射的585架無人機和11枚航空炸彈。俄羅斯別爾哥羅德州代理州長舒瓦耶夫12日在社交媒體發文說，過去24小時，烏軍對該州11個地區發動100多次襲擊，造成1人死亡、7人受傷。俄方共攔截111架無人機。另據俄媒報道，由於遭無人機襲擊，多個俄羅斯城市11日夜間至12日凌晨臨時限制民用飛機起降，數十個航班被延誤。（新華社）"
-    },
-    {
-      "id": "4982933",
-      "time": "2026-07-12 21:27:43",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Meta面臨1.4萬億美元罰款，被指控侵害未成年人權益】美國4州聯合指控“元”公司（Meta）利用成癮演算法誘導未成年人，並隱瞞其對青少年心理健康的負面影響，索賠高達1.4萬億美元；全美已有29州就此提起訴訟。與此同時，歐盟委員會依據《數字服務法》釋出初步報告，要求Meta修改“自動播放”“無限滾動”等成癮性設計，否則面臨全球年收入6%的鉅額罰款。Meta否認指控，並表示將繼續抗辯。（環球網）"
     }
   ]
 }
