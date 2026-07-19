@@ -1,7 +1,40 @@
 {
   "date": "2026-07-19",
-  "count": 761,
+  "count": 765,
   "items": [
+    {
+      "id": "4996156",
+      "time": "2026-07-19 21:44:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗阿巴丹地區傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019f7a9e-0f7c-7aab-8df8-749fd57e6cc0",
+      "time": "2026-07-19 21:43:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ambush on Malian government convoy kills more than 50】On the 18th a Malian government convoy travelling from Anefis to Gao was ambushed in northern Mali by extremist and separatist militants, killing more than 50, the military said, calling it a \"terrorist armed gang ambush.\""
+    },
+    {
+      "id": "4996155",
+      "time": "2026-07-19 21:43:10",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【民調：高市內閣不支援率超過支援率】據日本《每日新聞》19日釋出的民意調查結果，日本首相高市早苗內閣的支援率大跌10個百分點至41%，不支援率則升至44%，已超過支援率。7月10日，在位於日本東京的國會議事堂前，民眾手持標語參加抗議集會，反對高市早苗政府近期推動的一系列危險政策和法案。新華社記者嶽晨星攝 民調結果顯示，高市內閣支援率從6月的51%跌至41%，這是她就任以來，內閣支援率在該報民調中首次跌破50%；不支援率上升9個百分點，從35%升至44%。這是高市內閣支援率本週在第二家日本主要媒體的民調結果中跌破50%。日本時事通訊社16日釋出的民調結果顯示，高市內閣支援率為49%，比6月下跌5.3個百分點；不支援率為25.2%，上升3個百分點。（新華社）"
+    },
+    {
+      "id": "mkt:019f7a9d-69b1-7aab-8df8-6bfdf71fea6c",
+      "time": "2026-07-19 21:42:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's military said air defenses shot down an enemy 'Lukas'-type drone in the country's south."
+    },
     {
       "id": "4996154",
       "time": "2026-07-19 21:40:28",
