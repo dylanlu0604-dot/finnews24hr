@@ -1,7 +1,76 @@
 {
   "date": "2026-07-19",
-  "count": 447,
+  "count": 455,
   "items": [
+    {
+      "id": "4995929",
+      "time": "2026-07-19 15:33:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金冠電氣：中標國家電網專案 合計中標金額7481.51萬元】金冠電氣公告稱，近日，公司中標陝西~河南±800千伏特高壓直流輸電工程專案避雷器產品1個標包，中標金額3392.00萬元；公司及全資子公司金冠智慧中標避雷器及開關櫃產品共2個標包，中標金額4089.51萬元，兩個專案合計中標金額7481.51萬元，約佔公司2025年營收的9.06%，將對未來業績產生積極影響。截至公告披露日，尚未簽訂正式合同，存在不確定性。"
+    },
+    {
+      "id": "4995928",
+      "time": "2026-07-19 15:32:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三成深市公司披露上半年業績：預盈比例達57%，多賽道共振】A股上市公司迎來半年報預告披露期。在多重利好驅動下，一批深市公司展現出強勁的發展韌性。截至7月19日，深市已有900家公司披露2026年上半年業績預告，佔深市公司總數的31%，市值佔比33%。已披露公司預告淨利潤總額同比增幅高達147%，其中57%公司預盈，逾四成公司預增，逾三成公司持續盈利且淨利潤增速超50%。行業方面，有色金屬、化工等週期性行業、AI算力業務相關行業及非銀金融行業的業績增幅尤為亮眼。（21財經）"
+    },
+    {
+      "id": "4995926",
+      "time": "2026-07-19 15:31:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國鐵建：2025年年度擬派發現金紅利40.74億元】中國鐵建公告稱，2025年年度利潤分配方案已獲2026年6月26日的年度股東會審議透過。本次以總股本135.80億股為基數，每股派發現金紅利0.30元（含稅），共計派發現金紅利40.74億元。A股股權登記日為2026年7月27日，除權（息）日和現金紅利發放日為7月28日。"
+    },
+    {
+      "id": "4995925",
+      "time": "2026-07-19 15:31:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【捷昌驅動：截至7月17日累計回購7524.98萬元股份】捷昌驅動公告稱，公司於2026年6月29日透過以集中競價交易方式回購股份的議案，回購資金8000萬元-1.6億元，用於員工持股計劃或股權激勵，回購期限至2027年6月29日。截至2026年7月17日，公司累計回購股份317.74萬股，佔總股本的0.8237%，支付總金額7524.98萬元，回購價格22.20元/股-25.54元/股。"
+    },
+    {
+      "id": "4995924",
+      "time": "2026-07-19 15:31:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華安證券：董事長提議1億-2億元回購公司股份】華安證券公告稱，7月18日，公司董事長章宏韜提議回購股份。因7月1日至17日，公司A股股價連續13個交易日跌幅累計達26.46%，觸發回購情形。提議回購A股，資金不低於1億元、不超2億元，將按規則在披露回購結果12個月後出售，三年內未售完則登出。回購期限不超3個月，價格不高於董事會透過決議前30個交易日均價150%。該事項尚需履行審議程式，存在不確定性。"
+    },
+    {
+      "id": "4995923",
+      "time": "2026-07-19 15:31:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博隆技術：截至7月17日累計回購股份10萬股 金額529.84萬元】博隆技術公告稱，公司於2026年7月13日透過以集中競價方式回購股份議案，預計回購4500萬元-6000萬元，用於員工持股計劃或股權激勵，實施期限至2027年1月12日。截至7月17日，公司累計回購股份10萬股，佔總股本的0.12%，與上次披露數相比增加0.06%，成交最高價53.53元/股，最低價52.05元/股，成交總金額529.84萬元。公司將按規定實施回購並及時披露進展。"
+    },
+    {
+      "id": "4995922",
+      "time": "2026-07-19 15:31:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "裡海管道聯盟：碼頭油輪均未喪失浮航能力；其中一艘雪佛龍公司租賃的油輪起火，火情已被撲滅，未發生原油洩漏。"
+    },
+    {
+      "id": "mkt:019f7948-8119-7aab-8df5-cad6493b5187",
+      "time": "2026-07-19 15:30:22",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Summary of US military casualties in US–Iran conflict】Latest fatalities from a US base in Jordan bring the US military death toll since the start of the US–Iran conflict to 16. More than 430 personnel have been wounded and one is missing. Known incident details: On March 1 an Iranian drone struck a civilian port in Kuwait, killing six US service members. A seventh US service member wounded the same day in an Iranian strike on Saudi Arabia’s Prince Sultan Air Base died of injuries more than a week later. On March 12 a KC‑135 tanker supporting US operations crashed in Iraq, killing six; US officials said the crash followed an 'undetermined incident' involving another aircraft and that enemy fire and friendly fire were ruled out. On July 1 a US Navy pilot died in a helicopter crash in the Arabian Sea; the Navy said there was no sign the incident resulted from enemy action."
+    },
     {
       "id": "4995921",
       "time": "2026-07-19 15:29:08",
