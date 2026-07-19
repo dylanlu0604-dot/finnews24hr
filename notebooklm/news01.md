@@ -1,7 +1,199 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-19 18:57:10_
-_本檔包含 3540 則快訊，約 718510 字_
+_更新時間：2026-07-19 20:01:58_
+_本檔包含 3532 則快訊，約 717948 字_
+
+---
+
+### 2026-07-19 19:57:29  #MKT News
+
+【Ferry capsizes in Guyana; 8 rescued】Local media in Guyana on the 19th reported a ferry carrying 116 people, including crew, capsized late on the 18th while en route from the capital Georgetown to Kaituma Port. Eight people have been rescued. Government and civilian emergency services launched a search-and-rescue operation, and the military said air force and coast guard units were dispatched to the scene.
+
+---
+
+### 2026-07-19 19:55:49  #MKT News #Important #Market Themes #The Trump Trade #WTI #Impact bullish #Brent #XAUUSD
+
+Trump urges Republicans to include Iran in a sanctions bill targeting Russia.
+
+---
+
+### 2026-07-19 19:55:15  #國際
+
+特朗普：共和黨人應將伊朗納入對俄製裁法案。
+
+---
+
+### 2026-07-19 19:54:23  #公司
+
+【槓桿資金大手筆買入CRO龍頭】近一週（7月10日至16日），A股融資餘額持續下降，但仍保持在2.8萬億元上方，最新為28377.01億元（截至7月16日）。A股融資資金呈現淨償還態勢，金額合計淨流出987.04億元。個股方面，近一週，共51股融資淨買入額在1億元以上，藥明康德、中興通訊、中國船舶、紫光股份排名前四，淨買入額依次為8.35億元、7.51億元、5.42億元、4.61億元。藥明康德、康龍化成、凱萊英等CRO龍頭股均獲得融資資金大手筆加持。30股融資淨償還額超過5億元。佰維儲存、中際旭創淨償還額超過20億元，分別為21.42億元、20.39億元；德明利、江波龍、勝宏科技、寒武紀多股隨後，淨償還額均在15億元以上。
+
+---
+
+### 2026-07-19 19:53:53  #公司 #市場
+
+世界黃金協會CEO泰達維高度評價中國市場湧現的創新和活力。“中國是全球黃金市場當中至關重要且充滿活力的一部分，在市場發展、消費者培育、產品創新等方面的實踐為全球黃金產業的發展提供了寶貴經驗。”（新華社）
+
+---
+
+### 2026-07-19 19:52:22  #國際
+
+【約旦否認疏散亞喀巴國際機場和港口】約旦政府通訊大臣兼發言人穆罕默德·穆馬尼19日發表宣告說，約旦相關部門並未釋出任何疏散亞喀巴國際機場和港口的決定。 穆馬尼說，亞喀巴國際機場和港口運營正常，任何潛在風險警報均應由約旦相關部門發出，在過去幾小時內，相關部門並沒有記錄潛在威脅。 當天早些時候，美國駐約旦大使館釋出安全警報稱，“由於存在具體且可信的威脅，約旦當局已疏散亞喀巴國際機場和港口”，建議所有美國公民不要前往上述地點。（新華社）
+
+---
+
+### 2026-07-19 19:50:42  #國際
+
+【美國FDA：泰勒農場供應的冰山生菜樣本檢測出引發全美寄生蟲疫情的病原體】美國食品藥品監督管理局（FDA）週六表示，由泰勒農場（Taylor Farms）供應的切絲冰山生菜樣本，檢測出了一種寄生蟲疾病呈陽性，該疾病已導致美國數千人患病。FDA在宣告中表示，泰勒農場已確認，該涉事產品並不包含在目前的召回名單中。目前，FDA正致力於遏制美國近年來規模最大的食源性疾病疫情。
+
+---
+
+### 2026-07-19 19:48:33  #MKT News #Market Themes #AI Revolution
+
+【Magic Atom Robotics and Shanghai Shibei Hi‑tech sign strategic cooperation】At the 2026 World Artificial Intelligence Conference, Magic Atom Robotics Technology (Wuxi) Co., Ltd. and Shanghai Shibei Hi‑tech (Group) Co., Ltd. signed a strategic cooperation agreement to advance the embodied intelligence industry. The parties will establish the Shanghai Embodied Modular Resonance Joint Innovation Center and jointly develop embodied-intelligence industry innovation projects intended as nationwide demonstration models.
+
+---
+
+### 2026-07-19 19:46:01  #焦點 #國際
+
+【7月19日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：  1.【新思想引領新徵程】以人民為中心 繪就現代化城市民生幸福新畫卷； 2.李希在重慶調研； 3.【樹立和踐行正確政績觀】為民造福 真抓實幹 推動學習教育見行見效； 4.國家四部門部署做好地質災害風險隱患巡查排查工作； 5.我國國家物流樞紐發展取得明顯成效； 6.“七一勳章”獲得者吾哈斯·蘇來曼：馬背上的健康衛士； 7.神舟二十三號乘組在軌近兩月 各項工作有序推進； 8.【新聞特寫】連線彼此 共創未來； 9.國內聯播快訊： （1）《2026中國AI盛典》暨《全球智惠平臺·AI語料場景合作清單》啟動； （2）上海市人形機器人中試服務平臺正式啟用； （3）今年上半年深圳累計進出口2.88萬億元； （4）今年上半年我國西南地區最大油氣田產量創新高； （5）全球最大煤制油專案智慧化改造完成； （6）內蒙古第36屆旅遊那達慕開幕； （7）2026年電影票房破200億元 暑期檔超43億元； 10.美伊持續相互打擊對方目標 伊朗稱美違反承諾伊方已停止履行諒解備忘錄； 11.國際聯播快訊： （1）俄烏相互打擊對方物流設施； （2）以軍襲擊加沙城 多名兒童死亡； （3）伊拉克宣佈將重修跨國輸油管道； （4）西班牙多地林火災情擴大。
+
+---
+
+### 2026-07-19 19:45:02  #公司 #市場
+
+【最高翻倍！6700億光通訊巨頭業績預喜，股價月內已跌超20%】7月19日，新易盛（300502.SZ）公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為70.00億元-80.00億元，同比增長77.56%-102.93%。此前，公司第一季度淨利潤為27.8億元，據此計算，第二季度淨利潤預計環比增長51%-87%。對於上半年業績變動原因，新易盛表示，主要受益於人工智慧相關算力投資持續增長及產品結構最佳化，公司銷售收入和淨利潤較上年同期大幅增加。此外，預計上半年非經常性損益對公司淨利潤的影響約為1900萬元。公開資料顯示，新易盛主營業務是全系列光通訊應用的光模組的研發、生產和銷售。值得注意的是，截至7月17日收盤，新易盛股價報482.88元/股，單日跌11.01%，總市值為6733億元；月內股價已跌超20%，創下近一年來單月最大跌幅。但這並非新易盛個股的“獨立行情”，同為光通訊巨頭的中際旭創、天孚通訊月內亦分別跌超22%、30%。當下，光通訊頭部公司股價表現與基本面出現較大程度背離，成為市場關注的焦點。就行業方面而言，國盛證券指出，當前光通訊板塊回撥，與儲存漲價擠佔雲廠商資本開支有關。具體來看，近期儲存晶片價格持續上行，儲存在整個伺服器BOM成本中的佔比上升。在雲廠商總體CapEx預算有上限的情況下，市場擔憂儲存等環節的漲價會倒逼大廠壓縮網路端（光通訊）的採購預算與毛利空間，進而影響光模組企業業績兌現。（21財經）
+
+---
+
+### 2026-07-19 19:38:39  #公司
+
+【魔法原子與市北高新簽署戰略合作協議】2026世界人工智慧大會期間，魔法原子機器人科技（無錫）有限公司與上海市北高新（集團）有限公司在會場正式簽署戰略協議。雙方將圍繞具身智慧產業發展建立全面戰略合作關係，共同推進“上海具身模數共振聯合創新中心”，打造具有全國示範效應的具身智慧產業創新合作專案。
+
+---
+
+### 2026-07-19 19:37:59  #公司
+
+【多家上市公司回應穩定股價相關舉措】近期，虛假傳聞、“小作文”等訊息加劇上市公司股價波動。對此，多家A股公司最新回應股價波動情況，以及後續穩定股價相關舉措：①行雲科技(300209)表示，網傳訂單產品型號與數量、關聯交易、同業對比、長期大額協議等內容均為市場傳聞，公司嚴格按照監管規則執行資訊披露，已經豁免披露客戶名稱和產品型號等內容，已公告訂單正常履約中，無應披露而未披露的重大事項。公司經營資訊請以在法定資訊披露媒體的公告為準，警惕不實訊息引發股價波動。②物產金輪(002722)表示，公司高度重視市值管理，正積極結合現金流、合規程式及市場環境統籌研判回購、增持、股權激勵等措施的可行性。③金石資源(603505)表示，公司管理層已關注到近期股價波動較大，這可能既受大盤及行業整體走勢影響，也與公司短期停產事件有關。公司理解並高度重視投資者情緒，當前正全力推進整改工作，力求加快復工復產程序，以降低短期事件對股價的擾動和投資者對基本面的擔憂，並修復投資者對公司的信心。④中青旅(600138)表示，公司持續關注近期股價破淨情況，將結合自身經營財務情況，依規統籌研究股份回購、股東增持等穩定股價相關舉措，持續做好投資者關係管理，多措並舉推動估值修復。⑤坤彩科技(603826)表示，近期股價波動受多重市場因素影響，公司基本面未發生重大不利變化。控股股東近期新增質押係為上市公司融資提供增信措施，旨在支援公司業務發展，不會對公司控制權及正常經營產生影響，亦不存在配合減持打壓股價的情形。公司高度重視市值管理，後續將持續聚焦主業穩健經營，積極運用現金分紅、投資者關係管理等合規方式推動投資價值合理反映。
+
+---
+
+### 2026-07-19 19:36:41  #其他
+
+德國總理默茨：（盟友）斯潘的辭職可能是重新思考政府組成人員的一個契機。
+
+---
+
+### 2026-07-19 19:27:05  #MKT News
+
+Kuwait says power and desalination plants were attacked again by Iran, damaging multiple generating units. Repair crews are working to restore power supply.
+
+---
+
+### 2026-07-19 19:25:32  #公司
+
+【90餘家深市化工企業披露半年度業績預告，多家淨利增幅下限超10倍】近日，深市化工行業公司密集披露2026年半年度業績預告，呈現良好復甦態勢。截至目前，深市已有90餘家化工行業公司披露上半年業績預告，逾六成公司預計盈利且業績預增；10家公司預計扭虧為盈，恆逸石化等企業預計歸母淨利潤增長下限超過10倍。（上證報）
+
+---
+
+### 2026-07-19 19:23:36  #MKT News
+
+Saudi outlet Alhadath reports Kuwait Power Company said a power and seawater desalination plant was attacked for the second time in two days.
+
+---
+
+### 2026-07-19 19:22:31  #其他
+
+科威特：受損機組搶修恢復供電作業正在進行中。
+
+---
+
+### 2026-07-19 19:22:08  #國際
+
+科威特訊息：發電及海水淡化設施再度遭到伊朗襲擊，致使當地發電及供水廠起火。
+
+---
+
+### 2026-07-19 19:21:34  #國際
+
+科威特：大量發電機組受伊朗打擊影響。
+
+---
+
+### 2026-07-19 19:21:04  #MKT News
+
+【Canada says all-hands mobilized to fight wildfires】Prime Minister Mark Carney said on July 18 Canada is facing one of its most severe wildfire seasons amid extreme heat and record drought and the government has launched an all‑hands mobilization. More than 5,300 firefighters and nearly 300 aircraft have been deployed; the interdepartmental wildland fire centre reported 3,815 fires YTD and over 2.9 mln ha burned. Rising temperatures and more frequent heatwaves linked to global climate change have heightened fire risk, and wildfire smoke has degraded air quality across Canada and parts of the US Northeast.
+
+---
+
+### 2026-07-19 19:15:55  #公司 #國際
+
+【美媒：KimiK3或使AI行業重新洗牌】中國AI企業月之暗面7月16日釋出了新一代模型Kimi K3，引數規模達2.8萬億，是目前全球引數最大的開源模型，引起業界的廣泛關注。據月之暗面公司介紹，Kimi K3原生支援視覺理解，具備100萬詞元上下文視窗，面向軟體工程、知識工作、深度研究、多模態理解等複雜任務場景進行最佳化，進一步提升了大模型複雜任務的處理能力。此外，和絕大多數國產AI 產品一樣，Kimi K3定價更低，且開放原始碼，開發者可按需自主定製。據法新社報道，Kimi K3釋出後，短短數小時便登頂業內備受關注的AI程式碼工具評測榜單Arena，這也是中國大模型首次拿下該榜單榜首位置。Arena榜單運營負責人安傑洛普洛斯表示，Kimi K3或將倒逼投資者重新審視整個AI行業，此次釋出很可能“引發資本市場的重新洗牌”，因為它“動搖了OpenAI、Anthropic等美國閉源模型的主導地位”。（央視財經）
+
+---
+
+### 2026-07-19 19:14:39  #國際
+
+【加拿大政府稱全員動員應對山火】加拿大總理馬克·卡尼7月18日表示，在極端熱浪與破紀錄的乾旱天氣影響下，加拿大正面臨史上最嚴峻的野火季之一，政府正採取“全員動員”方式應對災情。卡尼說，目前全國已部署5300多名消防人員，近300架各類飛機在滅火前線。加拿大跨部門森林消防中心18日釋出的最新資料顯示，今年以來加拿大全境已記錄3815起山火，過火面積超過290萬公頃。加拿大森林覆蓋率在全球排名前列。由於全球氣候變化導致氣溫上升、熱浪頻繁，森林火災風險加劇，加拿大近年來經常爆發大規模山火。山火產生的大量煙霾，導致加拿大和美國東北部多地空氣質量惡化。（CCTV國際時訊）
+
+---
+
+### 2026-07-19 19:13:47  #其他
+
+【卡達埃米爾與伊拉克總理通話 強調落實諒解備忘錄及保障霍爾木茲海峽航行自由 】卡達埃米爾塔米姆與伊拉克總理蘇達尼舉行通話，，兩國領導人在通話中一致強調，必須切實落實此前達成的美伊諒解備忘錄。雙方特別指出，保障霍爾木茲海峽的航行自由是維護地區安全與穩定的關鍵前提。
+
+---
+
+### 2026-07-19 19:08:43  #公司
+
+【軟通動力：截至7月17日累計斥資近5000萬元回購股份】軟通動力公告稱，公司7月7日透過以集中競價交易方式回購公司股份的議案，回購資金1.5億-3億元，回購價格上限61.45元/股，實施期限6個月。7月17日，公司回購股份104.87萬股，佔總股本0.10%，成交金額3999.76萬元。截至當日，累計回購股份130.25萬股，佔總股本0.13%，成交總金額4998.49萬元。後續將繼續實施回購。
+
+---
+
+### 2026-07-19 19:08:03  #公司 #市場
+
+【中國AI生而全球】在2026世界人工智慧大會上，多名國內AI企業負責人及外資機構代表表示，中國AI在世界上的競爭力越來越強。稀宇科技（MiniMax）副總裁薛子釗認為，中國這一代的通用人工智慧模型“生而全球”，公司超50%收入來自全球市場。沙特願景投資集團中國董事長呂雲鶴表示，未來AI拼的是誰的應用場景更多、更快商業化，希望透過合作，把中國AI的模型、技術和產業鏈的獨特經驗落地沙特。零一萬物執行長、創新工場董事長李開復表示，今年公司15億元的訂單中，上漲最快的是海外市場，國產AI在全球成長空間非常大。（央視財經）
+
+---
+
+### 2026-07-19 19:07:11  #MKT News
+
+Lingjun Investment and its senior executives will commit RMB 200 mln of their own funds to subscribe to the company's private securities funds within two weeks.
+
+---
+
+### 2026-07-19 19:06:13  #MKT News
+
+【São Tomé and Príncipe holds presidential election】São Tomé and Príncipe held a presidential election on July 19. Around 140,000 registered voters, including overseas voters, were eligible to vote. Incumbent Carlos Nova is running against Democratic Independent Action candidate Nito Dabreu.
+
+---
+
+### 2026-07-19 19:05:49  #國際
+
+【約旦政府稱亞喀巴國際機場和海港正常運營】當地時間19日，約旦政府發言人穆馬尼表示，亞喀巴國際機場和海港目前均正常運營，相關設施執行未受影響。他表示，約旦主管部門目前沒有作出疏散亞喀巴國際機場或海港的任何決定，也未釋出相關命令。他同時表示，在過去數小時內，約旦有關安全部門未記錄到任何潛在安全威脅。如出現任何可能存在的風險，約旦有關部門將按照既定程式進行監測和處置，並及時向公眾釋出相關資訊。此前，美國駐約旦大使館釋出安全警報稱，由於存在“具體且可信”的安全威脅，約旦有關部門已疏散亞喀巴國際機場和亞喀巴港口，並建議美國公民不要前往上述機場和港口。（央視新聞）
+
+---
+
+### 2026-07-19 19:02:55  #其他
+
+【TCL華星星智X-Intelligence大模型在顯示領域超越Gemini 3.1 Pro與GPT-5.5 high】7月19日，介面新聞記者獲悉，近日，在面向半導體顯示領域的自動化評測和行業專家評測中，由TCL華星自主研發的星智X-Intelligence大模型綜合表現均超過Gemini 3.1 Pro、GPT-5.5 high等國際主流通用大模型。
+
+---
+
+### 2026-07-19 19:01:25  #宏觀
+
+【陳茂波：香港將出臺政策支援中小企業採用AI】香港特區政府財政司司長陳茂波19日發表網誌表示，特區政府今年內將推出最佳化版“數碼轉型支援先導計劃”，支援中小企業採用現成的人工智慧方案。香港的AI佈局已由逐項推進，進入系統佈局階段，力求讓AI賦能千行百業。
+
+---
+
+### 2026-07-19 18:59:35  #公司
+
+【靈均投資宣佈2億元自購旗下私募基金產品】7月19日，靈均投資釋出公告稱，基於對中國資本市場長期穩健發展及公司主動管理能力的堅定信心，為踐行長期投資理念，公司及主要核心人員將在兩週內使用自有資金人民幣2億元參與申購公司旗下私募證券基金產品。
+
+---
+
+### 2026-07-19 18:59:29  #MKT News #Market Themes #AI Revolution
+
+【Regulators hold closed-door meeting on emotion-capable robots, probe trillion-yuan market and compliance gaps】Industry sources said regulators last week convened a closed-door workshop with leading firms to discuss the sector’s potential trillion-yuan market and compliance dilemmas, focusing on three priorities: data security, cybersecurity and standards for emotional interaction.
 
 ---
 
@@ -21178,254 +21370,5 @@ Taiwan Weighted Index extended losses, last 43,129.44, down 5.5%.
 ### 2026-07-17 12:50:42  #MKT News #Market Themes #AI Revolution
 
 Reserve Bank of India governor says artificial intelligence poses cybersecurity and data privacy risks.
-
----
-
-### 2026-07-17 12:50:33  #MKT News
-
-【Argentina's Milei confirms 2027 re-election bid, pledges to continue reforms if returned】President Milei said on the 16th he will run in the 2027 presidential election and, if re-elected, will continue his administration's current economic reform program. He made the announcement at the Buenos Aires Stock Exchange's 172nd anniversary event. Milei took office in December 2023 to a four-year term.
-
----
-
-### 2026-07-17 12:50:12  #其他
-
-【胡廣傑已任貴州省政府常務副省長】據貴州省應急管理廳網站訊息，2026年7月15日，省委常委、常務副省長鬍廣傑赴省應急廳調研並主持召開專題會議。上述訊息顯示，胡廣傑已任貴州省政府常務副省長。
-
----
-
-### 2026-07-17 12:49:59  #MKT News
-
-India's BSE Sensex rose 1%.
-
----
-
-### 2026-07-17 12:49:55  #其他
-
-【阿根廷總統米萊確認尋求連任】阿根廷總統米萊16日確認將參加2027年總統選舉。米萊當天在布宜諾斯艾利斯證券交易所成立172週年紀念活動上發表講話時作出上述表態。米萊在講話中闡述了本屆政府促進經濟增長的政策，稱如果實現連任，將延續當前的經濟改革計劃。米萊2023年12月宣誓就職，開啟為期4年的總統任期。（新華社）
-
----
-
-### 2026-07-17 12:48:56  #宏觀
-
-【習近平出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話】7月17日上午，國家主席習近平在上海世界會客廳出席2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式並發表主旨講話。
-黃浦江畔，潮啟新瀾。世界會客廳內嘉賓雲集。
-習近平同與會的國家元首、政府首腦、國際組織負責人及各國代表團團長集體合影。
-在熱烈的掌聲中，習近平發表題為《攜手構建公正合理的全球人工智慧治理體系》的主旨講話。
-習近平指出，當前，世界百年變局加速演進，新一輪科技革命和產業變革加速突破，全球人工智慧技術創新進入前所未有的活躍期，既蘊含巨大機遇，也面臨治理挑戰。人類不得不直面時代之問：當機器開始思考，人類如何與之相處？當演算法參與決策，安全如何保障？當技術挑戰倫理，治理如何跟上？當鴻溝不斷拉大，普惠如何實現？中方認為，各國應當秉持以人為本、向上向善理念，讓人工智慧成為促進共同繁榮、維護共同安全的一個重要動力源，攜手構建公正合理的全球人工智慧治理體系。
-習近平就此提出4點意見：
-第一，堅持開放共贏，驅動創新發展。抓住難得的歷史性機遇，鼓勵開源開放、合作共享，全面促進人工智慧科技創新、產業發展、場景應用，協同推進傳統產業改造升級、新興產業培育壯大、未來產業前瞻佈局，讓人工智慧賦能千行百業。
-第二，強化風險意識，確保安全可控。高度重視人工智慧引發的各類內生和衍生風險，推動構建法律法規、技術監測、風險預警、應急響應體系，築牢安全底線，防範濫用惡用，確保人工智慧始終處於人類控制之下。共同反對在人工智慧領域泛化國家安全概念、把本國安全凌駕於他國安全之上的做法。
-第三，鼓勵包容並蓄，促進文明互鑑。用全人類共同價值塑造人工智慧的價值觀，善用人工智慧技術增進不同文明的理解和包容，促進不同文明交流互鑑，精心培育各美其美、美美與共的文明百花園。
-第四，倡導和衷共濟，完善全球治理。踐行真正的多邊主義，切實發揮聯合國的重要作用，加強人工智慧發展戰略、治理規則、技術標準的對接協調，早日形成具有廣泛共識的全球治理框架，讓這一前沿技術更好造福人類社會。幫助全球南方國家加強能力建設，彌合數智鴻溝，促進可持續發展，避免在人工智慧領域造成新的歷史不公。（新華社）
-
----
-
-### 2026-07-17 12:48:02  #其他
-
-【《人工智慧合作發展行動計劃》釋出 】7月17日，2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海召開。會上，國家發展改革委會同有關部門共同釋出了《人工智慧合作發展行動計劃》。《人工智慧合作發展行動計劃》旨在貫徹落實習近平總書記有關“人工智慧應該是造福全人類的國際公共產品”的重要指示精神，從資料、算力、生態、賦能、人才、規則、治理和倫理等方面，提出優質資料供給、智慧算力普惠、開源生態共享、人工智慧深度賦能、數智人才共育、規則標準共建、安全治理協作、人工智慧向善等八項行動，以務實舉措響應聯合國關於加強人工智慧國際合作、彌合數字鴻溝、推動人工智慧賦能可持續發展等方面的倡議。會上，國家發展改革委會同有關部門還共同釋出了《中國智·惠世界（2026）》案例集。《中國智·惠世界（2026）》案例集是國家發展改革委連續第三年釋出，收錄了我國在人工智慧領域開展國際合作的10個生動故事。與往屆相比，覆蓋地區國別更加廣泛，“人工智慧+”應用合作場景更加豐富，“以人為本、智慧向善”的理念更加突出，集納了人工智慧國際合作中的寶貴成果，展現了我國對全球人工智慧發展貢獻的中國智慧、中國方案。（新華社）
-
----
-
-### 2026-07-17 12:47:14  #其他
-
-【國家發展改革委、國家資料局將在2026年APEC數字週期間舉辦資料領域系列活動】7月25日至29日，國家發展改革委、國家資料局將在四川省成都市舉辦APEC數字週資料領域系列活動。APEC數字週資料領域系列活動聚焦“資料促進增長”主題，設定2場會議活動和4場主題參訪。25日上午，舉辦“APEC資料促進增長高階別圓桌會”，APEC各經濟體部長及國際組織高階別代表將圍繞如何更好釋放資料價值、促進創新發展和產業升級、推動經濟社會數字化轉型等開展資料政策對話，增進資料互信，促進規則對接。當日下午，舉辦“APEC資料與人工智慧促進產業發展專題研討會”，APEC各經濟體政府、國際組織、企業、科研機構、智庫等各領域代表將圍繞資料和人工智慧創新發展、資料和人工智慧技術賦能物流等生產性服務業議題進行開放式討論。
-
----
-
-### 2026-07-17 12:46:42  #國際
-
-【伊朗革命衛隊：打擊敘利亞美軍指揮中心 造成大量美軍人員死亡 】據伊朗方面當地時間7月17日訊息，伊朗伊斯蘭革命衛隊發表宣告稱，對美軍位於敘利亞坦夫地區的指揮中心發動了打擊。宣告稱，伊朗革命衛隊航空航天部隊打擊了美軍在敘利亞坦夫軍事基地的特種作戰指揮中心，作為對此前伊朗沙赫爾班普爾地區伊朗士兵遭襲犧牲的報復。宣告表示，此次行動摧毀了一套雷達系統、數架用於特種作戰的直升機，還造成大量美軍人員死亡。宣告還表示，目前，霍爾木茲海峽的完全控制權仍掌握在伊朗手中。只要美國繼續實施敵對行動，這一地區將不會有一滴石油和天然氣出口。美方對上述說法暫無回應。
-
----
-
-### 2026-07-17 12:46:03  #市場 #央行 #國際
-
-印度央行行長：黃金貸款和中小微企業增長更快，未發現任何風險。近期政策措施及印度外部部門的固有優勢對盧比構成利好。國際收支狀況在中短期內有望保持強勁。
-
----
-
-### 2026-07-17 12:44:18  #MKT News
-
-RBI governor expects India's balance of payments to remain strong in the near- to medium-term.
-
----
-
-### 2026-07-17 12:43:50  #市場 #國際
-
-MSCI除日本亞洲指數下跌超2%。
-
----
-
-### 2026-07-17 12:43:44  #MKT News #DXY #Impact bearish
-
-Reserve Bank of India governor said recent policy measures and the underlying strength of India’s external sector are supportive of the Indian rupee.
-
----
-
-### 2026-07-17 12:43:26  #MKT News #Market Regions #Japan & APAC #Hang Seng Index #Impact bearish #CSI300
-
-MSCI Asia Pacific ex-Japan index falls more than 2%.
-
----
-
-### 2026-07-17 12:43:22  #其他
-
-【世界人工智慧大會期間國家發展改革委釋出2項重要成果】7月17日（週五），2026世界人工智慧大會暨人工智慧全球治理高階別會議在上海召開。會上，國家發展改革委會同有關部門共同釋出了《人工智慧合作發展行動計劃》《中國智·惠世界（2026）》案例集兩項成果。
-
----
-
-### 2026-07-17 12:42:34  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #Hang Seng Index
-
-【NDRC unveils AI cooperation action plan and international casebook at World AI Conference】At the 2026 World Artificial Intelligence Conference in Shanghai, the National Development and Reform Commission (NDRC) and other agencies released two outputs: the Artificial Intelligence Cooperation Development Action Plan and the China Smart·Benefits the World (2026) casebook. The Action Plan, framed to implement Xi’s directive that AI be treated as an international public good, sets eight priority actions spanning data, compute, ecosystem, deployment, talent, rules, governance and ethics: high‑quality data supply, democratized/ubiquitous compute, open‑source ecosystem sharing, deep sectoral AI enablement, joint cultivation of digital‑intelligence talent, co‑development of rules and standards, collaborative security governance, and promoting AI for good. The NDRC says the plan responds to UN calls for strengthened international AI cooperation, narrowing the digital divide and using AI for sustainable development. The China Smart·Benefits the World (2026) casebook, the NDRC’s third annual edition, compiles 10 international AI cooperation projects; it reports broader country coverage, richer “AI+” application scenarios and an increased emphasis on people‑centered, benevolent AI, presenting China’s contributions to global AI development.
-
----
-
-### 2026-07-17 12:40:51  #MKT News #Important #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish
-
-Japan's Nikkei 225 fell 6%, sliding below 63,000 points to its lowest level since June 11.
-
----
-
-### 2026-07-17 12:40:32  #市場
-
-日經225指數下跌6%。
-
----
-
-### 2026-07-17 12:40:18  #MKT News #Market Regions #Emerging Markets
-
-Reserve Bank of India governor said bank credit growth is quite satisfactory.
-
----
-
-### 2026-07-17 12:39:45  #央行 #國際
-
-印度央行：通脹高企是由於供給側因素所致。
-
----
-
-### 2026-07-17 12:39:29  #央行 #國際
-
-印度央行行長：銀行信貸增速相當令人滿意。
-
----
-
-### 2026-07-17 12:38:41  #宏觀 #焦點
-
-國家發改委釋出人工智慧合作發展行動計劃。（國家發改委）
-
----
-
-### 2026-07-17 12:38:18  #MKT News #Important #Market Themes #AI Revolution #Market Regions #Greater China #CNH #Impact bullish #Hang Seng Index #CSI300
-
-China State Planner issues action plan for collaborative development of artificial intelligence.
-
----
-
-### 2026-07-17 12:37:51  #市場
-
-【機構上調臺積電目標價】D.A. Davidson將臺積電目標價從450美元上調至500美元，TD Cowen將臺積電目標股價從400美元上調至440美元。臺積電早盤一度跌逾3%，臺股早盤一度崩跌逾4%失守44,000點整數關卡，分析師認為，主要受臺積電投資人說明會(法說會)後股價大幅回檔拖累，在臺積電領跌下，市場賣壓帶動AI(人工智慧)板塊重挫，使得指數跌幅一度擴大至超4%。
-
----
-
-### 2026-07-17 12:35:18  #Trading Economics #Markets #India #Stock Market #Importance 1
-
-Sensex Rises on Tech Optimism — India’s BSE Sensex rose about 0.8% to 77,778 on Friday, rebounding from the previous session’s subdued performance, as information technology stocks gained after Tech Mahindra reported stronger-than-expected quarterly revenue. Investors also looked ahead to earnings from heavyweight companies, including Reliance Industries, HDFC Bank, and ICICI Bank, with Indian equities remaining range-bound in recent weeks. Among corporate updates, Wipro reported quarterly earnings that missed estimates, while Jio Financial Services more than doubled its June-quarter profit, whereas tyre maker CEAT and dairy company Heritage Foods both disappointed on earnings. Global cues also remained mixed, with Brent crude hovering near $85 a barrel amid renewed geopolitical tensions in the Middle East. Among individual stocks, top gainers included Laser Power (10.0%), Jio Financial (4.1%), 360 One (3.8%), and Billionbrains (2.7%). On a weekly basis, the benchmark index is up just 0.28% so far.
-
----
-
-### 2026-07-17 12:35:10  #MKT News #Important #Market Themes #Chip Wars #TSM.N #Impact bullish
-
-TD Cowen raises TSMC (TSM.N) PT to $440 from $400.
-
----
-
-### 2026-07-17 12:35:08  #市場
-
-日經225指數跌破 63000 點，為 6 月 11 日以來首次。
-
----
-
-### 2026-07-17 12:34:35  #市場 #國際
-
-歐洲斯托克50指數期貨下跌1.1%，德國DAX指數期貨下滑0.9%，富時指數期貨下挫0.4%。
-
----
-
-### 2026-07-17 12:34:02  #Trading Economics #Economy #Malaysia #Food Inflation #Importance 1
-
-Malaysia Food Inflation Stays at 4-Month High — Food prices in Malaysia rose 1.4% year-on-year in June 2026, matching May's pace and remaining at the steepest pace in four months. Prices continued to increase for food at home (0.5% vs 0.3% in May), cereals & cereal products (0.2% vs 0.1%), meat (1.5% vs 0.2%), fish & other seafood (1.4% vs 1.6%), oils & fats (0.2% vs flat reading), fruits & nuts (1.0% vs 1.4%), sugar, confectionary & desserts (0.5% vs 0.5%), and food away from home (2.4% vs 2.5%). Meanwhile, cost of milk, other dairy products & eggs edged up 0.1%, reversing a 0.8% decline in May.
-
----
-
-### 2026-07-17 12:34:01  #MKT News #S&P500 #Impact bearish #Nasdaq100
-
-S&P 500 futures down 0.85%, Nasdaq futures down 1.45%.
-
----
-
-### 2026-07-17 12:33:48  #市場
-
-標普500指數期貨跌幅擴大至0.85%，納斯達克指數期貨下跌1.45%。
-
----
-
-### 2026-07-17 12:33:16  #觀點
-
-【新易盛據悉提交融資不超過50億美元的香港上市申請】據媒體援引知情人士透露，中國光模組製造商新易盛已經以保密形式提交在香港上市的申請。一些知情人士稱，新易盛或透過在香港發行股票籌集40億至50億美元。知情人士透露，摩根士丹利也加入了安排此次發行交易的銀行之列。媒體4月份曾報道，新易盛正與中信證券和摩根大通合作籌備香港上市事宜。
-
----
-
-### 2026-07-17 12:32:53  #MKT News #Brent #Impact bullish #XAUUSD
-
-【IRGC claims 'many' US troops killed in strike on Al Tanf, warns on Strait of Hormuz】Iran's Islamic Revolutionary Guard Corps (IRGC) said it struck the US special-operations command center at Al Tanf in southern Syria, killing "many" US troops and destroying a radar system and several special-operations helicopters. The IRGC said the attack was retaliation for a US airstrike on Iranshahr and part of the 11th phase of the Nasr-2 operation. It warned the Strait of Hormuz remains under its control and that, while US "aggression" continues, no oil or gas will be allowed to be exported.
-
----
-
-### 2026-07-17 12:32:16  #公司
-
-傑富瑞：啟動追蹤覆蓋明晟公司，給予買入評級，目標價760美元；啟動覆蓋穆迪公司，給予買入評級，目標價610美元；將標普全球公司目標價從535美元上調至550美元。
-
----
-
-### 2026-07-17 12:30:00  #國際
-
-伊朗革命衛隊：我們的部隊仍然控制著霍爾木茲海峽。
-
----
-
-### 2026-07-17 12:29:20  #公司
-
-傑富瑞將 華納音樂集團  目標價從40美元下調至36美元。
-
----
-
-### 2026-07-17 12:28:34  #國際
-
-據伊朗Press TV：作為對美國軍事侵略的回應，伊斯蘭革命衛隊航空航天部隊在“納斯爾行動”第十一波次中，對敘利亞Al-Tanf地區的敵方特種作戰指揮中心發動了突然襲擊。此次襲擊摧毀了一套雷達系統及數架特種作戰直升機，並造成大量美軍人員傷亡。
-
----
-
-### 2026-07-17 12:26:15  #公司
-
-【華潤集團：監測發現社交平臺上存在不實招聘資訊，提醒求職者加強風險防範意識】7月17日，華潤（集團）有限公司釋出宣告稱，近期監測發現，有第三方機構或個人以“就業指導規劃”“資訊資料來源於華潤官網”“關注即內推”“留言可分享報名入口”“提前預定暑假實習”等話術，在微信影片號、小紅書及抖音等社交媒體平臺上釋出不實招聘資訊。公司的招聘、面試以及入職培訓等相關活動，不會以任何名目嚮應聘者收取任何費用，更不會以任何理由索要銀行卡密碼、驗證碼等涉及個人財產安全的資訊。請廣大求職者加強風險防範意識，請認準並透過公司官方渠道瞭解招聘資訊、參加相關招聘活動，謹防上當受騙。
-
----
-
-### 2026-07-17 12:26:12  #MKT News #NFLX.O #Impact bearish
-
-Jefferies cuts Netflix (NFLX.O) PT to $90 from $110.
-
----
-
-### 2026-07-17 12:25:50  #公司
-
-傑富瑞將 奈飛公司  目標價從110美元下調至90美元。
-
----
-
-### 2026-07-17 12:25:37  #公司
-
-【智譜ARR已達10億美元】記者獲悉，截至2026年7月，智譜ARR（年度經常性收入）規模已達10億美元。僅今年1至7月，公司ARR同比增幅高達15倍。截至發稿，智譜尚未就上述資料予以回應。
 
 ---
