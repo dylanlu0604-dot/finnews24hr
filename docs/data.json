@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-19 13:14:34",
-  "count": 18980,
+  "updated": "2026-07-19 13:18:33",
+  "count": 18981,
   "items": [
+    {
+      "id": "mkt:019f78cd-db6d-7aab-8df5-25a1b2007f40",
+      "time": "2026-07-19 13:16:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reported a magnitude-4 aftershock in the Sarband area of Iran's Khuzestan province at a depth of 8 km."
+    },
     {
       "id": "4995856",
       "time": "2026-07-19 13:13:30",
