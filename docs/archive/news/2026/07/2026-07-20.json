@@ -1,7 +1,39 @@
 {
   "date": "2026-07-20",
-  "count": 13,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:019f7b37-5f6e-7aab-8df9-abf6d2360292",
+      "time": "2026-07-20 00:30:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reported President Aoun told US Secretary of State Rubio Washington should strengthen support for the Lebanese army and military institutions. Rubio said Lebanon must not be treated as a subsidiary issue of other negotiations and that Lebanon’s sovereignty can only be decided and upheld by its constitutional institutions."
+    },
+    {
+      "id": "4996211",
+      "time": "2026-07-20 00:29:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：伊朗打擊美軍基地一舉重塑地區安全格局】伊朗外長阿拉格齊表示，伊朗針對地區內美軍基地發起的報復性軍事打擊，從根本上重塑了區域安全格局。阿拉格齊於週日一檔電視訪談中，詳述了伊美談判、自2月末爆發的美以挑起的衝突，以及伊朗針對侵略行為採取的反制舉措。他稱，地區各國此前並未料到，伊朗會在整片區域多點發起打擊，而各方卻無力做出有效回擊。他補充道：“地區各方原本不相信我們能全域出擊，更沒想到他們無從反擊。這一重大事態徹底改寫了地區安全架構。”"
+    },
+    {
+      "id": "mkt:019f7b36-0267-7aab-8df9-a2d41217ce27",
+      "time": "2026-07-20 00:29:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NYT: FBI told agents it will stop probing clashes involving immigration officers】The New York Times, citing people familiar with the matter, reported the FBI has notified federal agents nationwide it will no longer investigate altercations involving immigration enforcement officers. Such probes have sometimes led to prosecutions of Department of Homeland Security officers in violent incidents; if put into effect, the change would significantly reduce oversight of immigration agents amid rising criticism of the Trump administration over deaths involving federal officers. Local FBI managers received written notice on Thursday, and ICE personnel in parts of the country received corresponding notice the same day. The Department of Justice and the Department of Homeland Security issued a joint statement denying they are moving forward with the change."
+    },
+    {
+      "id": "4996210",
+      "time": "2026-07-20 00:28:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊表示，伊朗對美軍基地的打擊重塑了地區安全格局。"
+    },
     {
       "id": "4996209",
       "time": "2026-07-20 00:27:57",
