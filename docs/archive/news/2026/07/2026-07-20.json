@@ -1,7 +1,39 @@
 {
   "date": "2026-07-20",
-  "count": 95,
+  "count": 99,
   "items": [
+    {
+      "id": "4996266",
+      "time": "2026-07-20 03:14:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：一名駐伊拉克北部軍人於7月18日在行動中陣亡。"
+    },
+    {
+      "id": "4996265",
+      "time": "2026-07-20 03:13:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "美軍中央司令部：軍方人員發現不明身份遺體殘骸。"
+    },
+    {
+      "id": "mkt:019f7bcc-06fa-7aab-8dfa-85df0ec2d813",
+      "time": "2026-07-20 03:13:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said a U.S. service member died on July 18 in northern Iraq during a combat mission while conducting a controlled detonation of an unexploded munition left by a downed Iranian one-way attack drone. A second U.S. service member was wounded in the incident."
+    },
+    {
+      "id": "4996264",
+      "time": "2026-07-20 03:12:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "週一悉尼盤初，美元兌日元報價大致持平，窄幅震盪於162.38-162.43日元。歐元兌美元跌0.06%，至1.1431；英鎊兌美元持平於1.3453。商品貨幣對中，澳元兌美元跌0.2%，至0.6970下方；紐元兌美元跌0.13%，至0.5835下方；美元兌加元跌0.06%，至1.4013下方。"
+    },
     {
       "id": "mkt:019f7bc3-b78f-7aab-8dfa-7b848e94df90",
       "time": "2026-07-20 03:04:11",
