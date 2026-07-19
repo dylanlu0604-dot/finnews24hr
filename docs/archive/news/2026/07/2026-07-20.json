@@ -1,7 +1,20 @@
 {
   "date": "2026-07-20",
-  "count": 2,
+  "count": 3,
   "items": [
+    {
+      "id": "mkt:019f7b21-f0e7-7aab-8df9-700859926184",
+      "time": "2026-07-20 00:07:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【FT: Incoming UK PM Burnham to retain ban on new North Sea exploration licences】The FT reports incoming UK prime minister Burnham will uphold Labour’s pledge to stop issuing new North Sea exploration licences, dashing industry hopes for a significant reversal of fossil-fuel policy. Labour deputy leader Lucy Powell said on Sunday Burnham will not overturn the manifesto commitment; an industry source warned the sector would be highly discontent if the ban remains. Recent reports that Burnham might pivot to a pro‑drilling North Sea strategy now appear unlikely."
+    },
     {
       "id": "mkt:019f7b1f-92ba-7aab-8df9-6edc8c9f2954",
       "time": "2026-07-20 00:04:54",

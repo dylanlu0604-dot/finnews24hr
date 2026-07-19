@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-20 00:08:07",
-  "count": 18994,
+  "updated": "2026-07-20 00:12:17",
+  "count": 18992,
   "items": [
+    {
+      "id": "mkt:019f7b21-f0e7-7aab-8df9-700859926184",
+      "time": "2026-07-20 00:07:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【FT: Incoming UK PM Burnham to retain ban on new North Sea exploration licences】The FT reports incoming UK prime minister Burnham will uphold Labour’s pledge to stop issuing new North Sea exploration licences, dashing industry hopes for a significant reversal of fossil-fuel policy. Labour deputy leader Lucy Powell said on Sunday Burnham will not overturn the manifesto commitment; an industry source warned the sector would be highly discontent if the ban remains. Recent reports that Burnham might pivot to a pro‑drilling North Sea strategy now appear unlikely."
+    },
     {
       "id": "mkt:019f7b1f-92ba-7aab-8df9-6edc8c9f2954",
       "time": "2026-07-20 00:04:54",
@@ -175221,37 +175234,6 @@
         "焦點"
       ],
       "text": "【郭涵煜/姆拉德諾維奇奪得2026年溫網女雙冠軍】2026年溫布林登網球錦標賽12日迎來女雙決賽，28歲的中國選手郭涵煜搭檔法國選手姆拉德諾維奇以6:3、7:5擊敗達布勞斯基/史蒂芬妮。郭涵煜職業生涯首次奪得大滿貫賽事女雙冠軍，姆拉德諾維奇則收穫職業生涯第七個大滿貫女雙冠軍。這也是中國網協選手第三次在溫布林登球場捧起女雙大滿貫獎盃。"
-    },
-    {
-      "id": "mkt:019f5717-54d8-7aab-8d46-103c2c7a5bc8",
-      "time": "2026-07-13 00:09:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "The Israel Defense Forces said it struck and destroyed a Hamas weapons-production facility in northern Gaza City in the Gaza Strip."
-    },
-    {
-      "id": "4983003",
-      "time": "2026-07-13 00:09:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍：以軍空襲加沙城一處哈馬斯武裝分子的武器製造據點。"
-    },
-    {
-      "id": "mkt:019f5716-ded2-7aab-8d46-0a4c80c21bea",
-      "time": "2026-07-13 00:09:04",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Qatar says it will hold Iran legally responsible for attacks】Al Jazeera reported Iran struck Qatar and five other states today — Oman, Bahrain, Kuwait, Jordan and the UAE — and claimed it hit US military targets in those countries; the governments have not formally confirmed the claims. Qatar's foreign ministry called the strike a blatant violation of its sovereignty and international law and said Iran should bear legal responsibility for the aggression and its consequences. Oman earlier summoned Iran's ambassador to protest."
     }
   ]
 }
