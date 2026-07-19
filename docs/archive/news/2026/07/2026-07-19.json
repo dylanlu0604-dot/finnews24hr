@@ -1,7 +1,27 @@
 {
   "date": "2026-07-19",
-  "count": 255,
+  "count": 257,
   "items": [
+    {
+      "id": "mkt:019f781c-58f0-7aab-8df4-1e0facb56c05",
+      "time": "2026-07-19 10:02:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US media: US-Iran tensions intensify; Pentagon ramps up F-16, F-35 deployments to Middle East】Air & Space Forces Magazine and the Wall Street Journal, citing sources on the 17th, report the Pentagon is accelerating deployments of F-16 and F-35 combat jets to the Middle East amid rising US‑Iran tensions. Aircraft identified include F-16s from the USAF 480th Fighter Squadron at Spangdahlem Air Base (Germany) and F-35s from the USAF 48th Fighter Wing at RAF Lakenheath (UK). Multiple aerial refuelling tankers are also reported en route. Air & Space Forces Magazine said the buildup indicates a risk the conflict could expand as the Trump administration presses Iran to agree to another deal."
+    },
+    {
+      "id": "4995779",
+      "time": "2026-07-19 10:02:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "基輔市長：（爆炸）事件造成 7 人受傷，其中 6 人送醫救治、1 人現場處置，另有 5 人從受損建築中獲救。"
+    },
     {
       "id": "4995778",
       "time": "2026-07-19 10:00:31",
