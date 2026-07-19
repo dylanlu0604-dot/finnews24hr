@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-20 00:08:07_
-_本檔包含 3531 則快訊，約 718660 字_
+_更新時間：2026-07-20 01:10:59_
+_本檔包含 3530 則快訊，約 718699 字_
+
+---
+
+### 2026-07-20 01:07:42  #國際
+
+【特朗普動向不明 以色列警惕與伊朗衝突擴大】以色列官員稱，受美國後續動向不明影響，以伊衝突升級風險上升，並就此發出警示。一名以色列高層訊息人士表示，特朗普下一步行動難以預判，美方存在擴大對伊朗打擊範圍的可能性；與此同時，其特使據稱正推進重啟談判的相關工作。以色列方面稱已針對各類局勢做好全面應對準備。
+
+---
+
+### 2026-07-20 01:07:06  #國際
+
+以色列總理內塔尼亞胡辦公室痛批國際刑事法院逮捕令，稱該法院“不具備合法地位”。
+
+---
+
+### 2026-07-20 01:06:16  #MKT News #Important
+
+Saudi outlet Alhadath, citing sources, reports a high-level Iranian delegation is due in Islamabad tomorrow for a two-day visit.
+
+---
+
+### 2026-07-20 01:04:14  #國際
+
+卡達提出一項為期10天的停火方案：美國停止對伊朗實施打擊，伊朗則開放霍爾木茲海峽兩條航運通道；西方官員質疑美國不會接受該條款。
+
+---
+
+### 2026-07-20 01:03:51  #其他
+
+伊拉克媒體：伊拉克總理將於本週末訪問德黑蘭。
+
+---
+
+### 2026-07-20 01:03:46  #MKT News #Important
+
+Iraq's state news agency reported that the Iraqi prime minister will visit Tehran this weekend.
+
+---
+
+### 2026-07-20 01:03:12  #MKT News
+
+Al Arabiya, citing sources, reports Iran's interior minister will meet Pakistan's leadership in Islamabad tomorrow.
+
+---
+
+### 2026-07-20 00:57:55  #MKT News #XAUUSD #Impact bullish #Brent #WTI
+
+TASNIM News reported Iran said a US-launched cruise missile was intercepted and destroyed by Iranian air defences in western Iran several hours earlier.
+
+---
+
+### 2026-07-20 00:54:59  #MKT News #BA.N #Impact bullish #LMT.N
+
+【Boeing expands PAC-3 guidance-head capacity to help replenish US air-defence interceptors】Boeing (BA.N) increased PAC-3 interceptor guidance-head production about 30% last year to 650 units and plans a similar rise this year, targeting 850 sets, Boeing Defense CEO Steve Parker said. Last year’s output is roughly comparable to Lockheed Martin’s (LMT.N) planned PAC-3 missile production in 2026. A framework agreement signed this year is expected to boost related output to about 2,000 interceptors per year by 2030. Demand rose after Iran launched ballistic missiles at multiple regional targets, prompting US and allied forces to expend thousands of PAC-3 interceptors.
+
+---
+
+### 2026-07-20 00:53:49  #其他
+
+阿曼與約旦兩國外長強調，必須加大外交斡旋力度，阻止局勢持續升級。
+
+---
+
+### 2026-07-20 00:53:41  #國際
+
+阿曼與約旦外交部長警告，謹防地區局勢滑向更多衝突。
+
+---
+
+### 2026-07-20 00:51:29  #國際
+
+伊朗原子能組織呼籲立即譴責美國的侵略行為。
+
+---
+
+### 2026-07-20 00:50:57  #MKT News
+
+According to Al Jazeera, the foreign ministers of Oman and Jordan called for intensified political mediation to prevent escalation and warned the region could slide into further confrontation.
+
+---
+
+### 2026-07-20 00:47:03  #MKT News
+
+Kuwait condemned Iran's attack on a power and seawater desalination facility and said Iran should bear full responsibility for attacks on civilian infrastructure, the Kuwait News Agency reported.
+
+---
+
+### 2026-07-20 00:46:53  #國際
+
+科威特稱伊朗對襲擊民用基礎設施負有全部責任。
+
+---
+
+### 2026-07-20 00:46:48  #國際
+
+科威特譴責伊朗對電力和海水淡化設施的襲擊。
+
+---
+
+### 2026-07-20 00:45:07  #公司 #國際
+
+【波音加速生產關鍵攔截彈導引頭】為充實核心防空攔截彈儲備，美國加速補庫，波音公司去年PAC-3導彈導引頭產能提升30%，今年計劃再度實現同等幅度增產。波音防務部門執行長史蒂夫·帕克表示，公司去年生產了650套導引頭，該產量與洛克希德·馬丁2026年導彈計劃產能持平；波音今年的導引頭生產目標為850套。此前伊朗向區域多地發射彈道導彈，美國及其盟友在衝突中消耗了數千枚該型攔截彈。波音今年簽署多份框架協議，目標在2030年前將導引頭年產量暴漲至2000套。當地時間週日，帕克在範堡羅國際航展前瞻簡報會上稱：“這是國家交給我們的任務。我們準備充分，正與客戶緊密協作。”
+
+---
+
+### 2026-07-20 00:43:14  #國際
+
+伊朗議會議防委員會主席：不應歪曲解讀官員的行事，不能把忠心為國者塑造成叛徒，也不能將叛徒美化成忠臣。
+
+---
+
+### 2026-07-20 00:43:03  #國際
+
+伊朗議會議防委員會主席：伊朗已做好充分戰備，高層官員在國防安全議題上立場統一、不存在分歧；最高領袖穆傑塔巴的指示是最終定論。
+
+---
+
+### 2026-07-20 00:42:31  #國際
+
+約旦召見伊朗使節，就襲擊事件發出警告，稱王國的安全與主權是“紅線”。
+
+---
+
+### 2026-07-20 00:41:55  #公司 #國際
+
+三星美國總部遷往得州，新澤西739個崗位受此次搬遷調整波及。
+
+---
+
+### 2026-07-20 00:41:46  #MKT News
+
+Saudi outlet Alhadath, citing Lebanese officials, reports President Aoun and US Secretary of State Rubio agreed on a full Israeli withdrawal from southern Lebanon.
+
+---
+
+### 2026-07-20 00:40:07  #國際
+
+【伊朗導彈擊中約旦美軍基地瞬間】美聯社7月19日釋出一段影片畫面，據信內容為當地時間7月18日凌晨伊朗導彈擊中約旦一處美軍基地的瞬間。影片中，導彈擊中一處建築後火光四濺，有人用英語大喊“快撤”。據美軍中央司令部訊息，這次襲擊造成美軍2人死亡、1人失蹤，多人受傷，其中4人需住院治療。 伊朗伊斯蘭革命衛隊稱，為回應美軍襲擊，7月18日對位於約旦阿茲拉克的穆沃費格薩勒提空軍基地的戰機掩體和大型停機坪發動導彈和無人機打擊，“摧毀至少2架戰鬥機和3架其他飛行器，並嚴重損毀若干飛行器”。（CCTV國際時訊）
+
+---
+
+### 2026-07-20 00:40:05  #MKT News
+
+【Jordan summons Iran's chargé in Amman over ongoing attacks】Jordan's foreign ministry said it summoned Iran's chargé d'affaires in Amman and delivered a formal protest note over Iran's continued attacks on Jordanian territory and provocative statements by Iranian official bodies. A ministry spokesman said Jordan asked the chargé to convey a clear message to Tehran to immediately halt the attacks and cease the unacceptable incendiary rhetoric.
+
+---
+
+### 2026-07-20 00:37:45  #國際
+
+伊朗軍方：防空系統在西部擊落一架MQ-9型敵方無人機。
+
+---
+
+### 2026-07-20 00:37:41  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iranian military said air-defence units shot down an enemy MQ-9 Reaper drone in western Iran.
+
+---
+
+### 2026-07-20 00:37:24  #國際
+
+以色列參謀長：以色列防空系統已進入高度戒備狀態，已做好應對伊朗方面任何局勢變化的準備。
+
+---
+
+### 2026-07-20 00:36:57  #焦點 #國際
+
+國際原子能機構迴避譴責美國打擊伊朗達爾霍溫核設施一事。
+
+---
+
+### 2026-07-20 00:34:39  #國際
+
+【黎巴嫩遇難者人數升至4328人】黎巴嫩衛生部在最新統計中宣佈，自以色列發動打擊以來，黎巴嫩遇難者人數已達4328人。
+
+---
+
+### 2026-07-20 00:32:26  #國際
+
+黎巴嫩總統府：總統奧恩在與魯比奧會晤期間，重申了在執行三方框架方面協調黎巴嫩和美國立場的必要性。
+
+---
+
+### 2026-07-20 00:30:54  #MKT News
+
+Saudi outlet Alhadath reported President Aoun told US Secretary of State Rubio Washington should strengthen support for the Lebanese army and military institutions. Rubio said Lebanon must not be treated as a subsidiary issue of other negotiations and that Lebanon’s sovereignty can only be decided and upheld by its constitutional institutions.
+
+---
+
+### 2026-07-20 00:29:49  #國際
+
+【伊朗外長：伊朗打擊美軍基地一舉重塑地區安全格局】伊朗外長阿拉格齊表示，伊朗針對地區內美軍基地發起的報復性軍事打擊，從根本上重塑了區域安全格局。阿拉格齊於週日一檔電視訪談中，詳述了伊美談判、自2月末爆發的美以挑起的衝突，以及伊朗針對侵略行為採取的反制舉措。他稱，地區各國此前並未料到，伊朗會在整片區域多點發起打擊，而各方卻無力做出有效回擊。他補充道：“地區各方原本不相信我們能全域出擊，更沒想到他們無從反擊。這一重大事態徹底改寫了地區安全架構。”
+
+---
+
+### 2026-07-20 00:29:24  #MKT News
+
+【NYT: FBI told agents it will stop probing clashes involving immigration officers】The New York Times, citing people familiar with the matter, reported the FBI has notified federal agents nationwide it will no longer investigate altercations involving immigration enforcement officers. Such probes have sometimes led to prosecutions of Department of Homeland Security officers in violent incidents; if put into effect, the change would significantly reduce oversight of immigration agents amid rising criticism of the Trump administration over deaths involving federal officers. Local FBI managers received written notice on Thursday, and ICE personnel in parts of the country received corresponding notice the same day. The Department of Justice and the Department of Homeland Security issued a joint statement denying they are moving forward with the change.
+
+---
+
+### 2026-07-20 00:28:37  #國際
+
+伊朗外長阿拉格齊表示，伊朗對美軍基地的打擊重塑了地區安全格局。
+
+---
+
+### 2026-07-20 00:27:57  #國際
+
+伊朗革命衛隊在南部作戰區擊落一架敵對的間諜無人機，並完整繳獲。
+
+---
+
+### 2026-07-20 00:25:29  #MKT News
+
+The Israel Defense Forces said the Israeli Air Force recently intercepted a drone near the Israel-Syria border. The origin of the launch is under investigation and no air-defense alerts were activated.
+
+---
+
+### 2026-07-20 00:25:12  #國際
+
+以色列國防軍：以方在以敘邊境區域攔截一架無人機。
+
+---
+
+### 2026-07-20 00:22:32  #MKT News #XAUUSD #Impact bullish #DXY #Brent
+
+Saudi outlet Alhadath cites the Israel Defense Forces chief of staff saying the IDF has observed attacks targeting Jordan's Aqaba region and Israel's air-defence systems are on high alert.
+
+---
+
+### 2026-07-20 00:21:52  #國際
+
+美國邊境事務主管稱，移民與海關執法局官員在攔停車輛期間必須佩戴隨身執法記錄儀。
+
+---
+
+### 2026-07-20 00:18:41  #MKT News #XAUUSD #Impact bullish #Brent #DXY
+
+According to Israel's Channel 14, the IDF chief of staff said the military is maintaining the highest alert level and is prepared to return to combat at any time.
+
+---
+
+### 2026-07-20 00:17:25  #MKT News #BA.N #Impact bullish #AER.N
+
+Market sources say aircraft lessor AerCap is in talks with Boeing to buy 787 Dreamliners at the Farnborough Airshow in the UK.
+
+---
+
+### 2026-07-20 00:17:17  #公司
+
+【航空租賃公司AerCap將在英國航展洽談採購波音787夢想客機】知情人士透露，全球飛機租賃巨頭AerCap控股公司正洽談採購波音787夢想客機，這筆交易有望成為即將開幕的範堡羅國際航展上租賃企業大單中的一筆。這家全球規模最大的飛機租賃公司考慮採購至多15架波音這款美製寬體客機。相關談判尚處保密階段。交易尚未敲定，條款存在變動可能，雙方也有可能洽談無果、無法達成協議。本屆行業年度航展將於週一在倫敦郊外舉辦，各大全球頭部航空融資企業的購機訂單，或將成為本次航展簽約交易的核心板塊。
+
+---
+
+### 2026-07-20 00:16:12  #公司
+
+航空租賃公司AerCap正於英國航展洽談採購波音787夢想客機。
+
+---
+
+### 2026-07-20 00:15:14  #MKT News
+
+Lebanon's National News Agency reported Israeli forces dropped a blast bomb on the southern town of Harris and shelled the nearby towns of Shamaa, Majdal Zoun and Beit Sayyed.
+
+---
+
+### 2026-07-20 00:07:29  #MKT News #Market Regions #Europe & UK #Brent #Impact bullish #WTI
+
+【FT: Incoming UK PM Burnham to retain ban on new North Sea exploration licences】The FT reports incoming UK prime minister Burnham will uphold Labour’s pledge to stop issuing new North Sea exploration licences, dashing industry hopes for a significant reversal of fossil-fuel policy. Labour deputy leader Lucy Powell said on Sunday Burnham will not overturn the manifesto commitment; an industry source warned the sector would be highly discontent if the ban remains. Recent reports that Burnham might pivot to a pro‑drilling North Sea strategy now appear unlikely.
 
 ---
 
@@ -21088,281 +21358,5 @@ Russian Defence Ministry said Russian forces struck infrastructure in Odesa and 
 ### 2026-07-17 14:18:20  #MKT News #Important #Market Regions #Greater China #510300.SH #Impact bullish
 
 【Huatai-PineBridge CSI 300 ETF reclaims largest single-ETF spot】Huatai-PineBridge CSI 300 ETF regained the largest single-ETF position in China with assets of about 93.5 bln yuan, overtaking Yinhua Rili A (just over 90 bln yuan). Huaan Gold ETF is third at roughly 87.21 bln yuan.
-
----
-
-### 2026-07-17 14:18:19  #公司 #市場
-
-【晶片產業鏈區域性回暖 有研矽漲超10%】午後晶片產業鏈區域性回暖，有研矽漲超10%，長電科技直線拉昇一度漲超8%，華虹宏力、拓荊科技、燕東微、中微公司等衝高。
-
----
-
-### 2026-07-17 14:18:17  #市場
-
-【華泰柏瑞滬深300ETF規模重回市場第一】資料顯示，全市場單隻規模最大的ETF再次“易主”，華泰柏瑞滬深300ETF以逾935億元的規模重回市場第一，超過了銀華日利A。後者目前排名第二，規模900億元出頭。緊跟其後的，是此前一度逆勢位居第一的華安黃金ETF，目前規模為872.12億元。
-
----
-
-### 2026-07-17 14:17:29
-
-A股三大指數觸底回升，創業板指跌幅收窄至4％以內，此前一度跌逾8％。
-
----
-
-### 2026-07-17 14:17:08  #MKT News #Macro & Rates #US Economy #VOLV-B.ST #Impact bearish #S&P500 #Impact mixed #DXY
-
-Volvo Cars' chief commercial officer said the US market shows some signs of recovery but faces headwinds from high tariffs and shifting electric-vehicle regulations.
-
----
-
-### 2026-07-17 14:17:03  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Saudi Arabian television reported Iran said US military strikes since June 22 have killed 38 people and wounded 400.
-
----
-
-### 2026-07-17 14:16:53  #公司 #國際
-
-沃爾沃汽車首席商務官談美國市場：我們確實看到一些復甦的積極跡象，但市場形勢嚴峻，面臨高額關稅和電動汽車法規變動。
-
----
-
-### 2026-07-17 14:15:57  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
-
-Pound Holds Weekly Gain as Burnham Nears Leadership — The British pound eased to around $1.346 after reaching a two-month high of $1.354 earlier in the week, but remained on track for a weekly gain against the US dollar. Markets have largely priced in Andy Burnham’s expected confirmation as Labour leader today, with attention now turning to his choice of Chancellor. Reports that Mahmood is the leading candidate have reassured investors and eased concerns over a more expansionary fiscal approach under Ed Miliband. Meanwhile, rising tensions in the Middle East have pushed oil prices to one-month highs, reinforcing expectations that the Bank of England will continue tightening monetary policy. Markets now fully price in a rate hike in November, with another increase expected by March 2027. UK GDP rose 0.1% in May after a 0.1% contraction in April, while growth over the three months to May reached 0.7%, beating forecasts of 0.5%.
-
----
-
-### 2026-07-17 14:15:06  #其他
-
-【四川省正式啟動跨境貿易高水平開放試點 首日業務順利落地】近期，中國人民銀行四川省分行、國家外匯管理局四川省分局批覆同意四川省內19家銀行業金融機構取得跨境貿易高水平開放試點業務資格，正式在全省範圍內啟動跨境貿易高水平開放試點工作。此舉標誌著四川在推進外匯管理改革創新、提升跨境貿易便利化水平方面邁出關鍵一步，為外貿企業高質量發展注入新動能。（每經）
-
----
-
-### 2026-07-17 14:14:15  #其他
-
-【得物App WAIC 上展出首個AI鑑別機器人】7月16日訊息，在世界人工智慧大會首日，得物App聯合千覺機器人制造的AI鑑別機器人展出。鑑別機器人的機械臂抓取運動鞋；高畫質攝像頭對鞋面、中底、鞋墊、配件及鞋盒進行資料採集。影象識別技術抓取商品細節，並實時回傳給“AI大腦”進行畫素級比對。5秒後，一份鑑別報告便自動生成。
-
----
-
-### 2026-07-17 14:13:46  #國際
-
-【美國紐約直升機墜河事件最新調查：有鳥類撞擊痕跡】美國紐約一架觀光直升機去年4月墜入哈德遜河，致6人遇難。調查人員當地時間7月16日說，在直升機多個部位發現了多隻大雁的殘骸，表明該直升機曾遭鳥類撞擊。（央視新聞）
-
----
-
-### 2026-07-17 14:13:33  #國際
-
-【“熱穹頂”現象致美國多州創下高溫新紀錄】美國航空航天局15日釋出分析報告稱，受“熱穹頂”天氣系統影響，近日美國多個州重新整理歷史最高氣溫紀錄，部分地區最高氣溫超過了46攝氏度。(新華社)
-
----
-
-### 2026-07-17 14:13:08  #市場
-
-澳大利亞S&P/ASX 200指數收盤下跌0.5%，報8796.70點。
-
----
-
-### 2026-07-17 14:12:51  #公司
-
-標普將軟銀集團的展望評級上調至穩定。
-
----
-
-### 2026-07-17 14:11:50  #MKT News #Market Regions #Europe & UK #IFX.DE #Impact bearish #DAX
-
-German semiconductor stocks fell about 4% in early trade in Frankfurt.
-
----
-
-### 2026-07-17 14:11:49  #市場
-
-德國半導體類股在法蘭克福盤初交易中下跌約4%。
-
----
-
-### 2026-07-17 14:11:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Both sides face high costs from a protracted war; Iran unlikely to accept ceasefire without security guarantees】An Australian National University professor said Iran treats the conflict as existential and, despite economic strain and diplomatic pressure, is unlikely to accept a ceasefire unless it secures explicit guarantees for its safety. He noted Iran’s long experience under sanctions and domestic production capacity, and said Tehran is unlikely to show weakness or yield even after military attrition. U.S. media report Iran rapidly resumed drone production after the April ceasefire; some analysts say Tehran could replenish drone inventories within months. An International Crisis Group security expert warned the rapid consumption of key U.S. munitions, including Patriot interceptors and Tomahawk cruise missiles, is striking and raises concern for future contingencies with other great powers. Both sides therefore face pressure points that make a prolonged war costly, though the ANU professor said the U.S. is suffering greater reputational damage as global observers see limits to its ability to resolve the Iran issue.
-
----
-
-### 2026-07-17 14:10:47  #MKT News #Market Regions #Japan & APAC
-
-KATAYAMA, Japan's finance minister, said the government will seek to avoid creating market misunderstandings about the stance of fiscal and monetary policy.
-
----
-
-### 2026-07-17 14:10:34  #國際
-
-歐盟正在考慮將2036年後的排放量削減上限設定為每年1.7%。
-
----
-
-### 2026-07-17 14:10:21  #國際
-
-歐盟計劃在2031-2035年間將減排目標放緩至每年3.7%。
-
----
-
-### 2026-07-17 14:10:08  #A股
-
-A股三大股指短線回暖，上證綜指跌幅縮窄至2%以內，深證成指跌幅縮債至4%，創業板指現跌4.76%。
-
----
-
-### 2026-07-17 14:10:08  #MKT News #Market Regions #Japan & APAC
-
-KATAYAMA, Japan's finance minister, said the government is closely monitoring daily market moves and economic data and will work to steadily reduce Japan's debt-to-GDP ratio.
-
----
-
-### 2026-07-17 14:10:01  #MKT News #Important
-
-China's three major A-share indexes briefly recovered; the Shanghai Composite's decline narrowed to below 2%, the Shenzhen Composite's to about 4%, and the ChiNext Index was down 4.76%.
-
----
-
-### 2026-07-17 14:09:59  #MKT News
-
-Japan's finance minister Katayama said she will not comment on the exact wording of the forthcoming economic blueprint, which is currently being finalized with the ruling coalition.
-
----
-
-### 2026-07-17 14:09:58  #其他
-
-伊拉克庫爾德斯坦反恐部門稱，埃爾比勒上空有8架無人機被擊落，無人員傷亡報告。
-
----
-
-### 2026-07-17 14:09:32  #宏觀 #國際
-
-日本財務大臣片山：不會就即將出臺的經濟藍圖中具體措辭置評，該藍圖仍在與執政聯盟進行最終敲定。
-
----
-
-### 2026-07-17 14:08:56  #央行 #國際
-
-日本財務大臣片山：政府立場不變，具體貨幣政策應由日本央行決定。
-
----
-
-### 2026-07-17 14:08:23  #MKT News
-
-Japan's finance minister Katayama said monetary policy is decided by the Bank of Japan.
-
----
-
-### 2026-07-17 14:08:08  #央行 #國際
-
-日本財務大臣片山：利率變動由市場決定。貨幣政策由日本央行決定。
-
----
-
-### 2026-07-17 14:07:25  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said interest-rate movements should be decided by the market.
-
----
-
-### 2026-07-17 14:07:05  #其他
-
-【哈薩克總統中文稱讚上海】7月17日，哈薩克總統託卡耶夫在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上用中文表示，上海始終發揮著連線世界的重要作用。（中新網）
-
----
-
-### 2026-07-17 14:06:42  #其他
-
-高市早苗：目標是實現債務佔GDP比率的穩定下降。
-
----
-
-### 2026-07-17 14:06:02  #公司
-
-【丁磊卸任華人運通公司法定代表人】天眼查App顯示，近日，華人運通控股有限公司發生工商變更，丁磊卸任法定代表人，由執行董事改任董事，顧敬黃接任法定代表人，並擔任經理。該公司成立於2017年8月，註冊資本2.5億人民幣，經營範圍包括汽車零部件及配件製造、汽車零部件研發、軟體開發等，由善郅合（上海）商務諮詢有限公司、上海澤覺匯企業管理合夥企業（有限合夥）、李冠濱等共同持股。
-
----
-
-### 2026-07-17 14:05:50  #公司
-
-雅苒集團表示，第二季度未因地緣政治事件出現運營中斷，該事件也未對雅苒的合併業績產生重大影響。
-
----
-
-### 2026-07-17 14:05:43  #其他
-
-【魔法原子與阿里旗下跨境零售平臺速賣通達成獨家戰略合作】7月17日，魔法原子MagicLab與阿里巴巴旗下跨境零售平臺速賣通（AliExpress）共同宣佈達成獨家戰略合作。據悉，魔法原子正式加入速賣通“Brand+”超級品牌出海計劃，速賣通成為其國際化路徑上籤約的首家跨境電商平臺。
-
----
-
-### 2026-07-17 14:04:40  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
-
-Brent crude slid below $83/bbl, down 1.33% intraday; WTI fell more than 1.00% to $78.66/bbl.
-
----
-
-### 2026-07-17 14:04:12  #國際
-
-博柏利：第一季度歐洲、中東、非洲與印度地區可比零售銷售額下降3%，這反映出中東衝突持續影響以及遊客消費支出下滑。
-
----
-
-### 2026-07-17 14:04:04  #其他
-
-市場訊息：SHEIN獲香港上市委員會批准IPO。
-
----
-
-### 2026-07-17 14:03:35  #市場 #國際
-
-日本40年期國債收益率上升5.5個基點至3.88%。
-
----
-
-### 2026-07-17 14:02:46  #其他
-
-博柏利：仍需對地緣政治與宏觀經濟環境的不確定性及其對消費者信心的潛在影響保持警惕。
-
----
-
-### 2026-07-17 14:02:36  #市場 #國際
-
-日本30年期國債收益率上升6個基點至3.89%。
-
----
-
-### 2026-07-17 14:01:55  #市場
-
-新臺幣兌美元下跌0.3%至32.346。
-
----
-
-### 2026-07-17 14:01:45  #其他
-
-博柏利：預計2027財年重組費用約為500萬英鎊。
-
----
-
-### 2026-07-17 14:01:27  #市場 #國際
-
-【MSCI新興市場指數自高點回落10% 邁向技術性回撥】週五盤中，MSCI新興市場指數自牛市高點回落幅度擴大至10%，邁向技術性回撥。北京時間13:45，MSCI新興市場指數下跌2.7%至1619.39點。6月22日，該指數曾創收盤歷史新高1802.77點。收盤若跌至1622.49點或以下，則確認陷入回撥。
-
----
-
-### 2026-07-17 14:01:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
-
-Euro STOXX 50 futures fell 0.87%; DAX futures fell 0.66%; FTSE futures fell 0.37%.
-
----
-
-### 2026-07-17 13:56:10  #MKT News
-
-【Seoul mayor criticises government for allowing leveraged products to hit stock market】Yonhap reports Seoul Mayor Oh Se-hoon criticised the government for permitting leveraged derivatives that have driven extreme stock-market volatility and for President Lee’s 'active debt relief' proposal, urging prompt structural measures. He said the KOSPI has triggered temporary automated-trading restrictions 37 times so far this year, exceeding the 26 triggers recorded during the entire 2008 global financial crisis. Oh added the government approved single-stock leveraged products despite knowing their large risks and then stood by as retail investors’ assets evaporated, producing the current market turmoil.
-
----
-
-### 2026-07-17 13:56:05  #MKT News #Important #Market Regions #Greater China
-
-【Afternoon broad-based ETF volumes surge; three ETFs exceed CNY 10bn turnover】Afternoon turnover in broad-based China ETFs expanded sharply. E Fund ChiNext ETF (159915), ChinaAMC Sci‑Tech Innovation 50/STAR 50 ETF (588000) and Huatai‑PineBridge CSI 300 ETF (510300) each saw trading value top CNY 10bn. China Southern CSI 1000 ETF (512100), China Southern CSI 500 ETF (510500), Huatai‑PineBridge A500 ETF (563360), China Southern A500 ETF (159352) and HuaAn ChiNext 50 ETF (159949) have all already exceeded yesterday’s full-day turnover.
 
 ---

@@ -1,7 +1,283 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-20 00:08:07_
-_本檔包含 3867 則快訊，約 718249 字_
+_更新時間：2026-07-20 01:10:59_
+_本檔包含 3884 則快訊，約 719506 字_
+
+---
+
+### 2026-07-17 14:18:19  #公司 #市場
+
+【晶片產業鏈區域性回暖 有研矽漲超10%】午後晶片產業鏈區域性回暖，有研矽漲超10%，長電科技直線拉昇一度漲超8%，華虹宏力、拓荊科技、燕東微、中微公司等衝高。
+
+---
+
+### 2026-07-17 14:18:17  #市場
+
+【華泰柏瑞滬深300ETF規模重回市場第一】資料顯示，全市場單隻規模最大的ETF再次“易主”，華泰柏瑞滬深300ETF以逾935億元的規模重回市場第一，超過了銀華日利A。後者目前排名第二，規模900億元出頭。緊跟其後的，是此前一度逆勢位居第一的華安黃金ETF，目前規模為872.12億元。
+
+---
+
+### 2026-07-17 14:17:29
+
+A股三大指數觸底回升，創業板指跌幅收窄至4％以內，此前一度跌逾8％。
+
+---
+
+### 2026-07-17 14:17:08  #MKT News #Macro & Rates #US Economy #VOLV-B.ST #Impact bearish #S&P500 #Impact mixed #DXY
+
+Volvo Cars' chief commercial officer said the US market shows some signs of recovery but faces headwinds from high tariffs and shifting electric-vehicle regulations.
+
+---
+
+### 2026-07-17 14:17:03  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Saudi Arabian television reported Iran said US military strikes since June 22 have killed 38 people and wounded 400.
+
+---
+
+### 2026-07-17 14:16:53  #公司 #國際
+
+沃爾沃汽車首席商務官談美國市場：我們確實看到一些復甦的積極跡象，但市場形勢嚴峻，面臨高額關稅和電動汽車法規變動。
+
+---
+
+### 2026-07-17 14:15:57  #Trading Economics #Markets #United Kingdom #Currency #Importance 1
+
+Pound Holds Weekly Gain as Burnham Nears Leadership — The British pound eased to around $1.346 after reaching a two-month high of $1.354 earlier in the week, but remained on track for a weekly gain against the US dollar. Markets have largely priced in Andy Burnham’s expected confirmation as Labour leader today, with attention now turning to his choice of Chancellor. Reports that Mahmood is the leading candidate have reassured investors and eased concerns over a more expansionary fiscal approach under Ed Miliband. Meanwhile, rising tensions in the Middle East have pushed oil prices to one-month highs, reinforcing expectations that the Bank of England will continue tightening monetary policy. Markets now fully price in a rate hike in November, with another increase expected by March 2027. UK GDP rose 0.1% in May after a 0.1% contraction in April, while growth over the three months to May reached 0.7%, beating forecasts of 0.5%.
+
+---
+
+### 2026-07-17 14:15:06  #其他
+
+【四川省正式啟動跨境貿易高水平開放試點 首日業務順利落地】近期，中國人民銀行四川省分行、國家外匯管理局四川省分局批覆同意四川省內19家銀行業金融機構取得跨境貿易高水平開放試點業務資格，正式在全省範圍內啟動跨境貿易高水平開放試點工作。此舉標誌著四川在推進外匯管理改革創新、提升跨境貿易便利化水平方面邁出關鍵一步，為外貿企業高質量發展注入新動能。（每經）
+
+---
+
+### 2026-07-17 14:14:15  #其他
+
+【得物App WAIC 上展出首個AI鑑別機器人】7月16日訊息，在世界人工智慧大會首日，得物App聯合千覺機器人制造的AI鑑別機器人展出。鑑別機器人的機械臂抓取運動鞋；高畫質攝像頭對鞋面、中底、鞋墊、配件及鞋盒進行資料採集。影象識別技術抓取商品細節，並實時回傳給“AI大腦”進行畫素級比對。5秒後，一份鑑別報告便自動生成。
+
+---
+
+### 2026-07-17 14:13:46  #國際
+
+【美國紐約直升機墜河事件最新調查：有鳥類撞擊痕跡】美國紐約一架觀光直升機去年4月墜入哈德遜河，致6人遇難。調查人員當地時間7月16日說，在直升機多個部位發現了多隻大雁的殘骸，表明該直升機曾遭鳥類撞擊。（央視新聞）
+
+---
+
+### 2026-07-17 14:13:33  #國際
+
+【“熱穹頂”現象致美國多州創下高溫新紀錄】美國航空航天局15日釋出分析報告稱，受“熱穹頂”天氣系統影響，近日美國多個州重新整理歷史最高氣溫紀錄，部分地區最高氣溫超過了46攝氏度。(新華社)
+
+---
+
+### 2026-07-17 14:13:08  #市場
+
+澳大利亞S&P/ASX 200指數收盤下跌0.5%，報8796.70點。
+
+---
+
+### 2026-07-17 14:12:51  #公司
+
+標普將軟銀集團的展望評級上調至穩定。
+
+---
+
+### 2026-07-17 14:11:50  #MKT News #Market Regions #Europe & UK #IFX.DE #Impact bearish #DAX
+
+German semiconductor stocks fell about 4% in early trade in Frankfurt.
+
+---
+
+### 2026-07-17 14:11:49  #市場
+
+德國半導體類股在法蘭克福盤初交易中下跌約4%。
+
+---
+
+### 2026-07-17 14:11:00  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Both sides face high costs from a protracted war; Iran unlikely to accept ceasefire without security guarantees】An Australian National University professor said Iran treats the conflict as existential and, despite economic strain and diplomatic pressure, is unlikely to accept a ceasefire unless it secures explicit guarantees for its safety. He noted Iran’s long experience under sanctions and domestic production capacity, and said Tehran is unlikely to show weakness or yield even after military attrition. U.S. media report Iran rapidly resumed drone production after the April ceasefire; some analysts say Tehran could replenish drone inventories within months. An International Crisis Group security expert warned the rapid consumption of key U.S. munitions, including Patriot interceptors and Tomahawk cruise missiles, is striking and raises concern for future contingencies with other great powers. Both sides therefore face pressure points that make a prolonged war costly, though the ANU professor said the U.S. is suffering greater reputational damage as global observers see limits to its ability to resolve the Iran issue.
+
+---
+
+### 2026-07-17 14:10:47  #MKT News #Market Regions #Japan & APAC
+
+KATAYAMA, Japan's finance minister, said the government will seek to avoid creating market misunderstandings about the stance of fiscal and monetary policy.
+
+---
+
+### 2026-07-17 14:10:34  #國際
+
+歐盟正在考慮將2036年後的排放量削減上限設定為每年1.7%。
+
+---
+
+### 2026-07-17 14:10:21  #國際
+
+歐盟計劃在2031-2035年間將減排目標放緩至每年3.7%。
+
+---
+
+### 2026-07-17 14:10:08  #A股
+
+A股三大股指短線回暖，上證綜指跌幅縮窄至2%以內，深證成指跌幅縮債至4%，創業板指現跌4.76%。
+
+---
+
+### 2026-07-17 14:10:08  #MKT News #Market Regions #Japan & APAC
+
+KATAYAMA, Japan's finance minister, said the government is closely monitoring daily market moves and economic data and will work to steadily reduce Japan's debt-to-GDP ratio.
+
+---
+
+### 2026-07-17 14:10:01  #MKT News #Important
+
+China's three major A-share indexes briefly recovered; the Shanghai Composite's decline narrowed to below 2%, the Shenzhen Composite's to about 4%, and the ChiNext Index was down 4.76%.
+
+---
+
+### 2026-07-17 14:09:59  #MKT News
+
+Japan's finance minister Katayama said she will not comment on the exact wording of the forthcoming economic blueprint, which is currently being finalized with the ruling coalition.
+
+---
+
+### 2026-07-17 14:09:58  #其他
+
+伊拉克庫爾德斯坦反恐部門稱，埃爾比勒上空有8架無人機被擊落，無人員傷亡報告。
+
+---
+
+### 2026-07-17 14:09:32  #宏觀 #國際
+
+日本財務大臣片山：不會就即將出臺的經濟藍圖中具體措辭置評，該藍圖仍在與執政聯盟進行最終敲定。
+
+---
+
+### 2026-07-17 14:08:56  #央行 #國際
+
+日本財務大臣片山：政府立場不變，具體貨幣政策應由日本央行決定。
+
+---
+
+### 2026-07-17 14:08:23  #MKT News
+
+Japan's finance minister Katayama said monetary policy is decided by the Bank of Japan.
+
+---
+
+### 2026-07-17 14:08:08  #央行 #國際
+
+日本財務大臣片山：利率變動由市場決定。貨幣政策由日本央行決定。
+
+---
+
+### 2026-07-17 14:07:25  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister Katayama said interest-rate movements should be decided by the market.
+
+---
+
+### 2026-07-17 14:07:05  #其他
+
+【哈薩克總統中文稱讚上海】7月17日，哈薩克總統託卡耶夫在2026世界人工智慧大會暨人工智慧全球治理高階別會議開幕式上用中文表示，上海始終發揮著連線世界的重要作用。（中新網）
+
+---
+
+### 2026-07-17 14:06:42  #其他
+
+高市早苗：目標是實現債務佔GDP比率的穩定下降。
+
+---
+
+### 2026-07-17 14:06:02  #公司
+
+【丁磊卸任華人運通公司法定代表人】天眼查App顯示，近日，華人運通控股有限公司發生工商變更，丁磊卸任法定代表人，由執行董事改任董事，顧敬黃接任法定代表人，並擔任經理。該公司成立於2017年8月，註冊資本2.5億人民幣，經營範圍包括汽車零部件及配件製造、汽車零部件研發、軟體開發等，由善郅合（上海）商務諮詢有限公司、上海澤覺匯企業管理合夥企業（有限合夥）、李冠濱等共同持股。
+
+---
+
+### 2026-07-17 14:05:50  #公司
+
+雅苒集團表示，第二季度未因地緣政治事件出現運營中斷，該事件也未對雅苒的合併業績產生重大影響。
+
+---
+
+### 2026-07-17 14:05:43  #其他
+
+【魔法原子與阿里旗下跨境零售平臺速賣通達成獨家戰略合作】7月17日，魔法原子MagicLab與阿里巴巴旗下跨境零售平臺速賣通（AliExpress）共同宣佈達成獨家戰略合作。據悉，魔法原子正式加入速賣通“Brand+”超級品牌出海計劃，速賣通成為其國際化路徑上籤約的首家跨境電商平臺。
+
+---
+
+### 2026-07-17 14:04:40  #MKT News #Important #Commodities #Energy #Brent #Impact bearish #WTI
+
+Brent crude slid below $83/bbl, down 1.33% intraday; WTI fell more than 1.00% to $78.66/bbl.
+
+---
+
+### 2026-07-17 14:04:12  #國際
+
+博柏利：第一季度歐洲、中東、非洲與印度地區可比零售銷售額下降3%，這反映出中東衝突持續影響以及遊客消費支出下滑。
+
+---
+
+### 2026-07-17 14:04:04  #其他
+
+市場訊息：SHEIN獲香港上市委員會批准IPO。
+
+---
+
+### 2026-07-17 14:03:35  #市場 #國際
+
+日本40年期國債收益率上升5.5個基點至3.88%。
+
+---
+
+### 2026-07-17 14:02:46  #其他
+
+博柏利：仍需對地緣政治與宏觀經濟環境的不確定性及其對消費者信心的潛在影響保持警惕。
+
+---
+
+### 2026-07-17 14:02:36  #市場 #國際
+
+日本30年期國債收益率上升6個基點至3.89%。
+
+---
+
+### 2026-07-17 14:01:55  #市場
+
+新臺幣兌美元下跌0.3%至32.346。
+
+---
+
+### 2026-07-17 14:01:45  #其他
+
+博柏利：預計2027財年重組費用約為500萬英鎊。
+
+---
+
+### 2026-07-17 14:01:27  #市場 #國際
+
+【MSCI新興市場指數自高點回落10% 邁向技術性回撥】週五盤中，MSCI新興市場指數自牛市高點回落幅度擴大至10%，邁向技術性回撥。北京時間13:45，MSCI新興市場指數下跌2.7%至1619.39點。6月22日，該指數曾創收盤歷史新高1802.77點。收盤若跌至1622.49點或以下，則確認陷入回撥。
+
+---
+
+### 2026-07-17 14:01:05  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #FTSE100
+
+Euro STOXX 50 futures fell 0.87%; DAX futures fell 0.66%; FTSE futures fell 0.37%.
+
+---
+
+### 2026-07-17 13:56:10  #MKT News
+
+【Seoul mayor criticises government for allowing leveraged products to hit stock market】Yonhap reports Seoul Mayor Oh Se-hoon criticised the government for permitting leveraged derivatives that have driven extreme stock-market volatility and for President Lee’s 'active debt relief' proposal, urging prompt structural measures. He said the KOSPI has triggered temporary automated-trading restrictions 37 times so far this year, exceeding the 26 triggers recorded during the entire 2008 global financial crisis. Oh added the government approved single-stock leveraged products despite knowing their large risks and then stood by as retail investors’ assets evaporated, producing the current market turmoil.
+
+---
+
+### 2026-07-17 13:56:05  #MKT News #Important #Market Regions #Greater China
+
+【Afternoon broad-based ETF volumes surge; three ETFs exceed CNY 10bn turnover】Afternoon turnover in broad-based China ETFs expanded sharply. E Fund ChiNext ETF (159915), ChinaAMC Sci‑Tech Innovation 50/STAR 50 ETF (588000) and Huatai‑PineBridge CSI 300 ETF (510300) each saw trading value top CNY 10bn. China Southern CSI 1000 ETF (512100), China Southern CSI 500 ETF (510500), Huatai‑PineBridge A500 ETF (563360), China Southern A500 ETF (159352) and HuaAn ChiNext 50 ETF (159949) have all already exceeded yesterday’s full-day turnover.
 
 ---
 
@@ -23117,179 +23393,5 @@ At the open on July 16, China's Shanghai Composite fell 43.2 points (-1.09%) to 
 ### 2026-07-16 09:26:37  #Trading Economics #Markets #United States #Currency #Importance 2
 
 Dollar Holds Decline on Soft PPI — The dollar index traded around 100.5 on Thursday after posting sharp losses over the previous two sessions, as easing inflation pressures reduced expectations of a near-term Federal Reserve interest rate hike. Data released on Wednesday showed US producer prices unexpectedly fell in June for the first time in nearly a year, largely due to lower energy costs, following Tuesday’s softer-than-expected consumer inflation report. Markets trimmed expectations for a Fed rate increase in September, with the implied probability falling to around 44% from 50% a day earlier. Meanwhile, investors continued to monitor escalating attacks in the Middle East after the US launched additional strikes against Iranian targets. The renewed conflict pushed oil prices sharply higher this week, fueling fresh concerns over inflation and the interest rate outlook. Still, President Donald Trump said on Wednesday that Tehran had indicated a willingness to resume negotiations.
-
----
-
-### 2026-07-16 09:26:35  #MKT News #Important #WTI #Impact bullish #Brent
-
-【U.S. military says latest round of strikes on Iran concluded】CENTCOM said on July 15 it concluded a night strike operation at 9:00 p.m. ET. The strikes targeted Iranian command centers, air-defense positions, missile and drone facilities, and coastal surveillance sites to further degrade Iran’s ability to threaten the safety of merchant shipping crews in the Strait of Hormuz. CENTCOM said U.S. forces used precision-guided munitions to hit multiple targets, including Abbas port.
-
----
-
-### 2026-07-16 09:26:24  #國際
-
-韓國金融服務委員會(FSC)主席稱將很快宣佈個股槓桿ETF新措施。
-
----
-
-### 2026-07-16 09:26:08  #公司
-
-【國家版權局：12家網路平臺承諾堅決清理侵權盜版出版物】近期，淘寶、京東、拼多多、抖音商城、快手電商、噹噹、孔夫子舊書網和騰訊、微博、百度、小紅書、嗶哩嗶哩等12家網路平臺相繼釋出公告，承諾將切實履行平臺主體責任，改進內部規則、健全管理舉措，深入清理侵權盜版出版物，堅決糾治違法網路售賣、傳播等行為。各平臺表示，將全面加強入駐商家資格核驗，及時清理下架侵權盜版圖書，高效執行“通知—刪除”規則，暢通侵權盜版投訴舉報渠道，進一步加大對違規商家的處置力度，積極配合執法監管部門，接受社會各界廣泛監督。
-
----
-
-### 2026-07-16 09:25:54  #其他
-
-【港股人工智慧概念股走低 智譜跌超7%】截至發稿，智譜(02513.HK)跌7.26%，天數智芯(09903.HK)跌6.08%，MINIMAX-W(00100.HK)跌3.84%。
-
----
-
-### 2026-07-16 09:25:32  #國際
-
-【美軍稱結束對伊朗最新一輪打擊】當地時間7月15日，美國中央司令部發布宣告表示，中央司令部於美東時間7月15日晚9點結束了針對伊朗的一輪夜間打擊行動。宣告表示，美軍打擊了伊朗的指揮中心、防空陣地、導彈與無人機設施以及海岸監視設施，旨在進一步削弱伊朗威脅霍爾木茲海峽商船船員安全的能力。美軍使用精確制導武器打擊了包括阿巴斯港在內的多個地點的目標。
-
----
-
-### 2026-07-16 09:25:24  #焦點
-
-三大股指低開，滬指跌1.09％，深成指跌1.91％，創業板跌2.48％。
-
----
-
-### 2026-07-16 09:25:23  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bearish #SZSE Component #CSI300
-
-At the open, the Shanghai Composite fell 1.09%, the Shenzhen Composite fell 1.91% and the ChiNext Index fell 2.48%.
-
----
-
-### 2026-07-16 09:25:18  #市場
-
-SK海力士股價下跌12%。
-
----
-
-### 2026-07-16 09:25:14  #MKT News #Important #Commodities #Precious Metals
-
-Spot silver fell below $57/oz, down 1.31% intraday.
-
----
-
-### 2026-07-16 09:25:09  #MKT News #000660.KS #Impact bearish
-
-SK Hynix shares fell 12%.
-
----
-
-### 2026-07-16 09:25:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #8035.T
-
-Tokyo Electron is partnering with NVIDIA (NVDA.O) to develop digital-transformation solutions using NVIDIA's Agent Toolkit and the open robotics development platform NVIDIA Isaac.
-
----
-
-### 2026-07-16 09:24:45  #其他
-
-東京電子：與英偉達合作，利用英偉達代理工具包和開放式機器人開發平臺英偉達ISAAC，實現數字化轉型解決方案。
-
----
-
-### 2026-07-16 09:24:45  #MKT News #Market Themes #Chip Wars #005930.KS #Impact mixed #000660.KS
-
-【South Korea FSC chair to announce measures on single-stock leveraged products soon】South Korea's Financial Services Commission (FSC) Chair Lee Eok-won said the commission will shortly announce supplementary measures targeting single-stock leveraged products. He said the key issue is the extent of their market impact and that the FSC will promptly formulate and publish measures. Asked whether the FSC is considering temporary trading halts amid sharp market declines, Lee said such steps could produce larger side effects and are under comprehensive evaluation. He flagged elevated volatility in the global semiconductor sector under a "supercycle"—rapid gains and swinging expectations—as a key backdrop to recent swings in Korean and global semiconductor stocks. Lee added that the sharply higher combined market caps of Samsung Electronics and SK Hynix have increased their weight in Korea's composite index, magnifying semiconductor moves' impact on the broader market.
-
----
-
-### 2026-07-16 09:24:31  #央行 #其他
-
-央行公開市場今日淨投放6,160.0億元人民幣。
-
----
-
-### 2026-07-16 09:24:30  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-U.S. military says it has completed its latest round of strikes against Iran.
-
----
-
-### 2026-07-16 09:23:29  #其他
-
-【國家醫保局：2025年生育保險基金支出1393.81億元】國家醫保局釋出《2025年全國醫療保障事業發展統計公報》，公報顯示，2025年全國參加生育保險25958.05萬人，比上年增加658.54萬人，比上年增長2.6%。2025年享受各項生育保險待遇3573.81萬人次，生育保險基金支出1393.81億元。2025年全國醫療救助總金額794.24億元，醫療救助基金資助7666.47萬人參加基本醫療保險。救助資金進一步向門診和住院救助調整，全年實施門診和住院救助19915.60萬人次，全國次均住院救助、門診救助分別為1273元、86元。
-
----
-
-### 2026-07-16 09:23:15  #MKT News
-
-【National Healthcare Security Administration: 2025 maternity insurance fund outlays 139.38 bln yuan】The National Healthcare Security Administration’s 2025 statistical bulletin shows 259.58 mln people participated in maternity insurance, up 6.59 mln from a year earlier (2.6% YoY). There were 35.74 mln maternity insurance beneficiary cases and maternity insurance fund outlays totaled 139.38 bln yuan. Nationwide medical assistance payments amounted to 79.42 bln yuan; the assistance fund subsidized 76.66 mln people to enroll in basic medical insurance. Assistance funding shifted further toward outpatient and inpatient care, with 199.16 mln outpatient/inpatient assistance cases implemented; average per-case inpatient assistance was 1,273 yuan and outpatient assistance 86 yuan.
-
----
-
-### 2026-07-16 09:23:14  #MKT News #Important #Star Stocks #Alibaba #09988.HK #Impact bullish
-
-Hong Kong-listed Alibaba (09988.HK) opened 2.47% higher after China completed regulatory filing yesterday for Apple’s China-market AI feature; partners named include Alibaba.
-
----
-
-### 2026-07-16 09:23:04  #國際
-
-【日本經濟團體密集釋放訪華訊號】日本多家經濟團體近期密集釋放訪華訊號。受訪中國學者15日對記者表示，經貿合作依託政治互信，日方應正視問題根源，拿出改善雙邊關係的誠意，為中日經貿合作重回正軌創造條件。據日本廣播協會（NHK）報道，關西經濟聯合會會長松本正義14日在記者會上透露，正在協調派遣關西經濟界代表團於10月18日至23日赴北京等地訪問。訪問團成員涵蓋關西經濟同友會、京都商工會所、神戶商工會所高層，共約80人。松本正義6月曾來華參加在北京舉辦的中國國際供應鏈促進博覽會。在鏈博會期間，日本多個經濟團體來華參觀訪問。對此，中國外交部發言人表示，這體現了日本經濟界對於改善中日關係、開展對華合作的迫切需求。“我們希望日本為政者傾聽、重視這些聲音，正視問題根源，反思糾錯，以實際行動體現改善對華關係誠意，為中日正常交流創造必要條件。”日本共同社稱，作為對華貿易與經濟交流視窗的日本國際貿易促進協會正在協調組建代表團於9月下旬訪華。此訪原本預定6月進行，但因擔任會長的前眾院議長河野洋平去世而延期，預計前日本外相巖屋毅將於近期繼任會長。(環球時報)
-
----
-
-### 2026-07-16 09:23:04  #央行 #中國央行
-
-【央行公開市場開展6260億元7天期逆回購操作】央行公開市場開展6260億元7天期逆回購操作，操作利率1.40%。Wind資料顯示，今日100億元逆回購到期。
-
----
-
-### 2026-07-16 09:22:45  #其他
-
-【阿曼投資局旗下FUTURE基金推出價值17.44億美元專案】7月16日，阿曼主權財富基金阿曼投資局（OIA）旗下的Future Fund Oman（FFO）宣佈了一項新的105個戰略專案和投資封裝，價值17.44億美元。該投資組合將FFO承諾的5.85億美元與當地投資約4.58億美元相結合，涵蓋可再生能源、先進製造、旅遊、醫療保健、醫療技術、創新和食品行業。
-
----
-
-### 2026-07-16 09:22:43  #MKT News #Market Regions #Greater China #Hang Seng Index #Impact bullish
-
-At the Hong Kong open on Thursday July 16, the Hang Seng Index rose 143.92 points (0.58%) to 24,825.02; the Hang Seng TECH Index gained 7.02 points (0.15%) to 4,747.51; the Hang Seng China Enterprises Index added 50.18 points (0.61%) to 8,234.56; the Red Chip Index rose 9.44 points (0.24%) to 3,953.98.
-
----
-
-### 2026-07-16 09:22:40  #公司 #市場
-
-港股南方兩倍做多海力士(07709.HK)、南方兩倍做多三星電子(07747.HK)開盤均跌15%。
-
----
-
-### 2026-07-16 09:22:32  #其他
-
-東京電子：與英偉達擴大在代理式人工智慧和機器人領域的合作。
-
----
-
-### 2026-07-16 09:22:20  #其他
-
-美軍稱打擊了阿巴斯港等多地的目標。
-
----
-
-### 2026-07-16 09:21:54  #MKT News #Important #Market Themes #Chip Wars #07709.HK #Impact bearish #07747.HK
-
-In Hong Kong, Southern 2x Long SK Hynix (07709.HK) and Southern 2x Long Samsung Electronics (07747.HK) opened about 15% lower.
-
----
-
-### 2026-07-16 09:21:43  #焦點 #國際
-
-美軍稱完成對伊朗新一輪打擊，襲擊伊朗指揮中心和防空設施。
-
----
-
-### 2026-07-16 09:21:28  #焦點
-
-港股恒指高開漲0.58％，國企指數漲0.61％，科指開漲0.15%，生物醫藥板塊多股高開。
-
----
-
-### 2026-07-16 09:21:25  #MKT News #Market Regions #Greater China
-
-【China's first domestically built deep-sea, intelligent cable-laying ship enters service】China's first domestically designed and built deep-sea, intelligent cable-laying vessel "Tianyi Navigator" was commissioned in Shanghai on the 15th and has begun full-system subsea cable installation trials. The vessel is intended to underpin computing power and AI development.
 
 ---
