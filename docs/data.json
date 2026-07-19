@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-20 00:03:53",
-  "count": 18992,
+  "updated": "2026-07-20 00:08:07",
+  "count": 18994,
   "items": [
+    {
+      "id": "mkt:019f7b1f-92ba-7aab-8df9-6edc8c9f2954",
+      "time": "2026-07-20 00:04:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Central Peru earthquake kills five】Peru's National Civil Defense Institute official Luis Vasquez said on July 19 that a magnitude-5.1 earthquake on the evening of July 18 in central Peru has killed five. The quake has injured more than 20 people and affected about 300. Peru's Geophysical Institute said the tremor occurred at 21:24 local time on July 18 (10:24 Beijing time on July 19); the epicenter was 7 km south of Chupaca in Junín province and the focal depth was 24 km."
+    },
+    {
+      "id": "mkt:019f7b1e-d2e0-7aab-8df9-62688a43b291",
+      "time": "2026-07-20 00:04:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Financial Times reports incoming UK prime minister Burnham will uphold Labour’s controversial ban on new North Sea exploration licences, dashing oil and gas industry hopes for a substantial shift in fossil-fuel policy."
+    },
     {
       "id": "4996204",
       "time": "2026-07-19 23:59:30",
