@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-20 01:51:09",
-  "count": 19003,
+  "updated": "2026-07-20 01:55:04",
+  "count": 19005,
   "items": [
+    {
+      "id": "mkt:019f7b83-ac33-7aab-8dfa-41f182dd775a",
+      "time": "2026-07-20 01:54:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports Jordan’s Aqaba airport is operating normally and flights are continuing. The report follows a US embassy message on the 19th saying Jordan had evacuated Aqaba’s international airport and port area over a “specific and credible security threat”; Jordanian officials later denied the evacuation."
+    },
+    {
+      "id": "4996242",
+      "time": "2026-07-20 01:51:34",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "鑑於剛果民主共和國當前正暴發埃博拉疫情，美國官方出臺新管控措施，美國公民將無法搭乘直飛航班從剛果（金）返回本國。"
+    },
     {
       "id": "mkt:019f7b7f-f5ef-7aab-8dfa-3b5a7878b613",
       "time": "2026-07-20 01:50:11",
