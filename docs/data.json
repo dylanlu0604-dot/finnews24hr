@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-19 19:21:09",
-  "count": 18965,
+  "updated": "2026-07-19 19:25:21",
+  "count": 18968,
   "items": [
+    {
+      "id": "mkt:019f7a1e-0a8d-7aab-8df7-599824b9c9c7",
+      "time": "2026-07-19 19:23:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi outlet Alhadath reports Kuwait Power Company said a power and seawater desalination plant was attacked for the second time in two days."
+    },
+    {
+      "id": "4996083",
+      "time": "2026-07-19 19:22:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特：受損機組搶修恢復供電作業正在進行中。"
+    },
+    {
+      "id": "4996082",
+      "time": "2026-07-19 19:22:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特訊息：發電及海水淡化設施再度遭到伊朗襲擊，致使當地發電及供水廠起火。"
+    },
+    {
+      "id": "4996081",
+      "time": "2026-07-19 19:21:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特：大量發電機組受伊朗打擊影響。"
+    },
+    {
+      "id": "mkt:019f7a1b-b8ed-7aab-8df7-5353715e2115",
+      "time": "2026-07-19 19:21:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Canada says all-hands mobilized to fight wildfires】Prime Minister Mark Carney said on July 18 Canada is facing one of its most severe wildfire seasons amid extreme heat and record drought and the government has launched an all‑hands mobilization. More than 5,300 firefighters and nearly 300 aircraft have been deployed; the interdepartmental wildland fire centre reported 3,815 fires YTD and over 2.9 mln ha burned. Rising temperatures and more frequent heatwaves linked to global climate change have heightened fire risk, and wildfire smoke has degraded air quality across Canada and parts of the US Northeast."
+    },
     {
       "id": "4996080",
       "time": "2026-07-19 19:15:55",
@@ -174961,24 +175001,6 @@
         "其他"
       ],
       "text": "【上海地鐵所有線路均恢復常態運營】根據市氣象部門預測研判，7月12日傍晚颱風“巴威”風雨影響逐漸減弱，上海軌道交通地面、高架限速段解除限速，所有線路均恢復常態運營。同時，明天（7月13日）上海地鐵全網路列車按常態方式執行。（澎湃）"
-    },
-    {
-      "id": "mkt:019f5611-ccbd-7aab-8d44-db7fa405c9d8",
-      "time": "2026-07-12 19:23:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Container ship attacked near Oman; 23 rescued from Cyprus‑flagged merchant vessel, one missing】UK Maritime Trade Operations said on the evening of the 11th a container ship in waters near Oman was attacked, suffering stern damage and an onboard fire; UKMTO said on the 12th the vessel's crew were rescued by local authorities. On the 12th, the Oman Maritime Safety Centre said a Cyprus‑flagged merchant ship suffered an incident about 4.4 nm off Musandam, near the Strait of Hormuz; Omani rescue units recovered 23 crew and provided emergency medical aid, and search continues for one crew member still missing."
-    },
-    {
-      "id": "mkt:019f5610-b08e-7aab-8d44-d3b10625b443",
-      "time": "2026-07-12 19:22:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Zelenskiy orders political-strategy shift, cabinet reshuffle; PM Svyrydenko to lead key partner portfolio】President Zelenskiy said Ukraine is adjusting its political strategy and will assign experienced officials to lead priority foreign-policy areas including US relations and a Patriot manufacturing license, bilateral security cooperation, a European missile-defence project, EU accession, ties with neighbours (notably Poland and Hungary), Middle East/Gulf engagement and coordination with international actors that can help end the war. Domestically, Kyiv will boost frontline and border defenses, increase deliveries of weapons including multiple drone types and prioritise winter preparedness. Zelenskiy said state-owned enterprise reform and speedier implementation of reconstruction agreements will be accelerated. He signalled a personnel reshuffle, including a cabinet reorganisation, appointing Prime Minister Svyrydenko to oversee the new partner-focused portfolio and replacing heads of law-enforcement agencies."
     }
   ]
 }
