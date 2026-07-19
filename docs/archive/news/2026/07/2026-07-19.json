@@ -1,7 +1,35 @@
 {
   "date": "2026-07-19",
-  "count": 444,
+  "count": 447,
   "items": [
+    {
+      "id": "4995921",
+      "time": "2026-07-19 15:29:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "義大利郵政對義大利電信股份發起自願公開要約收購與交換要約。"
+    },
+    {
+      "id": "4995919",
+      "time": "2026-07-19 15:27:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴勒斯坦訊息人士：以色列車輛在加沙地帶中部布里傑難民營東部開火。"
+    },
+    {
+      "id": "mkt:019f7945-b010-7aab-8df5-c33fbc258bff",
+      "time": "2026-07-19 15:27:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Kuwait says its air defenses are intercepting 'enemy' missile and drone attack】Kuwait Armed Forces said on the 19th its air-defense systems are intercepting 'enemy' missile and drone attacks. The General Staff said explosions heard were caused by interceptions and urged residents to follow government safety instructions."
+    },
     {
       "id": "4995918",
       "time": "2026-07-19 15:25:19",
