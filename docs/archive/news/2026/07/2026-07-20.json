@@ -1,7 +1,15 @@
 {
   "date": "2026-07-20",
-  "count": 93,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:019f7bba-765a-7aab-8dfa-73b872a82723",
+      "time": "2026-07-20 02:54:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said Qatari PM spoke with Jordan's deputy prime minister and condemned Iran's attack on Jordan."
+    },
     {
       "id": "mkt:019f7bb7-9a81-7aab-8dfa-6f6e45013227",
       "time": "2026-07-20 02:50:57",
