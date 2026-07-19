@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-19 20:36:38",
-  "count": 18974,
+  "updated": "2026-07-19 20:40:39",
+  "count": 18975,
   "items": [
+    {
+      "id": "4996116",
+      "time": "2026-07-19 20:39:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：預計2027年向客戶交付777X客機。"
+    },
+    {
+      "id": "4996115",
+      "time": "2026-07-19 20:38:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "波普表示，波音即將完成 737-10 機型的飛行測試。"
+    },
+    {
+      "id": "4996114",
+      "time": "2026-07-19 20:37:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：波音稱737-7機型將於近期取得適航認證。"
+    },
+    {
+      "id": "mkt:019f7a61-e4e2-7aab-8df7-bceb4ef971f8",
+      "time": "2026-07-19 20:37:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CNH"
+      ],
+      "text": "【KPMG China chairman: AI accelerating into core engine of economic growth】July 19 — KPMG China chairman Zou Jun said at the 2026 World Artificial Intelligence Conference that AI has penetrated multiple areas of the real economy and is accelerating from an efficiency tool into a core engine of economic growth. He said China’s AI industry layout is active, tracks are diverse, the sector benefits from supply-chain advantages, and industry scale is expanding rapidly."
+    },
     {
       "id": "4996113",
       "time": "2026-07-19 20:30:53",
@@ -175025,34 +175063,6 @@
         "國際"
       ],
       "text": "訊息人士稱，前總理什米加爾同樣在（烏克蘭）總理人選候選名單之列。"
-    },
-    {
-      "id": "4982909",
-      "time": "2026-07-12 20:40:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "訊息人士：澤連斯基考慮任命烏克蘭國家石油天然氣公司負責人科列茨基為總理。"
-    },
-    {
-      "id": "mkt:019f5655-3af2-7aab-8d45-174c97751095",
-      "time": "2026-07-12 20:37:33",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oman summons Iran envoy over drone strikes on Musandam and central governorates】On the 12th Oman’s Undersecretary for Administrative and Financial Affairs Khalid summoned Iran’s ambassador and delivered a protest note after drone strikes struck parts of Musandam governorate and central governorates earlier the same day. Oman described the attacks as irresponsible and urged respect for state sovereignty. Omani authorities have not disclosed casualties, damage or the specific targets. Musandam is on the northeastern tip of the Arabian Peninsula opposite Iran across the Strait of Hormuz."
-    },
-    {
-      "id": "4982908",
-      "time": "2026-07-12 20:37:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿曼就部分地點遭襲事件召見伊朗駐阿大使】當地時間12日，阿曼外交部行政和財務事務次大臣哈立德召見伊朗駐阿曼大使，就阿曼穆桑代姆省和中部省份部分地點遭無人機襲擊一事向伊方遞交抗議照會。根據阿曼外交部發布的宣告，阿方認為上述襲擊是“不負責任的行為”，並敦促各方遵守國家主權原則，堅持睦鄰友好、互不干涉內政，尊重兩國及兩國人民長期以來形成的友好傳統和共同遵循的道德準則。當天早些時候，阿曼穆桑代姆省和中部省份部分地點遭無人機襲擊。截至目前，阿曼官方尚未公佈此次襲擊造成的人員傷亡及財產損失情況，也未披露遭襲目標的具體資訊。（央視新聞）"
     }
   ]
 }
