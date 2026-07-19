@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-19 20:52:59",
-  "count": 18981,
+  "updated": "2026-07-19 20:57:33",
+  "count": 18983,
   "items": [
+    {
+      "id": "mkt:019f7a72-fb69-7aab-8df8-035fe4c7f7ee",
+      "time": "2026-07-19 20:56:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jordan says it intercepted three of four Iran-launched missiles】Jordan Armed Forces General Command said on July 19 its air defenses intercepted and shot down three of four missiles fired at targets inside Jordan by Iran; the fourth fell in a remote area in southern Jordan away from populated areas. The command said there were no casualties or damage. Royal Engineers are at the impact site conducting technical disposal and security procedures. The armed forces said they remain at highest alert, continue to monitor Jordanian airspace and will decisively respond to any threats to national security or civilian lives."
+    },
+    {
+      "id": "4996125",
+      "time": "2026-07-19 20:55:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：Kalshi平臺世界盃期間新增 300 萬美國使用者。"
+    },
+    {
+      "id": "4996124",
+      "time": "2026-07-19 20:55:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦軍方：工程兵部隊已按照現行的技術和安全程式，對導彈墜落地點進行了處置並實施了安全管控。我們將繼續保持最高戒備狀態，嚴密監視約旦領空，並以以最強硬的姿態應對任何針對約旦安全及公民人身安全的威脅。"
+    },
     {
       "id": "mkt:019f7a6f-4b76-7aab-8df7-fbfac3df0d99",
       "time": "2026-07-19 20:52:21",
@@ -175113,14 +175137,6 @@
         "國際"
       ],
       "text": "【伊朗：霍爾木茲海峽目前無法通行】伊朗波斯灣海峽管理局12日在社交媒體釋出公告稱，霍爾木茲海峽目前無法通行。待局勢平靜後，將恢復稽核海峽通行申請，並按計劃發放必要的許可證。（新華社）"
-    },
-    {
-      "id": "4982917",
-      "time": "2026-07-12 20:55:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省釋出地質災害氣象風險預警】“黑龍江政務”7月12日訊息，黑龍江省自然資源廳和黑龍江省氣象局聯合釋出地質災害氣象風險黃色和藍色預警：預計7月12日20時至7月13日20時，五常市、尚志市、寧安市、海林市發生地質災害風險較高（黃色預警），牡丹江市、穆稜市、東寧市、阿城區、延壽縣有一定風險發生地質災害（藍色預警）。請注意防範強降雨引發的崩塌、滑坡、泥石流等地質災害，做好監測預警和轉移避險等工作。"
     }
   ]
 }
