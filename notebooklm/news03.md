@@ -1,7 +1,492 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-19 07:31:57_
-_本檔包含 3980 則快訊，約 723227 字_
+_更新時間：2026-07-19 09:08:33_
+_本檔包含 3967 則快訊，約 721627 字_
+
+---
+
+### 2026-07-16 00:08:27  #MKT News
+
+European Commission approved X (formerly Twitter)’s remediation plan to comply with information-transparency obligations under the Digital Services Act and to grant researchers access to platform data.
+
+---
+
+### 2026-07-16 00:07:02  #Trading Economics #Markets #United Kingdom #Stock Market #Importance 1
+
+The FTSE 100 Index Closes 0.16% Lower — The FTSE 100 Index fell 16 points or 0.16 percent on Wednesday to close at 10513 points. Leading the losses are Fresnillo (-4.43%), Vodafone (-3.60%) and Anglo American (-3.35%). Top gainers were ICG (4.80%), Barratt Redrow (4.05%) and St. Jamess (3.94%).
+
+---
+
+### 2026-07-16 00:06:53  #國際
+
+歐盟委員會：已批准 X 平臺依據《數字服務法》提交的整改方案，該方案旨在履行資訊透明義務並保障研究人員的資料訪問許可權。
+
+---
+
+### 2026-07-16 00:06:48  #MKT News #Important #SPCX.O #Impact bearish
+
+SpaceX (SPCX.O) traded below its $135 IPO price for the first time.
+
+---
+
+### 2026-07-16 00:06:15  #公司 #市場 #焦點 #國際
+
+SpaceX 股價首次跌破 135 美元發行價。
+
+---
+
+### 2026-07-16 00:05:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Micron Technology Stock Price Hits 5-week Low — Micron Technology shares decreased to 891.63 USD, the lowest since June 2026. Over the past 4 weeks, Micron Technology lost 12.46%, and in the last 12 months, it increased 667.47%.
+
+---
+
+### 2026-07-16 00:04:45  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact mixed
+
+Fed chair Kevin Warsh said he is willing to reform bank stress tests.
+
+---
+
+### 2026-07-16 00:04:45  #央行 #美聯儲
+
+美聯儲主席沃什表示，對改革銀行壓力測試持開放態度。
+
+---
+
+### 2026-07-16 00:04:31  #MKT News #CNH #Impact bullish #S&P500 #USDJPY #Impact bearish
+
+Fitch: In 2026, sovereign rating upgrades in emerging markets will outnumber downgrades.
+
+---
+
+### 2026-07-16 00:03:45  #央行 #國際
+
+美聯儲主席沃什：我對銀行壓力測試相關改革持開放態度。需要繼續推動美聯儲系統的效率提升。
+
+---
+
+### 2026-07-16 00:03:25  #其他
+
+CBOT小麥日內漲幅達3.0%，報724.25美分。
+
+---
+
+### 2026-07-16 00:03:19  #國際
+
+美國運通公：截至 2026 年 6 月 30 日，美國個人信用卡 30 天逾期初步比率為 1.1%。6 月美國小企業信用卡初步淨核銷率為 2.3%。
+
+---
+
+### 2026-07-16 00:02:26  #公司 #國際
+
+美國運通公司：美國證券交易委員會備案檔案顯示，截至 2026 年 6 月 30 日，美國小企業信用卡逾期 30 天初步壞賬率為 1.4%
+
+---
+
+### 2026-07-16 00:01:39  #公司 #資料 #市場 #國際
+
+【滙豐策略師Kettner：油價躍升不影響其看漲觀點】滙豐策略師表示，伊朗戰爭再度升級並未促使他們改變對風險資產的看漲觀點；他們認為，第二季度財報季才是更重要的驅動因素。Max Kettner為首的團隊表示，“市場對美國一致預期偏高”的敘事沒有考慮到這樣一個事實：季度盈利環比增長預期“仍然相當低”。這些策略師表示，其情緒和倉位框架尚未發出任何賣出訊號，並補充稱，系統性投資者的倉位“仍大致處於中性”。他們還表示，美國6月CPI意外下行，可能是美國例外論開始消退的早期跡象，這起初可能會成為風險資產“樂見的提振因素”，但若美國國債收益率下行、收益率曲線重新陡化，這可能演變成一場痛苦交易。
+
+---
+
+### 2026-07-16 00:00:20  #國際
+
+俄羅斯聯邦統計局資料：截至 7 月 13 日當週俄羅斯居民消費通脹率為 0.17%，前一週為 0.31%。
+
+---
+
+### 2026-07-16 00:00:01  #MKT News
+
+According to Axios, a senior White House official said Trump's schedule currently does not include a meeting with Netanyahu next week.
+
+---
+
+### 2026-07-15 23:59:35  #公司 #市場
+
+【阿斯麥業績報告要點總結】
+1、隨著人工智慧（AI）半導體的需求持續飆升，荷蘭光刻機製造商阿斯麥控股今年第二次上調了全年淨銷售額指引，預期將達到430億-450億歐元之間。
+2、這家晶片裝置製造商表示，其客戶（包括臺積電和三星等晶片製造商）正在增加資本支出。
+3、阿斯麥表示，為了滿足激增的需求，公司將在2027年把EUV光刻機的產能提高約30%——達到85臺，並且會“研究”在2028年再提高30%。這意味著屆時產能可能達到110臺。
+4、在財報電話會議上，分析師們詳細詢問了阿斯麥管理層關於2028年具體的產能擴張計劃。對此，首席財務官達森（Dassen）表示，來自客戶的需求訊號“足夠強烈，足以讓我們認真研究110臺這個目標”。
+5、阿斯麥股價在盤中回吐部分漲幅，此前該股在早盤一度飆升7.9%。在財報電話會議結束後，其股價漲幅收窄至不足1%。
+
+---
+
+### 2026-07-15 23:58:24  #其他
+
+市場訊息：科威特境內發生多起爆炸 。
+
+---
+
+### 2026-07-15 23:57:56  #MKT News
+
+Market news: Explosion reported in Kuwait.
+
+---
+
+### 2026-07-15 23:57:40  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed must continue to drive efficiency improvements across its system.
+
+---
+
+### 2026-07-15 23:57:34  #MKT News
+
+PENTAGON: U.S. Secretary of Defense Hegseth will travel to Pennsylvania today to attend a defense summit.
+
+---
+
+### 2026-07-15 23:57:16  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said he very much favors the structure of the Board of Governors and the regional Federal Reserve Banks.
+
+---
+
+### 2026-07-15 23:57:16  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said the Fed needs to properly manage taxpayers' money.
+
+---
+
+### 2026-07-15 23:57:13  #央行 #國際
+
+美聯儲主席沃什： 美聯儲應當妥善管理納稅人資金。
+
+---
+
+### 2026-07-15 23:56:45  #央行 #國際
+
+美聯儲主席沃什： 我認可美聯儲理事會與各儲備銀行的架構設計。
+
+---
+
+### 2026-07-15 23:56:32  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's Health Ministry says deaths from recent US airstrikes have risen to 35.
+
+---
+
+### 2026-07-15 23:54:57  #公司
+
+谷歌撤回修改 Epic 案法院判決令的申請， 將於下週允許第三方應用商店入駐其應用商店。
+
+---
+
+### 2026-07-15 23:54:42  #MKT News #Star Stocks #GOOGL.O #Impact bearish
+
+Google will next week allow third-party app stores to enter its app store.
+
+---
+
+### 2026-07-15 23:54:27  #Trading Economics #Markets #France #Stock Market #Importance 0
+
+CAC 40 Edges Higher as Luxury Stocks Rally — The CAC 40 inched up 0.2% to close at 8,382 on Wednesday, lifted by gains in the luxury sector. Luxury stocks outperformed, led by LVMH (+2.7%), Hermès (+2.4%), and Kering (+3.6%), on optimism that the global personal luxury goods market is recovering after Bain & Company noted stronger-than-expected second-quarter demand, particularly in the US. Meanwhile, investors continued to assess the impact of escalating tensions in the Middle East. Oil prices rose as the worsening US-Iran conflict continued to fuel concerns over global supply disruptions. Higher energy prices also revived inflation worries. Industrial and financial stocks traded lower, with Air Liquide down 1.9% and AXA shedding 0.8%. STMicroelectronics lost 4%, tracking a selloff in US chipmakers.
+
+---
+
+### 2026-07-15 23:53:31  #公司
+
+紐約洋基隊據悉正在與阿波羅全球管理公司就一項30億美元的融資協議進行磋商。
+
+---
+
+### 2026-07-15 23:52:59  #國際
+
+【俄稱“志願聯盟”國家在烏克蘭部署兵力不可接受】俄羅斯外交部發言人扎哈羅娃15日在莫斯科舉行的記者會上表示，對俄羅斯而言，任何“志願聯盟”國家在烏克蘭部署軍事力量都是不可接受的。扎哈羅娃表示，一旦這些軍事力量完成部署，將加劇俄羅斯面臨的安全威脅，俄方將把這些軍事力量視為合法打擊目標。扎哈羅娃還表示，西方國家向烏持續供應武器是解決烏克蘭問題的障礙之一。要結束衝突，西方就必須停止向烏克蘭供應武器。（新華社）
+
+---
+
+### 2026-07-15 23:52:50  #MKT News #Macro & Rates #US Economy #EQIX.O #Impact bullish #DLR.O #CONE.O
+
+Fed chair Kevin Warsh said data centers are having an observable impact on the demand side of the U.S. economy.
+
+---
+
+### 2026-07-15 23:52:34  #央行 #國際
+
+美聯儲主席沃什： 我們能觀察到資料中心對經濟需求端產生的影響。
+
+---
+
+### 2026-07-15 23:51:59  #MKT News #WTI #Impact bearish #Brent
+
+【US considering another extension of Jones Act waiver】Citing renewed conflict with Iran and rising concern over energy-price volatility and supply disruptions, the White House is considering another extension of a Jones Act waiver that permits foreign vessels to move cargo between US ports, two sources told Refinitiv.
+
+---
+
+### 2026-07-15 23:51:38  #其他
+
+諾和諾德：計劃 2026 年下半年在更多國家推出 Wegovy 口服片劑。
+
+---
+
+### 2026-07-15 23:51:18  #MKT News #NVO.O #Impact bullish
+
+EU approves Novo Nordisk's Wegovy oral tablet, the first oral GLP-1 weight-loss drug.
+
+---
+
+### 2026-07-15 23:51:06  #國際
+
+諾和諾德旗下減肥藥 Wegovy 口服片劑獲歐盟委員會批准，成為歐盟首款用於體重管理的口服 GLP‑1 類藥物；其 7.2 毫克高劑量一次性即用注射筆同步獲批。
+
+---
+
+### 2026-07-15 23:50:16  #MKT News #DAX #Impact bullish #EURUSD #Impact mixed
+
+Market sources say the EU plans to slow the pace of emissions reductions in the EU carbon market.
+
+---
+
+### 2026-07-15 23:50:10  #國際
+
+歐盟計劃放緩碳市場減排節奏。
+
+---
+
+### 2026-07-15 23:49:27  #國際
+
+美國中央司令部： 伊朗官方媒體稱美軍 7 月 14 日襲擊了霍韋澤一處民用小麥倉儲設施。該說法不實。
+
+---
+
+### 2026-07-15 23:48:35  #MKT News #Market Regions #Europe & UK #Commodities #Energy #Brent
+
+Market sources: the EU will maintain the Russian oil price cap at its current level until July 23.
+
+---
+
+### 2026-07-15 23:48:34  #國際
+
+歐盟外交官透露，歐盟各國特使達成一致：在制裁相關磋商持續推進期間，維持俄原油價格上限不變，有效期至 7 月 23 日。
+
+---
+
+### 2026-07-15 23:48:32  #MKT News #Market Themes #AI Revolution
+
+Federal Reserve Chair Kevin Warsh said if AI delivers disappointing returns, most AI-related capex can be repurposed for other uses.
+
+---
+
+### 2026-07-15 23:48:16  #國際
+
+歐盟外交官稱，歐盟各國特使未能就針對俄羅斯的第 21 輪制裁方案達成共識。
+
+---
+
+### 2026-07-15 23:48:06  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+CENTCOM said Iran attacked innocent civilians in the Strait and neighboring Gulf states.
+
+---
+
+### 2026-07-15 23:48:00  #央行 #國際
+
+美聯儲主席沃什： 即便人工智慧行業的實際發展不及預期，大量人工智慧相關資本開支仍具備其他用途。
+
+---
+
+### 2026-07-15 23:47:52  #MKT News #Market Regions #Europe & UK #WTI #Impact bullish #Brent #DXY
+
+Market sources: EU diplomats said the EU envoy failed to secure agreement on the 21st round of sanctions on Russia.
+
+---
+
+### 2026-07-15 23:47:28  #MKT News
+
+CENTCOM said the Iranian state-media report that U.S. forces struck a civilian wheat storage facility on July 14 was false.
+
+---
+
+### 2026-07-15 23:45:33  #央行 #市場 #國際
+
+俄羅斯央行：第二季度經濟活動高於第一季度，表明GDP有望實現同比增長。由於燃料價格上漲，價格增長顯著加快，但持續的通脹壓力仍低於2025年水平。風險平衡進一步向通脹傾斜，考慮到財政刺激和燃料危機。
+
+---
+
+### 2026-07-15 23:45:25  #MKT News #Brent #Impact bullish #WTI
+
+Russian central bank: price growth has accelerated sharply on fuel-price rises, but persistent inflationary pressure remains below 2025 levels.
+
+---
+
+### 2026-07-15 23:45:22  #MKT News #XAUUSD #Impact bullish #Brent #US10Y
+
+RUSSIAN CENBANK says risk balance has further tilted toward inf amid fiscal stimulus and the fuel crisis.
+
+---
+
+### 2026-07-15 23:45:12  #MKT News
+
+RUSSIAN CENBANK says Q2 economic activity exceeded Q1, indicating GDP is likely to register YoY growth.
+
+---
+
+### 2026-07-15 23:43:45  #央行 #國際
+
+美聯儲主席沃什： 美聯儲關鍵基礎設施屬於公共品，供各類新舊金融機構使用。
+
+---
+
+### 2026-07-15 23:43:32  #其他
+
+【直布羅陀與西班牙拆除邊境圍欄】關於直布羅陀未來地位的協議15日開始臨時執行，直布羅陀與西班牙之間的陸路邊境圍欄被拆除，人員和車輛跨境通行的常規邊境檢查取消。
+
+---
+
+### 2026-07-15 23:43:26  #MKT News #Important
+
+【Anthropic to hold investor meetings ahead of potential IPO, sources say】Anthropic is holding investor meetings in the coming weeks as it prepares for a potential large IPO, people familiar with the matter said. Lead underwriters are arranging the meetings and the company has discussed a possible IPO as early as October. If it proceeds, Anthropic would precede rival OpenAI, which had eyed a fall 2026 listing but is reportedly considering delaying to 2027; both firms have quietly filed related paperwork.
+
+---
+
+### 2026-07-15 23:41:52  #MKT News #ASML.O #Impact bearish #TSM.N #Impact bullish
+
+According to The Information, TSMC (TSM.N) has begun pushing back against ASML's (ASML.O) pricing plan.
+
+---
+
+### 2026-07-15 23:41:19  #焦點 #國際
+
+【伊朗外交部：若美方違約，伊朗則反制】伊朗“平衡”通訊社15日援引伊朗外交部發言人的話報道，伊美諒解備忘錄只有在維護國家利益和安全的條件下才對伊朗有價值。報道說，伊朗會在對方遵守承諾的前提下履行義務；若對方違約伊朗會在必要時停止履約、採取反制。（新華社）
+
+---
+
+### 2026-07-15 23:41:10  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+【Iran: No current plans to negotiate, focused on defense】Iran’s foreign ministry spokesperson said the armed forces have made clear any aggression against Iranian territory will be met with an equivalent response. We currently have no plans to negotiate and are focused on defense. Memoranda of understanding are mutual commitments; if the other party breaches them, we will cease fulfilling our obligations, and the same principle will be applied going forward.
+
+---
+
+### 2026-07-15 23:39:23  #公司 #國際
+
+【美媒曝對伊戰事真實花費高達千億美元】據美國全國廣播公司報道，美國對伊朗軍事行動實際支出可能高達1000億美元，遠超美國政府公佈的310億美元。報道稱，美國防部內部評估顯示，美國在對伊朗軍事行動中的實際支出在800億至1000億美元之間，與此前政府公佈的數額存在巨大差距，主要是因為此前的估算沒有涵蓋未公開的作戰支出、先進戰機損失以及美國在中東軍事設施遭受的嚴重破壞。僅重建被伊朗打擊的美軍基地一項，費用就可能超過300億美元。（新華社）
+
+---
+
+### 2026-07-15 23:39:07  #市場
+
+商品貨幣紐元兌美元日內漲幅達0.5%，報0.5841。
+
+---
+
+### 2026-07-15 23:38:56  #國際
+
+美國財長貝森特：將持續針對伊朗物資採購網路實施打擊。
+
+---
+
+### 2026-07-15 23:38:47  #MKT News
+
+U.S. Treasury Secretary Bessent said he will continue to target Iran's procurement networks.
+
+---
+
+### 2026-07-15 23:38:17  #MKT News #Market Regions #Europe & UK #DAX #Impact bearish #CAC 40 #Impact bullish #FTSE100
+
+At close on July 15 (Wed) European equities: Germany's DAX fell 135.16 pts (-0.54%) to 25,009.22. Britain's FTSE 100 fell 15.76 pts (-0.15%) to 10,513.63. France's CAC 40 rose 15.58 pts (+0.19%) to 8,382.43. STOXX Europe 50 fell 14.44 pts (-0.23%) to 6,265.75. Spain's IBEX 35 fell 81.81 pts (-0.42%) to 19,274.79. Italy's FTSE MIB fell 437.00 pts (-0.83%) to 52,425.50.
+
+---
+
+### 2026-07-15 23:37:45  #公司 #市場 #觀點 #央行 #國際
+
+【摩根大通和摩根士丹利雙雙發債融資 此前財報表現亮眼】摩根大通和摩根士丹利在公佈強勁業績後尋求在美國高評級債券市場發債融資。此次發債延續了華爾街大行本季度的融資熱潮。這輪融資始於高盛在週二啟動100億美元債券發行，該行週三還啟動三部分歐元債券發行。美國大型銀行本週公佈的業績普遍好於分析師預期，受益於市場表現強勁、波動性持續以及併購交易回暖。與此同時，又一份低於預期的通脹資料進一步緩解市場對美聯儲即將加息的擔憂，推動股市和債市上漲。據知情人士透露，摩根大通將發行四部分債券，期限從4年到15年不等，最長期限債券的初始價格指引為較美國國債收益率高約150個基點。另一位知情人士表示，摩根士丹利也在發行四部分債券，期限介於3年至11年之間。由於未獲授權公開發言，該人士要求匿名。最長期限債券的初始價格指引為較美國國債收益率高約130個基點。
+
+---
+
+### 2026-07-15 23:37:23  #央行 #國際
+
+美聯儲主席沃什： 美聯儲尋求經濟增長覆蓋面擴大、通脹收窄回落。 過去幾個季度，企業整體盈利普遍上行。
+
+---
+
+### 2026-07-15 23:37:12  #MKT News #S&P500 #Impact bullish #US10Y #DXY #Impact bearish
+
+Fed Chair Kevin Warsh said the Fed is seeking broader-based growth and more contained inflation.
+
+---
+
+### 2026-07-15 23:37:02  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #Nasdaq100 #Dow
+
+Fed chair Kevin Warsh said corporate profits have broadly risen over the past several quarters.
+
+---
+
+### 2026-07-15 23:36:53  #焦點 #國際
+
+塔斯尼姆通訊社：伊朗外交部發言人表示，目前暫無談判計劃，當前重心放在防務事務上。
+
+---
+
+### 2026-07-15 23:36:43  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+Iran's foreign ministry spokesman said there are no current plans to negotiate and that Tehran is focused on defense.
+
+---
+
+### 2026-07-15 23:36:37  #公司 #其他 #焦點
+
+【阿斯麥據悉計劃提高晶片製造裝置價格】據四位知情人士透露，全球核心晶片裝置供應商阿斯麥計劃提高晶片製造裝置價格，而臺積電已開始抵制阿斯麥的定價方案。
+
+---
+
+### 2026-07-15 23:36:14  #央行 #國際
+
+美聯儲主席沃什： 人工智慧企業估值大幅飆升現象值得關注。
+
+---
+
+### 2026-07-15 23:36:14  #MKT News #Important #ASML.O #Impact bullish
+
+According to The Information, ASML (ASML.O) plans to raise prices for semiconductor manufacturing equipment.
+
+---
+
+### 2026-07-15 23:35:56  #央行 #國際
+
+美聯儲主席沃什： 經濟繁榮與蕭條交替迴圈既無益於經濟，也不會讓美聯儲的工作變得輕鬆。
+
+---
+
+### 2026-07-15 23:35:46  #MKT News #WTI #Impact bearish #Brent
+
+Sources say the White House is considering further extending a Jones Act waiver as escalation in the Iran conflict raises price concerns.
+
+---
+
+### 2026-07-15 23:35:22  #市場 #國際
+
+市場訊息：受伊朗衝突再起、市場擔憂物價上漲影響，白宮正考慮再度延長《瓊斯法案》豁免期限。
+
+---
+
+### 2026-07-15 23:35:04  #央行 #國際
+
+美聯儲主席沃什： 若人工智慧企業令投資者失望，資金供給將會枯竭。
+
+---
+
+### 2026-07-15 23:34:50  #MKT News #Macro & Rates #The Fed (FOMC) #Nasdaq100 #Impact bearish #S&P500
+
+Fed chair Kevin Warsh said if AI companies disappoint investors, capital will dry up.
+
+---
+
+### 2026-07-15 23:34:43  #央行 #國際
+
+歐洲央行管委穆蘭： 法國必須避免債務出現滾雪球效應， 削減法國財政赤字至關重要，法國的減赤字方案必須具備可信度。
+
+---
+
+### 2026-07-15 23:33:59  #國際
+
+美國製裁支援伊朗革命衛隊武器專案的相關個人與實體。
+
+---
+
+### 2026-07-15 23:33:57  #MKT News
+
+【FT: Burnham expected to name Shabana Mahmood as UK chancellor】Financial Times, citing three people familiar with Andy Burnham’s thinking, reports Home Secretary Shabana Mahmood is expected to be appointed UK chancellor if Burnham becomes prime minister. Burnham’s spokesman declined to comment and said cabinet roles will be finalised on Monday only after he assumes office. One person familiar with the plan called the appointment a done deal; another said current energy secretary Ed Miliband—previously the frontrunner for chancellor—is now more likely to be foreign secretary. Colleagues said Mahmood discussed policy with Burnham this month, including economic issues, but has not been informed of any move and there is widespread speculation.
 
 ---
 
@@ -23429,563 +23914,5 @@ FX Updates: Brazilian Real Appreciates by 1.61% — Top currency gainers are Bra
 ### 2026-07-14 22:58:39  #市場
 
 SK海力士ADR股價上漲15%，報175.280美元/股，總市值報1.28萬億美元。
-
----
-
-### 2026-07-14 22:58:23  #市場
-
-現貨鉑金上漲3%，報每盎司1652.49美元。
-
----
-
-### 2026-07-14 22:57:59  #Trading Economics #Economy #Ecuador #Inflation Rate #Importance 1
-
-Ecuador Inflation Rises in June — Ecuador's annual inflation rate rose to 1.65% in June 2026 from 0.92% in the previous month. The strongest price pressures were recorded in transport (7.8%) and healthcare (3.6%). Prices also increased for education (1.6%), recreation and culture (1.2%), communication (0.7%), and furniture and household articles (1.0%). Meanwhile, deflation persisted in food and non-alcoholic beverages (-0.2%), alcoholic beverages and tobacco (-0.9%), clothing and footwear (-4.3%), and housing and utilities (-2.7%). On a monthly basis, consumer prices rose 0.8% after falling 0.6% in May.
-
----
-
-### 2026-07-14 22:57:43  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Trade Higher — US stocks moved higher on Tuesday after softer inflation data shut the door on a Fed rate hike this month. The S&P 500 and Nasdaq 100 rose up to 0.5%, while the Dow swung to hover above the flatline. Both headline and core inflation rates declined, easing the impact of another rally in energy prices after the US and Iran maintained strikes against each other. Chip producers rebounded from yesterday's selloff with Micron and Sandisk adding 4% each, tracking major memory producers, while Nvidia rose 1%. On top of that, financial companies rebounded from early losses. JPMorgan jumped 3% after posting its strongest profit level ever, while Bank of America, and Citi gained over 2% after releasing their results. Among capital markets, Goldman Sachs surged over 7% after beating earnings estimates. On the other hand, IBM tanked 25% after missing expectations and warning of low spending from clients, which have opted for spending on chips and memory this quarter instead.
-
----
-
-### 2026-07-14 22:57:35  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed plans to eliminate taxes that are inflationary.
-
----
-
-### 2026-07-14 22:57:28  #其他
-
-沃什：我們計劃取消本身會推高通脹的稅收。
-
----
-
-### 2026-07-14 22:57:16  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said the Fed will undertake reforms across all areas, including supervision, regulation and payments.
-
----
-
-### 2026-07-14 22:57:14  #央行 #國際
-
-沃什：美聯儲將在各方面推進改革，包括監管、規制和支付系統。
-
----
-
-### 2026-07-14 22:57:10  #其他
-
-沃什：短短六週，我們就帶來了思維的巨大變革。
-
----
-
-### 2026-07-14 22:56:46  #公司
-
-市場訊息：普雷西迪奧投資公司宣佈將Elevate半導體出售給達爾科技。
-
----
-
-### 2026-07-14 22:55:29  #市場
-
-英國債務管理局(DMO)表示，國內投資者佔英國2038年到期、票息1.75%通脹掛鉤國債需求的89%。
-
----
-
-### 2026-07-14 22:55:21  #Trading Economics #Markets #commodity #Importance 0
-
-Palladium is up by 5.07% — Palladium increased 5.07% to 1316.5 USD/t.oz
-
----
-
-### 2026-07-14 22:55:10  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-Fed Chair Kevin Warsh said the Fed does not want to be in the bailout business and hopes to be positioned so it will not have to rescue any entity.
-
----
-
-### 2026-07-14 22:54:25  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
-
-【Kevin Warsh reiterates commitment to 2% disinflation target, stresses Fed independence】Kevin Warsh told a congressional hearing he will not provide forward guidance on interest rates and largely avoided discussing specific rate policy. He said the Fed is firmly committed to price stability and to driving disinflation back to a 2% target, and that the central bank has the tools to do so. Warsh said the Fed will reassess its inflation framework to better understand drivers of inflation and potential policy responses. Newly created working groups remain in a research phase; discussions will occur among the 19 policymakers, with the process conducted transparently and research and policy ideas shared periodically. On balance-sheet policy he said the balance sheet is part of monetary policy, not just market plumbing, and any adjustments would be communicated well in advance to give markets time to prepare. Asked about potential political interference, including from Trump, Warsh said he will continue to execute his duties and defend the Fed’s policy independence.
-
----
-
-### 2026-07-14 22:54:15  #MKT News
-
-Al Arabiya reported Lebanon and Israel delegations concluded talks in Rome.
-
----
-
-### 2026-07-14 22:53:55  #其他
-
-沃什：我們希望處於無需救助任何主體的立場，加密行業也不例外。
-
----
-
-### 2026-07-14 22:53:53  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 582.00 USD, the lowest since June 2026. Over the past 4 weeks, Deere & Company gained 1.38%, and in the last 12 months, it increased 15.87%.
-
----
-
-### 2026-07-14 22:53:06  #其他
-
-沃什：我們不想涉足救助業務，就此打住。
-
----
-
-### 2026-07-14 22:52:54  #公司
-
-【濟南建邦金屬材料股份有限公司 (前稱為建邦材料有限公司)向港交所提交上市申請書】據港交所檔案：濟南建邦金屬材料股份有限公司 (前稱為建邦材料有限公司)向港交所提交上市申請書。
-
----
-
-### 2026-07-14 22:52:42  #國際
-
-【以軍空襲加沙北部致7人死亡】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）14日發表宣告說，以軍戰機當天轟炸加沙地帶北部傑巴利耶難民營一處警察辦公地點，造成7人死亡。加沙地帶內政部門同日發表宣告說，有6名警察在此次襲擊中喪生，其中包括傑巴利耶難民營警察局負責人。以軍尚未對此作出回應。（新華社）
-
----
-
-### 2026-07-14 22:52:29  #國際
-
-市場訊息：美國德克薩斯州調查領英（LINKEDIN）是否釋出虛假招聘資訊。
-
----
-
-### 2026-07-14 22:51:38  #其他
-
-沃什：雙重使命是你們對我們的承諾，即我們將專注於價格穩定和充分就業。
-
----
-
-### 2026-07-14 22:51:14  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #US10Y
-
-Federal Reserve Chair Kevin Warsh said more effort is needed to address inf.
-
----
-
-### 2026-07-14 22:50:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-Federal Reserve Chair Kevin Warsh said the central bank still has work to do on inflation.
-
----
-
-### 2026-07-14 22:49:51  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed's dual mandate is not in conflict.
-
----
-
-### 2026-07-14 22:49:49  #其他
-
-沃什：通脹方面仍有一些工作要做。
-
----
-
-### 2026-07-14 22:49:38  #國際
-
-市場訊息:俄羅斯從哈薩克拜科努爾航天發射場將一名美國宇航員和兩名俄羅斯宇航員送往國際空間站，執行為期八個月的任務。
-
----
-
-### 2026-07-14 22:49:29  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
-
-Fed Chair Kevin Warsh said the labor market appears to be in a relatively good balance.
-
----
-
-### 2026-07-14 22:49:26  #MKT News #Market Regions #Greater China #AZN.O #Impact bullish
-
-【Jiangsu party chief Xin Changxing and governor Liu Xiaotao meet AstraZeneca delegation】On July 14 in Nanjing, Jiangsu Party Secretary Xin Changxing and Governor Liu Xiaotao met AstraZeneca global executive vice president and head of international business Yin Sirui. Following the meeting, AstraZeneca and Dizhe Pharmaceuticals signed an exclusive licensing agreement for Shuwozhe (Shuwotini), a novel oral, irreversible EGFR inhibitor for treating lung cancer.
-
----
-
-### 2026-07-14 22:49:11  #央行 #國際
-
-沃什：美聯儲雙重使命之間並不衝突。
-
----
-
-### 2026-07-14 22:49:08  #國際
-
-市場訊息：俄羅斯從拜科努爾發射場發射載人飛船。
-
----
-
-### 2026-07-14 22:49:03  #MKT News #Market Regions #Greater China
-
-HKEX filings show Jinan Jianbang Metal Materials Co., Ltd. has filed for a Hong Kong listing.
-
----
-
-### 2026-07-14 22:48:54  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve Chair Kevin Warsh said nominal wage growth remains robust.
-
----
-
-### 2026-07-14 22:48:53  #其他
-
-沃什：名義工資增長穩健。
-
----
-
-### 2026-07-14 22:48:37  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve Chair Kevin Warsh said the labor market has shown marked resilience.
-
----
-
-### 2026-07-14 22:48:33  #其他
-
-沃什：遏制通脹將推動美債長端收益率下行，房貸成本隨之降低。
-
----
-
-### 2026-07-14 22:48:31  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
-
-Fed Chair Kevin Warsh said the Fed is not afraid of productivity-driven economic growth.
-
----
-
-### 2026-07-14 22:48:25  #其他
-
-沃什：勞動力市場表現出了驚人的韌性。
-
----
-
-### 2026-07-14 22:47:45  #市場
-
-巴西中央銀行展期所有5萬份外匯掉期合約。
-
----
-
-### 2026-07-14 22:47:33  #國際
-
-市場訊息：以色列透過法律，暫停逮捕逃避兵役的哈雷迪教徒。
-
----
-
-### 2026-07-14 22:47:13  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #EURUSD #DXY #Impact bearish
-
-【Timiraos: June CPI helps Fed chair Walsh ahead of congressional testimony】Nick Timiraos said June CPI gave Fed chair Kevin Walsh room entering a two-day congressional testimony, his first Hill appearance since April confirmation. Softer-than-expected inflation allows Walsh to stick to his written testimony, avoid fresh forward guidance and protect FOMC consensus without being boxed in. Timiraos notes Walsh favors responding to data rather than pre-feeding markets; he can endure lengthy questioning while using prepared language on tariffs, AI investment and whether policy remains restrictive — stressing price stability — which reduces the likelihood the hearings produce new market-moving policy signals.
-
----
-
-### 2026-07-14 22:47:07  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
-
-GlaxoSmithKline Stock Price Hits 4-week Low — GlaxoSmithKline shares decreased to 1906.00 GBp, the lowest since June 2026. Over the past 4 weeks, GlaxoSmithKline lost 2.6%, and in the last 12 months, it increased 35.97%.
-
----
-
-### 2026-07-14 22:46:56  #央行 #國際
-
-美聯儲主席沃什：30年期抵押貸款利率因通脹而高企。
-
----
-
-### 2026-07-14 22:46:56  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
-
-Federal Reserve Chair Kevin Warsh: Price stability is consistent with lower long-term yields.
-
----
-
-### 2026-07-14 22:46:49  #其他
-
-沃什：物價穩定對應長期收益率走低。
-
----
-
-### 2026-07-14 22:46:09  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #DXY
-
-Federal Reserve Chair Kevin Warsh said 30-year mortgage rates remain elevated due to inflation.
-
----
-
-### 2026-07-14 22:45:56  #國際
-
-市場訊息： 美國移民與海關執法局（ICE）獲指令，今後將停止絕大多數車輛臨檢行動。
-
----
-
-### 2026-07-14 22:45:42  #公司 #觀點
-
-【惠達衛浴：出售廣西新高盛股權及相關債權，預計將減少2026年度歸母淨利潤3200萬元】惠達衛浴公告，公司控股子公司北流市新盛達新型材料有限公司擬向北流市聖力華福物流倉儲有限公司轉讓其持有的廣西新高盛薄型建陶有限公司100%的股權，並同步轉讓公司及北流新盛達對廣西新高盛的相關債權。股權轉讓價格為1元，債權轉讓金額為6800萬元，合計6800萬元。本次交易完成後，廣西新高盛將不再納入公司財務報表合併範圍內。經財務初步測算，本次交易預計將減少公司2026年度歸母淨利潤3200萬元左右。
-
----
-
-### 2026-07-14 22:45:05  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Gains on Cooling US Inflation — The Ibovespa gained more than 0.5% to trade near 177,000 on Tuesday, recovering from the previous session's losses after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with Itaú, Bradesco, and Itaúsa up nearly 1%. Utilities also posted gains, with Axia and Sabesp adding 0.5%. Meanwhile, Vale jumped more than 2% as iron ore prices surged on expectations that impending Chinese restrictions on selected Fortescue portside cargoes will tighten supply. Other notable gainers included Ambev (+1%), Rede D'Or (+1%), and Vivo (+1.5%).
-
----
-
-### 2026-07-14 22:44:34  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said he does not believe any change in communication would be intended to conceal the truth.
-
----
-
-### 2026-07-14 22:44:03  #其他
-
-沃什：不要指望在隱瞞真相的溝通方式上會有任何改變。
-
----
-
-### 2026-07-14 22:43:58  #MKT News
-
-KEVIN WARSH said high inflation underscores the need for communication reform.
-
----
-
-### 2026-07-14 22:43:43  #其他
-
-沃什：高通脹表明通訊改革至關重要。
-
----
-
-### 2026-07-14 22:43:34  #其他
-
-據貓眼專業版資料，截至7月14日22時，2026年年度總票房（含預售）突破190億，《飛馳人生3》《給阿嬤的情書》《鏢人：風起大漠》暫列年度票房榜前三位。
-
----
-
-### 2026-07-14 22:43:27  #MKT News
-
-【2026 cumulative box office tops 19 bln yuan】Maoyan Pro data: as of 22:00 on July 14, 2026, 2026 cumulative box office including presales exceeded 19 bln yuan. Top three titles by revenue: Feichi Rensheng 3; A Letter to Grandma; Biaoren: Wind Rises in the Desert.
-
----
-
-### 2026-07-14 22:43:12  #公司 #市場
-
-FASTENAL股價一度下跌3.4%，管理層召開財報電話會議。
-
----
-
-### 2026-07-14 22:43:02  #公司
-
-標普：由於盈利強勁、槓桿率低，CARPENTER科技公司展望被上調至正面；“BB+”評級得到確認。
-
----
-
-### 2026-07-14 22:42:50  #其他
-
-【全國用電負荷達15.51億千瓦再創新高 電力供需形勢總體平穩】記者從國家能源局瞭解到，繼7月10日全國用電負荷15.18億千瓦首創新高後，7月14日全國用電負荷再創新高，達到15.51億千瓦。國家發展改革委、國家能源局充分發揮全國統一電力市場體系作用，加強電力互濟，7月10日跨省跨區跨網最大輸送電力合計2.63億千瓦，7月14日合計2.78億千瓦，有力支撐全國用電保障。目前，全國能源電力供需形勢總體平穩。（央視新聞）
-
----
-
-### 2026-07-14 22:42:16  #央行 #國際
-
-當被問及若特朗普試圖干預美聯儲他會作何應對時，沃什表示將繼續履行自身職責。
-
----
-
-### 2026-07-14 22:41:43  #其他
-
-沃什：致力於實施獨立貨幣政策。
-
----
-
-### 2026-07-14 22:41:27  #央行 #國際
-
-沃什：最高法院回答了有關美聯儲獨立性的問題，我在美聯儲的目標是消除政治因素。
-
----
-
-### 2026-07-14 22:41:20  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
-
-【SK Hynix ADR options open with tilt toward short-dated contracts】Options on SK Hynix ADRs began trading on the U.S. options exchange Tuesday. As of 10:25 a.m. New York time total volume was about 33,000 contracts, with more than two-thirds concentrated in options expiring this Friday. The most active contract was the $185 call (≈2,900 contracts), followed by the $145 put. A $200 call expiring in August also traded heavily (over 1,500 contracts). Daniel Kirsch, head of options at Piper Sandler, said traders are positioning for further near-term upside in the ADR and that demand for short-dated bullish options—especially calls expiring this Friday—is expected to be strong, likely drawing rapid retail participation.
-
----
-
-### 2026-07-14 22:41:09  #MKT News #Important #Commodities #Energy
-
-【China peak power load hits 1.551 billion kW; cross-region transfers rise to 278 GW】China's peak electricity load reached 1.551 billion kilowatts (1,551 GW) on July 14, up from 1.518 billion kW on July 10, the National Energy Administration said. The National Development and Reform Commission and the NEA said the national unified power market supported increased cross‑province/region/grid transfers, with maximum transfers totaling 263 GW on July 10 and 278 GW on July 14. Authorities said nationwide power supply-demand conditions are overall stable.
-
----
-
-### 2026-07-14 22:40:57  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said his goal within the Fed is to prevent political interference.
-
----
-
-### 2026-07-14 22:40:33  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve chair Kevin Warsh said the Supreme Court has already answered the question about the Fed’s independence.
-
----
-
-### 2026-07-14 22:40:21  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #XAUUSD #DXY #Impact bearish
-
-Federal Reserve chair Kevin Warsh said he understands that central banks need to intervene in markets during crises.
-
----
-
-### 2026-07-14 22:40:13  #央行 #國際
-
-沃什：美聯儲很榮幸能成為一家獨立的中央銀行。我理解在危機時期，央行需要介入市場。
-
----
-
-### 2026-07-14 22:39:57  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said the Fed is honored to be an independent central bank.
-
----
-
-### 2026-07-14 22:39:26  #公司
-
-據港交所檔案：深圳市威兆半導體股份有限公司向港交所提交上市申請書。
-
----
-
-### 2026-07-14 22:38:45  #MKT News
-
-According to HKEX filings, Shenzhen Weizhao Semiconductor Co., Ltd. has filed a listing application with HKEX.
-
----
-
-### 2026-07-14 22:38:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
-
-Federal Reserve Chairman Kevin Warsh said the Fed's balance-sheet framework has changed materially.
-
----
-
-### 2026-07-14 22:37:53  #MKT News
-
-Federal Reserve Chair Kevin Warsh said the Fed must do its job to avoid interference from fiscal policy.
-
----
-
-### 2026-07-14 22:37:52  #央行 #國際
-
-沃什：美聯儲必須採取強有力的措施，避免財政政策干預。
-
----
-
-### 2026-07-14 22:37:42  #國際
-
-美國原油價格短暫回落，WTI原油價格接近每桶79美元。
-
----
-
-### 2026-07-14 22:37:37  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said any changes to balance-sheet policy will be given advance notice.
-
----
-
-### 2026-07-14 22:37:34  #其他
-
-沃什：資產負債表絕非僅是體系搭建問題。
-
----
-
-### 2026-07-14 22:37:23  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said the balance sheet is part of monetary policy.
-
----
-
-### 2026-07-14 22:37:05  #央行 #國際
-
-美聯儲沃什談及專項工作組：我已要求各專項工作組迴歸第一性原則開展工作。
-
----
-
-### 2026-07-14 22:36:51  #公司
-
-英雄摩托公司批准對ATHER ENERGY投資高達100億盧比。
-
----
-
-### 2026-07-14 22:36:43  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said he has tasked working groups with returning to first principles.
-
----
-
-### 2026-07-14 22:36:29  #其他
-
-沃什：部分工作組的邊界將會重疊。
-
----
-
-### 2026-07-14 22:36:24  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chairman Kevin Warsh said the boundaries of some working groups will overlap.
-
----
-
-### 2026-07-14 22:36:13  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said he will hold public discussions and is willing to regularly share results and his thinking.
-
----
-
-### 2026-07-14 22:36:11  #其他
-
-沃什：將定期分享工作組的想法。
-
----
-
-### 2026-07-14 22:36:01  #其他
-
-沃什：工作組的任何資訊都不會保密。
-
----
-
-### 2026-07-14 22:35:39  #其他
-
-墨西哥主要股指漲幅擴大至1.35%。
-
----
-
-### 2026-07-14 22:35:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Chair Kevin Warsh said an external working group will first share its findings with policymakers.
-
----
-
-### 2026-07-14 22:35:38  #MKT News
-
-Mexico's main stock index extended gains to 1.35%.
-
----
-
-### 2026-07-14 22:35:25  #其他
-
-沃什：各特別工作組將先與19位政策制定者交換意見。
-
----
-
-### 2026-07-14 22:35:08  #其他
-
-富國銀行首席財務官預計未來還將進一步裁員。
-
----
-
-### 2026-07-14 22:34:58  #MKT News #WFC.O #Impact bullish
-
-Wells Fargo CFO says the bank expects further job cuts ahead.
-
----
-
-### 2026-07-14 22:34:39  #其他
-
-沃什：目前各專項工作組正處於調研摸底階段。
-
----
-
-### 2026-07-14 22:34:32  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said several working groups he established are currently in an investigative stage.
-
----
-
-### 2026-07-14 22:34:16  #國際
-
-特朗普在社交平臺上宣揚美日貿易和投資協議。
 
 ---

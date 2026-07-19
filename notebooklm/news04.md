@@ -1,7 +1,565 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-19 07:31:57_
-_本檔包含 3896 則快訊，約 723876 字_
+_更新時間：2026-07-19 09:08:33_
+_本檔包含 3882 則快訊，約 721953 字_
+
+---
+
+### 2026-07-14 22:58:23  #市場
+
+現貨鉑金上漲3%，報每盎司1652.49美元。
+
+---
+
+### 2026-07-14 22:57:59  #Trading Economics #Economy #Ecuador #Inflation Rate #Importance 1
+
+Ecuador Inflation Rises in June — Ecuador's annual inflation rate rose to 1.65% in June 2026 from 0.92% in the previous month. The strongest price pressures were recorded in transport (7.8%) and healthcare (3.6%). Prices also increased for education (1.6%), recreation and culture (1.2%), communication (0.7%), and furniture and household articles (1.0%). Meanwhile, deflation persisted in food and non-alcoholic beverages (-0.2%), alcoholic beverages and tobacco (-0.9%), clothing and footwear (-4.3%), and housing and utilities (-2.7%). On a monthly basis, consumer prices rose 0.8% after falling 0.6% in May.
+
+---
+
+### 2026-07-14 22:57:43  #Trading Economics #Markets #United States #Stock Market #Importance 2
+
+US Stocks Trade Higher — US stocks moved higher on Tuesday after softer inflation data shut the door on a Fed rate hike this month. The S&P 500 and Nasdaq 100 rose up to 0.5%, while the Dow swung to hover above the flatline. Both headline and core inflation rates declined, easing the impact of another rally in energy prices after the US and Iran maintained strikes against each other. Chip producers rebounded from yesterday's selloff with Micron and Sandisk adding 4% each, tracking major memory producers, while Nvidia rose 1%. On top of that, financial companies rebounded from early losses. JPMorgan jumped 3% after posting its strongest profit level ever, while Bank of America, and Citi gained over 2% after releasing their results. Among capital markets, Goldman Sachs surged over 7% after beating earnings estimates. On the other hand, IBM tanked 25% after missing expectations and warning of low spending from clients, which have opted for spending on chips and memory this quarter instead.
+
+---
+
+### 2026-07-14 22:57:35  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed plans to eliminate taxes that are inflationary.
+
+---
+
+### 2026-07-14 22:57:28  #其他
+
+沃什：我們計劃取消本身會推高通脹的稅收。
+
+---
+
+### 2026-07-14 22:57:16  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said the Fed will undertake reforms across all areas, including supervision, regulation and payments.
+
+---
+
+### 2026-07-14 22:57:14  #央行 #國際
+
+沃什：美聯儲將在各方面推進改革，包括監管、規制和支付系統。
+
+---
+
+### 2026-07-14 22:57:10  #其他
+
+沃什：短短六週，我們就帶來了思維的巨大變革。
+
+---
+
+### 2026-07-14 22:56:46  #公司
+
+市場訊息：普雷西迪奧投資公司宣佈將Elevate半導體出售給達爾科技。
+
+---
+
+### 2026-07-14 22:55:29  #市場
+
+英國債務管理局(DMO)表示，國內投資者佔英國2038年到期、票息1.75%通脹掛鉤國債需求的89%。
+
+---
+
+### 2026-07-14 22:55:21  #Trading Economics #Markets #commodity #Importance 0
+
+Palladium is up by 5.07% — Palladium increased 5.07% to 1316.5 USD/t.oz
+
+---
+
+### 2026-07-14 22:55:10  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+Fed Chair Kevin Warsh said the Fed does not want to be in the bailout business and hopes to be positioned so it will not have to rescue any entity.
+
+---
+
+### 2026-07-14 22:54:25  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #XAUUSD #Impact bearish #EURUSD
+
+【Kevin Warsh reiterates commitment to 2% disinflation target, stresses Fed independence】Kevin Warsh told a congressional hearing he will not provide forward guidance on interest rates and largely avoided discussing specific rate policy. He said the Fed is firmly committed to price stability and to driving disinflation back to a 2% target, and that the central bank has the tools to do so. Warsh said the Fed will reassess its inflation framework to better understand drivers of inflation and potential policy responses. Newly created working groups remain in a research phase; discussions will occur among the 19 policymakers, with the process conducted transparently and research and policy ideas shared periodically. On balance-sheet policy he said the balance sheet is part of monetary policy, not just market plumbing, and any adjustments would be communicated well in advance to give markets time to prepare. Asked about potential political interference, including from Trump, Warsh said he will continue to execute his duties and defend the Fed’s policy independence.
+
+---
+
+### 2026-07-14 22:54:15  #MKT News
+
+Al Arabiya reported Lebanon and Israel delegations concluded talks in Rome.
+
+---
+
+### 2026-07-14 22:53:55  #其他
+
+沃什：我們希望處於無需救助任何主體的立場，加密行業也不例外。
+
+---
+
+### 2026-07-14 22:53:53  #Trading Economics #Markets #United States #stocks #Importance 1
+
+Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 582.00 USD, the lowest since June 2026. Over the past 4 weeks, Deere & Company gained 1.38%, and in the last 12 months, it increased 15.87%.
+
+---
+
+### 2026-07-14 22:53:06  #其他
+
+沃什：我們不想涉足救助業務，就此打住。
+
+---
+
+### 2026-07-14 22:52:54  #公司
+
+【濟南建邦金屬材料股份有限公司 (前稱為建邦材料有限公司)向港交所提交上市申請書】據港交所檔案：濟南建邦金屬材料股份有限公司 (前稱為建邦材料有限公司)向港交所提交上市申請書。
+
+---
+
+### 2026-07-14 22:52:42  #國際
+
+【以軍空襲加沙北部致7人死亡】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）14日發表宣告說，以軍戰機當天轟炸加沙地帶北部傑巴利耶難民營一處警察辦公地點，造成7人死亡。加沙地帶內政部門同日發表宣告說，有6名警察在此次襲擊中喪生，其中包括傑巴利耶難民營警察局負責人。以軍尚未對此作出回應。（新華社）
+
+---
+
+### 2026-07-14 22:52:29  #國際
+
+市場訊息：美國德克薩斯州調查領英（LINKEDIN）是否釋出虛假招聘資訊。
+
+---
+
+### 2026-07-14 22:51:38  #其他
+
+沃什：雙重使命是你們對我們的承諾，即我們將專注於價格穩定和充分就業。
+
+---
+
+### 2026-07-14 22:51:14  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #US10Y
+
+Federal Reserve Chair Kevin Warsh said more effort is needed to address inf.
+
+---
+
+### 2026-07-14 22:50:24  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
+
+Federal Reserve Chair Kevin Warsh said the central bank still has work to do on inflation.
+
+---
+
+### 2026-07-14 22:49:51  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said the Fed's dual mandate is not in conflict.
+
+---
+
+### 2026-07-14 22:49:49  #其他
+
+沃什：通脹方面仍有一些工作要做。
+
+---
+
+### 2026-07-14 22:49:38  #國際
+
+市場訊息:俄羅斯從哈薩克拜科努爾航天發射場將一名美國宇航員和兩名俄羅斯宇航員送往國際空間站，執行為期八個月的任務。
+
+---
+
+### 2026-07-14 22:49:29  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+Fed Chair Kevin Warsh said the labor market appears to be in a relatively good balance.
+
+---
+
+### 2026-07-14 22:49:26  #MKT News #Market Regions #Greater China #AZN.O #Impact bullish
+
+【Jiangsu party chief Xin Changxing and governor Liu Xiaotao meet AstraZeneca delegation】On July 14 in Nanjing, Jiangsu Party Secretary Xin Changxing and Governor Liu Xiaotao met AstraZeneca global executive vice president and head of international business Yin Sirui. Following the meeting, AstraZeneca and Dizhe Pharmaceuticals signed an exclusive licensing agreement for Shuwozhe (Shuwotini), a novel oral, irreversible EGFR inhibitor for treating lung cancer.
+
+---
+
+### 2026-07-14 22:49:11  #央行 #國際
+
+沃什：美聯儲雙重使命之間並不衝突。
+
+---
+
+### 2026-07-14 22:49:08  #國際
+
+市場訊息：俄羅斯從拜科努爾發射場發射載人飛船。
+
+---
+
+### 2026-07-14 22:49:03  #MKT News #Market Regions #Greater China
+
+HKEX filings show Jinan Jianbang Metal Materials Co., Ltd. has filed for a Hong Kong listing.
+
+---
+
+### 2026-07-14 22:48:54  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said nominal wage growth remains robust.
+
+---
+
+### 2026-07-14 22:48:53  #其他
+
+沃什：名義工資增長穩健。
+
+---
+
+### 2026-07-14 22:48:37  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
+
+Federal Reserve Chair Kevin Warsh said the labor market has shown marked resilience.
+
+---
+
+### 2026-07-14 22:48:33  #其他
+
+沃什：遏制通脹將推動美債長端收益率下行，房貸成本隨之降低。
+
+---
+
+### 2026-07-14 22:48:31  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
+
+Fed Chair Kevin Warsh said the Fed is not afraid of productivity-driven economic growth.
+
+---
+
+### 2026-07-14 22:48:25  #其他
+
+沃什：勞動力市場表現出了驚人的韌性。
+
+---
+
+### 2026-07-14 22:47:45  #市場
+
+巴西中央銀行展期所有5萬份外匯掉期合約。
+
+---
+
+### 2026-07-14 22:47:33  #國際
+
+市場訊息：以色列透過法律，暫停逮捕逃避兵役的哈雷迪教徒。
+
+---
+
+### 2026-07-14 22:47:13  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #EURUSD #DXY #Impact bearish
+
+【Timiraos: June CPI helps Fed chair Walsh ahead of congressional testimony】Nick Timiraos said June CPI gave Fed chair Kevin Walsh room entering a two-day congressional testimony, his first Hill appearance since April confirmation. Softer-than-expected inflation allows Walsh to stick to his written testimony, avoid fresh forward guidance and protect FOMC consensus without being boxed in. Timiraos notes Walsh favors responding to data rather than pre-feeding markets; he can endure lengthy questioning while using prepared language on tariffs, AI investment and whether policy remains restrictive — stressing price stability — which reduces the likelihood the hearings produce new market-moving policy signals.
+
+---
+
+### 2026-07-14 22:47:07  #Trading Economics #Markets #United Kingdom #stocks #Importance 1
+
+GlaxoSmithKline Stock Price Hits 4-week Low — GlaxoSmithKline shares decreased to 1906.00 GBp, the lowest since June 2026. Over the past 4 weeks, GlaxoSmithKline lost 2.6%, and in the last 12 months, it increased 35.97%.
+
+---
+
+### 2026-07-14 22:46:56  #央行 #國際
+
+美聯儲主席沃什：30年期抵押貸款利率因通脹而高企。
+
+---
+
+### 2026-07-14 22:46:56  #MKT News #Macro & Rates #The Fed (FOMC) #Treasury Yields #US10Y #Impact bullish #DXY #Impact bearish #S&P500
+
+Federal Reserve Chair Kevin Warsh: Price stability is consistent with lower long-term yields.
+
+---
+
+### 2026-07-14 22:46:49  #其他
+
+沃什：物價穩定對應長期收益率走低。
+
+---
+
+### 2026-07-14 22:46:09  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bullish #DXY
+
+Federal Reserve Chair Kevin Warsh said 30-year mortgage rates remain elevated due to inflation.
+
+---
+
+### 2026-07-14 22:45:56  #國際
+
+市場訊息： 美國移民與海關執法局（ICE）獲指令，今後將停止絕大多數車輛臨檢行動。
+
+---
+
+### 2026-07-14 22:45:42  #公司 #觀點
+
+【惠達衛浴：出售廣西新高盛股權及相關債權，預計將減少2026年度歸母淨利潤3200萬元】惠達衛浴公告，公司控股子公司北流市新盛達新型材料有限公司擬向北流市聖力華福物流倉儲有限公司轉讓其持有的廣西新高盛薄型建陶有限公司100%的股權，並同步轉讓公司及北流新盛達對廣西新高盛的相關債權。股權轉讓價格為1元，債權轉讓金額為6800萬元，合計6800萬元。本次交易完成後，廣西新高盛將不再納入公司財務報表合併範圍內。經財務初步測算，本次交易預計將減少公司2026年度歸母淨利潤3200萬元左右。
+
+---
+
+### 2026-07-14 22:45:05  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
+
+Ibovespa Gains on Cooling US Inflation — The Ibovespa gained more than 0.5% to trade near 177,000 on Tuesday, recovering from the previous session's losses after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with Itaú, Bradesco, and Itaúsa up nearly 1%. Utilities also posted gains, with Axia and Sabesp adding 0.5%. Meanwhile, Vale jumped more than 2% as iron ore prices surged on expectations that impending Chinese restrictions on selected Fortescue portside cargoes will tighten supply. Other notable gainers included Ambev (+1%), Rede D'Or (+1%), and Vivo (+1.5%).
+
+---
+
+### 2026-07-14 22:44:34  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said he does not believe any change in communication would be intended to conceal the truth.
+
+---
+
+### 2026-07-14 22:44:03  #其他
+
+沃什：不要指望在隱瞞真相的溝通方式上會有任何改變。
+
+---
+
+### 2026-07-14 22:43:58  #MKT News
+
+KEVIN WARSH said high inflation underscores the need for communication reform.
+
+---
+
+### 2026-07-14 22:43:43  #其他
+
+沃什：高通脹表明通訊改革至關重要。
+
+---
+
+### 2026-07-14 22:43:34  #其他
+
+據貓眼專業版資料，截至7月14日22時，2026年年度總票房（含預售）突破190億，《飛馳人生3》《給阿嬤的情書》《鏢人：風起大漠》暫列年度票房榜前三位。
+
+---
+
+### 2026-07-14 22:43:27  #MKT News
+
+【2026 cumulative box office tops 19 bln yuan】Maoyan Pro data: as of 22:00 on July 14, 2026, 2026 cumulative box office including presales exceeded 19 bln yuan. Top three titles by revenue: Feichi Rensheng 3; A Letter to Grandma; Biaoren: Wind Rises in the Desert.
+
+---
+
+### 2026-07-14 22:43:12  #公司 #市場
+
+FASTENAL股價一度下跌3.4%，管理層召開財報電話會議。
+
+---
+
+### 2026-07-14 22:43:02  #公司
+
+標普：由於盈利強勁、槓桿率低，CARPENTER科技公司展望被上調至正面；“BB+”評級得到確認。
+
+---
+
+### 2026-07-14 22:42:50  #其他
+
+【全國用電負荷達15.51億千瓦再創新高 電力供需形勢總體平穩】記者從國家能源局瞭解到，繼7月10日全國用電負荷15.18億千瓦首創新高後，7月14日全國用電負荷再創新高，達到15.51億千瓦。國家發展改革委、國家能源局充分發揮全國統一電力市場體系作用，加強電力互濟，7月10日跨省跨區跨網最大輸送電力合計2.63億千瓦，7月14日合計2.78億千瓦，有力支撐全國用電保障。目前，全國能源電力供需形勢總體平穩。（央視新聞）
+
+---
+
+### 2026-07-14 22:42:16  #央行 #國際
+
+當被問及若特朗普試圖干預美聯儲他會作何應對時，沃什表示將繼續履行自身職責。
+
+---
+
+### 2026-07-14 22:41:43  #其他
+
+沃什：致力於實施獨立貨幣政策。
+
+---
+
+### 2026-07-14 22:41:27  #央行 #國際
+
+沃什：最高法院回答了有關美聯儲獨立性的問題，我在美聯儲的目標是消除政治因素。
+
+---
+
+### 2026-07-14 22:41:20  #MKT News #Market Themes #Chip Wars #000660.KS #Impact bullish
+
+【SK Hynix ADR options open with tilt toward short-dated contracts】Options on SK Hynix ADRs began trading on the U.S. options exchange Tuesday. As of 10:25 a.m. New York time total volume was about 33,000 contracts, with more than two-thirds concentrated in options expiring this Friday. The most active contract was the $185 call (≈2,900 contracts), followed by the $145 put. A $200 call expiring in August also traded heavily (over 1,500 contracts). Daniel Kirsch, head of options at Piper Sandler, said traders are positioning for further near-term upside in the ADR and that demand for short-dated bullish options—especially calls expiring this Friday—is expected to be strong, likely drawing rapid retail participation.
+
+---
+
+### 2026-07-14 22:41:09  #MKT News #Important #Commodities #Energy
+
+【China peak power load hits 1.551 billion kW; cross-region transfers rise to 278 GW】China's peak electricity load reached 1.551 billion kilowatts (1,551 GW) on July 14, up from 1.518 billion kW on July 10, the National Energy Administration said. The National Development and Reform Commission and the NEA said the national unified power market supported increased cross‑province/region/grid transfers, with maximum transfers totaling 263 GW on July 10 and 278 GW on July 14. Authorities said nationwide power supply-demand conditions are overall stable.
+
+---
+
+### 2026-07-14 22:40:57  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said his goal within the Fed is to prevent political interference.
+
+---
+
+### 2026-07-14 22:40:33  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve chair Kevin Warsh said the Supreme Court has already answered the question about the Fed’s independence.
+
+---
+
+### 2026-07-14 22:40:21  #MKT News #Macro & Rates #The Fed (FOMC) #S&P500 #Impact bullish #XAUUSD #DXY #Impact bearish
+
+Federal Reserve chair Kevin Warsh said he understands that central banks need to intervene in markets during crises.
+
+---
+
+### 2026-07-14 22:40:13  #央行 #國際
+
+沃什：美聯儲很榮幸能成為一家獨立的中央銀行。我理解在危機時期，央行需要介入市場。
+
+---
+
+### 2026-07-14 22:39:57  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said the Fed is honored to be an independent central bank.
+
+---
+
+### 2026-07-14 22:39:26  #公司
+
+據港交所檔案：深圳市威兆半導體股份有限公司向港交所提交上市申請書。
+
+---
+
+### 2026-07-14 22:38:45  #MKT News
+
+According to HKEX filings, Shenzhen Weizhao Semiconductor Co., Ltd. has filed a listing application with HKEX.
+
+---
+
+### 2026-07-14 22:38:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #Impact bearish #S&P500
+
+Federal Reserve Chairman Kevin Warsh said the Fed's balance-sheet framework has changed materially.
+
+---
+
+### 2026-07-14 22:37:53  #MKT News
+
+Federal Reserve Chair Kevin Warsh said the Fed must do its job to avoid interference from fiscal policy.
+
+---
+
+### 2026-07-14 22:37:52  #央行 #國際
+
+沃什：美聯儲必須採取強有力的措施，避免財政政策干預。
+
+---
+
+### 2026-07-14 22:37:42  #國際
+
+美國原油價格短暫回落，WTI原油價格接近每桶79美元。
+
+---
+
+### 2026-07-14 22:37:37  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said any changes to balance-sheet policy will be given advance notice.
+
+---
+
+### 2026-07-14 22:37:34  #其他
+
+沃什：資產負債表絕非僅是體系搭建問題。
+
+---
+
+### 2026-07-14 22:37:23  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed chair Kevin Warsh said the balance sheet is part of monetary policy.
+
+---
+
+### 2026-07-14 22:37:05  #央行 #國際
+
+美聯儲沃什談及專項工作組：我已要求各專項工作組迴歸第一性原則開展工作。
+
+---
+
+### 2026-07-14 22:36:51  #公司
+
+英雄摩托公司批准對ATHER ENERGY投資高達100億盧比。
+
+---
+
+### 2026-07-14 22:36:43  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said he has tasked working groups with returning to first principles.
+
+---
+
+### 2026-07-14 22:36:29  #其他
+
+沃什：部分工作組的邊界將會重疊。
+
+---
+
+### 2026-07-14 22:36:24  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chairman Kevin Warsh said the boundaries of some working groups will overlap.
+
+---
+
+### 2026-07-14 22:36:13  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said he will hold public discussions and is willing to regularly share results and his thinking.
+
+---
+
+### 2026-07-14 22:36:11  #其他
+
+沃什：將定期分享工作組的想法。
+
+---
+
+### 2026-07-14 22:36:01  #其他
+
+沃什：工作組的任何資訊都不會保密。
+
+---
+
+### 2026-07-14 22:35:39  #其他
+
+墨西哥主要股指漲幅擴大至1.35%。
+
+---
+
+### 2026-07-14 22:35:38  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Fed Chair Kevin Warsh said an external working group will first share its findings with policymakers.
+
+---
+
+### 2026-07-14 22:35:38  #MKT News
+
+Mexico's main stock index extended gains to 1.35%.
+
+---
+
+### 2026-07-14 22:35:25  #其他
+
+沃什：各特別工作組將先與19位政策制定者交換意見。
+
+---
+
+### 2026-07-14 22:35:08  #其他
+
+富國銀行首席財務官預計未來還將進一步裁員。
+
+---
+
+### 2026-07-14 22:34:58  #MKT News #WFC.O #Impact bullish
+
+Wells Fargo CFO says the bank expects further job cuts ahead.
+
+---
+
+### 2026-07-14 22:34:39  #其他
+
+沃什：目前各專項工作組正處於調研摸底階段。
+
+---
+
+### 2026-07-14 22:34:32  #MKT News #Macro & Rates #The Fed (FOMC)
+
+Federal Reserve Chair Kevin Warsh said several working groups he established are currently in an investigative stage.
+
+---
+
+### 2026-07-14 22:34:16  #國際
+
+特朗普在社交平臺上宣揚美日貿易和投資協議。
 
 ---
 
@@ -22880,647 +23438,5 @@ Yemen's Houthi militants say a response is imminent.
 ### 2026-07-14 01:38:11  #MKT News #WTI #Impact bullish #Brent #XAUUSD
 
 【Saudi-led coalition says it intercepted Houthi ballistic missiles】The Saudi-led coalition said on the evening of July 13 its air defenses engaged ballistic missiles fired by Yemen’s Houthi movement toward southern Saudi Arabia. Earlier, Sanaa International Airport, controlled by the Houthis, was hit in an airstrike; the Houthis accused Saudi forces and vowed retaliation. Yemen’s defense ministry said the strike targeted a senior Houthi delegation that had attended a funeral for Iran’s slain supreme leader Khamenei to prevent them boarding an Iranian plane to return home.
-
----
-
-### 2026-07-14 01:37:04  #國際
-
-【沙特稱應對胡塞武裝導彈】由沙特主導的多國聯軍當地時間7月13日晚表示，其防空系統應對了葉門胡塞武裝向沙特南部地區發射的彈道導彈。當天早些時候，胡塞武裝控制的葉門首都薩那國際機場遭空襲。胡塞武裝指責沙特發動了這次空襲，並誓言報復。葉門政府國防部則稱空襲薩那國際機場，以阻止參加完伊朗遇害最高領袖哈梅內伊追悼儀式的胡塞武裝高階別代表團搭乘伊朗飛機回國。 2014年胡塞武裝佔領薩那後，葉門一直深陷衝突之中。次年，沙特領導的多國聯軍介入葉門內戰，支援國際社會普遍承認的葉門政府。（CCTV國際時訊）
-
----
-
-### 2026-07-14 01:36:32  #市場
-
-WTI原油日內漲7%，現報76.41美元/桶。
-
----
-
-### 2026-07-14 01:35:40  #市場
-
-布倫特原油日內漲7%，現報81.33美元/桶。
-
----
-
-### 2026-07-14 01:34:28  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #US10Y
-
-【Waller favors replacing 2% inflation target with 1.5%-2.5% range】Federal Reserve Governor Waller said he favors an inflation-target range rather than a single 2% point, proposing 1.5%-2.5% because expecting the Fed to hit a precise number is unrealistic. He warned that judging policy success or failure by a single point can be overly harsh and that a target range would better reflect economic dynamics.
-
----
-
-### 2026-07-14 01:33:58  #其他
-
-【匈牙利國會透過《基本法》修正案 提前終止總統任期】當地時間13日，匈牙利國會投票透過了《基本法》第十七次修正案，其中包括終止現任總統舒尤克的總統任期。此前，匈牙利總理毛焦爾威脅稱，如果不辭職就會透過修改《基本法》結束總統任期。舒尤克2024年經國會選舉當選匈牙利總統，其任期持續至2029年。（央視新聞）
-
----
-
-### 2026-07-14 01:33:09  #其他 #焦點 #國際
-
-胡塞武裝：反擊即將到來。
-
----
-
-### 2026-07-14 01:29:26  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-【Waller suggests delaying dot-plot release to day after FOMC meeting】Fed Governor Waller said he cannot speak for the full FOMC but can clarify the median rate projection, and proposed shifting publication of the Fed's dot plot to the day after FOMC meetings rather than releasing it the same day.
-
----
-
-### 2026-07-14 01:29:04  #市場 #焦點
-
-布倫特原油突破81美元/桶，日內漲6.57%。
-
----
-
-### 2026-07-14 01:29:00  #MKT News
-
-Iran's foreign ministry strongly condemned the attack on Sanaa International Airport, calling it a blatant violation of international law and the UN Charter.
-
----
-
-### 2026-07-14 01:28:16  #市場 #焦點
-
-WTI原油突破76美元/桶，日內漲6.43%。
-
----
-
-### 2026-07-14 01:26:59  #MKT News
-
-WALLER: Setting a clear inflation range would provide a defined price metric to serve as the policy benchmark.
-
----
-
-### 2026-07-14 01:25:14  #公司 #觀點 #國際
-
-【華爾街五大銀行第二季度交易業務收入總和料接近390億美元】美國大型銀行將於週二拉開第二季度財報季序幕，其中五家銀行將在同一天公佈業績。過去幾個月市場劇烈波動促使客戶交易活動增加，這些銀行因此受益。分析師預計，摩根大通、美國銀行、花旗集團、高盛集團和摩根士丹利第二季度交易收入合計將接近390億美元。上述銀行中的多數股票交易部門收入有望接近歷史最高紀錄，僅略低於第一季度創下的高點。其中，高盛股票交易部門收入可能再次重新整理紀錄，第二季度收入預計將超過50億美元。
-
----
-
-### 2026-07-14 01:25:14  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Waller said all working groups will have a valuable impact.
-
----
-
-### 2026-07-14 01:24:44  #央行 #國際
-
-【歐洲央行執委施納貝爾闡述歐洲增長面臨的挑戰與對策】歐洲央行執行委員會成員伊莎貝爾·施納貝爾（Isabel Schnabel）指出，地緣政治格局的轉變、人口老齡化以及氣候變化是歐元區面臨的關鍵挑戰。在週一於明斯特發表的一場演講中，她表示需要更多的融合與創新來提升潛在增長。
-
----
-
-### 2026-07-14 01:24:25  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor WALLER said officials should not deduce causes of inf from isolated observations; central-bank officials should avoid that mode of thinking.
-
----
-
-### 2026-07-14 01:23:55  #國際
-
-【俄羅斯原油產量降至至少兩年半以來的最低水平】俄羅斯6月原油產量降至至少兩年半以來的最低水平，因烏克蘭幾乎每天都在襲擊俄羅斯石油基礎設施。根據OPEC月度報告，俄羅斯生產商6月日均生產原油892.8萬桶。這些資料凸顯俄羅斯石油行業承受的巨大壓力：由於烏克蘭無人機襲擊導致俄羅斯煉油廠削減加工量，俄羅斯不得不大量出口原油。OPEC基於二手來源的資料顯示，俄羅斯6月日產量較其OPEC及其盟友協議目標低83.4萬桶，也比小幅下修後的5月日產量低6.1萬桶。
-
----
-
-### 2026-07-14 01:23:33  #央行 #國際
-
-美聯儲理事沃勒：所有措施都將產生重要影響。
-
----
-
-### 2026-07-14 01:21:56  #央行 #國際
-
-美聯儲理事沃勒：我們將從各專項工作組中收穫大量經驗。
-
----
-
-### 2026-07-14 01:21:33  #MKT News
-
-Fed Governor Waller said "institutional change" means the existing system should not be put in charge of running one of the working groups, and that the Fed will learn a great deal from those working groups.
-
----
-
-### 2026-07-14 01:21:32  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Fed governor WALLER: another high inf print would be a 'signal'】Fed governor WALLER said on Monday that when reviewing this week’s inf data he would give more weight to another high print than to a lower one. He said the U.S. has seen 'higher, higher, higher, higher' readings for roughly five to six months. He added that another higher print would be treated as a signal rather than noise, but if inf falls he would likely need one or two more months of data before regarding the decline as a signal.
-
----
-
-### 2026-07-14 01:21:09  #央行 #國際
-
-美聯儲理事沃勒： 政權更迭意味著不能讓現政權牽頭專項工作組。
-
----
-
-### 2026-07-14 01:21:00  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Waller said setting a single point estimate as a target can be too harsh when judging whether policy has succeeded or failed.
-
----
-
-### 2026-07-14 01:20:55  #央行 #國際
-
-美聯儲理事沃勒： 在評判政策成效得失時，單一數值目標有時侷限性過大。
-
----
-
-### 2026-07-14 01:20:47  #MKT News #Important #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #S&P500 #Impact bullish
-
-Fed governor WALLER said setting an inf target in the 1.5%-2.5% range appears reasonable.
-
----
-
-### 2026-07-14 01:20:23  #MKT News #Macro & Rates #The Fed (FOMC)
-
-WALLER: I personally prefer targeting an inf range.
-
----
-
-### 2026-07-14 01:20:08  #央行 #國際
-
-美聯儲理事沃勒：我個人更傾向採用區間式通脹目標，將通脹目標設定在 1.5%-2.5% 區間看起來較為合理。
-
----
-
-### 2026-07-14 01:19:52  #央行 #國際
-
-美聯儲理事沃勒： 我個人傾向將通脹區間設為政策目標。
-
----
-
-### 2026-07-14 01:19:25  #央行 #國際
-
-美聯儲理事沃勒： 不能把通脹比作色情事物 —— 不能僅憑直觀感受判斷，央行官員不該持有這種思維。
-
----
-
-### 2026-07-14 01:19:03  #央行 #國際
-
-美聯儲理事沃勒： 樂見我們擁有清晰的物價指數作為政策基準。
-
----
-
-### 2026-07-14 01:18:40  #央行 #國際
-
-美聯儲理事沃勒：無意進行象徵性加息。
-
----
-
-### 2026-07-14 01:18:31  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Federal Reserve Governor Waller said he is not interested in symbolic rate hikes.
-
----
-
-### 2026-07-14 01:18:28  #MKT News
-
-Fed Governor Waller said the Fed's credibility is intact and markets expect it will fulfill its responsibilities.
-
----
-
-### 2026-07-14 01:18:20  #央行 #國際
-
-美聯儲理事沃勒：市場相信美聯儲能將通脹降至 2%，我們具備政策公信力。
-
----
-
-### 2026-07-14 01:18:19  #MKT News
-
-WALLER said markets expect the Fed to bring inf to 2% and that the Fed has credibility.
-
----
-
-### 2026-07-14 01:18:06  #央行 #國際
-
-美聯儲理事沃勒： 我認為美聯儲公信力並未受損，市場相信我們會履行職責。
-
----
-
-### 2026-07-14 01:17:58  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Bristol-Myers Squibb Stock Price Hits 6-week High — Bristol-Myers Squibb shares increased to 58.89 USD, the highest since May 2026. Over the past 4 weeks, Bristol-Myers Squibb gained 4.66%, and in the last 12 months, it increased 24.33%.
-
----
-
-### 2026-07-14 01:17:33  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #US10Y #Impact bearish #S&P500 #Impact mixed
-
-WALLER said uncertainty in parts of the labor market earlier this year has been resolved and the situation has seen a remarkable reversal.
-
----
-
-### 2026-07-14 01:17:25  #央行 #國際
-
-美聯儲理事沃勒： 今年勞動力市場部分不確定性已自行消散，形勢出現驚人反轉。
-
----
-
-### 2026-07-14 01:16:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $795 million from two counterparties in fixed-rate reverse repurchase operations.
-
----
-
-### 2026-07-14 01:16:33  #央行 #國際
-
-週一（7月13日），美聯儲隔夜逆回購協議（RRP）使用規模為7.95億美元（交易對手2家），上個交易日報5.45億美元。
-
----
-
-### 2026-07-14 01:15:21  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact mixed #US10Y #S&P500
-
-【WALLER on inflation noise: next print in either direction will be a useful signal】Fed Governor WALLER said individual inflation prints contain noise but recent months have been worse than expected. He said if data have been rising for roughly six months he treats that as a signal, and the next inflation release, whichever direction it moves, will be a useful signal.
-
----
-
-### 2026-07-14 01:14:56  #央行 #國際
-
-美聯儲理事沃勒： 美聯儲還需要十年時間才能清完抵押貸款支援證券（MBS）持倉。
-
----
-
-### 2026-07-14 01:14:51  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact bearish #DXY #Impact bullish
-
-Fed Governor Waller said he wished the Fed had never purchased mortgage-backed securities.
-
----
-
-### 2026-07-14 01:14:33  #央行 #國際
-
-美聯儲理事沃勒： 真希望美聯儲當初從未購入抵押貸款支援證券（MBS）。
-
----
-
-### 2026-07-14 01:14:29  #Trading Economics #Markets #Commodity #Importance 1
-
-Gasoline Rebounds — US gasoline prices rose above $3.1 per gallon on Monday after briefly dipping toward $2.98 in the previous session, as renewed geopolitical tensions heightened concerns over global supply disruptions. President Donald Trump announced plans to restore a blockade on Iranian vessels passing through the Strait of Hormuz while also imposing a 20% charge on all other cargo using the waterway, raising fears of disruptions to energy supplies. Meanwhile, Ukraine intensified attacks on Russia's energy infrastructure, targeting oil depots in the Stavropol region and storage facilities at the port of Kavkaz in an effort to disrupt Moscow's war efforts. Kazakhstan's Caspian Pipeline Consortium also reported a 7% decline in June shipments due to maintenance at the Tengiz oilfield and lower Russian flows. Adding to the pressure, reduced refining activity, at roughly 65% of seasonal average consumption, contributed to fuel shortages across Russia, which introduced a ban on exports of gasoline.
-
----
-
-### 2026-07-14 01:13:58  #央行 #國際
-
-美聯儲理事沃勒： 我主張在議息會議結束次日公佈點陣圖。
-
----
-
-### 2026-07-14 01:13:44  #MKT News #Macro & Rates #The Fed (FOMC)
-
-WALLER said he favors publishing the Fed's dot plot the day after policy meetings end.
-
----
-
-### 2026-07-14 01:13:15  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #US10Y
-
-WALLER said he could not speak for the FOMC, but can comment on the dot plot's median forecast.
-
----
-
-### 2026-07-14 01:12:36  #其他
-
-據報道，胡塞武裝向沙特發射了至少六枚導彈。
-
----
-
-### 2026-07-14 01:12:27  #央行 #國際
-
-美聯儲理事沃勒： 我不能代表整個委員會發聲，但我可以就點陣圖的中位數發表看法。
-
----
-
-### 2026-07-14 01:12:17  #MKT News #Macro & Rates #The Fed (FOMC)
-
-WALLER will not publish projections beyond 18 months and will eliminate long-term forecasts.
-
----
-
-### 2026-07-14 01:11:56  #央行 #國際
-
-美聯儲理事沃勒：（政策前瞻區間）我不會設定超過 18 個月。
-
----
-
-### 2026-07-14 01:11:11  #MKT News #Macro & Rates #The Fed (FOMC) #US10Y #Impact mixed #DXY #S&P500
-
-Federal Reserve Governor Waller said he has long been skeptical of the dot plot and believes it should be adjusted in several key respects.
-
----
-
-### 2026-07-14 01:11:03  #央行 #國際
-
-美聯儲理事沃勒： 我長期以來一直對點陣圖持懷疑態度，會從幾個關鍵方面對其進行調整。
-
----
-
-### 2026-07-14 01:10:08  #央行 #國際
-
-美聯儲理事沃勒： 失業率歷來是衡量勞動力市場狀況的最佳指標。
-
----
-
-### 2026-07-14 01:09:45  #其他
-
-派拉蒙表示，各州提起的訴訟 “曲解了既定反壟斷法，且對當下娛樂行業的競爭狀況存在不實描述”。
-
----
-
-### 2026-07-14 01:09:27  #其他 #焦點 #國際
-
-沙特聯軍發言人：防空系統已攔截胡塞武裝向沙特南部地區發射的彈道導彈威脅。
-
----
-
-### 2026-07-14 01:09:25  #MKT News #Important
-
-Saudi-led coalition spokesman said air defenses intercepted ballistic missiles launched by Houthi forces toward southern Saudi Arabia.
-
----
-
-### 2026-07-14 01:09:03  #國際
-
-【伊朗外交部：譴責針對薩那國際機場的襲擊行為】伊朗外交部發言人譴責襲擊薩那國際機場的行徑，稱該行為明顯違反國際法與《聯合國憲章》，是對葉門國家主權和領土完整的公然踐踏。外交部發言人表示，此次襲擊有悖於各方維護和平穩定的努力，也違背 2022 年停火協議及後續為緩和緊張局勢達成的共識。他指出：襲擊民用機場、威脅民航客機安全這類挑釁性危險舉動，嚴重違反國際航空法，絕對無法容忍。此類魯莽行徑會破壞葉門和平政治程序，阻礙各方為和平解決葉門問題所開展的各項工作。伊朗外交部發言人同時表示，伊朗願提供一切支援，推動葉門和平政治程序，落實旨在實現葉門持久和平與穩定的路線圖。
-
----
-
-### 2026-07-14 01:08:36  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor WALLER said the unemployment rate has historically been the best gauge of labor-market conditions and has remained very stable.
-
----
-
-### 2026-07-14 01:07:45  #MKT News #Macro & Rates #US Economy
-
-WALLER said he is not concerned the US Bureau of Labor Statistics will make larger revisions to employment data.
-
----
-
-### 2026-07-14 01:07:44  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Waller said the U.S. Bureau of Labor Statistics has been receiving increasing feedback late in the wage survey cycle.
-
----
-
-### 2026-07-14 01:07:17  #央行 #國際
-
-美聯儲理事沃勒： 勞工統計局在非農就業調查週期後期收到的反饋樣本量有所增加。
-
----
-
-### 2026-07-14 01:07:17  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed governor WALLER said that even if the next inflation reading eases, he would need to see several more months of similar prints before treating it as a trend signal. He added that such a sequence would be a useful signal.
-
----
-
-### 2026-07-14 01:06:19  #央行 #國際
-
-美聯儲理事沃勒： 若下一期通脹資料回落，還需連續幾份同類資料，才能認定這是趨勢訊號。
-
----
-
-### 2026-07-14 01:05:52  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Waller: If inflation data rises again, I would treat it as a trend signal rather than short-term noise.
-
----
-
-### 2026-07-14 01:05:46  #央行 #國際
-
-美聯儲理事沃勒： 如果通脹資料再度走高，我會將其視作趨勢訊號，而非短期雜音。
-
----
-
-### 2026-07-14 01:04:28  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-All flights at Saudi Arabia's Abha airport have been fully suspended following an attack originating from Yemen.
-
----
-
-### 2026-07-14 01:03:51  #MKT News #Macro & Rates #The Fed (FOMC) #Market Themes #AI Revolution
-
-Fed Governor WALLER said it is unclear whether monetary policy can effectively address demand driven by artificial intelligence.
-
----
-
-### 2026-07-14 01:03:40  #央行 #國際
-
-美聯儲理事沃勒： 尚不清楚寬鬆貨幣政策該如何應對人工智慧相關需求。
-
----
-
-### 2026-07-14 01:02:54  #Trading Economics #Markets #United States #Stock Market #Importance 2
-
-US Stocks Fall Further — US stock indices fell further on Monday amid weakness for chip producers and a deteriorating macroeconomic backdrop. The S&P 500 fell 0.6%, the Nasdaq 100 lost 2% and the Dow dropped over 150 points. Chip producers sank on persistent concerns that AI hyperscalers will be forced to ease spending on AI infrastructure. SK Hynix ADRs were 8% down after surging 13% on its issue on Friday as a Korean broker stated it could miss its next earnings. Nvidia, AMD, and Intel fell over 3% while memory producers Sandisk and Micron lost 5% and 12%, respectively. Equities in other sectors fell together with US Treasuries after President Trump said the US would reinstate the blockade of Iranian ships in the Strait of Hormuz, escalating the conflict and risking more inflationary energy shortages. Major banks were mostly lower ahead of their earnings whit week, with both JPMorgan and Bank of America dropping 0.5%, while Citi fell 1.5%.
-
----
-
-### 2026-07-14 01:01:05  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Waller said surprising markets is not a good idea.
-
----
-
-### 2026-07-14 01:00:37  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Waller said he wants markets to receive as much information as possible.
-
----
-
-### 2026-07-14 01:00:33  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Waller said there is no basis in economic theory to justify withholding information from the public.
-
----
-
-### 2026-07-14 01:00:18  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-WALLER: Now is not the time to use forward guidance.
-
----
-
-### 2026-07-14 01:00:16  #央行 #國際
-
-美聯儲理事沃勒： 經濟學中沒有任何理論認為隱瞞資訊是有益之舉， 希望市場能夠掌握儘可能充分的資訊。
-
----
-
-### 2026-07-14 01:00:03  #市場
-
-【夜盤期貨收盤】國際銅夜盤收漲0.27%，滬銅收漲0.34%，滬鋁收漲0.33%，滬鋅收跌0.60%，滬鉛收跌0.66%，滬鎳收漲0.46%，滬錫收跌1.27%。氧化鋁夜盤收漲0.15%，鋁合金收跌0.22%。不鏽鋼夜盤收漲1.85%。
-
----
-
-### 2026-07-14 00:59:43  #國際
-
-【烏克蘭議長稱烏總理已提交辭呈】烏克蘭議長斯特凡丘克13日在社交媒體發文稱，烏總理斯維裡堅科已向議會提交辭呈。（新華社）
-
----
-
-### 2026-07-14 00:59:13  #央行 #國際
-
-美聯儲理事沃勒：當下並非使用前瞻性指引的時機。
-
----
-
-### 2026-07-14 00:57:59  #其他 #焦點 #國際
-
-據胡塞武裝關聯媒體報道，沙特南部阿卜哈機場遭導彈襲擊。
-
----
-
-### 2026-07-14 00:57:30  #宏觀
-
-市場訊息：胡塞武裝政治局成員阿里・布海提表示，作為對葉門薩那機場遭襲的報復，該組織將打擊沙烏地阿拉伯的 “關鍵基礎設施”。
-
----
-
-### 2026-07-14 00:56:53  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Governor Waller said he does not see the current size of the Fed's balance sheet causing any problems.
-
----
-
-### 2026-07-14 00:56:51  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed Governor Waller said there remains significant debate over determining how much the Fed's balance sheet can be reduced if based solely on banks' reserve demand.
-
----
-
-### 2026-07-14 00:56:51  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Fed Governor Waller said if a way can be found to allow banks to operate with fewer reserve balances, a corresponding reduction in the Fed's balance sheet would be appropriate.
-
----
-
-### 2026-07-14 00:56:46  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-Fed Governor Waller said a working group will study whether and to what extent the Fed's balance sheet can be further reduced.
-
----
-
-### 2026-07-14 00:56:33  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish #XAUUSD #Impact mixed
-
-Fed Governor WALLER said he sees no reason to let bank reserves become scarce again.
-
----
-
-### 2026-07-14 00:56:19  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI and Brent crude rose more than 6% intraday after reports that Yemeni Houthi militants attacked a Saudi airport.
-
----
-
-### 2026-07-14 00:56:02  #央行 #國際
-
-美聯儲理事沃勒： 很難看出當前規模的資產負債表會引發任何問題。
-
----
-
-### 2026-07-14 00:55:37  #央行 #國際
-
-美聯儲理事沃勒：我認為完全沒有必要採用準備金稀缺制度。 若能找到讓銀行無需持有高額準備金的辦法，那麼相應縮減資產負債表便不存在障礙。
-
----
-
-### 2026-07-14 00:55:21  #市場 #焦點
-
-現貨黃金失守3990美元/盎司，日內跌3.19%。
-
----
-
-### 2026-07-14 00:55:09  #央行 #國際
-
-美聯儲理事沃勒： 認為沒有任何理由長期維持準備金稀缺機制。
-
----
-
-### 2026-07-14 00:54:53  #MKT News #Important #WTI #Impact bullish #Brent #XAUUSD
-
-TASNIM NEWS reports an attack on Abha International Airport in Saudi Arabia.
-
----
-
-### 2026-07-14 00:53:13  #央行 #國際
-
-美聯儲理事沃勒：人工智慧或正在影響金融環境。
-
----
-
-### 2026-07-14 00:53:00  #央行 #國際
-
-美聯儲理事沃勒： 倘若人工智慧板塊泡沫破裂或行情大幅回撤，金融環境或將出現劇烈變動。
-
----
-
-### 2026-07-14 00:52:51  #其他
-
-LME期銅收漲56美元，報13541美元/噸。LME期鋁收漲30美元，報3170美元/噸。LME期鋅收跌50美元，報3566美元/噸。LME期鉛收跌28美元，報1868美元/噸。LME期鎳收漲25美元，報16766美元/噸。LME期錫收跌527美元，報52598美元/噸。LME期鈷收平，報56290美元/噸。
-
----
-
-### 2026-07-14 00:52:31  #其他
-
-市場訊息：沙烏地阿拉伯境內發生多起爆炸。
-
----
-
-### 2026-07-14 00:52:21  #MKT News #Macro & Rates #US Economy #DXY #Impact bullish #S&P500 #Impact bearish #US10Y
-
-WALLER said recent employment reports have consistently beaten expectations and remain strong.
-
----
-
-### 2026-07-14 00:51:55  #央行 #國際
-
-美聯儲理事沃勒： 就業資料持續向好、表現強勁。
-
----
-
-### 2026-07-14 00:50:43  #市場
-
-布倫特原油日內漲6%，現報80.59美元/桶。
-
----
-
-### 2026-07-14 00:50:41  #市場
-
-WTI原油日內漲6%，現報75.70美元/桶。
-
----
-
-### 2026-07-14 00:50:18  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Waller: Fed should avoid premature hikes that trigger recession, but not repeat past delays】Federal Reserve Governor Waller said he does not want premature rate hikes that could trigger a recession, but warned the Fed should avoid repeating the mistake of delaying action while price pressures rise. He said the labor market is far less overheated than during the 2022–23 tightening and there are credible reasons to expect inflation to continue falling without additional tightening, but evidence that firms and investors expect that decline is insufficient to justify waiting. Waller warned that if the Fed waits until confidence fades it will have to raise rates more aggressively and said the central bank cannot afford to ignore inflation until it disappears.
-
----
-
-### 2026-07-14 00:48:03  #MKT News #Important #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures broke above $80.00/bbl, up 5.35% intraday.
-
----
-
-### 2026-07-14 00:44:29  #MKT News
-
-Ukrainian parliamentary speaker says Prime Minister Svyrydenko has submitted his resignation.
-
----
-
-### 2026-07-14 00:43:50  #國際
-
-烏克蘭議會議長：該國總理斯維裡登科已遞交辭呈。
-
----
-
-### 2026-07-14 00:42:38  #資料 #央行 #焦點 #國際
-
-【沃勒定調週二CPI含金量：通脹火熱將支援近期加息】美聯儲理事沃勒週一表示，如果未來資料表明通脹率仍遠高於2%的目標，美聯儲“短期內”可能需要提高利率。他稱當前貨幣政策正處於“十字路口”。沃勒表示，這一方向將由週二釋出的CPI報告等新資訊決定，如果資料走勢出現不利變化，美聯儲目前處於不應“懈怠”的階段。沃勒表示：“在當前的政策水平下，通脹仍有可能逐步回落至2%的目標。但我同樣擔心可能出現另一種同樣情況，即未來幾周的資料將顯示通脹仍會維持在較高水平，甚至繼續上升，這將在短期內要求採取更緊的貨幣政策。”他特別表示，自己擔心最近的通脹報告顯示出價格壓力似乎正在整個經濟中擴大，超出了去年進口關稅上調或近期能源成本上升的影響，可能反映出更廣泛的系統性通脹，這將需要採取更緊縮的貨幣政策。沃勒表示，“如果本週核心通脹率再次表現火熱，FOMC將不得不考慮在短期內收緊貨幣政策。需要數月內看到通脹資料持續走低，才能認為通脹正朝著正確的方向發展。”
-
----
-
-### 2026-07-14 00:42:28  #MKT News #Important #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #S&P500 #Impact bearish
-
-【Waller: Tuesday CPI will decide next move; hot inflation could prompt near-term hikes】Federal Reserve Governor Waller said Tuesday's CPI and incoming data will determine policy direction, warning that if inflation remains well above the 2% target the Fed may need to raise rates in the short term. He described policy as at a crossroads and expressed concern recent reports show price pressures broadening beyond tariffs and energy — potentially signaling more entrenched, systemic inflation that would require tighter policy. If core CPI prints hot again this week, the FOMC would have to consider near-term tightening; Waller said it would take months of sustained declines in inflation data to be confident the trend is moving toward 2%.
-
----
-
-### 2026-07-14 00:41:42  #市場 #國際
-
-【美伊衝突持續 船舶戰爭險費率再次上漲】美以伊衝突爆發後，戰爭險費率成為對霍爾木茲海峽安全形勢最敏感的市場指標之一。衝突前，船體戰爭險保費通常僅佔船舶本身價值的0.25%左右。隨著軍事衝突升級、霍爾木茲海峽安全風險驟增，戰爭險費率迅速飆升，最高一度達到船舶價值的約10%。6月美伊達成諒解備忘錄後，局勢一度趨緩。據保險經紀商訊息，戰爭險費率一度降至2%左右。然而，7月8日美軍以“商船遭襲”為由襲擊伊朗，伊朗回擊以來，保險費率再次上漲。綜合多家國際保險經紀機構資訊，目前，船體戰爭險費率已升至船舶價值的約5%。（央視新聞）
 
 ---
