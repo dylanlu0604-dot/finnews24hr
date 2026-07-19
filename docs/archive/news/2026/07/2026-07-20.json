@@ -1,7 +1,18 @@
 {
   "date": "2026-07-20",
-  "count": 149,
+  "count": 150,
   "items": [
+    {
+      "id": "mkt:019f7c41-1f0f-7aab-8dfa-fdb2f9ed35d5",
+      "time": "2026-07-20 05:21:10",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea policy chief says no plan to delist single-stock leveraged ETFs】South Korea's presidential office policy chief told JoongAng Ilbo on Sunday the government has no plans to delist single-stock leveraged ETFs tied to Samsung Electronics and SK Hynix, saying removal would cause a large market shock. Investor holdings exceed 10 trillion won (about $6.72 billion); the focus, he said, should be on restricting these products' trading impact rather than delisting."
+    },
     {
       "id": "4996302",
       "time": "2026-07-20 05:19:14",
