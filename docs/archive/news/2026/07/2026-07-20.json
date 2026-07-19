@@ -1,7 +1,34 @@
 {
   "date": "2026-07-20",
-  "count": 36,
+  "count": 39,
   "items": [
+    {
+      "id": "mkt:019f7b4d-6ddf-7aab-8df9-dc5a39dca288",
+      "time": "2026-07-20 00:54:59",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish",
+        "LMT.N"
+      ],
+      "text": "【Boeing expands PAC-3 guidance-head capacity to help replenish US air-defence interceptors】Boeing (BA.N) increased PAC-3 interceptor guidance-head production about 30% last year to 650 units and plans a similar rise this year, targeting 850 sets, Boeing Defense CEO Steve Parker said. Last year’s output is roughly comparable to Lockheed Martin’s (LMT.N) planned PAC-3 missile production in 2026. A framework agreement signed this year is expected to boost related output to about 2,000 interceptors per year by 2030. Demand rose after Iran launched ballistic missiles at multiple regional targets, prompting US and allied forces to expend thousands of PAC-3 interceptors."
+    },
+    {
+      "id": "4996227",
+      "time": "2026-07-20 00:53:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿曼與約旦兩國外長強調，必須加大外交斡旋力度，阻止局勢持續升級。"
+    },
+    {
+      "id": "4996226",
+      "time": "2026-07-20 00:53:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿曼與約旦外交部長警告，謹防地區局勢滑向更多衝突。"
+    },
     {
       "id": "4996225",
       "time": "2026-07-20 00:51:29",
