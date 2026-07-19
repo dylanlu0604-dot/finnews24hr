@@ -1,7 +1,145 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-20 03:27:34_
-_本檔包含 4066 則快訊，約 719285 字_
+_更新時間：2026-07-20 04:25:13_
+_本檔包含 4079 則快訊，約 719901 字_
+
+---
+
+### 2026-07-15 09:01:00  #MKT News
+
+【Implantable BCI system NEO completes first commercial surgery in Shanghai】The implantable brain–computer interface (BCI) hand motor function compensation system NEO, developed by Borui Kang Medical Technology (Shanghai) Co., Ltd., received market approval from Shanghai regulators and underwent its first commercial clinical surgery on July 13 at Huashan Hospital affiliated with Fudan University. Intraoperative testing showed the system recorded stable, high-quality epidural EEG signals. The patient is reported hemodynamically stable post‑op. Authorities describe NEO as a world‑first product.
+
+---
+
+### 2026-07-15 09:00:48
+
+國內期貨主力合約多數上漲。燃料油漲超5％，低硫燃料油（LU）漲超4％，SC原油漲近4％，乙二醇（EG）、苯乙烯（EB）漲超3％，滬銀、瀝青、純苯漲超2％。跌幅方面，滬鉛跌超1％，純鹼跌近1％。
+
+---
+
+### 2026-07-15 09:00:47  #市場
+
+臺灣證交所加權股價指數上漲1.2%至45,255.20點。
+
+---
+
+### 2026-07-15 09:00:40  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
+
+At the morning open, China’s main futures contracts were mostly higher. Fuel oil led gains, up over 5%; low-sulfur fuel oil (LU) rose over 4%; Shanghai crude (SC) gained about 4%. Ethylene glycol (EG) and styrene (EB) advanced more than 3%. SHFE silver, asphalt and benzene climbed over 2%. Shanghai lead fell over 1% and soda ash slipped about 1%.
+
+---
+
+### 2026-07-15 09:00:34  #公司
+
+【北京35家貨車“涉牌”違法突出貨運企業被約談】近日，北京公安交管部門在持續開展路面貨運車輛交通違法整治的同時，全面強化源頭治理，對北京市今年上半年註冊貨車“涉牌”違法突出的35家貨運企業，會同行業主管部門依法進行約談。其中北京彬旗嘉業運輸有限公司名下注冊貨車已被查處49起“涉牌”違法，北京德鑫耀瑞物流有限公司已被查處45起“涉牌”違法，北京大愛園林綠化有限公司已被查處40起“涉牌”違法。交管部門分析發現，貨運企業車輛“涉牌”違法主要有不按規定安裝（使用翻牌器）、故意遮擋、故意汙損、未按規定懸掛4類。
+
+---
+
+### 2026-07-15 09:00:25  #MKT News #Commodities #Precious Metals
+
+Front-month palladium contract extends intraday gain to 2.00%, trading at 309.15 yuan/gram.
+
+---
+
+### 2026-07-15 09:00:15  #其他
+
+臺灣證交所加權股價指數開高0.3%報44,850.69。
+
+---
+
+### 2026-07-15 09:00:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold climbed above $4,060/oz, up 0.18% on the day.
+
+---
+
+### 2026-07-15 09:00:15  #MKT News #Important #CNH #Impact bullish #CSI300 #Hang Seng Index
+
+FTSE China A50 futures opened 0.6% higher.
+
+---
+
+### 2026-07-15 09:00:08  #市場 #焦點
+
+鈀連續主力合約日內漲4%，現報314.70元。
+
+---
+
+### 2026-07-15 09:00:04  #市場 #焦點
+
+瀝青連續主力合約日內漲2%，現報4087.00元。
+
+---
+
+### 2026-07-15 09:00:04  #市場 #焦點
+
+集運指數歐線期貨連續主力合約日內漲4%，現報2611.00點。
+
+---
+
+### 2026-07-15 09:00:04  #市場 #焦點
+
+低硫燃料油連續主力合約日內漲4%，現報4510.00元。
+
+---
+
+### 2026-07-15 09:00:04  #市場 #焦點
+
+PTA連續主力合約日內漲1%，現報5816.00元。
+
+---
+
+### 2026-07-15 09:00:04  #市場 #焦點
+
+PVC連續主力合約日內漲1%，現報4594.00元。
+
+---
+
+### 2026-07-15 09:00:03  #市場
+
+【商品期貨開盤】燃料油連續漲5.16%，低硫燃料油連續漲4.68%，集運指數歐線期貨連續漲4.31%，鈀連續漲3.64%，上海原油連續漲3.59%，乙二醇連續漲3.27%，苯乙烯連續漲3.04%，瀝青連續漲2.63%，丙烯連續漲2.58%，白銀連續漲2.47%。
+
+---
+
+### 2026-07-15 09:00:03  #市場
+
+富時中國A50指數期貨開盤上漲0.63%。
+
+---
+
+### 2026-07-15 08:59:41  #市場 #國際
+
+10年期日本國債收益率下跌1.0個基點，至2.695%。
+
+---
+
+### 2026-07-15 08:58:56  #Trading Economics #Markets #Canada #currency #Importance 1
+
+Canadian Dollar Hits 4-week High — The Canadian Dollar touched 1.40 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar gained 0.38%, and in the last 12 months, it increased 2.62%.
+
+---
+
+### 2026-07-15 08:58:29  #其他
+
+【7月14日397股獲融資買入超億元 中際旭創穫買入64.73億元居首】7月14日共有3509只個股獲融資資金買入，有397股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入64.73億元、51.97億元、51.05億元。
+
+---
+
+### 2026-07-15 08:58:09  #市場 #焦點
+
+現貨黃金突破4060美元/盎司，日內漲0.16%。
+
+---
+
+### 2026-07-15 08:57:31  #MKT News #Market Themes #Chip Wars #000660.KS #Impact mixed #005930.KS
+
+【BofA: SK Hynix's incremental capacity to 2028 may be only one-sixth of plan】BofA said technology-driven retirements of older fabs will limit South Korea's annual wafer capacity growth to under 10%, well short of the official 2030 doubling target. BofA estimates SK Hynix's incremental memory capacity through 2028 could be only one-sixth of its original plan. Construction and equipment-installation cycles for large new Samsung and SK Hynix wafer fabs in Gwangju and Jeollanam-do could stretch to as long as ten years.
+
+---
+
+### 2026-07-15 08:57:27  #公司 #市場 #國際
+
+【韓國券商商議上調晶片槓桿型ETF投資門檻】韓國金融投資協會訊息，十家韓國頭部資產管理公司執行長召開會議，商議推出針對單一股票槓桿型ETF的投資者保護舉措，內容包含提高最低投資保證金、分散調倉交易時點等。協會發布宣告稱，參會各方達成共識，計劃上調此類槓桿產品的最低投資准入資金，現行標準為1000萬韓元（摺合6714美元）。資管機構表示，為緩解每日調倉交易集中在收盤時段對市場造成的衝擊，需將調倉操作分散至全天交易時段開展。參會企業同時提出，要進一步強化流動性提供商的市場維穩作用。韓國金融投資協會援引韓國資本市場研究院的資料稱，自相關槓桿ETF上市以來，每日進行再平衡所需的股票交易量估計約為7000億至2.1萬億韓元。
 
 ---
 
@@ -24480,65 +24618,5 @@ MSCI亞太指數下跌1%至263.37點。
 ### 2026-07-14 10:24:32  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
 
 US 10-Year Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.62% on Tuesday, hovering near two-month highs as escalating tensions in the Middle East drove oil prices sharply higher, fueling concerns over inflation and the interest rate outlook. The move followed President Donald Trump’s decision to reinstate a blockade on Iranian vessels transiting the Strait of Hormuz and seek reimbursement from countries benefiting from US efforts to secure the vital shipping lane. Investors also awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s testimony before the US Congress later today, with markets closely watching his remarks for further policy signals. Markets now price in roughly a 51% chance of a Fed rate hike in September, compared with a 23% probability that the central bank will leave rates unchanged.
-
----
-
-### 2026-07-14 10:23:50  #MKT News #Important #CSI300 #Impact bullish #SZSE Component
-
-A-share PCB theme extended: Xintong Electronics posted a second consecutive limit-up; Foster, Shengyi Technology, Xianfeng Holdings, Guanghe Technology and Huazheng New Materials hit daily limit; International Composite Materials, Minbao Optoelectronics and Zecheng Electronics rose over 10%.
-
----
-
-### 2026-07-14 10:23:38  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-【US military says it completed new round of strikes on Iran; 50,000 troops deployed in Middle East】CENTCOM said it completed a new round of strikes on Iran at 10:15 p.m. ET on July 13 after a five-hour operation, hitting multiple military targets inside Iran — Bushehr, Chabahar, Jask, Konarak, Abu Musa island and Bandar Abbas — aimed at degrading Iran’s ability to attack merchant shipping. CENTCOM said forces used precision-guided munitions to strike coastal defenses, missile and drone sites and maritime warfighting capabilities. More than 50,000 U.S. service members are deployed in the Middle East.
-
----
-
-### 2026-07-14 10:23:18  #公司 #市場
-
-【PCB概念活躍，華正新材漲停】PCB概念活躍，信通電子2連板，福斯特、生益科技、賢豐控股、廣合科技、華正新材漲停，國際復材、民爆光電、則成電子漲超10%，新銳股份、鼎泰高科、博傑股份、呈和科技、逸豪新材跟漲。
-
----
-
-### 2026-07-14 10:23:01  #MKT News #Important
-
-【China's National Healthcare Security Administration says 601 drugs pass form review for 2026 insurance drug-list update】China's National Healthcare Security Administration announced 601 drugs passed form review for the 2026 national basic medical insurance, maternity and work-injury drug-list adjustment. For the basic insurance list the NHSA received 800 submissions covering 664 generic names; 601 passed form review — 233 were in-list candidates and 368 off-list candidates — a 91% pass rate. For the commercial health insurance innovative-drug list it received 62 submissions covering 62 generics; 58 passed form review (1 in-list, 57 off-list), a 94% pass rate. The NHSA said form review is an initial eligibility check for expert assessment and does not constitute inclusion in the drug lists.
-
----
-
-### 2026-07-14 10:22:46  #其他
-
-【國家醫保局：601種藥品透過2026年醫保目錄調整形式審查】國家醫保局今天公佈透過2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整形式審查的申報藥品名單。2026年目錄調整申報階段，國家醫保局共收到基本醫保目錄申報資訊800份，涉及藥品通用名664個，最終601個透過形式審查，其中目錄外368個，目錄內233個，總體透過率91%。共收到商保創新藥目錄申報材料62份，涉及藥品通用名62個，最終58個透過形式審查，其中目錄外57個，目錄內1個，總體透過率94%。形式審查是醫保藥品目錄調整的初始環節，透過形式審查，僅代表該藥品符合相應的申報條件，獲得了參加專家評審的資格，不意味著已經納入目錄。
-
----
-
-### 2026-07-14 10:22:13  #國際
-
-美國中央司令部：打擊了伊朗境內多個軍事目標，包括布什爾、恰赫巴哈爾、賈斯克、科納拉克、阿布穆薩和班達爾阿巴斯。
-
----
-
-### 2026-07-14 10:22:04  #國際
-
-美國中央司令部：對伊朗海岸防禦系統、導彈和無人機陣地以及海上作戰能力使用了精確制導武器。
-
----
-
-### 2026-07-14 10:21:58  #MKT News #Market Regions #Greater China
-
-A-share-listed Tuojing Technology shares hit an intraday record high, trading up 8.17% at 914 yuan; market cap 260.41 bln yuan.
-
----
-
-### 2026-07-14 10:21:33  #國際
-
-美國中央司令部：目前有超過 50,000 名美國軍人部署在中東各地。
-
----
-
-### 2026-07-14 10:21:06  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-CENTCOM says US forces have completed a new round of strikes on Iranian military targets.
 
 ---

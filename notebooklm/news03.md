@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-20 03:27:34_
-_本檔包含 3827 則快訊，約 719417 字_
+_更新時間：2026-07-20 04:25:13_
+_本檔包含 3820 則快訊，約 718655 字_
+
+---
+
+### 2026-07-16 09:39:16  #其他
+
+【CPO概念震盪調整 長芯博創跌超12%】CPO概念震盪調整，長芯博創跌超12%，光庫科技、太辰光、天孚通訊、仕佳光子、烽火通訊集體下挫。
+
+---
+
+### 2026-07-16 09:39:15  #MKT News #Important #SZSE Component #Impact bullish #CSI300
+
+China A-share consumer electronics sector jumped; Guoguang Electric, Furong Technology and Gelin Precision hit the daily trading limit. Jiahe Intelligent, Yidao Information, Beilong Precision, HiVi Technology and Haosheng Electronics also rose.
+
+---
+
+### 2026-07-16 09:39:14  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
+
+A-shares CPO concept stocks pulled back; Changxin Bochuang fell more than 12%, while Guangku Technology, Taichen Photonics, Tianfu Communication, Shijia Photonics and Fenghuo Communication also declined.
+
+---
+
+### 2026-07-16 09:39:07  #市場
+
+【消費電子板塊直線拉昇，國光電器漲停】消費電子板塊直線拉昇，國光電器、福蓉科技、格林精密漲停，佳禾智慧、億道資訊、貝隆精密、惠威科技、豪聲電子等紛紛走高。
+
+---
+
+### 2026-07-16 09:39:06  #市場 #焦點
+
+科創50日內跌幅達1.85%，成分股中，瀾起科技跌8.30%，中科飛測跌4.95%，拓荊科技跌4.89%，盛美上海跌4.08%。
+
+---
+
+### 2026-07-16 09:38:11  #MKT News #Star Stocks #Tencent
+
+【Where to Park Spare Change? Short-term Wealth-product Yield Snapshot】Tencent Licaitong (demand+) 7-day annualized yields ranged 0.7860%–1.3640%. WeChat Wallet’s change product 7-day annualized yields ranged 0.8410%–1.0380%. Alipay Yu'ebao 7-day annualized yields ranged 0.9020%–1.0680%.
+
+---
+
+### 2026-07-16 09:36:58  #公司 #市場
+
+【化學制藥板塊拉昇，哈藥股份5連板】化學制藥板塊拉昇，哈藥股份5連板，永安藥業2連板，博瑞醫藥、海創藥業漲超10%，哈三聯、海南海藥、新贛江、津藥藥業、美諾華跟漲。
+
+---
+
+### 2026-07-16 09:36:55  #MKT News #Important #Star Stocks #Alibaba #09988.HK #Impact bullish #Hang Seng Index
+
+Hang Seng Tech Index extended gains, rising more than 2%; Alibaba (09988.HK) led constituents with a gain of over 5%. Hang Seng Index up 1.77%.
+
+---
+
+### 2026-07-16 09:36:16  #其他
+
+【網易給全體員工放看球假】7月15日晚，網易發文：“7月20日（週一）上午，全體網易員工放假半天，盡情享受決賽之夜，踏踏實實看到終場哨響。”
+
+---
+
+### 2026-07-16 09:36:14  #市場 #焦點
+
+恒生科技指數漲超2％，恒生指數現漲1.68％，阿里巴巴漲超5%。
+
+---
+
+### 2026-07-16 09:36:01  #央行 #國際
+
+韓國央行：成本高企、匯率波動、需求壓力加劇通貨膨脹。
+
+---
+
+### 2026-07-16 09:35:35  #市場
+
+大盤主力淨流出超100億。
+
+---
+
+### 2026-07-16 09:35:31  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #CSI300
+
+China's Sci‑Tech Innovation Board 50 Index fell more than 4% intraday.
+
+---
+
+### 2026-07-16 09:35:29  #MKT News #Brent #Impact bullish #WTI #XAUUSD
+
+【Iran parliamentary speaker says Strait of Hormuz is pillar of national security】Iranian parliament speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz is a pillar of Iran’s national security and Tehran must preserve Iran’s existing arrangements in the vital shipping route. In an address to the nation he said Iran is engaged in a complex struggle with the United States and must remain prepared to fight; he added US strategy toward Iran has not changed and aims not only to weaken Iran but to sow domestic divisions. Ghalibaf said Iran’s policy in both conflict and negotiations should be grounded in realism, national interest and a long-term perspective.
+
+---
+
+### 2026-07-16 09:35:26  #公司 #觀點
+
+【證券板塊短線走低，華安證券跌超8%】證券板塊短線走低，華安證券跌超8%，中金公司、招商證券、長江證券、中信建投等跟跌。
+
+---
+
+### 2026-07-16 09:35:22  #國際
+
+【伊朗議長說霍爾木茲海峽是伊朗的國家安全支柱】據伊朗邁赫爾通訊社15日報道，伊朗議長卡利巴夫說，霍爾木茲海峽是伊朗的國家安全支柱，必須維護伊朗在這一重要航道的既有安排。卡利巴夫在當晚發表的致伊朗全國人民的講話中說，伊朗正與美國進行一場複雜的鬥爭，必須時刻準備與美國作戰。美方對伊朗的戰略並未改變，其目標不僅在於削弱伊朗，還包括在伊朗國內製造分裂。因此，無論是在衝突還是在談判中，伊朗的方針都必須基於現實、國家利益和長遠眼光。（新華社）
 
 ---
 
@@ -22927,143 +23023,5 @@ Shanghai Gold Exchange Gold T+D rose 0.9% in early trade on Wednesday, July 15, 
 ### 2026-07-15 09:01:32  #MKT News #TWII #Impact bullish
 
 The Taiwan Weighted Index opened 446.25 points higher, or 1.0%, at 45,184.2 on Wednesday, July 15.
-
----
-
-### 2026-07-15 09:01:00  #MKT News
-
-【Implantable BCI system NEO completes first commercial surgery in Shanghai】The implantable brain–computer interface (BCI) hand motor function compensation system NEO, developed by Borui Kang Medical Technology (Shanghai) Co., Ltd., received market approval from Shanghai regulators and underwent its first commercial clinical surgery on July 13 at Huashan Hospital affiliated with Fudan University. Intraoperative testing showed the system recorded stable, high-quality epidural EEG signals. The patient is reported hemodynamically stable post‑op. Authorities describe NEO as a world‑first product.
-
----
-
-### 2026-07-15 09:00:48
-
-國內期貨主力合約多數上漲。燃料油漲超5％，低硫燃料油（LU）漲超4％，SC原油漲近4％，乙二醇（EG）、苯乙烯（EB）漲超3％，滬銀、瀝青、純苯漲超2％。跌幅方面，滬鉛跌超1％，純鹼跌近1％。
-
----
-
-### 2026-07-15 09:00:47  #市場
-
-臺灣證交所加權股價指數上漲1.2%至45,255.20點。
-
----
-
-### 2026-07-15 09:00:40  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-At the morning open, China’s main futures contracts were mostly higher. Fuel oil led gains, up over 5%; low-sulfur fuel oil (LU) rose over 4%; Shanghai crude (SC) gained about 4%. Ethylene glycol (EG) and styrene (EB) advanced more than 3%. SHFE silver, asphalt and benzene climbed over 2%. Shanghai lead fell over 1% and soda ash slipped about 1%.
-
----
-
-### 2026-07-15 09:00:34  #公司
-
-【北京35家貨車“涉牌”違法突出貨運企業被約談】近日，北京公安交管部門在持續開展路面貨運車輛交通違法整治的同時，全面強化源頭治理，對北京市今年上半年註冊貨車“涉牌”違法突出的35家貨運企業，會同行業主管部門依法進行約談。其中北京彬旗嘉業運輸有限公司名下注冊貨車已被查處49起“涉牌”違法，北京德鑫耀瑞物流有限公司已被查處45起“涉牌”違法，北京大愛園林綠化有限公司已被查處40起“涉牌”違法。交管部門分析發現，貨運企業車輛“涉牌”違法主要有不按規定安裝（使用翻牌器）、故意遮擋、故意汙損、未按規定懸掛4類。
-
----
-
-### 2026-07-15 09:00:25  #MKT News #Commodities #Precious Metals
-
-Front-month palladium contract extends intraday gain to 2.00%, trading at 309.15 yuan/gram.
-
----
-
-### 2026-07-15 09:00:15  #其他
-
-臺灣證交所加權股價指數開高0.3%報44,850.69。
-
----
-
-### 2026-07-15 09:00:15  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Spot gold climbed above $4,060/oz, up 0.18% on the day.
-
----
-
-### 2026-07-15 09:00:15  #MKT News #Important #CNH #Impact bullish #CSI300 #Hang Seng Index
-
-FTSE China A50 futures opened 0.6% higher.
-
----
-
-### 2026-07-15 09:00:08  #市場 #焦點
-
-鈀連續主力合約日內漲4%，現報314.70元。
-
----
-
-### 2026-07-15 09:00:04  #市場 #焦點
-
-瀝青連續主力合約日內漲2%，現報4087.00元。
-
----
-
-### 2026-07-15 09:00:04  #市場 #焦點
-
-集運指數歐線期貨連續主力合約日內漲4%，現報2611.00點。
-
----
-
-### 2026-07-15 09:00:04  #市場 #焦點
-
-低硫燃料油連續主力合約日內漲4%，現報4510.00元。
-
----
-
-### 2026-07-15 09:00:04  #市場 #焦點
-
-PTA連續主力合約日內漲1%，現報5816.00元。
-
----
-
-### 2026-07-15 09:00:04  #市場 #焦點
-
-PVC連續主力合約日內漲1%，現報4594.00元。
-
----
-
-### 2026-07-15 09:00:03  #市場
-
-【商品期貨開盤】燃料油連續漲5.16%，低硫燃料油連續漲4.68%，集運指數歐線期貨連續漲4.31%，鈀連續漲3.64%，上海原油連續漲3.59%，乙二醇連續漲3.27%，苯乙烯連續漲3.04%，瀝青連續漲2.63%，丙烯連續漲2.58%，白銀連續漲2.47%。
-
----
-
-### 2026-07-15 09:00:03  #市場
-
-富時中國A50指數期貨開盤上漲0.63%。
-
----
-
-### 2026-07-15 08:59:41  #市場 #國際
-
-10年期日本國債收益率下跌1.0個基點，至2.695%。
-
----
-
-### 2026-07-15 08:58:56  #Trading Economics #Markets #Canada #currency #Importance 1
-
-Canadian Dollar Hits 4-week High — The Canadian Dollar touched 1.40 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar gained 0.38%, and in the last 12 months, it increased 2.62%.
-
----
-
-### 2026-07-15 08:58:29  #其他
-
-【7月14日397股獲融資買入超億元 中際旭創穫買入64.73億元居首】7月14日共有3509只個股獲融資資金買入，有397股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入64.73億元、51.97億元、51.05億元。
-
----
-
-### 2026-07-15 08:58:09  #市場 #焦點
-
-現貨黃金突破4060美元/盎司，日內漲0.16%。
-
----
-
-### 2026-07-15 08:57:31  #MKT News #Market Themes #Chip Wars #000660.KS #Impact mixed #005930.KS
-
-【BofA: SK Hynix's incremental capacity to 2028 may be only one-sixth of plan】BofA said technology-driven retirements of older fabs will limit South Korea's annual wafer capacity growth to under 10%, well short of the official 2030 doubling target. BofA estimates SK Hynix's incremental memory capacity through 2028 could be only one-sixth of its original plan. Construction and equipment-installation cycles for large new Samsung and SK Hynix wafer fabs in Gwangju and Jeollanam-do could stretch to as long as ten years.
-
----
-
-### 2026-07-15 08:57:27  #公司 #市場 #國際
-
-【韓國券商商議上調晶片槓桿型ETF投資門檻】韓國金融投資協會訊息，十家韓國頭部資產管理公司執行長召開會議，商議推出針對單一股票槓桿型ETF的投資者保護舉措，內容包含提高最低投資保證金、分散調倉交易時點等。協會發布宣告稱，參會各方達成共識，計劃上調此類槓桿產品的最低投資准入資金，現行標準為1000萬韓元（摺合6714美元）。資管機構表示，為緩解每日調倉交易集中在收盤時段對市場造成的衝擊，需將調倉操作分散至全天交易時段開展。參會企業同時提出，要進一步強化流動性提供商的市場維穩作用。韓國金融投資協會援引韓國資本市場研究院的資料稱，自相關槓桿ETF上市以來，每日進行再平衡所需的股票交易量估計約為7000億至2.1萬億韓元。
 
 ---

@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-20 03:27:34_
-_本檔包含 3543 則快訊，約 719746 字_
+_更新時間：2026-07-20 04:25:13_
+_本檔包含 3539 則快訊，約 719300 字_
+
+---
+
+### 2026-07-20 04:23:58  #MKT News #Market Regions #Emerging Markets
+
+【South Korea pledges to ease access to the won, pursue freely convertible currency goal】YONHAP reported on Sunday that South Korea's finance ministry will intensify efforts to broaden access to the won, aiming to make it a freely convertible currency. The Ministry of Economy and Finance published a roadmap for won internationalization — defined as removing barriers for non-residents to obtain or use the won offshore — and said this requires building an offshore won trading and settlement system and eliminating institutional restrictions. The government cited strong economic fundamentals and a maturing capital-market system as the rationale.
+
+---
+
+### 2026-07-20 04:20:26  #公司
+
+加拿大安大略省獨立電力系統運營商：安布里奇公司旗下安大略省182兆瓦安德伍德風電場已恢復執行。
+
+---
+
+### 2026-07-20 04:11:25  #MKT News #XAUUSD #Impact bullish #WTI #Brent
+
+Iran's deputy foreign minister said the US strike on the under-construction Darkhwin power plant was a dangerous attack on Iran's peaceful infrastructure and that Washington must bear full responsibility for any escalation and the resulting insecurity and instability. Tehran strongly condemned the attack and said it will take appropriate measures to defend national interests and security.
+
+---
+
+### 2026-07-20 04:07:29  #其他
+
+英國下任首相伯納姆擬設立 “超級大部” 統籌權力下放與區域發展事務，莉薩・南迪預計將執掌這個設立的全新超級內閣部門。
+
+---
+
+### 2026-07-20 04:05:25  #MKT News #FFIE.O
+
+Faraday Future (FFIE.O) said it has agreed a partnership with the Argentine Football Association (AFA) to become the Argentine national team's official regional sponsor in North America for robotics and related robotic technologies.
+
+---
+
+### 2026-07-20 04:04:05  #國際
+
+【俄稱在149個區域對烏實施打擊】19日，俄羅斯國防部發布戰報稱，俄軍控制第聶伯羅彼得羅夫斯克地區的沃利諾耶居民點。一天中，俄軍各叢集戰役戰術航空兵、攻擊型無人機、導彈部隊和炮兵，在149個區域對烏大型無人駕駛飛行器的裝配和儲存地點、燃料能源和交通基礎設施目標、烏軍使用的後勤中心，以及烏武裝編隊和外國僱傭兵的臨時部署點實施了打擊。（央視）
+
+---
+
+### 2026-07-20 04:03:59  #國際
+
+【烏稱打擊俄境內油庫及黑海3艘油輪】烏克蘭總統澤連斯基19日表示，烏軍當天對俄羅斯境內目標實施遠端打擊，烏克蘭國家安全域性所屬部隊打擊了俄羅斯斯塔夫羅波爾地區3座油庫，烏軍還打擊了該地區另一處燃料設施。澤連斯基還表示，烏方在黑海海域準確命中3艘俄羅斯油輪。烏克蘭方面19日稍早時候還稱，俄軍當日凌晨發動猛烈襲擊，發射了40多枚不同型別導彈，其中大多數射向基輔。（央視）
+
+---
+
+### 2026-07-20 03:59:30  #國際
+
+美國共和黨參議員湯姆·科頓在：持續的打擊行動既能保護美國人，又能削弱伊朗控制霍爾木茲海峽的能力。
+
+---
+
+### 2026-07-20 03:47:28  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+The Times of Israel, citing officials, says Prime Minister Netanyahu’s planned US trip next week for Senator Graham’s funeral may be canceled amid heightened regional security. Israeli officials warn Iran could broaden strikes to other senior Israeli figures, saying many people are under threat.
+
+---
+
+### 2026-07-20 03:32:55  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Kuwait says Iran strikes damage critical infrastructure】Kuwait's defense ministry said Iran has carried out sustained strikes against civil and critical infrastructure on Kuwaiti territory, causing multiple fires and severe damage. A ministry spokesman said the attacks hit facilities under the Ministry of Electricity, Water and Renewable Energy.
 
 ---
 
@@ -21354,89 +21414,5 @@ Polysilicon most-active futures fell more than 3%, now at 34,000 yuan/ton.
 ### 2026-07-17 14:38:00  #MKT News #Market Regions #Europe & UK
 
 UK Maritime Trade Operations says crew are safe and there are no reported environmental impacts.
-
----
-
-### 2026-07-17 14:37:52  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-UK Maritime Trade Operations said it received a report that a tanker was struck by an unidentified aerial object 19 nm east of Khasab, Oman.
-
----
-
-### 2026-07-17 14:37:29  #其他
-
-英國海上貿易行動辦公室（UKMTO）表示，一艘油輪在阿曼附近遇襲，報告稱其結構輕微受損。
-
----
-
-### 2026-07-17 14:36:57  #其他
-
-英國海上貿易行動辦公室（UKMTO）表示，油輪在阿曼附近遭不明彈丸擊中。
-
----
-
-### 2026-07-17 14:36:33  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Tasnim news agency reports an Iranian citizen was killed in a U.S. strike on Chabahar port.
-
----
-
-### 2026-07-17 14:35:41  #其他
-
-英國海上貿易行動辦公室（UKMTO）表示，收到阿曼哈薩布以東19海里處發生事故的報告。
-
----
-
-### 2026-07-17 14:35:23  #市場 #焦點
-
-純鹼連續主力合約日內跌3%，現報1010.00元。
-
----
-
-### 2026-07-17 14:35:21  #MKT News #Important #Market Regions #Greater China #Japan & APAC #Star Stocks #JD.com #Hang Seng Index #Impact bullish #JD.O
-
-【Michael Burry flags buy opportunities in Hong Kong stocks as AI halo fades】Michael Burry said on Friday investors should hunt for cheap opportunities in the Hong Kong market that could outperform once the halo around Korean and Japanese stocks and the iShares Semiconductor ETF cools. He also said earlier this month he increased his JD.com position. Morgan Stanley has likewise recommended overweighting Hong Kong equities, citing a supportive corporate earnings outlook.
-
----
-
-### 2026-07-17 14:34:30  #其他
-
-【股票私募倉位創近4年新高 超七成百億私募處於滿倉】私募排排網資料顯示，截至7月10日，股票私募倉位指數升至83.70%，較前一週提高0.15%，連續第三週加倉，創近四年以來新高。自5月15日以來，該指數累計提高3.61%。分佈來看，倉位超過80%的股票私募佔比為69.55%，倉位在50%至80%的佔比為18.78%。百億私募加倉更為明顯，倉位指數升至87.41%，單週提高3.35個百分點；其中72.57%的百億私募倉位超過80%，倉位在五成以上的合計佔比達96.32%。
-
----
-
-### 2026-07-17 14:33:52  #MKT News #Market Themes #AI Revolution #Nikkei 225 #Impact bearish #Hang Seng Index
-
-【Kioxia rout drags Nikkei as AI rally cools; bottom still unclear】Kioxia Holdings plunged as much as 16% intraday on Friday as investors unwound leverage in AI-related tech names, dragging the Nikkei 225 down more than 6% to a one-month intraday low. Taiwan’s TAIEX fell about 6.5%. South Korea was closed for a holiday; Australia, Hong Kong and Singapore markets also declined. Kioxia, a key beneficiary of this year’s AI-led rally, hit intraday limit down; its market value fell to roughly ¥28 trillion from a peak near ¥60 trillion (about $370 billion), and the stock is about 50% below its June 22 intraday high. JP Morgan’s quantitative strategies team said recent market sentiment has swung toward excess pessimism — narratives that the AI boom is ending or an AI bubble is bursting — and added: “Although supply-demand adjustment in AI names may be nearing completion, AI stocks driven by sentiment and flows may still need more time to bottom as these pessimistic narratives fully unwind.”
-
----
-
-### 2026-07-17 14:33:43  #市場
-
-新臺幣兌美元下跌0.5%至32.412。
-
----
-
-### 2026-07-17 14:33:10  #公司
-
-【翱坤科技完成數千萬元 A 輪融資】翱坤科技宣佈正式完成數千萬元A輪融資。本輪由中芯聚源領投，元禾璞華、金雨茂物、珠海金航基金跟投。本次募集資金將重點投入航空測控系統與工程數智化核心產品研發、適航認證與試驗試飛服務能力提升，持續夯實公司一站式航空工程服務核心競爭力。（新浪科技）
-
----
-
-### 2026-07-17 14:32:26  #MKT News #Market Themes #AI Revolution
-
-CHINA'S WERIDE (WRD.O) unveiled WITT, a physical AI cognitive foundation model.
-
----
-
-### 2026-07-17 14:32:23  #其他
-
-文遠知行釋出物理AI認知基礎模型WITT。
-
----
-
-### 2026-07-17 14:32:02  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
-
-【Two Chinese ETFs post highest turnover since Sept. 24, 2024】Huaxia Sci‑Tech Innovation 50 ETF (588000) traded 13.0 bln yuan and E Fund ChiNext ETF (159915) traded 13.8 bln yuan, each the largest daily turnover since the Sept. 24, 2024 session. Their prior post‑Sept. 24 highs were 12.714 bln yuan on Aug. 28, 2025 (Huaxia) and 13.721 bln yuan on Jan. 16, 2026 (E Fund). Huaxia recorded net inflows of 7.032 bln yuan over the past five trading days; E Fund ChiNext ETF net inflows were 4.581 bln yuan over the same period.
 
 ---

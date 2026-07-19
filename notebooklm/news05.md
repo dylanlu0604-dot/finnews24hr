@@ -1,7 +1,67 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-20 03:27:34_
-_本檔包含 3724 則快訊，約 719373 字_
+_更新時間：2026-07-20 04:25:13_
+_本檔包含 3714 則快訊，約 718551 字_
+
+---
+
+### 2026-07-14 10:23:50  #MKT News #Important #CSI300 #Impact bullish #SZSE Component
+
+A-share PCB theme extended: Xintong Electronics posted a second consecutive limit-up; Foster, Shengyi Technology, Xianfeng Holdings, Guanghe Technology and Huazheng New Materials hit daily limit; International Composite Materials, Minbao Optoelectronics and Zecheng Electronics rose over 10%.
+
+---
+
+### 2026-07-14 10:23:38  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【US military says it completed new round of strikes on Iran; 50,000 troops deployed in Middle East】CENTCOM said it completed a new round of strikes on Iran at 10:15 p.m. ET on July 13 after a five-hour operation, hitting multiple military targets inside Iran — Bushehr, Chabahar, Jask, Konarak, Abu Musa island and Bandar Abbas — aimed at degrading Iran’s ability to attack merchant shipping. CENTCOM said forces used precision-guided munitions to strike coastal defenses, missile and drone sites and maritime warfighting capabilities. More than 50,000 U.S. service members are deployed in the Middle East.
+
+---
+
+### 2026-07-14 10:23:18  #公司 #市場
+
+【PCB概念活躍，華正新材漲停】PCB概念活躍，信通電子2連板，福斯特、生益科技、賢豐控股、廣合科技、華正新材漲停，國際復材、民爆光電、則成電子漲超10%，新銳股份、鼎泰高科、博傑股份、呈和科技、逸豪新材跟漲。
+
+---
+
+### 2026-07-14 10:23:01  #MKT News #Important
+
+【China's National Healthcare Security Administration says 601 drugs pass form review for 2026 insurance drug-list update】China's National Healthcare Security Administration announced 601 drugs passed form review for the 2026 national basic medical insurance, maternity and work-injury drug-list adjustment. For the basic insurance list the NHSA received 800 submissions covering 664 generic names; 601 passed form review — 233 were in-list candidates and 368 off-list candidates — a 91% pass rate. For the commercial health insurance innovative-drug list it received 62 submissions covering 62 generics; 58 passed form review (1 in-list, 57 off-list), a 94% pass rate. The NHSA said form review is an initial eligibility check for expert assessment and does not constitute inclusion in the drug lists.
+
+---
+
+### 2026-07-14 10:22:46  #其他
+
+【國家醫保局：601種藥品透過2026年醫保目錄調整形式審查】國家醫保局今天公佈透過2026年國家基本醫療保險、生育保險和工傷保險藥品目錄及商業健康保險創新藥品目錄調整形式審查的申報藥品名單。2026年目錄調整申報階段，國家醫保局共收到基本醫保目錄申報資訊800份，涉及藥品通用名664個，最終601個透過形式審查，其中目錄外368個，目錄內233個，總體透過率91%。共收到商保創新藥目錄申報材料62份，涉及藥品通用名62個，最終58個透過形式審查，其中目錄外57個，目錄內1個，總體透過率94%。形式審查是醫保藥品目錄調整的初始環節，透過形式審查，僅代表該藥品符合相應的申報條件，獲得了參加專家評審的資格，不意味著已經納入目錄。
+
+---
+
+### 2026-07-14 10:22:13  #國際
+
+美國中央司令部：打擊了伊朗境內多個軍事目標，包括布什爾、恰赫巴哈爾、賈斯克、科納拉克、阿布穆薩和班達爾阿巴斯。
+
+---
+
+### 2026-07-14 10:22:04  #國際
+
+美國中央司令部：對伊朗海岸防禦系統、導彈和無人機陣地以及海上作戰能力使用了精確制導武器。
+
+---
+
+### 2026-07-14 10:21:58  #MKT News #Market Regions #Greater China
+
+A-share-listed Tuojing Technology shares hit an intraday record high, trading up 8.17% at 914 yuan; market cap 260.41 bln yuan.
+
+---
+
+### 2026-07-14 10:21:33  #國際
+
+美國中央司令部：目前有超過 50,000 名美國軍人部署在中東各地。
+
+---
+
+### 2026-07-14 10:21:06  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+CENTCOM says US forces have completed a new round of strikes on Iranian military targets.
 
 ---
 
@@ -22362,125 +22422,5 @@ cenc's automatic system estimated a magnitude ~3.8 earthquake at 05:02 on July 1
 ### 2026-07-13 04:31:16  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #WTI
 
 【CENTCOM: Iran's claim that three U.S. service members were killed in Kuwait is false】CENTCOM said today Iran's claim that three U.S. service members were killed in Kuwait is false. There have been no reports of U.S. casualties in the region; all personnel have been accounted for and are safe.
-
----
-
-### 2026-07-13 04:24:48  #其他
-
-伊拉克對霍爾木茲海峽近期緊張局勢下的海上安全形勢表示擔憂，呼籲各方保持克制，避免採取可能危及商船航行安全的行動。 巴格達方面稱，伊拉克支援一切旨在緩和緊張局勢的舉措。
-
----
-
-### 2026-07-13 04:11:30  #國際
-
-美國多州準備提起訴訟，阻止派拉蒙併購交易。最早於本週提起訴訟。
-
----
-
-### 2026-07-13 04:07:45  #國際
-
-美國多州準備提起訴訟，阻止派拉蒙併購交易。
-
----
-
-### 2026-07-13 04:06:51  #MKT News
-
-【Fire at Bangkok beer restaurant kills 27】A fire broke out at about 23:57 local time on the 12th at a beer restaurant near Lat Phrao Road in Chatuchak district, Bangkok, killing 27 and injuring more than 10. The blaze has been extinguished and the injured have been taken to hospital.
-
----
-
-### 2026-07-13 04:05:36  #國際
-
-【卡達和阿聯酋的液化天然氣供應已大幅減少】根據國際能源署（IEA）最新發布的季度報告，中東戰事的影響仍在持續重塑全球天然氣市場格局。 供應受限、價格高企，令主要市場的需求承壓。 霍爾木茲海峽的航運流量仍遠低於衝突前水平，未來貿易流向前景也存在顯著不確定性。 卡達和阿拉伯聯合大公國的液化天然氣供應降幅尤為明顯，3月至6月期間的產量較2025年同期四個月幾乎下降了80%。 短期供應中斷以及對天然氣基礎設施造成的破壞——包括全球最大液化天然氣設施卡達拉斯拉凡工廠——預計將推遲卡達液化天然氣產能擴張計劃。
-
----
-
-### 2026-07-13 04:02:27  #國際
-
-【泰國曼谷一啤酒餐廳發生火災致27人死亡】據泰國媒體報道，當地時間12日23時57分許，泰國首都曼谷乍都乍區拉拋路附近一家啤酒餐廳發生火災，造成27人死亡、10餘人受傷。目前大火已被撲滅，傷者被送往醫院救治。當地時間13日1時44分許，泰國總理阿努廷抵達事故現場，並表示將徹查事故原因。（新華社）
-
----
-
-### 2026-07-13 03:54:27  #國際
-
-【沙特外交大臣與地區多國外交大臣通話磋商】沙特外交大臣分別與卡達、阿曼、巴林及約旦外交大臣通電話，磋商地區局勢、緩和緊張局勢的相關舉措，以及霍爾木茲海峽航行自由問題。各方官員重申譴責伊朗多次襲擊地區國家的行為，反對任何可能侵犯國家主權、威脅地區安全與穩定的舉動。
-
----
-
-### 2026-07-13 03:52:56  #MKT News #Market Regions #Europe & UK #EURUSD #Impact bearish #DXY #Impact bullish #DAX
-
-Slovak President Pellegrini said Slovakia will not participate in the new €70 billion aid package for Ukraine, nor will it supply weapons to Ukraine or fund further rearmament.
-
----
-
-### 2026-07-13 03:52:36  #MKT News
-
-【Iran denies attack on Bushehr nuclear plant area】Islamic Republic of Iran Broadcasting on the 12th quoted a Bushehr provincial official denying social-media reports that the Bushehr nuclear power plant area had been attacked. The Atomic Energy Organization of Iran said all units and facilities continue to operate normally and the plant is in a safe, stable condition; reports of an attack are false.
-
----
-
-### 2026-07-13 03:52:35  #國際
-
-【伊朗否認布什爾核電站區域遭襲】據伊朗伊斯蘭共和國廣播電視臺12日報道，伊朗布什爾省相關負責人否認社交媒體上有關布什爾核電站區域遭到襲擊的訊息。另據報道，伊朗原子能組織釋出訊息說，布什爾核電站所有機組和設施均未中斷執行，正按正常程式開展工作。該核電站目前處於安全和穩定狀態，所謂遭到襲擊的說法不屬實。（新華社）
-
----
-
-### 2026-07-13 03:51:24  #國際
-
-【特朗普週一將在白宮舉辦印地賽車活動】特朗普將於週一在白宮舉辦一場印地賽車“大獎賽展示活動”。該活動旨在為下月華盛頓舉辦的街道賽造勢，車手阿萊克斯·帕洛烏等知名印地賽車手將出席本次活動。
-
----
-
-### 2026-07-13 03:48:31  #國際
-
-【斯洛伐克總統：不會參與新一輪對烏軍援】當地時間7月12日，斯洛伐克總統佩列格里尼表示，斯洛伐克不會參與總額700億歐元的新一輪對烏克蘭援助計劃，也不會向烏克蘭提供武器或為其進一步武裝提供資金。
-
----
-
-### 2026-07-13 03:48:05  #國際
-
-以色列總理內塔尼亞胡：我們的打擊範圍覆蓋加沙、葉門、黎巴嫩直至伊朗境內的敵人。我們已經消除了懸在我們頭頂的即時生存威脅，其中包括伊朗獲取核武器所帶來的緊迫危險。
-
----
-
-### 2026-07-13 03:42:49  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-The UAE Foreign Ministry strongly condemned aggressive attacks on Kuwaiti border posts and offshore oil platforms.
-
----
-
-### 2026-07-13 03:41:22  #國際
-
-特朗普明日將參加印地賽車大獎賽展示活動。
-
----
-
-### 2026-07-13 03:36:21  #國際
-
-伊朗外長：伊朗支援黎巴嫩主權，要求結束以色列佔領。
-
----
-
-### 2026-07-13 03:31:38  #MKT News #Commodities #Energy #WTI #Impact mixed #Brent
-
-【Why lower oil prices have not yet reduced inflation】Falling crude has not produced equivalent drops in consumer fuel costs because refined-product supplies—not crude—are tight. The 3-2-1 crack spread has jumped to a record $65/bbl, implying refiners can buy crude at roughly $71/bbl and sell finished products valued around $136. The gap reflects refinery feed shortages—firms running cautious inventories and disruptions around the Strait of Hormuz, where refiners account for over 10% of global product output—rather than raw crude scarcity. Market models that tie consumer fuel costs directly to crude risk understating near-term energy inflation. Diesel remains elevated, keeping transport costs high and sustaining upward pressure on other consumer prices; the price gap has also attracted political attention, with Trump threatening action against oil companies.
-
----
-
-### 2026-07-13 03:30:27  #市場
-
-悉尼早盤交易中，美元兌G10貨幣走強。
-
----
-
-### 2026-07-13 03:30:02  #MKT News
-
-Jorge Rodríguez, president of Venezuela’s National Assembly, said the earthquake death toll has risen to 4,490.
-
----
-
-### 2026-07-13 03:28:17  #國際
-
-【美國司法部調查針對全美汽車工人聯合會主席肖恩·費恩的多項指控】美國司法部已啟動大陪審團調查，指控全美汽車工人聯合會主席施壓另一名工會高層，為其未婚妻及未婚妻的妹妹謀取福利。聯邦大陪審團已向法院指派的工會監察官發出傳票，以此調查針對工會主席肖恩·費恩的相關指控。費恩在宣告中稱相關指控純屬捏造，並指責工會副主席裡奇·博耶企圖干預即將到來的全美汽車工人聯合會選舉。
 
 ---

@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-20 03:27:34_
-_本檔包含 3860 則快訊，約 719292 字_
+_更新時間：2026-07-20 04:25:13_
+_本檔包含 3858 則快訊，約 719837 字_
+
+---
+
+### 2026-07-17 14:37:52  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
+
+UK Maritime Trade Operations said it received a report that a tanker was struck by an unidentified aerial object 19 nm east of Khasab, Oman.
+
+---
+
+### 2026-07-17 14:37:29  #其他
+
+英國海上貿易行動辦公室（UKMTO）表示，一艘油輪在阿曼附近遇襲，報告稱其結構輕微受損。
+
+---
+
+### 2026-07-17 14:36:57  #其他
+
+英國海上貿易行動辦公室（UKMTO）表示，油輪在阿曼附近遭不明彈丸擊中。
+
+---
+
+### 2026-07-17 14:36:33  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+Tasnim news agency reports an Iranian citizen was killed in a U.S. strike on Chabahar port.
+
+---
+
+### 2026-07-17 14:35:41  #其他
+
+英國海上貿易行動辦公室（UKMTO）表示，收到阿曼哈薩布以東19海里處發生事故的報告。
+
+---
+
+### 2026-07-17 14:35:23  #市場 #焦點
+
+純鹼連續主力合約日內跌3%，現報1010.00元。
+
+---
+
+### 2026-07-17 14:35:21  #MKT News #Important #Market Regions #Greater China #Japan & APAC #Star Stocks #JD.com #Hang Seng Index #Impact bullish #JD.O
+
+【Michael Burry flags buy opportunities in Hong Kong stocks as AI halo fades】Michael Burry said on Friday investors should hunt for cheap opportunities in the Hong Kong market that could outperform once the halo around Korean and Japanese stocks and the iShares Semiconductor ETF cools. He also said earlier this month he increased his JD.com position. Morgan Stanley has likewise recommended overweighting Hong Kong equities, citing a supportive corporate earnings outlook.
+
+---
+
+### 2026-07-17 14:34:30  #其他
+
+【股票私募倉位創近4年新高 超七成百億私募處於滿倉】私募排排網資料顯示，截至7月10日，股票私募倉位指數升至83.70%，較前一週提高0.15%，連續第三週加倉，創近四年以來新高。自5月15日以來，該指數累計提高3.61%。分佈來看，倉位超過80%的股票私募佔比為69.55%，倉位在50%至80%的佔比為18.78%。百億私募加倉更為明顯，倉位指數升至87.41%，單週提高3.35個百分點；其中72.57%的百億私募倉位超過80%，倉位在五成以上的合計佔比達96.32%。
+
+---
+
+### 2026-07-17 14:33:52  #MKT News #Market Themes #AI Revolution #Nikkei 225 #Impact bearish #Hang Seng Index
+
+【Kioxia rout drags Nikkei as AI rally cools; bottom still unclear】Kioxia Holdings plunged as much as 16% intraday on Friday as investors unwound leverage in AI-related tech names, dragging the Nikkei 225 down more than 6% to a one-month intraday low. Taiwan’s TAIEX fell about 6.5%. South Korea was closed for a holiday; Australia, Hong Kong and Singapore markets also declined. Kioxia, a key beneficiary of this year’s AI-led rally, hit intraday limit down; its market value fell to roughly ¥28 trillion from a peak near ¥60 trillion (about $370 billion), and the stock is about 50% below its June 22 intraday high. JP Morgan’s quantitative strategies team said recent market sentiment has swung toward excess pessimism — narratives that the AI boom is ending or an AI bubble is bursting — and added: “Although supply-demand adjustment in AI names may be nearing completion, AI stocks driven by sentiment and flows may still need more time to bottom as these pessimistic narratives fully unwind.”
+
+---
+
+### 2026-07-17 14:33:43  #市場
+
+新臺幣兌美元下跌0.5%至32.412。
+
+---
+
+### 2026-07-17 14:33:10  #公司
+
+【翱坤科技完成數千萬元 A 輪融資】翱坤科技宣佈正式完成數千萬元A輪融資。本輪由中芯聚源領投，元禾璞華、金雨茂物、珠海金航基金跟投。本次募集資金將重點投入航空測控系統與工程數智化核心產品研發、適航認證與試驗試飛服務能力提升，持續夯實公司一站式航空工程服務核心競爭力。（新浪科技）
+
+---
+
+### 2026-07-17 14:32:26  #MKT News #Market Themes #AI Revolution
+
+CHINA'S WERIDE (WRD.O) unveiled WITT, a physical AI cognitive foundation model.
+
+---
+
+### 2026-07-17 14:32:23  #其他
+
+文遠知行釋出物理AI認知基礎模型WITT。
+
+---
+
+### 2026-07-17 14:32:02  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
+
+【Two Chinese ETFs post highest turnover since Sept. 24, 2024】Huaxia Sci‑Tech Innovation 50 ETF (588000) traded 13.0 bln yuan and E Fund ChiNext ETF (159915) traded 13.8 bln yuan, each the largest daily turnover since the Sept. 24, 2024 session. Their prior post‑Sept. 24 highs were 12.714 bln yuan on Aug. 28, 2025 (Huaxia) and 13.721 bln yuan on Jan. 16, 2026 (E Fund). Huaxia recorded net inflows of 7.032 bln yuan over the past five trading days; E Fund ChiNext ETF net inflows were 4.581 bln yuan over the same period.
 
 ---
 
@@ -23153,101 +23237,5 @@ China A-share chemical and pharmaceutical sector rallied; Harbin Pharmaceutical 
 ### 2026-07-16 09:39:30  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
 
 South Korean Shares Tumble on Tech Selloff — The benchmark KOSPI plunged nearly 7% to around 6,780 on Thursday, erasing gains from the previous session and approaching an over two-month low, as a global semiconductor selloff pressured technology shares. The decline followed overnight losses in US chipmakers, which reignited concerns over AI valuations and dragged South Korea's semiconductor heavyweights lower, with SK Hynix (-11.4%) and Samsung Electronics (-8.6%) tumbling sharply. Other notable losses included SK Square (-12.5%), Samsung Electro-Mechanics (-9.1%), Hyundai Motor (-3.5%), and Doosan Enerbility (-3.8%). Investor sentiment was also dampened by renewed Middle East tensions after fresh US strikes on Iran fueled concerns over energy supplies and reduced risk appetite. At the same time, investors assessed the Bank of Korea's widely expected 25-basis-point interest rate hike to 2.75%, marking the start of a new tightening cycle aimed at curbing inflation and supporting the won.
-
----
-
-### 2026-07-16 09:39:16  #其他
-
-【CPO概念震盪調整 長芯博創跌超12%】CPO概念震盪調整，長芯博創跌超12%，光庫科技、太辰光、天孚通訊、仕佳光子、烽火通訊集體下挫。
-
----
-
-### 2026-07-16 09:39:15  #MKT News #Important #SZSE Component #Impact bullish #CSI300
-
-China A-share consumer electronics sector jumped; Guoguang Electric, Furong Technology and Gelin Precision hit the daily trading limit. Jiahe Intelligent, Yidao Information, Beilong Precision, HiVi Technology and Haosheng Electronics also rose.
-
----
-
-### 2026-07-16 09:39:14  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-A-shares CPO concept stocks pulled back; Changxin Bochuang fell more than 12%, while Guangku Technology, Taichen Photonics, Tianfu Communication, Shijia Photonics and Fenghuo Communication also declined.
-
----
-
-### 2026-07-16 09:39:07  #市場
-
-【消費電子板塊直線拉昇，國光電器漲停】消費電子板塊直線拉昇，國光電器、福蓉科技、格林精密漲停，佳禾智慧、億道資訊、貝隆精密、惠威科技、豪聲電子等紛紛走高。
-
----
-
-### 2026-07-16 09:39:06  #市場 #焦點
-
-科創50日內跌幅達1.85%，成分股中，瀾起科技跌8.30%，中科飛測跌4.95%，拓荊科技跌4.89%，盛美上海跌4.08%。
-
----
-
-### 2026-07-16 09:38:11  #MKT News #Star Stocks #Tencent
-
-【Where to Park Spare Change? Short-term Wealth-product Yield Snapshot】Tencent Licaitong (demand+) 7-day annualized yields ranged 0.7860%–1.3640%. WeChat Wallet’s change product 7-day annualized yields ranged 0.8410%–1.0380%. Alipay Yu'ebao 7-day annualized yields ranged 0.9020%–1.0680%.
-
----
-
-### 2026-07-16 09:36:58  #公司 #市場
-
-【化學制藥板塊拉昇，哈藥股份5連板】化學制藥板塊拉昇，哈藥股份5連板，永安藥業2連板，博瑞醫藥、海創藥業漲超10%，哈三聯、海南海藥、新贛江、津藥藥業、美諾華跟漲。
-
----
-
-### 2026-07-16 09:36:55  #MKT News #Important #Star Stocks #Alibaba #09988.HK #Impact bullish #Hang Seng Index
-
-Hang Seng Tech Index extended gains, rising more than 2%; Alibaba (09988.HK) led constituents with a gain of over 5%. Hang Seng Index up 1.77%.
-
----
-
-### 2026-07-16 09:36:16  #其他
-
-【網易給全體員工放看球假】7月15日晚，網易發文：“7月20日（週一）上午，全體網易員工放假半天，盡情享受決賽之夜，踏踏實實看到終場哨響。”
-
----
-
-### 2026-07-16 09:36:14  #市場 #焦點
-
-恒生科技指數漲超2％，恒生指數現漲1.68％，阿里巴巴漲超5%。
-
----
-
-### 2026-07-16 09:36:01  #央行 #國際
-
-韓國央行：成本高企、匯率波動、需求壓力加劇通貨膨脹。
-
----
-
-### 2026-07-16 09:35:35  #市場
-
-大盤主力淨流出超100億。
-
----
-
-### 2026-07-16 09:35:31  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #CSI300
-
-China's Sci‑Tech Innovation Board 50 Index fell more than 4% intraday.
-
----
-
-### 2026-07-16 09:35:29  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-【Iran parliamentary speaker says Strait of Hormuz is pillar of national security】Iranian parliament speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz is a pillar of Iran’s national security and Tehran must preserve Iran’s existing arrangements in the vital shipping route. In an address to the nation he said Iran is engaged in a complex struggle with the United States and must remain prepared to fight; he added US strategy toward Iran has not changed and aims not only to weaken Iran but to sow domestic divisions. Ghalibaf said Iran’s policy in both conflict and negotiations should be grounded in realism, national interest and a long-term perspective.
-
----
-
-### 2026-07-16 09:35:26  #公司 #觀點
-
-【證券板塊短線走低，華安證券跌超8%】證券板塊短線走低，華安證券跌超8%，中金公司、招商證券、長江證券、中信建投等跟跌。
-
----
-
-### 2026-07-16 09:35:22  #國際
-
-【伊朗議長說霍爾木茲海峽是伊朗的國家安全支柱】據伊朗邁赫爾通訊社15日報道，伊朗議長卡利巴夫說，霍爾木茲海峽是伊朗的國家安全支柱，必須維護伊朗在這一重要航道的既有安排。卡利巴夫在當晚發表的致伊朗全國人民的講話中說，伊朗正與美國進行一場複雜的鬥爭，必須時刻準備與美國作戰。美方對伊朗的戰略並未改變，其目標不僅在於削弱伊朗，還包括在伊朗國內製造分裂。因此，無論是在衝突還是在談判中，伊朗的方針都必須基於現實、國家利益和長遠眼光。（新華社）
 
 ---
