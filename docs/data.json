@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-20 06:40:54",
-  "count": 19014,
+  "updated": "2026-07-20 06:44:49",
+  "count": 19012,
   "items": [
     {
       "id": "4996337",
@@ -175374,31 +175374,6 @@
         "國際"
       ],
       "text": "一名美國官員稱，過去24小時內，約20艘民用船隻在美軍協調下通行霍爾木茲海峽，另有數艘船隻未經過美方協調自行透過該海峽。"
-    },
-    {
-      "id": "te:economy:566146",
-      "time": "2026-07-13 06:44:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Services PMI",
-        "Importance 1"
-      ],
-      "text": "New Zealand Services Return to Growth — New Zealand’s BusinessNZ Performance of Services Index rose to 50.6 in June 2026 from an upwardly revised 48.0 in May, marking the first expansion in the services sector since January."
-    },
-    {
-      "id": "mkt:019f587d-b76b-7aab-8d47-a6569e477ee2",
-      "time": "2026-07-13 06:41:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell below $4,080/oz, down nearly 1% on the day."
     }
   ]
 }
