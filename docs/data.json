@@ -1,7 +1,22 @@
 {
-  "updated": "2026-07-19 16:19:49",
-  "count": 18932,
+  "updated": "2026-07-19 16:23:57",
+  "count": 18930,
   "items": [
+    {
+      "id": "mkt:019f7978-37e2-7aab-8df6-0a08e91a0dcc",
+      "time": "2026-07-19 16:22:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "Copper",
+        "S&P500"
+      ],
+      "text": "【SK chairman Chey Tae-won: Semiconductor demand to rise at least 50% next year】At a Jeju forum media session, SK Group chairman Chey Tae-won said global semiconductor demand will surge next year as AI drives a 60–100% YoY rise in AI-related demand and overall semiconductor demand increases at least 50–60% YoY. He warned new supply next year will be almost zero, risking a wider supply shortfall. After constraints in energy and power equipment, he flagged materials supply and facility construction as potential new bottlenecks — citing shortages and price rises for electrical wire and related materials and tightness in submarine cables. He added that frequent changes in construction specifications are increasing installation difficulty and that a self-sustaining AI industry ecosystem will take time to form despite heavy current infrastructure spending."
+    },
     {
       "id": "4995963",
       "time": "2026-07-19 16:18:57",
@@ -174711,33 +174726,6 @@
         "MKT News"
       ],
       "text": "【Qatar intercepts Iranian missile; shrapnel injures three, including child】Qatar’s Interior Ministry said on the 12th shrapnel from an interception of an incoming Iranian missile injured three people, including a child; the wounded have received treatment. Qatar’s Defense Ministry said the country was struck by an Iranian missile the same day. The Interior Ministry issued two security alerts earlier, and multiple explosions from air-defence intercepts were heard in the capital Doha."
-    },
-    {
-      "id": "4982797",
-      "time": "2026-07-12 16:23:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東北製藥：子公司14個品規藥品被納入2026年版國家基藥目錄】東北製藥公告稱，依據相關通知，《國家基本藥物目錄(2026年版)》自2026年9月1日起施行，公司全資子公司第一製藥及其控股子公司施德藥業有14個品規被新增納入。被納入後，利於藥品在各級醫療機構配備使用，對公司長遠發展有積極推動作用，但對當前經營業績影響具有不確定性，提醒投資者注意風險。"
-    },
-    {
-      "id": "4982796",
-      "time": "2026-07-12 16:23:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【航運資料顯示，霍爾木茲海峽船舶通行量暴跌90% 】隨著伊朗宣佈再次封鎖霍爾木茲海峽，該地區的商業交通量出現嚴重下滑。根據最新的商業交通追蹤資料，在過去24小時內，僅有11艘商船（包括8艘油輪和3艘貨船）透過了該海峽。與前一天的12艘以及7月4日通行量高峰期的57艘相比，這一數字出現了顯著下降，目前實際通行量已降至去年平均通行量的約10%。"
-    },
-    {
-      "id": "mkt:019f5569-f720-7aab-8d43-7c6ad1e2b66d",
-      "time": "2026-07-12 16:20:35",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK maritime authority warns the security threat in the Strait of Hormuz is extremely serious."
     }
   ]
 }

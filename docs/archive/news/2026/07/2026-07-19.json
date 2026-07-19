@@ -1,7 +1,22 @@
 {
   "date": "2026-07-19",
-  "count": 496,
+  "count": 497,
   "items": [
+    {
+      "id": "mkt:019f7978-37e2-7aab-8df6-0a08e91a0dcc",
+      "time": "2026-07-19 16:22:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Nasdaq100",
+        "Impact bullish",
+        "Copper",
+        "S&P500"
+      ],
+      "text": "【SK chairman Chey Tae-won: Semiconductor demand to rise at least 50% next year】At a Jeju forum media session, SK Group chairman Chey Tae-won said global semiconductor demand will surge next year as AI drives a 60–100% YoY rise in AI-related demand and overall semiconductor demand increases at least 50–60% YoY. He warned new supply next year will be almost zero, risking a wider supply shortfall. After constraints in energy and power equipment, he flagged materials supply and facility construction as potential new bottlenecks — citing shortages and price rises for electrical wire and related materials and tightness in submarine cables. He added that frequent changes in construction specifications are increasing installation difficulty and that a self-sustaining AI industry ecosystem will take time to form despite heavy current infrastructure spending."
+    },
     {
       "id": "4995963",
       "time": "2026-07-19 16:18:57",
