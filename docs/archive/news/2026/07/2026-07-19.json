@@ -1,7 +1,18 @@
 {
   "date": "2026-07-19",
-  "count": 836,
+  "count": 837,
   "items": [
+    {
+      "id": "mkt:019f7b0b-d186-7aab-8df9-4b037ce95e12",
+      "time": "2026-07-19 23:43:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Former US admiral warns Suez Canal merits heightened monitoring alongside Strait of Hormuz】Former US Navy Admiral James Stavridis warned Washington to closely monitor Iranian activity in the Suez Canal, saying shipping traffic through Suez exceeds the Strait of Hormuz and that Iran has begun signaling it could seek to use Houthi forces to close the waterway. He added Tehran is closely observing the war in Ukraine and appears to be adopting asymmetric tools—drones, unmanned systems and mobile tactics—to impose costs on adversaries."
+    },
     {
       "id": "4996202",
       "time": "2026-07-19 23:39:38",
