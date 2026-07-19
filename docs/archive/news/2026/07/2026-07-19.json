@@ -1,7 +1,19 @@
 {
   "date": "2026-07-19",
-  "count": 814,
+  "count": 815,
   "items": [
+    {
+      "id": "mkt:019f7aed-1f8d-7aab-8df9-08294dd34529",
+      "time": "2026-07-19 23:09:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says it shot down US LUCAS drone】Al Jazeera reported Iran's military said its naval air-defence systems intercepted and shot down a US LUCAS drone over southern Iran; state news agency IRNA released a photograph of an apparently damaged drone. LUCAS is a low-cost unmanned combat-attack system/loitering munition used as a suicide drone, and the US first deployed it earlier this year in operations targeting Iran."
+    },
     {
       "id": "4996188",
       "time": "2026-07-19 23:06:15",
