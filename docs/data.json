@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-20 00:16:38",
+  "updated": "2026-07-20 00:20:40",
   "count": 18992,
   "items": [
+    {
+      "id": "mkt:019f7b2c-30f3-7aab-8df9-8dece23c4877",
+      "time": "2026-07-20 00:18:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "According to Israel's Channel 14, the IDF chief of staff said the military is maintaining the highest alert level and is prepared to return to combat at any time."
+    },
+    {
+      "id": "mkt:019f7b2b-07d9-7aab-8df9-8022f10baec5",
+      "time": "2026-07-20 00:17:25",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish",
+        "AER.N"
+      ],
+      "text": "Market sources say aircraft lessor AerCap is in talks with Boeing to buy 787 Dreamliners at the Farnborough Airshow in the UK."
+    },
+    {
+      "id": "4996206",
+      "time": "2026-07-20 00:17:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航空租賃公司AerCap將在英國航展洽談採購波音787夢想客機】知情人士透露，全球飛機租賃巨頭AerCap控股公司正洽談採購波音787夢想客機，這筆交易有望成為即將開幕的範堡羅國際航展上租賃企業大單中的一筆。這家全球規模最大的飛機租賃公司考慮採購至多15架波音這款美製寬體客機。相關談判尚處保密階段。交易尚未敲定，條款存在變動可能，雙方也有可能洽談無果、無法達成協議。本屆行業年度航展將於週一在倫敦郊外舉辦，各大全球頭部航空融資企業的購機訂單，或將成為本次航展簽約交易的核心板塊。"
+    },
+    {
+      "id": "4996205",
+      "time": "2026-07-20 00:16:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "航空租賃公司AerCap正於英國航展洽談採購波音787夢想客機。"
+    },
     {
       "id": "mkt:019f7b29-0746-7aab-8df9-7e3b7768ed38",
       "time": "2026-07-20 00:15:14",
@@ -175199,40 +175238,6 @@
         "國際"
       ],
       "text": "市場資訊：美國一小時前在霍爾木茲周邊發動數輪打擊。"
-    },
-    {
-      "id": "4983007",
-      "time": "2026-07-13 00:20:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗稱有10至11枚導彈射向格什姆島。"
-    },
-    {
-      "id": "mkt:019f5721-43e8-7aab-8d46-1918a0d6e9b0",
-      "time": "2026-07-13 00:20:25",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Local official: Qeshm Island hit by missile attack】A Qeshm Island official, Hossein Amir Teymouri, said Sunday afternoon local time that enemy forces fired 10–11 missiles at the island. He said all struck targets were military facilities and there were no casualties reported."
-    },
-    {
-      "id": "4983006",
-      "time": "2026-07-13 00:18:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：針對伊朗格什姆島的最新導彈襲擊未造成人員傷亡"
-    },
-    {
-      "id": "4983005",
-      "time": "2026-07-13 00:18:21",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體：敵方於週日向伊朗格什姆島發射了多枚導彈。"
     }
   ]
 }
