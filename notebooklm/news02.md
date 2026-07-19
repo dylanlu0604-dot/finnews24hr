@@ -1,7 +1,157 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-20 01:10:59_
-_本檔包含 3884 則快訊，約 719506 字_
+_更新時間：2026-07-20 02:06:48_
+_本檔包含 3864 則快訊，約 719184 字_
+
+---
+
+### 2026-07-17 14:27:22  #其他
+
+【米哈遊訴二遊說事勝訴】7月17日，米哈遊法務部發文：近日，米哈遊訴微信公眾號“二遊說事”（原名“二遊戲貓”）運營者覃某商業詆譭案的判決已生效。法院認定覃某的行為構成商業詆譭，判令其在公眾號首頁連續十日刊登宣告、消除影響，並賠償米哈遊經濟損失及合理開支共計10萬元。
+
+---
+
+### 2026-07-17 14:27:11  #公司
+
+【優酷總裁吳倩：積極擁抱AI，但AI無法取代真人演員】由HappyHorse與虎鯨文娛集團聯合主辦的“HorsePower · AI影像大賽”啟動“HappyHorse AI影視實戰營”。虎鯨文娛集團COO兼優酷總裁吳倩發表寄語，希望所有創作者都能積極擁抱AI，但不盲目迷信技術，並對“能否用AI替代演員”的行業爭議話題表明態度，直言AI無法取代真人演員。（新浪科技）
+
+---
+
+### 2026-07-17 14:26:58  #MKT News #Market Regions #Greater China
+
+A-share Zhongji Xuchuang turnover hit 50 bln yuan; stock now down 7.91%.
+
+---
+
+### 2026-07-17 14:26:07  #其他
+
+【中際旭創成交額超500億元】7月17日下午，中際旭創成交額超500億元，現跌8%。
+
+---
+
+### 2026-07-17 14:24:50  #公司
+
+沃爾沃汽車首席財務官：我們看到間接成本同比顯著改善，這實際上抵消了市場不利因素的影響。
+
+---
+
+### 2026-07-17 14:23:32  #公司
+
+沃爾沃汽車首席財務官：去年我們出售了額度更高的二氧化碳排放額度，今年不會再有這種情況了。
+
+---
+
+### 2026-07-17 14:23:19  #宏觀
+
+【石泰峰在河南調研時強調 持續一體推進學查改 確保學習教育質效】7月15日至16日，中共中央政治局委員、中央組織部部長石泰峰在河南調研時強調，要深入學習貫徹習近平總書記“七一”重要講話精神，學習貫徹習近平黨建思想，深刻領悟“兩個確立”的決定性意義，堅決做到“兩個維護”，以更高標準更嚴要求抓好樹立和踐行正確政績觀學習教育，擰緊發條、保持力度，善作善成、善始善終。（新華社）
+
+---
+
+### 2026-07-17 14:23:16  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
+
+European Stocks Head for Lower Open — European equity markets were set to open lower on Friday as a global selloff in semiconductor stocks gathered pace, driven by mounting concerns over heavy AI-related spending and stretched valuations. Investors also continued to assess the impact of the escalating conflict between the US and Iran, which pushed oil prices higher and kept inflationary pressures and interest rate concerns firmly in focus. In Europe, attention will turn to final Eurozone inflation data for June, along with current account figures for both the euro area and Italy. On the corporate front, investors will monitor earnings reports from Novartis, Burberry Group, Volvo, Swedbank, and Danske Bank, among others. In premarket trading, Euro Stoxx 50 futures were down 0.9%, while Stoxx 600 futures declined 0.7%.
+
+---
+
+### 2026-07-17 14:22:49  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #SSE Composite #SZSE Component
+
+China A-share chip supply chain staged a localized rebound: Youyan Silicon rose over 10%; Changdian Technology surged, at one point up more than 8% intraday; Hua Hong Hongli, Tuojing Technology, Yandong Micro and AMEC also rallied.
+
+---
+
+### 2026-07-17 14:22:39  #公司
+
+【鋰電專用裝置板塊重挫】鋰電專用裝置板塊重挫，龍鑫智慧跌超18%，驕成超聲、星雲股份、杭可科技、利元亨等跟跌。
+
+---
+
+### 2026-07-17 14:22:32  #公司 #國際
+
+沃爾沃汽車首席商務官：我們已在以德國為起點的歐洲核心市場推行一項商業業績最佳化專案，我們認為該專案將對我們未來在這一市場的表現產生重大影響。
+
+---
+
+### 2026-07-17 14:22:23  #其他
+
+據燈塔專業版，截至7月17日，《功夫女足》總票房（含預售）突破10億，成為2026年第6部票房破10億影片。
+
+---
+
+### 2026-07-17 14:22:16  #其他
+
+【投資人Michael Burry稱現在是逢低買入香港股票的“好時機”】電影《大空頭》原型、知名投資人Michael Burry建議投資者在香港股市尋找逢低買入機會，港股在今年的全球AI浪潮中表現落後。“現在正是關注香港廉價股票的好時機，隨著韓股、日股和Soxx的光芒逐漸褪去，這些股票應該會有良好表現，”Scion Asset Management創始人Burry週五在X上發帖稱。Burry本月早些時候表示，他加倉了京東股票。
+
+---
+
+### 2026-07-17 14:21:32  #公司 #國際
+
+沃爾沃汽車首席商務官：我們還在德國等歐洲主要市場啟動了一項商業績效計劃，我們認為這將對我們在該市場的未來表現產生重大影響。
+
+---
+
+### 2026-07-17 14:20:44  #公司
+
+【中聯重科在湖南成立新能源科技公司，註冊資本3億】天眼查App顯示，近日，湖南中聯新能源科技有限公司成立，法定代表人為林勇，註冊資本3億人民幣，經營範圍包括電池製造、新興能源技術研發、新能源汽車電附件銷售、充電樁銷售、儲能技術服務等，由中聯重科全資持股。
+
+---
+
+### 2026-07-17 14:20:30  #MKT News #Market Regions #Europe & UK #ENR.DE #Impact bearish
+
+Siemens Energy shares fell 4% in early trade in Frankfurt.
+
+---
+
+### 2026-07-17 14:20:18  #國際
+
+莫迪啟動印度首列氫動力列車。
+
+---
+
+### 2026-07-17 14:20:13  #MKT News #Market Themes #AI Revolution
+
+【Qiyuan Q1 Explorer Edition debuts with new exterior ID】Shangwei New Materials unveiled the Qiyuan Q1 Explorer Edition at the opening day of WAIC 2026, taking an A' Design Award gold for its new exterior ID. The company billed the Q1 as the world's first personal robot, highlighting human-centric exterior design, compliant/safe human‑robot interaction and an open-source hardware ecosystem; an on‑site demo showed smooth force‑control interaction.
+
+---
+
+### 2026-07-17 14:20:06  #Trading Economics #Markets #Euro Area #Currency #Importance 1
+
+Euro Holds Near One-Month High as ECB Tightening Bets Support — The euro traded little changed around $1.145, hovering near its strongest level since June 19 and remaining on track for a weekly gain against the US dollar. Expectations of further European Central Bank tightening continued to support the currency, while investors also monitored escalating tensions in the Middle East following additional US strikes on Iranian targets. Markets fully price in an ECB rate hike in September, with another increase expected by spring 2027. However, recent comments from policymakers including Piero Cipollone and Martin Kocher signaled a cautious approach, making a July move unlikely. Meanwhile, the dollar weakened this week after softer-than-expected US inflation data, as producer prices unexpectedly fell in June and consumer prices posted their first monthly decline since 2020, reducing expectations for further Federal Reserve tightening this year.
+
+---
+
+### 2026-07-17 14:19:32  #公司 #國際
+
+沃爾沃汽車首席商務官：新款EX60不僅是我們在歐洲訂單量最高的車型之一，也是我們目前銷售利潤最高的車型。
+
+---
+
+### 2026-07-17 14:19:22  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Russian Defence Ministry said Russian forces struck infrastructure in Odesa and at Black Sea ports in Ukraine.
+
+---
+
+### 2026-07-17 14:19:21  #其他
+
+【啟元Q1探索者版全新外觀ID亮相WAIC 2026】WAIC 2026首日，上緯新材釋出全球首款個人機器人啟元Q1探索者版，新機全新外觀斬獲國際A' Design設計金獎，並在2026世界人工智慧大會線下首秀。據瞭解，作為個人機器人賽道開創級產品，啟元Q1打通人性化外觀設計、安全柔順人機互動與開源硬體生態，為個人機器人建立全新設計與開發標準，WAIC現場實景演示整機流暢力控互動表現。
+
+---
+
+### 2026-07-17 14:18:35  #國際
+
+俄羅斯國防部：俄軍打擊了烏克蘭敖德薩、切爾諾莫斯克的港口基礎設施。
+
+---
+
+### 2026-07-17 14:18:32  #公司
+
+【國海證券獨家競買大通證券控股權 正式進入收購交易階段】京東資產交易平臺顯示，大通證券51.59%控股股權第三次拍賣結束，本次競拍僅一家報名參與，即近日釋出公告參與競拍的國海證券。隨著競拍完成，國海證券將正式進入收購交易階段，成為大通證券控股股東。本次交易落地尚需證監會核准，此次併購是年內券商行業整合的重要案例，有望助力國海證券完善區域業務佈局。
+
+---
+
+### 2026-07-17 14:18:20  #MKT News #Important #Market Regions #Greater China #510300.SH #Impact bullish
+
+【Huatai-PineBridge CSI 300 ETF reclaims largest single-ETF spot】Huatai-PineBridge CSI 300 ETF regained the largest single-ETF position in China with assets of about 93.5 bln yuan, overtaking Yinhua Rili A (just over 90 bln yuan). Huaan Gold ETF is third at roughly 87.21 bln yuan.
 
 ---
 
@@ -23123,275 +23273,5 @@ The European-Mediterranean Seismological Centre reported a magnitude-5.8 earthqu
 ### 2026-07-16 09:33:22  #MKT News #Important #Market Regions #Greater China #Star Stocks #Alibaba #JD.com #09626.HK #Impact bullish #09988.HK #01024.HK
 
 Hang Seng Tech Index rose over 1% in early trade as internet names rallied; Bilibili (09626.HK) and Alibaba (09988.HK) gained more than 4%, Kuaishou (01024.HK) rose over 3%, while Baidu (09888.HK) and JD.com (09618.HK) also advanced.
-
----
-
-### 2026-07-16 09:33:06  #MKT News
-
-Bank of Korea says this year's core inflation may be slightly above its previous 2.4% forecast.
-
----
-
-### 2026-07-16 09:33:05  #市場 #焦點
-
-科創50日內跌幅達3％，成分股中，瀾起科技跌9.4％，中科飛測跌7.3％，拓荊科技跌5.9％，源傑科技跌5.8％。
-
----
-
-### 2026-07-16 09:32:56  #MKT News #Market Regions
-
-Bank of Korea says house-price growth in Seoul and surrounding areas has accelerated.
-
----
-
-### 2026-07-16 09:32:52  #公司
-
-【鋰電池板塊短線走低】鋰電池板塊短線走低，鵬輝能源跌超10%，蔚藍鋰芯、德福科技、銅冠銅箔、諾德股份等跟跌。
-
----
-
-### 2026-07-16 09:32:49  #MKT News #Important #Market Themes #Chip Wars #WTI #Impact mixed
-
-Bank of Korea said uncertainty remains around the semiconductor industry, developments in the Middle East and shifts in the trade environment.
-
----
-
-### 2026-07-16 09:32:41  #央行 #國際
-
-韓國央行：半導體行業、中東局勢發展、貿易環境變化仍存在不確定性。
-
----
-
-### 2026-07-16 09:32:34  #MKT News
-
-Bank of Korea: household loans rose sharply.
-
----
-
-### 2026-07-16 09:32:26  #市場 #焦點
-
-滬深300指數期貨連續主力合約日內跌1%，現報4669.80點。
-
----
-
-### 2026-07-16 09:32:25  #市場
-
-【影視院線板塊拉昇，儒意電影漲停】影視院線板塊拉昇，儒意電影漲停，歡瑞世紀、光線傳媒、上海電影、中國電影、博納影業跟漲。
-
----
-
-### 2026-07-16 09:32:17  #央行 #國際
-
-韓國央行：需密切關注樓市及家庭債務增長。
-
----
-
-### 2026-07-16 09:32:08  #MKT News
-
-Bank of Korea says it needs to monitor the real estate market and growth in household debt.
-
----
-
-### 2026-07-16 09:32:01  #央行 #國際
-
-韓國央行：通脹壓力將繼續加大，預計將維持在目標水平之上。
-
----
-
-### 2026-07-16 09:31:53  #MKT News
-
-BANK OF KOREA says inf pressures will continue to rise and are expected to remain above target.
-
----
-
-### 2026-07-16 09:31:44  #央行 #國際
-
-韓國央行：預計通脹將在相當長一段時間內保持高位。
-
----
-
-### 2026-07-16 09:31:42  #MKT News
-
-Bank of Korea said it will assess the timing of any further rise in inflationary pressure, the trajectory of the domestic economic recovery, and implications for financial stability.
-
----
-
-### 2026-07-16 09:31:39  #央行 #國際
-
-韓國央行：將評估通脹壓力進一步加劇的時機、國內經濟改善趨勢以及金融穩定性。
-
----
-
-### 2026-07-16 09:31:35  #央行 #國際
-
-韓國央行：有必要監控匯率的高波動性。
-
----
-
-### 2026-07-16 09:31:16  #MKT News #Market Regions #Greater China
-
-【China government bond futures open - morning session】Front-month 2-year (TS) contract down 0.01%; 5-year (TF) down 0.02%; 10-year (T) down 0.02%; 30-year (TL) down 0.06%.
-
----
-
-### 2026-07-16 09:31:15  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-【China stock index futures open】CSI 300 index futures (IF) main contract down 0.60%; SSE 50 index futures (IH) down 0.27%; CSI 500 index futures (IC) down 1.14%; CSI 1000 index futures (IM) down 0.92%.
-
----
-
-### 2026-07-16 09:31:14  #央行 #國際
-
-韓國央行：預計今年經濟增長率將大幅超過5月預測的2.6%。
-
----
-
-### 2026-07-16 09:31:12  #MKT News #Market Regions #Greater China #SZSE Component #Impact bearish
-
-Shenzhen Composite Index extended early losses to around 2% in early trading.
-
----
-
-### 2026-07-16 09:31:04  #央行 #國際
-
-韓國央行：週四的利率決定獲得一致透過。
-
----
-
-### 2026-07-16 09:31:04  #MKT News
-
-Bank of Korea expects this year's growth rate to significantly exceed its May projection of 2.6%.
-
----
-
-### 2026-07-16 09:30:59  #市場 #焦點
-
-深證成指跌2.03%，現報14478.699點；上證指數跌0.87%，現報3921.083點；創業板指跌2.63%，現報3704.726點。
-
----
-
-### 2026-07-16 09:30:52  #MKT News #Macro & Rates #Treasury Yields #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-Japan 30-year government bond yield rose 5 bps to 3.805%.
-
----
-
-### 2026-07-16 09:30:48  #MKT News
-
-Bank of Korea said Thursday's interest-rate decision was approved unanimously.
-
----
-
-### 2026-07-16 09:30:48  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish
-
-A-share fiber-optic sector opened lower; Changfei Optical Fiber fell more than 8%, with Zhengfan Technology, Changuang Huaxin, Changjiang Communication and Tianfu Communication also down.
-
----
-
-### 2026-07-16 09:30:32  #市場 #焦點
-
-恒生指數漲超1%，現報24972.781點；恒生科技指數現漲1.011%。
-
----
-
-### 2026-07-16 09:30:17  #MKT News #CSI300 #Impact bearish #SSE Composite
-
-A-share CRO sector eased in early trade. Wanbang Pharmaceutical and Yinuosi slid over 6%, Pharmaron fell about 5%, while Nuosige and Yangguang Nuohe also weakened.
-
----
-
-### 2026-07-16 09:30:16  #市場 #焦點
-
-恒生指數漲超1%，現報24932.160點；恒生科技指數現漲0.808%。
-
----
-
-### 2026-07-16 09:30:04  #市場 #焦點
-
-科創50日內跌幅達2.67%，成分股中，瀾起科技跌7.78%，盛美上海跌6.37%，拓荊科技跌5.04%，中芯國際跌4.97%。
-
----
-
-### 2026-07-16 09:30:03  #市場
-
-【股指期貨早盤開盤】 中證1000指數期貨連續跌0.78%， 滬深300指數期貨連續跌0.79%， 中證500指數期貨連續跌0.94%， 上證50指數期貨連續跌0.66%。
-
----
-
-### 2026-07-16 09:30:03  #市場 #焦點
-
-北證50日內跌幅達1.21%，成分股中，戈碧迦跌5.53%，錦華新材跌4.61%，曙光數創跌3.43%，則成電子跌3.40%。
-
----
-
-### 2026-07-16 09:30:02  #市場
-
-【國債期貨開盤】 30年期主力合約跌0.07%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。
-
----
-
-### 2026-07-16 09:29:32  #市場
-
-【光纖概念板塊低開，長飛光纖跌超8%】光纖概念板塊低開，長飛光纖跌超8%，正帆科技、長光華芯、長江通訊、天孚通訊跟跌。
-
----
-
-### 2026-07-16 09:28:57  #其他
-
-【工信部公開徵求《工業網際網路平臺 區塊鏈建設管理規範 第1部分：子鏈建設》等173項行業標準計劃專案意見】7月16日，據工信部網站，根據工信部標準化工作的總體安排，現將申請立項的《工業網際網路平臺 區塊鏈建設管理規範 第1部分：子鏈建設》等173項行業標準計劃專案予以公示。
-
----
-
-### 2026-07-16 09:28:17  #市場 #焦點
-
-紐約期金失守4040美元/盎司，日內跌0.30%。
-
----
-
-### 2026-07-16 09:27:53  #公司
-
-【土耳其對原產於中國的義齒雕刻機作出反傾銷終裁】7月4日，土耳其貿易部發布第2026/24號公告，對原產於中國的義齒雕刻機作出反傾銷肯定性終裁，決定徵收8.555美元/單位反傾銷稅。涉案產品的土耳其稅號為9018.49.90.00.22。本案傾銷調查期為2024年7月1日至2025年6月30日，損害調查期為2022年1月1日至2025年6月30日。措施自公告發布之日起生效，有效期為五年。
-
----
-
-### 2026-07-16 09:27:40  #MKT News #Important #CSI300 #Impact bearish
-
-China A-share storage chip sector opened sharply lower; several names hit the daily down-limit in the opening auction, including Demingli, Huatian Technology and Jiangfeng Electronics. Tongfu Microelectronics and Tianshan Electronics fell over 9%; Shannon Chip Innovation and Montage Technology also declined.
-
----
-
-### 2026-07-16 09:27:39  #MKT News #Market Regions #Greater China #SSE Composite #Impact bearish #CSI300 #SZSE Component
-
-At the open on July 16, China's Shanghai Composite fell 43.2 points (-1.09%) to 3,912.38; Shenzhen Composite down 281.97 points (-1.91%) to 14,497.43; CSI 300 INDEX down 75.25 points (-1.57%) to 4,711.53; ChiNext Index down 94.2 points (-2.48%) to 3,710.51; STAR 50 Index down 54.33 points (-2.82%) to 1,869.94.
-
----
-
-### 2026-07-16 09:27:29  #市場
-
-【AI手機概念盤初活躍 道明光學一字漲停】早盤AI手機概念活躍，道明光學、福蓉科技競價漲停，格林精密、福日電子、中科創達、中興通訊跟漲。
-
----
-
-### 2026-07-16 09:27:22  #市場
-
-【儲存晶片板塊大幅低開，德明利跌停開盤】儲存晶片板塊大幅低開，德明利、江豐電子、華天科技、通富微電跌停開盤，精測電子跌超15%，天山電子、夏農芯創、瀾起科技跌幅居前。
-
----
-
-### 2026-07-16 09:27:15  #市場 #國際
-
-日本30年期國債收益率上漲5個基點至3.805%。
-
----
-
-### 2026-07-16 09:26:54  #公司
-
-【土耳其對原產於中國的圓珠筆啟動反傾銷日落複審調查】7月4日，土耳其貿易部發布第2026/26號公告稱，應土耳其生產商申請，對原產於中國的圓珠筆啟動反傾銷第四次日落複審調查。涉案產品的土耳其稅號為9608.10.10.10.00、9608.10.99.00.00和9608.50.00.10.00。案件調查期間，現行反傾銷稅持續有效。公告自發布之日起生效。
-
----
-
-### 2026-07-16 09:26:37  #Trading Economics #Markets #United States #Currency #Importance 2
-
-Dollar Holds Decline on Soft PPI — The dollar index traded around 100.5 on Thursday after posting sharp losses over the previous two sessions, as easing inflation pressures reduced expectations of a near-term Federal Reserve interest rate hike. Data released on Wednesday showed US producer prices unexpectedly fell in June for the first time in nearly a year, largely due to lower energy costs, following Tuesday’s softer-than-expected consumer inflation report. Markets trimmed expectations for a Fed rate increase in September, with the implied probability falling to around 44% from 50% a day earlier. Meanwhile, investors continued to monitor escalating attacks in the Middle East after the US launched additional strikes against Iranian targets. The renewed conflict pushed oil prices sharply higher this week, fueling fresh concerns over inflation and the interest rate outlook. Still, President Donald Trump said on Wednesday that Tehran had indicated a willingness to resume negotiations.
 
 ---

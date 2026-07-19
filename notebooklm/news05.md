@@ -1,7 +1,97 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-20 01:10:59_
-_本檔包含 3731 則快訊，約 718620 字_
+_更新時間：2026-07-20 02:06:48_
+_本檔包含 3726 則快訊，約 718934 字_
+
+---
+
+### 2026-07-14 10:18:11  #MKT News #Important #Market Regions #Greater China #SSE Composite #Impact bullish #SZSE Component
+
+Shanghai Composite turned positive, reclaiming the 3,900 level; Shenzhen Composite Index rose 0.71% and the ChiNext Index gained 1.2%, led by genetically modified-crop, PCB and pharmaceutical e-commerce stocks.
+
+---
+
+### 2026-07-14 10:18:00  #市場
+
+臺灣加權股價指數下跌3.1%至43,975.92點。
+
+---
+
+### 2026-07-14 10:18:00  #MKT News #Important #Market Regions #Greater China #CNH #Impact mixed #CSI300 #Copper
+
+CUSTOMS says China's foreign trade will face some pressure in H2, but sustained innovation momentum, strong enterprise dynamism and high openness mean trade fundamentals remain solid and the positive development momentum is likely to continue.
+
+---
+
+### 2026-07-14 10:17:52  #市場
+
+【商業航天板塊持續走低，中國衛通觸及跌停】商業航天板塊持續走低，中國衛通觸及跌停，此前航天發展、中國衛星、通宇通訊、航天動力等多股跌停。
+
+---
+
+### 2026-07-14 10:17:38  #MKT News #Important #Copper #Impact bullish #CNH
+
+【Customs: China 1H computing-hardware trade CNY 5.13 tln, up 56.6%】Customs said at a State Council briefing that in 1H China's imports and exports of electronic components, computer parts and other computing hardware totalled CNY 5.13 tln, a 56.6% YoY increase. Customs said rapid AI development has driven strong trade momentum in related products, citing fast iteration in AI glasses, AI translators and robotic exoskeletons.
+
+---
+
+### 2026-07-14 10:17:23  #MKT News
+
+Reuters: White House officials said the Trump administration is blocking US citizens in the Democratic Republic of the Congo from boarding commercial flights to the United States over Ebola risk.
+
+---
+
+### 2026-07-14 10:17:11  #國際
+
+據多家伊朗媒體訊息，科威特一處美軍基地發生爆炸。（央視新聞）
+
+---
+
+### 2026-07-14 10:16:56  #國際
+
+白宮官員稱，因埃博拉風險，特朗普政府阻止在剛果民主共和國的美國公民搭乘商業航班前往美國
+
+---
+
+### 2026-07-14 10:16:47  #經濟數據 #中國
+
+【上半年我國電子元件、電腦零部件等算力硬體進出口5.13萬億元 增長56.6%】國務院新聞辦公室今天（14日）舉行釋出會，介紹今年以來我國外貿執行情況。釋出會上介紹，上半年我國外貿實現了兩位數增長，保持了良好執行態勢。隨著人工智慧快速發展，我國相關產品進出口動力強勁。上半年，我國電子元件、電腦零部件等算力硬體進出口5.13萬億元，增長56.6%。AI眼鏡、AI翻譯器、機械外骨骼等智慧產品快速迭代，各類創新產品不斷湧現。
+
+---
+
+### 2026-07-14 10:16:25  #MKT News #Market Regions #Japan & APAC #Nikkei 225 #Impact bearish #USDJPY #Impact mixed
+
+Japan's Nikkei 225 fell 0.76% to 66,728.38 points.
+
+---
+
+### 2026-07-14 10:16:06  #MKT News #Commodities #Energy
+
+【Sichuan grid peak load hits record 74.318 million kW】The Sichuan Basin is under the first widespread, persistent heatwave of 2026; multiple areas issued red high-temperature warnings and some locations topped 40°C. State Grid Sichuan reported the provincial grid's load reached a record 74.318 million kW at 21:11 on July 13.
+
+---
+
+### 2026-07-14 10:15:39  #宏觀 #市場 #國際
+
+【四個關鍵字，看上半年我國外貿亮眼成績單】國務院新聞辦公室今天（14日）舉行釋出會，介紹今年以來我國外貿執行情況。釋出會上介紹，上半年我國外貿實現了兩位數增長，保持了良好執行態勢。一是規模“穩”。上半年，我國進出口規模歷史同期首次突破25萬億元，比去年同期增加了3.68萬億元。從月度看，連續4個月超過4萬億元。根據最新國際資料，我國穩居全球貨物貿易第一大國地位。二是動力“新”。隨著人工智慧快速發展，我國相關產品進出口動力強勁。上半年，我國電子元件、電腦零部件等算力硬體進出口5.13萬億元，增長56.6%。AI眼鏡、AI翻譯器、機械外骨骼等智慧產品快速迭代，各類創新產品不斷湧現。三是主體“活”。我國企業主動識變應變求變，持續在全球拓展合作空間、尋找合作伙伴，國際“朋友圈”越來越廣。與去年同期相比，今年上半年有26.7萬家外貿企業將生意拓展到了新的國家和地區，這些企業合計進出口值增長22.6%，在外貿總值中佔比近七成。四是內外“融”。我國堅持主動擴大對外開放，已對63個國家實施零關稅政策，不斷促進與經貿夥伴的共同發展。上半年，我國對31個自貿協定夥伴進出口增長28.1%，佔外貿比重提升至46.5%。綜合保稅區充分發揮連線國內國際兩個市場、兩種資源的獨特功能和政策整合優勢，上半年進出口4.34萬億元，增長28.2%。總體來看，我國上半年外貿取得了亮眼成績。同時，當前外部環境依然複雜多變，世界銀行認為，全球經濟正面臨能源價格上漲、通脹壓力加劇、貨幣政策預期收緊的壓力，經濟增長前景趨於轉弱；國際貨幣基金組織預測資料顯示，世界經濟增長將由去年的3.5％放緩至今年的3%，貨物和服務貿易量增速也將由去年的5％放緩至今年的3.5%。下半年我國外貿面臨一定壓力，但我國創新動力足、主體活力強、開放水平高，外貿基本盤依然穩固，外貿發展的良好勢頭有望保持下去。
+
+---
+
+### 2026-07-14 10:15:15  #公司
+
+【四川電網用電負荷創新高 達7431.8萬千瓦】近日來，四川盆地遭遇2026年首輪大範圍持續性高溫天氣，多地釋出高溫紅色預警，局地最高氣溫突破40℃。據國網四川省電力公司官微訊息，持續狂飆的高溫也帶動全省用電負荷一路走高，7月13日21時11分，四川電網用電負荷創歷史新高，達到7431.8萬千瓦。
+
+---
+
+### 2026-07-14 10:15:08  #Trading Economics #Markets #Currency #Importance 1
+
+Asia FX Updates: New Zealand Dollar Appreciates by 0.57% — Top currency gainers are New Zealand Dollar (0.57%) and South Korean Won (0.26%). Meanwhile, Japanese Yen and Chinese Yuan were little changed.
+
+---
+
+### 2026-07-14 10:14:55  #經濟數據 #中國
+
+【海關總署：我國穩居全球貨物貿易第一大國地位】海關總署副署長王軍7月14日在國新辦新聞釋出會上表示，今年上半年，我國外貿實現兩位數增長，保持良好執行態勢；進出口規模歷史同期首次突破25萬億元，較去年同期增加了3.68萬億元。從月度看，截至目前，進出口規模已連續4個月超過4萬億元。根據最新國際資料，我國穩居全球貨物貿易第一大國地位。
 
 ---
 
@@ -22404,125 +22494,5 @@ Yemen's foreign ministry reiterated that, in the face of ongoing US and Israeli 
 ### 2026-07-13 02:11:33  #國際
 
 【日本民眾舉行集會 反對政府擴軍修憲】當地時間12日，日本民眾自發在東京澀谷街頭舉行集會，反對日本政府擴軍修憲。參加者表示，日本政府不斷擴大軍備、推動修改和平憲法，背離戰後和平發展道路，令人感到擔憂。（央視新聞）
-
----
-
-### 2026-07-13 02:01:24  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Security sources said a drone strike targeted a camp of the Iranian Kurdish opposition in Sulaimaniyah in eastern Iraq.
-
----
-
-### 2026-07-13 02:00:55  #國際
-
-安全訊息人士：無人機襲擊襲擊了伊拉克蘇萊曼尼亞東部的伊朗庫爾德反對派營地。
-
----
-
-### 2026-07-13 01:59:16  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iran lawmaker: control of Strait of Hormuz is Iran's "final" policy】Hassan Kashkavi, a member of Iran’s parliament National Security and Foreign Policy Committee, told state Press TV on Sunday that Iran prefers to manage the Strait of Hormuz through cooperation with regional states, particularly Oman, and that "the clear official position is that future management of the Strait will be arranged by Iran." A former long‑time Foreign Ministry diplomat, he said UNCLOS permits coastal states in wartime to take measures to ensure safe maritime passage and protect their maritime security, and described recent US strikes linked to Hormuz disputes as violations of the UN Charter and infringements of national sovereignty.
-
----
-
-### 2026-07-13 01:57:46  #國際
-
-黎巴嫩衛生部表示，自3月2日以來，以色列對黎巴嫩的襲擊已造成至少4,322人死亡和12,219人受傷。
-
----
-
-### 2026-07-13 01:49:09  #MKT News #WTI #Impact bullish #XAUUSD
-
-【U.S. strikes multiple sites in Iran's Hormozgan province; one killed, two wounded】Local government sources in Iran's Hormozgan province said on the 12th the U.S. launched strikes on multiple locations, including Qeshm Island, and explosions were reported in several areas including the provincial capital Bandar Abbas. Sources said the strikes killed one person and wounded two, who are receiving medical treatment.
-
----
-
-### 2026-07-13 01:47:59  #國際
-
-【伊朗霍爾木茲甘省多地遭美襲擊 致1死2傷】當地時間12日，據伊朗霍爾木茲甘省政府知情人士訊息，美國當天對該省部分地區發動新一輪襲擊，包括格什姆島在內的多個地點遭襲，當地傳出數次爆炸聲。另有訊息稱，霍爾木茲甘省首府阿巴斯港也傳出爆炸聲。知情人士稱，襲擊造成1人死亡、2人受傷。目前傷者正在接受治療。
-
----
-
-### 2026-07-13 01:39:24  #MKT News #LMT.O #Impact bullish
-
-U.S. ambassador to NATO Whitaker said Turkey's F-35 sale will proceed if legal conditions are met.
-
----
-
-### 2026-07-13 01:35:16  #國際
-
-【以色列宣佈將於10月27日舉行大選】當地時間12日，以色列執政聯盟宣佈，以色列第26屆議會選舉將於10月27日舉行。
-
----
-
-### 2026-07-13 01:32:46  #MKT News
-
-【EU again fails to agree on 21st round of Russia sanctions】On the 12th (local time) the EU again failed to reach agreement on a 21st package of sanctions against Russia. After an ambassadors' meeting on July 10 failed to secure consensus, the EU rotating presidency held intensive consultations with member states; negotiations on the 12th ended without result.
-
----
-
-### 2026-07-13 01:32:20  #國際
-
-【歐盟再次未就第21輪對俄製裁方案達成一致】當地時間12日，歐盟再次未就對俄羅斯第21輪制裁方案達成一致。據瞭解，在7月10日歐盟成員國大使會議未能就第21輪對俄製裁達成一致後，歐盟輪值主席國仍在與各成員國密集磋商。經過12日一天的談判，最終無果而終。歐盟委員會主席馮德萊恩6月9日說，已向各成員國提交第21輪對俄羅斯制裁措施，主要涉及能源、金融、漁業等領域。根據歐盟相關程式，新一輪制裁措施須經27個成員國一致同意後方可生效。
-
----
-
-### 2026-07-13 01:31:30  #國際
-
-俄羅斯國防部：防空系統在12小時內擊落了220架烏克蘭武裝部隊的無人機。
-
----
-
-### 2026-07-13 01:28:26  #國際
-
-美國駐北約大使馬修·惠特克：只要滿足相關法律條件，土耳其引進F-35戰機的交易就能夠落地。
-
----
-
-### 2026-07-13 01:27:20  #國際
-
-伊朗媒體：兩枚炮彈擊中霍爾木茲海峽附近的阿布穆薩島。
-
----
-
-### 2026-07-13 01:26:17  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-Iranian outlet Fars News reported the Islamic Revolutionary Guard Corps (IRGC) earlier targeted a U.S. rocket-launch system in a drone operation in Kuwait.
-
----
-
-### 2026-07-13 01:25:33  #焦點 #國際
-
-伊朗媒體：革命衛隊在無人機行動中打擊了位於科威特境內的美軍火箭炮系統。
-
----
-
-### 2026-07-13 01:25:17  #公司 #國際
-
-伊朗媒體：美伊衝突再度爆發，伊朗南部海灣霍爾木茲甘省遭遇“敵方襲擊”，一名電信公司員工遇難，另有兩人受傷。
-
----
-
-### 2026-07-13 01:22:10  #國際
-
-以色列國防軍：委內瑞拉國家地震災後重建計劃也已開始實施。該計劃由以色列後方司令部的專家團隊制定，並已獲委內瑞拉代總統、基礎設施部長以及負責該專案的當地團隊批准。
-
----
-
-### 2026-07-13 01:21:54  #國際
-
-以色列國防軍：過去一週，後方司令部專家代表團繼續在委內瑞拉開展工作，對建築物進行結構分類並評估其穩定性，以確保搜救與災後恢復工作的安全推進。作為任務的一部分，代表團成員開展了實地考察，向居民通報建築物的現狀，並實施工程評估。
-
----
-
-### 2026-07-13 01:13:00  #其他
-
-市場資訊：科威特一處美軍基地發生爆炸。
-
----
-
-### 2026-07-13 01:12:40  #國際
-
-受戰事損毀影響，伊朗電網供電容量減少4200兆瓦。
 
 ---

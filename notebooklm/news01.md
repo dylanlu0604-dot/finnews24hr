@@ -1,7 +1,139 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-20 01:10:59_
-_本檔包含 3530 則快訊，約 718699 字_
+_更新時間：2026-07-20 02:06:48_
+_本檔包含 3527 則快訊，約 719113 字_
+
+---
+
+### 2026-07-20 02:02:44  #國際
+
+美國地質調查局：墨西哥馬德羅港西南81公里處發生5.5級地震。
+
+---
+
+### 2026-07-20 01:58:14  #國際
+
+【美國通知以色列將強化對伊打擊】以美兩國安全訊息人士稱，美國已通知以色列，計劃在未來數日加大對伊朗的打擊力度。訊息人士稱，美方預判伊朗可能發射導彈襲擊以色列、進一步升級衝突，以色列或將隨之展開反擊。儘管存在該風險，美國當下仍希望以色列不捲入衝突升級迴圈。
+
+---
+
+### 2026-07-20 01:54:14  #MKT News
+
+Saudi outlet Alhadath reports Jordan’s Aqaba airport is operating normally and flights are continuing. The report follows a US embassy message on the 19th saying Jordan had evacuated Aqaba’s international airport and port area over a “specific and credible security threat”; Jordanian officials later denied the evacuation.
+
+---
+
+### 2026-07-20 01:51:34  #宏觀 #國際
+
+鑑於剛果民主共和國當前正暴發埃博拉疫情，美國官方出臺新管控措施，美國公民將無法搭乘直飛航班從剛果（金）返回本國。
+
+---
+
+### 2026-07-20 01:50:11  #MKT News #Important
+
+Houthi armed group says it will issue a statement tomorrow announcing an important position.
+
+---
+
+### 2026-07-20 01:47:42  #國際
+
+訊息人士：一支伊朗高階代表團明日抵達伊斯蘭堡，開啟為期兩天的訪問。
+
+---
+
+### 2026-07-20 01:47:33  #國際
+
+訊息人士：伊朗內政部長埃斯坎達爾・穆梅尼明日將在伊斯蘭堡會見巴基斯坦領導層。
+
+---
+
+### 2026-07-20 01:43:27  #其他
+
+匈牙利總理支援國際象棋大師朱迪特·波爾加爾參選該國總統。
+
+---
+
+### 2026-07-20 01:42:07  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+【Jerusalem Post: Trump inclined to further escalate military action against Iran】Jerusalem Post cites multiple Israeli and US officials saying on Sunday President Trump is inclined to further escalate US military action against Iran. One official said, "It appears Trump is prepared to expand military action against Iran; the remaining questions are the extent and timing. He believes the diplomatic option is now unlikely barring a surprise." Another official warned Trump has reversed decisions at the 11th hour in the past, so his stance could still change. Israeli Prime Minister Netanyahu signaled at a Likud committee meeting that the situation could escalate in the coming days.
+
+---
+
+### 2026-07-20 01:39:30  #國際
+
+特朗普：已提議美國再承辦一屆世界盃。
+
+---
+
+### 2026-07-20 01:38:44  #國際
+
+以色列方面研判：除非美國大幅升級針對德黑蘭的軍事施壓，否則伊朗不會發起直接打擊。
+
+---
+
+### 2026-07-20 01:37:52  #MKT News
+
+NHC: A tropical depression is currently lingering offshore near Florida's west coast.
+
+---
+
+### 2026-07-20 01:30:23  #MKT News #WTI #Impact bullish #XAUUSD
+
+【Jerusalem Post: Israel may join action against Iran under three conditions】The Jerusalem Post reports Israeli officials assess that, provided the US does not significantly escalate military action against Tehran, Iran will temporarily avoid striking Israel. Two officials told the paper Israel could intervene in strikes on Iran in three cases: if Iran attacks Israel; if Israeli intelligence detects Iran preparing to launch missiles or drones at Israel; or if US President Trump formally requests Israeli participation.
+
+---
+
+### 2026-07-20 01:27:01  #國際
+
+【特朗普預測世界盃決賽】世界盃決賽，西班牙vs阿根廷，賽前美國總統特朗普接受了福克斯體育的採訪。 實際上，再回到這次的世界盃，我必須得問問，阿根廷對西班牙，給個預測吧？ 特朗普：我知道你會問這個，所以我非常認真地思考過了，我想了很久。我知道會有這個問題。雖然在政治上這沒那麼要緊，但我還是討厭做出選擇。阿根廷的領導人是我的朋友，他工作做得非常出色。 但我得說，很難去賭梅西會輸。我看了那個傳球，我想你會稱之為傳球，它極其完美。雖然要把那個速度飛過來的球用頭頂進去確實需要一些天賦，但那個傳球太完美了。如果有個好球區的話，它正好就在它該在的位置。 而且在那之前，我還看了他擺脫防守隊員的方式。他被防得很死，突然之間，他就一個人站在那兒，完美地把球踢了出去。很難賭他會輸，所以，我不會太激動，我只是覺得，很難賭梅西會輸，他太棒了。
+
+---
+
+### 2026-07-20 01:25:56  #國際
+
+【伯納姆或將放開北海石油開採，特朗普對此表示歡迎】美國總統特朗普稱，有報道稱伯納姆或將支援北海新一輪油氣開採，蘇格蘭阿伯丁民眾會為此 “走上街頭歡慶”。目前有訊息稱伯納姆考慮批准北海羅斯班克油田、寒鴉油田新增化石燃料開採專案，但伯納姆本人並未證實該訊息。不過特朗普週日在自家社交平臺 “真實社交” 發帖，聲稱伯納姆已表態會放開開採。特朗普發文寫道：“蘇格蘭阿伯丁民眾都要上街狂歡了，因為新任首相安迪・伯納姆宣佈，將全面開發價值不可估量的北海石油！”這位長期公開力挺化石能源的美國總統表示，擴大北海開採能讓英國從 “深陷貧困的災難國家，蛻變為全球最富庶的國家之一”。他再度抨擊風電產業，稱英國應當遷走那些矗立在阿伯丁上空、觀感醜陋、破壞城市風貌的風力發電機。
+
+---
+
+### 2026-07-20 01:23:51  #國際
+
+以色列官員：隨著伊朗襲擊行動不斷加劇，美國將向以色列增派空中加油機。
+
+---
+
+### 2026-07-20 01:22:59  #MKT News #Important #WTI #Impact bullish #XAUUSD
+
+【Israeli media: Trump warns Gulf mediators failure to secure ceasefire this week could trigger significant escalation】Israeli Channel 13 reported President Trump told Gulf states involved in mediation that if a ceasefire is not secured this week, parties should prepare for a marked escalation. The warning followed Iran’s Sunday launch of four missiles toward Jordan and other parts of the Gulf and U.S. airstrikes inside Iran the same night. An Israeli senior military officer said that if missiles aimed at Jordan strike the southern Israeli city of Eilat, Israel would have to respond.
+
+---
+
+### 2026-07-20 01:22:38  #MKT News
+
+【Rubio, Aoun discuss implementation of US-Lebanon-Israel framework】The US State Department said on the 19th that Secretary of State Rubio met visiting Lebanese President Aoun to discuss implementation of the US-Lebanon-Israel trilateral framework. They discussed disarming Hezbollah, destroying its "terrorist infrastructure" and steps to restore peace in Lebanon; Rubio reiterated US support for implementing the framework. Middle East media reported President Trump will meet Aoun at the White House on the 21st — Aoun's first formal meeting with a US president since taking office in Jan 2025 and the first visit by a Lebanese head of state to the White House since 2009.
+
+---
+
+### 2026-07-20 01:21:19  #宏觀 #國際
+
+【魯比奧與黎巴嫩總統討論美黎以框架協議落實情況】美國國務院19日說，美國務卿魯比奧當天會見來訪的黎巴嫩總統奧恩，討論美黎以三方框架協議的落實情況。美國國務院發表宣告說，雙方討論瞭解除黎巴嫩真主黨武裝、摧毀其“恐怖主義基礎設施”、在黎實現和平等事宜，魯比奧在會談中重申美國支援落實三方框架協議。
+
+---
+
+### 2026-07-20 01:15:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【IDF chief says forces ready to resume operations immediately】On the 19th local time, Israel Defense Forces Chief of Staff Zamir said the IDF is closely monitoring the situation with Iran and remains at high readiness, prepared to resume operations immediately. He said forces detected projectiles headed toward Jordan's southern Aqaba region and that air defenses remain on alert; he added the IDF will strike anyone who harms Israel "with firm determination."
+
+---
+
+### 2026-07-20 01:15:44  #國際
+
+【以軍總參謀長稱已做好立即恢復作戰準備】當地時間19日，以色列國防軍總參謀長扎米爾表示，以軍正密切關注伊朗局勢，並保持高度戰備狀態，已做好立即恢復作戰的準備。扎米爾當天在約旦河西岸舉行局勢評估會議時表示，以軍當天監測到有發射物飛向約旦南部亞喀巴地區，以軍防空系統始終保持戒備。他強調，以軍已做好隨時恢復作戰的準備，並將以“堅定決心”打擊任何“傷害以色列的人”。
+
+---
+
+### 2026-07-20 01:15:42  #MKT News
+
+【Iraq's prime minister to visit Iran, sign cooperation MOUs】Iraq's Prime Minister Ali Zaydi will visit Iran within the next week and sign multiple MOUs in Tehran covering several areas of cooperation, local media reported.
 
 ---
 
@@ -21208,155 +21340,5 @@ Volvo Cars CFO said the impact of higher oil and raw-material prices began to sh
 ### 2026-07-17 14:27:33  #Trading Economics #Markets #commodity #Importance 0
 
 EU Carbon Permits Hits 4-week Low — EU Carbon Permits decreased to 78.26 EUR, the lowest since June 2026. Over the past 4 weeks, EU Carbon Permits lost 1.81%, and in the last 12 months, it increased 12.41%.
-
----
-
-### 2026-07-17 14:27:22  #其他
-
-【米哈遊訴二遊說事勝訴】7月17日，米哈遊法務部發文：近日，米哈遊訴微信公眾號“二遊說事”（原名“二遊戲貓”）運營者覃某商業詆譭案的判決已生效。法院認定覃某的行為構成商業詆譭，判令其在公眾號首頁連續十日刊登宣告、消除影響，並賠償米哈遊經濟損失及合理開支共計10萬元。
-
----
-
-### 2026-07-17 14:27:11  #公司
-
-【優酷總裁吳倩：積極擁抱AI，但AI無法取代真人演員】由HappyHorse與虎鯨文娛集團聯合主辦的“HorsePower · AI影像大賽”啟動“HappyHorse AI影視實戰營”。虎鯨文娛集團COO兼優酷總裁吳倩發表寄語，希望所有創作者都能積極擁抱AI，但不盲目迷信技術，並對“能否用AI替代演員”的行業爭議話題表明態度，直言AI無法取代真人演員。（新浪科技）
-
----
-
-### 2026-07-17 14:26:58  #MKT News #Market Regions #Greater China
-
-A-share Zhongji Xuchuang turnover hit 50 bln yuan; stock now down 7.91%.
-
----
-
-### 2026-07-17 14:26:07  #其他
-
-【中際旭創成交額超500億元】7月17日下午，中際旭創成交額超500億元，現跌8%。
-
----
-
-### 2026-07-17 14:24:50  #公司
-
-沃爾沃汽車首席財務官：我們看到間接成本同比顯著改善，這實際上抵消了市場不利因素的影響。
-
----
-
-### 2026-07-17 14:23:32  #公司
-
-沃爾沃汽車首席財務官：去年我們出售了額度更高的二氧化碳排放額度，今年不會再有這種情況了。
-
----
-
-### 2026-07-17 14:23:19  #宏觀
-
-【石泰峰在河南調研時強調 持續一體推進學查改 確保學習教育質效】7月15日至16日，中共中央政治局委員、中央組織部部長石泰峰在河南調研時強調，要深入學習貫徹習近平總書記“七一”重要講話精神，學習貫徹習近平黨建思想，深刻領悟“兩個確立”的決定性意義，堅決做到“兩個維護”，以更高標準更嚴要求抓好樹立和踐行正確政績觀學習教育，擰緊發條、保持力度，善作善成、善始善終。（新華社）
-
----
-
-### 2026-07-17 14:23:16  #Trading Economics #Markets #Euro Area #Stock Market #Importance 2
-
-European Stocks Head for Lower Open — European equity markets were set to open lower on Friday as a global selloff in semiconductor stocks gathered pace, driven by mounting concerns over heavy AI-related spending and stretched valuations. Investors also continued to assess the impact of the escalating conflict between the US and Iran, which pushed oil prices higher and kept inflationary pressures and interest rate concerns firmly in focus. In Europe, attention will turn to final Eurozone inflation data for June, along with current account figures for both the euro area and Italy. On the corporate front, investors will monitor earnings reports from Novartis, Burberry Group, Volvo, Swedbank, and Danske Bank, among others. In premarket trading, Euro Stoxx 50 futures were down 0.9%, while Stoxx 600 futures declined 0.7%.
-
----
-
-### 2026-07-17 14:22:49  #MKT News #Market Themes #Chip Wars #CSI300 #Impact bullish #SSE Composite #SZSE Component
-
-China A-share chip supply chain staged a localized rebound: Youyan Silicon rose over 10%; Changdian Technology surged, at one point up more than 8% intraday; Hua Hong Hongli, Tuojing Technology, Yandong Micro and AMEC also rallied.
-
----
-
-### 2026-07-17 14:22:39  #公司
-
-【鋰電專用裝置板塊重挫】鋰電專用裝置板塊重挫，龍鑫智慧跌超18%，驕成超聲、星雲股份、杭可科技、利元亨等跟跌。
-
----
-
-### 2026-07-17 14:22:32  #公司 #國際
-
-沃爾沃汽車首席商務官：我們已在以德國為起點的歐洲核心市場推行一項商業業績最佳化專案，我們認為該專案將對我們未來在這一市場的表現產生重大影響。
-
----
-
-### 2026-07-17 14:22:23  #其他
-
-據燈塔專業版，截至7月17日，《功夫女足》總票房（含預售）突破10億，成為2026年第6部票房破10億影片。
-
----
-
-### 2026-07-17 14:22:16  #其他
-
-【投資人Michael Burry稱現在是逢低買入香港股票的“好時機”】電影《大空頭》原型、知名投資人Michael Burry建議投資者在香港股市尋找逢低買入機會，港股在今年的全球AI浪潮中表現落後。“現在正是關注香港廉價股票的好時機，隨著韓股、日股和Soxx的光芒逐漸褪去，這些股票應該會有良好表現，”Scion Asset Management創始人Burry週五在X上發帖稱。Burry本月早些時候表示，他加倉了京東股票。
-
----
-
-### 2026-07-17 14:21:32  #公司 #國際
-
-沃爾沃汽車首席商務官：我們還在德國等歐洲主要市場啟動了一項商業績效計劃，我們認為這將對我們在該市場的未來表現產生重大影響。
-
----
-
-### 2026-07-17 14:20:44  #公司
-
-【中聯重科在湖南成立新能源科技公司，註冊資本3億】天眼查App顯示，近日，湖南中聯新能源科技有限公司成立，法定代表人為林勇，註冊資本3億人民幣，經營範圍包括電池製造、新興能源技術研發、新能源汽車電附件銷售、充電樁銷售、儲能技術服務等，由中聯重科全資持股。
-
----
-
-### 2026-07-17 14:20:30  #MKT News #Market Regions #Europe & UK #ENR.DE #Impact bearish
-
-Siemens Energy shares fell 4% in early trade in Frankfurt.
-
----
-
-### 2026-07-17 14:20:18  #國際
-
-莫迪啟動印度首列氫動力列車。
-
----
-
-### 2026-07-17 14:20:13  #MKT News #Market Themes #AI Revolution
-
-【Qiyuan Q1 Explorer Edition debuts with new exterior ID】Shangwei New Materials unveiled the Qiyuan Q1 Explorer Edition at the opening day of WAIC 2026, taking an A' Design Award gold for its new exterior ID. The company billed the Q1 as the world's first personal robot, highlighting human-centric exterior design, compliant/safe human‑robot interaction and an open-source hardware ecosystem; an on‑site demo showed smooth force‑control interaction.
-
----
-
-### 2026-07-17 14:20:06  #Trading Economics #Markets #Euro Area #Currency #Importance 1
-
-Euro Holds Near One-Month High as ECB Tightening Bets Support — The euro traded little changed around $1.145, hovering near its strongest level since June 19 and remaining on track for a weekly gain against the US dollar. Expectations of further European Central Bank tightening continued to support the currency, while investors also monitored escalating tensions in the Middle East following additional US strikes on Iranian targets. Markets fully price in an ECB rate hike in September, with another increase expected by spring 2027. However, recent comments from policymakers including Piero Cipollone and Martin Kocher signaled a cautious approach, making a July move unlikely. Meanwhile, the dollar weakened this week after softer-than-expected US inflation data, as producer prices unexpectedly fell in June and consumer prices posted their first monthly decline since 2020, reducing expectations for further Federal Reserve tightening this year.
-
----
-
-### 2026-07-17 14:19:32  #公司 #國際
-
-沃爾沃汽車首席商務官：新款EX60不僅是我們在歐洲訂單量最高的車型之一，也是我們目前銷售利潤最高的車型。
-
----
-
-### 2026-07-17 14:19:22  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Russian Defence Ministry said Russian forces struck infrastructure in Odesa and at Black Sea ports in Ukraine.
-
----
-
-### 2026-07-17 14:19:21  #其他
-
-【啟元Q1探索者版全新外觀ID亮相WAIC 2026】WAIC 2026首日，上緯新材釋出全球首款個人機器人啟元Q1探索者版，新機全新外觀斬獲國際A' Design設計金獎，並在2026世界人工智慧大會線下首秀。據瞭解，作為個人機器人賽道開創級產品，啟元Q1打通人性化外觀設計、安全柔順人機互動與開源硬體生態，為個人機器人建立全新設計與開發標準，WAIC現場實景演示整機流暢力控互動表現。
-
----
-
-### 2026-07-17 14:18:35  #國際
-
-俄羅斯國防部：俄軍打擊了烏克蘭敖德薩、切爾諾莫斯克的港口基礎設施。
-
----
-
-### 2026-07-17 14:18:32  #公司
-
-【國海證券獨家競買大通證券控股權 正式進入收購交易階段】京東資產交易平臺顯示，大通證券51.59%控股股權第三次拍賣結束，本次競拍僅一家報名參與，即近日釋出公告參與競拍的國海證券。隨著競拍完成，國海證券將正式進入收購交易階段，成為大通證券控股股東。本次交易落地尚需證監會核准，此次併購是年內券商行業整合的重要案例，有望助力國海證券完善區域業務佈局。
-
----
-
-### 2026-07-17 14:18:20  #MKT News #Important #Market Regions #Greater China #510300.SH #Impact bullish
-
-【Huatai-PineBridge CSI 300 ETF reclaims largest single-ETF spot】Huatai-PineBridge CSI 300 ETF regained the largest single-ETF position in China with assets of about 93.5 bln yuan, overtaking Yinhua Rili A (just over 90 bln yuan). Huaan Gold ETF is third at roughly 87.21 bln yuan.
 
 ---
