@@ -1,7 +1,136 @@
 {
-  "updated": "2026-07-19 18:39:53",
-  "count": 18953,
+  "updated": "2026-07-19 18:53:14",
+  "count": 18965,
   "items": [
+    {
+      "id": "mkt:019f79ff-e2d0-7aab-8df7-34ea7471db11",
+      "time": "2026-07-19 18:50:40",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran condemns U.S. \"terrorist attack\" on under-construction nuclear plant】The Atomic Energy Organization of Iran said on the 19th the U.S. struck the construction site of the under‑construction Darhovin nuclear power plant at about 03:39 local time, condemning the action as a \"terrorist attack\" and saying it violated international law."
+    },
+    {
+      "id": "4996067",
+      "time": "2026-07-19 18:49:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗譴責美國襲擊伊朗在建核電站】伊朗原子能組織今天（7月19日）發表宣告稱，當地時間今天凌晨3時39分左右，美國使用多枚發射物襲擊了伊朗在建的達爾霍溫核電站專案現場。宣告譴責此次襲擊違反國際法，並稱達爾霍溫核電站是伊朗實現科技自主的重要專案。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f79fe-6bb8-7aab-8df7-2b7aae5cc7b1",
+      "time": "2026-07-19 18:49:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【Tianshu Zhixin unveils next-generation general-purpose GPU flagship TianGai 300 at WAIC】At WAIC 2026 Tianshu Zhixin unveiled the TianGai 300, a next-generation general-purpose GPU built on a SIMT compute architecture and positioned for three AI trends: information, action and exploration. Company-provided tests show TianGai 300 matches or exceeds mainstream international solutions based on the Hopper architecture on complex workloads. Tianshu Zhixin says the chip is ready for scaled application and is undergoing deep adaptation with domestic cloud providers, server vendors, interconnect ecosystem partners and supernode systems, supporting deployment from single machines to large-scale clusters."
+    },
+    {
+      "id": "4996066",
+      "time": "2026-07-19 18:48:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱兩艘船隻在霍爾木茲海峽發生事故】伊朗伊斯蘭革命衛隊海軍19日發表宣告稱，數小時前，4艘船隻關閉導航系統、無視伊方管控基地警告，試圖經過“不安全航道”駛離霍爾木茲海峽。其中兩艘發生事故並停在原地，另外兩艘放棄繼續航行。宣告稱，革命衛隊海軍目前“完全控制”霍爾木茲海峽，船隻只能透過伊方指定的安全航道通行；石油、天然氣及化肥運輸船未經伊方協調和許可不得透過該海峽。（央視新聞）"
+    },
+    {
+      "id": "4996065",
+      "time": "2026-07-19 18:45:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【約旦官方稱美駐約旦使館釋出假訊息】據路透社報道，約旦政府發言人今天（7月19日）表示，美國駐約旦大使館稍早前釋出的關於“約旦基於‘具體且可信的安全威脅’疏散約旦南部城市亞喀巴的國際機場和港口區域”的說法並不屬實。約旦在過去數小時內沒有檢測到任何安全威脅。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f79fa-86c9-7aab-8df7-27cb4043ac7c",
+      "time": "2026-07-19 18:44:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jordan says US embassy's Aqaba evacuation claim false】Jordan government spokesman on July 19 said an earlier US embassy statement that Jordan had evacuated Aqaba international airport and port areas \"based on a specific and credible security threat\" was false, and that Jordan had detected no security threat in recent hours."
+    },
+    {
+      "id": "4996064",
+      "time": "2026-07-19 18:44:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同花順：預計上半年淨利潤同比增長75%-95%】同花順公告，預計2026年上半年淨利潤為8.78億元–9.79億元，同比增長75%-95%。2026年上半年，受資本市場交投活躍等因素影響，金融資訊服務需求快速增長。報告期內，公司持續推進人工智慧技術與金融資訊服務業務深度融合，加快大模型及AI技術在金融智慧體、資料終端、使用者服務等場景的應用落地，持續提升產品智慧化水平和服務能力，進一步最佳化使用者體驗，增強公司核心競爭力。"
+    },
+    {
+      "id": "4996063",
+      "time": "2026-07-19 18:44:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里Token Plan個人版釋出，Qwen3.8-Max預覽版同步上線】剛剛，阿里Token Plan個人版正式釋出，使用者可在其中搶先體驗Qwen3.8-Max-Preview。Qwen3.8-Max引數量達2.4T，在程式碼工程和專業辦公等場景中表現出色，可能是除了Fable 5外最強大的模型，正式版將於近期釋出並開源。Token Plan限時優惠：個人版：Lite 39元/月（6.5折），Standard 139元/月（7.7折），Pro 499元/月（8.3折）。團隊版：標準席位 150元/席位/月（7.6折），高階席位 550元/席位/月（7.9折），尊享席位 1398元/席位/月。Qwen3.8-Max-Preview限時活動：白天Credits消耗1折，個人版Token plan夜間在此基礎上再享2折除Token Plan外，Qoder和QoderWork也已首發支援Qwen3.8-Max-Preview，千問PC端可免費體驗。"
+    },
+    {
+      "id": "4996062",
+      "time": "2026-07-19 18:43:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中控技術全棧自主可控方案護航塔里木二期乙烯專案一次試車成功】7月16日，中國石油獨山子石化塔里木120萬噸/年二期乙烯及配套綠色低碳示範工程專案（簡稱“塔里木二期乙烯專案”或“專案”）一次投料試車成功，標誌著我國中西部地區規模最大的乙烯產業基地建成，我國石化工業在綠色低碳轉型與核心裝備自主可控領域，取得實質性進展。中控技術作為該專案核心供應商，提供了覆蓋生產控制、安全保障、裝置管理與智慧最佳化的全棧自主可控方案。"
+    },
+    {
+      "id": "mkt:019f79f8-6ee4-7aab-8df7-189d9ab28e79",
+      "time": "2026-07-19 18:42:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "HKEX filings show Aodong New Energy Co., Ltd. has submitted a listing application to the exchange."
+    },
+    {
+      "id": "4996061",
+      "time": "2026-07-19 18:42:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "據港交所檔案：奧動新能源股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "4996060",
+      "time": "2026-07-19 18:42:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂山電力：犍為電網負荷突破29萬千瓦 創新高】7月16日晚8時，犍為電網最高負荷達29萬千瓦，重新整理歷史紀錄。樂山電力犍為公司迅速啟動迎峰度夏保供電方案，目前電網整體執行平穩。"
+    },
+    {
+      "id": "mkt:019f79f7-245b-7aab-8df7-14789e2ea664",
+      "time": "2026-07-19 18:41:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan's information minister said Aqaba airport and port are operating normally, and relevant authorities will issue warnings for any potential risks."
+    },
+    {
+      "id": "4996059",
+      "time": "2026-07-19 18:39:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【天數智芯WAIC釋出新一代通用GPU旗艦產品天垓300】天數智芯在WAIC 2026上正式釋出新一代通用GPU旗艦產品天垓300。介面新聞瞭解到，天垓300基於SIMT通用計算架構，該晶片面向“資訊、行動、探索”三類智慧趨勢，圍繞晶片架構、關鍵運算元、系統擴充套件和軟體生態進行了全面升級。"
+    },
+    {
+      "id": "mkt:019f79f5-fd9f-7aab-8df7-098240bd7741",
+      "time": "2026-07-19 18:39:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Youzu Interactive, research bodies launch AI Development and Safety Initiative】At the WAIC 2026 “AI Leading Industry Transformation” session, Youzu Interactive together with the National Industrial Information Security Development Research Center, World Digital Academy, Shanghai Artificial Intelligence Industry Research Institute, HKUST Shanghai Industry‑Education Integration Center and Hengwei Technology (Shanghai) Co., Ltd. launched the AI Development and Safety Initiative, calling for consensus and coordinated action to build safe, trustworthy and controllable AI."
+    },
     {
       "id": "4996058",
       "time": "2026-07-19 18:38:00",
@@ -174854,30 +174983,6 @@
         "國際"
       ],
       "text": "【伊朗革命衛隊：美軍巡航導彈已被新型防空系統所擊落】伊朗革命衛隊發文表示，今日在美軍的軍事行動中，革命衛隊新型的防空系統擊落一枚美軍的巡航導彈，該系統目前納入伊朗國家綜合防空網路。"
-    },
-    {
-      "id": "mkt:019f55f1-8833-7aab-8d44-a3a9f156569e",
-      "time": "2026-07-12 18:48:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Oman said 23 crew from the vessel GFS Galaxy have been rescued; one crew member remains missing and search operations are ongoing."
-    },
-    {
-      "id": "4982869",
-      "time": "2026-07-12 18:47:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【今年A股最大IPO要來了 上半年長鑫科技淨利潤預計漲超1700%】根據發行安排，7月16日（下週四），長鑫科技IPO將迎來網上申購，作為國產儲存晶片巨頭，5月27日IPO過會，6月12日註冊生效，長鑫科技此次科創板上市，擬融資金額高達295億元，將成為今年A股市場規模最大的IPO，也是科創板史上的第二大IPO，僅次於中芯國際的532億元。 記者瞭解到，長鑫科技網上發行申購上限為167.2萬股，頂格申購需配滬市市值1672萬元。Wind資料顯示，長鑫科技是今年以來發行股票數量最多的新股，同時也是科創板歷史上發行股票數量最多的新股。這意味著，長鑫科技的中籤率預計較高。 業績方面，長鑫科技表現亮眼，公司預計上半年營收1100億元至1200億元之間，同比增長612.53%至677.31%之間；淨利潤660億元至750億元之間，同比增長1714.67%至1934.85%之間；歸母淨利潤500億元至570億元之間，同比增長2244.03%至2544.19%之間。（央視財經）"
-    },
-    {
-      "id": "4982868",
-      "time": "2026-07-12 18:46:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【88家次滬市公司獲2025年度國家科學技術獎】近日，2025年度國家科學技術獎揭曉，共評選出258個專案和11名科技專家。據不完全統計，88家次滬市上市公司（含控股子公司及參股公司）牽頭或參與完成的科技創新成果獲得2025年度國家科技獎，較2023年度的66家次明顯增長。據悉，上述獲獎專案多為國家科學技術進步獎和國家技術發明獎，涉及高階裝備、新材料、新能源、現代交通、電力裝備、海洋工程、資訊通訊等多個領域。"
     }
   ]
 }
