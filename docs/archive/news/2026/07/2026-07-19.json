@@ -1,7 +1,47 @@
 {
   "date": "2026-07-19",
-  "count": 289,
+  "count": 293,
   "items": [
+    {
+      "id": "mkt:019f7841-f044-7aab-8df4-8060e7c1d510",
+      "time": "2026-07-19 10:43:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【U.S. State Department advises U.S. citizens worldwide to increase vigilance】The U.S. State Department on the 18th issued a global security alert advising U.S. citizens worldwide to increase vigilance amid heightened Middle East tensions and the risk of unexpected escalation. It urged those overseas—especially in the Middle East—to monitor local news and follow guidance from the nearest U.S. embassy or consulate. The alert warned flight cancellations and temporary airspace closures may disrupt travel, that U.S. diplomatic facilities outside the Middle East have been targeted, and that Iran-aligned groups could attack U.S. interests, facilities or citizens globally."
+    },
+    {
+      "id": "mkt:019f7841-733a-7aab-8df4-7c6183450c87",
+      "time": "2026-07-19 10:43:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EMSC reported a magnitude-5.6 earthquake struck central Peru."
+    },
+    {
+      "id": "mkt:019f7841-449c-7aab-8df4-770c164fd8ab",
+      "time": "2026-07-19 10:42:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS, citing local officials, said the U.S. military targeted a site near Shadgan in Iran's southwestern Khuzestan province."
+    },
+    {
+      "id": "4995805",
+      "time": "2026-07-19 10:42:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【螞蟻韓歆毅：沒有企業專屬資料，就沒有企業專屬智慧】7月19日，2026世界人工智慧大會期間，螞蟻集團執行長韓歆毅圍繞企業AI如何從第一輪部署走向深度價值落地，分享了三點思考：企業AI的智慧不止於知識累積，更在於經驗沉澱；企業AI的更高價值，不止於個體提效，更在於組織進化；實現深度落地的路徑，是打造“組織智慧”。他表示，企業AI落地不能停留在工具提效層面，而要紮根產業場景，務實追求價值落地。"
+    },
     {
       "id": "4995804",
       "time": "2026-07-19 10:39:36",
