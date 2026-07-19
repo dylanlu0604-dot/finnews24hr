@@ -1,7 +1,43 @@
 {
   "date": "2026-07-20",
-  "count": 212,
+  "count": 216,
   "items": [
+    {
+      "id": "4996346",
+      "time": "2026-07-20 06:59:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部表示，已有30多個國家確認將出席俄羅斯—非洲峰會。"
+    },
+    {
+      "id": "4996345",
+      "time": "2026-07-20 06:58:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星生物將以2.7萬億韓元收購多肽集團（Polypeptide Group AG）。"
+    },
+    {
+      "id": "4996344",
+      "time": "2026-07-20 06:57:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【經濟日報金觀平：著力破解人才用工適配難】文章指出，細看當下就業市場，一面是高校畢業生規模持續增長，一面是不少企業求賢若渴卻招不到適配人才，“有人沒活幹”“有活沒人幹”同時存在。這種人才供需雙向承壓的“兩頭難”現象表明，人才供需銜接的“最後一公里”仍存梗阻。因此，要進一步完善人才培養與經濟社會發展需求適配機制，提升人才培養質效。當前，人工智慧加速重塑勞動力市場。新技術催生新崗位，各類傳統工種不斷迭代，單一技能勞動力需求下降，兼具實操、創新能力的複合型人才缺口擴大。完善供需匹配機制，助力勞動者快速適應崗位、平穩應對職業迭代與轉換，是化解就業結構性矛盾、適配產業發展的應有之義。"
+    },
+    {
+      "id": "te:economy:567994",
+      "time": "2026-07-20 06:56:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "New Zealand Trade Surplus Below Estimates — New Zealand's trade surplus declined to NZD 0.02 billion in June 2026, down from NZD 0.2 billion in the same month a year earlier and below estimates of NZD 0.25 billion, as exports grew less than imports. Exports rose 25% year-on-year to NZD 8.1 billion, while imports jumped 28% year-on-year to NZD 8.1 billion."
+    },
     {
       "id": "4996343",
       "time": "2026-07-20 06:47:54",
