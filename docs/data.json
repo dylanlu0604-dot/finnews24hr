@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-20 01:00:32",
+  "updated": "2026-07-20 01:06:54",
   "count": 19003,
   "items": [
+    {
+      "id": "mkt:019f7b57-c39c-7aab-8df9-fb82306b733b",
+      "time": "2026-07-20 01:06:16",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Saudi outlet Alhadath, citing sources, reports a high-level Iranian delegation is due in Islamabad tomorrow for a two-day visit."
+    },
+    {
+      "id": "4996229",
+      "time": "2026-07-20 01:04:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達提出一項為期10天的停火方案：美國停止對伊朗實施打擊，伊朗則開放霍爾木茲海峽兩條航運通道；西方官員質疑美國不會接受該條款。"
+    },
+    {
+      "id": "4996228",
+      "time": "2026-07-20 01:03:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克媒體：伊拉克總理將於本週末訪問德黑蘭。"
+    },
+    {
+      "id": "mkt:019f7b55-78b7-7aab-8df9-f143dcf4648c",
+      "time": "2026-07-20 01:03:46",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iraq's state news agency reported that the Iraqi prime minister will visit Tehran this weekend."
+    },
+    {
+      "id": "mkt:019f7b54-f366-7aab-8df9-ee74ac911022",
+      "time": "2026-07-20 01:03:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Al Arabiya, citing sources, reports Iran's interior minister will meet Pakistan's leadership in Islamabad tomorrow."
+    },
     {
       "id": "mkt:019f7b50-1e0f-7aab-8df9-e2c882de0507",
       "time": "2026-07-20 00:57:55",
@@ -175286,46 +175328,6 @@
         "國際"
       ],
       "text": "【科威特美軍基地遭襲倖存者控訴軍方決策失職】六名在科威特遭遇伊朗無人機襲擊後倖存的美軍士兵表示，軍方高層無視多次預警，該基地防禦薄弱，極易成為襲擊目標。他們指控高階指揮官將部隊部署至缺乏完善反無人機防禦設施的危險區域；襲擊發生後，指揮官非但未組織救援，反而撤離建築；事後傷員轉運救治工作也處置失當。此次襲擊造成六名美軍士兵遇難，三十餘人受傷。一份內部調查報告未認定相關人員責任，也未提出任何懲處建議，令多名倖存士兵倍感失望，擔憂同類失誤或將重演。"
-    },
-    {
-      "id": "4983027",
-      "time": "2026-07-13 01:05:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "Claude：將把Claude Fable 5在所有付費套餐中的開放使用期限延長至7月19日，同時繼續將Claude Code 的每週使用額度提高50%，這一政策也將持續至7月19日。"
-    },
-    {
-      "id": "4983026",
-      "time": "2026-07-13 01:05:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國秘書長古特雷斯敦促美國與伊朗停止海灣地區再度升級的軍事行動，並警告稱，一旦爆發全面衝突，將給該地區、全球安全與經濟帶來“災難性後果”。"
-    },
-    {
-      "id": "4983025",
-      "time": "2026-07-13 01:04:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：07月13日01時03分在四川阿壩州小金縣附近（北緯31.50度，東經102.42度）發生3.8級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "mkt:019f5749-43bb-7aab-8d46-4e2f10264449",
-      "time": "2026-07-13 01:04:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Claude will extend open access for Claude Fable 5 across all paid plans until July 19 and maintain a 50% increase to Claude Code's weekly usage quota through the same date."
-    },
-    {
-      "id": "4983024",
-      "time": "2026-07-13 01:00:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍再次對伊朗實施打擊】當地時間7月12日，美軍於約一個小時前“對（伊朗）導彈及防空系統實施了數次打擊”，美軍還在霍爾木茲海峽周邊的數個地點“針對伊朗伊斯蘭革命衛隊的小型船隻採取了行動”。伊朗方面12日稍早時表示，自當天下午以來，格什姆島遭到敵方多枚發射物襲擊。據瞭解，所有遭襲物件均為軍事目標，襲擊未造成人員傷亡。當天，伊朗阿巴斯港東部方向及格什姆島海域傳出多次爆炸聲。（央視新聞）"
     }
   ]
 }
