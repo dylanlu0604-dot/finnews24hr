@@ -1,7 +1,27 @@
 {
   "date": "2026-07-19",
-  "count": 351,
+  "count": 353,
   "items": [
+    {
+      "id": "mkt:019f78b4-067b-7aab-8df5-0b604b21dae6",
+      "time": "2026-07-19 12:48:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russian missile strike on Kyiv kills at least one and injures 13; multiple residential buildings damaged."
+    },
+    {
+      "id": "4995848",
+      "time": "2026-07-19 12:47:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯對基輔發動導彈襲擊，造成至少 1 人死亡、13 人受傷，多處住宅損毀。"
+    },
     {
       "id": "4995847",
       "time": "2026-07-19 12:44:08",
