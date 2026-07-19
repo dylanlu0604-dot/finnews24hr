@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-20 07:44:21",
+  "updated": "2026-07-20 07:48:14",
   "count": 19026,
   "items": [
+    {
+      "id": "4996405",
+      "time": "2026-07-20 07:47:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國大使館：伊朗可能尋求襲擊麥納麥的某些地點。"
+    },
+    {
+      "id": "mkt:019f7cc6-875f-7aab-8dfc-12a5a2df25c8",
+      "time": "2026-07-20 07:46:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iranian media reported explosions were heard in Tabriz, Chabahar, Konarak, the port of Mahshahr and Imam Khomeini Port."
+    },
+    {
+      "id": "4996404",
+      "time": "2026-07-20 07:45:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方邁赫爾通訊社表示，伊朗東南部恰巴哈爾地區聽到數次爆炸聲。"
+    },
+    {
+      "id": "4996403",
+      "time": "2026-07-20 07:45:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守3990美元/盎司，日內跌0.67%。"
+    },
+    {
+      "id": "4996402",
+      "time": "2026-07-20 07:45:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "本週公開市場7天期逆回購到期量19635億元。"
+    },
+    {
+      "id": "4996401",
+      "time": "2026-07-20 07:45:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【券商打造T0交易新抓手 商業模式仍有待進一步探索】儘管券商佈局T0交易的熱情不斷走高，但該業務推出時間尚短，商業模式仍有待進一步探索。證券時報記者在採訪中瞭解到，不少券商正在努力構建T0交易生態圈，推動T0交易與其他智慧工具形成互補，滿足投資者更多需求。值得一提的是，T0交易面臨的一個顯性問題是演算法同質化，因此要做好差異化競爭，券商還需搭建起足夠的軟硬實力支撐。"
+    },
     {
       "id": "4996400",
       "time": "2026-07-20 07:43:01",
@@ -175498,57 +175551,6 @@
         "Importance 0"
       ],
       "text": "Brent Jumps on Fresh US-Iran Strikes — Brent climbed more than 3% to above $78 per barrel on Monday, snapping a two-day losing streak after the US and Iran exchanged fresh missile strikes over the weekend amid ongoing tensions over shipping through the Strait of Hormuz. The US carried out its fourth strike in a week against Iran on Sunday in retaliation for an Iranian attack on a Cyprus-flagged container ship. Tehran declared that the Strait of Hormuz would be closed \"until further notice,\" although the claim was rejected by the US Central Command. Oil prices have rebounded since last week as the renewed hostilities reversed part of the losses triggered by the interim US-Iran peace agreement, which had fueled expectations of increased Middle East energy supplies. The latest escalation has weakened hopes for renewed diplomacy, with Tehran insisting that Washington must first fulfill its previous commitments on Hormuz transit and the normalization of Iranian oil exports before negotiations can resume."
-    },
-    {
-      "id": "4983202",
-      "time": "2026-07-13 07:47:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黑龍江省螞蟻河發生2026年第1號洪水】據水利部訊息，受降雨影響，黑龍江省松花江支流螞蟻河延壽水文站（黑龍江哈爾濱）7月13日2時36分水位漲至警戒水位（149.82米），依據主要江河洪水編號規定，此次洪水編號為“螞蟻河2026年第1號洪水”。水利部緊盯汛情發展態勢，加強雨水情監測預報預警，提前啟動針對黑龍江省的洪水防禦Ⅳ級應急響應，督促指導地方落實落細螞蟻河洪水防禦各項措施，全力確保人民群眾生命財產安全。目前，水利部工作組正在黑龍江省洪水防禦一線協助指導。"
-    },
-    {
-      "id": "4983201",
-      "time": "2026-07-13 07:47:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "本週央行公開市場7天期逆回購到期量僅620億元，不足上週的十分之一。"
-    },
-    {
-      "id": "4983200",
-      "time": "2026-07-13 07:46:31",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤上漲0.14點。"
-    },
-    {
-      "id": "4983199",
-      "time": "2026-07-13 07:46:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌0.13%。"
-    },
-    {
-      "id": "4983198",
-      "time": "2026-07-13 07:45:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【專家對中國今年第二季度GDP同比增速的預測均值為4.5%】國家統計局將於7月15日釋出二季度及上半年GDP增速、工業、消費、投資等主要經濟指標資料。參與第一財經首席調研的經濟學家對2026年第二季度GDP同比增速的預測均值為4.5%。他們認為，我國經濟“K型分化”格局進一步凸顯，正處於新舊動能轉換時期，宏觀政策有望在下半年加力穩增長。但新動能釋放尚不足以彌補舊動能消退，不改我國經濟仍處於新舊動能轉換陣痛期的基本格局。應提前做好政策儲備，強化形勢監測與風險預警，擬定應對預案，以政策前瞻性對沖內外部環境的不確定性。（一財）"
-    },
-    {
-      "id": "4983197",
-      "time": "2026-07-13 07:44:57",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：AI算力景氣持續，模型迭代驅動推理需求擴張】中信建投研報稱，A股計算機中報預告與海外模型迭代共同驗證AI產業鏈景氣度延續：一方面，AI伺服器、智算基礎設施等硬體鏈條業績彈性突出，軟體及AI應用企業也開始體現經營修復和收入落地；另一方面，OpenAI、xAI、Meta等海外模型持續強化Agent、Coding、多模態和辦公入口，模型競爭從能力驗證轉向高頻場景落地，推理側算力消耗、基礎設施投入和AI應用商業化有望繼續共振。"
     }
   ]
 }
