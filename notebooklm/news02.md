@@ -1,7 +1,127 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-20 04:25:13_
-_本檔包含 3858 則快訊，約 719837 字_
+_更新時間：2026-07-20 05:31:57_
+_本檔包含 3845 則快訊，約 719727 字_
+
+---
+
+### 2026-07-17 14:43:54  #MKT News #Market Regions #Greater China #SSE Composite #Impact mixed #SZSE Component #CSI300
+
+【Shanghai Composite dips below 3,800 intraday; A‑shares hit by volatile selloff】On July 17 afternoon the Shanghai Composite Index briefly fell below 3,800; the ChiNext Index and Shenzhen Composite Index were down over 8% at the session low before staging a rebound, with ChiNext’s decline narrowing to about 4%. Market participants described the move as a high‑volatility episode within a slow bull rather than a structural trend reversal. Factors cited as providing support include the Shanghai Composite trading near its annual moving average, a partial reduction in margin‑finance leverage, and continued inflows into growth ETFs tracking STAR 50, ChiNext and CSI 1000.
+
+---
+
+### 2026-07-17 14:43:52  #市場
+
+【業內人士：當前A股市場調整更多是慢牛中的高波動，市場當前位置具備較強支撐】7月17日午後，上證指數盤中失守3800點，創業板、深證成指一度跌超8%。隨後，三大指數觸底回升，創業板指跌幅迅速收窄至4%左右。業內人士分析，當前調整更多是慢牛過程中的一次高波動，而不是趨勢性拐點。尤其在上證指數回到年線附近、兩融槓桿已有一定去化、科創50、創業板指、中證1000等成長類ETF仍有資金流入的背景下，市場當前位置具備較強支撐。（新京報）
+
+---
+
+### 2026-07-17 14:43:47  #公司 #市場
+
+【東方財富證券陳果：市場正迎來今年的黃金買點】7月17日，東方財富證券研究所副所長、首席策略官陳果點評今日市場行情稱：“我們對A股今年走勢一直是N型判斷。我們認為正在迎來今年的黃金買點，市場主要指數有望在下半年創出新高。”理由包括五方面：第一，今年下半年GDP增速預計將改善；第二，二季度A股市場微觀資金面是資金底，下半年預計將改善；第三，情緒指標顯示，最近A股市場情緒指標已接近低位水平；第四，下半年大批非科技行業優質資產處於盈利復甦初期，目前仍處估值低位；第五，下半年多家中國真科技優質公司登陸A股，有望吸引增量資金流入A股，有望提升市場活躍度和風險偏好。“預計中國股市很快將穩住陣腳，震盪上行，繼續看好非銀金融、新老能源、網際網路、醫藥、消費和國產AI鏈真科技龍頭。買在情緒悲觀時，讓我們在新高再相聚。”陳果表示。
+
+---
+
+### 2026-07-17 14:43:41  #Trading Economics #Economy #Romania #Industrial Production #Importance 1
+
+Romanian Industrial Output Drops by Most in Over a Year — Industrial production in Romania declined 5.3% year-on-year in May 2026, following a revised 3.0% drop in April and marking the sharpest fall since March 2025. The decline in manufacturing output deepened (-5.5% vs -4.3% in April), amid steeper declines across most subsectors, notably the manufacture of motor vehicles, trailers and semi-trailers (-15.3% vs -14.5%), fabricated metal products, except machinery and equipment (-4.3% vs 1.0%), rubber and plastic products (-4.5% vs 1.0%), chemicals and chemical products (-1.6% vs 0.1%), and furniture (-23.0% vs -16.9%). Output in mining and quarrying also contracted further (-4.8% vs -1.0%), while electricity, gas, steam and air conditioning supply fell 3.1%, reversing a 3.8% rise in the previous month. On a monthly basis, industrial output decreased 2.8%, after a revised 1.6% increase in April.
+
+---
+
+### 2026-07-17 14:43:40  #MKT News
+
+Zelenskiy said a Russian overnight missile strike on a residential building in Odesa killed two and wounded five, including three children.
+
+---
+
+### 2026-07-17 14:43:09  #其他
+
+【圖靈獎得主稱讚中國倡導AI向善】圖靈獎得主、中國科學院外籍院士約瑟夫·希發基思接受總檯專訪時表示，中國的產業根基雄厚，數字基礎設施規模龐大、型別豐富，他十分認同中國倡導人工智慧向善、推進協同發展人工智慧的理念。“這項主張意義重大，國際社會需要多方達成共識，共同轉向全新的人工智慧發展道路。”（央視新聞）
+
+---
+
+### 2026-07-17 14:42:47  #MKT News #Market Themes #AI Revolution #Nikkei 225 #Impact bearish
+
+【Japan, South Korea volatility rises as retail margin buying surges; Morgan Asset Management flags AI valuation risk】Volatility in Japan and South Korea has risen recently as retail investors increasingly buy stocks on margin, Morgan Asset Management’s Japan equity portfolio manager Michiko Sakai said. She warned that while severely underweighting AI is risky, aggressively expanding AI exposure also carries risk. The AI rally has broadened beyond a few "AI concept" names into infrastructure, storage chips and components, offering more avenues for positioning. Sakai said markets are becoming more sensitive to valuation levels and the durability of corporate profits and asked: "Should AI company valuations be anchored to near-term earnings or to long-term growth expectations?"
+
+---
+
+### 2026-07-17 14:42:38  #公司
+
+【蘑菇物聯與三菱旗下RYODEN達成戰略合作】近日，蘑菇物聯與全球工業自動化巨頭三菱電機集團旗下核心上市公司——株式會社RYODEN、菱商電子（上海）有限公司達成戰略合作。本次合作將圍繞能效領域的物理AI控制展開技術合作與市場拓展。
+
+---
+
+### 2026-07-17 14:42:00  #MKT News
+
+【CITIGROUP: New Zealand Q2 CPI likely strongest quarterly rise in nearly four years】CITIGROUP’s Australia and New Zealand chief economist Josh Williamson expects New Zealand Q2 CPI to record its strongest quarterly rise in nearly four years, led by a sharp jump in fuel prices. The surge in tradeable-goods inflation was largely in line with RBNZ expectations and masked a milder 0.4% increase in non-tradeable inflation. The RBNZ has begun tightening; some economists say the central bank may need around three further rate hikes to return the official cash rate to neutral.
+
+---
+
+### 2026-07-17 14:41:02  #MKT News #Market Themes #AI Revolution #WRD.O
+
+【CHINA'S WERIDE (WRD.O) launches physical-AI foundation model WITT】CHINA'S WERIDE said it has launched WeRide WITT, a self-developed physical-AI cognitive foundation model. Built on visual-language model capabilities, WITT introduces the "minimum physical fact unit" concept to integrate video, image and text multimodal data, decomposing continuous real-world scenes into identifiable, verifiable fact units and forming a new AI understanding framework centered on physical facts.
+
+---
+
+### 2026-07-17 14:40:22  #公司
+
+沃爾沃汽車首席商務官表示：關於EX60，我們仍堅持今年產量達4萬輛的目標，但目前銷售節奏遠快於生產節奏。
+
+---
+
+### 2026-07-17 14:40:18  #公司
+
+【影石回應重大假冒品牌記憶體卡產銷案】7月17日，影石法務部發文：近期，我司聯合公安機關成功破獲一起重大假冒品牌記憶體卡產銷案件，現場查獲大量假冒產品及製假裝置，多名涉案人員落網，核心嫌疑人已被依法採取刑事強制措施。該案有力打擊產業鏈侵權造假行為，切實維護公司品牌權益、智慧財產權以及正常市場經營秩序。
+
+---
+
+### 2026-07-17 14:40:16  #MKT News #DXY #Impact bearish
+
+【CITIGROUP: Australia to add 20,000 jobs in June; unemployment may fall to 4.3%】CITIGROUP's Australia and New Zealand chief economist Josh Williamson expects Australia to add about 20,000 jobs in June, reflecting a seasonal slowdown after strong May payrolls. With the participation rate seen roughly steady, the unemployment rate should tick down to around 4.3%. Williamson said CITIGROUP's employment forecast is skewed to the downside due to weak productivity, a low potential growth backdrop and elevated inflation.
+
+---
+
+### 2026-07-17 14:40:06  #MKT News #Important #Commodities #Industrial Metals
+
+Polysilicon most-active futures fell more than 3%, now at 34,000 yuan/ton.
+
+---
+
+### 2026-07-17 14:39:48  #公司
+
+【華銀基金：洪娟出任副總經理】7月17日華銀基金公告稱，洪娟出任副總經理。該事項經華銀基金董事會會議審議透過，並按相關規定報監管機構備案。公告顯示，洪娟2007年6月參加工作，歷任中加基金戰略客戶部總監、深圳分公司總經理、機構銷售部負責人等職務，2025年9月加入華銀基金。
+
+---
+
+### 2026-07-17 14:38:36  #公司 #國際
+
+沃爾沃汽車執行長談及新車型時表示：旅行車是頗具吸引力的機遇，但今年秋季大機率不會推出旅行車車型，因為我們有其他新品計劃，而且我們需要滿足歐洲的排放要求。
+
+---
+
+### 2026-07-17 14:38:29  #其他
+
+伯恩斯坦：臺積電上調2026年資本支出合理，AI需求支撐增長。
+
+---
+
+### 2026-07-17 14:38:11  #MKT News #Market Themes #AI Revolution #TSM.O #Impact bullish
+
+【Bernstein: TSMC raises 2026 capex; AI demand supports growth】Bernstein says TSMC (TSM.N) has reasonably increased its 2026 capex plan on the back of a solid demand base. Management reiterated on its recent earnings call it will not impose sudden large price hikes; with limited near-term price upside and shipments constrained by capacity, TSMC’s upward revenue revision suggests prior forecasts may have been too conservative. Bernstein states that, despite market volatility, sustainability of AI demand has improved over the past three months and that the recent market pullback should be viewed as an opportunity to add AI-related stocks.
+
+---
+
+### 2026-07-17 14:38:06  #公司 #觀點 #國際
+
+【高盛：小鵬Mona L03上市後訂單強勁，維持“買入”評級】高盛發表報告指，小鵬集團於7月16日在德國慕尼黑正式釋出全新SUV車型Mona L03，官方起售價為12.38萬元，低於預售起售價的14.38萬元。該車型在全球上市後首7分鐘及首一小時內，分別錄得2萬張及4.7萬張不可退還的訂單。高盛預計Mona L03將能實現每月1.4萬輛的穩定銷量，並在今年第三及第四季度分別貢獻小鵬汽車總銷量的22%及23%，進一步推動第三及第四季銷量同比增長28%及59%。小鵬同時強調其全球化戰略，包括所有未來車型都將在海外上市，目標在2026年進入65個全球市場；並計劃於2027年在歐洲推出VLA2.0車型、交付人形機器人；以及未來在歐洲推出飛行汽車。高盛預期，一系列新車型的陸續推出及海外擴張，將提高小鵬汽車銷量持續增長和利潤率改善的能見度，維持“買入”評級，H股目標價為89港元，ADR目標價為23美元。
+
+---
+
+### 2026-07-17 14:38:00  #MKT News #Market Regions #Europe & UK
+
+UK Maritime Trade Operations says crew are safe and there are no reported environmental impacts.
 
 ---
 
@@ -23039,203 +23159,5 @@ Hong Kong-listed auto shares strengthened: XPeng Inc. (09868.HK) rose nearly 6%,
 ### 2026-07-16 09:50:43  #MKT News #Important #Commodities #Energy
 
 【China refined fuel prices likely to rise for ninth time this year, industry source says】China's refined fuel prices are expected to be adjusted higher when the pricing window opens at 24:00 on July 17, industry firm Longzhong Information said. Longzhong estimates an increase of about 250 yuan/ton, roughly 0.18 yuan/liter; a 70‑liter fill would cost about 13 yuan more. Final adjustment will be confirmed by official authorities.
-
----
-
-### 2026-07-16 09:49:44  #MKT News #Market Regions #Japan & APAC
-
-Japan's finance minister Katayama said she will not comment on specific exchange-rate levels.
-
----
-
-### 2026-07-16 09:49:44  #MKT News
-
-Japan's finance minister Katayama said interest rates and FX are influenced by multiple factors.
-
----
-
-### 2026-07-16 09:49:37  #國際
-
-日本財務大臣片山：不對具體匯率水平置評。
-
----
-
-### 2026-07-16 09:49:32  #其他
-
-片山皋月：利率和外匯匯率受多種因素影響。
-
----
-
-### 2026-07-16 09:49:01  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish #000300.SS
-
-China A-share coal-chemical sector extended losses; Jiangsu Sopo fell more than 6%, while Jinmei Technology, Chengzhi Co., Huayi Group and Huachang Chemical also slid.
-
----
-
-### 2026-07-16 09:48:44  #MKT News #Important #CSI300 #Impact bullish
-
-China A-share PCB sector rebounded. Xianfeng Holdings posted a third consecutive daily limit-up; Yihao New Materials rose over 10%. Jingwang Electronics, Nanya New Materials, Guanghe Technology and Pengding Holdings also advanced.
-
----
-
-### 2026-07-16 09:48:22  #公司
-
-【煤化工板塊持續走低】煤化工板塊持續走低，江蘇索普跌超6%，金煤科技、誠志股份、華誼集團、華昌化工等跟跌。
-
----
-
-### 2026-07-16 09:47:52  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
-
-China Mobile Stock Price Hits 4-week High — China Mobile shares increased to 79.80 HKD, the highest since June 2026. Over the past 4 weeks, China Mobile lost 1.42%, and in the last 12 months, it decreased 8.82%.
-
----
-
-### 2026-07-16 09:46:01  #其他
-
-【港股儲存概念股延續弱勢 瀾起科技跌超12%】截至發稿，瀾起科技(06809.HK)跌12.28%，兆易創新(06809.HK)跌7.61%。
-
----
-
-### 2026-07-16 09:46:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #7011.T
-
-Mitsubishi Heavy Industries has joined NVIDIA's partner network as a power and cooling partner to advance integrated power and cooling solutions for NVIDIA DSX.
-
----
-
-### 2026-07-16 09:45:59  #MKT News #00100.HK
-
-【MiniMax Code to roll out remote-control and browser-automation features】MiniMax (00100.HK) has released the MiniMax Code 2.0 desktop client for download, saying it improves waiting, task interruption and context handovers in long-running jobs. The company said it will deploy remote control, browser automation, target mode and plan mode this month to expand support for complex tasks and cross‑environment collaboration.
-
----
-
-### 2026-07-16 09:45:35  #其他
-
-三菱重工：加入 英偉達合作伙伴網路，成為電源與散熱合作伙伴，共同推進 英偉達 DSX 的整合電源與散熱技術。
-
----
-
-### 2026-07-16 09:45:10  #公司 #國際
-
-【匈牙利前外交部長加入比亞迪】當地時間7月15日，匈牙利前外交部長西雅爾多（Peter Szijjarto）宣佈辭去議員職務，加入中國電動汽車巨頭比亞迪。 西雅爾多自2002年起擔任匈牙利國民議會議員，並於2014年起擔任匈牙利外長，直至今年5月。7月15日，他在臉書上宣佈將離開議會，因為他收到了一份來自“全球領先企業之一”比亞迪的“極具聲望的邀請，擔任一個國際職位”。 現年47歲的西雅爾多寫道，“比亞迪是過去20年來汽車行業最成功的企業之一，也是全球領先的新能源汽車製造商。從今天起，我將擔任負責集團對外關係及新業務線拓展的高管”。 據悉，比亞迪於2024年在匈牙利南部城市塞格德動工建設其首個歐洲電動汽車生產廠，並於去年宣佈將把其區域企業及研發中心從荷蘭遷至布達佩斯。（中國僑網）
-
----
-
-### 2026-07-16 09:45:02  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share printed circuit board (PCB) sector jumped; Xianfeng Holdings hit the daily trading limit and Yihao New Materials rose over 16%. Zecheng Electronics, Jingwang Electronics, Chongda Technology, Shengyi Electronics and Nanya New Materials also advanced.
-
----
-
-### 2026-07-16 09:44:53  #MKT News #00325.HK #Impact bullish #09992.HK #09896.HK
-
-Hong Kong new-consumption names rallied: Buluoke (00325.HK) rose over 7%, Pop Mart (09992.HK) climbed more than 4%, Miniso (09896.HK) and Guming (01364.HK) also advanced.
-
----
-
-### 2026-07-16 09:44:27  #市場
-
-【機構預測國內成品油價格將迎年內第九漲】7月17日24時，成品油調價視窗將再度開啟。記者今日從行業機構隆眾資訊獲悉，預計成品油上調幅度在250元/噸左右，摺合升價大約0.18元左右，屆時將迎年內第九次上漲。據測算，以70升的油箱來計算，私家車主加滿一箱油將多花13元左右。但最終調價幅度還需以官方公佈為準。（第一財經）
-
----
-
-### 2026-07-16 09:43:56  #市場 #國際
-
-10年期日本國債收益率上升1.5個基點至2.700%。
-
----
-
-### 2026-07-16 09:43:39  #其他
-
-【MiniMax Code將上線遠端控制、瀏覽器操控等功能】7月16日，MiniMax宣佈更新MiniMax Code 2.0桌面端。MiniMax Code 2.0桌面端現已開放下載，重點改善長任務執行過程中的等待、中斷與上下文銜接問題。此外，MiniMax Code將在本月上線遠端控制、瀏覽器操控，目標模式、計劃模式等功能，進一步擴充套件處理複雜任務和跨環境協作的能力。
-
----
-
-### 2026-07-16 09:43:10  #其他
-
-澳大利亞政府宣佈自由鍾灣冶煉廠將關閉。
-
----
-
-### 2026-07-16 09:42:50  #市場
-
-【印製電路板板塊拉昇，賢豐控股漲停】印製電路板板塊拉昇，賢豐控股漲停，逸豪新材漲超16%，則成電子、景旺電子、崇達技術、生益電子、南亞新材等跟漲。
-
----
-
-### 2026-07-16 09:42:42  #MKT News #Market Regions #Greater China #300498.SZ #Impact bullish
-
-China A-share pork sector posted an intraday spike; Dayu Biological rose over 7%, with Tiankang Bio, Tianbang Food, Jin Xin Nong and Wens Food also advancing.
-
----
-
-### 2026-07-16 09:42:41  #市場 #焦點
-
-滬深兩市成交額超5000億元，較上日此時縮量929億元。
-
----
-
-### 2026-07-16 09:42:41  #MKT News
-
-【Shanghai issues orange high-temperature warning; central districts to exceed 37°C】Shanghai Meteorological Observatory at 07:25 on July 16 issued an orange high-temperature warning for central districts, forecasting most of the central urban area to exceed 37°C today. Xujiahui recorded 38.9°C yesterday, the hottest day since the start of summer. As of yesterday Shanghai has logged five high-temperature days. The bureau warned of adverse effects on city operations and public health and urged caution on fire and electrical safety.
-
----
-
-### 2026-07-16 09:41:53  #MKT News #Market Regions #Greater China
-
-【China's first full-chain green low-carbon ethylene project enters production】PetroChina's Dushanzi Petrochemical Tarim unit completed initial feed and start-up of its phase‑II 1.2 mln t/yr ethylene plant and accompanying green low‑carbon demonstration facilities and has begun commercial operations. The project—China's refining-and-chemicals industry's first full‑chain green low‑carbon ethylene scheme and the world's first ethylene‑cracking carbon‑emissions recycling demonstration base—establishes central/west China's first ~3 mln t ethylene industrial hub, shifting some domestic ethylene capacity away from the eastern concentration and enhancing national energy‑chemical supply‑chain resilience.
-
----
-
-### 2026-07-16 09:41:45  #其他
-
-【我國首個全鏈條綠色低碳乙烯工程投產】今日，中國石油獨山子石化塔里木120萬噸/年二期乙烯及配套綠色低碳示範工程一次投料開車成功，全面進入生產執行階段。該工程是我國煉化行業首個全鏈條踐行綠色低碳發展理念的開創性工程，建成了全球首個乙烯裂解碳排放迴圈利用示範基地；該工程的投產標誌著我國中西部首個300萬噸級的乙烯產業基地建成，將改變國內乙烯產能長期高度集中於東部、西部原料供給薄弱的產業格局，提升全國能源化工產業鏈供應鏈韌性。（國資小新）
-
----
-
-### 2026-07-16 09:41:26  #市場 #焦點
-
-【A股三大指數均跌超1%】上證指數跌1.09%，現報3912.318點；深證成指跌1.54%，現報14552.129點；創業板指跌1.95%，現報3730.489點。
-
----
-
-### 2026-07-16 09:41:20  #市場 #國際
-
-5年期日本國債收益率上漲1.0個基點至1.945%。
-
----
-
-### 2026-07-16 09:40:21  #市場
-
-阿里巴巴港股上漲逾5%，股價升至逾一個月盤中高位。此前報道，阿里千問將作為AI能力整合至蘋果智慧終端。
-
----
-
-### 2026-07-16 09:40:10  #其他
-
-【多家NFC果汁是水和濃縮原漿勾兌，廠家稱低價不可能鮮果現榨】近年來，NFC果汁廣受消費者歡迎。不少打著“鮮榨”“100%果汁”和“NFC果汁”旗號的菠蘿汁、西瓜汁、山竹汁，在電商平臺單品銷量動輒高達幾十萬件，但價格卻低到讓人難以置信。記者實地暗訪河南多家代工廠發現，車間根本沒有水果和鮮榨裝置，所謂“鮮果冷榨果汁”，全靠水、濃縮原漿勾兌而成。廠家坦言，“低價不可能鮮果現榨”，他們往往靠調換包裝上的“100%”“NFC”等標註順序打擦邊球。目前多家涉事企業已停產整改。不過，記者發現線上仍有相關產品售賣，且部分瓶身外包裝標識未作更改。（齊魯電視臺）
-
----
-
-### 2026-07-16 09:39:54  #公司 #國際 #原創
-
-【英偉達與豐田深化AI領域合作 拓展至智慧城市和智慧工廠】英偉達將向豐田汽車供應人工智慧(AI)硬體和軟體，用於支援智慧城市建設、交通智慧系統和汽車製造廠運營，進一步深化雙方始於自動駕駛汽車研發的十年合作關係。英偉達週四在一份宣告中稱，兩家公司將深化合作，致力於使AI在現實世界落地。雙方此前還曾與總部位於美國的Ready Robotics合作開發軟體，以幫助提高工廠車間的安全性和生產效率。“我們正在擴大合作，推動實體AI發展從汽車領域延伸至機器人和智慧城市，”英偉達機器人與邊緣AI副總裁Deepu Talla表示。英偉達CEO黃仁勳本週率團訪問日本，拓展業務並激發市場對其新技術潛力的熱情。
-
----
-
-### 2026-07-16 09:39:45  #MKT News #CSI300 #Impact bearish
-
-A-share lithium battery sector slipped intraday; Penghui Energy fell over 10%, with Weilan Lixin, Defu Technology, Tongguan Copper Foil and Nord Co. also declining.
-
----
-
-### 2026-07-16 09:39:34  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
-
-China A-share chemical and pharmaceutical sector rallied; Harbin Pharmaceutical hit a fifth consecutive daily limit-up, Yongan Pharmaceutical a second, Borui Pharmaceutical and Haichuang Pharmaceutical gained more than 10%. Ha Sanlian, Hainan Haiyao, Xin Ganjiang, Jinyao Pharmaceutical and Meinova also advanced.
-
----
-
-### 2026-07-16 09:39:30  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
-
-South Korean Shares Tumble on Tech Selloff — The benchmark KOSPI plunged nearly 7% to around 6,780 on Thursday, erasing gains from the previous session and approaching an over two-month low, as a global semiconductor selloff pressured technology shares. The decline followed overnight losses in US chipmakers, which reignited concerns over AI valuations and dragged South Korea's semiconductor heavyweights lower, with SK Hynix (-11.4%) and Samsung Electronics (-8.6%) tumbling sharply. Other notable losses included SK Square (-12.5%), Samsung Electro-Mechanics (-9.1%), Hyundai Motor (-3.5%), and Doosan Enerbility (-3.8%). Investor sentiment was also dampened by renewed Middle East tensions after fresh US strikes on Iran fueled concerns over energy supplies and reduced risk appetite. At the same time, investors assessed the Bank of Korea's widely expected 25-basis-point interest rate hike to 2.75%, marking the start of a new tightening cycle aimed at curbing inflation and supporting the won.
 
 ---

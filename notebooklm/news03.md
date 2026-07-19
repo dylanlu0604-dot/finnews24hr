@@ -1,7 +1,205 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-20 04:25:13_
-_本檔包含 3820 則快訊，約 718655 字_
+_更新時間：2026-07-20 05:31:57_
+_本檔包含 3822 則快訊，約 719939 字_
+
+---
+
+### 2026-07-16 09:49:44  #MKT News #Market Regions #Japan & APAC
+
+Japan's finance minister Katayama said she will not comment on specific exchange-rate levels.
+
+---
+
+### 2026-07-16 09:49:44  #MKT News
+
+Japan's finance minister Katayama said interest rates and FX are influenced by multiple factors.
+
+---
+
+### 2026-07-16 09:49:37  #國際
+
+日本財務大臣片山：不對具體匯率水平置評。
+
+---
+
+### 2026-07-16 09:49:32  #其他
+
+片山皋月：利率和外匯匯率受多種因素影響。
+
+---
+
+### 2026-07-16 09:49:01  #MKT News #Market Regions #Greater China #000001.SS #Impact bearish #000300.SS
+
+China A-share coal-chemical sector extended losses; Jiangsu Sopo fell more than 6%, while Jinmei Technology, Chengzhi Co., Huayi Group and Huachang Chemical also slid.
+
+---
+
+### 2026-07-16 09:48:44  #MKT News #Important #CSI300 #Impact bullish
+
+China A-share PCB sector rebounded. Xianfeng Holdings posted a third consecutive daily limit-up; Yihao New Materials rose over 10%. Jingwang Electronics, Nanya New Materials, Guanghe Technology and Pengding Holdings also advanced.
+
+---
+
+### 2026-07-16 09:48:22  #公司
+
+【煤化工板塊持續走低】煤化工板塊持續走低，江蘇索普跌超6%，金煤科技、誠志股份、華誼集團、華昌化工等跟跌。
+
+---
+
+### 2026-07-16 09:47:52  #Trading Economics #Markets #Hong Kong #stocks #Importance 1
+
+China Mobile Stock Price Hits 4-week High — China Mobile shares increased to 79.80 HKD, the highest since June 2026. Over the past 4 weeks, China Mobile lost 1.42%, and in the last 12 months, it decreased 8.82%.
+
+---
+
+### 2026-07-16 09:46:01  #其他
+
+【港股儲存概念股延續弱勢 瀾起科技跌超12%】截至發稿，瀾起科技(06809.HK)跌12.28%，兆易創新(06809.HK)跌7.61%。
+
+---
+
+### 2026-07-16 09:46:01  #MKT News #Star Stocks #NVIDIA #Market Themes #Magnificent 7 #NVDA.O #Impact bullish #7011.T
+
+Mitsubishi Heavy Industries has joined NVIDIA's partner network as a power and cooling partner to advance integrated power and cooling solutions for NVIDIA DSX.
+
+---
+
+### 2026-07-16 09:45:59  #MKT News #00100.HK
+
+【MiniMax Code to roll out remote-control and browser-automation features】MiniMax (00100.HK) has released the MiniMax Code 2.0 desktop client for download, saying it improves waiting, task interruption and context handovers in long-running jobs. The company said it will deploy remote control, browser automation, target mode and plan mode this month to expand support for complex tasks and cross‑environment collaboration.
+
+---
+
+### 2026-07-16 09:45:35  #其他
+
+三菱重工：加入 英偉達合作伙伴網路，成為電源與散熱合作伙伴，共同推進 英偉達 DSX 的整合電源與散熱技術。
+
+---
+
+### 2026-07-16 09:45:10  #公司 #國際
+
+【匈牙利前外交部長加入比亞迪】當地時間7月15日，匈牙利前外交部長西雅爾多（Peter Szijjarto）宣佈辭去議員職務，加入中國電動汽車巨頭比亞迪。 西雅爾多自2002年起擔任匈牙利國民議會議員，並於2014年起擔任匈牙利外長，直至今年5月。7月15日，他在臉書上宣佈將離開議會，因為他收到了一份來自“全球領先企業之一”比亞迪的“極具聲望的邀請，擔任一個國際職位”。 現年47歲的西雅爾多寫道，“比亞迪是過去20年來汽車行業最成功的企業之一，也是全球領先的新能源汽車製造商。從今天起，我將擔任負責集團對外關係及新業務線拓展的高管”。 據悉，比亞迪於2024年在匈牙利南部城市塞格德動工建設其首個歐洲電動汽車生產廠，並於去年宣佈將把其區域企業及研發中心從荷蘭遷至布達佩斯。（中國僑網）
+
+---
+
+### 2026-07-16 09:45:02  #MKT News #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share printed circuit board (PCB) sector jumped; Xianfeng Holdings hit the daily trading limit and Yihao New Materials rose over 16%. Zecheng Electronics, Jingwang Electronics, Chongda Technology, Shengyi Electronics and Nanya New Materials also advanced.
+
+---
+
+### 2026-07-16 09:44:53  #MKT News #00325.HK #Impact bullish #09992.HK #09896.HK
+
+Hong Kong new-consumption names rallied: Buluoke (00325.HK) rose over 7%, Pop Mart (09992.HK) climbed more than 4%, Miniso (09896.HK) and Guming (01364.HK) also advanced.
+
+---
+
+### 2026-07-16 09:44:27  #市場
+
+【機構預測國內成品油價格將迎年內第九漲】7月17日24時，成品油調價視窗將再度開啟。記者今日從行業機構隆眾資訊獲悉，預計成品油上調幅度在250元/噸左右，摺合升價大約0.18元左右，屆時將迎年內第九次上漲。據測算，以70升的油箱來計算，私家車主加滿一箱油將多花13元左右。但最終調價幅度還需以官方公佈為準。（第一財經）
+
+---
+
+### 2026-07-16 09:43:56  #市場 #國際
+
+10年期日本國債收益率上升1.5個基點至2.700%。
+
+---
+
+### 2026-07-16 09:43:39  #其他
+
+【MiniMax Code將上線遠端控制、瀏覽器操控等功能】7月16日，MiniMax宣佈更新MiniMax Code 2.0桌面端。MiniMax Code 2.0桌面端現已開放下載，重點改善長任務執行過程中的等待、中斷與上下文銜接問題。此外，MiniMax Code將在本月上線遠端控制、瀏覽器操控，目標模式、計劃模式等功能，進一步擴充套件處理複雜任務和跨環境協作的能力。
+
+---
+
+### 2026-07-16 09:43:10  #其他
+
+澳大利亞政府宣佈自由鍾灣冶煉廠將關閉。
+
+---
+
+### 2026-07-16 09:42:50  #市場
+
+【印製電路板板塊拉昇，賢豐控股漲停】印製電路板板塊拉昇，賢豐控股漲停，逸豪新材漲超16%，則成電子、景旺電子、崇達技術、生益電子、南亞新材等跟漲。
+
+---
+
+### 2026-07-16 09:42:42  #MKT News #Market Regions #Greater China #300498.SZ #Impact bullish
+
+China A-share pork sector posted an intraday spike; Dayu Biological rose over 7%, with Tiankang Bio, Tianbang Food, Jin Xin Nong and Wens Food also advancing.
+
+---
+
+### 2026-07-16 09:42:41  #市場 #焦點
+
+滬深兩市成交額超5000億元，較上日此時縮量929億元。
+
+---
+
+### 2026-07-16 09:42:41  #MKT News
+
+【Shanghai issues orange high-temperature warning; central districts to exceed 37°C】Shanghai Meteorological Observatory at 07:25 on July 16 issued an orange high-temperature warning for central districts, forecasting most of the central urban area to exceed 37°C today. Xujiahui recorded 38.9°C yesterday, the hottest day since the start of summer. As of yesterday Shanghai has logged five high-temperature days. The bureau warned of adverse effects on city operations and public health and urged caution on fire and electrical safety.
+
+---
+
+### 2026-07-16 09:41:53  #MKT News #Market Regions #Greater China
+
+【China's first full-chain green low-carbon ethylene project enters production】PetroChina's Dushanzi Petrochemical Tarim unit completed initial feed and start-up of its phase‑II 1.2 mln t/yr ethylene plant and accompanying green low‑carbon demonstration facilities and has begun commercial operations. The project—China's refining-and-chemicals industry's first full‑chain green low‑carbon ethylene scheme and the world's first ethylene‑cracking carbon‑emissions recycling demonstration base—establishes central/west China's first ~3 mln t ethylene industrial hub, shifting some domestic ethylene capacity away from the eastern concentration and enhancing national energy‑chemical supply‑chain resilience.
+
+---
+
+### 2026-07-16 09:41:45  #其他
+
+【我國首個全鏈條綠色低碳乙烯工程投產】今日，中國石油獨山子石化塔里木120萬噸/年二期乙烯及配套綠色低碳示範工程一次投料開車成功，全面進入生產執行階段。該工程是我國煉化行業首個全鏈條踐行綠色低碳發展理念的開創性工程，建成了全球首個乙烯裂解碳排放迴圈利用示範基地；該工程的投產標誌著我國中西部首個300萬噸級的乙烯產業基地建成，將改變國內乙烯產能長期高度集中於東部、西部原料供給薄弱的產業格局，提升全國能源化工產業鏈供應鏈韌性。（國資小新）
+
+---
+
+### 2026-07-16 09:41:26  #市場 #焦點
+
+【A股三大指數均跌超1%】上證指數跌1.09%，現報3912.318點；深證成指跌1.54%，現報14552.129點；創業板指跌1.95%，現報3730.489點。
+
+---
+
+### 2026-07-16 09:41:20  #市場 #國際
+
+5年期日本國債收益率上漲1.0個基點至1.945%。
+
+---
+
+### 2026-07-16 09:40:21  #市場
+
+阿里巴巴港股上漲逾5%，股價升至逾一個月盤中高位。此前報道，阿里千問將作為AI能力整合至蘋果智慧終端。
+
+---
+
+### 2026-07-16 09:40:10  #其他
+
+【多家NFC果汁是水和濃縮原漿勾兌，廠家稱低價不可能鮮果現榨】近年來，NFC果汁廣受消費者歡迎。不少打著“鮮榨”“100%果汁”和“NFC果汁”旗號的菠蘿汁、西瓜汁、山竹汁，在電商平臺單品銷量動輒高達幾十萬件，但價格卻低到讓人難以置信。記者實地暗訪河南多家代工廠發現，車間根本沒有水果和鮮榨裝置，所謂“鮮果冷榨果汁”，全靠水、濃縮原漿勾兌而成。廠家坦言，“低價不可能鮮果現榨”，他們往往靠調換包裝上的“100%”“NFC”等標註順序打擦邊球。目前多家涉事企業已停產整改。不過，記者發現線上仍有相關產品售賣，且部分瓶身外包裝標識未作更改。（齊魯電視臺）
+
+---
+
+### 2026-07-16 09:39:54  #公司 #國際 #原創
+
+【英偉達與豐田深化AI領域合作 拓展至智慧城市和智慧工廠】英偉達將向豐田汽車供應人工智慧(AI)硬體和軟體，用於支援智慧城市建設、交通智慧系統和汽車製造廠運營，進一步深化雙方始於自動駕駛汽車研發的十年合作關係。英偉達週四在一份宣告中稱，兩家公司將深化合作，致力於使AI在現實世界落地。雙方此前還曾與總部位於美國的Ready Robotics合作開發軟體，以幫助提高工廠車間的安全性和生產效率。“我們正在擴大合作，推動實體AI發展從汽車領域延伸至機器人和智慧城市，”英偉達機器人與邊緣AI副總裁Deepu Talla表示。英偉達CEO黃仁勳本週率團訪問日本，拓展業務並激發市場對其新技術潛力的熱情。
+
+---
+
+### 2026-07-16 09:39:45  #MKT News #CSI300 #Impact bearish
+
+A-share lithium battery sector slipped intraday; Penghui Energy fell over 10%, with Weilan Lixin, Defu Technology, Tongguan Copper Foil and Nord Co. also declining.
+
+---
+
+### 2026-07-16 09:39:34  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bullish #SSE Composite
+
+China A-share chemical and pharmaceutical sector rallied; Harbin Pharmaceutical hit a fifth consecutive daily limit-up, Yongan Pharmaceutical a second, Borui Pharmaceutical and Haichuang Pharmaceutical gained more than 10%. Ha Sanlian, Hainan Haiyao, Xin Ganjiang, Jinyao Pharmaceutical and Meinova also advanced.
+
+---
+
+### 2026-07-16 09:39:30  #Trading Economics #Markets #South Korea #Stock Market #Importance 1
+
+South Korean Shares Tumble on Tech Selloff — The benchmark KOSPI plunged nearly 7% to around 6,780 on Thursday, erasing gains from the previous session and approaching an over two-month low, as a global semiconductor selloff pressured technology shares. The decline followed overnight losses in US chipmakers, which reignited concerns over AI valuations and dragged South Korea's semiconductor heavyweights lower, with SK Hynix (-11.4%) and Samsung Electronics (-8.6%) tumbling sharply. Other notable losses included SK Square (-12.5%), Samsung Electro-Mechanics (-9.1%), Hyundai Motor (-3.5%), and Doosan Enerbility (-3.8%). Investor sentiment was also dampened by renewed Middle East tensions after fresh US strikes on Iran fueled concerns over energy supplies and reduced risk appetite. At the same time, investors assessed the Bank of Korea's widely expected 25-basis-point interest rate hike to 2.75%, marking the start of a new tightening cycle aimed at curbing inflation and supporting the won.
 
 ---
 
@@ -22837,191 +23035,5 @@ Container shipping index (Europe route) lead contract intraday gains narrowed to
 ### 2026-07-15 09:16:49  #MKT News #Copper #Impact bullish #Brent #Impact bearish
 
 【South Korea to mandate 30% cut in medium and heavy commercial vehicle emissions by 2030】South Korea on Tuesday announced a plan to require medium and heavy commercial vehicles to reduce greenhouse gas emissions by 30% by 2030, shifting from a voluntary mechanism to mandatory compliance to meet the country’s mid-term national climate target.
-
----
-
-### 2026-07-15 09:15:31  #市場
-
-【人民幣兌美元中間價報6.7910，較上日調高80點】人民幣兌美元中間價報6.7910，較上日調高80點。
-
----
-
-### 2026-07-15 09:15:22  #市場
-
-人民幣兌美元中間價報6.7910元。
-
----
-
-### 2026-07-15 09:15:19  #公司
-
-【廣東建工：公司不具備製造生產風電電機的能力】廣東建工7月15日在互動平臺表示，公司不具備製造生產風電電機的能力。
-
----
-
-### 2026-07-15 09:15:11  #公司
-
-【羅博特科：ficonTEC將根據客戶需求彈性匹配產能，並有國內客戶的訂單】羅博特科7月15日在互動平臺表示，ficonTEC將根據客戶需求彈性匹配產能，並有國內客戶的訂單。
-
----
-
-### 2026-07-15 09:15:05  #公司
-
-【廣東建工：公司制儲氫規模較小，暫未參與向區域外市場輸送】廣東建工7月15日在互動平臺表示，公司制儲氫規模較小，暫未參與向區域外市場輸送。未來公司將持續關注氫能市場情況，積極尋找優質資源，拓展綠電制氫業務。
-
----
-
-### 2026-07-15 09:15:03  #市場
-
-恒指期貨日盤開盤漲0.45%，報24465.33點，高水124.60點。
-
----
-
-### 2026-07-15 09:14:25  #公司
-
-【京東健康與雲頂新耀達成戰略合作 共探創新藥全週期服務新模式】據京東健康黑板報，近日，京東健康與生物製藥公司雲頂新耀簽署戰略合作協議。雙方將圍繞創新藥新品首發、患者服務、數字營銷、網際網路醫療等方向展開深度合作，共同探索創新藥可及性提升與患者全週期管理新模式。
-
----
-
-### 2026-07-15 09:13:02  #MKT News #Important #Commodities #Industrial Metals
-
-Shanghai most-active tin contract rose 2.00% intraday to 419,190 yuan/ton.
-
----
-
-### 2026-07-15 09:12:47  #MKT News #Market Themes #AI Revolution #02643.HK #Impact bullish
-
-【CAOCAO launches first Robovan fleet into commercial operation】July 15 — CAOCAO (02643.HK) said it has launched commercial operations of its Robovan service in Changsha; the first batch of driverless logistics vehicles has entered real urban operating scenarios.
-
----
-
-### 2026-07-15 09:11:48  #MKT News #Market Themes #AI Revolution #CSI300 #Impact bullish #CSI1000 #CSI500
-
-【Equity ETFs channel near 60 billion yuan into market; broad-based ETFs heavily bought】July 14 — A-share resource stocks led gains: nonferrous metals and coal rallied, with many nonferrous ETFs up >6%. Computing-power names rebounded in the afternoon; the ChiNext index rose >3% and several communication-themed ETFs gained >5%. Notably, during the sharp July 13 pullback, about 60 billion yuan of bottom-fishing flowed into the market via equity ETFs, the largest single-day inflow since April 8, 2025; broad-based ETFs tracking CSI 1000, CSI 300 and CSI 500 were heavily accumulated. Industry firms warn prior tech-growth leverage has accumulated sizable financing positions and rising volatility has prompted some leveraged funds to reduce exposure. On a medium-term view they say the core bullish case for A-shares is unchanged; the current move looks like a trading-structure correction as the market shifts from extreme structural leadership toward style rebalancing. The AI theme remains intact; Q3 may shift to selecting subsegments and validating earnings.
-
----
-
-### 2026-07-15 09:11:37  #其他
-
-【曹操出行首批Robovan投入運營】7月15日，曹操出行宣佈在長沙啟動Robovan商業化運營，首批無人物流車進入真實城市場景投入運營。
-
----
-
-### 2026-07-15 09:10:17  #國際
-
-【聯合國安理會召開西非和薩赫勒地區局勢公開會】當地時間14日，聯合國安理會召開西非和薩赫勒問題公開會。中國常駐聯合國代表團臨時代辦孫磊表示，當前，西非和薩赫勒地區局勢總體保持穩定，經濟實現穩健增長，但仍面臨諸多挑戰。國際社會要加大關注與投入，幫助地區國家著力化解治理、安全和發展難題，鞏固來之不易的向好勢頭。中方願在中非合作論壇等框架下，為促進地區持久和平與發展繁榮作出更大貢獻。
-
----
-
-### 2026-07-15 09:09:40  #MKT News #Important #Commodities #Precious Metals
-
-Palladium front-month contract is up 4.00% intraday at 311.80 yuan/gram.
-
----
-
-### 2026-07-15 09:09:04  #MKT News #Commodities #Energy
-
-【China first: State Grid Shanghai Electric completes all-mode large-scale compute‑power coordination test】During Shanghai’s summer peak, State Grid Shanghai Electric coordinated 16 data centers — including China Telecom Shanghai, GDS, Shanghai Yidian and Alibaba Group — in a two‑hour all‑mode compute‑power dispatch that reduced peak load by up to 97.8 MW. The exercise is the largest single‑city compute‑load regulation in China to date and the first field test to simultaneously dispatch three paths: flexible load adjustment, backup diesel/generator switching and cross‑domain compute transfer.
-
----
-
-### 2026-07-15 09:08:36  #市場 #焦點
-
-雞蛋連續主力合約日內跌2%，現報4354.00元。
-
----
-
-### 2026-07-15 09:08:36  #MKT News #Market Regions #Japan & APAC #USDJPY #Impact bearish
-
-USD/JPY dipped to 162.00, down 0.14% on the day.
-
----
-
-### 2026-07-15 09:08:22  #公司
-
-【英矽智慧與保瑞藥業簽署戰略合作】7月15日，英矽智慧宣佈，與保瑞藥業股份有限公司達成一項戰略合作聯盟。該聯盟將建立在廣泛的、多面向合作框架之上，具體合作內容將由雙方進一步討論並簽署最終協議，若全面實施，該合作的潛在總價值有望超過25億美元。
-
----
-
-### 2026-07-15 09:08:18  #其他
-
-【REDMI Note 17 Pro首銷1599元起，Note系列全球累計銷量突破5億臺】REDMI Note 17系列正式釋出，包含REDMI Note 17和REDMI Note 17 Pro兩款機型。據悉，REDMI Note系列12年間全球累計銷量突破5億臺。（新浪科技）
-
----
-
-### 2026-07-15 09:06:56  #其他
-
-中信銀行(國際)計劃發行美元和離岸人民幣永續債券。
-
----
-
-### 2026-07-15 09:06:35  #其他
-
-【廣西貴港釋出暴雨三級預警】廣西貴港市氣象臺年7月15日7時釋出暴雨三級預警；受熱帶東風系統影響，過去12小時，貴港市有39個鄉鎮累計降雨量超過50毫米，其中26個鄉鎮累計降雨量100～250毫米。預計未來24小時，貴港市大部仍有大到暴雨，區域性大暴雨，並伴有短時雷暴大風等強對流天氣。（央視）
-
----
-
-### 2026-07-15 09:05:48  #其他
-
-海南省氣象臺2026年07月15日09時02分解除本島東部海面海上雷雨大風黃色預警訊號。
-
----
-
-### 2026-07-15 09:05:42  #市場 #焦點
-
-低硫燃料油連續主力合約日內漲5%，現報4531.00元。
-
----
-
-### 2026-07-15 09:04:54  #公司
-
-【國內首次：國網上海電力完成“全方式”規模化算電協同實測呼叫】近日，正值上海夏季用電負荷攀升期，國網上海電力組織上海電信、萬國資料、上海儀電、阿里巴巴集團等企業的16家資料中心開展算電協同集中呼叫，兩小時內最大壓減負荷9.78萬千瓦。國網上海電力介紹，這是迄今國內城市單次算力負荷調節規模最大的一次，也是首次將柔性負荷調節、備電柴發切換、算力跨域轉移三類路徑置於同一時段統一排程的實測。
-
----
-
-### 2026-07-15 09:04:19  #其他
-
-【防汛一級應急響應 吉林輝南要求居民就近就高轉移】記者今天（15日）從吉林輝南縣防汛抗旱指揮部瞭解到，按照輝南縣防汛防颱風一級應急響應要求，現在所有住在一樓、二樓的居民聽從所轄村屯（社群）指揮，馬上就近就高轉移，到三樓以上避險。即時起，所有居民無緊急情況一律不得外出，不得下樓。嚴禁前往河道、堤岸、低窪路段、臨河區域、地下空間等危險地帶；禁止逗留、觀望、拍照、捕魚、直播；洪峰過境期間，城區部分道路、橋樑將啟動臨時交通管制。
-
----
-
-### 2026-07-15 09:04:05  #市場
-
-【青花郎領跌總價再創3月22日以來新低 7月15日酒價內參釋出】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月15日整體繼續低位下挫。如果主要單品各取一瓶整體打包售賣，今日總售價為9812元，較昨日大幅下跌27元，連續四日回落並再度創下今年3月22日以來最低。今日僅青花汾20、古井貢古20與習酒君品上漲，其餘八款單品均下跌。五糧液1618與洋河夢之藍M6+均創近一月最低價，青花郎亦平近一月最低價。縱觀全場，多款核心單品同步探底，市場弱勢特徵進一步顯現，終端交投情緒環比轉冷，總價低位震盪下行態勢加劇。今日11大白酒單品三漲八跌，輸家數量和跌幅均佔明顯優勢。上漲方面，青花汾20漲幅居前，上漲5元/瓶，終結此前連續兩日回落頹勢，自半月次低位修復；習酒君品上漲3元/瓶，自月內次低位連續兩日回升，價格快速修復重返630元關口；古井貢古20小幅上漲2元/瓶，終結此前三連跌，近一月其價格波動幅度較大。下跌方面，青花郎跌幅居前，下跌8元/瓶，創近一月最大單日跌幅，再度失守690元關口，平月內最低價紀錄；五糧液普五八代、國窖1573與洋河夢之藍M6+均下跌6元/瓶，其中普五八代跌回790元下方，降至近一月次低位；國窖1573已連續兩日錄得月內最大跌幅，價格自月內最高位快速回撥，洋河夢之藍M6+跌破此前低點，創近一月最低價；精品茅臺下跌4元/瓶，已回落至月內次低位，近一月其價格中樞平緩下移；飛天茅臺與五糧液1618均下跌3元/瓶，其中前者再創今年3月30日以來最低，相對i茅臺官方定價的價差進一步收窄，後者創近一月最低價；水晶劍南春小幅下跌1元/瓶，連續三日走低，降至近一個月次低位。
-
----
-
-### 2026-07-15 09:03:37  #宏觀 #資料 #國際
-
-韓國財政部長表示，韓國將努力把下半年消費者物價指數（CPI）漲幅控制在3%以下。
-
----
-
-### 2026-07-15 09:02:46  #公司
-
-【港股股票回購一覽：80只個股獲公司回購】Wind資料顯示，7月14日，共80只港股獲公司回購，6只個股回購金額超千萬港元。其中，極兔速遞-W、快手-W、協鑫科技回購金額最大，分別獲公司回購3916.37萬港元、2392.39萬港元、2031.38萬港元。截至7月14日，今年已有289只港股獲公司回購，81只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購261.28億港元、136.35億港元、109.63億港元。
-
----
-
-### 2026-07-15 09:02:04  #其他
-
-【以史為鑑 國際清算銀行警告稱AI投資競賽恐令債務驅動的繁榮轉向蕭條】國際清算銀行(BIS)表示，當前全球圍繞人工智慧(AI)基礎設施展開的投資競賽，正朝著超越以往技術繁榮週期的方向發展，而那些繁榮最終都以嚴重市場動盪收場。總部位於巴塞爾的國際清算銀行週二釋出的一份研究報告警告稱，如果生產率增長最終無法證明這些鉅額投資是合理的，那麼超大規模雲服務提供商與人工智慧開發商之間不斷增加的債務融資和金融關聯，將提高更廣泛金融動盪的風險。國際清算銀行經濟學家Phurichai Rungcharoenkitkul在報告中寫道：“這個行業建設的產能越多，為維持繁榮所必須跨越的生產率門檻就越高。因此，規模越大的繁榮不僅越有可能令人失望，而且一旦令人失望，造成的損害也會更大。”
-
----
-
-### 2026-07-15 09:01:46  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange Gold T+D rose 0.9% in early trade on Wednesday, July 15, to 885.2 yuan/gram; Silver T+D gained 2.31% to 14,386 yuan/kg.
-
----
-
-### 2026-07-15 09:01:32  #其他
-
-【古巴國家電網已全面恢復】古巴能源部在X上釋出訊息稱，所有發電機組恢復執行後，古巴電網已恢復正常。
-
----
-
-### 2026-07-15 09:01:32  #MKT News #TWII #Impact bullish
-
-The Taiwan Weighted Index opened 446.25 points higher, or 1.0%, at 45,184.2 on Wednesday, July 15.
 
 ---

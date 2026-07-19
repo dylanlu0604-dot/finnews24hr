@@ -1,7 +1,169 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-20 04:25:13_
-_本檔包含 3714 則快訊，約 718551 字_
+_更新時間：2026-07-20 05:31:57_
+_本檔包含 3708 則快訊，約 718875 字_
+
+---
+
+### 2026-07-14 10:34:45  #經濟數據 #中國
+
+【中國6月以美元計價出口額同比增長27.0%】據海關總署14日釋出資料計算顯示，中國6月以美元計價出口額同比增長27.0%，預估為增長19.0%；進口額同比增長36.0%，預估為增長26.1%。
+
+---
+
+### 2026-07-14 10:34:34  #焦點 #國際
+
+韓國KOSPI指數跌幅擴大至3%，此前一度漲2.5%。
+
+---
+
+### 2026-07-14 10:34:32  #公司
+
+【蔣方舟名下企業均已登出】據媒體報道，近日，蔣方舟因碩士論文被認定存在9處與境外期刊文字重合的學術不端，在被中國人民大學撤銷碩士學位後發文道歉，相關話題引發熱議。天眼查App顯示，蔣方舟名下關聯4家企業，包括廣州真有意思文化投資有限公司、宜昌奇點文化傳播有限公司等，目前上述企業均已登出。
+
+---
+
+### 2026-07-14 10:33:25  #經濟數據 #中國
+
+【上半年我國專用裝備、船舶和海洋工程裝備出口5402.4億元和2149.9億元 分別增長24.4％和19.9%】國務院新聞辦公室今天（14日）舉行釋出會，介紹今年以來我國外貿執行情況。上半年，我國專用裝備、船舶和海洋工程裝備出口5402.4億元和2149.9億元，分別增長24.4％和19.9%。從智慧挖掘機到重型燃氣輪機，再到海上作業平臺，一批批中國裝備在各國重大專案中發揮了關鍵作用。“中國製造”為不同國家地區、不同應用場景提供了優選方案。
+
+---
+
+### 2026-07-14 10:33:21  #公司 #市場
+
+【化工板塊震盪反彈 恆逸石化封漲停】化工板塊震盪反彈，恆逸石化封漲停，此前金煤科技、江蘇索普漲停，桐昆股份、和邦生物、赤天化、衛星化學跟漲。
+
+---
+
+### 2026-07-14 10:33:08  #其他
+
+中國1-6月份以美元計價出口同比增長17.6%，進口同比增長26.6%。
+
+---
+
+### 2026-07-14 10:32:50  #經濟數據 #中國
+
+【海關總署：我國出口增速連續11個季度保持增長】海關總署副署長王軍在釋出會上表示，今年以來，中國出口增速超過10%，已連續11個季度保持增長。出口的增長，根本原因在於“中國製造”與全球各類需求的精準適配。
+
+---
+
+### 2026-07-14 10:32:46  #其他
+
+中國6月出口同比(按人民幣計) 20.8%，前值 13.8%。中國6月進口同比(按人民幣計) 29.4%，前值 21.5%。
+
+---
+
+### 2026-07-14 10:32:22  #其他
+
+中國6月以美元計價出口同比增長27.0%，預估為+19.0%。中國6月以美元計價進口同比增長36.0%，預估為+26.1%。中國6月貿易順差1,256.2億美元，預估為順差1,201億美元。
+
+---
+
+### 2026-07-14 10:32:11  #其他
+
+中國6月貿易帳 8590.5億元，前值7239.8億元。
+
+---
+
+### 2026-07-14 10:30:25  #公司
+
+【東方通財務造假案追責升級：現任董事長兼總經理遭刑事調查】上市公司財務造假退市並非“一退了之”。在行政處罰之外，刑事追責、民事索賠等後續程式也在推進，典型如R東方通1。多位知情人士稱，東方通現任董事長兼總經理、“70後”曲濤已被採取刑事強制措施半月左右，目前公司並未釋出相關公告。（財新）
+
+---
+
+### 2026-07-14 10:29:56  #公司
+
+【縱橫股份：組建聯合無人機應急救援隊馳援廣西災後電網搶修】近日，廣西欽州、防城港等地持續出現極端性強降雨，防汛保供電形勢極為緊迫。縱橫股份(688070)官微訊息，公司聯合廣西電網公司電力科學研究院，組建聯合無人機應急救援隊伍，圍繞重點受災區域線路開展巡飛勘查作業，護航民生及防汛關鍵點位穩定用電。
+
+---
+
+### 2026-07-14 10:29:34  #公司
+
+【傑華特在北京成立積體電路新公司】企查查APP顯示，近日，傑華特積體電路（北京）有限公司成立，註冊資本1億元，經營範圍包含：積體電路製造；積體電路設計；積體電路晶片及產品製造；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由傑華特全資持股。
+
+---
+
+### 2026-07-14 10:28:46  #Trading Economics #Economy #Japan #Government Bond 10Y #Importance 1
+
+Japan 10-Year Yield Resumes Decline — Japan’s 10-year government bond yield fell to around 2.75% on Tuesday, extending Friday’s decline after Finance Minister Satsuki Katayama said the country’s massive pension fund would adjust its holdings if necessary, while proposing the inclusion of government bonds in a tax-free investment program for individual investors. Her remarks followed media reports that Tokyo had no immediate plans to alter the asset allocation of its state pension funds, easing expectations of near-term support for domestic assets. Japanese government bonds have faced sustained selling pressure this year amid growing concerns over the country’s fiscal expansion plans and persistent inflationary pressures. The government recently unveiled a draft roadmap outlining more than ¥370 trillion in public and private investment by fiscal 2040 across 17 strategic sectors identified as priorities by the Takaichi administration.
+
+---
+
+### 2026-07-14 10:28:35  #市場
+
+日經指數擴大跌幅，最新下跌1.02%，報66,556.61點。
+
+---
+
+### 2026-07-14 10:28:21  #公司
+
+訊息人士透露，長鑫儲存將於7月27日在上海證券交易所掛牌上市。
+
+---
+
+### 2026-07-14 10:27:45  #其他
+
+軟銀推出基於OPENAI技術的網路安全服務。
+
+---
+
+### 2026-07-14 10:27:13  #宏觀 #國際
+
+【“中國製造”適配全球需求 我國出口增速連續11個季度保持增長】國務院新聞辦公室今天（14日）舉行釋出會，介紹今年以來我國外貿執行情況。今年以來，中國出口增速超過10%，已連續11個季度保持增長。出口的增長，根本原因在於“中國製造”與全球各類需求的精準適配。可以從以下四個方面來看：一是，聯合國報告顯示，今年以來全球貨物貿易增長主要集中於人工智慧相關領域。全球算力、資料中心及終端裝置需求持續擴張，促進了我國相關產品出口。上半年，我國電子元件、電腦零部件等產品出口均兩位數增長，合計拉動出口增長6.9個百分點；與AI技術深度融合的智慧仿生機器人出口超萬臺，遍及全球90多個國家和地區。二是，當前，全球綠色低碳轉型深入推進，新能源建設、消費需求上升與我國綠色產品的契合度較高。上半年，我國鋰電池、風力發電機組等綠色能源相關產品出口分別增長37.6％和35.6%；電動汽車、鐵道電力機車、電動摩托車及腳踏車等綠色出行產品分別增長68.7%、45.1％和31.5%。三是，上半年，我國專用裝備、船舶和海洋工程裝備出口5402.4億元和2149.9億元，分別增長24.4％和19.9%。從智慧挖掘機到重型燃氣輪機，再到海上作業平臺，一批批中國裝備在各國重大專案中發揮了關鍵作用。“中國製造”為不同國家地區、不同應用場景提供了優選方案。四是，今年上半年中東局勢緊張，全球化工品供應吃緊。中國憑藉完備的產業體系和全鏈條的配套能力，快速接住外部的突發需求。上半年我國基本有機化學品、初級形狀塑膠出口分別增長25.1％和35%，滿足了企業生產需求，保障了相關產供鏈穩定。中國穩定的供應鏈，正成為連線世界各方合作共贏的關鍵樞紐。我們將繼續以中國之所能應世界之所需，為全球經貿合作注入更多確定性，釋放更強新動能。
+
+---
+
+### 2026-07-14 10:26:56  #公司
+
+【湖北國資等成立人工智慧科技公司】企查查APP顯示，近日，能碳章魚（湖北）人工智慧科技有限公司成立，經營範圍包含：人工智慧硬體銷售；光伏裝置及元器件銷售；人工智慧應用軟體開發；自有資金投資的資產管理服務等。企查查股權穿透顯示，該公司由湖北中碳資產管理有限公司等共同持股。
+
+---
+
+### 2026-07-14 10:26:35  #其他
+
+南方兩倍做多海力士(07709)跌幅擴大至10%。
+
+---
+
+### 2026-07-14 10:26:25  #市場 #焦點
+
+南向資金淨買入額達30億港元。
+
+---
+
+### 2026-07-14 10:26:11  #市場
+
+MSCI亞太指數下跌1%至263.37點。
+
+---
+
+### 2026-07-14 10:26:02  #國際
+
+【韓國KOSPI指數跌超2%】韓國KOSPI指數跌超2%，現跌2.60%，報6630.08點。
+
+---
+
+### 2026-07-14 10:25:15  #國際
+
+【伊朗革命衛隊發起納斯爾2行動】伊朗伊斯蘭革命衛隊今天（7月14日）宣佈，作為對敵方最新侵略行徑的回應，在代號“納斯爾2”的軍事行動下，革命衛隊以巴林境內多個彈藥庫、一個衛星通訊中心和駐紮美軍的建築物為目標，發起打擊，並對敵方“造成了重大損失”。革命衛隊稱，報復性打擊行動仍在進行中。
+
+---
+
+### 2026-07-14 10:25:02  #公司
+
+【T3出行在嘉興成立新公司 註冊資本500萬】天眼查App顯示，近日，嘉興領行卓智科技有限公司成立，法定代表人為徐楊，註冊資本500萬人民幣，經營範圍包括物聯網技術服務、人工智慧應用軟體開發、人工智慧硬體銷售等。股東資訊顯示，該公司由T3出行旗下南京領行汽車服務有限公司全資持股。
+
+---
+
+### 2026-07-14 10:24:39  #市場 #國際
+
+印尼盾小幅走高，兌美元匯率為 18,090。
+
+---
+
+### 2026-07-14 10:24:32  #Trading Economics #Economy #United States #Government Bond 10Y #Importance 1
+
+US 10-Year Yield Holds Advance — The yield on the US 10-year Treasury note held around 4.62% on Tuesday, hovering near two-month highs as escalating tensions in the Middle East drove oil prices sharply higher, fueling concerns over inflation and the interest rate outlook. The move followed President Donald Trump’s decision to reinstate a blockade on Iranian vessels transiting the Strait of Hormuz and seek reimbursement from countries benefiting from US efforts to secure the vital shipping lane. Investors also awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s testimony before the US Congress later today, with markets closely watching his remarks for further policy signals. Markets now price in roughly a 51% chance of a Fed rate hike in September, compared with a 23% probability that the central bank will leave rates unchanged.
 
 ---
 
@@ -22224,203 +22386,5 @@ Iran's Mehr News Agency reports preliminary accounts of sounds of explosions in 
 ### 2026-07-13 05:35:03  #國際
 
 市場資訊：美國國會議員預計本週公佈更新版加密貨幣市場結構法案。
-
----
-
-### 2026-07-13 05:31:18  #國際
-
-【伊朗多地再次傳出爆炸聲】總檯記者當地時間13日獲悉，當天凌晨0時30分左右，伊朗南部阿巴斯港和錫裡克地區傳出超過10次爆炸聲。此外，伊朗南部賈斯克傳出5次爆炸聲，格什姆島也響起多聲爆炸聲。（央視新聞）
-
----
-
-### 2026-07-13 05:29:14  #焦點 #國際
-
-【美中央司令部：已對伊朗發動新一輪打擊】當地時間7月12日，美軍中央司令部稱，美國東部時間當日17時，美軍開始對伊朗發動新一輪打擊，“旨在繼續削弱其攻擊在霍爾木茲海峽自由通行船隻的能力”。
-
----
-
-### 2026-07-13 05:27:27  #MKT News #WTI #Impact bullish #Brent
-
-Iran's foreign ministry said Saturday's talks in Muscat focused on managing the Strait of Hormuz, but the U.S. pressured Oman to block any outcome.
-
----
-
-### 2026-07-13 05:27:07  #國際
-
-伊朗外交部譴責美軍打擊行動屬於戰爭罪行，並警告此舉會破壞地區和平程序。 伊方誓言將打擊所有用於襲擊伊朗的發射陣地，同時敦促聯合國對美方採取相關措施。
-
----
-
-### 2026-07-13 05:25:09  #焦點 #國際
-
-伊朗外交部表示，週六在馬斯喀特舉行的會談核心議題是霍爾木茲海峽管控，但美國向阿曼施壓，導致該議題未能達成成果。
-
----
-
-### 2026-07-13 05:24:09  #國際
-
-伊朗國家電視臺：伊朗格什姆島與賈斯克地區發生爆炸。
-
----
-
-### 2026-07-13 05:22:06  #MKT News
-
-McConnell said he is still unable to return to the Senate chamber to vote and will return to the Senate as soon as possible.
-
----
-
-### 2026-07-13 05:21:38  #公司
-
-康士伯海事將透過收購博格推進器公司強化船舶推進系統業務。
-
----
-
-### 2026-07-13 05:21:13  #國際
-
-美國參議院議員麥康奈爾：我目前尚無法返回參議院參議院會議廳參與投票。
-
----
-
-### 2026-07-13 05:21:04  #國際
-
-美國參議員麥康奈爾：我將繼續努力，爭取儘快重返參議院議事廳參與議事。
-
----
-
-### 2026-07-13 05:20:53  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-【CENTCOM says US forces began new strikes on Iran】CENTCOM said US forces began additional strikes against Iran at 5:00 p.m. ET today (05:00 Beijing) to continue degrading Iran’s ability to attack civilian mariners and merchant vessels transiting the Strait of Hormuz.
-
----
-
-### 2026-07-13 05:20:50  #焦點 #國際
-
-美方稱，已於美國東部時間下午5點（北京時間5:00）對伊朗發動新一輪打擊。
-
----
-
-### 2026-07-13 05:19:50  #國際
-
-美方訊息：本次打擊旨在削弱伊朗襲擊民用航運船隻的能力。
-
----
-
-### 2026-07-13 05:19:16  #焦點 #國際
-
-美國中央司令部證實已對伊朗發起新一輪打擊。
-
----
-
-### 2026-07-13 05:18:56  #其他 #焦點
-
-美方訊息：三軍統帥已下令實施打擊行動。
-
----
-
-### 2026-07-13 05:18:40  #MKT News
-
-Iran's state broadcaster IRIB said three explosions were heard in Jask, Hormozgan province, Iran.
-
----
-
-### 2026-07-13 05:17:50  #國際
-
-伊朗國家電視臺報道，阿巴斯港以西傳出多起爆炸聲。
-
----
-
-### 2026-07-13 05:17:43  #MKT News #WTI #Impact bullish #Brent
-
-Fars news agency reported that around 00:30 local time (05:00 Beijing) today more than 10 explosions were heard at Iran’s Bandar Abbas and Sirik ports; exact locations remain unclear.
-
----
-
-### 2026-07-13 05:14:33  #MKT News
-
-【Syrian People's Assembly holds first transitional session, elects speaker】The Syrian People's Assembly met on the 12th for its first session since the 2024 political upheaval, MPs were sworn in before transitional government president Ahmad Shala and voted Abdul Hamid Awak as speaker; two deputy speakers and a secretary were also elected.
-
----
-
-### 2026-07-13 05:14:18  #國際
-
-【敘利亞人民議會舉行過渡時期首次會議 選出議長】敘利亞人民議會12日舉行自2024年敘政局劇變以來的首次會議，選舉產生議長、兩名副議長和一名秘書。在本次會議上，議員們在敘過渡政府總統艾哈邁德·沙拉麵前集體宣誓就職，隨後投票選舉阿卜杜勒·哈米德·阿瓦克為議長。（新華社）
-
----
-
-### 2026-07-13 05:12:31  #國際
-
-伊朗國家電視臺：伊朗錫裡克附近發生多起爆炸。
-
----
-
-### 2026-07-13 05:12:28  #MKT News #Important #Brent #Impact bullish #WTI #XAUUSD
-
-Islamic Republic of Iran Broadcasting (IRIB) reported explosions heard again in southern Iran.
-
----
-
-### 2026-07-13 05:11:12  #MKT News #XAUUSD #Impact bullish #WTI #DXY
-
-Iran's foreign ministry strongly condemned what it described as US aggressive attacks on Iran in the past 24 hours, saying they flagrantly violate the UN Charter, pose a serious threat to international peace and security, and have undone months of efforts to reduce tensions and build peace in West Asia.
-
----
-
-### 2026-07-13 05:09:30  #其他
-
-中國地震臺網正式測定：07月13日05時02分在四川宜賓市高縣（北緯28.53度，東經104.68度）發生3.9級地震，震源深度6千米。
-
----
-
-### 2026-07-13 05:06:08  #MKT News
-
-cenc's automatic system estimated a magnitude ~3.8 earthquake at 05:02 on July 13 near Gaoxian County, Yibin, Sichuan; final magnitude pending confirmation in a formal rapid report.
-
----
-
-### 2026-07-13 05:04:03  #其他
-
-中國地震臺網自動測定：07月13日05時02分在四川宜賓市高縣附近（北緯28.54度，東經104.69度）發生3.8級左右地震，最終結果以正式速報為準。
-
----
-
-### 2026-07-13 04:59:45  #MKT News #GBPUSD #Impact bearish #FTSE100 #Impact mixed #DXY #Impact bullish
-
-【UK incoming PM Burnham may unveil larger budget later this year】Incoming UK prime minister Andy Burnham is weighing a larger-than-usual budget later this year, with allies and advisers pushing proposals including a land tax, utilities nationalization and more ambitious devolution. Burnham is expected to replace Starmer on July 20. Treasury officials, after initial team consultations, are considering combining the annual budget (normally in Oct/Nov) with the departmental spending review, which are usually separate. Chancellor Reeves moved last year to set department budgets a year early to boost education and health funding. Officials say accelerating spending decisions would help Burnham lock in policy priorities ahead of the 2029 election and map a clearer route to his pledged 3.5% of GDP defence target, but would compress timetables and increase pressure on future chancellors amid near-term spending uncertainty.
-
----
-
-### 2026-07-13 04:53:17  #其他
-
-市場資訊：因與華納兄弟產生矛盾分歧，派拉蒙正考慮遷出加州。
-
----
-
-### 2026-07-13 04:47:24  #國際
-
-【伊朗外交部發言人：伊朗不會發動攻擊】伊朗外交部發言人巴加埃：這並非軍事衝突，而是以色列和美國持續的侵略行徑。伊朗不會發動攻擊，並認為其行動是依據國際法進行的正當防衛。他呼籲該地區其他國家阻止美國利用其領土對伊朗採取行動，並表示：在未追究違反國際法者的責任的情況下，指責衛自身主權的做法並不負責任。
-
----
-
-### 2026-07-13 04:39:15  #國際
-
-泰國曼谷市政廳官員：酒吧火災已造成27人死亡、63人受傷。
-
----
-
-### 2026-07-13 04:33:12  #國際
-
-歐盟外交與安全政策高階代表卡拉斯：歐盟與巴林將在安全和貿易領域密切合作。
-
----
-
-### 2026-07-13 04:32:05  #國際
-
-美國中央司令部：伊朗宣傳機構今日宣稱，美軍三名軍人在科威特遭伊朗打擊身亡。此訊息不實。目前沒有任何報告顯示美軍人員在該地區出現傷亡，所有人員均已清點確認安全。
-
----
-
-### 2026-07-13 04:31:16  #MKT News #S&P500 #Impact bullish #XAUUSD #Impact bearish #WTI
-
-【CENTCOM: Iran's claim that three U.S. service members were killed in Kuwait is false】CENTCOM said today Iran's claim that three U.S. service members were killed in Kuwait is false. There have been no reports of U.S. casualties in the region; all personnel have been accounted for and are safe.
 
 ---
