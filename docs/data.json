@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-20 06:44:49",
-  "count": 19012,
+  "updated": "2026-07-20 06:48:43",
+  "count": 19027,
   "items": [
+    {
+      "id": "4996343",
+      "time": "2026-07-20 06:47:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上半年上海主要金融市場實現成交額同比增長24.1%】據上海釋出，上半年，上海全市主要金融市場實現成交額2269.16萬億元，同比增長24.1%。其中，上海期貨交易所成交額同比增長53.9%，上海黃金交易所成交額增長38.2%，上海證券交易所有價證券成交額增長35.2%，銀行間市場成交額增長16.6%。6月末，全市中外資金融機構本外幣存款餘額25.40萬億元，同比增長10.9%；貸款餘額13.60萬億元，增長5.9%。上半年，全市地方一般公共預算收入4943.33億元，同比增長5.5%；地方一般公共預算支出5302.14億元，增長10.7%。"
+    },
+    {
+      "id": "4996342",
+      "time": "2026-07-20 06:47:49",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【SpaceX將“星艦”第13次試飛推遲至7月23日】總檯記者當地時間7月19日獲悉，美國太空探索技術公司（SpaceX）表示，計劃於7月23日再次嘗試發射“星艦”火箭。16日，太空探索技術公司原定當天進行的“星艦”第13次試飛在點火階段因部分發動機未能啟動而自動中止。這原本將是太空探索技術公司今年6月上市後的首次發射任務。太空探索技術公司在該試飛取消後市值一度蒸發約1000億美元。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7c90-4ec1-7aab-8dfb-a2964b7f7b54",
+      "time": "2026-07-20 06:47:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shanghai main financial markets 1H turnover up 24.1% YoY】Shanghai's main financial markets recorded turnover of 2,269.16 tln yuan in 1H, up 24.1% YoY. By venue, Shanghai Futures Exchange turnover rose 53.9% YoY, Shanghai Gold Exchange +38.2%, Shanghai Stock Exchange tradable securities turnover +35.2%, and interbank market +16.6%. At end-June, deposits (domestic and foreign currency) at Shanghai financial institutions totaled 25.40 tln yuan, up 10.9% YoY; loans were 13.60 tln yuan, up 5.9%. Shanghai's 1H local general public budget revenue was 494.33 bln yuan, +5.5% YoY, with expenditure 530.21 bln yuan, +10.7%."
+    },
+    {
+      "id": "4996341",
+      "time": "2026-07-20 06:47:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克武裝組織否認近期一系列襲擊事件，同時揚言將打擊美國相關利益目標。"
+    },
+    {
+      "id": "4996340",
+      "time": "2026-07-20 06:46:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐西蘭6月進口額為80.7億紐西蘭元，出口額為80.9億紐西蘭元。"
+    },
+    {
+      "id": "4996339",
+      "time": "2026-07-20 06:45:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普將大力神杯頒給西班牙隊。"
+    },
+    {
+      "id": "mkt:019f7c8e-581a-7aab-8dfb-9870d2ea204a",
+      "time": "2026-07-20 06:45:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000001.SS",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai GDP up 5.6% YoY in 1H 2026】Shanghai reported 1H 2026 GDP of CNY 2.789 trillion, up 5.6% YoY. By sector, primary industry value added was CNY 3.576 bln (+0.9% YoY); secondary industry CNY 569.667 bln (+4.7%); tertiary industry CNY 2.215421 trillion (+5.9%)."
+    },
+    {
+      "id": "4996338",
+      "time": "2026-07-20 06:45:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年上半年上海市地區生產總值同比增長5.6%】據上海釋出，根據地區生產總值統一核算結果，上半年，上海全市實現地區生產總值27886.63億元，按不變價格計算，同比增長5.6%。分產業看，第一產業增加值35.76億元，同比增長0.9%；第二產業增加值5696.66億元，增長4.7%；第三產業增加值22154.21億元，增長5.9%。"
+    },
+    {
+      "id": "mkt:019f7c8e-1f19-7aab-8dfb-9592b2fa3058",
+      "time": "2026-07-20 06:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June imports NZD 8.07 bln; prior month revised from NZD 8.08 bln to NZD 8.07 bln."
+    },
+    {
+      "id": "mkt:019f7c8e-1e05-7aab-8dfb-8cf1a4a3cbd7",
+      "time": "2026-07-20 06:45:16",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand 12-month trade balance to June -NZD 3.75 bln; prior revised from -NZD 3.367 bln to -NZD 3.61 bln."
+    },
+    {
+      "id": "mkt:019f7c8e-1db6-7aab-8dfb-8664d4de21db",
+      "time": "2026-07-20 06:45:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand June exports NZD 8.09 bln; May revised down to NZD 8.65 bln from NZD 8.88 bln."
+    },
+    {
+      "id": "mkt:019f7c8e-0910-7aab-8dfb-7afded298bdc",
+      "time": "2026-07-20 06:45:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "New Zealand June trade balance NZ$23 mln; prior month revised down from NZ$800 mln to NZ$577 mln."
+    },
+    {
+      "id": "mkt:019f7c8d-e23f-7aab-8dfb-680d77a9c032",
+      "time": "2026-07-20 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Exports (Jun) | actual 8090000000.000001B | previous 8880000000B"
+    },
+    {
+      "id": "mkt:019f7c8d-e240-7aab-8dfb-770ae2c4df0a",
+      "time": "2026-07-20 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Imports (Jun) | actual 8070000000B | previous 8080000000B"
+    },
+    {
+      "id": "mkt:019f7c8d-e22a-7aab-8dfb-630dd1358916",
+      "time": "2026-07-20 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Trade Balance (Jun) | actual 23000000B | previous 800000000B"
+    },
+    {
+      "id": "mkt:019f7c8d-e227-7aab-8dfb-5b302b73ae33",
+      "time": "2026-07-20 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | 12-Month Trade Balance (Jun) | actual -3750000000B | previous -3367000000B"
+    },
     {
       "id": "4996337",
       "time": "2026-07-20 06:39:21",
@@ -175365,15 +175517,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌2%，現報58.94美元/盎司。"
-    },
-    {
-      "id": "4983126",
-      "time": "2026-07-13 06:48:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "一名美國官員稱，過去24小時內，約20艘民用船隻在美軍協調下通行霍爾木茲海峽，另有數艘船隻未經過美方協調自行透過該海峽。"
     }
   ]
 }
