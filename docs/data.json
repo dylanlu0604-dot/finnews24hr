@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-20 01:23:04",
-  "count": 19001,
+  "updated": "2026-07-20 01:27:00",
+  "count": 19002,
   "items": [
+    {
+      "id": "4996235",
+      "time": "2026-07-20 01:25:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伯納姆或將放開北海石油開採，特朗普對此表示歡迎】美國總統特朗普稱，有報道稱伯納姆或將支援北海新一輪油氣開採，蘇格蘭阿伯丁民眾會為此 “走上街頭歡慶”。目前有訊息稱伯納姆考慮批准北海羅斯班克油田、寒鴉油田新增化石燃料開採專案，但伯納姆本人並未證實該訊息。不過特朗普週日在自家社交平臺 “真實社交” 發帖，聲稱伯納姆已表態會放開開採。特朗普發文寫道：“蘇格蘭阿伯丁民眾都要上街狂歡了，因為新任首相安迪・伯納姆宣佈，將全面開發價值不可估量的北海石油！”這位長期公開力挺化石能源的美國總統表示，擴大北海開採能讓英國從 “深陷貧困的災難國家，蛻變為全球最富庶的國家之一”。他再度抨擊風電產業，稱英國應當遷走那些矗立在阿伯丁上空、觀感醜陋、破壞城市風貌的風力發電機。"
+    },
+    {
+      "id": "4996234",
+      "time": "2026-07-20 01:23:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列官員：隨著伊朗襲擊行動不斷加劇，美國將向以色列增派空中加油機。"
+    },
+    {
+      "id": "mkt:019f7b67-1071-7aab-8dfa-1a941707bb42",
+      "time": "2026-07-20 01:22:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Israeli media: Trump warns Gulf mediators failure to secure ceasefire this week could trigger significant escalation】Israeli Channel 13 reported President Trump told Gulf states involved in mediation that if a ceasefire is not secured this week, parties should prepare for a marked escalation. The warning followed Iran’s Sunday launch of four missiles toward Jordan and other parts of the Gulf and U.S. airstrikes inside Iran the same night. An Israeli senior military officer said that if missiles aimed at Jordan strike the southern Israeli city of Eilat, Israel would have to respond."
+    },
+    {
+      "id": "mkt:019f7b66-bf5b-7aab-8dfa-11cdb1215cad",
+      "time": "2026-07-20 01:22:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Rubio, Aoun discuss implementation of US-Lebanon-Israel framework】The US State Department said on the 19th that Secretary of State Rubio met visiting Lebanese President Aoun to discuss implementation of the US-Lebanon-Israel trilateral framework. They discussed disarming Hezbollah, destroying its \"terrorist infrastructure\" and steps to restore peace in Lebanon; Rubio reiterated US support for implementing the framework. Middle East media reported President Trump will meet Aoun at the White House on the 21st — Aoun's first formal meeting with a US president since taking office in Jan 2025 and the first visit by a Lebanese head of state to the White House since 2009."
+    },
     {
       "id": "4996233",
       "time": "2026-07-20 01:21:19",
@@ -175287,36 +175323,6 @@
         "國際"
       ],
       "text": "伊朗媒體：兩枚炮彈擊中霍爾木茲海峽附近的阿布穆薩島。"
-    },
-    {
-      "id": "mkt:019f575d-9298-7aab-8d46-66c500a9d575",
-      "time": "2026-07-13 01:26:17",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian outlet Fars News reported the Islamic Revolutionary Guard Corps (IRGC) earlier targeted a U.S. rocket-launch system in a drone operation in Kuwait."
-    },
-    {
-      "id": "4983036",
-      "time": "2026-07-13 01:25:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗媒體：革命衛隊在無人機行動中打擊了位於科威特境內的美軍火箭炮系統。"
-    },
-    {
-      "id": "4983035",
-      "time": "2026-07-13 01:25:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "伊朗媒體：美伊衝突再度爆發，伊朗南部海灣霍爾木茲甘省遭遇“敵方襲擊”，一名電信公司員工遇難，另有兩人受傷。"
     }
   ]
 }
