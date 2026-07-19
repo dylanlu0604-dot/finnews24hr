@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-19 22:18:48",
-  "count": 19006,
+  "updated": "2026-07-19 22:23:01",
+  "count": 19008,
   "items": [
+    {
+      "id": "mkt:019f7abf-97f0-7aab-8df8-ec935c0983b2",
+      "time": "2026-07-19 22:20:04",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China Reform says it has used over 50 billion yuan to stabilize markets】China Reform Holdings said entities under its Guoxin Investment unit have deployed more than 50 billion yuan of special re-lending for share buybacks and matching funds to support market stability. The firm said it will continue to use the re-lending policy tool and its own capital to further increase holdings in central state-owned enterprise shares to defend core-asset strategic value and maintain orderly market functioning."
+    },
+    {
+      "id": "4996171",
+      "time": "2026-07-19 22:19:36",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "埃及稱，Petrojet與ENPPI同阿曼石油開發公司簽署的EPC框架協議涵蓋專案價值超過60億美元。"
+    },
+    {
+      "id": "mkt:019f7abe-c430-7aab-8df8-e6a8f2927838",
+      "time": "2026-07-19 22:19:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China Chengtong makes large-scale purchases of Chinese equities】China Chengtong and affiliates Chengtong Capital and Chengyang Investment have bought nearly 10 bln yuan of Chinese equities in recent transactions, concentrated in central state-owned enterprises. The group says it will keep using proprietary funds, share repurchases and re‑lending to further increase large purchases of central SOE and technology stocks and ETFs to support market stability."
+    },
+    {
+      "id": "4996170",
+      "time": "2026-07-19 22:18:44",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "埃及石油部稱，Petrojet-ENPPI聯合體贏得與阿曼石油開發公司為期六年的EPC框架協議。"
+    },
     {
       "id": "4996169",
       "time": "2026-07-19 22:17:40",
@@ -175317,23 +175361,6 @@
         "MKT News"
       ],
       "text": "【Iranian academic says Tehran seeks to push new management framework for Strait of Hormuz】Tehran University senior researcher Mohammad Eslami said under Article 5 of a memorandum of understanding the United States has accepted arrangements for Iran and neighboring states to jointly manage the Strait of Hormuz. He said Iran's position is \"very clear\" — to advance a \"new management\" model — and stressed Tehran does not seek to close the strait. Eslami added Iran has engaged the US, Oman and several European countries on the framework and said if Washington disputes its interpretation of Article 5 it should consult Tehran."
-    },
-    {
-      "id": "4982956",
-      "time": "2026-07-12 22:21:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安達智慧回覆年報問詢函，內容涵蓋經營業績等七大方面】7月12日，安達智慧（SH688125，股價153.36元，市值125.95億元）釋出《關於2025年年度報告資訊披露監管問詢函的回覆公告》（以下簡稱回覆公告），就上交所關於公司2025年年度報告的資訊披露監管問詢函進行了詳細回覆，內容涵蓋公司經營業績、期間費用、應付票據、應收賬款、存貨、其他非流動資產及募投專案等七大方面。（每經）"
-    },
-    {
-      "id": "4982955",
-      "time": "2026-07-12 22:19:13",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【首批4只REITs指數基金募集收官 12億元增量資金入市】隨著7月10日中金基金披露旗下中證REITs全收益指數基金認購確認比例公告，易方達、華夏、南方、中金四大公募旗下首批4只REITs指數基金募集順利收官，近12億元增量資金為公募REITs市場注入新動力。作為國內首批標準化REITs指數投資工具，本次4只產品的成立推動國內公募REITs市場正式進入指數化發展的新階段，補齊了REITs指數化投資產品空白。有業內人士表示，REITs指數基金可以吸引險資、理財佈局，而且邏輯比股基ETF更順。（上證報）"
     }
   ]
 }

@@ -1,7 +1,51 @@
 {
   "date": "2026-07-19",
-  "count": 790,
+  "count": 794,
   "items": [
+    {
+      "id": "mkt:019f7abf-97f0-7aab-8df8-ec935c0983b2",
+      "time": "2026-07-19 22:20:04",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China Reform says it has used over 50 billion yuan to stabilize markets】China Reform Holdings said entities under its Guoxin Investment unit have deployed more than 50 billion yuan of special re-lending for share buybacks and matching funds to support market stability. The firm said it will continue to use the re-lending policy tool and its own capital to further increase holdings in central state-owned enterprise shares to defend core-asset strategic value and maintain orderly market functioning."
+    },
+    {
+      "id": "4996171",
+      "time": "2026-07-19 22:19:36",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "埃及稱，Petrojet與ENPPI同阿曼石油開發公司簽署的EPC框架協議涵蓋專案價值超過60億美元。"
+    },
+    {
+      "id": "mkt:019f7abe-c430-7aab-8df8-e6a8f2927838",
+      "time": "2026-07-19 22:19:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China Chengtong makes large-scale purchases of Chinese equities】China Chengtong and affiliates Chengtong Capital and Chengyang Investment have bought nearly 10 bln yuan of Chinese equities in recent transactions, concentrated in central state-owned enterprises. The group says it will keep using proprietary funds, share repurchases and re‑lending to further increase large purchases of central SOE and technology stocks and ETFs to support market stability."
+    },
+    {
+      "id": "4996170",
+      "time": "2026-07-19 22:18:44",
+      "tags": [
+        "公司",
+        "資料",
+        "國際"
+      ],
+      "text": "埃及石油部稱，Petrojet-ENPPI聯合體贏得與阿曼石油開發公司為期六年的EPC框架協議。"
+    },
     {
       "id": "mkt:019f7abd-655a-7aab-8df8-db8d28472407",
       "time": "2026-07-19 22:17:40",
