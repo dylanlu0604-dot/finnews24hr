@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-19 10:05:34",
-  "count": 19042,
+  "updated": "2026-07-19 10:09:26",
+  "count": 19040,
   "items": [
+    {
+      "id": "4995780",
+      "time": "2026-07-19 10:06:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【摩爾執行緒WAIC 2026披露三大“AI工廠”進展】7月17日至20日，2026世界人工智慧大會（WAIC）在上海召開。期間，摩爾執行緒首次公開三大“AI工廠”（即模型訓練工廠、詞元生產工廠、智慧體生產工廠）最新訓練與推理實踐資料。摩爾執行緒創始人、董事長兼執行長張建中介紹，在“模型訓練”方面，其叢集線性擴充套件效率達95%，斷點續訓有效時長佔比超90%。目前已實現MoE-236B基礎模型的從零完整訓練，以及北京大學5D世界模型EvoPhys-World的全棧原生訓練。在“詞元生產”環節，摩爾執行緒已實現對DeepSeek、MiniMax等主流大模型的“釋出即適配”，並推出基於MTT S5000的PD分離異構推理方案以提升算力價效比。此外，其“智慧體生產”業務推出了掌握60餘項技能（Skills）的自研數字智慧體“小麥”，及全棧具身智慧模擬平臺MT Lambda。"
+    },
     {
       "id": "mkt:019f781c-58f0-7aab-8df4-1e0facb56c05",
       "time": "2026-07-19 10:02:31",
@@ -175663,30 +175671,6 @@
         "國際"
       ],
       "text": "【吉林省14條河流超警戒 當地轉移超1.4萬人】受颱風“巴威”外圍水汽輸送影響，吉林省中東部出現大到暴雨，7月11日5時—7月12日5時，全省平均降雨量為27.5毫米，最大降水量為88.4毫米。此前，吉林省已將防汛防颱風應急響應提升至三級。截至7月12日6時，吉林省的飲馬河、蛟河等14條河流18個水位站超警戒0.04—1.14米。吉林省超汛限水位執行水庫11座，目前正在有序洩流。松遼委提前預洩騰庫應對9號颱風“巴威”，截至目前，豐滿、白山水庫在防洪高水位以下仍有67億庫容防洪空間。為保障遊客安全，吉林省內131個景區採取了關閉管控措施。截至7月12日，吉林省轉移群眾共14119人。（央視新聞）"
-    },
-    {
-      "id": "4982523",
-      "time": "2026-07-12 10:08:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版資料，周星馳導演電影累計票房已破60億。"
-    },
-    {
-      "id": "mkt:019f5415-733a-7aab-8d40-ebf4c35f705a",
-      "time": "2026-07-12 10:08:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baidu to unveil upgraded intelligent-agent suite and 'Chip-Cloud-Model' full-stack AI products at WAIC 2026】At WAIC 2026 in Shanghai (July 17-20), Baidu will showcase a full suite of intelligent agents and roll out upgrades to its 'Chip-Cloud-Model' full-stack AI product matrix. The company says the refresh spans core technology, application development and industry deployment; multiple agent products will receive capability upgrades aimed at lowering developer and user barriers and accelerating scaled roll-out across enterprise and consumer scenarios."
-    },
-    {
-      "id": "4982522",
-      "time": "2026-07-12 10:06:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【百度AI將亮相WAIC 2026，集中展示多款智慧體應用】即將於7月17日至7月20日在上海舉辦的世界人工智慧大會（WAIC 2026）上，百度AI將攜智慧體全家桶亮相，全方位呈現智慧體從技術升級、應用開發到產業賦能的最新成果。同時，百度“芯雲模體”全棧AI產品矩陣也將在WAIC現場釋出新升級，集中展示百度AI從底層技術創新到產業場景、個人應用的規模化落地進展。本屆WAIC上，百度多款智慧體產品將集中亮相併迎來能力升級，進一步完善智慧體工具鏈，降低應用開發和使用門檻，幫助更多開發者將創意快速轉化為產品，進化為AI時代的超級個體。（上觀）"
     }
   ]
 }
