@@ -1,7 +1,133 @@
 {
-  "updated": "2026-07-20 07:00:46",
-  "count": 19015,
+  "updated": "2026-07-20 07:07:57",
+  "count": 19019,
   "items": [
+    {
+      "id": "4996349",
+      "time": "2026-07-20 07:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【臺積電CFO：看到人工智慧晶片需求“強勁且將持續多年”】臺積電CFO稱， 看到人工智慧晶片需求“強勁且將持續多年”；亞利桑那州建廠工程存在實際條件限制；將與美國政府密切合作解決問題；若市場時機有利，不排除發行債券籌措資本支出所需資金。"
+    },
+    {
+      "id": "mkt:019f7c9d-d5b0-7aab-8dfb-dc1649e23cc2",
+      "time": "2026-07-20 07:02:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK July Rightmove average asking price index YoY -0.4% (prior -0.5%)."
+    },
+    {
+      "id": "te:economy:567996",
+      "time": "2026-07-20 07:02:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Imports Surge 28% in June — Imports to New Zealand surged 28% year-on-year to NZD 8.1 billion in June 2026, following a 25.9% rise in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 100%), mechanical machinery and equipment (23%), vehicles, parts, and accessories (12%), and electrical machinery and equipment (36%)."
+    },
+    {
+      "id": "mkt:019f7c9d-bfd2-7aab-8dfb-d6bce4a9011a",
+      "time": "2026-07-20 07:02:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Rightmove House Price Index (YoY) (Jul) | actual -0.4% | previous -0.50%"
+    },
+    {
+      "id": "mkt:019f7c9d-bdc1-7aab-8dfb-ccf838e10fe4",
+      "time": "2026-07-20 07:02:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK July Rightmove average asking price index MoM -1.0%; prior -0.6%."
+    },
+    {
+      "id": "mkt:019f7c9d-a084-7aab-8dfb-c0be3763d0aa",
+      "time": "2026-07-20 07:02:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Rightmove House Price Index (MoM) (Jul) | actual -1% | previous -0.60%"
+    },
+    {
+      "id": "4996348",
+      "time": "2026-07-20 07:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國7月房價環比下跌1%。"
+    },
+    {
+      "id": "4996347",
+      "time": "2026-07-20 07:01:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國7月房價同比下跌0.4%。"
+    },
+    {
+      "id": "mkt:019f7c9c-a71b-7aab-8dfb-ba614813db03",
+      "time": "2026-07-20 07:01:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.O",
+        "Impact mixed"
+      ],
+      "text": "TSMC CFO said the company may issue bonds to fund capital expenditure if market conditions are favorable."
+    },
+    {
+      "id": "mkt:019f7c9c-5a24-7aab-8dfb-b347037c310e",
+      "time": "2026-07-20 07:00:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N) CFO said construction of the Arizona fab is facing physical constraints and the company is working closely with the US government."
+    },
+    {
+      "id": "mkt:019f7c9c-4e6b-7aab-8dfb-a810df9678c6",
+      "time": "2026-07-20 07:00:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "TSMC (TSM.N) CFO said AI chip demand is strong and will persist for years."
+    },
+    {
+      "id": "te:economy:567995",
+      "time": "2026-07-20 07:00:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Exports Rise 25% in June — New Zealand’s exports increased 25% year-on-year to NZD 8.1 billion in June 2026, after an 8.1% rise in the previous month. Export growth was mainly driven by higher sales of milk powder, butter, and cheese (16%); meat and edible offal (52%); preparations of milk, cereals, flour, and starch (130%); and aluminum and aluminum articles (74%)."
+    },
     {
       "id": "4996346",
       "time": "2026-07-20 06:59:34",
@@ -175346,77 +175472,6 @@
         "其他"
       ],
       "text": "【立邦塗料據悉求購阿克蘇諾貝爾裝飾漆業務，對後者估值近86億美元】據報道，立邦塗料在三週前向阿克蘇諾貝爾裝飾漆業務提出首次報價，並於上週提出後續報價，對該業務的估值為75億歐元（約合86億美元）。據悉，阿克蘇諾貝爾管理層尚未就該報價與立邦接觸，也未向股東通報。知情人士稱，最終決定尚未做出，立邦塗料可能選擇放棄收購。"
-    },
-    {
-      "id": "4983146",
-      "time": "2026-07-13 07:07:52",
-      "tags": [
-        "央行",
-        "宏觀",
-        "公司"
-      ],
-      "text": "【24%利率紅線鎖利，“套娃式”獲客模式終結】近期，多位業內人士透露，多地針對屬地中小銀行及持牌消費金融公司出臺視窗指導意見，對助貸渠道貸款規模增速以及業務邊界提出明確量化指標，同時重申融擔類業務佔比不得超過25%。此舉旨在推動持牌機構迴歸自營，壓實自主風控責任，並降低對外部平臺的依賴。這一導向延續了2025年以來金融監管部門密集出臺的政策脈絡。其中，央行等八部門聯合印發的《金融產品網路營銷管理辦法》（下稱《辦法》）從營銷端收緊了助貸行業的生存空間，意味著助貸平臺過去靠API直連包辦一切的模式宣告終結。《辦法》將於9月30日實施，整改視窗期已不足3個月。另一道監管鐵閘——《個人貸款業務明示綜合融資成本規定》將於8月1日率先落地，要求產品息費透明化，使得24%的貸款利率成為剛性紅線。一場“合規風暴”正以超預期力度席捲消費金融生態，助貸行業或迎來空前的深度洗牌。（上證報）"
-    },
-    {
-      "id": "4983145",
-      "time": "2026-07-13 07:07:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新股提示：北交所維琪科技今日申購】今日可申購北交所新股維琪科技，維琪科技發行總數約883萬股，發行市盈率14.99倍，申購程式碼920176，申購價格22.16元。"
-    },
-    {
-      "id": "4983144",
-      "time": "2026-07-13 07:06:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【基本半導體：部分產品價格預計上調幅度最高不超25%】7月13日，基本半導體在港交所公告，鑑於2026年以來隨著全球人工智慧（AI）、新能源汽車等新興應用的快速發展，帶動市場需求持續增長，行業供需關係維持緊平衡狀態。經綜合評估市場環境、成本變化及整體經營策略，集團將自2026年第三季度起，對部分產品銷售價格進行適度調整，以支援持續研發投入，保障產品品質及供應穩定性。部分產品價格預計上調幅度最高不超過25%，具體調整方案將根據產品類別、訂單規模、合作模式、市場區域及雙方商業安排等因素綜合確定，並與相關客戶有序實施。價格調整屬於集團正常業務過程的一部分。集團與其客戶的商業關係保持穩定，且實施價格調整乃基於市況。"
-    },
-    {
-      "id": "4983143",
-      "time": "2026-07-13 07:06:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【資料顯示：歐洲在6月下旬熱浪期間錄得1萬例超額死亡】官方資料顯示，歐洲國家在 6 月下旬席捲歐洲大陸西部的熱浪期間，報告了超過 1 萬例超額死亡。根據歐洲死亡率監測網路（EuroMOMO）釋出的資料，其中絕大多數（超過 9000 例）發生在 65 歲及以上人群中。該網路由歐洲疾病預防控制中心和世界衛生組織支援。極端高溫可透過引發中暑或加劇心血管及呼吸系統疾病導致死亡，其中老年人是最脆弱的群體之一。\"在一年中的這個時段出現如此高的超額死亡率實屬罕見，這確實非常高。\"負責運營 EuroMOMO 的丹麥國家血清研究所首席醫師拉塞·韋斯特加德表示。\"除了極端高溫，很難用其他原因解釋如此高的超額死亡率。\"韋斯特加德補充道。科學家指出，若無人類活動導致的氣候變化，6月下旬的這場熱浪\"幾乎不可能\"發生——氣候變化正使熱浪變得更加頻繁和劇烈。這些資料彙集了27個歐洲國家的國家死亡率統計資料，涵蓋了6月22日至28日這一週內所有原因導致的超額死亡人數，而不僅僅是與高溫相關的死亡。當時，法國、西班牙、英國等國正經歷熱浪高峰。但科學家表示，沒有其他已知的主要因素，例如新冠疫情暴發， 會導致該周超額死亡人數激增至 10650 人。"
-    },
-    {
-      "id": "4983142",
-      "time": "2026-07-13 07:04:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "【遠端操控人形機器人首次完成外科手術】據新一期《自然》雜誌報道，美國加州大學聖迭戈分校工程團隊與外科醫生團隊，完成了全球首例利用遠端操控人形機器人進行實時臨床手術的試驗。研究團隊介紹，此次試驗中的一項手術由一臺人形機器人與一名擔任助手的人類外科醫生組成“人機團隊”，實施了膽囊切除。另一項手術則由兩臺人形機器人組成“機器人團隊”協同完成。兩項手術均在大型非靈長類哺乳動物身上實施並取得成功。（科技日報）"
-    },
-    {
-      "id": "te:markets:566147",
-      "time": "2026-07-13 07:04:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Pulls Back from Record High — The NZX 50 dropped 64 points, or 0.5%, to 13,721 in Monday morning trade as traders took profits after the index hit a record high in the previous session, with the market resuming after Friday's holiday closure. Escalating conflict in the Middle East also weighed on sentiment amid rising oil prices, as inflation concerns fueled expectations of further interest rate hikes. Investors also awaited the release of US inflation data, along with key Chinese economic data, including Q2 GDP. However, fresh domestic data helped limit the decline, as New Zealand's private sector recorded its strongest growth since December 2025. The services sector returned to expansion, while manufacturing grew at its fastest pace since July 2021. Consumer staples, communication services, and real estate stocks led the declines, with A2 Milk falling 3.4% following weaker Global Dairy Trade auction results. Other early decliners included Chorus (-1.9%), Delegat Group (-1.9%), and Fletcher Building (-1.7%)."
-    },
-    {
-      "id": "4983141",
-      "time": "2026-07-13 07:04:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4070美元/盎司，日內跌1.21%。"
-    },
-    {
-      "id": "mkt:019f5891-9c69-7aab-8d47-b9f13056c448",
-      "time": "2026-07-13 07:02:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The UK government plans to spend £250 million over the next three years to protect the Jewish community and tackle antisemitism."
     }
   ]
 }

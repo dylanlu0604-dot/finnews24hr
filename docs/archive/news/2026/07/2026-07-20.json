@@ -1,7 +1,133 @@
 {
   "date": "2026-07-20",
-  "count": 216,
+  "count": 228,
   "items": [
+    {
+      "id": "4996349",
+      "time": "2026-07-20 07:03:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【臺積電CFO：看到人工智慧晶片需求“強勁且將持續多年”】臺積電CFO稱， 看到人工智慧晶片需求“強勁且將持續多年”；亞利桑那州建廠工程存在實際條件限制；將與美國政府密切合作解決問題；若市場時機有利，不排除發行債券籌措資本支出所需資金。"
+    },
+    {
+      "id": "mkt:019f7c9d-d5b0-7aab-8dfb-dc1649e23cc2",
+      "time": "2026-07-20 07:02:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK July Rightmove average asking price index YoY -0.4% (prior -0.5%)."
+    },
+    {
+      "id": "te:economy:567996",
+      "time": "2026-07-20 07:02:21",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Imports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Imports Surge 28% in June — Imports to New Zealand surged 28% year-on-year to NZD 8.1 billion in June 2026, following a 25.9% rise in the previous month. The surge in import growth was mainly driven by higher purchases of petroleum and petroleum products (up 100%), mechanical machinery and equipment (23%), vehicles, parts, and accessories (12%), and electrical machinery and equipment (36%)."
+    },
+    {
+      "id": "mkt:019f7c9d-bfd2-7aab-8dfb-d6bce4a9011a",
+      "time": "2026-07-20 07:02:20",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Rightmove House Price Index (YoY) (Jul) | actual -0.4% | previous -0.50%"
+    },
+    {
+      "id": "mkt:019f7c9d-bdc1-7aab-8dfb-ccf838e10fe4",
+      "time": "2026-07-20 07:02:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK July Rightmove average asking price index MoM -1.0%; prior -0.6%."
+    },
+    {
+      "id": "mkt:019f7c9d-a084-7aab-8dfb-c0be3763d0aa",
+      "time": "2026-07-20 07:02:12",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Rightmove House Price Index (MoM) (Jul) | actual -1% | previous -0.60%"
+    },
+    {
+      "id": "4996348",
+      "time": "2026-07-20 07:01:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國7月房價環比下跌1%。"
+    },
+    {
+      "id": "4996347",
+      "time": "2026-07-20 07:01:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國7月房價同比下跌0.4%。"
+    },
+    {
+      "id": "mkt:019f7c9c-a71b-7aab-8dfb-ba614813db03",
+      "time": "2026-07-20 07:01:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "TSM.O",
+        "Impact mixed"
+      ],
+      "text": "TSMC CFO said the company may issue bonds to fund capital expenditure if market conditions are favorable."
+    },
+    {
+      "id": "mkt:019f7c9c-5a24-7aab-8dfb-b347037c310e",
+      "time": "2026-07-20 07:00:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bearish"
+      ],
+      "text": "TSMC (TSM.N) CFO said construction of the Arizona fab is facing physical constraints and the company is working closely with the US government."
+    },
+    {
+      "id": "mkt:019f7c9c-4e6b-7aab-8dfb-a810df9678c6",
+      "time": "2026-07-20 07:00:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.N",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "TSMC (TSM.N) CFO said AI chip demand is strong and will persist for years."
+    },
+    {
+      "id": "te:economy:567995",
+      "time": "2026-07-20 07:00:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Exports",
+        "Importance 1"
+      ],
+      "text": "New Zealand Exports Rise 25% in June — New Zealand’s exports increased 25% year-on-year to NZD 8.1 billion in June 2026, after an 8.1% rise in the previous month. Export growth was mainly driven by higher sales of milk powder, butter, and cheese (16%); meat and edible offal (52%); preparations of milk, cereals, flour, and starch (130%); and aluminum and aluminum articles (74%)."
+    },
     {
       "id": "4996346",
       "time": "2026-07-20 06:59:34",
