@@ -1,7 +1,23 @@
 {
   "date": "2026-07-20",
-  "count": 34,
+  "count": 36,
   "items": [
+    {
+      "id": "4996225",
+      "time": "2026-07-20 00:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗原子能組織呼籲立即譴責美國的侵略行為。"
+    },
+    {
+      "id": "mkt:019f7b49-bd53-7aab-8df9-d13b247d5627",
+      "time": "2026-07-20 00:50:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Al Jazeera, the foreign ministers of Oman and Jordan called for intensified political mediation to prevent escalation and warned the region could slide into further confrontation."
+    },
     {
       "id": "mkt:019f7b46-29e4-7aab-8df9-cdf55cefa013",
       "time": "2026-07-20 00:47:03",

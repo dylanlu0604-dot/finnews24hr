@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-20 00:48:34",
-  "count": 19003,
+  "updated": "2026-07-20 00:52:38",
+  "count": 19004,
   "items": [
+    {
+      "id": "4996225",
+      "time": "2026-07-20 00:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗原子能組織呼籲立即譴責美國的侵略行為。"
+    },
+    {
+      "id": "mkt:019f7b49-bd53-7aab-8df9-d13b247d5627",
+      "time": "2026-07-20 00:50:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Al Jazeera, the foreign ministers of Oman and Jordan called for intensified political mediation to prevent escalation and warned the region could slide into further confrontation."
+    },
     {
       "id": "mkt:019f7b46-29e4-7aab-8df9-cdf55cefa013",
       "time": "2026-07-20 00:47:03",
@@ -175312,14 +175328,6 @@
         "國際"
       ],
       "text": "特朗普發文悼念格雷厄姆參議員：（全美所有）國旗降半旗，哀悼持續至週六傍晚六點。"
-    },
-    {
-      "id": "4983018",
-      "time": "2026-07-13 00:51:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特武裝部隊總司令部強調，該國武裝力量仍處於全面戰備狀態，並已採取一切必要措施和行動，以維護國家安全和領土完整。"
     }
   ]
 }
