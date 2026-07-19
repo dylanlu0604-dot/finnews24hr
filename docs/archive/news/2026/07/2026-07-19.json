@@ -1,7 +1,65 @@
 {
   "date": "2026-07-19",
-  "count": 377,
+  "count": 384,
   "items": [
+    {
+      "id": "mkt:019f78eb-4fc9-7aab-8df5-4e0d9b0f9e60",
+      "time": "2026-07-19 13:48:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China 2026 year-to-date box office tops 20 billion yuan】Lighthouse Pro data show China’s 2026 box office (including presales) surpassed 20 billion yuan as of July 19."
+    },
+    {
+      "id": "4995871",
+      "time": "2026-07-19 13:47:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗議會國家安全與外交政策委員會主席團成員阿米爾・哈亞特 - 穆加達姆稱，戰場實戰情況已經證明，伊朗國產無人機 —— 尤其是低成本型號，重塑了各方軍事推演邏輯，給美方裝備帶來嚴峻挑戰。"
+    },
+    {
+      "id": "4995870",
+      "time": "2026-07-19 13:47:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭空軍稱，在俄羅斯夜間發射的41枚導彈中擊落了18枚。"
+    },
+    {
+      "id": "mkt:019f78e9-c77b-7aab-8df5-43ed78f663ac",
+      "time": "2026-07-19 13:46:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's air force said it shot down 18 of 41 missiles Russia launched overnight."
+    },
+    {
+      "id": "mkt:019f78e9-af10-7aab-8df5-3ef3f7e91967",
+      "time": "2026-07-19 13:46:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel-Lebanon conflict devastates southern Lebanon harvests】Israeli forces maintain a military presence in southern Lebanon and continue to carry out occasional air strikes. Some residents have returned to harvest residual wheat, reporting this summer’s yield at roughly 25% of a normal year; most planted crops are usable only as dry fodder for cattle."
+    },
+    {
+      "id": "4995869",
+      "time": "2026-07-19 13:46:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【颯智智慧首發世界模型“玄樞·SageNexus”】2026世界人工智慧大會7月17日至7月20日在上海舉行，颯智智慧首發世界模型“玄樞·SageNexus”。據颯智智慧創始人張建政介紹，玄樞世界模型的核心突破在於內化物理因果，實現主動預測。透過將視覺、動作、力控、工藝等多模態工業感知資料進行深度融合與訓練，機器人不僅能理解工業世界狀態、預測動作後果，更能在長程策略中融入工藝與場景約束。基於該模型沉澱的具身智慧基礎與場景技能庫，已累計2000多個場景技能。"
+    },
+    {
+      "id": "4995868",
+      "time": "2026-07-19 13:46:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "截至目前，2026年中國電影總票房（含預售）突破200億元，《飛馳人生3》《給阿嬤的情書》《鏢人：風起大漠》《驚蟄無聲》《功夫女足》暫列年度票房前五名 。（央視新聞）"
+    },
     {
       "id": "4995867",
       "time": "2026-07-19 13:44:36",
