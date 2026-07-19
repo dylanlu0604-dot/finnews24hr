@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-19 10:09:26",
-  "count": 19040,
+  "updated": "2026-07-19 10:13:19",
+  "count": 19038,
   "items": [
+    {
+      "id": "4995784",
+      "time": "2026-07-19 10:12:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國首個具身智慧實訓場樣板點發布】在19日上午舉行的2026 WAIC人形機器人與具身智慧創新發展論壇上，國家地方共建人形機器人創新中心攜手華為打造的全國首個具身智慧實訓場樣板點發布。(第一財經)"
+    },
+    {
+      "id": "4995782",
+      "time": "2026-07-19 10:11:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：墨西哥馬德羅港西南 85 公里處發生 5.3 級地震。"
+    },
+    {
+      "id": "4995781",
+      "time": "2026-07-19 10:10:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里雲百鍊上線開放式世界模型HappyOyster 1.0】阿里雲百鍊宣佈上線可實時構建和互動的開放式世界模型產品HappyOyster 1.0（快樂生蠔1.0）。據介紹，HappyOyster 1.0具備世界探索（Adventure）和實時導演（Directing）兩大模式，使用者輸入一句話或一張圖即可生成可互動、可探索的AI數字世界。目前已提供Android/iOS/Web三端SDK，在阿里雲百鍊開啟灰測。"
+    },
     {
       "id": "4995780",
       "time": "2026-07-19 10:06:54",
@@ -175630,47 +175654,6 @@
         "Impact bullish"
       ],
       "text": "【SK Hynix sees HBM prices doubling by 2027】SK Hynix CEO Kwak Noh-jung said late Friday US time (July 10) he expects 2027 to be the tightest year in memory supply and that HBM prices could double by 2027. He said customers are seeking long-term supply contracts as demand rises while SK Hynix faces capacity limits; despite expansion plans, customer demand may still exceed the company’s supply even after 2030. A domestic investor familiar with Korean memory firms said overseas memory executives are watching Chinese capacity expansion closely, and ChangXin Memory (CXMT) and Yangtze Memory Technologies (YMTC) could be the biggest long-term variable for the market."
-    },
-    {
-      "id": "4982529",
-      "time": "2026-07-12 10:12:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中央氣象臺7月12日10時繼續釋出強對流天氣黃色預警】預計7月12日14時至13日14時，內蒙古東部、東北地區南部、華北南部、西南地區東部、江淮、江南東部和北部等地的部分地區將有8級以上雷暴大風或冰雹天氣，其中，安徽中南部、江蘇中南部、浙江西北部等地的部分地區將有10級以上雷暴大風，最大風力可達11級以上，局地不排除出現龍捲的可能性；內蒙古東部、東北地區中南部、華北東部和南部、西南地區東部和南部、江淮、江南等地的部分地區將有小時雨量大於20毫米的短時強降水天氣，其中，遼寧中西部和北部、河北東北部、安徽中南部、江蘇南部、江西中北部等地的部分地區小時雨量大於50毫米，最大可達80毫米以上。"
-    },
-    {
-      "id": "4982528",
-      "time": "2026-07-12 10:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗霍梅因地區出現導彈發射活動。"
-    },
-    {
-      "id": "4982527",
-      "time": "2026-07-12 10:11:48",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗對美國目標發動一系列襲擊。"
-    },
-    {
-      "id": "4982526",
-      "time": "2026-07-12 10:11:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【諾安基金總經理齊斌離職 劉翔接任】諾安基金7月11日公告，齊斌因個人原因離任公司總經理職務，原副總經理劉翔升任總經理。劉翔曾在中化體系擔任多個職務，2024年3月加入諾安基金，2025年4月擔任副總經理。"
-    },
-    {
-      "id": "4982524",
-      "time": "2026-07-12 10:10:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【吉林省14條河流超警戒 當地轉移超1.4萬人】受颱風“巴威”外圍水汽輸送影響，吉林省中東部出現大到暴雨，7月11日5時—7月12日5時，全省平均降雨量為27.5毫米，最大降水量為88.4毫米。此前，吉林省已將防汛防颱風應急響應提升至三級。截至7月12日6時，吉林省的飲馬河、蛟河等14條河流18個水位站超警戒0.04—1.14米。吉林省超汛限水位執行水庫11座，目前正在有序洩流。松遼委提前預洩騰庫應對9號颱風“巴威”，截至目前，豐滿、白山水庫在防洪高水位以下仍有67億庫容防洪空間。為保障遊客安全，吉林省內131個景區採取了關閉管控措施。截至7月12日，吉林省轉移群眾共14119人。（央視新聞）"
     }
   ]
 }
