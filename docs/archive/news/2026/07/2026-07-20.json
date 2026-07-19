@@ -1,7 +1,23 @@
 {
   "date": "2026-07-20",
-  "count": 77,
+  "count": 79,
   "items": [
+    {
+      "id": "mkt:019f7b9b-d68b-7aab-8dfa-54181e4143a1",
+      "time": "2026-07-20 02:20:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fox News: White House confirmed President Trump will present the World Cup trophy to the winner of today’s Argentina v Spain final."
+    },
+    {
+      "id": "4996252",
+      "time": "2026-07-20 02:20:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮證實，特朗普總統將為今日阿根廷對陣西班牙的世界盃決賽冠軍頒發大力神杯。"
+    },
     {
       "id": "4996251",
       "time": "2026-07-20 02:16:42",
