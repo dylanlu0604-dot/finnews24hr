@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-19 21:14:06",
-  "count": 18989,
+  "updated": "2026-07-19 21:18:13",
+  "count": 18992,
   "items": [
+    {
+      "id": "mkt:019f7a85-c1da-7aab-8df8-31947f44a34f",
+      "time": "2026-07-19 21:16:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Kuwait says power and desalination plants struck three times in three days】Kuwait's Ministry of Electricity, Water and Renewable Energy said on the 19th that the power and desalination plant hit on the 17th was struck again, marking the third attack on such facilities in three days. The ministry blamed Iran for the strikes, saying fires and damage affected multiple generating units. Kuwait activated emergency plans to contain losses and maintain national grid stability and urged residents to conserve electricity to reduce system load."
+    },
+    {
+      "id": "4996142",
+      "time": "2026-07-19 21:16:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音高管波普表示，737型飛機生產對公司投資下一代機型至關重要。"
+    },
+    {
+      "id": "4996141",
+      "time": "2026-07-19 21:16:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特稱其發電及海水淡化廠三日內連續遭襲】科威特電力、水利和可再生能源部19日發表宣告說，該國17日遭襲的發電及海水淡化廠當天再次遭到襲擊。這是該國三天內第三次有發電及海水淡化廠遭襲。 該部門當天在社交媒體發表宣告說，襲擊由伊朗發動，導致廠區起火併造成大量發電機組執行受影響。科威特政府立即啟動應急預案，全力控制損失，維護國家電網穩定執行。 宣告同時呼籲當地民眾節約用電，以減輕電力系統負荷。 該部門18日表示，該國當天有發電及海水淡化廠受到襲擊並引發火災。 19日早些時候，科威特武裝部隊表示，其防空系統“正在攔截敵方的導彈和無人機襲擊”。（新華社）"
+    },
+    {
+      "id": "4996140",
+      "time": "2026-07-19 21:15:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴特：將採取一切措施，在數週、數月內壓低能源價格。"
+    },
+    {
+      "id": "4996139",
+      "time": "2026-07-19 21:15:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音表示，寬體客機的增產進度受發動機產能制約。"
+    },
+    {
+      "id": "4996138",
+      "time": "2026-07-19 21:14:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【包鋼股份產品成功進入國內戶用光伏領域龍頭企業採購名單】日前，記者從包鋼股份營銷中心獲悉，包鋼股份鋅鋁鎂鍍層產品成功進入國內戶用光伏領域龍頭企業採購名單，並獲得3480噸供貨訂單。"
+    },
+    {
+      "id": "4996137",
+      "time": "2026-07-19 21:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：阿拉伯灣地區原油日出口量略低於1400萬桶。"
+    },
     {
       "id": "mkt:019f7a82-81f5-7aab-8df8-2a2b4a1b5208",
       "time": "2026-07-19 21:13:20",
@@ -175151,42 +175212,6 @@
         "其他"
       ],
       "text": "內塔尼亞胡表示：格雷厄姆去世後，他感到震驚。"
-    },
-    {
-      "id": "4982930",
-      "time": "2026-07-12 21:18:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "提示：特朗普發言結束。"
-    },
-    {
-      "id": "4982929",
-      "time": "2026-07-12 21:16:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普提及昨夜對伊朗實施打擊，但拒絕詳述細節。"
-    },
-    {
-      "id": "mkt:019f5677-b5fe-7aab-8d45-2d24ce15ad54",
-      "time": "2026-07-12 21:15:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "MSNBC cited President Trump saying the Strait of Hormuz is open."
-    },
-    {
-      "id": "4982928",
-      "time": "2026-07-12 21:14:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽暢通無阻，我們曾對其實施猛烈轟炸。"
     }
   ]
 }
