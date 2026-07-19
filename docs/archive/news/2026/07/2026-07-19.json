@@ -1,7 +1,31 @@
 {
   "date": "2026-07-19",
-  "count": 231,
+  "count": 234,
   "items": [
+    {
+      "id": "mkt:019f77ef-3211-7aab-8df3-fdfcf4f728b5",
+      "time": "2026-07-19 09:13:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【High-level global AI governance meeting held in Shanghai】The 2026 World Artificial Intelligence Conference and High-Level Meeting on Global AI Governance convened in Shanghai on July 18, with dozens of government agency representatives discussing global governance challenges, widening access and sharing of AI technologies, and mitigating AI security risks. China urged support for the UN Global AI Governance Dialogue and the International AI Science Panel to play an active role, provide more international public goods, help strengthen capacity building in the Global South and advance a broadly consensual global AI governance framework; the proposals drew positive responses."
+    },
+    {
+      "id": "4995760",
+      "time": "2026-07-19 09:12:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：烏克蘭無人機襲擊俄羅斯斯塔夫羅波爾邊疆區米哈伊洛夫斯克一處油庫。"
+    },
+    {
+      "id": "4995759",
+      "time": "2026-07-19 09:11:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【簡智機器人與速騰聚創達成戰略合作】7月19日，WAIC 2026展會期間，簡智機器人與RoboSense速騰聚創共同宣佈達成戰略合作。雙方將圍繞真實世界多視角Ego資料採集等業務展開協同，共同建設高質量、多模態三維物理世界資料體系。"
+    },
     {
       "id": "4995758",
       "time": "2026-07-19 09:06:56",
