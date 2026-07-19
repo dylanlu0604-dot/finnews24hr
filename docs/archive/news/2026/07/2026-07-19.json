@@ -1,7 +1,16 @@
 {
   "date": "2026-07-19",
-  "count": 839,
+  "count": 840,
   "items": [
+    {
+      "id": "mkt:019f7b19-ebb6-7aab-8df9-5c83f1af44a8",
+      "time": "2026-07-19 23:58:44",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tasnim News Agency reports Iran says the explosion in Abadan was related to Iranian military operations and was not a U.S. attack."
+    },
     {
       "id": "mkt:019f7b10-0f52-7aab-8df9-530973db5922",
       "time": "2026-07-19 23:47:57",
