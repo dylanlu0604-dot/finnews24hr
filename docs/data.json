@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19 13:42:50",
-  "count": 18978,
+  "updated": "2026-07-19 13:46:56",
+  "count": 18977,
   "items": [
+    {
+      "id": "4995867",
+      "time": "2026-07-19 13:44:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國核電兩專案入圍工信部2025年人工智慧產業及賦能新型工業化創新任務揭榜掛帥清單】近日，工信部公佈2025年人工智慧產業及賦能新型工業化創新任務揭榜掛帥入圍名單，中國核電旗下中核武漢“核電人工智慧數智協同賦能平臺”和“基於大模型的核電網路安全風險監測診斷平臺”兩個專案入選，標誌中國核電人工智慧技術研發與應用落地能力獲得國家級權威認可。"
+    },
+    {
+      "id": "4995866",
+      "time": "2026-07-19 13:42:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九方智投亮相 WAIC 2026：以AI重構投顧正規化，推動智慧投顧服務更可信、更普惠】2026世界人工智慧大會（WAIC）舉行。九方智投控股旗下上海九方雲智慧科技有限公司（簡稱“九方智投”）亮相“人工智慧引領產業變革思客會”平行論壇，參與“模數共振”議題討論。九方智投CTO邱林表示，公司依託海量產業資料與自研金融大模型，打通實體產業與資本市場的數字橋樑，為個人投資者提供普惠化、智慧化的投顧服務，進而助力新型工業化發展。未來3—5年，在“科技+投研”雙輪驅動下，九方智投將以AI重構投顧工作流，推動從“工具輔助”向“智慧體協作”的正規化躍遷；同時聚焦使用者信任建設，著力攻克AI決策可追溯、可解釋等行業共性難題，在嚴守金融合規底線的前提下擁抱投顧創新，為資本市場和實體經濟提供更多可落地的服務方案。"
+    },
     {
       "id": "4995865",
       "time": "2026-07-19 13:38:53",
@@ -175094,33 +175110,6 @@
         "國際"
       ],
       "text": "【今日特朗普要聞】\n1、多名美國高階官員表示，特朗普政府認為，與伊朗達成核協議的希望愈發渺茫。\n2、兩名美國官員透露，特朗普近期一直在聽取關於烏克蘭新型遠端打擊能力的情報簡報，並且對其打擊效果印象深刻。\n3、特朗普稱，“即便所有媒體都對我極盡抹黑、充斥虛假新聞，我依舊以壓倒性大勝拿下總統大選。”\n4、美國白宮10日證實，美國總統特朗普已解除美國選舉援助委員會兩名在任成員的職務。\n5、特朗普稱，“這次主動要求再加做一套認知能力測試，我是唯一先後三次主動接受該項測試的總統，而且三次測試全部拿滿分，所有題目全部答對。”"
-    },
-    {
-      "id": "4982663",
-      "time": "2026-07-12 13:46:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "當地官員稱，美軍空襲打擊了伊朗韋西安郊區地帶。"
-    },
-    {
-      "id": "4982662",
-      "time": "2026-07-12 13:43:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗釋出伊朗革命衛隊海軍與航空航天部隊凌晨前對美軍地區據點實施報復打擊現場畫面。"
-    },
-    {
-      "id": "mkt:019f54d9-f7db-7aab-8d42-5477387e329b",
-      "time": "2026-07-12 13:43:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Analyst: US, Iran unwilling to yield; Strait of Hormuz may become \"long-term powder keg\"】Ian Ralby, senior fellow at the Center for Maritime Strategy and president of Auxilium Worldwide, warned the US‑Iran standoff around the Strait of Hormuz cannot be resolved by military means and that continued fighting would likely push up global fuel and food costs. He said one side wants to keep fighting while the other aims to degrade its opponent’s capabilities, a dynamic that tends to prolong conflict and could turn the Strait into a long‑term navigational risk. Affected parties may press for renewed diplomacy, but Ralby said changing the dynamic will be difficult because both sides are volatile and have entrenched stakes in victory; Washington’s notion of victory is flexible, while Iran has a clear desire for retaliation, raising the prospect of sustained violence."
     }
   ]
 }
