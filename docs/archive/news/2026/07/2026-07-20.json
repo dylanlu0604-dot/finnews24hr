@@ -1,7 +1,15 @@
 {
   "date": "2026-07-20",
-  "count": 3,
+  "count": 4,
   "items": [
+    {
+      "id": "mkt:019f7b29-0746-7aab-8df9-7e3b7768ed38",
+      "time": "2026-07-20 00:15:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's National News Agency reported Israeli forces dropped a blast bomb on the southern town of Harris and shelled the nearby towns of Shamaa, Majdal Zoun and Beit Sayyed."
+    },
     {
       "id": "mkt:019f7b21-f0e7-7aab-8df9-700859926184",
       "time": "2026-07-20 00:07:29",
