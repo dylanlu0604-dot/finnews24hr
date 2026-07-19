@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19 13:51:01",
+  "updated": "2026-07-19 13:55:03",
   "count": 18981,
   "items": [
+    {
+      "id": "4995873",
+      "time": "2026-07-19 13:53:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍宣佈，週日將舉行要求在加沙地帶重建以色列定居點的大型示威活動，為此以軍已將加沙邊境沿線多處區域劃定為軍事封鎖區。"
+    },
+    {
+      "id": "4995872",
+      "time": "2026-07-19 13:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會國家安全與外交政策委員會議員穆赫塞尼 - 薩尼於週日表態：霍爾木茲海峽一旦封鎖，其根源正是美國一手製造的安全危機。美國部署在波斯灣諸國的軍事基地，早已淪為對外軍事幹預的載體，根本無助於地區安全。"
+    },
     {
       "id": "mkt:019f78eb-4fc9-7aab-8df5-4e0d9b0f9e60",
       "time": "2026-07-19 13:48:34",
@@ -175124,26 +175140,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗宣佈最高領袖自從接替其父以來從未公開露面，他將於週二在德黑蘭為父親舉行紀念儀式。不清楚他是否會親自出席。"
-    },
-    {
-      "id": "mkt:019f54e2-db43-7aab-8d42-5c1396469124",
-      "time": "2026-07-12 13:53:01",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran says future Strait of Hormuz navigation arrangements to be negotiated with Oman】Iranian foreign ministry spokesman BAGHAEI said Iran and Oman's foreign ministers met in Muscat on the 11th to discuss a coordination mechanism for navigation and transit management of the Strait of Hormuz. Legal and technical delegations attended; talks covered shipping safety, sovereignty, international law and Article 5 of the Islamabad MoU. BAGHAEI said Iran insists future navigation-management arrangements should be negotiated bilaterally with Oman and should fully account for recent months' US and Israeli military actions and their impact on Hormuz shipping safety. Iran and Oman agreed to continue political, legal and technical consultations to reach a common understanding; Qatar participated in parts of the discussions."
-    },
-    {
-      "id": "4982667",
-      "time": "2026-07-12 13:51:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗說未來霍爾木茲通航由伊阿協商】今天（7月12日），伊朗外交部發言人巴加埃介紹了伊朗外長日前訪問阿曼並舉行會談情況，伊朗與阿曼外長11日在阿曼首都馬斯喀特舉行會談，雙方圍繞霍爾木茲海峽航行和通航管理協調機制進行了討論，兩國法律和技術代表團參加會談。巴加埃表示，雙方重點就保障霍爾木茲海峽航運安全、尊重兩國主權權利及適用國際法等問題交換意見，並討論了《伊斯蘭堡諒解備忘錄》第五條相關內容。伊方強調，未來霍爾木茲海峽通航管理安排應由伊阿兩國協商制定，並充分考慮過去數月，特別是美國和以色列對伊朗軍事行動及其對霍爾木茲海峽航運安全造成的影響。巴加埃表示，伊朗和阿曼同意繼續在政治及法律、技術層面開展磋商，以就霍爾木茲海峽航運安全達成共同諒解。據悉，會談部分環節中，卡達政府代表團也參加了討論。（CCTV國際時訊）"
     }
   ]
 }
