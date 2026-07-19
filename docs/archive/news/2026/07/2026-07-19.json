@@ -1,7 +1,90 @@
 {
   "date": "2026-07-19",
-  "count": 726,
+  "count": 736,
   "items": [
+    {
+      "id": "mkt:019f7a82-81f5-7aab-8df8-2a2b4a1b5208",
+      "time": "2026-07-19 21:13:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jingke Technology, SenseTime agree compute-power coordination strategic partnership】On July 19 Jingke Technology and SenseTime’s Big Device unit signed a strategic agreement to jointly build a compute-power coordination ecosystem targeting source–grid–load–storage integration, aiming to deepen integration between energy systems and AI infrastructure."
+    },
+    {
+      "id": "4996136",
+      "time": "2026-07-19 21:12:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴特：目前已有更大噸位油輪經霍爾木茲海峽通行。"
+    },
+    {
+      "id": "mkt:019f7a81-b1fe-7aab-8df8-25e9337a6a42",
+      "time": "2026-07-19 21:12:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Energy Secretary Wright said ships will continue to transit the strait along two routes."
+    },
+    {
+      "id": "mkt:019f7a81-8b99-7aab-8df8-1a39c9d9c575",
+      "time": "2026-07-19 21:12:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "U.S. Energy Secretary Wright said the U.S. will ensure oil shipments through the Strait of Hormuz regardless of whether Iran provides assistance. He said the seven-day truncated mean of flows through the strait is below 7 mln bpd."
+    },
+    {
+      "id": "4996135",
+      "time": "2026-07-19 21:12:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：飛機內飾、推進系統仍存在供應鏈問題。"
+    },
+    {
+      "id": "4996134",
+      "time": "2026-07-19 21:11:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【晶科科技與商湯科技達成算電協同戰略合作】7月19日，晶科科技同商湯科技旗下商湯大裝置正式簽署戰略協議，共建面向源網荷儲一體化的算電協同生態，推動能源系統與AI基礎設施深度融合。"
+    },
+    {
+      "id": "4996133",
+      "time": "2026-07-19 21:11:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音表示供應鏈仍存在一定波動。"
+    },
+    {
+      "id": "4996132",
+      "time": "2026-07-19 21:11:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【印度計劃試點發行小面額塑膠鈔票】印度中央銀行計劃於2027年試點發行小面額的塑膠材質鈔票，評估用其替代紙幣的可行性，以提高鈔票耐用性和防偽性。印度儲備銀行計劃，試點階段發行面額10盧比和20盧比的塑膠鈔票，如果試點順利，或將進一步推廣。（新華社）"
+    },
+    {
+      "id": "4996131",
+      "time": "2026-07-19 21:10:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴特：船舶運輸仍經霍爾木茲海峽兩條航道正常通行。"
+    },
+    {
+      "id": "4996130",
+      "time": "2026-07-19 21:09:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "賴特：霍爾木茲原油7日滾動平均產量低於每日700萬桶。"
+    },
     {
       "id": "mkt:019f7a7e-b594-7aab-8df8-11cb91938e18",
       "time": "2026-07-19 21:09:12",
