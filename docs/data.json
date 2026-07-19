@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-20 01:47:07",
-  "count": 19002,
+  "updated": "2026-07-20 01:51:09",
+  "count": 19003,
   "items": [
+    {
+      "id": "mkt:019f7b7f-f5ef-7aab-8dfa-3b5a7878b613",
+      "time": "2026-07-20 01:50:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Houthi armed group says it will issue a statement tomorrow announcing an important position."
+    },
+    {
+      "id": "4996241",
+      "time": "2026-07-20 01:47:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：一支伊朗高階代表團明日抵達伊斯蘭堡，開啟為期兩天的訪問。"
+    },
+    {
+      "id": "4996240",
+      "time": "2026-07-20 01:47:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士：伊朗內政部長埃斯坎達爾・穆梅尼明日將在伊斯蘭堡會見巴基斯坦領導層。"
+    },
     {
       "id": "4996239",
       "time": "2026-07-20 01:43:27",
@@ -175310,25 +175335,6 @@
         "國際"
       ],
       "text": "黎巴嫩衛生部表示，自3月2日以來，以色列對黎巴嫩的襲擊已造成至少4,322人死亡和12,219人受傷。"
-    },
-    {
-      "id": "mkt:019f5772-801e-7aab-8d46-7ea08ab57887",
-      "time": "2026-07-13 01:49:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. strikes multiple sites in Iran's Hormozgan province; one killed, two wounded】Local government sources in Iran's Hormozgan province said on the 12th the U.S. launched strikes on multiple locations, including Qeshm Island, and explosions were reported in several areas including the provincial capital Bandar Abbas. Sources said the strikes killed one person and wounded two, who are receiving medical treatment."
-    },
-    {
-      "id": "4983042",
-      "time": "2026-07-13 01:47:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗霍爾木茲甘省多地遭美襲擊 致1死2傷】當地時間12日，據伊朗霍爾木茲甘省政府知情人士訊息，美國當天對該省部分地區發動新一輪襲擊，包括格什姆島在內的多個地點遭襲，當地傳出數次爆炸聲。另有訊息稱，霍爾木茲甘省首府阿巴斯港也傳出爆炸聲。知情人士稱，襲擊造成1人死亡、2人受傷。目前傷者正在接受治療。"
     }
   ]
 }
