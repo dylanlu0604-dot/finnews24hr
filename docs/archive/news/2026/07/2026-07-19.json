@@ -1,7 +1,25 @@
 {
   "date": "2026-07-19",
-  "count": 223,
+  "count": 225,
   "items": [
+    {
+      "id": "4995754",
+      "time": "2026-07-19 08:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 據伊朗媒體報道，當地居民稱在伊朗南部布什爾聽到爆炸聲。"
+    },
+    {
+      "id": "mkt:019f77dd-40aa-7aab-8df3-e39c58c5b722",
+      "time": "2026-07-19 08:53:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent"
+      ],
+      "text": "【Tencent Cloud launches ADP 4.0 overseas edition】July 18 — At the 2026 World Artificial Intelligence Conference, Tencent Cloud launched the overseas edition of its agent development platform ADP 4.0 and concurrently upgraded three modules: Intelligent Workbench, Claw mode and Skill Marketplace."
+    },
     {
       "id": "4995753",
       "time": "2026-07-19 08:47:30",
