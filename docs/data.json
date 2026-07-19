@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-20 05:12:28",
-  "count": 19035,
+  "updated": "2026-07-20 05:16:22",
+  "count": 19033,
   "items": [
+    {
+      "id": "4996300",
+      "time": "2026-07-20 05:15:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗多地已發射多枚導彈，瞄準美軍在該區域的相關目標。美方官員暫未對此作出即時證實，也暫無遭襲地點的詳細資訊。"
+    },
+    {
+      "id": "4996299",
+      "time": "2026-07-20 05:12:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本近2.5萬民眾集會 反對高市政府修憲擴軍】當地時間19日，近2.5萬名日本民眾在日本國會前舉行大規模集會，強烈抗議高市政府推動修改和平憲法、放寬武器出口限制、突破無核三原則等一系列再軍事化動向。（央視新聞）"
+    },
     {
       "id": "4996298",
       "time": "2026-07-20 05:11:10",
@@ -175554,43 +175570,6 @@
         "Brent"
       ],
       "text": "Fars news agency reported that around 00:30 local time (05:00 Beijing) today more than 10 explosions were heard at Iran’s Bandar Abbas and Sirik ports; exact locations remain unclear."
-    },
-    {
-      "id": "mkt:019f582e-8e36-7aab-8d47-0ea6c028c6db",
-      "time": "2026-07-13 05:14:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Syrian People's Assembly holds first transitional session, elects speaker】The Syrian People's Assembly met on the 12th for its first session since the 2024 political upheaval, MPs were sworn in before transitional government president Ahmad Shala and voted Abdul Hamid Awak as speaker; two deputy speakers and a secretary were also elected."
-    },
-    {
-      "id": "4983076",
-      "time": "2026-07-13 05:14:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【敘利亞人民議會舉行過渡時期首次會議 選出議長】敘利亞人民議會12日舉行自2024年敘政局劇變以來的首次會議，選舉產生議長、兩名副議長和一名秘書。在本次會議上，議員們在敘過渡政府總統艾哈邁德·沙拉麵前集體宣誓就職，隨後投票選舉阿卜杜勒·哈米德·阿瓦克為議長。（新華社）"
-    },
-    {
-      "id": "4983075",
-      "time": "2026-07-13 05:12:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺：伊朗錫裡克附近發生多起爆炸。"
-    },
-    {
-      "id": "mkt:019f582c-a4f6-7aab-8d47-01c40c3146b3",
-      "time": "2026-07-13 05:12:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Islamic Republic of Iran Broadcasting (IRIB) reported explosions heard again in southern Iran."
     }
   ]
 }
