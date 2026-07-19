@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-19 10:36:49",
+  "updated": "2026-07-19 10:40:44",
   "count": 19038,
   "items": [
+    {
+      "id": "4995804",
+      "time": "2026-07-19 10:39:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【後摩智慧WAIC展出M50晶片落地的多款AI終端，10W功耗下算力達160 TOPS】7月17日至20日，2026世界人工智慧大會（WAIC）在上海召開。期間，後摩智慧展出多款搭載M50晶片的AI終端。該晶片採用存算一體架構，在10W功耗下算力達160 TOPS，可流暢執行30B至120B引數量級大模型。"
+    },
+    {
+      "id": "4995803",
+      "time": "2026-07-19 10:39:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【秘魯胡寧大區丘帕卡市以南發生5.1級地震】根據秘魯地球物理研究所釋出的資訊，當地時間18日21時24分，秘魯胡寧大區丘帕卡市以南發生5.1級地震，震源深度24公里。首都利馬有震感。（央視新聞）"
+    },
+    {
+      "id": "4995802",
+      "time": "2026-07-19 10:38:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體當地官員訊息稱，美軍對沙德甘附近一處地點實施了打擊。"
+    },
+    {
+      "id": "mkt:019f783c-23ef-7aab-8df4-6c99d4f9c9a3",
+      "time": "2026-07-19 10:37:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran state television, citing the Iranian military, said Iran struck U.S. military assets at two bases in Kuwait."
+    },
+    {
+      "id": "4995801",
+      "time": "2026-07-19 10:36:25",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗國家電視臺援引伊朗軍方的話稱，伊朗軍方打擊了美國在科威特兩處基地內的軍事資產。"
+    },
+    {
+      "id": "4995800",
+      "time": "2026-07-19 10:36:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國地質調查局：墨西哥馬德羅港西南 59 公里處發生 5.3 級地震。"
+    },
     {
       "id": "4995799",
       "time": "2026-07-19 10:34:25",
@@ -175591,64 +175644,6 @@
         "其他"
       ],
       "text": "市場訊息：科威特境內傳來巨大爆炸聲，爆炸聲威力極大，伊拉克部分地區均可聽見。另有多家媒體報道約旦境內發生多起爆炸。"
-    },
-    {
-      "id": "mkt:019f5432-c89e-7aab-8d41-23214b3b0c62",
-      "time": "2026-07-12 10:40:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "WTI"
-      ],
-      "text": "Witnesses reported explosions in Doha, Qatar, and the Qatari government issued emergency alerts to mobile phones."
-    },
-    {
-      "id": "4982552",
-      "time": "2026-07-12 10:40:28",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "目擊者稱，多哈傳出爆炸聲，政府向手機使用者傳送安全警報。"
-    },
-    {
-      "id": "4982551",
-      "time": "2026-07-12 10:39:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋國防部表示，全國各處傳來的聲響，均為防空部隊攔截導彈、無人機作戰產生。"
-    },
-    {
-      "id": "4982549",
-      "time": "2026-07-12 10:37:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【巴林拉響防空警報】當地時間12日早間，巴林境內拉響防空警報。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f542f-e38d-7aab-8d41-1cfe61e113c6",
-      "time": "2026-07-12 10:37:32",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "UAE National Emergency Crisis and Disaster Management Authority: air-defence systems are currently responding to missile threats."
-    },
-    {
-      "id": "4982548",
-      "time": "2026-07-12 10:37:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿聯酋稱其防空系統目前正在應對一起導彈威脅。"
     }
   ]
 }
