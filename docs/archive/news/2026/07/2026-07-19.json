@@ -1,7 +1,47 @@
 {
   "date": "2026-07-19",
-  "count": 303,
+  "count": 307,
   "items": [
+    {
+      "id": "mkt:019f784f-1fd1-7aab-8df4-a69e16c24c73",
+      "time": "2026-07-19 10:57:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reported US forces shelled the Al-Falahiya area southeast of Ahvaz, capital of Khuzestan province in southwest Iran."
+    },
+    {
+      "id": "4995815",
+      "time": "2026-07-19 10:57:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：美軍再度空襲伊朗格什姆島。美軍炮擊了阿瓦士東南部的法拉希耶地區。"
+    },
+    {
+      "id": "mkt:019f784d-a098-7aab-8df4-980b1fde25c4",
+      "time": "2026-07-19 10:56:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS reports the U.S. carried out a new round of air strikes on Iran's Qeshm Island. At least two explosions were heard in parts of the island. Emergency rescue, security and operations teams have been dispatched to identify strike locations and assess casualties and property damage."
+    },
+    {
+      "id": "4995814",
+      "time": "2026-07-19 10:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽上半年汽車出口量達100.6萬輛】“今年上半年，安徽汽車出口量已經突破百萬輛，比去年提前了5個月。”近日，合肥海關副關長姜開源介紹。據悉，去年，安徽省成為全國首個汽車年出口突破百萬輛的省份；今年僅用6個月，全省汽車出口量就達到100.6萬輛，同比增加1.2倍。同期我國汽車出口509.6萬輛，同比增長65.3%，半年度首破500萬輛。（安徽日報）"
+    },
     {
       "id": "4995813",
       "time": "2026-07-19 10:54:06",

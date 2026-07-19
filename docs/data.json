@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-19 10:56:27",
-  "count": 19040,
+  "updated": "2026-07-19 11:00:22",
+  "count": 19041,
   "items": [
+    {
+      "id": "mkt:019f784f-1fd1-7aab-8df4-a69e16c24c73",
+      "time": "2026-07-19 10:57:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "TASNIM NEWS reported US forces shelled the Al-Falahiya area southeast of Ahvaz, capital of Khuzestan province in southwest Iran."
+    },
+    {
+      "id": "4995815",
+      "time": "2026-07-19 10:57:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：美軍再度空襲伊朗格什姆島。美軍炮擊了阿瓦士東南部的法拉希耶地區。"
+    },
+    {
+      "id": "mkt:019f784d-a098-7aab-8df4-980b1fde25c4",
+      "time": "2026-07-19 10:56:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS reports the U.S. carried out a new round of air strikes on Iran's Qeshm Island. At least two explosions were heard in parts of the island. Emergency rescue, security and operations teams have been dispatched to identify strike locations and assess casualties and property damage."
+    },
+    {
+      "id": "4995814",
+      "time": "2026-07-19 10:55:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【安徽上半年汽車出口量達100.6萬輛】“今年上半年，安徽汽車出口量已經突破百萬輛，比去年提前了5個月。”近日，合肥海關副關長姜開源介紹。據悉，去年，安徽省成為全國首個汽車年出口突破百萬輛的省份；今年僅用6個月，全省汽車出口量就達到100.6萬輛，同比增加1.2倍。同期我國汽車出口509.6萬輛，同比增長65.3%，半年度首破500萬輛。（安徽日報）"
+    },
     {
       "id": "4995813",
       "time": "2026-07-19 10:54:06",
@@ -175638,30 +175678,6 @@
         "Impact bullish"
       ],
       "text": "【Samsung moves first Yongin chip fab start-up to 2029】Yonhap cites industry sources saying Samsung Electronics is advancing the start-up of the first semiconductor fab in its Yongin chip cluster to 2029, roughly one to two years earlier than previously planned. Industry sources say the earlier start-up will let Samsung respond faster to surging global demand for AI chips. Last month Samsung said under its 'super project' investment plan it will invest 2,030 tln won (about $1.35 tln) in the Pyeongtaek and Yongin clusters and 400 tln won to build two new fabs in Gwangju, about 270 km south of Seoul."
-    },
-    {
-      "id": "4982563",
-      "time": "2026-07-12 10:58:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【受颱風影響 多地機場取消航班】記者從民航局瞭解到，受今年第9號颱風“巴威”影響，多地機場通行能力下降，其中上海虹橋機場取消航班100餘班，上海浦東機場取消航班400餘班，溫州機場取消航班100餘班，寧波機場取消航班100餘班，杭州機場取消航班300餘班，南京機場取消航班200餘班。預計12日12:00後，颱風對華東地區主要機場影響逐漸減弱，航班執行逐步恢復。（央視新聞）"
-    },
-    {
-      "id": "4982562",
-      "time": "2026-07-12 10:58:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國上半年新能源汽車銷量佔比首破50%】一項統計資料顯示，今年上半年在韓銷售的汽車中新能源汽車所佔比重超過一半，為歷史同期首次。韓國汽車資料研究機構“Carisyou”對國土交通部相關資料進行分析的結果顯示，今年上半年在韓註冊登記的新車數量（含乘用車，不含拖車）同比增加1.4%，為85.1833萬輛。按燃料型別看，銷量高到低依次為汽油車（33.1814萬輛，39%）、混合動力車（22.7019萬輛，26.7%）、純電車（19.8969萬輛，23.4%）、LPG汽車（6.3142萬輛，7.4%）、柴油車（2.741萬輛，3.2%）和氫燃料汽車（3175輛，0.4%）。"
-    },
-    {
-      "id": "4982561",
-      "time": "2026-07-12 10:57:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際足聯發售世界盃決賽賽場草皮 450美元一份】美加墨世界盃接近尾聲之際，國際足聯開始出售決賽賽場草皮，價格為每份450美元。國際足聯在官網商店開始發售這款商品，表示它將讓“收藏家和球迷”擁有“一段真正的足球歷史”。（新華社）"
     }
   ]
 }
