@@ -1,7 +1,149 @@
 {
   "date": "2026-07-20",
-  "count": 158,
+  "count": 173,
   "items": [
+    {
+      "id": "mkt:019f7c66-b885-7aab-8dfb-2ba7bf11171f",
+      "time": "2026-07-20 06:02:14",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "USD/JPY gained 20 pips intraday to 162.56, approaching the prior high of 162.83."
+    },
+    {
+      "id": "4996319",
+      "time": "2026-07-20 06:02:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數期貨盤初持平，納斯達克指數期貨上漲0.1%。"
+    },
+    {
+      "id": "mkt:019f7c66-84a4-7aab-8dfb-21dfbd88affd",
+      "time": "2026-07-20 06:02:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver fell 0.4% in early trade to $55.64/oz."
+    },
+    {
+      "id": "4996318",
+      "time": "2026-07-20 06:01:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普科技和媒體集團了結多項法律糾紛。"
+    },
+    {
+      "id": "mkt:019f7c65-e670-7aab-8dfb-18b128e4076a",
+      "time": "2026-07-20 06:01:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold opened Monday down nearly $20, slipping below $4,000/oz."
+    },
+    {
+      "id": "4996317",
+      "time": "2026-07-20 06:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破84美元/桶，日內漲2.71%。"
+    },
+    {
+      "id": "mkt:019f7c65-5774-7aab-8dfb-165f999670bf",
+      "time": "2026-07-20 06:00:43",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose 2% at Monday's open to $84/bbl."
+    },
+    {
+      "id": "4996316",
+      "time": "2026-07-20 06:00:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破90美元/桶，日內漲2.16%。"
+    },
+    {
+      "id": "mkt:019f7c64-f11b-7aab-8dfb-0cd64f13a75c",
+      "time": "2026-07-20 06:00:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. stock index futures opened essentially flat on Monday."
+    },
+    {
+      "id": "4996315",
+      "time": "2026-07-20 06:00:13",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油日內漲2%，現報89.92美元/桶。"
+    },
+    {
+      "id": "4996314",
+      "time": "2026-07-20 06:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油日內漲2%，現報83.44美元/桶。"
+    },
+    {
+      "id": "4996313",
+      "time": "2026-07-20 06:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4010美元/盎司，日內跌0.24%。"
+    },
+    {
+      "id": "4996312",
+      "time": "2026-07-20 06:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破83美元/桶，日內漲1.53%。"
+    },
+    {
+      "id": "4996311",
+      "time": "2026-07-20 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報82.99美元/桶。"
+    },
+    {
+      "id": "4996310",
+      "time": "2026-07-20 06:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲1%，現報89.50美元/桶。"
+    },
     {
       "id": "4996309",
       "time": "2026-07-20 05:52:25",
