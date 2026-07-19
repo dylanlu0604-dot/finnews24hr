@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-19 23:03:37",
-  "count": 19001,
+  "updated": "2026-07-19 23:07:40",
+  "count": 19000,
   "items": [
+    {
+      "id": "4996188",
+      "time": "2026-07-19 23:06:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗稱阿巴丹爆炸事件與伊朗軍隊行動有關，並非美國空襲。"
+    },
+    {
+      "id": "4996187",
+      "time": "2026-07-19 23:05:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【傳音控股：2026年上半年營收356.57億元 淨利潤同比增44.82%】傳音控股公告稱，預計2026年半年度實現營業收入356.57億元左右，同比增長22.63%；歸屬於母公司所有者的淨利潤17.56億元左右，同比增長44.82%；扣非淨利潤15.32億元左右，同比增長70.71%。業績增長因儲存價格增長，產品價格相應調整，平均售價上漲，且成本上漲滯後，毛利率提升。"
+    },
+    {
+      "id": "mkt:019f7ae9-1c95-7aab-8df9-04cdf7a64d88",
+      "time": "2026-07-19 23:05:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moonshot AI Kimi pauses new consumer subscriptions citing compute shortage】Moonshot AI’s Kimi said effective immediately it will suspend new consumer subscriptions and allocate all available compute to serve existing subscribers, assuring current subscribers’ rights will not be affected. The firm said it is accelerating compute-capacity expansion and will progressively reopen subscription slots as new capacity comes online until normal subscription levels resume. Future new subscribers will see Kimi’s core benefits (Kimi Web, Kimi APP, Kimi Work) separated from Kimi Code benefits to allow more precise compute allocation and protect user experience."
+    },
+    {
+      "id": "4996186",
+      "time": "2026-07-19 23:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西一地釋出暴雨紅色預警 累計雨量將達100毫米以上】江西省瑞昌市氣象臺2026年7月19日21時17分變更暴雨紅色預警訊號：瑞昌市南部、東部、中部鄉鎮目前普遍已降暴雨，橫港水庫近三小時降水量已達90毫米，預計累計雨量將達100毫米以上，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。（央視新聞）"
+    },
     {
       "id": "4996185",
       "time": "2026-07-19 23:02:38",
@@ -175254,47 +175291,6 @@
         "市場"
       ],
       "text": "【暑運運力再升級！西寧至烏魯木齊每日加開直達動車組】2026年暑運大客流持續攀升，青海、新疆雙向旅遊流、探親務工客流疊加，為滿足廣大旅客跨西北長途出行需求，7月12日至7月18日，中國鐵路青藏集團有限公司每日增開西寧往返烏魯木齊直達動車組，加密青疆直達運力，縮短兩地時空距離，暢通絲路黃金旅遊通道。（央視新聞）"
-    },
-    {
-      "id": "4982976",
-      "time": "2026-07-12 23:07:39",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普接受採訪時表示：霍爾木茲海峽航道暢通。"
-    },
-    {
-      "id": "4982975",
-      "time": "2026-07-12 23:07:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗最高領袖軍事顧問：敵人企圖在民眾與政府之間製造隔閡，團結一致是我們抵禦各類壓力的核心關鍵。"
-    },
-    {
-      "id": "4982974",
-      "time": "2026-07-12 23:06:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大外長：伊朗對穿越霍爾木茲海峽船隻的持續攻擊違反了國際法。"
-    },
-    {
-      "id": "4982973",
-      "time": "2026-07-12 23:04:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【電影《功夫女足》票房破5億】據網路平臺資料顯示，截至7月12日22時44分，影片《功夫女足》票房突破5億。"
-    },
-    {
-      "id": "4982972",
-      "time": "2026-07-12 23:03:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“張雪機車”獲WSBK多寧頓公園站次回合第十名】在12日舉行的2026世界超級摩托車錦標賽（WSBK）英國多寧頓公園站WorldSSP組第二回合正賽中，中國摩托車製造商“張雪機車”的法國車手瓦倫丁·德比斯獲得第十名。凱旋車隊的英國車手布思-阿莫斯繼首回合告捷後，再奪冠軍。（新華社）"
     }
   ]
 }

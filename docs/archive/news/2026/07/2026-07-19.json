@@ -1,7 +1,44 @@
 {
   "date": "2026-07-19",
-  "count": 810,
+  "count": 814,
   "items": [
+    {
+      "id": "4996188",
+      "time": "2026-07-19 23:06:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗稱阿巴丹爆炸事件與伊朗軍隊行動有關，並非美國空襲。"
+    },
+    {
+      "id": "4996187",
+      "time": "2026-07-19 23:05:26",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【傳音控股：2026年上半年營收356.57億元 淨利潤同比增44.82%】傳音控股公告稱，預計2026年半年度實現營業收入356.57億元左右，同比增長22.63%；歸屬於母公司所有者的淨利潤17.56億元左右，同比增長44.82%；扣非淨利潤15.32億元左右，同比增長70.71%。業績增長因儲存價格增長，產品價格相應調整，平均售價上漲，且成本上漲滯後，毛利率提升。"
+    },
+    {
+      "id": "mkt:019f7ae9-1c95-7aab-8df9-04cdf7a64d88",
+      "time": "2026-07-19 23:05:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moonshot AI Kimi pauses new consumer subscriptions citing compute shortage】Moonshot AI’s Kimi said effective immediately it will suspend new consumer subscriptions and allocate all available compute to serve existing subscribers, assuring current subscribers’ rights will not be affected. The firm said it is accelerating compute-capacity expansion and will progressively reopen subscription slots as new capacity comes online until normal subscription levels resume. Future new subscribers will see Kimi’s core benefits (Kimi Web, Kimi APP, Kimi Work) separated from Kimi Code benefits to allow more precise compute allocation and protect user experience."
+    },
+    {
+      "id": "4996186",
+      "time": "2026-07-19 23:03:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西一地釋出暴雨紅色預警 累計雨量將達100毫米以上】江西省瑞昌市氣象臺2026年7月19日21時17分變更暴雨紅色預警訊號：瑞昌市南部、東部、中部鄉鎮目前普遍已降暴雨，橫港水庫近三小時降水量已達90毫米，預計累計雨量將達100毫米以上，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。（央視新聞）"
+    },
     {
       "id": "4996185",
       "time": "2026-07-19 23:02:38",
