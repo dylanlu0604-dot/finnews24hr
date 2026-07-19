@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19 19:25:21",
-  "count": 18968,
+  "updated": "2026-07-19 19:29:24",
+  "count": 18969,
   "items": [
+    {
+      "id": "mkt:019f7a21-3ba0-7aab-8df7-6613d8e3a832",
+      "time": "2026-07-19 19:27:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kuwait says power and desalination plants were attacked again by Iran, damaging multiple generating units. Repair crews are working to restore power supply."
+    },
+    {
+      "id": "4996084",
+      "time": "2026-07-19 19:25:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【90餘家深市化工企業披露半年度業績預告，多家淨利增幅下限超10倍】近日，深市化工行業公司密集披露2026年半年度業績預告，呈現良好復甦態勢。截至目前，深市已有90餘家化工行業公司披露上半年業績預告，逾六成公司預計盈利且業績預增；10家公司預計扭虧為盈，恆逸石化等企業預計歸母淨利潤增長下限超過10倍。（上證報）"
+    },
     {
       "id": "mkt:019f7a1e-0a8d-7aab-8df7-599824b9c9c7",
       "time": "2026-07-19 19:23:36",
@@ -174993,14 +175009,6 @@
         "XAUUSD"
       ],
       "text": "【Iran says responsibility for Strait of Hormuz traffic rests with Tehran, accuses US of imposing unauthorized southern route】Iran’s military spokesman said the Islamabad memorandum assigns responsibility for maritime traffic management in the Strait of Hormuz to Iran and accused the US of attempting to impose an unauthorized shipping route in the southern Strait, which would violate that memorandum. He said Tehran is coordinating a joint navigational arrangement with Oman for the strategic waterway. He warned that US strikes on Iranian islands, coasts or facilities have been met with decisive responses and said Saturday night’s US action was immediately retaliated. He added Iran’s armed forces have continued to strengthen readiness during and after the ceasefire, using the pause to enhance capabilities and update operational plans."
-    },
-    {
-      "id": "4982881",
-      "time": "2026-07-12 19:26:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海地鐵所有線路均恢復常態運營】根據市氣象部門預測研判，7月12日傍晚颱風“巴威”風雨影響逐漸減弱，上海軌道交通地面、高架限速段解除限速，所有線路均恢復常態運營。同時，明天（7月13日）上海地鐵全網路列車按常態方式執行。（澎湃）"
     }
   ]
 }
