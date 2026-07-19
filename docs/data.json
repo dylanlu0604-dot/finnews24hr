@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-19 23:15:46",
-  "count": 18998,
+  "updated": "2026-07-19 23:19:43",
+  "count": 19001,
   "items": [
+    {
+      "id": "4996194",
+      "time": "2026-07-19 23:18:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "環球影業：《奧德賽》全球票房收入達2.641億美元。"
+    },
+    {
+      "id": "4996193",
+      "time": "2026-07-19 23:18:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭哈爾科夫州軍事管理部門稱，俄軍炮擊該州，造成4人死亡、數十人受傷。"
+    },
+    {
+      "id": "4996192",
+      "time": "2026-07-19 23:17:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【光電融合晶片有望讓Token成本降50% 國產算力叢集或成降本關鍵】當前，隨著AI智慧體在各行業的應用深入，Token的呼叫量一直保持著高速增長態勢。未來如何能讓算力成本進一步下降，成為各方發力的重點。業內人士介紹，他們正透過算力平臺來協調多個主流大模型的使用，綜合降低詞元成本。同時，還在全國範圍加快大規模算力叢集的建設。而國產算力晶片支撐的超大規模算力叢集，被業內視作是下一步降本的關鍵。此外，未來三五年內，光晶片等更前沿的新技術落地，也有望成為降低算力成本的另一探索方向。“光電融合的晶片相比電晶片的話，核心在於它的計算延遲更低、功耗也會更低。每單位Token成本會相應下降50%，甚至更多。”"
+    },
+    {
+      "id": "mkt:019f7af3-6763-7aab-8df9-1061685b1208",
+      "time": "2026-07-19 23:16:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution"
+      ],
+      "text": "【Optoelectronic fusion chips could halve per-token cost; China-made compute clusters seen as key】Rising use of AI agents has driven rapid growth in token consumption. Firms are deploying compute platforms to orchestrate multiple leading LLMs and compress token costs, while accelerating China-wide buildout of large-scale compute clusters. Industry participants say hyperscale clusters powered by China-made compute chips are the next key lever to cut costs. Over the next 3–5 years, photonic/optoelectronic chips and other frontier technologies could further reduce per-token compute costs by roughly 50% or more by lowering latency and power per operation."
+    },
+    {
+      "id": "4996191",
+      "time": "2026-07-19 23:16:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：在伊朗最高領袖穆傑塔巴的領導下，“抵抗運動”這條“光榮道路”將延續下去。"
+    },
     {
       "id": "4996190",
       "time": "2026-07-19 23:14:25",
@@ -175262,22 +175305,6 @@
         "國際"
       ],
       "text": "【美軍打擊百餘伊軍事目標 海峽通行情況說法不一 】美軍中央司令部於美國東部時間11日晚些時候宣佈，美軍當天打擊了約140個伊朗軍事目標。伊朗則對美國在中東地區的目標發動一系列打擊，以回應美軍襲擊。在霍爾木茲海峽通行情況方面，美軍稱該海峽“通行仍在繼續”，伊朗方面則稱海峽目前無法通行。"
-    },
-    {
-      "id": "4982982",
-      "time": "2026-07-12 23:16:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家安全委員會委員哈桑·卡什卡維表示，霍爾木茲海峽的管理狀況將不會恢復到以往的狀態，該海域的管理權已歸伊朗所有。"
-    },
-    {
-      "id": "4982981",
-      "time": "2026-07-12 23:16:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "在伊拉克與科威特的邊境地區觀測到濃密的煙柱。"
     }
   ]
 }
