@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-20 00:20:40",
-  "count": 18992,
+  "updated": "2026-07-20 00:24:42",
+  "count": 18991,
   "items": [
+    {
+      "id": "mkt:019f7b2f-b93b-7aab-8df9-95cd2ec8eb92",
+      "time": "2026-07-20 00:22:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath cites the Israel Defense Forces chief of staff saying the IDF has observed attacks targeting Jordan's Aqaba region and Israel's air-defence systems are on high alert."
+    },
+    {
+      "id": "4996207",
+      "time": "2026-07-20 00:21:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國邊境事務主管稱，移民與海關執法局官員在攔停車輛期間必須佩戴隨身執法記錄儀。"
+    },
     {
       "id": "mkt:019f7b2c-30f3-7aab-8df9-8dece23c4877",
       "time": "2026-07-20 00:18:41",
@@ -175209,35 +175229,6 @@
         "XAUUSD"
       ],
       "text": "【U.S.-Iran standoff over Strait of Hormuz nearing dangerous tipping point】Military and diplomatic analyst Alexandru Hudistianu said the U.S.-Iran contest over the Strait of Hormuz is not new but carries a serious escalation risk. He argued February U.S.-Israeli strikes on Iran gave Tehran favorable conditions to try to assert control of the Strait as a coercive tool, with Tehran claiming near-absolute authority over the waterway. The U.S. Navy has been escorting multiple vessels via the southern Oman route and has launched broad strikes on Iranian coastal areas in response to attacks on commercial ships. Hudistianu warned the current pattern is unlikely to hold and estimated the two-to-three months since a de facto ceasefire in April may be one of the highest-risk periods, saying continued hardline brinkmanship could tip the confrontation into a more active conflict phase."
-    },
-    {
-      "id": "mkt:019f5723-b1ea-7aab-8d46-2291a859fca4",
-      "time": "2026-07-13 00:23:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. officials told Axios the U.S. military struck missile and air-defense systems and small vessels of Iran's Islamic Revolutionary Guard Corps at several locations around the Strait of Hormuz about an hour ago."
-    },
-    {
-      "id": "4983009",
-      "time": "2026-07-13 00:22:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國還在霍爾木茲海峽周邊的幾處地點打擊了伊朗革命衛隊的小型船隻。"
-    },
-    {
-      "id": "4983008",
-      "time": "2026-07-13 00:20:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場資訊：美國一小時前在霍爾木茲周邊發動數輪打擊。"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "date": "2026-07-20",
-  "count": 8,
+  "count": 10,
   "items": [
+    {
+      "id": "mkt:019f7b2f-b93b-7aab-8df9-95cd2ec8eb92",
+      "time": "2026-07-20 00:22:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Saudi outlet Alhadath cites the Israel Defense Forces chief of staff saying the IDF has observed attacks targeting Jordan's Aqaba region and Israel's air-defence systems are on high alert."
+    },
+    {
+      "id": "4996207",
+      "time": "2026-07-20 00:21:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國邊境事務主管稱，移民與海關執法局官員在攔停車輛期間必須佩戴隨身執法記錄儀。"
+    },
     {
       "id": "mkt:019f7b2c-30f3-7aab-8df9-8dece23c4877",
       "time": "2026-07-20 00:18:41",
