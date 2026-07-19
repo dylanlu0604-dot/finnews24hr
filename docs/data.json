@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-20 06:37:00",
-  "count": 19016,
+  "updated": "2026-07-20 06:40:54",
+  "count": 19014,
   "items": [
+    {
+      "id": "4996337",
+      "time": "2026-07-20 06:39:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉強震遇難人數上升至5208人】委內瑞拉全國代表大會主席豪爾赫·羅德里格斯當地時間19日透過社交媒體通報，該國6月24日發生的強震造成遇難人數上升至5208人，受傷人數為16740人，強震過後發生餘震1388次。 (央視新聞)"
+    },
+    {
+      "id": "4996336",
+      "time": "2026-07-20 06:39:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科威特軍方稱正在攔截進入領空的“敵對”目標】科威特軍方當地時間20日1時30分左右釋出訊息稱，科威特防空系統正在攔截進入科領空的“敵對”空中目標。"
+    },
+    {
+      "id": "4996335",
+      "time": "2026-07-20 06:36:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克：星艦下一次發射嘗試定於本週五進行。"
+    },
     {
       "id": "4996334",
       "time": "2026-07-20 06:34:47",
@@ -175375,58 +175399,6 @@
         "Impact bearish"
       ],
       "text": "Spot gold fell below $4,080/oz, down nearly 1% on the day."
-    },
-    {
-      "id": "4983125",
-      "time": "2026-07-13 06:40:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4080美元/盎司，日內跌0.97%。"
-    },
-    {
-      "id": "te:economy:566144",
-      "time": "2026-07-13 06:39:01",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Composite PMI",
-        "Importance 1"
-      ],
-      "text": "New Zealand Composite PMI Rises to 6-Month High — The BusinessNZ Performance of Composite Index increased to 53.6 in June 2026 from an upwardly revised 49.9 in the previous month. It was the first expansion in the private sector since January and the most since December 2025, as the services sector returned to expansion, while manufacturing grew at its fastest pace since July 2021."
-    },
-    {
-      "id": "mkt:019f587a-a43a-7aab-8d47-9d57d9c05e6b",
-      "time": "2026-07-13 06:37:40",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "New Zealand June Services Performance Index 50.6, prior 47.5."
-    },
-    {
-      "id": "mkt:019f587a-842b-7aab-8d47-95618380debb",
-      "time": "2026-07-13 06:37:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "New Zealand | Performance of Services Index (Jun) | actual 50.6 | previous 47.5"
-    },
-    {
-      "id": "4983124",
-      "time": "2026-07-13 06:37:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【券商另類子三年投資科創逾200億元，中證協發文建言拓寬發展空間】在“科創券商”敘事的發酵下，證券公司另類投資子公司的行業價值愈發受到市場關注。近期，中證協最新一期內部刊物《傳導》釋出了《證券公司另類投資子公司高質量發展研究》一文。文章指出，另類子已成長為具備“百億級”造血能力的重要子公司，近三年50餘家另類子直接投資於非上市非掛牌的科技型企業金額合計達200多億元。針對行業現存發展堵點，文章提出“科創債”置換、試點放寬“先投後保”限制等多項舉措。（上證報）"
     }
   ]
 }
