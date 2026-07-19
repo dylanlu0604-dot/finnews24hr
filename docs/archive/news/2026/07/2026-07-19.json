@@ -1,7 +1,23 @@
 {
   "date": "2026-07-19",
-  "count": 353,
+  "count": 355,
   "items": [
+    {
+      "id": "mkt:019f78b8-a601-7aab-8df5-1003cedea8ce",
+      "time": "2026-07-19 12:53:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Samsung Electronics America lays off staff ahead of HQ move; most offered transfers】According to filings and two people familiar with the matter, Samsung Electronics America has cut roles in its display, mobile and other consumer-electronics units, mainly in New Jersey and Texas. About 739 positions at the Englewood Cliffs, New Jersey site are affected as SEA prepares to move its U.S. headquarters to Texas. SEA covers consumer electronics and does not include Samsung’s chip unit. The company said most affected employees were offered transfer opportunities; others were eliminated. One person who said they were laid off put the number at roughly 100 dismissed at SEA’s Plano, Texas office, including mobile staff. While tied to the HQ relocation, the cuts underscore a divergence within Samsung: the chip division has seen record profit gains while consumer electronics are under pressure from rising chip costs."
+    },
+    {
+      "id": "4995849",
+      "time": "2026-07-19 12:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國泰航空延遲恢復往返中東的客運服務】7月19日，據國泰航空訊息，鑑於中東地區局勢的最新發展，國泰航空將延遲恢復每日往返迪拜的客運航班，以及每週四班往返利雅得的客運航班。恢復日期將由原定的2026年9月1日，分別延遲至2026年10月25日及2026年10月26日。國泰航空將為受影響旅客提供靈活票務安排，包括重新預訂機票、更改航點或退票。"
+    },
     {
       "id": "mkt:019f78b4-067b-7aab-8df5-0b604b21dae6",
       "time": "2026-07-19 12:48:11",
