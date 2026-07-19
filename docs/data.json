@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19 23:28:00",
-  "count": 19010,
+  "updated": "2026-07-19 23:32:01",
+  "count": 19004,
   "items": [
     {
       "id": "4996200",
@@ -175334,54 +175334,6 @@
         "國際"
       ],
       "text": "美國駐聯合國大使邁克·沃爾茨表示，伊朗並未遵守在6月達成的初步協議。"
-    },
-    {
-      "id": "4982988",
-      "time": "2026-07-12 23:30:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列議會將於7月17日休會，籌備大選。"
-    },
-    {
-      "id": "4982987",
-      "time": "2026-07-12 23:29:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列議會選舉定於10月27日舉行，這是自1988年以來，以色列議會首次未提前舉行大選。"
-    },
-    {
-      "id": "4982986",
-      "time": "2026-07-12 23:29:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦呼籲立即降低緊張局勢，並遵守伊斯蘭堡備忘錄。"
-    },
-    {
-      "id": "mkt:019f56f2-8f92-7aab-8d45-d6f774b97d27",
-      "time": "2026-07-12 23:29:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "EU ambassadors again failed to agree on a new Russia sanctions package."
-    },
-    {
-      "id": "mkt:019f56f2-30a7-7aab-8d45-cd38a48d8646",
-      "time": "2026-07-12 23:29:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "i24News reports Israel will hold parliamentary elections on Oct 27, the first scheduled (non-snap) parliamentary election since 1988."
-    },
-    {
-      "id": "4982985",
-      "time": "2026-07-12 23:28:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟各國大使再度未能就新一輪對俄製裁方案達成共識。"
     }
   ]
 }
