@@ -1,7 +1,27 @@
 {
   "date": "2026-07-19",
-  "count": 705,
+  "count": 707,
   "items": [
+    {
+      "id": "mkt:019f7a6a-a478-7aab-8df7-ca68c5ff0b9b",
+      "time": "2026-07-19 20:47:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israel's Channel 12 said the US military intercepted an Iranian missile launched toward Aqaba, Jordan."
+    },
+    {
+      "id": "4996119",
+      "time": "2026-07-19 20:44:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體： 美軍攔截了一枚射向約旦亞喀巴市的伊朗導彈。"
+    },
     {
       "id": "4996118",
       "time": "2026-07-19 20:42:48",
