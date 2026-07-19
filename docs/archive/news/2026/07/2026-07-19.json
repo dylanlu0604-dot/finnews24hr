@@ -1,7 +1,28 @@
 {
   "date": "2026-07-19",
-  "count": 833,
+  "count": 835,
   "items": [
+    {
+      "id": "4996201",
+      "time": "2026-07-19 23:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：週日凌晨，以軍在加沙地帶多個地區實施打擊，摧毀多處基礎設施，包括一處武器儲存設施、一處武器生產場所以及一處火箭發射陣地。"
+    },
+    {
+      "id": "mkt:019f7b01-750c-7aab-8df9-460e34892b6e",
+      "time": "2026-07-19 23:32:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iranian media: Strait of Hormuz transit volume down to zero】Iranian media on the 19th, citing an IRGC naval source, reported that shipping through the Strait of Hormuz has fallen to zero. The source said no vessels are currently transiting, any transit attempts would be struck, and the strait will remain closed with no transit permits issued so long as the United States continues what Iran describes as hostile and provocative actions."
+    },
     {
       "id": "4996200",
       "time": "2026-07-19 23:27:03",

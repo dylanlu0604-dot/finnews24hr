@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-19 23:32:01",
-  "count": 19004,
+  "updated": "2026-07-19 23:36:02",
+  "count": 19000,
   "items": [
+    {
+      "id": "4996201",
+      "time": "2026-07-19 23:33:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：週日凌晨，以軍在加沙地帶多個地區實施打擊，摧毀多處基礎設施，包括一處武器儲存設施、一處武器生產場所以及一處火箭發射陣地。"
+    },
+    {
+      "id": "mkt:019f7b01-750c-7aab-8df9-460e34892b6e",
+      "time": "2026-07-19 23:32:00",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iranian media: Strait of Hormuz transit volume down to zero】Iranian media on the 19th, citing an IRGC naval source, reported that shipping through the Strait of Hormuz has fallen to zero. The source said no vessels are currently transiting, any transit attempts would be struck, and the strait will remain closed with no transit permits issued so long as the United States continues what Iran describes as hostile and provocative actions."
+    },
     {
       "id": "4996200",
       "time": "2026-07-19 23:27:03",
@@ -175286,54 +175307,6 @@
         "DXY"
       ],
       "text": "【UN envoy Jean Arnault meets Iran foreign minister Araghchi】UN envoy to Lebanon Jean Arnault met Iran foreign minister Araghchi in Tehran to consult on Lebanese affairs and the UN’s role in consolidating the ceasefire and ending the regional war. Arnault reviewed Lebanon’s situation and called for implementation of the US‑Iran ceasefire memorandum and enhanced regional cooperation to secure lasting peace, including in Lebanon. Araghchi strongly condemned what he called illegal US attacks on Iran, breaches of arrangements in the Strait of Hormuz, and Israel’s ongoing military actions in Lebanon, saying the US is responsible for escalation risk and urging the UN to adopt a clear, firm stance. He reiterated Iran’s full support for the Lebanese people, Lebanon’s territorial integrity and sovereignty, and said Iran will continue efforts to end Israeli aggression and occupation of Lebanese territory."
-    },
-    {
-      "id": "4982993",
-      "time": "2026-07-12 23:34:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國駐黎巴嫩事務特使與伊朗外交部長會晤。"
-    },
-    {
-      "id": "mkt:019f56f7-08b2-7aab-8d45-da465d0d1cb8",
-      "time": "2026-07-12 23:34:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian foreign minister said he discussed with Saudi Arabia's foreign minister the implementation of agreements reached during President Zelenskiy's spring visit to Saudi Arabia."
-    },
-    {
-      "id": "4982992",
-      "time": "2026-07-12 23:34:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐聯合國大使邁克·沃爾茨：伊朗仍然企圖利用全球經濟作為施壓手段，聯合國中已有143個國家認為伊朗的行為違反了國際法。"
-    },
-    {
-      "id": "4982991",
-      "time": "2026-07-12 23:33:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐聯合國大使邁克·沃爾茨：對伊朗方面聲稱德黑蘭在襲擊經由霍爾木茲海峽的船隻一事上“犯了錯誤”的說法表示質疑，無論是否捲入爭端，任何國家都不應“四處開火，攻擊鄰國、民用船隻和民用基礎設施，在國際水域佈設水雷，以一種不負責任的方式行事。"
-    },
-    {
-      "id": "4982990",
-      "time": "2026-07-12 23:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智利發生汽車撞人事件致6死7傷 】智利瓦爾帕萊索大區總統代表米永內斯12日說，該大區比尼亞德爾馬市當天發生一起汽車撞人事件，造成6人死亡、7人受傷。"
-    },
-    {
-      "id": "4982989",
-      "time": "2026-07-12 23:33:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國駐聯合國大使邁克·沃爾茨表示，伊朗並未遵守在6月達成的初步協議。"
     }
   ]
 }
