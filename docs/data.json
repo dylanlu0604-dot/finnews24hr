@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-20 00:36:37",
-  "count": 18996,
+  "updated": "2026-07-20 00:40:33",
+  "count": 18997,
   "items": [
+    {
+      "id": "mkt:019f7b3f-c912-7aab-8df9-bcd3d9cfc1e5",
+      "time": "2026-07-20 00:40:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jordan summons Iran's chargé in Amman over ongoing attacks】Jordan's foreign ministry said it summoned Iran's chargé d'affaires in Amman and delivered a formal protest note over Iran's continued attacks on Jordanian territory and provocative statements by Iranian official bodies. A ministry spokesman said Jordan asked the chargé to convey a clear message to Tehran to immediately halt the attacks and cease the unacceptable incendiary rhetoric."
+    },
+    {
+      "id": "4996216",
+      "time": "2026-07-20 00:37:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方：防空系統在西部擊落一架MQ-9型敵方無人機。"
+    },
+    {
+      "id": "mkt:019f7b3d-967c-7aab-8df9-b5a198ffbd66",
+      "time": "2026-07-20 00:37:41",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian military said air-defence units shot down an enemy MQ-9 Reaper drone in western Iran."
+    },
+    {
+      "id": "4996215",
+      "time": "2026-07-20 00:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列參謀長：以色列防空系統已進入高度戒備狀態，已做好應對伊朗方面任何局勢變化的準備。"
+    },
+    {
+      "id": "4996214",
+      "time": "2026-07-20 00:36:57",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "國際原子能機構迴避譴責美國打擊伊朗達爾霍溫核設施一事。"
+    },
     {
       "id": "4996213",
       "time": "2026-07-20 00:34:39",
@@ -175228,39 +175273,6 @@
         "公司"
       ],
       "text": "科威特軍方表示，科威特石油公司所屬的一座鑽井平臺遭到無人機襲擊，事故造成設施物資損壞，並有一名工人受傷。"
-    },
-    {
-      "id": "mkt:019f5733-a04c-7aab-8d46-3b15e2af18bd",
-      "time": "2026-07-13 00:40:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kuwait's military said three border posts were attacked, causing material damage."
-    },
-    {
-      "id": "4983014",
-      "time": "2026-07-13 00:40:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特軍方表示，三處邊境據點遭襲擊，造成設施損毀。"
-    },
-    {
-      "id": "4983013",
-      "time": "2026-07-13 00:38:17",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "德國將為烏克蘭採購5萬架攻擊型無人機，這些無人機為烏克蘭SkyFall公司生產的Shrike型號，配備了美國Auterion公司的軟體。"
-    },
-    {
-      "id": "4983012",
-      "time": "2026-07-13 00:37:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議員梅斯談角逐格雷厄姆參議員席位：不排除參選可能，已致信州長，自薦出任格雷厄姆席位臨時繼任者。"
     }
   ]
 }
