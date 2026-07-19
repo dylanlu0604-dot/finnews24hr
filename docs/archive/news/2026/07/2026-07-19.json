@@ -1,7 +1,19 @@
 {
   "date": "2026-07-19",
-  "count": 574,
+  "count": 575,
   "items": [
+    {
+      "id": "mkt:019f79be-ea03-7aab-8df6-95858e9078b6",
+      "time": "2026-07-19 17:39:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said two vessels on the southern Strait of Hormuz shipping lane were involved in accidents and two other vessels have declared they are abandoning their voyages."
+    },
     {
       "id": "4996024",
       "time": "2026-07-19 17:38:32",
