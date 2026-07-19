@@ -1,7 +1,20 @@
 {
   "date": "2026-07-20",
-  "count": 92,
+  "count": 93,
   "items": [
+    {
+      "id": "mkt:019f7bb7-9a81-7aab-8dfa-6f6e45013227",
+      "time": "2026-07-20 02:50:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Syria has emerged as a regional hub for Iraqi fuel oil exports, with more than a quarter of Middle East fuel oil shipments transiting Syrian Mediterranean ports, Syrian state news agency reports. The US is supporting efforts to open alternative transport routes to bypass the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f7bb4-170f-7aab-8dfa-6560cf5690c0",
       "time": "2026-07-20 02:47:07",

@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-20 02:48:31",
+  "updated": "2026-07-20 02:52:25",
   "count": 19022,
   "items": [
+    {
+      "id": "mkt:019f7bb7-9a81-7aab-8dfa-6f6e45013227",
+      "time": "2026-07-20 02:50:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Syria has emerged as a regional hub for Iraqi fuel oil exports, with more than a quarter of Middle East fuel oil shipments transiting Syrian Mediterranean ports, Syrian state news agency reports. The US is supporting efforts to open alternative transport routes to bypass the Strait of Hormuz."
+    },
     {
       "id": "mkt:019f7bb4-170f-7aab-8dfa-6560cf5690c0",
       "time": "2026-07-20 02:47:07",
@@ -175471,14 +175484,6 @@
         "DAX"
       ],
       "text": "【Spain approves $8 billion housing plan; public housing investment to triple over four years】Spain has approved an $8 billion housing plan that will triple government investment in public housing over the next four years to address a worsening housing shortage. The shortfall, which has left many Spaniards unable to buy or afford rentals, is being driven by rising immigration, record tourism and rapid growth in short-term rental platforms such as Airbnb; Spain expects to receive more than 100 million tourists this year. Increased tourist demand and short-term lets have tightened housing supply, forcing some residents into campervans or mobile homes."
-    },
-    {
-      "id": "4983047",
-      "time": "2026-07-13 02:48:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍將於7月13日星期一會見“意願聯盟”各國領導人。屆時將有至少25位國家元首和政府首腦齊聚一堂，討論對烏克蘭的支援問題。"
     }
   ]
 }
