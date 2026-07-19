@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-20 04:09:23",
+  "updated": "2026-07-20 04:13:20",
   "count": 19009,
   "items": [
+    {
+      "id": "mkt:019f7c01-459f-7aab-8dfa-a0c9799a88c4",
+      "time": "2026-07-20 04:11:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said the US strike on the under-construction Darkhwin power plant was a dangerous attack on Iran's peaceful infrastructure and that Washington must bear full responsibility for any escalation and the resulting insecurity and instability. Tehran strongly condemned the attack and said it will take appropriate measures to defend national interests and security."
+    },
     {
       "id": "4996270",
       "time": "2026-07-20 04:07:29",
@@ -175356,14 +175368,6 @@
         "其他"
       ],
       "text": "伊拉克對霍爾木茲海峽近期緊張局勢下的海上安全形勢表示擔憂，呼籲各方保持克制，避免採取可能危及商船航行安全的行動。 巴格達方面稱，伊拉克支援一切旨在緩和緊張局勢的舉措。"
-    },
-    {
-      "id": "4983066",
-      "time": "2026-07-13 04:11:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國多州準備提起訴訟，阻止派拉蒙併購交易。最早於本週提起訴訟。"
     }
   ]
 }

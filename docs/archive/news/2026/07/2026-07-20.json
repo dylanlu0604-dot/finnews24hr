@@ -1,7 +1,19 @@
 {
   "date": "2026-07-20",
-  "count": 106,
+  "count": 107,
   "items": [
+    {
+      "id": "mkt:019f7c01-459f-7aab-8dfa-a0c9799a88c4",
+      "time": "2026-07-20 04:11:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "Iran's deputy foreign minister said the US strike on the under-construction Darkhwin power plant was a dangerous attack on Iran's peaceful infrastructure and that Washington must bear full responsibility for any escalation and the resulting insecurity and instability. Tehran strongly condemned the attack and said it will take appropriate measures to defend national interests and security."
+    },
     {
       "id": "4996270",
       "time": "2026-07-20 04:07:29",
