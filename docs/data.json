@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-20 05:16:22",
-  "count": 19033,
+  "updated": "2026-07-20 05:20:15",
+  "count": 19029,
   "items": [
+    {
+      "id": "4996302",
+      "time": "2026-07-20 05:19:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場資訊：SK集團正籌劃在美國建廠，以增加供應、應對價格異常高企。"
+    },
+    {
+      "id": "4996301",
+      "time": "2026-07-20 05:17:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界盃決賽常規時間結束，雙方均無進球進入加時賽。"
+    },
     {
       "id": "4996300",
       "time": "2026-07-20 05:15:37",
@@ -175517,59 +175534,6 @@
         "國際"
       ],
       "text": "美方稱，已於美國東部時間下午5點（北京時間5:00）對伊朗發動新一輪打擊。"
-    },
-    {
-      "id": "4983080",
-      "time": "2026-07-13 05:19:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "美方訊息：本次打擊旨在削弱伊朗襲擊民用航運船隻的能力。"
-    },
-    {
-      "id": "4983079",
-      "time": "2026-07-13 05:19:16",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國中央司令部證實已對伊朗發起新一輪打擊。"
-    },
-    {
-      "id": "4983078",
-      "time": "2026-07-13 05:18:56",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "美方訊息：三軍統帥已下令實施打擊行動。"
-    },
-    {
-      "id": "mkt:019f5832-512e-7aab-8d47-1d44fd88bc90",
-      "time": "2026-07-13 05:18:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's state broadcaster IRIB said three explosions were heard in Jask, Hormozgan province, Iran."
-    },
-    {
-      "id": "4983077",
-      "time": "2026-07-13 05:17:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺報道，阿巴斯港以西傳出多起爆炸聲。"
-    },
-    {
-      "id": "mkt:019f5831-73d7-7aab-8d47-1517ca9f77bf",
-      "time": "2026-07-13 05:17:43",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Fars news agency reported that around 00:30 local time (05:00 Beijing) today more than 10 explosions were heard at Iran’s Bandar Abbas and Sirik ports; exact locations remain unclear."
     }
   ]
 }
