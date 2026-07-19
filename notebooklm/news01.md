@@ -1,7 +1,189 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-20 02:06:48_
-_本檔包含 3527 則快訊，約 719113 字_
+_更新時間：2026-07-20 03:27:34_
+_本檔包含 3543 則快訊，約 719746 字_
+
+---
+
+### 2026-07-20 03:14:26  #國際
+
+美國軍方：一名駐伊拉克北部軍人於7月18日在行動中陣亡。
+
+---
+
+### 2026-07-20 03:13:17  #其他
+
+美軍中央司令部：軍方人員發現不明身份遺體殘骸。
+
+---
+
+### 2026-07-20 03:13:16  #MKT News
+
+CENTCOM said a U.S. service member died on July 18 in northern Iraq during a combat mission while conducting a controlled detonation of an unexploded munition left by a downed Iranian one-way attack drone. A second U.S. service member was wounded in the incident.
+
+---
+
+### 2026-07-20 03:12:27  #市場
+
+週一悉尼盤初，美元兌日元報價大致持平，窄幅震盪於162.38-162.43日元。歐元兌美元跌0.06%，至1.1431；英鎊兌美元持平於1.3453。商品貨幣對中，澳元兌美元跌0.2%，至0.6970下方；紐元兌美元跌0.13%，至0.5835下方；美元兌加元跌0.06%，至1.4013下方。
+
+---
+
+### 2026-07-20 03:04:11  #MKT News
+
+【Israeli PM office criticizes NYC mayor for studying Netanyahu arrest】Israel's prime minister's office criticized New York City's mayor after the mayor said he was studying how to arrest Prime Minister Benjamin Netanyahu should he travel to New York. The PMO called the International Criminal Court a "kangaroo court", said it lacks jurisdiction over Americans and Israelis, and said the warrant was issued by "disgraced former ICC chief prosecutor Karim Khan", adding that sexual-misconduct allegations against Khan surfaced days later and alleging the move was intended to distract public attention.
+
+---
+
+### 2026-07-20 02:54:05  #MKT News
+
+Qatar's foreign ministry said Qatari PM spoke with Jordan's deputy prime minister and condemned Iran's attack on Jordan.
+
+---
+
+### 2026-07-20 02:50:57  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
+
+Syria has emerged as a regional hub for Iraqi fuel oil exports, with more than a quarter of Middle East fuel oil shipments transiting Syrian Mediterranean ports, Syrian state news agency reports. The US is supporting efforts to open alternative transport routes to bypass the Strait of Hormuz.
+
+---
+
+### 2026-07-20 02:47:07  #MKT News
+
+【Wildfire in France's Var department】A wildfire broke out in France's Var department on July 19. As of 18:45 local time the blaze had burned about 180 hectares, forced the evacuation of roughly 160 residents and damaged multiple homes. Authorities deployed about 285 firefighters and firefighting helicopters. Several roads were closed and rail services between Toulon and Nice were suspended.
+
+---
+
+### 2026-07-20 02:46:33  #國際
+
+伊朗議會議長卡利巴夫：響應最高領袖關於“神聖團結”的號召，是伊朗在面對敵人時取得成功的關鍵。
+
+---
+
+### 2026-07-20 02:44:09  #MKT News
+
+【Trump says US will immediately reapply to host World Cup; backs Argentina in final】President Trump told FIFA president Gianni Infantino the US will "immediately" reapply to host the World Cup, saying "based on this tournament's data, we will immediately apply again." He noted the 2030 World Cup will be hosted by Spain, Portugal and Morocco, and the 2034 tournament is confirmed for Saudi Arabia; the 2038 host remains undecided. On the final, Trump said it is hard to bet against Lionel Messi and that he would not take sides.
+
+---
+
+### 2026-07-20 02:44:01  #其他
+
+【法國南部瓦爾省發生森林火災】當地時間7月19日，法國南部瓦爾省發生森林火災。截至當天18時45分，火災已燒燬約180公頃林地，約160名居民被疏散，多棟房屋受損。據瓦爾省政府介紹，火災發生於當天下午，隨後迅速蔓延。當地共投入約285名消防員以及滅火直升機等力量參與撲救。受火災影響，多條道路封閉，土倫至尼斯鐵路交通暫停。
+
+---
+
+### 2026-07-20 02:43:24  #其他
+
+【西班牙瓜達拉哈拉省山火過火面積達1.6萬公頃】總檯記者當地時間7月19日獲悉，西班牙卡斯蒂利亞-拉曼恰大區瓜達拉哈拉省拉米耶拉地區山火過火面積已達1.6萬公頃。20個村鎮人員被疏散，另有5個村鎮居民被要求留在室內，約800人被轉移安置。這場山火於當地時間16日發生。截至19日下午，火勢仍未得到控制，應急響應級別維持在二級。大部分過火區域位於北部山脈自然公園範圍內，當地生態環境價值較高。（央視新聞）
+
+---
+
+### 2026-07-20 02:40:26  #國際
+
+【美國向中東增派F-16、F-35戰機及加油機】美國官員透露，美國正向中東增派F-16、F-35戰鬥機以及空中加油機。這項部署指令早在伊朗近期襲擊約旦、造成兩名美軍士兵身亡之前就已下達，當前美伊之間緊張局勢仍在持續升級。一名以色列軍方官員表示，部分新增戰機或將部署至以色列空軍基地。
+
+---
+
+### 2026-07-20 02:36:57  #國際
+
+卡達外交部：首相兼外交部長強調各方必須堅持外交途徑，並確保霍爾木茲海峽的航行自由。
+
+---
+
+### 2026-07-20 02:35:22  #國際
+
+特朗普談梅西與C羅：我前不久剛見過梅西，也和克里斯蒂亞諾（C羅）相識，他倆日子過得相當愜意。我覺得他們的生活特別舒服，說實話，比我的輕鬆太多。真的，我都想跟他們互換身份，哪怕就換一個月左右也好。
+
+---
+
+### 2026-07-20 02:32:48  #公司
+
+格里芬租賃公司：一架波音737 MAX 8飛機完成交付，以租賃形式交付越捷航空（越南低成本航空公司）。
+
+---
+
+### 2026-07-20 02:28:25  #國際
+
+卡達外交部：首相兼外交部長已與約旦外交部長通話，約旦譴責伊朗對其國家的持續侵犯。
+
+---
+
+### 2026-07-20 02:28:13  #國際
+
+卡達外交部：首相兼外交部長強調，各方必須堅持對話並落實諒解備忘錄。
+
+---
+
+### 2026-07-20 02:28:07  #國際
+
+卡達外交部：首相兼外交部長重申卡達國對緩解緊張局勢、達成全面協議的努力予以支援。
+
+---
+
+### 2026-07-20 02:27:41  #國際
+
+【科威特軍方稱伊朗襲擊造成“嚴重損毀”】科威特軍方表示，伊朗針對科威特電力、水利與可再生能源部下屬設施發動襲擊，引發火情，當地基礎設施及關鍵民生機構遭受“嚴重損毀”。科威特軍方稱，自週日凌晨起，其已成功攔截多枚彈道導彈與無人機。
+
+---
+
+### 2026-07-20 02:20:38  #MKT News
+
+Fox News: White House confirmed President Trump will present the World Cup trophy to the winner of today’s Argentina v Spain final.
+
+---
+
+### 2026-07-20 02:20:08  #國際
+
+白宮證實，特朗普總統將為今日阿根廷對陣西班牙的世界盃決賽冠軍頒發大力神杯。
+
+---
+
+### 2026-07-20 02:16:42  #其他
+
+預測平臺Kalshi世界盃決賽市場賠率傾向：
+西班牙 58.4%，
+阿根廷 42%。
+
+---
+
+### 2026-07-20 02:14:00  #國際
+
+【特朗普現身世界盃決賽現場，觀戰阿根廷對陣西班牙】當地時間週日下午，美國總統特朗普抵達世界盃決賽賽場。他將現場觀看本屆賽事最後一場較量，見證阿根廷與西班牙爭奪大力神杯。隨行記者團訊息顯示，特朗普在美國東部時間下午1點前抵達賽場，賽後不久記者便被引匯入場，參與賽前系列活動。週五，特朗普設宴招待國際足聯主席詹尼·因凡蒂諾，並召開新聞釋出會。他表示，會向因凡蒂諾提出美國再次承辦世界盃的訴求。而未來兩屆世界盃的主辦權已全部敲定。
+
+---
+
+### 2026-07-20 02:12:25  #焦點 #國際
+
+特朗普抵達世界盃決賽現場，本場對決為阿根廷對陣西班牙。
+
+---
+
+### 2026-07-20 02:12:01  #MKT News #Important #WTI #Impact bullish #Brent
+
+Reports of explosions heard in Kuwait.
+
+---
+
+### 2026-07-20 02:11:25  #國際
+
+科威特軍隊：伊朗的襲擊波及電力與水務部的設施，造成火災並引發嚴重損失。
+
+---
+
+### 2026-07-20 02:11:19  #其他
+
+威特軍隊：自今日凌晨起，我們在領空內摧毀了多枚彈道導彈和多架無人機。
+
+---
+
+### 2026-07-20 02:10:38  #其他
+
+市場資訊：俄軍使用制導炸彈襲擊扎波羅熱地區，造成3人死亡、33人受傷。
+
+---
+
+### 2026-07-20 02:09:44  #其他
+
+科威特境內再傳爆炸聲。
 
 ---
 
@@ -21256,89 +21438,5 @@ CHINA'S WERIDE (WRD.O) unveiled WITT, a physical AI cognitive foundation model.
 ### 2026-07-17 14:32:02  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bullish #CSI300
 
 【Two Chinese ETFs post highest turnover since Sept. 24, 2024】Huaxia Sci‑Tech Innovation 50 ETF (588000) traded 13.0 bln yuan and E Fund ChiNext ETF (159915) traded 13.8 bln yuan, each the largest daily turnover since the Sept. 24, 2024 session. Their prior post‑Sept. 24 highs were 12.714 bln yuan on Aug. 28, 2025 (Huaxia) and 13.721 bln yuan on Jan. 16, 2026 (E Fund). Huaxia recorded net inflows of 7.032 bln yuan over the past five trading days; E Fund ChiNext ETF net inflows were 4.581 bln yuan over the same period.
-
----
-
-### 2026-07-17 14:31:57  #國際
-
-俄羅斯農業部長盧特：俄羅斯已收穫超過2100萬噸穀物。
-
----
-
-### 2026-07-17 14:31:48  #公司 #國際
-
-【LV老闆被責令補稅】據中新經緯綜合外媒報道，在一場持續多年的法律訴訟後，法國首富、LVMH掌門人貝爾納·阿爾諾（Bernard Arnault）近日被法國當局責令補繳2250萬歐元（約合人民幣1.74億元）稅款。巴黎行政上訴法院近期一份裁決顯示，阿爾諾和他的夫人被要求向法國當局繳納2010年的1296萬歐元“額外繳款”，包括稅款、社會保險繳款、附加費和滯納金利息等。此外，阿爾諾夫婦還須補繳2012年至2015年間的法國財富團結稅，合計950萬歐元。阿爾諾方面在7月4日回應媒體說，他們將就法院裁決向法國最高行政法院提起上訴。彭博億萬富翁指數顯示，阿爾諾目前淨資產約為1650億美元，是法國和歐洲首富，以及全球第八大富豪。阿爾諾的發言人表示，LVMH是法國納稅最多的企業。該集團的整體業務還貢獻了逾1%的法國國內生產總值。LVMH財務總監在財報電話會上表示，該公司繳納的所得稅總額去年增至約55億歐元，比2024年增加逾3億歐元。
-
----
-
-### 2026-07-17 14:31:35  #Trading Economics #Markets #Australia #Stock Market #Importance 1
-
-ASX Slips 0.3% This Week — Australia's ASX 200 fell 58 points, or 0.7%, to close at 8,783 on Friday, pressured by sharp losses in U.S. stock futures after chip stocks tumbled on Wall Street Thursday following their blistering rally earlier this year. Escalating Middle East tensions and weaker shipping flows through the Strait of Hormuz added to the cautious tone. The local benchmark reversed from a muted prior session, ending the week down 0.3% and marking a second straight weekly decline. Traders cautiously braced for Australia's labor data next week after May logged the strongest jobs growth in five months, even as unemployment stayed near a four-year top. Tech, non-energy minerals, manufacturing, and consumer non-durables led falls. Miners dropped 2.9%, with BHP and Rio Tinto sliding 2.9% and 2.5%, while gold names Evolution Mining (-4.2%) and Northern Star (-4.0%) also weighed. The big four banks eased between 0.2% and 1.1%. Energy stocks bucked the trend, lifted by Woodside Energy (2.9%) and Santos (1.7%).
-
----
-
-### 2026-07-17 14:31:32  #MKT News #Important #Nikkei 225 #Impact bearish
-
-【Japan's Nikkei 225 down 4% at close; South Korea market closed】Japan's Nikkei 225 closed down 2,694.42 points (-4.03%) at 64,141.12 on July 17 (Friday), after an intraday drop of as much as 6% that briefly pushed the index below 63,000. TOPIX fell 2.72%. Notable movers: Kioxia -16%, SoftBank -8.5%, Advantest -8%. South Korea's stock market was closed today.
-
----
-
-### 2026-07-17 14:31:19  #市場 #其他 #焦點 #國際
-
-【2只科創、創業ETF均創924行情後最高成交記錄】科創50ETF華夏（588000）成交額達130億元，創業板ETF易方達（159915）成交額達138億元均重新整理2024年9月24日行情以後最高成交記錄，2只ETF在924行情後最高記錄分別為2025年8月28日的127.14億元和2026年1月16日的137.21億元。科創50ETF華夏（588000）近5個交易日累計淨流入70.32億元；創業板ETF易方達（159915）近5個交易日累計淨流入45.81億元。
-
----
-
-### 2026-07-17 14:31:11  #市場 #焦點 #國際
-
-【日股低收4% 韓股休市】日經225指數收盤下跌2694.42點，跌幅4.03%，報64141.12點，盤中一度下跌6%，失守63000點；日本東證指數收盤跌2.72%；個股鎧俠跌16%、軟銀跌8.5%、愛德萬測試跌8%。韓國股市今日休市。
-
----
-
-### 2026-07-17 14:30:50  #國際
-
-烏克蘭稱昨晚在黑海襲擊了12艘俄羅斯船隻。
-
----
-
-### 2026-07-17 14:30:36  #其他
-
-【均勝電子釋出混合驅動靈巧手及執行器等關鍵技術】7月17日，均勝電子在世界人工智慧大會上釋出了獨創的“掌內混合驅動”的靈巧手。該靈巧手具備20個自由度，掌內整合直驅、腱繩和連桿三種驅動方式，並整合自研微型執行器，體積減半、重量減輕30%，扭矩密度高於同行業2—3倍；自研的電子皮膚擁有全球獨創物理原生解耦的三維力感知技術，感知解析度媲美人手感知。同時，均勝電子還發布了固液混合電池（半固態電池）等機器人全場景能源解決方案和機器人具身智慧體大腦等新產品。
-
----
-
-### 2026-07-17 14:30:03  #Trading Economics #Markets #Japan #Stock Market #Importance 1
-
-The Nikkei 225 Index Closes 4.73% Lower — The Nikkei 225 Index dropped 3161 points or 4.73 percent on Friday to close at 63674 points. Losses were led by Sumco (-15.17%), Screen Holdings (-13.05%) and Taiyo Yuden (-12.53%).
-
----
-
-### 2026-07-17 14:29:59  #公司 #國際
-
-【民調：特朗普在伊朗問題上遭遇政治失敗】美國媒體16日釋出的最新民調顯示，美國總統特朗普在伊朗問題上的政治處境正持續惡化。雖然特朗普反覆將前總統奧巴馬執政時期達成的伊朗核問題全面協議描繪為“災難”，並承諾推出“好得多”的協議，但美國公眾對其在伊朗問題上的表現及前景普遍持悲觀態度。美國《華盛頓郵報》和益普索集團聯合進行的最新民調顯示，特朗普的總體支援率為37%，不支援率為61%。其中，“強烈支援”特朗普的比例降至新低15%，低於2月的19%。（新華社）
-
----
-
-### 2026-07-17 14:28:34  #MKT News #Commodities #Energy #VOLCAR-B.ST #Impact bearish #Brent #Impact bullish #Copper
-
-Volvo Cars CFO said the impact of higher oil and raw-material prices began to show in H2 this year.
-
----
-
-### 2026-07-17 14:28:15  #公司
-
-沃爾沃汽車首席財務官：高油價和原材料價格的影響將在今年下半年真正開始顯現。
-
----
-
-### 2026-07-17 14:28:00  #公司
-
-【時隔近8年 義大利熱那亞公路橋垮塌案宣判】義大利熱那亞一家法院16日就2018年熱那亞公路橋垮塌案作出一審判決，32人被判有罪，該公路橋運營商義大利高速公路公司的前負責人喬瓦尼·卡斯泰盧奇獲刑12年。（新華社）
-
----
-
-### 2026-07-17 14:27:33  #Trading Economics #Markets #commodity #Importance 0
-
-EU Carbon Permits Hits 4-week Low — EU Carbon Permits decreased to 78.26 EUR, the lowest since June 2026. Over the past 4 weeks, EU Carbon Permits lost 1.81%, and in the last 12 months, it increased 12.41%.
 
 ---

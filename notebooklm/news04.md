@@ -1,7 +1,103 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-20 02:06:48_
-_本檔包含 4061 則快訊，約 718881 字_
+_更新時間：2026-07-20 03:27:34_
+_本檔包含 4066 則快訊，約 719285 字_
+
+---
+
+### 2026-07-15 08:56:04  #其他
+
+【上海釋出高溫橙色預警，中心城區大部最高氣溫將超37℃】上海市氣象臺2026年7月15日8時00分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。
+
+---
+
+### 2026-07-15 08:55:48  #公司 #國際
+
+【美銀：SK海力士2028年新增產能或僅為計劃的六分之一】當地時間7月14日，美銀髮布報告稱，由於技術升級導致舊廠關閉，韓國年均晶圓產能實際增速將低於10%，遠不及官方設定的2030年翻倍目標。SK海力士到2028年的新增記憶體產能可能僅為原計劃的六分之一。此外，三星與SK海力士在光州和全羅新建大型晶圓廠的建設及裝置鋪設週期恐拉長至十年。
+
+---
+
+### 2026-07-15 08:55:24  #國際
+
+市場訊息：韓國券商討論提高晶片槓桿ETF的保證金。
+
+---
+
+### 2026-07-15 08:55:19  #Trading Economics #Markets #Japan #stocks #Importance 1
+
+Mitsui Stock Price Hits 4-week High — Mitsui shares increased to 4812.00 JPY, the highest since June 2026. Over the past 4 weeks, Mitsui lost 0.74%, and in the last 12 months, it increased 60.98%.
+
+---
+
+### 2026-07-15 08:54:54  #公司 #市場
+
+【財通福鑫定開混合（501046）：本基金將於2026年7月15日全天停牌】截至2026年7月14日上海證券交易所收盤，財通基金管理有限公司（以下簡稱“本基金管理人”）旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046，以下簡稱“本基金”）二級市場交易價格嚴重高於基金份額淨值，出現極大幅度溢價。特此提示投資者關注二級市場交易價格溢價風險，投資者如果盲目投資，可能遭受重大損失。為維護投資者利益，本基金將於2026年7月15日全天停牌。若本基金後續二級市場交易價格溢價幅度未有效回落，本基金有權採取向上海證券交易所申請盤中臨時停牌、延長停牌時間等措施以向市場警示風險，具體以屆時公告為準。
+
+---
+
+### 2026-07-15 08:54:14  #公司
+
+【中國航天集團在上海投資成立航天科技新公司】企查查APP顯示，近日，宇擎動力（上海）航天科技有限公司成立，經營範圍包含：火箭發動機研發與製造；技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣。企查查股權穿透顯示，該公司由中國航天科技集團有限公司全資子公司西安航天科技工業有限公司等共同持股。
+
+---
+
+### 2026-07-15 08:53:55  #公司
+
+【長飛光纖等在武漢新設智慧創投基金】企查查APP顯示，近日，長飛江城智慧創業投資基金（武漢）合夥企業（有限合夥）成立，經營範圍包含：私募股權投資基金管理、創業投資基金管理服務。企查查股權穿透顯示，該企業由長飛光纖全資子公司武漢市長飛資本管理有限責任公司等共同出資。
+
+---
+
+### 2026-07-15 08:53:45  #經濟數據 #美國
+
+【一夜變天！美國通脹超預期降溫 美聯儲本月加息機率驟降至15%】週二，美國通脹資料出人意料的急劇放緩，引發了美國股債市場的攜手反彈，交易員們也紛紛撤銷了對美聯儲最早可能於本月加息的押注。這一走勢標誌著華爾街的又一次迅速轉向——此前，由於美聯儲官員發表鷹派言論，以及美伊衝突重燃導致油價再度上漲，市場對美聯儲可能在7月議息會議上加息的預期一直在持續升溫。
+
+---
+
+### 2026-07-15 08:53:35  #國際
+
+【人民日報：菲方南海領土擴張主張不產生任何國際法效力】一段時期以來，菲律賓不斷炒作對中國黃巖島和所謂“卡拉延島群”的領土聲索，透過國內立法、單邊海上侵權行動、聯合域外勢力開展軍演等方式，妄圖固化其非法訴求。菲律賓的法定領土範圍早已由一系列生效國際條約明確劃定，中國黃巖島和南沙群島均不在其領土邊界之內。此外，巴丹群島同樣不在系列國際條約劃定的菲律賓法定領土範圍之內，其管控現狀是近代列強殖民擴張催生的歷史遺留產物。菲方罔顧條約約定、侵佔中國南海島礁的行為，完全違背《聯合國憲章》與國際法基本原則，其所有擴張性領土主張與侵佔行為均屬非法，不產生任何國際法效力。
+
+---
+
+### 2026-07-15 08:53:27  #MKT News
+
+Caitong Fuxin Interval-Open Mixed Fund (501046) will be suspended for the full trading day on 15 July 2026.
+
+---
+
+### 2026-07-15 08:50:39  #國際
+
+據報道，宜家計劃在2030年前在印度開設25家門店。
+
+---
+
+### 2026-07-15 08:48:50  #國際
+
+據印度經濟時報報道，宜家計劃到2030年投資約1100億印度盧比用於印度門店擴張。
+
+---
+
+### 2026-07-15 08:47:30  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #SZSE Component
+
+【China margin financing on two exchanges falls 10.96 bln yuan】As of July 14, margin financing on the Shanghai Stock Exchange was 1.452 tln yuan, down 5.503 bln yuan from the prior trading day; on the Shenzhen Stock Exchange it was 1.417 tln yuan, down 5.455 bln yuan; combined balance 2.869 tln yuan, down 10.958 bln yuan.
+
+---
+
+### 2026-07-15 08:47:12  #其他
+
+【兩市融資餘額較上日減少109.58億元】截至7月14日，上交所融資餘額報14520.14億元，較前一交易日減少55.03億元；深交所融資餘額報14172.64億元，較前一交易日減少54.55億元；兩市合計28692.78億元，較前一交易日減少109.58億元。
+
+---
+
+### 2026-07-15 08:46:26  #其他
+
+【進度過四成，我國南方早稻迎來大面積收穫】農業農村部最新農情排程顯示，我國南方早稻迎來大面積收穫，收穫進度已過四成。
+
+---
+
+### 2026-07-15 08:46:04  #Trading Economics #Markets #Japan #Stock Market #Importance 2
+
+Japanese Shares Gain for Second Session — The Nikkei 225 Index climbed 0.9% to above 68,300, while the broader Topix Index advanced 1% to 4,080 on Wednesday, extending gains from the previous session as Japanese equities tracked Wall Street higher after softer-than-expected US inflation data reduced expectations of a near-term Federal Reserve interest rate hike. Investors also looked past escalating geopolitical tensions in the Middle East after President Donald Trump threatened additional strikes on Iran while reinstating a US blockade against Tehran in the Strait of Hormuz. On the domestic front, data showed Japan’s machinery orders fell more than expected in May, reflecting broad-based weakness in business investment. Technology and AI-related stocks led the advance, with Kioxia Holdings surging 6.7%, Advantest rising 4.4%, Tokyo Electron gaining 1.6%, Taiyo Yuden adding 5.7%, and Lasertec jumping 6.9%.
 
 ---
 
@@ -24444,71 +24540,5 @@ A-share-listed Tuojing Technology shares hit an intraday record high, trading up
 ### 2026-07-14 10:21:06  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
 
 CENTCOM says US forces have completed a new round of strikes on Iranian military targets.
-
----
-
-### 2026-07-14 10:20:42  #MKT News #Important #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite
-
-China A-share commercial space sector extended losses, with China Satcom hitting the daily limit-down; Aerospace Development, China Satellite, Tongyu Communications and Aerospace Power earlier also hit limit-downs.
-
----
-
-### 2026-07-14 10:20:37  #焦點 #國際
-
-美軍完成對伊朗軍事目標的新一輪打擊。
-
----
-
-### 2026-07-14 10:20:36  #MKT News #Market Regions #Greater China #CNH #Impact bullish #CSI300
-
-【Customs: China's trade with 31 FTA partners up 28.1% in 1H; share rises to 46.5%】China's Customs said it has implemented zero-tariff treatment for 63 countries. In 1H, China's imports and exports with 31 free-trade agreement partners rose 28.1% YoY, accounting for 46.5% of total foreign trade. Comprehensive bonded zones handled 4.34 trillion yuan of imports and exports in 1H, up 28.2% YoY.
-
----
-
-### 2026-07-14 10:20:24  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Iranian media report explosion at US military base in Kuwait】Multiple Iranian media reported an explosion at a US military base in Kuwait on the 14th (local time).
-
----
-
-### 2026-07-14 10:19:58  #MKT News #00568.HK #Impact bullish #02178.HK #01033.HK
-
-Hong Kong oil and gas equipment and services shares strengthened: Shandong Molong (00568.HK) rose more than 13%, Baiqin Oilfield Services (02178.HK) gained over 8%, and Sinopec Oilfield Service (01033.HK) climbed over 3%.
-
----
-
-### 2026-07-14 10:19:56  #MKT News #CNH #Impact bullish #Copper #DXY #Impact bearish
-
-【CUSTOMS: 267,000 foreign-trade firms expanded into new countries and regions in 1H】CUSTOMS said that, compared with the same period a year earlier, 267,000 Chinese foreign-trade firms expanded business into new countries and regions in 1H; their combined import-export value rose 22.6% YoY and accounted for nearly 70% of China’s total foreign trade value.
-
----
-
-### 2026-07-14 10:19:50  #Trading Economics #Markets #China #Stock Market #Importance 1
-
-Shanghai Stocks Hit 3-Month Low — The Shanghai Composite fell 0.2% to 3,908 on Tuesday, its lowest level in three months, while the Shenzhen Component rose 0.3% to 14,555, rebounding from a one-month low. Chinese stocks were mixed as investors assessed the country's growth outlook ahead of key economic data. Q2 GDP growth is expected to slow to 4.5% year-on-year from 5% in Q1, leaving expansion near the lower end of Beijing’s 2026 target range of 4.5% to 5%. The slowdown reflects weak consumer spending, a prolonged property downturn, and subdued investment outside priority sectors such as high-tech manufacturing. Still, Premier Li Qiang signaled that additional policy support remains possible, while this month’s Politburo meeting could provide further clues on upcoming measures. Among notable decliners, China Construction Bank (-1.7%), SMIC (-5.1%), and Zijin Mining (-1.3%) led the losses. In contrast, Zhongji Innolight (1.2%), Eoptolink Technology (3.8%), and NAURA Technology (1.1%) posted gains.
-
----
-
-### 2026-07-14 10:19:32  #市場 #焦點
-
-深證成指漲1.00%，現報14668.642點；上證指數漲0.15%，現報3919.711點；創業板指漲1.55%，現報3781.223點。
-
----
-
-### 2026-07-14 10:18:44  #市場 #焦點
-
-滬深兩市成交額超1萬億元，較上日此時縮量2633億元。
-
----
-
-### 2026-07-14 10:18:12  #市場
-
-滬指翻紅，指數重回3900點上方；深證成指漲幅擴大至0.71％，創業板指漲1.2％；轉基因、PCB、醫藥電商概念股漲幅居前。兩市成交額超1萬億元，較上日此時縮量2633億元。
-
----
-
-### 2026-07-14 10:18:12
-
-【海關總署：上半年我國電子元件、電腦零部件等算力硬體進出口5.13萬億元，增長56.6％】國務院新聞辦公室今天舉行釋出會，介紹今年以來我國外貿執行情況。釋出會上介紹，上半年我國外貿實現了兩位數增長，保持了良好執行態勢。隨著人工智慧快速發展，我國相關產品進出口動力強勁。上半年，我國電子元件、電腦零部件等算力硬體進出口5.13萬億元，增長56.6％。AI眼鏡、AI翻譯器、機械外骨骼等智慧產品快速迭代，各類創新產品不斷湧現。（央視新聞）
 
 ---
