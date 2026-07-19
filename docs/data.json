@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-19 18:35:54",
-  "count": 18952,
+  "updated": "2026-07-19 18:39:53",
+  "count": 18953,
   "items": [
+    {
+      "id": "4996058",
+      "time": "2026-07-19 18:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦官媒引政府發言人稱，過去數小時內約旦當局未發現任何潛在威脅。"
+    },
+    {
+      "id": "mkt:019f79f3-b304-7aab-8df7-05fd8f134841",
+      "time": "2026-07-19 18:37:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Jordan's state news agency, citing a government spokesman, said authorities have not issued any decision to evacuate Aqaba airport or seaport."
+    },
+    {
+      "id": "4996057",
+      "time": "2026-07-19 18:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦官媒援引政府發言人訊息：約旦當局尚未釋出任何疏散亞喀巴機場及港口的決定。"
+    },
     {
       "id": "4996056",
       "time": "2026-07-19 18:33:27",
@@ -174853,26 +174878,6 @@
         "公司"
       ],
       "text": "【88家次滬市公司獲2025年度國家科學技術獎】近日，2025年度國家科學技術獎揭曉，共評選出258個專案和11名科技專家。據不完全統計，88家次滬市上市公司（含控股子公司及參股公司）牽頭或參與完成的科技創新成果獲得2025年度國家科技獎，較2023年度的66家次明顯增長。據悉，上述獲獎專案多為國家科學技術進步獎和國家技術發明獎，涉及高階裝備、新材料、新能源、現代交通、電力裝備、海洋工程、資訊通訊等多個領域。"
-    },
-    {
-      "id": "mkt:019f55e7-6095-7aab-8d44-9ca6bc06eff5",
-      "time": "2026-07-12 18:37:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Jordan's government said Iran's drone and missile attack flagrantly violated Jordanian sovereignty, threatened its security, stability and territorial integrity, represented a dangerous escalation, and violated international law and the UN Charter."
-    },
-    {
-      "id": "mkt:019f55e5-fc6a-7aab-8d44-9115c8179e1a",
-      "time": "2026-07-12 18:36:03",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Bahrain military says Iran continues 'systemic aggression'】Al Jazeera reported Bahrain's military said Iran has launched missile and drone attacks targeting civilians and that Bahrain's air defences intercepted the strikes. The military said its forces are at highest readiness and described Iran's actions as \"systemic aggression\" that violate international humanitarian law. US forces carried out overnight strikes on multiple Iranian cities earlier. Kuwait, Bahrain, Jordan, Qatar and Oman said Iran's Islamic Revolutionary Guard Corps attacked their territory."
     }
   ]
 }

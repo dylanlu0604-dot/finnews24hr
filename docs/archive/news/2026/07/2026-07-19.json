@@ -1,7 +1,32 @@
 {
   "date": "2026-07-19",
-  "count": 620,
+  "count": 623,
   "items": [
+    {
+      "id": "4996058",
+      "time": "2026-07-19 18:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦官媒引政府發言人稱，過去數小時內約旦當局未發現任何潛在威脅。"
+    },
+    {
+      "id": "mkt:019f79f3-b304-7aab-8df7-05fd8f134841",
+      "time": "2026-07-19 18:37:21",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Jordan's state news agency, citing a government spokesman, said authorities have not issued any decision to evacuate Aqaba airport or seaport."
+    },
+    {
+      "id": "4996057",
+      "time": "2026-07-19 18:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦官媒援引政府發言人訊息：約旦當局尚未釋出任何疏散亞喀巴機場及港口的決定。"
+    },
     {
       "id": "4996056",
       "time": "2026-07-19 18:33:27",
