@@ -1,7 +1,175 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-19 23:11:44_
-_本檔包含 3538 則快訊，約 718258 字_
+_更新時間：2026-07-20 00:08:07_
+_本檔包含 3531 則快訊，約 718660 字_
+
+---
+
+### 2026-07-20 00:04:54  #MKT News
+
+【Central Peru earthquake kills five】Peru's National Civil Defense Institute official Luis Vasquez said on July 19 that a magnitude-5.1 earthquake on the evening of July 18 in central Peru has killed five. The quake has injured more than 20 people and affected about 300. Peru's Geophysical Institute said the tremor occurred at 21:24 local time on July 18 (10:24 Beijing time on July 19); the epicenter was 7 km south of Chupaca in Junín province and the focal depth was 24 km.
+
+---
+
+### 2026-07-20 00:04:05  #MKT News
+
+Financial Times reports incoming UK prime minister Burnham will uphold Labour’s controversial ban on new North Sea exploration licences, dashing oil and gas industry hopes for a substantial shift in fossil-fuel policy.
+
+---
+
+### 2026-07-19 23:59:30  #公司
+
+【富創精密：上半年淨利同比預增877%-1122% 半導體裝置核心零部件需求提升公司產能釋放】富創精密(688409.SH)公告稱，預計上半年實現營業收入21億元到25億元，同比增長21.83%到45.03%；歸屬於上市公司股東的淨利潤1.20億元-1.50億元，同比增長877.49%-1121.86%。業績變動主要系境內外晶圓製造企業持續推進產能建設，帶動半導體裝置核心零部件市場需求提升，同時公司各生產基地產能逐步釋放，單位制造成本最佳化。公司Q2淨利潤預計0.62億-0.92億，Q1淨利潤0.58億，據此計算，Q2淨利潤預計環比增長7%-58%。
+
+---
+
+### 2026-07-19 23:58:44  #MKT News #Important
+
+Tasnim News Agency reports Iran says the explosion in Abadan was related to Iranian military operations and was not a U.S. attack.
+
+---
+
+### 2026-07-19 23:47:57  #MKT News #Important
+
+【CSRC to hold roundtable tomorrow on market stability】Several listed companies and market institutions have been notified to attend a CSRC roundtable tomorrow. The regulator will solicit views and suggestions on promoting market stability and healthy development.
+
+---
+
+### 2026-07-19 23:47:25  #公司 #焦點
+
+【證監會明天將召開座談會促進市場穩定健康發展】證券時報記者瞭解到，多家上市公司、市場機構已收到監管部門通知，將於明日參加證監會座談會。本次座談，證監會旨在就促進市場穩定健康發展聽取各方意見建議。
+
+---
+
+### 2026-07-19 23:43:19  #MKT News #WTI #Impact bullish #Brent
+
+【Former US admiral warns Suez Canal merits heightened monitoring alongside Strait of Hormuz】Former US Navy Admiral James Stavridis warned Washington to closely monitor Iranian activity in the Suez Canal, saying shipping traffic through Suez exceeds the Strait of Hormuz and that Iran has begun signaling it could seek to use Houthi forces to close the waterway. He added Tehran is closely observing the war in Ukraine and appears to be adopting asymmetric tools—drones, unmanned systems and mobile tactics—to impose costs on adversaries.
+
+---
+
+### 2026-07-19 23:39:38  #其他
+
+英國下一任首相伯納姆將維持北海勘探開採許可禁令。
+
+---
+
+### 2026-07-19 23:33:34  #國際
+
+以色列國防軍：週日凌晨，以軍在加沙地帶多個地區實施打擊，摧毀多處基礎設施，包括一處武器儲存設施、一處武器生產場所以及一處火箭發射陣地。
+
+---
+
+### 2026-07-19 23:32:00  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
+
+【Iranian media: Strait of Hormuz transit volume down to zero】Iranian media on the 19th, citing an IRGC naval source, reported that shipping through the Strait of Hormuz has fallen to zero. The source said no vessels are currently transiting, any transit attempts would be struck, and the strait will remain closed with no transit permits issued so long as the United States continues what Iran describes as hostile and provocative actions.
+
+---
+
+### 2026-07-19 23:27:03  #其他
+
+【姚期智：中國AI產業領跑全球 AI將徹底改變科研】在本屆世界人工智慧大會上，姚期智院士在7月19日的思想者論壇上暢談AI發展新方向、人機協同與青年成長思考。談及國內AI發展現狀，姚期智直言，近幾年我國人工智慧產業進步速度非常快，整體發展水平位於世界前列。同時他也提到，人的本身是最寶貴的，當人學會了使用工具，和工具加在一起才會變得更加強大。“我覺得兩三年以後，AI會給這些做科學研究的人一個翻天覆地的變化。未來個人能力加上AI工具變成一個組合，競爭物件是組合，而不是個人。”
+
+---
+
+### 2026-07-19 23:26:25  #MKT News #Market Themes #AI Revolution
+
+【Yao Qizhi: China’s AI industry among world leaders】Speaking at the World Artificial Intelligence Conference thought-leader forum on July 19, academic Yao Qizhi said China’s AI sector has progressed very rapidly in recent years and is at the global forefront. He said people remain the most valuable asset and that combining human skills with AI tools will substantially increase capability. He forecast AI will deliver a revolutionary impact on scientific research within 2–3 years and that future competition will be between human+AI combinations, not individuals.
+
+---
+
+### 2026-07-19 23:26:08  #其他
+
+哈薩克評估油輪遇襲造成的損失，並保留要求賠償的權利。
+
+---
+
+### 2026-07-19 23:26:00  #其他
+
+哈薩克要求停止針對其石油出口基礎設施的襲擊，呼籲各夥伴國譴責此類行為。
+
+---
+
+### 2026-07-19 23:21:51  #MKT News
+
+U.S. State Department said Secretary of State Rubio reiterated U.S. commitment to support successful implementation of the framework.
+
+---
+
+### 2026-07-19 23:21:41  #宏觀 #國際
+
+美國國務院：魯比奧重申美國承諾支援該框架的順利落實。
+
+---
+
+### 2026-07-19 23:20:40  #MKT News
+
+U.S. State Department said Secretary of State Rubio discussed implementation of a tripartite framework with Lebanese President Aoun.
+
+---
+
+### 2026-07-19 23:20:34  #MKT News
+
+The IDF said it detected missiles launched by Iran toward Aqaba, Jordan, near Israel. To prevent debris from falling into Israeli territory the IDF fired multiple interceptors to intercept missile remnants; there were no casualties or damage reported, air-raid sirens were not activated under established procedures, and the incident has ended.
+
+---
+
+### 2026-07-19 23:20:27  #宏觀 #國際
+
+美國國務院：魯比奧與奧恩討論了三邊框架的落實工作。
+
+---
+
+### 2026-07-19 23:20:09  #MKT News
+
+US State Department: US Secretary of State Rubio met Lebanese President Aoun on Sunday.
+
+---
+
+### 2026-07-19 23:20:00  #宏觀 #國際
+
+美國國務院：魯比奧週日與黎巴嫩總統奧恩舉行了會晤。
+
+---
+
+### 2026-07-19 23:18:45  #其他
+
+環球影業：《奧德賽》全球票房收入達2.641億美元。
+
+---
+
+### 2026-07-19 23:18:25  #國際
+
+烏克蘭哈爾科夫州軍事管理部門稱，俄軍炮擊該州，造成4人死亡、數十人受傷。
+
+---
+
+### 2026-07-19 23:17:05  #其他
+
+【光電融合晶片有望讓Token成本降50% 國產算力叢集或成降本關鍵】當前，隨著AI智慧體在各行業的應用深入，Token的呼叫量一直保持著高速增長態勢。未來如何能讓算力成本進一步下降，成為各方發力的重點。業內人士介紹，他們正透過算力平臺來協調多個主流大模型的使用，綜合降低詞元成本。同時，還在全國範圍加快大規模算力叢集的建設。而國產算力晶片支撐的超大規模算力叢集，被業內視作是下一步降本的關鍵。此外，未來三五年內，光晶片等更前沿的新技術落地，也有望成為降低算力成本的另一探索方向。“光電融合的晶片相比電晶片的話，核心在於它的計算延遲更低、功耗也會更低。每單位Token成本會相應下降50%，甚至更多。”
+
+---
+
+### 2026-07-19 23:16:39  #MKT News #Market Themes #Chip Wars #AI Revolution
+
+【Optoelectronic fusion chips could halve per-token cost; China-made compute clusters seen as key】Rising use of AI agents has driven rapid growth in token consumption. Firms are deploying compute platforms to orchestrate multiple leading LLMs and compress token costs, while accelerating China-wide buildout of large-scale compute clusters. Industry participants say hyperscale clusters powered by China-made compute chips are the next key lever to cut costs. Over the next 3–5 years, photonic/optoelectronic chips and other frontier technologies could further reduce per-token compute costs by roughly 50% or more by lowering latency and power per operation.
+
+---
+
+### 2026-07-19 23:16:04  #國際
+
+伊朗革命衛隊聖城旅指揮官伊斯梅爾·卡尼：在伊朗最高領袖穆傑塔巴的領導下，“抵抗運動”這條“光榮道路”將延續下去。
+
+---
+
+### 2026-07-19 23:14:25  #國際
+
+俄羅斯總統新聞秘書佩斯科夫：普京在克里姆林宮會見朝鮮外務相崔善姬。
+
+---
+
+### 2026-07-19 23:13:16  #其他
+
+【載客百人渡輪在蓋亞那附近沉沒 67人已獲救】蓋亞那公共工程部長埃奇希爾19日說，一艘載有116名乘客的渡輪在蓋亞那海岸附近沉沒，已有67人獲救。
 
 ---
 
@@ -21196,215 +21364,5 @@ Euro STOXX 50 futures fell 0.87%; DAX futures fell 0.66%; FTSE futures fell 0.37
 ### 2026-07-17 13:56:05  #MKT News #Important #Market Regions #Greater China
 
 【Afternoon broad-based ETF volumes surge; three ETFs exceed CNY 10bn turnover】Afternoon turnover in broad-based China ETFs expanded sharply. E Fund ChiNext ETF (159915), ChinaAMC Sci‑Tech Innovation 50/STAR 50 ETF (588000) and Huatai‑PineBridge CSI 300 ETF (510300) each saw trading value top CNY 10bn. China Southern CSI 1000 ETF (512100), China Southern CSI 500 ETF (510500), Huatai‑PineBridge A500 ETF (563360), China Southern A500 ETF (159352) and HuaAn ChiNext 50 ETF (159949) have all already exceeded yesterday’s full-day turnover.
-
----
-
-### 2026-07-17 13:55:59  #市場 #焦點
-
-【午後寬基ETF持續放量 3只ETF成交額超100億】午後寬基ETF成交額持續放大，創業板ETF易方達（159915）、科創50ETF華夏（588000）、滬深300ETF華泰柏瑞（510300）成交額突破100億，中證1000ETF南方（512100）、中證500ETF南方（510500）、A500ETF華泰柏瑞（563360）、A500ETF南方（159352）、創業板50ETF華安（159949）成交額均已超昨日全天。
-
----
-
-### 2026-07-17 13:55:50  #其他
-
-【千問推進硬體佈局，WAIC 上展出首款AI智慧體耳機】2026世界人工智慧大會首日，千問推出首款AI智慧體耳機。該耳機採用耳夾式設計，將千問AI助手能力融入耳機，支援同聲傳譯、會議紀要、健康記錄等功能。
-
----
-
-### 2026-07-17 13:55:22  #公司 #市場
-
-小金屬板塊重挫，中鎢高新、長裕集團跌停，雲南鍺業、華錫有色、宜安科技、廈門鎢業、西部材料等跟跌。
-
----
-
-### 2026-07-17 13:54:47  #國際
-
-【伊朗打擊地區六國美軍目標】約旦武裝部隊今天（7月17日）發宣告稱，約旦攔截了三枚瞄準其領土的伊朗導彈。伊朗伊斯蘭革命衛隊最新發宣告稱，打擊了阿曼境內的美國海上監視雷達。（CCTV國際時訊）
-
----
-
-### 2026-07-17 13:54:06  #市場
-
-【上海鋼聯：預計下半年鋼材價格整體以區間震盪為主】7月17日，2026“我的鋼鐵”年中大會暨鋼鐵產業鏈協同創新高質量發展論壇在北京召開。上海鋼聯預計，今年下半年鋼材價格整體以區間震盪為主，難以出現單邊趨勢性行情，價格高低波動區間與上半年基本特平。地緣局勢方面，美伊談判持續進行中，但市場對此敏感度降低，預計油價波動預計逐漸趨向合理，上半年因地緣衝突帶來的通脹溢價與能源利多消退。原料端，國內煤礦安全整改工作逐漸收尾，焦煤產量有序釋放，原料供給緊張格局逐漸緩解，煤焦價格或衝高回落，但價格重心明顯高於上半年；鐵礦石供應保持寬鬆，價格走低；總體成本端相對穩定。鋼材供需方面，下半年鋼材終端需求延續溫和修復態勢，基建特續託底市場，製造業需求穩步回暖。同時鋼廠將根據市場行情靈活調整生產節奏，延續供需弱平衡態勢，難以出現供需大幅錯配的情況。整體來看，下半年鋼材市場多空力量均衡，缺乏驅動價格大幅變化的核心變數。
-
----
-
-### 2026-07-17 13:53:35  #Trading Economics #Markets #New Zealand #Stock Market #Importance 1
-
-NZX 50 Rebounds, but Posts Weekly Loss — The NZX 50 climbed 80 points, or 0.6%, to 13,695 on Friday, reversing its morning weakness, snapping a four-session losing streak, and rebounding from its lowest level since July 2, reached a day earlier, mainly boosted by gains in the energy, materials, and consumer discretionary sectors. Fresh data also lifted sentiment, as food inflation eased to 2.5% in June from 3.2% in May, marking the softest increase in 16 months. However, persistently high oil prices limited the gains, as inflation concerns fueled expectations of further interest rate hikes. Traders remained cautious ahead of the release of Q2 inflation data due next Tuesday amid elevated oil prices. RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further interest rate hikes. Among the top performers were Freightways Group (1.5%), Meridian Energy (1.4%), South Port New Zealand (1.4%), and Chorus (1.2%). For the week, the index fell 0.6%, after rising in the previous week.
-
----
-
-### 2026-07-17 13:53:03  #公司 #國際
-
-據美國廣播公司新聞網7月16日報道，一名白宮提詞器操作員涉嫌利用內幕訊息，就美國總統特朗普的演講內容下注，獲利超10萬美元，目前正接受調查。（參考訊息）
-
----
-
-### 2026-07-17 13:52:09  #其他
-
-新易盛成交額超300億元，現跌12.46%。
-
----
-
-### 2026-07-17 13:52:05  #MKT News
-
-Xin Yisheng turnover exceeded CNY30 bln; stock down 12.46%.
-
----
-
-### 2026-07-17 13:49:46  #其他
-
-【自然資源部對重慶啟動地質災害防禦Ⅱ級響應】7月17日，重慶彭水發生山體垮塌。自然資源部於7月17日10時啟動地質災害防禦Ⅲ級響應，並派工作組赴現場指導開展搶險救援等工作。12時，自然資源部將地質災害防禦響應提升為Ⅱ級。自然資源部要求，重慶市規劃和自然資源局立即先行派出專家工作組前往現場，協助地方做好人員搜救、搶險救援期間技術支撐等工作，並舉一反三，做好類似情況下地質災害巡查排查、監測預警和防範應對等工作；中國地質調查局、自然資源部地質災害技術指導中心加強專家排程、組織協調、會商研判，全力協助指導做好技術支撐等工作。
-
----
-
-### 2026-07-17 13:48:05  #國際
-
-【2026泰國曼谷禮品及家居用品展舉辦】7月15日至17日，2026泰國曼谷禮品及家居用品展（MEGA SHOW Bangkok）在曼谷詩麗吉王后國家會議中心舉辦。本屆展會首次設立“亞洲潮玩及IP文創展”專區，覆蓋潮玩手辦、動漫周邊、積木、卡牌、IP衍生品等品類。東盟近7億人口中年輕消費群體佔比突出，帶動潮玩及IP文創產品在東南亞市場快速增長。
-
----
-
-### 2026-07-17 13:47:56  #公司
-
-沃爾沃汽車CEO：沃爾沃希望在未來的平臺、硬體元件和中國專用車型方面深化與吉利的合作；僅憑哥德堡的工廠開發出具有競爭力的中國市場產品正變得越來越困難。
-
----
-
-### 2026-07-17 13:47:33  #公司
-
-【松延動力入股AI資料服務公司愷望資料】企查查APP顯示，近日，北京愷望資料科技有限公司發生工商變更，新增北京松延動力科技集團股份有限公司、自變數機器人科技（深圳）有限公司等為股東，同時註冊資本增至2110.49萬元。企查查資訊顯示，該公司成立於2022年，經營範圍包含：軟體開發；基礎軟體服務；應用軟體服務；計算機系統服務等。公開資訊顯示，該公司是一家AI資料服務公司。
-
----
-
-### 2026-07-17 13:47:25  #市場 #焦點
-
-南向資金淨賣出額達30億港元。
-
----
-
-### 2026-07-17 13:47:24  #公司
-
-【螞蟻集團、寧德時代入股智慧機器人研發商自然意志】企查查APP顯示，近日，北京自然意志科技有限公司發生工商變更，新增螞蟻科技集團股份有限公司全資子公司上海雲瑒企業管理諮詢有限公司、寧德時代全資子公司寧波梅山保稅港區問鼎投資有限公司等為股東，同時註冊資本增至177.72萬元。企查查資訊顯示，該公司成立於2026年1月，經營範圍包含：智慧機器人的研發；智慧機器人銷售；工業機器人制造；工業機器人銷售等。
-
----
-
-### 2026-07-17 13:47:09  #公司
-
-沃爾沃汽車CEO：沃爾沃對其根特工廠的代工生產持開放態度，包括可能組裝吉利品牌汽車，但目前尚無具體計劃，任何安排都必須符合監管要求。
-
----
-
-### 2026-07-17 13:47:07  #市場 #焦點
-
-中證1000指數期貨連續主力合約日內跌6%，現報7098.40點。
-
----
-
-### 2026-07-17 13:46:47  #MKT News #Market Themes #AI Revolution #Magnificent 7 #Star Stocks #Meta Platforms #META.O #Impact bullish
-
-【Meta to hire senior AWS executive to accelerate data-center, cloud push】The Wall Street Journal reports a senior Amazon Web Services executive, Dave Brown, plans to join Meta Platforms in the coming weeks to accelerate Meta's data-center and cloud computing buildout. Brown, one of AWS's senior managers with nearly 20 years of industry experience, will report to Meta's head of infrastructure. CEO Mark Zuckerberg has said building a cloud business is "absolutely under consideration" and that enterprises contact Meta "almost every week" seeking access to its AI models or willing to pay to use idle compute.
-
----
-
-### 2026-07-17 13:46:45  #MKT News #Market Regions #Greater China #CSI300 #Impact bearish #SSE Composite #Hang Seng Index
-
-CSI 1000 index futures (IM) most-active contract fell 6.00% intraday to 7101.0; CSI 500 index futures (IC) most-active contract dropped 6.00% intraday to 7394.8.
-
----
-
-### 2026-07-17 13:46:41  #市場 #國際
-
-【中證500股指期貨(IC)主力合約日內跌超6%】中證500股指期貨(IC)主力合約日內跌超6%，現報7392.4點。
-
----
-
-### 2026-07-17 13:46:30  #公司
-
-沃爾沃汽車CEO：公司不打算進一步裁員，但仍將嚴格控制招聘和外部顧問及外購服務的支出。
-
----
-
-### 2026-07-17 13:46:20  #市場 #焦點
-
-中證500指數期貨連續主力合約日內跌6%，現報7394.80點。
-
----
-
-### 2026-07-17 13:46:20  #市場 #焦點
-
-塑膠連續主力合約日內跌2%，現報7601.00元。
-
----
-
-### 2026-07-17 13:46:10  #MKT News #Market Regions #Greater China
-
-Xinyisheng fell 15.02% intraday on China’s A-share market to 461.10 yuan.
-
----
-
-### 2026-07-17 13:46:05  #公司
-
-沃爾沃汽車CEO：上半年已削減成本80億瑞典克朗，超過了全年50億瑞典克朗的目標。
-
----
-
-### 2026-07-17 13:45:29  #公司
-
-【中國能建等在酒泉成立新能源公司 含站用加氫業務】企查查APP顯示，近日，中能建（酒泉）新能源有限公司成立，法定代表人為吳曉帆，經營範圍包含：發電業務、輸電業務、供（配）電業務；站用加氫及儲氫設施銷售；儲能技術服務；電池製造等。企查查股權穿透顯示，該公司由中國能建全資子公司中國電力工程顧問集團有限公司、巨靈新能源（酒泉）有限公司共同持股。
-
----
-
-### 2026-07-17 13:45:16  #MKT News #Important #Market Regions #Greater China #SZSE Component #Impact bearish #CSI300
-
-ChiNext Index plunged 8% intraday to 3,396.93; Shenzhen Composite Index slumped 6% intraday to 13,618.63.
-
----
-
-### 2026-07-17 13:45:13  #MKT News #Market Themes #Chip Wars #IFX.DE #Impact bearish #DAX
-
-German semiconductor stocks fell 3.5%-5.5% in pre-market trading.
-
----
-
-### 2026-07-17 13:45:05  #市場
-
-新易盛盤中跌15.02%，現報461.10元。
-
----
-
-### 2026-07-17 13:44:51  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-Ukraine's drone force commander said Ukrainian drones have struck 12 Russian vessels in the Black Sea.
-
----
-
-### 2026-07-17 13:44:44  #市場 #焦點
-
-創業板指跌8％，上證指數跌3.35％，深證成指跌6.03％。
-
----
-
-### 2026-07-17 13:44:38  #市場 #焦點
-
-深證成指跌6.00%，現報13618.630點；上證指數跌3.34%，現報3752.585點；創業板指跌7.97%，現報3398.289點。
-
----
-
-### 2026-07-17 13:44:35  #國際
-
-烏克蘭無人機部隊指揮官稱，烏方無人機已在黑海擊中12艘俄羅斯船隻。
-
----
-
-### 2026-07-17 13:44:28  #公司
-
-沃爾沃汽車公司執行長哈坎·薩繆爾森表示，由於中國市場下滑幅度超出預期，該公司已放棄了全年銷量增長的目標，但他預計下半年隨著成本削減和新車型推出，業績將比上半年“顯著好轉”。
-
----
-
-### 2026-07-17 13:44:21  #MKT News #Important #Star Stocks #Meta Platforms #Market Themes #Magnificent 7 #META.O
-
-The Wall Street Journal reports insiders say Meta Platforms (META.O) has hired the head of Amazon Web Services' compute business and is weighing a move into cloud services.
 
 ---
