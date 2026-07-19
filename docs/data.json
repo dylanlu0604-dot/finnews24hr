@@ -1,7 +1,17 @@
 {
-  "updated": "2026-07-20 04:21:16",
+  "updated": "2026-07-20 04:25:13",
   "count": 19010,
   "items": [
+    {
+      "id": "mkt:019f7c0c-c1ff-7aab-8dfa-a9201c09ee9f",
+      "time": "2026-07-20 04:23:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【South Korea pledges to ease access to the won, pursue freely convertible currency goal】YONHAP reported on Sunday that South Korea's finance ministry will intensify efforts to broaden access to the won, aiming to make it a freely convertible currency. The Ministry of Economy and Finance published a roadmap for won internationalization — defined as removing barriers for non-residents to obtain or use the won offshore — and said this requires building an offshore won trading and settlement system and eliminating institutional restrictions. The government cited strong economic fundamentals and a maturing capital-market system as the rationale."
+    },
     {
       "id": "4996271",
       "time": "2026-07-20 04:20:26",
@@ -175368,14 +175378,6 @@
         "WTI"
       ],
       "text": "【CENTCOM: Iran's claim that three U.S. service members were killed in Kuwait is false】CENTCOM said today Iran's claim that three U.S. service members were killed in Kuwait is false. There have been no reports of U.S. casualties in the region; all personnel have been accounted for and are safe."
-    },
-    {
-      "id": "4983067",
-      "time": "2026-07-13 04:24:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克對霍爾木茲海峽近期緊張局勢下的海上安全形勢表示擔憂，呼籲各方保持克制，避免採取可能危及商船航行安全的行動。 巴格達方面稱，伊拉克支援一切旨在緩和緊張局勢的舉措。"
     }
   ]
 }

@@ -1,7 +1,17 @@
 {
   "date": "2026-07-20",
-  "count": 108,
+  "count": 109,
   "items": [
+    {
+      "id": "mkt:019f7c0c-c1ff-7aab-8dfa-a9201c09ee9f",
+      "time": "2026-07-20 04:23:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【South Korea pledges to ease access to the won, pursue freely convertible currency goal】YONHAP reported on Sunday that South Korea's finance ministry will intensify efforts to broaden access to the won, aiming to make it a freely convertible currency. The Ministry of Economy and Finance published a roadmap for won internationalization — defined as removing barriers for non-residents to obtain or use the won offshore — and said this requires building an offshore won trading and settlement system and eliminating institutional restrictions. The government cited strong economic fundamentals and a maturing capital-market system as the rationale."
+    },
     {
       "id": "4996271",
       "time": "2026-07-20 04:20:26",
