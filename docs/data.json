@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-19 11:00:22",
-  "count": 19041,
+  "updated": "2026-07-19 11:04:16",
+  "count": 19042,
   "items": [
+    {
+      "id": "mkt:019f7852-309f-7aab-8df4-b2dfd7b6ef50",
+      "time": "2026-07-19 11:01:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance ministry will permit foreign investors to trade a broader range of won-denominated bonds and to borrow won from domestic foreign-exchange banks."
+    },
+    {
+      "id": "4995817",
+      "time": "2026-07-19 11:00:55",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國企劃財政部：將允許外資交易更多以韓元計價的債券，並允許外資從境內外匯銀行借入韓元。"
+    },
+    {
+      "id": "4995816",
+      "time": "2026-07-19 11:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家開發銀行原黨委副書記、行長歐陽衛民被查】國家開發銀行原黨委副書記、行長歐陽衛民涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7851-5cde-7aab-8df4-ac1550a77f05",
+      "time": "2026-07-19 11:00:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iranian military says two US bases in Kuwait struck by destructive drones】The Iranian military’s public relations office said it launched large-scale destructive drone strikes hours ago in the 16th phase of its \"Lightning Operation\", hitting a US munitions depot at Adailiy camp and the Patriot and other air-defence radars used by US forces at Ali Al Salem base in Kuwait. The statement said Adailiy is a key US support and reconstitution hub about 104 km from Iran’s border. It added that disrupting the camp’s operations would significantly affect US support activities in the area."
+    },
     {
       "id": "mkt:019f784f-1fd1-7aab-8df4-a69e16c24c73",
       "time": "2026-07-19 10:57:59",
@@ -175648,36 +175687,6 @@
         "其他"
       ],
       "text": "【青島市防汛抗旱指揮部啟動防汛防颱風三級應急響應】7月12日，青島市防汛抗旱指揮部發布關於啟動防汛防颱風三級應急響應的通知。"
-    },
-    {
-      "id": "4982565",
-      "time": "2026-07-12 11:03:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡達稱其武裝部隊攔截了一次導彈襲擊。"
-    },
-    {
-      "id": "4982564",
-      "time": "2026-07-12 11:03:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星電子計劃將龍仁首座晶片工廠的投產時間提前至2029年】行業訊息人士週日透露，三星電子正著手將其龍仁晶片叢集首座半導體工廠的投產時間提前至2029年，比原計劃提早一至兩年。“首座工廠提前投產將使三星能夠更快地應對全球對人工智慧晶片迅速增長的需求，”一位行業官員表示。"
-    },
-    {
-      "id": "mkt:019f5447-d608-7aab-8d41-4ebdfe783821",
-      "time": "2026-07-12 11:03:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "005930.KS",
-        "Impact bullish"
-      ],
-      "text": "【Samsung moves first Yongin chip fab start-up to 2029】Yonhap cites industry sources saying Samsung Electronics is advancing the start-up of the first semiconductor fab in its Yongin chip cluster to 2029, roughly one to two years earlier than previously planned. Industry sources say the earlier start-up will let Samsung respond faster to surging global demand for AI chips. Last month Samsung said under its 'super project' investment plan it will invest 2,030 tln won (about $1.35 tln) in the Pyeongtaek and Yongin clusters and 400 tln won to build two new fabs in Gwangju, about 270 km south of Seoul."
     }
   ]
 }

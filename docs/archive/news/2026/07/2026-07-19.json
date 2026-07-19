@@ -1,7 +1,46 @@
 {
   "date": "2026-07-19",
-  "count": 307,
+  "count": 311,
   "items": [
+    {
+      "id": "mkt:019f7852-309f-7aab-8df4-b2dfd7b6ef50",
+      "time": "2026-07-19 11:01:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's finance ministry will permit foreign investors to trade a broader range of won-denominated bonds and to borrow won from domestic foreign-exchange banks."
+    },
+    {
+      "id": "4995817",
+      "time": "2026-07-19 11:00:55",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國企劃財政部：將允許外資交易更多以韓元計價的債券，並允許外資從境內外匯銀行借入韓元。"
+    },
+    {
+      "id": "4995816",
+      "time": "2026-07-19 11:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家開發銀行原黨委副書記、行長歐陽衛民被查】國家開發銀行原黨委副書記、行長歐陽衛民涉嫌嚴重違紀違法，目前正接受中央紀委國家監委紀律審查和監察調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7851-5cde-7aab-8df4-ac1550a77f05",
+      "time": "2026-07-19 11:00:25",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iranian military says two US bases in Kuwait struck by destructive drones】The Iranian military’s public relations office said it launched large-scale destructive drone strikes hours ago in the 16th phase of its \"Lightning Operation\", hitting a US munitions depot at Adailiy camp and the Patriot and other air-defence radars used by US forces at Ali Al Salem base in Kuwait. The statement said Adailiy is a key US support and reconstitution hub about 104 km from Iran’s border. It added that disrupting the camp’s operations would significantly affect US support activities in the area."
+    },
     {
       "id": "mkt:019f784f-1fd1-7aab-8df4-a69e16c24c73",
       "time": "2026-07-19 10:57:59",
