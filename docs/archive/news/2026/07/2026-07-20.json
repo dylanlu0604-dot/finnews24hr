@@ -1,7 +1,35 @@
 {
   "date": "2026-07-20",
-  "count": 111,
+  "count": 114,
   "items": [
+    {
+      "id": "4996275",
+      "time": "2026-07-20 04:40:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美襲擊伊朗達爾霍溫在建核設施，伊朗副外長表態將採取對應行動】伊朗副外長卡齊姆·加里巴巴迪週日在社交平臺發文表示，在美國襲擊達爾霍溫核電站在建設施後，伊朗將採取恰當行動捍衛本國國家利益與安全。他寫道：“美國襲擊達爾霍溫核電站在建設施，是對伊朗和平核基礎設施的危險侵犯，由此加劇安全動盪、局勢不穩產生的一切後果，責任完全在美國政府一方。”"
+    },
+    {
+      "id": "4996274",
+      "time": "2026-07-20 04:38:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心風暴預警：熱帶低氣壓已增強為熱帶風暴。"
+    },
+    {
+      "id": "mkt:019f7c19-6d9c-7aab-8dfa-b3db97887c51",
+      "time": "2026-07-20 04:37:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "IRNA reports Iran's Islamic Revolutionary Guard Corps released footage showing F-15 and F-16 hangars in Jordan destroyed; the IRGC public relations department said the images show extensive damage to the facilities."
+    },
     {
       "id": "4996273",
       "time": "2026-07-20 04:34:22",
