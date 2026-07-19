@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-19 09:35:54",
+  "updated": "2026-07-19 09:39:50",
   "count": 19057,
   "items": [
+    {
+      "id": "mkt:019f7806-60f4-7aab-8df4-17ad601fce78",
+      "time": "2026-07-19 09:38:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hormozgan provincial government says no missile hits recorded at Bandar Abbas】Hormozgan provincial government told TASNIM NEWS there have been no recorded missile or projectile impacts at Bandar Abbas as of reporting. Authorities say the area is calm, though some unconfirmed noises were heard; no strikes have been confirmed. Officials urged residents to rely on official channels and ignore unverified reports."
+    },
+    {
+      "id": "4995771",
+      "time": "2026-07-19 09:38:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【琿春口岸打通俄羅斯肉類進口新通道】近日，21噸俄羅斯牛肉順利運抵琿春口岸並完成入境通關，這是琿春進境肉類指定監管場地投用後落地的首票俄羅斯進口牛肉類貨物，為琿春向北開放口岸經濟高質量發展注入新動能。（吉林釋出）"
+    },
     {
       "id": "4995770",
       "time": "2026-07-19 09:35:09",
@@ -175792,22 +175808,6 @@
         "其他"
       ],
       "text": "【合肥防汛防颱風應急響應提升至Ⅲ級】據“合肥釋出”，鑑於當前防汛防颱風的嚴峻形勢，根據《合肥市防汛抗旱應急預案》規定，合肥市防指決定於7月12日9時將防汛防颱風應急響應提升至Ⅲ級。"
-    },
-    {
-      "id": "4982500",
-      "time": "2026-07-12 09:36:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗賈斯克地區再傳出兩起爆炸聲。"
-    },
-    {
-      "id": "4982499",
-      "time": "2026-07-12 09:36:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【3D列印能造火箭零件了】3D列印的出現提供了更多的可能性。材料精準利用。列印時材料“用多少鋪多少”，幾乎不產生廢料，尤其對鈦合金等昂貴材料，利用率可穩定保持在90%以上。如今，這項技術已廣泛應用在航天器材上，同時也滲透到醫療、新能源汽車、半導體、消費電子甚至建築領域。在一些特殊場景中，3D列印正從“替代方案”變成“唯一方案”。（央視財經）"
     }
   ]
 }
