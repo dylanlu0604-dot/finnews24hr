@@ -1,7 +1,25 @@
 {
   "date": "2026-07-19",
-  "count": 642,
+  "count": 644,
   "items": [
+    {
+      "id": "4996072",
+      "time": "2026-07-19 18:59:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【靈均投資宣佈2億元自購旗下私募基金產品】7月19日，靈均投資釋出公告稱，基於對中國資本市場長期穩健發展及公司主動管理能力的堅定信心，為踐行長期投資理念，公司及主要核心人員將在兩週內使用自有資金人民幣2億元參與申購公司旗下私募證券基金產品。"
+    },
+    {
+      "id": "mkt:019f7a07-f479-7aab-8df7-3bd75f80e12c",
+      "time": "2026-07-19 18:59:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Regulators hold closed-door meeting on emotion-capable robots, probe trillion-yuan market and compliance gaps】Industry sources said regulators last week convened a closed-door workshop with leading firms to discuss the sector’s potential trillion-yuan market and compliance dilemmas, focusing on three priorities: data security, cybersecurity and standards for emotional interaction."
+    },
     {
       "id": "4996071",
       "time": "2026-07-19 18:56:23",
