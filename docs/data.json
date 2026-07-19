@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-19 23:36:02",
-  "count": 19000,
+  "updated": "2026-07-19 23:42:41",
+  "count": 18996,
   "items": [
+    {
+      "id": "4996202",
+      "time": "2026-07-19 23:39:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國下一任首相伯納姆將維持北海勘探開採許可禁令。"
+    },
     {
       "id": "4996201",
       "time": "2026-07-19 23:33:34",
@@ -175258,55 +175266,6 @@
         "國際"
       ],
       "text": "伊朗議會國家安全與外交政策委員會成員阿里·哈德里安表示，如果阿曼“暗中與敵人合作”，該國領土將無法免受伊朗導彈的打擊。"
-    },
-    {
-      "id": "4982995",
-      "time": "2026-07-12 23:41:54",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "以色列總統內塔尼亞胡：特朗普希望與伊朗達成協議，尤其是核問題相關協議；但如果伊朗不遵守自身承諾，特朗普會毫不猶豫動用武力。"
-    },
-    {
-      "id": "4982994",
-      "time": "2026-07-12 23:41:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：在局勢恢復正常之前，不會允許任何船隻透過霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019f56fc-ead3-7aab-8d45-f0802da7cd0e",
-      "time": "2026-07-12 23:40:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's president said the country is engaged in a complex economic war and that overcoming this phase requires active public participation."
-    },
-    {
-      "id": "mkt:019f56fb-b72b-7aab-8d45-eec0938121a6",
-      "time": "2026-07-12 23:39:24",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iran’s Press TV reported an attack on an ATACMS missile system facility at a US military base in Kuwait, with thick smoke seen on site."
-    },
-    {
-      "id": "mkt:019f56f9-d391-7aab-8d45-e21a25b9b1c6",
-      "time": "2026-07-12 23:37:20",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【UN envoy Jean Arnault meets Iran foreign minister Araghchi】UN envoy to Lebanon Jean Arnault met Iran foreign minister Araghchi in Tehran to consult on Lebanese affairs and the UN’s role in consolidating the ceasefire and ending the regional war. Arnault reviewed Lebanon’s situation and called for implementation of the US‑Iran ceasefire memorandum and enhanced regional cooperation to secure lasting peace, including in Lebanon. Araghchi strongly condemned what he called illegal US attacks on Iran, breaches of arrangements in the Strait of Hormuz, and Israel’s ongoing military actions in Lebanon, saying the US is responsible for escalation risk and urging the UN to adopt a clear, firm stance. He reiterated Iran’s full support for the Lebanese people, Lebanon’s territorial integrity and sovereignty, and said Iran will continue efforts to end Israeli aggression and occupation of Lebanese territory."
     }
   ]
 }
