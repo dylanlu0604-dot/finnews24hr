@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-19 18:31:54",
-  "count": 18950,
+  "updated": "2026-07-19 18:35:54",
+  "count": 18952,
   "items": [
+    {
+      "id": "4996056",
+      "time": "2026-07-19 18:33:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訊飛AI大學堂WAIC2026推出AI Learning與AI Vault】7月19日，在今年世界人工智慧大會（WAIC）上，作為國內首個AI線上學習平臺，承建在國家級人工智慧開放創新平臺，科大訊飛AI大學堂正式升級釋出。其中，AI Learning透過大模型能力，為個人學習者提供個性化學習路徑規劃，並面向企業推出覆蓋AI通識、智慧體開發、大模型應用等方向的人才培養方案；AI Vault則支援多型別資料匯入、智慧解析、知識問答及多模態內容生成，幫助使用者將學習成果沉澱為可持續複用的知識資產。"
+    },
+    {
+      "id": "mkt:019f79ef-f0a8-7aab-8df6-f81c53b7e10f",
+      "time": "2026-07-19 18:33:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【Shenzhen non-bank financials: over 80% of filers flag >50% YoY 1H profit growth】As of July 18, over 80% of Shenzhen-listed non-bank financial firms that filed earnings previews forecast YoY profit growth exceeding 50% for 1H 2026."
+    },
+    {
+      "id": "mkt:019f79ee-7c27-7aab-8df6-f2c3e9672b3f",
+      "time": "2026-07-19 18:31:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "RIA reports the Russian Defence Ministry said Russian forces have taken control of Vilne in eastern Ukraine."
+    },
+    {
+      "id": "4996055",
+      "time": "2026-07-19 18:31:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【九章雲極在WAIC釋出“AI工廠”及九章智算雲3.0】7月19日訊息，AI基礎設施及智算雲服務商九章雲極在WAIC 2026上展示“AI規模化生產體系”，包括由“訓練工廠”和“Token工廠”組成的“AI工廠”，以及九章智算雲3.0。“AI工廠”透過DCU（1 DCU代表312 TFLOPS×1小時有效計算）統一算力計量體系，將不同型別晶片的有效算力折算為統一單位，並以Token衡量模型服務產出。目前，該公司已接入十餘個智算中心，業務覆蓋大模型訓推、具身智慧和自動駕駛等領域。"
+    },
     {
       "id": "4996054",
       "time": "2026-07-19 18:31:10",
@@ -174831,22 +174873,6 @@
         "XAUUSD"
       ],
       "text": "【Bahrain military says Iran continues 'systemic aggression'】Al Jazeera reported Bahrain's military said Iran has launched missile and drone attacks targeting civilians and that Bahrain's air defences intercepted the strikes. The military said its forces are at highest readiness and described Iran's actions as \"systemic aggression\" that violate international humanitarian law. US forces carried out overnight strikes on multiple Iranian cities earlier. Kuwait, Bahrain, Jordan, Qatar and Oman said Iran's Islamic Revolutionary Guard Corps attacked their territory."
-    },
-    {
-      "id": "4982867",
-      "time": "2026-07-12 18:34:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國警方：在嫌疑人因涉嫌謀殺被捕後，無跡象表明前保守黨議員安·威德科姆之死有政治動機。"
-    },
-    {
-      "id": "4982866",
-      "time": "2026-07-12 18:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【一名伊朗海軍軍官在美軍襲擊中身亡】據伊朗媒體12日報道，一名伊朗海軍軍官在當天上午的美軍襲擊中身亡。（新華社）"
     }
   ]
 }
