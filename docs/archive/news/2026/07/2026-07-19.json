@@ -1,7 +1,51 @@
 {
   "date": "2026-07-19",
-  "count": 271,
+  "count": 276,
   "items": [
+    {
+      "id": "mkt:019f7835-d02a-7aab-8df4-41f56cca1124",
+      "time": "2026-07-19 10:30:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Israeli military said it struck HEZBOLLAH fighters after identifying a threat."
+    },
+    {
+      "id": "mkt:019f7835-97b0-7aab-8df4-3d38c99aa12e",
+      "time": "2026-07-19 10:30:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli Defense Forces said it detected a HEZBOLLAH drone over the Tebnine area in southern Lebanon."
+    },
+    {
+      "id": "4995796",
+      "time": "2026-07-19 10:29:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國工程院院士鄭緯民：智慧體時代，產出穩定且低成本Token（詞元）的能力非常稀缺】7月19日，中國工程院院士、清華大學電腦科學與技術系教授鄭緯民在Agentic時代AI基礎設施創新發展論壇上表示，算力規模快速擴張並不等於產生高效的Token（詞元）產能。智慧體時代真正稀缺的不只是晶片，而是穩定、低成本、高等級地產出Token的系統能力。Token正從技術指標變為產業核心生產要素，推理系統也從單機最佳化，走向分散式、快取化、異構化、服務化。"
+    },
+    {
+      "id": "4995795",
+      "time": "2026-07-19 10:29:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列軍方在確認以軍士兵面臨威脅後，對黎巴嫩真主黨武裝人員發動打擊。"
+    },
+    {
+      "id": "4995794",
+      "time": "2026-07-19 10:28:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：在黎巴嫩南部泰卜尼特地區偵測到真主黨無人機。 黎巴嫩真主黨一支無人機小隊正在安全區及以軍士兵附近活動。"
+    },
     {
       "id": "mkt:019f7831-cfcf-7aab-8df4-3137060e6940",
       "time": "2026-07-19 10:25:58",
