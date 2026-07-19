@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-20 06:26:46",
-  "count": 19016,
+  "updated": "2026-07-20 06:32:59",
+  "count": 19018,
   "items": [
+    {
+      "id": "4996333",
+      "time": "2026-07-20 06:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：在美國總統特朗普與國際足聯主席詹尼·因凡蒂諾走上球場出席世界盃獎盃頒發儀式時，看臺上響起了噓聲。"
+    },
+    {
+      "id": "4996332",
+      "time": "2026-07-20 06:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報55.76美元/盎司。"
+    },
+    {
+      "id": "mkt:019f7c80-2a06-7aab-8dfb-51da9d393802",
+      "time": "2026-07-20 06:30:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude touched $85/bbl, up 3.24% on the day."
+    },
+    {
+      "id": "mkt:019f7c7e-0ade-7aab-8dfb-4e398b60c76a",
+      "time": "2026-07-20 06:27:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kuwaiti military says Kuwait's air defenses are currently responding to hostile drone attacks it attributes to Iran."
+    },
+    {
+      "id": "4996331",
+      "time": "2026-07-20 06:27:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破91美元/桶，日內漲3.35%。"
+    },
     {
       "id": "4996330",
       "time": "2026-07-20 06:22:05",
@@ -175395,30 +175444,6 @@
         "國際"
       ],
       "text": "【美伊接連爆發新一輪衝突，亞洲能源股或隨油價走強】美伊雙方互相發起新一輪打擊，且兩國就霍爾木茲海峽通航許可權釋出相互矛盾的表態，受此影響，亞洲能源板塊個股或將跟隨油價一同上漲。布倫特原油上週漲幅達5.4%，當前突破每桶78美元；WTI原油交投於每桶74美元附近，歐洲天然氣漲幅最高達2.7%。上週末伊朗方面宣稱霍爾木茲海峽即日起“無限期關閉”，但美國中央司令部表示該航道仍對所有船隻開放。"
-    },
-    {
-      "id": "4983120",
-      "time": "2026-07-13 06:31:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗胡齊斯坦省官員稱，當地時間週一凌晨1時40分左右，貝赫巴漢與迪茲富勒地區遭到美軍彈藥襲擊。目前相關損毀評估工作正在開展，後續詳情有待公佈。"
-    },
-    {
-      "id": "mkt:019f5872-2a66-7aab-8d47-8b50c19c34b5",
-      "time": "2026-07-13 06:28:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. Senator Lindsey Graham dies; preliminary autopsy cites aortic dissection】Senator Lindsey Graham died suddenly, and his spokesperson said on the afternoon of July 12 local time that preliminary medical examiner findings list the cause of death as atherosclerotic cardiovascular disease leading to an aortic dissection. The medical examiner’s office said toxicology and microscopic pathology remain incomplete. Aortic dissection is a life‑threatening emergency involving a tear in the aortic wall."
-    },
-    {
-      "id": "4983119",
-      "time": "2026-07-13 06:27:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1261.72美元/盎司。"
     }
   ]
 }

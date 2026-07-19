@@ -1,7 +1,56 @@
 {
   "date": "2026-07-20",
-  "count": 187,
+  "count": 192,
   "items": [
+    {
+      "id": "4996333",
+      "time": "2026-07-20 06:31:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：在美國總統特朗普與國際足聯主席詹尼·因凡蒂諾走上球場出席世界盃獎盃頒發儀式時，看臺上響起了噓聲。"
+    },
+    {
+      "id": "mkt:019f7c80-2a06-7aab-8dfb-51da9d393802",
+      "time": "2026-07-20 06:30:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude touched $85/bbl, up 3.24% on the day."
+    },
+    {
+      "id": "4996332",
+      "time": "2026-07-20 06:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報55.76美元/盎司。"
+    },
+    {
+      "id": "mkt:019f7c7e-0ade-7aab-8dfb-4e398b60c76a",
+      "time": "2026-07-20 06:27:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kuwaiti military says Kuwait's air defenses are currently responding to hostile drone attacks it attributes to Iran."
+    },
+    {
+      "id": "4996331",
+      "time": "2026-07-20 06:27:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破91美元/桶，日內漲3.35%。"
+    },
     {
       "id": "4996330",
       "time": "2026-07-20 06:22:05",
