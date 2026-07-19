@@ -1,7 +1,31 @@
 {
   "date": "2026-07-19",
-  "count": 358,
+  "count": 361,
   "items": [
+    {
+      "id": "mkt:019f78c6-2f39-7aab-8df5-1cc130352783",
+      "time": "2026-07-19 13:08:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analysis: Trump prioritizes legacy; political costs may no longer constrain decisions】Ross Harrison, analyst at the Washington Institute for Near East Policy, said Trump campaigned to end \"endless wars\" and \"stupid wars\" but is now engaged in a conflict that \"appears to have no strategic logic.\" Harrison said it is unclear whether political calculations still constrain Trump — in his first term the administration tracked polls and the stock market, but it is uncertain whether rising U.S. military casualties would affect presidential decisions. He said Trump may now be driven more by how history will remember him than by conventional political pressures such as the midterms or economic shocks, and that the president's personal psychology could outweigh political cost, making the current conflict particularly dangerous."
+    },
+    {
+      "id": "4995854",
+      "time": "2026-07-19 13:07:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本防衛大臣小泉表示，日本有必要就核武器問題展開討論。"
+    },
+    {
+      "id": "4995853",
+      "time": "2026-07-19 13:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度秒噠3.5版本釋出，8歲稚童手搓拼傘應用，已服務3500萬使用者】在2026世界人工智慧大會（WAIC）上，百度秒噠釋出3.5版本，宣佈新增SEO Agent智慧流量最佳化、iOS App一鍵打包、多應用共享後端、一句話生成Skill、資料庫多環境隔離、後端資源分級等六大能力，讓使用者無需程式碼基礎，即可完成應用開發、部署、運營和持續迭代，實現從生成應用到交付產品的能力躍升。（新浪科技）"
+    },
     {
       "id": "4995852",
       "time": "2026-07-19 13:04:58",

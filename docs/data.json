@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-19 13:06:24",
+  "updated": "2026-07-19 13:10:32",
   "count": 18980,
   "items": [
+    {
+      "id": "mkt:019f78c6-2f39-7aab-8df5-1cc130352783",
+      "time": "2026-07-19 13:08:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Analysis: Trump prioritizes legacy; political costs may no longer constrain decisions】Ross Harrison, analyst at the Washington Institute for Near East Policy, said Trump campaigned to end \"endless wars\" and \"stupid wars\" but is now engaged in a conflict that \"appears to have no strategic logic.\" Harrison said it is unclear whether political calculations still constrain Trump — in his first term the administration tracked polls and the stock market, but it is uncertain whether rising U.S. military casualties would affect presidential decisions. He said Trump may now be driven more by how history will remember him than by conventional political pressures such as the midterms or economic shocks, and that the president's personal psychology could outweigh political cost, making the current conflict particularly dangerous."
+    },
+    {
+      "id": "4995854",
+      "time": "2026-07-19 13:07:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本防衛大臣小泉表示，日本有必要就核武器問題展開討論。"
+    },
+    {
+      "id": "4995853",
+      "time": "2026-07-19 13:05:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【百度秒噠3.5版本釋出，8歲稚童手搓拼傘應用，已服務3500萬使用者】在2026世界人工智慧大會（WAIC）上，百度秒噠釋出3.5版本，宣佈新增SEO Agent智慧流量最佳化、iOS App一鍵打包、多應用共享後端、一句話生成Skill、資料庫多環境隔離、後端資源分級等六大能力，讓使用者無需程式碼基礎，即可完成應用開發、部署、運營和持續迭代，實現從生成應用到交付產品的能力躍升。（新浪科技）"
+    },
     {
       "id": "4995852",
       "time": "2026-07-19 13:04:58",
@@ -175115,39 +175139,6 @@
         "市場"
       ],
       "text": "【南向資金上週大幅淨買入 智譜獲超百億港元資金加倉】上週（7月6日至7月10日）港股市場主要股指集體上漲，恒生指數漲3.53%，恒生科技指數漲4.95%，恒生中國企業指數漲4.41%。據證券時報·資料寶統計，上週南向資金合計成交淨買入390.55億港元，為4月以來最高單週淨買入。從成交淨買入金額來看，智譜獲南向資金淨買入137.02億港元。上週南向資金對網際網路巨頭以加倉為主，阿里巴巴-W獲南向資金淨買入83.18億港元，騰訊控股獲淨買入30.29億港元，美團-W獲淨買入14.57億港元；小米集團-W被淨賣出8.02億港元。（證券時報）"
-    },
-    {
-      "id": "mkt:019f54ba-6da4-7aab-8d42-2da49b2c9aac",
-      "time": "2026-07-12 13:08:51",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Qatar's Ministry of Defence said Qatar was hit by multiple ballistic missiles."
-    },
-    {
-      "id": "4982649",
-      "time": "2026-07-12 13:08:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美議員“控訴”在約旦河西岸遭以方扣留】美國一名聯邦眾議員11日說，他幾天前訪問巴勒斯坦約旦河西岸時一度遭猶太定居者和以色列軍方扣留，在美國駐以色列大使館介入後才獲釋。按照美聯社說法，這一事件再度凸顯美以之間不斷加深的政治裂痕。（新華社）"
-    },
-    {
-      "id": "mkt:019f54b8-2da7-7aab-8d42-27624ab0aaa1",
-      "time": "2026-07-12 13:06:24",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Iranian outlet Fars News reports loud explosions heard in Kuwait and Bahrain."
     }
   ]
 }
