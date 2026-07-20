@@ -1,7 +1,140 @@
 {
   "date": "2026-07-20",
-  "count": 700,
+  "count": 715,
   "items": [
+    {
+      "id": "mkt:019f7d45-c622-7aab-8dff-35e30eea6f27",
+      "time": "2026-07-20 10:05:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Morning tech rebound: repair after leverage-driven liquidation or genuine reversal?】Early-session tech strength looks like a post-liquidation sentiment repair rather than a resumption of a one-way AI hardware rally. Refinitiv shows SOXL and other 3x long semiconductor ETFs are off more than 50% from late-June highs; Goldman Sachs flags that retail margin, leveraged-ETF AUM and short-dated options volumes had jointly elevated market leverage. Leveraged-ETF mechanics — passive buying on rallies and forced selling on declines — amplify semiconductor-stock volatility. The earlier ChangXin Technology IPO also raised concerns; the Sci‑Tech Innovation 50 (STAR 50) is nearly 20% below its early‑July peak, indicating liquidity has been drained from high‑beta tech. For a durable recovery markets need two confirmations: 1) overseas semiconductor leveraged funds stop net outflows and instruments like SOXL show volatility convergence; and 2) the A-share tech bounce evolves from an oversold repair into sustained rotation backed by turnover and earnings."
+    },
+    {
+      "id": "4996702",
+      "time": "2026-07-20 10:05:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美國中央司令部於美國東部時間7月19日晚10點成功完成了連續第九晚對伊朗的打擊。"
+    },
+    {
+      "id": "4996701",
+      "time": "2026-07-20 10:05:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國結束週末期間針對伊朗的多輪打擊行動。"
+    },
+    {
+      "id": "mkt:019f7d44-fc37-7aab-8dff-2c71efabf09e",
+      "time": "2026-07-20 10:05:00",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "CSI 300 ETF managed by Huatai-PineBridge rose over 2% intraday."
+    },
+    {
+      "id": "4996700",
+      "time": "2026-07-20 10:04:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【MLCC概念股震盪走弱 風華高科跌超7%】MLCC概念股震盪走弱，風華高科跌超7%，博遷新材、東材科技等股跟跌。"
+    },
+    {
+      "id": "mkt:019f7d44-d619-7aab-8dff-226cc915077a",
+      "time": "2026-07-20 10:04:50",
+      "tags": [
+        "MKT News",
+        "HMC.O"
+      ],
+      "text": "Honda Motor and GAC Group renewed their GAC Honda Automobile joint-venture agreement, extending the partnership to 2038."
+    },
+    {
+      "id": "4996699",
+      "time": "2026-07-20 10:04:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "A股減肥藥板塊低開高走，海正藥業漲停，博騰股份漲超4%，翰宇藥業、眾生藥業、皓元醫藥、恆瑞醫藥等個股跟漲。"
+    },
+    {
+      "id": "4996698",
+      "time": "2026-07-20 10:04:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國知名搖滾樂手批評以色列實施種族隔離】英國搖滾樂隊平克·弗洛伊德的創始人之一、英國知名搖滾樂手羅傑·沃特斯在18日播出的一檔播客節目中表示，他曾在約旦河西岸親眼看見了以色列在當地實施的種族隔離行徑。他表示，希望積極發聲反對種族隔離，幫助巴勒斯坦人獲得與猶太人平等的人權。（央視新聞）"
+    },
+    {
+      "id": "4996697",
+      "time": "2026-07-20 10:04:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天能股份等在蘇州成立新能源股權投資基金】企查查APP顯示，近日，蘇州新聯通合壹號新能源股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由天能股份(688819)全資子公司浙江天能儲能有限公司等共同出資。"
+    },
+    {
+      "id": "mkt:019f7d43-d40f-7aab-8dff-1d6dcd8abd38",
+      "time": "2026-07-20 10:03:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share weight-loss drug sector opened lower then rallied; Haizheng Pharmaceutical hit the daily limit, Boteng rose over 4%, and Hanyu Pharmaceutical, Zhongsheng Pharmaceutical, Haoyuan Medical and Hengrui Medicine all advanced."
+    },
+    {
+      "id": "4996696",
+      "time": "2026-07-20 10:03:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "本田汽車有限公司：本田與廣州汽車集團達成協議，將廣汽本田汽車合資公司的經營期限延長至 2038 年。"
+    },
+    {
+      "id": "4996695",
+      "time": "2026-07-20 10:03:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股創新藥強勢反彈！港股通創新藥ETF易方達（159316）漲3.27%，恒生生物醫藥指數漲3.6%】截至2026年7月20日09:57，港股通創新藥ETF易方達（159316）上漲3.27%，報1.136元，盤中最高觸及1.143元，最低下探1.113元，開盤價1.115元，全日成交額達3.64億元，換手活躍。"
+    },
+    {
+      "id": "4996694",
+      "time": "2026-07-20 10:02:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭革命衛隊20日釋出宣告稱，革命衛隊當天使用彈道導彈打擊了位於約旦亞喀巴國際機場的美軍飛機，“嚴重損壞多架飛機”。（新華社）"
+    },
+    {
+      "id": "mkt:019f7d42-bc23-7aab-8dff-106da6ba5aab",
+      "time": "2026-07-20 10:02:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【MUFG: Oil rebound may pressure Asian currencies】MUFG currency analysts said in a research note that an oil price rebound could pressure Asian currencies. The rebound comes amid a rising geopolitical risk premium and reduced tanker flows through the Strait of Hormuz. The Thai baht (THB) and Indian rupee (INR) are especially sensitive; both fell about 1% versus the USD last week. For the baht, downside risks remain dominant as Thailand’s balance of payments deteriorates."
+    },
+    {
+      "id": "4996693",
+      "time": "2026-07-20 10:02:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指開盤上漲 0.4%，報 6197.48 點。"
+    },
     {
       "id": "4996692",
       "time": "2026-07-20 10:01:56",
