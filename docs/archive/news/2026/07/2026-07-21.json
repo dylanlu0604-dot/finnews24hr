@@ -1,7 +1,64 @@
 {
   "date": "2026-07-21",
-  "count": 418,
+  "count": 424,
   "items": [
+    {
+      "id": "mkt:019f81f1-f3e3-7aab-8e16-44048486108b",
+      "time": "2026-07-21 07:52:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said that as the US has reshaped its trade relationships over the past 18 months, Canada has tabled detailed, comprehensive proposals to resolve current disputes and advance USMCA modernization, and is ready to intensify consultations in the coming weeks."
+    },
+    {
+      "id": "mkt:019f81f1-e743-7aab-8e16-38965359b680",
+      "time": "2026-07-21 07:52:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Carney said that, faced with U.S. measures and threats to Canadian sovereignty, provinces, regions and people across the country are united and will take necessary actions to support the Canadian economy and defend the interests of Canadian workers, farmers, businesses and households."
+    },
+    {
+      "id": "mkt:019f81f1-037e-7aab-8e16-33f015137222",
+      "time": "2026-07-21 07:51:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "CADUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Canadian Prime Minister Carney said the US has previously implemented multiple tariff measures that directly violate the USMCA, including tariffs targeting Canada’s auto sector. He said Canada’s retaliatory measures are a legitimate exercise of its rights."
+    },
+    {
+      "id": "4998604",
+      "time": "2026-07-21 07:49:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【近期科技股遭拋售後日經指數或將上漲】日本股市在近期科技股遭遇拋售後可能上漲。新加坡交易所的日經指數期貨開盤報65,155點，較週一上漲340點，較週五上漲1,170點。日本市場週一因全國性假日休市。投資者正關注中東局勢的發展，此前美國軍方週一表示，已發動新一輪打擊，旨在進一步削弱伊朗在霍爾木茲海峽攻擊商業航運的能力。日經指數週五下跌4.0%，至64,141.12點。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607213813798858",
+      "time": "2026-07-21 07:49:08",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行9月加息預期升溫】歐洲央行將於7月23日召開最新一次議息會議。儘管各方預計此次將維持利率不變，但由於歐洲央行6月份在發達經濟體中率先加息，其在能源衝擊持續發酵、極端高溫疊加經濟前景嚴峻的背景下，貨幣政策的緊縮訊號和節奏受到廣泛關注。"
+    },
+    {
+      "id": "4998603",
+      "time": "2026-07-21 07:48:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：我們已經提出瞭解決美國貿易爭端的方案。"
+    },
     {
       "id": "mkt:019f81ed-b4dd-7aab-8e16-2cb283895c6b",
       "time": "2026-07-21 07:47:46",
