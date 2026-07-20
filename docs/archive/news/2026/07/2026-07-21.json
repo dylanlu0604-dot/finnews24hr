@@ -1,7 +1,34 @@
 {
   "date": "2026-07-21",
-  "count": 89,
+  "count": 93,
   "items": [
+    {
+      "id": "mkt:019f808e-bc42-7aab-8e13-3bbd22492916",
+      "time": "2026-07-21 01:24:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi congratulated Hamas’s new leader Khalil Hayya on his election and reiterated Iran will continue to support Palestinian-related actions."
+    },
+    {
+      "id": "mkt:019f808b-e75c-7aab-8e13-35afc7f3efcc",
+      "time": "2026-07-21 01:21:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says the new Air Force One will undergo additional upgrades and modifications this autumn, expected to take about one month."
+    },
+    {
+      "id": "mkt:019f808b-c59f-7aab-8e13-2ffb41ff6a3d",
+      "time": "2026-07-21 01:21:11",
+      "tags": [
+        "MKT News",
+        "WBD.O",
+        "Impact bearish",
+        "PSKY.O"
+      ],
+      "text": "Warner Bros. Discovery (WBD.O) and Paramount Global (PSKY.O) extended intraday losses, down 1.38% and 1.66% respectively."
+    },
     {
       "id": "4998391",
       "time": "2026-07-21 01:20:20",
@@ -37,6 +64,15 @@
         "Europe & UK"
       ],
       "text": "UK government says MP John Healey has been appointed Chancellor of the Exchequer."
+    },
+    {
+      "id": "em:qqyh_mlc:202607213813784698",
+      "time": "2026-07-21 01:17:58",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "週一（7月20日），美聯儲隔夜逆回購協議（RRP）使用規模為0.3億美元。"
     },
     {
       "id": "4998389",

@@ -1,7 +1,34 @@
 {
-  "updated": "2026-07-21 01:21:33",
-  "count": 19115,
+  "updated": "2026-07-21 01:25:29",
+  "count": 19111,
   "items": [
+    {
+      "id": "mkt:019f808e-bc42-7aab-8e13-3bbd22492916",
+      "time": "2026-07-21 01:24:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian foreign minister Araghchi congratulated Hamas’s new leader Khalil Hayya on his election and reiterated Iran will continue to support Palestinian-related actions."
+    },
+    {
+      "id": "mkt:019f808b-e75c-7aab-8e13-35afc7f3efcc",
+      "time": "2026-07-21 01:21:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says the new Air Force One will undergo additional upgrades and modifications this autumn, expected to take about one month."
+    },
+    {
+      "id": "mkt:019f808b-c59f-7aab-8e13-2ffb41ff6a3d",
+      "time": "2026-07-21 01:21:11",
+      "tags": [
+        "MKT News",
+        "WBD.O",
+        "Impact bearish",
+        "PSKY.O"
+      ],
+      "text": "Warner Bros. Discovery (WBD.O) and Paramount Global (PSKY.O) extended intraday losses, down 1.38% and 1.66% respectively."
+    },
     {
       "id": "4998391",
       "time": "2026-07-21 01:20:20",
@@ -37,6 +64,15 @@
         "Europe & UK"
       ],
       "text": "UK government says MP John Healey has been appointed Chancellor of the Exchequer."
+    },
+    {
+      "id": "em:qqyh_mlc:202607213813784698",
+      "time": "2026-07-21 01:17:58",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "週一（7月20日），美聯儲隔夜逆回購協議（RRP）使用規模為0.3億美元。"
     },
     {
       "id": "4998389",
@@ -175742,79 +175778,6 @@
         "MKT News"
       ],
       "text": "WALLER: Setting a clear inflation range would provide a defined price metric to serve as the policy benchmark."
-    },
-    {
-      "id": "4985230",
-      "time": "2026-07-14 01:25:14",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【華爾街五大銀行第二季度交易業務收入總和料接近390億美元】美國大型銀行將於週二拉開第二季度財報季序幕，其中五家銀行將在同一天公佈業績。過去幾個月市場劇烈波動促使客戶交易活動增加，這些銀行因此受益。分析師預計，摩根大通、美國銀行、花旗集團、高盛集團和摩根士丹利第二季度交易收入合計將接近390億美元。上述銀行中的多數股票交易部門收入有望接近歷史最高紀錄，僅略低於第一季度創下的高點。其中，高盛股票交易部門收入可能再次重新整理紀錄，第二季度收入預計將超過50億美元。"
-    },
-    {
-      "id": "mkt:019f5c82-f575-7aab-8d61-d65571eaf883",
-      "time": "2026-07-14 01:25:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor Waller said all working groups will have a valuable impact."
-    },
-    {
-      "id": "4985229",
-      "time": "2026-07-14 01:24:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行執委施納貝爾闡述歐洲增長面臨的挑戰與對策】歐洲央行執行委員會成員伊莎貝爾·施納貝爾（Isabel Schnabel）指出，地緣政治格局的轉變、人口老齡化以及氣候變化是歐元區面臨的關鍵挑戰。在週一於明斯特發表的一場演講中，她表示需要更多的融合與創新來提升潛在增長。"
-    },
-    {
-      "id": "mkt:019f5c82-384e-7aab-8d61-cb84da6082a2",
-      "time": "2026-07-14 01:24:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor WALLER said officials should not deduce causes of inf from isolated observations; central-bank officials should avoid that mode of thinking."
-    },
-    {
-      "id": "4985228",
-      "time": "2026-07-14 01:23:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄羅斯原油產量降至至少兩年半以來的最低水平】俄羅斯6月原油產量降至至少兩年半以來的最低水平，因烏克蘭幾乎每天都在襲擊俄羅斯石油基礎設施。根據OPEC月度報告，俄羅斯生產商6月日均生產原油892.8萬桶。這些資料凸顯俄羅斯石油行業承受的巨大壓力：由於烏克蘭無人機襲擊導致俄羅斯煉油廠削減加工量，俄羅斯不得不大量出口原油。OPEC基於二手來源的資料顯示，俄羅斯6月日產量較其OPEC及其盟友協議目標低83.4萬桶，也比小幅下修後的5月日產量低6.1萬桶。"
-    },
-    {
-      "id": "4985227",
-      "time": "2026-07-14 01:23:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒：所有措施都將產生重要影響。"
-    },
-    {
-      "id": "4985226",
-      "time": "2026-07-14 01:21:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒：我們將從各專項工作組中收穫大量經驗。"
-    },
-    {
-      "id": "mkt:019f5c7f-97ce-7aab-8d61-c384658943fb",
-      "time": "2026-07-14 01:21:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed Governor Waller said \"institutional change\" means the existing system should not be put in charge of running one of the working groups, and that the Fed will learn a great deal from those working groups."
     }
   ]
 }
