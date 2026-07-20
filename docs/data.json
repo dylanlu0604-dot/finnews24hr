@@ -1,7 +1,161 @@
 {
-  "updated": "2026-07-20 09:19:09",
-  "count": 19049,
+  "updated": "2026-07-20 09:23:10",
+  "count": 19046,
   "items": [
+    {
+      "id": "mkt:019f7d1e-0c8b-7aab-8dfd-e46f0e7aa80e",
+      "time": "2026-07-20 09:22:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "07709.HK",
+        "Impact bullish",
+        "07747.HK"
+      ],
+      "text": "Southern 2x Long SK Hynix (07709.HK) and Southern 2x Long Samsung Electronics (07747.HK) both opened 15% higher."
+    },
+    {
+      "id": "4996563",
+      "time": "2026-07-20 09:22:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月17日全市場ETF淨流入826.29億元，連續10個交易日實現資金淨流入】2026年7月17日全市場ETF合計資金淨流入826.29億元，細分來看，股票型ETF當日淨流入758.67億元：寬基類ETF淨流入646.92億元、主題類ETF淨流入103.11億元；行業類ETF淨流入15.21億元，策略類ETF淨流出10.39億元，風格類ETF淨流入3.7億元。其他品類ETF方面，債券型ETF淨流入47.3億元、跨境ETF淨流入13.97億元、貨幣型ETF淨流入2.43億元、商品型ETF淨流入3.93億元。"
+    },
+    {
+      "id": "mkt:019f7d1d-95da-7aab-8dfd-df5f454666f4",
+      "time": "2026-07-20 09:21:58",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong's HSI opened up 272.79 pts (+1.11%) at 24,835.03 on July 20 (Mon); Hang Seng TECH opened +101.62 pts (+2.20%) at 4,724.79; Hang Seng China Enterprises Index (HSCEI) opened +116.00 pts (+1.43%) at 8,252.73; Hang Seng Redchip Index opened +28.62 pts (+0.72%) at 3,992.16."
+    },
+    {
+      "id": "4996562",
+      "time": "2026-07-20 09:21:51",
+      "tags": [],
+      "text": "港股恒指高開漲1.11％，國企指數漲1.43％，恒生科技指數開漲2.20%；晶片、PCB、光通訊等板塊漲幅居前。"
+    },
+    {
+      "id": "mkt:019f7d1d-5171-7aab-8dfd-d0c1816ff03f",
+      "time": "2026-07-20 09:21:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "06809.HK",
+        "Impact bullish",
+        "01888.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong stocks opened higher: the HSI rose 1.11% and the Hang Seng Tech Index rose 2.20% at the open. Chip, PCB and optical-communications names led gains; Montage Technology (06809.HK) jumped over 6% and Kingboard Laminates (01888.HK) climbed more than 4%."
+    },
+    {
+      "id": "4996561",
+      "time": "2026-07-20 09:21:30",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲1.11%，恒生科技指數漲2.2%】港股開盤，恒生指數漲1.11%，恒生科技指數漲2.2%。個股方面，明略科技-W漲7.8%，東陽光藥漲6.43%，長飛光纖光纜漲6.06%，瀾起科技漲6.04%，建滔集團漲5.54%；中創新航跌7.21%，康哲藥業跌4.68%。"
+    },
+    {
+      "id": "4996560",
+      "time": "2026-07-20 09:21:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數上漲2.2%至4,724.79點。"
+    },
+    {
+      "id": "mkt:019f7d1c-e094-7aab-8dfd-cb94109c4a45",
+      "time": "2026-07-20 09:21:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted a CNY 398.5 bln 7-day reverse repo tender today; bid and accepted amounts were both CNY 398.5 bln. The operation rate was 1.40%, unchanged."
+    },
+    {
+      "id": "4996559",
+      "time": "2026-07-20 09:21:09",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "中國央行：今日開展3985億元7天逆回購操作，投標量3985億元，中標量3985億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4996558",
+      "time": "2026-07-20 09:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，兩艘油輪試圖通行霍爾木茲海峽南部航道時被炸燬。"
+    },
+    {
+      "id": "mkt:019f7d1c-63f5-7aab-8dfd-c5e323b54aca",
+      "time": "2026-07-20 09:20:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said the Strait of Hormuz cannot be considered safe while U.S. operations in the region continue, warning that oil, gas and petrochemical shipments cannot transit safely."
+    },
+    {
+      "id": "4996557",
+      "time": "2026-07-20 09:20:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申能股份：計劃近日提交可轉債發行備案申請】申能股份公告稱，公司於2026年3月18日取得中國證監會同意向不特定物件發行可轉債的批覆。公司計劃近日向上海證券交易所提交本次可轉債發行相關備案申請，待稽核透過後，將擇機儘快啟動發行工作。本次可轉債具體備案進度及發行日期尚有不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "4996556",
+      "time": "2026-07-20 09:19:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，只要美國繼續在該地區採取行動，霍爾木茲海峽就不會讓石化產品，乃至“一滴油氣”安全過境。"
+    },
+    {
+      "id": "4996555",
+      "time": "2026-07-20 09:18:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【博頓光電完成超億元B+輪融資】近日，博頓光電完成超億元人民幣B+輪融資，本輪投資方為毅達資本、中信建投資本、友誼時光、達武創投、南控基金。據博頓光電介紹，本輪資金將用於夯實技術底座、引進高階人才與研發新產品，並針對已進入爆發增長期的重點行業領域，加快綜合解決方案落地、市場推廣及產能建設。"
+    },
+    {
+      "id": "mkt:019f7d1a-aaf5-7aab-8dfd-ba27590f5477",
+      "time": "2026-07-20 09:18:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Mizuho: Global markets may face 'triple hit'】Vishnu Varathan, head of Asia‑Pacific macro strategy at Mizuho Securities, warned global financial markets could face a 'triple hit': escalating US‑Iran hostilities nearing a wider Middle East war; overheating AI valuations triggering sector panic; and a hawkish Fed response to high, persistent inflation. He said the combined risks make a summer market crash a non‑negligible threat."
+    },
     {
       "id": "4996554",
       "time": "2026-07-20 09:18:34",
@@ -175579,168 +175733,6 @@
         "Brent"
       ],
       "text": "【Energy-chemical futures extend gains; SC crude up over 3%】Main contracts in energy and chemical futures extended gains. SC crude main contract rose more than 3% to 483 yuan/barrel. Fuel oil gained nearly 5%; benzene up over 4%; styrene (EB) up over 3%; ethylene glycol (EG) and butadiene rubber rose around 4%."
-    },
-    {
-      "id": "mkt:019f5911-6da1-7aab-8d49-5499b677052f",
-      "time": "2026-07-13 09:22:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Preview: China State Council Information Office to brief on improving natural resource asset management system on July 14】China's State Council Information Office will hold a press briefing at 15:00 on July 14, 2026. Ministry of Natural Resources Vice Minister Zhang Wentong and National Forestry and Grassland Administration (National Park Administration) Deputy Director Zhang Liming will outline measures to improve the natural resource asset management system and take questions."
-    },
-    {
-      "id": "4983357",
-      "time": "2026-07-13 09:22:08",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行公開市場今日淨投放2,170.0億元人民幣。"
-    },
-    {
-      "id": "mkt:019f5911-2d3e-7aab-8d49-4c236a3b06f6",
-      "time": "2026-07-13 09:22:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Hong Kong markets opened July 13 (Monday): Hang Seng Index (HSI) down 17.47 pts (-0.07%) at 24,157.65; Hang Seng Tech Index down 1.98 pts (-0.04%) at 4,719.68; Hang Seng China Enterprises Index (HSCEI) up 3.07 pts (+0.04%) at 8,042.26; Hang Seng Red Chip Index up 14.61 pts (+0.38%) at 3,865.65."
-    },
-    {
-      "id": "4983356",
-      "time": "2026-07-13 09:21:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲3%，現報8029.00元。"
-    },
-    {
-      "id": "4983355",
-      "time": "2026-07-13 09:21:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內漲4%，現報7120.00元。"
-    },
-    {
-      "id": "4983354",
-      "time": "2026-07-13 09:21:50",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "預告：國務院新聞辦公室將於2026年7月14日（星期二）下午3時舉行新聞釋出會，請自然資源部副部長張文彤、國家林業和草原局（國家公園管理局）副局長張利明介紹完善自然資源資產管理制度體系有關情況，並答記者問。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607133802761666",
-      "time": "2026-07-13 09:21:27",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展2240億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4983353",
-      "time": "2026-07-13 09:21:24",
-      "tags": [],
-      "text": "港股恒指低開跌0.07％，國企指數漲0.04％，恒生科技指數開跌0.04%；兆易創新開跌超10%。"
-    },
-    {
-      "id": "mkt:019f5910-7c48-7aab-8d49-458bbba0c20f",
-      "time": "2026-07-13 09:21:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "03986.HK",
-        "Impact bearish",
-        "01688.HK",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "Hong Kong equities opened mixed: HSI down 0.07% and Hang Seng Tech Index down 0.04% at the open. Stock 03986.HK fell more than 10%; 01688.HK jumped 7.84%."
-    },
-    {
-      "id": "mkt:019f5910-6e6e-7aab-8d49-3f2ede104bc6",
-      "time": "2026-07-13 09:21:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "PBOC conducted a CNY 224 bln 7-day reverse repo today; bid and allotment both CNY 224 bln. Operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "4983352",
-      "time": "2026-07-13 09:21:15",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展2240億元7天逆回購操作，投標量2240億元，中標量2240億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019f5910-1eb8-7aab-8d49-35df9fc9c28d",
-      "time": "2026-07-13 09:20:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. strikes water pumping station in Mahshahr, Iran; 1 killed, 4 wounded】Iran said on July 13 the U.S. military struck a water pumping station in Mahshahr in southwestern Iran, killing one person and wounding four."
-    },
-    {
-      "id": "4983351",
-      "time": "2026-07-13 09:20:53",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲4%，現報4353.00元。"
-    },
-    {
-      "id": "4983350",
-      "time": "2026-07-13 09:20:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【暑運前十天 深圳鐵路到發旅客498.46萬人次】從深圳鐵路部門獲悉，2026年暑運自7月1日啟動以來，旅客出行需求持續旺盛。截至7月10日，深圳鐵路累計到發旅客498.46萬人次。其中，深圳北站累計到發旅客334.39萬人次；深圳站累計到發旅客54.09萬人次；深圳東站累計到發旅客39.60萬人次；福田站累計到發旅客34.42萬人次，同比增長31.74%。"
-    },
-    {
-      "id": "mkt:019f590f-ba06-7aab-8d49-2fc491240400",
-      "time": "2026-07-13 09:20:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shennan Electric A said it has not, to date, participated in any projects related to \"Yichu Shu Intelligent Source\"."
-    },
-    {
-      "id": "mkt:019f590e-fdc5-7aab-8d49-24bbfee41119",
-      "time": "2026-07-13 09:19:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Barclays: Oil shock has passed but inflation persists】Barclays says oil prices have retreated sharply from peaks during the Iran conflict, but its inflation outlook has worsened. In a client note the bank said the odds of the Fed holding rates this year rather than hiking have narrowed noticeably in recent months, though that remains its base case. Barclays cited strong US economic momentum, saying the oil decline alone is unlikely to relieve US inflationary pressures or materially change Fed policy expectations."
-    },
-    {
-      "id": "4983349",
-      "time": "2026-07-13 09:19:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【深南電A：公司未參與“易儲數智慧源”相關專案】有投資者在互動平臺提問深南電A(000037)：公司是否牽頭拿下了東莞液冷儲能EPC易儲數智慧源？深南電A回覆：截至目前，公司未參與“易儲數智慧源”的相關專案。"
-    },
-    {
-      "id": "4983348",
-      "time": "2026-07-13 09:19:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【柯力感測戰略投資雲幕智造】近日，柯力感測宣佈完成對江蘇雲幕智造科技有限公司（下稱 “雲幕智造”）數千萬元戰略投資，持續加碼具身智慧賽道，進一步拓寬 “感測器森林” 戰略佈局深度。據柯力感測介紹，未來，雙方將深度聯動，合力推進人形機器人與具身智慧技術規模化商用落地。"
     }
   ]
 }

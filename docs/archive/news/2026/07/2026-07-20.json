@@ -1,7 +1,161 @@
 {
   "date": "2026-07-20",
-  "count": 510,
+  "count": 525,
   "items": [
+    {
+      "id": "mkt:019f7d1e-0c8b-7aab-8dfd-e46f0e7aa80e",
+      "time": "2026-07-20 09:22:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "07709.HK",
+        "Impact bullish",
+        "07747.HK"
+      ],
+      "text": "Southern 2x Long SK Hynix (07709.HK) and Southern 2x Long Samsung Electronics (07747.HK) both opened 15% higher."
+    },
+    {
+      "id": "4996563",
+      "time": "2026-07-20 09:22:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月17日全市場ETF淨流入826.29億元，連續10個交易日實現資金淨流入】2026年7月17日全市場ETF合計資金淨流入826.29億元，細分來看，股票型ETF當日淨流入758.67億元：寬基類ETF淨流入646.92億元、主題類ETF淨流入103.11億元；行業類ETF淨流入15.21億元，策略類ETF淨流出10.39億元，風格類ETF淨流入3.7億元。其他品類ETF方面，債券型ETF淨流入47.3億元、跨境ETF淨流入13.97億元、貨幣型ETF淨流入2.43億元、商品型ETF淨流入3.93億元。"
+    },
+    {
+      "id": "mkt:019f7d1d-95da-7aab-8dfd-df5f454666f4",
+      "time": "2026-07-20 09:21:58",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hong Kong's HSI opened up 272.79 pts (+1.11%) at 24,835.03 on July 20 (Mon); Hang Seng TECH opened +101.62 pts (+2.20%) at 4,724.79; Hang Seng China Enterprises Index (HSCEI) opened +116.00 pts (+1.43%) at 8,252.73; Hang Seng Redchip Index opened +28.62 pts (+0.72%) at 3,992.16."
+    },
+    {
+      "id": "4996562",
+      "time": "2026-07-20 09:21:51",
+      "tags": [],
+      "text": "港股恒指高開漲1.11％，國企指數漲1.43％，恒生科技指數開漲2.20%；晶片、PCB、光通訊等板塊漲幅居前。"
+    },
+    {
+      "id": "mkt:019f7d1d-5171-7aab-8dfd-d0c1816ff03f",
+      "time": "2026-07-20 09:21:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "06809.HK",
+        "Impact bullish",
+        "01888.HK",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong stocks opened higher: the HSI rose 1.11% and the Hang Seng Tech Index rose 2.20% at the open. Chip, PCB and optical-communications names led gains; Montage Technology (06809.HK) jumped over 6% and Kingboard Laminates (01888.HK) climbed more than 4%."
+    },
+    {
+      "id": "4996561",
+      "time": "2026-07-20 09:21:30",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股開盤：恒生指數漲1.11%，恒生科技指數漲2.2%】港股開盤，恒生指數漲1.11%，恒生科技指數漲2.2%。個股方面，明略科技-W漲7.8%，東陽光藥漲6.43%，長飛光纖光纜漲6.06%，瀾起科技漲6.04%，建滔集團漲5.54%；中創新航跌7.21%，康哲藥業跌4.68%。"
+    },
+    {
+      "id": "4996560",
+      "time": "2026-07-20 09:21:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒生科技指數上漲2.2%至4,724.79點。"
+    },
+    {
+      "id": "mkt:019f7d1c-e094-7aab-8dfd-cb94109c4a45",
+      "time": "2026-07-20 09:21:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "PBOC conducted a CNY 398.5 bln 7-day reverse repo tender today; bid and accepted amounts were both CNY 398.5 bln. The operation rate was 1.40%, unchanged."
+    },
+    {
+      "id": "4996559",
+      "time": "2026-07-20 09:21:09",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "中國央行：今日開展3985億元7天逆回購操作，投標量3985億元，中標量3985億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "4996558",
+      "time": "2026-07-20 09:20:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，兩艘油輪試圖通行霍爾木茲海峽南部航道時被炸燬。"
+    },
+    {
+      "id": "mkt:019f7d1c-63f5-7aab-8dfd-c5e323b54aca",
+      "time": "2026-07-20 09:20:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said the Strait of Hormuz cannot be considered safe while U.S. operations in the region continue, warning that oil, gas and petrochemical shipments cannot transit safely."
+    },
+    {
+      "id": "4996557",
+      "time": "2026-07-20 09:20:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申能股份：計劃近日提交可轉債發行備案申請】申能股份公告稱，公司於2026年3月18日取得中國證監會同意向不特定物件發行可轉債的批覆。公司計劃近日向上海證券交易所提交本次可轉債發行相關備案申請，待稽核透過後，將擇機儘快啟動發行工作。本次可轉債具體備案進度及發行日期尚有不確定性，提醒投資者注意風險。"
+    },
+    {
+      "id": "4996556",
+      "time": "2026-07-20 09:19:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，只要美國繼續在該地區採取行動，霍爾木茲海峽就不會讓石化產品，乃至“一滴油氣”安全過境。"
+    },
+    {
+      "id": "4996555",
+      "time": "2026-07-20 09:18:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【博頓光電完成超億元B+輪融資】近日，博頓光電完成超億元人民幣B+輪融資，本輪投資方為毅達資本、中信建投資本、友誼時光、達武創投、南控基金。據博頓光電介紹，本輪資金將用於夯實技術底座、引進高階人才與研發新產品，並針對已進入爆發增長期的重點行業領域，加快綜合解決方案落地、市場推廣及產能建設。"
+    },
+    {
+      "id": "mkt:019f7d1a-aaf5-7aab-8dfd-ba27590f5477",
+      "time": "2026-07-20 09:18:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Market Themes",
+        "AI Revolution",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Mizuho: Global markets may face 'triple hit'】Vishnu Varathan, head of Asia‑Pacific macro strategy at Mizuho Securities, warned global financial markets could face a 'triple hit': escalating US‑Iran hostilities nearing a wider Middle East war; overheating AI valuations triggering sector panic; and a hawkish Fed response to high, persistent inflation. He said the combined risks make a summer market crash a non‑negligible threat."
+    },
     {
       "id": "4996554",
       "time": "2026-07-20 09:18:34",
