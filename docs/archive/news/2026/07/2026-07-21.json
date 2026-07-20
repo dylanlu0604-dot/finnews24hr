@@ -1,7 +1,51 @@
 {
   "date": "2026-07-21",
-  "count": 207,
+  "count": 212,
   "items": [
+    {
+      "id": "mkt:019f8126-bb55-7aab-8e14-b23317df5d95",
+      "time": "2026-07-21 04:10:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign ministry said it will continue to support the people of Yemen and Yemen’s \"legitimate\" government, and condemned Houthi claims that Saudi is imposing a \"siege\" on the Yemeni people."
+    },
+    {
+      "id": "4998458",
+      "time": "2026-07-21 04:09:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部表示，將持續向葉門民眾以及葉門 “合法政府” 提供支援。"
+    },
+    {
+      "id": "mkt:019f8125-db9a-7aab-8e14-aea90b35b3f5",
+      "time": "2026-07-21 04:09:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) will report Q2 2026 results and host a webcast on Aug. 4, local time."
+    },
+    {
+      "id": "4998457",
+      "time": "2026-07-21 04:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部譴責胡塞武裝發表宣告，指控沙特王國對葉門民眾實施 “圍困”。"
+    },
+    {
+      "id": "mkt:019f8125-3e03-7aab-8e14-a07ca9eaa6ad",
+      "time": "2026-07-21 04:08:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Foreign Ministry condemned the Yemeni Houthi armed group's announcement of a maritime blockade against Saudi Arabia."
+    },
     {
       "id": "4998456",
       "time": "2026-07-21 04:07:44",

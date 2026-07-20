@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-21 04:08:31",
-  "count": 19064,
+  "updated": "2026-07-21 04:12:31",
+  "count": 19061,
   "items": [
+    {
+      "id": "mkt:019f8126-bb55-7aab-8e14-b23317df5d95",
+      "time": "2026-07-21 04:10:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi foreign ministry said it will continue to support the people of Yemen and Yemen’s \"legitimate\" government, and condemned Houthi claims that Saudi is imposing a \"siege\" on the Yemeni people."
+    },
+    {
+      "id": "4998458",
+      "time": "2026-07-21 04:09:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部表示，將持續向葉門民眾以及葉門 “合法政府” 提供支援。"
+    },
+    {
+      "id": "mkt:019f8125-db9a-7aab-8e14-aea90b35b3f5",
+      "time": "2026-07-21 04:09:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) will report Q2 2026 results and host a webcast on Aug. 4, local time."
+    },
+    {
+      "id": "4998457",
+      "time": "2026-07-21 04:09:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部譴責胡塞武裝發表宣告，指控沙特王國對葉門民眾實施 “圍困”。"
+    },
+    {
+      "id": "mkt:019f8125-3e03-7aab-8e14-a07ca9eaa6ad",
+      "time": "2026-07-21 04:08:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi Foreign Ministry condemned the Yemeni Houthi armed group's announcement of a maritime blockade against Saudi Arabia."
+    },
     {
       "id": "4998456",
       "time": "2026-07-21 04:07:44",
@@ -175232,81 +175276,6 @@
         "國際"
       ],
       "text": "特朗普：伊朗協議是一次考驗，伊方並未遵守協議。"
-    },
-    {
-      "id": "4985334",
-      "time": "2026-07-14 04:12:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油日內漲10%，現報83.62美元/桶。訊息面上，特朗普稱美國今晚和明天將“重擊”伊朗。"
-    },
-    {
-      "id": "te:markets:566503",
-      "time": "2026-07-14 04:10:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Wall Street Slides on AI and Middle East Concerns — US stock indices closed lower on Monday amid weakness in chipmakers and a deteriorating macroeconomic backdrop. The S&P 500 fell 0.8%, the Nasdaq 100 lost 1.9%, and the Dow dropped 138 points. Chipmakers sank on persistent concerns that AI hyperscalers will be forced to scale back spending on AI infrastructure. SK Hynix ADRs fell 8.6% after surging 13% in their debut on Friday, as a Korean brokerage warned the company could miss its next earnings expectations. Nvidia shed 3.5%, Broadcom was down 4%, AMD retreated 4.2%, and Intel fell 6.1%, while memory producers Sandisk and Micron lost 12.6% and 4.3%, respectively. Stocks in other sectors also declined alongside US Treasuries after President Trump said the US would reinstate the blockade of Iranian ships in the Strait of Hormuz, escalating the conflict and raising the risk of energy-driven inflation. Major banks fell ahead of this week's earnings, with JPMorgan down 0.6%, Bank of America falling 0.3%, and Goldman Sachs losing 0.9%."
-    },
-    {
-      "id": "mkt:019f5d1a-2354-7aab-8d63-bd039de5f948",
-      "time": "2026-07-14 04:10:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "President Trump said the US will strike Iran very hard tonight and tomorrow."
-    },
-    {
-      "id": "4985333",
-      "time": "2026-07-14 04:10:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗：今晚、明日將對其實施嚴厲打擊。"
-    },
-    {
-      "id": "4985332",
-      "time": "2026-07-14 04:09:57",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：今晚要狠狠打擊伊朗。"
-    },
-    {
-      "id": "4985331",
-      "time": "2026-07-14 04:09:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗人極其不可靠。"
-    },
-    {
-      "id": "4985330",
-      "time": "2026-07-14 04:09:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們昨天剛達成協議，他們就撕毀協議。"
-    },
-    {
-      "id": "4985329",
-      "time": "2026-07-14 04:09:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們很快就會給“鎬頭”行動一試的機會。\n注：鎬頭（Pickaxe）是美方針對伊朗相關軍事行動代稱。"
     }
   ]
 }
