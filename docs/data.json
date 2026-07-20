@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-21 04:04:31",
-  "count": 19063,
+  "updated": "2026-07-21 04:08:31",
+  "count": 19064,
   "items": [
+    {
+      "id": "4998456",
+      "time": "2026-07-21 04:07:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "沙特外交部譴責葉門胡塞武裝宣佈對沙特實施海上封鎖。"
+    },
+    {
+      "id": "mkt:019f8123-edee-7aab-8e14-9a3a1b5cd580",
+      "time": "2026-07-21 04:07:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【New York mayor says exploring arrest of Netanyahu; Trump says it will not happen】President Trump said Israeli Prime Minister Netanyahu would not be arrested while visiting the United States, responding to New York Mayor Mamdani’s remark that the city was researching legal options to detain Netanyahu if he attends the UN General Assembly in New York before September. Mamdani said Netanyahu should be sent to The Hague; the International Criminal Court has issued an arrest warrant accusing him of war crimes and crimes against humanity. Trump said the US would not carry out any arrest; Netanyahu accused Mamdani of being anti‑American and backing Hamas. Legal observers note the US is not an ICC member and visiting foreign leaders typically have diplomatic immunity, making enforcement of an ICC warrant during a US visit unlikely."
+    },
+    {
+      "id": "4998455",
+      "time": "2026-07-21 04:06:55",
+      "tags": [
+        "公司",
+        "其他",
+        "國際"
+      ],
+      "text": "SpaceX：將於 8 月 4 日公佈 2026 年第二季度業績並舉辦線上直播釋出會。"
+    },
+    {
+      "id": "mkt:019f8122-8005-7aab-8e14-95c47f0a5100",
+      "time": "2026-07-21 04:05:49",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "At the close on Monday, July 20, the Dow Jones Industrial Average fell 305.32 points, or 0.59%, to 51,841.10. The S&P 500 dropped 14.28 points, or 0.19%, to 7,443.41. The Nasdaq Composite slipped 12.17 points, or 0.05%, to 25,508.07."
+    },
     {
       "id": "mkt:019f8120-61ca-7aab-8e14-8ee3f21352e0",
       "time": "2026-07-21 04:03:30",
@@ -175269,36 +175307,6 @@
         "國際"
       ],
       "text": "特朗普：我們很快就會給“鎬頭”行動一試的機會。\n注：鎬頭（Pickaxe）是美方針對伊朗相關軍事行動代稱。"
-    },
-    {
-      "id": "4985328",
-      "time": "2026-07-14 04:08:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申伊朗不存在可用空軍、海軍與完整作戰軍力。"
-    },
-    {
-      "id": "4985327",
-      "time": "2026-07-14 04:06:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "傑克丹尼威士忌生產商布朗福曼集團執行長即將卸任。"
-    },
-    {
-      "id": "mkt:019f5d15-dfbd-7aab-8d63-b613857eae38",
-      "time": "2026-07-14 04:05:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "Dow Jones Industrial Average fell 138.25 points (-0.26%) to 52,498.76 on Monday, July 13. S&P 500 fell 59.61 points (-0.79%) to 7,515.78. Nasdaq Composite fell 408.43 points (-1.55%) to 25,873.18."
     }
   ]
 }
