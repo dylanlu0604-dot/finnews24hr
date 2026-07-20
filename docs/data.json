@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-20 08:02:25",
-  "count": 19020,
+  "updated": "2026-07-20 08:06:17",
+  "count": 19019,
   "items": [
+    {
+      "id": "mkt:019f7cd7-d95e-7aab-8dfc-6a81211146ef",
+      "time": "2026-07-20 08:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan media reported Foxconn has for the first time won a contract to manufacture AI servers for SpaceX."
+    },
+    {
+      "id": "4996428",
+      "time": "2026-07-20 08:05:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網警依法打擊網路賭球違法犯罪，公佈10起典型案例】近日，浙江寧波公安網安部門成功偵破一起涉世界盃網路賭球案，打掉一個在世界盃期間為聚賭獲利，充當境外賭球網站平臺代理，私設世界盃足球賽事外圍賭博盤口，組織境內網民下注賭球，進而從中牟取非法利益的犯罪團伙。該案共抓獲涉案人29名。目前，13名犯罪嫌疑人被依法刑事拘留，16名涉案人被依法行政拘留。近期，四川南充公安網安部門成功打掉一起為境外賭球平臺提供非法資金結算服務，牟取非法利益的犯罪團伙，共搗毀犯罪窩點3個，抓獲犯罪嫌疑人16名，現場扣押作案電腦12臺、手機43部。目前，16名犯罪嫌疑人被依法刑事拘留。"
+    },
+    {
+      "id": "mkt:019f7cd7-1521-7aab-8dfc-60b8cfb9fa1a",
+      "time": "2026-07-20 08:04:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "State news agency IRNA reported a new wave of Iranian missiles launched from Lorestan province, aimed at \"enemy targets\"."
+    },
+    {
+      "id": "4996427",
+      "time": "2026-07-20 08:04:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（IRNA）表示，伊朗從洛雷斯坦省向“敵方目標”發射了新一輪導彈。"
+    },
+    {
+      "id": "te:markets:568014",
+      "time": "2026-07-20 08:04:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korea Moves to Boost Global Use of Won — South Korea announced on Sunday plans to further liberalize its currency market by allowing foreign financial institutions to borrow the Korean won through temporary overdrafts and use won-denominated bonds as collateral in financial transactions. The measures are designed to encourage broader international use of the won and support the government's goal of transforming it from a restricted local currency into a more globally traded one. The reforms build on South Korea's recent efforts to open its foreign exchange market, including the extension of dollar-won trading hours to a 24-hour trading cycle from July 6. By improving access to won liquidity and increasing flexibility in funding and collateral management, the government aims to attract greater foreign participation, deepen domestic financial markets, and enhance the global competitiveness of the Korean won."
+    },
+    {
+      "id": "4996426",
+      "time": "2026-07-20 08:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【提醒】日本股市今日因海洋日休市一日。"
+    },
+    {
+      "id": "mkt:019f7cd5-10de-7aab-8dfc-5a1388785746",
+      "time": "2026-07-20 08:02:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said alerts sounded in Kfar Aza and Sa'ad."
+    },
+    {
+      "id": "4996425",
+      "time": "2026-07-20 08:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻海首度奪下SpaceX AI伺服器代工訂單】根據臺灣經濟日報未援引訊息來源報道，鴻海精密首度奪下SpaceX AI伺服器代工訂單。下一步雙方將瞄準太空AI資料中心。"
+    },
+    {
+      "id": "4996424",
+      "time": "2026-07-20 08:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，卡法阿扎和薩阿德地區拉響了防空警報。"
+    },
     {
       "id": "4996423",
       "time": "2026-07-20 08:01:45",
@@ -175431,88 +175511,6 @@
         "其他"
       ],
       "text": "【“張雪機車”透露最遲明年在臺灣設門店】日前在2026世界超級摩托車錦標賽拿下賽季第六冠的張雪機車董事長張雪在接受臺灣《聯合報》專訪時表示，他非常想在臺灣開店，現在正在對接，最晚不超過明年，“開幕時我一定要親自到場”。 據臺灣《聯合報》11日報道，張雪在接受採訪時透露，目前已經在推進在臺開店的對接工作，只是代理商還沒有籤協議，“想要讓門店真正站穩腳跟，車型的豐富度是關鍵，店裡不能只有單一品類，得有復古車、跑車，也有踏板車（速克達），讓不同喜好的車友都能找到自己的選擇，這樣門店的經營才能更穩”。他承諾，未來臺灣的車主，將和大陸車主享受完全一樣的售後保障服務，還會給大家配套贈送貼膜、車殼等周邊福利，也隨時邀請臺灣車友到大陸參觀工廠。(環球網)"
-    },
-    {
-      "id": "4983238",
-      "time": "2026-07-13 08:06:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.1%，報8,811.80點。"
-    },
-    {
-      "id": "4983237",
-      "time": "2026-07-13 08:05:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中際旭創：2027年光模組價格正在確定，市場傳言的降價幅度過於誇大】關於目前光模組產品價格，中際旭創7月12日稱，現階段2027年的價格正在確定，市場傳言的降價幅度是過於誇大的。實際上目前能大批次交付1.6T和800G的廠商並不多，涉及到技術門檻、市場準入、良率等，客戶實際拿到的交付量也並不多。2027年行業依然面臨交付緊張，大規模交付能力才是最寶貴的。高階光模組並不是一個惡性競爭的行業。"
-    },
-    {
-      "id": "mkt:019f58ca-e269-7aab-8d48-22d048a1aa47",
-      "time": "2026-07-13 08:05:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhongji Xuchuang: 2027 optical-module pricing being set; rumored price cuts exaggerated】On July 12 Zhongji Xuchuang said 2027 pricing for optical modules is still being determined and market rumors of steep markdowns are exaggerated. Only a handful of suppliers can mass-deliver 1.6T and 800G modules because of technical barriers, market access and yield constraints, leaving customer deliveries limited. The company said delivery tightness will persist in 2027, making large-scale delivery capacity the primary value driver; high-end optical modules are not a low-price, cutthroat segment."
-    },
-    {
-      "id": "4983236",
-      "time": "2026-07-13 08:04:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "國家海洋預報臺7月13日08時釋出風暴潮橙色警報：受今年第9號颱風“巴威”（熱帶風暴級）的影響，預計：7月13日上午至14日上午，遼東半島南部沿海將出現40到80釐米的風暴增水，遼東灣將出現30到50釐米的風暴增水，渤海灣和萊州灣將出現30到70釐米的風暴增水。"
-    },
-    {
-      "id": "mkt:019f58c9-9443-7aab-8d48-1e2547d7a771",
-      "time": "2026-07-13 08:03:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI rapidly rallied into positive territory after earlier sliding more than 1%."
-    },
-    {
-      "id": "4983235",
-      "time": "2026-07-13 08:03:46",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【穆迪：韓國央行預期的加息可能是緊縮週期的開始】穆迪分析在一份報告中表示，預計韓國央行本週將把基準利率上調25個基點，至2.75%。該機構認為，7月份的加息將是漸進緊縮週期的開始。該機構表示，通貨膨脹遠高於目標水平，並且只有在能源價格回落時才會下降。韓圓疲軟、家庭債務再度激增以及首爾房價不斷上漲，增強了加息的理由。該機構補充道，在半導體出口帶動經濟繁榮增長的背景下，該貨幣政策委員會有充分的理由加息。韓國央行的利率制定會議定於週四舉行。"
-    },
-    {
-      "id": "4983234",
-      "time": "2026-07-13 08:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞證券和投資委員會（ASIC）：有合理依據認為，德意志銀行未能採取所有合理措施準確申報“交易方向”欄位資料。"
-    },
-    {
-      "id": "4983233",
-      "time": "2026-07-13 08:03:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞證券投資委員會(ASIC) ：德意志銀行因錯誤報告逾26萬筆場外衍生品交易，已支付200萬澳元罰款。"
-    },
-    {
-      "id": "4983232",
-      "time": "2026-07-13 08:02:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "SMBC日興：GPIF目前不太可能支援政府債券。"
-    },
-    {
-      "id": "4983231",
-      "time": "2026-07-13 08:02:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "澳大利亞證券及投資委員會（ASIC）：德意志銀行因系統性交易報告違規支付200萬澳元罰金。"
     }
   ]
 }

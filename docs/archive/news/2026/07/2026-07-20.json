@@ -1,7 +1,87 @@
 {
   "date": "2026-07-20",
-  "count": 325,
+  "count": 334,
   "items": [
+    {
+      "id": "mkt:019f7cd7-d95e-7aab-8dfc-6a81211146ef",
+      "time": "2026-07-20 08:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan media reported Foxconn has for the first time won a contract to manufacture AI servers for SpaceX."
+    },
+    {
+      "id": "4996428",
+      "time": "2026-07-20 08:05:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網警依法打擊網路賭球違法犯罪，公佈10起典型案例】近日，浙江寧波公安網安部門成功偵破一起涉世界盃網路賭球案，打掉一個在世界盃期間為聚賭獲利，充當境外賭球網站平臺代理，私設世界盃足球賽事外圍賭博盤口，組織境內網民下注賭球，進而從中牟取非法利益的犯罪團伙。該案共抓獲涉案人29名。目前，13名犯罪嫌疑人被依法刑事拘留，16名涉案人被依法行政拘留。近期，四川南充公安網安部門成功打掉一起為境外賭球平臺提供非法資金結算服務，牟取非法利益的犯罪團伙，共搗毀犯罪窩點3個，抓獲犯罪嫌疑人16名，現場扣押作案電腦12臺、手機43部。目前，16名犯罪嫌疑人被依法刑事拘留。"
+    },
+    {
+      "id": "mkt:019f7cd7-1521-7aab-8dfc-60b8cfb9fa1a",
+      "time": "2026-07-20 08:04:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "State news agency IRNA reported a new wave of Iranian missiles launched from Lorestan province, aimed at \"enemy targets\"."
+    },
+    {
+      "id": "4996427",
+      "time": "2026-07-20 08:04:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國通訊社（IRNA）表示，伊朗從洛雷斯坦省向“敵方目標”發射了新一輪導彈。"
+    },
+    {
+      "id": "te:markets:568014",
+      "time": "2026-07-20 08:04:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korea Moves to Boost Global Use of Won — South Korea announced on Sunday plans to further liberalize its currency market by allowing foreign financial institutions to borrow the Korean won through temporary overdrafts and use won-denominated bonds as collateral in financial transactions. The measures are designed to encourage broader international use of the won and support the government's goal of transforming it from a restricted local currency into a more globally traded one. The reforms build on South Korea's recent efforts to open its foreign exchange market, including the extension of dollar-won trading hours to a 24-hour trading cycle from July 6. By improving access to won liquidity and increasing flexibility in funding and collateral management, the government aims to attract greater foreign participation, deepen domestic financial markets, and enhance the global competitiveness of the Korean won."
+    },
+    {
+      "id": "4996426",
+      "time": "2026-07-20 08:04:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【提醒】日本股市今日因海洋日休市一日。"
+    },
+    {
+      "id": "mkt:019f7cd5-10de-7aab-8dfc-5a1388785746",
+      "time": "2026-07-20 08:02:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said alerts sounded in Kfar Aza and Sa'ad."
+    },
+    {
+      "id": "4996425",
+      "time": "2026-07-20 08:02:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【鴻海首度奪下SpaceX AI伺服器代工訂單】根據臺灣經濟日報未援引訊息來源報道，鴻海精密首度奪下SpaceX AI伺服器代工訂單。下一步雙方將瞄準太空AI資料中心。"
+    },
+    {
+      "id": "4996424",
+      "time": "2026-07-20 08:01:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，卡法阿扎和薩阿德地區拉響了防空警報。"
+    },
     {
       "id": "4996423",
       "time": "2026-07-20 08:01:45",
