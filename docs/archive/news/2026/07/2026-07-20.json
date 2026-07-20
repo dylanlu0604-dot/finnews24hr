@@ -1,7 +1,74 @@
 {
   "date": "2026-07-20",
-  "count": 2765,
+  "count": 2773,
   "items": [
+    {
+      "id": "4998234",
+      "time": "2026-07-20 22:22:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【元腦伺服器推出CXL記憶體跨代擴充套件方案】7月20日，元腦伺服器宣佈推出CXL（Compute Express Link）記憶體跨代擴充套件方案，實現DDR5和DDR4同機部署記憶體擴容。據介紹，基於元腦伺服器NF5280，在24條本地DDR5記憶體基本配置下，透過自研CXL記憶體擴充套件卡，單機最多可擴充套件16條DDR4記憶體，按照單條記憶體32GB容量，額外擴充套件512GB記憶體，整機記憶體容量提升33%，成本大幅降低25%。目前，該方案已在國內某大型網際網路客戶完成驗證並實現規模應用。"
+    },
+    {
+      "id": "4998233",
+      "time": "2026-07-20 22:22:04",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "Nassau 1982銀行首席經濟學Win Thin表示：“加拿大央行採取的觀望策略似乎是正確的選擇，這也暗示了美聯儲和英國央行應採取同樣的策略。”"
+    },
+    {
+      "id": "mkt:019f7fe7-2fab-7aab-8e0f-f690dabbf0fc",
+      "time": "2026-07-20 22:21:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. authorities seized more than 1,000 domain names tied to illegal live streams of World Cup matches."
+    },
+    {
+      "id": "mkt:019f7fe6-ac77-7aab-8e0f-edc72efe9f20",
+      "time": "2026-07-20 22:20:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Fars News Agency reports explosions heard in Shiraz, Iran."
+    },
+    {
+      "id": "4998232",
+      "time": "2026-07-20 22:20:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "智利中央銀行以平均每盎司932.48智利比索的價格賣出7300萬美元外匯遠期合約。"
+    },
+    {
+      "id": "4998231",
+      "time": "2026-07-20 22:20:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗設拉子傳出爆炸聲。"
+    },
+    {
+      "id": "4998230",
+      "time": "2026-07-20 22:19:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天創時尚：擬2.2億元收購迅微精密部分股權並增資1.8億元】天創時尚公告稱，公司擬以2.2億元自有資金收購關聯方持有的安徽迅微精密工業有限公司24.4444%的股權，同時對其增資1.8億元。本次股權轉讓及增資完成後，公司對迅微精密的持股比例為37.0370%，並派駐1位董事。公司將透過該股權收購事項尋求新發展機遇，創造新利潤增長點。該議案已透過相關會議審議，將在2026年8月5日的臨時股東會上提請審議，關聯股東需迴避表決。"
+    },
+    {
+      "id": "mkt:019f7fe5-6763-7aab-8e0f-e647e5734555",
+      "time": "2026-07-20 22:19:28",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "U.S. appeals court overturned a class-action lawsuit against Boeing Co (BA.N) stemming from a 737 MAX 9 cabin-door separation incident."
+    },
     {
       "id": "4998229",
       "time": "2026-07-20 22:18:20",
