@@ -1,7 +1,36 @@
 {
   "date": "2026-07-20",
-  "count": 2955,
+  "count": 2958,
   "items": [
+    {
+      "id": "mkt:019f803d-469c-7aab-8e12-3b0b91012a9e",
+      "time": "2026-07-20 23:55:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Capital Economics: US Treasury yield curve could invert】Capital Economics says the US 10yr-2yr Treasury spread will likely narrow further over the coming months and could fully invert if tensions in the Strait of Hormuz continue to rise. The firm points to a larger increase in short-term real rate expectations than long-term expectations—potentially reflecting strong economic data—as a key driver. It expects the 2s10s curve to flatten further as markets price extra Fed hikes, forecasting 75bps of tightening over the next year versus roughly 40bps currently priced."
+    },
+    {
+      "id": "mkt:019f803c-1dda-7aab-8e12-3736870dddb6",
+      "time": "2026-07-20 23:54:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Mehr news agency reports multiple explosions heard in Sirik, southern Iran."
+    },
+    {
+      "id": "4998333",
+      "time": "2026-07-20 23:53:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗南部錫裡克地區傳出數起爆炸聲。"
+    },
     {
       "id": "mkt:019f8039-17af-7aab-8e12-28435a5d6368",
       "time": "2026-07-20 23:50:52",
