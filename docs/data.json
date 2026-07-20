@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-20 09:08:57",
-  "count": 19054,
+  "updated": "2026-07-20 09:12:51",
+  "count": 19053,
   "items": [
+    {
+      "id": "te:economy:568032",
+      "time": "2026-07-20 09:12:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits 6-Week High — Australia’s 10-year government bond yield climbed above 4.9%, hitting a six-week high as the escalating Middle East conflict drove oil prices higher and stoked inflation concerns. The hostilities between US and Iran have now expanded beyond military targets to critical infrastructures, while shipping through the Strait of Hormuz has largely come to a halt. The US resumed its blockade of Iranian ports, and Tehran intensified attacks on ships near the Gulf, raising fears that disruptions to energy supplies could reignite global inflation and complicate the policy outlook for major central banks. In Australia, expectations for further policy tightening remained subdued, though will be challenged by rising fuel prices. Markets assign about a 70% chance of one final increase by December, while some expect the Reserve Bank to begin cutting rates next year. Traders now await upcoming key jobs data and flash PMI surveys due later this week for further clues on the country’s economic health."
+    },
+    {
+      "id": "4996546",
+      "time": "2026-07-20 09:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月20日09時08分解除瓊州海峽海面海上雷雨大風黃色預警訊號。"
+    },
+    {
+      "id": "4996545",
+      "time": "2026-07-20 09:11:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報1009.00元。"
+    },
+    {
+      "id": "4996544",
+      "time": "2026-07-20 09:11:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4020美元/盎司，日內漲0.11%。"
+    },
+    {
+      "id": "4996543",
+      "time": "2026-07-20 09:11:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報898.00元。"
+    },
+    {
+      "id": "4996542",
+      "time": "2026-07-20 09:11:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇國資成立新能源產投基金 出資額10億元】企查查APP顯示，近日，江蘇國信新能源產業投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含創業投資（限投資未上市企業）；股權投資；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由江蘇省投資管理有限責任公司、江蘇省國信集團有限公司等共同出資。"
+    },
+    {
+      "id": "4996541",
+      "time": "2026-07-20 09:09:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇國資成立新能源產投基金 出資額10億元】企查查APP顯示，近日，江蘇國信新能源產業投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含創業投資（限投資未上市企業）；股權投資；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由江蘇省投資管理有限責任公司、江蘇省國信集團有限公司等共同出資。"
+    },
+    {
+      "id": "te:economy:568031",
+      "time": "2026-07-20 09:08:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "China Holds LPR Rates at Record Lows for 14th Month — The People’s Bank of China kept its key lending rates at record lows for a 14th straight month in July 2026, as widely expected. The move reflected caution over the fallout from the conflict in the Middle East, while Q2 GDP growth eased to its lowest level since Q4 2022, although exports remained strongly supported by AI-related demand. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was held at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Consumer and producer price pressures persisted amid higher energy prices and supply chain disruptions linked to the Middle East conflict. Meanwhile, yuan lending in June was higher than in May, though its growth was slower than in June last year. Housing prices continued to decline in June, reflecting persistent weakness in the property sector."
+    },
     {
       "id": "4996540",
       "time": "2026-07-20 09:08:02",
@@ -265,6 +340,15 @@
         "Impact bullish"
       ],
       "text": "At the morning open, China's most-active futures were mixed: SC crude and low-sulfur fuel oil (LU) rose more than 7%; LPG gained over 5%; asphalt climbed more than 3%; benzene and propylene increased nearly 2%; glass dropped over 1% and SHFE zinc fell nearly 1%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607203811972698",
+      "time": "2026-07-20 09:00:12",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【7月LPR不變：1年期3.0% 5年期以上3.5%】貸款市場報價利率（LPR）報價連續14個月不變。中國人民銀行授權全國銀行間同業拆借中心公佈，2026年7月20日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。"
     },
     {
       "id": "mkt:019f7d09-99bd-7aab-8dfd-6b8816675a9d",
@@ -175704,108 +175788,6 @@
         "其他"
       ],
       "text": "【大連市啟動全市防汛四級應急響應】“大連發布”訊息，7月13日8時30分，大連市氣象臺釋出暴雨藍色預警，根據《大連市防汛抗旱應急預案》有關規定並結合氣象預報，經會商研判，大連市防汛抗旱指揮部決定自7月13日8時30分起，釋出防汛藍色預警，啟動全市防汛四級應急響應。"
-    },
-    {
-      "id": "mkt:019f5908-b5e3-7aab-8d48-f1693b91664d",
-      "time": "2026-07-13 09:12:50",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【Bank of East Asia wealth management: Hong Kong stocks may see H2 tactical rebound; trims Hang Seng target to 27,100】Bank of East Asia wealth management strategist Chen Weicong said tech firms’ higher AI spending and rising energy and memory production costs have weakened earnings recovery for heavyweight tech and consumer names, prompting a cut to this year’s Hang Seng earnings forecast and a target reduction from 29,000 to 27,100. The implied P/E on the forecast is about 10x, slightly below the 10-year average of ~10.5x, making valuations increasingly attractive and recent overselling a buying opportunity. He expects a short-lived phase rebound in H2; the July Politburo meeting could be a catalyst if it signals further growth-stabilizing policies."
-    },
-    {
-      "id": "4983339",
-      "time": "2026-07-13 09:12:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【尚水智慧：公司半乾法、幹法極片製造裝置已實現小批次交付】尚水智慧(301513)7月13日在互動平臺表示，公司持續關注幹法電極及固態電池相關技術的發展，已研發形成雙傳動包覆機、雙螺桿擠出纖維化裝置、輥壓覆膜一體機等核心裝置。目前，公司半乾法、幹法極片製造裝置已實現小批次交付，並應用於固態電池等前沿領域的研發製造、工藝驗證及生產測試。固態電池相關業務推進節奏受行業技術發展及產業化程序影響，存在一定不確定性。"
-    },
-    {
-      "id": "4983338",
-      "time": "2026-07-13 09:12:27",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【巴克萊：油價衝擊已過 但通脹依然存在】巴克萊表示，儘管油價已從伊朗衝突期間的峰值大幅回落，但其對通脹的預測卻有所惡化。該行在給客戶的一份報告中稱，最近幾個月，美聯儲今年按兵不動且不加息的路徑已大幅收窄。不過該行補充說，這目前仍是該行的基本情境。巴克萊表示，油價衝擊來了又去，但通脹卻沒有，其原因在於目前美國經濟的整體強勁。該行補充稱，因此油價下跌無法讓美聯儲擺脫通脹困擾。"
-    },
-    {
-      "id": "4983337",
-      "time": "2026-07-13 09:12:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆鋒工具等投資成立智創精密科技公司】企查查APP顯示，近日，蘇州星螺智創精密科技有限公司成立，經營範圍包含：金屬工具製造；機械零件、零部件加工；刀具製造；金屬切削加工服務等。企查查股權穿透顯示，該公司由恆鋒工具等共同持股。"
-    },
-    {
-      "id": "4983336",
-      "time": "2026-07-13 09:11:09",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士在納斯達克上市首日後股價下跌 分析師：受獲利回吐及盈利預期降溫影響】SK海力士股價在韓國交易所一度下跌8.2%。NH投資證券高階分析師柳永浩表示，在美國上市結束後，投資者進行了獲利了結，同時市場情緒也因對SK海力士第二季度業績的謹慎預期而受到影響。他指出，投資者原本預期SK海力士的HBM4晶片出貨量將從第二季度起增長，但這種增長似乎並未大規模實現。柳永浩還表示，投資者已下調了盈利預期，因為SK海力士在HBM市場的業務佔比高於同城競爭對手三星電子，因此難以從近期傳統DRAM晶片價格的上漲中獲得同等程度的收益。"
-    },
-    {
-      "id": "mkt:019f5907-24fb-7aab-8d48-eda41b7b87f4",
-      "time": "2026-07-13 09:11:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "WTI",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【China International Capital Co: Three investment themes to watch in interim earnings season】China International Capital Co research says high external uncertainty will drive investors to use interim reports to find structural winners. Key themes: upstream oil, gas, chemicals and select metals as potential earnings bright spots; technology hardware and power equipment exposed to the AI cycle and to overseas demand, and non-bank financials; the AI supply chain—optical communications that directly benefit from AI deployment, plus batteries and energy storage that also gain from energy‑security and supply‑chain security. Also monitor cyclical industries with relatively balanced supply–demand and improving demand/capacity dynamics, notably specialty chemicals, optoelectronics and certain innovative pharmaceuticals."
-    },
-    {
-      "id": "mkt:019f5906-c0db-7aab-8d48-e33934caaa84",
-      "time": "2026-07-13 09:10:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 fell 1.00% intraday."
-    },
-    {
-      "id": "4983335",
-      "time": "2026-07-13 09:10:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數下跌1%。"
-    },
-    {
-      "id": "4983334",
-      "time": "2026-07-13 09:09:55",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【財通基金：旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金將於2026年7月13日開盤起至當日10:30停牌】截至 2026 年 7 月 9 日上海證券交易所收盤，財通基金管理有限公司（以下簡稱 “本基金管理人”）旗下財通多策略福鑫定期開放靈活配置混合型發起式證券投資基金（場內簡稱：財通福鑫定開混合，交易程式碼：501046，以下簡稱 “本基金”）二級市場交易價格大幅高於基金份額淨值，產生高額溢價。特此提醒投資者留意二級市場交易溢價風險，投資者若盲目參與投資，或將面臨重大虧損。為保護投資者合法權益，本基金自 2026 年 7 月 13 日開盤至當日 10:30 實施停牌。若 2026 年 7 月 13 日本基金二級市場交易溢價幅度未能顯著收窄，本基金可向上交所申請盤中臨時停牌、延長停牌時長等風險警示措施，具體安排以屆時釋出公告為準。"
-    },
-    {
-      "id": "te:markets:566177",
-      "time": "2026-07-13 09:09:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Hovers Near 3-Month Lows — The Australian dollar hovered around $0.693, extending the previous week’s roughly 0.2% loss to trade near three-month lows as persistent Middle East tensions weighed on global risk sentiment. The US launched another wave of strikes on Iran over the weekend in response to an attack on a container ship in the Strait of Hormuz, while Tehran retaliated by targeting US military facilities across the Middle East. Meanwhile, hawkish rhetoric from the Reserve Bank of Australia helped limit the Aussie’s losses. RBA Assistant Governor Sarah Hunter said last week that the board will act as needed to return inflation to its target, warning some tightening may be required if the oil shock lifts inflation expectations. Markets currently price around a 60% chance of one more rate hike later this year, up from roughly 40% previously, though futures imply only a 19% odds of an August move. Traders now await key employment and inflation data due later this month for fresh clues on the policy outlook."
     }
   ]
 }

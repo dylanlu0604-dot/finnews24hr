@@ -1,7 +1,82 @@
 {
   "date": "2026-07-20",
-  "count": 491,
+  "count": 500,
   "items": [
+    {
+      "id": "te:economy:568032",
+      "time": "2026-07-20 09:12:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits 6-Week High — Australia’s 10-year government bond yield climbed above 4.9%, hitting a six-week high as the escalating Middle East conflict drove oil prices higher and stoked inflation concerns. The hostilities between US and Iran have now expanded beyond military targets to critical infrastructures, while shipping through the Strait of Hormuz has largely come to a halt. The US resumed its blockade of Iranian ports, and Tehran intensified attacks on ships near the Gulf, raising fears that disruptions to energy supplies could reignite global inflation and complicate the policy outlook for major central banks. In Australia, expectations for further policy tightening remained subdued, though will be challenged by rising fuel prices. Markets assign about a 70% chance of one final increase by December, while some expect the Reserve Bank to begin cutting rates next year. Traders now await upcoming key jobs data and flash PMI surveys due later this week for further clues on the country’s economic health."
+    },
+    {
+      "id": "4996546",
+      "time": "2026-07-20 09:11:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月20日09時08分解除瓊州海峽海面海上雷雨大風黃色預警訊號。"
+    },
+    {
+      "id": "4996545",
+      "time": "2026-07-20 09:11:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純鹼連續主力合約日內跌1%，現報1009.00元。"
+    },
+    {
+      "id": "4996544",
+      "time": "2026-07-20 09:11:16",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4020美元/盎司，日內漲0.11%。"
+    },
+    {
+      "id": "4996543",
+      "time": "2026-07-20 09:11:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "玻璃連續主力合約日內跌2%，現報898.00元。"
+    },
+    {
+      "id": "4996542",
+      "time": "2026-07-20 09:11:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇國資成立新能源產投基金 出資額10億元】企查查APP顯示，近日，江蘇國信新能源產業投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含創業投資（限投資未上市企業）；股權投資；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由江蘇省投資管理有限責任公司、江蘇省國信集團有限公司等共同出資。"
+    },
+    {
+      "id": "4996541",
+      "time": "2026-07-20 09:09:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇國資成立新能源產投基金 出資額10億元】企查查APP顯示，近日，江蘇國信新能源產業投資基金合夥企業（有限合夥）成立，出資額10億元，經營範圍包含創業投資（限投資未上市企業）；股權投資；以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由江蘇省投資管理有限責任公司、江蘇省國信集團有限公司等共同出資。"
+    },
+    {
+      "id": "te:economy:568031",
+      "time": "2026-07-20 09:08:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "China",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "China Holds LPR Rates at Record Lows for 14th Month — The People’s Bank of China kept its key lending rates at record lows for a 14th straight month in July 2026, as widely expected. The move reflected caution over the fallout from the conflict in the Middle East, while Q2 GDP growth eased to its lowest level since Q4 2022, although exports remained strongly supported by AI-related demand. The one-year loan prime rate (LPR), the benchmark for most corporate and household borrowing, was held at 3.0%, while the five-year LPR, a reference rate for mortgages, remained at 3.5%. Consumer and producer price pressures persisted amid higher energy prices and supply chain disruptions linked to the Middle East conflict. Meanwhile, yuan lending in June was higher than in May, though its growth was slower than in June last year. Housing prices continued to decline in June, reflecting persistent weakness in the property sector."
+    },
     {
       "id": "4996540",
       "time": "2026-07-20 09:08:02",
@@ -265,6 +340,15 @@
         "Impact bullish"
       ],
       "text": "At the morning open, China's most-active futures were mixed: SC crude and low-sulfur fuel oil (LU) rose more than 7%; LPG gained over 5%; asphalt climbed more than 3%; benzene and propylene increased nearly 2%; glass dropped over 1% and SHFE zinc fell nearly 1%."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607203811972698",
+      "time": "2026-07-20 09:00:12",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【7月LPR不變：1年期3.0% 5年期以上3.5%】貸款市場報價利率（LPR）報價連續14個月不變。中國人民銀行授權全國銀行間同業拆借中心公佈，2026年7月20日，貸款市場報價利率（LPR）為：1年期LPR為3.00%，5年期以上LPR為3.50%，均較上月保持不變，以上LPR在下一次釋出LPR之前有效。"
     },
     {
       "id": "mkt:019f7d09-99bd-7aab-8dfd-6b8816675a9d",
