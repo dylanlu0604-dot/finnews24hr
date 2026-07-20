@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-21 01:17:40",
-  "count": 19128,
+  "updated": "2026-07-21 01:21:33",
+  "count": 19115,
   "items": [
+    {
+      "id": "4998391",
+      "time": "2026-07-21 01:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：新的空軍一號專機將於秋季接受額外升級改造，整個升級過程預計耗時約一個月。"
+    },
+    {
+      "id": "4998390",
+      "time": "2026-07-21 01:19:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋亞那政府通報，失事渡輪已打撈起10具遇難者遺體。"
+    },
+    {
+      "id": "mkt:019f8089-ce9b-7aab-8e13-23e28a26ecff",
+      "time": "2026-07-21 01:19:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $30 mln from six counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "mkt:019f8089-8c66-7aab-8e13-19c0487dd1c5",
+      "time": "2026-07-21 01:18:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government says MP John Healey has been appointed Chancellor of the Exchequer."
+    },
     {
       "id": "4998389",
       "time": "2026-07-21 01:16:43",
@@ -175779,181 +175815,6 @@
         "MKT News"
       ],
       "text": "Fed Governor Waller said \"institutional change\" means the existing system should not be put in charge of running one of the working groups, and that the Fed will learn a great deal from those working groups."
-    },
-    {
-      "id": "mkt:019f5c7f-952b-7aab-8d61-bc06b7868a02",
-      "time": "2026-07-14 01:21:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Fed governor WALLER: another high inf print would be a 'signal'】Fed governor WALLER said on Monday that when reviewing this week’s inf data he would give more weight to another high print than to a lower one. He said the U.S. has seen 'higher, higher, higher, higher' readings for roughly five to six months. He added that another higher print would be treated as a signal rather than noise, but if inf falls he would likely need one or two more months of data before regarding the decline as a signal."
-    },
-    {
-      "id": "4985225",
-      "time": "2026-07-14 01:21:09",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒： 政權更迭意味著不能讓現政權牽頭專項工作組。"
-    },
-    {
-      "id": "mkt:019f5c7f-1784-7aab-8d61-b44e62e2ea0b",
-      "time": "2026-07-14 01:21:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Waller said setting a single point estimate as a target can be too harsh when judging whether policy has succeeded or failed."
-    },
-    {
-      "id": "4985224",
-      "time": "2026-07-14 01:20:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒： 在評判政策成效得失時，單一數值目標有時侷限性過大。"
-    },
-    {
-      "id": "mkt:019f5c7e-e458-7aab-8d61-a973f32893e3",
-      "time": "2026-07-14 01:20:47",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Fed governor WALLER said setting an inf target in the 1.5%-2.5% range appears reasonable."
-    },
-    {
-      "id": "mkt:019f5c7e-8634-7aab-8d61-a6de79eb2503",
-      "time": "2026-07-14 01:20:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "WALLER: I personally prefer targeting an inf range."
-    },
-    {
-      "id": "4985223",
-      "time": "2026-07-14 01:20:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒：我個人更傾向採用區間式通脹目標，將通脹目標設定在 1.5%-2.5% 區間看起來較為合理。"
-    },
-    {
-      "id": "4985222",
-      "time": "2026-07-14 01:19:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒： 我個人傾向將通脹區間設為政策目標。"
-    },
-    {
-      "id": "4985221",
-      "time": "2026-07-14 01:19:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒： 不能把通脹比作色情事物 —— 不能僅憑直觀感受判斷，央行官員不該持有這種思維。"
-    },
-    {
-      "id": "4985220",
-      "time": "2026-07-14 01:19:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒： 樂見我們擁有清晰的物價指數作為政策基準。"
-    },
-    {
-      "id": "4985219",
-      "time": "2026-07-14 01:18:40",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒：無意進行象徵性加息。"
-    },
-    {
-      "id": "mkt:019f5c7c-d0db-7aab-8d61-9b641815ab11",
-      "time": "2026-07-14 01:18:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Governor Waller said he is not interested in symbolic rate hikes."
-    },
-    {
-      "id": "mkt:019f5c7c-c436-7aab-8d61-94b952d6f785",
-      "time": "2026-07-14 01:18:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed Governor Waller said the Fed's credibility is intact and markets expect it will fulfill its responsibilities."
-    },
-    {
-      "id": "4985218",
-      "time": "2026-07-14 01:18:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒：市場相信美聯儲能將通脹降至 2%，我們具備政策公信力。"
-    },
-    {
-      "id": "mkt:019f5c7c-a198-7aab-8d61-8ae171a04515",
-      "time": "2026-07-14 01:18:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WALLER said markets expect the Fed to bring inf to 2% and that the Fed has credibility."
-    },
-    {
-      "id": "4985217",
-      "time": "2026-07-14 01:18:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒： 我認為美聯儲公信力並未受損，市場相信我們會履行職責。"
-    },
-    {
-      "id": "te:markets:566491",
-      "time": "2026-07-14 01:17:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Bristol-Myers Squibb Stock Price Hits 6-week High — Bristol-Myers Squibb shares increased to 58.89 USD, the highest since May 2026. Over the past 4 weeks, Bristol-Myers Squibb gained 4.66%, and in the last 12 months, it increased 24.33%."
     }
   ]
 }

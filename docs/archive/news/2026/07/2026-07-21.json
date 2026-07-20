@@ -1,7 +1,43 @@
 {
   "date": "2026-07-21",
-  "count": 85,
+  "count": 89,
   "items": [
+    {
+      "id": "4998391",
+      "time": "2026-07-21 01:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：新的空軍一號專機將於秋季接受額外升級改造，整個升級過程預計耗時約一個月。"
+    },
+    {
+      "id": "4998390",
+      "time": "2026-07-21 01:19:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋亞那政府通報，失事渡輪已打撈起10具遇難者遺體。"
+    },
+    {
+      "id": "mkt:019f8089-ce9b-7aab-8e13-23e28a26ecff",
+      "time": "2026-07-21 01:19:02",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Fed accepted $30 mln from six counterparties in its fixed-rate reverse repurchase operation."
+    },
+    {
+      "id": "mkt:019f8089-8c66-7aab-8e13-19c0487dd1c5",
+      "time": "2026-07-21 01:18:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government says MP John Healey has been appointed Chancellor of the Exchequer."
+    },
     {
       "id": "4998389",
       "time": "2026-07-21 01:16:43",
