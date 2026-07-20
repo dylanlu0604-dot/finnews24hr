@@ -1,7 +1,204 @@
 {
   "date": "2026-07-20",
-  "count": 2262,
+  "count": 2285,
   "items": [
+    {
+      "id": "4997909",
+      "time": "2026-07-20 19:30:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4040美元/盎司，日內漲0.57%。"
+    },
+    {
+      "id": "4997908",
+      "time": "2026-07-20 19:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗高階訊息人士表示：斡旋方已提議停火10天，以商討重振伊朗與美國臨時協議的方案。"
+    },
+    {
+      "id": "4997907",
+      "time": "2026-07-20 19:30:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三花智控：控股股東三花控股集團提議以2億元-4億元回購公司A股股份】三花智控公告，公司控股股東三花控股集團有限公司提議以2億元-4億元回購公司A股股份，回購價格上限不超過人民幣60元/股。"
+    },
+    {
+      "id": "4997906",
+      "time": "2026-07-20 19:30:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油失守87美元/桶，日內跌1.39%。"
+    },
+    {
+      "id": "mkt:019f7f4a-985b-7aab-8e0b-5bb27f396d1d",
+      "time": "2026-07-20 19:30:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's military spokesman said Iran will continue the war until it achieves comprehensive deterrence, and that this stance is based on experience and reason rather than emotion or bellicosity."
+    },
+    {
+      "id": "4997905",
+      "time": "2026-07-20 19:30:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌1%，現報87.02美元/桶。"
+    },
+    {
+      "id": "4997904",
+      "time": "2026-07-20 19:30:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報80.87美元/桶。"
+    },
+    {
+      "id": "mkt:019f7f4a-7f9b-7aab-8e0b-514b60393709",
+      "time": "2026-07-20 19:30:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's military spokesman said the war must continue until Iran achieves comprehensive deterrence; otherwise adversaries, emboldened by miscalculation, will again invade Iran's sacred territory."
+    },
+    {
+      "id": "4997903",
+      "time": "2026-07-20 19:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海釋出中心城區暴雨藍色預警訊號，市防汛指揮部啟動部分中心城區防汛防颱四級響應行動】預計今天半夜以前，靜安區、虹口區、楊浦區等地將出現一小時雨量30-50毫米的短時強降水天氣，上海市氣象臺2026年07月20日19時08分發布中心城區暴雨藍色預警訊號。市防汛指揮部決定同步啟動靜安區、虹口區、楊浦區等中心城區防汛防颱Ⅳ級響應行動。"
+    },
+    {
+      "id": "mkt:019f7f49-d48a-7aab-8e0b-4ea661588f9b",
+      "time": "2026-07-20 19:29:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "MERZ congratulated Andy Burnham on becoming UK prime minister and invited him to visit Berlin as soon as possible."
+    },
+    {
+      "id": "4997902",
+      "time": "2026-07-20 19:29:28",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【工信部稱讚深企創新成果“打破技術瓶頸”】今天上午，國務院新聞辦公室舉辦新聞釋出會，工業和資訊化部相關負責人介紹今年上半年工業和資訊化發展情況。其中，深圳比亞迪公司在全球首推的第二代刀片電池、兆瓦閃充系統，被點贊“打破了技術瓶頸”。 （深圳釋出）"
+    },
+    {
+      "id": "mkt:019f7f49-5c62-7aab-8e0b-40cc57ff1b5a",
+      "time": "2026-07-20 19:29:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's central bank survey: economists expect the SELIC at 14.00% at end-2026 and 12.00% at end-2027, unchanged from prior estimates."
+    },
+    {
+      "id": "4997901",
+      "time": "2026-07-20 19:28:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蒙璽投資：公司及合夥人團隊出資3000萬元申購旗下指增產品】7月20日，百億量化私募蒙璽投資公告稱，基於對我國金融市場長期穩健發展的堅定信心，以及對公司投研能力的認可，決定由公司及合夥人團隊合計出資3000萬元於近期申購公司旗下指數增強類私募證券基金產品。這是繼玄信資產自購1000萬元、平方和投資自購1億元和靈均投資自購2億元后，又一家宣佈自購的量化私募。"
+    },
+    {
+      "id": "mkt:019f7f48-e681-7aab-8e0b-3e3a72b0680d",
+      "time": "2026-07-20 19:28:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Han's Laser Technology: 1H2026 net profit 1.286 bln yuan, up 163.47% YoY】Han's Laser Technology reported 1H2026 revenue of 13.413 bln yuan, up 76.19% YoY, and net profit of 1.286 bln yuan, up 163.47% YoY. Orders and revenue rose sharply YoY across PCB specialty equipment, consumer electronics equipment, lithium battery and semiconductor equipment, and general industrial laser processing equipment."
+    },
+    {
+      "id": "4997900",
+      "time": "2026-07-20 19:28:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“阿克蘇—寧波舟山港”海鐵聯運出口班列首發】新疆日報訊息，7月20日9時30分許，在阿克蘇紡織工業城（開發區）紡織物流園舉行的“阿克蘇—寧波舟山港”海鐵聯運出口班列首發儀式上，隨著一聲長笛鳴響，一列由47個集裝箱組成的出口班列沿鐵路線向東駛去。本次班列是阿克蘇地區首趟直達寧波舟山港的出口班列，鐵路運距超4900公里，標誌著阿克蘇地區成功打通南疆向東出海通道，直達全球第一大港寧波舟山港，阿克蘇從此邁向東西通、陸海連的對外開放新階段。"
+    },
+    {
+      "id": "mkt:019f7f48-b64c-7aab-8e0b-335042135e82",
+      "time": "2026-07-20 19:28:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "BRAZIL CENTRAL BANK survey: economists now expect 2026 annual IPCA inflation at 5.15%, down from 5.16% previously; 2027 annual IPCA inflation expected at 4.20%, unchanged."
+    },
+    {
+      "id": "4997899",
+      "time": "2026-07-20 19:28:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【韋韜到自治區水利廳、自然資源廳、氣象局調研時強調 寧可十防九空不能萬一失防 堅決打贏防汛關鍵時期各場硬仗】7月20日，自治區主席韋韜到自治區水利廳、自然資源廳、氣象局調研督導防汛度汛、水庫隱患排查、地質災害防治等工作，強調要深入學習貫徹習近平總書記對防汛救災工作的重要指示精神，堅持人民至上、生命至上，牢固樹立底線思維、極限思維，全面壓實各方責任，細化各項防禦措施，寧可十防九空，也不能萬一失防，堅決打贏防汛關鍵時期各場硬仗。（廣西釋出）"
+    },
+    {
+      "id": "4997898",
+      "time": "2026-07-20 19:27:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國總理祝賀伯納姆出任英國首相，並邀請他儘早訪問柏林。"
+    },
+    {
+      "id": "mkt:019f7f48-1e54-7aab-8e0b-2962a4650bea",
+      "time": "2026-07-20 19:27:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of Brazil survey: Brazilian economists expect BRL/USD at 5.20 at end-2026 and 5.28 at end-2027, unchanged from previous estimates."
+    },
+    {
+      "id": "4997897",
+      "time": "2026-07-20 19:27:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大族鐳射：2026年上半年營收134.13億元 同比增長76.19%】大族鐳射公告稱，2026年半年度營業總收入134.13億元，同比增長76.19%；歸屬於上市公司股東的淨利潤12.86億元，同比增長163.47%。報告期內，PCB、消費電子、鋰電等多個業務板塊訂單及營業收入均大幅增長，2026年半年度新簽訂單約160億元，同比增超100%。不過，公司持有的靈鴿科技股價下跌，公允價值變動收益為 -1.71億元；上半年匯兌損失約1.9億元。"
+    },
+    {
+      "id": "4997896",
+      "time": "2026-07-20 19:27:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永和股份：擬以3000萬元-6000萬元回購公司股份】永和股份公告，擬以3000萬元-6000萬元回購公司股份，回購價格不超過38元/股。"
+    },
+    {
+      "id": "4997895",
+      "time": "2026-07-20 19:26:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成果豐碩！世界人工智慧大會今天閉幕】2026世界人工智慧大會今天下午在上海落下帷幕。為期四天的大會取得豐碩成果。與會嘉賓表示，期待與中國深化合作，讓科技更好賦能各國發展。本次大會共吸引了1568位國內外頂尖專家參加，展品總數4486項，展商數量與展覽面積均較去年增長超三分之一。同時，大會期間還發布了一系列重磅成果：啟動“一網通辦·免申即享”創新型企業專項金融支援服務戰略合作，設立1.18萬億元創新企業意向性信貸支援額度；聚焦智慧體失控風險與應急管理等主題，釋出了多份人工智慧安全領域的重要報告和成果。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7f47-6ca7-7aab-8e0b-259c2d0c295a",
+      "time": "2026-07-20 19:26:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil central bank survey: Brazilian economists expect GDP to grow 1.99% in 2026 and 1.65% in 2027, unchanged from prior forecasts."
+    },
     {
       "id": "4997894",
       "time": "2026-07-20 19:26:36",
