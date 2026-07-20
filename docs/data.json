@@ -1,7 +1,92 @@
 {
-  "updated": "2026-07-20 09:12:51",
-  "count": 19053,
+  "updated": "2026-07-20 09:19:09",
+  "count": 19049,
   "items": [
+    {
+      "id": "4996554",
+      "time": "2026-07-20 09:18:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【上一交易日ETF兩市融資融券餘額1186.47億元】截至7月17日，ETF兩市融資融券餘額1186.47億元，分型別來看，股票型ETF兩融餘額720.18億元，債券型ETF兩融餘額74.05億元，商品型ETF兩融餘額127.61億元，QDII型ETF兩融餘額264.64億元。其中，兩融餘額最高的非貨幣型ETF分別是黃金ETF（518880）、證券ETF（512880）、中證1000ETF（512100），兩融餘額分別為60.70億元、44.20億元、34.90億元。"
+    },
+    {
+      "id": "mkt:019f7d18-294c-7aab-8dfd-b3fdbb93066d",
+      "time": "2026-07-20 09:16:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung SDS has launched an NPU-as-a-service (NPUaaS) built on FuriosaAI’s second-generation neural processing unit RNGD. The service will run in Samsung SDS’s dedicated cloud, making it available to public-sector customers with strict security and regulatory requirements."
+    },
+    {
+      "id": "mkt:019f7d17-f68f-7aab-8dfd-acc65eae077c",
+      "time": "2026-07-20 09:15:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 1.10% at 24,738, trading 173 points above the cash index."
+    },
+    {
+      "id": "4996553",
+      "time": "2026-07-20 09:15:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7948，較上日調低14點】人民幣兌美元中間價報6.7948，較上日調低14點。"
+    },
+    {
+      "id": "4996552",
+      "time": "2026-07-20 09:15:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7948元。"
+    },
+    {
+      "id": "4996551",
+      "time": "2026-07-20 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.87%，報24683.33點，高水121.09點。"
+    },
+    {
+      "id": "4996550",
+      "time": "2026-07-20 09:14:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿聯酋向加沙地帶運送近千噸援助物資】過去一週內，阿拉伯聯合大公國向巴勒斯坦加沙地帶運送了62輛卡車的援助物資，總計980噸，其中包括加沙民眾急需的食品和藥品等。據阿聯酋通訊社19日報道，上述物資分5個車隊運入加沙地帶。在埃及阿里什市，阿聯酋人道援助支援團隊仍在準備和裝運更多援助物資。（新華社）"
+    },
+    {
+      "id": "4996549",
+      "time": "2026-07-20 09:14:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：美元本週料將繼續在年內高點162.84日元附近交易】澳洲聯邦銀行全球經濟與市場研究部的三位成員在一份研究報告中表示，美元本週料將繼續在其年內高點162.84日元附近交易。這些成員指出，焦點在於本週五公佈的日本通脹資料。這些成員表示：“弱於預期的核心通脹可能會推遲對日本央行下一次收緊政策時機的預期。“他們補充說，這可能會推動美元兌日元向上突破年內高點的阻力位。"
+    },
+    {
+      "id": "4996548",
+      "time": "2026-07-20 09:12:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【342股獲融資買入超億元，中際旭創穫買入56.17億元居首】A股7月17日共有3817只個股獲融資資金買入，有342股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入56.17億元、43.63億元、42.36億元。從融資買入額佔當日總成交金額比重來看，有4只個股融資買入額佔比超30%。其中豐倍生物、工大高科、賽科希德融資買入額佔成交額比重排名前三，分別為35.18%、34.86%、32.06%。從融資淨買入金額來看，有3只個股獲融資淨買入超億元。其中，工商銀行、九安醫療、銅冠銅箔融資淨買入金額排名前三，分別獲淨買入1.26億元、1.13億元、1.1億元。"
+    },
+    {
+      "id": "4996547",
+      "time": "2026-07-20 09:12:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我赴阿卜耶伊維和直升機分隊與維和友軍開展醫療救援演練】近日，中國第6批赴阿卜耶伊維和直升機分隊官兵與迦納二級醫院維和友軍，聯合開展了一場應急醫療救援演練。演練完整覆蓋空中搜尋定位、野外緊急救治、傷員空中後送等關鍵環節協同處置能力。 （國防部發布）"
+    },
     {
       "id": "te:economy:568032",
       "time": "2026-07-20 09:12:11",
@@ -175656,138 +175741,6 @@
         "公司"
       ],
       "text": "【柯力感測戰略投資雲幕智造】近日，柯力感測宣佈完成對江蘇雲幕智造科技有限公司（下稱 “雲幕智造”）數千萬元戰略投資，持續加碼具身智慧賽道，進一步拓寬 “感測器森林” 戰略佈局深度。據柯力感測介紹，未來，雙方將深度聯動，合力推進人形機器人與具身智慧技術規模化商用落地。"
-    },
-    {
-      "id": "mkt:019f590d-644e-7aab-8d49-1e318ff3ca09",
-      "time": "2026-07-13 09:17:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Keli Sensing makes strategic investment in Yunmu Zhizao】Keli Sensing said it completed a strategic investment of several tens of millions of yuan in Jiangsu Yunmu Zhizao Technology Co., boosting exposure to the embodied intelligence sector and widening its \"sensor forest\" strategic footprint. The companies said they will deepen cooperation to advance large-scale commercial deployment of humanoid robots and embodied-intelligence technologies."
-    },
-    {
-      "id": "mkt:019f590d-6384-7aab-8d49-13f6f6379878",
-      "time": "2026-07-13 09:17:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "【Midland Realty: Weekend trades in Hong Kong top-10 estates ~5, up 25% WoW】Midland Realty branch data show about 5 transactions across Hong Kong's top-10 second‑hand housing estates last weekend, a 25% week-on-week increase. It was the sixth consecutive weekend with single-digit trades, though the low appears to be stabilizing. Using a top-15 estate sample, Midland recorded about 6 deals, up 50% WoW. Midland said the summer rental season and family travel have curbed viewings and transactions, but strong new-home sales could rekindle sentiment and release pent-up buying power, benefiting the secondary market."
-    },
-    {
-      "id": "4983347",
-      "time": "2026-07-13 09:17:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【臺積電2奈米工藝谷歌搶先搭載，新機8月釋出，打破蘋果首發慣例】據報道，臺積電2奈米工藝正式量產，拉開智慧手機2奈米處理器市場競爭大幕。出乎意料的是，谷歌拿下首款搭載臺積電2奈米晶片手機的首發資格，將於8月中旬推出搭載自研Tensor G6處理器的Pixel11系列機型，比蘋果新品早一個月；聯發科、高通等手機晶片巨頭的2奈米旗艦晶片最快要到9月之後才會亮相。以往臺積電推出全新先進製程時，蘋果始終是首家將其用於自有移動裝置的客戶，今年這一慣例被打破，谷歌成為臺積電2奈米手機晶片的首發客戶，引發行業熱議。業內分析認為，無論哪家廠商率先推出2奈米處理器，一旦旗艦手機普遍搭載2奈米晶片，臺積電都將成為最大受益者。"
-    },
-    {
-      "id": "te:markets:566179",
-      "time": "2026-07-13 09:16:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Gains on Fresh US-Iran Strikes — The dollar index climbed above 101 on Monday, rising for the second straight session as escalating tensions in the Middle East fueled safe-haven demand for the currency. The US and Iran exchanged fresh missile strikes over the weekend amid ongoing disputes over shipping through the Strait of Hormuz, pushing oil prices higher and reinforcing expectations of interest-rate hikes to contain inflation. Investors are also awaiting key US inflation data this week for further clues on the Federal Reserve's policy outlook. Markets currently expect the Fed to deliver one rate increase before the end of the year. Minutes from the Fed’s June meeting, released last week, showed that a few policymakers saw a case for raising rates, though they ultimately supported keeping policy unchanged. Meanwhile, Fed Chair Kevin Warsh is scheduled to make his first appearance before the US Congress on Tuesday and Wednesday."
-    },
-    {
-      "id": "mkt:019f590b-9dd0-7aab-8d49-0e8bfb1c105e",
-      "time": "2026-07-13 09:16:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish",
-        "GOOGL.O"
-      ],
-      "text": "【TSMC 2nm enters mass production; Google named first customer for 2nm mobile chip】TSMC has begun mass production of its 2nm process. Google is the launch customer for TSMC’s 2nm mobile chip and will roll out a new handset in mid‑August, about one month earlier than Apple."
-    },
-    {
-      "id": "4983346",
-      "time": "2026-07-13 09:15:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7972，較上日調高17點】人民幣兌美元中間價報6.7972，較上日調高17點。"
-    },
-    {
-      "id": "4983345",
-      "time": "2026-07-13 09:15:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7972元。"
-    },
-    {
-      "id": "mkt:019f590a-cb7d-7aab-8d49-0444ed7f604d",
-      "time": "2026-07-13 09:15:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Orient Securities: long-dated bonds remain core for insurers; absolute yields and term premium guide allocation】Orient Securities' insurance report says long-dated bonds remain the core of insurers' asset portfolios as allocation shifts from pure duration extension to structural optimization. Persistently low rates are compressing coupon and reinvestment returns; lengthening duration only delays a downward shift in the yield center. The report expects most listed insurers' net investment yields to decline YoY in 2025 as high-coupon stock matures and new allocations earn lower interest. Static estimates show long-duration holdings cut annual reallocation needs but cannot fully offset low-rate pressure. Currently 30-year government and local-government bond yields remain above insurers' marginal new liability funding costs, leaving long-duration assets with coupon coverage and duration-matching value; the 30Y-10Y spread has widened markedly from 2025 lows. Insurers' allocation logic is moving to duration matching + term-premium capture + timing-driven positioning."
-    },
-    {
-      "id": "4983344",
-      "time": "2026-07-13 09:15:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "液化石油氣連續主力合約日內漲5%，現報4980.00元。"
-    },
-    {
-      "id": "4983343",
-      "time": "2026-07-13 09:15:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨日盤開盤漲0.01%，報24161.20點，低水13.92點。"
-    },
-    {
-      "id": "4983342",
-      "time": "2026-07-13 09:14:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【益生股份：公司8月父母代肉種雞雛雞報價與7月持平】益生股份(002458)7月13日在互動平臺表示，公司2026年8月父母代肉種雞雛雞報價為66元/套，與7月持平。"
-    },
-    {
-      "id": "4983341",
-      "time": "2026-07-13 09:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【熱浪席捲歐洲 西班牙、克羅埃西亞山火持續蔓延】受持續高溫天氣影響，歐洲多國山火持續燃燒。當地時間12日，西班牙阿爾梅里亞省的山火仍在持續燃燒。該省所在的安達盧西亞自治區政府通報，隨著氣象條件好轉，這場山火已得到控制，但尚未完全撲滅。阿爾梅里亞省山火自9日開始已燃燒數日，12日山火過火面積達到7000公頃，造成至少13人死亡，另有18人受傷，其中5人傷勢嚴重。這場山火已成為21世紀以來西班牙死傷最慘重的山火之一。12日，克羅埃西亞南部科爾丘拉島的山火仍在持續，經過撲救，目前火勢有所緩解，但尚未完全得到控制。11日，克羅埃西亞南部亞德里亞海沿岸多地發生山火，其中科爾丘拉島火情最為嚴重，過火面積已超100公頃。"
-    },
-    {
-      "id": "mkt:019f5909-9ecd-7aab-8d48-fb10f8be40c2",
-      "time": "2026-07-13 09:13:50",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "South Korea's KOSPI index briefly fell 3% and is trading 2.8% lower; SK Hynix trading 7.7% lower, Samsung Electronics trading 3% lower."
-    },
-    {
-      "id": "4983340",
-      "time": "2026-07-13 09:13:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大連市啟動全市防汛四級應急響應】“大連發布”訊息，7月13日8時30分，大連市氣象臺釋出暴雨藍色預警，根據《大連市防汛抗旱應急預案》有關規定並結合氣象預報，經會商研判，大連市防汛抗旱指揮部決定自7月13日8時30分起，釋出防汛藍色預警，啟動全市防汛四級應急響應。"
     }
   ]
 }
