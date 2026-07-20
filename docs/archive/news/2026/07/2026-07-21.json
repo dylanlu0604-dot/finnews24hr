@@ -1,7 +1,35 @@
 {
   "date": "2026-07-21",
-  "count": 274,
+  "count": 277,
   "items": [
+    {
+      "id": "4998499",
+      "time": "2026-07-21 05:27:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特官方通訊社：科威特境內響起防空警報。"
+    },
+    {
+      "id": "mkt:019f816b-8b5d-7aab-8e15-4278236aa675",
+      "time": "2026-07-21 05:25:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military said its air-defense systems are currently intercepting Iranian missiles and drones."
+    },
+    {
+      "id": "4998498",
+      "time": "2026-07-21 05:25:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱，防空部隊當下正在攔截伊朗發射的導彈與無人機。"
+    },
     {
       "id": "4998497",
       "time": "2026-07-21 05:17:40",

@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-21 05:24:57",
-  "count": 19057,
+  "updated": "2026-07-21 05:28:55",
+  "count": 19059,
   "items": [
+    {
+      "id": "4998499",
+      "time": "2026-07-21 05:27:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特官方通訊社：科威特境內響起防空警報。"
+    },
+    {
+      "id": "mkt:019f816b-8b5d-7aab-8e15-4278236aa675",
+      "time": "2026-07-21 05:25:36",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military said its air-defense systems are currently intercepting Iranian missiles and drones."
+    },
+    {
+      "id": "4998498",
+      "time": "2026-07-21 05:25:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱，防空部隊當下正在攔截伊朗發射的導彈與無人機。"
+    },
     {
       "id": "4998497",
       "time": "2026-07-21 05:17:40",
@@ -175225,18 +175253,6 @@
         "國際"
       ],
       "text": "美聯儲表示，儲備管理購債操作具備靈活性，可根據市場情況調整。美國財政部計劃將現金餘額重新提升至1萬億美元以上，此舉預計會收緊金融體系流動性。"
-    },
-    {
-      "id": "mkt:019f5d5e-949d-7aab-8d64-7546c406c1d2",
-      "time": "2026-07-14 05:25:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "Senior Ukrainian official says Russian ballistic missiles struck Kyiv."
     }
   ]
 }
