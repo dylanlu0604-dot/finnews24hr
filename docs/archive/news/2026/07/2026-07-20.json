@@ -1,7 +1,91 @@
 {
   "date": "2026-07-20",
-  "count": 1258,
+  "count": 1267,
   "items": [
+    {
+      "id": "4997107",
+      "time": "2026-07-20 14:10:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：貝索斯所注資AI創企CuspAI將探索製造晶片的新材料。"
+    },
+    {
+      "id": "mkt:019f7e24-fbbc-7aab-8e03-23c043e6ea23",
+      "time": "2026-07-20 14:09:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "META.O",
+        "005380.KS"
+      ],
+      "text": "【Bezos-backed CuspAI to explore new chipmaking materials】CuspAI launched the AI Materials Foundry alliance with more than 48 tech, industrial and research partners, including NVIDIA, Meta and Hyundai Motor, to pool compute and research for software that speeds and cuts the cost of materials discovery for chipmakers and other industries. The startup raised $450m in Series B funding from investors including a Bezos fund; most proceeds will finance partner R&D labs in Cambridge, Singapore and the San Francisco Bay Area. CEO Chad Edwards said 80% of this year’s research spend will target materials discovery and the group aims to reduce or eliminate use of supply‑risk rare metals such as ruthenium and iridium in chip manufacturing."
+    },
+    {
+      "id": "4997106",
+      "time": "2026-07-20 14:09:28",
+      "tags": [
+        "行業",
+        "其他"
+      ],
+      "text": "【山東釋出腦機介面臨床轉化方案】據“山東釋出”，近日，在2026山東腦機介面臨床研究與轉化大會上，山東省衛生健康委員會黨組成員、副主任徐民釋出《山東省加快腦機介面臨床轉化與應用創新發展工作方案》（簡稱《方案》）並解讀配套扶持政策。《方案》由山東16部門聯合印發，圍繞臨床研究合作平臺搭建、產業孵化支撐體系構築、創新產品臨床應用等方面提出14條具體措施。《方案》提出，依託省內具備研究基礎的高校和頂尖人才團隊，聯合國內優勢單位，共同組建山東省腦機介面臨床研究聯盟。同時，推行常態化協同執行機制，定期徵集釋出臨床需求清單，圍繞精神心理、神經系統疾病、康復等領域開展需求對接。"
+    },
+    {
+      "id": "4997105",
+      "time": "2026-07-20 14:08:51",
+      "tags": [],
+      "text": "【中證500、中證1000指數ETF午後持續放量 多隻成交額超上一日全天】資料顯示，午後中證500、中證1000指數ETF持續放量，中證500ETF南方（510500）成交超75億元，中證1000ETF易方達（159633）、中證500ETF嘉實（159922）、中證1000ETF富國（159629）成交超10億元，均超上週五全天成交額，此外科創50ETF華夏（588000）成交超110億元。"
+    },
+    {
+      "id": "4997104",
+      "time": "2026-07-20 14:08:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【摩根大通警告“氣候黑天鵝”風險 投資者開始測算資產衝擊】機構投資者正試圖弄清楚，如果氣溫持續上升觸發摩根大通公司所稱的“氣候黑天鵝風險”，其投資組合將面臨怎樣的影響。包括Allianz Global Investors和Standard Life Plc在內的投資者表示，他們正越來越嚴肅地看待這一情景。“這是我們確實需要認真思考的問題，”Standard Life可持續投資研究主管Hetal Patel表示，該機構計劃於明年開始研究圍繞氣候臨界點的風險管理。其中包括對其3170億英鎊（4250億美元）投資組合進行模擬分析，以評估各類資產可能受到的影響。"
+    },
+    {
+      "id": "mkt:019f7e22-df54-7aab-8e03-1b7bbee1c850",
+      "time": "2026-07-20 14:07:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "LPG most-active contract surged 10.00% intraday to 5,759.00 yuan/ton."
+    },
+    {
+      "id": "4997103",
+      "time": "2026-07-20 14:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：幾分鐘前，伊朗伊斯法罕市傳出一聲爆炸聲。目前尚未確定具體原因和來源。"
+    },
+    {
+      "id": "4997102",
+      "time": "2026-07-20 14:06:50",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "純苯連續主力合約日內漲6%，現報7739.00元。"
+    },
+    {
+      "id": "mkt:019f7e22-2bee-7aab-8e03-178c496f5d37",
+      "time": "2026-07-20 14:06:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency reports an explosion was heard moments ago in Isfahan, Iran; cause and origin remain undetermined."
+    },
     {
       "id": "mkt:019f7e21-6673-7aab-8e03-082b92bb709b",
       "time": "2026-07-20 14:05:45",
