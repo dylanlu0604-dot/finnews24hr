@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-21 04:12:31",
-  "count": 19061,
+  "updated": "2026-07-21 04:20:55",
+  "count": 19052,
   "items": [
+    {
+      "id": "mkt:019f812d-3cae-7aab-8e14-be034e4c2588",
+      "time": "2026-07-21 04:17:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said U.S. forces launched a new round of strikes against Iran at 4:00 p.m. ET on Monday, aimed at further degrading Iranian military capabilities used to attack commercial vessels in the Strait of Hormuz."
+    },
+    {
+      "id": "4998460",
+      "time": "2026-07-21 04:16:58",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：今日美國東部時間下午 4 時，根據總統指令，美軍發起新一輪針對伊朗的打擊行動。此次打擊旨在進一步削弱伊朗用於襲擊霍爾木茲海峽商業航運的軍事力量。"
+    },
+    {
+      "id": "te:markets:568310",
+      "time": "2026-07-21 04:14:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Slip as Middle East Risks Weigh — US stock indices closed mostly lower on Monday as gains in technology stocks failed to offset weakness in the broader market amid concerns over further escalation in the Middle East. The S&P 500 lost 0.2%, the Nasdaq 100 inched higher, and the Dow shed 307 points. Traditional sectors came under pressure after oil prices swung sharply amid the worsening conflict between the US and Iran. Treasury yields rose as energy-driven inflation concerns reinforced expectations of a Fed rate hike later this year. Major banks traded lower, with JPMorgan (-0.6%) and Bank of America (-1.4%) declining. Manufacturers also posted losses, with Applied Materials shedding 0.7%. Meanwhile, chipmakers rebounded following the recent tech pullback as markets continued to assess whether AI hyperscalers will slow spending on AI infrastructure in the coming quarters. Broadcom gained 2%, Micron added 1.9%, AMD advanced 1.6%, and Intel rose 2.1%. Alphabet gained 1.5% ahead of its guidance update on Wednesday."
+    },
+    {
+      "id": "4998459",
+      "time": "2026-07-21 04:14:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特：將採取措施來保護（我方）船隻。"
+    },
     {
       "id": "mkt:019f8126-bb55-7aab-8e14-b23317df5d95",
       "time": "2026-07-21 04:10:26",
@@ -175158,124 +175200,6 @@
         "焦點"
       ],
       "text": "【國際油價13日大幅上漲】國際油價13日大幅上漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲6.73美元，收於每桶78.14美元，漲幅為9.42%；9月交貨的倫敦布倫特原油期貨價格上漲7.29美元，收於每桶83.30美元，漲幅為9.59%。"
-    },
-    {
-      "id": "mkt:019f5d21-dc69-7aab-8d63-e8df6c4e063e",
-      "time": "2026-07-14 04:18:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【White House official: Trump to back Graham-led Russia sanctions bill】A White House official said President Trump will support passage of a bipartisan Russia sanctions bill led by the late Senator Lindsey Graham. The announcement, made days after Graham’s unexpected death, could remove a key political obstacle to legislation Graham and Democratic Senator Richard Blumenthal had said the administration was prepared to back; negotiators said last Friday an agreement had been reached after extensive talks. Senate Republican leader John Thune said the White House worked closely with Graham on the measure and expressed optimism it can pass, noting it will be a central part of Graham’s political legacy."
-    },
-    {
-      "id": "4985340",
-      "time": "2026-07-14 04:18:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合國秘書長呼籲保障霍爾木茲海峽航行自由。"
-    },
-    {
-      "id": "4985339",
-      "time": "2026-07-14 04:18:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【英國重申禁止赴伊旅行警告，雙重國籍者拘留風險極高】英國於週一再次釋出警告，勸阻民眾切勿前往伊朗，稱英國公民以及英伊雙重國籍人士面臨極高的被捕、傳訊或拘留風險。英國外交部表示，已身處伊朗境內的英國公民應當審慎考量自身處境以及繼續停留的潛在風險。英國外交部補充稱，儘管美伊雙方簽署了諒解備忘錄，但該地區局勢依舊充滿變數，並警告衝突襲擊可能隨時再度爆發。"
-    },
-    {
-      "id": "mkt:019f5d21-0f39-7aab-8d63-e49a23a46c2a",
-      "time": "2026-07-14 04:17:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said it shot down a US MQ-1 drone over the Strait of Hormuz."
-    },
-    {
-      "id": "te:economy:566504",
-      "time": "2026-07-14 04:17:18",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Paraguay",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Paraguay Trade Balance Rebounds in June — Paraguay's trade balance rebounded to a $47.09 million surplus in June 2026 from a $160.11 million deficit in the same month a year earlier. Exports rose 25.1% year-on-year to $1.74 billion, driven mainly by higher shipments of soybeans, soybean oil, and beverages, alcoholic liquids, and vinegar. Imports increased 9.2% to $1.70 billion, with fuels and lubricants, automobiles, SUVs and pickup trucks, and electrical equipment contributing the most to the increase. As a result, Paraguay posted a trade surplus of $746.6 million in the first half of 2026, compared with a $373.8 million deficit in the same period a year earlier."
-    },
-    {
-      "id": "4985338",
-      "time": "2026-07-14 04:17:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲10%，現報78.55美元/桶。"
-    },
-    {
-      "id": "mkt:019f5d1e-27ac-7aab-8d63-dcbfe5d9bc5f",
-      "time": "2026-07-14 04:14:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fitch says over the next few years AI-driven industry disruption will create credit risks for most North American diversified services companies, but those risks should remain manageable."
-    },
-    {
-      "id": "mkt:019f5d1d-695f-7aab-8d63-d6d7a5bda71c",
-      "time": "2026-07-14 04:13:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Trump said he sometimes disagrees with Netanyahu's approach and tells him so directly."
-    },
-    {
-      "id": "4985337",
-      "time": "2026-07-14 04:13:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：有時候我不同意內塔尼亞胡的觀點，而且我是對的。"
-    },
-    {
-      "id": "mkt:019f5d1c-d03f-7aab-8d63-cb4bdbb138ad",
-      "time": "2026-07-14 04:13:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he gets along well with Israeli Prime Minister Netanyahu."
-    },
-    {
-      "id": "mkt:019f5d1c-c572-7aab-8d63-c69983beb832",
-      "time": "2026-07-14 04:13:14",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "President Trump said the Iran memorandum of understanding was a test and that Iran did not comply."
-    },
-    {
-      "id": "4985336",
-      "time": "2026-07-14 04:13:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我和內塔尼亞胡相處得非常融洽。"
-    },
-    {
-      "id": "4985335",
-      "time": "2026-07-14 04:13:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗協議是一次考驗，伊方並未遵守協議。"
     }
   ]
 }
