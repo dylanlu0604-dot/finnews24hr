@@ -1,7 +1,48 @@
 {
   "date": "2026-07-21",
-  "count": 17,
+  "count": 21,
   "items": [
+    {
+      "id": "te:markets:568295",
+      "time": "2026-07-21 00:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Ends Flat — The FTSE MIB ended little changed at 51,863 on Monday as traders remained cautious ahead of a busy earnings week. Escalating tensions in the Middle East kept risk sentiment subdued, although markets drew some optimism from reports of a proposed 10-day pause in hostilities. Meanwhile, rising European natural gas prices increased concerns over lower profit margins, weighing on utility stocks, with Terna (-1.2%) and A2A (-0.9%) among the sector's biggest decliners. Avio led losses on the index, falling 2.8%, followed by Telecom Italia (-2.4%) and Inwit (-1.7%). On the upside, Moncler jumped 3.2% ahead of its earnings release, with revenue expected to rise 4.5%. Amplifon (2.6%), Saipem (2.6%), Nexi (2.1%), and STMicroelectronics (2.1%) also advanced, with the latter rebounding from recent losses. Financials were also higher as investors expected the ECB to leave interest rates unchanged at this week's meeting. Banco BPM rose 1.0%, while UniCredit gained 0.6% ahead of its earnings report."
+    },
+    {
+      "id": "mkt:019f804e-b5d4-7aab-8e12-60007566af69",
+      "time": "2026-07-21 00:14:29",
+      "tags": [
+        "MKT News",
+        "AMC.N"
+      ],
+      "text": "AMC Entertainment (AMC.N) extended gains, up 21.7%."
+    },
+    {
+      "id": "4998349",
+      "time": "2026-07-21 00:12:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "AMC娛樂股價漲幅進一步擴大，上漲21.7%。"
+    },
+    {
+      "id": "te:markets:568294",
+      "time": "2026-07-21 00:12:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.04% Lower — The FTSE MIB Index decreased 19 points or 0.04 percent on Monday to close at 51863 points. The decline was led by Avio (-2.81%), Enel (-2.64%) and Telecom Italia (-1.91%). On the upside, the strongest performers were Moncler (3.16%), Amplifon (2.61%) and STMicroelectronics (2.01%)."
+    },
     {
       "id": "te:markets:568293",
       "time": "2026-07-21 00:11:14",
