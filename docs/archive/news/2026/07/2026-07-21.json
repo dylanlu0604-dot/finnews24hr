@@ -1,7 +1,26 @@
 {
   "date": "2026-07-21",
-  "count": 98,
+  "count": 100,
   "items": [
+    {
+      "id": "4998394",
+      "time": "2026-07-21 01:39:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆與歐盟委員會主席馮德萊恩通電話。"
+    },
+    {
+      "id": "mkt:019f809a-6510-7aab-8e13-5008fd2303f0",
+      "time": "2026-07-21 01:37:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "ERA.PA"
+      ],
+      "text": "French miner Eramet signed a memorandum of understanding with the Republic of Gabon to jointly develop the manganese industry value chain."
+    },
     {
       "id": "mkt:019f8098-8fbe-7aab-8e13-4993aa6bd612",
       "time": "2026-07-21 01:35:09",
