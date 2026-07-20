@@ -1,7 +1,54 @@
 {
   "date": "2026-07-21",
-  "count": 216,
+  "count": 221,
   "items": [
+    {
+      "id": "4998463",
+      "time": "2026-07-21 04:24:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺稱阿巴斯港傳來爆炸聲。"
+    },
+    {
+      "id": "4998462",
+      "time": "2026-07-21 04:22:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門宣佈恢復石油出口】當地時間7月20日，葉門總統領導委員會主席拉沙德·穆罕默德·阿里米宣佈，葉門將自當天起恢復石油出口，並將石油收入用於發放工資、改善公共服務、促進經濟穩定，確保國家資源惠及全體人民。宣告中，阿里米表示政府將採取一切必要措施恢復石油出口，維護經濟穩定。此外，阿里米在宣告中指責胡塞武裝將葉門捲入地區衝突，並再次呼籲胡塞武裝控制地區民眾支援國家建設。2022年10月，胡塞武裝連續襲擊葉門政府控制區石油出口港口和相關設施，導致葉門原油出口中斷，政府財政收入受到嚴重影響。（央視新聞）"
+    },
+    {
+      "id": "4998461",
+      "time": "2026-07-21 04:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "由沙特主導的葉門聯軍表示，將以 “武力” 回應胡塞武裝針對船隻的各類威脅。"
+    },
+    {
+      "id": "mkt:019f8130-ba2b-7aab-8e14-cd231199b0a3",
+      "time": "2026-07-21 04:21:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Saudi-led coalition in Yemen said it will respond with force to Houthi threats against vessels."
+    },
+    {
+      "id": "mkt:019f8130-ad38-7aab-8e14-c0b4f58f6060",
+      "time": "2026-07-21 04:21:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "The Saudi-led coalition in Yemen said it will ensure the safety of its commercial vessels transiting the Bab al-Mandeb."
+    },
     {
       "id": "mkt:019f812d-3cae-7aab-8e14-be034e4c2588",
       "time": "2026-07-21 04:17:33",
