@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-21 03:32:21",
-  "count": 19053,
+  "updated": "2026-07-21 03:36:21",
+  "count": 19056,
   "items": [
+    {
+      "id": "mkt:019f8106-b56a-7aab-8e14-3ba69570c35b",
+      "time": "2026-07-21 03:35:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "The Israeli military said a pilot zone plan in southern Lebanon was launched on Monday, carried out in cooperation with the U.S. military and the Lebanese Armed Forces."
+    },
+    {
+      "id": "mkt:019f8106-a6e5-7aab-8e14-3186001e5e67",
+      "time": "2026-07-21 03:35:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【Axios: US pursues both military and diplomatic pressure on Iran】Axios cites a US official saying President Trump is pressing Iran both militarily and diplomatically in potential ceasefire talks, aiming to make Iran pay for breaching a memorandum of understanding and for continuing \"terrorist acts\" in the Strait of Hormuz. The official said the US holds Iran responsible for recent US service-member deaths and that US strikes will continue until the president decides otherwise, though negotiations are ongoing."
+    },
+    {
+      "id": "mkt:019f8106-a4f1-7aab-8e14-2e9b406f6d44",
+      "time": "2026-07-21 03:35:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli military said it will respond forcefully to any violations of the agreement."
+    },
+    {
+      "id": "4998436",
+      "time": "2026-07-21 03:34:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：若該協議遭到任何違反，以方將採取強硬回擊。"
+    },
+    {
+      "id": "4998435",
+      "time": "2026-07-21 03:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方：黎巴嫩南部試點區域相關計劃已於週一啟動，  該行動是與美軍及黎巴嫩武裝部隊協同開展的。"
+    },
+    {
+      "id": "4998434",
+      "time": "2026-07-21 03:33:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "據Axios援引美國官員訊息：特朗普將讓伊朗為近期美軍士兵遇難一事付出代價；此類強力打擊行動會持續進行，直至特朗普另行下達指令，不過美伊兩國之間的溝通仍在持續。"
+    },
     {
       "id": "4998433",
       "time": "2026-07-21 03:30:46",
@@ -175171,36 +175225,6 @@
         "國際"
       ],
       "text": "【伊媒：正調查東南部地區的爆炸】伊朗革命衛隊旗下媒體報道，相關部門正在調查伊朗東南部恰巴哈爾與科納拉克地區傳來的六聲劇烈爆炸。爆炸發生的具體地點暫未明確，目前未再聽到新的爆炸聲。近幾日夜間美軍已對恰巴哈爾多處區域實施打擊。"
-    },
-    {
-      "id": "mkt:019f5cfa-cf38-7aab-8d63-8c1f83c9b402",
-      "time": "2026-07-14 03:36:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Brent",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "CNN reports President Trump will support passage of a bipartisan sanctions package against Russia led by the late Senator Lindsey Graham."
-    },
-    {
-      "id": "mkt:019f5cf7-c4a0-7aab-8d63-82acd7f7c3e0",
-      "time": "2026-07-14 03:32:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state television said that, as of now, there have been no reports of explosions at multiple locations in southern Iran, including Bandar Abbas."
-    },
-    {
-      "id": "4985311",
-      "time": "2026-07-14 03:32:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：特朗普將支援對俄製裁法案。"
     }
   ]
 }
