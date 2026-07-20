@@ -1,7 +1,89 @@
 {
   "date": "2026-07-20",
-  "count": 2709,
+  "count": 2718,
   "items": [
+    {
+      "id": "4998206",
+      "time": "2026-07-20 21:57:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美稱仍對外交解決伊朗問題持開放態度】，美國國務卿魯比奧表示，儘管美軍已連續第九晚對伊朗發動打擊，但美國“仍對外交解決方案持開放態度”。魯比奧稱，美方將繼續推動與伊朗實現長期和平，特朗普政府“仍然願意透過外交途徑解決問題”。他表示，美方已“直接”以及“透過其他國家的多個渠道”收到伊朗希望對話和談判的訊號，但美國目前的行動是“對伊方行為作出的回應”。伊朗外交部發言人巴加埃20日也表示，伊朗“仍對外交持開放態度”，各方調解努力仍在繼續，但只要襲擊持續，伊朗就將繼續進行“防禦性軍事行動”。儘管美國和伊朗官員均暗示外交談判仍有可能重啟，但雙方仍在持續發動軍事打擊，美伊此前簽署的諒解備忘錄事實上已經破裂，地區局勢升級風險仍在加劇。（央視新聞）"
+    },
+    {
+      "id": "te:economy:568262",
+      "time": "2026-07-20 21:56:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "Treasury Yields Higher on Monday — The yield on the US 10-year Treasury note edged up to 4.57% on Monday, after declining about 7bps the previous week, as investors continued to assess developments in the Middle East and their implications for the economic and monetary policy outlook. Tensions between the US and Iran escalated over the weekend, sending oil prices to six-week highs before they pared most of their gains following comments from Iran's foreign ministry indicating that negotiations with the US could continue if the country's national interests are respected. Last week, both CPI and PPI reports came in softer than expected, but the recent surge in oil prices has raised concerns that the disinflation trend could stall. Markets continue to price in one Fed rate hike this year, with the probability of a September move remaining above 60%. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to leave the federal funds rate unchanged."
+    },
+    {
+      "id": "4998205",
+      "time": "2026-07-20 21:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一艘希臘貨船在霍爾木茲海峽附近遭不明拋射物擊中後起火。"
+    },
+    {
+      "id": "te:markets:568261",
+      "time": "2026-07-20 21:55:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Edges Higher on Softer Inflation Data — The S&P/TSX Composite Index inched up to trade above 35,000 on Monday following the release of June's inflation report. Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%. Gasoline prices increased at a slower pace, while the Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that the impact of higher energy costs stemming from the Middle East oil supply crisis is not spreading broadly throughout the economy. Canadian bond yields moved lower following the data release. Most financials traded higher, with TD Bank, BMO, CIBC, and Scotiabank edging up. Shopify (+1%) and Celestica (+4%) advanced, tracking the rebound in US technology shares. Energy stocks weighed on the index, with Canadian Natural and Suncor down about 1% each as oil prices pulled back from recent peaks."
+    },
+    {
+      "id": "mkt:019f7fce-f3fd-7aab-8e0f-2cc894e59fe4",
+      "time": "2026-07-20 21:54:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexican President sheinbaum said she held brief talks with U.S. President TRUMP and Canadian Prime Minister CARNEY at the World Cup."
+    },
+    {
+      "id": "4998204",
+      "time": "2026-07-20 21:54:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧本海默將SPX科技公司的目標股價從每股272.00美元上調至每股280.00美元。"
+    },
+    {
+      "id": "mkt:019f7fce-db38-7aab-8e0f-26854be991a8",
+      "time": "2026-07-20 21:54:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Mexican President Sheinbaum will meet U.S. Trade Representative Greer on Wednesday or Thursday."
+    },
+    {
+      "id": "mkt:019f7fce-a5d3-7aab-8e0f-1ac307ff70e1",
+      "time": "2026-07-20 21:54:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexican President Sheinbaum spoke with U.S. Trade Representative Greer, Commerce Secretary Lutnick and Secretary of State Rubio during a soccer match."
+    },
+    {
+      "id": "4998203",
+      "time": "2026-07-20 21:54:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥總統稱在世界盃期間與特朗普和卡尼進行了簡短交談。"
+    },
     {
       "id": "te:markets:568258",
       "time": "2026-07-20 21:53:27",
