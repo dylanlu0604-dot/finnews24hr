@@ -1,7 +1,67 @@
 {
-  "updated": "2026-07-21 00:41:12",
+  "updated": "2026-07-21 00:45:13",
   "count": 19166,
   "items": [
+    {
+      "id": "4998368",
+      "time": "2026-07-21 00:44:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄朝外長：美國軍事行動推高地區緊張態勢】俄羅斯外交部20日釋出通報說，俄羅斯外長拉夫羅夫同朝鮮外相崔善姬當天在莫斯科開展第三輪俄朝外長級戰略對話。俄羅斯與朝鮮一致認為，東北亞乃至全球局勢持續緊張惡化，根源在於美國及其盟友採取一系列不負責任的舉動。（新華社）"
+    },
+    {
+      "id": "4998367",
+      "time": "2026-07-21 00:43:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普指示美國防長赫格塞思、參謀長聯席會議主席凱恩制定針對伊朗的應對方案。"
+    },
+    {
+      "id": "mkt:019f8069-7664-7aab-8e12-e7bcfab48600",
+      "time": "2026-07-21 00:43:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Lebanese Armed Forces said it has deployed troops to two southern pilot zones and will move into a third pilot zone once Israeli forces withdraw."
+    },
+    {
+      "id": "mkt:019f8068-8cfd-7aab-8e12-da8cb0a40b39",
+      "time": "2026-07-21 00:42:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "President Trump said Iran would pay many times over for every U.S. service member it kills."
+    },
+    {
+      "id": "mkt:019f8068-2caf-7aab-8e12-d0f89d60a27d",
+      "time": "2026-07-21 00:42:18",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "UN spokesperson said Yemen’s Houthi militants have imposed a blockade on Saudi Arabia and that the action could trigger a wider regional conflict."
+    },
+    {
+      "id": "4998366",
+      "time": "2026-07-21 00:42:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：伊朗每殺害一名美國士兵，就必將為此付出數倍的代價。"
+    },
     {
       "id": "4998365",
       "time": "2026-07-21 00:39:39",
@@ -176335,73 +176395,6 @@
         "Impact bullish"
       ],
       "text": "Brent crude futures broke above $80.00/bbl, up 5.35% intraday."
-    },
-    {
-      "id": "mkt:019f5c5d-a7cb-7aab-8d60-92ed89d58dd8",
-      "time": "2026-07-14 00:44:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian parliamentary speaker says Prime Minister Svyrydenko has submitted his resignation."
-    },
-    {
-      "id": "4985182",
-      "time": "2026-07-14 00:43:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭議會議長：該國總理斯維裡登科已遞交辭呈。"
-    },
-    {
-      "id": "4985181",
-      "time": "2026-07-14 00:42:38",
-      "tags": [
-        "資料",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "【沃勒定調週二CPI含金量：通脹火熱將支援近期加息】美聯儲理事沃勒週一表示，如果未來資料表明通脹率仍遠高於2%的目標，美聯儲“短期內”可能需要提高利率。他稱當前貨幣政策正處於“十字路口”。沃勒表示，這一方向將由週二釋出的CPI報告等新資訊決定，如果資料走勢出現不利變化，美聯儲目前處於不應“懈怠”的階段。沃勒表示：“在當前的政策水平下，通脹仍有可能逐步回落至2%的目標。但我同樣擔心可能出現另一種同樣情況，即未來幾周的資料將顯示通脹仍會維持在較高水平，甚至繼續上升，這將在短期內要求採取更緊的貨幣政策。”他特別表示，自己擔心最近的通脹報告顯示出價格壓力似乎正在整個經濟中擴大，超出了去年進口關稅上調或近期能源成本上升的影響，可能反映出更廣泛的系統性通脹，這將需要採取更緊縮的貨幣政策。沃勒表示，“如果本週核心通脹率再次表現火熱，FOMC將不得不考慮在短期內收緊貨幣政策。需要數月內看到通脹資料持續走低，才能認為通脹正朝著正確的方向發展。”"
-    },
-    {
-      "id": "mkt:019f5c5b-cecb-7aab-8d60-8d8245ae5844",
-      "time": "2026-07-14 00:42:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Waller: Tuesday CPI will decide next move; hot inflation could prompt near-term hikes】Federal Reserve Governor Waller said Tuesday's CPI and incoming data will determine policy direction, warning that if inflation remains well above the 2% target the Fed may need to raise rates in the short term. He described policy as at a crossroads and expressed concern recent reports show price pressures broadening beyond tariffs and energy — potentially signaling more entrenched, systemic inflation that would require tighter policy. If core CPI prints hot again this week, the FOMC would have to consider near-term tightening; Waller said it would take months of sustained declines in inflation data to be confident the trend is moving toward 2%."
-    },
-    {
-      "id": "4985180",
-      "time": "2026-07-14 00:41:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊衝突持續 船舶戰爭險費率再次上漲】美以伊衝突爆發後，戰爭險費率成為對霍爾木茲海峽安全形勢最敏感的市場指標之一。衝突前，船體戰爭險保費通常僅佔船舶本身價值的0.25%左右。隨著軍事衝突升級、霍爾木茲海峽安全風險驟增，戰爭險費率迅速飆升，最高一度達到船舶價值的約10%。6月美伊達成諒解備忘錄後，局勢一度趨緩。據保險經紀商訊息，戰爭險費率一度降至2%左右。然而，7月8日美軍以“商船遭襲”為由襲擊伊朗，伊朗回擊以來，保險費率再次上漲。綜合多家國際保險經紀機構資訊，目前，船體戰爭險費率已升至船舶價值的約5%。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f5c5a-e597-7aab-8d60-84007bb3e9aa",
-      "time": "2026-07-14 00:41:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Markets now price a 50% chance of a Fed rate hike this month."
     }
   ]
 }
