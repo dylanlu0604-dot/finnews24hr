@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-21 05:36:53",
-  "count": 19060,
+  "updated": "2026-07-21 05:43:23",
+  "count": 19061,
   "items": [
+    {
+      "id": "mkt:019f8177-4cf6-7aab-8e15-502884fc39aa",
+      "time": "2026-07-21 05:38:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's Mehr news agency reported that Ali Al Salem air base in Kuwait, which hosts U.S. forces, was attacked."
+    },
+    {
+      "id": "4998502",
+      "time": "2026-07-21 05:38:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍連續第10晚襲擊伊朗】美軍中央司令部在社交媒體平臺發宣告表示，美東時間7月20日下午4點（伊朗時間7月20日晚11點30分，北京時間7月21日凌晨4點），美軍依照美國總統特朗普指示，開始對伊朗發動連續第10晚襲擊，以進一步削弱伊朗用於襲擊霍爾木茲海峽商業航運的軍事能力。（CCTV國際時訊）"
+    },
     {
       "id": "4998501",
       "time": "2026-07-21 05:35:17",
@@ -175254,14 +175274,6 @@
         "MKT News"
       ],
       "text": "Iranian media Fars News reports multiple explosions heard in Jam County, Bushehr province."
-    },
-    {
-      "id": "mkt:019f5d6a-9cdf-7aab-8d64-8185215e4bd1",
-      "time": "2026-07-14 05:38:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr News Agency reports explosions heard on Qeshm Island in southern Iran."
     }
   ]
 }
