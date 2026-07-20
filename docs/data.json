@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-21 03:52:26",
+  "updated": "2026-07-21 03:56:28",
   "count": 19063,
   "items": [
+    {
+      "id": "4998448",
+      "time": "2026-07-21 03:52:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：激勵計劃將要求企業提交“產業迴流計劃”。經批准後，相關企業可按相應額度進口原鋁，並享受降低後的關稅稅率，稅率相當於原本適用的《232條款》關稅稅率的一半。"
+    },
+    {
+      "id": "4998447",
+      "time": "2026-07-21 03:52:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "德州電力可靠性委員會（ERCOT）：隨著高空高壓系統盤踞本州，本週將迎來今年迄今為止最高氣溫。 預計電力需求處於中高位至高位區間，峰值負荷將介於 8.5 萬兆瓦至 9 萬兆瓦出頭區間。"
+    },
+    {
+      "id": "mkt:019f8116-1c95-7aab-8e14-7af9e51da835",
+      "time": "2026-07-21 03:52:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Explosions heard near Sirik, Iran; cause unclear, Fars News reports."
+    },
+    {
+      "id": "4998446",
+      "time": "2026-07-21 03:52:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社訊息：錫裡克附近傳出爆炸聲，爆炸原因尚不明確。"
+    },
     {
       "id": "mkt:019f8115-44b6-7aab-8e14-70f0fe3487f3",
       "time": "2026-07-21 03:51:22",
@@ -175268,42 +175300,6 @@
         "國際"
       ],
       "text": "伊朗國家廣播電視臺（IRIB）稱，截至週一，阿巴斯港、亨格姆島、拉拉克島、格什姆島、賈斯克與西里克均未發生爆炸。該說法與此前伊朗通訊社、隸屬伊朗革命衛隊的塔斯尼姆通訊社釋出的訊息相悖，兩家媒體此前報道稱阿巴斯港和拉拉克島傳來爆炸聲。"
-    },
-    {
-      "id": "mkt:019f5d0b-7fe0-7aab-8d63-9f99cbd92912",
-      "time": "2026-07-14 03:54:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【Trump to give prime-time address Friday; may signal renewed US‑Iran escalation】President Trump said he will deliver a national address at 9pm Thursday (0900 Beijing Friday) as tensions around the Strait of Hormuz rise. He did not specify the subject. The timing and comment could indicate a renewed acceleration of conflict between the US and Iran, despite expectations that both sides would enter talks after signing a memorandum of understanding."
-    },
-    {
-      "id": "4985320",
-      "time": "2026-07-14 03:54:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯任命的頓涅茨克地區部分佔領區負責人稱，烏克蘭無人機襲擊造成八人死亡。"
-    },
-    {
-      "id": "4985319",
-      "time": "2026-07-14 03:53:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿曼：將把與伊朗開展溝通對接置於優先位置，以此保障航行自由。"
-    },
-    {
-      "id": "4985318",
-      "time": "2026-07-14 03:53:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿曼：阿曼承諾積極同伊朗及世界各大國開展合作，搭建穩定的安全機制。"
     }
   ]
 }
