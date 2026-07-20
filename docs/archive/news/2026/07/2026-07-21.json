@@ -1,7 +1,30 @@
 {
   "date": "2026-07-21",
-  "count": 357,
+  "count": 359,
   "items": [
+    {
+      "id": "4998553",
+      "time": "2026-07-21 07:03:33",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "市場訊息：倫敦證券交易所計劃明年推出全天候交易。"
+    },
+    {
+      "id": "mkt:019f81c5-2acd-7aab-8e15-fb951eed8fac",
+      "time": "2026-07-21 07:03:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact mixed",
+        "GBPUSD"
+      ],
+      "text": "The Financial Times reports the London Stock Exchange plans to launch 24-hour trading next year."
+    },
     {
       "id": "4998552",
       "time": "2026-07-21 06:55:17",
