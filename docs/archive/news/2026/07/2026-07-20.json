@@ -1,7 +1,85 @@
 {
   "date": "2026-07-20",
-  "count": 2323,
+  "count": 2331,
   "items": [
+    {
+      "id": "4997943",
+      "time": "2026-07-20 19:42:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗陸軍發言人阿米爾・阿克拉米尼亞准將表示，基於 1980 至 1988 年兩伊戰爭的歷史教訓，從理性角度出發，這場衝突必須持續下去，直至為本國構建起全面威懾體系。"
+    },
+    {
+      "id": "4997942",
+      "time": "2026-07-20 19:41:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "據上交所官網，上海紐脈醫療科技股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
+    },
+    {
+      "id": "mkt:019f7f54-f8c5-7aab-8e0b-b453fd9bc781",
+      "time": "2026-07-20 19:41:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange shows Shanghai Niumai Medical Technology Co., Ltd.'s STAR Market IPO review status changed to 'inquiry'."
+    },
+    {
+      "id": "mkt:019f7f54-6dcb-7aab-8e0b-a951edc615f5",
+      "time": "2026-07-20 19:41:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brent and WTI crude continued to slide; Brent fell below $85 a barrel, down more than 2% intraday. WTI dropped over $2 to $80.29 a barrel, down 2.5%."
+    },
+    {
+      "id": "te:markets:568234",
+      "time": "2026-07-20 19:40:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Inch Higher — Futures tracking US equity indices were higher on Monday after sharp losses last week, as the chip sector stabilized. Contracts for the S&P 500, Dow, and Nasdaq 100 were around 0.4% higher, with the latter having tested over two-month lows last session. Heavyweight tech stocks were mostly higher as markets continued to gauge whether AI hyperscalers are due to slow spending on AI infrastructure in the next quarters, which have been the source of guidance upgrades for booming chip-manufacturing sector. Alphabet is due to report their outlook on Wednesday, the latest bellwether for both chip and software development capital expenditure. Fuel and energy prices continued to increase amid escalated attacks between Iran and the US in the Middle East, erasing hopes of energy exports from the region. Still, yields held their pullback and remained below their recent peaks. Credit-sensitive bank holding companies remained higher from last week following strong earnings from the sector."
+    },
+    {
+      "id": "te:economy:568233",
+      "time": "2026-07-20 19:40:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Gilt Yields Ease as Markets Weigh Oil and Burnham’s Government — The UK 10-year gilt yield eased to 4.95%, although it remained close to a two-month high, as crude prices retreated on signs of renewed diplomatic efforts between the US and Iran. Even so, oil remained near one-month highs after the two countries exchanged retaliatory strikes, keeping inflation concerns elevated and reinforcing expectations that the Bank of England will maintain a tighter policy stance for longer. Meanwhile, Andy Burnham officially became the UK’s Prime Minister on Monday after accepting King Charles III’s invitation to form a government. Burnham, who stood unopposed in the Labour leadership contest following Keir Starmer’s resignation, is the UK’s seventh prime minister in the past decade and the second since Labour returned to power in 2024. Markets are now focused on Burnham’s choice of Chancellor. Reports that Shabana Mahmood is the leading candidate have reassured investors, easing concerns that the new government could pursue a more expansionary fiscal agenda."
+    },
+    {
+      "id": "4997941",
+      "time": "2026-07-20 19:39:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內跌2%，現報86.34美元/桶。"
+    },
+    {
+      "id": "4997940",
+      "time": "2026-07-20 19:39:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【無問芯穹：最佳化即利潤；全域協同訓練規模將超越10萬卡】無問芯穹聯合創始人、CEO夏立雪在2026世界人工智慧大會論壇指出，英偉達提出算力即收入，無問芯穹提出最佳化即利潤增長。針對算力地域離散分佈及異構利用難的痛點，無問芯穹打造跨域訓練系統，已覆蓋3.7萬P算力及16種主流晶片，未來將支援10萬卡以上規模。"
+    },
     {
       "id": "mkt:019f7f52-062c-7aab-8e0b-a29bed73c28c",
       "time": "2026-07-20 19:38:29",
