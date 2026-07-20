@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-20 22:27:44",
-  "count": 19158,
+  "updated": "2026-07-20 22:31:52",
+  "count": 19159,
   "items": [
+    {
+      "id": "mkt:019f7fef-d7bd-7aab-8e0f-fa8aff1ee55d",
+      "time": "2026-07-20 22:30:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan said a UK policy vacuum could provide an opportunity for sterling to strengthen."
+    },
+    {
+      "id": "4998239",
+      "time": "2026-07-20 22:30:46",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "土耳其財政部：截至6月底中央政府債務餘額為14.9925萬億里拉。"
+    },
+    {
+      "id": "4998238",
+      "time": "2026-07-20 22:29:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西農業部：6月下半月巴西中南部甘蔗壓榨量同比下降28.4%，至3115萬噸；食糖產量同比下降44.2%，至161萬噸；乙醇產量同比下降13.1%，至17億升。"
+    },
+    {
+      "id": "4998237",
+      "time": "2026-07-20 22:27:50",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【英債收益率創近期新高 市場大幅加碼英國央行加息預期 】英國國債市場遭遇拋售，跌幅進一步擴大。交易員大幅加碼對英國央行加息的押注，推動英國10年期國債收益率攀升至本週以來的最高水平。資料顯示，英國10年期國債收益率當日上漲6個基點，升至5.01%。作為對比，德國10年期國債收益率同期上漲2個基點至3.14%。"
+    },
     {
       "id": "4998236",
       "time": "2026-07-20 22:27:02",
@@ -176448,33 +176485,6 @@
         "國際"
       ],
       "text": "特朗普宣佈將恢復對伊朗制裁後，美國國債收益率進一步上漲；10年期美國國債收益率盤中觸及4.6055%的近兩個月高位，最新上漲2.24個基點，報4.591%。"
-    },
-    {
-      "id": "te:markets:566456",
-      "time": "2026-07-13 22:30:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Drops Over 3% Amid Rate Hike Expectations — Silver declined more than 3% to $58 per ounce on Monday, extending losses for a second straight day, as rising Middle East tensions amplified inflation worries, strengthening the view that US interest rates will stay higher for longer. US and Iranian forces exchanged heavy missile and drone strikes over the weekend and into Monday. Tehran reported attacks on US military sites across the Gulf and kept the Strait of Hormuz closed, driving oil prices up over 4%. Investors responded by increasing bets on a Federal Reserve rate hike, with markets now pricing in a nearly 70% chance of a September increase. Fed Chair Kevin Warsh is scheduled to testify on monetary policy before Congress on Tuesday, with markets watching closely for further signals. The US is also set to release key economic data this week, including June’s consumer price index and retail sales."
-    },
-    {
-      "id": "mkt:019f5be2-4132-7aab-8d5d-e6b3f8044521",
-      "time": "2026-07-13 22:29:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iraq's prime minister has arrived in Washington to meet US officials, market sources said."
-    },
-    {
-      "id": "4985053",
-      "time": "2026-07-13 22:28:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利MFB開發銀行籌集資金20億歐元。"
     }
   ]
 }
