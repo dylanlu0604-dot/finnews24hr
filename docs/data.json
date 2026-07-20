@@ -1,7 +1,230 @@
 {
-  "updated": "2026-07-20 09:01:10",
-  "count": 19043,
+  "updated": "2026-07-20 09:05:01",
+  "count": 19053,
   "items": [
+    {
+      "id": "4996535",
+      "time": "2026-07-20 09:04:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲4%，現報8421.00元。"
+    },
+    {
+      "id": "4996534",
+      "time": "2026-07-20 09:04:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市解除分割槽暴雨黃色預警訊號】深圳西北部地區強降雨已減弱，深圳市氣象臺2026年07月20日09時00分解除寶安區、光明區和龍華區暴雨黃色預警訊號，深圳其餘地區暴雨黃色預警訊號仍在生效，市民仍需注意遠離河道和危險邊坡等。"
+    },
+    {
+      "id": "4996533",
+      "time": "2026-07-20 09:03:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲6%，現報5757.00元。"
+    },
+    {
+      "id": "4996532",
+      "time": "2026-07-20 09:03:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破57美元/盎司，日內漲1.25%。"
+    },
+    {
+      "id": "mkt:019f7d0c-d3d6-7aab-8dfd-a70a77422f3e",
+      "time": "2026-07-20 09:03:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude up 2.00% intraday at $88.49/bbl."
+    },
+    {
+      "id": "4996531",
+      "time": "2026-07-20 09:03:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲4%，現報4261.00元。"
+    },
+    {
+      "id": "4996530",
+      "time": "2026-07-20 09:03:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲5%，現報2768.00元。"
+    },
+    {
+      "id": "4996529",
+      "time": "2026-07-20 09:02:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱或因山火向加拿大索賠】當地時間7月19日晚，美國總統特朗普在乘“空中一號”專機抵達安德魯斯聯合基地後對媒體稱，他在稍早前的世界盃決賽觀賽期間，就加拿大山火煙霾影響美國問題與加拿大總理卡尼進行了溝通。特朗普稱，他告訴卡尼，“你們得阻止這些山火毒害我們的空氣。”特朗普還對媒體稱，他與卡尼“關係很好”，在山火問題上美國或許“能幫加拿大”，但“也許他們應該賠我們一些損失，或者我們應該收點關稅。”（CCTV國際時訊）"
+    },
+    {
+      "id": "4996527",
+      "time": "2026-07-20 09:02:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲3%，現報7913.00元。"
+    },
+    {
+      "id": "4996526",
+      "time": "2026-07-20 09:02:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4020美元/盎司，日內漲0.04%。"
+    },
+    {
+      "id": "4996525",
+      "time": "2026-07-20 09:01:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【綠盟科技成立人工智慧科技新公司】企查查APP顯示，近日，北京綠盟人工智慧科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧基礎資源與技術平臺；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由綠盟科技(300369)全資持股。"
+    },
+    {
+      "id": "mkt:019f7d0b-138b-7aab-8dfd-99aaec057128",
+      "time": "2026-07-20 09:01:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 164.29 points higher, up 0.39%, at 42,835.56 on Monday, July 20."
+    },
+    {
+      "id": "mkt:019f7d0b-0fba-7aab-8dfd-9472aafef909",
+      "time": "2026-07-20 09:01:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange: Gold T+D rose 0.49% to 875.0 yuan/gram and Silver T+D rose 1.64% to 13,700.0 yuan/kg in early trade on Monday, July 20."
+    },
+    {
+      "id": "4996524",
+      "time": "2026-07-20 09:01:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【波音CEO稱推出新飛機設計前需先改善財務狀況】波音執行長凱利.奧特伯格(Kelly Ortberg)表示，該公司已開始著手設計一款新飛機，但目前的重點是努力趕上進度，交付那些已延誤多年的產品。奧特伯格說，航空公司目前還沒有迫切要求推出新設計，同時波音希望先將技術和財務狀況準備就緒。“當然，整頓好我們的財務狀況是我們做好準備的一部分，”奧特伯格說，“這還需要幾年時間。”不過，奧特伯格表示，該公司正在投入“時間和資金”，準備在合適的時機推出新設計。“我們現在還沒有一個確定的構型，”他在倫敦郊外舉行的範堡羅國際航展(Farnborough International Airshow)開幕前接受採訪表示，“我們正在評估各項權衡性研究。你設定一個基準，然後對照基準評估各項指標，接著再進行調整。”"
+    },
+    {
+      "id": "mkt:019f7d0a-6741-7aab-8dfd-8b298e346a67",
+      "time": "2026-07-20 09:01:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shipping index (Europe route) benchmark contract up 5.00% intraday at 2,775.0 points."
+    },
+    {
+      "id": "4996523",
+      "time": "2026-07-20 09:00:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4010美元/盎司，日內跌0.14%。"
+    },
+    {
+      "id": "4996522",
+      "time": "2026-07-20 09:00:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1240.00美元/盎司。"
+    },
+    {
+      "id": "4996521",
+      "time": "2026-07-20 09:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.3%報42,793.15。"
+    },
+    {
+      "id": "4996520",
+      "time": "2026-07-20 09:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "丙烯連續主力合約日內漲4%，現報8043.00元。"
+    },
+    {
+      "id": "4996519",
+      "time": "2026-07-20 09:00:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲2%，現報4608.00元。"
+    },
+    {
+      "id": "mkt:019f7d09-b147-7aab-8dfd-841dd6b3853b",
+      "time": "2026-07-20 09:00:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "FTSE China A50 index futures opened 1.03% higher."
+    },
+    {
+      "id": "4996518",
+      "time": "2026-07-20 09:00:13",
+      "tags": [
+        "央行",
+        "焦點"
+      ],
+      "text": "【一年期、五年期LPR均維持不變】中國央行將一年期和五年期貸款市場報價利率（LPR）分別維持在3%和3.5%不變，為連續14個月保持不變。"
+    },
+    {
+      "id": "mkt:019f7d09-ac0d-7aab-8dfd-794b12955032",
+      "time": "2026-07-20 09:00:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH"
+      ],
+      "text": "【PBOC holds 1-year and 5-year LPR unchanged】PBOC left the 1-year and 5-year loan prime rates (LPR) unchanged at 3.00% and 3.50%, marking the 14th consecutive month without a change."
+    },
+    {
+      "id": "mkt:019f7d09-a822-7aab-8dfd-76a97f41cc6a",
+      "time": "2026-07-20 09:00:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "At the morning open, China's most-active futures were mixed: SC crude and low-sulfur fuel oil (LU) rose more than 7%; LPG gained over 5%; asphalt climbed more than 3%; benzene and propylene increased nearly 2%; glass dropped over 1% and SHFE zinc fell nearly 1%."
+    },
     {
       "id": "mkt:019f7d09-99bd-7aab-8dfd-6b8816675a9d",
       "time": "2026-07-20 09:00:08",
@@ -18,6 +241,42 @@
         "Important"
       ],
       "text": "China one-year loan prime rate (LPR) as of July 20: 3.00% (consensus 3.00%; prior 3.00%)."
+    },
+    {
+      "id": "4996517",
+      "time": "2026-07-20 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲3%，現報5892.00元。"
+    },
+    {
+      "id": "4996516",
+      "time": "2026-07-20 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲5%，現報2778.00點。"
+    },
+    {
+      "id": "4996515",
+      "time": "2026-07-20 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲5%，現報5715.00元。"
+    },
+    {
+      "id": "4996514",
+      "time": "2026-07-20 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲7%，現報4918.00元。"
     },
     {
       "id": "4996513",
@@ -175549,180 +175808,6 @@
         "國際"
       ],
       "text": "【歐洲熱浪肆虐 德法溺水事故頻發】受持續熱浪的影響，歐洲近期連續遭遇創紀錄的高溫天氣，大批民眾選擇戲水乘涼。受此影響，在德國和法國，近來溺水事故頻發。德國救生協會12日釋出的資料顯示，受高溫天氣影響，德國6月至少有99人因溺水死亡，為2003年以來歷年同期最高值。根據統計資料，超過90%的死者為男性，其中多數為年輕人。大多數溺亡事故發生在湖泊和河流。救援人員分析，許多人低估了水流湍急、入水前後溫差等風險。此外，游泳技能欠佳、過度自信、跳入渾濁水域等也被視為誘發事故的原因。（央視）"
-    },
-    {
-      "id": "mkt:019f5901-3b09-7aab-8d48-d75504dc4e65",
-      "time": "2026-07-13 09:04:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China National Marine Forecasting Center issues storm-surge orange and wave blue alerts for northern sea areas】Typhoon Bavi (this year’s No.9, tropical-storm intensity) had its center at 08:00 in Si County, Suzhou, Anhui. The Central Meteorological Observatory forecasts Bavi will move north-northeast at 10–15 km/h, weaken gradually, cross the Shandong Peninsula into the northern Yellow Sea on the 14th and transition to an extratropical cyclone after the 15th. Under the Marine Disaster Emergency Plan the National Marine Forecasting Center this morning issued a storm-surge orange alert and a wave blue alert for China’s northern sea areas."
-    },
-    {
-      "id": "mkt:019f5900-d5a9-7aab-8d48-ce40e5e00b65",
-      "time": "2026-07-13 09:04:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. President Trump’s approval at 59%; inflation easing and oil and gas prices declining."
-    },
-    {
-      "id": "4983329",
-      "time": "2026-07-13 09:04:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國總統特朗普：59%的支援率。通脹下降，油氣價格也在降低。"
-    },
-    {
-      "id": "mkt:019f5900-4dbf-7aab-8d48-c50aabbf4976",
-      "time": "2026-07-13 09:03:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Most-active lithium carbonate futures fell more than 2% to 147,880 yuan/ton."
-    },
-    {
-      "id": "mkt:019f5900-4bc3-7aab-8d48-bdc0aa042421",
-      "time": "2026-07-13 09:03:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Shenyang, Liaoning activates Level-2 flood emergency; citywide classes and non-essential work suspended】Shenyang has activated a citywide Level-2 flood-control emergency in response to Typhoon Bavi. All schools and non-essential workplaces are suspended today; government agencies and enterprises should work from home in principle, except units maintaining basic urban operations. The city flood-control headquarters has placed 12 departments—including emergency management, public security, meteorology, water affairs, urban construction, urban management enforcement, natural resources, agriculture, fire services and power supply—under unified command. More than 3,500 flood-responsible personnel at municipal, district/county, township/street and village/community levels are on duty conducting rescue and drainage operations."
-    },
-    {
-      "id": "mkt:019f5900-3636-7aab-8d48-b18a7140b2d8",
-      "time": "2026-07-13 09:03:33",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China energy and chemicals futures' most-active contracts continued to rise; fuel oil up more than 4%, while benzene, methanol, butadiene, rubber, LPG and ethylene glycol gains widened to above 3%."
-    },
-    {
-      "id": "mkt:019f5900-28ce-7aab-8d48-ad7f54187a48",
-      "time": "2026-07-13 09:03:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Precious Metals",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "China commodity futures opened mixed this morning. Fuel oil and container-shipping (Europe-route) contracts rose more than 3%; LPG, butadiene rubber, benzene, asphalt, low-sulfur fuel oil (LU) and SC crude oil gained over 2%. Shanghai silver futures fell nearly 2%."
-    },
-    {
-      "id": "4983327",
-      "time": "2026-07-13 09:03:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣股市上漲逾2%。"
-    },
-    {
-      "id": "4983326",
-      "time": "2026-07-13 09:03:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股股票回購一覽：86只個股獲公司回購】Wind資料顯示，7月10日，共86只港股獲公司回購，5只個股回購金額超千萬港元。其中，布魯可、MONGOL MINING、中國石油化工股份回購金額最大，分別獲公司回購4205.82萬港元、2060.83萬港元、1829.52萬港元。截至7月10日，今年已有283只港股獲公司回購，80只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購261.28億港元、136.35億港元、109.63億港元。"
-    },
-    {
-      "id": "4983325",
-      "time": "2026-07-13 09:03:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺針對我國北部海域釋出風暴潮橙色和海浪藍色警報】從自然資源部獲悉，今年第9號颱風“巴威”（熱帶風暴級）的中心今天（13日）早晨8點鐘位於安徽省宿州市泗縣境內。中央氣象臺預計“巴威”將以每小時10-15公里的速度向北偏東轉東北方向移動，強度緩慢減弱，14日白天將經山東半島移入黃海北部海面，15日以後逐漸變性為溫帶氣旋。根據《海洋災害應急預案》，國家海洋預報臺於今天早上釋出風暴潮橙色警報和海浪藍色警報。"
-    },
-    {
-      "id": "4983324",
-      "time": "2026-07-13 09:02:55",
-      "tags": [
-        "宏觀",
-        "公司"
-      ],
-      "text": "【AI 火熱需求傳導至成熟製程，臺積電開啟新一輪漲價潮】據報道，臺積電先進製程訂單爆滿，在持續上調 3 奈米等先進製程報價的同時，漲價浪潮已蔓延至成熟製程。多家 IC 設計廠商透露，已陸續收到臺積電通知，計劃上調成熟製程代工價格，不同客戶漲價幅度存在差異，調價預計明年 1 月正式生效。這是新冠疫情結束三年多以來，臺積電首次上調成熟製程報價。疊加此前多個先進工藝節點已完成漲價，臺積電全面迎來漲價紅利，經營景氣度進一步走高。臺積電將於本週四（16 日）舉辦業績說明會，現階段處於財報靜默期，昨日（12 日）未對成熟製程漲價傳聞作出回應。針對定價相關問題，臺積電此前多次公開表態，公司定價策略始終立足長期戰略，而非短期逐利，會持續與客戶深度協作，創造產業價值。今年年初市場便傳出臺積電先進製程產能持續供不應求，已連續四年上調報價；如今漲價趨勢延伸至成熟製程。多家 IC 設計企業私下表示，各大廠商需在年底前編制下一年度採購預算，臺積電近期已陸續與客戶溝通，確定明年上調成熟製程代工價格。漲價幅度將根據合作廠商、產品線區分，於第四季度最終敲定，目前市場預估漲幅為個位數百分比。"
-    },
-    {
-      "id": "4983323",
-      "time": "2026-07-13 09:02:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【軟控股份成立智控科技公司 含機器人業務】企查查APP顯示，近日，深圳深科智控科技有限公司成立，經營範圍包含：智慧機器人的研發；電機及其控制系統研發；機械裝置研發；工業自動控制系統裝置銷售等。企查查股權穿透顯示，該公司由軟控股份全資持股。"
-    },
-    {
-      "id": "4983322",
-      "time": "2026-07-13 09:01:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【階躍星辰在上海新設智慧科技公司】企查查APP顯示，近日，上海啟躍星辰智慧科技有限公司成立，經營範圍包含：人工智慧基礎軟體開發；人工智慧雙創服務平臺；軟體開發；人工智慧通用應用系統等。企查查股權穿透顯示，該公司由上海階躍星辰智慧科技股份有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019f58fe-9152-7aab-8d48-a1d908de3803",
-      "time": "2026-07-13 09:01:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "At the open on July 13 (Mon), Shanghai Gold Exchange gold T+D slipped 1.17% to 888.13 yuan/gram, while silver T+D fell 2.08% to 14,331.0 yuan/kg."
-    },
-    {
-      "id": "4983321",
-      "time": "2026-07-13 09:01:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本民眾舉行集會 要求高市政府糾正錯誤做法】當地時間12日，日本民眾在東京港區舉行集會，要求日本政府撤回涉臺錯誤言論，糾正錯誤做法，正視歷史。參加者表示，日本政府近期相關言行加劇地區緊張局勢，不利於日中和平友好關係發展。（央視）"
-    },
-    {
-      "id": "4983320",
-      "time": "2026-07-13 09:01:27",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "馬來西亞國家石油公司與靜岡燃氣強化長期液化天然氣合作伙伴關係。"
-    },
-    {
-      "id": "mkt:019f58fe-384e-7aab-8d48-98535d55135e",
-      "time": "2026-07-13 09:01:23",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Weighted Index opened 718.71 points higher on July 13 (Monday), up 1.58% at 46,073.32."
-    },
-    {
-      "id": "4983319",
-      "time": "2026-07-13 09:01:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲3%，現報4311.00元。"
     }
   ]
 }
