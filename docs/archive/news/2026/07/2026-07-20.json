@@ -1,7 +1,58 @@
 {
   "date": "2026-07-20",
-  "count": 2931,
+  "count": 2936,
   "items": [
+    {
+      "id": "4998322",
+      "time": "2026-07-20 23:36:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【巴林一天6次拉響防空警報】當地時間今天（7月20日）傍晚6點30分左右，巴林再次拉響防空警報。這是一個小時之內巴林第二次拉響防空警報，也是今天巴林的第六輪防空警報。"
+    },
+    {
+      "id": "mkt:019f802c-0a70-7aab-8e11-fe968d620f80",
+      "time": "2026-07-20 23:36:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish"
+      ],
+      "text": "European equities closed mixed on Monday, July 20: Germany's DAX rose 0.07% to 24,844.98; Britain's FTSE 100 fell 0.75% to 10,520.76; France's CAC 40 edged up 0.02% to 8,340.11; Euro Stoxx 50 slipped 0.07% to 6,226.75; Spain's IBEX 35 dropped 0.10% to 19,197.45; Italy's FTSE MIB lost 0.07% to 51,847.00."
+    },
+    {
+      "id": "4998321",
+      "time": "2026-07-20 23:36:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍暫停墨西哥灣佩特羅尼烏斯海上平臺原油生產。"
+    },
+    {
+      "id": "te:economy:568283",
+      "time": "2026-07-20 23:35:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "UK 10-Year Gilt Yield Rises to 2-Month High — The UK 10-year gilt yield rose above 5%, the highest in two months, as elevated oil prices kept inflation concerns alive and reinforced expectations that the Bank of England will maintain higher interest rates for longer. Investors also assessed the political transition after Andy Burnham officially became the UK's prime minister on Monday, accepting King Charles III's invitation to form a government. Burnham, who succeeded Keir Starmer unopposed, is the UK's seventh prime minister in the past decade and the second since Labour returned to power in 2024. He reaffirmed his commitment to the government's fiscal rules while signalling he is considering raising the income tax personal allowance, which has been frozen for years. Markets are now focused on his choice of chancellor, with reports that Shabana Mahmood is the leading candidate."
+    },
+    {
+      "id": "em:qqyh_mlc:202607203813749271",
+      "time": "2026-07-20 23:34:38",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美國財政部拍賣三個月期國債】7月20日，美國財政部拍賣三個月期國債，得標利率3.730%，投標倍數3。拍賣六個月期國債，得標利率3.835%，投標倍數2.94。"
+    },
     {
       "id": "mkt:019f8029-75e5-7aab-8e11-f42c5cc612e4",
       "time": "2026-07-20 23:33:48",
