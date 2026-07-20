@@ -1,7 +1,86 @@
 {
   "date": "2026-07-21",
-  "count": 305,
+  "count": 314,
   "items": [
+    {
+      "id": "mkt:019f819f-e72c-7aab-8e15-90b5fa462a46",
+      "time": "2026-07-21 06:22:47",
+      "tags": [
+        "MKT News",
+        "ORCL.N",
+        "Impact bearish"
+      ],
+      "text": "【Oracle (ORCL.N) credit risk rises to near 18-year high; CDS and bond spreads widen】On Monday Oracle (ORCL.N) five-year credit-default swap spreads rose to about 203 bps — their highest level since end-2008 and above last Friday's 198.23 bps peak, according to ICE Data Services. TRACE data showed broad weakness in the company's bond curve: a heavily traded 6.7% 2056 issue widened roughly 8 bps to 263 bps, while a 5.7% 2036 bond widened about 9 bps to 205 bps. The moves, accompanied by selling, reflect market doubt that Oracle's large AI investments will produce sufficient returns."
+    },
+    {
+      "id": "4998526",
+      "time": "2026-07-21 06:22:16",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【接力回購+理性發聲，券商多管齊下提振市場信心】近期，A股市場持續震盪調整，市場情緒階段性走弱。面對市場短期波動，各大券商不僅拿出真金白銀回購股份，還端出研究“乾貨”，多管齊下穩定市場預期。7月18日至20日，華安證券、國聯民生、紅塔證券、中泰證券先後披露回購相關公告，加上此前已進入實施階段的國金證券，年內上市券商回購陣營持續擴容。下一步該怎麼做？不恐慌“割肉”，也不盲目抄底，是券商趨於一致的回答。對於市場調整後的操作策略，多家券商建議投資者控制倉位、均衡配置、審視持倉邏輯。（上證報）"
+    },
+    {
+      "id": "4998525",
+      "time": "2026-07-21 06:21:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【央企領銜，一日百餘家公司公告回購增持新動作】7月20日，全天逾百家上市公司密集披露股份回購、股東增持計劃及最新實施進展。此外，中國平安、中國人保、中國太保、新華保險也相繼公告稱，將加大投資力度，堅定支援資本市場發展。Wind資料顯示：今年7月以來，A股市場約103家公司披露回購計劃，金額上限超過160億元；新增58家公司的增持計劃，金額上限超過100億元。尤其是央企控股上市公司，在本輪迴購增持熱潮中投入真金白銀，為市場注入信心與活力。（上證報）"
+    },
+    {
+      "id": "mkt:019f819e-0390-7aab-8e15-8b50226567da",
+      "time": "2026-07-21 06:20:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. President Trump said he discussed North Sea oil, trade, military alliances and mine-clearing in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f819d-fa30-7aab-8e15-800b516fa62d",
+      "time": "2026-07-21 06:20:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he will meet soon with the new UK prime minister to discuss issues of mutual concern."
+    },
+    {
+      "id": "4998524",
+      "time": "2026-07-21 06:20:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：雙方探討了北海石油、貿易、軍事同盟以及霍爾木茲海峽排雷相關事宜。"
+    },
+    {
+      "id": "4998523",
+      "time": "2026-07-21 06:20:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：不久之後雙方將會晤，商討共同關心的議題。"
+    },
+    {
+      "id": "mkt:019f819d-2dce-7aab-8e15-7e07ab9c058c",
+      "time": "2026-07-21 06:19:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he had a very good conversation with the new UK prime minister."
+    },
+    {
+      "id": "4998522",
+      "time": "2026-07-21 06:19:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與英國新任首相進行了一次非常愉快的會談。"
+    },
     {
       "id": "4998521",
       "time": "2026-07-21 06:15:16",
