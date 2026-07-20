@@ -1,7 +1,152 @@
 {
   "date": "2026-07-20",
-  "count": 2307,
+  "count": 2323,
   "items": [
+    {
+      "id": "mkt:019f7f52-062c-7aab-8e0b-a29bed73c28c",
+      "time": "2026-07-20 19:38:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "NASA administrator said he hopes European partners will focus on projects that support US lunar missions."
+    },
+    {
+      "id": "mkt:019f7f51-f3bd-7aab-8e0b-995e2d2474df",
+      "time": "2026-07-20 19:38:24",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China, Thailand sign MoU to strengthen production and supply‑chain cooperation】China and Thailand signed a memorandum of understanding between MOFCOM and Thailand’s Ministry of Commerce to bolster production and supply‑chain economic cooperation. The MoU was signed in Beijing by MOFCOM minister Wang Wentao and Thailand’s deputy prime minister and commerce minister Suphajee, and witnessed by China’s Li and Thai prime minister Anutin. It commits both sides to regular meetings and information exchanges, support for relevant government bodies, local authorities and companies to deepen pragmatic cooperation, and to build a practical, efficient platform to safeguard supply‑chain security, resilience and smooth flows."
+    },
+    {
+      "id": "mkt:019f7f51-e449-7aab-8e0b-914d8569ba67",
+      "time": "2026-07-20 19:38:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NASA administrator said Artemis III remains on track for 2027 despite a Blue Origin launch-pad explosion."
+    },
+    {
+      "id": "4997939",
+      "time": "2026-07-20 19:38:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國宇航局局長表示：儘管藍色起源發生發射臺爆炸事故，美國航空航天局仍按計劃推進2027年阿爾忒彌斯三號任務。"
+    },
+    {
+      "id": "4997938",
+      "time": "2026-07-20 19:38:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國宇航局局長希望歐洲合作伙伴聚焦於助力美國登月任務的專案。"
+    },
+    {
+      "id": "4997937",
+      "time": "2026-07-20 19:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會主席馮德萊恩：祝賀親愛的安迪・伯納姆正式就任首相。期待與你攜手深化歐盟與英國夥伴關係，共同守護歐洲大陸安全，讓英吉利海峽兩岸民眾共享繁榮。"
+    },
+    {
+      "id": "4997936",
+      "time": "2026-07-20 19:37:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇順電子：中恩雲資訊簽署7.31億元算力服務合同】 宇順電子公告，全資子公司中恩雲資訊與客戶簽署了《算力基礎計算伺服器租賃協議》，合同總金額為7.31億元，期限為60個月。該合同佔公司最近一個會計年度經審計主營業務收入50%以上，且絕對金額超過5億元。合同履行期限較長，收入將分期確認，對公司各年度業績的影響存在不確定性。"
+    },
+    {
+      "id": "4997935",
+      "time": "2026-07-20 19:37:03",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【哈馬斯任命新領導人】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）20日宣佈任命哈利勒·哈亞為新任領導人。 宣告說，已選舉哈亞為哈馬斯政治局主席，接替此前身亡的葉海亞·辛瓦爾。 哈亞現年65歲，自2006年以來一直擔任哈馬斯內部重要職務，是該組織現存為數不多的元老之一。哈亞是哈馬斯參與加沙停火談判的首席代表。 2024年10月，以色列說辛瓦爾在加沙地帶的以軍行動中死亡。哈馬斯隨後予以證實。（新華社）"
+    },
+    {
+      "id": "4997934",
+      "time": "2026-07-20 19:36:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "布倫特原油與美國原油期貨因新一輪談判前景預期跌幅超1美元。"
+    },
+    {
+      "id": "4997933",
+      "time": "2026-07-20 19:36:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國國債價格上漲；德國10年期國債收益率下跌1個基點至3.12%。"
+    },
+    {
+      "id": "4997932",
+      "time": "2026-07-20 19:36:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【聯影醫療：2026年至今取得多項境內外醫療器械註冊證】聯影醫療公告稱，2026年至今公司取得多項境內外醫療器械註冊證，包括境內NMPA的彩色多普勒超聲診斷系統等，歐盟CE的正電子發射機及X射線計算機斷層成像掃描系統等，美國FDA的彩色多普勒超聲診斷系統等。截至6月30日，產品註冊准入覆蓋全球80餘國家和地區，累計獲批超160款，報告期內新增歐盟認證7款、FDA認證20款。註冊證取得利於豐富產品種類，增強競爭力，但對營收影響尚無法預測。"
+    },
+    {
+      "id": "te:markets:568231",
+      "time": "2026-07-20 19:36:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Sterling Rises as Burnham Becomes UK Prime Minister — Sterling climbed to $1.347 after Andy Burnham officially became the UK's Prime Minister on Monday, accepting King Charles III's invitation to form a government. Burnham, who stood unopposed in the Labour leadership contest following Keir Starmer's resignation, becomes the UK's seventh prime minister in the past decade and the second since Labour returned to power in 2024. Markets are now focused on Burnham's choice of Chancellor. Reports that Shabana Mahmood is the leading candidate have reassured investors, easing concerns that the new government could adopt a more expansionary fiscal stance. Meanwhile, escalating tensions in the Middle East have pushed oil prices to their highest level in over a month, adding to inflationary pressures and reinforcing expectations that the Bank of England will keep interest rates higher for longer."
+    },
+    {
+      "id": "4997931",
+      "time": "2026-07-20 19:36:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧波東力：擬向控股子公司增資2.28億元】寧波東力公告稱，為滿足精密傳動板塊產業佈局及經營發展需求，公司擬使用自有資金向控股子公司東力精密增資2.28億元，東力精密其他股東按持股比例同比例增資1200萬元。增資完成後，東力精密註冊資本將由6000萬元增至3億元，公司仍為控股股東。該議案已透過董事會審議，無需提交股東會。本次投資不構成關聯交易和重大資產重組。"
+    },
+    {
+      "id": "4997930",
+      "time": "2026-07-20 19:36:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "芬蘭政府撤回對赫爾辛基花園專案的支援。"
+    },
+    {
+      "id": "4997929",
+      "time": "2026-07-20 19:35:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守80美元/桶，日內跌2.32%。"
+    },
+    {
+      "id": "mkt:019f7f4e-d642-7aab-8e0b-8b6e4a27768e",
+      "time": "2026-07-20 19:35:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "U.S. equity futures rose: Nasdaq-100 futures up more than 1%, S&P 500 futures up 0.57%, Dow futures up 0.43%."
+    },
     {
       "id": "mkt:019f7f4e-8a20-7aab-8e0b-831ce6a6d49c",
       "time": "2026-07-20 19:34:41",
