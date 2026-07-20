@@ -1,7 +1,24 @@
 {
-  "updated": "2026-07-20 08:52:50",
-  "count": 19044,
+  "updated": "2026-07-20 08:56:45",
+  "count": 19041,
   "items": [
+    {
+      "id": "4996500",
+      "time": "2026-07-20 08:55:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【證監會將就穩市場召開專題座談會】據記者從接近監管人士瞭解到，證監會將於7月20日召開上市公司、證券公司及基金機構座談會，聽取各方關於促進資本市場平穩健康發展的意見建議。（財聯社）"
+    },
+    {
+      "id": "4996499",
+      "time": "2026-07-20 08:53:51",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中金財富期貨：整體看油價對黃金的影響相對有限】美伊衝突延續，有海外機構擔憂全球石油戰略儲備等“緩衝墊”已幾近耗盡。市場擔心在徹底失去退路的極端供應危機下，原油與成品油市場會迎來大漲，油價上漲，黃金回落。但整體看油價對黃金的影響相對有限，如果油價就此打住，預計黃金短期內維持震盪走勢。"
+    },
     {
       "id": "4996498",
       "time": "2026-07-20 08:51:38",
@@ -175694,56 +175711,6 @@
         "Importance 1"
       ],
       "text": "Australia Stocks Opens Week on Softer Footing — Australian shares eased in early Monday trade, with the ASX 200 hovering near 8,797 after last week’s strength. Sentiment was dampened by weaker U.S. futures and renewed geopolitical tension, as reports of U.S.–Iran airstrikes and Tehran’s closure of the Strait of Hormuz weighed on risk appetite. Investors also turned cautious ahead of key economic data in top trading partner China later this week, including Q2 GDP and June activity figures, notably industrial output, retail sales, and the jobless rate. Locally, July confidence surveys for households and businesses will also be released, along with inflation expectations. Sector moves were uneven: tech services, industrials, and healthcare slipped, with Northern Star (-2.5%), Coles (-2.0%), Evolution (-1.4%), and Origin (-2.7%) among notable laggards. Meanwhile, miners provided some support, with BHP up 0.5% and Rio Tinto adding 0.2%. Financials were modestly firmer, as three of the big four banks rose between 0.1% and 0.4%."
-    },
-    {
-      "id": "4983304",
-      "time": "2026-07-13 08:56:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月10日579股獲融資買入超億元 中際旭創穫買入78.43億元居首】7月10日共有3465只個股獲融資資金買入，有579股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入78.43億元、67.08億元、33.08億元。"
-    },
-    {
-      "id": "4983303",
-      "time": "2026-07-13 08:54:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利第一大銀行OTP據悉考慮發行點心債籌資至多15億元。"
-    },
-    {
-      "id": "te:markets:566170",
-      "time": "2026-07-13 08:53:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Struggle on MidEast Tensions — The Nikkei 225 Index slipped 0.2% to around 68,400, while the broader Topix Index rose 0.6% to 4,060 in mixed trading on Monday as Japanese equities lacked clear direction amid escalating tensions in the Middle East, keeping inflationary pressures and interest-rate hike expectations in focus. The US and Iran exchanged fresh missile strikes over the weekend amid ongoing disputes over shipping through the Strait of Hormuz, driving oil prices higher. Investors are also awaiting a wave of corporate earnings reports from Wall Street this week, which will serve as a key test of whether the artificial intelligence-driven market rally can be supported by strong corporate results. Among individual stocks, Kioxia Holdings (-1.8%), Taiyo Yuden (-4.8%), and Yaskawa Electric (-14.2%) led the declines, while SUMCO Corp (7.9%), SoftBank Group (2%), and Mitsubishi UFJ (2.4%) posted solid gains."
-    },
-    {
-      "id": "mkt:019f58f6-cdb9-7aab-8d48-8b2fdc9c1748",
-      "time": "2026-07-13 08:53:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude rose 4.00% intraday to $79 per barrel; WTI crude gained nearly 4%."
-    },
-    {
-      "id": "4983302",
-      "time": "2026-07-13 08:52:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍襲擊伊朗一水泵站致1死4傷】據伊朗官方通訊社伊通社今天（7月13日）報道，美軍襲擊伊朗西南部馬赫沙赫爾的一處水泵站，造成1人死亡、4人受傷。（ CCTV國際時訊）"
     }
   ]
 }
