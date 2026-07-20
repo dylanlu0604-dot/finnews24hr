@@ -1,7 +1,130 @@
 {
-  "updated": "2026-07-20 09:54:41",
+  "updated": "2026-07-20 09:58:39",
   "count": 19079,
   "items": [
+    {
+      "id": "4996686",
+      "time": "2026-07-20 09:57:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數翻綠，此前一度漲超3%】科創50指數翻綠，此前一度漲超3%。成分股中，源傑科技跌超13%，生益電子跌超7%。"
+    },
+    {
+      "id": "4996685",
+      "time": "2026-07-20 09:57:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股短劇遊戲板塊異動拉昇】掌閱科技觸及漲停，協創資料、平治資訊、超訊科技、浙文互聯、奧瑞德、博瑞傳播跟漲。"
+    },
+    {
+      "id": "4996684",
+      "time": "2026-07-20 09:57:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股短劇概念板塊異動拉昇】掌閱科技觸及漲停，協創資料、平治資訊、超訊科技、浙文互聯、奧瑞德、博瑞傳播跟漲。"
+    },
+    {
+      "id": "mkt:019f7d3d-20d2-7aab-8dff-0846b768fb85",
+      "time": "2026-07-20 09:56:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "SSE 50 index futures (IH) main contract extended intraday gains to 2.00%, trading at 2,860.6 points."
+    },
+    {
+      "id": "4996683",
+      "time": "2026-07-20 09:56:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗稱兩艘油輪在試圖透過霍爾木茲海峽時發生爆炸】當地時間20日凌晨，伊朗伊斯蘭革命衛隊釋出公告稱，在當地時間19日深夜，兩艘油輪在美軍的唆使和脅迫下，試圖透過霍爾木茲海峽南部航道，隨後發生爆炸並被阻止繼續航行。公告表示，美軍的干涉毫無法律依據，必將受到嚴厲懲罰，“只要美國繼續在該地區作惡，這條航道就不安全，運輸石油、天然氣等產品的船隻都無法安全透過，侵略者軍隊應對其非法侵略行為做好遭到懲罰的準備。”（央視新聞）"
+    },
+    {
+      "id": "4996682",
+      "time": "2026-07-20 09:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方證券：6月美護社零表現領跑 關注業績確定性機會】東方證券釋出研報稱，在整體零售大盤承壓的情況下，美妝品類體現出極強的消費韌性與優異的相對錶現。當前美護板塊基金持倉佔比處歷史低位，市場的悲觀預期已得到較為充分的消化，該行認為後續可以關注以下三個方向：1)業績邊際改善的確定性標的;2)符合K型消費趨勢的高階標的;3)及時佈局海外市場，帶來新增量的標的。"
+    },
+    {
+      "id": "mkt:019f7d3c-548d-7aab-8dff-06a9523a2d73",
+      "time": "2026-07-20 09:55:33",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Korea Exchange activated the KOSDAQ sidecar mechanism; algorithmic trading suspended for 5 minutes."
+    },
+    {
+      "id": "4996681",
+      "time": "2026-07-20 09:55:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【美麗田園預計上半年收入將增長不低於28%】7月20日，美麗田園醫療健康釋出2026年上半年業績預告。公司預計期內收入不低於18.8億元，同比增長不低於28%；淨利潤不低於2.4億元，同比增長不低於37%；經調整淨利潤不少於2.6億元，同比增長不低於36%。此次增長與併購帶來的規模擴張有關。美麗田園於2025年10月完成對思妍麗的收購，後者自2026年1月起並表。併購完成後，美麗田園旗下門店數量增至700家以上。該公司披露，思妍麗上半年淨利率由9%提升至超過10%。"
+    },
+    {
+      "id": "mkt:019f7d3c-07b9-7aab-8dfe-fcac11595f27",
+      "time": "2026-07-20 09:55:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bearish",
+        "005930.KS"
+      ],
+      "text": "South Korea's KOSPI fell again, dropping more than 4%. SK Hynix and Samsung Electronics each declined 4.4%."
+    },
+    {
+      "id": "4996680",
+      "time": "2026-07-20 09:54:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗石油重鎮周邊區域】據伊朗媒體7月19日報道，伊朗西南部石油重鎮阿巴丹市傳出爆炸聲，伊朗方面確認阿巴丹市的郊區當天遭到美軍導彈襲擊，目前沒有造成人員傷亡。據瞭解，阿巴丹是伊朗重要工業城市，多家煉油廠聚集於此。（CCTV國際時訊）"
+    },
+    {
+      "id": "4996679",
+      "time": "2026-07-20 09:54:16",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "首爾股市韓國綜合股價指數（KOSPI）下跌4％。SK海力士和三星電子均跌4.4%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607203812275764",
+      "time": "2026-07-20 09:54:06",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【上海：上半年全市貨物進出口總額達到2.55萬億元 創歷史同期新高】上海市統計局釋出2026年上半年上海市國民經濟執行情況解讀，上半年，全市固定資產投資同比增長6.8%。主要領域中，工業投資、城市基礎設施投資、社會事業投資同比分別增長19.2%、18.8%、19.5%。主要行業中，在三大先導產業蓬勃發展帶動下，智慧模型、算力平臺等領域裝置更新持續加大投入，拉動資訊傳輸、軟體和資訊科技服務業投資同比增長1.4倍。貨物進出口總額創歷史新高。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607203812274738",
+      "time": "2026-07-20 09:54:06",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【上海：上半年全市三大先導產業製造業產值同比增長14.5%】上海市統計局釋出2026年上半年上海市國民經濟執行情況解讀，三大先導產業引領增長。上半年，全市三大先導產業製造業產值同比增長14.5%。其中，積體電路製造業、人工智慧製造業、生物醫藥製造業產值同比分別增長19.5%、21.8%、7.2%。裝備製造業穩步增長。上半年，鐵路、船舶、航空航天和其他運輸裝置製造業產值同比增長15.6%；電氣機械和器材製造業產值在光伏裝置、輸配電等行業帶動下延續快速增長態勢，增長9.8%。"
+    },
     {
       "id": "4996678",
       "time": "2026-07-20 09:54:02",
@@ -175853,148 +175976,6 @@
         "MKT News"
       ],
       "text": "CSI 300 Index slid as much as 1% intraday."
-    },
-    {
-      "id": "4983437",
-      "time": "2026-07-13 09:58:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【普洛藥業新增7個品種納入2026版國家基本藥物目錄】據普洛藥業訊息，7月9日，國家衛生健康委、國家中醫藥局、國家疾控局三部門聯合印發《國家基本藥物目錄（2026年版）》，自2026年9月1日起施行。普洛藥業旗下此次新增7個品種（10個產品）納入國家基藥目錄，覆蓋抗生素、抗病毒、抗癲癇、降壓、呼吸系統多個治療領域。"
-    },
-    {
-      "id": "mkt:019f5932-55b3-7aab-8d4a-e0f7163a5bde",
-      "time": "2026-07-13 09:58:18",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "【SK Hynix falls 10% in Seoul after 13% US debut rally, faces profit-taking pressure】SK Hynix plunged about 10% in Seoul on Monday, dragging the KOSPI, after the memory-chip maker rose 13% in its US trading debut last Friday. A Seoul active-equity manager said the New York gains appear priced in, leaving the stock exposed to large intraday profit-taking and arbitrage unwinds. The $26.5bn US offering — viewed as a barometer of overseas financing demand and the durability of the AI rally — was over 7x oversubscribed despite concerns about elevated AI valuations and capex. SK Hynix is a major supplier of high-bandwidth memory (HBM) for NVIDIA."
-    },
-    {
-      "id": "mkt:019f5932-4c29-7aab-8d4a-da697d86e00f",
-      "time": "2026-07-13 09:58:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component"
-      ],
-      "text": "China's Shanghai Composite Index widened losses to 1%, the Shenzhen Composite fell 1.79% and the ChiNext Index dropped 1.48%."
-    },
-    {
-      "id": "4983436",
-      "time": "2026-07-13 09:58:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際足聯主席：將討論世界盃再擴軍至64隊】國際足聯主席因凡蒂諾當地時間7月12日在接受採訪時表示，關於世界盃進一步擴軍、將決賽圈參賽隊伍增至64支的討論，將在今年這屆賽事結束後進行。他未透露更多細節。2030年世界盃將由摩洛哥、葡萄牙和西班牙聯合承辦（阿根廷、烏拉圭、巴拉圭也將各舉辦一場比賽，以紀念首屆世界盃在烏拉圭舉辦100週年 ）。2034年世界盃則落戶沙烏地阿拉伯。（央視新聞）"
-    },
-    {
-      "id": "4983435",
-      "time": "2026-07-13 09:57:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【A股三大指數均跌超1%】上證指數跌1.01%，現報3955.623點；深證成指跌1.76%，現報14781.910點；創業板指跌1.45%，現報3787.203點。"
-    },
-    {
-      "id": "mkt:019f5931-3c6a-7aab-8d4a-d2ec71c41d13",
-      "time": "2026-07-13 09:57:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "Beijing Stock Exchange 50 Index declines widen to 3%."
-    },
-    {
-      "id": "4983434",
-      "time": "2026-07-13 09:57:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達3.00%，成分股中，天力複合跌15.15%，聚星科技跌9.53%，星圖測控跌9.11%，富士達跌7.17%。"
-    },
-    {
-      "id": "4983433",
-      "time": "2026-07-13 09:56:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林報告至少兩次爆炸。"
-    },
-    {
-      "id": "mkt:019f5930-c980-7aab-8d4a-c99fe4ec765d",
-      "time": "2026-07-13 09:56:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share commercial space sector extended losses; Aerospace Power hit its limit down, and Shanghai Harbor, Aerospace Development, Higer Communications, Tongyu Communications and Shenjian Co. also hit limit down."
-    },
-    {
-      "id": "4983432",
-      "time": "2026-07-13 09:55:55",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【商業航天板塊持續走低，航天動力觸及跌停】商業航天板塊持續走低，航天動力觸及跌停，上海港灣、航天發展、海格通訊、通宇通訊、神劍股份等多股跌停。"
-    },
-    {
-      "id": "mkt:019f592f-747c-7aab-8d4a-c68d5745290a",
-      "time": "2026-07-13 09:55:09",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran launches large-scale strike on U.S. military targets in Gulf】Early hours of July 13 local time, Bahrain again sounded air‑defence alerts. Iranian media reported drones and missiles were launched from multiple locations inside Iran in a large retaliatory strike against U.S. military targets in the Gulf, reportedly aimed at positions identified after U.S. military movements over the past 48 hours."
-    },
-    {
-      "id": "4983431",
-      "time": "2026-07-13 09:54:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗大規模襲擊地區美軍目標】當地時間今天（7月13日）凌晨，巴林再次拉響防空警報。據伊朗媒體報道，伊朗境內不同地區發射無人機和導彈對美國在海灣地區的軍事目標發動大規模報復性襲擊——襲擊針對的是在過去48小時內，美方最新軍事調動後被識別出的目標。（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f592f-103f-7aab-8d4a-bcfdb5611041",
-      "time": "2026-07-13 09:54:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "China A-share biologics sector slid intraday; Oulin Bio fell more than 8%, while Wanze Co., Sihuan Biotech, Jindik and Shenzhou Cell also traded lower."
     }
   ]
 }
