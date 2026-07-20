@@ -1,7 +1,112 @@
 {
   "date": "2026-07-20",
-  "count": 2780,
+  "count": 2792,
   "items": [
+    {
+      "id": "mkt:019f7ff3-fc4b-7aab-8e10-17a9131dcef3",
+      "time": "2026-07-20 22:35:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A White House official said President Trump spoke with new UK Prime Minister Burnham."
+    },
+    {
+      "id": "mkt:019f7ff3-bccf-7aab-8e10-0b2508ba5856",
+      "time": "2026-07-20 22:35:07",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Iran warns Gulf states: cooperating with US against Iran 'unacceptable'】Iran Army spokesman Brigadier General Akbaraminia said the Strait of Hormuz remains firmly under Iranian armed forces' control and warned the US military and its regional partners would face 'serious difficulties' if they tried to use the waterway to strike Iran. He accused some southern Persian Gulf states—long users of the route for billions of dollars of oil exports and imports—of collaborating with the US against Iran and called that unjust and 'completely unacceptable.' Akbaraminia added Iran will sustain fighting until it achieves comprehensive deterrence, warning failure to do so could produce enemy miscalculation and potentially trigger an invasion of Iranian territory."
+    },
+    {
+      "id": "4998248",
+      "time": "2026-07-20 22:34:56",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "7月20日，國務院總理李強致電安迪·伯納姆，祝賀他就任英國首相。（新華社）"
+    },
+    {
+      "id": "mkt:019f7ff3-52a8-7aab-8e10-05fa3bb4c8da",
+      "time": "2026-07-20 22:34:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "On July 20, CHINA'S LI phoned Andy Burnham to congratulate him on assuming office as UK prime minister."
+    },
+    {
+      "id": "4998247",
+      "time": "2026-07-20 22:34:39",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家颶風中心風暴公告：埃莉達已變性為溫帶後氣旋。"
+    },
+    {
+      "id": "4998246",
+      "time": "2026-07-20 22:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，福斯托（Fausto）氣旋強度持續增強，預計將很快增強為颶風。"
+    },
+    {
+      "id": "4998245",
+      "time": "2026-07-20 22:34:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：貝萊德計劃為資料中心籌集超過120億美元的債務。"
+    },
+    {
+      "id": "4998244",
+      "time": "2026-07-20 22:33:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 加拿大阿斯彭製藥旗下阿斯彭司美格魯肽獲審批透過。"
+    },
+    {
+      "id": "4998243",
+      "time": "2026-07-20 22:33:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "密歇根州衛生部門：截至7月20日，報告圓孢子蟲病病例總數達6,148例。"
+    },
+    {
+      "id": "4998242",
+      "time": "2026-07-20 22:32:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通近期重新建立了做多英鎊兌歐元、瑞士法郎和瑞典克朗的頭寸。該行預計，歐元兌英鎊第三季度將在0.87一線，此前預期為0.88；預計該匯率第四季度將在0.88，此前預期為0.89；目前該貨幣對約為0.85。"
+    },
+    {
+      "id": "4998241",
+      "time": "2026-07-20 22:32:07",
+      "tags": [
+        "央行",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根大通：英國“政策真空期”將給英鎊帶來走強機會】摩根大通外匯業務全球聯席主管Meera Chandan表示，在英國首相安迪·伯納姆公佈秋季預算案之前的“政策真空期”，英鎊將受到其相對較高收益率的支撐。預算案將使其財政政策更加明朗。在預算案公佈——通常是在11月份——之前，英鎊的交易將“取決於更為切實的因素，即經濟增長情況以及英國央行將如何應對”。“經濟增長帶來上行意外，其表現好於英國央行的預測，也好於市場一致預期”；英鎊作為G10貨幣中收益率最高幣種的地位，“使英鎊保持了相當強的韌性”。"
+    },
+    {
+      "id": "4998240",
+      "time": "2026-07-20 22:31:46",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美債期貨市場倉位分化：5年期合約遭大幅平倉，資金向8月聯邦基金期貨集中 】據芝加哥商品交易所（CME）公佈的最新未平倉合約資料顯示，美債及利率期貨市場正經歷顯著的倉位調整，不同期限合約的未平倉量呈現明顯的分化態勢。在國債期貨方面，5年期美國國債合約連續第二個交易日遭遇平倉，未平倉合約量大幅下降約3.4萬張（相當於每基點下降約150萬美元），創下6月30日以來的最大平倉幅度。與此同時，2年期國債合約未平倉量已連續第四個交易日下降，四個交易日累計降幅相當於每基點下降約500萬美元。相比之下，10年期和超10年期國債的未平倉合約量則出現了增加。在利率衍生品市場，大多數SOFR（有擔保隔夜融資利率）期貨期限的未平倉合約均出現下降，其中2027年到期的四份合約每基點下跌約160萬美元。而在聯邦基金期貨方面，7月合約的未平倉合約量下降近2.1萬份，跌至6月23日以來的最低水平；與之形成鮮明對比的是，8月合約的未平倉合約量延續了上升勢頭，目前已接近80萬份，是7月合約的兩倍多。這一倉位變動表明，隨著7月合約到期臨近，交易員正加速平倉或移倉。資金正顯著向8月聯邦基金期貨集中，反映出市場對美聯儲8月利率決議的高度關注與博弈正在升溫。"
+    },
     {
       "id": "mkt:019f7fef-d7bd-7aab-8e0f-fa8aff1ee55d",
       "time": "2026-07-20 22:30:52",
