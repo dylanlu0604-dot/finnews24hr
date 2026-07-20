@@ -1,7 +1,79 @@
 {
   "date": "2026-07-20",
-  "count": 2621,
+  "count": 2628,
   "items": [
+    {
+      "id": "4998148",
+      "time": "2026-07-20 21:20:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會建議各成員國豁免2027年至2029年間違反甲烷排放法規企業的處罰。"
+    },
+    {
+      "id": "4998147",
+      "time": "2026-07-20 21:19:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中文線上：今年末公司AI短劇年化產能有望達3000部】中文線上日前在路演活動上表示，目前公司AI短劇業務展現出強勁的增長勢頭，行業頭部客戶訂單量需求旺盛。預計到2026年末，公司AI短劇年化產能有望達3000部，較去年同期呈現數倍增長，有望對公司未來業務表現帶來積極作用。"
+    },
+    {
+      "id": "mkt:019f7fad-f7bf-7aab-8e0e-542e4cee1384",
+      "time": "2026-07-20 21:18:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. State Department said that under the tripartite framework and chaired by the Lebanese Military Coordination Group, the Lebanese army has begun \"pilot-zone\" operations in the villages of Froun, Srifa and Zawtar al-Gharbiyah to achieve Hezbollah demilitarization."
+    },
+    {
+      "id": "mkt:019f7fad-44a9-7aab-8e0e-4846508a455d",
+      "time": "2026-07-20 21:18:08",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bearish"
+      ],
+      "text": "Goldman Sachs says hedge funds are selling US technology stocks at a record pace."
+    },
+    {
+      "id": "mkt:019f7fac-bf04-7aab-8e0e-47705b47d331",
+      "time": "2026-07-20 21:17:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Fars News Agency reported the Islamic Revolutionary Guard Corps claimed to have struck Bahrain's Sakhir air base, Salman Port and Kuwait's Camp Arifjan."
+    },
+    {
+      "id": "mkt:019f7fac-70da-7aab-8e0e-3da0e3c4d197",
+      "time": "2026-07-20 21:17:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "SC crude most-active contract fell 2.00% intraday to 526.80 yuan/barrel."
+    },
+    {
+      "id": "mkt:019f7fab-bd63-7aab-8e0e-3574165f7beb",
+      "time": "2026-07-20 21:16:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "Copper",
+        "Impact bearish",
+        "S&P500",
+        "Impact mixed"
+      ],
+      "text": "【Baltic dry-bulk index falls to two-week low】The Baltic Dry Index fell 81 points (-2.94%) to 2,671, its lowest since July 2. The Capesize index (BCI) dropped 208 points (-5.1%) to 3,889, also a July 2 low; Capesize daily earnings slid $1,885 to $31,768. Capesizes typically carry ~150,000 dwt of iron ore and coal. The Panamax index (BPI) fell 21 points (-0.9%) to 2,227; Panamax daily earnings fell $191 to $20,045. The Supramax index (BSI) rose 1 point (0.06%) to 1,738, its highest since August 2022. The Handysize index (BHSI) eased 2 points to 901."
+    },
     {
       "id": "4998146",
       "time": "2026-07-20 21:16:07",
