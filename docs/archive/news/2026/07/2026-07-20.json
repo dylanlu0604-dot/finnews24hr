@@ -1,7 +1,137 @@
 {
   "date": "2026-07-20",
-  "count": 1598,
+  "count": 1612,
   "items": [
+    {
+      "id": "mkt:019f7e93-c401-7aab-8e06-20368e166a4a",
+      "time": "2026-07-20 16:10:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iraqi militia says it will fight if US expands \"aggression\" against Iran】Iraqi militia group Islamic Resistance said on the 20th that if the US further expands its \"aggression\" against Iran the group will directly enter combat and will strike all US interests and military bases in Iraq and the Middle East. The group added it had not carried out any attacks on US bases in Iraq or the region in recent days."
+    },
+    {
+      "id": "4997363",
+      "time": "2026-07-20 16:10:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【森特股份：控股股東累計增持公司股份524.31萬股 佔總股本0.97%】森特股份公告稱，控股股東、董事長兼總經理劉愛森計劃自2025年12月25日起12個月內，增持不低於1億元、不超總股本2%的公司股份。2026年1月24日至7月20日，劉愛森透過集中競價增持383.13萬股。截至公告日，其已累計增持524.31萬股，佔總股本0.97%，累計增持金額7551.11萬元。後續將以自有或自籌資金繼續增持，該計劃可能因市場變化等無法實施。"
+    },
+    {
+      "id": "mkt:019f7e93-497a-7aab-8e06-1bb0cccbb5cd",
+      "time": "2026-07-20 16:10:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "GBPUSD"
+      ],
+      "text": "【Rising oil lifts bets on Bank of England hikes】Brent topped $90/bbl after weekend escalation in US‑Iran hostilities, heightening inflation concerns and lifting market bets on Bank of England rate hikes in the coming months. Markets now price a total of 42bps of hikes to Bank Rate in 2026, 4bps higher than on Friday."
+    },
+    {
+      "id": "te:markets:568189",
+      "time": "2026-07-20 16:10:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Rises by 2.26% — Top commodity gainers are Oat (2.26%), Cotton (0.94%) and Corn (0.70%). Biggest loser is Rubber (-0.51%)."
+    },
+    {
+      "id": "mkt:019f7e92-833b-7aab-8e06-159a35b48795",
+      "time": "2026-07-20 16:09:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "HSI",
+        "Impact bullish",
+        "02513.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks closed higher: HSI +2.36%, Hang Seng Tech Index +2.79%. Sector gains led by coal, oil, biopharmaceuticals and mainland banks; PCB, power equipment and brain-computer interface stocks lagged. Zhipu (02513.HK) fell 19.56%."
+    },
+    {
+      "id": "4997362",
+      "time": "2026-07-20 16:09:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲2.365%，恒生科技指數漲2.790%】商湯-W漲5.426%，中國海洋石油漲5.106%，石藥集團漲4.938%，華潤電力漲4.623%，快手-W漲4.390%，中國鋁業漲4.336%，老鋪黃金漲4.286%。"
+    },
+    {
+      "id": "4997361",
+      "time": "2026-07-20 16:08:50",
+      "tags": [
+        "市場",
+        "其他",
+        "焦點"
+      ],
+      "text": "【考慮延長股票交易時間，取消午休時段？港交所回應】20日，市場傳聞稱“香港交易所考慮延長股票交易時間，取消午休時段”，對此，港交所回應稱，香港交易所一直致力於提升香港作為國際金融中心的競爭力，目前正在研究包括延長交易時段在內的多項提升市場便利性的措施，但當前首要工作是研究延長衍生產品市場交易時段的建議，而不是股票交易時間。（中新經緯）"
+    },
+    {
+      "id": "mkt:019f7e92-042f-7aab-8e06-08ab9924fb32",
+      "time": "2026-07-20 16:08:46",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US gasoline prices breach $4/gal again after one month】US gasoline prices rose above $4 per gallon for the first time in a month as escalation of the US‑Iran war tightened global transport‑fuel supplies and widened an energy squeeze. The AAA daily survey shows the national average for regular unleaded at $4.003/gal."
+    },
+    {
+      "id": "4997360",
+      "time": "2026-07-20 16:07:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思泉新材：控股股東及其一致行動人持股比例被動稀釋至25.54%】思泉新材公告稱，2025年度公司向特定物件發行323.82萬股人民幣普通股（A股），發行價格為143.88元/股，發行完成後公司總股本由1.13億股變更為1.16億股。控股股東、實際控制人任澤明及其一致行動人深圳眾森不是認購物件，持股數量未變，合計持股比例由26.27%被動稀釋至25.54%，權益變動觸及1%整數倍。本次權益變動不會導致控股股東、實際控制人發生變化。"
+    },
+    {
+      "id": "4997359",
+      "time": "2026-07-20 16:07:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【武商集團：完成2023年度第一期9.4億元中期票據兌付】武商集團公告稱，公司已於2026年7月19日按期完成“23武商MTN001”中期票據的兌付。該票據於2023年7月17 - 18日發行，金額9.4億元，期限3年，票面利率3.3%。本次兌付相關情況可查閱中國貨幣網、上海清算所。"
+    },
+    {
+      "id": "4997358",
+      "time": "2026-07-20 16:07:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "空中客車歐洲公司：英國國家警察航空局追加訂購兩架空客H135直升機。"
+    },
+    {
+      "id": "mkt:019f7e8f-c180-7aab-8e06-010e8d02ab83",
+      "time": "2026-07-20 16:06:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran’s foreign ministry spokesman said Iran’s interior minister is due to make a scheduled bilateral visit to Pakistan today to hold talks on areas under the two interior ministries’ remit, with a focus on strengthening border and security cooperation."
+    },
+    {
+      "id": "4997357",
+      "time": "2026-07-20 16:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家糧食和物資儲備局局長劉煥鑫赴上海調研應急儲備物資保障工作】7月19日，國家發展和改革委員會黨組成員，國家糧食和物資儲備局黨組書記、局長劉煥鑫帶隊赴上海市，圍繞紮實做好應急儲備物資保障工作進行調研。劉煥鑫強調，確保物資儲得好是做好應急儲備工作的重要方面。要持續夯實應急儲備物資管理基礎，完善相關制度，最佳化作業流程，緊盯操作細節，對物資實行分類管理、分割槽存放，加大在庫物資維護保養和巡查巡檢力度，發現問題及時處置，不斷提升儲備庫管理規範化、標準化、精細化水平。要嚴把物資出庫關，強化垂直管理局監管責任和儲備倉庫主體責任落實，切實做到應急儲備物資數量真實、質量良好。"
+    },
     {
       "id": "4997356",
       "time": "2026-07-20 16:05:39",
@@ -52,6 +182,15 @@
         "MKT News"
       ],
       "text": "【State Administration for Market Regulation to further cut individual merchants' digitalization costs by end-2027】The State Administration for Market Regulation office issued an Action Plan directing platform companies to support individual merchants' digital transition. By end-2027 the plan will deliver a rolling set of 'five-batch' outputs: launch targeted, fast-delivery assistance measures; cultivate a cohort of distinctive, transformation-ready quality merchants; design practical, demand-led training courses; build tangible digital application scenarios; and select replicable innovation cases. The objective is to establish a long-term practice for platform-enabled support, lower merchants' digitalization costs, improve the business environment and boost sustainable income capacity."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607203813274866",
+      "time": "2026-07-20 16:03:44",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行SAFE調查：一年、三年及五年期通脹預期仍大致持穩】歐洲央行SAFE調查顯示，一年、三年及五年期通脹預期仍大致持穩，企業預期銷售價格、勞動以外投入成本以及薪資預期漲幅將縮小。"
     },
     {
       "id": "4997352",
