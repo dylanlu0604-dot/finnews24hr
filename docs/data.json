@@ -1,7 +1,189 @@
 {
-  "updated": "2026-07-20 21:29:55",
-  "count": 19199,
+  "updated": "2026-07-20 21:34:05",
+  "count": 19202,
   "items": [
+    {
+      "id": "mkt:019f7fbb-3d62-7aab-8e0e-9bc01fd7ea87",
+      "time": "2026-07-20 21:33:17",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Kuwait's military said it is intercepting missiles and drones."
+    },
+    {
+      "id": "mkt:019f7fba-ef32-7aab-8e0e-947628a36da3",
+      "time": "2026-07-20 21:33:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CENTCOM said US Marines replaced the transmission on a HIMARS vehicle during a Middle East deployment. CENTCOM added military logistics and sustainment personnel remain mission-ready to support the force’s operational readiness."
+    },
+    {
+      "id": "4998174",
+      "time": "2026-07-20 21:32:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "AMC娛樂控股股價上漲17.7%，此前該公司公佈第二季度調整後每股收益高於市場預期。"
+    },
+    {
+      "id": "4998173",
+      "time": "2026-07-20 21:32:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍方宣告稱，其正在攔截導彈與無人機。"
+    },
+    {
+      "id": "4998172",
+      "time": "2026-07-20 21:32:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局表示，波音737 MAX 7、MAX 10兩款機型預計很快將獲得認證，波音股價上漲1%。"
+    },
+    {
+      "id": "4998171",
+      "time": "2026-07-20 21:32:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "高通<QCOM.O>：瑞銀將目標價從235美元下調至190美元。"
+    },
+    {
+      "id": "4998170",
+      "time": "2026-07-20 21:32:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "TEMPUS AI股價下跌7.3%，PERSONALIS股價暴跌12%。"
+    },
+    {
+      "id": "4998169",
+      "time": "2026-07-20 21:32:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "HubSpot股價下跌3.1%，此前富國銀行將其評級從增持下調至持股觀望。"
+    },
+    {
+      "id": "4998168",
+      "time": "2026-07-20 21:31:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "科磊公司<KLA Corp>：瑞銀下調目標價至240美元，原為255美元。"
+    },
+    {
+      "id": "mkt:019f7fb9-da71-7aab-8e0e-8d8558d088ce",
+      "time": "2026-07-20 21:31:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Alarms sounded in Kuwait."
+    },
+    {
+      "id": "4998167",
+      "time": "2026-07-20 21:31:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀將迪士尼目標價由 138 美元下調至 133 美元。"
+    },
+    {
+      "id": "mkt:019f7fb9-8c42-7aab-8e0e-81f06494cded",
+      "time": "2026-07-20 21:31:24",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【US equity short positions hit record highs as AI-driven rally raises concern】Short positions in US equities have climbed to record levels amid doubts about the sustainability of an AI-driven rally. S&P 500 constituents' short interest as a share of free float rose to 3.79%, a record in S3 Partners' data series dating to 2010, while Russell 3000 constituents' ratio climbed to 6.3%, also a record. The moves follow an S&P 500 gain of about 18% since end-March. Shorting has generally been an unsuccessful trade this year, but shorting activity and the universe of shorted stocks have expanded, S3 Partners LLC head of predictive analytics Ihor Dusaniwsky said."
+    },
+    {
+      "id": "mkt:019f7fb9-798f-7aab-8e0e-7a707e463d56",
+      "time": "2026-07-20 21:31:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "At the open on Monday, July 20, the Dow Jones Industrial Average rose 187.31 points (0.36%) to 52,333.73; the S&P 500 gained 44.33 points (0.59%) to 7,502.01; the Nasdaq Composite added 223.33 points (0.88%) to 25,743.58."
+    },
+    {
+      "id": "4998166",
+      "time": "2026-07-20 21:30:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特拉響警報。"
+    },
+    {
+      "id": "4998165",
+      "time": "2026-07-20 21:30:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大航空與空中客車將向加拿大可持續航空燃料產業投資至多1370萬加元，約合1000萬美元。"
+    },
+    {
+      "id": "4998164",
+      "time": "2026-07-20 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.29%，標普500指數漲0.53%，納指漲0.84%。達美樂比薩漲6.98%，Lumentum Holdings Inc. Common Stock When Issued漲5.42%，泰瑞達漲5.31%，Coherent Corp漲4.66%，閃迪漲4.49%。“七姐妹”方面：谷歌漲2.18%，英偉達漲1.45%，亞馬遜漲0.86%，特斯拉漲0.72%，蘋果跌0.12%，Meta Platforms跌0.34%，微軟跌0.90%。"
+    },
+    {
+      "id": "4998163",
+      "time": "2026-07-20 21:30:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "達美樂披薩股價上漲6.8%，創下自2025年1月以來最大盤中漲幅。"
+    },
+    {
+      "id": "4998162",
+      "time": "2026-07-20 21:30:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數漲超1%，金山雲漲4.93%，阿里巴巴漲3.24%，百度漲3.57%，京東漲2.90%，嗶哩嗶哩漲2.88%。"
+    },
+    {
+      "id": "4998161",
+      "time": "2026-07-20 21:30:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【王曉暉主持召開四川省委財經委員會第十三次會議強調：始終保持高質量發展戰略定力，奮力推動經濟實現質的有效提升和量的合理增長】7月20日，四川省委財經委員會第十三次會議召開，省委書記、省委財經委員會主任王曉暉主持會議並講話。他強調，要深入貫徹習近平總書記對四川工作系列重要指示精神和黨中央決策部署，始終保持高質量發展戰略定力，錨定目標全力以赴補齊短板弱項，奮力推動經濟實現質的有效提升和量的合理增長。會議指出，要堅決穩住投資底線，全力扭轉負增長態勢。要堅持投資於物和投資於人協同發力，積極向上爭取“兩重”“兩新”等專案支援和各類資金支援，做好專案全生命週期服務管理，加力推進“六張網”規劃建設各項工作，推動投資止跌回升。要重視發揮投資基金的作用，進一步完善全省投資基金政策體系、運作模式和考評機制，堅持投早、投小、投長期、投硬科技，培育形成多元化、高質效的耐心資本生態。要發揮政府投資引導基金“四兩撥千斤”作用，吸引更多龍頭資本、創投機構參與我省重大戰略科技力量建設和重點產業培育發展；進一步增強國資國企基金的專業化運營效能，確保規範執行、風險可控；深化投融資體制改革，規範實施政府和社會資本合作新機制，不斷擴寬市場化投資空間、激發社會投資活力。（四川釋出）"
+    },
+    {
+      "id": "4998160",
+      "time": "2026-07-20 21:30:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【特種領域獲取訂單受限三年，智明達收上交所監管工作函】7月20日，上交所就智明達相關重要事項下發監管工作函，涉及物件為上市公司。智明達同日公告，因特殊事項影響，從即日起三年，公司在特種領域獲取訂單受限，預計對公司生產經營和財務狀況產生一定負面影響。目前公司整體生產經營活動正常，已簽訂的合同預計不受影響。"
+    },
+    {
+      "id": "4998159",
+      "time": "2026-07-20 21:29:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀將泰瑞達公司（股票程式碼：TER.O）目標價從440美元上調至500美元。"
+    },
     {
       "id": "4998158",
       "time": "2026-07-20 21:27:51",
@@ -176741,180 +176923,6 @@
         "Importance 1"
       ],
       "text": "ConocoPhillips Stock Price Hits 4-week High — ConocoPhillips shares increased to 111.97 USD, the highest since June 2026. Over the past 4 weeks, ConocoPhillips lost 0.49%, and in the last 12 months, it increased 18.63%."
-    },
-    {
-      "id": "te:markets:566416",
-      "time": "2026-07-13 21:33:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Oracle Stock Price Hits 13-week Low — Oracle shares decreased to 137.53 USD, the lowest since April 2026. Over the past 4 weeks, Oracle lost 28.24%, and in the last 12 months, it decreased 39.71%."
-    },
-    {
-      "id": "te:markets:566415",
-      "time": "2026-07-13 21:33:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "CIBC Stock Price Hits All-time High — CIBC shares increased to an all-time high of 167.53 CAD. Over the past 4 weeks, CIBC gained 7.15%, and in the last 12 months, it increased 67.15%."
-    },
-    {
-      "id": "4984959",
-      "time": "2026-07-13 21:32:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "TRICO BANCSHARES開盤上漲8.1%，FIRST HAWAIIAN下跌9.5%。"
-    },
-    {
-      "id": "mkt:019f5bad-bb32-7aab-8d5c-639bb80bd339",
-      "time": "2026-07-13 21:32:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. Federal Aviation Administration said it has closed its probe into the anomaly on SpaceX’s Starship 12th flight, clearing a regulatory obstacle for the 13th test flight planned for this week."
-    },
-    {
-      "id": "mkt:019f5bad-a494-7aab-8d5c-5ad69cbdad81",
-      "time": "2026-07-13 21:32:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Climate-tech deal volume hits record; power demand fuels market】Currence said global climate-tech M&A and listings hit a record in 1H 2026 with 153 transactions, up 70% YoY; acquisitions were the largest component, rising roughly 65% YoY. The sector staged its busiest IPO window since 1H 2022, with 17 climate-tech listings raising $6.7 bln in 1H. Activity is concentrated in energy-related technologies—over one-third of acquisition targets were in energy and nearly 60% of IPOs were energy firms. B Capital partner Jeff Johnson said investors are targeting technologies to power AI data centers and broader electrification; global data-center power demand is expected to more than double by 2030, and public markets are beginning to recognise many such companies’ value."
-    },
-    {
-      "id": "4984958",
-      "time": "2026-07-13 21:32:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城半導體指數下跌3.2%。"
-    },
-    {
-      "id": "mkt:019f5bad-6497-7aab-8d5c-54262df23c68",
-      "time": "2026-07-13 21:31:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Jiangsu provincial government signs strategic cooperation agreement with Sugon】Jiangsu provincial government and Sugon (Dawning Information Industry Co.) signed a strategic cooperation agreement in Nanjing on July 11. Jiangsu Governor Liu Xiaotao said the province is a major integrated-circuit cluster with a relatively complete industry and innovation ecosystem, providing a strong basis and wide scope for deeper collaboration. The province urged Sugon to support construction of the \"Guanghe Space\", increase technology, capital and resource investment in Jiangsu to better back foundation models and intelligent-agent applications, and attract upstream and downstream ecosystem firms; Jiangsu said it will continue to optimize the business environment and advance practical cooperation to a higher level."
-    },
-    {
-      "id": "mkt:019f5bad-3298-7aab-8d5c-4cd5b7e81e68",
-      "time": "2026-07-13 21:31:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities at open July 13 (Mon): Dow Jones opened up 76.87 pts (+0.15%) at 52,713.88; S&P 500 opened down 13.95 pts (-0.18%) at 7,561.44; Nasdaq Composite opened down 170.86 pts (-0.65%) at 26,110.75."
-    },
-    {
-      "id": "4984957",
-      "time": "2026-07-13 21:31:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "德克斯戶外用品股價上漲約2%，此前傑富瑞將其評級上調至\"買入\"。"
-    },
-    {
-      "id": "mkt:019f5bad-0d58-7aab-8d5c-44e2b1e9f50f",
-      "time": "2026-07-13 21:31:35",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Qatar's Foreign Ministry said countries must now reduce tensions to consolidate the basis for security and stability."
-    },
-    {
-      "id": "4984956",
-      "time": "2026-07-13 21:31:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士ADR下跌9.3%，此前首爾股市創下歷史最大跌幅。"
-    },
-    {
-      "id": "4984955",
-      "time": "2026-07-13 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指漲0.06%，標普500指數跌0.30%，納指跌0.74%。閃迪跌6.93%，西部資料跌6.66%，Epam Systems漲4.36%，高知特漲3.92%。“七姐妹”方面：微軟漲0.96%，蘋果漲0.71%，亞馬遜漲0.06%，Meta Platforms跌0.05%，谷歌跌0.41%，英偉達跌0.86%，特斯拉跌1.47%。"
-    },
-    {
-      "id": "4984954",
-      "time": "2026-07-13 21:30:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "多倫多證券交易所指數.GSPTSE開盤下跌18.24點，跌幅0.05%，報35,287.07點。"
-    },
-    {
-      "id": "mkt:019f5bac-448f-7aab-8d5c-3b1d2bcf2cf2",
-      "time": "2026-07-13 21:30:44",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "SKHY.O",
-        "Impact bearish",
-        "SNDK.O",
-        "MU.O"
-      ],
-      "text": "US stocks at the open: Dow Jones +0.08%, S&P 500 -0.32%, Nasdaq -0.73%. Tech-led losses: SK Hynix (SKHY.O) down >8%, SanDisk (SNDK.O) down >6%, Micron Technology (MU.O) down 5%, Intel (INTC.O) down 4%, Qualcomm (QCOM.O) down 1%."
-    },
-    {
-      "id": "mkt:019f5bac-2659-7aab-8d5c-354bbc293be2",
-      "time": "2026-07-13 21:30:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Navigation warning: Bohai Sea live-fire exercises to close waters July 14-17】Tangshan Maritime Safety Administration posted on the China Maritime Safety Administration website that live-fire exercises will be conducted in parts of the Bohai Sea from 00:00 on July 14 to 24:00 on July 17; entry into the affected waters is prohibited."
-    },
-    {
-      "id": "4984953",
-      "time": "2026-07-13 21:30:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，華住酒店集團漲0.17%。"
-    },
-    {
-      "id": "4984952",
-      "time": "2026-07-13 21:30:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告 渤海執行軍事任務】據中國海事局網站訊息，唐山海事局釋出航行警告，7月14日0時至7月17日24時，渤海部分海域進行實彈射擊活動，禁止駛入。"
-    },
-    {
-      "id": "4984951",
-      "time": "2026-07-13 21:30:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴西起草新規允許私人合作伙伴參與鈾礦開採。"
     }
   ]
 }
