@@ -1,7 +1,26 @@
 {
   "date": "2026-07-21",
-  "count": 166,
+  "count": 168,
   "items": [
+    {
+      "id": "4998431",
+      "time": "2026-07-21 03:22:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗革命衛隊公共關係辦公室稱，昨晚一枚美軍巡航導彈在克爾曼省南魯德巴爾上空被成功追蹤並攔截摧毀。 此次攔截行動由部署在克爾曼的伊朗革命衛隊先進防空系統執行，整套系統接入全國一體化防空網路協同運作。"
+    },
+    {
+      "id": "mkt:019f80fa-d5f8-7aab-8e14-1fc8c418936f",
+      "time": "2026-07-21 03:22:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fars News: Iran's deputy secretary of the Supreme National Security Council, Bagheri, said the Strait of Hormuz is a decisive 'lever' for Iran and that Tehran will make no concessions on the issue."
+    },
     {
       "id": "4998430",
       "time": "2026-07-21 03:15:16",
