@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-21 00:08:39",
-  "count": 19193,
+  "updated": "2026-07-21 00:12:43",
+  "count": 19189,
   "items": [
+    {
+      "id": "te:markets:568293",
+      "time": "2026-07-21 00:11:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.06% Higher — The DAX Index rose 16 points or 0.06 percent on Monday to close at 24847 points. Leading the gains are RWE (3.57%), Siemens Energy (3.37%) and Fresenius (3.04%). Top losers were Brenntag (-2.38%), Bayer (-2.37%) and HeidelbergCement (-1.67%)."
+    },
+    {
+      "id": "4998348",
+      "time": "2026-07-21 00:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "原首相首席秘書達倫・瓊斯正式退出本屆政府內閣，宣稱不會進入新一屆內閣。"
+    },
+    {
+      "id": "mkt:019f804a-e4d8-7aab-8e12-5c2fc08cfa76",
+      "time": "2026-07-21 00:10:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said as of July 20 US forces had forced seven merchant vessels to divert and disabled one merchant vessel to prevent ships from entering or leaving Iranian ports."
+    },
+    {
+      "id": "te:markets:568292",
+      "time": "2026-07-21 00:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.15% Higher — The CAC 40 Index gained 13 points or 0.15 percent on Monday to close at 8352 points. Gains were led by STMicroelectronics (5.54%), Dassault Systemes (1.45%) and Edenred (1.43%). Biggest losers were Saint-Gobain (-1.62%), LVMH (-1.45%) and Airbus (-1.31%)."
+    },
     {
       "id": "mkt:019f8048-21cb-7aab-8e12-54399465f9b3",
       "time": "2026-07-21 00:07:18",
@@ -176706,82 +176751,6 @@
         "Importance 0"
       ],
       "text": "FTSE MIB Edges Higher — The FTSE MIB gained 0.4% to close at 52,809 on Monday, supported by broad-based gains across sectors. Oil major Eni led the index, climbing 3.9% as oil prices advanced amid heightened uncertainty over the Strait of Hormuz, despite conflicting claims over whether the waterway remained open. Tenaris followed with a 1.7% gain, while utility stocks also advanced as higher temperatures increase electricity demand for cooling. Stellantis added 2.6% on reports of stronger growth in North America, its most important market. Inwit rose 2.2% after a Milan court suspended TIM's withdrawal from their MSA. Financial stocks were also higher, with FinecoBank, Banca Monte dei Paschi di Siena (BMPS) and Mediobanca each gaining more than 1%. Meanwhile, the defense sector lagged, along with the technology sector after SK Hynix plunged 17% in Seoul amid renewed concerns over excessive valuations of artificial intelligence, with Leonardo (-1.3%), Prysmian (-1.3%) and Avio (-1.2%) leading the declines."
-    },
-    {
-      "id": "te:markets:566482",
-      "time": "2026-07-14 00:12:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.37% Higher — The FTSE MIB Index went up by 195 points or 0.37 percent on Monday to close at 52809 points. The rise was led by Eni (3.88%), Stellantis N.V. (2.42%) and Infrastrutture Wire (2.29%). On the downside, the weakerst performers were Prysmian (-1.91%), Leonardo SpA (-1.83%) and Avio (-1.20%)."
-    },
-    {
-      "id": "te:markets:566481",
-      "time": "2026-07-14 00:11:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.19% Higher — The DAX Index rose 47 points or 0.19 percent on Monday to close at 25114 points. Leading the gains are Brenntag (3.63%), Deutsche Boerse (2.97%) and Siemens Healthineers (2.75%). Top losers were Infineon (-2.88%), Rheinmetall (-2.75%) and MTU Aero Engines AG (-2.62%)."
-    },
-    {
-      "id": "te:markets:566480",
-      "time": "2026-07-14 00:10:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.09% Higher — The CAC 40 Index gained 7 points or 0.09 percent on Monday to close at 8346 points. Gains were led by Edenred (4.29%), TP (3.76%) and Capgemini (2.99%). Biggest losers were Safran (-2.14%), Accor (-1.96%) and Legrand (-1.60%)."
-    },
-    {
-      "id": "4985151",
-      "time": "2026-07-14 00:10:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯能源部長與伊朗總統舉行會晤，（伊方表示）我們已準備好掃清落實俄伊各項協議道路上的一切障礙。"
-    },
-    {
-      "id": "mkt:019f5c3e-07c4-7aab-8d5f-c05872ec0abf",
-      "time": "2026-07-14 00:09:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's energy minister said Russia, like the Islamic Republic of Iran, will not yield to external pressure, bullying or coercive, power-based policies."
-    },
-    {
-      "id": "4985150",
-      "time": "2026-07-14 00:09:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：國會山警方在美國國會大廈北側路障處逮捕一名持槍男子。"
-    },
-    {
-      "id": "mkt:019f5c3d-6dca-7aab-8d5f-bf965e7d9979",
-      "time": "2026-07-14 00:09:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian President PEZESHKIAN said Iran and Russia reject unilateralism and the imposition of will on other countries."
-    },
-    {
-      "id": "mkt:019f5c3d-1ee4-7aab-8d5f-b5474c6bb06a",
-      "time": "2026-07-14 00:08:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's energy minister met with Iran's president, Iranian media reported."
     }
   ]
 }

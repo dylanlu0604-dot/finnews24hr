@@ -1,7 +1,52 @@
 {
   "date": "2026-07-21",
-  "count": 13,
+  "count": 17,
   "items": [
+    {
+      "id": "te:markets:568293",
+      "time": "2026-07-21 00:11:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.06% Higher — The DAX Index rose 16 points or 0.06 percent on Monday to close at 24847 points. Leading the gains are RWE (3.57%), Siemens Energy (3.37%) and Fresenius (3.04%). Top losers were Brenntag (-2.38%), Bayer (-2.37%) and HeidelbergCement (-1.67%)."
+    },
+    {
+      "id": "4998348",
+      "time": "2026-07-21 00:10:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "原首相首席秘書達倫・瓊斯正式退出本屆政府內閣，宣稱不會進入新一屆內閣。"
+    },
+    {
+      "id": "mkt:019f804a-e4d8-7aab-8e12-5c2fc08cfa76",
+      "time": "2026-07-21 00:10:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said as of July 20 US forces had forced seven merchant vessels to divert and disabled one merchant vessel to prevent ships from entering or leaving Iranian ports."
+    },
+    {
+      "id": "te:markets:568292",
+      "time": "2026-07-21 00:10:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.15% Higher — The CAC 40 Index gained 13 points or 0.15 percent on Monday to close at 8352 points. Gains were led by STMicroelectronics (5.54%), Dassault Systemes (1.45%) and Edenred (1.43%). Biggest losers were Saint-Gobain (-1.62%), LVMH (-1.45%) and Airbus (-1.31%)."
+    },
     {
       "id": "mkt:019f8048-21cb-7aab-8e12-54399465f9b3",
       "time": "2026-07-21 00:07:18",
