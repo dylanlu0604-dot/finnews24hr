@@ -1,7 +1,29 @@
 {
   "date": "2026-07-21",
-  "count": 157,
+  "count": 159,
   "items": [
+    {
+      "id": "mkt:019f80ec-b83a-7aab-8e14-0042f5bae2de",
+      "time": "2026-07-21 03:07:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump signals US military may strike Iran after recent U.S. casualties】Trump posted on social media on the 20th saying that, after recent U.S. personnel casualties, the military will carry out a strong retaliation against Iran. He warned “for every American soldier Iran kills it will pay many times over,” and said the directive has been conveyed to the Defense Secretary and Joint Chiefs chairman Caine."
+    },
+    {
+      "id": "mkt:019f80ec-9086-7aab-8e13-f87830c1e869",
+      "time": "2026-07-21 03:06:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Nikita Bier, head of product at X, said the team is accelerating development; video, a video editor and Spaces are due to launch soon. Cashtags, custom timelines and other features have been rolled out, and many upcoming features will debut on Android first."
+    },
     {
       "id": "mkt:019f80e8-f7f9-7aab-8e13-f3b855a6795d",
       "time": "2026-07-21 03:02:59",
