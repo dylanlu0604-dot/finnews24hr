@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-21 03:24:22",
-  "count": 19058,
+  "updated": "2026-07-21 03:28:22",
+  "count": 19057,
   "items": [
+    {
+      "id": "4998432",
+      "time": "2026-07-21 03:24:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗媒體Fars News：伊朗最高國家安全委員會副秘書巴蓋裡表示，霍爾木茲海峽這一“槓桿”對伊朗具有決定性意義，伊朗在這一問題上不會作出任何妥協。"
+    },
     {
       "id": "4998431",
       "time": "2026-07-21 03:22:56",
@@ -175229,25 +175237,6 @@
         "Importance 0"
       ],
       "text": "Solar Energy Index Hits 13-week Low — Solar Energy Index decreased to 52.81 USD, the lowest since April 2026. Over the past 4 weeks, Solar Energy Index lost 16.6%, and in the last 12 months, it increased 37.96%."
-    },
-    {
-      "id": "mkt:019f5cf2-2d9c-7aab-8d63-704fc6caf4a9",
-      "time": "2026-07-14 03:26:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "【Missiles strike area around Konarak, Iran】On the evening of July 13 local time, four missiles struck the area around Konarak, Iran. US warplanes were circling over Konarak city, and residents in Chabahar and Dashtiari reported hearing explosions."
-    },
-    {
-      "id": "4985306",
-      "time": "2026-07-14 03:25:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗科納拉克周邊地區遭襲】總檯記者自伊朗方面獲悉，當地時間7月13日晚，有四枚導彈擊中了伊朗科納拉克周邊地區。與此同時，美軍戰機盤旋在科納拉克市上空。據悉，在恰巴哈爾和達什蒂亞里的居民可以聽到爆炸聲。（央視新聞）"
     }
   ]
 }
