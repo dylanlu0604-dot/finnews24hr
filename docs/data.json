@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-21 01:53:12",
-  "count": 19096,
+  "updated": "2026-07-21 01:57:05",
+  "count": 19086,
   "items": [
+    {
+      "id": "4998401",
+      "time": "2026-07-21 01:56:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國戰略石油儲備原油庫存降至1983年3月以來最低水平】根據美國能源部的資料，上週，美國戰略石油儲備原油庫存減少約510萬桶，降至3.114億桶，為1983年3月以來的最低水平。據悉，自2月底美以對伊朗發起軍事行動以來，截至7月17日，美國戰略石油儲備庫存已累計減少1.0404億桶。"
+    },
     {
       "id": "mkt:019f80a6-b1a7-7aab-8e13-7205706024ab",
       "time": "2026-07-21 01:50:35",
@@ -175506,116 +175514,6 @@
         "XAUUSD"
       ],
       "text": "【U.S. to impose maritime blockade of Iranian ports from 04:00 on July 15】The Joint Maritime Information Center (JMIC), led by the U.S. Navy, said the U.S. military will begin a maritime blockade of all Iranian ports and coastal areas at 20:00 GMT on July 14 (04:00 local July 15). The blockade applies to all vessels regardless of flag and covers Iran’s entire coastline, including ports and oil terminals. Neutral ships transiting the Strait of Hormuz to non‑Iranian destinations will not be impeded. Humanitarian shipments will be allowed but subject to inspection."
-    },
-    {
-      "id": "mkt:019f5c9f-bd1c-7aab-8d62-705060024f51",
-      "time": "2026-07-14 01:56:40",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "French President MACRON said multinational forces will conduct joint military exercises with Ukrainian forces in countries neighboring Ukraine."
-    },
-    {
-      "id": "mkt:019f5c9f-bc9b-7aab-8d62-6c840b60ca38",
-      "time": "2026-07-14 01:56:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Navy-led Combined Maritime Information Center says humanitarian aid shipments will be permitted to transit but will be subject to inspection."
-    },
-    {
-      "id": "4985254",
-      "time": "2026-07-14 01:56:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海軍牽頭的聯合海上資訊中心（JMIC）：人道主義物資運輸船隻准予通行，但須接受檢查。"
-    },
-    {
-      "id": "4985253",
-      "time": "2026-07-14 01:55:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國海軍牽頭的聯合海上資訊中心（JMIC）：此次封鎖不會妨礙中立船隻經霍爾木茲海峽往返非伊朗目的地的正常通行。"
-    },
-    {
-      "id": "mkt:019f5c9e-a769-7aab-8d62-65509aea18c1",
-      "time": "2026-07-14 01:55:29",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "The US Navy-led Joint Maritime Information Center said a maritime blockade would not impede neutral vessels transiting the Strait of Hormuz to or from non-Iranian destinations."
-    },
-    {
-      "id": "mkt:019f5c9e-88c6-7aab-8d62-5eee58172824",
-      "time": "2026-07-14 01:55:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US and Brent crude climbed sharply: WTI rose more than 8%, Brent reached $82/bbl, up 7.98% intraday."
-    },
-    {
-      "id": "mkt:019f5c9e-1263-7aab-8d62-57c15c168e31",
-      "time": "2026-07-14 01:54:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US Navy-led Joint Maritime Information Center says US maritime blockade covers Iran's entire coastline, including, but not limited to, Iranian ports and oil terminals."
-    },
-    {
-      "id": "mkt:019f5c9d-b344-7aab-8d62-494f8726769f",
-      "time": "2026-07-14 01:54:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【U.S. military to begin maritime blockade of Iranian ports from July 14 20:00 GMT】The U.S. Navy-led Combined Maritime Information Center said the U.S. military will begin a maritime blockade of all Iranian ports and coastal waters from 20:00 GMT on July 14 (04:00 Beijing time on July 15)."
-    },
-    {
-      "id": "4985252",
-      "time": "2026-07-14 01:54:22",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國海軍主導的聯合海上資訊中心（JMIC）：美軍將於格林尼治時間7月14日20:00（北京時間7月15日04:00）起，對伊朗所有港口及沿岸區域實施海上封鎖管控。 美方封鎖範圍覆蓋伊朗全部海岸線，包括但不限於伊朗各港口與石油碼頭。"
-    },
-    {
-      "id": "4985251",
-      "time": "2026-07-14 01:54:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：多國部隊將在烏克蘭周邊國家與烏方舉行軍事演習。"
-    },
-    {
-      "id": "4985250",
-      "time": "2026-07-14 01:53:52",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲8%，現報82.10美元/桶。"
     }
   ]
 }
