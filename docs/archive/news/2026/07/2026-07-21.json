@@ -1,7 +1,93 @@
 {
   "date": "2026-07-21",
-  "count": 248,
+  "count": 257,
   "items": [
+    {
+      "id": "mkt:019f8157-adb9-7aab-8e15-27df49f1f2b3",
+      "time": "2026-07-21 05:03:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "White House says the United States will impose an additional 50% tariff on certain Canadian products, effective 19 August 2026 Eastern Time."
+    },
+    {
+      "id": "4998484",
+      "time": "2026-07-21 05:03:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：將加徵額外關稅，以抵消加拿大在乳製品領域對美國貿易採取的歧視性措施 。"
+    },
+    {
+      "id": "4998483",
+      "time": "2026-07-21 05:03:02",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國白宮：美國針對加拿大部分產品加徵的 50% 關稅，將於 2026 年 8 月 19 日東部時間凌晨 0 點 01 分正式生效。"
+    },
+    {
+      "id": "4998482",
+      "time": "2026-07-21 05:01:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國FBI局長帕特爾計劃於10月14日至15日訪問俄羅斯。"
+    },
+    {
+      "id": "4998481",
+      "time": "2026-07-21 05:01:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美聯邦法官臨時叫停派拉蒙天舞收購華納兄弟 】美國一名聯邦法官20日釋出臨時限制令，暫停派拉蒙天舞公司對華納兄弟探索公司的收購。該臨時限制令有效期為14天，由加利福尼亞州北區聯邦地區法院法官阿拉塞利·馬丁內斯-奧爾金髮布。法官裁定，這項價值預計高達1110億美元的重磅收購是否違反反壟斷法存在“嚴重疑問”。民主黨籍的加州總檢察長羅布·邦塔在得知限制令後表示，這是“首個關鍵勝利”，“將有助於確保這項超級併購永遠不會成為現實”。（新華社）"
+    },
+    {
+      "id": "mkt:019f8155-2990-7aab-8e15-1ab7ffd54457",
+      "time": "2026-07-21 05:01:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "White House says the U.S. will impose additional tariffs on certain Canadian goods to offset discriminatory measures by Canada in the alcohol trade against U.S. businesses."
+    },
+    {
+      "id": "4998480",
+      "time": "2026-07-21 05:01:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：美國將加徵額外關稅，以抵消加拿大在酒類貿易領域對美國商業實施的歧視性舉措。"
+    },
+    {
+      "id": "mkt:019f8154-bfcc-7aab-8e15-12bf412ceb7b",
+      "time": "2026-07-21 05:00:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports FBI Director Kash Patel is planning a visit to Russia."
+    },
+    {
+      "id": "4998479",
+      "time": "2026-07-21 05:00:34",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國擬對多款加拿大商品加徵 50% 關稅，含《美墨加協定》項下相關產品。"
+    },
     {
       "id": "4998478",
       "time": "2026-07-21 05:00:15",
