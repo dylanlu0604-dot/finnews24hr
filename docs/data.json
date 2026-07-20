@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-20 23:43:41",
-  "count": 19190,
+  "updated": "2026-07-20 23:47:52",
+  "count": 19185,
   "items": [
+    {
+      "id": "mkt:019f8032-6640-7aab-8e12-16c4ee5eb15a",
+      "time": "2026-07-20 23:43:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump urges House Republicans to back budget resolution this week】Trump posted on social media urging all House Republicans to vote for the budget resolution this week, calling it an important first step toward passing a budget. He said the resolution will include as much of the Save America Act as possible and provide aid to farmers and funding for the military, and thanked Speaker Mike Johnson, House Budget Committee chair Jodey Arrington and committee members."
+    },
     {
       "id": "4998328",
       "time": "2026-07-20 23:42:22",
@@ -176703,54 +176711,6 @@
         "Impact bullish"
       ],
       "text": "California and 11 other state attorneys general said they are filing suit to block Paramount's acquisition of Warner Bros."
-    },
-    {
-      "id": "4985136",
-      "time": "2026-07-13 23:47:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "加州總檢察長稱，加州及美國另外 11 個州提起訴訟，試圖阻止派拉蒙收購華納兄弟。"
-    },
-    {
-      "id": "4985135",
-      "time": "2026-07-13 23:47:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國首相斯塔默宣佈與瑞士達成貿易協議。"
-    },
-    {
-      "id": "4985134",
-      "time": "2026-07-13 23:46:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭總統澤連斯基：強大且充足的反彈道作戰能力，是結束俄烏衝突的關鍵。其重要性不亞於針對俄羅斯經濟的中遠端打擊，或是前線的作戰行動。烏克蘭攔截俄軍彈道導彈的手段越多，普京坐到談判桌前的可能性就越大 —— 因為他手中這場戰爭最後的依仗將徹底失效。"
-    },
-    {
-      "id": "4985133",
-      "time": "2026-07-13 23:45:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "法庭檔案顯示：法官將特朗普律師及司法部多名高階官員移交州律師協會處理。"
-    },
-    {
-      "id": "mkt:019f5c27-65f6-7aab-8d5f-86e686bf3f47",
-      "time": "2026-07-13 23:45:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A member of Iran's National Security and Foreign Policy Commission, Sayyedi, said the United States ranks first in breaches of trust and violations of international law, and that global — not just Iranian — distrust stems from its abandonment of international treaties and commitments."
-    },
-    {
-      "id": "mkt:019f5c26-59ce-7aab-8d5f-79ace965e5d1",
-      "time": "2026-07-13 23:44:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. expands Cuba sanctions, targets tourism ministry】The U.S. added Cuba’s Ministry of Tourism to its sanctions list, the Treasury’s Office of Foreign Assets Control (OFAC) said in guidance updated Monday; the ministry was one of 10 entities newly designated. The U.S. has cut large-scale fuel shipments to Cuba, forcing resort closures, airline cancellations and international operators to abandon contracts, and international visitor numbers have fallen to record lows. Cuba’s power grid is under growing strain, with two nationwide blackouts last week. Under pressure from the Trump administration, the Cuban government announced nearly 200 economic reforms last month, including allowing new tourism projects to be 100% foreign-owned and permitting operators to import supplies directly rather than through the state distribution system; the U.S. described the measures as \"belated and ultimately just cosmetic smoke-and-mirrors.\""
     }
   ]
 }

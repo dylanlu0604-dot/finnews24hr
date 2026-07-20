@@ -1,7 +1,15 @@
 {
   "date": "2026-07-20",
-  "count": 2945,
+  "count": 2946,
   "items": [
+    {
+      "id": "mkt:019f8032-6640-7aab-8e12-16c4ee5eb15a",
+      "time": "2026-07-20 23:43:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump urges House Republicans to back budget resolution this week】Trump posted on social media urging all House Republicans to vote for the budget resolution this week, calling it an important first step toward passing a budget. He said the resolution will include as much of the Save America Act as possible and provide aid to farmers and funding for the military, and thanked Speaker Mike Johnson, House Budget Committee chair Jodey Arrington and committee members."
+    },
     {
       "id": "4998328",
       "time": "2026-07-20 23:42:22",
