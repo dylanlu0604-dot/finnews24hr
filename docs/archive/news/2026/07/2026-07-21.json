@@ -1,7 +1,39 @@
 {
   "date": "2026-07-21",
-  "count": 234,
+  "count": 238,
   "items": [
+    {
+      "id": "mkt:019f8149-1bb1-7aab-8e14-fd843704b459",
+      "time": "2026-07-21 04:47:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Korean equities volatile as KRX launches HFT impact study】KRX is soliciting bids for a research project to assess the market impact of a surge in high-frequency trading (HFT) and to explore regulatory options, the exchange said on the 20th. Bids are due on the 27th and the study is slated for completion in H2. HFT uses sub-second, fully automated order flow and is heavily used by foreign institutional investors for latency arbitrage; its profitability rises as securities transaction taxes fall. Concerns that increased HFT could disrupt markets have persisted since South Korea cut the securities transaction tax in 2019. KRX said the study will inform a regulatory framework; existing risk controls include a 2023 registration regime for high-speed algorithmic traders and a batch-order cancellation circuit breaker."
+    },
+    {
+      "id": "4998471",
+      "time": "2026-07-21 04:46:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）：熱帶風暴福斯托（Fausto）預計將於週二增強為颶風。"
+    },
+    {
+      "id": "mkt:019f8146-9d91-7aab-8e14-f05076b6cfcf",
+      "time": "2026-07-21 04:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports explosions in Iran's Chabahar and Konarak regions."
+    },
+    {
+      "id": "4998470",
+      "time": "2026-07-21 04:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊通社（IRNA）：伊朗恰巴哈爾與科納拉克地區傳出爆炸聲。"
+    },
     {
       "id": "4998469",
       "time": "2026-07-21 04:43:27",

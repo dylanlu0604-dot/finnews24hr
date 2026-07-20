@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-21 04:44:57",
+  "updated": "2026-07-21 04:49:01",
   "count": 19046,
   "items": [
+    {
+      "id": "mkt:019f8149-1bb1-7aab-8e14-fd843704b459",
+      "time": "2026-07-21 04:47:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Korean equities volatile as KRX launches HFT impact study】KRX is soliciting bids for a research project to assess the market impact of a surge in high-frequency trading (HFT) and to explore regulatory options, the exchange said on the 20th. Bids are due on the 27th and the study is slated for completion in H2. HFT uses sub-second, fully automated order flow and is heavily used by foreign institutional investors for latency arbitrage; its profitability rises as securities transaction taxes fall. Concerns that increased HFT could disrupt markets have persisted since South Korea cut the securities transaction tax in 2019. KRX said the study will inform a regulatory framework; existing risk controls include a 2023 registration regime for high-speed algorithmic traders and a batch-order cancellation circuit breaker."
+    },
+    {
+      "id": "4998471",
+      "time": "2026-07-21 04:46:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）：熱帶風暴福斯托（Fausto）預計將於週二增強為颶風。"
+    },
+    {
+      "id": "mkt:019f8146-9d91-7aab-8e14-f05076b6cfcf",
+      "time": "2026-07-21 04:45:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports explosions in Iran's Chabahar and Konarak regions."
+    },
+    {
+      "id": "4998470",
+      "time": "2026-07-21 04:44:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊通社（IRNA）：伊朗恰巴哈爾與科納拉克地區傳出爆炸聲。"
+    },
     {
       "id": "4998469",
       "time": "2026-07-21 04:43:27",
@@ -175105,48 +175137,6 @@
         "國際"
       ],
       "text": "【美移民執法人員在緬因州行動中開槍致1人死亡】當地時間7月13日，美國移民與海關執法局（ICE）執法人員在緬因州比迪福德執行驅逐行動時開槍致一名男子身亡。據美國國土安全部長馬克韋恩·馬林介紹，執法人員試圖攔截一名收到最終驅逐令的男子，該男子駕車衝向執法人員後，遭ICE特工槍擊身亡。聯邦調查局（FBI）已接手調查此事。（央視新聞）"
-    },
-    {
-      "id": "4985357",
-      "time": "2026-07-14 04:48:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方宣稱已使用無人機打擊科威特境內美軍設施與裝備，併發射巡航導彈擊中一艘美方敵對艦船。"
-    },
-    {
-      "id": "te:economy:566508",
-      "time": "2026-07-14 04:47:09",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Uruguay",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Uruguay Industrial Production Contracts in May — Uruguay's industrial production fell 3.5% year-on-year in May 2026 after rising 4.0% in the previous month, marking the sharpest decline since October 2025. The contraction was driven primarily by a 4.5% drop in food manufacturing. Other major drags included motor vehicle manufacturing, which fell 41.2%, and chemicals production, down 12.2%. On the upside, paper manufacturing rose 15.0%, beverage production increased 16.9%, and electrical equipment manufacturing climbed 29.1%. Hours worked in the industrial sector declined 6.1% from a year earlier. Industrial employment also weakened, with the occupied personnel index falling 2.1% year-on-year."
-    },
-    {
-      "id": "mkt:019f5d3a-38a4-7aab-8d64-27d487159635",
-      "time": "2026-07-14 04:45:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian state TV, citing the military, said Iran deployed drones to strike US military facilities and equipment in Kuwait. The military said it used a cruise missile to target a \"hostile\" US vessel."
-    },
-    {
-      "id": "4985356",
-      "time": "2026-07-14 04:45:08",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗國家電視臺援引伊朗軍方的話稱，伊朗軍方已用巡航導彈打擊了一艘“敵對”美國船隻。"
     }
   ]
 }
