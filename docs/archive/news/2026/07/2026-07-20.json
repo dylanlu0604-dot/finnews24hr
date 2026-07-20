@@ -1,7 +1,87 @@
 {
   "date": "2026-07-20",
-  "count": 2628,
+  "count": 2637,
   "items": [
+    {
+      "id": "mkt:019f7fb3-781b-7aab-8e0e-74d629b289a2",
+      "time": "2026-07-20 21:24:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O"
+      ],
+      "text": "【Google developing \"Frozen v2\" server chip to boost GEMINI efficiency】Google is developing a new server chip, codenamed \"Frozen v2\", that would embed the GEMINI model's design blueprint to deliver AI services more efficiently, sources said. The chip is intended to ease severe compute shortages that have triggered internal resource competition and forced Google Cloud to turn away some external customers. Project participants estimate Frozen v2 could process 6–10x more tokens per unit of power than Google's current latest in-house AI chip; engineers are still finalizing its core functions and component integration. Deployment is planned as early as 2028."
+    },
+    {
+      "id": "4998153",
+      "time": "2026-07-20 21:24:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【慧智微：擬募資3億元投向科技創新領域研發專案】慧智微公告稱，公司擬向特定物件發行股票募資不超3億元，扣除發行費用後用於新一代行動通訊射頻前端模組研發、面向新興應用場景的通訊模組研發及補充流動資金，分別投入1.35億元、7445.56萬元、9063.27萬元。專案建設期均為36個月，已取得廣東省企業投資專案備案證，無需辦理環評審批或備案。公司所處積體電路設計屬戰略性新興產業，本次募資投向符合國家戰略及政策支援的科技創新領域。"
+    },
+    {
+      "id": "mkt:019f7fb2-f89a-7aab-8e0e-69f49a58b58c",
+      "time": "2026-07-20 21:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Shanghai Stock Exchange has issued a regulatory letter to Chengdu Zhimingda Electronics Co., Ltd. regarding material matters."
+    },
+    {
+      "id": "4998152",
+      "time": "2026-07-20 21:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "上交所對智明達下發相關重要事項的監管工作函，涉及物件為上市公司，處理日期為7月20日。"
+    },
+    {
+      "id": "4998151",
+      "time": "2026-07-20 21:22:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【霍爾木茲海峽幾近癱瘓，國際油價盤中突破90美元大關】由於美伊報復性互襲節奏加快，7月20日開盤後國際原油期貨價格顯著上漲，作為全球基準的布倫特原油盤中突破90美元/桶大關。這是布油時隔一個多月重新站上90美元關口，短短20天漲幅超過23%，重新整理近年來的單月最高漲幅紀錄。（澎湃）"
+    },
+    {
+      "id": "4998150",
+      "time": "2026-07-20 21:22:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行股又香了，過半銀行股7月漲超10%】7月20日，中證銀行指數（399986.SZ）上漲2.3%，板塊個股全線飄紅。7月以來，伴隨前期熱門板塊陷入全面持續回撥，銀行股則在悄然收復“失地”。中證銀行指數月內已上漲8.93%，而同期滬指卻下挫7.28%。銀行板塊42只個股中，有22只個股股價實現兩位數上漲，佔比超50%。 如今，銀行板塊總市值、A股市值分別重回14萬億元、10萬億元以上。第一財經記者注意到，面對近一個月來市場行情的極致反轉，越來越多機構開始提示紅利板塊機會，也有機構加大了紅利主題產品營銷力度。（一財）"
+    },
+    {
+      "id": "mkt:019f7fb0-70f3-7aab-8e0e-60360f3bd9e3",
+      "time": "2026-07-20 21:21:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission recommends member states waive penalties for companies that breach the methane emissions law between 2027 and 2029."
+    },
+    {
+      "id": "4998149",
+      "time": "2026-07-20 21:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "利雅得銀行：本季度特別佣金收入實現增長，第二季度總營業收入為47.4億里亞爾。"
+    },
+    {
+      "id": "mkt:019f7fb0-22c4-7aab-8e0e-5ebbd5e5d1ff",
+      "time": "2026-07-20 21:21:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department released a 100-page report accusing Cuba of waging a revolution \"against Western civilization itself\"."
+    },
     {
       "id": "4998148",
       "time": "2026-07-20 21:20:42",

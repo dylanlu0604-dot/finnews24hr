@@ -1,7 +1,87 @@
 {
-  "updated": "2026-07-20 21:21:44",
-  "count": 19200,
+  "updated": "2026-07-20 21:25:47",
+  "count": 19198,
   "items": [
+    {
+      "id": "mkt:019f7fb3-781b-7aab-8e0e-74d629b289a2",
+      "time": "2026-07-20 21:24:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOGL.O"
+      ],
+      "text": "【Google developing \"Frozen v2\" server chip to boost GEMINI efficiency】Google is developing a new server chip, codenamed \"Frozen v2\", that would embed the GEMINI model's design blueprint to deliver AI services more efficiently, sources said. The chip is intended to ease severe compute shortages that have triggered internal resource competition and forced Google Cloud to turn away some external customers. Project participants estimate Frozen v2 could process 6–10x more tokens per unit of power than Google's current latest in-house AI chip; engineers are still finalizing its core functions and component integration. Deployment is planned as early as 2028."
+    },
+    {
+      "id": "4998153",
+      "time": "2026-07-20 21:24:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【慧智微：擬募資3億元投向科技創新領域研發專案】慧智微公告稱，公司擬向特定物件發行股票募資不超3億元，扣除發行費用後用於新一代行動通訊射頻前端模組研發、面向新興應用場景的通訊模組研發及補充流動資金，分別投入1.35億元、7445.56萬元、9063.27萬元。專案建設期均為36個月，已取得廣東省企業投資專案備案證，無需辦理環評審批或備案。公司所處積體電路設計屬戰略性新興產業，本次募資投向符合國家戰略及政策支援的科技創新領域。"
+    },
+    {
+      "id": "mkt:019f7fb2-f89a-7aab-8e0e-69f49a58b58c",
+      "time": "2026-07-20 21:24:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Shanghai Stock Exchange has issued a regulatory letter to Chengdu Zhimingda Electronics Co., Ltd. regarding material matters."
+    },
+    {
+      "id": "4998152",
+      "time": "2026-07-20 21:24:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "上交所對智明達下發相關重要事項的監管工作函，涉及物件為上市公司，處理日期為7月20日。"
+    },
+    {
+      "id": "4998151",
+      "time": "2026-07-20 21:22:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【霍爾木茲海峽幾近癱瘓，國際油價盤中突破90美元大關】由於美伊報復性互襲節奏加快，7月20日開盤後國際原油期貨價格顯著上漲，作為全球基準的布倫特原油盤中突破90美元/桶大關。這是布油時隔一個多月重新站上90美元關口，短短20天漲幅超過23%，重新整理近年來的單月最高漲幅紀錄。（澎湃）"
+    },
+    {
+      "id": "4998150",
+      "time": "2026-07-20 21:22:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行股又香了，過半銀行股7月漲超10%】7月20日，中證銀行指數（399986.SZ）上漲2.3%，板塊個股全線飄紅。7月以來，伴隨前期熱門板塊陷入全面持續回撥，銀行股則在悄然收復“失地”。中證銀行指數月內已上漲8.93%，而同期滬指卻下挫7.28%。銀行板塊42只個股中，有22只個股股價實現兩位數上漲，佔比超50%。 如今，銀行板塊總市值、A股市值分別重回14萬億元、10萬億元以上。第一財經記者注意到，面對近一個月來市場行情的極致反轉，越來越多機構開始提示紅利板塊機會，也有機構加大了紅利主題產品營銷力度。（一財）"
+    },
+    {
+      "id": "mkt:019f7fb0-70f3-7aab-8e0e-60360f3bd9e3",
+      "time": "2026-07-20 21:21:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "European Commission recommends member states waive penalties for companies that breach the methane emissions law between 2027 and 2029."
+    },
+    {
+      "id": "4998149",
+      "time": "2026-07-20 21:21:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "利雅得銀行：本季度特別佣金收入實現增長，第二季度總營業收入為47.4億里亞爾。"
+    },
+    {
+      "id": "mkt:019f7fb0-22c4-7aab-8e0e-5ebbd5e5d1ff",
+      "time": "2026-07-20 21:21:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. State Department released a 100-page report accusing Cuba of waging a revolution \"against Western civilization itself\"."
+    },
     {
       "id": "4998148",
       "time": "2026-07-20 21:20:42",
@@ -176831,102 +176911,6 @@
         "MKT News"
       ],
       "text": "Yemen Civil Aviation Authority ordered all airports to suspend arrivals and departures until further notice."
-    },
-    {
-      "id": "4984947",
-      "time": "2026-07-13 21:24:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江蘇省政府與中科曙光簽署戰略合作協議】7月11日，江蘇省政府與曙光資訊產業股份有限公司在南京簽署戰略合作協議。省長劉小濤會見中科曙光董事長曆軍一行，並共同見證簽約。劉小濤對中科曙光長期以來給予江蘇經濟社會發展的大力支援表示感謝。劉小濤說，江蘇是積體電路產業重要集聚區，擁有較為完整的產業佈局和創新體系，雙方深化合作的基礎良好、空間廣闊。希望中科曙光聚力賦能“光合空間”建設，持續加大在蘇專案的技術、資金和資源投入，更好支撐資料大模型和智慧體應用，吸引更多上下游生態企業集聚。我們將持續最佳化營商環境，推進務實合作向更高水平發展。（微訊江蘇）"
-    },
-    {
-      "id": "te:economy:566410",
-      "time": "2026-07-13 21:24:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Nigeria",
-        "Crude Oil Production",
-        "Importance 0"
-      ],
-      "text": "Nigeria Oil Output Highest since 2020 — Nigeria's crude oil production increased to 1.555 million barrels per day in June 2026, the highest level since April 2020, according to OPEC's monthly report. Output reached 104% of the country's current OPEC production quota, up from 102% in May, highlighting continued gains in supply."
-    },
-    {
-      "id": "mkt:019f5ba6-50ec-7aab-8d5c-2218532c0c1b",
-      "time": "2026-07-13 21:24:14",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "U.S. natural gas futures fell more than 3% intraday, trading at $2.851/MMBtu."
-    },
-    {
-      "id": "4984946",
-      "time": "2026-07-13 21:23:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鞍鋼股份：預計2026年上半年虧損約20.47億元，上年同期虧損11.15億元】鞍鋼股份公告，預計2026年上半年歸屬於上市公司股東的淨利潤虧損約人民幣20.47億元，比上年同期（調整後）虧損11.15億元下降約83.59%；歸屬於上市公司股東的扣除非經常性損益後的淨利潤虧損約21.09億元，比上年同期（調整後）虧損12.31億元下降約71.32%；基本每股收益虧損約0.218元/股。上年同期調整後歸屬於上市公司股東的淨利潤虧損11.15億元。業績變動原因為：2026年上半年，鋼鐵行業供大於求局面仍未改變，鋼材售價持續低迷，鐵礦石、焦煤等原燃料價格高位執行，購銷兩端剪刀差持續收窄，利潤空間進一步壓縮，公司生產經營仍處於虧損局面。"
-    },
-    {
-      "id": "4984945",
-      "time": "2026-07-13 21:23:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "威廉姆斯股價轉負。"
-    },
-    {
-      "id": "4984944",
-      "time": "2026-07-13 21:23:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：下薩克森州正洽談收購大眾工廠股權。"
-    },
-    {
-      "id": "4984943",
-      "time": "2026-07-13 21:22:54",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內跌2%，現報5512.00元。"
-    },
-    {
-      "id": "4984942",
-      "time": "2026-07-13 21:22:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【恆尚節能：收購金勝電子100%股權的交易預計推進週期較長，存在較大不確定性】恆尚節能在回覆上交所問詢函中表示，公司擬以不超過人民幣6億元的交易對價透過發行股份及支付現金方式收購金勝電子100%股權，但本次交易預計推進週期較長，存在較大不確定性，短期內標的公司業績無法納入公司合併報表。"
-    },
-    {
-      "id": "mkt:019f5ba5-064f-7aab-8d5c-1a96e6209b7e",
-      "time": "2026-07-13 21:22:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Shanghai Stock Exchange issued a regulatory work letter to Aojing Medical Technology Co., Ltd. concerning related matters."
-    },
-    {
-      "id": "4984941",
-      "time": "2026-07-13 21:22:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【烏攻擊十餘處俄軍目標，俄打擊烏黑海港口】烏克蘭國家安全域性13日在社交媒體發文說，烏方當天凌晨動用無人機對俄羅斯十餘處軍事目標實施大規模打擊。俄羅斯國防部13日說，俄軍當天打擊了位於黑海的烏克蘭切爾諾莫斯克港。烏國家安全域性說，遭襲俄方目標包括克里米亞半島東北部一空軍基地、三座固定式雷達站、高加索港的三個儲油罐，以及斯塔夫羅波爾州維亞茲尼基的儲油罐區等。俄國防部13日通報說，俄軍當天凌晨使用高精度遠端武器和無人機實施叢集打擊，擊毀切爾諾莫斯克港用於裝卸和存放烏軍軍用物資的基礎設施、油料貯存設施和武器倉庫，以及為烏軍運送物資的兩艘渡船和一艘集裝箱船等。（新華社）"
-    },
-    {
-      "id": "4984940",
-      "time": "2026-07-13 21:22:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家糧食和物資儲備局向遼寧調運中央防汛物資支援做好防汛搶險工作】據國家糧食和物資儲備局訊息，7月13日，根據遼寧省防汛搶險工作需要，按照國家防總辦公室調令，國家糧食和物資儲備局緊急調運復膜編織布等價值171萬元中央防汛物資，支援遼寧省做好防汛搶險工作。"
     }
   ]
 }
