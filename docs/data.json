@@ -1,7 +1,122 @@
 {
-  "updated": "2026-07-20 13:22:18",
-  "count": 19121,
+  "updated": "2026-07-20 13:26:20",
+  "count": 19114,
   "items": [
+    {
+      "id": "mkt:019f7dfc-3579-7aab-8e02-16fe69538601",
+      "time": "2026-07-20 13:25:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China CSI 500 index futures (IC) main contract down 2.00% intraday, now 7,319.0 points. China CSI 1000 index futures (IM) main contract down 3.04% intraday, now 6,925 points."
+    },
+    {
+      "id": "4997016",
+      "time": "2026-07-20 13:25:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.02%，成分股中，錦華新材跌9.28%，民士達跌8.46%，三協電機跌7.13%，則成電子跌6.45%。"
+    },
+    {
+      "id": "4997015",
+      "time": "2026-07-20 13:24:47",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國今年人均GDP有望達3.9萬美元】據韓聯社報道，得益於半導體旺季推動出口增加，韓國今年人均GDP有望大幅提升。綜合韓國財政經濟部、央行和國家資料處19日的資料，今年韓國人均GDP有望達到3.9164萬美元，同比增加2750美元，增幅為7.6%，增幅為2021年（11.5%）以來近5年之最。"
+    },
+    {
+      "id": "mkt:019f7dfb-c718-7aab-8e02-0ea21cfabe3b",
+      "time": "2026-07-20 13:24:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Media reports say debris from a SpaceX rocket may strike the Moon around Aug 5. SpaceX declined to comment. NASA manager William Cook said the impact would be very difficult to observe from Earth."
+    },
+    {
+      "id": "4997014",
+      "time": "2026-07-20 13:24:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【飛捷科思亮相WAIC2026 釋出Fysiverse物理世界模型】7月19日，2026世界人工智慧大會（WAIC）物理智慧創新生態論壇在上海成功舉辦。論壇上，飛捷科思正式釋出全棧自研、全國產適配的新一代Fysiverse物理世界模型，同時發起聯合32家產學研用資單位，成立物理智慧創新聯合體，成為我國首個系統性落地物理AI產業創新部署的實戰行動，完整落地自主可控的物理AI“中國方案”。（科創板日報）"
+    },
+    {
+      "id": "4997013",
+      "time": "2026-07-20 13:23:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【高盛：小米整合硬體、資料與模型推動機器人規模化，維持“買入”評級】高盛發表研報指，小米集團近期在機器人領域取得多項進展，包括人形機器人在自研工場的作業成功率提升，並開始承接新的物流任務；推出380億引數的統一生成式模型Xiaomi-Robotics-U0以解決真實資料稀缺問題；以及釋出具身智慧大模型Xiaomi-Robotics-1。該行認為，小米已完成機器人框架在硬體、資料與模型上的初步整合，有望形成自我強化的閉環，邁向通用工業及家庭自動化。該行指出，具身智慧作為小米AI戰略的三大變現路徑之一，預計小米機器人未來3至5年將聚焦於更結構化的B端商業場景，例如在小米自家(智慧電動車、智慧手機及家電)及合作伙伴的工廠中大規模部署人形機器人。此外，小米電動車業務收入增長較同業更快，加上SkyNomad新車款釋出有望提高2027財年銷售能見度，電動車業務仍具估值上行空間。高盛維持小米“買入”評級及目標價40港元不變。"
+    },
+    {
+      "id": "4997012",
+      "time": "2026-07-20 13:23:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中研股份新設子公司 含多項AI相關業務】企查查APP顯示，近日，中研淘淘塑（深圳）網路科技有限公司成立，經營範圍包含前沿新材料銷售；人工智慧公共資料平臺；人工智慧公共服務平臺技術諮詢服務；人工智慧基礎資源與技術平臺等。企查查股權穿透顯示，該公司由中研股份全資持股。"
+    },
+    {
+      "id": "4997011",
+      "time": "2026-07-20 13:22:25",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【花旗力挺茅臺二度提價：維持“買入”評級，目標價看高至1788.65元】貴州茅臺於2026年7月17日盤後宣佈，自7月18日起上調飛天茅臺(53%，500ml)的出廠批發均價和直銷零售均價各100元人民幣。此次提價後，出廠價升至1369元(漲幅7.9%)，直銷零售價升至1639元(漲幅6.5%)。花旗研報指出，貴州茅臺在2026年7月實施的第二次提價策略具有顯著的積極意義。與3月份首次提價不同，此次出廠價與直銷零售價同步上調100元，使得直銷零售價(1639元)緊密貼合當前市場一級批發價(1640元)。這一策略不僅有效縮小了長期存在的出廠價與市場價倒掛或差距問題，更體現了公司強化直銷渠道、削弱傳統批發商投機空間的決心。此外，茅臺年初推出的市場化運營計劃正在穩步推進包括明確的產品金字塔結構和多元化的分銷渠道改革。花旗認為，茅臺憑藉強大的品牌護城河、卓越的盈利能力和現金流，理應享受估值溢價。基於2026年預期市盈率25倍(全球烈酒同行平均水平)，給予茅臺1788.65元人民幣的目標價，維持“買入”評級。"
+    },
+    {
+      "id": "mkt:019f7df9-ba1e-7aab-8e02-07b729bc5616",
+      "time": "2026-07-20 13:22:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【BNP Paribas: Inflation has greater impact on bond yields than fiscal factors】The chief investment officer for Core Investments at AXA Investment Managers under BNP Paribas Asset Management said inflation matters more for bond yields than fiscal considerations. Governments can try to limit issuance, but since the global financial crisis central banks have struggled to control inflation and monetary policy has been weakened. He added this does not downplay deficits and debt—profligate fiscal policy can still provoke bond vigilantes. If bond buyers are confident in preserving the real value of their holdings, high levels of government bond supply will be easier to absorb."
+    },
+    {
+      "id": "4997010",
+      "time": "2026-07-20 13:21:52",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊持續走高】華能蒙電封漲停，此前立新能源3連板，華銀電力、樂山電力、桂冠電力2連板，九洲集團漲超10%，華電遼能、京能電力逼近漲停。"
+    },
+    {
+      "id": "4997009",
+      "time": "2026-07-20 13:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞安航空首席財務官稱收購易捷航空將加劇行業整合。"
+    },
+    {
+      "id": "4997008",
+      "time": "2026-07-20 13:21:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國信通院牽頭的ITU算電協同2項標準成功立項】國際電信聯盟標準化局第五研究組（ITU-T SG5）全會近日於法國索菲亞安提波利斯召開，中國信通院牽頭提出的“面向減緩氣候變化的算力電力協同框架與要求”及“面向減緩氣候變化的算力電力協同平臺技術要求”2項議題成功立項，同時主導的2項綠色低碳領域國際標準順利完成結項。"
+    },
     {
       "id": "4997007",
       "time": "2026-07-20 13:20:41",
@@ -176082,196 +176197,6 @@
         "國際"
       ],
       "text": "【伊朗已對美軍發動五階段打擊 】當地時間今天（7月13日）上午，伊朗伊斯蘭革命衛隊發表宣告稱，在對地區美軍目標的第五階段報復性打擊行動中，革命衛隊不僅“精準打擊了位於巴林朱法爾的美軍設施，使其遭受重創“，還“成功摧毀了位於阿曼的FPS雷達和艦船探測雷達”。"
-    },
-    {
-      "id": "mkt:019f59f0-a1e1-7aab-8d4f-a113179b725f",
-      "time": "2026-07-13 13:26:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【2026 summer box office tops 3.0 bln yuan】Online platform data show the 2026 summer film season box office, incl. presales, has surpassed 3.0 bln yuan. 2026 year-to-date box office, incl. presales, has exceeded 18.7 bln yuan. More than 100 domestic and foreign titles are scheduled for release across the summer."
-    },
-    {
-      "id": "mkt:019f59f0-2d7e-7aab-8d4f-9b5d584d4a63",
-      "time": "2026-07-13 13:25:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Thailand's stock index rose 0.3% to 1,626.07, its highest level since early March 2023."
-    },
-    {
-      "id": "mkt:019f59ef-d2b4-7aab-8d4f-9256523d8193",
-      "time": "2026-07-13 13:25:16",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "688256.SS",
-        "Impact bearish"
-      ],
-      "text": "Cambricon shares on China’s A-share market turned negative in the afternoon after earlier rising more than 7% in the morning session."
-    },
-    {
-      "id": "mkt:019f59ef-8a7e-7aab-8d4f-8a07dc20cf9a",
-      "time": "2026-07-13 13:24:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said U.S. continued intervention in the Strait of Hormuz would lead to more severe incidents in the global oil and gas sector."
-    },
-    {
-      "id": "mkt:019f59ef-7183-7aab-8d4f-8352163c44d9",
-      "time": "2026-07-13 13:24:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "005930.KS",
-        "Impact bearish",
-        "000660.KS"
-      ],
-      "text": "Southern 2x long Samsung Electronics (07747) saw afternoon losses widen to 20%; Southern 2x long SK Hynix (07709) fell nearly 30%."
-    },
-    {
-      "id": "4983716",
-      "time": "2026-07-13 13:24:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "南方兩倍做多三星電子(07747)午後跌幅擴大至20%，南方兩倍做多海力士(07709)跌近30%。"
-    },
-    {
-      "id": "mkt:019f59ef-5f46-7aab-8d4f-7d14ed790e44",
-      "time": "2026-07-13 13:24:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said the only way to open the Strait of Hormuz is to end U.S. military intervention and respect coastal states' sovereignty."
-    },
-    {
-      "id": "4983715",
-      "time": "2026-07-13 13:24:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【豬肉價格大漲15%】據農業農村部監測，7月以來全國生豬和豬肉價格連續上漲兩週，漲幅明顯。7月12日，北京新發地市場白條豬批發價每公斤14.4元，比7月1日上漲15%。新發地市場分析師劉通表示：“7月上旬最高價出現在7月8日，平均價格14.55元每公斤，是今年春節以來最高價。”在養殖端，全國生豬價格也在6月底開啟了連續上行走勢，近兩週累計回升12.8%。專家表示，隨著能繁母豬產能持續去化，下半年生豬出欄供應壓力將逐步緩解。從需求端來看，三季度末開學季、中秋國慶雙節備貨將帶動消費回暖，豬價有溫和回暖基礎。建議養殖戶依託當前反彈向好的市場行情，有序安排生豬出欄。（央視財經）"
-    },
-    {
-      "id": "mkt:019f59ee-2e99-7aab-8d4f-746db33f7a38",
-      "time": "2026-07-13 13:23:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "603986.SS",
-        "Impact bearish",
-        "03986.HK"
-      ],
-      "text": "Mainland A-share Zhaoyi Innovation hit the day's limit-down in the afternoon with CNY31 bln turnover; Hong Kong-listed Zhaoyi Innovation (03986.HK) fell over 14%."
-    },
-    {
-      "id": "mkt:019f59ee-18db-7aab-8d4f-6a8caf0eb4a9",
-      "time": "2026-07-13 13:23:23",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Pork prices jump 15%】China's pork and hog prices have risen for two consecutive weeks in July, the Ministry of Agriculture and Rural Affairs says. Beijing Xinfadi wholesale pork averaged 14.4 yuan/kg on July 12, up 15% from July 1; the early-July peak averaged 14.55 yuan/kg on July 8, the highest since the Lunar New Year. Farm-gate hog prices began a sustained uptrend in late June, climbing 12.8% over the past two weeks. The ministry said continued reduction in productive sow capacity should gradually ease hog supply pressure in H2, while end-Q3 back-to-school demand and Mid-Autumn/National Day holiday restocking should support a mild price rebound. Producers are advised to use the current rally to orderly schedule sales."
-    },
-    {
-      "id": "4983714",
-      "time": "2026-07-13 13:23:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "兆易創新觸及跌停，成交額306.02億元，封單超2000手。"
-    },
-    {
-      "id": "4983713",
-      "time": "2026-07-13 13:23:07",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存晶片板塊持續走弱，誠邦股份等多股跌停】儲存器板塊大幅調整，誠邦股份跌停，雷科防務、天奧電子、夏農芯創、博敏電子、德明利此前跌停，西測測試、普冉股份、雅創電子、北京君正、佰維儲存、深科達等跌超10%。"
-    },
-    {
-      "id": "4983712",
-      "time": "2026-07-13 13:23:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "剛果民主共和國表示，埃博拉確診病例已達1873例，其中包括672例死亡病例。"
-    },
-    {
-      "id": "te:markets:566242",
-      "time": "2026-07-13 13:23:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Stocks in Japan Hit 4-week Low — JP225 decreased to 66810.00 Index Points, the lowest since June 2026. Over the past 4 weeks, Japan Stock Market Index (JP225) lost 3.56%, and in the last 12 months, it increased 69.41%."
-    },
-    {
-      "id": "4983711",
-      "time": "2026-07-13 13:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：伊朗陸軍防空部隊在阿巴斯港附近攔截並擊落了一架美國“盧卡斯”（LUCAS）無人機。"
-    },
-    {
-      "id": "mkt:019f59ed-764b-7aab-8d4f-612d19f4df57",
-      "time": "2026-07-13 13:22:42",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Iranian army air defenses near Abbas Port intercepted and shot down a U.S. Lucas drone, state broadcaster Press TV reported."
-    },
-    {
-      "id": "mkt:019f59ed-61be-7aab-8d4f-5efdd5ef9da7",
-      "time": "2026-07-13 13:22:36",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bearish"
-      ],
-      "text": "【Counterpoint Research: memory cost surge to add about $300 to iPhone 18 Pro Max BOM】Counterpoint Research data released on the 13th show the bill of materials for a 12GB/1TB iPhone 18 Pro Max is expected to rise by about $300 versus the prior generation, driven mainly by higher memory prices. Adoption of a 2nm SoC and advanced packaging are also cited as significant cost drivers; camera module costs are forecast to rise slightly while display and some components should decline, partially offsetting the overall increase."
-    },
-    {
-      "id": "mkt:019f59ed-5093-7aab-8d4f-53d4003d32df",
-      "time": "2026-07-13 13:22:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "CSI 300 index was down as much as 2% intraday."
-    },
-    {
-      "id": "4983710",
-      "time": "2026-07-13 13:22:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "滬深300指數下跌2%至4,684.72點。"
     }
   ]
 }
