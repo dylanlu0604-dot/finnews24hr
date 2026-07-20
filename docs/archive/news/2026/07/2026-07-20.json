@@ -1,7 +1,101 @@
 {
   "date": "2026-07-20",
-  "count": 1276,
+  "count": 1286,
   "items": [
+    {
+      "id": "mkt:019f7e2c-cc68-7aab-8e03-3b262e6ad85b",
+      "time": "2026-07-20 14:18:12",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Mehr News Agency reports an attack on Iran's Bushehr region."
+    },
+    {
+      "id": "4997120",
+      "time": "2026-07-20 14:17:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華福證券：維持貴州茅臺“買入”評級，隨行就市再提價】華福證券研報指出，貴州茅臺公司決定自2026年7月18日零時起，對飛天53%vol500ml貴州茅臺酒（2026）在i茅臺平臺的零售價由1539元/瓶上調至1639元/瓶（上調100元、幅度約6.5%），銷售合同價由1269元/瓶上調至1369元/瓶（上調100元、幅度約7.9%）。本次對普飛的提價，是公司繼2026年3月31日之後，年內對普飛的二次提價。此次調價依據《2026年貴州茅臺酒市場化運營方案》，依循“隨行就市、相對平穩、供需適配、量價平衡”的基本準則，旨在維護市場秩序。公司本輪市場化改革，“價格”是核心主線，目前看已逐步形成“小步快跑”提價模式，當下來到第三階段。以當前市值計，公司對應股息率在4%以上，估值與回報的安全邊際充足；基本面已現企穩向上態勢，市場化改革持續帶來超出預期的積極變化，維持“買入”評級。"
+    },
+    {
+      "id": "4997119",
+      "time": "2026-07-20 14:17:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）資料顯示，迪拜股指早盤下跌1%。"
+    },
+    {
+      "id": "4997118",
+      "time": "2026-07-20 14:16:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗布什爾市遭美軍襲擊】據伊朗國家通訊社伊通社報道，當地時間今天（7月20日）上午，伊朗南部布什爾市多處地點遭美軍襲擊。另據伊朗邁赫爾通訊社報道，伊朗伊斯法罕傳出爆炸聲，目前尚不清楚確切原因。 (CCTV國際時訊)"
+    },
+    {
+      "id": "4997117",
+      "time": "2026-07-20 14:16:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆高溫乾旱雙預警持續生效 各地採取措施積極應對】據新疆氣象局訊息，新疆多地高溫天氣仍將持續，區域性地區最高溫度逼近50℃。平原區域持續受乾熱氣團控制，7月15日升級釋出的高溫紅色預警訊號和乾旱橙色預警訊號依然有效。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7e2a-a49b-7aab-8e03-3014b248be19",
+      "time": "2026-07-20 14:15:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MOFCOM holds meeting on modern commercial circulation system pilots in Chongqing】July 17, 2026 — MOFCOM’s Department of Circulation Development met in Chongqing to set direction for pilots of a modern commercial circulation system. It called for pilots to focus on modernization, prioritize flagship projects, concentrate investment, and apply system-level planning and refined management to boost effectiveness. Policy priorities include reviving existing commercial stock while optimizing new supply; supporting digital/intelligent transformation of traditional wholesale and retail; accelerating renovation of ageing commercial facilities and upgrading physical retail; and promoting new technologies, formats and business models to create high-quality commercial growth. The meeting also directed optimization of county-level commerce and logistics facility layouts, development of integrated consumption scenarios and broader brand supply to stimulate lower-tier consumption, expansion and upgrading of 15-minute convenience living circles, guidance of quality commercial resources into communities, and improvement of urban recycling systems."
+    },
+    {
+      "id": "4997116",
+      "time": "2026-07-20 14:15:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【看圖：世界盃創紀錄的6.55億美元獎金如何分配？】 2026年國際足聯(FIFA)世界盃將發放總額6.55億美元的賽事獎金，較2022年的獎金總額增長近50%，使其成為該賽事歷史上獎金最豐厚的一屆。從小組賽參賽球隊到最終的冠軍，下圖列出本屆世界盃各參賽國家球隊的獎金收益。 \n\n其中，西班牙隊時隔16年再次問鼎世界盃，獲得5000萬美元的最高獎金，而亞軍阿根廷隊則獲得3300萬美元。在此前的季軍爭奪戰中，英格蘭隊以6:4擊敗法國隊，獲得2900萬美元獎金，法國隊獲得2700萬美元獎金。 \n\n四支在四分之一決賽中被淘汰的球隊——比利時、挪威、摩洛哥和瑞士，各獲得1900萬美元獎金。此外，在16強賽階段出局的球隊各獲得1500萬美元獎金，止步32強可獲得1100萬美元獎金，而止步小組賽則為900萬美元。"
+    },
+    {
+      "id": "te:economy:568112",
+      "time": "2026-07-20 14:15:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Saudi Arabia",
+        "House Price Index YoY",
+        "Importance 0"
+      ],
+      "text": "Saudi Real Estate Rebounds in Q2 — Saudi Arabia’s real estate price index rose 1.3% year-on-year in Q2 2026, rebounding from a 1.6% fall in Q1 and marking the first annual gain since Q3 2025. Residential property prices recovered (2.6% vs -3.6% in Q1), supported by higher prices for residential land (6.3%), apartments (1.1%), and residential floors (0.4%), offsetting a sharp decline in villa prices (-9.7%). In contrast, real estate prices in the commercial sector tumbled (-3.2% vs 3.4%), weighed down by lower prices for commercial plots (-3.5%) and buildings (-0.6%), although prices for exhibitions and shops rose 0.4%. Regionally, property prices increased in Riyadh (4.2%), Makkah (0.4%), Al-Jawf (10.4%), and the Northern Borders (4.6%). Meanwhile, prices declined in Hail (-10.1%), Qassim (-5.4%), Madinah (-4.5%), and Al-Baha (-2.8%). On a quarterly basis, the real estate price index rose 3.0% in Q2, rebounding from a 0.2% decline in the previous three-month period."
+    },
+    {
+      "id": "4997115",
+      "time": "2026-07-20 14:14:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【商務部流通發展司召開現代商貿流通體系試點工作座談會】2026年7月17日，商務部流通發展司在重慶市召開現代商貿流通體系試點工作座談會，認真貫徹黨中央、國務院決策部署，落實商務部黨組要求，總結前一階段試點建設成效，交流經驗做法，分析面臨的形勢和存在的不足，對下一階段工作進行再動員、再部署。會議強調，要圍繞“聚焦現代、突出重點、集約投入、確保實效”的試點建設要求，始終堅持現代化方向，堅持標誌性專案帶動，系統謀劃、精細管理，全面提升試點工作成效。一是要堅持著眼全域性和突出特色相結合，找準試點工作定位，立足本地資源稟賦和產業優勢，形成各具特色的現代商貿流通發展路徑和模式，提高試點工作的辨識度。二是要堅持盤活存量和做優增量相結合，支援傳統批發零售業數智化轉型，加快老舊商業設施改造，推動實體商業轉型升級，同時大力發展新質生產力，推廣新技術新業態新模式，培育優質商業增量。三是要堅持鍛長板和補短板相結合，最佳化縣域商貿流通設施佈局，打造消費融合場景，豐富品牌供給，激發下沉市場消費活力，全面擴圍升級一刻鐘便民生活圈，引導優質商業資源下沉社群，不斷完善城市再生資源回收體系，貼近民生、服務群眾。四是要堅持設施建設和服務提升相結合，大力發展數智供應鏈，推進流通標準化建設，統籌好建設與運營，加強閉環管理，確保試點專案持續發揮效能。（商務部）"
+    },
+    {
+      "id": "te:markets:568110",
+      "time": "2026-07-20 14:14:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Taiwan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TAIEX Reverses Morning Gains, Ends at 2-Month Low — The TAIEX, Taiwan’s benchmark stock index, dropped 222 points, or 0.5%, to 42,450 on Monday, reversing morning gains, extending losses from the previous session, and lingering at its lowest level since May 22, tracking a decline on Wall Street on Friday amid a renewed selloff in tech stocks. Rising oil prices following US strikes on Iran also weighed on sentiment as inflation concerns fueled expectations of further interest rate hikes. Electronic technology, finance, and process industries mainly weighed on the index. The electronic technology sector fell 0.6% after plunging 7.5% in the previous session. Among the biggest laggards were Nan Ya Plastics (-6.3%), CTBC Financial (-1.0%), MediaTek (-0.9%), and Fubon Financial (-0.5%). However, TSMC, the world's largest contract chipmaker, which accounts for more than 40% of the market's total value, rose 1.3%, rebounding sharply from a 7.3% slump in the previous session, as the company expects strong demand for AI chips."
+    },
     {
       "id": "4997114",
       "time": "2026-07-20 14:13:29",
