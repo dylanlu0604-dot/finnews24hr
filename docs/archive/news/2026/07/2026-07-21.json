@@ -1,7 +1,24 @@
 {
   "date": "2026-07-21",
-  "count": 346,
+  "count": 348,
   "items": [
+    {
+      "id": "4998545",
+      "time": "2026-07-21 06:48:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【韓國執政黨要求加強單股槓桿ETF監管，必要時出臺進一步措施】據韓國《首爾經濟日報》，20日，韓國共同民主黨敦促金融委員會（FSC）對單股槓桿型交ETF進行重點監控，並在必要時制定補充措施。當天，韓國國會政務委員會所屬共同民主黨議員在首爾汝矣島國會與金融委員會舉行黨政座談會，聽取了金融委員會主席李億遠（Lee Eok-won）等官員的工作彙報。國會政務委員會執政黨幹事、共同民主黨議員樸相赫（Park Sang-hyuk）會後向記者表示：“金融委員會彙報了上週四公佈的相關措施。議員們普遍要求監管部門進一步加強市場監測和形勢研判，如有必要，應研究推出更多補充措施。”"
+    },
+    {
+      "id": "mkt:019f81b7-4b98-7aab-8e15-ef77f53ac366",
+      "time": "2026-07-21 06:48:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【S.Korea ruling party urges FSC to tighten oversight of single-stock leveraged ETFs, consider further measures】On the 20th the ruling Democratic Party of Korea urged the Financial Services Commission to step up monitoring of single-stock leveraged ETFs and to prepare additional remedial measures if necessary. The request followed a party-government briefing at the National Assembly where FSC Chair Lee Eok-won reviewed recently announced steps; MPs called for intensified market surveillance and ongoing situational assessment."
+    },
     {
       "id": "4998544",
       "time": "2026-07-21 06:45:13",
