@@ -1,7 +1,88 @@
 {
   "date": "2026-07-20",
-  "count": 1267,
+  "count": 1276,
   "items": [
+    {
+      "id": "4997114",
+      "time": "2026-07-20 14:13:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【品善生物完成近億元A輪融】近日，品善生物科技（上海）有限公司（簡稱“品善生物”）宣佈完成近億元A輪融資。本輪融資由倚鋒資本領投，冷杉溪資本、潯商創投、瑞夏投資跟投。所獲資金將重點用於高階過濾膜材料、層析填料等核心產品的持續研發、產業化能力提升及商業化推廣。"
+    },
+    {
+      "id": "4997113",
+      "time": "2026-07-20 14:13:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤基本持平，報8791.30美元。"
+    },
+    {
+      "id": "te:markets:568109",
+      "time": "2026-07-20 14:12:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Sterling Firms as Markets Eye Burnham’s First Moves — Sterling edged above $1.345 as Andy Burnham prepares to take office as Prime Minister today. Investor attention is now firmly on Burnham’s choice of Chancellor. Reports last week suggesting that Shabana Mahmood is the leading candidate have helped reassure markets, easing concerns that the new government could pursue a more expansionary fiscal agenda. Meanwhile, escalating tensions in the Middle East have pushed oil prices above $90 a barrel, adding to inflationary risks and reinforcing expectations that the Bank of England will keep policy tighter for longer. The US and Iran have exchanged an escalating series of retaliatory attacks, with US forces launching multiple strikes on Iran following the deaths of American service personnel. The longer the conflict persists, the greater the risk that elevated crude prices become entrenched."
+    },
+    {
+      "id": "4997112",
+      "time": "2026-07-20 14:12:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度盧比兌美元跌破1盧比對96.50美元，日內下跌0.25%。"
+    },
+    {
+      "id": "4997111",
+      "time": "2026-07-20 14:11:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港取消黃色暴雨警告訊號。"
+    },
+    {
+      "id": "4997110",
+      "time": "2026-07-20 14:11:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲5%，現報8921.00元。"
+    },
+    {
+      "id": "4997109",
+      "time": "2026-07-20 14:11:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【歐萊雅中國與火山引擎達成戰略合作】據火山引擎訊息，7月19日，歐萊雅（中國）有限公司與火山引擎正式達成戰略合作。雙方將圍繞 AIGC 創意內容生產、經營策略分析、消費者智慧服務等方向，探索大模型、多模態生成、智慧客服等AI能力，進入美妝內容運營、電商服務和使用者互動等業務場景的合作。"
+    },
+    {
+      "id": "4997108",
+      "time": "2026-07-20 14:10:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市解除所有分割槽雷雨大風和暴雨預警訊號、解除分割槽雷電預警訊號】雷暴雲團減弱，深圳市氣象臺2026年07月20日14時07分解除所有雷雨大風和暴雨預警訊號，解除全市陸地、珠江口、深圳灣雷電預警訊號，東部海區雷電預警訊號仍然生效。"
+    },
+    {
+      "id": "mkt:019f7e25-ca03-7aab-8e03-2e03a41e4787",
+      "time": "2026-07-20 14:10:33",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Deutsche Bank: Oil rally likely locks in ECB September rate hike】Deutsche Bank rate strategist Rainer Guntermann said in a note that rising oil prices make an ECB rate hike in September likely and that markets have largely priced this in. ECB President Lagarde may adopt a hawkish tone on inflation risks, but growing growth headwinds leave the outlook uncertain and she is unlikely to pre-commit to a September hike."
+    },
     {
       "id": "4997107",
       "time": "2026-07-20 14:10:12",
