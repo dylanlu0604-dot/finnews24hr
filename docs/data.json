@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-21 02:01:00",
-  "count": 19083,
+  "updated": "2026-07-21 02:05:05",
+  "count": 19081,
   "items": [
+    {
+      "id": "mkt:019f80b3-3849-7aab-8e13-8830473c03f6",
+      "time": "2026-07-21 02:04:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reports explosions heard in Jordan."
+    },
+    {
+      "id": "4998403",
+      "time": "2026-07-21 02:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦拉響防空警報。"
+    },
     {
       "id": "4998402",
       "time": "2026-07-21 01:59:44",
@@ -175444,42 +175465,6 @@
         "MKT News"
       ],
       "text": "Canadian banking regulator emailed company executives in April warning that ANTHROPIC's Claude MYTHOS poses risks to financial institutions."
-    },
-    {
-      "id": "mkt:019f5ca6-48f0-7aab-8d62-987eec60a659",
-      "time": "2026-07-14 02:03:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran FM: payment for Strait of Hormuz security justified but Trump’s 20% demand excessive】Iran’s foreign minister said Trump was completely right that any party providing security for merchant ships transiting the Strait of Hormuz should be compensated; he added a 20% fee would be excessive and said Iran would charge a fair fee."
-    },
-    {
-      "id": "4985259",
-      "time": "2026-07-14 02:03:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：加拿大銀行監管機構在 4 月致金融機構高管的郵件中，向各金融機構警示了 Anthropic 旗下 Claude Mythos 模型存在的相關風險。"
-    },
-    {
-      "id": "4985258",
-      "time": "2026-07-14 02:03:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲9%，現報82.85美元/桶。"
-    },
-    {
-      "id": "4985257",
-      "time": "2026-07-14 02:02:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：此地是波斯灣，霍爾木茲海峽的規則由伊朗制定。奉勸那些慘敗方：少放空話虛張聲勢，公佈你們人員傷亡與經濟損失的真實數字。"
     }
   ]
 }

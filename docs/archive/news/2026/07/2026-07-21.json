@@ -1,7 +1,28 @@
 {
   "date": "2026-07-21",
-  "count": 114,
+  "count": 116,
   "items": [
+    {
+      "id": "mkt:019f80b3-3849-7aab-8e13-8830473c03f6",
+      "time": "2026-07-21 02:04:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reports explosions heard in Jordan."
+    },
+    {
+      "id": "4998403",
+      "time": "2026-07-21 02:03:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "約旦拉響防空警報。"
+    },
     {
       "id": "4998402",
       "time": "2026-07-21 01:59:44",
