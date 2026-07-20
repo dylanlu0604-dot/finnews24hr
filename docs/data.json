@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-21 06:07:36",
-  "count": 19023,
+  "updated": "2026-07-21 06:11:32",
+  "count": 19022,
   "items": [
+    {
+      "id": "4998515",
+      "time": "2026-07-21 06:10:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國內政部長伯古姆：近期已與沙特、阿聯酋就輸油管道事宜展開會談。"
+    },
+    {
+      "id": "4998514",
+      "time": "2026-07-21 06:09:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【勝利管道：預計上半年淨利潤約人民幣2200萬元】勝利管道公告，預計2026年上半年淨利潤約人民幣2200萬元，上年同期為虧損約人民幣2540萬元。預計2026年上半年綜合收益總額不少於約人民幣2200萬元，上年同期為虧損約人民幣3960萬元。預計2026年上半年毛利不少於約人民幣7500萬元，上年同期為約人民幣4480萬元。(港交所)"
+    },
     {
       "id": "mkt:019f8191-3b56-7aab-8e15-6a2015d2a830",
       "time": "2026-07-21 06:06:46",
@@ -174896,36 +174912,6 @@
         "XAUUSD"
       ],
       "text": "Security sources said missiles struck a base of an Iranian Kurdish opposition group east of Erbil, Iraq."
-    },
-    {
-      "id": "4985405",
-      "time": "2026-07-14 06:10:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲7月維持利率不變的機率為58.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為58.3%，累計加息25個基點的機率為41.7%。 美聯儲到9月維持利率不變的機率為24.9%，累計加息25個基點的機率為51.2%，累計加息50個基點的機率為23.9%。"
-    },
-    {
-      "id": "mkt:019f5d87-818f-7aab-8d65-3da4542d1ee0",
-      "time": "2026-07-14 06:09:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hungary parliament passes amendment seeking to remove president】Hungary's parliament on the 13th passed the 17th amendment to the Fundamental Law seeking to remove President Shu Youke. Under the amendment, the president's mandate would end the day after the measure takes effect and parliament must elect a new president within 30 days. If the president refuses to sign the amendment, parliament may launch impeachment proceedings. Fidesz, led by former prime minister Orbán, and coalition partner the Christian Democratic People's Party (KDNP) called the amendment “undemocratic” and did not take part in the vote."
-    },
-    {
-      "id": "mkt:019f5d86-51c1-7aab-8d65-3269ef3fbfa4",
-      "time": "2026-07-14 06:08:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "U.S. President Trump said he will carry out another large-scale strike against Iran on Monday night (ET)."
     }
   ]
 }
