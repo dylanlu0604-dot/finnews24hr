@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-21 05:09:01",
-  "count": 19060,
+  "updated": "2026-07-21 05:13:00",
+  "count": 19061,
   "items": [
+    {
+      "id": "4998490",
+      "time": "2026-07-21 05:11:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "週一（7月20日）紐約尾盤（週二北京時間04:59），離岸人民幣（CNH）兌美元報6.7692元，較上週五紐約尾盤漲82點，日內整體交投於6.7787-6.7661元區間。"
+    },
+    {
+      "id": "4998489",
+      "time": "2026-07-21 05:10:16",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "【美國宣佈對加拿大部分產品加徵50%關稅】當地時間7月20日，白宮釋出公告稱，美國將對加拿大部分產品額外加徵50%的從價關稅，以應對“加拿大在汽車及汽車零部件貿易方面對美國採取的歧視性措施”。據稱，新關稅將自美東時間8月19日凌晨00時01分起生效，並將在現有相關關稅、稅費及其他收費基礎上疊加徵收。（央視新聞）"
+    },
+    {
+      "id": "4998488",
+      "time": "2026-07-21 05:09:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星信用卡由巴克萊銀行發行，依託VISA支付網路執行。"
+    },
+    {
+      "id": "te:economy:568317",
+      "time": "2026-07-21 05:08:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Argentina Trade Surplus Widens in June — Argentina's trade surplus widened to $2.19 billion in June 2026 from $0.88 billion a year earlier, marking its 31st consecutive month of positive trade balances. Exports rose 24.5% year-on-year to $9.06 billion, with growth broad-based across all major categories. Agricultural manufactures surged 31.6%, driven by higher shipments of fats and oils, food industry residues and waste, and meat products. Industrial manufactures also advanced 31.4%, supported mainly by chemicals and related products, as well as base metals and metal products. Exports of fuels and energy climbed 31.1%, as higher international prices more than offset lower shipment volumes. Imports increased 7.3% to $6.86 billion, driven primarily by fuels and lubricants, whose purchases soared 126.3%. Imports of intermediate goods rose 9.5%, while consumer goods increased 3.3%. In contrast, capital goods fell 8.0%, parts and accessories for capital goods declined 9.4%, and motor vehicle imports dropped 10.6%."
+    },
     {
       "id": "4998487",
       "time": "2026-07-21 05:08:07",
@@ -175241,36 +175279,6 @@
         "Important"
       ],
       "text": "Iranian state TV reports explosions heard at Bandar Abbas port in southern Iran."
-    },
-    {
-      "id": "mkt:019f5d51-6568-7aab-8d64-3df6c2ca2690",
-      "time": "2026-07-14 05:10:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said it launched a third consecutive night of strikes against Iran at 4:45 p.m. ET today, saying the actions will continue to make Iranian forces pay a heavy price and degrade their ability to attack commercial shipping in the Strait of Hormuz."
-    },
-    {
-      "id": "4985366",
-      "time": "2026-07-14 05:10:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中央司令部：應總司令指令，美國中央司令部於美國東部時間今日下午4點45分開啟連續第三晚針對伊朗的打擊行動。此次打擊將持續讓伊朗軍方付出沉重代價，並削弱其襲擊無辜平民與霍爾木茲海峽商船的能力。"
-    },
-    {
-      "id": "4985365",
-      "time": "2026-07-14 05:09:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國軍方：美國東部時間今日下午4點45分，美國中央司令部開始連續第三晚對伊朗發動打擊。"
     }
   ]
 }
