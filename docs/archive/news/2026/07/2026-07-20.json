@@ -1,7 +1,114 @@
 {
   "date": "2026-07-20",
-  "count": 755,
+  "count": 767,
   "items": [
+    {
+      "id": "mkt:019f7d54-3ec8-7aab-8dff-9849a08d433a",
+      "time": "2026-07-20 10:21:40",
+      "tags": [
+        "MKT News",
+        "00100.HK",
+        "Impact bearish",
+        "02513.HK"
+      ],
+      "text": "MINIMAX-W (00100.HK) fell more than 10%; Zhipu (02513.HK) fell more than 12%."
+    },
+    {
+      "id": "mkt:019f7d54-3561-7aab-8dff-95af6d634613",
+      "time": "2026-07-20 10:21:38",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Copper"
+      ],
+      "text": "【1H equipment manufacturing value added up 6.4% YoY】MIIT chief engineer Wang Weiming said at a State Council Information Office briefing on the 20th that in 1H equipment manufacturing value added rose 6.4% YoY, accounted for 20% of value added at industrial enterprises above designated size and contributed 23.5% to growth of that measure, supporting stable industrial activity. Industrial robot output was up 28% YoY and service robot output rose 11.9%."
+    },
+    {
+      "id": "4996732",
+      "time": "2026-07-20 10:21:14",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗將韓國評級下調至中性，稱交易環境波動】花旗將韓國股市評級從超配下調至戰術性中性，因近幾周晶片股劇烈波動，該機構希望減少對人工智慧主題的敞口。韓國綜合股價指數一直是狂野的人工智慧交易的典型代表，使其成為今年全球表現最佳的股市，但近幾周，由於散戶對單隻股票槓桿 ETF 的熱情以及估值擔憂，該市場遭受了嚴重波動。花旗表示，目前幾乎所有客戶討論都重新聚焦於2026年下半年市場表現可能\"擴大化\"的前景，但在新興市場國家配置中，該行仍對全面撤出科技板塊持謹慎態度。花旗對人工智慧主題保持結構性看漲立場，但將韓國評級下調至中性，同時將中國上調至增持。"
+    },
+    {
+      "id": "4996731",
+      "time": "2026-07-20 10:20:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "深深成指下行翻綠，此前一度漲近2%，滬指、創業板指漲幅同步收窄，電子特氣、儲存晶片、PCB、鋰礦等方向跌幅居前，滬深京三市下跌個股超2100只。"
+    },
+    {
+      "id": "4996730",
+      "time": "2026-07-20 10:19:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【CPO概念震盪回落 東山精密等多股跌停】CPO概念日內震盪回落，東山精密、劍橋科技、光迅科技跌停，源傑科技跌超15%，長光華芯、羅博特科、光庫科技、聯特科技等跌幅靠前。"
+    },
+    {
+      "id": "4996729",
+      "time": "2026-07-20 10:19:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "石油主題LOF早盤走強，嘉實原油LOF、原油LOF易方達、南方原油LOF均漲超6%，石油LOF漲超3%，石油基金LOF、全球油氣能源LOF均漲超2%。"
+    },
+    {
+      "id": "te:markets:568051",
+      "time": "2026-07-20 10:19:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Yen Trades Near 40-Year Lows — The Japanese yen traded around 162.3 per dollar on Monday, hovering near its weakest level since 1996 as a stronger dollar and surging oil prices, driven by the escalating conflict in the Middle East, continued to weigh on the currency. The US military carried out fresh airstrikes against Iran following the deaths of three American service members, while Tehran said its ceasefire with the US had effectively collapsed and that it intercepted four vessels transiting the Strait of Hormuz over the weekend. Japan remains heavily dependent on oil imports from the Middle East, leaving the yen particularly vulnerable to supply disruptions and higher energy costs. Investors also saw little indication of decisive action from Tokyo to support the currency, while awaiting intervention data due later this month for clues on whether Japanese authorities were behind the sharp but short-lived yen rallies seen in recent weeks."
+    },
+    {
+      "id": "4996728",
+      "time": "2026-07-20 10:18:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶釋出高溫橙色預警訊號】重慶市氣象臺7月20日10時00分發布“高溫橙色預警訊號”，預計20日14:00-20:00，兩江新區、渝中、沙坪壩、大渡口、九龍坡、南岸、高新區、北碚、巴南、潼南、合川、大足、銅梁、璧山、榮昌、永川、江津、綦江、長壽、墊江、豐都、梁平、開州、雲陽、奉節、巫溪、彭水等27個區縣海拔500米以下地區，日最高氣溫將升至37℃以上，局地可達40℃以上。"
+    },
+    {
+      "id": "mkt:019f7d51-543c-7aab-8dff-881b0af75746",
+      "time": "2026-07-20 10:18:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Oil-themed LOFs strengthened in morning trade: Harvest Crude Oil LOF, E Fund Crude Oil LOF and Southern Crude Oil LOF each rose over 6%; Oil LOF gained over 3%; Oil Fund LOF and Global Oil & Gas Energy LOF both rose more than 2%."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607203812427155",
+      "time": "2026-07-20 10:18:14",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【我國智慧算力規模同比增長177%】工業和資訊化部新聞發言人、資訊通訊管理局局長謝存20日在國新辦新聞釋出會上表示，我國智慧算力規模達2185EFLOPS，同比增長177%。"
+    },
+    {
+      "id": "4996727",
+      "time": "2026-07-20 10:18:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國智慧算力規模同比增長177%】工業和資訊化部新聞發言人、資訊通訊管理局局長謝存20日在國新辦新聞釋出會上表示，我國智慧算力規模達2185EFLOPS，同比增長177%。(新華財經)"
+    },
     {
       "id": "4996726",
       "time": "2026-07-20 10:17:36",
@@ -39,6 +146,15 @@
         "市場"
       ],
       "text": "越南 VN 指數開盤基本持平，報 1787.45 點。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607203812422417",
+      "time": "2026-07-20 10:16:05",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【國家層面綠色工廠產值佔製造業總產值比重達22%】工業和資訊化部總工程師王衛明7月20日在國新辦新聞釋出會上表示，已累計建成5.6萬餘家基礎級、9000餘家先進級、500餘家卓越級智慧工廠，培育15家領航級智慧工廠。深入推進工業領域降碳、減汙、擴綠，國家層面綠色工廠產值佔製造業總產值比重達22%。"
     },
     {
       "id": "4996723",
