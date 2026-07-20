@@ -1,7 +1,27 @@
 {
   "date": "2026-07-21",
-  "count": 169,
+  "count": 171,
   "items": [
+    {
+      "id": "4998433",
+      "time": "2026-07-21 03:30:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數20日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.19%，在匯市尾市收於100.957。截至紐約匯市尾市，1歐元兌換1.1415美元，低於前一交易日的1.1436美元；1英鎊兌換1.3436美元，低於前一交易日的1.3454美元。1美元兌換162.50日元，高於前一交易日的162.45日元；1美元兌換0.8100瑞士法郎，高於前一交易日的0.8075瑞士法郎；1美元兌換1.4059加元，高於前一交易日的1.4011加元；1美元兌換9.6856瑞典克朗，高於前一交易日的9.6497瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f8100-8437-7aab-8e14-22072e1138f1",
+      "time": "2026-07-21 03:28:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Expert: US lacks capability to destroy Iran】Veteran war reporter Elijah Magnier said the US can mount high‑intensity strikes on Iranian facilities but, at best, would only weaken Iran. He noted the US has large offensive munitions stocks but limited interceptor missile inventories, constraining its ability to defend US assets, allies and Israel from retaliatory strikes. Sustaining a large campaign would force hard choices about which bases, cities and incoming threats to protect. Magnier said Iran is likely to broaden the geographic scope of any conflict to increase the number of targets Washington must defend, raising the political — and especially economic — cost of further strikes. By using concentrated ballistic and cruise‑missile saturation attacks to wear down air defenses and force interceptors onto decoy targets, Iran could target US regional bases, logistics hubs, ports, radar facilities and fuel storage. Strikes on Gulf allies could increase domestic pressure on those governments to push the US to de‑escalate."
+    },
     {
       "id": "4998432",
       "time": "2026-07-21 03:24:12",
