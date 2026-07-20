@@ -1,7 +1,127 @@
 {
-  "updated": "2026-07-20 16:15:29",
-  "count": 19136,
+  "updated": "2026-07-20 16:19:48",
+  "count": 19127,
   "items": [
+    {
+      "id": "4997384",
+      "time": "2026-07-20 16:18:42",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【光大期貨：地緣風暴席捲能化，甲醇暴漲6%】國內能化板塊在週末地緣局勢急劇升溫的催化下集體爆發，甲醇期貨成為領漲先鋒之一。主力2609合約早盤跳空高開，盤中一度漲近7%，遠月2610、2611合約更是一度觸及漲停板。據新華社援引伊朗法爾斯通訊社19日報道，霍爾木茲海峽的通航量已降至零，只要美國繼續其挑釁行為，該海峽將保持關閉。美國能源部長賴特表示，在總統特朗普實現其軍事行動目標之前，美國針對伊朗的軍事行動將繼續進行。此外，胡塞武裝可能採取行動封鎖紅海曼德海峽，進一步加劇了市場對能源供應中斷的擔憂。在成本傳導和進口受阻的雙重影響下，甲醇價格再度走高。（光大期貨）"
+    },
+    {
+      "id": "4997383",
+      "time": "2026-07-20 16:18:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【跨維智慧釋出首個跨源機器人大規模資料集與模擬引擎】在2026世界人工智慧大會期間，跨維智慧正式釋出開源Aligned DexWorld，成為全球首個貫通人類到模擬到真機，實現時間、空間、動作三維對齊的大規模資料集，降低通用機器人與物理AI訓練門檻。另外，公司釋出自主研發的實時多物理場模擬引擎DexVerse，可高精度還原真實物理規則，為世界模型持續輸送有效訓練資料。"
+    },
+    {
+      "id": "4997382",
+      "time": "2026-07-20 16:17:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【眾擎機器人等在河南新設具身智慧股權投資基金】企查查APP顯示，近日，河南匯融具身智慧股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由深圳眾擎機器人科技股份有限公司等共同出資。"
+    },
+    {
+      "id": "4997381",
+      "time": "2026-07-20 16:17:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SK海力士美股盤前漲超4%】SK海力士美股盤前漲超4%，現報160.24美元。"
+    },
+    {
+      "id": "4997380",
+      "time": "2026-07-20 16:16:49",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【無問芯穹釋出“前店後廠一中心”Agentic Infra戰略佈局】7月20日，在2026世界人工智慧大會上，無問芯穹釋出“前店後廠一中心”Agentic Infra戰略佈局，涵蓋三個核心技術能力與產品服務體系，分別為“算力集散中心”：Agentic Infra自主式基礎設施平臺；“Token工廠”：Agentic MaaS大模型服務平臺；“AI生產力商店”：Agentic Infra行業解決方案。"
+    },
+    {
+      "id": "mkt:019f7e99-3ce1-7aab-8e06-54829f98682d",
+      "time": "2026-07-20 16:16:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president congratulated the people and government of Spain on winning the World Cup, saying their joy is shared by Iran's people and government."
+    },
+    {
+      "id": "4997379",
+      "time": "2026-07-20 16:16:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司：目前在財務上尚不具備研發下一代飛機的能力。"
+    },
+    {
+      "id": "mkt:019f7e98-f0ef-7aab-8e06-483df1757bd1",
+      "time": "2026-07-20 16:16:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain Defence Force General Command said all branches and units are at the highest level of readiness and fully prepared to defend the kingdom."
+    },
+    {
+      "id": "4997378",
+      "time": "2026-07-20 16:16:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司執行長表示，市場尚未完全準備好迎接737的繼任者。"
+    },
+    {
+      "id": "4997377",
+      "time": "2026-07-20 16:15:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林國防軍總司令部：伊朗繼續採取系統性的敵對行徑，針對巴林王國的平民發動罪惡襲擊。"
+    },
+    {
+      "id": "4997376",
+      "time": "2026-07-20 16:15:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統：“我祝賀西班牙人民和政府，其國家足球隊在世界盃上取得的成功和當之無愧的冠軍頭銜。西班牙友好的人民和政府的喜悅，就是伊朗人民和政府的喜悅。”"
+    },
+    {
+      "id": "mkt:019f7e98-5e2d-7aab-8e06-45b5872b50a8",
+      "time": "2026-07-20 16:15:42",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain Defence Force General Command said Iran continues systematic hostile acts, launching criminal attacks targeting Bahraini civilians."
+    },
+    {
+      "id": "mkt:019f7e97-e8df-7aab-8e06-3fa5b312506f",
+      "time": "2026-07-20 16:15:12",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact mixed"
+      ],
+      "text": "【CITIC Securities' Xia Fanjie: A-shares \"re-anchoring\" underway; external risk to be gradually peeled off】Korean stocks continued to fall on July 20; as the current core market risk, Korea's deleveraging risk is not yet fully cleared, raising spillover concerns for A-shares. Xia Fanjie said A-shares are undergoing a \"re-anchoring\" process and the Korean risk shock should be gradually peeled off. Market style will hinge on incremental capital: leveraged funds are withdrawing while medium- to long-term funds are flowing in. That shift in incremental capital and pricing power will alter market style; near term he prefers a rebound in dividend-yielding and deeply oversold sectors."
+    },
+    {
+      "id": "4997375",
+      "time": "2026-07-20 16:14:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華東地區首座國產TPU千卡智算叢集落成】WAIC期間，華東地區（杭州）首座國產TPU千卡智算叢集落成儀式舉行。該叢集由杭州電信、中興通訊與中昊芯英聯合打造，為中國電信體系內首個大規模國產TPU叢集部署專案。據悉，叢集基於“泰則®”智算平臺構建，將面向大模型訓練、AI推理、科學計算等場景提供全自主算力支撐。“泰則®”2.0人工智慧伺服器，由兩路高效能CPU與8片中昊芯英TPU架構AI晶片“須臾®”協同構成，整機算力達7.168P。在叢集部署層面，單個超節點最高可實現2048片須臾晶片直聯，承載萬億引數大模型訓練。軟體層面已完成Qwen全系列、DeepSeek、GLM等大模型的深度適配。"
+    },
     {
       "id": "4997374",
       "time": "2026-07-20 16:14:35",
@@ -176167,215 +176287,6 @@
         "公司"
       ],
       "text": "【大連熱電：預計2026年上半年淨利潤0.42億元到0.52億元】大連熱電公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤0.42億元到0.52億元，與上年同期-0.41億元相比，將實現扭虧為盈。歸屬於上市公司股東的扣除非經常性損益後的淨利潤0.37億元到0.47億元。"
-    },
-    {
-      "id": "4984069",
-      "time": "2026-07-13 16:19:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯發股份：預計2026年上半年淨利潤同比下降90.77%-87.51%】聯發股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為1700萬元-2300萬元，同比下降90.77%-87.51%；扣除非經常性損益後的淨利潤為9900萬元-1.05億元，同比下降23.30%-18.65%。主要原因是公司持有的交易性金融資產與2025年半年度末相比公允價值變動損益和投資收益的影響，導致報告期內歸屬於上市公司股東的淨利潤下降幅度較大。"
-    },
-    {
-      "id": "4984068",
-      "time": "2026-07-13 16:19:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【坤泰股份：預計2026年上半年淨利潤同比下降86.37%～82.29%】坤泰股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為300萬元至390萬元，比上年同期下降86.37%至82.29%；扣除非經常性損益後的淨利潤為210萬元至300萬元，比上年同期下降89.96%至85.65%。2026年半年度業績較去年同期下降的主要原因系：1、報告期內，受行業環境、市場競爭等影響，公司簇絨地毯產品銷售量有所下降，原材料成本上升，導致公司本期營業收入同比下降，整體毛利率下降，影響本期淨利潤。2、報告期內，為加快全球化產能戰略佈局，公司海外業務佈局前期投入增加，影響本期淨利潤。"
-    },
-    {
-      "id": "4984067",
-      "time": "2026-07-13 16:19:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【生意寶：預計2026年上半年淨利潤為250萬元至375萬元，同比扭虧為盈】生意寶公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為250萬元至375萬元，上年同期為-704.3萬元，同比扭虧為盈。扣除非經常性損益後的淨利潤為-250萬元至-125萬元，上年同期為-1557.53萬元。"
-    },
-    {
-      "id": "4984066",
-      "time": "2026-07-13 16:19:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國際乒聯正式恢復俄羅斯運動員參賽資格】據國際乒聯7月13日釋出的訊息，國際乒聯執行董事會10日召開線上會議，專題審議俄羅斯運動員參與國際乒聯賽事的相關事宜，決定自2026年7月28日起恢復俄羅斯運動員參賽資格。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f5a8f-699d-7aab-8d54-4ba407bd31a2",
-      "time": "2026-07-13 16:19:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【US-Iran standoff over Strait of Hormuz keeps full-war risk high】Analyst Divyang Shah says the Middle East conflict has become zero-sum across multiple dossiers—Lebanon, control of the Strait of Hormuz, Iran’s enriched uranium and frozen assets—so one side’s gain implies the other’s clear loss, shrinking scope for compromise. This week the dispute over maritime control moved to the front line: US efforts to preserve free passage via an Oman route directly conflict with Iran’s intent to keep shipping on the northern Iran corridor. Attacks have specifically targeted vessels using the Oman route; over the past 24 hours the US has escorted a tanker convoy that had shut off AIS signals through the route while responding with restrained military strikes. The April 9 ceasefire and June 17 memorandum created a temporary window that let Iran fortify positions and redeploy concealed missiles, and let the US clear ships and export urgent cargoes including crude. Bloomberg reports that of 109 non‑Iranian large tankers in the Gulf when the war began, only one remained; 50 left on June 18 or later. With Iran likely seeking to reassert control and block normalization of the Oman corridor, escalation risk is rising as the US conducts successive strike rounds. Implied volatility has fallen since the March/April peak, but the renewed contest for Strait control increases the case for re‑pricing oil/shipping risk premia and volatility."
-    },
-    {
-      "id": "4984065",
-      "time": "2026-07-13 16:19:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟將針對俄羅斯網路活動制裁9名個人及4家實體。"
-    },
-    {
-      "id": "4984064",
-      "time": "2026-07-13 16:19:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐洲理事會：理事會透過針對性扶持措施，幫扶面臨化肥高價壓力的農戶。"
-    },
-    {
-      "id": "4984063",
-      "time": "2026-07-13 16:18:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中稀有色：預計2026年上半年淨利潤同比增加410.35%到493.11%】中稀有色公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為3.7億元至4.3億元，與上年同期相比，將增加2.98億元到3.58億元，同比增加410.35%到493.11%。預計2026年半年度實現歸屬於上市公司股東的扣除非經常性損益的淨利潤為3.68億元至4.28億元，與上年同期相比，將增加2.76億元到3.36億元，同比增加301.00%到366.39%。"
-    },
-    {
-      "id": "4984062",
-      "time": "2026-07-13 16:18:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，電影《功夫女足》上映3天，總票房（含預售）超5.683億，登頂2026年暑期檔票房榜！"
-    },
-    {
-      "id": "4984061",
-      "time": "2026-07-13 16:17:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【友發集團：董事張德剛減持305萬股 減持計劃實施完畢】友發集團公告稱，公司董事張德剛曾於2026年3月17日披露減持計劃，擬減持不超306.25萬股，佔公司總股本的0.21%。截至公告披露日，張德剛在預披露的減持期間內透過集中競價和大宗交易方式共減持305萬股，佔公司總股本的0.21%，減持比例達24.90%，當前持股920萬股，佔比0.62%，減持計劃實施完畢。"
-    },
-    {
-      "id": "4984060",
-      "time": "2026-07-13 16:17:41",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【渤海化學：預計2026年上半年淨利潤虧損2.75億元-3.15億元】渤海化學公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤約為-3.15億元到-2.75億元。扣除非經常性損益事項後，預計2026年半年度實現歸屬於上市公司股東的淨利潤約為-3.17億元到-2.77億元。2026年上半年受中東美伊衝突影響，原材料採購成本居高不下，國內面臨產能過剩與需求疲軟的雙重困境。"
-    },
-    {
-      "id": "4984059",
-      "time": "2026-07-13 16:17:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【百洋股份：預計2026年上半年淨虧損5700萬元-8000萬元】百洋股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為5700萬元-8000萬元，上年同期為盈利1178.93萬元；扣除非經常性損益後的淨虧損為6600萬元-8900萬元，上年同期為盈利661.45萬元。報告期內，公司業績較上年同期出現較大虧損，主要受以下因素綜合影響：一是水產品出口業務行業週期下行，主要海外市場終端消費需求相對疲軟，供需關係出現錯配，疊加中東衝突造成海運費短期內大幅跳漲，業務毛利同比顯著減少；二是生豬行業延續磨底態勢，豬價低於養殖成本線，公司飼料業務配套的生豬養殖出現階段性虧損；三是匯兌損益影響，上半年美元持續走弱，公司水產品出口業務的美元應收款等美元計價資產形成匯兌損失。"
-    },
-    {
-      "id": "4984058",
-      "time": "2026-07-13 16:17:37",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家醫保局、國家藥監局開展跨部門聯合檢查】近日，國家醫保局、國家藥監局組成聯合檢查組，依據藥品追溯碼篩查線索對內蒙古自治區和山西省部分地市醫藥機構、藥品批發企業開展聯合檢查。國家醫保局黨組成員、副局長黃華波同志赴內蒙古自治區檢查現場進行調研指導。本次聯合檢查緊扣醫保基金管理突出問題專項整治工作部署要求，以藥品追溯碼為重要抓手，聚焦醫保基金使用和藥品經營流通等關鍵環節，開展“四不兩直”突擊檢查，對聯合檢查發現的違法違規問題將依法依規嚴肅處理。為深入瞭解藥品追溯碼監管應用工作推進情況，黃華波副同志赴海拉爾區、額爾古納市、牙克石市部分零售藥店和醫療機構進行現場調研，組織召開專題座談會，聽取內蒙古自治區、呼倫貝爾市、海拉爾區相關部門關於藥品追溯碼監管應用工作的意見建議。黃華波強調，黨中央、國務院高度重視維護醫保基金安全，《國家醫保局、人力資源社會保障部、國家衛生健康委、國家藥監局關於加強藥品追溯碼在醫療保障和工傷保險領域採集應用的通知》（醫保發〔2025〕7 號）檔案已明確規定，“2026年1月1日起，所有醫藥機構都要實現藥品追溯碼全量採集上傳”。各地要對照四部委檔案要求，壓緊壓實醫藥機構主體責任。確保追溯碼全量採集上傳工作落實落地。要堅持全面從嚴整治，堅決斬斷迴流藥黑色產業鏈。要持續深化部門協同聯動，完善資料共享、線索移送、聯合檢查等工作機制，鞏固專項整治成果，堅決守護醫保基金安全和群眾用藥安全。"
-    },
-    {
-      "id": "mkt:019f5a8d-423b-7aab-8d54-405ac9595f82",
-      "time": "2026-07-13 16:17:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A university hospital in Frankfurt, Germany said it had received an Ebola patient from Congo."
-    },
-    {
-      "id": "mkt:019f5a8d-4107-7aab-8d54-3b8edf9d8d2b",
-      "time": "2026-07-13 16:17:14",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Fangda Group: 1H 2026 net profit forecast up 177.62%–223.89% YoY】On July 13 Fangda Group said it expects 1H 2026 net profit attributable to the parent company of 48–56 mln yuan, a YoY increase of 177.62%–223.89%. The company cited improved operating performance and tighter receivables management; receivables fell since the start of the year, reducing impairment provisions."
-    },
-    {
-      "id": "4984057",
-      "time": "2026-07-13 16:16:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "德國法蘭克福市大學醫院接診了一名來自剛果的埃博拉患者，這是該醫院釋出的宣告內容。"
-    },
-    {
-      "id": "4984056",
-      "time": "2026-07-13 16:16:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【捷佳偉創VCP電鍍裝置獲復購訂單】近日，捷佳偉創自主研發的全自動移載式VCP填孔電鍍裝置斬獲客戶重複訂單。同時公司新增多臺VCP裝置採購訂單，預計於今年第四季度陸續交付出貨。"
-    },
-    {
-      "id": "mkt:019f5a8c-69e8-7aab-8d54-37022c96d4cd",
-      "time": "2026-07-13 16:16:19",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Tencent",
-        "00700.HK",
-        "Impact bearish"
-      ],
-      "text": "HSBC cuts PT for Tencent Holdings (00700.HK) to HK$655 from HK$720."
-    },
-    {
-      "id": "mkt:019f5a8c-173b-7aab-8d54-290ddff367ea",
-      "time": "2026-07-13 16:15:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Market Themes",
-        "Chip Wars",
-        "Hang Seng Index",
-        "Impact bullish",
-        "03986.HK",
-        "Impact bearish",
-        "00100.HK"
-      ],
-      "text": "【Hong Kong close: HSI finished slightly higher, up 0.96%; chip and memory names weak all day】Hong Kong stocks closed mixed. The Hang Seng Index rose 0.16%, the Hang Seng Tech Index fell 0.96%. Turnover was HK$309.5bn. Memory/storage names slumped: Zhaoyi Innovation (03986.HK) down more than 15%; Southern 2x long Samsung Electronics product down over 20%; Southern 2x long SK Hynix product down over 33%. AI large-model name MINIMAX-W (00100.HK) fell more than 17%. Autos were weak, led by SERES (09927.HK), down over 13%. PCB names tumbled: Kingboard Laminates (01888.HK) down over 18%; Kingboard Holdings (00148.HK) down over 19%."
-    },
-    {
-      "id": "mkt:019f5a8c-0ae1-7aab-8d54-27eccc8b96b2",
-      "time": "2026-07-13 16:15:54",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's Long March-5 Yao-14 carrier rocket has arrived at the Wenchang Space Launch Site and will carry out the Chang'e-7 lunar mission."
-    },
-    {
-      "id": "4984055",
-      "time": "2026-07-13 16:15:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【通用股份：預計2026年半年度淨利潤同比增加114.66%到176.88%】通用股份公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為1.38億元到1.78億元，同比增加114.66%到176.88%。預計2026年半年度實現歸屬於上市公司股東的扣除非經常性損益的淨利潤為1.37億元到1.77億元，同比增加176.51%到257.24%。"
-    },
-    {
-      "id": "4984054",
-      "time": "2026-07-13 16:15:41",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【期待！長征五號遙十四火箭運抵文昌】據中國載人航天工程辦公室訊息，今天，將執行嫦娥七號任務的長征五號遙十四運載火箭安全運抵文昌航天發射場。後續，該火箭將與先期運抵的嫦娥七號探測器一起開展發射場區總裝和測試工作。目前，發射場區各參試系統正在按計劃開展嫦娥七號任務準備工作。為中國航天加油！（央視新聞）"
-    },
-    {
-      "id": "4984053",
-      "time": "2026-07-13 16:15:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "長征五號遙十四運載火箭運抵文昌航天發射場，將執行嫦娥七號任務。 （新華社）"
     }
   ]
 }
