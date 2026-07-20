@@ -1,0 +1,53 @@
+{
+  "date": "2026-07-21",
+  "count": 5,
+  "items": [
+    {
+      "id": "4998341",
+      "time": "2026-07-21 00:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克北歐交易所：結算價釋出延遲。"
+    },
+    {
+      "id": "mkt:019f8043-c4a6-7aab-8e12-48b0794fd736",
+      "time": "2026-07-21 00:02:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Iranian foreign minister Araghchi met with Iran's ambassadors to Italy, France and the United Kingdom to discuss bilateral relations and related issues."
+    },
+    {
+      "id": "4998340",
+      "time": "2026-07-21 00:00:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長：要調動全部外交資源維護本國利益；需持續開展積極溝通，清晰闡明伊朗的原則立場，負責任推進與歐洲國家雙邊及多邊事務落地。"
+    },
+    {
+      "id": "4998339",
+      "time": "2026-07-21 00:00:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長會見伊朗駐義大利、法國、英國三國大使。"
+    },
+    {
+      "id": "mkt:019f8041-95f6-7aab-8e12-4633b23f6c3b",
+      "time": "2026-07-21 00:00:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. Strategic Petroleum Reserve crude stocks fell about 5.1 mln barrels last week to 311.4 mln barrels, the lowest level since 1983."
+    }
+  ]
+}
