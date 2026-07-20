@@ -1,7 +1,41 @@
 {
   "date": "2026-07-21",
-  "count": 265,
+  "count": 269,
   "items": [
+    {
+      "id": "4998493",
+      "time": "2026-07-21 05:16:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普抨擊加拿大 “複雜且貿易保護主義的乳製品體系”。"
+    },
+    {
+      "id": "mkt:019f8162-5485-7aab-8e15-318ccf6ff041",
+      "time": "2026-07-21 05:15:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Canada imposes specific tariffs and quota limits on cars imported from the U.S., but has not applied similar measures to other countries."
+    },
+    {
+      "id": "4998492",
+      "time": "2026-07-21 05:15:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.03%，報14831點。"
+    },
+    {
+      "id": "4998491",
+      "time": "2026-07-21 05:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大對自美國進口的汽車徵收特定關稅、設定配額，卻未對其他國家採取同等限制。"
+    },
     {
       "id": "4998490",
       "time": "2026-07-21 05:11:31",

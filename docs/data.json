@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-21 05:13:00",
-  "count": 19061,
+  "updated": "2026-07-21 05:16:59",
+  "count": 19059,
   "items": [
+    {
+      "id": "4998493",
+      "time": "2026-07-21 05:16:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普抨擊加拿大 “複雜且貿易保護主義的乳製品體系”。"
+    },
+    {
+      "id": "4998492",
+      "time": "2026-07-21 05:15:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.03%，報14831點。"
+    },
+    {
+      "id": "mkt:019f8162-5485-7aab-8e15-318ccf6ff041",
+      "time": "2026-07-21 05:15:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said Canada imposes specific tariffs and quota limits on cars imported from the U.S., but has not applied similar measures to other countries."
+    },
+    {
+      "id": "4998491",
+      "time": "2026-07-21 05:15:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：加拿大對自美國進口的汽車徵收特定關稅、設定配額，卻未對其他國家採取同等限制。"
+    },
     {
       "id": "4998490",
       "time": "2026-07-21 05:11:31",
@@ -175229,56 +175263,6 @@
         "國際"
       ],
       "text": "烏克蘭首都基輔響起防空警報。"
-    },
-    {
-      "id": "4985369",
-      "time": "2026-07-14 05:16:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國商品期貨交易委員會（CFTC）批准最終規則，調整非清算互換交易保證金要求。"
-    },
-    {
-      "id": "mkt:019f5d56-b2e5-7aab-8d64-50e1c37fe33f",
-      "time": "2026-07-14 05:16:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iran says it struck US forces in Kuwait and fired cruise missiles at US naval vessels】Early on the 14th local time, Iran's military said it launched suicide drones hours earlier to strike US positions in Kuwait, hitting communications systems, fuel storage, a Patriot air-defence battery, a control tower and ammunition depots. The statement added that, in response to recent US missile strikes on parts of Iran's military, the Iranian navy fired cruise missiles at US warships. Iran said its defensive strikes would be calibrated to the severity of enemy actions and would continue."
-    },
-    {
-      "id": "4985368",
-      "time": "2026-07-14 05:16:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱襲擊駐科威特美軍 並向美軍艦艇發射巡航導彈】當地時間14日凌晨，伊朗軍隊發表宣告稱，針對美國近期對伊朗持續實施的挑釁和侵略行為，伊朗軍隊數小時前出動自殺式無人機，對駐科威特美軍的通訊系統、燃料儲存設施、“愛國者”防空系統、控制塔以及彈藥庫實施打擊。此外，作為美國導彈襲擊伊朗部分軍事設施的回應，伊朗海軍發射了巡航導彈，對美軍艦艇實施打擊。伊朗軍隊在宣告中表示，針對違背承諾的敵人的侵略行為，伊朗的防禦性打擊將根據敵方惡行程度進行調整，並將繼續強力展開。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f5d56-2498-7aab-8d64-48ebf241158d",
-      "time": "2026-07-14 05:15:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Commodity Futures Trading Commission (CFTC) approved a final rule amending margin requirements for uncleared swaps."
-    },
-    {
-      "id": "4985367",
-      "time": "2026-07-14 05:13:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗國家電視臺表示，伊朗南部阿巴斯港聽到多次爆炸聲。"
-    },
-    {
-      "id": "mkt:019f5d54-4819-7aab-8d64-44e333b80651",
-      "time": "2026-07-14 05:13:52",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Iranian state TV reports explosions heard at Bandar Abbas port in southern Iran."
     }
   ]
 }
