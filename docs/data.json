@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-20 08:45:05",
-  "count": 19041,
+  "updated": "2026-07-20 08:48:59",
+  "count": 19038,
   "items": [
+    {
+      "id": "te:markets:568024",
+      "time": "2026-07-20 08:47:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Rises to 2-Month High — Gasoline futures in the US climbed above $3.40 per gallon, reaching their highest level since May 22, as escalating strikes in the Middle East heightened concerns over disruptions to global refined fuel supplies. Iran declared the ceasefire with the US effectively over as both sides expanded attacks beyond military targets to critical infrastructure, dimming hopes of a return to the fragile truce. Meanwhile, Ukrainian strikes on Russian energy infrastructure continued to disrupt refinery operations. Refiners in the US and other regions also shifted production toward higher-margin diesel and jet fuel, reducing gasoline output. EIA data showed gasoline inventories fell by 1.5 million barrels in the week ending July 10, leaving stockpiles about 14 million barrels below their five-year seasonal average and at their lowest level for this time of year since 2012. The tighter market lifted the US gasoline crack spread to its highest level since June 2022."
+    },
+    {
+      "id": "4996493",
+      "time": "2026-07-20 08:47:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【特朗普：Giant Eagle公司將大幅降價】美國總統特朗普發帖稱：我剛剛得知，一家出色的美國雜貨公司Giant Eagle將在今年夏天至勞動節期間，大幅降價超過300種商品，以幫助辛勤工作的美國家庭。與沃爾瑪一樣，Giant Eagle正以巨大而勇敢的方式回應我為勞工家庭降低成本的呼籲。我們將繼續降價，就像石油、天然氣、雞蛋和處方藥一樣，在我們繼承自“瞌睡喬”政府的災難之後迅速降價。其他連鎖雜貨企業必須立即效仿Giant Eagle和沃爾瑪這些絕對愛國者的做法。讓我們攜手合作，讓美國比以往任何時候都更強大、更實惠，並擺脫民主黨以及“瞌睡喬”政府給我們帶來的惡臭和通貨膨脹。"
+    },
+    {
+      "id": "mkt:019f7cfd-9980-7aab-8dfd-3feff024c493",
+      "time": "2026-07-20 08:47:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yonhap reported on Monday that a poll showed South Korea's President Lee's approval slipped to 48.4% this week after two weeks of gains."
+    },
+    {
+      "id": "mkt:019f7cfb-d595-7aab-8dfd-32bda5dea683",
+      "time": "2026-07-20 08:45:06",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Microsoft",
+        "Meta Platforms",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "AMZN.O",
+        "GOOGL.O"
+      ],
+      "text": "【Analyst: Korean chip stocks oversold; US hyperscaler earnings could spark rebound】Korean semiconductor stocks have fallen well beyond fundamentals, Hana Securities analyst Lee Jaeman said, adding that even after accounting for cyclical risk the recent sell-off appears excessive. He flagged upcoming earnings from US hyperscalers — Alphabet, Microsoft, Meta and Amazon — starting in late July as a potential catalyst for a rebound. Hana projects combined capex growth for those four firms to rise from 80% in Q1 2026 to 83% in Q2 and 92% in Q3, and said stronger investment demand could enable semiconductor companies to sustain high operating margins."
+    },
     {
       "id": "4996492",
       "time": "2026-07-20 08:43:13",
@@ -175631,72 +175677,6 @@
         "公司"
       ],
       "text": "【酒價內參7月13日價格釋出：習酒君品領跌 總價創15天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月13日整體低位微幅回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9854元，較昨日小幅下跌4元，連續兩日回落並創下15天以來最低。國窖1573續創近一月最高價紀錄，而精品茅臺則創近一月最低價。縱觀全場，高低位品種並存，核心單品漲跌分化依然顯著，終端交投量能基本穩定，總價低位震盪格局延續。\n\n今日11大白酒單品六漲五跌，贏家數量略佔優勢。上漲方面，洋河夢之藍M6+與青花郎漲幅居前，均上漲5元/瓶，其中前者回補昨日全部跌幅，重新逼近600元大關，後者再度叩響700元關口；五糧液普五八代上漲3元/瓶，兩連陽後已逼近800元大關；國窖1573上漲2元/瓶，連續四日走高並續創近一月最高價紀錄，近一月其價格中樞持續上移；飛天茅臺與五糧液1618均小幅上漲1元/瓶，其中後者自昨日創下的近一月最低價處小幅修復。下跌方面，習酒君品跌幅居前，下跌6元/瓶，連續兩日回落並降至近一個月次低位；精品茅臺與青花汾20均下跌5元/瓶，其中前者連跌三天，跌至2390元一線並創5月16日i茅臺平臺提價以來最低，後者自昨日創下的近一月最高價處回落；古井貢古20下跌3元/瓶，連續兩日走低，近一月其最高價與最低價相差49元/瓶，價格波動顯著；水晶劍南春下跌2元/瓶。"
-    },
-    {
-      "id": "mkt:019f58f1-c9ae-7aab-8d48-87058ca85230",
-      "time": "2026-07-13 08:47:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "【Margin financing across China's two exchanges falls CNY 11.339 bln】As of July 10, margin financing balances on China's two stock exchanges totaled CNY 2.913769 tln, down CNY 11.339 bln from the prior session. Shanghai Exchange: CNY 1.471272 tln, down CNY 7.975 bln; Shenzhen Exchange: CNY 1.442497 tln, down CNY 3.364 bln."
-    },
-    {
-      "id": "4983296",
-      "time": "2026-07-13 08:47:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【藥物牧場完成5500萬美元融資】近日，創新藥企藥物牧場(DrugFarm)宣佈完成5500萬美元D輪融資首輪融資。本輪融資由上海浦東引領區投資中心與上海浦興協同私募基金合夥企業共同領投，致凱資本福州新合基金、深圳市羅湖東海睿智醫藥產業投資合夥企業、科源製藥跟投，現有投資方百奧維達中國基金（BVCF）、YDCapital、嘉善國投等繼續跟投。"
-    },
-    {
-      "id": "4983295",
-      "time": "2026-07-13 08:47:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩市融資餘額較上日減少113.39億元】截至7月10日，上交所融資餘額報14712.72億元，較前一交易日減少79.75億元；深交所融資餘額報14424.97億元，較前一交易日減少33.64億元；兩市合計29137.69億元，較前一交易日減少113.39億元。"
-    },
-    {
-      "id": "4983294",
-      "time": "2026-07-13 08:46:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【河北寬城9個村子道路水毀】受極端強降雨影響，河北承德寬城滿族自治縣寬城鎮、孟子嶺鄉、桲羅臺鎮、龍鬚門鎮4個鄉鎮共9個村子道路大面積水毀、交通中斷，約1800多名村民出行受阻。7月12日，當地先後釋出暴雨紅色預警、地質災害紅色預警、山洪橙色預警，降雨一直持續至12日夜間23時左右。（央視）"
-    },
-    {
-      "id": "te:markets:566167",
-      "time": "2026-07-13 08:45:34",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "EU Gas Prices Rise on New US-Iran Attacks — European natural gas prices rose to around €49.4 per MWh on Monday, recouping losses from the previous session as renewed exchanges of attacks between the US and Iran heightened concerns over shipments through the Strait of Hormuz. Over the weekend, Iran expanded its strikes to Qatar and the UAE, while the US carried out additional attacks on Iranian targets. President Donald Trump stated that the strait remains open to commercial shipping, although Iran ?announced earlier that it had closed the waterway after a vessel using an unauthorized route was hit by a warning shot. Market participants remain on high alert, as any prolonged conflict or direct damage to LNG export infrastructure in the Gulf could complicate Europe's efforts to replenish storage ahead of the winter heating season."
-    },
-    {
-      "id": "4983293",
-      "time": "2026-07-13 08:45:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【順網科技：截至一季度末公司已構建超330個節點機房高效協同的分散式算力網路】順網科技7月13日在互動平臺表示，公司高度重視雲遊戲及算力服務業務的發展。截至2026年第一季度末，公司已構建超330個節點機房高效協同的分散式算力網路，為近82萬終端提供服務，可運營算力規模達5.3萬路，並透過自研排程平臺持續最佳化算力資源的納管與高效排程。"
-    },
-    {
-      "id": "4983292",
-      "time": "2026-07-13 08:45:22",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金公司：中報業績期關注三條投資主線】中金公司研報認為，當前市場受外部不確定性影響較大，業績期投資者有望更關注基本面動向，透過中報尋找結構性亮點。業績披露階段重點關注：中報業績亮點領域。例如，上游油氣化工和部分金屬、受益於AI高景氣和海外需求的科技硬體和電力裝置、非銀金融等；AI產業鏈。當前AI產業快速發展，產業趨勢持續支援需求增長，關注直接受益於AI技術落地的光通訊，以及同時受益於能源安全與產業鏈安全的電池、儲能等；供需相對平衡的週期行業。結合產能週期位置和需求回升，關注細分化工品、光學光電子、部分創新藥等。"
     }
   ]
 }
