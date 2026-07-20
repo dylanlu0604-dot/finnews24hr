@@ -1,7 +1,112 @@
 {
   "date": "2026-07-20",
-  "count": 1639,
+  "count": 1650,
   "items": [
+    {
+      "id": "mkt:019f7e9f-25e6-7aab-8e06-6a7a0a5e4d30",
+      "time": "2026-07-20 16:23:06",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "Boeing (BA.N) CEO says the company's financial position is not yet sufficient to support R&D for a next-generation aircraft."
+    },
+    {
+      "id": "4997392",
+      "time": "2026-07-20 16:22:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【TCL科技：擬發行股份及支付現金購買資產事項將於7月24日接受稽核】TCL科技公告，公司擬發行股份及支付現金購買資產事項將於2026年7月24日接受深圳證券交易所併購重組稽核委員會稽核。"
+    },
+    {
+      "id": "4997391",
+      "time": "2026-07-20 16:22:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "7月23日15:00國新辦就2026年上半年商務工作及執行情況舉行新聞釋出會。"
+    },
+    {
+      "id": "mkt:019f7e9e-7026-7aab-8e06-66792bc9d570",
+      "time": "2026-07-20 16:22:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "ECB survey: An indicator of firms' overall bank financing conditions showed further tightening, with firms reporting higher non-interest borrowing costs in addition to interest rates. Among companies planning AI-related investment over the next 12 months, most expect to spend on AI technologies/tools and staff training, financed mainly from internal funds."
+    },
+    {
+      "id": "mkt:019f7e9d-e642-7aab-8e06-5c16e29e51d8",
+      "time": "2026-07-20 16:21:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "000063.SZ",
+        "Impact bullish",
+        "0728.HK"
+      ],
+      "text": "【First domestic TPU 1,000‑card cluster in East China launched in Hangzhou】At the World Artificial Intelligence Conference in Shanghai (July 17–20, 2026), organisers unveiled completion and construction plans for East China's first domestic TPU compute cluster at the 1,000‑card scale. The project, co-developed by China Telecom's Hangzhou unit, ZTE and Zhonghao Xinying, is the China Telecom system's first large‑scale deployment of a domestic TPU cluster and the region's first 1,000‑card domestic TPU compute cluster."
+    },
+    {
+      "id": "4997390",
+      "time": "2026-07-20 16:21:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【福達合金：股價異常波動 不存在應披露未披露重大事項】福達合金公告稱，公司股票於2026年7月16日、7月17日、7月20日連續3個交易日內收盤價格跌幅偏離值累計超20%，屬於異常波動。經自查及向控股股東核實，公司生產經營正常，不存在應披露而未披露的重大事項。2025年公司淨利潤1.08億元，同比增長136.80%；預計2026年上半年淨利潤2.58億 - 3.83億元，同比增長937.99% - 1438.23%。公司提示業績受原材料價格等因素影響，存在波動風險，提醒投資者注意投資風險。"
+    },
+    {
+      "id": "4997389",
+      "time": "2026-07-20 16:20:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蔚藍鋰芯：會根據供需關係階段變化制定合理產品銷售價格】蔚藍鋰芯7月20日在互動平臺表示，BBU備電應用是公司近幾年重點佈局的應用場景，目前產品開發、客戶拓展、產能準備、訂單交付都在有序進展中。全球的AI資料中心的建設正處於擴張階段，整體產業鏈的採購訂單都呈現增長態勢，公司會根據供需關係的階段變化合理地制定合理的產品銷售價格。"
+    },
+    {
+      "id": "4997388",
+      "time": "2026-07-20 16:20:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：沃爾沃報告確認卡車行業復甦正在加速】SB1 Markets分析師Edvin Jabeskog寫道，瑞典卡車製造商沃爾沃公佈了強勁的第二季度業績，新訂單超出預期，這證實了卡車週期的底部已經過去。儘管訂單激增，但對北美的預測保持不變，不過沃爾沃表示，正準備在下半年交付大量新訂單，並強調了逐步增加產量的重要性。該股估值具有吸引力，隨著該公司進入北美新訂單的旺季，SB1 Markets認為，在利好的新聞流和利潤率改善的支撐下，該股有望繼續表現良好。該行重申對該股的買入評級，並將其目標價從385瑞典克朗上調至390瑞典克朗。"
+    },
+    {
+      "id": "4997387",
+      "time": "2026-07-20 16:19:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【億緯鋰能：董事劉建華擬增持10萬股】億緯鋰能公告，公司董事、高階管理人員劉建華計劃自本公告披露之日起6個月內，透過中國證券監督管理委員會和深圳證券交易所交易系統允許的方式（包括但不限於集中競價和大宗交易等）增持公司股份，合計擬增持股數10萬股。本次增持計劃不設定增持價格區間，資金來源為自有資金或自籌資金。"
+    },
+    {
+      "id": "4997386",
+      "time": "2026-07-20 16:19:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "波音公司：將繼續在歐洲尋求防務合作伙伴關係。"
+    },
+    {
+      "id": "4997385",
+      "time": "2026-07-20 16:19:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛泰集團：控股股東累計增持2388.37萬元 佔總股本0.74%】盛泰集團公告稱，控股股東寧波盛泰於2026年6月17日披露增持計劃，擬12個月內增持不低於4000萬元、不超8000萬元，且不超總股本2%。6月30日至7月20日，寧波盛泰累計增持412.64萬股，佔總股本0.74%，增持金額2388.37萬元。本次增持計劃未實施完畢，可能因市場變化等無法達預期，公司將及時披露。"
+    },
     {
       "id": "4997384",
       "time": "2026-07-20 16:18:42",
