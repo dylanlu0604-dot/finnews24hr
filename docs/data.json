@@ -1,7 +1,189 @@
 {
-  "updated": "2026-07-20 09:27:05",
-  "count": 19048,
+  "updated": "2026-07-20 09:31:00",
+  "count": 19054,
   "items": [
+    {
+      "id": "4996583",
+      "time": "2026-07-20 09:30:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光模組板塊高開，“易”“中”“天”均高開超5%】光模組板塊高開，新易盛、中際旭創、天孚通訊均高開超5%，訊息面上，新易盛預計上半年淨利70億到80億，同比增78%到103%。天孚通訊預計上半年淨利潤預增25%到45%。"
+    },
+    {
+      "id": "te:markets:568035",
+      "time": "2026-07-20 09:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Holds Firm, Inflation Data Eyed — The New Zealand dollar held near a six-week high at $0.584, underpinned by expectations of further interest rate hikes from the Reserve Bank, which helped the currency withstand a retreat from risk-sensitive assets amid escalating tensions in the Middle East. Markets continue to price in two additional 25-basis-point rate increases this year, following hawkish signals from the central bank and a string of positive economic data. Investors are now turning their attention to New Zealand's second-quarter CPI report, with annual inflation expected to reach or even exceed 4%, which would mark its highest level in more than two years, largely driven by higher fuel prices. The prospect of tighter monetary policy at home has continued to support the kiwi, allowing it to outperform even as intensifying exchanges of attacks between the US and Iran have dampened global risk appetite."
+    },
+    {
+      "id": "4996582",
+      "time": "2026-07-20 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報7537.00點。"
+    },
+    {
+      "id": "4996581",
+      "time": "2026-07-20 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.06%，成分股中，科力股份漲8.07%，並行科技漲7.31%，則成電子漲4.31%，銅冠礦建漲3.23%。"
+    },
+    {
+      "id": "4996580",
+      "time": "2026-07-20 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.13%， 10年期主力合約跌0.04%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4996579",
+      "time": "2026-07-20 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.48%， 滬深300指數期貨連續漲0.86%， 中證500指數期貨連續漲0.70%， 上證50指數期貨連續漲0.71%。"
+    },
+    {
+      "id": "4996578",
+      "time": "2026-07-20 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.87%，成分股中，盛科通訊漲12.53%，瀾起科技漲6.21%，佰維儲存漲5.20%，沐曦股份漲4.88%。"
+    },
+    {
+      "id": "mkt:019f7d24-ed30-7aab-8dfe-102038419a67",
+      "time": "2026-07-20 09:29:59",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share semiconductor stocks rebounded. Xingchen Technology hit a 20% limit-up, Fuhanwei rose over 10%, and Minxin, Xinpengwei, Puran and JiahuaTe also advanced."
+    },
+    {
+      "id": "4996577",
+      "time": "2026-07-20 09:29:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Kimi概念大幅高開 九安醫療5天4板】早盤Kimi概念大幅高開，九安醫療5天4板，米奧會展20cm 2連板，掌閱科技、深信服、海天瑞聲、三七互娛等跟漲。頭部大模型企業月之暗面已向投資人傳送上市議案，預計最快6個月內有望完成港股上市。據悉，月之暗面此前年度經常性收入3個月內翻了3倍，新模型Kimi K3在綜合能力上超越Claude Fable 5和GPT-5.6之外的競爭對手，Kimi K3的定價大致與Anthropic的Sonnet相當。（科創板日報）"
+    },
+    {
+      "id": "4996576",
+      "time": "2026-07-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報7490.00點。"
+    },
+    {
+      "id": "4996575",
+      "time": "2026-07-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7165.20點。"
+    },
+    {
+      "id": "4996574",
+      "time": "2026-07-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4530.00點。"
+    },
+    {
+      "id": "4996573",
+      "time": "2026-07-20 09:28:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通方奕：市場企穩與轉機或已不遠】國泰海通首席策略分析師方奕釋出最新研報表示，市場企穩與轉機或已不遠。方奕表示，儘管美伊衝突再起，但邊際影響已不如3月—4月，且存在各自約束；北美CSP廠商將於近兩週公佈財報與指引，但市場預期已經前置降低；近一週寬基ETF流入2000億元並創下單週之最，有望持續為降低市場波動、阻斷非理性拋售提供支撐；主動ETF、主觀基金加快審批與私募備案保持高強度。"
+    },
+    {
+      "id": "mkt:019f7d23-87fe-7aab-8dfe-0853f31605d2",
+      "time": "2026-07-20 09:28:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "Guizhou Moutai shares opened 1.36% higher after the company said effective 00:00 on July 18, 2026 it will raise the iMoutai platform retail price for Feitian 53%vol 500ml Guizhou Moutai (2026) from 1,539 yuan to 1,639 yuan per bottle and lift the contract sales price from 1,269 yuan to 1,369 yuan per bottle."
+    },
+    {
+      "id": "mkt:019f7d23-01c0-7aab-8dfe-003b050be91b",
+      "time": "2026-07-20 09:27:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index opened up 27.51 pts (+0.73%) at 3,791.66; Shenzhen Composite Index opened up 162.17 pts (+1.18%) at 13,869.06; CSI 300 Index opened up 46.58 pts (+1.03%) at 4,575.67; ChiNext Index opened up 75.49 pts (+2.20%) at 3,504.12; China STAR 50 Index opened up 49.19 pts (+2.87%) at 1,764.59."
+    },
+    {
+      "id": "mkt:019f7d22-bd01-7aab-8dfd-fa062f856d9f",
+      "time": "2026-07-20 09:27:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Demingli hit a fourth straight limit-down; shares fell below 500 yuan."
+    },
+    {
+      "id": "mkt:019f7d22-4eb5-7aab-8dfd-f0056b560a4f",
+      "time": "2026-07-20 09:27:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A-share oilfield services and engineering sector opened higher: Keli Co. jumped over 8% and Tongyuan Petroleum rose nearly 5%; Zhongman Petroleum, China Oilfield Services, Zhongyou Engineering, Beiken Energy and Qianeng Hengxin also gained. Fars News Agency cited sources saying shipping through the Strait of Hormuz has fallen to zero and will remain closed as long as the U.S. continues its provocations."
+    },
+    {
+      "id": "4996572",
+      "time": "2026-07-20 09:26:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【德明利連續四個交易日一字跌停】德明利連續四個交易日一字跌停，股價報482.89元，股價較高點980元已跌超50%。"
+    },
+    {
+      "id": "4996571",
+      "time": "2026-07-20 09:26:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：央企ESGETF領漲7.31%，藥ETF領跌2.47%】ETF開盤漲跌不一，央企ESGETF（560810）領漲7.31%，科創資訊ETF（588260）漲6.85%，科創200ETF（589200）漲5.67%，藥ETF（562050）領跌2.47%，養殖ETF（159020）跌2.24%，國證2000ETF（159505）跌2.15%。"
+    },
     {
       "id": "4996570",
       "time": "2026-07-20 09:26:31",
@@ -175612,130 +175794,6 @@
         "其他"
       ],
       "text": "立邦塗料：已提出以75億歐元收購阿克蘇諾貝爾裝飾塗料業務；但本次收購的具體事項尚未確定。"
-    },
-    {
-      "id": "mkt:019f5919-3b2e-7aab-8d49-97f4a8ebbfb9",
-      "time": "2026-07-13 09:30:53",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Copper",
-        "DXY"
-      ],
-      "text": "【DR Congo Ebola outbreak expands to five provinces; over 1,800 confirmed cases】DR Congo health ministry said on July 12 the current Ebola outbreak now affects five provinces, with 1,873 confirmed cases and 672 deaths. Tshopo and Haut-Uele were newly listed as affected provinces; cases there are linked to the Nia‑Nia area of Ituri. Previously affected provinces were Ituri, North Kivu and South Kivu. The report said 763 patients remain in isolation or hospital and 306 have recovered. South Kivu has reported no new confirmed cases since May 26, marking 42 consecutive days without new confirmed cases as of July 7, twice the maximum Ebola incubation period."
-    },
-    {
-      "id": "4983369",
-      "time": "2026-07-13 09:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.07%，成分股中，天力複合跌6.45%，同惠電子跌3.06%，開特股份跌2.94%，萬達軸承跌2.89%。"
-    },
-    {
-      "id": "4983368",
-      "time": "2026-07-13 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌1.25%， 滬深300指數期貨連續跌0.80%， 中證500指數期貨連續跌1.42%， 上證50指數期貨連續跌0.99%。"
-    },
-    {
-      "id": "4983367",
-      "time": "2026-07-13 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.04%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約跌0.01%。"
-    },
-    {
-      "id": "4983366",
-      "time": "2026-07-13 09:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.29%，成分股中，佰維儲存跌4.25%，盛美上海跌3.28%，華海清科跌3.25%，中微公司跌3.00%。"
-    },
-    {
-      "id": "4983365",
-      "time": "2026-07-13 09:29:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【剛果（金）埃博拉疫情擴至5省 超1800例確診】剛果（金）衛生部12日釋出的最新疫情報告顯示，該國本輪埃博拉疫情影響地區已增加至5個省，累計報告確診病例1873例，其中死亡672例。喬波省和上韋萊省首次被列入受疫情影響省份。報告說，兩省發現的病例均與伊圖裡省尼亞尼亞地區有關。此前該國埃博拉疫情影響地區為伊圖裡省、北基伍省和南基伍省。根據報告，763名患者正在接受隔離或住院治療，累計治癒病例為306例。（新華社）"
-    },
-    {
-      "id": "mkt:019f5917-48ef-7aab-8d49-8a5fa3ef3af2",
-      "time": "2026-07-13 09:28:45",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share electronic specialty gases sector opened sharply higher; Jiufeng Energy opened locked at the daily upper limit, marking a second consecutive limit-up. Huate Gas, Hangyang, Kaimete Gas, Shudao Equipment, Guanggang Gas and Jin Hong Gas also advanced."
-    },
-    {
-      "id": "mkt:019f5916-a858-7aab-8d49-842207e32ee3",
-      "time": "2026-07-13 09:28:04",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A-share semiconductor sector opened lower; Zhichun Technology hit the daily limit-down. Youyan Silicon, Zhenbao Technology, Demingli, Jingyi Equipment and GigaDevice declined."
-    },
-    {
-      "id": "4983364",
-      "time": "2026-07-13 09:27:56",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "A股新華百貨開盤跌停，此前公告稱控股股東物美科技與杭州景祺電子資訊合夥企業（有限合夥）、廈門聯芯美企業管理合夥企業（有限合夥）簽署的《股份轉讓協議》已終止。"
-    },
-    {
-      "id": "mkt:019f5916-1d40-7aab-8d49-7a658b22688d",
-      "time": "2026-07-13 09:27:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "CSI300"
-      ],
-      "text": "China's Shanghai Composite Index opened down 30.14 points (-0.75%) at 3,966.02 on Monday, July 13. Shenzhen Composite Index opened down 137.69 points (-0.92%) at 14,908.98. CSI 300 Index opened down 35.35 points (-0.74%) at 4,745.44. ChiNext Index opened down 32.87 points (-0.86%) at 3,809.86. STAR Market 50 Index opened down 26.62 points (-1.29%) at 2,038.36."
-    },
-    {
-      "id": "4983363",
-      "time": "2026-07-13 09:27:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "【部分港股人工智慧股走強 五一視界漲超5%】截至發稿，五一視界(06651.HK)漲5.20%，智譜(02513.HK)漲5%，天數智芯(09903.HK)漲3.69%。"
-    },
-    {
-      "id": "4983362",
-      "time": "2026-07-13 09:27:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【半導體板塊低開，至純科技觸及跌停】半導體板塊低開，至純科技觸及跌停，有研矽、臻寶科技、德明利、京儀裝備、兆易創新跟跌。"
-    },
-    {
-      "id": "4983361",
-      "time": "2026-07-13 09:27:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌4%，至7176.67點。"
     }
   ]
 }

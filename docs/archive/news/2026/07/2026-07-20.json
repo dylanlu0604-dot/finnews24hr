@@ -1,7 +1,189 @@
 {
   "date": "2026-07-20",
-  "count": 534,
+  "count": 553,
   "items": [
+    {
+      "id": "4996583",
+      "time": "2026-07-20 09:30:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【光模組板塊高開，“易”“中”“天”均高開超5%】光模組板塊高開，新易盛、中際旭創、天孚通訊均高開超5%，訊息面上，新易盛預計上半年淨利70億到80億，同比增78%到103%。天孚通訊預計上半年淨利潤預增25%到45%。"
+    },
+    {
+      "id": "te:markets:568035",
+      "time": "2026-07-20 09:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Kiwi Dollar Holds Firm, Inflation Data Eyed — The New Zealand dollar held near a six-week high at $0.584, underpinned by expectations of further interest rate hikes from the Reserve Bank, which helped the currency withstand a retreat from risk-sensitive assets amid escalating tensions in the Middle East. Markets continue to price in two additional 25-basis-point rate increases this year, following hawkish signals from the central bank and a string of positive economic data. Investors are now turning their attention to New Zealand's second-quarter CPI report, with annual inflation expected to reach or even exceed 4%, which would mark its highest level in more than two years, largely driven by higher fuel prices. The prospect of tighter monetary policy at home has continued to support the kiwi, allowing it to outperform even as intensifying exchanges of attacks between the US and Iran have dampened global risk appetite."
+    },
+    {
+      "id": "4996582",
+      "time": "2026-07-20 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲2%，現報7537.00點。"
+    },
+    {
+      "id": "4996581",
+      "time": "2026-07-20 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.06%，成分股中，科力股份漲8.07%，並行科技漲7.31%，則成電子漲4.31%，銅冠礦建漲3.23%。"
+    },
+    {
+      "id": "4996580",
+      "time": "2026-07-20 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約跌0.13%， 10年期主力合約跌0.04%， 5年期主力合約跌0.03%， 2年期主力合約跌0.01%。"
+    },
+    {
+      "id": "4996579",
+      "time": "2026-07-20 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.48%， 滬深300指數期貨連續漲0.86%， 中證500指數期貨連續漲0.70%， 上證50指數期貨連續漲0.71%。"
+    },
+    {
+      "id": "4996578",
+      "time": "2026-07-20 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達2.87%，成分股中，盛科通訊漲12.53%，瀾起科技漲6.21%，佰維儲存漲5.20%，沐曦股份漲4.88%。"
+    },
+    {
+      "id": "mkt:019f7d24-ed30-7aab-8dfe-102038419a67",
+      "time": "2026-07-20 09:29:59",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share semiconductor stocks rebounded. Xingchen Technology hit a 20% limit-up, Fuhanwei rose over 10%, and Minxin, Xinpengwei, Puran and JiahuaTe also advanced."
+    },
+    {
+      "id": "4996577",
+      "time": "2026-07-20 09:29:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【Kimi概念大幅高開 九安醫療5天4板】早盤Kimi概念大幅高開，九安醫療5天4板，米奧會展20cm 2連板，掌閱科技、深信服、海天瑞聲、三七互娛等跟漲。頭部大模型企業月之暗面已向投資人傳送上市議案，預計最快6個月內有望完成港股上市。據悉，月之暗面此前年度經常性收入3個月內翻了3倍，新模型Kimi K3在綜合能力上超越Claude Fable 5和GPT-5.6之外的競爭對手，Kimi K3的定價大致與Anthropic的Sonnet相當。（科創板日報）"
+    },
+    {
+      "id": "4996576",
+      "time": "2026-07-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報7490.00點。"
+    },
+    {
+      "id": "4996575",
+      "time": "2026-07-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7165.20點。"
+    },
+    {
+      "id": "4996574",
+      "time": "2026-07-20 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4530.00點。"
+    },
+    {
+      "id": "4996573",
+      "time": "2026-07-20 09:28:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰海通方奕：市場企穩與轉機或已不遠】國泰海通首席策略分析師方奕釋出最新研報表示，市場企穩與轉機或已不遠。方奕表示，儘管美伊衝突再起，但邊際影響已不如3月—4月，且存在各自約束；北美CSP廠商將於近兩週公佈財報與指引，但市場預期已經前置降低；近一週寬基ETF流入2000億元並創下單週之最，有望持續為降低市場波動、阻斷非理性拋售提供支撐；主動ETF、主觀基金加快審批與私募備案保持高強度。"
+    },
+    {
+      "id": "mkt:019f7d23-87fe-7aab-8dfe-0853f31605d2",
+      "time": "2026-07-20 09:28:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "Guizhou Moutai shares opened 1.36% higher after the company said effective 00:00 on July 18, 2026 it will raise the iMoutai platform retail price for Feitian 53%vol 500ml Guizhou Moutai (2026) from 1,539 yuan to 1,639 yuan per bottle and lift the contract sales price from 1,269 yuan to 1,369 yuan per bottle."
+    },
+    {
+      "id": "mkt:019f7d23-01c0-7aab-8dfe-003b050be91b",
+      "time": "2026-07-20 09:27:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China's Shanghai Composite Index opened up 27.51 pts (+0.73%) at 3,791.66; Shenzhen Composite Index opened up 162.17 pts (+1.18%) at 13,869.06; CSI 300 Index opened up 46.58 pts (+1.03%) at 4,575.67; ChiNext Index opened up 75.49 pts (+2.20%) at 3,504.12; China STAR 50 Index opened up 49.19 pts (+2.87%) at 1,764.59."
+    },
+    {
+      "id": "mkt:019f7d22-bd01-7aab-8dfd-fa062f856d9f",
+      "time": "2026-07-20 09:27:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Demingli hit a fourth straight limit-down; shares fell below 500 yuan."
+    },
+    {
+      "id": "mkt:019f7d22-4eb5-7aab-8dfd-f0056b560a4f",
+      "time": "2026-07-20 09:27:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "A-share oilfield services and engineering sector opened higher: Keli Co. jumped over 8% and Tongyuan Petroleum rose nearly 5%; Zhongman Petroleum, China Oilfield Services, Zhongyou Engineering, Beiken Energy and Qianeng Hengxin also gained. Fars News Agency cited sources saying shipping through the Strait of Hormuz has fallen to zero and will remain closed as long as the U.S. continues its provocations."
+    },
+    {
+      "id": "4996572",
+      "time": "2026-07-20 09:26:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【德明利連續四個交易日一字跌停】德明利連續四個交易日一字跌停，股價報482.89元，股價較高點980元已跌超50%。"
+    },
+    {
+      "id": "4996571",
+      "time": "2026-07-20 09:26:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF開盤：央企ESGETF領漲7.31%，藥ETF領跌2.47%】ETF開盤漲跌不一，央企ESGETF（560810）領漲7.31%，科創資訊ETF（588260）漲6.85%，科創200ETF（589200）漲5.67%，藥ETF（562050）領跌2.47%，養殖ETF（159020）跌2.24%，國證2000ETF（159505）跌2.15%。"
+    },
     {
       "id": "4996570",
       "time": "2026-07-20 09:26:31",
