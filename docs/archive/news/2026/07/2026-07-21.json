@@ -1,7 +1,34 @@
 {
   "date": "2026-07-21",
-  "count": 163,
+  "count": 166,
   "items": [
+    {
+      "id": "4998430",
+      "time": "2026-07-21 03:15:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥玉米、大豆期貨至多漲超1.8%，小麥跌超1.4%】週一（7月20日）紐約尾盤，彭博穀物分類指數漲0.57%，報32.0544點。CBOT玉米期貨漲1.07%，CBOT小麥期貨跌1.46%。CBOT大豆期貨漲1.83%，報12.25美元/蒲式耳，豆粕期貨漲1.51%，豆油期貨跌0.47%。CBOT瘦肉豬期貨跌0.28%，活牛期貨漲1.18%，飼牛期貨漲1.91%。"
+    },
+    {
+      "id": "mkt:019f80f3-8287-7aab-8e14-12fe35b52ad5",
+      "time": "2026-07-21 03:14:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRIB quoted Bagheri, deputy secretary of Iran's Supreme National Security Council, saying the US has taken no action to unfreeze Iran's frozen assets and has violated its commitments."
+    },
+    {
+      "id": "4998429",
+      "time": "2026-07-21 03:11:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7690元，較上週五夜盤收盤漲62點。成交量339.96億美元。"
+    },
     {
       "id": "4998428",
       "time": "2026-07-21 03:10:23",
