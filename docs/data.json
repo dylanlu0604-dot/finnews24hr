@@ -1,7 +1,64 @@
 {
-  "updated": "2026-07-21 06:42:57",
+  "updated": "2026-07-21 06:46:54",
   "count": 19022,
   "items": [
+    {
+      "id": "4998544",
+      "time": "2026-07-21 06:45:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭第二季度CPI季率 1.5%，預期1.4%，前值0.90%。\n紐西蘭第二季度CPI年率 4.1%，預期4%，前值3.10%。"
+    },
+    {
+      "id": "mkt:019f81b4-5d4f-7aab-8e15-e42ef335ce74",
+      "time": "2026-07-21 06:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 CPI YoY 4.1% (expected 4.0%; prior 3.1%)."
+    },
+    {
+      "id": "mkt:019f81b4-5a5d-7aab-8e15-d9d69b4fdadd",
+      "time": "2026-07-21 06:45:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 CPI q/q 1.5% (consensus 1.4%; prior 0.9%)."
+    },
+    {
+      "id": "te:markets:568322",
+      "time": "2026-07-21 06:45:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 1.20% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.20% increase."
+    },
+    {
+      "id": "mkt:019f81b4-3ce2-7aab-8e15-d580f1788e8e",
+      "time": "2026-07-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | CPI (YoY) (Q2) | actual 4.1% | consensus 4% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019f81b4-3cda-7aab-8e15-ca82e37cdef7",
+      "time": "2026-07-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | CPI (QoQ) (Q2) | actual 1.5% | consensus 1.4% | previous 0.90%"
+    },
     {
       "id": "te:markets:568321",
       "time": "2026-07-21 06:40:04",
@@ -174870,68 +174927,6 @@
         "公司"
       ],
       "text": "【上市公司分紅回購增持三箭齊發協同加力】近期，A股上市公司分紅、回購、增持力度持續加碼。截至7月13日，今年以來已有逾3400家上市公司實施分紅。與此同時，回購增持動作密集，上市公司回饋投資者意識顯著增強。市場人士認為，從年度分紅到中期分紅漸成常態，從激勵型回購到登出式回購佔比提升，從被動“護盤”到主動價值管理，A股上市公司正在以實際行動重塑市場預期。（中證報）"
-    },
-    {
-      "id": "4985438",
-      "time": "2026-07-14 06:45:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭5月短期入境遊客同比增加6.7%。"
-    },
-    {
-      "id": "4985437",
-      "time": "2026-07-14 06:45:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭5月經季節性調整後的淨移民人數增加1860人。"
-    },
-    {
-      "id": "mkt:019f5da8-1bba-7aab-8d65-902a8bb343cc",
-      "time": "2026-07-14 06:45:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【UAE says two tankers attacked in Strait of Hormuz; 1 dead, 8 injured】The UAE Defense Ministry said on July 14 two UAE tankers in the southern shipping lane of the Strait of Hormuz were hit by two Iranian cruise missiles, killing one Indian crew member and injuring eight, four seriously. Both vessels caught fire; the ministry said fires are now under control. Iran has not responded. The ministry condemned the incident as a serious violation of international law and said it reserves the right to take all necessary measures to defend national sovereignty and security."
-    },
-    {
-      "id": "4985436",
-      "time": "2026-07-14 06:45:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋稱2艘油輪遭襲1死8傷】阿聯酋國防部今天（7月14日）剛剛發表宣告稱，2艘阿聯酋油輪在霍爾木茲海峽南向航道“遭伊朗2枚巡航導彈襲擊”，造成1名印度籍船員死亡，另有8人受傷，其中4人傷勢嚴重。伊朗方面對此暫無回應。 阿聯酋國防部稱，2艘油輪均起火，火勢目前已得到控制。阿聯酋國防部譴責此次襲擊“嚴重違反國際法”，並表示保留採取一切必要措施捍衛國家主權與安全的正當權利。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:markets:566513",
-      "time": "2026-07-14 06:44:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Depreciates by 2.78% — Top crypto losers are Bitcoin (-2.78%), Ether (-2.41%) and Binance (-1.34%)."
-    },
-    {
-      "id": "mkt:019f5da6-37f2-7aab-8d65-8b210bed1afa",
-      "time": "2026-07-14 06:43:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "RBNZ chief economist CONWAY said recent PMI readings were very strong, prompting an upward revision to the GDPNow nowcast."
     }
   ]
 }

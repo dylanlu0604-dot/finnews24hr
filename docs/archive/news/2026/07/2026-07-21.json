@@ -1,7 +1,64 @@
 {
   "date": "2026-07-21",
-  "count": 340,
+  "count": 346,
   "items": [
+    {
+      "id": "4998544",
+      "time": "2026-07-21 06:45:13",
+      "tags": [
+        "資料"
+      ],
+      "text": "紐西蘭第二季度CPI季率 1.5%，預期1.4%，前值0.90%。\n紐西蘭第二季度CPI年率 4.1%，預期4%，前值3.10%。"
+    },
+    {
+      "id": "mkt:019f81b4-5d4f-7aab-8e15-e42ef335ce74",
+      "time": "2026-07-21 06:45:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Q2 CPI YoY 4.1% (expected 4.0%; prior 3.1%)."
+    },
+    {
+      "id": "mkt:019f81b4-5a5d-7aab-8e15-d9d69b4fdadd",
+      "time": "2026-07-21 06:45:08",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "New Zealand Q2 CPI q/q 1.5% (consensus 1.4%; prior 0.9%)."
+    },
+    {
+      "id": "te:markets:568322",
+      "time": "2026-07-21 06:45:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Rises by 1.20% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 1.20% increase."
+    },
+    {
+      "id": "mkt:019f81b4-3ce2-7aab-8e15-d580f1788e8e",
+      "time": "2026-07-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | CPI (YoY) (Q2) | actual 4.1% | consensus 4% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019f81b4-3cda-7aab-8e15-ca82e37cdef7",
+      "time": "2026-07-21 06:45:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | CPI (QoQ) (Q2) | actual 1.5% | consensus 1.4% | previous 0.90%"
+    },
     {
       "id": "te:markets:568321",
       "time": "2026-07-21 06:40:04",
