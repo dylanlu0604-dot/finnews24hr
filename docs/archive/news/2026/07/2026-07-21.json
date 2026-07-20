@@ -1,7 +1,39 @@
 {
   "date": "2026-07-21",
-  "count": 154,
+  "count": 157,
   "items": [
+    {
+      "id": "mkt:019f80e8-f7f9-7aab-8e13-f3b855a6795d",
+      "time": "2026-07-21 03:02:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $89.22 per barrel, up $1.12 or 1.27%."
+    },
+    {
+      "id": "mkt:019f80e8-d6c0-7aab-8e13-efbeb5f3d7db",
+      "time": "2026-07-21 03:02:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures closed the night session down 0.21% at 25,099, trading 44 points below the cash index."
+    },
+    {
+      "id": "4998425",
+      "time": "2026-07-21 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.23%，報25095.40點，低水47.65點。"
+    },
     {
       "id": "4998424",
       "time": "2026-07-21 02:54:06",
