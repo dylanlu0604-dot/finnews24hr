@@ -1,7 +1,27 @@
 {
   "date": "2026-07-21",
-  "count": 293,
+  "count": 295,
   "items": [
+    {
+      "id": "mkt:019f8191-3b56-7aab-8e15-6a2015d2a830",
+      "time": "2026-07-21 06:06:46",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "NVIDIA filed a Schedule 13G disclosing a 9.3% stake in Nebius Group."
+    },
+    {
+      "id": "4998513",
+      "time": "2026-07-21 06:05:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本公平交易委員會擬強化中小企權益，約束大型科技巨頭。"
+    },
     {
       "id": "4998512",
       "time": "2026-07-21 06:02:14",
