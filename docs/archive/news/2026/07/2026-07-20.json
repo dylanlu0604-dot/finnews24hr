@@ -1,7 +1,185 @@
 {
   "date": "2026-07-20",
-  "count": 553,
+  "count": 572,
   "items": [
+    {
+      "id": "4996597",
+      "time": "2026-07-20 09:34:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽暴雨黃色預警訊號升級為橙色】過去1小時，大鵬灣、大亞灣和大鵬新區（大鵬、南澳街道）已出現強降雨，預計未來3小時還將出現30-40毫米降水，深圳市氣象臺2026年07月20日09時13分在上述區域釋出暴雨橙色預警訊號，全市進入暴雨防禦狀態，請遠離低窪易澇等危險區域。（深圳特區報）"
+    },
+    {
+      "id": "4996596",
+      "time": "2026-07-20 09:33:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油服工程板塊盤初走高】油服工程板塊盤初走高，科力股份漲超10%，博邁科、通源石油、海油工程、中海油服、海油發展等跟漲。"
+    },
+    {
+      "id": "4996595",
+      "time": "2026-07-20 09:33:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【今日匯率】中國人民銀行授權中國外匯交易中心公佈，2026年7月20日銀行間外匯市場人民幣匯率中間價為1美元對人民幣6.7948元，1歐元對人民幣7.7570元，100日元對人民幣4.1782元，1港元對人民幣0.86669元，1英鎊對人民幣9.1262元，1澳大利亞元對人民幣4.7365元，1紐西蘭元對人民幣3.9637元，1新加坡元對人民幣5.2531元，1瑞士法郎對人民幣8.3956元，1加拿大元對人民幣4.8415元，人民幣1元對1.1890澳門元，人民幣1元對0.60246林吉特，人民幣1元對11.5233俄羅斯盧布，人民幣1元對2.4396南非蘭特，人民幣1元對219.37韓元，人民幣1元對0.54112阿聯酋迪拉姆，人民幣1元對0.55329沙特里亞爾，人民幣1元對46.8340匈牙利福林，人民幣1元對0.55936波蘭茲羅提，人民幣1元對0.9637丹麥克朗，人民幣1元對1.4249瑞典克朗，人民幣1元對1.4215挪威克朗，人民幣1元對6.94783土耳其里拉，人民幣1元對2.5841墨西哥比索，人民幣1元對4.9633泰銖。（央視財經）"
+    },
+    {
+      "id": "mkt:019f7d28-1b25-7aab-8dfe-45308f41ad8a",
+      "time": "2026-07-20 09:33:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures rose over 2%."
+    },
+    {
+      "id": "4996594",
+      "time": "2026-07-20 09:33:22",
+      "tags": [],
+      "text": "滬指重回3800點，漲超1％；油服工程、影視院線、CRO、雲端計算等板塊漲幅居前。"
+    },
+    {
+      "id": "4996593",
+      "time": "2026-07-20 09:33:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨上漲2%。"
+    },
+    {
+      "id": "mkt:019f7d27-a4dd-7aab-8dfe-3b38a4744610",
+      "time": "2026-07-20 09:32:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Mehr News Agency reported an MQ-9 drone was intercepted and shot down in airspace west of Islamabad by a new advanced air-defense system operated by Iran's Islamic Revolutionary Guard Corps Aerospace Force."
+    },
+    {
+      "id": "mkt:019f7d27-7115-7aab-8dfe-36cb3fbb7e44",
+      "time": "2026-07-20 09:32:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Composite Index rose more than 1%, returning above 3,800 points, with gains led by oilfield services and engineering, cinema chains, contract research organizations (CROs) and cloud computing stocks."
+    },
+    {
+      "id": "4996592",
+      "time": "2026-07-20 09:32:33",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.78%，成分股中，盛科通訊漲9.33%，寒武紀漲4.99%，晶合整合漲4.10%，華虹宏力漲4.00%。"
+    },
+    {
+      "id": "4996591",
+      "time": "2026-07-20 09:32:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念盤初活躍 利通電子漲停】早盤算力租賃概念活躍，利通電子漲停，行雲科技、亞康股份漲超10%，宏景科技、浙數文化、潤澤科技跟漲。訊息面上，7月19日，月之暗面Kimi釋出通知，決定即日起，暫停C端新使用者訂閱，將已有算力全部投入於服務已訂閱使用者，保障已訂閱使用者的全部權益不受影響。同時，已在全速推進算力擴容。隨著新算力陸續到位，將逐步開放更多訂閱名額直至全面恢復正常訂閱。"
+    },
+    {
+      "id": "4996589",
+      "time": "2026-07-20 09:31:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證指數漲1.00%，現報3801.956點；深證成指漲1.35%，現報13892.075點；創業板指漲2.44%，現報3512.148點。"
+    },
+    {
+      "id": "mkt:019f7d26-a22f-7aab-8dfe-2d78b5bd0798",
+      "time": "2026-07-20 09:31:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-shares Kimi-concept names rallied. Ji'an Medical hit the limit-up; Runze Technology climbed over 6%. 37 Interactive, Insai Group, Yidian Tianxia and Zhewen Hulian also advanced. Media report: Moonshot AI has circulated an IPO proposal to investors and could complete a Hong Kong listing within six months at the earliest."
+    },
+    {
+      "id": "4996588",
+      "time": "2026-07-20 09:31:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【堯唐生物宣佈任命楊緻筠為首席財務官】7月20日，堯唐生物（YolTechTherapeutics）宣佈任命楊緻筠（JessieYeung）為首席財務官（ChiefFinancialOfficer，CFO）。楊緻筠將主導推動企業增長的財務戰略，並積極投身於資本市場溝通與投資者關係建設。"
+    },
+    {
+      "id": "mkt:019f7d26-612b-7aab-8dfe-24330a71eb40",
+      "time": "2026-07-20 09:31:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China government bond futures open in morning trade】China government bond futures main contracts opened lower in morning trade: 2-year (TS) -0.02%, 5-year (TF) -0.04%, 10-year (T) -0.08%, 30-year (TL) -0.19%."
+    },
+    {
+      "id": "mkt:019f7d26-368e-7aab-8dfe-1f4b7e6588f4",
+      "time": "2026-07-20 09:31:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Chinese stock index futures open higher】CSI 300 index futures (IF) main contract up 0.82%; SSE 50 index futures (IH) main contract up 0.86%; CSI 500 index futures (IC) main contract up 0.45%; CSI 1000 index futures (IM) main contract up 0.23%."
+    },
+    {
+      "id": "4996587",
+      "time": "2026-07-20 09:31:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股指開盤上漲 0.5%，報 6435.12 點 。"
+    },
+    {
+      "id": "4996586",
+      "time": "2026-07-20 09:30:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "半導體晶片股盤初反彈，星宸科技20cm漲停，盛科通訊、富瀚微漲超10%，普冉股份、銀河微電、傑華特、芯導科技漲幅居前。"
+    },
+    {
+      "id": "4996585",
+      "time": "2026-07-20 09:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【第二批次網路安全保險服務試點工作方案名單釋出】工業和資訊化部辦公廳、金融監管總局辦公廳釋出通知稱，根據《工業和資訊化部辦公廳 金融監管總局辦公廳關於組織開展第二批次網路安全保險服務試點工作的通知》，經自主申報、形式審查、專家評審、社會公示等程式，確定了第二批次網路安全保險服務試點工作方案名單，現予以公佈。請各單位結合試點工作方案名單積極組織開展網路安全保險服務試點工作，更好促進網路安全保險服務推廣應用。"
+    },
+    {
+      "id": "4996584",
+      "time": "2026-07-20 09:30:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數漲幅擴大至3%】科創50指數漲幅擴大至3%，現報1768.82點。"
+    },
     {
       "id": "4996583",
       "time": "2026-07-20 09:30:15",
