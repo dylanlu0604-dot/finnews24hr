@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-21 01:49:15",
-  "count": 19105,
+  "updated": "2026-07-21 01:53:12",
+  "count": 19096,
   "items": [
+    {
+      "id": "mkt:019f80a6-b1a7-7aab-8e13-7205706024ab",
+      "time": "2026-07-21 01:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AFP reports French lawmakers have paved the way to impose age limits on social media users."
+    },
+    {
+      "id": "4998400",
+      "time": "2026-07-21 01:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列安全訊息人士稱，美國正籌備未來幾日針對伊朗下一階段軍事行動。"
+    },
+    {
+      "id": "mkt:019f80a5-ace8-7aab-8e13-6efd9852efd1",
+      "time": "2026-07-21 01:49:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "i24News, citing Israeli security sources, said the US is preparing to launch the next stage of military action against Iran within days."
+    },
     {
       "id": "4998399",
       "time": "2026-07-21 01:47:28",
@@ -175588,126 +175616,6 @@
         "市場"
       ],
       "text": "布倫特原油日內漲8%，現報82.10美元/桶。"
-    },
-    {
-      "id": "mkt:019f5c9c-4868-7aab-8d62-46d4c109a184",
-      "time": "2026-07-14 01:52:53",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Brent"
-      ],
-      "text": "US Navy-led Joint Maritime Information Coordination Centre says a US maritime blockade applies to all vessels regardless of flag."
-    },
-    {
-      "id": "4985249",
-      "time": "2026-07-14 01:52:27",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國海軍牽頭的聯合海上資訊中心：美方封鎖措施適用於所有船舶通行，不分船籍。"
-    },
-    {
-      "id": "4985248",
-      "time": "2026-07-14 01:52:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "比特幣跌破62000美元，日內跌2.82%。"
-    },
-    {
-      "id": "mkt:019f5c9b-94db-7aab-8d62-39054f0a3f02",
-      "time": "2026-07-14 01:52:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. State Department launches multi-agency effort to 'systematically degrade' International Criminal Court】On the 13th the U.S. State Department announced a multi-agency campaign to 'systematically degrade' the International Criminal Court's operational capacity, aiming to prevent the ICC from acting against U.S. service members or government officials and to stop it from otherwise 'threatening U.S. sovereignty.'"
-    },
-    {
-      "id": "4985247",
-      "time": "2026-07-14 01:51:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲8%，現報77.14美元/桶。"
-    },
-    {
-      "id": "4985246",
-      "time": "2026-07-14 01:51:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破82美元/桶，日內漲7.91%。"
-    },
-    {
-      "id": "4985245",
-      "time": "2026-07-14 01:51:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲4%，現報496.40元。"
-    },
-    {
-      "id": "4985244",
-      "time": "2026-07-14 01:50:58",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "WTI原油突破77美元/桶，日內漲7.83%。"
-    },
-    {
-      "id": "4985243",
-      "time": "2026-07-14 01:50:55",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌3%，現報13992.00元。"
-    },
-    {
-      "id": "4985242",
-      "time": "2026-07-14 01:50:52",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【美國務院宣佈發起行動“削弱國際刑事法院運作能力”】美國國務院13日宣佈發起一項由多個政府部門參與的行動，以“系統性削弱國際刑事法院運作能力”，使其無法對美國軍人或政府官員採取行動，並防止其以其他方式“威脅美國主權”。據美國務院發給媒體的郵件宣告，美方將採取的措施包括吊銷國際刑事法院人員的簽證並對其實施旅行禁令，加大對國際刑事法院及其附屬機構的制裁力度，以及加強外交交涉敦促一些國家退出國際刑事法院等。宣告強調，美國從未同意接受國際刑事法院管轄。（新華社）"
-    },
-    {
-      "id": "mkt:019f5c9a-10ba-7aab-8d62-372555002d8b",
-      "time": "2026-07-14 01:50:28",
-      "tags": [
-        "MKT News",
-        "BA.L",
-        "Impact bullish",
-        "AIR.PA",
-        "LDO.MI"
-      ],
-      "text": "French President Macron said his government will authorize expanded production of several weapon systems, including SCALP cruise missiles."
-    },
-    {
-      "id": "mkt:019f5c9a-0d13-7aab-8d62-2ab50701d024",
-      "time": "2026-07-14 01:50:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact mixed",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【Goldman: Earnings growth still primary US equity driver; Fed hikes would hit markets three ways】Goldman analysts say earnings growth is likely to remain the main driver of US equities even as a more hawkish Fed raises downside risk. Goldman expects the Fed to keep rates on hold this year but assigns a 25% probability of a rate hike. A Fed resumption of hikes would affect equities via three channels: higher rates weakening the growth outlook — and historically growth has mattered more for equity performance than rates themselves; the current AI-led investment cycle is unusually capital‑intensive, making firms more sensitive to higher financing costs; and past tightening cycles have coincided with weak equity returns. Goldman adds: \"Whether or not the Fed hikes, uncertainty about the Fed's policy path will raise rate volatility risk and constitute a headwind for equities.\""
     }
   ]
 }

@@ -1,7 +1,35 @@
 {
   "date": "2026-07-21",
-  "count": 107,
+  "count": 110,
   "items": [
+    {
+      "id": "mkt:019f80a6-b1a7-7aab-8e13-7205706024ab",
+      "time": "2026-07-21 01:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AFP reports French lawmakers have paved the way to impose age limits on social media users."
+    },
+    {
+      "id": "4998400",
+      "time": "2026-07-21 01:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列安全訊息人士稱，美國正籌備未來幾日針對伊朗下一階段軍事行動。"
+    },
+    {
+      "id": "mkt:019f80a5-ace8-7aab-8e13-6efd9852efd1",
+      "time": "2026-07-21 01:49:29",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "i24News, citing Israeli security sources, said the US is preparing to launch the next stage of military action against Iran within days."
+    },
     {
       "id": "4998399",
       "time": "2026-07-21 01:47:28",
