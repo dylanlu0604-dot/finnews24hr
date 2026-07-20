@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-20 19:59:34",
-  "count": 19205,
+  "updated": "2026-07-20 20:03:31",
+  "count": 19204,
   "items": [
+    {
+      "id": "mkt:019f7f68-59a9-7aab-8e0c-6940be6e5a4a",
+      "time": "2026-07-20 20:02:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Houthi rebels announced a \"maritime navigation ban\" against Saudi Arabia."
+    },
+    {
+      "id": "4997997",
+      "time": "2026-07-20 20:02:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝宣佈對沙烏地阿拉伯實施“海上航行禁令”。"
+    },
+    {
+      "id": "te:markets:568245",
+      "time": "2026-07-20 20:02:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rebounds as Markets Monitor Middle East Tensions — Silver rose to around $57 an ounce on Monday, recovering from an eight-month low as investors assessed the US-Iran conflict and its implications for inflation and interest rates. US forces continued striking Iranian targets, while concerns over shipping through the Strait of Hormuz intensified after Tehran reported that two oil tankers had exploded and been immobilized. Although oil prices eased after Iran signaled it remained open to negotiations with the US, Brent crude stayed near a one-month high, keeping inflation concerns elevated and reinforcing expectations that US interest rates will remain higher for longer. Meanwhile, Cleveland Fed President Beth Hammack joined a growing chorus of policymakers suggesting further rate hikes may be needed to curb persistent inflation. Markets are now pricing an 80% chance of a December Fed rate hike, up from 73% a week ago."
+    },
+    {
+      "id": "4997996",
+      "time": "2026-07-20 20:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "波羅的海乾散貨指數跌2.94%，報2671點。"
+    },
+    {
+      "id": "mkt:019f7f67-45c7-7aab-8e0c-6549c1482b20",
+      "time": "2026-07-20 20:01:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index falls 2.94% to 2,671."
+    },
+    {
+      "id": "4997995",
+      "time": "2026-07-20 20:01:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大至7月17日全國經濟信心指數 51.4，前值52.6。"
+    },
+    {
+      "id": "mkt:019f7f66-a781-7aab-8e0c-5e716f6fb5a2",
+      "time": "2026-07-20 20:01:01",
+      "tags": [
+        "MKT News",
+        "USDCAD",
+        "Impact bullish"
+      ],
+      "text": "Canada national economic confidence index was 51.4 as of July 17, down from 52.6 previously."
+    },
+    {
+      "id": "mkt:019f7f66-8c85-7aab-8e0c-53471b788150",
+      "time": "2026-07-20 20:00:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | National Economic Confidence Index (Jul.17) | actual 51.4 | previous 52.6"
+    },
+    {
+      "id": "4997994",
+      "time": "2026-07-20 20:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗政府表示，正多措並舉管控能源消耗、擴容發電裝機以緩解電網負荷，重點推進光伏電站建設。"
+    },
+    {
+      "id": "4997993",
+      "time": "2026-07-20 20:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員表示，伊朗將在未來數月恢復1億立方米的減產天然氣產能。"
+    },
+    {
+      "id": "4997992",
+      "time": "2026-07-20 19:59:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西農業部：截至上週四，巴西中南部地區2026年第二季玉米收割已完成種植面積的49%。"
+    },
+    {
+      "id": "te:markets:568244",
+      "time": "2026-07-20 19:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds Steady as Markets Assess US-Iran Tensions — Gold hovered around $4,030 an ounce on Monday as investors assessed the evolving US-Iran conflict and its implications for oil prices, inflation, and monetary policy. US forces continued striking Iranian targets amid concerns over shipping through the Strait of Hormuz after Tehran reported that two oil tankers had exploded and been immobilized. Oil prices, which had climbed to a more than one-month high earlier in the session, later eased after Iran's foreign ministry said negotiations with the US could still be pursued if they aligned with the country's national interests. Even so, elevated energy prices continue to fuel inflation concerns and reinforce expectations that US interest rates will remain higher for longer. Meanwhile, Cleveland Fed President Beth Hammack joined a growing chorus of policymakers suggesting further rate hikes may be needed to contain persistent inflation. Markets are now pricing an 80% probability of a December Fed rate hike, up from 73% a week ago."
+    },
     {
       "id": "4997991",
       "time": "2026-07-20 19:57:48",
@@ -176846,145 +176956,6 @@
         "Brent"
       ],
       "text": "OPEC monthly report cuts its 2026 forecast for demand for OPEC crude by 200,000 b/d to 42.30 mln b/d; leaves the 2027 forecast unchanged at 43.60 mln b/d."
-    },
-    {
-      "id": "mkt:019f5b5c-41c3-7aab-8d59-f626fec80c5b",
-      "time": "2026-07-13 20:03:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【OPEC secondary-source data: June output changes for major producers】OPEC secondary-source data for June: total OPEC crude output rose 3,051,000 b/d to 22,002,000 b/d. Largest month-on-month moves: United Arab Emirates +1,642,000 b/d to 3,809,000 b/d; Kuwait +880,000 b/d to 1,452,000 b/d; Iraq +446,000 b/d to 1,970,000 b/d; Iran +155,000 b/d to 2,441,000 b/d. Saudi Arabia -99,000 b/d to 6,847,000 b/d. Other changes: Libya +22,000 b/d to 1,325,000 b/d; Nigeria +5,000 b/d to 1,559,000 b/d; Algeria +5,000 b/d to 987,000 b/d; Gabon +10,000 b/d to 224,000 b/d; Congo -7,000 b/d to 274,000 b/d; Guinea -7,000 b/d to 44,000 b/d; Venezuela -1,000 b/d to 1,070,000 b/d."
-    },
-    {
-      "id": "mkt:019f5b5c-2e66-7aab-8d59-eb373c1aad50",
-      "time": "2026-07-13 20:03:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "OPEC monthly report projects global oil demand at 105.94 mln b/d in 2026 and 107.88 mln b/d in 2027."
-    },
-    {
-      "id": "mkt:019f5b5b-7866-7aab-8d59-e3b8ca54d087",
-      "time": "2026-07-13 20:02:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada national economic confidence index 52.6 as of July 10, up from 51.2 previously."
-    },
-    {
-      "id": "mkt:019f5b5b-5868-7aab-8d59-dc8033a60054",
-      "time": "2026-07-13 20:02:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | National Economic Confidence Index (Jul.10) | actual 52.6 | previous 51.2"
-    },
-    {
-      "id": "4984782",
-      "time": "2026-07-13 20:02:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "歐佩克月報：下調2026年全球石油需求增長預測至每日78萬桶（此前預測為每日97萬桶），上調2027年全球石油需求增長預測至每日194萬桶（此前預測為每日173萬桶）。"
-    },
-    {
-      "id": "mkt:019f5b5b-3112-7aab-8d59-d47b9e31482c",
-      "time": "2026-07-13 20:02:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D fell 1.45% to 885.6 yuan/gram at the open of the evening session on July 13 (Mon); Silver T+D rose 0.17% to 14,240 yuan/kg in the same session."
-    },
-    {
-      "id": "mkt:019f5b5b-2066-7aab-8d59-c9e57bfe70e0",
-      "time": "2026-07-13 20:02:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Baltic Dry Index (BDI) rose 0.54% to 2,960 points."
-    },
-    {
-      "id": "mkt:019f5b5b-2058-7aab-8d59-c70b50fb0396",
-      "time": "2026-07-13 20:02:06",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "OPEC monthly report: OPEC+ oil production (including the former member the UAE) averaged 36.28 mln b/d in June 2026, up about 3.0 mln b/d from May, mainly driven by higher output from Gulf producers."
-    },
-    {
-      "id": "mkt:019f5b5a-f9ff-7aab-8d59-b9cf28f63776",
-      "time": "2026-07-13 20:01:56",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O): investment began earlier this year and will upgrade and maximize capacity at its fabs by end-2027."
-    },
-    {
-      "id": "mkt:019f5b5a-bfc2-7aab-8d59-b76a78e64a64",
-      "time": "2026-07-13 20:01:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O): investment will add hundreds of jobs in its Ireland operations."
-    },
-    {
-      "id": "mkt:019f5b5a-55c0-7aab-8d59-ab88cb1cd3dc",
-      "time": "2026-07-13 20:01:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "OPEC monthly report cut its 2026 global oil demand growth forecast to 780,000 b/d from 970,000 b/d and raised its 2027 growth forecast to 1.94 mln b/d from 1.73 mln b/d."
-    },
-    {
-      "id": "4984781",
-      "time": "2026-07-13 20:00:57",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "衣索比亞央行將基準利率上調至 16%。"
-    },
-    {
-      "id": "4984780",
-      "time": "2026-07-13 20:00:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【生益科技：預計2026年上半年淨利潤同比增長117%到131%】生益科技公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤30.99億元到32.98億元，與上年同期相比，將增加16.73億元到18.72億元，同比增加117%到131%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤27.19億元到29.18億元，與上年同期相比，將增加13.41億元到15.4億元，同比增加97%到112%。"
     }
   ]
 }

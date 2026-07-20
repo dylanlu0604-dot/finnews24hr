@@ -1,7 +1,117 @@
 {
   "date": "2026-07-20",
-  "count": 2398,
+  "count": 2410,
   "items": [
+    {
+      "id": "mkt:019f7f68-59a9-7aab-8e0c-6940be6e5a4a",
+      "time": "2026-07-20 20:02:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Houthi rebels announced a \"maritime navigation ban\" against Saudi Arabia."
+    },
+    {
+      "id": "4997997",
+      "time": "2026-07-20 20:02:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "胡塞武裝宣佈對沙烏地阿拉伯實施“海上航行禁令”。"
+    },
+    {
+      "id": "te:markets:568245",
+      "time": "2026-07-20 20:02:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Rebounds as Markets Monitor Middle East Tensions — Silver rose to around $57 an ounce on Monday, recovering from an eight-month low as investors assessed the US-Iran conflict and its implications for inflation and interest rates. US forces continued striking Iranian targets, while concerns over shipping through the Strait of Hormuz intensified after Tehran reported that two oil tankers had exploded and been immobilized. Although oil prices eased after Iran signaled it remained open to negotiations with the US, Brent crude stayed near a one-month high, keeping inflation concerns elevated and reinforcing expectations that US interest rates will remain higher for longer. Meanwhile, Cleveland Fed President Beth Hammack joined a growing chorus of policymakers suggesting further rate hikes may be needed to curb persistent inflation. Markets are now pricing an 80% chance of a December Fed rate hike, up from 73% a week ago."
+    },
+    {
+      "id": "4997996",
+      "time": "2026-07-20 20:01:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "波羅的海乾散貨指數跌2.94%，報2671點。"
+    },
+    {
+      "id": "mkt:019f7f67-45c7-7aab-8e0c-6549c1482b20",
+      "time": "2026-07-20 20:01:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index falls 2.94% to 2,671."
+    },
+    {
+      "id": "4997995",
+      "time": "2026-07-20 20:01:04",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大至7月17日全國經濟信心指數 51.4，前值52.6。"
+    },
+    {
+      "id": "mkt:019f7f66-a781-7aab-8e0c-5e716f6fb5a2",
+      "time": "2026-07-20 20:01:01",
+      "tags": [
+        "MKT News",
+        "USDCAD",
+        "Impact bullish"
+      ],
+      "text": "Canada national economic confidence index was 51.4 as of July 17, down from 52.6 previously."
+    },
+    {
+      "id": "mkt:019f7f66-8c85-7aab-8e0c-53471b788150",
+      "time": "2026-07-20 20:00:54",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | National Economic Confidence Index (Jul.17) | actual 51.4 | previous 52.6"
+    },
+    {
+      "id": "4997994",
+      "time": "2026-07-20 20:00:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗政府表示，正多措並舉管控能源消耗、擴容發電裝機以緩解電網負荷，重點推進光伏電站建設。"
+    },
+    {
+      "id": "4997993",
+      "time": "2026-07-20 20:00:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官員表示，伊朗將在未來數月恢復1億立方米的減產天然氣產能。"
+    },
+    {
+      "id": "4997992",
+      "time": "2026-07-20 19:59:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西農業部：截至上週四，巴西中南部地區2026年第二季玉米收割已完成種植面積的49%。"
+    },
+    {
+      "id": "te:markets:568244",
+      "time": "2026-07-20 19:59:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Holds Steady as Markets Assess US-Iran Tensions — Gold hovered around $4,030 an ounce on Monday as investors assessed the evolving US-Iran conflict and its implications for oil prices, inflation, and monetary policy. US forces continued striking Iranian targets amid concerns over shipping through the Strait of Hormuz after Tehran reported that two oil tankers had exploded and been immobilized. Oil prices, which had climbed to a more than one-month high earlier in the session, later eased after Iran's foreign ministry said negotiations with the US could still be pursued if they aligned with the country's national interests. Even so, elevated energy prices continue to fuel inflation concerns and reinforce expectations that US interest rates will remain higher for longer. Meanwhile, Cleveland Fed President Beth Hammack joined a growing chorus of policymakers suggesting further rate hikes may be needed to contain persistent inflation. Markets are now pricing an 80% probability of a December Fed rate hike, up from 73% a week ago."
+    },
     {
       "id": "4997991",
       "time": "2026-07-20 19:57:48",
