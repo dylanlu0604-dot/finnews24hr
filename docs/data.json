@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-20 21:25:47",
-  "count": 19198,
+  "updated": "2026-07-20 21:29:55",
+  "count": 19199,
   "items": [
+    {
+      "id": "4998158",
+      "time": "2026-07-20 21:27:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團啟動覆蓋霍尼韋爾航空航天公司 <HONA.O>  ，給予中性評級；目標價231美元。"
+    },
+    {
+      "id": "4998157",
+      "time": "2026-07-20 21:27:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【歐盟擬暫緩實施甲烷排放違規處罰 以平衡能源安全與氣候目標】歐盟委員會正式透過一項非約束性指導建議，建議各成員國在2027年至2029年期間，暫不對違反歐盟甲烷排放法規的能源進口商實施處罰。此舉旨在緩解因能源供應安全引發的爭議，尋求氣候目標與能源穩定之間的平衡。根據歐盟現行甲烷監管框架，自2027年1月起，進口至歐盟的天然氣等化石燃料必須符合嚴格的監測、報告與核查（MRV）標準，並需在2030年前滿足具體的甲烷排放強度限制要求。不合規的進口商將面臨高額罰款。然而，由於全球能源供應鏈的複雜性，該法規引發了廣泛擔憂。美國、卡達等主要天然氣出口國近期多次向歐盟發出警告，指出在複雜的天然氣供應鏈中全程追蹤甲烷排放面臨極大的技術與物理障礙。出口國強調，由於法律合規是最高原則，若歐盟堅持推行該法規，進出口商將拒絕簽署明知可能違規的長期供應合同，這不僅將導致歐洲面臨天然氣短缺和價格上漲的風險，還可能迫使美國等國的液化天然氣（LNG）轉向其他市場。"
+    },
+    {
+      "id": "4998156",
+      "time": "2026-07-20 21:26:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美團上線“本科專送”“碩士優送”“博士尊享”配送服務？官方客服回應】近日，一張標註著本科專送、碩士優送的外賣結算截圖，引發廣泛關注。截圖顯示，商家是一家潮汕牛肉火鍋店，商品、收貨地址、價格明細一應俱全。但配送選項欄分成四檔，3元的標準配送之外，8元“本科專送”標註騎手會持學位證上崗，還能用英文報餐；15元“碩士優送”附贈考研擇校諮詢；88元“博士尊享”更標註接單要導師批准。對此，記者聯絡美團平臺官方工作人員求證。負責使用者配送服務的官方客服工作人員明確回應，從沒有上線過任何按騎手學歷劃分收費標準的配送增值服務。工作人員表示，平臺所有配送服務收費標準，只和配送距離、天氣、訂單時段、運力情況掛鉤，目前平臺只施行使用者拉黑騎手和打賞騎手的功能，不存在以學歷為依據額外加價的規則。（第一財經）"
+    },
+    {
+      "id": "4998155",
+      "time": "2026-07-20 21:26:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將安森美半導體目標價從140.00美元下調至130.00美元。"
+    },
     {
       "id": "mkt:019f7fb3-781b-7aab-8e0e-74d629b289a2",
       "time": "2026-07-20 21:24:55",
@@ -176882,35 +176915,6 @@
         "其他"
       ],
       "text": "市場訊息：巴西起草新規允許私人合作伙伴參與鈾礦開採。"
-    },
-    {
-      "id": "4984948",
-      "time": "2026-07-13 21:27:38",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據美國證券交易委員會備案檔案，雙威動力雙體船公司（TWIN VEE POWERCATS CO）股東將在合併完成後獲得美國海上燃料公司（USFM）10%的股份。"
-    },
-    {
-      "id": "te:economy:566412",
-      "time": "2026-07-13 21:26:28",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ethiopia",
-        "Interest Rate",
-        "Importance 0"
-      ],
-      "text": "Ethiopia Lifts Key Policy Rate to 16% — The National Bank of Ethiopia raised its key interest rate to 16% from 15% on July 13th, 2026, marking the first adjustment since the benchmark was introduced at 15% in mid-2024 as part of broader economic reforms under Prime Minister Abiy Ahmed. It also scrapped the 24% credit growth ceiling hat had restricted bank lending since 2023. Inflation accelerated to 13.4% in May 2026, after falling into single digits in December 2025 for the first time in almost a decade, driven by global oil disruptions linked to the US–Iran conflict that lifted fuel, transport, and production costs. The central bank expects inflation to decline by the end of 2026 but acknowledged that prices are likely to remain elevated in the near term."
-    },
-    {
-      "id": "mkt:019f5ba8-2b72-7aab-8d5c-2ceb018f3fcd",
-      "time": "2026-07-13 21:26:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen Civil Aviation Authority ordered all airports to suspend arrivals and departures until further notice."
     }
   ]
 }
