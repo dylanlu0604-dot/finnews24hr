@@ -1,7 +1,126 @@
 {
   "date": "2026-07-20",
-  "count": 1665,
+  "count": 1678,
   "items": [
+    {
+      "id": "mkt:019f7ea6-ba69-7aab-8e06-a9c96650f68d",
+      "time": "2026-07-20 16:31:23",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Onshore yuan closed at 6.7670 per US dollar at 16:30 on July 20, strengthening 103 pips versus the previous session."
+    },
+    {
+      "id": "4997410",
+      "time": "2026-07-20 16:31:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海峽環保：董事會提名陳君為第四屆董事會獨立董事候選人】海峽環保公告稱，公司董事會提名陳君為第四屆董事會獨立董事候選人。提名人認為陳君具備獨立董事任職資格，與公司無影響獨立性的關係。陳君宣告自己具備任職資格，熟悉相關法規，有5年以上相關工作經驗，不存在影響獨立性的情形，無不良記錄，兼任獨立董事的境內上市公司數量未超3家，在公司連續任職未超6年，已透過資格審查。"
+    },
+    {
+      "id": "4997409",
+      "time": "2026-07-20 16:30:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【原融通基金基金經理範琨加盟思瑞投資，出任首席研究官】7月20日，證券時報記者獲悉，原融通基金百億級基金經理範琨近日正式加盟海南思瑞私募基金管理有限公司，出任公司首席研究官、權益板塊負責人，全面負責主觀多頭投研體系建設與管理。中國證券投資基金業協會資訊顯示，範琨已於7月17日完成從業機構變更並取得基金從業資格登記，從業機構為海南思瑞私募基金管理有限公司。公開資料顯示，範琨擁有10餘年證券投資從業經驗、9年多公募基金投資管理經驗。"
+    },
+    {
+      "id": "4997408",
+      "time": "2026-07-20 16:29:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【佰奧智慧：累計回購股份32.34萬股，佔公司目前總股本0.35%】佰奧智慧公告，截至本公告披露日，公司回購方案已實施完畢。實際回購區間為2026年4月24日至2026年7月17日，公司透過集中競價交易方式累計回購股份32.34萬股，佔公司目前總股本0.35%，最高成交價為64.79元/股，最低成交價為54.99元/股，成交總金額為人民幣1998.91萬元（不含交易費用）。"
+    },
+    {
+      "id": "4997407",
+      "time": "2026-07-20 16:29:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【利民股份：與先正達上海、蘇墾生化續簽戰略合作框架協議】利民股份公告，公司與先正達上海和蘇墾生化續簽了《戰略合作框架協議》，新協議期限自2026年7月17日起至2031年12月31日止。原協議約定合作期限為十年，每五年簽署一次，將於2026年11月21日到期。新協議的簽署旨在深化合作，共同運營“大生”品牌，佈局代森錳鋅在中國及全球的業務，提高市場佔有率及盈利能力。協議的順利履行預計對公司未來經營成果產生積極影響。"
+    },
+    {
+      "id": "4997406",
+      "time": "2026-07-20 16:29:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股太空概念股盤前上漲，SpaceX、ASTS漲1.5%，Rocket Lab漲2.5%。"
+    },
+    {
+      "id": "4997405",
+      "time": "2026-07-20 16:29:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【納睿雷達：預計2026年上半年淨利潤6193.06萬元左右，同比增長8.75%】納睿雷達公告，預計2026年上半年淨利潤6193.06萬元左右，與上年同期相比，將增加498.4萬元左右，同比增長8.75%左右。報告期內，公司憑藉產品技術、品牌等優勢，獲得客戶認可，公司新籤氣象雷達合同金額大幅增長；存量訂單加速確認落地，促使營業收入同比增長，業績呈現穩步增長態勢。"
+    },
+    {
+      "id": "4997404",
+      "time": "2026-07-20 16:29:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯莫斯科州州長沃羅比約夫20日通報說，19日夜間至20日凌晨，烏軍對該州的無人機襲擊造成10人受傷，其中包括3名中國公民，目前已在當地醫院接受治療。中國駐俄羅斯大使館正在核實有關情況。（新華社）"
+    },
+    {
+      "id": "4997403",
+      "time": "2026-07-20 16:29:34",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗：上調中國股票評級至“超配” 戰術性下調韓國股票評級】花旗在當地時間7月19日釋出的《新興市場股票策略2026年下半年展望》中表示，MSCI新興市場指數年初至今漲勢強勁但“過度集中”，AI板塊波動性上升使得集中風險暴露；而投資者對中國股票倉位較輕，疊加宏觀環境改善，中國市場具備“漲勢擴散”條件。\n\n花旗在新興市場資產配置中將中國股票評級上調至“超配”，同時將韓國股票評級從“超配”下調至“戰術性中性”。理由是韓國市場波動劇烈，KOSPI指數隱含波動率已遠超全球同類市場。而隨著今年由少數人工智慧贏家主導的漲勢有望向更廣泛板塊擴散，中國市場可能從中受益。\n\n花旗稱，目前來看，中國市場是資本輪動的首選目標。投資者當前中國持倉倉位偏低、國際油價下行、全球經濟增長環境改善是三大核心支撐因素，且中國市場估值具有吸引力。花旗給出恒生指數2026年底目標價為29600點，滬深300指數目標價為5600點。（上證報）"
+    },
+    {
+      "id": "4997402",
+      "time": "2026-07-20 16:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國煤炭運銷協會：7月上旬重點監測煤炭企業旬產量、銷量均有下降】7月20日，中國煤炭運銷協會發布煤炭市場排程旬報：7月上旬，受安全監管趨嚴、礦井檢修、產地降雨影響，煤炭整體供應有所收縮，重點監測煤炭企業旬產量、銷量均有下降。分行業看需求：電力行業，降雨增多帶動水電高發，疊加新能源出力增加，火電及電廠耗煤量回落；鋼鐵行業，淡季特徵明顯，鋼市需求偏弱，生鐵產量、重點監測焦鋼企業煤炭消費量低於去年同期水平。7月上旬主產地企業庫存小幅回升；下游使用者拉運積極性有所提升，北方主要港口煤炭庫存環比回落；下游庫存增長，重點監測鋼焦企業存煤回升，高溫天氣推動電廠持續備煤，電廠存煤已超過2.2億噸。7月上旬國內外煤炭市場價格波動調整；重點監測澳洲高品質動力煤進口價格低於國內同品質煤炭，結束倒掛。"
+    },
+    {
+      "id": "mkt:019f7ea3-ee9f-7aab-8e06-a1a2f613d0ad",
+      "time": "2026-07-20 16:28:20",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Iranian foreign ministry spokesman warned any US \"adventurous action\" to seize Kharg would face \"corresponding consequences.\" He said some in Iran's leadership are \"counting down\" for a possible US ground invasion and are preparing to \"receive\" US forces."
+    },
+    {
+      "id": "te:markets:568192",
+      "time": "2026-07-20 16:28:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Rebounds After Two Weeks of Losses — Frankfurt's DAX 40 edged higher to around 24,900 on Monday, attempting to recover after two consecutive weeks of losses driven by a sharp correction in AI-related stocks and escalating tensions between the US and Iran. Brent crude climbed to its highest level in more than a month after the two countries exchanged a series of retaliatory strikes, fueling inflation concerns. Investors are also looking ahead to Thursday's European Central Bank policy meeting, where rates are widely expected to remain unchanged following June's hike. However, markets continue to price in two additional ECB rate increases by early 2027, with the first potentially coming as soon as September. On the corporate front, the German automotive industry was in focus after Tesla announced plans to rapidly expand production at its Grünheide plant near Berlin, while Salzgitter extended Friday's gains after the steelmaker raised its full-year earnings forecast."
+    },
+    {
+      "id": "4997401",
+      "time": "2026-07-20 16:27:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【興業股份：股票連續三日跌幅偏離值累計達20% 不存在未披露重大資訊】興業股份公告稱，公司股票於2026年7月16日、17日、20日連續三個交易日收盤價格跌幅偏離值累計達20%，屬於異常波動情形。經核查，公司目前生產經營正常，所屬市場環境或行業政策未發生重大調整。公司及控股股東、實際控制人不存在應披露而未披露的重大資訊，未發現需澄清的媒體報道或市場傳聞。此外，控股股東一致行動人王文浩雖有減持計劃，但異常波動期間未減持。公司提醒投資者注意交易風險。"
+    },
     {
       "id": "mkt:019f7ea2-c519-7aab-8e06-99851f449e54",
       "time": "2026-07-20 16:27:04",
