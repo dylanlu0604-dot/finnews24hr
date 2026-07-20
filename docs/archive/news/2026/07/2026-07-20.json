@@ -1,7 +1,117 @@
 {
   "date": "2026-07-20",
-  "count": 334,
+  "count": 346,
   "items": [
+    {
+      "id": "te:markets:568017",
+      "time": "2026-07-20 08:09:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Flat to Start the Week — US stock futures were little changed on Monday as investors awaited fresh market catalysts this week, with the major indexes coming off a losing week after a sharp selloff in semiconductor stocks. Last week, the Nasdaq Composite fell 2.9%, while the S&P 500 and Dow Jones lost 1.55% and 0.93%, respectively. The VanEck Semiconductor ETF tumbled nearly 9%, marking its third weekly decline in the past four weeks. Investors also continued to monitor escalating hostilities between the US and Iran, which pushed oil prices higher and heightened concerns over inflation and the potential for interest rate hikes. Iran said its ceasefire with the US had effectively collapsed, while the US military reported the death of a third service member in the past two days. Market participants are now turning their attention to a new wave of corporate earnings this week, including results from Alphabet, Tesla, and Intel."
+    },
+    {
+      "id": "mkt:019f7cda-f463-7aab-8dfc-9334adbc6dc0",
+      "time": "2026-07-20 08:09:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Israeli military said alerts that sounded earlier in Kfar Aza and Sa'ad were confirmed to be false alarms."
+    },
+    {
+      "id": "4996434",
+      "time": "2026-07-20 08:08:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：看好目前處於低位的內需高壓裝置龍頭迎來拐點】中信證券研報稱，國家電網新一代電子商務平臺資料顯示，近日國網相繼開啟2026年特高壓專案第三次裝置招標、輸變電專案第三次變電裝置（含電纜）招標的中標候選人公示。特高壓年內前三批採購金額已超2025年全年，高壓預計也將在主網架建設的景氣度拉動下維持高位。看好目前處於低位的內需高壓裝置龍頭迎來拐點。"
+    },
+    {
+      "id": "mkt:019f7cda-8cd8-7aab-8dfc-887caa576a12",
+      "time": "2026-07-20 08:08:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian media Fars News reported explosions heard in southern Hormozgan and Bushehr provinces."
+    },
+    {
+      "id": "4996433",
+      "time": "2026-07-20 08:08:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【加拿大實施新入境限制措施 嚴防埃博拉疫情輸入 】加拿大公共衛生局19日發表宣告，宣佈實施新的臨時入境限制措施，以降低埃博拉病毒傳入加拿大並在加境內傳播的風險。宣告稱，自加東時間20日23時59分起，過去21天內到訪過剛果（金）的任何外國公民將被禁止入境加拿大。同時，加政府根據相關航空法要求航空公司不得允許此類外國公民登機前往加拿大。加拿大公共衛生局表示，目前埃博拉疫情對加拿大人的健康風險仍處於較低水平，且加境內迄今尚未報告過相關旅行輸入病例，臨時入境措施完全是出於謹慎考量。"
+    },
+    {
+      "id": "mkt:019f7cda-1a88-7aab-8dfc-84cbc2da0a5d",
+      "time": "2026-07-20 08:08:16",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Air-raid sirens sound in southern Israel near Gaza】The Israeli military said early on July 20 local time air-raid sirens sounded in Kfar Aza and Sa'ad in southern Israel. The cause is unclear; both locations are adjacent to the Gaza Strip."
+    },
+    {
+      "id": "4996432",
+      "time": "2026-07-20 08:08:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列軍方表示，不久前卡法阿扎和薩阿德地區拉響了警報，事後確認這是誤報。"
+    },
+    {
+      "id": "4996431",
+      "time": "2026-07-20 08:07:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列南部拉響防空警報 】以色列軍方稱，當地時間今天（7月20日）凌晨，以色列南部克法爾阿扎和薩阿德地區響起防空警報。目前具體原因不明。據悉，這兩處地區均緊鄰巴勒斯坦加沙地帶。"
+    },
+    {
+      "id": "4996430",
+      "time": "2026-07-20 08:07:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "據美聯社報道，英國軍方稱一艘船隻在阿曼海岸附近的霍爾木茲海峽起火。"
+    },
+    {
+      "id": "mkt:019f7cd8-c63c-7aab-8dfc-7e434f7406b3",
+      "time": "2026-07-20 08:06:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot silver turns higher, trading at $56/oz."
+    },
+    {
+      "id": "4996429",
+      "time": "2026-07-20 08:06:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "香港天文臺釋出紅色暴雨警告。"
+    },
+    {
+      "id": "mkt:019f7cd8-53ad-7aab-8dfc-74b4d3ccb07f",
+      "time": "2026-07-20 08:06:19",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "Shares of Samsung Electronics and SK Hynix trimmed losses to under 2%."
+    },
     {
       "id": "mkt:019f7cd7-d95e-7aab-8dfc-6a81211146ef",
       "time": "2026-07-20 08:05:48",
