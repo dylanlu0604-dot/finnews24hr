@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-20 08:48:59",
-  "count": 19038,
+  "updated": "2026-07-20 08:52:50",
+  "count": 19044,
   "items": [
+    {
+      "id": "4996498",
+      "time": "2026-07-20 08:51:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東軟集團等在遼寧新設私募股權投資基金】企查查APP顯示，近日，遼寧省東鐵盛泰私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由東軟集團(600718)等共同出資。"
+    },
+    {
+      "id": "4996497",
+      "time": "2026-07-20 08:51:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中煤能源：控股股東擬5000萬元—1億元增持公司股份】中煤能源在港交所公告，公司控股股東中國中煤能源集團有限公司（簡稱“中國中煤”）擬自公告披露之日起12個月內透過上海證券交易所採用集中競價、大宗交易等方式增持公司A股股份，增持總金額不低於5000萬元，不高於1億元，且增持數量不超過公司總股本的2%。"
+    },
+    {
+      "id": "4996496",
+      "time": "2026-07-20 08:50:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI軟體開發平臺Emergent以15億美元估值完成C輪融資】7月20日，AI軟體開發平臺Emergent宣佈完成1.3億美元C輪融資。 本輪融資由Creaegis領投，MNI Ventures - Claypond Capital和Sentinel Global聯合領投，Khosla Ventures、SoftBank Vision Fund 2、Lightspeed和Y Combinator參與投資。經過最新一輪融資，Emergent估值達到15億美元，在公開發布後一年內躋身獨角獸行列。"
+    },
+    {
+      "id": "te:markets:568026",
+      "time": "2026-07-20 08:50:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Holds Gains as US-Iran Conflict Escalates — The dollar index traded near 101 on Monday after rising for two straight sessions, supported by escalating tensions in the Middle East that lifted oil prices and fueled concerns over inflation and the prospect of higher interest rates. The US military said it carried out fresh airstrikes against Iran on Sunday following the deaths of three American service members, while Tehran declared that its ceasefire with the US had effectively collapsed and said it intercepted four vessels transiting the Strait of Hormuz over the weekend. Meanwhile, Cleveland Fed President Beth Hammack on Friday joined a growing chorus of Fed officials warning about persistent inflation. Markets are now pricing in around a 53% chance of a Fed rate hike in September, up from 47% a day earlier, though the central bank is still widely expected to keep interest rates unchanged at this month's meeting."
+    },
+    {
+      "id": "mkt:019f7d00-5ffd-7aab-8dfd-48605252cf8c",
+      "time": "2026-07-20 08:50:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China's one-year Loan Prime Rate (LPR) for July 20 will be released in 10 minutes."
+    },
+    {
+      "id": "te:markets:568025",
+      "time": "2026-07-20 08:48:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australian Stocks Lift Modestly as Week Begins — Australian shares inched up 24 points or 0.3% to 8,820 in early trade on Monday, reversing weakness in the prior two sessions amid strength in energy minerals, consumer services, and consumer non-durables. Firmer S&P and Nasdaq futures also lent support after Wall Street’s Friday slide due to unease over Chinese AI breakthroughs, which stirred doubts about the sustainability of this year’s tech-driven rally. Traders kept an eye on the monthly lending rate fix later today in top trading partner China. Locally, labor data due this week will test sentiment after May’s robust jobs growth contrasted with a jobless rate near a four-year high. South32 rose 0.5% after exceeding annual production guidance. Heavyweight BHP added 0.2%, while the big four banks advanced between 0.4% and 0.9%. In contrast, gold miners lagged, with Northern Star down 1.4% and Evolution off 2%, weighing on the sector."
+    },
+    {
+      "id": "4996495",
+      "time": "2026-07-20 08:48:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額較上日減少798.81億元】截至7月17日，上交所融資餘額報13928.33億元，較前一交易日減少379.89億元；深交所融資餘額報13563.12億元，較前一交易日減少418.92億元；兩市合計27491.45億元，較前一交易日減少798.81億元。"
+    },
+    {
+      "id": "mkt:019f7cff-2bc3-7aab-8dfd-429b686ce530",
+      "time": "2026-07-20 08:48:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin financing across Shanghai and Shenzhen falls 79.88 bln yuan】As of July 17, Shanghai Stock Exchange margin balance was 1,392.83 bln yuan, down 37.99 bln from the prior trading day; Shenzhen Stock Exchange margin balance was 1,356.31 bln, down 41.89 bln. Combined margin financing stood at 2,749.15 bln yuan, down 79.88 bln."
+    },
+    {
+      "id": "4996494",
+      "time": "2026-07-20 08:48:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飛天茅臺五糧液普五八代領漲 白酒大單品總價創六天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月20日延續反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9849元，較昨日上漲9元，連續兩天回升，較7月18日創下的階段低點累計上漲44元，創下六天以來最高。縱觀全場，核心單品的漲跌分化依然顯著，終端交投情緒環比繼續回暖，總價低位修復勢頭延續。\n\n今日11大白酒單品七漲兩跌兩平，贏家數量佔據明顯優勢，整體漲幅亦略勝一籌。上漲方面，五糧液普五八代的漲幅居前，上漲6元/瓶，連續三日自“酒價內參”去年11月有統計以來最低位處反彈，累計回升15元/瓶，重新站上790元關口；飛天茅臺上漲5元/瓶，連續四日上行，零售均價升至1758元/瓶，重新整理今年3月4日以來最高價；按照i茅臺最新的官方定價1639元/瓶計，其全國終端零售均價相對官方定價的溢價擴大至119元/瓶。精品茅臺與洋河夢之藍M6+均上漲3元/瓶，其中前者回補昨日全部跌幅，但仍未突破2400元大關；後者自近一月最低位處小幅修復，但仍處於590元關口下方。五糧液1618上漲2元/瓶，自昨日創下的近一月最低位反彈，但仍未收復820元關口；青花汾20與習酒君品均小漲1元/瓶，其中前者重返370元關口，後者連續兩日回升，再度逼近630元關口。下跌方面，古井貢古20跌幅居前，下跌7元/瓶，跌至7月以來次低位；國窖1573下跌5元/瓶，價格再度回落至近一月最低位。青花郎價格環比昨日保持不變，連續兩日維持在693元/瓶；水晶劍南春同樣保持不變，已連續四日維持在403元/瓶。"
+    },
+    {
+      "id": "em:qqyh_mlc:202607203811967654",
+      "time": "2026-07-20 08:48:09",
+      "tags": [
+        "央行",
+        "美聯儲"
+      ],
+      "text": "【美聯儲溝通正規化轉變引發市場焦慮 AI工具與另類資料成機構破局關鍵】自凱文·沃什（KevinWarsh）今年5月就任美聯儲主席以來，該央行前瞻性溝通方式經歷徹底改革。政策指引與資訊透明度的大幅縮減，令長期依賴解讀央行表態制定策略的市場參與者深感不安。資產管理公司F/m Investments執行長直言，新任主席已明確表示將對市場“保持沉默”。這一溝通正規化的根本性轉變，正迫使華爾街重構其貨幣政策研判體系。"
+    },
     {
       "id": "te:markets:568024",
       "time": "2026-07-20 08:47:16",
@@ -175644,39 +175744,6 @@
         "國際"
       ],
       "text": "【美軍襲擊伊朗一水泵站致1死4傷】據伊朗官方通訊社伊通社今天（7月13日）報道，美軍襲擊伊朗西南部馬赫沙赫爾的一處水泵站，造成1人死亡、4人受傷。（ CCTV國際時訊）"
-    },
-    {
-      "id": "4983300",
-      "time": "2026-07-13 08:52:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中鋼天源：公司不是磁珠和電感的原料供應商】中鋼天源(002057)7月13日在互動平臺表示，公司不是磁珠和電感的原料供應商。"
-    },
-    {
-      "id": "4983299",
-      "time": "2026-07-13 08:52:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雙欣材料：PVB樹脂產品正推進MLCC行業下游客戶認證 認證週期存在不確定性】雙欣材料7月13日在互動平臺表示，公司PVB樹脂產品正在積極推進MLCC行業下游客戶的認證，該應用領域的PVB樹脂產品屬於高度定製化非標化工新材料，行業認證主要是下游客戶對公司該型號PVB樹脂產品的各項關鍵效能指標及穩定性的驗證，認證週期存在不確定性。"
-    },
-    {
-      "id": "4983298",
-      "time": "2026-07-13 08:51:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026年秋冬季將形成超強厄爾尼諾事件 持續顯著影響我國氣候、海洋生態和防災減災】近日，國家海洋環境預報中心綜合海洋監測、大氣環流及多模式預測結果研判，今年秋冬季將形成一次超強厄爾尼諾事件，不排除趕超1997/1998年史上超強厄爾尼諾的可能，各類氣候及海洋災害風險需提前防範。 最新監測資料顯示，本次厄爾尼諾增暖特徵典型。今年春季增暖率先在赤道東太平洋秘魯沿岸海域出現，逐步向西擴充套件，5月已正式進入厄爾尼諾狀態，近期增暖速率顯著加快。目前，國內外動力、統計及人工智慧模式預測結論高度一致，預計今年秋冬季達到強至超強厄爾尼諾標準，重新整理歷史極值的可能性持續增大。 國家海洋環境預報中心專家表示，本次厄爾尼諾將對我國氣候、海洋生態和防災減災產生顯著持續性影響。颱風方面，西北太平洋及南海臺風生成數量偏少，但源地偏東偏南、強度更強，需重點防範強颱風引發的災害性海浪、風暴潮及海水倒灌災害。 氣候方面，今年夏秋季我國華北、東北及江南地區降水偏多，長江中游降水偏少，冬季整體呈現暖冬特徵。海洋領域，渤海、黃海、東海北部海溫偏高，區域性海洋熱浪風險突出，將威脅海水養殖安全，加劇珊瑚礁白化問題。（ 中國自然資源報  ）"
-    },
-    {
-      "id": "4983297",
-      "time": "2026-07-13 08:49:21",
-      "tags": [
-        "行業",
-        "公司"
-      ],
-      "text": "【酒價內參7月13日價格釋出：習酒君品領跌 總價創15天以來新低】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月13日整體低位微幅回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9854元，較昨日小幅下跌4元，連續兩日回落並創下15天以來最低。國窖1573續創近一月最高價紀錄，而精品茅臺則創近一月最低價。縱觀全場，高低位品種並存，核心單品漲跌分化依然顯著，終端交投量能基本穩定，總價低位震盪格局延續。\n\n今日11大白酒單品六漲五跌，贏家數量略佔優勢。上漲方面，洋河夢之藍M6+與青花郎漲幅居前，均上漲5元/瓶，其中前者回補昨日全部跌幅，重新逼近600元大關，後者再度叩響700元關口；五糧液普五八代上漲3元/瓶，兩連陽後已逼近800元大關；國窖1573上漲2元/瓶，連續四日走高並續創近一月最高價紀錄，近一月其價格中樞持續上移；飛天茅臺與五糧液1618均小幅上漲1元/瓶，其中後者自昨日創下的近一月最低價處小幅修復。下跌方面，習酒君品跌幅居前，下跌6元/瓶，連續兩日回落並降至近一個月次低位；精品茅臺與青花汾20均下跌5元/瓶，其中前者連跌三天，跌至2390元一線並創5月16日i茅臺平臺提價以來最低，後者自昨日創下的近一月最高價處回落；古井貢古20下跌3元/瓶，連續兩日走低，近一月其最高價與最低價相差49元/瓶，價格波動顯著；水晶劍南春下跌2元/瓶。"
     }
   ]
 }
