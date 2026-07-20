@@ -1,7 +1,114 @@
 {
   "date": "2026-07-20",
-  "count": 401,
+  "count": 413,
   "items": [
+    {
+      "id": "te:markets:568021",
+      "time": "2026-07-20 08:36:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Prices Hit 4-Month High — European natural gas prices surged 5% to above €60 per MWh on Monday, reaching their highest level in four months, amid mounting fears of further supply disruptions as attacks between the US and Iran escalated over the weekend. The US Central Command said on Sunday that it had carried out a fresh round of strikes against Iran for the ninth consecutive night, while US allies Kuwait and Bahrain reported Iranian attacks. The conflict has widened beyond military targets to include bridges, utility infrastructure, and port facilities, increasing the risk of a return to full-scale war. Shipping activity through the Strait of Hormuz has largely come to a halt, with the US enforcing a naval blockade on Iranian ports and Iran targeting vessels it says are violating its regulations. These supply risks, coupled with stronger demand for power generation, are limiting Europe's ability to rebuild gas inventories ahead of winter."
+    },
+    {
+      "id": "4996485",
+      "time": "2026-07-20 08:36:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局(FDA)就泰勒農場環孢子蟲疾病事件表示：截至2026年7月19日，針對環孢子蟲的產品檢測尚無確認的陽性樣本結果。"
+    },
+    {
+      "id": "4996484",
+      "time": "2026-07-20 08:36:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：Giant Eagle將下調300多種產品的價格。"
+    },
+    {
+      "id": "4996483",
+      "time": "2026-07-20 08:35:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：告訴Giant Eagle將在勞動節期間降低商品價格。"
+    },
+    {
+      "id": "4996482",
+      "time": "2026-07-20 08:35:22",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特朗普：GIANT EAGLE公司將大幅降價。"
+    },
+    {
+      "id": "mkt:019f7cf2-abcb-7aab-8dfd-12a7f5bd0af3",
+      "time": "2026-07-20 08:35:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China International Capital Co: second buy point of the year may have arrived】China International Capital Co said in a research note markets have already priced in overly pessimistic expectations and positive factors are accumulating. The A-share index appears to be forming another intra-year relative low, and a second buy point this year may have arrived. From a medium-term perspective, the firm expects A-shares to continue a choppy upward trend."
+    },
+    {
+      "id": "4996481",
+      "time": "2026-07-20 08:34:43",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "【在利率將在更長時間內維持高位的預期下金價下跌】亞洲早盤交易時段，金價下跌。現貨黃金下跌0.4%，報每盎司4,001.73美元。XS.com的Rania Gule在一份報告中表示，利率將在更長時間內維持高位的預期提振了美元和美債收益率，這可能對金價造成了沉重打擊。不過，她認為近期的下跌更可能是一個暫時的重新定價過程，而不是這種黃色金屬長期熊市的開始。她補充說，黃金的結構性特徵使其繼續成為對沖主權風險、持續的通貨膨脹和地緣政治不確定性的有效工具，而央行的買入應會為金價提供長期支撐。"
+    },
+    {
+      "id": "mkt:019f7cf2-0e9a-7aab-8dfd-0b8ac3383738",
+      "time": "2026-07-20 08:34:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【KOSPI likely to stay rangebound through year-end, analyst says】After a recent sharp pullback KOSPI is attempting to rebound, but reclaiming prior highs in Q3 is unlikely and the market may remain rangebound into year-end, iM Securities researcher Kim Jun-young said on the 20th. Elevated financing balances amplify volatility and could widen index swings. He warned further declines could trigger margin-financing liquidations and credit-driven forced selling."
+    },
+    {
+      "id": "4996480",
+      "time": "2026-07-20 08:34:13",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【中金：年內二次買點或已到來】中金公司研報認為，眼下市場已反映過於悲觀預期，而積極因素正在累積，對A股後市不必悲觀，指數正在形成年內又一相對低點，A股年內二次買點或已到來。中期視角，我們看好A股市場延續震盪上行趨勢。"
+    },
+    {
+      "id": "4996479",
+      "time": "2026-07-20 08:34:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗媒體：伊朗多地傳出爆炸聲 】據伊朗媒體20日報道，伊朗多地當天傳出爆炸聲。報道說，伊朗西南部馬赫夏赫爾港、霍梅尼港以及南部港口城市錫裡克多次傳出爆炸聲，東南部港口科納拉克的防空系統已啟動。據伊朗新聞電視臺報道，美軍襲擊了伊朗西北部城市大不里士。（新華社）"
+    },
+    {
+      "id": "4996478",
+      "time": "2026-07-20 08:33:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西等地強降雨持續局地有大暴雨 四川盆地和新疆多地天氣酷熱】今天（7月20日），廣西至長江中下游等地主雨帶維持，部分地區有大到暴雨，局地大暴雨，明後天降雨有所減弱，需防範次生災害的發生。氣溫方面，四川盆地和新疆等地高溫持續，高溫強度具有一定極端性，江南等地23日起高溫也將發展，需注意防暑。"
+    },
+    {
+      "id": "4996477",
+      "time": "2026-07-20 08:33:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【人形機器人預計年底將推出第一批標準，標委會副主任委員江磊談安全倫理管控】7月19日，工信部人形機器人標委會副主任委員江磊向澎湃新聞記者談及安全倫理管控。他表示硬體要標準，模型要加“防火牆”，標委會預計年底將推出第一批標準。（澎湃）"
+    },
     {
       "id": "4996476",
       "time": "2026-07-20 08:32:35",
