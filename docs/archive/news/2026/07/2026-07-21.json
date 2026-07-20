@@ -1,7 +1,54 @@
 {
   "date": "2026-07-21",
-  "count": 182,
+  "count": 187,
   "items": [
+    {
+      "id": "mkt:019f810d-c653-7aab-8e14-62798aced853",
+      "time": "2026-07-21 03:43:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Trump issued an executive order stating U.S. defense contractors could lose contracts if they fail to replace foreign suppliers deemed risky. The order requires contractors to prioritize exhausting domestic procurement options and to map supply chains for critical minerals and components in weapons systems."
+    },
+    {
+      "id": "mkt:019f810b-f753-7aab-8e14-5e3e43428c33",
+      "time": "2026-07-21 03:41:12",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump signed an executive order tightening the conditions under which U.S. defense contractors can obtain waivers to use banned foreign-sourced critical minerals and materials."
+    },
+    {
+      "id": "4998443",
+      "time": "2026-07-21 03:40:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普簽署的行政令要求承包商優先窮盡國內產品採購渠道，並梳理各類武器系統所需關鍵礦產、零部件的供應鏈脈絡。"
+    },
+    {
+      "id": "4998442",
+      "time": "2026-07-21 03:40:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國白宮：特朗普釋出行政令，規定若國防承包商未能替換存在風險的境外供應商，將面臨合約被取消的處罰。"
+    },
+    {
+      "id": "4998441",
+      "time": "2026-07-21 03:40:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：特朗普簽署行政令，提高國防承包商獲取豁免許可的門檻，限制其使用被禁境外關鍵礦產與原材料。"
+    },
     {
       "id": "4998438",
       "time": "2026-07-21 03:39:45",
