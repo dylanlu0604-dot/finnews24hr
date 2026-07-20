@@ -1,7 +1,27 @@
 {
   "date": "2026-07-21",
-  "count": 229,
+  "count": 231,
   "items": [
+    {
+      "id": "mkt:019f8141-a001-7aab-8e14-ec836608274a",
+      "time": "2026-07-21 04:39:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Bushehr provincial governor said local air-defence systems have been activated to counter threats from hostile aircraft. No strikes or impacts have been reported in the Bushehr area so far."
+    },
+    {
+      "id": "te:markets:568315",
+      "time": "2026-07-21 04:37:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Steel Dynamics earnings below expectations at 3.69 USD — Steel Dynamics (STLD) released earnings per share at 3.69 USD, compared to market expectations of 3.98 USD."
+    },
     {
       "id": "te:markets:568314",
       "time": "2026-07-21 04:35:08",

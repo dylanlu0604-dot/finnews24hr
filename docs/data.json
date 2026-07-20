@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-21 04:36:59",
-  "count": 19044,
+  "updated": "2026-07-21 04:40:58",
+  "count": 19045,
   "items": [
+    {
+      "id": "mkt:019f8141-a001-7aab-8e14-ec836608274a",
+      "time": "2026-07-21 04:39:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported Bushehr provincial governor said local air-defence systems have been activated to counter threats from hostile aircraft. No strikes or impacts have been reported in the Bushehr area so far."
+    },
+    {
+      "id": "te:markets:568315",
+      "time": "2026-07-21 04:37:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Steel Dynamics earnings below expectations at 3.69 USD — Steel Dynamics (STLD) released earnings per share at 3.69 USD, compared to market expectations of 3.98 USD."
+    },
     {
       "id": "te:markets:568314",
       "time": "2026-07-21 04:35:08",
@@ -175118,14 +175138,6 @@
         "國際"
       ],
       "text": "伊朗軍方警告：絕不允許美國插手霍爾木茲海峽的航道管控事務。"
-    },
-    {
-      "id": "mkt:019f5d36-1f17-7aab-8d64-1c0cfab33ee2",
-      "time": "2026-07-14 04:40:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【South Carolina governor appoints late Sen. Lindsey Graham's sister to fill remainder of his term】On July 13, South Carolina Governor Henry McMaster announced he has appointed Darlene Graham Nodone to serve the remainder of the late Republican U.S. Senator Lindsey Graham's term."
     }
   ]
 }
