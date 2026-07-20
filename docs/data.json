@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-20 22:10:59",
-  "count": 19196,
+  "updated": "2026-07-20 22:15:07",
+  "count": 19198,
   "items": [
+    {
+      "id": "4998226",
+      "time": "2026-07-20 22:14:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "多哈銀行上半年淨利潤為4.36億里亞爾。"
+    },
+    {
+      "id": "mkt:019f7fe0-af03-7aab-8e0f-d402cbc787dd",
+      "time": "2026-07-20 22:14:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Market sources: a tanker managed by Greek firm Dynacom Tankers Management was attacked in the Strait of Hormuz."
+    },
+    {
+      "id": "4998225",
+      "time": "2026-07-20 22:13:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "上海市氣象臺2026年07月20日22時07分更新中心城區暴雨黃色預警訊號為暴雨藍色預警訊號：預計今天半夜以前，中心城區大部仍將出現一小時雨量30-40毫米的短時強降水天氣，暴雨黃色預警訊號更新為暴雨藍色預警訊號，請注意防範強降雨可能引發的城市積澇。（上海天氣）"
+    },
+    {
+      "id": "mkt:019f7fdf-c4d4-7aab-8e0f-c83ed15bfd99",
+      "time": "2026-07-20 22:13:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "British political reports say Andy Burnham has just had his first call with US President Trump since assuming office as prime minister."
+    },
+    {
+      "id": "4998224",
+      "time": "2026-07-20 22:12:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美請求在保加利亞部署加油機以支援中東戰事】保加利亞總理拉德夫20日稱，保加利亞政府已收到美國在保加利亞貝茲梅爾空軍基地部署至多8架加油機的請求，將提請議會批准。 拉德夫表示，政府17日收到美方此項旨在支援其中東軍事行動的請求。美方援引了2006年簽署的兩國政府間防務合作協議。該協議允許美軍使用貝茲梅爾空軍基地等保境內基地。 拉德夫說，儘管美方緊急提出部署請求，但保政府尚未批准，因為根據保加利亞法律，須由議會作出此類決定。政府將向議會提議允許這些加油機部署在貝茲梅爾空軍基地。 拉德夫說，美軍加油機今年2月部署在索非亞機場，保加利亞時任政府繞過議會對此予以許可。隨後，看守內閣延長了美方加油機的駐留時間。5月底，由於美方在保加利亞公民入境美國簽證問題上未給予保方想要的積極回應，拉德夫領導的新政府將授權期限縮短至6月30日。美軍軍機於6月底撤離。（新華社）"
+    },
+    {
+      "id": "mkt:019f7fde-6cc5-7aab-8e0f-c7f2755d3b78",
+      "time": "2026-07-20 22:11:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【KPMG: Canada's energy-cost pass-through to consumer prices not yet evident】KPMG Canada chief economist Ali Jaffery said June CPI shows limited evidence that rising energy costs have transmitted to food and other goods. Headline inflation slowed to 2.8% in June from 3.2% in May. Jaffery noted academic literature suggests such pass-through can take a year or more to peak, so the slow start is encouraging, and said concerns that higher energy prices combined with U.S. tariffs are accelerating goods inflation are not borne out. Excluding travel services the CPI basket shows \"considerable weakness\"; travel services rose in June amid World Cup matches in Toronto and Vancouver."
+    },
+    {
+      "id": "te:markets:568266",
+      "time": "2026-07-20 22:11:35",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Dollar Steady on Monday — The dollar index hovered around 101 on Monday, as investors continued to assess developments in the Middle East and their implications for the economic and monetary policy outlook. Tensions between the US and Iran escalated over the weekend, sending oil prices to six-week highs before they pared most of their gains following comments from Iran's foreign ministry indicating that negotiations with the US could continue if the country's national interests are respected. Last week, both CPI and PPI reports came in softer than expected, but the recent surge in oil prices has raised concerns that the disinflation trend could stall. Markets continue to price in one Fed rate hike this year, with the probability of a September move remaining above 60%. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to leave the federal funds rate unchanged."
+    },
+    {
+      "id": "4998223",
+      "time": "2026-07-20 22:11:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長盈精密：與宇樹科技不存在股權關係】長盈精密7月20日在互動平臺表示，公司與宇樹科技不存在股權關係。"
+    },
+    {
+      "id": "mkt:019f7fdd-a844-7aab-8e0f-b85a23cd0dc6",
+      "time": "2026-07-20 22:11:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "USGS: A magnitude 6.4 earthquake occurred about 86 km WSW of San Agustín, Chiapas, Mexico."
+    },
     {
       "id": "4998222",
       "time": "2026-07-20 22:09:57",
@@ -176780,73 +176862,6 @@
         "其他"
       ],
       "text": "PAPER TRANSPORT：與特斯拉合作，在芝加哥市場專項運營中評估特斯拉Semi長續航版。"
-    },
-    {
-      "id": "mkt:019f5bd3-cce0-7aab-8d5d-81f66cafdcad",
-      "time": "2026-07-13 22:13:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "【Switzerland, UK reach updated free trade deal to deepen post‑Brexit ties】Switzerland and the United Kingdom agreed an updated free trade agreement, aiming to deepen economic ties between the two largest non‑EU West European economies. Negotiations, launched more than three years ago, were declared concluded and the accord was signed in Bern on Monday by UK Business and Trade Secretary Peter Kyle and Swiss Federal President and Minister of Economic Affairs Guy Parmelin. The pact builds on a 2023 financial services agreement and targets easier cross‑border operations for financial, technology, pharmaceutical and legal services through improved market access, reduced administrative barriers, strengthened data sharing and measures to facilitate labor mobility. The UK said bilateral trade exceeded £50bn last year (~$67bn), with roughly £30bn in goods. Officials estimate services trade could expand by about £5.2bn annually over the long term under the agreement."
-    },
-    {
-      "id": "te:markets:566453",
-      "time": "2026-07-13 22:13:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Orange Juice Hits 32-week Low — Orange Juice decreased to 139.50 USd/Lbs, the lowest since November 2025. Over the past 4 weeks, Orange Juice lost 9.07%, and in the last 12 months, it decreased 55.18%."
-    },
-    {
-      "id": "4985011",
-      "time": "2026-07-13 22:13:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部發言人：要為傷亡的伊朗人復仇】當地時間7月13日，伊朗外交部發言人巴加埃表示，要為遇害的伊朗最高領袖阿里·哈梅內伊及所有在美以襲擊中傷亡的伊朗人復仇，“這是基本原則和公眾的共同訴求”——而伊朗外交部正透過國際法律機制記錄罪行、尋求正義。此外，巴加埃提到，伊朗原計劃與阿曼合作建立“霍爾木茲海峽聯合管理機制”，但由於美國對阿曼的施壓，導致這項機制未能實現。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f5bd3-99f1-7aab-8d5d-7a7a1437b2e2",
-      "time": "2026-07-13 22:13:41",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Baltic Dry Index hits highest in over a month】On Monday the Baltic Dry Index rose 16 points, or 0.54%, to 2,960 — its highest level since early June — led by gains in capesize and supramax freight. The capesize index (BCI) gained 47 points, or 1%, to 4,702, a more-than-one-month high; capesize average daily earnings rose $427 to $39,138. The panamax index (BPI) slipped 3 points, or 0.1%, to 2,250; panamax daily earnings fell $19 to $20,254. The supramax index (BSI) ticked up 1 point to 1,707, its highest since June 22. The handysize index (BHSI) eased 1 point to 914."
-    },
-    {
-      "id": "mkt:019f5bd3-453e-7aab-8d5d-75c11398ac83",
-      "time": "2026-07-13 22:13:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's president sheinbaum said the US increase in imports of Mexican sugar is 'great'."
-    },
-    {
-      "id": "4985010",
-      "time": "2026-07-13 22:13:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "葉門最高政治委員會成員：美國及沙特應對侵略、封鎖以及對包括薩那機場在內的民用設施的轟炸負責。"
-    },
-    {
-      "id": "4985009",
-      "time": "2026-07-13 22:12:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "辛鮑姆：美國增加墨西哥糖進口“極好”。"
     }
   ]
 }
