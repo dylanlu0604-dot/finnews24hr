@@ -1,7 +1,217 @@
 # 24HR 財經快訊 - 第 3 部分（共 5 部分）
 
-_更新時間：2026-07-21 04:36:59_
-_本檔包含 4009 則快訊，約 721384 字_
+_更新時間：2026-07-21 05:43:23_
+_本檔包含 4005 則快訊，約 721814 字_
+
+---
+
+### 2026-07-17 10:34:14  #公司
+
+【極智嘉具身智慧啟動首次獨立融資】記者獲悉，極智嘉-W（02590.HK）旗下具身智慧子公司——北京極智嘉具身智慧科技有限公司正式啟動首次獨立融資，以加速技術研發攻關與持續迭代。據瞭解，極智嘉具身智慧以通用AI機器人為願景，從倉儲起步，汲取海量真實物理互動資料，形成資料飛輪，未來將向零售、服務等場景拓展迭代，促進生態建設向更廣闊物理世界延伸。（證券時報）
+
+---
+
+### 2026-07-17 10:34:09  #市場
+
+現貨白銀日內跌1%，現報54.92美元/盎司。
+
+---
+
+### 2026-07-17 10:33:16  #公司
+
+【中汽協：上半年銷量排名前十企業共銷售汽車1264.9萬輛，佔總量的84.2%】據中國汽車工業協會統計分析，2026年1-6月，汽車銷量排名前十位的企業（集團）共銷售1264.9萬輛，佔汽車銷售總量的84.2%。在上述十家企業中，與去年同期相比，吉利控股、奇瑞控股、廣汽集團和長城汽車銷量呈不同程度增長，其他企業銷量呈不同程度下降。
+
+---
+
+### 2026-07-17 10:33:10  #其他
+
+【港股大模型概念股持續走低，智譜跌超16%】港股大模型概念股持續走低，智譜跌超16%，MINIMAX-W跌超11%。
+
+---
+
+### 2026-07-17 10:32:48  #國際
+
+伊朗南部五座橋樑在最新一輪美國襲擊中被擊中。
+
+---
+
+### 2026-07-17 10:32:19  #其他
+
+【外匯局：上半年高技術服務業和高技術製造業外資流入規模同比增長61%】國家外匯管理局國際收支司負責人趙玉超17日在國新辦新聞釋出會上表示，我國吸引外資結構持續向新向優，上半年高技術服務業和高技術製造業外資流入規模同比增長61%。（新華財經）
+
+---
+
+### 2026-07-17 10:32:14  #公司 #其他 #焦點
+
+【港股大模型概念股持續走低，智譜跌超16%】港股大模型概念股持續走低，智譜跌超16%，MINIMAX-W跌超11%。
+
+---
+
+### 2026-07-17 10:31:57  #其他
+
+【外匯局：近年來人民幣匯率雙向浮動增強 企業更需堅持匯率風險中性理念】7月17日，國家外匯管理局副局長李斌在國新辦新聞釋出會上表示，匯率由市場供求決定，是很難預測的。近年來人民幣匯率雙向浮動增強，企業更需要堅持匯率風險中性的理念，主動採取措施管理匯率風險，儘可能降低匯率波動對主營業務和財務的影響。外匯局會同相關部門及金融機構，持續加強匯率風險中性理念宣傳，重點引導企業關注市場環境變化，提升避險意識，完善自主決策。
+
+---
+
+### 2026-07-17 10:31:48  #市場
+
+日經225指數早盤收盤下跌4.4%，至63,896.48點；東證指數早盤收盤下跌2.6%，至3923.45點。
+
+---
+
+### 2026-07-17 10:31:21  #宏觀
+
+外匯局：繼續完善企業匯率避險政策供給和服務。一是會同相關部門及金融機構，持續加強匯率風險中性理念宣傳。二是搭建銀企服務橋樑。建立並不斷完善涉外企業資訊庫，已將29萬家外貿企業納入服務清單，幫助銀行依託企業清單提供精準高效服務。三是鼓勵銀行提升服務水平。簡化銀行為企業辦理外匯衍生品交易的單證稽核要求。推動銀行在創新外匯衍生品、拓展線上交易渠道等方面持續發力。引導銀行最佳化外匯衍生品授信和保證金管理機制。（金融一線）
+
+---
+
+### 2026-07-17 10:31:13  #市場
+
+上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報152450元/噸，較上日16:30價格上漲1250元/噸。
+
+---
+
+### 2026-07-17 10:30:55  #公司 #觀點
+
+【上汽集團等在蘇州成立新興產業基金】企查查APP顯示，近日，蘇州中金上汽貳期新興產業基金合夥企業（有限合夥）成立，出資額約47億元，經營範圍包含：私募股權投資基金管理、創業投資基金管理服務；自有資金投資的資產管理服務等。企查查股權穿透顯示，該合夥企業由上汽集團旗下青島上汽創新升級產業股權投資基金合夥企業（有限合夥）等共同持股。
+
+---
+
+### 2026-07-17 10:30:40  #經濟數據 #中國
+
+【工信部副部長柯吉欣：人形機器人產量今年或超10萬臺】在7月16日浙江紹興上虞舉行的工業和資訊化部人形機器人與具身智慧標準化技術委員會2026年度全體會議暨“標準周”活動上，工業和資訊化部黨組成員、副部長柯吉欣透露，去年我國人形機器人產量約為2萬臺，今年上半年已超過4萬臺，預計全年將超過10萬臺。柯吉欣判斷，未來兩三年可能是人形機器人產業發展的關鍵點，甚至是新的起點。
+
+---
+
+### 2026-07-17 10:30:37  #公司
+
+【中國航油在海南成立新公司 含航空運營支援業務】企查查APP顯示，近日，中國航油集團海南有限公司成立，經營範圍包含：航空運營支援服務；保稅倉庫經營；民用航空油料儲運及加註（含抽取）服務；民用航空油料檢測服務等。企查查股權穿透顯示，該公司由中國航空油料集團有限公司全資持股。
+
+---
+
+### 2026-07-17 10:29:35  #公司
+
+【美團王莆中：持續提升騎手保障，讓騎手們的付出獲得尊重、生活有所依託】“職業化將是網約配送行業走向成熟的重要標誌，也是我們未來長期努力的方向”，7月16日，在全國總工會指導下，第九屆美團717騎士節年度榮譽盛典在北京舉行，美團核心本地商業CEO王莆中現場發言表示，美團將在有關部門指導下，從“效率優先”向“安全、收入、權益並重”轉變。王莆中認為，騎手正在成為專業化的新就業形態勞動者，“美團將繼續努力，提升騎手保障，讓騎手跑的每一單都值得，讓騎手成為更有尊嚴的職業力量”。活動現場，美團也透露了“等燈停表”的試點進展，目前已與蘇州交管部門完成資料對接。同時，美團也宣佈了騎手醫療保障的升級計劃，美團騎手在冬夏季跑單將額外獲得美團提供的專項保障。
+
+---
+
+### 2026-07-17 10:29:12  #Trading Economics #Markets #Indonesia #Stock Market #Importance 1
+
+Indonesia Stocks Retreat But Eye Solid Weekly Gain — Indonesia’s IDX Composite fell 26 points or 0.4% to 6,0982 in Friday morning trade, snapping a six-session gain. Sentiment turned cautious as U.S. futures tumbled after a weak Wall Street session overnight led by chip losses, while traders parsed earnings updates. Locally, concerns resurfaced over external debt, which hit USD 444 billion in May, though officials maintain it is manageable. Markets also braced for Bank Indonesia’s policy meeting next week, with focus on whether a tightening bias holds after 100bp hikes in May–June. Basic materials, healthcare, and industrials weighed, amid weakness from Hartadinata Abadi (-3.3%), Aneka Tambang (-2.3%), AKR Corp. (-1.5%), and Alamtri Minerals (-1.0%). Still, the index is tracking a second weekly gain, up about 3%, on strong Q2 FDI growth, which rose at the fastest rate since Q4 2024, driven by downstream mineral investment. Meantime, the government plans stronger steps to stabilise food prices and curb inflation amid El Niño supply risks.
+
+---
+
+### 2026-07-17 10:28:58  #其他
+
+訊息人士稱，道達爾能源因重整裝置維修削減得克薩斯煉油廠產量。
+
+---
+
+### 2026-07-17 10:28:22  #國際
+
+美國疾控中心：環孢子蟲與塔可鍾餐廳供應的生菜有關。塔可鍾正在努力停止使用這種生菜。
+
+---
+
+### 2026-07-17 10:27:46  #其他
+
+【外匯局：未來我國國際收支有望保持基本平衡】7月17日，國家外匯管理局副局長李斌在國新辦新聞釋出會上表示，未來我國國際收支有望保持基本平衡。我國將堅持擴大內需，大力提振消費，擴大有效投資，推動進出口平衡發展，將支援經常賬戶順差在中長期保持在合理均衡水平。同時，我國穩步擴大制度型開放，拓展投資合作空間，我國對外資產規模將穩步增加。
+
+---
+
+### 2026-07-17 10:27:33  #其他
+
+外匯局：繼續完善企業匯率避險政策供給和服務。一是會同相關部門及金融機構，持續加強匯率風險中性理念宣傳。二是搭建銀企服務橋樑。建立並不斷完善涉外企業資訊庫，已將29萬家外貿企業納入服務清單，幫助銀行依託企業清單提供精準高效服務。三是鼓勵銀行提升服務水平。簡化銀行為企業辦理外匯衍生品交易的單證稽核要求。推動銀行在創新外匯衍生品、拓展線上交易渠道等方面持續發力。引導銀行最佳化外匯衍生品授信和保證金管理機制。（金融一線）
+
+---
+
+### 2026-07-17 10:26:54  #公司
+
+【福建省委書記：晉江輝騰鞋業公司“7·9”重大火災事故，代價極為慘痛、影響極為惡劣、教訓極為深刻，要全面開展安全隱患大排查大整治行動】據《福建日報》訊息，7月16日，福建全省安全生產隱患大排查大整治工作部署推進會在福州召開。省委書記周祖翼出席並講話。周祖翼指出，晉江輝騰鞋業公司“7·9”重大火災事故，代價極為慘痛、影響極為惡劣、教訓極為深刻。周祖翼強調，要堅持問題導向，全面開展工貿及勞動密集型企業安全隱患大排查大整治行動，深查、細查、嚴查，補短板、堵漏洞、掃死角，最大限度降低事故發生機率。要深入細緻排查，全面摸清風險隱患底數。做好動員部署，緊抓排查重點，開展拉網式、地毯式全覆蓋排查，督促企業全面開展自查，實行“臺賬式管理、銷號式整改”。要堅決徹底整治，推動風險隱患動態清零。堅決抓好拆窗破網、全域“生命通道”暢通、消防設施維護提升、違章搭蓋拆除、生產作業規範等五個專項任務落實，做到問題不解決不放過，整改不徹底不放過。要嚴格監管執法，做到重拳鐵腕治違。注重改善監管執法方式，注重依法嚴肅查處，注重把握好加強安全領域監管執法與最佳化營商環境的關係，堅持“零容忍”，以“長牙齒”的監管硬措施守牢安全紅線。
+
+---
+
+### 2026-07-17 10:26:34  #市場 #焦點
+
+恒生科技指數跌超3%，現報4689.380點；恒生指數現跌1.327%。
+
+---
+
+### 2026-07-17 10:26:34  #其他
+
+MINIMAX-W(00100.HK)跌幅擴大至10%，智譜(02513.HK)現跌15.96%。
+
+---
+
+### 2026-07-17 10:26:26  #其他
+
+【工信部副部長柯吉欣：人形機器人產量今年或超10萬臺】7月16日，在浙江紹興上虞舉行的工業和資訊化部人形機器人與具身智慧標準化技術委員會2026年度全體會議暨“標準周”活動上，工業和資訊化部黨組成員、副部長柯吉欣透露，去年我國人形機器人產量約為2萬臺，今年上半年已超過4萬臺，預計全年將超過10萬臺。（21世紀經濟報道）
+
+---
+
+### 2026-07-17 10:25:30  #Trading Economics #Markets #Commodity #Importance 1
+
+EU Gas Prices Climb as Supply Risks Intensify — European natural gas prices climbed to €55.7 per MWh on Friday, the highest in nearly four months, amid increasing threats to Persian Gulf supplies as US-Iran attacks intensified. The US carried out another round of strikes on Iran on Thursday, following previous attacks that struck an unladen oil tanker bound for Iranian ports after the reimposition of a blockade. Tehran has countered with attacks targeting US military bases in neighboring countries and has reportedly called Yemen’s Houthi rebel group to shut the Red Sea export route if Washington targets Iranian power infrastructure. EU gas prices have surged over 14% this week and more than 27% so far in July, erasing an over 14% decline in Q2, as supply disruptions and stronger power generation demand constrain Europe’s ability to rebuild inventories before winter. Supply concerns were exacerbated after Qatar, the Middle East's largest LNG exporter, halted plans to boost production after one of its tankers was attacked near Hormuz.
+
+---
+
+### 2026-07-17 10:24:29  #其他
+
+【外匯局：未來外商來華投資有望延續向好態勢】7月17日，國家外匯管理局國際收支司負責人趙玉超在國新辦新聞釋出會上表示，未來外商來華投資有望延續向好態勢。一是我國產業最佳化升級和科技創新將不斷帶來新的投資機會。二是我國穩步擴大制度型對外開放，健全外商投資服務保障體系，最佳化金融領域互聯互通機制，為外資來華投資營造更加便利政策環境。三是近年來國際形勢複雜多變，我國經濟韌性增強，人民幣幣值穩定，將為全球資本分散配置提供更多選擇。
+
+---
+
+### 2026-07-17 10:24:09  #公司 #市場
+
+【電力板塊持續走高 桂冠電力等多股漲停】電力板塊盤中持續走高，桂冠電力直線漲停，此前華銀電力、樂山電力、深南電A、杭州熱電等多股漲停，珈偉新能、九洲集團漲超10%。
+
+---
+
+### 2026-07-17 10:24:08  #Trading Economics #Markets #Commodity #Importance 1
+
+Platinum Stays Near Multi-Month Lows — Platinum futures traded below $1,620 an ounce, pressured near their lowest levels since late November, as escalating tensions in the Middle East kept inflation concerns in focus. The US launched multiple strikes against Iran this week and reinstated a blockade on the Strait of Hormuz, while Tehran retaliated with attacks on US bases in neighboring countries. The renewed conflict sent oil prices sharply higher, reinforcing expectations that persistent energy supply disruptions could stoke inflation. Meanwhile, softer-than-expected US consumer and producer inflation data prompted markets to scale back the likelihood of a near-term Federal Reserve rate hike, supporting demand for non-yielding assets. The platinum market also draws support from a tight supply outlook as the World Platinum Investment Council continues to forecast a fourth consecutive market deficit in 2026, with demand expected to outpace supply and above-ground inventories projected to remain near historically low levels.
+
+---
+
+### 2026-07-17 10:24:01  #宏觀
+
+外匯局：我國逐步形成經常賬戶順差、資本和金融賬戶逆差的國際收支自主平衡格局。由經常賬戶順差形成的資金流入，透過銀行、企業等對外投資，配置到全球不同區域、產業和金融市場。2026年以來，我國經常賬戶保持順差，前5個月境內主體新增對外投資3000多億美元。2026年3月末，我國對外資產約12萬億美元，創歷史新高；對外淨資產超過4萬億美元，在全球各經濟體中位居第二位。（金融一線）
+
+---
+
+### 2026-07-17 10:23:41  #焦點
+
+【外匯局：前5個月外資來華各類投資淨增加約1600億美元】7月17日，國家外匯管理局國際收支司負責人趙玉超在國新辦新聞釋出會上表示，前5個月外資來華各類投資淨增加約1600億美元，明顯好於去年同期，這既包括直接投資、證券投資，也包括我國吸收的境外存款和貸款。從直接投資看，前5個月外商來華股權投資淨增加500多億美元，其中新增資本金保持穩定。
+
+---
+
+### 2026-07-17 10:22:22  #宏觀
+
+【預告：國新辦將舉行新聞釋出會 介紹以海關工作現代化助力“十五五”高質量開局起步有關情況】國務院新聞辦公室將於2026年7月22日（星期三）上午10時舉行“開局起步‘十五五’”系列主題新聞釋出會，請海關總署署長孫梅君介紹以海關工作現代化助力“十五五”高質量開局起步有關情況，並答記者問。
+
+---
+
+### 2026-07-17 10:21:43  #市場
+
+日經225指數跌幅擴大，最新報63985.61點，下跌4.26%。
+
+---
+
+### 2026-07-17 10:21:19  #公司
+
+【香港公司註冊處：上半年香港新註冊本地公司和經遷冊公司約12.25萬間】香港公司註冊處今日發表的統計數字顯示，在2026年上半年新註冊的本地公司和經遷冊公司總數為122481間。截至今年6月底，根據《公司條例》註冊的本地公司和經遷冊公司總數達1609720間，數字創歷史新高。在2026年上半年，共有903間非香港公司在香港新設立營業地點並根據《公司條例》註冊。截至2026年6月底，註冊非香港公司的總數達16014間，同創歷史新高。
+
+---
+
+### 2026-07-17 10:21:12  #市場
+
+納斯達克100指數期貨跌超1%，標普500指數期貨跌0.59%，道瓊斯指數期貨跌0.54%。
+
+---
+
+### 2026-07-17 10:19:45  #公司
+
+【香港公司註冊處：上半年香港新註冊本地公司和經遷冊公司約12.25萬間】香港公司註冊處今日(7月17日)發表的統計數字顯示，在2026年上半年新註冊的本地公司和經遷冊公司總數為122,481間。截至今年6月底，根據《公司條例》註冊的本地公司和經遷冊公司總數達1,609,720間，數字創歷史新高。在2026年上半年，共有903間非香港公司在香港新設立營業地點並根據《公司條例》註冊。截至2026年6月底，註冊非香港公司的總數達16,014間，同創歷史新高。
 
 ---
 
@@ -23961,239 +24171,5 @@ Hang Seng Index futures night session closed 0.71% higher at 24,829, trading 148
 ### 2026-07-16 03:00:02  #市場
 
 恒指期貨夜盤收漲0.77%，報24843.19點，高水162.09點。
-
----
-
-### 2026-07-16 02:59:18  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-【Iran parliament speaker says must remain prepared to defend national interests】On the evening of the 15th, Iranian parliament speaker Ghalibaf said Iran does not welcome war but must remain ready to fight to protect national security and interests. He urged use of diplomacy and negotiations to secure and consolidate those interests. Ghalibaf said memoranda of understanding are meaningful only when all terms are effective and implemented; if Iran cannot benefit, it has no obligation to comply. He added that, under the Supreme Leader's instructions, everyone must prepare for war, diplomacy, or both.
-
----
-
-### 2026-07-16 02:59:12  #國際
-
-【伊朗議長稱為維護國家利益必須時刻做好準備】當地時間15日晚，伊朗議會議長卡利巴夫就戰事和國內最新情況釋出宣告。卡利巴夫稱，伊朗從未也不會歡迎戰爭，但為了維護國家安全和利益，必須時刻做好戰鬥準備，必須竭盡全力。卡利巴夫指出，伊朗也應該利用外交和談判的手段，以實現和鞏固國家利益。卡利巴夫表示，諒解備忘錄只有在所有條款都有效且正在執行時才具有意義。如果伊朗無法從諒解備忘錄中獲益，沒有理由遵守諒解備忘錄。卡利巴夫稱，伊朗每個人都有責任，根據最高領袖的指示，為戰爭、外交或為二者均做出努力。（央視）
-
----
-
-### 2026-07-16 02:58:47  #國際
-
-知情人士透露，空中客車為應對交付延誤，將部分美國產 A350 機身零部件的運輸方式由海運改為空運。
-
----
-
-### 2026-07-16 02:58:30  #其他
-
-檔案顯示，波音為避免 767 貨機 / 加油機生產線延期，已從佛羅里達州達赫航空透過空運運送零部件。
-
----
-
-### 2026-07-16 02:57:17  #國際
-
-【報道：美國曾探討對古巴發動空中突擊的可能性】據多名瞭解相關討論的美國官員透露，美國曾探討可能對古巴採取何種軍事行動，其中包括由數千名陸軍士兵實施空中突擊的可能性。如果實施空中突擊，將由美國陸軍第101空降師執行。這些討論並不表明特朗普總統或五角大樓已經決定實施此類行動。
-
----
-
-### 2026-07-16 02:54:57  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $84.95/bbl, up $0.22 or 0.26%.
-
----
-
-### 2026-07-16 02:54:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Recent U.S. strikes on Iran lay groundwork for more intensive operations, officials say】Three U.S. officials said recent strikes were intended to force Iran to reopen the Strait of Hormuz and to degrade Iranian military capabilities the U.S. seeks to neutralize before mounting more complex operations. Officials added the strikes have widened Trump’s military options. The U.S. military said its latest airstrike targeted Iranian air-defense systems, coastal radar sites, missile and drone bases, small boats and other maritime assets. One U.S. official described the strikes as “shaping operations” to weaken Iran’s defenses and lay the groundwork for more intensive follow-on action.
-
----
-
-### 2026-07-16 02:51:51  #MKT News
-
-TASNIM NEWS reported Iran's foreign ministry summoned the UK ambassador to Tehran to protest the UK's inclusion of the Islamic Revolutionary Guard Corps (IRGC) on a list under the Countering State Threats Act.
-
----
-
-### 2026-07-16 02:50:05  #國際
-
-伊朗伊斯蘭共和國通訊社訊息：伊朗因英國將革命衛佇列為制裁物件召見英國駐伊大使。
-
----
-
-### 2026-07-16 02:47:54  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
-
-Three U.S. officials said recent U.S. strikes on Iran are expanding Washington's options to further escalate operations.
-
----
-
-### 2026-07-16 02:47:34  #焦點 #國際
-
-三名美國官員：美國近期針對伊朗實施的打擊行動，擴充了美方後續可能升級衝突的應對手段。
-
----
-
-### 2026-07-16 02:41:35  #國際
-
-【美國駐伊拉克埃爾比勒領館附近傳出爆炸聲】據伊拉克媒體15日報道，美國駐伊拉克埃爾比勒領館附近傳出爆炸聲，3架無人機被擊落，目前尚無人員傷亡或財產損失報告。（新華社）
-
----
-
-### 2026-07-16 02:41:16  #MKT News
-
-【Explosion Heard Near U.S. Consulate in Erbil; Three Drones Shot Down, No Casualties Reported】Iraqi media reported on the 15th that an explosion was heard near the U.S. consulate in Erbil and three drones were shot down; there were no reports of casualties or property damage.
-
----
-
-### 2026-07-16 02:40:28  #MKT News #Commodities #Precious Metals
-
-Spot platinum rose 3%.
-
----
-
-### 2026-07-16 02:40:27  #MKT News
-
-【US media: Pentagon evaluated airstrike option against Cuba】CBS reported the Pentagon recently reviewed military plans targeting Cuba, including a large-scale air assault option involving the 101st Airborne Division. Insiders said review does not mean the Trump administration has decided to act. Heavy US deployments in the Middle East make action against Cuba less feasible. The US says it still prefers diplomatic and economic pressure to press for reforms in Cuba. The Pentagon declined to comment on hypothetical military operations.
-
----
-
-### 2026-07-16 02:38:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【Guterres deeply concerned by Middle East military escalation, urges immediate de‑escalation】At a July 15 noon briefing at UN headquarters in New York, UN spokesman Stéphane Dujarric said Secretary‑General António Guterres is deeply concerned about ongoing military escalation in the Middle East and urged all parties to take immediate steps to de‑escalate and return to dialogue and diplomacy. Guterres warned that a resumption of full hostilities would inflict unbearable civilian casualties and have catastrophic consequences for international peace, security and the global economy. He also called for full restoration of international navigation rights and freedoms in the Strait of Hormuz and adjacent waters and urged parties to respect navigation rights under international law.
-
----
-
-### 2026-07-16 02:38:09  #國際
-
-美國國務卿魯比奧會見哥倫比亞當選副總統。
-
----
-
-### 2026-07-16 02:37:38  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O
-
-The Information reports Microsoft (MSFT.O)'s new security chief Haiyet Garrot has replaced at least eight executives who previously reported to former security head Charlie Bell, part of a push to overhaul the company's security structure and support its AI transition.
-
----
-
-### 2026-07-16 02:37:25  #國際
-
-美國官員：古巴相關規劃並不意味著已經作出決定。
-
----
-
-### 2026-07-16 02:37:15  #國際
-
-【古特雷斯對中東軍事升級深表關切 呼籲各方立即降級局勢】當地時間7月15日，聯合國秘書長發言人迪雅裡克在紐約聯合國總部舉行的午間例行記者會上表示，聯合國秘書長古特雷斯對中東地區持續升級的軍事局勢深感關切，呼籲所有各方立即採取措施推動局勢降級，重返對話和外交解決的軌道。古特雷斯重申，全面敵對行動一旦恢復，將給平民造成難以承受的傷亡，並對國際和平與安全以及全球經濟帶來災難性後果。古特雷斯再次呼籲，全面恢復霍爾木茲海峽及其周邊海域的國際航行權利和自由。各方必須依照國際法，尊重有關航行權利和自由。（央視新聞）
-
----
-
-### 2026-07-16 02:36:36  #其他
-
-市場訊息：微軟新任安全負責人更換多名高管，推動 AI 安全全面改革。
-
----
-
-### 2026-07-16 02:36:07  #MKT News
-
-【Trump says he won't set a deadline for strikes on Iran】Asked whether he would set a deadline for strikes on Iran, U.S. President Trump said he does not like setting deadlines, adding, "They basically know how this will play out. They'd better be honest."
-
----
-
-### 2026-07-16 02:34:52  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
-
-CBS reports the US explored the possibility of air strikes on Cuba.
-
----
-
-### 2026-07-16 02:33:55  #國際
-
-【科威特一處美國軍事基地附近傳出爆炸聲】當地時間15日晚，總檯記者獲悉，科威特境內一處美國軍事基地附近傳出爆炸聲。初步評估顯示，美軍裝備和人員遭受嚴重損失。伊朗方面有訊息稱，伊朗針對相關目標的軍事行動仍在繼續。截至目前，上述內容尚未得到美國和科威特官方證實。（央視新聞）
-
----
-
-### 2026-07-16 02:33:40  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
-
-Apple (AAPL.O) raised AppleCare+ prices: Mac and iPad monthly plans increased by $0.50 and annual plans by $5; change applies to new subscribers only.
-
----
-
-### 2026-07-16 02:33:19  #國際
-
-烏克蘭國防部長宣佈辭職。
-
----
-
-### 2026-07-16 02:32:57  #國際
-
-市場訊息： 美國曾研究過對古巴發動空中打擊的可能性。
-
----
-
-### 2026-07-16 02:31:15  #MKT News #Commodities #Precious Metals #Energy
-
-【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract was up 0.03% at 887 yuan/gram; Shanghai silver front-month contract was down 1.43% at 14,184 yuan/kg; SC crude front-month contract was down 0.02% at 518 yuan/barrel.
-
----
-
-### 2026-07-16 02:31:08  #市場
-
-WTI 8月原油期貨收報79.60美元/桶。NYMEX 8月天然氣期貨收報2.9240美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3009美元/加侖，NYMEX 8月取暖油期貨收報3.9483美元/加侖。
-
----
-
-### 2026-07-16 02:31:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
-
-Shanghai Gold Exchange gold T+D closed up 0.28% at 886.0 yuan/gram in the evening session on July 15 (Wednesday). Shanghai Gold Exchange silver T+D closed down 0.99% at 14,138.0 yuan/kg in the evening session on July 15 (Wednesday).
-
----
-
-### 2026-07-16 02:31:02  #MKT News #Commodities #Energy #WTI #Impact bullish
-
-U.S. crude futures settled at $79.60/bbl, up $0.26, or 0.33%.
-
----
-
-### 2026-07-16 02:30:03  #市場
-
-上期所原油期貨夜盤收跌0.02%，報517.70元人民幣/桶。滬金夜盤收漲0.03%，滬銀收跌1.42%。
-
----
-
-### 2026-07-16 02:29:59  #Trading Economics #Markets #Crypto #Importance 1
-
-Crypto Updates: Ether Appreciates by 2.12% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 2.12% increase.
-
----
-
-### 2026-07-16 02:29:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-US President Trump on Iran said: 'They had better behave.'
-
----
-
-### 2026-07-16 02:29:51  #國際
-
-特朗普談及伊朗：他們最好安分點。
-
----
-
-### 2026-07-16 02:29:40  #焦點 #國際
-
-特朗普談伊朗：我不喜歡設定最後期限。
-
----
-
-### 2026-07-16 02:29:39  #MKT News #Important
-
-Trump said he does not like setting deadlines on Iran.
-
----
-
-### 2026-07-16 02:28:09  #MKT News
-
-【UK Labour leadership candidate Burnham says he would deal with Trump 'straightforwardly'】Andy Burnham, a candidate to lead the UK Labour Party, said if he becomes prime minister he would deal with US President Trump 'straightforwardly' and use his personal style to keep UK-US ties stable. He said Britain should respect the US presidency and the bilateral relationship but would make disagreements clear and 'communicate with him in Trump's way'. Trump previously called Burnham 'extremely liberal' and downplayed his political influence. Burnham is expected to be elected Labour leader unopposed on Thursday and to replace Starmer as prime minister next Monday. UK-US relations, strained by Iran-related tensions and stalled trade talks, will be a near-term challenge for him to repair.
-
----
-
-### 2026-07-16 02:25:19  #Trading Economics #Markets #Commodity #Importance 1
-
-Agricultural Commodities Updates: Wheat Spikes by 5.21% — Top commodity gainers are Wheat (5.21%), Canola (2.43%) and Corn (2.10%). Biggest loser is Lumber (-1.03%).
 
 ---

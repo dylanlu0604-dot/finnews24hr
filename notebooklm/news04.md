@@ -1,7 +1,241 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-21 04:36:59_
-_本檔包含 3848 則快訊，約 721445 字_
+_更新時間：2026-07-21 05:43:23_
+_本檔包含 3829 則快訊，約 721870 字_
+
+---
+
+### 2026-07-16 02:59:18  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran parliament speaker says must remain prepared to defend national interests】On the evening of the 15th, Iranian parliament speaker Ghalibaf said Iran does not welcome war but must remain ready to fight to protect national security and interests. He urged use of diplomacy and negotiations to secure and consolidate those interests. Ghalibaf said memoranda of understanding are meaningful only when all terms are effective and implemented; if Iran cannot benefit, it has no obligation to comply. He added that, under the Supreme Leader's instructions, everyone must prepare for war, diplomacy, or both.
+
+---
+
+### 2026-07-16 02:59:12  #國際
+
+【伊朗議長稱為維護國家利益必須時刻做好準備】當地時間15日晚，伊朗議會議長卡利巴夫就戰事和國內最新情況釋出宣告。卡利巴夫稱，伊朗從未也不會歡迎戰爭，但為了維護國家安全和利益，必須時刻做好戰鬥準備，必須竭盡全力。卡利巴夫指出，伊朗也應該利用外交和談判的手段，以實現和鞏固國家利益。卡利巴夫表示，諒解備忘錄只有在所有條款都有效且正在執行時才具有意義。如果伊朗無法從諒解備忘錄中獲益，沒有理由遵守諒解備忘錄。卡利巴夫稱，伊朗每個人都有責任，根據最高領袖的指示，為戰爭、外交或為二者均做出努力。（央視）
+
+---
+
+### 2026-07-16 02:58:47  #國際
+
+知情人士透露，空中客車為應對交付延誤，將部分美國產 A350 機身零部件的運輸方式由海運改為空運。
+
+---
+
+### 2026-07-16 02:58:30  #其他
+
+檔案顯示，波音為避免 767 貨機 / 加油機生產線延期，已從佛羅里達州達赫航空透過空運運送零部件。
+
+---
+
+### 2026-07-16 02:57:17  #國際
+
+【報道：美國曾探討對古巴發動空中突擊的可能性】據多名瞭解相關討論的美國官員透露，美國曾探討可能對古巴採取何種軍事行動，其中包括由數千名陸軍士兵實施空中突擊的可能性。如果實施空中突擊，將由美國陸軍第101空降師執行。這些討論並不表明特朗普總統或五角大樓已經決定實施此類行動。
+
+---
+
+### 2026-07-16 02:54:57  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $84.95/bbl, up $0.22 or 0.26%.
+
+---
+
+### 2026-07-16 02:54:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Recent U.S. strikes on Iran lay groundwork for more intensive operations, officials say】Three U.S. officials said recent strikes were intended to force Iran to reopen the Strait of Hormuz and to degrade Iranian military capabilities the U.S. seeks to neutralize before mounting more complex operations. Officials added the strikes have widened Trump’s military options. The U.S. military said its latest airstrike targeted Iranian air-defense systems, coastal radar sites, missile and drone bases, small boats and other maritime assets. One U.S. official described the strikes as “shaping operations” to weaken Iran’s defenses and lay the groundwork for more intensive follow-on action.
+
+---
+
+### 2026-07-16 02:51:51  #MKT News
+
+TASNIM NEWS reported Iran's foreign ministry summoned the UK ambassador to Tehran to protest the UK's inclusion of the Islamic Revolutionary Guard Corps (IRGC) on a list under the Countering State Threats Act.
+
+---
+
+### 2026-07-16 02:50:05  #國際
+
+伊朗伊斯蘭共和國通訊社訊息：伊朗因英國將革命衛佇列為制裁物件召見英國駐伊大使。
+
+---
+
+### 2026-07-16 02:47:54  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+Three U.S. officials said recent U.S. strikes on Iran are expanding Washington's options to further escalate operations.
+
+---
+
+### 2026-07-16 02:47:34  #焦點 #國際
+
+三名美國官員：美國近期針對伊朗實施的打擊行動，擴充了美方後續可能升級衝突的應對手段。
+
+---
+
+### 2026-07-16 02:41:35  #國際
+
+【美國駐伊拉克埃爾比勒領館附近傳出爆炸聲】據伊拉克媒體15日報道，美國駐伊拉克埃爾比勒領館附近傳出爆炸聲，3架無人機被擊落，目前尚無人員傷亡或財產損失報告。（新華社）
+
+---
+
+### 2026-07-16 02:41:16  #MKT News
+
+【Explosion Heard Near U.S. Consulate in Erbil; Three Drones Shot Down, No Casualties Reported】Iraqi media reported on the 15th that an explosion was heard near the U.S. consulate in Erbil and three drones were shot down; there were no reports of casualties or property damage.
+
+---
+
+### 2026-07-16 02:40:28  #MKT News #Commodities #Precious Metals
+
+Spot platinum rose 3%.
+
+---
+
+### 2026-07-16 02:40:27  #MKT News
+
+【US media: Pentagon evaluated airstrike option against Cuba】CBS reported the Pentagon recently reviewed military plans targeting Cuba, including a large-scale air assault option involving the 101st Airborne Division. Insiders said review does not mean the Trump administration has decided to act. Heavy US deployments in the Middle East make action against Cuba less feasible. The US says it still prefers diplomatic and economic pressure to press for reforms in Cuba. The Pentagon declined to comment on hypothetical military operations.
+
+---
+
+### 2026-07-16 02:38:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Guterres deeply concerned by Middle East military escalation, urges immediate de‑escalation】At a July 15 noon briefing at UN headquarters in New York, UN spokesman Stéphane Dujarric said Secretary‑General António Guterres is deeply concerned about ongoing military escalation in the Middle East and urged all parties to take immediate steps to de‑escalate and return to dialogue and diplomacy. Guterres warned that a resumption of full hostilities would inflict unbearable civilian casualties and have catastrophic consequences for international peace, security and the global economy. He also called for full restoration of international navigation rights and freedoms in the Strait of Hormuz and adjacent waters and urged parties to respect navigation rights under international law.
+
+---
+
+### 2026-07-16 02:38:09  #國際
+
+美國國務卿魯比奧會見哥倫比亞當選副總統。
+
+---
+
+### 2026-07-16 02:37:38  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O
+
+The Information reports Microsoft (MSFT.O)'s new security chief Haiyet Garrot has replaced at least eight executives who previously reported to former security head Charlie Bell, part of a push to overhaul the company's security structure and support its AI transition.
+
+---
+
+### 2026-07-16 02:37:25  #國際
+
+美國官員：古巴相關規劃並不意味著已經作出決定。
+
+---
+
+### 2026-07-16 02:37:15  #國際
+
+【古特雷斯對中東軍事升級深表關切 呼籲各方立即降級局勢】當地時間7月15日，聯合國秘書長發言人迪雅裡克在紐約聯合國總部舉行的午間例行記者會上表示，聯合國秘書長古特雷斯對中東地區持續升級的軍事局勢深感關切，呼籲所有各方立即採取措施推動局勢降級，重返對話和外交解決的軌道。古特雷斯重申，全面敵對行動一旦恢復，將給平民造成難以承受的傷亡，並對國際和平與安全以及全球經濟帶來災難性後果。古特雷斯再次呼籲，全面恢復霍爾木茲海峽及其周邊海域的國際航行權利和自由。各方必須依照國際法，尊重有關航行權利和自由。（央視新聞）
+
+---
+
+### 2026-07-16 02:36:36  #其他
+
+市場訊息：微軟新任安全負責人更換多名高管，推動 AI 安全全面改革。
+
+---
+
+### 2026-07-16 02:36:07  #MKT News
+
+【Trump says he won't set a deadline for strikes on Iran】Asked whether he would set a deadline for strikes on Iran, U.S. President Trump said he does not like setting deadlines, adding, "They basically know how this will play out. They'd better be honest."
+
+---
+
+### 2026-07-16 02:34:52  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+CBS reports the US explored the possibility of air strikes on Cuba.
+
+---
+
+### 2026-07-16 02:33:55  #國際
+
+【科威特一處美國軍事基地附近傳出爆炸聲】當地時間15日晚，總檯記者獲悉，科威特境內一處美國軍事基地附近傳出爆炸聲。初步評估顯示，美軍裝備和人員遭受嚴重損失。伊朗方面有訊息稱，伊朗針對相關目標的軍事行動仍在繼續。截至目前，上述內容尚未得到美國和科威特官方證實。（央視新聞）
+
+---
+
+### 2026-07-16 02:33:40  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) raised AppleCare+ prices: Mac and iPad monthly plans increased by $0.50 and annual plans by $5; change applies to new subscribers only.
+
+---
+
+### 2026-07-16 02:33:19  #國際
+
+烏克蘭國防部長宣佈辭職。
+
+---
+
+### 2026-07-16 02:32:57  #國際
+
+市場訊息： 美國曾研究過對古巴發動空中打擊的可能性。
+
+---
+
+### 2026-07-16 02:31:15  #MKT News #Commodities #Precious Metals #Energy
+
+【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract was up 0.03% at 887 yuan/gram; Shanghai silver front-month contract was down 1.43% at 14,184 yuan/kg; SC crude front-month contract was down 0.02% at 518 yuan/barrel.
+
+---
+
+### 2026-07-16 02:31:08  #市場
+
+WTI 8月原油期貨收報79.60美元/桶。NYMEX 8月天然氣期貨收報2.9240美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3009美元/加侖，NYMEX 8月取暖油期貨收報3.9483美元/加侖。
+
+---
+
+### 2026-07-16 02:31:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 0.28% at 886.0 yuan/gram in the evening session on July 15 (Wednesday). Shanghai Gold Exchange silver T+D closed down 0.99% at 14,138.0 yuan/kg in the evening session on July 15 (Wednesday).
+
+---
+
+### 2026-07-16 02:31:02  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. crude futures settled at $79.60/bbl, up $0.26, or 0.33%.
+
+---
+
+### 2026-07-16 02:30:03  #市場
+
+上期所原油期貨夜盤收跌0.02%，報517.70元人民幣/桶。滬金夜盤收漲0.03%，滬銀收跌1.42%。
+
+---
+
+### 2026-07-16 02:29:59  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Appreciates by 2.12% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 2.12% increase.
+
+---
+
+### 2026-07-16 02:29:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+US President Trump on Iran said: 'They had better behave.'
+
+---
+
+### 2026-07-16 02:29:51  #國際
+
+特朗普談及伊朗：他們最好安分點。
+
+---
+
+### 2026-07-16 02:29:40  #焦點 #國際
+
+特朗普談伊朗：我不喜歡設定最後期限。
+
+---
+
+### 2026-07-16 02:29:39  #MKT News #Important
+
+Trump said he does not like setting deadlines on Iran.
+
+---
+
+### 2026-07-16 02:28:09  #MKT News
+
+【UK Labour leadership candidate Burnham says he would deal with Trump 'straightforwardly'】Andy Burnham, a candidate to lead the UK Labour Party, said if he becomes prime minister he would deal with US President Trump 'straightforwardly' and use his personal style to keep UK-US ties stable. He said Britain should respect the US presidency and the bilateral relationship but would make disagreements clear and 'communicate with him in Trump's way'. Trump previously called Burnham 'extremely liberal' and downplayed his political influence. Burnham is expected to be elected Labour leader unopposed on Thursday and to replace Starmer as prime minister next Monday. UK-US relations, strained by Iran-related tensions and stalled trade talks, will be a near-term challenge for him to repair.
+
+---
+
+### 2026-07-16 02:25:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Wheat Spikes by 5.21% — Top commodity gainers are Wheat (5.21%), Canola (2.43%) and Corn (2.10%). Biggest loser is Lumber (-1.03%).
 
 ---
 
@@ -22850,354 +23084,5 @@ Federal Reserve Chair Kevin Warsh said the Fed should maintain transparency on t
 ### 2026-07-15 00:48:22  #公司 #觀點
 
 【摩根大通敦促員工慎用高價AI處理簡單任務，企業高管開始憂心成本】隨著可供金融業使用的人工智慧（AI）工具不斷增多，摩根大通正在嘗試更有策略地決定何時使用更為成熟、也更為昂貴的模型。“總結一份分析師報告，真的不需要最新、最前沿且極其昂貴的模型，”摩根大通首席財務官Jeremy Barnum週二在該公司釋出第二季度業績後舉行的分析師電話會上表示。“因此，思路就是為合適的用途使用合適的模型。”
-
----
-
-### 2026-07-15 00:47:42  #央行 #國際
-
-美聯儲巴爾：絕大多數企業及其員工若難以獲取持續迭代升級的人工智慧資源，其生產率增長速度將會放緩。
-
----
-
-### 2026-07-15 00:47:37  #央行 #國際
-
-美聯儲主席沃什：美聯儲發言理應具備分量。
-
----
-
-### 2026-07-15 00:47:27  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said the Fed's communications should carry influence.
-
----
-
-### 2026-07-15 00:47:08  #央行 #國際
-
-美聯儲巴爾：人工智慧有望大幅提振生產效率，對低技能、從業經驗不足的勞動者尤為明顯。
-
----
-
-### 2026-07-15 00:46:56  #央行 #國際
-
-美聯儲巴爾：人工智慧未來帶來的影響仍存在不確定性，它既可能縮小、也可能擴大收入與財富差距。
-
----
-
-### 2026-07-15 00:46:54  #MKT News #Macro & Rates #The Fed (FOMC)
-
-【Fed Chair Kevin Warsh: Committed to fulfilling both inf and employment mandates】Fed Chair Kevin Warsh told the House Financial Services Committee he places equal weight on the Fed’s employment and inf goals, reiterating he has emphasized the latter since taking office. He said the Fed does not favor one part of its mandate over the other and that price stability and full employment are not mutually exclusive; he is committed to achieving both. When asked about targeted measures to narrow Black-white unemployment and opportunity gaps, Warsh said the U.S. must not leave anyone behind and that broad economic opportunity is critical to growth over the next five to 10 years, meaning every American needs the chance to be productive.
-
----
-
-### 2026-07-15 00:46:52  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said payment systems must be sufficiently resilient.
-
----
-
-### 2026-07-15 00:46:47  #央行 #國際
-
-美聯儲巴爾：目前幾乎沒有證據表明人工智慧已大規模造成崗位流失。
-
----
-
-### 2026-07-15 00:46:34  #MKT News #Market Themes #AI Revolution
-
-Fed Governor Barr said AI has the potential to significantly boost productivity, particularly benefiting low-skilled and inexperienced workers.
-
----
-
-### 2026-07-15 00:46:15  #央行 #國際
-
-美聯儲主席沃什：我們所支援的支付體系必須不偏不倚，且具備抵禦衝擊的能力。
-
----
-
-### 2026-07-15 00:46:07  #央行 #國際
-
-美聯儲主席沃什：我們所支援的支付系統必須具備韌性。
-
----
-
-### 2026-07-15 00:45:05  #央行 #國際
-
-美聯儲巴爾：人工智慧將從諸多方面重塑勞動力市場與整體經濟，目前尚無法確定人工智慧會縮小還是加劇收入及財富不平等問題。
-
----
-
-### 2026-07-15 00:45:03  #MKT News #Market Themes #AI Revolution
-
-Fed Governor Barr said AI will affect the labor market and the broader economy in multiple ways; it is not yet possible to determine whether it will narrow or widen income and wealth inequality.
-
----
-
-### 2026-07-15 00:44:46  #央行 #國際
-
-美聯儲巴爾：人工智慧究竟會全面提升民眾生活水平，還是加劇收入與財富分配不均？
-
----
-
-### 2026-07-15 00:43:40  #國際
-
-【以黎在羅馬舉行談判 聚焦落實試點區撤軍計劃】當地時間14日，以色列與黎巴嫩在義大利羅馬開始舉行第六輪談判。本輪談判為期兩天，首日會談已於以色列時間當天晚間結束。這是兩國上個月在美國首都華盛頓簽署框架協議以來的首次會晤。據悉，本次談判重點聚焦一項試點計劃，即討論以軍從黎巴嫩南部兩個試點區域實施首批撤軍的具體落實方案。根據該計劃，黎巴嫩政府軍將進入以軍撤出的區域，以確保該地區沒有黎巴嫩真主黨的武器。本週早些時候，美國軍事代表團已在貝魯特與黎巴嫩軍方高層會面，就落實撤軍方案進行了前期討論。
-
----
-
-### 2026-07-15 00:43:34  #MKT News #005930.KS
-
-Samsung plans to launch a new Galaxy Watch on July 22.
-
----
-
-### 2026-07-15 00:41:41  #MKT News #XAUUSD #Impact bullish #DXY
-
-Israeli Defense Forces says it killed four senior Hamas members from the Jabalia battalion in Gaza, including the battalion's military security chief.
-
----
-
-### 2026-07-15 00:41:33  #焦點 #國際
-
-【E·吉恩·卡羅爾收到特朗普支付的560萬美元民事案件賠償金】美國聯邦法院卷宗記錄顯示，特朗普已向作家E·吉恩·卡羅爾付清560萬美元賠償金。陪審團認定，20世紀90年代特朗普在曼哈頓一家百貨商店內對卡羅爾實施性侵，後續又公開誹謗她，據此裁定特朗普承擔賠償責任。2023年陪審團作出賠付裁決後，特朗普提起上訴，這筆賠償金此前一直交由第三方託管。案件線上庭審記錄於本週二新增備註顯示，託管款項已於上週撥付至卡羅爾賬戶。此次付款的前提是美國最高法院駁回了特朗普針對該判決的最後一次上訴申請，審理該案的法官隨即下令將託管賠償金髮放給卡羅爾。卡羅爾的代理律師羅伯塔·卡普蘭發表宣告表示，她與當事人“十分欣慰地告知公眾，當事人已收到陪審團依據判決裁定的損害賠償金”。
-
----
-
-### 2026-07-15 00:40:18  #國際
-
-以色列總理內塔尼亞胡警告伊朗革命衛隊不得襲擊以色列：別以為可以襲擊我們，事後還指望相安無事。
-
----
-
-### 2026-07-15 00:39:27  #MKT News #Commodities #Energy #XAUUSD #Impact bullish #Brent #DXY
-
-Kish Island Water and Power Engineering Company said a projectile exploded near water and power supply facilities on Iran's Kish Island during a US-launched strike in the early hours of Tuesday. The blast, which occurred close to generator sets, altered the technical parameters of some generators.
-
----
-
-### 2026-07-15 00:39:10  #公司
-
-三星將於7月22日釋出全新Galaxy Watch智慧手錶。
-
----
-
-### 2026-07-15 00:39:10  #央行 #美聯儲
-
-美聯儲主席沃什表示，儘管今天的CPI資料好於市場預期，但不贊成只挑有利的資料來看。若能獲得更完善的資料支援決策，將更有信心。
-
----
-
-### 2026-07-15 00:38:21  #國際
-
-伊朗方面：今早美軍發動襲擊期間，基什水電生產設施附近發生爆炸。由於爆炸點距離發電機組很近，機組多項技術引數出現異常。必要時，部分發電機組或將停機檢修。
-
----
-
-### 2026-07-15 00:37:42  #焦點 #國際
-
-特朗普在一起民事訴訟中被判性侵及誹謗罪名成立，現已向E·吉恩·卡羅爾支付560萬美元賠償金。
-
----
-
-### 2026-07-15 00:37:19  #MKT News #Commodities #Precious Metals #Macro & Rates #The Fed (FOMC) #DXY #Impact bearish #S&P500 #Impact bullish
-
-Citigroup expects platinum to rebound as cooling inflation eases Federal Reserve rate-hike pressure.
-
----
-
-### 2026-07-15 00:37:13  #MKT News
-
-Fed Chairman Kevin Warsh said he would be more confident in decisions if he had more complete data to support them.
-
----
-
-### 2026-07-15 00:36:49  #國際
-
-俄羅斯外交部：應俄方提議，外長拉夫羅夫與塔吉克外長西羅季金·穆赫裡丁於7月14日通電話。兩國外長就雙邊合作當下相關議題交換意見，並重申雙方將堅持開展互信對話，在聯合國、上海合作組織及其他多邊平臺就重大國際和地區問題協調立場。
-
----
-
-### 2026-07-15 00:35:37  #MKT News
-
-Federal Reserve Chair Kevin Warsh said that despite today's CPI beating market expectations, he does not support cherry-picking favorable data.
-
----
-
-### 2026-07-15 00:35:16  #央行 #國際
-
-美聯儲主席沃什：如果能有更優質的資料為決策提供依據，我會更有信心。
-
----
-
-### 2026-07-15 00:35:09  #央行 #國際
-
-美聯儲主席沃什：並不是說美聯儲在危機時期不會擴大資產負債表。
-
----
-
-### 2026-07-15 00:34:36  #觀點 #央行 #國際
-
-花旗預計，隨著通脹緩解，美聯儲加息壓力減輕，鉑族金屬價格將會回升。
-
----
-
-### 2026-07-15 00:34:30  #觀點
-
-花旗維持0-3個月鈀金價格目標不變，仍為每盎司1500美元。
-
----
-
-### 2026-07-15 00:34:24  #MKT News #Commodities #Precious Metals
-
-Citigroup maintains 3-month PT for platinum at $1,950/oz.
-
----
-
-### 2026-07-15 00:34:01  #資料 #央行 #國際
-
-美聯儲主席沃什：儘管今日CPI資料好於預期，但我不贊成挑著資料解讀。
-
----
-
-### 2026-07-15 00:33:53  #央行 #國際
-
-美聯儲主席沃什：我承諾將確保美國所有勞動者，無論其背景如何，都享有平等機會。
-
----
-
-### 2026-07-15 00:33:34  #國際
-
-【伊拉克總理：美軍今年9月30日前須撤出伊拉克】當地時間14日，伊拉克總理扎伊迪在與美國總統特朗普會晤時表示，美軍今年9月30日前須撤出伊拉克。當天，扎伊迪抵達美國白宮，與特朗普舉行會晤。（央視新聞）
-
----
-
-### 2026-07-15 00:31:09  #MKT News #Market Themes #The Trump Trade
-
-U.S. President Trump has concluded his remarks.
-
----
-
-### 2026-07-15 00:30:59  #國際
-
-特朗普評價伊拉克總理：此人必將成為一位出色的領導人。我當初的決策沒有錯。記住我今天說的話。
-
----
-
-### 2026-07-15 00:30:27  #國際
-
-記者：您會簽署這份對俄製裁法案嗎？
-特朗普：林賽（剛去世的參議員格雷厄姆）十分推動這項法案。他們還可能在法案中新增針對伊朗與真主黨的制裁條款。這份法案大機率能順利透過落地。
-
----
-
-### 2026-07-15 00:30:08  #MKT News #Important #Market Themes #AI Revolution
-
-Federal Reserve Governor Barr is scheduled to speak on artificial intelligence in 10 minutes at the Fed’s annual financial inclusion conference.
-
----
-
-### 2026-07-15 00:29:39  #央行 #美聯儲
-
-美聯儲主席沃什表示，美聯儲絕對致力於實現充分就業的目標。
-
----
-
-### 2026-07-15 00:29:25  #國際
-
-特朗普談及伊朗： 信不信由你，我認為中東各方正在走向團結。 我們正在剷除中東地區的霸權勢力。 伊朗曾是中東的強權，欺壓伊拉克，脅迫區域內所有國家，整個中東都籠罩在恐懼之中。 如今這份恐懼已然不復存在。
-
----
-
-### 2026-07-15 00:29:17  #國際
-
-特朗普談及北約安卡拉峰會： 峰會盛況空前，說實話，現場氛圍十分融洽。 各國都十分親近美國。他們甚至對我抱有好感，但更熱愛美國。 整場峰會令人印象深刻。
-
----
-
-### 2026-07-15 00:28:49  #Trading Economics #Markets #Italy #Stock Market #Importance 0
-
-FTSE MIB Closes Slightly Higher — The FTSE MIB rose 0.1% to close at 52,862 on Tuesday, supported by lower-than-expected inflation data in the US. The data eased expectations of a July Fed rate hike, although financial stocks posted mixed performances. Fincantieri jumped 2.7% after unveiling plans to integrate artificial intelligence into its technological innovation strategy, while Intesa Sanpaolo (0.3%) reaffirmed its buy rating on the stock. Utilities also advanced amid increased cooling demand, led by A2A (1.8%). Hera gained 1.2% after signing a binding agreement to acquire a 70% stake in Kronos Polymer Polska, while oil major Eni added 0.7%, supported by volatile oil prices. Inwit was the session's worst performer, falling 3.8% after an Italian court rejected its request to suspend the Fastweb+Vodafone termination from the MSA. Meanwhile, the European Central Bank selected banks and payment firms for the digital euro project, including BPMS (0.7%), Nexi (0.2%) and UniCredit (-0.5%).
-
----
-
-### 2026-07-15 00:28:24  #國際
-
-【菲律賓南部海域發生6.5級地震 】菲律賓火山地震研究所14日釋出訊息說，菲律賓南部棉蘭老島附近海域當地時間14日23時49分發生6.5級地震。訊息說，震中位於北緯4.50度、東經125.21度，在菲律賓西達沃省巴盧特島西南方向約104公里海域處，震源深度約10公里。棉蘭老島南部地區有震感。菲律賓位於環太平洋火山地震帶，地震頻發。
-
----
-
-### 2026-07-15 00:27:52  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #US10Y #XAUUSD #Impact bearish
-
-Federal Reserve chair KEVIN WARSH said we need to continue candid "internal discussions" about high inflation.
-
----
-
-### 2026-07-15 00:27:41  #央行 #國際
-
-美聯儲主席沃什：價格穩定與充分就業並非二選一的命題。
-
----
-
-### 2026-07-15 00:27:27  #MKT News
-
-Federal Reserve Chair Kevin Warsh said price stability and full employment are not mutually exclusive.
-
----
-
-### 2026-07-15 00:27:14  #市場 #焦點
-
-【SK海力士股價上漲22%】SK海力士股價上漲22%，報185.9美元/股，創上市以來新高，總市值報1.36萬億美元。
-
----
-
-### 2026-07-15 00:27:07  #央行 #國際
-
-美聯儲主席沃什：針對高通脹問題，我們需要持續開展良性內部政策博弈。
-
----
-
-### 2026-07-15 00:26:51  #央行 #國際
-
-美聯儲主席沃什：太久以來，美國家庭一直承受著高通脹帶來的不必要困境。
-
----
-
-### 2026-07-15 00:26:45  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
-
-Fed Chair Kevin Warsh said US households have long borne unnecessary hardship from elevated inflation.
-
----
-
-### 2026-07-15 00:26:10  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Chair Kevin Warsh said he is committed to the Fed's dual mandate.
-
----
-
-### 2026-07-15 00:26:05  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Fed chair Kevin Warsh said once the Fed has a concrete plan to address inf, it will make a clear public announcement.
-
----
-
-### 2026-07-15 00:26:00  #MKT News #Macro & Rates #The Fed (FOMC)
-
-KEVIN WARSH said he will not pre-judge the C.BANK's interest-rate decision.
-
----
-
-### 2026-07-15 00:25:55  #MKT News #Macro & Rates #The Fed (FOMC)
-
-Kevin Warsh, chair of the Federal Reserve, said the Fed overwhelmingly focuses on the broad macro picture (digits to the left of the decimal) but will occasionally monitor small movements in the data (digits to the right of the decimal).
-
----
-
-### 2026-07-15 00:25:42  #央行 #國際
-
-美聯儲主席沃什：將不折不扣落實充分就業的目標。
-
----
-
-### 2026-07-15 00:25:34  #MKT News #Market Themes #The Trump Trade #WTI #Impact mixed #Brent
-
-【Trump says no one should charge for Strait of Hormuz transit】US President Trump told reporters on Tuesday he believes no one should charge fees for ships transiting the Strait of Hormuz, saying he dislikes the concept of user fees even as the US protects the waterway. On Monday he had said the US would charge a 20% fee.
 
 ---
