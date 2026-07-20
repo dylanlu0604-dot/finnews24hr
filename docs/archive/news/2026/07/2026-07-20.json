@@ -1,7 +1,231 @@
 {
   "date": "2026-07-20",
-  "count": 638,
+  "count": 662,
   "items": [
+    {
+      "id": "4996665",
+      "time": "2026-07-20 09:49:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗革命衛隊感謝約旦方面提供 “精準情報”，憑藉該情報摧毀了 20 座駐美軍機庫。"
+    },
+    {
+      "id": "mkt:019f7d36-cfca-7aab-8dfe-d9f7ee6c3326",
+      "time": "2026-07-20 09:49:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "New Taiwan dollar (NTD) slid to 32.42 per US dollar, its weakest level since late April 2025."
+    },
+    {
+      "id": "4996664",
+      "time": "2026-07-20 09:49:31",
+      "tags": [],
+      "text": "富時中國A50指數期貨漲超3％。"
+    },
+    {
+      "id": "4996663",
+      "time": "2026-07-20 09:49:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：也可能在東盟會議期間會見越南外長。"
+    },
+    {
+      "id": "mkt:019f7d36-6302-7aab-8dfe-d1e97d47fe67",
+      "time": "2026-07-20 09:49:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures rose more than 3%."
+    },
+    {
+      "id": "mkt:019f7d36-3a85-7aab-8dfe-c973434d3028",
+      "time": "2026-07-20 09:48:53",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share coal sector traded higher; Dayou Energy hit the daily limit and Zhengzhou Coal & Power jumped over 9%. Liaoning Energy, China Coal Energy, Antai Group and Shaanxi Black Cat also gained. Cinda Securities said downside is cushioned by a high dividend-derived margin of safety and upside is supported by expectations of further coal-price gains, and it remains broadly bullish on the coal sector."
+    },
+    {
+      "id": "4996662",
+      "time": "2026-07-20 09:48:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍又有人員死亡 以軍稱“做好對伊恢復戰鬥準備”】美軍中央司令部19日在社交媒體上說，一名美軍人員18日在伊拉克北部執行涉伊朗任務時死亡。宣告說，當時美軍正在對一架被擊落的伊朗單向攻擊無人機所攜彈藥進行受控引爆，該人員在任務中死亡，另有一名美軍人員受輕傷。此外，美軍在約旦搜尋17日遭伊朗襲擊後失蹤的一名美軍人員，目前已發現不明身份遺骸，鑑定核實工作正在進行中。一些美媒援引匿名官員的話稱，找到的遺骸屬於這名失蹤的美軍人員。（新華社）"
+    },
+    {
+      "id": "mkt:019f7d35-da8e-7aab-8dfe-c2a78f5e0cda",
+      "time": "2026-07-20 09:48:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shanghai 1H regional GDP 2.789 tln yuan, +5.6% YoY】Shanghai recorded 1H regional GDP of 2.7887 tln yuan at constant prices, up 5.6% YoY. By sector, primary value added was 3.576 bln yuan (+0.9% YoY); secondary 569.67 bln yuan (+4.7% YoY); tertiary 2.2154 tln yuan (+5.9% YoY)."
+    },
+    {
+      "id": "4996661",
+      "time": "2026-07-20 09:48:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：其他國家必須加大行動力度，保障霍爾木茲海峽航運安全。"
+    },
+    {
+      "id": "4996660",
+      "time": "2026-07-20 09:48:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股智慧音箱板塊短線走低】億道資訊觸及跌停，佳禾智慧、長盈精密、信維通訊、拓邦股份、兆馳股份、達瑞電子跟跌。"
+    },
+    {
+      "id": "mkt:019f7d35-69dd-7aab-8dfe-bfeec15ad5a3",
+      "time": "2026-07-20 09:48:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reported three explosions in Tabriz in northwest Iran; authorities have not confirmed the exact locations or the source."
+    },
+    {
+      "id": "4996659",
+      "time": "2026-07-20 09:47:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：將在東盟相關活動期間同四方安全對話、日本及韓國外長舉行會談。"
+    },
+    {
+      "id": "4996658",
+      "time": "2026-07-20 09:47:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：上半年全市實現地區生產總值27886.63億元 同比增長5.6%】據上海市統計局、國家統計局上海調查總隊訊息，根據地區生產總值統一核算結果，上半年，全市實現地區生產總值27886.63億元，按不變價格計算，同比增長5.6%。分產業看，第一產業增加值35.76億元，同比增長0.9%；第二產業增加值5696.66億元，增長4.7%；第三產業增加值22154.21億元，增長5.9%。"
+    },
+    {
+      "id": "mkt:019f7d34-d16a-7aab-8dfe-b362379f5f3a",
+      "time": "2026-07-20 09:47:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Commodities",
+        "Energy",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HSI rises over 2% as storage, semiconductors, biopharma, cloud computing and oil & gas equipment & services lead gains."
+    },
+    {
+      "id": "4996657",
+      "time": "2026-07-20 09:47:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海興電力等成立新能源公司 含電池製造業務】企查查APP顯示，近日，杭州沃銳達新能源有限公司成立，經營範圍包含電池製造；電池銷售；電池零配件生產；電池零配件銷售等。企查查股權穿透顯示，該公司由海興電力(603556)等共同持股。"
+    },
+    {
+      "id": "4996656",
+      "time": "2026-07-20 09:47:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：與黎巴嫩總統的會晤非常積極。"
+    },
+    {
+      "id": "mkt:019f7d34-8eaf-7aab-8dfe-a83bd38c340c",
+      "time": "2026-07-20 09:47:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said his meeting with Lebanon's president was very positive."
+    },
+    {
+      "id": "4996655",
+      "time": "2026-07-20 09:46:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【醫療器械板塊短線走高】醫療器械板塊短線走高，九安醫療漲停，熱景生物、易瑞生物、科萊瑞迪、浩歐博、藍帆醫療等跟漲。相關ETF方面，醫療器械ETF匯添富（159797）漲0.61%，成交額77.74萬元，醫療器械ETF華夏（562600）漲0.67%，成交額1126.89萬元。"
+    },
+    {
+      "id": "4996654",
+      "time": "2026-07-20 09:46:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【劉濤江出任華興資本港股投資銀行業務負責人】7月20日，華興資本宣佈，劉濤江正式加入公司，出任董事總經理、港股投資銀行業務負責人。劉濤江將全面負責華興在港股市場的投資銀行業務，統籌業務戰略與團隊管理，聚焦為大中華區企業提供上市前融資、IPO及上市後資本運作的全週期服務。劉濤江是華泰香港投行業務的創始團隊之一。"
+    },
+    {
+      "id": "mkt:019f7d34-29b1-7aab-8dfe-a690932c7753",
+      "time": "2026-07-20 09:46:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share compute-power names rallied: Xingchen Technology and Xingyun Technology hit the 20% daily limit, Parallel Technology rose over 16%, and Pingzhi Information, Xiechuang Data, Hongjing Technology and Litong Electronics also gained. Moonshot AI’s Kimi said the firm has suspended new consumer subscriptions due to a compute-capacity shortage."
+    },
+    {
+      "id": "4996653",
+      "time": "2026-07-20 09:46:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超2%，現報25059.129點；恒生科技指數現漲3.270%。"
+    },
+    {
+      "id": "4996652",
+      "time": "2026-07-20 09:46:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "新臺幣兌美元貶值至1美元兌換32.42新臺幣，創2025年4月末以來最低水平。"
+    },
+    {
+      "id": "4996651",
+      "time": "2026-07-20 09:46:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲4%，現報7991.00元。"
+    },
+    {
+      "id": "4996650",
+      "time": "2026-07-20 09:46:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧：美國正對伊朗的相關行動、導彈及無人機襲擊作出回應。"
+    },
     {
       "id": "4996649",
       "time": "2026-07-20 09:46:06",
