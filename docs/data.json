@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-20 20:15:40",
-  "count": 19192,
+  "updated": "2026-07-20 20:19:43",
+  "count": 19190,
   "items": [
+    {
+      "id": "4998037",
+      "time": "2026-07-20 20:18:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "烏茲別克政府上調 2026 年國內生產總值增長預期至 8.1%。"
+    },
+    {
+      "id": "4998036",
+      "time": "2026-07-20 20:18:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蔚來螢火蟲釋出尋光系列首款車型】7月20日晚，蔚來旗下firefly螢火蟲宣佈，halo尋光系列首款車型“棲息地”正式釋出，整車售價13.33萬元起。"
+    },
+    {
+      "id": "4998035",
+      "time": "2026-07-20 20:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄邊境州遭烏無人機襲擊5死23傷】據俄羅斯別爾哥羅德州代理州長今天（7月20日）通報，烏克蘭無人機襲擊該州，造成5人死亡、23人受傷。（CCTV國際時訊）"
+    },
+    {
+      "id": "4998034",
+      "time": "2026-07-20 20:18:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "奈及利亞監管機構表示，預計到2030年將實現石油產量翻倍。"
+    },
+    {
+      "id": "mkt:019f7f76-2330-7aab-8e0c-b7ab17a570fd",
+      "time": "2026-07-20 20:17:56",
+      "tags": [
+        "MKT News",
+        "NFLX.O"
+      ],
+      "text": "SEC filings show Netflix (NFLX.O) has announced the issuance of senior notes."
+    },
+    {
+      "id": "4998033",
+      "time": "2026-07-20 20:17:31",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【博時基金：旗下多隻基金參與長鑫科技A股申購獲配】博時基金公告稱，旗下管理基金參與長鑫科技首次公開發行A股的申購。長鑫科技發行的聯席主承銷商招商證券、中信建投證券、國泰海通證券、華泰聯合證券分別為本公司關聯方或旗下部分公募基金的託管人及關聯方。長鑫科技本次發行價格為8.66元/股，公告展示了旗下多隻基金的獲配數量和金額，如博時匯興回報一年持有期靈活配置混合型證券投資基金等多隻基金獲配421781股，金額為3,652,623.46元。"
+    },
+    {
+      "id": "4998032",
+      "time": "2026-07-20 20:17:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "Netflix宣佈發行優先票據。"
+    },
+    {
+      "id": "mkt:019f7f74-bce6-7aab-8e0c-ac0a00fd9e86",
+      "time": "2026-07-20 20:16:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Nigeria's regulator expects oil production to double by 2030."
+    },
+    {
+      "id": "4998031",
+      "time": "2026-07-20 20:16:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【M87黑洞視界尺度輻射特性研究獲新進展】記者從中國科學院上海天文臺獲悉，近期，該天文臺科研團隊與國外合作者利用2018年事件視界望遠鏡（EHT）和全球毫米波VLBI（甚長基線干涉測量）陣列獲得的觀測資料，對M87黑洞開展了雙頻聯合光譜研究。研究利用1.3毫米和3.5毫米兩個波段獲得黑洞視界尺度影象，透過聯合分析，首次獲得了黑洞事件視界尺度的空間分辨譜指數分佈，並揭示了譜指數隨距離黑洞中心變化的規律。在這項研究中，譜指數反映了黑洞周圍不同位置的輻射在不同頻率下的亮度變化規律。這相當於為黑洞開展了一次高精度的“空間光譜體檢”。這也是迄今為止人類獲得的首張空間分辨的黑洞事件視界尺度譜指數影象。相關成果7月20日在國際學術期刊《天體物理學快報》發表。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f7f73-e53b-7aab-8e0c-a1302e18eadd",
+      "time": "2026-07-20 20:15:29",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "The acting governor of Russia's Belgorod region said a Ukrainian drone attack on the region killed five people and injured 23."
+    },
     {
       "id": "4998030",
       "time": "2026-07-20 20:14:50",
@@ -176730,120 +176821,6 @@
         "公司"
       ],
       "text": "【海得控制：預計2026年上半年淨利潤同比增長53.69%～126.02%】海得控制公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為1700萬元至2500萬元，比上年同期增長53.69%～126.02%。扣除非經常性損益後的淨利潤預計為-300萬元至-150萬元，比上年同期增長49.41%～74.70%。基本每股收益預計為0.0483元至0.0710元/股，上年同期為0.0314元/股。"
-    },
-    {
-      "id": "4984823",
-      "time": "2026-07-13 20:19:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：英國親和水務在社交平臺釋出公告，實施軟管澆水管禁令。"
-    },
-    {
-      "id": "4984822",
-      "time": "2026-07-13 20:18:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧省緊急調撥2.4萬件救災物資支援撫順鐵嶺】遼寧省應急管理廳已協調遼寧省糧食和物資儲備局，向撫順緊急調撥一萬床棉被，一萬床毛巾被；向鐵嶺緊急調撥兩千個摺疊床、一千床毛巾被，一千床棉被，助力當地開展防洪救災工作。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f5b6a-4756-7aab-8d5a-b5a6e37ead05",
-      "time": "2026-07-13 20:18:39",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "Morgan Stanley expects capital expenditure by US mega-cap companies to reach $1.2 trillion by 2027."
-    },
-    {
-      "id": "mkt:019f5b69-3646-7aab-8d5a-a8eb65cbd951",
-      "time": "2026-07-13 20:17:29",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "US President Trump said the United States would defend the strait and be paid for doing so."
-    },
-    {
-      "id": "4984821",
-      "time": "2026-07-13 20:17:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國船舶預計2026年上半年淨利潤同比增長143.56%至191.21%】7月13日晚，中國船舶(600150.SH)公告稱，預計2026年半年度歸屬於母公司所有者的淨利潤為92.00億元-110.00億元，與上年同期（按合併完成後重述口徑）相比，同比增加143.56%至191.21%。"
-    },
-    {
-      "id": "mkt:019f5b68-bbb1-7aab-8d5a-a22b7c427661",
-      "time": "2026-07-13 20:16:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said of Iran they are bad people."
-    },
-    {
-      "id": "mkt:019f5b68-b092-7aab-8d5a-98dd80aba51b",
-      "time": "2026-07-13 20:16:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK government says it has summoned the Iranian ambassador."
-    },
-    {
-      "id": "mkt:019f5b68-8bd7-7aab-8d5a-92086536da0e",
-      "time": "2026-07-13 20:16:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "Trump says the United States will become the guardian of the Strait of Hormuz."
-    },
-    {
-      "id": "4984819",
-      "time": "2026-07-13 20:16:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：他們是一群品行惡劣之人。"
-    },
-    {
-      "id": "4984818",
-      "time": "2026-07-13 20:16:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱要接管霍爾木茲海峽】最新訊息：美國總統特朗普今天（7月13日）稱，“我們要接管霍爾木茲海峽，而伊朗一無所有。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f5b68-2c4e-7aab-8d5a-8dca2f3f7ead",
-      "time": "2026-07-13 20:16:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US President Trump said the United States could 'operate' the Strait of Hormuz in the future and, if the US were to take charge, it would be paid."
-    },
-    {
-      "id": "4984817",
-      "time": "2026-07-13 20:15:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們為守護海峽付出的代價將得到回報。"
     }
   ]
 }
