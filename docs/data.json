@@ -1,7 +1,117 @@
 {
-  "updated": "2026-07-20 13:34:25",
-  "count": 19111,
+  "updated": "2026-07-20 13:38:28",
+  "count": 19117,
   "items": [
+    {
+      "id": "4997039",
+      "time": "2026-07-20 13:37:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.06%，成分股中，錦華新材跌11.05%，民士達跌9.71%，三協電機跌8.81%，吉林碳谷跌8.05%。"
+    },
+    {
+      "id": "mkt:019f7e07-154e-7aab-8e02-45149403356f",
+      "time": "2026-07-20 13:37:01",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM News reported multiple explosions across Bahrain, including in the capital Manama; residents said they felt strong tremors."
+    },
+    {
+      "id": "te:markets:568102",
+      "time": "2026-07-20 13:36:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "New Zealand Stocks End Nearly Flat — The NZX 50 was almost flat, trading around 13,693 at Monday's close, after gaining in the previous session, as gains in consumer staples, communication services, and real estate offset declines in healthcare, financials, and tech sectors. Traders were cautious ahead of the release of Q2 inflation data due on Tuesday amid elevated oil prices. Caution was also built amid persistently high oil prices following US strikes on Iran, as inflation concerns fueled expectations of further interest rate hikes. RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further interest rate hikes. On the data front, New Zealand's trade surplus narrowed to NZD 0.02 billion in June from NZD 0.2 billion in the same month a year earlier, with exports rising less than imports. A2 Milk advanced 2.4%, AFT Pharmaceuticals rose 0.5%, Auckland International Airport climbed 1.3%, while Briscoe Group, Ebos Group, and ANZ Group fell by 1.3%, 0.8%, and 1.7%, respectively."
+    },
+    {
+      "id": "4997038",
+      "time": "2026-07-20 13:36:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌3%，現報6853.00點。"
+    },
+    {
+      "id": "4997037",
+      "time": "2026-07-20 13:35:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【保險板塊午後持續走高 中國太保漲超6%】保險板塊午後持續走高，中國太保漲超6%，中國平安、中國人保、中國人壽、新華保險跟漲。相關ETF方面，證券ETF廣發（159016）漲1.76%，成交額4363.03萬元，證券ETF易方達（512570）漲2.09%，成交額1.87億元。"
+    },
+    {
+      "id": "mkt:019f7e05-a078-7aab-8e02-3c14a616ba86",
+      "time": "2026-07-20 13:35:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TAIEX closed down 221.57 points (-0.52%) at 42,449.7 on Monday, July 20."
+    },
+    {
+      "id": "4997036",
+      "time": "2026-07-20 13:35:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊表示，已打擊科威特境內美軍預警雷達系統、飛機零部件機庫以及 MQ-9 無人機停放設施。"
+    },
+    {
+      "id": "4997035",
+      "time": "2026-07-20 13:35:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收低0.5%報42,449.70。"
+    },
+    {
+      "id": "4997034",
+      "time": "2026-07-20 13:34:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美元上漲0.2%，報1美元兌96.4650盧比；盤中此前曾觸及96.4700盧比。印度盧比兌美元跌至5月21日以來最低水平。"
+    },
+    {
+      "id": "mkt:019f7e04-c1b0-7aab-8e02-37773b3413f0",
+      "time": "2026-07-20 13:34:28",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "The Indian rupee fell to its weakest level against the US dollar since May 21."
+    },
+    {
+      "id": "4997033",
+      "time": "2026-07-20 13:34:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【南京誠之材股權投資合夥企業成立，出資額約1.1億】天眼查App顯示，近日，南京誠之材股權投資合夥企業（有限合夥）成立，執行事務合夥人為上海誠之鑫企業諮詢有限責任公司，出資額約1.1億人民幣，經營範圍為股權投資、以自有資金從事投資活動。合夥人資訊顯示，該合夥企業由中國國有企業混合所有制改革基金有限公司、誠通科創投資基金（北京）合夥企業（有限合夥）等共同出資。"
+    },
+    {
+      "id": "4997032",
+      "time": "2026-07-20 13:33:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國誠通等在南京成立新合夥企業 出資額約1.1億】天眼查App顯示，近日，南京誠之材股權投資合夥企業（有限合夥）成立，執行事務合夥人為上海誠之鑫企業諮詢有限責任公司，出資額約1.1億人民幣，經營範圍為股權投資、以自有資金從事投資活動。合夥人資訊顯示，該合夥企業由中國國有企業混合所有制改革基金有限公司、誠通科創投資基金（北京）合夥企業（有限合夥）等共同出資。"
+    },
     {
       "id": "4997031",
       "time": "2026-07-20 13:33:14",
@@ -176091,66 +176201,6 @@
         "Europe & UK"
       ],
       "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said there remain unresolved issues with a proposed new sanctions package on Russia."
-    },
-    {
-      "id": "mkt:019f59fb-8b1c-7aab-8d4f-f6806ce05d6b",
-      "time": "2026-07-13 13:38:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "EU High Representative for Foreign Affairs and Security Policy Kallas said she hopes EU foreign ministers will agree on Monday on 250 additional sanctions targets against Russia; no agreement has been reached yet on the 21st sanctions package."
-    },
-    {
-      "id": "4983733",
-      "time": "2026-07-13 13:37:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟卡拉斯：霍爾木茲海峽不得收取任何通行費或費用。"
-    },
-    {
-      "id": "4983732",
-      "time": "2026-07-13 13:37:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交政策高階代表卡拉斯：希望歐盟外長週一就新增250項對俄製裁清單達成一致，第21輪制裁方案尚未達成協議。"
-    },
-    {
-      "id": "4983731",
-      "time": "2026-07-13 13:37:11",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗策略師將英國股票評級下調至減持。"
-    },
-    {
-      "id": "4983730",
-      "time": "2026-07-13 13:35:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數收盤變動不大，報45,380.52。"
-    },
-    {
-      "id": "mkt:019f59f8-b411-7aab-8d4f-e86e81c53021",
-      "time": "2026-07-13 13:34:58",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Kuwait set its August official selling price (OSP) for extra-light crude to Asia at a $5/bbl discount to the Oman/Dubai average."
     }
   ]
 }
