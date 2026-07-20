@@ -1,7 +1,58 @@
 {
   "date": "2026-07-21",
-  "count": 243,
+  "count": 248,
   "items": [
+    {
+      "id": "4998478",
+      "time": "2026-07-21 05:00:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗邁赫爾通訊社：葉門胡塞武裝表示，反艦導彈已準備就緒，將打擊任何突破封鎖的船隻。"
+    },
+    {
+      "id": "mkt:019f8153-c2c6-7aab-8e15-09042b587226",
+      "time": "2026-07-21 04:59:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Market sources: ANTHROPIC has reached a $1.5 billion copyright settlement with a group of authors to end a class-action lawsuit alleging it trained its AI on millions of pirated books."
+    },
+    {
+      "id": "mkt:019f8153-31ce-7aab-8e15-00eb1e2dbfb3",
+      "time": "2026-07-21 04:59:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Big five insurers pledge firm support for capital markets】PICC, China Life Group, Ping An, CPIC and New China Life said they will support capital-market development and increase investor returns. Their combined invested assets exceeded 20 trillion yuan at end-2025. Under policy guidance to channel more long-term funds into markets, the five materially raised secondary-market equity allocations. Aggregate 2025 dividends (interim and final) reached a record 102.39 billion yuan, up 12.8% YoY. Listed insurers said they will aim to keep dividend distributions continuous and growing despite recent net-profit volatility."
+    },
+    {
+      "id": "4998477",
+      "time": "2026-07-21 04:58:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五大險資巨頭集體發聲！堅定支援資本市場發展】7月20日，中國人保、中國人壽集團、中國平安、中國太保、新華保險等萬億級保險機構集體發聲，堅定支援資本市場發展，積極回報投資者。截至2025年末，這五大保險巨頭合計投資資產超20萬億元，在加大中長期資金入市力度的政策指引下，保險巨頭二級市場權益投資比例均顯著提升。據統計，A股五大險企即中國平安、中國人壽、中國人保、中國太保、新華保險，2025年分紅（含中期和末期分紅）創歷史新高，首次突破千億元，達到1023.94億元，同比增長12.8%。在近年來淨利潤波動加大的情況下，上市險企力爭保持分紅派息的連續性和穩定增長，以更加確定的分紅積極回報投資者。（證券時報）"
+    },
+    {
+      "id": "te:markets:568316",
+      "time": "2026-07-21 04:56:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips Amid US-Iran Tensions — The Ibovespa shed 0.2% to close at 173,371 as gains in banking stocks failed to offset weakness in the broader market amid concerns over further escalation in the Middle East. Oil prices swung sharply amid the worsening conflict between the US and Iran, the geopolitical risks and energy-driven inflation concerns weighed on sentiment. Utilities posted losses, with Sabesp down 0.8% and CPFL shedding 1.2%. Vale lost 1.4% as iron ore prices declined amid seasonal weakness in Chinese steel demand and narrowing mill margins. Other notable laggards included WEG (-1.1%) and Rede D'Or (-0.9%). Meanwhile, major banks advanced after the BCB's Focus survey showed the market lowered its 2026 inflation forecast for the third consecutive week. Itaú gained 0.8% and Bradesco rose 0.7%. Petrobras added 0.6% on higher oil prices."
+    },
     {
       "id": "4998476",
       "time": "2026-07-21 04:55:26",
