@@ -1,7 +1,64 @@
 {
   "date": "2026-07-21",
-  "count": 221,
+  "count": 227,
   "items": [
+    {
+      "id": "mkt:019f8135-a0b2-7aab-8e14-e4f932f16633",
+      "time": "2026-07-21 04:26:43",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Mehr news agency reports sounds of air-defence systems heard near Iran's Bushehr nuclear power plant."
+    },
+    {
+      "id": "4998466",
+      "time": "2026-07-21 04:25:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "邁赫爾通訊社訊息：布什爾核電站周邊伊朗防空系統已啟動。"
+    },
+    {
+      "id": "mkt:019f8134-0379-7aab-8e14-de1e7893687f",
+      "time": "2026-07-21 04:24:57",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【US officials: Iran strikes this month injured nearly 100 US service members】US officials said on July 20 that multiple Iranian strikes on US bases in the Middle East this month have injured nearly 100 US service members. Pentagon chief spokesman Sean Parnell said that since July 7 nearly 100 personnel have been identified with varying injuries; 96% have returned to duty. He said the vast majority suffered mild concussions and are actively returning to combat roles."
+    },
+    {
+      "id": "4998465",
+      "time": "2026-07-21 04:24:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美官員：本月伊朗襲擊已致近100名美軍人員受傷】當地時間20日獲悉，美國官員表示，本月伊朗針對中東地區美軍基地發動的多次空襲已造成近100名美軍人員受傷。美國國防部首席發言人肖恩·帕內爾證實，自7月7日以來，近100名美軍人員被認定受到不同程度傷害，其中96%已經返回崗位。帕內爾稱，絕大多數傷勢為輕微腦震盪，相關人員“正積極重返戰鬥崗位”。（央視）"
+    },
+    {
+      "id": "mkt:019f8133-e0cb-7aab-8e14-d399190a4e50",
+      "time": "2026-07-21 04:24:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Explosions heard at Iran's Bandar Abbas port, Iranian state television reported."
+    },
+    {
+      "id": "4998464",
+      "time": "2026-07-21 04:24:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【貝萊德擬發逾120億美元債券 為Meta得州資料中心提供融資】最新訊息顯示，貝萊德正計劃發行超過120億美元債券，為Meta位於美國得州埃爾帕索的資料中心園區提供融資。這是近期一系列為科技公司大規模人工智慧（AI）投資提供資金支援的債務融資交易中的最新一筆。"
+    },
     {
       "id": "4998463",
       "time": "2026-07-21 04:24:24",
