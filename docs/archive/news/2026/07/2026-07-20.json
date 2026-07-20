@@ -1,7 +1,163 @@
 {
   "date": "2026-07-20",
-  "count": 1807,
+  "count": 1825,
   "items": [
+    {
+      "id": "4997515",
+      "time": "2026-07-20 17:13:01",
+      "tags": [
+        "觀點"
+      ],
+      "text": "香港交易所資訊顯示，摩根大通在快手-WH股的持股比例於07月15日從7.42%降至6.70%，賣出的平均股價為44.6967港元。"
+    },
+    {
+      "id": "4997514",
+      "time": "2026-07-20 17:12:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【恆瑞醫藥：計劃近期在中國提交瑞普泊肽注射液用於成人2型糖尿病患者血糖控制的新藥上市申請】7月20日，恆瑞醫藥宣佈，GLP-1/GIP雙重受體激動劑瑞普泊肽（HRS9531，大中華區外稱KAI-9531）注射液治療中國2型糖尿病初治人群的Ⅲ期臨床試驗 （HRS9531-302）取得積極頂線結果，主要終點及所有關鍵次要終點均達到優效。恆瑞醫藥計劃近期在中國提交瑞普泊肽注射液用於成人2型糖尿病患者血糖控制的新藥上市申請（NDA），Kailera Therapeutics（U.S.）正在推進瑞普泊肽治療肥胖症的全球臨床研發。"
+    },
+    {
+      "id": "mkt:019f7ecc-9fe6-7aab-8e07-e3664c8f44ba",
+      "time": "2026-07-20 17:12:47",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bearish"
+      ],
+      "text": "【Boeing says next-generation single-aisle jet may not arrive until late next decade】Boeing (BA.N) said it does not expect to bring a next-generation single-aisle jet to market until the late next decade, as it prioritizes repairing its balance sheet to meet the large investment required while demand for existing models remains strong. The company’s CEO said Boeing is not yet financially ready to launch a new type and that market demand is not fully in place; customers have urged Boeing to focus on current products. He added Boeing will need several years to lift 737 output to improve cash flow and pay down some debt."
+    },
+    {
+      "id": "4997513",
+      "time": "2026-07-20 17:12:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空<RYA.I>執行長就希臘事件表示：初步跡象顯示發動機受到外來物損傷，但我們無法給出確切結論。"
+    },
+    {
+      "id": "te:markets:568215",
+      "time": "2026-07-20 17:11:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Rubber Futures Ease — Rubber futures eased below 215 US cents per kilogram in late July, trading within a narrow range since early this month, as weather-related disruptions in key rubber-producing countries had little impact on the broader seasonal increase in supply. Thailand, the world's largest rubber producer, has entered its peak tapping season, with output in the south beginning to recover as rainfall eased in late June and early July. Adding to downside pressure, EU anti-dumping tariffs on Chinese tire imports fueled concerns over weaker demand for natural rubber, while China's slowing economy and a ninth consecutive monthly decline in vehicle sales in June further dampened the demand outlook. Meanwhile, elevated oil prices limited some losses by making synthetic rubber more expensive, boosting the competitiveness of natural rubber."
+    },
+    {
+      "id": "4997512",
+      "time": "2026-07-20 17:11:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國人民銀行副行長宣昌能與歐盟委員會金融穩定、金融服務和資本市場聯盟總司長約翰·貝里根通話】2026年7月20日，中國人民銀行副行長宣昌能與歐盟委員會金融穩定、金融服務和資本市場聯盟總司長約翰·貝里根通話，就中歐經濟形勢和金融合作等議題交換了意見。(中國人民銀行)"
+    },
+    {
+      "id": "mkt:019f7ecb-b369-7aab-8e07-db39a0e40af2",
+      "time": "2026-07-20 17:11:46",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "Boeing (BA.N): Riyadh Air expects to create more than 200,000 jobs by 2030 and contribute $20 billion to non-oil GDP."
+    },
+    {
+      "id": "4997511",
+      "time": "2026-07-20 17:11:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【賽騰股份：股票交易異常波動 不存在應披露未披露重大資訊】賽騰股份公告稱，公司股票於2026年7月16日、7月17日、7月20日連續三個交易日內日收盤價格跌幅偏離值累計達20%，屬於股票交易異常波動。經自查及向股東孫豐、曾慧函詢，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大資訊，控股股東、董監高在此期間也無買賣公司股票情況。公司提醒投資者注意二級市場交易風險。"
+    },
+    {
+      "id": "4997510",
+      "time": "2026-07-20 17:11:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【圓通速遞：擬3000萬-5000萬元回購股份用於員工激勵】圓通速遞公告稱，公司第十二屆董事局第六次會議審議透過以集中競價交易方式回購股份方案。回購資金總額不低於3000萬元且不超過5000萬元，資金為自有資金，用於實施員工持股計劃或股權激勵計劃。回購價格不超25元/股，回購期限為自董事局審議透過之日起12個月內。回購股份總數不低於120萬股且不超過200萬股，佔已發行總股本的0.04%-0.06%。"
+    },
+    {
+      "id": "4997509",
+      "time": "2026-07-20 17:11:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：利雅得航空預計到2030年將創造超20萬個就業崗位，併為非石油GDP貢獻200億美元。"
+    },
+    {
+      "id": "4997508",
+      "time": "2026-07-20 17:11:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞安航空<RYA.I>執行長就希臘事件表示：飛機已於昨日交還我方。"
+    },
+    {
+      "id": "mkt:019f7eca-b087-7aab-8e07-d5af9bb7c16d",
+      "time": "2026-07-20 17:10:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【PBOC deputy governor Xuan Changneng held call with European Commission DG John Berrigan on China-EU economic situation and financial cooperation】On July 20, 2026, PBOC deputy governor Xuan Changneng held a phone call with European Commission Director-General for Financial Stability, Financial Services and Capital Markets Union John Berrigan to discuss the China‑EU economic situation and financial cooperation."
+    },
+    {
+      "id": "4997507",
+      "time": "2026-07-20 17:10:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞安航空<程式碼 RYA.I> 首席財務官：預計全年成本控制將表現極為強勁。"
+    },
+    {
+      "id": "4997506",
+      "time": "2026-07-20 17:09:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【津藥藥業：股票交易異常波動 不存在應披露未披露事項】津藥藥業公告稱，公司股票於2026年7月16日、7月17日、7月20日連續三個交易日內，日收盤價格跌幅偏離值累計達20%，屬異常波動。經自查及向控股股東等核實，截至公告披露日，公司生產經營正常，不存在應披露而未披露的重大事項，未發現影響股價的媒體報道、市場傳聞等。提醒投資者注意交易、業績等風險，理性投資。"
+    },
+    {
+      "id": "4997505",
+      "time": "2026-07-20 17:09:46",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【先導基電：股票連續3日收盤價跌幅偏離值累計超20%】先導基電公告稱，公司股票在2026年7月16日、7月17日、7月20日連續3個交易日收盤價格跌幅偏離值累計超過20%，屬於股票交易異常波動。經自查，公司目前生產經營正常，不存在應披露而未披露的重大事項，未發現影響股價的媒體報道、市場傳聞及熱點概念。公司董監高、控股股東及其一致行動人在此期間無買賣公司股票情況。提醒投資者注意交易風險。"
+    },
+    {
+      "id": "4997504",
+      "time": "2026-07-20 17:09:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金橙子：2026年第二次臨時股東會審議透過兩項議案】金橙子公告稱，2026年7月20日召開的2026年第二次臨時股東會，由董事長呂文傑主持，採用現場與網路投票結合方式，61.1983%表決權股份參與。會議審議透過《關於調整2025年員工持股計劃公司層面業績考核指標的議案》和《關於使用剩餘超募資金永久補充流動資金的議案》，兩項議案同意比例分別為99.6988%、99.6949%，對持股5%以下中小股東單獨計票。國浩律師（上海）事務所見證會議合法有效。"
+    },
+    {
+      "id": "4997503",
+      "time": "2026-07-20 17:08:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【今日全國碳市場收盤價較前一日上漲0.14%】今日全國碳市場綜合價格行情為：開盤價90.2元/噸，最高價90.3元/噸，最低價90.05元/噸，收盤價90.15元/噸，收盤價較前一日上漲0.14%。今日掛牌協議交易成交量69272噸，成交額624.46萬元；大宗協議交易成交量20萬噸，成交額1800.5萬元；今日無單向競價。今日全國碳排放配額總成交量26.93萬噸，總成交額2424.96萬元。2026年1月1日至7月20日，全國碳市場碳排放配額成交量62586327噸，成交額49.1億元。截至2026年7月20日，全國碳市場碳排放配額累計成交量9.27億噸，累計成交額625.73億元。(全國碳交易)"
+    },
+    {
+      "id": "4997502",
+      "time": "2026-07-20 17:08:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博瑞醫藥：擬聘任李加寧為公司董事會秘書】博瑞醫藥公告稱，公司於2026年7月17日召開第四屆董事會第二十三次會議，審議透過聘任李加寧為公司董事會秘書的議案，任期至第四屆董事會任期屆滿。李加寧已參加上交所科創板董秘任職培訓並完成測試，待取得證明並透過備案，聘任正式生效，此前由董事長袁建棟代行職責。李加寧無公司股份，無關聯關係，符合任職資格。"
+    },
     {
       "id": "4997501",
       "time": "2026-07-20 17:08:00",
