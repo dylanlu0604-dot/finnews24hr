@@ -1,7 +1,197 @@
 {
-  "updated": "2026-07-20 13:58:55",
-  "count": 19117,
+  "updated": "2026-07-20 14:02:52",
+  "count": 19129,
   "items": [
+    {
+      "id": "mkt:019f7e1e-3162-7aab-8e02-f4bd2f941bfe",
+      "time": "2026-07-20 14:02:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's Sea Ports Authority said a Russian attack on vessels near Odesa has raised the death toll to 10."
+    },
+    {
+      "id": "4997094",
+      "time": "2026-07-20 14:02:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲9%，現報2878.00點。"
+    },
+    {
+      "id": "mkt:019f7e1d-9d63-7aab-8e02-efa206985a5e",
+      "time": "2026-07-20 14:01:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude broke above $89/bl, rising 2.60% intraday."
+    },
+    {
+      "id": "4997093",
+      "time": "2026-07-20 14:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數下跌2%至1751.57。"
+    },
+    {
+      "id": "4997092",
+      "time": "2026-07-20 14:01:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭海港管理局表示，俄羅斯對烏克蘭敖德薩附近船隻發動襲擊造成的死亡人數已上升至10人。"
+    },
+    {
+      "id": "4997091",
+      "time": "2026-07-20 14:01:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國恩股份等成立科技新公司 含AI及積體電路業務】企查查APP顯示，近日，國恩九尺科技（上海）有限公司成立，經營範圍包含人工智慧理論與演算法軟體開發；人工智慧基礎軟體開發；人工智慧應用軟體開發；積體電路晶片設計及服務；積體電路晶片及產品銷售；半導體分立器件製造等。企查查股權穿透顯示，該公司由國恩股份(002768)等共同持股。"
+    },
+    {
+      "id": "mkt:019f7e1d-2e1a-7aab-8e02-e135d04d5090",
+      "time": "2026-07-20 14:01:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "China's container shipping index (Europe route) front-month contract extended intraday gains to 8.00%, at 2,852.0 points. Liquefied petroleum gas (LPG) front-month contract surged 9.25% intraday to 5,718 yuan/ton."
+    },
+    {
+      "id": "mkt:019f7e1d-1139-7aab-8e02-d887bbfba3ab",
+      "time": "2026-07-20 14:01:01",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Israeli Channel 12 reports the government will meet today to review Ben Gurion Airport’s status and decide how to respond to a U.S. request to dispatch additional aerial refueling tankers."
+    },
+    {
+      "id": "mkt:019f7e1c-d3e0-7aab-8e02-d6988ef70474",
+      "time": "2026-07-20 14:00:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Changchun Institute tech enables Dushanzi Petrochemical 100,000 t/yr rare‑earth cis‑butadiene rubber unit to start production】Technology from the Changchun Institute of Applied Chemistry (CAS) supported the commissioning of Dushanzi Petrochemical’s 100,000 t/yr rare‑earth cis‑butadiene rubber unit; trial runs were successful. The unit is producing stable, premium‑grade rare‑earth cis‑butadiene rubber that meets output and quality standards. The project represents a scale‑up of more than 60 years of the institute’s rare‑earth catalytic rubber research into commercial production."
+    },
+    {
+      "id": "4997090",
+      "time": "2026-07-20 14:00:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長春應化所技術支撐10萬噸/年稀土順丁橡膠裝置成功投產】據“吉林釋出”，近日，依託中國科學院長春應用化學研究所（簡稱“長春應化所”）自主研發技術，獨山子石化10萬噸/年稀土順丁橡膠裝置試車成功，裝置全線產出效能達標、品質穩定的優級品稀土順丁橡膠產品。這一成果，是長春應化所六十餘年在稀土催化合成橡膠領域研究的原創成果走向規模化生產的突破。"
+    },
+    {
+      "id": "4997089",
+      "time": "2026-07-20 14:00:16",
+      "tags": [
+        "資料"
+      ],
+      "text": "德國6月PPI同比 1.8%，預期 1.8%，前值 2.2%。"
+    },
+    {
+      "id": "mkt:019f7e1c-4d1c-7aab-8e02-ccd2cc5392dd",
+      "time": "2026-07-20 14:00:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Germany June PPI (MoM) -0.3% vs -0.2% expected; May +0.3%."
+    },
+    {
+      "id": "4997088",
+      "time": "2026-07-20 14:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國6月生產者價格指數環比下降0.3%；預期下降0.3%。"
+    },
+    {
+      "id": "mkt:019f7e1c-44ad-7aab-8e02-c577f897bfad",
+      "time": "2026-07-20 14:00:09",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany June PPI YoY 1.8% (consensus 1.9%); prior 2.2%."
+    },
+    {
+      "id": "mkt:019f7e1c-2d3b-7aab-8e02-b893b267dcfb",
+      "time": "2026-07-20 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Producer Price Index (MoM) (Jun) | actual -0.3% | consensus -0.2% | previous 0.30%"
+    },
+    {
+      "id": "mkt:019f7e1c-2c79-7aab-8e02-b213dc17a609",
+      "time": "2026-07-20 14:00:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | Producer Price Index (YoY) (Jun) | actual 1.8% | consensus 1.9% | previous 2.20%"
+    },
+    {
+      "id": "4997087",
+      "time": "2026-07-20 13:59:56",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "集運指數歐線期貨連續主力合約日內漲8%，現報2852.00點。"
+    },
+    {
+      "id": "4997086",
+      "time": "2026-07-20 13:59:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林通報成功攔截伊朗空中襲擊。"
+    },
+    {
+      "id": "4997085",
+      "time": "2026-07-20 13:58:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【量子計算初創公司中科量樞完成天使及天使+輪融資】源自中國科學院計算技術研究所的量子計算作業系統及演算法平臺公司“中科量樞”，已完成天使及天使+輪融資。兩輪融資金額均在數千萬元，並將主要用於產品研發和團隊組建。其中，天使輪融資由普華資本、知壹投資聯合領投，九坤創投跟投；天使+輪由北工量子基金獨家投資。"
+    },
+    {
+      "id": "mkt:019f7e1a-a154-7aab-8e02-a86123cbdc8c",
+      "time": "2026-07-20 13:58:22",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Russian Defence Ministry said Russian forces struck fuel storage facilities at the port of Odesa in Ukraine."
+    },
     {
       "id": "4997084",
       "time": "2026-07-20 13:57:58",
@@ -176139,84 +176329,6 @@
         "Emerging Markets"
       ],
       "text": "Dubai's main stock index fell 1% in early trading."
-    },
-    {
-      "id": "4983775",
-      "time": "2026-07-13 14:02:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元斯托克50指數期貨<STXEc1>下跌0.84%，德國DAX指數期貨<FDXc1>下跌0.88%，富時指數期貨<FFIc1>下跌0.53%。"
-    },
-    {
-      "id": "mkt:019f5a11-5a83-7aab-8d50-a27310260be6",
-      "time": "2026-07-13 14:01:54",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "【Japan says no plan to change GPIF target allocation; may boost domestic investments】Sources told Refinitiv the Government Pension Investment Fund (GPIF) has no plan to change its target asset allocation but may, within existing permitted ranges, shift more funds into Japanese assets as the government studies options. Japan's finance minister Katayama last Friday said the government will seek to encourage pension funds, including GPIF, to substantially increase investment in Japanese financial assets; the remarks lifted the yen and JGBs. GPIF managed ¥293.6 tln (about $1.81 tln) as of March. Officials said any increase would be implemented within the current benchmark limits and would not immediately alter GPIF's medium-term targets; GPIF is legally required to invest solely in beneficiaries' interests and cannot deploy assets to advance government policy. Under its current strategic plan, GPIF allocates 25% each to domestic bonds, overseas bonds, domestic equities and overseas equities."
-    },
-    {
-      "id": "4983774",
-      "time": "2026-07-13 14:01:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿布扎比指數<.FTFADGI>早盤下跌0.3%；迪拜主要股指<.DFMGI>早盤下跌1%。"
-    },
-    {
-      "id": "4983773",
-      "time": "2026-07-13 14:01:07",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨<STXEc1>下跌0.84%，德國DAX指數期貨<FDXc1>下跌0.88%，富時指數期貨<FFIc1>下跌0.53%。"
-    },
-    {
-      "id": "mkt:019f5a10-0c56-7aab-8d50-9bbbe85acd0a",
-      "time": "2026-07-13 14:00:28",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Coking coal main contract down 2.00% intraday, trading at 1,236 yuan/ton."
-    },
-    {
-      "id": "4983772",
-      "time": "2026-07-13 14:00:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "焦煤連續主力合約日內跌2%，現報1236.00元。"
-    },
-    {
-      "id": "4983771",
-      "time": "2026-07-13 14:00:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "新加坡凱德集團解散特殊機遇團隊。"
-    },
-    {
-      "id": "mkt:019f5a0e-c5c4-7aab-8d50-94d508e8f8c3",
-      "time": "2026-07-13 13:59:05",
-      "tags": [
-        "MKT News",
-        "MSCI",
-        "Impact bullish",
-        "UBS"
-      ],
-      "text": "【MSCI and UBS form strategic partnership to boost private markets transparency】MSCI and UBS announced a strategic partnership to improve transparency in the private markets. The parties will expand MSCI’s AI-enabled platform to tackle long-standing issues of fragmented data and limited transparency in private markets. UBS will be an early adopter and will collaborate with MSCI to promote broad industry uptake of the platform and accelerate private-market standardization."
     }
   ]
 }
