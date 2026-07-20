@@ -1,7 +1,27 @@
 {
   "date": "2026-07-21",
-  "count": 105,
+  "count": 107,
   "items": [
+    {
+      "id": "4998399",
+      "time": "2026-07-21 01:47:28",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛稱對沖基金以創紀錄的速度拋售美國科技股】高盛集團的主經紀商業務部門指出，過去兩個月對沖基金撤出美國科技股的速度達到了創紀錄的水平。以Vincent Lin為首的該團隊分析稱，這類基金過去八週的六個星期都是該板塊的淨賣方。市值累計遭減持的幅度約達10%，創出十多年前開始統計該資料以來之最。“在半導體/儲存/人工智慧基礎設施板塊持續震盪和被大幅拋售的情況下，6月初以來賣盤的持續性和規模表明科技投資者大幅減少了倉位，而且一些投降跡象也開始出現，” 該部門寫道。"
+    },
+    {
+      "id": "mkt:019f80a3-5bbf-7aab-8e13-608a927915ce",
+      "time": "2026-07-21 01:46:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government appointed Ed Miliband as foreign secretary, Shabana Mahmood as home secretary and Louise Haigh as first secretary of state."
+    },
     {
       "id": "4998398",
       "time": "2026-07-21 01:43:50",

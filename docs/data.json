@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-21 01:45:21",
-  "count": 19108,
+  "updated": "2026-07-21 01:49:15",
+  "count": 19105,
   "items": [
+    {
+      "id": "4998399",
+      "time": "2026-07-21 01:47:28",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛稱對沖基金以創紀錄的速度拋售美國科技股】高盛集團的主經紀商業務部門指出，過去兩個月對沖基金撤出美國科技股的速度達到了創紀錄的水平。以Vincent Lin為首的該團隊分析稱，這類基金過去八週的六個星期都是該板塊的淨賣方。市值累計遭減持的幅度約達10%，創出十多年前開始統計該資料以來之最。“在半導體/儲存/人工智慧基礎設施板塊持續震盪和被大幅拋售的情況下，6月初以來賣盤的持續性和規模表明科技投資者大幅減少了倉位，而且一些投降跡象也開始出現，” 該部門寫道。"
+    },
+    {
+      "id": "mkt:019f80a3-5bbf-7aab-8e13-608a927915ce",
+      "time": "2026-07-21 01:46:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government appointed Ed Miliband as foreign secretary, Shabana Mahmood as home secretary and Louise Haigh as first secretary of state."
+    },
     {
       "id": "4998398",
       "time": "2026-07-21 01:43:50",
@@ -175688,52 +175708,6 @@
         "Impact bullish"
       ],
       "text": "【Goldman: Earnings growth still primary US equity driver; Fed hikes would hit markets three ways】Goldman analysts say earnings growth is likely to remain the main driver of US equities even as a more hawkish Fed raises downside risk. Goldman expects the Fed to keep rates on hold this year but assigns a 25% probability of a rate hike. A Fed resumption of hikes would affect equities via three channels: higher rates weakening the growth outlook — and historically growth has mattered more for equity performance than rates themselves; the current AI-led investment cycle is unusually capital‑intensive, making firms more sensitive to higher financing costs; and past tightening cycles have coincided with weak equity returns. Goldman adds: \"Whether or not the Fed hikes, uncertainty about the Fed's policy path will raise rate volatility risk and constitute a headwind for equities.\""
-    },
-    {
-      "id": "4985241",
-      "time": "2026-07-14 01:48:57",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌4%，現報57.74美元/盎司。"
-    },
-    {
-      "id": "mkt:019f5c98-58ff-7aab-8d62-228cccbc37d9",
-      "time": "2026-07-14 01:48:35",
-      "tags": [
-        "MKT News",
-        "AM.PA",
-        "Impact bullish"
-      ],
-      "text": "French President Macron said Ukraine will purchase 16 Rafale fighters, expected to operate in Ukrainian airspace in 2028-2029."
-    },
-    {
-      "id": "4985240",
-      "time": "2026-07-14 01:48:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：烏克蘭將採購 16 架陣風戰鬥機，這批戰機將於 2028 至 2029 年投入烏克蘭空域執行任務。"
-    },
-    {
-      "id": "4985239",
-      "time": "2026-07-14 01:46:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "法國總統馬克龍：烏克蘭已同意採購 SAMP-T 防空系統。"
-    },
-    {
-      "id": "mkt:019f5c96-7759-7aab-8d62-181fe3d09e39",
-      "time": "2026-07-14 01:46:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "HO.PA",
-        "Impact bullish"
-      ],
-      "text": "French President Macron said Ukraine has agreed to purchase the SAMP/T air-defence system."
     }
   ]
 }
