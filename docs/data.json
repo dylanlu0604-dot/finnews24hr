@@ -1,7 +1,147 @@
 {
-  "updated": "2026-07-20 10:06:30",
-  "count": 19076,
+  "updated": "2026-07-20 10:10:29",
+  "count": 19081,
   "items": [
+    {
+      "id": "4996710",
+      "time": "2026-07-20 10:09:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲5%，現報4871.00元。"
+    },
+    {
+      "id": "mkt:019f7d49-0d53-7aab-8dff-6b82669cb953",
+      "time": "2026-07-20 10:09:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【NDRC sets 2025 centralized government procurement spending at 22.4448 mln yuan】The National Development and Reform Commission (NDRC) will implement the State Council Office's centralized government procurement catalogue and standards. 2025 centralized procurement spending totals 22.4448 mln yuan, split into goods 8.2065 mln yuan, engineering 7.2070 mln yuan and services 7.2113 mln yuan."
+    },
+    {
+      "id": "mkt:019f7d48-b34d-7aab-8dff-67939916ad97",
+      "time": "2026-07-20 10:09:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "HMC.O",
+        "Impact bullish"
+      ],
+      "text": "Honda says it will further strengthen its automotive business in China."
+    },
+    {
+      "id": "4996709",
+      "time": "2026-07-20 10:08:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海倫鋼琴等成立智慧科技公司 含多項AI業務】企查查APP顯示，近日，北京全拓海倫衡策智慧科技有限公司成立，經營範圍包含人工智慧基礎軟體開發；人工智慧應用軟體開發；軟體開發；人工智慧理論與演算法軟體開發等。企查查股權穿透顯示，該公司由海倫鋼琴(300329)全資子公司寧波全拓海倫控股有限公司等共同持股。"
+    },
+    {
+      "id": "mkt:019f7d48-2aa1-7aab-8dff-5af23fe16d60",
+      "time": "2026-07-20 10:08:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【MIIT: AI application penetration in manufacturing firms above designated size exceeded 30% in 1H】July 20 — At a State Council Information Office briefing on 1H 2026 industrial and information development, Ministry of Industry and Information Technology chief engineer Wang Weiming said innovation capacity in the industrial and information sectors has strengthened and the AI+ initiative has been broadened. He said AI technology application penetration among manufacturing enterprises above designated size exceeded 30% in 1H 2026, and cumulative global downloads of open‑source AI large models topped 10 billion."
+    },
+    {
+      "id": "4996708",
+      "time": "2026-07-20 10:08:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創啟動港股上市前期詢價工作，相關條款已披露。"
+    },
+    {
+      "id": "4996707",
+      "time": "2026-07-20 10:08:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲6%，現報2795.00元。"
+    },
+    {
+      "id": "mkt:019f7d47-5b07-7aab-8dff-51b31996f641",
+      "time": "2026-07-20 10:07:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "CENTCOM says it is acting under orders from the commander-in-chief to hold Iran accountable. CENTCOM forces remain highly vigilant and focused, combat-capable and prepared to respond to contingencies."
+    },
+    {
+      "id": "4996705",
+      "time": "2026-07-20 10:07:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上證50指數期貨連續主力合約日內漲3%，現報2880.80點。"
+    },
+    {
+      "id": "mkt:019f7d47-3a89-7aab-8dff-4add748beaee",
+      "time": "2026-07-20 10:07:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【MIIT: Industrial value added of enterprises above designated size up 5.4% YoY in 1H】At a State Council press conference on July 20, the Ministry of Industry and Information Technology said industrial value added of enterprises above designated size rose 5.4% YoY in 1H; the industrial sector accounted for over 35% of economic growth; total profits of industrial enterprises above designated size in the first five months rose 18.8% YoY."
+    },
+    {
+      "id": "mkt:019f7d46-bfe8-7aab-8dff-4026fb0c36dd",
+      "time": "2026-07-20 10:06:56",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said it struck Iranian military command centers, air-defense and coastal surveillance sites, maritime combat assets, missile and drone launch facilities, and communications networks to further degrade Iran's ability to attack commercial shipping and civilian mariners transiting the Strait of Hormuz."
+    },
+    {
+      "id": "4996704",
+      "time": "2026-07-20 10:06:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：中央司令部此次打擊目標為伊朗軍事指揮中心、防空設施、海岸監視站點以及海上軍事設施。"
+    },
+    {
+      "id": "4996703",
+      "time": "2026-07-20 10:06:38",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工信部：上半年規模以上工業增加值同比增長5.4%】7月20日，國務院新聞辦公室舉行新聞釋出會，介紹2026年上半年工業和資訊化發展情況。工業和資訊化部總工程師王衛明表示，上半年工業和資訊化持續向新向優發展，規模以上工業增加值同比增長5.4%，工業對經濟增長貢獻率超過35%，工業企業效益明顯改善，前5個月規模以上工業企業利潤總額同比增長18.8%。"
+    },
+    {
+      "id": "mkt:019f7d46-66a4-7aab-8dff-3b4b4b857c9b",
+      "time": "2026-07-20 10:06:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said it completed its ninth consecutive nighttime strike against Iran at 10:00 p.m. ET on July 19 (10:00 Beijing time today)."
+    },
     {
       "id": "mkt:019f7d45-c622-7aab-8dff-35e30eea6f27",
       "time": "2026-07-20 10:05:52",
@@ -175854,96 +175994,6 @@
         "國際"
       ],
       "text": "照片顯示美國海軍第五艦隊總部在巴林遭到直接襲擊。"
-    },
-    {
-      "id": "4983460",
-      "time": "2026-07-13 10:10:09",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【高盛：AI或引爆美國通脹 儲存暴漲是核心推手】高盛最新研究表明，美國很可能將首當其衝地受到由人工智慧（AI）引發的全球通脹浪潮的衝擊。這家華爾街巨頭對AI熱潮如何推高全球消費者價格進行了分析。由於供應受限，記憶體晶片和半導體等關鍵零部件的價格被推高。高盛經濟學家Megan Peters撰文指出，美國可能會遭受最嚴重的通脹衝擊。根據高盛的估計，AI每年使美國核心個人消費支出（PCE）通脹率（美聯儲偏好的通脹指標）上升約20個基點。到今年年底，預計這股通脹壓力將增加一倍以上，對核心PCE的推升幅度將達到50個基點。"
-    },
-    {
-      "id": "mkt:019f593c-e53c-7aab-8d4b-3be22a2e6d59",
-      "time": "2026-07-13 10:09:50",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Indonesian rupiah weakened to 18,110 per dollar, its weakest level since June 9."
-    },
-    {
-      "id": "4983459",
-      "time": "2026-07-13 10:09:46",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "印尼盾兌美元跌至18110，創6月9日以來新低。"
-    },
-    {
-      "id": "4983458",
-      "time": "2026-07-13 10:08:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "安東尼廢物處理公司稱，其垃圾焚燒發電廠的運營已暫停。"
-    },
-    {
-      "id": "4983457",
-      "time": "2026-07-13 10:08:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【銀河航天合肥載荷中心首套通訊衛星載荷正式下線】近日，銀河航天合肥載荷中心首套通訊衛星載荷正式下線，標誌其衛星通訊載荷智慧產線正式投產。專案一期達產後，可年產適配50—100顆衛星的通訊載荷。"
-    },
-    {
-      "id": "mkt:019f593b-7f0e-7aab-8d4b-33b147ca6e2b",
-      "time": "2026-07-13 10:08:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "Treasury Yields",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. 2-year Treasury yield hit a 17-month high of 4.2393%. Federal funds futures price in about 39bps of rate hikes by December."
-    },
-    {
-      "id": "te:markets:566195",
-      "time": "2026-07-13 10:08:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Fall as Week Begins — The Shanghai Composite fell 0.7% to 3,968 on Monday, while the Shenzhen Component dropped 1.6% to 14,808, extending losses from the previous week as market sentiment remained cautious amid renewed US-Iran tensions. Over the weekend, fresh US missile strikes on Iran intensified tensions between Washington and Tehran, with both countries giving contradictory signals on the status of shipping through the Strait of Hormuz. The latest escalation clouded prospects for negotiations over Iran's nuclear program and a broader resolution to the conflict. Meanwhile, China reportedly urged major refiners to maintain strong fuel output to bolster energy security as disruptions to Persian Gulf oil shipments loom, despite ample fuel stockpiles and subdued consumption. Among individual stocks, BYD (-3.2%), Luxshare Precision Industry (-2.5%), and Hangzhou Hikvision Digital (-1.7%) led the declines. In contrast, energy shares outperformed, with PetroChina up 0.9% and CNOOC gaining 2.2%."
-    },
-    {
-      "id": "4983456",
-      "time": "2026-07-13 10:07:11",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美國兩年期國債收益率觸及17個月高點4.2393%，美聯儲基金期貨暗示12月前將加息39個基點。"
-    },
-    {
-      "id": "mkt:019f5939-f873-7aab-8d4b-2c7f738aa546",
-      "time": "2026-07-13 10:06:39",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Preview: State Council Information Office to hold press briefing on 1H 2026 national economy at 10:00 a.m. on Wednesday, July 15, 2026】The State Council Information Office will hold a press briefing at 10:00 a.m. on July 15, 2026. National Bureau of Statistics deputy director Mao Shengyong will present 1H 2026 national economic performance and take questions."
     }
   ]
 }
