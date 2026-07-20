@@ -1,7 +1,37 @@
 {
-  "updated": "2026-07-21 01:29:25",
-  "count": 19108,
+  "updated": "2026-07-21 01:33:27",
+  "count": 19109,
   "items": [
+    {
+      "id": "mkt:019f8096-39e8-7aab-8e13-457fb0e959c4",
+      "time": "2026-07-21 01:32:36",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "【UK PM Burnham unexpectedly names former defence minister John Healey as chancellor】New UK prime minister Andy Burnham has unexpectedly appointed former defence secretary John Healey as chancellor of the exchequer. Healey served as a junior Treasury minister from 2002–07 but was not regarded as a frontrunner; Home Secretary Shabana Mahmood and Energy Secretary Ed Miliband had been viewed as leading candidates. Burnham’s pick may reflect a preference for a chancellor who will implement his agenda rather than pursue independent policy. Healey resigned from Keir Starmer’s government in protest at delays to planned defence spending increases amid rising external threats; his resignation was widely seen as a decisive blow to Starmer’s prospects."
+    },
+    {
+      "id": "4998393",
+      "time": "2026-07-21 01:31:34",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【英國首相伯納姆任命前國防大臣約翰·希利擔任財相】英國新任首相安迪·伯納姆出人意料地任命基爾·斯塔默政府時期的前國防大臣約翰·希利為財政大臣。希利曾於2002年至2007年擔任財政部初級官員，但並不被視為財相這一重要職位的熱門人選，反而是內政大臣謝巴娜·馬哈茂德和能源大臣埃德·米利班德被認為更有希望。任命希利可能反映出伯納姆的用人思路。與伯納姆關係密切的人士稱，他希望新財政大臣能夠執行其議程，而不是自作主張。希利此前曾辭去斯塔默政府國防大臣職務，以抗議政府未能為軍費開支計劃提供足夠資金，這個決定給斯塔默繼續留任的希望造成沉重打擊。"
+    },
+    {
+      "id": "te:markets:568303",
+      "time": "2026-07-21 01:31:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Trim Gains — US stocks trimmed early gains and traded mixed on Monday as escalating geopolitical tension weighed against fresh support from chip producers. The S&P 500 and the Nasdaq 100 were slightly higher, while the Dow fell over 200 points. Long-term Treasury yields rose after the US and Iran extended strikes on Monday, while Houthi forces stated they would attack commercial vessels from Saudi Arabia in the Red Sea. Fuel costs remained elevated and risked pro-inflationary pressures that support the outlook of a Fed rate hike this year. Apple and Oracle dropped around the 3% level, while Morgan Stanley and Goldman Sachs erased early gains to fall over 1% each. Still, chip producers gained as markets continued to gauge whether AI hyperscalers are due to slow spending on AI infrastructure in the next quarters. Micron and Sandisk rose 5%. Alphabet gained 2% ahead of its guidance update on Wednesday, the latest bellwether for both chip and software development capital expenditure."
+    },
     {
       "id": "4998392",
       "time": "2026-07-21 01:26:10",
@@ -175728,30 +175758,6 @@
         "其他"
       ],
       "text": "【匈牙利國會透過《基本法》修正案 提前終止總統任期】當地時間13日，匈牙利國會投票透過了《基本法》第十七次修正案，其中包括終止現任總統舒尤克的總統任期。此前，匈牙利總理毛焦爾威脅稱，如果不辭職就會透過修改《基本法》結束總統任期。舒尤克2024年經國會選舉當選匈牙利總統，其任期持續至2029年。（央視新聞）"
-    },
-    {
-      "id": "4985233",
-      "time": "2026-07-14 01:33:09",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "胡塞武裝：反擊即將到來。"
-    },
-    {
-      "id": "mkt:019f5c86-d110-7aab-8d61-ea0c173768a5",
-      "time": "2026-07-14 01:29:26",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "S&P500"
-      ],
-      "text": "【Waller suggests delaying dot-plot release to day after FOMC meeting】Fed Governor Waller said he cannot speak for the full FOMC but can clarify the median rate projection, and proposed shifting publication of the Fed's dot plot to the day after FOMC meetings rather than releasing it the same day."
     }
   ]
 }
