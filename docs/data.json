@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-21 03:36:21",
-  "count": 19056,
+  "updated": "2026-07-21 03:40:23",
+  "count": 19060,
   "items": [
+    {
+      "id": "4998438",
+      "time": "2026-07-21 03:39:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普簽署行政令，保障關鍵國防供應鏈安全。"
+    },
+    {
+      "id": "mkt:019f810a-7571-7aab-8e14-55bb270f2813",
+      "time": "2026-07-21 03:39:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iran interior minister visits Pakistan to push trade targets and discuss regional tensions】Iran aims to raise bilateral trade with Pakistan from about $3 bln to $10 bln and to increase daily freight capacity at their shared border, Interior Minister Momeni said during a visit to Islamabad. Momeni met Pakistani officials to press implementation of agreements signed by the two leaders in June. His delegation included officials from the foreign, oil, industry, finance, agriculture and transport ministries. Talks will also cover a Pakistan-mediated US‑Iran memorandum of understanding and current regional tensions."
+    },
+    {
+      "id": "mkt:019f8108-665c-7aab-8e14-4ef6473fc77a",
+      "time": "2026-07-21 03:37:19",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices rose on the 20th】NYMEX August WTI light sweet crude futures closed up $0.74 at $83.23 per barrel, +0.9%. ICE September Brent crude futures closed up $1.12 at $89.22 per barrel, +1.27%."
+    },
+    {
+      "id": "mkt:019f8108-404c-7aab-8e14-4259facac3b7",
+      "time": "2026-07-21 03:37:09",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【Dollar index rises on 20th】The dollar index rose 0.19% to 100.957 at the New York close. EUR/USD 1.1415 (prev. 1.1436); GBP/USD 1.3436 (prev. 1.3454); USD/JPY 162.50 (prev. 162.45); USD/CHF 0.8100 (prev. 0.8075); USD/CAD 1.4059 (prev. 1.4011); USD/SEK 9.6856 (prev. 9.6497)."
+    },
+    {
+      "id": "4998437",
+      "time": "2026-07-21 03:36:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價20日上漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲74美分，收於每桶83.23美元，漲幅為0.9%；9月交貨的倫敦布倫特原油期貨價格上漲1.12美元，收於每桶89.22美元，漲幅為1.27%。"
+    },
     {
       "id": "mkt:019f8106-b56a-7aab-8e14-3ba69570c35b",
       "time": "2026-07-21 03:35:28",
@@ -175217,14 +175267,6 @@
         "國際"
       ],
       "text": "市場資訊：美國總統特朗普將於週四發表演講，或將披露最新解密情報，內容涉及外國勢力干預2020年大選的相關計劃。"
-    },
-    {
-      "id": "4985312",
-      "time": "2026-07-14 03:37:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊媒：正調查東南部地區的爆炸】伊朗革命衛隊旗下媒體報道，相關部門正在調查伊朗東南部恰巴哈爾與科納拉克地區傳來的六聲劇烈爆炸。爆炸發生的具體地點暫未明確，目前未再聽到新的爆炸聲。近幾日夜間美軍已對恰巴哈爾多處區域實施打擊。"
     }
   ]
 }
