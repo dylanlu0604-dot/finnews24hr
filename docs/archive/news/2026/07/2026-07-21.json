@@ -1,7 +1,43 @@
 {
   "date": "2026-07-21",
-  "count": 30,
+  "count": 34,
   "items": [
+    {
+      "id": "mkt:019f805e-978b-7aab-8e12-83f8fe7ae2ec",
+      "time": "2026-07-21 00:31:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Iranian media: explosions heard in two southern provinces】Iranian media reported on the evening of the 20th that explosions were heard in southern Iran’s Hormozgan and Fars provinces."
+    },
+    {
+      "id": "4998357",
+      "time": "2026-07-21 00:31:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍方凌晨在法爾斯省擊落美方射彈】伊朗一名省級安全官員稱，伊朗武裝部隊於週一凌晨在法爾斯省代什庫德市附近偵測並摧毀了一枚美方射彈。該官員並未透露這枚射彈的型號，也未說明殘骸是否造成損毀或人員傷亡。"
+    },
+    {
+      "id": "4998356",
+      "time": "2026-07-21 00:30:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基：已與英國首相伯納姆通話。"
+    },
+    {
+      "id": "te:markets:568296",
+      "time": "2026-07-21 00:29:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Canadian Dollar Slips on Cooling Inflation — The Canadian dollar weakened to around 1.41 per USD in July, pulling back from a near one-month high following the release of June's inflation report. Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%. Gasoline prices increased at a slower pace, while the Bank of Canada's preferred core inflation measures fell to their lowest levels in more than five years, reinforcing the BoC's view that the impact of higher energy costs stemming from the Middle East oil supply crisis is not spreading broadly throughout the economy. The softer inflation data reduced expectations of further Bank of Canada interest rate hikes this year, lowering the relative yield that attracts foreign capital. At its latest meeting, the Bank of Canada kept its key policy rate unchanged at 2.25%, as widely expected."
+    },
     {
       "id": "4998355",
       "time": "2026-07-21 00:27:51",
