@@ -1,7 +1,85 @@
 {
   "date": "2026-07-21",
-  "count": 195,
+  "count": 203,
   "items": [
+    {
+      "id": "mkt:019f8120-61ca-7aab-8e14-8ee3f21352e0",
+      "time": "2026-07-21 04:03:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump orders defense supply-chain review to secure critical wartime links】The White House on Monday signed an executive order requiring U.S. defense contractors to map key supply chains and identify components sourced from adversary countries. White House trade adviser Peter Navarro called it 'battlefield preparation' and said 'if a missile system depends on a foreign-controlled supplier, the war minister must know before firing.' Senior U.S. officials said the review will cover entire production chains from raw materials to final military deliveries, with particular focus on lower-tier suppliers; they did not provide a timetable for rulemaking."
+    },
+    {
+      "id": "4998454",
+      "time": "2026-07-21 04:03:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "IREN Ltd.（IREN）收漲20%，創2024年11月份以來最大單日漲幅，該公司上調2026年ARR目標至超過40億美元，簽訂28億美元新客戶合同。"
+    },
+    {
+      "id": "4998453",
+      "time": "2026-07-21 04:01:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMC院線收漲27%，創2024年5月份以來最大單日漲幅，該公司二季度調整後EBITDA超過分析師預期。"
+    },
+    {
+      "id": "mkt:019f811e-bb32-7aab-8e14-82bd35e45519",
+      "time": "2026-07-21 04:01:42",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alibaba",
+        "JD.com",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "BABA.N",
+        "Impact bullish",
+        "JD.O"
+      ],
+      "text": "【US close: major indexes down; Alibaba up 4.6%】US equities closed lower on Monday: Dow Jones Industrial Average down 0.59%, S&P 500 down 0.19%, Nasdaq Composite down 0.05%. Notable movers: Circle (CRCL.N) +8%; Oracle (ORCL.N) down nearly 4%; Tesla (TSLA.O) down nearly 3%; SK Hynix (SKHY.O) down 1.8%. Nasdaq Golden Dragon China Index +0.9%; Alibaba (BABA.N) +4.6%; JD.com (JD.O) +3%."
+    },
+    {
+      "id": "4998452",
+      "time": "2026-07-21 04:01:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：美國棉花優良 / 極佳長勢佔比 45%，上週為 44%，去年同期 57%。"
+    },
+    {
+      "id": "4998451",
+      "time": "2026-07-21 04:00:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部（USDA）：美國大豆長勢評級優良 / 極佳佔比 66%，較上週 65% 有所上升，去年同期為 68%。"
+    },
+    {
+      "id": "4998450",
+      "time": "2026-07-21 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.59%，標普500指數跌0.19%，納指跌0.05%。Carvana Co.跌4.69%，甲骨文跌3.99%，KKR & Co L.P.跌3.94%，聯合包裹跌3.85%，墨式燒烤跌3.83%，Moderna跌3.77%，Warner Bros Discovery跌3.76%。“七姐妹”方面：微軟漲2.15%，谷歌漲1.55%，亞馬遜漲1.12%，英偉達漲0.28%，Meta Platforms跌0.02%，蘋果跌2.11%，特斯拉跌2.97%。"
+    },
+    {
+      "id": "4998449",
+      "time": "2026-07-21 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收漲0.85%】1藥網漲6.34%，金山雲漲5.24%，中進醫療漲5.23%，網易有道漲4.88%，阿里巴巴漲4.71%。"
+    },
     {
       "id": "4998448",
       "time": "2026-07-21 03:52:25",
