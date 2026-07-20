@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-20 08:21:47",
-  "count": 19027,
+  "updated": "2026-07-20 08:25:38",
+  "count": 19026,
   "items": [
+    {
+      "id": "4996459",
+      "time": "2026-07-20 08:24:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【成都：建立上市後備企業多渠道發掘機制】中共成都市委辦公廳、成都市人民政府辦公廳釋出《關於最佳化產業發展金融服務的實施意見》，其中提出，完善後備企業培育體系。建立上市後備企業多渠道發掘機制，發揮行業主管部門、區（市）縣、行業協會商會資訊優勢，加強與金融機構早期聯動，對高成長潛力企業動態入庫培育。發揮“蓉易上”等政策性金融平臺作用，助力企業規範股改、規範治理，夯實上市融資基礎。"
+    },
+    {
+      "id": "4996458",
+      "time": "2026-07-20 08:24:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：或許加拿大應該為這場火災支付一些賠償金。"
+    },
+    {
+      "id": "4996457",
+      "time": "2026-07-20 08:24:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談加拿大：必須阻止這些火災蔓延進來。"
+    },
+    {
+      "id": "mkt:019f7ce8-c899-7aab-8dfc-ec3df83ad35b",
+      "time": "2026-07-20 08:24:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump says he maintains good relations with Canadian Prime Minister Kani."
+    },
+    {
+      "id": "4996456",
+      "time": "2026-07-20 08:24:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：與卡尼關係良好。"
+    },
+    {
+      "id": "4996455",
+      "time": "2026-07-20 08:23:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們今晚再次對伊朗實施了沉重打擊。"
+    },
+    {
+      "id": "mkt:019f7ce8-1a53-7aab-8dfc-e53eb3eb5346",
+      "time": "2026-07-20 08:23:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "President Trump said tonight the United States again inflicted heavy damage on Iran."
+    },
+    {
+      "id": "mkt:019f7ce7-6176-7aab-8dfc-df1242f23a52",
+      "time": "2026-07-20 08:22:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Yonhap reports the South Korean government will use repayable official development assistance (ODA) to support economic growth in developing countries while promoting overseas expansion of South Korean AI companies and technologies."
+    },
+    {
+      "id": "mkt:019f7ce6-ddab-7aab-8dfc-d7dfc64b9a86",
+      "time": "2026-07-20 08:22:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ship fire in Strait of Hormuz】UK Maritime Trade Operations said early on July 20 it received reports that a vessel caught fire about 8 nautical miles (14.8 km) northwest of Kumzar, Oman. The cause of the fire is unconfirmed. Kumzar lies at the entrance to the Strait of Hormuz, opposite Iran."
+    },
+    {
+      "id": "4996453",
+      "time": "2026-07-20 08:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談世界盃：我覺得這太棒了。"
+    },
+    {
+      "id": "4996452",
+      "time": "2026-07-20 08:21:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【霍爾木茲海峽一船隻起火 】英國海上貿易行動辦公室當地時間今天（7月20日）凌晨通報稱，接獲報告顯示，在阿曼庫姆扎爾西北約8海里（14.8公里）處，一艘船隻起火。起火原因尚未得到證實。據悉，庫姆扎爾地處霍爾木茲海峽入口處，與伊朗隔海相望。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "4996451",
+      "time": "2026-07-20 08:21:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【渣打集團旗下合資企業計劃本月推出港元穩定幣】據《香港經濟日報》報道，渣打銀行的合資企業Anchorpoint預計將於本月底宣佈推出穩定幣。Anchorpoint計劃推出HKDAP，一種與港元掛鉤的穩定幣。"
+    },
     {
       "id": "mkt:019f7ce5-b7df-7aab-8dfc-cc0dc468bb15",
       "time": "2026-07-20 08:20:57",
@@ -175475,116 +175575,6 @@
         "國際"
       ],
       "text": "【日經指數上漲0.3% AI樂觀情緒蓋過中東緊張局勢】隨著圍繞人工智慧的樂觀情緒蓋過中東緊張局勢，日經指數抹去早盤跌幅，上漲0.3%，至68,774.71點。SK海力士在美國市場的歷史性首秀有助於恢復投資者對AI交易的興趣。“半導體題材是一個支撐因素，“澳大利亞國民銀行高階經濟學家Taylor Nugent在評論中表示。在日本基準指數表現最好的成分股中，Lasertec上漲4.9%，Furukawa Electric上漲4.3%，Tokyo Ohka Kogyo上漲4.05%。然而，在美國表示於週日晚間對伊朗發動新一輪打擊之後，日本股市的漲幅可能受限。"
-    },
-    {
-      "id": "te:markets:566163",
-      "time": "2026-07-13 08:25:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Rises 3% — US heating oil futures rose about 3% to above $3.65 per gallon on Monday, recouping losses from recent sessions as escalating hostilities between the US and Iran heightened concerns over fuel supplies. The US launched another wave of strikes on Iran on Sunday after hitting 140 targets a day earlier in response to an IRGC attack on a container ship in the Strait of Hormuz. Iran retaliated by targeting US military facilities across Jordan, Kuwait, Bahrain, and Oman. While Tehran claimed it had closed the Strait of Hormuz until further notice, US Central Command maintained that the strategic waterway remained open to lawful shipping. The latest flare-up further dimmed hopes for diplomacy after reports last week indicated technical talks were underway. Meanwhile, Russia said it would suspend diesel exports and become a net importer as repeated Ukrainian attacks and higher crude prices disrupted operations at key refineries, adding to supply concerns."
-    },
-    {
-      "id": "4983268",
-      "time": "2026-07-13 08:25:18",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士在納斯達克強勢首秀後 其首爾股市股價一度下跌4.4%】週一早盤，SK海力士股價一度下跌4.4%。此前，這家全球領先的人工智慧記憶體晶片製造商在週五備受矚目的美國上市後，其納斯達克首日交易大漲12.8%。這家韓國記憶體晶片製造商透過以每股149美元的價格發行美國存託憑證（ADR），籌集了超過260億美元。該股開盤價為170美元，較發行價高出14%，最終在首個交易日收盤時上漲12.8%。韓國基準股指KOSPI指數下跌0.4%。"
-    },
-    {
-      "id": "4983267",
-      "time": "2026-07-13 08:24:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士在納斯達克強勢首秀後，其首爾股市股價一度下跌4.4%。"
-    },
-    {
-      "id": "4983266",
-      "time": "2026-07-13 08:24:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中際旭創：行業算力需求和頻寬需求真實存在，會反映到光模組廠商業績上】中際旭創7月12日稱，2027—2028年會出現更高頻寬的光連線產品，行業技術趨勢仍在加速，行業的算力需求和頻寬的需求都是真實存在的，會反映到光模組廠商的訂單、收入和業績上。關於近期市場對CSP客戶及行業需求的懷疑，公司目前看到行業需求依然強勁，且沒有看到大客戶的需求指引出現下修的情況。"
-    },
-    {
-      "id": "mkt:019f58dc-4dd3-7aab-8d48-65e19aae14b8",
-      "time": "2026-07-13 08:24:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Zhongji Xuchuang says Q2 gross-margin outlook remains stable】Zhongji Xuchuang said on July 12 it expects Q2 gross margin to remain stable and does not foresee a material decline from component shortages or input-price rises. It expects materials to ease to varying degrees in H2, said inventory is ample and that margins should see marginal improvement in H2, and expressed confidence in maintaining future gross-margin stability."
-    },
-    {
-      "id": "4983265",
-      "time": "2026-07-13 08:24:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡交易所：6月證券日均成交額21億新加坡元。"
-    },
-    {
-      "id": "4983264",
-      "time": "2026-07-13 08:23:56",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信證券：仍看好美股科技主線，目前更偏好海外算力鏈中下游環節】中信證券研報稱，注意到美國企業的AI採用率正在提高，整體企業部門的科技投資強度符合長期趨勢，相信市場競爭機制將推動更多企業用AI提升工作效率，這將帶來全新的算力服務、AI模型與應用的需求。中信證券仍看好美股的科技主線，目前更偏好海外算力鏈的中下游環節，且看好美股相較於日韓股市的吸引力。"
-    },
-    {
-      "id": "mkt:019f58db-96d2-7aab-8d48-5d99756ec943",
-      "time": "2026-07-13 08:23:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "SGX: June securities market turnover rose 72% YoY to SGD 44.6 bln; derivatives volume rose 31% YoY to 34.3 mln contracts."
-    },
-    {
-      "id": "4983263",
-      "time": "2026-07-13 08:23:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中際旭創：二季度公司毛利率預期仍保持穩定】中際旭創7月12日稱，二季度公司毛利率預期仍保持穩定，不會由於物料緊張、物料漲價等因素出現明顯下滑。今年下半年，物料預計將出現不同程度的緩解，公司備料非常充分，下半年會有邊際改善。公司有信心保持未來毛利率的穩定。"
-    },
-    {
-      "id": "4983262",
-      "time": "2026-07-13 08:22:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林東遼縣啟動14個臨時安置點 409戶村民提前轉移】受颱風“巴威”影響，預計到14日夜間，吉林東遼將出現大到暴雨，東遼河流域洪水風險較高。目前，當地啟動14個臨時安置點，覆蓋東遼縣全部鄉鎮街。"
-    },
-    {
-      "id": "4983261",
-      "time": "2026-07-13 08:22:18",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "訊息人士稱，三星電子計劃將韓國龍仁晶圓廠的投產時間從原計劃的2030-2031年提前至2029年。"
-    },
-    {
-      "id": "4983260",
-      "time": "2026-07-13 08:22:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "新加坡交易所：6月證券市場成交額同比飆升72%，達446億新加坡元。"
-    },
-    {
-      "id": "4983259",
-      "time": "2026-07-13 08:21:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "【澳大利亞證券和投資委員會：德意志銀行因交易申報違規繳納200萬澳元罰款】澳大利亞證券和投資委員會（ASIC）表示，德意志銀行因26萬餘筆場外衍生品交易申報不實，已繳納這筆罰金。監管機構核查發現該行在2024年10月至2025年8月期間違反衍生品交易相關監管規定，隨即向德意志銀行開具違規處罰通知書。澳證監會稱，在208個營業日內，該行未能採取一切合理措施準確申報20483筆未了結交易、244091筆已平倉或到期交易的“交易方向”欄位資料。澳證監會表示，德意志銀行全程配合調查、足額繳納罰款，並正在落實整改措施，杜絕後續申報差錯。簽收並履行處罰通知書不代表承認存在過錯或法律責任，德意志銀行此舉不視作其違反澳證監會監管條例。"
     }
   ]
 }
