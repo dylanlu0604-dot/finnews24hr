@@ -1,7 +1,18 @@
 {
-  "updated": "2026-07-21 02:09:01",
-  "count": 19080,
+  "updated": "2026-07-21 02:12:58",
+  "count": 19075,
   "items": [
+    {
+      "id": "4998405",
+      "time": "2026-07-21 02:10:56",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【DoubleLine：美債收益率上升將有助於美聯儲維持利率不變】DoubleLine正在加碼較短期限的政府債券，理由是美聯儲主席凱文·沃什在投資者中的信譽將有助於央行今年維持利率不變。該公司全球主權債和新興市場投資組合經理Bill Campbell表示，處於高位的美國國債收益率正推高借貸成本，如果資料繼續顯示通脹趨緩，可能促使美聯儲維持利率不變。"
+    },
     {
       "id": "4998404",
       "time": "2026-07-21 02:07:39",
@@ -175400,67 +175411,6 @@
         "焦點"
       ],
       "text": "WTI原油突破78美元/桶，日內漲9.23%。"
-    },
-    {
-      "id": "te:markets:566494",
-      "time": "2026-07-14 02:12:52",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hits 4-week High — Brent increased to 83.01 USD/Bbl, the highest since June 2026. Over the past 4 weeks, Brent Crude Oil lost 0.29%, and in the last 12 months, it increased 19.82%."
-    },
-    {
-      "id": "mkt:019f5cad-c180-7aab-8d62-b1ab359b86e7",
-      "time": "2026-07-14 02:11:58",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Houthi militants threaten attacks on Saudi targets】Yemeni Houthi militants posted a social-media video on the evening of July 13 local time threatening attacks on multiple Saudi targets. The video included aerial images and coordinates for King Khalid International Airport (Riyadh), King Abdulaziz International Airport (Jeddah), King Fahd International Airport (Dammam) and ports and other key facilities, and was captioned \"retaliation is coming\"."
-    },
-    {
-      "id": "4985264",
-      "time": "2026-07-14 02:11:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破83美元/桶，日內漲9.20%。"
-    },
-    {
-      "id": "mkt:019f5cad-055a-7aab-8d62-ab21d35fb9af",
-      "time": "2026-07-14 02:11:10",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Iran's IRGC says it shot down two US-made Lucas drones】Iran's Islamic Revolutionary Guard Corps said on the evening of July 13 local time that its air-defence systems shot down two US-made Lucas drones earlier over Bandar Abbas port and the city of Lar in Fars province."
-    },
-    {
-      "id": "4985263",
-      "time": "2026-07-14 02:09:19",
-      "tags": [
-        "其他",
-        "焦點",
-        "國際"
-      ],
-      "text": "【胡塞武裝威脅攻擊沙特目標】葉門胡塞武裝當地時間7月13日晚透過社交媒體釋出影片，威脅攻擊沙特多個目標。在胡塞武裝公佈的影片中，出現了沙特首都利雅得的哈立德國王國際機場、吉達的阿卜杜勒阿齊茲國王國際機場、達曼的法赫德國王國際機場，以及港口等重要設施的航拍圖片和經緯度座標，並配以“回擊即將到來”的文字。（CCTV國際時訊）"
-    },
-    {
-      "id": "4985262",
-      "time": "2026-07-14 02:09:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲9%，現報77.84美元/桶。"
     }
   ]
 }
