@@ -1,7 +1,28 @@
 {
   "date": "2026-07-21",
-  "count": 79,
+  "count": 81,
   "items": [
+    {
+      "id": "mkt:019f8082-9178-7aab-8e13-0de3b87727ef",
+      "time": "2026-07-21 01:11:08",
+      "tags": [
+        "MKT News",
+        "CVX.N",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Chevron (CVX.N) shut production at the Petronius offshore platform and evacuated some offshore personnel due to a tropical depression; other Gulf of Mexico assets are operating normally."
+    },
+    {
+      "id": "4998386",
+      "time": "2026-07-21 01:10:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大影響評估署：加拿大宣佈與魁北克省達成草案協議，以加快魁北克省重大專案的建設進度。"
+    },
     {
       "id": "4998385",
       "time": "2026-07-21 01:09:02",
