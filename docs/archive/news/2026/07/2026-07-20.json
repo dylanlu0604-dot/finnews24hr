@@ -1,7 +1,153 @@
 {
   "date": "2026-07-20",
-  "count": 662,
+  "count": 678,
   "items": [
+    {
+      "id": "4996678",
+      "time": "2026-07-20 09:54:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中際旭創成交額超160億元】中際旭創成交額超160億元，漲超4%；新易盛成交額超110億元，漲超5%；天孚通訊成交額超30億元，漲超3%。"
+    },
+    {
+      "id": "4996677",
+      "time": "2026-07-20 09:54:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股氦氣板塊短線走低】中船特氣跌16.73%，水發燃氣、廣匯能源、首華燃氣、ST洲際跟跌。"
+    },
+    {
+      "id": "mkt:019f7d3a-c827-7aab-8dfe-f58ec9c3e18c",
+      "time": "2026-07-20 09:53:52",
+      "tags": [
+        "MKT News",
+        "600519.SS",
+        "Impact bullish"
+      ],
+      "text": "China A-share baijiu sector rallied: Gujinggong jumped more than 7%, Kweichow Moutai and Huangtai rose over 4%, with Luzhou Laojiao, Shede Spirits, Shanxi Fenjiu and Wuliangye also higher. Kweichow Moutai said effective 00:00 on July 18, 2026, the platform retail price for Feitian 53% vol 500ml (2026) will be raised to 1,639 yuan per bottle from 1,539 yuan, and the sales contract price will increase to 1,369 yuan from 1,269 yuan."
+    },
+    {
+      "id": "4996676",
+      "time": "2026-07-20 09:53:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗石油重鎮周邊區域 】據伊朗媒體7月19日報道，伊朗西南部石油重鎮阿巴丹市傳出爆炸聲，伊朗方面確認阿巴丹市的郊區當天遭到美軍導彈襲擊，目前沒有造成人員傷亡。據瞭解，阿巴丹是伊朗重要工業城市，多家煉油廠聚集於此。"
+    },
+    {
+      "id": "4996675",
+      "time": "2026-07-20 09:53:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國交易所啟動側車熔斷機制，暫停科斯達克程式化賣單交易。"
+    },
+    {
+      "id": "4996674",
+      "time": "2026-07-20 09:53:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國務卿魯比奧比奧結束髮言，啟程前往馬尼拉出席東盟相關會議。"
+    },
+    {
+      "id": "4996673",
+      "time": "2026-07-20 09:52:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：上半年全市貨物進出口總額達到2.55萬億元 創歷史同期新高】上海市統計局釋出2026年上半年上海市國民經濟執行情況解讀，上半年，全市固定資產投資同比增長6.8%。主要領域中，工業投資、城市基礎設施投資、社會事業投資同比分別增長19.2%、18.8%、19.5%。主要行業中，在三大先導產業蓬勃發展帶動下，智慧模型、算力平臺等領域裝置更新持續加大投入，拉動資訊傳輸、軟體和資訊科技服務業投資同比增長1.4倍。貨物進出口總額創歷史新高。上半年，全市貨物進出口總額達到2.55萬億元，創歷史同期新高。其中，進口額、出口額同比分別增長17.4%、20.1%。高技術產品是重要的增長動能，進出口總額6621.4億元，同比增長21.6%，其中，電子資訊、高階裝備產品進出口分別增長20.7%、26.5%。"
+    },
+    {
+      "id": "4996672",
+      "time": "2026-07-20 09:52:42",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "A股大金融板塊走強，中國太保、湘財股份雙雙漲超4%，廣發證券、新華保險、中國人保等多股漲超3%，國泰海通、華安證券、長江證券等個股跟漲。據媒體報道，證監會將於7月20日召開上市公司、證券公司及基金機構座談會，聽取各方關於促進資本市場平穩健康發展的意見建議。"
+    },
+    {
+      "id": "mkt:019f7d39-2b79-7aab-8dfe-ef55b4be3b7f",
+      "time": "2026-07-20 09:52:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【Shanghai: 1H manufacturing output of three leading industries up 14.5% YoY】Shanghai statistics bureau said 1H manufacturing output for the city's three leading industries rose 14.5% YoY. By sector: integrated circuit manufacturing +19.5% YoY, artificial intelligence manufacturing +21.8%, and biopharmaceutical manufacturing +7.2%. Equipment manufacturing expanded: railway, shipbuilding, aerospace and other transport equipment output +15.6% YoY; electrical machinery and equipment manufacturing rose 9.8%, led by photovoltaic equipment and power transmission/distribution sectors."
+    },
+    {
+      "id": "mkt:019f7d38-ffe2-7aab-8dfe-e382ccb84b61",
+      "time": "2026-07-20 09:51:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "Mainland A-share financials firmed: China Pacific Insurance and Xiangcai Co. rose over 4%; GF Securities, New China Life Insurance and PICC climbed more than 3%; Guotai Haitong, Huaan Securities and Changjiang Securities also advanced. Media reported the CSRC will hold a forum on July 20 with listed companies, securities firms and fund institutions to solicit views on promoting stable, healthy development of China’s capital markets."
+    },
+    {
+      "id": "4996671",
+      "time": "2026-07-20 09:51:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海：上半年全市三大先導產業製造業產值同比增長14.5%】上海市統計局釋出2026年上半年上海市國民經濟執行情況解讀，三大先導產業引領增長。上半年，全市三大先導產業製造業產值同比增長14.5%。其中，積體電路製造業、人工智慧製造業、生物醫藥製造業產值同比分別增長19.5%、21.8%、7.2%。裝備製造業穩步增長。上半年，鐵路、船舶、航空航天和其他運輸裝置製造業產值同比增長15.6%；電氣機械和器材製造業產值在光伏裝置、輸配電等行業帶動下延續快速增長態勢，增長9.8%。"
+    },
+    {
+      "id": "4996670",
+      "time": "2026-07-20 09:51:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲5%，現報8504.00元。"
+    },
+    {
+      "id": "4996669",
+      "time": "2026-07-20 09:51:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【白酒板塊持續走高 貴州茅臺漲近4%】白酒板塊持續走高，古井貢酒漲近7%，貴州茅臺漲近4%，金徽酒、瀘州老窖、皇臺酒業、山西汾酒跟漲。訊息面上。貴州茅臺公告自7月18日起將飛天53%vol 500ml貴州茅臺酒2026i茅臺平臺零售價由1539元/瓶調整為1639元/瓶，銷售合同價由1269元/瓶調整為1369元/瓶，這是公司年內第三次提價。相關ETF方面，消費ETF匯添富（159928）漲2.14%，成交額1.14億元，消費ETF廣發（560680）漲2.09%，成交額629.38萬元。"
+    },
+    {
+      "id": "4996668",
+      "time": "2026-07-20 09:51:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【煤炭板塊震盪反彈 大有能源、鄭州煤電雙雙漲停】早盤煤炭板塊震盪反彈，大有能源、鄭州煤電漲停，遼寧能源觸及漲停，中煤能源、昊華能源、兗礦能源跟漲。訊息面上，資料顯示，截至7月17日秦港動力煤價格升至821元/噸，環比上漲29元/噸。本週煤炭指數上漲2.79%。6月全國原煤產量同比驟降9.7%，創近十年最大降幅，晉陝蒙樣本煤礦產量同比降幅也擴大至4.4%。南方電廠日耗升至612萬噸/天，庫存可用天數降至19.6天，補庫需求開始釋放。"
+    },
+    {
+      "id": "4996667",
+      "time": "2026-07-20 09:50:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超2%，現報25072.221點；恒生科技指數現漲2.996%。"
+    },
+    {
+      "id": "4996666",
+      "time": "2026-07-20 09:50:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【釀酒板塊異動拉昇 威龍股份漲停】釀酒板塊異動拉昇，威龍股份漲停，古井貢酒、瀘州老窖、燕京啤酒、貴州茅臺等股上漲。"
+    },
     {
       "id": "4996665",
       "time": "2026-07-20 09:49:48",
