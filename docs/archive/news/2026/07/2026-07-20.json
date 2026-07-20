@@ -1,7 +1,66 @@
 {
   "date": "2026-07-20",
-  "count": 1206,
+  "count": 1213,
   "items": [
+    {
+      "id": "mkt:019f7e16-5a4d-7aab-8e02-8a2f2c22a915",
+      "time": "2026-07-20 13:53:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Hanmi Semiconductor said it plans to supply Tesla (TSLA.O) for the automaker's U.S. TeraFab factory."
+    },
+    {
+      "id": "4997073",
+      "time": "2026-07-20 13:53:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【廣發證券劉晨明：重點關注三大核心積極因素】廣發證券策略首席分析師劉晨明表示，當前市場國內多重積極因素正在積聚，最值得關注的是ETF增量資金明確、產業趨勢延續強勁、半年報業績具備支撐這三大核心積極因素。具體來看，一是，寬基ETF再度出現淨流入跡象。 7月13日至18日當週，主力資金重點持倉ETF日均淨流入184億元（合計920億元），所有寬基ETF日均淨流入305億元（合計1525億元）。劉晨明表示，歷史經驗表明，寬基ETF出現類似規模的淨流入後，市場均迎來階段性底部。二是，AI產業趨勢延續強勁，景氣度未被破壞。 全球AI滲透率持續提升，AI算力鏈的“量價”景氣擴散仍在延續，訂單能見度高、盈利兌現確定性較強，半年報業績有望驗證產業高景氣。三是，市場內生穩定機制持續發揮作用。 上市公司回購意願升溫、監管部門推動市場內生穩定機制建設、“看不清管不住則不展業”的合規導向貫穿始終，有助於防範系統性風險。此外，市場微觀資金面並不悲觀。"
+    },
+    {
+      "id": "mkt:019f7e15-606d-7aab-8e02-8396947c1a4c",
+      "time": "2026-07-20 13:52:37",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【Iran foreign minister says contingency plan for Supreme Leader assassination coded \"110\"】In an interview released July 19, Iran foreign minister Araghchi said Tehran had pre-established contingency procedures for a possible assassination of the Supreme Leader under code \"110.\" He said the Supreme Leader had reviewed and approved the plan, that all relevant forces understood the code, and that its activation led to an immediate, orderly and organized retaliatory response."
+    },
+    {
+      "id": "4997072",
+      "time": "2026-07-20 13:52:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓美半導體：目標向特斯拉在美國的Terafab工廠供貨。"
+    },
+    {
+      "id": "4997071",
+      "time": "2026-07-20 13:52:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗西部連發兩次5級以上地震】據伊朗伊斯蘭共和國通訊社今天（7月20日）報道，當地時間今天早晨7點13分以及7點18分，伊朗西部克爾曼沙阿省發生兩次地震，震級分別為5.2級和5.7級。震源深度分別為8公里和13公里。（CCTV國際時訊）"
+    },
+    {
+      "id": "4997070",
+      "time": "2026-07-20 13:51:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷首都發生球迷騷亂 至少15人被逮捕】阿根廷首都布宜諾斯艾利斯19日晚發生球迷騷亂，警方至少逮捕15人。當天下午，阿根廷隊在美加墨世界盃決賽中0:1不敵西班牙隊，獲得亞軍，未能實現蟬聯之夢。比賽結束後，數千名阿根廷球迷聚集在布宜諾斯艾利斯地標建築方尖碑前，他們揮舞國旗，敲鑼打鼓表達對阿根廷隊的支援。當晚11時30分許，有球迷向在現場執行安保任務的警員投擲石塊和瓶子，至少造成3名警察受傷；有人試圖翻越方尖碑周圍的圍欄，隨後被警察制服；期間還發生了手機等財物被盜案件。警方出動水炮車驅散了人群，至少逮捕了15人。據警方訊息，初步調查顯示，事件的起因為一暴力團伙襲擊警察。此前，阿根廷隊7日在本屆世界盃逆轉擊敗埃及隊後，方尖碑附近發生球迷騷亂致多名警察和路人受傷，至少19人被逮捕。（新華社）"
+    },
     {
       "id": "mkt:019f7e13-07ff-7aab-8e02-7c12f7393a4a",
       "time": "2026-07-20 13:50:04",
@@ -10,6 +69,14 @@
         "Important"
       ],
       "text": "Germany's June PPI MoM due in 10 minutes."
+    },
+    {
+      "id": "4997069",
+      "time": "2026-07-20 13:50:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【影視院線板塊震盪走弱，儒意電影觸及跌停】影視院線板塊震盪走弱，儒意電影觸及跌停，幸福藍海跌超10%，光線傳媒、華智數媒、金逸影視、百納千成、橫店影視等跟跌。"
     },
     {
       "id": "4997068",
