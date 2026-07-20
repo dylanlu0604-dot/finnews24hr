@@ -1,7 +1,140 @@
 {
-  "updated": "2026-07-20 07:58:32",
+  "updated": "2026-07-20 08:02:25",
   "count": 19020,
   "items": [
+    {
+      "id": "4996423",
+      "time": "2026-07-20 08:01:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌5%。"
+    },
+    {
+      "id": "mkt:019f7cd4-0087-7aab-8dfc-53b35105715e",
+      "time": "2026-07-20 08:01:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【South Korea KOSPI opens 4.16% lower】South Korea's KOSPI opened down 283.95 points (-4.16%) at 6,536.65 on July 20 (Mon). Samsung Electronics and SK Hynix fell more than 5%."
+    },
+    {
+      "id": "4996422",
+      "time": "2026-07-20 08:01:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌4.4%，報6523.62。"
+    },
+    {
+      "id": "4996421",
+      "time": "2026-07-20 08:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3990美元/盎司，日內跌0.72%。"
+    },
+    {
+      "id": "4996420",
+      "time": "2026-07-20 08:01:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌5%。"
+    },
+    {
+      "id": "te:economy:568013",
+      "time": "2026-07-20 08:00:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 5-week High — Australia 10 Year Government Bond Yield increased to 4.96%, the highest since June 2026. Over the past 4 weeks, Australia 10Y Bond Yield gained 17.20 basis points, and in the last 12 months, it increased 61.70 basis points."
+    },
+    {
+      "id": "4996419",
+      "time": "2026-07-20 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.6%，至6643.58點。"
+    },
+    {
+      "id": "te:markets:568012",
+      "time": "2026-07-20 08:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 7-week High — Corn increased to 450.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 9.06%, and in the last 12 months, it increased 11.15%."
+    },
+    {
+      "id": "4996418",
+      "time": "2026-07-20 07:59:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "據洲際交易所（ICE）資料，荷蘭近月天然氣合約漲幅超5%，報60.40歐元/兆瓦時。"
+    },
+    {
+      "id": "mkt:019f7cd1-8e84-7aab-8dfc-4d5996cffa37",
+      "time": "2026-07-20 07:58:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency cited local residents reporting several explosions in Sirik, southern Iran."
+    },
+    {
+      "id": "mkt:019f7cd1-776e-7aab-8dfc-43f5504af25e",
+      "time": "2026-07-20 07:58:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iranian media report multiple explosions; Tabriz said hit in alleged U.S. strike】Iranian media reported in the early hours of July 20 local time that northwest city Tabriz was struck in a U.S. military attack. Multiple explosions were reported in Mahshahr and Imam Khomeini Port in Khuzestan province, and in Chabahar in Sistan-Baluchestan province, where the Konarak area activated air-defence systems."
+    },
+    {
+      "id": "4996417",
+      "time": "2026-07-20 07:58:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方的邁赫爾通訊社表示，當地居民報告稱在伊朗南部錫裡克地區聽到數次爆炸聲響。"
+    },
+    {
+      "id": "4996416",
+      "time": "2026-07-20 07:58:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門釋出停課通知】澳門特區政府今日（20日）釋出停課通知，因暴雨關係，按照規定，中學教育上午停課，小學、幼兒及特殊教育全日停課，校方應確保校舍開放並安排人員照顧已返抵學校的學生，直至情況適宜學生安全回家為止。"
+    },
+    {
+      "id": "4996415",
+      "time": "2026-07-20 07:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗多地 】據伊朗媒體報道，當地時間今天（7月20日）凌晨，伊朗西北部城市大不里士遭美軍襲擊。西南部胡齊斯坦省的馬赫沙赫爾及伊瑪目霍梅尼港傳出數次爆炸聲。東南部錫斯坦－俾路支斯坦省的恰巴哈爾傳出數次爆炸聲，科納拉克地區啟動防空系統。"
+    },
     {
       "id": "mkt:019f7cd0-c379-7aab-8dfc-3b3f0cca7ef2",
       "time": "2026-07-20 07:58:03",
@@ -175380,128 +175513,6 @@
         "其他"
       ],
       "text": "澳大利亞證券及投資委員會（ASIC）：德意志銀行因系統性交易報告違規支付200萬澳元罰金。"
-    },
-    {
-      "id": "mkt:019f58c7-a1b3-7aab-8d48-13461086ff35",
-      "time": "2026-07-13 08:01:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's KOSPI index slipped below 7,400, down 1.13% on the day."
-    },
-    {
-      "id": "mkt:019f58c7-7725-7aab-8d48-0b7ae6f8f39b",
-      "time": "2026-07-13 08:01:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan's Nikkei 225 opened 226.26 points lower, down 0.33% at 68,331.47 points on Monday, July 13."
-    },
-    {
-      "id": "4983230",
-      "time": "2026-07-13 08:01:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【公安部網安局公佈25起涉汛涉災網路謠言違法犯罪典型案例】公安部網安局7月13日公佈25起涉汛涉災網路謠言違法犯罪典型案例。這25起典型案例涉及廣東、廣西、浙江、湖北等多地，個別網民為牟取私利，惡意編造涉汛涉災虛假內容，嚴重干擾防汛救災工作，造成不良影響，公安機關網安部門迅速行動、嚴厲打擊，共刑事拘留4人、行政處罰23人，相關賬號已被平臺封禁處置。網警提示，網路不是法外之地，請廣大網民規範網上言行，切勿為了博取流量、博取關注，搬運、拼接或利用AI軟體等方式編造涉汛涉災虛假內容，共同營造清朗網路空間。（新華社）"
-    },
-    {
-      "id": "mkt:019f58c7-698c-7aab-8d48-0112d6f080e6",
-      "time": "2026-07-13 08:01:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "South Korea's KOSPI opened down 47.75 points, or 0.64%, at 7,428.19 on Monday, July 13. SK Hynix fell 3.5%."
-    },
-    {
-      "id": "4983229",
-      "time": "2026-07-13 08:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "【灤河2026年第1號洪水形成 各項防禦應對有序推進】近日，受持續強降雨影響，海河流域灤河水位快速上漲，11日18點，海河流域灤河潘家口水庫入庫流量達2240立方米每秒，“灤河2026年第1號洪水”正式形成。當地第一時間啟動應急響應，各項防禦應對工作正有序推進。"
-    },
-    {
-      "id": "mkt:019f58c7-0a0b-7aab-8d47-fdf8ea36a21f",
-      "time": "2026-07-13 08:01:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea customs data show imports for July 1-10 rose 17.4% YoY and exports rose 53.9% YoY."
-    },
-    {
-      "id": "4983228",
-      "time": "2026-07-13 08:00:49",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤下跌0.9%，至7412.03點。"
-    },
-    {
-      "id": "4983227",
-      "time": "2026-07-13 08:00:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國海關資料顯示，7月1-10日出口同比增長53.9%。"
-    },
-    {
-      "id": "4983226",
-      "time": "2026-07-13 08:00:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國海關資料顯示，7月1-10日進口同比增長17.4%。"
-    },
-    {
-      "id": "4983225",
-      "time": "2026-07-13 08:00:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市開盤】日經225指數上午開盤報68410.63點，跌幅0.21％。韓國綜合股價指數（KOSPI）開盤下跌0.9％，至7412.03點。"
-    },
-    {
-      "id": "4983224",
-      "time": "2026-07-13 07:59:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩大新品類扛起增量 助力債券ETF規模逼近9000億元】寬基ETF規模持續縮水背景下，場內指數掛鉤ETF規模格局迎來重大洗牌。截至7月10日，掛鉤中證AAA科創債指數的ETF總規模一舉反超掛鉤滬深300指數的ETF規模，成為當下ETF市場跟蹤規模最大指數。與此同時，受益於穩健收益、適配市場的久期特徵與供需格局改善，全品類科創債ETF成立以來規模大幅擴容；疊加基準做市信用債ETF同步放量，兩大新品類拉動債券ETF整體規模逼近9000億元。隨著債券ETF正式納入質押式協議回購優質擔保品，機構配置工具價值進一步凸顯，行業規模增長空間仍被機構看好。"
-    },
-    {
-      "id": "4983223",
-      "time": "2026-07-13 07:59:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "由於美國與伊朗軍事衝突持續引發國際市場對原油供應的擔憂，國際原油期貨價格12日在新一週交易開始後顯著上漲，漲幅超3%。（新華社）"
-    },
-    {
-      "id": "4983222",
-      "time": "2026-07-13 07:59:13",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【布倫特逼近80美元 美伊對霍爾木茲海峽是否維持通航各執一詞】隨著美國和伊朗互相開展新一輪攻擊且雙方對霍爾木茲海峽是否仍維持通航各執一詞，油價應聲上漲。在上週上漲5.4%後，布倫特原油價格升至每桶78美元以上；WTI原油價格接近每桶74美元；歐洲天然氣價格上漲一度上漲2.7%。伊朗表示，霍爾木茲海峽即日起關閉，直至另行通知，但美國中央司令部否認了這一說法，並宣稱美軍已展開新一輪攻擊，以確保該水道的航行自由。"
-    },
-    {
-      "id": "4983221",
-      "time": "2026-07-13 07:58:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩大熱門ETF規模分化加劇 行業探尋兩大破局方向】近日，此前發行一度火爆的自由現金流、中證A500兩大指數基金接連亮起清盤預警紅燈，背後是賽道同質化競爭加劇、市場資金風向切換帶來的劇烈規模分化。證券時報基金研究院統計最新資料發現，兩類熱門指數基金中場外產品超七成在成立後遭遇規模縮水，大量尾部產品持續失血淪為迷你基金，而頭部標的規模卻逆勢大幅擴張。公募業內人士分析，年內資金持續湧向AI科技主題基金，非科技類產品普遍遭遇規模縮水；賽道競爭白熱化之下，同類產品的規模分化也成為常態。與此同時，各家機構也在實踐中持續挖掘差異化路徑，指數基金的生態搭建與策略創新，已然成為行業公認的兩大發展方向。"
     }
   ]
 }

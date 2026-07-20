@@ -1,7 +1,140 @@
 {
   "date": "2026-07-20",
-  "count": 311,
+  "count": 325,
   "items": [
+    {
+      "id": "4996423",
+      "time": "2026-07-20 08:01:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價下跌5%。"
+    },
+    {
+      "id": "mkt:019f7cd4-0087-7aab-8dfc-53b35105715e",
+      "time": "2026-07-20 08:01:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【South Korea KOSPI opens 4.16% lower】South Korea's KOSPI opened down 283.95 points (-4.16%) at 6,536.65 on July 20 (Mon). Samsung Electronics and SK Hynix fell more than 5%."
+    },
+    {
+      "id": "4996422",
+      "time": "2026-07-20 08:01:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）下跌4.4%，報6523.62。"
+    },
+    {
+      "id": "4996421",
+      "time": "2026-07-20 08:01:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守3990美元/盎司，日內跌0.72%。"
+    },
+    {
+      "id": "4996420",
+      "time": "2026-07-20 08:01:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價下跌5%。"
+    },
+    {
+      "id": "te:economy:568013",
+      "time": "2026-07-20 08:00:46",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Bond Yield Hits 5-week High — Australia 10 Year Government Bond Yield increased to 4.96%, the highest since June 2026. Over the past 4 weeks, Australia 10Y Bond Yield gained 17.20 basis points, and in the last 12 months, it increased 61.70 basis points."
+    },
+    {
+      "id": "4996419",
+      "time": "2026-07-20 08:00:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤下跌2.6%，至6643.58點。"
+    },
+    {
+      "id": "te:markets:568012",
+      "time": "2026-07-20 08:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Corn Hits 7-week High — Corn increased to 450.75 USd/BU, the highest since May 2026. Over the past 4 weeks, Corn gained 9.06%, and in the last 12 months, it increased 11.15%."
+    },
+    {
+      "id": "4996418",
+      "time": "2026-07-20 07:59:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "據洲際交易所（ICE）資料，荷蘭近月天然氣合約漲幅超5%，報60.40歐元/兆瓦時。"
+    },
+    {
+      "id": "mkt:019f7cd1-8e84-7aab-8dfc-4d5996cffa37",
+      "time": "2026-07-20 07:58:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mehr News Agency cited local residents reporting several explosions in Sirik, southern Iran."
+    },
+    {
+      "id": "mkt:019f7cd1-776e-7aab-8dfc-43f5504af25e",
+      "time": "2026-07-20 07:58:50",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iranian media report multiple explosions; Tabriz said hit in alleged U.S. strike】Iranian media reported in the early hours of July 20 local time that northwest city Tabriz was struck in a U.S. military attack. Multiple explosions were reported in Mahshahr and Imam Khomeini Port in Khuzestan province, and in Chabahar in Sistan-Baluchestan province, where the Konarak area activated air-defence systems."
+    },
+    {
+      "id": "4996417",
+      "time": "2026-07-20 07:58:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方的邁赫爾通訊社表示，當地居民報告稱在伊朗南部錫裡克地區聽到數次爆炸聲響。"
+    },
+    {
+      "id": "4996416",
+      "time": "2026-07-20 07:58:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【澳門釋出停課通知】澳門特區政府今日（20日）釋出停課通知，因暴雨關係，按照規定，中學教育上午停課，小學、幼兒及特殊教育全日停課，校方應確保校舍開放並安排人員照顧已返抵學校的學生，直至情況適宜學生安全回家為止。"
+    },
+    {
+      "id": "4996415",
+      "time": "2026-07-20 07:58:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍襲擊伊朗多地 】據伊朗媒體報道，當地時間今天（7月20日）凌晨，伊朗西北部城市大不里士遭美軍襲擊。西南部胡齊斯坦省的馬赫沙赫爾及伊瑪目霍梅尼港傳出數次爆炸聲。東南部錫斯坦－俾路支斯坦省的恰巴哈爾傳出數次爆炸聲，科納拉克地區啟動防空系統。"
+    },
     {
       "id": "mkt:019f7cd0-c379-7aab-8dfc-3b3f0cca7ef2",
       "time": "2026-07-20 07:58:03",
