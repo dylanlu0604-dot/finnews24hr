@@ -1,7 +1,39 @@
 {
   "date": "2026-07-21",
-  "count": 111,
+  "count": 114,
   "items": [
+    {
+      "id": "4998402",
+      "time": "2026-07-21 01:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊對位於巴林、科威特的美軍據點發動三路協同打擊。"
+    },
+    {
+      "id": "mkt:019f80ae-3846-7aab-8e13-81cb287b25f4",
+      "time": "2026-07-21 01:58:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's embassy in France said US pressure and threats do not help secure shipping in the Strait of Hormuz and that engagement with Iran on the basis of mutual respect is the path to regional stability."
+    },
+    {
+      "id": "mkt:019f80ad-90ff-7aab-8e13-7a5d71ff3e18",
+      "time": "2026-07-21 01:58:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. Strategic Petroleum Reserve at lowest since March 1983】DOE data on July 20 showed SPR crude stocks fell about 5.1 mln bbl last week to 311.4 mln bbl, the lowest level since March 1983. Since late February, when the U.S. and Israel launched military action against Iran, SPR inventories have declined by 104.04 mln bbl through July 17."
+    },
     {
       "id": "4998401",
       "time": "2026-07-21 01:56:13",

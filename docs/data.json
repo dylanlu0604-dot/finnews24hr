@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-21 01:57:05",
-  "count": 19086,
+  "updated": "2026-07-21 02:01:00",
+  "count": 19083,
   "items": [
+    {
+      "id": "4998402",
+      "time": "2026-07-21 01:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊對位於巴林、科威特的美軍據點發動三路協同打擊。"
+    },
+    {
+      "id": "mkt:019f80ae-3846-7aab-8e13-81cb287b25f4",
+      "time": "2026-07-21 01:58:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iran's embassy in France said US pressure and threats do not help secure shipping in the Strait of Hormuz and that engagement with Iran on the basis of mutual respect is the path to regional stability."
+    },
+    {
+      "id": "mkt:019f80ad-90ff-7aab-8e13-7a5d71ff3e18",
+      "time": "2026-07-21 01:58:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. Strategic Petroleum Reserve at lowest since March 1983】DOE data on July 20 showed SPR crude stocks fell about 5.1 mln bbl last week to 311.4 mln bbl, the lowest level since March 1983. Since late February, when the U.S. and Israel launched military action against Iran, SPR inventories have declined by 104.04 mln bbl through July 17."
+    },
     {
       "id": "4998401",
       "time": "2026-07-21 01:56:13",
@@ -175448,72 +175480,6 @@
         "國際"
       ],
       "text": "伊朗伊斯蘭議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲：此地是波斯灣，霍爾木茲海峽的規則由伊朗制定。奉勸那些慘敗方：少放空話虛張聲勢，公佈你們人員傷亡與經濟損失的真實數字。"
-    },
-    {
-      "id": "4985256",
-      "time": "2026-07-14 02:00:37",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "伊朗外交部長阿拉格齊：美國總統說得完全沒錯。任何保障商船安全通行霍爾木茲海峽的一方，都理應獲得相應服務補償。伊朗歷來是霍爾木茲海峽的守護者，並將永遠擔此職責。百分之二十的分成顯然過高，我們會秉持公平原則。"
-    },
-    {
-      "id": "mkt:019f5ca3-02d5-7aab-8d62-9574d12281f2",
-      "time": "2026-07-14 02:00:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's foreign minister said Iran has long been the guardian of the Strait of Hormuz and will remain so."
-    },
-    {
-      "id": "mkt:019f5ca2-edd4-7aab-8d62-8e384685658e",
-      "time": "2026-07-14 02:00:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US June government budget deficit $120.0 bln, vs consensus $128.3 bln; prior (May) deficit $292.6 bln."
-    },
-    {
-      "id": "mkt:019f5ca2-caa7-7aab-8d62-8324e4999cf6",
-      "time": "2026-07-14 02:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Government Budget (Jun) | actual -120000000000B | consensus -128300000000B | previous -292648000000B"
-    },
-    {
-      "id": "4985255",
-      "time": "2026-07-14 01:59:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月政府預算 -1203.05億美元，前值 -2926億美元。"
-    },
-    {
-      "id": "mkt:019f5ca2-402a-7aab-8d62-7882146cce48",
-      "time": "2026-07-14 01:59:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. to impose maritime blockade of Iranian ports from 04:00 on July 15】The Joint Maritime Information Center (JMIC), led by the U.S. Navy, said the U.S. military will begin a maritime blockade of all Iranian ports and coastal areas at 20:00 GMT on July 14 (04:00 local July 15). The blockade applies to all vessels regardless of flag and covers Iran’s entire coastline, including ports and oil terminals. Neutral ships transiting the Strait of Hormuz to non‑Iranian destinations will not be impeded. Humanitarian shipments will be allowed but subject to inspection."
     }
   ]
 }
