@@ -1,7 +1,48 @@
 {
   "date": "2026-07-21",
-  "count": 329,
+  "count": 333,
   "items": [
+    {
+      "id": "4998538",
+      "time": "2026-07-21 06:36:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報56.50美元/盎司。"
+    },
+    {
+      "id": "mkt:019f81ab-91c4-7aab-8e15-be78c1f3818d",
+      "time": "2026-07-21 06:35:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Senate Republican leader John Thune said a sanctions bill targeting Russia could soon be brought to the Senate floor for consideration."
+    },
+    {
+      "id": "te:markets:568320",
+      "time": "2026-07-21 06:35:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Copper Rises by 1.10% — Top commodity gainers are Copper (1.10%) and Silver (0.65%). Biggest losers are Platinum (-1.04%), Steel Rebar (-1.03%), Silicon (-0.60%) and Gold (-0.22%)."
+    },
+    {
+      "id": "4998537",
+      "time": "2026-07-21 06:34:52",
+      "tags": [
+        "資料",
+        "市場",
+        "國際"
+      ],
+      "text": "【週二重要財經資訊提醒（以下均為北京時間）】\n① 06:45 紐西蘭二季度CPI；\n② 08:00 韓國7月出口20天；\n③ 時間待定 2026中國汽車論壇開幕（7月21-23日）；\n④ 14:00 英國5月三個月ILO就業人數與失業率；\n⑤ 17:00 歐元區7月ZEW經濟景氣指數，德國7月ZEW經濟景氣指數；\n⑥ 美股盤前 通用汽車、3M等釋出業績報告。"
+    },
     {
       "id": "4998536",
       "time": "2026-07-21 06:33:45",
