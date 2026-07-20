@@ -1,7 +1,227 @@
 {
   "date": "2026-07-20",
-  "count": 572,
+  "count": 595,
   "items": [
+    {
+      "id": "mkt:019f7d2c-5dd5-7aab-8dfe-6b15c0bdd34c",
+      "time": "2026-07-20 09:38:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Tech Index rose more than 3%, led by gains in storage, optical communications, semiconductors and robotics."
+    },
+    {
+      "id": "4996614",
+      "time": "2026-07-20 09:38:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃板塊持續走高 利通電子、行雲科技漲停】算力租賃板塊持續走高，利通電子、中嘉博創、美利雲、紫光股份、行雲科技漲停，匯金股份漲超15%，並行科技、協創資料、亞康股份、宏景科技漲超10%，平治資訊、協鑫能科、浪潮資訊、杭鋼股份、阿爾特跟漲。相關ETF方面，雲端計算ETF廣發（159527）漲4.48%，成交額332.66萬元，雲端計算ETF易方達（516510）漲4.06%，成交額3240.95萬元。"
+    },
+    {
+      "id": "mkt:019f7d2c-0744-7aab-8dfe-60ab221502b9",
+      "time": "2026-07-20 09:37:45",
+      "tags": [
+        "MKT News",
+        "06869.HK",
+        "Impact bullish",
+        "01347.HK",
+        "06613.HK"
+      ],
+      "text": "Hong Kong-listed optical-communications stocks rallied: Changfei Optical Fibre & Cable (06869.HK) rose over 7%, Huahong Hongli (01347.HK) rose over 7%; Huiju Technology (01729.HK), Lens Technology (06613.HK), Xizhi Technology-P (01879.HK) and Cambridge Technology (06166.HK) also advanced."
+    },
+    {
+      "id": "4996613",
+      "time": "2026-07-20 09:37:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數漲超3％，恒生指數現漲1.62％。"
+    },
+    {
+      "id": "4996612",
+      "time": "2026-07-20 09:37:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通訊裝置板塊短線走高 共進股份、長盈通漲超10%】通訊裝置板塊短線走高，共進股份、長盈通漲超10%，萬隆光電、澄天偉業、震有科技、科瑞思、德科立等跟漲。相關ETF方面，通訊ETF廣發（159507）漲3.37%，成交額2185.78萬元，電信ETF易方達（563010）漲1.65%，成交額23.2萬元。"
+    },
+    {
+      "id": "4996611",
+      "time": "2026-07-20 09:37:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股光通訊股走強 長飛光纖光纜漲超6%】截至發稿，長飛光纖光纜漲6.44%，匯聚科技漲3.97%，藍思科技漲2.95%。"
+    },
+    {
+      "id": "4996610",
+      "time": "2026-07-20 09:37:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲2%，現報4563.40點。"
+    },
+    {
+      "id": "4996609",
+      "time": "2026-07-20 09:36:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥概念持續調整 昭衍新藥等多股跌停】早盤創新藥概念持續調整，昭衍新藥連續2日跌停，此外哈藥股份、靈康藥業、津藥藥業跌停，萬邦醫藥、博瑞醫藥、常山藥業、立方製藥、片仔癀均跌超5%。"
+    },
+    {
+      "id": "4996608",
+      "time": "2026-07-20 09:36:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺幣兌美元下跌0.4%至32.418。"
+    },
+    {
+      "id": "4996607",
+      "time": "2026-07-20 09:36:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "智譜跌超13%，MINIMAX-W跌超4%。"
+    },
+    {
+      "id": "mkt:019f7d2a-af3e-7aab-8dfe-599226aa2405",
+      "time": "2026-07-20 09:36:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02513.HK",
+        "00100.HK"
+      ],
+      "text": "Zhipu (02513.HK) fell more than 13%; MINIMAX-W (00100.HK) fell over 4%."
+    },
+    {
+      "id": "4996606",
+      "time": "2026-07-20 09:36:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "快手港股股價上漲4.3%，報每股45.16港元。"
+    },
+    {
+      "id": "4996605",
+      "time": "2026-07-20 09:36:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股英偉達概念板塊異動拉昇】利通電子觸及漲停，華勤技術、世運電路、蘅東光、景旺電子、恆潤股份、星環科技跟漲。"
+    },
+    {
+      "id": "mkt:019f7d2a-5da4-7aab-8dfe-535587cdedf4",
+      "time": "2026-07-20 09:35:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "399006.SZ",
+        "Impact bullish"
+      ],
+      "text": "ChiNext Index rose more than 3% as semiconductor stocks strengthened. Among constituents, Xingchen Technology hit its daily price limit and Xiechuang Data gained over 10%."
+    },
+    {
+      "id": "4996604",
+      "time": "2026-07-20 09:35:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲4%，現報5950.00元。"
+    },
+    {
+      "id": "mkt:019f7d29-f208-7aab-8dfe-4bb343f78437",
+      "time": "2026-07-20 09:35:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【A-share oilfield services jump; shipping may be next】A-share oilfield services and engineering stocks opened higher as markets price an oil-risk premium from reported disruptions to Strait of Hormuz transit. Iran says transit volumes have dropped to zero; that claim remains unverified by shipping data, but markets are already repricing supply-disruption risk across the energy chain. Oilfield services are the first movers: higher Middle East transport risk would lift crude and energy-security premia, supporting upstream E&P, oilfield services and engineering demand. If the Strait’s disruption shifts from a short-lived shock to a sustained maritime blockade, shipping would be the next sector to re-rate because of lower vessel turnaround, route diversion, port delays and higher war-risk premiums. Tankers, LNG carriers and Middle East routes could see rerouting, waiting times and compressed effective capacity, amplifying freight-rate sensitivity. Key market indicators to watch for a rotation into shipping: vessel transit volumes through the Strait, LNG rerouting data, war-risk insurance premia and Middle East freight-rate moves."
+    },
+    {
+      "id": "4996603",
+      "time": "2026-07-20 09:35:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【銅冠銅箔觸及跌停】銅冠銅箔觸及跌停，成交額14.61億元，封單7758手，跌幅20.00%。訊息面上，銅冠銅箔昨日公告，預計2026年上半年淨利潤為2.05億元-2.25億元，同比增長486.49%-543.70%。"
+    },
+    {
+      "id": "4996602",
+      "time": "2026-07-20 09:35:28",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲3%，現報4653.00元。"
+    },
+    {
+      "id": "4996601",
+      "time": "2026-07-20 09:35:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.00%，成分股中，科力股份漲12.74%，並行科技漲9.12%，納科諾爾漲7.39%，安達科技漲3.35%。"
+    },
+    {
+      "id": "te:economy:568038",
+      "time": "2026-07-20 09:35:03",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Jordan",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Jordan Inflation Eases Slightly, Remains Near 3-Year High — The annual inflation rate in Jordan slowed slightly to 2.79% in June 2026, down from 2.83% in May. However, the latest reading remained close to the highest level since April 2023, recorded in May, driven primarily by higher fuel prices. The country raised fuel prices by 11% in April, the first increase since the Middle East conflict began, and partially adjusted fuel prices in May. Transportation costs remained the main contributor to inflation, accounting for 1.27 percentage points, reflecting the impact of rising fuel prices. Rents followed, contributing 0.76 percentage points, while oils and fats accounted for 0.28 percentage points. On a monthly basis, the CPI rose 0.14% in June, easing from a 0.55% increase in May."
+    },
+    {
+      "id": "4996600",
+      "time": "2026-07-20 09:34:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿里巴巴港股股價上漲4.3%，報117.40港元。"
+    },
+    {
+      "id": "4996599",
+      "time": "2026-07-20 09:34:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲3％，上證指數漲1.31％，深證成指漲1.72％。半導體板塊走強。"
+    },
+    {
+      "id": "4996598",
+      "time": "2026-07-20 09:34:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲2%，現報7208.00點。"
+    },
     {
       "id": "4996597",
       "time": "2026-07-20 09:34:18",
