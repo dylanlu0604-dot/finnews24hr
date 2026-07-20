@@ -1,7 +1,934 @@
 {
   "date": "2026-07-20",
-  "count": 2792,
+  "count": 2893,
   "items": [
+    {
+      "id": "4998305",
+      "time": "2026-07-20 23:25:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部長巴羅：兩名使館官員週日遭到伊朗安全部門嚴重恐嚇。"
+    },
+    {
+      "id": "4998304",
+      "time": "2026-07-20 23:25:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國第五艦隊駐巴林總部拉響警報。"
+    },
+    {
+      "id": "4998303",
+      "time": "2026-07-20 23:24:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊美軍位於巴林和科威特的目標】伊朗伊斯蘭革命衛隊20日發表宣告稱，對位於巴林和科威特的美軍目標發動了襲擊，對其“造成沉重打擊”。宣告說，革命衛隊襲擊了美軍位於巴林薩基爾空軍基地的無人機維修機庫和薩勒曼港的艦艇裝置庫，以及位於科威特的阿里夫堅基地。"
+    },
+    {
+      "id": "4998302",
+      "time": "2026-07-20 23:24:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【西部利得基金管理有限公司：7月21日起恢復西部利得央企優選股票大額申購等業務】西部利得基金管理有限公司公告稱，為滿足投資者的投資需求，本公司決定自2026年7月21日起，在全部銷售渠道取消西部利得央企優選股票型證券投資基金大額申購、大額轉換轉入、大額定期定額投資業務的限制，恢復辦理本基金的正常申購、轉換轉入、定期定額投資業務，本次恢復涉及西部利得央企優選股票A（交易程式碼022164）、西部利得央企優選股票C（交易程式碼022165）兩類分級基金。"
+    },
+    {
+      "id": "mkt:019f801f-f187-7aab-8e11-42f34c931737",
+      "time": "2026-07-20 23:23:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reports the head of the Trump administration's AI safety agency has resigned."
+    },
+    {
+      "id": "4998301",
+      "time": "2026-07-20 23:22:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國總檢察長理查德·赫爾默辭職。"
+    },
+    {
+      "id": "mkt:019f801f-0e84-7aab-8e11-3806e822da27",
+      "time": "2026-07-20 23:22:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【Burnham says he will use \"any flexibility\" in fiscal rules; gilts slide】Prime Minister Burnham said he will seek to use \"any flexibility\" in government fiscal rules, prompting investor concern the government may further increase the UK’s heavy debt burden and driving gilts lower. The 10-year gilt yield rose intraday as much as 7 bps to 5.02%; the 30-year yield gained 8 bps to 5.73%. The move reflects sensitivity to any sign the new government might loosen budget discipline; UK borrowing costs are among the highest in developed markets and public debt is close to 100% of GDP. Markets had been buoyed ahead of Burnham taking office on Monday by expectations Home Secretary Shabana Mahmood would become chancellor, as she was viewed as a more fiscally conservative option."
+    },
+    {
+      "id": "4998300",
+      "time": "2026-07-20 23:22:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國特朗普政府人工智慧安全機構負責人辭職。"
+    },
+    {
+      "id": "te:markets:568281",
+      "time": "2026-07-20 23:21:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Monday — The FTSE 100 fell more than 0.5% on Monday, underperforming its European peers. Investors assessed the appointment of Andy Burnham as the UK's new prime minister, with attention now turning to his choice of Chancellor. Meanwhile, oil prices reversed earlier gains as markets balanced escalating tensions in the Middle East against renewed diplomatic efforts. Brent crude slipped back below $88 per barrel after earlier trading near $90, as reports that mediators had proposed a pause in US-Iran hostilities offset concerns over Yemen's Iran-backed Houthi rebels threatening maritime traffic from Saudi Arabia. Among heavyweight stocks, Shell fell 0.8%, HSBC lost 0.9%, AstraZeneca dropped 1.5%, GSK declined 1.8%, Unilever slipped 0.6%, Rolls-Royce eased 0.4%, while Rio Tinto retreated 1.5%."
+    },
+    {
+      "id": "4998299",
+      "time": "2026-07-20 23:20:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10年第7相的伯納姆能否破解英國困局】安迪·伯納姆今天（7月20日）就任英國首相。在就任後的首次公開講話中，伯納姆表示，自己是2016年6月英國舉行公投決定“脫歐”以來的第7任首相，“英國需要向世界證明，英國能夠重歸穩定”。伯納姆在講話中簡要闡述了本屆政府未來的施政重點，承諾新政府將更關注民生，採取措施解決生活水平下降等問題。伯納姆承諾，將建立一套全新的政治與經濟模式，並將於今年晚些時候公佈一項為期十年的國家發展計劃。（CCTV國際時訊）"
+    },
+    {
+      "id": "4998298",
+      "time": "2026-07-20 23:19:55",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中華人民共和國政府和泰王國政府聯合宣告】應中華人民共和國國務院總理李強邀請，泰王國總理阿努廷·參威拉軍於2026年7月16日至20日對中國進行正式訪問。訪問期間，中華人民共和國主席習近平會見阿努廷總理，國務院總理李強、全國人民代表大會常務委員會委員長趙樂際分別同阿努廷總理會談會見。阿努廷總理還赴上海市出席2026世界人工智慧大會。(新華社)"
+    },
+    {
+      "id": "mkt:019f801c-4e24-7aab-8e11-36d6a842c6b2",
+      "time": "2026-07-20 23:19:26",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) canceled today's Starlink launch; the rocket and payload remain in a safe state."
+    },
+    {
+      "id": "4998296",
+      "time": "2026-07-20 23:18:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "達美樂披薩首席財務官：業務持續受不利宏觀環境影響，該環境令消費者承壓，且競爭加劇。"
+    },
+    {
+      "id": "4998295",
+      "time": "2026-07-20 23:18:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國政府考慮凍結租金以緩解生活成本壓力】英國新任首相安迪·伯納姆表示，為緩解民眾生活成本壓力，政府正在研究包括凍結租金、降低能源賬單和下調公交票價在內的多項措施。政府將於週二公佈相關措施，目前仍在敲定細節。他說：“我們只想做一些能讓民眾切身感受到、且能迅速見效的實事。”當被問及是否考慮在公交票價、能源賬單和房租凍結方面提供援助時，伯納姆回答稱：“我們正在研究所有這些方案，但具體情況將於明天公佈。現在說會採取哪項具體措施還為時過早。”他表示：“這些措施無法解決所有問題，也不能完全消除民眾面臨的壓力，但它們能夠表明政府的施政方向，以及我們確實認真致力於幫助民眾減輕負擔。”"
+    },
+    {
+      "id": "4998294",
+      "time": "2026-07-20 23:18:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "達美樂披薩首席財務官：仍預計2026財年美國及國際市場可比銷售額將實現低個位數增長。"
+    },
+    {
+      "id": "mkt:019f801a-89a7-7aab-8e11-28776e9dc8f0",
+      "time": "2026-07-20 23:17:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【UK government weighs rent freeze to ease cost-of-living pressure】New prime minister Andy Burnham said the government is studying measures including a rent freeze, cuts to energy bills and lower bus fares to ease cost-of-living pressures. The government will announce measures on Tuesday; details are still being finalised. Burnham said all options were under consideration but it was too early to say which specific measures would be taken, and warned the steps would not solve all problems though they would signal the government’s intent to help households."
+    },
+    {
+      "id": "mkt:019f801a-51a1-7aab-8e11-201f22a2a479",
+      "time": "2026-07-20 23:17:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India's Ministry of External Affairs condemned attacks on commercial vessels."
+    },
+    {
+      "id": "mkt:019f8019-970b-7aab-8e11-19e35bdcb94a",
+      "time": "2026-07-20 23:16:28",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "The Russian Defence Ministry said Russian armed forces struck two vessels—a bulk carrier and a dry-cargo ship—carrying supplies to Ukrainian armed forces while en route to the port of Chernomorsk."
+    },
+    {
+      "id": "4998293",
+      "time": "2026-07-20 23:16:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報，俄軍打擊了兩艘分別為散貨船和乾貨船的海上船舶，這些船隻當時正向切爾諾莫斯克港運送供烏克蘭軍方使用的物資。"
+    },
+    {
+      "id": "4998292",
+      "time": "2026-07-20 23:16:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "SpaceX：取消今日星鏈衛星發射計劃，火箭與所載衛星均完好無損。"
+    },
+    {
+      "id": "mkt:019f8017-47ae-7aab-8e11-159e9ba5720e",
+      "time": "2026-07-20 23:13:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexican drug lord Ismael \"El Mayo\" Zambada was sentenced to life in prison in the United States."
+    },
+    {
+      "id": "4998291",
+      "time": "2026-07-20 23:13:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥大毒梟伊斯梅爾·\"埃爾·梅奧\"·桑巴達在美國被判終身監禁。"
+    },
+    {
+      "id": "4998290",
+      "time": "2026-07-20 23:11:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "西門子將收購Precision Innovations，以拓展人工智慧驅動的系統級晶片設計探索與最佳化業務。"
+    },
+    {
+      "id": "4998289",
+      "time": "2026-07-20 23:11:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊將出訪巴基斯坦。"
+    },
+    {
+      "id": "mkt:019f8015-16c3-7aab-8e11-0cca9b4c93be",
+      "time": "2026-07-20 23:11:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "IRNA reports Iran's foreign minister Araghchi will travel to Pakistan."
+    },
+    {
+      "id": "mkt:019f8014-3b78-7aab-8e11-0426feab5081",
+      "time": "2026-07-20 23:10:37",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "FTSE100"
+      ],
+      "text": "【Burnham to seek flexibility within UK fiscal rules】New UK prime minister Andy Burnham said he will seek to use the flexibility available within existing UK fiscal rules to fund the next budget. Asked whether he would increase borrowing to boost infrastructure investment, he said he would comply with current rules and make full use of any flexibility they permit. He added this would not put the UK economy at risk, said he has not taken such risks in prior roles, and described his approach as cautious. Burnham said he will set out funding sources and financing arrangements clearly in the budget."
+    },
+    {
+      "id": "te:markets:568280",
+      "time": "2026-07-20 23:08:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Holds At $88 — Brent crude oil steadied around $88 per barrel on Monday, hovering at a five-week high, after swinging sharply between gains and losses as traders weighed escalating Middle East tensions against renewed diplomatic efforts. Yemen's Iran-backed Houthi rebels announced a ban on maritime traffic from Saudi Arabia, raising concerns over Red Sea energy shipments, while recent attacks on oil tankers and facilities in Kuwait kept supply risks elevated. At the same time, reports suggested mediators had proposed a 10-day pause in hostilities between the US and Iran to revive their fragile interim peace agreement. Iran also confirmed it had received diplomatic proposals aimed at easing the conflict. Still, shipping through the Strait of Hormuz remained severely disrupted after fresh attacks on commercial vessels. Beyond the Middle East, supply concerns intensified after drone strikes again halted oil loading at Russia's Caspian Pipeline Consortium terminal on the Black Sea."
+    },
+    {
+      "id": "mkt:019f8012-1248-7aab-8e10-feeb5bf41525",
+      "time": "2026-07-20 23:08:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 30-year gilt yield climbed 9bp to 5.75%, the highest since May 20."
+    },
+    {
+      "id": "mkt:019f8011-d3b4-7aab-8e10-f735c3af76fb",
+      "time": "2026-07-20 23:07:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "GBP/USD slid about 20 pips in a short move, now 1.3423."
+    },
+    {
+      "id": "te:markets:568279",
+      "time": "2026-07-20 23:07:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Hovers at 5-Week High — Crude oil steadied around $82.5 per barrel on Monday, hovering at a five-week high, after swinging sharply between gains and losses as traders weighed escalating Middle East tensions against renewed diplomatic efforts. Yemen's Iran-backed Houthi rebels announced a ban on maritime traffic from Saudi Arabia, raising concerns over Red Sea energy shipments, while recent attacks on oil tankers and facilities in Kuwait kept supply risks elevated. At the same time, reports suggested mediators had proposed a 10-day pause in hostilities between the US and Iran to revive their fragile interim peace agreement. Iran also confirmed it had received diplomatic proposals aimed at easing the conflict. Still, shipping through the Strait of Hormuz remained severely disrupted after fresh attacks on commercial vessels. Beyond the Middle East, supply concerns intensified after drone strikes again halted oil loading at Russia's Caspian Pipeline Consortium terminal on the Black Sea."
+    },
+    {
+      "id": "4998288",
+      "time": "2026-07-20 23:07:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊兌美元重新整理日低，跌0.2%暫報1.3427。"
+    },
+    {
+      "id": "4998287",
+      "time": "2026-07-20 23:07:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英國30年期國債收益率上漲9個基點至5.75%，為2020年5月以來最高水平。"
+    },
+    {
+      "id": "4998286",
+      "time": "2026-07-20 23:07:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "靛藍航空與CFM國際簽署諒解備忘錄，為採購超千臺LEAP-1A發動機的創紀錄合作協議鋪路。"
+    },
+    {
+      "id": "mkt:019f8010-5593-7aab-8e10-ebee9f9bddc8",
+      "time": "2026-07-20 23:06:21",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Mitsui Sumitomo Financial Leasing has agreed to buy 65 Airbus A321neo and 35 A320neo aircraft, totaling 100 narrow-body jets."
+    },
+    {
+      "id": "4998285",
+      "time": "2026-07-20 23:06:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國內閣改組大幕拉開，多位大臣相繼辭職】英國住房大臣裡德、副首相拉米、財政大臣裡夫斯、商務大臣凱爾相繼辭職。其中裡夫斯據悉收到政府的另一份工作邀請，但已拒絕。此前英國執政黨工黨新任黨首安迪·伯納姆獲國王任命成為新一任首相，並被授權組建新一屆內閣。英國衛報政治主編髮文指出，（英國內閣改組的）序幕已經拉開。基爾·斯塔默的親密盟友史蒂夫·裡德成為首位離職的內閣大臣。但他在離開之際還不忘就工黨的（不）忠誠問題發出臨別抨擊。“基爾·斯塔默任命我進入內閣，以此展現了他的信任與忠誠。我選擇回饋這份忠誠，對此我毫不抱歉。這本應是一個良性運轉的團隊所應有的默契。我只希望，那些此前未曾對基爾表現出忠誠的人，如今能夠將這份忠誠轉向你。”"
+    },
+    {
+      "id": "mkt:019f8010-0b80-7aab-8e10-e5f42e96d362",
+      "time": "2026-07-20 23:06:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "【UK cabinet reshuffle under way as multiple ministers resign】Housing Secretary Steve Reed, Deputy Prime Minister David Lammy, Chancellor Rachel Reeves and Business Secretary Kyle have resigned. Reeves reportedly declined an alternative government post offered to her. The King has appointed Labour leader Andy Burnham as prime minister and authorised him to form a new cabinet. Reed, described as a close ally of Keir Starmer, was the first to leave and on departure attacked perceived disloyalty within the party, saying Starmer had appointed him as a show of trust which he repaid and urging those who had not shown loyalty to Starmer to shift it to Burnham."
+    },
+    {
+      "id": "mkt:019f800f-c96a-7aab-8e10-da444c778139",
+      "time": "2026-07-20 23:05:45",
+      "tags": [
+        "MKT News",
+        "AF.PA",
+        "Impact bearish"
+      ],
+      "text": "Air France suspends flights to and from Riyadh through July 24 and to and from Dubai through July 27."
+    },
+    {
+      "id": "4998284",
+      "time": "2026-07-20 23:05:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊多處美軍事目標 最新畫面公佈】當地時間7月20日，伊朗伊斯蘭革命衛隊釋出當天打擊多處美軍事目標的影片畫面。第一段影片畫面顯示，20日凌晨，伊朗發射導彈打擊美軍位於約旦和科威特的目標。第二段影片畫面顯示，伊朗海軍同時從三個方向對美軍發動猛烈打擊。（央視新聞）"
+    },
+    {
+      "id": "4998283",
+      "time": "2026-07-20 23:05:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "三井住友金融租賃向空客採購65架A321NEO、35架A320NEO客機。"
+    },
+    {
+      "id": "4998282",
+      "time": "2026-07-20 23:04:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "法航暫停往返迪拜的航班，直至7月27日（含當日）。"
+    },
+    {
+      "id": "4998281",
+      "time": "2026-07-20 23:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "法航暫停往返利雅得的航班至7月24日（含當日）。"
+    },
+    {
+      "id": "em:qqyh_ygyh:202607203813734390",
+      "time": "2026-07-20 23:03:50",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "【英國10年期國債收益率升至自7月14日以來最高位】英國10年期國債收益率升至自7月14日以來最高位，達到5.025%，盤中上漲7個基點。"
+    },
+    {
+      "id": "te:economy:568274",
+      "time": "2026-07-20 23:03:49",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Switzerland",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Swiss 10-Year Yield Near 2-Month High — Switzerland's 10-year government bond yield rose above 0.45%, further increasing to a near two-month high, as escalating tensions in the Middle East lifted inflation expectations. Oil prices surged amid intensifying hostilities between the US and Iran, raising energy costs and prompting markets to reassess the outlook for inflation, economic growth, and monetary policy. The Swiss National Bank left its key policy rate unchanged at 0% at its latest meeting, expecting inflation to remain little changed in the medium term. However, meeting minutes highlighted that policymakers see rising geopolitical tensions as a near-term inflation risk. The SNB also reiterated its willingness to intervene in the foreign exchange market to counter excessive franc appreciation and preserve price stability, while the IMF urged the central bank to remain cautious should a stagflation scenario emerge."
+    },
+    {
+      "id": "4998280",
+      "time": "2026-07-20 23:03:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣裡夫斯獲邀出任政府其他職務，但她予以拒絕。"
+    },
+    {
+      "id": "4998279",
+      "time": "2026-07-20 23:03:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "美元指數DXY突破101，日內漲0.25%。"
+    },
+    {
+      "id": "mkt:019f800d-8c93-7aab-8e10-d47f0cd7658c",
+      "time": "2026-07-20 23:03:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK 10-year gilt yield rose to 5.025%, the highest since July 14, up 7 bps intraday."
+    },
+    {
+      "id": "4998278",
+      "time": "2026-07-20 23:03:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：以色列高階官員表示，以色列國防軍將於當地時間週二從黎巴嫩南部的試點區域撤出。"
+    },
+    {
+      "id": "mkt:019f800d-6668-7aab-8e10-ceaa9cef8a57",
+      "time": "2026-07-20 23:03:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Chancellor Reeves was offered another government post but declined."
+    },
+    {
+      "id": "4998277",
+      "time": "2026-07-20 23:03:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率升至7月14日以來新高，報5.025%，單日上漲7個基點。"
+    },
+    {
+      "id": "4998276",
+      "time": "2026-07-20 23:02:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部表示，巴林第五次響起警報。"
+    },
+    {
+      "id": "mkt:019f800c-3a21-7aab-8e10-c55645d7be48",
+      "time": "2026-07-20 23:01:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Burnham said he will use all flexibility available within the UK's fiscal rules."
+    },
+    {
+      "id": "mkt:019f800b-849e-7aab-8e10-bce381452cec",
+      "time": "2026-07-20 23:01:06",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "UK Prime Minister Burnham said he would never take risks with the economy and reiterated his commitment to adhering to fiscal rules."
+    },
+    {
+      "id": "mkt:019f800b-647e-7aab-8e10-b7a82838cc0c",
+      "time": "2026-07-20 23:00:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "As of the 23:00 close, China's main futures contracts were mostly lower. Low-sulfur fuel oil (LU) slid nearly 3%; coking coal, p-xylene, PTA and coke fell over 2%; bottle-grade PET chips dropped about 2%; short fiber and fuel oil eased more than 1%. Soybean meal, rapeseed meal and Soybean No.2 rose over 1%."
+    },
+    {
+      "id": "em:qqyh_ygyh:202607203813731982",
+      "time": "2026-07-20 23:00:55",
+      "tags": [
+        "央行",
+        "英國央行"
+      ],
+      "text": "英國新任首相伯納姆表示，他將在英國財政規則範圍內運用“任何靈活性”。"
+    },
+    {
+      "id": "mkt:019f800b-4efb-7aab-8e10-ab871e2ee0a4",
+      "time": "2026-07-20 23:00:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Prime Minister Burnham pledged to use \"political capital\" to address social care issues."
+    },
+    {
+      "id": "mkt:019f800b-3d0e-7aab-8e10-a18f17e68c10",
+      "time": "2026-07-20 23:00:47",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact mixed",
+        "FTSE100"
+      ],
+      "text": "UK Prime Minister Burnham said he is considering adjusting the income threshold for the personal tax allowance, saying the change would have significant impact."
+    },
+    {
+      "id": "4998275",
+      "time": "2026-07-20 23:00:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國前財政大臣蕾切爾·裡夫斯發文告別 回顧執政成就並祝福新政府 】隨著英國新任首相安迪·伯納姆正式組建新一屆內閣，剛剛卸任的英國財政大臣蕾切爾·裡夫斯（Rachel Reeves）在社交媒體上發表長文，深情回顧了自己擔任財政大臣期間的施政成績，並對繼任者表達了祝福。裡夫斯在文中表示，擔任財政大臣是她一生中的榮幸。她指出，在過去兩年裡，工黨政府所作出的選擇，使得當下的英國經濟變得更加強大、公平且更具韌性。她強調，國家已經恢復了穩定，實現了投資落地，並正在推進經濟改革。裡夫斯回憶道，她在就任財政大臣時曾承諾，將以“普通工薪階層民眾的生活是否得到改善”作為衡量自己任期成敗的標準。她自豪地表示，這一目標已經實現。此外，她還特別寄語每一位年輕女性與女孩，希望她在任內的經歷能夠向她們證明，在追求抱負、希望與夢想時不應設有任何“天花板”。最後，裡夫斯向繼任者安迪·伯納姆及其新一屆內閣致以最美好的祝願。她表示，自己將全力支援新政府，並承諾將繼續發揮自己的作用，協助工黨政府落實國家亟需的變革。"
+    },
+    {
+      "id": "4998274",
+      "time": "2026-07-20 23:00:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯納姆稱，他將在英國財政規則框架內動用一切可用靈活調整空間。"
+    },
+    {
+      "id": "te:markets:568273",
+      "time": "2026-07-20 23:00:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Appreciates by 0.81% — Top currency gainers are Brazilian Real (0.81%), South Korean Won (0.52%), Mexican Peso (0.30%) and Dollar Index (0.23%). Biggest losers are Swedish Krona (-0.47%), Swiss Franc (-0.35%), Norwegian Krone (-0.33%), Euro (-0.29%), British Pound (-0.10%) and Japanese Yen (-0.09%)."
+    },
+    {
+      "id": "4998273",
+      "time": "2026-07-20 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】低硫燃料油連續跌2.95%，焦煤連續跌2.73%，PTA連續跌2.29%，焦炭連續跌2.23%，液化石油氣連續跌1.96%。"
+    },
+    {
+      "id": "4998272",
+      "time": "2026-07-20 23:00:00",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通將哈特福德保險集團的目標股價從每股149.00美元上調至每股152.00美元道，維持哈特福德保險的“中性”評級。"
+    },
+    {
+      "id": "mkt:019f800a-0947-7aab-8e10-9f45a10bdc10",
+      "time": "2026-07-20 22:59:29",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Bahrain's Interior Ministry said the national alert siren sounded for the fifth time."
+    },
+    {
+      "id": "mkt:019f8009-6543-7aab-8e10-96c7c8db5f75",
+      "time": "2026-07-20 22:58:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK Chancellor of the Exchequer Reeves resigns."
+    },
+    {
+      "id": "4998271",
+      "time": "2026-07-20 22:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為超充上線上汽大眾充電地圖】7月20日，華為超充官宣上線上汽大眾充電地圖，首批上線574座城市超充站和127座高速超充站，新增超1萬隻華為超充槍。"
+    },
+    {
+      "id": "4998270",
+      "time": "2026-07-20 22:57:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "民調顯示，英國首相伯納姆將難以贏回改革黨選民。"
+    },
+    {
+      "id": "4998269",
+      "time": "2026-07-20 22:57:35",
+      "tags": [
+        "資料"
+      ],
+      "text": "Monex表示，加拿大較低的CPI應該會消除加息預期。"
+    },
+    {
+      "id": "4998268",
+      "time": "2026-07-20 22:56:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "據法律網站資料，波音 737 MAX 相關案件中的投資者集體訴訟資格被駁回  。"
+    },
+    {
+      "id": "mkt:019f8007-8aaa-7aab-8e10-8901c06ae337",
+      "time": "2026-07-20 22:56:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "Axios reported senior Israeli officials said the Israel Defense Forces will withdraw from a pilot area in southern Lebanon on Tuesday local time."
+    },
+    {
+      "id": "mkt:019f8005-e8bf-7aab-8e10-80aa14b68404",
+      "time": "2026-07-20 22:54:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "US dollar index (DXY) crossed above 101, up 0.25% intraday."
+    },
+    {
+      "id": "mkt:019f8005-cc82-7aab-8e10-7a5b9e94b98e",
+      "time": "2026-07-20 22:54:51",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Sky News reported UK business secretary Kail has been dismissed."
+    },
+    {
+      "id": "4998267",
+      "time": "2026-07-20 22:54:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國官員：韓國必須自主研發本土前沿AI大模型】韓國科學技術部長官Bae Kyung-hoon週一表態：前沿人工智慧大模型或將演變為堪比核武器的地緣戰略資產，並重申韓國必須自主研發本土前沿AI大模型。 就在一個月前，美國政府以安全為由，突然封禁境外使用者呼叫Anthropic的Fable、Mythos兩款頂尖大模型。 BaeKyung-hoon恰逢就任部長一週年，他在相關會議上指出：“前沿層級AI大模型愈發具備核武器般的戰略屬性，部分國家想要掌控這類頂級AI系統的訴求只會愈發強烈。” 他補充道：“我們正在制定專項方案，並積極協調政府內部各相關部門。韓國必須迎難而上，自研前沿AI大模型，以此打造具備全球水準的人工智慧競爭力。”"
+    },
+    {
+      "id": "4998266",
+      "time": "2026-07-20 22:54:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國商務大臣凱爾遭解職。"
+    },
+    {
+      "id": "mkt:019f8004-b2ce-7aab-8e10-755e2036224c",
+      "time": "2026-07-20 22:53:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK Deputy Prime Minister Lammy announced his resignation. Earlier, Housing Secretary Reed had also resigned."
+    },
+    {
+      "id": "4998265",
+      "time": "2026-07-20 22:53:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國前副首相兼外交大臣戴維·拉米發文告別內閣 回顧執政成就並表態支援新政府】當地時間7月20日，隨著英國新任首相安迪·伯納姆組建新一屆內閣，剛剛卸任的英國前副首相兼外交大臣戴維·拉米（David Lammy）在社交媒體上發表長文，深情回顧了自己從政以來的經歷與執政成就，並對新政府表達了祝福。拉米在文中表示，能夠以托特納姆（Tottenham）普通家庭出身的背景，在基爾·斯塔默（Keir Starmer）政府中擔任外交大臣、司法大臣以及英國首位黑人副首相，是他一生中最大的榮幸。他對自己在野黨和執政期間取得的成就感到無比自豪。拉米坦言，他本會非常自豪地繼續在內閣任職，但新任首相有權組建自己的團隊。他祝願安迪·伯納姆及新一屆內閣取得一切成功。最後，拉米承諾將繼續為托特納姆的偉大人民服務，在後座議員席上支援工黨政府，並竭盡全力在下屆大選中擊敗英國改革黨（Reform）。"
+    },
+    {
+      "id": "mkt:019f8003-1c99-7aab-8e10-6ab888ad7c44",
+      "time": "2026-07-20 22:51:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders"
+      ],
+      "text": "Evergrande Auto said independent non-executive director Xie Wu has resigned."
+    },
+    {
+      "id": "4998264",
+      "time": "2026-07-20 22:50:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國副首相戴維・拉米辭職。"
+    },
+    {
+      "id": "4998263",
+      "time": "2026-07-20 22:50:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣西貴港市釋出暴雨紅色預警】廣西壯族自治區貴港市氣象臺2026年7月20日20時04分將覃塘區、港北區、港南區暴雨橙色預警訊號提升為紅色：過去1小時，覃塘區樟木鎮已出現60毫米的強降雨，目前強降雨雲團正緩慢東移，強度維持，預計未來3小時內覃塘區、港北區、港南區大部鄉鎮仍將有30到60毫米，局地80毫米以上強降雨，山洪地質災害、城鄉積澇氣象風險大，建議加強災害易發區和隱患點、山塘水庫及堤防等的巡查防範。（央視新聞）"
+    },
+    {
+      "id": "4998262",
+      "time": "2026-07-20 22:50:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "恒大汽車：謝武辭任獨立非執行董事。"
+    },
+    {
+      "id": "4998261",
+      "time": "2026-07-20 22:50:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，熱帶低氣壓結構正增強，已對墨西哥灣沿岸部分地區釋出新的預警。"
+    },
+    {
+      "id": "mkt:019f8000-6853-7aab-8e10-6506d889fddd",
+      "time": "2026-07-20 22:48:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Iran said a US airstrike hit Shiraz and caused no casualties, Fars News Agency reported."
+    },
+    {
+      "id": "4998260",
+      "time": "2026-07-20 22:48:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三大亮點看懂工業半年報 我國智慧算力規模翻番】2026年上半年工業和資訊化發展“半年報”釋出。今年上半年高技術製造業領跑，智慧算力規模同比翻倍，這份成績單亮點頻出，其中有三項關鍵資料與趨勢尤為值得關注。 亮點一：工業“壓艙石”作用凸顯 上半年規上工業增加值同比增長5.4%，工業對經濟增長貢獻率超35%，41個大類行業中32個保持增長。前5個月規模以上工業企業利潤總額同比增長18.8%，營業收入利潤率5.56%、為2024年以來月度累計最高水平。 亮點二：新動能引領經濟發展向新向優 資料顯示，規模以上裝備製造業、高技術製造業增加值分別同比增長9.3%和13.3%。這不僅是量的擴張，更是“向新向優”質效提升的體現。 亮點三：“以價換量”轉向“以智取勝”  四足機器人佔全球銷量近70%，人形機器人整機400餘款、超全球半數。1至5月造船新接訂單佔全球81.2%，穩居首位。人工智慧、半導體、新能源、生物醫藥等領域，湧現一批全球獨角獸企業，在國際標準研製、產業治理等方面積極貢獻“中國方案”。（央視財經）"
+    },
+    {
+      "id": "4998259",
+      "time": "2026-07-20 22:48:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯省副省長通報：設拉子市某地區遭到襲擊；未造成人員傷亡，目前評估小組已抵達現場。"
+    },
+    {
+      "id": "mkt:019f7fff-50ac-7aab-8e10-5d932f4577fd",
+      "time": "2026-07-20 22:47:46",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Goldman Sachs: Turkey may tolerate faster lira depreciation】Goldman Sachs economists expect Turkey may allow a faster depreciation of the Turkish lira to prioritize external balance stability over keeping inflation suppression as the top priority. Clemens Grafe and Basak Edizgil say the lira could depreciate at an annualized rate of more than 20% against the dollar, even if that slows disinflation. They add that faster currency weakness implies policy rates will need to remain higher than current market pricing to preserve financial stability amid ongoing de-dollarization. Turkey’s disinflation strategy partly relies on a real appreciation of the lira — i.e. nominal depreciation slower than inflation — to relieve price pressures. The lira has fallen about 9% versus the dollar year-to-date."
+    },
+    {
+      "id": "mkt:019f7ffe-2849-7aab-8e10-51afb203fba2",
+      "time": "2026-07-20 22:46:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's foreign minister Anita Anand said last year Canadian exports to Pakistan rose 65%, lifting bilateral goods trade to $1.2 billion. Anand said the momentum lays a solid foundation for expanded investment and broader market access for companies."
+    },
+    {
+      "id": "4998258",
+      "time": "2026-07-20 22:46:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
+    },
+    {
+      "id": "mkt:019f7ffc-61bf-7aab-8e10-4bb36ca78aa2",
+      "time": "2026-07-20 22:44:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Goldman Sachs says Turkey may tolerate an accelerated depreciation of the Turkish lira."
+    },
+    {
+      "id": "mkt:019f7ffb-9cef-7aab-8e10-40d94f6e7833",
+      "time": "2026-07-20 22:43:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Billionaire Mark Walter's company is under investigation by U.S. federal prosecutors."
+    },
+    {
+      "id": "mkt:019f7ffb-6074-7aab-8e10-3fc9cb495f66",
+      "time": "2026-07-20 22:43:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Transportation spokesperson: the U.S. is \"deeply concerned\" about any expansion of the EU Emissions Trading System."
+    },
+    {
+      "id": "4998257",
+      "time": "2026-07-20 22:43:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：億萬富翁馬克·沃爾特旗下多家公司遭聯邦檢察官調查。"
+    },
+    {
+      "id": "mkt:019f7ffa-3fcd-7aab-8e10-362aad7b77cb",
+      "time": "2026-07-20 22:42:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "People familiar with the matter said Iran's interior minister will meet Pakistan's chief of army staff in Islamabad tomorrow."
+    },
+    {
+      "id": "4998256",
+      "time": "2026-07-20 22:42:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泰晤士水務尋求再次上調水費，正值英國新任首相承諾推行改革】泰晤士水務正尋求再次上調英國家庭用水費用，以為英格蘭東南部的一座水庫專案提供資金。在已獲准將賬單上調約三分之一後，這家陷入困境公用事業公司再次向監管機構Ofwat提交了漲價申請。儘管遭到當地居民的批評，泰晤士水務表示仍需額外資金來建設一座耗資24億英鎊的水庫和一座水迴圈處理廠。"
+    },
+    {
+      "id": "4998255",
+      "time": "2026-07-20 22:40:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浦東國際機場口岸年度出入境人員率先突破2000萬】上海邊檢紹，截至7月19日，浦東機場口岸今年出入境客流突破2000萬人次，出入境客流穩居全國空港口岸首位。當前外籍入境、暑期出境、國際展會客流疊加，邊檢站多措並舉最佳化通關服務，全方位保障中外旅客順暢出行。（上海釋出）"
+    },
+    {
+      "id": "mkt:019f7ff7-f547-7aab-8e10-2c9789d9d737",
+      "time": "2026-07-20 22:39:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Russia accuses Ukraine of drone strikes on Caspian Pipeline Consortium loading tankers】On July 20 Russian foreign ministry spokesperson Zakharova said drone attacks between July 17 and 20 struck several tankers loading at the Caspian Pipeline Consortium offshore terminal, and blamed Ukraine. She called the incidents the fifth 'act of aggression' by the Kyiv authorities against the consortium's civilian facilities. Attacked vessels included a tanker serving Kazakhstan's oil industry; hulls were damaged but there were no oil spills or casualties. Zakharova said the strikes were intended to harm the economic interests of consortium participants, including Russia, Kazakhstan, the US and some Western European countries, and to further destabilize global oil markets. Kyiv has not responded."
+    },
+    {
+      "id": "4998254",
+      "time": "2026-07-20 22:39:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄外交部譴責烏克蘭多次襲擊裡海管道聯盟終端作業油輪】當地時間20日，俄羅斯外交部發言人扎哈羅娃發表宣告，譴責針對裡海管道聯盟海上石油終端油輪的襲擊事件，並稱襲擊是烏克蘭方面所為。她稱，這是基輔政權對該聯盟民用設施發動的第五次“侵略行為”。扎哈羅娃稱，在7月17日至20日期間，數艘油輪在裡海管道聯盟海上終端進行裝載作業時遭無人機襲擊，遇襲船隻包括服務於哈薩克石油工業的油輪。船體受損，但未發生石油洩漏和人員傷亡。（央視新聞）"
+    },
+    {
+      "id": "4998253",
+      "time": "2026-07-20 22:38:49",
+      "tags": [
+        "觀點"
+      ],
+      "text": "AIG目標價被摩根大通從86.00美元/股上調至90.00美元/股。"
+    },
+    {
+      "id": "4998252",
+      "time": "2026-07-20 22:38:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "道瓊斯指數跌幅擴大至0.30%，納斯達克綜合指數漲幅收窄至0.56%。"
+    },
+    {
+      "id": "mkt:019f7ff6-d092-7aab-8e10-236be7c856b8",
+      "time": "2026-07-20 22:38:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Lionheart Capital is nearing a deal to acquire Venezuelan oilfields valued at about $400 million."
+    },
+    {
+      "id": "mkt:019f7ff6-1717-7aab-8e10-187f050074bb",
+      "time": "2026-07-20 22:37:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK housing minister Reid announced his resignation."
+    },
+    {
+      "id": "4998251",
+      "time": "2026-07-20 22:37:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【耐威克回應“13歲寵物犬吃完狗糧後吐血身亡”：產品符合國家標準】7月20日，耐威克透過其微信公眾號釋出宣告稱，關於近日網傳13歲寵物犬吃完狗糧後吐血身亡一事，已於7月16日釋出溝通宣告，現將事件最新進展公佈如下：本次事件發生後，公司積極配合上級各監管部門進行全面核查：生產記錄、產品留樣及第三方檢測報告均顯示完全符合國家標準。"
+    },
+    {
+      "id": "4998250",
+      "time": "2026-07-20 22:36:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【溫氏股份：當前公司疫病防控效果較好 畜禽大生產穩定】溫氏股份7月20日在互動平臺表示，公司從硬體和軟體等方面，建立了嚴格的常態化生物安全防控體系。當前公司疫病防控效果較好，畜禽大生產穩定，生產成績穩步提升。"
+    },
+    {
+      "id": "4998249",
+      "time": "2026-07-20 22:36:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年，上海三大先導產業製造業產值同比增長14.5%】從上海市經信委獲悉，今年上半年，上海工業生產穩步增長，軟信業繼續保持較快增速，產業經濟穩中有進、向新向優。據上海市經信委披露，上半年本市三大先導產業製造業保持較高增速。三大先導產業製造業產值同比增長14.5%。其中，人工智慧製造業、積體電路製造業、生物醫藥製造業產值分別增長21.8%、19.5%和7.2%。（澎湃）"
+    },
     {
       "id": "mkt:019f7ff3-fc4b-7aab-8e10-17a9131dcef3",
       "time": "2026-07-20 22:35:23",
