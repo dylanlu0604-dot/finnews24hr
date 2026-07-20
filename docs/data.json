@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-21 03:48:27",
-  "count": 19064,
+  "updated": "2026-07-21 03:52:26",
+  "count": 19063,
   "items": [
+    {
+      "id": "mkt:019f8115-44b6-7aab-8e14-70f0fe3487f3",
+      "time": "2026-07-21 03:51:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "White House said the Commerce Secretary will oversee and enforce all approved industrial reshoring plans. If a company fails to meet its commitments, the Commerce Secretary may suspend and revoke its tariff benefits, including retroactive cancellation."
+    },
+    {
+      "id": "mkt:019f8115-1907-7aab-8e14-6d3ffc1b19ab",
+      "time": "2026-07-21 03:51:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "White House says incentive program will require companies to submit industry reshoring plans; once approved, firms may import primary aluminum up to allocated quotas and pay a reduced tariff equal to 50% of the original Section 232 rate."
+    },
     {
       "id": "4998445",
       "time": "2026-07-21 03:47:13",
@@ -175282,31 +175304,6 @@
         "國際"
       ],
       "text": "阿曼：阿曼承諾積極同伊朗及世界各大國開展合作，搭建穩定的安全機制。"
-    },
-    {
-      "id": "4985317",
-      "time": "2026-07-14 03:52:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗發生的爆炸事件發生在美國中央司令部標註的伊朗南部沿海地帶，特朗普告知國會伊朗境內戰事已重啟、恢復海上封鎖，同時伊朗革命衛隊持續襲擊過往船隻。"
-    },
-    {
-      "id": "4985316",
-      "time": "2026-07-14 03:50:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美國12州起訴阻止派拉蒙天舞收購華納兄弟】以加利福尼亞州為首的美國12個州當地時間13日向加州北區聯邦地區法院提起訴訟，試圖阻止派拉蒙天舞公司收購華納兄弟探索公司。美國媒體普遍認為，這項總額預計高達約1110億美元的交易若完成，將對美國娛樂、媒體等多個行業格局產生重大影響。（新華社）"
-    },
-    {
-      "id": "4985315",
-      "time": "2026-07-14 03:49:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "【“意願聯盟”巴黎峰會聚焦對烏軍援 成員內部仍存分歧】當地時間13日，支援烏克蘭的“意願聯盟”成員國領導人在巴黎舉行峰會。法國總統馬克龍、烏克蘭總統澤連斯基以及英國、德國等歐洲國家領導人出席會議，北約和歐盟相關負責人也參與討論。在很多問題上聯盟內部依然存在諸多分歧。"
     }
   ]
 }

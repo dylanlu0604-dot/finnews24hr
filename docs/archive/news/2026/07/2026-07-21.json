@@ -1,7 +1,29 @@
 {
   "date": "2026-07-21",
-  "count": 189,
+  "count": 191,
   "items": [
+    {
+      "id": "mkt:019f8115-44b6-7aab-8e14-70f0fe3487f3",
+      "time": "2026-07-21 03:51:22",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "White House said the Commerce Secretary will oversee and enforce all approved industrial reshoring plans. If a company fails to meet its commitments, the Commerce Secretary may suspend and revoke its tariff benefits, including retroactive cancellation."
+    },
+    {
+      "id": "mkt:019f8115-1907-7aab-8e14-6d3ffc1b19ab",
+      "time": "2026-07-21 03:51:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "White House says incentive program will require companies to submit industry reshoring plans; once approved, firms may import primary aluminum up to allocated quotas and pay a reduced tariff equal to 50% of the original Section 232 rate."
+    },
     {
       "id": "4998445",
       "time": "2026-07-21 03:47:13",
