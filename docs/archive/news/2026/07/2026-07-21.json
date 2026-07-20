@@ -1,7 +1,79 @@
 {
   "date": "2026-07-21",
-  "count": 318,
+  "count": 325,
   "items": [
+    {
+      "id": "te:markets:568319",
+      "time": "2026-07-21 06:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Spikes by 6.57% — Top commodity gainers are Methanol (6.57%), Germany Natural Gas THE (2.14%), Natural Gas EU (2.14%), Brent Crude Oil (1.27%) and Crude Oil WTI (0.90%). Biggest losers are Natural gas (-2.47%) and Propane (-0.65%)."
+    },
+    {
+      "id": "mkt:019f81a6-12c4-7aab-8e15-af3312e42fa3",
+      "time": "2026-07-21 06:29:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【Analysts: Room for monetary easing may widen in Q3】At its Q2 MPC meeting the PBOC clarified its H2 monetary policy approach. PBOC Deputy Governor Zou Lan said policy will strengthen countercyclical and cross‑cycle adjustments based on domestic and external economic and financial conditions and market developments. Analysts say inflation trends, domestic growth fundamentals and major economies’ monetary policies will be key determinants of PBOC operations. With government bond issuance accelerating in Q3, room for monetary easing may widen to complement fiscal support and bolster the macro outlook."
+    },
+    {
+      "id": "4998533",
+      "time": "2026-07-21 06:28:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗伊斯蘭共和國新聞社（IRNA）：伊朗南部阿巴斯港再次傳來爆炸聲，爆炸原因尚不明確。"
+    },
+    {
+      "id": "4998532",
+      "time": "2026-07-21 06:28:04",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【券商積極研判A股後市走勢 短期擾動不改長期向好趨勢 】月20日，韓國綜合指數再度跌逾4%，市場風險偏好降溫，進而對A股行情造成一定擾動。當天A股三大指數走勢分化，上證指數、創業板指上漲，深證成指下跌。對於市場近期波動，多位受訪人士對中國證券報記者表示，其較為明顯地受到全球科技板塊共振調整、全球主要央行加息預期升溫並正逐步落地等外部因素影響，但市場積極因素也正在積累，短期衝擊並不會改變A股中長期結構性上行趨勢。在具體配置上，建議短期關注具備獨立產業催化的創新藥板塊以及防禦屬性較強的紅利板塊，科技板塊內部可關注行情從算力、硬體環節向AI應用方向延伸的機會。（中證報）"
+    },
+    {
+      "id": "4998531",
+      "time": "2026-07-21 06:27:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗軍方表示，已使用地對地導彈打擊科威特阿里夫詹基地內的美軍導彈系統。"
+    },
+    {
+      "id": "4998530",
+      "time": "2026-07-21 06:27:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構扎堆調研 北向資金增持優質城商行獲青睞 】7月20日，A股銀行板塊全線飄紅，42只銀行股收盤時全部上漲。其中，兩隻城商行股票廈門銀行和重慶銀行分別上漲6.82%、4.46%，表現強勢。7月以來，銀行板塊估值持續修復，成長性較好的城商行股票受到重點關注，除了機構投資者扎堆調研以外，資金也在積極增持。（中證報）"
+    },
+    {
+      "id": "mkt:019f81a3-adab-7aab-8e15-a35f4a840e76",
+      "time": "2026-07-21 06:26:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Kuwait-flagged oil/chemical tanker attacked near eastern exit of Strait of Hormuz】A recording of the public ship radio channel near the Strait of Hormuz, provided by a crew member on the evening of the 20th, indicates a Kuwait-flagged oil/chemical tanker was attacked near the strait’s eastern exit. The fuel tanks caught fire and heavy smoke was emanating from the hull and tank vents. Crew reported two personnel with minor injuries, said they could not cool the fuel tanks, had boarded lifeboats and were preparing to abandon ship while awaiting nearby rescue forces."
+    },
     {
       "id": "mkt:019f81a3-613d-7aab-8e15-98a809a28e40",
       "time": "2026-07-21 06:26:35",
