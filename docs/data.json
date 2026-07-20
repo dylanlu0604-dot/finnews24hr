@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-21 07:13:33",
-  "count": 19021,
+  "updated": "2026-07-21 07:17:27",
+  "count": 19022,
   "items": [
+    {
+      "id": "4998567",
+      "time": "2026-07-21 07:15:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【化工品漲價帶動行業回暖，多家石油石化公司上半年業績倍增】據統計，截至7月20日，已有28家石油石化上市公司披露上半年業績預告。其中，15家公司預增，5家實現扭虧或減虧。上半年，中東地緣衝突引發全球化工品漲價。華安證券化工行業首席分析師王強峰表示，受益於庫存去化，部分格局較好的產品盈利已明顯改善。三季度在補庫需求拉動下，板塊基本面有望進一步改善。（上證報）"
+    },
+    {
+      "id": "mkt:019f81cf-dfcf-7aab-8e16-0973eab97ad1",
+      "time": "2026-07-21 07:15:11",
+      "tags": [
+        "MKT News",
+        "4005.T",
+        "Impact bullish"
+      ],
+      "text": "【Nikkei: Sumitomo Chemical to mass-produce solid-state electrolyte for EVs】Nikkei reports Sumitomo Chemical plans to begin mass production as early as fiscal 2028 of a halide-based solid-state electrolyte for electric vehicles. The chlorine-dominant material, developed with Kyoto University and Tottori University, is intended to lower costs without sacrificing performance and could replace sulfide and oxide electrolytes."
+    },
+    {
+      "id": "4998566",
+      "time": "2026-07-21 07:14:57",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【機構預測高增長的AI大模型概念股一覽】艾媒諮詢資料顯示，2024年中國AI大模型市場規模約為294億元，預計到2026年將突破700億元。華西證券表示，從競爭格局來看，中國開源模型已實現從“邊緣參與者”到“全球核心玩家”的歷史性跨越。二級市場方面，據證券時報·資料寶統計，截至7月20日收盤，6只AI大模型概念股今年以來累計上漲超19%，分別為盛視科技、思泰克、東方國信、潤建股份、泓博醫藥和迪安診斷。從業績預告情況來看，按照預告淨利潤下限計算（無下限則取公告數值），除盛視科技外，今年上半年淨利潤同比增長的還有三六零、視覺中國、天娛數科、恒生電子。從機構角度來看，根據5家及以上機構一致預測，今明兩年淨利潤增速均有望超30%的AI大模型概念股有8只，包括軟通動力、中科創達、易點天下、中文線上、廣聯達等。以7月20日收盤價與機構一致預測目標價相比，天下秀、廣聯達、易點天下上漲空間逾50%。"
+    },
+    {
+      "id": "4998565",
+      "time": "2026-07-21 07:13:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【霍爾木茲海峽戰爭險費率升至“高達10%” 創本輪衝突以來最高】多位海運市場訊息人士稱，週末期間商船持續遭襲後，霍爾木茲海峽過境船舶的戰爭險費率已高達船舶價值的10%，創本輪衝突以來最高水平。週一一位承保訊息人士稱，霍爾木茲海峽通航的戰爭險費率已升至8%-10%，而另外兩位承保訊息人士則表示費率已升至10%。一位經紀訊息人士也證實費率已達10%，外加無賠款優待，並稱高達10%的費率是本輪衝突爆發以來最高水平；而另一位經紀訊息人士則表示費率約為7.5%。第二位承保訊息人士稱，船東對於支付如此高昂的過境保費感到“卻步”。"
+    },
     {
       "id": "4998564",
       "time": "2026-07-21 07:12:22",
@@ -174875,34 +174911,6 @@
         "公司"
       ],
       "text": "訊息人士稱，希音（SHEIN）執行長許仰天將接任董事長一職，唐偉將轉任高階顧問。"
-    },
-    {
-      "id": "te:economy:566518",
-      "time": "2026-07-14 07:17:21",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "BRC Retail Sales Monitor YoY",
-        "Importance 1"
-      ],
-      "text": "UK Retail Sales Growth Softens in June — UK retail sales rose by 1.7% year-on-year on a like-for-like basis in June 2026, falling short of market expectations for a 2.9% gain, slowing from a 3.4% increase in May and marking the softest growth since February. Despite the slowdown, spending was supported by the men's FIFA World Cup and a prolonged heatwave, which boosted demand for clothing, electric fans, air-conditioning units, food and beverages, while pubs benefited from increased trade during England's matchdays. Online sales also remained resilient as soaring temperatures discouraged shoppers from visiting physical stores. Retailers noted that promotions helped support demand, particularly for home electronics and seasonal goods. Looking ahead, the British Retail Consortium warned that political uncertainty and the potential impact of the conflict in the Middle East on food prices could weigh on consumer confidence and retail spending in the coming months."
-    },
-    {
-      "id": "4985458",
-      "time": "2026-07-14 07:16:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【人民日報鐘聲：南海不是“遊獵園”，更非“角鬥場”】南海不是域外國家的“遊獵園”，更不應成為大國博弈的“角鬥場”。美國、日本、澳大利亞等國以及歐盟並非南海問題當事方，本應對南海主權爭議秉持客觀中立立場，卻出於地緣戰略私利，一再為非法無效的所謂“裁決”站臺背書。 南海的和平穩定與繁榮發展，只能由地區國家自己主導、自己守護，不需要也絕不接受任何域外勢力的干涉與破壞。奉勸有關域外國家認清大勢，立即停止在南海興風作浪。個別地區國家也應認清域外勢力的險惡用心，盡快回到當事國協商處理海上爭議，遵守和落實《宣言》的正確軌道上來。"
-    },
-    {
-      "id": "4985457",
-      "time": "2026-07-14 07:14:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱開始對伊朗發動連續第三晚打擊】美軍中央司令部13日在社交媒體發文說，美國東部時間當天16時45分，美軍開始對伊朗發動“連續第三晚”的打擊行動。 美軍中央司令部稱，這些打擊將繼續使伊朗軍隊付出沉重代價，並削弱其在霍爾木茲海峽襲擊商船的能力。 當天稍早時，美國總統特朗普在接受美國一電臺主持人採訪時說：“今晚我們會狠打他們，明天也會狠狠打他們。”他還稱美伊達成的諒解備忘錄只是一個“測試”，本身就沒有多大約束力，而伊朗“沒能經受住這次測試”。（新華社）"
     }
   ]
 }
