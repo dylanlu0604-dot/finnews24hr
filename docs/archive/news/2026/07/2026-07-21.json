@@ -1,7 +1,43 @@
 {
   "date": "2026-07-21",
-  "count": 81,
+  "count": 85,
   "items": [
+    {
+      "id": "4998389",
+      "time": "2026-07-21 01:16:43",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "6 家交易對手在美聯儲逆回購操作中獲得 3000 萬美元。"
+    },
+    {
+      "id": "4998388",
+      "time": "2026-07-21 01:15:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "約翰·希利被任命為英國財政大臣。"
+    },
+    {
+      "id": "mkt:019f8085-c9b8-7aab-8e13-111b40e37ab5",
+      "time": "2026-07-21 01:14:39",
+      "tags": [
+        "MKT News",
+        "PARA.O",
+        "Impact bearish",
+        "WBD.O"
+      ],
+      "text": "【U.S. judge halts Paramount–Warner Bros merger】After hearing arguments on Friday, U.S. Judge Araceli Martinez-Olguin on Monday issued a temporary injunction blocking the merger of Paramount and Warner Bros. A multi-state coalition of state attorneys general argued the deal would violate federal antitrust law and lead to higher prices for video services and reduced content supply. Paramount had agreed not to close the transaction before July 22."
+    },
+    {
+      "id": "4998387",
+      "time": "2026-07-21 01:14:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄方證實對等驅逐義大利駐俄武官及其助理】俄羅斯外交部發言人扎哈羅娃當地時間20日證實，作為對義大利驅逐2名俄羅斯駐意使館武官的反制措施，俄方決定對等驅逐義大利駐俄武官及其助理。"
+    },
     {
       "id": "mkt:019f8082-9178-7aab-8e13-0de3b87727ef",
       "time": "2026-07-21 01:11:08",
