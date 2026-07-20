@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-20 13:26:20",
-  "count": 19114,
+  "updated": "2026-07-20 13:30:19",
+  "count": 19109,
   "items": [
+    {
+      "id": "4997019",
+      "time": "2026-07-20 13:29:25",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊持續走弱 金富科技連續3日跌停】液冷伺服器板塊持續走弱，金富科技連續3日跌停，劍橋科技、川潤股份、艾華集團連續兩日跌停，博敏電子、小崧股份、風華高科、光迅科技、大元泵業、興瑞科技、永太科技觸及跌停，鴻富瀚跌超15%，奕東電子、菲沃泰、同飛股份、震安科技、新萊應材、利和興、中石科技跌超10%，昊華科技、飛龍股份、快克智慧、蘇州天脈、遠東股份跟跌。"
+    },
+    {
+      "id": "mkt:019f7dff-6d51-7aab-8e02-18566364e996",
+      "time": "2026-07-20 13:28:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Two satellite shared centers in Xiong'an to enter service soon】Xiong'an will soon commission two satellite shared centers — a shared manufacturing center and a shared testing center — at the Xiong'an Sci‑Tech Innovation Center pilot base, Xiong'an Release reported on July 17. Equipment is undergoing final debugging; the facilities will be open to commercial space firms nationwide to reduce upfront capex, shorten test scheduling and cut satellite transport distances."
+    },
+    {
+      "id": "4997018",
+      "time": "2026-07-20 13:28:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雄安兩座衛星共享中心即將正式投入使用】據“雄安釋出”，7月17日，位於雄安科創中心中試基地內的衛星共享智造中心、衛星共享測試中心內一片忙碌，工作人員正在對兩座共享中心內的裝置逐一進行除錯檢測。近期，兩座衛星共享中心將正式投入使用，面向全國商業航天企業開放，破解重資產投入大、實驗排期久、衛星轉運距離遠等痛點。"
+    },
+    {
+      "id": "4997017",
+      "time": "2026-07-20 13:27:04",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華泰證券：美的正向全球化科技製造企業轉型，目標價升至134.46港元】華泰證券發表研報指，美的集團正從傳統家電龍頭向全球化科技製造企業轉型，短期具備較強經營防禦能力，中長期海外拓展、ToB業務及AI產業鏈佈局能提供增長空間，形成業績穩健+估值重塑雙重邏輯，維持“買入”評級，上調估值溢價，目標價由120.32港元上調至134.46港元。該行認為，海外市場仍是美的收入增長重要來源，公司持續推進OBM轉型，海外收入佔比持續提升，國內業務透過產品升級和結構最佳化改善盈利，公司積極拓展智慧製造及ToB業務，其中資料中心製冷受益於AI算力基礎設施建設，有望成為新增長動力，加上美的持續推進降本增效，盈利能力預期保持穩定。"
+    },
     {
       "id": "mkt:019f7dfc-3579-7aab-8e02-16fe69538601",
       "time": "2026-07-20 13:25:08",
@@ -176109,94 +176145,6 @@
         "市場"
       ],
       "text": "紐約期銀日內跌3%，現報58.34美元/盎司。"
-    },
-    {
-      "id": "te:markets:566244",
-      "time": "2026-07-13 13:30:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Bitcoin Depreciates by 1.84% — Top crypto losers are Bitcoin (-1.84%), Ether (-1.56%) and Binance (-1.07%)."
-    },
-    {
-      "id": "4983723",
-      "time": "2026-07-13 13:30:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌3%，現報8052.80點。"
-    },
-    {
-      "id": "4983722",
-      "time": "2026-07-13 13:30:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌3%，現報7722.60點。"
-    },
-    {
-      "id": "4983721",
-      "time": "2026-07-13 13:29:37",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【油氣概念午後震盪拉昇 山東墨龍逼近漲停】油氣概念午後震盪拉昇，山東墨龍逼近漲停，科力股份、通源石油、中國海油、藍焰控股跟漲。"
-    },
-    {
-      "id": "mkt:019f59f2-c7bf-7aab-8d4f-b0be6e632c77",
-      "time": "2026-07-13 13:28:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Hang Seng Index",
-        "Impact bearish",
-        "CSI300",
-        "Nikkei 225"
-      ],
-      "text": "MSCI Asia Pacific index fell 2% to 265.92."
-    },
-    {
-      "id": "4983720",
-      "time": "2026-07-13 13:28:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "截止13:28，兩市101只個股跌停。"
-    },
-    {
-      "id": "mkt:019f59f2-9e80-7aab-8d4f-af8570b042bb",
-      "time": "2026-07-13 13:28:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran IRGC says it launched fifth-stage strike on US forces】Iran's Islamic Revolutionary Guard Corps said on the morning of July 13 it carried out a fifth-stage retaliatory strike on US regional targets, claiming it \"precisely struck\" a US facility in Bahrain's Juffair, causing heavy damage, and destroyed FPS radar and ship-detection radar in Oman."
-    },
-    {
-      "id": "4983718",
-      "time": "2026-07-13 13:27:59",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌2%至265.92點。"
-    },
-    {
-      "id": "4983717",
-      "time": "2026-07-13 13:26:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗已對美軍發動五階段打擊 】當地時間今天（7月13日）上午，伊朗伊斯蘭革命衛隊發表宣告稱，在對地區美軍目標的第五階段報復性打擊行動中，革命衛隊不僅“精準打擊了位於巴林朱法爾的美軍設施，使其遭受重創“，還“成功摧毀了位於阿曼的FPS雷達和艦船探測雷達”。"
     }
   ]
 }
