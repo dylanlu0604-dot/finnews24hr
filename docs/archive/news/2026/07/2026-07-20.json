@@ -1,7 +1,55 @@
 {
   "date": "2026-07-20",
-  "count": 413,
+  "count": 418,
   "items": [
+    {
+      "id": "4996487",
+      "time": "2026-07-20 08:39:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳市分割槽雷雨大風黃色預警訊號】深圳市氣象臺2026年07月20日08時38分發布大鵬新區、大鵬灣和大亞灣雷雨大風黃色預警訊號，預計1-2小時內陣風將達8級以上，並伴有短時強降水和雷電。請落實各項防風防雨防雷電措施。"
+    },
+    {
+      "id": "4996486",
+      "time": "2026-07-20 08:38:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱再次強力打擊了伊朗 以應對美軍的陣亡】美國總統特朗普告訴記者，今晚美國再次強力打擊了伊朗，以紀念犧牲的美國士兵，死亡人數“可能是三名，而不是兩人”。"
+    },
+    {
+      "id": "mkt:019f7cf5-798e-7aab-8dfd-25e2d475bb60",
+      "time": "2026-07-20 08:38:09",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WMT.O"
+      ],
+      "text": "Trump urged other grocery chains to immediately emulate Giant Eagle and Walmart, describing them as truly patriotic companies."
+    },
+    {
+      "id": "te:markets:568022",
+      "time": "2026-07-20 08:37:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Hits Over 3-Month High — Heating oil futures in the US climbed toward $4.20 per gallon, reaching their highest level since early April, as intensifying strikes in the Middle East fueled fears of disruptions to global refined fuel supplies. Iran said the ceasefire with the US had effectively collapsed as both sides expanded attacks beyond military sites to critical infrastructure, signaling little prospect of a return to the fragile truce. Adding to supply concerns, Ukraine continued its attacks on Russian oil refineries after Russia imposed a diesel export ban earlier this month. Seasonal refinery maintenance and years of refinery closures across the US and Europe further constrained fuel supplies. The tighter supply backdrop pushed US refining margins to record highs. Despite a 4.6 million-barrel increase in distillate fuel inventories in the week ending July 10, EIA data showed stockpiles remained well below their five-year seasonal average."
+    },
+    {
+      "id": "mkt:019f7cf4-6dd0-7aab-8dfd-1a4774716602",
+      "time": "2026-07-20 08:37:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump said he had just learned that US grocer Giant Eagle will sharply cut prices on more than 300 items this summer through Labor Day, and said he will continue to push prices down."
+    },
     {
       "id": "te:markets:568021",
       "time": "2026-07-20 08:36:46",
