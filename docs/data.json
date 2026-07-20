@@ -1,7 +1,154 @@
 {
-  "updated": "2026-07-20 10:26:17",
-  "count": 19089,
+  "updated": "2026-07-20 10:32:40",
+  "count": 19093,
   "items": [
+    {
+      "id": "mkt:019f7d5b-8ff7-7aab-8dff-dbec402f677a",
+      "time": "2026-07-20 10:29:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Zhongyan Dadi hit an intraday limit-down, staging a limit‑up-to‑limit‑down reversal; turnover exceeded RMB 380 million."
+    },
+    {
+      "id": "4996751",
+      "time": "2026-07-20 10:29:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "工業和資訊化部新聞發言人、執行監測協調局局長陶青20日在國新辦新聞釋出會上表示，今年上半年，38款創新藥獲批上市，其中國產創新藥31款，佔比超過80%。"
+    },
+    {
+      "id": "mkt:019f7d5a-dafb-7aab-8dff-d044517ed2a8",
+      "time": "2026-07-20 10:28:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【MIIT: 31 of 38 innovative drugs approved in 1H are domestic; overseas licensing tops $100bn】MIIT spokesperson Tao Qing told a State Council Information Office briefing on July 20 that China approved 38 innovative drugs in 1H, 31 of them domestically developed (over 80%). Outbound technology licensing of innovative drugs hit a record high, with transaction value in 1H exceeding $100 billion."
+    },
+    {
+      "id": "mkt:019f7d5a-8e88-7aab-8dff-cee943dc095d",
+      "time": "2026-07-20 10:28:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【MIIT: Building next‑generation communication networks a priority for China's telecom sector】China's Ministry of Industry and Information Technology said it will prioritise planning and construction of next‑generation communication networks, focusing on three areas. First, accelerate deployment of foundational, space, international and converged networks—scale commercial roll‑out of 5G and 10‑Gbps optical networks, expand international subsea cable connectivity, and speed development of new industrial networks to support an intelligent economy. Second, strengthen industry support for core technologies: step up R&D in 6G mobile, optical communications, subsea fibre and satellite communications, accelerate related product development, and coordinate enterprise‑led innovation with industry platforms, research institutes and associations to align innovation and supply chains. Third, drive application innovation and adoption: deepen 5G and gigabit‑fiber use in key industries, promote new application scenarios and integrate brain‑computer interfaces, embodied AI and intelligent connected vehicles with 5G/6G/satellite and internet, using next‑generation networks as a digital base to enable smart water systems, new power grids, urban utility networks and logistics network integration."
+    },
+    {
+      "id": "4996749",
+      "time": "2026-07-20 10:28:21",
+      "tags": [
+        "宏觀",
+        "焦點"
+      ],
+      "text": "【工信部：建設新一代通訊網是推動資訊通訊業發展的重點】7月20日，國務院新聞辦公室舉行新聞釋出會，介紹2026年上半年工業和資訊化發展情況。工業和資訊化部新聞發言人、資訊通訊發展司司長謝存表示，新一代通訊網不僅是傳統意義上的網路升級，更是面向智慧時代數字資訊基礎設施的一次關鍵革新。下一步，工信部將把新一代通訊網規劃建設作為推動資訊通訊業發展的重點。"
+    },
+    {
+      "id": "4996748",
+      "time": "2026-07-20 10:28:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：人工智慧手機和電腦、智慧機器人、AI眼鏡、AI玩具等產品成為資訊消費新熱點】工業和資訊化部新聞發言人、資訊通訊管理局局長謝存表示，截至6月底，5G基站達到510.2萬個，具備千兆網路服務能力的10GPON埠達3286萬個。積極推進5G-A商用網路建設，萬兆光網在小區、工廠、園區等場景實現試點部署。基於5G的智慧終端型別不斷豐富，人工智慧手機和電腦、智慧機器人、AI眼鏡、AI玩具等產品成為資訊消費新熱點。批覆6GHz頻段6G試驗頻率使用許可，加快推進第二階段6G技術試驗。開放發展水平穩步提升。實施增值電信業務擴大對外開放試點，吸引和利用外資成效凸顯。截至目前，外商投資電信企業累計達3219家，較去年同期增長23.9%。"
+    },
+    {
+      "id": "4996747",
+      "time": "2026-07-20 10:27:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：創新藥對外技術授權再創新高】工業和資訊化部新聞發言人、執行監測協調局局長陶青20日在國新辦新聞釋出會上表示，創新藥對外技術授權再創新高，今年上半年交易總額超過1000億美元。"
+    },
+    {
+      "id": "4996746",
+      "time": "2026-07-20 10:27:32",
+      "tags": [],
+      "text": "【工信部：人工智慧手機和電腦、智慧機器人、AI眼鏡、AI玩具等產品成為資訊消費新熱點】工業和資訊化部新聞發言人、資訊通訊管理局局長謝存表示，截至6月底，5G基站達到510.2萬個，具備千兆網路服務能力的10GPON埠達3286萬個。積極推進5G-A商用網路建設，萬兆光網在小區、工廠、園區等場景實現試點部署。基於5G的智慧終端型別不斷豐富，人工智慧手機和電腦、智慧機器人、AI眼鏡、AI玩具等產品成為資訊消費新熱點。批覆6GHz頻段6G試驗頻率使用許可，加快推進第二階段6G技術試驗。開放發展水平穩步提升。實施增值電信業務擴大對外開放試點，吸引和利用外資成效凸顯。截至目前，外商投資電信企業累計達3219家，較去年同期增長23.9％。（中國網）"
+    },
+    {
+      "id": "mkt:019f7d59-5744-7aab-8dff-c27988896954",
+      "time": "2026-07-20 10:27:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "Hang Seng Index"
+      ],
+      "text": "【MIIT: AI smartphones, PCs, smart robots, AI glasses and AI toys emerge as new information-consumption hotspots】China's Ministry of Industry and Information Technology said 5G base stations totalled 5.102 mln at end-June and 10G-PON ports capable of gigabit service reached 32.86 mln. Authorities are accelerating 5G-A commercial network rollout and have piloted 10G-PON deployments in residential compounds, factories and industrial parks. 5G-based smart terminals are diversifying; MIIT identified AI smartphones and PCs, smart robots, AI glasses and AI toys as new information-consumption hotspots. The ministry approved frequency-use permits in the 6GHz band for 6G trials and is advancing second-phase 6G technology tests. Openness measures are expanding: a pilot widens foreign access to value-added telecom services and foreign-invested telecom firms total 3,219, up 23.9% YoY."
+    },
+    {
+      "id": "4996745",
+      "time": "2026-07-20 10:27:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中巖大地盤中跌停，上演“天地板”，現報17.6元，成交額3.77億元。"
+    },
+    {
+      "id": "mkt:019f7d59-2817-7aab-8dff-b9bd92c81b7e",
+      "time": "2026-07-20 10:27:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Hang Seng Index",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "South Korea's KOSPI slipped to 6,500 intraday, down 4.72% on the day."
+    },
+    {
+      "id": "4996744",
+      "time": "2026-07-20 10:26:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評級：泰國各大銀行面臨經濟疲軟帶來的經營壓力。"
+    },
+    {
+      "id": "4996743",
+      "time": "2026-07-20 10:26:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱完成連續第九晚對伊朗襲擊】當地時間7月19日，美軍中央司令部表示，美軍於美東時間當晚10時完成連續第九晚對伊朗的打擊行動。美軍中央司令部稱，此輪行動襲擊了伊朗軍事指揮中心、防空和沿海監視設施、海上作戰能力、導彈和無人機發射場以及通訊網路，旨在進一步削弱伊朗襲擊經霍爾木茲海峽通行的商船和平民船員的能力。（央視新聞）"
+    },
+    {
+      "id": "4996741",
+      "time": "2026-07-20 10:25:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meshy完成近4億美元B輪融資，投後估值超100億元人民幣】7月20日，Meshy宣佈完成近4億美元B輪融資，投後估值超過100億元人民幣。本輪由IDG資本、經緯中國、Monolith礪思資本等投資機構和戰略投資方共同投資，Granite Asia、紅杉中國、BAI資本、原始碼資本等現有股東超額跟投，持續加註。據Meshy介紹，這是AI 3D領域迄今規模最大的單輪融資，重新整理單輪規模與估值兩項紀錄。本輪融資將主要用於AI多模態模型研發與全球市場拓展。"
+    },
+    {
+      "id": "4996740",
+      "time": "2026-07-20 10:25:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國務卿：美國仍願意透過外交途徑解決伊朗問題】當地時間7月19日，美國國務卿魯比奧表示，美國仍願意透過外交途徑解決伊朗問題。當日，美軍中央司令部在社交媒體平臺釋出宣告稱，美東時間7月19日晚7時，美軍對伊朗發起新一輪空襲，這是美軍對伊朗開始連續第九晚襲擊，以“繼續削弱伊朗用於攻擊透過霍爾木茲海峽商船和平民船員的軍事能力”。（央視新聞）"
+    },
     {
       "id": "4996739",
       "time": "2026-07-20 10:25:19",
@@ -175955,106 +176102,6 @@
         "公司"
       ],
       "text": "【螞蟻靈波：不必太糾結是世界模型還是VLA，具身大腦要解決的問題還很多】“不用太糾結技術路線，現在整個具身大腦非常不成熟，要解決的問題還有很多。”7月10日，在螞蟻靈波大腦全棧2.0模型溝通會上，螞蟻靈波首席科學家沈宇軍在接受媒體採訪時明確表示。當天，螞蟻靈波釋出具身原生世界動作模型LingBot-VA 2.0。據介紹，LingBot-VA 2.0不再沿用行業常見的“現有影片生成模型微調”路線，而是基於自迴歸架構從零開始預訓練，圍繞動態建模、因果預測和實時執行等機器人與真實環境互動的核心需求進行原生設計。螞蟻靈波CEO朱興表示，目前模型整個落地部署的過程仍然很艱難，預訓練和後訓練均存在不同程度的挑戰，這也是當前真正以模型驅動商業落地還在早期階段非常重要的原因。（澎湃）"
-    },
-    {
-      "id": "4983491",
-      "time": "2026-07-13 10:32:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州省人大財經委員會原主任委員丁治學接受審查調查】中央紀委國家監委網站7月13日通報，據貴州省紀委監委訊息：貴州省人大財經委員會原主任委員丁治學涉嫌嚴重違紀違法，目前正接受貴州省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4983490",
-      "time": "2026-07-13 10:31:38",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數早盤收盤下跌1.1%，至67786.86點；東證指數早盤收盤下跌0.2%，至4027.82點。"
-    },
-    {
-      "id": "4983489",
-      "time": "2026-07-13 10:29:50",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【沐曦股份漲超12%創歷史新高 總市值突破4000億】科創算力晶片概念股沐曦股份擴大漲幅至12%，總市值突破4000億元，較其發行價累計上漲超870%。"
-    },
-    {
-      "id": "mkt:019f594e-562d-7aab-8d4b-d063ed980416",
-      "time": "2026-07-13 10:28:53",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Muxi Co. shares hit an intraday record high, trading up 10.63% at 1,006 yuan, with a market capitalization of 395.33 bln yuan."
-    },
-    {
-      "id": "4983488",
-      "time": "2026-07-13 10:27:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗襲擊巴林約旦科威特美軍目標】當地時間7月13日凌晨，伊朗伊斯蘭革命衛隊發宣告稱，革命衛隊海軍部隊7月12日晚阻攔了兩艘違規船隻——這兩艘船隻關閉應答裝置並沿非法路線航行，危及了霍爾木茲海峽的航運。而美國再次透過襲擊伊朗沿海的軍事基地，暴露了其野蠻本性。 革命衛隊宣告稱，作為對這些侵略的回應，伊朗在第一階段透過導彈和無人機襲擊，“點燃了位於約旦的哈桑王子空軍基地多個大型導彈庫和燃料庫”。伊朗的報復行動仍在繼續。（CCTV國際時訊）"
-    },
-    {
-      "id": "4983487",
-      "time": "2026-07-13 10:27:14",
-      "tags": [
-        "央行"
-      ],
-      "text": "【韓國央行預計AI驅動的晶片“超級週期”將持續，駁斥見頂擔憂】韓國央行週一釋出報告稱，全球半導體市場仍處於供不應求狀態，預計由人工智慧（AI）驅動的當前“超級週期”將持續一段時間；該行藉此駁斥了投資者關於晶片週期已見頂的擔憂。韓國央行在報告中指出：“儘管受人工智慧基礎設施投資推動，半導體需求大幅激增，但供應擴張的步伐卻相對緩慢。”該行補充稱，半導體週期尚未出現放緩跡象。"
-    },
-    {
-      "id": "4983486",
-      "time": "2026-07-13 10:27:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【沐曦股份股價創歷史新高】沐曦股份盤中股價創歷史新高，現漲10.63%，報1006.00元，總市值為3953.31億元。"
-    },
-    {
-      "id": "4983485",
-      "time": "2026-07-13 10:26:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院本週將表決永久實行夏令時法案】根據美國方面訊息，美國國會眾議院將在本週就一項永久實行夏令時的法案進行表決。不過關於這一議題，美國國內仍然存在較大爭議。今年5月，美國國會眾議院能源和商業委員會以48比1的結果透過了《陽光保護法案》，該法案旨在永久取消美國每年兩次調整時間的做法，讓夏令時全年永久化。而美國國會參議院一些議員則威脅說，即使法案在眾議院投票中透過，他們也將在參議院否決這一法案。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f594c-3c26-7aab-8d4b-c9ac2c4646fa",
-      "time": "2026-07-13 10:26:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Islamic Revolutionary Guard Corps said its navy last night disabled the systems of two vessels and stopped them after they allegedly endangered shipping in the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f594c-3a81-7aab-8d4b-c3e28a4c92af",
-      "time": "2026-07-13 10:26:35",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish"
-      ],
-      "text": "【Power semiconductor price rises moderate but persistent; expected to continue through 2027】In 1H 2026 almost 20 global power semiconductor firms implemented price hikes, driven by surging demand from AI data centers and EV 800V platforms, a contraction in 8‑inch wafer capacity and rising raw‑material costs. The round of increases is moderate but expected to persist into 2027, materially benefiting IDMs; Chinese suppliers are accelerating technology upgrades as the sector shifts toward higher‑value, higher‑quality production."
-    },
-    {
-      "id": "4983484",
-      "time": "2026-07-13 10:26:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【功率半導體漲價潮溫和但具持續性 預計延續至2027年】2026年上半年，全球近20家功率半導體企業密集調價，主因AI資料中心、新能源汽車800V平臺爆發式需求疊加8英寸晶圓產能收縮與原材料成本上漲。本輪漲價溫和但具持續性，預計延續至2027年。IDM模式企業顯著受益，國產廠商加速技術升級，行業邁向高質量發展階段。（經濟觀察報）"
     }
   ]
 }
