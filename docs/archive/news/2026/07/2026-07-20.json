@@ -1,7 +1,215 @@
 {
   "date": "2026-07-20",
-  "count": 2911,
+  "count": 2931,
   "items": [
+    {
+      "id": "mkt:019f8029-75e5-7aab-8e11-f42c5cc612e4",
+      "time": "2026-07-20 23:33:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CVX.N",
+        "Impact mixed"
+      ],
+      "text": "Chevron (CVX.N): all platform personnel were evacuated to shore ahead of Gulf storm."
+    },
+    {
+      "id": "mkt:019f8029-341c-7aab-8e11-e9aa560feada",
+      "time": "2026-07-20 23:33:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CVX.N",
+        "Impact bearish"
+      ],
+      "text": "Chevron (CVX.N) has shut in oil production at the Petronius platform in the Gulf of Mexico."
+    },
+    {
+      "id": "4998320",
+      "time": "2026-07-20 23:33:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：將根據中期信貸安排和韌性與可持續性信託安排，向坦尚尼亞撥付32.49億特別提款權（約合4.439億美元）。"
+    },
+    {
+      "id": "mkt:019f8028-9601-7aab-8e11-e4c529275108",
+      "time": "2026-07-20 23:32:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iran's interior minister arrived in Islamabad."
+    },
+    {
+      "id": "4998319",
+      "time": "2026-07-20 23:32:26",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.730%，投標倍數3。拍賣六個月期國債，得標利率3.835%，投標倍數2.94。"
+    },
+    {
+      "id": "mkt:019f8028-1431-7aab-8e11-db753af883b2",
+      "time": "2026-07-20 23:32:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 3-month Treasury auction on July 20 — percentage of allotment at the stop-out (winning) yield 73.01%, prior 8.47%."
+    },
+    {
+      "id": "mkt:019f8028-1346-7aab-8e11-d54e7bae7503",
+      "time": "2026-07-20 23:32:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "US 3-month Treasury bill auction as of July 20: stop-out yield 3.73%, prior 3.76%."
+    },
+    {
+      "id": "mkt:019f8028-113d-7aab-8e11-caf07b3667fc",
+      "time": "2026-07-20 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 6-month Treasury auction stop-out yield 3.835%, down 2.5 bps from prior 3.86%."
+    },
+    {
+      "id": "mkt:019f8028-1071-7aab-8e11-c00ce6d7a520",
+      "time": "2026-07-20 23:32:16",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 3-month Treasury auction July 20 — bid-cover ratio 3.00; prior 2.84."
+    },
+    {
+      "id": "mkt:019f8028-0fce-7aab-8e11-beabaf9248c1",
+      "time": "2026-07-20 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury auction on July 20: share of awards at the stop-out rate 51.45% vs 54.42% previously."
+    },
+    {
+      "id": "mkt:019f8027-fb01-7aab-8e11-b582a927c78f",
+      "time": "2026-07-20 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury auction bid-cover ratio 2.94 as of July 20, down from 3.11 previously."
+    },
+    {
+      "id": "mkt:019f8027-e4f6-7aab-8e11-a8fb3c5927ff",
+      "time": "2026-07-20 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.20) | actual 3 | previous 2.84"
+    },
+    {
+      "id": "mkt:019f8027-e4e8-7aab-8e11-a05f3cf778b2",
+      "time": "2026-07-20 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Jul.20) | actual 73.01% | previous 8.47%"
+    },
+    {
+      "id": "mkt:019f8027-e4d9-7aab-8e11-9a89f28c8cb0",
+      "time": "2026-07-20 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Jul.20) | actual 3.73% | previous 3.76%"
+    },
+    {
+      "id": "mkt:019f8027-dac8-7aab-8e11-903c6812200d",
+      "time": "2026-07-20 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.20) | actual 2.94 | previous 3.11"
+    },
+    {
+      "id": "mkt:019f8027-da8f-7aab-8e11-8aaef87ce814",
+      "time": "2026-07-20 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Jul.20) | actual 3.835% | previous 3.86%"
+    },
+    {
+      "id": "mkt:019f8027-da81-7aab-8e11-8170ad9617ce",
+      "time": "2026-07-20 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Jul.20) | actual 51.45% | previous 54.42%"
+    },
+    {
+      "id": "4998318",
+      "time": "2026-07-20 23:31:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗內政部長抵達伊斯蘭堡。"
+    },
+    {
+      "id": "4998317",
+      "time": "2026-07-20 23:31:22",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數下跌0.23%，歐洲斯托克指數上漲0.05%，歐元區藍籌股上漲0.07%。英國富時100指數下跌0.54%，德國DAX指數上漲0.12%，法國CAC 40指數上漲0.17%，西班牙IBEX指數上漲0.06%。"
+    },
+    {
+      "id": "mkt:019f8026-b358-7aab-8e11-7f1aba686f91",
+      "time": "2026-07-20 23:30:47",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "The Canadian government said it is in talks with Pratt & Whitney Canada to bolster Canada's aerospace industry."
+    },
     {
       "id": "4998316",
       "time": "2026-07-20 23:30:27",

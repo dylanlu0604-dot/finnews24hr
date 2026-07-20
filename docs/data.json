@@ -1,7 +1,215 @@
 {
-  "updated": "2026-07-20 23:31:19",
-  "count": 19187,
+  "updated": "2026-07-20 23:35:22",
+  "count": 19189,
   "items": [
+    {
+      "id": "mkt:019f8029-75e5-7aab-8e11-f42c5cc612e4",
+      "time": "2026-07-20 23:33:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CVX.N",
+        "Impact mixed"
+      ],
+      "text": "Chevron (CVX.N): all platform personnel were evacuated to shore ahead of Gulf storm."
+    },
+    {
+      "id": "mkt:019f8029-341c-7aab-8e11-e9aa560feada",
+      "time": "2026-07-20 23:33:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CVX.N",
+        "Impact bearish"
+      ],
+      "text": "Chevron (CVX.N) has shut in oil production at the Petronius platform in the Gulf of Mexico."
+    },
+    {
+      "id": "4998320",
+      "time": "2026-07-20 23:33:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織：將根據中期信貸安排和韌性與可持續性信託安排，向坦尚尼亞撥付32.49億特別提款權（約合4.439億美元）。"
+    },
+    {
+      "id": "mkt:019f8028-9601-7aab-8e11-e4c529275108",
+      "time": "2026-07-20 23:32:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: Iran's interior minister arrived in Islamabad."
+    },
+    {
+      "id": "4998319",
+      "time": "2026-07-20 23:32:26",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣三個月期國債，得標利率3.730%，投標倍數3。拍賣六個月期國債，得標利率3.835%，投標倍數2.94。"
+    },
+    {
+      "id": "mkt:019f8028-1431-7aab-8e11-db753af883b2",
+      "time": "2026-07-20 23:32:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields"
+      ],
+      "text": "US 3-month Treasury auction on July 20 — percentage of allotment at the stop-out (winning) yield 73.01%, prior 8.47%."
+    },
+    {
+      "id": "mkt:019f8028-1346-7aab-8e11-d54e7bae7503",
+      "time": "2026-07-20 23:32:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "US 3-month Treasury bill auction as of July 20: stop-out yield 3.73%, prior 3.76%."
+    },
+    {
+      "id": "mkt:019f8028-113d-7aab-8e11-caf07b3667fc",
+      "time": "2026-07-20 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y"
+      ],
+      "text": "US 6-month Treasury auction stop-out yield 3.835%, down 2.5 bps from prior 3.86%."
+    },
+    {
+      "id": "mkt:019f8028-1071-7aab-8e11-c00ce6d7a520",
+      "time": "2026-07-20 23:32:16",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 3-month Treasury auction July 20 — bid-cover ratio 3.00; prior 2.84."
+    },
+    {
+      "id": "mkt:019f8028-0fce-7aab-8e11-beabaf9248c1",
+      "time": "2026-07-20 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury auction on July 20: share of awards at the stop-out rate 51.45% vs 54.42% previously."
+    },
+    {
+      "id": "mkt:019f8027-fb01-7aab-8e11-b582a927c78f",
+      "time": "2026-07-20 23:32:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "US 6-month Treasury auction bid-cover ratio 2.94 as of July 20, down from 3.11 previously."
+    },
+    {
+      "id": "mkt:019f8027-e4f6-7aab-8e11-a8fb3c5927ff",
+      "time": "2026-07-20 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.20) | actual 3 | previous 2.84"
+    },
+    {
+      "id": "mkt:019f8027-e4e8-7aab-8e11-a05f3cf778b2",
+      "time": "2026-07-20 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction Accepted at High (Jul.20) | actual 73.01% | previous 8.47%"
+    },
+    {
+      "id": "mkt:019f8027-e4d9-7aab-8e11-9a89f28c8cb0",
+      "time": "2026-07-20 23:32:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 3-Month Bill Auction High Yield Rate (Jul.20) | actual 3.73% | previous 3.76%"
+    },
+    {
+      "id": "mkt:019f8027-dac8-7aab-8e11-903c6812200d",
+      "time": "2026-07-20 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.20) | actual 2.94 | previous 3.11"
+    },
+    {
+      "id": "mkt:019f8027-da8f-7aab-8e11-8aaef87ce814",
+      "time": "2026-07-20 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction High Yield Rate (Jul.20) | actual 3.835% | previous 3.86%"
+    },
+    {
+      "id": "mkt:019f8027-da81-7aab-8e11-8170ad9617ce",
+      "time": "2026-07-20 23:32:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 6-Month Bill Auction Accepted at High (Jul.20) | actual 51.45% | previous 54.42%"
+    },
+    {
+      "id": "4998318",
+      "time": "2026-07-20 23:31:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗內政部長抵達伊斯蘭堡。"
+    },
+    {
+      "id": "4998317",
+      "time": "2026-07-20 23:31:22",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤漲跌不一】歐洲斯托克600指數下跌0.23%，歐洲斯托克指數上漲0.05%，歐元區藍籌股上漲0.07%。英國富時100指數下跌0.54%，德國DAX指數上漲0.12%，法國CAC 40指數上漲0.17%，西班牙IBEX指數上漲0.06%。"
+    },
+    {
+      "id": "mkt:019f8026-b358-7aab-8e11-7f1aba686f91",
+      "time": "2026-07-20 23:30:47",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "The Canadian government said it is in talks with Pratt & Whitney Canada to bolster Canada's aerospace industry."
+    },
     {
       "id": "4998316",
       "time": "2026-07-20 23:30:27",
@@ -176528,203 +176736,6 @@
         "國際"
       ],
       "text": "【英國擬將伊朗伊斯蘭革命衛佇列為“非法組織”】英國政府13日宣佈，已向議會提交法規草案，擬將伊朗伊斯蘭革命衛隊等3個組織列為“非法組織”。英國政府說，草案將於本週晚些時候由議會審議。草案如獲議會批准，支援或協助相關組織可被判處14年監禁；受相關組織指使實施縱火等破壞活動，最高可被判處終身監禁。新規還將降低檢方的舉證難度。截至目前，伊朗方面尚未就此作出回應。（新華社）"
-    },
-    {
-      "id": "4985123",
-      "time": "2026-07-13 23:34:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【中國駐日使館就日涉“南海仲裁案裁決”惡劣言行提出嚴正交涉】針對日本外相就“南海仲裁案裁決”出臺十年發表談話、日夥同他國發表所謂聯合宣告，中國駐日本大使館公使施泳13日向日本外務省亞洲大洋州局局長金井正彰提出嚴正交涉和強烈抗議。中方強調，所謂“裁決”違反國際法基本準則，嚴重損害《聯合國海洋法公約》嚴肅性和權威性，嚴重衝擊國際法治，是一張非法無效沒有約束力的廢紙，中方反對且不接受任何基於該“裁決”的主張和行動。中國在南海的領土主權和海洋權益任何情況下不受該“裁決”影響。日本在南海問題上負有歷史罪責且並未清算，沒有資格說三道四。日方持續插手南海問題、政治操弄非法“裁決”，有關惡劣言行挑戰戰後國際秩序和國際法治，破壞南海和平穩定，違背地區國家共同利益和意願，引發地區國家和國際社會的高度警惕。中方將堅決有力回擊日方挑釁，堅定捍衛自身領土主權和海洋權益。（新華社）"
-    },
-    {
-      "id": "4985122",
-      "time": "2026-07-13 23:33:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "博世將於 2026 年啟動美國本土商業化生產。"
-    },
-    {
-      "id": "mkt:019f5c1c-9962-7aab-8d5f-578bfc0b75d1",
-      "time": "2026-07-13 23:33:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Axios: a U.S. official said U.S. Central Command will announce later on Monday the specific timing for resuming the 'Block Iran' operation."
-    },
-    {
-      "id": "4985121",
-      "time": "2026-07-13 23:32:53",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣三個月期國債，得標利率3.760%，投標倍數2.84。拍賣六個月期國債，得標利率3.860%，投標倍數3.11。"
-    },
-    {
-      "id": "4985120",
-      "time": "2026-07-13 23:32:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "據Axios記者： 新一輪海上封鎖尚未生效，相關法規要求需提前 24 小時通知船東。一名美國官員表示，美軍中央司令部將於週一晚些時候公佈具體實施時間。"
-    },
-    {
-      "id": "mkt:019f5c1b-bef1-7aab-8d5f-49de19b7131a",
-      "time": "2026-07-13 23:32:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "US 3-month Treasury auction through July 13 — percentage of allotment awarded at the stop-out yield 8.47%, previous 93.49%."
-    },
-    {
-      "id": "mkt:019f5c1b-a786-7aab-8d5f-4737c68fbc82",
-      "time": "2026-07-13 23:32:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 3-month Treasury auction on July 13: bid-cover ratio 2.84, prior 2.58."
-    },
-    {
-      "id": "mkt:019f5c1b-a650-7aab-8d5f-3cf8c2730ee0",
-      "time": "2026-07-13 23:32:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "【Apollo warns dollar vulnerable to AI-driven sell-off】Apollo Global Management chief economist Torsten Slok said the dollar’s recent strength is vulnerable if an AI-led equity sell-off intensifies. He noted international investors’ heavy, largely unhedged allocation to AI themes has driven record rolling net foreign inflows into US equities over the past 12 months, boosting dollar demand as buyers convert local currency into dollars. With US rates high, hedging costs remain elevated, making dollar moves more sensitive to equity flows. Slok warned that a loss of confidence in AI triggering equity outflows would pose material downside risk to the dollar."
-    },
-    {
-      "id": "mkt:019f5c1b-a513-7aab-8d5f-32d0eee1dfab",
-      "time": "2026-07-13 23:32:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "WTI"
-      ],
-      "text": "US 6-month Treasury auction stop-out yield 3.86% as of July 13, versus 3.83% prior."
-    },
-    {
-      "id": "mkt:019f5c1b-a39a-7aab-8d5f-2931eac1680d",
-      "time": "2026-07-13 23:32:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US 3-month Treasury auction (settlement July 13) stop-out yield 3.76% vs 3.74% prior."
-    },
-    {
-      "id": "mkt:019f5c1b-a382-7aab-8d5f-27226a1eac11",
-      "time": "2026-07-13 23:32:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "U.S. 6-month Treasury auction on July 13 bid-cover ratio 3.11; prior 3.05."
-    },
-    {
-      "id": "mkt:019f5c1b-8088-7aab-8d5f-1d89976f6538",
-      "time": "2026-07-13 23:32:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 6-month Treasury auction on July 13: share of allotment at the stop-out yield 54.42%, previous 0.86%."
-    },
-    {
-      "id": "mkt:019f5c1b-6608-7aab-8d5f-10b07e15fd4b",
-      "time": "2026-07-13 23:32:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 2.84 | previous 2.58"
-    },
-    {
-      "id": "mkt:019f5c1b-65aa-7aab-8d5f-090f6dcb0b33",
-      "time": "2026-07-13 23:32:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction High Yield Rate (Jul.13) | actual 3.76% | previous 3.74%"
-    },
-    {
-      "id": "mkt:019f5c1b-659c-7aab-8d5f-020635ca75c7",
-      "time": "2026-07-13 23:32:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 3-Month Bill Auction Accepted at High (Jul.13) | actual 8.47% | previous 93.49%"
-    },
-    {
-      "id": "mkt:019f5c1b-58c2-7aab-8d5e-fbea61fc94cf",
-      "time": "2026-07-13 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Bid/Cover Ratio (Jul.13) | actual 3.11 | previous 3.05"
-    },
-    {
-      "id": "mkt:019f5c1b-58c2-7aab-8d5e-f6365ffb75d8",
-      "time": "2026-07-13 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction High Yield Rate (Jul.13) | actual 3.86% | previous 3.83%"
-    },
-    {
-      "id": "mkt:019f5c1b-58af-7aab-8d5e-ebafadd8fe9a",
-      "time": "2026-07-13 23:32:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 6-Month Bill Auction Accepted at High (Jul.13) | actual 54.42% | previous 0.86%"
     }
   ]
 }
