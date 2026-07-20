@@ -1,7 +1,109 @@
 {
   "date": "2026-07-20",
-  "count": 1247,
+  "count": 1258,
   "items": [
+    {
+      "id": "mkt:019f7e21-6673-7aab-8e03-082b92bb709b",
+      "time": "2026-07-20 14:05:45",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "German two-year government bond yield rose to its highest since July 2024 at 2.8174%, up 3.5 bps."
+    },
+    {
+      "id": "mkt:019f7e20-d4e4-7aab-8e03-045c9292d760",
+      "time": "2026-07-20 14:05:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Keystone Petroleum said it has temporarily suspended production as a precaution after changes in the regional security situation. The company said its assets were not affected and Shaikan oilfield's latest output exceeded 45,000 barrels per day."
+    },
+    {
+      "id": "4997101",
+      "time": "2026-07-20 14:04:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率<DE2YT=RR>升至2.8174%，創2024年7月以來新高，最新上漲3.5個基點，報2.8124%。"
+    },
+    {
+      "id": "4997100",
+      "time": "2026-07-20 14:04:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【航空資本集團向日本天馬航空出租7架波音737-10飛機】航空資本集團（ACG）7月20日宣佈，在範堡羅國際航展期間與日本航空公司天馬航空（Skymark Airlines）簽署租賃協議，將向後者出租7架波音737-10飛機。首架飛機預計將於2028年從ACG訂單中交付，並用於支援天馬航空機隊擴張和更新計劃。"
+    },
+    {
+      "id": "4997099",
+      "time": "2026-07-20 14:04:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙馬蘭石油：因地區安全域性勢暫時關停阿特魯什油田與薩爾桑油田。"
+    },
+    {
+      "id": "4997098",
+      "time": "2026-07-20 14:04:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "海灣基斯通石油公司：受地區安全域性勢不斷惡化影響，已作為安全防範措施暫時關停生產作業。"
+    },
+    {
+      "id": "4997097",
+      "time": "2026-07-20 14:04:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股作業系統板塊異動拉昇】浪潮軟體觸及漲停，浙大網新、銳捷網路、紫光股份、中國軟體、國網信通、浪潮資訊跟漲。"
+    },
+    {
+      "id": "mkt:019f7e1f-a604-7aab-8e02-fa94b528cbd6",
+      "time": "2026-07-20 14:03:51",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS"
+      ],
+      "text": "Samsung Electronics' wafer foundry is evaluating doubling initial production capacity at its Taylor, Texas plant versus the original plan."
+    },
+    {
+      "id": "4997096",
+      "time": "2026-07-20 14:03:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【軍工板塊持續下挫 航天工程連續6日跌停】軍工板塊持續下挫，航天工程連續6日跌停，立航科技、遠東股份、鋮昌科技、德恩精工、中京電子、美盈森、博雲新材、旭光電子觸及跌停，邁信林、天微電子、海倫哲跌超15%，信測標準、西測測試、七豐精工、瑞可達、興圖新科、恆鋒工具、春暉智控、有研粉材跌超10%，隆華科技、盟升電子、航天電子、孚日股份、川環科技跟跌。"
+    },
+    {
+      "id": "4997095",
+      "time": "2026-07-20 14:03:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元斯托克50指數期貨下跌0.13%，德國DAX指數期貨下跌0.18%，富時指數期貨下跌0.31%。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607203813073756",
+      "time": "2026-07-20 14:02:58",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "德國6月PPI月率為-0.3%，預期-0.2%，前值0.30%。"
+    },
     {
       "id": "mkt:019f7e1e-3162-7aab-8e02-f4bd2f941bfe",
       "time": "2026-07-20 14:02:15",
