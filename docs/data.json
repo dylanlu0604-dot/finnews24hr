@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-21 06:31:09",
-  "count": 19020,
+  "updated": "2026-07-21 06:35:07",
+  "count": 19022,
   "items": [
+    {
+      "id": "4998536",
+      "time": "2026-07-21 06:33:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【日媒：美國五大科技巨頭的“隱性債務”飆升至1.65萬億美元】《日經新聞》的一項研究顯示，隨著人工智慧投資的激增，美國科技巨頭的隱性債務在短短四年內增長了八倍，估計達到1.65萬億美元。這一數字超過了它們賬面上的實際債務，使得投資者更難評估相關風險。《日經新聞》分析了谷歌母公司Alphabet、微軟、亞馬遜、Meta和甲骨文近期的財務報表及其他資料。其中，Meta的表外債務尤為高昂，約為4200億美元，幾乎是其賬面記錄債務的三倍。"
+    },
+    {
+      "id": "mkt:019f81a9-ecad-7aab-8e15-b73f5a9896d1",
+      "time": "2026-07-21 06:33:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Microsoft",
+        "Alphabet",
+        "Amazon",
+        "Meta Platforms",
+        "MSFT.O",
+        "Impact bearish",
+        "GOOGL.O",
+        "AMZN.O"
+      ],
+      "text": "【Nikkei: Hidden liabilities at five US tech giants surge to $1.65 trillion】Nikkei analysis says off‑balance-sheet liabilities at Alphabet, Microsoft, Amazon, Meta and Oracle have risen eightfold in four years to about $1.65 trillion as AI investment surged, exceeding their reported on‑balance debt and complicating investor risk assessment. Meta's off‑balance liabilities are estimated at roughly $420 billion, nearly three times its recorded debt."
+    },
+    {
+      "id": "4998535",
+      "time": "2026-07-21 06:32:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四大險企發聲看好資本市場，部分險資逆勢加倉】在A股市場劇烈波動下，作為長期資金的險資依舊看好後市投資機會，並且部分險資已逆勢加倉。“近期市場回撥過快，我們有加倉，而且加倉了科技股。”上海一家萬億級險資機構的權益投資相關負責人說，後續市場回撥還會繼續尋找合適機會加倉。一家養老險公司投資部總經理告訴記者：“當前我們依舊保持著較高的權益倉位，只是在持倉板塊內部做了一些結構性調整。”就具體的超額收益投資機會來看，大部分險資機構依舊看好科技股投資機會。 “資本市場短期波動屬於正常現象，被資本市場短期波動牽著鼻子走，從過往經驗看，通常難有好的業績表現。”一家養老險公司的權益投資相關負責人對記者表示。（上證報）"
+    },
+    {
+      "id": "4998534",
+      "time": "2026-07-21 06:30:42",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【高盛：日本政策討論或更多透過訊號傳遞來提振日本國債】高盛表示，日本決策層近期的言論表明，他們正在探索將更多國內儲蓄引導至本土資產的途徑。與直接購買相比，對政府債券的潛在支援可能更多來自於訊號傳遞和正向反饋迴圈。包括George Cole在內的策略師在一份報告中指出，根據日本政府養老金投資基金（GPIF）目前的資產配置框架，如果將國內債券的持有比例從約27%提高至31%，還有大約750億美元的空間可以增加JGBs的持倉。"
+    },
     {
       "id": "te:markets:568319",
       "time": "2026-07-21 06:30:03",
@@ -174889,22 +174936,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Silver Drops by 3.66% — Top commodity losers are Silver (-3.66%), Gold (-2.84%) and Iron Ore CNY (-0.93%)."
-    },
-    {
-      "id": "4985428",
-      "time": "2026-07-14 06:31:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "多名伊朗當地目擊者稱，波斯灣沿岸多地傳來巨大爆炸聲，包括科納拉克、賈姆與恰巴哈爾三地。"
-    },
-    {
-      "id": "mkt:019f5d9b-3750-7aab-8d65-73f00189149e",
-      "time": "2026-07-14 06:31:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RBNZ chief economist Paul Conway said the bank does not intend to shift to a restrictive policy stance."
     }
   ]
 }
