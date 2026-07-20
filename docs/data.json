@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-21 04:32:59",
-  "count": 19047,
+  "updated": "2026-07-21 04:36:59",
+  "count": 19044,
   "items": [
+    {
+      "id": "te:markets:568314",
+      "time": "2026-07-21 04:35:08",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.59% Lower — The Dow Jones Index decreased 307 points or 0.59 percent on Monday to close at 51839 points. The decline was led by Merck (-2.51%), Sherwin-Williams (-2.19%) and Boeing (-2.12%). On the upside, the strongest performers were Microsoft (2.21%), Alphabet (1.36%) and Chevron (1.24%)."
+    },
+    {
+      "id": "te:markets:568313",
+      "time": "2026-07-21 04:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls as Financials Post Losses — The S&P/TSX Composite Index fell 0.8% to close at 34,960 on Monday, weighed down by financial stocks. Major banks were among the biggest decliners as escalating US-Iran tensions pushed oil prices higher, lifting bond yields despite Canada's softer-than-expected June inflation report. RBC lost 2.1%, TD Bank shed 2.3%, BMO fell 1.9%, CIBC retreated 2.6%, and Scotiabank closed 2.3% lower. In contrast, Shopify (+1.1%) and Celestica (+2.4%) advanced, tracking the rebound in US technology shares. Energy stocks closed higher on rising oil prices, with Canadian Natural up 0.7% and Cenovus adding 1.5%. On the data front, Canada's annual inflation rate eased to 2.8% in June 2026 from 3.2% in May, slightly below forecasts of 2.9%."
+    },
     {
       "id": "mkt:019f8135-a0b2-7aab-8e14-e4f932f16633",
       "time": "2026-07-21 04:26:43",
@@ -175102,55 +175126,6 @@
         "MKT News"
       ],
       "text": "【South Carolina governor appoints late Sen. Lindsey Graham's sister to fill remainder of his term】On July 13, South Carolina Governor Henry McMaster announced he has appointed Darlene Graham Nodone to serve the remainder of the late Republican U.S. Senator Lindsey Graham's term."
-    },
-    {
-      "id": "4985353",
-      "time": "2026-07-14 04:36:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：疑似伊朗深層地下核設施的“鎬頭山”有可能成為軍事打擊目標。"
-    },
-    {
-      "id": "4985352",
-      "time": "2026-07-14 04:35:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美已故參議員格雷厄姆的妹妹獲任命接替其剩餘任期】當地時間7月13日，美國南卡羅來納州州長亨利·麥克馬斯特宣佈，已故共和黨籍聯邦參議員林賽·格雷厄姆的妹妹達琳·格雷厄姆·諾多內將完成格雷厄姆剩餘任期。參議員林賽·格雷厄姆與他的妹妹達琳·格雷厄姆·諾多內 資料圖諾多內將任職至2027年1月3日，除非她決定參加今年11月的選舉並贏得這一參議院席位。格雷厄姆去世時正在競選連任。南卡羅來納州將於下月舉行特別選舉，以決定由誰接替他成為共和黨在11月選舉中的候選人。（央視新聞）"
-    },
-    {
-      "id": "te:markets:566507",
-      "time": "2026-07-14 04:35:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.26% Lower — The Dow Jones Index decreased 138 points or 0.26 percent on Monday to close at 52499 points. The decline was led by Nvidia (-3.24%), Boeing (-2.94%) and Honeywell International (-2.29%). On the upside, the strongest performers were Salesforce (4.47%), Chevron (3.21%) and Visa (2.28%)."
-    },
-    {
-      "id": "4985351",
-      "time": "2026-07-14 04:34:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "記者：以色列國內有比內塔尼亞胡更合適的人選嗎？\n特朗普：他們當中大多數人我都不瞭解。我覺得我和比比（內塔尼亞胡）相處得很好。倘若執掌以色列的不是比比，換成一個軟弱的人，以色列如今恐怕早已不復存在。"
-    },
-    {
-      "id": "te:markets:566506",
-      "time": "2026-07-14 04:34:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Slides on Geopolitical Risks — The Ibovespa lost 1.2% to close at 175,739 on Monday following military exchanges between the US and Iran. US and Iranian forces exchanged heavy missile and drone attacks over the weekend and into Monday, pushing oil prices higher on renewed concerns over crude shipments through the Strait of Hormuz. Energy-driven inflation concerns reinforced expectations that interest rates will remain higher for longer. Financials traded lower, with Itaú losing 1.8%, Itaúsa down 2.5%, and Banco do Brasil shedding 1.6%. Utilities also posted losses, with Axia down 3% and Sabesp retreating 2.4%. Vale fell 1.8% on lower iron ore prices. Other notable laggards included WEG (-4.6%), Rede D'Or (-1.3%), and Embraer (-1.9%). In contrast, Petrobras advanced 2.5% on higher oil prices. Meanwhile, the Focus survey showed lower inflation forecasts for 2026."
     }
   ]
 }
