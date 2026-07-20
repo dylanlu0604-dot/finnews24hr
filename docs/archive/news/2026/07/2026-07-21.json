@@ -1,7 +1,23 @@
 {
   "date": "2026-07-21",
-  "count": 21,
+  "count": 23,
   "items": [
+    {
+      "id": "4998350",
+      "time": "2026-07-21 00:19:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "雀巢計劃至2028年向巴西工廠投資5.4億雷亞爾（合1億美元）。"
+    },
+    {
+      "id": "mkt:019f8051-a6b7-7aab-8e12-6b94a688cc14",
+      "time": "2026-07-21 00:17:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia will expel Italy’s military attaché and his deputy in retaliation, the Russian foreign ministry spokesman said."
+    },
     {
       "id": "te:markets:568295",
       "time": "2026-07-21 00:15:17",

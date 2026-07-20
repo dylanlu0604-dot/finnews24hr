@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-21 00:16:48",
-  "count": 19191,
+  "updated": "2026-07-21 00:20:47",
+  "count": 19188,
   "items": [
+    {
+      "id": "4998350",
+      "time": "2026-07-21 00:19:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "雀巢計劃至2028年向巴西工廠投資5.4億雷亞爾（合1億美元）。"
+    },
+    {
+      "id": "mkt:019f8051-a6b7-7aab-8e12-6b94a688cc14",
+      "time": "2026-07-21 00:17:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russia will expel Italy’s military attaché and his deputy in retaliation, the Russian foreign ministry spokesman said."
+    },
     {
       "id": "te:markets:568295",
       "time": "2026-07-21 00:15:17",
@@ -176717,57 +176733,6 @@
         "MKT News"
       ],
       "text": "Hungarian parliament passed legislation enabling the removal of the president."
-    },
-    {
-      "id": "mkt:019f5c47-5510-7aab-8d5f-d7840f66c861",
-      "time": "2026-07-14 00:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Governor WALLER to speak in 10 minutes."
-    },
-    {
-      "id": "4985153",
-      "time": "2026-07-14 00:19:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "匈牙利議會透過罷免總統相關法案。"
-    },
-    {
-      "id": "mkt:019f5c45-212a-7aab-8d5f-c8456369671b",
-      "time": "2026-07-14 00:17:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【IMO: No legal basis for charging transit fees after Trump proposes 20% charge on Strait of Hormuz shipments】Trump said the US would impose a 20% charge on cargo transiting the Strait of Hormuz. An IMO spokesperson said: \"We have been made aware of the matter and are awaiting further details. The International Maritime Organization firmly opposes charging fees for straits used for international navigation. There is no legal basis for compulsory strait transit fees.\""
-    },
-    {
-      "id": "te:markets:566486",
-      "time": "2026-07-14 00:17:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Rises to Nearly 6-Week High — Heating oil in the US rose nearly 6% to $3.76 per gallon, the highest since June 3, as concerns over fuel supplies increased. President Donald Trump said the US would reinstate a naval blockade on Iran and impose a 20% reimbursement fee on cargo passing through the Strait of Hormuz, raising fears over disruptions to regional energy flows. Supply concerns were also heightened by disruptions to Russian energy exports, with Ukraine reporting strikes on an oil depot in Stavropol and storage facilities at the port of Kavkaz. Russia said it would suspend diesel exports and become a net importer as repeated Ukrainian attacks and higher crude prices disrupted operations at key refineries. Meanwhile, Kazakhstan’s Caspian Pipeline Consortium reduced shipments by 7% in June due to maintenance at the Tengiz oilfield and lower Russian flows. At the same time, warmer-than-normal weather forecasts through July 28 are also expected to keep power sector fuel demand elevated."
-    },
-    {
-      "id": "4985152",
-      "time": "2026-07-14 00:17:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱霍爾木茲海峽南部航道“不安全”】伊朗駐英國大使館13日在社交媒體上說，霍爾木茲海峽南部航道“不安全、不可靠，且易發生事故”。 伊朗駐英國大使兼任伊朗常駐國際海事組織代表。伊朗駐英使館說，為遵守伊斯蘭堡諒解備忘錄，伊朗建立一條臨時海上安全走廊，該走廊無技術和軍事障礙，並已告知國際海事組織。然而，“美國正將船隻引向一條危險的南部平行航道。該路線不僅合法性存疑，還不安全、不可靠，且易發生事故”。 伊朗駐英使館說，美國襲擊伊朗港口等“軍事侵略行徑”，已使霍爾木茲海峽成為高度緊張且高風險區域。 美伊諒解備忘錄達成後，海峽形成兩條通行航道，分別為伊朗管控的北部航道和靠近阿曼一側的南部航道，美軍在南部航道提供通航協助。 伊朗伊斯蘭革命衛隊海軍當地時間12日凌晨宣佈，鑑於外國勢力非法干預造成不安全域性面，霍爾木茲海峽即日起關閉，直至另行通知以及美國停止干涉這一地區為止。美軍中央司令部於美國東部時間12日上午在社交媒體上發文稱，霍爾木茲海峽的“通行仍在繼續”。伊朗並不控制該海峽。(新華社)"
     }
   ]
 }
