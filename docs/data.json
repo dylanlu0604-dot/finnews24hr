@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-20 13:17:26",
-  "count": 19127,
+  "updated": "2026-07-20 13:22:18",
+  "count": 19121,
   "items": [
+    {
+      "id": "4997007",
+      "time": "2026-07-20 13:20:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【山西長治市應急管理局黨委書記、局長張文波被查】據山西省紀委監委網站，山西省長治市應急管理局黨委書記、局長張文波涉嫌嚴重違紀違法，目前正接受省紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4997006",
+      "time": "2026-07-20 13:20:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美銀：上調創科實業目標價至141.6港元，看好Milwaukee品牌發展】美銀證券發表研報，透露日前與創科實業管理層會面，並在美國波士頓進行實地考察，與承包商及公用事業機構溝通，認為集團旗下Milwaukee品牌在公用事業領域增長前景向好，該品牌的專業工具能提升工人的生產力及安全性，客戶普遍願意為此支付溢價，預期Milwaukee專注拓展複雜、高階、DC相關產品領域，能支援公司實現10% EBIT目標。美銀證券重申對創科實業的“買入”評級，目標價由118港元上調至141.6港元，對應2027年預測市盈率21倍，指出Milwaukee佔集團產品組合比例上升，輕微提高估值倍數屬合理。"
+    },
+    {
+      "id": "4997005",
+      "time": "2026-07-20 13:19:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "滙豐銀行將道達爾能源目標股價從81歐元下調至79歐元。"
+    },
+    {
+      "id": "4997004",
+      "time": "2026-07-20 13:19:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "德國金融監管局對TeamViewer處以24萬歐元罰款，認定該公司違反了《市場濫用監管條例》。"
+    },
+    {
+      "id": "4997003",
+      "time": "2026-07-20 13:17:15",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【大摩：下調海底撈目標價至17.5港元，下調收入及純利預測】摩根士丹利發表研報指，海底撈第二季度堂食需求較預期疲弱，且消費降級趨勢持續。雖然海底撈的翻檯率表現較市場具韌性，但由於疲弱的行業趨勢，相信公司或會採取更審慎的網路擴張，並專注於成本控制。大摩將海底撈2026至27財年的收入預測下調3至4%，並將純利預測下調8%，目標價由20港元下調至17.5港元，維持“增持”評級。"
+    },
+    {
+      "id": "4997002",
+      "time": "2026-07-20 13:17:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐將 KKR 目標價從118美元上調至121美元；將黑石集團目標價從131美元上調至135美元。"
+    },
     {
       "id": "te:economy:568100",
       "time": "2026-07-20 13:16:41",
@@ -176222,126 +176272,6 @@
         "市場"
       ],
       "text": "滬深300指數下跌2%至4,684.72點。"
-    },
-    {
-      "id": "4983709",
-      "time": "2026-07-13 13:21:36",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國將在2027年努力改善財政平衡和國債狀況。"
-    },
-    {
-      "id": "mkt:019f59ec-7496-7aab-8d4f-49fce28c486e",
-      "time": "2026-07-13 13:21:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said its latest retaliatory strikes targeted U.S. military facilities in Bahrain and destroyed a radar system in Oman."
-    },
-    {
-      "id": "mkt:019f59eb-c2db-7aab-8d4f-40bf51834141",
-      "time": "2026-07-13 13:20:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "603986.SS"
-      ],
-      "text": "GigaDevice (A-share) trading turnover reached CNY30 billion."
-    },
-    {
-      "id": "4983708",
-      "time": "2026-07-13 13:20:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨下跌1%。"
-    },
-    {
-      "id": "mkt:019f59ea-41b2-7aab-8d4f-3f94e1bdd022",
-      "time": "2026-07-13 13:19:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bearish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "FTSE China A50 index futures extended losses to 1%."
-    },
-    {
-      "id": "mkt:019f59e9-7f33-7aab-8d4f-345c68fc125f",
-      "time": "2026-07-13 13:18:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's budget minister said the government plans to cut costs to save roughly 50 trillion won from the 2027 budget."
-    },
-    {
-      "id": "4983706",
-      "time": "2026-07-13 13:18:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國預算部長：到2027年透過削減成本將節省約50萬億韓元預算。"
-    },
-    {
-      "id": "4983705",
-      "time": "2026-07-13 13:18:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄官員稱莫斯科地區遭無人機襲擊 致3死多傷】當地時間7月13日清晨，俄羅斯首都莫斯科市長索比亞寧通報稱，自莫斯科時間12日20時30分起，超過350架無人機飛向莫斯科地區，大部分在遠距離被防空系統攔截，50架無人機在飛近莫斯科過程中被摧毀。此外，俄羅斯莫斯科州州長沃羅比約夫當地時間13日清晨通報稱，在該州十餘個區域上空攔截並擊落81架無人機。在莫斯科州伊斯特拉市皮奧涅爾斯基鎮，無人機墜落造成3人死亡，另有3人受傷，5棟私人住宅發生火災。在莫斯科州索爾涅奇諾戈爾斯克，一架無人機擊中一棟多層住宅樓，致2人受傷。"
-    },
-    {
-      "id": "mkt:019f59e8-e845-7aab-8d4f-2b845aa794f9",
-      "time": "2026-07-13 13:17:43",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "【Russian official says drone attack on Moscow region kills 3, injures several】Moscow mayor Sobyanin said early July 13 that since 20:30 Moscow time on July 12 more than 350 drones flew toward the Moscow region; most were intercepted at long range and about 50 were destroyed as they approached Moscow. Moscow Oblast governor Vorobyov said forces intercepted and shot down 81 drones over more than ten districts. In Pionersky, Istra, drone debris killed three, injured three and set five private houses on fire; in Solnechnogorsk a drone struck a multi-storey residential building, injuring two."
-    },
-    {
-      "id": "mkt:019f59e8-e54f-7aab-8d4f-2564cecbf492",
-      "time": "2026-07-13 13:17:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish"
-      ],
-      "text": "CHINA'S SHANGHAI COMPOSITE INDEX extended afternoon losses to 2%."
-    },
-    {
-      "id": "4983703",
-      "time": "2026-07-13 13:17:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達3.12%，成分股中，國博電子跌11.88%，佰維儲存跌11.69%，中科星圖跌9.77%，中控技術跌9.17%。"
-    },
-    {
-      "id": "4983702",
-      "time": "2026-07-13 13:17:30",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達5.01%，成分股中，天力複合跌14.05%，聚星科技跌11.61%，則成電子跌9.90%，廣信科技跌9.27%。"
     }
   ]
 }
