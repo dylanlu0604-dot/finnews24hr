@@ -1,7 +1,166 @@
 {
   "date": "2026-07-20",
-  "count": 440,
+  "count": 458,
   "items": [
+    {
+      "id": "mkt:019f7d09-99bd-7aab-8dfd-6b8816675a9d",
+      "time": "2026-07-20 09:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China 5-year Loan Prime Rate (LPR) unchanged at 3.50% on July 20, matching the 3.50% market expectation and the prior reading of 3.50%."
+    },
+    {
+      "id": "mkt:019f7d09-9832-7aab-8dfd-60bc1a048092",
+      "time": "2026-07-20 09:00:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "China one-year loan prime rate (LPR) as of July 20: 3.00% (consensus 3.00%; prior 3.00%)."
+    },
+    {
+      "id": "4996513",
+      "time": "2026-07-20 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】低硫燃料油連續漲7.70%，上海原油連續漲7.15%，純苯連續漲5.17%，液化石油氣連續漲4.99%，集運指數歐線期貨連續漲4.47%，燃料油連續漲4.44%，苯乙烯連續漲4.39%，甲醇連續漲4.29%，丙烯連續漲3.93%，瀝青連續漲3.73%。"
+    },
+    {
+      "id": "4996512",
+      "time": "2026-07-20 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲1.03%。"
+    },
+    {
+      "id": "4996511",
+      "time": "2026-07-20 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲4%，現報2749.00元。"
+    },
+    {
+      "id": "4996510",
+      "time": "2026-07-20 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內漲1%，現報4587.00元。"
+    },
+    {
+      "id": "4996509",
+      "time": "2026-07-20 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "聚丙烯連續主力合約日內漲3%，現報8378.00元。"
+    },
+    {
+      "id": "4996508",
+      "time": "2026-07-20 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "液化石油氣連續主力合約日內漲4%，現報5702.00元。"
+    },
+    {
+      "id": "4996507",
+      "time": "2026-07-20 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "瀝青連續主力合約日內漲3%，現報4250.00元。"
+    },
+    {
+      "id": "4996506",
+      "time": "2026-07-20 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3718.00元。"
+    },
+    {
+      "id": "4996505",
+      "time": "2026-07-20 09:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報552.80元。"
+    },
+    {
+      "id": "mkt:019f7d09-7b30-7aab-8dfd-5ea9d08eba29",
+      "time": "2026-07-20 09:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "China | 1-Year Loan Prime Rate (Jul.20) | actual 3% | consensus 3.00% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019f7d09-7b28-7aab-8dfd-55a43e236411",
+      "time": "2026-07-20 09:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "China | 5-Year Loan Prime Rate (Jul.20) | actual 3.5% | consensus 3.50% | previous 3.50%"
+    },
+    {
+      "id": "4996504",
+      "time": "2026-07-20 08:59:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報56.90美元/盎司。"
+    },
+    {
+      "id": "4996503",
+      "time": "2026-07-20 08:59:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【長安汽車計劃擴建泰國工廠產能】據報道，長安汽車計劃將其在泰國的工廠年產能翻番，以滿足當地銷售和出口需求。"
+    },
+    {
+      "id": "4996502",
+      "time": "2026-07-20 08:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【遼寧省產業發展與安全新型工業化院揭牌】據“遼寧釋出”訊息，近日，由遼寧省工業和資訊化廳與遼寧大學共建的“遼寧省產業發展與安全新型工業化院”在遼寧大學揭牌成立，旨在構建“政產學研用金服”協同推進的產業賦能平臺，統籌產業發展與安全，助力構建具有遼寧特色的“2211”產業體系。新型工業化院將充分發揮遼寧大學多學科科研優勢與省工業和資訊化廳產業政策資源主導作用，聚焦產業鏈供應鏈安全風險防控與製造業應用場景挖掘培育兩大主線，重點圍繞智庫建設、聯合科研攻關、全鏈條產業服務、產業鏈供應鏈風險監測、複合型人才培養五大方向開展工作。據介紹，新型工業化院將設立產業安全研究室、工業投資分析室、場景創新培育室三大專項研究機構。"
+    },
+    {
+      "id": "te:markets:568029",
+      "time": "2026-07-20 08:56:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Holds Losses — The Australian dollar held its recent decline to around $0.698, pulling back from a recent three-week high as the escalating US-Iran conflict weighed on risk assets. The safe-haven US dollar strengthened, while oil prices climbed after hostilities expanded beyond military targets to critical infrastructures. Shipping through the Strait of Hormuz has also largely come to a halt, with the US enforcing a naval blockade on Iranian ports and Iran targeting vessels, raising fears that disruptions to energy supplies could reignite global inflation and complicate the policy outlook for major central banks. In Australia, expectations for further policy tightening remained subdued, with markets assigning about a 70% chance of one final increase by December. Some investors expect the Reserve Bank to begin cutting rates next year. Traders now await upcoming key employment data and flash PMI surveys due later this week for further clues on the country’s economic health."
+    },
+    {
+      "id": "4996501",
+      "time": "2026-07-20 08:56:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力股份：已開展惠普相關結構件樣品送樣認證工作】英力股份(300956)7月20日在互動平臺表示，惠普的相關結構件，公司已開展樣品送樣認證工作，客戶近期已完成審廠流程，目前公司尚在等待最終結果。認證進度存在不確定性，具體經營狀況可關注公司後續公告。"
+    },
     {
       "id": "4996500",
       "time": "2026-07-20 08:55:19",
