@@ -1,7 +1,125 @@
 {
-  "updated": "2026-07-21 00:33:00",
-  "count": 19168,
+  "updated": "2026-07-21 00:37:08",
+  "count": 19167,
   "items": [
+    {
+      "id": "4998364",
+      "time": "2026-07-21 00:36:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩武裝部隊表示，已向黎巴嫩南部弗倫、斯里法兩座城鎮派駐部隊，兩地為三大試點區域中的兩處。 待以色列軍隊撤離後，黎武裝部隊將進駐第三處試點區域西扎烏塔爾。"
+    },
+    {
+      "id": "mkt:019f8061-4374-7aab-8e12-bab5eca5f80d",
+      "time": "2026-07-21 00:34:45",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "UK Prime Minister Burnham said the UK is committed to ensuring safe passage of shipping through the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f8061-08bb-7aab-8e12-b540da782bed",
+      "time": "2026-07-21 00:34:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO: all crew reported safe."
+    },
+    {
+      "id": "mkt:019f8060-fa3f-7aab-8e12-adf8e4053b65",
+      "time": "2026-07-21 00:34:26",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Burnham said he hopes to invite Trump to visit Manchester in the future to experience the city's appeal."
+    },
+    {
+      "id": "4998363",
+      "time": "2026-07-21 00:34:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國航海事故通報中心報告稱，全體船員均平安無恙。"
+    },
+    {
+      "id": "mkt:019f8060-ce29-7aab-8e12-a186cecb92b8",
+      "time": "2026-07-21 00:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UKMTO: captain reported vessel struck by an unidentified object, causing rudder damage."
+    },
+    {
+      "id": "4998362",
+      "time": "2026-07-21 00:33:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海上貿易行動辦公室（UKMTO）表示，一名船長報告其船隻被未知彈丸擊中，導致舵機受損。"
+    },
+    {
+      "id": "mkt:019f8060-470a-7aab-8e12-9a5e024a9b69",
+      "time": "2026-07-21 00:33:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "UK Maritime Trade Operations said it had received a report of an incident 17 nm east of Dibba, UAE."
+    },
+    {
+      "id": "4998361",
+      "time": "2026-07-21 00:33:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相府：英國首相伯納姆向特朗普通報了英國對保障霍爾木茲海峽航運通行安全的承諾。"
+    },
+    {
+      "id": "4998360",
+      "time": "2026-07-21 00:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國海事貿易運營機構(UKMTO)表示，已收到一份關於在阿聯酋迪巴以東17海里處發生事件的報告。"
+    },
+    {
+      "id": "mkt:019f805f-ea14-7aab-8e12-973b8c9d87d8",
+      "time": "2026-07-21 00:33:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy spoke by phone with UK Prime Minister Burnham."
+    },
+    {
+      "id": "mkt:019f805f-dad4-7aab-8e12-8e138dea7745",
+      "time": "2026-07-21 00:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An IDF spokesman said the army will conduct a military exercise near the Gaza border at the Zikim coastal area on Wednesday morning local time."
+    },
+    {
+      "id": "4998359",
+      "time": "2026-07-21 00:33:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相伯納姆與特朗普通話。"
+    },
+    {
+      "id": "4998358",
+      "time": "2026-07-21 00:32:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國首相辦公室稱：英國首相伯納姆向特朗普表示，希望未來能邀請特朗普訪問曼徹斯特，向他展示曼徹斯特的特色與優勢。"
+    },
     {
       "id": "mkt:019f805e-978b-7aab-8e12-83f8fe7ae2ec",
       "time": "2026-07-21 00:31:50",
@@ -176302,188 +176420,6 @@
         "國際"
       ],
       "text": "【美國緬因州發生槍擊事件 涉及移民及海關執法局】央視記者當地時間7月13日獲悉，美國緬因州眾議院議長瑞安·費克託在社交媒體上發文稱，當日在緬因州比迪福德發生了一起致人死亡的槍擊事件，事件涉及美國移民及海關執法局（ICE），但目前關於事發經過的細節尚不明確。瑞安·費克託表示，槍擊事件發生在當日上午，地點位於比迪福德，有一人死亡，該事件涉及美國移民及海關執法局（ICE）。緬因州警察和公共安全部目前正在現場收集細節，預計聯邦調查局（FBI）也將介入調查。（央視新聞）"
-    },
-    {
-      "id": "4985178",
-      "time": "2026-07-14 00:36:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美債收益率走低，因美聯儲沃勒稱短期記憶體在加息可能性。"
-    },
-    {
-      "id": "mkt:019f5c55-da70-7aab-8d60-73d635dbde97",
-      "time": "2026-07-14 00:35:58",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Governor Waller said he expects consumer spending to remain strong and AI-related investment to stay robust."
-    },
-    {
-      "id": "4985177",
-      "time": "2026-07-14 00:35:45",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲理事沃勒：如果核心通脹繼續走低仍屬合理情形，屆時我將繼續支援維持利率不變。"
-    },
-    {
-      "id": "mkt:019f5c55-4eee-7aab-8d60-6b59c6ea5558",
-      "time": "2026-07-14 00:35:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "WALLER: If core inf continues to ease, that remains a reasonable scenario; I will continue to support keeping rates unchanged."
-    },
-    {
-      "id": "mkt:019f5c54-d651-7aab-8d60-6733093c4d6a",
-      "time": "2026-07-14 00:34:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Governor Waller said he is concerned about the rapid pace of elevated core inflation."
-    },
-    {
-      "id": "mkt:019f5c54-c917-7aab-8d60-58a031da94c1",
-      "time": "2026-07-14 00:34:48",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "WALLER said he expects headline inflation to start slowing with this week's data, but attention will remain on core inflation."
-    },
-    {
-      "id": "mkt:019f5c54-b3b5-7aab-8d60-520987f6e674",
-      "time": "2026-07-14 00:34:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Spot gold falls below $4,000/oz】Spot gold slid below $4,000/oz for the first time since July 1, falling more than 2.8% intraday after President Trump said he would restart a blockade against Iran and Fed governor Christopher Waller warned rates may need to be raised in the near term."
-    },
-    {
-      "id": "4985176",
-      "time": "2026-07-14 00:34:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌4%，現報57.43美元/盎司。"
-    },
-    {
-      "id": "4985175",
-      "time": "2026-07-14 00:34:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4000美元/盎司，日內跌2.76%。"
-    },
-    {
-      "id": "4985174",
-      "time": "2026-07-14 00:33:34",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "交易員預計美聯儲本月加息的可能性為50%。"
-    },
-    {
-      "id": "4985173",
-      "time": "2026-07-14 00:33:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌3%，現報3994.41美元/盎司。"
-    },
-    {
-      "id": "4985172",
-      "time": "2026-07-14 00:33:27",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "委內瑞拉央行：該國 6 月通脹率上漲 13.8% 。"
-    },
-    {
-      "id": "4985171",
-      "time": "2026-07-14 00:33:22",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4000美元/盎司，日內跌2.92%。"
-    },
-    {
-      "id": "mkt:019f5c53-4adb-7aab-8d60-4bf3874769d5",
-      "time": "2026-07-14 00:33:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "WALLER said he is determined to avoid repeating the Fed's 2021 mistakes, but the labor market is no longer as tight as it was then and inflation expectations remain stable."
-    },
-    {
-      "id": "mkt:019f5c53-2366-7aab-8d60-40bd75920c35",
-      "time": "2026-07-14 00:33:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor Waller said the economy's underlying condition is solid."
     }
   ]
 }
