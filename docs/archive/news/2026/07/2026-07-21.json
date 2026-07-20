@@ -1,7 +1,19 @@
 {
   "date": "2026-07-21",
-  "count": 97,
+  "count": 98,
   "items": [
+    {
+      "id": "mkt:019f8098-8fbe-7aab-8e13-4993aa6bd612",
+      "time": "2026-07-21 01:35:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Sterling modestly trimmed losses after John Healey was appointed UK chancellor; GBP/USD down 0.18% at 1.3429."
+    },
     {
       "id": "mkt:019f8096-39e8-7aab-8e13-457fb0e959c4",
       "time": "2026-07-21 01:32:36",

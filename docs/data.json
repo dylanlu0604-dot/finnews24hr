@@ -1,7 +1,19 @@
 {
-  "updated": "2026-07-21 01:33:27",
-  "count": 19109,
+  "updated": "2026-07-21 01:37:27",
+  "count": 19105,
   "items": [
+    {
+      "id": "mkt:019f8098-8fbe-7aab-8e13-4993aa6bd612",
+      "time": "2026-07-21 01:35:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "Sterling modestly trimmed losses after John Healey was appointed UK chancellor; GBP/USD down 0.18% at 1.3429."
+    },
     {
       "id": "mkt:019f8096-39e8-7aab-8e13-457fb0e959c4",
       "time": "2026-07-21 01:32:36",
@@ -175711,53 +175723,6 @@
         "XAUUSD"
       ],
       "text": "【Saudi-led coalition says it intercepted Houthi ballistic missiles】The Saudi-led coalition said on the evening of July 13 its air defenses engaged ballistic missiles fired by Yemen’s Houthi movement toward southern Saudi Arabia. Earlier, Sanaa International Airport, controlled by the Houthis, was hit in an airstrike; the Houthis accused Saudi forces and vowed retaliation. Yemen’s defense ministry said the strike targeted a senior Houthi delegation that had attended a funeral for Iran’s slain supreme leader Khamenei to prevent them boarding an Iranian plane to return home."
-    },
-    {
-      "id": "4985237",
-      "time": "2026-07-14 01:37:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【沙特稱應對胡塞武裝導彈】由沙特主導的多國聯軍當地時間7月13日晚表示，其防空系統應對了葉門胡塞武裝向沙特南部地區發射的彈道導彈。當天早些時候，胡塞武裝控制的葉門首都薩那國際機場遭空襲。胡塞武裝指責沙特發動了這次空襲，並誓言報復。葉門政府國防部則稱空襲薩那國際機場，以阻止參加完伊朗遇害最高領袖哈梅內伊追悼儀式的胡塞武裝高階別代表團搭乘伊朗飛機回國。 2014年胡塞武裝佔領薩那後，葉門一直深陷衝突之中。次年，沙特領導的多國聯軍介入葉門內戰，支援國際社會普遍承認的葉門政府。（CCTV國際時訊）"
-    },
-    {
-      "id": "4985236",
-      "time": "2026-07-14 01:36:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲7%，現報76.41美元/桶。"
-    },
-    {
-      "id": "4985235",
-      "time": "2026-07-14 01:35:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲7%，現報81.33美元/桶。"
-    },
-    {
-      "id": "mkt:019f5c8b-6bf5-7aab-8d61-f54f364a665e",
-      "time": "2026-07-14 01:34:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Waller favors replacing 2% inflation target with 1.5%-2.5% range】Federal Reserve Governor Waller said he favors an inflation-target range rather than a single 2% point, proposing 1.5%-2.5% because expecting the Fed to hit a precise number is unrealistic. He warned that judging policy success or failure by a single point can be overly harsh and that a target range would better reflect economic dynamics."
-    },
-    {
-      "id": "4985234",
-      "time": "2026-07-14 01:33:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【匈牙利國會透過《基本法》修正案 提前終止總統任期】當地時間13日，匈牙利國會投票透過了《基本法》第十七次修正案，其中包括終止現任總統舒尤克的總統任期。此前，匈牙利總理毛焦爾威脅稱，如果不辭職就會透過修改《基本法》結束總統任期。舒尤克2024年經國會選舉當選匈牙利總統，其任期持續至2029年。（央視新聞）"
     }
   ]
 }
