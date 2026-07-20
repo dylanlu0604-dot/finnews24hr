@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-21 04:49:01",
-  "count": 19046,
+  "updated": "2026-07-21 04:53:00",
+  "count": 19049,
   "items": [
+    {
+      "id": "4998475",
+      "time": "2026-07-21 04:52:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心：熱帶低壓持續無規律向西北方向移動，空軍預備役與美國國家海洋和大氣管理局飛機將於今晚對其開展探測。"
+    },
+    {
+      "id": "4998474",
+      "time": "2026-07-21 04:51:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【現貨黃金跌0.2%，持續交投於4000美元關口附近，紐約銅漲超1.2%】週一（7月20日）紐約尾盤，現貨黃金跌0.22%，報4008.35美元/盎司，亞太盤初低開至4000美元整數位心理關口附近，隨後震盪上行、北京時間19:34重新整理日高至4040.52美元，隨後快速下挫，後續交投4010美元附近。COMEX黃金期貨跌0.15%，報4012.80美元/盎司。現貨白銀漲0.90%，報56.4211美元/盎司，亞太盤初顯著走高，日內大部分時間持穩於57美元一線。COMEX白銀期貨漲0.66%，報56.700美元/盎司。COMEX銅期貨漲1.25%，報6.3430美元/磅，亞太盤初以來持續走高。現貨鉑金漲0.10%，現貨鈀金漲0.88%。"
+    },
+    {
+      "id": "4998473",
+      "time": "2026-07-21 04:51:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "DC BLOX：獲美國能源部國家核安全管理局遴選，成為人工智慧資料中心與能源專案合作聯盟成員。"
+    },
+    {
+      "id": "4998472",
+      "time": "2026-07-21 04:49:59",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【蘋果漲價動搖核心使用者升級意願】週一美股成交額第4名蘋果收跌2.14%，成交173.88億美元。一項針對蘋果使用者群體的調查顯示，超過90%的受訪者表示會因產品價格上漲調整購買行為，其中“降低升級頻率”成為最普遍的應對策略，僅9%的使用者表示不受影響。部分蘋果產品價格漲幅已超50%，記憶體及儲存升級價格甚至翻倍，且分析師報告指出供應鏈價格在2028年前難有明顯改善，當前高價狀態可能持續數年。調查結果表明，即使是高度關注蘋果產品的忠實使用者，也存在承受極限，價格上漲正直接動搖其核心使用者群的升級意願。"
+    },
     {
       "id": "mkt:019f8149-1bb1-7aab-8e14-fd843704b459",
       "time": "2026-07-21 04:47:59",
@@ -175129,14 +175163,6 @@
         "XAUUSD"
       ],
       "text": "【Trump says US may strike hardened underground nuclear site near Natanz; warns of heavy airstrikes tonight, tomorrow】Trump said the United States will strike the hardened underground nuclear facility \"Gaoshan\" near Iran’s Natanz uranium‑enrichment site and warned of continued heavy airstrikes tonight and tomorrow. He told reporters the US is closely monitoring the site, which he described as currently inactive, and said Washington will destroy it whenever activity is detected, adding a strike could come soon. The site is reported to contain two deep tunnel complexes and is considered among Iran’s most fortified nuclear facilities, potentially able to withstand the most powerful US bunker‑busting munitions."
-    },
-    {
-      "id": "4985358",
-      "time": "2026-07-14 04:50:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美移民執法人員在緬因州行動中開槍致1人死亡】當地時間7月13日，美國移民與海關執法局（ICE）執法人員在緬因州比迪福德執行驅逐行動時開槍致一名男子身亡。據美國國土安全部長馬克韋恩·馬林介紹，執法人員試圖攔截一名收到最終驅逐令的男子，該男子駕車衝向執法人員後，遭ICE特工槍擊身亡。聯邦調查局（FBI）已接手調查此事。（央視新聞）"
     }
   ]
 }
