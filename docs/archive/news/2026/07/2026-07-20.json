@@ -1,7 +1,65 @@
 {
   "date": "2026-07-20",
-  "count": 346,
+  "count": 352,
   "items": [
+    {
+      "id": "mkt:019f7cdd-c2e5-7aab-8dfc-a86f5bad149e",
+      "time": "2026-07-20 08:12:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "South Korea's KOSPI index trimmed losses to below 1% after tumbling over 4% at the open."
+    },
+    {
+      "id": "4996437",
+      "time": "2026-07-20 08:11:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國首爾綜指跌幅收窄至1.3%，稍早一度跌超4%。"
+    },
+    {
+      "id": "4996436",
+      "time": "2026-07-20 08:10:34",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "SK海力士轉漲，此前跌超5%；三星電子接近抹平跌幅。"
+    },
+    {
+      "id": "mkt:019f7cdc-2c6e-7aab-8dfc-a3dd9ce799dd",
+      "time": "2026-07-20 08:10:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS",
+        "Impact mixed"
+      ],
+      "text": "SK Hynix shares turned positive after earlier falling more than 5%; Samsung Electronics shares nearly erased losses."
+    },
+    {
+      "id": "mkt:019f7cdb-e2c4-7aab-8dfc-9c780b87ef2a",
+      "time": "2026-07-20 08:10:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 38.00 points (0.43%) at 8,834.70 on Monday, July 20."
+    },
+    {
+      "id": "4996435",
+      "time": "2026-07-20 08:10:04",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信建投：科技行情尚未終結】中信建投證券研報指出，科技行情是否結束了？這是當下市場最關注的話題。覆盤歷史經驗，科技是否迎來“泡沫崩潰”，取決於三點，第一，科技的產業趨勢是否真的終結；第二，流動性是否到了非緊不可的地步；第三，傳統增長是否迎來反轉。如果不是，尚不能認為科技終結。當下對科技行情的討論和5月份對美伊衝突的關注一樣。中信建投的觀點沒有變化，全球當下正在經歷一輪供給側，科技尚未終結，地緣也是。配置上建議聚焦半年報業績確定性較強的方向，重點關注三條景氣線索：一是AI硬體上游半導體裝置、材料等核心環節，業績兌現確定性高；二是工業金屬、化工材料等週期品，兼具AI需求拉動與產能約束，盈利彈性有望釋放；三是出海優勢突出的高階製造，出口韌性支撐業績增長。"
+    },
     {
       "id": "te:markets:568017",
       "time": "2026-07-20 08:09:34",
