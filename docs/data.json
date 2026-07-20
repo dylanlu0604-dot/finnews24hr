@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-21 00:04:36",
+  "updated": "2026-07-21 00:08:39",
   "count": 19193,
   "items": [
+    {
+      "id": "mkt:019f8048-21cb-7aab-8e12-54399465f9b3",
+      "time": "2026-07-21 00:07:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Interfax reports Russia's finance ministry said it will suspend government bond auctions to stabilise markets."
+    },
+    {
+      "id": "te:markets:568291",
+      "time": "2026-07-21 00:07:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.54% Lower — The FTSE 100 Index decreased 57 points or 0.54 percent on Monday to close at 10543 points. The decline was led by Barratt Redrow (-3.44%), Airtel Africa (-3.29%) and Kingfisher (-3.22%). On the upside, the strongest performers were Experian (2.37%), Diploma (1.42%) and JD Sports Fashion (1.17%)."
+    },
+    {
+      "id": "4998347",
+      "time": "2026-07-21 00:06:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部表示，為穩定市場已暫停俄羅斯聯邦政府債券（OFZ）拍賣。"
+    },
+    {
+      "id": "4998346",
+      "time": "2026-07-21 00:06:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部表示，將暫停聯邦公債券(OFZ)拍賣。"
+    },
+    {
+      "id": "4998345",
+      "time": "2026-07-21 00:06:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "前英國國防大臣約翰·希利宣佈加入新內閣。"
+    },
+    {
+      "id": "4998344",
+      "time": "2026-07-21 00:05:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方：截至7月20日，美國軍方已攔截引導7艘商船，並癱瘓1艘商船，以阻止船隻進出伊朗港口。"
+    },
+    {
+      "id": "4998343",
+      "time": "2026-07-21 00:05:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部錫裡克傳出數次爆炸聲】總檯記者當地時間20日自伊朗方面獲悉，伊朗南部錫裡克居民報告稱，當地發生數起爆炸。（央視新聞）"
+    },
+    {
+      "id": "4998342",
+      "time": "2026-07-21 00:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國稱兩名駐伊朗外交人員遭扣留數小時】當地時間7月20日，法國外長讓-諾埃爾·巴羅表示，兩名法國駐伊朗大使館工作人員19日晚遭伊朗安全部門扣留數小時，並接受審訊，其中一人還遭到粗暴對待。兩人隨後獲釋並返回法國駐伊朗大使館，目前已處於安全狀態，預計將在未來數小時內返回法國。巴羅譴責這是伊朗安全部門針對法方外交人員實施的“一起極其嚴重的恐嚇行為”，稱伊方“公然違反外交豁免權”。他表示，已就此向伊朗外交部長提出嚴正交涉，並強調，對法國外交人員人身安全的這一“極其嚴重且不可接受”的侵犯，“絕不會沒有後果”，法方將對此作出回應。截至目前，法國方面尚未公佈兩名外交人員遭扣留的具體原因，伊朗官方也未就此事公開作出回應。"
+    },
     {
       "id": "4998341",
       "time": "2026-07-21 00:02:41",
@@ -176706,87 +176782,6 @@
         "MKT News"
       ],
       "text": "Russia's energy minister met with Iran's president, Iranian media reported."
-    },
-    {
-      "id": "4985149",
-      "time": "2026-07-14 00:07:24",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【德國兩年期國債收益率漲超7個基點，投資者關注特朗普對霍爾木茲海峽的最新態度】週一（7月13日）歐市尾盤，德國10年期國債收益率漲4.3個基點，報3.109%，日內交投於3.077%-3.112%區間，全天處於上漲狀態，北京時間17:55重新整理日低、之後持續擴大漲幅。兩年期德債收益率漲7.5個基點，報2.722%，日內交投於2.683%-2.723%區間；30年期德債收益率漲2.2個基點，報3.626%。2/10年期德債收益率利差跌3.196個基點，報+38.240個基點。"
-    },
-    {
-      "id": "te:markets:566479",
-      "time": "2026-07-14 00:07:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.01% Lower — The FTSE 100 Index decreased 0.9 points or 0.01 percent on Monday to close at 10496 points. The decline was led by IG Group Holdings (-3.10%), Fresnillo (-2.62%) and Endeavour (-2.60%). On the upside, the strongest performers were Vodafone (5.22%), BP (4.22%) and BT (3.49%)."
-    },
-    {
-      "id": "4985148",
-      "time": "2026-07-14 00:06:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Agentio 宣佈與 Meta 達成合作，助力品牌僅需數日即可完成從創意洞察到在 Instagram、Facebook 上線達人合作廣告的全流程投放。"
-    },
-    {
-      "id": "te:markets:566478",
-      "time": "2026-07-14 00:05:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Inch Marginally Lower — Pan-European stock indices closed marginally lower on Monday as the escalation to the war in the Middle East continued to cloud the macroeconomic backdrop for energy importers. The Euro STOXX 50 inched 0.1% down to 6,264 and the STOXX Europe 600 inched 0.1% down to 641. Sovereign yields rose together with energy prices after the US and Iran threatened to restore blockades on vessels leaving the Strait of Hormuz. Banks dropped from the tighter credit conditions, with Santander and Deutsche Bank down more than 1% each. Also, ASML lost 1.8% and Infineon dropped close to 3%, tracking losses for US and Asian counterparts after brokers noted that SK Hynix may miss its earnings guidance. In turn, the traction in oil prices aided energy producers with TotalEnergies and ENI gaining 3% and 4%, respectively."
-    },
-    {
-      "id": "mkt:019f5c3a-347b-7aab-8d5f-ae9159b09e9e",
-      "time": "2026-07-14 00:05:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "A UN shipping agency spokesperson said the agency is awaiting further details on President Trump’s comment that the US would impose a 20% fee on cargo transiting the Strait of Hormuz."
-    },
-    {
-      "id": "mkt:019f5c3a-1afd-7aab-8d5f-a39259e5f190",
-      "time": "2026-07-14 00:05:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "A UN shipping agency spokesperson said there is no legal basis for imposing mandatory transit charges and the agency opposes levying fees on any straits used for international navigation."
-    },
-    {
-      "id": "te:markets:566475",
-      "time": "2026-07-14 00:04:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Rises as Energy Stocks Rally — The CAC 40 gained 0.3% to close at 8,365 on Monday, lifted by gains in the energy and luxury sectors. TotalEnergies advanced 3% as oil prices surged following a fresh wave of US strikes on Iran and conflicting statements from Washington and Tehran over the status of the Strait of Hormuz. Luxury stocks also traded higher, with Hermes up 0.9% and Kering adding 0.7%. Stellantis gained 1.8% after reporting that preliminary second-quarter vehicle shipments rose 10% year-on-year to nearly 1.6 million units, driven by strong growth in North America, its largest market. In contrast, heavyweight industrial stocks posted losses as Middle East tensions heightened market uncertainty. The spike in energy prices reignited inflation concerns, prompting markets to price in two additional ECB interest rate hikes over the next year, with the first expected in September. Airbus lost 1%, while Safran shed 1.8%."
-    },
-    {
-      "id": "4985147",
-      "time": "2026-07-14 00:04:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國航運機構發言人：該機構正等待特朗普相關言論的更多細節 —— 特朗普稱美國將對經霍爾木茲海峽通行貨物徵收 20% 稅費。 反對對任何用於國際航行的海峽收取通行費。 針對海峽過境強制徵收通行費缺乏法律依據。"
     }
   ]
 }

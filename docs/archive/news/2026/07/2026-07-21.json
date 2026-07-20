@@ -1,7 +1,83 @@
 {
   "date": "2026-07-21",
-  "count": 5,
+  "count": 13,
   "items": [
+    {
+      "id": "mkt:019f8048-21cb-7aab-8e12-54399465f9b3",
+      "time": "2026-07-21 00:07:18",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Interfax reports Russia's finance ministry said it will suspend government bond auctions to stabilise markets."
+    },
+    {
+      "id": "te:markets:568291",
+      "time": "2026-07-21 00:07:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.54% Lower — The FTSE 100 Index decreased 57 points or 0.54 percent on Monday to close at 10543 points. The decline was led by Barratt Redrow (-3.44%), Airtel Africa (-3.29%) and Kingfisher (-3.22%). On the upside, the strongest performers were Experian (2.37%), Diploma (1.42%) and JD Sports Fashion (1.17%)."
+    },
+    {
+      "id": "4998347",
+      "time": "2026-07-21 00:06:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部表示，為穩定市場已暫停俄羅斯聯邦政府債券（OFZ）拍賣。"
+    },
+    {
+      "id": "4998346",
+      "time": "2026-07-21 00:06:32",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯財政部表示，將暫停聯邦公債券(OFZ)拍賣。"
+    },
+    {
+      "id": "4998345",
+      "time": "2026-07-21 00:06:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "前英國國防大臣約翰·希利宣佈加入新內閣。"
+    },
+    {
+      "id": "4998344",
+      "time": "2026-07-21 00:05:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國軍方：截至7月20日，美國軍方已攔截引導7艘商船，並癱瘓1艘商船，以阻止船隻進出伊朗港口。"
+    },
+    {
+      "id": "4998343",
+      "time": "2026-07-21 00:05:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部錫裡克傳出數次爆炸聲】總檯記者當地時間20日自伊朗方面獲悉，伊朗南部錫裡克居民報告稱，當地發生數起爆炸。（央視新聞）"
+    },
+    {
+      "id": "4998342",
+      "time": "2026-07-21 00:04:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國稱兩名駐伊朗外交人員遭扣留數小時】當地時間7月20日，法國外長讓-諾埃爾·巴羅表示，兩名法國駐伊朗大使館工作人員19日晚遭伊朗安全部門扣留數小時，並接受審訊，其中一人還遭到粗暴對待。兩人隨後獲釋並返回法國駐伊朗大使館，目前已處於安全狀態，預計將在未來數小時內返回法國。巴羅譴責這是伊朗安全部門針對法方外交人員實施的“一起極其嚴重的恐嚇行為”，稱伊方“公然違反外交豁免權”。他表示，已就此向伊朗外交部長提出嚴正交涉，並強調，對法國外交人員人身安全的這一“極其嚴重且不可接受”的侵犯，“絕不會沒有後果”，法方將對此作出回應。截至目前，法國方面尚未公佈兩名外交人員遭扣留的具體原因，伊朗官方也未就此事公開作出回應。"
+    },
     {
       "id": "4998341",
       "time": "2026-07-21 00:02:41",
