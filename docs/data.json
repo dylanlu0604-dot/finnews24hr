@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-21 04:53:00",
-  "count": 19049,
+  "updated": "2026-07-21 04:56:59",
+  "count": 19048,
   "items": [
+    {
+      "id": "4998476",
+      "time": "2026-07-21 04:55:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【報道：美國眾議院計劃本週就臨時撥款法案與預算藍圖進行投票】據兩位共和黨領導層助手透露，眾議院計劃於週二就一項為政府提供資金至12月的法案進行投票，隨後在週三就一項旨在啟動新一輪黨派預算方案的共和黨決議進行投票。眾議院領導人正在提前著手，以確保在9月30日財年結束後政府仍有資金可用。同時，他們也在快速推進第三項預算協調法案，而該法案的第一步正是預算決議的投票。儘管共和黨內的財政鷹派批評稱，其預算藍圖中的支出並沒有相應的資金抵消措施，但領導層仍在推進。"
+    },
     {
       "id": "4998475",
       "time": "2026-07-21 04:52:13",
@@ -175142,27 +175150,6 @@
         "國際"
       ],
       "text": "【7月14日美股成交額前20：SK海力士股價大跌9.3%】週一美股成交額第11名SK海力士（SKHY）收跌9.32%，成交87.79億美元。分析師指出，SK海力士股價暴跌是多重因素疊加導致的短期市場調整。直接導火索是韓國投資證券釋出的業績預測顯示，公司第二季度營業利潤預期較市場共識低約8%，引發投資者擔憂。更深層的原因在於，SK海力士HBM產品採用長期協議定價，無法與通用DRAM同步漲價，導致其短期盈利增長不及市場預期。同時，HBM4在二季度出貨未能如期放量，加上公司赴美上市前股價已累計上漲約630%，利好兌現後投資者獲利了結情緒濃厚。儘管韓國央行和公司管理層強調晶片超級週期仍在持續，但市場對儲存晶片週期屬性的擔憂、估值高位以及對AI投資回報的質疑，共同觸發了此次回撥。"
-    },
-    {
-      "id": "4985359",
-      "time": "2026-07-14 04:53:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "委內瑞拉代總統羅德里格斯：決定將外交部與外貿部合併，組建全新的外交與貿易部，任命國際關係專家費利克斯·普拉森西亞執掌該部門。"
-    },
-    {
-      "id": "mkt:019f5d41-942c-7aab-8d64-29052396cc93",
-      "time": "2026-07-14 04:53:26",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD"
-      ],
-      "text": "【Trump says US may strike hardened underground nuclear site near Natanz; warns of heavy airstrikes tonight, tomorrow】Trump said the United States will strike the hardened underground nuclear facility \"Gaoshan\" near Iran’s Natanz uranium‑enrichment site and warned of continued heavy airstrikes tonight and tomorrow. He told reporters the US is closely monitoring the site, which he described as currently inactive, and said Washington will destroy it whenever activity is detected, adding a strike could come soon. The site is reported to contain two deep tunnel complexes and is considered among Iran’s most fortified nuclear facilities, potentially able to withstand the most powerful US bunker‑busting munitions."
     }
   ]
 }
