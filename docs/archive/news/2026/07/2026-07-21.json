@@ -1,7 +1,69 @@
 {
   "date": "2026-07-21",
-  "count": 359,
+  "count": 366,
   "items": [
+    {
+      "id": "4998559",
+      "time": "2026-07-21 07:08:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英特爾將對資料中心部門裁員】英特爾計劃新一輪裁員，公司發言人表示：“為落實整體戰略，打造業務更聚焦、運營更高效的企業，公司資料中心事業部正在調整組織架構，匹配適配長期業務發展的崗位與人才，夯實長期發展根基。我們將尊重所有受影響員工，並配套相關幫扶資源，平穩過渡本次人員調整。”英特爾定於7月23日週四美股收盤後釋出 2026年第二季度財報。"
+    },
+    {
+      "id": "4998558",
+      "time": "2026-07-21 07:08:19",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【貝萊德據悉擬發行逾120億美元債券 為Meta的資料中心融資】知情人士透露，貝萊德正尋求出售超過120億美元的債券，以協助為Meta Platforms Inc. 位於德克薩斯州埃爾帕索的資料中心提供融資。這是近期一連串支撐科技公司大舉投資AI的債券交易中最新的一筆。知情人士表示，這些債券是由一家控股公司發行的，該公司持有貝萊德在Project Sopaipilla Holdings中80%的股份，Meta在該資料中心專案持有20%的股份。知情人士指出，發行人已委任摩根大通和摩根士丹利於週三安排固定收益投資者電話會議。由於未獲授權公開談論此事，這些知情人士要求匿名。這些債券預計將於下週初定價。今年5月，知情人士曾透露，此次融資總額可能約130億美元。"
+    },
+    {
+      "id": "4998557",
+      "time": "2026-07-21 07:06:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦證券交易所將於2027年上半年推出夜間交易平臺。"
+    },
+    {
+      "id": "4998556",
+      "time": "2026-07-21 07:05:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國華能與山東省政府簽署戰略合作協議】7月20日，中國華能與山東省政府簽署《助力山東綠色低碳高質量發展先行區建設戰略合作協議》。根據協議，雙方將聚焦重大戰略投資與重點專案落地、新能源開發利用、煤電最佳化升級等深化合作。"
+    },
+    {
+      "id": "4998555",
+      "time": "2026-07-21 07:05:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【緊抓權益市場投資機遇，理財資金打新常態化】近日，長鑫科技公佈網下初步配售結果及網上中籤結果，多家理財公司以A類投資者身份現身網下投資者初步配售明細表。同時，一些理財公司也透過網上打新方式，中籤長鑫科技。記者瞭解到，隨著理財行業“固收+”策略縱深推進，打新已經成為理財資金常態化的操作。近兩年新股發行市場表現良好，讓理財公司打新成為一種兼具安全性和收益性的選擇。除了打新，在低利率環境下，銀行理財資金還透過定增、創設指數型理財產品等方式積極佈局權益市場，探索固收之外的收益新引擎。在業內人士看來，理財公司加速佈局權益市場，不僅是響應中長期資金入市政策導向的重要舉措，更是挖掘優質資產、增厚產品收益的重要路徑。理財資金在擴大與權益市場的交集過程中，讓居民財富管理多元化需求與實體經濟直接融資需求之間的橋樑進一步暢通。（中證報）"
+    },
+    {
+      "id": "4998554",
+      "time": "2026-07-21 07:05:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上市公司密集釋出增持回購公告 險資集體表態發揮“耐心資本”優勢】7月20日，多家上市公司、大型金融機構密集釋出公告及表態，透過控股股東與管理層增持、上市公司股份回購、加大權益市場投資佈局等多重舉措，向資本市場傳遞長期看好、穩健發展的積極訊號，全力維護市場穩定、提振投資者信心。資本市場信心支撐力量持續擴容，當日，中國人民保險集團、中國太平洋保險、中國平安、新華人壽保險等頭部上市險企集體發聲，明確發揮保險資金“耐心資本”優勢，堅定賦能資本市場、服務實體經濟發展。（中國證券報）"
+    },
+    {
+      "id": "te:markets:568325",
+      "time": "2026-07-21 07:04:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Flat After Inflation Data — The NZX 50 was almost flat, trading around 13,697 in Tuesday morning trade, remaining muted for the second straight session, as gains in healthcare, technology, and financials offset declines in communication services, industrials, and consumer staples. Traders assessed fresh data, as inflation accelerated in Q2 to the highest level since Q4 2023, while also evaluating its impact on the central bank's interest rate decision at the upcoming meeting following a 25-bps rate hike earlier this month. Caution also prevailed amid persistently high oil prices due to escalating tensions in the Middle East, as inflation concerns fueled expectations of further interest rate hikes. RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further interest rate hikes. Ebos Group rose 0.6%, Fisher & Paykel Healthcare gained 0.8%, and Mercury NZ climbed 0.6%, while Chorus, Colonial Motor Company, and Auckland International Airport fell 2.3%, 1.4%, and 1.3%, respectively"
+    },
     {
       "id": "4998553",
       "time": "2026-07-21 07:03:33",
