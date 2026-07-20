@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-21 06:15:28",
-  "count": 19017,
+  "updated": "2026-07-21 06:19:24",
+  "count": 19016,
   "items": [
+    {
+      "id": "4998521",
+      "time": "2026-07-21 06:15:16",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【多隻寬基ETF成交放量 增量資金積極佈局A股市場】資金持續借道股票型ETF入市。7月20日，多隻寬基ETF尾盤放量，成交額創下2024年10月中旬以來的新高。從資金流向看，7月以來，股票型ETF淨流入超3200億元，寬基ETF成為資金配置的重要方向。與此同時，中國誠通和中國國新均公告大舉增持A股，基金公司也公告自購計劃。從基金經理最新觀點看，當前積極看多科技主線，同時關注低估值傳統行業公司。 (上證報)"
+    },
+    {
+      "id": "4998520",
+      "time": "2026-07-21 06:15:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西班牙隊在馬德里舉行世界盃奪冠慶祝活動】當地時間7月20日，西班牙國家隊在首都馬德里舉行世界盃奪冠慶祝活動。西班牙政府駐馬德里代表處公佈的資料顯示，約有180萬人走上馬德里街頭，迎接獲得世界盃冠軍的西班牙隊，共同慶祝球隊贏得隊史第二座世界盃冠軍獎盃。西班牙隊球員乘坐敞篷巴士穿行馬德里街頭。沿途球迷揮舞旗幟、高唱助威歌曲，向球隊表達祝賀。慶祝車隊最終抵達西貝萊斯廣場，約12萬名球迷在這裡等待球隊到來，為當天的慶祝活動畫上句號。當天早些時候，西班牙隊先後在薩蘇埃拉宮和首相府接受官方接見。隨後，球員們換上紀念球衣，乘坐敞篷巴士與球迷共同慶祝奪冠。（央視新聞）"
+    },
+    {
+      "id": "te:markets:568318",
+      "time": "2026-07-21 06:15:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Rises by 0.82% — Top currency gainers are South Korean Won (0.82%), Brazilian Real (0.72%), Mexican Peso (0.50%) and Dollar Index (0.23%). Biggest losers are Swedish Krona (-0.52%), Canadian Dollar (-0.44%), Swiss Franc (-0.33%), Euro (-0.24%), British Pound (-0.21%) and Japanese Yen (-0.06%)."
+    },
     {
       "id": "4998519",
       "time": "2026-07-21 06:13:53",
@@ -174831,43 +174859,6 @@
         "國際"
       ],
       "text": "特朗普談伊朗： 昨天我們本已敲定一份協議，一切都談妥了，結果伊朗方面發現協議中有他們無法接受的條款，隨即撕毀了這份協議。"
-    },
-    {
-      "id": "4985415",
-      "time": "2026-07-14 06:18:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普簽署政令縮小猶他州大階梯-埃斯卡蘭特和熊耳國家紀念區的規模。"
-    },
-    {
-      "id": "4985414",
-      "time": "2026-07-14 06:16:53",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "白宮：特朗普簽署公告，調整猶他州熊耳國家紀念區的邊界範圍。"
-    },
-    {
-      "id": "4985413",
-      "time": "2026-07-14 06:16:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普針對霍爾木茲海峽的要求意味著每艘超級油輪需繳費3,000萬美元】美國總統唐納德·特朗普剛剛提出一項要求：對經霍爾木茲海峽運輸的貨物收取20%的補償；按滿載原油的超大型油輪計算，約合3,000萬美元。這一估算基於當前約每桶80美元的油價。超大型油輪可裝載約200萬桶原油。相比之下，知情人士曾透露，伊朗此前一直以臨時方式對每趟航程收取最高200萬美元費用。"
-    },
-    {
-      "id": "mkt:019f5d8c-ce6b-7aab-8d65-50a7c3f80bcd",
-      "time": "2026-07-14 06:15:36",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【UK Maritime Trade Operations: tanker attacked 40 nm northeast of Al Kharait, Oman】UK Maritime Trade Operations said it received a report of an incident 40 nm northeast of Al Kharait, Oman. The tanker’s captain reported the starboard side of the engine room was struck by an unidentified projectile. All crew are safe and there is no confirmed environmental impact."
     }
   ]
 }
