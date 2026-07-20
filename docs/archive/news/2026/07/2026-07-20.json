@@ -1,7 +1,140 @@
 {
   "date": "2026-07-20",
-  "count": 1192,
+  "count": 1206,
   "items": [
+    {
+      "id": "mkt:019f7e13-07ff-7aab-8e02-7c12f7393a4a",
+      "time": "2026-07-20 13:50:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Germany's June PPI MoM due in 10 minutes."
+    },
+    {
+      "id": "4997068",
+      "time": "2026-07-20 13:49:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Hugging Face遭AI駭客入侵：美國大模型拒絕協助 中國大模型順利取證】全球最大的AI開源社群HuggingFace披露其伺服器近日遭到駭客AI智慧體入侵。事件發生後，HuggingFace安全團隊最初嘗試藉助美國某商業前沿大模型API，對超過1.7萬條攻擊相關日誌進行分析。然而，由於該模型無法準確區分事件響應人員與攻擊者，其安全防護機制誤判相關請求並拒絕提供支援。HuggingFace轉而在自有基礎設施上部署中國的GLM5.2開源模型，對海量日誌順利進行取證分析。（東方財富網）"
+    },
+    {
+      "id": "4997067",
+      "time": "2026-07-20 13:49:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【多起致死事件後 美國ICE規定攔車執法要戴記錄儀】美國政府邊境事務主管湯姆·霍曼19日說，移民與海關執法局(ICE)將要求其工作人員在“攔車執法”時佩戴至少一個記錄儀。ICE人員近來在執法行動中射殺外籍人員且均未提供現場影片，其執法透明度招致廣泛質疑，引發示威抗議。霍曼當天做客福克斯電視臺一檔節目時說，執法人員佩戴記錄儀，可以讓公眾看到他們執法時到底發生了什麼，“記錄儀證明執法人員無罪的情形比定罪的情形更多”。他接受哥倫比亞廣播公司另一檔電視節目採訪時說，購置執法記錄儀的財政撥款早已獲批，但在今年早些時候聯邦政府部分“停擺”期間一度撥付受阻。霍曼說：“我們現在已經採購好記錄儀，正在培訓相關人員將記錄儀配發到全國。”（新華社）"
+    },
+    {
+      "id": "4997066",
+      "time": "2026-07-20 13:47:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣州小馬智卡科技公司增資至2億 增幅25%】天眼查App顯示，近日，廣州小馬智卡科技有限公司發生工商變更，註冊資本由1.6億人民幣增至2億人民幣，增幅25%。該公司成立於2020年12月，法定代表人為賀星，經營範圍包括軟體外包服務、軟體開發、人工智慧硬體銷售等，由北京小馬慧行科技有限公司全資持股。"
+    },
+    {
+      "id": "4997065",
+      "time": "2026-07-20 13:47:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "【有機矽板塊震盪走弱，宏柏新材觸及跌停】有機矽板塊震盪走弱，宏柏新材觸及跌停，錦華新材、東嶽矽材跌超10%，新亞強、恆星科技、合盛矽業等跟跌。"
+    },
+    {
+      "id": "mkt:019f7e10-4bc5-7aab-8e02-71c3f99564b2",
+      "time": "2026-07-20 13:47:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China A-share major indices fell: Shenzhen Composite Index down 2.00%, ChiNext Index down 1.34%, Shanghai Composite Index down 0.51%."
+    },
+    {
+      "id": "mkt:019f7e10-4224-7aab-8e02-6837e0962746",
+      "time": "2026-07-20 13:47:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou government signs deal with Hong Kong Jockey Club to develop Guangzhou–Hong Kong horse industry cooperation zone】Guangzhou municipal government and the Hong Kong Jockey Club signed an agreement to establish a Guangzhou–Hong Kong Horse Industry Deep Cooperation Zone, aligned with Guangzhou’s 15th Five-Year Plan outline. Guangzhou will draft a construction scheme, accelerate supporting infrastructure around the Conghua racecourse and position the racecourse as an anchor. The Jockey Club will promote Conghua as a platform to attract world-class racing and equine events to the Greater Bay Area and develop horse-themed cultural tourism and leisure products to build the region into a global horse-sport and equine-industry hub."
+    },
+    {
+      "id": "4997064",
+      "time": "2026-07-20 13:46:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拼多多雄安公司員工規模突破2000人】在新辦公樓投入使用後，拼多多雄安公司的人員招聘程序全面提速，單個工作日入職員工最高超過200人，在職員工規模已突破2000人，未來一年招聘5000人的專項計劃有望提前完成，持續為雄安新區經濟發展注入新動能，助力新區打造數字產業新高地。"
+    },
+    {
+      "id": "4997063",
+      "time": "2026-07-20 13:46:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州市政府與香港賽馬會簽署深化合作協議 將編制“穗港馬產業深度合作區”建設方案】近日，香港賽馬會與廣州市人民政府簽署深化合作協議，全力配合廣州市“十五五”規劃綱要，攜手建設“穗港馬產業深度合作區”。據悉，香港賽馬會近日就香港經濟和社會發展第一個五年規劃公眾諮詢提交意見書，當中包括充分發揮馬會從化馬場作為深化穗港合作的平臺，吸引世界級賽馬及馬匹活動落戶大灣區，從而將大灣區發展成為全球領先的馬匹運動及馬產業樞紐。根據計劃，廣州市人民政府將編制“穗港馬產業深度合作區”建設方案，加快建設從化馬場周邊配套設施，發揮馬場的龍頭帶動作用，並開發以馬為元素的多元文化旅遊休閒內容。"
+    },
+    {
+      "id": "4997062",
+      "time": "2026-07-20 13:46:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌2.02%，現報13429.843點；上證指數跌0.51%，現報3745.084點；創業板指跌1.37%，現報3381.598點。"
+    },
+    {
+      "id": "mkt:019f7e0f-d0e3-7aab-8e02-644f5f695bd8",
+      "time": "2026-07-20 13:46:33",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share lab-grown diamond sector weakened; Boyun New Materials and Huanghe Xuanfeng hit daily limit down, Wode, Inno Laser, Liliang Diamond and Sifangda fell more than 10%."
+    },
+    {
+      "id": "4997061",
+      "time": "2026-07-20 13:46:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石板塊震盪走弱，博雲新材、黃河旋風跌停】培育鑽石板塊震盪走弱，博雲新材、黃河旋風跌停，沃爾德、英諾鐳射、力量鑽石、四方達跌超10%、國力電子、奔朗新材等跟跌。"
+    },
+    {
+      "id": "mkt:019f7e0f-827b-7aab-8e02-5ef078eb2884",
+      "time": "2026-07-20 13:46:13",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "【LBBW: Foreign private investors have returned as steady net buyers of US Treasuries】LBBW senior fixed-income analyst Elmar Voelker said in a report that foreign private-sector investors have apparently reverted to their long-standing role as steady net buyers of US Treasuries. The outbreak of hostilities involving Iran has raised global market uncertainty and, at least for now, revived Treasuries’ safe-haven demand — a pattern consistent with the US dollar’s sharp appreciation against other major currencies since late Feb 2026."
+    },
+    {
+      "id": "4997060",
+      "time": "2026-07-20 13:46:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌3%，現報7167.20點。"
+    },
     {
       "id": "4997059",
       "time": "2026-07-20 13:45:50",
