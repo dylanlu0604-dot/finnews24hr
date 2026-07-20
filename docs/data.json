@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-21 00:37:08",
-  "count": 19167,
+  "updated": "2026-07-21 00:41:12",
+  "count": 19166,
   "items": [
+    {
+      "id": "4998365",
+      "time": "2026-07-21 00:39:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國發言人：胡塞武裝對沙特實施封鎖，或將引發範圍“進一步擴大”的地區衝突。"
+    },
+    {
+      "id": "mkt:019f8065-700b-7aab-8e12-cb7a3fb4cba4",
+      "time": "2026-07-21 00:39:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said this World Cup was a great success and that the FIFA president had elevated the tournament to unprecedented heights."
+    },
+    {
+      "id": "mkt:019f8063-be94-7aab-8e12-c5f2ff25d8b1",
+      "time": "2026-07-21 00:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Darren Jones, Minister for the Duchy of Lancaster and Minister for Intergovernmental Relations, has resigned from Mayor Andy Burnham's cabinet."
+    },
     {
       "id": "4998364",
       "time": "2026-07-21 00:36:08",
@@ -176378,48 +176402,6 @@
         "EURUSD"
       ],
       "text": "Markets now price a 50% chance of a Fed rate hike this month."
-    },
-    {
-      "id": "em:qqyh_mlc:202607143804285758",
-      "time": "2026-07-14 00:40:36",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美國短期利率期貨顯示，美聯儲7月加息機率約為45%，較週一早些時候的35%有所上升。"
-    },
-    {
-      "id": "mkt:019f5c59-db78-7aab-8d60-7ae04d5d4d24",
-      "time": "2026-07-14 00:40:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "US short-term interest rate futures imply about a 45% chance of a Fed rate hike in July, up from roughly 35% earlier on Monday."
-    },
-    {
-      "id": "em:qqyh_mlc:202607143804285570",
-      "time": "2026-07-14 00:37:41",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲理事沃勒表示，如果核心通脹繼續走低仍屬合理情形，將繼續支援維持利率不變。"
-    },
-    {
-      "id": "4985179",
-      "time": "2026-07-14 00:37:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國緬因州發生槍擊事件 涉及移民及海關執法局】央視記者當地時間7月13日獲悉，美國緬因州眾議院議長瑞安·費克託在社交媒體上發文稱，當日在緬因州比迪福德發生了一起致人死亡的槍擊事件，事件涉及美國移民及海關執法局（ICE），但目前關於事發經過的細節尚不明確。瑞安·費克託表示，槍擊事件發生在當日上午，地點位於比迪福德，有一人死亡，該事件涉及美國移民及海關執法局（ICE）。緬因州警察和公共安全部目前正在現場收集細節，預計聯邦調查局（FBI）也將介入調查。（央視新聞）"
     }
   ]
 }

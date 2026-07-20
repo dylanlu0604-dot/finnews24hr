@@ -1,7 +1,31 @@
 {
   "date": "2026-07-21",
-  "count": 48,
+  "count": 51,
   "items": [
+    {
+      "id": "4998365",
+      "time": "2026-07-21 00:39:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合國發言人：胡塞武裝對沙特實施封鎖，或將引發範圍“進一步擴大”的地區衝突。"
+    },
+    {
+      "id": "mkt:019f8065-700b-7aab-8e12-cb7a3fb4cba4",
+      "time": "2026-07-21 00:39:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said this World Cup was a great success and that the FIFA president had elevated the tournament to unprecedented heights."
+    },
+    {
+      "id": "mkt:019f8063-be94-7aab-8e12-c5f2ff25d8b1",
+      "time": "2026-07-21 00:37:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Darren Jones, Minister for the Duchy of Lancaster and Minister for Intergovernmental Relations, has resigned from Mayor Andy Burnham's cabinet."
+    },
     {
       "id": "4998364",
       "time": "2026-07-21 00:36:08",
