@@ -1,7 +1,46 @@
 {
   "date": "2026-07-22",
-  "count": 73,
+  "count": 77,
   "items": [
+    {
+      "id": "mkt:019f85ae-5265-7aab-8e2f-b72d67f1e96b",
+      "time": "2026-07-22 01:17:01",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $275 million from one counterparty in its fixed-rate reverse repo operation."
+    },
+    {
+      "id": "mkt:019f85ad-e71b-7aab-8e2f-af091069f9fb",
+      "time": "2026-07-22 01:16:34",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "U.S. House Speaker Johnson said the war with Iran must end."
+    },
+    {
+      "id": "5000753",
+      "time": "2026-07-22 01:16:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（8月6日），美聯儲隔夜逆回購協議（RRP）使用規模為2.75億美元（交易對手1家），上個交易日報0.3億美元。"
+    },
+    {
+      "id": "5000752",
+      "time": "2026-07-22 01:16:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：胡塞武裝若封鎖紅海 美國將採取行動】美國總統特朗普21日在白宮會見到訪的黎巴嫩總統奧恩時表示，如果葉門胡塞武裝封鎖紅海，美國將採取行動。特朗普在談及胡塞武裝可能封鎖紅海一事時說，目前還沒有發生這種情況，“如果真發生了，我們會採取行動，處理好”。葉門胡塞武裝20日宣佈對沙烏地阿拉伯實施“海上禁運”且立即生效。沙特主導的多國聯軍隨後表示，已採取措施保護成員國船隻安全通行曼德海峽，並將堅決回應胡塞武裝的任何威脅。關於黎巴嫩局勢，特朗普說，他願意與黎巴嫩真主黨對話，並將同奧恩討論對黎援助，協調其他各方參與協助。(新華社)"
+    },
     {
       "id": "mkt:019f85a8-a1b7-7aab-8e2f-a4e5c3e52508",
       "time": "2026-07-22 01:10:48",
