@@ -1,7 +1,16 @@
 {
-  "updated": "2026-07-22 06:23:09",
+  "updated": "2026-07-22 06:27:10",
   "count": 18061,
   "items": [
+    {
+      "id": "5000941",
+      "time": "2026-07-22 06:24:02",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國議員要求美國證券交易委員會調查Truth Social資料商業化方案】紐約州民主黨聯邦眾議員裡奇·託雷斯已致函美國證券交易委員會，要求其調查Truth Social母公司向華爾街機構出售特朗普總統帖文實時訪問許可權的計劃是否違反聯邦證券法。這封信函意味著監管層對特朗普媒體科技集團（TMTG）計劃的審查進一步升級。該集團打算向機構投資者出售優先獲取特朗普具備市場影響力社交帖文的許可權，以此變現。特朗普媒體科技集團推出全新產品Truth API，計劃於8月1日正式上線，該介面可實時調取平臺熱度前十賬號的公開帖文。集團高管對外推介這項服務，最高收取每月10萬美元授權費。集團臨時執行長凱文·麥格恩表示，未來只要客戶願意支付更高費用，該介面可擴容支援更多賬號的資料調取。"
+    },
     {
       "id": "mkt:019f86c6-38ad-7aab-8e33-09c0821941c5",
       "time": "2026-07-22 06:22:45",
@@ -166025,14 +166034,6 @@
         "XAUUSD"
       ],
       "text": "【Trump says US held talks with Iran; threatens to destroy Iranian power plants, bridges】President Trump said strikes on Iran will continue \"until I say 'enough'.\" He said the US held talks with Iran on Tuesday and urged Tehran to reach an agreement. He warned he would reserve strikes on Iranian energy facilities until last and would destroy Iran's power plants and bridges next week unless Tehran returns to the negotiating table."
-    },
-    {
-      "id": "4988561",
-      "time": "2026-07-15 06:25:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【需求井噴 高階算力服務大單頻現】行雲科技最新公告顯示，公司今年4月簽訂的算力服務合同迎來大幅提價，合計上調租金28.79億元，較原簽約金額上調79%。“多重因素共同推動算力服務價格大幅提升，高階算力服務迎來量價齊升。一方面，高階晶片供應持續偏緊，高階算力伺服器交付週期大幅拉長；另一方面，‘訓練+推理’等高階算力需求呈現指數級增長。”7月14日，一位算力行業人士向記者表示，“目前，高階算力服務仍然延續供不應求格局。” (上證報)"
     }
   ]
 }
