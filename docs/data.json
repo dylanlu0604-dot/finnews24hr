@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-21 13:46:56",
-  "count": 19088,
+  "updated": "2026-07-21 13:51:04",
+  "count": 19092,
   "items": [
+    {
+      "id": "mkt:019f8339-875d-7aab-8e1d-9864caa84948",
+      "time": "2026-07-21 13:50:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Switzerland June trade balance and UK data due in 10 minutes: May three-month ILO unemployment rate, June public sector net borrowing, jobless benefit claims and unemployment rate."
+    },
+    {
+      "id": "4999365",
+      "time": "2026-07-21 13:49:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌4%，現報4625.00元。"
+    },
+    {
+      "id": "mkt:019f8338-7e35-7aab-8e1d-96a2bd7cc7dc",
+      "time": "2026-07-21 13:49:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【IRGC claims cruise-missile strike destroyed Amazon data infrastructure in Bahrain】Iran's Islamic Revolutionary Guard Corps public relations office said IRGC Aerospace Force units, in the 24th wave of the Nasr-2 operation, used several cruise missiles to strike and destroy Amazon's central data infrastructure in Bahrain. The statement said the action was in retaliation for a US strike on under-construction and civilian facilities in Darkhovin."
+    },
+    {
+      "id": "4999364",
+      "time": "2026-07-21 13:49:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲3%，至66,073.94點。"
+    },
+    {
+      "id": "4999363",
+      "time": "2026-07-21 13:47:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "機器人概念震盪反彈，徵和工業漲停，上緯新材、世運電路、綠的諧波、寶通科技、斯菱智驅等跟漲。"
+    },
+    {
+      "id": "4999362",
+      "time": "2026-07-21 13:47:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬泰生物凍乾重組呼吸道合胞病毒疫苗（CHO細胞）臨床試驗申請獲受理】7月21日，據萬泰生物訊息，近日，萬泰生物全資子公司廈門萬泰滄海生物技術有限公司收到國家藥品監督管理局行政許可文書《受理通知書》，公司申報的“凍乾重組呼吸道合胞病毒疫苗（CHO細胞）”臨床試驗申請已獲得受理。"
+    },
+    {
+      "id": "4999361",
+      "time": "2026-07-21 13:46:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗打擊巴林境內美企目標】伊朗伊斯蘭革命衛隊當地時間今天（7月21日）上午釋出訊息稱，革命衛隊對約旦境內的美軍基地，以及巴林境內美國企業（亞馬遜公司）的基礎設施實施了打擊。目前相關方面暫未對革命衛隊的這一訊息做出回應。"
+    },
+    {
+      "id": "4999360",
+      "time": "2026-07-21 13:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本據稱在南鳥島泥土中發現稀土。"
+    },
     {
       "id": "4999359",
       "time": "2026-07-21 13:46:01",
@@ -175425,42 +175498,6 @@
         "國際"
       ],
       "text": "【瑞士競爭監管機構就安卓系統某功能對谷歌展開調查】7月14日，一份宣告顯示，瑞士競爭委員會（COMCO）秘書處已啟動一項初步調查，以審查谷歌在瑞士安卓裝置上移除“選擇螢幕”功能的行為。“選擇螢幕”功能允許使用者在初次設定新安卓裝置時選擇預設搜尋引擎。此次調查公告發布前，谷歌已在瑞士移除了該功能，儘管該功能在歐洲經濟區內仍然可用。其結果是，谷歌搜尋引擎現在被強制設為瑞士使用者的預設搜尋引擎，在使用者首次設定裝置時不再顯示“選擇螢幕”。瑞士競爭委員會表示，初步調查將確定是否存在違反《卡特爾法》的非法限制競爭跡象。"
-    },
-    {
-      "id": "4986156",
-      "time": "2026-07-14 13:50:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度官員：因一名印度海員在霍爾木茲海峽遇害，印度召見伊朗副大使。"
-    },
-    {
-      "id": "4986155",
-      "time": "2026-07-14 13:48:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "愛立信首席財務官：晶片、ASIC、儲存器及其他元件面臨定價壓力。"
-    },
-    {
-      "id": "4986154",
-      "time": "2026-07-14 13:47:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國政府四部門將於週四召開會議 就單股槓桿ETF對股市衝擊研究應對方案】據報道，韓國政府四大經濟部門高層協調機制將於週四召開會議，就單股槓桿ETF對股市的衝擊研究應對方案，這是該議題首次正式進入該機制進行討論。該機制是由韓國財政經濟部、金融委員會、韓國銀行及金融監督院四方共同參與的最高階別經濟協調平臺。"
-    },
-    {
-      "id": "te:markets:566666",
-      "time": "2026-07-14 13:47:00",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "New Zealand",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "NZX 50 Extends Losses, Down 0.5% at Close — The NZX 50 dropped 72 points, or 0.5%, to 13,651 on Tuesday, falling for the second consecutive session and tracking the decline on Wall Street overnight after US President Trump vowed to reinstate a blockade on Iranian shipping through the Strait of Hormuz. Rising oil prices due to the escalating conflict in the Middle East continued to weigh on sentiment as inflation concerns fueled expectations of further interest rate hikes. Sentiment was also pressured by a warning from RBNZ Chief Economist Paul Conway that sticky inflation caused by recent Middle East supply shocks could lead to further interest rate hikes. On the data front, New Zealand's visitor arrivals rose 6.7% in May, marking the slowest growth in four months. The financial, industrials, and utilities sectors led the declines, with notable losses from Auckland International Airport (-3.3%), ANZ Group (-2.5%), Infratil (-1.9%), Seeka Limited (-1.0%), Summerset Group (-0.9%), and Westpac Banking Corp (-0.8%)."
     }
   ]
 }

@@ -1,7 +1,80 @@
 {
   "date": "2026-07-21",
-  "count": 1439,
+  "count": 1447,
   "items": [
+    {
+      "id": "mkt:019f8339-875d-7aab-8e1d-9864caa84948",
+      "time": "2026-07-21 13:50:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD",
+        "Impact mixed"
+      ],
+      "text": "Switzerland June trade balance and UK data due in 10 minutes: May three-month ILO unemployment rate, June public sector net borrowing, jobless benefit claims and unemployment rate."
+    },
+    {
+      "id": "4999365",
+      "time": "2026-07-21 13:49:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內跌4%，現報4625.00元。"
+    },
+    {
+      "id": "mkt:019f8338-7e35-7aab-8e1d-96a2bd7cc7dc",
+      "time": "2026-07-21 13:49:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "【IRGC claims cruise-missile strike destroyed Amazon data infrastructure in Bahrain】Iran's Islamic Revolutionary Guard Corps public relations office said IRGC Aerospace Force units, in the 24th wave of the Nasr-2 operation, used several cruise missiles to strike and destroy Amazon's central data infrastructure in Bahrain. The statement said the action was in retaliation for a US strike on under-construction and civilian facilities in Darkhovin."
+    },
+    {
+      "id": "4999364",
+      "time": "2026-07-21 13:49:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數上漲3%，至66,073.94點。"
+    },
+    {
+      "id": "4999363",
+      "time": "2026-07-21 13:47:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "機器人概念震盪反彈，徵和工業漲停，上緯新材、世運電路、綠的諧波、寶通科技、斯菱智驅等跟漲。"
+    },
+    {
+      "id": "4999362",
+      "time": "2026-07-21 13:47:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬泰生物凍乾重組呼吸道合胞病毒疫苗（CHO細胞）臨床試驗申請獲受理】7月21日，據萬泰生物訊息，近日，萬泰生物全資子公司廈門萬泰滄海生物技術有限公司收到國家藥品監督管理局行政許可文書《受理通知書》，公司申報的“凍乾重組呼吸道合胞病毒疫苗（CHO細胞）”臨床試驗申請已獲得受理。"
+    },
+    {
+      "id": "4999361",
+      "time": "2026-07-21 13:46:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗打擊巴林境內美企目標】伊朗伊斯蘭革命衛隊當地時間今天（7月21日）上午釋出訊息稱，革命衛隊對約旦境內的美軍基地，以及巴林境內美國企業（亞馬遜公司）的基礎設施實施了打擊。目前相關方面暫未對革命衛隊的這一訊息做出回應。"
+    },
+    {
+      "id": "4999360",
+      "time": "2026-07-21 13:46:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本據稱在南鳥島泥土中發現稀土。"
+    },
     {
       "id": "4999359",
       "time": "2026-07-21 13:46:01",
