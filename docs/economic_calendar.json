@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 11:05:07",
+  "updated": "2026-07-21 12:38:32",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
@@ -22,124 +22,8 @@
       "dates": [
         {
           "date": "2026-07-20",
-          "count": 29,
+          "count": 27,
           "events": [
-            {
-              "id": "capital:1181337",
-              "fid": "1181337",
-              "interval": "this_week",
-              "date": "2026-07-20",
-              "time": "00:00",
-              "datetime": "2026-07-20 00:00:00",
-              "display_time": "07/20 00:00",
-              "country": "中國",
-              "title": "中國6月本年迄今全國發電裝機容量(萬千瓦)",
-              "importance": 2,
-              "previous": "400745",
-              "forecast": "--",
-              "actual": "--",
-              "actual_released": false,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181337",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "06/25",
-                  "actual": "400745",
-                  "forecast": "-",
-                  "previous": "398547"
-                },
-                {
-                  "date": "04/23",
-                  "actual": "396483",
-                  "forecast": "-",
-                  "previous": "394803"
-                },
-                {
-                  "date": "03/25",
-                  "actual": "394803",
-                  "forecast": "-",
-                  "previous": "389134"
-                },
-                {
-                  "date": "01/28",
-                  "actual": "389134",
-                  "forecast": "-",
-                  "previous": "379351"
-                },
-                {
-                  "date": "12/26",
-                  "actual": "379351",
-                  "forecast": "-",
-                  "previous": "375171"
-                },
-                {
-                  "date": "11/24",
-                  "actual": "375171",
-                  "forecast": "-",
-                  "previous": "371689"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-20 12:59:06"
-            },
-            {
-              "id": "capital:1181336",
-              "fid": "1181336",
-              "interval": "this_week",
-              "date": "2026-07-20",
-              "time": "00:00",
-              "datetime": "2026-07-20 00:00:00",
-              "display_time": "07/20 00:00",
-              "country": "中國",
-              "title": "中國6月本年迄今全國發電裝機容量年率",
-              "importance": 2,
-              "previous": "11 %",
-              "forecast": "-- %",
-              "actual": "-- %",
-              "actual_released": true,
-              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181336",
-              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-              "history": [
-                {
-                  "date": "06/25",
-                  "actual": "11",
-                  "forecast": "-",
-                  "previous": "14.2"
-                },
-                {
-                  "date": "04/23",
-                  "actual": "15.5",
-                  "forecast": "-",
-                  "previous": "15.9"
-                },
-                {
-                  "date": "03/25",
-                  "actual": "15.9",
-                  "forecast": "-",
-                  "previous": "16.1"
-                },
-                {
-                  "date": "01/28",
-                  "actual": "16.1",
-                  "forecast": "-",
-                  "previous": "17.1"
-                },
-                {
-                  "date": "12/26",
-                  "actual": "17.1",
-                  "forecast": "-",
-                  "previous": "17.3"
-                },
-                {
-                  "date": "11/24",
-                  "actual": "17.3",
-                  "forecast": "-",
-                  "previous": "17.5"
-                }
-              ],
-              "history_status": "cached",
-              "history_checked_at": "2026-07-20 12:59:06"
-            },
             {
               "id": "capital:1177055",
               "fid": "1177055",
@@ -1710,8 +1594,124 @@
         },
         {
           "date": "2026-07-21",
-          "count": 25,
+          "count": 27,
           "events": [
+            {
+              "id": "capital:1181337",
+              "fid": "1181337",
+              "interval": "this_week",
+              "date": "2026-07-21",
+              "time": "00:00",
+              "datetime": "2026-07-21 00:00:00",
+              "display_time": "07/21 00:00",
+              "country": "中國",
+              "title": "中國6月本年迄今全國發電裝機容量(萬千瓦)",
+              "importance": 2,
+              "previous": "400745",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181337",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/25",
+                  "actual": "400745",
+                  "forecast": "-",
+                  "previous": "398547"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "396483",
+                  "forecast": "-",
+                  "previous": "394803"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "394803",
+                  "forecast": "-",
+                  "previous": "389134"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "389134",
+                  "forecast": "-",
+                  "previous": "379351"
+                },
+                {
+                  "date": "12/26",
+                  "actual": "379351",
+                  "forecast": "-",
+                  "previous": "375171"
+                },
+                {
+                  "date": "11/24",
+                  "actual": "375171",
+                  "forecast": "-",
+                  "previous": "371689"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-20 12:59:06"
+            },
+            {
+              "id": "capital:1181336",
+              "fid": "1181336",
+              "interval": "this_week",
+              "date": "2026-07-21",
+              "time": "00:00",
+              "datetime": "2026-07-21 00:00:00",
+              "display_time": "07/21 00:00",
+              "country": "中國",
+              "title": "中國6月本年迄今全國發電裝機容量年率",
+              "importance": 2,
+              "previous": "11 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181336",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+              "history": [
+                {
+                  "date": "06/25",
+                  "actual": "11",
+                  "forecast": "-",
+                  "previous": "14.2"
+                },
+                {
+                  "date": "04/23",
+                  "actual": "15.5",
+                  "forecast": "-",
+                  "previous": "15.9"
+                },
+                {
+                  "date": "03/25",
+                  "actual": "15.9",
+                  "forecast": "-",
+                  "previous": "16.1"
+                },
+                {
+                  "date": "01/28",
+                  "actual": "16.1",
+                  "forecast": "-",
+                  "previous": "17.1"
+                },
+                {
+                  "date": "12/26",
+                  "actual": "17.1",
+                  "forecast": "-",
+                  "previous": "17.3"
+                },
+                {
+                  "date": "11/24",
+                  "actual": "17.3",
+                  "forecast": "-",
+                  "previous": "17.5"
+                }
+              ],
+              "history_status": "cached",
+              "history_checked_at": "2026-07-20 12:59:06"
+            },
             {
               "id": "capital:1177072",
               "fid": "1177072",
@@ -2072,7 +2072,7 @@
               "title": "英國5月三個月ILO就業人數(萬人)",
               "importance": 1,
               "previous": "10",
-              "forecast": "8.5",
+              "forecast": "8",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177081",
@@ -2246,7 +2246,7 @@
               "title": "英國6月公共部門淨借款(億英鎊)",
               "importance": 2,
               "previous": "232.94",
-              "forecast": "198",
+              "forecast": "180",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177075",
@@ -2536,7 +2536,7 @@
               "title": "中國香港6月綜合CPI年率",
               "importance": 1,
               "previous": "2 %",
-              "forecast": "-- %",
+              "forecast": "2.2 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177085",
@@ -2594,7 +2594,7 @@
               "title": "德國7月ZEW經濟景氣指數",
               "importance": 2,
               "previous": "10.5",
-              "forecast": "18",
+              "forecast": "17.5",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177086",
@@ -3180,7 +3180,7 @@
               "title": "美國至7月17日當週API原油庫存(萬桶)",
               "importance": 2,
               "previous": "-56.4",
-              "forecast": "--",
+              "forecast": "-50",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181229",
@@ -3528,7 +3528,7 @@
               "title": "美國至7月17日當週API汽油庫存(萬桶)",
               "importance": 1,
               "previous": "-166.4",
-              "forecast": "--",
+              "forecast": "-181",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181230",
@@ -3586,7 +3586,7 @@
               "title": "美國至7月17日當週API精煉油庫存(萬桶)",
               "importance": 1,
               "previous": "225.9",
-              "forecast": "--",
+              "forecast": "100",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181231",
@@ -4334,7 +4334,7 @@
               "title": "英國6月未季調輸入PPI年率",
               "importance": 1,
               "previous": "8.7 %",
-              "forecast": "-- %",
+              "forecast": "8.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177107",
@@ -4392,7 +4392,7 @@
               "title": "英國6月未季調輸入PPI月率",
               "importance": 1,
               "previous": "0.2 %",
-              "forecast": "-- %",
+              "forecast": "-0.6 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177106",
@@ -4450,7 +4450,7 @@
               "title": "英國6月未季調輸出PPI年率",
               "importance": 1,
               "previous": "4 %",
-              "forecast": "-- %",
+              "forecast": "3.5 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177105",
@@ -4508,7 +4508,7 @@
               "title": "英國6月未季調輸出PPI月率",
               "importance": 1,
               "previous": "0.5 %",
-              "forecast": "-- %",
+              "forecast": "-0.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177104",
@@ -4624,7 +4624,7 @@
               "title": "英國6月核心CPI月率",
               "importance": 1,
               "previous": "0.3 %",
-              "forecast": "-- %",
+              "forecast": "0.2 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177520",
@@ -4740,7 +4740,7 @@
               "title": "英國6月零售物價指數年率",
               "importance": 1,
               "previous": "3.1 %",
-              "forecast": "2.9 %",
+              "forecast": "3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177102",
@@ -5320,7 +5320,7 @@
               "title": "美國至7月17日當週EIA原油庫存(萬桶)",
               "importance": 3,
               "previous": "-169.2",
-              "forecast": "--",
+              "forecast": "-50",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177111",
@@ -5784,7 +5784,7 @@
               "title": "美國至7月17日當週EIA汽油庫存(萬桶)",
               "importance": 1,
               "previous": "-153.3",
-              "forecast": "--",
+              "forecast": "-181",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177113",
@@ -5900,7 +5900,7 @@
               "title": "美國至7月17日當週EIA精煉廠設備利用率",
               "importance": 1,
               "previous": "96.2 %",
-              "forecast": "-- %",
+              "forecast": "96 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181211",
@@ -5958,7 +5958,7 @@
               "title": "美國至7月17日當週EIA精煉油庫存(萬桶)",
               "importance": 1,
               "previous": "455.6",
-              "forecast": "--",
+              "forecast": "100",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177114",
@@ -13123,7 +13123,7 @@
               "country": "加拿大",
               "title": "加拿大至7月24日全國經濟信心指數",
               "importance": 1,
-              "previous": "--",
+              "previous": "51.4",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -13819,7 +13819,7 @@
               "country": "美國",
               "title": "美國至7月27日3個月國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.73 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -13877,7 +13877,7 @@
               "country": "美國",
               "title": "美國至7月27日3個月國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "3",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -13935,7 +13935,7 @@
               "country": "美國",
               "title": "美國至7月27日6個月國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.835 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -13993,7 +13993,7 @@
               "country": "美國",
               "title": "美國至7月27日6個月國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.94",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -25176,122 +25176,6 @@
   ],
   "items": [
     {
-      "id": "capital:1181337",
-      "fid": "1181337",
-      "interval": "this_week",
-      "date": "2026-07-20",
-      "time": "00:00",
-      "datetime": "2026-07-20 00:00:00",
-      "display_time": "07/20 00:00",
-      "country": "中國",
-      "title": "中國6月本年迄今全國發電裝機容量(萬千瓦)",
-      "importance": 2,
-      "previous": "400745",
-      "forecast": "--",
-      "actual": "--",
-      "actual_released": false,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181337",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "06/25",
-          "actual": "400745",
-          "forecast": "-",
-          "previous": "398547"
-        },
-        {
-          "date": "04/23",
-          "actual": "396483",
-          "forecast": "-",
-          "previous": "394803"
-        },
-        {
-          "date": "03/25",
-          "actual": "394803",
-          "forecast": "-",
-          "previous": "389134"
-        },
-        {
-          "date": "01/28",
-          "actual": "389134",
-          "forecast": "-",
-          "previous": "379351"
-        },
-        {
-          "date": "12/26",
-          "actual": "379351",
-          "forecast": "-",
-          "previous": "375171"
-        },
-        {
-          "date": "11/24",
-          "actual": "375171",
-          "forecast": "-",
-          "previous": "371689"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-20 12:59:06"
-    },
-    {
-      "id": "capital:1181336",
-      "fid": "1181336",
-      "interval": "this_week",
-      "date": "2026-07-20",
-      "time": "00:00",
-      "datetime": "2026-07-20 00:00:00",
-      "display_time": "07/20 00:00",
-      "country": "中國",
-      "title": "中國6月本年迄今全國發電裝機容量年率",
-      "importance": 2,
-      "previous": "11 %",
-      "forecast": "-- %",
-      "actual": "-- %",
-      "actual_released": true,
-      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181336",
-      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
-      "history": [
-        {
-          "date": "06/25",
-          "actual": "11",
-          "forecast": "-",
-          "previous": "14.2"
-        },
-        {
-          "date": "04/23",
-          "actual": "15.5",
-          "forecast": "-",
-          "previous": "15.9"
-        },
-        {
-          "date": "03/25",
-          "actual": "15.9",
-          "forecast": "-",
-          "previous": "16.1"
-        },
-        {
-          "date": "01/28",
-          "actual": "16.1",
-          "forecast": "-",
-          "previous": "17.1"
-        },
-        {
-          "date": "12/26",
-          "actual": "17.1",
-          "forecast": "-",
-          "previous": "17.3"
-        },
-        {
-          "date": "11/24",
-          "actual": "17.3",
-          "forecast": "-",
-          "previous": "17.5"
-        }
-      ],
-      "history_status": "cached",
-      "history_checked_at": "2026-07-20 12:59:06"
-    },
-    {
       "id": "capital:1177055",
       "fid": "1177055",
       "interval": "this_week",
@@ -26858,6 +26742,122 @@
       "history_checked_at": "2026-07-12 00:01:14"
     },
     {
+      "id": "capital:1181337",
+      "fid": "1181337",
+      "interval": "this_week",
+      "date": "2026-07-21",
+      "time": "00:00",
+      "datetime": "2026-07-21 00:00:00",
+      "display_time": "07/21 00:00",
+      "country": "中國",
+      "title": "中國6月本年迄今全國發電裝機容量(萬千瓦)",
+      "importance": 2,
+      "previous": "400745",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181337",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/25",
+          "actual": "400745",
+          "forecast": "-",
+          "previous": "398547"
+        },
+        {
+          "date": "04/23",
+          "actual": "396483",
+          "forecast": "-",
+          "previous": "394803"
+        },
+        {
+          "date": "03/25",
+          "actual": "394803",
+          "forecast": "-",
+          "previous": "389134"
+        },
+        {
+          "date": "01/28",
+          "actual": "389134",
+          "forecast": "-",
+          "previous": "379351"
+        },
+        {
+          "date": "12/26",
+          "actual": "379351",
+          "forecast": "-",
+          "previous": "375171"
+        },
+        {
+          "date": "11/24",
+          "actual": "375171",
+          "forecast": "-",
+          "previous": "371689"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-20 12:59:06"
+    },
+    {
+      "id": "capital:1181336",
+      "fid": "1181336",
+      "interval": "this_week",
+      "date": "2026-07-21",
+      "time": "00:00",
+      "datetime": "2026-07-21 00:00:00",
+      "display_time": "07/21 00:00",
+      "country": "中國",
+      "title": "中國6月本年迄今全國發電裝機容量年率",
+      "importance": 2,
+      "previous": "11 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181336",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=this_week&important=0",
+      "history": [
+        {
+          "date": "06/25",
+          "actual": "11",
+          "forecast": "-",
+          "previous": "14.2"
+        },
+        {
+          "date": "04/23",
+          "actual": "15.5",
+          "forecast": "-",
+          "previous": "15.9"
+        },
+        {
+          "date": "03/25",
+          "actual": "15.9",
+          "forecast": "-",
+          "previous": "16.1"
+        },
+        {
+          "date": "01/28",
+          "actual": "16.1",
+          "forecast": "-",
+          "previous": "17.1"
+        },
+        {
+          "date": "12/26",
+          "actual": "17.1",
+          "forecast": "-",
+          "previous": "17.3"
+        },
+        {
+          "date": "11/24",
+          "actual": "17.3",
+          "forecast": "-",
+          "previous": "17.5"
+        }
+      ],
+      "history_status": "cached",
+      "history_checked_at": "2026-07-20 12:59:06"
+    },
+    {
       "id": "capital:1177072",
       "fid": "1177072",
       "interval": "this_week",
@@ -27217,7 +27217,7 @@
       "title": "英國5月三個月ILO就業人數(萬人)",
       "importance": 1,
       "previous": "10",
-      "forecast": "8.5",
+      "forecast": "8",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177081",
@@ -27391,7 +27391,7 @@
       "title": "英國6月公共部門淨借款(億英鎊)",
       "importance": 2,
       "previous": "232.94",
-      "forecast": "198",
+      "forecast": "180",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177075",
@@ -27681,7 +27681,7 @@
       "title": "中國香港6月綜合CPI年率",
       "importance": 1,
       "previous": "2 %",
-      "forecast": "-- %",
+      "forecast": "2.2 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177085",
@@ -27739,7 +27739,7 @@
       "title": "德國7月ZEW經濟景氣指數",
       "importance": 2,
       "previous": "10.5",
-      "forecast": "18",
+      "forecast": "17.5",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177086",
@@ -28319,7 +28319,7 @@
       "title": "美國至7月17日當週API原油庫存(萬桶)",
       "importance": 2,
       "previous": "-56.4",
-      "forecast": "--",
+      "forecast": "-50",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181229",
@@ -28667,7 +28667,7 @@
       "title": "美國至7月17日當週API汽油庫存(萬桶)",
       "importance": 1,
       "previous": "-166.4",
-      "forecast": "--",
+      "forecast": "-181",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181230",
@@ -28725,7 +28725,7 @@
       "title": "美國至7月17日當週API精煉油庫存(萬桶)",
       "importance": 1,
       "previous": "225.9",
-      "forecast": "--",
+      "forecast": "100",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181231",
@@ -29473,7 +29473,7 @@
       "title": "英國6月未季調輸入PPI年率",
       "importance": 1,
       "previous": "8.7 %",
-      "forecast": "-- %",
+      "forecast": "8.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177107",
@@ -29531,7 +29531,7 @@
       "title": "英國6月未季調輸入PPI月率",
       "importance": 1,
       "previous": "0.2 %",
-      "forecast": "-- %",
+      "forecast": "-0.6 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177106",
@@ -29589,7 +29589,7 @@
       "title": "英國6月未季調輸出PPI年率",
       "importance": 1,
       "previous": "4 %",
-      "forecast": "-- %",
+      "forecast": "3.5 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177105",
@@ -29647,7 +29647,7 @@
       "title": "英國6月未季調輸出PPI月率",
       "importance": 1,
       "previous": "0.5 %",
-      "forecast": "-- %",
+      "forecast": "-0.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177104",
@@ -29763,7 +29763,7 @@
       "title": "英國6月核心CPI月率",
       "importance": 1,
       "previous": "0.3 %",
-      "forecast": "-- %",
+      "forecast": "0.2 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177520",
@@ -29879,7 +29879,7 @@
       "title": "英國6月零售物價指數年率",
       "importance": 1,
       "previous": "3.1 %",
-      "forecast": "2.9 %",
+      "forecast": "3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177102",
@@ -30459,7 +30459,7 @@
       "title": "美國至7月17日當週EIA原油庫存(萬桶)",
       "importance": 3,
       "previous": "-169.2",
-      "forecast": "--",
+      "forecast": "-50",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177111",
@@ -30923,7 +30923,7 @@
       "title": "美國至7月17日當週EIA汽油庫存(萬桶)",
       "importance": 1,
       "previous": "-153.3",
-      "forecast": "--",
+      "forecast": "-181",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177113",
@@ -31039,7 +31039,7 @@
       "title": "美國至7月17日當週EIA精煉廠設備利用率",
       "importance": 1,
       "previous": "96.2 %",
-      "forecast": "-- %",
+      "forecast": "96 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181211",
@@ -31097,7 +31097,7 @@
       "title": "美國至7月17日當週EIA精煉油庫存(萬桶)",
       "importance": 1,
       "previous": "455.6",
-      "forecast": "--",
+      "forecast": "100",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177114",
@@ -38230,7 +38230,7 @@
       "country": "加拿大",
       "title": "加拿大至7月24日全國經濟信心指數",
       "importance": 1,
-      "previous": "--",
+      "previous": "51.4",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -38926,7 +38926,7 @@
       "country": "美國",
       "title": "美國至7月27日3個月國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.73 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -38984,7 +38984,7 @@
       "country": "美國",
       "title": "美國至7月27日3個月國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "3",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -39042,7 +39042,7 @@
       "country": "美國",
       "title": "美國至7月27日6個月國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.835 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -39100,7 +39100,7 @@
       "country": "美國",
       "title": "美國至7月27日6個月國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.94",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
