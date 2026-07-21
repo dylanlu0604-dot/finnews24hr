@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-21 09:02:56",
-  "count": 18948,
+  "updated": "2026-07-21 09:06:51",
+  "count": 18946,
   "items": [
+    {
+      "id": "4998698",
+      "time": "2026-07-21 09:06:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至263.41點。"
+    },
+    {
+      "id": "4998697",
+      "time": "2026-07-21 09:05:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲2.1%至43,324.19點。"
+    },
+    {
+      "id": "4998696",
+      "time": "2026-07-21 09:05:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，兩艘油輪在試圖透過霍爾木茲海峽南部航道時發生爆炸後起火。"
+    },
+    {
+      "id": "4998695",
+      "time": "2026-07-21 09:05:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內跌3%，現報5688.00元。"
+    },
+    {
+      "id": "4998694",
+      "time": "2026-07-21 09:04:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌5%，現報140400.00元。"
+    },
+    {
+      "id": "4998693",
+      "time": "2026-07-21 09:04:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本貿易大臣赤澤亮正：已確保日本整體石油供應充足。"
+    },
+    {
+      "id": "4998692",
+      "time": "2026-07-21 09:04:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本貿易大臣赤澤亮正：中東局勢惡化令人擔憂。"
+    },
+    {
+      "id": "mkt:019f8232-ed22-7aab-8e17-3543c11582ed",
+      "time": "2026-07-21 09:03:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index opened 581.4 points higher, up 1.37% at 43,031.1 on Tuesday, July 21."
+    },
+    {
+      "id": "mkt:019f8232-d42d-7aab-8e17-281d866e475c",
+      "time": "2026-07-21 09:03:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.44% in early trade on July 21 to 876.17 yuan/gram; Silver T+D rose 0.73% to 13,823 yuan/kg."
+    },
+    {
+      "id": "4998691",
+      "time": "2026-07-21 09:02:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本貿易大臣赤澤亮正：沙特海軍封鎖存在諸多未知數。"
+    },
+    {
+      "id": "4998690",
+      "time": "2026-07-21 09:02:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲1.5個基點，至1.945%。"
+    },
+    {
+      "id": "mkt:019f8231-f38f-7aab-8e17-258b7f7697d0",
+      "time": "2026-07-21 09:02:19",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Wall Street Journal reports Israel believes Iran has moved nuclear centrifuges to the \"Gaoshan\" facility."
+    },
+    {
+      "id": "4998689",
+      "time": "2026-07-21 09:02:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國三峽集團廣西分公司總經理吳啟仁接受審查調查】據中央紀委國家監委駐中國三峽集團紀檢監察組、湖南省紀委監委訊息：中國三峽集團廣西分公司總經理吳啟仁涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐中國三峽集團紀檢監察組紀律審查和湖南省長沙市監察委員會監察調查。"
+    },
     {
       "id": "mkt:019f8231-4028-7aab-8e17-1957165f0450",
       "time": "2026-07-21 09:01:33",
@@ -174087,144 +174204,6 @@
         "國際"
       ],
       "text": "美國國務卿魯比奧將於週二下午4點（美國東部時間）會見約旦副首相。"
-    },
-    {
-      "id": "4985638",
-      "time": "2026-07-14 09:06:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【逐際動力完成近2億美元Pre-IPO輪融資】近日，通用人形機器人公司逐際動力LimX Dynamics宣佈完成Pre-IPO輪融資，融資金額近2億美元。本輪Pre-IPO 輪融資包括IDG資本、藍思科技、GGG Group與Redstone VC、華山資本、合肥濱湖產發集團等戰略投資。此外，阿聯酋磊石資本（Stone Venture）連續多輪追投；綠洲資本、基石資本、南山戰新投、尚頎資本、蔚來資本等多家老股東超額加註。"
-    },
-    {
-      "id": "4985637",
-      "time": "2026-07-14 09:06:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【愛詩科技完成29.8億元C輪融資】7月14日，愛詩科技今日宣佈完成整體C輪融資，本輪累計融資29.8億元人民幣。其中，C+輪由阿里巴巴領投，Lollapalooza Capital（王慧文家辦）、常春藤資本、惠遠資本、鐘鼎資本、韓國未來資產、OCBC 生態下 Lion X 基金、藍色游標、CloudAlpha、iGlobe Partners 等十餘家國內外機構參與投資。本輪融資將主要用於影片生成基礎模型、實時世界模型、全球化產品增長和產業場景落地。"
-    },
-    {
-      "id": "te:economy:566561",
-      "time": "2026-07-14 09:06:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Consumer Confidence MoM",
-        "Importance 2"
-      ],
-      "text": "Australia Consumer Sentiment Jumps But Remains Near Historic Lows — Australia’s Westpac–Melbourne Institute Consumer Sentiment Index climbed 4.1% in July to 83.9, reversing June’s 2.9% drop as worries over energy costs, rising rates, and labor market weakness eased. Yet confidence remains historically fragile, still lodged in the bottom decile of the survey’s 50-year record and vulnerable to global shocks, particularly Middle East tensions. Households showed brighter views of their finances, with assessments of the past year up 5.6% to 71.1 and 12-month expectations surging 13.4% to 96.5. Broader economic sentiment improved modestly, while the gauge on whether it is a good time to buy major household items edged to 86.8. Unemployment expectations fell 7.1% to 129.9, signaling reduced labor market fears. Westpac economist Matthew Hassan cautioned that inflation remains the Reserve Bank’s central concern, with the June-quarter CPI likely decisive ahead of the August meeting, where he expects another 25-basis-point hike."
-    },
-    {
-      "id": "4985636",
-      "time": "2026-07-14 09:06:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瓶片連續主力合約日內漲4%，現報7142.00元。"
-    },
-    {
-      "id": "4985635",
-      "time": "2026-07-14 09:06:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉代總統：石油生產未受地震影響】據法新社報道，委內瑞拉代總統羅德里格斯當地時間7月13日稱，該國石油生產未受上月強震影響。羅德里格斯表示，作為全球已探明原油儲量最大的國家，委內瑞拉目前日均原油產量為120萬桶，委政府仍對今年的強勁增長抱有信心。（環球網）"
-    },
-    {
-      "id": "4985634",
-      "time": "2026-07-14 09:05:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【露笑科技：公司重點推進8英寸和12英寸碳化矽襯底片業務】露笑科技14日在互動平臺表示，公司重點推進8英寸和12英寸碳化矽襯底片業務。當前，8英寸和12英寸碳化矽襯底片的市場尚處於持續開拓階段，市場空間廣闊，公司將利用發展6英寸碳化矽業務積累的研發、生產、客戶等資源持續拓展8英寸和12英寸碳化矽業務。"
-    },
-    {
-      "id": "4985633",
-      "time": "2026-07-14 09:05:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲3%，現報5798.00元。"
-    },
-    {
-      "id": "4985632",
-      "time": "2026-07-14 09:04:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "受油價上漲影響，菲律賓比索兌美元下跌0.2%，逼近歷史低點。"
-    },
-    {
-      "id": "4985631",
-      "time": "2026-07-14 09:04:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲8%，現報515.50元。"
-    },
-    {
-      "id": "4985630",
-      "time": "2026-07-14 09:04:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國兩年期公債收益率上漲2個基點，報4.2836%。"
-    },
-    {
-      "id": "mkt:019f5e27-1fc7-7aab-8d67-a7886cbb7e7c",
-      "time": "2026-07-14 09:04:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "U.S. two-year Treasury yield rose 2 basis points to 4.2836%."
-    },
-    {
-      "id": "4985629",
-      "time": "2026-07-14 09:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海市氣象臺2026年07月14日08時58分發布中心城區高溫黃色預警訊號：預計中心城區大部今天的最高氣溫將超過35℃，請注意用火用電安全，做好防暑防曬工作。"
-    },
-    {
-      "id": "4985628",
-      "time": "2026-07-14 09:03:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【古井貢古20領跌白酒總價創近四個月新低 7月14日酒價內參釋出】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月14日整體再度低位回落。如果主要單品各取一瓶整體打包售賣，今日總售價為9839元，較昨日下跌15元，連續三日回落並創下今年3月22日以來最低。核心單品的漲跌分化依然顯著，終端交投情緒環比轉冷，總價低位震盪下行態勢進一步加劇。今日11大白酒單品三漲七跌一平，輸家數量和跌幅均佔明顯優勢。上漲方面，習酒君品漲幅居前，上漲6元/瓶，回補昨日全部跌幅；精品茅臺上漲5元/瓶，亦收復昨日全部失地，自昨日創下的5月16日i茅臺平臺提價以來最低位修復；五糧液1618小幅上漲1元/瓶，連續兩日自近一月最低位反彈。下跌方面，古井貢古20跌幅居前，下跌7元/瓶，已連續三日走低，自7月6日創下的月高點已累計回落34元/瓶；國窖1573下跌6元/瓶，結束此前四連陽走勢；五糧液普五八代下跌5元/瓶，回吐此前兩日全部漲幅；青花汾20下跌4元/瓶，自前日創下的近一月最高位連續兩日回撥；青花郎下跌3元/瓶，自昨日反彈後回落，仍處於700元關口下方；飛天茅臺與水晶劍南春均小幅下跌1元/瓶，其中前者價格回落至近一月次低位，後者連續兩日走低。洋河夢之藍M6+價格環比昨日保持不變，前一日該酒品創下近一月來最低價。"
-    },
-    {
-      "id": "mkt:019f5e26-5db4-7aab-8d67-9bc359d948a0",
-      "time": "2026-07-14 09:03:20",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver slipped below $57/oz, down 1.16% intraday."
-    },
-    {
-      "id": "4985627",
-      "time": "2026-07-14 09:03:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股股票回購一覽：81只個股獲公司回購】Wind資料顯示，7月13日，共81只港股獲公司回購，8只個股回購金額超千萬港元。其中，極兔速遞-W、快手-W、協鑫科技回購金額最大，分別獲公司回購3918.11萬港元、2998.8萬港元、2502.0萬港元。截至7月13日，今年已有286只港股獲公司回購，80只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購261.28億港元、136.35億港元、109.63億港元。"
     }
   ]
 }
