@@ -1,7 +1,42 @@
 {
   "date": "2026-07-22",
-  "count": 6,
+  "count": 9,
   "items": [
+    {
+      "id": "te:markets:568606",
+      "time": "2026-07-22 00:07:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.55% Higher — The FTSE 100 Index gained 57 points or 0.55 percent on Tuesday to close at 10582 points. Gains were led by Antofagasta (5.83%), Marks & Spencer (4.58%) and Babcock International (4.14%). Biggest losers were Segro (-2.79%), London Stock Exchange (-2.73%) and Relx (-2.38%)."
+    },
+    {
+      "id": "5000711",
+      "time": "2026-07-22 00:06:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：約旦皇家航空採購價值 14 億美元波音 787-9 客機。 ，"
+    },
+    {
+      "id": "mkt:019f856c-dd1a-7aab-8e2f-04dcde0b39a4",
+      "time": "2026-07-22 00:05:31",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Alphabet",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Google (GOOG.O): GEMINI 3.6 Flash can rapidly understand context and help users create bespoke creative tools."
+    },
     {
       "id": "5000710",
       "time": "2026-07-22 00:04:58",
