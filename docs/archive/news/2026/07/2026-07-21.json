@@ -1,7 +1,480 @@
 {
   "date": "2026-07-21",
-  "count": 2909,
+  "count": 2960,
   "items": [
+    {
+      "id": "mkt:019f84c9-2a9f-7aab-8e2a-773a0c07bebe",
+      "time": "2026-07-21 21:06:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reported JP Morgan CEO Dimon said he is not buying U.S. Treasuries or equities at present."
+    },
+    {
+      "id": "mkt:019f84c9-111d-7aab-8e2a-6add089e56a1",
+      "time": "2026-07-21 21:06:37",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hungary cuts rates for second month as inflation remains moderate】Hungary's central bank cut its policy rate 25bps to 5.75% on Tuesday, its second consecutive monthly reduction and in line with economists' expectations. The move follows a 25bps cut in June after forint appreciation led the bank to sharply lower its inflation forecast and shift policy toward easing. Governor Varga said there is room to deliver two further 25bps cuts over the summer, with a reassessment of economic conditions in September. Analysts, including Capital Economics EM economist Liam Peach, say current conditions continue to support additional easing despite some post-election forint retracement."
+    },
+    {
+      "id": "5000480",
+      "time": "2026-07-21 21:05:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉(TSLA.O)：機器人計程車現已在坦帕和奧蘭多投入運營。"
+    },
+    {
+      "id": "mkt:019f84c8-1014-7aab-8e2a-642e0e3c9450",
+      "time": "2026-07-21 21:05:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O): robotaxi service now operating in Tampa and Orlando."
+    },
+    {
+      "id": "mkt:019f84c7-7bc9-7aab-8e2a-5a9265e57331",
+      "time": "2026-07-21 21:04:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Amazon (AMZN.O): Year-to-date more than 1.8 million new organizations have joined the Amazon Business platform."
+    },
+    {
+      "id": "mkt:019f84c7-5b35-7aab-8e2a-54b20ea9af00",
+      "time": "2026-07-21 21:04:45",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM CFO expects EV wholesale volumes to rise modestly in H2 as the company restores build-to-order production."
+    },
+    {
+      "id": "5000479",
+      "time": "2026-07-21 21:04:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "GE 航空航天：ABL 航空選定 GE 航空航天航空技術解決方案，簽署五年協議，支撐更大規模飛機改裝業務。"
+    },
+    {
+      "id": "mkt:019f84c6-71d6-7aab-8e2a-4d76b7573f71",
+      "time": "2026-07-21 21:03:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's central bank said preserving stability in domestic financial markets, particularly the foreign-exchange market, supports price stability."
+    },
+    {
+      "id": "mkt:019f84c6-71c8-7aab-8e2a-44ee4606559f",
+      "time": "2026-07-21 21:03:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Hungary's central bank said global oil and European gas prices have risen recently."
+    },
+    {
+      "id": "5000478",
+      "time": "2026-07-21 21:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜：亞馬遜企業購第二季度年化總銷售額達 600 億美元。"
+    },
+    {
+      "id": "mkt:019f84c6-27c1-7aab-8e2a-3e576795da8e",
+      "time": "2026-07-21 21:03:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's central bank said inflation will remain below its 3% target for the rest of this year and is expected to return to target in 1H 2028."
+    },
+    {
+      "id": "mkt:019f84c5-e5da-7aab-8e2a-35811fc9bb0e",
+      "time": "2026-07-21 21:03:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Nigeria kept its key policy rate unchanged at 26.5%, in line with market expectations."
+    },
+    {
+      "id": "mkt:019f84c5-29fa-7aab-8e2a-2bfeec7c275c",
+      "time": "2026-07-21 21:02:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Guangzhou steps up targeted consumption push ahead of summer and Sept–Oct peak season】Guangzhou will deepen a targeted consumption-boosting campaign, focusing on the summer holiday and the Sept–Oct peak spending season to unlock domestic demand. The city will expand diversified international markets, promote exports of “New Three Items” specialty products and imports of bulk commodities, and cultivate new growth points. Authorities will accelerate industrial restructuring—scaling up new-quality productive capacity, optimizing industrial layout, upgrading traditional trade and commerce, and prioritizing AI, integrated circuits (ICs), new energy storage and the low‑altitude economy to build high‑tech, high‑growth, large‑scale industrial pillars and a modern Guangzhou‑characteristic industrial system."
+    },
+    {
+      "id": "5000477",
+      "time": "2026-07-21 21:02:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣州：深入實施提振消費專項行動 緊抓暑假及“金九銀十”消費旺季深挖消費潛能】7月20日，十二屆廣州市委財經委員會第十八次會議暨2026年上半年全市經濟形勢分析會召開，分析當前經濟形勢和上半年經濟執行情況，研究部署下一階段經濟工作。會議強調，要內外發力促消費穩外貿，深入實施提振消費專項行動，緊抓暑假及“金九銀十”消費旺季深挖消費潛能，大力開拓多元化國際市場，抓好“新三樣”等特色優勢產品出口和大宗商品進口，積極培育新的經濟增長點。要因地制宜發展壯大新質生產力，持續最佳化產業佈局和產業生態，加快商貿等傳統產業轉型升級，抓住人工智慧、積體電路、新型儲能、低空經濟等產業風口積極搶佔新賽道，構築高技術、高成長、大體量的產業新支柱，加快構建具有廣州特色和優勢的現代化產業體系。"
+    },
+    {
+      "id": "5000476",
+      "time": "2026-07-21 21:02:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行：6月份通脹情況好於預期。"
+    },
+    {
+      "id": "5000475",
+      "time": "2026-07-21 21:01:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：奈及利亞維持關鍵利率在26.5%不變；預計為26.50%。"
+    },
+    {
+      "id": "5000474",
+      "time": "2026-07-21 21:01:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "市場訊息：歐洲央行稱外匯儲備增加9億歐元，達到3485億歐元。"
+    },
+    {
+      "id": "5000473",
+      "time": "2026-07-21 21:01:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英特爾與飛塔達成合作，推進網路安全創新並增強全球供應鏈韌性。"
+    },
+    {
+      "id": "5000472",
+      "time": "2026-07-21 21:00:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行：為ERICA虛擬助手生成式人工智慧賦能，助力員工更快響應客戶需求。"
+    },
+    {
+      "id": "mkt:019f84c3-52f7-7aab-8e2a-2476d591d8fb",
+      "time": "2026-07-21 21:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China night-session main futures opened mostly higher. Shanghai silver rose over 3%; fuel oil, Shanghai crude (SC), low-sulfur fuel oil (LU) and coking coal gained more than 2%; synthetic rubber, ethylene glycol (EG) and PTA were up over 1%. Caustic soda and soybean No.2 slipped modestly."
+    },
+    {
+      "id": "5000471",
+      "time": "2026-07-21 21:00:11",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲3%，現報3731.00元。"
+    },
+    {
+      "id": "5000470",
+      "time": "2026-07-21 21:00:09",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "塑膠連續主力合約日內漲2%，現報7918.00元。"
+    },
+    {
+      "id": "5000469",
+      "time": "2026-07-21 21:00:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PTA連續主力合約日內漲2%，現報5862.00元。"
+    },
+    {
+      "id": "5000468",
+      "time": "2026-07-21 21:00:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談關稅：近期將有動作。"
+    },
+    {
+      "id": "5000467",
+      "time": "2026-07-21 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3718.00元。"
+    },
+    {
+      "id": "5000466",
+      "time": "2026-07-21 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14423.00元。"
+    },
+    {
+      "id": "5000465",
+      "time": "2026-07-21 21:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "甲醇連續主力合約日內漲1%，現報2748.00元。"
+    },
+    {
+      "id": "5000464",
+      "time": "2026-07-21 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】碳酸鋰連續跌4.22%，鈀連續漲3.98%，白銀連續漲3.07%，鉑連續漲2.98%，燃料油連續漲2.73%。"
+    },
+    {
+      "id": "5000463",
+      "time": "2026-07-21 20:59:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲資料顯示，7月20日美國實際有效聯邦基金利率為3.63%，當日成交規模為1060億美元；7月17日該利率同樣為3.63%，當日成交規模為1110億美元。"
+    },
+    {
+      "id": "5000462",
+      "time": "2026-07-21 20:59:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談及加拿大時稱：我們始終會開展貿易。"
+    },
+    {
+      "id": "5000461",
+      "time": "2026-07-21 20:58:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "思科：推出用於漏洞定位的Antares系列安全小型語言模型。"
+    },
+    {
+      "id": "5000460",
+      "time": "2026-07-21 20:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【任鴻斌會長在北京市房山區、石景山區調研】7月16日、21日，中國貿促會會長任鴻斌先後赴北京市房山區、石景山區調研中關村新興產業前沿技術研究院、人形機器人資料訓練中心等相關園區和企業，瞭解綠色儲能、先進製造、人工智慧、科幻數字產業前沿技術研發及成果轉化落地情況，圍繞推動高精尖產業出海、深化政產學研用協同創新、增強企業國際競爭力等與相關單位深入交流。北京市貿促會、房山區、石景山區有關負責同志參加調研活動。"
+    },
+    {
+      "id": "mkt:019f84c0-5b9b-7aab-8e2a-1fab5de59c16",
+      "time": "2026-07-21 20:57:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said any outcome must be favorable to U.S. firms."
+    },
+    {
+      "id": "mkt:019f84c0-44f5-7aab-8e2a-128f98a00b74",
+      "time": "2026-07-21 20:57:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said talks have not been interrupted."
+    },
+    {
+      "id": "5000459",
+      "time": "2026-07-21 20:56:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：並未切斷談判。"
+    },
+    {
+      "id": "mkt:019f84c0-2d9c-7aab-8e2a-0df5886d378a",
+      "time": "2026-07-21 20:56:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shenzhen to target AI, biomed and other priority sectors to reinforce industrial growth】An expanded meeting of Shenzhen's municipal finance committee reviewed 1H economic performance and set H2 policy priorities. Industry: officials urged firms to track trends and concentrate support on leading and emerging companies, prioritize AI, biomed and other strategic sectors, and push new listed products to sustain industrial growth. Trade: directive to diversify export markets, expand goods and services trade, refine measures based on timely analysis, and strengthen enterprise-level support to maintain external trade momentum. Investment: emphasis on accelerating project delivery, bolstering market confidence, ensuring concentrated land supply for major projects, seeking policy funding, stabilizing industrial investment, and advancing high-quality urban renewal while leveraging the six networks to lift infrastructure investment capacity. Consumption: measures to unlock demand by improving the consumption environment, introducing distinctive consumer offerings, adjusting consumption-support policies, and expanding/upgrading goods, services and inbound consumption."
+    },
+    {
+      "id": "mkt:019f84c0-1fde-7aab-8e2a-0568d4ee7d8e",
+      "time": "2026-07-21 20:56:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said he will continue communicating with his Canadian counterparts."
+    },
+    {
+      "id": "5000458",
+      "time": "2026-07-21 20:56:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：將繼續與加拿大對口官員進行磋商。"
+    },
+    {
+      "id": "mkt:019f84bf-178b-7aab-8e29-fdf4f2f2d1c5",
+      "time": "2026-07-21 20:55:43",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM CFO said the company believes it can deliver revenue, margin, EBIT and cash flow growth next year."
+    },
+    {
+      "id": "5000457",
+      "time": "2026-07-21 20:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用汽車首席財務官：我們相信公司明年能夠實現營收、利潤率、息稅前利潤和現金流的增長。"
+    },
+    {
+      "id": "5000456",
+      "time": "2026-07-21 20:55:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影 《功夫女足》 上映11天， 總票房破16億 。"
+    },
+    {
+      "id": "mkt:019f84be-9241-7aab-8e29-f66b83dd83fd",
+      "time": "2026-07-21 20:55:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "US Redbook chain-store retail sales YoY for week ended July 18 7.8% vs 8.2% prior."
+    },
+    {
+      "id": "mkt:019f84be-6d83-7aab-8e29-eb1548b41502",
+      "time": "2026-07-21 20:55:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Redbook Retail Sales (YoY) (Jul.18) | actual 7.8% | previous 8.2%"
+    },
+    {
+      "id": "5000455",
+      "time": "2026-07-21 20:55:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【深圳：聚焦人工智慧、生物醫藥等風口抓重點產業 不斷鞏固提升工業良好增長態勢】深圳特區報訊息，7月21日，深圳市委財經委員會擴大會議召開，分析深圳市上半年經濟執行情況，部署推動下半年經濟工作。會議指出，工業要研趨勢抓重點，充分把握階段性特徵，聚焦龍頭新銳抓重點企業，聚焦人工智慧、生物醫藥等風口抓重點產業，聚焦上市新品抓重點產品，不斷鞏固提升工業良好增長態勢。外貿要拓市場優結構，及時跟進分析研判、調整工作舉措，積極拓展多元市場，擴大貨物貿易和服務貿易，強化企業服務，保持外貿發展良好勢頭。投資要謀專案抓落地，增強市場主體信心，突出抓好重大專案、集中連片用地保障，積極爭取政策性資金支援，推動工業投資穩定增長，高質量推進城市更新，以“六張網”為牽引提升基礎設施投資能級。消費要挖潛力擴增量，持續最佳化消費環境，推出富有特色的消費產品，及時最佳化調整促消費政策，推動商品消費擴容升級、服務消費擴面提質、入境消費擴量增效。"
+    },
+    {
+      "id": "5000454",
+      "time": "2026-07-21 20:54:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：希望強調北美商品中的美國、加拿大和墨西哥成分。"
+    },
+    {
+      "id": "mkt:019f84be-12fe-7aab-8e29-e266cc99ca97",
+      "time": "2026-07-21 20:54:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said the aim is to ensure a fair competitive environment."
+    },
+    {
+      "id": "mkt:019f84bd-e99b-7aab-8e29-dc7138626d9a",
+      "time": "2026-07-21 20:54:26",
+      "tags": [
+        "MKT News",
+        "BA.N"
+      ],
+      "text": "U.S. Trade Representative Greer is closely monitoring loan issues involving Airbus, Boeing (BA.N) and the EU."
+    },
+    {
+      "id": "mkt:019f84bd-d92c-7aab-8e29-d3e72333b83b",
+      "time": "2026-07-21 20:54:22",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Tesla",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "NVDA.O"
+      ],
+      "text": "【Chip rebound offsets Iran tensions; US index futures rise】S&P 500 and Nasdaq-100 futures rose on Tuesday as a rebound in core AI chip stocks largely offset renewed US‑Iran tensions. Samsung and TSMC shares climbed, lifting tech sentiment, and an ETF tracking semiconductor companies rallied 4.3%. Nikkei reported TSMC plans to raise some foundry service prices by up to 10% from 2027 to offset higher raw material, equipment and overseas build costs. In pre-market trade most large tech names were higher, led by Tesla and NVIDIA; AMD, Intel and Micron also advanced. Chip and AI names had been under pressure for several weeks amid investor concern that AI-related valuations had run ahead of fundamentals."
+    },
+    {
+      "id": "mkt:019f84bd-bf90-7aab-8e29-ccaef06067fa",
+      "time": "2026-07-21 20:54:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said she wants to emphasize U.S., Canadian and Mexican content in North American goods."
+    },
+    {
+      "id": "5000453",
+      "time": "2026-07-21 20:54:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "格里爾：密切關注歐盟、空客和波音之間的競爭。"
+    },
+    {
+      "id": "mkt:019f84bd-428b-7aab-8e29-c361b3a8f3c6",
+      "time": "2026-07-21 20:53:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "French Foreign Ministry summoned Iran's chargé d'affaires over the detention of French embassy personnel."
+    },
     {
       "id": "5000452",
       "time": "2026-07-21 20:53:16",
