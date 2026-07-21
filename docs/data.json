@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-22 04:08:04",
-  "count": 18076,
+  "updated": "2026-07-22 04:12:00",
+  "count": 18080,
   "items": [
+    {
+      "id": "5000864",
+      "time": "2026-07-22 04:10:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國貿易代表暗示將很快出臺新關稅政策】美國總統特朗普最快將於本週對數十個國家加徵新關稅。美國貿易代表賈米森·格里爾當天在接受採訪時暗示，美國聯邦政府將很快出臺新的關稅政策以替代即將到期的10%全球進口關稅。格里爾說，他現在無法給出新關稅政策出臺具體時間點，政策在正式宣佈前還需向國會和其他利益攸關方通報。"
+    },
+    {
+      "id": "5000863",
+      "time": "2026-07-22 04:09:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦：新增訂單規模超600億美元。"
+    },
+    {
+      "id": "mkt:019f864c-73f7-7aab-8e31-b5650d2bba5a",
+      "time": "2026-07-22 04:09:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Pezeshkian says unity vital as Iran reports progress on Strait of Hormuz reopening and oil export recovery】On the 21st, Iranian President Pezeshkian said Iran must preserve internal unity and warned against undermining negotiation outcomes. He said Tehran has gradually advanced key items in talks — reopening the Strait of Hormuz and restoring oil exports — and that progress achieved so far has \"far exceeded expectations\", despite U.S. non-compliance. He added domestic debate over methods and results is acceptable but should not disparage outcomes without professional basis."
+    },
+    {
+      "id": "5000862",
+      "time": "2026-07-22 04:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉衛生部證實3人感染漢坦病毒死亡】委內瑞拉衛生部21日證實，該國東北部安索阿特吉州有3人死於漢坦病毒感染。委衛生部在社交媒體釋出公報稱，目前尚無證據表明漢坦病毒在委出現人際傳播，各病例間無直接關聯。"
+    },
+    {
+      "id": "mkt:019f864b-7676-7aab-8e31-acc266a8f008",
+      "time": "2026-07-22 04:08:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Joint Chiefs of Staff Chairman Gen. Dan Kain did not specify whether a U.S.-Iran conflict would include ground forces."
+    },
+    {
+      "id": "5000861",
+      "time": "2026-07-22 04:08:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦：預計第四財季營收接近110億-125億美元指引下限。"
+    },
+    {
+      "id": "5000860",
+      "time": "2026-07-22 04:08:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：特朗普總統應當收穫應有的讚譽，他採取此番行動，並有決心阻止伊朗獲得核武器。"
+    },
     {
       "id": "5000859",
       "time": "2026-07-22 04:07:29",
@@ -166181,32 +166243,6 @@
         "國際"
       ],
       "text": "美國電網運營巨頭PJM Interconnection LLC在AI繁榮期沒能實現關鍵的電力供應目標。該公司與可靠的電力需求目標之間存在6.8 GW缺口。"
-    },
-    {
-      "id": "4988486",
-      "time": "2026-07-15 04:11:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "受人工智慧產業擴張影響，美國最大電網未能達成核心電力供應目標。"
-    },
-    {
-      "id": "4988485",
-      "time": "2026-07-15 04:10:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國財政大臣裡夫斯：英國將在2027年初發行首個數字主權債券。"
-    },
-    {
-      "id": "mkt:019f6240-e60c-7aab-8d89-38906b919f41",
-      "time": "2026-07-15 04:10:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Chancellor Reeves said the UK will issue its first digital sovereign bond in early 2027."
     }
   ]
 }
