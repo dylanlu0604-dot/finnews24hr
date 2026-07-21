@@ -1,7 +1,343 @@
 {
   "date": "2026-07-21",
-  "count": 1809,
+  "count": 1847,
   "items": [
+    {
+      "id": "4999679",
+      "time": "2026-07-21 15:53:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊雲：將大規模部署國產化算力和NPO超級節點】騰訊雲高管日前出席世界人工智慧大會分論壇時表示，為了將推理成本降低到極致，公司會大規模部署國產化算力；公司預計2026年第4季度部署NPO（近封裝光學）超級節點，並呼籲國內外統一NPO行業標準。"
+    },
+    {
+      "id": "4999678",
+      "time": "2026-07-21 15:53:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄延長中國公民免簽入境期限，外交部：有助於促進各領域的交流合作】外交部發言人林劍主持例行記者會。俄新社提問，俄羅斯總統普京週一簽署法令，將中國公民免簽入境期限延長至明年年底。發言人如何評價這一舉措？對此，林劍表示：“我們也注意到了這一訊息，中俄相互延長互免簽證，有助於便利中俄人員往來，進一步增進兩國人民友好，促進各領域的交流合作。”（澎湃）"
+    },
+    {
+      "id": "mkt:019f83aa-9606-7aab-8e21-ab77765ef675",
+      "time": "2026-07-21 15:53:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China defers to competent departments on reports of maritime pact renewal with Panama】Foreign Ministry spokesperson Lin Jian declined to confirm Panamanian media reports that China and Panama have reached consensus on renewing a maritime agreement, saying specific details should be obtained from the competent Chinese authorities. Asked about Panama-flagged vessels detained in Chinese ports, he offered no update. Lin added China seeks equal, mutually beneficial ties and supports strengthened bilateral cooperation with Panama."
+    },
+    {
+      "id": "4999677",
+      "time": "2026-07-21 15:52:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【泛亞微透：實控人張雲擬增持金額不低於500萬元】泛亞微透公告，公司控股股東、實際控制人兼董事長張雲擬自本公告披露之日起6個月內，以自有資金透過上海證券交易所交易系統集中競價交易方式增持公司A股，擬增持金額不低於人民幣500萬元（含）且不超過人民幣1000萬元（含）。張雲目前持有2536.49萬股，佔總股本25.46%。"
+    },
+    {
+      "id": "4999676",
+      "time": "2026-07-21 15:52:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【中國同古巴的關係光明正大】7月21日，外交部發言人林劍主持例行記者會。 有記者提問，近日，美國國務院釋出報告稱，古巴本質上是一個以反美為核心目標的綜合情報機構，是全球激進左翼的意識形態之都，中國長期利用古巴地理優勢開展對美國情報蒐集活動。請問中方對此有何評論？ 林劍表示，中國同古巴的關係光明正大，不容造謠抹黑。奉勸美方，不要一而再再而三地向他人潑髒水，賊喊捉賊。中方將堅定支援古巴，維護國家主權，反對外來干涉。（北京日報）"
+    },
+    {
+      "id": "4999675",
+      "time": "2026-07-21 15:52:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙經濟部公佈資料：1-5月西班牙貿易逆差為250.9億歐元。"
+    },
+    {
+      "id": "mkt:019f83a9-54e0-7aab-8e21-a229d219e6fc",
+      "time": "2026-07-21 15:52:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【China says policy toward developing China‑UK relations unchanged as new UK prime minister takes office】On July 21 the Chinese foreign ministry said Beijing’s policy stance toward developing China‑UK relations is unchanged after Britain’s new prime minister took office. Premier Li Qiang sent a congratulatory message. China said it supports a long‑term, stable, comprehensive strategic partnership with the UK and is willing to cooperate with London on the basis of mutual respect and managing differences to keep bilateral ties on the right track."
+    },
+    {
+      "id": "4999674",
+      "time": "2026-07-21 15:52:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "西班牙經濟部：5月西班牙貿易逆差為82.4億歐元。"
+    },
+    {
+      "id": "mkt:019f83a9-29e2-7aab-8e21-9cf45de349a3",
+      "time": "2026-07-21 15:52:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China calls Philippines' maritime action a provocation, urges Manila to uphold ASEAN chair duties】Foreign Ministry spokesman Lin Jian said at a routine briefing that China has taken a stern position on the recent China–Philippines maritime incident and described the actions as deliberate provocation by Philippine military and police. Asked whether the incident would affect Beijing’s peripheral diplomacy or Foreign Minister Wang Yi’s agenda at ASEAN foreign ministers’ meetings in Manila, Lin said China’s neighboring-diplomacy policy remains unchanged and that East Asian cooperation platforms are not venues for bilateral maritime disputes. He urged the Philippines, as ASEAN rotating chair, to promote dialogue and cooperation rather than put political self-interest above regional peace and stability, adding that those behind the provocations are obvious."
+    },
+    {
+      "id": "te:markets:568497",
+      "time": "2026-07-21 15:52:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "French Stocks Edge Higher — The CAC 40 edged up 0.1% to around 8,347 on Tuesday, following a steady performance in the previous session as hopes for a temporary de-escalation of Middle East tensions supported sentiment after reports emerged that Iran had received a 10-day ceasefire proposal from mediators. The development, aimed at reviving the interim agreement reached last month, offered some relief despite escalating regional tensions, with the US carrying out a tenth consecutive day of strikes against Iran and Tehran continuing retaliatory attacks across the region. Meanwhile, attention also remained focused on the corporate earnings season. STMicroelectronics advanced 2.4% ahead of its second-quarter 2026 results due later this week, after reporting an earnings miss in the previous quarter. Other notable gainers included TotalEnergies (1.5%), Schneider Electric (1.3%), and Airbus (0.5%). In contrast, luxury giant LVMH fell 0.5%, while EssilorLuxottica and Saint-Gobain lost 1.3% and 1.0%, respectively."
+    },
+    {
+      "id": "mkt:019f83a9-0aad-7aab-8e21-93d892fe4422",
+      "time": "2026-07-21 15:52:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Foreign Ministry rejects Japanese claim that Chinese warships fired inside Japan’s EEZ】July 21 — Foreign Ministry spokesman Lin Jian said at a regular briefing that China rejects Japan’s diplomatic protest alleging Chinese warships carried out live-fire training inside Japan’s claimed exclusive economic zone. Lin said China’s relevant authorities have explained positions on recent China‑Russia joint exercises and maritime patrols, and argued that under UNCLOS Okinotorishima is a rock not an island and cannot generate an EEZ or continental shelf, making Japan’s claim unlawful. He added China’s activities were on the high seas and in accordance with international law and practice."
+    },
+    {
+      "id": "4999672",
+      "time": "2026-07-21 15:51:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【SpaceX上市後首份季報8月4日盤後釋出 次日將迎1092億美元天量解禁】SpaceX定於8月4日美股盤後釋出上市後首份季報，釋出後第二個交易日將解禁最高9.115億股內部限售股。基於最新股價，對應流通市值約為1092億美元。"
+    },
+    {
+      "id": "4999671",
+      "time": "2026-07-21 15:51:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國軍艦在“日本專屬經濟區”進行射擊訓練？外交部駁斥】7月21日，外交部發言人林劍主持例行記者會。日本共同社記者提問，據報道，針對中國軍艦在“日本專屬經濟區”內進行射擊訓練一事，日方已提出交涉。請問中方對此有何評論？“日方所謂的‘關切’毫無道理，中方予以堅決駁回。”林劍說。他指出，關於中俄聯合演習及海上的聯合巡航，中方的主管部門已經闡明瞭立場。需要強調的是，根據《聯合國海洋法公約》，衝之鳥是岩礁而不是島嶼，不能擁有專屬經濟區和大陸架。日方以衝之鳥礁主張“專屬經濟區”，違反國際法。林劍表示，中方在有關公海開展活動符合國際法和國際慣例，日方抹黑炒作他國的正當合法行動，渲染外部威脅，為自身加速再軍事化、挑戰戰後國際秩序尋找藉口，國際社會必須高度警惕，共同抵制這種危險的動向。（澎湃）"
+    },
+    {
+      "id": "te:markets:568496",
+      "time": "2026-07-21 15:51:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "other",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Bitcoin Hits 5-Week High — Bitcoin climbed toward $66,000 in late July, reaching its highest level in five weeks, as renewed inflows into US-listed spot Bitcoin ETFs signaled improving institutional sentiment despite heightened geopolitical risks. The 13 spot Bitcoin ETFs recorded net inflows of $75.7 million last week, marking a second consecutive week of gains after nearly two months of persistent outflows and reinforcing hopes that the cryptocurrency may be finding a floor. The increase came even as renewed US-Iran hostilities fueled inflation concerns, reinforcing expectations that the Federal Reserve could keep interest rates higher for longer. Meanwhile, investors looked ahead to potential regulatory support from the proposed US Clarity Act, while Strategy's continued pause in Bitcoin purchases and focus on preserving liquidity tempered broader optimism."
+    },
+    {
+      "id": "4999670",
+      "time": "2026-07-21 15:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【英國迎來新首相，外交部：中方對發展中英關係的政策立場是一貫的】7月21日，外交部發言人林劍主持例行記者會。有記者提問，據報道，20日，英國工黨新任黨首伯納姆接受英國王查爾斯三世任命，正式就任英首相，並組建新一屆內閣。中方對此有何評論？林劍表示，李強總理已向伯納姆首相致就職賀電。中方對發展中英關係的政策立場是一貫的。作為聯合國安理會常任理事國和世界主要經濟體，中英發展長期穩定的全面戰略伙伴關係符合兩國和兩國人民的根本利益，也有利於世界的和平穩定繁榮。“中方願同英方一道，在相互尊重、妥處分歧的基礎上增進交往，開展合作，確保雙邊關係沿著正確的方向發展。”林劍說。（澎湃）"
+    },
+    {
+      "id": "mkt:019f83a8-5e4a-7aab-8e21-8aa6abe00e28",
+      "time": "2026-07-21 15:51:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said a maritime incident occurred 17 nautical miles east of Dubai. The vessel's captain reported the ship was struck by an unidentified projectile, damaging the vessel and its navigation system."
+    },
+    {
+      "id": "4999669",
+      "time": "2026-07-21 15:51:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中菲涉海事態是否影響中方參與東盟外長會？外交部回應】7月21日，外交部發言人林劍主持例行記者會。彭博社記者提問，當前中菲的涉海事態會對中國的周邊外交產生哪些影響？這是否會對王毅外長參加在馬尼拉舉辦的東盟外長系列會議的整體議程、雙邊以及其他多邊會談造成影響？“關於近日中菲的涉海事態，剛才我已經闡明瞭中方的嚴正立場，有關事態完全是菲方的軍警蓄意挑釁。”林劍指出，值得注意的一個現象是，每當中菲之間可能開展溝通互動，每當本地區有重要外交議程時，總有一些勢力會跳出來，利用涉海問題挑釁生事。其中的是非曲直究竟為何？幕後的黑手究竟是誰？相信大家都看得很清楚。中方的周邊外交政策始終如一，沒有改變。第二個問題，林劍表示，東亞的合作平臺不是討論雙邊涉海爭議的場合，菲方應切實履行東盟輪值主席國的職責，推動對話與合作，而不是將自身的政治私利凌駕於地區的和平穩定之上。（澎湃）"
+    },
+    {
+      "id": "4999668",
+      "time": "2026-07-21 15:50:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：日本防衛大臣涉核言論極具挑釁性和危險性，國際社會應堅決抵制】7月21日，外交部發言人林劍主持例行記者會。有記者提問，據報道，日本防衛大臣小泉進次郎在7月17日的網路節目中公開提出，“日本應毫無禁忌地討論與核武器相關的政策”，引發日本國內和國際社會強烈關注。針對國會中在野黨對“無核三原則”和核潛艇相關問題的質詢，小泉表示，“當下我們是不是總把固守既有框架放在首位，把真正守衛日本擺在了後面”。請問中方對此有何評論？林劍表示，日本的現職防衛部門的負責人發表上述言論，在日本的戰後歷史上極其罕見，極具挑釁性和危險性。日本執政當局妄圖突破“無核三原則”，挑戰戰後國際秩序的野心昭然若揭。林劍指出，日本的現職領導人在擔任國會議員期間就主張修改“無核三原則”，其上臺以來不斷加速日本的“再軍事化”程序，在核武器政策方面更是危險動作不斷，包括強化所謂“延伸威懾”合作、推動發展核動力潛艇、謀求核共享安排、引入中導系統、首相官邸的高官和執政聯盟政黨公然鼓吹修訂“無核三原則”等，挑戰日本和國際社會的底線。“你提到的這名防衛大臣，一方面在各種國際場合宣稱恪守‘專守防衛’，堅持和平發展，堅持‘無核三原則’。另一方面，在日本國內又公然叫囂‘毫無禁忌地討論核武器政策’，這就是日方所謂的恪守和堅持嗎？這種自相矛盾的做法再次戳破日方的偽裝和欺騙國際社會的謊言。”林劍說。林劍表示，日本是國際公認的核門檻國家，長期蓄意保持在短期內實現核突破的能力，囤積約44.4噸分離鈽，理論上可製造大量的核彈頭。日本右翼勢力以所謂“外部威脅防衛”為藉口，不斷突破日本憲法和國際法國內法規制，挑戰二戰後國際秩序和國際核不擴散體系，在錯誤的道路上一路狂飆，已對地區的和平穩定構成現實威脅。“如果任由日本的右翼勢力肆意妄為，推動發展強力進攻性武器，甚至自主擁核，必將再次為禍國際社會，後果不堪設想。日本的新型軍國主義已經露出獠牙，國際社會必須高度警惕，堅決抵制。”林劍強調。（澎湃）"
+    },
+    {
+      "id": "4999667",
+      "time": "2026-07-21 15:50:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【四方光電：完成對精鼎電器投資工商變更 持股達100%】四方光電公告稱，公司於2024年4月擬出資1510.99萬元取得精鼎電器51%股權，同年9月投資總額調整為994.44萬元。2026年4月，公司同意與精鼎電器原股東簽署協議，交易完成後將直接持有其100%股權。近日，精鼎電器完成工商變更登記，成為公司全資子公司。"
+    },
+    {
+      "id": "mkt:019f83a7-ae16-7aab-8e21-84c14c15058a",
+      "time": "2026-07-21 15:50:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Jerusalem Post: Iran offered 10-day ceasefire; Trump says Iran must \"pay a price\"】The Jerusalem Post, citing two sources, reported Tehran initiated a mediator-backed proposal for a 10-day ceasefire with the US aimed at resolving Strait of Hormuz disputes. Mediators including senior officials from Qatar, Egypt, Oman and Pakistan have submitted the proposal to Washington and added measures such as a proposed transit corridor to allow safe passage for commercial ships through the Hormuz shipping lane. Sources said the US is seeking to extend the ceasefire and insists on at least a partial agreement on freedom of navigation before any pause takes effect, with remaining details to be finalized during the proposed 10-day window. At least some Trump administration officials described Iran’s offer as “absurd” and “illogical,” and a US official said Trump is pushing to make Iran “pay a price” for alleged violations of memoranda of understanding and for actions that resulted in US casualties."
+    },
+    {
+      "id": "mkt:019f83a7-8827-7aab-8e21-7f690d9f7af6",
+      "time": "2026-07-21 15:50:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "US10Y"
+      ],
+      "text": "【China reiterates three-principle stance on Renai Reef resupply】At a routine Foreign Ministry briefing, spokesman Lin Jian reiterated China’s three-principle position after a July 2024 temporary arrangement with the Philippines on humanitarian deliveries to Renai Reef. First, Beijing said the Philippines’ long‑grounded naval vessel at Renai Reef infringes Chinese sovereignty and violates the Declaration on the Conduct of Parties in the South China Sea (DOC); China demands Manila remove the vessel and restore the reef to an unoccupied, facility‑free state. Second, until the vessel is removed, China will on humanitarian grounds allow Philippine deliveries to personnel aboard the ship only after prior notification and on‑site verification, with the entire process subject to Chinese monitoring. Third, China said it will oppose and block any Philippine attempt to build fixed facilities or permanent posts on the reef, acting in accordance with law and regulations. Lin also accused Manila of recent deliberate provocations and a violent attack on Chinese law‑enforcement officers, urging the Philippines to stop maritime provocations and misleading public reporting immediately."
+    },
+    {
+      "id": "4999666",
+      "time": "2026-07-21 15:50:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：菲律賓在仁愛礁蓄意挑釁卻倒打一耙 歪曲事實】7月21日，外交部發言人林劍主持例行記者會。有記者提問：據瞭解，7月20日，中國和菲律賓人員在仁愛礁發生暴力衝突，菲律賓軍方發表宣告稱，此事導致一名菲海員受傷。中方對此有何進一步訊息？中方對此有何評論？林劍介紹，7月20日，中國海警在仁愛礁附近海域開展正常維權執法行動時，菲方非法“坐灘”軍艦故意派出兩艘小艇，以危險方式抵近衝撞中方船隻，並暴力襲擊中方的執法人員。中方不得不堅決依法應對。事後菲方卻倒打一耙，歪曲事實，大肆渲染炒作，中方對菲方的有關行徑表示強烈不滿和堅決反對。今天上午中方已向菲律賓駐華大使提出嚴正交涉。（央視新聞）"
+    },
+    {
+      "id": "4999665",
+      "time": "2026-07-21 15:49:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【中方向菲律賓重申3點原則立場】今天，外交部例行記者會上，發言人林劍回應中方同菲方就仁愛礁運補人道主義生活物資達成臨時性安排。 林劍表示，2024年7月，中方基於三點原則立場，同菲方就仁愛礁運補人道主義生活物資達成臨時性安排，中方的立場沒有變化。 “我願簡要重申，第一，菲律賓派軍艦在仁愛礁長期‘坐灘’，侵犯中國主權，違反《南海各方行為宣言》，中方仍要求菲方拖走非法的‘坐灘’軍艦，恢復仁愛礁無人、無設施的原狀。第二，在菲方拖走該艦前，中方願從人道主義出發，在菲方事先向中方通報並經現場核查後，允許菲方對該艦居住人員提供生活物資補給。中方將全過程予以監控。第三，如果菲方試圖建設固定設施和永久哨所，中方絕不接受，將堅決依法依規予以攔阻。” “近日菲方在仁愛礁蓄意挑釁，暴力襲擊中方的執法人員，事後還倒打一耙，歪曲炒作。中方對此強烈不滿和堅決反對。中方敦促菲方切實履行承諾，立即停止海上的滋事挑釁和不實炒作。”（央視新聞）"
+    },
+    {
+      "id": "4999664",
+      "time": "2026-07-21 15:49:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上海汽配：股東格洛利、迪之凱減持計劃期滿未減持】上海汽配公告，截至2026年7月20日減持計劃期滿，股東格洛利與迪之凱未減持公司股份。此前二者擬透過大宗交易及集中競價交易方式減持公司股份合計不超過607.23萬股，即不超過公司總股本的1.80%。格洛利當前持股4322.23萬股，佔12.81%；迪之凱當前持股207.23萬股，佔0.61%。"
+    },
+    {
+      "id": "4999663",
+      "time": "2026-07-21 15:49:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【明陽電氣：副總裁張永勝因個人原因辭職】明陽電氣7月21日公告，公司董事會於近日收到高階管理人員張永勝提交的書面辭職報告，張永勝因個人原因辭去公司副總裁職務。辭職後，張永勝不再在公司及子公司擔任任何職務。根據相關規定，張永勝的辭職申請自送達董事會之日起生效。"
+    },
+    {
+      "id": "4999662",
+      "time": "2026-07-21 15:48:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鳴山基金：近期已使用不低於3000萬元的自有資金申購公司旗下私募證券基金產品】7月21日，鳴山基金公告，基於對中國資本市場長期穩健發展的堅定信心，以及對公司主動管理能力的認可，鳴山基金近期已使用不低於3000萬元的自有資金，申購公司旗下私募證券基金產品。"
+    },
+    {
+      "id": "4999661",
+      "time": "2026-07-21 15:48:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國海證券：維持新萊福“買入”評級，銅鎳粉體驅動價值重估】國海證券研報指出，新萊福平臺型企業迎成長拐點，銅鎳粉體驅動價值重估。公司深耕功能材料多年，構建微納粉體制備、功能複合材料加工、電子陶瓷元件加工等底層共效能力並向多領域外延；吸附功能材料、輻射防護材料（2025年營收同比+102.06%、毛利率53.61%）等細分市場行業領先。公司已備案500噸鎳基、1500噸銅基微納電子粉體產能，切入MLCC與光伏兩大高景氣主線。鎳粉方面，AI伺服器單機MLCC用量達數萬顆（下一代Rubin機架超60萬顆），需求高增，而MLCC內電極的核心材料正是鎳基粉體；當前高階電子粉體長期由日韓主導，國產替代空間廣闊，公司500噸鎳粉產能有望充分受益。擬合併金南磁材，\"粉體—材料—器件\"一體化，切入AI電源、晶片電感與機器人賽道。微納粉體制備平臺為核心競爭力，一類驗證，多類可期跨品類佈局開啟成長空間。考慮公司粉體專案開啟新增長級，主業穩健增長，看好公司長期發展，維持“買入”評級。"
+    },
+    {
+      "id": "4999660",
+      "time": "2026-07-21 15:47:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國中鐵：近期中標多項重大工程 合計金額約560.43億元】中國中鐵(601390.SH)公告稱，公司近期中標多項重大工程，包括鐵路、公路、市政及海外專案，中標價合計約560.43億元，約佔公司2025年營業收入的5.14%。"
+    },
+    {
+      "id": "te:economy:568492",
+      "time": "2026-07-21 15:47:55",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yield Holds Above 5% After Healey’s Surprise Chancellorship — The UK 10-year gilt yield remained just above 5%, unchanged from the prior session, following Prime Minister Andy Burnham’s unexpected appointment of John Healey, the former defense secretary, as chancellor. Healey’s surprise selection, though not a favored candidate, may hint at higher defense spending ahead. On policy, Burnham has so far pledged to cut taxes on energy bills, funded by ending the Digital ID program. Meanwhile, ONS data showed UK government borrowing at £16 billion in June, down a third from last year and below forecasts. In a separate report, wage growth eased to 4.3% in the three months to May, slightly under expectations, while unemployment stayed at 4.9%. Investors are also watching Middle East developments, with renewed hope for US-Iran diplomacy after recent escalations."
+    },
+    {
+      "id": "4999659",
+      "time": "2026-07-21 15:47:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "富騰集團股價走勢反轉，最新報價上漲1.5%。"
+    },
+    {
+      "id": "4999658",
+      "time": "2026-07-21 15:47:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，伊朗方面率先提出由調解方正在推動的、美伊為期10天的停火提議。"
+    },
+    {
+      "id": "4999657",
+      "time": "2026-07-21 15:46:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國政府：原油供應至9月底不會出現問題】在美伊矛盾激化導致中東地區供應鏈不穩定性加劇的背景下，韓國政府表示，原油供應至9月底不會出現問題。韓國產業通商部21日表示，已確保7—8月原油到貨量達到去年平均水平的110%以上，確保9月到貨量達到去年同期的90%以上，預計原油供應至9月底不會出現較大問題。目前紅海航道通行正常‌，政府正密切關注相關動向。若紅海航道受阻，政府將尋找蘇伊士運河等替代航路。"
+    },
+    {
+      "id": "mkt:019f83a4-0d50-7aab-8e21-73854072a517",
+      "time": "2026-07-21 15:46:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Jerusalem Post, citing sources familiar with the negotiations, reports Iran initially proposed a mediator-backed 10-day ceasefire with the US."
+    },
+    {
+      "id": "4999656",
+      "time": "2026-07-21 15:46:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "以色列財政部長斯莫特里奇在昨晚長時間安全會議後表態：“以色列無意捲入美伊之間這場有限對峙，當前局勢對我國而言最為有利。”"
+    },
+    {
+      "id": "4999655",
+      "time": "2026-07-21 15:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【吉位元：董事長提議2026年半年度每10股派發現金紅利100元】吉位元(603444.SH)公告稱，公司董事長盧竑巖提議制定2026年半年度利潤分配方案，擬向全體股東每10股派發現金紅利100元(含稅)，不進行資本公積轉增股本及其他形式利潤分配。該方案需經董事會審議及履行相關審批程式，存在不確定性。"
+    },
+    {
+      "id": "4999654",
+      "time": "2026-07-21 15:45:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華昌達：董事長因非本公司事項或遭110萬元行政處罰】華昌達公告稱，公司董事長李德富收到深圳證監局《行政處罰事先告知書》。因英飛拓2019 - 2020年全資子公司虛增營收、利潤等，導致年報虛假記載，李德富時任英飛拓副總經理、財務總監，被認定為資訊披露違法其他直接責任人員，擬被警告並罰款110萬元。李德富目前能正常履職，該事項與公司無關，不影響公司生產經營。"
+    },
+    {
+      "id": "4999653",
+      "time": "2026-07-21 15:45:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST雅博：子公司中標9980萬元儲能電站專案】*ST雅博公告稱，下屬全資子公司中復凱參與的梅河口如實新盛新能源有限公司50MW/100MWh調頻儲能電站專案中標，中標價格9980萬元，佔公司2025年度經審計營業收入的34.05%。開標日期為2026年7月13日，工期要求2026年9月15日完成部分裝置安裝，10月30日完成整站併網試執行。截至公告披露日，尚未簽訂正式合同，最終金額及條款以合同為準，專案若順利實施，預計對未來業績產生積極影響。"
+    },
+    {
+      "id": "4999652",
+      "time": "2026-07-21 15:45:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華源證券：首予龍淨環保“買入”評級，紫金助力礦山綠電高增】華源證券研報指出，紫金助力礦山綠電高增，龍淨環保儲能+電動礦卡持續成長。環保主業在手訂單充沛，貢獻穩定基本盤。依託紫金礦業海外及國內礦山專案，公司積極佈局光伏、風電等新能源專案。外，公司擬與億緯鋰能共建60GWh大容量儲能電池工廠，擬總投資約60億元、龍淨參股20%，有望進一步增厚利潤。電動礦卡：2025年12月下線並交付首臺純電動礦用自卸車LK220E（與西藏巨龍銅業簽訂首批購銷合同），同時推進研發LK350E、無人駕駛LK110EI（已獲紫金山金銅礦訂單）。考慮公司環保主業訂單維持韌性，綠電板塊逐步貢獻規模性利潤，儲能電芯業務產能提升，電動礦卡處於低滲透高成長賽道。首次覆蓋，給予“買入”評級。"
+    },
     {
       "id": "4999651",
       "time": "2026-07-21 15:44:45",
