@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-22 02:49:39",
-  "count": 18067,
+  "updated": "2026-07-22 02:53:30",
+  "count": 18065,
   "items": [
+    {
+      "id": "mkt:019f8603-11a5-7aab-8e30-7b8f87917eb3",
+      "time": "2026-07-22 02:49:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's Erbil International Airport, which was temporarily closed following a security incident, has resumed flight operations, Iraq's state news agency reported."
+    },
     {
       "id": "5000787",
       "time": "2026-07-22 02:49:08",
@@ -166147,34 +166155,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：襲擊了科威特阿里薩勒姆空軍基地的無人機停機坪，今日發動的襲擊是對美國襲擊伊朗的回應。"
-    },
-    {
-      "id": "mkt:019f61f9-51ce-7aab-8d87-e20fb52fdc2c",
-      "time": "2026-07-15 02:52:37",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $84.73 a barrel, up $1.43, or 1.72%."
-    },
-    {
-      "id": "4988427",
-      "time": "2026-07-15 02:52:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油期貨收於每桶84.73美元，上漲1.43美元，漲幅1.72%。"
-    },
-    {
-      "id": "4988426",
-      "time": "2026-07-15 02:51:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國公共衛生團體、兒科醫生與家長聯盟起訴美國食品藥品監督管理局，指控其允許未獲授權的電子煙與尼古丁袋營銷的政策。"
     }
   ]
 }

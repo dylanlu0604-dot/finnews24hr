@@ -1,7 +1,15 @@
 {
   "date": "2026-07-22",
-  "count": 138,
+  "count": 139,
   "items": [
+    {
+      "id": "mkt:019f8603-11a5-7aab-8e30-7b8f87917eb3",
+      "time": "2026-07-22 02:49:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's Erbil International Airport, which was temporarily closed following a security incident, has resumed flight operations, Iraq's state news agency reported."
+    },
     {
       "id": "5000787",
       "time": "2026-07-22 02:49:08",
