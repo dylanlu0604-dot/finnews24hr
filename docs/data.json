@@ -1,7 +1,28 @@
 {
-  "updated": "2026-07-22 01:36:31",
-  "count": 18110,
+  "updated": "2026-07-22 01:40:30",
+  "count": 18106,
   "items": [
+    {
+      "id": "5000759",
+      "time": "2026-07-22 01:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西航空工業公司與阿布扎比穆巴達拉集團簽署協議，旨在鞏固阿聯酋在全球航空航天領域的地位，並擴大巴航工業在該國及區域內的業務佈局。"
+    },
+    {
+      "id": "mkt:019f85bf-d187-7aab-8e2f-de4e3022fa34",
+      "time": "2026-07-22 01:36:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump warns Houthis US will act if they block Red Sea shipping or Saudi energy exports】President Trump said on Tuesday the United States would “deal with” Yemen’s Houthi group if it imposes a blockade on shipping or energy exports from Saudi Arabia via the Red Sea. Speaking in the Oval Office, he said the action has not occurred “so far” but “maybe will,” and reiterated “if this happens, we will act.” He added the US has taken action against the Houthis before and “haven’t heard from them” since those initial measures."
+    },
     {
       "id": "mkt:019f85bc-f1b4-7aab-8e2f-d7dfdeab35e2",
       "time": "2026-07-22 01:33:00",
@@ -166497,54 +166518,6 @@
         "焦點"
       ],
       "text": "LUCID股票因波動劇烈而暫停交易，此前股價暴跌49%，創歷史新低。"
-    },
-    {
-      "id": "mkt:019f61b7-1e2f-7aab-8d87-08ad1b13bba4",
-      "time": "2026-07-15 01:40:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israeli military says it killed several Hamas militants in northern Gaza】The Israeli military said on the 14th it conducted an airstrike in northern Gaza that killed the head of Hamas's military security in the Jabalia refugee camp and several other militants. The military said those killed had recently planned and carried out attacks against Israel."
-    },
-    {
-      "id": "4988367",
-      "time": "2026-07-15 01:40:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉國民議會議長羅德里格斯：將向地震受災流離家庭交付首批200套住房。"
-    },
-    {
-      "id": "4988366",
-      "time": "2026-07-15 01:39:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "LUCID股票在創紀錄下跌後再次停牌。"
-    },
-    {
-      "id": "4988365",
-      "time": "2026-07-15 01:37:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【3艘油輪在阿曼附近海域遭襲 3人失蹤6人受傷】阿曼海事安全中心14日說，3艘油輪當天在阿曼附近海域多個地點遭襲，共造成3名船員失蹤、6人受傷。根據該中心發表的宣告，3艘油輪均懸掛賴比瑞亞國旗。其中一艘油輪在阿曼穆桑代姆省近海遇襲，18名船員已由附近船隻轉移，仍有3人失蹤，搜救工作在繼續。另一艘油輪在距離穆桑代姆省海岸約8.5海里處遭襲，船舶失去動力，6名船員受傷。阿曼軍方艦艇正在現場監控事態。還有一艘油輪在阿曼東南省附近海域遭襲，船舶機艙起火，未造成人員傷亡。阿曼外交部當天發表宣告，呼籲尊重國際法，確保商船安全透過霍爾木茲海峽。"
-    },
-    {
-      "id": "4988364",
-      "time": "2026-07-15 01:37:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍稱在加沙地帶北部打死多名哈馬斯武裝人員】當地時間14日，以色列國防軍發表宣告稱，以軍當天在加沙地帶北部發動空襲，打死了巴勒斯坦伊斯蘭抵抗運動（哈馬斯）傑巴利耶營軍事安全負責人。以軍稱，一同被打死的還有數名哈馬斯武裝人員。以方指責上述人員近期策劃並實施針對以色列的襲擊。"
-    },
-    {
-      "id": "4988363",
-      "time": "2026-07-15 01:36:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國疾控中心官員：疾控中心已向醫生髮布健康警報，敦促對環孢子蟲病進行檢測。"
     }
   ]
 }

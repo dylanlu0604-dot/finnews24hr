@@ -1,7 +1,28 @@
 {
   "date": "2026-07-22",
-  "count": 86,
+  "count": 88,
   "items": [
+    {
+      "id": "5000759",
+      "time": "2026-07-22 01:38:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "巴西航空工業公司與阿布扎比穆巴達拉集團簽署協議，旨在鞏固阿聯酋在全球航空航天領域的地位，並擴大巴航工業在該國及區域內的業務佈局。"
+    },
+    {
+      "id": "mkt:019f85bf-d187-7aab-8e2f-de4e3022fa34",
+      "time": "2026-07-22 01:36:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump warns Houthis US will act if they block Red Sea shipping or Saudi energy exports】President Trump said on Tuesday the United States would “deal with” Yemen’s Houthi group if it imposes a blockade on shipping or energy exports from Saudi Arabia via the Red Sea. Speaking in the Oval Office, he said the action has not occurred “so far” but “maybe will,” and reiterated “if this happens, we will act.” He added the US has taken action against the Houthis before and “haven’t heard from them” since those initial measures."
+    },
     {
       "id": "mkt:019f85bc-f1b4-7aab-8e2f-d7dfdeab35e2",
       "time": "2026-07-22 01:33:00",
