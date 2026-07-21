@@ -1,7 +1,177 @@
 {
   "date": "2026-07-21",
-  "count": 657,
+  "count": 683,
   "items": [
+    {
+      "id": "4998782",
+      "time": "2026-07-21 09:43:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "【跨境支付概念異動拉昇 京北方直線漲停】早盤跨境支付概念異動拉昇，京北方直線漲停，四方精創漲超10%，長亮科技、新晨科技、小商品城、拉卡拉等跟漲。"
+    },
+    {
+      "id": "4998779",
+      "time": "2026-07-21 09:43:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨漲幅擴大至1%。"
+    },
+    {
+      "id": "4998778",
+      "time": "2026-07-21 09:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "訊息人士稱，北京極佳視界科技有限公司（GigaAI）尋求今年在香港進行首次公開募股(IPO)，目前即將完成30億美元的融資輪。"
+    },
+    {
+      "id": "te:markets:568349",
+      "time": "2026-07-21 09:42:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Rebound — The benchmark KOSPI rose more than 3% to around 6,720 on Tuesday, rebounding from an almost three-month low as bargain hunting emerged in beaten-down technology stocks following last week's sharp selloff. Samsung Electronics and SK Hynix led the recovery, advancing over 4% and 3%, respectively. At the same time, South Korea's exports surged 52.3% in the first 20 days of July, fueled by a 180% jump in semiconductor shipments amid sustained AI demand, further boosting confidence in the sector's earnings outlook. Other notable advancers included SK Square (3.0%), Kia Corporation (1.1%), Shinhan Financial Group (2.2%), Hanwha Aerospace (4.1%), SK Inc. (1.4%), and HD Hyundai Electric (1.3%). However, the rebound was tempered by lingering concerns over escalating tensions in the Middle East, as rising oil prices and weaker sentiment on Wall Street continued to weigh on global risk appetite."
+    },
+    {
+      "id": "te:markets:568348",
+      "time": "2026-07-21 09:41:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Australian Dollar Rises to 1-Month High — The Australian dollar rose to around $0.70, hitting more than a four-week high as the ongoing US-Iran conflict raised the risk of energy-driven inflation, fueling expectations that the Reserve Bank of Australia could deliver another interest rate hike. US attacks on Iran entered a tenth consecutive day, while Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising fears of broader disruptions to global energy supplies. The resulting surge in oil prices reinforced expectations that the Reserve Bank of Australia could tighten policy further after raising the cash rate three times to 4.35%, with markets pricing a 76% chance of another increase by December. Investors are also awaiting Australia's June employment report on Thursday, with forecasts pointing to a 15,000 rise in employment and an unchanged 4.4% unemployment rate. A weaker-than-expected labor market reading could prompt traders to scale back expectations for further policy tightening."
+    },
+    {
+      "id": "4998777",
+      "time": "2026-07-21 09:41:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "越南一輛巴士起火致7名乘客死亡。"
+    },
+    {
+      "id": "4998776",
+      "time": "2026-07-21 09:41:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨上漲0.5%。"
+    },
+    {
+      "id": "4998775",
+      "time": "2026-07-21 09:41:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股家居用品板塊短線走低】夢百合觸及跌停，建霖家居、索菲亞、共創草坪、富嶺股份、顧家家居、公牛集團跟跌。"
+    },
+    {
+      "id": "mkt:019f8255-55c6-7aab-8e18-a2d2dfc8c5dd",
+      "time": "2026-07-21 09:40:58",
+      "tags": [
+        "MKT News",
+        "01888.HK",
+        "Impact bullish",
+        "00148.HK",
+        "01377.HK"
+      ],
+      "text": "Hong Kong PCB-related stocks strengthened: Kingboard Laminates (01888.HK) rose over 5% and Kingboard Holdings (00148.HK) rose over 4%; Dingtai High-Tech (01377.HK), Guanghe Technology (01989.HK) and Dazhu Numerical Control (03200.HK) also gained."
+    },
+    {
+      "id": "mkt:019f8255-3e97-7aab-8e18-9a3f8ceb8e18",
+      "time": "2026-07-21 09:40:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "【Capital Economics: gold still useful as hedge against large equity sell-offs】Capital Economics strategist Thomas Mathews says gold remains valuable as a hedge against large equity declines. He notes recent gold behavior looks more like a risk asset — volatility has been roughly in line with the S&P 500 and its weak showing during the Middle East conflict has eroded its inf-hedge narrative. The link between gold and real yields remains intact; a decline in real yields should lift gold. If a US economic shock forces the Fed into sizeable policy easing, the recent positive gold–equity correlation would likely unwind."
+    },
+    {
+      "id": "4998774",
+      "time": "2026-07-21 09:40:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半導體板塊今日反彈 東芯股份漲超12%】半導體板塊今日反彈，東芯股份漲超12%，強一股份、傑華特、星宸科技等股跟漲。"
+    },
+    {
+      "id": "4998773",
+      "time": "2026-07-21 09:40:20",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【算力租賃概念探底回升 中嘉博創5天3板】早盤算力租賃概念探底回升，中嘉博創5天3板，此前美利雲2連板，利通電子、揚電科技、宜通世紀、杭鋼股份跟漲。"
+    },
+    {
+      "id": "4998772",
+      "time": "2026-07-21 09:40:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【樂鑫科技：有望獲得更多成本敏感型專案的匯入機會】樂鑫科技近日接受機構調研時表示，公司認為，儲存器價格上漲對公司的直接影響相對有限。一方面，公司產品主要搭配NOR Flash，相關儲存成本在整體方案中的佔比相對較低，因此成本波動整體可控。另一方面，從市場角度來看，儲存器漲價可能推動部分終端產品重新評估硬體架構。一些原本採用Linux搭配NAND Flash、DDR的方案，在成本上升後，可能更傾向於採用RTOS搭配NOR Flash的輕量化方案，在滿足功能需求的同時實現更優的成本控制。公司長期深耕RTOS平臺，在軟體生態、開發工具和應用積累方面具有較好的基礎，因此有望受益於這一趨勢，獲得更多成本敏感型專案的匯入機會。總體來看，公司認為這一變化更多體現為產品結構和方案選擇的調整，為公司進一步擴大AIoT市場覆蓋範圍提供了新的機會。"
+    },
+    {
+      "id": "4998771",
+      "time": "2026-07-21 09:39:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【睿郡資產：擬1億元申購公司旗下私募證券投資基金】7月21日，睿郡資產公告，基於對中國資本市場長期穩健發展的看好，以及對公司主動管理投研實力的信心，公司計劃在本月內，使用自有資金人民幣1億元申購公司旗下私募證券投資基金。"
+    },
+    {
+      "id": "4998770",
+      "time": "2026-07-21 09:39:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【螞蟻保推出張雪機車聯名款摩托車意外險】7月21日，張雪機車宣佈，螞蟻保正式成為張雪機車WSBK全球戰略合作伙伴，並推出張雪機車聯名款摩托車意外險。"
+    },
+    {
+      "id": "mkt:019f8254-26b9-7aab-8e18-91eddcaa83a2",
+      "time": "2026-07-21 09:39:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "1810.HK",
+        "Impact bullish"
+      ],
+      "text": "【Xiaomi raises 2026 smartphone shipment target】Chinese smartphone maker Xiaomi raised its 2026 smartphone shipment target to 110m units from about 90m, roughly a 16% increase, supply-chain sources said. The incremental volume will mainly come from low-end models; Xiaomi internally expects the current memory-chip cycle may reverse. Xiaomi had cut shipment targets twice earlier this year after upstream memory-chip shortages and sustained cost increases."
+    },
+    {
+      "id": "mkt:019f8254-2397-7aab-8e18-8af7b28e403d",
+      "time": "2026-07-21 09:39:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "【U.S. State Department issues global security alert, urges U.S. citizens to increase vigilance】July 20 — The U.S. State Department issued a global security alert warning of elevated risk from escalating Middle East tensions and possible sudden deterioration in the security environment. U.S. citizens in the Middle East were urged to remain highly vigilant and to be prepared for flight cancellations, temporary airspace closures and other travel disruptions; those outside the region were advised to reconsider travel to or through the area. U.S. diplomatic facilities, including sites outside the Middle East, have been identified as potential targets. The advisory said Iran and its proxies may target U.S. overseas interests, U.S.-related sites worldwide or U.S. citizens."
+    },
+    {
+      "id": "4998769",
+      "time": "2026-07-21 09:39:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【小米上調手機出貨目標】從供應鏈獲悉，小米已將2026年全年智慧手機出貨目標從約9000萬部上調至1.1億部，增幅約16%，上調的增量部分主要來自低端機型。一位接近小米的人士表示，此次上調出貨目標是小米內部認為當前的儲存行情有望迎來反轉。受上游儲存晶片的短期與成本持續上漲，小米在今年曾兩次下調其出貨目標。(介面新聞)"
+    },
     {
       "id": "mkt:019f8253-a159-7aab-8e18-8579594c8e78",
       "time": "2026-07-21 09:39:06",
@@ -44,6 +214,32 @@
       "text": "Yangdian Technology shares hit the 20% daily trading limit after its wholly owned subsidiary signed an RMB 860 mln computing-power services contract, equivalent to 67.22% of the company's 2025 revenue."
     },
     {
+      "id": "4998768",
+      "time": "2026-07-21 09:37:51",
+      "tags": [
+        "市場"
+      ],
+      "text": "【覆銅板概念股盤初走弱 金安國紀等股跌停】覆銅板概念股盤初走弱，銅冠銅箔跌超18%，寶鼎科技、金安國紀、賢豐控股跌停，華正新材、宏昌電子等股跌幅靠前。"
+    },
+    {
+      "id": "4998767",
+      "time": "2026-07-21 09:37:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲1.01%，現報13747.695點；上證指數跌0.05%，現報3794.388點；創業板指漲1.64%，現報3499.543點。"
+    },
+    {
+      "id": "4998766",
+      "time": "2026-07-21 09:37:28",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "菲律賓股市指數上漲1.1%，至6487.37點。"
+    },
+    {
       "id": "mkt:019f8252-0114-7aab-8e18-6410507b5ec9",
       "time": "2026-07-21 09:37:19",
       "tags": [
@@ -55,6 +251,23 @@
       "text": "A-share digital-currency sector strengthened in early trade; Sifang Jingchuang rose over 10% and Zhongjia Bochuang hit the daily limit. Xingwang Ruijie, Changliang Technology, Zhengtong Electronics, Dianke Wang'an and Tianyang Technology also advanced."
     },
     {
+      "id": "4998765",
+      "time": "2026-07-21 09:37:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "【港股人工智慧股延續漲勢 智譜漲近9%】截至發稿，智譜(02513.HK)漲8.93%，天數智芯(09903.HK)漲2.93%，MINIMAX-W(00100.HK)漲3.57%。"
+    },
+    {
+      "id": "4998764",
+      "time": "2026-07-21 09:36:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【網際網路金融板塊短線拉昇】網際網路金融板塊短線拉昇，智度股份、中嘉博創漲停，證通電子、新晨科技、科藍軟體、四方精創、宇信科技等紛紛走高。"
+    },
+    {
       "id": "mkt:019f8251-3273-7aab-8e18-5f7c619e8c1b",
       "time": "2026-07-21 09:36:27",
       "tags": [
@@ -62,6 +275,32 @@
         "Important"
       ],
       "text": "South Korea's Lee said market participants believe leveraged products present material policy concerns and that supplementary measures are needed."
+    },
+    {
+      "id": "4998763",
+      "time": "2026-07-21 09:36:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "4998762",
+      "time": "2026-07-21 09:35:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國總統：市場參與者認為槓桿產品的政策問題十分嚴重，需要出臺補充措施。"
+    },
+    {
+      "id": "4998761",
+      "time": "2026-07-21 09:35:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國稱已確保9月原油需求量的90%。"
     },
     {
       "id": "4998760",
