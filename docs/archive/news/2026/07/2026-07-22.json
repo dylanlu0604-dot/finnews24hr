@@ -1,7 +1,58 @@
 {
   "date": "2026-07-22",
-  "count": 398,
+  "count": 403,
   "items": [
+    {
+      "id": "mkt:019f86e1-279f-7aab-8e33-452cbbef04eb",
+      "time": "2026-07-22 06:52:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "LYC.AX"
+      ],
+      "text": "Lynas, Australia’s rare-earths producer, reported total production of 3,481 tonnes in the fourth fiscal quarter and sales revenue of A$288.9 mln."
+    },
+    {
+      "id": "5000951",
+      "time": "2026-07-22 06:51:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思稱伊朗實力已遭削弱，但並未給出戰事結束的時間節點。"
+    },
+    {
+      "id": "mkt:019f86e0-8fd6-7aab-8e33-3dcb2a3b4449",
+      "time": "2026-07-22 06:51:31",
+      "tags": [
+        "MKT News",
+        "LYC.AX"
+      ],
+      "text": "Lynas said its Q4 average selling price was A$98.20 per kg."
+    },
+    {
+      "id": "5000950",
+      "time": "2026-07-22 06:50:39",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週三重要財經資訊提醒（以下均為北京時間）】 \n① 07:50 日本6月進出口與商品貿易帳；\n② 時間待定 上海核能可持續發展大會開幕（7月22-24日），“引力一號”運載火箭預計在海上發射；\n③ 14:00 英國6月CPI；\n④ 15:20 印尼央行公佈利率決議；\n⑤ 20:15 歐洲央行公佈利率決議（含主要再融資利率、存款機制利率、邊際貸款利率）；\n⑥ 20:45 歐洲央行行長拉加德舉行新聞釋出會；\n⑦ 21:00 三星Galaxy全球新品釋出會；\n⑧ 22:30 美國能源資訊署（EIA）釋出政府版原油庫存週報；\n⑨ 美股盤後 谷歌母公司Alphabet、特斯拉、德州儀器、IBM、ServiceNOW等釋出業績報告。"
+    },
+    {
+      "id": "mkt:019f86df-7ea0-7aab-8e33-311bf164f6ec",
+      "time": "2026-07-22 06:50:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "LYC.AX"
+      ],
+      "text": "Australian rare‑earths producer Lynas said NdPr (neodymium‑praseodymium) production in the fourth fiscal quarter was 1,857 tonnes."
+    },
     {
       "id": "5000949",
       "time": "2026-07-22 06:48:35",
