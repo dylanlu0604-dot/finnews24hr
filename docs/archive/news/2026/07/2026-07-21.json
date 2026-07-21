@@ -1,7 +1,55 @@
 {
   "date": "2026-07-21",
-  "count": 1983,
+  "count": 1988,
   "items": [
+    {
+      "id": "4999775",
+      "time": "2026-07-21 16:35:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貝萊德、高瓴和淡馬錫據悉將成為中際旭創香港上市交易的基石投資者】知情人士稱，貝萊德、高瓴和淡馬錫勢將成為中際旭創潛在80億美元香港上市交易的基石投資者。知情人士透露，投資機構思柏投資、摩根資產管理、Wellington Management Co.和雲鋒基金也計劃作為基石投資者參與交易。由於相關資訊不公開，知情人士要求匿名。他們表示，這些基石投資者預計將認購近一半的股份。 知情人士稱，中際旭創計劃最早週三開始接受投資者認購，這有望成為七年來香港規模最大的股票發行交易。他們表示，基礎發行規模約為70億美元，但超額配售選擇權可能使最終規模達到80億美元。知情人士補充道，相關討論仍在進行中，包括基石投資者陣容在內的細節可能還會有變。高瓴、摩根資產管理、淡馬錫和思柏投資不予置評。貝萊德、Wellington和雲鋒基金未回覆透過郵件傳送的置評請求。中際旭創也未作出回應。"
+    },
+    {
+      "id": "mkt:019f83cf-0c29-7aab-8e22-da3c464368f4",
+      "time": "2026-07-21 16:33:32",
+      "tags": [
+        "MKT News",
+        "TSM.N",
+        "Impact bullish"
+      ],
+      "text": "TSMC (TSM.N) up 3.4% in U.S. premarket trade."
+    },
+    {
+      "id": "mkt:019f83ce-f144-7aab-8e22-d70b4a534504",
+      "time": "2026-07-21 16:33:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Onshore yuan closed at 6.7668 per dollar at 16:30 on July 21, up 2 pips (0.0002) from the previous trading day."
+    },
+    {
+      "id": "mkt:019f83ce-611a-7aab-8e22-cd469004a257",
+      "time": "2026-07-21 16:32:48",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "TSM.O",
+        "Impact bullish"
+      ],
+      "text": "【TSMC reportedly to raise wafer-foundry prices from 2027; baseline 5–10%, HPC surcharge 10–15%】Nikkei Asia, citing multiple people, reports TSMC (TSM.N) plans to raise wafer-foundry prices for advanced and mature nodes effective early 2027 to offset rising materials, equipment and overseas fab construction costs. Baseline increases of 5–10% are planned for 7nm and more advanced nodes, which contributed about 77% of revenue in the Apr–Jun quarter; incremental high-performance computing (HPC) orders beyond customers’ prior forecasts would carry an additional 10–15% surcharge, meaning some advanced-node orders could see total hikes above 10%. Mature processes (including 12nm, 16nm, 28nm and other legacy nodes), which made up roughly 23% of last quarter revenue, are slated for increases up to 10%, with variation by product. Sources say customer talks began around June and were finalized in July."
+    },
+    {
+      "id": "4999773",
+      "time": "2026-07-21 16:32:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【仙鶴股份：“鶴21轉債”將於7月27日摘牌 提醒持有人限期轉股】仙鶴股份公告稱，公司股票自2026年6月3日至6月24日滿足“鶴21轉債”贖回條件。贖回登記日為7月24日，贖回價格101.2427元/張，贖回款發放日為7月27日。“鶴21轉債”已於7月21日收市後停止交易，7月24日為最後轉股日，7月27日起將在上海證券交易所摘牌。投資者若未及時轉股，可能面臨較大投資損失。"
+    },
     {
       "id": "mkt:019f83cd-be39-7aab-8e22-c6c37338fe32",
       "time": "2026-07-21 16:32:06",
