@@ -1,7 +1,112 @@
 {
   "date": "2026-07-21",
-  "count": 1078,
+  "count": 1086,
   "items": [
+    {
+      "id": "mkt:019f8296-489c-7aab-8e1a-910c6ebb6b34",
+      "time": "2026-07-21 10:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "688981.SH",
+        "Impact bullish",
+        "981.HK"
+      ],
+      "text": "Semiconductor Manufacturing International Corp (SMIC) A- and H-shares rose more than 5%."
+    },
+    {
+      "id": "mkt:019f8296-4810-7aab-8e1a-8f60ea77f45e",
+      "time": "2026-07-21 10:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HKEX to advance listing reforms, allowing confidential submission of listing applications and lowering market-cap thresholds, South China Morning Post reports."
+    },
+    {
+      "id": "mkt:019f8295-8fd3-7aab-8e1a-83031484c49a",
+      "time": "2026-07-21 10:51:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【China to allocate 22 bln yuan via ultra‑long special treasury bonds to back scrapping and replacement of old commercial trucks】On July 21, Ministry of Transport official Cai Tuanjie said China will continue its 2026 scrapping-and-replacement campaign for old commercial trucks and will allocate 22 bln yuan of ultra‑long special treasury bonds to support the program, prioritizing replacement with new‑energy heavy trucks and using the \"Two New\" policy to boost new‑energy heavy truck demand."
+    },
+    {
+      "id": "mkt:019f8295-5d88-7aab-8e1a-7c087c81073f",
+      "time": "2026-07-21 10:50:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "STAR 50 Index rose more than 4% as the semiconductor sector rebounded; constituents Huahong Hongli gained over 13% and Zhongke Feice rose more than 11%."
+    },
+    {
+      "id": "mkt:019f8294-9c14-7aab-8e1a-76a36b491a1c",
+      "time": "2026-07-21 10:50:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【China to build 3,000+ charging and battery-swap stations for electric heavy trucks】July 21 — China's Ministry of Transport safety director and head of the Transport Services Department Cai Tuanjie told a State Council Information Office briefing the ministry will build more than 3,000 charging and battery-swap stations for electric heavy trucks. Deployment will target busy freight stretches on national expressways and trunk national/provincial roads, major city clusters (Beijing‑Tianjin‑Hebei, Yangtze River Delta, Guangdong‑Hong Kong‑Macao Greater Bay Area, Chengdu‑Chongqing) and key nodes including freight hubs, ports, mines, factories and industrial parks, and will promote linking supply points into continuous corridor networks."
+    },
+    {
+      "id": "mkt:019f8294-554e-7aab-8e1a-6b2966c0af87",
+      "time": "2026-07-21 10:49:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Huatai-PineBridge's China-Korea semiconductor ETF rose more than 6%, with turnover exceeding 11.4 bln yuan."
+    },
+    {
+      "id": "mkt:019f8293-8539-7aab-8e1a-60d23731587b",
+      "time": "2026-07-21 10:48:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "ChiNext index rebounded, rising more than 2% after earlier intraday losses exceeding 2%; storage chips, semiconductors, MLCC and PCB sectors recovered."
+    },
+    {
+      "id": "mkt:019f8293-7df9-7aab-8e1a-59dfecf64a1b",
+      "time": "2026-07-21 10:48:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China CSI 500 index futures (IC) main contract jumped 4.00% intraday, now at 7,501.4; China CSI 300 index futures (IF) main contract rose 2.02% intraday, touching 4,600."
+    },
     {
       "id": "mkt:019f8291-13fa-7aab-8e1a-56e35bbc7640",
       "time": "2026-07-21 10:46:13",

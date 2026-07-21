@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-21 10:49:12",
-  "count": 19169,
+  "updated": "2026-07-21 10:53:09",
+  "count": 19171,
   "items": [
+    {
+      "id": "mkt:019f8296-489c-7aab-8e1a-910c6ebb6b34",
+      "time": "2026-07-21 10:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "688981.SH",
+        "Impact bullish",
+        "981.HK"
+      ],
+      "text": "Semiconductor Manufacturing International Corp (SMIC) A- and H-shares rose more than 5%."
+    },
+    {
+      "id": "mkt:019f8296-4810-7aab-8e1a-8f60ea77f45e",
+      "time": "2026-07-21 10:51:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "HKEX to advance listing reforms, allowing confidential submission of listing applications and lowering market-cap thresholds, South China Morning Post reports."
+    },
+    {
+      "id": "mkt:019f8295-8fd3-7aab-8e1a-83031484c49a",
+      "time": "2026-07-21 10:51:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "CNH",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【China to allocate 22 bln yuan via ultra‑long special treasury bonds to back scrapping and replacement of old commercial trucks】On July 21, Ministry of Transport official Cai Tuanjie said China will continue its 2026 scrapping-and-replacement campaign for old commercial trucks and will allocate 22 bln yuan of ultra‑long special treasury bonds to support the program, prioritizing replacement with new‑energy heavy trucks and using the \"Two New\" policy to boost new‑energy heavy truck demand."
+    },
+    {
+      "id": "mkt:019f8295-5d88-7aab-8e1a-7c087c81073f",
+      "time": "2026-07-21 10:50:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "STAR 50 Index rose more than 4% as the semiconductor sector rebounded; constituents Huahong Hongli gained over 13% and Zhongke Feice rose more than 11%."
+    },
+    {
+      "id": "mkt:019f8294-9c14-7aab-8e1a-76a36b491a1c",
+      "time": "2026-07-21 10:50:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Copper",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【China to build 3,000+ charging and battery-swap stations for electric heavy trucks】July 21 — China's Ministry of Transport safety director and head of the Transport Services Department Cai Tuanjie told a State Council Information Office briefing the ministry will build more than 3,000 charging and battery-swap stations for electric heavy trucks. Deployment will target busy freight stretches on national expressways and trunk national/provincial roads, major city clusters (Beijing‑Tianjin‑Hebei, Yangtze River Delta, Guangdong‑Hong Kong‑Macao Greater Bay Area, Chengdu‑Chongqing) and key nodes including freight hubs, ports, mines, factories and industrial parks, and will promote linking supply points into continuous corridor networks."
+    },
+    {
+      "id": "mkt:019f8294-554e-7aab-8e1a-6b2966c0af87",
+      "time": "2026-07-21 10:49:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Huatai-PineBridge's China-Korea semiconductor ETF rose more than 6%, with turnover exceeding 11.4 bln yuan."
+    },
+    {
+      "id": "mkt:019f8293-8539-7aab-8e1a-60d23731587b",
+      "time": "2026-07-21 10:48:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "ChiNext index rebounded, rising more than 2% after earlier intraday losses exceeding 2%; storage chips, semiconductors, MLCC and PCB sectors recovered."
+    },
+    {
+      "id": "mkt:019f8293-7df9-7aab-8e1a-59dfecf64a1b",
+      "time": "2026-07-21 10:48:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China CSI 500 index futures (IC) main contract jumped 4.00% intraday, now at 7,501.4; China CSI 300 index futures (IF) main contract rose 2.02% intraday, touching 4,600."
+    },
     {
       "id": "mkt:019f8291-13fa-7aab-8e1a-56e35bbc7640",
       "time": "2026-07-21 10:46:13",
@@ -176166,61 +176271,6 @@
         "國際"
       ],
       "text": "泰國曼谷市政府官方通報稱，曼谷酒吧火災死亡人數升至30人。（央視新聞）"
-    },
-    {
-      "id": "4985843",
-      "time": "2026-07-14 10:51:51",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【啟境汽車增資至30.2億】天眼查App顯示，近日，啟境汽車關聯公司啟境智慧汽車科技（廣州）有限公司發生工商變更，新增泓途一號企業管理（廣州）合夥企業（有限合夥）、嘉興博原億成股權投資合夥企業（有限合夥）等為股東。同時，註冊資本由21億人民幣增至約30.2億人民幣。該公司成立於2025年3月，法定代表人為閤先慶，經營範圍包括汽車銷售，汽車零部件及配件製造，智慧車載裝置製造，新能源汽車電附件銷售，工程和技術研究和試驗發展等，現由廣州汽車集團股份有限公司、廣汽埃安新能源汽車股份有限公司及上述新增股東共同持股。"
-    },
-    {
-      "id": "te:economy:566595",
-      "time": "2026-07-14 10:51:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Imports YoY",
-        "Importance 1"
-      ],
-      "text": "China Imports Rise the Most in 5 Years — China's imports surged 36.0% year-on-year to a new record USD 286.76 billion in June 2026, accelerating from a 27.4% increase in the prior month and surpassing market forecasts of 24%. It was the 13th consecutive month of growth and the fastest pace since June 2021, driven largely by robust purchases of semiconductors and other technology components rather than a broad-based rebound in domestic consumption. Easing Middle East tensions helped stabilise energy prices, while improving supply chains further reduced input cost pressures and supported import demand. China's coal imports jumped 29.0% from a year earlier to 42.78 million metric tons in June, bringing first-half imports up 1.7% from a year earlier. Purchases increased from major trading partners, including Japan (33.9%), South Korea (85.0%), Taiwan (41.1%), the EU (9.2%), the ASEAN countries (26.8%), the U.S. (25.9%), and Australia (65.8%). Over the first six months of the year, purchases jumped 26.6% to USD 1,549.38 billion."
-    },
-    {
-      "id": "4985842",
-      "time": "2026-07-14 10:51:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "創業板指衝高回落翻綠，此前一度漲近2%，滬指跌0.45%，深成指跌0.26%，軍工、半導體、遊戲、算力租賃等方向跌幅居前，滬深京三市下跌個股超3000只。"
-    },
-    {
-      "id": "4985841",
-      "time": "2026-07-14 10:51:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌1%，現報7941.20點。"
-    },
-    {
-      "id": "4985840",
-      "time": "2026-07-14 10:49:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【階躍星辰進軍終端，推出首款大模型原生智慧手機】階躍星辰宣佈推出大模型原生AI終端品牌STEPX、新一代智慧體作業系統Agent OS，以及首款大模型原生智慧體手機STEPX Neo。該手機搭載智慧體原生系統Step AOS，內建階躍智慧體Amoo，旨在打造真正的“模型、軟體、硬體”三位一體AI新物種。階躍星辰在會上宣佈，STEPX與攜程、支付寶、滴滴、美團、WPS、剪映等生態夥伴達成AI深度合作。"
-    },
-    {
-      "id": "4985839",
-      "time": "2026-07-14 10:49:19",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【AI伺服器概念震盪下挫 中國長城封跌停】AI伺服器概念震盪下挫，中國長城封跌停，華豐科技、卓易資訊跌超14%，華勤技術逼近跌停，紫光股份、神州數碼、中科曙光、共進股份等跌幅靠前。"
     }
   ]
 }
