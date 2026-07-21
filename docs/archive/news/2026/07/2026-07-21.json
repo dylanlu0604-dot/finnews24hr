@@ -1,7 +1,166 @@
 {
   "date": "2026-07-21",
-  "count": 683,
+  "count": 698,
   "items": [
+    {
+      "id": "mkt:019f825c-633f-7aab-8e18-d66b1a1fee56",
+      "time": "2026-07-21 09:48:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Texas heatwave threatens record power demand】A severe heatwave in Texas risks testing the state's power system. ERCOT's preliminary estimate shows Monday evening demand approaching the 85.508 GW record set in August 2023, and the grid operator projects evening peak loads will rise further on Tuesday and Wednesday. Cooling demand surged Monday, with system supply needs topping 114 GW. Millions from Dallas to Houston are under heat warnings, with temperatures above 100°F and the NWS forecasting humidity from a nearby tropical storm could push some areas as high as 112°F."
+    },
+    {
+      "id": "mkt:019f825b-af7e-7aab-8e18-cea5668dbe87",
+      "time": "2026-07-21 09:47:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "A-share brokerage stocks rallied after five leading insurers expressed support for capital-market development. Great Wall Securities rose over 4%; Hualin Securities, Huaxi Securities, Jinlong Shares, Guoyuan Securities and Guojin Securities also advanced. The insurers—PICC, CPIC, Ping An, New China Life and China Life—issued the supportive statements."
+    },
+    {
+      "id": "4998790",
+      "time": "2026-07-21 09:47:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電池板塊震盪拉昇 國軒高科、鵬輝能源漲超6%】電池板塊震盪拉昇，國軒高科、鵬輝能源漲超6%，杉杉股份、璞泰來、欣旺達等股跟漲。"
+    },
+    {
+      "id": "mkt:019f8259-a16c-7aab-8e18-c105cda74bb3",
+      "time": "2026-07-21 09:45:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "FTSE China A50 index futures rose over 1%."
+    },
+    {
+      "id": "4998789",
+      "time": "2026-07-21 09:45:29",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "創新藥概念股震盪調整、美諾華、靈康藥業、亞泰集團、塞力醫療跌停，萬邦醫藥跌超10%，普蕊斯、泓博醫藥、南華生物、聯環藥業跌幅居前。"
+    },
+    {
+      "id": "4998788",
+      "time": "2026-07-21 09:45:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【腦虎科技“三全”腦機介面系統進入國家藥監局創新醫療器械特別審查程式】腦虎科技今日宣佈，其自主研發的“植入式腦機介面手部運動功能代償系統”（即“全植入、全無線、全功能”腦機介面系統，簡稱“三全”系統）透過公示，正式進入國家藥品監督管理局醫療器械技術審評中心（CMDE）的創新醫療器械特別審查程式。這是國內首個進入該“綠色通道”的硬膜下植入式柔性腦機介面產品，標誌著我國在高階植入式醫療器械創新領域邁出重要一步。"
+    },
+    {
+      "id": "mkt:019f8259-42c6-7aab-8e18-bca4ae4a01f3",
+      "time": "2026-07-21 09:45:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it attacked US military facilities at Kuwait's Ahmad al-Jaber base."
+    },
+    {
+      "id": "te:markets:568352",
+      "time": "2026-07-21 09:45:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Zijin Mining Stock Price Hits 4-week High — Zijin Mining shares increased to 29.60 CNY, the highest since June 2026. Over the past 4 weeks, Zijin Mining Group lost 4.27%, and in the last 12 months, it increased 47.25%."
+    },
+    {
+      "id": "4998787",
+      "time": "2026-07-21 09:45:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【睿郡資管自購旗下私募基金1億元 1億以上自購已3家】今日，百億私募上海睿郡資管宣佈，基於對中國資本市場長期穩健發展的看好，以及對公司主動管理投研實力的信心，計劃在本月內，使用自有資金人民幣1億元申購公司旗下私募證券投資基金。本次自有資金申購將嚴格遵守各項監管規則和內部合規要求，規範操作。公司將堅守價值投資、長期投資，創造穩健可持續的投資回報，與全體基金持有人風險共擔、收益共享。不完全統計顯示，7月以來已有11傢俬募宣佈自購，睿郡資管也成為靈均（2億）、平方和（1億）後的又一家自購規模1億以上的私募機構。 (財聯社)"
+    },
+    {
+      "id": "mkt:019f8258-99b3-7aab-8e18-b47e9415eb0e",
+      "time": "2026-07-21 09:44:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01133.HK",
+        "Impact bullish",
+        "02338.HK",
+        "02208.HK"
+      ],
+      "text": "Hong Kong-listed power equipment stocks strengthened for consecutive sessions. Harbin Electric (01133.HK) rose more than 13%; Weichai Power (02338.HK), Dongfang Electric (01072.HK), Goldwind (02208.HK) and Weisheng Holdings (03393.HK) also advanced."
+    },
+    {
+      "id": "4998786",
+      "time": "2026-07-21 09:44:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量630億元。"
+    },
+    {
+      "id": "4998785",
+      "time": "2026-07-21 09:44:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，其已對美國位於科威特艾哈邁德·賈貝爾基地的軍事設施發動了打擊。"
+    },
+    {
+      "id": "4998784",
+      "time": "2026-07-21 09:43:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【網際網路板塊短線走強 證通電子等股漲停】網際網路板塊短線走強，證通電子、美利雲、智度股份漲停，恆拓開源、網宿科技、資料港等股跟漲。"
+    },
+    {
+      "id": "4998783",
+      "time": "2026-07-21 09:43:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【石油天然氣板塊盤初下跌 泰山石油跌超8%】石油天然氣板塊盤初下跌，泰山石油跌超8%，藍焰控股、首華燃氣、中國石油等股跌幅居前。"
+    },
+    {
+      "id": "mkt:019f8257-90c5-7aab-8e18-ab1641e67f6e",
+      "time": "2026-07-21 09:43:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "CSI300",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "China A-share nonferrous metals sector rallied; Dongfang Zirconium hit the daily trading limit, HUAYOU NICKEL BRAND rose over 7%; Hanrui Cobalt, Tengyuan Cobalt, Ganfeng Lithium, Western Mining, Xinlaifu and Jinchengxin also advanced."
+    },
     {
       "id": "4998782",
       "time": "2026-07-21 09:43:10",
