@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-21 08:20:44",
-  "count": 18994,
+  "updated": "2026-07-21 08:27:09",
+  "count": 18984,
   "items": [
+    {
+      "id": "4998644",
+      "time": "2026-07-21 08:26:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【香港銀行上日向金管局貼現窗借取約4億港元隔夜流動性】據香港金管局和LSEG報價頁面資料顯示：香港銀行於週一（20日）向金管局貼現窗借取4.17億港元港元隔夜流動性，週二（21日）回籠。銀行體系總結餘回落至540.56億港元。香港銀行同業隔夜拆息週一稍跌至2.47107%。"
+    },
+    {
+      "id": "4998643",
+      "time": "2026-07-21 08:25:17",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "【凱投宏觀：紐西蘭基本通脹依然受控，給予紐西蘭央行一些喘息空間】凱投宏觀的Abhijit Surya在評論中表示，紐西蘭依然受控的基本通脹給予紐西蘭央行一些喘息空間。這位亞太區高階經濟學家表示，早些時候公佈的資料顯示，“上個季度價格壓力的上升並不是特別廣泛，核心通脹指標依然表現良好“。Surya說，總體而言，通脹資料“不會讓紐西蘭央行產生像金融市場預期的那樣連續加息的緊迫感“。凱投宏觀的基本假設依然是紐西蘭央行將等到10月份才會加息。此外，凱投宏觀依然認為紐西蘭央行的緊縮週期將相對溫和，官方隔夜拆款利率將在2027年中期達到3.25%的峰值。"
+    },
+    {
+      "id": "te:markets:568336",
+      "time": "2026-07-21 08:25:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Rises After Hot Inflation Data — The New Zealand dollar rose to $0.585, an over six-week high, after higher-than-expected inflation data reinforced expectations of further monetary tightening by the Reserve Bank. Annual inflation accelerated to 4.1% in the second quarter from 3.1% in the previous quarter, exceeding both market forecasts of 4.0% and the RBNZ's latest projection of 3.9%. It also marked the highest level since the fourth quarter of 2023 and was well above the central bank's 1–3% target range. The hot print cemented bets that the RBNZ will deliver another rate hike in September, with markets also pricing in additional increases in either October or December, followed by another move in February next year. The prospect of higher domestic interest rates has continued to underpin the kiwi, helping it outperform many of its peers despite a broader deterioration in global risk sentiment caused by escalating tensions in the Middle East."
+    },
+    {
+      "id": "4998642",
+      "time": "2026-07-21 08:24:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "雪佛龍（CHEVRON）因熱帶風暴“伯莎”關閉Petronius石油平臺並疏散人員，已從Tubular Bells和Blind Faith平臺撤離非必要人員。"
+    },
+    {
+      "id": "4998641",
+      "time": "2026-07-21 08:23:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月20日ETF資金淨流入榜單出爐】據同花順iFinD資料顯示，7月20日ETF資金淨流入榜單排名前5依舊為寬基ETF，其中華夏上證科創板50成份ETF（588000）淨流入137.01億元，華泰柏瑞滬深300ETF（510300）淨流入125.22億元，易方達創業板ETF（159915）淨流入93.97億元。"
+    },
+    {
+      "id": "mkt:019f820d-face-7aab-8e16-af124f1e7d5e",
+      "time": "2026-07-21 08:23:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "CVX.O",
+        "Impact bearish"
+      ],
+      "text": "Chevron shut its Petronius facility and evacuated personnel due to Tropical Storm Bertha."
+    },
+    {
+      "id": "4998640",
+      "time": "2026-07-21 08:22:38",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【全球股市走高，澳洲養老金年度收益率達9.5%】儘管市場仍擔憂中東衝突與高通脹持續擾動，但全球股票大漲，讓規模達4.4萬億澳元（摺合3.1萬億美元）的澳大利亞養老金行業再度收穫亮眼年度業績。研究機構尚特韋斯特（ChantWest）測算資料顯示，截至6月30日財年，平衡型成長養老金基金中位收益率為9.5%。收益主要由海外股票貢獻，幾乎所有大類資產均錄得正回報。尚特韋斯特養老金投資主管馬諾・莫漢庫馬爾（Mano Mohankumar）在宣告中表示：“受市場持續追捧人工智慧板塊、企業盈利表現強勁支撐，對沖匯率後的海外股票漲幅高達25.5%。即便澳元兌多數主要貨幣走強，未做匯率對沖的全球股票依舊實現17%的收益。”"
+    },
     {
       "id": "4998639",
       "time": "2026-07-21 08:19:57",
@@ -174467,171 +174534,6 @@
         "國際"
       ],
       "text": "日本經濟財政大臣城內實：關注中東局勢對日本物價和經濟的影響。"
-    },
-    {
-      "id": "mkt:019f5e05-2f8b-7aab-8d66-da721bc5a8e1",
-      "time": "2026-07-14 08:27:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【BANK OF KOREA minutes signal possible July rate-hike decision】BANK OF KOREA June minutes flagged rate-hike risks and repeated language used ahead of prior tightening, suggesting a possible policy move in July while aiming to limit market disruption. The minutes stressed the side-effects of higher borrowing costs, echoing June 2022 wording that questioned whether corporate credit demand would remain resilient; roughly three weeks after that meeting the bank implemented a historic 50bp hike. The pattern offers fresh clues ahead of Thursday’s rate decision. Committee members warned rising borrowing costs will exacerbate distress in vulnerable sectors and said fiscal support may be needed while urging banks to tighten loan screening and firms to pursue restructuring."
-    },
-    {
-      "id": "mkt:019f5e05-2625-7aab-8d66-d4424732bae5",
-      "time": "2026-07-14 08:27:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "FTSE100"
-      ],
-      "text": "European equity futures slipped: Euro Stoxx 50 futures down 0.9%, DAX futures down 0.8%, FTSE 100 futures down 0.1%."
-    },
-    {
-      "id": "4985561",
-      "time": "2026-07-14 08:26:15",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克50指數期貨下跌0.9%，德國DAX指數期貨下跌0.8%，富時指數期貨下跌0.1%。"
-    },
-    {
-      "id": "4985560",
-      "time": "2026-07-14 08:25:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寬基ETF週一獲資金流入 華泰柏瑞滬深300ETF淨流入去年4月來最大】資料顯示，週一華泰柏瑞旗下的滬深300ETF獲資金流入逾55億元人民幣，為去年4月8日以來最大單日淨流入。\n滬深300ETF華夏、滬深300ETF易方達週一也獲資金流入。\n科創50ETF華夏週一獲淨流入近20億元人民幣，為連續三日的資金流入。"
-    },
-    {
-      "id": "mkt:019f5e03-fca5-7aab-8d66-cc59bf86c13c",
-      "time": "2026-07-14 08:25:47",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "【Iranian media report missile strike on U.S. Fifth Fleet headquarters in Bahrain】Iranian media reported on the 14th that Iran launched a missile attack on the U.S. Navy Fifth Fleet headquarters in Bahrain."
-    },
-    {
-      "id": "4985559",
-      "time": "2026-07-14 08:25:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體14日報道，位於巴林的美國海軍第五艦隊司令部遭到伊朗導彈襲擊。（新華社）"
-    },
-    {
-      "id": "4985558",
-      "time": "2026-07-14 08:25:06",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲1.5個基點，至2.800%。"
-    },
-    {
-      "id": "4985557",
-      "time": "2026-07-14 08:24:28",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：基本藥物目錄再擴容 創新藥物破冰新放量】 中信證券研報稱，《2026年版國家基本藥物目錄》於7月9日正式釋出，將於9月1日起實施。本次目錄總品種數擴至794種，新增116種。本次調整最大的亮點是首次打破基本藥物排斥高價創新療法的慣例，將國產1類創新藥、GLP-1、單抗及靶向抗腫瘤藥等納入目錄，釋放了強烈的支援創新藥發展的政策訊號，進一步拓寬了創新藥進入基層和基本用藥體系的渠道，為國內創新藥產業高質量發展提供了明確的政策支撐和市場空間。同時，新版目錄大幅強化了慢病代謝管理和基層用藥的可及性，劑型分類與國際指南及藥典全面接軌。中信證券認為，本次新版基藥目錄新增藥物均已屬於醫保藥品，隨著基藥與醫保的深度協同聯動，有望極大加速創新藥的基層落地，醫保控費與創新回報形成良性迴圈。"
-    },
-    {
-      "id": "4985556",
-      "time": "2026-07-14 08:24:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "據巴林國王媒體顧問發訊息稱，巴林遭伊朗空襲，防空力量正在攔截並摧毀敵方空中目標。  （CCTV國際時訊）"
-    },
-    {
-      "id": "4985555",
-      "time": "2026-07-14 08:23:51",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率下跌0.5個基點，至1.990%。"
-    },
-    {
-      "id": "4985554",
-      "time": "2026-07-14 08:23:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受颱風“巴威”影響 大連41家A級景區臨時關閉 】 受今年第9號颱風“巴威”影響，7月13日遼寧大連莊河市、瓦房店市、長海縣已啟動防汛三級應急響應，其他地區啟動防汛四級應急響應，大連沿岸海域啟動海浪藍色警報及風暴潮橙色警報。7月14日，大連全市41家涉山、涉水、涉海的A級景區將暫停營業一天（後續視天氣情況動態調整）。請市民、遊客及時調整出行計劃，避免前往相關區域，也不要前往山區、河谷、濱海、臨水地區遊玩。"
-    },
-    {
-      "id": "4985553",
-      "time": "2026-07-14 08:23:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍空襲伊朗科納拉克，當地多處傳來劇烈爆炸聲。"
-    },
-    {
-      "id": "mkt:019f5e00-b018-7aab-8d66-c13a82536b20",
-      "time": "2026-07-14 08:22:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "USDJPY"
-      ],
-      "text": "US 10-year Treasury yield rose 2.0 bps to 4.630%. Japan 30-year government bond yield fell 1.5 bps to 3.890%."
-    },
-    {
-      "id": "4985552",
-      "time": "2026-07-14 08:22:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧釋出暴雨、強對流天氣紅色預警】遼寧省氣象臺7月14日6時繼續釋出暴雨、強對流天氣紅色預警：\n\n7月12日20時至14日6時，瀋陽南部、大連北部、鞍山中北部、撫順、本溪西部、錦州、營口北部、遼陽、鐵嶺中南部、盤錦、葫蘆島地區出現暴雨到大暴雨，其中瀋陽、鞍山、撫順、遼陽、鐵嶺地區區域性出現特大暴雨，其他地區出現小雨到中雨，區域性大雨。\n\n預計14日6時至14日20時，鞍山中南部、撫順、本溪、丹東、營口南部、遼陽南部地區和沈撫示範區及黃海北部有暴雨（70～90毫米），個別鄉鎮（街道）大暴雨（120～200毫米），瀋陽南部、大連、鞍山北部、營口北部、遼陽北部、鐵嶺南部、盤錦地區有中雨到大雨（20～40毫米），區域性暴雨（60～80毫米）；上述地區區域性伴有短時強降水、雷暴大風等強對流天氣，最大小時降雨量40～60毫米，區域性60～100毫米，雷雨時最大風力8～10級。\n\n過程總降雨量（12日20時到14日20時），瀋陽中南部、鞍山中北部、撫順、本溪西部、遼陽、鐵嶺南部、盤錦地區和沈撫示範區為150～280毫米，區域性300～400毫米，個別鄉鎮（街道）可達520毫米，瀋陽北部、大連中北部、鞍山南部、本溪東部、丹東、錦州、營口、鐵嶺中部、葫蘆島中南部地區為50～150毫米，區域性200～250毫米，其他大部地區為25～50毫米。請注意防範。"
-    },
-    {
-      "id": "mkt:019f5e00-0ccb-7aab-8d66-b952718c35ee",
-      "time": "2026-07-14 08:21:29",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【WTI tops $80/bbl; Brent above $85/bbl】WTI crude rose 2.9% intraday, breaching $80/bbl for the first time in a month. Brent crude climbed above $85/bbl, marking the highest level since June 12."
-    },
-    {
-      "id": "4985551",
-      "time": "2026-07-14 08:21:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國10年期國債收益率上漲2.0個基點，報4.630%。"
-    },
-    {
-      "id": "te:economy:566537",
-      "time": "2026-07-14 08:21:17",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "New Zealand",
-        "Calendar",
-        "Importance 1"
-      ],
-      "text": "New Zealand Q2 Business Confidence Improves: NZIER — New Zealand’s business confidence improved in the second quarter of 2026, with a net 12% of firms expecting the economy to improve over the next 12 months, up from 4% in the prior quarter, according to the New Zealand Institute of Economic Research’s Quarterly Survey of Business Opinion. The rebound was supported by lower fuel prices during the survey period following a tentative US-Iran peace agreement, though renewed Middle East tensions are expected to weigh on sentiment. Firms remained cautious, with a net 10% cutting staff in the quarter, while 1% and 3% expect to reduce employment and investment, respectively, in the current quarter. A net 1% reported improved trading activity, while 10% expect gains next quarter. Cost pressures also intensified, with a net 54% reporting higher costs and expecting further increases, while the same share plans to raise prices, signaling persistent inflation pressures."
     }
   ]
 }
