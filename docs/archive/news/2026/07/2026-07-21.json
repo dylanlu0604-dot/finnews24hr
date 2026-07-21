@@ -1,7 +1,140 @@
 {
   "date": "2026-07-21",
-  "count": 3125,
+  "count": 3139,
   "items": [
+    {
+      "id": "mkt:019f850d-f737-7aab-8e2b-fa777b852157",
+      "time": "2026-07-21 22:21:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's interior minister said Iran appreciates Pakistan's efforts to sign a memorandum of understanding."
+    },
+    {
+      "id": "5000595",
+      "time": "2026-07-21 22:21:27",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：OCADO集團將為一家歐洲零售商建造新的自動化客戶體驗中心。"
+    },
+    {
+      "id": "mkt:019f850c-76ca-7aab-8e2b-f16cadab4509",
+      "time": "2026-07-21 22:20:14",
+      "tags": [
+        "MKT News",
+        "LLY.N"
+      ],
+      "text": "Eli Lilly (LLY.N) says its advertising for its weight-loss drug is truthful and transparent."
+    },
+    {
+      "id": "mkt:019f850b-d24d-7aab-8e2b-efe8561507b0",
+      "time": "2026-07-21 22:19:32",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bearish",
+        "NVO.N"
+      ],
+      "text": "Eli Lilly (LLY.N) said it will \"actively\" respond to a lawsuit filed by Novo Nordisk (NVO.N)."
+    },
+    {
+      "id": "mkt:019f850b-c2fb-7aab-8e2b-e069e5e2aa9d",
+      "time": "2026-07-21 22:19:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China foreign minister Wang Yi meets ASEAN secretary-general in Manila】China foreign minister Wang Yi met ASEAN secretary-general Kao Kim Hourn in Manila. Wang said the South China Sea should not be an obstacle to China‑ASEAN relations, accused elements within the Philippine military and police of deliberate provocations serving external powers’ interests that undermine China‑Philippines rapprochement and regional stability, and urged heightened vigilance. He said China will work with ASEAN to remove interference, accelerate negotiations on a South China Sea Code of Conduct, promote a peace-and-stability narrative and retain the initiative on South China Sea issues."
+    },
+    {
+      "id": "5000594",
+      "time": "2026-07-21 22:19:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "禮來公司稱其廣告“真實”且“透明”，將“全力”應對諾和諾德的訴訟。"
+    },
+    {
+      "id": "5000593",
+      "time": "2026-07-21 22:19:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國零售額（不含汽車）五月環比下降0.1%。"
+    },
+    {
+      "id": "5000592",
+      "time": "2026-07-21 22:18:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：洛克希德·馬丁公司與維納斯航空航天公司合作。"
+    },
+    {
+      "id": "mkt:019f850a-c70c-7aab-8e2b-de07a4cb9c60",
+      "time": "2026-07-21 22:18:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Joint Maritime Information Centre (JMIC) says commercial shipping transit through the Strait of Hormuz fell to a three-week low."
+    },
+    {
+      "id": "5000591",
+      "time": "2026-07-21 22:18:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【自然資源部：大力推進新一輪找礦突破戰略行動】7月20日，自然資源部召開座談會。會議強調，自然資源系統要強化科技創新引領，肩負起保障國家能源資源安全等重要政治責任，大力推進新一輪找礦突破戰略行動。要切實抓實“三深”科技工程攻關，健全科研協同機制，以高水平基礎研究賦能自然資源新質生產力發展。要築牢自然資源科普陣地，高標準加快推進中國地質博物館新館建設，抓緊研究建立標本匯交機制，夯實中國地質博物館典藏庫，努力將中國地質博物館打造成為中國特色、行業引領的一流博物館，與全國各級地學博物館、自然資源科普基地等科普平臺統籌聯動，在提高全民科學素質方面作出更大作為。要全面加強人才隊伍建設，緊緊圍繞自然資源事業發展需要，著力培養造就更多戰略科學家、科技領軍人才、青年科技人才和高水平創新團隊，不斷增強自然資源事業薪火相傳、接續發展的內生動力。"
+    },
+    {
+      "id": "mkt:019f850a-878e-7aab-8e2b-d008a56c22a3",
+      "time": "2026-07-21 22:18:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Joint Maritime Information Center (JMIC) said a tanker attack in Omani waters has reduced traffic through the Strait of Hormuz."
+    },
+    {
+      "id": "5000590",
+      "time": "2026-07-21 22:18:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "聯合海事資訊中心JMIC：阿曼水域油輪遇襲事件導致霍爾木茲海峽交通減少。"
+    },
+    {
+      "id": "mkt:019f850a-5480-7aab-8e2b-cc81c5d760ea",
+      "time": "2026-07-21 22:17:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【USTR Greer signals Trump administration will take new tariff action soon】USTR Greer said Tuesday the Trump administration expects to take a new round of tariff measures soon. Asked about an FT report that the US could announce measures as early as this week, he said he could not give a specific timeline, noting he must notify Congress and other stakeholders before any announcement, but reiterated that action is expected shortly."
+    },
+    {
+      "id": "mkt:019f850a-3f02-7aab-8e2b-c2bec472c272",
+      "time": "2026-07-21 22:17:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Joint Maritime Information Centre (JMIC) maintains threat level in the Strait of Hormuz at 'severe'."
+    },
     {
       "id": "te:markets:568587",
       "time": "2026-07-21 22:16:45",
