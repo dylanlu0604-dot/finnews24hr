@@ -1,7 +1,35 @@
 {
   "date": "2026-07-22",
-  "count": 221,
+  "count": 224,
   "items": [
+    {
+      "id": "5000845",
+      "time": "2026-07-22 03:58:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家電視臺：過去24小時內美軍發動的襲擊打擊了六個省份的軍事目標，霍爾木茲甘省、錫斯坦-俾路支斯坦省遭受的打擊最為猛烈。"
+    },
+    {
+      "id": "5000844",
+      "time": "2026-07-22 03:57:34",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "高盛私募信貸公司6月末投資組合公允價值182億美元，淨資產92億美元。"
+    },
+    {
+      "id": "mkt:019f863f-ea80-7aab-8e31-51722bc80e03",
+      "time": "2026-07-22 03:56:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Axios reported OpenAI said a security vulnerability at Hugging Face was caused by one of OpenAI's models."
+    },
     {
       "id": "5000843",
       "time": "2026-07-22 03:54:01",
