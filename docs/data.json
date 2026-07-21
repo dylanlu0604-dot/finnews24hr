@@ -1,7 +1,140 @@
 {
-  "updated": "2026-07-21 10:37:14",
-  "count": 19173,
+  "updated": "2026-07-21 10:41:11",
+  "count": 19175,
   "items": [
+    {
+      "id": "mkt:019f828b-c948-7aab-8e1a-2bb08a335f2c",
+      "time": "2026-07-21 10:40:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Survey shows Bank Indonesia likely to raise policy rate】A Wall Street Journal survey of nine economists found six expect Bank Indonesia to raise the 7-day reverse repo rate by 25bp to 6.0% on Wednesday; three expect the rate to be left unchanged. HSBC economists said Bank Indonesia has implemented a series of rate hikes and liquidity measures to support the economy; while those actions have attracted some capital inflows, the rupiah remains under pressure amid rising oil prices, providing rationale for another hike."
+    },
+    {
+      "id": "4999107",
+      "time": "2026-07-21 10:40:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中汽協：1—6月銷量排名前十位的SUV生產企業共銷售513.7萬輛】據中國汽車工業協會統計分析，2026年1—6月，銷量排名前十位的SUV生產企業共銷售513.7萬輛，佔SUV銷售總量的66.7%。在上述十家企業中，與去年同期相比，長安汽車、長城汽車和理想汽車銷量呈不同程度下降，其他企業銷量均呈不同程度增長。"
+    },
+    {
+      "id": "mkt:019f828b-41e8-7aab-8e1a-20344ca93912",
+      "time": "2026-07-21 10:39:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's STAR 50 Index rose over 3%."
+    },
+    {
+      "id": "4999106",
+      "time": "2026-07-21 10:39:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數漲幅擴大至3%】科創50指數漲幅擴大至3%，現報1770.13點。"
+    },
+    {
+      "id": "mkt:019f828a-8b0a-7aab-8e1a-1db2015280e8",
+      "time": "2026-07-21 10:39:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【Kpler: Four commodity vessels transited Strait of Hormuz on Monday, down from seven a day earlier】Shipping data show traffic through the Strait of Hormuz declined at the start of the week after a new round of reciprocal strikes between the US and Iran raised caution. Kpler recorded four commodity vessels on Monday versus seven the previous day, predominantly on routes near Iran. Two vessels transited outbound — one carrying petrochemical cargo, one in ballast — and two transited inbound — an asphalt carrier and a tanker. No VLCCs or LNG carriers were observed passing the strait on Monday."
+    },
+    {
+      "id": "4999105",
+      "time": "2026-07-21 10:39:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國石油集團：推動“數智中國石油”建設邁上新臺階】據中國石油報，7月20日，中國石油集團黨組召開會議，黨組書記、董事長戴厚良主持會議。戴厚良強調，要把握人工智慧發展關鍵視窗期，壓實工作責任，加強工作排程，加力推動“人工智慧+”專項行動。統籌推進資訊化補強、數字化賦能、智慧化發展“三大工程”，按照既定時間節點完成重點任務，著力打造典型應用場景，推動“數智中國石油”建設邁上新臺階。抓好“數智中國石油”科技重大專項落地實施，深化人工智慧賦能科研，支撐引領公司數智化轉型發展。要加強複合型人才培養，深化與高校、科研院所和科技企業合作，集聚推動人工智慧發展合力。"
+    },
+    {
+      "id": "4999104",
+      "time": "2026-07-21 10:38:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【當升科技：控股子公司在芬蘭簽署5.144億歐元綠色專案融資安排】當升科技訊息，7月8日，當升科技控股子公司芬蘭當升與國際銀團在芬蘭簽署總額5.144億歐元的綠色專案融資安排，用於支援其位於芬蘭南部科特卡的正極材料生產專案建設。專案一期規劃產能為年產6萬噸正極材料。專案預計將向包括LGES、AESC、SK On等在內的電池製造企業供貨。"
+    },
+    {
+      "id": "4999103",
+      "time": "2026-07-21 10:38:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝萊德：將對ECOPRO CO的持股提高至5.01%。"
+    },
+    {
+      "id": "4999102",
+      "time": "2026-07-21 10:38:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱收到斡旋方緩和局勢提議】7月20日，伊朗外交部發言人巴加埃在新聞釋出會上表示，伊朗將不遺餘力地制止美國的罪行，他還表示，伊朗外交部已經收到斡旋方提出的緩和緊張局勢的提議。美國有線電視新聞網20日援引知情人士的訊息報道稱，美伊衝突的斡旋方提出了一項為期10天的停火方案，希望透過給局勢降溫來推動雙方重返談判桌。訊息人士稱，停火安排中將包括放寬霍爾木茲海峽相關限制等內容。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f8289-036e-7aab-8e1a-104a36c6b121",
+      "time": "2026-07-21 10:37:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China's STAR 50 index rose more than 2% as the semiconductor sector rebounded; constituent Huahong Hongli gained over 10% and Advanced Micro‑Fabrication Equipment (AMEC) rose more than 8%."
+    },
+    {
+      "id": "mkt:019f8288-b471-7aab-8e1a-0d5cbdeab501",
+      "time": "2026-07-21 10:37:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【FX strategists eye ECB hawkish tilt; Middle East risk strengthens bullish case for euro】COMMERZBANK FX strategist says rising Middle East tensions and higher energy prices make a firm ECB signal of willingness to hike further euro-positive. He expects the ECB to hold this week but to raise rates again in September; if the US‑Iran conflict escalates, explicit ECB readiness to continue hiking after September would be decisive in limiting EUR/USD downside. Mitsubishi UFJ strategists see a very low probability of back‑to‑back ECB hikes this week and note even hawks such as Bundesbank president Joachim Nagel favor a hold; the energy-price rebound supports a +25bp September hike call. Euro‑area rate markets are nearly fully pricing two more ECB hikes by year‑end, pushing short-term rates back toward this year’s highs, while softer US inflation has reduced the passthrough from energy to Fed hike odds, shifting yield differentials in the euro’s favor."
+    },
+    {
+      "id": "4999101",
+      "time": "2026-07-21 10:36:47",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4040美元/盎司，日內漲0.86%。"
+    },
+    {
+      "id": "4999100",
+      "time": "2026-07-21 10:36:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【飼料板塊大幅調整，邦基科技跌停】飼料板塊大幅調整，邦基科技跌停，播恩集團、正虹科技、京基智農、百洋股份、驅動力、大禹生物等跟跌。"
+    },
     {
       "id": "mkt:019f8288-4fe8-7aab-8e1a-03789ccd789c",
       "time": "2026-07-21 10:36:39",
@@ -176141,95 +176274,6 @@
         "宏觀"
       ],
       "text": "【海關總署：上半年我國體育用品及裝置出口675.3億元】國務院新聞辦公室今天舉行釋出會，介紹今年以來我國外貿執行情況並回答記者提問。近年來，中國一直保持全球最大體育用品出口國地位，佔全球出口比重超4成。上半年，我國體育用品及裝置出口675.3億元，其中球類出口30.8億元。上半年，我國跑步機等健身康復器械出口267億元，槳板等水上運動器械出口47.7億元。此外，備受年輕群體喜愛的潮流滑板出口增長20.4%。我國體育用品不僅在歐美傳統市場佔比穩定，在拉美、非洲等新興市場也有較好表現。上半年，我國對拉美、非洲出口體育用品分別增長18.9%和8.1%。（央視新聞）"
-    },
-    {
-      "id": "4985824",
-      "time": "2026-07-14 10:40:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將加強對韓元匯率波動的24小時應對機制。"
-    },
-    {
-      "id": "4985823",
-      "time": "2026-07-14 10:40:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國將大幅放寬資本交易外匯規定。"
-    },
-    {
-      "id": "4985822",
-      "time": "2026-07-14 10:39:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊核協議11週年】  今天（7月14日）是伊朗核問題全面協議達成11週年的日子。這份經過多年談判達成的協議，一度被視為透過外交方式解決國際爭端的重要成果。然而11年過去，伊核問題經歷多次轉折卻並未解決。有伊朗專家表示，此次美以伊衝突讓伊朗認識到，美國關心的並不是核問題，而是伊朗作為地區力量的存在，美國真正無法接受的是一個獨立的伊朗成為中東地區其他國家效仿的榜樣。 （ CCTV國際時訊  ）"
-    },
-    {
-      "id": "4985821",
-      "time": "2026-07-14 10:39:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國預計，人工智慧蓬勃發展將推動其2026年經常賬戶順差達到2900億美元。"
-    },
-    {
-      "id": "4985820",
-      "time": "2026-07-14 10:39:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【消費電子零部件及組裝板塊短線走低】消費電子零部件及組裝板塊短線走低，領益智造跌超8%，華勤技術、聯創光電、長盈精密、福立旺等跟跌。"
-    },
-    {
-      "id": "4985819",
-      "time": "2026-07-14 10:39:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "半導體晶片股震盪回落，上海合晶跌超12%，有研矽、盛科通訊、華微電子、華海清科、航宇微、電科晶片等多股跌超7%。"
-    },
-    {
-      "id": "4985818",
-      "time": "2026-07-14 10:39:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【法官稱特朗普試圖利用國稅局訴訟操縱司法系統】據報道，一名聯邦法官週一裁定，美國總統特朗普及其家人此前針對美國國稅局提起一樁100億美元訴訟是出於惡意。這位法官嚴厲斥責了特朗普、其律師團隊以及美國司法部。這起訴訟促使特朗普在今年5月與本屆政府達成了一項非同尋常的協議。根據協議，美國政府著手設立一個規模近18億美元的“反武器化基金”，並承諾停止對特朗普、其家人及他旗下企業的所有未決稅務審計。由於遭到包括共和黨人在內的國會議員抵制，特朗普政府隨後放棄了設立該基金的計劃；議員們擔心，這筆資金可能被用來補償2021年1月6日衝撞國會大廈的特朗普支持者。不過，停止審計的承諾依然有效。法官凱瑟琳.威廉斯(Kathleen Williams)寫道：“這是一種企圖，意在利用法院為一項協議提供某種合法性，該協議旨在賦予與總統有關聯的個人和實體豁免權，並撥出數十億美元的美國納稅人資金，以補償法律中未定義的不平。”在這份長達56頁的裁決書中，威廉斯嚴厲批評了特朗普及其家人提起訴訟的決定以及政府未作回應的做法。但該裁決書似乎並未改變特朗普與其政府之間達成的協議，包括結束對他及其企業未決稅務審計的約定。這些檔案從未在此案中正式提交給法院。"
-    },
-    {
-      "id": "4985817",
-      "time": "2026-07-14 10:38:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國預測2026年通脹率為2.6%，高於此前預測的2.1%。"
-    },
-    {
-      "id": "4985816",
-      "time": "2026-07-14 10:37:58",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部表示，將加快推進人工智慧“大型專案”建設，以提升經濟增長潛力。"
-    },
-    {
-      "id": "4985815",
-      "time": "2026-07-14 10:37:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "光伏加工裝置板塊短線走低，邁為股份、奧特維、拉普拉斯、捷佳偉創、晶盛機電等走低。"
-    },
-    {
-      "id": "4985814",
-      "time": "2026-07-14 10:37:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍中央司令部稱完成對伊朗軍事目標新一輪打擊】美軍中央司令部宣佈，美軍已於美國東部時間當天22時15分完成針對伊朗軍事目標的新一輪打擊行動。美軍中央司令部表示，此次行動持續約5小時，美軍打擊了伊朗境內布什爾、恰巴哈爾、賈斯克、科納拉克、阿布穆薩島和阿巴斯港等地的軍事目標，旨在進一步削弱伊朗襲擊商業航運的能力。根據美方釋出的訊息，美軍此次使用精確制導彈藥，對伊朗沿海防禦系統、導彈和無人機設施以及海上作戰能力實施了打擊。美軍中央司令部還表示，目前有超過5萬名美國軍人部署在中東地區，美軍將繼續保持高度戒備，並隨時做好行動準備。（央視新聞）"
     }
   ]
 }
