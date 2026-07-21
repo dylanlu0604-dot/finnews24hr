@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-21 19:48:58",
-  "count": 18597,
+  "updated": "2026-07-21 19:53:03",
+  "count": 18591,
   "items": [
+    {
+      "id": "te:markets:568561",
+      "time": "2026-07-21 19:52:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Gain Traction — Futures tracking US equity indices were higher on Tuesday with support from the tech sector ahead of key earnings releases. Contracts for the S&P 500 and the Dow were around 0.5% higher, gaining ground after multiple muted sessions, while the Nasdaq 100 rose almost 1%. Alphabet shares were higher premarket ahead of their earnings tomorrow after the bell, serving as the latest signal for AI infrastructure demand by hyperscalers. Chip stocks advanced after strong export data from Taiwan and South Korea maintained the momentum for semiconductor producers. Tesla was also 1% higher ahead of its earnings tomorrow. Meanwhile, other sectors halted recent selling pressure despite further escalation between Iran and the US and its impact on higher energy prices. Treasury yields remained high and drove financial stocks to trim part of their earnings-fueled rally last week. Meanwhile, GM rose 2% after posting their results, while Charles Schwab sank 3% after missing earnings estimates."
+    },
+    {
+      "id": "5000347",
+      "time": "2026-07-21 19:51:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破84美元/桶，日內漲1.84%。"
+    },
+    {
+      "id": "5000346",
+      "time": "2026-07-21 19:51:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "據稱西班牙卡哈馬爾銀行有意收購葡萄牙 CTT 銀行。"
+    },
+    {
+      "id": "5000345",
+      "time": "2026-07-21 19:50:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南普洱墨江縣附近發生5.0級左右地震】中國地震臺網自動測定：7月21日19時42分在雲南普洱市墨江縣附近（北緯23.29度，東經101.67度）發生5.0級左右地震，最終結果以正式速報為準。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8483-5f8e-7aab-8e27-ad348299ff34",
+      "time": "2026-07-21 19:50:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian Foreign Minister Jaishankar will visit Manila from July 22 to 23."
+    },
+    {
+      "id": "5000344",
+      "time": "2026-07-21 19:50:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本手足口病和蜱蟲病持續擴散】日本國立健康危機管理研究機構21日釋出的資料顯示，本月6日至12日，日本全國定點醫療機構共報告手足口病例2萬餘例，今年累計病例突破7萬例；截至12日，日本今年累計報告發熱伴血小板減少綜合徵（俗稱“蜱蟲病”）病例104例，這是該國連續第6年該疾病累計病例超百例。（新華社）"
+    },
+    {
+      "id": "5000343",
+      "time": "2026-07-21 19:49:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全長約315公里 黃百鐵路站改工程全面啟動】7月21日凌晨，南昆鐵路永樂鎮站站場機器轟鳴，隨著該站6號道岔開始拆除並接入一組新的軌排，標誌著西部陸海新通道標誌性工程——新建貴州黃桶至廣西百色鐵路（以下簡稱黃百鐵路）站改工程全面啟動。黃百鐵路全長約315公里，設計時速160公里，是西部陸海新通道標誌性工程，截至目前，黃百鐵路廣西段隧道工程已完成整體進度的70%，橋樑下部工程完成整體進度的93%，路基土石方完成整體進度63%。專案預計將在2028年建成通車，屆時將成為貴州北部地區至廣西北部灣地區的便捷通道，對於加快推進西部陸海新通道建設，促進區域經濟社會協調發展具有重要意義。（央視新聞）"
+    },
     {
       "id": "mkt:019f8481-4f8b-7aab-8e27-a4f118c73598",
       "time": "2026-07-21 19:48:14",
@@ -171278,116 +171339,6 @@
         "觀點"
       ],
       "text": "摩根士丹利將特斯拉目標股價從415美元上調至417美元。"
-    },
-    {
-      "id": "4987618",
-      "time": "2026-07-14 19:53:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍建議船舶離開或停止前往伊朗港口】霍爾木茲海峽附近水域商船上一名海員14日告訴新華社記者，美軍當天稱霍爾木茲海峽南部航道仍然開放，同時建議船舶立即離開或停止前往伊朗港口。這名海員向新華社記者獨家提供的船舶無線電公共頻道錄音顯示，美軍向霍爾木茲海峽附近船舶喊話稱，儘管伊朗表示海峽已經關閉，但美軍“已準備維護航行自由和保障合法商業活動”，“霍爾木茲海峽南部航道仍保持開放”。這名海員提供的另一條錄音顯示，美軍當天還建議中立船舶立即離開伊朗港口，或停止前往伊朗港口。海上封鎖開始後，前往和離開伊朗港口的船舶可能遭到攔截和扣押。不遵守美方封鎖措施的船舶將面臨武力處置。(新華社)"
-    },
-    {
-      "id": "4987617",
-      "time": "2026-07-14 19:52:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【宋汝冰已任海關總署政治部主任】海關總署官網署領導欄目更新顯示，宋汝冰已任海關總署政治部主任、黨委委員。"
-    },
-    {
-      "id": "4987616",
-      "time": "2026-07-14 19:52:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊市場訊息：朗大使館稱，被阿聯酋扣押的 55 名漁民即將遣返回國。"
-    },
-    {
-      "id": "4987615",
-      "time": "2026-07-14 19:51:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列方面訊息：內閣於一月前批准 13 億謝克爾預算，用於在朱迪亞和撒馬利亞地區大規模新建並擴建定居點，相關提案由斯莫特里奇與斯特羅克提出。"
-    },
-    {
-      "id": "4987614",
-      "time": "2026-07-14 19:51:24",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【習近平《在國家科學技術獎勵大會、兩院院士大會、中國科協第十一次全國代表大會上的講話》單行本出版】中共中央總書記、國家主席、中央軍委主席習近平《在國家科學技術獎勵大會、兩院院士大會、中國科協第十一次全國代表大會上的講話》單行本，已由人民出版社出版，即日起在全國新華書店發行。（新華社）"
-    },
-    {
-      "id": "4987613",
-      "time": "2026-07-14 19:51:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【IBM第二財季營收不及預期 客戶縮減支出】IBM公佈的初步季度營收低於分析師預期，執行長Arvind Krishna表示，客戶正在收緊支出。公司股價隨之下跌。IBM週二在宣告中表示，第二財季營收為172億美元。這低於彭博彙總分析師平均預期的179億美元。Krishna表示，為應對行業範圍內的供應短缺，客戶將資本支出轉向伺服器、儲存和記憶體裝置，導致對IBM軟體產品的投入減少。“在這種環境下，我們的團隊必須做到盡善盡美，而這個季度我們卻未能達標，”Krishna表示，“我們的應變和執行速度不夠快，許多大型交易未能按預期時間完成簽約，這是業績遜於預期的主要原因。”紐約股市開盤前，IBM股價下跌逾17%。該股週一收於290.23美元。"
-    },
-    {
-      "id": "4987612",
-      "time": "2026-07-14 19:50:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金牌家居：預計2026年上半年淨虧損1.1億至1.4億元】金牌家居公告，預計2026年半年度歸屬於上市公司股東的淨虧損1.1億至1.4億元，上年同期淨利潤6365.18萬元。報告期，房地產市場下行、終端需求偏弱，營業收入較上年同期有所減少；疊加行業市場價格競爭加劇，導致綜合毛利率有所下降，利潤同比減少。"
-    },
-    {
-      "id": "4987611",
-      "time": "2026-07-14 19:50:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐銀行分析師維持IBM Corp賣出評級，並將目標價從190美元上調至191美元。"
-    },
-    {
-      "id": "mkt:019f6076-9525-7aab-8d7a-d08b249e6997",
-      "time": "2026-07-14 19:50:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oman reiterates commitment to work with parties to restore freedom of navigation in the Strait of Hormuz】On the 14th local time, the Omani Foreign Ministry said it will continue to cooperate with parties in a transparent, neutral manner to promote restoration of freedom of navigation in the Strait of Hormuz and to ensure related arrangements fully comply with international law. The ministry said Oman will continue to fulfil its obligations as a signatory to the United Nations Convention on the Law of the Sea (UNCLOS) and urged relevant parties to respect and resolve related matters in accordance with international law."
-    },
-    {
-      "id": "mkt:019f6075-e155-7aab-8d7a-c8a946d1822d",
-      "time": "2026-07-14 19:49:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources: the Israeli military has submitted to the US a detailed plan for control mechanisms in the test zone."
-    },
-    {
-      "id": "4987610",
-      "time": "2026-07-14 19:49:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【夢百合：2026年上半年淨利潤預降93.02% - 100.00%】夢百合公告稱，預計2026年半年度歸屬於上市公司股東的淨利潤為0.00 - 800.00萬元，同比減少10,655.43 - 11,455.43萬元，降幅93.02% - 100.00%；扣非淨利潤為0.00 - 800.00萬元，同比減少10,202.85 - 11,002.85萬元，降幅92.73% - 100.00%。業績預減主因匯率波動致匯兌損失增加。2026年二季度經營好轉，淨利潤環比大增。此外，中信保賠付及關聯方還款情況或影響業績預告。"
-    },
-    {
-      "id": "4987609",
-      "time": "2026-07-14 19:49:14",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【夢百合：股票交易異常波動 不存在應披露未披露資訊】夢百合公告稱，公司股票於2026年7月10日、7月13日、7月14日連續三個交易日內日收盤價格漲幅偏離值累計超20%，屬異常波動。經自查及函詢控股股東、實控人，截至披露日，公司日常經營正常，不存在應披露未披露重大資訊，控股股東、實控人及董高人員在此期間無買賣公司股票情況。公司提醒投資者理性投資，注意交易風險。"
-    },
-    {
-      "id": "4987608",
-      "time": "2026-07-14 19:49:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿曼重申將繼續與各方合作 推動恢復霍爾木茲海峽航行自由】當地時間14日，阿曼外交部發表宣告表示，針對近期圍繞霍爾木茲海峽航行問題的討論，阿曼將繼續以透明、中立的方式同各方保持合作，推動恢復霍爾木茲海峽航行自由，並確保相關安排完全符合國際法。宣告表示，阿曼將繼續履行作為《聯合國海洋法公約》締約國的各項義務，並呼籲有關各方尊重國際法，依據國際法處理相關問題。（央視新聞）"
     }
   ]
 }
