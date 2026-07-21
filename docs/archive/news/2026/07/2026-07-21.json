@@ -1,7 +1,179 @@
 {
   "date": "2026-07-21",
-  "count": 2363,
+  "count": 2382,
   "items": [
+    {
+      "id": "5000074",
+      "time": "2026-07-21 18:01:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "波音公司：盧森堡航空將兩架波音737-10的選擇權轉換為確定訂單。"
+    },
+    {
+      "id": "5000072",
+      "time": "2026-07-21 18:01:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：盧森堡航空獲得額外兩架波音737-10飛機的選擇權。"
+    },
+    {
+      "id": "5000071",
+      "time": "2026-07-21 18:01:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音：盧森堡航空確認訂單增至12架波音737飛機，同時增購2架選擇權訂單。"
+    },
+    {
+      "id": "te:markets:568543",
+      "time": "2026-07-21 18:00:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises as Markets Track US-Iran Diplomacy — Gold rose more than 1% to $4,070 an ounce on Tuesday as investors weighed diplomatic efforts to de-escalate the US-Iran conflict and their potential impact on oil prices, inflation risks, and the Federal Reserve’s interest rate outlook. Reports indicated that mediators are working to bring Washington and Tehran back to the negotiating table, with discussions reportedly including a possible 10-day truce aimed at securing shipping routes through the Strait of Hormuz. The recent escalation in the conflict pushed oil prices to a more than one-month high, raising concerns that higher energy costs could reinforce inflationary pressures. This has prompted a growing number of US policymakers to argue that interest rates may need to remain higher for longer, or potentially rise, to contain inflation. While the Fed is widely expected to keep rates unchanged at next week’s meeting, markets are pricing in more than a 60% probability of a rate hike in September."
+    },
+    {
+      "id": "te:markets:568542",
+      "time": "2026-07-21 18:00:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Rises Again — Brent crude oil rose toward $89 per barrel on Tuesday after recovering from earlier losses, as traders balanced escalating conflict in the Middle East against renewed diplomatic efforts. The US carried out a 10th consecutive day of strikes after President Donald Trump vowed Iran \"will pay\" for attacks that killed American soldiers, while Tehran responded with missile and drone strikes targeting Kuwait. At the same time, hopes for de-escalation persisted after Iran confirmed it had received mediation proposals and reports of discussions over a possible 10-day ceasefire. Oil prices have remained highly volatile as markets react to shifting prospects for further conflict or renewed negotiations. Adding to supply concerns, Yemen's Houthi movement threatened to block Saudi maritime traffic in the Red Sea, a key export route that allows the kingdom to bypass the Strait of Hormuz. Saudi Arabia said it would take all necessary measures to protect its shipping in line with international law."
+    },
+    {
+      "id": "5000070",
+      "time": "2026-07-21 18:00:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "貝萊德、卡哈特、福特與谷歌發起新聯盟，拓展技能型勞動力培訓。"
+    },
+    {
+      "id": "5000069",
+      "time": "2026-07-21 18:00:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度孟買SENSEX指數現貨收盤下跌 0.3%，報 77471.04 點。"
+    },
+    {
+      "id": "5000068",
+      "time": "2026-07-21 18:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入71.67億港元】港股通（滬）方面，華虹宏力、智譜分別獲淨買入7.25億港元、6.80億港元；騰訊控股淨賣出額居首，金額為10.71億港元；港股通（深）方面，中芯國際、華虹宏力分別獲淨買入18.37億港元、15.26億港元；小米集團-W淨買入額居首，金額為2565.51萬港元。"
+    },
+    {
+      "id": "5000067",
+      "time": "2026-07-21 17:59:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【屹唐股份：核心技術人員調整 新增吳貴斌任職】屹唐股份公告稱，核心技術人員Lee Fook Hong（李福洪）因個人原因離職，離職後不再擔任公司任何職務，其參與研發的智慧財產權歸公司，未違反保密及競業協議。公司新增認定吳貴斌為核心技術人員，其目前任公司中國產品研發事業部新產品部助理副總裁及產品總經理，未持有公司股份。此次調整不會對公司技術、競爭力及經營產生重大不利影響，有助於研發專案推進和產品技術升級。"
+    },
+    {
+      "id": "5000066",
+      "time": "2026-07-21 17:59:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "泰晤士水務宣佈在全部轄區臨時實施軟管用水禁令。"
+    },
+    {
+      "id": "5000065",
+      "time": "2026-07-21 17:59:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【聖諾生物：控股股東增持股份實施完畢 權益變動觸及1%刻度】聖諾生物公告稱，控股股東賽諾投資2026年7月17日至21日增持公司股份200.5462萬股，佔總股本0.91%，累計成交總額4992.5976萬元，已超增持計劃下限，增持計劃實施完畢。本次權益變動後，賽諾投資及其一致行動人持股比例由30.82%增至31.73%，觸及1%整數倍。本次增持不會導致公司控股股東及實控人變化，不涉及要約收購。"
+    },
+    {
+      "id": "5000063",
+      "time": "2026-07-21 17:58:54",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗媒體稱美海軍第五艦隊司令部發生爆炸】伊朗塔斯尼姆通訊社21日報道，位於巴林的美國海軍第五艦隊司令部發生爆炸。 另據報道，巴林首都麥納麥拉響警報，居民被要求待在避難所內。（新華社）"
+    },
+    {
+      "id": "5000062",
+      "time": "2026-07-21 17:58:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，美國駐巴林第五艦隊總部發生爆炸。巴林首都麥納麥響起警報，當局要求民眾留在避難場所。"
+    },
+    {
+      "id": "mkt:019f841c-ba70-7aab-8e25-7cf933a57925",
+      "time": "2026-07-21 17:58:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude rises more than 1.00% intraday to $88.38/bbl."
+    },
+    {
+      "id": "5000061",
+      "time": "2026-07-21 17:58:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼將加強免費膳食專案資金監管。"
+    },
+    {
+      "id": "5000060",
+      "time": "2026-07-21 17:58:06",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破90美元/桶，日內漲0.89%。"
+    },
+    {
+      "id": "mkt:019f841c-68a7-7aab-8e25-74ffad49bb6c",
+      "time": "2026-07-21 17:58:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude extends intraday gains to 1.00%, trading at $83.74/bbl."
+    },
+    {
+      "id": "5000059",
+      "time": "2026-07-21 17:58:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一架隸屬於阿聯酋達夫拉空軍基地的美軍加油機，在波斯灣上空飛行時發出 7700 緊急遇險訊號。"
+    },
+    {
+      "id": "5000058",
+      "time": "2026-07-21 17:57:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報83.31美元/桶。"
+    },
     {
       "id": "mkt:019f841b-c90d-7aab-8e25-6b52f1c730da",
       "time": "2026-07-21 17:57:21",
