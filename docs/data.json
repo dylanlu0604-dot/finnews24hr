@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-21 21:40:56",
-  "count": 18430,
+  "updated": "2026-07-21 21:45:09",
+  "count": 18425,
   "items": [
+    {
+      "id": "5000547",
+      "time": "2026-07-21 21:43:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特拉響防空警報】當地時間7月21日，科威特拉響防空警報。科威特軍方表示正在應對來自伊朗的導彈和無人機襲擊，任何爆炸聲都是防空系統攔截攻擊所致。伊朗方面對此暫無回應。（央視新聞）"
+    },
+    {
+      "id": "5000546",
+      "time": "2026-07-21 21:43:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股加密貨幣概念股集體衝高】比特幣重回6.6萬美元上方，美股加密貨幣概念股集體衝高，Circle大漲超10%，Coinbase漲超9%，Robinhood漲超6%，TeraWulf、Strategy漲超4%，Riot Platforms、CleanSpark漲超2%。"
+    },
+    {
+      "id": "5000545",
+      "time": "2026-07-21 21:41:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "彭博美元現貨指數上漲0.1%，創一週以來新高。"
+    },
+    {
+      "id": "5000544",
+      "time": "2026-07-21 21:41:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元兌英鎊上漲0.5%，報0.85386，料創5月份以來最大漲幅。"
+    },
+    {
+      "id": "5000543",
+      "time": "2026-07-21 21:40:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【國際能源署：中東局勢惡化加劇全球能源安全風險】當地時間7月21日，國際能源署執行主任法提赫·比羅爾發表宣告稱，中東衝突升級波及霍爾木茲海峽及地區能源基礎設施，進一步加劇全球石油供應安全擔憂和市場不確定性；曼德海峽面臨的安全威脅也使能源運輸風險進一步上升。國際能源署介紹，自3月11日成員國決定向市場投放4億桶戰略石油儲備以來，已有約2.9億桶進入市場，成員國仍持有超過10億桶政府戰略儲備，可繼續應對供應風險。 (央視新聞)"
+    },
     {
       "id": "te:markets:568575",
       "time": "2026-07-21 21:40:10",
@@ -169588,98 +169628,6 @@
         "國際"
       ],
       "text": "阿曼外交大臣表示：過去幾十年，美國投入了龐大的軍費開支，也在本地區不斷擴建軍事基地，並確立了一套依賴外部保護的安全體系。然而，這一切並沒有建立起可持續的地區穩定局勢，也未能阻止戰爭與危機的爆發。"
-    },
-    {
-      "id": "4987933",
-      "time": "2026-07-14 21:44:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內漲3%，現報14528.00元。"
-    },
-    {
-      "id": "4987932",
-      "time": "2026-07-14 21:43:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "UL Solutions股價上漲2.5%，此前瑞銀將其評級從中性上調至買入。"
-    },
-    {
-      "id": "mkt:019f60de-49ea-7aab-8d7f-7c391bab62ad",
-      "time": "2026-07-14 21:43:28",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "MSFT.O",
-        "Impact bearish"
-      ],
-      "text": "Microsoft (MSFT.O) shares fell more than 2%."
-    },
-    {
-      "id": "mkt:019f60dd-e8c7-7aab-8d7f-7646dcd428d3",
-      "time": "2026-07-14 21:43:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "WTI",
-        "Impact bullish",
-        "US10Y",
-        "Nasdaq100",
-        "Impact bearish"
-      ],
-      "text": "【Analyst: Rising oil and inf risks remain market trading focus】eToro analyst Lale Akoner says the U.S.-Iran war is pushing oil higher, raising inf risk and could keep interest rates elevated for longer, a negative backdrop for bonds and rate-sensitive sectors including property, utilities and expensive growth stocks. \"Unless oil supply faces a more severe shock, the market's main focus will remain on oil prices, inf expectations and rate-sensitive asset classes.\""
-    },
-    {
-      "id": "4987931",
-      "time": "2026-07-14 21:43:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "滙豐銀行將ARM HOLDINGS PLC <ARM.N>評級從買入下調至持有；目標價從255美元上調至315美元。"
-    },
-    {
-      "id": "4987930",
-      "time": "2026-07-14 21:42:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "微軟股價下跌2.2%，此前IBM公佈第二季度初步業績。"
-    },
-    {
-      "id": "4987929",
-      "time": "2026-07-14 21:42:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股盤初，主要行業ETF漲跌不一，半導體ETF漲近3%，全球科技股指數ETF漲超1%，醫療業ETF跌近2%。"
-    },
-    {
-      "id": "4987928",
-      "time": "2026-07-14 21:42:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭將根據與法國達成的協議採購陣風戰鬥機及防空系統。"
-    },
-    {
-      "id": "mkt:019f60dc-f240-7aab-8d7f-68bff25dc8c9",
-      "time": "2026-07-14 21:42:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Goldman Sachs CEO Solomon said AI development remains at an early stage."
-    },
-    {
-      "id": "4987927",
-      "time": "2026-07-14 21:41:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【寬基ETF兩天爆量成交，業內直言：這是“跌出來”的機會】中小盤寬基ETF亦受到資金追捧。7 月13日，南方中證500ETF、南方中證1000ETF分別淨流入約60億元，華夏中證1000ETF淨流入48.45億元，華夏科創板50ETF和易方達創業板ETF均獲淨流入20億元。在業內看來，大額資金再次流向寬基ETF，讓市場嗅到了“抄底”的訊號。華泰柏瑞滬深300ETF在7月12日的成交額為40億元，13日成交額達到77.05億元，14日繼續放大至86.31億元。 7月13日，該ETF獲得55.38億元資金淨流入，最新規模為868.83億元。有市場人士指出，7月市場“變盤”訊號明顯，部分寬基ETF份額翻倍。以南方中證1000ETF為例，其6月底份額為30.77億份，至7月13日，份額為71.2億份，增幅為131.4%。這種短時間內的倍數級增長，在歷史上往往與重要底部區域的機構大舉建倉行為高度吻合。（中國基金報）"
     }
   ]
 }
