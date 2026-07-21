@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-22 05:17:59",
-  "count": 18083,
+  "updated": "2026-07-22 05:22:00",
+  "count": 18081,
   "items": [
+    {
+      "id": "mkt:019f868d-6814-7aab-8e32-b0e026212019",
+      "time": "2026-07-22 05:20:41",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "【Carney says Ottawa will consider full response if U.S. 50% tariffs on certain Canadian goods are enacted】On the 21st, Canada’s prime minister Carney said Ottawa would consider all response options if proposed U.S. tariffs of 50% on certain Canadian goods are enacted. Carney said he spoke by phone with U.S. President Trump and they agreed to intensify trade talks in the coming weeks; he said Ottawa’s immediate priorities are boosting domestic resilience, encouraging domestic procurement and diversifying international partners."
+    },
+    {
+      "id": "5000905",
+      "time": "2026-07-22 05:20:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【英特爾確認將進一步裁員 股價大漲近9%】英特爾股價週二大漲，此前該公司確認將進一步裁員，以削減成本並調整其關鍵的資料中心部門。英特爾股價上漲8.6%，這家科技公司表示將在資料中心部門(DCG)裁員，但未披露具體人數。這延續了該股今年以來的漲勢，有跡象顯示在執行長陳立武的領導下，英特爾在扭轉頹勢方面取得進展。"
+    },
     {
       "id": "5000904",
       "time": "2026-07-22 05:16:17",
@@ -166205,43 +166227,6 @@
         "Importance 1"
       ],
       "text": "South Korea Import Price Growth Eases in June — South Korea's import prices rose 20.6% year-on-year in June 2026, easing from an upwardly revised 25.4% increase in May. Price gains were led by mining products, which climbed 25.2%, driven by higher costs for coal, crude petroleum and natural gas (23.3%), as well as metallic and non-metallic mineral products (36.8%). Prices for manufactured goods also increased, with coal and petroleum products up 38.9% and basic metal products rising 34.3%. Meanwhile, prices for agricultural, forestry, and marine products increased 15.2%. By end use, intermediate goods recorded the largest increase, rising 25.4%, followed by raw materials (24.1%) and capital goods (7.7%). On a monthly basis, the Import Price Index fell 4.4%."
-    },
-    {
-      "id": "mkt:019f6281-fed8-7aab-8d8a-82fb8299b272",
-      "time": "2026-07-15 05:21:54",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "IRNA reports US forces shelled Iran's Hengam Island."
-    },
-    {
-      "id": "mkt:019f627f-e4c5-7aab-8d8a-7b57d0f2d02c",
-      "time": "2026-07-15 05:19:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "The U.S. House voted to approve legislation to make daylight saving time permanent and has sent the bill to the Senate for consideration."
-    },
-    {
-      "id": "4988517",
-      "time": "2026-07-15 05:19:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院投票透過永久實行夏令時法案，該法案現已移交參議院審議。"
-    },
-    {
-      "id": "4988516",
-      "time": "2026-07-15 05:18:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 伊朗亨格姆島遭投射物擊中。"
     }
   ]
 }
