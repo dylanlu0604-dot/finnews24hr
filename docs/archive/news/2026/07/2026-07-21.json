@@ -1,7 +1,123 @@
 {
   "date": "2026-07-21",
-  "count": 2871,
+  "count": 2883,
   "items": [
+    {
+      "id": "te:markets:568567",
+      "time": "2026-07-21 20:45:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Rise on US-Iran Diplomacy Hopes — Futures tracking the S&P/TSX Composite Index edged higher on Tuesday, supported by hopes for a diplomatic resolution to Middle East tensions. Iran is reportedly considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for a lasting agreement to end the war. Gold prices rose on the news, supporting mining shares. Meanwhile, US President Trump imposed a sweeping 50% tariff on a broad range of Canadian imports. However, key Canadian exports such as energy, potash, and critical minerals are exempt, while autos and steel are also excluded because they are already subject to separate sector-specific tariffs. Separately, Britain's new government is expected to invite Canada to join the delayed GCAP fighter-jet project as European allies seek to reduce their reliance on US defence equipment and technology."
+    },
+    {
+      "id": "mkt:019f84b5-1e79-7aab-8e29-60ab035d9f33",
+      "time": "2026-07-21 20:44:50",
+      "tags": [
+        "MKT News",
+        "GM.N"
+      ],
+      "text": "GM CEO said the company is strengthening its supply chain, improving manufacturing readiness and expanding production capacity as defensive measures."
+    },
+    {
+      "id": "5000437",
+      "time": "2026-07-21 20:44:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用汽車執行長表示，通用汽車的防禦舉措將包括強化供應鏈、提升製造準備度以及擴張產能。"
+    },
+    {
+      "id": "5000436",
+      "time": "2026-07-21 20:44:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破91美元/桶，日內漲2.02%。"
+    },
+    {
+      "id": "5000435",
+      "time": "2026-07-21 20:44:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報91.03美元/桶。"
+    },
+    {
+      "id": "mkt:019f84b4-99a8-7aab-8e29-5eb7a7cc4889",
+      "time": "2026-07-21 20:44:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Brent",
+        "WTI"
+      ],
+      "text": "Data show two tankers carrying Saudi crude reversed course in the Red Sea and are now heading for the Suez Canal."
+    },
+    {
+      "id": "5000434",
+      "time": "2026-07-21 20:43:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "資料顯示：兩艘裝載沙特原油的油輪在紅海掉頭，駛向蘇伊士運河。"
+    },
+    {
+      "id": "5000433",
+      "time": "2026-07-21 20:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【北京商報侃股：高股息率公司韌性更強】資料顯示，A股有近200家公司的股息率超過5%。即便在市場調整階段，高股息率公司依然能夠給投資者帶來高於貨幣基金收益率的股息率。正因如此，高股息率公司具有更強的安全墊，可以中長期放心持有，同時持股還能疊加打新收益，是相對安全的投資選擇。"
+    },
+    {
+      "id": "mkt:019f84b2-9cf1-7aab-8e29-5409dab654d6",
+      "time": "2026-07-21 20:42:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Guangdong's 309 data centers' power use up 21.15% YoY in 1H 2026】China Southern Power Grid's Guangdong grid data show Guangdong's 309 data centers consumed 5.974 bln kWh in 1H 2026, up 21.15% YoY. Shaoguan's data center consumption rose 409.10%, the largest increase among the province's 21 prefecture-level cities."
+    },
+    {
+      "id": "mkt:019f84b2-5e90-7aab-8e29-4d39f3b448f3",
+      "time": "2026-07-21 20:41:49",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM CEO said next-generation Silverado and Sierra pickups will arrive in showrooms in December."
+    },
+    {
+      "id": "mkt:019f84b2-2d0d-7aab-8e29-425805dcdfbc",
+      "time": "2026-07-21 20:41:37",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM CEO said defense revenue will rise to nearly $700 million in 2026."
+    },
+    {
+      "id": "mkt:019f84b2-0642-7aab-8e29-3fdff29d297e",
+      "time": "2026-07-21 20:41:27",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM (GM.N) CEO said expanding U.S. domestic manufacturing next year will lift production above 2 million vehicles, further reducing tariff risk."
+    },
     {
       "id": "5000432",
       "time": "2026-07-21 20:41:02",
