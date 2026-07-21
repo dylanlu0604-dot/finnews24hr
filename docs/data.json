@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22 01:12:22",
-  "count": 18137,
+  "updated": "2026-07-22 01:16:25",
+  "count": 18133,
   "items": [
     {
       "id": "mkt:019f85a8-a1b7-7aab-8e2f-a4e5c3e52508",
@@ -166774,46 +166774,6 @@
         "國際"
       ],
       "text": "伊朗媒體：安迪梅什克發生的爆炸並非遭襲擊所致。"
-    },
-    {
-      "id": "4988337",
-      "time": "2026-07-15 01:16:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "LUCID股價暴跌30%。"
-    },
-    {
-      "id": "mkt:019f61a0-25bf-7aab-8d86-b5261fc91038",
-      "time": "2026-07-15 01:15:13",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian President PEZESHKIAN said Tehran will respond with concrete action to Trump's provocations and will defend every inch of Iranian territory."
-    },
-    {
-      "id": "4988336",
-      "time": "2026-07-15 01:14:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：我們將以實際行動回應特朗普的言論，捍衛本國每一寸土地。"
-    },
-    {
-      "id": "mkt:019f619e-18fa-7aab-8d86-ad20ffb53198",
-      "time": "2026-07-15 01:12:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Bahrain's Interior Ministry said the country had sounded an air defense alert."
     }
   ]
 }
