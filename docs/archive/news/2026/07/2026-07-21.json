@@ -1,7 +1,82 @@
 {
   "date": "2026-07-21",
-  "count": 2780,
+  "count": 2788,
   "items": [
+    {
+      "id": "5000381",
+      "time": "2026-07-21 20:12:13",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及人工智慧：美國開源模型正開始湧現。"
+    },
+    {
+      "id": "5000380",
+      "time": "2026-07-21 20:11:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五洲醫療：擬發行股份及支付現金收購旋智科技100%股權】五洲醫療公告，公司擬透過發行股份及支付現金方式購買劉剛等34名交易對方持有的旋智電子科技（上海）有限公司100%股權，並擬向不超過35名特定投資者募集配套資金。標的公司專注於高整合度電機控制晶片的研發、設計及銷售。本次交易預計構成重大資產重組及關聯交易，但不構成重組上市。截至預案簽署日，標的資產的審計、評估工作尚未完成，交易價格尚未確定。"
+    },
+    {
+      "id": "5000379",
+      "time": "2026-07-21 20:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rothschild & Co將Meta Platforms目標價從900.00美元上調至1000.00美元。"
+    },
+    {
+      "id": "5000378",
+      "time": "2026-07-21 20:09:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：若存在智慧財產權竊取行為，美國可對任何開源 AI 模型實施制裁。"
+    },
+    {
+      "id": "mkt:019f8494-95bc-7aab-8e28-58b9173a62e3",
+      "time": "2026-07-21 20:09:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. supports open-source AI models but opposes intellectual property theft."
+    },
+    {
+      "id": "5000377",
+      "time": "2026-07-21 20:09:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：已有言論稱開源人工智慧模型對美國構成威脅。"
+    },
+    {
+      "id": "5000376",
+      "time": "2026-07-21 20:08:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國和亞塞拜然釋出聯合宣告，承諾在能源流動（包括天然氣）等關鍵全球問題上加強合作。"
+    },
+    {
+      "id": "mkt:019f8494-0375-7aab-8e28-5265802293ef",
+      "time": "2026-07-21 20:08:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【Counterpoint Research: Global foldable smartphone shipments forecast to rise 21% YoY in 2026】Counterpoint Research forecasts global foldable smartphone shipments will rise 21% YoY in 2026. Samsung is expected to remain leader but see share fall from 40% in 2025 to 32% in 2026; Apple is projected to take 25% in its debut year, Huawei 24%, Motorola 8% and Honor 3%."
+    },
     {
       "id": "mkt:019f8493-de94-7aab-8e28-4d9281cb7534",
       "time": "2026-07-21 20:08:30",

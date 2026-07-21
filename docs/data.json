@@ -1,7 +1,82 @@
 {
-  "updated": "2026-07-21 20:09:13",
-  "count": 18573,
+  "updated": "2026-07-21 20:13:13",
+  "count": 18567,
   "items": [
+    {
+      "id": "5000381",
+      "time": "2026-07-21 20:12:13",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特談及人工智慧：美國開源模型正開始湧現。"
+    },
+    {
+      "id": "5000380",
+      "time": "2026-07-21 20:11:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五洲醫療：擬發行股份及支付現金收購旋智科技100%股權】五洲醫療公告，公司擬透過發行股份及支付現金方式購買劉剛等34名交易對方持有的旋智電子科技（上海）有限公司100%股權，並擬向不超過35名特定投資者募集配套資金。標的公司專注於高整合度電機控制晶片的研發、設計及銷售。本次交易預計構成重大資產重組及關聯交易，但不構成重組上市。截至預案簽署日，標的資產的審計、評估工作尚未完成，交易價格尚未確定。"
+    },
+    {
+      "id": "5000379",
+      "time": "2026-07-21 20:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Rothschild & Co將Meta Platforms目標價從900.00美元上調至1000.00美元。"
+    },
+    {
+      "id": "5000378",
+      "time": "2026-07-21 20:09:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：若存在智慧財產權竊取行為，美國可對任何開源 AI 模型實施制裁。"
+    },
+    {
+      "id": "mkt:019f8494-95bc-7aab-8e28-58b9173a62e3",
+      "time": "2026-07-21 20:09:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. supports open-source AI models but opposes intellectual property theft."
+    },
+    {
+      "id": "5000377",
+      "time": "2026-07-21 20:09:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：已有言論稱開源人工智慧模型對美國構成威脅。"
+    },
+    {
+      "id": "5000376",
+      "time": "2026-07-21 20:08:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國和亞塞拜然釋出聯合宣告，承諾在能源流動（包括天然氣）等關鍵全球問題上加強合作。"
+    },
+    {
+      "id": "mkt:019f8494-0375-7aab-8e28-5265802293ef",
+      "time": "2026-07-21 20:08:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "005930.KS",
+        "Impact bearish"
+      ],
+      "text": "【Counterpoint Research: Global foldable smartphone shipments forecast to rise 21% YoY in 2026】Counterpoint Research forecasts global foldable smartphone shipments will rise 21% YoY in 2026. Samsung is expected to remain leader but see share fall from 40% in 2025 to 32% in 2026; Apple is projected to take 25% in its debut year, Huawei 24%, Motorola 8% and Honor 3%."
+    },
     {
       "id": "mkt:019f8493-de94-7aab-8e28-4d9281cb7534",
       "time": "2026-07-21 20:08:30",
@@ -171060,144 +171135,6 @@
         "公司"
       ],
       "text": "【北京科銳：預計2026年上半年淨虧損1500萬元-2500萬元】北京科銳公告，預計2026年1月1日—2026年6月30日歸屬於上市公司股東的淨虧損為1500萬元-2500萬元，上年同期盈利1699.14萬元。報告期內公司營業收入實現同比增長，但受訂單來源、產品結構及原材料價格波動等影響導致綜合毛利率同比下降，毛利額增長不及預期；公司於2025年第四季度推出的第二期員工持股計劃在本報告期內攤銷3432.38萬元，導致期間費用較上年同期增加；公司本報告期對存在減值跡象的資產計提的減值準備較上年同期增加。"
-    },
-    {
-      "id": "mkt:019f608b-8de2-7aab-8d7b-7d506d73309d",
-      "time": "2026-07-14 20:13:06",
-      "tags": [
-        "MKT News",
-        "ORCL.N",
-        "Impact bullish"
-      ],
-      "text": "Oracle (ORCL.N) launches an AI-native builder experience to create and run agent applications within Oracle Fusion Applications."
-    },
-    {
-      "id": "mkt:019f608b-5b55-7aab-8d7b-750aefe0226b",
-      "time": "2026-07-14 20:12:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "JP Morgan CEO DIMON said markets are currently booming and broad-based."
-    },
-    {
-      "id": "4987677",
-      "time": "2026-07-14 20:12:46",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "摩根大通CEO戴蒙：當前市場 “蓬勃向好”，上漲行情覆蓋面廣泛。"
-    },
-    {
-      "id": "mkt:019f608b-087d-7aab-8d7b-686c2272615e",
-      "time": "2026-07-14 20:12:32",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Moscow mayor said seven more drones bound for Moscow were shot down on Tuesday, raising the total shot down to 18."
-    },
-    {
-      "id": "4987676",
-      "time": "2026-07-14 20:11:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿曼外交部長髮表文章，對法國在維護霍爾木茲海峽安全方面所發揮的作用表示了讚賞，並呼籲建立一個由波斯灣沿岸所有國家（包括伊朗和伊拉克）共同參與的全新安全架構。"
-    },
-    {
-      "id": "mkt:019f608a-201b-7aab-8d7b-6211898d4ac1",
-      "time": "2026-07-14 20:11:32",
-      "tags": [
-        "MKT News",
-        "BRK.A.N",
-        "BRK.B.N"
-      ],
-      "text": "Market sources say Buffett will convert 8,000 Berkshire Hathaway Class A shares into 12 million Class B shares."
-    },
-    {
-      "id": "4987675",
-      "time": "2026-07-14 20:11:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【魯陽節能：間接控股股東籌劃破產重組，實控人或變更】魯陽節能公告，公司於2026年7月13日收到控股股東奇耐亞太《告知函》，獲悉其間接控股股東Ulysses正在籌劃破產重組。該事項若成功實施，公司現有實際控制人將不再持有Ulysses股權，公司可能從有實際控制人狀態變更為無實際控制人狀態。目前洽談已進入後期階段並預期即將完成。奇耐亞太將繼續持有公司52.66%的股票，持續保持控股股東地位。該事項不會對公司日常生產經營產生實質性影響。"
-    },
-    {
-      "id": "4987674",
-      "time": "2026-07-14 20:11:09",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "【高盛股票交易業務收入再創華爾街紀錄 投行、資管等領域均表現亮眼】在股指持續上漲、人工智慧和中東戰爭相關市場波動持續之際，高盛集團股票交易業務收入重新整理其自身創出的華爾街紀錄，達到74.2億美元。高盛第二季度業績顯示，其股票業務連續第三個季度創下歷史最高紀錄。僅過去三個月的收入，就超過該業務2019年全年四個季度的總和。高盛週二在宣告中表示，股票業務收入同比增長72%，融資以及對安排押注獲利共同推動了這一增長。利率交易部門在第一季度表現令人失望後也超過預期；投資銀行部門在併購諮詢和承銷業務推動下，錄得2021年以來最高費用收入。高盛公佈的利率交易收入為45.9億美元。投行業務費用收入總計34億美元，超過彭博彙總的分析師共識預估。高盛股票交易收入再創新高，證實了彭博新聞社6月的報道。這一紀錄意味著高盛當季表現極為強勁，不過摩根大通的股票交易員錄得更大增幅。摩根大通週二早些時候公佈，其股票交易收入增長86%，至60.3億美元。高盛執行長蘇德巍6月表示，市場中“貪婪多於恐懼”。高盛投行團隊在第二季度牽頭了SpaceX創紀錄的首次公開募股以及Alphabet Inc.的股票融資，在排行榜上大幅領先同行。該行股票承銷業務收入較上年同期躍升130%。資料顯示，高盛在併購市場的份額超過三分之一，今年已為1萬億美元交易提供諮詢，達到任何銀行有記錄以來最快速度。高盛資產管理部門也在快速增長。該部門第二季度所管理資產規模為40.4億美元，較上年同期增加逾7億美元。業績還顯示，高盛淨營收達到創紀錄的203億美元。支出也有所上升，但員工薪酬增速低於收入增速。收入同比增長39%，薪酬增長30%。"
-    },
-    {
-      "id": "mkt:019f6089-77ff-7aab-8d7b-59782cc299db",
-      "time": "2026-07-14 20:10:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "JP Morgan: US consumers remain in good shape, showing marginal strength with no material change overall."
-    },
-    {
-      "id": "4987673",
-      "time": "2026-07-14 20:10:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "莫斯科市長謝爾蓋·索比亞寧通報稱，週二又有7架飛往莫斯科的無人機被擊落。至此，被擊落的無人機總數已增至18架。"
-    },
-    {
-      "id": "mkt:019f6089-1c97-7aab-8d7b-55402d94c45f",
-      "time": "2026-07-14 20:10:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's parliament formally approved Prime Minister Svyrydenko's resignation."
-    },
-    {
-      "id": "4987672",
-      "time": "2026-07-14 20:10:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米汽車最新水下推進器專利曝光 瞄準水陸兩棲車】據國家智慧財產權局授權公告，小米汽車科技有限公司獲批“水下推進器及交通工具”實用新型專利，授權公告號為 CN 224477061 U。根據專利描述，該水下推進器採用外罩體加內建導流部的環形流道設計，透過導流部外壁自進水口向出水口逐漸收縮，配合“進水口面積更小、出水口面積更大”的流道佈局，平緩引導水流透過通道，避免水流因急劇收縮擴張形成區域性低壓區，從源頭減少會產生噪音、侵蝕葉片的空泡效應。此外，根據此項專利獲悉，小米或許正探索水陸兩棲出行場景的訊號。"
-    },
-    {
-      "id": "mkt:019f6088-7a31-7aab-8d7b-4f2a8f6a4bef",
-      "time": "2026-07-14 20:09:44",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Russian Defence Ministry said Russian forces struck Ukrainian ports and vessels supporting Ukrainian forces throughout the day."
-    },
-    {
-      "id": "4987671",
-      "time": "2026-07-14 20:09:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭議會接受總理尤利婭·斯維裡登科的辭職。"
     }
   ]
 }
