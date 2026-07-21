@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-22 02:14:40",
-  "count": 18080,
+  "updated": "2026-07-22 02:18:36",
+  "count": 18086,
   "items": [
+    {
+      "id": "mkt:019f85e5-9730-7aab-8e30-3fa54d93f850",
+      "time": "2026-07-22 02:17:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRNA: An Iranian military spokesman said the country’s defensive deployments are not currently confined to its borders."
+    },
+    {
+      "id": "5000774",
+      "time": "2026-07-22 02:16:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【OpenAI執行長將向美國官員介紹下一代人工智慧模型】OpenAI的高管表示，該公司執行長Sam Altman計劃下週向特朗普政府和美國議員介紹即將到來的下一代人工智慧模型，眼下美國正著手建立針對前沿人工智慧系統的安全審查程式。OpenAI全球公共事務主管Chris Lehane週二表示，Altman此舉正值美國官員制定人工智慧安全審查框架之際，該框架預計將在未來幾周內完成。Lehane稱，Altman的部分會議將重點討論公司的新模型系列，包括這些模型將如何影響工作。“我們認為，這一系列模型將具備一些非常有趣的功能，尤其是在工作和工作規模化方面，”Lehane在華盛頓舉行的簡報會上表示。"
+    },
+    {
+      "id": "mkt:019f85e3-f91f-7aab-8e30-311bf524ade1",
+      "time": "2026-07-22 02:15:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Qatar's foreign ministry strongly condemned Iran for renewed attacks on Jordan, Bahrain and Kuwait, and accused Iran of striking a Kuwaiti tanker while it transited the Strait of Hormuz."
+    },
+    {
+      "id": "te:markets:568612",
+      "time": "2026-07-22 02:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Methanol Falls by 3.39% — Top commodity losers are Methanol (-3.39%), Coking Coal (-1.10%) and Propane (-0.65%). Gains are led by Crude Oil WTI (2%), Natural Gas UK (1.89%) and Brent Crude Oil (1.86%)."
+    },
+    {
+      "id": "5000773",
+      "time": "2026-07-22 02:15:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "據IRNA： 伊朗軍方發言人表示武裝部隊的防禦戰備並不侷限於邊境地區。"
+    },
+    {
+      "id": "mkt:019f85e2-e9f6-7aab-8e30-2febdd451630",
+      "time": "2026-07-22 02:14:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA: An Iranian military spokesman said Iran has completed repairs to some damaged air-defence systems and integrated new equipment into operational units, significantly boosting its overall air-defence capability."
+    },
+    {
+      "id": "5000772",
+      "time": "2026-07-22 02:14:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "塔斯尼姆通訊社援引伊拉克訊息人士：受伊拉克庫爾德地區近期火箭彈與無人機襲擊影響，埃爾比勒國際機場已關閉。"
+    },
     {
       "id": "mkt:019f85e2-9781-7aab-8e30-263c3cab7c60",
       "time": "2026-07-22 02:14:07",
@@ -166288,17 +166355,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Iron Ore CNY Rises by 2.15% — Top commodity gainers are Iron Ore CNY (2.15%), Silver (2.05%), Platinum (1.80%) and Gold (1.52%)."
-    },
-    {
-      "id": "te:markets:566898",
-      "time": "2026-07-15 02:15:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Methanol Soars by 5.15% — Top commodity gainers are Methanol (5.15%), Natural Gas UK (4.91%), Heating Oil (4.74%), Brent Crude Oil (1.18%) and Crude Oil WTI (0.90%)."
     }
   ]
 }
