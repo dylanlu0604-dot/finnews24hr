@@ -1,7 +1,236 @@
 {
   "date": "2026-07-21",
-  "count": 599,
+  "count": 623,
   "items": [
+    {
+      "id": "mkt:019f824b-5718-7aab-8e18-0c032469cff7",
+      "time": "2026-07-21 09:30:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index extended intraday gains to 2.00%."
+    },
+    {
+      "id": "4998741",
+      "time": "2026-07-21 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.02%， 10年期主力合約漲0.01%， 5年期主力合約基本持平， 2年期主力合約基本持平。"
+    },
+    {
+      "id": "4998740",
+      "time": "2026-07-21 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲1.94%， 滬深300指數期貨連續漲1.33%， 中證500指數期貨連續漲2.16%， 上證50指數期貨連續漲1.41%。"
+    },
+    {
+      "id": "4998739",
+      "time": "2026-07-21 09:30:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達1.68%，成分股中，寒武紀漲4.22%，瀾起科技漲4.12%，拓荊科技漲3.13%，華海清科漲3.08%。"
+    },
+    {
+      "id": "mkt:019f824a-f3af-7aab-8e18-0609b3664d98",
+      "time": "2026-07-21 09:29:37",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it struck the MQ-9 drone hangar at Kuwait's Ali Al Salem air base."
+    },
+    {
+      "id": "mkt:019f824a-d279-7aab-8e17-fa1e22c0292e",
+      "time": "2026-07-21 09:29:29",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "China A-share precious metals sector opened higher; Xingye Silver-Tin rose over 3%, with Shan Jin International, Chifeng Gold, Xiaocheng Technology, Zhaojin Gold and Sichuan Gold also advancing."
+    },
+    {
+      "id": "4998738",
+      "time": "2026-07-21 09:29:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，其已對科威特阿里阿勒 Salem空軍基地的MQ-9無人機機庫發動打擊。"
+    },
+    {
+      "id": "4998737",
+      "time": "2026-07-21 09:29:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "GPIF向專注於日本的私募股權基金投資200億日元。"
+    },
+    {
+      "id": "4998736",
+      "time": "2026-07-21 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報6920.00點。"
+    },
+    {
+      "id": "4998735",
+      "time": "2026-07-21 09:29:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內漲1%，現報7385.00點。"
+    },
+    {
+      "id": "mkt:019f824a-4988-7aab-8e17-f58545dd8752",
+      "time": "2026-07-21 09:28:54",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it struck US military radar, communications and satellite facilities in Kuwait with missiles and drones."
+    },
+    {
+      "id": "4998734",
+      "time": "2026-07-21 09:28:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "GPIF將首次自營投資於專注於日本的私募股權基金。"
+    },
+    {
+      "id": "te:markets:568346",
+      "time": "2026-07-21 09:28:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Holds Near 2-Month Highs — US gasoline prices traded around $3.38 per gallon, remaining near the highest level in two months, as markets weighed renewed diplomatic efforts between the US and Iran against escalating military exchanges. Iran said it had received a 10-day ceasefire proposal from mediators aimed at preserving the interim agreement and advancing a lasting peace deal. The diplomatic push followed another night of US strikes on Iranian cities and Iranian attacks on US military assets across the region. Amid the tensions, shipping activity through the Strait of Hormuz came close to a standstill. Adding to supply concerns, Yemen's Houthi militants threatened to blockade shipping to and from Saudi Arabia through the Red Sea. Meanwhile, Ukrainian attacks on Russian energy infrastructure continued to disrupt refinery operations, while stronger diesel and jet fuel margins prompted refiners to curb gasoline output. At the pump, average US gasoline prices climbed back above $4 per gallon."
+    },
+    {
+      "id": "4998733",
+      "time": "2026-07-21 09:27:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長稱韓元匯率仍弱於基本面。"
+    },
+    {
+      "id": "mkt:019f8249-65e0-7aab-8e17-e8a63bb78a44",
+      "time": "2026-07-21 09:27:55",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Newly listed stock N Tainuo-U jumped 246.82% at the open; its prospectus says the company develops blood-product substitute therapies."
+    },
+    {
+      "id": "4998732",
+      "time": "2026-07-21 09:27:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【智明達開盤20CM一字跌停】智明達開盤20CM一字跌停，訊息面上，智明達同日公告，因特殊事項影響，從即日起三年，公司在特種領域獲取訂單受限，預計對公司生產經營和財務狀況產生一定負面影響。"
+    },
+    {
+      "id": "mkt:019f8249-1857-7aab-8e17-e3526c8471d9",
+      "time": "2026-07-21 09:27:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "At the open on July 21, China's Shanghai Composite Index was up 15.88 points (0.42%) at 3,812.16; Shenzhen Composite Index was up 45.85 points (0.34%) at 13,656.08; CSI 300 Index was up 32.53 points (0.71%) at 4,630.85; China's ChiNext Index was up 26.12 points (0.76%) at 3,469.22; China STAR 50 Index was up 28.80 points (1.68%) at 1,747.49."
+    },
+    {
+      "id": "4998731",
+      "time": "2026-07-21 09:27:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧概念股走強 MINIMAX漲超5%】截至發稿，MINIMAX-W(00100.HK)漲5.13%，智譜(02513.HK)漲4.44%，兆易創新(03986.HK)漲3.47%。"
+    },
+    {
+      "id": "mkt:019f8248-b3ab-7aab-8e17-dec25324b400",
+      "time": "2026-07-21 09:27:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【US completes new round of strikes on Iran】CENTCOM said US forces conducted a new round of strikes on Iran on July 20 at 9:00 p.m. EDT (July 21 9:00 a.m. Beijing), targeting a military command center, maritime operations facilities, missile and UAV launch sites and air‑defense systems to degrade Iran's ability to attack merchant ships transiting the Strait of Hormuz. Merchant ships continued to transit the route; since early May CENTCOM said its forces have assisted about 900 merchant ships and the passage of roughly 450 mln barrels of crude. CENTCOM said US forces remain on alert and are prepared to hold Iran accountable for unprovoked aggression against civilian vessels attempting free, open passage through the strait."
+    },
+    {
+      "id": "4998730",
+      "time": "2026-07-21 09:27:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內跌3%，現報4129.00元。"
+    },
+    {
+      "id": "4998729",
+      "time": "2026-07-21 09:27:03",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【泰諾麥博上市首日開盤大漲超246%】泰諾麥博上市首日開盤漲246.82%，現報50.15元，該股發行價為14.46元。珠海泰諾麥博製藥股份有限公司主營業務是全人源抗體藥物的開發、生產和銷售。公司的主要產品有斯泰度塔單抗注射液等。公司曾獲得廣東省“專精特新”中小企業、廣東省全人源單克隆抗體藥物工程技術研究中心、高新技術企業、廣東省博士工作站等獎項。"
+    },
+    {
+      "id": "4998728",
+      "time": "2026-07-21 09:26:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國副財長表示，韓元可能進一步升值。"
+    },
+    {
+      "id": "4998727",
+      "time": "2026-07-21 09:26:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "德明利開跌6.81%，此前跌停4連板，總市值回落至1020.83億元。"
+    },
+    {
+      "id": "mkt:019f8247-e7e3-7aab-8e17-d4f9facd98c5",
+      "time": "2026-07-21 09:26:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Demingli opened down 6.81% after four consecutive limit-down sessions; market capitalization fell to 102.083 bln yuan."
+    },
     {
       "id": "mkt:019f8247-8caa-7aab-8e17-cb85dccc2dc1",
       "time": "2026-07-21 09:25:54",
