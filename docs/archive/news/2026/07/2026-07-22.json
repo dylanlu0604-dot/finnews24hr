@@ -1,7 +1,34 @@
 {
   "date": "2026-07-22",
-  "count": 385,
+  "count": 388,
   "items": [
+    {
+      "id": "te:markets:568631",
+      "time": "2026-07-22 06:35:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.19%). Gains are led by Silver (4.40%), Copper (3.11%), Platinum (2.20%) and Gold (1.88%)."
+    },
+    {
+      "id": "5000944",
+      "time": "2026-07-22 06:34:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果沒有1400萬非法移民居留在美國、和本土家庭爭搶住房，租金與房價本會大幅回落。"
+    },
+    {
+      "id": "5000943",
+      "time": "2026-07-22 06:30:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "黨內初選臨近，特朗普計劃下週到訪密歇根州開展造勢活動。"
+    },
     {
       "id": "te:markets:568630",
       "time": "2026-07-22 06:30:09",
