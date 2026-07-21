@@ -1,7 +1,173 @@
 {
   "date": "2026-07-21",
-  "count": 2570,
+  "count": 2587,
   "items": [
+    {
+      "id": "mkt:019f8453-9312-7aab-8e26-9029d0946086",
+      "time": "2026-07-21 18:58:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "International Energy Agency (IEA) says member countries still hold large emergency stocks, including over 1 bln barrels of government-controlled reserves."
+    },
+    {
+      "id": "mkt:019f8453-6382-7aab-8e26-8f159347130a",
+      "time": "2026-07-21 18:58:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA: since March 11 IEA member countries have released about 290 mln barrels of oil."
+    },
+    {
+      "id": "5000245",
+      "time": "2026-07-21 18:57:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兆易創新：擬5億元增資子公司實施DRAM募投專案】兆易創新公告稱，公司擬以“DRAM晶片研發及產業化專案”專戶的A股募集資金向全資子公司珠海橫琴芯存半導體有限公司增資5億元，其中5000萬元計入註冊資本，4.5億元計入資本公積。增資後，珠海芯存註冊資本將由1.5億元變更為2億元。本次增資已獲公司第五屆董事會第十三次會議審議透過，無需提交股東會審議，未改變募集資金投資方向和專案內容，不存在損害公司和股東利益情形。"
+    },
+    {
+      "id": "5000244",
+      "time": "2026-07-21 18:57:34",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬發行2026年記賬式貼現（四十四期）國債】本期國債為期限91天的貼現債。國債競爭性招標面值總額350億元，進行甲類成員追加投標。國債發行價格透過競爭性招標確定，以低於票面金額的價格貼現發行。國債自2026年7月23日開始計息，於2026年10月22日（節假日順延）按面值償還。"
+    },
+    {
+      "id": "mkt:019f8452-dd41-7aab-8e26-84351a4bcec8",
+      "time": "2026-07-21 18:57:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Ministry of Finance to issue 2026 book-entry discount bond (44th tranche)】MoF plans a 91-day book-entry discount bond (44th tranche). Competitive tender for a total face amount of 35 bln yuan; additional bids allowed from Class A members. Price set by competitive bidding; issued at a discount to par. Accrual begins July 23, 2026; principal repaid at par on Oct. 22, 2026 (business-day adjustment for holidays)."
+    },
+    {
+      "id": "5000243",
+      "time": "2026-07-21 18:57:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際能源署（IEA）表示：成員國仍保有規模可觀的應急石油儲備，其中包括超過10億桶由政府掌控的儲備庫存。"
+    },
+    {
+      "id": "5000242",
+      "time": "2026-07-21 18:56:59",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "總部位於美國的生物技術公司Axiom正尋求在香港上市。"
+    },
+    {
+      "id": "5000241",
+      "time": "2026-07-21 18:56:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華夏行業LOF：提示二級市場交易價格溢價風險】華夏行業LOF公告稱，近期該基金二級市場交易價格明顯高於基金份額淨值，出現較大幅度溢價。2026年7月21日，其二級市場收盤價為1.448元，截至7月20日，基金份額淨值為1.240元。提醒投資者關注溢價風險，審慎投資。若7月22日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。目前基金運作正常，無應披露未披露資訊。"
+    },
+    {
+      "id": "5000240",
+      "time": "2026-07-21 18:56:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "國際能源署（IEA）：自3月11日釋出釋放原油儲備公告以來，IEA成員國已累計釋放約2.9億桶原油。"
+    },
+    {
+      "id": "5000239",
+      "time": "2026-07-21 18:56:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【璞泰來：擬以2億元-3億元回購公司股份】璞泰來公告，擬以2億元-3億元回購公司股份，回購價格不超過30元/股。"
+    },
+    {
+      "id": "5000238",
+      "time": "2026-07-21 18:56:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【艾艾精工：股價連續兩日跌幅偏離值累計達20% 提示多項風險】艾艾精工公告稱，公司股票於2026年7月20日、7月21日連續兩個交易日內日收盤價格跌幅偏離值累計達20%，屬異常波動。公司生產經營正常，未發現應披露而未披露的重大資訊。但公司控制權變更尚需履行相關程式，結果和時間不確定；未來36個月無重大資產重組注資計劃；2025年收購泰州中石信形成商譽8708.90萬元，新客戶收入不及預期或存商譽減值風險；精密金屬等業務2026年一季度營收環比降44.83%，或存業績下滑風險。"
+    },
+    {
+      "id": "mkt:019f8451-5bbc-7aab-8e26-7c02994d482d",
+      "time": "2026-07-21 18:55:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kazakhstan will suspend oil shipments to the Black Sea after a tanker was attacked."
+    },
+    {
+      "id": "5000237",
+      "time": "2026-07-21 18:55:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈里伯頓股價在公佈第二季度業績後下跌5.7%。"
+    },
+    {
+      "id": "5000236",
+      "time": "2026-07-21 18:55:29",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【華夏基金：旗下部分公募基金參與長鑫科技A股申購】華夏基金公告稱，旗下部分公募基金參與長鑫科技首次公開發行A股的申購。長鑫科技本次發行的聯席保薦人及主承銷商中信建投證券、國泰海通證券、招商證券，分別是公司旗下部分公募基金的託管人或部分公募基金託管人的重大關聯方。發行價8.66元/股，旗下多隻基金參與申購，如華夏睿磐泰利混合獲配244,083股、金額2,113,758.78元等。"
+    },
+    {
+      "id": "5000235",
+      "time": "2026-07-21 18:55:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永贏基金：旗下部分基金參與長鑫科技A股網下申購關聯交易】永贏基金公告稱，旗下永贏國證商用衛星通訊產業ETF等4只基金參與長鑫科技首次公開發行A股的網下申購。主承銷商為部分基金託管人或其關聯方，構成關聯交易。4只基金分別獲配421781股、421781股、421781股、101594股，獲配金額分別為3652623.46元、3652623.46元、3652623.46元、879804.04元，發行價8.66元/股。公司已履行相關審批程式並獲託管人同意。"
+    },
+    {
+      "id": "mkt:019f8450-c1a0-7aab-8e26-737890d252c2",
+      "time": "2026-07-21 18:55:12",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "IEA: Member countries continue releasing emergency reserves, providing material relief to markets."
+    },
+    {
+      "id": "mkt:019f8450-4e43-7aab-8e26-6958c66e2e80",
+      "time": "2026-07-21 18:54:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The International Energy Agency said threats to the Bab el-Mandeb Strait are escalating; the channel has become a key bypass for the Strait of Hormuz, heightening oil supply-risk concerns."
+    },
     {
       "id": "5000233",
       "time": "2026-07-21 18:54:17",
