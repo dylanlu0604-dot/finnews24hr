@@ -1,7 +1,51 @@
 {
   "date": "2026-07-22",
-  "count": 119,
+  "count": 124,
   "items": [
+    {
+      "id": "5000779",
+      "time": "2026-07-22 02:25:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4090美元/盎司，日內漲1.85%。"
+    },
+    {
+      "id": "te:markets:568614",
+      "time": "2026-07-22 02:25:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Oat Falls by 2.56% — Top commodity losers are Oat (-2.56%) and Canola (-1.11%). Gains are led by Cotton (1.84%), Cocoa (1.56%) and Rice (1.50%)."
+    },
+    {
+      "id": "5000778",
+      "time": "2026-07-22 02:24:42",
+      "tags": [
+        "觀點"
+      ],
+      "text": "市場訊息：高盛推出私募市場平臺。"
+    },
+    {
+      "id": "5000777",
+      "time": "2026-07-22 02:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議員沃納：特朗普媒體推出的 Truth API 將對市場誠信構成風險。"
+    },
+    {
+      "id": "5000776",
+      "time": "2026-07-22 02:23:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家通訊社：伊拉克埃爾比勒機場臨時暫停航班運營。"
+    },
     {
       "id": "mkt:019f85e9-445f-7aab-8e30-4f6c023daeec",
       "time": "2026-07-22 02:21:24",
