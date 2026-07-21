@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-21 16:07:38",
-  "count": 18964,
+  "updated": "2026-07-21 16:13:43",
+  "count": 18934,
   "items": [
+    {
+      "id": "te:markets:568506",
+      "time": "2026-07-21 16:10:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Rises by 1.40% — Top commodity gainers are Rubber (1.40%) and Cotton (1.01%). Biggest loser is Palm Oil (-1.06%)."
+    },
+    {
+      "id": "mkt:019f83b8-cc6e-7aab-8e22-4b43ee35928f",
+      "time": "2026-07-21 16:09:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Impact bullish",
+        "02513.HK"
+      ],
+      "text": "Hong Kong shares closed with the HSI down 0.04% and the Hang Seng Tech Index up 1.32%. Semiconductor stocks led gains; optical communications, PCB, artificial intelligence and power-equipment sectors outperformed. Batteries, oil, mainland property and mainland banks underperformed. Zhipu (02513.HK) surged 36.89%."
+    },
+    {
+      "id": "mkt:019f83b8-630e-7aab-8e22-426b96eb4d8a",
+      "time": "2026-07-21 16:08:46",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact mixed"
+      ],
+      "text": "Emirates president Tim Clark said he hopes the Boeing 777‑9 will be delivered to the airline in Q2 next year."
+    },
+    {
+      "id": "mkt:019f83b7-916a-7aab-8e22-3c5092dbc0f9",
+      "time": "2026-07-21 16:07:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent fell more than 1% intraday, trading at $82.04/bbl and $86.52/bbl respectively."
+    },
+    {
+      "id": "mkt:019f83b6-6b6c-7aab-8e22-37d6c56073f1",
+      "time": "2026-07-21 16:06:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bullish",
+        "MU.O",
+        "WDC.O"
+      ],
+      "text": "US memory stocks firmer in premarket trade: SanDisk (SNDK.O) up about 7%, SK Hynix (SKHY.O) up about 6%, Micron Technology (MU.O) up about 5%, Western Digital (WDC.O) up about 5%."
+    },
+    {
+      "id": "mkt:019f83b5-525f-7aab-8e22-28edacbaa3ef",
+      "time": "2026-07-21 16:05:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huaqin Technology says super-node product to exceed 10 bln yuan revenue this year】Huaqin Technology told investors on a conference call that its super-node data‑center product began small-batch shipments in Q2 and will move to mass deliveries from Q3. The company, an early domestic entrant to the category, expects revenue from the single super-node product to top 10 bln yuan this year and to maintain rapid growth over the next two years. Super-node is taking a growing share of the company’s data‑center portfolio and carries higher gross margins than AI servers, which Huaqin says should steadily lift overall data‑business gross margins."
+    },
+    {
+      "id": "te:markets:568505",
+      "time": "2026-07-21 16:05:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.06%). Gains are led by Silver (4.74%), Copper (2.18%), Platinum (2.09%) and Gold (1.46%)."
+    },
+    {
+      "id": "mkt:019f83b5-0236-7aab-8e22-24b3fa96868a",
+      "time": "2026-07-21 16:05:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【KPMG: Weak UK wage growth strengthens case for BoE to hold rates】KPMG’s UK chief economist Yael Selfin said regular pay excluding bonuses rose 3.4% YoY in the three months to May, with little evidence recent energy-price increases have been passed into pay settlements. Weak hiring is weighing on workers’ bargaining power and private-sector wage growth remains below the level consistent with the Bank of England’s 2% inflation target. Selfin expects the BoE to keep rates unchanged at next week’s meeting and says energy-market developments will likely play a larger role in shaping the rate outlook over coming months."
+    },
     {
       "id": "4999713",
       "time": "2026-07-21 16:04:37",
@@ -173978,359 +174073,6 @@
         "公司"
       ],
       "text": "【宏柏新材：預計2026年上半年度歸母淨利潤為虧損3300萬元到2200萬元】宏柏新材公告，預計2026年上半年度歸屬於母公司所有者的淨利潤為虧損3300萬元到2200萬元。公司本期業績預虧主要受宏觀經濟環境整體偏弱、市場競爭激烈以及匯率波動影響。"
-    },
-    {
-      "id": "mkt:019f5fb0-5254-7aab-8d75-6b070b54e234",
-      "time": "2026-07-14 16:13:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hapag-Lloyd said it cannot reliably quantify the financial impact of tensions in the Gulf region on its operations."
-    },
-    {
-      "id": "mkt:019f5fb0-3a5c-7aab-8d75-67f7df9e0f98",
-      "time": "2026-07-14 16:13:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "HLAG.DE",
-        "Impact bearish"
-      ],
-      "text": "Hapag-Lloyd said charging transit fees in international waters is fundamentally wrong, commenting on US President Trump’s proposal to levy fees for transits through the Strait of Hormuz."
-    },
-    {
-      "id": "4986629",
-      "time": "2026-07-14 16:13:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭航空：因商業原因，取消2026年10月3日至2027年3月27日期間的赫爾辛基-多哈航線航班。"
-    },
-    {
-      "id": "4986628",
-      "time": "2026-07-14 16:13:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【良品鋪子：預計2026年上半年淨利潤為1600萬元到2400萬元】良品鋪子公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為1600萬元到2400萬元，與上年同期相比，將實現扭虧為盈；歸屬於上市公司股東的扣除非經常性損益的淨利潤為950萬元到1750萬元。"
-    },
-    {
-      "id": "4986627",
-      "time": "2026-07-14 16:13:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "赫伯羅特：無法精準量化海灣局勢緊張對公司業務造成的財務影響。"
-    },
-    {
-      "id": "4986626",
-      "time": "2026-07-14 16:13:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "通用汽車韓國分公司工會工人將於7月15日至16日進行四小時罷工。"
-    },
-    {
-      "id": "4986625",
-      "time": "2026-07-14 16:12:54",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【明牌珠寶：預計2026年上半年淨虧損1500萬元至2200萬元】明牌珠寶公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為1500萬元至2200萬元，上年同期淨虧損7758.79萬元。公司預計本報告期淨利潤同比實現較大幅度減虧，整體經營業績較上年同期有較明顯改善，主要由於黃金珠寶主業經營向好，盈利穩步提升，以及光伏電池業務虧損收窄。"
-    },
-    {
-      "id": "4986624",
-      "time": "2026-07-14 16:12:48",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【好利科技：預計上半年淨利潤同比下降59.61%～50.29%】好利科技公告，預計2026年上半年淨利潤為1300萬元至1600萬元，同比下降59.61%至50.29%。報告期內，受銀、銅、錫等主要原材料大宗商品市場價格持續上漲、整體高位震盪執行影響，公司產品成本上升，主營業務毛利率較上年同期有所下降；同時，受原材料價格上漲影響，部分產品可變現淨值下降，使得存貨跌價準備計提增加。在上述因素綜合作用下，公司上半年歸屬於上市公司股東的淨利潤較上年同期出現下降。"
-    },
-    {
-      "id": "4986623",
-      "time": "2026-07-14 16:12:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【亞鉀國際：預計上半年淨利潤同比增長50.10%～75.22%】亞鉀國際公告，預計2026年上半年淨利潤為12.85億元～15億元，比上年同期增長50.10%～75.22%。報告期內，公司經營業績同比上升，主要原因如下：一是公司小東布生產線於2025年12月投產，上半年鉀肥產量較上年同期顯著提升。二是公司秉承著國際和國內雙迴圈、境內外聯動的彈性多元化銷售策略，持續深耕國際及國內市場，上半年銷量較上年同期實現增長。三是受國際和國內鉀肥價格上漲影響，公司上半年鉀肥銷售價格同比上升，公司上半年鉀肥業務毛利率同比上升。"
-    },
-    {
-      "id": "4986622",
-      "time": "2026-07-14 16:12:41",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "赫伯羅特就特朗普欲對霍爾木茲海峽徵收通行費發表看法：對國際水域的通行徵收通行費從根本上而言是錯誤的。"
-    },
-    {
-      "id": "4986621",
-      "time": "2026-07-14 16:12:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【國發股份：預計2026年上半年淨虧損1160萬元】國發股份公告，預計2026年半年度歸屬於母公司所有者的淨利潤為-1160萬元左右。本期業績預虧的主要原因為投資收益減少及主營業務影響。公司持有南京華大共贏一號創業投資企業（有限合夥）27.03%的份額，受資本市場波動影響，該基金持倉的已掛牌上市的華大智造、友芝友生物股價下跌致基金虧損，公司本期投資共贏一號基金的投資收益由盈轉虧，預計本期投資收益約為-315萬元。"
-    },
-    {
-      "id": "4986620",
-      "time": "2026-07-14 16:12:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏昌電子：預計2026年上半年淨利潤同比增加136%至146%】宏昌電子公告，預計2026年1-6月實現歸屬於上市公司股東的淨利潤3860萬元到4018萬元，與上年同期相比，將增加人民幣2227萬元到2384萬元，同比增加136%至146%左右。預計2026年1-6月實現歸屬於上市公司股東的扣除非經常性損益的淨利潤5076萬元到5283萬元，與上年同期相比，將增加人民幣3627萬元到3834萬元，同比增加250%至265%左右。公司持續推動產品結構最佳化與運營管理效率提升，報告期覆銅板等行業需求向好，以及隨著公司珠海新建工廠產能逐步釋放，產品銷量同比提升，及相關產品銷售價格回升，公司產品毛利及毛利率同比去年同期增加，推動淨利潤實現增長。"
-    },
-    {
-      "id": "mkt:019f5fae-ac40-7aab-8d75-5e975432df17",
-      "time": "2026-07-14 16:11:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iran earned over $6 bln from oil exports in 26 days】Tanker Traders data cited by Mehr News show Iran exported more than 80 mln barrels of crude and oil products in the 26 days after signing the Islamabad memorandum with the US, worth over $6 bln at current market prices. About 30 mln barrels of Iranian crude remain queued for export and loading. Assessments indicate Iran-controlled offshore floating storage capacity is roughly 60 mln barrels, which could be used temporarily to manage supply if Iranian production or sales are restricted."
-    },
-    {
-      "id": "mkt:019f5fae-82d3-7aab-8d75-55e91a1f01fd",
-      "time": "2026-07-14 16:11:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng Tech Index",
-        "HSCEI"
-      ],
-      "text": "Hong Kong: HSI closed up 127.01 points (0.52%) at 24,340.73 on Tuesday, July 14; Hang Seng Tech Index closed up 3.03 points (0.06%) at 4,679.46; Hang Seng China Enterprises Index (HSCEI) closed up 37.11 points (0.46%) at 8,103.08; Hang Seng Red Chip Index closed up 52.36 points (1.35%) at 3,935.40."
-    },
-    {
-      "id": "4986619",
-      "time": "2026-07-14 16:11:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國稱特朗普提出霍爾木茲海峽收費計劃後 雙方正在進行溝通】在美國總統特朗普要求對經霍爾木茲海峽運輸的貨物收取20%費用後，韓國正與美國保持密切溝通。 “我國政府希望所有船隻，包括我國船隻，能夠儘快恢復在霍爾木茲海峽的安全、自由通行，”韓國外交部發言人Park Il週二在新聞釋出會上稱。他拒絕進一步加以說明，稱需要了解更多關於特朗普說法以及這類計劃可能如何實施的資訊。"
-    },
-    {
-      "id": "4986618",
-      "time": "2026-07-14 16:11:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西昌電力：預計2026年上半年淨利潤約650萬元，同比增長約100.62%】西昌電力公告，預計2026年上半年淨利潤約650萬元，同比增長約100.62%。報告期內，影響業績變動的主要原因：一是強化全面預算管理，提質增效，非生產性可控費用同比壓降24.46%；二是加強資金管理，嚴控帶息負債規模，財務費用下降約11.98%；三是持續提升運營管理質效，加強經濟排程，最佳化電量結構，外購電量同比下降約9.01%。以上因素綜合影響所致。"
-    },
-    {
-      "id": "mkt:019f5fad-f78a-7aab-8d75-4862c48c4f38",
-      "time": "2026-07-14 16:11:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Qatar's foreign ministry strongly condemned attacks on two UAE oil tankers in the Strait of Hormuz, saying the incidents are a serious breach of maritime navigation safety, directly threaten global energy supply security and clearly violate international law."
-    },
-    {
-      "id": "4986617",
-      "time": "2026-07-14 16:10:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中南股份：預計2026年上半年淨虧損2000萬元-3500萬元】中南股份公告，預計2026年1月1日-2026年6月30日歸屬於上市公司股東的淨虧損為2000萬元-3500萬元，上年同期為盈利529萬元。扣除非經常性損益後的淨虧損為4500萬元-8500萬元，上年同期為虧損3836萬元。"
-    },
-    {
-      "id": "4986616",
-      "time": "2026-07-14 16:10:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【阿聯酋兩艘油輪遇襲導致一名海員喪生 霍爾木茲海峽航運風險驟升】阿拉伯聯合大公國表示，兩艘油輪在穿越霍爾木茲海峽時遭到襲擊，一名海員喪生。這是自美國與伊朗達成的臨時和平協議於上週事實上接近破裂以來，該水道發生的最嚴重的商船遇襲事件。阿聯酋國防部表示，兩艘船隻遭到伊朗巡航導彈襲擊。阿布扎比國家石油公司子公司Adnoc L&S隨後發表宣告稱，油輪“Al Bahyah”號和“Mombasa B”號在霍爾木茲海峽航行期間遭到投射武器擊中，船體嚴重受損。宣告還表示，一名船員死亡，另有數名船員受傷。此次襲擊對石油市場影響重大，因為涉事方是自本輪衝突爆發以來保障非伊朗原油透過霍爾木茲海峽運輸的重要力量。其中一方是阿聯酋，該國上月原油產量和出口量大幅增長；另一方則是油輪船東Sinokor Group，該公司一直是阿聯酋原油出口的重要承運商。阿布扎比國家石油公司表示，遭襲的Sinokor油輪是透過定期租船協議承租使用。此次油輪遇襲以及海員死亡事件，將引發市場對於阿聯酋是否能夠繼續維持大規模原油運輸的擔憂。"
-    },
-    {
-      "id": "4986615",
-      "time": "2026-07-14 16:10:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【永達股份：預計2026年半年度淨利潤280萬-420萬，同比降92.77%-95.18%】永達股份公告，預計2026年半年度歸屬於上市公司股東的淨利潤為280萬元-420萬元，比上年同期的5807.9萬元下降92.77%-95.18%。扣除非經常性損益後的淨利潤為130萬元-190萬元，同比下降94.92%-96.52%；基本每股收益0.012元-0.017元。業績同比下降主要因去年同期子公司江蘇金源高階裝備有限公司一二廠區拆遷獲一次性補償收益1720.62萬元，本期無此收益；隧道掘進市場需求承壓、行業競爭加劇致板塊毛利率下滑；風電整機行業價格競爭激烈，公司採取以價換量策略，風電業務盈利走低。"
-    },
-    {
-      "id": "4986614",
-      "time": "2026-07-14 16:10:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信通電子：預計2026年上半年淨利潤同比下降68.31%-74.26%】信通電子公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為盈利1300萬元–1600萬元，比上年同期下降74.26% -68.31%；扣除非經常性損益後的淨利潤為盈利800萬元–1000萬元，比上年同期下降82.47% -78.09%。基本每股收益為盈利0.08元/股–0.1元/股。"
-    },
-    {
-      "id": "4986613",
-      "time": "2026-07-14 16:10:18",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【和順石油：預計2026年上半年淨利潤同比增加384.02%到526.38%】和順石油公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為6800萬元到8800萬元，同比增加5395.11萬元到7395.11萬元，同比增加384.02%到526.38%。報告期內，地緣衝突推動國際原油上漲，國內成品油零售限價同步上調；煉廠庫存積壓、出貨承壓，出廠價漲幅偏弱，行業批零價差擴大。同時，公司充分把握高價差行情，帶動利潤增長。"
-    },
-    {
-      "id": "mkt:019f5fad-1e2a-7aab-8d75-416d7fc89baa",
-      "time": "2026-07-14 16:10:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China State Planner allocates 30 mln yuan from central budget for Liaoning post-flood emergency restoration】Heavy rain caused floods in Liaoning’s Shenyang, Fushun and other areas; on July 14 the National Committee for Disaster Prevention, Reduction and Relief activated a national Level-4 emergency response. Citing the national natural disaster relief emergency plan and assessed provincial losses, the China State Planner has urgently allocated 30 mln yuan of central budgetary investment to support Liaoning’s post-flood emergency restoration, prioritising repair of damaged roads, water‑conservancy infrastructure and restoration of schools, hospitals and other public-service facilities to speed the return to normal production and living order."
-    },
-    {
-      "id": "4986612",
-      "time": "2026-07-14 16:10:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【神通科技：預計2026年上半年淨利潤同比增長40.02%到47.80%】神通科技公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤9000萬元到9500萬元，與上年同期相比，將增加2572.2萬元到3072.2萬元，同比增加40.02%到47.80%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤8000萬元到8500萬元，與上年同期相比，將增加1857.21萬元到2357.21萬元，同比增加30.23%到38.37%。報告期內，公司總體經營情況穩中向好，透過持續推進產品結構與市場結構調整，產品綜合毛利率得到提升；同時，公司強化內部管理，進一步提升了整體經營效率。"
-    },
-    {
-      "id": "4986611",
-      "time": "2026-07-14 16:10:04",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家發改委緊急安排3000萬元中央預算內投資支援遼寧暴雨洪澇災害災後應急恢復】近期，受強降雨影響，遼寧瀋陽、撫順等地遭遇暴雨洪澇災害。7月14日，國家防災減災救災委員會啟動國家四級救災應急響應。根據《國家自然災害救助應急預案》和遼寧省災害損失情況，國家發展改革委緊急安排中央預算內投資3000萬元，支援遼寧省做好暴雨洪澇災害災後應急恢復，重點用於災區受損道路、水利等基礎設施和學校、醫院等公共服務設施災後應急恢復建設，推動儘快恢復正常生產生活秩序。"
-    },
-    {
-      "id": "te:markets:566756",
-      "time": "2026-07-14 16:10:02",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Palm Oil Rises by 1.54% — Top commodity gainer is Palm Oil (1.54%). Biggest losers are Rice (-1.26%), Corn (-1%) and Oat (-0.63%)."
-    },
-    {
-      "id": "4986610",
-      "time": "2026-07-14 16:09:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體14日報道，美軍13日對伊朗南部霍爾木茲甘省的空襲已造成3人死亡。（新華社）"
-    },
-    {
-      "id": "mkt:019f5fac-b44e-7aab-8d75-38febe776250",
-      "time": "2026-07-14 16:09:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Hong Kong close: HSI +0.52%; Hang Seng Tech Index +0.06%. Oil & gas, semiconductors and autos led gains."
-    },
-    {
-      "id": "4986609",
-      "time": "2026-07-14 16:09:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數漲0.602%，恒生科技指數漲0.226%】中國鋁業漲9.720%，蔚來-SW漲8.717%，比亞迪電子漲8.108%，洛陽鉬業漲7.537%，中國宏橋漲7.356%，信義玻璃漲6.643%，東方海外國際漲5.126%。"
-    },
-    {
-      "id": "4986608",
-      "time": "2026-07-14 16:08:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國資源迴圈集團等在吉林成立新科技中心 出資額1000萬】天眼查App顯示，近日，中循君信（吉林）科技中心（有限合夥）成立，執行事務合夥人為中雲信成（深圳）科技實業有限公司，出資額1000萬人民幣，經營範圍含再生資源回收、生產性廢舊金屬回收、再生資源加工、電池銷售、新興能源技術研發等。合夥人資訊顯示，該合夥企業由中國資源迴圈集團有限公司、中雲信成（深圳）科技實業有限公司共同持股。"
-    },
-    {
-      "id": "4986607",
-      "time": "2026-07-14 16:08:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華西證券：預計上半年淨利潤同比增長65.96%-105.01%】華西證券公告，預計2026年上半年淨利潤為8.5億元–10.5億元，同比增長65.96%-105.01%。2026年上半年，我國資本市場穩中向好發展態勢持續鞏固，市場交投保持活躍。公司緊抓市場有利機遇，始終堅持以客戶為中心，塑造特色化、差異化競爭優勢，財富管理業務和投資業務均實現較高增長，推動整體經營業績穩步提升。"
-    },
-    {
-      "id": "mkt:019f5fab-b317-7aab-8d75-37b9670ecacb",
-      "time": "2026-07-14 16:08:35",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude futures up 4.00% intraday at $81.12/bbl."
-    },
-    {
-      "id": "4986606",
-      "time": "2026-07-14 16:08:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌加元USD/CAD向下觸及1.41，日內跌0.37%。"
-    },
-    {
-      "id": "mkt:019f5fab-98d2-7aab-8d75-2fd2e5bd6b31",
-      "time": "2026-07-14 16:08:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "USD/CAD slid to 1.41, down 0.37% intraday."
-    },
-    {
-      "id": "4986605",
-      "time": "2026-07-14 16:08:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【綠城水務：預計2026年半年度淨利潤4600萬元-5600萬元，同比增長約71%-108%】綠城水務公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤4600萬元到5600萬元，與上年同期（法定披露資料）2689.4萬元相比，將增加1911萬元到2911萬元，同比增加71.06%到108.24%。預計歸屬於母公司所有者的扣除非經常性損益的淨利潤3400萬元到4000萬元，與上年同期1733.81萬元相比，同比增加96.09%到130.69%。業績預增主要因匯率波動影響匯兌淨收益增加、強化資金管理降低融資成本及收到超長期特別國債資金等政府補助致當期損益增加。"
-    },
-    {
-      "id": "te:economy:566754",
-      "time": "2026-07-14 16:08:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Palestine",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Palestine CPI Plunges 40% in June — Consumer prices in Palestine plunged 40.04% year-on-year in June 2026, deepening from a 36.96% decline in May and marking the sharpest deflation since December last year. Across the territories, consumer prices fell 62.77% in the Gaza Strip, while inflation remained positive in the West Bank (1.31%) and Jerusalem (2.31%). The sharp decline continued to reflect the normalization of prices in Gaza following the exceptionally high levels recorded during the previous two years. On a monthly basis, consumer prices fell 1.6% in June, following a 0.4% decline in May. This was driven by broad-based declines in gas (-67.31%), eggs (-25.04%), fresh vegetables (-14.75%), fresh chicken (-11.72%), potatoes and other tubers (-9.82%), dried vegetables (-9.58%), fresh fruit (-7.39%), diesel fuel (-7.19%), rice (-1.62%), and vegetable oils (-1.05%)."
-    },
-    {
-      "id": "4986604",
-      "time": "2026-07-14 16:08:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【108.5米高空架橋！廣西柳覃高速紅水河特大橋主橋貫通】7月14日，廣西柳覃高速公路控制性工程紅水河特大橋順利實現主橋貫通，標誌著專案建設取得突破性進展，正式邁入衝刺階段，為專案如期建成通車奠定堅實基礎。據瞭解，紅水河特大橋位於廣西來賓市興賓區蒙村鎮與正龍鄉交界處，是柳覃高速重難點工程。大橋全長1732米，主橋跨徑達285米，為特大跨度下承式系杆拱橋。橋樑凌空跨越紅水河，主橋最高點距河面垂直高度108.5米。施工中單節段構件最大吊裝重量可達106噸，相當於70輛小轎車的重量。橋樑跨度、施工高度及吊裝難度均處於廣西在建同類橋樑前列。（央視新聞）"
-    },
-    {
-      "id": "4986603",
-      "time": "2026-07-14 16:08:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華懋科技：預計2026年上半年淨利潤同比下降76.80%-84.53%】華懋科技公告，預計2026年上半年淨利潤為2112.45萬元-3168.67萬元，同比下降76.80%-84.53%。報告期內，汽車行業競爭日趨激烈，下游需求同比有所下滑，公司主營業務產品銷售價格承壓，致使盈利空間一定程度上收窄；且越南子公司新生產基地尚處於產能爬坡階段，其折舊及攤銷費用增加，致使合併口徑毛利率有所下滑。"
     }
   ]
 }

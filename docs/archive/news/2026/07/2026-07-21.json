@@ -1,7 +1,102 @@
 {
   "date": "2026-07-21",
-  "count": 1897,
+  "count": 1905,
   "items": [
+    {
+      "id": "te:markets:568506",
+      "time": "2026-07-21 16:10:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Rubber Rises by 1.40% — Top commodity gainers are Rubber (1.40%) and Cotton (1.01%). Biggest loser is Palm Oil (-1.06%)."
+    },
+    {
+      "id": "mkt:019f83b8-cc6e-7aab-8e22-4b43ee35928f",
+      "time": "2026-07-21 16:09:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish",
+        "Hang Seng Tech Index",
+        "Impact bullish",
+        "02513.HK"
+      ],
+      "text": "Hong Kong shares closed with the HSI down 0.04% and the Hang Seng Tech Index up 1.32%. Semiconductor stocks led gains; optical communications, PCB, artificial intelligence and power-equipment sectors outperformed. Batteries, oil, mainland property and mainland banks underperformed. Zhipu (02513.HK) surged 36.89%."
+    },
+    {
+      "id": "mkt:019f83b8-630e-7aab-8e22-426b96eb4d8a",
+      "time": "2026-07-21 16:08:46",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact mixed"
+      ],
+      "text": "Emirates president Tim Clark said he hopes the Boeing 777‑9 will be delivered to the airline in Q2 next year."
+    },
+    {
+      "id": "mkt:019f83b7-916a-7aab-8e22-3c5092dbc0f9",
+      "time": "2026-07-21 16:07:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent fell more than 1% intraday, trading at $82.04/bbl and $86.52/bbl respectively."
+    },
+    {
+      "id": "mkt:019f83b6-6b6c-7aab-8e22-37d6c56073f1",
+      "time": "2026-07-21 16:06:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SNDK.O",
+        "Impact bullish",
+        "MU.O",
+        "WDC.O"
+      ],
+      "text": "US memory stocks firmer in premarket trade: SanDisk (SNDK.O) up about 7%, SK Hynix (SKHY.O) up about 6%, Micron Technology (MU.O) up about 5%, Western Digital (WDC.O) up about 5%."
+    },
+    {
+      "id": "mkt:019f83b5-525f-7aab-8e22-28edacbaa3ef",
+      "time": "2026-07-21 16:05:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huaqin Technology says super-node product to exceed 10 bln yuan revenue this year】Huaqin Technology told investors on a conference call that its super-node data‑center product began small-batch shipments in Q2 and will move to mass deliveries from Q3. The company, an early domestic entrant to the category, expects revenue from the single super-node product to top 10 bln yuan this year and to maintain rapid growth over the next two years. Super-node is taking a growing share of the company’s data‑center portfolio and carries higher gross margins than AI servers, which Huaqin says should steadily lift overall data‑business gross margins."
+    },
+    {
+      "id": "te:markets:568505",
+      "time": "2026-07-21 16:05:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.06%). Gains are led by Silver (4.74%), Copper (2.18%), Platinum (2.09%) and Gold (1.46%)."
+    },
+    {
+      "id": "mkt:019f83b5-0236-7aab-8e22-24b3fa96868a",
+      "time": "2026-07-21 16:05:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【KPMG: Weak UK wage growth strengthens case for BoE to hold rates】KPMG’s UK chief economist Yael Selfin said regular pay excluding bonuses rose 3.4% YoY in the three months to May, with little evidence recent energy-price increases have been passed into pay settlements. Weak hiring is weighing on workers’ bargaining power and private-sector wage growth remains below the level consistent with the Bank of England’s 2% inflation target. Selfin expects the BoE to keep rates unchanged at next week’s meeting and says energy-market developments will likely play a larger role in shaping the rate outlook over coming months."
+    },
     {
       "id": "4999713",
       "time": "2026-07-21 16:04:37",
