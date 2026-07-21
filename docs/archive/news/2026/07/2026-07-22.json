@@ -1,7 +1,63 @@
 {
   "date": "2026-07-22",
-  "count": 1,
+  "count": 6,
   "items": [
+    {
+      "id": "5000710",
+      "time": "2026-07-22 00:04:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大總理：將考慮所有選項應對美加徵關稅】當地時間7月21日，加拿大總理馬克·卡尼表示，在美國關稅宣佈後，他已與美國總統特朗普通話。卡尼還表示，如果（新關稅）生效，加拿大將考慮所有應對選項。白宮20日釋出公告稱，美國將對加拿大部分產品額外加徵50%的從價關稅，以應對“加拿大在汽車及汽車零部件貿易方面對美國採取的歧視性措施”。白宮當日釋出的一份事實清單顯示，美國將對葡萄酒、冰球棒和水泥等加拿大商品加徵關稅，即使這些商品符合《美國-墨西哥-加拿大協定》。白宮稱，這些關稅旨在抵消加拿大歧視性做法給美國商業帶來的負擔和造成的劣勢，新關稅措施將於美東時間8月19日開始生效。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f856a-964d-7aab-8e2e-fd7156a5c8f8",
+      "time": "2026-07-22 00:03:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) said from next week parents can decide whether users under 16 may change these settings, reducing the strictness of the restrictions."
+    },
+    {
+      "id": "mkt:019f856a-0338-7aab-8e2e-f77363828c71",
+      "time": "2026-07-22 00:02:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): With supervisory features enabled, parents can view teens' time on Threads, set daily usage limits, adjust sleep mode and manage privacy settings."
+    },
+    {
+      "id": "mkt:019f8569-e954-7aab-8e2e-ee46f998b1b2",
+      "time": "2026-07-22 00:02:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched parental controls on the web version of Threads."
+    },
+    {
+      "id": "5000709",
+      "time": "2026-07-22 00:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Threads 即將上線全新家長監管工具，家長可檢視青少年子女在 Threads 平臺的使用時長。"
+    },
     {
       "id": "te:markets:568605",
       "time": "2026-07-22 00:00:21",

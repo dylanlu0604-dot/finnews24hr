@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-22 00:01:42",
-  "count": 18289,
+  "updated": "2026-07-22 00:05:53",
+  "count": 18282,
   "items": [
+    {
+      "id": "5000710",
+      "time": "2026-07-22 00:04:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【加拿大總理：將考慮所有選項應對美加徵關稅】當地時間7月21日，加拿大總理馬克·卡尼表示，在美國關稅宣佈後，他已與美國總統特朗普通話。卡尼還表示，如果（新關稅）生效，加拿大將考慮所有應對選項。白宮20日釋出公告稱，美國將對加拿大部分產品額外加徵50%的從價關稅，以應對“加拿大在汽車及汽車零部件貿易方面對美國採取的歧視性措施”。白宮當日釋出的一份事實清單顯示，美國將對葡萄酒、冰球棒和水泥等加拿大商品加徵關稅，即使這些商品符合《美國-墨西哥-加拿大協定》。白宮稱，這些關稅旨在抵消加拿大歧視性做法給美國商業帶來的負擔和造成的劣勢，新關稅措施將於美東時間8月19日開始生效。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f856a-964d-7aab-8e2e-fd7156a5c8f8",
+      "time": "2026-07-22 00:03:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) said from next week parents can decide whether users under 16 may change these settings, reducing the strictness of the restrictions."
+    },
+    {
+      "id": "mkt:019f856a-0338-7aab-8e2e-f77363828c71",
+      "time": "2026-07-22 00:02:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): With supervisory features enabled, parents can view teens' time on Threads, set daily usage limits, adjust sleep mode and manage privacy settings."
+    },
+    {
+      "id": "mkt:019f8569-e954-7aab-8e2e-ee46f998b1b2",
+      "time": "2026-07-22 00:02:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O) launched parental controls on the web version of Threads."
+    },
+    {
+      "id": "5000709",
+      "time": "2026-07-22 00:01:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta：Threads 即將上線全新家長監管工具，家長可檢視青少年子女在 Threads 平臺的使用時長。"
+    },
     {
       "id": "te:markets:568605",
       "time": "2026-07-22 00:00:21",
@@ -168179,117 +168235,6 @@
         "MKT News"
       ],
       "text": "President Trump said the US does not need troops stationed in Iraq."
-    },
-    {
-      "id": "mkt:019f6160-ab34-7aab-8d84-2bf9f4053835",
-      "time": "2026-07-15 00:05:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "US President Trump said the US will provide support if Iraq needs protection."
-    },
-    {
-      "id": "4988208",
-      "time": "2026-07-15 00:05:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：AI概覽功能中的影象生成將在未來幾周面向所有支援AI模式影象建立的地區推出英語版本。"
-    },
-    {
-      "id": "4988207",
-      "time": "2026-07-15 00:04:39",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：石油公司現在進入伊拉克是為了建立合作伙伴關係。"
-    },
-    {
-      "id": "4988206",
-      "time": "2026-07-15 00:04:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：若伊拉克需要保護，美方隨時提供支援。"
-    },
-    {
-      "id": "4988205",
-      "time": "2026-07-15 00:04:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：不需要美國軍隊進駐伊拉克。"
-    },
-    {
-      "id": "4988204",
-      "time": "2026-07-15 00:04:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌：為谷歌圖片推出探索與創作視覺化內容的新功能。"
-    },
-    {
-      "id": "4988203",
-      "time": "2026-07-15 00:03:59",
-      "tags": [
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "高盛首席執行所羅門：沃什清楚美聯儲的職能不侷限於貨幣政策範疇。"
-    },
-    {
-      "id": "4988202",
-      "time": "2026-07-15 00:03:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌阿肯色州2.5吉瓦直流太陽能專案正式動工。"
-    },
-    {
-      "id": "4988201",
-      "time": "2026-07-15 00:02:56",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【巴菲特擬8年內處置全部所持伯克希爾股份 蓋茨基金會未獲捐贈】沃倫·巴菲特正加快每年向由三個子女運營的慈善基金會捐贈伯克希爾股票的步伐，這意味著他勢將在未來八年內全部處置所持伯克希爾股份。這是巴菲特二十年來首次決定不在年中向蓋茨基金會捐贈股票，並且也未將該基金會列入未來受贈機構名單。今年早些時候，美國司法部公佈的一批檔案，再次引發外界對比爾·蓋茨與傑弗裡·愛潑斯坦關係的關注。根據週二釋出的宣告，95歲的巴菲特計劃分別向舍伍德基金會、霍華德·G·巴菲特基金會和諾沃基金會各捐贈100萬股柏克夏BB類股票，這三家基金會分別由他的三個子女掌管。此外，他還將向以已故妻子命名的蘇珊·湯普森·巴菲特基金會捐贈900萬股股票。"
-    },
-    {
-      "id": "mkt:019f615d-a918-7aab-8d84-251928142772",
-      "time": "2026-07-15 00:02:35",
-      "tags": [
-        "MKT News",
-        "C.N",
-        "Impact bullish"
-      ],
-      "text": "Citigroup CEO Fraser says the bank aims to deliver the investment plan outlined at Investor Day ahead of schedule."
-    },
-    {
-      "id": "mkt:019f615d-962a-7aab-8d84-1ed05e0e451e",
-      "time": "2026-07-15 00:02:30",
-      "tags": [
-        "MKT News",
-        "C.O",
-        "Impact mixed"
-      ],
-      "text": "Citigroup CEO Fraser said the firm will not pursue non-organic investments and will focus solely on organic growth."
-    },
-    {
-      "id": "mkt:019f615d-8c31-7aab-8d84-10a635727169",
-      "time": "2026-07-15 00:02:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he does not want monetary policy to tilt toward one generation if it undermines affordability for first‑time homebuyers."
     }
   ]
 }
