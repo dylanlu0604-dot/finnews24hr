@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-21 13:18:46",
-  "count": 19072,
+  "updated": "2026-07-21 13:22:44",
+  "count": 19071,
   "items": [
+    {
+      "id": "4999324",
+      "time": "2026-07-21 13:21:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康希諾生物：與巴基斯坦夥伴就13價肺炎結合疫苗達成相關合作意向】7月21日，據康希諾生物訊息，公司於巴基斯坦-中國企業間投資峰會期間與巴基斯坦合作伙伴AGP Limited公司達成13價肺炎球菌多糖結合疫苗（PCV13i）相關合作意向（letter of intent, LOI），雙方將圍繞該產品在巴基斯坦的未來發展機會開展進一步探索。"
+    },
+    {
+      "id": "4999323",
+      "time": "2026-07-21 13:21:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興業基金總經理李輝因個人原因離任】7月21日，興業基金髮布高階管理人員變更公告稱，公司總經理李輝因個人原因離任，該職務由公司董事長劉宗治代任。同時，公司副總經理黃文鋒到齡退休。"
+    },
+    {
+      "id": "4999322",
+      "time": "2026-07-21 13:19:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲4.0%，至1,834,000韓元。"
+    },
+    {
+      "id": "mkt:019f831c-9c79-7aab-8e1c-effac3f797e7",
+      "time": "2026-07-21 13:18:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share innovative drug sector rebounded; Longshen Rongfa jumped over 12%, with Xinkaiyuan, Harbin Pharmaceutical, Yinuosi, Kailaiying and Yaokang Bio also advancing."
+    },
     {
       "id": "4999321",
       "time": "2026-07-21 13:17:05",
@@ -175245,58 +175282,6 @@
         "Impact bearish"
       ],
       "text": "【Won strength drives dollar dip-buying; South Korea USD deposits at top five banks highest since Dec 2022】South Korea's top five commercial banks held $70.9bn in USD deposits as of July 9, the highest level since Dec 2022, after a sharp July increase. Corporate USD deposits totaled $58.69bn, up $5.6bn versus end-June and accounting for about 96% of the rise; household USD deposits rose to $12.2bn, up $244m. Banks say corporates received large dollar inflows after 1H financial settlements and are retaining USD for import payments and FX risk management. Market participants note the won’s appreciation from roughly KRW1,500/USD to around KRW1,400 has eased profit-taking and spurred dip-buying of dollars."
-    },
-    {
-      "id": "4986121",
-      "time": "2026-07-14 13:22:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨上漲1%。"
-    },
-    {
-      "id": "4986120",
-      "time": "2026-07-14 13:21:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "麥格米特觸及漲停，成交額57.44億元。"
-    },
-    {
-      "id": "mkt:019f5f12-c15c-7aab-8d6f-dd378ff02a62",
-      "time": "2026-07-14 13:21:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "A-share liquid-cooled server sector rallied after choppy trading; Feilong and Bojie hit daily limit-ups, while Audiwei, Fenghua High-Tech, Kaitian Gas and Guangxun Technology also rose."
-    },
-    {
-      "id": "te:economy:566661",
-      "time": "2026-07-14 13:20:14",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Finland",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Finnish Inflation Rate Unchanged in June — The annual inflation rate in Finland stood at 2.1% in June 2026, unchanged from the previous month. It remained the highest reading since March 2024, as prices increased at a faster pace for housing and utilities (1.9% vs 0.6% in May) and restaurants and accommodation (2.1% vs 1.8%) while deflation softened for insurance and financial services (-1.6% vs -2.6%) and personal care, social protection, and miscellaneous goods and services (-1.8% vs -2.2%). Meanwhile, costs particularly slowed for food and non-alcoholic beverages (0.7% vs 1.1%), transport (6.2% vs 7.1%), furnishings, household equipment and routine household maintenance (3.5% vs 4.3%), health (4% vs 6.2%), and information and communication (1.5% vs 4.3%). On a monthly basis, consumer prices fell 0.2%, reversing a 0.5% gain in May and marking the first monthly decline since January. Meanwhile, harmonized consumer prices, the ECB's preferred measure, rose 2.7% year-on-year in June, following a 2.8% rise in the prior month."
-    },
-    {
-      "id": "mkt:019f5f10-c5cb-7aab-8d6f-d099c000fad9",
-      "time": "2026-07-14 13:19:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "According to Sputnik, Russian forces carried out precision strikes on military-industrial targets in Kyiv and on port infrastructure at Yuzhny port in Ukraine’s Odesa region."
     }
   ]
 }
