@@ -1,7 +1,68 @@
 {
   "date": "2026-07-21",
-  "count": 1124,
+  "count": 1130,
   "items": [
+    {
+      "id": "mkt:019f829c-8f10-7aab-8e1a-c99f2d1f045e",
+      "time": "2026-07-21 10:58:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share CPO-concept stocks rebounded; Lianxun Instrument rose over 10% and Gongjin Co. hit the daily limit. JPT, Luxshare Precision, Zhongji Xuchuang, Xinyisheng and Hongban Technology also advanced."
+    },
+    {
+      "id": "4999148",
+      "time": "2026-07-21 10:58:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "兆易創新成交額達200億元，現漲5.71%。"
+    },
+    {
+      "id": "4999147",
+      "time": "2026-07-21 10:58:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【慧辰股份等成立智慧機器人技術新公司】企查查APP顯示，近日，北京慧合智通智慧機器人技術有限公司成立，經營範圍包含人工智慧應用軟體開發；電子產品銷售；智慧機器人銷售；工業機器人銷售等。企查查股權穿透顯示，該公司由慧辰股份(688500)等共同持股。"
+    },
+    {
+      "id": "mkt:019f829a-d3ed-7aab-8e1a-c74b120d8ac5",
+      "time": "2026-07-21 10:56:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "ChiNext index rose more than 3%, led by CPO, lithography equipment, advanced packaging and semiconductor sectors."
+    },
+    {
+      "id": "em:qqyh_zgyh:202607213814851429",
+      "time": "2026-07-21 10:56:48",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行上海總部：規範使用“徵信”“信用評級”“清算”“結算”“支付”字樣】7月21日，央行上海總部發布規範使用“徵信”“信用評級”“清算”“結算”“支付”字樣的提示。"
+    },
+    {
+      "id": "4999146",
+      "time": "2026-07-21 10:56:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指漲2.01%，現報13884.106點；上證指數漲0.16%，現報3802.319點；創業板指漲3.03%，現報3547.443點。"
+    },
     {
       "id": "4999145",
       "time": "2026-07-21 10:56:26",
