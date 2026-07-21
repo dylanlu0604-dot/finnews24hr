@@ -1,7 +1,23 @@
 {
   "date": "2026-07-22",
-  "count": 84,
+  "count": 86,
   "items": [
+    {
+      "id": "mkt:019f85bc-f1b4-7aab-8e2f-d7dfdeab35e2",
+      "time": "2026-07-22 01:33:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reports explosions heard in Erbil, Iraq."
+    },
+    {
+      "id": "5000758",
+      "time": "2026-07-22 01:32:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴林內政部：巴林響起警報聲。"
+    },
     {
       "id": "mkt:019f85bb-f3c0-7aab-8e2f-cca44dff95bb",
       "time": "2026-07-22 01:31:55",
