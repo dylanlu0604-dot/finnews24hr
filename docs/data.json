@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-22 02:08:11",
+  "updated": "2026-07-22 02:14:40",
   "count": 18080,
   "items": [
+    {
+      "id": "mkt:019f85e2-9781-7aab-8e30-263c3cab7c60",
+      "time": "2026-07-22 02:14:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News reports explosions in Iraq's Erbil region have continued for about 30 minutes as multiple missile strikes reportedly hit sites described as bases for 'anti-Iran armed groups'."
+    },
+    {
+      "id": "mkt:019f85e0-3a5c-7aab-8e30-1d43709555b6",
+      "time": "2026-07-22 02:11:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran missile penetration capability rising; US air defenses tested】Iran last week twice launched precision-guided missiles that evaded Jordanian and US missile-defense systems and struck intended targets in Jordan. The Pentagon said nearly 100 US service members have been wounded this month in Iran-linked attacks across Middle East bases; that figure does not include the recent Jordan strike. Asked why Iran could hit the US base in Jordan, President Trump suggested there were “other operators” at the base that allowed “something to get through,” without elaborating. Retired Jordanian Lt. Gen. Qasid Mahmoud, a former deputy chief of staff, said Iran is advancing longer-range missile technology and integrating missiles with drones to suppress radar, using simple missiles to distract defences before launching higher-performance missiles that change course in the final 30–40 km, a trajectory change he said increases interception difficulty."
+    },
+    {
+      "id": "5000771",
+      "time": "2026-07-22 02:11:00",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據IRNA：伊朗稱已部署新防空系統。"
+    },
+    {
+      "id": "5000770",
+      "time": "2026-07-22 02:10:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "據IRNA：伊朗稱已修復遭戰爭損毀的防空設施。"
+    },
     {
       "id": "mkt:019f85da-0cc7-7aab-8e30-11ba385bdd4a",
       "time": "2026-07-22 02:04:47",
@@ -166258,40 +166299,6 @@
         "Importance 1"
       ],
       "text": "Energy Commodities Updates: Methanol Soars by 5.15% — Top commodity gainers are Methanol (5.15%), Natural Gas UK (4.91%), Heating Oil (4.74%), Brent Crude Oil (1.18%) and Crude Oil WTI (0.90%)."
-    },
-    {
-      "id": "4988401",
-      "time": "2026-07-15 02:12:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼：化學油輪“斯托爾特鎂號”在東佐法爾省（南沙爾基亞）附近海域遇襲，襲擊導致船舶機艙起火。"
-    },
-    {
-      "id": "mkt:019f61d4-1790-7aab-8d87-64ddedf013b7",
-      "time": "2026-07-15 02:11:57",
-      "tags": [
-        "MKT News",
-        "LCID.O",
-        "Impact bullish"
-      ],
-      "text": "Lucid Group (LCID.O) said reports it is considering privatization or a Chapter 11 filing are false, that it has sufficient liquidity to fund operations into next year, and that AlixPartners did not recommend bankruptcy to management or the board."
-    },
-    {
-      "id": "4988400",
-      "time": "2026-07-15 02:09:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月15日01時59分在西藏阿里地區改則縣（北緯34.15度，東經84.90度）發生3.4級地震，震源深度10千米。"
-    },
-    {
-      "id": "4988399",
-      "time": "2026-07-15 02:08:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度天然氣交易所遞交IPO招股草案。"
     }
   ]
 }
