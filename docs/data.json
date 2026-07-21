@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-21 23:56:53",
-  "count": 18302,
+  "updated": "2026-07-22 00:01:42",
+  "count": 18289,
   "items": [
+    {
+      "id": "te:markets:568605",
+      "time": "2026-07-22 00:00:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 0.8% to close at 52,285 on Tuesday, led by technology and defense stocks. Semiconductor shares rebounded as optimism surrounding artificial intelligence improved, with STMicroelectronics jumping 4.2%, while Prysmian also gained 4.2% after securing a €5.5 billion long-term agreement with Molex to supply cables for data centers. Defense stocks advanced on expectations that the UK could increase military spending following the appointment of its new finance minister. Leonardo rose 1.8% after announcing new agreements with Saudi Arabia and Indonesia and reaffirming plans to accelerate deliveries and technology development. Fincantieri added 1.1% after Portugal ordered three frigates from the shipbuilder. Finecobank led gains on the banking sector at 2%, while UniCredit gained 1.9% ahead of its earnings release. Meanwhile, utility stocks underperformed as higher natural gas prices weighed on the sector."
+    },
+    {
+      "id": "te:markets:568604",
+      "time": "2026-07-21 23:59:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Hits 17-month High — Rice increased to 14.12 USD/cwt, the highest since February 2025. Over the past 4 weeks, Rice gained 12.79%, and in the last 12 months, it increased 13.66%."
+    },
+    {
+      "id": "te:markets:568603",
+      "time": "2026-07-21 23:58:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Gains on Ceasefire Hopes — The CAC 40 edged up 0.3% to close at 8,363 on Tuesday on hopes of a de-escalation in Middle East tensions after reports emerged that Iran had received a 10-day ceasefire proposal from mediators. The proposal, aimed at reviving the interim agreement reached last month, offered some relief despite the US carrying against Iran and Tehran continuing retaliatory attacks across the region. Financials traded higher on hopes that diplomacy could eventually normalize oil flows and ease energy-driven inflation. BNP Paribas added 1.8%, Crédit Agricole rose 1%, and Société Générale gained 2.7%. Industrials traded mixed, with Schneider Electric up 1.5%. TotalEnergies rose 2.3% as oil prices remained elevated. STMicroelectronics (+4.3%) and Thales (+0.5%) gained ahead of their earnings reports. BNP Paribas and TotalEnergies are also due to report this week. Meanwhile, luxury stocks posted losses as geopolitical risks persisted. LVMH shed 1.7% and Kering lost 1%."
+    },
+    {
+      "id": "5000708",
+      "time": "2026-07-21 23:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：約旦將繼續對大多數美國商品開放免稅市場準入， 約旦將取消非關稅貿易壁壘。"
+    },
+    {
+      "id": "te:markets:568602",
+      "time": "2026-07-21 23:57:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Pound Cuts Gains — The British pound erased its early gains to trade below $1.34, its lowest level in a week, as investors continued to assess the UK's evolving political landscape. Newly appointed Prime Minister Andy Burnham, who took office on Monday, unexpectedly named former Defence Secretary John Healey as chancellor. Healey was not considered a frontrunner for the role, but his appointment has fueled expectations of higher defence spending. Seeking to reassure markets, Burnham and Healey emphasized their commitment to maintaining fiscal discipline, after the prime minister appeared to step back from plans to raise the personal income tax allowance. On the economic front, data from the ONS showed UK public sector borrowing totaled £16 billion in June, around one-third lower than a year earlier and below market expectations. Investors also kept a close eye on developments in the Middle East and the subsequent rise in oil prices."
+    },
+    {
+      "id": "mkt:019f8565-5411-7aab-8e2e-e54d5f0d0e0a",
+      "time": "2026-07-21 23:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House said Jordan will remove non-tariff trade barriers."
+    },
+    {
+      "id": "mkt:019f8565-294f-7aab-8e2e-d8a7d1cff5ee",
+      "time": "2026-07-21 23:57:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump announced a trade agreement with Jordan."
+    },
+    {
+      "id": "5000707",
+      "time": "2026-07-21 23:56:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普宣佈與約旦達成貿易協議。"
+    },
     {
       "id": "5000706",
       "time": "2026-07-21 23:50:54",
@@ -168208,207 +168290,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Federal Reserve Chair Kevin Warsh said he does not want monetary policy to tilt toward one generation if it undermines affordability for first‑time homebuyers."
-    },
-    {
-      "id": "mkt:019f615c-c7f9-7aab-8d84-0c47cb9871fa",
-      "time": "2026-07-15 00:01:38",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed is resolute in preventing inflation from spreading."
-    },
-    {
-      "id": "mkt:019f615c-c560-7aab-8d84-0253f180bb59",
-      "time": "2026-07-15 00:01:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said Iraq possesses substantial untapped wealth."
-    },
-    {
-      "id": "4988200",
-      "time": "2026-07-15 00:01:32",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：在首次購房可負擔性問題上，不希望貨幣政策厚此薄彼，偏袒某一代人。"
-    },
-    {
-      "id": "mkt:019f615c-a382-7aab-8d83-ff3d1cfe4313",
-      "time": "2026-07-15 00:01:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said he will announce an Iraqi oil partnership this week or next."
-    },
-    {
-      "id": "4988199",
-      "time": "2026-07-15 00:01:06",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：將宣佈與伊拉克的石油合作伙伴關係。"
-    },
-    {
-      "id": "4988198",
-      "time": "2026-07-15 00:00:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍繼續打擊伊朗 霍爾木茲海峽博弈持續】美軍14日繼續對伊朗多地發動打擊行動。伊朗方面表示，伊美諒解備忘錄已失效。雙方針對霍爾木茲海峽控制權的博弈仍在持續。（新華社）"
-    },
-    {
-      "id": "4988197",
-      "time": "2026-07-15 00:00:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們無法對短期的特定價格產生直接影響。"
-    },
-    {
-      "id": "mkt:019f615b-d1e8-7aab-8d83-f09bfeeb4ec4",
-      "time": "2026-07-15 00:00:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chairman Kevin Warsh said the Fed cannot directly or immediately influence short-term price movements."
-    },
-    {
-      "id": "mkt:019f615b-ce00-7aab-8d83-ed74307d3547",
-      "time": "2026-07-15 00:00:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman KEVIN WARSH said the Fed's job is to ensure price movements do not broaden into inflation."
-    },
-    {
-      "id": "mkt:019f615b-9312-7aab-8d83-e1e0f0c1c36c",
-      "time": "2026-07-15 00:00:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Trump says Iraq has substantial oil reserves and potential."
-    },
-    {
-      "id": "4988196",
-      "time": "2026-07-15 00:00:10",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：與伊拉克石油合作專案將於本週或下週宣佈。"
-    },
-    {
-      "id": "4988195",
-      "time": "2026-07-14 23:59:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們將堅決遏制通脹擴散蔓延。"
-    },
-    {
-      "id": "4988194",
-      "time": "2026-07-14 23:59:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：（與伊拉克）石油合作伙伴關係是在過去短時間內形成的。"
-    },
-    {
-      "id": "4988193",
-      "time": "2026-07-14 23:59:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊拉克擁有巨大的潛在財富。"
-    },
-    {
-      "id": "4988192",
-      "time": "2026-07-14 23:59:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊拉克擁有巨大的石油儲量和潛力。"
-    },
-    {
-      "id": "4988191",
-      "time": "2026-07-14 23:59:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗格什姆島政府辦公室：該島於當地時間19:00遭美軍炮彈擊中。"
-    },
-    {
-      "id": "4988190",
-      "time": "2026-07-14 23:58:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在橢圓形辦公室與伊拉克總理發表講話。"
-    },
-    {
-      "id": "4988189",
-      "time": "2026-07-14 23:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我和伊拉克總理很有默契。"
-    },
-    {
-      "id": "te:markets:566886",
-      "time": "2026-07-14 23:58:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "CAC 40 Steady on Finance and Energy Gains — The CAC 40 inched up to close at 8,367 on Tuesday after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with BNP Paribas up 1.4% and Credit Agricole adding 1.6%. Meanwhile, TotalEnergies advanced 1.1% as oil prices rose amid ongoing tensions in the Middle East. Other notable gainers included Schneider Electric (+1.7%) and Engie (+0.9%). In contrast, luxury stocks tumbled on rising geopolitical risks. LVMH lost 1.7%, L'Oreal shed 0.8%, and Kering retreated 2.4%. Safran (-0.7%), Sanofi (-2.1%), and EssilorLuxottica (-2.5%) also posted losses."
-    },
-    {
-      "id": "4988188",
-      "time": "2026-07-14 23:58:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯盧布6月實際有效匯率環比上漲0.3%。"
-    },
-    {
-      "id": "mkt:019f6158-da58-7aab-8d83-d98fc090ad6a",
-      "time": "2026-07-14 23:57:20",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he is inclined to pursue monetary policy aimed at preventing large swings in economic activity."
     }
   ]
 }

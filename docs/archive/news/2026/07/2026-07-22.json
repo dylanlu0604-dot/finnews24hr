@@ -1,0 +1,18 @@
+{
+  "date": "2026-07-22",
+  "count": 1,
+  "items": [
+    {
+      "id": "te:markets:568605",
+      "time": "2026-07-22 00:00:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Closes Higher — The FTSE MIB rose 0.8% to close at 52,285 on Tuesday, led by technology and defense stocks. Semiconductor shares rebounded as optimism surrounding artificial intelligence improved, with STMicroelectronics jumping 4.2%, while Prysmian also gained 4.2% after securing a €5.5 billion long-term agreement with Molex to supply cables for data centers. Defense stocks advanced on expectations that the UK could increase military spending following the appointment of its new finance minister. Leonardo rose 1.8% after announcing new agreements with Saudi Arabia and Indonesia and reaffirming plans to accelerate deliveries and technology development. Fincantieri added 1.1% after Portugal ordered three frigates from the shipbuilder. Finecobank led gains on the banking sector at 2%, while UniCredit gained 1.9% ahead of its earnings release. Meanwhile, utility stocks underperformed as higher natural gas prices weighed on the sector."
+    }
+  ]
+}

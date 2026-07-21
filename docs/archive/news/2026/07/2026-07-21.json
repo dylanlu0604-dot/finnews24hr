@@ -1,7 +1,77 @@
 {
   "date": "2026-07-21",
-  "count": 3348,
+  "count": 3355,
   "items": [
+    {
+      "id": "te:markets:568604",
+      "time": "2026-07-21 23:59:49",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Rice Hits 17-month High — Rice increased to 14.12 USD/cwt, the highest since February 2025. Over the past 4 weeks, Rice gained 12.79%, and in the last 12 months, it increased 13.66%."
+    },
+    {
+      "id": "te:markets:568603",
+      "time": "2026-07-21 23:58:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Gains on Ceasefire Hopes — The CAC 40 edged up 0.3% to close at 8,363 on Tuesday on hopes of a de-escalation in Middle East tensions after reports emerged that Iran had received a 10-day ceasefire proposal from mediators. The proposal, aimed at reviving the interim agreement reached last month, offered some relief despite the US carrying against Iran and Tehran continuing retaliatory attacks across the region. Financials traded higher on hopes that diplomacy could eventually normalize oil flows and ease energy-driven inflation. BNP Paribas added 1.8%, Crédit Agricole rose 1%, and Société Générale gained 2.7%. Industrials traded mixed, with Schneider Electric up 1.5%. TotalEnergies rose 2.3% as oil prices remained elevated. STMicroelectronics (+4.3%) and Thales (+0.5%) gained ahead of their earnings reports. BNP Paribas and TotalEnergies are also due to report this week. Meanwhile, luxury stocks posted losses as geopolitical risks persisted. LVMH shed 1.7% and Kering lost 1%."
+    },
+    {
+      "id": "te:markets:568602",
+      "time": "2026-07-21 23:57:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Pound Cuts Gains — The British pound erased its early gains to trade below $1.34, its lowest level in a week, as investors continued to assess the UK's evolving political landscape. Newly appointed Prime Minister Andy Burnham, who took office on Monday, unexpectedly named former Defence Secretary John Healey as chancellor. Healey was not considered a frontrunner for the role, but his appointment has fueled expectations of higher defence spending. Seeking to reassure markets, Burnham and Healey emphasized their commitment to maintaining fiscal discipline, after the prime minister appeared to step back from plans to raise the personal income tax allowance. On the economic front, data from the ONS showed UK public sector borrowing totaled £16 billion in June, around one-third lower than a year earlier and below market expectations. Investors also kept a close eye on developments in the Middle East and the subsequent rise in oil prices."
+    },
+    {
+      "id": "5000708",
+      "time": "2026-07-21 23:57:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國白宮：約旦將繼續對大多數美國商品開放免稅市場準入， 約旦將取消非關稅貿易壁壘。"
+    },
+    {
+      "id": "mkt:019f8565-5411-7aab-8e2e-e54d5f0d0e0a",
+      "time": "2026-07-21 23:57:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House said Jordan will remove non-tariff trade barriers."
+    },
+    {
+      "id": "mkt:019f8565-294f-7aab-8e2e-d8a7d1cff5ee",
+      "time": "2026-07-21 23:57:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "US President Trump announced a trade agreement with Jordan."
+    },
+    {
+      "id": "5000707",
+      "time": "2026-07-21 23:56:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普宣佈與約旦達成貿易協議。"
+    },
     {
       "id": "5000706",
       "time": "2026-07-21 23:50:54",
