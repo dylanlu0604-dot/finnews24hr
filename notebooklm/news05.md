@@ -1,7 +1,517 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-22 02:38:02_
-_本檔包含 3594 則快訊，約 690206 字_
+_更新時間：2026-07-22 04:04:08_
+_本檔包含 3568 則快訊，約 690777 字_
+
+---
+
+### 2026-07-16 03:17:30  #國際
+
+特朗普：我希望能更快推行關稅政策。
+
+---
+
+### 2026-07-16 03:17:10  #央行 #焦點 #國際
+
+特朗普談及美聯儲：暫停加息要好過繼續加息。
+
+---
+
+### 2026-07-16 03:16:33  #MKT News #XAUUSD #Impact bullish #DXY #Impact bearish #EURUSD
+
+U.S. President Trump said he expects year-end inflation to be lower than current levels.
+
+---
+
+### 2026-07-16 03:16:20  #MKT News #Commodities #Energy #WTI
+
+President Trump said oil prices will fluctuate for some time.
+
+---
+
+### 2026-07-16 03:15:54  #焦點 #國際
+
+特朗普：希望看到利率下調。
+
+---
+
+### 2026-07-16 03:15:53  #MKT News #Important #WTI #Impact bullish #Brent #DXY
+
+CENTCOM said U.S. forces carried out a second strike of the day against Iran at 3:00 p.m. ET (03:00 Beijing, July 16), targeting Iranian military capabilities used to threaten vessels transiting the Strait of Hormuz.
+
+---
+
+### 2026-07-16 03:15:47  #國際
+
+特朗普：預計年底通脹水平將低於當前。
+
+---
+
+### 2026-07-16 03:15:32  #國際
+
+特朗普：油價將在一段時間內波動。
+
+---
+
+### 2026-07-16 03:14:29  #焦點 #國際
+
+美國軍方：此次打擊目標為伊朗用於威脅自由通行霍爾木茲海峽船隻的軍事設施。
+
+---
+
+### 2026-07-16 03:14:21  #國際
+
+美軍方面：美國東部時間今日下午3點，美軍已對伊朗發起今日第二波打擊行動。
+
+---
+
+### 2026-07-16 03:14:12  #MKT News
+
+Iran's foreign ministry said Foreign Minister Araghchi returned to Tehran from Doha.
+
+---
+
+### 2026-07-16 03:14:07  #焦點 #國際
+
+美軍：對伊朗發動打擊。
+
+---
+
+### 2026-07-16 03:12:30  #國際
+
+特朗普重申國防企業不應回購股票。
+
+---
+
+### 2026-07-16 03:12:05  #Trading Economics #Markets #commodity #Importance 0
+
+Palladium Hits 4-week High — Palladium increased to 1327.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Palladium lost 3.5%, and in the last 12 months, it increased 2.72%.
+
+---
+
+### 2026-07-16 03:11:26  #國際
+
+伊朗外交部：外交部長已返回德黑蘭。
+
+---
+
+### 2026-07-16 03:10:18  #MKT News
+
+Ukraine's outgoing defense minister Fedorov said Ukraine successfully conducted a ballistic missile test.
+
+---
+
+### 2026-07-16 03:09:37  #國際
+
+烏克蘭即將卸任的國防部長費奧多羅夫稱，烏克蘭成功完成了彈道導彈試射。
+
+---
+
+### 2026-07-16 03:09:23  #其他
+
+【森林野火致加拿大多地空氣質量惡化 鐵路交通受阻】連日來席捲加拿大安大略省西北部的森林野火導致該國多地空氣質量急劇惡化，鐵路交通受阻。 受野火煙霾影響，加拿大最大城市多倫多15日上午空氣質量指標在世界主要城市中排名墊底。加環境部發布的資料顯示，多倫多市當天空氣質量健康指數處於“高風險”級別。首都渥太華也因野火濃煙和高溫溼熱觸發空氣質量預警，高溼度使煙霧顆粒滯留在空氣中，天空呈黃色。
+
+---
+
+### 2026-07-16 03:08:46  #其他
+
+STUBHUB股價暴跌12%，創3月初以來最大跌幅。
+
+---
+
+### 2026-07-16 03:04:52  #MKT News #Brent #Impact bullish #WTI
+
+Kuwait defense ministry spokesman said Iran's "aggressive actions" targeted multiple critical facilities, causing property damage but no casualties.
+
+---
+
+### 2026-07-16 03:04:33  #國際
+
+科威特表示，伊朗週三發動的襲擊造成設施受損，暫無人員傷亡。
+
+---
+
+### 2026-07-16 03:04:15  #MKT News #Brent #Impact bullish #XAUUSD #DXY
+
+Kuwait said its armed forces intercepted 4 cruise missiles and 21 drones from Iran on Wednesday.
+
+---
+
+### 2026-07-16 03:03:47  #國際
+
+科威特稱其武裝部隊週三攔截了來自伊朗的四枚巡航導彈和二十一架無人機。
+
+---
+
+### 2026-07-16 03:03:14  #其他
+
+巴西出口商協會CECAFE資料顯示，2025/26種植年度巴西羅布斯塔咖啡出口量為503萬袋（每袋60公斤），較上年下降23.5%。
+
+---
+
+### 2026-07-16 03:03:10  #其他
+
+巴西出口商協會CECAFE表示，2025/26作物年度巴西阿拉比卡咖啡出口量為2950萬袋（每袋60公斤），較上年同期下滑15.3%。
+
+---
+
+### 2026-07-16 03:03:05  #其他
+
+巴西出口商協會CECAFE表示，2025/26作物年度巴西生咖啡出口量為3453萬袋（每袋60公斤），較上年同期下降16.6%。
+
+---
+
+### 2026-07-16 03:03:01  #其他
+
+巴西出口商協會CECAFE表示，巴西6月羅布斯塔咖啡出口量為63.3478萬袋（每袋60公斤），較去年同期增長32.7%。
+
+---
+
+### 2026-07-16 03:02:56  #其他
+
+巴西出口商協會CECAFE表示，巴西6月阿拉比卡咖啡出口量為200萬袋（每袋60公斤），較上年同期增長9.6%。
+
+---
+
+### 2026-07-16 03:02:52  #其他
+
+巴西出口商組織CECAFE資料顯示，巴西6月生咖啡出口量為264萬袋（每袋60公斤），較去年同期增長14.4%。
+
+---
+
+### 2026-07-16 03:01:42  #MKT News #Hang Seng Index #Impact bullish
+
+Hang Seng Index futures night session closed 0.71% higher at 24,829, trading 148 points premium to the cash index.
+
+---
+
+### 2026-07-16 03:00:02  #市場
+
+恒指期貨夜盤收漲0.77%，報24843.19點，高水162.09點。
+
+---
+
+### 2026-07-16 02:59:18  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+【Iran parliament speaker says must remain prepared to defend national interests】On the evening of the 15th, Iranian parliament speaker Ghalibaf said Iran does not welcome war but must remain ready to fight to protect national security and interests. He urged use of diplomacy and negotiations to secure and consolidate those interests. Ghalibaf said memoranda of understanding are meaningful only when all terms are effective and implemented; if Iran cannot benefit, it has no obligation to comply. He added that, under the Supreme Leader's instructions, everyone must prepare for war, diplomacy, or both.
+
+---
+
+### 2026-07-16 02:59:12  #國際
+
+【伊朗議長稱為維護國家利益必須時刻做好準備】當地時間15日晚，伊朗議會議長卡利巴夫就戰事和國內最新情況釋出宣告。卡利巴夫稱，伊朗從未也不會歡迎戰爭，但為了維護國家安全和利益，必須時刻做好戰鬥準備，必須竭盡全力。卡利巴夫指出，伊朗也應該利用外交和談判的手段，以實現和鞏固國家利益。卡利巴夫表示，諒解備忘錄只有在所有條款都有效且正在執行時才具有意義。如果伊朗無法從諒解備忘錄中獲益，沒有理由遵守諒解備忘錄。卡利巴夫稱，伊朗每個人都有責任，根據最高領袖的指示，為戰爭、外交或為二者均做出努力。（央視）
+
+---
+
+### 2026-07-16 02:58:47  #國際
+
+知情人士透露，空中客車為應對交付延誤，將部分美國產 A350 機身零部件的運輸方式由海運改為空運。
+
+---
+
+### 2026-07-16 02:58:30  #其他
+
+檔案顯示，波音為避免 767 貨機 / 加油機生產線延期，已從佛羅里達州達赫航空透過空運運送零部件。
+
+---
+
+### 2026-07-16 02:57:17  #國際
+
+【報道：美國曾探討對古巴發動空中突擊的可能性】據多名瞭解相關討論的美國官員透露，美國曾探討可能對古巴採取何種軍事行動，其中包括由數千名陸軍士兵實施空中突擊的可能性。如果實施空中突擊，將由美國陸軍第101空降師執行。這些討論並不表明特朗普總統或五角大樓已經決定實施此類行動。
+
+---
+
+### 2026-07-16 02:54:57  #MKT News #Commodities #Energy #Brent #Impact bullish
+
+Brent crude futures settled at $84.95/bbl, up $0.22 or 0.26%.
+
+---
+
+### 2026-07-16 02:54:09  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Recent U.S. strikes on Iran lay groundwork for more intensive operations, officials say】Three U.S. officials said recent strikes were intended to force Iran to reopen the Strait of Hormuz and to degrade Iranian military capabilities the U.S. seeks to neutralize before mounting more complex operations. Officials added the strikes have widened Trump’s military options. The U.S. military said its latest airstrike targeted Iranian air-defense systems, coastal radar sites, missile and drone bases, small boats and other maritime assets. One U.S. official described the strikes as “shaping operations” to weaken Iran’s defenses and lay the groundwork for more intensive follow-on action.
+
+---
+
+### 2026-07-16 02:51:51  #MKT News
+
+TASNIM NEWS reported Iran's foreign ministry summoned the UK ambassador to Tehran to protest the UK's inclusion of the Islamic Revolutionary Guard Corps (IRGC) on a list under the Countering State Threats Act.
+
+---
+
+### 2026-07-16 02:50:05  #國際
+
+伊朗伊斯蘭共和國通訊社訊息：伊朗因英國將革命衛佇列為制裁物件召見英國駐伊大使。
+
+---
+
+### 2026-07-16 02:47:54  #MKT News #Important #WTI #Impact bullish #XAUUSD #DXY
+
+Three U.S. officials said recent U.S. strikes on Iran are expanding Washington's options to further escalate operations.
+
+---
+
+### 2026-07-16 02:47:34  #焦點 #國際
+
+三名美國官員：美國近期針對伊朗實施的打擊行動，擴充了美方後續可能升級衝突的應對手段。
+
+---
+
+### 2026-07-16 02:41:35  #國際
+
+【美國駐伊拉克埃爾比勒領館附近傳出爆炸聲】據伊拉克媒體15日報道，美國駐伊拉克埃爾比勒領館附近傳出爆炸聲，3架無人機被擊落，目前尚無人員傷亡或財產損失報告。（新華社）
+
+---
+
+### 2026-07-16 02:41:16  #MKT News
+
+【Explosion Heard Near U.S. Consulate in Erbil; Three Drones Shot Down, No Casualties Reported】Iraqi media reported on the 15th that an explosion was heard near the U.S. consulate in Erbil and three drones were shot down; there were no reports of casualties or property damage.
+
+---
+
+### 2026-07-16 02:40:28  #MKT News #Commodities #Precious Metals
+
+Spot platinum rose 3%.
+
+---
+
+### 2026-07-16 02:40:27  #MKT News
+
+【US media: Pentagon evaluated airstrike option against Cuba】CBS reported the Pentagon recently reviewed military plans targeting Cuba, including a large-scale air assault option involving the 101st Airborne Division. Insiders said review does not mean the Trump administration has decided to act. Heavy US deployments in the Middle East make action against Cuba less feasible. The US says it still prefers diplomatic and economic pressure to press for reforms in Cuba. The Pentagon declined to comment on hypothetical military operations.
+
+---
+
+### 2026-07-16 02:38:47  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+【Guterres deeply concerned by Middle East military escalation, urges immediate de‑escalation】At a July 15 noon briefing at UN headquarters in New York, UN spokesman Stéphane Dujarric said Secretary‑General António Guterres is deeply concerned about ongoing military escalation in the Middle East and urged all parties to take immediate steps to de‑escalate and return to dialogue and diplomacy. Guterres warned that a resumption of full hostilities would inflict unbearable civilian casualties and have catastrophic consequences for international peace, security and the global economy. He also called for full restoration of international navigation rights and freedoms in the Strait of Hormuz and adjacent waters and urged parties to respect navigation rights under international law.
+
+---
+
+### 2026-07-16 02:38:09  #國際
+
+美國國務卿魯比奧會見哥倫比亞當選副總統。
+
+---
+
+### 2026-07-16 02:37:38  #MKT News #Star Stocks #Microsoft #Market Themes #AI Revolution #Magnificent 7 #MSFT.O
+
+The Information reports Microsoft (MSFT.O)'s new security chief Haiyet Garrot has replaced at least eight executives who previously reported to former security head Charlie Bell, part of a push to overhaul the company's security structure and support its AI transition.
+
+---
+
+### 2026-07-16 02:37:25  #國際
+
+美國官員：古巴相關規劃並不意味著已經作出決定。
+
+---
+
+### 2026-07-16 02:37:15  #國際
+
+【古特雷斯對中東軍事升級深表關切 呼籲各方立即降級局勢】當地時間7月15日，聯合國秘書長發言人迪雅裡克在紐約聯合國總部舉行的午間例行記者會上表示，聯合國秘書長古特雷斯對中東地區持續升級的軍事局勢深感關切，呼籲所有各方立即採取措施推動局勢降級，重返對話和外交解決的軌道。古特雷斯重申，全面敵對行動一旦恢復，將給平民造成難以承受的傷亡，並對國際和平與安全以及全球經濟帶來災難性後果。古特雷斯再次呼籲，全面恢復霍爾木茲海峽及其周邊海域的國際航行權利和自由。各方必須依照國際法，尊重有關航行權利和自由。（央視新聞）
+
+---
+
+### 2026-07-16 02:36:36  #其他
+
+市場訊息：微軟新任安全負責人更換多名高管，推動 AI 安全全面改革。
+
+---
+
+### 2026-07-16 02:36:07  #MKT News
+
+【Trump says he won't set a deadline for strikes on Iran】Asked whether he would set a deadline for strikes on Iran, U.S. President Trump said he does not like setting deadlines, adding, "They basically know how this will play out. They'd better be honest."
+
+---
+
+### 2026-07-16 02:34:52  #MKT News #XAUUSD #Impact bullish #DXY #S&P500 #Impact bearish
+
+CBS reports the US explored the possibility of air strikes on Cuba.
+
+---
+
+### 2026-07-16 02:33:55  #國際
+
+【科威特一處美國軍事基地附近傳出爆炸聲】當地時間15日晚，總檯記者獲悉，科威特境內一處美國軍事基地附近傳出爆炸聲。初步評估顯示，美軍裝備和人員遭受嚴重損失。伊朗方面有訊息稱，伊朗針對相關目標的軍事行動仍在繼續。截至目前，上述內容尚未得到美國和科威特官方證實。（央視新聞）
+
+---
+
+### 2026-07-16 02:33:40  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7 #AAPL.O
+
+Apple (AAPL.O) raised AppleCare+ prices: Mac and iPad monthly plans increased by $0.50 and annual plans by $5; change applies to new subscribers only.
+
+---
+
+### 2026-07-16 02:33:19  #國際
+
+烏克蘭國防部長宣佈辭職。
+
+---
+
+### 2026-07-16 02:32:57  #國際
+
+市場訊息： 美國曾研究過對古巴發動空中打擊的可能性。
+
+---
+
+### 2026-07-16 02:31:15  #MKT News #Commodities #Precious Metals #Energy
+
+【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract was up 0.03% at 887 yuan/gram; Shanghai silver front-month contract was down 1.43% at 14,184 yuan/kg; SC crude front-month contract was down 0.02% at 518 yuan/barrel.
+
+---
+
+### 2026-07-16 02:31:08  #市場
+
+WTI 8月原油期貨收報79.60美元/桶。NYMEX 8月天然氣期貨收報2.9240美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3009美元/加侖，NYMEX 8月取暖油期貨收報3.9483美元/加侖。
+
+---
+
+### 2026-07-16 02:31:02  #MKT News #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Shanghai Gold Exchange gold T+D closed up 0.28% at 886.0 yuan/gram in the evening session on July 15 (Wednesday). Shanghai Gold Exchange silver T+D closed down 0.99% at 14,138.0 yuan/kg in the evening session on July 15 (Wednesday).
+
+---
+
+### 2026-07-16 02:31:02  #MKT News #Commodities #Energy #WTI #Impact bullish
+
+U.S. crude futures settled at $79.60/bbl, up $0.26, or 0.33%.
+
+---
+
+### 2026-07-16 02:30:03  #市場
+
+上期所原油期貨夜盤收跌0.02%，報517.70元人民幣/桶。滬金夜盤收漲0.03%，滬銀收跌1.42%。
+
+---
+
+### 2026-07-16 02:29:59  #Trading Economics #Markets #Crypto #Importance 1
+
+Crypto Updates: Ether Appreciates by 2.12% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 2.12% increase.
+
+---
+
+### 2026-07-16 02:29:57  #MKT News #WTI #Impact bullish #XAUUSD #DXY
+
+US President Trump on Iran said: 'They had better behave.'
+
+---
+
+### 2026-07-16 02:29:51  #國際
+
+特朗普談及伊朗：他們最好安分點。
+
+---
+
+### 2026-07-16 02:29:40  #焦點 #國際
+
+特朗普談伊朗：我不喜歡設定最後期限。
+
+---
+
+### 2026-07-16 02:29:39  #MKT News #Important
+
+Trump said he does not like setting deadlines on Iran.
+
+---
+
+### 2026-07-16 02:28:09  #MKT News
+
+【UK Labour leadership candidate Burnham says he would deal with Trump 'straightforwardly'】Andy Burnham, a candidate to lead the UK Labour Party, said if he becomes prime minister he would deal with US President Trump 'straightforwardly' and use his personal style to keep UK-US ties stable. He said Britain should respect the US presidency and the bilateral relationship but would make disagreements clear and 'communicate with him in Trump's way'. Trump previously called Burnham 'extremely liberal' and downplayed his political influence. Burnham is expected to be elected Labour leader unopposed on Thursday and to replace Starmer as prime minister next Monday. UK-US relations, strained by Iran-related tensions and stalled trade talks, will be a near-term challenge for him to repair.
+
+---
+
+### 2026-07-16 02:25:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Agricultural Commodities Updates: Wheat Spikes by 5.21% — Top commodity gainers are Wheat (5.21%), Canola (2.43%) and Corn (2.10%). Biggest loser is Lumber (-1.03%).
+
+---
+
+### 2026-07-16 02:25:05  #其他
+
+【“十五五”時期基本建成天空地海一體化生態環境監測網路】生態環境部、國家發展改革委近日聯合印發《生態環境監測“十五五”規劃》（以下稱為《規劃》），為未來五年我國生態環境監測工作劃定路線圖，也為美麗中國建設築牢監測根基。《規劃》提出，到2030年，現代化生態環境監測體系建設取得重要進展。基本建成天空地海一體化生態環境監測網路，國家監測網路實現體系化執行和數智化升級，央地監測網路協同佈局、互聯互通。新汙染物、重金屬、生態問題等風險預警監測能力基本形成，資料質量持續提高。到2035年，基本建成現代化監測體系，生態環境監測綜合實力達到國際先進水平。（央視新聞）
+
+---
+
+### 2026-07-16 02:23:23  #其他
+
+阿曼投資局：規模 52 億美元的阿曼未來基金公佈總值 17.44 億美元的一批專案。
+
+---
+
+### 2026-07-16 02:20:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Metals Commodities Updates: Platinum Gains by 2.22% — Top commodity gainers are Platinum (2.22%), Steel Rebar (0.84%) and Gold (0.36%). Biggest losers are Silver (-0.95%) and Silicon (-0.89%).
+
+---
+
+### 2026-07-16 02:17:01  #MKT News
+
+Security sources said a drone carrying explosives was shot down by air defenses over Erbil in northern Iraq.
+
+---
+
+### 2026-07-16 02:16:55  #MKT News
+
+The Israel Defense Forces said it conducted an airstrike in southern Lebanon, killing three Hezbollah fighters inside the designated military buffer zone.
+
+---
+
+### 2026-07-16 02:16:09  #MKT News #Brent #Impact mixed #WTI
+
+【India raises diesel and ATF export windfall taxes, cuts petrol export tax】India will change export windfall taxes on petroleum products from July 16. Diesel export windfall tax increased from 8.5 rupee per litre to 15.5 rupee per litre; aviation turbine fuel (ATF) export tax increased from 7.5 rupee per litre to 14.5 rupee per litre; petrol export tax reduced from 4 rupee per litre to 2.5 rupee per litre.
+
+---
+
+### 2026-07-16 02:15:19  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Natural Gas UK Gains by 3.07% — Top commodity gainers are Natural Gas UK (3.07%), Germany Natural Gas THE (2.79%) and Natural Gas EU (2.35%). Biggest losers are Heating Oil (-2.03%), Propane (-0.66%), Crude Oil WTI (-0.28%) and Brent Crude Oil (-0.19%).
+
+---
+
+### 2026-07-16 02:13:56  #國際
+
+以色列國防軍稱在黎巴嫩南部打死三名真主黨武裝人員。
+
+---
+
+### 2026-07-16 02:12:47  #MKT News #Macro & Rates #The Fed (FOMC) #DXY #Impact bullish #USDJPY #S&P500 #Impact mixed
+
+【FED'S BEIGE: Inflation modestly higher; firms still face cost pressure】The Fed's Beige reports U.S. price levels rose modestly. Of 12 Fed districts, nine reported moderate price increases, two reported stronger gains and one reported smaller gains; overall momentum was unchanged or slower versus the prior period. Higher energy, transport and raw-material costs lifted business input prices; some firms cited the Middle East conflict and tariffs as contributors. Consumer prices continued to climb and some firms reported margin compression. Outlooks on inflation diverged—some expect inflation to remain near current levels, while others said falling fuel prices could ease pressure.
+
+---
+
+### 2026-07-16 02:12:39  #國際
+
+印度上調航空燃油出口暴利稅，由每升 7.5 盧比上調至每升 14.5 盧比，7 月 16 日起生效。
+
+---
+
+### 2026-07-16 02:12:24  #國際
+
+印度下調汽油出口暴利稅，由每升 4 盧比降至每升 2.5 盧比，7 月 16 日起實施。
+
+---
+
+### 2026-07-16 02:12:04  #國際
+
+印度上調柴油出口暴利稅，從每升 8.5 盧比提高至每升 15.5 盧比，7 月 16 日起生效。
+
+---
+
+### 2026-07-16 02:10:52  #國際
+
+加拿大知情人士訊息：加拿大已達成協議，將以觀察員身份加入由日本、英國、義大利聯合推進的先進戰鬥機專案。該協議將於下週二範堡羅航展上正式公佈。
+
+---
+
+### 2026-07-16 02:10:52  #MKT News #Macro & Rates #US Economy #DXY #Impact bearish #S&P500 #Impact bullish #Copper
+
+【FED'S BEIGE: Employment Broadly Up, Wages Rose Modestly】FED'S BEIGE reports the U.S. labor market broadly expanded. Of 12 Fed districts, five saw job gains (ranging from mild to moderate-to-meaningful), seven were essentially unchanged; only one district showed an improvement versus the prior report. Employment gains were concentrated in manufacturing, construction and retail, while technicians and skilled trades remain hard to hire; a few districts reported limited job declines. Wages largely rose modestly to moderately, with some pay increases driven by competition for skilled labor. Several districts noted firms are increasingly using AI for candidate screening or to raise employee productivity.
+
+---
+
+### 2026-07-16 02:09:24  #MKT News #Macro & Rates #US Economy #The Fed (FOMC) #WTI #Impact mixed #XAUUSD #Impact bullish #S&P500
+
+【FED'S BEIGE: U.S. economy modestly expands; consumption pressured, fuel-cost outlook uncertain】FED'S BEIGE reports that between late May and June U.S. economic activity expanded slightly to moderately in 11 of 12 Fed districts, roughly in line with the prior period. High oil prices and fuel costs weighed on parts of consumer spending, prompting cuts to discretionary purchases and shifts toward lower-priced goods. Travel activity picked up, with World Cup-related flows boosting some regions. Manufacturing showed moderate growth, supported by increased orders for data centers, machinery and defense. Construction and real estate activity edged up, led by data-center building. Energy-sector drilling increased. Financial conditions were broadly stable; commercial and consumer lending rose modestly. Agriculture weakened amid falling commodity prices, rising input costs and tighter credit. Most contacts expect continued expansion in the coming months, but the outlook for fuel costs remains a significant uncertainty.
 
 ---
 
@@ -20997,673 +21507,5 @@ White House says it will establish an AI and cybersecurity coordination working 
 ### 2026-07-15 04:04:12  #國際
 
 美國白宮：美國將成立人工智慧與網路安全協調小組。
-
----
-
-### 2026-07-15 04:03:04  #MKT News #Important #SKHY.O #Impact bullish #MU.O #SNDK.O
-
-【US close: major indexes up; SK Hynix jumps over 27%】US equities closed higher on Tuesday: Dow +0.02%, S&P 500 +0.38%, Nasdaq +0.90%. SanDisk (SNDK.O) and Micron Technology (MU.O) rose ~5%; SK Hynix ADR (SKHY.O) surged 27.2%. Nasdaq Golden Dragon China Index -0.1%; Baidu (BIDU.O) -3.0%.
-
----
-
-### 2026-07-15 04:02:52  #公司 #焦點 #國際
-
-SK海力士ADR飆升27%，收盤時較韓國上市股票溢價51%。
-
----
-
-### 2026-07-15 04:02:21  #其他
-
-IBM股價收跌25%，市值蒸發690億美元。
-
----
-
-### 2026-07-15 04:01:25  #觀點
-
-花旗股價收跌5.3%，創2月12日以來最大單日跌幅。
-
----
-
-### 2026-07-15 04:01:04  #央行 #其他
-
-英國央行行長貝利：英國需要優先實現經濟增長。
-
----
-
-### 2026-07-15 04:01:02  #市場 #國際
-
-日本 5 月持有美國國債規模為 1.143 萬億美元，4 月為 1.210 萬億美元。
-
----
-
-### 2026-07-15 04:00:48  #市場 #焦點
-
-【美股收盤：三大股指集體收漲】道指漲0.02%，標普500指數漲0.38%，納指漲0.90%。CrowdStrike漲12.14%，高盛漲9.16%，Carvana Co.漲8.31%，ZS漲7.24%，戴爾漲7.13%。“七姐妹”方面：英偉達漲4.06%，谷歌漲1.90%，Meta Platforms漲0.66%，特斯拉漲0.36%，亞馬遜漲0.07%，蘋果跌0.77%，微軟跌1.55%。
-
----
-
-### 2026-07-15 04:00:29  #國際
-
-美國5月國際資本淨流入 1322億美元，前值由261億美元修正為766億美元。
-美國5月長期資本淨流入 2327億美元，前值由1031億美元修正為1048億美元。
-美國5月長期資本淨流入 2327億美元，前值由1031億美元修正為1048億美元。
-
----
-
-### 2026-07-15 04:00:27  #MKT News #Important #WTI #Impact bullish #Brent #DXY
-
-US military maritime blockade against Iranian ports and coastal areas has begun to take effect.
-
----
-
-### 2026-07-15 04:00:12  #MKT News #DXY #Impact bullish #S&P500 #US10Y #Impact bearish
-
-US net long-term capital inflows were $232.7 billion in May; the prior month was revised up to $104.8 billion from $103.1 billion.
-
----
-
-### 2026-07-15 04:00:09  #MKT News
-
-Foreign investors net bought $56.6bn of US Treasuries in May, up from $50.5bn previously.
-
----
-
-### 2026-07-15 04:00:09  #MKT News
-
-U.S. net international capital inflows in May: $132.2 bln; April revised from $26.1 bln to $76.6 bln.
-
----
-
-### 2026-07-15 04:00:03  #市場 #焦點
-
-【納斯達克中國金龍指數收跌0.08%】優品車跌9.02%，海天網路跌6.25%，金山雲跌6.21%，聲網跌4.68%，360數科跌4.22%。
-
----
-
-### 2026-07-15 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net Foreign Purchases of Treasury Securities (May) | actual 56600000000B | previous 50500000000B
-
----
-
-### 2026-07-15 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net LongTerm TIC Flows (May) | actual 232700000000B | previous 103100000000B
-
----
-
-### 2026-07-15 04:00:00  #MKT News #Economic Calendar #Important
-
-United States | Net LongTerm International Capital Flows (May) | actual 132200000000B | previous 26100000000B
-
----
-
-### 2026-07-15 03:59:57  #國際
-
-伊朗副外長：希望衝突範圍不會擴大，並警告相關各方，一旦衝突升級，將承受更為嚴重的後果。
-
----
-
-### 2026-07-15 03:59:31  #國際
-
-伊朗副外長：部分阿拉伯國家並未從四十日戰爭中吸取教訓，再度允許美軍進駐本國領土。
-
----
-
-### 2026-07-15 03:58:59  #國際
-
-伊朗副外長：伊朗仍有可能重返談判，並在霍爾木茲海峽問題上展現靈活立場。
-
----
-
-### 2026-07-15 03:56:34  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Mehr News Agency reports Hormozgan provincial government said a missile fired by US forces struck an area near Sirik in Hormozgan province, Iran; no damage to residential or commercial areas.
-
----
-
-### 2026-07-15 03:56:21  #央行 #國際
-
-美國製裁伊朗央行。
-
----
-
-### 2026-07-15 03:56:03  #MKT News #WTI #Impact bullish #Brent #DXY #Impact mixed
-
-U.S. Treasury issued a general license related to Iran and updated its sanctions list, adding 10 individuals, more than 20 entities and multiple vessels, and revising sanctions information on the Central Bank of Iran.
-
----
-
-### 2026-07-15 03:50:48  #宏觀 #國際
-
-美國財政部：美國涉伊朗通用許可允許逐步終止相關業務、開展特定交易，並解除安裝 7 月 14 日遭凍結的特定個人或船隻名下貨物。
-
----
-
-### 2026-07-15 03:50:08  #MKT News #Important #Market Regions #Europe & UK #GBPUSD
-
-Bank of England Governor Bailey to speak in 10 minutes.
-
----
-
-### 2026-07-15 03:50:03  #國際
-
-美國國防部長赫格塞思：美國計劃 9 月 30 日前從伊拉克撤軍。
-
----
-
-### 2026-07-15 03:49:20  #宏觀 #國際
-
-美國財政部官網：美國出臺針對伊朗的新一輪制裁措施。
-
----
-
-### 2026-07-15 03:49:13  #MKT News #Important #LCID.O #Impact bearish
-
-【Lucid denies privatization, Chapter 11 reports after shares plunge】Lucid Group (LCID.O) shares plunged more than 50% intraday, triggering multiple trading halts after 1:00 p.m. ET; they fell as much as 57% to $2.37 and were about 15% lower near the close. The company denied a blog post saying it was pursuing a privatization transaction or seeking U.S. Chapter 11 protection, calling the report "completely untrue." Lucid said it has sufficient liquidity to fund operations into next year, has not formed a special committee to consider the scenarios in the blog, and that restructuring adviser AlixPartners is assisting with execution and operations and has not recommended bankruptcy.
-
----
-
-### 2026-07-15 03:48:58  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Hormozgan provincial government said a US military strike hit an area near Sirik in southern Iran at about 2300 local time.
-
----
-
-### 2026-07-15 03:47:26  #MKT News #Brent #Impact bullish #XAUUSD #DXY
-
-Iranian state media cited the Bandar Abbas city government saying a US military strike hit areas around Bandar Abbas, a southern port city.
-
----
-
-### 2026-07-15 03:47:02  #國際
-
-市場訊息：美軍彈藥擊中伊朗阿巴斯港周邊區域。
-
----
-
-### 2026-07-15 03:44:33  #MKT News
-
-Court filings show the Writers Guild of America has filed suit seeking to block Paramount's acquisition of Warner Bros. Discovery (WBD.O).
-
----
-
-### 2026-07-15 03:43:50  #公司 #國際
-
-美國編劇工會提起訴訟，要求阻止派拉蒙收購華納兄弟探索公司。
-
----
-
-### 2026-07-15 03:43:04  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【CENTCOM confirms new strikes on Iran】CENTCOM said US forces began a fresh round of strikes on Iran at 15:00 US Eastern Time on July 14 (22:30 Tehran time). It said forces were preparing to reimpose a maritime blockade on Iranian ports and coastal areas, and that the blockade took effect at 16:00 US Eastern (23:30 Tehran). The US had on July 13 announced a third consecutive night of strikes and said it would restore the blockade on July 14 US Eastern Time. President Trump has formally notified Congress that hostilities with Iran have resumed.
-
----
-
-### 2026-07-15 03:41:33  #MKT News
-
-OpenAI said it supports competition and individuals’ freedom to choose where they work.
-
----
-
-### 2026-07-15 03:39:20  #國際
-
-【美軍對伊朗發動新一輪打擊】美軍中央司令部14日在社交媒體發文說，其部隊於美東時間當天15時對伊朗發動新一輪打擊。此次打擊正值美軍準備恢復對伊朗實施海上封鎖之際。封鎖將於美國東部時間當天16時生效。（新華社）
-
----
-
-### 2026-07-15 03:38:27  #MKT News #Star Stocks #Apple #Market Themes #Magnificent 7
-
-OpenAI said it has not found any evidence to support the allegations in Apple's lawsuit.
-
----
-
-### 2026-07-15 03:37:20  #宏觀 #公司 #國際
-
-【美國據悉支援伊拉克-敘利亞輸油管道專案 以削弱伊朗影響力】美國正在推進一項有關石油管道的談判，該管道將把伊拉克的石油輸送到敘利亞，由於避開了霍爾木茲海峽，因此將會削弱未來伊朗對全球能源供應的影響力。據知情人士透露，美國的敘利亞和伊拉克問題特使Thomas Barrack已召集兩國官員以及雪佛龍等公司進行討論，內容是重啟一條長期停用、從伊拉克通往敘利亞西海岸的管道。知情人士稱，儘管各方正在考慮多條新路線，但討論重點是重建已關閉20多年的基爾庫克至巴尼亞斯管道。美國國務院一名官員證實，美國政府支援伊拉克和敘利亞透過修復兩國之間的管道來加強貿易路線的努力，並預計美國公司將在其建設中發揮作用。週二早些時候，美國總統唐納德·特朗普在白宮會見了伊拉克總理阿里·扎伊迪，並表示將在本週或下週宣佈“龐大”的新石油夥伴關係。
-
----
-
-### 2026-07-15 03:36:32  #MKT News
-
-U.S. Defense Secretary Hegseth will testify at a hearing on July 21.
-
----
-
-### 2026-07-15 03:35:57  #MKT News #AAPL.O
-
-OpenAI said it takes the allegations in Apple's lawsuit seriously.
-
----
-
-### 2026-07-15 03:35:49  #國際
-
-美國國防部長赫格塞思將於 7 月 21 日出席參議院聽證會並作證。
-
----
-
-### 2026-07-15 03:34:31  #其他
-
-OpenAI 回應蘋果訴訟：我方高度重視相關指控。
-
----
-
-### 2026-07-15 03:34:17  #其他
-
-OpenAI：未發現任何證據可證明該申訴具備合理依據。
-
----
-
-### 2026-07-15 03:32:09  #其他
-
-【委內瑞拉強震遇難人數上升至4734人】當地時間14日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國日前發生的強震造成的遇難人數上升至4734人，受傷人數為16740人，12.83萬個家庭被救助，17907人無家可歸，強震發生後發生餘震1275次。（央視新聞）
-
----
-
-### 2026-07-15 03:31:06  #MKT News #Important #WTI #Impact bullish #Brent
-
-CENTCOM said at 3:00pm EDT on Tuesday the US launched a new round of strikes against Iran to degrade Tehran’s ability to attack commercial vessels in the Strait of Hormuz. A maritime blockade of Iranian ports and coastal areas will begin at 4:00pm EDT.
-
----
-
-### 2026-07-15 03:29:35  #焦點 #國際
-
-美國中央司令部：部隊於美國東部時間今日下午 3 時，發起新一輪針對伊朗的打擊行動，持續削弱伊朗用於襲擊霍爾木茲海峽商船的相關作戰能力。此次打擊行動開展之際，美軍正準備恢復對伊朗港口及沿海區域實施海上封鎖，該封鎖措施將於美國東部時間下午 4 時正式生效。
-
----
-
-### 2026-07-15 03:28:15  #宏觀 #國際
-
-美國國務院官員科扎克：美國不反對馬查多返回委內瑞拉， 正尋求敲定委內瑞拉大選時間的折中方案。
-
----
-
-### 2026-07-15 03:27:24  #國際
-
-伊朗副外長：倘若美國以為憑藉軍事打擊與封鎖就能迫使我方主動談判，那便是打錯了算盤。
-
----
-
-### 2026-07-15 03:26:39  #MKT News #Market Themes #AI Revolution #Macro & Rates #The Fed (FOMC)
-
-【Fed Governor Bowman says Fed should not over-intervene in banks' use of AI】Fed Governor Bowman said lenders understand innovation risks better and should be allowed to decide when to adopt AI and other new technologies. Speaking at a financial inclusion conference, Bowman said, "When and how to innovate is up to each bank and its management; they know their customers, communities and risk tolerance better than we do." He added the Fed should "set clear expectations, be transparent and refrain from intervening in individual business decisions related to innovation." Bowman’s remarks come as officials assess rapid AI developments, including Anthropic’s new Mythos model. Earlier at the same event, Fed Governor Barr said it remains unclear whether AI will reduce or exacerbate income and wealth inequality.
-
----
-
-### 2026-07-15 03:25:56  #國際
-
-市場訊息：伊朗阿巴斯港傳來爆炸聲。
-
----
-
-### 2026-07-15 03:24:25  #MKT News #Brent #Impact bullish #WTI #XAUUSD
-
-Iranian media report explosions were heard again on Qeshm Island and in Bandar Abbas.
-
----
-
-### 2026-07-15 03:22:06  #國際
-
-【伊朗西南部胡齊斯坦省首府傳出爆炸聲】當地時間14日晚獲悉，伊朗西南部胡齊斯坦省的首府阿瓦士傳出爆炸聲。（央視新聞）
-
----
-
-### 2026-07-15 03:21:56  #MKT News
-
-Iran's deputy foreign minister said the US is mistaken if it believes sanctions can force Tehran to proactively request negotiations.
-
----
-
-### 2026-07-15 03:20:07  #宏觀 #國際
-
-美國國務院官員科扎克出席國會聽證會併發言：委內瑞拉政府與反對派將磋商選舉相關議程。
-
----
-
-### 2026-07-15 03:16:30  #市場
-
-【芝加哥小麥期貨漲約1.4%】週二（7月14日）紐約尾盤，彭博穀物分類指數漲0.24%，報30.9322點。CBOT玉米期貨跌0.81%，CBOT小麥期貨漲1.38%。CBOT大豆期貨跌0.36%，報19.9050美元/蒲式耳，豆粕期貨漲0.38%，豆油期貨跌0.66%。ICE原糖期貨漲1.15%，ICE白糖期貨漲1.22%。ICE阿拉比卡咖啡期貨跌1.87%，咖啡“C”期貨跌0.91%。羅布斯塔咖啡期貨漲0.47%。紐約可可期貨漲1.61%，報5936美元/噸。倫敦可可期貨跌0.38%。芝加哥WCE雙低油菜籽期貨跌1.84%。ICE棉花期貨跌0.70%。
-
----
-
-### 2026-07-15 03:16:21  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-【U.S. backs reopening Iraq–Syria oil pipeline to blunt Iran's Strait of Hormuz leverage】The U.S. is advancing talks to reopen an oil pipeline linking Iraq and Syria that would bypass the Strait of Hormuz, aiming to reduce Iran's ability to disrupt global energy flows. Special envoy Thomas Barrack has convened Iraqi and Syrian officials and companies including Chevron to discuss restarting a long-dormant route; while multiple new-route options are under consideration, talks have focused on rebuilding the Kirkuk–Baniyas pipeline, out of service for more than 20 years. A U.S. State Department official said Washington is supporting repairs to expand trade corridors and expects U.S. firms to play a major role in construction. President Trump met Iraq's prime minister and said “large-scale” new oil cooperation would be announced this week or next.
-
----
-
-### 2026-07-15 03:15:56  #國際
-
-市場訊息：美國航空開通飛往馬拉開波的航線。
-
----
-
-### 2026-07-15 03:13:32  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Kuwait's military said it has intercepted one ballistic missile, five cruise missiles and 33 drones since this evening. It said an Iranian attack damaged multiple critical and civilian facilities, caused shrapnel damage at some sites and struck a Kuwaiti naval vessel, wounding four service members who are in stable condition.
-
----
-
-### 2026-07-15 03:12:19  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's deputy foreign minister said in the event of war Iran would assume full control of the Strait of Hormuz.
-
----
-
-### 2026-07-15 03:11:52  #MKT News #Brent #Impact mixed #XAUUSD
-
-Iran deputy foreign minister said the IRGC navy has completed mine-clearing in the northern Strait of Hormuz under a memorandum of understanding, but sea mines remain in the old channel.
-
----
-
-### 2026-07-15 03:11:38  #國際
-
-【科威特軍方第 72 號宣告】國防部官方發言人表示：自今日晚間至今，武裝部隊共計偵測到 1 枚彈道導彈、5 枚巡航導彈以及 33 架敵方無人機，上述來襲目標已全部攔截處置完畢。此次伊朗發動的襲擊針對多處重要基礎設施與民用設施，彈片散落於境內多地，造成財產損毀。另有一艘科威特海軍艦艇遭襲擊，4 名軍方人員受傷，傷者已接受全面醫療救治，目前傷情穩定。
-
----
-
-### 2026-07-15 03:10:40  #MKT News
-
-Blasts heard in Ahvaz, Khuzestan province, southern Iran, according to Iranian media Fars News.
-
----
-
-### 2026-07-15 03:10:33  #市場
-
-在岸人民幣兌美元（CNY）北京時間03:00收報6.7730元，較週一夜盤收盤漲80點。成交量511.25億美元。
-
----
-
-### 2026-07-15 03:10:30  #MKT News
-
-Iran's deputy foreign minister said Iran has planned a new shipping route for Omani vessels.
-
----
-
-### 2026-07-15 03:10:16  #國際
-
-伊朗法爾斯通訊社訊息：伊朗南部阿瓦士地區傳出爆炸聲。
-
----
-
-### 2026-07-15 03:10:01  #國際
-
-伊朗副外長： 阿曼轄區附近一條新的南部航道已投入使用，該航道侵犯了我方在霍爾木茲海峽的主權。 根據相關協議，伊朗革命衛隊海軍已在霍爾木茲海峽北部開展掃雷作業，但海峽原有航道仍布有水雷。
-
----
-
-### 2026-07-15 03:08:38  #焦點 #國際
-
-據IRIB：伊朗伊斯蘭革命衛隊稱目標是在巴林和科威特的美國資產。
-
----
-
-### 2026-07-15 03:08:13  #國際
-
-伊朗副外長：我方已為阿曼船隻規劃了一條新航道。
-
----
-
-### 2026-07-15 03:07:47  #國際
-
-伊朗副外長：伊朗無意侵犯阿曼主權。
-
----
-
-### 2026-07-15 03:06:09  #MKT News
-
-A U.S. judge has blocked the Trump administration from enforcing visa restrictions targeting researchers who study social-media misinformation.
-
----
-
-### 2026-07-15 03:06:08  #MKT News #Commodities #Energy
-
-The revised bill provides that countries whose imports of Russian natural gas account for less than 15% of Russia's total gas exports and that are taking significant steps to reduce those imports may be granted an exemption.
-
----
-
-### 2026-07-15 03:05:27  #國際
-
-伊朗副外長：霍爾木茲海峽屬於 “伊朗國家安全範疇”。
-
----
-
-### 2026-07-15 03:05:02  #其他
-
-標普道瓊斯指數：擬於 2027 年 9 月指數調整生效時實施行業重新分類。
-
----
-
-### 2026-07-15 03:03:44  #國際
-
-美國一名法官裁定，阻止特朗普政府推行一項針對社交媒體虛假資訊研究人員的簽證限制政策。
-
----
-
-### 2026-07-15 03:03:41  #MKT News #Commodities #Energy #WTI #Impact bullish #Brent
-
-Revised bill would cap tariffs on buyers of Russian oil and gas at up to 100%, down from a previously proposed flat 500% tariff.
-
----
-
-### 2026-07-15 03:03:41  #MKT News #Hang Seng Index #Impact bullish
-
-Hang Seng Index futures night session closed up 0.18% at 24,400, trading 59 points above the cash index.
-
----
-
-### 2026-07-15 03:03:14  #市場
-
-阿根廷國家統計與普查局（INDEC）資料：6 月阿根廷消費者物價指數環比上漲 1.9%。
-
----
-
-### 2026-07-15 03:02:25  #MKT News #WTI #Impact bearish #Brent
-
-A US bill on sanctions targeting Russia includes a provision allowing President Trump to waive related sanctions if he determines a waiver is in the US national interest.
-
----
-
-### 2026-07-15 03:01:41  #國際
-
-美國參議員公佈經特朗普與已故參議員格雷厄姆磋商修訂後的俄羅斯制裁法案全文。
-
----
-
-### 2026-07-15 03:01:23  #國際
-
-美國參議院修訂版俄羅斯制裁法案放寬了擬對俄羅斯油氣採購方徵收的關稅限制。
-
----
-
-### 2026-07-15 03:01:20  #MKT News #WTI #Impact bullish #Brent
-
-Iran's deputy foreign minister said the Strait of Hormuz is part of Iran's national security.
-
----
-
-### 2026-07-15 03:01:07  #國際
-
-修訂版法案調整了針對俄羅斯油氣採購方的關稅政策：對前五大采購國徵收的最高附加關稅由全額 500% 下調至最高 100%。
-
----
-
-### 2026-07-15 03:00:56  #焦點 #國際
-
-美俄製裁法案規定，對於從俄羅斯進口天然氣佔俄天然氣出口總量比例不足 15%、且已採取實質性舉措削減該類進口的國家，可適用制裁豁免條款。
-
----
-
-### 2026-07-15 03:00:41  #國際
-
-美俄製裁法案授權特朗普，若其認定此舉符合美國國家利益，即可豁免相關制裁。
-
----
-
-### 2026-07-15 03:00:23  #國際
-
-【伊朗革命衛隊：對巴林及科威特的美軍基地實施打擊】伊朗伊斯蘭革命衛隊公共關係部當地時間14日釋出宣告，稱數小時前，革命衛隊對位於巴林和科威特的美軍基地發動導彈和無人機同步襲擊。宣告稱，革命衛隊摧毀了巴林謝赫伊薩美軍基地艦艇和飛機的多個彈藥庫和零部件倉庫。此外，革命衛隊還襲擊了科威特阿里·薩利姆美軍基地的MQ-9無人機的發射平臺，摧毀或損壞了多架無人機。 (央視新聞)
-
----
-
-### 2026-07-15 03:00:02  #市場
-
-恒指期貨夜盤收漲0.15%，報24393.36點，高水52.63點。
-
----
-
-### 2026-07-15 02:58:35  #央行 #國際
-
-【鮑曼稱美聯儲不應就人工智慧等事宜對銀行實施微觀管控】美聯儲負責監管的副主席米歇爾·鮑曼表示，應允許貸款機構自主決定何時採用人工智慧這類新技術。鮑曼提出，美聯儲應當“設定清晰監管預期、保持政策透明，不對和創新相關的企業個體經營決策實施微觀管控”。美聯儲理事邁克爾·巴爾稱，人工智慧究竟會縮小還是加劇收入與財富不平等尚且無法定論，未來的貧富分化走向取決於人類如何運用人工智慧技術。
-
----
-
-### 2026-07-15 02:57:19  #MKT News #S&P500 #Impact bullish
-
-Fed Governor Bowman said the Fed should not micro-manage banks on issues such as artificial intelligence.
-
----
-
-### 2026-07-15 02:56:58  #其他
-
-【德意志銀行法蘭克福分行遭德國當局突擊搜查】法蘭克福檢察官辦公室在宣告中稱，德國執法人員週二搜查了德意志銀行法蘭克福總部的一家零售分行。檢方一名發言人表示，出於調查相關原因，無法披露更多細節。德意志銀行物業過去曾多次遭到搜查，不過執法行動並不總是針對該行本身。這家德國最大的銀行定於7月29日公佈第二季度業績。
-
----
-
-### 2026-07-15 02:56:37  #MKT News #Brent #Impact bullish #WTI
-
-Iran's deputy foreign minister said Tehran will defend its sovereignty in the Strait of Hormuz at any cost.
-
----
-
-### 2026-07-15 02:56:24  #焦點 #國際
-
-伊朗副外長表示，無論付出何種代價，我們都將在霍爾木茲海峽行使主權。
-
----
-
-### 2026-07-15 02:53:30  #國際
-
-伊朗革命衛隊：襲擊了科威特阿里薩勒姆空軍基地的無人機停機坪，今日發動的襲擊是對美國襲擊伊朗的回應。
-
----
-
-### 2026-07-15 02:52:37  #MKT News #Commodities #Energy #Brent #Impact bullish
-
-Brent crude futures settled at $84.73 a barrel, up $1.43, or 1.72%.
-
----
-
-### 2026-07-15 02:52:05  #市場
-
-布倫特原油期貨收於每桶84.73美元，上漲1.43美元，漲幅1.72%。
-
----
-
-### 2026-07-15 02:51:51  #國際
-
-美國公共衛生團體、兒科醫生與家長聯盟起訴美國食品藥品監督管理局，指控其允許未獲授權的電子煙與尼古丁袋營銷的政策。
-
----
-
-### 2026-07-15 02:48:38  #國際
-
-伊朗革命衛隊：打擊了位於巴林和科威特境內的敵方武器及零部件存放設施。
-
----
-
-### 2026-07-15 02:48:16  #國際
-
-伊朗：戰時必須控制整個霍爾木茲海峽。
-
----
-
-### 2026-07-15 02:47:45  #MKT News #WTI #Impact bullish #Brent
-
-Iran's Islamic Revolutionary Guard Corps said that so long as what it called the US's "evil actions" in the region persist, there will be no oil or gas exported from the region.
-
----
-
-### 2026-07-15 02:47:27  #國際
-
-美國力推伊拉克—敘利亞輸油管道專案，意在削弱伊朗對霍爾木茲海峽的掌控力。
-
----
-
-### 2026-07-15 02:47:10  #國際
-
-伊朗：美軍不停止犯罪，反擊就持續，再次侵略將迎來強力回擊；只要美軍在中東作惡，地區油氣出口全面中斷，霍爾木茲海峽通航恢復將無限推遲。
-
----
-
-### 2026-07-15 02:46:59  #國際
-
-伊朗革命衛隊：伊方出動海空力量，同步用導彈、無人機襲擊兩處美軍基地，此次行動報復美軍當日早些時候襲擊伊朗沿海軍事據點的行為。
-
----
-
-### 2026-07-15 02:45:11  #國際
-
-一名美國官員表示，美國近期對伊朗發動的空襲是為“消除正在浮現的威脅”。
-
----
-
-### 2026-07-15 02:45:08  #MKT News #Important #Macro & Rates #The Fed (FOMC)
-
-Federal Reserve Governor Bowman will speak in 10 minutes at the Fed's annual financial inclusion conference.
-
----
-
-### 2026-07-15 02:44:56  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-Iran's Islamic Revolutionary Guard Corps said reopening of the Strait of Hormuz will be delayed as long as the United States continues its actions.
-
----
-
-### 2026-07-15 02:44:45  #MKT News #WTI #Impact bullish #Brent
-
-Iran's Islamic Revolutionary Guard Corps (IRGC) said in the third round of "Operation Promise 2" it launched missile and drone strikes on Bahrain's Sheikh Isa base and Kuwait's Ali Al Salem base, striking ammunition facilities, ship and aircraft parts warehouses, and an MQ-9 drone facility.
-
----
-
-### 2026-07-15 02:43:54  #其他
-
-巴基斯坦總理：強烈譴責胡塞武裝針對沙烏地阿拉伯南部地區發動的彈道導彈襲擊，此類襲擊侵犯沙特主權，巴基斯坦對沙特安全給予“堅定不移的支援”。
-
----
-
-### 2026-07-15 02:43:12  #國際
-
-【美官員稱美軍正對伊朗發動新一輪空襲】央視記者當地時間14日獲悉，一名美國官員證實，美軍正在對伊朗發動新一輪空襲，相關行動已持續數小時。（央視新聞）
-
----
-
-### 2026-07-15 02:41:49  #國際
-
-一名美國官員透露，美軍已於週二早些時候對伊朗境內的多處軍事目標發動了額外打擊。
-
----
-
-### 2026-07-15 02:41:11  #MKT News
-
-U.S. President Trump said acting Attorney General Todd Blanche "has performed outstandingly" and urged the Senate to promptly confirm him as the permanent attorney general.
-
----
-
-### 2026-07-15 02:40:31  #MKT News #WTI #Impact bullish #XAUUSD #DXY
-
-According to CNBC, citing US officials, the US military on Tuesday carried out multiple additional strikes on Iranian military targets aimed at eliminating an emerging threat.
-
----
-
-### 2026-07-15 02:39:18  #其他
-
-LUCID股票恢復交易，股價跌幅收窄至23%。
-
----
-
-### 2026-07-15 02:39:03  #國際
-
-特朗普敦促共和黨參議員確認布蘭奇擔任司法部長。
 
 ---
