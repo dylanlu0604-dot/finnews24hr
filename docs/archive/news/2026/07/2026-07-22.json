@@ -1,7 +1,27 @@
 {
   "date": "2026-07-22",
-  "count": 342,
+  "count": 344,
   "items": [
+    {
+      "id": "5000912",
+      "time": "2026-07-22 05:41:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方稱其防空部隊目前正在攔截伊朗無人機。"
+    },
+    {
+      "id": "mkt:019f86a0-1554-7aab-8e32-cc9bc8c048f6",
+      "time": "2026-07-22 05:41:05",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Kuwait's military says its air-defence system is currently intercepting Iranian drones."
+    },
     {
       "id": "5000911",
       "time": "2026-07-22 05:35:01",
