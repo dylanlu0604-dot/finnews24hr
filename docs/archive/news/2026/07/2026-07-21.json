@@ -1,7 +1,134 @@
 {
   "date": "2026-07-21",
-  "count": 3256,
+  "count": 3270,
   "items": [
+    {
+      "id": "5000667",
+      "time": "2026-07-21 23:22:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國官員：英國不會透過發行戰爭債券來籌集國防資金。"
+    },
+    {
+      "id": "mkt:019f8545-a531-7aab-8e2d-c4561b1b41c8",
+      "time": "2026-07-21 23:22:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "A spokesperson for UK Prime Minister Braverman said the government is \"prepared\" for all eventualities regarding Thames Water and will consider new proposals on the company."
+    },
+    {
+      "id": "5000666",
+      "time": "2026-07-21 23:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗迫切希望會面。"
+    },
+    {
+      "id": "5000665",
+      "time": "2026-07-21 23:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將考察試點區域內的相關問題。"
+    },
+    {
+      "id": "mkt:019f8544-e631-7aab-8e2d-bac6b2a0f535",
+      "time": "2026-07-21 23:21:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A spokesperson for UK Prime Minister Burnham said the UK will not issue war bonds to finance defence."
+    },
+    {
+      "id": "mkt:019f8544-a0a7-7aab-8e2d-b21906e13196",
+      "time": "2026-07-21 23:21:34",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Indian refiners absorb record Russian crude; India ports received >2.3m bpd last month】Indian refiners are helping Russian exporters absorb record crude supplies, with large volumes routed to the South Asian market. Vessel-tracking data show India ports received Russian crude at an average of more than 2.3 million bpd last month; deliveries July-to-date are near that level. Where shipments were nearly zero before the Russia-Ukraine war, India has become a major buyer, easing seaborne build-ups. US sanctions still target some major Russian producers, but buyers continue to source Russian crude and exports have risen since sanctions introduced late last year, often via intermediaries."
+    },
+    {
+      "id": "5000664",
+      "time": "2026-07-21 23:21:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將談及黎巴嫩軍隊接管真主黨撤離村莊相關事宜。"
+    },
+    {
+      "id": "mkt:019f8544-9817-7aab-8e2d-ab7d536c073f",
+      "time": "2026-07-21 23:21:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Israel is redeploying to other areas."
+    },
+    {
+      "id": "5000663",
+      "time": "2026-07-21 23:21:18",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見澳大利亞外長黃英賢】中共中央政治局委員、外交部長王毅21日在馬尼拉會見澳大利亞外長黃英賢。\n王毅表示，在兩國領導人共同引領下，中澳關係走上改善發展正軌，這符合兩國人民利益，符合國際社會期待。中方願同澳方加強交往，積累互信，拓展合作，推動中澳關係不斷取得新進展。雙方應秉持平等尊重態度妥處分歧，聚同化異，讓雙邊關係實現良性迴圈、向上發展，而不是被某些偏見所幹擾破壞。希望澳方堅持不干涉內政原則，摒棄雙重標準，同中方相向而行，維護好兩國關係改善勢頭。\n黃英賢表示，澳方重視對華關係，堅定奉行一箇中國政策，不支援“臺獨”。澳方願同中方落實好兩國領導人達成的重要共識，密切各層級交往，推進互利合作，透過對話接觸妥處矛盾分歧，推動澳中關係健康穩定發展。一個和平、穩定、繁榮的亞太符合澳中共同利益。澳方將支援中方辦好今年亞太經合組織領導人非正式會議。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8544-4c9b-7aab-8e2d-a1653037a70f",
+      "time": "2026-07-21 23:21:13",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "U.S. President Trump said Israel is withdrawing forces from Lebanon."
+    },
+    {
+      "id": "mkt:019f8543-6ba5-7aab-8e2d-9fa2407ee5b2",
+      "time": "2026-07-21 23:20:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Venezuela's Ministry of Health said there is no scientific evidence of human-to-human transmission of hantavirus in the country."
+    },
+    {
+      "id": "5000662",
+      "time": "2026-07-21 23:19:29",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見加拿大外長阿南德】中共中央政治局委員、外交部長王毅21日在馬尼拉會見加拿大外長阿南德。\n王毅表示，今年以來，中加關係持續向好發展，各層級交往日益密切，各領域合作成果湧現。上半年雙邊貿易額同比增長16%，特別是加方對華出口增長23.3%。加油菜籽、牛肉等農產品重返中國市場，中國電動汽車進入加方市場，為兩國民眾提供更多優質選擇。事實證明，中加關係改善發展符合兩國共同利益，受到兩國人民歡迎，是歷史正確的選擇。中方願同加方一道，落實兩國領導人重要共識，籌備好下階段高層交往，增進政治互信，拓展交流合作，加強在全球治理、人工智慧等多邊事務協作，妥處分歧敏感問題，不斷豐富中加新型戰略伙伴關係內涵，為變亂交織的世界注入更多確定性。\n阿南德表示，對華關係是加方最重視的雙邊關係之一。當前加中關係改善發展勢頭良好強勁。雙方積極落實今年1月卡尼總理訪華期間兩國領導人會晤共識，各層級交往日趨熱絡，經貿合作不斷深化，特別是加方對華出口實現增長，兩國構建新型戰略伙伴關係不斷取得新成果。加方堅定奉行一箇中國政策，願同中方進一步密切高層交往，深化能源、貿易、金融、禁毒等領域互利合作，促進人文交流，加強多邊協調，透過對話消弭分歧，推動加中關係長期健康穩定發展。\n雙方還就共同關心的國際和地區問題交換意見。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8542-7155-7aab-8e2d-931a86c44e18",
+      "time": "2026-07-21 23:19:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump said if the Red Sea is blocked, he would have to address related matters."
+    },
+    {
+      "id": "5000661",
+      "time": "2026-07-21 23:18:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "有訊息稱蘋果將攜手 Klarna 推出 “Upgrade” 裝置租賃計劃以提振銷量，Klarna 股價上漲 7.9%。"
+    },
     {
       "id": "5000660",
       "time": "2026-07-21 23:18:28",
