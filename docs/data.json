@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-22 00:10:02",
-  "count": 18265,
+  "updated": "2026-07-22 00:14:07",
+  "count": 18247,
   "items": [
+    {
+      "id": "te:markets:568609",
+      "time": "2026-07-22 00:12:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 0.81% Higher — The FTSE MIB Index gained 422 points or 0.81 percent on Tuesday to close at 52285 points. Gains were led by STMicroelectronics (4.34%), Prysmian (4.20%) and Finecobank (1.96%). Biggest losers were Diasorin (-3.96%), Infrastrutture Wire (-2.58%) and Amplifon (-2.27%)."
+    },
+    {
+      "id": "5000715",
+      "time": "2026-07-22 00:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國空襲威脅推升霍爾木茲海峽地緣風險】凱氏預測市場資料顯示，交易員預期霍爾木茲海峽航運受阻狀況將持續至 2027 年；市場認為，在 2026 年 12 月之前航運恢復正常的機率僅 31%。 美國總統唐納德・特朗普稱，美國 “很快” 將打擊伊朗納坦茲核設施附近的鎬山區域。這座防禦高度堅固的地點關聯伊朗核計劃，衝突升級可能性上升，或將對全球能源市場造成衝擊。"
+    },
+    {
+      "id": "te:markets:568608",
+      "time": "2026-07-22 00:11:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 0.66% Higher — The DAX Index went up by 165 points or 0.66 percent on Tuesday to close at 25011 points. The rise was led by Infineon (5.84%), Siemens Energy (3.60%) and Fresenius Medical Care (2.39%). On the downside, the weakerst performers were Munich RE (-3.17%), Hannover Rueck (-2.92%) and Siemens Healthineers (-2.07%)."
+    },
+    {
+      "id": "5000714",
+      "time": "2026-07-22 00:11:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【供電瓶頸制約美國AI資料中心建設】人工智慧的快速發展正在推動美國大型資料中心建設潮持續升溫。然而，美國輸電系統老化且效率低下，面對資料中心的高耗電量，美國電網承受巨大壓力。美國紐約州近日就暫停了大型資料中心建設的審批。美國媒體指出，電力供應瓶頸也制約著美國的資料中心建設。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5000713",
+      "time": "2026-07-22 00:10:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "Adobe 股價跌 3%，摩根士丹利將目標價由 365 美元下調至 240 美元。"
+    },
+    {
+      "id": "te:markets:568607",
+      "time": "2026-07-22 00:10:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.28% Higher — The CAC 40 Index rose 23 points or 0.28 percent on Tuesday to close at 8363 points. Leading the gains are STMicroelectronics (4.34%), Societe Generale (2.37%) and TotalEnergies SE (2.12%). Top losers were Danone (-2.30%), Eurofins Scientific SE (-2.03%) and Publicis (-1.90%)."
+    },
+    {
+      "id": "5000712",
+      "time": "2026-07-22 00:09:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列國防軍：黎巴嫩軍隊闖入黎巴嫩境內飛行員相關區域，以軍士兵向空中鳴槍示警，無人受傷。"
+    },
+    {
+      "id": "mkt:019f8570-bd6c-7aab-8e2f-125cccd27401",
+      "time": "2026-07-22 00:09:45",
+      "tags": [
+        "MKT News",
+        "BA.N",
+        "Impact bullish"
+      ],
+      "text": "White House says Royal Jordanian Airlines has ordered Boeing (BA.N) 787-9 jets from the United States."
+    },
+    {
+      "id": "mkt:019f8570-a3c7-7aab-8e2f-0bd738b3ef98",
+      "time": "2026-07-22 00:09:39",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "ISRAELI MILITARY says it fired on Lebanese army forces that entered an area not covered by the agreement."
+    },
     {
       "id": "te:markets:568606",
       "time": "2026-07-22 00:07:18",
@@ -167814,273 +167904,6 @@
         "國際"
       ],
       "text": "特朗普談及伊朗制裁豁免政策：我對此毫不後悔。"
-    },
-    {
-      "id": "4988234",
-      "time": "2026-07-15 00:13:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "監管機構稱，奈及利亞養老金資產暴漲51%，至228億美元。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607153806222784",
-      "time": "2026-07-15 00:13:57",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席沃什表示 更高的通脹是不可接受的】美聯儲主席沃什表示，更高的通脹是不可接受的，美聯儲旨在實現價格穩定，我們擁有工具。"
-    },
-    {
-      "id": "mkt:019f6167-fedf-7aab-8d84-b38a2b9898c5",
-      "time": "2026-07-15 00:13:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state media reported explosions heard in Andimeshk, Khuzestan province, southern Iran."
-    },
-    {
-      "id": "4988233",
-      "time": "2026-07-15 00:13:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：未來一段時間，我們會就動用工具實現物價穩定的必要性規模與時機展開一番激烈的內部爭論。"
-    },
-    {
-      "id": "mkt:019f6167-9bde-7aab-8d84-aab94f207554",
-      "time": "2026-07-15 00:13:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said the Fed aims to achieve price stability and has the tools to do so."
-    },
-    {
-      "id": "mkt:019f6167-8565-7aab-8d84-a2fc3e476212",
-      "time": "2026-07-15 00:13:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said higher inf is unacceptable."
-    },
-    {
-      "id": "4988231",
-      "time": "2026-07-15 00:13:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們有意實現價格穩定，我們也具備所需政策工具。"
-    },
-    {
-      "id": "mkt:019f6167-5cf8-7aab-8d84-9f4b800ef5ff",
-      "time": "2026-07-15 00:13:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh, asked how to achieve price stability, said the Fed will not abandon its commitment to price stability."
-    },
-    {
-      "id": "4988230",
-      "time": "2026-07-15 00:13:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "伊拉克總理扎伊迪就歐佩克表態：我們需要為伊拉克爭取公平份額。"
-    },
-    {
-      "id": "4988229",
-      "time": "2026-07-15 00:12:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及格雷厄姆參議員離世一事：我真希望他當初能多保重身體，但他身上出現的病症實際上極難提前察覺。"
-    },
-    {
-      "id": "em:qqyh_ygyh:202607153806214845",
-      "time": "2026-07-15 00:12:38",
-      "tags": [
-        "央行",
-        "英國央行"
-      ],
-      "text": "英國財政部預計英國央行將在2026年至少加息一次。"
-    },
-    {
-      "id": "mkt:019f6166-c8d2-7aab-8d84-9263ca5cd9f7",
-      "time": "2026-07-15 00:12:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Fed Chair Kevin Warsh said any agreement with international counterparts must serve the U.S. economy."
-    },
-    {
-      "id": "4988228",
-      "time": "2026-07-15 00:12:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息：安迪梅什克地區傳來爆炸聲。"
-    },
-    {
-      "id": "te:markets:566889",
-      "time": "2026-07-15 00:12:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.10% Higher — The FTSE MIB Index gained 53 points or 0.10 percent on Tuesday to close at 52863 points. Gains were led by Prysmian (3.09%), Fincantieri (2.66%) and Avio (2.04%). Biggest losers were Infrastrutture Wire (-2.99%), Davide Campari-Milano (-1.60%) and Brunello Cucinelli (-1.46%)."
-    },
-    {
-      "id": "mkt:019f6166-5635-7aab-8d84-88c1b70f369f",
-      "time": "2026-07-15 00:12:04",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chairman Kevin Warsh said the U.S. needs a highly competitive, diversified banking system."
-    },
-    {
-      "id": "4988227",
-      "time": "2026-07-15 00:12:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們與國際同行達成的任何協議都必須服務於美國經濟。"
-    },
-    {
-      "id": "4988226",
-      "time": "2026-07-15 00:11:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普被問及伊拉克是否退出歐佩克時表示：我支援伊拉克總理。"
-    },
-    {
-      "id": "4988225",
-      "time": "2026-07-15 00:11:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們需要一個極具競爭力、多元化的銀行體系。"
-    },
-    {
-      "id": "mkt:019f6165-d40d-7aab-8d84-80e7c3fc0a72",
-      "time": "2026-07-15 00:11:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said he does not like the idea of charging fees for use of the Strait of Hormuz."
-    },
-    {
-      "id": "4988224",
-      "time": "2026-07-15 00:11:26",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "高盛執行長聲稱，（美國）經濟具備“出色的靈活應變能力”，能夠在遭遇衝擊後自行調整。"
-    },
-    {
-      "id": "te:markets:566888",
-      "time": "2026-07-15 00:11:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.13% Higher — The DAX Index went up by 33 points or 0.13 percent on Tuesday to close at 25147 points. The rise was led by Brenntag (2.40%), Siemens Energy (2.28%) and Zalando (1.95%). On the downside, the weakerst performers were Scout24 (-3.71%), Siemens Healthineers (-3.54%) and SAP (-3.08%)."
-    },
-    {
-      "id": "mkt:019f6165-8527-7aab-8d84-7c82041dbbc3",
-      "time": "2026-07-15 00:11:10",
-      "tags": [
-        "MKT News",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500",
-        "Copper"
-      ],
-      "text": "Goldman Sachs CEO Solomon said capital investment in technology is a trend, not a bubble."
-    },
-    {
-      "id": "mkt:019f6165-58f7-7aab-8d84-76238dcf739a",
-      "time": "2026-07-15 00:10:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "UK Treasury expects that, if the US-Iran conflict escalates further, oil prices could reach $150 per barrel."
-    },
-    {
-      "id": "mkt:019f6165-502d-7aab-8d84-68ad82c37234",
-      "time": "2026-07-15 00:10:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "GBPUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "The UK Treasury expects the Bank of England to raise rates at least once in 2026."
-    },
-    {
-      "id": "4988223",
-      "time": "2026-07-15 00:10:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我不贊成徵收霍爾木茲海峽通行費這一方案。"
-    },
-    {
-      "id": "4988222",
-      "time": "2026-07-15 00:10:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我不認為格雷厄姆的死因有任何“邪惡”之處。"
-    },
-    {
-      "id": "4988221",
-      "time": "2026-07-15 00:10:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：海灣國家的投資遠勝於收取運輸費。"
     }
   ]
 }
