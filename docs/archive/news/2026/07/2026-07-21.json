@@ -1,7 +1,130 @@
 {
   "date": "2026-07-21",
-  "count": 1969,
+  "count": 1983,
   "items": [
+    {
+      "id": "mkt:019f83cd-be39-7aab-8e22-c6c37338fe32",
+      "time": "2026-07-21 16:32:06",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index"
+      ],
+      "text": "Hong Kong June composite CPI YoY 2.0% (consensus 2.2%); May 2.0%."
+    },
+    {
+      "id": "mkt:019f83cd-a0cd-7aab-8e22-bdda29ca2a0f",
+      "time": "2026-07-21 16:31:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Hong Kong | Composite CPI (YoY) (Jun) | actual 2% | consensus 2.2% | previous 2.00%"
+    },
+    {
+      "id": "4999772",
+      "time": "2026-07-21 16:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元收盤報6.7668，較上一交易日上漲2點。"
+    },
+    {
+      "id": "4999771",
+      "time": "2026-07-21 16:31:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空總裁蒂姆·克拉克表示：我們已於9月將777-9型客機的測試飛機調至迪拜，之後工程人員將拆解發動機，檢測其執行狀況。"
+    },
+    {
+      "id": "4999770",
+      "time": "2026-07-21 16:30:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "香港6月消費者物價同比上漲2.0%，預計增長2.2%。"
+    },
+    {
+      "id": "4999769",
+      "time": "2026-07-21 16:30:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【影視颶風旗下公司去年增資】據媒體報道，近日，影視颶風針對網路流傳的惡意評價作出公開回應。事件源頭來自一位博主發的網友評論，該評論稱”影視颶風就是公司一群員工陪老闆演鬆弛感白人”。天眼查App顯示，影視颶風關聯公司杭州星奧傳媒有限公司成立於2016年8月，法定代表人為潘天鴻，註冊資本約105.3萬人民幣，經營範圍包括廣播電視節目製作經營、文藝創作、電影攝製服務等，由潘天鴻、潘水苗、趙敏等共同持股。對外投資資訊顯示，該公司對外投資3家企業，其中2家處於存續狀態。值得一提的是，去年7月，該公司旗下杭州風瞳傳媒有限公司發生工商變更，註冊資本由50萬人民幣增至100萬人民幣。"
+    },
+    {
+      "id": "4999767",
+      "time": "2026-07-21 16:30:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國瓷材料今日漲19.99% 4家機構專用席位淨賣出2.35億元】國瓷材料今日漲19.99%，成交額61.00億元，換手率13.15%，盤後龍虎榜資料顯示，深股通專用席位買入4.35億元並賣出5.65億元，有4家機構專用席位淨賣出2.35億元。"
+    },
+    {
+      "id": "te:markets:568518",
+      "time": "2026-07-21 16:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Increases by 1.89% — Top crypto gainers are XRP (1.89%), Ether (1.88%) and Bitcoin (1.44%)."
+    },
+    {
+      "id": "4999766",
+      "time": "2026-07-21 16:30:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【滙豐策略師警示美股回撥風險 財報季後建議減持股票】滙豐銀行首席多資產策略師馬克斯・凱特納表示，本輪財報季過後，股票投資者應當適度降低持倉風險。他警示，市場情緒過熱、財政刺激效應消退疊加美國中期選舉不確定性，可能引發股市回撥。自 3 月中旬起凱特納一直維持股票最高超配倉位，他稱當前市場持倉與情緒指標已接近 2021 年經濟重啟行情時期的水平，且美國部分信用卡資料已顯現居民消費走弱跡象。他提到，“大而美”法案帶來的財政刺激力度堪比 2009 年金融危機救市方案，相關利好集中釋放於 2026 年上半年，後續增量支撐空間有限。凱特納表示：“我預計一個月至一個半月後財報季落幕、中期選舉臨近之際，將是適度減倉避險的合適時點。”"
+    },
+    {
+      "id": "4999765",
+      "time": "2026-07-21 16:29:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺積電美股盤前漲超3%。"
+    },
+    {
+      "id": "4999764",
+      "time": "2026-07-21 16:29:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤旗下深圳創新發展公司增資至62.45億】天眼查App顯示，近日，華潤創新發展（深圳）有限公司發生工商變更，註冊資本由60.2億人民幣增至62.45億人民幣。該公司成立於2017年8月，法定代表人為張福政，經營範圍包括企業管理諮詢、資訊諮詢服務等，由華潤資本管理有限公司、華潤生命科學集團有限公司共同持股。"
+    },
+    {
+      "id": "4999763",
+      "time": "2026-07-21 16:28:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【五洲特紙：控股股東及一致行動人減持股份實施結果公告】五洲特紙公告稱，截至2026年7月20日，減持計劃披露的減持時間區間屆滿。控股股東、實際控制人、董事長兼總經理趙磊透過大宗交易方式累計減持435.4萬股，佔總股本0.92%，未完成減持84.6萬股，減持總金額5469.05萬元；其一致行動人嘉興雲藍透過集中競價交易累計減持110.13萬股，佔0.23%，減持總金額1729.32萬元，已完成減持計劃。"
+    },
+    {
+      "id": "te:economy:568517",
+      "time": "2026-07-21 16:28:10",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Greece",
+        "Current Account",
+        "Importance 1"
+      ],
+      "text": "Greece Current Account Deficit Widens Sharply — Greece’s current account deficit widened sharply to €0.960 billion in May 2026 from €0.004 billion in the corresponding month a year earlier. The primary income deficit expanded to €0.751 billion from €0.327 billion. At the same time, the secondary income balance posted a deficit of €0.395 billion, compared with a surplus of €0.515 billion a year earlier, driven largely by a significant decrease in receipts from both the general government and other sectors. Meanwhile, the goods account deficit narrowed to €2.115 billion from €2.362 billion as exports surged 21.2%, outpacing a 9.6% increase in imports. The services account surplus also widened to €2.300 billion from €2.170 billion. In the January–May period, the country recorded a current account deficit of €8.936 billion, up from €7.303 billion in the same period last year."
+    },
+    {
+      "id": "4999762",
+      "time": "2026-07-21 16:28:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【德明利今日漲5.20% 華泰上海武定路席位淨賣出5.54億元】德明利今日漲5.20%，成交額188.35億元，換手率24.62%，盤後龍虎榜資料顯示，深股通專用席位買入4.58億元並賣出4.76億元，有1家機構專用席位淨賣出8856.61萬元，華泰上海武定路席位淨賣出5.54億元。"
+    },
     {
       "id": "4999761",
       "time": "2026-07-21 16:27:21",
