@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-21 23:48:41",
-  "count": 18317,
+  "updated": "2026-07-21 23:52:44",
+  "count": 18316,
   "items": [
+    {
+      "id": "5000706",
+      "time": "2026-07-21 23:50:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達詳解下一代AI專用Vera CPU 稱速度是其他CPU的兩倍多】英偉達發文稱，DeepInfra的基準測試結果顯示，NVIDIA Vera CPU的速度是其他CPU的兩倍多，並且能夠支援更多併發的AI代理。雲平臺DeepInfra是NVIDIA開放AI生態系統的早期體驗參與者，獨立設計並執行了基於其生產型AI代理基礎設施的基準測試。DeepInfra每週處理近五萬億個代幣，其中約30%由代理系統驅動。其雲平臺專為高通量AI推理而建。基準測試顯示，在相同服務質量下，支援最多1.6倍的併發AI代理，協同速度高達2.2倍，同時提升基礎設施利用率和成本效益。這些結果表明，NVIDIA Vera CPU 能夠實現生產代理人工智慧所需的成本效益、低延遲和吞吐量。隨著AI代理承擔更復雜的推理、規劃、工具使用和資料流動，CPU效能在圍繞每次模型呼叫的協調工作中變得越來越重要。作為英偉達對AI工廠極端聯合設計策略的一部分，Vera CPU專為代理性工作負載設計。DeepInfra的基準測試強調了NVIDIA Vera CPU如何幫助雲服務提供商提升基礎設施利用率、提高成本效率，並在相同服務質量下支援更多併發的AI代理。"
+    },
+    {
+      "id": "5000705",
+      "time": "2026-07-21 23:50:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "ICE 英國 8 月天然氣期貨收於 144.57 便士 / 撒姆。"
+    },
+    {
+      "id": "mkt:019f855e-fafb-7aab-8e2e-d3d1df50e370",
+      "time": "2026-07-21 23:50:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China foreign minister Wang Yi meets Malaysian foreign minister Muhammad】China foreign minister Wang Yi met Malaysia’s foreign minister Muhammad in Manila on July 21. Wang urged early completion of consultations on a South China Sea Code of Conduct, based on the Declaration on the Conduct of Parties in the South China Sea, saying it would help preserve peace and stability in the South China Sea and East Asia and keep regional affairs in regional hands, denying external powers opportunities to stir trouble. He asked Malaysia to act as a coordinating country for China‑ASEAN relations and offered closer China‑Malaysia communication to keep China‑ASEAN ties at the forefront and to model unity among Global South states."
+    },
+    {
+      "id": "mkt:019f855e-b478-7aab-8e2e-c9c04a4795cd",
+      "time": "2026-07-21 23:50:03",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump says Iran \"found a gap\" in Jordan】At a White House meeting with Lebanese President Aoun, Trump said the U.S. military is “weakening” Iran’s military capability “to an unprecedented degree” and acknowledged Iran “found a gap” in Jordan, saying if “other operators” had been present the incident would not have occurred; he did not specify who he meant. The U.S. military said last week two U.S. service members were killed and four were wounded and evacuated for treatment after Iranian missile and drone strikes on Jordan."
+    },
+    {
+      "id": "te:markets:568599",
+      "time": "2026-07-21 23:49:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Rises Led by Infineon — Frankfurt’s DAX 40 rose 0.7% to above 25,000 on Tuesday, supported by a rebound in global technology stocks as investors positioned for major earnings releases. The US tech sector led the recovery, with the Nasdaq 100 gaining 1.5% as companies linked to artificial intelligence continued to attract demand. Semiconductor maker Infineon jumped 5.6%, benefiting from renewed interest in chip stocks following stronger export data from South Korea and Taiwan. Siemens Energy also advanced nearly 4% as investors focused on its role in supplying power infrastructure for expanding data centres. Industrials were among the strongest performers, with Siemens gaining almost 2% and Airbus rising 1.3%. Banks also moved higher, while healthcare stocks received a boost after Swiss pharmaceutical group Novartis reported better-than-expected second quarter sales and earnings."
+    },
+    {
+      "id": "5000704",
+      "time": "2026-07-21 23:48:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客ADR漲3.4%，重新整理日高。"
+    },
     {
       "id": "mkt:019f855c-3126-7aab-8e2e-c35db470fcea",
       "time": "2026-07-21 23:47:19",
@@ -168482,77 +168540,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：監管機構協同施策時，監管政策方能發揮最佳效用。"
-    },
-    {
-      "id": "mkt:019f6154-2831-7aab-8d83-b9b83e195b13",
-      "time": "2026-07-14 23:52:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said he is prepared to do everything he can to ensure the independence of monetary policy."
-    },
-    {
-      "id": "4988178",
-      "time": "2026-07-14 23:51:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士在美國上市的第三個交易日大漲】受半導體相關股票普遍上漲的影響，SK海力士的美國存託憑證在其上市後的第三個交易日一度上漲高達20%。SK海力士股價在週一下跌9.3%，週二的反彈使其自上週四定價149美元以來的累計漲幅超過20%。費城證券交易所半導體指數一度上漲高達4%，美國最大的儲存晶片製造商美光上漲6.2%注：此前，SK海力士股價兩日暴跌逾20% AI交易有退潮之兆。"
-    },
-    {
-      "id": "mkt:019f6153-6036-7aab-8d83-b6649a3bd1c1",
-      "time": "2026-07-14 23:51:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said a broader price-stability goal remains on his mind; he will assess whether further reforms are needed and hopes price moves will quiet public discussion."
-    },
-    {
-      "id": "4988177",
-      "time": "2026-07-14 23:50:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場資訊：英偉達H200晶片出貨量“極少”。"
-    },
-    {
-      "id": "4988176",
-      "time": "2026-07-14 23:50:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：更廣泛的價格穩定目標仍在我的考量之中，我們將觀察是否還需要推出進一步改革。"
-    },
-    {
-      "id": "4988175",
-      "time": "2026-07-14 23:49:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：堅持2%的通脹目標不動搖。"
-    },
-    {
-      "id": "mkt:019f6151-42b5-7aab-8d83-ae492ca531b6",
-      "time": "2026-07-14 23:49:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Federal Reserve Chair Warsh said he will firmly support a 2% inf target."
     }
   ]
 }
