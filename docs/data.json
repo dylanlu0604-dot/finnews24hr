@@ -1,7 +1,49 @@
 {
-  "updated": "2026-07-22 03:52:10",
-  "count": 18074,
+  "updated": "2026-07-22 03:56:14",
+  "count": 18077,
   "items": [
+    {
+      "id": "5000843",
+      "time": "2026-07-22 03:54:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，在新任總司令的領導下，烏克蘭將繼續對俄羅斯發動縱深打擊。"
+    },
+    {
+      "id": "mkt:019f863d-d6a8-7aab-8e31-4d1abd7fc448",
+      "time": "2026-07-22 03:53:47",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "ZELENSKIY said Ukraine, under its new armed forces commander-in-chief, will continue to conduct deep strikes on Russian targets."
+    },
+    {
+      "id": "5000842",
+      "time": "2026-07-22 03:53:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：我實在搞不清勞埃德・奧斯汀（上任防長）任職四年都做了些什麼。真的不清楚。我們接手相關工作時發現，各類問題積重難返，思維僵化、官僚主義現象十分嚴重，情況令人震驚。"
+    },
+    {
+      "id": "mkt:019f863c-14e5-7aab-8e31-430339031039",
+      "time": "2026-07-22 03:51:52",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Gen. Dan Kain, chairman of the U.S. Joint Chiefs of Staff, said the U.S. conflict with Iran has cost about $37.5 billion to date."
+    },
     {
       "id": "5000841",
       "time": "2026-07-22 03:50:47",
@@ -166190,19 +166232,6 @@
         "國際"
       ],
       "text": "美國製裁伊朗央行。"
-    },
-    {
-      "id": "mkt:019f6233-6594-7aab-8d88-ce0f432477ed",
-      "time": "2026-07-15 03:56:03",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "U.S. Treasury issued a general license related to Iran and updated its sanctions list, adding 10 individuals, more than 20 entities and multiple vessels, and revising sanctions information on the Central Bank of Iran."
     }
   ]
 }
