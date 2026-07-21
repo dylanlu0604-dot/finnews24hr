@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-22 02:38:02",
-  "count": 18078,
+  "updated": "2026-07-22 02:41:53",
+  "count": 18075,
   "items": [
+    {
+      "id": "5000785",
+      "time": "2026-07-22 02:40:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思將對參議院委員會表示五角大樓急需資金， 赫格塞思擬申請 20 億美元，用於賠付作戰中損毀、遺失的裝備。"
+    },
+    {
+      "id": "5000784",
+      "time": "2026-07-22 02:39:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社援引以色列 14 頻道訊息：有關位於麥納麥的以色列大使館遭到襲擊的報道，相關資訊尚未得到證實，事件正在調查當中。"
+    },
     {
       "id": "mkt:019f85f7-7803-7aab-8e30-6ad967d53756",
       "time": "2026-07-22 02:36:55",
@@ -166232,50 +166248,6 @@
         "國際"
       ],
       "text": "【美官員稱美軍正對伊朗發動新一輪空襲】央視記者當地時間14日獲悉，一名美國官員證實，美軍正在對伊朗發動新一輪空襲，相關行動已持續數小時。（央視新聞）"
-    },
-    {
-      "id": "4988417",
-      "time": "2026-07-15 02:41:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美國官員透露，美軍已於週二早些時候對伊朗境內的多處軍事目標發動了額外打擊。"
-    },
-    {
-      "id": "mkt:019f61ee-dd41-7aab-8d87-bfba286b9d41",
-      "time": "2026-07-15 02:41:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. President Trump said acting Attorney General Todd Blanche \"has performed outstandingly\" and urged the Senate to promptly confirm him as the permanent attorney general."
-    },
-    {
-      "id": "mkt:019f61ee-3f76-7aab-8d87-b4ac09143b87",
-      "time": "2026-07-15 02:40:31",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "According to CNBC, citing US officials, the US military on Tuesday carried out multiple additional strikes on Iranian military targets aimed at eliminating an emerging threat."
-    },
-    {
-      "id": "4988416",
-      "time": "2026-07-15 02:39:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "LUCID股票恢復交易，股價跌幅收窄至23%。"
-    },
-    {
-      "id": "4988415",
-      "time": "2026-07-15 02:39:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普敦促共和黨參議員確認布蘭奇擔任司法部長。"
     }
   ]
 }
