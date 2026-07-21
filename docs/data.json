@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-22 00:22:16",
-  "count": 18220,
+  "updated": "2026-07-22 00:26:23",
+  "count": 18204,
   "items": [
+    {
+      "id": "5000720",
+      "time": "2026-07-22 00:23:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長與法國外長通話討論霍爾木茲海峽局勢。"
+    },
+    {
+      "id": "5000719",
+      "time": "2026-07-22 00:23:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴基斯坦總理呼籲中東戰事各方保持克制】巴基斯坦總理夏巴茲21日呼籲中東戰事相關方保持克制，避免採取可能導致地區局勢繼續惡化的行動。據巴基斯坦總理辦公室發表的宣告，夏巴茲當天在伊斯蘭堡會見到訪的伊朗內政部長伊斯坎德爾·莫梅尼時表示，巴方致力於維護地區和平與穩定，並將繼續進行斡旋，幫助緩解地區緊張局勢。莫梅尼表示，此次訪巴旨在加強雙邊關係。他對巴方積極促成伊美達成諒解備忘錄表示讚賞。莫梅尼當天還會見了巴陸軍參謀長穆尼爾，雙方重申保持密切協調合作，維護地區安全和繁榮。（新華社）"
+    },
+    {
+      "id": "5000718",
+      "time": "2026-07-22 00:22:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "多倫多股指持續走高，漲幅達 1%."
+    },
     {
       "id": "mkt:019f857a-38f8-7aab-8e2f-1c0abc014f5c",
       "time": "2026-07-22 00:20:07",
@@ -167466,196 +167490,6 @@
         "XAUUSD"
       ],
       "text": "Fed Chair Kevin Warsh said US households have long borne unnecessary hardship from elevated inflation."
-    },
-    {
-      "id": "mkt:019f6173-414b-7aab-8d85-475883d545b4",
-      "time": "2026-07-15 00:26:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he is committed to the Fed's dual mandate."
-    },
-    {
-      "id": "mkt:019f6173-2a4e-7aab-8d85-3a60ac47b815",
-      "time": "2026-07-15 00:26:05",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said once the Fed has a concrete plan to address inf, it will make a clear public announcement."
-    },
-    {
-      "id": "mkt:019f6173-1858-7aab-8d85-33f3c4991b75",
-      "time": "2026-07-15 00:26:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "KEVIN WARSH said he will not pre-judge the C.BANK's interest-rate decision."
-    },
-    {
-      "id": "mkt:019f6173-045b-7aab-8d85-2d974565f473",
-      "time": "2026-07-15 00:25:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh, chair of the Federal Reserve, said the Fed overwhelmingly focuses on the broad macro picture (digits to the left of the decimal) but will occasionally monitor small movements in the data (digits to the right of the decimal)."
-    },
-    {
-      "id": "4988265",
-      "time": "2026-07-15 00:25:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：將不折不扣落實充分就業的目標。"
-    },
-    {
-      "id": "mkt:019f6172-b1bb-7aab-8d85-271086323aee",
-      "time": "2026-07-15 00:25:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact mixed",
-        "Brent"
-      ],
-      "text": "【Trump says no one should charge for Strait of Hormuz transit】US President Trump told reporters on Tuesday he believes no one should charge fees for ships transiting the Strait of Hormuz, saying he dislikes the concept of user fees even as the US protects the waterway. On Monday he had said the US would charge a 20% fee."
-    },
-    {
-      "id": "4988264",
-      "time": "2026-07-15 00:25:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：當我們就解決通脹的具體方法釋出相關訊息時，定會向大家明確說明。"
-    },
-    {
-      "id": "4988263",
-      "time": "2026-07-15 00:25:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：尚未討論對印度實施二級制裁。"
-    },
-    {
-      "id": "mkt:019f6172-247e-7aab-8d85-1d688addeef4",
-      "time": "2026-07-15 00:24:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Trump said he is considering adding Iran and Lebanon's HEZBOLLAH to a Russia sanctions bill."
-    },
-    {
-      "id": "4988262",
-      "time": "2026-07-15 00:24:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲大部分工作成效體現在小數點左側。\n注：此處意指美聯儲政策的主要影響體現為整體就業、產出等整數級的核心宏觀指標變動，而非小數點後精細的利率微調幅度。"
-    },
-    {
-      "id": "mkt:019f6171-c06e-7aab-8d85-11a5a59e9091",
-      "time": "2026-07-15 00:24:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "A senior US Commerce Department export-controls official said regulatory measures on chips and AI are about to be issued."
-    },
-    {
-      "id": "4988261",
-      "time": "2026-07-15 00:24:06",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：不會提前預判委員會對利率的決議。"
-    },
-    {
-      "id": "4988260",
-      "time": "2026-07-15 00:23:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：這份對俄製裁法案大機率能夠落地。"
-    },
-    {
-      "id": "4988259",
-      "time": "2026-07-15 00:23:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：針對俄羅斯的制裁法案或將一併納入對真主黨、伊朗的相關制裁條款。"
-    },
-    {
-      "id": "4988258",
-      "time": "2026-07-15 00:23:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談俄羅斯制裁法案：可能會把伊朗也加進去。"
-    },
-    {
-      "id": "4988257",
-      "time": "2026-07-15 00:22:52",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們偶爾不得不把小數點向右挪位（將政策利率上調）。"
-    },
-    {
-      "id": "mkt:019f6170-0138-7aab-8d85-0f17d00acee6",
-      "time": "2026-07-15 00:22:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said Thursday's speech will address election issues."
-    },
-    {
-      "id": "te:markets:566891",
-      "time": "2026-07-15 00:22:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Rebounds Slightly — The DAX 40 erased early losses to close marginally higher at 25,147 on Tuesday amid a rebound in tech stocks and easing oil prices after President Trump dropped the proposed 20% fee on cargo transiting the Strait of Hormuz. Sentiment was further supported by softer-than-expected US inflation data, which reduced expectations of further Federal Reserve rate hikes, and strong second-quarter earnings from major US banks. Utilities, retailers, banks, chemical companies, tech and industrials were among the top performers, offsetting weakness in software, pharmaceutical, and travel and leisure stocks."
-    },
-    {
-      "id": "4988256",
-      "time": "2026-07-15 00:22:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：週四演講將談及選舉事宜。"
     }
   ]
 }
