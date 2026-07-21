@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-22 01:52:21",
-  "count": 18102,
+  "updated": "2026-07-22 01:56:16",
+  "count": 18100,
   "items": [
+    {
+      "id": "5000765",
+      "time": "2026-07-22 01:55:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【CoreWeave執行長：公司正在大規模部署AI基礎設施】CoreWeave執行長稱，公司正在大規模部署AI基礎設施，公司在構建AI原生雲方面走在正確的道路上，此外，隨著AI雲收入增長，折舊的會計影響將減小。"
+    },
+    {
+      "id": "mkt:019f85d0-e5ea-7aab-8e30-02bca70b17e0",
+      "time": "2026-07-22 01:54:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to the Wall Street Journal, CoreWeave's CEO said the company is deploying AI infrastructure at scale and building an AI-native cloud, and that as AI cloud revenue grows the accounting impact from depreciation is expected to shrink."
+    },
+    {
+      "id": "mkt:019f85cf-c5cb-7aab-8e2f-fd767e7baab3",
+      "time": "2026-07-22 01:53:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Security sources said three explosive-laden drones were shot down near the U.S. consulate in Erbil, Iraq."
+    },
+    {
+      "id": "5000764",
+      "time": "2026-07-22 01:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：三架搭載爆炸物的無人機在伊拉克埃爾比勒美國領事館附近被擊落。"
+    },
     {
       "id": "mkt:019f85cd-9382-7aab-8e2f-f06a551d2c74",
       "time": "2026-07-22 01:51:10",
@@ -166441,58 +166479,6 @@
         "國際"
       ],
       "text": "伊朗最高國家安全委員會副秘書巴加埃：我方在言辭與行動上均不得對敵人展現任何妥協與寬容。"
-    },
-    {
-      "id": "4988380",
-      "time": "2026-07-15 01:56:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡：與以色列以往歷次戰爭一樣，這場復興之戰彰顯了我國年輕一代非凡的力量。本屆政府深思熟慮、果敢決斷，循序漸進地打擊那些妄圖毀滅我們的勢力。"
-    },
-    {
-      "id": "4988379",
-      "time": "2026-07-15 01:55:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "LUCID股價下跌幅度收窄至45%。"
-    },
-    {
-      "id": "4988378",
-      "time": "2026-07-15 01:55:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "法蘭克福檢察院搜查德意志銀行分支機構。"
-    },
-    {
-      "id": "mkt:019f61c4-946b-7aab-8d87-2546845e2517",
-      "time": "2026-07-15 01:55:00",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's defense ministry spokesman said the armed forces are taking measures to respond to aerial attacks."
-    },
-    {
-      "id": "4988377",
-      "time": "2026-07-15 01:54:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗向科威特、巴林發射導彈和無人機。"
-    },
-    {
-      "id": "4988376",
-      "time": "2026-07-15 01:53:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "Lucid聘請重組諮詢機構AlixPartners對公司開展評估。"
     }
   ]
 }

@@ -1,7 +1,45 @@
 {
   "date": "2026-07-22",
-  "count": 94,
+  "count": 98,
   "items": [
+    {
+      "id": "5000765",
+      "time": "2026-07-22 01:55:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【CoreWeave執行長：公司正在大規模部署AI基礎設施】CoreWeave執行長稱，公司正在大規模部署AI基礎設施，公司在構建AI原生雲方面走在正確的道路上，此外，隨著AI雲收入增長，折舊的會計影響將減小。"
+    },
+    {
+      "id": "mkt:019f85d0-e5ea-7aab-8e30-02bca70b17e0",
+      "time": "2026-07-22 01:54:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "According to the Wall Street Journal, CoreWeave's CEO said the company is deploying AI infrastructure at scale and building an AI-native cloud, and that as AI cloud revenue grows the accounting impact from depreciation is expected to shrink."
+    },
+    {
+      "id": "mkt:019f85cf-c5cb-7aab-8e2f-fd767e7baab3",
+      "time": "2026-07-22 01:53:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Security sources said three explosive-laden drones were shot down near the U.S. consulate in Erbil, Iraq."
+    },
+    {
+      "id": "5000764",
+      "time": "2026-07-22 01:52:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：三架搭載爆炸物的無人機在伊拉克埃爾比勒美國領事館附近被擊落。"
+    },
     {
       "id": "mkt:019f85cd-9382-7aab-8e2f-f06a551d2c74",
       "time": "2026-07-22 01:51:10",
