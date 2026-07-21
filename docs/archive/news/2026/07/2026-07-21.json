@@ -1,7 +1,121 @@
 {
   "date": "2026-07-21",
-  "count": 762,
+  "count": 775,
   "items": [
+    {
+      "id": "mkt:019f826e-eb8b-7aab-8e19-61f0e2e57bd3",
+      "time": "2026-07-21 10:08:55",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "A-share aviation and airport sector firmed; Juneyao Airlines rose over 3%. Baiyun Airport, Shanghai Airport, Spring Airlines, China Eastern Airlines, Air China and China Southern Airlines also advanced."
+    },
+    {
+      "id": "4998846",
+      "time": "2026-07-21 10:08:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打擊美軍在科威特基地的“海馬斯”系統】據伊朗方面當地時間21日訊息，為回應美軍對伊朗的襲擊，伊朗陸軍地面部隊用地對地導彈打擊了美軍在科威特阿里夫堅基地的“海馬斯”高機動性火箭炮系統。"
+    },
+    {
+      "id": "mkt:019f826d-f77f-7aab-8e19-5fddde7fa9dd",
+      "time": "2026-07-21 10:07:52",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it struck US HIMARS at Kuwait Arifjan base】Iran said on the 21st (local time) that, in response to a US attack on Iran, its ground forces fired surface-to-surface missiles at a US HIMARS high-mobility rocket artillery system at Kuwait's Camp Arifjan."
+    },
+    {
+      "id": "mkt:019f826d-5e6c-7aab-8e19-50d6eda21665",
+      "time": "2026-07-21 10:07:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korean stocks rebound after two-day slide; won retreats from 10-week high】South Korean stocks rallied on Tuesday after a two-day selloff, with chip names leading gains and the Korean won easing from a 10-week high. The KOSPI rose over 3% on Tuesday after a 10.5% decline across the prior two sessions; the index is down more than 25% from its June 22 record high. Citigroup analysts said the pullback was driven mainly by foreign equity investors rebalancing and profit-taking, but they believe foreign selling is moderating as signs of dip-buying emerge and that KOSPI valuations are at historically low levels, presenting a buying opportunity."
+    },
+    {
+      "id": "4998845",
+      "time": "2026-07-21 10:07:09",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【東吳證券：頭部券商集中大勢明確 尾部出清加速分化】東吳證券釋出研報稱，對標美、日成熟市場發展歷程，國內證券行業長期預計將延續頭部集中、強者恆強的演化趨勢，疊加政策持續推動一流投行建設背景下併購整合常態化，高壁壘業務資源持續向龍頭聚攏，頭部大型券商業績穩定性與長期成長空間顯著佔優。參考美、日成熟市場分層發展經驗，國內證券行業將形成三層穩態格局：①頭部券商依託雄厚資本佈局重資本、跨境業務，打造全能型航母券商;②區域中型券商立足本地或深耕細分賽道，走精品化路線;③尾部券商盈利承壓，或將被併購或收縮至基礎通道業務。"
+    },
+    {
+      "id": "4998844",
+      "time": "2026-07-21 10:06:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "PVC連續主力合約日內跌1%，現報4560.00元。"
+    },
+    {
+      "id": "4998843",
+      "time": "2026-07-21 10:06:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶：上半年GDP同比增長4.2%】據重慶市統計局，根據地區生產總值統一核算結果，上半年重慶市地區生產總值16702.17億元，按不變價格計算，同比增長4.2%。其中，第一產業增加值705.16億元，同比增長4.1%；第二產業增加值5649.04億元，同比增長2.2%；第三產業增加值10347.97億元，同比增長5.3%。"
+    },
+    {
+      "id": "4998842",
+      "time": "2026-07-21 10:06:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【瑞銀：升海螺水泥評級至“中性” 降目標價至18.2港元】瑞銀髮布研報稱，中國水泥行業僅處於結構性需求下行週期的中段，但見底證據日益明顯，預期行業的盈利能力將在今年見底，並自2027年起輕微復甦。該行考慮到海螺水泥(00914)的估值溢價已大致變得正常，風險回報更趨平衡，故將其評級由“沽售”上調至“中性”，但目標價由21.4港元下調至18.2港元。該行將海螺水泥2026及27年盈利預測下調16%及5%，分別至71億及75億元人民幣。該行又將PO-42.5水泥平均售價預測下調至每噸345元人民幣，以反映低價競爭持續，但預期動力煤價格將由今年的每噸750元人民幣降至2027年的720元人民幣，相信燃料成本下降有助利潤逐步回升。"
+    },
+    {
+      "id": "4998841",
+      "time": "2026-07-21 10:06:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信達證券：產品差異化+精準品牌運營驅動成長 杯壺賽道轉型升級關鍵期 】信達證券釋出研報稱，我國作為全球保溫杯核心生產國，具備完善產業鏈、成熟研發製造與原創設計能力，但終端消費品牌仍處於發展起步階段，行業轉型升級關鍵期，持續推薦海外產能爬坡&成本最佳化、訂單高景氣，國內品牌積蓄勢能的哈爾斯(002615.SZ)，關注深度繫結核心客戶&全球產能充沛的嘉益股份(301004.SZ)。"
+    },
+    {
+      "id": "mkt:019f826b-efd7-7aab-8e19-48ddb4f0f31d",
+      "time": "2026-07-21 10:05:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Weighted Index (TAIEX) intraday gains widened to above 3%."
+    },
+    {
+      "id": "4998840",
+      "time": "2026-07-21 10:05:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國國家綜合立體交通網裡程超過600萬公里】7月21日，交通運輸部副部長徐成光在國新辦新聞釋出會上說，“十四五”期間，我國國家綜合立體交通網裡程超過600萬公里，“6軸7廊8通道”主骨架建成率達91%，高鐵運營里程突破5萬公里，高速公路通車裡程達19.9萬公里，港口萬噸級及以上泊位數量達3061個，運輸機場總數達270個，建成世界上規模最大、受益人數最多的寄遞網路。（新華社）"
+    },
+    {
+      "id": "4998839",
+      "time": "2026-07-21 10:05:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股票指數上漲0.9%，至6286.227點，創6月17日以來新高。"
+    },
+    {
+      "id": "4998838",
+      "time": "2026-07-21 10:05:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【電子化學品板塊震盪走弱，江化微等多股跌停】電子化學品板塊震盪走弱，江化微、宏昌電子、格林達跌停，三孚新科、華特氣體跌超13%，光華科技、唯特偶、萊特光電、中石科技等跟跌。"
+    },
     {
       "id": "mkt:019f826b-5354-7aab-8e19-4653852f16cf",
       "time": "2026-07-21 10:04:59",
