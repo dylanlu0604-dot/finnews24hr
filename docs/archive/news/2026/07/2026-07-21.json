@@ -1,7 +1,77 @@
 {
   "date": "2026-07-21",
-  "count": 1320,
+  "count": 1328,
   "items": [
+    {
+      "id": "mkt:019f8306-2a09-7aab-8e1c-8c1a26d942b8",
+      "time": "2026-07-21 12:54:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ASEAN foreign ministers issued a statement expressing serious concern over the rapidly evolving situation in the Middle East."
+    },
+    {
+      "id": "mkt:019f8306-178b-7aab-8e1c-849a9b246374",
+      "time": "2026-07-21 12:54:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Indian government official said India summoned a senior Russian diplomat after four Indian crew members were killed near a Ukrainian port."
+    },
+    {
+      "id": "4999286",
+      "time": "2026-07-21 12:53:34",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【上半年深圳前海實際使用外資超250億元 同比增長102.9%】近期，外資持續加碼前海，投資佈局動作頻頻。記者7月20日從前海管理局獲悉，今年上半年，前海實際使用外資達250.1億元，同比增長102.9%。今年以來，香港中電集團、馬來西亞雲頂集團、瑞典恩華特集團等一批國際知名企業紛紛搶灘登陸前海。前海外資產業生態從金融、商貿向高階製造、專業服務等領域全面延伸。"
+    },
+    {
+      "id": "mkt:019f8305-1e56-7aab-8e1c-7deb80b2f42b",
+      "time": "2026-07-21 12:52:58",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "Market Regions",
+        "Greater China",
+        "XPEV.O"
+      ],
+      "text": "【Xpeng Group launches TuringViT efficient visual encoder】July 21 — Xpeng Group announced the launch of TuringViT, an efficient visual encoder aimed at the VLM/VLA era that restructures visual encoder architecture, data paradigms and training pipelines. TuringViT is intended to support Xpeng’s intelligent driving, smart cockpit and IRON humanoid robot business lines."
+    },
+    {
+      "id": "4999285",
+      "time": "2026-07-21 12:52:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府官員稱：印度就四名印度船員在烏克蘭港口外遇襲身亡一事召見俄羅斯高階外交官。"
+    },
+    {
+      "id": "4999284",
+      "time": "2026-07-21 12:51:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【小鵬集團釋出TuringViT高效視覺編碼器】7月21日，小鵬集團宣佈正式釋出TuringViT高效視覺編碼器，面向VLM/VLA時代系統性重構視覺編碼器的架構設計、資料正規化與訓練流程。TuringViT將全面支撐智慧駕駛、智慧座艙、IRON人形機器人三大業務場景。"
+    },
+    {
+      "id": "4999283",
+      "time": "2026-07-21 12:50:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【捷克擬立法在中小學禁用手機及智慧手錶】捷克政府20日批准一項法律草案，擬在全國中小學禁止學生使用手機、智慧手錶等電子通訊裝置，以提升學生課堂專注力、遏制網路霸凌。據德新社報道，這份草案獲捷克總理安德烈·巴比什領導的內閣批准，若能透過議會參眾兩院表決，將於2027年9月1日生效。禁令覆蓋九年義務教育階段全體學生，管控時段不僅限於上課時間，還包括課間、午餐及課後託管時間。"
+    },
+    {
+      "id": "4999282",
+      "time": "2026-07-21 12:50:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菜鳥歐洲 G2G 服務升級：東歐提速 1 天，德國開通散倉提貨】菜鳥宣佈完成歐洲G2G（國家間）跨境物流服務的新一輪能力升級，東歐配送網路全面打通、時效提升1個自然日，德國方向同步開通散倉提貨，全歐洲發往德國的訂單進單量達到50單即可安排提貨，進一步降低中小賣家的使用門檻。官方資料顯示，自去年推出G2G泛歐跨境物流解決方案以來，菜鳥已實現歐洲區域內35個國家（含島外）之間互發快遞。（新浪科技）"
+    },
     {
       "id": "te:markets:568396",
       "time": "2026-07-21 12:49:17",
