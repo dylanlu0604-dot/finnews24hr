@@ -1,7 +1,140 @@
 {
-  "updated": "2026-07-21 20:50:02",
-  "count": 18461,
+  "updated": "2026-07-21 20:54:12",
+  "count": 18470,
   "items": [
+    {
+      "id": "5000452",
+      "time": "2026-07-21 20:53:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗駐法代辦被傳喚至法國外交部，此前一名法國使館人員被伊朗扣留。"
+    },
+    {
+      "id": "5000451",
+      "time": "2026-07-21 20:52:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：Vista Energy公司向阿根廷RIGI公司申請價值58億美元的石油專案。"
+    },
+    {
+      "id": "mkt:019f84bc-74dd-7aab-8e29-bc454722876f",
+      "time": "2026-07-21 20:52:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Canada is willing to talk but unwilling to change."
+    },
+    {
+      "id": "mkt:019f84bc-5787-7aab-8e29-b1268295a1f2",
+      "time": "2026-07-21 20:52:43",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said she wants more auto manufacturing to locate in the United States."
+    },
+    {
+      "id": "5000450",
+      "time": "2026-07-21 20:52:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "格里爾：加拿大願意對話，但不願意改變。"
+    },
+    {
+      "id": "5000449",
+      "time": "2026-07-21 20:52:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：我們已要求加拿大人一年之久，希望其撤銷對特朗普關稅的報復性措施。與加拿大同行關係良好。我們希望解決問題。美國總統特朗普在某種程度上已經採取了相關行動。美國總統特朗普希望減少貿易逆差。"
+    },
+    {
+      "id": "mkt:019f84bc-0276-7aab-8e29-aa142d409aa9",
+      "time": "2026-07-21 20:52:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said President Trump wants to reduce the U.S. trade deficit."
+    },
+    {
+      "id": "mkt:019f84bb-e554-7aab-8e29-a2a9d106971b",
+      "time": "2026-07-21 20:52:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said President Trump has, to some extent, already taken relevant actions."
+    },
+    {
+      "id": "5000448",
+      "time": "2026-07-21 20:51:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯襲擊烏克蘭扎波羅熱地區造成3人死亡，13人受傷。"
+    },
+    {
+      "id": "mkt:019f84bb-6d26-7aab-8e29-9d7b9dffbdae",
+      "time": "2026-07-21 20:51:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said the U.S. hopes to resolve the issue."
+    },
+    {
+      "id": "mkt:019f84bb-534b-7aab-8e29-90a9de92e253",
+      "time": "2026-07-21 20:51:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer says relationship with Canadian counterpart is good."
+    },
+    {
+      "id": "mkt:019f84ba-7088-7aab-8e29-8aa1211d7ab5",
+      "time": "2026-07-21 20:50:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said the U.S. has spent a year urging Canada to withdraw retaliatory measures tied to tariffs imposed under the Trump administration."
+    },
+    {
+      "id": "mkt:019f84ba-025f-7aab-8e29-846c75ce2a7a",
+      "time": "2026-07-21 20:50:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Saudi Red Sea crude exports hit record ahead of Houthi blockade warning】Saudi Arabian crude exports via Red Sea terminals climbed to record levels on the eve of Houthi militants announcing plans to block Saudi oil shipments, putting the alternative export corridor at risk and, if implemented, potentially further boosting crude futures. Tanker-tracking shows shipments via Yanbu’s two terminals averaged a record 5.9m b/d in the week to July 17, easing to 5.5m b/d in the week to July 20. Volumes include cargoes to Jizan and supplies to Aramco refineries and Red Sea coastal power plants. Saudi had rerouted some flows from the Persian Gulf to its west coast and out through the Red Sea during the Iran war; the announced Houthi blockade threatens that route."
+    },
+    {
+      "id": "5000447",
+      "time": "2026-07-21 20:49:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談及加拿大：我們要求加拿大人取消對特朗普關稅的反制措施已經有一年了。"
+    },
+    {
+      "id": "5000446",
+      "time": "2026-07-21 20:49:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車 CFO 稱，電動車相關資產減記工作已 “基本完成”。"
+    },
     {
       "id": "5000445",
       "time": "2026-07-21 20:48:56",
@@ -169967,56 +170100,6 @@
         "公司"
       ],
       "text": "【惠程科技：實施資本公積金轉增股本用於償債及引入投資人】惠程科技公告稱，為挽救公司，避免退市和破產清算，將對出資人權益進行調整。以總股本784,163,368股為基數，每10股轉增6.42049股，共計轉增503,471,302股，轉增後總股本增至1,287,634,670股。轉增股票不分配給原有出資人，74,000,000股用於向債權人抵償債務，429,471,302股引入重整投資人，對價7.90億元。產業投資人認購股票鎖定期36個月，財務投資人鎖定期12個月。"
-    },
-    {
-      "id": "4987807",
-      "time": "2026-07-14 20:53:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林梅河口：全員居家，非必要不外出】水利部門預計7月14日21時左右輝發河洪峰將到達滕龍閣處，7月15日2時左右將到達海龍鎮、新合鎮，輝發河將全線超警，達到歷史極值。洪峰具有滯後性，請市民群眾高度重視。為全力保障市民生命財產安全，現就緊急防控要求通告如下，請所有人嚴格遵守：即時起，城區所有市民居家避險，無緊急情況一律不要外出。嚴禁前往河道、堤岸、低窪路段、濱河區域、地下空間等危險地帶逗留、觀望、拍照、捕魚、直播，避免遭遇積水、漫水、突發險情，最大程度規避安全風險。洪峰過境期間，城區部分道路、橋樑將啟動臨時交通管制。濱河道路、低窪路段、沿江沿線道路全面禁止車輛、行人通行，全力保障防汛搶險通道暢通。"
-    },
-    {
-      "id": "4987806",
-      "time": "2026-07-14 20:53:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "【鋰礦狂歡車企買單】7月14日晚間，天齊鋰業釋出2026年半年度業績預告，預計上半年歸母淨利潤為28.5億元至42.5億元，同比增長3276.35%至4934.91%。這一超過30倍的增幅，只是上半年鋰礦板塊業績全面爆發的縮影。 除天齊鋰業外，在記者統計的已披露中期業績預告的十餘家鋰礦概念股中，無一例外全部預喜，淨利潤增幅從翻倍左右到超20倍不等，行業整體呈現“全員盈利、大幅預增、沾鋰便漲”的復甦態勢。 鋰礦企業業績集體報喜的另一面，是下游整車企業的集體“失血”。 行業普遍測算，搭載60kWh左右電池的純電車型，碳酸鋰每上漲1萬元/噸，單車成本增加300元上下。而終端市場存量競爭白熱化，各家品牌還在持續打“價格戰”，成本向下傳導的通道基本被堵死。 上游鋰礦企業大賺、下游整車企業成本承壓——2026年上半年的汽車產業鏈，正在上演一場冰火兩重天的利潤再分配。（一財）"
-    },
-    {
-      "id": "4987805",
-      "time": "2026-07-14 20:52:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：由於通脹互換價格暴跌，利率交易員現在預計10月份將加息。"
-    },
-    {
-      "id": "mkt:019f60af-07bb-7aab-8d7d-c8a2da37167f",
-      "time": "2026-07-14 20:51:51",
-      "tags": [
-        "MKT News",
-        "BAC.N",
-        "Impact bullish"
-      ],
-      "text": "BofA (BAC.N) expects net interest income guidance to settle toward the upper end of a 6-8% range."
-    },
-    {
-      "id": "4987804",
-      "time": "2026-07-14 20:51:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【再創世界紀錄，隆基鈣鈦礦疊層電池效率重新整理至35.5%】7月14日，隆基綠能在2026光儲創新技術釋出會上公佈了經由義大利EuropeanSolarTestInstallation（ESTI）認證的鈣鈦礦疊層電池最新的效率紀錄——35.5%。這是該公司自2023年以來，第12次重新整理鈣/矽疊層電池世界紀錄，也是繼2024年後，第5次打破鈣/矽元件效率世界紀錄。"
-    },
-    {
-      "id": "4987803",
-      "time": "2026-07-14 20:51:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：巴菲特不再將60億美元伯克希爾股權捐贈給蓋茨慈善基金會。"
     }
   ]
 }
