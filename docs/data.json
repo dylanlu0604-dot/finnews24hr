@@ -1,7 +1,20 @@
 {
-  "updated": "2026-07-22 05:41:58",
-  "count": 18080,
+  "updated": "2026-07-22 05:45:58",
+  "count": 18077,
   "items": [
+    {
+      "id": "mkt:019f86a2-25f8-7aab-8e32-d2555beed0da",
+      "time": "2026-07-22 05:43:21",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【Korean media: Wealthy investors buy Samsung, SK Hynix single-stock leveraged ETFs】Seoul Economic Daily, citing a major broker’s analysis of 25,000 high-net-worth investors (≥10 bln won in financial assets) from May 27–July 10, reports concentrated net buying of Samsung Electronics and SK Hynix single-stock leveraged ETFs. Net purchases were: KODEX SK Hynix Single-Stock Leverage ETF 178.1 bln won, TIGER SK Hynix Single-Stock Leverage ETF 140.1 bln won, and KODEX Samsung Electronics Single-Stock Leverage ETF 116.6 bln won. The other two names in the top-five net-buys were ordinary shares of Samsung Electronics and SK Hynix, signaling wealthy investors are heavily overweight Korea’s two large chip names; retail buyers in their 40s were the largest cohort buying these single-stock leveraged ETFs."
+    },
     {
       "id": "5000912",
       "time": "2026-07-22 05:41:06",
@@ -166176,46 +166189,6 @@
         "XAUUSD"
       ],
       "text": "【Explosion sounds reported on Iran's Hengam Island and Bandar Abbas port】Early on the 15th local time, sounds of explosions were reported on Hengam Island and again at Bandar Abbas port in southern Iran."
-    },
-    {
-      "id": "mkt:019f6296-a0ee-7aab-8d8a-b42f20704fb6",
-      "time": "2026-07-15 05:44:26",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Tasnim News reports Iran's military said drone operations against U.S. bases in the region will continue until \"final victory\"."
-    },
-    {
-      "id": "mkt:019f6296-89c6-7aab-8d8a-ae7a93c8aee1",
-      "time": "2026-07-15 05:44:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "TASNIM NEWS: Iran's military said it launched unmanned aerial vehicles to strike US F-18 positions, personnel accommodation and equipment warehouses at the Al Azraq base in Jordan. It said it had previously carried out six rounds of strikes on US bases in the region."
-    },
-    {
-      "id": "4988524",
-      "time": "2026-07-15 05:44:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗亨賈姆島及阿巴斯港傳出爆炸聲】總檯記者當地時間15日凌晨獲悉，伊朗南部亨賈姆島傳出爆炸聲，阿巴斯港再次傳出爆炸聲。（央視新聞）"
-    },
-    {
-      "id": "4988523",
-      "time": "2026-07-15 05:43:50",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方：已使用無人機打擊約旦阿茲拉克基地內美軍據點。 針對該地區美軍基地的無人機打擊行動將持續直至取得 “最終勝利”。"
     }
   ]
 }
