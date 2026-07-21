@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-21 11:01:01",
-  "count": 19202,
+  "updated": "2026-07-21 11:04:59",
+  "count": 19211,
   "items": [
+    {
+      "id": "mkt:019f82a1-7598-7aab-8e1b-0618f9828328",
+      "time": "2026-07-21 11:04:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Mobile backs optical interconnect and optical computing innovation】China Mobile deputy GM Li Huidi said at an AI forum that optical interconnects have natural advantages—high bandwidth, low latency, low loss, long-distance transmission and high-density integration—and could help overcome intra-cluster communications bottlenecks and improve coordination among GPUs, AI chips and servers. Optical computing could unlock new energy-efficiency gains and specialized computing paradigms. Optical and electrical technologies are complementary across layers and scenarios. China Mobile plans to build high-quality compute infrastructure, increase intelligent-compute supply and green operations, foster an open AI industry ecosystem to drive deeper integration of large models with industry, and support and validate frontier technologies such as optical interconnect and optical computing in real-world scenarios."
+    },
+    {
+      "id": "mkt:019f82a1-4b6a-7aab-8e1a-fb5f442007ab",
+      "time": "2026-07-21 11:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ's industry-factor inflation model rose 2.7% YoY in Q2."
+    },
+    {
+      "id": "4999158",
+      "time": "2026-07-21 11:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "東山精密成交額達200億元，現漲3.95%。"
+    },
+    {
+      "id": "mkt:019f82a0-f22d-7aab-8e1a-f635c3ad2eaa",
+      "time": "2026-07-21 11:03:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Survey: South Korea Q2 GDP seen slowing but remaining resilient】A Wall Street Journal survey of 15 economists shows South Korea's Q2 GDP likely to slow to a 0.4% QoQ gain (median), down from a revised 1.8% in Q1; YoY growth is forecast at 3.4% versus 3.8% in Q1. Moody's says exports will again lead amid an AI-driven semiconductor boom. Citigroup has raised its Q2 and 2026 growth forecasts citing strong chip exports. Q2 GDP data due Thursday."
+    },
+    {
+      "id": "4999157",
+      "time": "2026-07-21 11:03:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國移動：支援光互聯、光計算等前沿技術創新】中國移動集團公司副總經理李慧鏑日前出席世界人工智慧大會分論壇時指出，光互聯在大頻寬、低時延、低損耗、長距離和高密度整合方面具有天然優勢，光互聯有望突破大規模叢集內部通訊瓶頸，提升GPU、AI晶片和伺服器之間的協同效應，光計算則為特定計算任務，能效最佳化和新型計算正規化開啟新的想象空間。光與電不是簡單的替代關係，而是在不同層級不同場景中優勢互補。下一步中國移動將建設高質量算力基礎設施，提升智算供給與綠色運營能力；打造開放協同的AI產業生態，推動大模型與行業深度融合；支援光互聯、光計算等前沿技術創新，在真實場景中驗證價值。"
+    },
+    {
+      "id": "mkt:019f82a0-eba5-7aab-8e1a-e8304f28349f",
+      "time": "2026-07-21 11:03:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand's foreign minister says New Zealand and the Philippines have established a comprehensive partnership."
+    },
+    {
+      "id": "4999156",
+      "time": "2026-07-21 11:03:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊短線拉昇，順絡電子漲停】元件板塊短線拉昇，順絡電子漲停，東山精密、風華高科、三環集團、麥捷科技、中富電路等紛紛走高。"
+    },
+    {
+      "id": "mkt:019f82a0-b6cc-7aab-8e1a-e662ebdde115",
+      "time": "2026-07-21 11:03:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China's Sci‑Tech Innovation Board 50 Index (STAR 50) rose more than 5% as the semiconductor sector staged a broad recovery; constituents Huahong Hongli jumped over 14% and Geke Micro climbed more than 13%."
+    },
+    {
+      "id": "4999155",
+      "time": "2026-07-21 11:03:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ASMPT：黃梓達將於8月11日起退任行政總裁】7月21日，ASMPT在港交所公告，黃梓達將於2026年8月11日起退任公司集團行政總裁；Bassel Haddad將於生效日期起獲委任為公司集團行政總裁。Haddad亦將於同日起獲委任為公司執行董事。於加入公司前，Haddad曾於SkyWater擔任高階副總裁暨晶圓代工解決方案及技術平臺總經理，於2024年加入SkyWater前，Haddad於英特爾公司任職十四年，曾擔任多個高階領導職位。"
+    },
+    {
+      "id": "4999154",
+      "time": "2026-07-21 11:03:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭外長：紐西蘭與菲律賓建立全面夥伴關係。"
+    },
+    {
+      "id": "4999153",
+      "time": "2026-07-21 11:02:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達5％，成分股中，華虹宏力漲14.4％，格科微漲13.8％，中科飛測漲12.6％，拓荊科技漲11.3％。"
+    },
+    {
+      "id": "mkt:019f829f-c7c7-7aab-8e1a-dab07295cbc1",
+      "time": "2026-07-21 11:02:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Ant International said it raised $1.2 billion in a new financing round."
+    },
+    {
+      "id": "4999152",
+      "time": "2026-07-21 11:02:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里將推出千問辦公，旗下三款智慧體合併】據悉，阿里將推出千問辦公。它已經整合QoderWork、悟空、MuleRun這三款智慧體（Agent）產品。千問辦公將是阿里面向Agent辦公市場的拳頭產品。向阿里方面發出了置評請求，截至發稿前，阿里方面沒有回應。(財經雜誌)"
+    },
+    {
+      "id": "mkt:019f829f-7d4c-7aab-8e1a-d343ce744ebe",
+      "time": "2026-07-21 11:01:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba to launch Qianwen Office, consolidates three agent products】Alibaba will launch Qianwen Office, merging its agent products QoderWork, Wukong and MuleRun into a single offering. Qianwen Office will serve as Alibaba's flagship product for the agent-driven office market."
+    },
+    {
+      "id": "4999151",
+      "time": "2026-07-21 11:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏回族自治區農業農村廳原一級巡視員羅全福接受審查調查】據寧夏回族自治區紀委監委訊息：寧夏回族自治區農業農村廳原一級巡視員羅全福涉嫌嚴重違紀違法，目前正接受寧夏回族自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4999150",
+      "time": "2026-07-21 11:01:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲6%。"
+    },
+    {
+      "id": "4999149",
+      "time": "2026-07-21 11:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海郵輪港單日出入境峰值突破2.6萬人次】記者從上海海關獲悉，隨著暑期郵輪遊升溫，近日上海吳淞口國際郵輪港單日出入境峰值突破2.6萬人次。（澎湃新聞）"
+    },
     {
       "id": "mkt:019f829c-8f10-7aab-8e1a-c99f2d1f045e",
       "time": "2026-07-21 10:58:46",
@@ -176501,79 +176653,6 @@
         "公司"
       ],
       "text": "【榮耀與阿里將官宣重磅合作，或涉及下一代終端作業系統Agentic OS落地】榮耀將於7月18日在2026世界人工智慧大會（WAIC 2026）舉辦“從數字螢幕到具身智慧——物理世界新正規化”分論壇。7月14日，榮耀官宣活動嘉賓陣容，除之前已官宣的世界著名科技未來學家凱文·凱利外，阿里巴巴集團副總裁、ATH事業群Token Foundry多模態互動負責人許主洪的加入，引發業界對後續各方合作的推測。從榮耀內部渠道獲悉，雙方將官宣重磅合作。據此前公開訊息，本次論壇將聚焦AI的智慧度和生命感，探討從“工具”到“夥伴”的Agentic OS趨勢演進。榮耀與阿里的聯手方向極有可能是下一代終端作業系統Agentic OS的落地實踐。（新浪科技）"
-    },
-    {
-      "id": "em:qqyh_mlc:202607143805238494",
-      "time": "2026-07-14 11:04:50",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【沃什今晚造訪國會山！華爾街擔心：要再和市場“賣關子”可能會出事】自上任以來，美聯儲主席凱文·沃什極力避免透露利率走向的做法，在無意間其實也掩蓋了對投資者、分析師和其他政策制定者至關重要的另一件事：當經濟面臨挑戰時，他會如何應對？隨著沃什今晚正式開啟為期兩天的國會山之行，美聯儲觀察人士將密切關注他關於通脹、勞動力市場和經濟增長的看法——以及這些因素與利率之間的相互作用。"
-    },
-    {
-      "id": "te:markets:566605",
-      "time": "2026-07-14 11:04:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "South Korea",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "South Korean Won Hits 2-Month High — The South Korean won strengthened to around 1,486 per dollar, extending gains toward its highest level since mid-May, as investors increasingly priced in a Bank of Korea interest rate hike later this week. Persistent inflation, resilient economic growth, and elevated household debt reinforced the case for the central bank's first rate increase in more than three years, supporting the local currency. The won also drew support from anticipated foreign exchange inflows, with SK Hynix expected to convert part of the proceeds from its $26.5 billion US listing into won for domestic investment, increasing dollar supply in the local foreign exchange market. Meanwhile, investors remained cautious as they monitored heightened Middle East tensions after the US reinstated a blockade of Iranian ports and President Donald Trump announced a 20% charge on cargo passing through the Strait of Hormuz, fueling concerns over higher energy costs, lifting oil prices, and supporting demand for the US dollar."
-    },
-    {
-      "id": "4985862",
-      "time": "2026-07-14 11:04:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "泰國股指SET指數下跌1.1%。"
-    },
-    {
-      "id": "4985861",
-      "time": "2026-07-14 11:03:55",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：韓國6月外資淨投資本國股市為-32.37億美元（5月為-31.83億美元）。韓國6月外資淨投資本國債市為+16.5億美元（5月為+56.8億美元）。"
-    },
-    {
-      "id": "4985860",
-      "time": "2026-07-14 11:03:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【海關總署：上半年空調等清涼家電出口超千億元 自主品牌家電出口佔比達1/4】7月14日，海關總署新聞發言人、統計分析司司長呂大良在國新辦新聞釋出會上表示，在全球高溫多發的情況下，空調、電扇、冰箱等清涼家電，上半年合計出口1079.1億元。“近年來社會上比較關注的是‘新三樣’，也就是電動汽車、鋰電池和光伏產品，實際上我們還有‘老三樣’，也就是手機、電腦和家電，也持續在穩外貿中發揮重要作用。”呂大良強調。呂大良指出，當前智慧化正持續賦能，推動我國家電產業迭代煥新。我國出口家電不僅品質在提升，品牌也在升級，在出口家電中，自主品牌已佔到1/4。"
-    },
-    {
-      "id": "4985858",
-      "time": "2026-07-14 11:01:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【小米景明在綿陽成立新科技公司 註冊資本100萬】天眼查App顯示，近日，綿陽小米景明科技有限公司成立，法定代表人為樊家麟，註冊資本100萬人民幣，經營範圍含汽車銷售、新能源汽車整車銷售、新能源汽車換電設施銷售、電動汽車充電基礎設施運營、充電樁銷售等。股東資訊顯示，該公司由小米景明科技有限公司全資持股。"
-    },
-    {
-      "id": "4985857",
-      "time": "2026-07-14 11:01:33",
-      "tags": [
-        "宏觀",
-        "焦點"
-      ],
-      "text": "【中共中央決定給予馬興瑞開除黨籍、開除公職處分】經中共中央批准，中央紀委國家監委對馬興瑞嚴重違紀違法問題立案審查調查。6月30日，中共中央政治局會議審議並透過中共中央紀律檢查委員會《關於馬興瑞問題審查結果和處理意見的報告》。經查，馬興瑞喪失理想信念和政治立場，背棄黨的宗旨和初心使命，嚴重違反政治紀律和政治規矩，履行全面從嚴治黨主體責任不力，對身邊工作人員嚴重違紀違法和涉嫌犯罪問題縱容失察失管，造成不良影響；嚴重違反組織紀律，在組織函詢時不如實說明問題，在幹部選拔任用工作中為他人謀取利益，本人及親友違規為他人安排工作；嚴重違反廉潔紀律，違規收受禮品、禮金，幫助親屬低價購房，搞權色、錢色交易，縱容放任親屬利用其職務影響謀取鉅額利益，大搞家族腐敗；將公權力異化為謀取個人私利的工具，利用職務便利為他人在企業經營、工程承攬、職務提拔等方面謀取利益，本人或夥同親屬、特定關係人非法收受鉅額財物。馬興瑞完全背離黨性原則，嚴重違背黨中央對高階幹部提出的政治要求，其行為嚴重違反黨的紀律，構成職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質極其嚴重，影響極其惡劣。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中央紀委常委會會議研究並報中央政治局會議審議，決定給予馬興瑞開除黨籍處分，由國家監委給予其開除公職處分，終止其黨的二十大代表資格，收繳其違紀違法所得，將其涉嫌犯罪問題移送檢察機關依法審查起訴。給予其開除黨籍的處分，待召開中央委員會全體會議時予以追認。（新華社）"
-    },
-    {
-      "id": "4985856",
-      "time": "2026-07-14 11:01:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【海關總署：今年前5個月有近4000家外資企業增加對華投資】海關總署統計分析司司長呂大良在新聞釋出會上表示，我國開放的大門越開越大，開放的水平越來越高，穩定的政策預期讓外資企業願意來。商務部資料顯示，今年前5個月有近4000家外資企業增加對華投資。上半年，外資企業進口、出口規模都實現了兩位數增長，有進出口記錄的外資企業數量較去年同期增加了近千家。（中國網）"
     }
   ]
 }

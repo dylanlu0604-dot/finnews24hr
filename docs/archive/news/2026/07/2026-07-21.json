@@ -1,7 +1,159 @@
 {
   "date": "2026-07-21",
-  "count": 1130,
+  "count": 1147,
   "items": [
+    {
+      "id": "mkt:019f82a1-7598-7aab-8e1b-0618f9828328",
+      "time": "2026-07-21 11:04:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China Mobile backs optical interconnect and optical computing innovation】China Mobile deputy GM Li Huidi said at an AI forum that optical interconnects have natural advantages—high bandwidth, low latency, low loss, long-distance transmission and high-density integration—and could help overcome intra-cluster communications bottlenecks and improve coordination among GPUs, AI chips and servers. Optical computing could unlock new energy-efficiency gains and specialized computing paradigms. Optical and electrical technologies are complementary across layers and scenarios. China Mobile plans to build high-quality compute infrastructure, increase intelligent-compute supply and green operations, foster an open AI industry ecosystem to drive deeper integration of large models with industry, and support and validate frontier technologies such as optical interconnect and optical computing in real-world scenarios."
+    },
+    {
+      "id": "mkt:019f82a1-4b6a-7aab-8e1a-fb5f442007ab",
+      "time": "2026-07-21 11:03:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "RBNZ's industry-factor inflation model rose 2.7% YoY in Q2."
+    },
+    {
+      "id": "4999158",
+      "time": "2026-07-21 11:03:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "東山精密成交額達200億元，現漲3.95%。"
+    },
+    {
+      "id": "mkt:019f82a0-f22d-7aab-8e1a-f635c3ad2eaa",
+      "time": "2026-07-21 11:03:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Survey: South Korea Q2 GDP seen slowing but remaining resilient】A Wall Street Journal survey of 15 economists shows South Korea's Q2 GDP likely to slow to a 0.4% QoQ gain (median), down from a revised 1.8% in Q1; YoY growth is forecast at 3.4% versus 3.8% in Q1. Moody's says exports will again lead amid an AI-driven semiconductor boom. Citigroup has raised its Q2 and 2026 growth forecasts citing strong chip exports. Q2 GDP data due Thursday."
+    },
+    {
+      "id": "4999157",
+      "time": "2026-07-21 11:03:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國移動：支援光互聯、光計算等前沿技術創新】中國移動集團公司副總經理李慧鏑日前出席世界人工智慧大會分論壇時指出，光互聯在大頻寬、低時延、低損耗、長距離和高密度整合方面具有天然優勢，光互聯有望突破大規模叢集內部通訊瓶頸，提升GPU、AI晶片和伺服器之間的協同效應，光計算則為特定計算任務，能效最佳化和新型計算正規化開啟新的想象空間。光與電不是簡單的替代關係，而是在不同層級不同場景中優勢互補。下一步中國移動將建設高質量算力基礎設施，提升智算供給與綠色運營能力；打造開放協同的AI產業生態，推動大模型與行業深度融合；支援光互聯、光計算等前沿技術創新，在真實場景中驗證價值。"
+    },
+    {
+      "id": "mkt:019f82a0-eba5-7aab-8e1a-e8304f28349f",
+      "time": "2026-07-21 11:03:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand's foreign minister says New Zealand and the Philippines have established a comprehensive partnership."
+    },
+    {
+      "id": "4999156",
+      "time": "2026-07-21 11:03:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【元件板塊短線拉昇，順絡電子漲停】元件板塊短線拉昇，順絡電子漲停，東山精密、風華高科、三環集團、麥捷科技、中富電路等紛紛走高。"
+    },
+    {
+      "id": "mkt:019f82a0-b6cc-7aab-8e1a-e662ebdde115",
+      "time": "2026-07-21 11:03:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "China's Sci‑Tech Innovation Board 50 Index (STAR 50) rose more than 5% as the semiconductor sector staged a broad recovery; constituents Huahong Hongli jumped over 14% and Geke Micro climbed more than 13%."
+    },
+    {
+      "id": "4999155",
+      "time": "2026-07-21 11:03:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ASMPT：黃梓達將於8月11日起退任行政總裁】7月21日，ASMPT在港交所公告，黃梓達將於2026年8月11日起退任公司集團行政總裁；Bassel Haddad將於生效日期起獲委任為公司集團行政總裁。Haddad亦將於同日起獲委任為公司執行董事。於加入公司前，Haddad曾於SkyWater擔任高階副總裁暨晶圓代工解決方案及技術平臺總經理，於2024年加入SkyWater前，Haddad於英特爾公司任職十四年，曾擔任多個高階領導職位。"
+    },
+    {
+      "id": "4999154",
+      "time": "2026-07-21 11:03:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "紐西蘭外長：紐西蘭與菲律賓建立全面夥伴關係。"
+    },
+    {
+      "id": "4999153",
+      "time": "2026-07-21 11:02:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達5％，成分股中，華虹宏力漲14.4％，格科微漲13.8％，中科飛測漲12.6％，拓荊科技漲11.3％。"
+    },
+    {
+      "id": "mkt:019f829f-c7c7-7aab-8e1a-dab07295cbc1",
+      "time": "2026-07-21 11:02:17",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Ant International said it raised $1.2 billion in a new financing round."
+    },
+    {
+      "id": "4999152",
+      "time": "2026-07-21 11:02:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【阿里將推出千問辦公，旗下三款智慧體合併】據悉，阿里將推出千問辦公。它已經整合QoderWork、悟空、MuleRun這三款智慧體（Agent）產品。千問辦公將是阿里面向Agent辦公市場的拳頭產品。向阿里方面發出了置評請求，截至發稿前，阿里方面沒有回應。(財經雜誌)"
+    },
+    {
+      "id": "mkt:019f829f-7d4c-7aab-8e1a-d343ce744ebe",
+      "time": "2026-07-21 11:01:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alibaba",
+        "BABA.N",
+        "Impact bullish"
+      ],
+      "text": "【Alibaba to launch Qianwen Office, consolidates three agent products】Alibaba will launch Qianwen Office, merging its agent products QoderWork, Wukong and MuleRun into a single offering. Qianwen Office will serve as Alibaba's flagship product for the agent-driven office market."
+    },
+    {
+      "id": "4999151",
+      "time": "2026-07-21 11:01:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寧夏回族自治區農業農村廳原一級巡視員羅全福接受審查調查】據寧夏回族自治區紀委監委訊息：寧夏回族自治區農業農村廳原一級巡視員羅全福涉嫌嚴重違紀違法，目前正接受寧夏回族自治區紀委監委紀律審查和監察調查。"
+    },
+    {
+      "id": "4999150",
+      "time": "2026-07-21 11:01:28",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電子股價上漲6%。"
+    },
+    {
+      "id": "4999149",
+      "time": "2026-07-21 11:01:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海郵輪港單日出入境峰值突破2.6萬人次】記者從上海海關獲悉，隨著暑期郵輪遊升溫，近日上海吳淞口國際郵輪港單日出入境峰值突破2.6萬人次。（澎湃新聞）"
+    },
     {
       "id": "mkt:019f829c-8f10-7aab-8e1a-c99f2d1f045e",
       "time": "2026-07-21 10:58:46",
