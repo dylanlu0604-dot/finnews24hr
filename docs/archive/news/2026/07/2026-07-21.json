@@ -1,7 +1,121 @@
 {
   "date": "2026-07-21",
-  "count": 2820,
+  "count": 2833,
   "items": [
+    {
+      "id": "5000403",
+      "time": "2026-07-21 20:24:21",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨齊漲，道指期貨漲0.28%，標普500指數期貨漲0.49%，納指期貨漲1.42%。\n②德國DAX指數漲0.13%，英國富時100指數漲0.16%，法國CAC40指數漲0.06%，歐洲斯托克50指數漲0.52%。\n③WTI原油漲1.13%，報83.41美元/桶。布倫特原油漲1.19%，報90.28美元/桶。\n④美國結束對伊朗連續第10晚的襲擊。\n⑤瑞銀交易部門：動量股拋售近尾聲，逐步建倉AI與半導體的時機已到。\n⑥高盛釋出極端油價預警：若“全球油脈”持續受阻，布油Q4恐再破120美元。\n⑦英特爾盤前一度漲超5%，資料中心部門啟動新一輪裁員。\n⑧臺積電盤前漲3.5%，據悉將於2027年起上調晶圓代工價格，漲幅最高10%。\n⑨SK海力士美股盤前漲超7%。"
+    },
+    {
+      "id": "5000402",
+      "time": "2026-07-21 20:24:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩軍隊：以色列軍隊向其部隊附近開火。"
+    },
+    {
+      "id": "5000401",
+      "time": "2026-07-21 20:23:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "提示：美國財長貝森特結束講話。"
+    },
+    {
+      "id": "mkt:019f84a1-ab43-7aab-8e29-0788043b4daa",
+      "time": "2026-07-21 20:23:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SVA.O",
+        "Impact bullish"
+      ],
+      "text": "【First H2 2026 influenza vaccines approved and released for market】China has approved and released the first batch of H2 2026 seasonal influenza vaccines for sale; products from Sinovac and Hualan are included."
+    },
+    {
+      "id": "5000400",
+      "time": "2026-07-21 20:23:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "標準航空與全球租賃商阿沃隆簽署LEAP發動機租賃團隊協議。"
+    },
+    {
+      "id": "5000399",
+      "time": "2026-07-21 20:23:09",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI“硬科技”板塊升溫 科創寬基ETF交投放量】7月21日，A股上演“深V反彈”，主要指數集體上攻，截至收盤，創業板指漲7.05%，科創50指數漲10.73%。盤面上，算力硬體、光通訊等方向領漲。相關ETF交投放量，科創50ETF廣發（588060）日成交額達12.75億元，創業板ETF廣發（159952）日成交額達16.83億元。科技板塊的強力反彈，是市場情緒修復、產業催化與基本面兌現的多重共振。7月20日，A股迎來多重積極訊號，證監會召開投資者座談會傾聽市場訴求，國有資本平臺、上市央企、險資、公私募資管機構等同步推出增持回購、自購加碼等舉措，多方協同發力提振市場信心。外圍層面，前期全球科技股調整情緒充分釋放，海外儲存大廠持續提價，費城半導體指數企穩，市場對海外AI資本開支的悲觀預期修復，海外風險偏好向A股傳導。（中證報）"
+    },
+    {
+      "id": "mkt:019f84a0-6c14-7aab-8e28-fda822c4718e",
+      "time": "2026-07-21 20:22:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he believes the Senate is close to reaching consensus on the Clarity Act."
+    },
+    {
+      "id": "5000398",
+      "time": "2026-07-21 20:22:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年下半年首批流感疫苗獲批簽發上市】7月21日，2026年下半年首批流感疫苗已獲批簽發並上市。科興、華蘭疫苗等企業的產品在列。"
+    },
+    {
+      "id": "mkt:019f849f-f17c-7aab-8e28-f03901197386",
+      "time": "2026-07-21 20:21:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he hopes the Clear Act will pass before Congress adjourns."
+    },
+    {
+      "id": "5000397",
+      "time": "2026-07-21 20:21:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：參議院《清晰法案》距離落地僅一步之遙。"
+    },
+    {
+      "id": "5000396",
+      "time": "2026-07-21 20:21:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：希望國會休會前透過《清晰度法案》  。"
+    },
+    {
+      "id": "mkt:019f849f-5fd0-7aab-8e28-e9ca3c1f13c3",
+      "time": "2026-07-21 20:21:04",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. Treasury Secretary Bessent, on government funding, said the U.S. does not need another shutdown."
+    },
+    {
+      "id": "mkt:019f849f-22e6-7aab-8e28-e6717de18767",
+      "time": "2026-07-21 20:20:49",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Beijing to build Token factory in H2】Beijing Municipal Bureau of Economy and Information Technology said 1H digital-economy value-added rose 7.8% YoY, with the core digital economy up 9.8% YoY, materially supporting city GDP. In H2 the bureau will roll out a citywide \"AI+\" action plan to expand AI-enabled services, including smart translation and simultaneous interpretation in cultural and tourism consumption. It will issue Token-economy policy and establish Token factories and Token distribution platforms covering token production, distribution and application, with pilot deployment in industry, education and culture/tourism. The bureau will host a \"Create the Future\" OPC roadshow and develop AIGC training for OPC; it will also support a \"RISC-V+AI OS\" open ecosystem via the open-source chip research institute and Beijing Tongminghu information-technology innovation center to build a full-stack domestic tech stack from ISA to OS to intelligent-agent applications."
+    },
     {
       "id": "5000395",
       "time": "2026-07-21 20:20:18",
