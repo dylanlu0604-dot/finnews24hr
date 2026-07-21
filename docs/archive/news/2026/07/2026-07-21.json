@@ -1,7 +1,76 @@
 {
   "date": "2026-07-21",
-  "count": 1411,
+  "count": 1418,
   "items": [
+    {
+      "id": "4999343",
+      "time": "2026-07-21 13:36:35",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "貴金屬期貨主力合約集體走強，滬金2608上漲1.33%，現報885.38元/克。滬銀2610上漲3.57%，現報14175元/千克。鉑2608上漲1.63%，現報399.30元/克。鈀2608漲超3%，現報302.60元/克。"
+    },
+    {
+      "id": "mkt:019f832c-c150-7aab-8e1d-65b1baa7c5b5",
+      "time": "2026-07-21 13:36:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Precious metals futures gained: Shanghai gold main 2608 contract rose 1.33% to 885.38 yuan/gram; Shanghai silver 2610 up 3.57% to 14,175 yuan/kg; platinum 2608 up 1.63% to 399.30 yuan/gram; palladium 2608 rose over 3% to 302.60 yuan/gram."
+    },
+    {
+      "id": "4999342",
+      "time": "2026-07-21 13:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱襲擊約旦境內的美國雷達和飛機。"
+    },
+    {
+      "id": "4999341",
+      "time": "2026-07-21 13:35:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4060美元/盎司，日內漲1.31%。"
+    },
+    {
+      "id": "mkt:019f832c-42b7-7aab-8e1d-59b71236e05b",
+      "time": "2026-07-21 13:35:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "NHC: aircraft and satellite wind-field data show Bertha is strengthening."
+    },
+    {
+      "id": "mkt:019f832b-f027-7aab-8e1d-501880e1801c",
+      "time": "2026-07-21 13:35:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan weighted index (TAIEX) closed up 1,783.17 points, or 4.2%, at 44,232.87 on Tuesday, July 21."
+    },
+    {
+      "id": "4999340",
+      "time": "2026-07-21 13:35:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣加權股價指數收高4.2%報44,232.87點。"
+    },
     {
       "id": "mkt:019f832b-0846-7aab-8e1d-4938d50a98d5",
       "time": "2026-07-21 13:34:23",
