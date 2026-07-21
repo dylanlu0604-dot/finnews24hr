@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-22 01:00:16",
-  "count": 18147,
+  "updated": "2026-07-22 01:04:20",
+  "count": 18136,
   "items": [
+    {
+      "id": "5000745",
+      "time": "2026-07-22 01:02:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Tibo正式宣佈活躍使用者數突破1000萬】OpenAI產品負責人Tibo在X上表示，Codex和 ChatGPT Work每週活躍使用者在2026年7月21日突破1000萬人。"
+    },
+    {
+      "id": "5000744",
+      "time": "2026-07-22 01:01:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "塔斯尼姆通訊社訊息：伊朗軍方稱，在該國西北部擊落一架單向攻擊無人機。"
+    },
+    {
+      "id": "5000743",
+      "time": "2026-07-22 01:01:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "AWS ：自 2026 年 7 月 21 日起，所有新建亞馬遜簡單電子郵件服務（SES）賬戶預設啟用基礎套餐（Essentials Plan）。"
+    },
+    {
+      "id": "5000741",
+      "time": "2026-07-22 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收漲1.49%，滬銅收漲1.69%，滬鋁收漲0.56%，滬鋅收漲0.55%，滬鉛收跌0.95%，滬鎳收漲0.77%，滬錫收漲0.97%。氧化鋁夜盤收漲0.22%，鋁合金收漲0.50%。不鏽鋼夜盤收漲0.20%。"
+    },
     {
       "id": "mkt:019f859b-768e-7aab-8e2f-70c1029352d4",
       "time": "2026-07-22 00:56:25",
@@ -166776,165 +166809,6 @@
         "其他"
       ],
       "text": "Coinbase官網發宣告稱，已知悉部分使用者在coinbase.com平臺交易多類產品時出現交易效能下降的問題。"
-    },
-    {
-      "id": "mkt:019f6196-201c-7aab-8d86-8cd73a0682fc",
-      "time": "2026-07-15 01:04:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Axios reports President Trump asked Israeli Prime Minister Netanyahu to withdraw Israeli forces from Syria and Lebanon."
-    },
-    {
-      "id": "mkt:019f6195-f05d-7aab-8d86-8335a2c9a1af",
-      "time": "2026-07-15 01:04:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "AI Revolution",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Key takeaways from Fed Chair Kevin Warsh's House testimony】Warsh said today's CPI does not mean \"mission accomplished\" and the Fed will firmly support a 2% inflation target; the Fed has \"zero tolerance\" for high inflation, expects more limited inflation upticks, will review its inflation framework and plans to eliminate tax provisions with inflationary effects. On the balance sheet, any policy shift would be signaled well in advance to markets; the Fed can begin seriously considering when to resume purchases of Treasury securities. If challenged by Trump, he said he will \"fulfill his duties\" and seeks to insulate the Fed from political interference. Long term, AI implies substantial productivity gains and is broadly positive for the economy, but he warned against complacency. On employment, price stability and full employment are not mutually exclusive and he is committed to achieving both."
-    },
-    {
-      "id": "mkt:019f6195-caa6-7aab-8d86-7ca9af9421b1",
-      "time": "2026-07-15 01:03:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian state media said the explosion in Andimeshk was a controlled demolition and not the result of an enemy attack."
-    },
-    {
-      "id": "4988327",
-      "time": "2026-07-15 01:03:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特境內再度傳來爆炸聲。"
-    },
-    {
-      "id": "4988326",
-      "time": "2026-07-15 01:03:47",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普要求內塔尼亞胡將部隊撤出敘利亞與黎巴嫩。"
-    },
-    {
-      "id": "4988325",
-      "time": "2026-07-15 01:03:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "美軍駐科威特基地再度遭到導彈與無人機襲擊，現場可聽見爆炸聲。"
-    },
-    {
-      "id": "4988324",
-      "time": "2026-07-15 01:02:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：安迪梅什克傳出的爆炸聲為“受控爆破所致，並非敵方襲擊”。"
-    },
-    {
-      "id": "mkt:019f6194-76c4-7aab-8d86-74f4ea567701",
-      "time": "2026-07-15 01:02:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh's hearing has concluded."
-    },
-    {
-      "id": "mkt:019f6193-d9da-7aab-8d86-6cb3e8c86e23",
-      "time": "2026-07-15 01:01:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he is willing to explore reform options for the large balance sheet he inherited."
-    },
-    {
-      "id": "mkt:019f6193-ca20-7aab-8d86-62751c31d8c7",
-      "time": "2026-07-15 01:01:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Russia, US agree joint plan; International Space Station operations planned to end by end-2030】The office of Russian First Deputy Prime Minister Manturov said that after a visit by NASA Administrator Isaacman, Russia and the United States have drawn up a joint plan under which International Space Station operations are planned to conclude at the end of 2030. The sides also discussed emergency mutual assistance for national orbital stations, lunar cooperation projects, and joint experiments in space medicine and biology. Construction on the ISS began in 1998 with an initial 15-year design life that was subsequently extended several times. The Russian segment's core Zvezda service module has experienced persistent leaks since 2019."
-    },
-    {
-      "id": "4988322",
-      "time": "2026-07-15 01:01:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "歐洲防務企業集團計劃打造可在太空摧毀導彈的攔截系統。"
-    },
-    {
-      "id": "4988321",
-      "time": "2026-07-15 01:00:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我接手了一份規模龐大的資產負債表，並且對改革持開放態度。"
-    },
-    {
-      "id": "mkt:019f6192-fa3d-7aab-8d86-585577f787e3",
-      "time": "2026-07-15 01:00:49",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Kevin Warsh, Federal Reserve chair, said he supports more aggressive use of the Fed's balance sheet in times of crisis."
-    },
-    {
-      "id": "mkt:019f6192-bcf9-7aab-8d86-508fb2464dcb",
-      "time": "2026-07-15 01:00:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Trump says U.S. to sign multiple deals with Iraq, extract large volumes of oil】President Trump told reporters ahead of a meeting with Iraqi Prime Minister Ali Zaidi that the U.S. will sign multiple deals with Iraq and extract large volumes of Iraqi oil, citing the country’s oil potential. He said the agreements would create many jobs for both countries and that U.S. companies would be the primary operators of the extraction. He provided no further details."
-    },
-    {
-      "id": "4988320",
-      "time": "2026-07-15 01:00:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：在危機時期，我們願意對資產負債表採取相當激進的調控措施。"
     }
   ]
 }
