@@ -1,7 +1,28 @@
 {
   "date": "2026-07-22",
-  "count": 124,
+  "count": 126,
   "items": [
+    {
+      "id": "mkt:019f85ef-89ee-7aab-8e30-5d7143b5ad8c",
+      "time": "2026-07-22 02:28:15",
+      "tags": [
+        "MKT News",
+        "GS.O"
+      ],
+      "text": "Goldman Sachs launches a private markets platform."
+    },
+    {
+      "id": "mkt:019f85ee-cd4f-7aab-8e30-5700f64f1ff1",
+      "time": "2026-07-22 02:27:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures rose 2.00% intraday to $4,092.10/oz."
+    },
     {
       "id": "5000779",
       "time": "2026-07-22 02:25:23",
