@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-21 08:58:18",
-  "count": 18962,
+  "updated": "2026-07-21 09:02:56",
+  "count": 18948,
   "items": [
+    {
+      "id": "mkt:019f8231-4028-7aab-8e17-1957165f0450",
+      "time": "2026-07-21 09:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver is up 1.00% intraday at $57/oz."
+    },
+    {
+      "id": "4998688",
+      "time": "2026-07-21 09:01:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報56.97美元/盎司。"
+    },
+    {
+      "id": "mkt:019f8231-0ead-7aab-8e17-105aad934b53",
+      "time": "2026-07-21 09:01:20",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said one hour ago two oil tankers attempting to transit a hazardous route south of the Strait of Hormuz, allegedly after US misdirection, suffered explosions and fires and were forced to stop; rescue teams are evacuating the vessels' crews."
+    },
+    {
+      "id": "4998687",
+      "time": "2026-07-21 09:00:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星電子將成立機器人部門加速研發及商業化，打造增長引擎】韓國三星電子週二表示，將設立一個機器人部門RX(Robotics eXperience)，直接向執行長彙報，以加速該領域的研發和商業化，將機器人技術打造為增長引擎。三星電子表示，RX部門將負責中長期機器人戰略、核心技術開發和業務執行，同時擴大在國內和海外的研究能力。"
+    },
+    {
+      "id": "4998686",
+      "time": "2026-07-21 09:00:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雞蛋連續主力合約日內跌2%，現報4170.00元。"
+    },
+    {
+      "id": "mkt:019f8230-481b-7aab-8e17-0d8759d588fd",
+      "time": "2026-07-21 09:00:29",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "Samsung Electronics announced it will form a robotics business division."
+    },
+    {
+      "id": "mkt:019f8230-358d-7aab-8e17-0113b86d94da",
+      "time": "2026-07-21 09:00:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals",
+        "Energy",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "At the morning open, China's main futures contracts were mixed. Decliners: coking coal, paraxylene (PX), PTA, low-sulfur fuel oil (LU) and coke fell over 2%; PET chips and eggs declined around 2%; short-fiber polyester fell over 1%. Risers: Shanghai silver, soybean meal, Europe-route container shipping, international copper, rapeseed meal and palladium rose over 1%; soybean No.2 and Shanghai copper gained about 1%."
+    },
+    {
+      "id": "4998685",
+      "time": "2026-07-21 09:00:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內跌4%，現報141900.00元。"
+    },
+    {
+      "id": "4998684",
+      "time": "2026-07-21 09:00:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.3%報42,566.93。"
+    },
+    {
+      "id": "mkt:019f8230-086b-7aab-8e16-fd8773528da2",
+      "time": "2026-07-21 09:00:13",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Hang Seng Index"
+      ],
+      "text": "FTSE China A50 futures opened 0.05% higher."
+    },
+    {
+      "id": "4998683",
+      "time": "2026-07-21 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.01%。"
+    },
+    {
+      "id": "4998682",
+      "time": "2026-07-21 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】碳酸鋰連續跌2.85%，焦煤連續跌2.66%，焦炭連續跌2.25%，低硫燃料油連續跌2.20%，對二甲苯連續跌2.17%。"
+    },
+    {
+      "id": "4998679",
+      "time": "2026-07-21 08:58:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【飛天茅臺再度大漲 白酒大單品總價創13天新高】新浪財經“酒價內參”過去24小時收集的資料顯示，中國白酒市場主要大單品的終端零售均價7月21日延續強勢反彈。如果主要單品各取一瓶整體打包售賣，今日總售價為9891元，較昨日大幅上漲42元，連續三天回升，較7月18日創下的階段低點累計上漲86元，創下13天以來最高。飛天茅臺全國零售均價大幅上漲29元/瓶，重新整理今年2月14日以來最高價，成為今日總價上行的核心驅動力。縱觀全場，贏家數量及漲幅均佔據明顯優勢，終端交投情緒環比明顯回暖，總價低位反彈勢頭進一步增強。\n\n今日11大白酒單品七漲三跌一平，贏家盡佔上風。上漲方面，飛天茅臺的漲幅居前，大幅上漲29元/瓶，連續五日快速上行，零售均價升至1787元/瓶，重新整理今年2月14日以來最高價；以i茅臺最新的官方定價1639元/瓶計，其全國終端零售均價相對官方定價的溢價擴大至148元/瓶。精品茅臺與青花郎均上漲7元/瓶，其中前者連續兩日回升，重新站上2400元大關；後者重返700元關口，並創下7月份以來最高價。習酒君品上漲4元/瓶，連續三日回升，創近半月最高價。五糧液普五八代與五糧液1618均上漲3元/瓶，其中前者連續四日自“酒價內參”去年11月有統計以來最低位處反彈，累計回升18元/瓶，進一步逼近800元關口；後者連續兩日自近一月最低位修復，但仍未收復820元關口。洋河夢之藍M6+上漲2元/瓶，連續兩日回升，進一步叩關590元。下跌方面，國窖1573與古井貢古20的跌幅居前，均下跌6元/瓶，其中前者平近一月最大單日跌幅，價格創近一月最低；後者連續兩日回落，創7月份以來最低。水晶劍南春小跌1元/瓶，結束此前連續四日持平穩態。青花汾20價格環比昨日保持不變，連續兩日維持在370元/瓶。"
+    },
+    {
+      "id": "te:economy:568343",
+      "time": "2026-07-21 08:58:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "U.S. to Hit Canada with Broad 50% Tariffs — Canada faces the threat of steep new U.S. trade measures after the Trump administration on Monday announced plans to impose a 50% tariff on Canadian imports starting in 30 days, accusing Ottawa of discriminating against U.S. exports, including alcohol, automobiles, and dairy products. The White House said the tariffs would cover a broad range of goods, from hockey sticks to cement, and would also apply to products covered under the U.S.-Mexico-Canada Agreement (USMCA) that had been exempt from previous tariff actions. Only a limited number of products would be spared, including energy, critical minerals, potash, fish, and goods already subject to sector-specific Section 232 tariffs. The move marks a significant escalation in trade tensions between the two neighboring economies and could disrupt cross-border supply chains if implemented."
+    },
+    {
+      "id": "4998678",
+      "time": "2026-07-21 08:58:06",
+      "tags": [
+        "資料",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信期貨：4000關鍵關口震盪整理，黃金中期仍偏弱，短期方向待明】宏觀層面，6月CPI環比雖出現2020年以來首次下降，但美聯儲主席沃什明確表示通脹任務尚未完成，多位官員持類似鷹派立場。當前市場預期7月加息機率偏低，9月或10月加息 25個基點的預期持續升溫，年底前至少一次加息已基本定價。美伊停火破裂後油價再度上漲，疊加 AI 支出持續注入動力，通脹壓力仍存。2年期國債收益率自2月底累計漲約75個基點，市場已提前定價鷹派預期。資金層面，熱門資產輪動流出，黃金作為前期共識交易持續面臨資金撤離，歷史規律顯示收復前高通常需10個月以上，調整時間或仍不充分。地緣方面，美伊衝突進入第五個月，霍爾木茲海峽局勢持續緊張。情緒層面，前期多頭倉位大幅調整後，市場情緒趨於謹慎，對地緣波動反應明顯鈍化。實物層面，央行購金需求依然強勁，提供底部支撐、限制深度回撥空間。"
+    },
     {
       "id": "4998677",
       "time": "2026-07-21 08:57:19",
@@ -174073,265 +174225,6 @@
         "公司"
       ],
       "text": "【港股股票回購一覽：81只個股獲公司回購】Wind資料顯示，7月13日，共81只港股獲公司回購，8只個股回購金額超千萬港元。其中，極兔速遞-W、快手-W、協鑫科技回購金額最大，分別獲公司回購3918.11萬港元、2998.8萬港元、2502.0萬港元。截至7月13日，今年已有286只港股獲公司回購，80只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購261.28億港元、136.35億港元、109.63億港元。"
-    },
-    {
-      "id": "4985626",
-      "time": "2026-07-14 09:02:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月13日413股獲融資買入超億元 中際旭創穫買入49.28億元居首】7月13日共有3469只個股獲融資資金買入，有413股買入金額超億元。其中，中際旭創、兆易創新、京東方Ａ融資買入金額排名前三，分別獲買入49.28億元、45.98億元、25.95億元。"
-    },
-    {
-      "id": "4985625",
-      "time": "2026-07-14 09:02:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報57.04美元/盎司。"
-    },
-    {
-      "id": "4985624",
-      "time": "2026-07-14 09:02:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體14日報道，美軍位於約旦的基地遭到導彈襲擊。（新華社）"
-    },
-    {
-      "id": "4985623",
-      "time": "2026-07-14 09:01:58",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "新加坡海峽時報指數開盤下跌0.4%，至5446.95點。馬來西亞吉隆坡綜合指數開盤變化不大，報1699.69點。"
-    },
-    {
-      "id": "mkt:019f5e24-6e24-7aab-8d67-953814b0e4cb",
-      "time": "2026-07-14 09:01:13",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D fell 1.68% at the open on July 14 (Tuesday) to 873.3 yuan/gram; silver T+D fell 1.7% to 13,974 yuan/kg."
-    },
-    {
-      "id": "mkt:019f5e24-6ce1-7aab-8d67-8a71dd24a3ec",
-      "time": "2026-07-14 09:01:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Taiwan Stock Exchange weighted index (TAIEX) opened down 225.92 points, or 0.5%, at 45,154.6 on July 14 (Tuesday)."
-    },
-    {
-      "id": "4985622",
-      "time": "2026-07-14 09:00:55",
-      "tags": [],
-      "text": "國內期貨主力合約漲跌不一，SC原油、燃料油漲超8％，低硫燃料油（LU）漲超7％。聚丙烯（PP）、瀝青、乙二醇（EG）漲超6％。跌幅方面，滬銀跌近3％。"
-    },
-    {
-      "id": "mkt:019f5e24-1df8-7aab-8d67-806884138fe9",
-      "time": "2026-07-14 09:00:52",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 futures opened down 0.11%."
-    },
-    {
-      "id": "mkt:019f5e23-a80b-7aab-8d67-78a2e601b9d0",
-      "time": "2026-07-14 09:00:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "At the open, Chinese front-month futures were mixed: Shanghai crude (SC) and fuel oil rose over 8%, low-sulfur fuel oil (LU) gained more than 7%; polypropylene (PP), asphalt and ethylene glycol (EG) were up over 6%, while Shanghai silver fell nearly 3%."
-    },
-    {
-      "id": "4985621",
-      "time": "2026-07-14 09:00:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數開盤變動不大，報45,364.40。"
-    },
-    {
-      "id": "4985620",
-      "time": "2026-07-14 09:00:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲6%，現報2686.00元。"
-    },
-    {
-      "id": "4985619",
-      "time": "2026-07-14 09:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "純苯連續主力合約日內漲5%，現報7388.00元。"
-    },
-    {
-      "id": "4985618",
-      "time": "2026-07-14 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "塑膠連續主力合約日內漲5%，現報7696.00元。"
-    },
-    {
-      "id": "4985617",
-      "time": "2026-07-14 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "乙二醇連續主力合約日內漲7%，現報4625.00元。"
-    },
-    {
-      "id": "4985616",
-      "time": "2026-07-14 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "苯乙烯連續主力合約日內漲5%，現報8366.00元。"
-    },
-    {
-      "id": "4985615",
-      "time": "2026-07-14 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丙烯連續主力合約日內漲6%，現報7600.00元。"
-    },
-    {
-      "id": "4985614",
-      "time": "2026-07-14 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲2%，現報5776.00元。"
-    },
-    {
-      "id": "4985613",
-      "time": "2026-07-14 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲5%，現報2673.00元。"
-    },
-    {
-      "id": "4985612",
-      "time": "2026-07-14 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "燃料油連續主力合約日內漲8%，現報3504.00元。"
-    },
-    {
-      "id": "4985611",
-      "time": "2026-07-14 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲6%，現報4106.00元。"
-    },
-    {
-      "id": "4985610",
-      "time": "2026-07-14 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "上海原油連續主力合約日內漲7%，現報513.40元。"
-    },
-    {
-      "id": "4985609",
-      "time": "2026-07-14 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲7%，現報4406.00元。"
-    },
-    {
-      "id": "4985608",
-      "time": "2026-07-14 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】燃料油連續漲8.51%，上海原油連續漲7.52%，低硫燃料油連續漲7.09%，乙二醇連續漲6.76%，瀝青連續漲6.64%，甲醇連續漲6.00%，丙烯連續漲5.93%，塑膠連續漲5.64%，聚丙烯連續漲5.61%，液化石油氣連續漲5.44%。"
-    },
-    {
-      "id": "4985607",
-      "time": "2026-07-14 09:00:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "聚丙烯連續主力合約日內漲5%，現報8098.00元。"
-    },
-    {
-      "id": "4985606",
-      "time": "2026-07-14 09:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤下跌0.03%。"
-    },
-    {
-      "id": "4985605",
-      "time": "2026-07-14 08:59:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【博世首家美國半導體工廠啟動試生產】德國汽車零部件和晶片製造商博世週一表示，該公司首家美國半導體工廠正開始試生產，並已與美國商務部敲定一項價值2.25億美元的協議，旨在加強碳化矽晶片的國內製造能力。在特朗普總統任內，一些汽車製造商和零部件供應商擴大了在美國的製造業務，旨在規避高昂的關稅並防範地緣政治風險。博世2023年從TSI Semiconductors手中收購位於加州羅斯維爾的晶片工廠並進行了改造，總成本達20億美元（包括美國商務部的資金），並將於今年晚些時候開始商業化量產。"
-    },
-    {
-      "id": "4985604",
-      "time": "2026-07-14 08:59:11",
-      "tags": [],
-      "text": "韓國KOSPI指數漲幅擴大至2％，此前跌近3％。"
-    },
-    {
-      "id": "4985603",
-      "time": "2026-07-14 08:59:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國綜指漲幅擴大至2%】韓國綜指漲幅擴大至2%，現報6944.24點。個股方面，三星電子漲超5%，SK海力士漲超3%。"
-    },
-    {
-      "id": "mkt:019f5e22-4c57-7aab-8d67-75f548ef33ae",
-      "time": "2026-07-14 08:58:53",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "South Korea's KOSPI index extends gains to 2% after earlier falling nearly 3%."
     }
   ]
 }
