@@ -1,7 +1,15 @@
 {
   "date": "2026-07-22",
-  "count": 21,
+  "count": 22,
   "items": [
+    {
+      "id": "mkt:019f857a-38f8-7aab-8e2f-1c0abc014f5c",
+      "time": "2026-07-22 00:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister met Iran's interior minister; Iran's interior minister praised Pakistan's efforts to facilitate an Islamabad memorandum of understanding."
+    },
     {
       "id": "5000717",
       "time": "2026-07-22 00:16:24",

@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-22 00:18:11",
-  "count": 18236,
+  "updated": "2026-07-22 00:22:16",
+  "count": 18220,
   "items": [
+    {
+      "id": "mkt:019f857a-38f8-7aab-8e2f-1c0abc014f5c",
+      "time": "2026-07-22 00:20:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister met Iran's interior minister; Iran's interior minister praised Pakistan's efforts to facilitate an Islamabad memorandum of understanding."
+    },
     {
       "id": "5000717",
       "time": "2026-07-22 00:16:24",
@@ -167648,154 +167656,6 @@
         "國際"
       ],
       "text": "特朗普：週四演講將談及選舉事宜。"
-    },
-    {
-      "id": "4988255",
-      "time": "2026-07-15 00:22:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "負責出口管制事務的美國商務部官員表示，針對晶片與人工智慧領域的監管舉措即將出臺。"
-    },
-    {
-      "id": "4988254",
-      "time": "2026-07-15 00:21:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：還會把物價降得更低。"
-    },
-    {
-      "id": "4988253",
-      "time": "2026-07-15 00:21:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談通脹報告：記住這一點，這關係到中期選舉。"
-    },
-    {
-      "id": "4988252",
-      "time": "2026-07-15 00:21:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：通脹報告令人難以置信。"
-    },
-    {
-      "id": "4988251",
-      "time": "2026-07-15 00:21:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：通脹已經回落。"
-    },
-    {
-      "id": "mkt:019f616e-80b8-7aab-8d85-002f1c2bbebc",
-      "time": "2026-07-15 00:20:59",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed will take responsibility because Congress has provided it with the tools required to achieve price stability."
-    },
-    {
-      "id": "4988250",
-      "time": "2026-07-15 00:20:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：預計通脹走勢將維持穩定。"
-    },
-    {
-      "id": "4988249",
-      "time": "2026-07-15 00:20:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們將承擔責任，國會已賦予我們落實物價穩定承諾所需的政策工具。"
-    },
-    {
-      "id": "4988248",
-      "time": "2026-07-15 00:20:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：近幾個月來，科技（人工智慧）尚未取代就業崗位。"
-    },
-    {
-      "id": "mkt:019f616d-899d-7aab-8d84-fb5ce3c8c90b",
-      "time": "2026-07-15 00:19:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed chair KEVIN WARSH said on artificial intelligence that technology has not displaced workers in recent months."
-    },
-    {
-      "id": "4988247",
-      "time": "2026-07-15 00:19:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談及2003年美國入侵伊拉克一事：當年打錯國家了。"
-    },
-    {
-      "id": "4988246",
-      "time": "2026-07-15 00:19:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗： 蘇萊曼尼當時完全掌控伊朗，伊朗高層都懼怕他。是我下令除掉了他。"
-    },
-    {
-      "id": "4988245",
-      "time": "2026-07-15 00:18:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將與伊拉克達成大量合作協議，創造眾多就業崗位。"
-    },
-    {
-      "id": "mkt:019f616c-57bc-7aab-8d84-f3d39fa349fe",
-      "time": "2026-07-15 00:18:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President TRUMP said he will secure major deals with Iraq and extract large volumes of oil."
-    },
-    {
-      "id": "mkt:019f616c-1daf-7aab-8d84-ea44d5c6ad95",
-      "time": "2026-07-15 00:18:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said federal deposit insurance coverage limits should be binding."
-    },
-    {
-      "id": "4988244",
-      "time": "2026-07-15 00:18:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月14日23時49分在蘇拉威西海（北緯5.30度，東經125.10度）發生6.2級地震，震源深度50千米。"
-    },
-    {
-      "id": "4988243",
-      "time": "2026-07-15 00:18:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我曾給伊朗機會達成協議，他們先開的火，這是個大錯。"
     }
   ]
 }
