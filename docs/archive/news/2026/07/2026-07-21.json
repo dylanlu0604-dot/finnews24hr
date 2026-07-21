@@ -1,7 +1,27 @@
 {
   "date": "2026-07-21",
-  "count": 1076,
+  "count": 1078,
   "items": [
+    {
+      "id": "mkt:019f8291-13fa-7aab-8e1a-56e35bbc7640",
+      "time": "2026-07-21 10:46:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【59th ASEAN Foreign Ministers' Meeting opens in Manila】July 21 — The 59th ASEAN Foreign Ministers' Meeting opened in Manila. Over the next days foreign ministers and senior officials from ASEAN members and multiple dialogue partners will discuss regional security, economic cooperation, global trade and other regional and international hotspot issues; outcomes are being closely watched amid a complex international environment and ongoing global economic headwinds."
+    },
+    {
+      "id": "mkt:019f828f-ce6b-7aab-8e1a-4df64945709b",
+      "time": "2026-07-21 10:44:50",
+      "tags": [
+        "MKT News",
+        "UNH.N",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan raises PT on UnitedHealth (UNH.N) to $516 from $466."
+    },
     {
       "id": "mkt:019f828f-9f2b-7aab-8e1a-479f9e7eb52f",
       "time": "2026-07-21 10:44:38",
