@@ -1,7 +1,27 @@
 {
   "date": "2026-07-22",
-  "count": 78,
+  "count": 80,
   "items": [
+    {
+      "id": "mkt:019f85b6-1847-7aab-8e2f-bc089743414f",
+      "time": "2026-07-22 01:25:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US House Speaker Johnson says US‑Iran war must end, declines to commit on War Powers Act vote】CBS reports House Speaker Mike Johnson declined to say whether he will push for a War Powers Act vote, saying the US‑Iran war needs to end and lawmakers should give the administration room to negotiate an end that avoids further U.S. casualties. He said the administration is working around the clock on that effort and reiterated the US must ensure Iran does not acquire nuclear weapons."
+    },
+    {
+      "id": "5000755",
+      "time": "2026-07-22 01:23:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國參議院透過農業緊急法案。"
+    },
     {
       "id": "5000754",
       "time": "2026-07-22 01:23:11",

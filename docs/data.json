@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-22 01:24:27",
-  "count": 18128,
+  "updated": "2026-07-22 01:28:27",
+  "count": 18117,
   "items": [
+    {
+      "id": "mkt:019f85b6-1847-7aab-8e2f-bc089743414f",
+      "time": "2026-07-22 01:25:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US House Speaker Johnson says US‑Iran war must end, declines to commit on War Powers Act vote】CBS reports House Speaker Mike Johnson declined to say whether he will push for a War Powers Act vote, saying the US‑Iran war needs to end and lawmakers should give the administration room to negotiate an end that avoids further U.S. casualties. He said the administration is working around the clock on that effort and reiterated the US must ensure Iran does not acquire nuclear weapons."
+    },
+    {
+      "id": "5000755",
+      "time": "2026-07-22 01:23:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國參議院透過農業緊急法案。"
+    },
     {
       "id": "5000754",
       "time": "2026-07-22 01:23:11",
@@ -166587,150 +166607,6 @@
         "國際"
       ],
       "text": "伊朗石油部長：我方決定維持現有機制，以此規避並化解石油貿易領域的各類制裁。"
-    },
-    {
-      "id": "mkt:019f61ac-1f5d-7aab-8d86-f5dae4116f14",
-      "time": "2026-07-15 01:28:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed's GOOLSBEE said he would feel much better if PCE inf data tracked CPI over the next few months."
-    },
-    {
-      "id": "4988351",
-      "time": "2026-07-15 01:27:38",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什7月14日聽證會要點總結】 \n1、沃什重申了此前的政策訊號，強調美聯儲在制定政策時將保持獨立性，並致力於將通脹拉回目標水平——畢竟通脹率已經超過目標長達五年之久。他駁斥了關於美聯儲“充分就業”和“物價穩定”兩大使命之間存在“殘酷抉擇”的說法，並表示，只要通脹得到控制，經濟就能繁榮發展，企業也就能擴大招聘。\n\n2、他淡化了聽證會前夕公佈的6月消費者物價指數（CPI）報告的重要性。儘管該報告顯示6月通脹率明顯低於經濟學家的預期，但他表示，雖然有些人可能會說“大功告成”，但“我並不這麼認為”。\n\n3、他還暗示自己傾向於收緊政策，並表示在接下來的時間裡，“我會要求我的同事們進行一場激烈的內部辯論（good family fight），探討我們需要在何種程度和時機動用美聯儲的政策工具，以兌現物價穩定的承諾。”\n\n4、儘管在參議院確認其任職時僅有一名民主黨議員投了贊成票，但沃什還是贏得了聽證會小組中多位民主黨人的好評。資深國會記者史蒂夫·丹尼斯（Steve Dennis）指出，在特朗普持續施壓要求降息的背景下，民主黨人正試圖為他撐腰打氣。\n\n5、市場反應：受此影響，美國國債抹去了早些時候CPI資料公佈後帶來的部分漲幅，不過截至紐約時間下午1:16，兩年期國債收益率仍下跌了近7個基點。標普500指數上漲0.3%，彭博美元現貨指數下跌0.3%。"
-    },
-    {
-      "id": "4988350",
-      "time": "2026-07-15 01:27:21",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果未來幾個月個人消費支出（PCE）通脹資料能像消費者物價指數（CPI）那樣表現，我會放心很多。"
-    },
-    {
-      "id": "mkt:019f61ab-0cd3-7aab-8d86-e98a48ea6383",
-      "time": "2026-07-15 01:27:07",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "GOOLSBEE: Services inf has remained too high; however, today’s services-inf reading was encouraging."
-    },
-    {
-      "id": "4988349",
-      "time": "2026-07-15 01:26:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：服務業通脹一直居高不下。"
-    },
-    {
-      "id": "4988348",
-      "time": "2026-07-15 01:26:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：至少就今日資料來看，服務業通脹走勢令人鼓舞。"
-    },
-    {
-      "id": "4988347",
-      "time": "2026-07-15 01:26:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：如果未來幾個月都能保持當前這種形勢，我會感覺更樂觀。"
-    },
-    {
-      "id": "mkt:019f61aa-34ce-7aab-8d86-e52c8e000994",
-      "time": "2026-07-15 01:26:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor GOOLSBEE said he would feel more comfortable if CPI readings remain low over the next few months."
-    },
-    {
-      "id": "mkt:019f61a9-e128-7aab-8d86-d85a0b982052",
-      "time": "2026-07-15 01:25:50",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve's Goolsbee said June CPI was very strong but he does not want to overreact to a single month's reading."
-    },
-    {
-      "id": "4988346",
-      "time": "2026-07-15 01:25:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：這一點很不錯，但永遠不要對單月資料反應過度。"
-    },
-    {
-      "id": "mkt:019f61a9-6165-7aab-8d86-d47303f95e02",
-      "time": "2026-07-15 01:25:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve's GOOLSBEE said June CPI inf was unexpectedly moderate."
-    },
-    {
-      "id": "4988345",
-      "time": "2026-07-15 01:24:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：6月消費者物價指數通脹資料意外溫和。"
-    },
-    {
-      "id": "mkt:019f61a8-fee5-7aab-8d86-cb114c60e679",
-      "time": "2026-07-15 01:24:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【Apple in talks with AI startup to run large models on iPhone】CNBC reports Apple has held preliminary talks with AI startup PrismML to assess model-compression tech that would let large AI models run on iPhones without cloud compute. PrismML says it can reduce model memory footprint 10–15x, enabling a 27 billion-parameter model to run on iPhone 15 and later, with 6–8x faster response and 3–6x lower energy use. If validated at scale, Apple could shift more Siri and generative-AI functions on‑device, improving latency, privacy, offline use and cutting cloud costs; real-world impacts on battery life, stability and long-term performance remain untested."
     }
   ]
 }
