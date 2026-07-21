@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-22 03:01:38",
-  "count": 18056,
+  "updated": "2026-07-22 03:05:34",
+  "count": 18052,
   "items": [
+    {
+      "id": "mkt:019f860f-3148-7aab-8e30-9f4c15e5cbe6",
+      "time": "2026-07-22 03:02:50",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "Pakistan is seeking a USD 10 bln foreign-exchange stabilization facility from the United States to bolster reserves and ease funding pressure, sources said."
+    },
+    {
+      "id": "mkt:019f860e-198a-7aab-8e30-944d338b8729",
+      "time": "2026-07-22 03:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng index futures in the night session closed down 0.70% at 24,978, trading 154 points below the spot index."
+    },
+    {
+      "id": "5000792",
+      "time": "2026-07-22 03:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，巴基斯坦申請100億美元美國匯率穩定工具以提振外匯儲備。"
+    },
+    {
+      "id": "mkt:019f860d-73fc-7aab-8e30-8f87d779f549",
+      "time": "2026-07-22 03:00:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama said it has recalled its ambassador to Nicaragua."
+    },
     {
       "id": "5000791",
       "time": "2026-07-22 03:00:03",
@@ -165998,80 +166035,6 @@
         "Energy"
       ],
       "text": "The revised bill provides that countries whose imports of Russian natural gas account for less than 15% of Russia's total gas exports and that are taking significant steps to reduce those imports may be granted an exemption."
-    },
-    {
-      "id": "4988442",
-      "time": "2026-07-15 03:05:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗副外長：霍爾木茲海峽屬於 “伊朗國家安全範疇”。"
-    },
-    {
-      "id": "4988441",
-      "time": "2026-07-15 03:05:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "標普道瓊斯指數：擬於 2027 年 9 月指數調整生效時實施行業重新分類。"
-    },
-    {
-      "id": "4988440",
-      "time": "2026-07-15 03:03:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一名法官裁定，阻止特朗普政府推行一項針對社交媒體虛假資訊研究人員的簽證限制政策。"
-    },
-    {
-      "id": "mkt:019f6203-76fd-7aab-8d88-0be6b48a17fd",
-      "time": "2026-07-15 03:03:41",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Revised bill would cap tariffs on buyers of Russian oil and gas at up to 100%, down from a previously proposed flat 500% tariff."
-    },
-    {
-      "id": "mkt:019f6219-bba8-7aab-8d88-69afce8e56e7",
-      "time": "2026-07-15 03:03:41",
-      "tags": [
-        "MKT News",
-        "Hang Seng Index",
-        "Impact bullish"
-      ],
-      "text": "Hang Seng Index futures night session closed up 0.18% at 24,400, trading 59 points above the cash index."
-    },
-    {
-      "id": "4988439",
-      "time": "2026-07-15 03:03:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿根廷國家統計與普查局（INDEC）資料：6 月阿根廷消費者物價指數環比上漲 1.9%。"
-    },
-    {
-      "id": "mkt:019f6202-4bd5-7aab-8d88-05f11a8bf285",
-      "time": "2026-07-15 03:02:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "A US bill on sanctions targeting Russia includes a provision allowing President Trump to waive related sanctions if he determines a waiver is in the US national interest."
-    },
-    {
-      "id": "4988438",
-      "time": "2026-07-15 03:01:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員公佈經特朗普與已故參議員格雷厄姆磋商修訂後的俄羅斯制裁法案全文。"
     }
   ]
 }

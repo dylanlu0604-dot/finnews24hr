@@ -1,7 +1,44 @@
 {
   "date": "2026-07-22",
-  "count": 143,
+  "count": 147,
   "items": [
+    {
+      "id": "mkt:019f860f-3148-7aab-8e30-9f4c15e5cbe6",
+      "time": "2026-07-22 03:02:50",
+      "tags": [
+        "MKT News",
+        "DXY"
+      ],
+      "text": "Pakistan is seeking a USD 10 bln foreign-exchange stabilization facility from the United States to bolster reserves and ease funding pressure, sources said."
+    },
+    {
+      "id": "mkt:019f860e-198a-7aab-8e30-944d338b8729",
+      "time": "2026-07-22 03:01:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng index futures in the night session closed down 0.70% at 24,978, trading 154 points below the spot index."
+    },
+    {
+      "id": "5000792",
+      "time": "2026-07-22 03:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "知情人士透露，巴基斯坦申請100億美元美國匯率穩定工具以提振外匯儲備。"
+    },
+    {
+      "id": "mkt:019f860d-73fc-7aab-8e30-8f87d779f549",
+      "time": "2026-07-22 03:00:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Panama said it has recalled its ambassador to Nicaragua."
+    },
     {
       "id": "5000791",
       "time": "2026-07-22 03:00:03",
