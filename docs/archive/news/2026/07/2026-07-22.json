@@ -1,7 +1,26 @@
 {
   "date": "2026-07-22",
-  "count": 375,
+  "count": 377,
   "items": [
+    {
+      "id": "5000938",
+      "time": "2026-07-22 06:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士正洽談收購英特爾俄亥俄州晶片廠區。"
+    },
+    {
+      "id": "te:markets:568629",
+      "time": "2026-07-22 06:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.61% — Top currency gainers are Brazilian Real (0.61%), Norwegian Krone (0.43%) and Dollar Index (0.25%). Biggest losers are Japanese Yen (-0.42%), British Pound (-0.41%), Swiss Franc (-0.32%) and Euro (-0.13%)."
+    },
     {
       "id": "5000937",
       "time": "2026-07-22 06:13:15",

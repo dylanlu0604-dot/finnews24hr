@@ -1,7 +1,26 @@
 {
-  "updated": "2026-07-22 06:15:06",
-  "count": 18076,
+  "updated": "2026-07-22 06:19:06",
+  "count": 18064,
   "items": [
+    {
+      "id": "5000938",
+      "time": "2026-07-22 06:16:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士正洽談收購英特爾俄亥俄州晶片廠區。"
+    },
+    {
+      "id": "te:markets:568629",
+      "time": "2026-07-22 06:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.61% — Top currency gainers are Brazilian Real (0.61%), Norwegian Krone (0.43%) and Dollar Index (0.25%). Biggest losers are Japanese Yen (-0.42%), British Pound (-0.41%), Swiss Franc (-0.32%) and Euro (-0.13%)."
+    },
     {
       "id": "5000937",
       "time": "2026-07-22 06:13:15",
@@ -166040,130 +166059,6 @@
         "其他"
       ],
       "text": "力拓二季度銅產量21.32萬噸。"
-    },
-    {
-      "id": "mkt:019f62b6-2017-7aab-8d8b-1cbb1bcdd231",
-      "time": "2026-07-15 06:18:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "UK Foreign Office summoned Iran's chargé d’affaires in London over an attack carried out by a proxy group."
-    },
-    {
-      "id": "4988555",
-      "time": "2026-07-15 06:18:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗相關行動：我方會盡力規避傷及平民。"
-    },
-    {
-      "id": "mkt:019f62b5-bc7f-7aab-8d8b-15191a7cd8c8",
-      "time": "2026-07-15 06:18:25",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "AFP: U.S. President Trump threatened to strike Iranian power plants next week if no agreement is reached."
-    },
-    {
-      "id": "4988554",
-      "time": "2026-07-15 06:18:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國外交部：就代理人武裝發動襲擊一事召見伊朗臨時代辦。"
-    },
-    {
-      "id": "4988553",
-      "time": "2026-07-15 06:17:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：現在我不想與伊朗對話。"
-    },
-    {
-      "id": "4988552",
-      "time": "2026-07-15 06:17:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：美國官員已於週二與伊朗舉行會談，美國敦促伊朗達成協議。"
-    },
-    {
-      "id": "mkt:019f62b4-3ae2-7aab-8d8b-0c1998aa37d9",
-      "time": "2026-07-15 06:16:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said the US urges Iran to reach an agreement."
-    },
-    {
-      "id": "4988551",
-      "time": "2026-07-15 06:16:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：海峽航道對外開放，但伊朗船隻除外。"
-    },
-    {
-      "id": "mkt:019f62b4-12a1-7aab-8d8b-017022608a1c",
-      "time": "2026-07-15 06:16:36",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "U.S. President Trump said the U.S. held talks with Iran on Tuesday."
-    },
-    {
-      "id": "4988550",
-      "time": "2026-07-15 06:16:24",
-      "tags": [
-        "市場"
-      ],
-      "text": "【頭部公募掀起南下“舉牌潮”，港股創新藥開啟估值修復行情】近日，港股創新藥板塊掀起一輪公募基金“舉牌潮”。易方達、富國、匯添富等頭部公募基金在一個月內增持多隻港股創新藥標的，並觸及舉牌線。與此同時，南向資金對邁威生物、科濟藥業等個股的持股數6月以來也出現大幅提升。機構認為，在AI主線進入休整、資金尋求高低切換的背景下，估值處於歷史低位、BD出海持續放量且政策紅利加速釋放的創新藥板塊，正迎來多重邏輯共振的估值修復視窗。（上證報）"
-    },
-    {
-      "id": "4988549",
-      "time": "2026-07-15 06:16:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：只要各國船只願意通行，霍爾木茲海峽航道就保持暢通。"
-    },
-    {
-      "id": "4988548",
-      "time": "2026-07-15 06:16:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技IPO定價出爐，專家呼籲理性看待企業創新成長價值】7月14日晚間，長鑫科技披露IPO上市發行安排及初步詢價公告，透過網下詢價方式確定公司發行價為8.66元/股。結合公司上市後的總股本推算，長鑫科技的上市估值為5791.88億元。對於這一發行定價，不少投資者難免疑惑：說好的市值衝擊萬億，詢價結果是不是低於預期？市場專家告訴記者，長鑫科技的發行定價，是充分考慮了企業當下的實際情況，公司估值隨著企業的成長逐步提升，才是真正的“長期主義”。（上證報）"
-    },
-    {
-      "id": "4988547",
-      "time": "2026-07-15 06:15:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普提及伊朗鎬山（皮卡克山）地下核設施：沒人能確定伊朗是否在鎬山開展相關活動。"
-    },
-    {
-      "id": "mkt:019f62b2-b5f5-7aab-8d8a-fbbd713e56e5",
-      "time": "2026-07-15 06:15:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iranian media quoted the governor of Hormozgan province saying sounds heard at Abbas Port, along the coast and on Persian Gulf islands were linked to clashes in the Strait of Hormuz."
     }
   ]
 }
