@@ -1,7 +1,41 @@
 {
   "date": "2026-07-22",
-  "count": 377,
+  "count": 381,
   "items": [
+    {
+      "id": "mkt:019f86c6-38ad-7aab-8e33-09c0821941c5",
+      "time": "2026-07-22 06:22:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【White House plans to shift federal R&D funding toward AI and individual scientists】The White House plans to accelerate federal research reform, redirecting more R&D funding toward AI applications and individual investigators rather than primarily to universities, according to a draft report and memos seen by the Wall Street Journal. The Office of Science and Technology Policy is expected to release guidance on Tuesday that would influence roughly $200 billion of annual federal R&D spending and steer allocations through the remainder of the Trump administration. The administration says it will prioritize funding mechanisms aimed at individual researchers—scholarships, prize programs and investigator awards—over direct university block grants; cited demonstration programs include NSF graduate-level initiatives and NIH awards for innovative scientists."
+    },
+    {
+      "id": "5000940",
+      "time": "2026-07-22 06:20:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國議員要求SEC 調查特朗普旗下的Truth Social資料商業化計劃。"
+    },
+    {
+      "id": "mkt:019f86c4-4435-7aab-8e33-04da9e5e7ad2",
+      "time": "2026-07-22 06:20:37",
+      "tags": [
+        "MKT News",
+        "DJT.O",
+        "Impact bearish"
+      ],
+      "text": "U.S. lawmakers have asked the SEC to investigate Trump Media & Technology Group (DJT.O) over plans to commercialize data access on Truth Social, Axios reported. Earlier reports said the company plans to launch a Truth API on Aug. 1 that would sell real-time access to public posts from the platform’s top-10 accounts."
+    },
+    {
+      "id": "5000939",
+      "time": "2026-07-22 06:18:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創擬在港上市，最高募資70億美元。"
+    },
     {
       "id": "5000938",
       "time": "2026-07-22 06:16:04",
