@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-21 08:35:02",
-  "count": 18981,
+  "updated": "2026-07-21 08:38:53",
+  "count": 18979,
   "items": [
+    {
+      "id": "4998656",
+      "time": "2026-07-21 08:38:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【調查：韓國第二季經濟增速或將放緩，內需疲軟抵消強勁出口增長】路透對經濟學家進行的一項調查顯示，由於強勁的出口增長被內需疲軟所抵消，韓國第二季經濟增速可能比第一季慢得多。根據24位受訪經濟學家的預估中值，韓國2026年第二季經季調國內生產總值(GDP)為增長0.4%，低於今年第一季度的1.8%增幅，後者為近六年來最快增速。這項調查在7月7日至20日進行，預測區間在0.1%至1.0%之間。"
+    },
+    {
+      "id": "te:markets:568339",
+      "time": "2026-07-21 08:37:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "UltraTech Cement earnings above expectations at 88.31 INR — UltraTech Cement (UTCEM) released earnings per share at 88.31 INR, compared to market expectations of 74.89 INR."
+    },
+    {
+      "id": "4998655",
+      "time": "2026-07-21 08:37:22",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【上證報：A股市場經歷階段性調整 穩市場力量在集結】近期，A股市場經歷階段性調整，市場情緒承壓。然而，在劇烈波動之中，穩市場的各方力量正在集結：萬億險資逆勢加倉，堅定做“耐心資本”；多家券商接力回購股份，密集發聲穩定預期；券商首席普遍認為調整屬技術性回撥，A股中長期韌性充足。經濟基本面向好、政策託底有力、產業趨勢未變，正是機構看多後市的底氣所在。對於市場調整後的操作策略，券商趨於一致的建議是：不恐慌“割肉”，也不盲目抄底。中國銀河證券首席經濟學家、研究院院長章俊表示：本輪下跌屬於良性的技術性調整，當下市場已具備企穩反彈條件，指數迎來修復視窗。中信證券研報認為，前期指數調整更類似於市場K形分化後的再平衡。在高位板塊估值壓力釋放後，A股市場定價有望逐步迴歸基本面邏輯。"
+    },
+    {
+      "id": "4998654",
+      "time": "2026-07-21 08:36:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4020美元/盎司，日內漲0.33%。"
+    },
+    {
+      "id": "te:markets:568337",
+      "time": "2026-07-21 08:36:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Climb in Post-Holiday Trading — The Nikkei 225 Index rose 1.2% to above 64,900, while the broader Topix Index gained 0.8% to 3,950 on Tuesday, recovering part of last week's losses as investors returned from a holiday-extended weekend, with technology stocks leading the advance. The recent selloff in semiconductor and artificial intelligence-related shares showed signs of easing after US chipmakers posted overnight gains. Leading technology performers in Japan included Kioxia Holdings (3.4%), Advantest (0.8%), Taiyo Yuden (0.9%), Ibiden Co (3%), and Fujikura (0.9%). Financial and consumer stocks also moved higher, including Mitsubishi UFJ (0.8%), Sumitomo Mitsui (0.9%), and Fast Retailing (1.3%). Meanwhile, investors continued to monitor ongoing hostilities in the Middle East, which drove oil prices higher and reignited concerns over inflation and the possibility of interest rate hikes."
+    },
+    {
+      "id": "mkt:019f8219-c235-7aab-8e16-c31ef80ddbca",
+      "time": "2026-07-21 08:35:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US official: Trump to decide within days whether to expand operations against Iran】According to Fox News, US senior officials said President Trump is expected to decide within days whether to broaden military action against Iran and resume full-scale operations; no final decision has been made. Officials said any order to resume full-scale operations would be far larger and more intense than the airstrikes that began July 7 and ran nine nights, which mainly targeted Iranian military assets tied to activity around the Strait of Hormuz. One official said US forces have largely avoided strikes near Tehran or against Iranian nuclear facilities to date; that could change if full-scale operations are ordered."
+    },
+    {
+      "id": "4998653",
+      "time": "2026-07-21 08:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訂單火熱 價格回落 碳酸鋰走弱背後的“溫差”真相】在短期供應端出現確定性下降、下半年需求旺盛、鋰電企業加快擴產的背景下，碳酸鋰價格卻一反常態，呈現回落態勢。 上海鋼聯資料顯示，7月20日，電池級碳酸鋰現貨均價為15.22萬元/噸，較月初下滑7200元/噸，較6月初下滑2.5萬元/噸。記者調研獲悉，短期內受辛巴威鋰精礦尚未大規模運至國內等因素影響，碳酸鋰供給仍然偏緊，但市場情緒偏弱。受訪專家對記者表示，市場正在參考遠期的供給寬鬆進行提前定價。（中證報）"
+    },
     {
       "id": "mkt:019f8218-1024-7aab-8e16-bbb1b3814516",
       "time": "2026-07-21 08:34:02",
@@ -174425,88 +174496,6 @@
         "國際"
       ],
       "text": "【伊朗外長：伊朗永遠是霍爾木茲海峽的守護者】伊朗外交部長阿拉格齊13日說，伊朗“一直是霍爾木茲海峽的守護者”，並且將“永遠如此”。 針對美國總統特朗普宣稱將對霍爾木茲海峽貨運收取20%費用，阿拉格齊在社交媒體發文回應說：“美國總統說得沒錯，誰保障霍爾木茲海峽的航運安全，誰就該收這筆服務費。伊朗一直是海峽的守護者，以後也是。不過20%確實太高了，我們會公道的。” 特朗普13日早些時候在社交媒體發文稱，美國將恢復對伊朗的海上封鎖，並將對所有經由霍爾木茲海峽運輸的貨物收取20%的費用。(新華社)"
-    },
-    {
-      "id": "4985575",
-      "time": "2026-07-14 08:38:40",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【布倫特升破每桶85美元 特朗普重新封鎖透過霍爾木茲海峽的伊朗船隻】週一已大漲近10%後，油價延續漲勢。此前，美國總統唐納德·特朗普重新封鎖了經過霍爾木茲海峽的伊朗船隻，並對所有其他透過這條重要水道運輸的貨物收取通行費。布倫特原油價格攀升至每桶85美元以上，WTI原油價格升破每桶80美元。特朗普要求對經霍爾木茲海峽運輸的貨物收取20%的補償；按滿載原油的超大型油輪計算，約合3,000萬美元。美軍則是第三個晚上對伊朗發動襲擊，可能會持續數天。"
-    },
-    {
-      "id": "mkt:019f5e0f-3d8b-7aab-8d67-08ef5595a20b",
-      "time": "2026-07-14 08:38:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Air-raid siren near U.S. embassy in Baghdad's Green Zone】An air-raid siren sounded near the U.S. embassy in Baghdad's Green Zone at about 03:30 local time on July 14 (08:30 Beijing time)."
-    },
-    {
-      "id": "4985574",
-      "time": "2026-07-14 08:37:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美駐伊拉克使館附近拉響防空警報 】當地時間今天（7月14日）凌晨3點30分（北京時間上午8點30分）左右，位於伊拉克首都巴格達“綠區”的美國使館附近拉響防空警報。"
-    },
-    {
-      "id": "mkt:019f5e0d-c126-7aab-8d67-0158994a15e5",
-      "time": "2026-07-14 08:36:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "A Reuters survey showed 36 of 37 economists expect the Bank of Korea to raise its policy rate to 2.75% at the July 16 meeting. Of 31 economists, 28 expect the policy rate to reach 3.00% by year-end."
-    },
-    {
-      "id": "te:markets:566546",
-      "time": "2026-07-14 08:36:20",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Fall for Second Straight Session — The Nikkei 225 Index fell 0.8% to around 66,700 on Tuesday, declining for a second consecutive session and touching its lowest level in a month as escalating tensions in the Middle East dampened investor sentiment. President Donald Trump reinstated a blockade on Iranian vessels transiting the Strait of Hormuz, sending oil prices sharply higher and weighing on global equities amid renewed concerns that central banks may need to raise interest rates to contain inflation. Japanese stocks also followed a tech-led selloff on Wall Street overnight, as chipmakers came under heavy selling pressure on mounting concerns over the sustainability of the artificial intelligence trade. Technology and AI-related shares led the declines in Japan, including Kioxia Holdings (-1.5%), Taiyo Yuden (-2.3%), Murata Manufacturing (-3.1%), SoftBank Group (-2.2%), and Fujikura (-6.7%)."
-    },
-    {
-      "id": "4985573",
-      "time": "2026-07-14 08:36:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "三星電子股價上漲3%。"
-    },
-    {
-      "id": "4985572",
-      "time": "2026-07-14 08:35:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "路透調查：韓國央行料在7月16日進行逾三年來首次升息，將基準利率提高至2.75%。"
-    },
-    {
-      "id": "4985571",
-      "time": "2026-07-14 08:35:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "路透調查：31位經濟學家中有28位預計，韓國央行將在年底前將基準利率上調至3.00%。"
-    },
-    {
-      "id": "4985570",
-      "time": "2026-07-14 08:35:22",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：AI產業趨勢再次成為影響美股科技股下半年走勢核心變數 關注Hyperscaler、應用軟體&網際網路廠商】中信證券研報表示，伴隨宏觀尾部風險的下降，AI產業趨勢再次成為影響美股科技股下半年走勢的核心變數。展望下半年，我們對各科技子板塊的判斷為：1）硬體&半導體，料將持續處於高波動狀態當中，市場交易廣度持續收窄，並集中於產業鏈中最具議價能力&價格彈性環節，以及技術創新帶來顯著增量的領域；2）Hyperscaler廠商，宏觀預期的改善，料將顯著改善市場對其傳統網際網路、軟體業務的預期。部分關於Hyperscaler廠商資本開支囚徒困境的觀點，顯然也過於誇大，參考META歷史經驗，華爾街態度、董事會壓力或是打破僵局最好的途徑，市場不應低估其資本開支節奏主動調節能力；3）軟體&網際網路，伴隨市場對AI模型的逐步祛魅，軟體&網際網路企業的悲觀定價正逐步改善，但營收增速的觸底回升仍是股價反彈的必要條件，宏觀預期改善+超過1年的業務調整&最佳化正在增加這種可能性。"
     }
   ]
 }

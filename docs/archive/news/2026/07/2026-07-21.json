@@ -1,7 +1,78 @@
 {
   "date": "2026-07-21",
-  "count": 491,
+  "count": 498,
   "items": [
+    {
+      "id": "4998656",
+      "time": "2026-07-21 08:38:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【調查：韓國第二季經濟增速或將放緩，內需疲軟抵消強勁出口增長】路透對經濟學家進行的一項調查顯示，由於強勁的出口增長被內需疲軟所抵消，韓國第二季經濟增速可能比第一季慢得多。根據24位受訪經濟學家的預估中值，韓國2026年第二季經季調國內生產總值(GDP)為增長0.4%，低於今年第一季度的1.8%增幅，後者為近六年來最快增速。這項調查在7月7日至20日進行，預測區間在0.1%至1.0%之間。"
+    },
+    {
+      "id": "te:markets:568339",
+      "time": "2026-07-21 08:37:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "UltraTech Cement earnings above expectations at 88.31 INR — UltraTech Cement (UTCEM) released earnings per share at 88.31 INR, compared to market expectations of 74.89 INR."
+    },
+    {
+      "id": "4998655",
+      "time": "2026-07-21 08:37:22",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【上證報：A股市場經歷階段性調整 穩市場力量在集結】近期，A股市場經歷階段性調整，市場情緒承壓。然而，在劇烈波動之中，穩市場的各方力量正在集結：萬億險資逆勢加倉，堅定做“耐心資本”；多家券商接力回購股份，密集發聲穩定預期；券商首席普遍認為調整屬技術性回撥，A股中長期韌性充足。經濟基本面向好、政策託底有力、產業趨勢未變，正是機構看多後市的底氣所在。對於市場調整後的操作策略，券商趨於一致的建議是：不恐慌“割肉”，也不盲目抄底。中國銀河證券首席經濟學家、研究院院長章俊表示：本輪下跌屬於良性的技術性調整，當下市場已具備企穩反彈條件，指數迎來修復視窗。中信證券研報認為，前期指數調整更類似於市場K形分化後的再平衡。在高位板塊估值壓力釋放後，A股市場定價有望逐步迴歸基本面邏輯。"
+    },
+    {
+      "id": "4998654",
+      "time": "2026-07-21 08:36:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4020美元/盎司，日內漲0.33%。"
+    },
+    {
+      "id": "te:markets:568337",
+      "time": "2026-07-21 08:36:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Japanese Shares Climb in Post-Holiday Trading — The Nikkei 225 Index rose 1.2% to above 64,900, while the broader Topix Index gained 0.8% to 3,950 on Tuesday, recovering part of last week's losses as investors returned from a holiday-extended weekend, with technology stocks leading the advance. The recent selloff in semiconductor and artificial intelligence-related shares showed signs of easing after US chipmakers posted overnight gains. Leading technology performers in Japan included Kioxia Holdings (3.4%), Advantest (0.8%), Taiyo Yuden (0.9%), Ibiden Co (3%), and Fujikura (0.9%). Financial and consumer stocks also moved higher, including Mitsubishi UFJ (0.8%), Sumitomo Mitsui (0.9%), and Fast Retailing (1.3%). Meanwhile, investors continued to monitor ongoing hostilities in the Middle East, which drove oil prices higher and reignited concerns over inflation and the possibility of interest rate hikes."
+    },
+    {
+      "id": "mkt:019f8219-c235-7aab-8e16-c31ef80ddbca",
+      "time": "2026-07-21 08:35:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【US official: Trump to decide within days whether to expand operations against Iran】According to Fox News, US senior officials said President Trump is expected to decide within days whether to broaden military action against Iran and resume full-scale operations; no final decision has been made. Officials said any order to resume full-scale operations would be far larger and more intense than the airstrikes that began July 7 and ran nine nights, which mainly targeted Iranian military assets tied to activity around the Strait of Hormuz. One official said US forces have largely avoided strikes near Tehran or against Iranian nuclear facilities to date; that could change if full-scale operations are ordered."
+    },
+    {
+      "id": "4998653",
+      "time": "2026-07-21 08:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【訂單火熱 價格回落 碳酸鋰走弱背後的“溫差”真相】在短期供應端出現確定性下降、下半年需求旺盛、鋰電企業加快擴產的背景下，碳酸鋰價格卻一反常態，呈現回落態勢。 上海鋼聯資料顯示，7月20日，電池級碳酸鋰現貨均價為15.22萬元/噸，較月初下滑7200元/噸，較6月初下滑2.5萬元/噸。記者調研獲悉，短期內受辛巴威鋰精礦尚未大規模運至國內等因素影響，碳酸鋰供給仍然偏緊，但市場情緒偏弱。受訪專家對記者表示，市場正在參考遠期的供給寬鬆進行提前定價。（中證報）"
+    },
     {
       "id": "mkt:019f8218-1024-7aab-8e16-bbb1b3814516",
       "time": "2026-07-21 08:34:02",
