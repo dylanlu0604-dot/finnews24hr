@@ -1,7 +1,1007 @@
 {
-  "updated": "2026-07-21 22:26:39",
-  "count": 18392,
+  "updated": "2026-07-21 23:19:21",
+  "count": 18307,
   "items": [
+    {
+      "id": "5000660",
+      "time": "2026-07-21 23:18:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及胡塞武裝封鎖：一旦事態爆發，我們將採取必要行動處置。"
+    },
+    {
+      "id": "mkt:019f8541-b4b1-7aab-8e2d-8f95fb99e0f2",
+      "time": "2026-07-21 23:18:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump, asked about a possible Red Sea blockade, said if it occurs the US will handle it."
+    },
+    {
+      "id": "5000659",
+      "time": "2026-07-21 23:18:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "被問及《亞伯拉罕協議》時，特朗普表示將與奧恩就此展開磋商。"
+    },
+    {
+      "id": "5000658",
+      "time": "2026-07-21 23:18:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及胡塞武裝封鎖行動：後續事態有待觀察。"
+    },
+    {
+      "id": "mkt:019f8541-5fce-7aab-8e2d-81a07730cdd7",
+      "time": "2026-07-21 23:18:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said he would wait and see on the Houthi blockade."
+    },
+    {
+      "id": "5000657",
+      "time": "2026-07-21 23:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉衛生部證實已有三人死於漢坦病毒感染。"
+    },
+    {
+      "id": "mkt:019f8540-f8b4-7aab-8e2d-7e5dba03e248",
+      "time": "2026-07-21 23:17:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "New Zealand Global Dairy Trade (GDT) price index rose 1.5% on July 7; prior reading -4.9%."
+    },
+    {
+      "id": "mkt:019f8540-da4b-7aab-8e2d-73d142dd2b5d",
+      "time": "2026-07-21 23:17:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "New Zealand | Global Dairy Trade Price Index (MoM) (Jul.7) | actual 1.5% | previous -4.9%"
+    },
+    {
+      "id": "5000656",
+      "time": "2026-07-21 23:17:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "由紐西蘭運營的全球乳製品交易價格指數上漲 1.5%，拍賣平均成交價格為每噸 3815 美元。"
+    },
+    {
+      "id": "mkt:019f853f-c43b-7aab-8e2d-6c8ee7f6e2aa",
+      "time": "2026-07-21 23:16:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Aoun said Lebanon must achieve stability and security."
+    },
+    {
+      "id": "mkt:019f853f-bf24-7aab-8e2d-600285bfe8db",
+      "time": "2026-07-21 23:16:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Apple to partner with Klarna on Apple Upgrade device-leasing program to boost sales】Apple (AAPL.O) plans to launch a device-leasing program called Apple Upgrade on July 28, a move sources say will be one of the largest changes to its device sales model. The US-first rollout will cover most iPhone, Mac, iPad and Apple Watch models and will be available in Apple retail stores and online. Klarna Group will provide funding for the program. The subscription-style service allows customers to prepay, upgrade early (early upgrades may incur fees), keep devices after the lease or return them. Lease terms: 24 months for iPhone and Apple Watch; 36 months for Mac and iPad."
+    },
+    {
+      "id": "5000655",
+      "time": "2026-07-21 23:16:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩總統奧恩感謝特朗普，稱框架協議簽署具有歷史性意義。"
+    },
+    {
+      "id": "mkt:019f853f-8c00-7aab-8e2d-5e5bf8036f6c",
+      "time": "2026-07-21 23:16:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President Aoun thanked U.S. President Trump for the historic achievement in signing the framework agreement."
+    },
+    {
+      "id": "5000654",
+      "time": "2026-07-21 23:15:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：黎巴嫩將得到公正對待，受到尊重。"
+    },
+    {
+      "id": "mkt:019f853e-fdbc-7aab-8e2d-506409627983",
+      "time": "2026-07-21 23:15:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said he will treat Lebanon properly and accord it due respect."
+    },
+    {
+      "id": "5000653",
+      "time": "2026-07-21 23:15:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將大力援助黎巴嫩。"
+    },
+    {
+      "id": "mkt:019f853e-64fb-7aab-8e2d-49840953af90",
+      "time": "2026-07-21 23:14:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said the U.S. will provide substantial assistance to Lebanon."
+    },
+    {
+      "id": "mkt:019f853e-1a3a-7aab-8e2d-4153e2675511",
+      "time": "2026-07-21 23:14:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump says he expects to make significant progress with Lebanon President Aoun."
+    },
+    {
+      "id": "5000652",
+      "time": "2026-07-21 23:14:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：數十年來黎巴嫩遭受沉重打擊。"
+    },
+    {
+      "id": "mkt:019f853d-f7c2-7aab-8e2d-3b8e90e074bf",
+      "time": "2026-07-21 23:14:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Trump said U.S. relations with Lebanon are very good."
+    },
+    {
+      "id": "mkt:019f853d-f456-7aab-8e2d-37e76ee1d2b2",
+      "time": "2026-07-21 23:14:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said Lebanon has suffered severe damage for decades."
+    },
+    {
+      "id": "mkt:019f853d-d183-7aab-8e2d-290c43b041b6",
+      "time": "2026-07-21 23:14:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Klarna shares jumped more than 9% in a sharp intraday rally."
+    },
+    {
+      "id": "5000651",
+      "time": "2026-07-21 23:13:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：將與黎巴嫩總統奧恩取得諸多進展。"
+    },
+    {
+      "id": "mkt:019f853d-37c4-7aab-8e2d-2516eddbc53b",
+      "time": "2026-07-21 23:13:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) partners with Klarna to launch an \"Upgrade\" device-leasing program."
+    },
+    {
+      "id": "5000650",
+      "time": "2026-07-21 23:13:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們對黎巴嫩的形勢感到非常樂觀。"
+    },
+    {
+      "id": "5000649",
+      "time": "2026-07-21 23:12:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "蘋果將與 Klarna 合作於 7 月 28 日在美國 推出全新「Apple Upgrade」租賃計劃，全新「Apple Upgrade」租賃計劃將覆蓋 iPhone、iPad、Mac 以及 Apple Watch 產品。"
+    },
+    {
+      "id": "mkt:019f853c-a428-7aab-8e2d-1db9e2e6f235",
+      "time": "2026-07-21 23:12:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said he is very optimistic about the situation in Lebanon."
+    },
+    {
+      "id": "mkt:019f853c-28e9-7aab-8e2d-13b21e603222",
+      "time": "2026-07-21 23:12:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【NVIDIA says Vera Rubin chips being delivered to customers; mass production under way】NVIDIA (NVDA.O) said its next-generation Vera Rubin chip architecture is being delivered to major AI customers and has entered mass production, reinforcing its industry lead, Vice President and General Manager Ian Buck said. \"We have fully entered mass production; all major customers are deploying the systems,\" he said."
+    },
+    {
+      "id": "mkt:019f853c-11d1-7aab-8e2d-08e2e0764c6b",
+      "time": "2026-07-21 23:12:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) plans to launch an \"Upgrade\" device leasing program in the U.S. on July 28."
+    },
+    {
+      "id": "mkt:019f853b-78b2-7aab-8e2d-015512c2a497",
+      "time": "2026-07-21 23:11:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) will expand its Upgrade device leasing program to cover iPhone, iPad, Mac and Apple Watch."
+    },
+    {
+      "id": "mkt:019f853b-2c6f-7aab-8e2c-f8751d818537",
+      "time": "2026-07-21 23:11:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Apple (AAPL.O) will launch an \"upgrade\" device-leasing program to boost sales."
+    },
+    {
+      "id": "5000648",
+      "time": "2026-07-21 23:09:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋茨基金會評估結果顯示，並沒有證據表明該機構向愛潑斯坦付款。"
+    },
+    {
+      "id": "5000647",
+      "time": "2026-07-21 23:09:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：黎巴嫩總統奧恩備受尊敬。"
+    },
+    {
+      "id": "mkt:019f8539-943f-7aab-8e2c-f6c7e7da8e85",
+      "time": "2026-07-21 23:09:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said Lebanese President Aoun is highly respected."
+    },
+    {
+      "id": "mkt:019f8539-5b8d-7aab-8e2c-ed56e076e13b",
+      "time": "2026-07-21 23:09:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Market sources: US President Trump will meet Lebanon's president at the White House."
+    },
+    {
+      "id": "5000646",
+      "time": "2026-07-21 23:08:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在白宮會見黎巴嫩總統前與其會面寒暄。"
+    },
+    {
+      "id": "mkt:019f8538-8ccd-7aab-8e2c-e7ae5235cac7",
+      "time": "2026-07-21 23:08:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Kuwait summons Iranian ambassador after tanker attack near Strait of Hormuz】Kuwait Deputy Foreign Minister Hamad Sulaiman Mashaan summoned Iran’s ambassador to Kuwait, Mohammad Tutunji, and presented a diplomatic note protesting an attack on a Kuwaiti tanker in the Strait of Hormuz. The previous day an oil/chemical tanker was struck near the strait; its fuel tanks caught fire, producing heavy smoke, and the crew abandoned ship."
+    },
+    {
+      "id": "mkt:019f8536-2d8f-7aab-8e2c-dd25f943ba9e",
+      "time": "2026-07-21 23:05:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said provinces will be responsible for lifting bans on U.S. alcohol and should do so only if a comprehensive trade agreement with the United States is reached."
+    },
+    {
+      "id": "5000645",
+      "time": "2026-07-21 23:05:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼： 各省有權解除針對美國酒類產品的禁令，且各省應當僅在達成全面美加貿易協議的前提下解除相關禁令。"
+    },
+    {
+      "id": "mkt:019f8535-8ddb-7aab-8e2c-d0eb05ade391",
+      "time": "2026-07-21 23:05:07",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "Canadian Prime Minister Carney said he does not want a partial trade deal with the US and instead seeks a comprehensive agreement covering all key areas."
+    },
+    {
+      "id": "mkt:019f8535-70f8-7aab-8e2c-cd45e3f48615",
+      "time": "2026-07-21 23:04:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google (GOOG.O): GEMINI 3.6 Flash priced at dlr1.50 per MLN input tokens and dlr7.50 per MLN output tokens."
+    },
+    {
+      "id": "5000644",
+      "time": "2026-07-21 23:04:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼： 不希望與美國達成區域性貿易協定，而是想要一份覆蓋所有關鍵行業的協議。"
+    },
+    {
+      "id": "5000643",
+      "time": "2026-07-21 23:04:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科威特召見伊朗大使 抗議該國船隻遭襲】當地時間21日，科威特外交部副大臣哈馬德·蘇萊曼·馬沙安代表科外交部召見伊朗駐科威特大使穆罕默德·圖通吉。馬沙安向圖通吉遞交外交照會，以表達科方對此前科威特油輪在霍爾木茲海峽遇襲的抗議。此前一天，一艘油化船在霍爾木茲海峽附近遭襲，燃油艙起火，船體冒出大量濃煙，船員棄船。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8534-9104-7aab-8e2c-c00c2f87f9ad",
+      "time": "2026-07-21 23:04:02",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google (GOOG.O): GEMINI 3.5 Flash-Lite priced at $0.3 per million input tokens and $2.5 per million output tokens."
+    },
+    {
+      "id": "5000642",
+      "time": "2026-07-21 23:03:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：Gemini 3.5 Pro目前正在與合作伙伴測試，計劃在準備就緒後儘快廣泛推出。已開始對Gemini 4進行預訓練。推出Gemini 3.6 Flash、Gemini 3.5 Flash-Lite及Gemini 3.5 Flash Cyber。Gemini 3.5 Flash-Lite定價為每百萬輸入token 0.3美元、每百萬輸出token 2.5美元。"
+    },
+    {
+      "id": "mkt:019f8534-00ad-7aab-8e2c-bb636072abf6",
+      "time": "2026-07-21 23:03:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan Prime Minister Sharif said Pakistan will continue to act as a mediator."
+    },
+    {
+      "id": "mkt:019f8533-ec70-7aab-8e2c-b374c94f6337",
+      "time": "2026-07-21 23:03:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Canadian Prime Minister Carney said if Canada faces tariffs, Ottawa will consider all available response options."
+    },
+    {
+      "id": "5000641",
+      "time": "2026-07-21 23:03:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴基斯坦總理：敦促所有方面保持克制。巴方將繼續發揮調停人作用。"
+    },
+    {
+      "id": "mkt:019f8533-6c53-7aab-8e2c-aafb1c1b233e",
+      "time": "2026-07-21 23:02:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Google (GOOG.O) launched Gemini 3.6 Flash, Gemini 3.5 Flash-Lite and Gemini 3.5 Flash Cyber."
+    },
+    {
+      "id": "5000640",
+      "time": "2026-07-21 23:02:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼： 如果美國落實最新關稅威脅，加拿大將考量所有應對選項。"
+    },
+    {
+      "id": "mkt:019f8532-13d5-7aab-8e2c-a254e56fa8e0",
+      "time": "2026-07-21 23:01:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) said Gemini 3.5 Pro is currently in partner testing and will be rolled out widely once ready. Pre-training for Gemini 4 has begun."
+    },
+    {
+      "id": "5000639",
+      "time": "2026-07-21 23:01:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【113傢俬募打新長鑫科技獲配，梁文鋒旗下幻方、九章拿下私募最大份額】7月21日晚間，長鑫科技披露首次公開發行股票並在科創板上市發行結果公告。根據長鑫科技公佈的“打新”結果，113傢俬募的2459個產品獲配，合計獲配金額達13.97億元。公告顯示，私募名單中，按配售物件數量排列，前十位均為頭部量化私募。上海衍復旗下共有282個配售物件獲配，配售物件數量居私募首位；世紀前沿、九坤投資、上海誠奇和幻方量化分別有209個、194個、167個和153個配售物件參與。"
+    },
+    {
+      "id": "mkt:019f8531-a6b0-7aab-8e2c-9e0437b4fa5c",
+      "time": "2026-07-21 23:00:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals",
+        "Energy"
+      ],
+      "text": "At the 23:00 close, China’s main futures contracts were mostly higher. Fuel oil rose about 4%, low‑sulfur fuel oil (LU) gained more than 2% and coking coal nearly 2%. PTA, paraxylene (PX), ethylene glycol (EG), PET chip and synthetic rubber advanced over 1%. Soda ash and caustic soda fell more than 1%; rapeseed oil dropped over 1% and soybean oil was down nearly 1%."
+    },
+    {
+      "id": "mkt:019f8531-96c1-7aab-8e2c-958dd37b9ae1",
+      "time": "2026-07-21 23:00:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Changxin Technology strategic allotment halved; investment banks explain rationale】July 21 — Changxin Technology published final strategic placement results. Thirty strategic investors were initially allocated 3.344 bln shares but subscribed only 1.667 bln shares, about a 50% reduction. Investment banks said the initial allotment was set at the regulatory cap (50% of the issue, 3.344 bln shares) to leave redundancy, with later reallocation reducing the final subscribed volume. The 30 investors still provided the originally committed cash of CNY 14.437 bln; the excess shares were transferred to the online subscription, materially boosting online IPO allotment rates."
+    },
+    {
+      "id": "5000638",
+      "time": "2026-07-21 23:00:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "哥倫比亞 5 月經濟活動同比增長 4.1%，市場預期為增長 2.9%。"
+    },
+    {
+      "id": "te:markets:568591",
+      "time": "2026-07-21 23:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Brazilian Real Rises by 0.59% — Top currency gainers are Brazilian Real (0.59%), Norwegian Krone (0.45%) and Dollar Index (0.19%). Biggest losers are British Pound (-0.45%), South Korean Won (-0.38%), Japanese Yen (-0.32%) and Euro (-0.08%)."
+    },
+    {
+      "id": "5000637",
+      "time": "2026-07-21 23:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】燃料油連續漲3.98%，低硫燃料油連續漲2.11%，焦煤連續漲1.84%，PTA連續漲1.67%，乙二醇連續漲1.58%。"
+    },
+    {
+      "id": "mkt:019f8530-d59c-7aab-8e2c-89d77dde8908",
+      "time": "2026-07-21 22:59:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister's office and the military said in separate statements that an Iranian minister met with Pakistan's chief of army staff and the prime minister."
+    },
+    {
+      "id": "mkt:019f8530-a292-7aab-8e2c-84f2332fab11",
+      "time": "2026-07-21 22:59:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Canada's prime minister Carney spoke with U.S. President Trump on Tuesday and they agreed to intensify negotiations."
+    },
+    {
+      "id": "5000636",
+      "time": "2026-07-21 22:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼稱他與特朗普同意在未來幾周加強談判。"
+    },
+    {
+      "id": "5000635",
+      "time": "2026-07-21 22:58:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "日元兌美元跌至163，干預風險上升。"
+    },
+    {
+      "id": "5000634",
+      "time": "2026-07-21 22:58:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼稱週二上午與特朗普進行了交談。"
+    },
+    {
+      "id": "mkt:019f852f-5518-7aab-8e2c-7e16911edeeb",
+      "time": "2026-07-21 22:58:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【USD/JPY rises above 163; highest since 1986】USD/JPY rose above the 163 handle, its highest level since 1986, trading up 0.34% on the day."
+    },
+    {
+      "id": "5000633",
+      "time": "2026-07-21 22:58:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥衛生部表示，目前沒有證據表明產自墨西哥的生菜引發了美國的環孢子蟲病疫情。"
+    },
+    {
+      "id": "5000632",
+      "time": "2026-07-21 22:58:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗部長會見巴基斯坦陸軍參謀長和總理。"
+    },
+    {
+      "id": "5000631",
+      "time": "2026-07-21 22:56:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼表示，特朗普最新的關稅威脅違反了美墨加協定。"
+    },
+    {
+      "id": "mkt:019f852d-485b-7aab-8e2c-75dd5575c432",
+      "time": "2026-07-21 22:56:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Saudi cabinet reiterates it will take decisive measures to protect Saudi Arabia and the security of its vessels."
+    },
+    {
+      "id": "mkt:019f852d-1ea0-7aab-8e2c-695e2770c176",
+      "time": "2026-07-21 22:55:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi Arabia's cabinet said the Houthi armed group's agenda has deepened the suffering of the brotherly Yemeni people and that Saudi Arabia will continue to support the Yemeni people and their legitimate government."
+    },
+    {
+      "id": "5000630",
+      "time": "2026-07-21 22:55:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，空軍颶風獵人偵察機發現熱帶風暴伯莎已增強，針對墨西哥灣北部沿岸部分地區的熱帶風暴警戒和警告仍然有效。"
+    },
+    {
+      "id": "mkt:019f852c-a39a-7aab-8e2c-674d84e78213",
+      "time": "2026-07-21 22:55:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Saudi cabinet strongly condemned the Houthi armed group's false accusations, saying the Houthis are engaging in regional conflicts to advance a malign agenda and objectives."
+    },
+    {
+      "id": "5000629",
+      "time": "2026-07-21 22:53:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【巴克萊：國債基差交易缺乏復甦催化劑】巴克萊策略師Andres Mok和Amrut Nashikkar在一份報告中指出，由於流動性狀況改善以及交易商資產負債表容量的增加，美國國債期現基差交易（cash-futures basis trade）已有所降溫，目前其復甦的條件尚未成熟。"
+    },
+    {
+      "id": "5000628",
+      "time": "2026-07-21 22:52:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍連續第十晚打擊伊朗 調解方提議美伊停火十日】美軍中央司令部20日發表宣告稱，美軍已於美國東部時間20日21時（北京時間21日9時）完成對伊朗的新一輪打擊行動。這是美軍連續第10晚對伊朗發動打擊。伊朗方面也發表宣告稱對巴林和科威特的美軍目標發動打擊。另據外媒報道，卡達、埃及、巴基斯坦等調解方已向美伊提出一項為期10天的停火提議。（新華社）"
+    },
+    {
+      "id": "5000627",
+      "time": "2026-07-21 22:49:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊昂納多CEO表示，鑑於生產和資金方面的優勢，德國可能成為GCAP戰鬥機專案的補充力量。"
+    },
+    {
+      "id": "5000626",
+      "time": "2026-07-21 22:49:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面訊息：伊朗革命衛隊打擊了科威特賈比爾基地的美軍雷達。"
+    },
+    {
+      "id": "5000625",
+      "time": "2026-07-21 22:48:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美銀看好微軟財報修復行情 關注Azure增長表現】美銀分析師塔爾·利亞尼釋出前瞻研報，對微軟的觀點進一步轉向樂觀。分析師維持買入評級，目標價500美元，上調未來兩個財年盈利預期，並明確列出股價企穩回升需要達成的關鍵指標。 利亞尼看多的核心邏輯在於估值。按照他給出的2027財年盈利預期測算，微軟當前市盈率約19倍，而公司五年平均市盈率為29倍。在他看來，估值差距源於市場擔憂短期資本開支壓力，而非企業基本面出現問題。 他認為，市場過度壓低了微軟長期盈利能力的估值，7月29日這份財報，或將成為估值修復的起點。 微軟此前指引，本季度Azure營收同比增速落在30%中段至40%區間。美銀模型測算增速處於該區間中樞。利亞尼直白點明資料對應的股價走向。 “想要推動股價走強，Azure同比增速至少要達到39%~40%；一旦不及預期，市場對於人工智慧投資回報率的疑慮將會加劇。”"
+    },
+    {
+      "id": "mkt:019f8526-4349-7aab-8e2c-5e05402fa191",
+      "time": "2026-07-21 22:48:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian Press TV reported the Islamic Revolutionary Guard Corps struck a US military radar at Kuwait's Al-Jaber base."
+    },
+    {
+      "id": "5000624",
+      "time": "2026-07-21 22:47:41",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "巴西央行全額續發全部 5 萬份外匯互換合約。"
+    },
+    {
+      "id": "5000623",
+      "time": "2026-07-21 22:46:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【佛山照明子公司佛照（海南）科技與日本高化學簽署戰略合作協議】7月21日，佛山照明子公司佛照（海南）科技有限公司（簡稱“海南科技”）與日本高化學株式會社（簡稱“高化學”）正式簽署戰略合作協議。根據協議，海南科技授權高化學為企業日本地區陸基養殖LED照明及海洋照明全系列產品的獨家代理商。"
+    },
+    {
+      "id": "mkt:019f8523-b13f-7aab-8e2c-54ce05d98706",
+      "time": "2026-07-21 22:45:36",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bearish",
+        "NVO.N",
+        "Impact bullish"
+      ],
+      "text": "Lilly (LLY.N) said Novo Nordisk (NVO.N) is not competing on product merit but is seeking a court order to block Lilly from publishing the trial results."
+    },
+    {
+      "id": "5000622",
+      "time": "2026-07-21 22:44:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "禮來：諾和諾德並未在產品優勢上展開競爭，而是請求法院阻止禮來傳達該試驗結果。"
+    },
+    {
+      "id": "5000621",
+      "time": "2026-07-21 22:44:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：2026年5月全球精煉銅市場供應過剩1.8萬噸。"
+    },
+    {
+      "id": "5000620",
+      "time": "2026-07-21 22:43:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "蓋茨基金會：審查同樣未發現任何證據，證明該基金會參與或知曉愛潑斯坦持續開展的性交易販運活動或其他犯罪行為。"
+    },
+    {
+      "id": "mkt:019f8521-38f2-7aab-8e2c-4ad1ab01f7a3",
+      "time": "2026-07-21 22:42:54",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kuwait's foreign ministry said it summoned Iran's ambassador and lodged a protest after Iran attacked Kuwaiti oil tanker \"KAIFAN\" in the Strait of Hormuz on Monday."
+    },
+    {
+      "id": "5000619",
+      "time": "2026-07-21 22:42:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱美國“護不住”駐中東美軍】美國媒體20日報道，伊朗最近襲擊中東地區多個美軍基地，導致大量美軍人員傷亡。這表明，美國連自己人都“護不住”，何談“罩得住”中東盟友。伊朗戰事延宕數月，各種跡象顯示，伊朗的導彈和無人機庫存依然充足，而美軍只能疲於應對。據美軍中央司令部18日通報，伊朗17日對約旦穆沃費格薩勒提空軍基地的襲擊導致兩名美軍士兵死亡，另有一名士兵失蹤。這起襲擊是24小時內美軍遭到的三起襲擊之一。《華爾街日報》20日報道，三枚導彈突破駐約旦美軍的防空系統表明，部署在中東地區的5萬軍人仍面臨伊朗彈道導彈和無人機威脅。美國國防部發言人肖恩·帕內爾20日證實，過去兩週，已有近百名美軍人員在伊朗戰事中受傷。美國媒體認為，這一傷亡數字凸顯本月以來伊朗對美國軍事設施打擊的猛烈程度。（新華社）"
+    },
+    {
+      "id": "5000618",
+      "time": "2026-07-21 22:41:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：逆勢資金託底力量增強】華泰證券釋出研報稱，上週市場主線出現一定調整，市場主要增量切換為ETF和產業資本，交易型資金熱度出現明顯回落跡象，融資資金流出規模、交易活躍度創“9.24”以來的最低值，市場擔憂資金面尾部風險的擴散程度，認為目前風險或相對可控：1）市場平均擔保比例大幅回落至261%，距2024年1-2月（240%）水平仍有一定距離；2）融資資金於2025年6月起大幅流入A股主線，其成本線或相對較低，目前資金浮盈或相對較厚；3）個股層面上或存在一定追保風險，但範圍或相對有限。"
+    },
+    {
+      "id": "5000617",
+      "time": "2026-07-21 22:40:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特外交部表示，科威特已傳喚伊朗大使，抗議伊朗週一在霍爾木茲海峽通航期間襲擊科威特油輪 \"KAIFAN\"  號。"
+    },
+    {
+      "id": "5000616",
+      "time": "2026-07-21 22:39:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內首個全鏈路合規具身智慧資料示範平臺在滬啟用】近日，由上海技術交易所、上海刻行時空科技有限公司與宇樹科技有限公司共同承建的“高質量真機資料示範平臺”正式投入運營。該平臺定位為國內首個在設計階段即面向全球科研機構資料訓練需求、並實現全流程合規管理的具身智慧資料基礎設施。在資料採集環節，平臺利用宇樹科技在機器人運動控制與場景適應方面的技術積累，提升採集任務的場景覆蓋度和有效資料密度，以滿足模型訓練對高質量具身資料的要求。在商業化運營方面，平臺未採用行業通行的本體廠商資料回購模式，而是由刻行時空負責對接具體需求方並完成工程實施，透過源頭鎖定產能，實行市場化定價與交付。合規管理上，平臺在上海市網信辦指導下，依託上海技術交易所已有的技術權益登記和成果轉化服務體系，引入電子資料存證與權益登記機制，將具身智慧資料納入無形資產運營範疇，形成可計價、可交易的標準資產，並支援從合規登記到評估交易的全流程操作。"
+    },
+    {
+      "id": "5000615",
+      "time": "2026-07-21 22:39:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，福斯托颶風已停止增強，在向西北方向移動過程中強度略有減弱。"
+    },
+    {
+      "id": "5000614",
+      "time": "2026-07-21 22:38:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 利物浦足球俱樂部潛在交易估值將超 60 億美元。"
+    },
+    {
+      "id": "5000613",
+      "time": "2026-07-21 22:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：聯合國秘書長將於本週晚些時候前往敘利亞，並與總統沙拉會晤。"
+    },
+    {
+      "id": "mkt:019f851b-b9f2-7aab-8e2c-40d2edf8d971",
+      "time": "2026-07-21 22:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UN says Secretary-General will travel to Syria later this week to meet President Shala."
+    },
+    {
+      "id": "5000612",
+      "time": "2026-07-21 22:36:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFM：50 架空客 A320neo 客機將配備 100 臺 LEAP-1A 發動機。"
+    },
+    {
+      "id": "5000611",
+      "time": "2026-07-21 22:35:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "CFM國際：哥倫比亞航空已選擇CFM LEAP-1A發動機。"
+    },
+    {
+      "id": "5000610",
+      "time": "2026-07-21 22:35:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破85美元/桶，日內漲3.06%。"
+    },
+    {
+      "id": "5000609",
+      "time": "2026-07-21 22:35:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲3%，現報91.90美元/桶。"
+    },
+    {
+      "id": "te:economy:568590",
+      "time": "2026-07-21 22:35:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Nigeria",
+        "Interest Rate",
+        "Importance 0"
+      ],
+      "text": "Nigeria Holds Key Policy Rate at 26.5% — The Central Bank of Nigeria left its benchmark interest rate unchanged at 26.50% at its July 21, 2026 meeting, citing persistent inflationary risks amid heightened uncertainty stemming from renewed hostilities in the Middle East. Governor Cardoso stated that the domestic economy had proved resilient to external shocks, as the Africa's largest oil producer is partialy shielded by domestic refining capacity, and keeping policy unchanged would allow the committee to assess incoming economic data before making further decisions. Headline inflation held steady at 15.9% in June, unchanged from the previous month and defying expectations. Looking ahead, policymakers expect inflation to ease gradually over the medium term, supported by the stability of the naira and the lagged effects of previous monetary tightening. However, the committee reiterated its readiness to act if escalating geopolitical tensions threaten price or financial stability."
+    },
+    {
+      "id": "5000608",
+      "time": "2026-07-21 22:35:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲3%，現報84.96美元/桶。"
+    },
+    {
+      "id": "5000607",
+      "time": "2026-07-21 22:34:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【包鋼股份獲嘉興市域鐵路萬噸鋼軌訂單】包鋼股份成功中標嘉興市域鐵路專案，成功獲得約1萬噸鋼軌供貨訂單，將為這條跨省通勤通道提供軌道用材。"
+    },
+    {
+      "id": "mkt:019f8518-f9ee-7aab-8e2c-3a46dfa2605e",
+      "time": "2026-07-21 22:33:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Market sources say Egypt is negotiating with energy majors for a multi-year LNG supply deal to purchase 15-18 cargoes per month for 3-5 years."
+    },
+    {
+      "id": "5000606",
+      "time": "2026-07-21 22:33:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國民眾有多反感伊朗戰事？可“比肩”越戰】美國和伊朗最新一輪互襲20日進入第10天，幾乎沒有跡象表明雙方衝突會在短期內結束。據美國有線電視新聞網(CNN)20日報道，越來越多的民調資料顯示，伊朗戰事在美國民眾中引發反感的程度已“飛速”達到越南戰爭和伊拉克戰爭同等水平。 報道說，最新發布的《華盛頓郵報》和益普索集團民調結果顯示，68%的受訪者認為伊朗戰事“不值得打”，28%認為“值得”，兩者之間40個百分點的差距已超過此前對伊拉克戰爭和阿富汗戰爭的類似民調。對阿富汗戰爭的相關民調中，“不值得打”與“值得打”的最大差值為39個百分點，67%的人認為“不值得”，28%認為“值得”；這一民調結果在2013年得出，那時距離美國發動戰爭已近12年。對伊拉克戰爭的相關民調中，到2007年，大約66%的美國人認為戰爭“不值得打”，此時距離美國發動戰爭約4年。（新華社）"
+    },
+    {
+      "id": "5000605",
+      "time": "2026-07-21 22:33:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "亞塞拜然總統阿利耶夫表示，亞塞拜然計劃未來向歐洲供應綠色能源。"
+    },
+    {
+      "id": "mkt:019f8517-afd3-7aab-8e2c-3773e639f6dc",
+      "time": "2026-07-21 22:32:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Moonshot AI in talks for pre-IPO funding at up to $50 bln valuation】Moonshot AI is in talks for a final pre-IPO funding round seeking up to a $50 bln valuation, people familiar with the matter said. The company expects to close a financing round launched this summer—at about a $31.5 bln valuation—within days and will immediately open talks with potential investors on a new round that could be its last capital raise before a Hong Kong listing. Moonshot AI plans to complete an offshore red-chip restructuring by month-end to enable onshore financing and IPO preparation and could list in Hong Kong as soon as this year."
+    },
+    {
+      "id": "mkt:019f8517-0d44-7aab-8e2c-2c7af7faa69e",
+      "time": "2026-07-21 22:31:48",
+      "tags": [
+        "MKT News",
+        "GM.N"
+      ],
+      "text": "United Auto Workers (UAW) to begin negotiations with GM ."
+    },
+    {
+      "id": "mkt:019f8516-f5b4-7aab-8e2c-215352060bbd",
+      "time": "2026-07-21 22:31:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Report: China’s 2025 oil-and-gas output equivalent at 420 mln tonnes】The National Energy Administration said in a July 21 report that China’s crude output reached a record 216 mln tonnes in 2025 and natural gas production exceeded 100 bcm for the ninth consecutive year, taking oil-and-gas output equivalent to a record 420 mln tonnes. The agency said domestic supply capacity has significantly improved and the sector has entered a new phase of simultaneous scale and efficiency gains alongside greener development."
+    },
+    {
+      "id": "5000604",
+      "time": "2026-07-21 22:30:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數上漲0.7%，創盤中新高。"
+    },
+    {
+      "id": "5000603",
+      "time": "2026-07-21 22:30:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "IPOWER：將成立專注於人工智慧硬體租賃的子公司。"
+    },
+    {
+      "id": "5000602",
+      "time": "2026-07-21 22:28:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊昂納多執行長：大規模反壟斷訴訟可能破壞歐元區航天交易。"
+    },
+    {
+      "id": "5000601",
+      "time": "2026-07-21 22:27:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【百亞股份：已回購63.18萬股，使用資金總額849.41萬元】百亞股份7月21日公告，截至2026年7月21日，公司透過股份回購專用證券賬戶以集中競價交易方式回購公司股份631,800股，佔公司目前總股本的0.15%，其中，最高成交價為13.98元/股，最低成交價為13.01元/股，成交總金額8,494,149.00元（不含交易費用）。本次回購股份資金來源為公司自有資金，回購價格未超過回購方案中擬定的價格上限。本次回購符合相關法律法規及公司既定的回購股份方案的要求。"
+    },
+    {
+      "id": "5000600",
+      "time": "2026-07-21 22:27:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新型風電安裝船在江蘇啟東交付啟航】7月21日，啟東中遠海運海工為丹麥船東定製的NG20000型風電安裝船“峰盛”號正式交付啟航。該船擁有超過5600平方米超大甲板、17600噸有效載荷、大於3300噸主吊起重能力，可精準安裝20兆瓦級以上超大型風機。（新華社）"
+    },
     {
       "id": "mkt:019f8511-9a10-7aab-8e2c-18e304733f41",
       "time": "2026-07-21 22:25:50",
@@ -167455,1876 +168455,6 @@
         "國際"
       ],
       "text": "訊息人士：美國移民與海關執法局暫停車輛臨檢執法行動。"
-    },
-    {
-      "id": "4988125",
-      "time": "2026-07-14 23:19:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們將繼續改革並完善監管體系。"
-    },
-    {
-      "id": "4988124",
-      "time": "2026-07-14 23:19:10",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲可以認真考量我們何時開始從財政部購入債券這一問題。"
-    },
-    {
-      "id": "4988123",
-      "time": "2026-07-14 23:18:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國眾議院聽證會：美國商務部官員凱斯勒近日訪問荷蘭。"
-    },
-    {
-      "id": "4988122",
-      "time": "2026-07-14 23:18:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普取消在霍爾木茲海峽收費決定】美國總統特朗普今天（7月14日）在社交媒體平臺“真實社交”發文稱，“得益於美軍的強大實力，石油正以前所未有的規模順暢流動，霍爾木茲海峽向除伊朗以外的所有船隻開放。”特朗普稱，鑑於與中東國家領導人“富有成效的會談”，他決定取消“20%美國補償費”這一做法，轉而由海灣各國與美國達成貿易和投資協議——“這些投資規模將極其巨大，同時也將極大地造福這些國家及其未來，工廠、設施、裝置將以前所未有的規模湧入美國，從而創造數百萬個高薪就業崗位”。特朗普稱，“美國正在重獲勝利，而且是前所未有的勝利。”（CCTV國際時訊）"
-    },
-    {
-      "id": "mkt:019f6135-3816-7aab-8d82-ca0c07f6126a",
-      "time": "2026-07-14 23:18:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "People familiar with the matter said data-center operator Switch has hired Goldman Sachs and JP Morgan to lead its IPO, targeting an $80 billion valuation and possibly launching as early as Q4."
-    },
-    {
-      "id": "4988121",
-      "time": "2026-07-14 23:18:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗永遠不會擁有核武器。"
-    },
-    {
-      "id": "4988120",
-      "time": "2026-07-14 23:16:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普與伊拉克總理阿里·扎伊迪舉行雙邊會談。"
-    },
-    {
-      "id": "mkt:019f6132-d2ca-7aab-8d82-c0bc68d2c583",
-      "time": "2026-07-14 23:15:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed chair Kevin Warsh said AI is broadly beneficial to the economy but warned against being overly complacent."
-    },
-    {
-      "id": "4988118",
-      "time": "2026-07-14 23:15:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：人工智慧整體而言對經濟有益，但我不願對此盲目自滿."
-    },
-    {
-      "id": "mkt:019f6132-3241-7aab-8d82-bbd10bcef845",
-      "time": "2026-07-14 23:15:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said the United States has again secured victory, doing so in an unprecedented way."
-    },
-    {
-      "id": "4988117",
-      "time": "2026-07-14 23:14:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：人工智慧將隨著時間的推移顯著提升生產力。"
-    },
-    {
-      "id": "4988116",
-      "time": "2026-07-14 23:14:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗總統：在歷史上，伊朗南部始終是抵抗殖民主義、捍衛獨立的象徵。今天，這片土地上高尚的人民以耐心、堅韌和不屈的精神，帶著尊嚴度過了因敵人侵略而帶來的艱難日子。我與這些忠誠而堅韌的人民同在，並對他們深表感激。整個伊朗，都是我的家園。"
-    },
-    {
-      "id": "mkt:019f6130-dd7a-7aab-8d82-b35dddaa9175",
-      "time": "2026-07-14 23:13:40",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fed chair Kevin Warsh said AI implies substantial long-term productivity gains."
-    },
-    {
-      "id": "4988115",
-      "time": "2026-07-14 23:13:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：人工智慧普及或許是意義最重大的變革。"
-    },
-    {
-      "id": "4988114",
-      "time": "2026-07-14 23:13:02",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團執行長：我們對自身實現2026年回報率目標、進而達成今年5月公佈的後續目標的能力非常有信心。"
-    },
-    {
-      "id": "4988113",
-      "time": "2026-07-14 23:12:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "SK海力士ADR股價漲幅擴大至17%，總市值報1.30萬億美元，創上市以來新高。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607143806156391",
-      "time": "2026-07-14 23:12:30",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什表示，不認為穩定物價和就業之間存在殘酷的抉擇。"
-    },
-    {
-      "id": "4988112",
-      "time": "2026-07-14 23:11:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "惠譽評級：厄爾尼諾現象給拉丁美洲交通運輸業帶來天氣相關的信用風險。"
-    },
-    {
-      "id": "4988111",
-      "time": "2026-07-14 23:11:32",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "原油期貨漲幅收窄，在美國總統特朗普稱霍爾木茲海峽對除伊朗外所有船舶通航開放後，美國原油價格轉為下跌。"
-    },
-    {
-      "id": "mkt:019f612e-e9d7-7aab-8d82-aaee2d814993",
-      "time": "2026-07-14 23:11:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Trump says US will block only Iranian shipping, replace 20% compensation fee with Gulf-US investment deals】President Trump wrote that oil flows are unprecedented and the Strait of Hormuz will remain open to all vessels except Iranian ones. He said the US will impose a comprehensive blockade only on ships bound to/from Iranian ports or carrying Iranian cargo. He has decided to cancel the US \"20% compensation fee\" requirement and replace it with trade and investment agreements between Gulf states and the United States, saying the investments will be large. He also said Iran will never acquire nuclear weapons."
-    },
-    {
-      "id": "te:markets:566874",
-      "time": "2026-07-14 23:11:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Holds Above $83 — Brent crude oil steadied above $83 per barrel on Tuesday after gaining more than 4% earlier in the session and following a 9.6% surge the previous day, as markets assessed renewed Middle East supply risks. The collapse of the US-Iran truce and fresh attacks on shipping through the Strait of Hormuz increased concerns over disruptions at the key energy chokepoint. The United Arab Emirates reported that two oil tankers were struck while using the southern shipping lane, highlighting risks to one of the region’s main export routes. Tracking vessel movements has become more difficult as some ships operate without active transponders. The US also announced plans to resume a blockade on Iranian oil exports and potentially charge vessels using Hormuz under American protection. Despite the tensions, Iran continued moving oil through the strait, while the UAE boosted production to 3.8 million barrels per day in June after increasing exports through alternative shipping arrangements."
-    },
-    {
-      "id": "4988110",
-      "time": "2026-07-14 23:11:08",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團執行長：歐洲在人工智慧領域將再度遭遇競爭阻力。"
-    },
-    {
-      "id": "4988109",
-      "time": "2026-07-14 23:10:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼海事安全中心表示，在阿曼附近海域遇襲的“巴希耶”號油輪上18名船員已全部撤離，目前仍有3人下落不明。"
-    },
-    {
-      "id": "mkt:019f612e-32ff-7aab-8d82-a0a323f3ac03",
-      "time": "2026-07-14 23:10:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "Saudi outlet Hadas reported Trump met with Iraq's prime minister at the White House."
-    },
-    {
-      "id": "4988108",
-      "time": "2026-07-14 23:10:28",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團執行長：美國經濟增長水平大致與一年前持平，勞動力市場仍保持穩定。"
-    },
-    {
-      "id": "mkt:019f612d-b8d9-7aab-8d82-9ed210ee2fb6",
-      "time": "2026-07-14 23:10:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Baltic dry freight index hits one-month high as rates rise across vessel classes】The Baltic Dry Index (BDI) rose to 2,980 on Tuesday, up 20 points (0.68%), its highest level since early June. The Capesize index (BCI) gained 49 points (+1%) to 4,751, a one-month high; Capesize average daily earnings rose $445 to $39,583. The Panamax index (BPI) edged up 1 point to 2,251; Panamax daily earnings rose $6 to $20,260. The Supramax index (BSI) increased 3 points (0.2%) to 1,710, its highest since June 22. The Handysize index (BHSI) fell 5 points to 909."
-    },
-    {
-      "id": "4988107",
-      "time": "2026-07-14 23:10:12",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "國際"
-      ],
-      "text": "花旗集團執行長：中東衝突已對全球增長造成一定拖累，同時也給通脹帶來了新一輪上漲動力。"
-    },
-    {
-      "id": "4988106",
-      "time": "2026-07-14 23:09:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿盟秘書長強調維護阿拉伯國家主權和推進改革】阿拉伯國家聯盟（阿盟）秘書長納比勒·法赫米13日在阿盟總部舉行就任後首場記者會，就維護阿拉伯國家主權、阿盟改革、中阿關係等議題闡述施政理念。法赫米強調，阿盟不會對任何針對阿拉伯國家主權的侵略行為保持中立，他呼籲阿拉伯國家在此問題上採取統一立場。他指出，阿拉伯國家安全的概念已不再侷限於軍事層面，還包括紅海和海灣安全、海上通道安全、能源安全和供應鏈安全，以及水資源和糧食安全。（新華社）"
-    },
-    {
-      "id": "mkt:019f612d-0ff8-7aab-8d82-94d698f34888",
-      "time": "2026-07-14 23:09:30",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold rose in short-term trade to $4,098.99/oz. Spot silver gained $2 intraday to $59.67/oz, up 3.47%."
-    },
-    {
-      "id": "4988105",
-      "time": "2026-07-14 23:09:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：穩定物價與充分就業之間並非非此即彼的艱難抉擇。"
-    },
-    {
-      "id": "4988104",
-      "time": "2026-07-14 23:09:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網正式測定：07月14日23時01分在新疆烏魯木齊市烏魯木齊縣（北緯43.30度，東經87.71度）發生3.0級地震，震源深度12千米。"
-    },
-    {
-      "id": "4988103",
-      "time": "2026-07-14 23:08:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國原油漲幅收窄，WTI原油價格接近每桶78美元。"
-    },
-    {
-      "id": "4988102",
-      "time": "2026-07-14 23:08:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：無意在常規市場環境下消除市場風險。"
-    },
-    {
-      "id": "4988101",
-      "time": "2026-07-14 23:08:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列、黎巴嫩舉行新一輪由美國斡旋的會談。"
-    },
-    {
-      "id": "4988100",
-      "time": "2026-07-14 23:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列與黎巴嫩舉行會晤推進和平談判。"
-    },
-    {
-      "id": "4988099",
-      "time": "2026-07-14 23:07:55",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【特朗普宣佈全面封鎖伊朗航運】特朗普表示，霍爾木茲海峽將繼續對所有船舶開放，但與伊朗相關的船隻除外。此次全面封鎖將針對往返伊朗港口、或運載伊朗貨物的船舶。特朗普還提議，以海灣地區貿易與投資協議取代美國20%補償性收費。"
-    },
-    {
-      "id": "mkt:019f612b-7a55-7aab-8d82-8a19c03cb6c2",
-      "time": "2026-07-14 23:07:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bearish"
-      ],
-      "text": "Peru's Ministry of Energy and Mines reported May copper production rose 2.3% YoY to 226,096 tonnes."
-    },
-    {
-      "id": "4988098",
-      "time": "2026-07-14 23:07:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納指漲1.00%，現報26132.041點；道指漲0.10%，現報52550.520點；標普500指數漲0.49%，現報7551.800點。"
-    },
-    {
-      "id": "4988097",
-      "time": "2026-07-14 23:07:09",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所：羅布斯塔咖啡期貨大漲近6%，報每噸4033美元。"
-    },
-    {
-      "id": "4988096",
-      "time": "2026-07-14 23:06:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "秘魯能源與礦業部：5月秘魯銅產量同比增長2.3%，至226,096噸。"
-    },
-    {
-      "id": "4988095",
-      "time": "2026-07-14 23:06:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "聯合國人權事務高階專員：美國與伊朗重啟敵對狀態對該地區平民而言是重大挫折，且會破壞和平努力。"
-    },
-    {
-      "id": "4988094",
-      "time": "2026-07-14 23:06:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：決定以貿易協議取代（霍爾木茲海峽通航）20%補償性收費。"
-    },
-    {
-      "id": "mkt:019f612a-7907-7aab-8d82-8311ac0051db",
-      "time": "2026-07-14 23:06:41",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said Gulf states will invest in the US."
-    },
-    {
-      "id": "mkt:019f612a-315b-7aab-8d82-7cf248602ebe",
-      "time": "2026-07-14 23:06:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "President Trump said the U.S. will impose a full blockade limited to vessels traveling to and from Iranian ports."
-    },
-    {
-      "id": "mkt:019f612a-2d08-7aab-8d82-760d5a3601e5",
-      "time": "2026-07-14 23:06:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said he has decided to replace a planned 20% transit fee with trade and investment agreements with Gulf states."
-    },
-    {
-      "id": "4988093",
-      "time": "2026-07-14 23:06:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：新技術革命正對美聯儲和經濟產生影響，帶來了巨大機遇。"
-    },
-    {
-      "id": "4988092",
-      "time": "2026-07-14 23:05:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：海灣國家將對美國進行投資。"
-    },
-    {
-      "id": "mkt:019f6129-965c-7aab-8d82-6ffd0654d601",
-      "time": "2026-07-14 23:05:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "【Analyst: June CPI supports view markets are overpricing Fed rate-hike odds】Tony Welch of SignatureFD says weak June CPI strengthens the case that markets have overestimated the odds of a near-term Fed rate hike. Futures now show a low probability of a move this month, though CME Group pricing still leaves at least one hike this year possible. Welch says inflation is trending down even allowing for fuel swings and that wage growth is not broad enough to sustain economy-wide inflation. He expects Fed Chair Warsh to use his rhetoric to help anchor inflation expectations near the Fed’s 2% target."
-    },
-    {
-      "id": "4988091",
-      "time": "2026-07-14 23:05:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將（對霍爾木茲海峽）實施全面封鎖，但僅針對往返伊朗港口的船隻。"
-    },
-    {
-      "id": "mkt:019f6129-81cc-7aab-8d82-606b908cb5a7",
-      "time": "2026-07-14 23:05:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bearish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said the Strait of Hormuz is open to all vessels except Iran, saying Iran's habitually deceptive leadership is driving the country toward total ruin."
-    },
-    {
-      "id": "mkt:019f6129-1b81-7aab-8d82-5b6cca64ccd5",
-      "time": "2026-07-14 23:05:11",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "President Trump said oil flows are unprecedented and credited the strength of the U.S. military."
-    },
-    {
-      "id": "4988090",
-      "time": "2026-07-14 23:05:00",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：霍爾木茲海峽對所有船舶開放，伊朗船隻除外。"
-    },
-    {
-      "id": "4988089",
-      "time": "2026-07-14 23:04:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：石油產量空前高漲。"
-    },
-    {
-      "id": "te:markets:566871",
-      "time": "2026-07-14 23:04:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Oil Rises for 2nd Session — Crude oil rose toward $79 per barrel on Tuesday, the highest in about one month, following a 9.4% surge in the previous session, as the collapse of the US-Iran truce reignited concerns over supply disruptions. The United Arab Emirates said two of its tankers were struck while transiting the waterway, highlighting growing risks to one of the world's busiest energy routes. The attacks came after the US resumed its blockade on Iranian oil exports, launched new strikes against Iran, and proposed charging vessels protected by the US Navy. Supply concerns also intensified as Saudi Arabia intercepted missiles launched by Yemen's Houthis, while Washington backed tougher sanctions on Russian energy exports. The renewed escalation has raised fears of prolonged disruptions to global oil supplies and higher geopolitical risk premiums."
-    },
-    {
-      "id": "em:qqyh_mlc:202607143806147559",
-      "time": "2026-07-14 23:04:27",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什表示，即使特朗普批評他自己，他也會以資料為依據。"
-    },
-    {
-      "id": "4988088",
-      "time": "2026-07-14 23:04:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic推出面向教師的Claude工具，美國經認證的K-12階段教育工作者可免費使用Claude高階版全部功能。"
-    },
-    {
-      "id": "4988087",
-      "time": "2026-07-14 23:04:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic宣佈，教育從業者完成身份核驗後，即可免費使用教師版Claude。"
-    },
-    {
-      "id": "4988086",
-      "time": "2026-07-14 23:04:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "Anthropic上線專為教師打造的AI工具Claude。"
-    },
-    {
-      "id": "mkt:019f6127-5bc5-7aab-8d82-505e932fe270",
-      "time": "2026-07-14 23:03:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kevin Warsh says Fed will give markets ample notice before balance-sheet changes】Kevin Warsh told a hearing any Fed change to balance-sheet policy would be preceded by advance notice, explanation and public discussion to give the committee and markets sufficient time to prepare. He said observers know his concerns about the Fed’s large balance sheet but declined to pre-judge the conclusions of the newly formed balance-sheet working group. He added the balance sheet is a monetary policy tool and the Fed should avoid encroaching on fiscal policy."
-    },
-    {
-      "id": "4988085",
-      "time": "2026-07-14 23:03:10",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：（當被問及若特朗普批評他美聯儲會作何反應時）將依據資料作出決策。"
-    },
-    {
-      "id": "mkt:019f6126-ec1a-7aab-8d82-4e807f495fbf",
-      "time": "2026-07-14 23:02:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "Macro & Rates"
-      ],
-      "text": "Fed chair Kevin Warsh said he will act based on the data, even if criticized by Trump."
-    },
-    {
-      "id": "4988084",
-      "time": "2026-07-14 23:02:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "Anthropic：與美國教師聯合會合作，推動我方條款與隱私實踐符合頂級標準。"
-    },
-    {
-      "id": "4988083",
-      "time": "2026-07-14 23:02:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以色列撥款13億新謝克爾在約旦河西岸建設定居點】當地時間14日，以色列政府正式宣佈，內閣上月已批准撥款13億新謝克爾（約合4.31億美元），用於資助過去三年半中批准設立的數十個約旦河西岸以色列猶太人定居點。"
-    },
-    {
-      "id": "4988082",
-      "time": "2026-07-14 23:02:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "波音：6月份共獲得121份訂單，8份訂單取消。"
-    },
-    {
-      "id": "4988081",
-      "time": "2026-07-14 23:01:58",
-      "tags": [
-        "市場"
-      ],
-      "text": "預測平臺Kalshi宣佈推出遠期收益曲線計算工具，該工具現已涵蓋英偉達B200、H200及A100晶片相關合約，正式上線執行。"
-    },
-    {
-      "id": "mkt:019f6125-6404-7aab-8d82-42e1f108a352",
-      "time": "2026-07-14 23:01:08",
-      "tags": [
-        "MKT News",
-        "BA.N",
-        "Impact bullish"
-      ],
-      "text": "Boeing (BA.N) received 121 orders in June and recorded 8 cancellations."
-    },
-    {
-      "id": "4988080",
-      "time": "2026-07-14 23:01:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：溝通時更加審慎是更為妥當的處理方式。"
-    },
-    {
-      "id": "mkt:019f6125-52bd-7aab-8d82-3807fb4e4775",
-      "time": "2026-07-14 23:01:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "As of the 23:00 close, China onshore front-month futures were mostly higher: fuel oil up over 4%, low-sulfur fuel oil (LU) up over 3%, ethylene glycol (EG) up nearly 3%; styrene (EB) and asphalt rose over 2%; propylene and benzene were up nearly 2%. Soda ash and glass were slightly lower."
-    },
-    {
-      "id": "mkt:019f6125-0649-7aab-8d82-3761429698a7",
-      "time": "2026-07-14 23:00:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Korea Customs Service said crude oil imports in June totaled 9.9 mln tonnes, down from 11.0 mln tonnes a year earlier."
-    },
-    {
-      "id": "te:markets:566870",
-      "time": "2026-07-14 23:00:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Appreciates by 1.61% — Top currency gainers are Brazilian Real (1.61%), Norwegian Krone (1.29%), New Zealand Dollar (1.17%), Euro (0.56%), British Pound (0.42%) and Japanese Yen (0.28%). Biggest losers are Dollar Index (-0.48%) and Indian Rupee (-0.28%)."
-    },
-    {
-      "id": "4988079",
-      "time": "2026-07-14 23:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】燃料油連續漲4.19%，低硫燃料油連續漲3.64%，乙二醇連續漲2.95%，苯乙烯連續漲2.49%，瀝青連續漲2.13%。"
-    },
-    {
-      "id": "4988078",
-      "time": "2026-07-14 22:59:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什表示，美聯儲調整資產負債表將提前充分告知市場。"
-    },
-    {
-      "id": "4988077",
-      "time": "2026-07-14 22:58:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：同事們的開放思想給我留下了深刻的印象。"
-    },
-    {
-      "id": "4988076",
-      "time": "2026-07-14 22:58:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士ADR股價上漲15%，報175.280美元/股，總市值報1.28萬億美元。"
-    },
-    {
-      "id": "4988075",
-      "time": "2026-07-14 22:58:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鉑金上漲3%，報每盎司1652.49美元。"
-    },
-    {
-      "id": "te:economy:566869",
-      "time": "2026-07-14 22:57:59",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ecuador",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Ecuador Inflation Rises in June — Ecuador's annual inflation rate rose to 1.65% in June 2026 from 0.92% in the previous month. The strongest price pressures were recorded in transport (7.8%) and healthcare (3.6%). Prices also increased for education (1.6%), recreation and culture (1.2%), communication (0.7%), and furniture and household articles (1.0%). Meanwhile, deflation persisted in food and non-alcoholic beverages (-0.2%), alcoholic beverages and tobacco (-0.9%), clothing and footwear (-4.3%), and housing and utilities (-2.7%). On a monthly basis, consumer prices rose 0.8% after falling 0.6% in May."
-    },
-    {
-      "id": "te:markets:566868",
-      "time": "2026-07-14 22:57:43",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Stocks Trade Higher — US stocks moved higher on Tuesday after softer inflation data shut the door on a Fed rate hike this month. The S&P 500 and Nasdaq 100 rose up to 0.5%, while the Dow swung to hover above the flatline. Both headline and core inflation rates declined, easing the impact of another rally in energy prices after the US and Iran maintained strikes against each other. Chip producers rebounded from yesterday's selloff with Micron and Sandisk adding 4% each, tracking major memory producers, while Nvidia rose 1%. On top of that, financial companies rebounded from early losses. JPMorgan jumped 3% after posting its strongest profit level ever, while Bank of America, and Citi gained over 2% after releasing their results. Among capital markets, Goldman Sachs surged over 7% after beating earnings estimates. On the other hand, IBM tanked 25% after missing expectations and warning of low spending from clients, which have opted for spending on chips and memory this quarter instead."
-    },
-    {
-      "id": "mkt:019f6122-23cd-7aab-8d82-2e5913be396b",
-      "time": "2026-07-14 22:57:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed plans to eliminate taxes that are inflationary."
-    },
-    {
-      "id": "4988074",
-      "time": "2026-07-14 22:57:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：我們計劃取消本身會推高通脹的稅收。"
-    },
-    {
-      "id": "mkt:019f6121-dcd9-7aab-8d82-21ea909d2340",
-      "time": "2026-07-14 22:57:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed will undertake reforms across all areas, including supervision, regulation and payments."
-    },
-    {
-      "id": "4988073",
-      "time": "2026-07-14 22:57:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什：美聯儲將在各方面推進改革，包括監管、規制和支付系統。"
-    },
-    {
-      "id": "4988072",
-      "time": "2026-07-14 22:57:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：短短六週，我們就帶來了思維的巨大變革。"
-    },
-    {
-      "id": "4988071",
-      "time": "2026-07-14 22:56:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：普雷西迪奧投資公司宣佈將Elevate半導體出售給達爾科技。"
-    },
-    {
-      "id": "4988070",
-      "time": "2026-07-14 22:55:29",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國債務管理局(DMO)表示，國內投資者佔英國2038年到期、票息1.75%通脹掛鉤國債需求的89%。"
-    },
-    {
-      "id": "te:markets:566867",
-      "time": "2026-07-14 22:55:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium is up by 5.07% — Palladium increased 5.07% to 1316.5 USD/t.oz"
-    },
-    {
-      "id": "mkt:019f611f-f0d8-7aab-8d82-18330e1e0eef",
-      "time": "2026-07-14 22:55:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed does not want to be in the bailout business and hopes to be positioned so it will not have to rescue any entity."
-    },
-    {
-      "id": "mkt:019f611f-407a-7aab-8d82-10a2d5a84ca9",
-      "time": "2026-07-14 22:54:25",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "【Kevin Warsh reiterates commitment to 2% disinflation target, stresses Fed independence】Kevin Warsh told a congressional hearing he will not provide forward guidance on interest rates and largely avoided discussing specific rate policy. He said the Fed is firmly committed to price stability and to driving disinflation back to a 2% target, and that the central bank has the tools to do so. Warsh said the Fed will reassess its inflation framework to better understand drivers of inflation and potential policy responses. Newly created working groups remain in a research phase; discussions will occur among the 19 policymakers, with the process conducted transparently and research and policy ideas shared periodically. On balance-sheet policy he said the balance sheet is part of monetary policy, not just market plumbing, and any adjustments would be communicated well in advance to give markets time to prepare. Asked about potential political interference, including from Trump, Warsh said he will continue to execute his duties and defend the Fed’s policy independence."
-    },
-    {
-      "id": "mkt:019f611f-19c5-7aab-8d82-0d1a0686e33a",
-      "time": "2026-07-14 22:54:15",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Al Arabiya reported Lebanon and Israel delegations concluded talks in Rome."
-    },
-    {
-      "id": "4988069",
-      "time": "2026-07-14 22:53:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：我們希望處於無需救助任何主體的立場，加密行業也不例外。"
-    },
-    {
-      "id": "te:markets:566866",
-      "time": "2026-07-14 22:53:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Deere & Company Stock Price Hits 4-week Low — Deere & Company shares decreased to 582.00 USD, the lowest since June 2026. Over the past 4 weeks, Deere & Company gained 1.38%, and in the last 12 months, it increased 15.87%."
-    },
-    {
-      "id": "4988068",
-      "time": "2026-07-14 22:53:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：我們不想涉足救助業務，就此打住。"
-    },
-    {
-      "id": "4988067",
-      "time": "2026-07-14 22:52:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【濟南建邦金屬材料股份有限公司 (前稱為建邦材料有限公司)向港交所提交上市申請書】據港交所檔案：濟南建邦金屬材料股份有限公司 (前稱為建邦材料有限公司)向港交所提交上市申請書。"
-    },
-    {
-      "id": "4988066",
-      "time": "2026-07-14 22:52:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以軍空襲加沙北部致7人死亡】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）14日發表宣告說，以軍戰機當天轟炸加沙地帶北部傑巴利耶難民營一處警察辦公地點，造成7人死亡。加沙地帶內政部門同日發表宣告說，有6名警察在此次襲擊中喪生，其中包括傑巴利耶難民營警察局負責人。以軍尚未對此作出回應。（新華社）"
-    },
-    {
-      "id": "4988065",
-      "time": "2026-07-14 22:52:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國德克薩斯州調查領英（LINKEDIN）是否釋出虛假招聘資訊。"
-    },
-    {
-      "id": "4988064",
-      "time": "2026-07-14 22:51:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：雙重使命是你們對我們的承諾，即我們將專注於價格穩定和充分就業。"
-    },
-    {
-      "id": "mkt:019f611c-53af-7aab-8d82-019bf589511c",
-      "time": "2026-07-14 22:51:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "US10Y"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said more effort is needed to address inf."
-    },
-    {
-      "id": "mkt:019f611b-92a5-7aab-8d81-feb4a91da751",
-      "time": "2026-07-14 22:50:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "S&P500",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the central bank still has work to do on inflation."
-    },
-    {
-      "id": "mkt:019f611b-1220-7aab-8d81-f0efdc98eec9",
-      "time": "2026-07-14 22:49:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed's dual mandate is not in conflict."
-    },
-    {
-      "id": "4988063",
-      "time": "2026-07-14 22:49:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：通脹方面仍有一些工作要做。"
-    },
-    {
-      "id": "4988062",
-      "time": "2026-07-14 22:49:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息:俄羅斯從哈薩克拜科努爾航天發射場將一名美國宇航員和兩名俄羅斯宇航員送往國際空間站，執行為期八個月的任務。"
-    },
-    {
-      "id": "mkt:019f611a-ba8e-7aab-8d81-ead0d778d6a1",
-      "time": "2026-07-14 22:49:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "EURUSD"
-      ],
-      "text": "Fed Chair Kevin Warsh said the labor market appears to be in a relatively good balance."
-    },
-    {
-      "id": "mkt:019f611a-aeed-7aab-8d81-e570970d8427",
-      "time": "2026-07-14 22:49:26",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "AZN.O",
-        "Impact bullish"
-      ],
-      "text": "【Jiangsu party chief Xin Changxing and governor Liu Xiaotao meet AstraZeneca delegation】On July 14 in Nanjing, Jiangsu Party Secretary Xin Changxing and Governor Liu Xiaotao met AstraZeneca global executive vice president and head of international business Yin Sirui. Following the meeting, AstraZeneca and Dizhe Pharmaceuticals signed an exclusive licensing agreement for Shuwozhe (Shuwotini), a novel oral, irreversible EGFR inhibitor for treating lung cancer."
-    },
-    {
-      "id": "4988061",
-      "time": "2026-07-14 22:49:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什：美聯儲雙重使命之間並不衝突。"
-    },
-    {
-      "id": "4988060",
-      "time": "2026-07-14 22:49:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯從拜科努爾發射場發射載人飛船。"
-    },
-    {
-      "id": "mkt:019f611a-54cd-7aab-8d81-dfa54810c710",
-      "time": "2026-07-14 22:49:03",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "HKEX filings show Jinan Jianbang Metal Materials Co., Ltd. has filed for a Hong Kong listing."
-    },
-    {
-      "id": "mkt:019f611a-3305-7aab-8d81-d3a0e8a2f8c4",
-      "time": "2026-07-14 22:48:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said nominal wage growth remains robust."
-    },
-    {
-      "id": "4988059",
-      "time": "2026-07-14 22:48:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：名義工資增長穩健。"
-    },
-    {
-      "id": "mkt:019f6119-ee79-7aab-8d81-cb636e9b8a45",
-      "time": "2026-07-14 22:48:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the labor market has shown marked resilience."
-    },
-    {
-      "id": "4988058",
-      "time": "2026-07-14 22:48:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：遏制通脹將推動美債長端收益率下行，房貸成本隨之降低。"
-    },
-    {
-      "id": "mkt:019f6119-d7ca-7aab-8d81-c5c7cbc6133c",
-      "time": "2026-07-14 22:48:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed is not afraid of productivity-driven economic growth."
-    },
-    {
-      "id": "4988057",
-      "time": "2026-07-14 22:48:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：勞動力市場表現出了驚人的韌性。"
-    },
-    {
-      "id": "4988056",
-      "time": "2026-07-14 22:47:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴西中央銀行展期所有5萬份外匯掉期合約。"
-    },
-    {
-      "id": "4988055",
-      "time": "2026-07-14 22:47:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列透過法律，暫停逮捕逃避兵役的哈雷迪教徒。"
-    },
-    {
-      "id": "mkt:019f6118-a656-7aab-8d81-bfbc8b7fc759",
-      "time": "2026-07-14 22:47:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "EURUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Timiraos: June CPI helps Fed chair Walsh ahead of congressional testimony】Nick Timiraos said June CPI gave Fed chair Kevin Walsh room entering a two-day congressional testimony, his first Hill appearance since April confirmation. Softer-than-expected inflation allows Walsh to stick to his written testimony, avoid fresh forward guidance and protect FOMC consensus without being boxed in. Timiraos notes Walsh favors responding to data rather than pre-feeding markets; he can endure lengthy questioning while using prepared language on tariffs, AI investment and whether policy remains restrictive — stressing price stability — which reduces the likelihood the hearings produce new market-moving policy signals."
-    },
-    {
-      "id": "te:markets:566865",
-      "time": "2026-07-14 22:47:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "GlaxoSmithKline Stock Price Hits 4-week Low — GlaxoSmithKline shares decreased to 1906.00 GBp, the lowest since June 2026. Over the past 4 weeks, GlaxoSmithKline lost 2.6%, and in the last 12 months, it increased 35.97%."
-    },
-    {
-      "id": "4988054",
-      "time": "2026-07-14 22:46:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：30年期抵押貸款利率因通脹而高企。"
-    },
-    {
-      "id": "mkt:019f6118-63a2-7aab-8d81-b335c076767e",
-      "time": "2026-07-14 22:46:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh: Price stability is consistent with lower long-term yields."
-    },
-    {
-      "id": "4988053",
-      "time": "2026-07-14 22:46:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：物價穩定對應長期收益率走低。"
-    },
-    {
-      "id": "mkt:019f6117-af50-7aab-8d81-aeda5d424a36",
-      "time": "2026-07-14 22:46:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said 30-year mortgage rates remain elevated due to inflation."
-    },
-    {
-      "id": "4988052",
-      "time": "2026-07-14 22:45:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 美國移民與海關執法局（ICE）獲指令，今後將停止絕大多數車輛臨檢行動。"
-    },
-    {
-      "id": "4988051",
-      "time": "2026-07-14 22:45:42",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【惠達衛浴：出售廣西新高盛股權及相關債權，預計將減少2026年度歸母淨利潤3200萬元】惠達衛浴公告，公司控股子公司北流市新盛達新型材料有限公司擬向北流市聖力華福物流倉儲有限公司轉讓其持有的廣西新高盛薄型建陶有限公司100%的股權，並同步轉讓公司及北流新盛達對廣西新高盛的相關債權。股權轉讓價格為1元，債權轉讓金額為6800萬元，合計6800萬元。本次交易完成後，廣西新高盛將不再納入公司財務報表合併範圍內。經財務初步測算，本次交易預計將減少公司2026年度歸母淨利潤3200萬元左右。"
-    },
-    {
-      "id": "te:markets:566864",
-      "time": "2026-07-14 22:45:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Gains on Cooling US Inflation — The Ibovespa gained more than 0.5% to trade near 177,000 on Tuesday, recovering from the previous session's losses after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with Itaú, Bradesco, and Itaúsa up nearly 1%. Utilities also posted gains, with Axia and Sabesp adding 0.5%. Meanwhile, Vale jumped more than 2% as iron ore prices surged on expectations that impending Chinese restrictions on selected Fortescue portside cargoes will tighten supply. Other notable gainers included Ambev (+1%), Rede D'Or (+1%), and Vivo (+1.5%)."
-    },
-    {
-      "id": "mkt:019f6116-3a7a-7aab-8d81-a2fbabdec07c",
-      "time": "2026-07-14 22:44:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said he does not believe any change in communication would be intended to conceal the truth."
-    },
-    {
-      "id": "4988050",
-      "time": "2026-07-14 22:44:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：不要指望在隱瞞真相的溝通方式上會有任何改變。"
-    },
-    {
-      "id": "mkt:019f6115-ac9e-7aab-8d81-9a31b845d02f",
-      "time": "2026-07-14 22:43:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "KEVIN WARSH said high inflation underscores the need for communication reform."
-    },
-    {
-      "id": "4988049",
-      "time": "2026-07-14 22:43:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：高通脹表明通訊改革至關重要。"
-    },
-    {
-      "id": "4988048",
-      "time": "2026-07-14 22:43:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "據貓眼專業版資料，截至7月14日22時，2026年年度總票房（含預售）突破190億，《飛馳人生3》《給阿嬤的情書》《鏢人：風起大漠》暫列年度票房榜前三位。"
-    },
-    {
-      "id": "mkt:019f6115-347c-7aab-8d81-94db5063785a",
-      "time": "2026-07-14 22:43:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【2026 cumulative box office tops 19 bln yuan】Maoyan Pro data: as of 22:00 on July 14, 2026, 2026 cumulative box office including presales exceeded 19 bln yuan. Top three titles by revenue: Feichi Rensheng 3; A Letter to Grandma; Biaoren: Wind Rises in the Desert."
-    },
-    {
-      "id": "4988047",
-      "time": "2026-07-14 22:43:12",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "FASTENAL股價一度下跌3.4%，管理層召開財報電話會議。"
-    },
-    {
-      "id": "4988046",
-      "time": "2026-07-14 22:43:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "標普：由於盈利強勁、槓桿率低，CARPENTER科技公司展望被上調至正面；“BB+”評級得到確認。"
-    },
-    {
-      "id": "4988045",
-      "time": "2026-07-14 22:42:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【全國用電負荷達15.51億千瓦再創新高 電力供需形勢總體平穩】記者從國家能源局瞭解到，繼7月10日全國用電負荷15.18億千瓦首創新高後，7月14日全國用電負荷再創新高，達到15.51億千瓦。國家發展改革委、國家能源局充分發揮全國統一電力市場體系作用，加強電力互濟，7月10日跨省跨區跨網最大輸送電力合計2.63億千瓦，7月14日合計2.78億千瓦，有力支撐全國用電保障。目前，全國能源電力供需形勢總體平穩。（央視新聞）"
-    },
-    {
-      "id": "4988044",
-      "time": "2026-07-14 22:42:16",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "當被問及若特朗普試圖干預美聯儲他會作何應對時，沃什表示將繼續履行自身職責。"
-    },
-    {
-      "id": "4988043",
-      "time": "2026-07-14 22:41:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：致力於實施獨立貨幣政策。"
-    },
-    {
-      "id": "4988042",
-      "time": "2026-07-14 22:41:27",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什：最高法院回答了有關美聯儲獨立性的問題，我在美聯儲的目標是消除政治因素。"
-    },
-    {
-      "id": "mkt:019f6113-448a-7aab-8d81-8a013b1f92ca",
-      "time": "2026-07-14 22:41:20",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【SK Hynix ADR options open with tilt toward short-dated contracts】Options on SK Hynix ADRs began trading on the U.S. options exchange Tuesday. As of 10:25 a.m. New York time total volume was about 33,000 contracts, with more than two-thirds concentrated in options expiring this Friday. The most active contract was the $185 call (≈2,900 contracts), followed by the $145 put. A $200 call expiring in August also traded heavily (over 1,500 contracts). Daniel Kirsch, head of options at Piper Sandler, said traders are positioning for further near-term upside in the ADR and that demand for short-dated bullish options—especially calls expiring this Friday—is expected to be strong, likely drawing rapid retail participation."
-    },
-    {
-      "id": "mkt:019f6113-1b4b-7aab-8d81-806b1d355872",
-      "time": "2026-07-14 22:41:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China peak power load hits 1.551 billion kW; cross-region transfers rise to 278 GW】China's peak electricity load reached 1.551 billion kilowatts (1,551 GW) on July 14, up from 1.518 billion kW on July 10, the National Energy Administration said. The National Development and Reform Commission and the NEA said the national unified power market supported increased cross‑province/region/grid transfers, with maximum transfers totaling 263 GW on July 10 and 278 GW on July 14. Authorities said nationwide power supply-demand conditions are overall stable."
-    },
-    {
-      "id": "mkt:019f6112-e9f5-7aab-8d81-78cdbe83adc3",
-      "time": "2026-07-14 22:40:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said his goal within the Fed is to prevent political interference."
-    },
-    {
-      "id": "mkt:019f6112-8ee6-7aab-8d81-733aa538e6fa",
-      "time": "2026-07-14 22:40:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said the Supreme Court has already answered the question about the Fed’s independence."
-    },
-    {
-      "id": "mkt:019f6112-5e63-7aab-8d81-6984ba1c240d",
-      "time": "2026-07-14 22:40:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said he understands that central banks need to intervene in markets during crises."
-    },
-    {
-      "id": "4988041",
-      "time": "2026-07-14 22:40:13",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什：美聯儲很榮幸能成為一家獨立的中央銀行。我理解在危機時期，央行需要介入市場。"
-    },
-    {
-      "id": "mkt:019f6112-01d4-7aab-8d81-65040d20e372",
-      "time": "2026-07-14 22:39:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said the Fed is honored to be an independent central bank."
-    },
-    {
-      "id": "4988040",
-      "time": "2026-07-14 22:39:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "據港交所檔案：深圳市威兆半導體股份有限公司向港交所提交上市申請書。"
-    },
-    {
-      "id": "mkt:019f6110-e5ac-7aab-8d81-5a6159ebe4e5",
-      "time": "2026-07-14 22:38:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "According to HKEX filings, Shenzhen Weizhao Semiconductor Co., Ltd. has filed a listing application with HKEX."
-    },
-    {
-      "id": "mkt:019f6110-7a8f-7aab-8d81-56b8964aae3b",
-      "time": "2026-07-14 22:38:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said the Fed's balance-sheet framework has changed materially."
-    },
-    {
-      "id": "mkt:019f6110-1ca2-7aab-8d81-4d32a8989298",
-      "time": "2026-07-14 22:37:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed must do its job to avoid interference from fiscal policy."
-    },
-    {
-      "id": "4988039",
-      "time": "2026-07-14 22:37:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什：美聯儲必須採取強有力的措施，避免財政政策干預。"
-    },
-    {
-      "id": "4988038",
-      "time": "2026-07-14 22:37:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國原油價格短暫回落，WTI原油價格接近每桶79美元。"
-    },
-    {
-      "id": "mkt:019f610f-df76-7aab-8d81-46ee40fb4a1a",
-      "time": "2026-07-14 22:37:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said any changes to balance-sheet policy will be given advance notice."
-    },
-    {
-      "id": "4988037",
-      "time": "2026-07-14 22:37:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：資產負債表絕非僅是體系搭建問題。"
-    },
-    {
-      "id": "mkt:019f610f-a746-7aab-8d81-3ee527652462",
-      "time": "2026-07-14 22:37:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said the balance sheet is part of monetary policy."
-    },
-    {
-      "id": "4988036",
-      "time": "2026-07-14 22:37:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什談及專項工作組：我已要求各專項工作組迴歸第一性原則開展工作。"
-    },
-    {
-      "id": "4988035",
-      "time": "2026-07-14 22:36:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "英雄摩托公司批准對ATHER ENERGY投資高達100億盧比。"
-    },
-    {
-      "id": "mkt:019f610f-09de-7aab-8d81-3101f9d9b5ae",
-      "time": "2026-07-14 22:36:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he has tasked working groups with returning to first principles."
-    },
-    {
-      "id": "4988034",
-      "time": "2026-07-14 22:36:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：部分工作組的邊界將會重疊。"
-    },
-    {
-      "id": "mkt:019f610e-c276-7aab-8d81-2b369304fe96",
-      "time": "2026-07-14 22:36:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh said the boundaries of some working groups will overlap."
-    },
-    {
-      "id": "mkt:019f610e-9641-7aab-8d81-254490a16fd9",
-      "time": "2026-07-14 22:36:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said he will hold public discussions and is willing to regularly share results and his thinking."
-    },
-    {
-      "id": "4988033",
-      "time": "2026-07-14 22:36:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：將定期分享工作組的想法。"
-    },
-    {
-      "id": "4988032",
-      "time": "2026-07-14 22:36:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：工作組的任何資訊都不會保密。"
-    },
-    {
-      "id": "4988031",
-      "time": "2026-07-14 22:35:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥主要股指漲幅擴大至1.35%。"
-    },
-    {
-      "id": "mkt:019f610e-0ee5-7aab-8d81-19e633300392",
-      "time": "2026-07-14 22:35:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said an external working group will first share its findings with policymakers."
-    },
-    {
-      "id": "mkt:019f610e-0d1a-7aab-8d81-12564ec71c22",
-      "time": "2026-07-14 22:35:38",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mexico's main stock index extended gains to 1.35%."
-    },
-    {
-      "id": "4988030",
-      "time": "2026-07-14 22:35:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：各特別工作組將先與19位政策制定者交換意見。"
-    },
-    {
-      "id": "4988029",
-      "time": "2026-07-14 22:35:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行首席財務官預計未來還將進一步裁員。"
-    },
-    {
-      "id": "mkt:019f610d-72a3-7aab-8d81-0d824cae1801",
-      "time": "2026-07-14 22:34:58",
-      "tags": [
-        "MKT News",
-        "WFC.O",
-        "Impact bullish"
-      ],
-      "text": "Wells Fargo CFO says the bank expects further job cuts ahead."
-    },
-    {
-      "id": "4988028",
-      "time": "2026-07-14 22:34:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：目前各專項工作組正處於調研摸底階段。"
-    },
-    {
-      "id": "mkt:019f610d-0b55-7aab-8d81-02fbc989f575",
-      "time": "2026-07-14 22:34:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said several working groups he established are currently in an investigative stage."
-    },
-    {
-      "id": "4988027",
-      "time": "2026-07-14 22:34:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普在社交平臺上宣揚美日貿易和投資協議。"
-    },
-    {
-      "id": "4988026",
-      "time": "2026-07-14 22:34:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲5%，現報1315.80美元/盎司。"
-    },
-    {
-      "id": "te:markets:566861",
-      "time": "2026-07-14 22:34:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Rises on Softer US Inflation Data — The S&P/TSX Composite Index rose 0.5% to trade near 35,500 on Tuesday following the release of US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Financials traded higher, with RBC, TD Bank, BMO, and CIBC each gaining nearly 1%. Meanwhile, the BoC is widely expected to keep its key policy rate unchanged at 2.25% on Wednesday. In contrast, oil prices rose on renewed concerns over crude shipments through the Strait of Hormuz amid the escalating US-Iran conflict, fueling worries about higher energy costs. Gold prices also advanced, supporting mining stocks. Agnico Eagle, Franco-Nevada, and WPM gained more than 2%, while Barrick added over 2.5%."
-    },
-    {
-      "id": "mkt:019f610b-e0c2-7aab-8d80-fc9c88a20af6",
-      "time": "2026-07-14 22:33:16",
-      "tags": [
-        "MKT News",
-        "NVDA.O",
-        "Impact bullish",
-        "7011.T"
-      ],
-      "text": "【NVIDIA to explore partnership with Mitsubishi Heavy Industries on AI data-centre cooling and power】Nikkei reports NVIDIA is considering a partnership with Mitsubishi Heavy Industries to supply cooling systems and energy-management equipment for next-generation AI data centres, which NVIDIA calls \"AI factories\". Mitsubishi Heavy manufactures data-centre air conditioning, high-efficiency cooling and backup power equipment and provides integrated energy-management systems; it also holds a global-leading share in gas turbines and is expected to pursue collaboration with NVIDIA on power infrastructure. SK Group is working with NVIDIA on a Japan AI factory targeted for 2028-29. As AI data-centre power demand climbs, markets including the US are increasingly deploying gas-fired power plants to supply data centres."
-    },
-    {
-      "id": "mkt:019f610b-c7da-7aab-8d80-f7b9461cacfb",
-      "time": "2026-07-14 22:33:09",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed will adhere to its responsibilities; the more it does so, the less it will be drawn into politics."
-    },
-    {
-      "id": "4988025",
-      "time": "2026-07-14 22:32:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲沃什：美聯儲將專注於自身職責範圍。"
-    },
-    {
-      "id": "4988024",
-      "time": "2026-07-14 22:31:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "西爾維拉：對可再生能源的補貼不再合理。"
-    },
-    {
-      "id": "4988023",
-      "time": "2026-07-14 22:30:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：TECHERA 工程首席財務官SANDIP SHINDE辭職。"
-    },
-    {
-      "id": "4988022",
-      "time": "2026-07-14 22:30:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "英國債務管理局表示，將於2026年7月21日透過拍賣發售50億英鎊的2029年到期、票息4.000%的英國國債。"
-    },
-    {
-      "id": "mkt:019f6109-2662-7aab-8d80-efbc1e16a7c7",
-      "time": "2026-07-14 22:30:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh said the Fed has the commitment, capacity and responsibility to carry out the tasks assigned to it by the Committee."
-    },
-    {
-      "id": "te:markets:566860",
-      "time": "2026-07-14 22:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Up for 4th Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was up for the fourth session on Tuesday, rising about 0.7% to a new high since June 5 at 2,980 points, driven by gains across all vessel segments. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, advanced for the fourth day, increasing by 1% to its highest in over a month at 4,751 points; and the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, edged up 0.1% to 2,251 points. Among smaller vessels, the supramax index increased by 0.2% to a peak since June 2022 at 1,710 points."
-    },
-    {
-      "id": "mkt:019f6108-bc63-7aab-8d80-e18c6b8aabae",
-      "time": "2026-07-14 22:29:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "7011.T",
-        "Impact bullish"
-      ],
-      "text": "According to Nikkei, under an agreement Mitsubishi Heavy Industries will supply cooling systems and energy-management equipment for AI data centers."
-    },
-    {
-      "id": "4988021",
-      "time": "2026-07-14 22:29:28",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點"
-      ],
-      "text": "【7月14日增減持彙總】據不完全統計，7月14日盤後，賽力斯、傑克科技、箭牌家居、泓淋電力4家公司披露增持情況。天馬科技、中持股份、麗尚國潮、東嶽矽材、嘉誠國際、首創證券6家A股公司披露擬減持情況。"
-    },
-    {
-      "id": "mkt:019f6108-3f50-7aab-8d80-dfa4cb70bb6c",
-      "time": "2026-07-14 22:29:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hubei peak load hits record 60.34 GW】State Grid Hubei Electric Power Co said Hubei’s grid load reached 60.338 GW at 12:38 on July 14, a record high. Prolonged heat drove rapid demand growth, with Wuhan, Xiangyang, Yichang, Jingzhou and Jingmen each setting all-time peak loads; the operator forecasts the province’s maximum load will exceed 62 GW this year."
-    },
-    {
-      "id": "4988020",
-      "time": "2026-07-14 22:29:04",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛：資產管理激勵費將於第三、四季度上行。"
-    },
-    {
-      "id": "4988019",
-      "time": "2026-07-14 22:28:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "英偉達據悉與三菱重工就人工智慧資料中心的冷卻與供電展開合作。"
-    },
-    {
-      "id": "4988018",
-      "time": "2026-07-14 22:28:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行首席財務官邁克·桑托馬西莫表示，第四季度平均貸款規模同比增速很可能會高於預期。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607143806109898",
-      "time": "2026-07-14 22:28:28",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席沃什：現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。"
-    },
-    {
-      "id": "4988017",
-      "time": "2026-07-14 22:28:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基稱與法國就防空系統及戰機採購等達成合作協議】烏克蘭總統澤連斯基14日表示，烏克蘭與法國達成多項防務合作協議，內容包括導彈許可生產、防空反導系統供應以及採購“陣風”戰鬥機等。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6107-410a-7aab-8d80-d0dd988b22ef",
-      "time": "2026-07-14 22:28:13",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "Nikkei reports NVIDIA is in talks with Japan’s Mitsubishi Heavy Industries on cooling and power solutions for AI data centers."
-    },
-    {
-      "id": "4988016",
-      "time": "2026-07-14 22:27:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：將重新審視通脹框架，以理解通脹成因及應對之策。"
-    },
-    {
-      "id": "mkt:019f6106-ffc8-7aab-8d80-ca2a590b59a1",
-      "time": "2026-07-14 22:27:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said he will reassess the inf framework to better understand its drivers and the measures available to address it."
-    },
-    {
-      "id": "mkt:019f6106-ee00-7aab-8d80-c51da35ea19b",
-      "time": "2026-07-14 22:27:51",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed chair Kevin Warsh said he was pleased his predecessor later abandoned the Fed's 2020 framework."
-    },
-    {
-      "id": "4988015",
-      "time": "2026-07-14 22:27:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "T-Mobile <TMUS.O>：BERNSTEIN將目標價從245美元下調至220美元。"
-    },
-    {
-      "id": "mkt:019f6106-574e-7aab-8d80-bf97c2b91c43",
-      "time": "2026-07-14 22:27:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed's 2020 policy framework was a mistake and did not succeed."
-    },
-    {
-      "id": "4988014",
-      "time": "2026-07-14 22:27:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "沃什：我樂見前任摒棄2020年美聯儲政策框架。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607143806110719",
-      "time": "2026-07-14 22:27:08",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲主席沃什表示 現在不是美聯儲在通脹問題上推卸責任的時候】美聯儲主席沃什表示，現在不是美聯儲在通脹問題上推卸責任的時候。我們希望通脹增幅更加有限。美聯儲擁有實現價格穩定的工具。"
-    },
-    {
-      "id": "mkt:019f6106-2690-7aab-8d80-b5b3faa5eb82",
-      "time": "2026-07-14 22:27:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said he is highly critical of the Fed's 2020 policy framework and that this is no secret."
     }
   ]
 }
