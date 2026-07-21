@@ -1,7 +1,184 @@
 {
   "date": "2026-07-21",
-  "count": 2382,
+  "count": 2401,
   "items": [
+    {
+      "id": "5000092",
+      "time": "2026-07-21 18:06:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【肯特催化：股價連續2日跌幅偏離值累計超20% 無未披露重大資訊】肯特催化公告稱，公司股票於2026年7月20日、7月21日連續2個交易日內收盤價格跌幅偏離值累計超過20%，屬於異常波動情形。經自查，公司目前經營正常，主營業務未變，市場環境、行業政策無重大調整。截至公告披露日，除已披露事項外，不存在應披露而未披露的重大資訊。公司提醒投資者注意二級市場交易風險。"
+    },
+    {
+      "id": "5000090",
+      "time": "2026-07-21 18:05:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道：伊朗霍拉姆阿巴德高地一處地點遭遇襲擊。"
+    },
+    {
+      "id": "5000088",
+      "time": "2026-07-21 18:05:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海川智慧：擬以5000萬元-1億元回購公司股份】海川智慧公告，擬以5000萬元-1億元回購公司股份，回購價格不超過129.73元/股。"
+    },
+    {
+      "id": "5000087",
+      "time": "2026-07-21 18:05:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方大特鋼：擬取得鋼鐵企投控制權 預計構成重大資產重組】方大特鋼公告稱，公司擬與其他合夥人協商，退出南昌滬旭並以實物分配等形式取得江西方大鋼鐵集團企業投資有限公司控制權，該交易預計構成重大資產重組及關聯交易，不涉及發行股份，不會導致控股股東和實際控制人變更。"
+    },
+    {
+      "id": "5000086",
+      "time": "2026-07-21 18:05:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "丹納赫股價在盤前交易時段因第二季度業績公佈下跌8%。"
+    },
+    {
+      "id": "5000084",
+      "time": "2026-07-21 18:05:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "墨西哥水泥集團（CEMEX）：接到歐盟委員會針對法德兩國外加劑業務的異議宣告。"
+    },
+    {
+      "id": "5000083",
+      "time": "2026-07-21 18:04:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方大炭素：透過定向減資45億元退出南昌滬旭併購基金】方大炭素公告稱，公司與全體合夥人協商一致，以減資方式退出南昌滬旭鋼鐵產業投資合夥企業（有限合夥）。公司此前對該併購基金認繳和實繳出資均為45億元。2026年7月21日，公司已收到減資款45億元及期間收益分配款509.79萬元。本次定向減資有助於公司最佳化資金配置，降低管理成本，不會對公司產生不利影響。"
+    },
+    {
+      "id": "5000082",
+      "time": "2026-07-21 18:04:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "當地時間今天（7月21日）中午，巴林拉響防空警報。有目擊者在美軍第五艦隊總部所在區域聽到爆炸聲。美軍和巴林方面暫未釋出相關訊息。 此外，科威特北部民眾也聽到巨大爆炸聲。科威特官方暫未就此釋出任何訊息。（CCTV國際時訊 )"
+    },
+    {
+      "id": "5000081",
+      "time": "2026-07-21 18:03:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國總統特朗普最快將於本週內對數十個國家實施新的關稅。"
+    },
+    {
+      "id": "te:markets:568546",
+      "time": "2026-07-21 18:03:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Jumps as Investors Track US-Iran Diplomacy Efforts — Silver jumped more than 4% to $59 an ounce on Tuesday as investors monitored diplomatic efforts to ease the US-Iran conflict and assessed the implications for oil prices, inflation, and the Federal Reserve’s policy path. Reports suggested mediators are working to restart negotiations between Washington and Tehran, with a possible 10-day truce being discussed to help secure shipping routes through the Strait of Hormuz. The recent escalation pushed oil prices to a more than one-month high, intensifying concerns over renewed inflationary pressures. Some US policymakers have argued that rates may need to stay elevated for longer, or even rise further, to contain inflation. While the Fed is expected to hold rates steady next week, markets are pricing in more than a 60% chance of a rate hike in September."
+    },
+    {
+      "id": "mkt:019f8421-2802-7aab-8e25-960e158d4c5c",
+      "time": "2026-07-21 18:03:13",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Cyberspace Administration: Implementation Plan to Deepen IPv6 Technical Innovation and Integrated Applications (2026–2030)】By 2027 the plan aims for materially higher end-to-end IPv6 penetration and key staged gains in technical innovation and integrated applications: IPv6 network performance and QoS optimized; internet applications expand IPv6 usage; fixed‑broadband user IPv6 connectivity rates rise sharply; new network terminals fully support and enable IPv6; government and enterprise dedicated‑line IPv6 traffic share increases; industry integration of IPv6 applications broadens; IPv6 evolution technologies (IPv6+) continue to mature; initial IPv6–AI integration advances; and security products’ IPv6 protection capabilities improve. By 2030 the target is deep, economy‑wide integration of IPv6 and an advanced, open, innovation‑driven, secure IPv6 industry ecosystem: new networks to default to providing IPv6 addresses, accelerate migration to IPv6 single‑stack, foster more IPv6+ applications, models and business formats, and promote an IPv6‑led network services and applications architecture."
+    },
+    {
+      "id": "mkt:019f8421-22d3-7aab-8e25-8d6c3c4a74e9",
+      "time": "2026-07-21 18:03:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "The Financial Times reports U.S. President Trump could impose new tariffs on imports from dozens of countries as early as this week."
+    },
+    {
+      "id": "5000079",
+      "time": "2026-07-21 18:02:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深科達：董事及子公司高管擬合計增持不低於707萬元】深科達公告，公司董事、子公司線馬科技總經理周爾清及核心骨幹、子公司深科達半導體總經理林廣滿擬自2026年7月22日起6個月內，透過上海證券交易所交易系統允許的方式增持公司股份。周爾清擬增持金額不低於人民幣265萬元且不超過人民幣530萬元；林廣滿擬增持金額不低於人民幣442萬元且不超過人民幣884萬元，合計不低於人民幣707萬元且不超過人民幣1414萬元。"
+    },
+    {
+      "id": "mkt:019f8420-8869-7aab-8e25-86d111685b38",
+      "time": "2026-07-21 18:02:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "BLK.N",
+        "F.N",
+        "GOOG.O"
+      ],
+      "text": "BlackRock (BLK.N), Carhartt, Ford Motor (F.N) and Google (GOOG.O) formed an alliance to expand workforce skills training."
+    },
+    {
+      "id": "5000078",
+      "time": "2026-07-21 18:02:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智雲股份：持股5%以上股東部分股份解除質押暨協議轉讓過戶完成】智雲股份公告稱，2026年7月20日，宋長江將其持有的1450萬股（佔總股本5.03%）解除質押，並完成過戶給姚擁軍的手續。2025年12月1日，慧達富能與姚擁軍簽署《一致行動協議》。本次轉讓後，姚擁軍持有公司5.03%股份，其一致行動人慧達富能合計控制公司18.61%的股份表決權。本次轉讓不觸及要約收購，不會導致公司控股股東、實際控制人變更。"
+    },
+    {
+      "id": "5000077",
+      "time": "2026-07-21 18:02:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "卡夫亨氏傳出與迪士尼達成供應合作訊息後，股價上漲 2%  。"
+    },
+    {
+      "id": "te:markets:568545",
+      "time": "2026-07-21 18:02:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Rises Further — Crude oil rose above $83 per barrel on Tuesday after recovering from earlier losses, as traders balanced escalating conflict in the Middle East against renewed diplomatic efforts. The US carried out a 10th consecutive day of strikes after President Donald Trump vowed Iran \"will pay\" for attacks that killed American soldiers, while Tehran responded with missile and drone strikes targeting Kuwait. At the same time, hopes for de-escalation persisted after Iran confirmed it had received mediation proposals and reports of discussions over a possible 10-day ceasefire. Oil prices have remained highly volatile as markets react to shifting prospects for further conflict or renewed negotiations. Adding to supply concerns, Yemen's Houthi movement threatened to block Saudi maritime traffic in the Red Sea, a key export route that allows the kingdom to bypass the Strait of Hormuz. Saudi Arabia said it would take all necessary measures to protect its shipping in line with international law."
+    },
+    {
+      "id": "5000076",
+      "time": "2026-07-21 18:01:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國核建：子公司簽署山東萊陽核電專案一期工程核島施工合同】中國核建(601611.SH)公告稱，公司子公司中國核工業二四建設有限公司與中國核工業第五建設有限公司近期簽署山東萊陽核電專案一期工程核島土建及安裝施工合同。"
+    },
+    {
+      "id": "5000075",
+      "time": "2026-07-21 18:01:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "HYPERSCALE DATA公司比特幣儲備達到 1087 枚比特幣，價值約 7030 萬美元。"
+    },
     {
       "id": "5000074",
       "time": "2026-07-21 18:01:24",
