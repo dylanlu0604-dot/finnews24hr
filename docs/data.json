@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-22 05:29:59",
-  "count": 18079,
+  "updated": "2026-07-22 05:33:57",
+  "count": 18078,
   "items": [
+    {
+      "id": "5000910",
+      "time": "2026-07-22 05:32:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中國醫藥控股在美股市場一度暴漲逾2000% 收盤升幅仍近八倍】中國醫藥控股週二在美股市場一度飆升逾2000%，創下紀錄最大漲幅。盤中股價最高達19.19美元，收盤上漲790%，達到2023年9月1日以來最高位，當天成交量為三個月日均值的3643%。"
+    },
     {
       "id": "5000909",
       "time": "2026-07-22 05:29:11",
@@ -166188,26 +166196,6 @@
         "MKT News"
       ],
       "text": "【U.S. House passes bill to make daylight saving time permanent】On July 14 the U.S. House voted to pass a bill to make daylight saving time permanent and sent it to the Senate for consideration. In May the House Energy and Commerce Committee approved the Sunshine Protection Act 48-1; the bill would eliminate the twice-yearly clock changes and keep daylight saving time year-round."
-    },
-    {
-      "id": "4988522",
-      "time": "2026-07-15 05:31:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國會眾議院透過永久實行夏令時法案】當地時間7月14日，美國國會眾議院投票透過永久實行夏令時的法案，並將法案提交參議院審議。今年5月，美國國會眾議院能源和商業委員會以48比1的結果透過了《陽光保護法案》，該法案旨在永久取消美國每年兩次調整時間的做法，讓夏令時全年永久化。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6289-e143-7aab-8d8a-9ded3c93759d",
-      "time": "2026-07-15 05:30:30",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran first vice president says US breach of commitments was expected】Iran's first vice president Aref said, \"The U.S. breaching its commitments was to be expected. The U.S. tore up recently signed documents, showing its words cannot be trusted.\""
     }
   ]
 }
