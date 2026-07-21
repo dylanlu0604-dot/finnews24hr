@@ -1,7 +1,187 @@
 {
   "date": "2026-07-21",
-  "count": 2801,
+  "count": 2820,
   "items": [
+    {
+      "id": "5000395",
+      "time": "2026-07-21 20:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將中國中信金融資產管理的信用評級上調至BBB+，評級展望維持穩定。"
+    },
+    {
+      "id": "mkt:019f849e-90c8-7aab-8e28-df8644aae5ff",
+      "time": "2026-07-21 20:20:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the COVID-19 pandemic was a supply-chain stress test for great-power conflict."
+    },
+    {
+      "id": "mkt:019f849e-37a1-7aab-8e28-d2c798ba518d",
+      "time": "2026-07-21 20:19:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Canada has severely discriminatory policies in dairy, alcohol and beverages."
+    },
+    {
+      "id": "5000394",
+      "time": "2026-07-21 20:19:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將Dynatrace目標股價上調，從45美元提至每股55美元。"
+    },
+    {
+      "id": "mkt:019f849d-e05f-7aab-8e28-c9c3a724d3fd",
+      "time": "2026-07-21 20:19:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent on Canada trade said it is just reciprocity."
+    },
+    {
+      "id": "5000393",
+      "time": "2026-07-21 20:19:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：加拿大在乳製品、酒類飲品領域存在高度歧視性政策。"
+    },
+    {
+      "id": "5000392",
+      "time": "2026-07-21 20:19:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及對加貿易：這僅僅是對等措施。"
+    },
+    {
+      "id": "mkt:019f849d-4b4b-7aab-8e28-c163a6433013",
+      "time": "2026-07-21 20:18:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "REUTERS SURVEY: 78 of 104 economists expect the Fed to hold the federal funds rate at 3.50%-3.75% through 2026; last month 78 of 102 said the same."
+    },
+    {
+      "id": "mkt:019f849d-20fb-7aab-8e28-bdb536d2f392",
+      "time": "2026-07-21 20:18:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "REUTERS SURVEY: All 104 economists expect the Fed to hold the federal funds rate at 3.50%-3.75% at its July 29 meeting."
+    },
+    {
+      "id": "5000391",
+      "time": "2026-07-21 20:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "非洲最高衛生官員要求美國取消針對烏干達的埃博拉相關旅行限制。"
+    },
+    {
+      "id": "mkt:019f849c-b4b7-7aab-8e28-b1832048f25d",
+      "time": "2026-07-21 20:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump is scheduled to speak at Lindsey Graham's funeral on July 28 local time."
+    },
+    {
+      "id": "mkt:019f849c-87e5-7aab-8e28-a8183da31e80",
+      "time": "2026-07-21 20:17:58",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. government seeks to create market signals by holding equity stakes in companies."
+    },
+    {
+      "id": "5000390",
+      "time": "2026-07-21 20:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於7月28日在林賽·格雷厄姆的葬禮上致悼詞。"
+    },
+    {
+      "id": "em:jjsj_mgsj:202607213815827987",
+      "time": "2026-07-21 20:17:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【ADP：截至7月4日四周 美國私營部門周均新增就業1.65萬人】7月21日，根據ADP Research和斯坦福數字經濟實驗室的資料，截至7月4日的四周，美國私營部門就業人數平均每週增加16500人。"
+    },
+    {
+      "id": "5000389",
+      "time": "2026-07-21 20:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：憑藉政府持有的企業股權，試圖釋放市場訊號。"
+    },
+    {
+      "id": "mkt:019f849b-bebc-7aab-8e28-a09c1c71bea5",
+      "time": "2026-07-21 20:17:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange website shows Nanjing Shihe Gene Biotechnology Co., Ltd.'s STAR Market IPO review status changed to 'inquired'."
+    },
+    {
+      "id": "mkt:019f849b-b8bf-7aab-8e28-99e7a95e181e",
+      "time": "2026-07-21 20:17:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "ADP weekly jobs report: US hiring slowed for a fourth consecutive week."
+    },
+    {
+      "id": "5000388",
+      "time": "2026-07-21 20:17:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "據上交所官網，南京世和基因生物技術股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
+    },
+    {
+      "id": "mkt:019f849b-7225-7aab-8e28-914501611a70",
+      "time": "2026-07-21 20:16:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK",
+        "Impact bearish",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Public funds' top-10 holdings heavily reshuffled; Zhongji Xuchuang largest net buy】July 21 — China’s public mutual funds completed Q2 2026 disclosures. Tianxiang data show the funds’ current top-10 holdings are Zhongji Xuchuang, Accelink, Dongshan Precision, Cambricon, CATL, NAURA Technology, GigaDevice, Yuanjie Technology, AMEC and Three Rings Group. Versus end-Q1 2026, six stocks entered the top 10 — Cambricon, NAURA, GigaDevice, Yuanjie Technology, AMEC and Three Rings — replacing Tencent, Kweichow Moutai, Zijin Mining, Alibaba, WuXi AppTec and Luxshare Precision. Zhongji Xuchuang recorded the largest increase in aggregate market value held by public funds; Tencent saw the largest reduction."
+    },
     {
       "id": "te:economy:568564",
       "time": "2026-07-21 20:16:27",

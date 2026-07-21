@@ -1,7 +1,187 @@
 {
-  "updated": "2026-07-21 20:17:18",
-  "count": 18567,
+  "updated": "2026-07-21 20:21:19",
+  "count": 18575,
   "items": [
+    {
+      "id": "5000395",
+      "time": "2026-07-21 20:20:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "惠譽將中國中信金融資產管理的信用評級上調至BBB+，評級展望維持穩定。"
+    },
+    {
+      "id": "mkt:019f849e-90c8-7aab-8e28-df8644aae5ff",
+      "time": "2026-07-21 20:20:11",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the COVID-19 pandemic was a supply-chain stress test for great-power conflict."
+    },
+    {
+      "id": "5000394",
+      "time": "2026-07-21 20:19:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將Dynatrace目標股價上調，從45美元提至每股55美元。"
+    },
+    {
+      "id": "mkt:019f849e-37a1-7aab-8e28-d2c798ba518d",
+      "time": "2026-07-21 20:19:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said Canada has severely discriminatory policies in dairy, alcohol and beverages."
+    },
+    {
+      "id": "mkt:019f849d-e05f-7aab-8e28-c9c3a724d3fd",
+      "time": "2026-07-21 20:19:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent on Canada trade said it is just reciprocity."
+    },
+    {
+      "id": "5000393",
+      "time": "2026-07-21 20:19:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：加拿大在乳製品、酒類飲品領域存在高度歧視性政策。"
+    },
+    {
+      "id": "5000392",
+      "time": "2026-07-21 20:19:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特談及對加貿易：這僅僅是對等措施。"
+    },
+    {
+      "id": "mkt:019f849d-4b4b-7aab-8e28-c163a6433013",
+      "time": "2026-07-21 20:18:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "REUTERS SURVEY: 78 of 104 economists expect the Fed to hold the federal funds rate at 3.50%-3.75% through 2026; last month 78 of 102 said the same."
+    },
+    {
+      "id": "mkt:019f849d-20fb-7aab-8e28-bdb536d2f392",
+      "time": "2026-07-21 20:18:37",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "REUTERS SURVEY: All 104 economists expect the Fed to hold the federal funds rate at 3.50%-3.75% at its July 29 meeting."
+    },
+    {
+      "id": "5000391",
+      "time": "2026-07-21 20:18:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "非洲最高衛生官員要求美國取消針對烏干達的埃博拉相關旅行限制。"
+    },
+    {
+      "id": "mkt:019f849c-b4b7-7aab-8e28-b1832048f25d",
+      "time": "2026-07-21 20:18:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump is scheduled to speak at Lindsey Graham's funeral on July 28 local time."
+    },
+    {
+      "id": "5000390",
+      "time": "2026-07-21 20:17:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普將於7月28日在林賽·格雷厄姆的葬禮上致悼詞。"
+    },
+    {
+      "id": "mkt:019f849c-87e5-7aab-8e28-a8183da31e80",
+      "time": "2026-07-21 20:17:58",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the U.S. government seeks to create market signals by holding equity stakes in companies."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607213815827987",
+      "time": "2026-07-21 20:17:51",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【ADP：截至7月4日四周 美國私營部門周均新增就業1.65萬人】7月21日，根據ADP Research和斯坦福數字經濟實驗室的資料，截至7月4日的四周，美國私營部門就業人數平均每週增加16500人。"
+    },
+    {
+      "id": "5000389",
+      "time": "2026-07-21 20:17:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特：憑藉政府持有的企業股權，試圖釋放市場訊號。"
+    },
+    {
+      "id": "mkt:019f849b-bebc-7aab-8e28-a09c1c71bea5",
+      "time": "2026-07-21 20:17:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Stock Exchange website shows Nanjing Shihe Gene Biotechnology Co., Ltd.'s STAR Market IPO review status changed to 'inquired'."
+    },
+    {
+      "id": "mkt:019f849b-b8bf-7aab-8e28-99e7a95e181e",
+      "time": "2026-07-21 20:17:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "ADP weekly jobs report: US hiring slowed for a fourth consecutive week."
+    },
+    {
+      "id": "5000388",
+      "time": "2026-07-21 20:17:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "據上交所官網，南京世和基因生物技術股份有限公司科創板IPO稽核狀態變更為“已問詢”。"
+    },
+    {
+      "id": "mkt:019f849b-7225-7aab-8e28-914501611a70",
+      "time": "2026-07-21 20:16:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "China Tech Giants",
+        "0700.HK",
+        "Impact bearish",
+        "300750.SZ",
+        "Impact bullish"
+      ],
+      "text": "【Public funds' top-10 holdings heavily reshuffled; Zhongji Xuchuang largest net buy】July 21 — China’s public mutual funds completed Q2 2026 disclosures. Tianxiang data show the funds’ current top-10 holdings are Zhongji Xuchuang, Accelink, Dongshan Precision, Cambricon, CATL, NAURA Technology, GigaDevice, Yuanjie Technology, AMEC and Three Rings Group. Versus end-Q1 2026, six stocks entered the top 10 — Cambricon, NAURA, GigaDevice, Yuanjie Technology, AMEC and Three Rings — replacing Tencent, Kweichow Moutai, Zijin Mining, Alibaba, WuXi AppTec and Luxshare Precision. Zhongji Xuchuang recorded the largest increase in aggregate market value held by public funds; Tencent saw the largest reduction."
+    },
     {
       "id": "te:economy:568564",
       "time": "2026-07-21 20:16:27",
@@ -171047,116 +171227,6 @@
         "觀點"
       ],
       "text": "摩根大通CEO戴蒙：全球經濟韌性超出預期。"
-    },
-    {
-      "id": "4987691",
-      "time": "2026-07-14 20:20:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【緯德資訊攜手多方組建“生物醫藥領域量子技術創新聯合體”】近日，“廣東省量子科技應用場景釋出與產業對接會”在廣州舉行。在本次對接會的簽約儀式上，廣東省首批5個量子科技創新聯合體正式宣告組建。緯德資訊與廣東移動、廣州實驗室、中山大學附屬第三醫院、廣州醫科大學、百奧泰生物製藥達成深度合作，共同組建“生物醫藥領域量子技術創新聯合體”。該聯合體旨在聚合“產、學、研、醫、用”各方優勢力量，圍繞生物醫藥研發、智慧醫療、醫療健康大資料安全等關鍵應用場景，開展前沿技術攻關，打通量子技術從實驗室走向臨床與醫藥市場的轉化通道。"
-    },
-    {
-      "id": "mkt:019f6091-f93e-7aab-8d7b-afe788e02d3a",
-      "time": "2026-07-14 20:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US June CPI due in 10 minutes: seasonally adjusted CPI and core CPI MoM, and unadjusted CPI and core CPI YoY."
-    },
-    {
-      "id": "mkt:019f6091-c359-7aab-8d7b-a167087861bb",
-      "time": "2026-07-14 20:19:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israel approved 1.3 billion shekels in funding for new West Bank settlements."
-    },
-    {
-      "id": "te:economy:566806",
-      "time": "2026-07-14 20:19:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Balance of Trade",
-        "Importance 1"
-      ],
-      "text": "Poland's Trade Deficit Narrows in May — Poland's trade deficit narrowed to €4.5 billion in May 2026 from €5.0 billion in the same month a year earlier, as export growth outpaced imports. Exports rose 5.2% year-on-year, driven by higher shipments of raw silver, refined copper, and computer equipment, while exports of petroleum products also increased significantly. However, weaker sales from the automotive sector continued to weigh on overall export growth. Imports increased at a slower pace of 3.4%, despite a nearly 70% surge in oil import prices. Higher purchases of computers parts and components supported import growth, although lower imports of passenger cars helped limit the overall increase."
-    },
-    {
-      "id": "te:economy:566805",
-      "time": "2026-07-14 20:18:53",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Poland",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Poland Current Account Gap Smaller than Expected — Poland posted a current account gap of €1,071 million in May 2026, narrowing from €1,168 million a year earlier and coming in below market expectations of a €1,674 million deficit. The goods shortfall shrank to €1,182 million from €1,637 million in May 2025, as the rate of increase in exports (+5.5%) outpaced that of imports (+3.7%). At the same time, the services surplus rose slightly to €3,379 million from €3,361 million, mainly due to positive balances in other services and transport services. On the other hand, the primary income deficit widened to €3,160 million from €2,843 million; and the secondary income gap went up to €108 million from €49 million."
-    },
-    {
-      "id": "4987690",
-      "time": "2026-07-14 20:18:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【天健集團：預計2026年上半年淨虧損2.8億元–3.8億元】天健集團公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤虧損2.8億元–3.8億元，上年同期盈利4142.37萬元。報告期內，國內建築行業下行壓力持續增強，市場競爭日益激烈，合同簽約減少，利潤水平低，同時受施工專案結算減少影響，施工業務毛利下降；房地產市場仍處於低迷狀態，地產銷售結轉減少、價格較低，且高毛利專案結轉同比減少，地產業務利潤下降。"
-    },
-    {
-      "id": "mkt:019f6090-6a23-7aab-8d7b-985f805ff796",
-      "time": "2026-07-14 20:18:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr news agency reports Iran’s parliament is reviewing a strategic plan for the Strait of Hormuz; 11 related security measures have been examined by specialist committees and will be consolidated into a single bill for plenary debate."
-    },
-    {
-      "id": "4987689",
-      "time": "2026-07-14 20:18:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【思朗科技將首發超智量融合算力叢集等新品】2026世界人工智慧大會將於7月17日至7月20日在上海舉行。記者獲悉，思朗科技將對超智量融合算力叢集、天穹3D科學計算機進行首發首秀。超智量融合算力叢集由思朗科技、上海儀電、資料港三方共建，打造國內首個自主化、規模化、可商用的超智量融合算力叢集。天穹3D科學計算機適配求解各類三維模擬的科學問題，相較於二維架構的傳統超算可帶來2至4個數量級的計算加速效果。"
-    },
-    {
-      "id": "te:economy:566804",
-      "time": "2026-07-14 20:18:08",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "ADP Employment Change Weekly",
-        "Importance 0"
-      ],
-      "text": "US Private Job Growth Slows for Third Week — US private employers added an average of 19,750 jobs per week in the four weeks ending June 27, 2026, according to the ADP Research Institute, a slight decline from the previous period’s 21,000 weekly gain. This marks the third consecutive week of slowing job growth, consistent with ADP’s June report showing private businesses added 98,000 jobs, the lowest in three months and below forecasts of 113,000."
-    },
-    {
-      "id": "mkt:019f6090-01ad-7aab-8d7b-91be2aac9e68",
-      "time": "2026-07-14 20:17:58",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Head of Ukraine's state-owned arms producer Ukroboronprom, Smetanin, said he will step down."
-    },
-    {
-      "id": "4987688",
-      "time": "2026-07-14 20:17:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST嶺南：2025年營收降86.99% 面臨多項風險】*ST嶺南公告稱，2025年度，公司營收1.12億元，同比下降86.99%；歸屬於上市公司股東的淨利潤虧損23.36億元，虧損增加137.29%。2026年1-3月，營收3970.25萬元，同比下滑41.27%；淨利潤虧損13352.78萬元，虧損增加101.10%。公司面臨“嶺南轉債”無法按期兌付、持續經營、增信計劃抵質押資產變現、股票退市、訴訟等風險。近日，“嶺南轉債”受託管理人申請據實調整債券權利主張，公司股票也存在因股價低於面值被終止上市的風險。"
     }
   ]
 }
