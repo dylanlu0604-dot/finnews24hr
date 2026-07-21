@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-22 02:18:36",
-  "count": 18086,
+  "updated": "2026-07-22 02:22:27",
+  "count": 18088,
   "items": [
+    {
+      "id": "mkt:019f85e9-445f-7aab-8e30-4f6c023daeec",
+      "time": "2026-07-22 02:21:24",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "EUR/USD slipped below 1.14 for the first time since July 14, down 11 bps intraday."
+    },
+    {
+      "id": "5000775",
+      "time": "2026-07-22 02:20:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本 Dynabook 開始在本土生產膝上型電腦。"
+    },
+    {
+      "id": "te:markets:568613",
+      "time": "2026-07-22 02:20:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Falls by 4.95% — Top commodity losers are Lithium Carbonate (-4.95%) and Iron Ore CNY (-1.19%). Gains are led by Silver (4.29%), Copper (2.86%), Platinum (1.73%) and Gold (1.62%)."
+    },
+    {
+      "id": "mkt:019f85e8-1eec-7aab-8e30-44c9876c7df6",
+      "time": "2026-07-22 02:20:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS: Iraqi sources say Erbil International Airport has suspended operations after recent rocket and drone attacks in Iraq's Kurdistan region."
+    },
     {
       "id": "mkt:019f85e5-9730-7aab-8e30-3fa54d93f850",
       "time": "2026-07-22 02:17:23",
@@ -166335,26 +166374,6 @@
         "Brent"
       ],
       "text": "Oil futures rose after Ukrainian attacks on Russian energy facilities stoked supply concerns; U.S. diesel futures gained 5%."
-    },
-    {
-      "id": "4988402",
-      "time": "2026-07-15 02:20:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "石油期貨延續漲勢，受烏克蘭襲擊俄羅斯能源基礎設施引發供應中斷擔憂影響，美國柴油期貨上漲5%。"
-    },
-    {
-      "id": "te:markets:566899",
-      "time": "2026-07-15 02:20:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Iron Ore CNY Rises by 2.15% — Top commodity gainers are Iron Ore CNY (2.15%), Silver (2.05%), Platinum (1.80%) and Gold (1.52%)."
     }
   ]
 }
