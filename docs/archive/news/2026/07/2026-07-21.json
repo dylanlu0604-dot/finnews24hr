@@ -1,7 +1,131 @@
 {
   "date": "2026-07-21",
-  "count": 2960,
+  "count": 2973,
   "items": [
+    {
+      "id": "mkt:019f84cd-716e-7aab-8e2a-9e65d054831a",
+      "time": "2026-07-21 21:11:24",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Strait of Hormuz security risk rises; Indian refiners halt Iraqi crude loadings】Two Indian state-owned refiners have suspended Iraqi crude loadings as security risks in the Strait of Hormuz escalate, sources said. Indian Oil abandoned plans to load the ultra-large crude carrier Lila Jamnagar, which can carry about 2.0 mln barrels, after recent attacks on several merchant vessels raised the risk of sending a fully laden tanker through the strait. Mangalore Refinery and Petrochemicals Ltd, controlled by a state-owned oil and gas company, has also paused liftings from Iraq due to the deteriorating security situation."
+    },
+    {
+      "id": "5000488",
+      "time": "2026-07-21 21:11:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【德明利：未來有望透過規模化優勢的持續釋放，不斷提升公司上下游產業鏈議價能力及成本控制能力，為公司後續業績釋放奠定紮實基礎】德明利在投資者關係記錄表中表示，公司二季度淨利潤表現受多方面因素影響：一是費用端有所抬升，包括研發投入增加、產能建設帶來計提增加、股份支付費用提升等；二是公司持續看好後續行業景氣度向上，積極加大戰略儲備支撐業務快速擴張，存貨戰略儲備充足；三是客戶拓展投入增加，公司企業級儲存、嵌入式儲存、記憶體等業務仍處於加速擴張階段，此類產品認證週期較長、前期適配測試投入較大，且研發費用、管理費用亦有所增加，業務擴張期相應投入需逐步兌現業績。上述投入均為長期戰略佈局，並已在二季度開始逐步產生積極貢獻，公司第二季度預計可實現營業收入84.62-104.62億元，同比增長 196%-266%，環比增長 12%-39%，在企業級儲存、記憶體條等新業務的帶動下仍保持較高增速。未來有望透過規模化優勢的持續釋放，不斷提升公司上下游產業鏈議價能力及成本控制能力，為公司後續業績釋放奠定紮實基礎。"
+    },
+    {
+      "id": "5000487",
+      "time": "2026-07-21 21:10:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "匈牙利央行行長表示，中東衝突似乎再度升級。"
+    },
+    {
+      "id": "mkt:019f84cc-1686-7aab-8e2a-91aef52c94d4",
+      "time": "2026-07-21 21:09:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Fuel oil front-month contract rose 4.00% intraday to 3,766 yuan/ton."
+    },
+    {
+      "id": "mkt:019f84cc-0baf-7aab-8e2a-8fdcd2544231",
+      "time": "2026-07-21 21:09:52",
+      "tags": [
+        "MKT News",
+        "HAL.N"
+      ],
+      "text": "Halliburton (HAL.N) CEO says achieving energy security through rebuilding inventories, expanding strategic reserves and diversifying supply could take years."
+    },
+    {
+      "id": "5000486",
+      "time": "2026-07-21 21:09:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國國際航線已通達全球263個城市】中國民航局副局長韓鈞在21日國新辦舉行的新聞釋出會上介紹，我國國際航線網路已通達全球90個國家和地區的263個城市，其中全貨運航班通航70個國家和地區的162個城市。（新華社）"
+    },
+    {
+      "id": "5000485",
+      "time": "2026-07-21 21:09:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲4%，現報3766.00元。"
+    },
+    {
+      "id": "5000484",
+      "time": "2026-07-21 21:08:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "市場訊息： Kalshi尋求美國商品期貨交易委員會批准黃金永續期貨產品。"
+    },
+    {
+      "id": "mkt:019f84ca-c5c8-7aab-8e2a-826ce195e568",
+      "time": "2026-07-21 21:08:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Qi An Xin, China's CPU maker Haiguang sign strategic cooperation on AI compute and security】July 21 — Qi An Xin and China's CPU maker Haiguang signed a strategic cooperation agreement to deepen collaboration on compute resources, cloud AI security applications and AI security appliances. Under the deal, Haiguang will provide its DCU deep-compute series domestic full-stack compute to support training and inference of Qi An Xin's QAX-GPT security large model; the parties will pilot a \"security Token\" delivery model to combine advanced security protections with on-demand compute provisioning; they will also jointly develop multiple versions of AI security appliances."
+    },
+    {
+      "id": "mkt:019f84ca-a2b9-7aab-8e2a-7e18aa3a5d20",
+      "time": "2026-07-21 21:08:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude rose above $85/bbl, up 2.52% on the day."
+    },
+    {
+      "id": "5000483",
+      "time": "2026-07-21 21:07:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI的AI Agent在ChatGPT Work推出後使用者突破1000萬。"
+    },
+    {
+      "id": "5000482",
+      "time": "2026-07-21 21:07:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【奇安信與海光資訊簽署戰略合作協議】7月21日，奇安信與海光資訊正式簽署戰略合作協議，圍繞算力資源、AI安全雲端應用及AI安全一體機三大方向展開深度業務協同。根據協議，雙方將基於海光DCU深算系列國產算力全棧賦能奇安信QAX-GPT安全大模型的訓練與推理；同時首創“安全Token”交付正規化，實現高階安全防護與算力資源的按需隨交；此外還將聯合開發多版本AI安全一體機。"
+    },
+    {
+      "id": "5000481",
+      "time": "2026-07-21 21:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： HCL 科技將在印度奧里薩邦設立研發中心，投資 73 億盧比。"
+    },
     {
       "id": "mkt:019f84c9-2a9f-7aab-8e2a-773a0c07bebe",
       "time": "2026-07-21 21:06:43",
