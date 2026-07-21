@@ -1,7 +1,53 @@
 {
   "date": "2026-07-22",
-  "count": 335,
+  "count": 340,
   "items": [
+    {
+      "id": "5000909",
+      "time": "2026-07-22 05:29:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普提名亞當・坎德烏布出任司法部反壟斷司負責人。"
+    },
+    {
+      "id": "5000908",
+      "time": "2026-07-22 05:28:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國交易所收緊ETF關鍵詞調整規則，基金變更成分股需提前溝通】據韓國金融投資行業訊息，韓國交易所近日向主要資產管理公司釋出了《關於調整ETF關鍵詞的指導方針》。核心內容是，對於在指數編制方法中透過特定關鍵詞篩選成分股的ETF，任何關鍵詞調整都必須事先與交易所進行協商。交易所指出：“基於關鍵詞的編制方法往往依賴定性判斷，而非定量標準。”並表示：“我們發現了一些指數構成頻繁變動的情況。”交易所特別強調：“變更用於篩選成分股的關鍵詞可能被視為指數計算標準的變更，根據現行規則，這可能觸發退市條件。”此前有報道稱，未來資產全球投資旗下的“TIGER 半導體TOP10”ETF在定期調倉前變更了指數計算標準以更換成分股，引發了業界爭議。"
+    },
+    {
+      "id": "mkt:019f8694-b403-7aab-8e32-c4e74cc2de1c",
+      "time": "2026-07-22 05:28:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Korea Exchange tightens ETF keyword rules; issuers must consult before changing constituent screens】Korea Exchange (KRX) has told major asset managers they must consult the exchange in advance of any changes to keywords used to screen index constituents for ETFs, market sources said. KRX warned keyword-based indexing often relies on qualitative judgment and cited instances of frequent index turnover, saying changes to constituent-selection keywords may be treated as a change to index calculation methodology and, under current rules, could trigger delisting. The guidance follows industry controversy after Mirae Asset Global Investments’ TIGER Semiconductor TOP10 ETF altered index rules ahead of a scheduled rebalance to replace constituents."
+    },
+    {
+      "id": "mkt:019f8693-409f-7aab-8e32-bbd462b0780a",
+      "time": "2026-07-22 05:27:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran military warns US strikes on nuclear sites would trigger attacks on US, allied interests in Middle East】Early on the 22nd, Iran's Hatam al-Anbiya Central Command said Washington's threats to strike Iranian nuclear sites and other sensitive centers would be treated as an expansion of regional war. If US forces carry out such strikes, all US and allied interests in the Middle East would be considered targets for forceful attack by the Iranian armed forces."
+    },
+    {
+      "id": "5000907",
+      "time": "2026-07-22 05:25:51",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗軍方：若美攻擊伊核設施 中東地區美方利益都將遭報復】當地時間22日凌晨，伊朗哈塔姆·安比亞中央司令部發表宣告稱，美國威脅要攻擊伊朗的核設施和敏感中心，一旦美軍採取這種行動，伊朗將視其為地區戰爭的擴張，地區內美國及其盟友的所有利益都將成為伊朗武裝部隊強力打擊的目標。"
+    },
     {
       "id": "mkt:019f868d-6814-7aab-8e32-b0e026212019",
       "time": "2026-07-22 05:20:41",
