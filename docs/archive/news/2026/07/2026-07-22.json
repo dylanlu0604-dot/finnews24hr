@@ -1,7 +1,64 @@
 {
   "date": "2026-07-22",
-  "count": 313,
+  "count": 319,
   "items": [
+    {
+      "id": "5000896",
+      "time": "2026-07-22 04:54:39",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事司令部表示，如果美國襲擊伊朗核設施，這將是該區域戰爭的升級。"
+    },
+    {
+      "id": "5000895",
+      "time": "2026-07-22 04:54:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心表示，熱帶風暴天氣正沿佛羅里達狹地沿海區域向西蔓延，熱帶風暴觀察預警和警告已向西延伸至路易斯安那州沿海地區。"
+    },
+    {
+      "id": "mkt:019f8674-15f7-7aab-8e32-81d68272ee72",
+      "time": "2026-07-22 04:53:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's Supreme Joint Military Command said if the United States strikes Iranian nuclear facilities, all US and allied interests in the region would be targeted."
+    },
+    {
+      "id": "5000894",
+      "time": "2026-07-22 04:52:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國新任首相伯納姆召開首次內閣會議】英國新任首相伯納姆21日主持召開首次內閣會議。伯納姆在內閣會議上表示，本屆政府的核心任務是降低民眾生活成本，所有政策將圍繞為家庭減負展開，以此提振社會信心。此外，伯納姆還要求各部門大臣全面梳理本領域內圍繞降低生活成本可採取的可行措施，並強調政府需隨時準備調整財政支出的優先次序。"
+    },
+    {
+      "id": "mkt:019f8673-aaa9-7aab-8e32-794313f491a9",
+      "time": "2026-07-22 04:52:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "President Trump urged House Republicans to back a budget resolution and to push implementation of the Rescue America Act."
+    },
+    {
+      "id": "5000893",
+      "time": "2026-07-22 04:52:11",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事司令部稱，若美國襲擊伊朗核設施，美國及其盟友在該地區的所有利益目標都將遭到打擊。"
+    },
     {
       "id": "5000892",
       "time": "2026-07-22 04:48:28",
