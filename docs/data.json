@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-21 13:06:45",
-  "count": 19092,
+  "updated": "2026-07-21 13:10:44",
+  "count": 19085,
   "items": [
+    {
+      "id": "te:economy:568400",
+      "time": "2026-07-21 13:09:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Finland",
+        "Unemployment Rate",
+        "Importance 1"
+      ],
+      "text": "Finish Jobless Rate Edges Up to 10% in June — Finland’s unemployment rate inched up to 10.0% in June 2026 from 9.9% in the same month a year earlier. The number of unemployed people increased by 3,000 year-on-year to 297,000, comprising 151,000 men and 146,000 women. Meanwhile, employment declined by 15,000 to 2.658 million, while the labour force participation rate edged down to 70.9% from 71.2% a year earlier."
+    },
+    {
+      "id": "4999312",
+      "time": "2026-07-21 13:08:53",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【楊元慶：聯想要在AI業務的驅動下，兩年內營收突破千億美元】美國當地時間7月20日，新浪財經聯合美國中國總商會舉辦的“超越賽場——中美商業、人工智慧與全球協作”私享會在紐約舉行。就在5月底，聯想交出了歷史上最好的一份財年成績單——全年營收突破830億美元，年比年增長20%，AI業務相關營收已經佔到集團總收入1/3以上，成為核心增長引擎。“我們的目標很明確，要在AI業務的驅動下，兩年內營收突破千億美元”，楊元慶底氣十足。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f8311-ff4a-7aab-8e1c-c94457670681",
+      "time": "2026-07-21 13:07:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bullish"
+      ],
+      "text": "Zhipu (02513.HK) rose over 30% in afternoon trade after the company said it launched a 1GW domestic computing-power center and completed the acquisition of Zhongke Jiahe."
+    },
+    {
+      "id": "mkt:019f8311-865f-7aab-8e1c-c36f7d394fe2",
+      "time": "2026-07-21 13:06:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK prime minister's office said the new prime minister will move quickly to cut electricity bills. Funds freed by cancelling the digital ID scheme this year will be used to exempt VAT on electricity bills from Oct. 1."
+    },
     {
       "id": "4999311",
       "time": "2026-07-21 13:05:56",
@@ -175384,121 +175433,6 @@
         "焦點"
       ],
       "text": "深證成指漲2.00%，現報14813.365點；上證指數漲0.57%，現報3936.060點；創業板指漲2.88%，現報3830.780點。"
-    },
-    {
-      "id": "4986107",
-      "time": "2026-07-14 13:10:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4030美元/盎司，日內漲0.61%。"
-    },
-    {
-      "id": "4986106",
-      "time": "2026-07-14 13:10:28",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【創新藥概念午後異動拉昇，迪哲醫藥20cm漲停】創新藥概念午後異動拉昇，迪哲醫藥直線拉昇封20cm漲停，此前哈藥股份3連板，辰欣藥業、甘李藥業、歐林生物、賽倫生物跟漲。"
-    },
-    {
-      "id": "4986105",
-      "time": "2026-07-14 13:10:05",
-      "tags": [
-        "焦點"
-      ],
-      "text": "【《重複使用運載火箭科研專案指南（第三批）》已正式釋出】記者從國家航天局系統工程司獲悉，《關於印發重複使用運載火箭科研專案指南（第三批）的通知》已正式釋出。各類企業、事業單位可按相應渠道查閱申報要求和指南內容，積極申報。"
-    },
-    {
-      "id": "mkt:019f5f08-0a33-7aab-8d6f-5d9b49f33f1e",
-      "time": "2026-07-14 13:09:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "The Systems Engineering Department of the China National Space Administration has formally issued the Guidelines for Reusable Launch Vehicle Research Projects (third batch)."
-    },
-    {
-      "id": "mkt:019f5f07-29af-7aab-8d6f-53f5862f49dc",
-      "time": "2026-07-14 13:08:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share PCB sector rallied in afternoon trade; Shengyi Technology and Guanghe Technology hit limit-up, while Dingtai Hi‑Tech, Jiayuan Technology and Huazheng New Materials gained."
-    },
-    {
-      "id": "mkt:019f5f07-1531-7aab-8d6f-4a5fd6029df7",
-      "time": "2026-07-14 13:08:47",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "A fire broke out at the Afipsky oil refinery in Russia's Krasnodar region following a drone attack."
-    },
-    {
-      "id": "mkt:019f5f06-a2e6-7aab-8d6f-43a6956ff370",
-      "time": "2026-07-14 13:08:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "A-share Zhongji Xuchuang turnover reached 30 bln yuan; shares currently up 6.06%."
-    },
-    {
-      "id": "mkt:019f5f06-8cf3-7aab-8d6f-3f0346a94854",
-      "time": "2026-07-14 13:08:12",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China's CSI 500 index futures (IC) main contract rose above 8,100, up 0.84% on the day."
-    },
-    {
-      "id": "mkt:019f5f06-2d8c-7aab-8d6f-361bb5709c91",
-      "time": "2026-07-14 13:07:48",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【51Job: About 80% of AI vacancies are general AI and algorithm roles】51Job's 2026 AI Talent Insight shows roughly 80% of AI-related vacancies are in general AI and algorithm roles; robotics and large models make up the secondary segments. Median monthly pay for AI roles is 25,340 yuan. Over 40% of roles require a master's degree or higher and 60% require 5–10 years of industry-specific experience. Employers are paying premiums for senior hires who combine technical skill with industry-domain knowledge and the ability to deliver commercial implementation."
-    },
-    {
-      "id": "mkt:019f5f06-15fc-7aab-8d6f-2a70fd51fe85",
-      "time": "2026-07-14 13:07:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "FTSE China A50 futures extended gains to 1%."
-    },
-    {
-      "id": "mkt:019f5f05-b77c-7aab-8d6f-2196936053f2",
-      "time": "2026-07-14 13:07:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "SSE Composite"
-      ],
-      "text": "China A-shares agrochemical names rebounded intraday after earlier volatility; Lianhua Technology hit an afternoon limit-up, with Hebang Bio, Runfeng, Asia-Pacific Industrial, Yuanda Holdings, Lanfeng Biochemical and Guangkang Biochemical also higher."
     }
   ]
 }
