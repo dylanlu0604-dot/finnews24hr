@@ -1,7 +1,61 @@
 {
   "date": "2026-07-21",
-  "count": 1382,
+  "count": 1388,
   "items": [
+    {
+      "id": "mkt:019f8323-67f5-7aab-8e1c-f9899666d21b",
+      "time": "2026-07-21 13:26:03",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver rose to $58/oz, up 2.83% intraday."
+    },
+    {
+      "id": "4999328",
+      "time": "2026-07-21 13:25:45",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4060美元/盎司，日內漲1.10%。"
+    },
+    {
+      "id": "4999327",
+      "time": "2026-07-21 13:25:10",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲4%至44,152.28點。"
+    },
+    {
+      "id": "4999326",
+      "time": "2026-07-21 13:24:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【買車最高補2萬元，河南下半年促消費穩外貿新政出爐】7月21日，河南省政府新聞辦召開河南省推動2026年下半年進一步鞏固拓展經濟穩中向好勢頭新聞釋出會。以舊換新是上半年促消費的“主力軍”，下半年力度只增不減。釋出會上公佈了具體補貼標準：汽車報廢更新或置換更新的個人消費者，最高分別可獲2萬元和1.5萬元補貼；購買冰箱、洗衣機、電視、空調、電腦、熱水器等6類家電，最高補貼1500元；手機、平板、智慧手錶手環、智慧眼鏡等4類數碼產品，最高補貼500元。預計這一輪補貼將再惠及超千萬人次消費者。（大河財立方）"
+    },
+    {
+      "id": "mkt:019f8322-21e2-7aab-8e1c-f415f9f79e8d",
+      "time": "2026-07-21 13:24:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "A-share precious metals sector rose amid choppy trade; Shengda Resources and Xingye Silver-Tin both climbed over 6%, while Chifeng Gold, Xiaocheng Technology, Shanjin International, Zhongjin Gold and Hunan Silver also gained."
+    },
+    {
+      "id": "4999325",
+      "time": "2026-07-21 13:23:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【電力板塊午後探底回升 華銀電力3連板】午後電力板塊探底回升，華銀電力3連板，金開新能、京能電力、華電遼能、晉控電力、華能蒙電跟漲。"
+    },
     {
       "id": "4999324",
       "time": "2026-07-21 13:21:56",
