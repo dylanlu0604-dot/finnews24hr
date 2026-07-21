@@ -1,7 +1,197 @@
 {
   "date": "2026-07-21",
-  "count": 2326,
+  "count": 2347,
   "items": [
+    {
+      "id": "mkt:019f8418-371e-7aab-8e25-5174de5cc3fb",
+      "time": "2026-07-21 17:53:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【PICO founder Zhou Hongwei to step down; Li Xiaokai named head】ByteDance-owned XR unit PICO said founder Zhou Hongwei will step down as business head for personal reasons and Li Xiaokai will assume full responsibility for PICO operations. The company said the management change will not affect PICO’s strategic direction, R&D or product timelines. PICO expects to launch a new mixed-reality (MR) product later this year, and an internal notice confirmed Zhou’s departure."
+    },
+    {
+      "id": "5000048",
+      "time": "2026-07-21 17:53:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "新加坡交易所擴大美國存託憑證掛牌範圍，納入 SEA、Grab 以及 SpaceX。"
+    },
+    {
+      "id": "5000047",
+      "time": "2026-07-21 17:53:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲賽智聯：控股股東承諾6個月內不減持公司股份】雲賽智聯公告稱，公司收到控股股東儀電集團出具的承諾函，基於對公司未來發展前景的信心及對其內在投資價值的認可，儀電集團承諾自2026年7月21日起6個月內，不以任何方式減持其持有的公司股份，包括新增股份。截至目前，儀電集團持有公司383,337,947股，佔總股本的28.03%。公司董事會將督促其遵守承諾並及時披露資訊。"
+    },
+    {
+      "id": "5000046",
+      "time": "2026-07-21 17:52:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【凱瑞德：股東及一致行動人合計持股比例升至7.04%】凱瑞德公告稱，股東旭強瑞集團一致行動人王文選於2026年7月16日至20日透過集中競價增持338.73萬股，佔總股本0.92%。截至7月21日收市，旭強瑞集團及一致行動人合計持股比例由6.12%升至7.04%。王文選系旭強瑞集團實控人之父，本次持股變動不會導致公司股權分佈不符上市條件，也不會使控股股東及實控人變化。"
+    },
+    {
+      "id": "5000045",
+      "time": "2026-07-21 17:52:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海螺水泥：7月21日回購H股、A股股份合計耗資約3193.64萬元】海螺水泥公告稱，7月21日，公司回購H股55萬股，每股回購價17.51-17.74港元，付出總額968.74萬港元（約合人民幣868.64萬元）；回購A股125萬股，每股回購價17.56-18.08元，付出總額2224.90萬元。截至7月21日，H股庫存股份增至864.5萬股，A股庫存股份增至1470.98萬股。購回授權決議於2026年5月28日透過，暫止期截至8月20日。"
+    },
+    {
+      "id": "5000044",
+      "time": "2026-07-21 17:52:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，科威特與卡達境內發生爆炸。"
+    },
+    {
+      "id": "5000043",
+      "time": "2026-07-21 17:52:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國泰集團：全資子公司擬掛牌轉讓宏泰物流45%股權】國泰集團公告稱，公司全資子公司恆合投資擬透過江西產權交易所公開掛牌轉讓宏泰物流45%股權，掛牌底價1.73億元。以2025年12月31日為評估基準日，宏泰物流股東全部權益評估價值3.64億元，對應45%股權價值1.64億元。本次交易已獲董事會透過，無需股東會審議，但尚需履行掛牌程式。交易完成後，恆合投資不再持有宏泰物流股權，該公司將不再納入合併報表範圍。"
+    },
+    {
+      "id": "mkt:019f8417-3ba0-7aab-8e25-4dda0a72f8b6",
+      "time": "2026-07-21 17:52:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "USDJPY",
+        "Impact bearish",
+        "DXY",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Baosheng Group: Most Asian central banks likely to stand pat】Magdalene Teo, Asia fixed-income analyst at Baosheng Group, says renewed US–Iran tensions make most Asian central banks likely to keep policy rates unchanged while retaining a hawkish bias. She cites persistent supply‑chain disruption and higher global energy prices as drivers of slower Asian growth this year, weighing on consumers and traditional sectors. Teo expects the central banks of Japan, South Korea, Indonesia and the Philippines to remain hawkish but says a sustained US data slowdown and a softer dollar could give Asian central banks limited scope to ease policy to support growth."
+    },
+    {
+      "id": "5000042",
+      "time": "2026-07-21 17:52:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【位元組XR業務PICO創始人周宏偉將卸任，李曉凱成為新任業務負責人】位元組旗下XR（擴充套件現實）業務PICO近日完成業務負責人調整：由於個人規劃原因，創始人周宏偉不再擔任PICO負責人，李曉凱接任負責人，全面負責PICO業務。據瞭解，此次管理交接不會影響PICO既定的戰略方向、研發工作和產品計劃。今年，PICO將按計劃帶來全新的混合現實（MR）產品。"
+    },
+    {
+      "id": "mkt:019f8417-02a6-7aab-8e25-442736373035",
+      "time": "2026-07-21 17:52:08",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "TASNIM News Agency reports a powerful explosion in northern Kuwait."
+    },
+    {
+      "id": "5000041",
+      "time": "2026-07-21 17:52:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【今年國家級氣象站首個50°C來了！新疆艾丁湖氣溫衝上50度】截至今天17時最高氣溫：吐魯番東坎49℃，打破當地觀測史最高氣溫紀錄（48.7℃）；艾丁湖站達到50℃，為今年國家級氣象站首個50℃。 （中國天氣）"
+    },
+    {
+      "id": "mkt:019f8416-875b-7aab-8e25-385c08631356",
+      "time": "2026-07-21 17:51:36",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "The Islamic Revolutionary Guard Corps said Iranian forces attacked a camp hosting US troops in Jordan's Rukban area, killing several US service members."
+    },
+    {
+      "id": "5000039",
+      "time": "2026-07-21 17:51:27",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【ST標準：股票交易異常波動 控股股東股份轉讓存不確定性】ST標準公告稱，2026年7月17日、7月20日、7月21日，公司股票連續三個交易日收盤價格跌幅偏離值累計達20%，屬異常波動。經自查，公司生產經營正常，無應披露未披露重大資訊。控股股東標準集團擬公開徵集轉讓不超27.77%（含）且不低於控制權變更比例的股份，目前方案待國資等部門同意，能否徵集到受讓方及獲批均不確定。公司股票已被實施其他風險警示，提醒投資者注意風險。"
+    },
+    {
+      "id": "5000038",
+      "time": "2026-07-21 17:51:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "據報道，科威特北部發生劇烈爆炸。"
+    },
+    {
+      "id": "5000037",
+      "time": "2026-07-21 17:51:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：約旦一處美軍基地遭襲擊，多名美軍士兵身亡。"
+    },
+    {
+      "id": "5000036",
+      "time": "2026-07-21 17:50:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【瀾起科技：DDR5 RCD晶片出貨量顯著增加 CPU需求增加將推動記憶體互連晶片市場規模擴大】瀾起科技(688008.SH)釋出投資者關係活動記錄表公告，公司上半年受益於AI產業趨勢，行業需求旺盛，DDR5滲透率提高且子代持續迭代，公司DDR5RCD晶片出貨量顯著增加，其中第三、第四子代RCD晶片的出貨佔比進一步提升。互連類晶片新產品MRCD/MDB、PCIeRetimer、CKD及CXLMXC晶片收入顯著攀升。公司計劃今年完成第三子代MRCD/MDB晶片的工程研發，行業預期MRDIMM未來兩到三年將從規模應用起步，逐步進入滲透爬坡階段。CPU需求增加將推動記憶體模組用量增加，從而推動記憶體互連晶片市場規模擴大。此外，CPU在AI系統架構中重要性提升，將同步帶動其他與CPU相關的互連晶片需求，包括PCIe互連、CXL互連晶片等。CXL3.1MXC晶片已向主要客戶送樣測試，未來幾年在資料中心滲透率有望快速提升。PCIe6.x/CXL3.xRetimer晶片正積極配合客戶測試驗證，行業預期2027年將進入規模應用階段。公司計劃今年完成乙太網PHYRetimer晶片工程樣片的流片。"
+    },
+    {
+      "id": "5000035",
+      "time": "2026-07-21 17:50:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "據報道，俄羅斯聯邦最高法院裁定駭客組織 “網路游擊隊” 與 “沉默烏鴉” 為極端組織。"
+    },
+    {
+      "id": "te:economy:568541",
+      "time": "2026-07-21 17:50:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Lebanon",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Lebanon Inflation Rate Eases to 3-Month Low — The annual inflation rate in Lebanon rose to 17.3% in June 2026, slowing from 19.0% in the previous month and marking the lowest reading since March. Price growth eased for housing and utilities (17.1% vs 21.6% in May), transportation (29.4% vs 37.8%), alcoholic beverages and tobacco (8.4% vs 8.6%), and recreation, amusement, and culture (42.6% vs 48.4%). Meanwhile, costs continued to increase for food and non-alcoholic beverages (18.0% vs 17.9%), health (2.8% vs 2.7%), clothing and footwear (6.6% vs 5.7%), restaurants and hotels (16.3% vs 15.6%), and miscellaneous goods and services (14.9% vs 14.6%). Prices were unchanged for furnishings, household equipment, and routine household maintenance (7.1%) and education (35.7%). On a monthly basis, consumer prices fell 0.8%, reversing a 0.5% increase in the previous month."
+    },
+    {
+      "id": "5000033",
+      "time": "2026-07-21 17:50:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美聯邦調查局局長被曝計劃今秋訪俄】據美國方面20日訊息，一名美國官員和一名知情人士表示，美國聯邦調查局（FBI）局長帕特爾正計劃於今年秋季訪問俄羅斯。此次行程對於FBI局長來說“不同尋常且敏感”。據一名熟悉此次行程安排的美國官員透露，帕特爾計劃於10月14日至15日訪問俄羅斯，首站是莫斯科，隨後前往聖彼得堡。據悉，目前尚不清楚帕特爾是否會與俄羅斯總統普京或其高階助手會面，也不清楚會談議題。目前白宮和美國聯邦調查局暫未對這一訊息作出回應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8414-dfdf-7aab-8e25-33ae5eb9960f",
+      "time": "2026-07-21 17:49:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02318.HK"
+      ],
+      "text": "According to an HKEX filing, UBS Group's long position in Ping An Insurance (02318.HK) H‑shares fell to 6.83% on July 15 from 7.39%."
+    },
+    {
+      "id": "5000032",
+      "time": "2026-07-21 17:49:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車公司與 Voyageur 簽署協議，敲定加拿大首單空客 U030 柔性旋翼飛行器採購訂單。"
+    },
     {
       "id": "5000031",
       "time": "2026-07-21 17:49:22",
