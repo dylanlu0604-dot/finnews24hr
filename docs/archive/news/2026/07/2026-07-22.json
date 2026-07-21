@@ -1,7 +1,77 @@
 {
   "date": "2026-07-22",
-  "count": 359,
+  "count": 367,
   "items": [
+    {
+      "id": "mkt:019f86b3-01e4-7aab-8e32-fb3c8574509d",
+      "time": "2026-07-22 06:01:46",
+      "tags": [
+        "MKT News",
+        "NVDA.O",
+        "Impact bullish",
+        "MSFT.O",
+        "S&P500"
+      ],
+      "text": "According to the Wall Street Journal, the White House plans to redirect tens of billions of dollars in research funding from U.S. universities to artificial intelligence, cutting federal support for higher-education research."
+    },
+    {
+      "id": "5000929",
+      "time": "2026-07-22 06:01:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮擬為科研人員申請2000億美元研發預算。"
+    },
+    {
+      "id": "mkt:019f86b2-1e84-7aab-8e32-f17e4aa7c198",
+      "time": "2026-07-22 06:00:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "The Wall Street Journal reports officials say the Trump administration plans to de-emphasize universities in federal scientific research and instead prioritize artificial intelligence."
+    },
+    {
+      "id": "5000928",
+      "time": "2026-07-22 05:59:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月22日06時繼續釋出暴雨黃色預警。"
+    },
+    {
+      "id": "5000927",
+      "time": "2026-07-22 05:59:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月22日06時釋出高溫黃色預警。"
+    },
+    {
+      "id": "5000926",
+      "time": "2026-07-22 05:58:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【淡水河谷鐵礦石產量超預期，維持全年產量指引】全球頭部鐵礦石生產商淡水河谷第二季度鍊鋼原料鐵礦石產量高於市場預期，銅產量同步增長。截至6月30日的三個月內，鐵礦石總產量達8426萬噸，環比上升21%，同比小幅上漲近1%。分析師此前預期產量為8384萬噸。競爭對手力拓在澳大利亞氣旋災害影響消退後，同期產出8880萬噸鐵礦石。這家大型鐵礦石礦企維持全年鐵礦石產量目標不變，區間為3.35億–3.45億噸。"
+    },
+    {
+      "id": "5000925",
+      "time": "2026-07-22 05:58:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科威特稱遭無人機襲擊 】當地時間22日凌晨，科威特武裝部隊釋出訊息稱，科方防空系統“正在”應對無人機襲擊。"
+    },
+    {
+      "id": "5000924",
+      "time": "2026-07-22 05:58:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "中央氣象臺7月22日06時繼續釋出強對流天氣黃色預警。"
+    },
     {
       "id": "5000923",
       "time": "2026-07-22 05:53:47",
