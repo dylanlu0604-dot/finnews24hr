@@ -1,7 +1,39 @@
 {
   "date": "2026-07-22",
-  "count": 139,
+  "count": 143,
   "items": [
+    {
+      "id": "5000791",
+      "time": "2026-07-22 03:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌0.70%，報24978.93點，低水153.36點。"
+    },
+    {
+      "id": "5000790",
+      "time": "2026-07-22 02:59:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國成為歐洲首個正式立法禁止15歲以下人群使用社交媒體的國家。"
+    },
+    {
+      "id": "mkt:019f860c-7066-7aab-8e30-87ce2c8ad117",
+      "time": "2026-07-22 02:59:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Axios, ANTHROPIC's US government lobbying spending in 1H exceeded its total for all of last year."
+    },
+    {
+      "id": "5000789",
+      "time": "2026-07-22 02:59:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic 2026 年上半年遊說開支已超過 2025 全年總額。"
+    },
     {
       "id": "mkt:019f8603-11a5-7aab-8e30-7b8f87917eb3",
       "time": "2026-07-22 02:49:35",
