@@ -1,7 +1,103 @@
 {
   "date": "2026-07-21",
-  "count": 3101,
+  "count": 3112,
   "items": [
+    {
+      "id": "mkt:019f8502-689a-7aab-8e2b-8caa35ae0b8a",
+      "time": "2026-07-21 22:09:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say the Caspian Pipeline Consortium has suspended receiving Kazakh oil at its Black Sea terminal after tankers were attacked."
+    },
+    {
+      "id": "te:markets:568585",
+      "time": "2026-07-21 22:08:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Edges Down on Tuesday — The Baltic dry index decreased 1 point to 2,670 on Tuesday, following a 2.9% fall on Monday. The panamax index, which usually carry 60,000 to 70,000 tons of coal or grain, dropped 2.1% to 2,181. Also, the supramax index went down 0.5% to 1,730, its first decline since early July. On the other hand, the capesize index, which typically transport 150,000-ton cargoes, rose 1.1% to 3,930, its first gain since July 14."
+    },
+    {
+      "id": "5000583",
+      "time": "2026-07-21 22:08:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX股價上漲近6%，總市值報1.67萬億美元。"
+    },
+    {
+      "id": "mkt:019f8501-b22f-7aab-8e2b-85e69ba7578d",
+      "time": "2026-07-21 22:08:28",
+      "tags": [
+        "MKT News",
+        "F.N",
+        "Impact bearish"
+      ],
+      "text": "Ford Motor (F.N) is recalling about 388,000 vehicles for a defect in second-row seats that could increase the risk of injury."
+    },
+    {
+      "id": "5000582",
+      "time": "2026-07-21 22:08:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：據內部人士透露，英特爾計劃裁減其資料中心部門的員工。"
+    },
+    {
+      "id": "mkt:019f8501-47d2-7aab-8e2b-7a74a55d5184",
+      "time": "2026-07-21 22:08:01",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwait's cabinet condemned Iran's aggression against Kuwaiti territory, saying Iran attacked two power plants and key oil facilities."
+    },
+    {
+      "id": "5000581",
+      "time": "2026-07-21 22:07:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達上漲0.6%，英特爾上漲4.6%，超威半導體上漲4.3%，美光科技大漲6.8%。"
+    },
+    {
+      "id": "5000580",
+      "time": "2026-07-21 22:07:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南墨江發生5.0級地震 水利部啟動水利抗震救災排程指揮機制】2026年7月21日19時43分，雲南普洱市墨江哈尼族自治縣發生5.0級地震，震源深度6千米。水利部迅即啟動水利抗震救災排程指揮機制，召開專題會商會，分析地震對水利工程和農村供水影響，研判震區雨水情形勢，安排部署水利抗震救災工作。水利部根據全國“水利一張圖”分析，排查出震區內河流及水庫、水電站、水閘、農村供水工程等水利工程分佈情況，並及時通報雲南省水利廳，指導地方立即摸排工程震損情況。雲南省普洱市水務局已啟動地震應急響應，派出專家組指導開展排查工作。目前，震區江河水情平穩，暫未收到水利工程震損情況報告。（央視新聞）"
+    },
+    {
+      "id": "5000579",
+      "time": "2026-07-21 22:06:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：NUBURU推進對TEKNE的收購，在完成3800萬美元融資後數日內清償1675萬美元債務。"
+    },
+    {
+      "id": "5000578",
+      "time": "2026-07-21 22:06:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：西門子將收購DEFACTO TECHNOLOGIES。"
+    },
+    {
+      "id": "5000577",
+      "time": "2026-07-21 22:05:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家電網：公司上半年各級電網建設加力提速 已累計建成投運“22交21直”43項特高壓工程】國家電網訊息，上半年，公司持續最佳化電網發展佈局，加快推進各級電網建設，陝北—安徽±800千伏特高壓直流輸電工程、168項迎峰度夏重點工程等建成投產，公司新開工110（66）千伏及以上交流線路24285公里，投產110（66）千伏及以上交流線路26802公里，為保障電力安全可靠供應和促進能源綠色低碳轉型奠定了堅實基礎。上半年，攀西、浙江環網、南陽電廠二期送出等特高壓工程開工建設，在建的甘肅—浙江、蒙西—京津冀、阿壩—成都東、大同—天津南等“八交七直”15項特高壓工程有序推進。目前，公司已累計建成投運“22交21直”43項特高壓工程，跨區跨省輸電能力超過3.8億千瓦，形成華東、華北、華中、西南特高壓交流骨幹網架，深度融合新一代排程控制系統與電力市場交易平臺，為跨省區中長期及現貨交易提供物理通道和執行保障。"
+    },
     {
       "id": "5000576",
       "time": "2026-07-21 22:03:52",
