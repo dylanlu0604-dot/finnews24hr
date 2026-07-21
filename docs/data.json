@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-22 00:14:07",
-  "count": 18247,
+  "updated": "2026-07-22 00:18:11",
+  "count": 18236,
   "items": [
+    {
+      "id": "5000717",
+      "time": "2026-07-22 00:16:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【受墨江地震影響封鎖的中老鐵路區間已檢查完畢 行車秩序逐步恢復】2026年7月21日19時43分，雲南普洱市墨江哈尼族自治縣發生5.0級地震，中國鐵路昆明局集團有限公司按規定第一時間對受影響的中老鐵路元江至普洱區段採取封鎖檢查措施。21日23時40分，經工務、電務、供電等部門聯合上線全面排查，無影響行車安全隱患，目前該區段已解除封鎖，列車執行秩序正逐步恢復。鐵路部門提醒旅客朋友及時關注列車時刻變化，出行前留意12306簡訊通知和車站公告，合理安排行程。因列車晚點、停運辦理退票的，均不收取退票費，旅客可透過鐵路12306手機客戶端線上辦理。(央視新聞)"
+    },
+    {
+      "id": "te:economy:568610",
+      "time": "2026-07-22 00:15:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Colombia Economic Activity Rises to 10-Month High — Colombia's leading economic index rose 4.1% year-on-year in May 2026, accelerating from 3.3% in April and marking the strongest growth in ten months. Primary activities, including agriculture, fishing, mining, and quarrying, rose 0.7% after contracting 2.6% in the previous month. Growth in tertiary activities also strengthened, accelerating to 5.4% from 4.5%, supported by utilities (5.8% vs. 4.7%), information and communication (1.6% vs. 0.9%), professional and scientific activities (2.4% vs. 1.1%), and public administration and defense (10.5% vs. 8.0%). Meanwhile, growth in secondary activities, including manufacturing and construction, eased to 0.5% from 1.5%. On a monthly basis, economic activity increased 0.72%, up from 0.34% in April."
+    },
+    {
+      "id": "5000716",
+      "time": "2026-07-22 00:14:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceX的宏大解禁即將來臨 逾千億美元股票將可上市交易】SpaceX已為資本市場歷史上規模最大的股票解禁之一拉開序幕，下個月將有價值高達1160億美元的股票首次具備出售資格。禁止部分內部人士出售多達9.115億股股票的限制將於8月6日解除，也就是這家火箭、衛星和人工智慧公司首次公佈季度業績的兩天後。這還只是開始，到今年年底之前，將有數十億股股票獲得交易資格。投資者正在評估這種不同尋常的分階段解禁安排未來幾個月可能造成的影響。SpaceX上個月完成史上規模最大的首次公開募股後，其股價一直難以重現當時的狂熱。隨著股票解禁，早期投資者和在私募市場買入股票的投資者將尋求兌現鉅額回報，而賣空者也可增加看跌押注。"
+    },
     {
       "id": "te:markets:568609",
       "time": "2026-07-22 00:12:18",
@@ -167768,142 +167796,6 @@
         "國際"
       ],
       "text": "特朗普：我曾給伊朗機會達成協議，他們先開的火，這是個大錯。"
-    },
-    {
-      "id": "4988242",
-      "time": "2026-07-15 00:17:57",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們無權涉足超出自身職責範圍的領域。"
-    },
-    {
-      "id": "4988241",
-      "time": "2026-07-15 00:17:37",
-      "tags": [
-        "公司",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：銀行聯邦存款保險公司保額上限應當具備強制約束力。"
-    },
-    {
-      "id": "4988240",
-      "time": "2026-07-15 00:17:15",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什談人工智慧：這屬於供給衝擊，其發展速度比18個月或兩年前的預期更快。"
-    },
-    {
-      "id": "mkt:019f616a-eace-7aab-8d84-e60bec0ee395",
-      "time": "2026-07-15 00:17:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Goldman Sachs CEO Solomon said he has little to say on whether OpenAI or ANTHROPIC will IPO this year."
-    },
-    {
-      "id": "4988239",
-      "time": "2026-07-15 00:16:29",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長：對於OpenAI與Anthropic今年上市一事，在這個話題上實在沒什麼好多說的。"
-    },
-    {
-      "id": "mkt:019f616a-16d5-7aab-8d84-dcced1048d57",
-      "time": "2026-07-15 00:16:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed should not assume responsibility for fixing problems beyond its mandate, nor should it \"clean up the mess\" caused by other agencies or policy errors."
-    },
-    {
-      "id": "4988238",
-      "time": "2026-07-15 00:15:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：此前解除封鎖，是給過伊朗一次機會。"
-    },
-    {
-      "id": "mkt:019f6169-29b0-7aab-8d84-d30f3a72c503",
-      "time": "2026-07-15 00:15:09",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "US President Trump said he had given Iran an opportunity to reach an agreement."
-    },
-    {
-      "id": "mkt:019f6169-2305-7aab-8d84-cafe064b82f9",
-      "time": "2026-07-15 00:15:07",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair KEVIN WARSH said an intense near-term debate is likely over the timing and extent of deploying policy tools to achieve price stability."
-    },
-    {
-      "id": "mkt:019f6168-f5af-7aab-8d84-c258de06d919",
-      "time": "2026-07-15 00:14:56",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "US President Trump said Iran fired first and called it a big mistake."
-    },
-    {
-      "id": "4988237",
-      "time": "2026-07-15 00:14:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：巴塞爾協議的最終方案並非美國的最終訴求。"
-    },
-    {
-      "id": "mkt:019f6168-d5df-7aab-8d84-be6cdcdacf5c",
-      "time": "2026-07-15 00:14:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Iraqi Prime Minister al-Zaidi said on OPEC that Iraq needs to secure a fair share."
-    },
-    {
-      "id": "4988236",
-      "time": "2026-07-15 00:14:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：人工智慧帶來的供給衝擊來得比我預想的更快。"
-    },
-    {
-      "id": "4988235",
-      "time": "2026-07-15 00:14:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗制裁豁免政策：我對此毫不後悔。"
     }
   ]
 }
