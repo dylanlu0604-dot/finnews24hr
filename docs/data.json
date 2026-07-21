@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-21 13:14:41",
-  "count": 19081,
+  "updated": "2026-07-21 13:18:46",
+  "count": 19072,
   "items": [
+    {
+      "id": "4999321",
+      "time": "2026-07-21 13:17:05",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將Adobe的評級下調至減持，目標價240美元。"
+    },
+    {
+      "id": "4999320",
+      "time": "2026-07-21 13:15:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "te:markets:568404",
+      "time": "2026-07-21 13:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: New Zealand Dollar Increases by 0.40% — Top currency gainers are New Zealand Dollar (0.40%) and British Pound (0.06%). Meanwhile, Dollar Index, Euro and Japanese Yen were little changed."
+    },
+    {
+      "id": "4999319",
+      "time": "2026-07-21 13:14:37",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【美出臺原鋁關稅優惠彌補產能不足】美國白宮20日宣佈，美國總統特朗普當日簽署公告，依據《1962年貿易擴充套件法》第232條款等為在美國投資原鋁生產專案的企業提供原鋁進口關稅優惠。外媒分析認為，此舉旨在彌補美國原鋁產能不足。 公告說，美國商務部將建立機制，鼓勵在美投資新建、擴建或翻新鋁冶煉廠。符合條件的專案需要承諾在2029年1月20日前開工。美國商務部將允許專案所在企業每年進口與新專案預期年產量相同數量的原鋁，並按照《1962年貿易擴充套件法》第232條款適用的關稅減半繳納進口關稅。 去年6月，美國將進口自除英國外所有貿易伙伴的鋼鋁產品關稅從25%上調至50%。今年4月和6月，美國先後出臺政策，弱化鋼鋁關稅力度。彭博社報道說，美國政府原本希望透過50%的鋼鋁關稅提高美國國內產能，然而這一關稅措施成效有限。美國原鋁產能不足，嚴重依賴從加拿大和中東地區進口來滿足國內需求。(新華社)"
+    },
     {
       "id": "te:markets:568403",
       "time": "2026-07-21 13:13:58",
@@ -175259,134 +175297,6 @@
         "DXY"
       ],
       "text": "According to Sputnik, Russian forces carried out precision strikes on military-industrial targets in Kyiv and on port infrastructure at Yuzhny port in Ukraine’s Odesa region."
-    },
-    {
-      "id": "4986119",
-      "time": "2026-07-14 13:18:39",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷伺服器板塊走高，飛龍股份漲停】液冷伺服器板塊走高，飛龍股份、博傑股份漲停，日科化學盤中創新高，奧迪威、風華高科、凱添燃氣、光迅科技跟漲。"
-    },
-    {
-      "id": "4986118",
-      "time": "2026-07-14 13:18:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈薩克一季度經常賬戶赤字為20億美元。"
-    },
-    {
-      "id": "mkt:019f5f0f-a656-7aab-8d6f-c9ead7d482d2",
-      "time": "2026-07-14 13:18:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Tasnim News Agency quoted a senior Iranian security official telling U.S. President Trump that the Strait of Hormuz is governed by Iran's will, not by his tweets."
-    },
-    {
-      "id": "4986117",
-      "time": "2026-07-14 13:17:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗在格什姆島以北海域救起一艘散貨船的外國船員，該船此前與另一艘船隻相撞。"
-    },
-    {
-      "id": "mkt:019f5f0e-9e5f-7aab-8d6f-c671902e83b9",
-      "time": "2026-07-14 13:17:01",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CSI300",
-        "Impact bullish",
-        "SZSE Component",
-        "SSE Composite"
-      ],
-      "text": "A-share CPO-concept stocks rallied in the afternoon; Zecheng Electronics jumped more than 27%, while Changguang Huaxin, Nanya New Materials, Yuanjie Technology and Shengyi Electronics each rose over 10%."
-    },
-    {
-      "id": "mkt:019f5f0e-6c26-7aab-8d6f-bd847ab8bc2b",
-      "time": "2026-07-14 13:16:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian media Fars News reported Iran rescued foreign crew from a bulk carrier that collided with another vessel in waters north of Qeshm Island."
-    },
-    {
-      "id": "4986116",
-      "time": "2026-07-14 13:16:25",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國財政部：韓國晶片製造商、造船企業在遠期市場大量拋售美元】韓國財政部週二表示，隨著主要晶片和造船企業開始在遠期市場大量出售美元，韓國的匯市狀況正在改善。該部門在一份宣告中表示：“基於創紀錄的貿易順差等強勁基本面，預計外匯市場在下半年將出現供需條件的結構性變化。”週二，韓元兌美元匯率上漲了0.75%，達到1486.30，創下自5月12日以來的最高水平。"
-    },
-    {
-      "id": "mkt:019f5f0d-ff99-7aab-8d6f-b57735bb3e41",
-      "time": "2026-07-14 13:16:20",
-      "tags": [
-        "MKT News",
-        "006400.KS",
-        "Impact bullish"
-      ],
-      "text": "【Samsung SDI AI-dedicated battery passes UL fire-safety test】Samsung SDI said on Tuesday its battery system for uninterruptible power supplies (UPS) passed fire-safety testing by global safety certifier UL Solutions. The approval may strengthen Samsung SDI’s position in the expanding AI data center market; UPS units provide immediate backup during outages or voltage instability and are critical to continuous operation of AI facilities."
-    },
-    {
-      "id": "4986115",
-      "time": "2026-07-14 13:16:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【土耳其擬加入加拿大牽頭的防務銀行】一名土耳其官員13日告訴路透社，土方已通報加拿大，將作為創始成員加入加方牽頭籌建的一家多邊防務融資銀行。加拿大總理卡尼7日在土耳其首都安卡拉舉行的北約峰會期間發表宣告說，加拿大、阿爾巴尼亞、比利時、希臘、拉脫維亞、盧森堡、羅馬尼亞、土耳其、烏克蘭等9國有意共同建立“防務、安全與韌性銀行”。宣告說，各方將共同推進籌建該行，預期最早於2027年投入運營。不過，截至11日，土耳其國防部訊息人士仍表示，土方“正在評估”是否正式參與該計劃。這家擬議中的多邊銀行總部將設在加拿大，旨在擴大防務融資渠道、減少融資成本，以資助成員國擴大國防工業產能。相關方案仍有待各參與國批准方能確認。（新華社）"
-    },
-    {
-      "id": "mkt:019f5f0d-5782-7aab-8d6f-af78b181b498",
-      "time": "2026-07-14 13:15:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Emerging Markets",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【South Korea finance ministry: chipmakers, shipbuilders selling dollars heavily in forwards market】South Korea's finance ministry said on Tuesday that heavy dollar sales by major chipmakers and shipbuilders in the forwards market have improved conditions in the foreign-exchange market. The ministry said that, supported by a record trade surplus and other strong fundamentals, it expects a structural shift in FX supply-demand conditions in H2. The won rose 0.75% to 1,486.30 per dollar on Tuesday, its strongest level since May 12."
-    },
-    {
-      "id": "te:markets:566660",
-      "time": "2026-07-14 13:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: New Zealand Dollar Increases by 0.74% — Top currency gainers are New Zealand Dollar (0.74%), South Korean Won (0.55%), Norwegian Krone (0.31%), Euro (0.10%), British Pound (0.10%) and Japanese Yen (0.08%). Biggest losers are Indian Rupee (-0.39%) and Dollar Index (-0.12%)."
-    },
-    {
-      "id": "te:markets:566659",
-      "time": "2026-07-14 13:15:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Rebounds on Firmer Energy Prices, Export Strength — Malaysian palm oil futures climbed almost 1% to above MYR 4,550 per tonne, recovering from recent losses as a weaker ringgit and firmer edible oil markets in Dalian and Chicago markets lifted sentiment. Gains were further supported by a rally in oil prices on concerns over potential disruptions to energy flows through the Strait of Hormuz. Exports also improved, with cargo surveyors noting July 1–10 shipments rose 1.6%–5.1% from June. In top supplier Indonesia, rising biodiesel mandates to B50 are expected to boost domestic consumption. However, upside was capped by news that EU imports of palm oil derivatives will be subject to the bloc's anti-deforestation rules from Dec 2027, while June data showed Malaysian inventories grew 4.8% mom as production rose 8.1% on seasonal output. In India, imports fell to a 14-month low in June amid weak demand and narrowing discounts to rival oils. Traders stayed cautious ahead of China’s Q2 GDP prints after solid June trade data from the major buyer."
-    },
-    {
-      "id": "mkt:019f5f0c-8018-7aab-8d6f-a150b76f1c2d",
-      "time": "2026-07-14 13:14:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Local officials said drone wreckage fell in an industrial area in Salavat, Republic of Bashkortostan, Russia."
     }
   ]
 }
