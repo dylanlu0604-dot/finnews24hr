@@ -1,7 +1,111 @@
 {
   "date": "2026-07-22",
-  "count": 403,
+  "count": 413,
   "items": [
+    {
+      "id": "5000957",
+      "time": "2026-07-22 06:57:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：仿製藥關稅政策旨在推動仿製藥產能迴流美國本土，對未在規定時限內建設廠房、添置裝置的企業實施懲戒。此項政策的目標是保護美國民眾。現行成效顯著的專利藥、品牌藥以及創新藥相關政策維持不變。目前全美各地正以前所未有的規模興建製藥廠區。"
+    },
+    {
+      "id": "mkt:019f86e4-fd40-7aab-8e33-5ba7ffb3ece2",
+      "time": "2026-07-22 06:56:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. President Trump said tariffs on generic drugs will be raised to 100% in two years for one year, then increased to 200%."
+    },
+    {
+      "id": "5000956",
+      "time": "2026-07-22 06:56:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普表示：兩年後，（仿製藥）關稅將在一年內上調至100%，此後進一步上調至200%。"
+    },
+    {
+      "id": "mkt:019f86e4-18e7-7aab-8e33-505e95a4fe79",
+      "time": "2026-07-22 06:55:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "Trump announced that from Aug. 1, 2026 all generic drugs imported into the US will remain tariff-free for two years."
+    },
+    {
+      "id": "5000955",
+      "time": "2026-07-22 06:55:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：（仿製藥）關稅稅率自2026年8月1日起生效。"
+    },
+    {
+      "id": "te:markets:568634",
+      "time": "2026-07-22 06:55:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Rises, Tracking Wall Street Gains — The NZX 50 climbed 45 points, or 0.3%, to 13,701 in Wednesday morning trading, erasing losses from the previous session, tracking a rise on Wall Street overnight buoyed by a rebound in chip stocks. Traders shrugged off Wednesday's data, which showed that New Zealand's inflation rate accelerated to the highest level since Q4 2023. However, persistently high oil prices capped the gains as inflation concerns fueled expectations of further interest rate hikes, while RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further monetary policy tightening. Gains in materials, consumer discretionary, and communication services stocks mainly drove the broader index. A2 Milk rose 1.4%, AFT Fisher & Paykel climbed 0.9%, Auckland International Airport advanced 0.5%, and Ebos Group gained 0.5%."
+    },
+    {
+      "id": "5000954",
+      "time": "2026-07-22 06:54:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：兩年後對仿製藥徵收100%關稅。"
+    },
+    {
+      "id": "5000953",
+      "time": "2026-07-22 06:54:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：所有仿製藥繼續享受零關稅。"
+    },
+    {
+      "id": "5000952",
+      "time": "2026-07-22 06:54:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：仿製藥進入美國關稅為零。"
+    },
+    {
+      "id": "mkt:019f86e3-539b-7aab-8e33-495516d603c9",
+      "time": "2026-07-22 06:54:32",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "The Atlantic reports US officials say Iran has intensified attacks on US Navy vessels."
+    },
     {
       "id": "mkt:019f86e1-279f-7aab-8e33-452cbbef04eb",
       "time": "2026-07-22 06:52:10",
