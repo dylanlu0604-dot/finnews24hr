@@ -1,7 +1,114 @@
 {
-  "updated": "2026-07-21 16:13:43",
-  "count": 18934,
+  "updated": "2026-07-21 16:18:42",
+  "count": 18919,
   "items": [
+    {
+      "id": "mkt:019f83be-cd8c-7aab-8e22-8ecb7e3d782e",
+      "time": "2026-07-21 16:15:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500"
+      ],
+      "text": "【JP Morgan, US banks to help finance part of Japan's $550bn US investment pledge】Sources involved in Japan-US talks say JP Morgan and other US banks are set to agree to provide financing for part of Japan's $550 billion pledge to invest in the United States, helping Tokyo fulfil commitments made to US President Trump. Japanese banks had been reluctant because their funding is primarily yen and raising large amounts of dollar funding for long-dated infrastructure projects is costly. Sources say Tokyo is actively advancing the arrangements, and US officials have delivered an additional list of candidate projects to Prime Minister Takaichi's government as potential follow-ups under the investment plan."
+    },
+    {
+      "id": "mkt:019f83be-6dda-7aab-8e22-807a9ad7842e",
+      "time": "2026-07-21 16:15:22",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "Emirates president Tim Clark said the carrier still wants the Boeing 777-10, but the 777-9’s performance is improving."
+    },
+    {
+      "id": "mkt:019f83bd-d924-7aab-8e22-7def3a7c6435",
+      "time": "2026-07-21 16:14:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bullish",
+        "GLW.N"
+      ],
+      "text": "US optical-communications stocks rose in premarket trade; Marvell (MRVL.O) gained about 6%, Corning (GLW.N) rose 4.6%."
+    },
+    {
+      "id": "te:economy:568507",
+      "time": "2026-07-21 16:14:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "New Orders",
+        "Importance 1"
+      ],
+      "text": "Taiwan Export Orders Surge to Record High — Orders for Taiwanese exports surged 59.4% year-on-year to a record high of USD 95.3 billion in June 2026, accelerating from a 47.2% increase in the previous month. The sharp rise continued to be driven by robust global demand for AI-related and technology products. Significant growth was recorded across major categories, particularly information and communication products (81.9% vs 67.2% in May), electronic products (79.9% vs 61.2%), electrical machinery products (14.0% vs 7.6%), and basic metals (16.5% vs 9.6%). Export orders for transport equipment also rebounded strongly (12.3% vs -1.4%). Meanwhile, growth moderated for machinery products (17.6% vs 22.5%) and mineral products (30.5% vs 53.1%), while orders for optical, photographic, and cinematographic apparatus continued to decline (-3.3% vs -1.7%). Among major markets, export order growth remained strong, led by the US (83.6%), followed by the Mainland China and Hong Kong (37.2%), and the ASEAN countries (52.3%)."
+    },
+    {
+      "id": "mkt:019f83bd-1eca-7aab-8e22-73006eef05d0",
+      "time": "2026-07-21 16:13:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "00981.HK",
+        "Impact bullish",
+        "01347.HK",
+        "00100.HK"
+      ],
+      "text": "【Hong Kong close: HSI down 0.04%; Hang Seng TECH +1.32% as chip names surge】Hong Kong close: Hang Seng Index (HSI) -0.04%, Hang Seng TECH Index +1.32%. Chip stocks led gains: 01347.HK and 06809.HK each rose >17%; 03986.HK, 06082.HK, 09903.HK and SMIC (00981.HK) gained >10%. AI-related stocks jumped—02513.HK ~+37%, 03317.HK ~+17%, MINIMAX-W (00100.HK) >+15%. PCB plays outperformed—01888.HK +12%, 00148.HK +9%. Top-performing sectors included optical communications, gold, non-ferrous metals, brain–computer interfaces, power equipment and commercial aerospace; laggards were oil, department stores, mainland banks, mainland property, film and coal."
+    },
+    {
+      "id": "mkt:019f83bc-2a68-7aab-8e22-6d89efb1d583",
+      "time": "2026-07-21 16:12:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "S&P revised Samsung Electronics’ outlook to positive and affirmed its long- and short-term ratings at AA-/A-1+."
+    },
+    {
+      "id": "mkt:019f83bb-789c-7aab-8e22-644f931e8a12",
+      "time": "2026-07-21 16:12:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong on Tuesday: HSI closed down 10.76 pts (-0.04%) at 25,132.29; Hang Seng Tech Index closed up 62.68 pts (1.32%) at 4,814.83; Hang Seng China Enterprises Index (HSCEI) closed down 21.22 pts (-0.25%) at 8,360.68; Red Chip Index closed up 10.37 pts (0.25%) at 4,083.67."
+    },
+    {
+      "id": "mkt:019f83bb-6309-7aab-8e22-5cdd55774b80",
+      "time": "2026-07-21 16:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Ministry of Foreign Affairs reiterated support for Saudi Arabia and for measures it has taken to protect national sovereignty and security."
+    },
+    {
+      "id": "mkt:019f83bb-4ba2-7aab-8e22-512d6bbd696a",
+      "time": "2026-07-21 16:11:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Oil retreats as mediators press U.S., Iran toward new ceasefire】Brent slid below $90/bbl in early trade as mediators push the U.S. and Iran toward a potential new ceasefire. ING said the talks will not be easy and significant gaps remain between Washington and Tehran. Houthis announced a blockade of Saudi shipping — an action that could severely disrupt supplies by preventing oil bound for Asia from transiting the Bab al-Mandeb — but early price action suggests markets may doubt the blockade will succeed."
+    },
     {
       "id": "te:markets:568506",
       "time": "2026-07-21 16:10:09",
@@ -173857,222 +173964,6 @@
         "公司"
       ],
       "text": "【天下秀：預計2026年上半年淨虧損5000萬元到7000萬元】天下秀公告，預計2026年1月1日至2026年6月30日歸屬於母公司所有者的淨虧損5000萬元到7000萬元，上年同期淨利潤3637.92萬元。公司主動應對市場環境和行業競爭格局變化，動態調整經營戰略，匹配部分重要客戶的階段性需求，致使綜合毛利率下滑，但有效鞏固了公司的市場份額，保障經營基本面穩健，營業收入同比增長，尤其是二季度同比與環比增長顯著。"
-    },
-    {
-      "id": "4986649",
-      "time": "2026-07-14 16:18:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【阿盟秘書長說選擇中國就是選擇未來】阿拉伯國家聯盟（阿盟）新任秘書長法赫米7月1日正式就職。7月13日，在他作為阿盟秘書長舉行的首場記者會上，法赫米就地區局勢和中阿關係等闡述了自己的立場。他表示，無論是阿拉伯國家還是阿盟都需要進一步加強同中國的合作，選擇中國就是選擇未來。（CCTV國際時訊）"
-    },
-    {
-      "id": "te:economy:566758",
-      "time": "2026-07-14 16:18:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Czech Republic",
-        "Current Account",
-        "Importance 1"
-      ],
-      "text": "Czech Republic Current Account Deficit Widens in May — The Czech Republic’s current account deficit widened to CZK 38.3 billion in May 2026 from CZK 17.6 billion a year earlier, far exceeding market expectations of a CZK 25 billion deficit. This marked a return to deficit after five consecutive months of surpluses. The primary income account deficit widened to CZK 66.3 billion from CZK 49.8 billion in May 2025, while the secondary income account deficit also increased to CZK 7.9 billion from CZK 2.8 billion. At the same time, the goods account surplus narrowed to CZK 24.2 billion from CZK 26.5 billion. In contrast, the services account surplus expanded to CZK 11.7 billion from CZK 8.4 billion."
-    },
-    {
-      "id": "4986648",
-      "time": "2026-07-14 16:18:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【迪生力：預計2026年半年度淨利潤虧損3500萬元至4700萬元】迪生力公告，預計2026年半年度淨利潤虧損3500萬元至4700萬元。為支撐輪胎業務後續發展，公司控股子公司華鴻集團擴大倉儲租賃面積並完成遷址，倉儲租金及搬遷相關成本增加，是本報告期虧損的主要原因。"
-    },
-    {
-      "id": "4986647",
-      "time": "2026-07-14 16:17:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【香飄飄：預計2026年上半年淨利潤1000萬元到1200萬元，同比實現扭虧為盈】香飄飄公告，預計2026年上半年淨利潤1000萬元到1200萬元，同比實現扭虧為盈。預計2026年上半年扣除非經常性損益後的淨利潤-160萬元到-130萬元。2025年上半年，公司淨利潤為虧損9739.09萬元。2026年上半年度公司淨利潤實現扭虧為盈，主要系受報告期內春節時點變動及經銷商信心提升影響。"
-    },
-    {
-      "id": "4986646",
-      "time": "2026-07-14 16:17:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日本巖手縣近海發生4.8級地震】據日本氣象廳釋出的訊息，當地時間14日17時07分左右，日本巖手縣近海附近發生4.8級地震，震源深度40千米，最大震感為震度3。本次地震沒有海嘯風險。（央視新聞）"
-    },
-    {
-      "id": "4986645",
-      "time": "2026-07-14 16:17:43",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "【長飛光纖：預計2026年半年度淨利潤同比增長711%到914%】長飛光纖公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤約為人民幣24億元到人民幣30億元，與上年同期相比，將增加人民幣21.04億元到人民幣27.04億元，同比增長711%到914%。預計2026年半年度歸屬於上市公司股東的扣除非經常性損益的淨利潤約為人民幣20億元到人民幣26億元，與上年同期相比，將增加人民幣18.62億元到人民幣24.62億元，同比增長1349%到1784%。報告期內，得益於算力資料中心的加速建設，國內外新型光纖光纜產品需求持續增長，行業供需結構不斷改善。公司充分利用全球領先的行業地位，緊抓國際市場機遇，大力拓展算力資料中心相關業務，實現了核心客戶的拓展、產品結構的最佳化及盈利能力的提升，公司經營業績同比增長。"
-    },
-    {
-      "id": "4986644",
-      "time": "2026-07-14 16:17:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東瑞股份：預計2026年上半年淨虧損3.8億元–4.6億元】東瑞股份公告，預計2026年1月1日-2026年6月30日歸屬於上市公司股東的淨利潤虧損3.8億元–4.6億元，上年同期盈利332.08萬元。扣除非經常損益後的淨利潤虧損3.8億元–4.6億元，上年同期盈利261.14萬元。主要系2026年上半年度生豬價格較上年同期大幅下降所致。此外，受生豬價格下行影響，公司依據企業會計準則相關規定，基於謹慎性原則，計提了資產減值損失。"
-    },
-    {
-      "id": "4986643",
-      "time": "2026-07-14 16:17:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方發言人：在霍爾木茲海峽問題上絕不退讓】伊朗軍方一名發言人表示，伊朗武裝部隊在霍爾木茲海峽問題上絕不退讓。穆罕默德・阿克拉米尼亞稱：“依靠戰爭、敵對行動與美國的侵略行徑，霍爾木茲海峽永遠無法恢復正常通航。”他補充道：“唯有尊重伊朗人民的合法權益，海峽才能恢復通航。”阿克拉米尼亞同時表示，伊朗武裝部隊有義務為犧牲烈士復仇，尤其是伊斯蘭革命殉道領袖。"
-    },
-    {
-      "id": "4986642",
-      "time": "2026-07-14 16:17:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷科防務：預計2026年上半年淨虧損1500萬元–3000萬元】雷科防務公告，預計2026年1月1日至2026年6月30日，歸屬於上市公司股東的淨利潤虧損1500萬元–3000萬元，上年同期虧損4167.21萬元，比上年同期增長28.01%—64.00%。扣除非經常性損益後的淨利潤虧損3500萬元–5400萬元，上年同期虧損5461.73萬元，比上年同期增長1.13%—35.92%。基本每股收益虧損0.01元/股–0.02元/股，上年同期虧損0.03元/股。營業收入預計為5億元-6億元，上年同期5.42億元。"
-    },
-    {
-      "id": "4986641",
-      "time": "2026-07-14 16:16:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【華電集團旗下西藏能源公司增資至16.82億 增幅約25%】天眼查App顯示，近日，華電西藏能源有限公司發生工商變更，註冊資本由13.5億人民幣增至16.82億人民幣，增幅約25%。該公司成立於2012年9月，法定代表人為鄧長勇，經營範圍包括髮電業務、輸電業務、供（配）電業務、新興能源技術研發、供冷服務等，由中國華電集團有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019f5fb3-0aec-7aab-8d75-860607c7bfe6",
-      "time": "2026-07-14 16:16:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Commodities",
-        "Energy",
-        "00857.HK",
-        "Impact bullish",
-        "00386.HK",
-        "00883.HK"
-      ],
-      "text": "【Hong Kong close: Hang Seng +0.52%; oil & gas, semiconductors lead】Hong Kong shares closed higher; the Hang Seng Index rose 0.52% and the Hang Seng Tech Index gained 0.06%. Main-board turnover was HKD 312.9 billion. Oil & gas and semiconductor names outperformed. Techs diverged: Baidu (09888.HK) fell over 7% and Kingsoft Cloud (03896.HK) dropped nearly 7%, while BYD Electronic (00285.HK) jumped more than 8% and MINIMAX-W (00100.HK) rose about 3%. Autos were mostly firmer: XPeng (09868.HK) +3%, Li Auto (02015.HK) and BYD Co (01211.HK) both up over 2%. Oil stocks strengthened on higher international crude: PetroChina (00857.HK) rose over 3%, Sinopec (00386.HK) and CNOOC (00883.HK) gained more than 2%."
-    },
-    {
-      "id": "4986640",
-      "time": "2026-07-14 16:16:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【珠江鋼琴：預計2026年上半年淨虧損1.35億元至1.15億元】珠江鋼琴公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨虧損為1.35億元至1.15億元，上年同期為淨虧損1.38億元；扣除非經常性損益後的淨虧損為1.36億元至1.16億元，上年同期為1.39億元。受樂器消費市場整體動能偏弱影響，行業仍處於深度調整期，傳統鋼琴業務市場需求延續低迷態勢，主業營收規模承壓，是公司當期經營虧損的主要原因。"
-    },
-    {
-      "id": "4986639",
-      "time": "2026-07-14 16:15:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【曙光股份：預計2026年上半年淨利潤為虧損1.2億元到-1.4億元】曙光股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為人民幣-1.2億元到-1.4億元，與上年同期相比，將出現減虧。公司主營汽車車橋及零部件、汽車整車等業務，其中汽車整車業務涉及的客車、皮卡等均屬於汽車產業的細分市場。本期公司整車產銷量未達預期，產能利用率不足，使現有產品毛利無法覆蓋固有成本費用，導致虧損。"
-    },
-    {
-      "id": "4986638",
-      "time": "2026-07-14 16:15:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【耀皮玻璃：預計2026年上半年淨利潤同比下降59%】耀皮玻璃公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤3580萬元，與上年同期相比，將減少5057萬元，同比下降59%左右。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤2500萬元，與上年同期相比，將減少5750萬元，同比下降70%左右。2026年上半年，國內建築行業持續低迷，地產產業鏈需求疲軟，對公司傳統建築玻璃業務形成明顯衝擊。市場供需失衡、行業競爭加劇，訂單量同比明顯減少，產品售價持續承壓，建築玻璃板塊營收及毛利率同比回落，是本期業績階段性承壓的主要原因。"
-    },
-    {
-      "id": "mkt:019f5fb2-3c86-7aab-8d75-7ed64d0acee0",
-      "time": "2026-07-14 16:15:44",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact mixed"
-      ],
-      "text": "【LME on- and canceled-warrants daily】LME warrants: Copper on warrants 161,525 t (down 13,150 t); canceled warrants 142,000 t (up 11,475 t). Aluminium on warrants 246,300 t (down 100 t); canceled warrants 38,300 t (down 1,525 t). Zinc on warrants 85,225 t (down 1,675 t); canceled warrants 28,225 t (up 850 t). Nickel on warrants 257,874 t (down 180 t); canceled warrants 16,830 t (up 180 t). Lead on warrants 354,950 t (up 82,625 t); canceled warrants 15,125 t (down 1,925 t). Tin on warrants 6,295 t (up 5 t); canceled warrants 1,545 t (down 120 t)."
-    },
-    {
-      "id": "mkt:019f5fb2-3a10-7aab-8d75-722d9815c402",
-      "time": "2026-07-14 16:15:43",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish",
-        "Zinc",
-        "Lead",
-        "Impact bearish"
-      ],
-      "text": "【LME base metals inventory daily】LME stocks: copper 303,525 tonnes (-1,675t); aluminium 284,600 tonnes (-1,625t); zinc 113,450 tonnes (-825t); nickel 274,704 tonnes (unchanged); lead 370,075 tonnes (+80,700t); tin 7,840 tonnes (-115t)."
-    },
-    {
-      "id": "4986637",
-      "time": "2026-07-14 16:15:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【馬鋼股份：預計2026年上半年淨利潤虧損約0.72億元，上年同期虧損0.75億元】馬鋼股份公告，預計2026年上半年歸屬於上市公司股東的淨利潤為-0.72億元左右，與上年同期的-0.75億元相比減少虧損0.03億元；歸屬於上市公司股東的扣除非經常性損益的淨利潤為-2.26億元左右，上年同期為-1.08億元，同比增加虧損1.18億元。本期業績預虧主要受鋼鐵行業供強需弱、原燃料價格高位執行影響，同時參股公司金馬能源之附屬公司信陽金港進入破產清算程式，公司按權益法確認相應投資損失。非經常性損益預計約1.54億元，同比增加，主要因信陽金港破產導致金馬能源終止確認累計虧損並計入處置損益。"
-    },
-    {
-      "id": "4986636",
-      "time": "2026-07-14 16:15:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【LME有色金屬庫存日報】倫敦金屬交易所（LME）有色金屬庫存及變化如下：1. 銅庫存303525噸，減少1675噸。2. 鋁庫存284600噸，減少1625噸。3. 鋅庫存113450噸，減少825噸。4. 鎳庫存274704噸，持平。5. 鉛庫存370075噸，增加80700噸。6. 錫庫存7840噸，減少115噸。"
-    },
-    {
-      "id": "4986635",
-      "time": "2026-07-14 16:14:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【聯誠精密：預計2026年上半年淨利潤為300萬元至450萬元，同比上年增長124.94%～137.41%】聯誠精密公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為300萬元至450萬元，同比上年增長124.94%～137.41%。扣除非經常性損益後的淨利潤為-330萬元至-220萬元，同比上年增長81.05%～87.37%。主要系本報告期收入上升、公司持續開展降本增效專項工作及融資成本下降等因素綜合影響所致。"
-    },
-    {
-      "id": "4986634",
-      "time": "2026-07-14 16:14:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【和展能源：預計上半年淨利潤為770–1000萬元】和展能源公告，預計2026年上半年淨利潤為770–1000萬元，上年同期虧損3542萬元。公司本報告期實現扭虧為盈，主要源於新能源板塊收入和利潤顯著增加，混塔板塊有效減虧，電力交易及EPC電力工程板塊經營向好。"
-    },
-    {
-      "id": "4986633",
-      "time": "2026-07-14 16:14:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中交發展：預計上半年淨利潤約1800萬元】中交發展公告，預計2026年上半年淨利潤約1800萬元，上年同期虧損11.8億元。公司歸母淨利潤扭虧為盈的主要原因為：公司2025年8月31日完成重大資產重組業務，交易完成後不再從事房地產開發相關業務，實現了從重資產開發模式向輕資產運營模式的戰略轉型。本報告期輕資產業務穩健發展，實現盈利。"
-    },
-    {
-      "id": "4986632",
-      "time": "2026-07-14 16:14:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉位元：預計2026年半年度淨利潤10.1億元-11億元，同比增長57%-71%】吉位元公告，預計2026年半年度歸屬於上市公司股東的淨利潤為10.1億元到11億元，與上年同期的6.45億元相比，同比增加57%到71%。預計扣除非經常性損益的淨利潤為9.95億元到10.95億元，同比增加54%到69%。業績預增主要系《杖劍傳說（大陸版）》《道友來挖寶》等遊戲於2025年第二季度上線，本期為完整運營週期，貢獻增量利潤所致。"
-    },
-    {
-      "id": "4986631",
-      "time": "2026-07-14 16:14:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "芬蘭航空：受影響旅客將主要透過卡達航空航班進行改道出行。"
-    },
-    {
-      "id": "4986630",
-      "time": "2026-07-14 16:13:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏柏新材：預計2026年上半年度歸母淨利潤為虧損3300萬元到2200萬元】宏柏新材公告，預計2026年上半年度歸屬於母公司所有者的淨利潤為虧損3300萬元到2200萬元。公司本期業績預虧主要受宏觀經濟環境整體偏弱、市場競爭激烈以及匯率波動影響。"
     }
   ]
 }

@@ -1,7 +1,114 @@
 {
   "date": "2026-07-21",
-  "count": 1905,
+  "count": 1914,
   "items": [
+    {
+      "id": "mkt:019f83be-cd8c-7aab-8e22-8ecb7e3d782e",
+      "time": "2026-07-21 16:15:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "S&P500"
+      ],
+      "text": "【JP Morgan, US banks to help finance part of Japan's $550bn US investment pledge】Sources involved in Japan-US talks say JP Morgan and other US banks are set to agree to provide financing for part of Japan's $550 billion pledge to invest in the United States, helping Tokyo fulfil commitments made to US President Trump. Japanese banks had been reluctant because their funding is primarily yen and raising large amounts of dollar funding for long-dated infrastructure projects is costly. Sources say Tokyo is actively advancing the arrangements, and US officials have delivered an additional list of candidate projects to Prime Minister Takaichi's government as potential follow-ups under the investment plan."
+    },
+    {
+      "id": "mkt:019f83be-6dda-7aab-8e22-807a9ad7842e",
+      "time": "2026-07-21 16:15:22",
+      "tags": [
+        "MKT News",
+        "BA.O",
+        "Impact bullish"
+      ],
+      "text": "Emirates president Tim Clark said the carrier still wants the Boeing 777-10, but the 777-9’s performance is improving."
+    },
+    {
+      "id": "mkt:019f83bd-d924-7aab-8e22-7def3a7c6435",
+      "time": "2026-07-21 16:14:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Market Themes",
+        "Chip Wars",
+        "MRVL.O",
+        "Impact bullish",
+        "GLW.N"
+      ],
+      "text": "US optical-communications stocks rose in premarket trade; Marvell (MRVL.O) gained about 6%, Corning (GLW.N) rose 4.6%."
+    },
+    {
+      "id": "te:economy:568507",
+      "time": "2026-07-21 16:14:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "New Orders",
+        "Importance 1"
+      ],
+      "text": "Taiwan Export Orders Surge to Record High — Orders for Taiwanese exports surged 59.4% year-on-year to a record high of USD 95.3 billion in June 2026, accelerating from a 47.2% increase in the previous month. The sharp rise continued to be driven by robust global demand for AI-related and technology products. Significant growth was recorded across major categories, particularly information and communication products (81.9% vs 67.2% in May), electronic products (79.9% vs 61.2%), electrical machinery products (14.0% vs 7.6%), and basic metals (16.5% vs 9.6%). Export orders for transport equipment also rebounded strongly (12.3% vs -1.4%). Meanwhile, growth moderated for machinery products (17.6% vs 22.5%) and mineral products (30.5% vs 53.1%), while orders for optical, photographic, and cinematographic apparatus continued to decline (-3.3% vs -1.7%). Among major markets, export order growth remained strong, led by the US (83.6%), followed by the Mainland China and Hong Kong (37.2%), and the ASEAN countries (52.3%)."
+    },
+    {
+      "id": "mkt:019f83bd-1eca-7aab-8e22-73006eef05d0",
+      "time": "2026-07-21 16:13:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China",
+        "00981.HK",
+        "Impact bullish",
+        "01347.HK",
+        "00100.HK"
+      ],
+      "text": "【Hong Kong close: HSI down 0.04%; Hang Seng TECH +1.32% as chip names surge】Hong Kong close: Hang Seng Index (HSI) -0.04%, Hang Seng TECH Index +1.32%. Chip stocks led gains: 01347.HK and 06809.HK each rose >17%; 03986.HK, 06082.HK, 09903.HK and SMIC (00981.HK) gained >10%. AI-related stocks jumped—02513.HK ~+37%, 03317.HK ~+17%, MINIMAX-W (00100.HK) >+15%. PCB plays outperformed—01888.HK +12%, 00148.HK +9%. Top-performing sectors included optical communications, gold, non-ferrous metals, brain–computer interfaces, power equipment and commercial aerospace; laggards were oil, department stores, mainland banks, mainland property, film and coal."
+    },
+    {
+      "id": "mkt:019f83bc-2a68-7aab-8e22-6d89efb1d583",
+      "time": "2026-07-21 16:12:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish"
+      ],
+      "text": "S&P revised Samsung Electronics’ outlook to positive and affirmed its long- and short-term ratings at AA-/A-1+."
+    },
+    {
+      "id": "mkt:019f83bb-789c-7aab-8e22-644f931e8a12",
+      "time": "2026-07-21 16:12:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Hong Kong on Tuesday: HSI closed down 10.76 pts (-0.04%) at 25,132.29; Hang Seng Tech Index closed up 62.68 pts (1.32%) at 4,814.83; Hang Seng China Enterprises Index (HSCEI) closed down 21.22 pts (-0.25%) at 8,360.68; Red Chip Index closed up 10.37 pts (0.25%) at 4,083.67."
+    },
+    {
+      "id": "mkt:019f83bb-6309-7aab-8e22-5cdd55774b80",
+      "time": "2026-07-21 16:12:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's Ministry of Foreign Affairs reiterated support for Saudi Arabia and for measures it has taken to protect national sovereignty and security."
+    },
+    {
+      "id": "mkt:019f83bb-4ba2-7aab-8e22-512d6bbd696a",
+      "time": "2026-07-21 16:11:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bearish"
+      ],
+      "text": "【Oil retreats as mediators press U.S., Iran toward new ceasefire】Brent slid below $90/bbl in early trade as mediators push the U.S. and Iran toward a potential new ceasefire. ING said the talks will not be easy and significant gaps remain between Washington and Tehran. Houthis announced a blockade of Saudi shipping — an action that could severely disrupt supplies by preventing oil bound for Asia from transiting the Bab al-Mandeb — but early price action suggests markets may doubt the blockade will succeed."
+    },
     {
       "id": "te:markets:568506",
       "time": "2026-07-21 16:10:09",
