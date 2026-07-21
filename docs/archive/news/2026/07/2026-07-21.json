@@ -1,7 +1,87 @@
 {
   "date": "2026-07-21",
-  "count": 569,
+  "count": 578,
   "items": [
+    {
+      "id": "4998716",
+      "time": "2026-07-21 09:16:39",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4030美元/盎司，日內漲0.58%。"
+    },
+    {
+      "id": "4998715",
+      "time": "2026-07-21 09:16:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油失守81美元/桶，日內跌0.58%。"
+    },
+    {
+      "id": "4998714",
+      "time": "2026-07-21 09:16:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同飛股份集裝箱乾冷器成功交付 助力資料中心高效散熱】據同飛股份訊息，近日，同飛股份在資料中心室外冷源側成功交付集裝箱乾冷器產品。本次交付的集裝箱乾冷器產品，單臺換熱量可達2.3MW，能夠滿足高功率密度資料中心的散熱需求。"
+    },
+    {
+      "id": "mkt:019f823e-8207-7aab-8e17-718e5d0b787d",
+      "time": "2026-07-21 09:16:02",
+      "tags": [
+        "MKT News",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures opened the day session up 0.29% at 25,225, trading 82 points above the cash index."
+    },
+    {
+      "id": "4998713",
+      "time": "2026-07-21 09:15:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "【人民幣兌美元中間價報6.7917，較上日調高31點】人民幣兌美元中間價報6.7917，較上日調高31點。"
+    },
+    {
+      "id": "te:markets:568345",
+      "time": "2026-07-21 09:15:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Firm Amid US-Iran Conflict — The dollar index traded near 101 on Tuesday after rising for three straight sessions, as ongoing hostilities between the US and Iran drove oil prices higher, reviving concerns about inflation and interest rate hikes. US attacks on Iran continued for a tenth straight day, with President Donald Trump warning that Tehran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had presented proposals to ease tensions with the US after several days of hostilities, while reports pointed to a possible 10-day ceasefire. Markets now price in about a 55% chance of a Fed rate hike in September, up from 51% a day earlier. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to keep the federal funds rate unchanged."
+    },
+    {
+      "id": "4998712",
+      "time": "2026-07-21 09:15:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7917元。"
+    },
+    {
+      "id": "4998711",
+      "time": "2026-07-21 09:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤漲0.33%，報25232.40點，高水89.35點。"
+    },
+    {
+      "id": "4998710",
+      "time": "2026-07-21 09:14:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國政府朝鮮半島事務特別代表劉曉明會見韓國青年友好使者代表團】2026年7月20日，中國政府朝鮮半島事務特別代表劉曉明會見韓國青年友好使者代表團。劉曉明表示，中韓友好交往歷史源遠流長，兩國是搬不走的近鄰，分不開的合作伙伴。希望韓國青年透過此訪，讀懂真實立體全面的中國，積極做中韓友好的傳播者，為兩國關係發展貢獻青春力量。代表團團長、韓國國際交流財團副理事長金鏞鬱感謝中方熱情接待，並表示相信此次訪華有助於韓國青年加深對中國經濟社會發展和歷史文化的瞭解，使其逐步成為促進韓中友好的生力軍。(外交部)"
+    },
     {
       "id": "mkt:019f823b-5271-7aab-8e17-6c4320852efc",
       "time": "2026-07-21 09:12:33",
