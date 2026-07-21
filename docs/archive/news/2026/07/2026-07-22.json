@@ -1,7 +1,100 @@
 {
   "date": "2026-07-22",
-  "count": 39,
+  "count": 49,
   "items": [
+    {
+      "id": "5000734",
+      "time": "2026-07-22 00:50:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX AI：將 Grok 接入微軟 Outlook。"
+    },
+    {
+      "id": "mkt:019f8595-e151-7aab-8e2f-677b2f48b86d",
+      "time": "2026-07-22 00:50:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran warns Bulgaria against allowing US military use of its territory】Iran's foreign ministry spokesman on Tuesday warned Bulgaria not to permit US forces to use Bulgarian territory for military action against Iran. Bulgaria has said it will seek parliamentary approval to host up to eight US tanker aircraft at a domestic airbase; Bulgaria is an EU and NATO member. State media quoted spokesman Baghaei saying any assistance enabling US attacks on Iran would amount to complicity in \"aggression and war crimes\" and urging Bulgaria not to become an accomplice."
+    },
+    {
+      "id": "5000733",
+      "time": "2026-07-22 00:48:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部與勞工部簽署諒解備忘錄，加快人工智慧在礦業領域的落地應用。"
+    },
+    {
+      "id": "mkt:019f8591-b369-7aab-8e2f-5d5fe23da20d",
+      "time": "2026-07-22 00:45:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Google launches lower-cost GEMINI \"Flash\" models】Google on Tuesday launched three lower-cost GEMINI \"Flash\" models focused on efficiency as usage of lower-cost open-source models surges. GEMINI 3.6 Flash is a faster, cheaper upgrade to 3.5 Flash; Google says it cuts output tokens by up to 17% while improving coding, reasoning and multimodal performance. GEMINI 3.5 Flash-Lite is a lower-cost model aimed at high-frequency AI agents and document-processing workloads. GEMINI 3.5 Flash Cyber targets cybersecurity use cases to identify and remediate software vulnerabilities and is currently available only to government agencies and select partners via Google’s CodeMender platform."
+    },
+    {
+      "id": "mkt:019f858f-629c-7aab-8e2f-543276da7708",
+      "time": "2026-07-22 00:43:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Al Arabiya reported Yemen's oil minister instructed oil companies to draft plans to raise production capacity by 25% within the first month and to deposit oil export revenues into Yemen's central bank."
+    },
+    {
+      "id": "5000732",
+      "time": "2026-07-22 00:42:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克非官方渠道報道稱，三架美軍直升機在伊拉克巴迪亞沙漠投放作戰人員。大約一小時後，直升機再度起飛，朝著約旦方向飛去。"
+    },
+    {
+      "id": "5000731",
+      "time": "2026-07-22 00:41:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：航天業務發展進度超出公司預期。"
+    },
+    {
+      "id": "5000730",
+      "time": "2026-07-22 00:41:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：供應鏈現狀已 “大幅好轉” 。"
+    },
+    {
+      "id": "5000729",
+      "time": "2026-07-22 00:40:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪士尼在電視業務與影視製片部門裁員數百人。"
+    },
+    {
+      "id": "mkt:019f858a-fd93-7aab-8e2f-4d08dc962990",
+      "time": "2026-07-22 00:38:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【White House announces trade agreement with Jordan】The White House said on July 21 that President Trump announced a trade agreement with Jordan that will remove long-standing trade barriers for U.S. exporters and open new market access for key U.S. industries, building on bilateral economic ties including the U.S.-Jordan free trade agreement in force since Dec. 17, 2001."
+    },
     {
       "id": "5000728",
       "time": "2026-07-22 00:35:40",

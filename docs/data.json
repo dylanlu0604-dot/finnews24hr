@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-22 00:38:33",
-  "count": 18188,
+  "updated": "2026-07-22 00:52:01",
+  "count": 18166,
   "items": [
+    {
+      "id": "5000734",
+      "time": "2026-07-22 00:50:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX AI：將 Grok 接入微軟 Outlook。"
+    },
+    {
+      "id": "mkt:019f8595-e151-7aab-8e2f-677b2f48b86d",
+      "time": "2026-07-22 00:50:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran warns Bulgaria against allowing US military use of its territory】Iran's foreign ministry spokesman on Tuesday warned Bulgaria not to permit US forces to use Bulgarian territory for military action against Iran. Bulgaria has said it will seek parliamentary approval to host up to eight US tanker aircraft at a domestic airbase; Bulgaria is an EU and NATO member. State media quoted spokesman Baghaei saying any assistance enabling US attacks on Iran would amount to complicity in \"aggression and war crimes\" and urging Bulgaria not to become an accomplice."
+    },
+    {
+      "id": "5000733",
+      "time": "2026-07-22 00:48:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部與勞工部簽署諒解備忘錄，加快人工智慧在礦業領域的落地應用。"
+    },
+    {
+      "id": "mkt:019f8591-b369-7aab-8e2f-5d5fe23da20d",
+      "time": "2026-07-22 00:45:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOGL.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Google launches lower-cost GEMINI \"Flash\" models】Google on Tuesday launched three lower-cost GEMINI \"Flash\" models focused on efficiency as usage of lower-cost open-source models surges. GEMINI 3.6 Flash is a faster, cheaper upgrade to 3.5 Flash; Google says it cuts output tokens by up to 17% while improving coding, reasoning and multimodal performance. GEMINI 3.5 Flash-Lite is a lower-cost model aimed at high-frequency AI agents and document-processing workloads. GEMINI 3.5 Flash Cyber targets cybersecurity use cases to identify and remediate software vulnerabilities and is currently available only to government agencies and select partners via Google’s CodeMender platform."
+    },
+    {
+      "id": "mkt:019f858f-629c-7aab-8e2f-543276da7708",
+      "time": "2026-07-22 00:43:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Al Arabiya reported Yemen's oil minister instructed oil companies to draft plans to raise production capacity by 25% within the first month and to deposit oil export revenues into Yemen's central bank."
+    },
+    {
+      "id": "5000732",
+      "time": "2026-07-22 00:42:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克非官方渠道報道稱，三架美軍直升機在伊拉克巴迪亞沙漠投放作戰人員。大約一小時後，直升機再度起飛，朝著約旦方向飛去。"
+    },
+    {
+      "id": "5000731",
+      "time": "2026-07-22 00:41:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：航天業務發展進度超出公司預期。"
+    },
+    {
+      "id": "5000730",
+      "time": "2026-07-22 00:41:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客執行長：供應鏈現狀已 “大幅好轉” 。"
+    },
+    {
+      "id": "5000729",
+      "time": "2026-07-22 00:40:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：迪士尼在電視業務與影視製片部門裁員數百人。"
+    },
+    {
+      "id": "mkt:019f858a-fd93-7aab-8e2f-4d08dc962990",
+      "time": "2026-07-22 00:38:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【White House announces trade agreement with Jordan】The White House said on July 21 that President Trump announced a trade agreement with Jordan that will remove long-standing trade barriers for U.S. exporters and open new market access for key U.S. industries, building on bilateral economic ties including the U.S.-Jordan free trade agreement in force since Dec. 17, 2001."
+    },
     {
       "id": "5000728",
       "time": "2026-07-22 00:35:40",
@@ -167033,303 +167126,6 @@
         "MKT News"
       ],
       "text": "【Iraqi prime minister says US forces must withdraw from Iraq by Sept. 30】Iraqi prime minister Zaydi told President Trump at a White House meeting on the 14th that US forces must withdraw from Iraq by Sept. 30 this year."
-    },
-    {
-      "id": "mkt:019f618a-caa1-7aab-8d85-f5fdf38e0428",
-      "time": "2026-07-15 00:51:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed should be responsible and held accountable."
-    },
-    {
-      "id": "4988303",
-      "time": "2026-07-15 00:51:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們應當做到履職盡責、接受問責。"
-    },
-    {
-      "id": "mkt:019f6189-35dd-7aab-8d85-ec7e73c85dcd",
-      "time": "2026-07-15 00:50:09",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Chicago Fed President Goolsbee, a 2027 FOMC voting member, will participate in a fireside chat in ten minutes."
-    },
-    {
-      "id": "mkt:019f6189-16ab-7aab-8d85-e138989df9a8",
-      "time": "2026-07-15 00:50:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed Governor Barr said there is little evidence so far that artificial intelligence has broadly caused job losses."
-    },
-    {
-      "id": "4988302",
-      "time": "2026-07-15 00:49:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：伊朗或被新增到可能透過的對俄製裁法案中】美國總統特朗普表示，與伊朗相關的處罰措施可能會被新增到國會正在制定、且得到白宮支援的俄羅斯制裁法案中。特朗普補充說，該法案有可能成為法律。"
-    },
-    {
-      "id": "mkt:019f6188-b28d-7aab-8d85-da80703ff1af",
-      "time": "2026-07-15 00:49:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fed Governor BARR said if most firms and their workers cannot adequately access ongoing AI resources, productivity growth will slow."
-    },
-    {
-      "id": "4988301",
-      "time": "2026-07-15 00:49:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "LUCID股價迅速下跌，跌幅高達5.8%。"
-    },
-    {
-      "id": "mkt:019f6187-efe6-7aab-8d85-d4eefd60c617",
-      "time": "2026-07-15 00:48:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed should maintain transparency on the rationale for its policy decisions."
-    },
-    {
-      "id": "4988300",
-      "time": "2026-07-15 00:48:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們應當公開決策的理據，保證透明度。"
-    },
-    {
-      "id": "4988299",
-      "time": "2026-07-15 00:48:22",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【摩根大通敦促員工慎用高價AI處理簡單任務，企業高管開始憂心成本】隨著可供金融業使用的人工智慧（AI）工具不斷增多，摩根大通正在嘗試更有策略地決定何時使用更為成熟、也更為昂貴的模型。“總結一份分析師報告，真的不需要最新、最前沿且極其昂貴的模型，”摩根大通首席財務官Jeremy Barnum週二在該公司釋出第二季度業績後舉行的分析師電話會上表示。“因此，思路就是為合適的用途使用合適的模型。”"
-    },
-    {
-      "id": "4988298",
-      "time": "2026-07-15 00:47:42",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：絕大多數企業及其員工若難以獲取持續迭代升級的人工智慧資源，其生產率增長速度將會放緩。"
-    },
-    {
-      "id": "4988297",
-      "time": "2026-07-15 00:47:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲發言理應具備分量。"
-    },
-    {
-      "id": "mkt:019f6186-bcf5-7aab-8d85-cfe275b44fda",
-      "time": "2026-07-15 00:47:27",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said the Fed's communications should carry influence."
-    },
-    {
-      "id": "4988296",
-      "time": "2026-07-15 00:47:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：人工智慧有望大幅提振生產效率，對低技能、從業經驗不足的勞動者尤為明顯。"
-    },
-    {
-      "id": "4988295",
-      "time": "2026-07-15 00:46:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：人工智慧未來帶來的影響仍存在不確定性，它既可能縮小、也可能擴大收入與財富差距。"
-    },
-    {
-      "id": "mkt:019f6186-38e6-7aab-8d85-c79b8bcde504",
-      "time": "2026-07-15 00:46:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "【Fed Chair Kevin Warsh: Committed to fulfilling both inf and employment mandates】Fed Chair Kevin Warsh told the House Financial Services Committee he places equal weight on the Fed’s employment and inf goals, reiterating he has emphasized the latter since taking office. He said the Fed does not favor one part of its mandate over the other and that price stability and full employment are not mutually exclusive; he is committed to achieving both. When asked about targeted measures to narrow Black-white unemployment and opportunity gaps, Warsh said the U.S. must not leave anyone behind and that broad economic opportunity is critical to growth over the next five to 10 years, meaning every American needs the chance to be productive."
-    },
-    {
-      "id": "mkt:019f6186-32ee-7aab-8d85-bf9f8756e33a",
-      "time": "2026-07-15 00:46:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said payment systems must be sufficiently resilient."
-    },
-    {
-      "id": "4988294",
-      "time": "2026-07-15 00:46:47",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：目前幾乎沒有證據表明人工智慧已大規模造成崗位流失。"
-    },
-    {
-      "id": "mkt:019f6185-ebd2-7aab-8d85-b19237edeb08",
-      "time": "2026-07-15 00:46:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fed Governor Barr said AI has the potential to significantly boost productivity, particularly benefiting low-skilled and inexperienced workers."
-    },
-    {
-      "id": "4988293",
-      "time": "2026-07-15 00:46:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們所支援的支付體系必須不偏不倚，且具備抵禦衝擊的能力。"
-    },
-    {
-      "id": "4988292",
-      "time": "2026-07-15 00:46:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們所支援的支付系統必須具備韌性。"
-    },
-    {
-      "id": "4988291",
-      "time": "2026-07-15 00:45:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：人工智慧將從諸多方面重塑勞動力市場與整體經濟，目前尚無法確定人工智慧會縮小還是加劇收入及財富不平等問題。"
-    },
-    {
-      "id": "mkt:019f6184-89ac-7aab-8d85-ae03fdd341e8",
-      "time": "2026-07-15 00:45:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fed Governor Barr said AI will affect the labor market and the broader economy in multiple ways; it is not yet possible to determine whether it will narrow or widen income and wealth inequality."
-    },
-    {
-      "id": "4988290",
-      "time": "2026-07-15 00:44:46",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲巴爾：人工智慧究竟會全面提升民眾生活水平，還是加劇收入與財富分配不均？"
-    },
-    {
-      "id": "4988289",
-      "time": "2026-07-15 00:43:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以黎在羅馬舉行談判 聚焦落實試點區撤軍計劃】當地時間14日，以色列與黎巴嫩在義大利羅馬開始舉行第六輪談判。本輪談判為期兩天，首日會談已於以色列時間當天晚間結束。這是兩國上個月在美國首都華盛頓簽署框架協議以來的首次會晤。據悉，本次談判重點聚焦一項試點計劃，即討論以軍從黎巴嫩南部兩個試點區域實施首批撤軍的具體落實方案。根據該計劃，黎巴嫩政府軍將進入以軍撤出的區域，以確保該地區沒有黎巴嫩真主黨的武器。本週早些時候，美國軍事代表團已在貝魯特與黎巴嫩軍方高層會面，就落實撤軍方案進行了前期討論。"
-    },
-    {
-      "id": "mkt:019f6183-2cf7-7aab-8d85-a757b1b2f7ca",
-      "time": "2026-07-15 00:43:34",
-      "tags": [
-        "MKT News",
-        "005930.KS"
-      ],
-      "text": "Samsung plans to launch a new Galaxy Watch on July 22."
-    },
-    {
-      "id": "mkt:019f6181-72f0-7aab-8d85-9ae4ccdbf874",
-      "time": "2026-07-15 00:41:41",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Israeli Defense Forces says it killed four senior Hamas members from the Jabalia battalion in Gaza, including the battalion's military security chief."
-    },
-    {
-      "id": "4988288",
-      "time": "2026-07-15 00:41:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【E·吉恩·卡羅爾收到特朗普支付的560萬美元民事案件賠償金】美國聯邦法院卷宗記錄顯示，特朗普已向作家E·吉恩·卡羅爾付清560萬美元賠償金。陪審團認定，20世紀90年代特朗普在曼哈頓一家百貨商店內對卡羅爾實施性侵，後續又公開誹謗她，據此裁定特朗普承擔賠償責任。2023年陪審團作出賠付裁決後，特朗普提起上訴，這筆賠償金此前一直交由第三方託管。案件線上庭審記錄於本週二新增備註顯示，託管款項已於上週撥付至卡羅爾賬戶。此次付款的前提是美國最高法院駁回了特朗普針對該判決的最後一次上訴申請，審理該案的法官隨即下令將託管賠償金髮放給卡羅爾。卡羅爾的代理律師羅伯塔·卡普蘭發表宣告表示，她與當事人“十分欣慰地告知公眾，當事人已收到陪審團依據判決裁定的損害賠償金”。"
-    },
-    {
-      "id": "4988287",
-      "time": "2026-07-15 00:40:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列總理內塔尼亞胡警告伊朗革命衛隊不得襲擊以色列：別以為可以襲擊我們，事後還指望相安無事。"
-    },
-    {
-      "id": "mkt:019f617f-6993-7aab-8d85-94d58fcd8416",
-      "time": "2026-07-15 00:39:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Kish Island Water and Power Engineering Company said a projectile exploded near water and power supply facilities on Iran's Kish Island during a US-launched strike in the early hours of Tuesday. The blast, which occurred close to generator sets, altered the technical parameters of some generators."
-    },
-    {
-      "id": "4988286",
-      "time": "2026-07-15 00:39:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星將於7月22日釋出全新Galaxy Watch智慧手錶。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607153806245232",
-      "time": "2026-07-15 00:39:10",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什表示，儘管今天的CPI資料好於市場預期，但不贊成只挑有利的資料來看。若能獲得更完善的資料支援決策，將更有信心。"
     }
   ]
 }
