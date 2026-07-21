@@ -1,7 +1,222 @@
 {
   "date": "2026-07-21",
-  "count": 1744,
+  "count": 1778,
   "items": [
+    {
+      "id": "4999627",
+      "time": "2026-07-21 15:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼財長：如有需要，印尼或將再度發行熊貓債。"
+    },
+    {
+      "id": "mkt:019f839b-34d7-7aab-8e21-4776f04b1d9a",
+      "time": "2026-07-21 15:36:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "【Retail DDR5 prices hit fresh highs; Germany memory price index up 7% MoM in July】Retail DDR5 memory prices reached a new high in July. 3D Center's German survey shows average prices for assorted DDR5 desktop memory kits are up 448% versus July 2025, above this year’s Jan–Feb peak of 440%, and rose 7.1% month‑on‑month."
+    },
+    {
+      "id": "4999626",
+      "time": "2026-07-21 15:36:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【倫敦證券交易所將於明年推出不間斷交易】倫敦證券交易所將在常規交易時段之外開設一個新交易場所，旨在工作周內提供“近乎連續的交易”。根據週二釋出的一份宣告，這一名為“LSE 24”的新交易場所將在倫敦時間下午5點至次日上午7點50分運營，預計將於2026年底前開放客戶測試。該交易場所將獨立於交易所的主市場執行，主市場將繼續照常運作。交易所交易產品(ETP)將成為該平臺的首批可交易資產，預計將於2027年上半年上線。倫敦證券交易所執行長Julia Hoggett表示，LSE 24將為客戶提供“超越傳統交易時間的更大靈活性”，同時提升市場流動性和參與度。"
+    },
+    {
+      "id": "4999625",
+      "time": "2026-07-21 15:36:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲4%，現報59.35美元/盎司。"
+    },
+    {
+      "id": "4999624",
+      "time": "2026-07-21 15:35:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊昂納多執行長表示公司需加快產品交付進度。"
+    },
+    {
+      "id": "4999623",
+      "time": "2026-07-21 15:35:36",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "訊息人士稱，摩根大通及其他美國銀行接近達成協議，提供部分融資以支援日本5500億美元的美國投資承諾。華盛頓已向日方提交了一份清單，列出可作為日本投資計劃下新增專案的候選名單。"
+    },
+    {
+      "id": "mkt:019f8399-d5ef-7aab-8e21-394f0698838b",
+      "time": "2026-07-21 15:35:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "WTI and Brent crude each edged down $0.50 intraday to $83.00/bbl and $87.40/bbl."
+    },
+    {
+      "id": "4999622",
+      "time": "2026-07-21 15:35:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破59美元/盎司，日內漲4.66%。"
+    },
+    {
+      "id": "4999621",
+      "time": "2026-07-21 15:35:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡達：外交部重申卡達國對兄弟的沙烏地阿拉伯王國的完全聲援，並支援其為維護主權和安全所採取的一切措施。"
+    },
+    {
+      "id": "4999620",
+      "time": "2026-07-21 15:35:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "德國商業銀行分析師表示，持續高企的油氣價格將推升通脹次生壓力，抬高美聯儲進一步加息門檻，當前市場對緊縮的定價力度有限。"
+    },
+    {
+      "id": "mkt:019f8399-32fc-7aab-8e21-309815a00dea",
+      "time": "2026-07-21 15:34:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan shot down five Iranian drones, Jordan's state news agency Petra reported."
+    },
+    {
+      "id": "te:markets:568482",
+      "time": "2026-07-21 15:34:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Edge Higher — European stocks traded higher on Tuesday, with the STOXX 600 rising 0.5% and the STOXX 50 gaining 0.2%, following a subdued session the previous day, as developments in the Middle East continued to dominate headlines. Oil prices retreated amid reports of renewed mediation efforts between the US and Iran, despite fresh attacks in the region. Investors are also closely monitoring the latest corporate earnings while awaiting the ECB's monetary policy decision later this week."
+    },
+    {
+      "id": "mkt:019f8398-d226-7aab-8e21-2ec90492b7c4",
+      "time": "2026-07-21 15:34:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver strengthened intraday, topping $59/oz and rising 4.6% on the day."
+    },
+    {
+      "id": "4999619",
+      "time": "2026-07-21 15:34:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "約旦國家通訊社訊息：約旦稱擊落五架伊朗無人機。"
+    },
+    {
+      "id": "mkt:019f8398-1409-7aab-8e21-2727e00a07ea",
+      "time": "2026-07-21 15:33:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "BHP.AX",
+        "Impact bullish"
+      ],
+      "text": "【BHP, Port Hedland unions report progress; talks to resume July 28】BHP and the Combined Ports Unions representing workers at Port Hedland, Western Australia, said on Tuesday talks had made progress but no final agreement was reached. The unions said negotiations will continue on July 28; the progress reduces the likelihood of fresh strike action before then. BHP said its focus remains on reaching a fair, reasonable agreement and making constructive progress."
+    },
+    {
+      "id": "4999618",
+      "time": "2026-07-21 15:33:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【金價觸及一週高位 獲逢低買盤活動支撐】抄底活動推動金價觸及一週以來最高水平。與此同時，交易員在密切關注中東局勢發展，尋找能源價格對通脹影響的跡象。金價一度上漲1.9%，升至每盎司4080美元上方，前一個交易日收跌0.2%。美軍對伊朗目標發動新一輪空襲，且美國總統特朗普誓言德黑蘭將為殺害三名美國士兵付出代價。伊朗支援的葉門胡塞武裝威脅對沙特實施紅海海上封鎖，沙特領導的聯盟表示將堅決回應胡塞武裝的威脅，並稱已採取措施保護在紅海航行的船隻。"
+    },
+    {
+      "id": "4999617",
+      "time": "2026-07-21 15:33:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "比特幣升破66000美元，日內漲1.25%。"
+    },
+    {
+      "id": "4999616",
+      "time": "2026-07-21 15:33:03",
+      "tags": [
+        "市場",
+        "觀點",
+        "國際"
+      ],
+      "text": "【韓國股市反彈收漲3.6%，槓桿交易引發的拋售潮趨緩】韓國股市週二反彈，此前因槓桿頭寸平倉而引發的劇烈拋售潮開始緩解，這使得投資者得以重新關注這個位於全球人工智慧交易核心市場的內在實力。韓國KOSPI指數收盤上漲3.6%，報6747.95點，盤中一度上漲4.9%。此前兩個交易日，該指數暴跌了10.5%。KOSPI仍深陷熊市區域，較6月22日創下的歷史收盤高點已下跌25%。但隨著監管機構採取措施遏制槓桿融資產品，市場關注點重新迴歸基本面，包括人工智慧驅動的持續強勁需求，以及記憶體晶片製造商的盈利前景依然樂觀。摩根大通分析師指出：“未來幾年，市場的基本面實力依然強勁。”他們在區域資產配置中維持對韓國市場的“超配”評級，12個月目標點位為12500點。“市場應能克服頭寸平倉帶來的衝擊，並延續積極走勢。”"
+    },
+    {
+      "id": "mkt:019f8397-8525-7aab-8e21-1bd0a13765d3",
+      "time": "2026-07-21 15:32:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Nasdaq100",
+        "Impact bullish",
+        "Hang Seng Index",
+        "S&P500"
+      ],
+      "text": "【SAMR to deploy high-level testing platforms for ICs, new energy, biopharma and humanoid robots in 15th Five-Year Plan】The State Administration for Market Regulation (SAMR) said it will use inspection and testing to support industrial upgrading during the 15th Five-Year Plan, launching pilots and a three-year action to upgrade national quality inspection centers. SAMR plans to build high-level testing platforms for strategic emerging sectors — integrated circuits, new energy, biopharma and humanoid robots — and to drive service-model innovation via digital transformation. It will deepen collaboration with industry-chain leaders and research institutes to tackle core technologies, shifting testing from single-service, post‑production quality checks toward industry-chain coordination and end‑to‑end innovation enablement. SAMR also intends to scale testing capacity for green low‑carbon products, food safety and high‑risk industrial goods to reinforce industry development and public safety."
+    },
+    {
+      "id": "4999615",
+      "time": "2026-07-21 15:32:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "卡達：對胡塞武裝軍事發言人關於指責阿拉伯沙特王國圍困葉門人民並禁止海上航行的言論表示強烈譴責和憤慨。"
+    },
+    {
+      "id": "4999614",
+      "time": "2026-07-21 15:32:22",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【市場監管總局：“十五五”將前瞻佈局積體電路、新能源、生物醫藥、人形機器人等戰略性新興產業高能級檢測平臺】市場監管總局今天（21日）召開新聞釋出會，介紹“十四五”時期我國檢驗檢測服務業發展成效。“十五五”期間，市場監管總局將實施檢驗檢測促進產業最佳化升級創新試點與國家質檢中心提質最佳化三年行動，前瞻佈局積體電路、新能源、生物醫藥、人形機器人等戰略性新興產業高能級檢測平臺，以數字化轉型推動服務模式創新。強化與產業鏈龍頭、科研院所的深度協同，聯合攻克一批關鍵核心技術，推動檢驗檢測從單一服務向“產業鏈協同”升級，由“事後質量把關者”轉向“創新全程賦能者”。統籌綠色低碳、食品安全、高風險工業品檢測能力建設，築牢產業發展與民生安全質量防線。"
+    },
+    {
+      "id": "te:markets:568480",
+      "time": "2026-07-21 15:32:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Opens 0.33% Lower — The FTSE 100 Index is dropping 35 points. Leading the losses are Segro (-2.13%), BT (-1.91%) and Compass (-1.90%). Top gainers were Babcock International (6.51%), Antofagasta (3.61%) and Endeavour (3.16%)."
+    },
     {
       "id": "mkt:019f8396-8b0d-7aab-8e21-164b1b4404ad",
       "time": "2026-07-21 15:31:48",
@@ -21,6 +236,14 @@
         "Japan & APAC"
       ],
       "text": "Sources said Washington has submitted a list to Tokyo of candidate projects that could be added to the Japan investment plan."
+    },
+    {
+      "id": "4999613",
+      "time": "2026-07-21 15:31:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Kraken加密貨幣交易所：因一起影響Midnight（NIGHT）代幣的突發事件，現已臨時暫停該代幣的充幣服務。"
     },
     {
       "id": "mkt:019f8396-3391-7aab-8e21-04166d514b44",
@@ -60,6 +283,31 @@
       "text": "Sources say JP Morgan and other US banks are close to agreeing to provide partial financing to support Japan's $550 billion investment pledge in the United States."
     },
     {
+      "id": "4999612",
+      "time": "2026-07-21 15:30:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特斯拉：2026年6月 Model Y成為馬來西亞最暢銷的進口品牌電動車，Model 3成為馬來西亞最暢銷的純電轎車，來自上海超級工廠的中國智造 安全、智慧、好開、耐用。"
+    },
+    {
+      "id": "4999611",
+      "time": "2026-07-21 15:30:26",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【5.4萬機構、超5.7億份報告 “十四五”檢驗檢測行業有三大轉變】市場監管總局今天（21日）召開新聞釋出會，介紹“十四五”時期我國檢驗檢測服務業發展成效。截至2025年底，我國獲得資質認定（CMA）的各類檢驗檢測機構共有54340家，從業人員158.64萬人，實驗室面積1.25億平方米，向社會出具檢驗檢測報告共5.71億份。實現營業收入5303.08億元。回望“十四五”這五年，檢驗檢測行業發生了三個歷史性轉變：增長方式發生歷史性轉變。“十四五”期間，檢驗檢測行業全行業營收突破5300億元，比“十三五”末期增長47.89%，營收增速是同期機構數量增速的4.56倍，扭轉了以往多年營收增長主要由數量擴張帶動的粗放增長方式。行業結構發生歷史性轉變。“十四五”期間，電子電器、軟體及資訊化、電力（包含核電）等新興領域機構數量、營收年均增速均達13%以上；行業增長動力加速從傳統領域向新興領域、向高附加值領域轉移，帶動行業結構從“量變”走向“質變”。發展動能發生歷史性轉變。2025年，檢驗檢測機構參與科研專案43646項，擁有有效專利211232件，其中有效發明專利94421件。與“十三五”末期比，擁有有效專利增長142.95%。2025年，獲高新技術企業認定的機構6321家，為全國各行業平均佔比的14倍；獲“專精特新”認定的機構1791家，同比增長19.40%，為全國各行業平均佔比的11倍。檢驗檢測高技術服務業特徵更加鮮明，行業發展的內生功能進一步增強。（央視新聞）"
+    },
+    {
+      "id": "4999610",
+      "time": "2026-07-21 15:30:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破83美元/桶，日內漲0.63%。"
+    },
+    {
       "id": "te:markets:568477",
       "time": "2026-07-21 15:30:14",
       "tags": [
@@ -72,6 +320,32 @@
       "text": "The CAC 40 Index Opens 0.05% Higher — The CAC 40 Index is up by 4 points or 0.05 percent on Tuesday. Top gainers are STMicroelectronics (2.37%), TotalEnergies SE (1.79%) and Schneider Electric (1.07%). Biggest losses came from Eurofins Scientific SE (-2.22%), Carrefour (-1.58%) and Essilor (-1.53%)."
     },
     {
+      "id": "4999609",
+      "time": "2026-07-21 15:29:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【美情報機構：美伊將陷入長期對峙】美國情報機構評估報告認為，美國對伊朗新一輪軍事打擊不太可能對伊朗政府造成重大沖擊，也難以迫使伊朗在談判中軟化立場，美伊將陷入長期對峙。美國《華盛頓郵報》20日以多名現任及前任美官員為訊息源報道，上述評估報告主要由美國中央情報局撰寫，已上報特朗普政府。報告指出，美伊目前陷入介於“和平與戰爭”之間的“無限僵持”狀態，雖然美國和以色列的襲擊導致伊朗多名高階官員身亡及大量軍事裝備受損，但伊朗方面仍具備較強的抗壓與生存能力。中情局今年5月的一份分析報告認為，即使美國對伊朗實施海上封鎖，伊朗至少能“扛住”3到4個月，才會面臨較為嚴重的經濟困難。據《華盛頓郵報》報道，這份報告凸顯特朗普政府在伊朗戰事上身處困境。特朗普政府當前不斷擴大打擊規模，導致戰事陷入僵局。美國如進一步升級行動，比如派遣地面部隊，不僅無法保證實現軍事目標，還可能給特朗普政府帶來更大的政治風險，因為伊朗戰事在美國國內“很不受歡迎”。（新華社）"
+    },
+    {
+      "id": "4999608",
+      "time": "2026-07-21 15:29:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國已連續第十晚對伊朗實施打擊行動。"
+    },
+    {
+      "id": "4999607",
+      "time": "2026-07-21 15:28:38",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【奧精醫療股東崔菡在股東會上朗讀公開信“拉票”，罷免其母董事長職務的議案未獲透過】7月20日盤後，奧精醫療釋出了2026年第一次臨時股東會決議公告，其中第四項議案——免去董事長黃晚蘭公司董事職務的議案，因近60%的反對率未獲透過。據瞭解，在20日下午的股東會上，上述議案的提出方之一、黃晚蘭的女兒崔菡朗讀了一封面向公司股東的公開信，向股東喊話稱“這不是家事，是您的錢”，表示了對公司經營狀況的不滿。根據投票結果，83歲的黃晚蘭暫居上風。但崔菡表示，後續會繼續提出最佳化董事會的決議。公司董秘則對記者表示，一切以公告為準，公司目前生產經營一切正常，基本面未受影響。（每日經濟新聞）"
+    },
+    {
       "id": "em:qqyh_rbyh:202607213815494779",
       "time": "2026-07-21 15:28:34",
       "tags": [
@@ -79,6 +353,48 @@
         "日本央行"
       ],
       "text": "日本內閣官房長官木原稔表示，貨幣政策具體細則應由日本央行自行決定。"
+    },
+    {
+      "id": "4999606",
+      "time": "2026-07-21 15:28:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【光輪智慧宣佈已合作全球前五世界模型團隊，多項交付全球第一】在2026世界人工智慧大會（WAIC 2026）上，光輪智慧展示了圍繞“資料—評測—部署反饋”構建的物理AI持續學習系統及其落地進展，並介紹了公司商業可持續成果。據光輪智慧相關負責人介紹，公司高質量資料資產已實現跨客戶、跨任務的規模化複用，在人類影片資料、模擬合成資料與工業級模擬評測三個關鍵領域實現全球交付第一，全球前五的世界模型團隊均已與光輪智慧建立合作，部分優質場景資料復售超過10倍。 （新浪科技）"
+    },
+    {
+      "id": "4999605",
+      "time": "2026-07-21 15:28:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達60億港元。"
+    },
+    {
+      "id": "4999604",
+      "time": "2026-07-21 15:28:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【又一艘油輪在霍爾木茲海峽遇襲 地區海運風險持續加劇】在敵對行動再度升級、導致霍爾木茲海峽航運幾近停滯之際，又有一艘油輪在該海峽遭到襲擊。與此同時，葉門胡塞武裝威脅將在紅海對沙特實施封鎖，進一步加劇了該地區的海運風險。據英國海上貿易行動部門，一艘油輪在阿曼利馬東北方向海域遭不明發射物擊中。此前數日，由Dynacom Tankers Management Ltd.運營的船隻已接連遭到襲擊。船舶跟蹤資料顯示，週二未觀察到船隻透過霍爾木茲海峽。伊朗近期的一系列襲擊主要針對沿阿曼海岸穿行海峽的油輪，這些油輪通常關閉應答器。雖然最新被擊中的船隻身份尚未確定，但此前的襲擊已經波及到一些大型運營商，例如韓國的Sinokor集團和希臘的Dynacom，這些公司在戰爭期間的大部分時間裡對維持原油供應發揮了至關重要的作用。"
+    },
+    {
+      "id": "4999603",
+      "time": "2026-07-21 15:27:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【Kimi負責人回應三大爭議：SOTA模型應有自己的定價權】OpenAI戰略負責人迪恩·鮑爾（Dean W. Ball）公開評價K3效能無法依靠蒸餾實現，另有觀點將開放權重模型定義為“減速主義”，認為開源會降低前沿模型商業回報、降低行業持續研發投入意願；特朗普政府AI事務顧問戴維·薩克斯則表態“這令人擔憂”。Kimi方面未直接點名反駁，但整場交流的核心表態均與上述觀點形成對照。黃震昕明確表示：“開源模型、中國大模型不該被貼上低價標籤，我們做出了SOTA級模型，也能匹配合理商業定價。”針對外界流傳的“K3是蒸餾小模型”的猜測，黃震昕澄清，K3效能躍升的核心來自底層原創架構創新，並非對現有模型蒸餾復刻。（21財經）"
+    },
+    {
+      "id": "4999602",
+      "time": "2026-07-21 15:27:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音生活服務：上線直播間被動入鏡保護功能 保障消費者肖像隱私】近日，抖音生活服務上線“直播被動入鏡消費者肖像隱私保護”功能，該功能可在商家直播過程中，對直播間被動入鏡人員的面部進行自動模糊處理，旨在保護消費者的肖像權、隱私權等合法權益。平臺建議商家及時開啟使用。據介紹，該功能開啟後，平臺將對未報備人員面部進行模糊化處理。如商家存在違規拍攝、侵擾消費者等行為，平臺將依據相關規則進行處置，包括但不限於警告、中斷直播、封禁直播間等（新浪科技）"
     },
     {
       "id": "4999601",
