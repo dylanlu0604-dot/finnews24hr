@@ -1,7 +1,51 @@
 {
   "date": "2026-07-22",
-  "count": 324,
+  "count": 329,
   "items": [
+    {
+      "id": "5000901",
+      "time": "2026-07-22 05:06:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：這場戰爭並非由我們挑起。伊朗早在47年前就開啟了這場對抗。不是我們開的頭，是他們。"
+    },
+    {
+      "id": "mkt:019f867e-baa7-7aab-8e32-af28feda8795",
+      "time": "2026-07-22 05:04:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June PPI MoM 0.0% vs 0.8% prior."
+    },
+    {
+      "id": "mkt:019f867e-aa4b-7aab-8e32-a6ec2d273ac5",
+      "time": "2026-07-22 05:04:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea June PPI YoY 8.6% vs 8.5% prior."
+    },
+    {
+      "id": "mkt:019f867e-a376-7aab-8e32-9f9b5d5c9e66",
+      "time": "2026-07-22 05:04:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (MoM) (Jun) | actual 0% | previous 0.8%"
+    },
+    {
+      "id": "mkt:019f867e-8e30-7aab-8e32-96324bfe2b26",
+      "time": "2026-07-22 05:04:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Korea | PPI (YoY) (Jun) | actual 8.6% | previous 8.50%"
+    },
     {
       "id": "5000900",
       "time": "2026-07-22 05:01:20",
