@@ -1,7 +1,470 @@
 {
   "date": "2026-07-21",
-  "count": 1847,
+  "count": 1897,
   "items": [
+    {
+      "id": "4999713",
+      "time": "2026-07-21 16:04:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿聯酋航空總裁：截至8月我們將恢復九成運力運營。"
+    },
+    {
+      "id": "4999712",
+      "time": "2026-07-21 16:04:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內跌1%，現報81.65美元/桶。"
+    },
+    {
+      "id": "4999711",
+      "time": "2026-07-21 16:04:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行信貸調查：歐元區銀行在第二季度因地緣政治和能源價格擔憂收緊了信貸標準。第二季度企業貸款需求上升，但被拒貸款申請的比例增加。銀行預計第三季度所有貸款類別的信貸標準將進一步收緊。第二季度住房貸款需求大幅下降，第三季度預計將進一步下滑。"
+    },
+    {
+      "id": "4999710",
+      "time": "2026-07-21 16:03:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江山股份：簽訂11.74億元募集資金專戶儲存三方監管協議】江山股份公告稱，公司向不特定物件發行可轉換公司債券，募集資金總額11.85億元，扣除發行費用後，實際募集資金淨額11.74億元於2026年7月20日到賬。為規範資金管理，公司、興業銀行南通分行及保薦機構申萬宏源證券於當日簽訂《募集資金專戶儲存三方監管協議》。該專戶僅用於指定專案資金儲存和使用，不得用作他途。協議自簽署生效，至專戶資金支出完畢並銷戶失效。"
+    },
+    {
+      "id": "4999709",
+      "time": "2026-07-21 16:03:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博實股份：公司與國能新疆化工有限公司簽署的商務合同總金額約為人民幣4.4億元】博實股份公告，近日，公司收到與國能新疆化工有限公司簽署的商務合同，合同總金額約為人民幣4.4億元。合同標的為固體產品包裝運營服務，合同金額預估總含稅金額為4.4億元，在合同約定的服務期限內（5年），每年合同額約為8799.32萬元。"
+    },
+    {
+      "id": "mkt:019f83b3-3050-7aab-8e22-19f4a43ff7a7",
+      "time": "2026-07-21 16:03:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Foreign Ministry: China-EU economic and trade ties are mutually beneficial; China does not deliberately pursue a trade surplus with Europe】Foreign Ministry spokesperson Lin Jian said at a routine briefing that China has repeatedly set out its position on China-EU economic and trade issues. China regards existing differences seriously and says they can and should be resolved through dialogue and policy interaction. Such disputes should not be used to undermine China-EU trust, justify decoupling or supply‑chain disruption, or serve as a pretext for unfounded accusations. China-EU trade is mutually beneficial; China does not deliberately seek a trade surplus with Europe. Trade patterns reflect international division of labor and comparative advantage. Lin said protectionism is not a viable route and cooperation that delivers mutual gains is the proper approach."
+    },
+    {
+      "id": "4999708",
+      "time": "2026-07-21 16:03:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "泰雷茲將供應光電系統，訂單規模為四位數中段百萬歐元。"
+    },
+    {
+      "id": "4999707",
+      "time": "2026-07-21 16:02:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "日本央行行長植田和男將於7月22日前往新加坡出席東亞及太平洋中央銀行行長會議組織（EMEAP）會議。"
+    },
+    {
+      "id": "te:markets:568504",
+      "time": "2026-07-21 16:02:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "FTSE MIB Trades Higher — The FTSE MIB rose to around 52,100 on Tuesday, following a subdued previous session, as markets continued to monitor developments in the Middle East. Oil prices eased following reports that diplomats were seeking to restore the ceasefire between the US and Iran. Still, uncertainty remained elevated as US military strikes continued for a tenth consecutive night. Meanwhile, markets expect the ECB to leave interest rates unchanged this week as policymakers assess the effects of June's tightening. Across the bourse, technology-related stocks led gains, tracking a broader rebound among their Asian peers, with STMicroelectronics and Prysmian rising about 2% and 3%, respectively. Defence stock Leonardo also climbed more than 3% after receiving helicopter orders from Saudi Arabia's Public Investment Fund-backed THC. On the downside, losses were led by Tenaris (-1.8%), Moncler (-1.3%), Davide Campari-Milano (-1.2%), and Infrastrutture Wireless Italiane (-1.2%)."
+    },
+    {
+      "id": "4999706",
+      "time": "2026-07-21 16:02:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【外交部：中歐經貿關係本質是互利共贏 中方從不刻意追求對歐貿易順差】7月21日，外交部發言人林劍主持例行記者會。在回答中歐經貿有關問題時，林劍表示，關於中歐經貿領域相關問題，中方已多次闡明立場。中方高度重視中歐經貿領域存在的分歧，始終認為雙方可以透過對話協商、政策互動妥善加以解決。這些分歧不應成為影響中歐互信與合作的障礙、導致中歐“脫鉤斷鏈”的依據，更不能成為對中方進行不實指責的藉口。中歐經貿關係的本質是互利共贏。中方從不刻意追求對歐洲的貿易順差，中歐貿易結構是國際產業分工、各國比較優勢等多種因素共同作用的結果。林劍強調，保護主義沒有出路，合作共贏才是正道。中國不是造成歐方經貿問題的根源，而是可以成為歐方解決問題的夥伴。希望法、德作為歐盟核心大國，能夠展現大國應有的理性、務實態度，發揮積極建設性作用，推動歐方同中方相向而行，堅持透過對話協商解決各自關切。（央視新聞）"
+    },
+    {
+      "id": "4999705",
+      "time": "2026-07-21 16:02:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【麗人麗妝：控股股東1000萬股司法拍賣成交 成交金額5918萬元】麗人麗妝公告稱，控股股東、實際控制人黃韜因離婚財產糾紛，其持有的1000萬股於7月17 - 18日在京東網司法拍賣成交，成交總金額5918萬元，買受人分別為吳婷、張宇。若完成過戶，黃韜持股將從1.13億股降至1.03億股，佔總股本比例從28.28%降至25.78%，不會導致公司控制權變更，也不影響日常經營。本次拍賣後續結果仍有不確定性，受讓方6個月內不得減持。"
+    },
+    {
+      "id": "4999704",
+      "time": "2026-07-21 16:01:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "【民政部發布全國首批婚喪習俗改革典型案例】7月21日，民政部辦公廳釋出“全國第一批婚喪習俗改革典型案例”，涵蓋全國20個地方實踐做法，將為各地進一步深化婚喪習俗改革提供可借鑑樣板。在河北省河間市婚俗改革案例中，當地以基層共治為基，搭建市、鄉、村三級婚俗改革聯動平臺，指導全市639個村（社群）將“婚事新辦、限制高額彩禮、鼓勵零彩禮”寫入村規民約；打造覆蓋婚戀、婚嫁、婚後生活的全週期服務；以多元惠民活動為媒，重塑婚嫁“精神核心”。如今，當地“低彩禮、零彩禮”已成主流，婚宴平均花費降低60%以上。（新華社）"
+    },
+    {
+      "id": "4999703",
+      "time": "2026-07-21 16:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前多數上漲，盛美漲5%】美股中概股盤前多數上漲，盛美漲5%，百濟神州漲3%，京東、嗶哩嗶哩、理想汽車、蔚來漲1%，阿里巴巴跌0.5%，網易跌0.8%。"
+    },
+    {
+      "id": "4999702",
+      "time": "2026-07-21 16:01:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國標普500 E-迷你股指期貨上漲0.4%，納斯達克100股指期貨上漲1.2%，道瓊斯股指期貨上漲0.3%。"
+    },
+    {
+      "id": "4999701",
+      "time": "2026-07-21 16:01:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【世名科技：擬向特定物件發行股票募資不超3.1億元】世名科技(300522.SZ)公告稱，公司擬向控股股東江蘇鋒暉發行股票，募集資金總額不超過3.1億元，扣除發行費用後用於年產5000噸LCD顯示光刻膠專用奈米顏料分散液專案及補充流動資金。本次發行構成關聯交易，發行物件認購的股份自發行結束之日起36個月內不得轉讓。"
+    },
+    {
+      "id": "mkt:019f83b1-963f-7aab-8e22-16a4ab134749",
+      "time": "2026-07-21 16:01:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qatar's foreign ministry said the international community should fulfil its responsibility to protect freedom of navigation in the Red Sea."
+    },
+    {
+      "id": "4999700",
+      "time": "2026-07-21 16:01:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數收盤下跌0.7%，報1730.56點。"
+    },
+    {
+      "id": "mkt:019f83b1-451f-7aab-8e22-0fd95a59764e",
+      "time": "2026-07-21 16:01:00",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB credit survey: banks expect lending standards to tighten further across all loan categories in Q3."
+    },
+    {
+      "id": "4999699",
+      "time": "2026-07-21 16:01:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "倫敦金屬交易所(LME)：鉛庫存減少2025噸，銅庫存減少4350噸，錫庫存減少30噸，鋁庫存減少1500噸，鋅庫存減少650噸，鎳庫存減少1182噸。"
+    },
+    {
+      "id": "mkt:019f83b1-406d-7aab-8e22-02b2aecac0e2",
+      "time": "2026-07-21 16:00:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Nickel",
+        "Aluminium"
+      ],
+      "text": "LME inventories fell across base metals: copper down 4,350 tonnes, lead down 2,025 tonnes, aluminium down 1,500 tonnes, nickel down 1,182 tonnes, zinc down 650 tonnes and tin down 30 tonnes."
+    },
+    {
+      "id": "4999698",
+      "time": "2026-07-21 16:00:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股盤前，儲存晶片股普漲，閃迪漲約7%，SK海力士漲約6%，美光科技漲約5%，西部資料漲約5%，希捷科技漲約5%。"
+    },
+    {
+      "id": "mkt:019f83b1-1c28-7aab-8e21-fd7a255da68d",
+      "time": "2026-07-21 16:00:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB credit survey: demand for housing loans fell sharply in Q2 and is expected to weaken further in Q3."
+    },
+    {
+      "id": "4999697",
+      "time": "2026-07-21 16:00:48",
+      "tags": [
+        "資料"
+      ],
+      "text": "中國臺灣6月外銷訂單年率 59.4%，預期49.5%，前值47.20%。"
+    },
+    {
+      "id": "mkt:019f83b0-eb07-7aab-8e21-f4019b528f4b",
+      "time": "2026-07-21 16:00:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DAX"
+      ],
+      "text": "ECB bank lending survey: corporate loan demand rose in Q2, but the share of loan applications rejected increased."
+    },
+    {
+      "id": "mkt:019f83b0-b3cf-7aab-8e21-ebd1d1902b0c",
+      "time": "2026-07-21 16:00:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "European Central Bank's bank lending survey: euro-area banks tightened lending standards in Q2, citing geopolitical risks and energy-price concerns."
+    },
+    {
+      "id": "4999696",
+      "time": "2026-07-21 16:00:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【北京出臺“共享電動腳踏車”新規  未滿16週歲不得使用】日前，北京市交通委員會印發了新修訂的《北京市網際網路租賃腳踏車運營服務監督管理辦法（試行）》（以下簡稱《管理辦法》）。此次調整的內容主要涉及“共享電動腳踏車”部分，將共享電動腳踏車納入監管範圍，同時明確：共享電動腳踏車的集中充電場所應符合消防安全標準，充電場所應配備24小時監控設施，並定期對電池進行抽檢。車輛應依法申領、懸掛專用號牌，配備乘員頭盔。同時，經營者不得向未滿16週歲人員提供共享電動腳踏車服務。（央視新聞）"
+    },
+    {
+      "id": "4999695",
+      "time": "2026-07-21 16:00:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達70億港元。"
+    },
+    {
+      "id": "te:markets:568503",
+      "time": "2026-07-21 16:00:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas UK Gains by 1.25% — Top commodity gainers are Natural Gas UK (1.25%) and Natural Gas EU (0.82%). Biggest losers are Brent Crude Oil (-1.05%) and Crude Oil WTI (-0.72%)."
+    },
+    {
+      "id": "mkt:019f83b0-7a68-7aab-8e21-e3aa30c2177d",
+      "time": "2026-07-21 16:00:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Taiwan June export orders YoY 59.4% (consensus 49.5%; prior 47.2%)."
+    },
+    {
+      "id": "4999694",
+      "time": "2026-07-21 16:00:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士：貝萊德、高瓴資本擬投資英諾光，支援其赴港上市。"
+    },
+    {
+      "id": "mkt:019f83b0-5f1e-7aab-8e21-dd6a8bb0517e",
+      "time": "2026-07-21 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Annual Export Orders (Jun) | actual 59.4% | consensus 49.5% | previous 47.20%"
+    },
+    {
+      "id": "mkt:019f83b0-2197-7aab-8e21-d15161fcfa1e",
+      "time": "2026-07-21 15:59:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US ambassador to India said he held productive talks with Philippine President Marcos, stressing the importance of maintaining a free and open Indo-Pacific."
+    },
+    {
+      "id": "4999693",
+      "time": "2026-07-21 15:59:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "德意志銀行擴大在韓國、越南和馬來西亞的第三方託管服務。"
+    },
+    {
+      "id": "4999692",
+      "time": "2026-07-21 15:58:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿曼MSX30股指下跌2.1%。"
+    },
+    {
+      "id": "4999691",
+      "time": "2026-07-21 15:57:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "希臘央行公佈：5月經常賬戶餘額為逆差9.6億歐元，2025年同期逆差為400萬歐元。"
+    },
+    {
+      "id": "4999690",
+      "time": "2026-07-21 15:57:24",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "希臘央行：希臘5月旅遊收入從2024年同月的21.92億歐元升至24.3億歐元 。"
+    },
+    {
+      "id": "4999689",
+      "time": "2026-07-21 15:57:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【真維斯關掉90%的門店後，線上賣了100億】“真維斯2025年全渠道GMV（商品交易總額）突破100億元”的訊息，近期引發了國內休閒服飾行業內的廣泛討論。佔據著一部分國民記憶的休閒服飾品牌真維斯，在巔峰時期擁有3000多家線下門店，而現在，真維斯的門店已經減少至不足300家。門店不再隨處可見，當很多人以為真維斯已經走到末路之時，它卻線上上活得風生水起。 針對真維斯的運營近況，旭日商貿（中國）有限公司副總經理兼真維斯電貿總經理劉偉文對經濟觀察報表示，過去5年，真維斯一直保持高速增長，銷售額共計增長了13倍。2025年的全渠道GMV突破100億元。劉偉文表示，真維斯主動進行了一系列調整，“放大可控因素的影響，降低不可控因素的影響”。（中新經緯）"
+    },
+    {
+      "id": "4999688",
+      "time": "2026-07-21 15:56:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以媒：10天停火提議系由伊方提出，特朗普要求伊朗“付出代價”】據報道，兩名訊息人士透露，是德黑蘭方面率先提出由調解方正在推動的、美國與伊朗之間為期10天的停火提議，凸顯了德黑蘭迫切尋求停火的緊迫性。據這兩位訊息人士稱，10天停火旨在就霍爾木茲海峽問題達成解決方案。包括卡達、埃及、阿曼和巴基斯坦高階官員在內的調解方已向美國提交了該提議，並在與華盛頓和德黑蘭的會談中增加了更多內容。其中一個想法是在霍爾木茲海峽開闢一條“中轉走廊”，使商船能夠安全通行。訊息人士透露，目前美國要求延長停火時間，華盛頓堅持在停火生效前，至少就霍爾木茲海峽的航行自由問題達成部分協議，並將在擬議的10天暫停期間完成其餘細節的最終敲定。有訊息人士稱，至少部分特朗普政府官員將伊朗的提議描述為“荒謬”和“不合邏輯”。一位美國官員表示，特朗普正致力於讓伊朗為違反諒解備忘錄以及導致美軍人員死亡的行為“付出代價”。"
+    },
+    {
+      "id": "mkt:019f83ac-b4d7-7aab-8e21-cfde226dfc69",
+      "time": "2026-07-21 15:56:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "FTSE100",
+        "Impact bullish"
+      ],
+      "text": "【London Stock Exchange to launch near-continuous trading next year】The London Stock Exchange will open a new off-hours venue to deliver near-continuous weekday trading. The service, named LSE 24, will operate from 17:00 to 07:50 the following day; client testing is expected to conclude by end-2026. LSE 24 will run separately from the exchange’s main market, which will continue to operate as normal. Exchange-traded products (ETPs) are slated to be the first asset class available, targeted for H1 2027. CEO Julia Hoggett said LSE 24 is intended to give clients greater flexibility and to enhance liquidity and market participation beyond traditional trading hours."
+    },
+    {
+      "id": "mkt:019f83ac-b065-7aab-8e21-c0ecb56aee33",
+      "time": "2026-07-21 15:56:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Japan to loosen bank lending rules to fund Takaichi growth plan】Japan will relax bank lending limits for M&A and push pension funds to boost allocations to alternative assets under Prime Minister Sanae Takaichi’s economic growth plan. Banks would be allowed to exceed existing loan caps to finance large acquisitions and AI data-center projects, and the government will ease rules to let bank-affiliated investment units more readily provide equity financing for buyouts and corporate spinoffs. The plan also calls for a review of the “firewall” rules that bar commercial banks and securities arms within the same financial group from sharing client information."
+    },
+    {
+      "id": "4999687",
+      "time": "2026-07-21 15:56:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華興源創：完成普賽斯51%股權收購工商變更登記】華興源創公告稱，公司於2026年4月擬以2.06億元現金收購普賽斯39%股權，此前已持有其12%股權。公司分別於5月和7月完成第一期5437.6萬元、第二期11055.2萬元款項支付及董事會成員委派。截至公告披露日，普賽斯已完成股權等工商變更登記，公司持有其51%股權，普賽斯成為控股子公司並納入合併報表範圍。此次交易不會對公司財務和經營產生不利影響。"
+    },
+    {
+      "id": "4999686",
+      "time": "2026-07-21 15:55:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "【索羅門群島將與美國海警簽署協議進行巡邏，外交部回應】外交部發言人林劍主持例行記者會。法新社記者提問，索羅門群島將與美國海警簽署協議進行巡邏，中方對該協議有何評論？林劍表示，中國同索羅門群島是新時代相互尊重、共同發展的全面戰略伙伴。我們願同索羅門群島新一屆政府拓展各領域務實合作，更好地造福兩國人民。他表示，中方支援國際社會幫助太平洋島國實現可持續發展，同時各國在發展同太平洋島國關係時，應當堅持島國自主、發展為先、開放包容，有關合作不針對第三方。（北京日報）"
+    },
+    {
+      "id": "mkt:019f83ac-45c6-7aab-8e21-bfb4dd97e024",
+      "time": "2026-07-21 15:55:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Solomon Islands to sign patrol pact with U.S. Coast Guard; China urges respect for island autonomy】Solomon Islands will sign an agreement with the U.S. Coast Guard to conduct patrols, Chinese foreign ministry spokesman Lin Jian said at a regular briefing. Lin reiterated China and the Solomon Islands are comprehensive strategic partners and Beijing is willing to expand practical cooperation with the new Solomon Islands government; he said China supports international assistance for Pacific island sustainable development and urged states developing ties with Pacific islands to respect island autonomy, prioritize development, remain open and inclusive, and ensure cooperation is not aimed at third parties."
+    },
+    {
+      "id": "4999685",
+      "time": "2026-07-21 15:55:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗敦促聯合國安理會譴責美國對達爾霍溫核設施的襲擊。"
+    },
+    {
+      "id": "mkt:019f83ab-aeda-7aab-8e21-b7f31a9b3872",
+      "time": "2026-07-21 15:54:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tencent",
+        "Market Themes",
+        "AI Revolution",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Tencent Cloud to mass-deploy domestic compute, plans NPO supernodes in Q4 2026】Tencent Cloud said at a World Artificial Intelligence Conference forum that, to minimize inference costs, it will deploy large-scale domestically produced compute capacity. The company expects to deploy NPO (near-package optics) supernodes in Q4 2026 and called for unified domestic and international NPO industry standards."
+    },
+    {
+      "id": "4999684",
+      "time": "2026-07-21 15:54:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三友醫療：擬以9000萬元-1.8億元回購公司股份】三友醫療公告，擬以9000萬元-1.8億元回購公司股份，回購價格不超過18.9元/股。"
+    },
+    {
+      "id": "4999683",
+      "time": "2026-07-21 15:54:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國退伍軍人紐約聯邦大樓外縱火 抗議移民執法暴行】當地時間7月20日，一名男子在美國紐約曼哈頓一棟聯邦政府辦公樓外縱火，被當場逮捕。這起事件造成包括平民和聯邦僱員在內的多人受輕傷。這棟大樓內設有聯邦調查局、移民與海關執法局等數十個聯邦機構的辦公場所。美國國土安全部稱，這是一起反對移民與海關執法局的襲擊。聯邦調查局確認，這名男子叫安德魯·阿拉巴薩，今年43歲，2001年至2005年在美國陸軍服役。目前，聯合反恐工作組已全面介入案件調查。本屆美國政府加大移民執法力度，在全美多地實施大規模搜查、逮捕、遣返非法移民行動，移民與海關執法局的暴力執法行動引發廣泛質疑和民眾抗議。本月早些時候，該機構執法人員一週內兩次打死外籍移民，引發新的抗議。（央視新聞）"
+    },
+    {
+      "id": "4999682",
+      "time": "2026-07-21 15:54:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【藥康生物：預計2026年上半年淨利潤同比增長46.67%至60.78%】藥康生物公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤1.04億元至1.14億元，與上年同期相比，將增加3309.45萬元至4309.45萬元，同比增加46.67%至60.78%。預計2026年半年度歸屬於母公司所有者的扣除非經常性損益的淨利潤9200萬元至1億元，與上年同期相比，將增加2907.46萬元至3707.46萬元，同比增加46.20%至58.92%。報告期內，公司錨定國際化和創新的核心戰略，一方面加快海外市場銷售網路的佈局和完善，另一方面持續加大研發資源投入，技術與產品的行業領先優勢得到進一步鞏固強化。"
+    },
+    {
+      "id": "4999681",
+      "time": "2026-07-21 15:54:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中關村：下屬公司利多卡因丁卡因乳膏獲臨床試驗批准】中關村公告，下屬公司北京華素 利多卡因丁卡因乳膏收到國家藥品監督管理局《藥物臨床試驗批准通知書》。藥品名稱為利多卡因丁卡因乳膏，規格為15g：利多卡因1,050mg與丁卡因1,050mg；30g：利多卡因2,100mg與丁卡因2,100mg。審批結論為同意開展用於成人皮膚手術前對完整皮膚的區域性麻醉的臨床試驗，並同意開展以參比製劑為對照的等效性臨床試驗，不再要求開展以考察PK特徵為目的的臨床試驗。"
+    },
+    {
+      "id": "4999680",
+      "time": "2026-07-21 15:54:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國和巴拿馬已就海運協定續簽達成共識？外交部回應】外交部發言人林劍主持例行記者會。會上，有記者提問稱，據巴拿馬方面訊息，中國和巴拿馬已經就海運協定續簽達成共識。請問中方能否介紹有關情況？另外關於巴拿馬籍船舶在中國港口被滯留的問題是否有新的進展？林劍表示，你問到的具體情況建議向中方的主管部門瞭解。我想在這裡強調的是，中方始終秉持平等相待、互利共贏的原則發展同巴拿馬的關係。中巴雙方加強各領域的交流合作，符合兩國的利益和兩國人民的共同期待。（環球網）"
+    },
     {
       "id": "4999679",
       "time": "2026-07-21 15:53:48",
