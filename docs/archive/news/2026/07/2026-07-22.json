@@ -1,7 +1,35 @@
 {
   "date": "2026-07-22",
-  "count": 319,
+  "count": 322,
   "items": [
+    {
+      "id": "5000898",
+      "time": "2026-07-22 04:58:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：我們不會再發動毫無意義的戰爭，我們無意改造伊朗社會。"
+    },
+    {
+      "id": "5000897",
+      "time": "2026-07-22 04:56:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）：預計今晚颶風強度幾乎不會發生變化，週三至週五將逐步減弱。"
+    },
+    {
+      "id": "mkt:019f8675-fafc-7aab-8e32-8b35e0362022",
+      "time": "2026-07-22 04:55:06",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Iranian state television, Iran's Supreme Joint Military Command said a US attack on Iran's nuclear facilities would be considered 'an escalation of regional war'."
+    },
     {
       "id": "5000896",
       "time": "2026-07-22 04:54:39",
