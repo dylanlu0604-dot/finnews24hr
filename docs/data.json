@@ -1,7 +1,91 @@
 {
-  "updated": "2026-07-21 08:12:42",
-  "count": 18998,
+  "updated": "2026-07-21 08:16:38",
+  "count": 18997,
   "items": [
+    {
+      "id": "4998635",
+      "time": "2026-07-21 08:15:18",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【全球首推第二代刀片電池、兆瓦閃充系統 工信部點尚比亞迪打破技術瓶頸】在國務院新聞辦公室7月20日舉辦的新聞釋出會上，深圳比亞迪公司全球首推的第二代刀片電池、兆瓦閃充系統，被工業和資訊化部特別提及並點贊“打破技術瓶頸”。 這項源自深圳企業比亞迪的重磅創新，並非單一產品突破，而是深圳全域加快推進“AI+能源”深度融合、構建新型智慧能源體系，從動力電池底層革新，到AI貫穿源網荷儲全鏈條，全方位助力新型能源體系“向智向新”的生動實踐。 今年3月，比亞迪釋出第二代刀片電池及閃充技術，實現電量從10%到70%僅需5分鐘，10%到97%需9分鐘，且零下30℃極寒環境仍保持穩定補能效率，徹底解決“電車不過山海關”的行業痛點。也讓“一杯咖啡，滿電出發”在深圳成為現實。（深圳特區報）"
+    },
+    {
+      "id": "te:markets:568333",
+      "time": "2026-07-21 08:14:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Steadies as Middle East Conflict Persists — Gold steadied near $4,000 an ounce on Tuesday but remained close to its lowest level in nine months as the ongoing conflict between the US and Iran kept investors focused on the risks of energy-driven inflation and the prospect of higher interest rates. US attacks on Iran entered a tenth consecutive day, with President Donald Trump warning that Iran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had put forward proposals aimed at easing tensions with the US following several days of fighting, while reports pointed to a possible 10-day ceasefire. US Treasury yields climbed sharply this week, with markets now pricing in about a 55% chance of a Federal Reserve rate hike in September, up from 51% a day earlier."
+    },
+    {
+      "id": "4998634",
+      "time": "2026-07-21 08:14:23",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經指數上漲1%，至64793.30點。"
+    },
+    {
+      "id": "mkt:019f8205-dbf7-7aab-8e16-9354cba0adfd",
+      "time": "2026-07-21 08:14:09",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 index rose as much as 1.00% intraday."
+    },
+    {
+      "id": "4998633",
+      "time": "2026-07-21 08:13:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國7月1-20日出口同比增長52.3% 半導體出口激增180.6%】週二公佈的初步資料顯示，韓國7月前20天的出口較上年同期增長52.3%。政府資料顯示，半導體出口激增180.6%，而汽車出口則下降了10.6%。從目的地來看，韓國7月對中國出口同比增長94.1%，對美國出口增長39.6%。"
+    },
+    {
+      "id": "4998632",
+      "time": "2026-07-21 08:13:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：執董會完成烏克蘭延長貸款安排的首次審議，並結束2026年第四條磋商。"
+    },
+    {
+      "id": "4998631",
+      "time": "2026-07-21 08:13:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "國際貨幣基金組織：評估完成後可向烏克蘭立即發放5.03億特別提款權（約合6.9億美元）。"
+    },
+    {
+      "id": "4998630",
+      "time": "2026-07-21 08:13:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【針對日本廠商停產高純六氟化鎢一事 臺積電回應：特種氣體供應渠道多元，生產不受衝擊】據報道，近期市場訊息稱，為臺積電等大型半導體企業供應電子氣體的日本特種氣體廠商中央硝子（Central Glass），將停止生產高純六氟化鎢（WF₆）。針對該訊息，臺積電於 20 日表態，預估此事不會對公司正常運營造成影響。臺積電公關部門昨日完整回應稱：“臺積電實行全球化採購佈局策略，持續推進多貨源供應體系，搭建多元化全球供應商網路。現階段我們判斷不會對公司運營帶來負面影響。”臺積電上下游供應鏈及相關供應商均表示，現階段鎢粉氣體原料不存在斷供風險，同時具備多種替代供貨方案，預計該事件對整個行業的衝擊十分有限。"
+    },
+    {
+      "id": "mkt:019f8204-75ea-7aab-8e16-8ee014a3cdef",
+      "time": "2026-07-21 08:12:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Chip pullback weighs on Asian equities; Australia outperforms】AI-driven trading has disrupted Asian equities in recent months, while Australia has shown relative resilience. The S&P/ASX 200 is set to outperform the MSCI Asia Pacific index for a second consecutive month, the longest streak since November 2024. Australia's limited exposure to chipmakers—once a drag during the AI rally—has insulated it as semiconductor stocks fall in Korea and Japan. The move highlights rising investor caution toward crowded AI trades and a rotation of flows into other markets."
+    },
     {
       "id": "4998628",
       "time": "2026-07-21 08:11:50",
@@ -174570,96 +174654,6 @@
         "焦點"
       ],
       "text": "布倫特原油突破85美元/桶，日內漲2.06%。"
-    },
-    {
-      "id": "mkt:019f5dfb-6b94-7aab-8d66-ae1503d273a2",
-      "time": "2026-07-14 08:16:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude rose as much as 2.00% intraday to $84.47/bbl."
-    },
-    {
-      "id": "4985541",
-      "time": "2026-07-14 08:16:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲2%，現報79.71美元/桶。"
-    },
-    {
-      "id": "mkt:019f5dfa-b87a-7aab-8d66-a4b281ec272c",
-      "time": "2026-07-14 08:15:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Huatai Securities: KOSPI medium-to-long-term trend still hinges on industry fundamentals】Huatai Securities says KOSPI's >20% pullback from the June 19 peak through July 10 was not driven by fundamentals; FactSet consensus EPS for 2026E and 2027E were revised up 3.15% and 6.05% over that period. The current pressure stems from high index concentration and leverage, which raise volatility; marginal tightening in USD liquidity and a tougher Korean regulatory stance on leveraged trading can structurally amplify even small moves. Near-term risks include product redemption pressure and the implementation of regulatory measures. Over the medium-to-long term, KOSPI's direction still depends on industry fundamentals."
-    },
-    {
-      "id": "4985540",
-      "time": "2026-07-14 08:15:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！北部灣軍事訓練】據中國海事局網站訊息，北海海事局釋出航行警告，7月14日至7月16日每日9時至18時，北部灣部分海域進行軍事訓練，禁止船舶駛入。"
-    },
-    {
-      "id": "4985539",
-      "time": "2026-07-14 08:14:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "紐西蘭商務部長尋求對資本市場規則進行現代化改革。"
-    },
-    {
-      "id": "4985538",
-      "time": "2026-07-14 08:13:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國金融市場協會（KFIFA）資料顯示，66%的債券市場參與者預計韓國央行將在7月上調基準利率。"
-    },
-    {
-      "id": "4985537",
-      "time": "2026-07-14 08:13:10",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：產能去化加速，豬週期或築底向上】華泰證券研報表示，7月9日，Wind行業生豬價格由6月平均9.6元/公斤平臺反彈至11.3元/公斤，且湧益諮詢披露6月產能資料，顯示26Q2行業產能去化加速，此外，正邦科技釋出公告，預計廣西洪澇災害造成的公司資產損失或超過公司25年淨利潤的10%，印證了異常天氣對行業被動去產能的作用。我們認為，產能去化加速與中長期豬價築底回升趨勢逐漸明確，生豬養殖板塊或迎配置時點。"
-    },
-    {
-      "id": "mkt:019f5df8-37b6-7aab-8d66-9ffa069c983b",
-      "time": "2026-07-14 08:12:55",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS"
-      ],
-      "text": "Seoul's KOSPI quickly moved back into positive territory in early trade after earlier falling more than 2%; SK Hynix was trading around flat."
-    },
-    {
-      "id": "4985536",
-      "time": "2026-07-14 08:12:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國首爾綜指收復失地，稍早一度跌2.5%。"
-    },
-    {
-      "id": "4985535",
-      "time": "2026-07-14 08:12:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【新加坡第二季度經濟增長放緩】新加坡第二季度經濟增長放緩，中東緊張局勢拖累了化工和生物醫藥製造業。週二公佈的初步預估資料顯示，新加坡第二季度國內生產總值(GDP)同比增長5.7%。該增速低於第一季度經修正後的6.3%，但高於媒體調查的經濟學家預測的5.3%的中值。經季節性調整後，該國經濟環比增長1.1%，第一季度經修正後的增幅為1.3%。接受調查的經濟學家此前預期為增長1.0%。新加坡貿易與工業部表示，該增長主要受電子和精密工程領域產出增加的推動，同時與人工智慧(AI)相關的半導體和半導體制造裝置需求強勁。該部補充稱，但化工和生物醫藥製造產業叢集出現萎縮，其中前者受到中東衝突導致的原料供應中斷的衝擊。"
     }
   ]
 }
