@@ -1,7 +1,277 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-22 05:29:59_
-_本檔包含 3827 則快訊，約 691115 字_
+_更新時間：2026-07-22 06:31:10_
+_本檔包含 3835 則快訊，約 690922 字_
+
+---
+
+### 2026-07-22 06:30:09  #Trading Economics #Markets #Commodity #Importance 1
+
+Energy Commodities Updates: Methanol Drops by 4.18% — Top commodity losers are Methanol (-4.18%) and Coking Coal (-1.10%). Gains are led by Naphtha (3.75%), Crude Oil WTI (2.64%) and Brent Crude Oil (2.61%).
+
+---
+
+### 2026-07-22 06:27:19  #宏觀 #焦點 #國際
+
+【白宮擬重調配數十億美元科研資金投向人工智慧，削減高校資助】特朗普政府計劃加速推進聯邦科研體系改革，加大對獨立科研人員與人工智慧研究的扶持力度，減少面向高校的資助。這是美方為加快技術突破、應對中國競爭採取的最新舉措。相關草案顯示，白宮科學和技術政策辦公室將於週二釋出一份新報告及備忘錄，資助獨立科研人員，能夠助力美國更快將人工智慧應用於科研工作。在特朗普第二任期剩餘時間內，該辦公室出臺的相關指令，將指導全美規模約2000億美元年度聯邦研發預算的分配方向。這份新指引或將進一步衝擊依賴聯邦科研經費的大型高校。
+
+---
+
+### 2026-07-22 06:27:12  #MKT News #Important #Market Themes #Chip Wars #SKHY.O #Impact bullish #INTC.O
+
+【SK Hynix in talks to buy Intel Ohio campus to produce memory chips in US】South Korea’s JoongAng Ilbo reports SK Hynix (SKHY.O) is negotiating to acquire Intel’s (INTC.O) large semiconductor campus in Ohio, aiming to start front-end production of memory chips at the site within five years. SK Hynix is conducting internal reviews and seeking required government approvals; price and timing are still being worked out. If completed, the deal would help SK Hynix meet U.S. domestic-production requirements and provide cash relief to Intel’s strained foundry business.
+
+---
+
+### 2026-07-22 06:24:02  #公司 #國際
+
+【美國議員要求美國證券交易委員會調查Truth Social資料商業化方案】紐約州民主黨聯邦眾議員裡奇·託雷斯已致函美國證券交易委員會，要求其調查Truth Social母公司向華爾街機構出售特朗普總統帖文實時訪問許可權的計劃是否違反聯邦證券法。這封信函意味著監管層對特朗普媒體科技集團（TMTG）計劃的審查進一步升級。該集團打算向機構投資者出售優先獲取特朗普具備市場影響力社交帖文的許可權，以此變現。特朗普媒體科技集團推出全新產品Truth API，計劃於8月1日正式上線，該介面可實時調取平臺熱度前十賬號的公開帖文。集團高管對外推介這項服務，最高收取每月10萬美元授權費。集團臨時執行長凱文·麥格恩表示，未來只要客戶願意支付更高費用，該介面可擴容支援更多賬號的資料調取。
+
+---
+
+### 2026-07-22 06:22:45  #MKT News
+
+【White House plans to shift federal R&D funding toward AI and individual scientists】The White House plans to accelerate federal research reform, redirecting more R&D funding toward AI applications and individual investigators rather than primarily to universities, according to a draft report and memos seen by the Wall Street Journal. The Office of Science and Technology Policy is expected to release guidance on Tuesday that would influence roughly $200 billion of annual federal R&D spending and steer allocations through the remainder of the Trump administration. The administration says it will prioritize funding mechanisms aimed at individual researchers—scholarships, prize programs and investigator awards—over direct university block grants; cited demonstration programs include NSF graduate-level initiatives and NIH awards for innovative scientists.
+
+---
+
+### 2026-07-22 06:20:55  #國際
+
+美國議員要求SEC 調查特朗普旗下的Truth Social資料商業化計劃。
+
+---
+
+### 2026-07-22 06:20:37  #MKT News #DJT.O #Impact bearish
+
+U.S. lawmakers have asked the SEC to investigate Trump Media & Technology Group (DJT.O) over plans to commercialize data access on Truth Social, Axios reported. Earlier reports said the company plans to launch a Truth API on Aug. 1 that would sell real-time access to public posts from the platform’s top-10 accounts.
+
+---
+
+### 2026-07-22 06:18:42  #其他
+
+中際旭創擬在港上市，最高募資70億美元。
+
+---
+
+### 2026-07-22 06:16:04  #其他
+
+SK海力士正洽談收購英特爾俄亥俄州晶片廠區。
+
+---
+
+### 2026-07-22 06:15:09  #Trading Economics #Markets #Currency #Importance 1
+
+FX Updates: Brazilian Real Rises by 0.61% — Top currency gainers are Brazilian Real (0.61%), Norwegian Krone (0.43%) and Dollar Index (0.25%). Biggest losers are Japanese Yen (-0.42%), British Pound (-0.41%), Swiss Franc (-0.32%) and Euro (-0.13%).
+
+---
+
+### 2026-07-22 06:13:15  #其他
+
+中際旭創香港IPO最高發行價定在每股1010港元。
+
+---
+
+### 2026-07-22 06:11:58  #其他
+
+【公募二季度盈利近2萬億元 多隻產品首次披露長期業績】天相投顧資料顯示，2026年二季度公募基金合計盈利19390.35億元，一舉扭轉一季度虧損2029.42億元的局面，權益類產品在其中起到了關鍵作用。不僅如此，成立期限滿足相關要求的基金在2026年二季報中首度披露過去7年、10年的長期業績。在業內人士看來，此舉有助於強化長期投資、價值投資理念，從而有效提升投資者獲得感。（上證報）
+
+---
+
+### 2026-07-22 06:10:01  #公司
+
+【半年報預喜率超44% 機構淨買入多隻科技股】近期A股上市公司半年度業績預告持續披露。截至發稿，近1800家A股公司釋出了上半年業績預告，預喜比例超44%，電子、化工、有色板塊表現突出。 多位券商首席經濟學家表示，當前市場寬幅震盪更多源於情緒波動，我國經濟基本面與科技創新發展趨勢保持穩健，A股中長期配置價值不變。（證券時報）
+
+---
+
+### 2026-07-22 06:09:41  #其他
+
+【私募規模23.66萬億創歷史新高 單月發行額年內第3次突破千億元】7月20日，中國證券投資基金業協會發布最新一期《私募基金管理人登記及產品備案月報》。資料顯示，截至2026年6月末，私募基金存續規模達到23.66萬億元，再度重新整理歷史紀錄，連續9個月創出歷史新高。其中，私募證券基金存續規模首次突破8萬億元。 與此同時，私募發行端持續火熱。6月份，全市場新備案私募基金規模達1091.67億元，繼今年2月、3月之後，再度突破千億元大關，單月備案產品數量也重新站上2000只。
+
+---
+
+### 2026-07-22 06:08:12  #公司 #市場
+
+【7月以來機構調研375家公司 電子行業業績亮眼備受青睞】7月以來，A股上市公司陸續披露 2026年半年度業績預告，機構調研熱度顯著升溫，受AI賦能的電子行業成長優勢突出，成為機構重點調研賽道。據統計，7月以來，共有375家上市公司獲機構調研，其中，新易盛、京東方A、華燦光電、華勤技術等22家公司獲50家以上機構調研。具體來看，新易盛獲417家機構調研，居首。京東方A獲243家機構調研，居次席。上述22家獲機構密集調研公司7月以來股價平均下跌22.86%，其中燕京啤酒、天壕能源、華勤技術和立中集團股價上漲，累計漲幅分別為24.49%、9.77%、7.31%和3.52%。統計顯示，上述機構調研公司中，112家已釋出2026年半年度業績相關公告。按業績快報淨利潤、業績預告淨利潤下限順序計算，13家預計扭虧為盈、2家同比減虧、67家歸母淨利潤實現同比增長，報喜比例超過七成。(證券時報)
+
+---
+
+### 2026-07-22 06:06:49  #公司 #國際
+
+肯德基日本公司：在日冷食品遭遇網路攻擊後，業務運營已恢復正常。
+
+---
+
+### 2026-07-22 06:03:43  #央行 #國際
+
+【美聯儲7月維持利率不變的機率74.9%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為74.9%，累計加息25個基點的機率為25.1%。 美聯儲到9月維持利率不變的機率為28.9%，累計加息25個基點的機率為55.7%，累計加息50個基點的機率為15.4%。
+
+---
+
+### 2026-07-22 06:02:25  #國際
+
+美國擬調整科研資金投向，從高校撤出資金、轉而投入人工智慧領域，計劃調撥數十億美元資金投向人工智慧。
+
+---
+
+### 2026-07-22 06:01:46  #MKT News #NVDA.O #Impact bullish #MSFT.O #S&P500
+
+According to the Wall Street Journal, the White House plans to redirect tens of billions of dollars in research funding from U.S. universities to artificial intelligence, cutting federal support for higher-education research.
+
+---
+
+### 2026-07-22 06:01:34  #其他
+
+白宮擬為科研人員申請2000億美元研發預算。
+
+---
+
+### 2026-07-22 06:00:47  #MKT News #Market Themes #AI Revolution
+
+The Wall Street Journal reports officials say the Trump administration plans to de-emphasize universities in federal scientific research and instead prioritize artificial intelligence.
+
+---
+
+### 2026-07-22 05:59:17  #其他
+
+中央氣象臺7月22日06時繼續釋出暴雨黃色預警。
+
+---
+
+### 2026-07-22 05:59:02  #其他
+
+中央氣象臺7月22日06時釋出高溫黃色預警。
+
+---
+
+### 2026-07-22 05:58:47  #市場
+
+【淡水河谷鐵礦石產量超預期，維持全年產量指引】全球頭部鐵礦石生產商淡水河谷第二季度鍊鋼原料鐵礦石產量高於市場預期，銅產量同步增長。截至6月30日的三個月內，鐵礦石總產量達8426萬噸，環比上升21%，同比小幅上漲近1%。分析師此前預期產量為8384萬噸。競爭對手力拓在澳大利亞氣旋災害影響消退後，同期產出8880萬噸鐵礦石。這家大型鐵礦石礦企維持全年鐵礦石產量目標不變，區間為3.35億–3.45億噸。
+
+---
+
+### 2026-07-22 05:58:25  #其他
+
+【科威特稱遭無人機襲擊 】當地時間22日凌晨，科威特武裝部隊釋出訊息稱，科方防空系統“正在”應對無人機襲擊。
+
+---
+
+### 2026-07-22 05:58:13  #其他
+
+中央氣象臺7月22日06時繼續釋出強對流天氣黃色預警。
+
+---
+
+### 2026-07-22 05:53:47  #其他
+
+英國首相伯納姆任命露西·裡格比為倫敦金融城事務部長。
+
+---
+
+### 2026-07-22 05:53:25  #國際
+
+科威特軍方：伊朗發起襲擊後，本國防空部隊正在攔截無人機。居民聽到的任何爆炸聲，均是防空系統攔截無人機所產生。
+
+---
+
+### 2026-07-22 05:52:56  #國際
+
+特朗普：希望國際足聯主席因凡蒂諾出任下一任聯合國秘書長。
+
+---
+
+### 2026-07-22 05:50:35  #MKT News #Market Themes #The Trump Trade #LMT.O #Impact bullish #NOC.O #RTX.O
+
+Federal Communications Commission says the Trump administration is considering a ban on imports of military-grade drones.
+
+---
+
+### 2026-07-22 05:50:21  #焦點 #國際
+
+特朗普政府正考慮禁止軍用級無人機進口。
+
+---
+
+### 2026-07-22 05:50:21  #MKT News
+
+【Zelenskiy names Mykhailo Drapat as commander of Ukraine's armed forces】Ukrainian President Zelenskiy said on the evening of the 21st he has decided to appoint Mykhailo Drapat to replace Alexander Syrskyi as commander-in-chief of Ukraine's armed forces. Zelenskiy said he discussed changes to the general staff with Drapat, acting defence minister Yevhen Khmara and deputy head of the presidential office Pavlo Palisa; he expects all decisions to be finalised on the 22nd. Drapat has recently served as commander of the ground forces and commander of the Joint Forces.
+
+---
+
+### 2026-07-22 05:47:35  #其他
+
+淡水河谷：第二季度銅產量為9.84萬噸。
+
+---
+
+### 2026-07-22 05:47:27  #其他
+
+淡水河谷：第二季度銅銷量為9.76萬噸。
+
+---
+
+### 2026-07-22 05:47:20  #其他
+
+淡水河谷：第二季度鎳銷量為4.44萬噸。
+
+---
+
+### 2026-07-22 05:47:06  #MKT News #VALE.N #Impact bullish
+
+Brazilian miner Vale said Q2 iron-ore production was 84.30 mln t, versus Visible Alpha estimate 82.20 mln t. Q2 iron-ore shipments were 79.70 mln t, versus Visible Alpha 78.20 mln t.
+
+---
+
+### 2026-07-22 05:46:29  #市場
+
+淡水河谷第二季度鐵礦石粉礦平均實現價格為每噸95美元。
+
+---
+
+### 2026-07-22 05:46:15  #市場
+
+淡水河谷第二季度鐵礦石銷量為7970萬噸，市場普遍預期為7820萬噸。
+
+---
+
+### 2026-07-22 05:46:06  #市場
+
+淡水河谷二季度鐵礦石產量為8430萬噸，市場預期為8220萬噸。
+
+---
+
+### 2026-07-22 05:45:46  #其他
+
+葉門實施海上封鎖，迫使六艘船隻折返。
+
+---
+
+### 2026-07-22 05:43:21  #MKT News #Market Themes #Chip Wars #005930.KS #Impact bullish #000660.KS
+
+【Korean media: Wealthy investors buy Samsung, SK Hynix single-stock leveraged ETFs】Seoul Economic Daily, citing a major broker’s analysis of 25,000 high-net-worth investors (≥10 bln won in financial assets) from May 27–July 10, reports concentrated net buying of Samsung Electronics and SK Hynix single-stock leveraged ETFs. Net purchases were: KODEX SK Hynix Single-Stock Leverage ETF 178.1 bln won, TIGER SK Hynix Single-Stock Leverage ETF 140.1 bln won, and KODEX Samsung Electronics Single-Stock Leverage ETF 116.6 bln won. The other two names in the top-five net-buys were ordinary shares of Samsung Electronics and SK Hynix, signaling wealthy investors are heavily overweight Korea’s two large chip names; retail buyers in their 40s were the largest cohort buying these single-stock leveraged ETFs.
+
+---
+
+### 2026-07-22 05:41:06  #國際
+
+科威特軍方稱其防空部隊目前正在攔截伊朗無人機。
+
+---
+
+### 2026-07-22 05:41:05  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Kuwait's military says its air-defence system is currently intercepting Iranian drones.
+
+---
+
+### 2026-07-22 05:35:01  #國際
+
+【以軍空襲加沙造成至少12人死亡】據巴勒斯坦通訊社21日報道，以色列軍隊當天對加沙地帶多處地點發動空襲，造成至少12名巴勒斯坦人死亡，另有多人受傷。報道稱，以軍當天空襲加沙城中心一處公寓樓，造成4人死亡、多人受傷；對加沙地帶中部努賽賴特難民營一輛汽車發動空襲，造成2人死亡、4人受傷。
+
+---
+
+### 2026-07-22 05:32:37  #市場
+
+【中國醫藥控股在美股市場一度暴漲逾2000% 收盤升幅仍近八倍】中國醫藥控股週二在美股市場一度飆升逾2000%，創下紀錄最大漲幅。盤中股價最高達19.19美元，收盤上漲790%，達到2023年9月1日以來最高位，當天成交量為三個月日均值的3643%。
 
 ---
 
@@ -22825,227 +23095,5 @@ Mexican drug lord Ismael "El Mayo" Zambada was sentenced to life in prison in th
 ### 2026-07-20 23:11:33  #MKT News #Important
 
 IRNA reports Iran's foreign minister Araghchi will travel to Pakistan.
-
----
-
-### 2026-07-20 23:10:37  #MKT News #GBPUSD #FTSE100
-
-【Burnham to seek flexibility within UK fiscal rules】New UK prime minister Andy Burnham said he will seek to use the flexibility available within existing UK fiscal rules to fund the next budget. Asked whether he would increase borrowing to boost infrastructure investment, he said he would comply with current rules and make full use of any flexibility they permit. He added this would not put the UK economy at risk, said he has not taken such risks in prior roles, and described his approach as cautious. Burnham said he will set out funding sources and financing arrangements clearly in the budget.
-
----
-
-### 2026-07-20 23:08:43  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Holds At $88 — Brent crude oil steadied around $88 per barrel on Monday, hovering at a five-week high, after swinging sharply between gains and losses as traders weighed escalating Middle East tensions against renewed diplomatic efforts. Yemen's Iran-backed Houthi rebels announced a ban on maritime traffic from Saudi Arabia, raising concerns over Red Sea energy shipments, while recent attacks on oil tankers and facilities in Kuwait kept supply risks elevated. At the same time, reports suggested mediators had proposed a 10-day pause in hostilities between the US and Iran to revive their fragile interim peace agreement. Iran also confirmed it had received diplomatic proposals aimed at easing the conflict. Still, shipping through the Strait of Hormuz remained severely disrupted after fresh attacks on commercial vessels. Beyond the Middle East, supply concerns intensified after drone strikes again halted oil loading at Russia's Caspian Pipeline Consortium terminal on the Black Sea.
-
----
-
-### 2026-07-20 23:08:15  #MKT News #Macro & Rates #GBPUSD #Impact bullish
-
-UK 30-year gilt yield climbed 9bp to 5.75%, the highest since May 20.
-
----
-
-### 2026-07-20 23:07:59  #MKT News #Important #Market Regions #Europe & UK #GBPUSD
-
-GBP/USD slid about 20 pips in a short move, now 1.3423.
-
----
-
-### 2026-07-20 23:07:57  #Trading Economics #Markets #Commodity #Importance 2
-
-Oil Hovers at 5-Week High — Crude oil steadied around $82.5 per barrel on Monday, hovering at a five-week high, after swinging sharply between gains and losses as traders weighed escalating Middle East tensions against renewed diplomatic efforts. Yemen's Iran-backed Houthi rebels announced a ban on maritime traffic from Saudi Arabia, raising concerns over Red Sea energy shipments, while recent attacks on oil tankers and facilities in Kuwait kept supply risks elevated. At the same time, reports suggested mediators had proposed a 10-day pause in hostilities between the US and Iran to revive their fragile interim peace agreement. Iran also confirmed it had received diplomatic proposals aimed at easing the conflict. Still, shipping through the Strait of Hormuz remained severely disrupted after fresh attacks on commercial vessels. Beyond the Middle East, supply concerns intensified after drone strikes again halted oil loading at Russia's Caspian Pipeline Consortium terminal on the Black Sea.
-
----
-
-### 2026-07-20 23:07:49  #市場
-
-英鎊兌美元重新整理日低，跌0.2%暫報1.3427。
-
----
-
-### 2026-07-20 23:07:39  #市場 #焦點
-
-英國30年期國債收益率上漲9個基點至5.75%，為2020年5月以來最高水平。
-
----
-
-### 2026-07-20 23:07:06  #其他
-
-靛藍航空與CFM國際簽署諒解備忘錄，為採購超千臺LEAP-1A發動機的創紀錄合作協議鋪路。
-
----
-
-### 2026-07-20 23:06:21  #MKT News #AIR.PA #Impact bullish
-
-Mitsui Sumitomo Financial Leasing has agreed to buy 65 Airbus A321neo and 35 A320neo aircraft, totaling 100 narrow-body jets.
-
----
-
-### 2026-07-20 23:06:03  #其他
-
-【英國內閣改組大幕拉開，多位大臣相繼辭職】英國住房大臣裡德、副首相拉米、財政大臣裡夫斯、商務大臣凱爾相繼辭職。其中裡夫斯據悉收到政府的另一份工作邀請，但已拒絕。此前英國執政黨工黨新任黨首安迪·伯納姆獲國王任命成為新一任首相，並被授權組建新一屆內閣。英國衛報政治主編髮文指出，（英國內閣改組的）序幕已經拉開。基爾·斯塔默的親密盟友史蒂夫·裡德成為首位離職的內閣大臣。但他在離開之際還不忘就工黨的（不）忠誠問題發出臨別抨擊。“基爾·斯塔默任命我進入內閣，以此展現了他的信任與忠誠。我選擇回饋這份忠誠，對此我毫不抱歉。這本應是一個良性運轉的團隊所應有的默契。我只希望，那些此前未曾對基爾表現出忠誠的人，如今能夠將這份忠誠轉向你。”
-
----
-
-### 2026-07-20 23:06:02  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bearish #FTSE100
-
-【UK cabinet reshuffle under way as multiple ministers resign】Housing Secretary Steve Reed, Deputy Prime Minister David Lammy, Chancellor Rachel Reeves and Business Secretary Kyle have resigned. Reeves reportedly declined an alternative government post offered to her. The King has appointed Labour leader Andy Burnham as prime minister and authorised him to form a new cabinet. Reed, described as a close ally of Keir Starmer, was the first to leave and on departure attacked perceived disloyalty within the party, saying Starmer had appointed him as a show of trust which he repaid and urging those who had not shown loyalty to Starmer to shift it to Burnham.
-
----
-
-### 2026-07-20 23:05:45  #MKT News #AF.PA #Impact bearish
-
-Air France suspends flights to and from Riyadh through July 24 and to and from Dubai through July 27.
-
----
-
-### 2026-07-20 23:05:21  #國際
-
-【伊朗稱打擊多處美軍事目標 最新畫面公佈】當地時間7月20日，伊朗伊斯蘭革命衛隊釋出當天打擊多處美軍事目標的影片畫面。第一段影片畫面顯示，20日凌晨，伊朗發射導彈打擊美軍位於約旦和科威特的目標。第二段影片畫面顯示，伊朗海軍同時從三個方向對美軍發動猛烈打擊。（央視新聞）
-
----
-
-### 2026-07-20 23:05:02  #其他 #焦點
-
-三井住友金融租賃向空客採購65架A321NEO、35架A320NEO客機。
-
----
-
-### 2026-07-20 23:04:46  #其他
-
-法航暫停往返迪拜的航班，直至7月27日（含當日）。
-
----
-
-### 2026-07-20 23:04:18  #其他
-
-法航暫停往返利雅得的航班至7月24日（含當日）。
-
----
-
-### 2026-07-20 23:03:50  #央行 #英國央行
-
-【英國10年期國債收益率升至自7月14日以來最高位】英國10年期國債收益率升至自7月14日以來最高位，達到5.025%，盤中上漲7個基點。
-
----
-
-### 2026-07-20 23:03:49  #Trading Economics #Economy #Switzerland #Government Bond 10Y #Importance 0
-
-Swiss 10-Year Yield Near 2-Month High — Switzerland's 10-year government bond yield rose above 0.45%, further increasing to a near two-month high, as escalating tensions in the Middle East lifted inflation expectations. Oil prices surged amid intensifying hostilities between the US and Iran, raising energy costs and prompting markets to reassess the outlook for inflation, economic growth, and monetary policy. The Swiss National Bank left its key policy rate unchanged at 0% at its latest meeting, expecting inflation to remain little changed in the medium term. However, meeting minutes highlighted that policymakers see rising geopolitical tensions as a near-term inflation risk. The SNB also reiterated its willingness to intervene in the foreign exchange market to counter excessive franc appreciation and preserve price stability, while the IMF urged the central bank to remain cautious should a stagflation scenario emerge.
-
----
-
-### 2026-07-20 23:03:40  #其他
-
-英國財政大臣裡夫斯獲邀出任政府其他職務，但她予以拒絕。
-
----
-
-### 2026-07-20 23:03:25  #其他
-
-美元指數DXY突破101，日內漲0.25%。
-
----
-
-### 2026-07-20 23:03:19  #MKT News #Market Regions #Europe & UK #GBPUSD #Impact bullish
-
-UK 10-year gilt yield rose to 5.025%, the highest since July 14, up 7 bps intraday.
-
----
-
-### 2026-07-20 23:03:13  #國際
-
-市場訊息：以色列高階官員表示，以色列國防軍將於當地時間週二從黎巴嫩南部的試點區域撤出。
-
----
-
-### 2026-07-20 23:03:09  #MKT News
-
-UK Chancellor Reeves was offered another government post but declined.
-
----
-
-### 2026-07-20 23:03:02  #市場
-
-英國10年期國債收益率升至7月14日以來新高，報5.025%，單日上漲7個基點。
-
----
-
-### 2026-07-20 23:02:25  #其他
-
-巴林內政部表示，巴林第五次響起警報。
-
----
-
-### 2026-07-20 23:01:52  #MKT News #Market Regions #Europe & UK
-
-UK Prime Minister Burnham said he will use all flexibility available within the UK's fiscal rules.
-
----
-
-### 2026-07-20 23:01:06  #MKT News #GBPUSD #Impact bullish #FTSE100
-
-UK Prime Minister Burnham said he would never take risks with the economy and reiterated his commitment to adhering to fiscal rules.
-
----
-
-### 2026-07-20 23:00:57  #MKT News #Important #Market Regions #Greater China #Commodities #Energy #WTI #Impact bearish #Brent
-
-As of the 23:00 close, China's main futures contracts were mostly lower. Low-sulfur fuel oil (LU) slid nearly 3%; coking coal, p-xylene, PTA and coke fell over 2%; bottle-grade PET chips dropped about 2%; short fiber and fuel oil eased more than 1%. Soybean meal, rapeseed meal and Soybean No.2 rose over 1%.
-
----
-
-### 2026-07-20 23:00:55  #央行 #英國央行
-
-英國新任首相伯納姆表示，他將在英國財政規則範圍內運用“任何靈活性”。
-
----
-
-### 2026-07-20 23:00:52  #MKT News
-
-UK Prime Minister Burnham pledged to use "political capital" to address social care issues.
-
----
-
-### 2026-07-20 23:00:47  #MKT News #GBPUSD #Impact mixed #FTSE100
-
-UK Prime Minister Burnham said he is considering adjusting the income threshold for the personal tax allowance, saying the change would have significant impact.
-
----
-
-### 2026-07-20 23:00:34  #其他
-
-【英國前財政大臣蕾切爾·裡夫斯發文告別 回顧執政成就並祝福新政府 】隨著英國新任首相安迪·伯納姆正式組建新一屆內閣，剛剛卸任的英國財政大臣蕾切爾·裡夫斯（Rachel Reeves）在社交媒體上發表長文，深情回顧了自己擔任財政大臣期間的施政成績，並對繼任者表達了祝福。裡夫斯在文中表示，擔任財政大臣是她一生中的榮幸。她指出，在過去兩年裡，工黨政府所作出的選擇，使得當下的英國經濟變得更加強大、公平且更具韌性。她強調，國家已經恢復了穩定，實現了投資落地，並正在推進經濟改革。裡夫斯回憶道，她在就任財政大臣時曾承諾，將以“普通工薪階層民眾的生活是否得到改善”作為衡量自己任期成敗的標準。她自豪地表示，這一目標已經實現。此外，她還特別寄語每一位年輕女性與女孩，希望她在任內的經歷能夠向她們證明，在追求抱負、希望與夢想時不應設有任何“天花板”。最後，裡夫斯向繼任者安迪·伯納姆及其新一屆內閣致以最美好的祝願。她表示，自己將全力支援新政府，並承諾將繼續發揮自己的作用，協助工黨政府落實國家亟需的變革。
-
----
-
-### 2026-07-20 23:00:19  #其他
-
-伯納姆稱，他將在英國財政規則框架內動用一切可用靈活調整空間。
-
----
-
-### 2026-07-20 23:00:05  #Trading Economics #Markets #Currency #Importance 1
-
-FX Updates: Brazilian Real Appreciates by 0.81% — Top currency gainers are Brazilian Real (0.81%), South Korean Won (0.52%), Mexican Peso (0.30%) and Dollar Index (0.23%). Biggest losers are Swedish Krona (-0.47%), Swiss Franc (-0.35%), Norwegian Krone (-0.33%), Euro (-0.29%), British Pound (-0.10%) and Japanese Yen (-0.09%).
-
----
-
-### 2026-07-20 23:00:02  #市場
-
-【夜盤期貨收盤】低硫燃料油連續跌2.95%，焦煤連續跌2.73%，PTA連續跌2.29%，焦炭連續跌2.23%，液化石油氣連續跌1.96%。
-
----
-
-### 2026-07-20 23:00:00  #公司 #觀點
-
-摩根大通將哈特福德保險集團的目標股價從每股149.00美元上調至每股152.00美元道，維持哈特福德保險的“中性”評級。
-
----
-
-### 2026-07-20 22:59:29  #MKT News #Important
-
-Bahrain's Interior Ministry said the national alert siren sounded for the fifth time.
 
 ---
