@@ -1,7 +1,65 @@
 {
   "date": "2026-07-21",
-  "count": 1024,
+  "count": 1030,
   "items": [
+    {
+      "id": "4999084",
+      "time": "2026-07-21 10:28:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "科創晶片股日內震盪回升，華虹宏力漲超10%，傑華特、沐曦股份、東芯股份、寒武紀、中芯國際等快速衝高。"
+    },
+    {
+      "id": "mkt:019f827e-c14c-7aab-8e19-cfe159a4a744",
+      "time": "2026-07-21 10:26:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Huahong Hongli’s A- and H-shares surged; A-shares rose over 10% on the mainland while H-shares gained more than 7% in Hong Kong."
+    },
+    {
+      "id": "4999083",
+      "time": "2026-07-21 10:26:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "華虹宏力盤中漲超10%。"
+    },
+    {
+      "id": "mkt:019f827e-0463-7aab-8e19-c41c93a0c516",
+      "time": "2026-07-21 10:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Composite Index turned positive; component stocks Shenzhou Information and Jiu'an Medical both hit the daily price limit."
+    },
+    {
+      "id": "4999082",
+      "time": "2026-07-21 10:25:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "深證成指轉漲；成分股中，神州資訊、九安醫療雙雙漲停。"
+    },
+    {
+      "id": "4999081",
+      "time": "2026-07-21 10:25:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "科創50指數轉漲。"
+    },
     {
       "id": "4999080",
       "time": "2026-07-21 10:23:15",

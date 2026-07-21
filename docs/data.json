@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-21 10:25:26",
-  "count": 19170,
+  "updated": "2026-07-21 10:29:22",
+  "count": 19166,
   "items": [
+    {
+      "id": "4999084",
+      "time": "2026-07-21 10:28:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "科創晶片股日內震盪回升，華虹宏力漲超10%，傑華特、沐曦股份、東芯股份、寒武紀、中芯國際等快速衝高。"
+    },
+    {
+      "id": "mkt:019f827e-c14c-7aab-8e19-cfe159a4a744",
+      "time": "2026-07-21 10:26:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "Huahong Hongli’s A- and H-shares surged; A-shares rose over 10% on the mainland while H-shares gained more than 7% in Hong Kong."
+    },
+    {
+      "id": "4999083",
+      "time": "2026-07-21 10:26:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "華虹宏力盤中漲超10%。"
+    },
+    {
+      "id": "4999082",
+      "time": "2026-07-21 10:25:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "深證成指轉漲；成分股中，神州資訊、九安醫療雙雙漲停。"
+    },
+    {
+      "id": "mkt:019f827e-0463-7aab-8e19-c41c93a0c516",
+      "time": "2026-07-21 10:25:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CNH",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Shenzhen Composite Index turned positive; component stocks Shenzhou Information and Jiu'an Medical both hit the daily price limit."
+    },
+    {
+      "id": "4999081",
+      "time": "2026-07-21 10:25:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "科創50指數轉漲。"
+    },
     {
       "id": "4999080",
       "time": "2026-07-21 10:23:15",
@@ -176083,92 +176141,6 @@
         "公司"
       ],
       "text": "【傑華特在北京成立積體電路新公司】企查查APP顯示，近日，傑華特積體電路（北京）有限公司成立，註冊資本1億元，經營範圍包含：積體電路製造；積體電路設計；積體電路晶片及產品製造；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由傑華特全資持股。"
-    },
-    {
-      "id": "te:economy:566588",
-      "time": "2026-07-14 10:28:46",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Japan 10-Year Yield Resumes Decline — Japan’s 10-year government bond yield fell to around 2.75% on Tuesday, extending Friday’s decline after Finance Minister Satsuki Katayama said the country’s massive pension fund would adjust its holdings if necessary, while proposing the inclusion of government bonds in a tax-free investment program for individual investors. Her remarks followed media reports that Tokyo had no immediate plans to alter the asset allocation of its state pension funds, easing expectations of near-term support for domestic assets. Japanese government bonds have faced sustained selling pressure this year amid growing concerns over the country’s fiscal expansion plans and persistent inflationary pressures. The government recently unveiled a draft roadmap outlining more than ¥370 trillion in public and private investment by fiscal 2040 across 17 strategic sectors identified as priorities by the Takaichi administration."
-    },
-    {
-      "id": "4985800",
-      "time": "2026-07-14 10:28:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數擴大跌幅，最新下跌1.02%，報66,556.61點。"
-    },
-    {
-      "id": "4985799",
-      "time": "2026-07-14 10:28:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "訊息人士透露，長鑫儲存將於7月27日在上海證券交易所掛牌上市。"
-    },
-    {
-      "id": "4985798",
-      "time": "2026-07-14 10:27:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "軟銀推出基於OPENAI技術的網路安全服務。"
-    },
-    {
-      "id": "4985797",
-      "time": "2026-07-14 10:27:13",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【“中國製造”適配全球需求 我國出口增速連續11個季度保持增長】國務院新聞辦公室今天（14日）舉行釋出會，介紹今年以來我國外貿執行情況。今年以來，中國出口增速超過10%，已連續11個季度保持增長。出口的增長，根本原因在於“中國製造”與全球各類需求的精準適配。可以從以下四個方面來看：一是，聯合國報告顯示，今年以來全球貨物貿易增長主要集中於人工智慧相關領域。全球算力、資料中心及終端裝置需求持續擴張，促進了我國相關產品出口。上半年，我國電子元件、電腦零部件等產品出口均兩位數增長，合計拉動出口增長6.9個百分點；與AI技術深度融合的智慧仿生機器人出口超萬臺，遍及全球90多個國家和地區。二是，當前，全球綠色低碳轉型深入推進，新能源建設、消費需求上升與我國綠色產品的契合度較高。上半年，我國鋰電池、風力發電機組等綠色能源相關產品出口分別增長37.6％和35.6%；電動汽車、鐵道電力機車、電動摩托車及腳踏車等綠色出行產品分別增長68.7%、45.1％和31.5%。三是，上半年，我國專用裝備、船舶和海洋工程裝備出口5402.4億元和2149.9億元，分別增長24.4％和19.9%。從智慧挖掘機到重型燃氣輪機，再到海上作業平臺，一批批中國裝備在各國重大專案中發揮了關鍵作用。“中國製造”為不同國家地區、不同應用場景提供了優選方案。四是，今年上半年中東局勢緊張，全球化工品供應吃緊。中國憑藉完備的產業體系和全鏈條的配套能力，快速接住外部的突發需求。上半年我國基本有機化學品、初級形狀塑膠出口分別增長25.1％和35%，滿足了企業生產需求，保障了相關產供鏈穩定。中國穩定的供應鏈，正成為連線世界各方合作共贏的關鍵樞紐。我們將繼續以中國之所能應世界之所需，為全球經貿合作注入更多確定性，釋放更強新動能。"
-    },
-    {
-      "id": "4985796",
-      "time": "2026-07-14 10:26:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【湖北國資等成立人工智慧科技公司】企查查APP顯示，近日，能碳章魚（湖北）人工智慧科技有限公司成立，經營範圍包含：人工智慧硬體銷售；光伏裝置及元器件銷售；人工智慧應用軟體開發；自有資金投資的資產管理服務等。企查查股權穿透顯示，該公司由湖北中碳資產管理有限公司等共同持股。"
-    },
-    {
-      "id": "4985795",
-      "time": "2026-07-14 10:26:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "南方兩倍做多海力士(07709)跌幅擴大至10%。"
-    },
-    {
-      "id": "4985794",
-      "time": "2026-07-14 10:26:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達30億港元。"
-    },
-    {
-      "id": "4985793",
-      "time": "2026-07-14 10:26:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "MSCI亞太指數下跌1%至263.37點。"
-    },
-    {
-      "id": "4985792",
-      "time": "2026-07-14 10:26:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【韓國KOSPI指數跌超2%】韓國KOSPI指數跌超2%，現跌2.60%，報6630.08點。"
     }
   ]
 }
