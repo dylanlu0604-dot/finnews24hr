@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-21 08:31:08",
+  "updated": "2026-07-21 08:35:02",
   "count": 18981,
   "items": [
+    {
+      "id": "mkt:019f8218-1024-7aab-8e16-bbb1b3814516",
+      "time": "2026-07-21 08:34:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China launches first cross-border sea–rail–road 'single-document' freight service】On the morning of the 21st, train X80442 departed Yantai port loaded with commercial vehicles and auto parts, marking China’s first cross-border sea–rail–road 'single-document' (one-bill) freight service. Cargo sails from Incheon to Yantai, moves by rail to Kashgar, transfers to customs‑supervised trailers and proceeds by road to Bishkek, Kyrgyzstan. End-to-end transit is 12 days, about 5 days faster than traditional transport."
+    },
+    {
+      "id": "4998652",
+      "time": "2026-07-21 08:33:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【月內多家銀行上調美元定存利率 最高可達4%】7月份以來，多家銀行上調美元定期存款利率，加大營銷力度。本輪利率上調由中資銀行率先啟動，外資銀行隨後跟進，當前部分銀行美元定期存款年化利率已達到4%。 受訪專家表示，投資者不要因較高的利息水平盲目換匯套利，人民幣升值帶來的匯兌損失可能抵消利息收入乃至虧損本金，配置美元存款需基於真實用匯需求。（證券日報）"
+    },
+    {
+      "id": "4998651",
+      "time": "2026-07-21 08:33:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全國首趟跨境海鐵公“一單制”班列今天開行】今天（21日）上午，一列滿載商用車及汽車零配件集裝箱班列X（行）80442次將從煙臺港駛出，這標誌著全國首趟跨境海鐵公“一單制”班列成功開行。班列採用“海運+鐵路+公路”無縫聯運模式，貨物自韓國仁川海運至煙臺港，經鐵路直達喀什，接續海關監管拖車出境，隨後沿公路運往吉爾吉斯斯坦比什凱克，全程僅12天，較傳統運輸模式縮短5天。"
+    },
+    {
+      "id": "4998650",
+      "time": "2026-07-21 08:32:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【亞市早盤金價小幅走高 實物黃金需求繼續提供支撐】金價在亞洲交易時段小幅走高。現貨黃金上漲0.1%，至每盎司4,014.07美元。澳新銀行研究部的分析師在一份報告中說，對該金屬的實物黃金需求以及央行的買入正在支撐黃金市場。這些分析師補充說，雖然金價面臨美聯儲緊縮預期和美元堅挺帶來的短期阻力，但在經歷了數月的交易所交易基金(ETF)資金流出後，黃金的投資頭寸看起來很單薄，這表明進一步下跌的空間可能有限。高利率環境通常會拖累黃金等無收益資產。"
+    },
+    {
+      "id": "4998649",
+      "time": "2026-07-21 08:31:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【標普應萬科地產（香港）要求撤銷對其中期票據計劃的“CCC-”評級】標普週一釋出報告稱，應發行人要求，撤回對萬科地產（香港）有限公司中期票據計劃的CCC-評級；對該公司的長期發行人信用評級CCC-與負面展望不受影響。萬科地產（香港）的存續債券評級亦不受此次評級撤銷影響。"
+    },
+    {
+      "id": "4998648",
+      "time": "2026-07-21 08:30:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇航信中標江蘇省稅務局稅控及電子底賬系統資訊化專案】據航天資訊訊息，近日，航天資訊江蘇有限公司中標國家稅務總局江蘇省稅務局2026年稅控及電子底賬系統駐場運維服務專案。"
+    },
     {
       "id": "4998647",
       "time": "2026-07-21 08:29:53",
@@ -174455,58 +174507,6 @@
         "觀點"
       ],
       "text": "【中信證券：AI產業趨勢再次成為影響美股科技股下半年走勢核心變數 關注Hyperscaler、應用軟體&網際網路廠商】中信證券研報表示，伴隨宏觀尾部風險的下降，AI產業趨勢再次成為影響美股科技股下半年走勢的核心變數。展望下半年，我們對各科技子板塊的判斷為：1）硬體&半導體，料將持續處於高波動狀態當中，市場交易廣度持續收窄，並集中於產業鏈中最具議價能力&價格彈性環節，以及技術創新帶來顯著增量的領域；2）Hyperscaler廠商，宏觀預期的改善，料將顯著改善市場對其傳統網際網路、軟體業務的預期。部分關於Hyperscaler廠商資本開支囚徒困境的觀點，顯然也過於誇大，參考META歷史經驗，華爾街態度、董事會壓力或是打破僵局最好的途徑，市場不應低估其資本開支節奏主動調節能力；3）軟體&網際網路，伴隨市場對AI模型的逐步祛魅，軟體&網際網路企業的悲觀定價正逐步改善，但營收增速的觸底回升仍是股價反彈的必要條件，宏觀預期改善+超過1年的業務調整&最佳化正在增加這種可能性。"
-    },
-    {
-      "id": "4985569",
-      "time": "2026-07-14 08:34:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "受紐西蘭儲備銀行加息預期提振，紐西蘭2年期國債收益率上漲10個基點。"
-    },
-    {
-      "id": "4985568",
-      "time": "2026-07-14 08:34:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "大韓航空：正在評估於2027年第一季度前整合真航空、釜山航空及首爾航空的計劃。"
-    },
-    {
-      "id": "te:economy:566543",
-      "time": "2026-07-14 08:32:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Business Confidence",
-        "Importance 0"
-      ],
-      "text": "Brazil Industrial Confidence Weakest Since 2020 — Brazil’s Industrial Business Confidence Index fell 2.3 points to 44.4 in July 2026 from the previous month, marking its second consecutive decline and the 19th consecutive reading below the 50-point threshold, according to the National Confederation of Industry (CNI). The reading was also the lowest since June 2020, reflecting more widespread pessimism among manufacturers. The Current Conditions Index slipped 0.7 point to 41.6, as assessments of the Brazilian economy fell 1.3 points to 34.7 and firms’ own conditions declined 0.3 point to 45.1, indicating businesses continued to view conditions as worse than six months earlier. Meanwhile, the Expectations Index dropped 3.1 points to 45.8, its steepest decline since November 2022. Expectations for the Brazilian economy fell 3.8 points to 37.2, while firms’ own outlook weakened 2.7 points to 50.1, nearly eliminating the optimism recorded in previous months."
-    },
-    {
-      "id": "4985567",
-      "time": "2026-07-14 08:31:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億華通交付首套儲能系統】據億華通訊息，近日，億華通正式向客戶交付儲能系統，這也是億華通成立儲能公司以來，交付的首套儲能系統。"
-    },
-    {
-      "id": "4985566",
-      "time": "2026-07-14 08:31:35",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟財政大臣城內實：仍在進行具體的修改和進度安排，現在還不方便發表評論。"
-    },
-    {
-      "id": "4985565",
-      "time": "2026-07-14 08:31:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本經濟財政大臣城內實：有關內閣決議日期因調整基本政策方針措辭而推遲的說法並不屬實。"
     }
   ]
 }
