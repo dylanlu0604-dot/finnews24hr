@@ -1,7 +1,23 @@
 {
   "date": "2026-07-22",
-  "count": 102,
+  "count": 104,
   "items": [
+    {
+      "id": "mkt:019f85da-0cc7-7aab-8e30-11ba385bdd4a",
+      "time": "2026-07-22 02:04:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【French parliament passes law banning social media use by under-15s】On July 21 France’s National Assembly and Senate approved a law banning social media use by children under 15. The ban is phased: from Sept. 1 registrations for under-15s will be prohibited; from Jan. 2027 existing accounts identified as belonging to under-15s will be suspended or closed."
+    },
+    {
+      "id": "mkt:019f85d9-226e-7aab-8e30-0b62e9eac380",
+      "time": "2026-07-22 02:03:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Netherlands to impose three-year trade sanctions on Israeli settlements from Sept 22】The Dutch government announced on the 21st that it will from Sept. 22 impose three-year trade sanctions on goods originating in Israeli settlements. Products from settlements in the West Bank, Gaza Strip and Golan Heights will be barred from entry into the Netherlands and prohibited from direct or indirect purchase, marketing and provision of related intermediary services. The government said the measures aim to use economic means to counter Israel’s establishment of illegal settlements in those territories."
+    },
     {
       "id": "5000769",
       "time": "2026-07-22 02:01:08",
