@@ -1,7 +1,23 @@
 {
   "date": "2026-07-22",
-  "count": 136,
+  "count": 138,
   "items": [
+    {
+      "id": "5000787",
+      "time": "2026-07-22 02:49:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家通訊社：伊拉克埃爾比勒機場臨時停航後恢復航班運營。"
+    },
+    {
+      "id": "mkt:019f85ff-ac1e-7aab-8e30-7668a9181e01",
+      "time": "2026-07-22 02:45:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hegseth says the PENTAGON urgently needs a $67 bln supplemental funding package, including $1.5 bln to address critical mission fuel shortages and $2 bln to replenish equipment lost or damaged in combat."
+    },
     {
       "id": "te:economy:568616",
       "time": "2026-07-22 02:43:54",

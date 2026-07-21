@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-22 02:45:47",
-  "count": 18071,
+  "updated": "2026-07-22 02:49:39",
+  "count": 18067,
   "items": [
+    {
+      "id": "5000787",
+      "time": "2026-07-22 02:49:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克國家通訊社：伊拉克埃爾比勒機場臨時停航後恢復航班運營。"
+    },
+    {
+      "id": "mkt:019f85ff-ac1e-7aab-8e30-7668a9181e01",
+      "time": "2026-07-22 02:45:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hegseth says the PENTAGON urgently needs a $67 bln supplemental funding package, including $1.5 bln to address critical mission fuel shortages and $2 bln to replenish equipment lost or damaged in combat."
+    },
     {
       "id": "te:economy:568616",
       "time": "2026-07-22 02:43:54",
@@ -166159,57 +166175,6 @@
         "國際"
       ],
       "text": "美國公共衛生團體、兒科醫生與家長聯盟起訴美國食品藥品監督管理局，指控其允許未獲授權的電子煙與尼古丁袋營銷的政策。"
-    },
-    {
-      "id": "4988425",
-      "time": "2026-07-15 02:48:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：打擊了位於巴林和科威特境內的敵方武器及零部件存放設施。"
-    },
-    {
-      "id": "4988424",
-      "time": "2026-07-15 02:48:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：戰時必須控制整個霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019f61f4-dfe9-7aab-8d87-dd97b7bcc32f",
-      "time": "2026-07-15 02:47:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said that so long as what it called the US's \"evil actions\" in the region persist, there will be no oil or gas exported from the region."
-    },
-    {
-      "id": "4988423",
-      "time": "2026-07-15 02:47:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國力推伊拉克—敘利亞輸油管道專案，意在削弱伊朗對霍爾木茲海峽的掌控力。"
-    },
-    {
-      "id": "4988422",
-      "time": "2026-07-15 02:47:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：美軍不停止犯罪，反擊就持續，再次侵略將迎來強力回擊；只要美軍在中東作惡，地區油氣出口全面中斷，霍爾木茲海峽通航恢復將無限推遲。"
-    },
-    {
-      "id": "4988421",
-      "time": "2026-07-15 02:46:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：伊方出動海空力量，同步用導彈、無人機襲擊兩處美軍基地，此次行動報復美軍當日早些時候襲擊伊朗沿海軍事據點的行為。"
     }
   ]
 }
