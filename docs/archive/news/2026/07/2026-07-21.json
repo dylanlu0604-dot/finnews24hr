@@ -1,7 +1,121 @@
 {
   "date": "2026-07-21",
-  "count": 2833,
+  "count": 2845,
   "items": [
+    {
+      "id": "mkt:019f84a6-6810-7aab-8e29-2b87f9723a54",
+      "time": "2026-07-21 20:28:45",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose about 2% intraday to $84.57/bbl; Brent crude rose 1.47% to $88.77/bbl."
+    },
+    {
+      "id": "5000409",
+      "time": "2026-07-21 20:28:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【全球七成份額被中國機器狗拿捏】“上半年，我國研發的四足機器人佔全球銷量份額接近70%，人形機器人整機產品達400餘款、超全球半數。”在20日舉行的2026年上半年工業和資訊化發展情況新聞釋出會上，一組資料讓人眼前一亮。在智慧機器人這個高精尖領域，中國造不僅銷量上去了，更在海外市場交出“便宜能打”的實戰成績單。中國生產的機器人，早已不是實驗室中昂貴且遙不可及的高階裝備，而是英國倉庫、日本機場甚至世界盃賽場的實用工具。（中新經緯）"
+    },
+    {
+      "id": "5000408",
+      "time": "2026-07-21 20:28:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報84.14美元/桶。"
+    },
+    {
+      "id": "5000407",
+      "time": "2026-07-21 20:27:31",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【7月21日《新聞聯播》主要內容】今天《新聞聯播》主要內容有：1.【新思想引領新徵程】加力推進節能降碳 書寫綠色發展新答卷； 2.李強致電祝賀伯納姆就任英國首相； 3.【在希望的田野上】全國糧食生產有序推進； 4.【“十五五”開好局起好步】2030年我國基本建成現代化綜合交通運輸體系； 5.“在高質量發展中保障和改善民生”形勢政策系列報告會第五場報告會在京舉行； 6.19項措施促家政服務業高質量發展； 7.萬億元民營企業再貸款落地 支援民營經濟發展； 8.“七一勳章”獲得者鍾掘：迎難而上 為國攻堅； 9.我國2026年度育兒補貼已發放超過2500萬人； 10.免籤政策持續發力 入境遊市場熱力攀升； 11.書香伴夏 全民閱讀點亮暑期生活； 12.國內聯播快訊： （1）《推動平臺企業賦能個體工商戶發展行動方案》印發； （2）我國首次啟動實施質量督察工作； （3）上半年上海外貿出口首破萬億元大關； （4）全球首艘41800噸雙向航行自卸船在江蘇交付； （5）西渝高鐵七星坪隧道貫通； （6）強流重離子加速器裝置建成試執行； （7）新疆塔里木河第27次生態輸水第二階段啟動； （8）總檯暑期精品節目片單釋出； 13.美國伊朗繼續打擊對方目標 媒體稱美加大中東軍事部署 伊朗稱已收到調解方停火提議； 14.國際聯播快訊： （1）伊拉克民兵武裝稱或參與對美作戰； （2）葉門胡塞武裝宣佈對沙特實施海上禁運； （3）哈亞出任巴勒斯坦伊斯蘭抵抗運動領導人； （4）美國將對加拿大數百項商品加徵50%關稅。"
+    },
+    {
+      "id": "5000406",
+      "time": "2026-07-21 20:27:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京：下半年將佈局建設Token工廠 力爭新增智慧算力5萬P】從北京市經信局獲悉，上半年，全市數字經濟增加值增速7.8%，其中數字經濟核心產業增加值增速9.8%，對全市GDP增長的帶動作用顯著。深入實施京津冀“銀河算廊”工程，上半年北京新增智慧算力2.2萬P，供給規模達到8.2萬P。下半年，北京將推進人工智慧全域賦能，推動智慧翻譯、智慧同傳等在文旅消費領域的應用。制定Token經濟發展政策，圍繞Token生產、分發和應用等關鍵環節，佈局建設Token工廠、Token分發平臺，推動在工業、教育、文旅等重點領域創新應用。進一步提升智慧算力供給能力。打造“超級節點+行業節點”支撐體系，力爭下半年新增智慧算力5萬P，年內算力總規模突破13萬P。 (新京報)"
+    },
+    {
+      "id": "5000405",
+      "time": "2026-07-21 20:26:35",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【中央安全生產考核巡查組第六組對上海市開展三季度安全生產明查暗訪】為深入貫徹落實習近平總書記關於安全生產的重要指示批示精神，按照國務院安委會部署，7月15日—7月31日，中央安全生產考核巡查組第六組對上海市開展三季度安全生產明查暗訪。7月21日，考核巡查組進駐見面會召開，考核巡查組組長周星講話，上海市委副書記、市長龔正作表態發言。（澎湃）"
+    },
+    {
+      "id": "mkt:019f84a3-e38b-7aab-8e29-2502f8415e7e",
+      "time": "2026-07-21 20:26:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Russian inflation expectations rose to 14.7% in July."
+    },
+    {
+      "id": "5000404",
+      "time": "2026-07-21 20:25:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "黎巴嫩軍方：以色列佔領軍在黎巴嫩軍隊於西部祖特爾（Zawtar al-Gharbiya）地區執行部署任務時，向我方部隊附近開火，襲擊將阻礙試點區域的部署程序。"
+    },
+    {
+      "id": "te:economy:568565",
+      "time": "2026-07-21 20:25:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "ADP Employment Change Weekly",
+        "Importance 0"
+      ],
+      "text": "US Private Hiring Cools Further: ADP Weekly Data — US private employers added an average of 16,500 jobs per week in the four weeks ending July 4, 2026, according to the ADP Research Institute, down from an average weekly gain of 19,250 in the previous four-week period. The figures marked a fourth consecutive slowdown in hiring, reinforcing signs of a cooling labor market. The trend is consistent with ADP's June employment report, which showed private payrolls increased by 98,000, the weakest gain in three months and below market expectations of 113,000."
+    },
+    {
+      "id": "mkt:019f84a3-2252-7aab-8e29-18dddbbc8590",
+      "time": "2026-07-21 20:25:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent's interview on Fox Business has concluded."
+    },
+    {
+      "id": "mkt:019f84a2-f0e4-7aab-8e29-1693ac383d5d",
+      "time": "2026-07-21 20:24:58",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Lebanese army said Israeli forces fired near its troops."
+    },
+    {
+      "id": "mkt:019f84a2-e620-7aab-8e29-0e9820dd0951",
+      "time": "2026-07-21 20:24:55",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Lebanese army says Israeli attacks on its forces have impeded troop deployments."
+    },
     {
       "id": "5000403",
       "time": "2026-07-21 20:24:21",
