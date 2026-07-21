@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-22 03:17:10",
-  "count": 18049,
+  "updated": "2026-07-22 03:21:02",
+  "count": 18052,
   "items": [
+    {
+      "id": "5000804",
+      "time": "2026-07-22 03:20:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思：當今世界局勢充滿風險，需要果斷迅速採取行動，因此我們提出2026財年追加撥款申請。這筆資金是緊急且必要的資源投入，用以滿足國防部當下迫切需求。"
+    },
+    {
+      "id": "mkt:019f861e-b805-7aab-8e30-c8b48d88a160",
+      "time": "2026-07-22 03:19:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX launched a Falcon 9 from California, successfully placing 24 Starlink satellites into orbit."
+    },
+    {
+      "id": "mkt:019f861c-c38f-7aab-8e30-c6d4cceb42ad",
+      "time": "2026-07-22 03:17:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Iraq's oil minister says agreements with US firms will significantly boost Iraq's oil production capacity and drive investment in associated natural gas."
+    },
+    {
+      "id": "5000803",
+      "time": "2026-07-22 03:17:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克石油部長表示，與美國企業達成的協議將為伊拉克大幅提升油氣產能，並帶來伴生氣領域的投資。"
+    },
     {
       "id": "mkt:019f861b-ed9d-7aab-8e30-b9e494f45c47",
       "time": "2026-07-22 03:16:44",
@@ -166001,15 +166036,6 @@
         "MKT News"
       ],
       "text": "Iran's deputy foreign minister said the US is mistaken if it believes sanctions can force Tehran to proactively request negotiations."
-    },
-    {
-      "id": "4988453",
-      "time": "2026-07-15 03:20:07",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院官員科扎克出席國會聽證會併發言：委內瑞拉政府與反對派將磋商選舉相關議程。"
     }
   ]
 }
