@@ -1,7 +1,49 @@
 {
   "date": "2026-07-21",
-  "count": 510,
+  "count": 514,
   "items": [
+    {
+      "id": "mkt:019f8224-6224-7aab-8e16-e63b8ec85e51",
+      "time": "2026-07-21 08:47:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "【Margin financing across both exchanges falls CNY 59.685 bln】As of July 20, Shanghai Stock Exchange margin financing balance was CNY 1.362747 tln, down CNY 30.086 bln from the previous trading day; Shenzhen Stock Exchange margin financing balance was CNY 1.326713 tln, down CNY 29.599 bln. Combined margin financing across the two exchanges was CNY 2.68946 tln, down CNY 59.685 bln versus the prior trading day."
+    },
+    {
+      "id": "4998668",
+      "time": "2026-07-21 08:47:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩市融資餘額減少596.85億元】截至7月20日，上交所融資餘額報13627.47億元，較前一交易日減少300.86億元；深交所融資餘額報13267.13億元，較前一交易日減少295.99億元；兩市合計26894.6億元，較前一交易日減少596.85億元。"
+    },
+    {
+      "id": "4998667",
+      "time": "2026-07-21 08:47:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【整治AI毒動畫、炒作網紅兒童等亂象 “清朗”行動劃定監管紅線】為進一步加強未成年人網路保護，營造風清氣正的網路空間，近日，中央網信辦印發通知，在全國範圍內部署啟動為期4個月的“清朗·未成年人網路保護”專項行動，覆蓋內容生產傳播全流程、全鏈條。中央網信辦釋出通知明確，在釋出環節，將整治編造毒動畫，利用AI技術惡搞經典動畫形象，刻意放大暴力恐怖元素，釋出窒息挑戰等鼓動危險行為，還要整治包裝炒作“神童轉世”“早熟小美女”等，打造爭議兒童人設。還有整治擺拍逃學曠課、厭學躺平等，宣揚不良價值觀等影片內容。（央視）"
+    },
+    {
+      "id": "te:markets:568340",
+      "time": "2026-07-21 08:47:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Australia Shares Retreat to Near 2-Week Low — Australian equities fell 47 points or 0.5% to 8,744 on Tuesday morning deals, extending weakness for the fourth straight session and approaching their lowest level in nearly two weeks. Sentiment tracked weaker U.S. futures after Wall Street closed lower overnight, pressured by rising oil and Treasury yields. Geopolitical tensions added to caution as President Trump vowed Iran would “pay” for the deaths of three U.S. service members, while Yemen’s Houthis declared a maritime embargo on Saudi Arabia. Locally, traders stayed guarded ahead of June labor data and July flash PMIs later this week. Most sectors dropped, led by manufacturing, healthcare, logistics, and process industries. The big four banks lost 0.9–1.2%, while Pro Medicus (-3.6%), QBE (-2.1%), Brambles (-1.9%), and Lynas (-1.0%) weighed. Bucking the trend, Yancoal Australia jumped 3.9% while South32 was up 3.7%. Nextdc rose 2.6% after reporting an 11% rise in contracted utilisation over the final ten weeks of its fiscal year."
+    },
     {
       "id": "4998666",
       "time": "2026-07-21 08:46:02",
