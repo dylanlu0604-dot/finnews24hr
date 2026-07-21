@@ -1,7 +1,87 @@
 {
   "date": "2026-07-21",
-  "count": 3270,
+  "count": 3279,
   "items": [
+    {
+      "id": "5000673",
+      "time": "2026-07-21 23:26:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：約旦一事，倘若當時換其他執行人員，事態本不會演變成這樣。"
+    },
+    {
+      "id": "5000672",
+      "time": "2026-07-21 23:26:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：伊朗已獲得所有談判機會。"
+    },
+    {
+      "id": "5000671",
+      "time": "2026-07-21 23:25:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：沒人能突破封鎖。"
+    },
+    {
+      "id": "5000670",
+      "time": "2026-07-21 23:25:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元上漲 0.26%，報 162.92；盤中觸及 163.04，為 1986 年 12 月以來首次突破 163 關口。"
+    },
+    {
+      "id": "5000669",
+      "time": "2026-07-21 23:23:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆發言人：英國政府在有關泰晤士水務的所有可能情況中“做好準備”，將考慮關於泰晤士水務的新提案。英國首相一直明確表示支援公共控股的好處。"
+    },
+    {
+      "id": "mkt:019f8546-7a08-7aab-8e2d-d9b3acf737fe",
+      "time": "2026-07-21 23:23:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A spokesperson for UK Prime Minister Burnham said the prime minister has consistently and explicitly expressed support for the benefits of public ownership."
+    },
+    {
+      "id": "mkt:019f8546-2f01-7aab-8e2d-d52d084361bf",
+      "time": "2026-07-21 23:23:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said he has no interest in holding a meeting until Iran is ready."
+    },
+    {
+      "id": "5000668",
+      "time": "2026-07-21 23:23:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在伊朗做好準備之前，我沒有興趣與他們會面。"
+    },
+    {
+      "id": "mkt:019f8545-ffcc-7aab-8e2d-cc27b57bcdf2",
+      "time": "2026-07-21 23:23:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. President Trump said Iran has sought a meeting and the U.S. is not interested."
+    },
     {
       "id": "5000667",
       "time": "2026-07-21 23:22:48",
