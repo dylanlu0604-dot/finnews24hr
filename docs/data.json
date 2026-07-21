@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-22 05:33:57",
+  "updated": "2026-07-22 05:37:54",
   "count": 18078,
   "items": [
+    {
+      "id": "5000911",
+      "time": "2026-07-22 05:35:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以軍空襲加沙造成至少12人死亡】據巴勒斯坦通訊社21日報道，以色列軍隊當天對加沙地帶多處地點發動空襲，造成至少12名巴勒斯坦人死亡，另有多人受傷。報道稱，以軍當天空襲加沙城中心一處公寓樓，造成4人死亡、多人受傷；對加沙地帶中部努賽賴特難民營一輛汽車發動空襲，造成2人死亡、4人受傷。"
+    },
     {
       "id": "5000910",
       "time": "2026-07-22 05:32:37",
@@ -166188,14 +166196,6 @@
         "國際"
       ],
       "text": "伊朗軍方：已使用無人機打擊約旦阿茲拉克基地內美軍據點。 針對該地區美軍基地的無人機打擊行動將持續直至取得 “最終勝利”。"
-    },
-    {
-      "id": "mkt:019f628e-4e7b-7aab-8d8a-a286e5e33bbc",
-      "time": "2026-07-15 05:35:21",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. House passes bill to make daylight saving time permanent】On July 14 the U.S. House voted to pass a bill to make daylight saving time permanent and sent it to the Senate for consideration. In May the House Energy and Commerce Committee approved the Sunshine Protection Act 48-1; the bill would eliminate the twice-yearly clock changes and keep daylight saving time year-round."
     }
   ]
 }
