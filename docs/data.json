@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-22 01:48:24",
-  "count": 18099,
+  "updated": "2026-07-22 01:52:21",
+  "count": 18102,
   "items": [
+    {
+      "id": "mkt:019f85cd-9382-7aab-8e2f-f06a551d2c74",
+      "time": "2026-07-22 01:51:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump says U.S. will bomb \"Gaoshan\" deep-underground site; may hold centrifuges】President Trump said on Tuesday the U.S. military will bomb the deep-buried site he called \"Gaoshan,\" which U.S. and Israeli officials suspect may be linked to nuclear activity. Speaking at a White House meeting with Lebanon’s president, he signaled he is not seeking a ceasefire and favors further military escalation. Trump said the U.S. believes Iran may be storing centrifuges at the site but that the U.S. has no records; he added stored centrifuges would be useless without nuclear material and asserted Iran currently does not possess such material. Axios reported it is unclear whether U.S. forces have munitions capable of penetrating the facility’s deep rock, though a strike could still damage the complex and seal its entrances."
+    },
+    {
+      "id": "5000762",
+      "time": "2026-07-22 01:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡塞武裝發出封鎖威脅前，沙特從紅海碼頭的原油出口創新高】油輪追蹤資料顯示，截至7月17日的一週，沙特透過延布港的兩個碼頭日均出口原油590萬桶，創歷史新高。截至7月20日的七天內，日均出口量回落至550萬桶。這些資料包括運往吉讚的原油以及向紅海沿岸發電廠供應的原油，沙特阿美在吉贊運營一座煉油廠。胡塞武裝表示，實施封鎖是為了回應沙烏地阿拉伯對葉門首都薩那的圍困，不過該組織也與伊朗存在聯絡。胡塞武裝還在一封電子郵件中警告船東，不要停靠沙特港口。"
+    },
+    {
+      "id": "mkt:019f85cc-7aa7-7aab-8e2f-e98e10a450d6",
+      "time": "2026-07-22 01:49:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Iran's Fars News reported the area struck in Bahrain was a site where U.S. military personnel are stationed."
+    },
+    {
+      "id": "mkt:019f85cb-b843-7aab-8e2f-e62e9e5c1487",
+      "time": "2026-07-22 01:49:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Press TV reported an explosion near the U.S. consulate in Erbil, the capital of Iraq's Kurdistan region."
+    },
     {
       "id": "5000761",
       "time": "2026-07-22 01:47:32",
@@ -166452,14 +166493,6 @@
         "公司"
       ],
       "text": "Lucid聘請重組諮詢機構AlixPartners對公司開展評估。"
-    },
-    {
-      "id": "4988375",
-      "time": "2026-07-15 01:49:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "【歐盟人口數量達到峰值 未來呈下降趨勢】據歐盟委員會聯合研究中心釋出的報告稱，未來，歐盟人口將呈下降趨勢，而人均預期壽命則將持續延長。目前，歐盟人口為4.506億人；據預測，到2050年將降至約4.45億人，到2100年將進一步降至3.988億人，總體降幅約為11.7%，相當於上世紀70年代的水平。報告還指出：“歐洲人的平均壽命創歷史新高：2024年出生時的平均預期壽命已達到81.5歲。預計到2050年，歐盟每三名居民中就有一人將超過65歲，而目前這一比例僅為五分之一。到2100年，女性的平均預期壽命有望超過90歲，男性則有望超過86歲。2023年出生於歐盟的嬰兒，預計在75歲稍多時仍能保持無嚴重疾病的狀態。"
     }
   ]
 }

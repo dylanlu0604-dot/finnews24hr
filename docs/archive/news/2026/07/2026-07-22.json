@@ -1,7 +1,48 @@
 {
   "date": "2026-07-22",
-  "count": 90,
+  "count": 94,
   "items": [
+    {
+      "id": "mkt:019f85cd-9382-7aab-8e2f-f06a551d2c74",
+      "time": "2026-07-22 01:51:10",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump says U.S. will bomb \"Gaoshan\" deep-underground site; may hold centrifuges】President Trump said on Tuesday the U.S. military will bomb the deep-buried site he called \"Gaoshan,\" which U.S. and Israeli officials suspect may be linked to nuclear activity. Speaking at a White House meeting with Lebanon’s president, he signaled he is not seeking a ceasefire and favors further military escalation. Trump said the U.S. believes Iran may be storing centrifuges at the site but that the U.S. has no records; he added stored centrifuges would be useless without nuclear material and asserted Iran currently does not possess such material. Axios reported it is unclear whether U.S. forces have munitions capable of penetrating the facility’s deep rock, though a strike could still damage the complex and seal its entrances."
+    },
+    {
+      "id": "5000762",
+      "time": "2026-07-22 01:50:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【胡塞武裝發出封鎖威脅前，沙特從紅海碼頭的原油出口創新高】油輪追蹤資料顯示，截至7月17日的一週，沙特透過延布港的兩個碼頭日均出口原油590萬桶，創歷史新高。截至7月20日的七天內，日均出口量回落至550萬桶。這些資料包括運往吉讚的原油以及向紅海沿岸發電廠供應的原油，沙特阿美在吉贊運營一座煉油廠。胡塞武裝表示，實施封鎖是為了回應沙烏地阿拉伯對葉門首都薩那的圍困，不過該組織也與伊朗存在聯絡。胡塞武裝還在一封電子郵件中警告船東，不要停靠沙特港口。"
+    },
+    {
+      "id": "mkt:019f85cc-7aa7-7aab-8e2f-e98e10a450d6",
+      "time": "2026-07-22 01:49:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Iran's Fars News reported the area struck in Bahrain was a site where U.S. military personnel are stationed."
+    },
+    {
+      "id": "mkt:019f85cb-b843-7aab-8e2f-e62e9e5c1487",
+      "time": "2026-07-22 01:49:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Press TV reported an explosion near the U.S. consulate in Erbil, the capital of Iraq's Kurdistan region."
+    },
     {
       "id": "5000761",
       "time": "2026-07-22 01:47:32",
