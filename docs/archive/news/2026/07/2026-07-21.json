@@ -1,7 +1,144 @@
 {
   "date": "2026-07-21",
-  "count": 3024,
+  "count": 3038,
   "items": [
+    {
+      "id": "5000533",
+      "time": "2026-07-21 21:35:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "真力公司股價下跌9%，此前該公司下調全年利潤預期注。"
+    },
+    {
+      "id": "5000532",
+      "time": "2026-07-21 21:35:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國雜交水稻育種科研取得重要進展】中國水稻研究所研究員王克劍團隊近日在雜交水稻育種領域取得重要進展“這一成果有望從根本上改變雜交稻依賴年年制種的傳統模式，為全球糧食安全提供新的技術支撐。”王克劍表示，從試驗田到廣泛落地應用仍面臨諸多挑戰。下一步，團隊將開展安全性測試與穩定性評價，持續攻關最佳化。（新華社）"
+    },
+    {
+      "id": "te:markets:568574",
+      "time": "2026-07-21 21:35:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Gain Traction — US equity indices were mostly higher on Tuesday with support from the tech sector ahead of key earnings releases. The S&P 500 and the Dow rose around 0.5%, gaining ground after multiple muted sessions, while the Nasdaq 100 increased 1%. Micron, Intel, and Sandisk surged 7% to extend the rebound from last week's rout after strong export data from Taiwan and South Korea maintained the momentum for semiconductor producers. The sector rose ahead of Alphabet's earnings tomorrow, serving as the latest signal for AI infrastructure demand by hyperscalers. Tesla was also 1% higher ahead of its earnings tomorrow. Meanwhile, other sectors halted recent selling pressure despite further escalation between Iran and the US and its impact on higher energy prices. Treasury yields remained high and drove financial stocks to trim part of their earnings-fueled rally last week. GM rose 2% after posting their results, while Charles Schwab sank 3% after missing earnings estimates."
+    },
+    {
+      "id": "5000531",
+      "time": "2026-07-21 21:34:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國油氣產量當量達到4.2億噸新高度】今天（7月21日），國家能源局釋出《中國油氣勘探開發發展報告2026》，資料顯示，2025年，我國原油產量達2.16億噸歷史新高，天然氣產量連續9年超百億立方米增長，油氣產量當量達到4.2億噸的新高度，自主保障能力顯著提升，油氣科技創新、上游體制機制改革與低碳轉型發展邁出堅實步伐。（央視新聞）"
+    },
+    {
+      "id": "5000530",
+      "time": "2026-07-21 21:34:01",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【韋德布什：英特爾亮眼財報未必能夠推動股價上漲】韋德布什分析師馬特·布萊森在致客戶研報中表示，英特爾營收、利潤率有望大幅超出市場預期，第三季度大機率延續這一態勢。 他維持英特爾中性評級，目標價95美元。該目標價與財報釋出前英特爾當前股價基本持平，意味著即便業績有望超預期，韋德布什也認為股價上行空間有限。布萊森指出，臺積電的走勢是他保持謹慎的原因。上週臺積電交出創紀錄利潤、上調全年業績指引，但股價依舊走低；經歷長達一年的大幅上漲後，板塊估值已經處於高位，投資者選擇落袋為安。 布萊森寫道：即便業績大幅超預期、銷售重回加速通道，也難以阻擋半導體板塊整體遭遇拋售。"
+    },
+    {
+      "id": "mkt:019f84e1-e6a4-7aab-8e2b-1fe038ef95c6",
+      "time": "2026-07-21 21:33:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Wang Yi, Li Hongzhong meet European Parliament foreign affairs committee delegation】China foreign minister Wang Yi and NPC Standing Committee vice chairman Li Hongzhong separately met in Beijing on the 21st with a delegation led by the chair of the European Parliament’s Foreign Affairs Committee, the committee’s first visit to China. Wang welcomed deeper exchanges and offered closer China‑EU coordination on global affairs to promote an orderly multipolar world and inclusive globalization; the delegation said the EU values ties with China, praised China’s development and opposed “decoupling”. Li said the National People’s Congress will work with the European Parliament to sustain and deepen exchanges, respect core interests, expand pragmatic cooperation and defend multilateralism."
+    },
+    {
+      "id": "mkt:019f84e1-798b-7aab-8e2b-145d8a403792",
+      "time": "2026-07-21 21:33:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "MRVL.O",
+        "Impact bullish",
+        "GLW.N"
+      ],
+      "text": "U.S. optical-communications sector rose; Marvell Technology (MRVL.O) up about 6%, Corning (GLW.N) up more than 4%."
+    },
+    {
+      "id": "te:markets:568573",
+      "time": "2026-07-21 21:33:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 28-week Low — Lockheed Martin shares decreased to 489.86 USD, the lowest since January 2026. Over the past 4 weeks, Lockheed Martin lost 0.09%, and in the last 12 months, it increased 7.09%."
+    },
+    {
+      "id": "5000528",
+      "time": "2026-07-21 21:32:53",
+      "tags": [
+        "宏觀",
+        "國際",
+        "兩會"
+      ],
+      "text": "【王毅、李鴻忠分別會見歐洲議會外事委員會代表團】中共中央政治局委員、外交部長王毅，中共中央政治局委員、全國人大常委會副委員長李鴻忠21日在北京分別會見歐洲議會外事委員會主席麥克阿里斯特率領的代表團。 王毅在會見時表示，歡迎歐洲議會外委會首次派團訪華，希望代表團同中國各界加強交往，瞭解一個真實、立體和不斷發展、進步的中國。中方願同歐方加強在全球事務中協調合作，推動平等有序的世界多極化和普惠包容的經濟全球化。 歐方表示，歐盟高度重視對華關係，讚歎中國取得的巨大發展成就，反對對華“脫鉤”，願同中方密切溝通，加強合作。 李鴻忠在會見時表示，今年以來，習近平主席同訪華的歐洲多國領導人舉行會晤，達成重要共識。中國全國人大願同歐洲議會一道，保持和加強目前交往勢頭，為中歐雙方增進理解互信、尊重彼此核心利益、深化務實合作、攜手維護多邊主義發揮積極作用。 歐方表示，歐洲議會願同中方加強溝通交流，促進歐中關係發展。(新華社)"
+    },
+    {
+      "id": "5000527",
+      "time": "2026-07-21 21:32:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "TripAdvisor股價下跌2.3%，此前BTIG將其評級從“買入”下調至“中性”。"
+    },
+    {
+      "id": "5000526",
+      "time": "2026-07-21 21:32:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "英偉達披露持有NEBIUS被動股權，佔比達9.3%，NEBIUS股價上漲7.8%。"
+    },
+    {
+      "id": "mkt:019f84e0-65db-7aab-8e2b-0d0d9c9dc39b",
+      "time": "2026-07-21 21:32:06",
+      "tags": [
+        "MKT News",
+        "MMM.N",
+        "Impact bullish"
+      ],
+      "text": "3M (MMM.N) rose 8.8% in after-hours trading after reporting Q2 sales of $6.5 billion, up 2.4% YoY."
+    },
+    {
+      "id": "te:markets:568572",
+      "time": "2026-07-21 21:32:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Southern Stock Price Hits 4-week Low — Southern shares decreased to 94.02 USD, the lowest since June 2026. Over the past 4 weeks, Southern Co. gained 0.81%, and in the last 12 months, it decreased 0.63%."
+    },
+    {
+      "id": "5000525",
+      "time": "2026-07-21 21:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "KEO CAPITAL AB：與美國運通續簽長期戰略合作伙伴關係。"
+    },
     {
       "id": "mkt:019f84e0-0f1a-7aab-8e2b-02e20bff0fd4",
       "time": "2026-07-21 21:31:44",
