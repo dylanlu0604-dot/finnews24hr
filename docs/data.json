@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-22 01:08:21",
-  "count": 18138,
+  "updated": "2026-07-22 01:12:22",
+  "count": 18137,
   "items": [
+    {
+      "id": "mkt:019f85a8-a1b7-7aab-8e2f-a4e5c3e52508",
+      "time": "2026-07-22 01:10:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FITCH says failure to renew the US-Mexico-Canada Agreement (USMCA) would widen credit divergence among Mexican corporates."
+    },
+    {
+      "id": "5000751",
+      "time": "2026-07-22 01:09:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客民用飛機執行長：我們有意進軍併購市場。"
+    },
+    {
+      "id": "mkt:019f85a7-5fc6-7aab-8e2f-99e11b8868a9",
+      "time": "2026-07-22 01:09:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon Web Services (AWS): Amazon Simple Email Service (SES) will no longer offer its exclusive free tier to new customers. Previously, new customers received 3,000 free emails per month for the first 12 months after initial use."
+    },
+    {
+      "id": "mkt:019f85a6-c1fb-7aab-8e2f-926a80ee978f",
+      "time": "2026-07-22 01:08:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President Aoun said the meeting went very smoothly."
+    },
+    {
+      "id": "5000750",
+      "time": "2026-07-22 01:07:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客民用飛機執行長：不排除將 A350 產能大幅提升至月產 12 架以上的可能性。"
+    },
     {
       "id": "mkt:019f85a5-3d79-7aab-8e2f-88e668a861c1",
       "time": "2026-07-22 01:07:06",
@@ -166767,64 +166814,6 @@
         "DXY"
       ],
       "text": "Bahrain's Interior Ministry said the country had sounded an air defense alert."
-    },
-    {
-      "id": "4988335",
-      "time": "2026-07-15 01:11:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "兩艘賴比瑞亞籍油輪在阿曼海岸附近遭襲。"
-    },
-    {
-      "id": "mkt:019f619b-f27a-7aab-8d86-a7805d858fdb",
-      "time": "2026-07-15 01:10:37",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【U.S. Commerce official says chip and AI rules imminent; Trump team won't replace Biden-era AI chip export curbs】U.S. Commerce Department export-control chief Jeffrey Kessler told a congressional hearing Tuesday that new chip and AI regulatory measures are imminent. He said the Trump administration does not intend to replace the Biden-era AI chip export restrictions."
-    },
-    {
-      "id": "mkt:019f619b-9df2-7aab-8d86-9cec288c78f1",
-      "time": "2026-07-15 01:10:16",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Axios: Trump urges Netanyahu to withdraw Israeli forces from Syria and Lebanon】Axios, citing U.S. and Israeli officials, reported President Trump told Prime Minister Netanyahu in a recent call that Israeli forces should begin redeploying from areas of Syria and urged a similar pullback from Lebanon, saying they don't want you there, you should redeploy. Netanyahu said Israel needs to retain a security buffer on its borders. The Trump administration has for months pushed for new security arrangements to enable a phased Israeli withdrawal from Syrian territory held since the Assad regime's fall at end-2024, but U.S. officials believe Netanyahu is unwilling to make those concessions. The U.S. has also been mediating implementation of the Israel-Lebanon ceasefire framework, pressing for partial Israeli withdrawals from southern Lebanon, though the withdrawal timetable remains disputed."
-    },
-    {
-      "id": "4988334",
-      "time": "2026-07-15 01:09:21",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "LUCID股價跌幅擴大至21%。"
-    },
-    {
-      "id": "4988333",
-      "time": "2026-07-15 01:09:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "RIVIAN股價下跌1%。"
-    },
-    {
-      "id": "4988332",
-      "time": "2026-07-15 01:09:01",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普宣稱將與伊拉克達成“龐大”的石油交易】美國總統特朗普在白宮接待伊拉克總理阿里·扎伊迪時表示，將會很快宣佈與伊拉克達成的“龐大”新石油交易，他還宣揚了美國企業在伊拉克開展更多業務的前景。“伊拉克有巨大潛力，因為他們有石油，也因為其他東西，”特朗普週二在白宮表示。“我們將為兩國創造大量就業機會，我們將開採大量石油。大量石油正在開採，而且是美國公司在做這件事。”特朗普表示，將會有“很多協議”，相關宣佈可能會在“本週或下週”釋出。他沒有透露任何細節，只是形容這些協議“龐大，屬於最大規模之列”。特朗普迴避了有關他是否支援伊拉克對OPEC施壓的問題，稱他支援伊拉克總理，並表示“至於OPEC，那是他的決定”。"
     }
   ]
 }

@@ -1,7 +1,54 @@
 {
   "date": "2026-07-22",
-  "count": 68,
+  "count": 73,
   "items": [
+    {
+      "id": "mkt:019f85a8-a1b7-7aab-8e2f-a4e5c3e52508",
+      "time": "2026-07-22 01:10:48",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "FITCH says failure to renew the US-Mexico-Canada Agreement (USMCA) would widen credit divergence among Mexican corporates."
+    },
+    {
+      "id": "5000751",
+      "time": "2026-07-22 01:09:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客民用飛機執行長：我們有意進軍併購市場。"
+    },
+    {
+      "id": "mkt:019f85a7-5fc6-7aab-8e2f-99e11b8868a9",
+      "time": "2026-07-22 01:09:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Amazon Web Services (AWS): Amazon Simple Email Service (SES) will no longer offer its exclusive free tier to new customers. Previously, new customers received 3,000 free emails per month for the first 12 months after initial use."
+    },
+    {
+      "id": "mkt:019f85a6-c1fb-7aab-8e2f-926a80ee978f",
+      "time": "2026-07-22 01:08:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese President Aoun said the meeting went very smoothly."
+    },
+    {
+      "id": "5000750",
+      "time": "2026-07-22 01:07:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客民用飛機執行長：不排除將 A350 產能大幅提升至月產 12 架以上的可能性。"
+    },
     {
       "id": "mkt:019f85a5-3d79-7aab-8e2f-88e668a861c1",
       "time": "2026-07-22 01:07:06",
