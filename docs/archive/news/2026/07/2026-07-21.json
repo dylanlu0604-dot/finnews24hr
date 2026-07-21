@@ -1,7 +1,117 @@
 {
   "date": "2026-07-21",
-  "count": 3078,
+  "count": 3090,
   "items": [
+    {
+      "id": "5000567",
+      "time": "2026-07-21 21:56:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（7月20日）擔保隔夜融資利率（SOFR）報3.57%，之前一天報3.59%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5000566",
+      "time": "2026-07-21 21:56:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江西釋出暴雨橙色預警 部分地區降水可達50毫米以上】江西省氣象臺2026年7月21日21時23分變更暴雨橙色預警訊號：預計未來3小時內，南昌市和九江市東部及上饒市西部的部分地區降水可達50毫米以上，並伴有短時強降水、雷電等強對流天氣，請注意防範強降雨可能引發的城鄉內澇、中小河流洪水、山洪和地質災害等次生災害。（央視新聞）"
+    },
+    {
+      "id": "5000565",
+      "time": "2026-07-21 21:55:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普首席人工智慧安全官員離職 曾參與Anthropic出口管制談判】美國商務部一名發言人證實，特朗普政府首席人工智慧安全官員克里斯・福爾任職僅三個月便離職。 福爾曾任人工智慧標準與創新中心（CAISI）主任，主導美國政府針對主流人工智慧模型的自願性審查機制。人工智慧標準與創新中心隸屬於商務部，是對接行業的核心機構，負責推進商用人工智慧測試與相關研究工作。 他離職之際，白宮與全美議員正圍繞如何監管這項新興技術展開博弈。 發言人表示：“克里斯離職後，美國國家標準與技術研究院（NIST）院長阿爾溫德・拉曼博士將接管人工智慧標準與創新中心的監管工作，出任該中心代理主任。” 拉曼同時將牽頭遴選新任中心常任主任，人選預計在未來數週公佈。商務部一位不願具名的代表稱，商務部長霍華德・盧特尼克希望物色一名具備紮實人工智慧領域學識與專業能力的人選。"
+    },
+    {
+      "id": "mkt:019f84f5-caf6-7aab-8e2b-70236c717caa",
+      "time": "2026-07-21 21:55:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Indian government data released Tuesday showed June crude oil imports fell more than 12% month-on-month to 19.59 mln tonnes."
+    },
+    {
+      "id": "te:markets:568581",
+      "time": "2026-07-21 21:55:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Rises on Middle East Diplomacy Hopes — The S&P/TSX Composite Index edged higher to trade above 35,000 on Tuesday, supported by hopes for a diplomatic resolution to Middle East tensions. Iran is reportedly considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for an agreement to end the war. Gold prices rose on the news, supporting mining shares. Agnico Eagle gained more than 3%, Barrick rose 2%, and WPM added over 2.5%. Oil prices remained elevated, lifting energy stocks. Canadian Natural, Cenovus, and Imperial Oil gained more than 1%, while Suncor advanced over 1.5%. In contrast, financial stocks traded little changed amid energy-driven inflation concerns. Meanwhile, US President Trump vowed to impose a 50% tariff on a broad range of Canadian imports. However, key Canadian exports such as energy, potash, and critical minerals are exempt, while autos and steel are excluded because they are already subject to separate sector-specific tariffs."
+    },
+    {
+      "id": "5000564",
+      "time": "2026-07-21 21:55:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "ProShares比特幣策略ETF和iShares比特幣信託各上漲2.3%。"
+    },
+    {
+      "id": "5000563",
+      "time": "2026-07-21 21:54:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "COINBASE：已立即採取行動防止類似事件發生。中斷影響了鏈上服務。"
+    },
+    {
+      "id": "5000562",
+      "time": "2026-07-21 21:54:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "COINBASE：7月14日出現服務中斷。"
+    },
+    {
+      "id": "5000561",
+      "time": "2026-07-21 21:54:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "日元再度跌至 1986 年以來最低水平，兌美元觸及 162.89。"
+    },
+    {
+      "id": "te:economy:568580",
+      "time": "2026-07-21 21:53:47",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Sweden",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Sweden 10Y Bond Yield Hits 32-month High — Sweden 10 Year Government Bond Yield increased to 2.98%, the highest since November 2023. Over the past 4 weeks, Sweden 10Y Bond Yield gained 21.80 basis points, and in the last 12 months, it increased 61.40 basis points."
+    },
+    {
+      "id": "mkt:019f84f3-af2f-7aab-8e2b-6de27194d143",
+      "time": "2026-07-21 21:53:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "India will host the 16th BRICS health ministers meeting from July 22 to 24."
+    },
+    {
+      "id": "5000560",
+      "time": "2026-07-21 21:53:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀下調MATADOR RESOURCES CO <MTDR.N>目標價至56美元，此前為62美元。"
+    },
     {
       "id": "mkt:019f84f3-37bd-7aab-8e2b-65bc22d674e0",
       "time": "2026-07-21 21:52:39",
