@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-21 08:04:47",
-  "count": 19009,
+  "updated": "2026-07-21 08:08:42",
+  "count": 19001,
   "items": [
+    {
+      "id": "mkt:019f8200-0ff5-7aab-8e16-775c8dfdc733",
+      "time": "2026-07-21 08:07:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Central Glass feedstock shortage said to threaten high-purity WF6 output; TSMC says multi-sourcing, no expected operational impact】Taiwan Economic Daily reported market chatter that Japanese specialty-gas supplier Central Glass may halt production of global high-purity tungsten hexafluoride (WF6) due to a feedstock shortage, prompting concern about disruption to the semiconductor market. TSMC said its global procurement strategy emphasizes multi-sourcing and diversified suppliers and it does not currently expect an impact on operations."
+    },
+    {
+      "id": "4998624",
+      "time": "2026-07-21 08:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國家能源局：6月全國新增建檔立卡新能源發電專案共3825個】國家能源局資料顯示，2026年6月，全國新增建檔立卡新能源發電（不含戶用光伏）專案共3825個，其中風電專案32個，光伏發電專案3787個（集中式光伏發電專案36個，工商業分散式光伏發電專案3751個），生物質發電專案6個。"
+    },
+    {
+      "id": "4998623",
+      "time": "2026-07-21 08:07:15",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【受人工智慧相關產品拉動，韓國7月前20天出口創歷年7月新高】得益於人工智慧催生的半導體需求持續拉動經濟，韓國7月上旬出口延續強勁增勢。韓國海關週二公佈的資料顯示，經工作日調整後，7月前20天出口額同比大漲62.9%，創下歷年7月同期出口最高紀錄；上月同期該增幅為49.7%。未經調整口徑下，出口同比增長52.3%，進口同比上漲20%，實現122億美元貿易順差。資料顯示，在人工智慧與資料中心持續投資的支撐下，韓國外需保持韌性。半導體持續成為韓國出口與整體經濟增長的核心引擎，一定程度對沖了中東局勢帶來的負面影響。晶片出口同比飆升180.6%，計算機相關產品出口增幅接近232%，燃料出口上漲33.4%；汽車出口同比下滑10.6%。亮眼的外貿資料印證了韓國央行上週加息的決策——該行時隔三年多首次上調政策利率。全體委員一致將基準利率上調25個基點至2.75%，並釋放持續收緊貨幣政策的訊號：當前通脹仍高於政策目標，且經濟增速有望超出央行此前預測。"
+    },
+    {
+      "id": "mkt:019f81fd-41dd-7aab-8e16-69b06b841010",
+      "time": "2026-07-21 08:04:46",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact bullish",
+        "005930.KS"
+      ],
+      "text": "SK Hynix and Samsung Electronics each rose about 1%."
+    },
+    {
+      "id": "4998622",
+      "time": "2026-07-21 08:04:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.6%，報8,742.90點。"
+    },
+    {
+      "id": "4998621",
+      "time": "2026-07-21 08:04:29",
+      "tags": [
+        "資料",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信證券：維持今年美聯儲維持政策利率水平不變的機率較高的觀點】中信證券研報稱，美國6月CPI同比增速由5月的4.2%下降至3.5%，核心CPI環比從0.2%下降至0.0%，整體CPI與核心CPI增速均低於市場預期。6月美國CPI環比下降，主要由能源成本大幅回撥推動，同時6月核心商品項環比負增長、核心服務中住所項增速放緩共同助推了通脹節奏放緩。由於美伊協議十分脆弱，原油價格上行風險仍存，後續美國通脹壓力仍存在一定的上行風險，但整體通脹壓力可控，我們仍維持今年美聯儲維持政策利率水平不變的機率較高的觀點。"
+    },
     {
       "id": "4998620",
       "time": "2026-07-21 08:02:53",
@@ -174641,152 +174697,6 @@
         "觀點"
       ],
       "text": "【中信證券：建議配置龍頭水電、煤電一體化、估值對於行業風險已經充分釋放的H股綠電和核電】中信證券研報稱，2026H1，行業基本面整體疲弱、成本端煤價走高、收入端綜合上網電價下降、行業層面產能過剩等因素持續壓制行業；分電源看，我們預計僅來水偏豐且電價穩定的水電中報業績表現優異，火電、風光、核電等非水電源中報或普遍不佳；基本面偏弱環境下，高確定性和估值是篩選標的關鍵，建議配置龍頭水電、煤電一體化、估值對於行業風險已經充分釋放的H股綠電和核電。"
-    },
-    {
-      "id": "mkt:019f5df3-aacf-7aab-8d66-79a71a5b5a1e",
-      "time": "2026-07-14 08:07:57",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "Spot silver was down 1.00% intraday at $57.07/oz. WTI crude rose more than 2.00% intraday to $79.36/bbl."
-    },
-    {
-      "id": "mkt:019f5df3-5fed-7aab-8d66-7145a3c7e7e6",
-      "time": "2026-07-14 08:07:38",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact mixed",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【CITIC Securities: Hardware semiconductor trading likely to concentrate on short-term, high-certainty segments】CITIC Securities says in a research note that with macro tail risks easing, AI is again the key variable for U.S. tech stocks in H2. Recent sharp market moves have been noisy, but investor views on AI are normalizing and near-term ROI focus is intensifying. Into H2, AI monetization pace, sustainability of big-tech AI CAPEX and AI value-chain allocation will dominate market debate; elevated volatility is likely to persist. Market emphasis should be on hyperscalers and application software/internet names where revenue growth has troughed and is rebounding; exercise caution on cybersecurity and foundational software stocks with high expectations. Hardware semiconductor trading should narrow toward short-term, high-certainty opportunities."
-    },
-    {
-      "id": "4985528",
-      "time": "2026-07-14 08:07:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌1%，現報57.35美元/盎司。"
-    },
-    {
-      "id": "te:economy:566530",
-      "time": "2026-07-14 08:07:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Ireland",
-        "Construction PMI",
-        "Importance 1"
-      ],
-      "text": "Irish Construction Shrinks the Most in 9 Months — The AIB Ireland Construction PMI fell to 45.4 in June 2026 from 50.2 in May, marking the sharpest contraction in construction activity since September 2025. The downturn was broad-based, with activity declining across all three sectors, led by the residential segment, which recorded its steepest fall in nearly four years, while commercial activity contracted for the first time in five months. New orders also declined at the fastest pace since August 2023 as sharply rising prices discouraged clients from committing to new projects. In response, firms reduced purchasing activity for the first time in eight months, although employment continued to grow for an eighth consecutive month. Supplier delivery times lengthened due to shipping disruptions linked to the Middle East conflict, while input costs remained elevated amid higher oil and raw material prices, despite inflation easing slightly for a second straight month. Lastly, business confidence improved for a second consecutive month."
-    },
-    {
-      "id": "4985527",
-      "time": "2026-07-14 08:06:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遼寧渾河瀋陽水文站洪水黃色預警降級為藍色預警】渾河瀋陽水文站（瀋陽市和平區南京街工農橋）7月14日6時水位37.94米（相應流量2740立方米每秒），低於黃色預警標準，並持續下降。根據《遼寧省洪水預警釋出管理辦法》的規定，遼寧省河庫管理服務中心（遼寧省水文局）將洪水黃色預警降級為藍色預警，請沿河各有關單位及社會公眾加強防範。（遼寧水利）"
-    },
-    {
-      "id": "mkt:019f5df2-84e9-7aab-8d66-69f90f7ea474",
-      "time": "2026-07-14 08:06:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "【CITIC Securities: Current U.S.-Iran stalemate risks becoming protracted】CITIC Securities says renewed U.S.-Iran tensions reflect fundamental flaws in the U.S.-Iran memorandum of understanding that make implementation difficult. The current stalemate carries a risk of becoming prolonged, characterized by failure to form a stable agreement, episodic fighting and intermittent disruptions to transit through the Strait of Hormuz. Markets typically expect this year’s U.S. midterm elections to restrain the Trump administration’s use of force, but CITIC notes that if the probability of Republicans losing the Senate remains low, political pressure on issues such as Supreme Court appointments, impeachment probes and election disputes will be limited — so markets may be overestimating the midterms’ constraining effect."
-    },
-    {
-      "id": "4985526",
-      "time": "2026-07-14 08:06:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士股價下跌3.5%。"
-    },
-    {
-      "id": "te:markets:566529",
-      "time": "2026-07-14 08:06:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Crude Oil Hits 4-week High — Crude Oil increased to 79.62 USD/Bbl, the highest since June 2026. Over the past 4 weeks, Crude Oil WTI lost 1.45%, and in the last 12 months, it increased 18.81%."
-    },
-    {
-      "id": "4985525",
-      "time": "2026-07-14 08:05:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "澳大利亞S&P/ASX 200指數早盤下跌0.2%，報8,788.00點。"
-    },
-    {
-      "id": "mkt:019f5df1-66a8-7aab-8d66-65545adb01d3",
-      "time": "2026-07-14 08:05:29",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bearish",
-        "Nasdaq100",
-        "US10Y"
-      ],
-      "text": "【SK Hynix rout underscores widening cross-market contagion risk】SK Hynix fell nearly 10% on its second day of US trading. Underlying volatility in Korea has been acute: after Korean regulators warned of a chip-sector overheat, the KOSPI plunged almost 10% on June 23; three days later (June 26) memory-demand worries triggered an index circuit breaker; on July 13 KOSPI dropped about 9% amid Iran-related risk, again tripping a market-wide circuit breaker. These moves have shown early global transmission—following the June 23 selloff the Nasdaq fell more than 2%, and it closed down 1.55% after the July 13 KOSPI decline. SK Hynix’s US listing, reportedly ~7x oversubscribed, effectively embeds one of Korea’s most leveraged, volatility-prone stocks into US investor portfolios. Market mechanics cited in the note: amplified retail leverage in Korea magnifies chip-sector swings, weighing on global AI demand expectations, while repricing of US Treasuries tightens liquidity—together increasing potential for broader spillovers. This is not a forecast of imminent systemic crisis: semiconductor demand supporting Samsung and SK Hynix remains real and growing, but KOSPI concentration and leverage-driven volatility raise the risk that shocks in Korea propagate more widely than expected."
-    },
-    {
-      "id": "4985524",
-      "time": "2026-07-14 08:05:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【日經225指數跌幅擴大至1%】日經225指數跌幅擴大至1%，現報66521.3點。"
-    },
-    {
-      "id": "mkt:019f5df1-153c-7aab-8d66-58111747b33a",
-      "time": "2026-07-14 08:05:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bearish"
-      ],
-      "text": "South Korea's KOSPI extended losses to 2%; SK Hynix fell 3%."
-    },
-    {
-      "id": "4985523",
-      "time": "2026-07-14 08:05:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿聯酋兩艘油輪在霍爾木茲海峽遭襲致1死8傷】阿聯酋國防部表示，兩艘阿聯酋國家油輪當天在霍爾木茲海峽南部航道遭兩枚來自伊朗方向的巡航導彈襲擊，造成1人死亡、8人受傷。報道稱，遭襲油輪分別為“蒙巴薩”號和“巴希婭”號。襲擊造成“蒙巴薩”號上1名印度籍船員死亡，另有6名印度籍船員和兩名烏克蘭籍船員受傷，其中4人傷勢嚴重。襲擊還導致這兩艘油輪起火、船體受損，目前火勢已被撲滅。（新華社）"
-    },
-    {
-      "id": "4985522",
-      "time": "2026-07-14 08:04:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數下跌2%，至6668.60。"
     }
   ]
 }
