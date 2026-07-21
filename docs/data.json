@@ -1,7 +1,95 @@
 {
-  "updated": "2026-07-21 21:49:13",
+  "updated": "2026-07-21 21:53:14",
   "count": 18424,
   "items": [
+    {
+      "id": "mkt:019f84f3-37bd-7aab-8e2b-65bc22d674e0",
+      "time": "2026-07-21 21:52:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index ticks down as Capesize rebound limits decline】Baltic Dry Index (BDI) fell 1 point (0.04%) to 2,670 as a rebound in Capesize rates capped the drop. The Capesize index (BCI) rose 41 points (1.1%) to 3,930 — its first gain since July 14 — with average daily earnings up $369 to $32,137. Panamax index (BPI) slipped 46 points (2.1%) to 2,181; Panamax daily earnings declined $416 to $19,629. Supramax index (BSI) dropped 8 points (0.5%) to 1,730, its first fall since early July. Handysize index (BHSI) edged up 2 points to 903."
+    },
+    {
+      "id": "mkt:019f84f2-8739-7aab-8e2b-59294e4f08f8",
+      "time": "2026-07-21 21:51:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Petroecuador's oil shipments via the SOTE pipeline rose 11.7% in 1H."
+    },
+    {
+      "id": "te:markets:568579",
+      "time": "2026-07-21 21:51:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "Japanese Yen Hits 39-1/2-year Low — The Japanese Yen touched 162.84 against the USD, the lowest since December 1986. Over the past 4 weeks, US Dollar Japanese Yen gained 0.78%, and in the last 12 months, it increased 10.95%."
+    },
+    {
+      "id": "5000559",
+      "time": "2026-07-21 21:50:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "厄瓜多國家石油公司：上半年透過 SOTE 管道輸送原油量同比上升 11.7% 。"
+    },
+    {
+      "id": "5000558",
+      "time": "2026-07-21 21:50:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中化裝備：發行股份購資產並募資報告書草案修訂說明】中化裝備公告稱，公司擬發行股份購買中國化工裝備持有的益陽橡膠塑膠機械100%股權、北京藍星節能持有的藍星（北京）化工機械100%股權，並向不超35名特定投資者募資。上交所重組委7月20日稽核透過本次交易，公司對相關報告書草案進行修訂，主要更新已履行程式、細化北化機業績承諾與補償安排描述，少許表述完善對方案無實質影響。"
+    },
+    {
+      "id": "5000557",
+      "time": "2026-07-21 21:49:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【墨江縣發生5.0級地震，雲南啟動省級抗震救災四級應急響應】雲南省應急管理廳訊息，據中國地震臺網正式測定：7月21日19時43分06秒在雲南省普洱市墨江縣魚塘彝族鄉（北緯23.19度、東經101.46度）發生5.0級地震。暫未接到人員傷亡情況報告。目前，省抗震救災指揮部已啟動省級抗震救災四級應急響應，並派出工作組趕赴現場指導應急處置工作。"
+    },
+    {
+      "id": "5000556",
+      "time": "2026-07-21 21:48:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "美銀證券維持蘋果買入評級，維持目標價380美元。"
+    },
+    {
+      "id": "mkt:019f84ef-bb6b-7aab-8e2b-524a2902b540",
+      "time": "2026-07-21 21:48:51",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 10-year and 30-year Treasury yields hit two-month highs."
+    },
+    {
+      "id": "5000555",
+      "time": "2026-07-21 21:48:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 聖克魯什 - 達什弗洛雷斯東北偏東 134 公里處發生 5.5 級地震。"
+    },
     {
       "id": "5000554",
       "time": "2026-07-21 21:48:12",
@@ -169539,92 +169627,6 @@
         "國際"
       ],
       "text": "哈塞特：我們在消費者物價指數（CPI）中看到了特朗普政策取得成功的跡象。"
-    },
-    {
-      "id": "mkt:019f60e5-ce5f-7aab-8d7f-bf3dfdb2677f",
-      "time": "2026-07-14 21:51:40",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "White House National Economic Council director HASSETT said prices had fluctuated due to Iranian influence."
-    },
-    {
-      "id": "4987946",
-      "time": "2026-07-14 21:51:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "哈塞特：由於伊朗人，價格出現了一些波動。"
-    },
-    {
-      "id": "4987945",
-      "time": "2026-07-14 21:51:12",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀金期貨突破1300美元/盎司，日內漲3.79%。"
-    },
-    {
-      "id": "mkt:019f60e5-2e0e-7aab-8d7f-b5a1e49999af",
-      "time": "2026-07-14 21:50:59",
-      "tags": [
-        "MKT News",
-        "WTI"
-      ],
-      "text": "HASSETT, director of the White House National Economic Council, said lowering gasoline prices to $3/gal is realistic."
-    },
-    {
-      "id": "4987944",
-      "time": "2026-07-14 21:50:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：將汽油價格降至每加侖3美元是現實的。"
-    },
-    {
-      "id": "mkt:019f60e4-7094-7aab-8d7f-a93cd8be836d",
-      "time": "2026-07-14 21:50:11",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "HASSETT: A sharp fall in inf from lower gasoline prices is imminent."
-    },
-    {
-      "id": "mkt:019f60e4-6bef-7aab-8d7f-a7019cdb34e2",
-      "time": "2026-07-14 21:50:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh, chair of the Federal Reserve, will appear before the House Financial Services Committee in ten minutes for the Fed's semiannual monetary policy report hearing."
-    },
-    {
-      "id": "4987943",
-      "time": "2026-07-14 21:49:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "白宮國家經濟委員會主任哈塞特：汽油價格即將大幅下跌。"
-    },
-    {
-      "id": "4987942",
-      "time": "2026-07-14 21:49:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "墨西哥已就本國公民在美國移民拘留期間死亡一事，向美國各州檢察官提起刑事訴訟。"
     }
   ]
 }
