@@ -1,7 +1,219 @@
 {
-  "updated": "2026-07-22 07:49:09",
-  "count": 18055,
+  "updated": "2026-07-22 07:53:00",
+  "count": 18063,
   "items": [
+    {
+      "id": "5001020",
+      "time": "2026-07-22 07:52:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新股提示：北交所聚仁新材今日申購】今日可申購北交所新股聚仁新材，聚仁新材發行總數約4000萬股，發行市盈率14.97倍，申購程式碼為：920258，申購價格：4.48元。"
+    },
+    {
+      "id": "mkt:019f8718-1a16-7aab-8e34-20e623830668",
+      "time": "2026-07-22 07:52:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Japan June seasonally adjusted goods trade balance -881.9 bln JPY vs -502.1 bln expected; prior -90.4 bln."
+    },
+    {
+      "id": "mkt:019f8718-0035-7aab-8e34-19764e63b391",
+      "time": "2026-07-22 07:52:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan's Ministry of Finance: June thermal coal imports rose 18.5% YoY to 7.148 mln tonnes."
+    },
+    {
+      "id": "mkt:019f8717-ff9c-7aab-8e34-1532162827eb",
+      "time": "2026-07-22 07:52:04",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Japan's Finance Ministry said preliminary June crude oil imports fell 13.7% YoY. June LNG imports rose 6.2% YoY to 4.718 mln tonnes."
+    },
+    {
+      "id": "mkt:019f8717-f9d2-7aab-8e34-0fe67815cb0d",
+      "time": "2026-07-22 07:52:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Adjusted Merchandise Trade Balance (Jun) | actual -881932000000B | consensus -502100000000B | previous -90400000000B"
+    },
+    {
+      "id": "5001019",
+      "time": "2026-07-22 07:51:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方塔斯尼姆通訊社稱，布什爾省部分地區聽到巨大爆炸聲；初步判斷為美國對兩處地點發動襲擊。"
+    },
+    {
+      "id": "mkt:019f8717-2265-7aab-8e34-0204c1d5dc5f",
+      "time": "2026-07-22 07:51:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Europe & UK",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Ministry of Finance said June exports rose 13% YoY to the United States, 20.3% YoY to the European Union and 22.7% YoY to Asia."
+    },
+    {
+      "id": "5001018",
+      "time": "2026-07-22 07:50:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省：6月初步原油進口量同比下降13.7%。"
+    },
+    {
+      "id": "5001017",
+      "time": "2026-07-22 07:50:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月動力煤進口量同比增加18.5%，達到714.8萬噸。"
+    },
+    {
+      "id": "5001016",
+      "time": "2026-07-22 07:50:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務省公佈資料顯示，6月液化天然氣進口量同比增加6.2%，至471.8萬噸。"
+    },
+    {
+      "id": "mkt:019f8716-8813-7aab-8e33-f96598240d9c",
+      "time": "2026-07-22 07:50:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "NEE.O",
+        "Impact bullish",
+        "EQIX.O",
+        "DLR.O"
+      ],
+      "text": "【US utilities, data-centre firms agree to cover incremental AI power costs】Nearly 200 US utilities and data-centre operators, including NextEra Energy, Duke Energy, Equinix and Digital Realty, have signed a White House-backed pledge to absorb incremental electricity costs from AI model operations to limit upward pressure on residential rates, the Wall Street Journal said citing a White House signatory list. The administration plans for President Trump to formally announce the commitments at an EPA event on Thursday; Louisiana Governor Jeff Landry and Georgia Governor Brian Kemp have also signed and are expected to attend."
+    },
+    {
+      "id": "5001015",
+      "time": "2026-07-22 07:50:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗努爾新聞：防空部隊在德黑蘭東部打擊敵方目標。"
+    },
+    {
+      "id": "5001014",
+      "time": "2026-07-22 07:50:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本6月份出口同比增長19.3%，預估為18.0%。日本6月份進口同比增長25.4%，預估為21.2%。"
+    },
+    {
+      "id": "mkt:019f8716-485b-7aab-8e33-f67dba244b4b",
+      "time": "2026-07-22 07:50:12",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan June unadjusted merchandise trade balance: deficit ¥406.9 bln vs forecast deficit ¥120.0 bln; May deficit revised from ¥378.6 bln to ¥391.8 bln."
+    },
+    {
+      "id": "mkt:019f8716-3aad-7aab-8e33-e90f27cf304a",
+      "time": "2026-07-22 07:50:08",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan June merchandise exports YoY 19.3% vs expected 18.6%; May figure revised to 16.8% from 17.0%."
+    },
+    {
+      "id": "mkt:019f8716-3684-7aab-8e33-e2762e648d73",
+      "time": "2026-07-22 07:50:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan June goods imports YoY 25.4% (est. 21.0%; prior 12.5%)."
+    },
+    {
+      "id": "mkt:019f8716-1a58-7aab-8e33-dcce58f8fc08",
+      "time": "2026-07-22 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Unadjusted Merchandise Trade Balance (Jun) | actual -406900000000B | consensus -120000000000B | previous -378600000000B"
+    },
+    {
+      "id": "mkt:019f8716-1a18-7aab-8e33-d2dcdecc6758",
+      "time": "2026-07-22 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Exports (Jun) | actual 19.3% | consensus 18.6% | previous 17.00%"
+    },
+    {
+      "id": "mkt:019f8716-1a16-7aab-8e33-c85eb5bd84e5",
+      "time": "2026-07-22 07:50:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Annualized Adjusted Merchandise Trade Imports (Jun) | actual 25.4% | consensus 21% | previous 12.50%"
+    },
+    {
+      "id": "5001013",
+      "time": "2026-07-22 07:49:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "德黑蘭防空系統啟動攔截敵對目標。據伊朗媒體報道，伊朗大不里士、錫裡克等地傳出爆炸聲。首都德黑蘭的防空系統啟動，攔截“敵對”目標。（CCTV國際時訊）"
+    },
     {
       "id": "5001012",
       "time": "2026-07-22 07:48:08",
@@ -165874,125 +166086,6 @@
         "宏觀"
       ],
       "text": "【經濟日報金觀平：發展服務消費正當其時】國務院近日批覆同意的《擴大消費“十五五”規劃》，對“十五五”時期促進服務消費提質惠民作出部署，提出實施服務消費提質惠民行動，圍繞重點領域開展服務消費促進活動。服務消費一頭連著經濟發展，一頭連著百姓民生。擴大服務消費有利於進一步激發國內市場消費需求，充分發揮規模市場優勢，對於促進經濟高質量發展意義重大。下一步，需進一步聚焦服務消費新增長點，完善服務業政策支援體系，從放寬市場準入、清理不合理限制措施、培育優質品牌和經營主體等方面繼續推出支援舉措，推進生產性服務業向專業化和價值鏈高階延伸，促進生活性服務業高品質、多樣化、便利化發展，為消費市場注入更多活力。"
-    },
-    {
-      "id": "4988648",
-      "time": "2026-07-15 07:52:56",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數或將上漲，追隨華爾街漲勢】日本股市或將上漲，追隨華爾街隔夜的漲勢。強勁的銀行盈利和低於預期的美國通脹報告提振了市場情緒。國內科技股也可能受到科技股密集的納斯達克綜合指數週二上漲0.9%的提振。不過，在持續的中東緊張局勢下，該日本基準指數的漲幅可能受限。在新加坡交易所，日經指數期貨上漲710點，至68355點。日經指數週二收盤上漲0.7%，報67743.50點。"
-    },
-    {
-      "id": "4988647",
-      "time": "2026-07-15 07:52:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【上市公司起訴審計機構案例增多 背後權責爭議待釐清】近日，已退市至股轉系統的恆立實業起訴深圳旭泰會計師事務所（下稱“旭泰所”）及核心專案責任人的案件，已獲深圳市福田區法院立案受理。因審計機構擬出具非標審計意見，上市公司發起千萬元級索賠，引發行業爭議。據公開資料，恆立實業2023年年報被前任審計機構出具保留意見，因營收不足1億元、持續經營能力存疑被實施退市風險警示。在保殼關鍵節點，恆立實業2024年12月末臨時更換年審機構，但雙方合作矛盾不斷，2025年4月旭泰所擬出具無法表示意見的審計報告，與上市公司產生分歧，年報未能在法定期限內披露。不久後，恆立實業退市，隨即發起訴訟，向旭泰所索賠3827萬元，專案核心人員承擔無限連帶責任。近兩年，A股上市公司起訴年審會計師事務所的案例顯著增多，多家公司因審計進度、非標審計意見等糾紛對審計機構發起訴訟。一樁樁訴訟背後，會計責任與審計責任劃分不清、審計委託模式存在短板等現實難題，亟待各方理順規則。"
-    },
-    {
-      "id": "4988646",
-      "time": "2026-07-15 07:51:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股定增一覽：7家公司披露定增進展】Wind資料顯示，7月15日，A股共7家公司釋出定增相關公告。其中4家定增預案獲股東大會透過，2家定增預案獲交易所透過，1家定增方案停止實施。今年以來，已有97家公司公告定增方案已完成，32家公司定增金額超10億元。具體來看，中國國航、中國神華、中國能建定增募資金額最高，募資總額分別為200.0億元、200.0億元、65.0億元。"
-    },
-    {
-      "id": "4988645",
-      "time": "2026-07-15 07:51:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本5月核心機械訂單同比下降1.9%，調查預期為增長12.9%。日本5月核心機械訂單環比下降12.4%，調查預期為下降4.2%。"
-    },
-    {
-      "id": "4988644",
-      "time": "2026-07-15 07:51:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普威脅打擊伊朗橋樑和發電廠 施壓伊重啟談判】美國總統特朗普14日在接受美國福克斯新聞頻道專訪時說，除非伊朗重返談判桌，否則美軍將在下週打擊其橋樑和發電廠。特朗普說：“我們明後晚將對他們進行猛烈打擊，而到了下週，情況對他們來說將會變得非常糟糕，因為下週的目標將是橋樑和發電廠。除非他們坐下來談判，否則我們將摧毀他們所有橋樑和發電廠。”"
-    },
-    {
-      "id": "em:jjsj_rbsj:202607153806431849",
-      "time": "2026-07-15 07:50:56",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本5月核心機械訂單同比下降1.9%，預期12.90%，前值15.60%。"
-    },
-    {
-      "id": "mkt:019f6309-b591-7aab-8d8b-e3d2c463ea3a",
-      "time": "2026-07-15 07:50:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "Japan May core machinery orders YoY -1.9% vs +12.9% expected; prior +15.6%."
-    },
-    {
-      "id": "mkt:019f6309-b461-7aab-8d8b-deab13de3a75",
-      "time": "2026-07-15 07:50:08",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact bearish"
-      ],
-      "text": "Japan core machinery orders (May) -12.4% MoM vs -4.2% expected; April +8.7%."
-    },
-    {
-      "id": "mkt:019f6309-aed8-7aab-8d8b-d5fd93f5ba12",
-      "time": "2026-07-15 07:50:06",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Trump threatens strikes on Iranian bridges and power plants to force Tehran back to talks】In a Fox News interview on the 14th, US President Trump warned US forces will strike Iranian bridges and power plants next week unless Iran returns to the negotiating table. He said US negotiators spoke with Iranian officials on the 14th and told them to reach a deal or 'you will cease to exist.' Trump added military strikes would continue 'until I say stop,' said Iran's capabilities have been significantly degraded but can still retaliate, and did not rule out deploying ground troops, offering no further details."
-    },
-    {
-      "id": "mkt:019f6309-9867-7aab-8d8b-c98e9fbcb430",
-      "time": "2026-07-15 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (YoY) (May) | actual -1.9% | consensus 12.90% | previous 15.60%"
-    },
-    {
-      "id": "mkt:019f6309-96cc-7aab-8d8b-c2dc6e0117d5",
-      "time": "2026-07-15 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Core Machinery Orders (MoM) (May) | actual -12.4% | consensus -4.2% | previous 8.70%"
-    },
-    {
-      "id": "4988642",
-      "time": "2026-07-15 07:49:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國：霍爾木茲海峽必須保持航運自由】當地時間14日，聯合國方面表示，美國與伊朗重新陷入更廣泛的敵對行動，是地區局勢的一次重大倒退。聯合國方面同時強調，霍爾木茲海峽必須保持航運自由，反對任何一方限制船舶通行或徵收通行費。"
     }
   ]
 }
