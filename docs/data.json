@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-22 01:20:27",
-  "count": 18130,
+  "updated": "2026-07-22 01:24:27",
+  "count": 18128,
   "items": [
+    {
+      "id": "5000754",
+      "time": "2026-07-22 01:23:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰·圖恩（John Thune，南達科他州共和黨人）：我們將快速確認Keith E. Sonderling的勞工部長提名資格。"
+    },
     {
       "id": "mkt:019f85ae-5265-7aab-8e2f-b72d67f1e96b",
       "time": "2026-07-22 01:17:01",
@@ -166723,30 +166731,6 @@
         "Impact bullish"
       ],
       "text": "【Apple in talks with AI startup to run large models on iPhone】CNBC reports Apple has held preliminary talks with AI startup PrismML to assess model-compression tech that would let large AI models run on iPhones without cloud compute. PrismML says it can reduce model memory footprint 10–15x, enabling a 27 billion-parameter model to run on iPhone 15 and later, with 6–8x faster response and 3–6x lower energy use. If validated at scale, Apple could shift more Siri and generative-AI functions on‑device, improving latency, privacy, offline use and cutting cloud costs; real-world impacts on battery life, stability and long-term performance remain untested."
-    },
-    {
-      "id": "4988344",
-      "time": "2026-07-15 01:22:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部表示已拉響防空警報，呼籲本國公民與居民保持冷靜，並前往就近安全場所避險。"
-    },
-    {
-      "id": "4988343",
-      "time": "2026-07-15 01:22:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "LUCID股票恢復交易；目前下跌39%。"
-    },
-    {
-      "id": "4988342",
-      "time": "2026-07-15 01:20:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯莫斯科市長索比亞寧：今日已擊落36架無人機，防空部隊擊落了七架接近莫斯科的無人機。"
     }
   ]
 }
