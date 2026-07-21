@@ -1,7 +1,73 @@
 {
-  "updated": "2026-07-22 07:06:26",
-  "count": 18054,
+  "updated": "2026-07-22 07:10:19",
+  "count": 18059,
   "items": [
+    {
+      "id": "5000970",
+      "time": "2026-07-22 07:09:19",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【外資機構密集發聲看好中國股市】7月以來，花旗集團、瑞銀、渣打銀行等多家外資機構密集釋出市場觀點，看好中國股市下半年表現。從評級上調到真金白銀增配，外資機構正在用實際行動唱多做多中國資產。伴隨資本市場系列對外開放舉措持續推進，全球資本配置中國資產的通道將持續拓寬，中國資本市場對外資長線資金的“磁吸力”有望進一步增強。（中國證券報）"
+    },
+    {
+      "id": "5000969",
+      "time": "2026-07-22 07:09:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【AI算力需求驅動+產品漲價 半導體產業鏈上半年業績大面積預增】最高預增743倍，半年度利潤高達110億元，以儲存模組龍頭江波龍為代表，A股半導體公司上半年業績大面積預喜。半導體公司上半年業績為何增長？AI算力需求爆發帶動需求增長，疊加產品漲價，佈局AI賽道的半導體企業依託產品“量價齊升”，實現營收與利潤同步高增。展望下半年，有業內人士分析稱，在北美四大雲廠資本開支援續加碼、頭部大模型公司商業化持續落地的情況下，AI算力需求有望維持高增長態勢，算力鏈條上的AI晶片、半導體裝置與材料等細分環節，將持續保持較高景氣度。（上海證券報）"
+    },
+    {
+      "id": "5000968",
+      "time": "2026-07-22 07:08:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【越疆：宋某並非公司創始股東及聯合創始人，間接持有的公司股權來自員工股權激勵計劃】7月22日早間，越疆在港交所公告，公司注意到近期有關宋某就其與公司員工持股平臺深圳市越疆諮詢合夥企業（有限合夥）財產份額的不實言論持續擴散，引發市場各界對公司的關注。宋某並非公司創始股東及聯合創始人。宋某透過受讓取得越疆合夥財產份額，間接持有的公司股權來自員工股權激勵計劃。依據員工股權激勵計劃，宋某離職後公司實際控制人或指定第三人有權回購其持有的激勵份額。越疆合夥轉讓所持公司股權及調整內部財產份額比例合法合規。"
+    },
+    {
+      "id": "5000967",
+      "time": "2026-07-22 07:07:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "英特爾表示將致力於投資美國俄亥俄州晶片製造園區。"
+    },
+    {
+      "id": "5000965",
+      "time": "2026-07-22 07:07:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將雀巢評級上調至“買入”，目標價為99瑞士法郎。"
+    },
+    {
+      "id": "5000964",
+      "time": "2026-07-22 07:06:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：英國首相伯納姆將宣佈，從明年1月起，英格蘭各地的公交票價將設定2英鎊的上限。"
+    },
+    {
+      "id": "mkt:019f86ed-d3ee-7aab-8e33-68d94cb3a999",
+      "time": "2026-07-22 07:06:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK prime minister Burnham to announce a £2 cap on bus fares across England from January."
+    },
+    {
+      "id": "5000963",
+      "time": "2026-07-22 07:05:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普計劃從2028年8月起對仿製藥徵收100%關稅】特朗普發文稱，將從2028年8月起針對仿製藥徵收100%的關稅，2029年8月起將徵收200%的關稅。特朗普表示，從2026年8月1日起的兩年內，仿製藥將免關稅。"
+    },
     {
       "id": "5000962",
       "time": "2026-07-22 07:05:21",
@@ -165952,36 +166018,6 @@
         "其他"
       ],
       "text": "【OpenAI正在開發化身AI伴侶的智慧音箱，作為其首款硬體產品】7月15日，據報道，OpenAI備受期待的首款硬體裝置將是一臺可移動、無螢幕的智慧音箱，定位人工智慧時代的新型家用電腦。這款仍在開發中的產品將成為具備人類特質的居家AI伴侶,，該裝置將幫助使用者控制智慧家居裝置、播放媒體內容、回答問題、回覆訊息，並呼叫ChatGPT的廣泛功能。不過，OpenAI的硬體佈局已經遭遇阻力。蘋果上週起訴OpenAI竊取商業秘密。OpenAI認為這款裝置與蘋果目前在售的任何產品都有顯著區別，也不太可能侵犯這家iPhone製造商的商業秘密。"
-    },
-    {
-      "id": "4988587",
-      "time": "2026-07-15 07:08:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百度公司創始人李彥宏人民日報撰文：為智慧經濟打造科學評價體系】文章稱，過去幾年，大模型引數規模不斷重新整理紀錄，算力投入持續增長，Token（詞元）消耗快速攀升。相關數量指標能夠反映技術能力和資源投入情況，很有必要。但如果AI的價值標尺僅停留在“投入了多少”“消耗了多少”，就容易形成“重投入、輕產出”的傾向，比如盲目追風、不顧實際應用搞大模型，一哄而上搞“Token排行榜”“燒Token比賽”等。如何應對？一個有效方式是為智慧經濟打造科學的評價體系，透過科學指標衡量其實際應用、實際產出。目前看，“日活智慧體數”（Daily Active Agents，簡稱DAA）可作為一個重要指標。如果說Token衡量的是智慧消耗，那麼DAA衡量的則是智慧生產力，即每天有多少智慧體完成了交付任務。中國擁有全球最豐富的應用場景、最完整的產業鏈、最大的數字消費市場，每天都在產生海量真實需求，訂機票、訂酒店、預約體檢、撰寫研究報告、投資理財等，都將成為智慧體生長的肥沃土壤。充分利用這樣的優勢和條件，更加註重人工智慧技術與實體經濟結合、與真實場景結合、與群眾訴求結合，我們定能走出一條以解決實際問題為導向、以滿足真實需求為目標的智慧經濟發展新路徑。AI不能只在實驗室裡“刷榜”，必須到工廠車間裡“幹活”。用AI服務人類，這是科技界、產業界的初衷。錨定這個目標踏踏實實往前走，把技術優勢真正轉化為產業升級的勝勢，高質量發展將擁有更強勁的引擎。"
-    },
-    {
-      "id": "mkt:019f62e3-a016-7aab-8d8b-ad67fbdcd314",
-      "time": "2026-07-15 07:08:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "USDJPY",
-        "Impact bullish",
-        "Nikkei 225",
-        "Impact mixed"
-      ],
-      "text": "【Japan manufacturing confidence steady on chip demand; services pressured by costs】REUTERS TANKAN: Robust semiconductor demand kept Japanese manufacturing confidence relatively upbeat in July, with the manufacturing business conditions index steady at 13. Non-manufacturing confidence fell to 25 from 32 as Middle East tensions, a weak yen and rising interest rates raised costs. Manufacturers reported a semiconductor market recovery — including memory-related demand — and rapidly expanding orders for chip applications and AI-server products; electronic component orders broadly increased. A precision machinery firm said order volumes and values are at unprecedented levels and flagged capacity constraints. Services firms said Middle East tensions show early signs of easing but the situation remains unsettled. Looking ahead, manufacturers expect sentiment to stay stable and the October manufacturing index to nudge to 14, while non-manufacturing is forecast to remain at 25 as firms assess geopolitical and supply-chain risks."
-    },
-    {
-      "id": "4988586",
-      "time": "2026-07-15 07:08:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新股提示：北交所長鷹硬科今日申購】今日可申購北交所新股長鷹硬科，長鷹硬科發行總數約1810萬股，發行市盈率14.99倍，申購程式碼920238，申購價格18.89元。"
     }
   ]
 }
