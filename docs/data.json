@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-22 00:52:01",
-  "count": 18166,
+  "updated": "2026-07-22 00:56:15",
+  "count": 18163,
   "items": [
+    {
+      "id": "5000740",
+      "time": "2026-07-22 00:55:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "道指漲1.01%，現報52361.461點；納指漲1.40%，現報25864.536點；標普500指數漲0.96%，現報7514.730點。"
+    },
+    {
+      "id": "5000739",
+      "time": "2026-07-22 00:54:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克 100 指數漲幅擴大至 2%，創下日內新高。"
+    },
+    {
+      "id": "mkt:019f8599-eb32-7aab-8e2f-6ed9638cffca",
+      "time": "2026-07-22 00:54:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "SpaceXAI to bring GROK to Microsoft Outlook. GROK for Outlook is a Microsoft 365 add-in and is available today to all paid X and SUPERGROK users."
+    },
+    {
+      "id": "5000738",
+      "time": "2026-07-22 00:54:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "LME期銅收漲263美元，報13885美元/噸。LME期鋁收漲18美元，報3158美元/噸。LME期鋅收漲32美元，報3552美元/噸。LME期鉛收跌10美元，報1869美元/噸。LME期鎳收漲156美元，報17085美元/噸。LME期錫收漲1007美元，報53885美元/噸。LME期鈷收平，報56290美元/噸。"
+    },
+    {
+      "id": "5000737",
+      "time": "2026-07-22 00:53:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客首席財務官：我們預計至 2029 年，A320 專案產能將達到滿負荷水平。"
+    },
+    {
+      "id": "5000736",
+      "time": "2026-07-22 00:51:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX AI：適用於 Outlook 的 Grok 為微軟 365 載入項，現已面向所有付費 X 使用者及 SuperGrok 使用者開放。"
+    },
+    {
+      "id": "5000735",
+      "time": "2026-07-22 00:51:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：太空噴氣客機專案落幕三年後，日本著手研發下一款國產客機。"
+    },
     {
       "id": "5000734",
       "time": "2026-07-22 00:50:59",
@@ -167026,106 +167085,6 @@
         "Impact bearish"
       ],
       "text": "Fed chair Kevin Warsh said the Fed has greater control over price levels than over the unemployment rate."
-    },
-    {
-      "id": "4988309",
-      "time": "2026-07-15 00:56:07",
-      "tags": [
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：不認為量化寬鬆（QE）本身就會引發通脹，在危機時期尤其如此。"
-    },
-    {
-      "id": "mkt:019f618e-371b-7aab-8d86-14898519873b",
-      "time": "2026-07-15 00:55:37",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said new indicators are needed to gauge underlying inflation."
-    },
-    {
-      "id": "mkt:019f618e-23ef-7aab-8d86-0d58d3bd0d5c",
-      "time": "2026-07-15 00:55:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Kevin Warsh said it is inaccurate to characterize him as favoring the Dallas Fed's trimmed-mean inflation gauge."
-    },
-    {
-      "id": "4988308",
-      "time": "2026-07-15 00:55:24",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲對物價水平的控制力強於對失業率的控制力。"
-    },
-    {
-      "id": "4988307",
-      "time": "2026-07-15 00:54:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：通脹（結果）是美聯儲和財政政策制定者做出的選擇。"
-    },
-    {
-      "id": "4988306",
-      "time": "2026-07-15 00:54:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我們需要全新指標來研判核心通脹走勢。"
-    },
-    {
-      "id": "4988305",
-      "time": "2026-07-15 00:54:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：關於我偏好達拉斯聯儲截尾均值通脹指標的說法是不正確的。"
-    },
-    {
-      "id": "mkt:019f618c-5c6d-7aab-8d86-06b809d4b550",
-      "time": "2026-07-15 00:53:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "GBPUSD",
-        "Impact mixed",
-        "FTSE100",
-        "Impact bearish"
-      ],
-      "text": "【Incoming UK prime minister faces immediate tests as economy strains and Iran risk rises】Andy Burnham, set to replace Starmer next Monday, will receive a Treasury economic assessment on his first day. The report projects Q4 inflation revised up to 3.2%, says gilt yields and financing costs will continue rising, and anticipates the Bank of England will raise rates at least once more before year-end. It warns that if a US–Iran ceasefire is not quickly restored, international oil could reach $150/bbl, lifting energy, food and jet-fuel prices, pushing up living costs and increasing downside pressure on the UK economy. Officials also cite elevated cyberattack risk from Iran and Russia and imminent policy decisions on Ukraine, Russia sanctions and Strait of Hormuz security as early challenges for the new administration."
-    },
-    {
-      "id": "4988304",
-      "time": "2026-07-15 00:53:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蘇拉威西海發生6.2級地震 震源深度50公里】中國地震臺網正式測定：7月14日23時49分，在蘇拉威西海（北緯5.30度，東經125.10度）發生6.2級地震，震源深度50公里。"
-    },
-    {
-      "id": "mkt:019f618b-2f70-7aab-8d85-fd6f0b37f078",
-      "time": "2026-07-15 00:52:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iraqi prime minister says US forces must withdraw from Iraq by Sept. 30】Iraqi prime minister Zaydi told President Trump at a White House meeting on the 14th that US forces must withdraw from Iraq by Sept. 30 this year."
     }
   ]
 }
