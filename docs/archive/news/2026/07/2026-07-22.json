@@ -1,7 +1,21 @@
 {
   "date": "2026-07-22",
-  "count": 131,
+  "count": 132,
   "items": [
+    {
+      "id": "mkt:019f85f7-7803-7aab-8e30-6ad967d53756",
+      "time": "2026-07-22 02:36:55",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】As of the 02:30 close, SHFE gold main contract rose 1.36% to 891 yuan/gram, SHFE silver main contract rose 3.01% to 14,421 yuan/kg, and SC crude main contract rose 3.15% to 547 yuan/barrel."
+    },
     {
       "id": "5000783",
       "time": "2026-07-22 02:31:08",
