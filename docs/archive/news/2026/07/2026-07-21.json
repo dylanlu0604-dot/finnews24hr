@@ -1,7 +1,96 @@
 {
   "date": "2026-07-21",
-  "count": 590,
+  "count": 599,
   "items": [
+    {
+      "id": "mkt:019f8247-8caa-7aab-8e17-cb85dccc2dc1",
+      "time": "2026-07-21 09:25:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Z.ai commissions 1GW domestic AI compute centre, completes acquisition of XCore Sigma】Z.ai has commissioned a 1GW-class domestic AI compute data centre that uses only domestic AI chips, and today completed the acquisition of XCore Sigma, a heterogeneous AI compute software firm spun out of the Institute of Computing Technology at the Chinese Academy of Sciences. XCore Sigma specialises in heterogeneous compute software stacks and compiler optimisation and is regarded as one of China’s leading AI infra teams, sources said. The two moves respectively address compute supply and compute utilisation: the data centre expands large-model training capacity, while XCore Sigma’s compiler, runtime and inference-engine capabilities aim to raise heterogeneous-chip utilisation, lower inference costs and speed model deployment."
+    },
+    {
+      "id": "mkt:019f8247-4b18-7aab-8e17-c49f18bc80ac",
+      "time": "2026-07-21 09:25:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share market opened higher: Shanghai Composite up 0.42%, Shenzhen Composite Index up 0.34%, ChiNext Index up 0.76%. Coal stocks extended gains; robotic actuators, insurance, precious metals and blade-cell batteries led sector advances."
+    },
+    {
+      "id": "4998726",
+      "time": "2026-07-21 09:25:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜AI落地1GW國產算力中心 同步完成對中科加禾的收購】記者獲悉，智譜AI（Z.ai）已落地1GW級國產AI算力資料中心建設，並全部採用國產AI晶片。與此同時，智譜也於今日正式完成對國產AI異構算力軟體公司中科加禾（XCore Sigma）的收購。後者源自中科院計算所編譯實驗室，長期深耕異構算力軟體棧及編譯最佳化，被業內視為國內頂尖AI Infra團隊之一。知情人士表示，這兩項動作分別補齊了算力供給與算力釋放兩大關鍵能力。前者提供大規模模型訓練所需的計算資源，後者則透過編譯器、Runtime、推理引擎等基礎軟體能力，提高異構晶片利用率，降低推理成本，並提升模型部署效率。 (科創板日報)"
+    },
+    {
+      "id": "4998725",
+      "time": "2026-07-21 09:25:15",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.42％，深成指漲0.34％，創業板漲0.76％。"
+    },
+    {
+      "id": "4998724",
+      "time": "2026-07-21 09:23:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國務院釋出全球安全警示】美國國務院當地時間7月20日在其官方網站釋出全球安全警示，建議世界各地的美國公民提高警惕。 美國務院稱，中東緊張局勢加劇，安全環境複雜，存在局勢意外升級的風險。目前身處中東的美國公民應保持高度警覺，併為航班取消、空域階段性關閉及其他旅行中斷做好準備；中東以外的美國公民則應重新考慮前往或經由該地區旅行。 美國國務院還表示，包括中東以外地區在內的美國外交設施已成為襲擊目標。伊朗及其支持者可能針對海外其他美國利益，以及全球範圍內與美國和美國公民有關的地點發動襲擊。"
+    },
+    {
+      "id": "mkt:019f8245-67cd-7aab-8e17-bb5f76e8332d",
+      "time": "2026-07-21 09:23:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said the tanker’s chief security officer reported the crew abandoned ship and are in lifeboats after an incident 8 nautical miles northeast of Lima, Oman. No environmental impact reported so far."
+    },
+    {
+      "id": "4998723",
+      "time": "2026-07-21 09:23:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易機構(UKMTO)表示，針對阿曼利馬角東北方向8海里處發生的事件，涉事油輪的船舶保安官（CSO）報告稱，全體船員已棄船，目前都在救生艇上。"
+    },
+    {
+      "id": "mkt:019f8244-d77f-7aab-8e17-b11e26c2b8be",
+      "time": "2026-07-21 09:22:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "06809.HK",
+        "Impact bullish",
+        "01347.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong chip shares opened higher: 06809.HK rose over 4%, 01347.HK nearly 4%, while 03986.HK, 09903.HK and 00981.HK also advanced."
+    },
+    {
+      "id": "mkt:019f8244-a88b-7aab-8e17-ab8c138296c3",
+      "time": "2026-07-21 09:22:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea equity margin balances drop to lowest since April 15】South Korea equity margin balances for financed stock purchases fell to 33.4 tln won (about $22.6bn) as of July 16, the Korea Financial Investment Association (KFIA) said — the lowest level since April 15 and down 13% from an end-June peak of 38.6 tln won. The KFIA also reported investor deposits fell to 108.1 tln won on July 16 from a June 4 high of 139.7 tln won, suggesting retail appetite for equities may be cooling."
+    },
     {
       "id": "mkt:019f8244-07d4-7aab-8e17-a3a9123414e4",
       "time": "2026-07-21 09:22:04",

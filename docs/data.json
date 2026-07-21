@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-21 09:22:45",
+  "updated": "2026-07-21 09:26:39",
   "count": 18952,
   "items": [
+    {
+      "id": "mkt:019f8247-8caa-7aab-8e17-cb85dccc2dc1",
+      "time": "2026-07-21 09:25:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Z.ai commissions 1GW domestic AI compute centre, completes acquisition of XCore Sigma】Z.ai has commissioned a 1GW-class domestic AI compute data centre that uses only domestic AI chips, and today completed the acquisition of XCore Sigma, a heterogeneous AI compute software firm spun out of the Institute of Computing Technology at the Chinese Academy of Sciences. XCore Sigma specialises in heterogeneous compute software stacks and compiler optimisation and is regarded as one of China’s leading AI infra teams, sources said. The two moves respectively address compute supply and compute utilisation: the data centre expands large-model training capacity, while XCore Sigma’s compiler, runtime and inference-engine capabilities aim to raise heterogeneous-chip utilisation, lower inference costs and speed model deployment."
+    },
+    {
+      "id": "mkt:019f8247-4b18-7aab-8e17-c49f18bc80ac",
+      "time": "2026-07-21 09:25:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component"
+      ],
+      "text": "A-share market opened higher: Shanghai Composite up 0.42%, Shenzhen Composite Index up 0.34%, ChiNext Index up 0.76%. Coal stocks extended gains; robotic actuators, insurance, precious metals and blade-cell batteries led sector advances."
+    },
+    {
+      "id": "4998726",
+      "time": "2026-07-21 09:25:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【智譜AI落地1GW國產算力中心 同步完成對中科加禾的收購】記者獲悉，智譜AI（Z.ai）已落地1GW級國產AI算力資料中心建設，並全部採用國產AI晶片。與此同時，智譜也於今日正式完成對國產AI異構算力軟體公司中科加禾（XCore Sigma）的收購。後者源自中科院計算所編譯實驗室，長期深耕異構算力軟體棧及編譯最佳化，被業內視為國內頂尖AI Infra團隊之一。知情人士表示，這兩項動作分別補齊了算力供給與算力釋放兩大關鍵能力。前者提供大規模模型訓練所需的計算資源，後者則透過編譯器、Runtime、推理引擎等基礎軟體能力，提高異構晶片利用率，降低推理成本，並提升模型部署效率。 (科創板日報)"
+    },
+    {
+      "id": "4998725",
+      "time": "2026-07-21 09:25:15",
+      "tags": [
+        "焦點"
+      ],
+      "text": "三大股指高開，滬指漲0.42％，深成指漲0.34％，創業板漲0.76％。"
+    },
+    {
+      "id": "4998724",
+      "time": "2026-07-21 09:23:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美國務院釋出全球安全警示】美國國務院當地時間7月20日在其官方網站釋出全球安全警示，建議世界各地的美國公民提高警惕。 美國務院稱，中東緊張局勢加劇，安全環境複雜，存在局勢意外升級的風險。目前身處中東的美國公民應保持高度警覺，併為航班取消、空域階段性關閉及其他旅行中斷做好準備；中東以外的美國公民則應重新考慮前往或經由該地區旅行。 美國國務院還表示，包括中東以外地區在內的美國外交設施已成為襲擊目標。伊朗及其支持者可能針對海外其他美國利益，以及全球範圍內與美國和美國公民有關的地點發動襲擊。"
+    },
+    {
+      "id": "mkt:019f8245-67cd-7aab-8e17-bb5f76e8332d",
+      "time": "2026-07-21 09:23:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Maritime Trade Operations said the tanker’s chief security officer reported the crew abandoned ship and are in lifeboats after an incident 8 nautical miles northeast of Lima, Oman. No environmental impact reported so far."
+    },
+    {
+      "id": "4998723",
+      "time": "2026-07-21 09:23:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國海事貿易機構(UKMTO)表示，針對阿曼利馬角東北方向8海里處發生的事件，涉事油輪的船舶保安官（CSO）報告稱，全體船員已棄船，目前都在救生艇上。"
+    },
+    {
+      "id": "mkt:019f8244-d77f-7aab-8e17-b11e26c2b8be",
+      "time": "2026-07-21 09:22:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "06809.HK",
+        "Impact bullish",
+        "01347.HK",
+        "03986.HK"
+      ],
+      "text": "Hong Kong chip shares opened higher: 06809.HK rose over 4%, 01347.HK nearly 4%, while 03986.HK, 09903.HK and 00981.HK also advanced."
+    },
+    {
+      "id": "mkt:019f8244-a88b-7aab-8e17-ab8c138296c3",
+      "time": "2026-07-21 09:22:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea equity margin balances drop to lowest since April 15】South Korea equity margin balances for financed stock purchases fell to 33.4 tln won (about $22.6bn) as of July 16, the Korea Financial Investment Association (KFIA) said — the lowest level since April 15 and down 13% from an end-June peak of 38.6 tln won. The KFIA also reported investor deposits fell to 108.1 tln won on July 16 from a June 4 high of 139.7 tln won, suggesting retail appetite for equities may be cooling."
+    },
     {
       "id": "mkt:019f8244-07d4-7aab-8e17-a3a9123414e4",
       "time": "2026-07-21 09:22:04",
@@ -174176,88 +174265,6 @@
         "Brent"
       ],
       "text": "【Analysts: Trump's 20% Strait of Hormuz transit fee could double shipping costs】President Trump said on Monday the US will charge a 20% fee on all goods transiting the Strait of Hormuz to recoup the cost of US military protection. Shipping operators and logistics experts say such a levy would sharply raise transport costs for oil and other cargoes, though some analysts doubt it will be implemented because of the high expense. Trump gave no calculation method for the 20% fee; if levied on cargo value it could more than double oil transport costs. ING senior economist Rico Luman estimates current tanker freight from the Gulf to Europe at about $10/bbl; with oil near $80/bbl, a 20% value fee would add roughly $16/bbl, lifting transport costs toward $26/bbl. For a 2m-barrel cargo, that would increase costs by more than $30m."
-    },
-    {
-      "id": "4985668",
-      "time": "2026-07-14 09:25:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "【約旦美軍基地附近劇烈爆炸】據伊朗塔斯尼姆通訊社訊息，當地時間今天（7月14日）凌晨，約旦東部阿茲拉克美軍基地發生劇烈爆炸。（CCTV國際時訊）"
-    },
-    {
-      "id": "4985667",
-      "time": "2026-07-14 09:25:54",
-      "tags": [
-        "焦點",
-        "A股"
-      ],
-      "text": "三大股指開盤漲跌不一，滬指跌0.12％，深成指漲0.07％，創業板漲0.16％。"
-    },
-    {
-      "id": "4985666",
-      "time": "2026-07-14 09:25:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股油氣裝置股走強 山東墨龍漲近15%】截至發稿，山東墨龍(00568.HK)漲14.99%，中石化油服(01033.HK)漲5%，達力普控股(01921.HK)漲1.99%。"
-    },
-    {
-      "id": "mkt:019f5e3a-ac09-7aab-8d67-f9b0fd0c59f0",
-      "time": "2026-07-14 09:25:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "China A-shares opened: Shanghai Composite down 0.12%, Shenzhen Composite Index up 0.07%, ChiNext Index up 0.16%."
-    },
-    {
-      "id": "em:qqyh_zgyh:202607143804769643",
-      "time": "2026-07-14 09:24:26",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行今日開展2365億元7天期逆回購操作】央行今日（7月14日）開展2365億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "4985665",
-      "time": "2026-07-14 09:24:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【河南省豫鐵智算私募股權基金登記成立】企查查APP顯示，近日，河南省豫鐵智算私募股權投資基金合夥企業（有限合夥）成立，經營範圍包含：以私募基金從事股權投資、投資管理、資產管理等活動。企查查股權穿透顯示，該企業由河南省鐵路建設投資集團有限公司等共同出資。"
-    },
-    {
-      "id": "4985664",
-      "time": "2026-07-14 09:23:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【津藥達仁堂100款產品納入新版國家基藥目錄】據津藥達仁堂訊息，7月9日，《國家基本藥物目錄（2026年版）》釋出，實施時間定為2026年9月1日。津藥達仁堂集團本次共有100個產品納入新版基藥目錄。其中速效救心丸、清咽滴丸、金芪降糖片、癃清片、京萬紅軟膏及獨家劑型烏雞白鳳片共6款獨家品種順利入選。"
-    },
-    {
-      "id": "4985663",
-      "time": "2026-07-14 09:23:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“國有大行高息存款”刷屏？農行建行緊急回應：假的】近期不法分子冒用國有大行名義，在第三方平臺及社交渠道釋出“存100萬享5.25%利息”等虛假高息廣告，誘導消費者新增微信後推介境外保險、投資專案，牟取佣金甚至實施詐騙。對此，農行、建行回應稱，經核實無此類存款產品，相關宣傳均系虛假。同時，兩家大行提示，消費者應警惕遠高於市場水平的收益承諾，認準銀行網點、官網、官方APP等正規渠道，勿點不明連結、洩露身份證號、驗證碼等資訊，嚴防資金損失。（21財經）"
-    },
-    {
-      "id": "mkt:019f5e38-6a91-7aab-8d67-f7000664811b",
-      "time": "2026-07-14 09:23:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "601288.SS",
-        "601939.SS"
-      ],
-      "text": "【Fraudulent ads promise 5.25% deposits in name of state banks; Agricultural Bank, China Construction Bank deny】Fraudsters are impersonating Chinese state-owned banks on third-party platforms and social channels, circulating ads such as “deposit 1 million yuan, earn 5.25%.” Agricultural Bank of China and China Construction Bank said they have no such deposit products and the promotions are false. Scammers ask victims to add contacts on WeChat, then pitch overseas insurance or investment products to earn commissions or commit fraud. Banks urged customers to use official branches, websites and apps only, be wary of returns far above market rates, avoid unknown links and never disclose ID numbers or SMS verification codes."
     }
   ]
 }
