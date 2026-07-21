@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-21 12:42:35",
-  "count": 19178,
+  "updated": "2026-07-21 12:46:34",
+  "count": 19179,
   "items": [
+    {
+      "id": "4999278",
+      "time": "2026-07-21 12:45:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍被曝隱瞞伊朗戰事中受傷人員數量】近日，據美國方面訊息，多名匿名美國官員表示，近期伊朗曾數次襲擊約旦境內美軍基地，造成數十名美軍人員受傷，但美軍中央司令部並未公佈這一資訊。多名匿名美國官員稱，除了美軍中央司令部18日公佈的兩名美軍人員在約旦境內遭伊朗襲擊身亡的訊息外，近期，伊朗還對約旦境內的美軍基地發動了另外三次襲擊，造成數十名美軍受傷，多架直升機受損。但中央司令部從未披露過相關情況。一名美軍軍官表示，中央司令部沒有義務公佈受傷人員的資訊，特別是在他們可以很快返回崗位的情況下。（央視新聞）"
+    },
+    {
+      "id": "4999277",
+      "time": "2026-07-21 12:45:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【里昂證券：AI致“軟體消亡”擔憂言過其實，SaaS護城河依然堅固】里昂證券(CLSA)在一份深度專題報告中指出，儘管人工智慧模型的崛起引發了市場對軟體行業被顛覆的擔憂，但軟體即服務(SaaS)遠未消亡。不過，在投資者信心迴歸之前，該行業仍需經歷深刻變革。里昂證券分析師指出：“我們身邊充斥著軟體所管理的商業細節、合規要求和資訊過濾器。AI‘氛圍程式設計’(vibe-coding)能夠消除這一切的想法，聽起來不切實際。我們發現護城河無處不在——ServiceNow的工作流目錄、賽富時的銷售關聯、甲骨文精準的資料庫、微軟的無所不在、Workday的人力資源專業能力，甚至Adobe的字型庫。”里昂證券給予微軟和Adobe“跑贏大盤”評級，目標價分別為535美元和300美元；給予甲骨文和賽富時“持有”評級，目標價分別為145美元和165美元；給予ServiceNow和Workday“跑輸大盤”評級，目標價分別為72美元和92美元。"
+    },
+    {
+      "id": "4999276",
+      "time": "2026-07-21 12:42:56",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛經濟學家預測，土耳其可能會允許土耳其里拉更快地貶值，以優先考慮外部平衡穩定而不是通貨緊縮。"
+    },
+    {
+      "id": "4999275",
+      "time": "2026-07-21 12:41:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【泰國暹羅商業銀行向泰國國家石油集團提供 680 億泰銖能源融資支援】暹羅商業銀行將向泰國國家石油集團（PTT Group）提供總額超 680 億泰銖（摺合 20.2 億美元）融資，用於能源基礎設施專案建設。雙方週二聯合公告顯示，該融資方案包含一筆 174 億泰銖長期貸款，發放給 PTT 旗下子公司 Tank Infra，配套落實集團資產變現戰略。同時暹羅商業銀行還將配套提供 510 億泰銖短期融資。受中東地緣衝突、國際原油價格劇烈波動影響，這筆資金將助力泰國國家石油集團保障本國能源安全。"
+    },
     {
       "id": "4999274",
       "time": "2026-07-21 12:38:01",
@@ -116,6 +149,14 @@
         "Chip Wars"
       ],
       "text": "【24-hour trading launch: foreign selling of chip stocks lifts won turnover】Since Korea launched 24-hour trading two weeks ago, daily won trading has recovered, driven mainly by foreign selling of local chipmakers, Seoul Money Brokerage Services and Korea Money Brokers show. From July 6-16, USD/KRW spot turnover averaged about $18.6 bln per day, roughly 16% above the 30-day daily average before July 6."
+    },
+    {
+      "id": "4999263",
+      "time": "2026-07-21 12:24:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【半個科技圈大佬世界盃組局 12位中國行業掌門人首次同框】今日，一張從2026年世界盃決賽現場流出的觀賽合影在社交平臺快速刷屏，照片裡中國科技與商界領軍人物齊齊亮相，瞬間引爆全網討論熱度。 從現場流出的合影畫面可見，從左至右依次為聯想集團高管劉軍、網易公司創始人丁磊、李寧品牌創始人李寧、金沙江創投管理合夥人丁健、英特爾CEO陳立武、TCL創始人李東生、泰康保險創始人陳東昇、聯想集團CEO楊元慶、美的集團董事長方洪波、滴滴出行創始人程維、58同城創始人姚勁波、百度創始人李彥宏，李彥宏夫人馬東敏位於合影最右側。"
     },
     {
       "id": "4999262",
@@ -176255,44 +176296,6 @@
         "國際"
       ],
       "text": "【伊朗伊斯蘭革命衛隊對美軍駐約旦空軍基地進行報復打擊】當地時間14日，伊朗伊斯蘭革命衛隊公共關係部發布第9號公告，確認其向美軍駐約旦一處空軍基地的關鍵設施發射了彈道導彈。宣告指出，此次行動代號為“納斯爾行動2”，旨在回應美軍利用該基地對伊朗實施軍事挑釁的行為。（央視新聞）"
-    },
-    {
-      "id": "4985990",
-      "time": "2026-07-14 12:45:41",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士股價兩日暴跌逾20% AI交易有退潮之兆】SK海力士週二在首爾延續猛烈跌勢，兩天來的跌幅超過 20%；全球AI硬體股遭遇拋售，加劇市場對今年晶片股驚人升勢“漲得太快、走得太遠”的疑慮。繼週一創紀錄地暴跌15%之後，這家韓國晶片巨頭週二在韓國交易所一度下跌9%。韓國基準Kospi指數一度下跌5.3%。同業三星電子股價震盪。最新一波跌勢出現在投資人持續拋售全球科技硬體股之際，市場愈發擔憂AI領域存在產能過剩問題。對於今年股價表現名列全球前茅的SK海力士而言，股價劇烈波動也凸顯了與其相關的槓桿押注規模異常龐大。隨著首爾和華爾街的交易情緒相互影響，該公司ADR在美國掛牌可能會放大股價波動。隨著7月23日財報釋出日逼近，股價可能進一步劇烈震盪。週一賣壓的部分原因是一家本地券商釋出報告，認為SK海力士營業利潤可能低於市場共識預估。"
-    },
-    {
-      "id": "4985989",
-      "time": "2026-07-14 12:44:03",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "韓國法院中止了公平交易委員會將酷澎（Coupang）創始人指定為集團控制人的決定的效力。"
-    },
-    {
-      "id": "mkt:019f5ef0-5ac3-7aab-8d6e-adbcd9b3627d",
-      "time": "2026-07-14 12:43:57",
-      "tags": [
-        "MKT News",
-        "300750.SZ",
-        "Impact bullish",
-        "2517.HK"
-      ],
-      "text": "【DBS Group says concerns over CATL market-share loss appear overstated】DBS Group research analysts say concerns that CATL will lose market share to second-tier suppliers appear overstated. They argue competition in China’s battery sector is shifting toward firms that provide integrated energy-system solutions rather than suppliers of standalone cells. CATL’s business model offers solutions across battery types and can meet customer needs including power-conversion equipment, the analysts say. As downstream customers place greater emphasis on system efficiency and energy management rather than battery procurement cost alone, CATL’s competitive edge should strengthen. DBS maintains a buy rating; PTs are RMB 624.00 for A-shares and HKD 925.00 for H-shares."
-    },
-    {
-      "id": "4985988",
-      "time": "2026-07-14 12:42:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【機構：對寧德時代可能流失市場份額的擔憂似乎被誇大了】星展集團研究部分析師認為，對寧德時代可能將市場份額流失給二線供應商的擔憂似乎被誇大了。他們寫道，中國電池行業的競爭正轉向能夠提供綜合能源系統解決方案的公司，而不是那些僅僅提供獨立電芯供應的公司。寧德時代的業務模式包含針對各種電池型別的解決方案，並能滿足包括電力轉換在內的領域的客戶需求。他們補充說，隨著下游客戶將重點放在系統效率和能源管理上，而不僅僅是電池採購成本上，寧德時代的競爭優勢應該會增強。星展集團維持買入評級，對A股和H股的目標價分別為人民幣624.00元和925.00港元。"
     }
   ]
 }
