@@ -1,7 +1,76 @@
 {
   "date": "2026-07-21",
-  "count": 1403,
+  "count": 1411,
   "items": [
+    {
+      "id": "mkt:019f832b-0846-7aab-8e1d-4938d50a98d5",
+      "time": "2026-07-21 13:34:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said its 24th Nasser-2 operation launched missile strikes on a U.S. base in Jordan, destroying an air-defense radar system and downing an F-15."
+    },
+    {
+      "id": "mkt:019f832a-2aaa-7aab-8e1d-405e46cc651f",
+      "time": "2026-07-21 13:33:26",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold rose above $4,060/oz, up 1.29% on the day."
+    },
+    {
+      "id": "te:markets:568412",
+      "time": "2026-07-21 13:32:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Nickel Nears 1-Month High — Nickel traded around $17,000 per tonne, holding near one-month highs amid uncertainty over Indonesia’s production policies. Indonesia’s ongoing review of nickel production quotas remained a key focus, with the government limiting additional approvals to smelters facing raw material shortages, reinforcing expectations of tighter ore availability as policymakers seek to prevent oversupply and stabilize the market. At the same time, renewed Middle East tensions lifted oil prices and raised concerns over sulfur supplies, a key input for Indonesia’s nickel processing industry, increasing production cost pressures and adding to upward momentum in prices. Meanwhile, gains remained limited by weak downstream demand, with subdued activity in China’s stainless steel sector and cautious nickel sulfate purchases amid slower growth in nickel-based battery demand weighing on consumption prospects."
+    },
+    {
+      "id": "mkt:019f8328-1bd4-7aab-8e1d-3d3e4296806f",
+      "time": "2026-07-21 13:31:11",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Palladium most-active contract rose over 2.00% intraday to 299.85 yuan/gram."
+    },
+    {
+      "id": "4999339",
+      "time": "2026-07-21 13:31:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英力股份成立儲能科技公司 含電池製造業務】企查查APP顯示，近日，荊州飛米儲能科技有限公司成立，法定代表人為李禹華，註冊資本為1000萬元，經營範圍包含電池製造；智慧儀器儀表製造；積體電路銷售；積體電路晶片及產品銷售；電力電子元器件製造等。企查查股權穿透顯示，該公司由英力股份(300956)間接全資持股。"
+    },
+    {
+      "id": "4999338",
+      "time": "2026-07-21 13:30:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額超400億元，現漲超10%；新易盛成交額超310億元，現漲超6%；天孚通訊成交額超110億元，現漲超5%。"
+    },
+    {
+      "id": "4999337",
+      "time": "2026-07-21 13:30:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲4%，現報7124.60點。"
+    },
     {
       "id": "mkt:019f8327-3946-7aab-8e1d-31db9f9f8124",
       "time": "2026-07-21 13:30:13",
@@ -12,6 +81,15 @@
         "Brent"
       ],
       "text": "Abu Dhabi National Oil Company (ADNOC) said its final investment decision covers a large offshore infrastructure EPC contract package awarded to a consortium, totaling $5.1 bln."
+    },
+    {
+      "id": "4999336",
+      "time": "2026-07-21 13:30:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀突破58美元/盎司，日內漲2.87%。"
     },
     {
       "id": "4999335",
