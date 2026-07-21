@@ -1,7 +1,85 @@
 {
   "date": "2026-07-21",
-  "count": 1737,
+  "count": 1744,
   "items": [
+    {
+      "id": "mkt:019f8396-8b0d-7aab-8e21-164b1b4404ad",
+      "time": "2026-07-21 15:31:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 1.61% at 886.35 yuan/gram on Tuesday, July 21; Silver T+D closed up 4.55% at 14,348.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f8396-6b8e-7aab-8e21-0c82de2a2328",
+      "time": "2026-07-21 15:31:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Sources said Washington has submitted a list to Tokyo of candidate projects that could be added to the Japan investment plan."
+    },
+    {
+      "id": "mkt:019f8396-3391-7aab-8e21-04166d514b44",
+      "time": "2026-07-21 15:31:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korean stocks rebound; KOSPI up 3.6% as liquidation-driven selloff eases】South Korea's KOSPI closed up 3.6% at 6,747.95 on Tuesday, after a liquidation-driven selloff that erased 10.5% over the prior two sessions began to ease. The index was up as much as 4.9% intraday but remains in bear-market territory, about 25% below its June 22 record close. Regulators have moved to curb leveraged financing products, refocusing attention on fundamentals: continued AI-driven demand and a still-firm earnings outlook for memory-chip makers. JP Morgan maintained an overweight on Korea in regional allocations with a 12-month target of 12,500, saying the market should be able to withstand the shock from position liquidations and resume positive momentum."
+    },
+    {
+      "id": "te:markets:568478",
+      "time": "2026-07-21 15:31:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.03% Lower — The DAX Index is losing 8 points. Losses were led by Brenntag (-1.96%), Munich RE (-1.94%) and Siemens Healthineers (-1.70%). Offsetting the fall, top gainers were Infineon (1.95%), Daimler Truck Holding AG (1.28%) and Siemens Energy (1.17%)."
+    },
+    {
+      "id": "mkt:019f8395-f553-7aab-8e20-fa9b8241f157",
+      "time": "2026-07-21 15:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Sources say JP Morgan and other US banks are close to agreeing to provide partial financing to support Japan's $550 billion investment pledge in the United States."
+    },
+    {
+      "id": "te:markets:568477",
+      "time": "2026-07-21 15:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.05% Higher — The CAC 40 Index is up by 4 points or 0.05 percent on Tuesday. Top gainers are STMicroelectronics (2.37%), TotalEnergies SE (1.79%) and Schneider Electric (1.07%). Biggest losses came from Eurofins Scientific SE (-2.22%), Carrefour (-1.58%) and Essilor (-1.53%)."
+    },
+    {
+      "id": "em:qqyh_rbyh:202607213815494779",
+      "time": "2026-07-21 15:28:34",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本內閣官房長官木原稔表示，貨幣政策具體細則應由日本央行自行決定。"
+    },
     {
       "id": "4999601",
       "time": "2026-07-21 15:27:08",

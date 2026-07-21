@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-21 15:28:22",
-  "count": 19020,
+  "updated": "2026-07-21 15:33:57",
+  "count": 19005,
   "items": [
+    {
+      "id": "mkt:019f8396-8b0d-7aab-8e21-164b1b4404ad",
+      "time": "2026-07-21 15:31:48",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 1.61% at 886.35 yuan/gram on Tuesday, July 21; Silver T+D closed up 4.55% at 14,348.0 yuan/kg."
+    },
+    {
+      "id": "mkt:019f8396-6b8e-7aab-8e21-0c82de2a2328",
+      "time": "2026-07-21 15:31:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Sources said Washington has submitted a list to Tokyo of candidate projects that could be added to the Japan investment plan."
+    },
+    {
+      "id": "mkt:019f8396-3391-7aab-8e21-04166d514b44",
+      "time": "2026-07-21 15:31:26",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korean stocks rebound; KOSPI up 3.6% as liquidation-driven selloff eases】South Korea's KOSPI closed up 3.6% at 6,747.95 on Tuesday, after a liquidation-driven selloff that erased 10.5% over the prior two sessions began to ease. The index was up as much as 4.9% intraday but remains in bear-market territory, about 25% below its June 22 record close. Regulators have moved to curb leveraged financing products, refocusing attention on fundamentals: continued AI-driven demand and a still-firm earnings outlook for memory-chip makers. JP Morgan maintained an overweight on Korea in regional allocations with a 12-month target of 12,500, saying the market should be able to withstand the shock from position liquidations and resume positive momentum."
+    },
+    {
+      "id": "te:markets:568478",
+      "time": "2026-07-21 15:31:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Opens 0.03% Lower — The DAX Index is losing 8 points. Losses were led by Brenntag (-1.96%), Munich RE (-1.94%) and Siemens Healthineers (-1.70%). Offsetting the fall, top gainers were Infineon (1.95%), Daimler Truck Holding AG (1.28%) and Siemens Energy (1.17%)."
+    },
+    {
+      "id": "mkt:019f8395-f553-7aab-8e20-fa9b8241f157",
+      "time": "2026-07-21 15:31:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Sources say JP Morgan and other US banks are close to agreeing to provide partial financing to support Japan's $550 billion investment pledge in the United States."
+    },
+    {
+      "id": "te:markets:568477",
+      "time": "2026-07-21 15:30:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Opens 0.05% Higher — The CAC 40 Index is up by 4 points or 0.05 percent on Tuesday. Top gainers are STMicroelectronics (2.37%), TotalEnergies SE (1.79%) and Schneider Electric (1.07%). Biggest losses came from Eurofins Scientific SE (-2.22%), Carrefour (-1.58%) and Essilor (-1.53%)."
+    },
+    {
+      "id": "em:qqyh_rbyh:202607213815494779",
+      "time": "2026-07-21 15:28:34",
+      "tags": [
+        "央行",
+        "日本央行"
+      ],
+      "text": "日本內閣官房長官木原稔表示，貨幣政策具體細則應由日本央行自行決定。"
+    },
     {
       "id": "4999601",
       "time": "2026-07-21 15:27:08",
@@ -174588,217 +174666,6 @@
         "公司"
       ],
       "text": "【長春燃氣：預計2026年上半年淨虧損2178.93萬元】長春燃氣公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為-2178.93萬元，與上年同期相比減虧3329.54萬元。報告期內，公司燃氣銷量較上年同期增長5.19%，但業務毛利仍不足以覆蓋當期運營費用，未能實現盈利。"
-    },
-    {
-      "id": "te:markets:566737",
-      "time": "2026-07-14 15:33:53",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "European Stocks Lower — European stocks traded lower on Tuesday, with the STOXX 50 and STOXX 600 both declining 0.5%, extending the modest losses recorded in the previous session, as developments in the Middle East continued to weigh on market sentiment. Oil prices extended their gains amid renewed concerns over supply disruptions after the US and Iran exchanged further strikes, while President Trump announced plans to impose shipping fees for vessels transiting the Strait of Hormuz. Investors also turned their attention to the start of the corporate earnings season, with ASML Holding scheduled to release its quarterly results on Wednesday. The company's shares edged 0.4%. Travel and leisure stocks were among the worst performers, while the energy sector outperformed, supported by stronger oil prices. Among individual stocks, Siemens (-1.1%), Hermes (-2.0%), SAP (-1.3%), and Banco Santander (-1.0%) declined, whereas Shell (+1.6%), TotalEnergies (+2.0%), and BP (+2.7%) posted solid gains."
-    },
-    {
-      "id": "mkt:019f5f8b-a56a-7aab-8d74-41fa200604b3",
-      "time": "2026-07-14 15:33:35",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Brent crude rose 3.00% intraday to $85.31/bbl; WTI rose 3.00% intraday to $80.14/bbl."
-    },
-    {
-      "id": "4986404",
-      "time": "2026-07-14 15:32:28",
-      "tags": [
-        "公司"
-      ],
-      "text": "【幻碼躍遷完成數千萬元種子輪融資】7月14日，據光源資本訊息，上海幻碼躍遷量子科技有限公司完成數千萬元種子輪融資。本輪融資由L2F光源創業者基金領投，雲啟資本、小苗朗程共同參與，光源資本同時擔任孵化方。本輪資金將主要用於核心人才團隊建設、量子計算全棧軟體研發、量子人工智慧技術研發，以及跨平臺量子計算產業生態建設。"
-    },
-    {
-      "id": "4986403",
-      "time": "2026-07-14 15:32:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南航股份公司新疆分公司原總經理富璞巖接受審查調查】據中央紀委國家監委駐南航集團紀檢監察組、新疆維吾爾自治區紀委監委訊息：南航股份公司新疆分公司原總經理富璞巖涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐南航集團紀檢監察組紀律審查和新疆維吾爾自治區監察委員會監察調查。"
-    },
-    {
-      "id": "mkt:019f5f8a-6bda-7aab-8d74-3c843ee9ab01",
-      "time": "2026-07-14 15:32:14",
-      "tags": [
-        "MKT News",
-        "EH.O",
-        "Impact mixed"
-      ],
-      "text": "【EHang Intelligent denies mass layoffs, says core team intact as it trims low‑performance roles under AI efficiency drive】EHang Intelligent said it is carrying out organizational efficiency optimization and talent restructuring as a routine management action, centred on AI-driven productivity gains and targeting low-performance roles. The company said it is simultaneously recruiting specialists and that its core team remains stable. Market reports of layoffs surfaced days after the company reported weak quarterly results: Q1 total revenue 25.7 mln yuan versus 26.1 mln yuan in the same period of 2025; net loss widened to 126 mln yuan from 78.4 mln yuan a year earlier. EHang said the personnel adjustments aim to raise headcount productivity, optimise cost structure and underpin medium- to long-term development."
-    },
-    {
-      "id": "te:markets:566735",
-      "time": "2026-07-14 15:32:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Opens 0.36% Lower — The FTSE 100 Index is dropping 38 points. Leading the losses are Intercontinental Hotels (-3.30%), 3i (-2.27%) and Informa (-2.24%). Top gainers were BP (2.82%), Shell (1.72%) and Centrica (1.65%)."
-    },
-    {
-      "id": "4986402",
-      "time": "2026-07-14 15:32:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破86美元/桶，日內漲3.26%。"
-    },
-    {
-      "id": "te:economy:566733",
-      "time": "2026-07-14 15:31:56",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "German Yields Surge on Rate Hike Expectations — Germany’s 10-year Bund yield rose above 3.1%, hitting its highest level since May 21, as the Middle East conflict raised concerns that higher energy prices could fuel inflation and interest rates. The two-year bond yield, more sensitive to policy rate expectations, also reached 2.8%, its highest since July 2024. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, increasing uncertainty over energy flows. Markets responded by betting on further European Central Bank rate hikes, with money markets pricing in a deposit rate of 2.70% by December, up from the current 2.25%, and fully expecting a September hike. In the US, Fed Governor Christopher Waller warned that the central bank may need to raise rates \"in the near term\" if inflation remains above the 2% target. Investors now await remarks from Federal Reserve Chair Kevin Warsh and US inflation data later today."
-    },
-    {
-      "id": "4986401",
-      "time": "2026-07-14 15:31:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "俄羅斯央行表示不能忽視燃油價格。"
-    },
-    {
-      "id": "4986400",
-      "time": "2026-07-14 15:31:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴林軍方稱“挫敗”伊朗14日對巴林的多次空襲】巴林國防軍當地時間14日上午釋出宣告，稱其防空系統當天早些時候“挫敗”了伊朗方面對巴林的多次空襲。宣告指責伊朗方面持續透過敵對行動襲擊巴林境內的平民和民用目標，強調巴林國防軍下屬所有軍種目前均處於最高戒備狀態。此前有訊息稱伊朗14日對巴林境內的美軍基地等實施空襲並造成相關設施受損，但巴林國防軍在宣告中並未對這一訊息做出回應。（央視新聞）"
-    },
-    {
-      "id": "4986399",
-      "time": "2026-07-14 15:31:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國海上貿易行動辦公室週二通報：一艘油輪在南部航道駛離途中，於阿曼利馬東南 13 海里處遭導彈擊中。英國海上貿易行動辦公室表示相關部門正調查此次事件。該機構提醒途經該海域船隻謹慎航行，如發現可疑動向及時上報。"
-    },
-    {
-      "id": "4986398",
-      "time": "2026-07-14 15:31:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【億航智慧回應裁員傳聞：基於AI提效背景最佳化低績效崗位，核心骨幹團隊保持穩定】7月14日，“eVTOL第一股”億航智慧方面回應記者稱，公司近期開展組織效能最佳化與人才結構煥新，屬於正常管理動作。本次最佳化基於AI（人工智慧）提效背景，聚焦低績效崗位，在最佳化部分崗位的同時，公司也積極引進專業領域人才，核心骨幹團隊保持穩定。幾日前，有市場訊息稱，億航智慧正在裁員。這一傳聞發生在億航智慧交出並不好看的季度報告之後，因此頗為引人關注。今年第一季度，億航智慧實現總收入2570萬元（人民幣，下同），2025年同期總收入則為2610萬元；淨虧損達1.26億元，2025年同期淨虧損為7840萬元。億航智慧方面還表示，本次人員調整將有助於提升人效、最佳化費用結構，為中長期發展奠定基礎。（每日經濟新聞）"
-    },
-    {
-      "id": "te:markets:566731",
-      "time": "2026-07-14 15:31:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Opens 0.46% Lower — The DAX Index is losing 116 points. Losses were led by Henkel (-1.96%), Scout24 (-1.89%) and Adidas (-1.72%). Offsetting the fall, top gainers were Brenntag (2.92%), BASF (2.32%) and Mercedes-Benz AG (1.92%)."
-    },
-    {
-      "id": "4986397",
-      "time": "2026-07-14 15:29:49",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【申萬宏源研究：維持中信證券“買入”評級，看好全年經營發展】申萬宏源研究指出，中信證券26H1盈利超預期。公司預計26H1實現歸母淨利潤233.43億元，同比+69.6%。以此測算，公司26Q2 單季歸母淨利潤預計為131.27億元，單季同比增速約83.0%，單季環比增速約28.5%。整體看，公司繼25年成為國內首家歸母淨利潤突破300億元的證券公司後，在26H1經營中續創佳績、更進一步，預計全年盈利將繼續領跑頭部梯隊券商，保持領先身位，持續探索一流投資銀行和投資機構經營發展空間。考慮到公司業務佈局全面、領先身位顯著、國際業務拓展，預計將率先受益於行業格局最佳化，看好全年經營發展。上調盈利預測，維持“買入”評級。"
-    },
-    {
-      "id": "4986396",
-      "time": "2026-07-14 15:29:43",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【7月14日滬深兩市漲停分析】創業板指探底回升漲3.43%，算力硬體股集體反攻、PCB概念大漲。哈藥股份3連板，一圖看懂>>"
-    },
-    {
-      "id": "mkt:019f5f87-ea02-7aab-8d74-3136efb4405c",
-      "time": "2026-07-14 15:29:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "European oil and gas index hit a one-month high, up 1.3%."
-    },
-    {
-      "id": "4986395",
-      "time": "2026-07-14 15:29:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【外交部：敦促歐方謹言慎行 停止為非法“裁決”站臺背書】7月14日，外交部發言人林劍主持例行記者會。有記者問：7月12日，部分歐洲國家同美國、菲律賓等國發表所謂“紀念南海仲裁案裁決”十年聯合宣告，歐盟也發表了有關宣告。能否介紹有關情況？請問對此有何評價？林劍表示，日前，幾個歐洲國家參與美菲發表所謂“紀念南海仲裁案裁決”十年聯合宣告，歐盟也發表相關宣告，歪曲事實、惡意抹黑，中方對此強烈不滿和堅決反對。外交部歐洲司負責人已分別約談有關國家駐華使館和歐盟駐華代表團負責人，提出了嚴正交涉。中國在“南海仲裁案”問題上的立場是明確的、一貫的、堅定的。所謂“仲裁庭”系出於政治目的臨時拼湊，本身毫無權威性和公正性，有關“仲裁”違反國際法基本原則，只是少數幾個美西方國家出於遏壓中國的政治目的作秀，中國不接受、不承認該“裁決”，反對且不接受任何基於該“裁決”的主張和行動。我們敦促歐方謹言慎行，停止為非法“裁決”站臺背書，以免影響中歐關係與合作。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f5f87-9dbf-7aab-8d74-2c8c3a670361",
-      "time": "2026-07-14 15:29:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Fire at Beirut port container yard】Foreign media reported on the 14th that a fire broke out in the container yard at Beirut port, producing heavy smoke."
-    },
-    {
-      "id": "4986394",
-      "time": "2026-07-14 15:29:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓元小幅走高。"
-    },
-    {
-      "id": "4986393",
-      "time": "2026-07-14 15:28:57",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲石油天然氣指數<.STOXX>觸及一個月新高，最新上漲1.3%。"
-    },
-    {
-      "id": "mkt:019f5f87-6287-7aab-8d74-2164913e3dfa",
-      "time": "2026-07-14 15:28:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Magnitude 5.2 earthquake strikes central Philippines near Masbate】The Philippine Institute of Volcanology and Seismology (PHIVOLCS) reported a magnitude-5.2 earthquake struck near Masbate province in central Philippines at about 15:04 on July 14 local time; hypocenter depth 10 km. The tremor was felt across multiple nearby areas."
-    },
-    {
-      "id": "4986392",
-      "time": "2026-07-14 15:28:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "【菲律賓中部發生5.2級地震】據菲律賓火山地震研究所訊息，7月14日15時04分左右，菲律賓中部馬斯巴特省附近發生5.2級地震，震源深度10公里，附近多地有震感。"
     }
   ]
 }
