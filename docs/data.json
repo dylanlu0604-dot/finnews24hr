@@ -1,7 +1,216 @@
 {
-  "updated": "2026-07-21 10:01:46",
-  "count": 18955,
+  "updated": "2026-07-21 10:05:47",
+  "count": 18967,
   "items": [
+    {
+      "id": "mkt:019f826b-5354-7aab-8e19-4653852f16cf",
+      "time": "2026-07-21 10:04:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Goldman Sachs said Brent crude could exceed $120/bbl in Q4 2026 if disruption in the Strait of Hormuz persists."
+    },
+    {
+      "id": "4998837",
+      "time": "2026-07-21 10:04:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "【培育鑽石板塊震盪走弱，黃河旋風跌停】培育鑽石板塊震盪走弱，黃河旋風跌停，博雲新材、沃爾德、四方達、力量鑽石、國機精工、恆盛能源等跟跌。"
+    },
+    {
+      "id": "4998836",
+      "time": "2026-07-21 10:04:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數上漲3%至43,725.76點。"
+    },
+    {
+      "id": "mkt:019f826a-ffa1-7aab-8e19-387dd1566cc6",
+      "time": "2026-07-21 10:04:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Goldman Sachs says the risk of renewed escalation in the Middle East raises upside risk to its Q4 2026 Brent and WTI forecasts of $80/bl and $75/bl, respectively."
+    },
+    {
+      "id": "4998835",
+      "time": "2026-07-21 10:04:23",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "預告：國務院新聞辦公室定於2026年7月23日（星期四）下午3時舉行新聞釋出會，請商務部副部長鄢東介紹2026年上半年商務工作及執行情況，並答記者問。"
+    },
+    {
+      "id": "4998834",
+      "time": "2026-07-21 10:03:54",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛：若霍爾木茲海峽局勢持續受阻，布倫特原油油價或在2026年第四季度攀升至每桶120美元上方。"
+    },
+    {
+      "id": "mkt:019f826a-4fe3-7aab-8e19-37ef45bc2a23",
+      "time": "2026-07-21 10:03:53",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "India's Prime Minister Modi congratulated Andy Burnham on becoming UK prime minister and said the India-UK Comprehensive Economic and Trade Agreement, which takes effect this month, will further strengthen bilateral ties."
+    },
+    {
+      "id": "4998833",
+      "time": "2026-07-21 10:03:18",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "高盛表示：中東局勢風險再度升級，意味著該行對布倫特原油/WTI原油2026年第四季度80美元/75美元的預測面臨上行淨風險。"
+    },
+    {
+      "id": "mkt:019f8269-a737-7aab-8e19-2d0f760e641d",
+      "time": "2026-07-21 10:03:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A‑share liquid‑cooled server stocks extended losses. Jinfu Technology hit its fourth consecutive limit down; Cambridge Technology, Feilong Co. and Guangxun Technology recorded three straight limit‑down sessions. Daoming Optics, Far East Co., Xiaosong Co., Fenghua High‑Tech, Dayuan Pump, Xingrui Technology and Aihua Group also touched limit down; Hongfuhan plunged more than 10%, while Zhen'an Technology, Bojie Co., Haorsai, Dongyangguang and Chuanrun Co. followed lower."
+    },
+    {
+      "id": "4998832",
+      "time": "2026-07-21 10:02:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【創新藥概念集體回落 聯環藥業、昂利康雙雙跌停】創新藥概念集體回落，聯環藥業、昂利康雙雙跌停，此前美諾華跌停，津藥藥業逼近跌停，舒泰神、華蘭股份跌超11%前沿生物、康芝藥業、雙鷺藥業跟跌。"
+    },
+    {
+      "id": "mkt:019f8269-5083-7aab-8e19-237e52fd6c6c",
+      "time": "2026-07-21 10:02:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China delivers world’s first 41,800‑ton bi‑directional self‑discharging vessel】China State Shipbuilding Corporation delivered the world’s first domestically developed 41,800‑ton bi‑directional self‑discharging vessel in Jiangsu on July 21. The ship is 215 m long, 42 m wide, with a cargo hold volume of 29,000 m3. It features a self‑discharge system with two bottom reversible longitudinal conveyors enabling single‑ or double‑side unloading and a maximum unloading rate of 12,000 t/h, which China State Shipbuilding said represents a key step from follower to leader in high‑end self‑discharging transshipment vessels."
+    },
+    {
+      "id": "4998831",
+      "time": "2026-07-21 10:02:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2％，成分股中，源傑科技跌14.5％，佰維儲存跌7.6％，芯原股份跌7.3％，滬矽產業跌7.1％。"
+    },
+    {
+      "id": "4998830",
+      "time": "2026-07-21 10:02:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【全球首艘41800噸雙向航行自卸船交付】從中船集團獲悉，今天（21日），我國自主研發建造的全球首艘41800噸雙向航行自卸船在江蘇交付，標誌著我國在高階自卸轉運船舶領域實現從“跟跑”到“領跑”的關鍵性跨越。今天交付的全球首艘41800噸雙向航行自卸船總長215米，型寬42米，大貨艙艙容29000立方米。搭載了自卸作業系統，兩條底部可逆向縱向傳送皮帶，可根據作業需要實現單側或雙側靈活卸貨，總卸貨能力高達12000噸/小時。"
+    },
+    {
+      "id": "4998829",
+      "time": "2026-07-21 10:02:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報6712.20點。"
+    },
+    {
+      "id": "4998828",
+      "time": "2026-07-21 10:02:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達2.17%，成分股中，德源藥業跌11.55%，科力股份跌9.00%，吉岡精密跌5.78%，國航遠洋跌5.01%。"
+    },
+    {
+      "id": "te:markets:568360",
+      "time": "2026-07-21 10:02:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Hong Kong",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Hong Kong Stocks Flat Ahead of Inflation Data — The Hang Seng Index traded flat at 25,133 on Tuesday as investors remained on the sidelines ahead of Hong Kong's inflation data due later in the day. Market participants continued to monitor escalating hostilities in the Middle East, which lifted oil prices and renewed concerns over inflation and the prospect of further interest rate hikes. The downside was limited as investors continued to draw support from Beijing's recent efforts to stabilize the stock market. Optimism was also aided by signs of improving conditions in Hong Kong's commercial property market after a major office tower owned by CK Asset Holdings, controlled by Li Ka-shing, began attracting tenants following a prolonged period of low occupancy. Among notable movers were Z.AI Co. (9.7%), Tencent (0.9%), Semiconductor Manufacturing Corporation (1.5%), Lenovo (2.2%), and Hong Kong Exchanges and Clearing (1.1%)."
+    },
+    {
+      "id": "4998827",
+      "time": "2026-07-21 10:02:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股三大指數均跌超1%】上證指數跌1.00%，現報3758.159點；深證成指跌1.04%，現報13468.531點；創業板指跌1.01%，現報3408.390點。"
+    },
+    {
+      "id": "4998826",
+      "time": "2026-07-21 10:01:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.01%，現報3408.390點；上證指數跌1.00%，現報3758.419點；深證成指跌1.04%，現報13468.531點。"
+    },
+    {
+      "id": "4998825",
+      "time": "2026-07-21 10:01:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報13472.656點；上證指數跌0.97%，現報3759.301點；創業板指跌0.96%，現報3409.970點。"
+    },
+    {
+      "id": "4998824",
+      "time": "2026-07-21 10:01:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器板塊持續走弱 金富科技連續4日跌停】液冷伺服器板塊持續走弱，金富科技連續4日跌停，劍橋科技、飛龍股份、光迅科技連續3日跌停，道明光學、遠東股份、小崧股份、風華高科、光迅科技、大元泵業、興瑞科技、艾華集團、金富科技觸及跌停，鴻富瀚跌超10%，震安科技、博傑股份、豪爾賽、東陽光、川潤股份跟跌。"
+    },
+    {
+      "id": "4998823",
+      "time": "2026-07-21 10:01:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合觸達跌停。"
+    },
+    {
+      "id": "mkt:019f8267-fe05-7aab-8e19-1fe947345a00",
+      "time": "2026-07-21 10:01:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin periodic-open hybrid fund hit its daily limit-down."
+    },
     {
       "id": "4998822",
       "time": "2026-07-21 10:00:52",
@@ -174150,112 +174359,6 @@
         "中國"
       ],
       "text": "【上半年我國對共建“一帶一路”國家進出口12.97萬億元 同比增長14.8%】國務院新聞辦公室今天舉行釋出會，海關總署公佈了上半年外貿資料。上半年，我國對共建“一帶一路”國家進出口12.97萬億元，同比增長14.8%，佔外貿總值的50.9%。對周邊國家進出口9.44萬億元，同比增長20.6%。對拉美、非洲分別同比增長16.2%和19.6%，對歐盟同比增長10.2%。"
-    },
-    {
-      "id": "mkt:019f5e5f-7c43-7aab-8d69-8a64e400e057",
-      "time": "2026-07-14 10:05:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【CUSTOMS: China's private enterprises' 1H imports and exports totaled 14.53 tln yuan, +17%】CUSTOMS data show China’s 1H trade remained diversified. Trade with Belt and Road countries totaled 12.97 tln yuan, +14.8%, accounting for 50.9% of total foreign trade; trade with neighboring countries was 9.44 tln yuan, +20.6%. Trade with Latin America and Africa rose 16.2% and 19.6%, respectively; trade with the EU rose 10.2%. By operator type, private enterprises' imports and exports totaled 14.53 tln yuan, +17%, accounting for 57% of foreign trade; foreign-invested and state-owned enterprises rose 17.1% and 16.8%, respectively."
-    },
-    {
-      "id": "mkt:019f5e5e-b462-7aab-8d69-855d7857dd36",
-      "time": "2026-07-14 10:04:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact bullish",
-        "Hang Seng Index",
-        "Copper"
-      ],
-      "text": "【Customs: China 1H machinery & electrical exports 9.36 trn yuan, up 20.1%】Customs data: China’s 1H exports of machinery and electrical products totaled 9.36 trn yuan, up 20.1%, accounting for 63.5% of total exports (up 3.5 ppts year‑on‑year). High‑technology exports were 3.26 trn yuan, up 39%. Imports rose 28.8% in 1H, outpacing export growth by 8.7 ppts; import growth by category: energy and other bulk commodities +3.4%, machinery & electrical +28%, agricultural products +8.6%."
-    },
-    {
-      "id": "mkt:019f5e5e-3f8a-7aab-8d69-7b6021eae756",
-      "time": "2026-07-14 10:04:22",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China A-share semiconductor materials sector fell intraday; Shanghai Hejing dropped over 10%, with Youyan Silicon, Hu Silicon Industry, Zhenbao Technology and Zhongjing Technology also sliding."
-    },
-    {
-      "id": "te:markets:566579",
-      "time": "2026-07-14 10:03:57",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Philippines",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Philippine Peso Falls Toward Record Low — The Philippine peso fell to around 61.70 per US dollar in mid-July, moving back toward record lows as renewed conflict in the Middle East drove oil prices higher and weighed on emerging-market currencies. The decline highlighted the Philippines' vulnerability to rising energy costs, given its heavy reliance on imported fuel. Crude prices surged after fresh US and Iranian strikes, with Washington reimposing a blockade on shipping through the Strait of Hormuz, raising concerns over global oil supplies. The peso has lost more than 4% against the US dollar this year, heightening risks of imported inflation and adding pressure on the Bangko Sentral ng Pilipinas to support the currency. The central bank has already raised its benchmark interest rate by 25 basis points to 4.75% in June, its second consecutive increase, as policymakers sought to contain persistent inflationary pressures."
-    },
-    {
-      "id": "em:jjsj_zgsj:202607143804997629",
-      "time": "2026-07-14 10:03:45",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【上半年我國高技術產品出口3.26萬億元 同比增長39%】國務院新聞辦公室今天舉行釋出會，據介紹，上半年我國出口機電產品9.36萬億元，同比增長20.1%，佔出口總值的63.5%，較去年同期提升了3.5個百分點。高技術產品出口3.26萬億元，同比增長39%。"
-    },
-    {
-      "id": "4985759",
-      "time": "2026-07-14 10:03:29",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本30年期國債收益率下跌5個基點至3.855%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607143804995597",
-      "time": "2026-07-14 10:03:28",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【上半年我國外貿首破25萬億元】複雜多變的外部環境下，我國外貿保持良好執行態勢，取得了增勢強勁、走勢穩健的成績。7月14日，海關總署釋出資料顯示，2026年上半年，我國貨物貿易進出口總值25.47萬億元，歷史同期首破25萬億元，同比實現16.9%的增長。"
-    },
-    {
-      "id": "4985758",
-      "time": "2026-07-14 10:03:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "【今年上半年我國貨物貿易進出口同比增長16.9%】海關總署相關負責人介紹了今年以來我國外貿執行情況並回答記者提問，同時公佈了上半年外貿資料，我國貨物貿易進出口同比增長16.9%，外貿保持良好運營態勢。據海關統計，今年上半年，我國貨物貿易進出口25.47萬億元，同比增長16.9%，其中，出口14.73萬億元，增長13.4%，進口10.74萬億元，增長22.1%。其中，6月進出口4.78萬億元，同比增長24.2%，連續17個月保持增長。從出口來看，產品結構進一步最佳化，上半年我國出口機電產品9.36萬億元，增長20.1%，佔出口總值的63.5%，較去年同期提升了3.5個百分點。高技術產品出口3.26萬億元，增長39%。從進口來看，上半年我國進口增速高於出口8.7個百分點，推動進出口平衡發展。其中能源等大宗商品、機電產品、農產品分別增長了3.4%、28%、8.6%。從貿易伙伴看，我國多元化市場持續鞏固，上半年，我國對共建“一帶一路”國家進出口12.97萬億元，增長14.8%，佔外貿總值的50.9%。對周邊國家進出口9.44萬億元，增長20.6%。對拉美、非洲分別增長16.2%和19.6%，對歐盟增長10.2%。從經營主體看，我國各類經營主體增勢良好，民營企業進出口14.53萬億元，增長17%，佔外貿總值的57%。外商投資企業、國有企業，進出口分別增長17.1%、16.8%。總體看，今年上半年，我國外貿穩規模、優結構成效明顯。（央視新聞）"
-    },
-    {
-      "id": "te:markets:566578",
-      "time": "2026-07-14 10:01:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Hong Kong",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Hong Kong Stocks Fall as Investors Turn Cautious — The Hang Seng Index slipped 1.0%, or 240 points, to 23,970 on Tuesday, as renewed geopolitical tensions and broad-based weakness across Asian markets weighed on sentiment. Weaker US futures further dampened market sentiment after Wall Street retreated overnight, following President Trump's pledge to reinstate a blockade on Iranian shipping through the Strait of Hormuz. The renewed geopolitical tensions fueled risk aversion and lifted oil prices, prompting investors to shift toward safer assets. Meanwhile, traders remained cautious ahead of China's June trade data, due later in the day, as they looked for fresh clues on the strength of the country's economic recovery following stronger-than-expected export and import growth in May. Investors are also awaiting upcoming US economic data and central bank signals that could influence global market direction. Notable laggards were Tencent (-1.5%), Knowledge Atlas (-4.9%), Xiaomi (-0.5%), Meituan (-1.5%), and MiniMax (-3.1%)."
-    },
-    {
-      "id": "4985757",
-      "time": "2026-07-14 10:01:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本20年期國債收益率下跌5個基點至3.695%。"
     }
   ]
 }
