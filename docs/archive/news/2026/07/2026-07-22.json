@@ -1,7 +1,37 @@
 {
   "date": "2026-07-22",
-  "count": 171,
+  "count": 174,
   "items": [
+    {
+      "id": "5000810",
+      "time": "2026-07-22 03:26:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：五角大樓不再由官僚主導管理，取而代之的是歷經實戰考驗的老兵以及頂尖商界領袖，他們正以企業化模式運營國防部。"
+    },
+    {
+      "id": "mkt:019f8623-9420-7aab-8e30-dd31b21c07f6",
+      "time": "2026-07-22 03:25:06",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bullish",
+        "DAL.O",
+        "UAL.O"
+      ],
+      "text": "Trump has instructed the U.S. government to permit all U.S. carriers to operate nonstop flights to Lebanon."
+    },
+    {
+      "id": "5000809",
+      "time": "2026-07-22 03:24:31",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：特此指示我的行政部門允許所有美國航空公司直飛黎巴嫩。"
+    },
     {
       "id": "mkt:019f8622-b899-7aab-8e30-d07e98484367",
       "time": "2026-07-22 03:24:10",
