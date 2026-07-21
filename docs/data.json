@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22 05:22:00",
-  "count": 18081,
+  "updated": "2026-07-22 05:25:59",
+  "count": 18077,
   "items": [
     {
       "id": "mkt:019f868d-6814-7aab-8e32-b0e026212019",
@@ -166191,42 +166191,6 @@
         "Brent"
       ],
       "text": "【International oil prices rise on 14th】By the close, NYMEX August light sweet crude futures rose $1.20 to $79.34/bbl, up 1.54%; ICE Brent September futures rose $1.43 to $84.73/bbl, up 1.72%."
-    },
-    {
-      "id": "4988519",
-      "time": "2026-07-15 05:25:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價14日上漲】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲1.2美元，收於每桶79.34美元，漲幅為1.54%；9月交貨的倫敦布倫特原油期貨價格上漲1.43美元，收於每桶84.73美元，漲幅為1.72%。(新華社)"
-    },
-    {
-      "id": "mkt:019f6283-bd6f-7aab-8d8a-8c77ef0b4da1",
-      "time": "2026-07-15 05:23:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS: Iranian local and security officials deny any explosions occurred in Chabahar."
-    },
-    {
-      "id": "4988518",
-      "time": "2026-07-15 05:22:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗塔斯尼姆通訊社訊息，當地安全官員否認恰巴哈爾發生任何爆炸事件。"
-    },
-    {
-      "id": "te:economy:566910",
-      "time": "2026-07-15 05:22:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "South Korea",
-        "Import Prices YoY",
-        "Importance 1"
-      ],
-      "text": "South Korea Import Price Growth Eases in June — South Korea's import prices rose 20.6% year-on-year in June 2026, easing from an upwardly revised 25.4% increase in May. Price gains were led by mining products, which climbed 25.2%, driven by higher costs for coal, crude petroleum and natural gas (23.3%), as well as metallic and non-metallic mineral products (36.8%). Prices for manufactured goods also increased, with coal and petroleum products up 38.9% and basic metal products rising 34.3%. Meanwhile, prices for agricultural, forestry, and marine products increased 15.2%. By end use, intermediate goods recorded the largest increase, rising 25.4%, followed by raw materials (24.1%) and capital goods (7.7%). On a monthly basis, the Import Price Index fell 4.4%."
     }
   ]
 }
