@@ -1,7 +1,124 @@
 {
   "date": "2026-07-21",
-  "count": 1447,
+  "count": 1459,
   "items": [
+    {
+      "id": "4999373",
+      "time": "2026-07-21 13:54:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達8.08%，成分股中，格科微漲20.03%，中科飛測漲19.69%，華虹宏力漲17.27%，拓荊科技漲16.08%。"
+    },
+    {
+      "id": "mkt:019f833c-f90c-7aab-8e1d-bee50eba62e0",
+      "time": "2026-07-21 13:53:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "China's STAR 50 Index jumped more than 8% after earlier sliding over 3% intraday as chip stocks rallied. Among constituents, Geke Micro surged to the 20% daily limit, heavyweight Huahong Hongli gained over 17% and Cambricon rose more than 9%."
+    },
+    {
+      "id": "4999372",
+      "time": "2026-07-21 13:53:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50指數漲幅擴大至8%】科創50指數漲幅擴大至8%，現報1856.3點。"
+    },
+    {
+      "id": "4999371",
+      "time": "2026-07-21 13:53:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里雲函式計算雲沙箱全新計費模式上線】阿里雲釋出函式計算雲沙箱全新計費模式上線公告，自北京時間 2026 年 7 月 31 日 00:00 起，函式計算雲沙箱將按Region灰度切換至全新計費模式。推出 Eco/Std/Pro（經濟/標準/專業）三大場景化算力規格，滿足從個人除錯到企業級高併發的差異化需求，實現“按需匹配，精準付費”；同時大幅下調按量付費的單價，為您提供極具競爭力的價效比，顯著降低 AI 規模化執行成本。"
+    },
+    {
+      "id": "mkt:019f833c-0412-7aab-8e1d-b5cee4434eaa",
+      "time": "2026-07-21 13:52:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Yake Technology hit the daily limit-up, staging a \"floor-to-ceiling\" reversal from intraday lows; turnover nearly 6 bln yuan."
+    },
+    {
+      "id": "4999370",
+      "time": "2026-07-21 13:52:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "豐田汽車：新設立的生產線計劃於2030年投產，將創造逾2,000個新增就業崗位，並使該工廠年產能提升約15萬輛。"
+    },
+    {
+      "id": "4999369",
+      "time": "2026-07-21 13:52:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "豐田宣佈向美國德克薩斯州聖安東尼奧工廠投資36億美元。"
+    },
+    {
+      "id": "mkt:019f833b-32a1-7aab-8e1d-adb05095cfc5",
+      "time": "2026-07-21 13:52:02",
+      "tags": [
+        "MKT News",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【SEMI: Global chip-equipment sales seen rising 23.2% in 2026, reaching $229.5bn by 2028】SEMI projects global semiconductor equipment sales will rise 23.2% in 2026 to $165.9bn and hit a record $229.5bn in 2028, driven by AI infrastructure buildout and investment in advanced logic and next‑generation memory including HBM. Wafer fab equipment is forecast to reach $200bn by 2028 as AI capacity expands and fabs shift to more advanced nodes. SEMI expects 2028 DRAM equipment sales of $56.9bn and NAND equipment sales of $20.8bn; the association represents roughly 3,000 electronic design and manufacturing firms."
+    },
+    {
+      "id": "mkt:019f833a-43cd-7aab-8e1d-a503a5074e88",
+      "time": "2026-07-21 13:51:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 rose into the close, up 3.0% on the day to 66,079.56 points."
+    },
+    {
+      "id": "4999368",
+      "time": "2026-07-21 13:50:43",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "2年期日本國債收益率<JP2YTN=JBTC>上漲0.5個基點，至1.435%。"
+    },
+    {
+      "id": "4999367",
+      "time": "2026-07-21 13:50:32",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬概念走強 興業銀錫逼近漲停】貴金屬概念走強，興業銀錫逼近漲停，赤峰黃金漲超9%，山金國際、曉程科技、中金黃金、山東黃金跟漲。"
+    },
+    {
+      "id": "4999366",
+      "time": "2026-07-21 13:50:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【雅克科技上演“地天板” 成交額近60億】雅克科技拉昇觸及漲停，盤中上演“地天板”，日內成交額近60億元。"
+    },
     {
       "id": "mkt:019f8339-875d-7aab-8e1d-9864caa84948",
       "time": "2026-07-21 13:50:13",
