@@ -1,7 +1,19 @@
 {
   "date": "2026-07-22",
-  "count": 309,
+  "count": 310,
   "items": [
+    {
+      "id": "mkt:019f8668-94bc-7aab-8e32-70fa0d115296",
+      "time": "2026-07-22 04:40:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Nuclear firms Oklo and X-energy have joined the Trump administration's new reactor construction program, which aims to accelerate power supplies for AI data centers."
+    },
     {
       "id": "te:markets:568627",
       "time": "2026-07-22 04:38:21",
