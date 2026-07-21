@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-21 23:44:30",
+  "updated": "2026-07-21 23:48:41",
   "count": 18317,
   "items": [
+    {
+      "id": "mkt:019f855c-3126-7aab-8e2e-c35db470fcea",
+      "time": "2026-07-21 23:47:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK Foreign Secretary Miliband is expected to hold bilateral talks with US Secretary of State Rubio on the sidelines of an ASEAN meeting."
+    },
+    {
+      "id": "5000703",
+      "time": "2026-07-21 23:46:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國外交大臣：預計將在東盟會議期間與魯比奧舉行雙邊會談。"
+    },
+    {
+      "id": "5000702",
+      "time": "2026-07-21 23:45:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客預計 2026 年交付約 870 架商用飛機  。"
+    },
+    {
+      "id": "mkt:019f855a-ac3c-7aab-8e2e-bebe87bbff40",
+      "time": "2026-07-21 23:45:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Media portion of the meeting between U.S. President Trump and the Lebanese president at the White House has concluded."
+    },
+    {
+      "id": "5000701",
+      "time": "2026-07-21 23:44:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客：董事會批准三年期 50 億歐元股票回購計劃。"
+    },
+    {
+      "id": "te:markets:568595",
+      "time": "2026-07-21 23:44:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Dollar Edges Up to 101.1 — The dollar index strengthened to 101.1 on Tuesday, the strongest level in about a week, as investors continued to assess developments in the Middle East and the renewed surge in oil prices. Inflation concerns have resurfaced as tensions between the US and Iran continue to escalate, with the two countries exchanging strikes for a tenth consecutive day. On the monetary policy front, Fed Chair Warsh has repeatedly stressed that inflation remains a key concern for the central bank, a message that has been echoed by several other Fed officials in recent weeks. Policymakers have now entered their customary blackout period ahead of next week's FOMC meeting in which the central bank is widely expected to leave the federal funds rate unchanged. However, expectations for tighter policy remain elevated beyond July, with traders assigning roughly a 68% chance of a rate increase at the September meeting."
+    },
+    {
+      "id": "te:markets:568594",
+      "time": "2026-07-21 23:43:59",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rebounds on Tuesday — The FTSE 100 gained around 0.5% on Tuesday, as investors digested Andy Burnham’s surprise appointment of John Healey as chancellor and his commitment to fiscal discipline. Burnham used his first cabinet meeting to reaffirm budget restraint while maintaining his pledge to reduce living costs. UK economic data provided some support, with public borrowing falling in June and labour market figures broadly matching expectations. Wage growth eased slightly, while unemployment remained unchanged at 4.9%. Financials, healthcare, defence and commodity stocks led gains, with Shell and BP rising 0.6% and 1.1% as Brent crude climbed above $91 per barrel. Babcock’s shares rose more than 4% after UK Prime Minister Andy Burnham told NATO chief Mark Rutte that appointing John Healey as Chancellor showed the government’s commitment to defense spending. On the other hand, the London Stock Exchange fell nearly 3% after announcing plans for a 24-hour weekday trading platform."
+    },
     {
       "id": "mkt:019f8558-ed3d-7aab-8e2e-b7008271b000",
       "time": "2026-07-21 23:43:45",
@@ -9,6 +73,14 @@
         "MKT News"
       ],
       "text": "Airbus said its board approved a €5 billion share repurchase program to be executed over three years."
+    },
+    {
+      "id": "5000700",
+      "time": "2026-07-21 23:43:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧恩：我完全信任黎巴嫩武裝部隊領導層。"
     },
     {
       "id": "mkt:019f8558-be0f-7aab-8e2e-ab631621670f",
@@ -168481,84 +168553,6 @@
         "XAUUSD"
       ],
       "text": "Federal Reserve Chair Warsh said he will firmly support a 2% inf target."
-    },
-    {
-      "id": "mkt:019f6150-11de-7aab-8d83-a2be631ad61a",
-      "time": "2026-07-14 23:47:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Tasnim News Agency reports Iran says a US strike on Kish Island port today damaged several vessels."
-    },
-    {
-      "id": "4988174",
-      "time": "2026-07-14 23:47:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古巴再次發生全國性停電】當地時間7月14日上午，古巴電力聯盟釋出訊息稱，國家電力系統再次完全斷開。2026年以來，古巴已多次發生全國性停電。本次為7月發生的第三次。（央視新聞）"
-    },
-    {
-      "id": "4988173",
-      "time": "2026-07-14 23:47:03",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "沃什淡化6月CPI資料後，美國國債漲幅收窄。"
-    },
-    {
-      "id": "4988172",
-      "time": "2026-07-14 23:45:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什講話期間，美元現貨指數跌幅收窄。"
-    },
-    {
-      "id": "mkt:019f614e-2ff9-7aab-8d83-9f871f9263a8",
-      "time": "2026-07-14 23:45:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said the Treasury may use the Exchange Stabilization Fund (ESF) to arrange swap lines unrelated to Fed monetary policy."
-    },
-    {
-      "id": "4988171",
-      "time": "2026-07-14 23:45:40",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：財政部可將匯率穩定基金（ESF）用於與美聯儲貨幣政策無關的互換額度。"
-    },
-    {
-      "id": "4988170",
-      "time": "2026-07-14 23:45:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "挪威近海工業集團：石油服務業罷工與停工已結束，工會與企業同意透過自願仲裁解決爭議。"
-    },
-    {
-      "id": "mkt:019f614d-7da0-7aab-8d83-92483d6b149b",
-      "time": "2026-07-14 23:44:56",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve chairman Kevin Warsh said dollar liquidity swap line capacity is part of monetary policy."
     }
   ]
 }
