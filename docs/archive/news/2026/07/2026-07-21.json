@@ -1,7 +1,125 @@
 {
   "date": "2026-07-21",
-  "count": 3057,
+  "count": 3069,
   "items": [
+    {
+      "id": "5000554",
+      "time": "2026-07-21 21:48:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "PURE DC獲得額外13億歐元資金，加速歐洲最大人工智慧園區之一的建設。"
+    },
+    {
+      "id": "5000553",
+      "time": "2026-07-21 21:47:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：加拿大央行將於週三拍賣50億加元14天期限不可替代現金管理券。"
+    },
+    {
+      "id": "5000552",
+      "time": "2026-07-21 21:46:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "滙豐將高盛<GS.N>評級從\"減持\"上調至\"持有\"，目標價從834美元上調至995美元。"
+    },
+    {
+      "id": "5000551",
+      "time": "2026-07-21 21:46:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【閃迪漲幅擴大至10%】閃迪股價上漲10.02%，報1530.385美元/股，總市值報2266億美元。"
+    },
+    {
+      "id": "5000550",
+      "time": "2026-07-21 21:46:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【26東北Y1：30億元永續次級債券一期票面利率確定為2.40%】26東北Y1公告稱，東北證券公開發行不超50億元的永續次級公司債券已獲註冊。2026年面向專業投資者發行的永續次級債券（第一期）規模不超30億元，經7月21日詢價，最終確定票面利率為2.40%，該利率在2.00%-3.00%的詢價區間內。公司將按此利率於7月22日-23日面向專業機構投資者網下發行。"
+    },
+    {
+      "id": "mkt:019f84ed-14a5-7aab-8e2b-4aa0d992e1ae",
+      "time": "2026-07-21 21:45:57",
+      "tags": [
+        "MKT News",
+        "BA.L",
+        "Impact bullish"
+      ],
+      "text": "UK defence minister said every penny spent on defence is \"worth it\"."
+    },
+    {
+      "id": "te:markets:568578",
+      "time": "2026-07-21 21:45:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips as Financials Weigh — The Ibovespa edged down to hover below 173,000 on Tuesday, weighed down by losses in financial stocks. Financials traded lower as elevated oil prices fueled energy-driven inflation concerns. Itaúsa and Bradesco shed nearly 0.5%, while Itaú and Banco do Brasil edged lower. Utilities also posted losses, with Sabesp and Axia down around 0.5%. Other notable laggards included Rede D'Or (-3%) and Vivo (-0.5%). Meanwhile, hopes for diplomacy in the Middle East were boosted by reports that Iran is considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for a lasting peace agreement. However, oil prices remained elevated, supporting Petrobras, which gained nearly 0.5%. Vale rebounded nearly 1% after retreating in the previous session on lower iron ore prices."
+    },
+    {
+      "id": "5000549",
+      "time": "2026-07-21 21:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防大臣：國防上的每一分錢都“花得值”。"
+    },
+    {
+      "id": "te:economy:568577",
+      "time": "2026-07-21 21:45:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Denmark 10Y Bond Yield Hits 32-month High — Denmark 10 Year Government Bond Yield increased to 3.02%, the highest since November 2023. Over the past 4 weeks, Denmark 10Y Bond Yield gained 20.24 basis points, and in the last 12 months, it increased 55.62 basis points."
+    },
+    {
+      "id": "mkt:019f84ec-4b35-7aab-8e2b-44cf6d6b5f59",
+      "time": "2026-07-21 21:45:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude extends intraday gains to about 3%, trading at $85.40/bbl; Brent crude up 2.16% at $89.40/bbl."
+    },
+    {
+      "id": "5000548",
+      "time": "2026-07-21 21:45:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防大臣： 最大化威懾力量以防範衝突至關重要。"
+    },
+    {
+      "id": "te:markets:568576",
+      "time": "2026-07-21 21:44:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 4-week Low — Home Depot shares decreased to 327.01 USD, the lowest since June 2026. Over the past 4 weeks, Home Depot gained 0.39%, and in the last 12 months, it decreased 9.93%."
+    },
     {
       "id": "5000547",
       "time": "2026-07-21 21:43:37",

@@ -1,7 +1,125 @@
 {
-  "updated": "2026-07-21 21:45:09",
-  "count": 18425,
+  "updated": "2026-07-21 21:49:13",
+  "count": 18424,
   "items": [
+    {
+      "id": "5000554",
+      "time": "2026-07-21 21:48:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "PURE DC獲得額外13億歐元資金，加速歐洲最大人工智慧園區之一的建設。"
+    },
+    {
+      "id": "5000553",
+      "time": "2026-07-21 21:47:41",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "市場訊息：加拿大央行將於週三拍賣50億加元14天期限不可替代現金管理券。"
+    },
+    {
+      "id": "5000552",
+      "time": "2026-07-21 21:46:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "滙豐將高盛<GS.N>評級從\"減持\"上調至\"持有\"，目標價從834美元上調至995美元。"
+    },
+    {
+      "id": "5000551",
+      "time": "2026-07-21 21:46:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【閃迪漲幅擴大至10%】閃迪股價上漲10.02%，報1530.385美元/股，總市值報2266億美元。"
+    },
+    {
+      "id": "5000550",
+      "time": "2026-07-21 21:46:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【26東北Y1：30億元永續次級債券一期票面利率確定為2.40%】26東北Y1公告稱，東北證券公開發行不超50億元的永續次級公司債券已獲註冊。2026年面向專業投資者發行的永續次級債券（第一期）規模不超30億元，經7月21日詢價，最終確定票面利率為2.40%，該利率在2.00%-3.00%的詢價區間內。公司將按此利率於7月22日-23日面向專業機構投資者網下發行。"
+    },
+    {
+      "id": "mkt:019f84ed-14a5-7aab-8e2b-4aa0d992e1ae",
+      "time": "2026-07-21 21:45:57",
+      "tags": [
+        "MKT News",
+        "BA.L",
+        "Impact bullish"
+      ],
+      "text": "UK defence minister said every penny spent on defence is \"worth it\"."
+    },
+    {
+      "id": "te:markets:568578",
+      "time": "2026-07-21 21:45:43",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips as Financials Weigh — The Ibovespa edged down to hover below 173,000 on Tuesday, weighed down by losses in financial stocks. Financials traded lower as elevated oil prices fueled energy-driven inflation concerns. Itaúsa and Bradesco shed nearly 0.5%, while Itaú and Banco do Brasil edged lower. Utilities also posted losses, with Sabesp and Axia down around 0.5%. Other notable laggards included Rede D'Or (-3%) and Vivo (-0.5%). Meanwhile, hopes for diplomacy in the Middle East were boosted by reports that Iran is considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for a lasting peace agreement. However, oil prices remained elevated, supporting Petrobras, which gained nearly 0.5%. Vale rebounded nearly 1% after retreating in the previous session on lower iron ore prices."
+    },
+    {
+      "id": "5000549",
+      "time": "2026-07-21 21:45:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防大臣：國防上的每一分錢都“花得值”。"
+    },
+    {
+      "id": "te:economy:568577",
+      "time": "2026-07-21 21:45:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Denmark 10Y Bond Yield Hits 32-month High — Denmark 10 Year Government Bond Yield increased to 3.02%, the highest since November 2023. Over the past 4 weeks, Denmark 10Y Bond Yield gained 20.24 basis points, and in the last 12 months, it increased 55.62 basis points."
+    },
+    {
+      "id": "mkt:019f84ec-4b35-7aab-8e2b-44cf6d6b5f59",
+      "time": "2026-07-21 21:45:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude extends intraday gains to about 3%, trading at $85.40/bbl; Brent crude up 2.16% at $89.40/bbl."
+    },
+    {
+      "id": "5000548",
+      "time": "2026-07-21 21:45:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國國防大臣： 最大化威懾力量以防範衝突至關重要。"
+    },
+    {
+      "id": "te:markets:568576",
+      "time": "2026-07-21 21:44:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Home Depot Stock Price Hits 4-week Low — Home Depot shares decreased to 327.01 USD, the lowest since June 2026. Over the past 4 weeks, Home Depot gained 0.39%, and in the last 12 months, it decreased 9.93%."
+    },
     {
       "id": "5000547",
       "time": "2026-07-21 21:43:37",
@@ -169507,127 +169625,6 @@
         "國際"
       ],
       "text": "墨西哥已就本國公民在美國移民拘留期間死亡一事，向美國各州檢察官提起刑事訴訟。"
-    },
-    {
-      "id": "mkt:019f60e3-7bcf-7aab-8d7f-9f4639c14c17",
-      "time": "2026-07-14 21:49:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "AMD.O",
-        "Impact bullish",
-        "MU.O",
-        "MRVL.O"
-      ],
-      "text": "U.S. semiconductor stocks rose in early trade; the Philadelphia Semiconductor Index gained 3.1% and the iShares Semiconductor ETF rose 3.1%. AMD (AMD.O) +3.6%, Micron Technology (MU.O) +3.5%, Western Digital (WDC.O) +4.2%, MARVELL (MRVL.O) +4.2%."
-    },
-    {
-      "id": "mkt:019f60e3-7654-7aab-8d7f-9476066e5f7d",
-      "time": "2026-07-14 21:49:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "White House National Economic Council director Hassett said energy prices have fallen sharply."
-    },
-    {
-      "id": "4987941",
-      "time": "2026-07-14 21:48:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "哈塞特：能源價格已經大幅下降。"
-    },
-    {
-      "id": "4987940",
-      "time": "2026-07-14 21:48:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "費城SE半導體指數上漲3.1%，iShares半導體ETF上漲3.1%。"
-    },
-    {
-      "id": "4987939",
-      "time": "2026-07-14 21:48:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "超威半導體（AMD）上漲3.6%，美光科技上漲3.5%，西部資料上漲4.2%，美滿電子上漲4.2%。"
-    },
-    {
-      "id": "4987938",
-      "time": "2026-07-14 21:48:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【普華永道：中國AI崗位招聘回暖】7月14日，普華永道釋出《2026年全球人工智慧就業晴雨表》顯示，中國內地AI崗位招聘回暖，AI應用加速向全行業滲透，受AI影響程度高的職業的技能轉型速度明顯更快，整體就業市場呈現結構最佳化的新特徵。"
-    },
-    {
-      "id": "mkt:019f60e2-8b99-7aab-8d7f-89b82d335a42",
-      "time": "2026-07-14 21:48:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HASSETT said this is the best inf report we have seen in six years."
-    },
-    {
-      "id": "mkt:019f60e2-6e5e-7aab-8d7f-8289e5df0930",
-      "time": "2026-07-14 21:47:59",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs CFO expects full-year alternatives fundraising to exceed US$125 bln."
-    },
-    {
-      "id": "4987937",
-      "time": "2026-07-14 21:47:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全與外交政策委員會委員：伊朗在霍爾木茲海峽的掌控力是永久且不可動搖的。"
-    },
-    {
-      "id": "te:markets:566854",
-      "time": "2026-07-14 21:46:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "TJX Companies Stock Price Hits 8-week Low — TJX Companies shares decreased to 149.53 USD, the lowest since May 2026. Over the past 4 weeks, TJX Companies lost 10.47%, and in the last 12 months, it increased 21.24%."
-    },
-    {
-      "id": "4987936",
-      "time": "2026-07-14 21:46:03",
-      "tags": [
-        "觀點"
-      ],
-      "text": "高盛首席財務官表示，與歷史平均水平相比，由私募股權基金支援的交易量仍顯低迷。"
-    },
-    {
-      "id": "4987935",
-      "time": "2026-07-14 21:45:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【陝西發現大型深層煤層氣田】7月14日，記者從陝西延長石油（集團）有限責任公司獲悉，該集團提交的延東煤層氣田探明地質儲量透過自然資源部評審備案，探明地質儲量約537億立方米。延東煤層氣田位於延安市延長縣和宜川縣境內，埋深超過2000米。據專家評估，延東煤層氣田探明儲量具備年產8億至10億立方米煤層氣產能建設基礎，將為陝西天然氣增儲上產提供堅強支撐。（光明日報）"
-    },
-    {
-      "id": "4987934",
-      "time": "2026-07-14 21:45:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿曼外交大臣表示：過去幾十年，美國投入了龐大的軍費開支，也在本地區不斷擴建軍事基地，並確立了一套依賴外部保護的安全體系。然而，這一切並沒有建立起可持續的地區穩定局勢，也未能阻止戰爭與危機的爆發。"
     }
   ]
 }
