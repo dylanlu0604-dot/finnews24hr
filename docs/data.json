@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-22 02:41:53",
-  "count": 18075,
+  "updated": "2026-07-22 02:45:47",
+  "count": 18071,
   "items": [
+    {
+      "id": "te:economy:568616",
+      "time": "2026-07-22 02:43:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Imports YoY",
+        "Importance 0"
+      ],
+      "text": "Colombia Import Growth Slows in May — Colombia's imports rose 10.6% year-on-year to $6.79 billion in May 2026 after increasing 15.8% in April. The increase was mainly driven by an 8.2% rise in manufactured imports, led by higher purchases of machinery and transport equipment (15.1%) and chemicals and related products (5.4%). Imports of agricultural products, food, and beverages rose 2.7%, supported by a 3.3% increase in purchases of food products and live animals. Imports of fuels and extractive industry products climbed 35.2%, driven mainly by a 29.7% increase in purchases of petroleum, petroleum products, and related goods."
+    },
+    {
+      "id": "5000786",
+      "time": "2026-07-22 02:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思對參議院委員會：參議院必須透過670億美元的追加撥款。"
+    },
     {
       "id": "5000785",
       "time": "2026-07-22 02:40:50",
@@ -166190,64 +166210,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊：伊方出動海空力量，同步用導彈、無人機襲擊兩處美軍基地，此次行動報復美軍當日早些時候襲擊伊朗沿海軍事據點的行為。"
-    },
-    {
-      "id": "4988420",
-      "time": "2026-07-15 02:45:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "一名美國官員表示，美國近期對伊朗發動的空襲是為“消除正在浮現的威脅”。"
-    },
-    {
-      "id": "mkt:019f61f2-7b40-7aab-8d87-d1186baa58ad",
-      "time": "2026-07-15 02:45:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Governor Bowman will speak in 10 minutes at the Fed's annual financial inclusion conference."
-    },
-    {
-      "id": "mkt:019f61f2-49ab-7aab-8d87-cd9ec50d41e0",
-      "time": "2026-07-15 02:44:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said reopening of the Strait of Hormuz will be delayed as long as the United States continues its actions."
-    },
-    {
-      "id": "mkt:019f61f2-1e5f-7aab-8d87-c0a40ab03e6d",
-      "time": "2026-07-15 02:44:45",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said in the third round of \"Operation Promise 2\" it launched missile and drone strikes on Bahrain's Sheikh Isa base and Kuwait's Ali Al Salem base, striking ammunition facilities, ship and aircraft parts warehouses, and an MQ-9 drone facility."
-    },
-    {
-      "id": "4988419",
-      "time": "2026-07-15 02:43:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦總理：強烈譴責胡塞武裝針對沙烏地阿拉伯南部地區發動的彈道導彈襲擊，此類襲擊侵犯沙特主權，巴基斯坦對沙特安全給予“堅定不移的支援”。"
-    },
-    {
-      "id": "4988418",
-      "time": "2026-07-15 02:43:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美官員稱美軍正對伊朗發動新一輪空襲】央視記者當地時間14日獲悉，一名美國官員證實，美軍正在對伊朗發動新一輪空襲，相關行動已持續數小時。（央視新聞）"
     }
   ]
 }

@@ -1,7 +1,27 @@
 {
   "date": "2026-07-22",
-  "count": 134,
+  "count": 136,
   "items": [
+    {
+      "id": "te:economy:568616",
+      "time": "2026-07-22 02:43:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Imports YoY",
+        "Importance 0"
+      ],
+      "text": "Colombia Import Growth Slows in May — Colombia's imports rose 10.6% year-on-year to $6.79 billion in May 2026 after increasing 15.8% in April. The increase was mainly driven by an 8.2% rise in manufactured imports, led by higher purchases of machinery and transport equipment (15.1%) and chemicals and related products (5.4%). Imports of agricultural products, food, and beverages rose 2.7%, supported by a 3.3% increase in purchases of food products and live animals. Imports of fuels and extractive industry products climbed 35.2%, driven mainly by a 29.7% increase in purchases of petroleum, petroleum products, and related goods."
+    },
+    {
+      "id": "5000786",
+      "time": "2026-07-22 02:43:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思對參議院委員會：參議院必須透過670億美元的追加撥款。"
+    },
     {
       "id": "5000785",
       "time": "2026-07-22 02:40:50",
