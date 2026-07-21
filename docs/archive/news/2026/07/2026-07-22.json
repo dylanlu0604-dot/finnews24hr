@@ -1,7 +1,21 @@
 {
   "date": "2026-07-22",
-  "count": 56,
+  "count": 57,
   "items": [
+    {
+      "id": "mkt:019f859b-768e-7aab-8e2f-70c1029352d4",
+      "time": "2026-07-22 00:56:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities extended gains; the Dow and S&P 500 are up more than 1%, the Nasdaq is up 1.4%."
+    },
     {
       "id": "5000740",
       "time": "2026-07-22 00:55:14",

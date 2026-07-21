@@ -1,7 +1,21 @@
 {
-  "updated": "2026-07-22 00:56:15",
-  "count": 18163,
+  "updated": "2026-07-22 01:00:16",
+  "count": 18147,
   "items": [
+    {
+      "id": "mkt:019f859b-768e-7aab-8e2f-70c1029352d4",
+      "time": "2026-07-22 00:56:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities extended gains; the Dow and S&P 500 are up more than 1%, the Nasdaq is up 1.4%."
+    },
     {
       "id": "5000740",
       "time": "2026-07-22 00:55:14",
@@ -166921,170 +166935,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：在危機時期，我們願意對資產負債表採取相當激進的調控措施。"
-    },
-    {
-      "id": "4988319",
-      "time": "2026-07-15 01:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收漲0.63%，滬銅收漲0.51%，滬鋁收跌0.17%，滬鋅收漲0.53%，滬鉛收跌1.42%，滬鎳收跌0.21%，滬錫收漲1.45%。氧化鋁夜盤收漲1.08%，鋁合金收跌0.11%。不鏽鋼夜盤收漲0.21%。"
-    },
-    {
-      "id": "4988318",
-      "time": "2026-07-15 01:00:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄美製定聯合計劃 國際空間站執行擬於2030年底結束】當地時間14日，俄羅斯第一副總理曼圖羅夫秘書處方面釋出訊息稱，在美國國家航空航天局局長艾薩克曼到訪後，俄美雙方已制定聯合計劃，國際空間站執行擬於2030年底結束。雙方還討論了國家軌道站緊急互助合作、探月合作專案，以及太空醫學和生物學聯合實驗。國際空間站於1998年開始建造，最初設計壽命為15年，後多次延長。俄羅斯艙段核心模組“星辰”號服務艙自2019年起持續存在漏氣問題。"
-    },
-    {
-      "id": "4988317",
-      "time": "2026-07-15 00:59:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國司法部針對美國頭部醫療資料定價服務商Claritev的調查升級，新增多份資訊調取要求。"
-    },
-    {
-      "id": "4988316",
-      "time": "2026-07-15 00:59:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：將確保貨幣政策保持獨立性。"
-    },
-    {
-      "id": "mkt:019f6191-a45d-7aab-8d86-489f7d720a85",
-      "time": "2026-07-15 00:59:22",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said he will ensure the Federal Reserve remains independent during his tenure."
-    },
-    {
-      "id": "4988315",
-      "time": "2026-07-15 00:59:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：在我任內，美聯儲將保持獨立性。"
-    },
-    {
-      "id": "mkt:019f6190-fdc6-7aab-8d86-4146b7a9e7f0",
-      "time": "2026-07-15 00:58:39",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Indian government says an Indian national died after an attack off the coast of Oman."
-    },
-    {
-      "id": "mkt:019f6190-df6a-7aab-8d86-3a014a43a279",
-      "time": "2026-07-15 00:58:32",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve chair KEVIN WARSH said if he already had a preferred inf metric, he would not have asked the working group to return to first principles to re-examine it."
-    },
-    {
-      "id": "4988314",
-      "time": "2026-07-15 00:58:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "優步洽談以每股約40歐元的價格收購外賣企業Delivery Hero。"
-    },
-    {
-      "id": "mkt:019f6190-6b00-7aab-8d86-312ab04ef913",
-      "time": "2026-07-15 00:58:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fed chair Kevin Warsh said he has no preference among regional Fed inflation measures."
-    },
-    {
-      "id": "4988313",
-      "time": "2026-07-15 00:57:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度政府：一名印度公民在阿曼沿海遇襲船隻事件中身亡。"
-    },
-    {
-      "id": "4988312",
-      "time": "2026-07-15 00:57:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "LUCID股價跌幅擴大至11%。"
-    },
-    {
-      "id": "4988311",
-      "time": "2026-07-15 00:57:36",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：我認為量化寬鬆本身並不具有通脹屬性。"
-    },
-    {
-      "id": "4988310",
-      "time": "2026-07-15 00:57:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：如果我心中已有偏好的通脹衡量指標，就不會要求專項工作組迴歸基礎原理重新研究。"
-    },
-    {
-      "id": "mkt:019f618f-94e3-7aab-8d86-2cf4948fcc2f",
-      "time": "2026-07-15 00:57:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed chair Kevin Warsh said quantitative easing does not necessarily cause inflation, particularly during crisis periods."
-    },
-    {
-      "id": "mkt:019f618e-d2c0-7aab-8d86-2743a283c407",
-      "time": "2026-07-15 00:56:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chairman Kevin Warsh: inflation reflects the policy preferences of the Fed and fiscal policymakers."
-    },
-    {
-      "id": "mkt:019f618e-cf21-7aab-8d86-1e8b16d62c75",
-      "time": "2026-07-15 00:56:16",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed has greater control over price levels than over the unemployment rate."
     }
   ]
 }
