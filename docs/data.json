@@ -1,7 +1,169 @@
 {
-  "updated": "2026-07-21 23:35:58",
-  "count": 18313,
+  "updated": "2026-07-21 23:40:15",
+  "count": 18314,
   "items": [
+    {
+      "id": "mkt:019f8554-e7f1-7aab-8e2e-7f7209089533",
+      "time": "2026-07-21 23:39:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Jupiter Asset Management says rising US two-year real yields are supporting dollar strength."
+    },
+    {
+      "id": "5000692",
+      "time": "2026-07-21 23:39:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗還沒見識到真正的手段。"
+    },
+    {
+      "id": "mkt:019f8554-90c9-7aab-8e2e-7590ed9ed733",
+      "time": "2026-07-21 23:38:59",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "Jupiter Asset Management said higher oil prices could weigh on euro area growth."
+    },
+    {
+      "id": "mkt:019f8554-6582-7aab-8e2e-68175f95be2d",
+      "time": "2026-07-21 23:38:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Jupiter Asset Management favors German five-year bunds. It sees Italy's 10-year government bonds, yielding around 4%, as attractive."
+    },
+    {
+      "id": "mkt:019f8553-e918-7aab-8e2e-61450823dcef",
+      "time": "2026-07-21 23:38:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "Market Regions",
+        "Europe & UK",
+        "US10Y",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Jupiter Asset Management has shifted allocations from US Treasuries into European sovereign bonds."
+    },
+    {
+      "id": "mkt:019f8553-da76-7aab-8e2e-5bb15c990f7b",
+      "time": "2026-07-21 23:38:12",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "Jupiter Asset Management cut its US Treasuries holdings to very low levels in late April–early May, citing stronger-than-expected data and a renewed prospect of rate hikes."
+    },
+    {
+      "id": "te:markets:568592",
+      "time": "2026-07-21 23:37:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Gain Traction — European stocks closed higher on Tuesday amid a rebound for the global AI sector as markets positioned for major earnings reports. The Euro STOXX 50 gained 0.9% to 6,829 and the STOXX Europe 600 added 0.5% to 643. ASML surged 4.7% and Infineon jumped 6.8%, tracking gains for companies with exposure to chip manufacturing after strong export data from South Korea and Taiwan, reigniting speculative demand for the sector. Siemens Energy also benefited from the development due to its push to power data centers, lifting shares by 4%. In turn, UniCredit and BNP Paribas closed 1.5% higher each ahead of their earnings tomorrow. Outside the Eurozone, Novartis gained 2.1% after beating its earnings estimates, although expiring patents prevented the drug giant from raising its guidance. The strong session for equities prevailed despite another surge in European natural gas prices, as the war in the Middle East continued to hamper LNG exports to the continent."
+    },
+    {
+      "id": "5000691",
+      "time": "2026-07-21 23:36:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "OpenAI的CEO Altman將向美國官員們介紹下一波AI模型。"
+    },
+    {
+      "id": "5000690",
+      "time": "2026-07-21 23:36:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗或許正試圖藉助霍爾木茲相關局勢干預選舉。"
+    },
+    {
+      "id": "mkt:019f8552-7646-7aab-8e2e-50f729706895",
+      "time": "2026-07-21 23:36:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump said Iran may try to influence the election via the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f8552-24f2-7aab-8e2e-4d40f896fc4e",
+      "time": "2026-07-21 23:36:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Tuesday, July 21: Germany's DAX 30 closed up 152.88 points (+0.61%) at 25,014.55; UK FTSE 100 closed up 58.24 points (+0.55%) at 10,583.00; France's CAC 40 closed up 23.03 points (+0.28%) at 8,363.14; Stoxx Europe 50 closed up 55.75 points (+0.90%) at 6,283.15; Spain's IBEX 35 closed up 173.57 points (+0.90%) at 19,380.47; Italy's FTSE MIB closed up 439.21 points (+0.85%) at 52,302.00."
+    },
+    {
+      "id": "mkt:019f8552-12fc-7aab-8e2e-44bcf9b9a968",
+      "time": "2026-07-21 23:36:16",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "President Trump, on Canadian tariffs, said the measures stem from Canada taking a tough line on U.S. farmers and other issues."
+    },
+    {
+      "id": "5000689",
+      "time": "2026-07-21 23:35:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局（FDA）啟動試點計劃，鼓勵在美國本土生產動物藥品。"
+    },
+    {
+      "id": "mkt:019f8551-6dd6-7aab-8e2e-3f9228a85218",
+      "time": "2026-07-21 23:35:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "Trump, commenting on tariffs on Canada, said the measures had nothing to do with wildfires."
+    },
     {
       "id": "5000688",
       "time": "2026-07-21 23:35:14",
@@ -168369,124 +168531,6 @@
         "國際"
       ],
       "text": "美聯儲主席沃什：推測人工智慧更多是賦能增效工作，而非取代崗位。"
-    },
-    {
-      "id": "4988160",
-      "time": "2026-07-14 23:40:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：銀行監管機構制定規則時，各方內部及相互間展開“良性內部爭議”才是最佳狀態。"
-    },
-    {
-      "id": "4988159",
-      "time": "2026-07-14 23:39:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "一艘阿聯酋油輪在阿曼海岸附近遇襲。另有一艘賴比瑞亞註冊、阿聯酋運營的油輪也遭到襲擊。"
-    },
-    {
-      "id": "mkt:019f6148-3084-7aab-8d83-6c4781eadf24",
-      "time": "2026-07-14 23:39:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reported a U.S. missile exploded near hydropower facilities on Iran's Kish Island."
-    },
-    {
-      "id": "4988158",
-      "time": "2026-07-14 23:38:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國一枚炮彈在伊朗基什島水電設施附近爆炸。"
-    },
-    {
-      "id": "4988157",
-      "time": "2026-07-14 23:38:33",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：目標是與其他銀行監管機構協調規則制定工作。"
-    },
-    {
-      "id": "4988156",
-      "time": "2026-07-14 23:38:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：力爭在最後期限前完成與《天才法案》配套規則的制定。"
-    },
-    {
-      "id": "4988155",
-      "time": "2026-07-14 23:37:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗媒體14日報道，伊朗格什姆島傳出數次爆炸聲。"
-    },
-    {
-      "id": "mkt:019f6146-568a-7aab-8d83-673cb0d2824d",
-      "time": "2026-07-14 23:37:07",
-      "tags": [
-        "MKT News",
-        "DAX",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "European equities closed higher on July 14. Germany's DAX rose 44.36 pts (0.18%) to 25,131.54; FTSE 100 gained 23.66 pts (0.23%) to 10,521.95; France's CAC 40 added 2.20 pts (0.03%) to 8,366.85; STOXX Europe 50 increased 6.18 pts (0.10%) to 6,277.20; Spain's IBEX 35 was up 18.10 pts (0.09%) at 19,345.20; Italy's FTSE MIB rose 42.15 pts (0.08%) to 52,851.50."
-    },
-    {
-      "id": "mkt:019f6146-280a-7aab-8d83-5a991302ff5b",
-      "time": "2026-07-14 23:36:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Interfax reports Russia says International Space Station operations are expected to end in 2030."
-    },
-    {
-      "id": "mkt:019f6146-0bf9-7aab-8d83-5168e1a2ea51",
-      "time": "2026-07-14 23:36:48",
-      "tags": [
-        "MKT News",
-        "C.O",
-        "Impact bullish"
-      ],
-      "text": "Citigroup CEO Fraser said the bank will accelerate its investment pace if favorable conditions persist."
-    },
-    {
-      "id": "4988154",
-      "time": "2026-07-14 23:36:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯表示國際空間站運營工作預計將於2030年終止。"
-    },
-    {
-      "id": "mkt:019f6145-b7d4-7aab-8d83-4cd60bdeb86a",
-      "time": "2026-07-14 23:36:26",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Three oil tankers attacked off Oman; three missing, six injured】The Oman Maritime Safety Centre said on July 14 that three Liberian-flagged oil tankers were sequentially attacked in waters off Oman, leaving three people missing and six injured. The centre gave no timing, method or attribution for the attacks and said it is monitoring the situation and taking necessary measures."
-    },
-    {
-      "id": "4988153",
-      "time": "2026-07-14 23:36:08",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團執行長：若良好市場環境得以延續，將加大投資推進力度。"
     }
   ]
 }
