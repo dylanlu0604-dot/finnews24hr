@@ -1,7 +1,62 @@
 {
   "date": "2026-07-22",
-  "count": 353,
+  "count": 359,
   "items": [
+    {
+      "id": "5000923",
+      "time": "2026-07-22 05:53:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆任命露西·裡格比為倫敦金融城事務部長。"
+    },
+    {
+      "id": "5000922",
+      "time": "2026-07-22 05:53:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方：伊朗發起襲擊後，本國防空部隊正在攔截無人機。居民聽到的任何爆炸聲，均是防空系統攔截無人機所產生。"
+    },
+    {
+      "id": "5000921",
+      "time": "2026-07-22 05:52:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：希望國際足聯主席因凡蒂諾出任下一任聯合國秘書長。"
+    },
+    {
+      "id": "mkt:019f86a8-c5f9-7aab-8e32-eda2ac6f3278",
+      "time": "2026-07-22 05:50:35",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "Federal Communications Commission says the Trump administration is considering a ban on imports of military-grade drones."
+    },
+    {
+      "id": "mkt:019f86a8-8f3f-7aab-8e32-e49aa47a89b6",
+      "time": "2026-07-22 05:50:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Zelenskiy names Mykhailo Drapat as commander of Ukraine's armed forces】Ukrainian President Zelenskiy said on the evening of the 21st he has decided to appoint Mykhailo Drapat to replace Alexander Syrskyi as commander-in-chief of Ukraine's armed forces. Zelenskiy said he discussed changes to the general staff with Drapat, acting defence minister Yevhen Khmara and deputy head of the presidential office Pavlo Palisa; he expects all decisions to be finalised on the 22nd. Drapat has recently served as commander of the ground forces and commander of the Joint Forces."
+    },
+    {
+      "id": "5000920",
+      "time": "2026-07-22 05:50:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普政府正考慮禁止軍用級無人機進口。"
+    },
     {
       "id": "5000919",
       "time": "2026-07-22 05:47:35",
