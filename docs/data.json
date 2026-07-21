@@ -1,7 +1,276 @@
 {
-  "updated": "2026-07-21 15:41:31",
-  "count": 18984,
+  "updated": "2026-07-21 15:50:33",
+  "count": 18985,
   "items": [
+    {
+      "id": "4999651",
+      "time": "2026-07-21 15:44:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯潔股份：副總經理鄭偉芳因個人原因辭職】匯潔股份7月21日公告，公司董事會近日收到鄭偉芳的辭職報告，鄭偉芳因個人原因辭去公司副總經理職務，自2026年7月21日起生效。鄭偉芳辭職後不再擔任公司任何職務。"
+    },
+    {
+      "id": "4999650",
+      "time": "2026-07-21 15:44:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【贛粵高速：副總經理徐義標因工作變動辭職】贛粵高速7月21日公告，公司董事會收到公司副總經理徐義標的書面辭職報告。因工作變動，徐義標申請辭去公司副總經理職務，辭職後將不再擔任公司任何職務，辭職報告在送達董事會後即時生效。"
+    },
+    {
+      "id": "mkt:019f83a2-3f6f-7aab-8e21-6da24afbe010",
+      "time": "2026-07-21 15:44:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai 1H foreign trade up 18.6% YoY; exports top 1 trillion yuan for first time】Shanghai's foreign trade in 1H totaled 2.55 trillion yuan, up 18.6% YoY. Exports reached 1.14 trillion yuan, +20.1% YoY, surpassing 1 trillion for the first time; imports were 1.41 trillion yuan, +17.4% YoY. Trade volume hit a record high."
+    },
+    {
+      "id": "4999649",
+      "time": "2026-07-21 15:44:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "【葵花葯業：使用1.1億元閒置資金購買理財產品】葵花葯業公告稱，公司此前決定使用不超20億元閒置自有資金進行現金管理，額度12個月內有效且可滾存使用。近日，公司使用1.1億元閒置自有資金購買了4款理財產品，包括中信銀行、中國民生銀行、招商銀行相關產品，預期年化收益率在1.90%-2.00%。截至公告日，公司現金管理未到期金額為1.68億元（含本次）。"
+    },
+    {
+      "id": "4999648",
+      "time": "2026-07-21 15:44:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海上半年外貿同比增長18.6% 出口首次突破萬億元大關】記者今日（7月21日）從上海海關獲悉，上半年上海外貿整體執行穩步向好，進出口2.55萬億元，同比增長18.6%。其中出口1.14萬億元，增長20.1%，首次突破萬億元大關；進口1.41萬億元，增長17.4%，外貿規模創歷史新高。（央視新聞）"
+    },
+    {
+      "id": "4999647",
+      "time": "2026-07-21 15:43:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國金融委員會計劃提前實施單一標的槓桿ETF完善監管方案。"
+    },
+    {
+      "id": "4999646",
+      "time": "2026-07-21 15:43:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【濱江集團：子公司7月21日競得兩地塊國有建設用地使用權】濱江集團公告稱，2026年7月21日，公司全資子公司杭州濱盟、杭州濱曼房地產開發有限公司分別競得杭州市兩地塊國有建設用地使用權。[2026]55號地塊規劃用途為住宅，建設用地面積22869㎡，容積率1.8，土地總價56561萬元；[2026]56號地塊規劃用途為住宅，建設用地面積39938㎡，容積率2.0，土地總價181047萬元。公司在上述專案中所佔權益比例可能變化。"
+    },
+    {
+      "id": "4999645",
+      "time": "2026-07-21 15:43:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國官員：加強中非人工智慧合作為非洲帶來機遇】聯合國非洲經濟委員會技術、創新、互聯互通與基礎設施司司長羅伯特·利辛格日前接受新華社記者專訪時表示，加強與中國在人工智慧專業知識和能力建設等領域的合作，有助非洲加速數字化轉型和社會經濟發展。（新華社）"
+    },
+    {
+      "id": "te:markets:568491",
+      "time": "2026-07-21 15:43:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX Holds Steady as Middle East Tensions Keep Markets on Edge — Frankfurt's DAX 40 hovered near the flatline around 24,840 on Tuesday as investors remained cautious amid ongoing uncertainty in the Middle East. While reports suggest mediators are working toward a renewed ceasefire between the US and Iran, US military strikes have continued for a tenth consecutive night. Elevated oil prices have reinforced expectations that the ECB will deliver two more rate hikes by spring 2027, with the first now fully priced in for September. At this week's ECB meeting, policymakers are widely expected to leave interest rates unchanged as they assess the impact of June's hike. Among stocks, Jungheinrich fell over 4% after Germany's financial watchdog, BaFin, opened an accounting investigation into its first-half 2025 financial statements. Zalando slipped more than 1% after BaFin flagged a disclosure error in its 2025 annual report, though no fine was imposed. Redcare Pharmacy rose 3.6% after Warburg Research highlighted its long-term margin potential."
+    },
+    {
+      "id": "4999644",
+      "time": "2026-07-21 15:43:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國生物：一批假冒公司透過非法手段登記為公司間接持股的子公司和投資企業】中國生物技術股份有限公司7月21日釋出宣告：近期有“安徽省華越啟宣醫藥有限公司”等一批公司（以下簡稱“假冒公司”），透過非法手段登記為本公司間接持股的子公司和投資企業，且部分企業資訊查詢軟體可檢索出與本公司存在隸屬、股權關係，均為虛假資訊。"
+    },
+    {
+      "id": "4999643",
+      "time": "2026-07-21 15:42:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【紐約市長重申內塔尼亞胡應被逮捕】美國紐約市長馬姆達尼當地時間7月20日在接受採訪時重申，以色列總理內塔尼亞胡因涉嫌犯有危害人類罪與戰爭罪被國際刑事法院簽發逮捕令，這是有據可查的事實，他認為應當配合國際刑事法院執行這一逮捕令。 美國總統特朗普當天早些時候在社交媒體平臺發帖稱，“內塔尼亞胡在美國絕不會以任何形式、任何理由遭到逮捕。”這被認為是對馬姆達尼7月18日接受《紐約時報》採訪時所做發言的回應。馬姆達尼當時就稱，他考慮在內塔尼亞胡9月赴紐約參加聯合國大會時逮捕他。（CCTV國際時訊）"
+    },
+    {
+      "id": "4999642",
+      "time": "2026-07-21 15:42:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "船舶追蹤資料顯示，過去24小時內沒有船隻透過霍爾木茲海峽。"
+    },
+    {
+      "id": "mkt:019f839f-98a4-7aab-8e21-666828a427d8",
+      "time": "2026-07-21 15:41:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ship-tracking data show no vessels transited the Strait of Hormuz in the past 24 hours."
+    },
+    {
+      "id": "4999641",
+      "time": "2026-07-21 15:41:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【匯潔股份：副總經理鄭偉芳辭職】匯潔股份公告，公司董事會收到鄭偉芳女士的辭職報告，鄭偉芳女士因個人原因辭去公司副總經理職務，自2026年7月21日起生效。鄭偉芳女士辭職後不再擔任公司任何職務，其辭職不會影響公司相關工作的正常進行。"
+    },
+    {
+      "id": "4999640",
+      "time": "2026-07-21 15:41:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘭劍智慧：多名董事及高管已增持749.44萬元】蘭劍智慧公告，公司董事兼總經理張小藝、董事沈長鵬、董事林茂、財務總監兼董事會秘書董新軍增持計劃實施完畢。自2026年3月2日首次增持起至本公告日，四人透過集中競價交易方式累計增持公司A股股份30.12萬股，累計增持金額為749.44萬元人民幣（不含交易費用）。"
+    },
+    {
+      "id": "4999639",
+      "time": "2026-07-21 15:40:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "【寬基ETF成交回落至1453億元，三大龍頭產品仍破百億】7月21日，全市場ETF合計成交1452.6億元，較前一日近1541億元的成交規模小幅回落。然而，頭部產品的吸金效應依然顯著，科創50ETF華夏、創業板ETF易方達、滬深300ETF華泰柏瑞三大龍頭產品依舊穩居成交榜首，單日成交額分別為173.22億元、152.66億元、128.95億元，三者合計成交455億元，包攬了當日寬基ETF三成的交易額。（第一財經）"
+    },
+    {
+      "id": "mkt:019f839e-cb0b-7aab-8e21-5ef7f2ef0af2",
+      "time": "2026-07-21 15:40:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jordan Armed Forces said it will continue to monitor its airspace and take necessary measures to respond to any airborne object that threatens security."
+    },
+    {
+      "id": "4999638",
+      "time": "2026-07-21 15:40:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【越南對涉華木纖維板反傾銷案啟動新出口商調查】7月17日，越南工貿部發布第1784/QD-BCT號公告稱，應中國出口商Oasis Forestry Industry Co., Ltd.於2026年3月25日提交的申請，對原產於中國和泰國的木纖維板啟動新出口商複審調查。"
+    },
+    {
+      "id": "4999637",
+      "time": "2026-07-21 15:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【國海證券趙陽：市場中積極因素正在累積】國海證券策略首席分析師趙陽日前發表研報表示，近期科技股調整較多，本質上或是業績真空期加上累計漲幅過大後消化交易擁擠。短期看，資金面擾動與擁擠板塊籌碼消化容易放大市場波動，但基本面長期邏輯或沒有發生明顯鬆動。市場中積極因素正在累積，伴隨著市場進入中報披露視窗期，政策有望持續託底，A股反彈條件正在積聚，市場或具備上行韌性。"
+    },
+    {
+      "id": "4999636",
+      "time": "2026-07-21 15:40:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊昂納多執行長：歡迎德國加入全球空中作戰戰機專案（GCAP）。"
+    },
+    {
+      "id": "4999635",
+      "time": "2026-07-21 15:39:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空與土耳其Technic簽署維修合作協議。"
+    },
+    {
+      "id": "mkt:019f839d-a61d-7aab-8e21-52e9dc4c565d",
+      "time": "2026-07-21 15:39:34",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "【Commonwealth Bank says Middle East war likely to persist for months】Commonwealth Bank of Australia economist Madison Cartwright said the Middle East conflict is likely to persist. CBA's baseline assigns a 55% probability the war will continue at current intensity for at least the next two months. The bank expects diplomatic outcomes to become more feasible after two months and that negotiations on reopening the Strait of Hormuz could be possible. CBA assigns a 15% probability of a diplomatic breakthrough and new ceasefire within two months and a 30% probability of further escalation in that period."
+    },
+    {
+      "id": "4999634",
+      "time": "2026-07-21 15:39:08",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【金銀價雙雙上漲】隨著美伊雙方相繼表示不排除透過外交途徑來平息衝突，7月21日國際油價有所回落，市場對通脹反彈引發美聯儲加息的擔憂情緒緩解，國際金價與銀價在當天亞洲交易時段尾盤漲幅擴大。截至北京時間21日15時05分，紐約商品交易所8月交割的黃金期價報每盎司4081.70美元，漲幅為1.64%；9月交割的白銀期價報每盎司59.13美元，漲幅為3.61%。（央視財經）"
+    },
+    {
+      "id": "4999633",
+      "time": "2026-07-21 15:38:53",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【高盛：下半年企業盈利將支撐股市】高盛策略團隊表示，儘管短期市場多頭持倉與宏觀逆風因素壓制股價，但盈利增長有望在今年下半年為股市提供支撐。由安德里亞・費拉里奧牽頭的該團隊，在三個月維度資產配置上維持中性立場；12 個月維度小幅偏向風險資產，超配股票，現金、債券、大宗商品持中性配置，低配信貸資產。團隊警示，若宏觀風險進一步升溫，股市或再度承壓下行。"
+    },
+    {
+      "id": "4999632",
+      "time": "2026-07-21 15:38:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【新疆塔里木河第27次生態輸水第二階段啟動】今天（7月21日），我國最長的內陸河——塔里木河第27次生態輸水第二階段工作正式啟動。塔里木河生態輸水分春、夏兩個階段實施。第二階段夏季輸水計劃下洩水量3.29億立方米，輸水工作將持續3個月。（央視新聞）"
+    },
+    {
+      "id": "te:markets:568485",
+      "time": "2026-07-21 15:38:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls for 2nd Session — The FTSE 100 fell on Tuesday after losing 0.7% in the previous session, as investors assessed the appointment of John Healey as chancellor, fresh UK economic data, and lower oil prices. Healey, the former defence secretary, was named by Prime Minister Andy Burnham after Monday's close. Burnham has pledged to cut household energy bills by scrapping the Digital ID programme. Meanwhile, June public borrowing came in lower than expected, while labour market data was broadly in line with forecasts, with wage growth easing slightly in the three months to May. Shell and BP declined as Brent crude slipped below $89 per barrel. AstraZeneca and GSK fell 0.6% to 0.8%, while Unilever, BAT, and Polar Capital also traded lower. Miners outperformed, led by Antofagasta, Glencore, Anglo American, Rio Tinto, Fresnillo, and Endeavour. Defence stocks also advanced, with Babcock, BAE Systems, and Rolls-Royce posting solid gains."
+    },
+    {
+      "id": "4999631",
+      "time": "2026-07-21 15:38:02",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【東吳證券：維持中國人保“買入”評級，繼續看好公司長期增長動能】東吳證券研報指出，中國人保2026年中報業績即將釋出，預計公司產險業務承保端有望同比改善，投資表現明顯提升，壽險業務價值穩健增長，繼續看好公司長期增長動能。認為公司作為國內財險行業龍頭，整體業務質量較好，成本管理能力突出，看好公司未來仍將保持領先行業的承保盈利能力。公司憑藉優秀的長期管理能力和資產配置優勢實現長期穩定的投資回報。看好公司作為財險行業龍頭具有的品牌效應和費用管控優勢，在精細化管理下有望持續最佳化業務結構、推動降本增效。維持此前盈利預測不變，預計公司2026-2028年歸母淨利潤分別為507/555/609億元。當前A、H市值對應2026EPEV0.7x、0.5x，PB0.9x、0.6x，維持“買入”評級。"
+    },
+    {
+      "id": "4999630",
+      "time": "2026-07-21 15:37:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華勤技術：資料中心超節點產品三季度起大規模交付 全年收入預計突破100億元】華勤技術(603296.SH)釋出投資者關係活動記錄表公告，公司超節點產品已於第二季度啟動小批次出貨，第三季度起將進入大規模交付階段，預計全年僅超節點單項產品收入即突破100億元，明後兩年亦將保持高速增長。超節點產品毛利率水平優於AI伺服器，有望帶動資料業務整體毛利率穩步提升。資料中心業務方面，全年收入預計同比增長50%，下半年增速將明顯加快。交換機業務預計今年營收規模約為60億元，實現翻倍增長，明後兩年亦將保持高速增長。汽車電子業務上半年獲得吉利與奇瑞專案定點，並與豐田紡織完成合資公司設立，預計今年將實現翻倍增長，收入規模達20億元至30億元之間。消費電子板塊中，智慧穿戴產品預計全年增長超過30%，筆電業務出貨量實現大幅增長。"
+    },
+    {
+      "id": "mkt:019f839b-f86c-7aab-8e21-4bc0db5a68d0",
+      "time": "2026-07-21 15:37:44",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "A term sheet shows Indonesia plans to issue up to CNY 7 bln of panda bonds."
+    },
+    {
+      "id": "4999629",
+      "time": "2026-07-21 15:37:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月21日滬深兩市漲停分析】A股放量大反攻！創業板指暴漲7.05%、科創50漲逾10%，半導體、算力硬體方向全線爆發。立新能源4連板，華銀電力3連板，一圖看懂>>"
+    },
+    {
+      "id": "4999628",
+      "time": "2026-07-21 15:37:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【罪證公佈！菲方人員惡意攻擊致使中方人員受傷】7月20日上午9時許，中國海警1艘小型巡邏艇位中國仁愛礁附近海域例行巡邏時，菲律賓非法“坐灘”57號艦釋放2艘橡皮艇，無視我多次明確警告，以危險方式快速接近並圍頂衝撞中方巡邏艇，其間，菲方人員首先使用划槳、長棍等工具惡意攻擊中方執法人員。中方依法依規採取喊話警告、機動繞航、對等反制等措施穩控現場局勢，最大限度保持理性剋制。記者7月21日獲取的影像顯示，在菲方發起的此次惡意攻擊事件中，一名中方人員受傷。中國海警局在7月20日的宣告中表示，我們要求菲方立即停止侵權挑釁和不實炒作。中國海警將持續依法在包括仁愛礁在內的南沙群島及其附近海域開展維權執法活動，堅決維護國家領土主權和海洋權益。 （環球時報）"
+    },
     {
       "id": "4999627",
       "time": "2026-07-21 15:37:01",
@@ -174232,267 +174501,6 @@
         "市場"
       ],
       "text": "【浙能電力：預計2026年上半年淨利潤同比減少54.21%到61.85%】浙能電力公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤13.4億元到16.08億元，與上年同期相比，將減少19.04億元到21.72億元，同比減少54.21%到61.85%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤為12.94億元到15.52億元，與上年同期相比，將減少18.11億元到20.69億元，同比減少53.85%到61.52%。2026年上半年公司業績變動的主要原因是燃煤機組售電電價下降以及第二季度煤炭價格較去年同期上漲。"
-    },
-    {
-      "id": "4986475",
-      "time": "2026-07-14 15:46:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽宣城寧涇公路桃嶺段受颱風和降雨影響出現多處山體滑坡和崩塌】安徽宣城市涇縣境內寧涇公路桃嶺段因颱風過境和持續降雨，出現多處山體滑坡和崩塌。當地正在利用晴好天氣疏通道路，清除鬆動山石。該路段為安徽宣城熱門旅遊公路，有“皖南川藏線”之稱。涇縣交通運輸局通告，目前有18公里路段實施交通管制，禁止所有車輛通行，封閉時間至7月18日0時，可能根據天氣情況順延。（央視新聞）"
-    },
-    {
-      "id": "4986474",
-      "time": "2026-07-14 15:46:23",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【華泰證券：維持牧原股份“買入”評級，26H2有望減虧，27年盈利彈性可期】華泰證券研報指出，牧原股份釋出26H1業績預告，26H1公司歸母淨利潤虧損57.0-67.0億元，扣非歸母淨利虧損55.0-65.0億元，同比轉虧。測算26Q2歸母淨利潤虧損44.9-54.9億元，扣非歸母淨利虧損43.6-53.6億元，同比轉虧。由於二季度豬價下行壓力加大，公司業績階段性承壓。但是公司成本端持續最佳化，近期回購與高管增持也彰顯公司穿越週期的信心。認為產能去化加速與中長期豬價築底回升的趨勢較為明確，生豬養殖板塊或迎配置時點，公司成本仍有最佳化空間，26H2有望減虧，27年盈利彈性可期，屠宰與出海也有望進一步貢獻利潤增量，維持“買入”評級。"
-    },
-    {
-      "id": "4986473",
-      "time": "2026-07-14 15:46:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【盛洋科技：預計2026年上半年淨虧損1800萬元到2300萬元】盛洋科技公告，預計2026年半年度實現營業收入5.85億元到6.25億元，與上年同期相比，同比增長約40.57%到50.18%。預計2026年半年度實現歸屬於母公司所有者的淨利潤為-2100萬元到-1550萬元，與上年同期（法定披露資料）相比，將出現虧損。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤為-2300萬元到-1800萬元。"
-    },
-    {
-      "id": "4986472",
-      "time": "2026-07-14 15:45:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮橙色警報】國家海洋預報臺根據《海洋災害應急預案》釋出風暴潮橙色警報。受今年第9號颱風“巴威”（熱帶風暴級）的影響，預計：7月14日傍晚至夜間，遼寧沿海將出現20到40釐米的風暴增水，渤海灣和萊州灣將出現30到70釐米的風暴增水，山東半島北部沿海將出現20到50釐米的風暴增水。河北省秦皇島市的風暴潮預警級別為橙色，山東省濰坊市的風暴潮預警級別為藍色。請沿海政府及相關部門按照職責做好防禦風暴潮的應急搶險工作，組織各類船隻回港避風，加固沿海漁業養殖水產設施和漁港設施，相關海上作業人員及時撤離；關閉沿海危險區域浴場和遊樂設施，禁止人員到海邊遊玩；加強沿海海堤、水閘等設施的巡查，薄弱地區和危險地區的海堤及時加固除險，必要時，相關人員撤離轉移到安全地帶。預計15日白天解除風暴潮警報。"
-    },
-    {
-      "id": "4986470",
-      "time": "2026-07-14 15:45:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北投科技：預計2026年上半年淨利潤4000萬元到5200萬元】北投科技公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤4000萬元到5200萬元，與上年同期相比，增加3.82億元到3.94億元，實現扭虧為盈。公司於2025年8月完成重大資產置換，將持有的廣西廣電網路科技發展有限公司100%股權置出，同時置入控股股東持有的廣西交科集團有限公司51%股權。交割完成後，廣電科技不再納入公司合併財務報表範圍，交科集團納入合併範圍。因此，上年同期比較資料採用的法定披露資料，即2025年半年度資料對應的是原廣電業務板塊的經營成果，該業務當期處於虧損狀態；本期資料反映的是資產置換後的公司整體經營成果，主要由置入資產交科集團貢獻，交科集團作為交通科技資產，有效提升了公司整體盈利水平，帶動公司本期業績實現扭虧為盈。"
-    },
-    {
-      "id": "4986469",
-      "time": "2026-07-14 15:45:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙江新能：預計2026年上半年淨利潤同比減少35.37%到50.28%】浙江新能公告，預計2026年半年度實現歸屬於上市公司股東的淨利潤為1.45億元到1.89億元，與上年同期相比，將減少1.03億元到1.47億元，同比減少35.37%到50.28%。預計2026年半年度實現歸屬於上市公司股東的扣除非經常性損益的淨利潤1.19億元到1.63億元，與上年同期相比，將減少1.12億元到1.56億元，同比減少40.78%到56.60%。報告期內公司所屬水電專案來水量較上年同期下降，導致營業收入減少；公司所屬海上風電專案風資源同比偏弱，導致營業收入減少；公司部分割槽域光伏專案限電率同比上升，電價下行導致營業收入減少。"
-    },
-    {
-      "id": "4986468",
-      "time": "2026-07-14 15:45:10",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【正裕工業：預計2026年上半年淨利潤虧損2850萬元到3500萬元】正裕工業公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為-3500萬元到-2850萬元，與上年同期相比，將出現虧損。預計2026年半年度歸屬於母公司所有者的扣除非經常性損益的淨利潤為-3950萬元到-3300萬元。報告期內，公司境外收入佔比較高，人民幣兌美元等主要結算貨幣匯率波動較大，對經營業績形成了較大的壓力。一方面，人民幣升值導致了出口產品折算收入減少，對綜合毛利率形成拖累；另一方面，匯率波動產生的匯兌損失，使財務費用同比增加。"
-    },
-    {
-      "id": "mkt:019f5f96-1b8a-7aab-8d74-9435f928558e",
-      "time": "2026-07-14 15:45:00",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Yangtze Memory sale of Wuhan Xinxin control receives unconditional approval】Chongqing Market Supervision Administration said the proposed acquisition of Wuhan Xinxin Integrated Circuit Co. by Wuhan Guanggu Semiconductor Industry Investment Co. received unconditional approval. Prior filings show Yangtze Memory held about 68.19% of Wuhan Xinxin and singly controlled the company; after the transaction Wuhan Guanggu Semiconductor Industry Investment and its concerted parties will together hold roughly 47.88% and singly control Wuhan Xinxin."
-    },
-    {
-      "id": "4986467",
-      "time": "2026-07-14 15:44:22",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【四川美豐：預計2026年上半年淨利潤虧損4800萬元–5600萬元】四川美豐公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤虧損4800萬元–5600萬元，上年同期盈利803.13萬元。扣除非經常性損益後的淨利潤虧損5900萬元–6700萬元，上年同期虧損1155.58萬元。本次業績預告相關財務資料未經註冊會計師審計。2026年上半年，受公司尿素、硝酸銨等主要產品價格承壓下行，生產用天然氣、磷酸一銨等主要原料採購價格同比上漲影響，導致報告期歸屬於上市公司股東的淨利潤出現虧損。報告期內，非經常性損益對公司淨利潤影響額約1100萬元。"
-    },
-    {
-      "id": "4986466",
-      "time": "2026-07-14 15:44:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【明新旭騰：預計2026年上半年淨虧損5200萬元到3500萬元】明新旭騰公告，預計2026年半年度實現歸屬於母公司所有者的淨虧損5200萬元到3500萬元，將出現虧損；歸屬於母公司所有者的扣除非經常性損益的淨虧損6000萬元到4000萬元。2026年上半年，汽車行業仍呈現激烈競爭態勢，價格戰持續升級，整車廠商將降本壓力傳導至上游供應鏈，導致產品毛利率水平較低。"
-    },
-    {
-      "id": "4986465",
-      "time": "2026-07-14 15:44:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【宏和科技：預計2026年上半年淨利潤同比增加280%到364%】宏和科技公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為3.32億元到4.05億元，與上年同期相比，預計將增加2.44億元到3.18億元，同比增加280%到364%。公司預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益後的淨利潤為3.26億元到3.98億元，與上年同期相比，預計將增加2.43億元到3.15億元，同比增加294%到381%。"
-    },
-    {
-      "id": "4986464",
-      "time": "2026-07-14 15:44:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "瑞穗證券指出，日本GPIF坐擁超1.5萬億美元資產，海外資產佔比約50%，此前市場對其增持本土資產的預期短暫推升日元，但因缺乏具體細則漲勢難延續。"
-    },
-    {
-      "id": "4986463",
-      "time": "2026-07-14 15:43:59",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "岡三證券經濟學家Ko Nakayama表示，在日本央行仍持有大量日本國債、且外國投資者持有比例仍低於20%的情況下，日本政府避免進一步擴大債務規模至關重要。"
-    },
-    {
-      "id": "4986462",
-      "time": "2026-07-14 15:43:44",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【聯電新加坡首批矽光子晶圓實現量產 花旗看好下半年表現並預期二季度銷售額環比增13%】晶圓代工廠聯電週二宣佈，其位於新加坡的晶圓廠已成功量產首批矽光子晶圓。花旗集團分析師表示，他們看好該晶片製造商下半年的前景，並預測其2026年第二季度的銷售額將環比增長13%，且毛利率將有所回升。"
-    },
-    {
-      "id": "mkt:019f5f94-91dd-7aab-8d74-895d2765aa0c",
-      "time": "2026-07-14 15:43:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China Tech Giants"
-      ],
-      "text": "【Sources: Huawei plans to raise smartphone shipment target by over 20%】Sources told Nikkei that despite ongoing memory-chip supply tightness, Huawei plans to boost smartphone shipments by more than 20% to 60 mln units this year, up from under 50 mln last year. Huawei has informed suppliers of the 60 mln target. If confirmed, Huawei would be the only major Chinese smartphone maker still targeting shipment growth in 2026; rivals Xiaomi, OPPO and Vivo have trimmed output forecasts amid memory shortages and rising component costs."
-    },
-    {
-      "id": "4986461",
-      "time": "2026-07-14 15:43:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "小米汽車：新一代SU7少量現車開售，當天鎖單，最快2小時提車。"
-    },
-    {
-      "id": "4986460",
-      "time": "2026-07-14 15:43:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【從“一週三班”到“天天班” 中越班列跨境運輸企穩回暖】記者從國鐵南寧局獲悉，今年二季度，廣西始發中越班列傳送出口貨物8940標箱，較一季度增長13.5%，跨境貨物運輸企穩回暖。今年上半年，廣西始發中越班列累計傳送出口貨物16816標箱；憑祥鐵路口岸入境水果累計2276標箱，同比增長50.8%，有力促進兩國經貿往來。（央視新聞）"
-    },
-    {
-      "id": "4986459",
-      "time": "2026-07-14 15:42:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶泰隆：寶泰隆二礦收到建設專案聯合試運轉備案回執】寶泰隆公告，2026年7月13日，公司收到黑龍江省煤炭生產安全管理局下發的《建設專案聯合試運轉備案回執》，同意公司所屬寶泰隆二礦新建專案聯合試運轉。寶泰隆二礦為公司2022年非公開發行募集資金投資專案，生產能力30萬噸/年。專案建成投產後，將有效增強公司原煤自給供應保障能力，原材料成本也將進一步最佳化，有利於改善公司未來盈利狀況。"
-    },
-    {
-      "id": "te:markets:566742",
-      "time": "2026-07-14 15:42:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Falls on Tuesday — The DAX 40 traded slightly lower around 25,000 on Tuesday, following yesterday's mild advance, amid escalating US-Iran tensions. The announced reinstatement of a U.S. blockade around Iranian ports and President Trump's proposal to levy a 20% fee on cargo transiting the Strait of Hormuz have pushed oil prices sharply higher, raising fears of renewed inflationary pressures and tighter monetary policy. Meanwhile, investors turned their attention to the start of the US Q2 earnings season, with major banks kicking off the reporting calendar. Most sectors were under pressure, particularly consumer cyclicals, industrials, software, pharmaceuticals, and retail, while chemicals, autos, and utilities bucked the trend."
-    },
-    {
-      "id": "4986458",
-      "time": "2026-07-14 15:42:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【寶泰隆：預計2026年半年度淨利潤為負值】寶泰隆公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為-1.62億元至-9700萬元，預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤為-1.6億元至-9500萬元。報告期內，公司主要產品煤炭受市場影響，價格和產量同比下降，採煤成本增加，導致煤炭產品盈利水平同比下降；焦化業務2026年6月初啟動烘爐，上半年公司總體產能利用率較低，導致公司經營業績出現虧損。"
-    },
-    {
-      "id": "4986457",
-      "time": "2026-07-14 15:42:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【浙大網新：預計2026年上半年淨虧損6000萬元左右】浙大網新公告，預計2026年1月1日至2026年6月30日歸屬於母公司所有者的淨利潤為-6000萬元左右。受證券市場股價波動等因素影響，公司直接和間接投資的金融資產公允價值變動損失較大。"
-    },
-    {
-      "id": "4986456",
-      "time": "2026-07-14 15:42:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【信達地產：預計2026年上半年淨虧損14.2億元-12億元】信達地產公告，預計2026年上半年淨虧損14.2億元-12億元。受專案結轉節奏等影響，本期房地產開發專案交付結轉規模較小，營業收入和毛利率水平較低，利潤空間收窄；管理費用、利息支出等剛性費用支出持續發生。"
-    },
-    {
-      "id": "te:markets:566741",
-      "time": "2026-07-14 15:42:21",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Pound Under Pressure Amid Middle East Tensions and Rate Hike Expectations — The pound traded at $1.335, retreating from recent three-week highs, as investors assessed escalating Middle East tensions, rising oil prices, and concerns about inflation’s impact on monetary policy and economic growth. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, increasing uncertainty over energy flows. Markets responded by pricing in further Bank of England rate hikes, nearly fully expecting two increases in 2026, with a September hike now fully priced in. In the US, Fed Governor Christopher Waller warned that the central bank may need to raise rates \"in the near term\" if inflation remains above the 2% target. Politically, Andy Burnham is set to become the new Labour leader when the leadership contest ends on Friday and is expected to be officially appointed as prime minister next Monday."
-    },
-    {
-      "id": "4986455",
-      "time": "2026-07-14 15:42:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金橋資訊：預計2026年上半年淨虧損3090萬元至4610萬元】金橋資訊公告，預計2026年半年度歸屬於母公司所有者的淨虧損為3090萬元至4610萬元，上年同期淨虧損4071.1萬元。本報告期內，公司持續加強專案交付管理，營業收入與上年同期基本持平，但仍受整體宏觀經濟環境的影響，導致對歸屬於母公司所有者的淨利潤、扣除非經常性損益後的淨利潤產生一定影響。"
-    },
-    {
-      "id": "4986454",
-      "time": "2026-07-14 15:42:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【名創優品：YOYO 6月中國單月銷售額破億】名創優品首個原創藝術家IP“YOYO”迎來關鍵突破：今年6月，YOYO全系列產品在中國市場單月銷售額突破1億元。（新浪科技）"
-    },
-    {
-      "id": "4986453",
-      "time": "2026-07-14 15:41:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長江儲存出讓武漢新芯控股權獲無條件批准】7月14日，重慶市市場監督管理局官網披露，武漢光谷半導體產業投資有限公司收購武漢新芯積體電路股份有限公司股權案獲得無條件批准。據此前檔案披露，交易前，長江儲存持有武漢新芯約68.19%股權，單獨控制武漢新芯。交易後，光谷半導體產投及其一致行動人合計控制武漢新芯約47.88%的股權，單獨控制武漢新芯。（科創板日報）"
-    },
-    {
-      "id": "4986452",
-      "time": "2026-07-14 15:41:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【國聯民生：陝西煤業業績有望改善，維持“推薦”評級】國聯民生證券研報指出，煤價上漲、投資收益助力陝西煤業26H1業績大增。公司預計2026年半年度實現的歸屬於上市公司股東的淨利潤為112.29億元到116.87 億元，與上年同期相比，增加35.91億元到40.49億元，同比增加47%到53%。26Q2公司業績同環比大幅增長。公司低負債，高現金，歷史維持較高分紅比例，隨著煤價的回升，公司業績有望改善，維持“推薦”評級。"
-    },
-    {
-      "id": "4986451",
-      "time": "2026-07-14 15:41:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【九牧王：預計上半年歸母淨利潤同比下降74%-83%】九牧王7月14日公告，預計2026年上半年歸母淨利潤3000萬元-4500萬元，同比下降74%-83%。該公司稱，報告期內業績變化的主要原因是受二級市場波動的影響，公司持有的金融資產的公允價值變動損益預計約為-1.1億元，上年同期為2366.11萬元，報告期內公允價值變動收益比上年同期減少約1.34億元。"
-    },
-    {
-      "id": "mkt:019f5f92-f196-7aab-8d74-85e6e73993e8",
-      "time": "2026-07-14 15:41:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Foreign Ministry says China willing to work with Tanzania, Zambia to reactivate Tanzania‑Zambia Railway and build prosperity corridor】Spokesman Lin Jian said at a routine briefing China is willing to cooperate with Tanzania and Zambia to reactivate the Tanzania‑Zambia Railway (Tazara) and develop a prosperity corridor to strengthen regional connectivity, support the three countries' modernization and deepen China‑Africa cooperation."
-    },
-    {
-      "id": "4986450",
-      "time": "2026-07-14 15:41:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "【貴州資料產業相關經營主體突破5.6萬家】記者從7月14日召開的貴州省資料產業高質量發展新聞釋出會上獲悉，貴州資料產業相關經營主體已達56645家，其中2026年以來新增13587家，產業規模持續擴大。作為數字經濟發展創新區，貴州正以資料產業為突破口，聚焦資料標註、具身智慧資料採集等賽道，持續釋放資料要素價值、培育新質生產力。（新華社）"
     }
   ]
 }
