@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-21 20:37:50",
-  "count": 18498,
+  "updated": "2026-07-21 20:41:51",
+  "count": 18483,
   "items": [
+    {
+      "id": "5000432",
+      "time": "2026-07-21 20:41:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用汽車執行長：2026年防務業務收入將增長至近7億美元。"
+    },
+    {
+      "id": "5000431",
+      "time": "2026-07-21 20:40:54",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "土耳其財政部發售2028年3月15日到期的固定票面利率債券，收益率為41.99%。"
+    },
+    {
+      "id": "5000430",
+      "time": "2026-07-21 20:39:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用汽車執行長：下一代Silverado和Sierra皮卡將於12月進入展廳。"
+    },
+    {
+      "id": "5000429",
+      "time": "2026-07-21 20:39:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東算力半年用電猛增21%，全國算力耗電年均新增將超千億度】隨著AI大模型迭代加速，國內算力基礎設施用電需求持續爆發。 7月21日，第一財經記者從南方電網旗下廣東電網獲悉，2026年上半年廣東省309家資料中心總用電量達59.74億千瓦時，同比大幅增長21.15%，其中，韶關市資料中心用電量增幅高達409.10%，領跑全省。 算力用電規模持續攀升的背後，是廣東全省AI大模型、大資料、工業網際網路產業加速落地擴張的發展態勢，“算電協同”也因此成為支撐數字產業與新型電力系統雙向發展的關鍵抓手。廣東電網稱，將持續打造“電支撐算、算最佳化電”雙向迴圈發展模式，助推廣東建設全國領先算力產業高地。 7月14日，中電聯規劃發展部主任張琳在中電聯相關釋出會上介紹，預計“十五五”時期，全國算力用電量年均新增1000億千瓦時以上，到2030年預計達8000億千瓦時，佔全社會用電量的6%左右。算力用電將成為未來電力消費的一大增量。（一財）"
+    },
+    {
+      "id": "5000428",
+      "time": "2026-07-21 20:38:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【量化私募業績遭遇集體回撤，“量化砸盤”爭議再起】7月份以來，A股市場經歷了一輪劇烈的震盪調整。“近期公司量化指增策略和量化選股策略都遭遇大幅淨值回撤和超額回撤，普遍在10個點以上。其中，量化選股因為承受更多市場波動，持倉更為分散，跌幅更大。”某百億量化私募人士告訴記者。行情波動之下，市場上“量化砸盤”“演算法收割”的聲音再度甚囂塵上。格上基金研究員焦冰認為，“量化砸盤”的爭議，反映的是市場對2.3萬億元規模量化行業的高度關注。同質化踩踏風險真實存在，但更多是系統性結構問題而非“惡意砸盤”。（中國基金報）"
+    },
+    {
+      "id": "5000427",
+      "time": "2026-07-21 20:37:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【唐源電氣：連續12個月涉訴訟仲裁金額1.39億元】唐源電氣公告稱，截至公告披露日，公司及子公司連續十二個月內累計發生訴訟、仲裁案件金額合計1.39億元，佔公司最近一期經審計淨資產的比例為13.39%。其中作為原告或申請人的案件累計金額為1.28億元，佔比91.61%；作為被告或被申請人的案件累計金額為1169.17萬元，佔比8.39%。部分案件尚未開庭或結案，對利潤影響存在不確定性。"
+    },
     {
       "id": "5000426",
       "time": "2026-07-21 20:36:35",
@@ -170200,212 +170249,6 @@
         "其他"
       ],
       "text": "沃什：勞動力市場總體穩定，名義工資增長穩健。"
-    },
-    {
-      "id": "4987776",
-      "time": "2026-07-14 20:41:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【立陶宛新政府正式就職】立陶宛議會14日投票透過立陶宛新總理明道加斯·辛克維丘斯的內閣名單和施政綱領，其領導的新政府正式就職。根據辛克維丘斯3日公佈的施政綱領，新政府將以國家安全、經濟增長和改善民生作為施政重點。新政府將繼續加強與北約盟國的合作。(新華社)"
-    },
-    {
-      "id": "4987775",
-      "time": "2026-07-14 20:41:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：監測人工智慧對通貨膨脹和勞動力市場的影響。"
-    },
-    {
-      "id": "mkt:019f60a5-5e46-7aab-8d7d-45f9b3827db1",
-      "time": "2026-07-14 20:41:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "US Economy"
-      ],
-      "text": "Fed Chairman Kevin Warsh: consumer spending growth is moderate; housing market continues to lag."
-    },
-    {
-      "id": "4987774",
-      "time": "2026-07-14 20:41:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "沃什：消費增長溫和，住房市場持續滯後。"
-    },
-    {
-      "id": "4987773",
-      "time": "2026-07-14 20:40:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首創證券：股東城市動力擬減持不超過0.6870%】首創證券公告，股東城市動力（北京）投資有限公司計劃於2026年8月6日～2026年11月6日透過集中競價減持不超過1877.91萬股公司A股股份，佔不超過公司總股本的0.6870%，擬減持股份來源為IPO前取得。"
-    },
-    {
-      "id": "mkt:019f60a5-0827-7aab-8d7d-3f8c1abe31ad",
-      "time": "2026-07-14 20:40:55",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "CNH"
-      ],
-      "text": "【China to reshape land-reserve framework】The Ministry of Natural Resources said China will reform its 25-year-old land‑reserve system as urbanization shifts from an expansion to a stock phase. Vice Minister Zhang Wentong said the system will move from concentrating on single plots and near-term economic value to district‑level, multi‑resource management (land, forest, mineral) that balances economic, social and ecological value. Land reserves will be used beyond supplying vacant development plots to raise infrastructure and urban functions, improve living environments and support job creation."
-    },
-    {
-      "id": "4987772",
-      "time": "2026-07-14 20:40:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "沃什：美國經濟具有韌性，保持穩健增長。"
-    },
-    {
-      "id": "4987771",
-      "time": "2026-07-14 20:40:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國將重構土地儲備的底層邏輯】隨著城鎮化和城市發展進入存量時代，實施25年的土地儲備制度將不斷創新改革，實現生產、生活、生態兼顧的底層邏輯重構。自然資源部副部長張文彤指出，土地儲備曾被稱為“經營城市”，關注點集中在土地本身、單一地塊以及土地自身的經濟價值特別是即期價值迅速實現。隨著城鎮化和城市發展由增量時代進入存量時代，城市內涵式發展要求土地儲備制度創新改革，從過去注重土地資源儲備，向土地、林礦等多種類轉變，既推動經濟發展，也推動生態文明建設；從單宗地塊向片區式各類資源有效組合轉變，在一定區域範圍內系統提高人居環境水平。土地儲備工作將從相對追求經濟價值，向追求經濟價值、社會價值、生態價值系統性轉變；不僅關注“淨地”自身產生的作用和價值，更關注透過土地儲備進一步提高基礎設施水平、完善城市功能，達到生產、生活、生態的高度統一，提供更多就業崗位、良好人居環境。（新華社）"
-    },
-    {
-      "id": "mkt:019f60a4-cf86-7aab-8d7d-3438b4a03b58",
-      "time": "2026-07-14 20:40:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "US stock-index futures surged to intraday highs after US CPI fell MoM."
-    },
-    {
-      "id": "4987770",
-      "time": "2026-07-14 20:40:19",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根大通執行長戴蒙表示，執行長繼任時間表並未發生變動。"
-    },
-    {
-      "id": "4987769",
-      "time": "2026-07-14 20:40:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航行警告！渤海濰坊港實彈射擊】據中國海事局網站訊息，濰坊海事局釋出航行警告，7月15日0時至17日24時，渤海濰坊港部分海域進行實彈射擊，禁止駛入。 （央視軍事）"
-    },
-    {
-      "id": "mkt:019f60a4-5090-7aab-8d7d-2f4571a06e42",
-      "time": "2026-07-14 20:40:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Treasury Yields",
-        "S&P500",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【U.S. CPI posts first monthly decline since 2020; core flat】U.S. consumer prices fell 0.4% MoM in June — the first monthly drop since 2020 — and rose 3.5% YoY, the Bureau of Labor Statistics said Tuesday. Core CPI (ex food and energy) was unchanged MoM and rose 2.6% YoY. The report said a retreat from the peak energy-price shock linked to the Iran war drove gasoline lower, while declines in apparel and used-car prices and a large drop in motor-vehicle insurance restrained core inflation. The print eases some near-term pressure on Fed tightening ahead of the Fed’s month-end meeting; investors pared bets on a July rate hike, U.S. equity futures rose and Treasury yields fell. Renewed U.S.-Iran hostilities lifting oil prices could, however, prolong conflict-driven inflationary effects."
-    },
-    {
-      "id": "mkt:019f60a4-0a4e-7aab-8d7d-2687a147a5e3",
-      "time": "2026-07-14 20:39:50",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Navigation warning: live-fire exercises near Weifang port (Bohai Sea)】China Maritime Safety Administration website: Weifang MSA issued a navigation warning — parts of the Bohai Sea near Weifang port will be closed for live-fire exercises from 0000 on July 15 to 2400 on July 17; entry prohibited."
-    },
-    {
-      "id": "4987768",
-      "time": "2026-07-14 20:39:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "美銀全球研究將國際紙業公司（股票程式碼：IP.N）目標股價從44美元下調至41美元。"
-    },
-    {
-      "id": "mkt:019f60a3-45d5-7aab-8d7d-1b035e745103",
-      "time": "2026-07-14 20:39:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Israeli Prime Minister Netanyahu, addressing Iran's leadership, warned that if Iran attacks Israel \"this time will not be a replay\" and that the response would be far stronger than in the past."
-    },
-    {
-      "id": "4987767",
-      "time": "2026-07-14 20:38:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【ST同德：2026年上半年淨虧損3800萬-5500萬元】ST同德公告稱，預計2026年1月1日至6月30日，歸屬於上市公司股東的淨利潤為-5500萬元至-3800萬元，同比下降595.86%-442.59%；扣除非經常性損益後的淨利潤為-5432萬元至-3732萬元，同比下降1183.56%-844.45%。業績變動主要因二季度母公司炸藥生產線檢修致產銷量下降、子公司專案融資費用化、電力業務產能利用不足持續虧損。"
-    },
-    {
-      "id": "mkt:019f60a2-c21d-7aab-8d7d-109df2712fca",
-      "time": "2026-07-14 20:38:26",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said AI opportunities pose challenges for policymakers and that the Fed is monitoring AI’s impact on inflation and the labor market."
-    },
-    {
-      "id": "te:economy:566819",
-      "time": "2026-07-14 20:38:16",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Core Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "US Core Inflation Rate Below Forecasts — The US core inflation rate, excluding volatile food and fuel costs, fell to 2.6% in June 2026 from a seven-month high of 2.9% in May and below the expected 2.8%. The heavyweight shelter index increased 3.3%, down slightly from a 3.4% rise in May. Other indexes with notable increases included airline fares (+26.5%), medical care (+2%), recreation (+2.8%), and household furnishings and operations (+2.5%). Month-over-month, core consumer prices were flat, after a 0.2% increase in May and undershooting market estimates of a 0.2% rise."
-    },
-    {
-      "id": "4987766",
-      "time": "2026-07-14 20:38:10",
-      "tags": [
-        "公司"
-      ],
-      "text": "【萊茵生物：預計上半年淨利潤同比增長30%-60%】萊茵生物公告，預計2026年上半年淨利潤為4954.3萬元–6097.6萬元，同比增長30%-60%。主要原因系公司一方面持續提升產品品質、增強客戶粘性，推動營業收入同比穩步增長；另一方面公司不斷最佳化產品結構，綜合毛利率較上年同期有一定修復。收入同比增長與毛利改善同步推動公司報告期業績實現較高增長。"
-    },
-    {
-      "id": "4987765",
-      "time": "2026-07-14 20:37:59",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美元指數短線約30點，現貨黃金短線拉昇約70美元】美元指數短線走低約30點，現報100.69。美股期貨短線拉昇，納斯達克100指數期貨漲1.4%。美國10年期國債收益率短線走低，現報4.604%；美國兩年期國債收益率日內下跌10個基點，至4.18%。現貨黃金短線拉昇約70美元，現報4096.20美元/盎司。"
-    },
-    {
-      "id": "mkt:019f60a2-44b8-7aab-8d7d-0a078d6eed2e",
-      "time": "2026-07-14 20:37:54",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY dropped more than 50 pips intraday to 161.84."
     }
   ]
 }
