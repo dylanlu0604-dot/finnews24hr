@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-22 04:31:45",
-  "count": 18090,
+  "updated": "2026-07-22 04:35:41",
+  "count": 18094,
   "items": [
+    {
+      "id": "te:markets:568626",
+      "time": "2026-07-22 04:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.74% Higher — The Dow Jones Index gained 384 points or 0.74 percent on Tuesday to close at 52223 points. Gains were led by 3M (7.60%), UnitedHealth (3.39%) and Caterpillar (2.91%). Biggest losers were Boeing (-2.25%), Sherwin-Williams (-1.87%) and Alphabet (-1.64%)."
+    },
+    {
+      "id": "mkt:019f8663-790c-7aab-8e31-e9056617f5da",
+      "time": "2026-07-22 04:34:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Moody's upgraded Argentina's sovereign rating to B3 and revised the outlook to positive."
+    },
+    {
+      "id": "5000883",
+      "time": "2026-07-22 04:34:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將阿根廷信用評級上調至B3，評級展望調整為正面。"
+    },
+    {
+      "id": "mkt:019f8663-239d-7aab-8e31-e2508d9209eb",
+      "time": "2026-07-22 04:34:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【OpenAI says its models escaped sandbox and triggered Hugging Face infrastructure breach】OpenAI said a recent infrastructure intrusion at Hugging Face was caused by multiple OpenAI models that escaped sandbox controls during security testing. The models reportedly exploited a zero-day to gain internet access and executed automated actions in Hugging Face’s production environment; OpenAI named GPT-5.6 Sol and a more capable pre-release model among those involved. OpenAI said sandbox protections had been intentionally relaxed for the assessment and warned the incident illustrates that advanced models can carry out complex network attacks absent constraints while also being useful for vulnerability discovery and defense. Hugging Face called for industry-wide cooperation on AI security and said both parties will continue investigating the incident."
+    },
+    {
+      "id": "mkt:019f8662-7be1-7aab-8e31-db91660e6743",
+      "time": "2026-07-22 04:33:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Hegseth says US has spent $37.5 billion on operations against Iran】US Defense Secretary Hegseth said US military operations against Iran have cost about $37.5 billion to date, up from the Pentagon’s May estimate of $29 billion. He attributed the increase to operational spending and equipment attrition. The Pentagon is seeking the $67 billion foreign-defense funding package proposed by the Trump administration, including $21 billion to accelerate procurement of high-end missiles and munitions, $2 billion to replace combat losses or damaged equipment, and $11.6 billion for drones, satellites and other advanced technologies. This is the latest official estimate of the Iran conflict’s costs."
+    },
+    {
+      "id": "5000882",
+      "time": "2026-07-22 04:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美防長：對伊朗戰爭已耗資375億美元】美國國防部長赫格塞思表示，美國對伊朗戰爭迄今已耗資375億美元，高於此前公佈的估算。赫格塞思當天在參議院撥款委員會作證，為共和黨提出的950億美元預算方案爭取支援。該方案除軍費外，還包括農業援助及白宮優先推動的選舉法調整。聽證會期間，抗議者多次打斷赫格塞思發言。五角大樓此前宣佈，衝突中又有3名美軍人員死亡，使死亡人數升至17人；自7月初以來，另有100多人受傷。"
+    },
+    {
+      "id": "5000881",
+      "time": "2026-07-22 04:32:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉斯加航空：2026年第二季度調整後淨虧損為1.02億美元，合每股虧損0.92美元。"
+    },
+    {
+      "id": "5000880",
+      "time": "2026-07-22 04:32:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿拉斯加航空股價盤後下跌5%。"
+    },
+    {
+      "id": "5000879",
+      "time": "2026-07-22 04:32:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉斯加航空：2026年第二季度總營收增長10%，至41億美元。"
+    },
+    {
+      "id": "5000878",
+      "time": "2026-07-22 04:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國今年被山火燒燬的面積已超去年總和】法國南部及其他地區近期連續發生大規模山火。根據歐洲森林火災資訊系統最新資料顯示，截至本月15日，今年法國已有超過4.2萬公頃土地被山火燒燬，超過2022年創下的歷史同期紀錄，本年度被燒燬的土地面積也已經超過2025年的總和。目前，法國多地仍受高溫和森林火災影響，相關滅火和救援工作仍在持續進行。"
+    },
     {
       "id": "5000877",
       "time": "2026-07-22 04:30:15",
@@ -166272,67 +166366,6 @@
         "Importance 1"
       ],
       "text": "Ibovespa Rebounds on Softer US Inflation — The Ibovespa added 0.5% to close at 176,641 on Tuesday, recovering from the previous session's losses after softer-than-expected US inflation data. US consumer prices declined in June for the first time in six years, while core inflation was little changed, easing pressure on the Federal Reserve to raise interest rates. Most financial stocks traded higher, with Itaúsa up 0.6% and Banco do Brasil adding 1.7%. Utilities also posted gains, with Axia up 0.5%. Meanwhile, Vale jumped 1.5% as iron ore prices surged on expectations that impending Chinese restrictions on selected Fortescue portside cargoes will tighten supply. Vivo advanced 2.3% after recording a net gain of 23,000 customers, its largest increase since March 2025. Rede D'Or gained 1.4% as it advanced its joint venture with Bradsaúde (+0.7%). Bradsaúde announced on Monday that it had completed the transaction to contribute Rede D'Or's real estate assets to Atlântica D'Or."
-    },
-    {
-      "id": "te:markets:566906",
-      "time": "2026-07-15 04:35:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.09% Higher — The Dow Jones Index gained 45 points or 0.09 percent on Tuesday to close at 52544 points. Gains were led by Goldman Sachs (9.20%), Nvidia (4.08%) and JPMorgan (2.54%). Biggest losers were IBM (-25.37%), Merck (-2.60%) and Nike (-2.06%)."
-    },
-    {
-      "id": "mkt:019f6256-98e7-7aab-8d89-6915c2e48d32",
-      "time": "2026-07-15 04:34:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【Bank of England governor Bailey pushes back against calls to loosen regulation】Bank of England Governor Bailey told the City of London annual dinner that blanket deregulation would be unhelpful and that well‑designed regulation is essential to support economic growth. He said UK economic activity remains fairly weak and conceded that current BoE rules are imperfect, arguing that simplistic calls for ‘more’ or ‘less’ regulation are not a reasonable position. Bailey noted that a year ago Chancellor Reeves had compared burdensome rules to a straitjacket. He also called for stronger international coordination on testing frontier AI models before broad deployment. Andy Burnham, who is expected to replace Starmer as prime minister next week, is expected to remove Reeves — a change that could alter fiscal policy direction."
-    },
-    {
-      "id": "mkt:019f6255-b2c5-7aab-8d89-678abcf9f4cf",
-      "time": "2026-07-15 04:33:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "【Apple accuses OpenAI of stealing trade secrets; OpenAI calls allegations baseless】Apple filed a trade-secret lawsuit alleging OpenAI used former Apple employees to obtain internal materials for an AI hardware product, saying OpenAI’s hardware team induced applicants to bring Apple documents and helped candidates evade company security checks. Apple also says a former iPhone engineer who left for OpenAI this year illegally took engineering demo slides and other internal files. OpenAI said it has found \"no evidence\" supporting the claims, emphasized respect for fair competition and talent mobility, and said it is focused on developing its own technology."
-    },
-    {
-      "id": "4988493",
-      "time": "2026-07-15 04:33:10",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院官員：美方期待美國企業參與推進伊拉克 — 敘利亞原油輸油管道重建工作。"
-    },
-    {
-      "id": "mkt:019f6254-840c-7aab-8d89-5b84a71d7f36",
-      "time": "2026-07-15 04:32:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "State Dept official said the US supports Iraq and Syria enhancing connectivity and building forward-looking trade and prosperity corridors."
-    },
-    {
-      "id": "4988492",
-      "time": "2026-07-15 04:31:45",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國國務院官員：美國正支援伊拉克與敘利亞推進電網互聯互通建設，並打造惠及繁榮的未來貿易通道。"
     }
   ]
 }

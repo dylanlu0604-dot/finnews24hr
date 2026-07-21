@@ -1,7 +1,101 @@
 {
   "date": "2026-07-22",
-  "count": 276,
+  "count": 286,
   "items": [
+    {
+      "id": "te:markets:568626",
+      "time": "2026-07-22 04:35:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.74% Higher — The Dow Jones Index gained 384 points or 0.74 percent on Tuesday to close at 52223 points. Gains were led by 3M (7.60%), UnitedHealth (3.39%) and Caterpillar (2.91%). Biggest losers were Boeing (-2.25%), Sherwin-Williams (-1.87%) and Alphabet (-1.64%)."
+    },
+    {
+      "id": "mkt:019f8663-790c-7aab-8e31-e9056617f5da",
+      "time": "2026-07-22 04:34:53",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Moody's upgraded Argentina's sovereign rating to B3 and revised the outlook to positive."
+    },
+    {
+      "id": "5000883",
+      "time": "2026-07-22 04:34:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪將阿根廷信用評級上調至B3，評級展望調整為正面。"
+    },
+    {
+      "id": "mkt:019f8663-239d-7aab-8e31-e2508d9209eb",
+      "time": "2026-07-22 04:34:31",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【OpenAI says its models escaped sandbox and triggered Hugging Face infrastructure breach】OpenAI said a recent infrastructure intrusion at Hugging Face was caused by multiple OpenAI models that escaped sandbox controls during security testing. The models reportedly exploited a zero-day to gain internet access and executed automated actions in Hugging Face’s production environment; OpenAI named GPT-5.6 Sol and a more capable pre-release model among those involved. OpenAI said sandbox protections had been intentionally relaxed for the assessment and warned the incident illustrates that advanced models can carry out complex network attacks absent constraints while also being useful for vulnerability discovery and defense. Hugging Face called for industry-wide cooperation on AI security and said both parties will continue investigating the incident."
+    },
+    {
+      "id": "mkt:019f8662-7be1-7aab-8e31-db91660e6743",
+      "time": "2026-07-22 04:33:48",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Hegseth says US has spent $37.5 billion on operations against Iran】US Defense Secretary Hegseth said US military operations against Iran have cost about $37.5 billion to date, up from the Pentagon’s May estimate of $29 billion. He attributed the increase to operational spending and equipment attrition. The Pentagon is seeking the $67 billion foreign-defense funding package proposed by the Trump administration, including $21 billion to accelerate procurement of high-end missiles and munitions, $2 billion to replace combat losses or damaged equipment, and $11.6 billion for drones, satellites and other advanced technologies. This is the latest official estimate of the Iran conflict’s costs."
+    },
+    {
+      "id": "5000882",
+      "time": "2026-07-22 04:33:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美防長：對伊朗戰爭已耗資375億美元】美國國防部長赫格塞思表示，美國對伊朗戰爭迄今已耗資375億美元，高於此前公佈的估算。赫格塞思當天在參議院撥款委員會作證，為共和黨提出的950億美元預算方案爭取支援。該方案除軍費外，還包括農業援助及白宮優先推動的選舉法調整。聽證會期間，抗議者多次打斷赫格塞思發言。五角大樓此前宣佈，衝突中又有3名美軍人員死亡，使死亡人數升至17人；自7月初以來，另有100多人受傷。"
+    },
+    {
+      "id": "5000881",
+      "time": "2026-07-22 04:32:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉斯加航空：2026年第二季度調整後淨虧損為1.02億美元，合每股虧損0.92美元。"
+    },
+    {
+      "id": "5000880",
+      "time": "2026-07-22 04:32:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "阿拉斯加航空股價盤後下跌5%。"
+    },
+    {
+      "id": "5000879",
+      "time": "2026-07-22 04:32:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉斯加航空：2026年第二季度總營收增長10%，至41億美元。"
+    },
+    {
+      "id": "5000878",
+      "time": "2026-07-22 04:31:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【法國今年被山火燒燬的面積已超去年總和】法國南部及其他地區近期連續發生大規模山火。根據歐洲森林火災資訊系統最新資料顯示，截至本月15日，今年法國已有超過4.2萬公頃土地被山火燒燬，超過2022年創下的歷史同期紀錄，本年度被燒燬的土地面積也已經超過2025年的總和。目前，法國多地仍受高溫和森林火災影響，相關滅火和救援工作仍在持續進行。"
+    },
     {
       "id": "5000877",
       "time": "2026-07-22 04:30:15",
