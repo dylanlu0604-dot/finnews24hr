@@ -1,7 +1,239 @@
 {
   "date": "2026-07-22",
-  "count": 286,
+  "count": 309,
   "items": [
+    {
+      "id": "te:markets:568627",
+      "time": "2026-07-22 04:38:21",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Edges Lower on Geopolitical Uncertainty — The Ibovespa inched down to close at 173,325 on Tuesday amid mixed signals over the Middle East conflict. Hopes for diplomacy were boosted by reports that Iran is considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for a lasting peace agreement. However, continued attacks between the US and Iran tempered optimism. Utilities posted losses, with Sabesp down 1.3%. Manufacturers also traded lower, with WEG down 1.5% and Embraer losing 0.8%. Rede D'Or tumbled 4.3% after Congress approved legislation related to the health sector aimed at restructuring the country's healthcare ecosystem. The measure has introduced uncertainty for private hospital operators, which rely on regulatory stability and clear reimbursement rules. Oil prices remained elevated, supporting Petrobras (+1.2%). Vale rebounded 0.6% after retreating in the previous session on lower iron ore prices. Banks advanced on lower bond yields, with Banco do Brasil up 3.5%."
+    },
+    {
+      "id": "5000889",
+      "time": "2026-07-22 04:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：阿根廷仍需持續進行宏觀經濟調整，直至2027年更大規模的對外部門專案落地。"
+    },
+    {
+      "id": "5000888",
+      "time": "2026-07-22 04:37:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "穆迪：儘管阿根廷2027年大選後政策方向仍存在不確定性，但政策結果的區間已收窄。"
+    },
+    {
+      "id": "mkt:019f8666-2200-7aab-8e32-6fa2979be680",
+      "time": "2026-07-22 04:37:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "API: U.S. crude production fell 90,000 b/d in the week to July 17, versus a 56,000 b/d increase in the prior week."
+    },
+    {
+      "id": "mkt:019f8666-021a-7aab-8e32-604f68d5caa4",
+      "time": "2026-07-22 04:37:39",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Runs (Jul.17) | actual -90000M | previous 56000M"
+    },
+    {
+      "id": "mkt:019f8665-f730-7aab-8e32-580cfcab5a81",
+      "time": "2026-07-22 04:37:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "API: US refined product imports 43,000 b/d in week to July 17; prior -188,000 b/d."
+    },
+    {
+      "id": "mkt:019f8665-d499-7aab-8e32-50951941a127",
+      "time": "2026-07-22 04:37:28",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Petroleum Products Imports Change (Jul.17) | actual 43000M | previous -188000M"
+    },
+    {
+      "id": "mkt:019f8665-be36-7aab-8e32-4dcb6e79eeb1",
+      "time": "2026-07-22 04:37:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "U.S. API weekly crude oil imports for week to July 17: 355,000 barrels; prior -119,000 barrels."
+    },
+    {
+      "id": "mkt:019f8665-9c33-7aab-8e32-46cbc19e39c3",
+      "time": "2026-07-22 04:37:13",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Crude Oil Imports Change (Jul.17) | actual 355000M | previous -119000M"
+    },
+    {
+      "id": "mkt:019f8665-9be2-7aab-8e32-3fe0c51276bd",
+      "time": "2026-07-22 04:37:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US heating oil stocks (API) for week to July 17 +495,000 barrels; prior -73,000 barrels."
+    },
+    {
+      "id": "mkt:019f8665-7fd8-7aab-8e32-332ad8c788c3",
+      "time": "2026-07-22 04:37:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | API Weekly Heating Oil Stocks Change (Jul.17) | actual 495000M | previous -73000M"
+    },
+    {
+      "id": "mkt:019f8665-7f78-7aab-8e32-2a718d9c277f",
+      "time": "2026-07-22 04:37:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "API data showed U.S. Cushing crude inventories fell 737,000 barrels in the week to July 17, versus a 238,000-barrel build in the prior week."
+    },
+    {
+      "id": "5000887",
+      "time": "2026-07-22 04:37:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國石油協會（API）資料顯示，上週，美國API原油庫存 +260.3萬桶，之前一週 -56.4萬桶。"
+    },
+    {
+      "id": "5000886",
+      "time": "2026-07-22 04:36:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月22日美股成交額前20：美光市值重返萬億美元之上】週二美股成交額第1名美光科技收高2.17%，成交458.51億美元。該股市值重新回到1萬億美元之上。美光CEO在財報電話會上指出，受全產業鏈AI算力、智慧體及自動駕駛需求拉動，疊加晶圓製造與先進封裝擴產週期長帶來的供給剛性約束，儲存晶片供需緊張格局將延續至2027自然年之後，徹底扭轉市場對儲存週期短期見頂的悲觀預期，推動行業向AI成長賽道邏輯轉變，估值空間得以拓展。"
+    },
+    {
+      "id": "mkt:019f8665-5a7f-7aab-8e32-251b2c80f2b0",
+      "time": "2026-07-22 04:36:56",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Cushing Crude Oil Stocks Change (Jul.17) | actual -737000M | previous 238000M"
+    },
+    {
+      "id": "5000885",
+      "time": "2026-07-22 04:36:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "聽證會參議員提問：有報道稱我方襲擊了伊朗海水淡化廠，這些是預設打擊目標嗎？\n美國防長赫格塞思：我並不瞭解這些設施被列為專項打擊目標的相關情況。"
+    },
+    {
+      "id": "mkt:019f8665-4e6c-7aab-8e32-1c24edc8a4b8",
+      "time": "2026-07-22 04:36:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API weekly U.S. refined products inventories for week to July 17 +1.759 mln bbl vs +1.0 mln expected; prior +2.259 mln."
+    },
+    {
+      "id": "mkt:019f8665-2ceb-7aab-8e32-157f1da943e2",
+      "time": "2026-07-22 04:36:45",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Distillate Stocks Change (Jul.17) | actual 1759000M | consensus 1000000M | previous 2259000M"
+    },
+    {
+      "id": "mkt:019f8665-26e8-7aab-8e32-0bf358563a23",
+      "time": "2026-07-22 04:36:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "API: U.S. gasoline stocks fell 1.379 mln bbl in the week to July 17 versus market-expected draw of 1.81 mln bbl; prior draw 1.664 mln bbl."
+    },
+    {
+      "id": "mkt:019f8665-036a-7aab-8e32-0543e29ad0f6",
+      "time": "2026-07-22 04:36:34",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Gasoline Stocks Change (Jul.17) | actual -1379000M | consensus -1810000M | previous -1664000M"
+    },
+    {
+      "id": "mkt:019f8664-f9e2-7aab-8e31-f912300d378c",
+      "time": "2026-07-22 04:36:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. API weekly crude stocks to July 17 rose 2.603 mln barrels versus -0.5 mln exp; prior -0.564 mln."
+    },
+    {
+      "id": "mkt:019f8664-d80b-7aab-8e31-f0fdd95b92c9",
+      "time": "2026-07-22 04:36:23",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | API Weekly Crude Oil Stocks Change (Jul.17) | actual 2603000M | consensus -500000M | previous -564000M"
+    },
+    {
+      "id": "5000884",
+      "time": "2026-07-22 04:35:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【OpenAI承認測試AI模型逃逸沙盒，造成Hugging Face基礎設施遭入侵】OpenAI表示，上週全球最大AI開源社群Hugging Face遭遇的基礎設施入侵事件由其正在測試的AI模型引發。調查顯示，多個模型在安全評估任務中逃離沙盒環境，並利用“零日漏洞”獲得網際網路訪問許可權，隨後在Hugging Face生產環境中執行自動化操作。OpenAI表示，事件是由多個OpenAI模型共同導致，其中包括GPT-5.6 Sol以及一款能力更強的預釋出模型。為進行此次評估測試，模型的安全防護機制被有意降低。OpenAI稱，此次事件暴露出先進AI模型在缺少安全限制時可能執行復雜網路攻擊的風險，但同時也顯示AI可用於漏洞發現和安全防禦。Hugging Face方面表示，AI安全問題需要行業開放合作解決，雙方將繼續調查事件細節。"
+    },
     {
       "id": "te:markets:568626",
       "time": "2026-07-22 04:35:13",
