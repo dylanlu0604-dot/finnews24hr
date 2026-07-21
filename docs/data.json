@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-22 03:21:02",
-  "count": 18052,
+  "updated": "2026-07-22 03:24:55",
+  "count": 18055,
   "items": [
+    {
+      "id": "mkt:019f8622-b899-7aab-8e30-d07e98484367",
+      "time": "2026-07-22 03:24:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps says it destroyed two radar installations in Kuwait."
+    },
+    {
+      "id": "5000808",
+      "time": "2026-07-22 03:24:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院共和黨領袖圖恩計劃在8月休會前將臨時撥款法案提交參議院審議。"
+    },
+    {
+      "id": "te:economy:568617",
+      "time": "2026-07-22 03:23:36",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Colombia",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Colombia Trade Deficit Narrows in May — Colombia's trade deficit narrowed to $1.59 billion in May 2026 from $1.78 billion a year earlier. Exports rose 19.2% year-on-year to $5.19 billion, driven by a 33.3% increase in fuels and extractive industry products, led by petroleum and related goods. Agricultural exports edged up 0.7%, supported by higher shipments of cut flowers and coffee extracts, while manufactured exports increased 0.2%, driven by chemicals and machinery. Exports from other sectors surged 67.0%, mainly reflecting higher non-monetary gold shipments. Meanwhile, imports rose 10.6% to $6.79 billion, led by an 8.2% increase in manufactured goods, particularly machinery and transport equipment, as well as chemicals. Imports of agricultural products rose 2.7%, while purchases of fuels and extractive industry products climbed 35.2%."
+    },
+    {
+      "id": "5000807",
+      "time": "2026-07-22 03:23:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：發動勝利2號行動第二波打擊，摧毀科威特薩拉姆基地、布比延島多處雷達設施。"
+    },
+    {
+      "id": "5000806",
+      "time": "2026-07-22 03:22:27",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【算力超節點帶火液冷 浸沒式液冷嶄露頭角】隨著算力新基建超節點的湧現，其背後的液冷技術引發了行業新一輪關注。在2026世界人工智慧大會（WAIC 2026）上，華為、中興通訊、新華三、浪潮等知名伺服器廠商超節點的熱管理系統已全線向液冷升級，其中包括主流的冷板液冷，還有方興未艾的浸沒式液冷。中金公司預測，隨著新技術的亮相，2026年迎來液冷放量元年，全球智算中心液冷市場將達1147億元，同比增長273%，2027年仍有望保持高增長。受訪人士普遍認為，受高算力提振，液冷新技術正在不斷升級，並落地應用。伴隨著氟化液價格走低，浸沒式液冷將迎來工程化階段，市場景氣度可期。"
+    },
+    {
+      "id": "5000805",
+      "time": "2026-07-22 03:20:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏克蘭武裝部隊總司令亞歷山大·瑟爾斯基遭解職。"
+    },
     {
       "id": "5000804",
       "time": "2026-07-22 03:20:06",
@@ -166008,34 +166066,6 @@
         "國際"
       ],
       "text": "市場訊息：伊朗阿巴斯港傳來爆炸聲。"
-    },
-    {
-      "id": "mkt:019f6216-715e-7aab-8d88-5d466cd009da",
-      "time": "2026-07-15 03:24:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Iranian media report explosions were heard again on Qeshm Island and in Bandar Abbas."
-    },
-    {
-      "id": "4988454",
-      "time": "2026-07-15 03:22:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗西南部胡齊斯坦省首府傳出爆炸聲】當地時間14日晚獲悉，伊朗西南部胡齊斯坦省的首府阿瓦士傳出爆炸聲。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6214-2b0c-7aab-8d88-55d05e6339da",
-      "time": "2026-07-15 03:21:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's deputy foreign minister said the US is mistaken if it believes sanctions can force Tehran to proactively request negotiations."
     }
   ]
 }
