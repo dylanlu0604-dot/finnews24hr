@@ -1,7 +1,89 @@
 {
   "date": "2026-07-21",
-  "count": 1335,
+  "count": 1344,
   "items": [
+    {
+      "id": "4999298",
+      "time": "2026-07-21 13:01:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府將降低電費稅。"
+    },
+    {
+      "id": "4999297",
+      "time": "2026-07-21 13:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中際旭創盤中漲超10%】A股中際旭創盤中漲超10%，現報1106.00元。"
+    },
+    {
+      "id": "4999296",
+      "time": "2026-07-21 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股遼寧省板塊異動拉昇】拓荊科技漲13.80%，智雲股份、芯源微、富創精密、達利凱普、神工股份、中科儀跟漲。"
+    },
+    {
+      "id": "4999295",
+      "time": "2026-07-21 13:01:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內漲幅達7.83%，成分股中，格科微漲20.03%，華虹宏力漲18.25%，中科飛測漲16.50%，拓荊科技漲14.74%。"
+    },
+    {
+      "id": "mkt:019f830c-234b-7aab-8e1c-acb640d83811",
+      "time": "2026-07-21 13:00:38",
+      "tags": [
+        "MKT News",
+        "09660.HK",
+        "Impact bullish"
+      ],
+      "text": "Horizon Robotics (09660.HK) rose over 5% in Hong Kong afternoon trade after saying it expects profit of RMB 3.5–4.0 bln for 1H 2026, versus a loss of RMB 5.233 bln in the same period a year earlier."
+    },
+    {
+      "id": "4999294",
+      "time": "2026-07-21 13:00:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "諾華股份公司 第二季度核心每股收益2.41美元，預估2.16美元。諾華股份公司 第二季度銷售淨額144.1億美元，預估139.4億美元。"
+    },
+    {
+      "id": "4999293",
+      "time": "2026-07-21 12:59:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【超9000個崗位！深汕比亞迪啟動大規模招聘】近日，位於深圳市深汕特別合作區的比亞迪基地放出大規模招聘啟事——鵝埠零部件基地與小漠整車製造基地聯合擴招，崗位總數超過9000個，覆蓋操作工、技術工質檢、管理等多個層級。這是深汕比亞迪汽車工業園今年以來規模最大的一次社會招聘，3月春季招聘時還是兩千人，4個月後用工需求翻了4倍多。 深汕比亞迪主要生產方程豹鈦7等熱門中高階車型及宋Plus、宋Pro等出口車型。去年整車年產量超30萬輛，今年產能將加速釋放。  （深圳特區報）"
+    },
+    {
+      "id": "mkt:019f830a-b8e2-7aab-8e1c-a37dd8ea49a3",
+      "time": "2026-07-21 12:59:05",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300 ETF",
+        "Impact bullish",
+        "CSI500 ETF",
+        "CSI1000 ETF"
+      ],
+      "text": "【Five broad-based ETFs lead turnover as volumes continue to expand】July 21 — China’s A-share broad-based ETFs extended a flow-driven bid as volumes accelerated, with five flagship products dominating trading. Morning session: Huaxia STAR50 ETF was the most active, with half-day turnover above CNY 12.0 bln; E Fund’s ChiNext ETF and Huatai-PineBridge’s CSI300 ETF recorded CNY 9.57 bln and CNY 7.38 bln respectively. Southern Asset Management’s CSI500 and CSI1000 ETFs each exceeded CNY 5 bln in half-day turnover. Those five ETFs were also among the prior session’s largest by turnover; on the day their combined turnover approached CNY 79 bln, about 30% of total stock ETF turnover, making them central targets of recent capital allocation."
+    },
+    {
+      "id": "4999292",
+      "time": "2026-07-21 12:58:08",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【首形科技完成數億元A2輪融資，中信金石與吉利資本聯合領投】7月21日，首形科技宣佈完成數億元A2輪融資。本輪由中信金石與吉利資本聯合領投，中信證券國際資本、國泰君安創新投、君禮資本、京銘資本、交源資本跟投，老股東中國網際網路投資基金（中網投）與順為資本超額追投。本輪融資將主要投入三大核心板塊：全系列仿生產品矩陣擴容、標準化量產產線搭建、仿生具身智慧演算法深度迭代。"
+    },
     {
       "id": "4999291",
       "time": "2026-07-21 12:57:48",
