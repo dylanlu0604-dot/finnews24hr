@@ -1,7 +1,144 @@
 {
   "date": "2026-07-21",
-  "count": 3038,
+  "count": 3052,
   "items": [
+    {
+      "id": "te:markets:568575",
+      "time": "2026-07-21 21:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.32% Higher — The Dow Jones Index is picking up 167 points or 0.32 percent on Tuesday. Gains are led by 3M (7.62%), Caterpillar (2.40%) and Goldman Sachs (1.91%). Biggest losers are Visa (-1.15%), Sherwin-Williams (-1.12%) and Home Depot (-1.04%)."
+    },
+    {
+      "id": "mkt:019f84e7-70e1-7aab-8e2b-3847cad36d8b",
+      "time": "2026-07-21 21:39:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Treasury yields continued to climb on rising oil prices; the 30-year Treasury yield hit its highest level since May 21."
+    },
+    {
+      "id": "mkt:019f84e7-44cd-7aab-8e2b-34b329c574fd",
+      "time": "2026-07-21 21:39:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【CIBC: Trump’s new tariffs signal start of tough USMCA talks】CIBC analysts said President Trump’s latest tariff threat against Canada — a U.S. announcement on Monday to impose 50% duties on selected Canadian goods including alcohol, autos and dairy — marks the beginning of difficult negotiations over the USMCA. The tariffs are set to take effect in 30 days. CIBC noted the choice of goods appears politically driven and that the administration invoked Section 338 of the Tariff Act of 1930, which permits the president to levy duties up to 50% on countries deemed to discriminate against U.S. commerce."
+    },
+    {
+      "id": "5000542",
+      "time": "2026-07-21 21:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國國防大臣就俄羅斯在英國海岸外舉行軍事演習發表看法：此舉不負責任。"
+    },
+    {
+      "id": "5000541",
+      "time": "2026-07-21 21:39:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，康迪車業跌10.40%，新氧跌2.38%，網易跌2.26%，名創優品跌2.07%，汽車之家跌2.05%。"
+    },
+    {
+      "id": "5000540",
+      "time": "2026-07-21 21:39:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "隨著油價上漲，美國國債收益率繼續攀升，30年期美債收益率升至5月21日以來的最高水平。"
+    },
+    {
+      "id": "mkt:019f84e7-0664-7aab-8e2b-2af59feb882c",
+      "time": "2026-07-21 21:39:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "UK defence secretary described Russia's military exercises near the British coast as irresponsible."
+    },
+    {
+      "id": "5000539",
+      "time": "2026-07-21 21:39:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信長星在省國信集團高投集團調研】7月21日，江蘇省委書記信長星到江蘇省國信集團、江蘇高科技投資集團調研。他強調，要深入學習貫徹習近平總書記對江蘇工作重要講話精神，強化使命擔當，堅守主責主業，做強做優做大國有企業和國有資本，為推動全省高質量發展貢獻更大力量。（微訊江蘇）"
+    },
+    {
+      "id": "5000538",
+      "time": "2026-07-21 21:38:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾斯羅普・格魯曼釋出第二季度業績後股價下跌 8%。"
+    },
+    {
+      "id": "mkt:019f84e5-dd22-7aab-8e2b-20a9eba78495",
+      "time": "2026-07-21 21:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China rice institute touts one-line hybrid rice Yixi No.1 with >99% cloning efficiency】Wang Kejian’s team at the China Rice Research Institute reported development of a one-line hybrid rice, Yixi No.1, achieving stable cloning efficiency above 99% and normal fertility; the study was published July 21 in the journal Vita. By contrast, China’s widespread three-line and two-line hybrid systems suffer genetic segregation and cannot be used to retain seed, forcing annual production from male-sterile and restorer lines — a process the team says is technically demanding, higher risk and typically drives hybrid seed costs to more than 10x conventional rice seed. Experts note hybrid rice has been indispensable to China’s and global food security."
+    },
+    {
+      "id": "5000537",
+      "time": "2026-07-21 21:37:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信長星在省國信集團高投集團調研】7月21日，江蘇省委書記信長星到江蘇省國信集團、江蘇高科技投資集團調研。他強調，要深入學習貫徹習近平總書記對江蘇工作重要講話精神，強化使命擔當，堅守主責主業，做強做優做大國有企業和國有資本，為推動全省高質量發展貢獻更大力量。（微訊江蘇）"
+    },
+    {
+      "id": "5000536",
+      "time": "2026-07-21 21:36:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "加彭國際債券在預算修正案更新後下跌多達1.2美分，2031年2月到期債券買價報85.3美分。"
+    },
+    {
+      "id": "5000535",
+      "time": "2026-07-21 21:36:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "通用汽車股價上漲2.6%，此前該公司公佈經調整後全年每股收益預測高於市場預期。"
+    },
+    {
+      "id": "5000534",
+      "time": "2026-07-21 21:36:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "孩之寶股價上漲12%，創2025年4月以來最大單日漲幅。"
+    },
     {
       "id": "5000533",
       "time": "2026-07-21 21:35:56",

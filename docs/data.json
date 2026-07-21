@@ -1,7 +1,144 @@
 {
-  "updated": "2026-07-21 21:36:52",
-  "count": 18439,
+  "updated": "2026-07-21 21:40:56",
+  "count": 18430,
   "items": [
+    {
+      "id": "te:markets:568575",
+      "time": "2026-07-21 21:40:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.32% Higher — The Dow Jones Index is picking up 167 points or 0.32 percent on Tuesday. Gains are led by 3M (7.62%), Caterpillar (2.40%) and Goldman Sachs (1.91%). Biggest losers are Visa (-1.15%), Sherwin-Williams (-1.12%) and Home Depot (-1.04%)."
+    },
+    {
+      "id": "mkt:019f84e7-70e1-7aab-8e2b-3847cad36d8b",
+      "time": "2026-07-21 21:39:47",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "WTI",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US Treasury yields continued to climb on rising oil prices; the 30-year Treasury yield hit its highest level since May 21."
+    },
+    {
+      "id": "mkt:019f84e7-44cd-7aab-8e2b-34b329c574fd",
+      "time": "2026-07-21 21:39:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【CIBC: Trump’s new tariffs signal start of tough USMCA talks】CIBC analysts said President Trump’s latest tariff threat against Canada — a U.S. announcement on Monday to impose 50% duties on selected Canadian goods including alcohol, autos and dairy — marks the beginning of difficult negotiations over the USMCA. The tariffs are set to take effect in 30 days. CIBC noted the choice of goods appears politically driven and that the administration invoked Section 338 of the Tariff Act of 1930, which permits the president to levy duties up to 50% on countries deemed to discriminate against U.S. commerce."
+    },
+    {
+      "id": "5000542",
+      "time": "2026-07-21 21:39:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國國防大臣就俄羅斯在英國海岸外舉行軍事演習發表看法：此舉不負責任。"
+    },
+    {
+      "id": "5000541",
+      "time": "2026-07-21 21:39:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超0.5%，康迪車業跌10.40%，新氧跌2.38%，網易跌2.26%，名創優品跌2.07%，汽車之家跌2.05%。"
+    },
+    {
+      "id": "5000540",
+      "time": "2026-07-21 21:39:22",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "隨著油價上漲，美國國債收益率繼續攀升，30年期美債收益率升至5月21日以來的最高水平。"
+    },
+    {
+      "id": "mkt:019f84e7-0664-7aab-8e2b-2af59feb882c",
+      "time": "2026-07-21 21:39:20",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "UK defence secretary described Russia's military exercises near the British coast as irresponsible."
+    },
+    {
+      "id": "5000539",
+      "time": "2026-07-21 21:39:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信長星在省國信集團高投集團調研】7月21日，江蘇省委書記信長星到江蘇省國信集團、江蘇高科技投資集團調研。他強調，要深入學習貫徹習近平總書記對江蘇工作重要講話精神，強化使命擔當，堅守主責主業，做強做優做大國有企業和國有資本，為推動全省高質量發展貢獻更大力量。（微訊江蘇）"
+    },
+    {
+      "id": "5000538",
+      "time": "2026-07-21 21:38:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "諾斯羅普・格魯曼釋出第二季度業績後股價下跌 8%。"
+    },
+    {
+      "id": "mkt:019f84e5-dd22-7aab-8e2b-20a9eba78495",
+      "time": "2026-07-21 21:38:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China rice institute touts one-line hybrid rice Yixi No.1 with >99% cloning efficiency】Wang Kejian’s team at the China Rice Research Institute reported development of a one-line hybrid rice, Yixi No.1, achieving stable cloning efficiency above 99% and normal fertility; the study was published July 21 in the journal Vita. By contrast, China’s widespread three-line and two-line hybrid systems suffer genetic segregation and cannot be used to retain seed, forcing annual production from male-sterile and restorer lines — a process the team says is technically demanding, higher risk and typically drives hybrid seed costs to more than 10x conventional rice seed. Experts note hybrid rice has been indispensable to China’s and global food security."
+    },
+    {
+      "id": "5000537",
+      "time": "2026-07-21 21:37:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【信長星在省國信集團高投集團調研】7月21日，江蘇省委書記信長星到江蘇省國信集團、江蘇高科技投資集團調研。他強調，要深入學習貫徹習近平總書記對江蘇工作重要講話精神，強化使命擔當，堅守主責主業，做強做優做大國有企業和國有資本，為推動全省高質量發展貢獻更大力量。（微訊江蘇）"
+    },
+    {
+      "id": "5000536",
+      "time": "2026-07-21 21:36:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "加彭國際債券在預算修正案更新後下跌多達1.2美分，2031年2月到期債券買價報85.3美分。"
+    },
+    {
+      "id": "5000535",
+      "time": "2026-07-21 21:36:36",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "通用汽車股價上漲2.6%，此前該公司公佈經調整後全年每股收益預測高於市場預期。"
+    },
+    {
+      "id": "5000534",
+      "time": "2026-07-21 21:36:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "孩之寶股價上漲12%，創2025年4月以來最大單日漲幅。"
+    },
     {
       "id": "5000533",
       "time": "2026-07-21 21:35:56",
@@ -169543,225 +169680,6 @@
         "其他"
       ],
       "text": "【寬基ETF兩天爆量成交，業內直言：這是“跌出來”的機會】中小盤寬基ETF亦受到資金追捧。7 月13日，南方中證500ETF、南方中證1000ETF分別淨流入約60億元，華夏中證1000ETF淨流入48.45億元，華夏科創板50ETF和易方達創業板ETF均獲淨流入20億元。在業內看來，大額資金再次流向寬基ETF，讓市場嗅到了“抄底”的訊號。華泰柏瑞滬深300ETF在7月12日的成交額為40億元，13日成交額達到77.05億元，14日繼續放大至86.31億元。 7月13日，該ETF獲得55.38億元資金淨流入，最新規模為868.83億元。有市場人士指出，7月市場“變盤”訊號明顯，部分寬基ETF份額翻倍。以南方中證1000ETF為例，其6月底份額為30.77億份，至7月13日，份額為71.2億份，增幅為131.4%。這種短時間內的倍數級增長，在歷史上往往與重要底部區域的機構大舉建倉行為高度吻合。（中國基金報）"
-    },
-    {
-      "id": "4987926",
-      "time": "2026-07-14 21:40:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技市值在A股排名第28】7月14日，長鑫科技公佈了公司科創板IPO發行價為8.66元/股。而長鑫科技在行使超額配售選擇權之前，發行後總股本6688088.6077萬股，據此計算，長鑫科技市值為5791.88億元，若順利上市長鑫市值在A股排名第28。（第一財經）"
-    },
-    {
-      "id": "4987925",
-      "time": "2026-07-14 21:40:16",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "財捷集團下跌4.6%，Atlassian下跌7.5%，Adobe下跌4.8%。"
-    },
-    {
-      "id": "mkt:019f60db-4b97-7aab-8d7f-62d5c115880a",
-      "time": "2026-07-14 21:40:12",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "【Analyst: June price gains broadly eased, may not repeat in coming months】June CPI showed a broad slowdown in price gains. Clothing, used cars, auto insurance and healthcare prices fell MoM in June, while the MoM increase in housing costs hit its lowest level since 2021. Omair Sharif, head of consulting firm Inflation Insights, said declines in auto insurance, wireless data services and hotels jointly pulled down overall inf in June, but warned the improvement may not recur in the coming months."
-    },
-    {
-      "id": "te:markets:566853",
-      "time": "2026-07-14 21:40:11",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Opens 0.08% Higher — The Dow Jones Index is picking up 42 points or 0.08 percent on Tuesday. Gains are led by Goldman Sachs (4.55%), Caterpillar (3.28%) and 3M (1.03%). Biggest losers are IBM (-23.81%), Microsoft (-2.42%) and Merck (-1.73%)."
-    },
-    {
-      "id": "4987924",
-      "time": "2026-07-14 21:40:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "ServiceNow股價下跌7%，賽富時（Salesforce）股價下跌3.9%，埃森哲（Accenture）股價下跌3.5%。"
-    },
-    {
-      "id": "mkt:019f60db-0f71-7aab-8d7f-5976820f2172",
-      "time": "2026-07-14 21:39:56",
-      "tags": [
-        "MKT News",
-        "GS.O",
-        "Impact bullish"
-      ],
-      "text": "Goldman Sachs CEO Solomon said the bank is further accelerating growth in asset and wealth management through targeted acquisitions."
-    },
-    {
-      "id": "4987923",
-      "time": "2026-07-14 21:39:47",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示，公司將透過定向收購進一步加快資產管理與財富管理板塊的增長。"
-    },
-    {
-      "id": "te:markets:566852",
-      "time": "2026-07-14 21:39:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "NextEra Energy Stock Price Hits 7-week High — NextEra Energy shares increased to 89.26 USD, the highest since May 2026. Over the past 4 weeks, NextEra Energy gained 3.61%, and in the last 12 months, it increased 18.91%."
-    },
-    {
-      "id": "4987922",
-      "time": "2026-07-14 21:39:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【我國自然資源確權登記將加快全域立體發展】據新華社北京7月14日電，為健全自然資源資產產權制度，我國將深化自然資源確權登記制度改革，推進自然資源和不動產統一確權登記全域立體發展。"
-    },
-    {
-      "id": "4987921",
-      "time": "2026-07-14 21:39:26",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【美伊對抗升溫刺激國際油價繼續大漲】由於美國和伊朗軍事對抗升溫、美方宣稱將恢復對伊朗的海上封鎖並對經由霍爾木茲海峽運輸的貨物收費等訊息加劇市場對原油供應短缺的擔憂，國際原油期貨價格14日再度大漲。當天，紐約商品交易所輕質原油期貨價格一度上漲3.9%，至每桶81美元以上；倫敦布倫特原油期貨價格盤中一度漲超5%，至每桶87美元以上。美軍13日宣佈，對伊朗發動“連續第三晚”的打擊行動，並將於美國東部時間14日恢復對伊朗的海上封鎖。伊朗方面則表示霍爾木茲海峽近期局勢升級的直接責任在美國，並對位於中東地區的美軍基地實施報復性打擊。（央視新聞）"
-    },
-    {
-      "id": "4987920",
-      "time": "2026-07-14 21:39:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吉林省釋出山洪災害氣象風險紅色預警】吉林省水利廳和吉林省氣象局2026年7月14日21時聯合釋出山洪災害氣象風險紅色預警。預計，7月14日夜間至7月15日白天：延邊州敦化市、汪清縣、延吉市發生山洪災害可能性很大；白山市撫松縣、靖宇縣，吉林市樺甸市、磐石市，通化市輝南縣，延邊州安圖縣、和龍市、琿春市、龍井市、圖們市，長白山保護開發區發生山洪災害可能性大；白山市渾江區、江源區、臨江市、長白縣，遼源市東豐縣，梅河口市，通化市本級、通化縣、柳河縣、集安市發生山洪災害可能性較大；其他地區也可能因局地短時強降水引發山洪災害。（央視新聞）"
-    },
-    {
-      "id": "4987919",
-      "time": "2026-07-14 21:39:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北京成立全國首個自主實驗室聯盟，首批意向成員單位超百家】7月14日，2026自主實驗室大會在中關村國際技術交易中心召開。大會上，中關村儀創智慧實驗室創新發展聯盟揭牌成立，標誌著我國自主實驗室行業首個跨領域、非營利性產業協同組織正式投入執行。目前，聯盟的首批意向成員單位已超過100家，涵蓋高校院所、儀器裝備企業、AI技術企業、標準化單位、檢測認證機構、使用者單位等產學研用各方力量，將共同推動自主實驗室技術的標準化、規模化、商業化應用。近期，聯盟將釋出首批自主實驗室團體標準立項計劃，並聯合會員單位在生命科學、醫藥健康、新材料、新能源等領域建設自主實驗室示範專案。（北京日報）"
-    },
-    {
-      "id": "mkt:019f60da-13f9-7aab-8d7f-524d02592e9b",
-      "time": "2026-07-14 21:38:52",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Market sources say Lebanon and Israel are in talks in Rome to implement an agreement to end hostilities."
-    },
-    {
-      "id": "4987918",
-      "time": "2026-07-14 21:38:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "【船員遇害 印度向伊朗提出強烈抗議】據新加坡《聯合早報》網站7月14日報道，印度外交部14日說，已就一名印度海員在霍爾木茲海峽遇害事件召見伊朗副大使，並向伊朗提出強烈抗議。（上證報）"
-    },
-    {
-      "id": "4987917",
-      "time": "2026-07-14 21:38:27",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "高盛執行長表示，我們第二季度在私人信貸領域籌集了310億美元。"
-    },
-    {
-      "id": "mkt:019f60d9-77ed-7aab-8d7f-4bef052fdbf7",
-      "time": "2026-07-14 21:38:12",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact mixed",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "US Republican Senator Marshall said Iran remains decades away from acquiring nuclear weapons. He said Gulf states should, if necessary, deploy ground forces against Iran, and that the US should not take a leading role in such operations."
-    },
-    {
-      "id": "4987916",
-      "time": "2026-07-14 21:38:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西安：聚焦光子、半導體等優勢領域 打造硬科技產業領域整合式場景】7月14日，西安市人民政府辦公廳印發《西安市加快場景培育和開放推動新場景大規模應用實施方案》。其中提出，以場景創新助力產業強鏈。依託航天、航空、低空經濟等優勢，在全空間無人體系等領域拓展重大應用場景。聚焦光子、半導體等優勢領域，釋放全鏈條場景需求，打造硬科技產業領域整合式場景。瞄準工業軟體研發、氫能應用、無人機巡檢、腦機介面等細分賽道，開展高價值小切口場景建設，加速新技術、新產品的落地驗證和迭代升級。精準培育氫能與核聚變能、生物製造、具身智慧等高潛能未來產業，用場景牽引技術落地、補鏈強鏈，提升全要素生產率，形成“場景釋出—技術適配—中試驗證—規模化應用—產業集聚”閉環。"
-    },
-    {
-      "id": "te:economy:566851",
-      "time": "2026-07-14 21:38:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Germany",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Bund Yields Ease Slightly After US Inflation Data — Germany’s 10-year Bund yield trimmed its rise to 3.09% after softer-than-expected US inflation data for June reduced expectations for Federal Reserve rate hikes this year. However, yields remained at their highest level since May 21, as Middle East tensions raised concerns that higher energy prices could fuel inflation and push interest rates higher. The two-year bond yield, more sensitive to policy rate expectations, also climbed to 2.8%, its highest since July 2024. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, increasing uncertainty over energy flows. Markets responded by betting on further European Central Bank rate hikes, with money markets pricing in a deposit rate of 2.70% by December (up from the current 2.25%) and fully expecting a September hike."
-    },
-    {
-      "id": "4987915",
-      "time": "2026-07-14 21:37:54",
-      "tags": [
-        "市場"
-      ],
-      "text": "HCA醫療下調年度營收預期後，醫院運營商股價集體下跌。"
-    },
-    {
-      "id": "4987914",
-      "time": "2026-07-14 21:37:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "訴訟稱Meta利用人工智慧驅動軟體篩選出患病員工進行裁員。"
-    },
-    {
-      "id": "4987913",
-      "time": "2026-07-14 21:37:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "受HCA醫療保健前景令人失望的影響，史賽克股價下跌6%。"
-    },
-    {
-      "id": "mkt:019f60d8-9134-7aab-8d7f-41954aef0c5a",
-      "time": "2026-07-14 21:37:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Explosion reported in Ukraine's Kharkiv region."
-    },
-    {
-      "id": "4987912",
-      "time": "2026-07-14 21:37:04",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "蘋果公司股價下跌1.2%，此前KeyBanc將其評級從「板塊配比」下調至「低配」。"
     }
   ]
 }
