@@ -1,7 +1,273 @@
 {
   "date": "2026-07-21",
-  "count": 2074,
+  "count": 2102,
   "items": [
+    {
+      "id": "mkt:019f83e8-baad-7aab-8e23-ca18c11a46fa",
+      "time": "2026-07-21 17:01:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Crackdown on counterfeits by Chinese market regulators shows results in 1H2026】Chinese market regulators intensified IP enforcement in 1H2026, handling 317,000 cases overall, including over 14,000 trademark-infringement and patent-counterfeiting cases. Regulators conducted roughly 28,000 enforcement actions in high-incidence physical markets, focusing on key sectors, goods and markets and using administrative enforcement as a deterrent to protect rights holders, consumers and fair competition."
+    },
+    {
+      "id": "mkt:019f83e8-7f8a-7aab-8e23-c34937de74a9",
+      "time": "2026-07-21 17:01:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "German think tank ZEW: Developments in the Iran conflict and oil-price uncertainty remain key factors affecting the recovery outlook."
+    },
+    {
+      "id": "mkt:019f83e8-697e-7aab-8e23-bda5b1e81790",
+      "time": "2026-07-21 17:01:14",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German think tank ZEW said growth persisted, particularly in export-oriented industries and in domestic demand."
+    },
+    {
+      "id": "mkt:019f83e8-4ccb-7aab-8e23-b571bd8e8d98",
+      "time": "2026-07-21 17:01:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "German think tank ZEW said the economic outlook continued to improve in July; reforms appear to be having an effect."
+    },
+    {
+      "id": "4999854",
+      "time": "2026-07-21 17:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國經濟資訊研究會（ZEW）：出口導向型行業及內需均實現了持續增長。"
+    },
+    {
+      "id": "4999853",
+      "time": "2026-07-21 17:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "波音與地中海航運航空貨運宣佈訂購 777-8 貨機。"
+    },
+    {
+      "id": "mkt:019f83e7-98ff-7aab-8e23-ae04afc5080f",
+      "time": "2026-07-21 17:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Eurozone July ZEW economic sentiment index 23.4, up from 9.5 previously."
+    },
+    {
+      "id": "mkt:019f83e7-8695-7aab-8e23-a16fc888bcc2",
+      "time": "2026-07-21 17:00:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Leshan Electric Power: 1H 2026 net profit 6.8839 mln yuan, down 12.90% YoY】Leshan Electric Power reported 1H 2026 operating revenue of 1.533 bln yuan, down 5.55% YoY, and net profit of 6.8839 mln yuan, down 12.90% YoY. The company said residential off-peak electricity tariffs reduced power sales revenue, while new gas purchase contracts and adjusted gas procurement pricing and settlement rules raised gas costs, causing YoY declines in operating profit, total profit, net profit attributable to shareholders and attributable net profit excluding non-recurring items."
+    },
+    {
+      "id": "mkt:019f83e7-7dbb-7aab-8e23-9a836df13d14",
+      "time": "2026-07-21 17:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ZEW Economic Sentiment Index (Jul) | actual 23.4 | previous 9.5"
+    },
+    {
+      "id": "te:markets:568528",
+      "time": "2026-07-21 17:00:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: Norwegian Krone Appreciates by 0.39% — Top currency gainers are Norwegian Krone (0.39%), Australian Dollar (0.36%), New Zealand Dollar (0.33%) and Euro (0.06%). Biggest loser is Japanese Yen (-0.11%). Meanwhile, British Pound and Dollar Index were little changed."
+    },
+    {
+      "id": "4999852",
+      "time": "2026-07-21 17:00:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國7月份ZEW投資者預期指數報26.3；預估為15.3。"
+    },
+    {
+      "id": "mkt:019f83e7-63e1-7aab-8e23-97c8e56bbb33",
+      "time": "2026-07-21 17:00:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July ZEW current situation index -77.6, expected -77.8, prior -81."
+    },
+    {
+      "id": "mkt:019f83e7-60af-7aab-8e23-8dad7765d049",
+      "time": "2026-07-21 17:00:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "Germany July ZEW economic sentiment index 26.3 vs. 17.5 expected; prior 10.5."
+    },
+    {
+      "id": "mkt:019f83e7-48a7-7aab-8e23-859449e0e9ad",
+      "time": "2026-07-21 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | ZEW Economic Sentiment Index (Jul) | actual 26.3 | consensus 17.5 | previous 10.5"
+    },
+    {
+      "id": "mkt:019f83e7-4897-7aab-8e23-7e4e68895303",
+      "time": "2026-07-21 17:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Germany | ZEW Current Situation Index (Jul) | actual -77.6 | consensus -77.8 | previous -81"
+    },
+    {
+      "id": "4999851",
+      "time": "2026-07-21 16:59:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國聯邦航空管理局副局長稱：該局計劃加速下一代空中計程車、超音速客機推向市場。"
+    },
+    {
+      "id": "mkt:019f83e6-b686-7aab-8e23-718350735462",
+      "time": "2026-07-21 16:59:22",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "0981.HK",
+        "Impact bullish"
+      ],
+      "text": "【Harvest fund manager Wang Guizhong says AI industry chain still offers sustained investment opportunities】July 21 — Harvest Fund published its Q2 2026 results. Wang Guizhong’s Harvest Technology Innovation Mixed fund held 92.11% equity at end-Q2, up 1.69 percentage points from end-Q1. Top 10 holdings: Zhongke Feice, GigaDevice, AMEC (Advanced Micro-Fabrication Equipment), NAURA Technology, Beijing Junzheng Microelectronics, Luxshare Precision, Tuojing Technology, Naxinwei, Huahai Qingke, and SMIC. Wang says he will lean on long-term industry trends and earnings realization to offset short-term disruptions. He remains cautious on internet, software and edge-device exposure given the “model-eats-software” narrative has not reversed, and is keeping close watch on domestic chip names, expecting more positive supply breakthroughs in H2."
+    },
+    {
+      "id": "4999850",
+      "time": "2026-07-21 16:59:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三孚新科：董事長上官文龍提議以2000萬元-3000萬元回購公司股份】三孚新科公告，公司董事長上官文龍基於對公司未來發展前景的信心和對公司長期投資價值的認可，提議公司以集中競價交易方式回購公司部分股份，並在未來適宜時機將前述回購股份用於員工股權激勵或員工持股計劃。回購價格上限不高於公司董事會審議透過回購股份決議前30個交易日公司股票交易均價的 150%，回購股份的資金總額不低於人民幣 2000萬元（含），不超過人民幣 3000萬元（含）。"
+    },
+    {
+      "id": "4999849",
+      "time": "2026-07-21 16:59:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉實基金王貴重：AI產業鏈仍然存在持續的投資機會】7月21日，嘉實基金髮布旗下基金2026年二季報。基金經理王貴重管理的嘉實科技創新混合二季報顯示，截至2026年二季度末，該基金股票倉位為92.11%，較一季度末上升1.69個百分點。報告顯示，2026年二季度末，嘉實科技創新混合前十大重倉股分別為：中科飛測、兆易創新、中微公司、北方華創、北京君正、立訊精密、拓荊科技、納芯微、華海清科、中芯國際。王貴重表示，將以擁抱長期產業趨勢和業績兌現來對抗短期擾動。由於“模型吞噬軟體”的敘事未見反轉，對網際網路、軟體、端側等線索仍保持謹慎。對於國產晶片仍在保持密切關注，期待下半年能看到更積極的供給突破。（中證金牛座）"
+    },
+    {
+      "id": "4999848",
+      "time": "2026-07-21 16:59:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐洲理事會主席與英國新任首相通話 討論英歐合作】當地時間21日，歐洲理事會主席科斯塔在社交媒體發文稱，前一晚與英國新任首相伯納姆首次通話很順利。雙方一致同意進一步加強歐盟與英國的關係，以期在今年晚些時候於布魯塞爾舉行第二次歐盟-英國峰會。科斯塔表示雙方還討論了歐洲共同面臨的地緣政治挑戰，稱歐盟和英國將繼續密切合作。（央視新聞）"
+    },
+    {
+      "id": "4999847",
+      "time": "2026-07-21 16:58:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本公平交易委員會將加強對中小企業成本轉嫁行為的監管。"
+    },
+    {
+      "id": "4999846",
+      "time": "2026-07-21 16:58:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高科橋：完成收購豪民投資控股有限公司全部股權權益的重大及關聯交易】高科橋公告，公司於2026年7月21日完成收購豪民投資控股有限公司全部股權權益的重大及關聯交易。收購協議的全部先決條件已獲達成，目標公司豪民投資控股有限公司成為高科橋的全資附屬公司，賣方不再擁有目標公司任何直接權益。至此，高科橋間接持有富通光電技術（杭州）有限公司51%的股權。"
+    },
+    {
+      "id": "4999845",
+      "time": "2026-07-21 16:58:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿布扎比國家石油公司敲定62億美元烏姆沙伊夫氣頂專案最終投資決議】7月21日， 阿布扎比國家石油公司（ADNOC）正式作出62億美元（約合419.53億元人民幣）烏姆沙伊夫氣頂開發專案最終投資決議（FID），攜手道達爾能源、埃尼集團、中國石油天然氣集團等國際合作夥伴，共同開發阿布扎比烏姆沙伊夫氣頂油氣資源，加速一體化全球天然氣發展戰略落地。阿聯酋天然氣儲量位居全球第七。該專案建成後，每日可開採超6億標準立方英尺天然氣，產能接近阿聯酋當前全國天然氣日消費量的10%。專案預計2030年實現投產。本次投資包含三份工程總承包（EPC）合同，同步規劃14口井鑽探開發計劃。"
+    },
+    {
+      "id": "4999844",
+      "time": "2026-07-21 16:57:57",
+      "tags": [
+        "兩會"
+      ],
+      "text": "【彭清華出席太平洋島國議員研討班開班式】全國人大常委會副委員長彭清華21日在京出席第四期太平洋島國議員研討班開班式並致辭。他表示，中國全國人大願同太平洋島國立法機構深化友好交流合作，共同為促進雙邊關係發展、構建中國－太平洋島國命運共同體作出積極貢獻。來自10個太平洋島國的40餘名議員和立法機構官員參加研討班。（新華社）"
+    },
+    {
+      "id": "4999843",
+      "time": "2026-07-21 16:57:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威GASSCO公司：阿斯加德氣田7月21日至22日非計劃停產，影響產量510萬立方米/日。"
+    },
+    {
+      "id": "4999842",
+      "time": "2026-07-21 16:57:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂山電力：2026年上半年淨利潤688.39萬元，同比下降12.90%】樂山電力釋出業績快報，2026年上半年營業總收入15.33億元，同比下降5.55%。淨利潤688.39萬元，同比下降12.90%。報告期內，執行居民低谷電價政策減少售電收入，執行新購天然氣合同、調整購氣結構計價結算規則增加購氣成本，使得報告期內營業利潤、利潤總額、歸屬於上市公司股東的淨利潤、歸屬於上市公司股東的扣除非經常性損益的淨利潤均同比下降。"
+    },
+    {
+      "id": "4999841",
+      "time": "2026-07-21 16:57:00",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【深市回購增持熱度持續走高 7月計劃上限超116億元】7月17日以來，深市63家公司披露增持回購相關公告。其中，披露新增增持回購計劃29家次。拉長時間來看，7月以來，深市披露回購增持相關公告合計304家次，其中新增增持回購計劃79家次，計劃增持回購金額上限116.85億元。"
+    },
+    {
+      "id": "4999840",
+      "time": "2026-07-21 16:56:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盛邦安全：292.97萬股首發限售股7月29日上市流通】盛邦安全公告稱，本次上市流通的限售股為首發限售股份，涉及3名限售股東。因部分人員間接持股鎖定期延長，本次上市流通的限售股數量為2,929,712股，佔公司總股本的2.86%，限售期36個月。該部分股份將於2026年7月29日起上市流通。保薦機構對本次限售股上市流通事項無異議。"
+    },
     {
       "id": "4999839",
       "time": "2026-07-21 16:56:26",
