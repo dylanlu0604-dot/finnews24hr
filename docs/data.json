@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-22 04:47:31",
-  "count": 18084,
+  "updated": "2026-07-22 04:51:27",
+  "count": 18083,
   "items": [
+    {
+      "id": "5000892",
+      "time": "2026-07-22 04:48:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：感謝所有眾議院共和黨議員，你們支援將《拯救美國法案》的儘可能多的內容納入預演算法案，邁出了關鍵第一步；同時也感謝眾議院議長邁克·約翰遜。我呼籲全體眾議院共和黨議員對這份至關重要的預算決議投下贊成票。我會密切關注此次投票，也希望共和黨人能夠團結一致，防範各類外國勢力干預選舉、杜絕非法移民參與投票，保障選舉安全。"
+    },
     {
       "id": "5000891",
       "time": "2026-07-22 04:45:48",
@@ -166239,27 +166247,6 @@
         "市場"
       ],
       "text": "【美元指數14日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.31%，在匯市尾市收於100.919。截至紐約匯市尾市，1歐元兌換1.1423美元，高於前一交易日的1.1387美元；1英鎊兌換1.3382美元，高於前一交易日的1.3360美元。1美元兌換162.20日元，低於前一交易日的162.36日元；1美元兌換0.8092瑞士法郎，低於前一交易日的0.8141瑞士法郎；1美元兌換1.4067加元，低於前一交易日的1.4151加元；1美元兌換9.6586瑞典克朗，低於前一交易日的9.7079瑞典克朗。"
-    },
-    {
-      "id": "te:economy:566908",
-      "time": "2026-07-15 04:50:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Argentina",
-        "Inflation Rate MoM",
-        "Importance 1"
-      ],
-      "text": "Argentina Monthly Inflation Eases in June — Argentina's consumer price index rose 1.9% month-over-month in June 2026, easing from 2.1% in the previous month and matching market expectations. Seasonal prices increased 3.4%, reflecting higher prices for vegetables and tourism services, including airfares, hotels, and package holidays, partly offset by lower fruit prices. Regulated prices advanced 2.3%, led by electricity and public transportation. The largest monthly increase was recorded in recreation and culture, which rose 4.2% due to higher package holiday prices, followed by housing, water, electricity, gas, and other fuels, up 3.3%. Communications (0.9%) and clothing and footwear (0.4%) posted the smallest increases. Core inflation rose 1.6%, driven by higher prices for bread and cereals, pharmaceuticals, and housing rents. On an annual basis, consumer prices increased 33.5%."
-    },
-    {
-      "id": "4988505",
-      "time": "2026-07-15 04:47:31",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國鋁業公司：將在西澳大利亞州韋傑普氧化鋁精煉廠配套建設並運營鎵提煉工廠， 完成場地最終籌備工作後，鎵提煉工廠將啟動施工建設。 公司參與該合資專案預計不會對自身財務狀況及經營業績產生重大影響。"
     }
   ]
 }
