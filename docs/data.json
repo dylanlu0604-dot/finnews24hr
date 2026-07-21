@@ -1,7 +1,139 @@
 {
-  "updated": "2026-07-21 20:13:13",
+  "updated": "2026-07-21 20:17:18",
   "count": 18567,
   "items": [
+    {
+      "id": "te:economy:568564",
+      "time": "2026-07-21 20:16:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Cuts Rate as Expected — The National Bank of Hungary lowered its base rate by 25 basis points to 5.75% at its July 2026 meeting, in line with market expectations and extending its easing cycle. The decision came as annual inflation eased to 1.7% in June from 1.8% in May, remaining below the central bank's 2%-4% target range for a second consecutive month, providing room for further monetary easing. Governor Mihály Varga indicated that one additional rate cut could be delivered over the summer before the central bank reassesses the outlook alongside updated macroeconomic projections in September. However, the forint has weakened by nearly 2% against the euro since the previous meeting amid renewed geopolitical tensions in the Middle East, increasing upside risks to inflation through higher energy import costs."
+    },
+    {
+      "id": "mkt:019f849a-f969-7aab-8e28-8bab8a5b0270",
+      "time": "2026-07-21 20:16:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said 3% growth for the US economy would not be unreasonable."
+    },
+    {
+      "id": "5000387",
+      "time": "2026-07-21 20:15:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就經濟發表觀點：3%的增速並非不合理。"
+    },
+    {
+      "id": "mkt:019f849a-7b16-7aab-8e28-849e547303ce",
+      "time": "2026-07-21 20:15:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US Treasury Secretary Bessent said US economic fundamentals are very strong and core inflation is stable."
+    },
+    {
+      "id": "mkt:019f849a-3607-7aab-8e28-7a0f96b88bba",
+      "time": "2026-07-21 20:15:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP weekly employment report: over the four weeks to July 4, 2026, private-sector employers added an average of 16,500 jobs per week."
+    },
+    {
+      "id": "5000386",
+      "time": "2026-07-21 20:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：美國經濟基本面十分強勁，核心物價保持穩定。"
+    },
+    {
+      "id": "5000385",
+      "time": "2026-07-21 20:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月4日當週ADP就業人數週度變動 1.65萬人，前值1.975萬人。"
+    },
+    {
+      "id": "te:economy:568563",
+      "time": "2026-07-21 20:15:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Mexico Retail Growth Slows in May — Mexico's retail sales rose 1.6% year-on-year in May 2026 after increasing 4.4% in the prior month. Strong growth in sales through online channels, printed catalogues, TV and similar platforms (12%), healthcare products (7.7%), textiles, accessories, footwear and clothing (6.3%), household appliances, computers, home décor and second-hand goods (5.8%), and motor vehicles, spare parts, fuels, and lubricants (3.2%) more than offset declines in grocery items, food, beverages, ice and tobacco (-7.1%) and stationery, recreational goods, and other personal-use items (-2.4%). On a seasonally adjusted monthly basis, retail sales fell 0.6% following a 0.8% increase in April."
+    },
+    {
+      "id": "mkt:019f8499-f481-7aab-8e28-7640b94b994c",
+      "time": "2026-07-21 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. ADP private payrolls change, week ended July 4: +16.5k; prior +19.75k."
+    },
+    {
+      "id": "5000384",
+      "time": "2026-07-21 20:14:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬科A：深鐵集團提供不超過5.19億元股東借款】萬科A公告，公司第一大股東深圳市地鐵集團有限公司向公司提供不超過5.19億元借款，用於償還公司在公開市場發行的債券本息及指定借款利息。借款期限最晚不晚於首筆借款資金實際支付之日起3年屆滿之日，借款利率為1年期LPR減71個基點，目前為2.29%。公司及下屬子公司以海南萬駿享有的應收賬款及處置收益提供質押擔保，質押率為100%。本次借款已獲公司董事會審議透過，關聯董事迴避表決。"
+    },
+    {
+      "id": "mkt:019f8498-7fad-7aab-8e28-69110ffa837f",
+      "time": "2026-07-21 20:13:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said he is beginning to see the emergence of U.S. open-source models."
+    },
+    {
+      "id": "mkt:019f8497-c0a6-7aab-8e28-61dff2137767",
+      "time": "2026-07-21 20:12:45",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM CFO said higher gasoline prices have not affected sales."
+    },
+    {
+      "id": "5000382",
+      "time": "2026-07-21 20:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特談人工智慧：我們正在創造競爭對手。"
+    },
     {
       "id": "5000381",
       "time": "2026-07-21 20:12:13",
@@ -171025,116 +171157,6 @@
         "公司"
       ],
       "text": "【*ST嶺南：2025年營收降86.99% 面臨多項風險】*ST嶺南公告稱，2025年度，公司營收1.12億元，同比下降86.99%；歸屬於上市公司股東的淨利潤虧損23.36億元，虧損增加137.29%。2026年1-3月，營收3970.25萬元，同比下滑41.27%；淨利潤虧損13352.78萬元，虧損增加101.10%。公司面臨“嶺南轉債”無法按期兌付、持續經營、增信計劃抵質押資產變現、股票退市、訴訟等風險。近日，“嶺南轉債”受託管理人申請據實調整債券權利主張，公司股票也存在因股價低於面值被終止上市的風險。"
-    },
-    {
-      "id": "4987687",
-      "time": "2026-07-14 20:17:00",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：烏克蘭國有軍工企業烏克蘭國防工業集團負責人斯梅塔寧宣佈辭職。"
-    },
-    {
-      "id": "4987686",
-      "time": "2026-07-14 20:16:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【德石股份：股東顏世明減持11.14萬股 減持計劃實施完畢】德石股份公告稱，股東顏世明原計劃減持12萬股（佔當時剔除回購專戶股份數後總股本的0.0810%）。2026年5月28日公司實施轉增股本。截至7月13日減持時間屆滿，顏世明透過集中競價於5月18 - 20日減持11.14萬股，佔剔除回購專用賬戶股份後總股本的0.0576%，減持價格26 - 27.01元/股。減持後其持股降至47.92萬股，佔總股本的0.2457%。本次減持計劃實施完畢，未導致公司控制權變更，不影響持續經營。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607143805935917",
-      "time": "2026-07-14 20:16:12",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國上週ADP就業人數增加1.975萬人，前值2.1萬人。"
-    },
-    {
-      "id": "4987685",
-      "time": "2026-07-14 20:16:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國地質調查局：阿拉斯加福爾瑟斯通道東南 111 公里處發生 5.2 級地震。"
-    },
-    {
-      "id": "mkt:019f608d-c8b6-7aab-8d7b-8d4af4c588ee",
-      "time": "2026-07-14 20:15:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "ADP weekly employment report: In the four weeks ending June 27, 2026, private-sector employers added an average of 19,750 jobs per week."
-    },
-    {
-      "id": "4987684",
-      "time": "2026-07-14 20:15:28",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一：道指期貨跌0.57%，標普500指數期貨跌0.15%，納指期貨漲0.46%。\n②德國DAX指數跌0.86%，英國富時100指數跌0.43%，法國CAC40指數跌0.72%，歐洲斯托克50指數跌0.65%。\n③WTI原油漲2.44%，報80.10美元/桶。布倫特原油漲3.95%，報86.58美元/桶。\n④特朗普稱美國計劃控制霍爾木茲海峽並從中獲利，對經過霍爾木茲海峽運輸的貨物收取20%的費用，以補償美方守護霍爾木茲海峽成本成本，相關部署工作將立即啟動。\n⑤美聯儲7月維持利率不變的機率為58.3%，累計加息25個基點的機率為41.7%。\n⑥美國銀行最新分析顯示，SK海力士至2028年實際可新增的儲存晶片產能，可能僅為原計劃的六分之一，這一判斷不僅令韓國政府的產能擴張藍圖大打折扣，更為正在進行中的DRAM價格操縱集體訴訟提供了關鍵佐證。\n⑦IBM盤前股價下跌23.5%，此前IBM公佈的初步季度營收低於分析師預期\n⑧微軟盤前跌幅擴大至 3.3%。\n⑨美國銀行股價在盤前交易時段公佈第二財季業績後上漲1.6%。"
-    },
-    {
-      "id": "mkt:019f608d-b5e4-7aab-8d7b-842428118a2f",
-      "time": "2026-07-14 20:15:27",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "US ADP weekly employment change for week through June 27: +19.75k; prior +21.0k."
-    },
-    {
-      "id": "4987683",
-      "time": "2026-07-14 20:15:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "ADP：截至 6 月 27 日的四周內，美國私營企業就業崗位平均每週新增 19750 個 。"
-    },
-    {
-      "id": "4987682",
-      "time": "2026-07-14 20:14:43",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：甲骨文推出原生 AI 開發工具，可在甲骨文融合應用中搭建並執行智慧代理應用。"
-    },
-    {
-      "id": "4987681",
-      "time": "2026-07-14 20:14:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST步森：2026年上半年營收增長 淨利潤虧損擴大】*ST步森公告稱，預計2026年1月1日至6月30日，營收6500萬元至8500萬元，較去年同期的5195.14萬元有所增長；歸屬於上市公司股東的淨利潤虧損1250萬元至1700萬元，較上年同期的1046.02萬元有所增加，同比下降19.50%至62.52%。業績變動主要因資訊化業務毛利率低、偶發性訴訟支出及人員結構最佳化調整費用增加。"
-    },
-    {
-      "id": "4987680",
-      "time": "2026-07-14 20:13:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【河鋼資源：預計上半年淨虧損1.45億元～1.15億元】河鋼資源公告，預計2026年上半年淨利潤虧損1.45億元～1.15億元，上年同期淨利潤為2.62億元。報告期內，受持續強降雨及區域性洪水影響，公司子公司帕拉博拉銅業有限公司所在地南非林波波省及相鄰的普瑪蘭加省遭遇嚴重洪澇災害，導致銅產品產銷停滯，營業收入下降；同時疊加廠區搶險、井下排水、設施修復等支出，固定運營成本無法同步縮減。"
-    },
-    {
-      "id": "4987679",
-      "time": "2026-07-14 20:13:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮盛發展：預計上半年淨利潤虧損9.5億元–14億元】榮盛發展公告，預計2026年上半年淨利潤虧損9.5億元–14億元，上年同期虧損28.67億元。導致本期業績變動的主要原因如下：第一，受房地產市場持續調整影響，公司上半年結轉收入較去年同期下降，利息支出等費用在營業總成本中佔比較高，導致業績承壓；第二，2026年上半年，公司持續推進經營化債與金融化債，債務結構進一步最佳化，公司2026年上半年非經常性損益中的化債收益預計為9億元–11億元，較去年同期增加，從而使得歸屬於上市公司股東的淨利潤同比大幅提升；第三，公司保交樓穩步推進，物業、酒店、商管等產業化業務加快發展，由輔轉主初見成效。"
-    },
-    {
-      "id": "4987678",
-      "time": "2026-07-14 20:13:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京科銳：預計2026年上半年淨虧損1500萬元-2500萬元】北京科銳公告，預計2026年1月1日—2026年6月30日歸屬於上市公司股東的淨虧損為1500萬元-2500萬元，上年同期盈利1699.14萬元。報告期內公司營業收入實現同比增長，但受訂單來源、產品結構及原材料價格波動等影響導致綜合毛利率同比下降，毛利額增長不及預期；公司於2025年第四季度推出的第二期員工持股計劃在本報告期內攤銷3432.38萬元，導致期間費用較上年同期增加；公司本報告期對存在減值跡象的資產計提的減值準備較上年同期增加。"
     }
   ]
 }

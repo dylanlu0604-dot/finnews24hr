@@ -1,7 +1,139 @@
 {
   "date": "2026-07-21",
-  "count": 2788,
+  "count": 2801,
   "items": [
+    {
+      "id": "te:economy:568564",
+      "time": "2026-07-21 20:16:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hungary",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Hungary Cuts Rate as Expected — The National Bank of Hungary lowered its base rate by 25 basis points to 5.75% at its July 2026 meeting, in line with market expectations and extending its easing cycle. The decision came as annual inflation eased to 1.7% in June from 1.8% in May, remaining below the central bank's 2%-4% target range for a second consecutive month, providing room for further monetary easing. Governor Mihály Varga indicated that one additional rate cut could be delivered over the summer before the central bank reassesses the outlook alongside updated macroeconomic projections in September. However, the forint has weakened by nearly 2% against the euro since the previous meeting amid renewed geopolitical tensions in the Middle East, increasing upside risks to inflation through higher energy import costs."
+    },
+    {
+      "id": "mkt:019f849a-f969-7aab-8e28-8bab8a5b0270",
+      "time": "2026-07-21 20:16:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US Treasury Secretary Bessent said 3% growth for the US economy would not be unreasonable."
+    },
+    {
+      "id": "mkt:019f849a-7b16-7aab-8e28-849e547303ce",
+      "time": "2026-07-21 20:15:44",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US Treasury Secretary Bessent said US economic fundamentals are very strong and core inflation is stable."
+    },
+    {
+      "id": "5000387",
+      "time": "2026-07-21 20:15:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部長貝森特就經濟發表觀點：3%的增速並非不合理。"
+    },
+    {
+      "id": "mkt:019f849a-3607-7aab-8e28-7a0f96b88bba",
+      "time": "2026-07-21 20:15:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ADP weekly employment report: over the four weeks to July 4, 2026, private-sector employers added an average of 16,500 jobs per week."
+    },
+    {
+      "id": "5000386",
+      "time": "2026-07-21 20:15:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "貝森特：美國經濟基本面十分強勁，核心物價保持穩定。"
+    },
+    {
+      "id": "te:economy:568563",
+      "time": "2026-07-21 20:15:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Mexico Retail Growth Slows in May — Mexico's retail sales rose 1.6% year-on-year in May 2026 after increasing 4.4% in the prior month. Strong growth in sales through online channels, printed catalogues, TV and similar platforms (12%), healthcare products (7.7%), textiles, accessories, footwear and clothing (6.3%), household appliances, computers, home décor and second-hand goods (5.8%), and motor vehicles, spare parts, fuels, and lubricants (3.2%) more than offset declines in grocery items, food, beverages, ice and tobacco (-7.1%) and stationery, recreational goods, and other personal-use items (-2.4%). On a seasonally adjusted monthly basis, retail sales fell 0.6% following a 0.8% increase in April."
+    },
+    {
+      "id": "5000385",
+      "time": "2026-07-21 20:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國至7月4日當週ADP就業人數週度變動 1.65萬人，前值1.975萬人。"
+    },
+    {
+      "id": "mkt:019f8499-f481-7aab-8e28-7640b94b994c",
+      "time": "2026-07-21 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "U.S. ADP private payrolls change, week ended July 4: +16.5k; prior +19.75k."
+    },
+    {
+      "id": "5000384",
+      "time": "2026-07-21 20:14:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬科A：深鐵集團提供不超過5.19億元股東借款】萬科A公告，公司第一大股東深圳市地鐵集團有限公司向公司提供不超過5.19億元借款，用於償還公司在公開市場發行的債券本息及指定借款利息。借款期限最晚不晚於首筆借款資金實際支付之日起3年屆滿之日，借款利率為1年期LPR減71個基點，目前為2.29%。公司及下屬子公司以海南萬駿享有的應收賬款及處置收益提供質押擔保，質押率為100%。本次借款已獲公司董事會審議透過，關聯董事迴避表決。"
+    },
+    {
+      "id": "mkt:019f8498-7fad-7aab-8e28-69110ffa837f",
+      "time": "2026-07-21 20:13:34",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "U.S. Treasury Secretary BESSENT said he is beginning to see the emergence of U.S. open-source models."
+    },
+    {
+      "id": "mkt:019f8497-c0a6-7aab-8e28-61dff2137767",
+      "time": "2026-07-21 20:12:45",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact bullish"
+      ],
+      "text": "GM CFO said higher gasoline prices have not affected sales."
+    },
+    {
+      "id": "5000382",
+      "time": "2026-07-21 20:12:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "貝森特談人工智慧：我們正在創造競爭對手。"
+    },
     {
       "id": "5000381",
       "time": "2026-07-21 20:12:13",
