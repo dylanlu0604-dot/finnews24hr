@@ -1,7 +1,62 @@
 {
   "date": "2026-07-22",
-  "count": 255,
+  "count": 261,
   "items": [
+    {
+      "id": "5000868",
+      "time": "2026-07-22 04:14:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基任命德拉帕蒂為烏克蘭武裝部隊總司令】烏克蘭總統澤連斯基當地時間21日晚釋出影片講話，宣佈由德拉帕蒂接替瑟爾斯基出任烏克蘭武裝部隊總司令。"
+    },
+    {
+      "id": "5000867",
+      "time": "2026-07-22 04:13:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "戴爾、慧與股價跟隨超微電腦走高，上漲3%。"
+    },
+    {
+      "id": "5000866",
+      "time": "2026-07-22 04:13:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "超微電腦盤後漲超26%。"
+    },
+    {
+      "id": "mkt:019f864e-fbdf-7aab-8e31-bee70868497b",
+      "time": "2026-07-22 04:12:30",
+      "tags": [
+        "MKT News",
+        "FFIE.O",
+        "Impact bearish"
+      ],
+      "text": "Faraday Future (FFIE.O) will implement a 150-for-1 reverse stock split before market open on July 24, 2026."
+    },
+    {
+      "id": "5000865",
+      "time": "2026-07-22 04:12:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思向國會申請1.5萬億美元撥款，用於新設“戰爭部”，這意味著軍費將大幅擴張；隨後他又將五角大樓還需追加5000億美元預算的緣由歸咎於喬·拜登。"
+    },
+    {
+      "id": "te:markets:568622",
+      "time": "2026-07-22 04:12:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Stocks Advance on Chipmaker Rally — US stock indices closed higher on Tuesday as a rally in chipmakers lifted the broader market. The S&P 500 added 0.9%, the Nasdaq 100 advanced 1.9%, and the Dow Jones gained 385 points. Semiconductor stocks extended their rebound from last week's rout after strong export data from Taiwan and South Korea reinforced optimism for the sector. Nvidia gained 2% after saying its latest chip designs are reaching customers, while Intel climbed 8.6% on plans for job cuts. Micron (+12.2%), Sandisk (+14.3%), and AMD (+8.1%) surged. The sector rallied ahead of Alphabet's (-1.4%) earnings on Wednesday, which are expected to provide fresh signals on AI infrastructure demand from hyperscalers. Meanwhile, other sectors stabilized despite further escalation between the US and Iran and the resulting rise in oil prices. Treasury yields remained elevated, limiting gains in financial stocks. Elsewhere, GM rose 4.9 % after reporting earnings, while Charles Schwab fell 2.5% after missing estimates."
+    },
     {
       "id": "5000864",
       "time": "2026-07-22 04:10:30",
