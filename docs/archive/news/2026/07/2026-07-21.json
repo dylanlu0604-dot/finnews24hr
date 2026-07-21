@@ -1,7 +1,68 @@
 {
   "date": "2026-07-21",
-  "count": 651,
+  "count": 657,
   "items": [
+    {
+      "id": "mkt:019f8253-a159-7aab-8e18-8579594c8e78",
+      "time": "2026-07-21 09:39:06",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CSI 500 index futures front contract (IC) breached 7,400 points, up 2.65% intraday."
+    },
+    {
+      "id": "mkt:019f8253-5f31-7aab-8e18-7effdefea509",
+      "time": "2026-07-21 09:38:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish"
+      ],
+      "text": "Shenzhen Composite Index rose over 1%. Among constituents, Guoci Materials, Yuxin Technology and Sifang Jingchuang each gained more than 11%."
+    },
+    {
+      "id": "mkt:019f8253-2c68-7aab-8e18-70358ea7f38b",
+      "time": "2026-07-21 09:38:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China retail cash-product 7‑day yield snapshot】Licaitong on-demand 7‑day annualized yield ranged 0.7710%–1.4500%. WeChat Wallet 7‑day annualized yield ranged 0.9220%–1.0520%. Alipay Yu’e Bao 7‑day annualized yield ranged 0.9860%–1.0670%."
+    },
+    {
+      "id": "mkt:019f8252-8fdd-7aab-8e18-6b9982f85407",
+      "time": "2026-07-21 09:37:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "China Tech Giants"
+      ],
+      "text": "Yangdian Technology shares hit the 20% daily trading limit after its wholly owned subsidiary signed an RMB 860 mln computing-power services contract, equivalent to 67.22% of the company's 2025 revenue."
+    },
+    {
+      "id": "mkt:019f8252-0114-7aab-8e18-6410507b5ec9",
+      "time": "2026-07-21 09:37:19",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "A-share digital-currency sector strengthened in early trade; Sifang Jingchuang rose over 10% and Zhongjia Bochuang hit the daily limit. Xingwang Ruijie, Changliang Technology, Zhengtong Electronics, Dianke Wang'an and Tianyang Technology also advanced."
+    },
+    {
+      "id": "mkt:019f8251-3273-7aab-8e18-5f7c619e8c1b",
+      "time": "2026-07-21 09:36:27",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's Lee said market participants believe leveraged products present material policy concerns and that supplementary measures are needed."
+    },
     {
       "id": "4998760",
       "time": "2026-07-21 09:34:52",
