@@ -1,7 +1,65 @@
 {
   "date": "2026-07-21",
-  "count": 3279,
+  "count": 3286,
   "items": [
+    {
+      "id": "5000678",
+      "time": "2026-07-21 23:30:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收漲0.51%，報24973.35點。法國股指初步收漲0.10%，義大利股指初步收漲0.69%、銀行指數漲0.94%，英國股指初步收漲0.39%。"
+    },
+    {
+      "id": "mkt:019f854c-a0f4-7aab-8e2d-eda5601bb15d",
+      "time": "2026-07-21 23:30:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says US will step up support for Lebanon; not interested in meeting Iran】At a White House meeting with Lebanon’s president, Trump said US-Lebanon ties are strong and the US will substantially increase assistance to Lebanon. He said Israel is withdrawing forces from Lebanon and redeploying them elsewhere. On a new round of US-Iran talks, Trump said Iran wants a meeting but he will not meet until Iran is ready."
+    },
+    {
+      "id": "5000677",
+      "time": "2026-07-21 23:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收漲0.43%，報642.37點。歐元區STOXX 50指數初步收漲0.78%，報6275.86點。富時泛歐績優300指數初步收漲0.48%，報2568.14點。"
+    },
+    {
+      "id": "5000676",
+      "time": "2026-07-21 23:30:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄烏持續發動無人機互襲】21日，俄國防部稱在多地攔截並摧毀烏克蘭無人機，烏克蘭方面則稱在多個方向壓制或擊落俄無人機。21日，俄羅斯國防部通報，20日夜間至21日凌晨，俄軍防空力量在莫斯科地區等多地以及克里米亞、亞速海和黑海水域上空，攔截並摧毀209架烏克蘭固定翼無人機。俄羅斯別爾哥羅德州代理州長舒瓦耶夫21日通報，過去一天內，該州因烏軍襲擊導致9人死亡、77人受傷。烏克蘭空軍21日通報稱，自20日18點起，俄軍使用58架攻擊型無人機襲擊烏克蘭。根據初步資料，烏克蘭防空部隊在北部、南部和東部擊落或壓制46架各型別無人機。烏克蘭蘇梅州軍事行政長官格里戈羅夫通報，俄軍一架無人機襲擊造成6人受傷。(央視新聞)"
+    },
+    {
+      "id": "mkt:019f854c-650b-7aab-8e2d-e46353c60899",
+      "time": "2026-07-21 23:30:03",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bullish"
+      ],
+      "text": "After seven straight trading-day declines, SpaceX (SPCX.O) shares rose 7.6%."
+    },
+    {
+      "id": "5000675",
+      "time": "2026-07-21 23:29:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：這是有史以來最成功的一屆世界盃。"
+    },
+    {
+      "id": "5000674",
+      "time": "2026-07-21 23:28:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX 結束連續七日下跌，股價上漲 7.6%。"
+    },
     {
       "id": "5000673",
       "time": "2026-07-21 23:26:38",
