@@ -1,7 +1,157 @@
 {
   "date": "2026-07-21",
-  "count": 3008,
+  "count": 3024,
   "items": [
+    {
+      "id": "mkt:019f84e0-0f1a-7aab-8e2b-02e20bff0fd4",
+      "time": "2026-07-21 21:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Philadelphia Semiconductor Index opened 4.8% higher."
+    },
+    {
+      "id": "5000524",
+      "time": "2026-07-21 21:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "EQUIFAX下調全年業績預期後，股價開盤下跌14%。"
+    },
+    {
+      "id": "mkt:019f84df-e02b-7aab-8e2a-fb8461df09a1",
+      "time": "2026-07-21 21:31:32",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks opened higher on Tuesday, July 21: Dow Jones Industrial Average +230.57 pts (+0.44%) at 52,069.83; S&P 500 +38.24 pts (+0.51%) at 7,481.71; Nasdaq Composite +227.56 pts (+0.89%) at 25,735.63."
+    },
+    {
+      "id": "mkt:019f84df-c980-7aab-8e2a-f7bf4c76c2e7",
+      "time": "2026-07-21 21:31:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude advanced more than 2.0% intraday to $89.26/bbl."
+    },
+    {
+      "id": "5000523",
+      "time": "2026-07-21 21:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "丹納赫公佈第二季度業績後，股價下跌 16.7%。"
+    },
+    {
+      "id": "5000522",
+      "time": "2026-07-21 21:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈利伯頓股價在公佈第二季度業績後下跌4.2%。"
+    },
+    {
+      "id": "5000521",
+      "time": "2026-07-21 21:30:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "3M股價上漲6.8%，創10月21日以來最大漲幅。"
+    },
+    {
+      "id": "5000520",
+      "time": "2026-07-21 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.43%，標普500指數漲0.64%，納指漲0.95%。泰瑞達漲9.40%，西部資料漲8.97%，閃迪漲8.66%，Coherent Corp漲8.56%，3M漲7.93%。“七姐妹”方面：英偉達漲2.36%，特斯拉漲1.27%，Meta Platforms漲0.82%，蘋果跌0.54%，亞馬遜跌0.61%，谷歌跌0.91%，微軟跌1.16%。"
+    },
+    {
+      "id": "5000519",
+      "time": "2026-07-21 21:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "UTZ BRANDS股價因私有化交易飆升89%，創歷史新高。"
+    },
+    {
+      "id": "5000518",
+      "time": "2026-07-21 21:30:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐伊使館人員遭拘押 法國向伊朗提出嚴正交涉】當地時間7月21日，法國外交部召見伊朗駐法國使館臨時代辦，就兩名法國駐伊朗使館工作人員7月19日遭伊朗安全部門拘押、訊問並恐嚇事件提出嚴正交涉。法方強烈譴責這起“有預謀、蓄意實施”的行為，指出事件公然違反國際法及《維也納外交關係公約》，嚴重侵犯外交人員享有的安全保障，破壞國家間正常外交關係。法國重申，此次事件“極其嚴重、不可接受”，不會沒有後果。此前一天，巴羅已就此向伊朗外長提出嚴正交涉。法國要求伊朗方面立即查明事件真相，依法追究責任人，並依據國際義務切實保障法國駐伊外交機構及外交人員的人身安全。7月20日晚，法國外交部長巴羅透露，兩名法國駐伊朗使館工作人員於7月19日晚被伊朗安全部門無故扣留數小時，其中一人遭到粗暴對待。（央視新聞）"
+    },
+    {
+      "id": "te:markets:568571",
+      "time": "2026-07-21 21:30:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 8-week Low — Danaher shares decreased to 166.84 USD, the lowest since May 2026. Over the past 4 weeks, Danaher gained 12.86%, and in the last 12 months, it increased 6.93%."
+    },
+    {
+      "id": "5000517",
+      "time": "2026-07-21 21:29:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "RTX旗下普惠加拿大公司將在加拿大和魁北克政府支援下，向隆格伊工廠投資2.75億加元。"
+    },
+    {
+      "id": "5000516",
+      "time": "2026-07-21 21:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：科威特和巴林響起警報。科威特方面表示，目前正在應對伊朗的無人機和導彈威脅。"
+    },
+    {
+      "id": "mkt:019f84dd-1c95-7aab-8e2a-ef3df766801b",
+      "time": "2026-07-21 21:28:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwaiti authorities said they are currently responding to drone and missile threats from Iran."
+    },
+    {
+      "id": "5000515",
+      "time": "2026-07-21 21:28:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長表示，他認為福林當前的匯率水平既不算強勢，也不算弱勢。"
+    },
+    {
+      "id": "mkt:019f84dc-a044-7aab-8e2a-e32115990c28",
+      "time": "2026-07-21 21:27:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: alarms sounded in Kuwait and Bahrain."
+    },
     {
       "id": "mkt:019f84dc-6164-7aab-8e2a-d9d12a4caf86",
       "time": "2026-07-21 21:27:43",

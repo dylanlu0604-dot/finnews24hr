@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-21 21:28:29",
-  "count": 18453,
+  "updated": "2026-07-21 21:32:39",
+  "count": 18449,
   "items": [
+    {
+      "id": "mkt:019f84e0-0f1a-7aab-8e2b-02e20bff0fd4",
+      "time": "2026-07-21 21:31:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Nasdaq100",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Philadelphia Semiconductor Index opened 4.8% higher."
+    },
+    {
+      "id": "5000524",
+      "time": "2026-07-21 21:31:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "EQUIFAX下調全年業績預期後，股價開盤下跌14%。"
+    },
+    {
+      "id": "mkt:019f84df-e02b-7aab-8e2a-fb8461df09a1",
+      "time": "2026-07-21 21:31:32",
+      "tags": [
+        "MKT News",
+        "Dow",
+        "Impact bullish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. stocks opened higher on Tuesday, July 21: Dow Jones Industrial Average +230.57 pts (+0.44%) at 52,069.83; S&P 500 +38.24 pts (+0.51%) at 7,481.71; Nasdaq Composite +227.56 pts (+0.89%) at 25,735.63."
+    },
+    {
+      "id": "mkt:019f84df-c980-7aab-8e2a-f7bf4c76c2e7",
+      "time": "2026-07-21 21:31:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude advanced more than 2.0% intraday to $89.26/bbl."
+    },
+    {
+      "id": "5000523",
+      "time": "2026-07-21 21:31:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "丹納赫公佈第二季度業績後，股價下跌 16.7%。"
+    },
+    {
+      "id": "5000522",
+      "time": "2026-07-21 21:31:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "哈利伯頓股價在公佈第二季度業績後下跌4.2%。"
+    },
+    {
+      "id": "5000521",
+      "time": "2026-07-21 21:30:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "3M股價上漲6.8%，創10月21日以來最大漲幅。"
+    },
+    {
+      "id": "5000520",
+      "time": "2026-07-21 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊漲】道指漲0.43%，標普500指數漲0.64%，納指漲0.95%。泰瑞達漲9.40%，西部資料漲8.97%，閃迪漲8.66%，Coherent Corp漲8.56%，3M漲7.93%。“七姐妹”方面：英偉達漲2.36%，特斯拉漲1.27%，Meta Platforms漲0.82%，蘋果跌0.54%，亞馬遜跌0.61%，谷歌跌0.91%，微軟跌1.16%。"
+    },
+    {
+      "id": "5000519",
+      "time": "2026-07-21 21:30:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "UTZ BRANDS股價因私有化交易飆升89%，創歷史新高。"
+    },
+    {
+      "id": "5000518",
+      "time": "2026-07-21 21:30:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "【駐伊使館人員遭拘押 法國向伊朗提出嚴正交涉】當地時間7月21日，法國外交部召見伊朗駐法國使館臨時代辦，就兩名法國駐伊朗使館工作人員7月19日遭伊朗安全部門拘押、訊問並恐嚇事件提出嚴正交涉。法方強烈譴責這起“有預謀、蓄意實施”的行為，指出事件公然違反國際法及《維也納外交關係公約》，嚴重侵犯外交人員享有的安全保障，破壞國家間正常外交關係。法國重申，此次事件“極其嚴重、不可接受”，不會沒有後果。此前一天，巴羅已就此向伊朗外長提出嚴正交涉。法國要求伊朗方面立即查明事件真相，依法追究責任人，並依據國際義務切實保障法國駐伊外交機構及外交人員的人身安全。7月20日晚，法國外交部長巴羅透露，兩名法國駐伊朗使館工作人員於7月19日晚被伊朗安全部門無故扣留數小時，其中一人遭到粗暴對待。（央視新聞）"
+    },
+    {
+      "id": "te:markets:568571",
+      "time": "2026-07-21 21:30:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Danaher Stock Price Hits 8-week Low — Danaher shares decreased to 166.84 USD, the lowest since May 2026. Over the past 4 weeks, Danaher gained 12.86%, and in the last 12 months, it increased 6.93%."
+    },
+    {
+      "id": "5000517",
+      "time": "2026-07-21 21:29:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "RTX旗下普惠加拿大公司將在加拿大和魁北克政府支援下，向隆格伊工廠投資2.75億加元。"
+    },
+    {
+      "id": "5000516",
+      "time": "2026-07-21 21:28:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：科威特和巴林響起警報。科威特方面表示，目前正在應對伊朗的無人機和導彈威脅。"
+    },
+    {
+      "id": "mkt:019f84dd-1c95-7aab-8e2a-ef3df766801b",
+      "time": "2026-07-21 21:28:30",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Kuwaiti authorities said they are currently responding to drone and missile threats from Iran."
+    },
+    {
+      "id": "5000515",
+      "time": "2026-07-21 21:28:00",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長表示，他認為福林當前的匯率水平既不算強勢，也不算弱勢。"
+    },
+    {
+      "id": "mkt:019f84dc-a044-7aab-8e2a-e32115990c28",
+      "time": "2026-07-21 21:27:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Market news: alarms sounded in Kuwait and Bahrain."
+    },
     {
       "id": "5000514",
       "time": "2026-07-21 21:27:43",
@@ -169722,222 +169872,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列對黎巴嫩南部發動襲擊。"
-    },
-    {
-      "id": "mkt:019f60d4-57c4-7aab-8d7e-e550e50fff4a",
-      "time": "2026-07-14 21:32:36",
-      "tags": [
-        "MKT News",
-        "JPM.O",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan's CFO said the range of regulatory volatility in the banking sector is narrowing."
-    },
-    {
-      "id": "4987898",
-      "time": "2026-07-14 21:32:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "富國銀行股價在公佈第二季度業績後下跌3.2%。"
-    },
-    {
-      "id": "4987897",
-      "time": "2026-07-14 21:32:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "國際能源署（IEA）警告稱，歐盟甲烷法規可能會限制歐盟內部的石油供應選擇。"
-    },
-    {
-      "id": "mkt:019f60d3-ab84-7aab-8d7e-dbe3fe1a1d1e",
-      "time": "2026-07-14 21:31:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "IBM.N",
-        "Impact bearish"
-      ],
-      "text": "IBM (IBM.N) plunged 23%, its largest intraday drop since 1987."
-    },
-    {
-      "id": "mkt:019f60d3-31c3-7aab-8d7e-d20d583766c0",
-      "time": "2026-07-14 21:31:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "U.S. equities opened mixed on Tuesday, July 14: Dow Jones Industrial Average down 65.95 points (-0.13%) at 52,432.69; S&P 500 up 17.48 points (+0.23%) at 7,532.82; Nasdaq Composite up 162.84 points (+0.63%) at 26,036.02."
-    },
-    {
-      "id": "4987896",
-      "time": "2026-07-14 21:31:17",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SK海力士美股上市股份上漲10.7%。"
-    },
-    {
-      "id": "mkt:019f60d2-e3de-7aab-8d7e-cb42a3377431",
-      "time": "2026-07-14 21:31:01",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "Copper",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "JP Morgan CFO: data center construction is a bellwether for overall activity."
-    },
-    {
-      "id": "4987894",
-      "time": "2026-07-14 21:30:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "IBM股價重挫22%，因初步公佈的第二季營收及調整後獲利均低於預估。"
-    },
-    {
-      "id": "4987893",
-      "time": "2026-07-14 21:30:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股開盤：三大股指漲跌不一】道指跌0.19%，標普500指數漲0.17%，納指持平。閃迪漲7.58%，Lumentum Holdings Inc. Common Stock When Issued漲7.01%，IBM跌21.87%，HCA控股跌8.96%。“七姐妹”方面：英偉達漲1.99%，特斯拉漲1.33%，谷歌跌0.29%，Meta Platforms跌0.51%，亞馬遜跌0.57%，蘋果跌1.03%，微軟跌2.39%。"
-    },
-    {
-      "id": "mkt:019f60d2-9aff-7aab-8d7e-c28db9dfaae8",
-      "time": "2026-07-14 21:30:42",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "MU.O",
-        "Impact bullish",
-        "SKHY.O",
-        "Nasdaq100"
-      ],
-      "text": "U.S. stocks opened with the Dow down 0.26%, the S&P 500 up 0.19% and the Nasdaq up 0.53%. SK Hynix ADR (SKHY.O) rose more than 11%, SanDisk (SNDK.O) gained over 7%, Micron Technology (MU.O) climbed over 5%, Qualcomm (QCOM.O) was up about 2% and Intel (INTC.O) rose about 4%."
-    },
-    {
-      "id": "4987892",
-      "time": "2026-07-14 21:30:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【羅技授權店鋪釋出侮辱性廣告被罰20萬元】信用中國網站顯示，6月29日，上海百事得電子有限公司被上海市靜安區市場監督管理局責令停止釋出，並罰款20萬元。違法事實為：當事人作為廣告主，於2026年3月25日至3月26日期間在抖音號釋出了含有侮辱性文字內容的影片廣告。"
-    },
-    {
-      "id": "4987891",
-      "time": "2026-07-14 21:30:25",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超0.5%，蔚來漲4.56%，萬國資料漲1.52%，華住酒店集團漲1.27%，聲網漲0.96%，鬥魚漲0.65%。"
-    },
-    {
-      "id": "te:markets:566849",
-      "time": "2026-07-14 21:30:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Euro Rebounds as Dollar Weakens on Soft US Inflation — The euro climbed to $1.145, its strongest level since June 19, supported by broad dollar weakness after softer-than-expected US inflation data eased pressure on the Federal Reserve to raise rates this year. Investors also reacted to escalating Middle East tensions and rising oil prices, which fueled concerns about inflation’s impact on monetary policy and economic growth. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, heightening uncertainty over energy flows. Markets responded by pricing in further European Central Bank rate hikes, with money markets now expecting a deposit rate of 2.70% by December (up from 2.25%) and fully anticipating a September increase."
-    },
-    {
-      "id": "mkt:019f60d2-4893-7aab-8d7e-bc193efa9708",
-      "time": "2026-07-14 21:30:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "【German yields rise on Iran-related inflation risk; US CPI cooling briefly eases gains】German two-year bond yield rose intraday to 2.7985%, the highest since July 2024, as markets worried an Iran conflict could lift energy prices, re-ignite inflation and force further central-bank tightening. Later, US June CPI cooled more than expected, bolstering expectations of a milder Fed path and trimming euro-area yield gains. Money markets now price the ECB deposit rate at 2.68% by December (current 2.25%), fully pricing a 25bp hike in September."
-    },
-    {
-      "id": "4987890",
-      "time": "2026-07-14 21:30:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "COINBASE GLOBAL INC：部分使用者在Flare網路上可能會遇到傳送和接收延遲的情況。"
-    },
-    {
-      "id": "te:markets:566848",
-      "time": "2026-07-14 21:30:07",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Intuitive Surgical Stock Price Hits 25-month Low — Intuitive Surgical shares decreased to 395.02 USD, the lowest since May 2024. Over the past 4 weeks, Intuitive Surgical lost 2.23%, and in the last 12 months, it decreased 21.14%."
-    },
-    {
-      "id": "te:markets:566847",
-      "time": "2026-07-14 21:30:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "IBM Stock Price Hits 7-week Low — IBM shares decreased to 226.24 USD, the lowest since May 2026. Over the past 4 weeks, IBM gained 8.01%, and in the last 12 months, it increased 2.27%."
-    },
-    {
-      "id": "4987889",
-      "time": "2026-07-14 21:29:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國官員表示今天對伊朗今天實施了有限數量的額外打擊，以消除在伊朗出現的新威脅。"
-    },
-    {
-      "id": "mkt:019f60d0-c75a-7aab-8d7e-b0e20e3aadf1",
-      "time": "2026-07-14 21:28:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "TRUMP: Labor Department report shows June headline CPI 3.5% YoY; seasonally adjusted CPI -0.4% MoM, the largest monthly drop in six years."
-    },
-    {
-      "id": "4987888",
-      "time": "2026-07-14 21:28:30",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "挪威航空執行長表示，歐洲航空公司仍普遍面臨通脹壓力。"
     }
   ]
 }
