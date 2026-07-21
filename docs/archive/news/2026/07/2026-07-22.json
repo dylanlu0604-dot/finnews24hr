@@ -1,7 +1,117 @@
 {
   "date": "2026-07-22",
-  "count": 224,
+  "count": 236,
   "items": [
+    {
+      "id": "mkt:019f8646-f39e-7aab-8e31-74402524cf3e",
+      "time": "2026-07-22 04:03:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI and Hugging Face announced a cooperation to jointly respond to safety incidents arising during model evaluation."
+    },
+    {
+      "id": "5000853",
+      "time": "2026-07-22 04:03:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI與Hugging Face達成合作，處理模型評估過程中的安全事件。"
+    },
+    {
+      "id": "mkt:019f8646-5d82-7aab-8e31-6aa3529a4d25",
+      "time": "2026-07-22 04:03:06",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.21% to 101.172 at New York close】The dollar index (DXY) rose 0.21% to 101.172 at the New York close. EUR/USD 1.1403, down from 1.1415; GBP/USD 1.3381, down from 1.3436. USD/JPY 163.18, up from 162.50; USD/CHF 0.8129, up from 0.8100; USD/CAD 1.4107, up from 1.4059; USD/SEK 9.7035, up from 9.6856."
+    },
+    {
+      "id": "5000852",
+      "time": "2026-07-22 04:03:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數21日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.21%，在匯市尾市收於101.172。截至紐約匯市尾市，1歐元兌換1.1403美元，低於前一交易日的1.1415美元；1英鎊兌換1.3381美元，低於前一交易日的1.3436美元。1美元兌換163.18日元，高於前一交易日的162.50日元；1美元兌換0.8129瑞士法郎，高於前一交易日的0.8100瑞士法郎；1美元兌換1.4107加元，高於前一交易日的1.4059加元；1美元兌換9.7035瑞典克朗，高於前一交易日的9.6856瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f8645-bf07-7aab-8e31-6364bf402363",
+      "time": "2026-07-22 04:02:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "MU.O",
+        "Impact bullish",
+        "SKHY.O",
+        "NVDA.O"
+      ],
+      "text": "【US close: major indexes higher; Micron and SK Hynix surge】U.S. equities closed higher on Tuesday: Dow +0.74%, S&P 500 +0.89%, Nasdaq +1.29%. SK Hynix (SKHY.O) jumped 13.7%, Micron Technology (MU.O) rose 12%, SanDisk (SNDK.O) gained 14%, NVIDIA (NVDA.O) advanced about 2% and SpaceX (SPCX.O) climbed 3%. The Nasdaq Golden Dragon China Index fell 0.69%; NetEase (NTES.O) dropped more than 3%."
+    },
+    {
+      "id": "5000851",
+      "time": "2026-07-22 04:02:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "SPACEX股價收盤上漲3.1%，結束連續七天的下跌。"
+    },
+    {
+      "id": "5000850",
+      "time": "2026-07-22 04:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "克里姆林宮：對於安迪・伯納姆就任英國新首相後俄英關係改善，俄方 “不抱任何希望”，批評伯納姆對烏克蘭提供支援。"
+    },
+    {
+      "id": "mkt:019f8644-75b0-7aab-8e31-5ce5631fbd0e",
+      "time": "2026-07-22 04:01:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's prime minister said the government is ready to implement the administrative and technical measures following Trump’s approval for US carriers to operate direct flights to Lebanon."
+    },
+    {
+      "id": "5000849",
+      "time": "2026-07-22 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收漲】道指漲0.74%，標普500指數漲0.89%，納指漲1.26%。閃迪漲14.27%，西部資料漲12.51%，泰瑞達漲12.07%，美光漲12.03%。“七姐妹”方面：特斯拉漲2.53%，英偉達漲1.96%，蘋果漲0.33%，Meta Platforms跌0.36%，亞馬遜跌0.99%，微軟跌1.14%，谷歌跌1.49%。"
+    },
+    {
+      "id": "5000848",
+      "time": "2026-07-22 04:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普對比二戰後美國發動的戰爭情況。\n阿富汗戰爭：歷時20年，2000人陣亡。\n伊拉克戰爭：歷時9年，4600人陣亡。\n越南戰爭：歷時19年5個月，58220人陣亡。\n朝鮮戰爭：歷時3年1個月，36574人陣亡。\n委內瑞拉軍事行動：歷時1天，0人陣亡。\n伊朗軍事衝突：歷時4個月，18人陣亡。"
+    },
+    {
+      "id": "5000847",
+      "time": "2026-07-22 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.67%】盛豐物流跌5.71%，復朗集團跌4.55%，優品車跌4.55%，華住酒店集團跌3.75%，網易跌3.44%。"
+    },
+    {
+      "id": "5000846",
+      "time": "2026-07-22 03:59:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "黎巴嫩總理：政府已準備好落實與特朗普允許美國航空公司直飛黎巴嫩的決定相關的行政及技術程式。"
+    },
     {
       "id": "5000845",
       "time": "2026-07-22 03:58:23",
