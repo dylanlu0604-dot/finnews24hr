@@ -1,7 +1,30 @@
 {
   "date": "2026-07-22",
-  "count": 261,
+  "count": 263,
   "items": [
+    {
+      "id": "5000869",
+      "time": "2026-07-22 04:18:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【吉利德預計Q2收購產生的內部研發資產費用達112億美元】吉利德表示，第二季度收購形成的112億美元內部研發資產費用，對應公認會計准則口徑及調整後每股收益約產生9.12美元的一次性損益，其中包含相關交易所帶來的稅務影響。"
+    },
+    {
+      "id": "mkt:019f8652-3b30-7aab-8e31-c47c36a515be",
+      "time": "2026-07-22 04:16:03",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Zelenskiy dismisses armed forces commander Sersky amid nationwide protests】Ukraine President Zelenskiy has dismissed Armed Forces Commander-in-Chief Sersky and appointed Joint Forces commander Mykhailo Drlapati as his replacement, the Kyiv Independent reports. The move comes amid large protests across Kyiv and other cities demanding Sersky’s removal and the reinstatement of popular reformist Defence Minister Fedorov, whom Zelenskiy sacked last week. Fedorov said at a post-dismissal press conference that Sersky had issued Zelenskiy an ultimatum. Tensions between Fedorov and Sersky, reflecting divergent approaches to military leadership and organisation — Sersky favouring a highly centralised, Soviet-style command — were long-running. MPs, veterans and protesters criticised the decision, warning that removing Fedorov could undermine Defence Ministry reforms and raise concerns about military leadership."
+    },
     {
       "id": "5000868",
       "time": "2026-07-22 04:14:31",
