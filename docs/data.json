@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-21 21:24:26",
-  "count": 18455,
+  "updated": "2026-07-21 21:28:29",
+  "count": 18453,
   "items": [
+    {
+      "id": "5000514",
+      "time": "2026-07-21 21:27:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：MASTEK6月季度合併運營收入為98.5億盧比。"
+    },
+    {
+      "id": "mkt:019f84dc-6164-7aab-8e2a-d9d12a4caf86",
+      "time": "2026-07-21 21:27:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary central bank governor said the forint at current exchange-rate levels is neither strong nor weak."
+    },
+    {
+      "id": "te:markets:568570",
+      "time": "2026-07-21 21:27:22",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Charles Schwab earnings above expectations at 1.62 USD — Charles Schwab (SCHW) released earnings per share at 1.62 USD, compared to market expectations of 1.50 USD."
+    },
+    {
+      "id": "5000513",
+      "time": "2026-07-21 21:26:11",
+      "tags": [
+        "行業"
+      ],
+      "text": "【交銀理財：波動中適度增配紅利類底倉資產】7月21日，交銀理財表示，近期A股成長板塊迎來階段性回撥，半導體、AI、高階製造等前期高景氣賽道集體走弱。極致行情與波動交織下，建議採取“啞鈴型”配置策略：一手抓紅利低波資產作為防守底倉；一手抓科技成長的超跌反彈機會，博取高彈性收益。"
+    },
+    {
+      "id": "5000512",
+      "time": "2026-07-21 21:25:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華為聯合國地中心釋出具身智慧實訓場樣板點】7月17日至20日，2026世界人工智慧大會暨人工智慧全球治理高階別會議（WAIC 2026）在上海盛大舉辦。期間，國家地方共建人形機器人創新中心（以下簡稱“國地中心”）聯合華為釋出具身智慧實訓場樣板點。雙方錨定行業規模化落地面臨的“高質量資料匱乏、模型泛化能力不足”等瓶頸精準破局，致力於打造可複製、可推廣的建設正規化，開創國家級標準化實訓與真實場景驗證的新型業務形態。在同期舉辦的“2026人形機器人與具身智慧創新發展論壇”上，國地中心常務副總經理劉宇飛與華為副總裁、製造與大企業軍團CEO劉超共同為“具身智慧實訓場樣板點”揭牌，標誌著該樣板點啟用。雙方基於自主創新技術體系，展開緊密協作。華為透過算力、存力、網路及CloudRobo具身智慧仿訓平臺深度賦能，國地中心從本體、資料、模型、測評、部署及ICT底座等全維度打造了具身智慧實訓場解決方案。（華為）"
+    },
+    {
+      "id": "5000511",
+      "time": "2026-07-21 21:25:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年規上工業增加值同比增5.4%】今年上半年，規模以上工業增加值同比增長5.4%，工業對經濟增長貢獻率超35%；規模以上製造業企業人工智慧技術應用普及率超30%，人工智慧開源大模型全球累計下載量突破100億次；量子計算原型機“九章四號”重新整理光量子資訊科技世界紀錄，全球首款侵入式腦機介面醫療器械獲批上市……記者從7月20日國新辦舉行的新聞釋出會上獲悉，上半年工業和資訊化領域持續向新向優發展。（經濟參考報）"
+    },
+    {
+      "id": "mkt:019f84d8-e17e-7aab-8e2a-d5f86805290e",
+      "time": "2026-07-21 21:23:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary central bank governor said the central bank will decide at the September meeting whether to continue the rate-cutting cycle."
+    },
+    {
+      "id": "5000510",
+      "time": "2026-07-21 21:23:50",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長：我們將在9月的貨幣政策會議上決定降息週期能否繼續推進。"
+    },
     {
       "id": "5000509",
       "time": "2026-07-21 21:23:30",
@@ -169867,92 +169938,6 @@
         "國際"
       ],
       "text": "挪威航空執行長表示，歐洲航空公司仍普遍面臨通脹壓力。"
-    },
-    {
-      "id": "4987887",
-      "time": "2026-07-14 21:28:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【SK海力士美股盤前漲超10%】SK海力士美股盤前漲超10%，現報167.67美元。"
-    },
-    {
-      "id": "4987886",
-      "time": "2026-07-14 21:28:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊將百度目標價從每股128.00美元下調至124.00美元。"
-    },
-    {
-      "id": "4987885",
-      "time": "2026-07-14 21:27:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "博鋒航運：預計租船延期將產生約2900萬美元總收入。"
-    },
-    {
-      "id": "4987884",
-      "time": "2026-07-14 21:27:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴克萊維持百度評級為持股觀望。"
-    },
-    {
-      "id": "4987883",
-      "time": "2026-07-14 21:27:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【陝西金融監管局：推動建成全國首個省市聯動多層次綜合巨災保險機制】7月14日，陝西金融監管局發文表示，陝西金融監管局指導延安金融監管分局聯合市應急、財政等9部門，統籌推進綜合巨災補充保險試點落地，出臺《延安市綜合巨災補充保險試點實施方案》《延安市綜合巨災補充保險損失評定和理賠細則》，明晰災情預警、現場核查、房屋定損、災後救助全鏈條權責，擇優篩選7家優質保險機構組建市級共保體，統一全市承保、定損、理賠服務標準，推動市級財政統籌出資3600萬元，為轄區群眾人身安全、居民住宅提供總額2億元風險保障，打造全國首個“省級基礎兜底、市級補充升級”的省市聯動多層次綜合巨災保險機制。"
-    },
-    {
-      "id": "4987882",
-      "time": "2026-07-14 21:26:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【因虛假理賠，華安保險甘南中心支公司一原查勘定損員被禁業6年】7月14日，國家金融監督管理總局甘南監管分局釋出行政處罰資訊顯示，華安財產保險股份有限公司甘南中心支公司因虛假理賠被罰款7萬元；時任華安財產保險股份有限公司甘南中心支公司副總經理（主持工作）王有斌被罰款1萬元；華安財產保險股份有限公司甘南中心支公司原查勘定損員馬維宏被禁止進入保險業6年。"
-    },
-    {
-      "id": "mkt:019f60cf-1ddb-7aab-8d7e-ac3f4990a69d",
-      "time": "2026-07-14 21:26:54",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【Vedanta Oil & Gas to invest $5 bln over five years to lift output to ~500,000 boe/d】Vedanta Oil & Gas said it will invest $5 billion over the next five years to raise oil and gas output to about 500,000 barrels of oil equivalent per day, more than fivefold its recent level. The company reported average production of 87,200 bbl/d in the fiscal year ended March 31 (down from over 210,000 bbl/d a decade ago) and expects about 100,000 bbl/d this fiscal year. Vedanta said the investment will focus on improved recovery at mature fields and new field development to offset declining mature-field output and help reduce India’s energy import reliance; it aims for its volumes to account for over half of India’s crude production."
-    },
-    {
-      "id": "te:economy:566846",
-      "time": "2026-07-14 21:26:26",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United Kingdom",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "UK Gilt Yields Ease but Remain Close to Two-Month Highs — UK 10-year gilt yields fell back below 5%, though they remained near two-month highs, tracking a decline in US Treasury yields after softer-than-expected US inflation data reduced expectations for Federal Reserve rate hikes this year. However, Middle East tensions raised concerns that rising energy prices could reignite inflation and push interest rates higher, leading markets to increase bets on Bank of England rate hikes. Investors now nearly fully expect two increases in 2026, with a September hike fully priced in. Attention also shifted to UK politics, as Andy Burnham prepares to replace Keir Starmer as prime minister on July 20. The focus is on his choice for finance minister, with Ed Miliband, seen as fiscally expansive, emerging as the favorite. This prospect has unsettled gilt investors, who are already wary of Britain’s fiscal fragility."
-    },
-    {
-      "id": "4987881",
-      "time": "2026-07-14 21:26:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五一視界進入IDC物理AI軟體基礎設施】7月13日，IDC物理AI報告指出，軟體基礎設施層是物理AI從演示走向規模化應用的關鍵。報告所附產業圖譜顯示，五一視界同時進入物理AI軟體基礎設施層模組，覆蓋模型與策略、模擬與驗證平臺、場景資料與合成資料。"
-    },
-    {
-      "id": "4987880",
-      "time": "2026-07-14 21:25:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "【樂通股份：預計2026年上半年淨利潤為580萬元–870萬元】樂通股份公告，預計2026年1月1日至2026年6月30日歸屬於上市公司股東的淨利潤為盈利580萬元–870萬元，上年同期虧損293.9萬元。扣除非經常性損益後的淨利潤為盈利550萬元–820萬元，上年同期虧損350.56萬元。公司業績同比扭虧為盈，主要原因為油墨銷售收入同比增長約19.53%，產品毛利率上升，財務費用下降，及對聯營企業投資虧損減少。"
     }
   ]
 }
