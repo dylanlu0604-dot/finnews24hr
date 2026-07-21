@@ -1,7 +1,160 @@
 {
   "date": "2026-07-21",
-  "count": 3319,
+  "count": 3334,
   "items": [
+    {
+      "id": "mkt:019f8558-ed3d-7aab-8e2e-b7008271b000",
+      "time": "2026-07-21 23:43:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Airbus said its board approved a €5 billion share repurchase program to be executed over three years."
+    },
+    {
+      "id": "mkt:019f8558-be0f-7aab-8e2e-ab631621670f",
+      "time": "2026-07-21 23:43:33",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump says US-Iran conflict far from over, vows strikes on Iranian nuclear sites】President Trump said the US-Iran confrontation is far from over, that US forces will not withdraw and have already inflicted significant damage on Iran. He said US policy will prevent Iran from acquiring nuclear weapons and that the US will strike any locations Iran considers for nuclear weapons. Trump added Iran has seen nothing yet, said US actions have been restrained to date, and warned of an imminent, heavy strike on the Gaoshan region."
+    },
+    {
+      "id": "mkt:019f8558-a818-7aab-8e2e-a1f58076fdd3",
+      "time": "2026-07-21 23:43:27",
+      "tags": [
+        "MKT News",
+        "AIR.PA"
+      ],
+      "text": "Airbus targets adjusted EBIT of about €12–13 billion in 2029."
+    },
+    {
+      "id": "mkt:019f8558-385c-7aab-8e2e-9ba7629fbb19",
+      "time": "2026-07-21 23:42:59",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus to release a revised medium-term outlook, further reinforcing its profitability commitments."
+    },
+    {
+      "id": "5000699",
+      "time": "2026-07-21 23:42:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：很快將對伊朗進行非常猛烈的打擊。"
+    },
+    {
+      "id": "5000698",
+      "time": "2026-07-21 23:42:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "英偉達發文稱，Vera Rubin正在全面量產。"
+    },
+    {
+      "id": "te:economy:568593",
+      "time": "2026-07-21 23:42:18",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 2"
+      ],
+      "text": "US 10-Year Treasury Yield at 2-Month High — The yield on the US 10-year Treasury note rose for a second consecutive session to 4.62% on Tuesday, its highest level since mid-May, as investors continued to assess developments in the Middle East and the renewed surge in oil prices. Inflation concerns have resurfaced as tensions between the US and Iran continue to escalate, with the two countries exchanging strikes for a tenth consecutive day. On the monetary policy front, Fed Chair Warsh has repeatedly stressed that inflation remains a key concern for the central bank, a message that has been echoed by several other Fed officials in recent weeks. Policymakers have now entered their customary blackout period ahead of next week's FOMC meeting in which the central bank is widely expected to leave the federal funds rate unchanged. However, expectations for tighter policy remain elevated beyond July, with traders assigning roughly a 68% chance of a rate increase at the September meeting."
+    },
+    {
+      "id": "5000697",
+      "time": "2026-07-21 23:41:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 老實說，伊朗還沒見識到真正的厲害。我們此前已經手下留情。 我認為他們永遠無法恢復元氣。"
+    },
+    {
+      "id": "mkt:019f8556-8a6f-7aab-8e2e-937f5380eb08",
+      "time": "2026-07-21 23:41:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "TRUMP said he will strike the Gaoshan region with heavy force."
+    },
+    {
+      "id": "5000696",
+      "time": "2026-07-21 23:41:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "LME倫銅日內漲超2.00%，現報13895.000美元/噸。"
+    },
+    {
+      "id": "5000695",
+      "time": "2026-07-21 23:40:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "空客將在投資者溝通會上釋出全新中期展望，進一步堅定致力於盈利增長與股東回報的發展目標。"
+    },
+    {
+      "id": "5000694",
+      "time": "2026-07-21 23:40:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們將很快打擊鎬山地區。"
+    },
+    {
+      "id": "mkt:019f8555-caac-7aab-8e2e-8b55a54d8a1a",
+      "time": "2026-07-21 23:40:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "U.S. President Trump said the U.S. will strike the Gaoshan region soon."
+    },
+    {
+      "id": "5000693",
+      "time": "2026-07-21 23:40:11",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "木星資產管理公司：美國兩年期實際收益率上升助推美元走強。高油價可能會拖累歐元區經濟增長。看好德國五年期國債，收益率約4%的義大利十年期國債具有吸引力。已將投資從美國國債轉向歐洲主權債務。"
+    },
+    {
+      "id": "mkt:019f8555-4893-7aab-8e2e-8236f20439b7",
+      "time": "2026-07-21 23:39:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "U.S. President Trump said Iran hasn't seen anything yet and that the U.S. has exercised restraint."
+    },
     {
       "id": "mkt:019f8554-e7f1-7aab-8e2e-7f7209089533",
       "time": "2026-07-21 23:39:21",
