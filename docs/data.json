@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-22 07:29:40",
-  "count": 18054,
+  "updated": "2026-07-22 07:33:34",
+  "count": 18057,
   "items": [
+    {
+      "id": "5000993",
+      "time": "2026-07-22 07:32:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美媒：效果有限，美無奈給鋁關稅開口子】美國白宮曾寄望於用50%的進口關稅提振美國本土鋁產能，如今在鋁價飆升、增產效果有限的情況下，轉而為高關稅“開口子”。據彭博社20日報道，美國總統特朗普當天簽署公告，推出原鋁生產投資激勵計劃。企業只要在美國新建、擴建或翻新鋁冶煉廠並獲得政府批准，部分進口原鋁即可適用約25%的優惠稅率，較現行稅率減半。（環球時報）"
+    },
+    {
+      "id": "5000992",
+      "time": "2026-07-22 07:32:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日媒：11年來首次，日本大規模生產1日元硬幣】日本政府連續多年推動無現金支付，但現金依然在消費市場佔據一席之地。據《朝日新聞》旗下withnews19日報道，日本時隔11年恢復大規模生產1日元（約合0.04元人民幣）硬幣，全年計劃產量由2000萬枚大幅上調至1.32億枚。日本政府表示，市場上小額交易對1日元硬幣仍存在穩定需求。這一變化引發外界對日本現金使用現狀的關注。（環球時報）"
+    },
+    {
+      "id": "5000991",
+      "time": "2026-07-22 07:31:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月以來機構調研熱度顯著升溫 67家公司獲外資機構調研】7月以來，A股上市公司陸續披露2026年半年度業績預告，機構調研熱度顯著升溫，受AI賦能的電子行業成長優勢突出，成為機構重點調研賽道。據證券時報·資料寶統計，7月以來，共有375家上市公司獲機構調研，其中，新易盛、京東方A、華燦光電、華勤技術等22家公司獲50家以上機構調研。具體來看，新易盛獲417家機構調研，居首。新易盛表示，整體來看，二季度業績預告情況與公司年初對全年整體情況的預期基本吻合，利潤增長的核心驅動力包括訂單交付需求增長、供應鏈緊張情況緩解、匯兌損失影響幅度收窄三個方面。統計顯示，上述機構調研公司中，112家已釋出2026年半年度業績相關公告。按業績快報淨利潤、業績預告淨利潤下限順序計算，13家預計扭虧為盈、2家同比減虧、67家歸母淨利潤實現同比增長，報喜比例超過七成。據資料寶統計，上述375家公司中，67家公司獲外資機構調研，電子行業公司數量最多，共有19家，其次是機械裝置行業，共有10家。廣合科技、滬電股份、華勤技術等4家電子行業公司獲外資機構調研家數居前，上半年淨利潤均實現同比增長。"
+    },
+    {
+      "id": "5000990",
+      "time": "2026-07-22 07:31:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州土拍再掀小高潮 3宗地塊溢價超30%】7月21日，杭州迎來本月第二場土拍，本次共出讓4宗涉宅用地，根據成交結果，除1宗地塊底價成交外，另3宗地塊溢價均超30%，共計成交金額約39.84億元。根據地塊資訊，此次出讓的四宗地塊分別位於上城區、拱墅區、錢塘區（2宗），地塊起始總價31.19億元，拿地主體均為本土房企。其中，濱江集團表現亮眼，分別拿下拱墅區康橋單元及上城區長睦單元地塊；天陽地產拿下錢塘區元成單元宅地；英冠控股則以底價摘得錢塘江海之城單元地塊。"
+    },
+    {
+      "id": "mkt:019f8705-2bcf-7aab-8e33-b69fcef032e9",
+      "time": "2026-07-22 07:31:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM NEWS reported several explosions were heard in western Tabriz, Iran."
+    },
+    {
+      "id": "5000989",
+      "time": "2026-07-22 07:31:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤上漲790點，報67080點。"
+    },
+    {
+      "id": "te:markets:568640",
+      "time": "2026-07-22 07:31:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Edges Higher on US-Iran Uncertainty — Brent strengthened above $91 per barrel on Wednesday, hovering near six-week highs as supply risks intensified across several major export routes even beyond the Middle East. President Donald Trump dismissed the likelihood of imminent talks with Iran while warning of additional strikes and pledging retaliation if Tehran-backed Houthi rebels in Yemen disrupted shipping through the Red Sea. The Red Sea has become a vital export corridor for Saudi Arabia during the conflict, enabling the kingdom to reroute part of its crude exports through pipelines and reduce reliance on the Strait of Hormuz. Meanwhile, a Kuwaiti tanker carrying oil products was struck in Hormuz, underscoring persistent threats to maritime traffic. Outside the region, traders are also monitoring a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast, a key export hub for most of Kazakhstan’s crude."
+    },
+    {
+      "id": "mkt:019f8704-c5e4-7aab-8e33-ad767cc26965",
+      "time": "2026-07-22 07:31:04",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to TASNIM NEWS, explosions occurred near Behbahan and Mahshahr Port in Iran."
+    },
+    {
+      "id": "5000988",
+      "time": "2026-07-22 07:30:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "初步訊息顯示，美國於夜間對伊朗發動打擊，阿巴斯港、恰巴哈爾、大不里士以及康加瓦爾均傳出爆炸訊息。目前尚無法立刻確認，所有通報的爆炸究竟是美方打擊所致，還是伊朗導彈發射活動引發。"
+    },
+    {
+      "id": "te:markets:568639",
+      "time": "2026-07-22 07:30:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Oil Edges Higher on US-Iran Uncertainty — Crude oil climbed toward $85 per barrel on Wednesday, hovering near six-week highs as supply risks intensified across several major export routes even beyond the Middle East. President Donald Trump dismissed the likelihood of imminent talks with Iran while warning of additional strikes and pledging retaliation if Tehran-backed Houthi rebels in Yemen disrupted shipping through the Red Sea. The Red Sea has become a vital export corridor for Saudi Arabia during the conflict, enabling the kingdom to reroute part of its crude exports through pipelines and reduce reliance on the Strait of Hormuz. Meanwhile, a Kuwaiti tanker carrying oil products was struck in Hormuz, underscoring persistent threats to maritime traffic. Outside the region, traders are also monitoring a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast, a key export hub for most of Kazakhstan’s crude."
+    },
+    {
+      "id": "mkt:019f8703-97f9-7aab-8e33-a364d1b7c755",
+      "time": "2026-07-22 07:29:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Nour News reported Tehran activated air-defense systems to counter hostile targets."
+    },
+    {
+      "id": "5000987",
+      "time": "2026-07-22 07:29:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗努爾新聞社稱，德黑蘭已啟動防空系統，以應對“敵方”目標。"
+    },
     {
       "id": "5000986",
       "time": "2026-07-22 07:28:40",
@@ -165903,82 +166015,6 @@
         "其他"
       ],
       "text": "361度國際：核心主品牌線下渠道第二季度零售額同比實現中高個位數增長。"
-    },
-    {
-      "id": "4988620",
-      "time": "2026-07-15 07:32:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股股票回購一覽：23家公司披露回購進展】Wind資料顯示，7月15日，23家公司共釋出24個股票回購相關進展。其中，1家公司股東提議回購公司股份，9家公司首次披露股票回購預案，2家公司回購方案獲股東大會透過，4家公司披露股票回購實施進展，8家公司回購方案已實施完畢。從股東提議回購方案來看，當日共1家公司股東提議回購金額超千萬。三友醫療股東提議回購金額最高，提議回購不超1.8億元。從首次披露回購預案來看，當日共7家公司股票回購預案金額超千萬。潤建股份、浙江醫藥、經緯恆潤-W回購預案金額最高，分別擬回購不超3.0億元、2.0億元、1.0億元。從股東大會透過回購預案來看，當日共1家公司回購預案超千萬。海天味業、新錦動力回購金額最高，分別擬回購不超20.0億元、11.97萬元。從回購實施進展來看，華大基因、金智科技、青木科技回購金額最高，分別回購5425.58萬元、941.64萬元、497.77萬元。從已完成回購來看，當日共5家公司回購金額超千萬。濰柴動力、正帆科技、熊貓乳品已完成回購金額最高，分別回購1.07億元、6516.59萬元、1970.87萬元。截至7月15日，今年以來已有768個回購方案已實施完畢，涉及620家公司，其中184家公司已完成回購金額超億元。其中京東方A、寧德時代、徐工機械回購金額居前，分別已完成回購57.03億元、43.86億元、30.71億元。"
-    },
-    {
-      "id": "4988619",
-      "time": "2026-07-15 07:32:40",
-      "tags": [
-        "公司"
-      ],
-      "text": "【勁方醫藥：擬配售股份籌資約4.7億港元】7月15日，勁方醫藥在港交所公告，公司與配售代理訂立配售協議，據此，配售代理已同意作為公司的代理，盡最大努力促使合共不少於六名承配人根據配售協議所載的條款和條件，以每股H股34.69港元的配售價購買13,600,000股新H股。假設所有配售股份獲悉數配售，配售所得款項總額及所得款項淨額（經扣除佣金及估計開支後）預期分別為4.72億港元及4.67億港元。配售所得款項淨額的約75%將用於推進核心產品RAS抑制劑及其他創新療法（包括GFH276、GFS202A及GFS784）；約15%將用於提升公司的研發技術平臺；約10%將用於補充營運資金及其他一般企業用途。"
-    },
-    {
-      "id": "4988618",
-      "time": "2026-07-15 07:32:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經指數期貨在新加坡交易所開盤上漲690點，報68335點。"
-    },
-    {
-      "id": "4988617",
-      "time": "2026-07-15 07:32:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股票型ETF連續六日淨流入 市場結構向均衡演進】7月14日A股走出一波反攻行情，行業主題與寬基ETF均有上漲。統計資料顯示，ETF上漲背後大資金在持續進場，7月6日至7月13日連續6個交易日淨流入，流入額從百億元出頭放大到近600億元。公募分析認為，A股科技板塊調整已較充分，下半年行情或是“科技延續主線+低位價值再平衡”結構，有業績支撐的高景氣科技仍有望重新佔優。"
-    },
-    {
-      "id": "4988616",
-      "time": "2026-07-15 07:32:00",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【密集調研硬科技公司 外資持續看好中國股票】外資機構調研A股公司的積極性不斷走高。Wind資料顯示，截至7月13日，今年以來已累計有580多家外資機構對A股公司開展3900餘次調研，電子裝置、半導體裝置、積體電路等科技賽道成為外資機構聚焦的重點。頻頻調研的背後，是外資機構對中國經濟和A股市場的集體看好。渣打銀行、高盛對A股給出超配評級，摩根士丹利、瑞銀等看好中國股票的後市表現。摩根士丹利中國首席股票策略分析師王瀅結合近期全球路演反饋表示，國際投資者對中國股票的興趣持續升溫，預計未來數月將出現資金逐步重新配置的趨勢。"
-    },
-    {
-      "id": "4988615",
-      "time": "2026-07-15 07:31:53",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【A股限售股解禁一覽：21.25億元市值限售股今日解禁】Wind資料顯示，週三（7月15日），共有10家公司限售股解禁，合計解禁量為6116.57萬股，按最新收盤價計算，合計解禁市值為21.25億元。從解禁量來看，1家公司解禁股數超千萬股。廣信科技、盈方微、盤古智慧解禁量居前，解禁股數分別為3704.09萬股、736.8萬股、654.15萬股。從解禁市值來看，1家公司解禁市值超億元。廣信科技、納芯微、奧比中光-W解禁市值居前，解禁市值分別為13.52億元、2.14億元、1.77億元。從解禁股數佔總股本比例來看，1家公司解禁比例超10%。廣信科技、盤古智慧、盈方微解禁比例居前，解禁比例分別為28.93%、4.3%、0.87%。"
-    },
-    {
-      "id": "4988614",
-      "time": "2026-07-15 07:31:41",
-      "tags": [
-        "央行",
-        "宏觀",
-        "國際"
-      ],
-      "text": "【貝森特稱美國凍結了超過1.3億美元的伊朗數字資產】美國財政部長貝森特在X發帖稱，美國外國資產控制辦公室已對多個與伊朗央行有關聯的電子錢包實施制裁，使得超過1.3億美元的資金被凍結。貝森特說：“我們將繼續積極追蹤資金流向，阻止伊朗政權獲取其非法收入。”之前，美國財政部再將數個與伊朗有關的實體、個人和船隻列入制裁名單。"
-    },
-    {
-      "id": "4988613",
-      "time": "2026-07-15 07:30:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：約旦副總理在華盛頓特區與美國國務卿魯比奧討論地區升級局勢。"
-    },
-    {
-      "id": "4988612",
-      "time": "2026-07-15 07:29:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：唐納德·J·特朗普總統與Trey Yingst（福克斯記者） 坐下來討論與伊朗的談判。他對伊朗政權領導層剩餘人員的資訊是：“你們最好達成協議。（否則）你們將不會有任何人剩下。”"
     }
   ]
 }
