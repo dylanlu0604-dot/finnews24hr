@@ -1,7 +1,119 @@
 {
   "date": "2026-07-21",
-  "count": 2450,
+  "count": 2463,
   "items": [
+    {
+      "id": "mkt:019f8432-b198-7aab-8e25-d1c675c0a476",
+      "time": "2026-07-21 18:22:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Kweichow Moutai block trade: 130,400 shares, 172 mln yuan】On July 21, Kweichow Moutai block trade executed 130,400 shares for 172 mln yuan, representing 1.66% of that day’s turnover. VWAP was 1,316.22 yuan, a 0.63% premium to the close at 1,308 yuan; intrablock prices ranged 1,198–1,318.81 yuan."
+    },
+    {
+      "id": "mkt:019f8432-83be-7aab-8e25-cc8052b58382",
+      "time": "2026-07-21 18:22:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE Foreign Ministry reaffirmed full support for Bahrain, Kuwait and Jordan and backed all measures they take to safeguard security and stability."
+    },
+    {
+      "id": "5000141",
+      "time": "2026-07-21 18:21:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "阿聯酋強烈譴責伊朗對巴林、科威特和約旦的再次侵略性打擊。"
+    },
+    {
+      "id": "mkt:019f8432-4193-7aab-8e25-c7b94e8747b1",
+      "time": "2026-07-21 18:21:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The UAE strongly condemned Iran's renewed aggressive strikes against Bahrain, Kuwait and Jordan."
+    },
+    {
+      "id": "5000140",
+      "time": "2026-07-21 18:21:06",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴州茅臺今日大宗交易成交13.04萬股，成交額1.72億元】7月21日，貴州茅臺大宗交易成交13.04萬股，成交額1.72億元，佔當日總成交額的1.66%，成交均價1316.22元，較市場收盤價1308元溢價0.63%，其中最高成交價1318.81元，最低成交價1198元。"
+    },
+    {
+      "id": "5000139",
+      "time": "2026-07-21 18:20:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【方正科技：總裁辭職，聘任新總裁及兩位副總裁】方正科技公告稱，7月20日，陳宏良因工作安排辭去總裁職務，繼續擔任董事長，其持有公司406萬股，存在未履行完畢的公開承諾。7月21日，公司召開董事會會議，同意聘任鄭雷為總裁，王睿剛、張偉華任副總裁，任期至第十三屆董事會屆滿。王睿剛、張偉華分別持有公司206.31萬股、393.64萬股。"
+    },
+    {
+      "id": "te:economy:568547",
+      "time": "2026-07-21 18:20:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Latvia",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "Latvia Producer Prices Rise to Over 1-Year High — Producer prices in Latvia rose 3.3% year-on-year in June 2026 from an upwardly revised 2.0% increase in the previous month, reaching the highest level since February 2025. Price growth accelerated in electricity, gas, steam and air conditioning supply (12.2% vs 2.9% in May). Costs also increased in manufacturing, albeit at a slower pace (1.0% vs 1.1%), with stronger price growth recorded for beverages (2.1% vs 0.8%), textiles (5.6% vs 4.9%), printing and reproduction of recorded media (4.8% vs 0.9%), and rubber and plastic products (7.3% vs 3.3%). Meanwhile, prices eased in mining and quarrying (8.9% vs 12.2%), while inflation held steady in water supply, sewerage, waste management and remediation activities at 7.9%. On a monthly basis, producer prices eased to 0.5% in June from an upwardly revised 1.1% increase in May."
+    },
+    {
+      "id": "5000138",
+      "time": "2026-07-21 18:19:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧森堡航空額外訂購三架巴航工業E2系列飛機。"
+    },
+    {
+      "id": "5000137",
+      "time": "2026-07-21 18:19:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商蛇口：4.56億股限售股7月24日上市流通】招商蛇口公告稱，2023年7月20日，發行股份購買資產新增602,008,952股上市，均為限售流通股。本次解除限售的是深圳市投資控股有限公司所持456,121,891股，佔公司總股本5.0590%。該股東在承諾期內嚴格履約，不存在影響限售股上市的情況。本次限售股將於2026年7月24日上市流通，上市後公司有限售條件流通股降至146,318,496股，佔比1.6229%；無限售條件流通股增至8,869,713,675股，佔比98.3771%。"
+    },
+    {
+      "id": "5000136",
+      "time": "2026-07-21 18:18:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源公司：該專案未來有潛力將天然氣日產量提升至最高15億立方英尺。"
+    },
+    {
+      "id": "5000135",
+      "time": "2026-07-21 18:18:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：印度反對黨領袖拉胡爾·甘地、普里揚卡·甘地在總理莫迪住宅外舉行抗議。"
+    },
+    {
+      "id": "5000134",
+      "time": "2026-07-21 18:18:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "印尼或將今年免費餐食預算下調至 229 萬億印尼盾。"
+    },
+    {
+      "id": "5000133",
+      "time": "2026-07-21 18:18:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯聯合大公國：道達爾能源就烏姆謝夫天然氣帽開發專案做出最終投資決定。"
+    },
     {
       "id": "5000132",
       "time": "2026-07-21 18:18:15",
