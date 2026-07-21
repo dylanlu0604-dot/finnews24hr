@@ -1,7 +1,51 @@
 {
   "date": "2026-07-21",
-  "count": 3119,
+  "count": 3125,
   "items": [
+    {
+      "id": "te:markets:568587",
+      "time": "2026-07-21 22:16:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lumber Climbs on Supply Constraints — Lumber prices rose above $640 per thousand board feet, reaching a one-year high, as wildfires across Western Canada tightened the supply outlook. More than 900 wildfires burned over the weekend, including in British Columbia, Canada's largest lumber-exporting province, where evacuation alerts threatened forestry operations. Adding to supply concerns, President Donald Trump threatened to incorporate wildfire-related costs into existing tariffs of nearly 35% on Canadian lumber. Sawmill capacity also remained constrained as Canadian duties forced production cuts and mill closures, while rising US log exports to China continued to weaken domestic lumber supply chains. Meanwhile, US housing starts jumped 19%, though the increase was driven mainly by multifamily construction rather than the more lumber-intensive single-family homes, limiting demand support."
+    },
+    {
+      "id": "mkt:019f8508-f937-7aab-8e2b-bff56b0c472f",
+      "time": "2026-07-21 22:16:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister said the country will continue to play a mediating role and is committed to regional peace and stability."
+    },
+    {
+      "id": "5000589",
+      "time": "2026-07-21 22:15:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： MILDEF 簽署德國聯邦國防軍供貨 7 年期框架協議延期合同，潛在合同價值 5.27 億歐元，並收到首份價值 9540 萬歐元的單項執行訂單。"
+    },
+    {
+      "id": "mkt:019f8508-35c6-7aab-8e2b-b403166d7798",
+      "time": "2026-07-21 22:15:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Pakistan's prime minister told Iran's interior minister he was concerned about recent regional escalation and urged all parties to exercise restraint."
+    },
+    {
+      "id": "5000588",
+      "time": "2026-07-21 22:14:20",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見東盟秘書長高金洪】中共中央政治局委員、外交部長王毅21日在馬尼拉會見東盟秘書長高金洪。王毅表示，中國始終堅持大小國家一律平等，始終奉行周邊睦鄰友好政策。今年是《東南亞友好合作條約》簽署50週年。中國是最早加入該條約的大國，帶動了其他大國相繼加入，有力提升了東盟的國際地位，中方將繼續支援東盟共同體建設，支援東盟聯合自強。中國是本地區最重要的穩定錨，願同東盟加強合作，深化互信，相互理解，相互支援，維護好中國東盟共同利益，維護好全球南方正當權益，推動國際秩序朝著更加公正合理方向發展。王毅表示，南海是地區國家的共同家園，南海問題不應成為中國東盟關係間的障礙。菲律賓軍警部分勢力蓄意挑釁，製造海上事端，服務的是外部勢力的利益，破壞的是中菲關係改善程序和南海的和平穩定，地區國家應當高度警惕。中方願同東盟排除干擾因素，加快推進“南海行為準則”磋商，共同打造和平、穩定、合作、友好的南海新敘事，把南海問題主動權牢牢掌握在自己手中。（新華社）"
+    },
     {
       "id": "mkt:019f8505-ad3a-7aab-8e2b-aa5dc41d0aa0",
       "time": "2026-07-21 22:12:49",
@@ -14,6 +58,14 @@
         "Brent"
       ],
       "text": "Data show Azerbaijan's oil exports via the Baku-Tbilisi-Ceyhan (BTC) pipeline fell 8.7% in January-June."
+    },
+    {
+      "id": "5000587",
+      "time": "2026-07-21 22:12:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國上訴法院推翻了下級法院2025年將親巴勒斯坦抗議者從移民拘留中釋放的裁定。"
     },
     {
       "id": "mkt:019f8504-19da-7aab-8e2b-a260c754774d",
