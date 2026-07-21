@@ -1,7 +1,70 @@
 {
   "date": "2026-07-22",
-  "count": 61,
+  "count": 68,
   "items": [
+    {
+      "id": "mkt:019f85a5-3d79-7aab-8e2f-88e668a861c1",
+      "time": "2026-07-22 01:07:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said it is rolling out ChatGPT services for small businesses, making ChatGPT Work and GPT-5.6 available to small enterprises effective today."
+    },
+    {
+      "id": "5000749",
+      "time": "2026-07-22 01:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：ChatGPT Work 與 GPT‑5.6 現已面向中小企業開放。"
+    },
+    {
+      "id": "5000748",
+      "time": "2026-07-22 01:05:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：推出面向中小企業的 ChatGPT 方案。"
+    },
+    {
+      "id": "5000747",
+      "time": "2026-07-22 01:04:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "黎巴嫩總統奧恩：會談進展非常順利。"
+    },
+    {
+      "id": "mkt:019f85a2-ab97-7aab-8e2f-8795a64dbae3",
+      "time": "2026-07-22 01:04:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Amazon Web Services (AWS): From July 21, 2026, all newly created Amazon Simple Email Service accounts will default to the Basic tier."
+    },
+    {
+      "id": "5000746",
+      "time": "2026-07-22 01:04:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "AWS ：針對 SES 專屬免費套餐（使用者首次啟用 SES 後 12 個月內每月可免費傳送 3000 封郵件），新客戶將無法再申領。"
+    },
+    {
+      "id": "mkt:019f85a2-a550-7aab-8e2f-7fc6175eb685",
+      "time": "2026-07-22 01:04:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim news agency reported Iran's military said it shot down a one-way attack drone in northwest Iran."
+    },
     {
       "id": "5000745",
       "time": "2026-07-22 01:02:53",
