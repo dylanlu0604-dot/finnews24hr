@@ -1,7 +1,369 @@
 {
-  "updated": "2026-07-22 03:28:45",
-  "count": 18054,
+  "updated": "2026-07-22 03:52:10",
+  "count": 18074,
   "items": [
+    {
+      "id": "5000841",
+      "time": "2026-07-22 03:50:47",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國高階將領凱恩談伊朗：戰爭迄今已耗費375億美元。"
+    },
+    {
+      "id": "mkt:019f863b-06a1-7aab-8e31-3e89afe74b50",
+      "time": "2026-07-22 03:50:42",
+      "tags": [
+        "MKT News",
+        "AIR.PA",
+        "Impact bullish"
+      ],
+      "text": "Airbus' commercial aircraft chief said engine supplier CFM is currently meeting its engine supply commitments and that production has modest upside. He expects engine delivery issues to be resolved in 2028."
+    },
+    {
+      "id": "5000840",
+      "time": "2026-07-22 03:50:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Hugging Face 稱內部資料入侵事件由AI智慧體發起】承載人工智慧模型與資料集的平臺Hugging Face表示，近期部分內部資料庫與服務金鑰遭遇入侵，此次攻擊的幕後推手是一套AI智慧體框架。這起入侵事件屬於有正式記錄、首批由AI智慧體主導網路攻擊的案例之一，標誌著網路攻擊模式從AI輔助駭客攻擊轉向AI自主主導攻擊行動。"
+    },
+    {
+      "id": "5000839",
+      "time": "2026-07-22 03:49:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗總統強調團結對當前局勢至關重要】據伊朗邁赫爾通訊社21日報道，伊朗總統佩澤希齊揚當天強調，伊朗當前務必維護內部團結與凝聚力，不應無端貶低談判成果。（新華社）"
+    },
+    {
+      "id": "5000838",
+      "time": "2026-07-22 03:48:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：此次Hugging Face資料洩露事件由旗下一個模型引發。"
+    },
+    {
+      "id": "mkt:019f8639-25bb-7aab-8e31-37977c4bd323",
+      "time": "2026-07-22 03:48:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Moldovan parliament approves confidence vote for new government】Moldovan parliament approved a vote of confidence on the 21st for a new government led by Vasili Tofan. Cabinet ministers will be sworn in before President Maia Sandu on the morning of the 22nd. Under the constitution, Sandu will formally appoint the government following the vote; ministers assume their duties after taking the oath."
+    },
+    {
+      "id": "5000837",
+      "time": "2026-07-22 03:48:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議員托馬斯·馬西：程式性規則已獲得透過，法案第219條款未允許進行辯論與表決。該條款旨在推動美國軍事技術及供應鏈與以色列實現整合。《國防授權法案》明日將進行記名投票，第219條款包含在內。"
+    },
+    {
+      "id": "5000836",
+      "time": "2026-07-22 03:47:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【摩爾多瓦議會透過對新政府的信任投票】摩爾多瓦議會21日透過對瓦西里·託凡領導的新政府的信任投票。新一屆內閣成員22日上午將在總統桑杜面前宣誓就職。根據憲法，投票透過後，桑杜將正式任命新政府，新政府成員在宣誓就職後即可行使職權。"
+    },
+    {
+      "id": "5000835",
+      "time": "2026-07-22 03:47:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "空客商用飛機執行長預計發動機交付問題將在2028年得到解決。"
+    },
+    {
+      "id": "mkt:019f8636-9df7-7aab-8e31-2881a40cf93f",
+      "time": "2026-07-22 03:45:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Wall Street Journal reports OpenAI has added two independent directors ahead of its IPO: Nubank founder and CEO David Velez and BNY Mellon CEO Robin Vince."
+    },
+    {
+      "id": "5000834",
+      "time": "2026-07-22 03:45:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車執行長表示，CFM國際公司正在按承諾交付發動機，交付量還可進一步小幅提升。"
+    },
+    {
+      "id": "5000833",
+      "time": "2026-07-22 03:45:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車商用飛機執行長表示，普惠公司2027年提供的發動機數量少於空客期望的水平。"
+    },
+    {
+      "id": "5000832",
+      "time": "2026-07-22 03:45:15",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普在白宮與黎巴嫩總統約瑟夫·奧恩會晤時表示，若黎巴嫩方面提出請求，他願意與真主黨展開直接對話。特朗普承諾美國將持續向黎巴嫩提供支援。"
+    },
+    {
+      "id": "5000831",
+      "time": "2026-07-22 03:44:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI任命NuBank的大衛·貝萊斯以及紐約梅隆銀行的羅賓·文斯出任董事。"
+    },
+    {
+      "id": "5000830",
+      "time": "2026-07-22 03:44:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【規模 二季度公募規模大增 距40萬億元僅一步之遙】2026年二季度，公募基金管理規模迎來顯著增長，距離40萬億元僅一步之遙。主動管理類產品憑藉亮眼業績，成為二季度增幅最大的品類，績優產品“吸金”顯著。業內人士認為，公募基金行業在規模快速擴張的同時，也在從“量的增長”向“質的提升”轉型。"
+    },
+    {
+      "id": "5000829",
+      "time": "2026-07-22 03:44:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：不可否認，伊朗依舊保有作戰能力，但我方造成的打擊重創對手，使其陷入前所未有的不利處境。"
+    },
+    {
+      "id": "mkt:019f8634-918d-7aab-8e31-233256f62656",
+      "time": "2026-07-22 03:43:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Iraq's cabinet approved allowing the State Oil Marketing Organization (SOMO) to import diesel for the Ministry of Energy to \"secure energy‑sector demand\"."
+    },
+    {
+      "id": "5000828",
+      "time": "2026-07-22 03:43:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI擬在IPO前增設兩名獨立董事。"
+    },
+    {
+      "id": "5000827",
+      "time": "2026-07-22 03:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "伊拉克內閣批准允許國有石油銷售公司SOMO為伊拉克能源部進口瓦斯油，以“保障能源部門需求”。"
+    },
+    {
+      "id": "mkt:019f8633-d81a-7aab-8e31-1a8920a2cc90",
+      "time": "2026-07-22 03:42:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy has offered former defense minister Feodorov an \"important position\" to oversee work in the defense technology sector."
+    },
+    {
+      "id": "5000826",
+      "time": "2026-07-22 03:41:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "空客首席財務官表示，歐洲投資銀行貸款採用“完全標準的市場利率”。"
+    },
+    {
+      "id": "5000825",
+      "time": "2026-07-22 03:41:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基稱，已向烏克蘭前國防部長費多羅夫提供一個“體面職位”，負責監督國防技術事務。"
+    },
+    {
+      "id": "mkt:019f8632-88de-7aab-8e31-14628192759a",
+      "time": "2026-07-22 03:41:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy has dismissed Commander-in-Chief of the Ukrainian Armed Forces Oleksandr Syrskyi."
+    },
+    {
+      "id": "5000824",
+      "time": "2026-07-22 03:40:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：美國擬於週五前實施新關稅，當前臨時關稅措施即將到期。"
+    },
+    {
+      "id": "mkt:019f8631-4260-7aab-8e31-098cfb139043",
+      "time": "2026-07-22 03:40:02",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. military said that as of July 21 U.S. forces had altered the course of eight commercial vessels and disabled one during operations to fully enforce a blockade against Iran."
+    },
+    {
+      "id": "5000823",
+      "time": "2026-07-22 03:39:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：截至7月21日，美軍已重新排程8艘商船，並扣押1艘，以全面實施封鎖。"
+    },
+    {
+      "id": "5000822",
+      "time": "2026-07-22 03:39:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國：計劃醫療撤離一名在剛果（金）救治埃博拉患者的工作人員，疑似發生職業暴露；該人員正在隔離環境下接受評估與監測，目前尚未出現任何症狀。"
+    },
+    {
+      "id": "5000821",
+      "time": "2026-07-22 03:39:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車執行長在被問及是否會在2028年後連任第四屆任期時表示，他願意接受董事會作出的任何恰當安排。"
+    },
+    {
+      "id": "5000820",
+      "time": "2026-07-22 03:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "澤連斯基表示，他已提名米哈伊洛·德拉帕季指揮官出任烏克蘭武裝部隊總司令。"
+    },
+    {
+      "id": "mkt:019f862f-94d8-7aab-8e31-01608ee05071",
+      "time": "2026-07-22 03:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A Ukrainian lawmaker says Mykhailo Drapaty will be appointed chief of the Ukrainian Armed Forces' General Staff and Volodymyr Horbatiuk will be named head of the National Guard."
+    },
+    {
+      "id": "5000819",
+      "time": "2026-07-22 03:37:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭議員：米哈伊洛·德拉帕季將出任烏克蘭武裝部隊新任總參謀長，沃洛迪米爾·戈爾巴季烏克將擔任國民警衛隊新任司令。"
+    },
+    {
+      "id": "5000818",
+      "time": "2026-07-22 03:36:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參謀長聯席會議主席丹·凱恩上將：美國民眾必須認識到，戰爭形態正在發生轉變。技術進步正從根本上、不可逆轉地改變作戰模式，因此需要資金投入以保障美軍獲得充足裝備。"
+    },
+    {
+      "id": "mkt:019f862c-caa7-7aab-8e30-fc4d2141841d",
+      "time": "2026-07-22 03:35:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Defense Secretary Hegseth said some training will need to be urgently scaled back if additional funding is not provided."
+    },
+    {
+      "id": "5000817",
+      "time": "2026-07-22 03:34:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院聽證會現場發生示威抗議，示威者打斷赫格塞思，呼籲停止轟炸伊朗、巴勒斯坦兒童。"
+    },
+    {
+      "id": "mkt:019f862c-6d0d-7aab-8e30-f75551c50d23",
+      "time": "2026-07-22 03:34:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Senator Collins said some U.S. military services are facing near-term funding challenges."
+    },
+    {
+      "id": "5000816",
+      "time": "2026-07-22 03:34:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思向國會表示，如果無法獲得更多撥款，部分訓練專案將不得不緊急削減。"
+    },
+    {
+      "id": "5000815",
+      "time": "2026-07-22 03:34:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國參議員柯林斯稱，部分軍種近期面臨償債能力挑戰。"
+    },
+    {
+      "id": "5000814",
+      "time": "2026-07-22 03:33:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利總理就倉促提名棋壇名將波爾加競選總統致歉】匈牙利總理毛焦爾公開致歉，此前國際象棋傳奇棋手尤迪特·波爾加拒絕出任匈牙利下一任總統的提名。毛焦爾稱自己過於倉促地對外公佈提名波爾加一事，並表示對此事承擔全部責任。他上週日在臉書發文稱，49歲的波爾加能夠代表國家團結，計劃週一與波爾加會面，徵詢她是否接受提名。儘管總統職位大多屬於禮儀性職務，但波爾加表示，自己尚未準備好承擔“團結分歧重重的國家這一歷史性重任”。"
+    },
+    {
+      "id": "mkt:019f862a-6792-7aab-8e30-e8b33ec7efaf",
+      "time": "2026-07-22 03:32:33",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "【House Republicans advance short-term funding bill and $95bn reconciliation framework】House Republicans cleared a procedural hurdle 241-211 to advance a short-term funding measure and a budget framework that underpins a $95bn partisan policy package via reconciliation. The stopgap aims to fund the federal government through December; leadership seeks to pass the CR Tuesday night and the House is expected to vote on a budget resolution Wednesday. Republicans intend to use the framework to draft and pass a third conservative policy package this Congress without Democratic support."
+    },
+    {
+      "id": "5000813",
+      "time": "2026-07-22 03:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國防長赫格塞思：倘若我們當下不在技術、算力、人工智慧、自主系統與太空領域開展關鍵投入，我們的對手已然在佈局相關投資，或將實現對美國的趕超。"
+    },
+    {
+      "id": "5000812",
+      "time": "2026-07-22 03:31:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "伊拉克石油部長表示，該國石油產能為每日480萬桶。"
+    },
+    {
+      "id": "mkt:019f8629-4bfa-7aab-8e30-e092e3cee4fa",
+      "time": "2026-07-22 03:31:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraq's oil minister said the country's crude production capacity is currently 4.8 million barrels per day."
+    },
+    {
+      "id": "5000811",
+      "time": "2026-07-22 03:29:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "空中客車首席財務官表示，潛在補強型收購的搜尋範圍涵蓋商業服務與網路安全領域。"
+    },
     {
       "id": "5000810",
       "time": "2026-07-22 03:26:11",
@@ -165841,224 +166203,6 @@
         "Impact mixed"
       ],
       "text": "U.S. Treasury issued a general license related to Iran and updated its sanctions list, adding 10 individuals, more than 20 entities and multiple vessels, and revising sanctions information on the Central Bank of Iran."
-    },
-    {
-      "id": "4988469",
-      "time": "2026-07-15 03:50:48",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部：美國涉伊朗通用許可允許逐步終止相關業務、開展特定交易，並解除安裝 7 月 14 日遭凍結的特定個人或船隻名下貨物。"
-    },
-    {
-      "id": "mkt:019f622d-fe31-7aab-8d88-c1b1aaddd48e",
-      "time": "2026-07-15 03:50:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Europe & UK",
-        "GBPUSD"
-      ],
-      "text": "Bank of England Governor Bailey to speak in 10 minutes."
-    },
-    {
-      "id": "4988468",
-      "time": "2026-07-15 03:50:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思：美國計劃 9 月 30 日前從伊拉克撤軍。"
-    },
-    {
-      "id": "4988467",
-      "time": "2026-07-15 03:49:20",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "美國財政部官網：美國出臺針對伊朗的新一輪制裁措施。"
-    },
-    {
-      "id": "mkt:019f622d-2663-7aab-8d88-badbc4582e4a",
-      "time": "2026-07-15 03:49:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "LCID.O",
-        "Impact bearish"
-      ],
-      "text": "【Lucid denies privatization, Chapter 11 reports after shares plunge】Lucid Group (LCID.O) shares plunged more than 50% intraday, triggering multiple trading halts after 1:00 p.m. ET; they fell as much as 57% to $2.37 and were about 15% lower near the close. The company denied a blog post saying it was pursuing a privatization transaction or seeking U.S. Chapter 11 protection, calling the report \"completely untrue.\" Lucid said it has sufficient liquidity to fund operations into next year, has not formed a special committee to consider the scenarios in the blog, and that restructuring adviser AlixPartners is assisting with execution and operations and has not recommended bankruptcy."
-    },
-    {
-      "id": "mkt:019f622c-eb11-7aab-8d88-b03b309a57c1",
-      "time": "2026-07-15 03:48:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Hormozgan provincial government said a US military strike hit an area near Sirik in southern Iran at about 2300 local time."
-    },
-    {
-      "id": "mkt:019f622b-825c-7aab-8d88-ac8488b1f9a0",
-      "time": "2026-07-15 03:47:26",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian state media cited the Bandar Abbas city government saying a US military strike hit areas around Bandar Abbas, a southern port city."
-    },
-    {
-      "id": "4988466",
-      "time": "2026-07-15 03:47:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美軍彈藥擊中伊朗阿巴斯港周邊區域。"
-    },
-    {
-      "id": "mkt:019f6228-dfbb-7aab-8d88-a2d1e1949d1e",
-      "time": "2026-07-15 03:44:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Court filings show the Writers Guild of America has filed suit seeking to block Paramount's acquisition of Warner Bros. Discovery (WBD.O)."
-    },
-    {
-      "id": "4988465",
-      "time": "2026-07-15 03:43:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國編劇工會提起訴訟，要求阻止派拉蒙收購華納兄弟探索公司。"
-    },
-    {
-      "id": "mkt:019f6227-8470-7aab-8d88-9ff353021d9d",
-      "time": "2026-07-15 03:43:04",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【CENTCOM confirms new strikes on Iran】CENTCOM said US forces began a fresh round of strikes on Iran at 15:00 US Eastern Time on July 14 (22:30 Tehran time). It said forces were preparing to reimpose a maritime blockade on Iranian ports and coastal areas, and that the blockade took effect at 16:00 US Eastern (23:30 Tehran). The US had on July 13 announced a third consecutive night of strikes and said it would restore the blockade on July 14 US Eastern Time. President Trump has formally notified Congress that hostilities with Iran have resumed."
-    },
-    {
-      "id": "mkt:019f6226-20bb-7aab-8d88-9393d794cd1c",
-      "time": "2026-07-15 03:41:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "OpenAI said it supports competition and individuals’ freedom to choose where they work."
-    },
-    {
-      "id": "4988464",
-      "time": "2026-07-15 03:39:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍對伊朗發動新一輪打擊】美軍中央司令部14日在社交媒體發文說，其部隊於美東時間當天15時對伊朗發動新一輪打擊。此次打擊正值美軍準備恢復對伊朗實施海上封鎖之際。封鎖將於美國東部時間當天16時生效。（新華社）"
-    },
-    {
-      "id": "mkt:019f6223-4a76-7aab-8d88-8b337e499441",
-      "time": "2026-07-15 03:38:27",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7"
-      ],
-      "text": "OpenAI said it has not found any evidence to support the allegations in Apple's lawsuit."
-    },
-    {
-      "id": "4988463",
-      "time": "2026-07-15 03:37:20",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【美國據悉支援伊拉克-敘利亞輸油管道專案 以削弱伊朗影響力】美國正在推進一項有關石油管道的談判，該管道將把伊拉克的石油輸送到敘利亞，由於避開了霍爾木茲海峽，因此將會削弱未來伊朗對全球能源供應的影響力。據知情人士透露，美國的敘利亞和伊拉克問題特使Thomas Barrack已召集兩國官員以及雪佛龍等公司進行討論，內容是重啟一條長期停用、從伊拉克通往敘利亞西海岸的管道。知情人士稱，儘管各方正在考慮多條新路線，但討論重點是重建已關閉20多年的基爾庫克至巴尼亞斯管道。美國國務院一名官員證實，美國政府支援伊拉克和敘利亞透過修復兩國之間的管道來加強貿易路線的努力，並預計美國公司將在其建設中發揮作用。週二早些時候，美國總統唐納德·特朗普在白宮會見了伊拉克總理阿里·扎伊迪，並表示將在本週或下週宣佈“龐大”的新石油夥伴關係。"
-    },
-    {
-      "id": "mkt:019f6221-88f6-7aab-8d88-83e4e1fe06b5",
-      "time": "2026-07-15 03:36:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Defense Secretary Hegseth will testify at a hearing on July 21."
-    },
-    {
-      "id": "mkt:019f6220-ff69-7aab-8d88-7ea7f1a421a9",
-      "time": "2026-07-15 03:35:57",
-      "tags": [
-        "MKT News",
-        "AAPL.O"
-      ],
-      "text": "OpenAI said it takes the allegations in Apple's lawsuit seriously."
-    },
-    {
-      "id": "4988462",
-      "time": "2026-07-15 03:35:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國防部長赫格塞思將於 7 月 21 日出席參議院聽證會並作證。"
-    },
-    {
-      "id": "4988461",
-      "time": "2026-07-15 03:34:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI 回應蘋果訴訟：我方高度重視相關指控。"
-    },
-    {
-      "id": "4988460",
-      "time": "2026-07-15 03:34:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：未發現任何證據可證明該申訴具備合理依據。"
-    },
-    {
-      "id": "4988459",
-      "time": "2026-07-15 03:32:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "【委內瑞拉強震遇難人數上升至4734人】當地時間14日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國日前發生的強震造成的遇難人數上升至4734人，受傷人數為16740人，12.83萬個家庭被救助，17907人無家可歸，強震發生後發生餘震1275次。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f621c-8d8f-7aab-8d88-76b072499c44",
-      "time": "2026-07-15 03:31:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CENTCOM said at 3:00pm EDT on Tuesday the US launched a new round of strikes against Iran to degrade Tehran’s ability to attack commercial vessels in the Strait of Hormuz. A maritime blockade of Iranian ports and coastal areas will begin at 4:00pm EDT."
-    },
-    {
-      "id": "4988458",
-      "time": "2026-07-15 03:29:35",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國中央司令部：部隊於美國東部時間今日下午 3 時，發起新一輪針對伊朗的打擊行動，持續削弱伊朗用於襲擊霍爾木茲海峽商船的相關作戰能力。此次打擊行動開展之際，美軍正準備恢復對伊朗港口及沿海區域實施海上封鎖，該封鎖措施將於美國東部時間下午 4 時正式生效。"
     }
   ]
 }
