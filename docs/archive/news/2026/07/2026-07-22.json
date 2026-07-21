@@ -1,7 +1,54 @@
 {
   "date": "2026-07-22",
-  "count": 462,
+  "count": 467,
   "items": [
+    {
+      "id": "5000996",
+      "time": "2026-07-22 07:36:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【儘管受到衝擊，澳大利亞企業破產數量仍下降】商業資料監控公司Creditorwatch表示，儘管燃料成本飆升、利率上升和通脹率高企，但在截至6月30日的一年裡，澳大利亞企業破產數量下降了3.9%。該公司表示，這一降幅受到了2024年所得稅減免和2025年降息的支援，為建築和酒店等高風險行業提供了支撐。該公司補充說，儘管如此，貿易違約和稅務債務再次上升，表明壓力不斷增加。該公司稱，即使是一次貿易違約，也會使接下來的12個月裡的破產風險大幅增加，達到全國平均水平的10倍以上。"
+    },
+    {
+      "id": "mkt:019f8708-f4a6-7aab-8e33-c73fb898e635",
+      "time": "2026-07-22 07:35:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian outlet Fars News reported several explosions near Sirik in southern Iran."
+    },
+    {
+      "id": "5000995",
+      "time": "2026-07-22 07:35:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部： 中央司令部部隊於今日東部時間晚上7點開始打擊伊朗境內的軍事目標，這是連續第11個夜晚的行動。這些打擊旨在繼續削弱伊朗威脅霍爾木茲海峽商業航運的能力。"
+    },
+    {
+      "id": "5000994",
+      "time": "2026-07-22 07:33:51",
+      "tags": [
+        "央行",
+        "公司",
+        "國際"
+      ],
+      "text": "【英國僱主4-6月薪酬協議漲幅維持在3.3%】週三公佈的資料顯示，儘管存在對伊朗戰爭和經濟不確定性的擔憂，但截至6月的三個月，英國僱主的薪酬協議漲幅保持穩定。英國央行料對這些資料進行研究。人力資源資料公司Brightmine的資料顯示，截至6月底的三個月，僱主提供的薪資漲幅中位數維持在3.3%，與此前三個滾動季度的漲幅持平。“儘管2027年的整體形勢仍不明朗，但今年迄今為止表現出的顯著穩定性表明，儘管面對更廣泛的經濟挑戰，各組織仍在尋求更可持續的薪酬定位。”Brightmine高階內容經理Sheila Attwood表示。"
+    },
+    {
+      "id": "mkt:019f8707-4c61-7aab-8e33-bf122a4a16e4",
+      "time": "2026-07-22 07:33:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【U.S. Central Command says 11th consecutive night of strikes inside Iran】U.S. Central Command said it struck military targets inside Iran beginning at 7:00 p.m. ET, the 11th consecutive night of such strikes. The operations are aimed at degrading Iran’s ability to threaten commercial shipping in the Strait of Hormuz."
+    },
     {
       "id": "5000993",
       "time": "2026-07-22 07:32:52",
