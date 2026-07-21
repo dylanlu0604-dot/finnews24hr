@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-21 20:29:32",
-  "count": 18573,
+  "updated": "2026-07-21 20:33:38",
+  "count": 18518,
   "items": [
+    {
+      "id": "mkt:019f84aa-3d66-7aab-8e29-33f73b8599b2",
+      "time": "2026-07-21 20:32:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Samsung is launching an AI health assistant, entering the smart health market. The product will roll out as a beta in August."
+    },
+    {
+      "id": "5000418",
+      "time": "2026-07-21 20:32:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【欣興工具：首次公開發行股票網上搖號中籤結果公佈】欣興工具公告稱，2026年7月21日進行了首次公開發行股票網上發行中籤搖號儀式，中籤號碼已揭曉。中籤號碼共有21,798個，每個中籤號碼可認購500股公司A股股票。網上投資者需於7月22日履行繳款義務，確保資金賬戶日終有足額認購資金，不足部分視為放棄認購，棄購股份由保薦人包銷。"
+    },
+    {
+      "id": "5000417",
+      "time": "2026-07-21 20:32:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉立創：首次公開發行股票並將舉行網上路演】嘉立創公告稱，公司首次公開發行5556.00萬股人民幣普通股（A股）的申請已獲深交所上市稽核委員會審議透過，並獲中國證監會同意註冊。本次發行採用戰略配售、網下發行和網上發行相結合的方式，發行後總股本為55,556.00萬股。初始戰略配售發行數量為1111.20萬股，佔本次發行數量的20.00%。發行人和主承銷商將於2026年7月23日14:00 - 17:00在全景網舉行網上路演。"
+    },
+    {
+      "id": "5000416",
+      "time": "2026-07-21 20:32:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟將在企業級產品中接入 Mistral 模型。"
+    },
+    {
+      "id": "5000415",
+      "time": "2026-07-21 20:31:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "奧本海默將達美樂披薩公司目標價從465美元下調至415美元。"
+    },
+    {
+      "id": "5000414",
+      "time": "2026-07-21 20:31:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟與Mistral將資助概念驗證專案，提供Azure積分，並主導人工智慧創新研討會。"
+    },
+    {
+      "id": "5000413",
+      "time": "2026-07-21 20:30:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "美國7月費城聯儲非製造業指數為7.4。"
+    },
+    {
+      "id": "5000412",
+      "time": "2026-07-21 20:30:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟(MSFT.O)同意在Mistral的歐洲計算基礎設施上投資數十億美元。"
+    },
+    {
+      "id": "5000411",
+      "time": "2026-07-21 20:30:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：三星健康助手將於8月開啟Beta測試，需使用者主動選擇啟用。"
+    },
+    {
+      "id": "te:economy:568566",
+      "time": "2026-07-21 20:30:16",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "France",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "France 10Y Bond Yield Hits 17-year High — France 10 Year Government Bond Yield increased to 3.97%, the highest since June 2009. Over the past 4 weeks, France 10Y Bond Yield gained 37.00 basis points, and in the last 12 months, it increased 70.50 basis points."
+    },
+    {
+      "id": "5000410",
+      "time": "2026-07-21 20:29:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊：過去24小時襲擊巴林4處、科威特5處及約旦2處軍事基地】當地時間7月21日，伊朗伊斯蘭革命衛隊釋出戰報稱，在過去24小時內，伊朗武裝部隊對中東地區多個美軍及相關盟友的軍事基地實施了大規模導彈與無人機聯合打擊。根據宣告，此次行動的具體目標包括：巴林境內：4個軍事基地遭到攻擊；科威特境內：5個軍事基地遭到攻擊；約旦境內：2個軍事基地遭到攻擊。伊朗方面表示，這些打擊是對其此前遭受挑釁的回應，旨在削弱敵方在該地區的軍事存在與作戰能力。此次行動進一步證實了伊朗具備對波斯灣沿岸及周邊國家境內目標進行遠端精確打擊的能力。"
+    },
     {
       "id": "mkt:019f84a6-6810-7aab-8e29-2b87f9723a54",
       "time": "2026-07-21 20:28:45",
@@ -170538,679 +170631,6 @@
         "XAUUSD"
       ],
       "text": "After the CPI release, the dollar index (DXY) briefly slid about 50 points to 100.68."
-    },
-    {
-      "id": "4987746",
-      "time": "2026-07-14 20:33:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國美元指數(USD)資料公佈後下跌0.59%，報100.66。"
-    },
-    {
-      "id": "4987745",
-      "time": "2026-07-14 20:33:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊/美元<GBP=D3>上漲0.63%，報1.3430美元。"
-    },
-    {
-      "id": "4987744",
-      "time": "2026-07-14 20:33:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4100美元/盎司，日內漲2.53%。"
-    },
-    {
-      "id": "mkt:019f609e-01cb-7aab-8d7c-b9dbdcd7a605",
-      "time": "2026-07-14 20:33:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Market pricing shows bets on a Fed rate hike this month have been trimmed."
-    },
-    {
-      "id": "4987743",
-      "time": "2026-07-14 20:33:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4110美元/盎司，日內漲2.62%。"
-    },
-    {
-      "id": "4987742",
-      "time": "2026-07-14 20:33:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破60美元/盎司，日內漲3.50%。"
-    },
-    {
-      "id": "4987741",
-      "time": "2026-07-14 20:33:12",
-      "tags": [
-        "資料",
-        "市場"
-      ],
-      "text": "美元兌日元<JPY=>在CPI資料公佈後跌幅擴大，最新報161.74，下跌0.42%。"
-    },
-    {
-      "id": "4987740",
-      "time": "2026-07-14 20:33:03",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "市場訊息：交易員減少了本月對美聯儲加息的押注。"
-    },
-    {
-      "id": "mkt:019f609d-a73e-7aab-8d7c-b5e39d88f248",
-      "time": "2026-07-14 20:32:52",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "S&P 500 futures rose 0.5%; Nasdaq 100 futures rose 1.3%."
-    },
-    {
-      "id": "mkt:019f609d-7c62-7aab-8d7c-a8a0ec6fa778",
-      "time": "2026-07-14 20:32:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said the U.S. economy remains resilient and growth is steady."
-    },
-    {
-      "id": "4987739",
-      "time": "2026-07-14 20:32:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲3%，現報59.40美元/盎司。"
-    },
-    {
-      "id": "mkt:019f609d-5c66-7aab-8d7c-a121dda4c7a7",
-      "time": "2026-07-14 20:32:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve chair Kevin Warsh said the labor market is broadly stable and nominal wage growth remains solid."
-    },
-    {
-      "id": "mkt:019f609d-50f5-7aab-8d7c-98110e8c985d",
-      "time": "2026-07-14 20:32:30",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "After CPI data were released, spot gold briefly rose $13 to $4,096.2/oz."
-    },
-    {
-      "id": "mkt:019f609d-2ffa-7aab-8d7c-9586ee336988",
-      "time": "2026-07-14 20:32:21",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed chair Kevin Warsh said the Fed has zero tolerance for persistently high inflation."
-    },
-    {
-      "id": "em:qqyh_mlc:202607143805944020",
-      "time": "2026-07-14 20:32:06",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美國6月通脹資料公佈後 交易員大幅削減對美聯儲加息的押注】美國6月通脹資料公佈後，美國短期利率期貨大幅跳漲，交易員大幅削減對美聯儲加息的押注。"
-    },
-    {
-      "id": "4987738",
-      "time": "2026-07-14 20:31:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲3%，現報59.72美元/盎司。"
-    },
-    {
-      "id": "mkt:019f609c-a099-7aab-8d7c-8dc1eb569f7b",
-      "time": "2026-07-14 20:31:45",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "After CPI data were released, silver rose $2 intraday to $59.15/oz."
-    },
-    {
-      "id": "4987737",
-      "time": "2026-07-14 20:31:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國消費者物價指數公佈後，斯托克歐洲600指數抹去了跌幅。"
-    },
-    {
-      "id": "mkt:019f609c-97b9-7aab-8d7c-80dfcf51910e",
-      "time": "2026-07-14 20:31:42",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bullish",
-        "S&P500",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US June NSA housing inflation YoY 3.3%, vs 3.4% prior."
-    },
-    {
-      "id": "em:qqyh_mlc:202607143805943432",
-      "time": "2026-07-14 20:31:39",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什表示，美聯儲對持續高通脹“零容忍”。"
-    },
-    {
-      "id": "mkt:019f609c-7b1e-7aab-8d7c-7f3cb8753313",
-      "time": "2026-07-14 20:31:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US June core inflation unexpectedly eases】US not seasonally adjusted core CPI YoY 2.6% vs 2.8% consensus; not seasonally adjusted core CPI MoM 0.0%, smallest monthly increase since Jan 2021."
-    },
-    {
-      "id": "mkt:019f609c-7780-7aab-8d7c-70ccb6dd2b9e",
-      "time": "2026-07-14 20:31:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US June unadjusted used cars and trucks inflation YoY -1.8% (prior -2.0%)."
-    },
-    {
-      "id": "mkt:019f609c-75ec-7aab-8d7c-6f50d0410e85",
-      "time": "2026-07-14 20:31:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | Shelter Inflation Rate (YoY) (Jun) | actual 3.3% | previous 3.4%"
-    },
-    {
-      "id": "4987736",
-      "time": "2026-07-14 20:31:34",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【美國6月核心通脹月率意外下降】美國6月未季調核心CPI年率錄得2.6%，市場預期為2.8%；美國6月未季調核心CPI月率錄得0%，為2021年1月來最小增幅。"
-    },
-    {
-      "id": "mkt:019f609c-5904-7aab-8d7c-62cef4d88177",
-      "time": "2026-07-14 20:31:26",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | Used Car and Truck Inflation Rate (YoY) (Jun) | actual -1.8% | previous -2%"
-    },
-    {
-      "id": "mkt:019f609c-566c-7aab-8d7c-5c0233fc8b85",
-      "time": "2026-07-14 20:31:26",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US June unadjusted new-vehicle inflation YoY 0.5%, prior 0.2%."
-    },
-    {
-      "id": "4987735",
-      "time": "2026-07-14 20:31:22",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "美國通脹資料公佈後，短期利率期貨大幅上漲，交易員大幅削減對美聯儲加息的押注。"
-    },
-    {
-      "id": "mkt:019f609c-3932-7aab-8d7c-50d0739ea557",
-      "time": "2026-07-14 20:31:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | New Vehicle Inflation Rate (YoY) (Jun) | actual 0.5% | previous 0.2%"
-    },
-    {
-      "id": "4987734",
-      "time": "2026-07-14 20:31:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4090美元/盎司，日內漲2.31%。"
-    },
-    {
-      "id": "mkt:019f609c-1f53-7aab-8d7c-48d4e377aa6f",
-      "time": "2026-07-14 20:31:12",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US June unadjusted energy inflation YoY 15.7%, down from 23.5% in prior month."
-    },
-    {
-      "id": "4987733",
-      "time": "2026-07-14 20:31:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內漲2%，現報1280.64美元/盎司。"
-    },
-    {
-      "id": "4987732",
-      "time": "2026-07-14 20:31:08",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "【美國6月整體通脹如期回落】美國6月未季調CPI年率錄得3.5%（前值4.2%），市場預期為3.8%；美國6月季調後CPI月率錄得-0.4%，為2020年4月以來最大降幅。"
-    },
-    {
-      "id": "mkt:019f609c-1090-7aab-8d7c-453f4834aa2b",
-      "time": "2026-07-14 20:31:08",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US June not seasonally adjusted food inf YoY 3.0% vs 3.1% prior."
-    },
-    {
-      "id": "mkt:019f609c-0778-7aab-8d7c-3ace90c7ee22",
-      "time": "2026-07-14 20:31:05",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | Energy Inflation Rate (YoY) (Jun) | actual 15.7% | previous 23.5%"
-    },
-    {
-      "id": "4987731",
-      "time": "2026-07-14 20:31:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4100美元/盎司，日內漲2.41%。"
-    },
-    {
-      "id": "4987730",
-      "time": "2026-07-14 20:30:59",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲對持續高通脹“零容忍”。"
-    },
-    {
-      "id": "mkt:019f609b-e655-7aab-8d7c-31df2b16e93d",
-      "time": "2026-07-14 20:30:57",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | Food Inflation Rate (YoY) (Jun) | actual 3% | previous 3.1%"
-    },
-    {
-      "id": "mkt:019f609b-c9ce-7aab-8d7c-2b7135a08850",
-      "time": "2026-07-14 20:30:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【US June headline inflation cools as expected】US June unadjusted CPI YoY 3.5% (prev 4.2%), market expected 3.8%. June seasonally adjusted CPI MoM -0.4%, the largest monthly drop since April 2020."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607143805942648",
-      "time": "2026-07-14 20:30:39",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月消費者價格指數同比增長3.5% 低於預期】美國6月消費者價格指數（CPI）同比增長3.5%，預估為增長3.8%，前值為增長4.2%。美國6月CPI環比下降0.4%，預估為下降0.1%，前值為增長0.5%。"
-    },
-    {
-      "id": "4987729",
-      "time": "2026-07-14 20:30:37",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月未季調CPI年率 3.5%，預期3.8%，前值4.20%。美國6月未季調核心CPI年率 2.6%，預期2.8%，前值2.90%。美國6月季調後核心CPI月率 0%，預期0.2%，前值0.20%。美國6月季調後CPI月率 -0.4%，預期-0.10%，前值0.50%。"
-    },
-    {
-      "id": "mkt:019f609b-90c0-7aab-8d7c-20454475c0aa",
-      "time": "2026-07-14 20:30:35",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "US June CPI index (not seasonally adjusted) 333.952; consensus 334.697; prior 335.123."
-    },
-    {
-      "id": "te:markets:566813",
-      "time": "2026-07-14 20:30:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Gold is up by 2.08% — Gold increased 2.08% to 4085.02 USD/t.oz"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607143805943375",
-      "time": "2026-07-14 20:30:33",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月核心CPI同比增長2.6% 低於預期】美國6月核心CPI同比增長2.6%，預估為2.8%，前值為2.9%。美國6月核心CPI環比持平，預估增長0.2%。"
-    },
-    {
-      "id": "mkt:019f609b-7178-7aab-8d7c-1ef342c9df1f",
-      "time": "2026-07-14 20:30:27",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI (Jun) | actual 333.952 | consensus 334.697 | previous 335.123"
-    },
-    {
-      "id": "mkt:019f609b-63dc-7aab-8d7c-12770287da51",
-      "time": "2026-07-14 20:30:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US June seasonally adjusted CPI m/m -0.4% (exp -0.1%; prior 0.5%)"
-    },
-    {
-      "id": "mkt:019f609b-6314-7aab-8d7c-08efe939c3d2",
-      "time": "2026-07-14 20:30:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US June core CPI (seasonally adjusted) 0.0% m/m vs 0.2% expected; prior 0.2%."
-    },
-    {
-      "id": "4987728",
-      "time": "2026-07-14 20:30:21",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內漲2%，現報4081.87美元/盎司。"
-    },
-    {
-      "id": "4987727",
-      "time": "2026-07-14 20:30:21",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4080美元/盎司，日內漲2.03%。"
-    },
-    {
-      "id": "4987726",
-      "time": "2026-07-14 20:30:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內漲2%，現報59.09美元/盎司。"
-    },
-    {
-      "id": "4987725",
-      "time": "2026-07-14 20:30:17",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀突破59美元/盎司，日內漲2.55%。"
-    },
-    {
-      "id": "mkt:019f609b-4ad4-7aab-8d7c-037b73c51150",
-      "time": "2026-07-14 20:30:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "US unadjusted CPI YoY for June 3.5% vs 3.8% expected; prior 4.2%."
-    },
-    {
-      "id": "mkt:019f609b-48e1-7aab-8d7b-ffd6551bf007",
-      "time": "2026-07-14 20:30:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US core CPI YoY (NSA) June 2.6% vs 2.8% forecast; May 2.9%."
-    },
-    {
-      "id": "mkt:019f609b-448c-7aab-8d7b-f220f0434a7a",
-      "time": "2026-07-14 20:30:16",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI (MoM) (Jun) | actual -0.4% | consensus -0.10% | previous 0.50%"
-    },
-    {
-      "id": "mkt:019f609b-3b39-7aab-8d7b-ed3ffd379d2b",
-      "time": "2026-07-14 20:30:13",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI excluding Food and Energy (MoM) (Jun) | actual 0% | consensus 0.2% | previous 0.20%"
-    },
-    {
-      "id": "4987724",
-      "time": "2026-07-14 20:30:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4090美元/盎司，日內漲2.13%。"
-    },
-    {
-      "id": "4987723",
-      "time": "2026-07-14 20:30:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲2%，現報4090.91美元/盎司。"
-    },
-    {
-      "id": "mkt:019f609b-2679-7aab-8d7b-e7da41e15d52",
-      "time": "2026-07-14 20:30:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI excluding Food and Energy (YoY) (Jun) | actual 2.6% | consensus 2.8% | previous 2.90%"
-    },
-    {
-      "id": "mkt:019f609b-2296-7aab-8d7b-db44937c946e",
-      "time": "2026-07-14 20:30:07",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | CPI (YoY) (Jun) | actual 3.5% | consensus 3.8% | previous 4.20%"
-    },
-    {
-      "id": "4987722",
-      "time": "2026-07-14 20:30:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4080美元/盎司，日內漲1.91%。"
-    },
-    {
-      "id": "4987721",
-      "time": "2026-07-14 20:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內漲2%，現報59.17美元/盎司。"
-    },
-    {
-      "id": "4987720",
-      "time": "2026-07-14 20:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4070美元/盎司，日內漲1.73%。"
-    },
-    {
-      "id": "4987719",
-      "time": "2026-07-14 20:30:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀突破59美元/盎司，日內漲1.83%。"
-    },
-    {
-      "id": "4987718",
-      "time": "2026-07-14 20:30:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期金日內漲1%，現報4061.21美元/盎司。"
-    },
-    {
-      "id": "4987717",
-      "time": "2026-07-14 20:30:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4060美元/盎司，日內漲1.39%。"
-    },
-    {
-      "id": "4987716",
-      "time": "2026-07-14 20:29:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門提示警惕借保險客戶旅遊等名義侵害消費者權益】據新華社北京7月14日電，金融監管總局、文化和旅遊部7月14日釋出關於警惕借“保險客戶旅遊”名義侵害消費者權益的風險提示，提醒廣大消費者選擇正規旅行社組織的旅遊團出遊，保護人身安全和財產安全。"
-    },
-    {
-      "id": "4987715",
-      "time": "2026-07-14 20:29:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：BEUSA 投資公司宣佈發行 6 億美元高階債券。"
     }
   ]
 }
