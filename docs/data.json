@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-21 08:16:38",
-  "count": 18997,
+  "updated": "2026-07-21 08:20:44",
+  "count": 18994,
   "items": [
+    {
+      "id": "4998639",
+      "time": "2026-07-21 08:19:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本國際石油開發帝石股價上漲3.5%，日本石油勘探股價上漲3.1%。"
+    },
+    {
+      "id": "4998638",
+      "time": "2026-07-21 08:19:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州半導體龍頭 回撤800億】7月20日，長川科技公告稱，收到董事長趙軼提議，擬每10股派發1元中期紅利。按當前6.34億股的股本計，合計派發約6340萬元。這家總部在杭州的企業，主攻半導體測試賽道，默默耕耘18年，攬獲華為海思等重要客戶，迎來業績爆發。 1—6月，其預估將淨賺9億元以上，同比翻倍。截至7月20日，其市值在1680億元左右，短短7個交易日內，市值回撤約800億元。  “現在我們很多機型都爆單了。”記者從內部人士獲悉，其高階SoC測試機D9000出貨量達1300臺，工廠排單到3個月後。（21財經）"
+    },
+    {
+      "id": "4998637",
+      "time": "2026-07-21 08:19:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4020美元/盎司，日內漲0.08%。"
+    },
+    {
+      "id": "mkt:019f820a-89f0-7aab-8e16-a15477b40553",
+      "time": "2026-07-21 08:19:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Euro Stoxx 50 futures fell 0.8%, DAX futures fell 0.7% and UK FTSE 100 futures fell 0.8%."
+    },
+    {
+      "id": "4998636",
+      "time": "2026-07-21 08:17:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.8%，德國DAX指數期貨下跌0.7%，富時指數期貨下跌0.8%。"
+    },
+    {
+      "id": "mkt:019f8208-53ed-7aab-8e16-989d624f3715",
+      "time": "2026-07-21 08:16:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01113.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Leasing at Li Ka Shing's CK Asset tower doubles to ~60% as Hong Kong office market recovers】CK Asset Holdings (01113.HK) says occupancy at a 41-storey Hong Kong office tower, long vacant since its 2024 completion, has more than doubled since the start of the year to about 60%, people familiar with the matter said. The pickup, led by financial firms upgrading and expanding space, signals a broader recovery in Hong Kong's office market. CK Asset expects occupancy to reach at least 75% by year-end, the people said. JLL data show Central prime office rents rose 7.3% in 1H — the biggest half-year gain in 15 years — and vacancy fell from 10.9% at end-2025 to 8.8%."
+    },
+    {
+      "id": "te:markets:568335",
+      "time": "2026-07-21 08:16:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies as Middle East Conflict Rages On — Silver steadied near above $56 an ounce on Tuesday but stayed close to its lowest level in eight months as the ongoing conflict between the US and Iran kept investors focused on the risks of energy-driven inflation and the prospect of higher interest rates. US attacks on Iran entered a tenth consecutive day, with President Donald Trump warning that Iran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had put forward proposals aimed at easing tensions with the US following several days of fighting, while reports pointed to a possible 10-day ceasefire. US Treasury yields climbed sharply this week, with markets now pricing in about a 55% chance of a Federal Reserve rate hike in September, up from 51% a day earlier."
+    },
     {
       "id": "4998635",
       "time": "2026-07-21 08:15:18",
@@ -174560,100 +174632,6 @@
         "Importance 1"
       ],
       "text": "New Zealand Q2 Business Confidence Improves: NZIER — New Zealand’s business confidence improved in the second quarter of 2026, with a net 12% of firms expecting the economy to improve over the next 12 months, up from 4% in the prior quarter, according to the New Zealand Institute of Economic Research’s Quarterly Survey of Business Opinion. The rebound was supported by lower fuel prices during the survey period following a tentative US-Iran peace agreement, though renewed Middle East tensions are expected to weigh on sentiment. Firms remained cautious, with a net 10% cutting staff in the quarter, while 1% and 3% expect to reduce employment and investment, respectively, in the current quarter. A net 1% reported improved trading activity, while 10% expect gains next quarter. Cost pressures also intensified, with a net 54% reporting higher costs and expecting further increases, while the same share plans to raise prices, signaling persistent inflation pressures."
-    },
-    {
-      "id": "4985550",
-      "time": "2026-07-14 08:20:12",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【金價跌回4000美元之下 霍爾木茲海峽重陷封鎖和鷹派美聯儲造成壓力】金價下跌，因為霍爾木茲海峽緊張局勢升級以及一位美聯儲官員的言論增強了加息以抑制通脹的可能性。黃金現貨目前跌回每盎司4000美元下方；其週一下跌近3%，創兩週多來最大跌幅。在美軍重新對伊朗港口實施海上封鎖並連日開火後，美國總統唐納德·特朗普提出對經該水道運輸的貨物收取20%的補償。油價進一步上漲，中東硝煙再起重新引發了人們對該地區原油供應的擔憂。能源價格高企提振了對於美聯儲可能需要將高利率維持更長時間以應對頑固通脹的預期。"
-    },
-    {
-      "id": "4985549",
-      "time": "2026-07-14 08:19:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【WTI原油漲破80美元 布油站上85美元】WTI原油日內漲幅擴大至2.9%，為一個月來首次漲穿80美元/桶關口。布倫特原油站上85美元/桶，創6月12日以來新高。"
-    },
-    {
-      "id": "4985548",
-      "time": "2026-07-14 08:19:44",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：2026版基藥目錄持續擴容 納入4款國產I類新藥】中信建投證券研報稱，2026年版基藥目錄釋出呈現三大特徵：首先，時隔約8年重啟調整，總品種由2018版685種增至794種（淨增109種，增長15.9%），化學藥品和生物製品476種、中成藥318種，中成藥佔比提升至約40%。其次，新增16種創新藥（含4種國產I類新藥），在全面支援中國創新藥企業發展的同時，擴大基層藥品種類，加強基層用藥的銜接；三是堅持中西醫並重、中西藥並用的原則，新增中成藥品種48個，除基本覆蓋了中醫臨床分科外，新增的中成藥品種主要聚焦在中醫優勢病種，如在心繫、肺系、腦系、婦科等相關疾病用藥和兒科專用藥等。中信建投認為，2026年基藥目錄調整結果釋放出積極訊號：基藥目錄品種數量持續擴容，納入的創新藥品種數量上升，體現了基藥目錄調整對創新藥發展的全面支援，創新藥醫保準入效率有望進一步提升。"
-    },
-    {
-      "id": "4985547",
-      "time": "2026-07-14 08:19:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "【味之素將從10月1日起上調部分冷凍食品價格】7月14日，據報道，受原材料和燃料成本上漲影響，味之素將把部分冷凍食品的價格上調5%至8%。新價格適用於10月1日起發貨的產品。"
-    },
-    {
-      "id": "mkt:019f5dfc-f1f9-7aab-8d66-b29e3c547bf9",
-      "time": "2026-07-14 08:18:05",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish",
-        "Hang Seng Index",
-        "CNH"
-      ],
-      "text": "【Guojin Securities: real‑time data show sustained activity in China secondary housing market】Guojin Securities research note: after developers ended quarter‑end volume pushes, primary‑market new‑home sold area fell markedly MoM while YoY decline remained limited. Secondary‑market transactions continue to improve — 22‑city second‑hand transaction volume rose 10.0% YoY. Leading real‑time data show July second‑hand sales widened their YoY gain versus June. Listings have edged down since early July, with the decline versus end‑June increasing, suggesting listing‑growth pressure is weaker than a year ago."
-    },
-    {
-      "id": "4985546",
-      "time": "2026-07-14 08:17:46",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【中信建投：繼續看好AI鏈 關注火箭成功回收帶來的投資機會】中信建投證券研報稱，Meta扎克伯格出來解釋佈局AI雲業務是順應外部客戶對模型和算力的旺盛需求，同時提升基礎設施投入的利用率和變現效率，並不意味著Meta削減AI投入或算力需求見頂。Meta仍計劃將計算能力由2026年約7GW提升至2027年14GW。DeepSeek與智譜傳出佈局自研AI晶片的訊息。兩家公司向晶片環節延伸，將推動國產算力產業鏈持續迭代。持續看好國內大模型廠商及算力產業鏈（含國內與北美）。我國長征十號乙運載火箭於海南商業航天發射場首飛，一子級透過全球首創海上網系捕獲方案，實現我國首次大運力入軌火箭一子級完整可控回收，標誌著中國成為繼美國後，第二個掌握大運力可回收液體火箭完整工程體系的國家。這對國內商業航天、衛星網際網路、太空算力等發展意義重大，建議關注。"
-    },
-    {
-      "id": "4985545",
-      "time": "2026-07-14 08:17:17",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普恢復對伊朗的封鎖，布倫特原油價格上漲至每桶85美元。"
-    },
-    {
-      "id": "4985544",
-      "time": "2026-07-14 08:17:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數下跌1.4%，追隨華爾街跌勢】日本股市早盤走低，追隨華爾街隔夜跌勢。日經指數下跌1.4%，至66287.24點。澳大利亞國民銀行外匯戰略主管Ray Attrill在評論中表示，出現了諸如“伊朗和美國在週日和週一的雙向軍事行動加劇“等事態發展，這使得“風險資產本週開局非常糟糕“。在日本基準指數表現最差的成分股中，安川電機下跌8.8%，Fujikura下跌6.4%，國際電氣下跌6.4%。"
-    },
-    {
-      "id": "4985543",
-      "time": "2026-07-14 08:16:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲2%，現報85.02美元/桶。"
-    },
-    {
-      "id": "4985542",
-      "time": "2026-07-14 08:16:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破85美元/桶，日內漲2.06%。"
     }
   ]
 }

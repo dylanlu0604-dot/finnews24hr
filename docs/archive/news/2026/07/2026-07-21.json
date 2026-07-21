@@ -1,7 +1,79 @@
 {
   "date": "2026-07-21",
-  "count": 467,
+  "count": 474,
   "items": [
+    {
+      "id": "4998639",
+      "time": "2026-07-21 08:19:57",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本國際石油開發帝石股價上漲3.5%，日本石油勘探股價上漲3.1%。"
+    },
+    {
+      "id": "4998638",
+      "time": "2026-07-21 08:19:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【杭州半導體龍頭 回撤800億】7月20日，長川科技公告稱，收到董事長趙軼提議，擬每10股派發1元中期紅利。按當前6.34億股的股本計，合計派發約6340萬元。這家總部在杭州的企業，主攻半導體測試賽道，默默耕耘18年，攬獲華為海思等重要客戶，迎來業績爆發。 1—6月，其預估將淨賺9億元以上，同比翻倍。截至7月20日，其市值在1680億元左右，短短7個交易日內，市值回撤約800億元。  “現在我們很多機型都爆單了。”記者從內部人士獲悉，其高階SoC測試機D9000出貨量達1300臺，工廠排單到3個月後。（21財經）"
+    },
+    {
+      "id": "4998637",
+      "time": "2026-07-21 08:19:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4020美元/盎司，日內漲0.08%。"
+    },
+    {
+      "id": "mkt:019f820a-89f0-7aab-8e16-a15477b40553",
+      "time": "2026-07-21 08:19:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "Euro Stoxx 50 futures fell 0.8%, DAX futures fell 0.7% and UK FTSE 100 futures fell 0.8%."
+    },
+    {
+      "id": "4998636",
+      "time": "2026-07-21 08:17:56",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨下跌0.8%，德國DAX指數期貨下跌0.7%，富時指數期貨下跌0.8%。"
+    },
+    {
+      "id": "mkt:019f8208-53ed-7aab-8e16-989d624f3715",
+      "time": "2026-07-21 08:16:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01113.HK",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【Leasing at Li Ka Shing's CK Asset tower doubles to ~60% as Hong Kong office market recovers】CK Asset Holdings (01113.HK) says occupancy at a 41-storey Hong Kong office tower, long vacant since its 2024 completion, has more than doubled since the start of the year to about 60%, people familiar with the matter said. The pickup, led by financial firms upgrading and expanding space, signals a broader recovery in Hong Kong's office market. CK Asset expects occupancy to reach at least 75% by year-end, the people said. JLL data show Central prime office rents rose 7.3% in 1H — the biggest half-year gain in 15 years — and vacancy fell from 10.9% at end-2025 to 8.8%."
+    },
+    {
+      "id": "te:markets:568335",
+      "time": "2026-07-21 08:16:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Steadies as Middle East Conflict Rages On — Silver steadied near above $56 an ounce on Tuesday but stayed close to its lowest level in eight months as the ongoing conflict between the US and Iran kept investors focused on the risks of energy-driven inflation and the prospect of higher interest rates. US attacks on Iran entered a tenth consecutive day, with President Donald Trump warning that Iran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. Meanwhile, Iran said mediators had put forward proposals aimed at easing tensions with the US following several days of fighting, while reports pointed to a possible 10-day ceasefire. US Treasury yields climbed sharply this week, with markets now pricing in about a 55% chance of a Federal Reserve rate hike in September, up from 51% a day earlier."
+    },
     {
       "id": "4998635",
       "time": "2026-07-21 08:15:18",
