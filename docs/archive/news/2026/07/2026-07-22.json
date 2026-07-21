@@ -1,7 +1,43 @@
 {
   "date": "2026-07-22",
-  "count": 35,
+  "count": 39,
   "items": [
+    {
+      "id": "5000728",
+      "time": "2026-07-22 00:35:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱很快重擊伊朗鎬山核設施】美國總統特朗普7月21日在白宮會見到訪的黎巴嫩總統奧恩時對媒體稱，美國“很快”將對伊朗位於納坦茲以南的“鎬山”地下設施發動打擊，而且打擊力度將“非常猛烈”。據悉，“鎬山”是一座經過加固的地下設施。伊朗2020年曾向國際原子能機構申報，該地點未來將用於組裝生產核燃料所需的離心機。特朗普上週接受採訪時也曾表示，美國“可能會很快對‘鎬山’採取行動”。有報道稱，以色列方面認為，在去年6月持續12天的以伊衝突結束後，伊朗已將先進離心機及部分高濃縮鈾庫存轉移至該地下設施。（CCTV國際時訊）"
+    },
+    {
+      "id": "5000727",
+      "time": "2026-07-22 00:34:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國白宮宣佈與約旦達成貿易協議】當地時間7月21日，美國白宮釋出宣告表示，美國總統特朗普宣佈與約旦達成一項貿易協議，這項美約貿易協議將消除美國出口商長期面臨的貿易壁壘，併為美國關鍵產業開闢新的市場準入機會。宣告表示，這項貿易協議將建立在雙方長期經濟關係的基礎上，其中包括於2001年12月17日生效的《美國-約旦自由貿易協定》。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8587-35d4-7aab-8e2f-40830bed0cce",
+      "time": "2026-07-22 00:34:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The IDF said it killed several armed militants who were moving weapons in the Gaza Strip."
+    },
+    {
+      "id": "te:markets:568611",
+      "time": "2026-07-22 00:34:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Extend Rebound — US stocks gained further ground on Tuesday with support from the tech sector ahead of key earnings results. The S&P 500 and the Dow rose around 0.8%, gaining ground after multiple muted sessions, while the Nasdaq 100 advanced 1.5%. Micron and Sandisk surged over 12% each, while Applied Materials and Marvell gained over 8%. Chip manufacturers extended their rebound from last week's rout after strong export data from Taiwan and South Korea maintained the momentum for semiconductor producers. The sector rose ahead of Alphabet's earnings tomorrow, serving as the latest signal for AI infrastructure demand by hyperscalers Meanwhile, other sectors halted recent selling pressure despite further escalation between Iran and the US and its impact on higher energy prices. Treasury yields remained high and drove financial stocks to trim part of their earnings-fueled rally last week. GM rose 5% after posting their results, while Charles Schwab sank 3% after missing earnings estimates."
+    },
     {
       "id": "mkt:019f8585-1932-7aab-8e2f-3bee1ea703cf",
       "time": "2026-07-22 00:32:00",
