@@ -1,7 +1,118 @@
 {
   "date": "2026-07-21",
-  "count": 1007,
+  "count": 1018,
   "items": [
+    {
+      "id": "4999075",
+      "time": "2026-07-21 10:16:26",
+      "tags": [
+        "國際",
+        "原創"
+      ],
+      "text": "【日本厚生勞動大臣：會考慮GPIF對市場的長期影響】日本厚生勞動大臣上野賢一郎週二表示，對政府養老投資基金(GPIF)的管理將從長遠角度出發，會考慮對市場和其他私營部門活動的影響。上野週二在東京舉行的例行記者會上表示，在另類投資方面，GPIF將加大對國內專案的投資，為日本經濟增長做出貢獻。"
+    },
+    {
+      "id": "mkt:019f8275-4b9c-7aab-8e19-b10baab41b79",
+      "time": "2026-07-21 10:15:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【Shanghai 1H foreign trade 2.55 tln yuan, +18.6% YoY】Shanghai customs reported 1H foreign trade totaled 2.55 tln yuan, up 18.6% YoY; exports 1.14 tln yuan, +20.1% YoY; imports 1.41 tln yuan, +17.4% YoY."
+    },
+    {
+      "id": "mkt:019f8274-ea76-7aab-8e19-a874f3e37256",
+      "time": "2026-07-21 10:15:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "【Rising rates reshape Japanese corporate bond market】Rising interest rates, now near 30-year highs, are reshaping Japan's corporate bond market: higher funding costs for issuers have pushed investors back into fixed income, triggering fresh flows. Noriaki Nomura, head of debt capital markets at Mitsubishi UFJ, said that with Japan returning to an inflationary environment corporates are prioritizing capital expenditure to drive revenue growth rather than cutting costs. As of March, corporate bond issuance totaled a record JPY16.7 tln (about $1,030bn). Although brokers compile issuance differently, most expect fiscal-year issuance to be roughly flat with last year."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607213814572582",
+      "time": "2026-07-21 10:15:25",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【上半年上海外貿進出口2.55萬億元 同比增長18.6%】記者剛剛從上海海關新聞通氣會獲悉，今年上半年，上海市外貿進出口2.55萬億元，同比增長18.6%，其中出口1.14萬億元，增長20.1%；進口1.41萬億元，增長17.4%；實現進出口兩端協同發力、均衡向好，充分彰顯上海經濟強勁的韌性、蓬勃的活力和厚實的發展潛力。"
+    },
+    {
+      "id": "4999074",
+      "time": "2026-07-21 10:15:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【交通運輸部：“十五五”時期實施8萬公里交通基礎設施改造】7月21日，交通運輸部副部長徐成光在國新辦釋出會上表示，“十五五”時期總體目標是基本建成現代化綜合交通運輸體系。在最佳化交通運輸結構方面，重點推進交通基礎設施更新和數字化改造。到2030年，實施8萬公里左右的設施改造，實施新一輪農村公路提升行動，新改建農村公路50萬公里。在加強系統整合融合方面，重點是完善現代化都市圈綜合交通運輸體系，實施都市圈城際通勤效率提升工程，加快建設20個國際性，80個全國性綜合交通運輸樞紐城市，實施多式聯運攻堅，打通堵點、卡點行動，力爭用5年左右的時間推動1000個主要貨運節點，提升多式聯運功能。"
+    },
+    {
+      "id": "te:markets:568367",
+      "time": "2026-07-21 10:15:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: New Zealand Dollar Increases by 0.53% — Top currency gainer is New Zealand Dollar (0.53%). Biggest loser is South Korean Won (-0.23%). Meanwhile, Chinese Yuan and Japanese Yen were little changed."
+    },
+    {
+      "id": "4999073",
+      "time": "2026-07-21 10:14:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年上海外貿進出口2.55萬億元 同比增長18.6%】從上海海關新聞通氣會獲悉，今年上半年，上海市外貿進出口2.55萬億元，同比增長18.6%，其中出口1.14萬億元，增長20.1%；進口1.41萬億元，增長17.4%；實現進出口兩端協同發力、均衡向好，充分彰顯上海經濟強勁的韌性、蓬勃的活力和厚實的發展潛力。 (上觀新聞)"
+    },
+    {
+      "id": "4999072",
+      "time": "2026-07-21 10:14:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【隆基綠能在蘭州成立新公司 含AI行業應用系統整合服務業務】企查查APP顯示，近日，蘭州隆榆新能源有限公司成立，經營範圍包含智慧控制系統整合；人工智慧行業應用系統整合服務；微特電機及元件製造；微特電機及元件銷售等。企查查股權穿透顯示，該公司由隆基綠能(601012)間接全資持股。"
+    },
+    {
+      "id": "mkt:019f8273-6c27-7aab-8e19-a6dd56429e0e",
+      "time": "2026-07-21 10:13:50",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【China aims to raise main framework completion of national comprehensive multi‑modal transport network to 95% in 15th Five‑Year Plan period】Deputy Transport Minister Xu Chengguang said at a State Council press briefing on July 21 that China will prioritise construction of cross‑regional and cross‑basin major corridors during the 15th Five‑Year Plan period and push the main framework completion rate of the national comprehensive multi‑modal transport network to 95%."
+    },
+    {
+      "id": "mkt:019f8273-202d-7aab-8e19-9da9eb2ca169",
+      "time": "2026-07-21 10:13:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "000001.SS",
+        "Impact bullish",
+        "000300.SS"
+      ],
+      "text": "A-share power stocks bounced; Lixin New Energy hit the daily limit, Huayin Power rose over 6%, and Huadian Liaoning, Shenergy, Jinkai New Energy, Datang Power and Huadian Energy also advanced. The State Council executive meeting called to systematically advance planning and construction of the \"six networks\", accelerate implementation by locality and industry, and strengthen funding and factor support to ensure major infrastructure networks are built."
+    },
+    {
+      "id": "mkt:019f8272-f6a9-7aab-8e19-940726559804",
+      "time": "2026-07-21 10:13:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Chongqing 1H GDP 1.67 tln yuan, up 4.2% YoY】Chongqing's GDP rose 4.2% YoY to 1.67 tln yuan in 1H, the Chongqing statistics bureau and NBS Chongqing survey team said. By sector, value added: primary 70.52 bln yuan, up 4.1%; secondary 564.90 bln yuan, up 2.2%; tertiary 1,034.80 bln yuan, up 5.3%."
+    },
     {
       "id": "4999071",
       "time": "2026-07-21 10:13:00",
