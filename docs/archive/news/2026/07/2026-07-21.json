@@ -1,7 +1,79 @@
 {
   "date": "2026-07-21",
-  "count": 3112,
+  "count": 3119,
   "items": [
+    {
+      "id": "mkt:019f8505-ad3a-7aab-8e2b-aa5dc41d0aa0",
+      "time": "2026-07-21 22:12:49",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Data show Azerbaijan's oil exports via the Baku-Tbilisi-Ceyhan (BTC) pipeline fell 8.7% in January-June."
+    },
+    {
+      "id": "mkt:019f8504-19da-7aab-8e2b-a260c754774d",
+      "time": "2026-07-21 22:11:06",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "Sources said it is unclear how many Intel (INTC.O) employees will be affected by the layoffs."
+    },
+    {
+      "id": "5000586",
+      "time": "2026-07-21 22:11:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用電氣航空航天：BBAM將從通用電氣航空航天收購30臺CFM LEAP備用發動機。"
+    },
+    {
+      "id": "5000585",
+      "time": "2026-07-21 22:10:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武契奇稱將在辭去總統職務後參選總理】塞爾維亞總統武契奇20日在出席一場活動後對媒體表示，塞政府將先行辭職，隨後他將宣佈提前舉行議會選舉。在繼續履行總統職責至多兩週後，他將辭去總統職務並參加競選，爭取出任政府總理。議會是塞爾維亞國家最高權力機構，實行一院制。總理人選由總統提出並由議會投票產生，領導政府行使行政權；總統作為國家元首，主要履行憲法規定的職責。（新華社）"
+    },
+    {
+      "id": "5000584",
+      "time": "2026-07-21 22:09:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特汽車正在召回近38.8萬輛汽車，因第二排座椅存在問題，此問題可能增加受傷風險。"
+    },
+    {
+      "id": "mkt:019f8502-8e60-7aab-8e2b-9f880dc54bb1",
+      "time": "2026-07-21 22:09:24",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "People familiar with the matter said Intel (INTC.O) plans layoffs in its data-center unit."
+    },
+    {
+      "id": "mkt:019f8502-6aeb-7aab-8e2b-940a0d0b6c6a",
+      "time": "2026-07-21 22:09:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Wall Street Journal reports U.S. Trade Representative Greer said the U.S. is preparing a new round of tariffs."
+    },
     {
       "id": "mkt:019f8502-689a-7aab-8e2b-8caa35ae0b8a",
       "time": "2026-07-21 22:09:15",
