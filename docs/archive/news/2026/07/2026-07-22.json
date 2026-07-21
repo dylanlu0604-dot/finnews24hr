@@ -1,7 +1,54 @@
 {
   "date": "2026-07-22",
-  "count": 126,
+  "count": 131,
   "items": [
+    {
+      "id": "5000783",
+      "time": "2026-07-22 02:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI 8月原油期貨收報84.91美元/桶，逼近6月11日收盤位86.16美元。NYMEX 8月天然氣期貨收報2.8650美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.4059美元/加侖，NYMEX 8月取暖油期貨收報4.1266美元/加侖。"
+    },
+    {
+      "id": "te:markets:568615",
+      "time": "2026-07-22 02:30:18",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 4.09% — Top crypto gainers are XRP (4.09%), Bitcoin (1.48%) and Ether (0.84%)."
+    },
+    {
+      "id": "mkt:019f85f1-6573-7aab-8e30-649c2cc8a4b4",
+      "time": "2026-07-22 02:30:17",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange July 21 evening session: Gold T+D closed up 0.87% at 889.96 yuan/gram; Silver T+D closed up 2.19% at 14,360.0 yuan/kg."
+    },
+    {
+      "id": "5000782",
+      "time": "2026-07-22 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲3.15%，報547.40元人民幣/桶。滬金夜盤收漲1.23%，滬銀收漲3.01%。"
+    },
+    {
+      "id": "5000781",
+      "time": "2026-07-22 02:29:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部長赫格塞思出席參議院聽證會，就特朗普提出的追加資金申請進行作證。"
+    },
     {
       "id": "mkt:019f85ef-89ee-7aab-8e30-5d7143b5ad8c",
       "time": "2026-07-22 02:28:15",
