@@ -1,7 +1,98 @@
 {
-  "updated": "2026-07-21 20:45:57",
-  "count": 18468,
+  "updated": "2026-07-21 20:50:02",
+  "count": 18461,
   "items": [
+    {
+      "id": "5000445",
+      "time": "2026-07-21 20:48:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "通用汽車首席財務官：中東批發業務受航運中斷衝擊。"
+    },
+    {
+      "id": "5000444",
+      "time": "2026-07-21 20:48:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "通用汽車財務總監保羅·雅各布森表示，年初因部分車型停產、電動汽車市場規模較小及經銷商庫存緊張，通用汽車交付量受到影響。"
+    },
+    {
+      "id": "mkt:019f84b8-ad6a-7aab-8e29-7b6f98e516c0",
+      "time": "2026-07-21 20:48:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said actions related to the Canada trade issue are targeted."
+    },
+    {
+      "id": "5000443",
+      "time": "2026-07-21 20:48:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾談對加貿易：相關措施是量身定製的。"
+    },
+    {
+      "id": "mkt:019f84b8-4daa-7aab-8e29-756bf3bf0cd0",
+      "time": "2026-07-21 20:48:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Trade Representative Greer said Canada has offered other countries better trade agreements."
+    },
+    {
+      "id": "5000442",
+      "time": "2026-07-21 20:48:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "通用汽車首席財務官：公司已完成重大現金支出調整，以適配電動汽車產能佈局。"
+    },
+    {
+      "id": "5000441",
+      "time": "2026-07-21 20:46:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "諾和諾德盤前股價下跌2%，此前該公司控告禮來，指控其釋出虛假廣告。"
+    },
+    {
+      "id": "mkt:019f84b6-9016-7aab-8e29-6f7f1cd6717c",
+      "time": "2026-07-21 20:46:24",
+      "tags": [
+        "MKT News",
+        "GM.N",
+        "Impact mixed"
+      ],
+      "text": "GM CEO said the company has spent $4.5 bln on EV-related costs."
+    },
+    {
+      "id": "5000440",
+      "time": "2026-07-21 20:46:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【萬源通：擬以1000萬元至1500萬元回購公司股份】萬源通7月21日公告，公司擬以集中競價交易方式回購公司股份，回購資金總額不少於1000萬元，不超過1500萬元，回購價格不超過38元/股，回購股份將用於實施員工持股計劃或者股權激勵。本次回購股份的資金來源為公司自有資金及金融機構提供的股票回購專項貸款，其中專項貸款資金不超過回購資金的90%。"
+    },
+    {
+      "id": "5000439",
+      "time": "2026-07-21 20:45:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行證券將易馳貨運（Expeditors International）目標股價從181.00美元上調至189.00美元。"
+    },
+    {
+      "id": "5000438",
+      "time": "2026-07-21 20:45:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【布倫特原油站上91美元/桶】布倫特原油站上91美元/桶，日內漲2.28%。"
+    },
     {
       "id": "te:markets:568567",
       "time": "2026-07-21 20:45:13",
@@ -169926,192 +170017,6 @@
         "其他"
       ],
       "text": "市場訊息：巴菲特不再將60億美元伯克希爾股權捐贈給蓋茨慈善基金會。"
-    },
-    {
-      "id": "mkt:019f60ad-55a1-7aab-8d7d-c595d41f56c9",
-      "time": "2026-07-14 20:50:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "TIMIRAOS: June CPI readings were broadly muted. Core goods prices fell for a second consecutive month, down 0.09%. Housing rose only 0.12%. Core services ex-housing declined 0.2%, the weakest since the pandemic."
-    },
-    {
-      "id": "mkt:019f60ad-079d-7aab-8d7d-ba657595ae60",
-      "time": "2026-07-14 20:49:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【Federal Reserve Chair Kevin Warsh optimistic on economy, cautious on AI boom】Federal Reserve Chair Kevin Warsh said he is optimistic on the overall economy, noting a broadly stable labor market, few layoffs and some nominal wage growth. He warned he is more cautious about the AI boom, saying AI has boosted corporate investment but adds uncertainty and “we are not yet clear on the extent to which the economy will benefit from AI’s development.” The Fed is closely monitoring AI’s effects on inflation and the labor market."
-    },
-    {
-      "id": "4987801",
-      "time": "2026-07-14 20:48:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【委內瑞拉任命新任駐美國代辦】當地時間14日，委內瑞拉代總統德爾西·羅德里格斯透過社交媒體通報，任命約翰·阿爾瓦雷斯·馬爾克斯為新的委內瑞拉駐美國代辦。委政府日前將外交部和外貿部合併為外交與外貿部，原委駐美代辦費利克斯·普拉森西亞被任命為該新部門的部長。（央視新聞）"
-    },
-    {
-      "id": "4987800",
-      "time": "2026-07-14 20:48:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：紐約市本週對全市建築工地開展檢查。"
-    },
-    {
-      "id": "mkt:019f60ab-8969-7aab-8d7d-b05a8998307d",
-      "time": "2026-07-14 20:48:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "【U.S. June CPI below expectations as energy prices retreat】U.S. consumer prices fell more than expected in June, recording the largest monthly drop since April 2020 as a sharp fall in energy eased recent inflationary pressure. Headline CPI declined 0.4% m/m (seasonally adjusted), taking the y/y rate to 3.5%; economists had penciled in -0.2% m/m and 3.8% y/y. Core CPI (ex food and energy) was unchanged m/m, with the 12-month rate at 2.6% versus market expectations of +0.2% m/m and 2.9% y/y. The energy index plunged 5.7% m/m (still +15.7% y/y); gasoline and fuel oil each fell more than 9%. Services inflation excluding energy eased noticeably—a key Fed-watch category—with housing up just 0.1% and transportation services down 0.3%. Food rose 0.2% m/m; new vehicle prices were flat; used cars and trucks fell 0.2%; apparel declined 0.6%."
-    },
-    {
-      "id": "4987799",
-      "time": "2026-07-14 20:47:49",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "格雷夫公司股價盤前下跌1.3%，此前美國銀行全球研究部將其評級從中性下調至表現不佳。"
-    },
-    {
-      "id": "4987798",
-      "time": "2026-07-14 20:47:37",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲主席沃什：美聯儲不會容忍通脹過高】美聯儲主席凱文·沃什表示，央行決策者絕不會容忍高通脹現象。他再次重申了控制物價上漲的決心，因為物價上漲問題已經持續了五年之久。他在美聯儲公佈的講稿中表示：“我們的委員會成員絕不能容忍持續居高不下的通脹現象”。“我們都決心要恢復價格穩定。”“如果我們能夠制定出正確的政策——而我們一定能夠做到——那麼過去五年中的通脹問題就將成為歷史。”沃什的講稿是6月份美國CPI資料公佈之前準備好的。"
-    },
-    {
-      "id": "mkt:019f60ab-1f1c-7aab-8d7d-adc37b0c94a8",
-      "time": "2026-07-14 20:47:35",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Federal Reserve Chair KEVIN WARSH: Fed will not tolerate high inflation】Federal Reserve Chair KEVIN WARSH said Fed policymakers \"must not tolerate persistently high inflation\" and are determined to restore price stability after five years of elevated price gains. The remarks were in a Fed-released speech prepared ahead of June's US CPI release."
-    },
-    {
-      "id": "mkt:019f60ab-029f-7aab-8d7d-a699c8e553bb",
-      "time": "2026-07-14 20:47:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: Israeli Prime Minister Netanyahu said he inspected the Dimona nuclear reactor today."
-    },
-    {
-      "id": "te:markets:566826",
-      "time": "2026-07-14 20:47:23",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Rebound on Soft CPI — Futures tracking US stock indices rebounded on Tuesday after softer inflation data erased the risk of a Federal Reserve rate hike this month. Contracts for the S&P 500 swung to 0.3% higher and those for the Nasdaq 100 gained nearly 1%, while the Dow erased a 500 point deficit to set up a flat open. The US CPI fell more than expected and the core gauge surprisingly refrained from increasing, easing concerns that higher underlying price growth would force the Fed to start hiking rates by their next meeting. This was magnified by another rally in energy prices after the US and Iran maintained strikes against each other. Chip producers rebounded from yesterday's selloff with Micron and Sandisk adding 5% each premarket. On the other hand, the country's largest banks were lower. JPMorgan fell 2.5% despite posting its strongest profit level ever, and Bank of America dropped 0.8% despite beating earnings. Likewise, Wells Fargo sank 2% even though its earnings report was also seen as a beat."
-    },
-    {
-      "id": "4987797",
-      "time": "2026-07-14 20:47:05",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通高管稱，存款業務上半年表現強於預期。"
-    },
-    {
-      "id": "te:economy:566825",
-      "time": "2026-07-14 20:47:05",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Energy Inflation",
-        "Importance 0"
-      ],
-      "text": "US Energy Inflation Slows in June — US energy inflation dropped to 15.7% year-over-year in June 2026 from 23.5% in May, which was the steepest since August 2022. Prices slowed down for gasoline (27.1% vs 40.5% in May); fuel oil (42.9% vs 58.9%) and electricity (4% vs 5.9%). Piped gas services costs increased by 3%, the same pace as in May. On a monthly basis, energy prices slipped by 5.7%, after a 3.9% increase in the month before."
-    },
-    {
-      "id": "4987796",
-      "time": "2026-07-14 20:46:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行首席財務官表示，目前我們預計全年經營槓桿率將處於300至400個基點區間。"
-    },
-    {
-      "id": "mkt:019f60aa-25d1-7aab-8d7d-9c9ff777bf0a",
-      "time": "2026-07-14 20:46:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair KEVIN WARSH said a working group on an inf framework will study inf drivers and weigh approaches to achieving price stability."
-    },
-    {
-      "id": "mkt:019f60a9-e03f-7aab-8d7d-97507d9053f0",
-      "time": "2026-07-14 20:46:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed's productivity and employment task force will examine the pace, scope and impact of advances in next-generation general-purpose technologies."
-    },
-    {
-      "id": "4987795",
-      "time": "2026-07-14 20:46:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "【南京新百：預計2026年上半年淨利潤同比下降77.15%到78.90%】南京新百公告，預計2026年上半年淨利潤為3512.02萬元到3804.69萬元，同比下降77.15%到78.90%。報告期內，公司全資子公司世鼎生物技術（香港）有限公司控制的Dendreon Pharmaceuticals LLC的產品PROVENGE銷售下滑，減少世鼎香港淨利潤約1.42億元。"
-    },
-    {
-      "id": "mkt:019f60a9-c6b0-7aab-8d7d-8c7cc1f501e1",
-      "time": "2026-07-14 20:46:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Chair Kevin Warsh said he has appointed a working group in each of five areas to improve the Fed’s monetary policy decision-making, saying those areas are critical to implementing monetary policy."
-    },
-    {
-      "id": "4987794",
-      "time": "2026-07-14 20:46:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【SK董事長：AI賽道需要巨量資金持續投入】在被問及未來五年內（集團定下儲存晶片產能翻倍的目標週期）最擔憂的風險因素時，崔泰源點名地緣政治風險與資金供給問題。他表示：“突發地緣事件極易推高能源價格；AI產業發展途中若遭遇各類意外衝擊，即便只是短期影響，也會讓行業丟失增長勢頭。” 關於資金層面，他坦言：“AI賽道需要巨量資金持續投入，一旦資金供給跟不上，當前強勁的行業發展動能就會消退。” 崔泰源對此解釋：“之所以會面臨這類壓力，本質是現階段人工智慧技術尚不成熟。預計五年左右，AI技術會如同孩童長成一般趨於成熟穩定、可靠性大幅提升，屆時將顯著拉動全社會生產效率，開啟良性產業迴圈。”"
     }
   ]
 }
