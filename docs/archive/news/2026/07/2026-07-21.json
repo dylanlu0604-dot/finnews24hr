@@ -1,7 +1,51 @@
 {
   "date": "2026-07-21",
-  "count": 1030,
+  "count": 1035,
   "items": [
+    {
+      "id": "mkt:019f8284-1955-7aab-8e19-d1d8f507fb03",
+      "time": "2026-07-21 10:32:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Takaichi said she will, based on fiscal sustainability, appropriately guide economic and fiscal policy to preserve market confidence."
+    },
+    {
+      "id": "4999087",
+      "time": "2026-07-21 10:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將在充分關注財政可持續性的前提下引導經濟和財政政策，維護市場信任。"
+    },
+    {
+      "id": "te:economy:568370",
+      "time": "2026-07-21 10:31:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Advance — The yield on the US 10-year Treasury note hovered around 4.6% on Tuesday after rising about 5 basis points in the previous session, as ongoing hostilities between the US and Iran pushed oil prices higher, reviving concerns about inflation and interest rate hikes. US attacks on Iran continued for a tenth straight day, with President Donald Trump warning that Tehran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. However, Iran said mediators had presented proposals to ease tensions with the US after several days of hostilities. Markets now price in about a 55% chance of a Fed rate hike in September, up from 51% a day earlier. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to keep the federal funds rate unchanged."
+    },
+    {
+      "id": "4999086",
+      "time": "2026-07-21 10:31:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報144700元/噸，較上日16:30價格下跌5350元/噸。"
+    },
+    {
+      "id": "4999085",
+      "time": "2026-07-21 10:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊巴林和科威特境內美軍目標】伊朗伊斯蘭革命衛隊21日釋出多份宣告稱，對位於巴林和科威特境內的美軍目標發動導彈和無人機打擊，“摧毀”部分美軍雷達設施和“愛國者”防空系統等。宣告稱，革命衛隊航空航天部隊“徹底摧毀”了一套位於巴林穆哈拉格的美軍雷達系統，位於巴林裡法的美軍“愛國者”防空系統也遭到導彈和無人機同步攻擊並被“摧毀”。此外，革命衛隊還使用導彈和無人機“摧毀”了多處位於科威特的美軍雷達和防禦設施，包括艾哈邁德·賈比爾空軍基地的導彈防禦雷達、“愛國者”防空系統等目標，並打擊了阿里·薩利姆空軍基地一處MQ-9無人機機庫，“摧毀或嚴重損壞”多架無人機。（新華社）"
+    },
     {
       "id": "4999084",
       "time": "2026-07-21 10:28:40",

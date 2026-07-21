@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-21 10:29:22",
-  "count": 19166,
+  "updated": "2026-07-21 10:33:19",
+  "count": 19163,
   "items": [
+    {
+      "id": "mkt:019f8284-1955-7aab-8e19-d1d8f507fb03",
+      "time": "2026-07-21 10:32:03",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Prime Minister Takaichi said she will, based on fiscal sustainability, appropriately guide economic and fiscal policy to preserve market confidence."
+    },
+    {
+      "id": "4999087",
+      "time": "2026-07-21 10:31:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本首相高市早苗：將在充分關注財政可持續性的前提下引導經濟和財政政策，維護市場信任。"
+    },
+    {
+      "id": "te:economy:568370",
+      "time": "2026-07-21 10:31:14",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "US 10-Year Yield Holds Advance — The yield on the US 10-year Treasury note hovered around 4.6% on Tuesday after rising about 5 basis points in the previous session, as ongoing hostilities between the US and Iran pushed oil prices higher, reviving concerns about inflation and interest rate hikes. US attacks on Iran continued for a tenth straight day, with President Donald Trump warning that Tehran would be held responsible for the deaths of three US service members. Iran-backed Houthi militants also announced a maritime embargo against Saudi Arabia, raising concerns over energy shipments through the Red Sea. However, Iran said mediators had presented proposals to ease tensions with the US after several days of hostilities. Markets now price in about a 55% chance of a Fed rate hike in September, up from 51% a day earlier. Meanwhile, Fed officials have entered the blackout period ahead of next week's FOMC meeting, where policymakers are widely expected to keep the federal funds rate unchanged."
+    },
+    {
+      "id": "4999086",
+      "time": "2026-07-21 10:31:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報144700元/噸，較上日16:30價格下跌5350元/噸。"
+    },
+    {
+      "id": "4999085",
+      "time": "2026-07-21 10:30:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊巴林和科威特境內美軍目標】伊朗伊斯蘭革命衛隊21日釋出多份宣告稱，對位於巴林和科威特境內的美軍目標發動導彈和無人機打擊，“摧毀”部分美軍雷達設施和“愛國者”防空系統等。宣告稱，革命衛隊航空航天部隊“徹底摧毀”了一套位於巴林穆哈拉格的美軍雷達系統，位於巴林裡法的美軍“愛國者”防空系統也遭到導彈和無人機同步攻擊並被“摧毀”。此外，革命衛隊還使用導彈和無人機“摧毀”了多處位於科威特的美軍雷達和防禦設施，包括艾哈邁德·賈比爾空軍基地的導彈防禦雷達、“愛國者”防空系統等目標，並打擊了阿里·薩利姆空軍基地一處MQ-9無人機機庫，“摧毀或嚴重損壞”多架無人機。（新華社）"
+    },
     {
       "id": "4999084",
       "time": "2026-07-21 10:28:40",
@@ -176076,71 +176120,6 @@
         "市場"
       ],
       "text": "【化工板塊震盪反彈 恆逸石化封漲停】化工板塊震盪反彈，恆逸石化封漲停，此前金煤科技、江蘇索普漲停，桐昆股份、和邦生物、赤天化、衛星化學跟漲。"
-    },
-    {
-      "id": "4985807",
-      "time": "2026-07-14 10:33:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國1-6月份以美元計價出口同比增長17.6%，進口同比增長26.6%。"
-    },
-    {
-      "id": "em:jjsj_zgsj:202607143805192521",
-      "time": "2026-07-14 10:32:50",
-      "tags": [
-        "經濟數據",
-        "中國"
-      ],
-      "text": "【海關總署：我國出口增速連續11個季度保持增長】海關總署副署長王軍在釋出會上表示，今年以來，中國出口增速超過10%，已連續11個季度保持增長。出口的增長，根本原因在於“中國製造”與全球各類需求的精準適配。"
-    },
-    {
-      "id": "4985806",
-      "time": "2026-07-14 10:32:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國6月出口同比(按人民幣計) 20.8%，前值 13.8%。中國6月進口同比(按人民幣計) 29.4%，前值 21.5%。"
-    },
-    {
-      "id": "4985805",
-      "time": "2026-07-14 10:32:22",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國6月以美元計價出口同比增長27.0%，預估為+19.0%。中國6月以美元計價進口同比增長36.0%，預估為+26.1%。中國6月貿易順差1,256.2億美元，預估為順差1,201億美元。"
-    },
-    {
-      "id": "4985804",
-      "time": "2026-07-14 10:32:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國6月貿易帳 8590.5億元，前值7239.8億元。"
-    },
-    {
-      "id": "4985803",
-      "time": "2026-07-14 10:30:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東方通財務造假案追責升級：現任董事長兼總經理遭刑事調查】上市公司財務造假退市並非“一退了之”。在行政處罰之外，刑事追責、民事索賠等後續程式也在推進，典型如R東方通1。多位知情人士稱，東方通現任董事長兼總經理、“70後”曲濤已被採取刑事強制措施半月左右，目前公司並未釋出相關公告。（財新）"
-    },
-    {
-      "id": "4985802",
-      "time": "2026-07-14 10:29:56",
-      "tags": [
-        "公司"
-      ],
-      "text": "【縱橫股份：組建聯合無人機應急救援隊馳援廣西災後電網搶修】近日，廣西欽州、防城港等地持續出現極端性強降雨，防汛保供電形勢極為緊迫。縱橫股份(688070)官微訊息，公司聯合廣西電網公司電力科學研究院，組建聯合無人機應急救援隊伍，圍繞重點受災區域線路開展巡飛勘查作業，護航民生及防汛關鍵點位穩定用電。"
-    },
-    {
-      "id": "4985801",
-      "time": "2026-07-14 10:29:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【傑華特在北京成立積體電路新公司】企查查APP顯示，近日，傑華特積體電路（北京）有限公司成立，註冊資本1億元，經營範圍包含：積體電路製造；積體電路設計；積體電路晶片及產品製造；積體電路晶片及產品銷售等。企查查股權穿透顯示，該公司由傑華特全資持股。"
     }
   ]
 }
