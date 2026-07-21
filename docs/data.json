@@ -1,7 +1,45 @@
 {
-  "updated": "2026-07-22 01:28:27",
-  "count": 18117,
+  "updated": "2026-07-22 01:32:32",
+  "count": 18115,
   "items": [
+    {
+      "id": "mkt:019f85bb-f3c0-7aab-8e2f-cca44dff95bb",
+      "time": "2026-07-22 01:31:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain Interior Ministry says alarms have been sounded."
+    },
+    {
+      "id": "5000757",
+      "time": "2026-07-22 01:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "ONERUGGED 推出搭載英特爾Lunar Lake平臺的 AI 加固 Windows 平板，邊緣 AI 算力最高可達 115 TOPS。"
+    },
+    {
+      "id": "mkt:019f85ba-0321-7aab-8e2f-c46e85264e92",
+      "time": "2026-07-22 01:29:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【U.S. defense secretary and Joint Chiefs chair to testify to Congress at 02:30 Beijing time】The U.S. defense secretary and the chairman of the Joint Chiefs will testify at a Senate committee hearing on Tuesday amid rising U.S.-Iran tensions. The session will focus on the Trump administration's supplemental funding request. At least two U.S. service members were killed in an Iranian strike on Friday, and another died in Iraq during a controlled demolition of an Iranian drone. The hearing is scheduled for the Senate afternoon, 02:30 Beijing time."
+    },
+    {
+      "id": "5000756",
+      "time": "2026-07-22 01:28:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美眾議長約翰遜：美伊戰爭需要結束，應為談判留空間】據美國哥倫比亞廣播公司（CBS）報道，美國眾議院議長邁克·約翰遜週二在被問及是否會推動《戰爭權力法》相關表決時未予明確回應，但表示，美伊戰爭需要結束，美國也應該獲得其他方面的支援，以推動戰爭終結。約翰遜表示，他認為政界人士應該“給政府留出空間”，讓其透過談判尋求結束戰爭。他說，“我知道，本屆政府正在全天候努力，尋求以一種能夠避免更多美軍人員傷亡的方式解決這一問題。”不過，約翰遜再次強調，美國必須確保伊朗不會擁有核武器。"
+    },
     {
       "id": "mkt:019f85b6-1847-7aab-8e2f-bc089743414f",
       "time": "2026-07-22 01:25:31",
@@ -166550,63 +166588,6 @@
         "其他"
       ],
       "text": "威瑞森將於週四上午宣佈裁員計劃。"
-    },
-    {
-      "id": "4988356",
-      "time": "2026-07-15 01:31:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【哥倫比亞反政府武裝綁架39名平民】哥倫比亞軍方14日說，該國西部喬科省當日發生一起大規模綁架事件，39名平民被反政府武裝人員扣押，其中包括一名未成年人。"
-    },
-    {
-      "id": "4988355",
-      "time": "2026-07-15 01:31:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特軍方稱正攔截伊朗發起的襲擊。"
-    },
-    {
-      "id": "4988354",
-      "time": "2026-07-15 01:30:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "威瑞森計劃於本週開啟新一輪裁員。"
-    },
-    {
-      "id": "mkt:019f61ad-8aa2-7aab-8d86-f841d1ddf40d",
-      "time": "2026-07-15 01:29:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "Federal Reserve's GOOLSBEE said the labor market remains stable but is not robust."
-    },
-    {
-      "id": "4988353",
-      "time": "2026-07-15 01:29:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲古爾斯比：就業市場趨穩，但並未向好。"
-    },
-    {
-      "id": "4988352",
-      "time": "2026-07-15 01:29:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗石油部長：我方決定維持現有機制，以此規避並化解石油貿易領域的各類制裁。"
     }
   ]
 }

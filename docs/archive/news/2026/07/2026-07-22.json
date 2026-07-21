@@ -1,7 +1,45 @@
 {
   "date": "2026-07-22",
-  "count": 80,
+  "count": 84,
   "items": [
+    {
+      "id": "mkt:019f85bb-f3c0-7aab-8e2f-cca44dff95bb",
+      "time": "2026-07-22 01:31:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bahrain Interior Ministry says alarms have been sounded."
+    },
+    {
+      "id": "5000757",
+      "time": "2026-07-22 01:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "ONERUGGED 推出搭載英特爾Lunar Lake平臺的 AI 加固 Windows 平板，邊緣 AI 算力最高可達 115 TOPS。"
+    },
+    {
+      "id": "mkt:019f85ba-0321-7aab-8e2f-c46e85264e92",
+      "time": "2026-07-22 01:29:47",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【U.S. defense secretary and Joint Chiefs chair to testify to Congress at 02:30 Beijing time】The U.S. defense secretary and the chairman of the Joint Chiefs will testify at a Senate committee hearing on Tuesday amid rising U.S.-Iran tensions. The session will focus on the Trump administration's supplemental funding request. At least two U.S. service members were killed in an Iranian strike on Friday, and another died in Iraq during a controlled demolition of an Iranian drone. The hearing is scheduled for the Senate afternoon, 02:30 Beijing time."
+    },
+    {
+      "id": "5000756",
+      "time": "2026-07-22 01:28:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美眾議長約翰遜：美伊戰爭需要結束，應為談判留空間】據美國哥倫比亞廣播公司（CBS）報道，美國眾議院議長邁克·約翰遜週二在被問及是否會推動《戰爭權力法》相關表決時未予明確回應，但表示，美伊戰爭需要結束，美國也應該獲得其他方面的支援，以推動戰爭終結。約翰遜表示，他認為政界人士應該“給政府留出空間”，讓其透過談判尋求結束戰爭。他說，“我知道，本屆政府正在全天候努力，尋求以一種能夠避免更多美軍人員傷亡的方式解決這一問題。”不過，約翰遜再次強調，美國必須確保伊朗不會擁有核武器。"
+    },
     {
       "id": "mkt:019f85b6-1847-7aab-8e2f-bc089743414f",
       "time": "2026-07-22 01:25:31",
