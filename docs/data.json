@@ -1,7 +1,150 @@
 {
-  "updated": "2026-07-21 13:26:49",
-  "count": 19070,
+  "updated": "2026-07-21 13:31:00",
+  "count": 19076,
   "items": [
+    {
+      "id": "mkt:019f8327-3946-7aab-8e1d-31db9f9f8124",
+      "time": "2026-07-21 13:30:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Abu Dhabi National Oil Company (ADNOC) said its final investment decision covers a large offshore infrastructure EPC contract package awarded to a consortium, totaling $5.1 bln."
+    },
+    {
+      "id": "4999335",
+      "time": "2026-07-21 13:30:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深300指數期貨連續主力合約日內漲2%，現報4637.20點。"
+    },
+    {
+      "id": "te:markets:568409",
+      "time": "2026-07-21 13:30:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: XRP Rises by 1.68% — Top crypto gainers are XRP (1.68%), Ether (1.11%) and Bitcoin (0.54%)."
+    },
+    {
+      "id": "mkt:019f8326-cb10-7aab-8e1d-2a77961ca64e",
+      "time": "2026-07-21 13:29:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "【Multiple China semiconductor ETFs rise >10%; some turnover already exceeds prior full-day】July 21 — China’s semiconductor sector rallied through the morning. By about 13:20 local time multiple thematic ETFs were up more than 10%. Huaxia’s Sci‑tech Semiconductor ETF, Penghua’s Sci‑tech Semiconductor Equipment ETF and E Fund’s Semiconductor Equipment ETF all exceeded 10% gains; several products posted turnover ratios above 20% and trading activity intensified. Volumes expanded: Guotai’s Semiconductor Equipment ETF logged turnover >CNY7.4 bln by 13:20, above its prior trading-day full‑day turnover of CNY6.115 bln. Huaxia’s Sci‑tech Semiconductor ETF recorded turnover >CNY6.7 bln, also surpassing the previous day’s full‑day level."
+    },
+    {
+      "id": "mkt:019f8326-bbda-7aab-8e1d-25025022efe3",
+      "time": "2026-07-21 13:29:41",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "ADNOC said the development project includes a $365 million, 14‑well drilling and integrated drilling-services program."
+    },
+    {
+      "id": "4999334",
+      "time": "2026-07-21 13:29:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司（ADNOC）將與其國際合作夥伴道達爾能源、埃尼集團和中國石油天然氣集團公司共同開發烏姆沙伊夫天然氣頂專案。"
+    },
+    {
+      "id": "mkt:019f8326-419f-7aab-8e1d-1c4c4c6a6834",
+      "time": "2026-07-21 13:29:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE's Abu Dhabi National Oil Company (ADNOC) expects to bring development projects into production by 2030."
+    },
+    {
+      "id": "mkt:019f8325-eeb0-7aab-8e1d-12f4143856ed",
+      "time": "2026-07-21 13:28:48",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Abu Dhabi National Oil Company (ADNOC) approved a $6.2 billion final investment decision for the Umm Shaif gas-cap project to accelerate its gas growth strategy."
+    },
+    {
+      "id": "mkt:019f8325-929e-7aab-8e1d-0d5ca0c0cfa1",
+      "time": "2026-07-21 13:28:25",
+      "tags": [
+        "MKT News",
+        "6185.HK",
+        "Impact bullish"
+      ],
+      "text": "【CanSino Biologics reaches intent to cooperate with Pakistan's AGP Limited on 13-valent pneumococcal conjugate vaccine】CanSino Biologics said at the Pakistan‑China Business and Investment Summit in Islamabad it has reached an intent to cooperate with Pakistan's AGP Limited on a 13‑valent pneumococcal conjugate vaccine (PCV13i). The parties will further explore development and market opportunities for the product in Pakistan."
+    },
+    {
+      "id": "4999333",
+      "time": "2026-07-21 13:28:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "阿布扎比國家石油公司(ADNOC)：將向烏姆沙伊夫天然氣專案投資62億美元。"
+    },
+    {
+      "id": "mkt:019f8325-128f-7aab-8e1d-0731bc3954b7",
+      "time": "2026-07-21 13:27:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Iran says it struck three US military bases in Kuwait】On the 21st (local time), Iran's army said Iranian forces used unmanned aerial vehicles to strike three US military bases in Kuwait, hitting the administrative building and navigation antenna at Camp Arifjan, the helipad at Camp Udairi, and a US building at Ahmad al-Jaber Air Base."
+    },
+    {
+      "id": "4999332",
+      "time": "2026-07-21 13:27:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【康希諾與巴基斯坦AGP Limited公司就13價肺炎結合疫苗達成相關合作意向】據康希諾訊息，近日，巴基斯坦-中國企業間投資峰會在巴基斯坦伊斯蘭堡舉行。峰會期間，公司與巴基斯坦AGP Limited公司達成13價肺炎球菌多糖結合疫苗（PCV13i）相關合作意向，雙方將圍繞該產品在巴基斯坦的未來發展機會開展進一步探索。"
+    },
+    {
+      "id": "4999331",
+      "time": "2026-07-21 13:27:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿里巴巴集團旗下高德正式上線全新位置分享功能“位置口令”】近日，阿里巴巴集團旗下高德正式上線全新位置分享功能。使用者在高德App開啟該功能，選擇中國大陸及港澳臺地區的任意位置後，即可生成一組6位數字；接收方在高德“位置口令”頁面輸入這組數字後，便能直接獲取對應位置並一鍵導航。其中高德位置口令的本質，是將專業經緯度轉化為普通人也能直接使用和傳播的數字編碼。這讓地圖能力首次從“地點搜尋”延伸到了“任意位置表達”。使用者不再需要記住複雜經緯度，只需要6位數字，就能準確描述所在位置。位置口令如同空間世界裡的“二維碼”。正如二維碼降低了資訊獲取和傳播門檻，位置口令則降低了位置溝通的門檻，讓位置第一次像電話號碼一樣，可以被口頭傳播。"
+    },
+    {
+      "id": "4999330",
+      "time": "2026-07-21 13:27:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗稱打擊科威特境內三處美軍基地】當地時間21日，伊朗陸軍釋出宣告稱，伊朗軍隊使用無人機打擊了科威特境內的三處美軍基地，打擊目標包括阿里夫堅基地的行政大樓和導航天線、烏代裡直升機基地的停機坪和艾哈邁德·賈比爾空軍基地的美軍大樓。"
+    },
+    {
+      "id": "4999329",
+      "time": "2026-07-21 13:26:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，中際旭創香港上市擬以每股最高1,010港元發售股票，籌資至少80億美元。中際旭創計劃於7月27日進行發行定價，並於7月30日掛牌上市。"
+    },
     {
       "id": "mkt:019f8323-67f5-7aab-8e1c-f9899666d21b",
       "time": "2026-07-21 13:26:03",
@@ -175181,86 +175324,6 @@
         "焦點"
       ],
       "text": "北證50日內漲幅達2.10%，成分股中，則成電子漲29.97%，科力股份漲14.52%，戈碧迦漲9.32%，國航遠洋漲9.11%。"
-    },
-    {
-      "id": "4986130",
-      "time": "2026-07-14 13:30:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2萬億元，較上日此時縮量1335億元。"
-    },
-    {
-      "id": "4986129",
-      "time": "2026-07-14 13:30:31",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內漲幅達1.00%，成分股中，生益電子漲13.09%，源傑科技漲11.94%，瀾起科技漲6.02%，佰維儲存漲5.45%。"
-    },
-    {
-      "id": "mkt:019f5f1a-d998-7aab-8d70-13395defcc85",
-      "time": "2026-07-14 13:30:22",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Lula calls Trump plan for 20% Strait of Hormuz toll 'pirate behavior'】Brazilian President Lula on July 13 in São Paulo criticized U.S. President Trump’s proposal to impose a 20% fee on shipments transiting the Strait of Hormuz, calling the measure \"pirate behavior\" and saying a country long fighting piracy cannot become a pirate itself."
-    },
-    {
-      "id": "4986128",
-      "time": "2026-07-14 13:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內漲1%，現報8131.40點。"
-    },
-    {
-      "id": "4986127",
-      "time": "2026-07-14 13:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內漲1%，現報4692.40點。"
-    },
-    {
-      "id": "4986126",
-      "time": "2026-07-14 13:30:02",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7780.40點。"
-    },
-    {
-      "id": "mkt:019f5f1a-850e-7aab-8d70-09b26cfe7c3e",
-      "time": "2026-07-14 13:30:01",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "China A-share electronic-chemicals sector rose in the afternoon; Honghe Technology hit the daily limit-up, while Tiancheng Technology, Xingfu Electronics, Fangbang Co., Huate Gas and Lite Optoelectronics also advanced."
-    },
-    {
-      "id": "4986125",
-      "time": "2026-07-14 13:28:32",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【科技股反彈，MLCC、PCB概念等漲幅居前】科技股反彈，MLCC、PCB概念、複合銅箔、CPO概念等漲幅居前。個股方面，博傑股份、滬電股份、金安國紀等一批個股漲停。"
-    },
-    {
-      "id": "mkt:019f5f18-6d19-7aab-8d70-04d3f592b69e",
-      "time": "2026-07-14 13:27:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IRNA reports Hormozgan province Ports and Maritime Department rescued 23 crew from a vessel in distress in coastal waters off Bandar Abbas and safely transferred them to Qeshm Island."
     }
   ]
 }
