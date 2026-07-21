@@ -1,7 +1,120 @@
 {
-  "updated": "2026-07-22 04:04:08",
-  "count": 18071,
+  "updated": "2026-07-22 04:08:04",
+  "count": 18076,
   "items": [
+    {
+      "id": "5000859",
+      "time": "2026-07-22 04:07:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "OpenAI：戴維·貝萊斯（David Vélez）與羅賓·文斯（Robin Vince）加入OpenAI基金會及OpenAI公益集團董事會。"
+    },
+    {
+      "id": "5000858",
+      "time": "2026-07-22 04:06:59",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "OpenAI：臉書AI開源社群Hugging Face的安全事件由多款OpenAI模型共同引發，其中包括GPT-5.6 SOL，以及一款能力更強的預釋出模型。"
+    },
+    {
+      "id": "5000857",
+      "time": "2026-07-22 04:06:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國教育部：對達特茅斯醫學院等5所醫學院啟動調查，調查涉涉嫌基於種族開展招生錄取的相關行為。"
+    },
+    {
+      "id": "mkt:019f8649-61cf-7aab-8e31-a40995669788",
+      "time": "2026-07-22 04:06:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said it will strengthen and expand safety protections for future model training and evaluation phases."
+    },
+    {
+      "id": "mkt:019f8648-cc76-7aab-8e31-9bddd6f68255",
+      "time": "2026-07-22 04:05:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI said the Hugging Face security incident involved multiple OpenAI models, including GPT-5.6 Sol and a more capable pre-release model."
+    },
+    {
+      "id": "mkt:019f8648-ae36-7aab-8e31-9735eab5df11",
+      "time": "2026-07-22 04:05:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "On Tuesday, July 21, the Dow Jones Industrial Average closed up 385.56 points (+0.74%) at 52,224.82; the S&P 500 closed up 65.91 points (+0.89%) at 7,509.19; the Nasdaq Composite closed up 329.13 points (+1.29%) at 25,837.21."
+    },
+    {
+      "id": "mkt:019f8648-8be8-7aab-8e31-8feb57bf85d5",
+      "time": "2026-07-22 04:05:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI said it has released preliminary findings of a cybersecurity incident to help defenders understand what happened, and is implementing stricter infrastructure controls while strengthening model security protections."
+    },
+    {
+      "id": "5000856",
+      "time": "2026-07-22 04:05:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：現階段分享初步調查結果，以幫助防禦方瞭解此次網路安全事件（Hugging Face遭AI駭客入侵）的相關情況。"
+    },
+    {
+      "id": "mkt:019f8647-d80e-7aab-8e31-86b94d2bbc76",
+      "time": "2026-07-22 04:04:42",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【International oil prices up on Aug. 21】By the close on Aug. 21, NYMEX August light sweet crude futures rose $1.68 to settle at $84.91/bbl, up 2.02%; ICE Brent September futures rose $1.79 to settle at $91.01/bbl, up 2.01%."
+    },
+    {
+      "id": "5000855",
+      "time": "2026-07-22 04:04:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將對基礎設施實施更嚴格管控並強化模型對齊安全措施。"
+    },
+    {
+      "id": "5000854",
+      "time": "2026-07-22 04:03:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價21日上漲】國際油價21日上漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲1.68美元，收於每桶84.91美元，漲幅為2.02%；9月交貨的倫敦布倫特原油期貨價格上漲1.79美元，收於每桶91.01美元，漲幅為2.01%。"
+    },
+    {
+      "id": "mkt:019f8647-009d-7aab-8e31-7a94496dd2ff",
+      "time": "2026-07-22 04:03:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bearish",
+        "GOOGL.O",
+        "META.O"
+      ],
+      "text": "【AI regulatory shift drives industry lobbying; Anthropic's 1H 2026 lobbying tops 2025 full-year】Federal lobbying disclosures show Anthropic's 1H 2026 lobbying exceeded its 2025 full-year spend. Q2 outlays were nearly $2.0m, taking 1H total to more than $3.5m versus $3.1m in 2025. Lobbying topics include export controls, cybersecurity, AI safety standards, DoD procurement, DOE's Genesis Mission funding and AI use in healthcare. U.S. Commerce Department export controls on Anthropic last month disrupted its model services and prompted urgent negotiations with the Trump administration, filings say. Filings indicate all major AI labs are closely monitoring shifts in U.S. AI safety standards and regulatory approaches. OpenAI reported a record Q2 lobbying spend of $1.2m and cited delays to its latest model rollout; its lobbying focuses include copyright, cloud and infrastructure, cybersecurity and privacy. Google spent $3.57m in Q2, Microsoft $2.69m and Meta $5.99m; Meta remains under bipartisan congressional scrutiny over child online safety, a long-running issue that conflicts with its chatbot expansion plans."
+    },
     {
       "id": "mkt:019f8646-f39e-7aab-8e31-74402524cf3e",
       "time": "2026-07-22 04:03:44",
@@ -166094,82 +166207,6 @@
         "Europe & UK"
       ],
       "text": "UK Chancellor Reeves said the UK will issue its first digital sovereign bond in early 2027."
-    },
-    {
-      "id": "4988484",
-      "time": "2026-07-15 04:08:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "電網運營機構 PJM 互聯公司稱，美國最大電網 PJM 的容量電價漲至每兆瓦日 325 美元。"
-    },
-    {
-      "id": "mkt:019f623d-f7bc-7aab-8d89-30c82b863506",
-      "time": "2026-07-15 04:07:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "S&P500",
-        "Impact bullish",
-        "Dow"
-      ],
-      "text": "On Tuesday, July 14, the Dow Jones Industrial Average closed up 10.02 points, or 0.02%, at 52,508.66. The S&P 500 rose 28.55 points, or 0.38%, to 7,543.89. The Nasdaq Composite added 233.83 points, or 0.90%, to 26,107.01."
-    },
-    {
-      "id": "mkt:019f623d-f0f9-7aab-8d89-2c9eb244f0d6",
-      "time": "2026-07-15 04:07:34",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Japan trims U.S. Treasury holdings in May】U.S. Treasury data show Japan held $1.143 tln of U.S. Treasuries in May, down from $1.210 tln in April; the UK held $949 bln in May, up from $938 bln; China held $659 bln in May, up from $651 bln."
-    },
-    {
-      "id": "mkt:019f623c-d256-7aab-8d89-258666916b64",
-      "time": "2026-07-15 04:06:20",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said the U.S. military resumed a maritime blockade of vessels bound to/from Iranian ports and coastal waters at 4:00 p.m. ET today. More than 20 U.S. Navy warships and several hundred military aircraft are deployed in the Middle East; U.S. forces are on high alert with lethal strike capability and ready to act."
-    },
-    {
-      "id": "4988483",
-      "time": "2026-07-15 04:06:05",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國軍方稱已恢復對伊朗的封鎖】美國中央司令部：美國東部時間今日下午 4 時，美軍恢復對往返伊朗港口及沿岸地區船隻實施海上封鎖。目前美軍在中東部署逾 20 艘海軍戰艦、數百架軍用飛機。美軍保持高度戒備，具備強大作戰能力，隨時待命。"
-    },
-    {
-      "id": "mkt:019f623b-8d4e-7aab-8d89-1c0fedd8e0ce",
-      "time": "2026-07-15 04:04:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "White House says it will establish an AI and cybersecurity coordination working group."
-    },
-    {
-      "id": "4988482",
-      "time": "2026-07-15 04:04:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國白宮：美國將成立人工智慧與網路安全協調小組。"
     }
   ]
 }
