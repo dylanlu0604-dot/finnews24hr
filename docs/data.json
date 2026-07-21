@@ -1,7 +1,196 @@
 {
-  "updated": "2026-07-21 23:31:48",
-  "count": 18309,
+  "updated": "2026-07-21 23:35:58",
+  "count": 18313,
   "items": [
+    {
+      "id": "5000688",
+      "time": "2026-07-21 23:35:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：針對加拿大的關稅舉措並非因野火而起。"
+    },
+    {
+      "id": "5000687",
+      "time": "2026-07-21 23:34:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "被問及加拿大關稅事宜時，特朗普表示此事與野火無關。"
+    },
+    {
+      "id": "mkt:019f8550-1347-7aab-8e2e-363954691d45",
+      "time": "2026-07-21 23:34:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 6-week Treasury auction to July 21: 1.87% of awards allotted at the stop-out rate, down from 63.1% previously."
+    },
+    {
+      "id": "mkt:019f854f-de21-7aab-8e2e-286b2a73abde",
+      "time": "2026-07-21 23:33:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Trump: Our agreement will not allow Iran to have nuclear weapons."
+    },
+    {
+      "id": "5000686",
+      "time": "2026-07-21 23:33:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們會打擊伊朗任何可能發展核設施的地點。"
+    },
+    {
+      "id": "mkt:019f854f-b40b-7aab-8e2e-227bd7e3ee6f",
+      "time": "2026-07-21 23:33:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US 6-week Treasury bill auction on July 21: bid-cover ratio 2.79, down from 2.84 previously."
+    },
+    {
+      "id": "mkt:019f854f-9894-7aab-8e2e-19ad195eab1a",
+      "time": "2026-07-21 23:33:33",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US 6-week Treasury auction to July 21 — stop-out yield 3.65% vs 3.64% prior."
+    },
+    {
+      "id": "5000685",
+      "time": "2026-07-21 23:33:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們的協議不會讓伊朗擁有核武器。"
+    },
+    {
+      "id": "mkt:019f854f-6d27-7aab-8e2e-1360a8acd8ba",
+      "time": "2026-07-21 23:33:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iran is led by very evil people."
+    },
+    {
+      "id": "mkt:019f854f-3d59-7aab-8e2e-0e6df27fbf6f",
+      "time": "2026-07-21 23:33:10",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the U.S. will not withdraw now and has already had a significant impact on Iran."
+    },
+    {
+      "id": "5000684",
+      "time": "2026-07-21 23:32:50",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：我們眼下不會撤離，我們已對伊朗形成重大震懾。"
+    },
+    {
+      "id": "5000683",
+      "time": "2026-07-21 23:32:20",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣六週期國債，得標利率3.650%，投標倍數2.79。"
+    },
+    {
+      "id": "mkt:019f854e-63d9-7aab-8e2e-046b1bc39caa",
+      "time": "2026-07-21 23:32:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "President Trump said the U.S. is far from finished with Iran."
+    },
+    {
+      "id": "mkt:019f854e-5c2b-7aab-8e2d-fed62be10c96",
+      "time": "2026-07-21 23:32:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he would talk to Hezbollah if Lebanese President Aoun asked him to."
+    },
+    {
+      "id": "5000682",
+      "time": "2026-07-21 23:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們與伊朗的鬥爭根本沒結束。"
+    },
+    {
+      "id": "5000681",
+      "time": "2026-07-21 23:31:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聯合國人權高專辦：以色列對加沙的襲擊升級】聯合國人權事務高階專員辦事處發言人薩明·希坦21日在日內瓦舉行的記者會上指出，以色列近日加大了對加沙地帶的襲擊力度，僅13日至20日的襲擊已造成至少57名巴勒斯坦人死亡。希坦說，巴以停火宣佈9個月後，加沙地帶的巴勒斯坦人仍無安全之地。以本月17日至18日為例，以色列在加沙城、北加沙省和南部的汗尤尼斯等地發動了10次襲擊，造成至少21名巴勒斯坦人死亡，包括4名兒童和3名婦女。希坦表示，這些襲擊造成平民喪生，引發了人們對加沙地帶持續違反國際人道主義法、犯下戰爭罪以及可能發生其他暴行罪行的擔憂。希坦警告，加沙地帶的巴勒斯坦人仍被困在日益縮小的區域內。以色列不斷將“黃線”向西推移，使當地民眾持續面臨生命威脅。據巴勒斯坦衛生部資料，自2025年10月以來，已有超過1100名巴勒斯坦人被以軍殺害。(新華社)"
+    },
+    {
+      "id": "mkt:019f854e-0cb9-7aab-8e2d-f1f1ea033638",
+      "time": "2026-07-21 23:31:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said he will hold talks with Hezbollah."
+    },
+    {
+      "id": "5000680",
+      "time": "2026-07-21 23:31:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：若奧恩提出要求，我願意與真主黨展開對話。"
+    },
+    {
+      "id": "5000679",
+      "time": "2026-07-21 23:31:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "倫敦金屬交易所（LME）公告：伊斯蒂姆金屬有限責任公司底特律倉庫新增納入銅交割倉庫名錄，自 2026 年 10 月 6 日生效；該倉庫自 2026 年 10 月 13 日起方可出具銅倉單。"
+    },
     {
       "id": "5000678",
       "time": "2026-07-21 23:30:21",
@@ -168298,148 +168487,6 @@
         "觀點"
       ],
       "text": "花旗集團執行長：若良好市場環境得以延續，將加大投資推進力度。"
-    },
-    {
-      "id": "4988152",
-      "time": "2026-07-14 23:35:51",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【三艘油輪在阿曼附近海域遇襲 已致3人失蹤】阿曼海事安全中心當地時間14日釋出通報稱，三艘懸掛賴比瑞亞國旗的油輪在阿曼附近海域先後遭遇襲擊，目前已導致3人失蹤，6人受傷。通報未提及襲擊發生時間，也未透露襲擊方式和來源。阿曼海事安全中心表示，正持續監測事態發展，並採取必要措施應對事件。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6145-264e-7aab-8d83-45a0cd591a00",
-      "time": "2026-07-14 23:35:49",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Kuwait's military said its armed forces are currently intercepting hostile aerial targets entering Kuwaiti airspace; any explosions heard are due to air-defence systems intercepting enemy attacks."
-    },
-    {
-      "id": "4988151",
-      "time": "2026-07-14 23:35:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲的權力源自信譽。"
-    },
-    {
-      "id": "4988150",
-      "time": "2026-07-14 23:34:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什：美聯儲獨立性不容侵犯。"
-    },
-    {
-      "id": "4988149",
-      "time": "2026-07-14 23:34:37",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "花旗集團執行長：花旗佈局長期增長，謀求更高回報。"
-    },
-    {
-      "id": "4988148",
-      "time": "2026-07-14 23:34:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【研究顯示喀斯特天坑或限制植物演化】中國科學院華南植物園與廣西植物研究所聯合研究發現，喀斯特天坑能為瀕危植物香木蓮提供微環境庇護，但也會限制種群間的基因流，導致遺傳多樣性降低和有害突變累積，削弱其應對未來環境變化的潛力。相關成果於14日發表在國際學術期刊《當代生物學》。（新華社）"
-    },
-    {
-      "id": "mkt:019f6143-15a7-7aab-8d83-3ac2bcea585b",
-      "time": "2026-07-14 23:33:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Nikkei reports a summit between Japanese Prime Minister Takaichi and German Chancellor Merz is expected to cover defense cooperation, drones and supply-chain issues."
-    },
-    {
-      "id": "4988147",
-      "time": "2026-07-14 23:33:33",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.14%，斯托克歐洲指數上漲0.22%；歐元區藍籌股指數上漲0.19%。法國CAC 40指數上漲0.01%，西班牙IBEX指數上漲0.1%，英國富時100指數上漲0.2%，德國DAX指數上漲0.12%。"
-    },
-    {
-      "id": "mkt:019f6142-b6b7-7aab-8d83-373bf5198944",
-      "time": "2026-07-14 23:33:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News reported explosions heard on Iran's Qeshm Island; cause unknown."
-    },
-    {
-      "id": "mkt:019f6142-9309-7aab-8d83-29ff03bd66c1",
-      "time": "2026-07-14 23:33:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y"
-      ],
-      "text": "US 6-week Treasury auction to July 14: stop-out yield 3.64%, unchanged from prior 3.64%."
-    },
-    {
-      "id": "4988146",
-      "time": "2026-07-14 23:32:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗格什姆島聽到爆炸聲，起因不明。"
-    },
-    {
-      "id": "4988145",
-      "time": "2026-07-14 23:32:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗逾180名議員發表宣告要求“懲罰”襲擊肇事者】伊朗伊斯蘭議會超過180名議員發表宣告，強調有必要對襲擊伊朗的肇事者實施“復仇”和“懲罰”。這些議員在宣告中呼籲伊朗國家機關採取堅定立場，強化防禦威懾能力；要求成立專門委員會審查相關談判和伊美諒解備忘錄，加快制定霍爾木茲海峽管理法等法案，全力支援伊朗武裝部隊行動。目前簽署宣告的議員人數仍在增加。（新華社）"
-    },
-    {
-      "id": "mkt:019f6142-6a70-7aab-8d83-21cf9d12aa2a",
-      "time": "2026-07-14 23:32:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "U.S. 6-week Treasury auction on July 14: share of awards at the stop-out yield 63.1%, prior 86.48%."
-    },
-    {
-      "id": "mkt:019f6142-5257-7aab-8d83-1dd8bba97cbb",
-      "time": "2026-07-14 23:32:44",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "US 6-week Treasury auction for the week to July 14: bid-cover ratio 2.84, prior 2.74."
-    },
-    {
-      "id": "4988144",
-      "time": "2026-07-14 23:32:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "德國總理默茨與日本首相高市早苗的峰會將涵蓋防務合作、無人機與供應鏈議題。"
     }
   ]
 }
