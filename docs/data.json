@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-22 06:11:07",
-  "count": 18083,
+  "updated": "2026-07-22 06:15:06",
+  "count": 18076,
   "items": [
+    {
+      "id": "5000937",
+      "time": "2026-07-22 06:13:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創香港IPO最高發行價定在每股1010港元。"
+    },
+    {
+      "id": "5000936",
+      "time": "2026-07-22 06:11:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【公募二季度盈利近2萬億元 多隻產品首次披露長期業績】天相投顧資料顯示，2026年二季度公募基金合計盈利19390.35億元，一舉扭轉一季度虧損2029.42億元的局面，權益類產品在其中起到了關鍵作用。不僅如此，成立期限滿足相關要求的基金在2026年二季報中首度披露過去7年、10年的長期業績。在業內人士看來，此舉有助於強化長期投資、價值投資理念，從而有效提升投資者獲得感。（上證報）"
+    },
     {
       "id": "5000935",
       "time": "2026-07-22 06:10:01",
@@ -166148,93 +166164,6 @@
         "Brent"
       ],
       "text": "Iranian media quoted the governor of Hormozgan province saying sounds heard at Abbas Port, along the coast and on Persian Gulf islands were linked to clashes in the Strait of Hormuz."
-    },
-    {
-      "id": "te:markets:566911",
-      "time": "2026-07-15 06:15:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "FX Updates: Brazilian Real Appreciates by 1.53% — Top currency gainers are Brazilian Real (1.53%), Norwegian Krone (1.05%), New Zealand Dollar (1.04%), Euro (0.33%), British Pound (0.31%) and Japanese Yen (0.11%). Biggest losers are Indian Rupee (-0.34%) and Dollar Index (-0.29%)."
-    },
-    {
-      "id": "4988546",
-      "time": "2026-07-15 06:14:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普稱繼續襲擊伊朗直至他說夠了】當地時間7月14日，據美國福克斯新聞報道，美國總統特朗普表示，對伊朗的打擊將繼續，直到他說“夠了”為止。他稱，伊朗還有一些抵抗能力，但“已經所剩無幾”。（CCTV國際時訊）"
-    },
-    {
-      "id": "4988545",
-      "time": "2026-07-15 06:14:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗譴責美軍襲擊伊環境保護站致三人死亡】伊朗外交部發言人巴加埃14日深夜譴責美軍當天襲擊伊朗南部霍爾木茲甘省北部一處環境保護站，造成一名護林員的三名家屬死亡。巴加埃在社交媒體上發文說，“美國對伊朗人民的罪行清單每天都在變得更長”，其每一起新的襲擊，都會堅定伊朗方面的追責決心。（新華社）"
-    },
-    {
-      "id": "4988544",
-      "time": "2026-07-15 06:13:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：明晚將再次打擊伊朗。"
-    },
-    {
-      "id": "4988543",
-      "time": "2026-07-15 06:12:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗別無選擇，只能達成協議。"
-    },
-    {
-      "id": "4988542",
-      "time": "2026-07-15 06:12:14",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：下週我們將打擊伊朗的發電廠和橋樑。"
-    },
-    {
-      "id": "mkt:019f62b0-0c1f-7aab-8d8a-f2eff3d98af8",
-      "time": "2026-07-15 06:12:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "U.S. President Trump said he would reserve Iranian energy facilities as last targets."
-    },
-    {
-      "id": "4988541",
-      "time": "2026-07-15 06:11:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：將把伊朗境內能源相關目標留到最後打擊。"
-    },
-    {
-      "id": "mkt:019f62af-35aa-7aab-8d8a-e99cc13554de",
-      "time": "2026-07-15 06:11:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Fox News reported U.S. President Trump said strikes against Iran will continue until he says they should stop. He added Iran retains some fighting spirit but has little capacity left."
     }
   ]
 }
