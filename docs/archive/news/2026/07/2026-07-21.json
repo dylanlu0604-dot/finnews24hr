@@ -1,7 +1,63 @@
 {
   "date": "2026-07-21",
-  "count": 2973,
+  "count": 2979,
   "items": [
+    {
+      "id": "5000492",
+      "time": "2026-07-21 21:14:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：垂直航天公司與霍尼韋爾航空航天事業部加入歐盟資助專案，推動電動垂直起降飛行器安全融入歐洲空域。"
+    },
+    {
+      "id": "5000491",
+      "time": "2026-07-21 21:13:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度酒店業第一季度 EBITDA 為 75.3 億盧比，同比增長 18%。"
+    },
+    {
+      "id": "5000490",
+      "time": "2026-07-21 21:12:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長表示，福林兌歐元匯率維持在360左右水平，相對穩定。"
+    },
+    {
+      "id": "mkt:019f84ce-c9bc-7aab-8e2a-ad5fff2890ce",
+      "time": "2026-07-21 21:12:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Demingli says scale gains should progressively boost supply‑chain bargaining power and cost control】Demingli told investors Q2 net profit was affected by higher expenses — increased R&D, capacity‑build provisions and share‑based compensation — plus strategic inventory accumulation and greater customer‑acquisition spending as enterprise storage, embedded storage and memory businesses accelerate. Those products carry long certification cycles and large upfront testing and adaptation costs, lifting R&D and SG&A during expansion; the company characterises these outlays as long‑term strategic investments that have begun contributing. Demingli expects Q2 revenue of 8.462–10.462 bln yuan, up 196–266% YoY and 12–39% QoQ, driven by enterprise storage and memory modules, and says continued scale release should enhance upstream/downstream bargaining power and cost control, laying a foundation for future earnings recovery."
+    },
+    {
+      "id": "5000489",
+      "time": "2026-07-21 21:12:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "3M執行長在電話會議上表示，公司繼續在部分領域面臨壓力，包括消費電子、汽車及汽車後市場、美國消費者支出。"
+    },
+    {
+      "id": "mkt:019f84cd-d607-7aab-8e2a-a0bb987d22a3",
+      "time": "2026-07-21 21:11:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Prediction-market platform Kalshi has applied to the U.S. Commodity Futures Trading Commission (CFTC) to offer perpetual futures tied to gold."
+    },
     {
       "id": "mkt:019f84cd-716e-7aab-8e2a-9e65d054831a",
       "time": "2026-07-21 21:11:24",

@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-21 21:12:10",
-  "count": 18457,
+  "updated": "2026-07-21 21:16:21",
+  "count": 18450,
   "items": [
+    {
+      "id": "5000492",
+      "time": "2026-07-21 21:14:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：垂直航天公司與霍尼韋爾航空航天事業部加入歐盟資助專案，推動電動垂直起降飛行器安全融入歐洲空域。"
+    },
+    {
+      "id": "5000491",
+      "time": "2026-07-21 21:13:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度酒店業第一季度 EBITDA 為 75.3 億盧比，同比增長 18%。"
+    },
+    {
+      "id": "5000490",
+      "time": "2026-07-21 21:12:56",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "匈牙利央行行長表示，福林兌歐元匯率維持在360左右水平，相對穩定。"
+    },
+    {
+      "id": "mkt:019f84ce-c9bc-7aab-8e2a-ad5fff2890ce",
+      "time": "2026-07-21 21:12:52",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Demingli says scale gains should progressively boost supply‑chain bargaining power and cost control】Demingli told investors Q2 net profit was affected by higher expenses — increased R&D, capacity‑build provisions and share‑based compensation — plus strategic inventory accumulation and greater customer‑acquisition spending as enterprise storage, embedded storage and memory businesses accelerate. Those products carry long certification cycles and large upfront testing and adaptation costs, lifting R&D and SG&A during expansion; the company characterises these outlays as long‑term strategic investments that have begun contributing. Demingli expects Q2 revenue of 8.462–10.462 bln yuan, up 196–266% YoY and 12–39% QoQ, driven by enterprise storage and memory modules, and says continued scale release should enhance upstream/downstream bargaining power and cost control, laying a foundation for future earnings recovery."
+    },
+    {
+      "id": "5000489",
+      "time": "2026-07-21 21:12:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "3M執行長在電話會議上表示，公司繼續在部分領域面臨壓力，包括消費電子、汽車及汽車後市場、美國消費者支出。"
+    },
+    {
+      "id": "mkt:019f84cd-d607-7aab-8e2a-a0bb987d22a3",
+      "time": "2026-07-21 21:11:49",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD"
+      ],
+      "text": "Prediction-market platform Kalshi has applied to the U.S. Commodity Futures Trading Commission (CFTC) to offer perpetual futures tied to gold."
+    },
     {
       "id": "mkt:019f84cd-716e-7aab-8e2a-9e65d054831a",
       "time": "2026-07-21 21:11:24",
@@ -169863,138 +169919,6 @@
         "市場"
       ],
       "text": "鈀金期貨日內漲3%，現報1290.50美元/盎司。"
-    },
-    {
-      "id": "4987865",
-      "time": "2026-07-14 21:16:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【滙豐銀行下調IBM評級】滙豐銀行將IBM評級從持有下調至減持，目標價從231美元下調至191美元。"
-    },
-    {
-      "id": "mkt:019f60c5-566b-7aab-8d7e-93dea5ce4607",
-      "time": "2026-07-14 21:16:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bullish"
-      ],
-      "text": "【European Commission to propose easing bank capital requirements this week】The European Commission will propose lowering capital requirements for some banks this week to mirror recent US and UK regulatory loosening, saying overlapping rules from different supervisors leave EU banks at a competitive disadvantage and force higher capital allocation. The change appears in a draft report due Friday that outlines the scope of legislative proposals expected next year. The draft says the Commission will propose removing leverage-related Pillar 2 capital add-ons — discretionary extra requirements set by supervisors such as the ECB — and urges reducing the number and size of other additional capital buffers and improving their design and calibration."
-    },
-    {
-      "id": "mkt:019f60c5-4bcf-7aab-8d7e-88b5d4a7842c",
-      "time": "2026-07-14 21:16:10",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "JPM.O",
-        "Impact bullish"
-      ],
-      "text": "JP Morgan CEO Dimon said some roles have seen headcount reductions of 30-40% due to AI deployment, though most affected employees have been redeployed to other positions."
-    },
-    {
-      "id": "mkt:019f60c5-0a07-7aab-8d7e-870fa9d4e6eb",
-      "time": "2026-07-14 21:15:53",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "ICE near-month UK wholesale gas 130.3 p/therm, up 5.01% intraday."
-    },
-    {
-      "id": "4987864",
-      "time": "2026-07-14 21:15:43",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "摩根大通戴蒙稱，我們部分業務已因人工智慧裁員30%至40%，且我們為大部分被裁員工安排了公司其他崗位。"
-    },
-    {
-      "id": "mkt:019f60c4-95b8-7aab-8d7e-7c23e629fc5d",
-      "time": "2026-07-14 21:15:23",
-      "tags": [
-        "MKT News",
-        "BIIB.O",
-        "Impact bullish"
-      ],
-      "text": "Biogen (BIIB.O) will advance Alzheimer’s drug Diranersen into Phase III clinical trials."
-    },
-    {
-      "id": "te:markets:566843",
-      "time": "2026-07-14 21:15:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Pound Rises on UK Political Shift, Rate Hikes Bets — The pound rose to $1.34, returning to mid-June levels, as investors turned their attention to UK politics. Andy Burnham, set to replace Keir Starmer as prime minister on July 20, and his choice of finance minister are now in the spotlight. Betting markets currently favor Ed Miliband, widely viewed as fiscally expansive, for the role. Investors also weighed escalating Middle East tensions, rising oil prices, and inflation concerns. The US military continued strikes against Iran after President Donald Trump reinstated a blockade on Iranian shipping and proposed a 20% fee to guard the Strait of Hormuz, heightening uncertainty over energy flows. Markets responded by pricing in further Bank of England rate hikes, nearly fully expecting two increases in 2026, with a September hike now fully priced in. In the US, softer June inflation data eased Fed rate hike pressure, though Governor Christopher Waller warned of possible action if inflation stays above 2%."
-    },
-    {
-      "id": "4987863",
-      "time": "2026-07-14 21:14:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【奧佳華：2026年上半年預計淨虧損6000萬-9000萬元】奧佳華公告稱，預計2026年1月1日至6月30日歸屬於上市公司股東的淨利潤虧損6000萬元-9000萬元，上年同期盈利2703.14萬元；扣除非經常性損益後的淨利潤虧損7800萬元-1.17億元，上年同期盈利1654.31萬元；基本每股收益虧損0.10元/股-0.14元/股。業績變動主要因人民幣匯率升值、市場競爭等使毛利率下降，外幣兌人民幣匯率貶值產生約7200萬元匯兌損失，且擬對部分資產計提約2300萬元減值準備。"
-    },
-    {
-      "id": "mkt:019f60c3-e6c9-7aab-8d7e-738310435ef0",
-      "time": "2026-07-14 21:14:39",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "US Economy",
-        "WTI",
-        "Impact bearish",
-        "DXY",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "【White House deputy press secretary says June CPI validates Trump on inflation】After the US June CPI print, White House deputy press secretary Kush Desai posted that President Trump’s claim—that resumption of shipping through the Strait of Hormuz would trigger a sharp fall in oil and headline inflation—has been validated. Desai said June CPI came in well below expectations and marked the largest decline since April 2020, led by lower energy prices. He added the administration’s agenda was cutting prescription drug, healthcare, auto and insurance costs and raising real wages for ordinary Americans."
-    },
-    {
-      "id": "4987862",
-      "time": "2026-07-14 21:14:23",
-      "tags": [
-        "公司"
-      ],
-      "text": "【希爾頓探泊品牌落地中國，首批專案正式簽署】7月14日，希爾頓集團宣佈簽署多個酒店專案，將旗下生活方式酒店品牌希爾頓探泊（Tempo by Hilton）引入亞太市場，首批酒店將落地中國多個目的地。即將在中國亮相的希爾頓探泊酒店專案包括廈門、北京、成都、嘉興等重要目的地城市，已與多位業主達成合作協議。"
-    },
-    {
-      "id": "4987861",
-      "time": "2026-07-14 21:13:08",
-      "tags": [
-        "公司",
-        "觀點",
-        "焦點"
-      ],
-      "text": "【長鑫科技：發行價格為8.66元/股 7月16日進行網上和網下申購】長鑫科技公告，公司首次公開發行股票並在科創板上市，發行價格為8.66元/股。投資者請按此價格在2026年7月16日（T日）進行網上和網下申購，申購時無需繳付申購資金。其中，網下申購時間為9:30-15:00，網上申購時間為9:30-11:30，13:00-15:00。本次初始發行股份數量為668,808.8608萬股，佔發行後總股本約10.00%，並授予中金公司不超過初始發行股份15.00%的超額配售選擇權。發行價格對應的2025年扣非前後孰低攤薄後市盈率為308.92倍(未行使超額配售選擇權)，高於行業平均市盈率76.32倍及可比公司平均市盈率134.62倍。預計募集資金總額約579.19億元(超額配售選擇權行使前)，扣除發行費用後淨額約576.38億元。"
-    },
-    {
-      "id": "mkt:019f60c1-e098-7aab-8d7e-6e297057f108",
-      "time": "2026-07-14 21:12:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil approved raising the ethanol blend in gasoline to 32%."
-    },
-    {
-      "id": "4987860",
-      "time": "2026-07-14 21:12:19",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【自然資源部：探索建立資源權益指標市場化交易機制】7月14日，國新辦舉行新聞釋出會，介紹完善自然資源資產管理制度體系有關情況。健全自然資源資產產權制度和管理制度體系，是黨的二十屆三中全會明確的改革任務。近日，中共中央辦公廳、國務院辦公廳印發《關於完善自然資源資產管理制度體系的意見》（以下簡稱《意見》），這是自然資源資產管理領域的綱領性檔案，構建了統一履行全民所有自然資源資產所有者職責的“四梁八柱”。（每經）"
     }
   ]
 }
