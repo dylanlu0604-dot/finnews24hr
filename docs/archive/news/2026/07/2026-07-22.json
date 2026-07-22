@@ -1,7 +1,84 @@
 {
   "date": "2026-07-22",
-  "count": 803,
+  "count": 811,
   "items": [
+    {
+      "id": "mkt:019f8782-0f15-7aab-8e37-557a7eb6e8de",
+      "time": "2026-07-22 09:47:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "China palladium 2610 futures strengthened intraday, up 5.87% to 320.15 yuan/gram; turnover about 1.1 bln yuan. Open interest rose by over 500 contracts intraday, with trading volume and OI increasing in tandem."
+    },
+    {
+      "id": "mkt:019f8781-db0d-7aab-8e37-49a5735ea813",
+      "time": "2026-07-22 09:47:42",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium rose more than 3% intraday to $1,322.69/oz."
+    },
+    {
+      "id": "5001210",
+      "time": "2026-07-22 09:47:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨鈀金上漲超3%，至每盎司1322.69美元。"
+    },
+    {
+      "id": "5001209",
+      "time": "2026-07-22 09:47:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【超節點概念反覆活躍 共進股份4天3板】超節點概念反覆活躍，共進股份走出4天3板，華勤技術漲停，銳捷網路漲超10%，紫光股份、神州數碼、浪潮資訊、華豐科技跟漲。"
+    },
+    {
+      "id": "5001208",
+      "time": "2026-07-22 09:47:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【海運板塊震盪拉昇 海通發展漲停】海運板塊震盪拉昇，海通發展漲停，招商輪船、中遠海能、中遠海特等股漲幅居前。"
+    },
+    {
+      "id": "5001207",
+      "time": "2026-07-22 09:46:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲6%，現報320.70元。"
+    },
+    {
+      "id": "mkt:019f8780-5dfc-7aab-8e37-41604065ac6c",
+      "time": "2026-07-22 09:46:04",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK",
+        "Impact bullish"
+      ],
+      "text": "China A-share Tencent Cloud-related names opened lower and then rallied; Ruijie Networks jumped over 11% and Huaqin Technology rose more than 8%, with Hongjing Technology, Digital China and Century Huatong also higher. Tencent Cloud executives said at a World Artificial Intelligence Conference subforum they will deploy domestically produced compute at scale to minimize inference costs."
+    },
+    {
+      "id": "5001206",
+      "time": "2026-07-22 09:46:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲3%，現報1325.55美元/盎司。"
+    },
     {
       "id": "5001205",
       "time": "2026-07-22 09:45:31",
