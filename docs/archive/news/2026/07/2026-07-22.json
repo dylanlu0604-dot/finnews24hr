@@ -1,7 +1,86 @@
 {
   "date": "2026-07-22",
-  "count": 1392,
+  "count": 1401,
   "items": [
+    {
+      "id": "te:markets:568771",
+      "time": "2026-07-22 14:36:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Iron Ore Falls to 2-Week Low — Iron ore futures dropped below CNY 740 per ton on Wednesday, falling to their lowest level in two weeks as rising global supply coincided with a softer demand outlook in top consumer China. Brazilian miner Vale reported its strongest second-quarter production since 2018, with iron ore output rising 0.8% from a year earlier and exceeding market expectations. High inventories and ample physical supply across China also weighed on prices. On the demand side, persistent rainfall in southern China and extreme heat across northern regions continued to disrupt construction activity, reducing steel consumption. Industry data also showed blast furnace capacity utilization at surveyed steel mills fell below 90% last week, while mill profitability declined to around 37%."
+    },
+    {
+      "id": "5001613",
+      "time": "2026-07-22 14:36:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本5月-6月累計進口約153萬桶俄羅斯原油】據日本財務省公佈的統計資料測算得出，日本5月-6月累計進口約153萬桶俄羅斯原油，進口均價為每桶103美元。 日本在5至6月分多批次採購了俄羅斯原油。日本幾大主流石油企業——日本太陽石油、出光興產以及ENEOS向記者表示，採購俄油意在實現原油供應渠道多元化。"
+    },
+    {
+      "id": "5001612",
+      "time": "2026-07-22 14:36:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年上半年交通運輸經濟執行總體平穩】2026年上半年交通運輸經濟執行總體平穩，主要指標保持增長，營業性貨運量、港口貨物吞吐量、跨區域人員流動量規模持續增加，為經濟社會平穩健康發展提供了有力的交通運輸服務保障。具體來看，上半年完成營業性貨運量280.7億噸，同比增長3.2%；全國港口完成貨物吞吐量90.7億噸，同比增長2.0%；跨區域人員流動量341.7億人次，同比增長1.2%。此外，交通固定資產投資1.5萬億元，其中公路、水運分別完成投資1萬億元和1099億元。（新華社）"
+    },
+    {
+      "id": "te:markets:568769",
+      "time": "2026-07-22 14:35:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Miners, Energy Stocks Drive ASX Higher Despite Middle East Tensions — The ASX 200 rose 30 points, or 0.3%, to close at 8,823, lifted by gains in miners, energy names and consumer stocks. Traders sought to reverse recent weakness, as sentiment steadied despite weaker U.S. stock futures amid heightened Middle East tensions, with President Donald Trump downplaying prospects for near-term talks as U.S. forces marked an 11th night of strikes on Iran Tuesday. Locally, focus turned to Australia's labor data and July flash PMIs, respectively due on Thursday and Friday. Miners advanced 2.5% on firmer copper, supported by strong Chinese demand and falling inventories. BHP rose 2.3%, and Rio Tinto gained 2.5%. Meanwhile, energy stocks climbed 1.7%, led by Woodside (1.3%) and Santos (1.0%). Also, Evolution Mining surged 4.3%, and Northern Star added 3.5%. In contrast, Lynas Rare Earths slid 3.6% to a five-month low after flagging cost overruns at its Malaysian expansion project and posting weaker-than-expected quarterly revenue."
+    },
+    {
+      "id": "5001611",
+      "time": "2026-07-22 14:34:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：韓國法院以非法資金相關指控判處首爾市長罰款1000萬韓元。"
+    },
+    {
+      "id": "5001610",
+      "time": "2026-07-22 14:33:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【小馬智行與京東養車達成戰略合作】據小馬智行訊息，7月21日，小馬智行與京東養車達成戰略合作，雙方將圍繞自動駕駛車輛維保服務及供應鏈協同等領域展開深度合作，共同打造面向自動駕駛車隊的標準化、規模化運維服務體系。"
+    },
+    {
+      "id": "mkt:019f8887-917b-7aab-8e3d-2019a6949b04",
+      "time": "2026-07-22 14:33:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【South Korea's KOSPI closes up 0.74% after intraday spike above 6%】Japan's Nikkei Index closed down 116.59 points (-0.18%) at 66,115.60 on July 22. South Korea's KOSPI closed up 49.75 points (+0.74%) at 6,797.7 on July 22 after rising more than 6% in early trading. SK Hynix fell 0.32% and Samsung Electronics rose 0.57%."
+    },
+    {
+      "id": "5001609",
+      "time": "2026-07-22 14:33:25",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股滔搏下跌近30%】港股滔搏下跌近30%。訊息面上，此前耐克表示將收緊在中國的線上銷售。"
+    },
     {
       "id": "mkt:019f8885-9cbb-7aab-8e3d-1d3db8d86b81",
       "time": "2026-07-22 14:31:25",
@@ -54,6 +133,14 @@
         "其他"
       ],
       "text": "【7月22日：“農產品批發價格200指數”比昨天上升0.14個點】據農業農村部監測，7月22日“農產品批發價格200指數”為113.14，比昨天上升0.14個點，“菜籃子”產品批發價格指數為113.21，比昨天上升0.17個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.94元/公斤，比昨天下降0.2%；牛肉66.47元/公斤，比昨天下降0.4%；羊肉64.49元/公斤，比昨天下降0.3%；雞蛋10.14元/公斤，比昨天上升0.9%；白條雞17.08元/公斤，比昨天上升0.8%。重點監測的28種蔬菜平均價格為4.31元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為7.03元/公斤，比昨天上升1.3%。鯽魚20.57元/公斤，比昨天上升1.3%；鯉魚14.42元/公斤，比昨天上升0.3%；白鰱魚10.38元/公斤，比昨天上升4.6%；大帶魚40.39元/公斤，比昨天下降1.7%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是黃瓜、白鰱魚、巨峰葡萄、南瓜和豆角，幅度分別為5.1%、4.6%、4.4%、3.8%和3.0%；價格降幅前五名的是大黃花魚、西瓜、富士蘋果、大蔥和菜花，幅度分別為3.6%、2.1%、2.0%、1.9%和1.7%。"
+    },
+    {
+      "id": "5001602",
+      "time": "2026-07-22 14:30:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒：美防長聽證會作證屢遭打斷，抗議者高聲反對伊朗戰事】據美國有線電視新聞網（CNN）、MS Now新聞頻道等多家美媒報道，美國國防部長赫格塞思21日出席美國會參議院撥款委員會聽證會並作證，其發言過程被數名抗議者多次打斷，現場一度陷入混亂。抗議者手舉寫有“不要對伊朗開戰”的橫幅，高聲反對美國對伊朗發動軍事行動。（環球網）"
     },
     {
       "id": "te:markets:568764",
