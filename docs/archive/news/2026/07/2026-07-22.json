@@ -1,7 +1,104 @@
 {
   "date": "2026-07-22",
-  "count": 3053,
+  "count": 3064,
   "items": [
+    {
+      "id": "5002782",
+      "time": "2026-07-22 23:09:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：儘管外部勢力企圖擾亂能源行業及其他領域局勢，但俄羅斯經濟關鍵行業保持穩定。"
+    },
+    {
+      "id": "5002781",
+      "time": "2026-07-22 23:09:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯總統普京：想再次強調，燃料市場當下出現的困難無疑是暫時性的，不會改變俄羅斯整體經濟執行態勢。"
+    },
+    {
+      "id": "mkt:019f8a5f-2a05-7aab-8e4c-89a43848c0bd",
+      "time": "2026-07-22 23:08:40",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "U.S. Trade Representative Greer said trade tools could be used to phase in protection for U.S. domestic iron ore and ironstone production to reduce reliance on foreign steel feedstocks."
+    },
+    {
+      "id": "5002780",
+      "time": "2026-07-22 23:08:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科學家構建出拓撲光子的多通道“高速公路”】拓撲光子波導是下一代光量子計算、高速光通訊及高整合度光子積體電路的關鍵使能技術。東南大學毫米波全國重點實驗室聯合南京大學、香港科技大學研究團隊近期取得重要原創進展，提出並實現了一種新型無絕緣體拓撲光子波導，構建出拓撲光子的多通道“高速公路”。相關研究成果7月22日發表於《自然》雜誌。（新華社）"
+    },
+    {
+      "id": "mkt:019f8a5f-132a-7aab-8e4c-84c502d041d0",
+      "time": "2026-07-22 23:08:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Chinese scientists build multichannel topological-photon 'highway'】Researchers at Southeast University's National Key Laboratory for Millimeter Waves, with Nanjing University and Hong Kong University of Science and Technology, demonstrated an insulator-free topological photonic waveguide that enables multichannel routing of topological photons. The structure is presented as a key enabling technology for next‑generation photonic quantum computing, high‑speed optical communications and highly integrated photonic integrated circuits; results published in Nature on July 22."
+    },
+    {
+      "id": "5002779",
+      "time": "2026-07-22 23:08:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：在一次安全測試期間，一個OpenAI智慧體突破限制，入侵了另一家人工智慧初創企業。OpenAI稱這是一起“前所未有的網路安全事件”。"
+    },
+    {
+      "id": "mkt:019f8a5e-c660-7aab-8e4c-7d12646b1170",
+      "time": "2026-07-22 23:08:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China develops perovskite photovoltaic cell with 'electronic resonance' structure】Researchers at Suzhou University (Li Yaowen, Chen Xiankai) and Southeast University (Zhang Tiankai) proposed an 'electronic resonance' strategy to address low efficiency and poor stability in flexible perovskite photovoltaic cells. The results were published online in Nature on the 22nd. The team describes perovskite PV as a next‑generation, lightweight, thin and flexible technology with applications from space-station and deep‑space base power to clothing- and skin-mounted devices that can generate electricity wherever sunlight is available."
+    },
+    {
+      "id": "5002778",
+      "time": "2026-07-22 23:07:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：可適時分階段啟用貿易工具保護國內鐵礦石與鐵燧巖產能，以降低對外國鋼材投入品的依賴。"
+    },
+    {
+      "id": "5002777",
+      "time": "2026-07-22 23:07:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "客服軟體服務商NiCE最新資料顯示：儘管Anthropic人工智慧模型在程式碼任務上表現領先，但用於客戶服務場景時弱於谷歌與OpenAI。對於語音機器人而言，響應速度至關重要；Anthropic模型雖然具備準確率優勢，但需要付出極高的延遲成本。"
+    },
+    {
+      "id": "mkt:019f8a5c-f597-7aab-8e4c-7210770e5cfc",
+      "time": "2026-07-22 23:06:15",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O"
+      ],
+      "text": "【Amazon cuts jobs in AGI unit】Amazon (AMZN.O) on Wednesday cut roles in its general artificial intelligence (AGI) unit, the latest small-scale layoff following a larger round in January. A spokesperson said the company is refocusing on customer-priority AI projects to accelerate progress in key areas, and that this focus requires reducing some positions within the AGI organization."
+    },
+    {
+      "id": "5002776",
+      "time": "2026-07-22 23:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息人士稱，巴基斯坦在斡旋伊核談判後向美國申請100億美元資金支援。"
+    },
     {
       "id": "mkt:019f8a5b-eec2-7aab-8e4c-6f4bfbb07b2f",
       "time": "2026-07-22 23:05:08",
