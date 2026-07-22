@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-23 01:26:04",
+  "updated": "2026-07-23 01:30:11",
   "count": 17682,
   "items": [
+    {
+      "id": "mkt:019f8adf-339c-7aab-8e4e-e3045b3f970f",
+      "time": "2026-07-23 01:28:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said the situation in the Strait of Hormuz will not return to its pre-war state."
+    },
+    {
+      "id": "mkt:019f8ade-99a7-7aab-8e4e-da57f72e49f0",
+      "time": "2026-07-23 01:27:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's parliament speaker Ghalibaf said the logic of this war is clear: either everyone bears the consequences, or no one can remain uninvolved."
+    },
+    {
+      "id": "mkt:019f8ade-8fc5-7aab-8e4e-d7672414daf0",
+      "time": "2026-07-23 01:27:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf: If our security is not guaranteed, no infrastructure will be safe. The security of the Strait of Hormuz depends on the absence of US forces in the region."
+    },
+    {
+      "id": "mkt:019f8ade-4666-7aab-8e4e-cf9269b08bbd",
+      "time": "2026-07-23 01:27:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Iranian parliament speaker Ghalibaf said if oil from our region cannot be sold, then no one else should be able to sell oil."
+    },
+    {
+      "id": "mkt:019f8ade-17e7-7aab-8e4e-c41d5ef36ea6",
+      "time": "2026-07-23 01:27:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Foreign media: Kyiv unable to control armed forces may hinder EU accession】Foreign media report Kyiv's inability to control its armed forces has prompted rapid leadership changes and could jeopardize Ukraine's EU accession timeline. On July 16 the Verkhovna Rada approved 16 new ministers, leaving the foreign and defense portfolios vacant. After Defense Minister Mykhailo Fedorov stepped down, pro-Fedorov rallies and protests against Commander-in-Chief Oleksandr Syrskyi erupted in Kyiv and other cities. On July 21 President Zelensky appointed Mykhailo Drapat commander of the Joint Forces. The report warned that while Ukraine can align trade rules and adopt EU legislation, accession talks would stall if Europe concludes civilian authorities lack control over the military. Zelensky has urged EU membership by 2027; European leaders continue to say Ukrainian laws fall short of EU standards and that deep reforms are a precondition for accession."
+    },
+    {
+      "id": "5002895",
+      "time": "2026-07-23 01:26:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議會議長：這場戰爭的局面很明朗，要麼全部停戰，要麼戰火不停。"
+    },
+    {
+      "id": "5002894",
+      "time": "2026-07-23 01:26:21",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗議會議長：在我們這個地區，如果我們不賣石油，誰也別想賣。如果我們的安全得不到保障，任何基礎設施都不會是安全的。在沒有美國軍隊的情況下，海峽的安全（由我們來保障）。我們已經說過無數次了，海峽的局勢再也回不到戰前了。"
+    },
     {
       "id": "5002893",
       "time": "2026-07-23 01:23:50",
@@ -161335,77 +161405,6 @@
         "MKT News"
       ],
       "text": "Iran's parliament speaker Ghalibaf said Iran must also use diplomacy and negotiation to achieve and safeguard its national interests."
-    },
-    {
-      "id": "mkt:019f66d3-dc43-7aab-8dad-47ef4d11461a",
-      "time": "2026-07-16 01:29:48",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran has never sought war and does not want it, but must always be prepared to fight and remain resolute to protect national security and interests."
-    },
-    {
-      "id": "4990542",
-      "time": "2026-07-16 01:29:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫：我們也必須運用外交與談判手段，實現並維護國家利益。"
-    },
-    {
-      "id": "4990541",
-      "time": "2026-07-16 01:29:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫：我們向來不樂見戰爭，如今亦是如此，但我們必須時刻做好戰鬥準備，為捍衛本國安全與利益抗爭到底。"
-    },
-    {
-      "id": "mkt:019f66d3-2330-7aab-8dad-3aa7285bbc5e",
-      "time": "2026-07-16 01:29:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed Governor COOK said current monetary policy is slightly tight and the Federal Open Market Committee can take more time to assess incoming data to confirm this."
-    },
-    {
-      "id": "mkt:019f66d3-03da-7aab-8dad-30489f861bdf",
-      "time": "2026-07-16 01:28:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "COOK: Recent CPI and PPI readings cover only one month and do not establish a trend."
-    },
-    {
-      "id": "4990540",
-      "time": "2026-07-16 01:28:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 近期消費者物價指數與生產者物價指數僅為單月資料，不足以形成趨勢。"
-    },
-    {
-      "id": "4990539",
-      "time": "2026-07-16 01:28:15",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 當前貨幣政策處於適度收緊狀態，聯邦公開市場委員會可預留一段時間觀察更多資料以確認相關形勢。"
     }
   ]
 }
