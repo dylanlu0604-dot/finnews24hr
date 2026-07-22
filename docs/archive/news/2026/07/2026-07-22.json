@@ -1,7 +1,92 @@
 {
   "date": "2026-07-22",
-  "count": 527,
+  "count": 537,
   "items": [
+    {
+      "id": "mkt:019f8725-5ae2-7aab-8e34-879fcd4fa92a",
+      "time": "2026-07-22 08:06:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Korea Exchange activated a programmatic-trading pause mechanism for the KOSPI index."
+    },
+    {
+      "id": "5001039",
+      "time": "2026-07-22 08:06:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲8.1%，報198.3萬韓元。"
+    },
+    {
+      "id": "te:markets:568643",
+      "time": "2026-07-22 08:06:00",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Gold Holds Gain Despite Rising Oil Prices — Gold traded around $4,080 an ounce on Wednesday after climbing nearly 2% in the previous session, as investors continued to monitor Middle East uncertainties and rising oil prices and their impact on inflation and interest rates. President Donald Trump downplayed the chances of near-term talks with Iran and warned of additional strikes, lifting oil prices. Iran-backed Houthi rebels in Yemen also disrupted shipping through the Red Sea, while a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. Meanwhile, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets widely expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September."
+    },
+    {
+      "id": "mkt:019f8724-a403-7aab-8e34-7e0f3514301a",
+      "time": "2026-07-22 08:05:53",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran state TV reported sounds of air-defense activity in western, eastern and northeastern Tehran."
+    },
+    {
+      "id": "mkt:019f8724-8228-7aab-8e34-74be07a6ad2e",
+      "time": "2026-07-22 08:05:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Court filings show the U.S. Department of Justice proposed scheduling Nicolas Maduro's trial to begin in June 2027."
+    },
+    {
+      "id": "5001038",
+      "time": "2026-07-22 08:05:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "法庭檔案顯示，美國司法部提議馬杜羅一案於2027年6月開庭審理。"
+    },
+    {
+      "id": "5001037",
+      "time": "2026-07-22 08:05:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數漲幅擴大至1%】日經225指數漲幅擴大至1%，現報66931.11點。"
+    },
+    {
+      "id": "mkt:019f8723-a76a-7aab-8e34-6b7eeaf6cd07",
+      "time": "2026-07-22 08:04:48",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei 225 gained 1.00% intraday."
+    },
+    {
+      "id": "5001036",
+      "time": "2026-07-22 08:04:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中際旭創尋求募資至多550億港元 料成為香港近年來最大規模上市交易】據報道，中際旭創已開始接受投資者對其香港上市的認購，擬募集資金至多550億港元，這將成為香港七年來規模最大的上市交易。根據該公司週三釋出的上市檔案，這家對資料中心建設至關重要的光收發器製造商將發行5450萬股，最高發行價每股1010港元，較週二在深圳的收盤價1136.55元人民幣折讓23%。中際旭創預計將於7月30日在香港掛牌。該公司計劃將募集的資金用於研發、擴大產能、最佳化供應鏈、收購、投資和營運資金。2026年第一季度，該公司的營收達195億元人民幣。基石投資者已同意認購價值34.5億美元的中際旭創股票，其中包括資產管理公司貝萊德、高瓴和摩根資產管理以及新加坡國有機構淡馬錫。基石投資者承諾持有股票至少六個月以換取本次交易中確保認購份額。"
+    },
     {
       "id": "mkt:019f8722-040d-7aab-8e34-65a2eec4118f",
       "time": "2026-07-22 08:03:01",
@@ -9,6 +94,15 @@
         "MKT News"
       ],
       "text": "South Korea's KOSPI hit 7,100 points, up 5.27% intraday."
+    },
+    {
+      "id": "5001035",
+      "time": "2026-07-22 08:03:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升2.5個基點，至2.745%。"
     },
     {
       "id": "5001034",
