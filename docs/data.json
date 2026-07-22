@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-22 21:13:29",
-  "count": 17945,
+  "updated": "2026-07-22 21:17:39",
+  "count": 17935,
   "items": [
+    {
+      "id": "5002572",
+      "time": "2026-07-22 21:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞經濟部長：我們距離正式宣佈與國際貨幣基金組織（IMF）達成協議僅剩數日時間。"
+    },
+    {
+      "id": "te:markets:568905",
+      "time": "2026-07-22 21:15:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in United Kingdom Hit 20-week High — GB100 increased to 10747.00 Index Points, the highest since March 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) gained 3.03%, and in the last 12 months, it increased 18.58%."
+    },
+    {
+      "id": "5002571",
+      "time": "2026-07-22 21:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一箭九星！全球最大固體運載火箭遠海“首秀”】一箭九星，遠海“首秀”！7月22日，引力一號運載火箭在上海東部海域成功發射9顆衛星。作為我國研製的全球最大固體運載火箭，引力一號首次執行遠海發射任務，成功驗證該火箭的遠海機動發射能力。"
+    },
+    {
+      "id": "5002570",
+      "time": "2026-07-22 21:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美股核電股Oklo與X-Energy加入特朗普政府為人工智慧增建核反應堆的計劃。"
+    },
+    {
+      "id": "mkt:019f89f6-5aff-7aab-8e48-dc823e0cd283",
+      "time": "2026-07-22 21:14:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Sumitomo Mitsui: If inflation doesn't slow, Fed policymakers will lose credibility】Joseph Lavorgna, Sumitomo Mitsui's chief U.S. economist, said in a report that failure of inflation to slow would cost Fed policymakers credibility. Over the past 70 years core inflation has fallen YoY by 0.9 pct or more only six times; in each instance the slowdown followed Fed tightening. Lavorgna warned the longer the Fed waits the more likely rates will have to be raised above the necessary level, raising the risk of a damaging end to the tightening cycle, and said Chair Walsh understands this."
+    },
     {
       "id": "5002569",
       "time": "2026-07-22 21:11:20",
@@ -396,6 +447,14 @@
         "Brent"
       ],
       "text": "Night session opened: China's main futures contracts were mostly higher — SC crude, low-sulfur fuel oil (LU), LPG and fuel oil up >2%; p-xylene, bottle-grade PET chips, benzene, polypropylene and soda ash up >1%. Caustic soda and soybean oil edged down."
+    },
+    {
+      "id": "5002539",
+      "time": "2026-07-22 21:00:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國5年期英國國債收益率上升近4個基點，至4.622%，為2020年5月以來最高水平。"
     },
     {
       "id": "5002538",
@@ -164009,145 +164068,6 @@
         "Importance 1"
       ],
       "text": "Gold Steadies as US PPI Cools — Gold prices recovered earlier losses to trade slightly higher at $4,070 per ounce on Wednesday, as traders weighed weaker-than-expected US producer price data, which showed the first monthly decline in nearly a year, driven by lower energy prices. The core index also rose just 0.2%, below forecasts. The softer inflation figures followed Tuesday’s softer US inflation report, leading markets to trim bets on Federal Reserve tightening. However, a roughly 49% chance of a September rate hike remains priced in, as oil prices hit a one-month high amid escalating Middle East tensions. The US continued strikes on Iran and reinstated a naval blockade on Iranian ports, while Tehran shut the Strait of Hormuz. On Tuesday, Fed Chair Kevin Warsh reiterated the central bank’s zero tolerance for persistently high inflation."
-    },
-    {
-      "id": "4990116",
-      "time": "2026-07-15 21:16:49",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿斯麥執行長：公司將在2027年6月10日資本市場日重新審議長期業績指引。"
-    },
-    {
-      "id": "mkt:019f65ec-3700-7aab-8da4-69e07327c023",
-      "time": "2026-07-15 21:16:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Shanghai peak power load hits record at start of peak summer heat】At 15:39 on July 15 Shanghai grid peak load reached 42.216 million kW (42.216 GW), up 57,000 kW from last year’s high of 42.159 million kW, a record. Air-conditioning cooling demand is estimated to account for about 44% of total load. This was the fifth high-temperature day this year and the second time this week the city’s load exceeded 40 million kW."
-    },
-    {
-      "id": "4990115",
-      "time": "2026-07-15 21:16:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【極佳視界聯合清華大學釋出具身世界模型GigaWorld-1】7月15日，極佳視界聯合清華大學正式釋出具身世界模型GigaWorld-1，技術報告、模型、資料與Benchmark同步全面開源。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607153807713674",
-      "time": "2026-07-15 21:16:29",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "紐約聯儲主席威廉姆斯表示，預計利率最終會隨著通脹而下降。"
-    },
-    {
-      "id": "4990114",
-      "time": "2026-07-15 21:16:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【入伏首日上海用電負荷創歷史新高】7月15日15時39分，上海電網最高用電負荷達4221.6萬千瓦，較去年最高值4215.9萬千瓦增加5.7萬千瓦，創歷史新高。空調降溫負荷集中釋放成為拉動電網負荷攀升的首要推手，據測算空調降溫負荷約佔全市總負荷的44%。這已是今年第5個高溫日，也是本週以來用電負荷第二次突破4000萬千瓦關口。 (上觀新聞)"
-    },
-    {
-      "id": "4990113",
-      "time": "2026-07-15 21:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "Spotify：受控子女賬戶功能擴容，部分國家內任意套餐使用者均可為子女建立專屬賬戶。"
-    },
-    {
-      "id": "4990112",
-      "time": "2026-07-15 21:15:51",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：預計利率最終會隨著通脹而下降。"
-    },
-    {
-      "id": "4990111",
-      "time": "2026-07-15 21:15:08",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通將康卡斯特目標股價從33美元下調至29美元。"
-    },
-    {
-      "id": "4990110",
-      "time": "2026-07-15 21:14:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟與烏克蘭簽署國防工業夥伴關係協議。"
-    },
-    {
-      "id": "4990109",
-      "time": "2026-07-15 21:14:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美眾議院共和黨領導層公佈950億美元黨派性預算框架】美國眾議院共和黨領導層週三上午公佈了一份財政框架，涉及一項總額950億美元、由共和黨主導的撥款方案，共和黨領袖希望在今年夏末透過該方案。眾議院預算委員會主席喬迪·阿靈頓已安排於週四上午對該措施進行審議修訂。該措施將啟動“預算和解程式”，從而繞過參議院的“冗長辯論”阻撓，透過一項法案：該法案將撥款730億美元用於軍事和情報領域，120億美元用於農業援助，另有100億美元用於向各州提供選舉撥款及其他旨在推行嚴格選民身份驗證法律的舉措。即便該框架能夠在委員會層面透過——這只是漫長立法程式的第一步——也並非板上釘釘。委員會內的財政鷹派人士希望透過削減其他支出來抵消至少部分新增支出對財政赤字的影響。但這一目標實現的可能性不高，這意味著該方案可能不會獲得相應資金來源支援，從而引發財政鷹派的不滿。"
-    },
-    {
-      "id": "mkt:019f65ea-50ef-7aab-8da4-6327fa5f50bf",
-      "time": "2026-07-15 21:14:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Williams said many people still hold low-rate mortgages, and the problem will take several years to resolve."
-    },
-    {
-      "id": "mkt:019f65ea-3433-7aab-8da4-58228d5e8079",
-      "time": "2026-07-15 21:14:35",
-      "tags": [
-        "MKT News",
-        "US10Y",
-        "Impact bearish",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【House Republican leaders unveil $95 billion partisan spending framework】House Republican leaders on Wednesday released a $95 billion GOP-led appropriations framework they hope to pass by late summer. Budget Committee chairman Jodey Arrington has scheduled committee markup for Thursday morning. The package would use the reconciliation procedure to bypass a Senate filibuster and earmarks about $73 billion for military and intelligence, $12 billion for farm aid and $10 billion for state election grants and other measures to enforce stricter voter ID laws. The measure faces uncertainty even if it clears committee: committee fiscal hawks demand offsetting cuts to neutralize added deficit impact, but the framework says the likelihood of securing those offsets is low, raising the prospect of unfinanced spending and intra-party dissent."
-    },
-    {
-      "id": "4990108",
-      "time": "2026-07-15 21:14:09",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝萊德第二季度吸引近2000億美元資金淨流入 總資產首次突破15萬億】貝萊德第二季度吸引客戶淨流入1920億美元，投資者將資金投入交易所交易基金，推動該公司總資產首次突破15萬億美元。貝萊德週三在宣告中表示，投資者向主動管理基金淨投入530億美元，營收同比增長31%，至71億美元。"
-    },
-    {
-      "id": "4990107",
-      "time": "2026-07-15 21:14:02",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：目前仍有大量民眾持有低抵押貸款利率，該狀況需要數年時間才能化解。"
-    },
-    {
-      "id": "4990106",
-      "time": "2026-07-15 21:13:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿斯麥首席財務官：我們已收到大量2028年交付的極紫外光刻機訂單。"
-    },
-    {
-      "id": "4990105",
-      "time": "2026-07-15 21:13:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "強生高管在電話會議上表示，手術量保持穩定，且“我們未發現需求出現大範圍放緩的跡象”。"
     }
   ]
 }

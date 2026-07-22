@@ -1,7 +1,58 @@
 {
   "date": "2026-07-22",
-  "count": 2749,
+  "count": 2755,
   "items": [
+    {
+      "id": "5002572",
+      "time": "2026-07-22 21:16:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "玻利維亞經濟部長：我們距離正式宣佈與國際貨幣基金組織（IMF）達成協議僅剩數日時間。"
+    },
+    {
+      "id": "te:markets:568905",
+      "time": "2026-07-22 21:15:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in United Kingdom Hit 20-week High — GB100 increased to 10747.00 Index Points, the highest since March 2026. Over the past 4 weeks, United Kingdom Stock Market Index (GB100) gained 3.03%, and in the last 12 months, it increased 18.58%."
+    },
+    {
+      "id": "5002571",
+      "time": "2026-07-22 21:15:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【一箭九星！全球最大固體運載火箭遠海“首秀”】一箭九星，遠海“首秀”！7月22日，引力一號運載火箭在上海東部海域成功發射9顆衛星。作為我國研製的全球最大固體運載火箭，引力一號首次執行遠海發射任務，成功驗證該火箭的遠海機動發射能力。"
+    },
+    {
+      "id": "5002570",
+      "time": "2026-07-22 21:14:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "美股核電股Oklo與X-Energy加入特朗普政府為人工智慧增建核反應堆的計劃。"
+    },
+    {
+      "id": "mkt:019f89f6-5aff-7aab-8e48-dc823e0cd283",
+      "time": "2026-07-22 21:14:11",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Sumitomo Mitsui: If inflation doesn't slow, Fed policymakers will lose credibility】Joseph Lavorgna, Sumitomo Mitsui's chief U.S. economist, said in a report that failure of inflation to slow would cost Fed policymakers credibility. Over the past 70 years core inflation has fallen YoY by 0.9 pct or more only six times; in each instance the slowdown followed Fed tightening. Lavorgna warned the longer the Fed waits the more likely rates will have to be raised above the necessary level, raising the risk of a damaging end to the tightening cycle, and said Chair Walsh understands this."
+    },
     {
       "id": "5002569",
       "time": "2026-07-22 21:11:20",
@@ -396,6 +447,14 @@
         "Brent"
       ],
       "text": "Night session opened: China's main futures contracts were mostly higher — SC crude, low-sulfur fuel oil (LU), LPG and fuel oil up >2%; p-xylene, bottle-grade PET chips, benzene, polypropylene and soda ash up >1%. Caustic soda and soybean oil edged down."
+    },
+    {
+      "id": "5002539",
+      "time": "2026-07-22 21:00:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國5年期英國國債收益率上升近4個基點，至4.622%，為2020年5月以來最高水平。"
     },
     {
       "id": "5002538",
