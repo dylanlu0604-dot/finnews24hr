@@ -1,7 +1,76 @@
 {
   "date": "2026-07-22",
-  "count": 712,
+  "count": 719,
   "items": [
+    {
+      "id": "mkt:019f876d-a619-7aab-8e36-4de1d721027c",
+      "time": "2026-07-22 09:25:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open in China’s A-share market, the Shanghai Composite Index was down 0.64%, the Shenzhen Composite Index down 0.66% and the ChiNext Index down 1.11%. Oil and gas extraction, precious metals and steel led gains; PCB, MLCC and advanced packaging sectors retreated."
+    },
+    {
+      "id": "5001155",
+      "time": "2026-07-22 09:25:12",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.64％，深成指跌0.66％，創業板跌1.11％。"
+    },
+    {
+      "id": "mkt:019f876d-1033-7aab-8e36-44e9b8f066d9",
+      "time": "2026-07-22 09:24:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reported an attack on Abdan city in Ilam province in western Iran; no casualties reported."
+    },
+    {
+      "id": "mkt:019f876c-5b55-7aab-8e36-3b1f021d6503",
+      "time": "2026-07-22 09:24:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude touched $90 per barrel, its highest since June 11, up 0.73% intraday. WTI rose 1.00% intraday to $85.87 per barrel."
+    },
+    {
+      "id": "5001154",
+      "time": "2026-07-22 09:23:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "滔搏國際港股開盤下跌近15%，此前耐克表示將收緊在中國的線上銷售。"
+    },
+    {
+      "id": "5001153",
+      "time": "2026-07-22 09:23:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報3803.00元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607223816561216",
+      "time": "2026-07-22 09:22:11",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展760億元7天期逆回購操作】央行公開市場開展760億元7天期逆回購操作，操作利率1.40%。資料顯示，今日4265億元逆回購到期。"
+    },
     {
       "id": "5001152",
       "time": "2026-07-22 09:21:45",

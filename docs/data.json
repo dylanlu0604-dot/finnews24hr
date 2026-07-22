@@ -1,7 +1,76 @@
 {
-  "updated": "2026-07-22 09:22:28",
-  "count": 18091,
+  "updated": "2026-07-22 09:26:26",
+  "count": 18088,
   "items": [
+    {
+      "id": "mkt:019f876d-a619-7aab-8e36-4de1d721027c",
+      "time": "2026-07-22 09:25:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component"
+      ],
+      "text": "At the open in China’s A-share market, the Shanghai Composite Index was down 0.64%, the Shenzhen Composite Index down 0.66% and the ChiNext Index down 1.11%. Oil and gas extraction, precious metals and steel led gains; PCB, MLCC and advanced packaging sectors retreated."
+    },
+    {
+      "id": "5001155",
+      "time": "2026-07-22 09:25:12",
+      "tags": [],
+      "text": "三大股指低開，滬指跌0.64％，深成指跌0.66％，創業板跌1.11％。"
+    },
+    {
+      "id": "mkt:019f876d-1033-7aab-8e36-44e9b8f066d9",
+      "time": "2026-07-22 09:24:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Mehr News Agency reported an attack on Abdan city in Ilam province in western Iran; no casualties reported."
+    },
+    {
+      "id": "mkt:019f876c-5b55-7aab-8e36-3b1f021d6503",
+      "time": "2026-07-22 09:24:13",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude touched $90 per barrel, its highest since June 11, up 0.73% intraday. WTI rose 1.00% intraday to $85.87 per barrel."
+    },
+    {
+      "id": "5001154",
+      "time": "2026-07-22 09:23:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "滔搏國際港股開盤下跌近15%，此前耐克表示將收緊在中國的線上銷售。"
+    },
+    {
+      "id": "5001153",
+      "time": "2026-07-22 09:23:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲5%，現報3803.00元。"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607223816561216",
+      "time": "2026-07-22 09:22:11",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行今日開展760億元7天期逆回購操作】央行公開市場開展760億元7天期逆回購操作，操作利率1.40%。資料顯示，今日4265億元逆回購到期。"
+    },
     {
       "id": "5001152",
       "time": "2026-07-22 09:21:45",
@@ -166233,105 +166302,6 @@
         "其他"
       ],
       "text": "【剛果（金）埃博拉確診病例超2000例】剛果（金）衛生部14日釋出的最新疫情報告顯示，該國本輪埃博拉疫情累計報告確診病例達2011例，其中死亡754例。 報告說，截至13日，疫情已波及伊圖裡、北基伍、南基伍、上韋萊和喬波5個省。上韋萊省自數天前首次報告出現埃博拉病例以來，疫情進一步擴散，累計報告確診病例14例，其中死亡13例。報告認為，該省出現新增病例表明疫情影響範圍繼續擴大，需立即加強監測、檢測並在周邊省份加強防範。 報告顯示，目前753名患者正在接受隔離或住院治療，累計治癒病例為366例。北基伍省相關醫療機構床位佔用率達120.6%，收治能力持續承壓。 報告還指出，部分疫區靠近烏干達邊境，頻繁人員流動增加了疫情進一步擴散的風險。(新華社)"
-    },
-    {
-      "id": "mkt:019f6361-a66e-7aab-8d8d-7509422f952d",
-      "time": "2026-07-15 09:26:11",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "03986.HK",
-        "Impact bullish",
-        "06809.HK"
-      ],
-      "text": "Hong Kong memory-sector stocks strengthened; 03986.HK rose more than 7%, 06809.HK rose 3.12%."
-    },
-    {
-      "id": "mkt:019f6361-7acd-7aab-8d8d-6c38da8a4c10",
-      "time": "2026-07-15 09:26:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Singapore's benchmark index briefly rose 0.5% to a record high of 5,524.86 and was last up 0.2%."
-    },
-    {
-      "id": "4988776",
-      "time": "2026-07-15 09:25:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "新加坡海峽時報指數一度上漲0.5%，觸及5,524.86點的紀錄高位，最新上漲0.2%。"
-    },
-    {
-      "id": "mkt:019f6360-efd1-7aab-8d8d-60b34ea7d4a3",
-      "time": "2026-07-15 09:25:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact bearish",
-        "SZSE Component",
-        "Impact bullish"
-      ],
-      "text": "At the open, A-share market: Shanghai Composite -0.09%, Shenzhen Composite +0.31%, ChiNext +0.74%. Lab-grown diamond and storage-chip stocks led gains."
-    },
-    {
-      "id": "4988775",
-      "time": "2026-07-15 09:25:11",
-      "tags": [
-        "焦點"
-      ],
-      "text": "三大股指開盤漲跌不一，滬指跌0.09％，深成指漲0.31％，創業板漲0.74％。"
-    },
-    {
-      "id": "mkt:019f635f-e2e4-7aab-8d8d-5ed95c05092e",
-      "time": "2026-07-15 09:24:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China Automotive Research Center launches bonded inspection pilot for overseas faulty auto parts in Chongqing】China Automotive Technology and Research Center has opened the country's first bonded inspection pilot for overseas automotive faulty parts at Chongqing Lianglu Guoyuan Port Comprehensive Bonded Zone; the first batch of faulty parts from Changan's Saudi operations has arrived and completed testing."
-    },
-    {
-      "id": "te:markets:566961",
-      "time": "2026-07-15 09:24:12",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "EU Gas Advances Further — European natural gas rose further to around €54.1 per MWh on Wednesday, hovering at the highest level in over three months, as mounting tensions in the Middle East fueled concerns over LNG availability. President Donald Trump warned that the US would target Iranian bridges and power infrastructure next week unless Tehran returns to negotiations. His warning came as US forces carried out strikes on Iran for a fourth consecutive day and resumed a blockade of Iranian ports. Meanwhile, Trump backed away from an earlier threat to impose a 20% \"security\" fee on ships transiting the Strait of Hormuz, saying it would instead be replaced by Gulf state investments in the US. Concerns remain focused on Qatar, a key global LNG exporter, as fresh disruptions to exports from the Ras Laffan complex could curb supplies to Europe at a crucial time for replenishing gas inventories ahead of winter."
-    },
-    {
-      "id": "4988772",
-      "time": "2026-07-15 09:23:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國汽研牽頭落地海外汽車故障零部件保稅檢測試點】據中國汽研訊息，由中國汽研牽頭打造的國內首個海外汽車故障零部件保稅檢測試點，正式落地重慶兩路果園港綜合保稅區，沙特長安汽車首批故障件已運抵完成檢測。"
-    },
-    {
-      "id": "mkt:019f635e-da46-7aab-8d8d-5750db86e3e6",
-      "time": "2026-07-15 09:23:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Hong Kong PCB-related stocks opened higher. Kingboard Laminates (01888.HK) rose 5.06% at the open, Kingboard Holdings (00148.HK) was up just over 4%, and Dazhu CNC (03200.HK) gained just over 3%."
-    },
-    {
-      "id": "te:markets:566960",
-      "time": "2026-07-15 09:22:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 2"
-      ],
-      "text": "Dollar Extends Fall on Soft Inflation Data — The dollar index weakened below 101 on Wednesday, marking its second consecutive session of losses after softer-than-expected US inflation data reduced expectations of a near-term Federal Reserve interest rate hike. The annual US inflation rate eased to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped moderate energy inflation. Consumer prices also fell 0.4% from the previous month, registering their first monthly decline since 2020. Meanwhile, Fed Chair Kevin Warsh reiterated the central bank’s commitment to restoring price stability during congressional testimony on Tuesday but stopped short of signaling a more hawkish policy stance. Markets continue to price in roughly a 50% chance of a Fed rate hike in September, as renewed tensions between the US and Iran lifted oil prices and kept inflationary pressures in focus."
     }
   ]
 }
