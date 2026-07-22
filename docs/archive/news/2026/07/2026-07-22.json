@@ -1,7 +1,133 @@
 {
   "date": "2026-07-22",
-  "count": 2765,
+  "count": 2780,
   "items": [
+    {
+      "id": "5002592",
+      "time": "2026-07-22 21:24:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "易捷航空倫敦盤中股價最大跌幅達 3.5%。"
+    },
+    {
+      "id": "5002591",
+      "time": "2026-07-22 21:24:32",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源公司：鑑於中東衝突再次升級，道達爾能源將在法國所有加油站重新推出汽油價格上限，每升售價不得超過1.99歐元。"
+    },
+    {
+      "id": "5002590",
+      "time": "2026-07-22 21:24:18",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "艾裡遜變速箱將為通用動力歐洲陸地系統公司供應全自動變速箱，用於德國武裝部隊的鷹系列車輛。"
+    },
+    {
+      "id": "5002589",
+      "time": "2026-07-22 21:23:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：哈馬斯當選領導人今日接到土耳其外長的來電，對方祝賀其當選該職務。"
+    },
+    {
+      "id": "5002588",
+      "time": "2026-07-22 21:23:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲空中客車公司：納斯拉航空同意額外購買5架A330-900飛機以及20架A321neo飛機。"
+    },
+    {
+      "id": "mkt:019f89fe-31ae-7aab-8e49-0387d50fff41",
+      "time": "2026-07-22 21:22:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "An EU official said the bloc must fully safeguard strategic autonomy; the measure is intended to prevent foreign investors from acquiring full control of EU airlines."
+    },
+    {
+      "id": "5002587",
+      "time": "2026-07-22 21:22:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟官員表示，此舉旨在確保外國投資者不會完全掌控歐盟航空公司。"
+    },
+    {
+      "id": "mkt:019f89fe-1a4a-7aab-8e48-fa04a426251c",
+      "time": "2026-07-22 21:22:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An EU official said the bloc will publish the results of its review of airline ownership rules in autumn."
+    },
+    {
+      "id": "5002586",
+      "time": "2026-07-22 21:22:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員表示，這可能影響阿波羅（Apollo）或castlelake對易捷航空（easyJet）擬議的收購交易。"
+    },
+    {
+      "id": "5002585",
+      "time": "2026-07-22 21:22:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員：我們必須充分保護戰略自主權。"
+    },
+    {
+      "id": "mkt:019f89fd-fae9-7aab-8e48-f7507429137e",
+      "time": "2026-07-22 21:22:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "EU officials say they will clarify which corporate structures will be permitted, with particular focus on control and ownership arrangements."
+    },
+    {
+      "id": "5002584",
+      "time": "2026-07-22 21:22:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員：我們將明確允許哪些企業架構，尤其是在控制權和所有權方面。"
+    },
+    {
+      "id": "5002583",
+      "time": "2026-07-22 21:22:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟官員表示，我方將於秋季釋出航空業所有權規則修訂報告。"
+    },
+    {
+      "id": "5002582",
+      "time": "2026-07-22 21:22:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行投行業務持續在夏洛特、紐約兩地實現增長。"
+    },
+    {
+      "id": "5002581",
+      "time": "2026-07-22 21:21:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "空中客車集團：沙烏地阿拉伯菲納斯航空確認增購空中客車A330-900與A321neo客機。"
+    },
     {
       "id": "5002580",
       "time": "2026-07-22 21:20:35",
