@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-23 01:09:19",
-  "count": 17688,
+  "updated": "2026-07-23 01:13:23",
+  "count": 17687,
   "items": [
+    {
+      "id": "5002884",
+      "time": "2026-07-23 01:12:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "Anthropic：將投入2億美元設立“Anthropic經濟未來研究基金”，用以資助高潛力外部研究專案。"
+    },
+    {
+      "id": "te:markets:568948",
+      "time": "2026-07-23 01:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Crude Inches Lower — Brent oil futures eased below $94 per barrel on Wednesday from the six-week high of $94.4 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets."
+    },
+    {
+      "id": "te:markets:568947",
+      "time": "2026-07-23 01:09:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Eases from 6-Week High — Crude oil futures eased below $86.5 per barrel on Wednesday from the six-week high of $88.6 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets."
+    },
+    {
+      "id": "mkt:019f8acd-5889-7aab-8e4e-82d06fd7bbae",
+      "time": "2026-07-23 01:09:01",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【China foreign minister Wang Yi meets Brunei foreign minister in Manila】China's foreign minister Wang Yi met Brunei's foreign minister in Manila on July 22 and conveyed President Xi Jinping's greetings to Sultan Hassanal Bolkiah. Wang said Beijing and Bandar Seri Begawan will implement leaders' consensus via the China–Brunei joint government steering committee to deepen cooperation in trade, energy, artificial intelligence and maritime joint development, and to build a higher-level China–Brunei strategic partnership; the discussion follows the 35th anniversary of diplomatic ties and a recent visit to China by Brunei's crown prince."
+    },
+    {
+      "id": "5002883",
+      "time": "2026-07-23 01:08:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見越南外長黎懷忠】中共中央政治局委員、外交部長王毅22日在馬尼拉會見越南外長黎懷忠。王毅表示，今年4月，習近平總書記、國家主席同蘇林總書記、國家主席舉行重要會晤，為推動落實“六個更”總體目標、加快構建更高水平具有戰略意義的中越命運共同體作出頂層設計。當前，世界百年變局亂的一面更加突出，給地區國家帶來嚴峻挑戰。中越作為社會主義國家和兩大發展中國家，要認真落實兩黨兩國高層共識，從各自長遠發展的大局出發，切實加強團結協作。雙方要繼續密切高層交往，充分發揮中越外交、國防、公安“3+3”戰略對話機制作用，推進互聯互通、人工智慧等領域務實合作，使中越關係始終走在地區國家前列，共同維護好地區和平發展的良好局面。黎懷忠表示，越南黨和政府珍視越中友誼，高度重視對華關係。越方願同中方一道，落實蘇林總書記訪華成果和兩黨兩國最高領導人重要共識，加強各層級交往，推進鐵路、農業等領域務實合作，共同推動越中全面戰略合作伙伴關係取得更多成果。越方支援中方提出的四大全球倡議，祝賀世界人工智慧大會在上海成功舉辦併成立世界人工智慧合作組織。越方將全力支援中方辦好今年亞太經合組織領導人非正式會議，願同中方加強多邊溝通協作，維護好兩國和地區共同利益。(新華社)"
+    },
     {
       "id": "mkt:019f8aca-3cad-7aab-8e4e-79ce53a1171a",
       "time": "2026-07-23 01:05:37",
@@ -161431,59 +161480,6 @@
         "國際"
       ],
       "text": "美聯儲理事庫克： 美聯儲若無獨立性，便無法履行自身職能。"
-    },
-    {
-      "id": "mkt:019f66c4-4100-7aab-8dac-ddea4ef651d1",
-      "time": "2026-07-16 01:12:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed Governor COOK said after the Supreme Court ruling she will continue to base her duties on data rather than political considerations."
-    },
-    {
-      "id": "4990529",
-      "time": "2026-07-16 01:12:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "多名議員透露，烏克蘭總統澤連斯基擬提名內務部長克利緬科出任國防部長。"
-    },
-    {
-      "id": "4990528",
-      "time": "2026-07-16 01:12:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 將遵循最高法院裁決，繼續依據資料履職，不受政治因素干擾。"
-    },
-    {
-      "id": "4990527",
-      "time": "2026-07-16 01:11:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "托克集團增加倫敦金屬交易所鉛庫存至歷史新高，鉛價大幅下挫。"
-    },
-    {
-      "id": "mkt:019f66c2-88ec-7aab-8dac-d19c28ae8dde",
-      "time": "2026-07-16 01:10:52",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's finance ministry projects 2026 inflation at 5.1%, above a prior forecast of 4.5%, and 2027 inflation at 3.6%, slightly higher than the previous 3.5%."
-    },
-    {
-      "id": "mkt:019f66c1-40d2-7aab-8dac-cd8cf71870bd",
-      "time": "2026-07-16 01:09:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's finance ministry projects 2026 GDP growth of 2.3%, unchanged from its prior forecast, and sees 2027 growth at 2.5%, below its earlier 2.6% projection."
     }
   ]
 }
