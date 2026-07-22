@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-23 06:31:21",
-  "count": 17730,
+  "updated": "2026-07-23 06:35:21",
+  "count": 17733,
   "items": [
+    {
+      "id": "mkt:019f8bf7-0a32-7aab-8e53-f1161c3ac3c2",
+      "time": "2026-07-23 06:34:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【China to step up implementation of fiscal-financial package to boost domestic demand】An article in People’s Daily said implementation of China’s fiscal-financial package to boost domestic demand is proceeding broadly as expected. Measures have supported countercyclical growth in lending to key investment and consumption sectors and are redirecting more social capital to priority domestic-demand areas. Beijing called for dogged execution to ensure policy benefits reach businesses and consumers, remove bottlenecks constraining investment and consumption, and expand new sources of domestic demand."
+    },
+    {
+      "id": "5003142",
+      "time": "2026-07-23 06:33:59",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【財政部部長藍佛安：以更大力度落實財政金融協同促內需一攬子政策】財政部部長藍佛安在人民日報刊發題為“以更大力度落實財政金融協同促內需一攬子政策”的文章。文中指出，總的看，政策實施進展符合預期，支援重點投資和消費領域信貸投放逆勢增長，帶動更多社會資源流向擴內需重點領域。下一步，要認真貫徹落實黨中央、國務院決策部署，樹立和踐行正確政績觀，以釘釘子精神實施好財政金融協同促內需一攬子政策，確保政策紅利充分惠及各類經營主體和廣大消費者，推動打通制約投資消費的堵點卡點，拓展內需增長新空間。"
+    },
+    {
+      "id": "5003141",
+      "time": "2026-07-23 06:32:40",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：我們試圖在美國生產大量光伏產品。"
+    },
+    {
+      "id": "5003140",
+      "time": "2026-07-23 06:32:25",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【週四重要財經資訊提醒（以下均為北京時間）】\n① 07:00 韓國二季度GDP初值；\n② 09:30 澳大利亞6月就業報告（含就業人數與失業率）；\n③ 時間待定 2026年APEC數字和人工智慧部長會議；\n④ 歐股開盤之前 諾基亞、道達爾能源釋出業績報告；\n⑤ 19:00 土耳其央行公佈利率決議；\n⑥ 20:15 歐洲央行公佈利率決議（含主要再融資利率、存款機制利率、邊際貸款利率）；\n⑦ 20:30 美國7月18日當週首次申請失業救濟人數；\n⑧ 20:45 歐洲央行行長拉加德舉行新聞釋出會；\n⑨ 次日00:30 AMD Advancing AI大會，CEO蘇姿豐講話；\n⑩ 美股盤後 英特爾、德國思愛普Sap釋出業績報告。"
+    },
+    {
+      "id": "5003139",
+      "time": "2026-07-23 06:31:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【多路增量資金入市，逆向佈局構築承接防線】A股市場波動之際，多路增量資金入場佈局。7月以來，資金大幅流入ETF，部分次新基金火速建倉，公私募基金密集自購，績優基金也放開限購吸納“新子彈”。業內人士表示，歷史上A股多次在調整中出現過資金逆向入場的現象，這對市場有託舉作用。當下機構資金對當前點位的配置價值認可度不低，具有下方承接力量。（上證報）"
+    },
     {
       "id": "5003138",
       "time": "2026-07-23 06:30:50",
@@ -162077,25 +162128,6 @@
         "國際"
       ],
       "text": "特朗普：奧巴馬做了非常糟糕的事情，他是當前伊朗地區危機的原因，他給了伊朗錢，並簽署了一項可怕的協議。"
-    },
-    {
-      "id": "te:markets:567320",
-      "time": "2026-07-16 06:35:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Rises by 2.98% — Top commodity gainers are Platinum (2.98%), Steel Rebar (0.84%) and Gold (0.15%). Biggest losers are Silver (-1.46%) and Silicon (-0.89%)."
-    },
-    {
-      "id": "4990821",
-      "time": "2026-07-16 06:34:39",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內漲1%，現報79.92美元/桶。"
     }
   ]
 }
