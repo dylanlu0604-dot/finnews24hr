@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-22 14:25:48",
-  "count": 17997,
+  "updated": "2026-07-22 14:29:50",
+  "count": 17989,
   "items": [
+    {
+      "id": "te:economy:568760",
+      "time": "2026-07-22 14:25:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Norway Industrial Confidence Improves in Q2 — Norway’s industrial confidence rose to 2.6 in Q2 2026, following an upwardly revised 1.4 in the previous quarter, though it remained below its long-term average of 2.9. The improvement came as total industrial production edged higher, driven by a strong increase in output among intermediate goods manufacturers. Producers of consumer goods was unchanged, while investment goods output continued to decline as reduced oil and gas investments weighed on demand. Employment remained broadly stable for a third consecutive quarter, while total order shrank amid weaker domestic and export demand, led by a sharp decline in capital goods orders. On the price front, input costs continued to rise faster than selling prices. Looking ahead, firms expect production, employment, order intake, and order backlogs to increase in the third quarter, despite anticipating further rises in input and selling prices."
+    },
+    {
+      "id": "5001599",
+      "time": "2026-07-22 14:25:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【孫東旭：新公司美麗明天8月首播】7月21日，主播明明、天權在新公司小號開直播，直播中回應了首播時間、準備工作、招聘進展等問題。 明明稱首播時間最快可能也要一週之後，有大量的準備工作在做，包括收樣品、調裝置、樣品質檢等環節，孫東旭也在短影片中表示首播將在8月份。 此外直播中，還表示美麗明天公司已開放崗位招聘。據招聘平臺資訊顯示，目前在招崗位包括商務經理、客服主管、質檢主管，薪資範圍為12K—25K。（藍鯨新聞）"
+    },
     {
       "id": "5001598",
       "time": "2026-07-22 14:24:26",
@@ -25,6 +45,15 @@
       "time": "2026-07-22 14:23:42",
       "tags": [
         "其他"
+      ],
+      "text": "【甘肅：上半年地區生產總值同比增長4.9%】甘肅省統計局公佈2026年上半年經濟資料，根據地區生產總值統一核算結果，上半年，甘肅全省地區生產總值6959.1億元，按不變價格計算，同比增長4.9%。分產業看，第一產業增加值450.2億元，同比增長5.9%；第二產業增加值2500.9億元，增長5.3%；第三產業增加值4008.0億元，增長4.6%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607223817182189",
+      "time": "2026-07-22 14:23:23",
+      "tags": [
+        "經濟數據",
+        "中國"
       ],
       "text": "【甘肅：上半年地區生產總值同比增長4.9%】甘肅省統計局公佈2026年上半年經濟資料，根據地區生產總值統一核算結果，上半年，甘肅全省地區生產總值6959.1億元，按不變價格計算，同比增長4.9%。分產業看，第一產業增加值450.2億元，同比增長5.9%；第二產業增加值2500.9億元，增長5.3%；第三產業增加值4008.0億元，增長4.6%。"
     },
@@ -165136,107 +165165,6 @@
         "Importance 1"
       ],
       "text": "The Nikkei 225 Index Closes 1.24% Higher — The Nikkei 225 Index rose 841 points or 1.24 percent on Wednesday to close at 68585 points. Leading the gains are Lasertec Corp (9.78%), Taiyo Yuden (7.21%) and Furukawa Electric (7.10%)."
-    },
-    {
-      "id": "te:markets:567083",
-      "time": "2026-07-15 14:29:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Sliver Falls on US-Iran Escalations — Silver fell toward $58 an ounce on Wednesday, trimming gains from the previous session as escalating tensions in the Middle East kept inflation and interest rate concerns at the forefront of investors' minds. The US launched another round of strikes against Iran while reinstating its naval blockade of Iranian ports near the Strait of Hormuz, raising fears of further disruptions to global energy supplies. Gold had surged more than 1% on Tuesday after softer-than-expected US inflation data prompted traders to scale back expectations for near-term Federal Reserve interest rate hikes. Meanwhile, Fed Chair Kevin Warsh reiterated the central bank’s commitment to restoring price stability during congressional testimony but stopped short of signaling a more hawkish policy stance. Even so, markets continue to price in roughly a 50% chance of a Fed rate hike in September.."
-    },
-    {
-      "id": "4989235",
-      "time": "2026-07-15 14:28:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【西部證券：AI景氣週期向上 看好國產算力機遇】西部證券釋出研報稱，此輪AI、儲存景氣週期共振，伴隨著國產廠商技術實力不斷提升，算力、儲存晶片的國產化替代程序有望進一步加快，國產算力、儲存的資本開支將沿著產業鏈向上傳導，進而拉動晶圓代工、半導體裝置行業的增長，看好國產算力與晶圓代工、半導體裝置的投資機遇。"
-    },
-    {
-      "id": "em:qqyh_ozyh:202607153807368118",
-      "time": "2026-07-15 14:28:22",
-      "tags": [
-        "央行",
-        "歐洲央行"
-      ],
-      "text": "歐洲央行管委Kocher稱，該央行目前未看到第二輪通脹。"
-    },
-    {
-      "id": "4989234",
-      "time": "2026-07-15 14:28:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿斯麥：中國大陸市場的增量需求主要來自邏輯晶片領域】2026年第二季度財報影片訪談中，ASML首席財務官戴厚傑預計，2026年中國大陸市場的淨銷售額佔比將為約20%，與此前預期的比重保持一致。由於2026全年總淨銷售額預期較年初有所上調，意味著中國大陸市場銷售額也將相應高於年初預期。中國大陸市場的增量需求主要來自邏輯晶片領域，以本土需求為主導。"
-    },
-    {
-      "id": "4989233",
-      "time": "2026-07-15 14:27:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【國海證券：首予捨得酒業“買入”評級，二季度業績持續出清】國海證券研報指出，捨得酒業預計2026H1實現歸母淨利潤1.35億-1.75億元，同比減少60.52%–69.55%；Q2單季度歸母淨利潤預計-0.57億至-0.97億元，去年同期0.97億元，主動控貨疊加費用剛性，二季度業績持續出清。核心單品仍待修復，大眾價位及電商渠道提供結構性增量。營銷體系革新賦能渠道，下半年關注收入兌現與費用效率。公司主動控貨穩價理順渠道庫存，大眾單品與電商形成結構性增量，疊加下半年基數走低，盈利修復的支撐邏輯進一步強化；若後續終端動銷持續回暖、價盤企穩，業績修復潛力將逐步釋放。預計公司2026-2028年營業收入分別為44/47/51億元，同比分別-1%/+7%/+10%；歸母淨利潤分別為2.5/2.9/3.6億元，同比分別+13%/+14%/+25%，首次覆蓋，給予“買入”評級。"
-    },
-    {
-      "id": "te:markets:567080",
-      "time": "2026-07-15 14:27:39",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Slips on Escalating US-Iran Conflict — Gold eased toward $4,000 an ounce on Wednesday, giving back part of the previous session’s gains as escalating tensions in the Middle East kept inflation and interest rate concerns at the forefront of investors' minds. The US launched another round of strikes against Iran while reinstating its naval blockade of Iranian ports near the Strait of Hormuz, raising fears of further disruptions to global energy supplies. Gold had surged more than 1% on Tuesday after softer-than-expected US inflation data prompted traders to scale back expectations for near-term Federal Reserve interest rate hikes. Meanwhile, Fed Chair Kevin Warsh reiterated the central bank’s commitment to restoring price stability during congressional testimony but stopped short of signaling a more hawkish policy stance. Even so, markets continue to price in roughly a 50% chance of a Fed rate hike in September."
-    },
-    {
-      "id": "4989232",
-      "time": "2026-07-15 14:27:34",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "丁二烯橡膠連續主力合約日內漲4%，現報13805.00元。"
-    },
-    {
-      "id": "4989231",
-      "time": "2026-07-15 14:27:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【漢朔科技與微軟簽署戰略合作協議】近日，漢朔科技與微軟正式簽署戰略合作協議，基於此前在雲基礎設施、物聯網、資料平臺與AI創新等方面的合作基礎，雙方將進一步推進在門店數字孿生、Azure雲合作及聯合市場推廣等領域的長期合作，共同助力零售行業的數字化、智慧化轉型升級。"
-    },
-    {
-      "id": "4989230",
-      "time": "2026-07-15 14:26:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗官員：美國新一輪空襲已造成伊朗逾260人受傷】伊朗衛生部公共關係主管侯賽因·克爾曼普爾15日在社交媒體發文說，本月7日以來美國對伊朗的空襲已造成伊朗超過260人受傷。（新華社）"
-    },
-    {
-      "id": "mkt:019f6474-3fc1-7aab-8d95-fcc9d895a72d",
-      "time": "2026-07-15 14:26:07",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran official: US air strikes have injured more than 260 people】Iran's Health Ministry public relations director Hossein Kermanpour said on social media on the 15th that US air strikes on Iran since the 7th of this month have injured more than 260 people."
-    },
-    {
-      "id": "4989229",
-      "time": "2026-07-15 14:25:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委Kocher：目前未看到第二輪通脹】歐洲央行管委會成員Martin Kocher在接受Boersen Zeitung報採訪時表示，該央行正特別關注中東衝突帶來的間接價格影響以及可能的第二輪影響；歐洲央行目前尚未看到第二輪影響，但必須根據預期調整貨幣政策，而市場預期正受到高度不確定性的影響；Kocher表示，如果必要，歐洲央行已做好準備採取措施；Kocher重申，下次利率決議將討論維持利率不變或加息的選項；每次會議都將根據現有資料做出決定；歐洲央行的溝通提供了必要的靈活性；Kocher表示，歐元區經濟與基線預測情景“相差不遠”，近幾周油價略低於預期，但中東衝突再次爆發。"
     }
   ]
 }

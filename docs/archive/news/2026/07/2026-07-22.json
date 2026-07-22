@@ -1,7 +1,27 @@
 {
   "date": "2026-07-22",
-  "count": 1380,
+  "count": 1383,
   "items": [
+    {
+      "id": "te:economy:568760",
+      "time": "2026-07-22 14:25:24",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Norway",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Norway Industrial Confidence Improves in Q2 — Norway’s industrial confidence rose to 2.6 in Q2 2026, following an upwardly revised 1.4 in the previous quarter, though it remained below its long-term average of 2.9. The improvement came as total industrial production edged higher, driven by a strong increase in output among intermediate goods manufacturers. Producers of consumer goods was unchanged, while investment goods output continued to decline as reduced oil and gas investments weighed on demand. Employment remained broadly stable for a third consecutive quarter, while total order shrank amid weaker domestic and export demand, led by a sharp decline in capital goods orders. On the price front, input costs continued to rise faster than selling prices. Looking ahead, firms expect production, employment, order intake, and order backlogs to increase in the third quarter, despite anticipating further rises in input and selling prices."
+    },
+    {
+      "id": "5001599",
+      "time": "2026-07-22 14:25:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【孫東旭：新公司美麗明天8月首播】7月21日，主播明明、天權在新公司小號開直播，直播中回應了首播時間、準備工作、招聘進展等問題。 明明稱首播時間最快可能也要一週之後，有大量的準備工作在做，包括收樣品、調裝置、樣品質檢等環節，孫東旭也在短影片中表示首播將在8月份。 此外直播中，還表示美麗明天公司已開放崗位招聘。據招聘平臺資訊顯示，目前在招崗位包括商務經理、客服主管、質檢主管，薪資範圍為12K—25K。（藍鯨新聞）"
+    },
     {
       "id": "5001598",
       "time": "2026-07-22 14:24:26",
@@ -25,6 +45,15 @@
       "time": "2026-07-22 14:23:42",
       "tags": [
         "其他"
+      ],
+      "text": "【甘肅：上半年地區生產總值同比增長4.9%】甘肅省統計局公佈2026年上半年經濟資料，根據地區生產總值統一核算結果，上半年，甘肅全省地區生產總值6959.1億元，按不變價格計算，同比增長4.9%。分產業看，第一產業增加值450.2億元，同比增長5.9%；第二產業增加值2500.9億元，增長5.3%；第三產業增加值4008.0億元，增長4.6%。"
+    },
+    {
+      "id": "em:jjsj_zgsj:202607223817182189",
+      "time": "2026-07-22 14:23:23",
+      "tags": [
+        "經濟數據",
+        "中國"
       ],
       "text": "【甘肅：上半年地區生產總值同比增長4.9%】甘肅省統計局公佈2026年上半年經濟資料，根據地區生產總值統一核算結果，上半年，甘肅全省地區生產總值6959.1億元，按不變價格計算，同比增長4.9%。分產業看，第一產業增加值450.2億元，同比增長5.9%；第二產業增加值2500.9億元，增長5.3%；第三產業增加值4008.0億元，增長4.6%。"
     },
