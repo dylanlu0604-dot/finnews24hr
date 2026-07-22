@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-23 05:55:39",
-  "count": 17712,
+  "updated": "2026-07-23 05:59:32",
+  "count": 17714,
   "items": [
+    {
+      "id": "5003102",
+      "time": "2026-07-23 05:58:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "科威特軍方：防空系統當前正在攔截具有威脅的伊朗敵方無人機。"
+    },
+    {
+      "id": "mkt:019f8bd5-ed2e-7aab-8e53-729fcfe89bae",
+      "time": "2026-07-23 05:58:00",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Kuwait's military said its air-defence systems are currently intercepting \"hostile\" Iranian drone threats."
+    },
+    {
+      "id": "mkt:019f8bd4-a622-7aab-8e53-6b007fdf472b",
+      "time": "2026-07-23 05:56:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) CFO says negative free cash flow will widen in H2 2026."
+    },
+    {
+      "id": "5003101",
+      "time": "2026-07-23 05:55:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CFO： 2026 年下半年公司自由現金流缺口將進一步擴大。"
+    },
     {
       "id": "mkt:019f8bd3-4f6d-7aab-8e53-659e92d4b17e",
       "time": "2026-07-23 05:55:09",
@@ -161871,22 +161912,6 @@
         "國際"
       ],
       "text": "美國總統特朗普返回白宮。"
-    },
-    {
-      "id": "4990797",
-      "time": "2026-07-16 05:58:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺7月16日06時繼續釋出高溫黃色預警。"
-    },
-    {
-      "id": "4990796",
-      "time": "2026-07-16 05:58:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "中央氣象臺7月16日06時繼續釋出暴雨黃色預警。"
     }
   ]
 }
