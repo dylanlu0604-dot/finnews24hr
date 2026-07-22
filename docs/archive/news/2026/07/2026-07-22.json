@@ -1,7 +1,53 @@
 {
   "date": "2026-07-22",
-  "count": 3131,
+  "count": 3136,
   "items": [
+    {
+      "id": "te:markets:568931",
+      "time": "2026-07-22 23:52:55",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Rises to Over 3-Month High — The FTSE 100 climbed more than 1% to above 10,700 on Wednesday, reaching its highest level since March 2, as broad-based gains across banks, healthcare, energy and mining stocks lifted the index. HSBC advanced more than 2%, while Lloyds Banking and Barclays gained over 1.5% and 1%, respectively. Healthcare stocks also strengthened, with AstraZeneca rising 1.7% and GSK adding 0.8%. Oil majors Shell and BP gained 1.4% and 2.1% as crude prices extended their rally amid ongoing tensions between the US and Iran. Mining shares outperformed, with Endeavour Mining surging 5%, Fresnillo climbing 3.5% and Antofagasta adding 2.6%. Investors also assessed softer-than-expected UK inflation data, which showed consumer prices rose 2.6% in June as lower petrol, food and clothing prices eased inflationary pressures. In the FTSE 250, EasyJet tumbled more than 11% after reports that the European Union could review airline ownership rules, potentially complicating the company's takeover."
+    },
+    {
+      "id": "5002827",
+      "time": "2026-07-22 23:52:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美威脅打擊伊朗地下核設施 伊朗批美為侵略找藉口】美國總統特朗普22日說，伊朗每次在霍爾木茲海峽向船隻開火，美國就將轟炸並摧毀伊朗一座橋樑或發電廠，包括德黑蘭市內及周邊此類設施。此前一天，他還宣稱美國“可能很快”打擊伊朗鎬山地下核設施。伊朗外交部發言人巴加埃否認鎬山存在任何核活動，稱美方“執迷”於鎬山話題只是為侵略伊朗編造藉口。（新華社）"
+    },
+    {
+      "id": "5002826",
+      "time": "2026-07-22 23:51:33",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：在經歷了11個夜晚的轟炸後，這種轟炸的規模是該政權前所未見的，他們（伊朗）突然開始乞求和平。太晚了。"
+    },
+    {
+      "id": "5002825",
+      "time": "2026-07-22 23:49:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4170美元/盎司，日內漲2.30%。"
+    },
+    {
+      "id": "5002824",
+      "time": "2026-07-22 23:49:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗打擊美軍駐約旦空軍基地影片伊朗伊斯蘭革命衛隊】伊朗伊斯蘭革命衛隊今天（7月22日）釋出宣告稱，其航空航天部隊為回應美軍襲擊，再次猛烈打擊了約旦境內的美軍基地。宣告表示，在第一輪導彈和無人機打擊中，革命衛隊襲擊了費薩爾國王空軍基地和哈桑王子空軍基地。一座用於F-15戰鬥機整備的機庫被擊中。同時，一座無人機整備機庫也遭到攻擊。8架尚未拆封、準備交付使用的MQ-9無人機被完全摧毀。另外2架已停放在停機坪的MQ-9無人機也遭到嚴重損壞。伊朗隨後對直升機機庫的襲擊又導致2架美軍重型直升機遭受重大損毀，對一處駐紮美軍人員的營房發動打擊造成多名美軍人員死傷。美東時間7月21日晚，美軍連續第11晚對伊朗境內多地發動軍事打擊。伊朗衛生部官員表示，自今年6月27日至7月22日，美國對伊朗的空襲已造成53人死亡、592人受傷。(CCTV國際時訊)"
+    },
     {
       "id": "mkt:019f8a83-ce13-7aab-8e4d-40e60182032c",
       "time": "2026-07-22 23:48:41",
