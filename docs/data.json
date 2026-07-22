@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-23 00:19:51",
-  "count": 17672,
+  "updated": "2026-07-23 00:24:01",
+  "count": 17675,
   "items": [
+    {
+      "id": "5002850",
+      "time": "2026-07-23 00:22:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "官方資料顯示，俄羅斯6月石油製品與焦炭產量同比下降21.7%。"
+    },
+    {
+      "id": "5002849",
+      "time": "2026-07-23 00:22:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國財政大臣希利表示，首要任務是嚴守財政紀律。"
+    },
+    {
+      "id": "mkt:019f8aa2-6d9a-7aab-8e4d-aec2be1ca573",
+      "time": "2026-07-23 00:22:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukrainian President Zelenskiy discussed the possibility of resuming negotiations with Russia with US Middle East envoy Witkoff and Jared Kushner."
+    },
+    {
+      "id": "mkt:019f8aa2-199d-7aab-8e4d-a10897c8c62a",
+      "time": "2026-07-23 00:21:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Washington Post: Trump administration weighing military action in Mali】The Washington Post, citing current and former U.S. officials, reports the Trump administration is considering military action in Mali to target JNIM (Group for Support of Islam and Muslims), an al-Qaeda-linked group. If approved, Mali would be the eighth country in which Trump has ordered airstrikes in his second term. Senior U.S. officials are divided on striking the group; National Security Council counterterrorism director Sebastian Gorka is a prominent advocate for using force. A White House official declined to say whether the president intends to order strikes, and said the U.S. has been urging North and West African governments to purchase U.S. equipment and services to support counterterrorism operations."
+    },
+    {
+      "id": "5002848",
+      "time": "2026-07-23 00:21:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：烏美簽署無人機協議首批檔案，烏無人機將赴美測試。"
+    },
+    {
+      "id": "te:economy:568942",
+      "time": "2026-07-23 00:19:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Russia",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Russia Industrial Production Rebounds in June — Industrial production in Russia rose 0.6% year-on-year in June 2026, rebounding from a revised 0.7% decline in May and exceeding market expectations of a 0.1% increase. Manufacturing was the main driver, with output growth accelerating to 2.6% from 0.5%. Elsewhere, contractions eased in mining, to a 2.4% drop following a 2.7% decline, electricity, gas, steam and air conditioning supply (-1.4% vs. -2.2%), and water supply, sewerage, waste management and remediation activities (-1.2% vs. -3.4%). On a seasonally adjusted monthly basis, industrial production edged up 0.1%, following a 0.8% decline in May. In the first half of 2026, industrial output increased 0.4% compared with the same period a year earlier."
+    },
+    {
+      "id": "mkt:019f8aa0-266e-7aab-8e4d-9c0d91b43220",
+      "time": "2026-07-23 00:19:39",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Tasnim News Agency reported explosions heard in Erbil, Iraq."
+    },
+    {
+      "id": "5002847",
+      "time": "2026-07-23 00:19:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "希臘最高國家安全委員會準備批准價值34.2億美元的以色列防空裝備採購，將搭建多層防空網路“阿喀琉斯之盾”。"
+    },
     {
       "id": "mkt:019f8a9e-c370-7aab-8e4d-95a873de3514",
       "time": "2026-07-23 00:18:08",
@@ -161321,58 +161389,6 @@
         "國際"
       ],
       "text": "【英債收益率普遍漲約4個基點，報道稱馬哈茂德有望出任英國財相】週三（7月15日）歐市尾盤，英國10年期國債收益率跌4.0個基點，報4.937%，北京時間20:30釋出美國PPI批發通脹資料之前大致持穩於4.990%附近，之後持續下挫。兩年期英債收益率跌3.4個基點，報4.315%，23:30英國金融時報稱，首相伯納姆將任命Shabana Mahmood為財政大臣，收益率之後延續跌勢。30年期英債收益率跌4.0個基點，50年期英債收益率跌3.8個基點。2/10年期英債收益率利差跌0.458個基點，報+62.172個基點。"
-    },
-    {
-      "id": "mkt:019f6696-e03c-7aab-8dac-2fc5a562b987",
-      "time": "2026-07-16 00:23:11",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Israeli warplanes struck the area between the southern Lebanese towns of Barashit and Beit Yahoun, market sources said."
-    },
-    {
-      "id": "4990501",
-      "time": "2026-07-16 00:23:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "法爾斯通訊社訊息：多名伊拉克訊息人士稱，伊拉克埃爾比勒發生多起爆炸。"
-    },
-    {
-      "id": "te:markets:567297",
-      "time": "2026-07-16 00:22:24",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Closes Lower — The FTSE MIB fell 0.9% to close at 52,411 on Wednesday amid losses for financial companies, utilities, and the AI stocks. Banks and insurers closed lower as strikes between the US and Iran sustained inflationary threats and lifted Italian bond yields, denting the outlook on credit and their balance sheets. The consequent increase in natural gas prices lowered margins for utility providers, driving Enel, Italgas, and Terna to drop over 1%. Semiconductor stocks were the index's weakest performers, with STMicroelectronics dropping around 4%, despite ASML reporting better-than-expected second-quarter as memory producers in the US plunged. Prysmian also declined 2.6%. On the other hand, Moncler and Ferrari gained following strong results from Richemont."
-    },
-    {
-      "id": "4990500",
-      "time": "2026-07-16 00:21:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列戰機對黎巴嫩南部巴拉希特鎮與拜特亞洪鎮之間區域實施空襲。"
-    },
-    {
-      "id": "mkt:019f6694-4d1c-7aab-8dac-207740a2cfa3",
-      "time": "2026-07-16 00:20:22",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Iran's Fars News, citing Iraqi sources, reports several explosions in Erbil, Iraq."
     }
   ]
 }
