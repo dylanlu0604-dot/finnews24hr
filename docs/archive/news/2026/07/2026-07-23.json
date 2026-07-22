@@ -1,7 +1,62 @@
 {
   "date": "2026-07-23",
-  "count": 307,
+  "count": 313,
   "items": [
+    {
+      "id": "5003008",
+      "time": "2026-07-23 03:59:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：即便你們當下花銷略有上漲，但諸多物價已然大幅回落。"
+    },
+    {
+      "id": "mkt:019f8b68-2706-7aab-8e51-2dcfb89fd413",
+      "time": "2026-07-23 03:58:06",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Global oil prices rose on the 22nd】NYMEX light sweet crude futures for September delivery rose $2.49 to settle at $86.83/bbl at the close, up 2.95% on the day. ICE Brent futures for September delivery rose $3.06 to settle at $94.07/bbl at the close, up 3.36%."
+    },
+    {
+      "id": "5003007",
+      "time": "2026-07-23 03:57:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價22日上漲 】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲2.49美元，收於每桶86.83美元，漲幅為2.95%；9月交貨的倫敦布倫特原油期貨價格上漲3.06美元，收於每桶94.07美元，漲幅為3.36%。"
+    },
+    {
+      "id": "5003006",
+      "time": "2026-07-23 03:56:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "特朗普：油價將會大幅下跌。"
+    },
+    {
+      "id": "5003005",
+      "time": "2026-07-23 03:56:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談及對伊衝突： 我只將其稱作小規模交火。我們與伊朗之間只是一場小規模衝突。"
+    },
+    {
+      "id": "5003004",
+      "time": "2026-07-23 03:55:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使： 已與澤連斯基商討愛國者防空攔截彈相關事宜。"
+    },
     {
       "id": "5003003",
       "time": "2026-07-23 03:55:14",
