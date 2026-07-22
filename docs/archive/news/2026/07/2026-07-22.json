@@ -1,7 +1,249 @@
 {
   "date": "2026-07-22",
-  "count": 731,
+  "count": 757,
   "items": [
+    {
+      "id": "5001178",
+      "time": "2026-07-22 09:33:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "滔搏國際在香港股價暴跌23%。"
+    },
+    {
+      "id": "5001177",
+      "time": "2026-07-22 09:33:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內漲2%，現報1312.45美元/盎司。"
+    },
+    {
+      "id": "mkt:019f8774-63cf-7aab-8e36-b5d58aa8e807",
+      "time": "2026-07-22 09:32:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Where to park spare cash? Money-market yield snapshot】Tencent Licaitong (current+7-day) 7-day annualized yield ranged 0.7590%–1.4700%. WeChat Lingqiantong 7-day annualized yield ranged 0.9210%–1.0540%. Alipay Yu’e Bao 7-day annualized yield ranged 0.9780%–1.0660%."
+    },
+    {
+      "id": "5001176",
+      "time": "2026-07-22 09:32:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科創板迎來開市七週年】今天，科創板迎來開市七週年。七年時間，科創板已經成長為擁有600多家上市公司、總市值超13萬億元的重要板塊，多元門檻包容性不斷增強，各類科技企業藉助資本力量快速成長。連續七年保持近13%的研發投入強度，截至2025年末，板塊累計研發投入近9000億元，累計發明專利突破15萬項。從2019年鳴鑼開市至今，這塊專為硬科技打造的資本市場試驗田用一套分層、分階段的完整培育制度，破解了高階製造、半導體、創新藥等長線科技企業融資難、上市難的老難題，實實在在為國內硬科技產業打通了從實驗室初創到行業龍頭的完整成長道路。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8773-fc3a-7aab-8e36-a8bcc79142ca",
+      "time": "2026-07-22 09:32:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Caitong Fuxin Fixed‑Open Mixed Fund will have trading suspended from market open on 22 July 2026 until 10:30 on the same day."
+    },
+    {
+      "id": "5001175",
+      "time": "2026-07-22 09:32:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "財通福鑫定開混合：本基金將於2026年7月22日開盤起至當日10:30停牌。"
+    },
+    {
+      "id": "5001174",
+      "time": "2026-07-22 09:32:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鉑連續主力合約日內漲4%，現報415.55元。"
+    },
+    {
+      "id": "te:economy:568670",
+      "time": "2026-07-22 09:32:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Leading Economic Index",
+        "Importance 1"
+      ],
+      "text": "Australia Leading Index Stable in June — The Westpac-Melbourne Institute Leading Economic Index was flat in June 2026, following a revised 0.1% fall in May. Meanwhile, the six-month annualised growth rate fell to -0.36% from -0.25% in May, marking the sixth consecutive below-trend reading and the weakest pace since late 2023. The latest decline points to slowing economic momentum, reflecting the lagged impact of the RBA’s rate hikes in February, March, and May, along with earlier fuel price shocks linked to geopolitical tensions. A narrowing yield spread was the largest contributor to the deterioration, while weaker dwelling approvals, consumer expectations, and hours worked also weighed on the index. Although the index stabilised as fuel prices eased and the RBA paused in June, renewed inflation risks and Middle East tensions could weigh on growth. The RBA will focus on the June quarter CPI report ahead of its August meeting."
+    },
+    {
+      "id": "5001173",
+      "time": "2026-07-22 09:32:09",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【摩根士丹利：預計寧德時代將發強勁季報 近期股價上漲受資金輪動推動】摩根士丹利週二釋出的報告稱，寧德時代週五將釋出二季度業績，有望超過公司指引以及該行的預估（分別為淨利潤220億元與230億元人民幣），對未來業績的指引也將強勁。近期接觸的許多投資者表示，希望從交易過於擁擠的AI板塊適度分散配置，轉向基本面紮實、此前表現相對落後的優質公司。寧德時代明年增長前景預計依然強勁。柴油車電動化、儲能超級週期的多重驅動力，以及鈉離子電池產品週期啟動，都將繼續支撐公司增長。維持對寧德時代“增持”評級。"
+    },
+    {
+      "id": "mkt:019f8773-43be-7aab-8e36-a2f432ab022e",
+      "time": "2026-07-22 09:31:45",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "China EV Leaders",
+        "IFX.DE",
+        "Impact bullish"
+      ],
+      "text": "【Infineon to deepen Wuxi cooperation on chips, AI, EVs】July 21 — Wuxi Party Secretary Du Xiaogang met with a delegation from German Infineon and Sun Capital to deepen practical cooperation. Parties said they will deepen work in integrated circuits and strengthen local industry- and supply-chain coordination to attract more ecosystem firms to Wuxi. They also flagged targeted collaboration in AI (including embodied intelligence), commercial aerospace, new-energy vehicles and two-wheelers, committing to joint R&D, platform co-development and channel sharing."
+    },
+    {
+      "id": "5001172",
+      "time": "2026-07-22 09:31:42",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【貴金屬板塊盤初走高】貴金屬板塊盤初走高，山金國際、興業銀錫漲超6%，中金黃金、赤峰黃金、紫金礦業跟漲。"
+    },
+    {
+      "id": "mkt:019f8773-1dd7-7aab-8e36-9f148cb985d2",
+      "time": "2026-07-22 09:31:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "A-share oil and petrochemicals sector opened higher; Keli Co. rose more than 8%, with Tongyuan Petroleum, Zhongman Petroleum, Qianneng Hengxin, CNOOC and Taishan Petroleum also gaining. The Islamic Revolutionary Guard Corps (IRGC) said punitive actions against aggressors continue; earlier the US conducted strikes on Iran for an 11th consecutive night."
+    },
+    {
+      "id": "mkt:019f8772-df92-7aab-8e36-91fdc93e63fc",
+      "time": "2026-07-22 09:31:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China bond futures open】China bond futures opened this morning: 2-year bond futures (TS) most-active contract unchanged; 5-year bond futures (TF) most-active contract unchanged; 10-year bond futures (T) most-active contract unchanged; 30-year bond futures (TL) most-active contract down 0.02%."
+    },
+    {
+      "id": "mkt:019f8772-c6b5-7aab-8e36-8cb7d2ee1d41",
+      "time": "2026-07-22 09:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【China stock-index futures open modestly higher】China stock-index futures opened modestly higher in morning trade: CSI 300 (IF) main contract +0.13%, SSE 50 (IH) main +0.13%, CSI 500 (IC) main +0.24%, CSI 1000 (IM) main +0.08%."
+    },
+    {
+      "id": "mkt:019f8772-6f58-7aab-8e36-8422178d6062",
+      "time": "2026-07-22 09:30:51",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bearish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "【China public procurement totals 44 trillion yuan in 2025】The China Federation of Logistics & Purchasing (CFLP) released its China Public Procurement Development Report (2025) on the 22nd, showing national public procurement of 44 trillion yuan in 2025, down 2.22% YoY. The report states the public procurement market experienced a modest overall contraction while its structure continued to improve."
+    },
+    {
+      "id": "5001171",
+      "time": "2026-07-22 09:30:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【德國英飛凌到無錫深化對接合作】據“無錫釋出”，7月21日，無錫市委書記杜小剛與來錫深化對接合作的德國英飛凌科技監事會主席、太陽資本創始人賀伯特・迪斯一行會談，雙方就進一步加強務實合作進行深入交流。雙方將繼續深耕積體電路等傳統合作領域，進一步加強本地產業鏈、供應鏈協同，牽引帶動更多生態圈企業在錫集聚。同時，牢牢把握人工智慧發展的重大機遇，加強具身智慧、商業航天、新能源汽車和兩輪車等新興領域合作，深入開展技術共研、平臺共建、渠道共享。"
+    },
+    {
+      "id": "5001170",
+      "time": "2026-07-22 09:30:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年全國公共採購總額44萬億元】中國物流與採購聯合會今天（22日）釋出《中國公共採購發展報告（2025）》。根據報告，2025年公共採購總額為44萬億元，同比下降2.22%。2025年，公共採購市場總體呈現總量小幅收縮、結構持續最佳化的態勢。"
+    },
+    {
+      "id": "5001169",
+      "time": "2026-07-22 09:30:30",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超2%，現報4718.270點；恒生指數現跌1.143%。"
+    },
+    {
+      "id": "5001168",
+      "time": "2026-07-22 09:30:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國石油上半年乙烯產量創歷史新高】據中國石油訊息，今年上半年，中國石油乙烯產量同比增長21%，創歷史新高，為穩定國內化工市場供給、保障化工產業鏈供應鏈安全築牢堅實基礎。"
+    },
+    {
+      "id": "5001167",
+      "time": "2026-07-22 09:30:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數跌超1%，現報24877.590點；恒生科技指數現跌1.770%。"
+    },
+    {
+      "id": "5001166",
+      "time": "2026-07-22 09:30:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "中證轉債指數開盤下跌0.25%。正帆轉債、路維轉債、春23轉債、銀輪轉債、泰坦轉債跌幅居前，分別跌3.91%、3.28%、2.78%、2.74%、2.62%。鼎通轉債、金楊轉債、三江轉債、金誠轉債、火星轉債漲幅居前，分別漲7.92%、2.74%、2.25%、1.69%、1.63%。"
+    },
+    {
+      "id": "mkt:019f8771-c3fd-7aab-8e36-7b441c486245",
+      "time": "2026-07-22 09:30:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CNPC 1H ethylene production up 21% YoY, hits record high】CNPC said ethylene production rose 21% YoY in 1H to a record high, strengthening domestic chemical market supply and underpinning petrochemical industry supply‑chain security."
+    },
+    {
+      "id": "5001165",
+      "time": "2026-07-22 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.49%，成分股中，阿特斯跌3.69%，華海清科跌3.13%，中微公司跌3.08%，國博電子跌3.05%。"
+    },
+    {
+      "id": "5001164",
+      "time": "2026-07-22 09:30:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超1%，現報4763.870點；恒生指數現跌0.610%。"
+    },
+    {
+      "id": "5001163",
+      "time": "2026-07-22 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.01%， 10年期主力合約跌0.02%， 5年期主力合約基本持平， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "5001162",
+      "time": "2026-07-22 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.09%， 滬深300指數期貨連續跌0.23%， 中證500指數期貨連續基本持平， 上證50指數期貨連續跌0.67%。"
+    },
     {
       "id": "5001161",
       "time": "2026-07-22 09:29:27",
