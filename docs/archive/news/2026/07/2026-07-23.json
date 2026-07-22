@@ -1,7 +1,26 @@
 {
   "date": "2026-07-23",
-  "count": 532,
+  "count": 534,
   "items": [
+    {
+      "id": "5003138",
+      "time": "2026-07-23 06:30:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【分析師：電話會進一步證實，特斯拉仍處於“建設模式”，可能會繼續如此】Karobaar Capital首席投資官Haris Khurshid表示，此次電話會議進一步證實，特斯拉仍處於“建設模式（build mode）”，且這種狀態可能會持續下去。“部分投資者原本指望其投資週期已接近見頂，但管理層釋放的訊號卻是：最沉重的資本支出仍是其核心戰略，且回報週期將長達數年。“馬斯克在電話會上幾乎沒有為當季業績辯護，而是將幾乎所有時間都用於解釋其資本配置邏輯。他實際上是在要求投資者：將今天的支出視為未來業務的基石，而不是對當前盈利的拖累。”“這次電話會後的核心爭論，不再是特斯拉本季度是否花錢太多，而是投資者是否相信這種基礎設施建設是‘超前於需求’，還是‘超前於現實’。這最終將決定這一輪資本支出週期究竟能創造巨大的價值，還是僅僅淪為一場昂貴的彎路。”"
+    },
+    {
+      "id": "te:markets:568964",
+      "time": "2026-07-23 06:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 5.18% — Top commodity gainers are Natural Gas EU (5.18%), Brent Crude Oil (5.14%), Germany Natural Gas THE (4.69%) and Crude Oil WTI (4.58%). Biggest losers are Coking Coal (-1.78%), Methanol (-1.23%) and Propane (-0.87%)."
+    },
     {
       "id": "5003137",
       "time": "2026-07-23 06:26:15",
