@@ -1,7 +1,71 @@
 {
   "date": "2026-07-22",
-  "count": 612,
+  "count": 620,
   "items": [
+    {
+      "id": "mkt:019f8746-522a-7aab-8e35-3f2364e1dcaf",
+      "time": "2026-07-22 08:42:40",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Japan's Nikkei 225 rose as much as 2.00% intraday."
+    },
+    {
+      "id": "mkt:019f8746-4d1c-7aab-8e35-331ac3615c6e",
+      "time": "2026-07-22 08:42:39",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【MPOC sees Aug 2026 crude palm oil at 4,400–4,650 ringgit/tonne】MPOC expects August 2026 crude palm oil (CPO) prices to trade between 4,400 and 4,650 ringgit/tonne, supported by Indonesia’s B50 biodiesel mandate from July, firmer energy markets and improved biodiesel economics; weak demand and elevated vegetable oil inventories in major consumer markets could cap upside."
+    },
+    {
+      "id": "5001093",
+      "time": "2026-07-22 08:42:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【日經225指數漲幅擴大至2%】日經225指數漲幅擴大至2%，現報67547.03點。"
+    },
+    {
+      "id": "mkt:019f8744-aa89-7aab-8e35-2d03ab2f7d32",
+      "time": "2026-07-22 08:40:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【CENTCOM says US forces completed 11th consecutive night of strikes on Iran】CENTCOM said US forces completed the 11th consecutive night of strikes against Iran at 8:15 p.m. ET on July 21. Targets included Iranian military operations centers, maritime combat-capability facilities, aircraft hangars, drone storage sites and military logistics infrastructure, aimed at further degrading Iran's ability to threaten commercial shipping in the Strait of Hormuz. Since early May CENTCOM has assisted about 900 commercial vessels and the transit of roughly 450 mln barrels of crude through the strait."
+    },
+    {
+      "id": "5001092",
+      "time": "2026-07-22 08:39:46",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油委員會：價格進一步上漲可能受限，因需求趨軟且主要消費市場植物油庫存高企。"
+    },
+    {
+      "id": "5001091",
+      "time": "2026-07-22 08:39:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油委員會：毛棕櫚油價格8月預計在每噸4,400至4,650林吉特之間交投。"
+    },
+    {
+      "id": "5001090",
+      "time": "2026-07-22 08:39:05",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "馬來西亞棕櫚油理事會：自7月起印尼實施B50生物柴油政策、能源市場走強以及生物柴油經濟性改善將對棕櫚油價格形成支撐。"
+    },
     {
       "id": "te:markets:568651",
       "time": "2026-07-22 08:38:37",
@@ -13,6 +77,14 @@
         "Importance 2"
       ],
       "text": "Yen Sinks to Fresh 40-Year Low — The Japanese yen weakened beyond 163 per dollar on Wednesday, sinking to its lowest level since October 1986 and keeping markets on high alert for possible government intervention to support the currency. The move came as escalating tensions in the Middle East drove oil prices higher, pressuring Japan’s economy which relies heavily on oil imports from the region. A stronger US dollar and rising Treasury yields also weighed on the yen, as the wide interest rate gap continued to encourage carry trades. Additionally, mounting fiscal concerns in Japan after the government unveiled massive spending plans, coupled with the Bank of Japan’s cautious approach to policy normalization, added further downward pressure on the currency. On the economic front, Japan’s trade balance returned to a deficit in June as import growth outpaced exports."
+    },
+    {
+      "id": "5001089",
+      "time": "2026-07-22 08:38:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國：完成對伊朗的第11晚打擊 霍爾木茲海峽仍對商船開放通行】美國中央司令部通報：21日美國東部時間晚8時，美軍連續第11晚完成對伊朗的打擊行動。美軍中央司令部作戰力量打擊目標包括伊朗軍事指揮中心、海上作戰設施、飛機機庫、無人機存放場地以及軍事後勤基礎設施，以此進一步削弱伊朗威脅霍爾木茲海峽商業航運的能力。過去三個月，伊朗襲擊了30餘艘途經這條對區域及全球貿易至關重要國際航道的商船。此類無端襲擊危及數百名無辜船員安全，破壞航行自由。儘管伊朗採取挑釁行動，霍爾木茲海峽依舊保持通航。自5月初以來，美軍中央司令部部隊已協助約 900艘商船和4.5億桶原油順利透過該海峽。"
     },
     {
       "id": "mkt:019f8741-e899-7aab-8e35-2625ea63f027",
