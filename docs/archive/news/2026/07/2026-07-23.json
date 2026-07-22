@@ -1,7 +1,107 @@
 {
   "date": "2026-07-23",
-  "count": 296,
+  "count": 307,
   "items": [
+    {
+      "id": "5003003",
+      "time": "2026-07-23 03:55:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：通脹率大幅下降。"
+    },
+    {
+      "id": "mkt:019f8b65-6ce7-7aab-8e51-26781ba4a415",
+      "time": "2026-07-23 03:55:07",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Trump said Iran is being hit hard, wants to reach a deal, and will be ready soon."
+    },
+    {
+      "id": "5003002",
+      "time": "2026-07-23 03:54:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國駐北約大使稱今天在基輔會見了澤連斯基。"
+    },
+    {
+      "id": "5003001",
+      "time": "2026-07-23 03:54:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：股市持續創下新高。"
+    },
+    {
+      "id": "5003000",
+      "time": "2026-07-23 03:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗很快就會做好準備，但尚未準備好達成協議。"
+    },
+    {
+      "id": "mkt:019f8b64-9155-7aab-8e51-1e950e6295cd",
+      "time": "2026-07-23 03:54:11",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "US President Trump said the US is winning on Iran."
+    },
+    {
+      "id": "5002999",
+      "time": "2026-07-23 03:53:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗沒準備好達成協議。"
+    },
+    {
+      "id": "mkt:019f8b64-339d-7aab-8e51-10ebc155d448",
+      "time": "2026-07-23 03:53:47",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index slips on 22nd】The dollar index, which measures the U.S. dollar against six major currencies, fell 0.05% to 101.125 at the New York close on the 22nd. At the close, EUR/USD was 1.1411 (prev. 1.1403); GBP/USD 1.3373 (prev. 1.3381); USD/JPY 163.13 (prev. 163.18); USD/CHF 0.8146 (prev. 0.8129); USD/CAD 1.4085 (prev. 1.4107); USD/SEK 9.7014 (prev. 9.7035)."
+    },
+    {
+      "id": "5002998",
+      "time": "2026-07-23 03:53:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗遭受沉重打擊，他們現在希望達成協議。"
+    },
+    {
+      "id": "5002997",
+      "time": "2026-07-23 03:53:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數22日下跌】衡量美元對六種主要貨幣的美元指數當天下跌0.05%，在匯市尾市收於101.125。截至紐約匯市尾市，1歐元兌換1.1411美元，高於前一交易日的1.1403美元；1英鎊兌換1.3373美元，低於前一交易日的1.3381美元。1美元兌換163.13日元，低於前一交易日的163.18日元；1美元兌換0.8146瑞士法郎，高於前一交易日的0.8129瑞士法郎；1美元兌換1.4085加元，低於前一交易日的1.4107加元；1美元兌換9.7014瑞典克朗，低於前一交易日的9.7035瑞典克朗。"
+    },
+    {
+      "id": "5002996",
+      "time": "2026-07-23 03:52:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普大力宣傳雅馬哈發動機的投資專案。"
+    },
     {
       "id": "5002995",
       "time": "2026-07-23 03:50:51",
