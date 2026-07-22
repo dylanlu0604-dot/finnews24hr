@@ -1,7 +1,88 @@
 {
-  "updated": "2026-07-22 14:29:50",
-  "count": 17989,
+  "updated": "2026-07-22 14:33:51",
+  "count": 17987,
   "items": [
+    {
+      "id": "mkt:019f8885-9cbb-7aab-8e3d-1d3db8d86b81",
+      "time": "2026-07-22 14:31:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK"
+      ],
+      "text": "【MOFCOM spokesperson on EU €550 million fine of AliExpress】On July 20 the European Commission fined AliExpress €550 million under the EU Digital Services Act. MOFCOM said China is strongly dissatisfied and seriously concerned, accusing the EU of using platform regulation to erect digital barriers and impose discriminatory measures that restrict Chinese e‑commerce firms' operations in Europe. MOFCOM urged the EU to stop exploiting ambiguous legal language and abusing discretionary power, to treat Chinese companies fairly and impartially. China said it will support Chinese firms in pursuing legal remedies and will take forceful measures to defend their interests."
+    },
+    {
+      "id": "5001607",
+      "time": "2026-07-22 14:31:15",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "【商務部新聞發言人就歐委會對全球速賣通罰款答記者問】問：7月20日，歐委會宣佈根據歐盟《數字服務法》，對全球速賣通處以5.5億歐元罰款。請問中方對此有何評論？\n\n答：中方注意到有關情況，對此表示強烈不滿和嚴正關切。中方堅決反對歐方以平臺監管為由設定數字壁壘，並採取歧視性措施，限制打壓中國電商企業在歐正常經營。中方敦促歐方停止利用法律條文的模糊性濫用自由裁量權，公平、公正對待中國企業。中方將堅定支援中國企業運用法律武器維權，並將採取有力措施堅定維護企業利益。（商務部）"
+    },
+    {
+      "id": "5001606",
+      "time": "2026-07-22 14:31:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市收盤漲跌互現】日經225指數收跌0.18%，報66115.60點。韓國綜指收漲0.74%，報6797.70點。"
+    },
+    {
+      "id": "5001605",
+      "time": "2026-07-22 14:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯遠端戰略轟炸機巡航日本海】俄羅斯國防部21日通報：俄羅斯圖-95MS遠端戰略轟炸機在日本海中立水域上空完成了例行巡航。通報稱，俄遠端航空兵定期在北極地區、北大西洋、太平洋、波羅的海的中立水域上空執行巡航任務。所有飛行嚴格遵守國際空域使用規則。 （央視軍事）"
+    },
+    {
+      "id": "5001604",
+      "time": "2026-07-22 14:30:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恆譽環保與某能源客戶簽署生產線裝置銷售合同】據恆譽環保訊息，近日，恆譽環保與全球能源巨頭正式簽署“工業連續化廢塑膠熱裂解生產線”銷售合同，標誌著公司首次進入該客戶的生產線供應鏈，也意味著公司與該客戶長期合作正式啟動。"
+    },
+    {
+      "id": "5001603",
+      "time": "2026-07-22 14:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月22日：“農產品批發價格200指數”比昨天上升0.14個點】據農業農村部監測，7月22日“農產品批發價格200指數”為113.14，比昨天上升0.14個點，“菜籃子”產品批發價格指數為113.21，比昨天上升0.17個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.94元/公斤，比昨天下降0.2%；牛肉66.47元/公斤，比昨天下降0.4%；羊肉64.49元/公斤，比昨天下降0.3%；雞蛋10.14元/公斤，比昨天上升0.9%；白條雞17.08元/公斤，比昨天上升0.8%。重點監測的28種蔬菜平均價格為4.31元/公斤，比昨天上升0.7%；重點監測的6種水果平均價格為7.03元/公斤，比昨天上升1.3%。鯽魚20.57元/公斤，比昨天上升1.3%；鯉魚14.42元/公斤，比昨天上升0.3%；白鰱魚10.38元/公斤，比昨天上升4.6%；大帶魚40.39元/公斤，比昨天下降1.7%。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是黃瓜、白鰱魚、巨峰葡萄、南瓜和豆角，幅度分別為5.1%、4.6%、4.4%、3.8%和3.0%；價格降幅前五名的是大黃花魚、西瓜、富士蘋果、大蔥和菜花，幅度分別為3.6%、2.1%、2.0%、1.9%和1.7%。"
+    },
+    {
+      "id": "te:markets:568764",
+      "time": "2026-07-22 14:30:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Nikkei 225 Index Closes 0.06% Lower — The Nikkei 225 Index fell 40 points or 0.06 percent on Wednesday to close at 66192 points. Leading the losses are J Front Retailing (-5.51%), Shiseido (-5.33%) and Takashimaya (-4.51%). Top gainers were Mitsui Kinzoku (7.73%), Taiyo Yuden (7.41%) and Resonac Holdings (5.37%)."
+    },
+    {
+      "id": "5001601",
+      "time": "2026-07-22 14:29:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗襲擊駐約旦和巴林美軍基地】伊朗軍隊今天（7月22日）釋出宣告稱，自今天凌晨起展開新一輪無人機襲擊，對美軍在約旦阿茲拉克空軍基地內的人員住宿和生活保障設施以及裝備倉庫發動襲擊。此外，伊朗軍隊出動“阿拉什”自殺式無人機，對在巴林的謝赫艾薩美軍基地內的大型裝備庫房以及重型飛機維修機庫發動襲擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "5001600",
+      "time": "2026-07-22 14:29:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "中國30年期公債期貨創6月25日以來最大漲幅。"
+    },
     {
       "id": "te:economy:568760",
       "time": "2026-07-22 14:25:24",
@@ -165056,115 +165137,6 @@
         "公司"
       ],
       "text": "【中網投入股立芯軟體】天眼查App顯示，近日，上海立芯軟體科技有限公司發生工商變更，註冊資本由約2541萬人民幣增至約2915萬人民幣，同時新增中國網際網路投資基金（有限合夥）等為股東。上海立芯軟體科技有限公司成立於2020年11月，法定代表人為陳建利，經營範圍包括軟體開發、人工智慧硬體銷售等。股東資訊顯示，該公司由嘉興宸玥股權投資合夥企業（有限合夥）、哈勃科技創業投資有限公司及上述新增股東等共同持股。"
-    },
-    {
-      "id": "4989241",
-      "time": "2026-07-15 14:33:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【神州租車實現三亞鳳凰機場全航站樓覆蓋】神州租車三亞鳳凰機場主門店、T1/T2停車樓接待區及T3服務點正式同步開業。三大網點投入運營後，神州租車在三亞鳳凰國際機場實現T1、T2、T3航站樓服務全覆蓋。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f647a-9f6d-7aab-8d96-1fde69358360",
-      "time": "2026-07-15 14:33:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "005930.KS",
-        "000660.KS"
-      ],
-      "text": "【Japan, South Korea stocks rally; semiconductors lead】On July 15, Tokyo's Nikkei 225 closed up 1.49% at 68,751.51; Kioxia rose 5.4% and Ibiden gained 7.7%. Seoul's KOSPI closed up 6.24% at 7,284.41, while the KOSDAQ advanced 5.79%. SK Hynix climbed 8.8%, Samsung Electronics added 6.2% and Hanmi Semiconductor jumped 29.8%."
-    },
-    {
-      "id": "mkt:019f647a-112a-7aab-8d96-17f027db9193",
-      "time": "2026-07-15 14:32:29",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【CHINA STATE PLANNER, MOFCOM on 15th Five-Year Plan to Expand Consumption】CHINA STATE PLANNER and MOFCOM said the 15th Five-Year Plan to expand consumption links social welfare with demand-side stimulus, targeting upgrades in elderly care, childcare, cultural & tourism and healthcare to raise household consumption. Policy measures prioritize expanding high‑quality supply, broadening platform channels and strengthening support and guarantees. The plan also emphasizes reform and innovation to promote services consumption, develop digital consumption, advance locally tailored launch-economy initiatives and cultivate experiential consumption, using improved supporting policies to seed new consumption growth drivers."
-    },
-    {
-      "id": "4989240",
-      "time": "2026-07-15 14:32:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家開發銀行湖南省分行原黨委書記、行長梁慶凱被查】據中央紀委國家監委駐國家開發銀行紀檢監察組、河南省紀委監委訊息：國家開發銀行湖南省分行原黨委書記、行長梁慶凱涉嫌嚴重違紀違法，目前正接受中央紀委國家監委駐國家開發銀行紀檢監察組紀律審查和河南省洛陽市監察委員會監察調查。"
-    },
-    {
-      "id": "mkt:019f6479-a1c8-7aab-8d96-0d310d40b684",
-      "time": "2026-07-15 14:32:00",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "USDJPY",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "【BOC likely to hold; Scotiabank still sees hikes starting in Q4】Scotiabank expects the Bank of Canada to hold policy at this meeting, with forward guidance remaining cautious and the balance-sheet programme unchanged. The bank’s economics team still forecasts 75bp of tightening from Q4 into Q1, citing a growth rebound and re-emergent pre-war drivers of inflation; commodity prices have fallen from their peaks but remain above year-start levels. The statement may highlight a Q2 rebound while noting modest spare capacity, signal lower energy prices but use guarded language given a fragile US‑Iran MOU and gasoline/derivatives market imbalances, and is likely to reiterate readiness to respond to two‑way risks."
-    },
-    {
-      "id": "4989239",
-      "time": "2026-07-15 14:31:43",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【高盛：內銀板塊下半年個股持續分化，大型銀行仍為首選】高盛發表研報指，內銀行業受信貸增長放緩影響，增長仍具挑戰，但預期下半年個股表現將持續分化。高盛預測所覆蓋銀行第二季平均撥備前經營利潤及淨利潤分別增長5%及3%，大型銀行表現仍優於其他銀行。該行指，大型銀行仍為首選，偏好建行及中行，評級均為“買入”。"
-    },
-    {
-      "id": "4989238",
-      "time": "2026-07-15 14:31:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "【日韓股市集體收漲】日經225指數收漲1.49%，報68751.51點。韓國綜指收漲6.24%，報7284.41點。"
-    },
-    {
-      "id": "4989237",
-      "time": "2026-07-15 14:31:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月15日：“農產品批發價格200指數”比昨天上升0.23個點】據農業農村部監測，7月15日“農產品批發價格200指數”為111.62，比昨天上升0.23個點，“菜籃子”產品批發價格指數為111.44，比昨天上升0.26個點。截至今日14:00時，全國農產品批發市場豬肉平均價格為15.83元/公斤，比昨天下降1.4%；牛肉66.90元/公斤，比昨天上升0.5%；羊肉64.35元/公斤，比昨天下降0.4%；雞蛋9.98元/公斤，比昨天上升1.3%；白條雞17.49元/公斤，比昨天下降0.5%。重點監測的28種蔬菜平均價格為4.22元/公斤，比昨天上升1.0%；重點監測的6種水果平均價格為7.02元/公斤，比昨天上升0.3%。鯽魚20.65元/公斤，比昨天上升2.2%；鯉魚14.85元/公斤，比昨天上升1.5%；白鰱魚10.59元/公斤，比昨天上升1.1%；大帶魚40.64元/公斤，與昨天持平。今日，國內鮮活農產品批發市場重點監測的46個品種中，與昨天相比價格升幅前五名的是黃瓜、豆角、西葫蘆、生菜和茄子，幅度分別為6.0%、5.1%、5.0%、3.2%和2.5%；價格降幅前五名的是蔥頭、洋白菜、豬肉、平菇和菜花，幅度分別為3.8%、1.6%、1.4%、1.3%和1.2%。"
-    },
-    {
-      "id": "4989236",
-      "time": "2026-07-15 14:31:02",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【伊朗公佈美第五艦隊無人機指揮中心被摧毀衛星影象】據伊朗方面15日訊息稱，衛星影象顯示位於巴林的美軍第五艦隊基地無人機指揮中心被精確摧毀。當地時間7月13日凌晨，伊朗伊斯蘭革命衛隊釋出公告，稱在第二階段的反擊中摧毀了美軍在巴林的謝赫伊薩空軍基地重要直升機維修保養中心、P-8電子戰飛機機庫以及美軍無人機指揮控制中心。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6478-ab4b-7aab-8d96-07b08aa892cf",
-      "time": "2026-07-15 14:30:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【National wholesale pork average price down 1.4% to 15.83 yuan/kg】According to Ministry of Agriculture and Rural Affairs monitoring, as of 14:00 on July 15 the Agricultural Products Wholesale Price 200 Index was 111.62, up 0.23 pts vs. yesterday; the vegetable-basket wholesale price index was 111.44, up 0.26 pts. National wholesale prices: pork 15.83 yuan/kg, down 1.4% vs. yesterday; beef 66.90 yuan/kg, up 0.5%; mutton 64.35 yuan/kg, down 0.4%; eggs 9.98 yuan/kg, up 1.3%; chilled whole chicken 17.49 yuan/kg, down 0.5%."
-    },
-    {
-      "id": "te:markets:567085",
-      "time": "2026-07-15 14:30:17",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Nikkei 225 Index Closes 1.24% Higher — The Nikkei 225 Index rose 841 points or 1.24 percent on Wednesday to close at 68585 points. Leading the gains are Lasertec Corp (9.78%), Taiyo Yuden (7.21%) and Furukawa Electric (7.10%)."
     }
   ]
 }
