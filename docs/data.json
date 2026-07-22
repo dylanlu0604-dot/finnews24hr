@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-23 04:20:31",
-  "count": 17663,
+  "updated": "2026-07-23 04:24:27",
+  "count": 17658,
   "items": [
+    {
+      "id": "mkt:019f8b7f-6da4-7aab-8e51-e0b3ffe30728",
+      "time": "2026-07-23 04:23:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "【Alphabet cloud revenue beats estimates; search revenue slightly below expectations】Alphabet reported Q2 (quarter ended June 30) cloud revenue of $24.77 bln, up 82% YoY and above analysts' $22.34 bln estimate. Search advertising revenue was $63.27 bln, marginally below the $63.28 bln forecast. The mix — cloud beat, search slight miss — may heighten market concern over Alphabet's large AI-related spending. Alphabet is the first major U.S. tech company to report this quarter, offering an early read on sector results."
+    },
+    {
+      "id": "mkt:019f8b7e-12bd-7aab-8e51-dfc2a16c6ef2",
+      "time": "2026-07-23 04:22:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla Q2 revenue beats expectations; EPS misses】Tesla (TSLA.O) reported Q2 revenue of $28.2 bln, above consensus $25.706 bln, but adjusted EPS of $0.33 missed the Street at $0.51. Free cash flow was negative $1.09 bln. Elon Musk said full-year spending will exceed $25 bln as Tesla ramps vehicle, battery and robot output across six factories; the investment is weighing on current results and investors are seeking more detail on cash deployment."
+    },
     {
       "id": "mkt:019f8b78-bb32-7aab-8e51-d141a4942cb8",
       "time": "2026-07-23 04:16:12",
@@ -161213,67 +161241,6 @@
         "Importance 1"
       ],
       "text": "TSX Rises After BoC Holds Rates Steady — The S&P/TSX Composite Index added 0.3% to close at 35,416 on Wednesday as investors assessed the Bank of Canada's interest rate decision. The BoC kept its key policy rate unchanged at 2.25%, as expected, noting that the economy is showing signs of improvement. The central bank said growth is picking up and inflation is projected to ease gradually from its recent spike. However, it also highlighted significant risks and uncertainties stemming from the conflict in the Middle East and US trade policy. Financials led the gains, with RBC up 1.6%, TD Bank adding 1.4%, BMO advancing 1.3%, and CIBC rising 1.7%. Meanwhile, mining stocks pared earlier gains, with Agnico Eagle down 1.3% and Barrick losing 1.6%. Shopify (-1.8%), Constellation Software (-2%), and Celestica (-2.9%) tracked weakness in US technology stocks. Elsewhere, Cogeco Communications (+1.3%) is set to release its third-quarter results after the market close."
-    },
-    {
-      "id": "4990726",
-      "time": "2026-07-16 04:24:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【SpaceX破發 做空者浮盈近40億美元】當地時間週三SpaceX股價跌破發行，引發空頭大舉押注。資料顯示，做空投資者賬面利潤已接近38.8億美元，目前約1.81億股SpaceX股票被賣空，佔流通股約28%。自6月16日創下收盤高點以來，SpaceX市值已縮水約8600億美元，跌幅達三分之一。隨著公司即將公佈首份季度財報以及更多限售股解禁，投資者正密切關注股價走勢。"
-    },
-    {
-      "id": "mkt:019f6773-27f2-7aab-8db0-50a54872953b",
-      "time": "2026-07-16 04:23:47",
-      "tags": [
-        "MKT News",
-        "SPCX.O",
-        "Impact bearish"
-      ],
-      "text": "【SpaceX falls below offering price; shorts' unrealized gains near $3.9bn】SpaceX (SPCX.O) shares have slipped below their offering price, triggering heavy short activity. Short positions total roughly 181 million shares, about 28% of the float, yielding approximately $3.88bn in unrealized profits. Since the June 16 closing high, SpaceX’s market cap has fallen by about $860bn, roughly one-third. Investors are watching the company’s imminent first quarterly report and forthcoming lock-up expirations for further price pressure."
-    },
-    {
-      "id": "mkt:019f6773-2753-7aab-8db0-4fefe6e99551",
-      "time": "2026-07-16 04:23:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US President Trump said he will move soon to make it easier for veterans to become truck drivers."
-    },
-    {
-      "id": "4990725",
-      "time": "2026-07-16 04:23:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：我們將很快採取措施，放寬退伍軍人成為卡車司機的准入門檻。"
-    },
-    {
-      "id": "4990724",
-      "time": "2026-07-16 04:23:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美國很快將針對“非法”卡車司機採取行動。"
-    },
-    {
-      "id": "4990723",
-      "time": "2026-07-16 04:23:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國航空業要求國會再撥款200億美元，以完成空中交通管制現代化專案。"
-    },
-    {
-      "id": "4990722",
-      "time": "2026-07-16 04:21:36",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "特朗普誇讚摩根大通、奎託斯公司的投資佈局。"
     }
   ]
 }

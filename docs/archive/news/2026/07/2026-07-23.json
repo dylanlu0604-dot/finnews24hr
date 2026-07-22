@@ -1,7 +1,35 @@
 {
   "date": "2026-07-23",
-  "count": 353,
+  "count": 355,
   "items": [
+    {
+      "id": "mkt:019f8b7f-6da4-7aab-8e51-e0b3ffe30728",
+      "time": "2026-07-23 04:23:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "【Alphabet cloud revenue beats estimates; search revenue slightly below expectations】Alphabet reported Q2 (quarter ended June 30) cloud revenue of $24.77 bln, up 82% YoY and above analysts' $22.34 bln estimate. Search advertising revenue was $63.27 bln, marginally below the $63.28 bln forecast. The mix — cloud beat, search slight miss — may heighten market concern over Alphabet's large AI-related spending. Alphabet is the first major U.S. tech company to report this quarter, offering an early read on sector results."
+    },
+    {
+      "id": "mkt:019f8b7e-12bd-7aab-8e51-dfc2a16c6ef2",
+      "time": "2026-07-23 04:22:03",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "【Tesla Q2 revenue beats expectations; EPS misses】Tesla (TSLA.O) reported Q2 revenue of $28.2 bln, above consensus $25.706 bln, but adjusted EPS of $0.33 missed the Street at $0.51. Free cash flow was negative $1.09 bln. Elon Musk said full-year spending will exceed $25 bln as Tesla ramps vehicle, battery and robot output across six factories; the investment is weighing on current results and investors are seeking more detail on cash deployment."
+    },
     {
       "id": "mkt:019f8b78-bb32-7aab-8e51-d141a4942cb8",
       "time": "2026-07-23 04:16:12",
