@@ -1,7 +1,38 @@
 {
-  "updated": "2026-07-23 03:24:26",
-  "count": 17666,
+  "updated": "2026-07-23 03:28:36",
+  "count": 17669,
   "items": [
+    {
+      "id": "mkt:019f8b4a-7292-7aab-8e50-be36fba78151",
+      "time": "2026-07-23 03:25:39",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brazil's trade minister said related measures should not be layered on top of U.S. Section 301 measures."
+    },
+    {
+      "id": "mkt:019f8b49-fb47-7aab-8e50-b65766d8aeb5",
+      "time": "2026-07-23 03:25:09",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【UK withdraws diplomatic staff from Iran】The Foreign, Commonwealth and Development Office said it has temporarily evacuated diplomatic staff from Iran citing a change in the security situation. The British embassy in Tehran will continue to operate remotely to maintain diplomatic functions."
+    },
+    {
+      "id": "5002983",
+      "time": "2026-07-23 03:23:59",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "據CNN：英國政府正在撤回駐伊朗外交人員。"
+    },
     {
       "id": "mkt:019f8b48-d6ac-7aab-8e50-ab4a3f4662f9",
       "time": "2026-07-23 03:23:54",
