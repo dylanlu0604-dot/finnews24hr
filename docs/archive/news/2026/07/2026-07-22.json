@@ -1,7 +1,105 @@
 {
   "date": "2026-07-22",
-  "count": 2694,
+  "count": 2704,
   "items": [
+    {
+      "id": "mkt:019f89e9-5427-7aab-8e48-6642ede6ffeb",
+      "time": "2026-07-22 20:59:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. crude (WTI) and Brent rose nearly $1 intraday, trading at $87.60/bbl and $91.06/bbl respectively."
+    },
+    {
+      "id": "5002537",
+      "time": "2026-07-22 20:59:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【金建希就韓國總統府搬遷事宜接受檢方問詢】韓國前總統尹錫悅的妻子金建希22日前往特檢組所在地，就總統府搬遷過程中可能存在的違法行為接受問詢。據韓國媒體報道，金建希當天上午抵達位於京畿道果川市的特檢組辦公室，這是她首次就總統府搬遷相關事宜接受檢方問詢。特檢組懷疑，金建希在總統府搬遷過程中干預施工方選擇，收受一家公司所贈貴重物品，使該公司在不具備資質的情況下承接專案。金建希律師團隊在問詢開始前否認上述指控，稱其為檢方“單方面說辭”。（新華社）"
+    },
+    {
+      "id": "5002536",
+      "time": "2026-07-22 20:58:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理想汽車法務部：公司訴“電車小飛”侵權案二審勝訴】7月22日，理想汽車法務部公告稱，針對網路賬號“電車小飛”長期釋出涉及理想汽車及其相關人員的不實資訊、誤導性內容並造成惡劣傳播影響一事，理想汽車已於2025年3月25日提起訴訟。經人民法院一審、二審審理後，依法認定相關行為構成侵權。理想汽車已於2026年4月14日獲得二審勝訴判決書。經查明，法院認定“電車小飛”實施的商業詆譭行為，擾亂了正常的市場經濟秩序，構成商業詆譭的不正當競爭行為。"
+    },
+    {
+      "id": "mkt:019f89e7-e0fb-7aab-8e48-5e8f4e30a5bc",
+      "time": "2026-07-22 20:58:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Trump warns Iran US will destroy bridges or power plants if it fires on ships in Strait of Hormuz】Trump warned that any time the Islamic Republic of Iran fires on a vessel in the Strait of Hormuz — by missile, rocket, drone or any other weapon — the US will bomb and destroy a bridge or a power plant, including facilities in or near Tehran."
+    },
+    {
+      "id": "5002535",
+      "time": "2026-07-22 20:57:44",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普：一旦伊朗在霍爾木茲海峽襲擊船隻，美國將轟炸並摧毀一座橋樑或發電廠。"
+    },
+    {
+      "id": "5002534",
+      "time": "2026-07-22 20:57:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普談伊朗：若伊朗伊斯蘭共和國在霍爾木茲海峽襲擊任何船隻——無論是使用導彈、火箭彈、無人機還是任何其他裝置或武器——美國都將轟炸並摧毀伊朗的一座橋樑或一座發電廠。"
+    },
+    {
+      "id": "te:economy:568904",
+      "time": "2026-07-22 20:57:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Italy",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Italy 10Y Bond Yield Hits 16-week High — Italy 10 Year Government Bond Yield increased to 4.04%, the highest since March 2026. Over the past 4 weeks, Italy 10Y Bond Yield gained 37.57 basis points, and in the last 12 months, it increased 56.80 basis points."
+    },
+    {
+      "id": "te:economy:568903",
+      "time": "2026-07-22 20:56:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Canada 10Y Bond Yield Hits 8-week High — Canada 10 Year Government Bond Yield increased to 3.60%, the highest since May 2026. Over the past 4 weeks, Canada 10Y Bond Yield gained 15.40 basis points, and in the last 12 months, it increased 3.00 basis points."
+    },
+    {
+      "id": "mkt:019f89e5-d401-7aab-8e48-51c5d5a873d8",
+      "time": "2026-07-22 20:56:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Zhejiang plans phased rollout of major AI projects, to build AI innovation hub】Zhejiang governor Liu Jie chaired a provincial government meeting, saying H1 growth was steady and the province will press on to meet H2 targets. The government will set up a government-guided, market-led multi-source funding mechanism for basic research, raise the quality of science-and-technology platforms, deepen construction of national AI application pilot bases, comprehensively map AI and related industrial chains, and, in a planned, phased manner, develop a pipeline and implement major AI projects to accelerate creation of an AI innovation and development hub."
+    },
+    {
+      "id": "5002533",
+      "time": "2026-07-22 20:55:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【百億量化產品淨值集體下挫 幻方量化多隻產品下跌超15%】近日，量化私募上週（7月13日～7月17日）的淨值變動情況逐步更新，-10%以上的回撤可謂比比皆是。許多產品不僅7月的超額回報跌至-20%以下，2026年年內的超額也宣佈告負。 有量化“四大天王”之稱的幻方量化、九坤投資、明汯投資、衍復投資均未能倖免，旗下多隻產品上週淨值回撤超10%。 以梁文鋒旗下的幻方量化為例。私募排排網資料顯示，該公司旗下的中證500量化、滬深300量化多策略、中證1000量化多策略等多隻產品上週淨值下跌超15%。其中，幻方量化信淮500指數專享19號7期上週淨值跌幅達15.82%。私募排排網資料顯示，該產品今年7月的超額收益為-10.85%。（第一財經）"
+    },
     {
       "id": "5002532",
       "time": "2026-07-22 20:53:47",
