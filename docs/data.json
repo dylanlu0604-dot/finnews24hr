@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-22 12:31:44",
-  "count": 18026,
+  "updated": "2026-07-22 12:35:49",
+  "count": 18024,
   "items": [
+    {
+      "id": "5001465",
+      "time": "2026-07-22 12:34:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：珠江、長江、淮河流域部分河流將出現漲水過程】今天上午，水利部滾動會商分析研判全國的防汛形勢，安排部署暴雨洪水防禦工作。截至7月22日9時，吉林、遼寧、黑龍江、內蒙古、天津、河北、江蘇、廣西等地19條河流仍維持超警，最大超警幅度2.26米。據預報，7月22日至7月24日：受上游來水影響，松花江流域松花江幹流肇源江段、遼河流域遼河下游幹流盤山以下河段及渾河下游幹流邢家窩棚以下河段、海河流域薊運河等主要河流及江蘇裡下河地區部分河流將維持超警；受降雨影響，珠江流域桂南沿海、長江流域鄂東四水、淮河流域淠河等河流將出現漲水過程，暴雨區內部分中小河流可能發生超警洪水。7月22日8時至7月23日8時，湖北東部、安徽西部部分地區發生山洪災害可能性大（橙色預警）。水利部7月22日釋出橙色山洪災害氣象預警，提醒暴雨洪水影響地區社會公眾注意防範。"
+    },
+    {
+      "id": "5001464",
+      "time": "2026-07-22 12:34:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日本財相稱必要時在匯市果斷出手 未能支撐已跌破163的日元】日本兩名高階官員警告稱，如有必要，當局準備在外匯市場採取行動，但相關發言幾乎未能為持續承壓的日元提供支撐。財務大臣片山皋月週三對記者表示，美國和伊朗之間的局勢突然惡化，讓全球始料未及，使得當前環境變得極為艱難。她說，“我們的政策完全沒有改變：如有必要，我們將隨時採取適當且果斷的行動。” 內閣官房長官木原稔也警告，將根據需要對匯率波動做出適當反應。受美伊衝突再度升溫推升油價的影響，日元兌美元匯率隔夜跌破163，創下1986年以來首見。在木原發表講話後，日元兌美元匯率週三上午持穩在163.16附近。"
+    },
+    {
+      "id": "5001463",
+      "time": "2026-07-22 12:34:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：KKR支援的Vertis已成為收購Megha Engineering印度公路資產（含債務，估值約8億美元）的領跑者。"
+    },
+    {
+      "id": "5001462",
+      "time": "2026-07-22 12:33:34",
+      "tags": [
+        "市場"
+      ],
+      "text": "巴基斯坦KSE-100指數開盤後下跌0.4%，至175,620.60點。"
+    },
+    {
+      "id": "5001461",
+      "time": "2026-07-22 12:32:20",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "【花旗集團聘任五名資深科技投資銀行家以推動業務增長】花旗集團在美國招募五名資深科技領域投行人員，以此拓展業務、爭奪全球市場份額。根據一份內部備忘錄，克里斯·格羅斯（Chris Grosse）將從美國銀行加入花旗，負責支付、金融科技和數字資產領域的業務覆蓋，他將於9月起在紐約工作。 此外，花旗還將在舊金山新增其他高階銀行家，以拓展北美科技業務。弗洛裡安·普拉特（Florian Plath）、德魯夫·福塔達爾（Dhruv Fotadar）和阿南德·阿加瓦爾（Anand Agarwal）將於8月從摩根大通（JPMorgan Chase & Co.）加入，喬什·希茨（Josh Sheets）則來自瑞銀集團（UBS Group AG）。 普拉特將專注於軟體和半導體公司，福塔達爾將負責企業基礎設施客戶在軟體和人工智慧領域的業務覆蓋，阿加瓦爾將聚焦半導體和人工智慧公司，希茨將加強花旗在軟體領域的業務覆蓋。根據備忘錄，所有新成員均將以董事總經理身份加入花旗。 花旗一位發言人證實了該備忘錄內容。"
+    },
     {
       "id": "5001460",
       "time": "2026-07-22 12:29:33",
@@ -165498,69 +165541,6 @@
         "市場"
       ],
       "text": "巴基斯坦KSE-100指數上漲1%，至175,627.30。"
-    },
-    {
-      "id": "4989092",
-      "time": "2026-07-15 12:35:30",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【泰國擬上調資料中心電價】泰國副內政部長波拉皮・蘇溫奇威（Polapee Suwunchwee ）向媒體透露，該國計劃針對資料中心徵收更高電價。波拉皮任職於能源政策委員會，他表示，政府將把從資料中心收取的額外電費用於補貼民用電力開支，這筆資金與居民電費賬單分開核算。該官員稱，泰國能源監管委員會最快將在8月電費結算週期出臺資料中心專屬電價標準。"
-    },
-    {
-      "id": "4989091",
-      "time": "2026-07-15 12:33:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "【元寶與京東AI Agent正式打通小程式生態】騰訊宣佈元寶與京東AI Agent完成小程式生態打通。現在，使用者在元寶內搜尋或諮詢商品相關資訊時，除了獲得商品詳情、引數對比、使用建議等豐富內容外，回答中還會智慧匹配商品卡片，點選即可跳轉至京東購物小程式，在對話場景內實現從“資訊查詢”到“購物下單”的便捷體驗。據介紹，此次功能覆蓋數碼電子、家用電器、服飾鞋包、美妝個護、食品生鮮等全品類商品。使用者在詢問產品型號、對比不同品牌引數、或查詢特定價格區間的商品時，元寶會整合權威資訊與京東商品資料，以卡片形式清晰展示圖片、名稱、價格等關鍵資訊，點選即可進入京東購物小程式介面。整個過程無需退出對話、無需手動複製搜尋，在元寶內即可完成從“資訊獲取”到“服務觸達”的閉環。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f640d-428c-7aab-8d93-751a7df2bc05",
-      "time": "2026-07-15 12:33:38",
-      "tags": [
-        "MKT News",
-        "1211.HK",
-        "Impact bullish"
-      ],
-      "text": "【BYD says it could top Toyota on global sales without U.S. entry, eyes faster European push】Li Ke, BYD's executive vice‑president for international business, told the FT BYD could surpass Toyota in global sales even if it cannot enter the U.S. market. He said the company may accelerate expansion in Europe, which BYD views as a key overseas market. ACEA data show BYD's European market share more than doubled YoY to 2.8% as of May, overtaking Ford, Tesla and Nissan."
-    },
-    {
-      "id": "4989090",
-      "time": "2026-07-15 12:33:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數開盤上漲0.4%，至174,585.20點。"
-    },
-    {
-      "id": "te:economy:567053",
-      "time": "2026-07-15 12:32:43",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Coal Production YoY",
-        "Importance 1"
-      ],
-      "text": "China's Coal Output Posts Biggest Drop Since 2016 — China’s coal production dropped 9.7% year-on-year to 381 million tonnes in June 2026, marking the steepest annual decline since 2016 and following a 1.7% fall in May. Average daily output fell to 12.7 million tonnes, the lowest since July 2025, after a deadly mine explosion in late May prompted widespread safety inspections across Shanxi, the country’s largest coal-producing province, disrupting mining activity. More than 300,000 tonnes of daily mining capacity were temporarily suspended following the accident, although capacity utilization has since partially recovered. In the first half of 2026, coal output declined 1.7% to 2.37 billion tonnes. Despite the recent weakness, production is still expected to edge up to a record 4.87 billion tonnes this year, supported by rising power demand and elevated imported coal prices, although stricter safety oversight is likely to limit further output growth."
-    },
-    {
-      "id": "4989089",
-      "time": "2026-07-15 12:32:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【新石器趙優：無人配送將成為首個規模化物理AI應用】7月15日訊息，新石器無人車執行總裁趙優近日在香港舉行的LEAPEast2026大會上表示，物理AI（PhysicalAI）有望率先在物流配送領域實現大規模商業化落地，無人物流正從技術演示階段進入生產運營階段。他表示，相較於人形機器人和Robotaxi，無人物流採用B2B商業模式，具備路線固定、運營效果可量化等特點。隨著行業發展，RaaS（Robovan-as-a-Service，無人車即服務）模式有望成為下一階段增長點。"
-    },
-    {
-      "id": "4989088",
-      "time": "2026-07-15 12:32:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【特朗普：伊朗就像“偉大拳手”，你以為他敗了，結果他突然給你一記重拳】美國總統特朗普14日在接受美國福克斯新聞頻道專訪時說，除非伊朗重返談判桌，否則美軍將在下週打擊其橋樑和發電廠。 特朗普說，美國對伊朗軍事打擊將持續到“我說夠了為止”。他稱，伊朗實力已被嚴重削弱，但還有反抗能力，伊朗就像一名“偉大的拳擊手”,“你以為你已擊敗了他，結果他突然反擊，給你來了一記重拳”。 （參考訊息）"
     }
   ]
 }
