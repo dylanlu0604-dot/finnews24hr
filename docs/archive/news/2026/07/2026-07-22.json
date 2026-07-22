@@ -1,7 +1,56 @@
 {
   "date": "2026-07-22",
-  "count": 1159,
+  "count": 1164,
   "items": [
+    {
+      "id": "5001453",
+      "time": "2026-07-22 12:18:42",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【多家機構上調通用汽車目標價 此前公司上調業績展望】摩根大通將通用汽車目標股價從110美元上調至120美元通；大和資本市場將通用汽車目標股價從83美元上調至86美元；TD COWEN將通用汽車目標股價從126美元上調至132美元。通用汽車上調了全年盈利展望，並表示客戶需求依然強勁，特別是對皮卡和SUV等車型的需求。通用汽車目前預計全年息稅前利潤將在140億至160億美元之間，高於此前135億至155億美元的展望。調整後每股收益目前預計在12美元至14美元之間，而此前的預測為每股11.50美元至13.50美元。"
+    },
+    {
+      "id": "mkt:019f880b-00fe-7aab-8e3a-36d17935ec61",
+      "time": "2026-07-22 12:17:30",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan 40-year government bond yield rose 2 bps to 3.910%."
+    },
+    {
+      "id": "5001452",
+      "time": "2026-07-22 12:17:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【馬杜羅和美國檢方共同提議明年6月審理其所涉指控】據美國媒體21日報道，遭美國強行控制的委內瑞拉總統馬杜羅與美國司法部檢方當天共同提議，將馬杜羅所涉指控的審理開始日期定在2027年6月。 報道說，該聯合提案是在馬杜羅所涉指控聽證會前提交的一份法庭檔案，該聽證會定於22日中午12時在紐約南區聯邦地區法院舉行。 據報道，控辯雙方在檔案中表示，他們可能尋求更改審理日程。美國聯邦地區法官阿爾文·赫勒斯坦將最終確定日程。 美國1月3日對委內瑞拉發動軍事打擊，強行控制馬杜羅夫婦並將他們帶到美國，美國司法部門指控他們犯有毒品走私罪行。1月5日，馬杜羅夫婦在紐約南區聯邦地區法院首次出庭，拒絕美方所謂“犯罪”指控。目前，馬杜羅被關押在紐約布魯克林區的大都會拘留中心。國際社會廣泛譴責美國嚴重侵犯委內瑞拉主權，威脅拉美地區和平穩定。(新華社)"
+    },
+    {
+      "id": "5001451",
+      "time": "2026-07-22 12:17:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "40年期日本國債收益率<JP40YTN=JBTC>上漲2個基點，至3.910%。"
+    },
+    {
+      "id": "te:markets:568734",
+      "time": "2026-07-22 12:15:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palm Oil Eases Further on Weak Edible Oil Prices — Malaysian palm oil futures extended losses, trading near MYR 4,600 per tonne and moving further away from a near four-week high, as weakness in rival edible oils on the Dalian and Chicago exchanges weighed on sentiment. Demand concerns also persisted after palm oil imports by top buyer India fell to a 14-month low in June, pointing to softer near-term buying interest. Meantime, export data for July 1–20 provided little direction, with AmSpec Agri Malaysia reporting shipments fell 0.9% from the same period in June, while Intertek Testing Services estimated a 4.1% increase. Still, losses were cushioned by a weaker ringgit and growing supply risks, with higher biodiesel mandates in Indonesia and Malaysia reducing export availability and providing underlying support to prices. Investors also looked to China’s upcoming Politburo meeting later this month, hoping for fresh stimulus after second-quarter growth undershot expectations."
+    },
     {
       "id": "5001450",
       "time": "2026-07-22 12:14:55",
