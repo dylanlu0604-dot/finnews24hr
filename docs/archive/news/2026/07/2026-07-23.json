@@ -1,7 +1,70 @@
 {
   "date": "2026-07-23",
-  "count": 209,
+  "count": 216,
   "items": [
+    {
+      "id": "mkt:019f8b23-9cd8-7aab-8e4f-fa9adca6abda",
+      "time": "2026-07-23 02:43:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. natural gas futures rose as much as 3.00% intraday, trading at $2.951/MMBtu."
+    },
+    {
+      "id": "mkt:019f8b23-9108-7aab-8e4f-f78af4377a46",
+      "time": "2026-07-23 02:43:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian government says it will support companies affected by international conflict, especially exporters to Persian Gulf countries."
+    },
+    {
+      "id": "mkt:019f8b23-8f8c-7aab-8e4f-ee191e4aeb61",
+      "time": "2026-07-23 02:43:11",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "FITCH said on the U.S. banking sector that an elevated IPO pipeline and market expectations that private equity will support a corporate IPO recovery suggest favorable market conditions could persist through Q3 2026."
+    },
+    {
+      "id": "mkt:019f8b23-5c09-7aab-8e4f-e66c59337791",
+      "time": "2026-07-23 02:42:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian government will provide an 18.5-bln reais credit line to support firms affected by US tariffs."
+    },
+    {
+      "id": "5002948",
+      "time": "2026-07-23 02:41:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜及各類零工平臺員工領取食品券、醫療補助人數大幅激增。"
+    },
+    {
+      "id": "mkt:019f8b21-6ba0-7aab-8e4f-dc7188b93dd4",
+      "time": "2026-07-23 02:40:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hamas new political chief says top priority is halting Israeli operations in Gaza】Hamas's newly appointed political bureau chief Khalil al-Hayya said in his first video address on the 22nd that the group's immediate priority is a complete halt to Israeli military operations in the Gaza Strip. He said this includes ending aggression and killings, securing a full Israeli withdrawal from Gaza, restoring Gaza's ability to receive humanitarian aid and accelerating reconstruction."
+    },
+    {
+      "id": "5002947",
+      "time": "2026-07-23 02:40:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "惠譽評美國銀行業：專案儲備充足，且市場預期私募股權支援的IPO將復甦，表明有利市況或延續至2026年第三季度。"
+    },
     {
       "id": "5002946",
       "time": "2026-07-23 02:39:08",
