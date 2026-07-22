@@ -1,7 +1,167 @@
 {
   "date": "2026-07-23",
-  "count": 334,
+  "count": 350,
   "items": [
+    {
+      "id": "5003024",
+      "time": "2026-07-23 04:11:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet： 於 6 月發行 A 類、C 類普通股及強制可轉換優先股組合，融資總額 496 億美元。"
+    },
+    {
+      "id": "5003023",
+      "time": "2026-07-23 04:10:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉：電池包產能仍然是限制性因素。公司正設法提高電池包的產能。"
+    },
+    {
+      "id": "mkt:019f8b73-1f44-7aab-8e51-cc6c6aefcbb6",
+      "time": "2026-07-23 04:10:05",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) said its energy-storage business has resumed growth."
+    },
+    {
+      "id": "mkt:019f8b73-1966-7aab-8e51-c3ef750d82a5",
+      "time": "2026-07-23 04:10:03",
+      "tags": [
+        "MKT News",
+        "IBM.O",
+        "Impact bearish"
+      ],
+      "text": "IBM (IBM.N) Q2 2026 EPS $2.27, down from $2.31 a year earlier and below the $2.44 market consensus."
+    },
+    {
+      "id": "mkt:019f8b72-e589-7aab-8e51-bfafd567894e",
+      "time": "2026-07-23 04:09:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Tesla (TSLA.O) said CyberCab has entered production at its Texas Gigafactory; the Tesla Semi remains on track to begin production this year at a new Nevada plant."
+    },
+    {
+      "id": "te:markets:568958",
+      "time": "2026-07-23 04:09:38",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Close Lower Ahead of Big Tech Earnings — US stocks closed lower on Wednesday ahead of the start of earnings season for mega-cap technology companies. The S&P 500 shed 0.1%, the Nasdaq 100 lost 0.5%, and the Dow Jones inched down. Software stocks came under pressure before Alphabet's (-1.5%) results, with Microsoft down 1.9% and Meta retreating 2.6%. The technology sector remained volatile as investors reassessed whether AI hyperscalers will continue expanding hardware spending. Tesla dropped % ahead of its earnings release. Most chipmakers rebounded from earlier losses, with Nvidia up 2.3%, Broadcom rising 2.7%, and AMD adding 1.4%. Meanwhile, tensions between the US and Iran escalated after Iranian drone attacks targeted CIA facilities in the Gulf. Oil prices extended gains, fueling inflation concerns and pushing yields higher. Financials traded mixed, with Visa down 0.7% while JPMorgan gained 0.9%. AT&T rose 3.5% after beating earnings estimates, lifting telecom stocks."
+    },
+    {
+      "id": "5003022",
+      "time": "2026-07-23 04:09:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：在已獲批全自動駕駛（FSD）的市場，消費者對我們旗下車型的需求顯著上升。"
+    },
+    {
+      "id": "mkt:019f8b72-a5ca-7aab-8e51-b5c8f8ca53dc",
+      "time": "2026-07-23 04:09:34",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "Nasdaq100"
+      ],
+      "text": "US-listed Tesla shares (TSLA.O) fell 2.5% in after-hours trading."
+    },
+    {
+      "id": "5003021",
+      "time": "2026-07-23 04:09:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "西南航空：基於 7 月 17 日遠期油價曲線測算，預計第三季度每加侖燃油成本區間為 3.70 至 3.75 美元。"
+    },
+    {
+      "id": "mkt:019f8b72-8cff-7aab-8e51-af14c08f1013",
+      "time": "2026-07-23 04:09:27",
+      "tags": [
+        "MKT News",
+        "IBM.N",
+        "Impact bearish"
+      ],
+      "text": "IBM (IBM.N) reported Q2 2026 net income of $2.17 bln, down from $2.194 bln a year earlier and below the $2.381 bln market consensus."
+    },
+    {
+      "id": "mkt:019f8b72-68a0-7aab-8e51-a439f918186d",
+      "time": "2026-07-23 04:09:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "GOOG.O"
+      ],
+      "text": "ALPHABET (GOOG.O): GEMINI model is now able to process 22 bln API tokens per minute."
+    },
+    {
+      "id": "5003020",
+      "time": "2026-07-23 04:09:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：我們的儲能業務重回增長軌道。"
+    },
+    {
+      "id": "mkt:019f8b72-27cd-7aab-8e51-9d128c6b29ce",
+      "time": "2026-07-23 04:09:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "IBM.N",
+        "Impact bearish"
+      ],
+      "text": "IBM (IBM.N) reported Q2 2026 revenue $17.2 bln, up from $16.98 bln a year earlier, below consensus $17.77 bln."
+    },
+    {
+      "id": "mkt:019f8b71-fa95-7aab-8e51-95e18c542dda",
+      "time": "2026-07-23 04:08:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) reported Q2 2026 net income $1.11 billion, versus $1.172 billion a year earlier; market consensus $1.117 billion."
+    },
+    {
+      "id": "5003019",
+      "time": "2026-07-23 04:08:24",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "IBM二季度營收171.6億美元。\n二季度軟體營收77.6億美元，分析師預期79.9億美元。\n二季度諮詢營收53.3億美元，分析師預期53.9億美元。\n預計全年營收按恆定匯率將增長4%-5%，公司原本預計大約增長5%。"
+    },
     {
       "id": "mkt:019f8b71-2650-7aab-8e51-8f46a2c34d60",
       "time": "2026-07-23 04:07:56",
@@ -11,6 +171,14 @@
         "Impact bullish"
       ],
       "text": "ALPHABET (GOOG.O): GEMINI app monthly active users (MAUs) reached 950 mln."
+    },
+    {
+      "id": "5003018",
+      "time": "2026-07-23 04:07:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet： Gemini 模型當前每分鐘可處理 220 億 API 令牌。"
     },
     {
       "id": "mkt:019f8b6f-aa5e-7aab-8e51-8437046b31eb",
