@@ -1,7 +1,61 @@
 {
   "date": "2026-07-23",
-  "count": 585,
+  "count": 591,
   "items": [
+    {
+      "id": "5003175",
+      "time": "2026-07-23 07:19:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特：CHARLIE DANKERT將接替卡爾·科擔任能源部幕僚長。"
+    },
+    {
+      "id": "5003174",
+      "time": "2026-07-23 07:18:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳交所表示，澳交所抵押品交易恢復正常運作。"
+    },
+    {
+      "id": "5003173",
+      "time": "2026-07-23 07:18:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部長賴特表示，能源部幕僚長卡爾·科將辭職。"
+    },
+    {
+      "id": "5003172",
+      "time": "2026-07-23 07:18:10",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【韓國經濟增速放緩，但晶片出口仍是主要增長引擎】韓國經濟在第一季度實現強勁增長後，第二季度增速有所放緩。不過，得益於晶片出口的強勁表現抵消了民間消費和建築投資的疲軟，該國經濟仍保持韌性。韓國央行週四公佈的初步資料顯示，繼第一季度錄得1.8%的修正後環比增幅後，韓國這個亞洲第四大經濟體在第二季度（4-6月）環比增長0.6%。與去年同期相比，第二季度經濟同比增長3.7%，前一季度修正後增幅為3.8%。最新的國內生產總值資料超出了市場預期。此前接受媒體調查的經濟學家預測，第二季度GDP將環比增長0.4%，同比增長3.4%。在人工智慧(AI)熱潮推動半導體需求強勁的背景下，出口仍是主要的增長引擎。韓國是儲存晶片製造商三星電子和SK海力士的大本營，這使其成為全球AI基礎設施建設熱潮中的主要受益者。第二季度，晶片和機械出口以及研發和軟體開發投資保持穩健增長，但民間消費走軟，建築投資出現萎縮。儘管第二季度經濟增長動能有所減弱，但分析師和決策者仍對今年剩餘時間由出口引領的增長前景保持樂觀。"
+    },
+    {
+      "id": "mkt:019f8c1d-81d8-7aab-8e54-6f77071914a0",
+      "time": "2026-07-23 07:16:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "【Musk: Micron (MU.O) supplied Tesla (TSLA.O) with \"large\" batch of memory chips】Tesla CEO Elon Musk said Micron Technology (MU.O) recently supplied Tesla (TSLA.O) with a \"large\" quantity of memory chips and that the transaction terms were \"very reasonable\" amid tight supply and elevated prices. Musk said he is pursuing long-term in‑house chip production via a program called \"Terafab\" to build compute and memory chips at scale, but for now Tesla remains reliant on Micron. He added that Tesla and SpaceX are not among Micron’s top 10 customers."
+    },
+    {
+      "id": "5003171",
+      "time": "2026-07-23 07:15:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普讚揚奈及利亞打擊針對基督徒暴力的努力。"
+    },
     {
       "id": "mkt:019f8c1c-8524-7aab-8e54-6617c258a1ed",
       "time": "2026-07-23 07:15:07",
