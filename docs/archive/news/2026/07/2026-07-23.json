@@ -1,7 +1,70 @@
 {
   "date": "2026-07-23",
-  "count": 3,
+  "count": 10,
   "items": [
+    {
+      "id": "mkt:019f8a93-6823-7aab-8e4d-6bd63e4d5dd7",
+      "time": "2026-07-23 00:05:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Former Venezuelan president Maduro arrived at a U.S. courthouse; a hearing is set to begin."
+    },
+    {
+      "id": "5002839",
+      "time": "2026-07-23 00:05:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國計劃打擊馬裡境內隸屬於基地組織的武裝團體JNIM（伊斯蘭與穆斯林支持者團體）。"
+    },
+    {
+      "id": "5002838",
+      "time": "2026-07-23 00:04:32",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "特朗普政府正在考量針對馬裡的軍事行動選項。"
+    },
+    {
+      "id": "5002837",
+      "time": "2026-07-23 00:03:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基今日與特朗普總統特使維特科夫、庫什納通話，雙方探討重啟外交斡旋以結束衝突的相關方案。"
+    },
+    {
+      "id": "mkt:019f8a91-1443-7aab-8e4d-6379e3faa38f",
+      "time": "2026-07-23 00:03:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bullish",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "AXIOS, citing sources, said ZELENSKIY spoke today with U.S. Middle East special envoy Witkoff and senior adviser Kushner about reviving diplomatic efforts to end the war."
+    },
+    {
+      "id": "5002836",
+      "time": "2026-07-23 00:03:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【Meta開發AI模型路由系統，分流任務降低編碼算力成本】Meta正在研發一套內部AI模型排程路由系統，可自動將簡易任務分配至成本更低的模型執行，以此削減程式碼開發相關算力開支。該專案隸屬於Meta全新AI內部孵化器，孵化器內目前有約200個在研專案。"
+    },
+    {
+      "id": "5002835",
+      "time": "2026-07-23 00:01:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉前總統馬杜羅抵達紐約法院出席聽證會。"
+    },
     {
       "id": "5002834",
       "time": "2026-07-23 00:01:24",
