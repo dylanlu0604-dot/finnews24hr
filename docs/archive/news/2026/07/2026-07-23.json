@@ -1,7 +1,46 @@
 {
   "date": "2026-07-23",
-  "count": 65,
+  "count": 69,
   "items": [
+    {
+      "id": "5002869",
+      "time": "2026-07-23 00:50:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：截至7月22日，與辣木葉粉有關的沙門氏菌疫情已波及38個州，共131人感染。"
+    },
+    {
+      "id": "5002868",
+      "time": "2026-07-23 00:48:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國軍方：截至7月22日，中央司令部已改變9艘商船航向，並使1艘商船喪失行動能力。"
+    },
+    {
+      "id": "mkt:019f8aba-b3f0-7aab-8e4e-1f54e63a32be",
+      "time": "2026-07-23 00:48:39",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "U.S. military: As of July 22, CENTCOM has rerouted nine commercial vessels and left one vessel unable to sail."
+    },
+    {
+      "id": "mkt:019f8ab9-8fbd-7aab-8e4e-116d9ad370e1",
+      "time": "2026-07-23 00:47:24",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Gulf Cooperation Council secretary-general said Iran’s actions have undermined international efforts to achieve stability and called on the UN Security Council and the international community to halt Iran’s aggression and attacks."
+    },
     {
       "id": "mkt:019f8ab8-ba6a-7aab-8e4e-0d420a985996",
       "time": "2026-07-23 00:46:29",
