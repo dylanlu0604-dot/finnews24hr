@@ -1,7 +1,53 @@
 {
   "date": "2026-07-22",
-  "count": 1206,
+  "count": 1211,
   "items": [
+    {
+      "id": "5001486",
+      "time": "2026-07-22 12:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "富瑞將雀巢評級從持有上調至買入；目標價從84瑞士法郎上調至99瑞士法郎。"
+    },
+    {
+      "id": "5001485",
+      "time": "2026-07-22 12:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯稱擊中了兩艘船和敖德薩港的燃料設施】俄羅斯國防部在社交媒體上表示，俄軍襲擊了敖德薩港兩艘過境船隻和港口基礎設施，這些設施用於解除安裝和儲存烏克蘭武裝部隊的軍用物資和燃料。據稱用於儲存軍用物資的敖德薩新郵政物流中心也遭到襲擊。"
+    },
+    {
+      "id": "mkt:019f882f-0560-7aab-8e3a-9463c946a186",
+      "time": "2026-07-22 12:56:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EQUINOR expects planned 2026 maintenance to cut output by about 35,000 barrels of oil equivalent per day (boe/d)."
+    },
+    {
+      "id": "mkt:019f882e-fac7-7aab-8e3a-8b0ddf481959",
+      "time": "2026-07-22 12:56:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shanghai Stock Exchange announced that, at the request of Invesco Great Wall Fund Management Co., trading in the Invesco Great Wall Global Semiconductor Chip Industry Equity Securities Investment Fund is suspended with immediate intraday effect for the remainder of the trading day on July 22, 2026."
+    },
+    {
+      "id": "5001484",
+      "time": "2026-07-22 12:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "桑坦德銀行第二季度利潤 35.18 億歐元，預計33.3億歐元。"
+    },
     {
       "id": "5001483",
       "time": "2026-07-22 12:55:25",

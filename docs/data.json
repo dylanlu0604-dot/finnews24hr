@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-22 12:56:12",
-  "count": 18020,
+  "updated": "2026-07-22 13:00:14",
+  "count": 18017,
   "items": [
+    {
+      "id": "5001486",
+      "time": "2026-07-22 12:59:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "富瑞將雀巢評級從持有上調至買入；目標價從84瑞士法郎上調至99瑞士法郎。"
+    },
+    {
+      "id": "5001485",
+      "time": "2026-07-22 12:58:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【俄羅斯稱擊中了兩艘船和敖德薩港的燃料設施】俄羅斯國防部在社交媒體上表示，俄軍襲擊了敖德薩港兩艘過境船隻和港口基礎設施，這些設施用於解除安裝和儲存烏克蘭武裝部隊的軍用物資和燃料。據稱用於儲存軍用物資的敖德薩新郵政物流中心也遭到襲擊。"
+    },
+    {
+      "id": "mkt:019f882f-0560-7aab-8e3a-9463c946a186",
+      "time": "2026-07-22 12:56:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "EQUINOR expects planned 2026 maintenance to cut output by about 35,000 barrels of oil equivalent per day (boe/d)."
+    },
+    {
+      "id": "mkt:019f882e-fac7-7aab-8e3a-8b0ddf481959",
+      "time": "2026-07-22 12:56:47",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Shanghai Stock Exchange announced that, at the request of Invesco Great Wall Fund Management Co., trading in the Invesco Great Wall Global Semiconductor Chip Industry Equity Securities Investment Fund is suspended with immediate intraday effect for the remainder of the trading day on July 22, 2026."
+    },
+    {
+      "id": "5001484",
+      "time": "2026-07-22 12:56:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "桑坦德銀行第二季度利潤 35.18 億歐元，預計33.3億歐元。"
+    },
     {
       "id": "5001483",
       "time": "2026-07-22 12:55:25",
@@ -165422,84 +165468,6 @@
         "國際"
       ],
       "text": "泰國旅遊部：今年迄今泰國入境外國遊客數量同比下降3.09%。"
-    },
-    {
-      "id": "4989119",
-      "time": "2026-07-15 13:00:11",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "【歐洲央行管委科赫爾：如有需要，隨時準備出臺貨幣政策行動】歐洲央行（ECB）科赫爾表示：歐洲央行將採取一切必要措施，在中期內將通脹回落至2%的目標水平。如有需要，隨時準備出臺貨幣政策行動。目前未看到第二輪效應。"
-    },
-    {
-      "id": "mkt:019f6425-2705-7aab-8d93-b0cbc1e21997",
-      "time": "2026-07-15 12:59:44",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Thailand's Ministry of Tourism said foreign visitor arrivals are down 3.09% year-to-date versus a year earlier."
-    },
-    {
-      "id": "mkt:019f6424-f73d-7aab-8d93-af31dee3ae42",
-      "time": "2026-07-15 12:59:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "ECB executive board member Kocher: currently no second-round effects observed."
-    },
-    {
-      "id": "mkt:019f6424-9360-7aab-8d93-a709586815b3",
-      "time": "2026-07-15 12:59:06",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB policymaker Kocher said she stands ready to take monetary policy action at any time if needed."
-    },
-    {
-      "id": "mkt:019f6424-6e8a-7aab-8d93-9ac476750550",
-      "time": "2026-07-15 12:58:56",
-      "tags": [
-        "MKT News",
-        "EURUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "ECB policymaker Kocher said the ECB will take necessary measures to ensure medium-term DISINFLATION to 2%."
-    },
-    {
-      "id": "4989118",
-      "time": "2026-07-15 12:58:42",
-      "tags": [
-        "宏觀",
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行科赫爾：如有需要，隨時準備出臺貨幣政策行動。"
-    },
-    {
-      "id": "4989116",
-      "time": "2026-07-15 12:57:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱更多油氣出口路線也會被關閉】伊朗半官方的塔斯尼姆通訊社報道稱，伊朗伊斯蘭革命衛隊表示，除了霍爾木茲海峽之外，美國“應該預料到其他服務於美國及其盟友利益的石油和天然氣出口路線也會被關閉”。伊朗伊斯蘭革命衛隊表示，霍爾木茲海峽將繼續關閉，直到美國停止襲擊。伊朗伊斯蘭革命衛隊稱，“該地區的石油和天然氣出口要麼對所有人開放，要麼對所有人關閉。”伊朗伊斯蘭革命衛隊稱，打擊了位於科威特、巴林和約旦的美國目標。"
-    },
-    {
-      "id": "mkt:019f6422-3bb9-7aab-8d93-922e0eb531d8",
-      "time": "2026-07-15 12:56:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【China, Thailand to co-build Thailand's first ion-trap quantum computer】Chulalongkorn University said on the 14th it will partner with Chinese institutions to build Thailand's first ion-trap quantum computer, aiming to deepen China–Thailand cooperation in quantum technology. The university launched a quantum research programme and said it will work with the University of Science and Technology of China (USTC) and Hefei Yaozheng Quantum Technology Co. to jointly develop an ion-trap quantum computing system."
     }
   ]
 }
