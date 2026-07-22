@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-23 01:51:01",
-  "count": 17662,
+  "updated": "2026-07-23 01:58:15",
+  "count": 17671,
   "items": [
+    {
+      "id": "mkt:019f8af9-998c-7aab-8e4f-430ad36107c5",
+      "time": "2026-07-23 01:57:21",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【US says Strait of Hormuz open but international commercial transit nearly halted】US officials maintain the Strait of Hormuz is open, but major international commercial shipping has effectively stopped. CENTCOM says Iran has attacked commercial vessels more than 30 times since the current round of hostilities began. Bahrain-based maritime information center data showed transits through the strait fell to a near three‑week low, with only three merchant ships tracked on Tuesday. Marisks’ CEO said US forces can provide only limited aerial cover and cannot guarantee safe passage, and shipowners and crews are largely unwilling to risk transit. Iran-backed Houthi threats to block Saudi exports via the Red Sea are extending shipping risk toward the Bab al‑Mandeb."
+    },
+    {
+      "id": "5002915",
+      "time": "2026-07-23 01:56:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "【摩薩德新局長訪美磋商伊朗戰事與核問題】以色列新任摩薩德局長羅曼·戈夫曼兩週前到訪華盛頓，就伊朗戰事與伊朗核計劃展開磋商。戈夫曼會見了美國中央情報局局長約翰·拉特克利夫及白宮官員，此行部分議程是協調美方就伊朗核協議開展談判的相關立場。此次訪問發生在霍爾木茲海峽緊張局勢升級、衝突再起前夕。"
+    },
+    {
+      "id": "mkt:019f8af7-4f9b-7aab-8e4f-3e24fb82c075",
+      "time": "2026-07-23 01:54:51",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "i24News reports Israeli Prime Minister Netanyahu is awaiting White House confirmation of a meeting with U.S. President Trump scheduled for next week; the trip may be canceled if confrontation with Iran escalates materially beforehand."
+    },
+    {
+      "id": "mkt:019f8af7-4bc5-7aab-8e4f-371892986f2f",
+      "time": "2026-07-23 01:54:50",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "SOXX.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【UNCTAD: Global trade expanded in 1H 2026 amid rising price pressures】UNCTAD said in its Global Trade Update released June 22 that global trade continued to expand in 1H 2026, but with rising price pressures and a more uneven pattern of growth. It estimates goods trade at about $13.7 trillion, up 12.5% YoY, and services trade up 10.5% YoY, with combined trade adding roughly $2 trillion and on track for an annual record. Strong demand for high‑tech goods—AI-related equipment, semiconductors and data‑centre infrastructure—was a key driver. UNCTAD cautioned that price pressures, geopolitical tensions and shifts in trade policy could weigh on future trade."
+    },
+    {
+      "id": "5002914",
+      "time": "2026-07-23 01:54:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "智利聖佩德羅德阿塔卡馬西南偏南61公里處發生5.1級地震。"
+    },
+    {
+      "id": "5002913",
+      "time": "2026-07-23 01:53:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國考慮在海域佈局核電站】特朗普政府正研究在聯邦管轄海域建設核電專案的可行性。美國內政部海洋礦產管理局與美國核管理委員會達成合作協議，旨在評估水下核電站能否合規落地。長灘港與美國運輸部簽署備忘錄，計劃針對商用船舶等場景測試小型模組化反應堆。"
+    },
+    {
+      "id": "5002912",
+      "time": "2026-07-23 01:52:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟委員會有條件批准派拉蒙天舞收購華納兄弟的交易】歐盟委員會有條件批准派拉蒙天舞收購華納兄弟的交易。批准的條件是派拉蒙天舞全面履行其提出的承諾。"
+    },
+    {
+      "id": "mkt:019f8af5-0fd0-7aab-8e4f-2f208c0e4cfb",
+      "time": "2026-07-23 01:52:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Ghalibaf: If Iran can’t sell oil, no one else will】Iranian parliament speaker Ghalibaf warned the conflict leaves no country uninvolved. He said in a region where Iran cannot sell oil, no one will be able to sell oil; if Iran’s security is not guaranteed, infrastructure will not be safe. He added the strait’s security must be predicated on the absence of US forces and that the strait will not return to pre-war conditions."
+    },
+    {
+      "id": "5002911",
+      "time": "2026-07-23 01:51:54",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "俄羅斯總統新聞秘書佩斯科夫稱，多地燃油供應形勢好轉，政府出臺的相關舉措已初見成效。"
+    },
+    {
+      "id": "5002910",
+      "time": "2026-07-23 01:50:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟外交官：歐盟各國大使未能就第21輪對俄製裁方案達成一致。"
+    },
     {
       "id": "te:economy:568953",
       "time": "2026-07-23 01:48:51",
@@ -161215,17 +161315,6 @@
         "Impact bearish"
       ],
       "text": "Fed Governor Cook said he is concerned about the risks from high inflation."
-    },
-    {
-      "id": "mkt:019f66ec-fa5b-7aab-8dae-0cee04179b64",
-      "time": "2026-07-16 01:57:14",
-      "tags": [
-        "MKT News",
-        "UBER.N",
-        "Impact bullish",
-        "DHER.DE"
-      ],
-      "text": "Financial Times: Uber (UBER.N) is nearing a €12.5 bln acquisition of food-delivery platform Delivery Hero, with an announcement possible as early as Thursday."
     }
   ]
 }
