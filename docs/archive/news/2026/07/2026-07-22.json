@@ -1,7 +1,1433 @@
 {
   "date": "2026-07-22",
-  "count": 1216,
+  "count": 1370,
   "items": [
+    {
+      "id": "mkt:019f887b-756e-7aab-8e3d-0ec4d48d3b41",
+      "time": "2026-07-22 14:20:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 index closed up 21.90 points, or 0.25%, at 8,815.20 on Wednesday, July 22."
+    },
+    {
+      "id": "5001590",
+      "time": "2026-07-22 14:20:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【張璐中國工商銀行邯鄲分行副行長任職資格獲批】7月22日，邯鄲金融監管分局釋出批覆，核准張璐中國工商銀行邯鄲分行副行長的任職資格。"
+    },
+    {
+      "id": "mkt:019f887a-905a-7aab-8e3d-058aa794017e",
+      "time": "2026-07-22 14:19:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【Pakistan asks US for $10bn bilateral FX-stabilization fund, sources say】Pakistan has asked US Treasury Secretary Bessent for a $10 billion bilateral exchange-rate stabilization fund, people familiar with the request said. The facility would run for up to five years and, if approved, would boost Pakistan’s reserves, ease pressure on the Pakistani rupee and reduce reliance on multilateral financing. The request follows Islamabad’s role in brokering Iran war-related talks, which raised hopes of economic concessions from Washington and other partners. Pakistan would implement tighter fiscal and monetary measures under an IMF program as part of the arrangement."
+    },
+    {
+      "id": "5001589",
+      "time": "2026-07-22 14:18:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "越南VN指數下跌3%至1678.28。"
+    },
+    {
+      "id": "5001588",
+      "time": "2026-07-22 14:18:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星光股份子公司中標2026年河南省產互聯EMC模式照明節能改造服務採購專案】近日，星光股份全資子公司廣東星光智慧城市科技有限公司中標“2026年河南省產互聯EMC模式照明節能改造服務採購”專案。"
+    },
+    {
+      "id": "5001587",
+      "time": "2026-07-22 14:18:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：鑑於近期局勢，與菲律賓的夥伴關係如今愈發重要。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607223817083686",
+      "time": "2026-07-22 14:17:00",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "【日本6月晶片出口激增53.8% 但石油進口大漲導致持續貿易逆差】本週三，日本財務省最新公佈的資料顯示，得益於半導體裝置出口和日元走弱，日本6月出口額增速達到2022年11月以來的最快水平，同比增長19.3%，不僅超出經濟學家們預測的18.6%，也高於5月份的16.8%。不過同時，在中東衝突持續、國際油價上漲的背景下，日本石油進口成本不斷增長，導致日本的貿易逆差繼續擴大。"
+    },
+    {
+      "id": "mkt:019f8877-6e42-7aab-8e3c-fd2860ac6c8e",
+      "time": "2026-07-22 14:15:56",
+      "tags": [
+        "MKT News",
+        "Important",
+        "07709.HK",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "Hong Kong storage names slid in the afternoon. Southern 2x Long Hynix (07709.HK) fell more than 3% after rising over 14% earlier in the session; SK Hynix turned negative at the close after gaining as much as 9% intraday."
+    },
+    {
+      "id": "mkt:019f8877-3792-7aab-8e3c-f26774bd4cb9",
+      "time": "2026-07-22 14:15:42",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "According to Iranian state media, Iran's military said it struck US targets at Jordan's Azraq base and Bahrain's Sheikh Isa Air Base."
+    },
+    {
+      "id": "5001584",
+      "time": "2026-07-22 14:15:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【ETF兩市成交額報5065.66億元，較昨日此時縮量609.54億元】截至目前，ETF兩市成交額報5065.66億元，較昨日此時縮量609.54億元，分型別來看，股票型ETF成交額2056.46億元，債券型ETF成交額1751.46億元，貨幣型ETF成交額205.55億元，商品型ETF成交額83.2億元，QDII型ETF成交額969.0億元。"
+    },
+    {
+      "id": "mkt:019f8876-ef36-7aab-8e3c-eab25ec2cd7e",
+      "time": "2026-07-22 14:15:23",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Sources say Pakistan sought $10 billion from the United States after mediating talks with Iran."
+    },
+    {
+      "id": "5001583",
+      "time": "2026-07-22 14:14:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【長電科技在上海成立芯微系統公司 註冊資本40億】天眼查App顯示，近日，長潤芯微系統（上海）有限公司成立，法定代表人為鄭力，註冊資本40億人民幣，經營範圍含積體電路銷售、積體電路晶片及產品銷售、積體電路晶片設計及服務、電力電子元器件銷售等。股東資訊顯示，該公司由長電科技管理有限公司全資持股。"
+    },
+    {
+      "id": "5001582",
+      "time": "2026-07-22 14:14:18",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股儲存概念午後下挫，南方兩倍做多海力士跌超3%，此前早盤漲超14%；SK海力士尾盤轉跌，早盤一度漲超9%。"
+    },
+    {
+      "id": "5001581",
+      "time": "2026-07-22 14:14:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗軍方稱其襲擊了位於約旦的阿茲拉克基地和巴林的謝赫伊薩空軍基地內的美國軍事目標。"
+    },
+    {
+      "id": "mkt:019f8875-7186-7aab-8e3c-e227638b0f73",
+      "time": "2026-07-22 14:13:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact mixed",
+        "WTI",
+        "Impact bearish"
+      ],
+      "text": "【UK June inflation falls more than expected as fuel prices slide】ONS data showed CPI rose 2.6% YoY in the 12 months to June, down from 2.8% and below the 2.7% economists' consensus. A sharp drop in oil on expectations of a resolution to the US‑Iran conflict pushed petrol and diesel prices lower; food and non‑alcoholic beverage costs also weighed. Services inflation, the Bank of England's key domestic gauge, slowed to 3.6% from 3.7%, slightly above forecasts. The relief may be temporary: the energy price cap is due to rise about 13% in July, which could nudge headline inflation back up. Markets largely expect the Bank of England to hold rates next week as it balances energy‑driven upside risk against a weak labour market and soft growth."
+    },
+    {
+      "id": "5001580",
+      "time": "2026-07-22 14:13:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數收盤上漲0.3%，至8823點。"
+    },
+    {
+      "id": "5001579",
+      "time": "2026-07-22 14:12:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流出超100億。"
+    },
+    {
+      "id": "5001578",
+      "time": "2026-07-22 14:12:17",
+      "tags": [
+        "市場"
+      ],
+      "text": "【銀行間主要利率債收益率快速下行】銀行間主要利率債收益率快速下行，30年期國債“26超長特別國債04”收益率下行2.2bp報2.2245%，10年期國債“26附息國債10”收益率下行1bp報1.7240%。"
+    },
+    {
+      "id": "mkt:019f8873-fcc9-7aab-8e3c-d979ebcd2d67",
+      "time": "2026-07-22 14:12:10",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "ACCC has proposed a draft determination to implement the settlement between Google (GOOG.O) and Epic Games in their ongoing legal dispute in Australia."
+    },
+    {
+      "id": "te:economy:568752",
+      "time": "2026-07-22 14:12:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Core Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "UK Core Inflation Stays at 2.6%, Tops Estimates — The UK's annual core inflation rate held steady at 2.6% in June 2026, matching May's reading and remaining at its highest level since March. The latest figure came in slightly above market expectations of 2.5%, despite easing price pressures in both core goods (1.7% vs. 2.0% in May) and core services (3.6% vs. 3.7%). On a monthly basis, core consumer prices rose 0.3%, unchanged from May, staying at the softest monthly increase since January."
+    },
+    {
+      "id": "5001577",
+      "time": "2026-07-22 14:11:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內跌幅達1.04%，成分股中，則成電子跌8.34%，納科諾爾跌6.27%，艾融軟體跌6.07%，鼎智科技跌4.38%。"
+    },
+    {
+      "id": "mkt:019f8872-d676-7aab-8e3c-d2531f4fca5b",
+      "time": "2026-07-22 14:10:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Students' News Agency (ISNA) reported an individual convicted on charges related to January protests has been executed."
+    },
+    {
+      "id": "mkt:019f8872-7d8d-7aab-8e3c-c89ef5bd4470",
+      "time": "2026-07-22 14:10:32",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share power sector gained after choppy trade. Jiuzhou Group jumped over 13% and Jiawei New Energy rose more than 12%; Xinneng, Huadian Liaoning Energy and Shimao Energy hit daily limit-ups. Huadian Energy climbed about 9%; Leshan Power, Huayin Power, Hainan Development and Disen also advanced."
+    },
+    {
+      "id": "5001576",
+      "time": "2026-07-22 14:10:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty金融服務指數下跌1.1%。"
+    },
+    {
+      "id": "5001575",
+      "time": "2026-07-22 14:09:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "澳大利亞競爭與消費者委員會（ACCC）擬批准谷歌與Epic Games的授權申請，有效期至2032年9月30日。上述條款涉及谷歌可能向開發者收取的Google Play服務費及其他相關費用。"
+    },
+    {
+      "id": "te:economy:568749",
+      "time": "2026-07-22 14:09:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Inflation Rate",
+        "Importance 2"
+      ],
+      "text": "UK Inflation Eases More Than Expected — The annual inflation rate in the UK eased to 2.6% in June 2026 from 2.8% in May, slowing more than the expected decline to 2.7%. This marked the lowest reading since March 2025, driven by moderating transport inflation (5.7% vs. 6.8% in May), with the largest downward contribution coming from motor fuels, particularly diesel. The average price of diesel fell by 10.7 pence per litre between May and June. Food inflation also cooled to 1.7%, the lowest since August 2024, from 2.2%, with the main downward contributions coming from sugar, jam, syrups, chocolate, and confectionery. On a monthly basis, consumer prices rose 0.1%, in line with forecasts, following a 0.2% increase in May."
+    },
+    {
+      "id": "5001574",
+      "time": "2026-07-22 14:09:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國襲擊伊朗西部的ABDANAN和CHOVAR。"
+    },
+    {
+      "id": "mkt:019f8871-543c-7aab-8e3c-c71e3b6e6ad2",
+      "time": "2026-07-22 14:09:16",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "According to Iran’s Fars news agency, a Bushehr provincial official said two explosions occurred in the province this morning as a result of a US strike."
+    },
+    {
+      "id": "5001573",
+      "time": "2026-07-22 14:09:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宇樹科技王興興：具身智慧的“ChatGPT時刻”有望最快在兩三年內到來】據世界網際網路大會訊息，以“智匯絲路 數啟新程——攜手構建網路空間命運共同體”為主題的2026年世界網際網路大會數字絲路發展論壇，7月22日在陝西西安舉行開幕式，宇樹科技創始人兼執行長王興興出席開幕式併發言。過去幾年，人形機器人從行走到舞蹈、功夫格鬥到簡單服務進步飛速。王興興認為，具身智慧的“ChatGPT時刻”有望最快在兩三年內到來：屆時機器人在大部分陌生場景，也能直接工作實現很多基本功能。因此大家要根據自己的實際情況提前做好各種計劃和安排，從而把握智慧時代的新機遇。"
+    },
+    {
+      "id": "mkt:019f8871-067e-7aab-8e3c-babb7213f51c",
+      "time": "2026-07-22 14:08:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Yushu Technology CEO Wang: embodied‑AI 'ChatGPT moment' could arrive within two to three years】Yushu Technology founder and CEO Wang Xingxing told the World Internet Conference Digital Silk Road forum in Xi'an on July 22 that an embodied‑intelligence \"ChatGPT moment\" could arrive as soon as two to three years. He pointed to rapid advances in humanoid robots—from walking to dancing, martial arts and simple services—and said robots should soon be able to perform many basic tasks in unfamiliar environments, urging stakeholders to plan now to capture the opportunity."
+    },
+    {
+      "id": "5001572",
+      "time": "2026-07-22 14:08:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【地平線攜手大眾汽車集團深化AI合作】地平線與大眾汽車集團正式宣佈，透過CARIAD與地平線的合資公司酷睿程 (CARIZON) ，大眾汽車集團將進一步深化與地平線在AI基座大模型領域的技術合作。根據協議，酷睿程將基於白盒授權模式，依託地平線先進的AI基座大模型能力，自主開發並加速構建大眾汽車集團中國統一的AI駕駛解決方案。地平線的AI基座大模型將與酷睿程在研的系統級晶片C7H以及GAIA世界模型資料平臺緊密協同，全面賦能大眾汽車集團L3和L4級自動駕駛能力落地，併為未來乘用車和自動駕駛計程車 (Robotaxi) 的應用場景奠定堅實的技術底座，同時也將推動量產的全場景高階駕駛輔助方案持續迭代升級。"
+    },
+    {
+      "id": "5001571",
+      "time": "2026-07-22 14:08:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國空襲伊朗西部阿布達南和喬瓦爾。"
+    },
+    {
+      "id": "5001570",
+      "time": "2026-07-22 14:08:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【國債期貨漲幅擴大 30年期主力合約漲0.45%】國債期貨漲幅擴大，30年期主力合約漲0.45%，10年期主力合約漲0.09%，5年期主力合約漲0.05%，2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "5001569",
+      "time": "2026-07-22 14:08:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "MSCI新興市場股票基準指數抹去了漲幅。"
+    },
+    {
+      "id": "mkt:019f8870-25f6-7aab-8e3c-b22646222267",
+      "time": "2026-07-22 14:07:58",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "【Market analysis: low economic literacy may weaken Reserve Bank of Australia rate hike effectiveness】A Reserve Bank of Australia (RBA) survey of about 9,000 people found Australians rank high inflation above housing affordability, interest rates and wages as their top concern. The survey reported widespread misunderstanding of monetary transmission: many respondents do not link interest-rate levels to returning inflation to the RBA’s 2-3% target band and many wrongly believe higher borrowing costs push up consumer prices. It said this knowledge gap could, in some cases, blunt the effect of monetary tightening."
+    },
+    {
+      "id": "te:economy:568748",
+      "time": "2026-07-22 14:07:54",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Producer Prices Change",
+        "Importance 1"
+      ],
+      "text": "UK Producer Inflation at 3-Month Low of 3.5% — Factory gate prices for UK-manufactured goods increased 3.5% year-on-year in June 2026, easing from a downwardly revised 3.7% growth in May, marking the softest increase in three months. Eight of the 10 product groups made upward contributions to the annual rate, led by a surge in prices of coke and refined petroleum products (43.0% vs 53.1% in May) amid higher energy costs. Inflation also accelerated for other manufactured products (4.2% vs 3.9% in May) and basic metals, fabricated metal products, and machinery (4.9% vs 4.2%). Meanwhile, motor vehicles and other transport equipment made the largest downward contribution, with prices falling 1.9%, followed by food products, where prices declined 0.7%. On a monthly basis, factory gate prices were unchanged, following a downwardly revised 0.3% rise in May and falling short of market forecasts for a 0.4% increase."
+    },
+    {
+      "id": "5001568",
+      "time": "2026-07-22 14:07:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "港股騰訊跌幅擴大至逾6%。"
+    },
+    {
+      "id": "5001567",
+      "time": "2026-07-22 14:07:29",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "【蘋果iPhone18系列已量產】7月22日，從產業鏈人士處獲悉，進入7月，蘋果iPhone18系列手機已在量產，正處於產能爬坡階段。據悉，目前，蘋果iPhone代工組裝廠商富士康已進入招工高峰期。（中證報）"
+    },
+    {
+      "id": "5001566",
+      "time": "2026-07-22 14:07:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【玻纖板塊震盪走弱，中國巨石跌停】玻纖板塊震盪走弱，中國巨石跌停，金安國紀、國際復材、中材科技、長海股份、平安電工、卓郎智慧等跟跌。"
+    },
+    {
+      "id": "mkt:019f886f-8b38-7aab-8e3c-aa6794a9aa31",
+      "time": "2026-07-22 14:07:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "2317.TW"
+      ],
+      "text": "【Apple iPhone 18 enters mass production; Foxconn hiring peak】Supply-chain sources on July 22 said Apple’s iPhone 18 series entered mass production in July and is in a capacity ramp-up phase. iPhone assembler Foxconn has begun a peak recruitment drive."
+    },
+    {
+      "id": "mkt:019f886f-6ea2-7aab-8e3c-a5ffebf6a8f2",
+      "time": "2026-07-22 14:07:11",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite",
+        "CNH"
+      ],
+      "text": "CSI 500 index futures (IC) front-month contract down over 1.00% intraday, trading at 7597.4."
+    },
+    {
+      "id": "5001565",
+      "time": "2026-07-22 14:06:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證500指數期貨連續主力合約日內跌1%，現報7605.00點。"
+    },
+    {
+      "id": "mkt:019f886e-a65d-7aab-8e3c-9c52a390b937",
+      "time": "2026-07-22 14:06:20",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "South Korea's KOSPI pared intraday gains to 1%."
+    },
+    {
+      "id": "5001564",
+      "time": "2026-07-22 14:06:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數日內漲幅收窄至1%。"
+    },
+    {
+      "id": "mkt:019f886e-948e-7aab-8e3c-94890e2d1ad6",
+      "time": "2026-07-22 14:06:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SZSE Component",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China's ChiNext and STAR 50 indexes both fell more than 3%; semiconductor sector showed pockets of weakness."
+    },
+    {
+      "id": "5001563",
+      "time": "2026-07-22 14:06:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國品牌在歐洲插電式混合動力車銷量中佔比超過三分之一】據Dataforce分析師的資料，比亞迪和奇瑞汽車等中國製造商在6月歐洲插電式混合動力汽車交付量中的佔比創下34%的紀錄新高。與此同時，中國品牌在純電動汽車和非插電式混合動力汽車銷量中的份額基本持平。"
+    },
+    {
+      "id": "5001562",
+      "time": "2026-07-22 14:06:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，中控技術跌8.6％，生益電子跌7.8％，九號公司跌7.8％，佰維儲存跌7.1％。"
+    },
+    {
+      "id": "5001561",
+      "time": "2026-07-22 14:05:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌3.01%，現報3575.165點；上證指數跌0.18%，現報3857.407點；深證成指跌1.48%，現報14053.360點。"
+    },
+    {
+      "id": "5001560",
+      "time": "2026-07-22 14:04:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "雲創退盤中漲停，上演“地天板”，成交額超2400萬元。"
+    },
+    {
+      "id": "mkt:019f886d-00bb-7aab-8e3c-885b4737eb33",
+      "time": "2026-07-22 14:04:32",
+      "tags": [
+        "MKT News",
+        "GBPUSD"
+      ],
+      "text": "GBP/USD intra-session rallied 15 pips to 1.3388."
+    },
+    {
+      "id": "5001559",
+      "time": "2026-07-22 14:04:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠科股份等成立高分子材料公司 註冊資本13.5億元】企查查APP顯示，近日，綿陽惠聚高分子材料有限公司成立，法定代表人為何育霖，註冊資本為13.5億元，經營範圍包含光電子器件製造；電力電子元器件製造；光電子器件銷售；電子專用材料製造；電子專用材料銷售等。企查查股權穿透顯示，該公司由惠科股份(001399)、綿陽安億廣成產業園管理有限公司共同持股。"
+    },
+    {
+      "id": "mkt:019f886b-bce1-7aab-8e3c-854bff4b8ff3",
+      "time": "2026-07-22 14:03:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "【Commerzbank: UK inflation data to set bond-market tone; oil still focus】Commerzbank rates strategist Hauke Siemssen said expected slowing UK inflation should set the tone for bond markets this morning, while oil remains the dominant driver. Ongoing US–Iran strikes and Houthi threats to Red Sea shipping have lifted Brent crude back to $92/bbl, prompting a bearish market tone. Siemssen said a decline in this morning’s UK inflation reading would likely produce a milder market backdrop."
+    },
+    {
+      "id": "mkt:019f886b-8731-7aab-8e3c-7a127162990b",
+      "time": "2026-07-22 14:02:56",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "UK National Grid data show Heysham units 1 and 2 have resumed grid-connected generation after an outage."
+    },
+    {
+      "id": "5001558",
+      "time": "2026-07-22 14:01:21",
+      "tags": [
+        "資料",
+        "市場"
+      ],
+      "text": "英鎊兌美元在英國CPI資料公佈後小幅上漲，報1.3383。"
+    },
+    {
+      "id": "em:jjsj_ygsj:202607223817144224",
+      "time": "2026-07-22 14:00:56",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國6月居民消費價格指數同比上漲2.6%，市場預期為上漲2.7%。"
+    },
+    {
+      "id": "5001557",
+      "time": "2026-07-22 14:00:53",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國6月CPI年率 2.6%，預期2.7%，前值2.80%。"
+    },
+    {
+      "id": "mkt:019f8869-8920-7aab-8e3c-7321e6bfa58f",
+      "time": "2026-07-22 14:00:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UK core Retail Prices Index (RPI) YoY 2.9% in June, down from 3.0% previously."
+    },
+    {
+      "id": "mkt:019f8869-775d-7aab-8e3c-6cb11ec0e5b6",
+      "time": "2026-07-22 14:00:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK core CPI m/m (June) 0.3% vs 0.2% expected; prior 0.3%."
+    },
+    {
+      "id": "5001556",
+      "time": "2026-07-22 14:00:40",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國6月零售物價指數月率 0.3%，預期0.3%，前值0.20%。"
+    },
+    {
+      "id": "mkt:019f8869-72c0-7aab-8e3c-67e39b65dbec",
+      "time": "2026-07-22 14:00:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "GBPUSD"
+      ],
+      "text": "UK June CPI month-on-month 0.1% (expected 0.1%), prior 0.2%."
+    },
+    {
+      "id": "mkt:019f8869-7179-7aab-8e3c-5a02a6a23104",
+      "time": "2026-07-22 14:00:39",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK June core CPI YoY 2.6% vs 2.5% expected; May 2.6%."
+    },
+    {
+      "id": "mkt:019f8869-7023-7aab-8e3c-4fa676171a13",
+      "time": "2026-07-22 14:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK June Retail Price Index (RPI) m/m 0.3%, consensus 0.3%, prior 0.2%."
+    },
+    {
+      "id": "mkt:019f8869-6ca4-7aab-8e3c-432ef2bd84d1",
+      "time": "2026-07-22 14:00:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK June unadjusted core output PPI MoM 0.5%; May revised to 0.7% from 0.8%."
+    },
+    {
+      "id": "mkt:019f8869-608b-7aab-8e3c-3f8294ac9f58",
+      "time": "2026-07-22 14:00:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK June retail price index (RPI) YoY 3.0%; expected 3.0%, prior 3.1%."
+    },
+    {
+      "id": "mkt:019f8869-7039-7aab-8e3c-5584aa7e841c",
+      "time": "2026-07-22 14:00:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "FTSE100",
+        "Impact mixed"
+      ],
+      "text": "UK June CPI YoY 2.6%, below consensus 2.7% and down from May's 2.8%."
+    },
+    {
+      "id": "5001555",
+      "time": "2026-07-22 14:00:32",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國6月CPI月率 0.1%，預期0.1%，前值0.20%。"
+    },
+    {
+      "id": "mkt:019f8869-501b-7aab-8e3c-2901d8655cc1",
+      "time": "2026-07-22 14:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish"
+      ],
+      "text": "UK June unadjusted output PPI m/m 0.0% (consensus -0.4%); May revised to 0.3% from 0.5%."
+    },
+    {
+      "id": "mkt:019f8869-3a3c-7aab-8e3c-2385b1b2981d",
+      "time": "2026-07-22 14:00:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD"
+      ],
+      "text": "UK unadjusted core output PPI YoY 2.6% in June, up from 2.3% previously."
+    },
+    {
+      "id": "mkt:019f8869-5087-7aab-8e3c-376c146d0d4e",
+      "time": "2026-07-22 14:00:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK input PPI (not seasonally adjusted) June MoM -2.0% vs -0.6% expected; May revised to +0.6% from +0.2%."
+    },
+    {
+      "id": "mkt:019f8869-36f2-7aab-8e3c-1a7bbf81f789",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK June unadjusted output PPI YoY 3.5% (consensus 3.5%); May revised to 3.7% from 4.0%."
+    },
+    {
+      "id": "mkt:019f8869-366f-7aab-8e3c-124149736a84",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK unadjusted input PPI YoY for June 7.3% vs 8.6% expected; prior reading revised to 9.3% from 8.7%."
+    },
+    {
+      "id": "mkt:019f8869-26b2-7aab-8e3c-0f974889dc52",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Retail Price Index (YoY) (Jun) | actual 2.9% | previous 3.00%"
+    },
+    {
+      "id": "mkt:019f8869-258e-7aab-8e3c-0173e827d5a8",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (YoY) (Jun) | actual 3% | consensus 3% | previous 3.10%"
+    },
+    {
+      "id": "mkt:019f8869-258d-7aab-8e3b-fdd40d0e8a37",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Retail Price Index (MoM) (Jun) | actual 0.3% | consensus 0.3% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019f8869-258c-7aab-8e3b-f75d5a203d91",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (MoM) (Jun) | actual 0.1% | consensus 0.1% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019f8869-258b-7aab-8e3b-eaf55a653c38",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (YoY) (Jun) | actual 2.6% | consensus 2.5% | previous 2.60%"
+    },
+    {
+      "id": "mkt:019f8869-258a-7aab-8e3b-e472b9d92563",
+      "time": "2026-07-22 14:00:19",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core CPI (MoM) (Jun) | actual 0.3% | consensus 0.2% | previous 0.3%"
+    },
+    {
+      "id": "mkt:019f8869-139f-7aab-8e3b-d90c00fcfe7c",
+      "time": "2026-07-22 14:00:15",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CPI (YoY) (Jun) | actual 2.6% | consensus 2.7% | previous 2.80%"
+    },
+    {
+      "id": "mkt:019f8869-01a0-7aab-8e3b-d37abb96028b",
+      "time": "2026-07-22 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (MoM) (Jun) | actual 0.5% | previous 0.8%"
+    },
+    {
+      "id": "mkt:019f8869-0158-7aab-8e3b-caa66d2a0d59",
+      "time": "2026-07-22 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Core Output PPI (Unadjusted) (YoY) (Jun) | actual 2.6% | previous 2.3%"
+    },
+    {
+      "id": "mkt:019f8868-ffa1-7aab-8e3b-c2f49bfeb5d9",
+      "time": "2026-07-22 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (MoM) (Jun) | actual 0% | consensus -0.4% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019f8868-fee3-7aab-8e3b-b94ea9f58c50",
+      "time": "2026-07-22 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (MoM) (Jun) | actual -2% | consensus -0.6% | previous 0.20%"
+    },
+    {
+      "id": "mkt:019f8868-fee2-7aab-8e3b-b4bc228b0935",
+      "time": "2026-07-22 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Input PPI (Unadjusted) (YoY) (Jun) | actual 7.3% | consensus 8.6% | previous 8.70%"
+    },
+    {
+      "id": "mkt:019f8868-fee1-7aab-8e3b-ab38489d0fd5",
+      "time": "2026-07-22 14:00:10",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | Output PPI (Unadjusted) (YoY) (Jun) | actual 3.5% | consensus 3.5% | previous 4.00%"
+    },
+    {
+      "id": "5001554",
+      "time": "2026-07-22 13:59:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "雲創退盤中漲停，上演“地天板”，現報1.3元，成交額2341.16萬元。"
+    },
+    {
+      "id": "5001553",
+      "time": "2026-07-22 13:59:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海華瑞銀行五年期定存重新上架 利率逆勢上調至2%】上海華瑞銀行工作人員稱，該行重啟五年期定期存款產品發售。據該行微信小程式顯示，“臻選五年期產品”存款利率2%，起存金額1000元，單戶持倉限額為300萬元。值得一提的是，今年以來上海華瑞銀行已兩度下調存款掛牌利率，五年期定存利率先後於3月1日降至1.95%、4月14日降至1.90%。目前該行一年期、兩年期、三年期定存掛牌利率分別為1.50%、1.90%、1.95%，且均有在售，實際利率與掛牌利率一致。本次重新上架的五年期定期存款產品利率反而高於此前下調後的水平。該行工作人員提示：“該產品隨時可能售罄，此前曾上線一天即下架，當前若可見入口即可正常購買。” (中證金牛座)"
+    },
+    {
+      "id": "5001552",
+      "time": "2026-07-22 13:59:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蔚來ES8完成第13萬臺新車交付】7月22日，蔚來ES8第130,000臺新車在浙江金華完成交付。2026年1-6月，蔚來ES8零售銷量累計達78,618臺。"
+    },
+    {
+      "id": "5001551",
+      "time": "2026-07-22 13:58:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7020.40點。"
+    },
+    {
+      "id": "mkt:019f8867-3e81-7aab-8e3b-a3c68f2952a3",
+      "time": "2026-07-22 13:58:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's president said relations with Damascus should be founded on a basis that ought to have existed all along."
+    },
+    {
+      "id": "mkt:019f8867-05d2-7aab-8e3b-9b0aec80ddaf",
+      "time": "2026-07-22 13:58:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanese president says reconstruction plan will be fully state-led."
+    },
+    {
+      "id": "mkt:019f8866-c8b2-7aab-8e3b-92240467adef",
+      "time": "2026-07-22 13:57:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's president said only a unified state and a single army can secure the country and restore unity. If the occupation ends and the Lebanese army assumes full control, Hezbollah could be disarmed."
+    },
+    {
+      "id": "5001550",
+      "time": "2026-07-22 13:57:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中物聯發出“反內卷”倡議 引導規範採購行業發展】中國物流與採購聯合會今天（22日）在第七屆國有企業數智化採購與供應鏈大會上發出“科學採購、反對內卷，全面提升採購價值創造能力”倡議，倡導行業競爭從“比價格”向“比價值、比質量、比創新”轉變，為行業規範發展提供有益引導。據介紹，當前部分企業在採購環節簡單把降本增效等同於壓低採購價格，容易形成競相降價的市場迴圈，壓縮企業研發投入，也會產生產品品質相關風險隱患。圍繞構建價值導向的採購環境，倡議提出六項自律方向——堅持優質優價、誠信合作、互利共贏；清除各類交易門檻，維護公平競爭環境；做好採購前期統籌，為產品創新保留合理盈利空間；最佳化評審標準，減少單純以低價定標的做法；規範保證金、貨款結算流程，緩解供應商資金壓力；加強行業協同自律，減少無序低價競爭。倡議同時提出，要依託數智化手段推動行業提質，並建議國有企業發揮示範作用，推行全生命週期綜合成本採購、遵守契約約定，帶動行業形成良性有序的競爭氛圍。"
+    },
+    {
+      "id": "5001549",
+      "time": "2026-07-22 13:57:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【重慶山體崩塌巨石新一輪爆破成功】據“彭水釋出”，根據深度救援需要，彭水山體崩塌巨石新一輪爆破成功。"
+    },
+    {
+      "id": "mkt:019f8865-5641-7aab-8e3b-8d97b3429f0c",
+      "time": "2026-07-22 13:56:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Santander CIB: Euro-area short-end rates likely to trade in range】Santander CIB global head of economics Antonio Garcia Pascual says euro-area short-term rates are likely to trade within a confined range. Markets price the ECB deposit rate around 2.50–2.75%; Pascual says the range should remain stable provided oil prices stay within the ECB’s mild and baseline scenarios. Santander CIB sees tactical opportunities to go long the short end at current market levels. The ECB raised rates 25bp in June to a 2.25% deposit rate; markets expect policy to be left unchanged at Thursday’s decision."
+    },
+    {
+      "id": "mkt:019f8862-736d-7aab-8e3b-8622bb351dfe",
+      "time": "2026-07-22 13:53:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【CMA CGM to levy emergency fuel surcharge after Strait of Hormuz tensions escalate】CMA CGM said on its website it will impose an emergency fuel surcharge from Aug 1 after hostilities in the Strait of Hormuz escalated and pushed fuel prices sharply higher, reversing a recent easing trend. The surcharge will be $65–$165 per container across all regions and routes and will remain in effect until further notice."
+    },
+    {
+      "id": "5001548",
+      "time": "2026-07-22 13:52:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "傑富瑞將3M目標價從175美元上調至191美元。"
+    },
+    {
+      "id": "5001547",
+      "time": "2026-07-22 13:51:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【峰飛航空與順豐簽署低空運輸合作框架協議 將落地適配海上風電產業的專屬低空運維方案】7月22日，2026國際低空經濟博覽會開幕首日，峰飛航空與順豐正式簽署低空運輸合作框架協議。根據協議內容，雙方將率先落地適配海上風電產業的專屬低空運維方案，針對性解決遠海風電場離岸距離遠、物資人員運輸響應慢、風機巡檢效率不足等行業難題。透過聚焦海上能源設施運維、大件物流、海島及遠海運輸等核心應用場景，共同研發標準化低空運輸與智慧運維解決方案，搭建行業可複製、規模化落地的海空一體化服務標杆。"
+    },
+    {
+      "id": "5001546",
+      "time": "2026-07-22 13:50:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "兆易創新A股成交額達300億元，現跌0.22%。"
+    },
+    {
+      "id": "5001545",
+      "time": "2026-07-22 13:50:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "何小鵬：民航局適航司今日正式公示《首批民用載人eVTOL適航審定合規企業名錄》，本次名錄正式納入小鵬匯天航空科技有限公司等4家國內主流載人eVTOL主機企業。"
+    },
+    {
+      "id": "5001544",
+      "time": "2026-07-22 13:49:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "達飛海運集團(CMA CGM)：將自8月1日起徵收緊急燃油附加費，以應對霍爾木茲海峽緊張局勢再度升級。該附加費標準為每集裝箱65至165美元不等，將持續實施直至另行通知。"
+    },
+    {
+      "id": "5001543",
+      "time": "2026-07-22 13:48:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【網傳“北京或將推出郊區專屬號牌” 相關部門回應】就“郊區專屬號牌”傳聞，記者撥打了北京市小客車數量調控政策諮詢電話，北京市交通委簡訊回覆：北京自2011年實施小客車調控，有效控制機動車增速，服務治堵與大氣治理，政策仍具備持續實施的必要性。主管部門多次最佳化調控細則，完善指標分配機制。按照現行規定，指標依靠搖號、積分排序等方式發放，普通搖號設定多重隨機機制，中籤結果存在隨機性。下一步，將充分考慮市民的合理出行需求和道路交通、環境承載能力，持續科學最佳化政策，不斷提高公共交通特別是綠色交通服務水平，努力構建不依賴小汽車也能便利出行的城市交通體系。（央視新聞）"
+    },
+    {
+      "id": "5001542",
+      "time": "2026-07-22 13:46:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【協鑫能科新設科技公司 含多項AI業務】企查查APP顯示，近日，蘇州協鑫拓肯科技有限公司成立，法定代表人為費智，註冊資本為5000萬元，經營範圍包含雲端計算裝備技術服務；人工智慧基礎軟體開發；人工智慧應用軟體開發；人工智慧公共資料平臺等。企查查股權穿透顯示，該公司由協鑫能科(002015)旗下無錫協鑫元極科技有限公司及蘇州協鑫鑫元科技有限公司共同持股。"
+    },
+    {
+      "id": "5001541",
+      "time": "2026-07-22 13:45:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【煤炭板塊再度活躍 大有能源衝擊漲停】煤炭板塊再度活躍，大有能源衝擊漲停，安泰集團、鄭州煤電、新大洲A等股漲幅靠前。"
+    },
+    {
+      "id": "te:markets:568744",
+      "time": "2026-07-22 13:44:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "NZX 50 Ends 0.8% Higher as Consumer Stocks Rally — The NZX 50 advanced 107 points, or 0.8%, to close at 13,763 on Wednesday, hitting its highest level since July 9 and erasing losses from the previous session, mainly supported by gains in consumer discretionary, materials, healthcare, and financial stocks. Consumer discretionary surged 3.8%, buoyed by SkyCity Entertainment, which jumped 12.8% following upgraded earnings forecasts and positive revenue reports. Meanwhile, My Food Bag Group gained 3.6%. Traders shrugged off Wednesday's data, which showed that New Zealand's inflation rate accelerated to the highest level since Q4 2023 in the second quarter (Q2). However, persistently high oil prices capped the gains as inflation concerns fueled expectations of further interest rate hikes, while RBNZ Chief Economist Paul Conway recently warned that sticky inflation could prompt further monetary policy tightening. Among the other top performers were Fisher & Paykel (1.8%), Ryman Healthcare (1.8%), Infratil (1.5%), and A2 Milk (1.3%)."
+    },
+    {
+      "id": "5001540",
+      "time": "2026-07-22 13:43:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【三夫戶外：今年會加快線下渠道的拓展】三夫戶外7月21日接受機構調研時表示，公司線下線上銷售渠道協同發展。公司今年會加快線下渠道的拓展，上半年，公司直營門店已經新開業6家，其中HOUDINI北京西紅門薈聚店於4月1日開業，4月30日X-BIONIC、HOUDINI、Klattermusen北京首創奧萊三家店同時開業，6月5日三夫戰術北京首創奧萊店開業、6月28日北京798X-BIONIC戰術戶外原點店開始營業，後續還會有北京藍色港灣、哈爾濱西城紅場、長春歐亞賣場店、瀋陽永珍城、上海青浦奧萊等新店落地或擴店計劃。公司在門店選址上，注重當地經濟水平、戶外運動成熟度及消費認知度，現階段門店在華北、東北地區較為集中。"
+    },
+    {
+      "id": "5001539",
+      "time": "2026-07-22 13:41:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大皇家銀行將通用汽車目標價從94美元上調至100美元。"
+    },
+    {
+      "id": "5001538",
+      "time": "2026-07-22 13:40:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國內首顆定量高光譜智算衛星成功入軌】2026年7月22日10時54分，由西安中科西光航天科技集團有限公司全自主研製的國內首顆定量高光譜智算衛星——“西光貳號01星（彩雲高光譜01星）”，搭載引力一號遙四運載火箭在我國東海海域成功發射入軌。該星是中科西光航天為雲南省地質礦產勘查開發局深度定製開發的首顆衛星，也是雲南地礦“彩雲星座”系列的首顆高光譜衛星。同時也是中科西光航天與之江實驗室開啟戰略合作後，集高光譜定量遙感技術突破與在軌實時智慧處理於一體的首顆AI算力衛星。"
+    },
+    {
+      "id": "5001537",
+      "time": "2026-07-22 13:39:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華潤置地等成立文化體育發展公司】企查查APP顯示，近日，深圳市潤荷文化體育發展有限公司成立，法定代表人為蘭小軍，註冊資本為1500萬元，經營範圍包含商業綜合體管理服務；文化娛樂經紀人服務；組織體育表演活動；創業空間服務；體育保障組織等。企查查股權穿透顯示，該公司由華潤置地控股有限公司旗下華潤文化體育發展有限公司、深圳市南山文化體育產業有限公司共同持股。"
+    },
+    {
+      "id": "5001536",
+      "time": "2026-07-22 13:39:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【沃蘭特牽頭設立總規模3億元戰略投資基金】在7月22日開幕的2026國際低空經濟博覽會上，沃蘭特宣佈牽頭設立總規模3億元戰略投資基金，由政府、企業、市場化資本三方聯合出資，重點投資上下游配套企業與商業化應用場景，現已落地邊界智控、松正航空等專案。"
+    },
+    {
+      "id": "5001535",
+      "time": "2026-07-22 13:39:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【報告：過度押注人形機器人可能帶來產業資源錯配】7月22日，普華永道中國宣佈成立人工智慧研究院，並同步釋出首批核心研究成果《2026年智慧機器人產業發展白皮書》。白皮書認為，人形機器人的核心價值在於場景獨特性，而非對其他形態的全面替代。未來3—4年，單一的人形機器人形態無法適配全場景作業需求，過度押注可能帶來產業資源錯配與非理性發展。到2030年，三類機器人將形成清晰分工、長期共存的穩定格局。"
+    },
+    {
+      "id": "5001534",
+      "time": "2026-07-22 13:38:38",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【伊朗稱襲擊美國亞馬遜公司在巴林的資料基礎設施】據伊朗塔斯尼姆通訊社22日報道，伊朗武裝部隊襲擊了位於巴林的美國亞馬遜公司中央資料基礎設施，稱該設施是美軍軍事資訊交換關鍵站點之一。（新華社）"
+    },
+    {
+      "id": "5001533",
+      "time": "2026-07-22 13:38:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【AI應用端逆勢活躍 國安股份直線漲停】午後AI應用端逆勢活躍，國安股份直線漲停，此前北投科技漲停，綠盟科技漲超10%，國子軟體、奇安信、亞信安全、三六零等跟漲。"
+    },
+    {
+      "id": "5001532",
+      "time": "2026-07-22 13:37:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達50億港元。"
+    },
+    {
+      "id": "5001531",
+      "time": "2026-07-22 13:36:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "中際旭創成交額達300億元，現跌4.10%。"
+    },
+    {
+      "id": "5001530",
+      "time": "2026-07-22 13:35:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【三星擬投資AI初創公司Mistral數億歐元】據報道，韓國三星電子正就向AI初創公司Mistral投資數億歐元進行談判，該輪融資有望將Mistral估值推至約200億歐元（約合228.1億美元）。報道稱，三星在此輪融資中的投資額可能約為10億歐元。"
+    },
+    {
+      "id": "5001529",
+      "time": "2026-07-22 13:35:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數收高1.3%報44,825.78。"
+    },
+    {
+      "id": "5001528",
+      "time": "2026-07-22 13:33:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【石油天然氣板塊持續走強 首華燃氣漲超6%】石油天然氣板塊午後持續走強，首華燃氣漲超6%，和順石油、中國海油、華錦股份等股跟漲。"
+    },
+    {
+      "id": "5001527",
+      "time": "2026-07-22 13:33:44",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "深證成指跌1.01%，現報14119.701點；上證指數跌0.10%，現報3860.427點；創業板指跌2.39%，現報3598.030點。"
+    },
+    {
+      "id": "5001526",
+      "time": "2026-07-22 13:33:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科創50ETF華夏成交額突破100億】科創50ETF華夏（588000）成交額連續第四個交易日突破100億，截至發稿時間該ETF跌2.43%。"
+    },
+    {
+      "id": "5001525",
+      "time": "2026-07-22 13:32:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達2.12%，成分股中，中控技術跌8.22%，九號公司跌8.18%，生益電子跌6.22%，佰維儲存跌5.90%。"
+    },
+    {
+      "id": "5001524",
+      "time": "2026-07-22 13:31:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國Kospi指數最新報6,887.4點，漲幅收窄至2.1%。"
+    },
+    {
+      "id": "5001523",
+      "time": "2026-07-22 13:28:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【玻璃玻纖板塊午後走低 中國巨石跌超7%】玻璃玻纖板塊午後走低，中國巨石跌超7%，中材科技、國際復材、旗濱集團等股跟跌。"
+    },
+    {
+      "id": "5001522",
+      "time": "2026-07-22 13:28:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2萬億元，較上日此時縮量3122億元。"
+    },
+    {
+      "id": "5001521",
+      "time": "2026-07-22 13:28:06",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "花旗集團將諾華目標價從132瑞士法郎上調至142瑞士法郎。"
+    },
+    {
+      "id": "5001520",
+      "time": "2026-07-22 13:27:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【儲存晶片概念震盪回落 德明利逼近跌停】午後儲存晶片概念震盪回落，德明利逼近跌停，江波龍、佰維儲存、西測測試、北京君正、普冉股份等跟跌。"
+    },
+    {
+      "id": "5001519",
+      "time": "2026-07-22 13:26:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【機構：歐洲央行料在9月預期加息後按兵不動】富蘭克林鄧普頓歐洲固定收益主管David Zahn在一份報告中表示，該機構的基本預測是歐洲央行將在9月進行最後一次加息，預計未來幾個季度通脹率將保持在歐洲央行2%的目標之上。此後，預計歐洲央行將按兵不動，以評估已經實施的緊縮政策的影響。不過，Zahn說，歐洲央行仍然高度以經濟資料為依據。“如果海灣地區緊張局勢重燃推高能源價格，並使通脹率在更長時間內高於目標水平，決策者可能會被迫考慮進一步加息。“富蘭克林鄧普頓預計歐洲央行將在2027年開始放鬆政策。歐洲央行在6月份加息了25個基點，預計本週將按兵不動。"
+    },
+    {
+      "id": "5001518",
+      "time": "2026-07-22 13:26:29",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌2.00%，現報3612.084點；上證指數漲0.06%，現報3866.826點；深證成指跌0.73%，現報14159.867點。"
+    },
+    {
+      "id": "5001517",
+      "time": "2026-07-22 13:26:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國綜合指數漲幅收窄；最新漲2.3%，報6902.01點。"
+    },
+    {
+      "id": "5001516",
+      "time": "2026-07-22 13:26:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "山德士：將繼續關注事態發展，與相關利益方保持溝通。"
+    },
+    {
+      "id": "5001515",
+      "time": "2026-07-22 13:25:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "山德士：仍需進一步明確（美國仿製藥關稅）措施的實施細節和範圍。"
+    },
+    {
+      "id": "5001514",
+      "time": "2026-07-22 13:25:46",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生科技指數跌超3％，恒生指數現跌1.05％。"
+    },
+    {
+      "id": "5001513",
+      "time": "2026-07-22 13:24:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "東山精密成交額達200億元，現漲0.04%。"
+    },
+    {
+      "id": "5001512",
+      "time": "2026-07-22 13:24:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "新易盛成交額超200億元，現跌3.69%。"
+    },
+    {
+      "id": "5001511",
+      "time": "2026-07-22 13:24:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【港股PCB概念股快速走低，建滔積層板跌超16%】港股PCB概念股快速走低，建滔積層板跌超16%，建滔集團跌10%，鼎泰高科跌近6%。"
+    },
+    {
+      "id": "5001510",
+      "time": "2026-07-22 13:24:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度清潔能源部長：正在制定用新型大功率風機替換老舊風力渦輪機的相關規定。"
+    },
+    {
+      "id": "5001509",
+      "time": "2026-07-22 13:24:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "山德士（Sandoz）：現在評估美國關稅對仿製藥的影響還為時尚早。"
+    },
+    {
+      "id": "5001508",
+      "time": "2026-07-22 13:22:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威國家石油公司首席財務官：必須做好應對石油市場劇烈波動的準備。"
+    },
+    {
+      "id": "5001507",
+      "time": "2026-07-22 13:22:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經225指數下跌0.1%，抹去了早盤漲幅。"
+    },
+    {
+      "id": "5001506",
+      "time": "2026-07-22 13:21:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "新加坡富時海峽時報指數扭轉跌勢；最新上漲0.3%，報5540.83點。"
+    },
+    {
+      "id": "5001505",
+      "time": "2026-07-22 13:20:13",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威國家石油公司 (EQUINOR) ：對歐洲天然氣市場進入冬季的前景“非常不確定”。"
+    },
+    {
+      "id": "5001504",
+      "time": "2026-07-22 13:19:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭無人機部隊指揮官稱，過去48小時內烏克蘭無人機在黑海和亞速海擊中13艘俄羅斯船隻。"
+    },
+    {
+      "id": "5001503",
+      "time": "2026-07-22 13:19:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "挪威國家石油公司（EQUINOR）稱，歐洲天然氣市場處於“脆弱境地”。"
+    },
+    {
+      "id": "5001502",
+      "time": "2026-07-22 13:18:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "Equinor首席財務官：歐洲天然氣市場目前處境脆弱。"
+    },
+    {
+      "id": "5001501",
+      "time": "2026-07-22 13:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數漲幅收窄至2.6%。"
+    },
+    {
+      "id": "5001500",
+      "time": "2026-07-22 13:15:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【國泰航空預計上半年利潤大增 強勁的客貨運需求抵消了油價衝擊】國泰航空預計上半年利潤大幅增長，強勁的客運和貨運需求幫助該公司消化了美伊戰爭引發的油價衝擊。國泰航空週三在香港交易所公告稱，預計上半年利潤約為60億至65億港元，高於上年同期的約37億港元。國泰航空所持中國國際航空股權進一步被稀釋，持股比例從15.05%降至12.85%，由此產生的14億港元收益也提振了業績。伊朗戰爭導致中東地區航空出行受阻後，旅客改走其他路線並選擇替代航空公司，國泰航空成為最大受益者之一。與其他航空公司一樣，國泰航空也在承受伊朗衝突導致航空燃油成本急升的壓力。該公司已對30%的航空燃油需求進行套期保值，同時向客運和貨運客戶徵收燃油附加費，這些措施有助於緩解油價衝擊。"
+    },
+    {
+      "id": "5001499",
+      "time": "2026-07-22 13:12:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本一火山22年來首次噴發】今天（7月22日）上午，日本北海道的十勝嶽火山噴發。雖然只是極小規模，火山灰噴出約200米高，但這是十勝嶽自2004年以來首次噴發。日本氣象廳繼續維持噴發警戒等級2級，呼籲民眾警惕火山口約1.5公里範圍內可能出現的大型火山噴石。據悉，此次噴發還伴隨持續約45秒的火山性微動，同時還觀測到“空振”（即由噴發引起的空氣振動或空氣衝擊波）。"
+    },
+    {
+      "id": "5001498",
+      "time": "2026-07-22 13:10:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【耐克回應終止滔搏線上合作：正在開發由本地團隊主導的全新零售概念】耐克集團副總裁、大中華區總經理申凱希以署名文章形式表示，耐克正聚焦戰略採取行動，從數字渠道開始重塑市場生態。自2027年1月起，耐克將以天貓、京東和抖音的官方旗艦店以及Nike官方網站和App為核心，重新打造在中國的數字市場生態。“這些全新的官方旗艦店將成為耐克在這些平臺生態中的統一購物入口，並以更加清晰的產品呈現，更加動人的品牌敘事和更加完整的消費旅程為消費者帶來體驗升級。”申凱希證實，作為數字市場調整的一部分，除部分授權合作伙伴外，目前由合作伙伴運營並銷售耐克產品的線上店鋪，將逐步停止銷售耐克產品。申凱希透露，也正在開發由本地團隊主導的全新零售概念，並將在未來六個月推向市場。此外，還將持續加強與本地社群的連線——推出更多本地活動，投入區域團隊建設。"
+    },
+    {
+      "id": "5001497",
+      "time": "2026-07-22 13:09:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人保：截至6月底集團共承擔保險責任金額2046萬億元，同比增長14.9%】7月22日，中國人民保險集團在京召開2026年半年工作會議。據中國人民保險集團介紹，截至6月底，集團共承擔保險責任金額2046萬億元，同比增長14.9%。"
+    },
+    {
+      "id": "5001496",
+      "time": "2026-07-22 13:08:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航運資料顯示21日沒有油輪或液化天然氣船透過霍爾木茲海峽】航運資料分析公司凱普勒的資料顯示，21日僅有3艘大宗商品船透過霍爾木茲海峽，少於20日的4艘。資料顯示，21日當天沒有監測到任何超大型油輪或液化天然氣運輸船透過該海峽。（央視新聞）"
+    },
+    {
+      "id": "5001493",
+      "time": "2026-07-22 13:06:04",
+      "tags": [
+        "市場"
+      ],
+      "text": "A股PCB概念股表現活躍，興森科技、賢豐控股午後漲停，紅板科技此前封板，江南新材、大族鐳射、景旺電子、金祿電子漲超5%。"
+    },
+    {
+      "id": "5001492",
+      "time": "2026-07-22 13:06:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【浙江加快打造人工智慧創新發展高地】目前，浙江已備案上線大模型90個，居全國前列。通義千問（Qwen）、深度求索（DeepSeek）等大模型綜合效能穩居全球權威評測榜單第一梯隊，並持續引領全球開源生態。 算力，是人工智慧的基礎設施。 近日，中國移動長三角（嘉善）智算中心完成首批驗收交付。該智算中心投運後將承接滬蘇浙皖算力需求，為長三角地區打造高效能算力叢集提供硬核基礎，有力支撐地方產業數字化轉型升級和人工智慧產業集聚發展。 從全省來看，浙江已投運算力193 EFLOPS，規模居全國前列。目前，浙江正統籌推進全省算力基礎設施建設，構建以杭州、嘉興為核心，寧波、溫州、台州、金華等多點支撐的算力格局。 省級層面正加快打造全省統一的算力監測排程平臺，搭建公共普惠算力池，推動算力向中小企業、科研機構開放共享，讓更多主體用得上、用得起高效能算力。（浙江日報）"
+    },
+    {
+      "id": "5001491",
+      "time": "2026-07-22 13:05:49",
+      "tags": [
+        "宏觀",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【光大期貨：金銅油共振走高，黃金波動加劇】宏觀方面，美聯儲議息會議前開始進入靜默期，市場焦點放在美伊衝突方面，昨日美總統明確給美伊會談的前景潑冷水，稱伊朗想會談但美國“沒興趣”，並將“很快”重擊鎬山核設施。另外，美國貿易代表格里爾暗示，美國將很快出臺新的關稅政策以替代即將到期的10%全球進口關稅。美伊再次爆發衝突以來，金價在通脹和利率預期反覆交易的背景下情緒並未持續悲觀，反而重心開始上移，或表明市場對下半年黃金的交易邏輯在逐漸發生轉變，但能否持續需進一步觀察，短期建議仍以防禦為主應對高波動環境。投資者需持續關注美伊衝突、美聯儲政策預期以及利率抬升預期下海外金融市場是否觸發流動性風險等。（光大期貨）"
+    },
+    {
+      "id": "5001490",
+      "time": "2026-07-22 13:04:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢市釋出暴雨紅色預警】武漢市氣象臺2026年7月22日13時1分升級暴雨預警訊號為紅色：過去3小時中心城區武昌片區、東湖高新部分街道已出現30毫米降水，預計未來3小時，上述街道及周邊仍將有50-70毫米降水，累計雨量可達100毫米，城鄉積澇、地質災害、中小河流洪水風險極高，請特別加強防範。"
+    },
+    {
+      "id": "5001489",
+      "time": "2026-07-22 13:03:41",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指跌1.00%，現報3648.983點；上證指數漲0.24%，現報3873.810點；深證成指漲0.09%，現報14277.159點。"
+    },
     {
       "id": "mkt:019f8834-2dd6-7aab-8e3a-ac9a921d02df",
       "time": "2026-07-22 13:02:28",
