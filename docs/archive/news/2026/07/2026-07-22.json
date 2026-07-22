@@ -1,7 +1,133 @@
 {
   "date": "2026-07-22",
-  "count": 2161,
+  "count": 2174,
   "items": [
+    {
+      "id": "mkt:019f894d-43d0-7aab-8e44-a46d12e44aab",
+      "time": "2026-07-22 18:09:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P expects ongoing official financing will support Pakistan in meeting its external obligations."
+    },
+    {
+      "id": "mkt:019f894d-1fe5-7aab-8e44-9e704ebd63cb",
+      "time": "2026-07-22 18:09:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "S&P says Pakistan's outlook is stable, reflecting expectations that an improved institutional environment will support economic reforms."
+    },
+    {
+      "id": "5002148",
+      "time": "2026-07-22 18:09:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【地質災害黃色預警：河北安徽湖北等地部分地區發生災害風險較高】自然資源部與中國氣象局7月22日18時聯合釋出黃色地質災害氣象風險預警：預計，7月22日20時至23日20時，河北中東部、安徽西部、湖北東部、廣西北部和西南部、雲南東南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。"
+    },
+    {
+      "id": "mkt:019f894c-e98a-7aab-8e44-920e57c238c5",
+      "time": "2026-07-22 18:09:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "S&P Global Ratings upgraded Pakistan's sovereign credit rating to \"B\"; outlook stable."
+    },
+    {
+      "id": "mkt:019f894c-afa3-7aab-8e44-8e32781927da",
+      "time": "2026-07-22 18:08:51",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Companies said Russian attacks on energy infrastructure in Ukraine's northern Chernihiv region cut power to more than 100,000 users."
+    },
+    {
+      "id": "5002147",
+      "time": "2026-07-22 18:08:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "相關企業表示，俄羅斯襲擊能源設施導致烏克蘭北部切爾尼戈夫地區超過10萬名使用者斷電。"
+    },
+    {
+      "id": "mkt:019f894b-e107-7aab-8e44-87be6cf1e739",
+      "time": "2026-07-22 18:07:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Brent"
+      ],
+      "text": "Russia launched attacks on the southern Ukrainian city of Odesa."
+    },
+    {
+      "id": "5002146",
+      "time": "2026-07-22 18:07:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 訊息稱敖德薩遭到俄方襲擊。"
+    },
+    {
+      "id": "5002145",
+      "time": "2026-07-22 18:06:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "SK海力士(SKHY.O)：並未尋求收購英特爾(INTC.O)位於俄亥俄州的土地及製造工廠，也未就此作出任何決定。"
+    },
+    {
+      "id": "mkt:019f894a-dcbd-7aab-8e44-79e19eb6035b",
+      "time": "2026-07-22 18:06:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O"
+      ],
+      "text": "SK Hynix (SKHY.O) said it has not sought to acquire Intel's (INTC.O) land and manufacturing plant in Ohio and has made no decision on the matter."
+    },
+    {
+      "id": "5002144",
+      "time": "2026-07-22 18:06:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【金橙子：控股股東一致行動人及5%以上股東變更註冊地址】金橙子公告稱，公司近日收到控股股東的一致行動人、持股5%以上股東東臺金誠至技術服務中心（有限合夥）通知，其已完成註冊地址變更手續並領取新執照，變更後註冊地址為東臺市梁垛鎮臨塔機電產業園園區路2號115室。此次變更不涉及該股東持股情況變化，對公司經營無影響，也不會導致控股股東及實控人變更。"
+    },
+    {
+      "id": "5002143",
+      "time": "2026-07-22 18:06:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "SK海力士：作為公司業務的一部分，正持續評估各類投資與併購機會。"
+    },
+    {
+      "id": "mkt:019f894a-0623-7aab-8e44-76b925b0de11",
+      "time": "2026-07-22 18:05:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【Shanghai strengthens R&D of deep‑sea oil and gas, far‑offshore wind and other deep‑sea energy equipment】Shanghai municipal marine bureau issued the Shanghai Marine Development \"15th Five‑Year Plan\", directing policy support to cultivate deep and far‑offshore resource industries. The plan prioritizes R&D for deep‑sea oil and gas development equipment, far‑offshore wind power hardware and advance deployment of maritime nuclear‑powered commercial vessels. It calls for development of core deep‑sea mining vessels and mining vehicles, accelerated marine carbon capture and utilization research including marine carbon sequestration mechanisms and sink‑enhancement techniques, and the formation of integrated deep‑sea innovation industries leveraging deep‑submergence, deep‑drilling, deep‑sea networking and polar capabilities. The plan also targets accelerated breakthroughs in deep‑sea sensors, long‑range communications and navigation technologies."
+    },
     {
       "id": "5002142",
       "time": "2026-07-22 18:05:34",
