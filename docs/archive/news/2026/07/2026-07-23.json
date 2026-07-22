@@ -1,7 +1,146 @@
 {
   "date": "2026-07-23",
-  "count": 313,
+  "count": 325,
   "items": [
+    {
+      "id": "5003014",
+      "time": "2026-07-23 04:03:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet：安全解決方案需求旺盛；全新 Gemini 3.5 Flash Cyber 前沿模型具備超高價效比效能。"
+    },
+    {
+      "id": "mkt:019f8b6c-9d43-7aab-8e51-583cf25adaa6",
+      "time": "2026-07-23 04:02:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O): Google advertising revenue in fiscal 2026 Q2 was $81.63 bln, versus $81.129 bln expected."
+    },
+    {
+      "id": "5003013",
+      "time": "2026-07-23 04:02:47",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "Alphabet：2026財年Q2谷歌雲業務收入為248億美元，市場預期223.45億美元。2026財年Q2營收1198億美元，去年同期964.28億美元，市場預期1168.56億美元。"
+    },
+    {
+      "id": "mkt:019f8b6c-409b-7aab-8e51-563a11a66638",
+      "time": "2026-07-23 04:02:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOGL.O) fiscal 2026 Q2 revenue $119.8 bln, up from $96.4 bln year-ago; market expected $116.9 bln."
+    },
+    {
+      "id": "mkt:019f8b6c-31ed-7aab-8e51-49b74a3d9331",
+      "time": "2026-07-23 04:02:31",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O): Google Cloud revenue in fiscal 2026 Q2 was $24.8 bln, versus market estimate $22.345 bln."
+    },
+    {
+      "id": "mkt:019f8b6b-bb15-7aab-8e51-46ee33037eb3",
+      "time": "2026-07-23 04:02:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "S&P500",
+        "Impact bearish",
+        "Nasdaq100",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【US close: major indexes slightly lower; SpaceX falls over 6%】US equities closed slightly lower on Wednesday: Dow off 0.01% (prelim), S&P 500 down 0.14%, Nasdaq down 0.57%. SpaceX (SPCX.O) tumbled 6.7% to a record closing low. NVIDIA (NVDA.O) rose 2.3%, SK Hynix (SKHY.O) fell 3.8%, Super Micro (SMCI.O) gained nearly 20%, and Dell (DELL.N) jumped 9%. Nasdaq Golden Dragon China index slid 1.8%; NetEase (NTES.O) fell more than 6%."
+    },
+    {
+      "id": "5003012",
+      "time": "2026-07-23 04:01:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "德州儀器二季度營收54.6億美元，分析師預期52.4億美元。"
+    },
+    {
+      "id": "mkt:019f8b6b-3c61-7aab-8e51-382e14282cbd",
+      "time": "2026-07-23 04:01:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "President Trump said oil prices will fall sharply; although some prices remain elevated, oil has already begun to retreat."
+    },
+    {
+      "id": "mkt:019f8b6a-b9ac-7aab-8e51-3183f4fbab13",
+      "time": "2026-07-23 04:00:55",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "CENTCOM said the IRGC navy’s claim today that it controls approaches to the Strait of Hormuz and that international crews must use IRGC-designated routes is false."
+    },
+    {
+      "id": "5003011",
+      "time": "2026-07-23 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.01%，標普500指數跌0.14%，納指跌0.57%。GEV跌8.50%，現在服務跌6.47%，PTC Inc.跌6.34%，工時公司跌6.20%，Palantir Technologies跌6.10%。“七姐妹”方面：英偉達漲2.30%，蘋果跌0.55%，亞馬遜跌1.09%，谷歌跌1.22%，特斯拉跌1.30%，微軟跌1.86%，Meta Platforms跌2.60%。"
+    },
+    {
+      "id": "5003010",
+      "time": "2026-07-23 04:00:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：布魯克菲爾德將從黑石集團收購電池企業 AYPA。"
+    },
+    {
+      "id": "5003009",
+      "time": "2026-07-23 04:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌1.82%】網易跌6.45%，小鵬汽車跌3.60%，Tims中國跌3.41%，康迪車業跌3.19%，嗶哩嗶哩跌3.15%。"
+    },
     {
       "id": "5003008",
       "time": "2026-07-23 03:59:05",
