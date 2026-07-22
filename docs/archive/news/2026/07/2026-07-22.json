@@ -1,7 +1,53 @@
 {
   "date": "2026-07-22",
-  "count": 1185,
+  "count": 1190,
   "items": [
+    {
+      "id": "5001472",
+      "time": "2026-07-22 12:43:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普宣佈兩年後對仿製藥徵收100%關稅 對中國醫藥出口影響如何】有從事中國醫藥國際合作研究人士對記者表示，現階段中國醫藥對美出口仍以原料藥為主，創新藥則主要以服務貿易方式為主，仿製藥出口相對份額靠後。“應該看到，全球市場特別是美國醫藥市場對華原料藥依賴難以短期替代，否則會導致藥價暴漲和短缺。但對於對美出口的仿製藥產品亦帶來一定壓力，雖然短期可控，但中長期承壓。” 該人士亦認為，美國加稅政策的實施存在時間差以及變數，從時間差看，政策預設2026年8月1日起兩年期滿後才計劃徵收，給企業下一步應對留下緩衝時間。從變數看，政策可能隨美國內政局搖擺。（第一財經）"
+    },
+    {
+      "id": "mkt:019f8821-13b0-7aab-8e3a-667635ccc268",
+      "time": "2026-07-22 12:41:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "9984.T"
+      ],
+      "text": "SoftBank will begin operating a new information platform that ingests articles from news media and publishers and processes them into datasets for generative AI."
+    },
+    {
+      "id": "5001471",
+      "time": "2026-07-22 12:41:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【潤澤科技在內蒙古成立科技發展公司 註冊資本1億元】企查查APP顯示，近日，內蒙古潤智科技發展有限公司成立，法定代表人為李笠，註冊資本為1億元，經營範圍包含資料處理和儲存支援服務；資料處理服務；資訊科技諮詢服務；資訊系統整合服務；基礎電信業務等。企查查股權穿透顯示，該公司由潤澤科技(300442)間接全資持股。"
+    },
+    {
+      "id": "5001470",
+      "time": "2026-07-22 12:41:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "【騰訊Miora全量上線】7月22日，騰訊宣佈Miora全量上線。據介紹，Miora是一個有記憶、能理解需求、能呼叫多智慧體（Agent）協作的AI創意智慧體。"
+    },
+    {
+      "id": "mkt:019f8820-ca0f-7aab-8e3a-5ce5bb186221",
+      "time": "2026-07-22 12:41:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tencent",
+        "0700.HK"
+      ],
+      "text": "【Tencent announces full rollout of Miora】Tencent announced a full rollout of Miora, an AI creative agent described as memory-enabled, able to understand user needs and orchestrate multi-agent collaboration."
+    },
     {
       "id": "5001468",
       "time": "2026-07-22 12:37:00",
