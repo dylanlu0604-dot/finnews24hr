@@ -1,7 +1,89 @@
 {
-  "updated": "2026-07-23 05:02:29",
-  "count": 17664,
+  "updated": "2026-07-23 05:06:22",
+  "count": 17669,
   "items": [
+    {
+      "id": "mkt:019f8ba5-553a-7aab-8e52-628b885219b5",
+      "time": "2026-07-23 05:04:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact mixed"
+      ],
+      "text": "Alphabet's CFO said the company expects capital spending to rise significantly in 2027."
+    },
+    {
+      "id": "5003059",
+      "time": "2026-07-23 05:04:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet： TPU 銷售協議帶來的大部分收入將在 2027 財年確認入賬。"
+    },
+    {
+      "id": "mkt:019f8ba5-1aa4-7aab-8e52-5de3ed06ae1c",
+      "time": "2026-07-23 05:04:40",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Trump predicts U.S. federal government may shut down in September】On July 22 President Trump said he expects a federal government shutdown in September amid GOP-Democratic disputes over spending priorities. On July 21 the Republican-controlled House passed a continuing resolution to fund agencies through Dec. 4 to avoid a pre-midterm shutdown; the bill has been sent to the Senate. Senate Republican leaders are negotiating with Democrats and may propose an alternative short-term funding plan. If Congress does not enact funding, most federal agency appropriations expire at midnight on Sept. 30, the end of the fiscal year."
+    },
+    {
+      "id": "5003057",
+      "time": "2026-07-23 05:04:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：預計美聯邦政府在9月將出現“停擺”】當地時間7月22日，美國總統特朗普在佐治亞州發表演講時提及，由於共和黨和民主黨在支出優先事項上存在分歧，9月份將出現聯邦政府“停擺”。當地時間7月21日，由共和黨控制的美國眾議院透過一項短期撥款法案，將為聯邦政府機構提供資金至12月4日，以避免政府在11月中期選舉前因資金耗盡而“停擺”。這項臨時撥款措施又稱“持續撥款決議”。法案透過後將提交參議院審議。目前，參議院共和黨領導人正在與民主黨展開談判，並考慮提出自己的短期撥款方案。如果國會未能及時透過撥款法案，大多數聯邦政府機構和專案的資金將於9月30日午夜、即本財年結束時到期。（央視新聞）"
+    },
+    {
+      "id": "5003056",
+      "time": "2026-07-23 05:03:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet： 第三方算力將給利潤率帶來小幅承壓。"
+    },
+    {
+      "id": "te:economy:568962",
+      "time": "2026-07-23 05:02:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Argentina Economic Activity Growth Slows — Argentina's economic activity rose 0.2% year-on-year in May 2026, following an upwardly revised 1.7% increase in April. Eight of the fifteen sectors surveyed posted annual growth. The strongest performances came from mining and quarrying, which expanded 15.7%, followed by utilities (8.0%). Agriculture, livestock, hunting, and forestry also increased 4.6% from a year earlier. Meanwhile, seven sectors contracted. The sharpest decline was recorded in fishing, down 29.3%, followed by manufacturing (-5.6%) and wholesale and retail trade and repair services (-4.3%). On a monthly basis, the Monthly Economic Activity Estimate fell 0.5% from April."
+    },
+    {
+      "id": "5003055",
+      "time": "2026-07-23 05:02:43",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "Alphabet：仍預計 2027 財年資本開支將實現 “大幅” 增長。"
+    },
+    {
+      "id": "5003054",
+      "time": "2026-07-23 05:02:26",
+      "tags": [
+        "市場"
+      ],
+      "text": "【金價漲超1%，重返4100美元上方，紐約銅跌1%】週三（7月22日）紐約尾盤，現貨黃金漲1.31%，報4130.07美元/盎司，全天處於上漲狀態，北京時間08:00、20:57先後出現加速上漲，23:52重新整理日高至4166.05美元。COMEX黃金期貨漲1.46%，報4135.90美元/盎司。現貨白銀漲1.55%，報59.7171美元/盎司，22:04重新整理日高至60.9270美元。COMEX白銀期貨漲1.35%，報59.990美元/盎司。COMEX銅期貨跌1.00%，報6.4870美元/磅，整體持續走低。現貨鉑金漲0.90%，現貨鈀金漲1.05%。"
+    },
     {
       "id": "mkt:019f8ba2-3e8c-7aab-8e52-56a8a704c9f0",
       "time": "2026-07-23 05:01:33",
@@ -161300,34 +161382,6 @@
         "國際"
       ],
       "text": "美國與伊拉克將宣佈總額600億美元的商業合作協議，特朗普調整美伊關係重心，由軍事層面轉向經貿領域。"
-    },
-    {
-      "id": "4990773",
-      "time": "2026-07-16 05:06:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【King Street對旗下對沖基金贖回設限】King Street Capital Management告知客戶，公司正大幅限制旗下主要對沖基金的贖回，並把希望退出的投資者轉入一個單獨載體，由後者逐步出售資產。這隻已有31年曆史的基金因業績平淡、客戶流失以及資深員工離職而處境艱難。目前其管理規模不足80億美元，低於十多年前的200億美元。King Street此舉“將使我們能夠有序管理和清算資產，並在最具吸引力的退出時點變現頭寸，”61歲的創始人Brian Higgins週三在致投資者信中寫道。"
-    },
-    {
-      "id": "4990770",
-      "time": "2026-07-16 05:03:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿根廷在世界盃半決賽中以2-1擊敗英格蘭。"
-    },
-    {
-      "id": "mkt:019f6797-0e93-7aab-8db0-aaca85e4e478",
-      "time": "2026-07-16 05:03:00",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran reports US strikes; shells hit near pediatric cancer hospital in Ahvaz】Iranian state media reported explosions in Konarak (Sistan and Baluchestan) and Bandar Abbas (Hormozgan) late on July 15 into early July 16 after what they described as the US military’s second round of strikes in one day. Iranian state TV said multiple shells struck the vicinity of a pediatric cancer hospital in Ahvaz (Khuzestan); the hospital has begun a temporary evacuation and has contacted parents to remove patients."
     }
   ]
 }
