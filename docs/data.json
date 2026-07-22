@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-23 04:36:26",
-  "count": 17661,
+  "updated": "2026-07-23 04:40:26",
+  "count": 17663,
   "items": [
+    {
+      "id": "mkt:019f8b8e-2bc8-7aab-8e52-0c6965b3076e",
+      "time": "2026-07-23 04:39:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOE said a U.S.-Saudi cooperation agreement will be submitted to Congress for review."
+    },
+    {
+      "id": "5003038",
+      "time": "2026-07-23 04:39:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊：世界盃期間谷歌搜尋使用量創下歷史峰值。"
+    },
+    {
+      "id": "5003037",
+      "time": "2026-07-23 04:38:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：美沙合作協議將提交美國國會審議。"
+    },
+    {
+      "id": "mkt:019f8b8c-df4a-7aab-8e52-06db4c9b2448",
+      "time": "2026-07-23 04:38:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOE says U.S.-Saudi cooperation will expand U.S. nuclear technology exports."
+    },
+    {
+      "id": "5003036",
+      "time": "2026-07-23 04:37:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "德州儀器：汽車業務在二季度加速。"
+    },
+    {
+      "id": "mkt:019f8b8b-8df4-7aab-8e51-fd5d62299ba4",
+      "time": "2026-07-23 04:36:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "DOE: Agreement lays foundation for a decades-long, multibillion-dollar partnership to advance priority economic and strategic goals, including nuclear non-proliferation."
+    },
+    {
+      "id": "5003035",
+      "time": "2026-07-23 04:36:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國能源部：相關協議為一項長達數十年、規模數百億美元的合作奠定法律基礎，以推進多項優先經濟與戰略目標，其中包括核不擴散。"
+    },
     {
       "id": "mkt:019f8b8a-8f30-7aab-8e51-f07f13a4585d",
       "time": "2026-07-23 04:35:41",
@@ -161226,50 +161282,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯談及伊朗： 倘若九千四百萬走投無路的民眾湧入歐洲、湧入美國，再加上到處滋生恐怖分子，形成完備的恐怖組織網路，這對美國又有什麼好處？ 這種局面我們以前已經見識過了。"
-    },
-    {
-      "id": "4990743",
-      "time": "2026-07-16 04:39:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談及伊朗：我們不會一味無休止地實施轟炸。"
-    },
-    {
-      "id": "mkt:019f6780-cf06-7aab-8db0-7fd7f7ad5be8",
-      "time": "2026-07-16 04:38:42",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【U.S. strikes since July have killed 35 in Iran, health ministry says】Iran's Health Ministry said on July 15 that as of 12:00 p.m. that day a series of U.S. strikes since July have killed 35 people and injured more than 300. Hormozgan, Sistan-Baluchestan and Khuzestan provinces were the hardest hit."
-    },
-    {
-      "id": "mkt:019f6780-2ebc-7aab-8db0-77bf3d780647",
-      "time": "2026-07-16 04:38:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Vance: Elements within Israel manipulating U.S. public opinion to prolong military action】U.S. Vice President Vance said he is 100% certain some people inside the Israeli government are trying to push U.S. policy so military operations continue. He said these actors are manipulating U.S. public opinion to keep the war going indefinitely, not to achieve any specific objective but simply to continue fighting."
-    },
-    {
-      "id": "4990737",
-      "time": "2026-07-16 04:36:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "前美國眾議院議長南希・佩洛西將投票支援一項削減33億美元美國對以色列軍事援助的修正案。此舉堪稱歷史性轉變——佩洛西一向是國會內部最堅定支援以色列的議員之一。"
-    },
-    {
-      "id": "4990736",
-      "time": "2026-07-16 04:36:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍7月襲擊已致伊朗35人死亡】伊朗衛生部7月15日訊息，截至當天中午12點，美國7月以來對伊朗發動的多輪襲擊已造成35人死亡、300多人受傷。據統計，霍爾木茲甘省、錫斯坦－俾路支斯坦省和胡齊斯坦省受襲擊影響最為嚴重。"
     }
   ]
 }
