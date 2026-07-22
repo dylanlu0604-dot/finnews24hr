@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-23 02:49:24",
-  "count": 17678,
+  "updated": "2026-07-23 02:53:47",
+  "count": 17682,
   "items": [
+    {
+      "id": "5002959",
+      "time": "2026-07-23 02:52:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西貿易部長羅莎表示，巴西將持續與美國開展談判。"
+    },
+    {
+      "id": "5002958",
+      "time": "2026-07-23 02:52:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部：霍爾木茲海峽已關閉，任何過往船隻均須嚴格沿指定航道航行，並按我方安排行事。"
+    },
+    {
+      "id": "5002957",
+      "time": "2026-07-23 02:51:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長：任何針對伊基礎設施的攻擊都將招致強有力回應】伊朗外交部長阿拉格齊當地時間22日在其個人社交媒體上表示，伊朗的防禦原則非常明確：以牙還牙。阿拉格齊說，任何針對伊朗的侵略行為，包括對伊朗基礎設施的攻擊，都將招致強有力且堅決的回應。任何對這類侵略行為提供支援的人，無論其提供何種支援，都將被視為合法打擊目標。此外，伊朗伊斯蘭革命衛隊航空航天部隊司令馬吉德·穆薩維當天表示，如果伊朗的橋樑和發電站遭到攻擊，那麼美國盟友國家的電力供應必將斷絕。"
+    },
+    {
+      "id": "5002956",
+      "time": "2026-07-23 02:49:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高聯合軍事指揮部表示，美國總統的一再威脅只會導致地區及以外範圍的戰爭擴大。"
+    },
+    {
+      "id": "5002955",
+      "time": "2026-07-23 02:48:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油期貨結算價報每桶94.07美元，上漲3.06美元，漲幅3.36%。"
+    },
+    {
+      "id": "5002954",
+      "time": "2026-07-23 02:48:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長羅莎：在2400家對美出口企業中，已有73%開闢了其他市場。"
+    },
     {
       "id": "mkt:019f8b28-5a42-7aab-8e50-2743934f8b91",
       "time": "2026-07-23 02:48:25",
@@ -161331,22 +161380,6 @@
         "XAUUSD"
       ],
       "text": "【Recent U.S. strikes on Iran lay groundwork for more intensive operations, officials say】Three U.S. officials said recent strikes were intended to force Iran to reopen the Strait of Hormuz and to degrade Iranian military capabilities the U.S. seeks to neutralize before mounting more complex operations. Officials added the strikes have widened Trump’s military options. The U.S. military said its latest airstrike targeted Iranian air-defense systems, coastal radar sites, missile and drone bases, small boats and other maritime assets. One U.S. official described the strikes as “shaping operations” to weaken Iran’s defenses and lay the groundwork for more intensive follow-on action."
-    },
-    {
-      "id": "mkt:019f671e-fd20-7aab-8dae-f8840a258383",
-      "time": "2026-07-16 02:51:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "TASNIM NEWS reported Iran's foreign ministry summoned the UK ambassador to Tehran to protest the UK's inclusion of the Islamic Revolutionary Guard Corps (IRGC) on a list under the Countering State Threats Act."
-    },
-    {
-      "id": "4990601",
-      "time": "2026-07-16 02:50:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國通訊社訊息：伊朗因英國將革命衛佇列為制裁物件召見英國駐伊大使。"
     }
   ]
 }
