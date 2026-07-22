@@ -1,7 +1,47 @@
 {
   "date": "2026-07-23",
-  "count": 143,
+  "count": 147,
   "items": [
+    {
+      "id": "te:economy:568953",
+      "time": "2026-07-23 01:48:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Bond Yield Moves Higher — Brazil's 10-year government bond yield rose above 14.75% in late July from 14.54% earlier in the month, amid the outlook of higher interest rates and the outlook of greater bond supply. Oil, natural gas, soybeans, and power prices rose on the wholesale market as new strikes between Iran and the US tempered hopes that energy supply from the Middle East would restart. The developments supported an outlook that inflation could regain traction and prevent the Brazilian central bank from easing rates in the upcoming quarters, lifting yields domestically. Meanwhile, signals of higher deficit spending from the federal government added to a deteriorating fiscal situation. The latest data showed that the nominal budget deficit widened more than expected to BRL 164 billion. Consistently, government revenues were hampered by fresh tariffs from the United States."
+    },
+    {
+      "id": "mkt:019f8af1-9e51-7aab-8e4f-22bb4f11b7bc",
+      "time": "2026-07-23 01:48:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "EU diplomats said EU ambassadors failed to reach agreement on the 21st round of sanctions against Russia."
+    },
+    {
+      "id": "mkt:019f8af0-c942-7aab-8e4f-1b555f96ccb9",
+      "time": "2026-07-23 01:47:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Ukraine's appointment of a new Commander-in-Chief of the Armed Forces will not change the frontline situation."
+    },
+    {
+      "id": "mkt:019f8af0-b663-7aab-8e4f-100b0db4e7ce",
+      "time": "2026-07-23 01:47:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【US media: New Mossad chief visited Washington to coordinate Iran nuclear talks】Axios, citing sources, reports Israel’s new Mossad chief Roman Gofman visited Washington two weeks ago to meet US officials on the Israel‑Iran conflict and Iran’s nuclear program. It was his first US trip since taking office in June and occurred just before renewed tensions in the Strait of Hormuz and a flare‑up in fighting. Gofman’s visit aimed to coordinate nuclear‑deal negotiations with the White House; he met with CIA director Ratcliffe and White House officials. Sources say Ratcliffe, within Trump’s core decision circle, has been skeptical of a US‑Iran memorandum and warned Iran could interpret agreement terms differently from the US, including provisions related to the Strait of Hormuz."
+    },
     {
       "id": "te:markets:568952",
       "time": "2026-07-23 01:45:14",

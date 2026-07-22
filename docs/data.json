@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-23 01:46:55",
-  "count": 17664,
+  "updated": "2026-07-23 01:51:01",
+  "count": 17662,
   "items": [
+    {
+      "id": "te:economy:568953",
+      "time": "2026-07-23 01:48:51",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Brazil",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Brazil 10-Year Bond Yield Moves Higher — Brazil's 10-year government bond yield rose above 14.75% in late July from 14.54% earlier in the month, amid the outlook of higher interest rates and the outlook of greater bond supply. Oil, natural gas, soybeans, and power prices rose on the wholesale market as new strikes between Iran and the US tempered hopes that energy supply from the Middle East would restart. The developments supported an outlook that inflation could regain traction and prevent the Brazilian central bank from easing rates in the upcoming quarters, lifting yields domestically. Meanwhile, signals of higher deficit spending from the federal government added to a deteriorating fiscal situation. The latest data showed that the nominal budget deficit widened more than expected to BRL 164 billion. Consistently, government revenues were hampered by fresh tariffs from the United States."
+    },
+    {
+      "id": "mkt:019f8af1-9e51-7aab-8e4f-22bb4f11b7bc",
+      "time": "2026-07-23 01:48:38",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "EU diplomats said EU ambassadors failed to reach agreement on the 21st round of sanctions against Russia."
+    },
+    {
+      "id": "mkt:019f8af0-c942-7aab-8e4f-1b555f96ccb9",
+      "time": "2026-07-23 01:47:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Kremlin says Ukraine's appointment of a new Commander-in-Chief of the Armed Forces will not change the frontline situation."
+    },
+    {
+      "id": "mkt:019f8af0-b663-7aab-8e4f-100b0db4e7ce",
+      "time": "2026-07-23 01:47:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【US media: New Mossad chief visited Washington to coordinate Iran nuclear talks】Axios, citing sources, reports Israel’s new Mossad chief Roman Gofman visited Washington two weeks ago to meet US officials on the Israel‑Iran conflict and Iran’s nuclear program. It was his first US trip since taking office in June and occurred just before renewed tensions in the Strait of Hormuz and a flare‑up in fighting. Gofman’s visit aimed to coordinate nuclear‑deal negotiations with the White House; he met with CIA director Ratcliffe and White House officials. Sources say Ratcliffe, within Trump’s core decision circle, has been skeptical of a US‑Iran memorandum and warned Iran could interpret agreement terms differently from the US, including provisions related to the Strait of Hormuz."
+    },
     {
       "id": "te:markets:568952",
       "time": "2026-07-23 01:45:14",
@@ -161186,75 +161226,6 @@
         "DHER.DE"
       ],
       "text": "Financial Times: Uber (UBER.N) is nearing a €12.5 bln acquisition of food-delivery platform Delivery Hero, with an announcement possible as early as Thursday."
-    },
-    {
-      "id": "mkt:019f66e6-6b16-7aab-8dae-076b45f17216",
-      "time": "2026-07-16 01:50:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "EURUSD"
-      ],
-      "text": "The Federal Reserve will release the Beige Book on U.S. economic conditions in ten minutes."
-    },
-    {
-      "id": "mkt:019f66e6-618f-7aab-8dad-f941762a9ad1",
-      "time": "2026-07-16 01:50:01",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "EURUSD"
-      ],
-      "text": "Dollar index (DXY) down 0.50% intraday at 100.43."
-    },
-    {
-      "id": "4990567",
-      "time": "2026-07-16 01:49:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：優步即將達成一筆價值 125 億歐元的交易，收購 Delivery Hero（外賣配送集團）。"
-    },
-    {
-      "id": "mkt:019f66e5-bd09-7aab-8dad-f284b5dfb5f9",
-      "time": "2026-07-16 01:49:19",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "USD/CHF down >0.50% intraday, trading at 0.8046."
-    },
-    {
-      "id": "mkt:019f66e4-2235-7aab-8dad-ea6fc8d351ed",
-      "time": "2026-07-16 01:47:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "A White House spokesperson said regarding Iran that the U.S. can strike anywhere, at any time."
-    },
-    {
-      "id": "mkt:019f66e4-1f10-7aab-8dad-e08a5d5d5260",
-      "time": "2026-07-16 01:47:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A White House spokesperson said Trump will announce deals with a total value of more than $10 billion at today’s summit."
     }
   ]
 }
