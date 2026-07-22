@@ -1,7 +1,119 @@
 {
   "date": "2026-07-22",
-  "count": 757,
+  "count": 768,
   "items": [
+    {
+      "id": "mkt:019f8778-44bf-7aab-8e36-db3736707a83",
+      "time": "2026-07-22 09:37:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong large-model AI stocks opened higher but reversed to losses; Zhipu AI (02513.HK) down over 3%, MINIMAX-W (00100.HK) down over 4%."
+    },
+    {
+      "id": "mkt:019f8777-c593-7aab-8e36-d7f29231f23f",
+      "time": "2026-07-22 09:36:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of Australia survey: inflation remains public's top concern】The Reserve Bank of Australia said its latest survey shows inflation remains Australians' top economic concern and that the public still has fundamental gaps in understanding the monetary policy transmission mechanism. The survey, part of the RBA's transparency work responding to a 2023 independent review, has run in three rounds since early last year and collected about 9,000 responses; results are being used to improve public communications. The RBA found public trust in the central bank is comparable to other Australian and international institutions and has been stable since early 2025, though trust varies across groups; higher-trust respondents typically report lower inflation expectations, underscoring trust's role in expectations and policy transmission."
+    },
+    {
+      "id": "5001184",
+      "time": "2026-07-22 09:36:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5001183",
+      "time": "2026-07-22 09:35:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【化學制藥板塊直線拉昇】化學制藥板塊直線拉昇，萊美藥業漲超10%，新贛江、峆一藥業、博瑞醫藥、哈三聯、華納藥廠等跟漲。"
+    },
+    {
+      "id": "mkt:019f8776-d3bc-7aab-8e36-c927358fff4e",
+      "time": "2026-07-22 09:35:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "The Trump Trade",
+        "CSI300",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "China A-share innovative drug sector strengthened; Yaokang Bio rose over 13%, Laimei Pharma climbed over 8%, with other mid-cap drug names also advancing. US President Trump posted on social media on July 21 local time that from Aug. 1, 2026 all imported generics to the US will carry zero tariffs for two years, thereafter facing a 100% tariff for one year and then a 200% tariff thereafter."
+    },
+    {
+      "id": "5001182",
+      "time": "2026-07-22 09:35:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝概念股直線拉昇 富滿微、深科技漲超7%】先進封裝概念股盤初直線拉昇，富滿微、深科技漲超7%，通富微電、金海通、太極實業等股上漲。"
+    },
+    {
+      "id": "5001181",
+      "time": "2026-07-22 09:35:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊震盪回升 立新能源5連板】早盤電力板塊震盪回升，立新能源5連板，新能股份漲停，世茂能源、九洲集團、華銀電力、華潤新能跟漲。"
+    },
+    {
+      "id": "mkt:019f8775-8de9-7aab-8e36-c69408b2a59a",
+      "time": "2026-07-22 09:34:15",
+      "tags": [
+        "MKT News",
+        "06110.HK",
+        "Impact bearish"
+      ],
+      "text": "Top Sports International (06110.HK) shares plunged more than 23%."
+    },
+    {
+      "id": "mkt:019f8775-5f86-7aab-8e36-bb58caa25c6a",
+      "time": "2026-07-22 09:34:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says emergency plans in place for sparsely populated areas and coastal islands】An Iranian army spokesman said on Tuesday Tehran has drawn up comprehensive defence and operational plans to counter any enemy attempt to invade Iranian territory. He said Iran will not allow foreign forces to establish a foothold and that contingency plans cover sparsely populated areas, including certain islands and coastal zones where US forces might try to infiltrate. He warned any area used by an enemy to attack Iran — even territory temporarily held by hostile forces — would be targeted."
+    },
+    {
+      "id": "5001180",
+      "time": "2026-07-22 09:34:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼向義大利萊昂納多公司訂購12架戰鬥機。"
+    },
+    {
+      "id": "5001179",
+      "time": "2026-07-22 09:33:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力概念股持續活躍，美利雲3連板，利通電子2連板，群興玩具漲停，銅牛資訊漲超10%，華勤技術、紫光股份、宏景科技漲幅居前。"
+    },
     {
       "id": "5001178",
       "time": "2026-07-22 09:33:11",

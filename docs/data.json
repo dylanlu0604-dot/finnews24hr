@@ -1,7 +1,119 @@
 {
-  "updated": "2026-07-22 09:34:12",
-  "count": 18090,
+  "updated": "2026-07-22 09:38:07",
+  "count": 18088,
   "items": [
+    {
+      "id": "mkt:019f8778-44bf-7aab-8e36-db3736707a83",
+      "time": "2026-07-22 09:37:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong large-model AI stocks opened higher but reversed to losses; Zhipu AI (02513.HK) down over 3%, MINIMAX-W (00100.HK) down over 4%."
+    },
+    {
+      "id": "mkt:019f8777-c593-7aab-8e36-d7f29231f23f",
+      "time": "2026-07-22 09:36:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Reserve Bank of Australia survey: inflation remains public's top concern】The Reserve Bank of Australia said its latest survey shows inflation remains Australians' top economic concern and that the public still has fundamental gaps in understanding the monetary policy transmission mechanism. The survey, part of the RBA's transparency work responding to a 2023 independent review, has run in three rounds since early last year and collected about 9,000 responses; results are being used to improve public communications. The RBA found public trust in the central bank is comparable to other Australian and international institutions and has been stable since early 2025, though trust varies across groups; higher-trust respondents typically report lower inflation expectations, underscoring trust's role in expectations and policy transmission."
+    },
+    {
+      "id": "5001184",
+      "time": "2026-07-22 09:36:14",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達10億港元。"
+    },
+    {
+      "id": "5001183",
+      "time": "2026-07-22 09:35:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "【化學制藥板塊直線拉昇】化學制藥板塊直線拉昇，萊美藥業漲超10%，新贛江、峆一藥業、博瑞醫藥、哈三聯、華納藥廠等跟漲。"
+    },
+    {
+      "id": "mkt:019f8776-d3bc-7aab-8e36-c927358fff4e",
+      "time": "2026-07-22 09:35:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "The Trump Trade",
+        "CSI300",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "China A-share innovative drug sector strengthened; Yaokang Bio rose over 13%, Laimei Pharma climbed over 8%, with other mid-cap drug names also advancing. US President Trump posted on social media on July 21 local time that from Aug. 1, 2026 all imported generics to the US will carry zero tariffs for two years, thereafter facing a 100% tariff for one year and then a 200% tariff thereafter."
+    },
+    {
+      "id": "5001182",
+      "time": "2026-07-22 09:35:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "【先進封裝概念股直線拉昇 富滿微、深科技漲超7%】先進封裝概念股盤初直線拉昇，富滿微、深科技漲超7%，通富微電、金海通、太極實業等股上漲。"
+    },
+    {
+      "id": "5001181",
+      "time": "2026-07-22 09:35:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊震盪回升 立新能源5連板】早盤電力板塊震盪回升，立新能源5連板，新能股份漲停，世茂能源、九洲集團、華銀電力、華潤新能跟漲。"
+    },
+    {
+      "id": "mkt:019f8775-8de9-7aab-8e36-c69408b2a59a",
+      "time": "2026-07-22 09:34:15",
+      "tags": [
+        "MKT News",
+        "06110.HK",
+        "Impact bearish"
+      ],
+      "text": "Top Sports International (06110.HK) shares plunged more than 23%."
+    },
+    {
+      "id": "mkt:019f8775-5f86-7aab-8e36-bb58caa25c6a",
+      "time": "2026-07-22 09:34:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Iran says emergency plans in place for sparsely populated areas and coastal islands】An Iranian army spokesman said on Tuesday Tehran has drawn up comprehensive defence and operational plans to counter any enemy attempt to invade Iranian territory. He said Iran will not allow foreign forces to establish a foothold and that contingency plans cover sparsely populated areas, including certain islands and coastal zones where US forces might try to infiltrate. He warned any area used by an enemy to attack Iran — even territory temporarily held by hostile forces — would be targeted."
+    },
+    {
+      "id": "5001180",
+      "time": "2026-07-22 09:34:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印尼向義大利萊昂納多公司訂購12架戰鬥機。"
+    },
+    {
+      "id": "5001179",
+      "time": "2026-07-22 09:33:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力概念股持續活躍，美利雲3連板，利通電子2連板，群興玩具漲停，銅牛資訊漲超10%，華勤技術、紫光股份、宏景科技漲幅居前。"
+    },
     {
       "id": "5001178",
       "time": "2026-07-22 09:33:11",
@@ -166197,132 +166309,6 @@
         "公司"
       ],
       "text": "太平洋煤氣電力公司：加州約10個縣的7800名使用者將受到斷電影響。"
-    },
-    {
-      "id": "4988800",
-      "time": "2026-07-15 09:37:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫藥商業板塊短線拉昇，人民同泰漲停】醫藥商業板塊短線拉昇，人民同泰漲停，藥易購、百洋醫藥、華人健康、鷺燕醫藥、漱玉平民等跟漲。"
-    },
-    {
-      "id": "4988799",
-      "time": "2026-07-15 09:37:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達1.66%，成分股中，沐曦股份跌8.91%，佰維儲存跌7.58%，華海清科跌3.46%，格科微跌3.45%。"
-    },
-    {
-      "id": "mkt:019f636b-5ce2-7aab-8d8e-19d4ae7f69eb",
-      "time": "2026-07-15 09:36:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "China's STAR 50 Index extended losses to 1%, trading at 1,989.63 points."
-    },
-    {
-      "id": "te:markets:566968",
-      "time": "2026-07-15 09:36:45",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Yen Finds Support as Dollar Weakens — The Japanese yen steadied around 162 per dollar on Wednesday, drawing support from a weaker dollar after softer-than-expected US inflation data eased concerns about imminent Federal Reserve interest rate hikes. Still, the outlook remained clouded by rising geopolitical tensions in the Middle East, with oil prices climbing after President Donald Trump threatened additional strikes on Iran while reinstating a US blockade against Tehran in the Strait of Hormuz. In Japan, data showed machinery orders declined more than expected in May, highlighting broad-based weakness in business investment. Despite the modest rebound, the yen remained near 40-year lows amid the absence of concrete measures from Tokyo to bolster the currency. A recent report also indicated that Japan has no immediate plans to adjust the asset allocation of its state pension funds, dampening expectations for near-term support for domestic assets."
-    },
-    {
-      "id": "mkt:019f636b-50b4-7aab-8d8e-11cb726f1832",
-      "time": "2026-07-15 09:36:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China's National Bureau of Statistics: Shanghai June second-hand residential prices +0.4% MoM (prior +0.6%), -3.2% YoY (prior -4.3%)."
-    },
-    {
-      "id": "4988798",
-      "time": "2026-07-15 09:36:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科創50指數跌幅擴大至1%】科創50指數跌幅擴大至1%，現報1989.63點。"
-    },
-    {
-      "id": "mkt:019f636b-0b3f-7aab-8d8e-0987eb143bf5",
-      "time": "2026-07-15 09:36:27",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SSE Composite",
-        "Impact mixed"
-      ],
-      "text": "China's National Bureau of Statistics: Shanghai newly built commercial residential prices in June +0.3% MoM (May +0.2%), +3.1% YoY (May +3.2%)."
-    },
-    {
-      "id": "mkt:019f636a-d3b0-7aab-8d8e-00fe1fee12f5",
-      "time": "2026-07-15 09:36:13",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China's National Bureau of Statistics: Beijing second-hand residential prices +0.1% MoM in June (prev. +0.1%), -5.5% YoY (prev. -6.5%)."
-    },
-    {
-      "id": "mkt:019f636a-6c3f-7aab-8d8d-fc01ebf84133",
-      "time": "2026-07-15 09:35:46",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "National Bureau of Statistics: Guangzhou June second-hand residential prices +0.4% MoM (prev +0.1%), -6.1% YoY (prev -7.0%)."
-    },
-    {
-      "id": "4988797",
-      "time": "2026-07-15 09:35:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【港股光通訊股走強 長飛光纖光纜漲超16%】截至發稿，長飛光纖光纜(06869.HK)漲16.63%，曦智科技-P(01879.HK)漲2.33%，匯聚科技(01729.HK)漲1.62%。"
-    },
-    {
-      "id": "4988796",
-      "time": "2026-07-15 09:35:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【醫療服務板塊盤初拉昇，大湖股份漲停】醫療服務板塊盤初拉昇，大湖股份漲停，凱萊英、博濟醫藥、奧浦邁、畢得醫藥、益諾思等紛紛走高。"
-    },
-    {
-      "id": "4988795",
-      "time": "2026-07-15 09:34:59",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【德明利觸及跌停】德明利觸及跌停，成交額12.11億元，封單49907手。據德明利2026年7月15日公告，公司披露半年度業績預告，預計淨利潤57億元至65億元，同比增長4932.74%至5611.02%。據此計算，德明利預計今年第二季度實現歸母淨利潤23.54億元~31.54億元，環比下滑5.74%~29.65%。"
-    },
-    {
-      "id": "mkt:019f6369-82bd-7aab-8d8d-f190d01d41a9",
-      "time": "2026-07-15 09:34:46",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【NBS: YoY declines in new home prices across China’s tier‑1/2/3 cities narrowed in June】NBS urban statistics senior statistician Yang Caifang released June 2026 housing price data. New home prices in tier‑1 cities fell 1.3% YoY in June, a 0.4 ppt narrowing from May; Beijing -2.1%, Guangzhou -2.6%, Shenzhen -3.6%, Shanghai +3.1%. Tier‑2 new home prices fell 3.1% YoY, narrowing 0.1 ppt; tier‑3 fell 4.2% YoY, unchanged from May. Second‑hand prices in tier‑1 cities fell 4.9% YoY, a 0.9 ppt narrowing; city breakdown Beijing -5.5%, Shanghai -3.2%, Guangzhou -6.1%, Shenzhen -4.7%. Tier‑2 and tier‑3 second‑hand prices fell 5.4% and 6.0% YoY, with declines narrowing 0.3 ppt and 0.2 ppt respectively."
     }
   ]
 }
