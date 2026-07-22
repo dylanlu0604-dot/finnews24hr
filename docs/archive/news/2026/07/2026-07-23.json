@@ -1,7 +1,36 @@
 {
   "date": "2026-07-23",
-  "count": 127,
+  "count": 130,
   "items": [
+    {
+      "id": "mkt:019f8ae6-bda8-7aab-8e4e-f33caa6bbb6f",
+      "time": "2026-07-23 01:36:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Israeli broadcaster: US plans to use heavy bombers in strikes on Iran】Israeli broadcaster citing sources says Washington has notified Israel it plans to escalate military strikes on Iran by deploying heavy strategic bombers for air raids in the coming days, marking the first use of such aircraft in this round of escalation. The report says US bombers previously flew from the UK to strike Iran in Operation Rising Lion. It cites a prior Trump comment that a location called Gaoshan may be among primary targets. US-Israel security coordination is being stepped up to prepare Israel for possible Iranian retaliation; Israel expects to resume strikes on Iran if Iran fires missiles at Israel."
+    },
+    {
+      "id": "5002900",
+      "time": "2026-07-23 01:36:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統週三在德黑蘭會見巴基斯坦新任大使，對巴方緩和緊張局勢、推動地區和平穩定所作努力表示讚賞。"
+    },
+    {
+      "id": "5002899",
+      "time": "2026-07-23 01:35:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟委員會：派拉蒙十年內不得與環球影業聯合發行影片。"
+    },
     {
       "id": "mkt:019f8ae4-18f6-7aab-8e4e-e861ec4e38ff",
       "time": "2026-07-23 01:33:52",
