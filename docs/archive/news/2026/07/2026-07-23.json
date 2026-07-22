@@ -1,7 +1,36 @@
 {
   "date": "2026-07-23",
-  "count": 548,
+  "count": 551,
   "items": [
+    {
+      "id": "mkt:019f8c07-07a7-7aab-8e54-052b290e3ffc",
+      "time": "2026-07-23 06:51:38",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【KOSPI volatility pushes South Korean retail back into US stocks】KOSPI volatility has prompted South Korean retail investors to shift capital into US equities, KSD's Seibro portal said. Domestic investors net bought $2.879 billion (≈4.26 trillion won) of US stocks from July 1-21, more than four times June's net purchases; roughly $1 billion of that flowed in over July 20-21. Retail demand, which earlier concentrated on US mega-cap tech and index ETFs, has broadened to AI-related semiconductor names and high‑risk leveraged ETFs. Year‑to‑date flows showed net purchases of $4.499 billion in January before turning to net sales in April; net buying resumed in June and intensified in July."
+    },
+    {
+      "id": "5003149",
+      "time": "2026-07-23 06:51:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【硬科技企業密集登陸，港股IPO市場活力持續釋放】今年以來，港股IPO市場持續升溫、活力迸發。Wind資料顯示，截至7月22日，今年以來港股上市新股數量突破百家，硬科技企業穩居上市主力陣營，“A+H”雙向上市通道持續升溫。記者獲悉，港交所籌備數月的上市機制最佳化方案預計不久將正式對外公佈。業內人士認為，在制度改革持續深化、國際資本配置信心增強等因素驅動下，港股作為中國硬科技出海與全球資產配置核心平臺的樞紐地位愈發穩固，2026年全年港股IPO市場延續高景氣度值得期待。（中證報）"
+    },
+    {
+      "id": "5003148",
+      "time": "2026-07-23 06:51:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國進出口銀行上半年新發放外貿領域貸款近6500億元】今年上半年，中國進出口銀行新發放外貿領域貸款近6500億元，其中近40%投向穩外貿主體和穩外貿產業鏈領域，設立專項額度統籌支援貨物貿易與服務貿易、傳統貿易與新業態、新模式，助力發展數字貿易、綠色貿易。(央視新聞)"
+    },
     {
       "id": "te:markets:568967",
       "time": "2026-07-23 06:49:27",
