@@ -1,7 +1,157 @@
 {
   "date": "2026-07-22",
-  "count": 1514,
+  "count": 1530,
   "items": [
+    {
+      "id": "mkt:019f88ac-2736-7aab-8e3e-b3ec581c6635",
+      "time": "2026-07-22 15:13:31",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Analyst: Bank of England likely to hold rates but monitor Middle East risk】Quilter Cheviot analyst Richard Carter says the Bank of England is expected to keep Bank Rate at 3.75% while awaiting clear signs of the Middle East conflict’s impact. UK CPI eased to 2.6% in June after oil briefly fell following a US‑Iran ceasefire. Carter warned a renewed full‑scale conflict remains possible and would continue to pressure inflation. Markets price roughly 40bp of cumulative BoE hikes in 2026."
+    },
+    {
+      "id": "mkt:019f88ac-1ff8-7aab-8e3e-aeb174fe619c",
+      "time": "2026-07-22 15:13:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【AI compute supply chain becomes key growth driver for Shanghai exports】Shanghai exports of servers, optical transceivers, integrated circuits, industrial transformers and energy-storage batteries rose rapidly in 1H, making the AI compute supply chain a major export growth driver, Shanghai customs deputy director Li Jirong said. He described the surge as structural and sustained, driven by iteration in leading industries such as ICs and AI. Unlike steadier traditional trade categories, the AI chain’s pull spans upstream energy-storage and power equipment, midstream ICs and SSDs, and downstream computer servers, linking the city’s high-end electronics export chain and producing cross-category gains."
+    },
+    {
+      "id": "mkt:019f88ab-68fd-7aab-8e3e-a229465b09cc",
+      "time": "2026-07-22 15:12:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said the central bank continues to take measures to ensure rupiah stability."
+    },
+    {
+      "id": "mkt:019f88ab-2c0f-7aab-8e3e-9a408bb3a0e0",
+      "time": "2026-07-22 15:12:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said the 2026 current account deficit is expected to remain unchanged at 0.5–1.3% of GDP."
+    },
+    {
+      "id": "mkt:019f88aa-fb50-7aab-8e3e-930450371e09",
+      "time": "2026-07-22 15:12:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【IRGC commander inspects Strait of Hormuz】On July 21 Islamic Revolutionary Guard Corps Ground Force commander Mohammad Karami inspected Iranian units along the Persian Gulf coast and around the Strait of Hormuz, assessed combat readiness, and said the IRGC’s authoritative regional presence is a key pillar of sustainable security in Gulf waters."
+    },
+    {
+      "id": "5001688",
+      "time": "2026-07-22 15:12:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍官視察霍爾木茲海峽】據伊朗塔斯尼姆通訊社7月21日報道，伊朗伊斯蘭革命衛隊陸軍總司令穆罕默德·卡拉米視察了駐紮在波斯灣海岸線、霍爾木茲海峽周邊的伊朗部隊。卡拉米當天仔細評估了部隊的作戰狀態和備戰水平，他表示，伊斯蘭革命衛隊在地區的權威存在，是波斯灣水域可持續安全的主要支柱。 (CCTV國際時訊)"
+    },
+    {
+      "id": "5001687",
+      "time": "2026-07-22 15:11:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：印尼央行已持續採取措施確保印尼盾匯率穩定。"
+    },
+    {
+      "id": "5001686",
+      "time": "2026-07-22 15:11:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普承認美方干預中國事務】當地時間7月21日，特朗普在白宮回答記者提問時，承認美國干預中國事務，並稱“中國今時不同往日”。（中國新聞網）"
+    },
+    {
+      "id": "mkt:019f88aa-655f-7aab-8e3e-8c77841f103f",
+      "time": "2026-07-22 15:11:36",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said coordinated action with the government to enhance the appeal of domestic assets could improve foreign capital inflows."
+    },
+    {
+      "id": "5001685",
+      "time": "2026-07-22 15:11:13",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長表示：2026年經常賬戶赤字預估佔GDP的比重區間為0.5%-1.3%，該預估維持不變。"
+    },
+    {
+      "id": "5001684",
+      "time": "2026-07-22 15:10:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "【AI算力產業鏈成為上海出口重要增長動能】記者從上海海關獲悉，上半年，上海製造的伺服器、光收發模組、積體電路、工業級變壓器、儲能電池等人工智慧（AI）相關產品出口均實現快速增長，AI算力產業鏈已成為上海出口的重要增長動能。上海海關統計分析處副處長李計融認為，上半年，上海AI相關產品出口的快速增長，是積體電路、人工智慧等先導產業迭代驅動的結構性、持續性增長。相較傳統外貿品類的平穩增長，AI相關產業鏈的帶動性較強，從上游儲能電力裝置等基礎配件，到中游積體電路、固態硬碟等算力硬體，再到下游計算機伺服器，AI產業打通了上海高階電子外貿全鏈條，實現全品類協同增長。上海海關統計顯示，上半年，上海市實現出口1.14萬億元人民幣，同比增長20.1%，半年出口規模首破萬億元大關。同時，上海出口呈現多產業賽道融合並進之勢，人工智慧、機器人等新賽道與汽車、船舶等傳統賽道雙向發力，新老產業相融共生。上海海關副關長柳波表示，上半年，上海進出口、出口、進口三項指標均創歷史新高，充分彰顯上海經濟強勁的韌性、蓬勃的活力和厚實的發展潛力。(新華社)"
+    },
+    {
+      "id": "5001683",
+      "time": "2026-07-22 15:10:41",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長表示：與政府共同發力提升國內資產吸引力，或將改善外資流入狀況。"
+    },
+    {
+      "id": "5001682",
+      "time": "2026-07-22 15:10:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家公路交通安全管理局（NHTSA）：捷豹路虎北美有限責任公司正在召回15,535輛在美售出車輛。"
+    },
+    {
+      "id": "te:economy:568790",
+      "time": "2026-07-22 15:10:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Turkey",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Turkey Manufacturing Sentiment Falls to 3-Month Low — Turkey’s manufacturing confidence index slipped to 102.2 in July 2026 from 103.5 in the previous month, marking its lowest level since April as sentiment among manufacturers weakened. Confidence deteriorated amid a sharp decline in total orders over the past three months (99.9 vs. 106.6 in June), alongside weaker fixed investment expenditure (104.7 vs. 112.4), lower current total orders (84.5 vs. 88.4), and a slightly softer overall business outlook (90.2 vs. 90.9). However, the decline was partly offset by stronger readings for output volumes (119.3 vs. 117.6), finished goods inventories (97.0 vs. 95.8), expected employment over the next three months (105.2 vs. 103.9), and export orders (116.6 vs. 112.5), indicating manufacturers remained relatively optimistic about production and external demand despite weaker domestic order conditions."
+    },
+    {
+      "id": "te:economy:568789",
+      "time": "2026-07-22 15:10:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yield at One-Month High as Oil Surge Offsets Softer Inflation — The UK 10-year gilt yield rose to 5.05%, its highest level since May 19, as investors weighed rising oil prices against softer UK inflation. Brent crude climbed to a more than one-month high after President Donald Trump warned of further strikes on Iran and pledged retaliation if Iran-backed Houthi rebels disrupt Red Sea shipping. Meanwhile, UK annual inflation slowed to 2.6% in June, the lowest since March 2025 and below forecasts of 2.7%, driven by lower transport and food prices. However, core inflation (2.6%) and services inflation (3.6%) both came in slightly above expectations, underscoring persistent underlying price pressures. Businesses remain cautious, with CBI economist Martin Sartorius warning that inflation could accelerate again in the coming months. Chancellor John Healey welcomed the softer inflation reading but said further support is needed, as the government announced lower VAT on electricity bills and a £2 cap on single bus fares across England from January."
+    },
+    {
+      "id": "5001681",
+      "time": "2026-07-22 15:10:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【比亞迪騰勢在哈爾濱成立新銷售服務公司 註冊資本100萬】天眼查App顯示，近日，哈爾濱勢成汽車銷售服務有限公司成立，法定代表人為鄧希希，註冊資本100萬人民幣，經營範圍含新能源汽車整車銷售、新能源汽車電附件銷售、汽車銷售、充電樁銷售、機動車修理和維護、電動汽車充電基礎設施運營等。股東資訊顯示，該公司由騰勢汽車銷售服務有限公司全資持股。"
+    },
     {
       "id": "mkt:019f88a8-cfa2-7aab-8e3e-822bee1c4640",
       "time": "2026-07-22 15:09:52",
