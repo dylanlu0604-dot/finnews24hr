@@ -1,7 +1,103 @@
 {
-  "updated": "2026-07-22 08:23:14",
-  "count": 18072,
+  "updated": "2026-07-22 08:27:14",
+  "count": 18073,
   "items": [
+    {
+      "id": "mkt:019f8737-9b9d-7aab-8e34-fbcd5e02670e",
+      "time": "2026-07-22 08:26:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【Huatai: Rapid gains in Chinese AI models likely to consolidate sector tailwinds】Huatai Securities said July iterations of Kimi and Q2 updates to GLM validate the core domestic-model thesis and could shorten iteration cycles. The firm estimates the technical gap versus closed‑source overseas models has narrowed to about 3–4 months; combined with higher cost‑effectiveness, domestic providers are lifting capability ceilings and pricing power. Huatai’s tests show K3 is only marginally weaker than GPT‑5.6 Sol, while GLM 5.2 benchmarks roughly at OPUS 4.7. Investment takeaway: rapid capability improvement should reinforce industry-chain positives. Near term, pricing power has improved but model‑level competition is intensifying; longer term, rising Agent penetration should expand the addressable market."
+    },
+    {
+      "id": "5001074",
+      "time": "2026-07-22 08:26:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍因伊朗戰事死亡人數升至18人】美國國防部21日發表宣告說，一名美軍士兵17日在伊朗對位於約旦的穆沃費格薩勒提空軍基地的襲擊中失蹤，此人“據信已死亡”。由此，自2月底美國和以色列對伊朗發動大規模軍事行動以來，美軍死亡人數升至18人。（新華社）"
+    },
+    {
+      "id": "mkt:019f8737-52f6-7aab-8e34-f01327b4b0a8",
+      "time": "2026-07-22 08:26:17",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "【US military deaths linked to Iran conflict rise to 18】The PENTAGON said on the 21st a US service member who went missing on the 17th after an Iranian strike on Jordan’s Muwaffaq Salti Air Base is believed to have died, bringing US military deaths to 18 since large-scale US and Israeli operations against Iran began in late February."
+    },
+    {
+      "id": "5001073",
+      "time": "2026-07-22 08:25:55",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【受能源供應轉變影響 日本6月錄得貿易逆差】日本6月份錄得的貿易逆差大於預期。儘管晶片相關需求帶動了出口增長，但這部分增幅被替代中東石油所帶來的更高能源進口成本所抵消。週三公佈的政府資料顯示，得益於電子零部件、有色金屬和汽車的強勁需求，日本出口額同比增長19.3%。與此同時，進口額增長25.4%，貿易逆差為4,069億日元（相當於24.9億美元）。倫敦證券交易所集團(LSEG)彙總的經濟學家此前預測，日本6月出口額將同比增長18.6%，進口額將增長21.0%，貿易逆差為1,200億日元。進口增幅超過出口，是由於日本政府尋求透過受地區衝突影響的霍爾木茲海峽以外的路線來採購能源。從這些替代來源進口的原油成本往往高於中東石油，從而助長了貿易逆差。日本央行決策者正在密切評估中東不確定性對企業部門和整體經濟的影響，以判斷進一步加息的時機和步伐。市場普遍預計，在該央行評估上次加息影響之際，本月將維持貨幣政策不變。上次加息已將政策利率上調至1%。"
+    },
+    {
+      "id": "5001072",
+      "time": "2026-07-22 08:25:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：國產模型能力快速提升 有望鞏固產業鏈利好趨勢】華泰證券研報認為，7月Kimi和二季度GLM新模型的迭代，再次驗證了國產模型的核心邏輯，迭代週期或進一步縮短。相較於海外閉源模型，目前國產技術差距縮短至3—4月，在高價效比優勢基礎上，不斷提升能力上限和定價權。據華泰證券測評，K3表現僅小幅弱於GPT-5.6 Sol，GLM 5.2釋出後對標Opus 4.7。從投資角度看，國產模型能力快速提升，有望鞏固產業鏈利好趨勢。短期看，儘管定價權有改善，但模型層面競爭明顯加劇；長期看Agent滲透率持續改善，有望進一步提高潛在市場空間。"
+    },
+    {
+      "id": "5001071",
+      "time": "2026-07-22 08:25:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普將於美國東部時間週三上午11時出席遺體交接儀式】白宮日程顯示，美國總統特朗普將於美國東部時間週三上午11點，在特拉華州多佛出席陣亡美軍遺體回國交接儀式。日程同時披露，特朗普還將在美國東部時間下午3點於佐治亞州瑪麗埃塔發表講話。"
+    },
+    {
+      "id": "mkt:019f8735-c907-7aab-8e34-efa04aed2735",
+      "time": "2026-07-22 08:24:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "【South Korea holds talks with exporters on won stability; Samsung, SK Hynix attend】South Korea's government met with major exporters on the 21st at the Seoul government complex to discuss steps to stabilize the won, Second Vice Minister of Economy and Finance Heo Jang said. Heo said the won weakened to around 1,550 won per dollar before June's exporters' talks but has since recovered to the high-1,400s after exporters stepped up foreign-currency conversion, shipbuilders increased forward dollar sales, and SK Hynix's ADR issuance brought capital inflows, easing FX supply-demand imbalances. Heo expects further improvement in H2 as semiconductor exports pick up. Attending firms including Samsung Electronics, SK Hynix, Hyundai Motor and Kia, HD Hyundai Heavy Industries, Hanwha Ocean and Samsung Heavy Industries told the government they will further coordinate to sustain recent FX supply-demand improvements and keep the foreign-exchange market stable."
+    },
+    {
+      "id": "mkt:019f8734-ca99-7aab-8e34-e38a9804ae11",
+      "time": "2026-07-22 08:23:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China to establish national-level zero-carbon factories and zero-carbon compute facilities】The Ministry of Industry and Information Technology said on July 22 it has issued a notice launching a national program to construct national-level zero-carbon factories and zero-carbon compute facilities. The notice defines application and selection criteria: manufacturing enterprises and compute facilities with an existing construction basis, clear construction targets, a defined implementation path and a pledge to meet targets within the prescribed deadline will be preferentially included on the national zero-carbon factory list."
+    },
+    {
+      "id": "5001070",
+      "time": "2026-07-22 08:22:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "滔搏：該終止將在短期內對本集團的業務造成重大負面影響。"
+    },
+    {
+      "id": "5001069",
+      "time": "2026-07-22 08:22:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國將建設國家級零碳工廠、零碳算力設施】從工業和資訊化部瞭解到，今天（7月22日），《關於組織開展國家級零碳工廠建設工作的通知》（以下簡稱《通知》）正式釋出，我國將組織開展國家級零碳工廠、零碳算力設施建設工作。零碳工廠建設，是指透過技術創新、結構調整和管理最佳化等減排措施，實現邊界內二氧化碳排放的持續降低、逐步趨向於近零的過程。《通知》明確國家級零碳工廠申報要求，選擇具備一定建設基礎、建設目標明確、實施路徑清晰，並承諾在規定期限內完成建設目標的製造型企業、算力設施，擇優納入國家級零碳工廠建設名單。（央視）"
+    },
     {
       "id": "5001068",
       "time": "2026-07-22 08:22:39",
@@ -166062,93 +166158,6 @@
         "國際"
       ],
       "text": "【韓國AI股票頻頻暴漲急跌 凸顯槓桿過度擴張的威力】韓國AI驅動的股市繁榮正在變成一個警示故事：當槓桿成為比基本面更強大的市場力量時會發生什麼。SK海力士週一創紀錄暴跌15%，迫使與韓國晶片製造商掛鉤的槓桿產品經理拋售數十億美元股票，從最初全球重新評估AI估值演變成為一場市場大跌。這波拋售助推韓國Kospi指數在短短三週內下跌25%，暴露出保證金貸款、單隻槓桿交易所交易基金(ETF)和集中的指數權重如何相互影響，放大市場的雙向波動。在首爾之外，全球其他地區也越來越關注這些動態。韓國處於人工智慧硬體供應鏈的中心，SK海力士和三星電子在Kospi指數中所佔權重超過一半。現在SK海力士透過美國存託憑證可以在美國市場進行交易，投資者表示，市場情緒可能全天候在華爾街和亞洲之間波動，這增加了韓國槓桿引發的市場波動蔓延至全球的風險。週三，這種反饋迴圈再次上演，Kospi指數上漲超過7%，受SK海力士股價的反彈帶動，此前該公司ADR上漲了27%。"
-    },
-    {
-      "id": "4988700",
-      "time": "2026-07-15 08:26:34",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【SK海力士股價大漲近12% 跟隨美股漲勢】週三上午，SK海力士股價在首爾股市早盤交易中飆升逾11.8%，這既受到美國通脹資料低於預期後美股科技股隔夜上漲的帶動，也得益於巴克萊銀行首次對其釋出研究報告。巴克萊對該公司新上市的美國存託憑證（ADRs） 給予“增持”評級，目標價為每股330美元；該股週二在納斯達克市場大漲近28%，收於193.92美元。韓國基準股指KOSPI上漲6.9%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607153806521242",
-      "time": "2026-07-15 08:26:14",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【中信證券：美國6月CPI全面低於預期 仍預計美聯儲今年全年按兵不動】中信證券研報稱，美國6月CPI全面低於預期，零售油價下行，核心服務項環比零增長，二次通脹效應微弱。中信證券認為美國通脹黏性不強，總體CPI同比已確認越過本輪峰值，三季度將大致呈溫和回落趨勢並於9月觸底，此後在年末升至次高點並於明年3月快速下行。中信證券仍預計美聯儲今年全年按兵不動。"
-    },
-    {
-      "id": "mkt:019f632a-660f-7aab-8d8c-78ce561e2d32",
-      "time": "2026-07-15 08:25:50",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【CITIC Securities remains broadly bullish on China’s domestic AI compute supply chain】CITIC Securities says WAIC 2026 will be held in Shanghai July 17-20, with 112 AI forum sessions (64% of total) and two major tracks—AI compute and embodied intelligence—each attracting over 200 firms. Market-relevant takeaways: Tianshu Zhixin and others are set to unveil new compute chips that could speed commercialization; 10,000- and 100,000-card supernodes on display point to world-leading domestic system-level compute capacity, supporting cloud training; AI edge deployments and application rollouts continue; large models and AI infrastructure tech will be showcased. CITIC Securities therefore maintains a bullish stance on China’s domestic AI compute supply chain."
-    },
-    {
-      "id": "4988699",
-      "time": "2026-07-15 08:25:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：休閒出海方興未艾 聚焦“三消”與“二合”賽道】中信證券研報稱，全球手遊進入存量競爭，但休閒遊戲並非全面擴張，而是由混合化與二合賽道驅動的結構性增長。三消遊戲（Match-3）憑藉成熟使用者心智和長生命週期運營維持近50億美元收入基本盤，二合遊戲（Merge-2）則透過訂單經濟、資源迴圈、劇情內容和高頻LiveOps提升單使用者價值，成為當前益智賽道最具彈性的增長方向。中國廠商正將SLG（Simulation Game，即策略類遊戲）時代積累的數值運營、工業化買量和全球發行能力遷移至休閒賽道，部分廠商已率先實現突破。"
-    },
-    {
-      "id": "mkt:019f632a-2fb1-7aab-8d8c-7107daa2dec6",
-      "time": "2026-07-15 08:25:36",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Nasdaq100",
-        "Impact bullish",
-        "Copper",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Huatai Securities flags three earnings-period signals: AI, price rises, manufacturing】Huatai Securities says focus for the earnings season is on three signals: the AI value chain, beneficiaries of price increases, and manufacturing exports. Interim earnings pre-announcement disclosure rates remain low; sectors with higher disclosure and positive surprise rates include petrochemicals, non-bank financials, nonferrous metals, chemicals and electronics. Median YoY net-profit growth in current previews is highest in agriculture, petrochemicals, military, computers and media, though rankings may change as disclosure rises. Over the past month, upward revisions were largest in coal, building materials, electronics, telecoms and chemicals; revision breadth was widest in building materials, coal, nonferrous metals, telecoms and machinery. Micro-level signals of improving cyclical momentum concentrate in the AI chain (components, semiconductors, optical communications, optoelectronics, gaming), price-rise chains (shipping, fiberglass, coal, paper, select chemicals, copper) and manufacturing export names (maritime equipment, general automation, batteries, construction machinery)."
-    },
-    {
-      "id": "4988698",
-      "time": "2026-07-15 08:24:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：繼續全面看好國產算力產業鏈】中信證券研報稱，7月17日-20日，2026世界人工智慧大會（WAIC 2026）將在上海舉辦，AI三大板塊論壇共112場，佔比64%，AI智算、具身智慧兩大賽道各匯聚超200家企業。本次大會聚焦四大看點：1）天數智芯等企業新算力晶片產品釋出，商業化程序有望提速；2）萬卡、十萬卡超節點亮相，國內系統級算力水平世界領先，助力雲端訓練等場景持續推進；3）AI端側及AI應用持續落地；4）大模型及其他AI基礎設施相關技術亮相。大模型與AI基礎、算力晶片、前沿科技持續迭代推動，我們繼續全面看好國產算力產業鏈。"
-    },
-    {
-      "id": "4988697",
-      "time": "2026-07-15 08:24:16",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：價格因素對外貿出口支撐進一步增強】中信證券研報稱，今年6月出口增速高於前值和預期，價格因素對出口的帶動進一步增強。6月電子與AI、汽車產業鏈出口較強，終端消費品出口相對較差，出口鏈K型分化的特徵更加凸顯。其中電子與AI出口主要受漲價帶動，汽車產業鏈出口主要由數量特別是新能源汽車的出口數量帶動。6月進口增速大幅超預期，主要因為國內製造業景氣改善以及電子與AI產業鏈漲價。展望後續，在多重因素利好下，今年下半年我國進出口有望保持較強韌性。但中信證券提示關注中歐貿易摩擦在部分重點行業升溫的可能性。出口品類上，考慮到海外經濟體K型分化的修復特徵，預計電子與AI、汽車產業鏈出口表現會繼續好於終端消費品。"
-    },
-    {
-      "id": "4988696",
-      "time": "2026-07-15 08:24:02",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信建投：供給寬鬆預期壓制鋰價，淡季不淡有望反彈】中信建投研報表示，鋰價大幅下行，供給邊際寬鬆預期給予壓制，主要是江西鋰礦復產及辛巴威鋰精礦到港均將在7月兌現，但精礦維持緊現實格局，部分鋰鹽廠因原料偏緊及檢修等因素出現減量，輝石及雲母產量下降，周內產量維持降勢；同時庫存方面依然維持去化，部分散單惜售挺價。需求側無過多擔憂，初端消費側，下半年將有較多新產能初步建成並爬產，放大下游補庫效應，帶來消費的邊際增量，終端需求側，2027年新能源車補貼退坡將夯實年內搶裝，推高下半年排產預期，商用車增速樂觀，上半年同比增長36%，1-5月純電動車出口183.3萬輛，同比增長114.4%。三季度看，預計7月、8月排產環比均保持正增長，淡季不淡，旺季可期。"
-    },
-    {
-      "id": "4988695",
-      "time": "2026-07-15 08:23:56",
-      "tags": [
-        "資料",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【中信證券：美國CPI全面低於預期 削弱加息預期】中信證券研報稱，美國6月CPI全面低於預期，零售油價下行，核心服務項環比零增長，二次通脹效應微弱。我們認為美國通脹粘性不強，總體CPI同比已確認越過本輪峰值，三季度將大致呈溫和回落趨勢並於9月觸底，此後在年末升至次高點並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品定價的加息預期還有進一步下修的空間，美債目前不適合配置型機會、短債好於長債，美元指數難以持續衝高但有支撐，美股的科技主線仍具吸引力。"
     }
   ]
 }
