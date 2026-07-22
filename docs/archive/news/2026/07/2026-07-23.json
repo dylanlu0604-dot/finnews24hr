@@ -1,7 +1,15 @@
 {
   "date": "2026-07-23",
-  "count": 277,
+  "count": 278,
   "items": [
+    {
+      "id": "mkt:019f8b50-ec12-7aab-8e50-cee2603e8eeb",
+      "time": "2026-07-23 03:32:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian outlet Fars News quoted sources saying several explosions were heard in Jordan."
+    },
     {
       "id": "5002985",
       "time": "2026-07-23 03:31:00",
