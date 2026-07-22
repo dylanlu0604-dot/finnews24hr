@@ -1,7 +1,48 @@
 {
   "date": "2026-07-22",
-  "count": 1108,
+  "count": 1112,
   "items": [
+    {
+      "id": "mkt:019f87f1-3c55-7aab-8e39-e2b370bf31bd",
+      "time": "2026-07-22 11:49:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Philippine benchmark stock index fell 1% intraday to 6,269.13 points, its lowest level since July 14."
+    },
+    {
+      "id": "5001412",
+      "time": "2026-07-22 11:49:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度製藥股下跌，太陽藥業股價下跌1.5%，雷迪博士實驗室股價下跌1.2%。"
+    },
+    {
+      "id": "5001411",
+      "time": "2026-07-22 11:48:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY製藥指數下跌1.6%。"
+    },
+    {
+      "id": "mkt:019f87ee-4aff-7aab-8e39-db8429cceca8",
+      "time": "2026-07-22 11:46:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Al Arabiya TV said any decision to expand military action against Iran rests entirely with Trump; Netanyahu's visit to Washington has no confirmed date."
+    },
     {
       "id": "5001410",
       "time": "2026-07-22 11:45:11",

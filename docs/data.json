@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-22 11:46:07",
-  "count": 18025,
+  "updated": "2026-07-22 11:50:10",
+  "count": 18022,
   "items": [
+    {
+      "id": "mkt:019f87f1-3c55-7aab-8e39-e2b370bf31bd",
+      "time": "2026-07-22 11:49:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Philippine benchmark stock index fell 1% intraday to 6,269.13 points, its lowest level since July 14."
+    },
+    {
+      "id": "5001412",
+      "time": "2026-07-22 11:49:08",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度製藥股下跌，太陽藥業股價下跌1.5%，雷迪博士實驗室股價下跌1.2%。"
+    },
+    {
+      "id": "5001411",
+      "time": "2026-07-22 11:48:33",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度NIFTY製藥指數下跌1.6%。"
+    },
+    {
+      "id": "mkt:019f87ee-4aff-7aab-8e39-db8429cceca8",
+      "time": "2026-07-22 11:46:08",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY",
+        "Impact mixed"
+      ],
+      "text": "Al Arabiya TV said any decision to expand military action against Iran rests entirely with Trump; Netanyahu's visit to Washington has no confirmed date."
+    },
     {
       "id": "5001410",
       "time": "2026-07-22 11:45:11",
@@ -165493,74 +165534,6 @@
         "國際"
       ],
       "text": "【全球化企業級AI廠商帷幄完成4000萬美元C3輪融資】7月15日，全球化企業級AI廠商帷幄正式宣佈完成4000萬美元C3輪融資。至此，帷幄C輪累計融資總額突破1億美元。本輪C3融資由招銀國際旗下專注於AI及前沿科技的基金、日本三井住友銀行 旗下企業風險投資基金SARF、三菱UFG旗下泰國大城銀行企業創投 (CVC) 平臺Krungsri Finnovate、弘章投資以及韓國現代汽車集團聯合出資，新加坡電信追加投資。"
-    },
-    {
-      "id": "4989043",
-      "time": "2026-07-15 11:50:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達90億港元。"
-    },
-    {
-      "id": "mkt:019f63e5-2bf0-7aab-8d92-e9bdc64875b0",
-      "time": "2026-07-15 11:49:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars"
-      ],
-      "text": "South Korea's KOSPI index rose 8.00% intraday to 7,407.70, led by chip stocks: Hanmi Semiconductor +28%, SK Hynix +12.9% and Samsung Electronics +7.6%."
-    },
-    {
-      "id": "4989042",
-      "time": "2026-07-15 11:49:13",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲8％，SK海力士漲12.9%、三星電子漲7.6%。"
-    },
-    {
-      "id": "4989041",
-      "time": "2026-07-15 11:48:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國稀土集團等在無錫成立新公司 註冊資本1000萬】天眼查App顯示，近日，中稀（無錫）稀土有限公司成立，法定代表人為傅滔濤，註冊資本1000萬人民幣，經營範圍包括稀有稀土金屬冶煉、有色金屬合金製造、稀土功能材料銷售、新材料技術研發等。股東資訊顯示，該公司由中國稀土集團產業發展有限公司、宜興新威利成稀土有限公司共同持股。"
-    },
-    {
-      "id": "4989040",
-      "time": "2026-07-15 11:48:49",
-      "tags": [
-        "公司",
-        "市場",
-        "原創"
-      ],
-      "text": "【7月15日午間漲停分析】科創50指數半日跌3.67%，醫藥、消費股逆勢大漲。哈藥股份4連板，一圖看懂>>"
-    },
-    {
-      "id": "4989039",
-      "time": "2026-07-15 11:48:41",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國稀土集團等在無錫成立新公司 註冊資本1000萬】天眼查App顯示，近日，中稀（無錫）稀土有限公司成立，法定代表人為傅滔濤，註冊資本1000萬人民幣，經營範圍包括稀有稀土金屬冶煉、有色金屬合金製造、稀土功能材料銷售、新材料技術研發等。股東資訊顯示，該公司由中國稀土集團產業發展有限公司、宜興新威利成稀土有限公司共同持股。"
-    },
-    {
-      "id": "te:markets:567039",
-      "time": "2026-07-15 11:48:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Singapore",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "STI Scales New Peak Above 5,500 Mark — Singapore's stocks rose 83 points, or 1.5%, to 5,553 around noon on Wednesday, marking the tenth consecutive session of gains, tracking a rally on Wall Street overnight as softer inflation eased expectations of a Fed interest rate hike. The broader index hit a new record high, breaking decisively above the 5,500 mark, mainly buoyed by gains in financials, technology services, industrial services, and producer manufacturing. Traders sought to maintain the momentum after the index hit a record high a day earlier, fueled by heavy institutional buying. They also awaited June non-oil domestic exports data due on Friday after exports recorded their strongest growth since 2003 in May, supported by robust AI-related demand. Overseas-Chinese Banking Corp. rose 2.2%, DBS Group Holdings gained 2.1%, Hong Kong Land Holdings advanced 2.0%, and United Overseas Bank climbed 1.6%."
     }
   ]
 }
