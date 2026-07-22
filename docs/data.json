@@ -1,7 +1,70 @@
 {
-  "updated": "2026-07-22 23:36:26",
-  "count": 17694,
+  "updated": "2026-07-22 23:40:48",
+  "count": 17689,
   "items": [
+    {
+      "id": "5002811",
+      "time": "2026-07-22 23:39:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯外交部長：預測伊朗衝突將持續多久十分困難，但霍爾木茲海峽地區的緊張局勢持續下去並不符合伊朗和美國的利益。"
+    },
+    {
+      "id": "5002810",
+      "time": "2026-07-22 23:38:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯頓馬丁：新增1億英鎊次級融資債務額度獲批。"
+    },
+    {
+      "id": "5002809",
+      "time": "2026-07-22 23:37:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將投入價值300萬美元的API資源，支援兩大科研專案，藉助前沿大模型針對重大科學難題開展測試。"
+    },
+    {
+      "id": "mkt:019f8a79-a775-7aab-8e4d-3e179858dd6b",
+      "time": "2026-07-22 23:37:36",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will provide $4 mln worth of CODEX access to about 2,000 \"Genesis Mission\" researchers at national labs and universities."
+    },
+    {
+      "id": "mkt:019f8a79-2132-7aab-8e4d-352686701358",
+      "time": "2026-07-22 23:37:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bullish",
+        "FTSE100"
+      ],
+      "text": "European equities closed higher on Wednesday, July 22: Germany's DAX rose 167.79 points (+0.67%) to 25,160.16; the UK's FTSE 100 gained 127.96 points (+1.21%) to 10,713.87; France's CAC 40 added 74.75 points (+0.89%) to 8,437.89. The Stoxx Europe 50 advanced 32.62 points (+0.52%) to 6,318.25; Spain's IBEX 35 climbed 190.82 points (+0.98%) to 19,569.62; Italy's FTSE MIB increased 499.91 points (+0.96%) to 52,785.00."
+    },
+    {
+      "id": "mkt:019f8a79-019e-7aab-8e4d-2b6a26cd6aac",
+      "time": "2026-07-22 23:36:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "OpenAI will provide research participants up to $10m in API usage credits and will spend $2.5m of its own funds."
+    },
+    {
+      "id": "5002808",
+      "time": "2026-07-22 23:35:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：將向國家實驗室和高校約2000名“創世紀”（Genesis）計劃研究人員提供價值400萬美元的Codex使用許可權。"
+    },
     {
       "id": "5002807",
       "time": "2026-07-22 23:34:57",
@@ -161528,134 +161591,6 @@
         "XAUUSD"
       ],
       "text": "【Iran: No current plans to negotiate, focused on defense】Iran’s foreign ministry spokesperson said the armed forces have made clear any aggression against Iranian territory will be met with an equivalent response. We currently have no plans to negotiate and are focused on defense. Memoranda of understanding are mutual commitments; if the other party breaches them, we will cease fulfilling our obligations, and the same principle will be applied going forward."
-    },
-    {
-      "id": "4990468",
-      "time": "2026-07-15 23:39:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美媒曝對伊戰事真實花費高達千億美元】據美國全國廣播公司報道，美國對伊朗軍事行動實際支出可能高達1000億美元，遠超美國政府公佈的310億美元。報道稱，美國防部內部評估顯示，美國在對伊朗軍事行動中的實際支出在800億至1000億美元之間，與此前政府公佈的數額存在巨大差距，主要是因為此前的估算沒有涵蓋未公開的作戰支出、先進戰機損失以及美國在中東軍事設施遭受的嚴重破壞。僅重建被伊朗打擊的美軍基地一項，費用就可能超過300億美元。（新華社）"
-    },
-    {
-      "id": "4990467",
-      "time": "2026-07-15 23:39:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "商品貨幣紐元兌美元日內漲幅達0.5%，報0.5841。"
-    },
-    {
-      "id": "4990466",
-      "time": "2026-07-15 23:38:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國財長貝森特：將持續針對伊朗物資採購網路實施打擊。"
-    },
-    {
-      "id": "mkt:019f666e-3baa-7aab-8dab-1c3727bcb999",
-      "time": "2026-07-15 23:38:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Treasury Secretary Bessent said he will continue to target Iran's procurement networks."
-    },
-    {
-      "id": "mkt:019f666d-c4ae-7aab-8dab-16889199fde3",
-      "time": "2026-07-15 23:38:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "DAX",
-        "Impact bearish",
-        "CAC 40",
-        "Impact bullish",
-        "FTSE100"
-      ],
-      "text": "At close on July 15 (Wed) European equities: Germany's DAX fell 135.16 pts (-0.54%) to 25,009.22. Britain's FTSE 100 fell 15.76 pts (-0.15%) to 10,513.63. France's CAC 40 rose 15.58 pts (+0.19%) to 8,382.43. STOXX Europe 50 fell 14.44 pts (-0.23%) to 6,265.75. Spain's IBEX 35 fell 81.81 pts (-0.42%) to 19,274.79. Italy's FTSE MIB fell 437.00 pts (-0.83%) to 52,425.50."
-    },
-    {
-      "id": "4990465",
-      "time": "2026-07-15 23:37:45",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點",
-        "央行",
-        "國際"
-      ],
-      "text": "【摩根大通和摩根士丹利雙雙發債融資 此前財報表現亮眼】摩根大通和摩根士丹利在公佈強勁業績後尋求在美國高評級債券市場發債融資。此次發債延續了華爾街大行本季度的融資熱潮。這輪融資始於高盛在週二啟動100億美元債券發行，該行週三還啟動三部分歐元債券發行。美國大型銀行本週公佈的業績普遍好於分析師預期，受益於市場表現強勁、波動性持續以及併購交易回暖。與此同時，又一份低於預期的通脹資料進一步緩解市場對美聯儲即將加息的擔憂，推動股市和債市上漲。據知情人士透露，摩根大通將發行四部分債券，期限從4年到15年不等，最長期限債券的初始價格指引為較美國國債收益率高約150個基點。另一位知情人士表示，摩根士丹利也在發行四部分債券，期限介於3年至11年之間。由於未獲授權公開發言，該人士要求匿名。最長期限債券的初始價格指引為較美國國債收益率高約130個基點。"
-    },
-    {
-      "id": "4990464",
-      "time": "2026-07-15 23:37:23",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 美聯儲尋求經濟增長覆蓋面擴大、通脹收窄回落。 過去幾個季度，企業整體盈利普遍上行。"
-    },
-    {
-      "id": "mkt:019f666c-c604-7aab-8dab-087681838af1",
-      "time": "2026-07-15 23:37:12",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Fed Chair Kevin Warsh said the Fed is seeking broader-based growth and more contained inflation."
-    },
-    {
-      "id": "mkt:019f666c-a184-7aab-8dab-0489b112c92a",
-      "time": "2026-07-15 23:37:02",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "Fed chair Kevin Warsh said corporate profits have broadly risen over the past several quarters."
-    },
-    {
-      "id": "4990463",
-      "time": "2026-07-15 23:36:53",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "塔斯尼姆通訊社：伊朗外交部發言人表示，目前暫無談判計劃，當前重心放在防務事務上。"
-    },
-    {
-      "id": "mkt:019f666c-553b-7aab-8daa-fd743e12873b",
-      "time": "2026-07-15 23:36:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's foreign ministry spokesman said there are no current plans to negotiate and that Tehran is focused on defense."
-    },
-    {
-      "id": "4990462",
-      "time": "2026-07-15 23:36:37",
-      "tags": [
-        "公司",
-        "其他",
-        "焦點"
-      ],
-      "text": "【阿斯麥據悉計劃提高晶片製造裝置價格】據四位知情人士透露，全球核心晶片裝置供應商阿斯麥計劃提高晶片製造裝置價格，而臺積電已開始抵制阿斯麥的定價方案。"
     }
   ]
 }
