@@ -1,7 +1,50 @@
 {
   "date": "2026-07-23",
-  "count": 178,
+  "count": 183,
   "items": [
+    {
+      "id": "5002929",
+      "time": "2026-07-23 02:23:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股AI應用軟體股持續走低】美股AI應用軟體股持續走低，UiPath跌超13%，Reddit跌近9%，Palantir跌近7%，ServiceNow跌超6%，賽富時跌超4%。"
+    },
+    {
+      "id": "5002928",
+      "time": "2026-07-23 02:22:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：美參議院委員會推進法案，或禁止梅賽德斯-賓士在美銷售。"
+    },
+    {
+      "id": "mkt:019f8b10-c95f-7aab-8e4f-9126332eb5e9",
+      "time": "2026-07-23 02:22:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports NATO has approved €27 bln to upgrade its Cold War-era fuel transport network."
+    },
+    {
+      "id": "5002927",
+      "time": "2026-07-23 02:21:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta：起訴Meta公司造成心理健康傷害的青少年原告在庭審前幾天撤銷了對公司的指控。"
+    },
+    {
+      "id": "te:markets:568956",
+      "time": "2026-07-23 02:20:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.93% — Top commodity gainers are Silver (1.93%), Gold (1.49%) and Platinum (0.54%). Biggest losers are Copper (-1.27%), Iron Ore CNY (-1.27%) and Lithium Carbonate (-0.69%)."
+    },
     {
       "id": "mkt:019f8b0d-ec99-7aab-8e4f-8e8ae39d1429",
       "time": "2026-07-23 02:19:33",

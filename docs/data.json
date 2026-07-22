@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-23 02:20:15",
-  "count": 17663,
+  "updated": "2026-07-23 02:24:30",
+  "count": 17666,
   "items": [
+    {
+      "id": "5002929",
+      "time": "2026-07-23 02:23:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股AI應用軟體股持續走低】美股AI應用軟體股持續走低，UiPath跌超13%，Reddit跌近9%，Palantir跌近7%，ServiceNow跌超6%，賽富時跌超4%。"
+    },
+    {
+      "id": "5002928",
+      "time": "2026-07-23 02:22:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場資訊：美參議院委員會推進法案，或禁止梅賽德斯-賓士在美銷售。"
+    },
+    {
+      "id": "mkt:019f8b10-c95f-7aab-8e4f-9126332eb5e9",
+      "time": "2026-07-23 02:22:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Politico reports NATO has approved €27 bln to upgrade its Cold War-era fuel transport network."
+    },
+    {
+      "id": "5002927",
+      "time": "2026-07-23 02:21:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "Meta：起訴Meta公司造成心理健康傷害的青少年原告在庭審前幾天撤銷了對公司的指控。"
+    },
+    {
+      "id": "te:markets:568956",
+      "time": "2026-07-23 02:20:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.93% — Top commodity gainers are Silver (1.93%), Gold (1.49%) and Platinum (0.54%). Biggest losers are Copper (-1.27%), Iron Ore CNY (-1.27%) and Lithium Carbonate (-0.69%)."
+    },
     {
       "id": "mkt:019f8b0d-ec99-7aab-8e4f-8e8ae39d1429",
       "time": "2026-07-23 02:19:33",
@@ -161194,25 +161237,6 @@
         "其他"
       ],
       "text": "【“十五五”時期基本建成天空地海一體化生態環境監測網路】生態環境部、國家發展改革委近日聯合印發《生態環境監測“十五五”規劃》（以下稱為《規劃》），為未來五年我國生態環境監測工作劃定路線圖，也為美麗中國建設築牢監測根基。《規劃》提出，到2030年，現代化生態環境監測體系建設取得重要進展。基本建成天空地海一體化生態環境監測網路，國家監測網路實現體系化執行和數智化升級，央地監測網路協同佈局、互聯互通。新汙染物、重金屬、生態問題等風險預警監測能力基本形成，資料質量持續提高。到2035年，基本建成現代化監測體系，生態環境監測綜合實力達到國際先進水平。（央視新聞）"
-    },
-    {
-      "id": "4990581",
-      "time": "2026-07-16 02:23:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "阿曼投資局：規模 52 億美元的阿曼未來基金公佈總值 17.44 億美元的一批專案。"
-    },
-    {
-      "id": "te:markets:567305",
-      "time": "2026-07-16 02:20:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Platinum Gains by 2.22% — Top commodity gainers are Platinum (2.22%), Steel Rebar (0.84%) and Gold (0.36%). Biggest losers are Silver (-0.95%) and Silicon (-0.89%)."
     }
   ]
 }
