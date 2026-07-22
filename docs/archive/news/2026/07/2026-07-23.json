@@ -1,7 +1,62 @@
 {
   "date": "2026-07-23",
-  "count": 245,
+  "count": 251,
   "items": [
+    {
+      "id": "mkt:019f8b38-db87-7aab-8e50-61c60215aacb",
+      "time": "2026-07-23 03:06:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brazil's trade minister said Brazil will impose reciprocal countermeasures on the United States if necessary."
+    },
+    {
+      "id": "5002971",
+      "time": "2026-07-23 03:04:05",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：最新雙週報告期內，投資基金增持 456.97 億美元 2029 年 7 月 15 日到期的 3 年期國債，上月規模為 421.81 億美元。\n外資買入 68.32 億美元 2029 年 7 月 15 日到期 3 年期國債，上月買入 56.37 億美元。"
+    },
+    {
+      "id": "5002970",
+      "time": "2026-07-23 03:03:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7750元，較週二夜盤收盤跌85點。成交量360.14億美元。"
+    },
+    {
+      "id": "5002969",
+      "time": "2026-07-23 03:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷統計局：5 月經濟活動同比增長 0.20%，路透社調查預期為 2.3%。"
+    },
+    {
+      "id": "5002968",
+      "time": "2026-07-23 03:03:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：談判並未遭到禁止，但我們不會為無法銷往美國的產品惋惜，我們會開拓其他市場。"
+    },
+    {
+      "id": "mkt:019f8b34-fb7e-7aab-8e50-5cf26a57e1b0",
+      "time": "2026-07-23 03:02:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said negotiations are not prohibited, but Brazil will not lament products that cannot be exported to the US and will seek alternative markets."
+    },
     {
       "id": "mkt:019f8b34-d467-7aab-8e50-573ade26b3f5",
       "time": "2026-07-23 03:02:02",

@@ -1,7 +1,62 @@
 {
-  "updated": "2026-07-23 03:03:14",
-  "count": 17681,
+  "updated": "2026-07-23 03:07:12",
+  "count": 17682,
   "items": [
+    {
+      "id": "mkt:019f8b38-db87-7aab-8e50-61c60215aacb",
+      "time": "2026-07-23 03:06:26",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Brazil's trade minister said Brazil will impose reciprocal countermeasures on the United States if necessary."
+    },
+    {
+      "id": "5002971",
+      "time": "2026-07-23 03:04:05",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：最新雙週報告期內，投資基金增持 456.97 億美元 2029 年 7 月 15 日到期的 3 年期國債，上月規模為 421.81 億美元。\n外資買入 68.32 億美元 2029 年 7 月 15 日到期 3 年期國債，上月買入 56.37 億美元。"
+    },
+    {
+      "id": "5002970",
+      "time": "2026-07-23 03:03:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7750元，較週二夜盤收盤跌85點。成交量360.14億美元。"
+    },
+    {
+      "id": "5002969",
+      "time": "2026-07-23 03:03:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿根廷統計局：5 月經濟活動同比增長 0.20%，路透社調查預期為 2.3%。"
+    },
+    {
+      "id": "5002968",
+      "time": "2026-07-23 03:03:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：談判並未遭到禁止，但我們不會為無法銷往美國的產品惋惜，我們會開拓其他市場。"
+    },
+    {
+      "id": "mkt:019f8b34-fb7e-7aab-8e50-5cf26a57e1b0",
+      "time": "2026-07-23 03:02:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said negotiations are not prohibited, but Brazil will not lament products that cannot be exported to the US and will seek alternative markets."
+    },
     {
       "id": "mkt:019f8b34-d467-7aab-8e50-573ade26b3f5",
       "time": "2026-07-23 03:02:02",
@@ -161333,53 +161388,6 @@
         "其他"
       ],
       "text": "STUBHUB股價暴跌12%，創3月初以來最大跌幅。"
-    },
-    {
-      "id": "mkt:019f672a-e4e2-7aab-8daf-28426659ea8f",
-      "time": "2026-07-16 03:04:52",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Kuwait defense ministry spokesman said Iran's \"aggressive actions\" targeted multiple critical facilities, causing property damage but no casualties."
-    },
-    {
-      "id": "4990617",
-      "time": "2026-07-16 03:04:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特表示，伊朗週三發動的襲擊造成設施受損，暫無人員傷亡。"
-    },
-    {
-      "id": "mkt:019f672a-555f-7aab-8daf-211482a899ae",
-      "time": "2026-07-16 03:04:15",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Kuwait said its armed forces intercepted 4 cruise missiles and 21 drones from Iran on Wednesday."
-    },
-    {
-      "id": "4990614",
-      "time": "2026-07-16 03:03:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特稱其武裝部隊週三攔截了來自伊朗的四枚巡航導彈和二十一架無人機。"
-    },
-    {
-      "id": "4990613",
-      "time": "2026-07-16 03:03:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西出口商協會CECAFE資料顯示，2025/26種植年度巴西羅布斯塔咖啡出口量為503萬袋（每袋60公斤），較上年下降23.5%。"
     }
   ]
 }
