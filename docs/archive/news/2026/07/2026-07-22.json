@@ -1,7 +1,138 @@
 {
   "date": "2026-07-22",
-  "count": 512,
+  "count": 527,
   "items": [
+    {
+      "id": "mkt:019f8722-040d-7aab-8e34-65a2eec4118f",
+      "time": "2026-07-22 08:03:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI hit 7,100 points, up 5.27% intraday."
+    },
+    {
+      "id": "5001034",
+      "time": "2026-07-22 08:02:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受晶片股跟隨美股上漲的提振，韓國綜合股價指數（KOSPI）上漲5.2%。"
+    },
+    {
+      "id": "mkt:019f8721-61b4-7aab-8e34-597b8ca18312",
+      "time": "2026-07-22 08:02:19",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index opened on Wednesday, July 22, up 253.91 points (0.38%) at 66,486.10."
+    },
+    {
+      "id": "5001033",
+      "time": "2026-07-22 08:01:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國方面表示，下半年外匯供需平衡將有所改善。"
+    },
+    {
+      "id": "mkt:019f8720-a067-7aab-8e34-5119c555734c",
+      "time": "2026-07-22 08:01:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【KOSPI up 4.5% to above 7,000】KOSPI rose above 7,000, gaining 4.51% intraday. Samsung Electronics shares rose 5% and SK Hynix rose 7%."
+    },
+    {
+      "id": "5001032",
+      "time": "2026-07-22 08:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲7%。"
+    },
+    {
+      "id": "5001031",
+      "time": "2026-07-22 08:01:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報7052.09點，上漲4.5%。"
+    },
+    {
+      "id": "5001030",
+      "time": "2026-07-22 08:00:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價上漲7％，三星電子股價上漲5％。"
+    },
+    {
+      "id": "mkt:019f8720-0932-7aab-8e34-4ae62a414631",
+      "time": "2026-07-22 08:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's deputy finance minister said authorities have ensured ample policy space, if needed, to stabilize the FX market."
+    },
+    {
+      "id": "5001029",
+      "time": "2026-07-22 08:00:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國敦促出口商將更多海外資金匯回國內。韓國表示有充足的能力穩定外匯市場。。"
+    },
+    {
+      "id": "mkt:019f871f-eb22-7aab-8e34-420ca41ebdf0",
+      "time": "2026-07-22 08:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's deputy finance minister said there are signs the 'herd effect' in USD/KRW trading is easing."
+    },
+    {
+      "id": "mkt:019f871f-bc59-7aab-8e34-3a079b9baf4e",
+      "time": "2026-07-22 08:00:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Korea's deputy finance minister urged exporters to repatriate more overseas dollar proceeds."
+    },
+    {
+      "id": "5001028",
+      "time": "2026-07-22 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報66449.27點，漲幅0.33％。韓國綜合股價指數（KOSPI）開盤報7052.09點，上漲4.5％。"
+    },
+    {
+      "id": "5001027",
+      "time": "2026-07-22 07:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美洲開發銀行未來五年擬向厄瓜多提供至多105億美元貸款】美洲開發銀行行長伊蘭・戈德法恩在社交平臺X上表示，該行計劃未來五年向厄瓜多提供750億至105億美元融資。戈德法恩稱，最終放款規模能否觸及區間上限，取決於厄瓜多能否順利落實各項激勵投資所需配套條件。相關融資將用於治安與犯罪防控、公共住房補貼、教育及勞動力技能培訓、改善兒童慢性營養不良的醫療專案，同時支援私營部門在礦業、能源、農業綜合產業、製造業及旅遊業領域開展投資。"
+    },
+    {
+      "id": "mkt:019f871e-7fb1-7aab-8e34-3284b46a6867",
+      "time": "2026-07-22 07:59:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News, citing Hormozgan provincial officials, said no \"enemy\" attack or explosion occurred in Sirik or elsewhere in southern Hormozgan province."
+    },
     {
       "id": "5001026",
       "time": "2026-07-22 07:58:11",

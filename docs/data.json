@@ -1,7 +1,138 @@
 {
-  "updated": "2026-07-22 07:59:25",
-  "count": 18065,
+  "updated": "2026-07-22 08:03:26",
+  "count": 18066,
   "items": [
+    {
+      "id": "mkt:019f8722-040d-7aab-8e34-65a2eec4118f",
+      "time": "2026-07-22 08:03:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's KOSPI hit 7,100 points, up 5.27% intraday."
+    },
+    {
+      "id": "5001034",
+      "time": "2026-07-22 08:02:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受晶片股跟隨美股上漲的提振，韓國綜合股價指數（KOSPI）上漲5.2%。"
+    },
+    {
+      "id": "mkt:019f8721-61b4-7aab-8e34-597b8ca18312",
+      "time": "2026-07-22 08:02:19",
+      "tags": [
+        "MKT News",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "Japan's Nikkei index opened on Wednesday, July 22, up 253.91 points (0.38%) at 66,486.10."
+    },
+    {
+      "id": "5001033",
+      "time": "2026-07-22 08:01:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國方面表示，下半年外匯供需平衡將有所改善。"
+    },
+    {
+      "id": "mkt:019f8720-a067-7aab-8e34-5119c555734c",
+      "time": "2026-07-22 08:01:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "005930.KS",
+        "Impact bullish",
+        "000660.KS"
+      ],
+      "text": "【KOSPI up 4.5% to above 7,000】KOSPI rose above 7,000, gaining 4.51% intraday. Samsung Electronics shares rose 5% and SK Hynix rose 7%."
+    },
+    {
+      "id": "5001032",
+      "time": "2026-07-22 08:01:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "SK海力士股價上漲7%。"
+    },
+    {
+      "id": "5001031",
+      "time": "2026-07-22 08:01:04",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "韓國綜合股價指數（KOSPI）開盤報7052.09點，上漲4.5%。"
+    },
+    {
+      "id": "5001030",
+      "time": "2026-07-22 08:00:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "SK海力士股價上漲7％，三星電子股價上漲5％。"
+    },
+    {
+      "id": "mkt:019f8720-0932-7aab-8e34-4ae62a414631",
+      "time": "2026-07-22 08:00:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's deputy finance minister said authorities have ensured ample policy space, if needed, to stabilize the FX market."
+    },
+    {
+      "id": "5001029",
+      "time": "2026-07-22 08:00:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國敦促出口商將更多海外資金匯回國內。韓國表示有充足的能力穩定外匯市場。。"
+    },
+    {
+      "id": "mkt:019f871f-eb22-7aab-8e34-420ca41ebdf0",
+      "time": "2026-07-22 08:00:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "South Korea's deputy finance minister said there are signs the 'herd effect' in USD/KRW trading is easing."
+    },
+    {
+      "id": "mkt:019f871f-bc59-7aab-8e34-3a079b9baf4e",
+      "time": "2026-07-22 08:00:31",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Korea's deputy finance minister urged exporters to repatriate more overseas dollar proceeds."
+    },
+    {
+      "id": "5001028",
+      "time": "2026-07-22 08:00:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "【日韓股市開盤】日經225指數上午開盤報66449.27點，漲幅0.33％。韓國綜合股價指數（KOSPI）開盤報7052.09點，上漲4.5％。"
+    },
+    {
+      "id": "5001027",
+      "time": "2026-07-22 07:59:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美洲開發銀行未來五年擬向厄瓜多提供至多105億美元貸款】美洲開發銀行行長伊蘭・戈德法恩在社交平臺X上表示，該行計劃未來五年向厄瓜多提供750億至105億美元融資。戈德法恩稱，最終放款規模能否觸及區間上限，取決於厄瓜多能否順利落實各項激勵投資所需配套條件。相關融資將用於治安與犯罪防控、公共住房補貼、教育及勞動力技能培訓、改善兒童慢性營養不良的醫療專案，同時支援私營部門在礦業、能源、農業綜合產業、製造業及旅遊業領域開展投資。"
+    },
+    {
+      "id": "mkt:019f871e-7fb1-7aab-8e34-3284b46a6867",
+      "time": "2026-07-22 07:59:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "TASNIM News, citing Hormozgan provincial officials, said no \"enemy\" attack or explosion occurred in Sirik or elsewhere in southern Hormozgan province."
+    },
     {
       "id": "5001026",
       "time": "2026-07-22 07:58:11",
@@ -165962,143 +166093,6 @@
         "市場"
       ],
       "text": "MSCI亞太指數上漲1.2%至270.58點。"
-    },
-    {
-      "id": "mkt:019f6315-c838-7aab-8d8c-172f82ff1461",
-      "time": "2026-07-15 08:03:19",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "【KOSPI surges over 6%, tops 7,200】South Korea's KOSPI rose 6.37% intraday to breach 7,200 points."
-    },
-    {
-      "id": "4988662",
-      "time": "2026-07-15 08:02:49",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）上漲6.4%，至7293.71點。"
-    },
-    {
-      "id": "mkt:019f6315-3875-7aab-8d8c-09af8a2a85c4",
-      "time": "2026-07-15 08:02:42",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Japan's Nikkei 225 opened July 15 (Wednesday) up 434.73 points, or 0.64%, at 68,178.23 points."
-    },
-    {
-      "id": "te:markets:566942",
-      "time": "2026-07-15 08:02:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Edge Higher on Soft CPI — US stock futures edged higher on Wednesday after the major indexes posted gains in the previous session, as softer-than-expected inflation data reduced expectations of a near-term Federal Reserve interest rate hike. The annual US inflation rate slowed to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped curb energy inflation. Consumer prices also declined 0.4% from the previous month, marking the first monthly drop since 2020. In Tuesday’s regular session, the S&P 500 and Nasdaq Composite rose 0.38% and 0.9%, respectively, while the Dow added 0.02%. Six of the 11 S&P sectors ended in positive territory, with technology, communication services, and energy leading the gains. Banking stocks also advanced following another round of strong quarterly earnings. Investors are now awaiting another wave of corporate results on Wednesday, including earnings from Johnson & Johnson, Morgan Stanley, and BlackRock."
-    },
-    {
-      "id": "mkt:019f6314-c178-7aab-8d8c-01e65df8ddf8",
-      "time": "2026-07-15 08:02:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "000660.KS",
-        "Impact bullish",
-        "005930.KS"
-      ],
-      "text": "【KOSPI opens up 3.49% as SK Hynix jumps 10%】On July 15 (Wednesday) South Korea's KOSPI opened up 239.58 points, or 3.49%, at 7,096.41. SK Hynix rose 10%; Samsung Electronics gained 7%."
-    },
-    {
-      "id": "4988661",
-      "time": "2026-07-15 08:01:26",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "SK海力士漲10%，三星電子漲7%。"
-    },
-    {
-      "id": "4988660",
-      "time": "2026-07-15 08:01:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "30年期日本國債收益率上升0.5個基點，至3.740%。"
-    },
-    {
-      "id": "4988659",
-      "time": "2026-07-15 08:01:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【力積電7月起將儲存代工報價上調45%】7月14日，力積電總經理朱憲國在業績說明會上表示，公司自本月起將儲存代工報價上調45%，相關產能預計11月投產，有望進一步拉動營收、提升盈利，同時提高儲存業務在整體營收中的佔比。"
-    },
-    {
-      "id": "4988658",
-      "time": "2026-07-15 08:00:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）開盤上漲3.3%，至7082.91點。"
-    },
-    {
-      "id": "4988657",
-      "time": "2026-07-15 08:00:34",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：業績期關注AI、漲價、製造三大線索】華泰證券研報認為，業績期關注AI、漲價、製造三大線索。隨著業績預告密集披露期臨近，華泰證券從多個維度觀察：1）中報業績預告披露率目前仍較低，披露率及預喜率居前的行業為石化、非銀、有色、化工、電子等，預告淨利潤增速中位數居前的行業為農業、石化、軍工、計算機、傳媒，隨著披露率上升或仍有變化；2）考察近1個月盈利預期變化，上修幅度居前的行業為煤炭、建材、電子、通訊、化工，上修寬度居前的行業為建材、煤炭、有色、通訊、機械；3）中觀資料顯示景氣改善的線索集中AI鏈（元件、半導體、光通訊、光電、遊戲等）、漲價鏈（航運、玻纖、煤炭、造紙、部分化工品、銅等）、製造出海（航海裝備、通用自動化、電池、工程機械等）。"
-    },
-    {
-      "id": "4988656",
-      "time": "2026-07-15 08:00:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "日經225指數上午開盤報67989.74點，漲幅0.36%。"
-    },
-    {
-      "id": "4988655",
-      "time": "2026-07-15 08:00:06",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破86美元/桶，日內漲0.48%。"
-    },
-    {
-      "id": "4988654",
-      "time": "2026-07-15 07:59:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部稱已拉響警報。"
-    },
-    {
-      "id": "mkt:019f6312-559d-7aab-8d8b-f9ebb1c59cb1",
-      "time": "2026-07-15 07:59:33",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Bahrain's Interior Ministry said an alarm had sounded."
     }
   ]
 }
