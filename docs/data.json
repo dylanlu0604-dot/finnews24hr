@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-22 23:45:13",
-  "count": 17690,
+  "updated": "2026-07-22 23:49:20",
+  "count": 17684,
   "items": [
+    {
+      "id": "mkt:019f8a83-ce13-7aab-8e4d-40e60182032c",
+      "time": "2026-07-22 23:48:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he supports Pakistan achieving economic self-sufficiency."
+    },
+    {
+      "id": "5002823",
+      "time": "2026-07-22 23:47:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿斯頓·馬丁敲定由HPS（貝萊德的私募信貸機構）主導的5.5億英鎊債務融資。"
+    },
+    {
+      "id": "5002822",
+      "time": "2026-07-22 23:46:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Reddit股價大跌 有報道稱其可能限制谷歌訪問許可權】Reddit股價一度大跌11%，創下3月以來最大日內跌幅。之前有報道稱，這家社交論壇公司已經討論過切斷谷歌為了人工智慧用途而對其內容的訪問許可權。"
+    },
+    {
+      "id": "5002821",
+      "time": "2026-07-22 23:46:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "【格里爾：有望在年底前取得美墨加協定階段性進展】美國貿易代表傑米森·格里爾表示，他期待在2026年底前推動美墨加協定（USMCA）取得階段性進展；不過特朗普政府尋求與墨西哥、加拿大敲定更強約束條款，談判或將延續至2027年。“美墨加協定中有部分議題耗時更久才能解決，都是相當關鍵的問題。”他稱。格里爾在參議院財政委員會聽證會上表示：“我希望從現在至年底，至少能分別與加拿大、墨西哥達成部分安排。而原產地規則這類核心議題，還有不少人高度關注勞工與環境條款，這些議題需要更多時間磋商，相關討論或將延續至明年，並同步徵詢國會意見。”格里爾同時提出，與美國簽署貿易協定的國家應當恪守承諾，美方關稅是保障協議落地的手段之一。他透露，週二已與加拿大貿易官員通話，對方並未表態計劃針對美國擬對加拿大約5%進口商品徵收50%關稅的舉措實施報復。"
+    },
+    {
+      "id": "5002820",
+      "time": "2026-07-22 23:45:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【蘋果據悉擬全面升級Mac產品線 押注AI帶動高效能電腦需求】蘋果公司正準備對Mac產品線進行全面升級，希望藉助人工智慧熱潮所推動的對高效能膝上型電腦和桌上型電腦的需求。蘋果計劃從今年秋季至明年陸續推出旗下所有Mac產品的新版本，包括備受期待的臺式電腦更新、多款膝上型電腦，以及新款MacBook Pro。蘋果將率先推出更新後的入門級14英寸MacBook Pro，該機型將成為首批搭載全新M6晶片的Mac產品之一，蘋果還將釋出兩年來首款新版iMac。"
+    },
     {
       "id": "5002819",
       "time": "2026-07-22 23:44:14",
@@ -161473,121 +161513,6 @@
         "國際"
       ],
       "text": "美國中央司令部： 伊朗官方媒體稱美軍 7 月 14 日襲擊了霍韋澤一處民用小麥倉儲設施。該說法不實。"
-    },
-    {
-      "id": "mkt:019f6677-31a8-7aab-8dab-70ed494a68ff",
-      "time": "2026-07-15 23:48:35",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "Commodities",
-        "Energy",
-        "Brent"
-      ],
-      "text": "Market sources: the EU will maintain the Russian oil price cap at its current level until July 23."
-    },
-    {
-      "id": "4990475",
-      "time": "2026-07-15 23:48:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官透露，歐盟各國特使達成一致：在制裁相關磋商持續推進期間，維持俄原油價格上限不變，有效期至 7 月 23 日。"
-    },
-    {
-      "id": "mkt:019f6677-2631-7aab-8dab-680d39c6ff30",
-      "time": "2026-07-15 23:48:32",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Federal Reserve Chair Kevin Warsh said if AI delivers disappointing returns, most AI-related capex can be repurposed for other uses."
-    },
-    {
-      "id": "4990474",
-      "time": "2026-07-15 23:48:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟外交官稱，歐盟各國特使未能就針對俄羅斯的第 21 輪制裁方案達成共識。"
-    },
-    {
-      "id": "mkt:019f6676-c051-7aab-8dab-646a20f5b1bc",
-      "time": "2026-07-15 23:48:06",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "CENTCOM said Iran attacked innocent civilians in the Strait and neighboring Gulf states."
-    },
-    {
-      "id": "4990473",
-      "time": "2026-07-15 23:48:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 即便人工智慧行業的實際發展不及預期，大量人工智慧相關資本開支仍具備其他用途。"
-    },
-    {
-      "id": "mkt:019f6676-8be3-7aab-8dab-59a5f226f8d5",
-      "time": "2026-07-15 23:47:52",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Market sources: EU diplomats said the EU envoy failed to secure agreement on the 21st round of sanctions on Russia."
-    },
-    {
-      "id": "mkt:019f6676-2eea-7aab-8dab-53cdfbc2bca9",
-      "time": "2026-07-15 23:47:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "CENTCOM said the Iranian state-media report that U.S. forces struck a civilian wheat storage facility on July 14 was false."
-    },
-    {
-      "id": "4990472",
-      "time": "2026-07-15 23:45:33",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯央行：第二季度經濟活動高於第一季度，表明GDP有望實現同比增長。由於燃料價格上漲，價格增長顯著加快，但持續的通脹壓力仍低於2025年水平。風險平衡進一步向通脹傾斜，考慮到財政刺激和燃料危機。"
-    },
-    {
-      "id": "mkt:019f6674-4ae5-7aab-8dab-4e19e41be386",
-      "time": "2026-07-15 23:45:25",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Russian central bank: price growth has accelerated sharply on fuel-price rises, but persistent inflationary pressure remains below 2025 levels."
-    },
-    {
-      "id": "mkt:019f6674-42c1-7aab-8dab-41ba4b16bd1a",
-      "time": "2026-07-15 23:45:22",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "US10Y"
-      ],
-      "text": "RUSSIAN CENBANK says risk balance has further tilted toward inf amid fiscal stimulus and the fuel crisis."
     }
   ]
 }
