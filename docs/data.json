@@ -1,7 +1,220 @@
 {
-  "updated": "2026-07-22 19:59:56",
-  "count": 18027,
+  "updated": "2026-07-22 20:04:01",
+  "count": 18044,
   "items": [
+    {
+      "id": "5002439",
+      "time": "2026-07-22 20:03:22",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股盤前，美股三大股指期貨齊跌。截至發稿，道指期貨跌0.26%，標普500指數期貨跌0.37%，納指期貨跌0.88%。\n②德國DAX指數漲0.23%，英國富時100指數漲1.11%，法國CAC40指數漲0.77%，歐洲斯托克50指數漲0.13%。\n③WTI原油漲3.69%，報87.45美元/桶。布倫特原油漲3.98%，報94.63美元/桶。\n④儘管中東緊張局勢升級給市場帶來壓力，但在抄底買盤的支撐下，金價延續了漲勢。金價盤中一度上漲1.6%，突破每盎司4140美元。\n⑤特朗普宣佈自 8 月 1 日起，美國對進口仿製藥實行為期兩年的零關稅政策，意在倒逼仿製藥廠商赴美建廠投產。\n⑥今年5月剛剛獲准在美國交易的加密貨幣永續期貨合約，正吸引大量散戶投資者湧入。然而，消費者權益倡導機構警告該產品缺乏危機緩衝，可能使小投資者蒙受重大損失，並加劇市場波動。\n⑦SK海力士美股盤前跌6.5％。此前該公司表示無意收購英特爾位於俄亥俄州的晶圓廠。\n⑧超微電腦股價盤前大漲16.2%，此前該公司公佈第四季度訂單總額達到600億美元。\n⑨GE Vernova美股盤前漲超5%，，其二季度調整後EPS不及預期。"
+    },
+    {
+      "id": "mkt:019f89b5-80c5-7aab-8e47-48a6e1f3b4be",
+      "time": "2026-07-22 20:03:21",
+      "tags": [
+        "MKT News",
+        "MSFT.O"
+      ],
+      "text": "Microsoft (MSFT.O) committed $60 mln in funding to the U.S. Department of Energy's Genesis Mission."
+    },
+    {
+      "id": "te:markets:568888",
+      "time": "2026-07-22 20:03:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Pull Back — Futures tracking US equity indices fell on Wednesday, trimming gains from the previous session amid a deteriorating macroeconomic backdrop and reversal to the AI rally. Contracts for the S&P 500 and the Dow fell 0.3%, and renewed weakness for chip producers drove the Nasdaq to fall 1.5%. Micron, Intel, and Sandisk sank nearly 4% premarket while Nvidia dropped 1.5%. The sector remained volatile reflecting the market's indecisiveness on whether AI hyperscalers will continue to grow orders for hardware. Insights on the trade are due after the bell with Alphabet's earnings results, the first update after the company's capital expenditure raise last quarter. Tesla dropped 1.5% as it is also due to report, recently testing its lowest price since April. Hostilities between US and Iran were magnified after Secretary of State Rubio downplayed hopes of diplomacy, raising energy inflation risks and lifting yields. Financials fell, with Visa down 1%."
+    },
+    {
+      "id": "5002438",
+      "time": "2026-07-22 20:03:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府為創世紀計劃撥款50億美元。"
+    },
+    {
+      "id": "5002437",
+      "time": "2026-07-22 20:02:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "威利加入美國能源部創世紀使命聯盟，推進人工智慧賦能的科學發現。"
+    },
+    {
+      "id": "5002436",
+      "time": "2026-07-22 20:02:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭表示經濟前景下行風險加劇。"
+    },
+    {
+      "id": "5002435",
+      "time": "2026-07-22 20:02:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗南部拉臘克島遭到美國導彈襲擊】伊朗方面當地時間22日訊息，當天14時48分，伊朗南部拉臘克島遭到美國導彈襲擊。據當地居民反映，島嶼附近傳出劇烈爆炸聲。有關部門目前正對這次襲擊的具體情況展開調查。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f89b4-7260-7aab-8e47-44661d579191",
+      "time": "2026-07-22 20:02:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Baltic Dry Index rose 1.69% to 2,715."
+    },
+    {
+      "id": "5002434",
+      "time": "2026-07-22 20:02:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "波羅的海乾散貨指數漲1.69%，報2715點。"
+    },
+    {
+      "id": "5002433",
+      "time": "2026-07-22 20:02:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟承諾向美國能源部創世紀計劃投入6000萬美元。"
+    },
+    {
+      "id": "mkt:019f89b4-5ddd-7aab-8e47-3fa72ed6a6ca",
+      "time": "2026-07-22 20:02:06",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Manulife Financial will adopt Microsoft's (MSFT.O) Frontier suite and deploy Microsoft Agent 365 to support enterprise AI applications."
+    },
+    {
+      "id": "5002432",
+      "time": "2026-07-22 20:02:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "愛爾蘭政府擬定2027年預算規模85億歐元。"
+    },
+    {
+      "id": "mkt:019f89b4-27f8-7aab-8e47-368642251d25",
+      "time": "2026-07-22 20:01:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars"
+      ],
+      "text": "【IDC: 2026 AI infrastructure spend seen up 56% to $497bn; Arm-based racks supplant x86】IDC says Q1 2026 AI infrastructure spending reached $89.7bn. Arm-based rack GPU servers have replaced x86 as the mainstream accelerated compute platform. IDC raised its 2026 AI infrastructure forecast to $497bn, up about 56% YoY, driven by hyperscaler capex growth and rising non‑GPU AI demand. The global AI infrastructure market is projected to top $1.08tn in 2029 and reach $1.21tn in 2030, a roughly 30% five‑year CAGR from 2025."
+    },
+    {
+      "id": "5002431",
+      "time": "2026-07-22 20:01:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利首席檢察官納吉辭職。"
+    },
+    {
+      "id": "5002430",
+      "time": "2026-07-22 20:01:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新華都：擬使用1620萬元至2160萬元用於回購股份】新華都公告，擬使用自有資金以集中競價交易方式回購公司發行的人民幣普通股（A股），用於實施員工持股計劃或股權激勵。回購股份數量的區間為180萬股至240萬股，佔公司目前已發行總股本7.2億股比例的區間為0.25%至0.33%，按預計回購的股份數量區間以及回購股份價格上限9元/股，本次擬回購的資金總額的區間為人民幣 1620萬元至人民幣2160萬元，具體回購數量以回購期滿時實際回購的股份數量為準。"
+    },
+    {
+      "id": "5002429",
+      "time": "2026-07-22 20:01:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委：中央企業累計打造智慧工廠超2000個】7月21日至22日，國務院國資委舉辦中央企業負責人研討班。會上釋出資訊顯示，上半年中央企業數字化轉型加速落地，累計打造智慧工廠超2000個，生產裝置設施數字化率達67%。"
+    },
+    {
+      "id": "mkt:019f89b3-933a-7aab-8e47-293ddc58c0d7",
+      "time": "2026-07-22 20:01:14",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "On July 22 at the start of the Shanghai Gold Exchange Wednesday evening session, gold T+D rose 1.79% to 898.1 yuan/gram; silver T+D fell 0.04% to 14,488 yuan/kg."
+    },
+    {
+      "id": "5002428",
+      "time": "2026-07-22 20:01:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "【霍爾木茲海峽和曼德海峽通航量雙雙下降】國際市場服務機構克普勒公司22日在社交媒體發文說，霍爾木茲海峽和曼德海峽兩大國際能源運輸通道通航量21日雙雙下降，這反映出在地區安全域性勢持續緊張的背景下，國際航運企業避險情緒進一步升溫。 資料顯示，21日霍爾木茲海峽通行船舶數量較前一日下降31%，降至9艘；曼德海峽通行船舶數量下降34%，降至29艘。 分析認為，儘管兩大海峽通航未完全停止，但航運企業運營信心持續承壓。在亞丁灣附近已有4艘船舶確認掉頭返航，顯示在胡塞武裝威脅與沙特有關聯船舶後，部分航運企業正採取更加謹慎的運營策略。 與此同時，霍爾木茲海峽附近針對商船的襲擊事件仍在持續。分析認為，霍爾木茲海峽和曼德海峽面臨的雙重風險，可能促使航運企業調整航線安排，推高國際海運成本，並維持能源市場較高的地緣政治風險溢價。(新華社)"
+    },
+    {
+      "id": "mkt:019f89b3-4b7c-7aab-8e47-22a47ba7ae01",
+      "time": "2026-07-22 20:00:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Ireland's Finance Ministry plans an €8.5 bln package for the 2027 budget, down from €9.4 bln a year earlier."
+    },
+    {
+      "id": "5002427",
+      "time": "2026-07-22 20:00:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "宏利金融集團將把Microsoft 365 Copilot的部署範圍擴大至逾3萬名員工。"
+    },
+    {
+      "id": "5002426",
+      "time": "2026-07-22 20:00:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【聽證會變互掐會，美防長被連懟“失敗”】在21日舉行的美國國會參議院撥款委員會聽證會上，民主黨籍參議員加里·彼得斯與國防部長赫格塞思圍繞軍費撥款、對伊朗軍事行動等問題激烈交鋒。彼得斯指責赫格塞思作為軍隊領導人“失敗”，稱特朗普政府在對伊朗軍事行動中缺乏明確戰略和長期規劃。赫格塞思則稱民主黨拒絕為軍隊提供撥款，熱衷黨派政治，並將當前局面歸咎於民主黨。美國媒體近期一項民調顯示，大多數美國人不認同特朗普政府對伊朗軍事行動，認為戰爭導致油價飆升，特朗普違背其競選時所作的不讓美國陷入長期軍事衝突的承諾。（新華社）"
+    },
+    {
+      "id": "5002425",
+      "time": "2026-07-22 19:59:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委：國資央企要推動資源向新興支柱產業培育等三大重點領域集聚】7月21日至22日，國務院國資委舉辦中央企業負責人研討班。會議強調，紮實做好下半年國資央企發展改革工作，國資央企要著力鞏固中央企業經濟執行良好態勢，全力以赴提質增效，持續擴大有效投資，最佳化投資結構，更好發揮帶動作用。在擴大有效投資方面，要以“十五五”規劃為指引，系統謀劃一批打基礎、利長遠、增後勁的重大工程專案。持續最佳化投資結構，推動資源向新興支柱產業培育、大規模裝置更新改造、保障性基礎設施建設等重點領域集聚。"
+    },
+    {
+      "id": "5002424",
+      "time": "2026-07-22 19:59:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：2026年AI基建支出料增長56%至4970億美元 Arm架構取代x86成主流算力平臺】根據研究公司IDC的資料，2026年第一季度人工智慧(AI)基礎設施支出達到897億美元，基於Arm架構的機架級GPU伺服器取代x86處理器，成為主流加速計算平臺。IDC還將2026年全年AI基礎設施支出預測上調至4970億美元，同比增長近56%，主要得益於超大規模雲服務商的資本支出增長以及新興的非GPU類AI需求。全球AI基礎設施市場規模將在2029年突破1萬億美元，達到1.08萬億美元，並在2030年攀升至1.21萬億美元，從2025年起五年複合年增長率(CAGR)約為30%。"
+    },
+    {
+      "id": "5002423",
+      "time": "2026-07-22 19:59:21",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【國務院國資委：著力抓好新一輪國資國企改革方案的高質量實施】7月21日至22日，國務院國資委舉辦中央企業負責人研討班。會議強調，高質量實施新一輪國資國企改革方案，抓好改革工作的縱深推進。主業管理方面，要進一步完善企業功能分類。重組整合方面，要高質量抓好新重組、新組建企業的起步運營。公司治理方面，要加強黨委（黨組）前置研究討論的實質性把關，差異化完善二、三級子企業董事會建設；強化經理層成員任期制和契約化管理的剛性兌現，深化三項制度改革，深化全員績效考核。（證券時報）"
+    },
     {
       "id": "5002422",
       "time": "2026-07-22 19:59:00",
@@ -165079,68 +165292,6 @@
         "公司"
       ],
       "text": "【每日互動：向特定物件發行股票申請獲深交所稽核透過】每日互動公告稱，公司於2026年7月15日收到深交所出具的稽核中心意見告知函，深交所認為公司向特定物件發行股票的申請符合發行、上市及資訊披露要求，後續將報中國證監會履行註冊程式。本次發行尚需獲中國證監會同意註冊方可實施，最終能否獲批及時間存在不確定性。"
-    },
-    {
-      "id": "4989962",
-      "time": "2026-07-15 20:03:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國 SPACEX、波音、洛克希德·馬丁等公司高管將出席今日白宮活動。"
-    },
-    {
-      "id": "4989961",
-      "time": "2026-07-15 20:02:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "波羅的海乾散貨運價指數下跌1.71%，報2929點。"
-    },
-    {
-      "id": "mkt:019f65a7-b9c2-7aab-8da0-8ccad6b0e8d7",
-      "time": "2026-07-15 20:01:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Baltic Dry Index (BDI) fell 1.71% to 2,929 points."
-    },
-    {
-      "id": "4989960",
-      "time": "2026-07-15 20:01:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【賢豐控股：擬設立合資公司，註冊資本1.18億元】賢豐控股公告，公司全資子公司賢豐電子科技（東莞）有限公司與廣東盈碩電子有限公司簽署合資協議，擬共同出資設立賢豐盈碩科技有限公司，註冊資本1.18億元。其中賢豐東莞以貨幣出資6018萬元持股51%，廣東盈碩以貨幣及實物出資5782萬元持股49%。合資公司主要業務為消費領域PCB的研發、生產和銷售。該事項已獲公司第八屆董事會第二十八次會議審議透過，無需提交股東會審議。"
-    },
-    {
-      "id": "mkt:019f65a7-581d-7aab-8da0-84a7f03b1eaf",
-      "time": "2026-07-15 20:01:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said an Israeli withdrawal of troops from parts of Lebanon would be a good thing."
-    },
-    {
-      "id": "mkt:019f65a6-f1ed-7aab-8da0-7c79ed095614",
-      "time": "2026-07-15 20:01:07",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 0.04% to 877.6 yuan/gram in early trade of the July 15 (Wednesday) evening session; Silver T+D rose 0.79% to 14,172 yuan/kg."
-    },
-    {
-      "id": "4989959",
-      "time": "2026-07-15 20:00:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新天科技：完成工商變更登記並取得新營業執照】新天科技公告稱，公司2026年3月25日董事會及4月21日股東會，分別審議透過登出部分回購股份、減少註冊資本及變更註冊資本、註冊地址等議案。近日，公司已完成工商變更登記並領取新《營業執照》，變更後註冊資本為11.55105035億元，住所為鄭州高新技術產業開發區青梅街50號。"
     }
   ]
 }
