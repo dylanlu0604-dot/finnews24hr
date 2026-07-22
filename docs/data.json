@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-22 09:07:24",
-  "count": 18091,
+  "updated": "2026-07-22 09:11:20",
+  "count": 18092,
   "items": [
+    {
+      "id": "mkt:019f875f-c04c-7aab-8e35-cf103ff61672",
+      "time": "2026-07-22 09:10:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say the Trump administration will submit to Congress in the coming days a nuclear cooperation agreement with Saudi Arabia that lacks relevant safeguards."
+    },
+    {
+      "id": "5001140",
+      "time": "2026-07-22 09:10:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器成立智算科技公司 含多項AI業務】企查查APP顯示，近日，正泰智算科技（浙江）有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由正泰電器(601877)全資持股。"
+    },
+    {
+      "id": "mkt:019f875f-4810-7aab-8e35-c4fcf54540f3",
+      "time": "2026-07-22 09:09:56",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【Huaxi Securities' Wei Tao: current pullback a healthy technical correction; rebound conditions maturing】Huaxi Securities deputy GM and head of research Wei Tao said on July 22 the recent pullback is a healthy technical repair after rapid gains. Since April 2026 the tech complex led strong rallies and some sectors saw sharp valuation expansion, creating an objective need for re‑rating and position transfer. Recent adjustments have digested prior profit taking and released some short‑term irrational selling. Rebound conditions are gradually maturing: broad indices’ valuations have fallen to relative year lows, improving margins of safety; leverage risk has been reduced as margin‑financing balances have declined materially; mainstream broad ETFs have attracted cash at low levels, signalling greater long‑term fund acceptance of current prices. Falling crowding and a more balanced trading structure have opened technical space for a rebound."
+    },
+    {
+      "id": "5001139",
+      "time": "2026-07-22 09:09:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華西證券魏濤：本輪迴調屬良性技術修復，反彈條件正逐步成熟】華西證券副總經理、研究所所長魏濤7月22日表示，從市場執行規律來看，本輪迴調實質上是對前期過快上漲的良性技術性修復。自2026年4月以來，科技主線持續走強，部分賽道估值快速抬升，市場客觀上存在估值迴歸與籌碼交換的內在需求。經過近期的連續調整，前期累積的獲利盤已得到一定程度的消化，短期非理性拋壓獲得一部分釋放。魏濤表示，當前市場反彈的條件正在逐步成熟。從估值層面看，各大寬基指數已回落至年內相對低位，安全邊際顯著提升；從資金面看，市場槓桿風險得到有效出清，兩融餘額顯著下降，而主流寬基ETF在低位持續獲得資金承接，顯示中長期資金對當前點位的認可度正在提升。隨著擁擠度的回落和交易結構的均衡，技術層面已經開啟了反彈修復的空間。"
+    },
+    {
+      "id": "mkt:019f875e-8a23-7aab-8e35-bab80a448b82",
+      "time": "2026-07-22 09:09:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium rose above $1,300/oz, up 1.84% on the day."
+    },
+    {
+      "id": "5001138",
+      "time": "2026-07-22 09:08:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內漲1.56%。"
+    },
+    {
+      "id": "5001137",
+      "time": "2026-07-22 09:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市釋出雷電黃色預警】7月22日09時，北京市釋出雷電黃色預警。預計，7月22日下午至前半夜，我市有雷陣雨天氣，雷雨時短時雨強較大，並伴有7級以上陣風和小冰雹，請注意防範。"
+    },
+    {
+      "id": "5001136",
+      "time": "2026-07-22 09:07:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "緯創股價上漲7.7%，臺灣加權指數上漲2.4%。MSCI亞太指數上漲1.7%。"
+    },
     {
       "id": "5001135",
       "time": "2026-07-22 09:06:49",
@@ -166275,72 +166346,6 @@
         "其他"
       ],
       "text": "【曹操出行首批Robovan投入運營】7月15日，曹操出行宣佈在長沙啟動Robovan商業化運營，首批無人物流車進入真實城市場景投入運營。"
-    },
-    {
-      "id": "4988758",
-      "time": "2026-07-15 09:10:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【聯合國安理會召開西非和薩赫勒地區局勢公開會】當地時間14日，聯合國安理會召開西非和薩赫勒問題公開會。中國常駐聯合國代表團臨時代辦孫磊表示，當前，西非和薩赫勒地區局勢總體保持穩定，經濟實現穩健增長，但仍面臨諸多挑戰。國際社會要加大關注與投入，幫助地區國家著力化解治理、安全和發展難題，鞏固來之不易的向好勢頭。中方願在中非合作論壇等框架下，為促進地區持久和平與發展繁榮作出更大貢獻。"
-    },
-    {
-      "id": "mkt:019f6352-85ea-7aab-8d8c-f9d71c0465e8",
-      "time": "2026-07-15 09:09:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Palladium front-month contract is up 4.00% intraday at 311.80 yuan/gram."
-    },
-    {
-      "id": "mkt:019f6351-f89b-7aab-8d8c-f53de82cdf93",
-      "time": "2026-07-15 09:09:04",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "【China first: State Grid Shanghai Electric completes all-mode large-scale compute‑power coordination test】During Shanghai’s summer peak, State Grid Shanghai Electric coordinated 16 data centers — including China Telecom Shanghai, GDS, Shanghai Yidian and Alibaba Group — in a two‑hour all‑mode compute‑power dispatch that reduced peak load by up to 97.8 MW. The exercise is the largest single‑city compute‑load regulation in China to date and the first field test to simultaneously dispatch three paths: flexible load adjustment, backup diesel/generator switching and cross‑domain compute transfer."
-    },
-    {
-      "id": "4988757",
-      "time": "2026-07-15 09:08:36",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "雞蛋連續主力合約日內跌2%，現報4354.00元。"
-    },
-    {
-      "id": "mkt:019f6351-8bca-7aab-8d8c-eeb8f88a77bb",
-      "time": "2026-07-15 09:08:36",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "USD/JPY dipped to 162.00, down 0.14% on the day."
-    },
-    {
-      "id": "4988756",
-      "time": "2026-07-15 09:08:22",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英矽智慧與保瑞藥業簽署戰略合作】7月15日，英矽智慧宣佈，與保瑞藥業股份有限公司達成一項戰略合作聯盟。該聯盟將建立在廣泛的、多面向合作框架之上，具體合作內容將由雙方進一步討論並簽署最終協議，若全面實施，該合作的潛在總價值有望超過25億美元。"
-    },
-    {
-      "id": "4988755",
-      "time": "2026-07-15 09:08:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "【REDMI Note 17 Pro首銷1599元起，Note系列全球累計銷量突破5億臺】REDMI Note 17系列正式釋出，包含REDMI Note 17和REDMI Note 17 Pro兩款機型。據悉，REDMI Note系列12年間全球累計銷量突破5億臺。（新浪科技）"
     }
   ]
 }

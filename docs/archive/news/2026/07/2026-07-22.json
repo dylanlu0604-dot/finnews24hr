@@ -1,7 +1,78 @@
 {
   "date": "2026-07-22",
-  "count": 678,
+  "count": 686,
   "items": [
+    {
+      "id": "mkt:019f875f-c04c-7aab-8e35-cf103ff61672",
+      "time": "2026-07-22 09:10:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say the Trump administration will submit to Congress in the coming days a nuclear cooperation agreement with Saudi Arabia that lacks relevant safeguards."
+    },
+    {
+      "id": "5001140",
+      "time": "2026-07-22 09:10:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正泰電器成立智算科技公司 含多項AI業務】企查查APP顯示，近日，正泰智算科技（浙江）有限公司成立，經營範圍包含人工智慧行業應用系統整合服務；人工智慧基礎軟體開發；人工智慧公共服務平臺技術諮詢服務等。企查查股權穿透顯示，該公司由正泰電器(601877)全資持股。"
+    },
+    {
+      "id": "mkt:019f875f-4810-7aab-8e35-c4fcf54540f3",
+      "time": "2026-07-22 09:09:56",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "Hang Seng Index",
+        "SSE Composite"
+      ],
+      "text": "【Huaxi Securities' Wei Tao: current pullback a healthy technical correction; rebound conditions maturing】Huaxi Securities deputy GM and head of research Wei Tao said on July 22 the recent pullback is a healthy technical repair after rapid gains. Since April 2026 the tech complex led strong rallies and some sectors saw sharp valuation expansion, creating an objective need for re‑rating and position transfer. Recent adjustments have digested prior profit taking and released some short‑term irrational selling. Rebound conditions are gradually maturing: broad indices’ valuations have fallen to relative year lows, improving margins of safety; leverage risk has been reduced as margin‑financing balances have declined materially; mainstream broad ETFs have attracted cash at low levels, signalling greater long‑term fund acceptance of current prices. Falling crowding and a more balanced trading structure have opened technical space for a rebound."
+    },
+    {
+      "id": "5001139",
+      "time": "2026-07-22 09:09:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【華西證券魏濤：本輪迴調屬良性技術修復，反彈條件正逐步成熟】華西證券副總經理、研究所所長魏濤7月22日表示，從市場執行規律來看，本輪迴調實質上是對前期過快上漲的良性技術性修復。自2026年4月以來，科技主線持續走強，部分賽道估值快速抬升，市場客觀上存在估值迴歸與籌碼交換的內在需求。經過近期的連續調整，前期累積的獲利盤已得到一定程度的消化，短期非理性拋壓獲得一部分釋放。魏濤表示，當前市場反彈的條件正在逐步成熟。從估值層面看，各大寬基指數已回落至年內相對低位，安全邊際顯著提升；從資金面看，市場槓桿風險得到有效出清，兩融餘額顯著下降，而主流寬基ETF在低位持續獲得資金承接，顯示中長期資金對當前點位的認可度正在提升。隨著擁擠度的回落和交易結構的均衡，技術層面已經開啟了反彈修復的空間。"
+    },
+    {
+      "id": "mkt:019f875e-8a23-7aab-8e35-bab80a448b82",
+      "time": "2026-07-22 09:09:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot palladium rose above $1,300/oz, up 1.84% on the day."
+    },
+    {
+      "id": "5001138",
+      "time": "2026-07-22 09:08:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內漲1.56%。"
+    },
+    {
+      "id": "5001137",
+      "time": "2026-07-22 09:07:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【北京市釋出雷電黃色預警】7月22日09時，北京市釋出雷電黃色預警。預計，7月22日下午至前半夜，我市有雷陣雨天氣，雷雨時短時雨強較大，並伴有7級以上陣風和小冰雹，請注意防範。"
+    },
+    {
+      "id": "5001136",
+      "time": "2026-07-22 09:07:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "緯創股價上漲7.7%，臺灣加權指數上漲2.4%。MSCI亞太指數上漲1.7%。"
+    },
     {
       "id": "5001135",
       "time": "2026-07-22 09:06:49",
