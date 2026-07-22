@@ -1,7 +1,71 @@
 {
   "date": "2026-07-23",
-  "count": 360,
+  "count": 367,
   "items": [
+    {
+      "id": "mkt:019f8b8a-8f30-7aab-8e51-f07f13a4585d",
+      "time": "2026-07-23 04:35:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Department of Energy said the United States and Saudi Arabia signed a nuclear energy cooperation agreement and an accompanying bilateral nuclear security safeguards agreement."
+    },
+    {
+      "id": "5003034",
+      "time": "2026-07-23 04:35:32",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "Alphabet：谷歌雲待交付訂單激增至 5140 億美元。"
+    },
+    {
+      "id": "5003033",
+      "time": "2026-07-23 04:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月23日美股成交額前20：AMD宣佈與Anthropic建立戰略合作】週三美股成交額第4名AMD收高1.45%，成交134.67億美元。AMD於週三宣佈與AI公司Anthropic建立戰略合作，計劃在未來向其投資高達50億美元。作為交易的一部分，Anthropic將在其AMD Helios機架級解決方案中部署2吉瓦的AMD Instinct MI450系列GPU，首吉瓦將於明年上半年上線。AMD藉此進一步拓展AI算力市場，此前已與OpenAI等企業簽署類似協議。Anthropic為應對業務激增帶來的基礎設施壓力，今年以來已陸續與SpaceX、亞馬遜、谷歌及博通等達成多項算力交易。該公司因AI編碼助手Claude Code的成功而業績猛增，年化營收已超470億美元，估值達9650億美元，並已秘密提交IPO招股書，最早可能於今年上市。"
+    },
+    {
+      "id": "5003032",
+      "time": "2026-07-23 04:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部（HHS）：特朗普政府敦促各州停用含汞牙科補牙材料。"
+    },
+    {
+      "id": "te:markets:568960",
+      "time": "2026-07-23 04:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.05% Higher — The Dow Jones Index rose 25 points or 0.05 percent on Wednesday to close at 52250 points. Leading the gains are Nvidia (2.39%), J&J (2.04%) and Boeing (1.97%). Top losers were Salesforce (-4.02%), IBM (-2.15%) and Microsoft (-1.78%)."
+    },
+    {
+      "id": "5003031",
+      "time": "2026-07-23 04:34:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國和沙烏地阿拉伯達成核合作協議。"
+    },
+    {
+      "id": "5003030",
+      "time": "2026-07-23 04:33:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【特斯拉第二季度利潤遠遜華爾街預期 成本上升拖累業績】特斯拉第二季度業績不及華爾街預期，打擊了這家正致力於圍繞機器人、自動駕駛和人工智慧打造新業務的電動汽車製造商。特斯拉週三在宣告中表示，經調整後每股收益為33美分。這低於分析師平均預期的51美分。公司還報告自由現金流為負10.9億美元。特斯拉執行長埃隆·馬斯克此前警告稱，今年的總支出將超過250億美元。該公司正計劃在六家工廠全面提升汽車、電池和機器人的產量，以踐行他的未來願景。這些投資的影響如今正逐步反映在公司財務表現中，因此投資者希望獲得更多細節。截至紐約時間下午4:16，特斯拉股價盤後下跌2.8%。截至週三收盤，該股今年以來累計下跌17%。"
+    },
     {
       "id": "mkt:019f8b86-6c43-7aab-8e51-eb4554dbaf08",
       "time": "2026-07-23 04:31:10",

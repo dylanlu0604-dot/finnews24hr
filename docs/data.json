@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-23 04:32:24",
-  "count": 17659,
+  "updated": "2026-07-23 04:36:26",
+  "count": 17661,
   "items": [
+    {
+      "id": "mkt:019f8b8a-8f30-7aab-8e51-f07f13a4585d",
+      "time": "2026-07-23 04:35:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Department of Energy said the United States and Saudi Arabia signed a nuclear energy cooperation agreement and an accompanying bilateral nuclear security safeguards agreement."
+    },
+    {
+      "id": "5003034",
+      "time": "2026-07-23 04:35:32",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "Alphabet：谷歌雲待交付訂單激增至 5140 億美元。"
+    },
+    {
+      "id": "5003033",
+      "time": "2026-07-23 04:35:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "【7月23日美股成交額前20：AMD宣佈與Anthropic建立戰略合作】週三美股成交額第4名AMD收高1.45%，成交134.67億美元。AMD於週三宣佈與AI公司Anthropic建立戰略合作，計劃在未來向其投資高達50億美元。作為交易的一部分，Anthropic將在其AMD Helios機架級解決方案中部署2吉瓦的AMD Instinct MI450系列GPU，首吉瓦將於明年上半年上線。AMD藉此進一步拓展AI算力市場，此前已與OpenAI等企業簽署類似協議。Anthropic為應對業務激增帶來的基礎設施壓力，今年以來已陸續與SpaceX、亞馬遜、谷歌及博通等達成多項算力交易。該公司因AI編碼助手Claude Code的成功而業績猛增，年化營收已超470億美元，估值達9650億美元，並已秘密提交IPO招股書，最早可能於今年上市。"
+    },
+    {
+      "id": "5003032",
+      "time": "2026-07-23 04:35:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國衛生與公眾服務部（HHS）：特朗普政府敦促各州停用含汞牙科補牙材料。"
+    },
+    {
+      "id": "te:markets:568960",
+      "time": "2026-07-23 04:35:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 0.05% Higher — The Dow Jones Index rose 25 points or 0.05 percent on Wednesday to close at 52250 points. Leading the gains are Nvidia (2.39%), J&J (2.04%) and Boeing (1.97%). Top losers were Salesforce (-4.02%), IBM (-2.15%) and Microsoft (-1.78%)."
+    },
+    {
+      "id": "5003031",
+      "time": "2026-07-23 04:34:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國和沙烏地阿拉伯達成核合作協議。"
+    },
+    {
+      "id": "5003030",
+      "time": "2026-07-23 04:33:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【特斯拉第二季度利潤遠遜華爾街預期 成本上升拖累業績】特斯拉第二季度業績不及華爾街預期，打擊了這家正致力於圍繞機器人、自動駕駛和人工智慧打造新業務的電動汽車製造商。特斯拉週三在宣告中表示，經調整後每股收益為33美分。這低於分析師平均預期的51美分。公司還報告自由現金流為負10.9億美元。特斯拉執行長埃隆·馬斯克此前警告稱，今年的總支出將超過250億美元。該公司正計劃在六家工廠全面提升汽車、電池和機器人的產量，以踐行他的未來願景。這些投資的影響如今正逐步反映在公司財務表現中，因此投資者希望獲得更多細節。截至紐約時間下午4:16，特斯拉股價盤後下跌2.8%。截至週三收盤，該股今年以來累計下跌17%。"
+    },
     {
       "id": "mkt:019f8b86-6c43-7aab-8e51-eb4554dbaf08",
       "time": "2026-07-23 04:31:10",
@@ -161206,60 +161270,6 @@
         "國際"
       ],
       "text": "【美軍7月襲擊已致伊朗35人死亡】伊朗衛生部7月15日訊息，截至當天中午12點，美國7月以來對伊朗發動的多輪襲擊已造成35人死亡、300多人受傷。據統計，霍爾木茲甘省、錫斯坦－俾路支斯坦省和胡齊斯坦省受襲擊影響最為嚴重。"
-    },
-    {
-      "id": "te:markets:567316",
-      "time": "2026-07-16 04:35:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.29% Higher — The Dow Jones Index rose 150 points or 0.29 percent on Wednesday to close at 52659 points. Leading the gains are Apple (3.95%), Amazon (2.97%) and Alphabet (2.94%). Top losers were Cisco Systems (-4.56%), IBM (-2.74%) and J&J (-2.69%)."
-    },
-    {
-      "id": "4990735",
-      "time": "2026-07-16 04:33:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "xAI：Grok Build現已開源。"
-    },
-    {
-      "id": "mkt:019f677b-b34c-7aab-8db0-6a7329350285",
-      "time": "2026-07-16 04:33:07",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "SpaceXAI open-sources a Grok build and launches a coding agent and TUI."
-    },
-    {
-      "id": "mkt:019f677b-3fc8-7aab-8db0-6316f349659d",
-      "time": "2026-07-16 04:32:38",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "EURUSD",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "【Dollar index down 0.43% at NY close on 15th】The dollar index (DXY) fell 0.43% to 100.488 at the New York close on the 15th. EUR/USD 1.1466 (prior 1.1423). GBP/USD 1.3536 (prior 1.3382). USD/JPY 162.05 (prior 162.20). USD/CHF 0.8047 (prior 0.8092). USD/CAD 1.4043 (prior 1.4067). USD/SEK 9.5898 (prior 9.6586)."
-    },
-    {
-      "id": "te:markets:567314",
-      "time": "2026-07-16 04:32:30",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Brazil",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Ibovespa Falls as Financial Stocks Weigh — The Ibovespa shed 0.4% to close at 176,011 on Wednesday following the release of a new election poll and amid escalating tensions in the Middle East. A Genial/Quaest survey showed President Lula leading Flávio Bolsonaro by eight percentage points in a hypothetical second-round runoff. Meanwhile, oil prices rose as the worsening US-Iran conflict continued to fuel concerns over global supply disruptions, reviving inflation worries. Most financial stocks traded lower, with Itaú down 1.1%. Axia lost 4.2% after Goldman Sachs lowered its forecast for the company's adjusted EBITDA, citing the recent decline in energy prices, which is expected to weigh on second-quarter results. Meanwhile, Ambev shed 1.5% despite receiving a \"buy\" recommendation from BB Investimentos. In contrast, Vale gained 0.7% as iron ore prices edged higher."
     }
   ]
 }
