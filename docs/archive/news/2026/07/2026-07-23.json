@@ -1,7 +1,53 @@
 {
   "date": "2026-07-23",
-  "count": 464,
+  "count": 468,
   "items": [
+    {
+      "id": "mkt:019f8bcf-6fb6-7aab-8e53-31a8641305c1",
+      "time": "2026-07-23 05:50:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) CFO said production growth will be constrained by battery and electronic-component supply chains."
+    },
+    {
+      "id": "5003095",
+      "time": "2026-07-23 05:49:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉CFO： 電池與電子零部件供應鏈將制約產能增長。"
+    },
+    {
+      "id": "mkt:019f8bce-1217-7aab-8e53-2ce34be76dab",
+      "time": "2026-07-23 05:49:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) CFO said the order backlog at the end of Q2 was the highest since 2023."
+    },
+    {
+      "id": "5003094",
+      "time": "2026-07-23 05:49:06",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉CFO：二季度末電動汽車在手訂單量創下 2022 年以來新高。"
+    },
     {
       "id": "5003093",
       "time": "2026-07-23 05:45:18",
