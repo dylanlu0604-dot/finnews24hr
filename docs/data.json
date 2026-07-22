@@ -1,7 +1,25 @@
 {
-  "updated": "2026-07-23 00:43:44",
+  "updated": "2026-07-23 00:47:54",
   "count": 17683,
   "items": [
+    {
+      "id": "mkt:019f8ab8-ba6a-7aab-8e4e-0d420a985996",
+      "time": "2026-07-23 00:46:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports Saudi Arabia's nuclear pact signing ceremony is scheduled for 20:30 Israel time tonight (Beijing 01:30, July 23)."
+    },
+    {
+      "id": "mkt:019f8ab5-fa7d-7aab-8e4e-009012e82284",
+      "time": "2026-07-23 00:43:29",
+      "tags": [
+        "MKT News",
+        "RDDT.O",
+        "Impact bearish"
+      ],
+      "text": "Reddit (RDDT.O) down 8.74%, after earlier sliding more than 10%, as sources say it will not renew its Google AI content collaboration agreement."
+    },
     {
       "id": "5002867",
       "time": "2026-07-23 00:42:53",
@@ -161430,27 +161448,6 @@
         "The Fed (FOMC)"
       ],
       "text": "Federal Reserve Governor Lisa Cook will speak on the economic outlook in ten minutes."
-    },
-    {
-      "id": "te:economy:567301",
-      "time": "2026-07-16 00:47:41",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada 10-Year Yield Falls on US Treasury Pullback — The yield on Canada's 10-year bond eased to 3.54% from the near two-month high of 3.57% on July 14th, as the impact from the pullback in US Treasury offset support the Bank of Canada's robust economic outlook. US yields pulled back following the combination of soft CPI and PPI readings for June, erasing expectations that the Federal Reserve would hike rates in their next meeting. Still, a sharper decline for Canadian yields were prevented by relatively hawkish rhetoric by the Bank of Canada. The central bank held interest rates unchanged in their July meeting, as expected, but underscored that growth is set to remain robust in the coming quarters. This was combined with an upward revision to inflation projections this year as the war in the Middle East lifted energy costs."
-    },
-    {
-      "id": "mkt:019f66ac-c45d-7aab-8dac-686ebc4833a6",
-      "time": "2026-07-16 00:47:06",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Trump urges New York to immediately reverse data-center policy】President Trump said data centers are among the biggest future job drivers and called them money machines. He criticized New York Governor Kathy Hochul for halting construction and planned data-center projects in the state for political reasons, saying companies are now seeking sites in Alabama, Florida, Texas, Arizona and other states. Trump warned tax revenue and jobs will flow to lower-tax states, including Republican-led and some Democratic-led states, and urged New York to change its policy immediately."
     }
   ]
 }
