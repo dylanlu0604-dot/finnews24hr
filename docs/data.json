@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-22 20:36:34",
-  "count": 18025,
+  "updated": "2026-07-22 20:40:47",
+  "count": 18021,
   "items": [
+    {
+      "id": "5002510",
+      "time": "2026-07-22 20:39:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗衛生部：美近期對伊襲擊已致53死592傷】伊朗衛生部公共關係主管侯賽因·克爾曼普爾當地時間22日表示，自今年6月27日至7月22日上午8時30分，美國對伊朗的空襲已造成53人死亡、592人受傷。（央視新聞）"
+    },
+    {
+      "id": "5002509",
+      "time": "2026-07-22 20:37:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊：戰略導彈的生產工作始終沒有中斷】伊朗武裝部隊週三表示，在為期 40 天的戰事期間以及諒解備忘錄簽署之後，該國戰略導彈的生產工作始終沒有中斷。武裝部隊發言人阿布法茲勒・謝卡爾奇稱：“無論是在這場 40 天戰事進行期間，還是在對方違反諒解備忘錄之後，我國戰略導彈的生產從未停止。”他表示：“導彈從生產線直接投入實戰使用，同時持續充實彈藥庫存。”"
+    },
+    {
+      "id": "5002508",
+      "time": "2026-07-22 20:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行公報：近期外國投資迴流表明市場對印度經濟信心重拾。"
+    },
+    {
+      "id": "5002507",
+      "time": "2026-07-22 20:36:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "AT&T預計，到2028年，其先進連線業務服務收入將以低個位數的複合年增長率增長。"
+    },
+    {
+      "id": "5002506",
+      "time": "2026-07-22 20:36:19",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "芝加哥商品交易所集團高管表示，永續期貨絕不能替代這類客戶所依賴的機構對沖工具。"
+    },
+    {
+      "id": "5002505",
+      "time": "2026-07-22 20:36:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度儲備銀行公告：印度外匯儲備保持充裕，可覆蓋逾10個月的進口用匯需求。由於季風進展不均，播種工作延遲；糧食庫存為價格壓力提供了緩衝。國內經濟已成功應對外部不確定性。"
+    },
+    {
+      "id": "mkt:019f89d3-8d0c-7aab-8e48-1266ff9eba35",
+      "time": "2026-07-22 20:36:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Reserve Bank of India says India's foreign exchange reserves remain adequate, covering more than 10 months of imports."
+    },
     {
       "id": "5002504",
       "time": "2026-07-22 20:35:32",
@@ -175,6 +233,23 @@
       "text": "AMD (AMD.O) US shares rose in premarket trade, trimming losses to 1.6%."
     },
     {
+      "id": "5002494",
+      "time": "2026-07-22 20:31:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【劉海星會見歐洲議會外事委員會代表團】7月22日，中共中央對外聯絡部部長劉海星在北京會見由主席麥克阿里斯特率領的歐洲議會外事委員會代表團，就共同落實雙方領導人共識、加強溝通對話、推動中歐關係健康穩定發展等深入交換意見。（新華社）"
+    },
+    {
+      "id": "5002493",
+      "time": "2026-07-22 20:31:40",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【PingPong宣佈搭建Maker Tool全域產業協同平臺】PingPong釋出《創客經濟新紀元：Maker Tool 行業全景解析白皮書》，併成立中國首個覆蓋產業、資本、渠道的Maker Tool行業聯盟。據白皮書揭示，Maker Tool全球市場佈局呈現鮮明分層特徵：美國為核心主戰場，銷量佔比70.1%、銷售額佔比72.3%；德國、英國為歐洲潛力市場，手工創作社群活躍，但歐洲市場監管嚴苛，產品安全、環保合規是入場硬性門檻。同時，行業季節性波動極強，Q4（10-12月）為全年銷量峰值，Q3（7-9月）跌至低谷，淡旺季銷量倍率接近2倍。此外，Maker Tool行業技術迭代極快，消費者對產品新功能的需求升級決定了新產品的紅利視窗期僅1-2年（創意裁切類新品銷售週期可延長至3-5年）。（新浪科技）"
+    },
+    {
       "id": "mkt:019f89cf-474e-7aab-8e47-cb1ac789b2ad",
       "time": "2026-07-22 20:31:30",
       "tags": [
@@ -215,6 +290,14 @@
         "焦點"
       ],
       "text": "AMD 將向 Anthropic 投資 50 億美元，配套達成晶片合作協議。"
+    },
+    {
+      "id": "5002490",
+      "time": "2026-07-22 20:30:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【尹弘主持召開省委金融委員會第四次會議】7月22日，江西省委書記尹弘主持召開省委金融委員會第四次會議。他強調，要深入貫徹習近平總書記關於金融工作的重要論述，全面落實全國金融系統黨的建設工作會議精神，堅持和加強黨對金融工作的全面領導，統籌推進防風險、強監管、促高質量發展各項工作，以更大力度、更實舉措加快推動全省金融工作高質量發展，為現代化江西建設提供有力支撐。（江西釋出）"
     },
     {
       "id": "5002489",
@@ -164872,137 +164955,6 @@
         "市場"
       ],
       "text": "【港股通金融ETF易方達：7月16日起在深交所上市交易】港股通金融ETF易方達公告稱，本基金於2026年7月16日開始在深圳證券交易所上市交易，基金程式碼159091，設定10%漲跌幅限制，上市首日開盤參考價為1.006元。截至7月15日，投資於標的指數成份股和備選成份股的資產比例為基金資產淨值的97.32%，投資組合符合規定和約定。投資者可諮詢客服400 - 881 - 8088或登入www.efunds.com.cn瞭解詳情。"
-    },
-    {
-      "id": "4990012",
-      "time": "2026-07-15 20:40:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "Elevance Health執行長在電話會議上表示，公司預計在未來12至18個月內退出更多醫療補助市場。"
-    },
-    {
-      "id": "mkt:019f65ca-c0ea-7aab-8da2-88365268e601",
-      "time": "2026-07-15 20:40:14",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Survey: inf pushing more Americans to redeem credit-card rewards for essentials】A USAA Federal Savings Bank survey shows inf is prompting more Americans to use credit-card reward points for everyday essentials. In a sample of just over 1,000 respondents, more than 35% said they redeem card rewards for daily spending and 79% said they had used points at least once in the past six months. The survey notes groceries are up more than 6% since mid-2023 and gasoline about $0.30/gal; real wages have risen roughly 1.4% annually over the same period. USAA president Moran said households are prioritizing practicality, shifting spending from non-urgent items such as appliances and furniture toward groceries and fuel, and using rewards to stretch budgets."
-    },
-    {
-      "id": "te:markets:567220",
-      "time": "2026-07-15 20:39:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Edge Lower Ahead of BoC Meeting — Futures tracking the S&P/TSX Composite Index edged lower on Wednesday as investors assessed escalating tensions in the Middle East and awaited the Bank of Canada's interest rate decision. Oil prices rose as the worsening conflict continued to fuel concerns over global supply disruptions. Higher energy prices also revived inflation worries, weighing on financial stocks and the broader index. Meanwhile, the Bank of Canada is widely expected to keep its key policy rate unchanged at its July meeting later in the session. Elsewhere, Cogeco Communications is set to release its third-quarter results later in the day. On the data front, Canada's manufacturing sales reached a record high in May, rising 1.3% month-over-month to C$78.1 billion."
-    },
-    {
-      "id": "4990011",
-      "time": "2026-07-15 20:39:16",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "摩根士丹利執行長表示，該行正在考慮潛在併購交易，但併購門檻仍然居高不下。"
-    },
-    {
-      "id": "te:markets:567219",
-      "time": "2026-07-15 20:38:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Progressive earnings above expectations at 5.67 USD — Progressive (PGR) released earnings per share at 5.67 USD, compared to market expectations of 3.81 USD."
-    },
-    {
-      "id": "4990010",
-      "time": "2026-07-15 20:38:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金轉漲，最新報每盎司4061.79美元，漲幅0.2%。"
-    },
-    {
-      "id": "mkt:019f65c8-7e53-7aab-8da2-8773cfa92863",
-      "time": "2026-07-15 20:37:46",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "GBPUSD",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "【BofA: Survey shows dollar and pound overvalued, euro undervalued】BofA's July Global Fund Manager Survey showed investors still view the dollar and pound as overvalued, but now see the euro as undervalued. A net 34% say the dollar is overvalued, unchanged from last month; a net 12% say the pound is overvalued, down from 15% last month; a net 10% say the euro is undervalued, versus a neutral reading a month earlier."
-    },
-    {
-      "id": "mkt:019f65c8-7397-7aab-8da2-7dadf1d593be",
-      "time": "2026-07-15 20:37:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "US Energy Secretary Wright said data centers are a solution to high electricity prices."
-    },
-    {
-      "id": "4990009",
-      "time": "2026-07-15 20:37:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4070美元/盎司，日內漲0.01%。"
-    },
-    {
-      "id": "4990008",
-      "time": "2026-07-15 20:37:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "賴特：資料中心是解決高電價的方案。"
-    },
-    {
-      "id": "mkt:019f65c8-146f-7aab-8da2-71a1b0daba40",
-      "time": "2026-07-15 20:37:18",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US Energy Secretary Wright criticized New York state's decision to suspend data center construction."
-    },
-    {
-      "id": "mkt:019f65c7-e657-7aab-8da2-69fb21ec620c",
-      "time": "2026-07-15 20:37:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's deputy economy minister said on Odesa port that authorities will make every effort to keep guaranteed export volumes at last season's levels."
-    },
-    {
-      "id": "4990007",
-      "time": "2026-07-15 20:36:51",
-      "tags": [
-        "觀點"
-      ],
-      "text": "市場訊息：摩根士丹利計劃逐步將財富管理資產規模從 8 萬億美元提升至 10 萬億美元  。"
-    },
-    {
-      "id": "mkt:019f65c7-9b0c-7aab-8da2-64d419601cfb",
-      "time": "2026-07-15 20:36:47",
-      "tags": [
-        "MKT News",
-        "MS.O",
-        "Impact bullish"
-      ],
-      "text": "Morgan Stanley plans to grow wealth-management assets from $8 trillion to $10 trillion."
     }
   ]
 }
