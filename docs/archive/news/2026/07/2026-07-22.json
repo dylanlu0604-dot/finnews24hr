@@ -1,7 +1,148 @@
 {
   "date": "2026-07-22",
-  "count": 2853,
+  "count": 2869,
   "items": [
+    {
+      "id": "5002658",
+      "time": "2026-07-22 21:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股雲端計算服務商概念股持續走高】美股雲端計算服務商概念股持續走高，Cerebras Systems漲幅擴大至14%，CoreWeave漲超4%，慧與科技、IREN、Nebius漲超3%，Hut 8漲超2%。"
+    },
+    {
+      "id": "mkt:019f8a1a-b723-7aab-8e49-89036d1e05ed",
+      "time": "2026-07-22 21:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump spoke to reporters before departing for Dover Air Force Base; his remarks have concluded."
+    },
+    {
+      "id": "5002657",
+      "time": "2026-07-22 21:53:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：美國人不希望汽油價格高企。"
+    },
+    {
+      "id": "mkt:019f8a19-b7d2-7aab-8e49-8293edafa028",
+      "time": "2026-07-22 21:52:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Americans do not want high gasoline prices."
+    },
+    {
+      "id": "5002656",
+      "time": "2026-07-22 21:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究部將Datadog目標股價從280美元上調至305美元。"
+    },
+    {
+      "id": "mkt:019f8a19-a569-7aab-8e49-7ede57287497",
+      "time": "2026-07-22 21:52:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump: Americans are not opposed to war."
+    },
+    {
+      "id": "mkt:019f8a19-a420-7aab-8e49-779d9c6c6b87",
+      "time": "2026-07-22 21:52:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump says the U.S. is investigating the deaths of U.S. service members and that Iran will pay the price."
+    },
+    {
+      "id": "5002655",
+      "time": "2026-07-22 21:52:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱士兵死亡原因正在調查，伊朗將付出代價。"
+    },
+    {
+      "id": "mkt:019f8a19-637c-7aab-8e49-69f4cbbc3f57",
+      "time": "2026-07-22 21:52:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump: Iran will pay a heavy price."
+    },
+    {
+      "id": "5002654",
+      "time": "2026-07-22 21:52:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國法官叫停紐約市網約車司機保護法案。"
+    },
+    {
+      "id": "5002653",
+      "time": "2026-07-22 21:52:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西7月大豆出口量將達到1350萬噸，低於上週預估的1376萬噸。"
+    },
+    {
+      "id": "5002652",
+      "time": "2026-07-22 21:51:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國人並不反對這場戰爭。"
+    },
+    {
+      "id": "5002651",
+      "time": "2026-07-22 21:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗將付出沉重代價。"
+    },
+    {
+      "id": "5002650",
+      "time": "2026-07-22 21:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普與內塔尼亞胡正商討會晤事宜，但尚未敲定會面。"
+    },
+    {
+      "id": "mkt:019f8a17-d563-7aab-8e49-636e5a4e5c76",
+      "time": "2026-07-22 21:50:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's economy minister said the government's April growth outlook is expected to remain unchanged."
+    },
+    {
+      "id": "5002649",
+      "time": "2026-07-22 21:50:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利經濟部長：我們預計，政府4月公佈的增長前景不會發生變化。"
+    },
     {
       "id": "5002648",
       "time": "2026-07-22 21:49:34",

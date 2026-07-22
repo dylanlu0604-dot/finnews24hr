@@ -1,7 +1,148 @@
 {
-  "updated": "2026-07-22 21:50:46",
-  "count": 17880,
+  "updated": "2026-07-22 21:54:55",
+  "count": 17883,
   "items": [
+    {
+      "id": "5002658",
+      "time": "2026-07-22 21:54:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股雲端計算服務商概念股持續走高】美股雲端計算服務商概念股持續走高，Cerebras Systems漲幅擴大至14%，CoreWeave漲超4%，慧與科技、IREN、Nebius漲超3%，Hut 8漲超2%。"
+    },
+    {
+      "id": "mkt:019f8a1a-b723-7aab-8e49-89036d1e05ed",
+      "time": "2026-07-22 21:53:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump spoke to reporters before departing for Dover Air Force Base; his remarks have concluded."
+    },
+    {
+      "id": "5002657",
+      "time": "2026-07-22 21:53:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普：美國人不希望汽油價格高企。"
+    },
+    {
+      "id": "5002656",
+      "time": "2026-07-22 21:52:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國銀行全球研究部將Datadog目標股價從280美元上調至305美元。"
+    },
+    {
+      "id": "mkt:019f8a19-b7d2-7aab-8e49-8293edafa028",
+      "time": "2026-07-22 21:52:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Americans do not want high gasoline prices."
+    },
+    {
+      "id": "mkt:019f8a19-a569-7aab-8e49-7ede57287497",
+      "time": "2026-07-22 21:52:44",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "U.S. President Trump: Americans are not opposed to war."
+    },
+    {
+      "id": "mkt:019f8a19-a420-7aab-8e49-779d9c6c6b87",
+      "time": "2026-07-22 21:52:43",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Trump says the U.S. is investigating the deaths of U.S. service members and that Iran will pay the price."
+    },
+    {
+      "id": "5002655",
+      "time": "2026-07-22 21:52:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱士兵死亡原因正在調查，伊朗將付出代價。"
+    },
+    {
+      "id": "5002654",
+      "time": "2026-07-22 21:52:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國法官叫停紐約市網約車司機保護法案。"
+    },
+    {
+      "id": "mkt:019f8a19-637c-7aab-8e49-69f4cbbc3f57",
+      "time": "2026-07-22 21:52:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US President Trump: Iran will pay a heavy price."
+    },
+    {
+      "id": "5002653",
+      "time": "2026-07-22 21:52:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西全國穀物出口商協會（ANEC）預測，巴西7月大豆出口量將達到1350萬噸，低於上週預估的1376萬噸。"
+    },
+    {
+      "id": "5002652",
+      "time": "2026-07-22 21:51:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：美國人並不反對這場戰爭。"
+    },
+    {
+      "id": "5002651",
+      "time": "2026-07-22 21:51:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗將付出沉重代價。"
+    },
+    {
+      "id": "5002650",
+      "time": "2026-07-22 21:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：特朗普與內塔尼亞胡正商討會晤事宜，但尚未敲定會面。"
+    },
+    {
+      "id": "mkt:019f8a17-d563-7aab-8e49-636e5a4e5c76",
+      "time": "2026-07-22 21:50:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Italy's economy minister said the government's April growth outlook is expected to remain unchanged."
+    },
+    {
+      "id": "5002649",
+      "time": "2026-07-22 21:50:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "義大利經濟部長：我們預計，政府4月公佈的增長前景不會發生變化。"
+    },
     {
       "id": "5002648",
       "time": "2026-07-22 21:49:34",
@@ -163376,122 +163517,6 @@
         "其他"
       ],
       "text": "【黎巴嫩媒體：沙特正透過卡達和阿曼來緩解緊張局勢】黎巴嫩報道稱，隨著胡塞武裝與沙特之間的緊張局勢加劇，沙特正尋求透過地區和國際斡旋來化解危機。 據知情人士透露，阿曼和卡達已啟動斡旋以降低緊張局勢。與此同時，沙特正試圖撇清自己對胡塞武裝機場遇襲事件的責任。一名胡塞武裝軍方訊息人士駁斥了沙特方面的說法，並表示已查明所用導彈的型號，確認襲擊是由一架沙特戰機發射“風暴陰影”（Storm Shadow）導彈實施的。"
-    },
-    {
-      "id": "4990221",
-      "time": "2026-07-15 21:54:46",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴股價延續漲勢，觸及盤中高點7.2%。"
-    },
-    {
-      "id": "4990220",
-      "time": "2026-07-15 21:54:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫就經濟預測透明度問題質詢沃什。"
-    },
-    {
-      "id": "4990219",
-      "time": "2026-07-15 21:54:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "加元兌美元<CAD=>在利率決議公佈後小幅下跌0.1%，至1美元兌換1.4065加元。"
-    },
-    {
-      "id": "mkt:019f660e-4150-7aab-8da5-dbbc69e80468",
-      "time": "2026-07-15 21:53:57",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "USDCAD",
-        "Impact bearish",
-        "DXY"
-      ],
-      "text": "BOC removed references to rate cuts."
-    },
-    {
-      "id": "4990218",
-      "time": "2026-07-15 21:53:53",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美國股市小幅高開 溫和的通脹報告削弱加息預期】美國又一份低於預期的通脹報告推動股市和債市上漲，華爾街進一步下調對美聯儲今年加息的押注。紐約時間9:30，標普500指數上漲0.4%，納斯達克100指數上漲0.6%，道指基本持平。最新資料顯示，伊朗戰爭對物價影響有限，強化了市場看法，即美聯儲將有更大空間推遲任何潛在的緊縮行動。貨幣市場目前僅完全消化了到12月加息的預期。短期美國國債表現優於曲線其他部分。“2026年的通脹回升似乎已在上月見頂，並重新回到衝突前的下行趨勢，”Harris Financial Group的Jamie Cox表示。“這確實有助於美聯儲避免在供應衝擊期間加息的錯誤。”不過，隨著美國對伊朗發動更多空襲，油價連續第三天上漲。美國總統唐納德·特朗普誓言加大轟炸力度，直到德黑蘭停止襲擊霍爾木茲海峽船隻並同意開放這一水道。"
-    },
-    {
-      "id": "4990217",
-      "time": "2026-07-15 21:53:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行同時刪除降息相關措辭。"
-    },
-    {
-      "id": "mkt:019f660c-5a2e-7aab-8da5-d33f73eb2319",
-      "time": "2026-07-15 21:51:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Canada Governor Macklem said uncertainty remains high and the Bank stands ready to adjust the policy rate as needed."
-    },
-    {
-      "id": "4990216",
-      "time": "2026-07-15 21:51:52",
-      "tags": [
-        "觀點"
-      ],
-      "text": "沃倫就高盛對信函回應 “力度不足” 一事向其發起質詢。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607153807765345",
-      "time": "2026-07-15 21:51:31",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "美聯儲主席沃什將於北京時間22:00出席美國參議院銀行委員會聽證會。"
-    },
-    {
-      "id": "4990215",
-      "time": "2026-07-15 21:51:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "阿根廷液化天然氣公司：與烏克蘭國家石油天然氣公司簽署關於長期美國液化天然氣合作的諒解備忘錄。探討為烏克蘭及部分歐洲市場長期採購、運輸和分銷美國液化天然氣的合作。"
-    },
-    {
-      "id": "mkt:019f660b-cfb0-7aab-8da5-cd308aab242c",
-      "time": "2026-07-15 21:51:17",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "An Argentine LNG company signed a memorandum of understanding with Ukraine’s state oil and gas company to explore long-term cooperation on U.S. LNG, covering procurement, shipping and distribution for Ukraine and parts of Europe."
-    },
-    {
-      "id": "4990214",
-      "time": "2026-07-15 21:51:00",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "加拿大央行行長麥克勒姆：通脹率有可能停滯在2%以上。"
-    },
-    {
-      "id": "4990213",
-      "time": "2026-07-15 21:50:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "美銀全球研究將大都會人壽目標股價從106美元下調至103美元。"
     }
   ]
 }
