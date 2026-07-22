@@ -1,7 +1,52 @@
 {
   "date": "2026-07-23",
-  "count": 138,
+  "count": 143,
   "items": [
+    {
+      "id": "te:markets:568952",
+      "time": "2026-07-23 01:45:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Brazilian Real Strengthens on Carry Trade — The Brazilian real strengthened to 5.06 per USD in July, the highest in seven weeks, on renewed carry-trade interest. Strikes between the US and Iran escalated and US officials downplayed the chances of diplomacy, increasing geopolitical concern and driving emerging-market investors to momentarily pivot away from the dollar. The high real interest rates by the Central Bank of Brazil made Brazilian real assets attractive among investors, as risks of high inflation and wide deficit spending by Brasilia drove the Selic rate to remain elevated. Still, foreign trade remains a key concern. Investors are awaiting measures from the government to mitigate the impact of new US tariffs. However, key exports including beef, coffee, rare earths, energy products, aircraft, and aircraft parts are exempt from the new 25% tariff."
+    },
+    {
+      "id": "5002909",
+      "time": "2026-07-23 01:44:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【聯合國：今年上半年全球貿易在價格壓力上升情況下持續擴張】聯合國貿發會議22日釋出的《全球貿易更新》報告顯示，2026年上半年全球貿易繼續保持增長勢頭，但價格壓力持續上升，貿易擴張呈現出更加不均衡的特點。在全球經濟不確定性加劇的背景下，高科技產品成為推動貿易增長的重要力量。報告預計，今年上半年全球貨物貿易額約達13.7萬億美元，比2025年同期增長12.5%；服務貿易同比增長10.5%。貨物和服務貿易合計新增約2萬億美元，全球貿易全年有望創下歷史新高。"
+    },
+    {
+      "id": "5002908",
+      "time": "2026-07-23 01:44:09",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗議會議長：如果伊朗不能賣石油 其他國家也別想賣】伊朗議會議長卡利巴夫在社交平臺發文稱：“這場戰爭的邏輯很清楚，要麼大家都能賣油，要麼誰都不能賣。如果我們無法在本地區出售石油，其他國家也別想出售。”他表示，如果伊朗的安全得不到保障，任何基礎設施都不會安全。卡利巴夫稱，霍爾木茲海峽的安全取決於美軍不在該地區駐紮。他重申，霍爾木茲海峽的狀況不會恢復到戰前狀態。"
+    },
+    {
+      "id": "5002907",
+      "time": "2026-07-23 01:43:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：美國已告知以色列，計劃在本輪衝突中首次動用重型轟炸機升級對伊朗打擊；美方“雄獅怒吼”行動啟用從英國本土直接起飛的戰略轟炸機，馬庫什山被認為是主要打擊目標之一。"
+    },
+    {
+      "id": "5002906",
+      "time": "2026-07-23 01:42:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普週三前往多佛空軍基地，出席四名遭伊朗襲擊身亡美軍人員的遺體交接儀式。"
+    },
     {
       "id": "mkt:019f8aeb-072b-7aab-8e4f-0fbe7511bca9",
       "time": "2026-07-23 01:41:26",
