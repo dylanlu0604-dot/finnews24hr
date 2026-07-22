@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-22 11:54:08",
-  "count": 18022,
+  "updated": "2026-07-22 11:58:12",
+  "count": 18029,
   "items": [
+    {
+      "id": "5001425",
+      "time": "2026-07-22 11:57:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本財務大臣片山皋月：將隨時根據需要採取匯率措施。"
+    },
+    {
+      "id": "5001424",
+      "time": "2026-07-22 11:56:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "RAYMOND JAMES：開始追蹤Coinbase，給予\"與大盤持平\"評級。"
+    },
+    {
+      "id": "5001423",
+      "time": "2026-07-22 11:56:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【7月22日午間漲停分析】滬指半日震盪上漲0.50%，科創50漲超1%，半導體、有色概念集體走強。立新能源5連板，美利雲3連板，一圖看懂>>"
+    },
+    {
+      "id": "mkt:019f87f7-54ff-7aab-8e3a-098ed698264a",
+      "time": "2026-07-22 11:56:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Vietnam Airlines said its fleet expansion will include 10 aircraft leased from SMBC Aviation Capital, four from Avolon and five from Phoenix Aviation Capital managed by AIP Capital, with deliveries scheduled for 2028."
+    },
+    {
+      "id": "5001422",
+      "time": "2026-07-22 11:55:11",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國家發改委：關於第五批全國社會信用體系建設示範區名單的公示】按照有關工作要求，國家發展改革委會同中國人民銀行組織開展了全國社會信用體系建設示範區建立工作。經組織地方推薦、材料核實和綜合評估等工作，擬確定北京市朝陽區等20個城市（區）為第五批全國社會信用體系建設示範區，現予以公示。公示期為2026年7月22日至28日（5個工作日）。"
+    },
+    {
+      "id": "mkt:019f87f6-4b9b-7aab-8e3a-012c1f089df4",
+      "time": "2026-07-22 11:54:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact mixed",
+        "DXY"
+      ],
+      "text": "【Japan 40-year bond auction draws strongest demand since Mar 2025】Japan's 40-year bond auction on Wednesday posted its strongest demand since March 2025, with a bid-cover ratio of 2.82x versus 2.702x at the prior auction and a 12-month average of 2.55x. JGB prices were largely unchanged after the sale; the 40-year yield sits near 3.895%, down from a May peak of 4.355%. Officials' comments that the Government Pension Investment Fund will lift allocations to domestic financial assets were cited as support for the market, but investors remain focused on Prime Minister Takaichi's expansionary fiscal agenda, expectations that the BOJ will tighten policy only gradually, and persistent interest-rate differentials."
+    },
+    {
+      "id": "5001421",
+      "time": "2026-07-22 11:54:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美請求在保加利亞部署加油機以支援中東戰事，伊朗回應】保加利亞總理拉德夫20日稱，保加利亞政府已收到美國在保加利亞貝茲梅爾空軍基地部署至多8架加油機的請求，將提請議會批准。據伊朗伊斯蘭共和國通訊社21日報道，伊朗外交部發言人巴加埃對此作出回應，警告保加利亞不要參與美國針對伊朗的侵略行動。(環球網)"
+    },
+    {
+      "id": "5001419",
+      "time": "2026-07-22 11:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【克里姆林宮態度據悉轉強硬 在烏克蘭被佔領土問題上不願再讓步】據接近克里姆林宮的人士透露，俄羅斯已不再願意在任何結束戰爭的協議中向烏克蘭歸還部分已佔領土，而是計劃將其保留為緩衝區。三位知情人士表示，俄總統普京仍致力於以武力完全控制烏克蘭東部的頓涅茨克地區，並打算將蘇梅和哈爾科夫靠近俄羅斯邊境的部分地區保留為緩衝區。 這些人士稱，普京已放棄在領土問題上做出讓步，因為俄方認為美國日益對抗性的言論表明，普京與特朗普在阿拉斯加州峰會上達成的非正式共識已不復存在。"
+    },
+    {
+      "id": "mkt:019f87f5-6254-7aab-8e39-faa262e029fd",
+      "time": "2026-07-22 11:53:53",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "【Counterpoint forecasts 21% YoY rise in global foldable smartphone shipments in 2026】Counterpoint Research projects global foldable smartphone shipments to increase 21% YoY in 2026, driven by sustained consumer demand for premium large foldables, intensifying competition among leading smartphone vendors and Apple’s expected entry into the foldable market, sustaining expansion from the 2025 base."
+    },
     {
       "id": "5001418",
       "time": "2026-07-22 11:53:22",
@@ -165512,25 +165595,6 @@
         "Important"
       ],
       "text": "【South Korea's Lee says market needs time to stabilise after sharp rally; urges regulators to tackle leveraged ETF controversy】Market participants expect regulators to curb high-risk leveraged ETFs, including possible hikes to minimum margin requirements, after South Korea's Lee said the domestic stock market needs time to stabilise following an unprecedented rapid rally and urged swift action on the issue. Lee told senior officials in Seoul the market is \"quite unstable\" after a historic surge and will require time and some volatility to settle. He acknowledged controversy around leveraged ETFs and asked the Financial Supervisory Service (FSS) and Korea Exchange (KRX) to address the matter and set follow-up measures. The main opposition People Power Party criticised the government for pushing ambitious market targets while neglecting accumulating leverage risk, saying that encouraged excessive risk-taking."
-    },
-    {
-      "id": "mkt:019f63eb-bbf5-7aab-8d93-055e2032baee",
-      "time": "2026-07-15 11:57:01",
-      "tags": [
-        "MKT News",
-        "042700.KS",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【Hanmi Semiconductor surges >28% after Q2 beat, record sales; softer US CPI lifts AI-chip sentiment】Shares of South Korea's Hanmi Semiconductor rose more than 28% after the company posted Q2 consolidated operating profit of 130.3 bln won, up 51.0% YoY and roughly 8% above the street consensus of 121.0 bln won. Operating margin reached 51.9%, the first quarterly print above 50% and a company record. Q2 revenue was 251.1 bln won, up 39.5% YoY and the highest quarterly sales in the firm's history. Overnight softer-than-expected US CPI boosted investor confidence in the AI semiconductor sector, supporting the rally."
-    },
-    {
-      "id": "4989051",
-      "time": "2026-07-15 11:54:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【促進區域產供鏈合作 中所簽署《提升經濟夥伴關係框架協定》】昨天（14日），中國與索羅門群島簽署《提升經濟夥伴關係框架協定》，雙方將根據該協定開展靈活務實的談判，就擴大雙邊貿易、投資和務實合作達成互利共贏的制度型安排，更好地促進區域產供鏈合作，推動中所經貿關係邁上新臺階。商務部有關負責人表示：中所建交7年來，雙邊經貿關係保持健康穩定發展，各領域交流合作成果豐碩。中方願與所方一道，繼續拓展兩國經貿互利合作領域，推動中所新時代全面戰略伙伴關係取得新發展。"
     }
   ]
 }
