@@ -1,7 +1,134 @@
 {
   "date": "2026-07-22",
-  "count": 719,
+  "count": 731,
   "items": [
+    {
+      "id": "5001161",
+      "time": "2026-07-22 09:29:27",
+      "tags": [
+        "公司",
+        "其他"
+      ],
+      "text": "【於東來：胖東來禁止員工相互借錢行為】7月21日晚，於東來發文稱，胖東來禁止員工相互借錢行為。"
+    },
+    {
+      "id": "mkt:019f8770-9df9-7aab-8e36-71e55d4cb222",
+      "time": "2026-07-22 09:28:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "06082.HK",
+        "Impact bullish",
+        "00981.HK",
+        "01347.HK"
+      ],
+      "text": "HK-listed chip stocks opened higher after reports TSMC will raise wafer prices from 2027. Biren Technology (06082.HK) rose more than 5%; GigaDevice (03986.HK) and Innosilicon (02577.HK) gained over 3%; Montage Technology (06809.HK), SMIC (00981.HK) and Hua Hong Semiconductor (01347.HK) also advanced. Sources say TSMC plans base price increases of up to 10% for advanced and mature process nodes, with incremental orders for some AI high-performance‑computing chips potentially subject to larger uplifts."
+    },
+    {
+      "id": "5001160",
+      "time": "2026-07-22 09:28:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧相關個股走強 智譜漲近7%】截至發稿，智譜(02513.HK)漲6.64%，兆易創新(03986.HK)漲3.18%，瀾起科技(06809.HK)漲1.94%。"
+    },
+    {
+      "id": "te:markets:568668",
+      "time": "2026-07-22 09:28:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Prices Climb as Middle East Tensions Persist — European natural gas prices rose to above €60 per MWh on Tuesday, hitting a fresh four-month high as the US and Iran continued to exchange strikes while President Donald Trump downplayed the likelihood of imminent talks. Trump said Iran “desperately wants to meet” but added that the US had no interest in talks. Iran, however, rejected these claims. Trump also warned of retaliation if Iran-backed Houthi rebels disrupted shipping in the Red Sea and renewed threats to strike Pickaxe Mountain, a suspected Iranian nuclear facility. The escalating conflict has disrupted tanker traffic through the Strait of Hormuz and curtailed LNG exports from the Gulf, fueling concerns over tighter global gas supplies. Europe is currently in the process of refilling storage facilities ahead of the heating season, and reduced LNG availability from the Gulf could force the bloc into more intense and costly competition with Asian buyers for available cargoes."
+    },
+    {
+      "id": "5001159",
+      "time": "2026-07-22 09:28:09",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "港股儲存概念集體高開，南方兩倍做多海力士大漲近15%，南方兩倍做多三星電子漲超10%，兆易創新漲超3%，瀾起科技漲近2%。"
+    },
+    {
+      "id": "5001158",
+      "time": "2026-07-22 09:27:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣東建科與廣開交投集團簽署戰略合作協議】據廣東建科訊息，近日，廣東建科與廣州開發區交通投資集團有限公司簽署戰略合作協議。雙方將圍繞低空物流、飛行安全、無人機應用及數字化等核心方向，爭取聯合打造“低空+AI”智慧建造及“低空+智慧巡查、市政、運營、生態”等一批創新場景試點。"
+    },
+    {
+      "id": "mkt:019f876f-93e6-7aab-8e36-6b873e38eaa5",
+      "time": "2026-07-22 09:27:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China A-share precious metals sector opened higher; Chifeng Gold, Shanjin International and Xingye Silver-Tin rose over 3%, with Zhongjin Gold, Sichuan Gold, Zhaojin Gold, Western Gold and Xiaocheng Technology also gaining. Earlier, spot gold climbed more than 1% intraday, breaching $4,120/oz."
+    },
+    {
+      "id": "5001157",
+      "time": "2026-07-22 09:27:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：美國仍然持開放態度，願意參與談判。"
+    },
+    {
+      "id": "mkt:019f876f-4142-7aab-8e36-643359168a18",
+      "time": "2026-07-22 09:27:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact bearish",
+        "SZSE Component",
+        "CSI300"
+      ],
+      "text": "China markets opened lower on Wednesday: Shanghai Composite down 24.7 pts (-0.64%) at 3,839.67; Shenzhen Composite down 94.32 pts (-0.66%) at 14,169.97; CSI 300 down 28.57 pts (-0.60%) at 4,710.66; ChiNext down 40.99 pts (-1.11%) at 3,644.98; Sci‑Tech Innovation Board 50 down 28.38 pts (-1.49%) at 1,874.78."
+    },
+    {
+      "id": "mkt:019f876e-f4d7-7aab-8e36-58eb4640a7ba",
+      "time": "2026-07-22 09:27:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "DXY",
+        "XAUUSD"
+      ],
+      "text": "U.S. Secretary of State Rubio said Iran is not serious about negotiations."
+    },
+    {
+      "id": "mkt:019f876e-c0df-7aab-8e36-573701b1ef18",
+      "time": "2026-07-22 09:26:50",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【IRGC says 'punishment of aggressors' continues; US strikes Iran for 11th night】The Islamic Revolutionary Guard Corps said 'punishment of the aggressors continues.' The US carried out strikes against Iran for an 11th consecutive night."
+    },
+    {
+      "id": "5001156",
+      "time": "2026-07-22 09:25:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：美國致力於在中東和伊朗開展外交斡旋。"
+    },
     {
       "id": "mkt:019f876d-a619-7aab-8e36-4de1d721027c",
       "time": "2026-07-22 09:25:37",
