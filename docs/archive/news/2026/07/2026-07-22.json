@@ -1,7 +1,57 @@
 {
   "date": "2026-07-22",
-  "count": 1190,
+  "count": 1196,
   "items": [
+    {
+      "id": "mkt:019f8825-4b18-7aab-8e3a-76acdec66909",
+      "time": "2026-07-22 12:46:13",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【SoftBank launches GaranAI to commercialize news content for AI training】SoftBank said on Wednesday it has begun operating GaranAI, a platform that will source articles from publishers—including Mainichi, Sankei, Kyodo and certain regional papers—pay contributors and convert content into data formats that make reconstruction of the original text difficult. The company will further process those datasets into AI-ready inputs and sell them to AI developers to improve generative-AI response accuracy. SoftBank released a trial version and is now accepting developer applications, plans iterative improvements over the next six months, aims to roll out a full version in or after January next year, and intends to expand the platform to accept a broader range of copyrighted content."
+    },
+    {
+      "id": "mkt:019f8824-fcf8-7aab-8e3a-693c1d46c8c7",
+      "time": "2026-07-22 12:45:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China publishes 15th Five-Year plan for forestry and grassland protection and utilization】China on July 22 published its 15th Five-Year Plan for forestry and grassland protection and utilization. The plan sets a by-2030 target to secure decisive victories in the Three-North afforestation campaign’s three flagship operations, complete integration and optimization of nature reserves, and continuously improve the quality and service functions of forest, grassland, wetland and desert ecosystems. It aims to diversify supply and consumption scenarios for forestry and grassland products and lift the sector’s total output value. Policy measures include large-scale national greening actions, full construction of a protected-areas system, scaling up forestry and grassland industry, reinforcing ecological-security capabilities, deepening reforms in key areas, and promoting innovation-driven development and international cooperation."
+    },
+    {
+      "id": "5001476",
+      "time": "2026-07-22 12:45:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《林業草原保護利用“十五五”規劃》向社會公佈】《林業草原保護利用“十五五”規劃》7月22日向社會公佈。規劃提出，到2030年，“三北”工程三大標誌性戰役取得決定性勝利，完成自然保護地整合最佳化，森林、草原、溼地、荒漠生態系統質量和服務功能不斷增強，林草多元供給和消費場景更加豐富，林草產業總產值邁上新臺階。規劃部署了科學開展大規模國土綠化行動、全面推進自然保護地體系建設、培育壯大林草產業、協同強化生態安全能力建設、持續深化重點領域改革、全力推動創新驅動與開放合作等方面工作。（新華社）"
+    },
+    {
+      "id": "5001475",
+      "time": "2026-07-22 12:44:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣西百菲乳業股份有限公司向港交所提交上市申請書】據港交所檔案：廣西百菲乳業股份有限公司向港交所提交上市申請書。"
+    },
+    {
+      "id": "5001474",
+      "time": "2026-07-22 12:44:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗軍隊稱出動大批無人機打擊美軍駐科威特營地】伊朗軍隊當地時間22日釋出宣告稱，為回應敵人再次侵犯伊朗部分地區，於數小時前出動大批自殺式無人機，對美軍位於科威特西部多哈營地內的彈藥庫以及陸軍指揮中心的後勤裝備實施打擊。宣告表示，多哈營地是美軍在科威特西部最核心、最重要的軍事基地之一，也是美軍在西亞地區的一處後勤保障中心。大量美軍陸軍裝備和士兵，以及海軍、空軍人員駐紮於此。"
+    },
+    {
+      "id": "5001473",
+      "time": "2026-07-22 12:43:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【11家國央企光伏元件集採開標79.7GW，TCL中環暫列入圍規模首位】2026-2027年光伏元件集採專案招標陸續完成，根據各方公告及招採網資料顯示，截至2026年7月15日，中煤集團、中國電建、華電集團、京能集團、中國石油、華能集團、中廣核、大唐集團、國電電力、廣東能源集團和浙江交通集團等11家國央企已完成元件招標，共設定33個標段，開標規模合計79.7GW。另有申能、華潤合計6.4GW元件專案仍在招標中。"
+    },
     {
       "id": "5001472",
       "time": "2026-07-22 12:43:09",
