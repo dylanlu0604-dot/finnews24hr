@@ -1,7 +1,90 @@
 {
   "date": "2026-07-22",
-  "count": 3071,
+  "count": 3079,
   "items": [
+    {
+      "id": "mkt:019f8a67-0e5b-7aab-8e4c-bd2b1105f0ae",
+      "time": "2026-07-22 23:17:17",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "NVIDIA (NVDA.O) extended gains, up 3%."
+    },
+    {
+      "id": "te:markets:568926",
+      "time": "2026-07-22 23:17:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Dollar Little Changed — The dollar index traded little changed around 101.1 on Wednesday, with the situation in the Middle East continuing to dominate the headlines. Oil prices extended gains to a six-week high as both the US and Iran signaled that a resumption of peace talks is unlikely in the near term despite ongoing mediation efforts. The rise in oil prices kept fears of renewed inflationary pressures elevated. Meanwhile, investors await next week's Federal Reserve policy meeting, with policymakers now in their customary pre-meeting blackout period. The Fed is widely expected to leave the federal funds rate unchanged. However, markets continue to price in the possibility of policy tightening later this year, with traders assigning roughly a 61% probability of a rate hike at the September meeting. The greenback was largely unchanged at 40-year highs against the yen and near one-week highs against the pound, while edging slightly lower against the euro."
+    },
+    {
+      "id": "5002790",
+      "time": "2026-07-22 23:16:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾：正在與印度尼西亞就關鍵礦產承諾進行合作。"
+    },
+    {
+      "id": "5002789",
+      "time": "2026-07-22 23:15:57",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "英偉達股價上漲2.9%，創盤中新高。"
+    },
+    {
+      "id": "mkt:019f8a65-8dbe-7aab-8e4c-b06eee6ba612",
+      "time": "2026-07-22 23:15:38",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "U.S. Trade Representative Greer said he is working with Indonesia to advance commitments on critical minerals."
+    },
+    {
+      "id": "5002788",
+      "time": "2026-07-22 23:15:27",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【美國2至5年期國債收益率升至2026年高點 市場情緒惡化】美國2年期和5年期國債收益率週三均上升逾4個基點，升至一年多來的最高水平，且並無明顯誘因，顯示市場情緒惡化可能是背後推手。2年期美債收益率升逾4.30%，3年期升至4.34%，5年期升至4.40%，均為2025年2月以來首次；10年期美債收益率升逾4.65%，距離其5月19日創下的年內高點僅差2個基點。市場對美聯儲加息的隱含預期繼續升溫，7月隔夜指數互換合約已消化約8個基點的收緊幅度，意味著一次25個基點加息的可能性約三分之一；2027年合約顯示，到年中，加息兩次的可能性已達100%，而且還有些許第三次加息的可能性。"
+    },
+    {
+      "id": "mkt:019f8a64-8387-7aab-8e4c-ac823cb719af",
+      "time": "2026-07-22 23:14:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Analyst: Gold extends gains on softer dollar, technical buying】Gold extended gains as investors tracked Middle East developments, buoyed by a softer dollar and technical buying. A Sukdun Financial analyst said markets are likely to remain headline-driven in the near term; any credible de-escalation would ease pressure on yields and the dollar, but as long as oil stays elevated markets may continue to price an inflation premium into interest rates despite recent weak CPI."
+    },
+    {
+      "id": "5002787",
+      "time": "2026-07-22 23:14:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度與巴拿馬舉行雙邊會談，磋商海上夥伴關係相關事宜。"
+    },
     {
       "id": "5002786",
       "time": "2026-07-22 23:14:00",
