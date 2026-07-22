@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-23 02:11:15",
-  "count": 17662,
+  "updated": "2026-07-23 02:16:12",
+  "count": 17657,
   "items": [
+    {
+      "id": "5002923",
+      "time": "2026-07-23 02:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人對航運企業表示：佈滿水雷的霍爾木茲海峽南線只會讓你們血本無歸，切勿聽信雙手沾滿孩童鮮血的美國的蠱惑。"
+    },
+    {
+      "id": "mkt:019f8b06-1a43-7aab-8e4f-6bf95cbff258",
+      "time": "2026-07-23 02:11:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRGC Navy warned all parties against using alternative routes to the Strait of Hormuz."
+    },
     {
       "id": "5002922",
       "time": "2026-07-23 02:10:04",
@@ -161126,75 +161146,6 @@
         "MKT News"
       ],
       "text": "The Israel Defense Forces said it conducted an airstrike in southern Lebanon, killing three Hezbollah fighters inside the designated military buffer zone."
-    },
-    {
-      "id": "mkt:019f66fe-4ade-7aab-8dae-6a756fb97a36",
-      "time": "2026-07-16 02:16:09",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact mixed",
-        "WTI"
-      ],
-      "text": "【India raises diesel and ATF export windfall taxes, cuts petrol export tax】India will change export windfall taxes on petroleum products from July 16. Diesel export windfall tax increased from 8.5 rupee per litre to 15.5 rupee per litre; aviation turbine fuel (ATF) export tax increased from 7.5 rupee per litre to 14.5 rupee per litre; petrol export tax reduced from 4 rupee per litre to 2.5 rupee per litre."
-    },
-    {
-      "id": "te:markets:567304",
-      "time": "2026-07-16 02:15:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural Gas UK Gains by 3.07% — Top commodity gainers are Natural Gas UK (3.07%), Germany Natural Gas THE (2.79%) and Natural Gas EU (2.35%). Biggest losers are Heating Oil (-2.03%), Propane (-0.66%), Crude Oil WTI (-0.28%) and Brent Crude Oil (-0.19%)."
-    },
-    {
-      "id": "4990580",
-      "time": "2026-07-16 02:13:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列國防軍稱在黎巴嫩南部打死三名真主黨武裝人員。"
-    },
-    {
-      "id": "mkt:019f66fb-3942-7aab-8dae-674d6aa4fe5a",
-      "time": "2026-07-16 02:12:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "【FED'S BEIGE: Inflation modestly higher; firms still face cost pressure】The Fed's Beige reports U.S. price levels rose modestly. Of 12 Fed districts, nine reported moderate price increases, two reported stronger gains and one reported smaller gains; overall momentum was unchanged or slower versus the prior period. Higher energy, transport and raw-material costs lifted business input prices; some firms cited the Middle East conflict and tariffs as contributors. Consumer prices continued to climb and some firms reported margin compression. Outlooks on inflation diverged—some expect inflation to remain near current levels, while others said falling fuel prices could ease pressure."
-    },
-    {
-      "id": "4990579",
-      "time": "2026-07-16 02:12:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度上調航空燃油出口暴利稅，由每升 7.5 盧比上調至每升 14.5 盧比，7 月 16 日起生效。"
-    },
-    {
-      "id": "4990578",
-      "time": "2026-07-16 02:12:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度下調汽油出口暴利稅，由每升 4 盧比降至每升 2.5 盧比，7 月 16 日起實施。"
-    },
-    {
-      "id": "4990577",
-      "time": "2026-07-16 02:12:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度上調柴油出口暴利稅，從每升 8.5 盧比提高至每升 15.5 盧比，7 月 16 日起生效。"
     }
   ]
 }

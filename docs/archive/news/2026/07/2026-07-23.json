@@ -1,7 +1,27 @@
 {
   "date": "2026-07-23",
-  "count": 168,
+  "count": 170,
   "items": [
+    {
+      "id": "5002923",
+      "time": "2026-07-23 02:13:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊發言人對航運企業表示：佈滿水雷的霍爾木茲海峽南線只會讓你們血本無歸，切勿聽信雙手沾滿孩童鮮血的美國的蠱惑。"
+    },
+    {
+      "id": "mkt:019f8b06-1a43-7aab-8e4f-6bf95cbff258",
+      "time": "2026-07-23 02:11:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "IRGC Navy warned all parties against using alternative routes to the Strait of Hormuz."
+    },
     {
       "id": "5002922",
       "time": "2026-07-23 02:10:04",
