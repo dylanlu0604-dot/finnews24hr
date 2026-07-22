@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-23 05:32:02",
-  "count": 17687,
+  "updated": "2026-07-23 05:36:00",
+  "count": 17689,
   "items": [
+    {
+      "id": "5003081",
+      "time": "2026-07-23 05:34:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet： 獨立整機 TPU 產品市場需求旺盛。"
+    },
+    {
+      "id": "mkt:019f8bbf-d6f5-7aab-8e52-b49e6c424250",
+      "time": "2026-07-23 05:33:53",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Yemeni Houthi forces said the Saudi tanker they attacked violated a maritime blockade the group had imposed."
+    },
+    {
+      "id": "mkt:019f8bbd-f9f9-7aab-8e52-ae40edf547a3",
+      "time": "2026-07-23 05:31:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "MU.O",
+        "Impact bullish",
+        "TSLA.O",
+        "Impact bearish",
+        "GOOGL.O"
+      ],
+      "text": "US-listed SK Hynix (SKHY.O) rose 4.5% in after-hours trading; Micron Technology (MU.O) up 2%; Tesla (TSLA.O) down 3%; Alphabet A (GOOGL.O) down 4%."
+    },
+    {
+      "id": "5003080",
+      "time": "2026-07-23 05:31:15",
+      "tags": [
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "葉門胡塞武裝：襲擊了兩艘沙特油輪。"
+    },
     {
       "id": "mkt:019f8bbd-403a-7aab-8e52-a5448ebb2c7e",
       "time": "2026-07-23 05:31:03",
@@ -161548,24 +161596,6 @@
         "國際"
       ],
       "text": "美國前總統拜登週三釋出影片宣告，11月中期選舉結束後將出版發行一本書。"
-    },
-    {
-      "id": "4990782",
-      "time": "2026-07-16 05:33:35",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "美國國務院就擬議對外軍售武器裝備釋出宣告：本次擬出售裝備為先進精確打擊武器系統，英國BAE系統公司將成為沙特軍售專案主承包商。"
-    },
-    {
-      "id": "4990781",
-      "time": "2026-07-16 05:32:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "蘋果被指控在“隱藏我的電子郵件”功能上欺騙消費者。"
     }
   ]
 }
