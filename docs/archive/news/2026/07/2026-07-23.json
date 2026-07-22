@@ -1,7 +1,79 @@
 {
   "date": "2026-07-23",
-  "count": 188,
+  "count": 195,
   "items": [
+    {
+      "id": "mkt:019f8b18-c545-7aab-8e4f-b92ecb245a8b",
+      "time": "2026-07-23 02:31:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract rose 1.16% to 904 yuan/gram; Shanghai silver main contract rose 1.69% to 14,735 yuan/kg; SC crude oil main contract rose 2.74% to 565 yuan/barrel."
+    },
+    {
+      "id": "5002935",
+      "time": "2026-07-23 02:31:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：增強黎巴嫩政府能力是我們努力的一部分，也是三方協議的內容。"
+    },
+    {
+      "id": "5002934",
+      "time": "2026-07-23 02:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟各國領導人將召開人工智慧安全峰會】受日益加劇的網路威脅與激烈地緣競爭影響，歐盟27國領導人將首次舉行專項峰會，專門探討人工智慧相關議題。"
+    },
+    {
+      "id": "mkt:019f8b18-1201-7aab-8e4f-b6d0f0483a1c",
+      "time": "2026-07-23 02:30:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sources say the US is investigating whether Russia assisted Iran in a drone attack on a CIA facility in the Gulf region."
+    },
+    {
+      "id": "mkt:019f8b17-f436-7aab-8e4f-ad925b761837",
+      "time": "2026-07-23 02:30:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.71% at 903.69 yuan/gram in the evening session on July 22 (Wednesday); Shanghai Gold Exchange Silver T+D closed up 1.15% at 14,660 yuan/kg."
+    },
+    {
+      "id": "5002933",
+      "time": "2026-07-23 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.74%，報565.30元人民幣/桶。滬金夜盤收漲1.04%，滬銀收漲1.69%。"
+    },
+    {
+      "id": "5002932",
+      "time": "2026-07-23 02:29:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士：美國正在調查俄羅斯是否協助伊朗用無人機襲擊中情局在海灣的設施。"
+    },
     {
       "id": "mkt:019f8b15-53d7-7aab-8e4f-a26055801274",
       "time": "2026-07-23 02:27:38",

@@ -1,7 +1,79 @@
 {
-  "updated": "2026-07-23 02:28:35",
-  "count": 17668,
+  "updated": "2026-07-23 02:32:40",
+  "count": 17665,
   "items": [
+    {
+      "id": "mkt:019f8b18-c545-7aab-8e4f-b92ecb245a8b",
+      "time": "2026-07-23 02:31:24",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Night session main contracts close】At the 02:30 close, Shanghai gold main contract rose 1.16% to 904 yuan/gram; Shanghai silver main contract rose 1.69% to 14,735 yuan/kg; SC crude oil main contract rose 2.74% to 565 yuan/barrel."
+    },
+    {
+      "id": "5002935",
+      "time": "2026-07-23 02:31:22",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：增強黎巴嫩政府能力是我們努力的一部分，也是三方協議的內容。"
+    },
+    {
+      "id": "5002934",
+      "time": "2026-07-23 02:30:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟各國領導人將召開人工智慧安全峰會】受日益加劇的網路威脅與激烈地緣競爭影響，歐盟27國領導人將首次舉行專項峰會，專門探討人工智慧相關議題。"
+    },
+    {
+      "id": "mkt:019f8b18-1201-7aab-8e4f-b6d0f0483a1c",
+      "time": "2026-07-23 02:30:38",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Sources say the US is investigating whether Russia assisted Iran in a drone attack on a CIA facility in the Gulf region."
+    },
+    {
+      "id": "mkt:019f8b17-f436-7aab-8e4f-ad925b761837",
+      "time": "2026-07-23 02:30:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D closed up 0.71% at 903.69 yuan/gram in the evening session on July 22 (Wednesday); Shanghai Gold Exchange Silver T+D closed up 1.15% at 14,660 yuan/kg."
+    },
+    {
+      "id": "5002933",
+      "time": "2026-07-23 02:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲2.74%，報565.30元人民幣/桶。滬金夜盤收漲1.04%，滬銀收漲1.69%。"
+    },
+    {
+      "id": "5002932",
+      "time": "2026-07-23 02:29:26",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "訊息人士：美國正在調查俄羅斯是否協助伊朗用無人機襲擊中情局在海灣的設施。"
+    },
     {
       "id": "mkt:019f8b15-53d7-7aab-8e4f-a26055801274",
       "time": "2026-07-23 02:27:38",
@@ -161160,106 +161232,6 @@
         "國際"
       ],
       "text": "市場訊息： 美國曾研究過對古巴發動空中打擊的可能性。"
-    },
-    {
-      "id": "mkt:019f670c-217e-7aab-8dae-a9cb15cf5b8e",
-      "time": "2026-07-16 02:31:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "Energy"
-      ],
-      "text": "【Night session front-month contracts close】At the 02:30 close, Shanghai gold front-month contract was up 0.03% at 887 yuan/gram; Shanghai silver front-month contract was down 1.43% at 14,184 yuan/kg; SC crude front-month contract was down 0.02% at 518 yuan/barrel."
-    },
-    {
-      "id": "4990586",
-      "time": "2026-07-16 02:31:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI 8月原油期貨收報79.60美元/桶。NYMEX 8月天然氣期貨收報2.9240美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.3009美元/加侖，NYMEX 8月取暖油期貨收報3.9483美元/加侖。"
-    },
-    {
-      "id": "mkt:019f670b-eef2-7aab-8dae-a1cdf0c9d1b8",
-      "time": "2026-07-16 02:31:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange gold T+D closed up 0.28% at 886.0 yuan/gram in the evening session on July 15 (Wednesday). Shanghai Gold Exchange silver T+D closed down 0.99% at 14,138.0 yuan/kg in the evening session on July 15 (Wednesday)."
-    },
-    {
-      "id": "mkt:019f670b-ed2e-7aab-8dae-9db1b51026d5",
-      "time": "2026-07-16 02:31:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "U.S. crude futures settled at $79.60/bbl, up $0.26, or 0.33%."
-    },
-    {
-      "id": "4990585",
-      "time": "2026-07-16 02:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "上期所原油期貨夜盤收跌0.02%，報517.70元人民幣/桶。滬金夜盤收漲0.03%，滬銀收跌1.42%。"
-    },
-    {
-      "id": "te:markets:567307",
-      "time": "2026-07-16 02:29:59",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Crypto",
-        "Importance 1"
-      ],
-      "text": "Crypto Updates: Ether Appreciates by 2.12% — Today's cryptos market is characterized by modest daily movements, with Ether standing out as the frontrunner with a 2.12% increase."
-    },
-    {
-      "id": "mkt:019f670a-f087-7aab-8dae-9390ac175e4a",
-      "time": "2026-07-16 02:29:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "US President Trump on Iran said: 'They had better behave.'"
-    },
-    {
-      "id": "4990584",
-      "time": "2026-07-16 02:29:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談及伊朗：他們最好安分點。"
-    },
-    {
-      "id": "4990583",
-      "time": "2026-07-16 02:29:40",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我不喜歡設定最後期限。"
-    },
-    {
-      "id": "mkt:019f670a-a7cc-7aab-8dae-8c6d81817def",
-      "time": "2026-07-16 02:29:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Trump said he does not like setting deadlines on Iran."
     }
   ]
 }
