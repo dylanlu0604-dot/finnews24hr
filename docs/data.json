@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-22 20:28:25",
-  "count": 18049,
+  "updated": "2026-07-22 20:32:30",
+  "count": 18017,
   "items": [
+    {
+      "id": "mkt:019f89cf-474e-7aab-8e47-cb1ac789b2ad",
+      "time": "2026-07-22 20:31:30",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "Wall Street Journal reports AMD (AMD.O) has signed a major chip and investment agreement with ANTHROPIC; AMD will invest $5 billion in ANTHROPIC as part of the chip deal."
+    },
+    {
+      "id": "te:markets:568894",
+      "time": "2026-07-22 20:31:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Nears Two-Week High on Safe-Haven Demand — Silver climbed to $59.5 an ounce on Wednesday, its highest level since July 10, as safe-haven demand and technical buying gained momentum amid escalating Middle East tensions and ahead of next week's Federal Reserve meeting. Geopolitical concerns intensified after President Donald Trump warned of further strikes on Iran and pledged retaliation if Iran-backed Houthi rebels disrupt shipping through the Red Sea. Meanwhile, Secretary of State Marco Rubio said the US remains open to a deal with Iran but questioned whether Tehran is willing to accept terms acceptable to Washington. Despite the rally, silver remained below the record highs reached in January, as elevated oil prices have reinforced inflation concerns and expectations that the Federal Reserve may need to keep monetary policy restrictive. Markets currently price in two 25-basis-point rate hikes by March 2027, with about a 70% probability of the first increase coming as early as September."
+    },
+    {
+      "id": "5002492",
+      "time": "2026-07-22 20:30:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 與 Anthropic 簽署重大晶片供應及投資協議。"
+    },
+    {
+      "id": "5002491",
+      "time": "2026-07-22 20:30:28",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點"
+      ],
+      "text": "AMD 將向 Anthropic 投資 50 億美元，配套達成晶片合作協議。"
+    },
+    {
+      "id": "5002489",
+      "time": "2026-07-22 20:30:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【匈牙利總檢察長提交辭呈】當地時間22日，匈牙利總檢察長納吉·加博爾·巴林特提交辭呈。總檢察長辦公室釋出的宣告稱，他已於當天透過代行總統職權的福斯特霍費爾·阿格奈什向代行國會主席職責的副議長提交了辭呈，並提議於2026年8月25日終止其任期。此前，匈牙利總理毛焦爾要求納吉·加博爾·巴林特辭職。（央視新聞）"
+    },
+    {
+      "id": "te:markets:568893",
+      "time": "2026-07-22 20:28:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gold Rises to Two-Week High — Gold climbed to $4,125 an ounce on Wednesday, after touching its highest level since July 7 earlier in the session, supported by safe-haven demand and technical buying as investors monitored escalating Middle East tensions and awaited next week's Federal Reserve meeting for clues on the US interest rate outlook. Geopolitical risks intensified after President Donald Trump warned of further strikes on Iran and pledged retaliation if Iran-backed Houthi rebels disrupt shipping through the Red Sea. Meanwhile, Secretary of State Marco Rubio said the US remains open to a deal with Iran but questioned whether Tehran is willing to reach acceptable terms. Still, gold remained below the record highs reached in January, as elevated oil prices have fueled inflation concerns and strengthened expectations that interest rates will stay higher for longer. Markets continue to price in two 25-basis-point rate hikes by March 2027, with a 70% chance of the first increase coming as early as September."
+    },
+    {
+      "id": "5002488",
+      "time": "2026-07-22 20:28:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "據貓眼專業版資料，電影 《八仙！》 上映5天， 總票房破4億。"
+    },
+    {
+      "id": "5002487",
+      "time": "2026-07-22 20:28:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【翱捷科技：預計2026年上半年淨利潤8500萬元，同比扭虧為盈】翱捷科技公告，預計2026年1月1日至2026年6月30日，實現營業收入約為人民幣24.5億元，同比增長約29%；預計實現歸屬於母公司所有者的淨利潤約為人民幣8500萬元，實現扭虧為盈，與上年同期相比，增加約3.3億元。"
+    },
+    {
+      "id": "5002486",
+      "time": "2026-07-22 20:28:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "7月22日全球基金淨賣出81.9億印度盧比的印度股票。"
+    },
+    {
+      "id": "5002485",
+      "time": "2026-07-22 20:28:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "DR REDDY'S 高管就司美格魯肽表態：有望在11月前將司美格魯肽推向市場。"
+    },
+    {
+      "id": "5002484",
+      "time": "2026-07-22 20:27:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基簽署總統令 任命烏軍總司令和總參謀長】烏克蘭總統澤連斯基22日透過簽署總統令的形式，任命了新任的烏軍總司令和總參謀長。烏克蘭武裝部隊新任總司令為德拉帕特，近年曾先後擔任烏陸軍司令和烏聯合部隊司令。烏克蘭武裝部隊新任總參謀長為斯基比尤克。以上二人的相關任命已在烏總統府官網公佈。（央視新聞）"
+    },
     {
       "id": "5002483",
       "time": "2026-07-22 20:27:41",
@@ -33,6 +134,14 @@
         "國際"
       ],
       "text": "DR REDDY'S 高管就關稅問題表示：此前已歷經多輪類似週期，立即遷往美國並不現實。"
+    },
+    {
+      "id": "5002479",
+      "time": "2026-07-22 20:26:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【江蘇省委金融委員會召開會議】7月22日，江蘇省委金融委員會召開會議，深入學習貫徹習近平黨建思想和習近平總書記關於金融工作的重要論述，落實金融系統黨的建設工作會議精神，討論有關檔案，研究部署重點工作。省委書記、省委金融委員會主任信長星主持會議並講話，省長、省委金融委員會主任劉小濤出席會議。會議指出，今年以來，省委金融委員會認真貫徹落實黨中央決策部署，錨定建設金融強省目標，著力加強黨對金融工作的領導，統籌推進防風險、強監管、促高質量發展，各方面工作取得新進展新成效，為全省經濟社會發展提供了有力支撐。做好下一階段全省金融工作，要加強金融系統黨的建設，深化黨的創新理論武裝，進一步完善金融系統黨建管理制度機制，推動地方金融機構黨組織扛牢管黨治黨政治責任，以高質量黨建促進金融高質量發展。要更加積極有效服務實體經濟，全面落實財政金融協同促內需各項舉措，加快構建同科技創新相適應的科技金融體制，持續最佳化民營經濟金融服務，全鏈條支援現代化產業體系建設。要深化金融領域改革創新，最佳化金融業態佈局，強化人工智慧賦能，加強金融人才隊伍建設，高水平構建地方現代金融市場體系。要守牢金融安全底線，提高監管的精準性、穿透力，保持防範和打擊非法金融活動力度，有力有效防範化解各類風險。（微訊江蘇）"
     },
     {
       "id": "mkt:019f89ca-25ea-7aab-8e47-c78986547a96",
@@ -122,6 +231,14 @@
         "其他"
       ],
       "text": "空中客車與Landing Zones簽署戰略合作協議，共同推進加拿大先進無人機系統發展，協議包含來自空中客車的一項投資。"
+    },
+    {
+      "id": "5002472",
+      "time": "2026-07-22 20:21:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【陳敏爾張工與海爾集團董事局主席周雲傑一行座談】7月22日，天津市委書記陳敏爾，市委副書記、市長張工與海爾集團董事局主席、執行長周雲傑一行座談。陳敏爾、張工代表市委、市政府歡迎周雲傑一行來津。陳敏爾、張工說，當前，我們深入貫徹落實習近平總書記視察天津重要講話精神，以推進京津冀協同發展為戰略牽引，用好區位、港口、產業、科教、人才等優勢，深化科技創新、產業煥新、城市更新，有效盤活存量、做優增量、提升質量，因地制宜發展新質生產力，打造我國北方地區聯通國內國際雙迴圈的重要戰略支點，奮力譜寫中國式現代化天津篇章。海爾集團作為實體經濟的代表，與我市保持良好合作關係。站在“十五五”的新起點，希望加大在津投資佈局力度，深化與我市在家電製造、智慧家居、大健康等領域務實合作，充分發揮鏈主企業帶動作用，促進產業成龍配套、成鏈成群，協力推動高質量發展、創造高品質生活。我們將持續最佳化營商環境，建立健全統籌協調對接機制，為企業提供優質高效服務。（天津發布）"
     },
     {
       "id": "5002471",
@@ -164825,489 +164942,6 @@
         "國際"
       ],
       "text": "美國 PPI 資料出爐後現貨黃金收窄跌幅，最新下跌 0.1%，報 4048 美元 / 盎司。"
-    },
-    {
-      "id": "4990000",
-      "time": "2026-07-15 20:31:59",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月PPI環比下降0.3%；預計與上年持平。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607153807684675",
-      "time": "2026-07-15 20:31:55",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "美國6月不包括食品和能源的核心PPI升0.2%，預期升0.3%。"
-    },
-    {
-      "id": "mkt:019f65c2-ffdb-7aab-8da2-41ac8912e756",
-      "time": "2026-07-15 20:31:45",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Canada May manufacturing unfilled orders MoM 6.7% vs prior 1.3%."
-    },
-    {
-      "id": "mkt:019f65c2-e613-7aab-8da2-3c1e8acb78da",
-      "time": "2026-07-15 20:31:39",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Unfilled Orders (MoM) (May) | actual 6.7% | previous 1.3%"
-    },
-    {
-      "id": "4989999",
-      "time": "2026-07-15 20:31:37",
-      "tags": [
-        "資料",
-        "市場",
-        "國際"
-      ],
-      "text": "6月PPI意外下跌後，美國國債價格小幅走高。"
-    },
-    {
-      "id": "mkt:019f65c2-df01-7aab-8da2-342824b55f59",
-      "time": "2026-07-15 20:31:37",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada May manufacturing new orders +9.5% m/m (prev +2.1%)."
-    },
-    {
-      "id": "mkt:019f65c2-c07a-7aab-8da2-2e77cb466627",
-      "time": "2026-07-15 20:31:29",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing New Orders (MoM) (May) | actual 9.5% | previous 2.1%"
-    },
-    {
-      "id": "mkt:019f65c2-b13f-7aab-8da2-27c0c72ce459",
-      "time": "2026-07-15 20:31:25",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada May manufacturing inventory-to-shipments ratio 1.3% (prior 1.62%)."
-    },
-    {
-      "id": "mkt:019f65c2-963c-7aab-8da2-1d694706987a",
-      "time": "2026-07-15 20:31:18",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY"
-      ],
-      "text": "Canada May wholesale inventories m/m -2.3%; previous +1.1%."
-    },
-    {
-      "id": "mkt:019f65c2-9484-7aab-8da2-153d5b2205af",
-      "time": "2026-07-15 20:31:18",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Inventory-To-Sales Ratio (May) | actual 1.3% | previous 1.62%"
-    },
-    {
-      "id": "4989998",
-      "time": "2026-07-15 20:31:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約聯邦儲備銀行全額接受了7月15日常備回購操作中提交的1億美元申請。"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607153807683450",
-      "time": "2026-07-15 20:31:15",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國5月PPI最終需求指數由升1.1%修正至升0.6%】美國5月PPI最終需求指數由升1.1%修正至升0.6%。美國6月PPI最終需求指數降0.3%，預期持平。"
-    },
-    {
-      "id": "mkt:019f65c2-6e0d-7aab-8da2-0f08aceb0275",
-      "time": "2026-07-15 20:31:08",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Inventories (MoM) (May) | actual -2.3% | previous 1.1%"
-    },
-    {
-      "id": "mkt:019f65c2-656c-7aab-8da2-0644caf631af",
-      "time": "2026-07-15 20:31:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "Canada May wholesale sales YoY +0.2%; prior +6.3%."
-    },
-    {
-      "id": "mkt:019f65c2-4f28-7aab-8da1-f840afbe4ff9",
-      "time": "2026-07-15 20:31:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Sales (YoY) (May) | actual 0.2% | previous 6.3%"
-    },
-    {
-      "id": "mkt:019f65c2-49b8-7aab-8da1-f587d140e954",
-      "time": "2026-07-15 20:30:59",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Canada manufacturing inventories rose 0.5% MoM in May, matching April's 0.5%."
-    },
-    {
-      "id": "mkt:019f65c2-31dc-7aab-8da1-e99997029bd8",
-      "time": "2026-07-15 20:30:53",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Inventories (MoM) (May) | actual 0.5% | previous 0.5%"
-    },
-    {
-      "id": "em:jjsj_mgsj:202607153807680759",
-      "time": "2026-07-15 20:30:51",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國6月PPI同比增長5.5% 低於市場預期】美國6月PPI同比增長5.5%，預估為6.2%；環比下降0.3%，預估持平。"
-    },
-    {
-      "id": "mkt:019f65c2-023d-7aab-8da1-e7b240a6d55c",
-      "time": "2026-07-15 20:30:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "Copper"
-      ],
-      "text": "US July New York Fed manufacturing employment index 11.4, up from 9.6 previously."
-    },
-    {
-      "id": "mkt:019f65c1-ecc2-7aab-8da1-deab31f91c95",
-      "time": "2026-07-15 20:30:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "US10Y",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "U.S. New York Fed Empire State manufacturing prices received index for July 27.6, prior 31.4."
-    },
-    {
-      "id": "mkt:019f65c1-e7a8-7aab-8da1-d29cf8ba618e",
-      "time": "2026-07-15 20:30:34",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Employment Index (Jul) | actual 11.4 | previous 9.6"
-    },
-    {
-      "id": "mkt:019f65c1-cc16-7aab-8da1-ca031a4b90a1",
-      "time": "2026-07-15 20:30:27",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Prices Received Index (Jul) | actual 27.6 | previous 31.4"
-    },
-    {
-      "id": "mkt:019f65c1-b4e2-7aab-8da1-c0408266dbc7",
-      "time": "2026-07-15 20:30:21",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "S&P500"
-      ],
-      "text": "US New York Fed manufacturing new-orders index rose to 22.2 in July from 3.5 in June."
-    },
-    {
-      "id": "em:jjsj_mgsj:202607153807682294",
-      "time": "2026-07-15 20:30:19",
-      "tags": [
-        "經濟數據",
-        "美國"
-      ],
-      "text": "【美國7月紐約聯儲製造業指數15.6 預期8.8】美國7月紐約聯儲製造業指數15.6，預期8.8，前值5.7。"
-    },
-    {
-      "id": "mkt:019f65c1-a604-7aab-8da1-bc60058f223c",
-      "time": "2026-07-15 20:30:17",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US June core PPI YoY 4.7% vs 5.2% expected; prior reading revised from 4.90% to 4.6%."
-    },
-    {
-      "id": "4989996",
-      "time": "2026-07-15 20:30:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國6月生產者價格指數同比上漲5.5%；預期上漲6.2%。"
-    },
-    {
-      "id": "mkt:019f65c1-a410-7aab-8da1-b59b94957bb9",
-      "time": "2026-07-15 20:30:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada May wholesale sales MoM 0.0% vs -0.7% expected; prior 0.6%."
-    },
-    {
-      "id": "mkt:019f65c1-a093-7aab-8da1-ac3fd994c78c",
-      "time": "2026-07-15 20:30:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "US PPI YoY for June 5.5% vs 6.2% expected; May revised down to 6.0% from 6.5%."
-    },
-    {
-      "id": "mkt:019f65c1-9f64-7aab-8da1-a5b5818c00af",
-      "time": "2026-07-15 20:30:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "US core PPI MoM for June 0.2% vs 0.4% expected; May revised down to 0.1% from 0.4%."
-    },
-    {
-      "id": "mkt:019f65c1-91bb-7aab-8da1-93bfcc24e400",
-      "time": "2026-07-15 20:30:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US June PPI MoM -0.3% vs expected 0.0%; May revised from 1.10% to 0.6%."
-    },
-    {
-      "id": "mkt:019f65c1-8d04-7aab-8da1-8883eec6b8f3",
-      "time": "2026-07-15 20:30:11",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada May manufacturing shipments MoM +1.3% (consensus +1.1%; Apr +4.2%)."
-    },
-    {
-      "id": "mkt:019f65c1-91bc-7aab-8da1-9f09214ae200",
-      "time": "2026-07-15 20:30:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "Dow"
-      ],
-      "text": "US New York Fed Empire State manufacturing index rose to 15.6 in July, versus a consensus 8.8 and a prior 5.7."
-    },
-    {
-      "id": "mkt:019f65c1-89e9-7aab-8da1-8124c81fcf13",
-      "time": "2026-07-15 20:30:10",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed New Orders Index (Jul) | actual 22.2 | previous 3.5"
-    },
-    {
-      "id": "mkt:019f65c1-746d-7aab-8da1-7884f87786fe",
-      "time": "2026-07-15 20:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Wholesale Sales (MoM) (May) | actual 0% | consensus -0.7% | previous 0.60%"
-    },
-    {
-      "id": "mkt:019f65c1-7019-7aab-8da1-772503b4e5ff",
-      "time": "2026-07-15 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core PPI (YoY) (Jun) | actual 4.7% | consensus 5.2% | previous 4.90%"
-    },
-    {
-      "id": "mkt:019f65c1-6fba-7aab-8da1-686d8dd11fde",
-      "time": "2026-07-15 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core PPI (MoM) (Jun) | actual 0.2% | consensus 0.4% | previous 0.40%"
-    },
-    {
-      "id": "mkt:019f65c1-6eab-7aab-8da1-609ebd2bd3ad",
-      "time": "2026-07-15 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | PPI (YoY) (Jun) | actual 5.5% | consensus 6.2% | previous 6.50%"
-    },
-    {
-      "id": "mkt:019f65c1-6e8e-7aab-8da1-538e635eb130",
-      "time": "2026-07-15 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | PPI (MoM) (Jun) | actual -0.3% | consensus 0% | previous 1.10%"
-    },
-    {
-      "id": "mkt:019f65c1-6ea3-7aab-8da1-5d8cabc8677f",
-      "time": "2026-07-15 20:30:03",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Manufacturing Sales (MoM) (May) | actual 1.3% | consensus 1.1% | previous 4.20%"
-    },
-    {
-      "id": "mkt:019f65c1-62de-7aab-8da1-4825499b1da3",
-      "time": "2026-07-15 20:30:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | New York Fed Manufacturing Index (Jul) | actual 15.6 | consensus 8.8 | previous 5.7"
-    },
-    {
-      "id": "4989995",
-      "time": "2026-07-15 20:29:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：馬士基投資1億美元在波士頓地區新建配送中心，將創造近千個就業崗位並提升東北部配送能力。"
-    },
-    {
-      "id": "mkt:019f65c1-1f77-7aab-8da1-47232c294c3f",
-      "time": "2026-07-15 20:29:43",
-      "tags": [
-        "MKT News",
-        "MAERSK-B.CO",
-        "Impact bullish"
-      ],
-      "text": "Maersk will invest $100m to build a new distribution center in the Boston area, creating nearly 1,000 jobs and expanding its Northeast U.S. distribution capacity."
-    },
-    {
-      "id": "mkt:019f65c0-f717-7aab-8da1-3e4c89a7919a",
-      "time": "2026-07-15 20:29:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "Morgan Stanley CFO said activity in Asian markets including Hong Kong, Japan, South Korea and India drove record equities revenue."
-    },
-    {
-      "id": "4989994",
-      "time": "2026-07-15 20:29:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "阿達尼表示，美國投資與美國司法部撤銷此案的舉動“無關”。"
-    },
-    {
-      "id": "4989993",
-      "time": "2026-07-15 20:28:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技：第五代工藝技術平臺目前處於研發階段】7月15日，長鑫科技科創板發行並上市網上投資者交流會舉行。長鑫科技副總裁、董事會秘書袁園表示，公司第五代工藝技術平臺及相關產品目前處於研發階段。該平臺採用進一步最佳化的多重曝光技術，進一步提升儲存密度和陣列效能。公司研發團隊正在積極推進相關工藝和產品技術的開發工作。"
     }
   ]
 }
