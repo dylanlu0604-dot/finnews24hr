@@ -1,7 +1,115 @@
 {
   "date": "2026-07-23",
-  "count": 325,
+  "count": 334,
   "items": [
+    {
+      "id": "mkt:019f8b71-2650-7aab-8e51-8f46a2c34d60",
+      "time": "2026-07-23 04:07:56",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O): GEMINI app monthly active users (MAUs) reached 950 mln."
+    },
+    {
+      "id": "mkt:019f8b6f-aa5e-7aab-8e51-8437046b31eb",
+      "time": "2026-07-23 04:06:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) Q2 fiscal 2026 revenue $28.2 bln, versus $22.496 bln a year earlier; market expected $25.706 bln."
+    },
+    {
+      "id": "mkt:019f8b6f-3b64-7aab-8e51-7d7cabd87174",
+      "time": "2026-07-23 04:05:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed down 5.71 points (-0.01%) at 52,218.93 on July 22; S&P 500 closed down 10.22 points (-0.14%) at 7,498.98; Nasdaq Composite closed down 146.30 points (-0.57%) at 25,690.90."
+    },
+    {
+      "id": "5003017",
+      "time": "2026-07-23 04:05:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：Cybercab 已於德州超級工廠投產；特斯拉半掛卡車仍按計劃於今年在內華達州新工廠投產。"
+    },
+    {
+      "id": "mkt:019f8b6e-de2c-7aab-8e51-77080aac3b72",
+      "time": "2026-07-23 04:05:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) reported fiscal 2026 Q2 gross margin of 16.8%, below market consensus of 19.33%."
+    },
+    {
+      "id": "5003016",
+      "time": "2026-07-23 04:04:54",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉第二季度營收282.4億美元，預估263.2億美元."
+    },
+    {
+      "id": "mkt:019f8b6d-f4fc-7aab-8e51-6cca95c8f367",
+      "time": "2026-07-23 04:04:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet A (GOOGL.O) rose 0.9% in U.S. after-hours trading."
+    },
+    {
+      "id": "5003015",
+      "time": "2026-07-23 04:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet：Gemini 應用月活躍使用者達 9.5 億."
+    },
+    {
+      "id": "mkt:019f8b6d-87f9-7aab-8e51-677e49b81b22",
+      "time": "2026-07-23 04:03:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O"
+      ],
+      "text": "Alphabet (GOOGL.O) reported fiscal 2026 Q2 EPS of $9.11."
+    },
     {
       "id": "5003014",
       "time": "2026-07-23 04:03:45",

@@ -1,7 +1,115 @@
 {
-  "updated": "2026-07-23 04:04:24",
+  "updated": "2026-07-23 04:08:26",
   "count": 17664,
   "items": [
+    {
+      "id": "mkt:019f8b71-2650-7aab-8e51-8f46a2c34d60",
+      "time": "2026-07-23 04:07:56",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "ALPHABET (GOOG.O): GEMINI app monthly active users (MAUs) reached 950 mln."
+    },
+    {
+      "id": "mkt:019f8b6f-aa5e-7aab-8e51-8437046b31eb",
+      "time": "2026-07-23 04:06:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) Q2 fiscal 2026 revenue $28.2 bln, versus $22.496 bln a year earlier; market expected $25.706 bln."
+    },
+    {
+      "id": "mkt:019f8b6f-3b64-7aab-8e51-7d7cabd87174",
+      "time": "2026-07-23 04:05:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "Dow Jones Industrial Average closed down 5.71 points (-0.01%) at 52,218.93 on July 22; S&P 500 closed down 10.22 points (-0.14%) at 7,498.98; Nasdaq Composite closed down 146.30 points (-0.57%) at 25,690.90."
+    },
+    {
+      "id": "5003017",
+      "time": "2026-07-23 04:05:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉：Cybercab 已於德州超級工廠投產；特斯拉半掛卡車仍按計劃於今年在內華達州新工廠投產。"
+    },
+    {
+      "id": "mkt:019f8b6e-de2c-7aab-8e51-77080aac3b72",
+      "time": "2026-07-23 04:05:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) reported fiscal 2026 Q2 gross margin of 16.8%, below market consensus of 19.33%."
+    },
+    {
+      "id": "5003016",
+      "time": "2026-07-23 04:04:54",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉第二季度營收282.4億美元，預估263.2億美元."
+    },
+    {
+      "id": "mkt:019f8b6d-f4fc-7aab-8e51-6cca95c8f367",
+      "time": "2026-07-23 04:04:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet A (GOOGL.O) rose 0.9% in U.S. after-hours trading."
+    },
+    {
+      "id": "5003015",
+      "time": "2026-07-23 04:04:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet：Gemini 應用月活躍使用者達 9.5 億."
+    },
+    {
+      "id": "mkt:019f8b6d-87f9-7aab-8e51-677e49b81b22",
+      "time": "2026-07-23 04:03:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O"
+      ],
+      "text": "Alphabet (GOOGL.O) reported fiscal 2026 Q2 EPS of $9.11."
+    },
     {
       "id": "5003014",
       "time": "2026-07-23 04:03:45",
@@ -161153,91 +161261,6 @@
         "Brent"
       ],
       "text": "U.S. President Trump said oil prices rose slightly because he had to take tough measures."
-    },
-    {
-      "id": "4990704",
-      "time": "2026-07-16 04:07:08",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普談石油：油價略有上漲，我不得不採取強硬措施。"
-    },
-    {
-      "id": "mkt:019f6763-8edb-7aab-8db0-128b0aed23c2",
-      "time": "2026-07-16 04:06:45",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "U.S. President TRUMP said Iran will be defeated soon."
-    },
-    {
-      "id": "4990703",
-      "time": "2026-07-16 04:06:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：很快就會打敗伊朗。"
-    },
-    {
-      "id": "4990702",
-      "time": "2026-07-16 04:06:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "收盤後公佈業績，聯合航空股價盤後下跌2.7%。"
-    },
-    {
-      "id": "4990701",
-      "time": "2026-07-16 04:06:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：他們很快就會被擊敗。"
-    },
-    {
-      "id": "4990700",
-      "time": "2026-07-16 04:06:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "聯合航空將按計劃在2027年底前為整個機隊裝配星鏈。"
-    },
-    {
-      "id": "mkt:019f6762-ab48-7aab-8db0-08d466385a96",
-      "time": "2026-07-16 04:05:47",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "Dow",
-        "Impact bullish",
-        "S&P500",
-        "Nasdaq100"
-      ],
-      "text": "On Wednesday, July 15, the Dow Jones Industrial Average closed up 150.25 points, or 0.29%, at 52,658.52; the S&P 500 closed up 28.85 points, or 0.38%, at 7,572.44; the Nasdaq Composite closed up 162.22 points, or 0.62%, at 26,269.23."
-    },
-    {
-      "id": "4990699",
-      "time": "2026-07-16 04:05:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥將透過債務置換延長政府債務到期期限。"
-    },
-    {
-      "id": "4990698",
-      "time": "2026-07-16 04:04:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "三星生物製劑與歐加農將在澳大利亞推出新型生物類似藥。"
     }
   ]
 }
