@@ -1,7 +1,61 @@
 {
   "date": "2026-07-22",
-  "count": 3090,
+  "count": 3095,
   "items": [
+    {
+      "id": "5002798",
+      "time": "2026-07-22 23:31:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國證券交易委員會（SEC）：執法部門首席副主任沃爾登（Waldon）將離職。"
+    },
+    {
+      "id": "5002797",
+      "time": "2026-07-22 23:28:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【騰訊升級釋出具身智慧全棧方案，ADP 4.0海外版正式上線】7月22日晚間訊息，在2026世界人工智慧大會上，騰訊面向具身智慧與智慧體領域帶來多項產品技術的升級釋出。針對企業出海的實際提效需求，騰訊雲副總裁吳運聲正式釋出騰訊雲企業級智慧體開發平臺ADP 4.0海外版。該版本圍繞觸達、互動、生態、連線四大維度全面升級：接入LINE、Telegram等海外主流社交渠道；支援自定義時區排程與語言跟隨；內建多家國際大模型完成本地化適配。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f8a70-c3e1-7aab-8e4c-ee8908c7d95e",
+      "time": "2026-07-22 23:27:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bullish",
+        "Dow",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Three major US equity indices diverged: the Nasdaq turned higher after an earlier drop of more than 0.8%; the Dow rose 0.3%; the S&P 500 fell 1.52%."
+    },
+    {
+      "id": "mkt:019f8a70-2069-7aab-8e4c-e022137a46a3",
+      "time": "2026-07-22 23:27:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. Trade Representative GREER said USMCA negotiations may extend into next year."
+    },
+    {
+      "id": "5002796",
+      "time": "2026-07-22 23:27:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數轉漲，此前曾下跌0.8%。"
+    },
     {
       "id": "5002795",
       "time": "2026-07-22 23:25:44",
