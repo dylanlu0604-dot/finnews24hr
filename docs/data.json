@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-23 02:24:30",
-  "count": 17666,
+  "updated": "2026-07-23 02:28:35",
+  "count": 17668,
   "items": [
+    {
+      "id": "mkt:019f8b15-53d7-7aab-8e4f-a26055801274",
+      "time": "2026-07-23 02:27:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IRGC warns vessels not to use alternative in/out routes for Strait of Hormuz】The Iranian Islamic Revolutionary Guard Corps (IRGC) Navy said on the 22nd local time that transit lanes into and out of the Strait of Hormuz are clearly defined and are entirely under Iranian control; any alternative routes are \"unsafe and extremely dangerous\" and would carry \"serious and irreversible\" consequences. The IRGC earlier, in the early hours of the 18th (Tehran time), said two tankers exploded and caught fire after passing a mined area in the southern Strait. U.S. Central Command disputed Iran's account. The tankers were using the Strait's \"south-side route\" near Oman; the U.S. has been encouraging vessels to use the \"south-side route\" and says it is safe, while Iran says that route is unauthorized."
+    },
+    {
+      "id": "5002931",
+      "time": "2026-07-23 02:25:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：船隻不要使用替代航線進出霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍司令部當地時間22日表示，霍爾木茲海峽的進出路線明確，且完全處於伊朗的控制之下。任何替代航線都是不安全且極其危險的。警告各方不要使用這些航線，否則將造成嚴重且無法挽回的後果。"
+    },
+    {
+      "id": "te:markets:568957",
+      "time": "2026-07-23 02:25:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 4.53% — Top commodity losers are Cocoa (-4.53%), Coffee (-1.26%) and Sugar (-0.87%). Gains are led by Wheat (4.18%) and Canola (2.34%)."
+    },
+    {
+      "id": "5002930",
+      "time": "2026-07-23 02:24:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟未就第21輪對俄製裁達成一致】當地時間22日，歐盟各成員國外交官員舉行會議，最終再次未能就針對俄羅斯的第21輪制裁方案達成一致。據悉，新制裁旨在打擊俄羅斯銀行業。然而，希臘希望歐盟放寬對俄羅斯液化天然氣供應的限制。上週，希臘方面稱，即將對俄羅斯液化天然氣實施的轉讓禁令只會將市場份額轉移到歐洲以外，不會影響俄羅斯的收入。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8b12-48b9-7aab-8e4f-9c4bd9dd7d46",
+      "time": "2026-07-23 02:24:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "An IRGC spokesman warned shipping companies that sea mines have been laid on the southern lane of the Strait of Hormuz."
+    },
     {
       "id": "5002929",
       "time": "2026-07-23 02:23:28",
@@ -161210,33 +161260,6 @@
         "Important"
       ],
       "text": "Trump said he does not like setting deadlines on Iran."
-    },
-    {
-      "id": "mkt:019f6709-49c1-7aab-8dae-83ddd9cbe92f",
-      "time": "2026-07-16 02:28:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【UK Labour leadership candidate Burnham says he would deal with Trump 'straightforwardly'】Andy Burnham, a candidate to lead the UK Labour Party, said if he becomes prime minister he would deal with US President Trump 'straightforwardly' and use his personal style to keep UK-US ties stable. He said Britain should respect the US presidency and the bilateral relationship but would make disagreements clear and 'communicate with him in Trump's way'. Trump previously called Burnham 'extremely liberal' and downplayed his political influence. Burnham is expected to be elected Labour leader unopposed on Thursday and to replace Starmer as prime minister next Monday. UK-US relations, strained by Iran-related tensions and stalled trade talks, will be a near-term challenge for him to repair."
-    },
-    {
-      "id": "te:markets:567306",
-      "time": "2026-07-16 02:25:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Agricultural Commodities Updates: Wheat Spikes by 5.21% — Top commodity gainers are Wheat (5.21%), Canola (2.43%) and Corn (2.10%). Biggest loser is Lumber (-1.03%)."
-    },
-    {
-      "id": "4990582",
-      "time": "2026-07-16 02:25:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“十五五”時期基本建成天空地海一體化生態環境監測網路】生態環境部、國家發展改革委近日聯合印發《生態環境監測“十五五”規劃》（以下稱為《規劃》），為未來五年我國生態環境監測工作劃定路線圖，也為美麗中國建設築牢監測根基。《規劃》提出，到2030年，現代化生態環境監測體系建設取得重要進展。基本建成天空地海一體化生態環境監測網路，國家監測網路實現體系化執行和數智化升級，央地監測網路協同佈局、互聯互通。新汙染物、重金屬、生態問題等風險預警監測能力基本形成，資料質量持續提高。到2035年，基本建成現代化監測體系，生態環境監測綜合實力達到國際先進水平。（央視新聞）"
     }
   ]
 }

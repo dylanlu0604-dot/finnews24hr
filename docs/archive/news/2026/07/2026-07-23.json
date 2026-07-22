@@ -1,7 +1,57 @@
 {
   "date": "2026-07-23",
-  "count": 183,
+  "count": 188,
   "items": [
+    {
+      "id": "mkt:019f8b15-53d7-7aab-8e4f-a26055801274",
+      "time": "2026-07-23 02:27:38",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【IRGC warns vessels not to use alternative in/out routes for Strait of Hormuz】The Iranian Islamic Revolutionary Guard Corps (IRGC) Navy said on the 22nd local time that transit lanes into and out of the Strait of Hormuz are clearly defined and are entirely under Iranian control; any alternative routes are \"unsafe and extremely dangerous\" and would carry \"serious and irreversible\" consequences. The IRGC earlier, in the early hours of the 18th (Tehran time), said two tankers exploded and caught fire after passing a mined area in the southern Strait. U.S. Central Command disputed Iran's account. The tankers were using the Strait's \"south-side route\" near Oman; the U.S. has been encouraging vessels to use the \"south-side route\" and says it is safe, while Iran says that route is unauthorized."
+    },
+    {
+      "id": "5002931",
+      "time": "2026-07-23 02:25:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊：船隻不要使用替代航線進出霍爾木茲海峽】伊朗伊斯蘭革命衛隊海軍司令部當地時間22日表示，霍爾木茲海峽的進出路線明確，且完全處於伊朗的控制之下。任何替代航線都是不安全且極其危險的。警告各方不要使用這些航線，否則將造成嚴重且無法挽回的後果。"
+    },
+    {
+      "id": "te:markets:568957",
+      "time": "2026-07-23 02:25:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Agricultural Commodities Updates: Cocoa Falls by 4.53% — Top commodity losers are Cocoa (-4.53%), Coffee (-1.26%) and Sugar (-0.87%). Gains are led by Wheat (4.18%) and Canola (2.34%)."
+    },
+    {
+      "id": "5002930",
+      "time": "2026-07-23 02:24:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟未就第21輪對俄製裁達成一致】當地時間22日，歐盟各成員國外交官員舉行會議，最終再次未能就針對俄羅斯的第21輪制裁方案達成一致。據悉，新制裁旨在打擊俄羅斯銀行業。然而，希臘希望歐盟放寬對俄羅斯液化天然氣供應的限制。上週，希臘方面稱，即將對俄羅斯液化天然氣實施的轉讓禁令只會將市場份額轉移到歐洲以外，不會影響俄羅斯的收入。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8b12-48b9-7aab-8e4f-9c4bd9dd7d46",
+      "time": "2026-07-23 02:24:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "An IRGC spokesman warned shipping companies that sea mines have been laid on the southern lane of the Strait of Hormuz."
+    },
     {
       "id": "5002929",
       "time": "2026-07-23 02:23:28",
