@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-22 08:19:17",
-  "count": 18076,
+  "updated": "2026-07-22 08:23:14",
+  "count": 18072,
   "items": [
+    {
+      "id": "5001068",
+      "time": "2026-07-22 08:22:39",
+      "tags": [
+        "公司",
+        "國際",
+        "原創"
+      ],
+      "text": "【耐克官宣自明年1月起清退中國數千家線上經銷商】耐克公司表示，計劃從1月起清退中國數千家線上經銷商，以整頓已變得混亂的數字市場，並推動該地區業務重回增長。自明年起，耐克線上銷售渠道將主要集中於品牌官網、官方App，以及其在天貓、京東、抖音等國內主流電商與社交平臺運營的品牌旗艦店。耐克收縮線上渠道佈局的計劃，意在為消費者打造更優質、標準統一的購物體驗，同時重新掌握線上定價主導權。上月下旬，國內媒體率先披露了耐克計劃清退線上經銷商的訊息。"
+    },
+    {
+      "id": "mkt:019f8733-6b7d-7aab-8e34-dde5bfba3595",
+      "time": "2026-07-22 08:22:01",
+      "tags": [
+        "MKT News",
+        "06110.HK",
+        "Impact bearish"
+      ],
+      "text": "【Taobo (06110.HK) says Nike online sales in mainland China to end Jan 1, 2027】Taobo (06110.HK) said it received formal notice from Nike after trading on July 21 that the group's online sales of Nike products in mainland China will cease on Jan 1, 2027. Nike online-platform sales made up about 22% of the group's revenue for the fiscal year ended Feb 28, 2026, and the company said the termination will have a material adverse impact on its business in the near term."
+    },
+    {
+      "id": "5001067",
+      "time": "2026-07-22 08:22:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "滔搏：收到耐克通知，本集團目前的耐克產品線上平臺銷售將全面終止。"
+    },
+    {
+      "id": "te:markets:568647",
+      "time": "2026-07-22 08:21:34",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Futures Steady Ahead of Key Earnings — US stock futures were little changed on Wednesday as investors awaited another busy round of corporate earnings, with Alphabet, Tesla, GE Vernova, Philip Morris, and Texas Instruments among the major companies scheduled to report. In extended trading, Super Micro Computer surged nearly 20% after posting stronger-than-expected profitability and unveiling a record order backlog driven by robust demand for its AI-optimized servers. Meanwhile, Pegasystems tumbled more than 13% after the software firm delivered second-quarter results that missed Wall Street estimates. During Tuesday’s regular session, the Nasdaq Composite advanced 1.29%, while the S&P 500 and Dow rose 0.89% and 0.74%, respectively. Chipmakers led the rally after strong export data from Taiwan and South Korea boosted confidence in the sector. Solid earnings from blue-chip companies, including 3M and General Motors, also helped ease concerns about the strength of corporate America."
+    },
+    {
+      "id": "5001066",
+      "time": "2026-07-22 08:19:24",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【韓國基準股指Kospi上漲6% 晶片股追隨隔夜美股走高】隨著韓國晶片股追隨隔夜華爾街上的同類股票走高，KOSPI一度上漲6%，兩日累計反彈超過9%。SK海力士股價上漲超過8%，提振了該指數；三星電子和SK Square的拉動作用也居前。Kiwoom Securities分析師Han Jiyoung稱，雖然現在斷定外國投資者已調轉方向成為淨買家還為時尚早，但他們獲利了結並削減韓國敞口的程序有可能已接近尾聲。Han補充說，投資者注意力將轉向Alphabet的財報。"
+    },
     {
       "id": "mkt:019f872f-e729-7aab-8e34-d1049fdc21c0",
       "time": "2026-07-22 08:18:11",
@@ -166099,104 +166149,6 @@
         "國際"
       ],
       "text": "【中信證券：美國CPI全面低於預期 削弱加息預期】中信證券研報稱，美國6月CPI全面低於預期，零售油價下行，核心服務項環比零增長，二次通脹效應微弱。我們認為美國通脹粘性不強，總體CPI同比已確認越過本輪峰值，三季度將大致呈溫和回落趨勢並於9月觸底，此後在年末升至次高點並於明年3月快速下行。我們仍預計美聯儲今年全年按兵不動，衍生品定價的加息預期還有進一步下修的空間，美債目前不適合配置型機會、短債好於長債，美元指數難以持續衝高但有支撐，美股的科技主線仍具吸引力。"
-    },
-    {
-      "id": "mkt:019f6326-f95c-7aab-8d8c-6dc7731ca1b4",
-      "time": "2026-07-15 08:22:06",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 5-year government bond yield fell 3 bps to 1.92%."
-    },
-    {
-      "id": "4988694",
-      "time": "2026-07-15 08:22:02",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "5年期日本國債收益率下跌3個基點至1.92%。"
-    },
-    {
-      "id": "4988693",
-      "time": "2026-07-15 08:21:38",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【華泰證券：AI眼鏡等終端有望成為消費新入口、新場景載體】華泰證券研報認為，當前科技消費的爆發本質上是底層技術（端側AI、具身智慧、數字製造等）跨越實用化閾值後，與消費者追求效率提升、情感陪伴及個性表達需求深度耦合的結果。行業正從單一的“品類放量”向“場景與入口”升級。華泰證券判斷，AI眼鏡、智慧穿戴、服務機器人與3D列印等終端有望成為消費新入口、新場景載體，若後續裝置普及率、服務訂閱和生態閉環持續驗證，未來產品的盈利邏輯還有望從一次性硬體銷售向持續服務變現延伸。投資建議：聚焦具有產品創新能力與領先優勢的三類科技消費龍頭。（1）入口型機會，重點關注AI眼鏡/可穿戴裝置等互動終端，核心看生態入口價值；（2）家庭入口與場景型機會，重點關注家庭服務機器人和AI陪伴機器人；（3）情緒與創作型機會，重點關注消費級3D列印、鐳射雕刻等。"
-    },
-    {
-      "id": "4988692",
-      "time": "2026-07-15 08:21:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "韓華海洋獲得北美兩艘超大型油輪（VLCCS）訂單，總價值3943億韓元。"
-    },
-    {
-      "id": "mkt:019f6325-fa2d-7aab-8d8c-65d7735416ba",
-      "time": "2026-07-15 08:21:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Market Themes",
-        "AI Revolution",
-        "DXY",
-        "Impact mixed",
-        "US10Y",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【China International Capital Co keeps baseline of no Fed rate hikes this year but says hurdle for hikes has fallen】China International Capital Co reports US June CPI (seasonally adjusted) fell 0.4% MoM and 3.5% YoY; core CPI was flat MoM and up 2.6% YoY — both below consensus. Energy price declines were the main driver, but renewed US–Iran tensions raise the risk of energy-driven upside to inflation. AI-related inflationary effects are emerging: upstream hardware supply–demand mismatches, rising software and peripheral prices, and AI-driven capex boosting aggregate demand could make core inflation stickier. June disinflation supports the Fed holding in July, but recent Waller comments indicate the Fed is reassessing pre-emptive hikes. The firm retains a baseline view of no rate hikes this year, but warns the threshold for tightening has fallen; one to two hotter inflation prints could prompt the Fed to reopen rate-hike discussions."
-    },
-    {
-      "id": "mkt:019f6325-eee8-7aab-8d8c-5fd163b98acb",
-      "time": "2026-07-15 08:20:58",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "South Korea's KOSPI index jumped 7.00% intraday to 7,338.63 points."
-    },
-    {
-      "id": "4988691",
-      "time": "2026-07-15 08:20:33",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數上漲7％，SK海力士漲超11%，三星電子漲逾6%。"
-    },
-    {
-      "id": "4988690",
-      "time": "2026-07-15 08:20:13",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【國金證券：產業、業績與資金三維共振，把握創新藥底部佈局機遇】國金證券研報表示，創新藥出海BD景氣上行，ADC、雙抗等前沿賽道全球領先，疊加審評效率與成本優勢，中國藥企深度嵌入全球產業鏈。TOP15 MNC年投入約2000億美元外部合作，今年已達2003億，併購高景氣確立。國內後端管線擴容，醫保談判與基藥目錄擴容雙向賦能，行業進入業績兌現黃金期。港股估值觸底，外資減持近底、南下資金增配，全球醫藥情緒回暖，優質標的配置視窗已至。"
-    },
-    {
-      "id": "mkt:019f6324-f82a-7aab-8d8c-5532283ecbf3",
-      "time": "2026-07-15 08:19:54",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "Nasdaq100"
-      ],
-      "text": "【CITIC Securities: June US CPI broadly below expectations; still expects Fed to keep rates on hold this year】CITIC Securities says June US CPI came in broadly below expectations: retail gasoline fell, core services were flat MoM, and second‑round inflation effects were weak. The firm assesses inflation lacks persistence; headline CPI YoY has passed this cycle’s peak, should drift down modestly in Q3 with a trough in September, rise to a secondary peak by year‑end and then fall sharply by March next year. CITIC still expects the Fed to keep policy rates unchanged through the year and sees room for derivatives‑implied hike probabilities to be revised lower. Market implications: US Treasuries are not attractive for allocation trades—short‑duration better than long‑duration; the dollar is unlikely to sustain a strong rally but retains support; US tech equities remain attractive."
     }
   ]
 }
