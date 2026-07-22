@@ -1,7 +1,130 @@
 {
-  "updated": "2026-07-23 05:51:43",
-  "count": 17708,
+  "updated": "2026-07-23 05:55:39",
+  "count": 17712,
   "items": [
+    {
+      "id": "mkt:019f8bd3-4f6d-7aab-8e53-659e92d4b17e",
+      "time": "2026-07-23 05:55:09",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Tesla (TSLA.O) CFO says capex will rise over the next two to three years."
+    },
+    {
+      "id": "mkt:019f8bd2-e159-7aab-8e53-596a58bb55ae",
+      "time": "2026-07-23 05:54:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) CFO expects operating expenses, chiefly R&D-driven, to continue rising in 2026 and beyond."
+    },
+    {
+      "id": "5003100",
+      "time": "2026-07-23 05:54:39",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉仍預計 2026 年資本支出將超 250 億美元。"
+    },
+    {
+      "id": "5003099",
+      "time": "2026-07-23 05:54:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CFO： 公司運營開支主要由研發投入推動，預計 2026 年及以後該費用將持續增長。"
+    },
+    {
+      "id": "mkt:019f8bd2-2b5b-7aab-8e53-55ca1cfb51f2",
+      "time": "2026-07-23 05:53:54",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【EU near agreement on new Russia sanctions; gas shipping to be exempted】EU member states are poised to approve a sanctions package that would allow Greek shipowner Dynagas to continue transporting Russian liquefied natural gas (LNG) to third countries for 12 months, renewable; the deal requires approval by EU27 representatives on Thursday. LNG shipments would be capped at 2025 levels. The package would also extend a $44.10-per-barrel price cap on Russian oil for one year to limit Moscow's fossil-fuel revenue."
+    },
+    {
+      "id": "mkt:019f8bd2-2542-7aab-8e53-4cd05224cce4",
+      "time": "2026-07-23 05:53:52",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Commodities",
+        "Energy",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) CFO said the energy business is \"inherently lumpy\" and deployment pace depends on customers' timing."
+    },
+    {
+      "id": "5003098",
+      "time": "2026-07-23 05:53:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉CFO： 儲能業務業績天然存在階段性波動，專案落地進度取決於客戶的時間規劃。"
+    },
+    {
+      "id": "mkt:019f8bd1-b3f5-7aab-8e53-42de656f8f14",
+      "time": "2026-07-23 05:53:23",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) CFO said Model Y set Q2 sales records in key markets including the Netherlands, Australia and New Zealand."
+    },
+    {
+      "id": "5003097",
+      "time": "2026-07-23 05:52:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉CFO： 二季度 Model Y 在荷蘭、澳大利亞、紐西蘭等核心市場銷量創下新高。"
+    },
+    {
+      "id": "mkt:019f8bcf-ca0e-7aab-8e53-3a3e789da038",
+      "time": "2026-07-23 05:51:18",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Houthi militants say they attacked two Saudi oil tankers in Red Sea】Houthi militants said in the early hours of the 23rd local time they attacked two Saudi oil tankers in the Red Sea, claiming the vessels violated the group's recently announced maritime embargo."
+    },
+    {
+      "id": "5003096",
+      "time": "2026-07-23 05:51:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【葉門胡塞武裝稱襲擊兩艘沙特油輪】葉門胡塞武裝當地時間23日凌晨表示已在紅海襲擊兩艘沙特油輪，並稱這兩艘油輪違反該組織近期宣佈的海上禁運令。（新華社）"
+    },
     {
       "id": "mkt:019f8bcf-6fb6-7aab-8e53-31a8641305c1",
       "time": "2026-07-23 05:50:55",
@@ -161764,71 +161887,6 @@
         "其他"
       ],
       "text": "中央氣象臺7月16日06時繼續釋出暴雨黃色預警。"
-    },
-    {
-      "id": "mkt:019f67c6-99b5-7aab-8db0-e0d98bb15458",
-      "time": "2026-07-16 05:54:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【Iran says US forces shelled multiple sites in southern Iran】Iran’s Hormozgan provincial government said early on the 16th a location near Sirik was struck by US artillery. Iranian sources also reported US shelling of Qeshm Island in the early hours of the 16th."
-    },
-    {
-      "id": "4990795",
-      "time": "2026-07-16 05:54:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱南部多地遭美軍炮擊】伊朗南部的霍爾木茲甘省政府當地時間16日表示，當天凌晨，錫裡克附近的一處地點遭到美軍炮彈襲擊。另據伊方16日凌晨訊息，伊朗南部格什姆島遭到美軍炮彈襲擊。"
-    },
-    {
-      "id": "4990794",
-      "time": "2026-07-16 05:53:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：伊朗格什姆島傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:019f67c4-9a43-7aab-8db0-dd3e915e7247",
-      "time": "2026-07-16 05:52:45",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "WTI"
-      ],
-      "text": "Kyiv officials warned residents to remain in safe areas as enemy forces are using ballistic missiles to strike the city."
-    },
-    {
-      "id": "4990793",
-      "time": "2026-07-16 05:52:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "拜耳：發行規模50億美元的新美元債券。"
-    },
-    {
-      "id": "4990792",
-      "time": "2026-07-16 05:52:14",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方發言人表示，美國遵守諒解備忘錄並在霍爾木茲海峽執行“伊朗規定”是重新開放該航道的唯一途徑。"
-    },
-    {
-      "id": "4990791",
-      "time": "2026-07-16 05:51:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗媒體：美軍彈藥於週三擊中伊朗南部錫裡克周邊地帶。"
     }
   ]
 }
