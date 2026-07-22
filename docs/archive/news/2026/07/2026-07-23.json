@@ -1,7 +1,70 @@
 {
   "date": "2026-07-23",
-  "count": 46,
+  "count": 53,
   "items": [
+    {
+      "id": "5002861",
+      "time": "2026-07-23 00:34:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴姆勒卡車：更新後的業績指引基於當前美墨加協定框架保持不變的假設。"
+    },
+    {
+      "id": "5002860",
+      "time": "2026-07-23 00:33:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴姆勒卡車：2026年所有其他業績指引專案保持不變。"
+    },
+    {
+      "id": "5002859",
+      "time": "2026-07-23 00:33:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴姆勒卡車：目前預計2026年銷量為34萬至37萬輛。"
+    },
+    {
+      "id": "5002858",
+      "time": "2026-07-23 00:32:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "戴姆勒卡車控股公司：受拉丁美洲與墨西哥市場疲弱影響，戴姆勒客車將2026年銷量指引下調至2萬至2.5萬輛。"
+    },
+    {
+      "id": "5002857",
+      "time": "2026-07-23 00:32:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列無人機襲擊加沙努塞拉特地區，造成至少1人死亡、數人受傷。"
+    },
+    {
+      "id": "mkt:019f8aab-6804-7aab-8e4d-da88bd112092",
+      "time": "2026-07-23 00:31:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index"
+      ],
+      "text": "【China, ASEAN foreign ministers meet in Manila; Wang pushes FTA 3.0, RCEP delivery, supply-chain and energy security】China foreign minister Wang Yi and Malaysia foreign minister Muhammad co‑chaired a China‑ASEAN foreign ministers’ meeting in Manila on the 22nd, attended by ASEAN foreign ministers and the ASEAN secretary‑general. Wang proposed four priorities with market relevance: accelerate construction of a China‑ASEAN FTA 3.0 and ensure high‑quality implementation of the RCEP; strengthen regional resilience by enhancing food and energy security and stabilizing supply chains; expand cooperation in the digital economy, AI and submarine cable infrastructure and explore alignment with the ASEAN Digital Economy Framework Agreement; and speed cooperation on climate response, clean energy, green agriculture and the blue economy."
+    },
+    {
+      "id": "mkt:019f8aaa-3b99-7aab-8e4d-d7534f9de958",
+      "time": "2026-07-23 00:30:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Chancellor Healy said the government's aim is to make household living costs more affordable."
+    },
     {
       "id": "mkt:019f8aa8-e17a-7aab-8e4d-cee68460a9e5",
       "time": "2026-07-23 00:29:11",
