@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-23 04:54:41",
-  "count": 17661,
+  "updated": "2026-07-23 04:58:36",
+  "count": 17659,
   "items": [
+    {
+      "id": "5003050",
+      "time": "2026-07-23 04:57:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗境內傳來爆炸聲。"
+    },
+    {
+      "id": "5003049",
+      "time": "2026-07-23 04:57:13",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊：季度資本開支主要用於人工智慧基礎設施建設。"
+    },
+    {
+      "id": "5003048",
+      "time": "2026-07-23 04:56:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊： 公司自第二季度起開始確認張量處理器（TPU）銷售收入。"
+    },
     {
       "id": "5003047",
       "time": "2026-07-23 04:53:30",
@@ -161248,50 +161272,6 @@
         "XAUUSD"
       ],
       "text": "【CENTCOM says US fired Hellfire at tanker bound for Kharg Island】CENTCOM said on July 15 local time US forces enforcing a maritime blockade in the Arabian Gulf disabled a commercial tanker attempting to sail to Kharg Island. The Curaçao-flagged M/T Belma, operating in international waters, ignored repeated warnings and attempted to breach the US blockade. A US aircraft fired a Hellfire missile at the ship’s funnel, rendering it unable to navigate and halting its voyage to Iran. CENTCOM said that since the blockade was resumed at 1600 ET on July 14, US forces guided two cooperating merchant vessels to change course within the first 24 hours and disabled one non‑compliant ship. US forces will remain on alert to ensure the blockade is enforced."
-    },
-    {
-      "id": "4990767",
-      "time": "2026-07-16 04:58:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗一兒童醫院附近遭美軍襲擊】據伊朗媒體報道，美軍對伊朗發動一天內第二輪襲擊後，當地時間7月15日晚至今天（7月16日）凌晨，伊朗東南部錫斯坦－俾路支斯坦省的科納拉克、南部霍爾木茲甘省的阿巴斯港等地傳出爆炸聲。據伊朗國家電視臺報道，美軍還對伊朗西南部胡齊斯坦省首府阿瓦士發動襲擊，多枚炮彈擊中當地一家兒童癌症專科醫院附近區域。該醫院目前正在進行臨時疏散，醫院方面聯絡患兒家長將患兒帶離醫院。（CCTV國際時訊）"
-    },
-    {
-      "id": "4990766",
-      "time": "2026-07-16 04:56:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：將加強對伊朗的封鎖。"
-    },
-    {
-      "id": "4990764",
-      "time": "2026-07-16 04:55:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方稱“貝爾瑪”號油輪不遵守封鎖規定。"
-    },
-    {
-      "id": "mkt:019f678f-fb31-7aab-8db0-9cdb4f2f5f1f",
-      "time": "2026-07-16 04:55:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "CENTCOM said U.S. forces on July 15 in the Arabian Gulf executed maritime blockade measures targeting Iran and halted an oil tanker bound for an Iranian port; the vessel was not carrying cargo."
-    },
-    {
-      "id": "4990763",
-      "time": "2026-07-16 04:54:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國軍方：已癱瘓懸掛庫拉索旗幟的“貝爾瑪”號油輪，該船當時正穿越國際水域駛向哈爾克島。"
     }
   ]
 }
