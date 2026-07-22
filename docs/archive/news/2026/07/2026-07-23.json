@@ -1,7 +1,92 @@
 {
   "date": "2026-07-23",
-  "count": 499,
+  "count": 507,
   "items": [
+    {
+      "id": "5003121",
+      "time": "2026-07-23 06:06:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：美光已向特斯拉分配記憶體晶片供貨額度。"
+    },
+    {
+      "id": "5003120",
+      "time": "2026-07-23 06:06:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美伊衝突已致美軍18人死亡482人受傷】當地時間7月22日獲悉，美國國防部公佈了美伊衝突中最新的傷亡資料，顯示共有18名美軍人員死亡，至少482人在行動中受傷。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8bdc-c34c-7aab-8e53-afe771535d8f",
+      "time": "2026-07-23 06:05:28",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said the US military launched a new round of strikes on Iranian military targets at 5:30 p.m. ET today. The action is intended to further degrade Iran's ability to threaten civilian mariners and commercial shipping in regional waters."
+    },
+    {
+      "id": "mkt:019f8bdc-69d7-7aab-8e53-a62287f33eb9",
+      "time": "2026-07-23 06:05:05",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said the US military launched a new round of strikes against Iran on Wednesday."
+    },
+    {
+      "id": "5003118",
+      "time": "2026-07-23 06:04:53",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍於週三對伊朗發起新一輪打擊行動。"
+    },
+    {
+      "id": "mkt:019f8bdb-653c-7aab-8e53-9adbcdbb955d",
+      "time": "2026-07-23 06:03:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) VP of AI business expects the time needed to roll out Robotaxi to additional cities will continue to shorten."
+    },
+    {
+      "id": "5003117",
+      "time": "2026-07-23 06:03:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉人工智慧副總裁表示，未來 Robotaxi 自動駕駛計程車拓展至新城市的落地週期將持續縮短。"
+    },
+    {
+      "id": "mkt:019f8bda-b951-7aab-8e53-96b9cf764528",
+      "time": "2026-07-23 06:03:14",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact mixed"
+      ],
+      "text": "Tesla (TSLA.O) CFO said the company will opportunistically raise up to $30 billion in debt financing to step up investment across various projects."
+    },
     {
       "id": "mkt:019f8bd9-3d46-7aab-8e53-8e44d8a9a7a4",
       "time": "2026-07-23 06:01:37",
