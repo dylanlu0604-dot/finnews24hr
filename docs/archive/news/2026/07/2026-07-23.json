@@ -1,7 +1,73 @@
 {
   "date": "2026-07-23",
-  "count": 10,
+  "count": 17,
   "items": [
+    {
+      "id": "mkt:019f8a97-fcda-7aab-8e4d-7de3b7132e39",
+      "time": "2026-07-23 00:10:44",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "An Alaska Airlines executive said Boeing (BA.N) MAX 10 is likely to be certified soon."
+    },
+    {
+      "id": "te:markets:568937",
+      "time": "2026-07-23 00:10:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 0.89% Higher — The CAC 40 Index went up by 75 points or 0.89 percent on Wednesday to close at 8438 points. The rise was led by Airbus (7.04%), TotalEnergies SE (3.69%) and TP (2.93%). On the downside, the weakerst performers were Pernod Ricard (-2.68%), Danone (-2.21%) and Capgemini (-1.64%)."
+    },
+    {
+      "id": "5002842",
+      "time": "2026-07-23 00:08:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普在共和黨內獲得的支援率，高於本世紀其他任何一位美國總統。"
+    },
+    {
+      "id": "mkt:019f8a95-6231-7aab-8e4d-7258d0498f85",
+      "time": "2026-07-23 00:07:53",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Washington Post reports the Trump administration is considering military action in Mali."
+    },
+    {
+      "id": "te:markets:568936",
+      "time": "2026-07-23 00:07:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 1.28% Higher — The FTSE 100 Index rose 136 points or 1.28 percent on Wednesday to close at 10722 points. Leading the gains are Endeavour (5.01%), Airtel Africa (4.12%) and Babcock International (3.61%)."
+    },
+    {
+      "id": "5002841",
+      "time": "2026-07-23 00:07:00",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "保時捷發言人表示，監事會在週三的會議上承諾支援重組措施。"
+    },
+    {
+      "id": "5002840",
+      "time": "2026-07-23 00:06:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普今日與烏克蘭總統澤連斯基通話。"
+    },
     {
       "id": "mkt:019f8a93-6823-7aab-8e4d-6bd63e4d5dd7",
       "time": "2026-07-23 00:05:43",
