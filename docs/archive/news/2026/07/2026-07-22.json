@@ -1,7 +1,75 @@
 {
   "date": "2026-07-22",
-  "count": 3045,
+  "count": 3053,
   "items": [
+    {
+      "id": "mkt:019f8a5b-eec2-7aab-8e4c-6f4bfbb07b2f",
+      "time": "2026-07-22 23:05:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Euronext September wheat futures jumped 4.5% on reports that Russia's main grain export port Novorossiysk imposed a nighttime navigation ban."
+    },
+    {
+      "id": "5002775",
+      "time": "2026-07-22 23:04:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：伊朗將透過有效管控霍爾木茲海峽，守護波斯灣地區安全，杜絕敵方利用這條水道謀利的可乘之機。"
+    },
+    {
+      "id": "5002774",
+      "time": "2026-07-22 23:04:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗最高領袖：伊朗將保障波斯灣地區安全。"
+    },
+    {
+      "id": "5002773",
+      "time": "2026-07-22 23:03:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國研發出具有“電子共振”結構的鈣鈦礦光伏電池】記者7月22日從蘇州大學獲悉，該校李耀文、陳先凱與東南大學張天愷等3名學者合作，提出“電子共振”策略，以解決柔性鈣鈦礦光伏電池效率不高、穩定性弱等難題。相關成果22日由國際學術期刊《自然》線上發表。（新華社）"
+    },
+    {
+      "id": "te:markets:568925",
+      "time": "2026-07-22 23:03:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Lithium Drops to 5-Month Low — Lithium carbonate prices fell below CNY 145,000 in July, their lowest in five months, as obstacles to consumption combined with higher global supply. China said it would end tax exemptions for lithium-ion batteries to rein in a race to the bottom between manufacturers. Industry reports in China indicated that competition between EV battery producers to retain market share drove companies to increase their production schedules, leading to higher lithium sourcing before the announcement. In turn, CATL's Jianxiawo mine, among the largest in the world, cleared security permits to restore activity following its prolonged suspension. On top of that, higher lithium prices since the start of the year drove Australian miners to restore operations. Mineral Resources will restart its Bald Hill lithium mine following an 18-month suspension, while Core Lithium restarted its Finniss project, making up for shortages elsewhere."
+    },
+    {
+      "id": "mkt:019f8a59-db10-7aab-8e4c-671cc0559b36",
+      "time": "2026-07-22 23:02:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A letter shows the UK Conservative Party has urged HM Revenue & Customs (HMRC) to investigate a £5m 'gift' to Reform UK leader Nigel Farage."
+    },
+    {
+      "id": "mkt:019f8a58-84ad-7aab-8e4c-5ca696fdd54a",
+      "time": "2026-07-22 23:01:24",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "By the 23:00 close, China's main futures contracts were mixed with more advances than declines: soybean meal, rapeseed meal, fuel oil, palm oil, low-sulfur fuel oil (LU), p-xylene and soybean No.2 rose over 1%; soda ash was up nearly 1%. On the downside, synthetic rubber and ethylene glycol (EG) fell more than 1%, while styrene (EB) was down almost 1%."
+    },
+    {
+      "id": "5002772",
+      "time": "2026-07-22 23:01:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國保守黨已致函英國稅務海關總署，  保守黨人士敦促英國稅務部門調查法拉奇一筆 500 萬英鎊的 “贈與款項”。"
+    },
     {
       "id": "5002771",
       "time": "2026-07-22 23:00:25",
