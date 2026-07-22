@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-23 02:36:53",
-  "count": 17668,
+  "updated": "2026-07-23 02:40:51",
+  "count": 17665,
   "items": [
+    {
+      "id": "5002946",
+      "time": "2026-07-23 02:39:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西將提供185億雷亞爾信貸額度，以支援受美國關稅衝擊的企業。"
+    },
+    {
+      "id": "5002945",
+      "time": "2026-07-23 02:37:56",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【美銀客戶資料：散戶上週買入美股規模創逾一年來最高】根據美銀客戶資料，上週，散戶投資者單週買入力度創2025年5月以來最高，推升美股整體買入規模。策略師Jill Carey Hall在報告中寫道，該行客戶連續第三週淨買入，不過資金流入規模“溫和”，流入ETF的資金僅略微抵消流出個股的資金。上週，小盤股上週獲得資金明顯流入，而標普500指數11個板塊中有7個板塊遭客戶賣出，其中以科技和通訊服務板塊為首。另一方面，非必需消費品板塊錄得最大資金流入；因大型銀行業績好於預期，客戶也買入了金融股。企業股票回購也有所回升，但若按市值標準化計算，仍低於財報季首周的平均水平。之前一週，美銀資料曾顯示，在一系列財報釋出前，金融股錄得逾十年來最大資金流入。"
+    },
+    {
+      "id": "5002944",
+      "time": "2026-07-23 02:37:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭外交部長：過去數日，已有至少三艘民用貨船遭俄軍轟炸，數十名船員傷亡。眼下正值糧食收割旺季，今日無任何船隻經由烏克蘭黑海海上走廊通行。"
+    },
+    {
+      "id": "5002943",
+      "time": "2026-07-23 02:36:12",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【哈馬斯新領導人：首要任務是停止以軍加沙行動】巴勒斯坦伊斯蘭抵抗運動（哈馬斯）新任政治局主席哈利勒·哈亞22日發表就任後首次影片講話，強調哈馬斯當前首要任務是全面停止以色列對加沙地帶的軍事行動。哈亞說，這一任務包括徹底停止侵略和殺戮、實現以色列全面撤出加沙地帶，同時恢復加沙地帶接收人道主義援助的能力並加快其重建程序。"
+    },
     {
       "id": "mkt:019f8b1c-522c-7aab-8e4f-d5fc96f2a71a",
       "time": "2026-07-23 02:35:16",
@@ -161192,74 +161226,6 @@
         "MKT News"
       ],
       "text": "【Explosion Heard Near U.S. Consulate in Erbil; Three Drones Shot Down, No Casualties Reported】Iraqi media reported on the 15th that an explosion was heard near the U.S. consulate in Erbil and three drones were shot down; there were no reports of casualties or property damage."
-    },
-    {
-      "id": "mkt:019f6714-901e-7aab-8dae-e7c311ca4431",
-      "time": "2026-07-16 02:40:28",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot platinum rose 3%."
-    },
-    {
-      "id": "mkt:019f6714-8d99-7aab-8dae-dee49e0f52ee",
-      "time": "2026-07-16 02:40:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US media: Pentagon evaluated airstrike option against Cuba】CBS reported the Pentagon recently reviewed military plans targeting Cuba, including a large-scale air assault option involving the 101st Airborne Division. Insiders said review does not mean the Trump administration has decided to act. Heavy US deployments in the Middle East make action against Cuba less feasible. The US says it still prefers diplomatic and economic pressure to press for reforms in Cuba. The Pentagon declined to comment on hypothetical military operations."
-    },
-    {
-      "id": "mkt:019f6713-04c0-7aab-8dae-d547ed6f30f9",
-      "time": "2026-07-16 02:38:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Guterres deeply concerned by Middle East military escalation, urges immediate de‑escalation】At a July 15 noon briefing at UN headquarters in New York, UN spokesman Stéphane Dujarric said Secretary‑General António Guterres is deeply concerned about ongoing military escalation in the Middle East and urged all parties to take immediate steps to de‑escalate and return to dialogue and diplomacy. Guterres warned that a resumption of full hostilities would inflict unbearable civilian casualties and have catastrophic consequences for international peace, security and the global economy. He also called for full restoration of international navigation rights and freedoms in the Strait of Hormuz and adjacent waters and urged parties to respect navigation rights under international law."
-    },
-    {
-      "id": "4990593",
-      "time": "2026-07-16 02:38:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國務卿魯比奧會見哥倫比亞當選副總統。"
-    },
-    {
-      "id": "mkt:019f6711-f6e0-7aab-8dae-cbe79c94552f",
-      "time": "2026-07-16 02:37:38",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MSFT.O"
-      ],
-      "text": "The Information reports Microsoft (MSFT.O)'s new security chief Haiyet Garrot has replaced at least eight executives who previously reported to former security head Charlie Bell, part of a push to overhaul the company's security structure and support its AI transition."
-    },
-    {
-      "id": "4990592",
-      "time": "2026-07-16 02:37:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國官員：古巴相關規劃並不意味著已經作出決定。"
-    },
-    {
-      "id": "4990591",
-      "time": "2026-07-16 02:37:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【古特雷斯對中東軍事升級深表關切 呼籲各方立即降級局勢】當地時間7月15日，聯合國秘書長發言人迪雅裡克在紐約聯合國總部舉行的午間例行記者會上表示，聯合國秘書長古特雷斯對中東地區持續升級的軍事局勢深感關切，呼籲所有各方立即採取措施推動局勢降級，重返對話和外交解決的軌道。古特雷斯重申，全面敵對行動一旦恢復，將給平民造成難以承受的傷亡，並對國際和平與安全以及全球經濟帶來災難性後果。古特雷斯再次呼籲，全面恢復霍爾木茲海峽及其周邊海域的國際航行權利和自由。各方必須依照國際法，尊重有關航行權利和自由。（央視新聞）"
     }
   ]
 }
