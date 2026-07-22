@@ -1,7 +1,227 @@
 {
   "date": "2026-07-22",
-  "count": 839,
+  "count": 864,
   "items": [
+    {
+      "id": "5001249",
+      "time": "2026-07-22 10:05:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "三菱電機將持有合資企業60%的股份，索尼半導體將持有40%的股份。"
+    },
+    {
+      "id": "mkt:019f8791-d1be-7aab-8e37-bda5880854c5",
+      "time": "2026-07-22 10:05:08",
+      "tags": [
+        "MKT News",
+        "00175.HK",
+        "Impact bearish",
+        "09863.HK",
+        "02015.HK"
+      ],
+      "text": "Hong Kong-listed new-energy vehicle shares fell: Geely Automobile (00175.HK) down nearly 4%; Leapmotor (09863.HK), Chery (09973.HK), Xiaomi Group (01810.HK) and NIO-SW (09866.HK) down more than 2%; Li Auto (02015.HK) and Great Wall Motor (02333.HK) each off over 1%."
+    },
+    {
+      "id": "5001248",
+      "time": "2026-07-22 10:05:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "【化學制藥板塊走高 海南海藥漲停】化學制藥板塊走高，海南海藥、羅欣藥業、哈三聯漲停，博瑞醫藥漲超10%，益方生物、前沿生物、悅康藥業、海思科、亨迪藥業等跟漲。"
+    },
+    {
+      "id": "5001247",
+      "time": "2026-07-22 10:04:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "三項社會保險基金累計結餘11.07萬億元 。（新華社）"
+    },
+    {
+      "id": "5001246",
+      "time": "2026-07-22 10:04:23",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行：準備採取適當措施，確保通脹穩定在5%目標附近。"
+    },
+    {
+      "id": "5001245",
+      "time": "2026-07-22 10:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "三菱電機與索尼將組建合資企業開發人工智慧視覺感測器。"
+    },
+    {
+      "id": "5001244",
+      "time": "2026-07-22 10:03:58",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時放量834億元。"
+    },
+    {
+      "id": "5001243",
+      "time": "2026-07-22 10:03:44",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行：斯里蘭卡盧比近幾周有所企穩，反映出政策措施的影響。"
+    },
+    {
+      "id": "mkt:019f8790-53bf-7aab-8e37-b0a39d1cb826",
+      "time": "2026-07-22 10:03:30",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share CPO sector extended gains; Ruijie Network surged over 17% and Star-net Ruijie climbed about 8%. Multiple names, including Hongban Technology and Tongfu Microelectronics, hit daily trading limits; Guangxun Technology, Ruisikangda, Xiechuang Data and Zhongfu Circuit also advanced."
+    },
+    {
+      "id": "5001242",
+      "time": "2026-07-22 10:03:29",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行：預計此前實施的貨幣政策緊縮將在未來一段時間內傳導至經濟領域。"
+    },
+    {
+      "id": "mkt:019f8790-3fa3-7aab-8e37-aadaf748dfa6",
+      "time": "2026-07-22 10:03:25",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Central Bank of Sri Lanka says core inflation is expected to rise and remain close to the overall inflation target."
+    },
+    {
+      "id": "5001241",
+      "time": "2026-07-22 10:03:18",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行：受外債償付影響，截至2026年6月末官方總儲備為64.5億美元。"
+    },
+    {
+      "id": "5001240",
+      "time": "2026-07-22 10:03:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "索尼集團與三菱電機將成立合資企業。"
+    },
+    {
+      "id": "mkt:019f8790-0ba8-7aab-8e37-a39dca69162d",
+      "time": "2026-07-22 10:03:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sri Lanka's central bank expects headline inf to remain above the 5% target in the near term."
+    },
+    {
+      "id": "mkt:019f878f-dd2a-7aab-8e37-9b56aae621c5",
+      "time": "2026-07-22 10:03:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sri Lanka central bank: inflation accelerated to 6.8% in June 2026."
+    },
+    {
+      "id": "5001239",
+      "time": "2026-07-22 10:02:54",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "斯里蘭卡央行：中東衝突引發的對外部門壓力已有所緩解，但前景仍存在不確定性。"
+    },
+    {
+      "id": "5001238",
+      "time": "2026-07-22 10:02:28",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行：中期內通脹預期仍穩固錨定在通脹目標附近。"
+    },
+    {
+      "id": "5001237",
+      "time": "2026-07-22 10:02:19",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行：核心通脹預計也將上升，並保持在總體通脹目標附近。"
+    },
+    {
+      "id": "mkt:019f878f-12b5-7aab-8e37-90a510a87c08",
+      "time": "2026-07-22 10:02:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sri Lanka's central bank set its overnight policy rate at 8.75%."
+    },
+    {
+      "id": "5001236",
+      "time": "2026-07-22 10:01:58",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "斯里蘭卡央行：預計短期內總體通脹率將保持在5%的目標之上。"
+    },
+    {
+      "id": "mkt:019f878e-c41c-7aab-8e37-8e32fcfe697b",
+      "time": "2026-07-22 10:01:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "SZSE Component",
+        "Impact bullish",
+        "CSI300",
+        "SSE Composite"
+      ],
+      "text": "A-share commercial space sector rallied after media reported the Yinli-1 carrier rocket is expected to launch at sea on July 22. Aerospace Development jumped more than 6%; Wantong Development, Chengchang Technology, Xingsen Technology, China Satellite, Fushida, Guangku Technology and Huati Technology also rose."
+    },
+    {
+      "id": "5001235",
+      "time": "2026-07-22 10:01:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "大盤主力淨流入超100億。"
+    },
+    {
+      "id": "te:markets:568680",
+      "time": "2026-07-22 10:01:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "China Stocks Mixed as Diplomacy Hopes Fade — The Shanghai Composite fell 0.6% to 3,840 on Wednesday, while the Shenzhen Component rose 0.4% to 14,323, reflecting a mixed market mood as hopes for renewed US-Iran diplomatic engagement faded. While US forces carried out an 11th consecutive day of strikes against Iran to curb threats to shipping through the Strait of Hormuz, President Donald Trump said Tehran desperately wants to meet but that Washington had no interest in talks, a claim Iran swiftly rejected. Adding to the cautious mood, Chinese technology stocks resumed their decline after a strong rebound in the previous session, despite fresh measures by authorities to stabilize the sector. These included record inflows into the ChinaAMC STAR 50 ETF and increased equity investments by China Life, PICC, and Ping An. Among the biggest drags were Cambricon Technologies (-2.2%), Zhongji Innolight (-2.3%), and Eoptolink Technology (-2.1%). In contrast, energy stocks outperformed, with PetroChina gaining 1.0% and CNOOC climbing 2.4%."
+    },
+    {
+      "id": "5001234",
+      "time": "2026-07-22 10:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "斯里蘭卡隔夜政策利率維持在8.75%不變。"
+    },
     {
       "id": "5001233",
       "time": "2026-07-22 10:01:08",
@@ -18,6 +238,15 @@
         "Important"
       ],
       "text": "China's Ministry of Human Resources and Social Security said employment was broadly stable in 1H, with 6.95 mln new urban jobs nationwide."
+    },
+    {
+      "id": "em:jjsj_zgsj:202607223816784968",
+      "time": "2026-07-22 10:00:57",
+      "tags": [
+        "經濟數據",
+        "中國"
+      ],
+      "text": "【人力資源社會保障部：今年上半年就業形勢保持總體平穩】今天（22日）上午，人力資源社會保障部舉行新聞釋出會。今年上半年，全國城鎮新增就業695萬人，同比持平，城鎮調查失業率平均值為5.2%，就業形勢保持總體平穩。1-6月，發放失業保險穩崗返還資金36億元、一次性擴崗補助9億元、技能提升補貼12億元。"
     },
     {
       "id": "5001232",
