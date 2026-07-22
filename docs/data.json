@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-22 10:25:28",
-  "count": 18013,
+  "updated": "2026-07-22 10:29:27",
+  "count": 18011,
   "items": [
+    {
+      "id": "mkt:019f87a7-949b-7aab-8e38-265e77e60b4e",
+      "time": "2026-07-22 10:28:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "China A-share liquid-cooled server sector oscillated higher; Tongfei Co. jumped more than 10%, with Yingweike, Feilong Co., Shenglan Co., Dayuan Pump and Jialitu also advancing."
+    },
+    {
+      "id": "5001288",
+      "time": "2026-07-22 10:28:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【滔搏回應耐克線上渠道調整：將共同促進耐克品牌的長期、健康及可持續發展】7月22日，滔搏確認，其在中國內地的耐克產品線上平臺銷售將於2027年1月1日起全面終止。滔搏是耐克在中國最大的經銷商，雙方合作已逾27年。滔搏表示，中長期看，這有助於耐克進一步提升消費者體驗、增強產品吸引力，並推動市場生態更加健康、有序和可持續發展。未來將繼續秉持互利雙贏的原則，與耐克保持緊密合作，充分發揮其線上下零售運營、本地消費者服務等優勢，透過新概念運動門店和高質量零售場景，為中國消費者帶來更專業、更豐富的運動體驗。"
+    },
+    {
+      "id": "5001287",
+      "time": "2026-07-22 10:27:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷伺服器概念震盪走強 同飛股份漲超10%】液冷伺服器概念震盪走強，同飛股份漲超10%，英維克、飛龍股份、勝藍股份、大元泵業、佳力圖跟漲。"
+    },
+    {
+      "id": "5001286",
+      "time": "2026-07-22 10:27:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾議院透過短期撥款法案】當地時間7月21日晚，由共和黨掌控的美國國會眾議院透過一項短期撥款措施，為聯邦機構提供運轉資金至12月4日，以避免在11月中期選舉前出現政府“停擺”。若國會屆時未採取行動，大部分聯邦機構的專案資金將在當前財年結束的9月30日午夜到期。 該議案現已提交參議院。據悉，參議院共和黨領袖正與民主黨磋商，醞釀推出參議院版本的短期撥款法案。 （CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f87a5-d008-7aab-8e38-1c93b3ff06a3",
+      "time": "2026-07-22 10:26:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【140 million Chinese shopped globally via cross-border e-commerce in 1H】In 1H, cross-border e-commerce exports via overseas warehouses rose 3.3x and about 140 million Chinese consumers bought goods internationally through cross-border e-commerce. CUSTOMS says China’s cross-border e-commerce import‑export value reached 2.84 trillion yuan in 2025, up 4.8% YoY, with market procurement exports exceeding 800 billion yuan."
+    },
+    {
+      "id": "5001285",
+      "time": "2026-07-22 10:26:10",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【今年上半年我國1.4億人透過跨境電商全球購物】在國新辦7月22日舉行的釋出會上，海關總署署長孫梅君介紹，今年上半年，跨境電商出口海外倉增長3.3倍，我國已有1.4億人透過跨境電商全球購物，新業態新模式蓬勃發展。（新華社）"
+    },
+    {
+      "id": "te:markets:568693",
+      "time": "2026-07-22 10:25:51",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Dollar Holds Firm on Middle East Risks — The dollar index held above 101 on Wednesday after advancing for a fourth straight session, supported by higher Treasury yields and rising oil prices as the US carried out strikes on Iranian targets for an 11th consecutive night. President Donald Trump also downplayed the likelihood of near-term talks with Tehran, while Iran-backed Houthi rebels in Yemen disrupted shipping through the Red Sea. Meanwhile, a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. On the economic front, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September."
+    },
+    {
+      "id": "mkt:019f87a4-b103-7aab-8e38-156ff84c61d8",
+      "time": "2026-07-22 10:25:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "02259.HK",
+        "Impact bullish",
+        "02899.HK",
+        "01787.HK"
+      ],
+      "text": "Hong Kong-listed gold miners surged: Zijin Gold International (02259.HK), Chifeng Gold (06693.HK) and Lingbao Gold (03330.HK) rose over 14%; Tongguan Gold (00340.HK), Zijin Mining (02899.HK) and Shandong Gold (01787.HK) gained more than 7%; Zhaojin Mining (01818.HK) and Jihai Gold (02489.HK) advanced over 5%."
+    },
+    {
+      "id": "5001284",
+      "time": "2026-07-22 10:25:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海關總署：2025年榴蓮進口186.8萬噸 較2022年翻番】7月22日，海關總署副署長王軍在國新辦新聞釋出會上表示，從“車釐子自由”到“榴蓮自由”，越來越多全球好物“飛入尋常百姓家”。以榴蓮為例，2022年以來，先後完成了越南、馬來西亞、寮國等五國榴蓮輸華准入，進口來源持續拓寬。去年榴蓮進口達到186.8萬噸，數量較2022年翻了一番。王軍指出，目前我國已經成為全球160多個國家和地區的主要貿易伙伴，進口商品來源更廣、品類更多、結構更優，大洋洲的牛奶、非洲的咖啡、歐洲的冰鮮三文魚漂洋過海進入中國老百姓的購物車。“十五五”時期，海關總署將從最佳化准入、監管、服務三個方面，擴大進口。"
+    },
+    {
+      "id": "5001283",
+      "time": "2026-07-22 10:25:14",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國臺辦：民進黨當局迎合外部勢力掏空臺灣優勢產業是不折不扣的害臺、禍臺】國務院臺辦舉行例行新聞釋出會。有記者問：近日，臺灣地區行政機構負責人卓榮泰在出席“亞洲臺灣商會聯合總會”活動時稱，臺灣已修正過去對“中國單一市場”的依賴，移轉到歐美及南向國家；對於臺商在全世界投資也組成了協助平臺。請問對此有何評論?發言人張晗表示，加強兩岸經貿合作，深化兩岸融合發展，符合兩岸同胞企業的共同利益，也是經濟規律和市場原則共同作用的結果。兩岸交流合作、互利互贏是任何人都阻擋不了的。民進黨當局為“倚外謀獨”、無恥賣臺、獻媚輸誠，迎合外部勢力掏空臺灣優勢產業，是不折不扣的害臺、禍臺行為。"
+    },
     {
       "id": "5001282",
       "time": "2026-07-22 10:24:32",
@@ -165350,104 +165449,6 @@
         "宏觀"
       ],
       "text": "【民進黨政客妄稱“大陸改變臺海現狀” 國臺辦回應】國務院臺辦舉行例行新聞釋出會。針對有民進黨政客所謂“大陸改變臺海現狀”的言論，發言人朱鳳蓮表示，民進黨政客的說法完全是歪曲事實，純屬惡意炒作。世界上只有一箇中國，臺灣是中國的一部分，這是真正的臺海現狀。民進黨當局以新的“兩國論”來界定所謂的臺海現狀，完全違背了法理、歷史和現實，是不折不扣的“臺獨”分裂謬論。其頑固堅持“臺獨”立場，拒不承認體現一箇中國原則的“九二共識”，不斷勾連外部勢力進行謀“獨”挑釁，是臺海現狀的破壞者，是臺海和平穩定的最大亂源。“臺獨”與臺海和平水火不容，只有堅決打擊“臺獨”分裂勢力，反對外部勢力干涉，才能遏阻“臺獨”冒險，才能真正維護臺海和平穩定，才能夠捍衛國家主權和領土完整，才能維護兩岸同胞的共同利益和中華民族的根本利益。"
-    },
-    {
-      "id": "4988925",
-      "time": "2026-07-15 10:29:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【CPO概念震盪回升 東山精密總市值突破5000億】CPO概念震盪回升，東山精密漲超6%，創歷史新高，總市值突破5000億，劍橋科技、源傑科技、羅博特科、長芯博創跟漲。"
-    },
-    {
-      "id": "4988924",
-      "time": "2026-07-15 10:28:57",
-      "tags": [
-        "公司"
-      ],
-      "text": "【攜程與Seat Unique Group達成全球合作，F1、英超等將登陸攜程平臺】7月14日，攜程集團與體育文娛高階體驗平臺Seat Unique Group宣佈達成全球合作。未來，F1、英超、大型音樂巡演等世界級現場活動的官方權益與VIP套餐，將陸續登陸攜程平臺。"
-    },
-    {
-      "id": "4988923",
-      "time": "2026-07-15 10:28:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "【國家統計局：上半年中國經濟增量是近五年來同期最大增量】7月15日，國家統計局副局長毛盛勇在國新辦新聞釋出會上表示，今年上半年，國內生產總值按不變價計算，同比增長4.7%，增速符合全年預期的增長目標。從增量看，上半年經濟增量為3.6萬億元，是最近五年同期最大的增長。對於中國這樣一個超大規模經濟體來說，經濟實現4.7%的同比增長，還是很不錯的。毛盛勇強調，儘管二季度增速有所回落，但經濟穩定執行，向新向優的基本面沒有變化。特別是二季度以來，世界經濟出現一些新變化，國際機構調低了多數主要經濟體的全年經濟增速預期，但是調高了中國全年經濟增長預期，表明國際機構看好中國經濟。"
-    },
-    {
-      "id": "4988922",
-      "time": "2026-07-15 10:28:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國泰海通證券與華為落地金融行業首個AI液冷超節點】國泰海通證券聯合華為打造的金融行業首個自主創新AI液冷超節點正式上線，搭載規模化昇騰NPU算力單元，依託靈衢高速互聯技術，實現超百張算力卡一體化協同排程，並採用機櫃級冷板式液冷一體化方案，相比傳統風冷散熱效率提升40%以上。"
-    },
-    {
-      "id": "4988921",
-      "time": "2026-07-15 10:28:31",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本社交通訊平臺Line計劃增加AI代理功能。"
-    },
-    {
-      "id": "4988920",
-      "time": "2026-07-15 10:27:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【深圳企業綠電綠證交易總量突破500億千瓦時】據深圳市綠電綠證服務中心14日釋出的最新資料，從2023年11月至2026年5月，該中心累計服務深圳市本地企業綠電綠證交易規模達503.03億千瓦時。（深圳釋出）"
-    },
-    {
-      "id": "4988919",
-      "time": "2026-07-15 10:27:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "【四川多地降大到暴雨 提前轉移避險14303人】從四川省自然資源廳獲悉，7月14日8時—7月15日8時，四川成都、綿陽等地降大到暴雨，個別地方大暴雨，引發樂山市3處地質災害。四川省共提前轉移避險14303人，其中，綿陽有5517人、涼山有4027人、雅安有3328人。"
-    },
-    {
-      "id": "4988918",
-      "time": "2026-07-15 10:27:19",
-      "tags": [],
-      "text": "【韓國將設立戰略投資賬戶，投資戰略產業】韓國已擱置一項設立獨立主權財富基金的計劃，該計劃原擬效仿新加坡淡馬錫控股和澳大利亞未來基金的模式。取而代之的是，韓國將在韓國投資公社（KIC）內部設立一個戰略投資賬戶。韓國財政部表示，該賬戶將投資於國內外對國家競爭力和經濟安全至關重要的領域。投資目標將涵蓋核能和航空航天等戰略產業、金融和基礎設施等核心領域，以及海外供應鏈。"
-    },
-    {
-      "id": "4988917",
-      "time": "2026-07-15 10:27:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智譜在杭州成立詞元應用研究院公司】企查查APP顯示，近日，杭州智譜詞元應用研究院有限公司成立，註冊資本為2000萬元，經營範圍包含：人工智慧基礎軟體開發；人工智慧應用軟體開發；軟體開發；資料處理和儲存支援服務等。企查查股權穿透顯示，該公司由智譜間接全資持股。"
-    },
-    {
-      "id": "4988916",
-      "time": "2026-07-15 10:27:01",
-      "tags": [
-        "市場"
-      ],
-      "text": "【東山精密股價創歷史新高】東山精密盤中股價創歷史新高，現漲6.58%，報277.50元，總市值為5030.14億元。"
-    },
-    {
-      "id": "te:markets:567002",
-      "time": "2026-07-15 10:26:22",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "China Stocks Mixed on Signs of Uneven Growth — The Shanghai Composite rose 0.2% to 3,974 on Wednesday, while the Shenzhen Component slipped 0.3% to 14,891, as investors weighed signs of an uneven economic recovery in China. GDP growth slowed to 4.3% year-on-year in the second quarter from 5.0% in Q1, missing market expectations of 4.5%. It marked the weakest expansion since Q4 2022 and below the government's 2026 target range of 4.5%–5.0%. Moreover, fixed-asset investment dropped 5.7% year-on-year in the first half, worse than the expected 4.9% decline and the 4.1% fall recorded in the January–May period. On a positive note, industrial production accelerated to a three-month high of 5.3% in June, while retail sales unexpectedly rebounded to 1%. In addition, the urban unemployment rate fell to a one-year low of 5.0%. Financial stocks underperformed, led by Industrial and Commercial Bank of China (-0.9%), Agricultural Bank of China (-1.3%), and China Construction Bank (-1.9%)."
-    },
-    {
-      "id": "4988915",
-      "time": "2026-07-15 10:26:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣東省商務廳：共有7018家企業報名參與消費品以舊換新活動】廣東省商務廳黨組成員、副廳長雙德會表示截至7月11日，6類新品納入以舊換新後，超5萬件商品享受補貼，累計實現銷售額超1.7億元。雙德會介紹，2025年，廣東消費品以舊換新核銷資金318.8億元，參與企業3.4萬家，惠及消費者6061.1萬人次，較2024年提升了108%，拉動消費品銷售2631.8億元。今年，廣東省商務廳全面落實國家部署，加大消費品以舊換新的力度和規模。截至7月11日，廣東家電銷售780.8萬件，數碼和智慧產品銷售1006.3萬件，地方自主品類的補貼產品銷售9.6萬件，實現銷售額1146億元，惠及消費者1828萬人次。（上證報）"
     }
   ]
 }
