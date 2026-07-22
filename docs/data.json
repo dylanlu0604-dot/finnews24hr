@@ -1,7 +1,63 @@
 {
-  "updated": "2026-07-23 03:40:29",
-  "count": 17655,
+  "updated": "2026-07-23 03:44:27",
+  "count": 17653,
   "items": [
+    {
+      "id": "5002991",
+      "time": "2026-07-23 03:43:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們不需要霍爾木茲海峽。"
+    },
+    {
+      "id": "5002990",
+      "time": "2026-07-23 03:43:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普重申石油企業將進駐委內瑞拉。"
+    },
+    {
+      "id": "5002989",
+      "time": "2026-07-23 03:43:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "SpaceX 股價下跌 6.2%，報 115.8 美元，接近盤中低點。"
+    },
+    {
+      "id": "5002988",
+      "time": "2026-07-23 03:42:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：委內瑞拉正與美國合作開採石油。"
+    },
+    {
+      "id": "mkt:019f8b5a-4405-7aab-8e50-e216ca481a68",
+      "time": "2026-07-23 03:42:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Senator Sanders said Americans believe the U.S. should not provide further military support to the Netanyahu government and that Congress must vote against the defense spending bill because it would further deepen U.S.–Israeli military cooperation."
+    },
+    {
+      "id": "mkt:019f8b58-a9b5-7aab-8e50-df6e4a7d21dd",
+      "time": "2026-07-23 03:41:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian diplomat Lirio said the government is assessing restarting procedures at the World Trade Organization."
+    },
+    {
+      "id": "5002987",
+      "time": "2026-07-23 03:40:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美威脅襲伊基礎設施 伊朗軍方：將不允許本地區出口一滴石油】伊朗武裝部隊哈塔姆安比亞中央總部當地時間22日釋出宣告稱，美方再次威脅要打擊伊朗的國家基礎設施。繼昨晚發出警告後，現再次宣佈，霍爾木茲海峽仍處於關閉狀態。若有船隻確需透過該海峽，必須按照此前公佈的指定航線和程式通行。宣告說，如果美國將其威脅付諸行動，伊朗武裝力量將不允許本地區出口一滴石油，地區內的石油、天然氣、電力及經濟基礎設施都將成為打擊目標。宣告表示，美國反覆發出威脅，只會導致戰爭在本地區進一步擴大，甚至蔓延至地區之外。（央視新聞）"
+    },
     {
       "id": "mkt:019f8b57-7ebd-7aab-8e50-d45129c684b5",
       "time": "2026-07-23 03:39:54",
@@ -161052,87 +161108,6 @@
         "GD.N"
       ],
       "text": "President Trump praised the CEOs of JP Morgan (JPM.N), Boeing (BA.N) and General Dynamics."
-    },
-    {
-      "id": "4990674",
-      "time": "2026-07-16 03:43:15",
-      "tags": [
-        "公司",
-        "焦點",
-        "國際"
-      ],
-      "text": "特朗普：我算得上波音史上最厲害的推銷員，要是我身在私企，肯定要索要公司股份。"
-    },
-    {
-      "id": "mkt:019f674d-54f7-7aab-8daf-d64de65db609",
-      "time": "2026-07-16 03:42:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bahrain's Interior Ministry said air-raid sirens sounded across the country."
-    },
-    {
-      "id": "4990671",
-      "time": "2026-07-16 03:42:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴林內政部：巴林響起警報。"
-    },
-    {
-      "id": "4990670",
-      "time": "2026-07-16 03:41:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "摩洛哥將加入加沙穩定部隊。"
-    },
-    {
-      "id": "4990669",
-      "time": "2026-07-16 03:41:26",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普稱讚波音公司執行長。"
-    },
-    {
-      "id": "4990668",
-      "time": "2026-07-16 03:41:19",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "特朗普稱讚摩根大通CEO傑米·戴蒙。"
-    },
-    {
-      "id": "mkt:019f674c-13ab-7aab-8daf-cd809733d4cb",
-      "time": "2026-07-16 03:41:06",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "US President Trump said on defense that the U.S. needs to spend more on defense production."
-    },
-    {
-      "id": "4990667",
-      "time": "2026-07-16 03:40:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談國防：我們需要在國防生產上再多投入一點資金。"
-    },
-    {
-      "id": "4990666",
-      "time": "2026-07-16 03:40:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：美伊局勢目前進展向好，伊朗極度希望達成和解；後續將見分曉，要麼握手言和，要麼徹底了結衝突。"
     }
   ]
 }
