@@ -1,7 +1,95 @@
 {
   "date": "2026-07-22",
-  "count": 2755,
+  "count": 2765,
   "items": [
+    {
+      "id": "5002580",
+      "time": "2026-07-22 21:20:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行執行長：在擴充投行（IB）人員配置方面將保持高度審慎。"
+    },
+    {
+      "id": "5002579",
+      "time": "2026-07-22 21:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國駐菲律賓大使就菲方在仁愛礁蓄意挑釁表明中方嚴正立場】7月21日，駐菲律賓大使井泉接受菲15家主流媒體採訪。井大使表示，菲方7月20日在仁愛礁“坐灘”軍艦附近佈設阻攔網並對艦體開展焊接作業，企圖維修加固非法“坐灘”軍艦。這違背了中菲有關仁愛礁臨時安排精神，中方開展巡查取證合理合法。菲方大肆散佈不實資訊片面炒作，純屬顛倒黑白，倒打一耙。中方完全不接受菲方的無理指責。井大使表示，現場情況有照片、有影片，證據清楚，誰在挑釁，一目瞭然。菲方惡意抵近、主動攻擊中方小艇和人員，中方人員採取必要措施自衛。這就是事情全貌。中方要求菲方加大約束和規制軍警部門，避免干擾雙方外交努力，阻礙兩國關係發展。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019f89fb-9abd-7aab-8e48-e8c604992708",
+      "time": "2026-07-22 21:19:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【US media: SpaceXAI exploring data center expansion in Texas】The Information reports three people familiar with the matter say Musk-owned AI firm SpaceXAI is advancing plans to build at least one large new data center in Texas. If realised, the project would substantially expand SpaceXAI's compute capacity beyond its existing data center hub in Memphis, Tennessee."
+    },
+    {
+      "id": "5002578",
+      "time": "2026-07-22 21:19:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星詳解新款智慧眼鏡各項功能，正式進軍由 Meta 主導的市場。"
+    },
+    {
+      "id": "5002577",
+      "time": "2026-07-22 21:18:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "富國銀行執行長：正大力推進銀行內部增效工作。"
+    },
+    {
+      "id": "5002576",
+      "time": "2026-07-22 21:18:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：三星推出一款主打娛樂功能的全新摺疊手機，迎戰蘋果即將釋出的新品。"
+    },
+    {
+      "id": "mkt:019f89fa-445d-7aab-8e48-e2151f7e68cc",
+      "time": "2026-07-22 21:18:27",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "DXY"
+      ],
+      "text": "【Mitsubishi UFJ: dollar shows no clear impact yet from renewed US trade uncertainty】Mitsubishi UFJ Financial Group analyst Derek Halpenny said in a note the dollar is likely to remain largely unaffected in the near term by the latest US trade uncertainty. He expects President Trump's new tariff plan to largely replicate Section 122 tariffs due to expire on Friday, so FX impact should be limited. Halpenny added USD is being supported by markets pricing further Fed hikes and heightened Middle East risk, but warned that if trade uncertainty intensifies and investors grow more concerned about unpredictable policy and damage to the US economy, dollar selling could resume."
+    },
+    {
+      "id": "5002575",
+      "time": "2026-07-22 21:18:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際貨幣基金組織的協議將促成與其他多邊貸款機構達成協議，玻利維亞有望獲得超50億美元資金。"
+    },
+    {
+      "id": "5002574",
+      "time": "2026-07-22 21:17:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "法國巴黎銀行將通用汽車目標股價從101美元上調至102美元。"
+    },
+    {
+      "id": "5002573",
+      "time": "2026-07-22 21:17:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "Flynas航空（沙特低成本航空）敲定增購空客 A330-900 與 A321NEO 客機。"
+    },
     {
       "id": "5002572",
       "time": "2026-07-22 21:16:14",
