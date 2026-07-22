@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-23 01:58:15",
-  "count": 17671,
+  "updated": "2026-07-23 02:02:17",
+  "count": 17665,
   "items": [
+    {
+      "id": "5002917",
+      "time": "2026-07-23 02:00:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易高官淡化加拿大關稅帶來的負面影響，稱“這只是商業往來”。"
+    },
+    {
+      "id": "mkt:019f8afb-7f28-7aab-8e4f-485adef5ec5c",
+      "time": "2026-07-23 01:59:25",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Source: US strike on Iranian nuclear sites would escalate conflict】Sputnik, citing an Iranian military source, warned a US attack on Iranian nuclear facilities would be a dangerous escalation and push regional confrontation to a new level. US media reported Israel handed intelligence to Washington alleging Iran moved thousands of centrifuges into an underground complex beneath a mountain and is urging Trump to resume large-scale strikes on Tehran’s nuclear sites."
+    },
+    {
+      "id": "5002916",
+      "time": "2026-07-23 01:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊拉克總理阿里·扎伊迪在華盛頓會見特朗普後，預計於週四前往德黑蘭訪問。"
+    },
     {
       "id": "mkt:019f8af9-998c-7aab-8e4f-430ad36107c5",
       "time": "2026-07-23 01:57:21",
@@ -161223,98 +161251,6 @@
         "US Economy"
       ],
       "text": "FED'S BEIGE: Employment rose on balance; five Fed districts reported gains described as moderate, modest or robust, while seven districts reported little or no change."
-    },
-    {
-      "id": "4990573",
-      "time": "2026-07-16 02:01:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西官員：目前我們已更明確預判，今年下半年將出現強度更高的厄爾尼諾現象，該因素已納入通脹修正測算考量。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607163807904070",
-      "time": "2026-07-16 02:01:08",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲褐皮書顯示 5月底至6月期間 美聯儲12個轄區中有11個地區經濟活動以輕微至溫和速度增長】美聯儲褐皮書顯示，5月底至6月期間，美聯儲12個轄區中有11個地區經濟活動以輕微至溫和速度增長，另一個地區報告經濟活動沒有變化。就業總體上有所上升，五個地區的就業增長適度、溫和或穩健，而七個地區的變化很小或沒有變化。受訪企業普遍預計未來數月經濟將持續擴張，但多個轄區指出燃油成本前景存在較高不確定性。"
-    },
-    {
-      "id": "4990572",
-      "time": "2026-07-16 02:01:07",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄稱扎波羅熱核電站總工程師遭烏無人機襲擊身亡】俄羅斯原子能集團總裁利哈喬夫當地時間15日釋出訊息稱，扎波羅熱核電站總工程師亞歷山大·雅科夫列夫當天早上遭烏克蘭武裝部隊無人機襲擊身亡。目前烏克蘭方面對此暫無回應。（央視新聞）"
-    },
-    {
-      "id": "4990571",
-      "time": "2026-07-16 02:00:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：就業整體呈上升態勢，五個轄區就業實現小幅、溫和或穩健增長，七個轄區就業基本持平、無明顯變動。"
-    },
-    {
-      "id": "4990570",
-      "time": "2026-07-16 02:00:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：受訪業內人士普遍預計未來數月經濟將延續擴張態勢，但多個轄區表示燃油成本前景不確定性顯著上升。"
-    },
-    {
-      "id": "4990569",
-      "time": "2026-07-16 02:00:37",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：受訪企業普遍預計未來數月經濟將持續擴張，但多個轄區指出燃油成本前景存在較高不確定性。"
-    },
-    {
-      "id": "4990568",
-      "time": "2026-07-16 02:00:34",
-      "tags": [
-        "市場",
-        "央行",
-        "焦點",
-        "國際"
-      ],
-      "text": "美聯儲褐皮書：整體物價溫和上漲，九個轄區物價溫和上行，兩個轄區大幅上漲，一個轄區小幅上漲；與上一報告週期相比，所有轄區物價漲幅持平或有所放緩。"
-    },
-    {
-      "id": "mkt:019f66ef-8367-7aab-8dae-1b81e3e3a767",
-      "time": "2026-07-16 02:00:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Nasdaq100",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "Fed Governor Cook said AI buildout shows no signs of slowing."
-    },
-    {
-      "id": "mkt:019f66ef-8358-7aab-8dae-17fa15b7bbdf",
-      "time": "2026-07-16 02:00:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor Cook said he is concerned about the risks from high inflation."
     }
   ]
 }
