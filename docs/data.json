@@ -1,7 +1,40 @@
 {
-  "updated": "2026-07-23 01:30:11",
-  "count": 17682,
+  "updated": "2026-07-23 01:34:19",
+  "count": 17674,
   "items": [
+    {
+      "id": "mkt:019f8ae4-18f6-7aab-8e4e-e861ec4e38ff",
+      "time": "2026-07-23 01:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AXIOS, citing sources, reports Israel's new Mossad chief met in Washington with the CIA director two weeks ago to discuss Iran."
+    },
+    {
+      "id": "5002898",
+      "time": "2026-07-23 01:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟表示，派拉蒙不會將華納兄弟影片的發行權轉讓給其自有影院發行商。"
+    },
+    {
+      "id": "5002897",
+      "time": "2026-07-23 01:33:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟反壟斷監管機構批准派拉蒙以1100億美元收購華納兄弟。"
+    },
+    {
+      "id": "5002896",
+      "time": "2026-07-23 01:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列摩薩德新任局長兩週前在華盛頓與中情局局長就伊朗問題舉行會晤。"
+    },
     {
       "id": "mkt:019f8adf-339c-7aab-8e4e-e3045b3f970f",
       "time": "2026-07-23 01:28:31",
@@ -161304,107 +161337,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯談及伊朗問題：我們正開展一場微妙的外交博弈。"
-    },
-    {
-      "id": "4990552",
-      "time": "2026-07-16 01:33:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克：美聯儲有若干辦法彌補政府調查回覆率偏低帶來的資料缺口。"
-    },
-    {
-      "id": "4990551",
-      "time": "2026-07-16 01:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮發言人：特朗普將於今日峰會公佈超 100 億美元合作協議。"
-    },
-    {
-      "id": "mkt:019f66d6-b3d3-7aab-8dad-6e537719a46e",
-      "time": "2026-07-16 01:32:54",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said he had no choice but to rely on Iran's own strength to become stronger."
-    },
-    {
-      "id": "mkt:019f66d6-9d60-7aab-8dad-676ed46615f3",
-      "time": "2026-07-16 01:32:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian parliament speaker Ghalibaf said Iran's approach to war or negotiations must be grounded in national interests and security, and be pragmatic and long-term."
-    },
-    {
-      "id": "4990548",
-      "time": "2026-07-16 01:32:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫：無論採取對抗還是談判策略，我們都必須立足國家利益與國家安全，秉持務實長遠的方針。"
-    },
-    {
-      "id": "mkt:019f66d5-4fe0-7aab-8dad-5f22a2cd51de",
-      "time": "2026-07-16 01:31:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliamentary speaker Ghalibaf said the \"enemy's\" strategy has not changed."
-    },
-    {
-      "id": "4990547",
-      "time": "2026-07-16 01:31:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：以色列影響美國的能力遠超多數國家。"
-    },
-    {
-      "id": "mkt:019f66d5-4528-7aab-8dad-578167d446d7",
-      "time": "2026-07-16 01:31:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Ghalibaf said Iran is locked in an existential war with the United States, which he said seeks not only to topple Iran’s current regime but also to divide the country."
-    },
-    {
-      "id": "4990546",
-      "time": "2026-07-16 01:31:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【因預警泥石流高風險 G4218雅葉高速臨時管制】2026年7月16日1時10分，G4218雅葉高速雅康段因日地溝預警泥石流高風險，現實施以下交通管制：雅康向所有車輛在瀘定分流下站；瀘定收費站入口及副站（往康定方向）管制；康定收費站入口管制。（央視新聞）"
-    },
-    {
-      "id": "4990545",
-      "time": "2026-07-16 01:30:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫：敵方的戰略從未改變。"
-    },
-    {
-      "id": "4990544",
-      "time": "2026-07-16 01:30:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗首席談判代表卡利巴夫：我們與美國正處於一場根本性、關乎國家存亡的對抗，美國的目標除了顛覆伊朗現有體制，還要分裂我們摯愛的祖國伊朗。"
-    },
-    {
-      "id": "mkt:019f66d4-76de-7aab-8dad-4ae6d97435aa",
-      "time": "2026-07-16 01:30:27",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's parliament speaker Ghalibaf said Iran must also use diplomacy and negotiation to achieve and safeguard its national interests."
     }
   ]
 }

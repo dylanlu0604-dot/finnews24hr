@@ -1,7 +1,40 @@
 {
   "date": "2026-07-23",
-  "count": 123,
+  "count": 127,
   "items": [
+    {
+      "id": "mkt:019f8ae4-18f6-7aab-8e4e-e861ec4e38ff",
+      "time": "2026-07-23 01:33:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "AXIOS, citing sources, reports Israel's new Mossad chief met in Washington with the CIA director two weeks ago to discuss Iran."
+    },
+    {
+      "id": "5002898",
+      "time": "2026-07-23 01:33:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐盟表示，派拉蒙不會將華納兄弟影片的發行權轉讓給其自有影院發行商。"
+    },
+    {
+      "id": "5002897",
+      "time": "2026-07-23 01:33:06",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "歐盟反壟斷監管機構批准派拉蒙以1100億美元收購華納兄弟。"
+    },
+    {
+      "id": "5002896",
+      "time": "2026-07-23 01:32:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列摩薩德新任局長兩週前在華盛頓與中情局局長就伊朗問題舉行會晤。"
+    },
     {
       "id": "mkt:019f8adf-339c-7aab-8e4e-e3045b3f970f",
       "time": "2026-07-23 01:28:31",
