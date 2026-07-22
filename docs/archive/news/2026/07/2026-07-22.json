@@ -1,7 +1,92 @@
 {
   "date": "2026-07-22",
-  "count": 1401,
+  "count": 1410,
   "items": [
+    {
+      "id": "mkt:019f888e-8eec-7aab-8e3d-41149257e11c",
+      "time": "2026-07-22 14:41:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hong Kong-listed internet and tech names dropped sharply: NetEase-S (09999.HK) and Tencent Holdings (00700.HK) down over 7%, Kuaishou (01024.HK) down over 6% and Bilibili (09626.HK) down over 5%. KE Holdings (02423.HK), Xiaomi Group (01810.HK), Alibaba Group (09988.HK) and Baidu (09888.HK) also fell."
+    },
+    {
+      "id": "5001617",
+      "time": "2026-07-22 14:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗內政部長及其團隊將在訪問巴基斯坦後前往印度，參加金磚國家成員國會議。"
+    },
+    {
+      "id": "mkt:019f888d-cf78-7aab-8e3d-3e84db79a4e0",
+      "time": "2026-07-22 14:40:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "IRNA reported that Iran's interior minister and delegation will travel to India after visiting Pakistan to attend a BRICS members meeting."
+    },
+    {
+      "id": "mkt:019f888c-b645-7aab-8e3d-37f7f5493839",
+      "time": "2026-07-22 14:39:10",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "Copper",
+        "Impact mixed"
+      ],
+      "text": "【U.S. ITC initiates 337 probe into anode materials for battery cells and batteries】On July 21, 2026 the U.S. International Trade Commission (ITC) voted to initiate a Section 337 investigation into certain anode materials used in battery cells and batteries; investigation number 337-TA-1513."
+    },
+    {
+      "id": "5001616",
+      "time": "2026-07-22 14:38:44",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【大摩：維持五礦資源“增持”評級，下半年各礦山營運狀況將較穩定】摩根士丹利發表研報指，五礦資源旗下Las Bambas今年第二季銅精礦產量為10.9萬噸，符合全年產量指引38至40萬噸。Khoemacau礦上半年產量為2.2萬噸，約佔全年指引的42%至46%。大摩預期，隨著裝置利用率提升、新採礦裝置投入及較高礦石品位，下半年產量有望增長。大摩維持五礦資源“增持”評級，目標價為11.7港元，認為下半年各礦山營運狀況將較穩定，Las Bambas產量有望達全年指引上限，加上秘魯總統選舉後社會穩定性憂慮紓緩，產量及成本改善將繼續推動盈利增長。"
+    },
+    {
+      "id": "5001615",
+      "time": "2026-07-22 14:37:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普淡化伊朗談判前景，歐洲天然氣逼近四個月高位】美國總統特朗普淡化美伊立即開展談判的可能性，歐洲天然氣價格維持在近四個月高位附近。市場擔憂焦點依舊集中：歐洲能否在冬季來臨前獲取充足氣源補充庫存，同時霍爾木茲海峽的天然氣運輸持續受限。挪威石油（Equinor）首席財務官托爾格里姆・賴坦表示，歐洲天然氣市場依舊處於 “脆弱狀態”，歐洲冬季能源開局形勢存在高度不確定性。"
+    },
+    {
+      "id": "5001614",
+      "time": "2026-07-22 14:37:48",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電力板塊再度拉昇 華電能源等多股漲停】午後電力板塊再度拉昇，華電能源反包漲停走出3天2板，此前立新能源、華電遼能、新能股份、新中港、世茂能源漲停，九洲集團、珈偉新能漲超9%，華銀電力、樂山電力、浙江新能、豫能控股等跟漲。"
+    },
+    {
+      "id": "te:economy:568773",
+      "time": "2026-07-22 14:37:40",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Denmark",
+        "Business Confidence",
+        "Importance 1"
+      ],
+      "text": "Danish Business Morale Rises to 3-Month High — Denmark’s manufacturing confidence indicator rose to 99.2 in July 2026 from 90.7 in the previous month. This marked the highest reading since April, although it remained slightly below the long-term average of 100. Production expectations strengthened, climbing to 16 from 9 in June, while employment prospects became less negative, improving to -9 from -21. On the broader front, the composite business confidence indicator, which covers manufacturing, construction, retail, and services, increased to 105.4 from 101.0 in June. Confidence in the service industry advanced to 107.3 from 105.5, while retail confidence turned optimistic, reaching 106.3 after standing at 99.8 in the previous month. Meanwhile, confidence in the construction sector edged down to 101.0 from 101.3."
+    },
+    {
+      "id": "mkt:019f888b-3df5-7aab-8e3d-2a342d4dc963",
+      "time": "2026-07-22 14:37:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【China recorded 34.17 bln cross‑region passenger trips in 1H】China carried 28.07 bln tonnes of commercial freight in 1H, up 3.2% YoY; Q2 freight rose 2.4% YoY. By mode, road freight was 21.22 bln tonnes (+3.2% YoY) and waterway freight 4.23 bln tonnes (+3.9% YoY). Cross‑region passenger flows reached 34.17 bln trips in 1H, +1.2% YoY; Q2 was flat at +0.1% YoY. By mode, road passenger trips were 31.32 bln (+0.9% YoY) and waterway passenger trips 130 mln (+4.3% YoY). Transport fixed‑asset investment totaled 1.5 tln yuan in 1H, with road investment 1.0 tln yuan and water transport investment 109.9 bln yuan."
+    },
     {
       "id": "te:markets:568771",
       "time": "2026-07-22 14:36:52",
