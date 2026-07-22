@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-23 02:53:47",
-  "count": 17682,
+  "updated": "2026-07-23 02:58:42",
+  "count": 17680,
   "items": [
+    {
+      "id": "mkt:019f8b2d-7108-7aab-8e50-2e7c76f7037e",
+      "time": "2026-07-23 02:53:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it will cut Gulf oil flows and strike energy, economic infrastructure if US follows through on threats】Iran’s Khatam al-Anbia central command said the Strait of Hormuz remains closed; vessels must transit via designated routes under previously announced arrangements. It warned that if the US follows through on threats, Iran will cut all oil flows from the Gulf and target regional oil, gas, power and economic infrastructure, saying repeated US threats risk widening the conflict regionally and beyond."
+    },
+    {
+      "id": "5002960",
+      "time": "2026-07-23 02:52:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美方軍事介入後，今年從委內瑞拉石油銷售中創收超130億美元，卻幾乎未公開說明這筆資金的去向。"
+    },
     {
       "id": "5002959",
       "time": "2026-07-23 02:52:35",
@@ -161340,46 +161364,6 @@
         "國際"
       ],
       "text": "知情人士透露，空中客車為應對交付延誤，將部分美國產 A350 機身零部件的運輸方式由海運改為空運。"
-    },
-    {
-      "id": "4990603",
-      "time": "2026-07-16 02:58:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "檔案顯示，波音為避免 767 貨機 / 加油機生產線延期，已從佛羅里達州達赫航空透過空運運送零部件。"
-    },
-    {
-      "id": "4990602",
-      "time": "2026-07-16 02:57:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：美國曾探討對古巴發動空中突擊的可能性】據多名瞭解相關討論的美國官員透露，美國曾探討可能對古巴採取何種軍事行動，其中包括由數千名陸軍士兵實施空中突擊的可能性。如果實施空中突擊，將由美國陸軍第101空降師執行。這些討論並不表明特朗普總統或五角大樓已經決定實施此類行動。"
-    },
-    {
-      "id": "mkt:019f6721-d205-7aab-8daf-0f4d784df792",
-      "time": "2026-07-16 02:54:57",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Brent",
-        "Impact bullish"
-      ],
-      "text": "Brent crude futures settled at $84.95/bbl, up $0.22 or 0.26%."
-    },
-    {
-      "id": "mkt:019f6721-16bb-7aab-8daf-02203ad39de6",
-      "time": "2026-07-16 02:54:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【Recent U.S. strikes on Iran lay groundwork for more intensive operations, officials say】Three U.S. officials said recent strikes were intended to force Iran to reopen the Strait of Hormuz and to degrade Iranian military capabilities the U.S. seeks to neutralize before mounting more complex operations. Officials added the strikes have widened Trump’s military options. The U.S. military said its latest airstrike targeted Iranian air-defense systems, coastal radar sites, missile and drone bases, small boats and other maritime assets. One U.S. official described the strikes as “shaping operations” to weaken Iran’s defenses and lay the groundwork for more intensive follow-on action."
     }
   ]
 }

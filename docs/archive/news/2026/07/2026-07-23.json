@@ -1,7 +1,31 @@
 {
   "date": "2026-07-23",
-  "count": 232,
+  "count": 234,
   "items": [
+    {
+      "id": "mkt:019f8b2d-7108-7aab-8e50-2e7c76f7037e",
+      "time": "2026-07-23 02:53:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran says it will cut Gulf oil flows and strike energy, economic infrastructure if US follows through on threats】Iran’s Khatam al-Anbia central command said the Strait of Hormuz remains closed; vessels must transit via designated routes under previously announced arrangements. It warned that if the US follows through on threats, Iran will cut all oil flows from the Gulf and target regional oil, gas, power and economic infrastructure, saying repeated US threats risk widening the conflict regionally and beyond."
+    },
+    {
+      "id": "5002960",
+      "time": "2026-07-23 02:52:51",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "美方軍事介入後，今年從委內瑞拉石油銷售中創收超130億美元，卻幾乎未公開說明這筆資金的去向。"
+    },
     {
       "id": "5002959",
       "time": "2026-07-23 02:52:35",
