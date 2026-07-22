@@ -1,7 +1,90 @@
 {
-  "updated": "2026-07-23 02:16:12",
-  "count": 17657,
+  "updated": "2026-07-23 02:20:15",
+  "count": 17663,
   "items": [
+    {
+      "id": "mkt:019f8b0d-ec99-7aab-8e4f-8e8ae39d1429",
+      "time": "2026-07-23 02:19:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. House is considering legislation to ban members of Congress from trading stocks."
+    },
+    {
+      "id": "mkt:019f8b0d-cd0b-7aab-8e4f-84086770e3fd",
+      "time": "2026-07-23 02:19:25",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Programming startup Cursor launched an intelligent model router that automatically selects the most suitable AI model for a given task."
+    },
+    {
+      "id": "5002926",
+      "time": "2026-07-23 02:18:38",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國眾議院正在審議禁止國會議員進行股票交易的法案。"
+    },
+    {
+      "id": "5002925",
+      "time": "2026-07-23 02:17:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "委內瑞拉達成相關協議，巴蒂斯塔家族獲得該國石油儲備開採許可權。"
+    },
+    {
+      "id": "mkt:019f8b0c-0a58-7aab-8e4f-78f20510730b",
+      "time": "2026-07-23 02:17:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported the Islamic Revolutionary Guard Corps Aerospace Force commander said Iran would cut electricity supplies to US regional allies if its bridges or power plants were attacked."
+    },
+    {
+      "id": "mkt:019f8b0c-06b6-7aab-8e4f-74f84e8a8a21",
+      "time": "2026-07-23 02:17:28",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "PARA.O",
+        "Impact bullish",
+        "WBD.O"
+      ],
+      "text": "【EU clears Paramount-Skydance $110bn acquisition of Warner Bros】The European Commission approved Paramount-Skydance's roughly $110bn takeover of Warner Bros after the buyer agreed to sell its stake in a European film-distribution joint venture with Universal and to refrain from any film-distribution agreements with Universal in Europe for 10 years. The Commission said the commitments address its competition concerns and ensure the combined group's films will not be co-distributed with Universal or Disney."
+    },
+    {
+      "id": "5002924",
+      "time": "2026-07-23 02:16:49",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "伊朗革命衛隊航空航天司令穆薩維發出警告：倘若伊朗的橋樑或發電廠遇襲，伊朗將切斷美國在該地區盟友的電力供應。"
+    },
+    {
+      "id": "te:markets:568955",
+      "time": "2026-07-23 02:15:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Natural Gas EU Spikes by 5.01% — Top commodity gainers are Natural Gas EU (5.01%), Germany Natural Gas THE (4.69%), Natural Gas UK (4.61%), Brent Crude Oil (3.23%) and Crude Oil WTI (2.92%). Biggest losers are Coking Coal (-1.78%) and Propane (-1.64%)."
+    },
     {
       "id": "5002923",
       "time": "2026-07-23 02:13:20",
@@ -161130,22 +161213,6 @@
         "Importance 1"
       ],
       "text": "Metals Commodities Updates: Platinum Gains by 2.22% — Top commodity gainers are Platinum (2.22%), Steel Rebar (0.84%) and Gold (0.36%). Biggest losers are Silver (-0.95%) and Silicon (-0.89%)."
-    },
-    {
-      "id": "mkt:019f66ff-1795-7aab-8dae-7eb72c1786fb",
-      "time": "2026-07-16 02:17:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Security sources said a drone carrying explosives was shot down by air defenses over Erbil in northern Iraq."
-    },
-    {
-      "id": "mkt:019f66ff-015d-7aab-8dae-73cdb7fc8684",
-      "time": "2026-07-16 02:16:55",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The Israel Defense Forces said it conducted an airstrike in southern Lebanon, killing three Hezbollah fighters inside the designated military buffer zone."
     }
   ]
 }
