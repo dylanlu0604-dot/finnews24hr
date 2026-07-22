@@ -1,7 +1,159 @@
 {
   "date": "2026-07-22",
-  "count": 768,
+  "count": 784,
   "items": [
+    {
+      "id": "5001195",
+      "time": "2026-07-22 09:41:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報557.30元。"
+    },
+    {
+      "id": "5001194",
+      "time": "2026-07-22 09:40:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報4837.00元。"
+    },
+    {
+      "id": "5001193",
+      "time": "2026-07-22 09:40:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI手機板塊盤初走弱，晶華新材跌停】AI手機板塊盤初走弱，晶華新材跌停，道明光學、格林精密、江波龍、福日電子、每日互動、希荻微等跟跌。"
+    },
+    {
+      "id": "te:markets:568672",
+      "time": "2026-07-22 09:40:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Soar on Chip Rally — The benchmark KOSPI climbed nearly 6% to around 7,130 on Wednesday, extending gains from the previous session as a rebound in global semiconductor stocks boosted investor sentiment. The rally followed strong gains in US chipmakers, with investors rotating back into AI-related stocks after upbeat corporate earnings helped ease concerns over the sector, while attention shifted to upcoming earnings from major US technology companies for further signals on AI spending and demand. Samsung Electronics and SK hynix led the advance, jumping nearly 6% and more than 8%, respectively. Other notable gainers included SK Square (7.6%), Samsung Electro-Mechanics (9.8%), Hyundai Motor (7.3%), LG Energy Solution (3.6%), Hyundai Mobis (9.3%), and Doosan Enerbility (6.4%). Meanwhile, lingering Middle East tensions and higher oil prices continued to limit broader risk appetite."
+    },
+    {
+      "id": "5001192",
+      "time": "2026-07-22 09:40:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量887億元。"
+    },
+    {
+      "id": "mkt:019f877b-1fbc-7aab-8e36-f9cc15a1ea05",
+      "time": "2026-07-22 09:40:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong-listed large AI model stocks continued to slide; Zhipu (02513.HK) fell more than 10% on a pullback, MINIMAX-W (00100.HK) dropped over 5%."
+    },
+    {
+      "id": "5001191",
+      "time": "2026-07-22 09:39:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲5%，現報317.65元。"
+    },
+    {
+      "id": "5001190",
+      "time": "2026-07-22 09:39:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報59.94美元/盎司。"
+    },
+    {
+      "id": "5001189",
+      "time": "2026-07-22 09:39:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部：將對巴西進口牛肉加徵55%關稅】商務部發布2026年度牛肉保障措施執行提示資訊（六）。牛肉保障措施項下自巴西進口的牛肉於2026年7月21日已達到商務部公告2025年第87號明確的該國家（地區）規定數量的80%。根據商務部公告2025年第87號，在牛肉進口數量達到規定數量100%的第3日起（含當日），將在現行適用關稅稅率基礎上加徵55%關稅。"
+    },
+    {
+      "id": "5001188",
+      "time": "2026-07-22 09:39:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【仿製藥概念股異動拉昇 美迪西漲超6%】仿製藥概念股異動拉昇，美迪西漲超6%，哈藥股份、眾生藥業、海南海藥等股紛紛上漲。"
+    },
+    {
+      "id": "mkt:019f8779-e173-7aab-8e36-f6a5bdee00f1",
+      "time": "2026-07-22 09:38:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China CSI 500 stock index futures (IC) main contract rose more than 1.00% intraday to 7,751.8 points."
+    },
+    {
+      "id": "mkt:019f8779-aae6-7aab-8e36-e9510fbe7c49",
+      "time": "2026-07-22 09:38:45",
+      "tags": [
+        "MKT News",
+        "000063.SZ",
+        "Impact bullish"
+      ],
+      "text": "A-share IPv6-related stocks climbed after the Central Cyberspace Affairs Commission issued the Implementation Plan for Deepening IPv6 Technical Innovation and Integrated Application (2026–2030). Unisplendour jumped over 7% and Ruijie Networks rose over 5%; ZTE, Wangsu Science & Technology and FiberHome also gained. The plan targets a comprehensive improvement in end-to-end IPv6 penetration by 2027 and says technical innovation and integrated applications should deliver significant phased results during 2026–2030."
+    },
+    {
+      "id": "mkt:019f8779-6971-7aab-8e36-e230ab46381b",
+      "time": "2026-07-22 09:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korea and ASEAN will seek to deepen cooperation amid the Middle East crisis and advance a partnership vision."
+    },
+    {
+      "id": "5001187",
+      "time": "2026-07-22 09:38:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油服工程板塊走高 科力股份漲超10%】油服工程板塊走高，科力股份漲超10%，通源石油、博邁科、貝肯能源、中油工程、海油發展等跟漲。"
+    },
+    {
+      "id": "5001186",
+      "time": "2026-07-22 09:38:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.05%，成分股中，科力股份漲12.05%，並行科技漲3.92%，基康技術漲2.82%，銅冠礦建漲2.68%。"
+    },
+    {
+      "id": "5001185",
+      "time": "2026-07-22 09:38:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國公共採購總額為44萬億元 同比下降2.22%】中國物流與採購聯合會今天（22日）釋出《中國公共採購發展報告（2025）》。根據報告，2025年我國公共採購市場在法治化、數智化、綠色化、國際化、生態化五大維度建設取得系統性突破，結構最佳化態勢明顯。根據報告，2025年公共採購總額為44萬億元，同比下降2.22%。2025年，公共採購市場總體呈現總量小幅收縮、結構持續最佳化的態勢。作為公共採購的核心組成部分，全國公共資源交易平臺彙集的工程建設專案招標投標、政府採購、土地使用權和礦業權出讓、國有產權交易四大板塊交易數量為177萬個，交易額為20萬億元。政府採購延續了2021年以來採購規模小幅收縮的趨勢。2025年政府採購規模約3.25萬億元，降幅約為3.71%。另外，對外工程招投標市場持續向好。2025年，我國對外承包工程業務完成營業額1788.2億美元，比上年增長7.74%；新籤合同額2892.2億美元，比上年增長8.2%。"
+    },
     {
       "id": "mkt:019f8778-44bf-7aab-8e36-db3736707a83",
       "time": "2026-07-22 09:37:13",

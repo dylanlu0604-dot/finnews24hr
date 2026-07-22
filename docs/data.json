@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-22 09:38:07",
-  "count": 18088,
+  "updated": "2026-07-22 09:42:05",
+  "count": 18086,
   "items": [
+    {
+      "id": "5001195",
+      "time": "2026-07-22 09:41:22",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲5%，現報557.30元。"
+    },
+    {
+      "id": "5001194",
+      "time": "2026-07-22 09:40:52",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "乙二醇連續主力合約日內漲3%，現報4837.00元。"
+    },
+    {
+      "id": "5001193",
+      "time": "2026-07-22 09:40:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "【AI手機板塊盤初走弱，晶華新材跌停】AI手機板塊盤初走弱，晶華新材跌停，道明光學、格林精密、江波龍、福日電子、每日互動、希荻微等跟跌。"
+    },
+    {
+      "id": "te:markets:568672",
+      "time": "2026-07-22 09:40:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Soar on Chip Rally — The benchmark KOSPI climbed nearly 6% to around 7,130 on Wednesday, extending gains from the previous session as a rebound in global semiconductor stocks boosted investor sentiment. The rally followed strong gains in US chipmakers, with investors rotating back into AI-related stocks after upbeat corporate earnings helped ease concerns over the sector, while attention shifted to upcoming earnings from major US technology companies for further signals on AI spending and demand. Samsung Electronics and SK hynix led the advance, jumping nearly 6% and more than 8%, respectively. Other notable gainers included SK Square (7.6%), Samsung Electro-Mechanics (9.8%), Hyundai Motor (7.3%), LG Energy Solution (3.6%), Hyundai Mobis (9.3%), and Doosan Enerbility (6.4%). Meanwhile, lingering Middle East tensions and higher oil prices continued to limit broader risk appetite."
+    },
+    {
+      "id": "5001192",
+      "time": "2026-07-22 09:40:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時放量887億元。"
+    },
+    {
+      "id": "mkt:019f877b-1fbc-7aab-8e36-f9cc15a1ea05",
+      "time": "2026-07-22 09:40:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "Market Themes",
+        "AI Revolution",
+        "02513.HK",
+        "Impact bearish",
+        "00100.HK"
+      ],
+      "text": "Hong Kong-listed large AI model stocks continued to slide; Zhipu (02513.HK) fell more than 10% on a pullback, MINIMAX-W (00100.HK) dropped over 5%."
+    },
+    {
+      "id": "5001191",
+      "time": "2026-07-22 09:39:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "鈀連續主力合約日內漲5%，現報317.65元。"
+    },
+    {
+      "id": "5001190",
+      "time": "2026-07-22 09:39:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲2%，現報59.94美元/盎司。"
+    },
+    {
+      "id": "5001189",
+      "time": "2026-07-22 09:39:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【商務部：將對巴西進口牛肉加徵55%關稅】商務部發布2026年度牛肉保障措施執行提示資訊（六）。牛肉保障措施項下自巴西進口的牛肉於2026年7月21日已達到商務部公告2025年第87號明確的該國家（地區）規定數量的80%。根據商務部公告2025年第87號，在牛肉進口數量達到規定數量100%的第3日起（含當日），將在現行適用關稅稅率基礎上加徵55%關稅。"
+    },
+    {
+      "id": "5001188",
+      "time": "2026-07-22 09:39:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【仿製藥概念股異動拉昇 美迪西漲超6%】仿製藥概念股異動拉昇，美迪西漲超6%，哈藥股份、眾生藥業、海南海藥等股紛紛上漲。"
+    },
+    {
+      "id": "mkt:019f8779-e173-7aab-8e36-f6a5bdee00f1",
+      "time": "2026-07-22 09:38:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China CSI 500 stock index futures (IC) main contract rose more than 1.00% intraday to 7,751.8 points."
+    },
+    {
+      "id": "mkt:019f8779-aae6-7aab-8e36-e9510fbe7c49",
+      "time": "2026-07-22 09:38:45",
+      "tags": [
+        "MKT News",
+        "000063.SZ",
+        "Impact bullish"
+      ],
+      "text": "A-share IPv6-related stocks climbed after the Central Cyberspace Affairs Commission issued the Implementation Plan for Deepening IPv6 Technical Innovation and Integrated Application (2026–2030). Unisplendour jumped over 7% and Ruijie Networks rose over 5%; ZTE, Wangsu Science & Technology and FiberHome also gained. The plan targets a comprehensive improvement in end-to-end IPv6 penetration by 2027 and says technical innovation and integrated applications should deliver significant phased results during 2026–2030."
+    },
+    {
+      "id": "mkt:019f8779-6971-7aab-8e36-e230ab46381b",
+      "time": "2026-07-22 09:38:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "YONHAP: South Korea and ASEAN will seek to deepen cooperation amid the Middle East crisis and advance a partnership vision."
+    },
+    {
+      "id": "5001187",
+      "time": "2026-07-22 09:38:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【油服工程板塊走高 科力股份漲超10%】油服工程板塊走高，科力股份漲超10%，通源石油、博邁科、貝肯能源、中油工程、海油發展等跟漲。"
+    },
+    {
+      "id": "5001186",
+      "time": "2026-07-22 09:38:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達1.05%，成分股中，科力股份漲12.05%，並行科技漲3.92%，基康技術漲2.82%，銅冠礦建漲2.68%。"
+    },
+    {
+      "id": "5001185",
+      "time": "2026-07-22 09:38:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國公共採購總額為44萬億元 同比下降2.22%】中國物流與採購聯合會今天（22日）釋出《中國公共採購發展報告（2025）》。根據報告，2025年我國公共採購市場在法治化、數智化、綠色化、國際化、生態化五大維度建設取得系統性突破，結構最佳化態勢明顯。根據報告，2025年公共採購總額為44萬億元，同比下降2.22%。2025年，公共採購市場總體呈現總量小幅收縮、結構持續最佳化的態勢。作為公共採購的核心組成部分，全國公共資源交易平臺彙集的工程建設專案招標投標、政府採購、土地使用權和礦業權出讓、國有產權交易四大板塊交易數量為177萬個，交易額為20萬億元。政府採購延續了2021年以來採購規模小幅收縮的趨勢。2025年政府採購規模約3.25萬億元，降幅約為3.71%。另外，對外工程招投標市場持續向好。2025年，我國對外承包工程業務完成營業額1788.2億美元，比上年增長7.74%；新籤合同額2892.2億美元，比上年增長8.2%。"
+    },
     {
       "id": "mkt:019f8778-44bf-7aab-8e36-db3736707a83",
       "time": "2026-07-22 09:37:13",
@@ -166143,172 +166295,6 @@
         "公司"
       ],
       "text": "【奇瑞等成立仟農企管合夥企業】企查查APP顯示，近日，安徽仟農企業管理合夥企業（有限合夥）成立，經營範圍包含：企業管理；以自有資金從事投資活動；企業管理諮詢；創業投資（限投資未上市企業）。企查查股權穿透顯示，該企業由安徽奇瑞智慧科技有限公司等共同出資。"
-    },
-    {
-      "id": "mkt:019f636f-f1b6-7aab-8d8e-30e04fc1bf68",
-      "time": "2026-07-15 09:41:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "China A-share liquid-cooled IDC sector weakened; Dayuan Pump fell to its daily limit, while Sifang Technology, Tongfei, Xiangxin Technology, Bojie, Shenling Environment and Guanghong Technology also slid."
-    },
-    {
-      "id": "4988813",
-      "time": "2026-07-15 09:41:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【百誠醫藥等成立醫療科技新公司】企查查APP顯示，近日，浙江霧聖醫療科技有限公司成立，經營範圍包含：藥品批發；藥品零售；第三類醫療器械經營；藥品網際網路資訊服務等。企查查股權穿透顯示，該公司由百誠醫藥等共同持股。"
-    },
-    {
-      "id": "4988812",
-      "time": "2026-07-15 09:41:41",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4040美元/盎司，日內跌0.33%。"
-    },
-    {
-      "id": "te:economy:566971",
-      "time": "2026-07-15 09:41:25",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "China",
-        "Housing Index",
-        "Importance 1"
-      ],
-      "text": "China New Home Prices Drop the Least in 4 Months — China’s new home prices across 70 cities fell 3.3% year-on-year in June 2026, easing from a 3.5% decline in the previous month. While marking the 36th consecutive month of annual declines, the latest result was the mildest contraction since February, suggesting that existing policy measures are helping stabilize the property market, though demand and confidence remain subdued. Among major cities, prices declined in Beijing (-2.1%, unchanged from May), Guangzhou (-2.6% vs. -3.3%), Shenzhen (-3.6% vs. -4.5%), Chongqing (-4.2% vs. -4.7%), and Tianjin (-4.6% vs. -4.7%). Meanwhile, Shanghai remained the standout performer, with home prices rising 3.1%, only slightly slower than the 3.2% increase recorded in May."
-    },
-    {
-      "id": "4988811",
-      "time": "2026-07-15 09:41:21",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【液冷IDC板塊震盪走弱，大元泵業跌停】液冷IDC板塊震盪走弱，大元泵業跌停，四方科技、同飛股份、祥鑫科技、博傑股份、申菱環境、光弘科技等跟跌。"
-    },
-    {
-      "id": "mkt:019f636f-5a27-7aab-8d8e-2aaca1fb2e06",
-      "time": "2026-07-15 09:41:09",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold fell below $4,040/oz, down 0.31% intraday."
-    },
-    {
-      "id": "4988810",
-      "time": "2026-07-15 09:40:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國總統李在明：韓國股市穩定需要時間。"
-    },
-    {
-      "id": "mkt:019f636e-da6f-7aab-8d8e-23f3272588a4",
-      "time": "2026-07-15 09:40:36",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "China's STAR 50 Index saw losses widen to 2.0%, trading at 1,969.48 points."
-    },
-    {
-      "id": "4988809",
-      "time": "2026-07-15 09:40:29",
-      "tags": [
-        "公司"
-      ],
-      "text": "【杭可科技子公司杭可儀器成為安森美全球供應商】近日，杭可科技控股子公司杭可儀器成功匯入安森美全球供應鏈體系，正式成為安森美全球供應商。公司表示，此次合作標誌杭可儀器獲得國際頭部半導體企業認可，進一步拓寬海外市場版圖。"
-    },
-    {
-      "id": "4988808",
-      "time": "2026-07-15 09:40:24",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4050美元/盎司，日內跌0.49%。"
-    },
-    {
-      "id": "4988807",
-      "time": "2026-07-15 09:40:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "李在明稱韓國股市在短時間內大幅上漲。"
-    },
-    {
-      "id": "4988806",
-      "time": "2026-07-15 09:40:10",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超5000億元，較上日此時放量732億元。"
-    },
-    {
-      "id": "4988805",
-      "time": "2026-07-15 09:40:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.06%，成分股中，沐曦股份跌8.72%，佰維儲存跌7.79%，摩爾執行緒跌4.34%，瀾起科技跌4.17%。"
-    },
-    {
-      "id": "4988804",
-      "time": "2026-07-15 09:39:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "【細胞免疫治療板塊走高，海南海藥漲停】細胞免疫治療板塊走高，昭衍新藥、海南海藥漲停，睿智醫藥、博瑞醫藥漲超10%，舒泰神、陽光諾和、翰宇藥業、南華生物、海特生物跟漲。"
-    },
-    {
-      "id": "4988803",
-      "time": "2026-07-15 09:39:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "加爾各答證券交易所將暫停退市申請。"
-    },
-    {
-      "id": "4988802",
-      "time": "2026-07-15 09:39:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "李在明稱韓國股市極不穩定。"
-    },
-    {
-      "id": "te:markets:566969",
-      "time": "2026-07-15 09:38:58",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Gasoline Remains Near 7-Week High — US gasoline prices held above $3.20 per gallon, remaining near their highest level since late May, supported by growing concerns over global supply disruptions. US forces carried out new strikes against Iranian targets and reinstated a naval blockade on Iranian shipping in the Strait of Hormuz. President Donald Trump threatened additional attacks if Tehran does not return to negotiations, while also stepping back from a proposed 20% fee on shipments passing through the waterway. Supply concerns were further heightened by disruptions to Russian energy infrastructure following continued Ukrainian attacks. Russian gasoline production has fallen to around 65% of seasonal consumption levels after drone strikes disrupted operations at major refineries, including NORSI and Omsk, the country’s two largest gasoline producers. The Saratov refinery, another key supplier, also halted output. Meanwhile, US gasoline inventories declined by 1.664 million barrels in the week ending July 10."
-    },
-    {
-      "id": "4988801",
-      "time": "2026-07-15 09:38:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "太平洋煤氣電力公司：加州約10個縣的7800名使用者將受到斷電影響。"
     }
   ]
 }
