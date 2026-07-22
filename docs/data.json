@@ -1,7 +1,56 @@
 {
-  "updated": "2026-07-23 00:39:30",
-  "count": 17684,
+  "updated": "2026-07-23 00:43:44",
+  "count": 17683,
   "items": [
+    {
+      "id": "5002867",
+      "time": "2026-07-23 00:42:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美沙民用核合作協議將於以色列時間今晚20點30分（北京時間01:30）正式簽署。"
+    },
+    {
+      "id": "mkt:019f8ab5-38de-7aab-8e4d-fd3000823cea",
+      "time": "2026-07-23 00:42:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Yi meets Bangladesh foreign minister Khalil】Wang Yi said last month’s visit by Prime Minister Tarique produced a leaders’ decision to build a new‑era China‑Bangladesh community of shared future; China will continue to support the Bangladesh government, implement the leaders’ consensus, deepen strategic communication and political trust, and advance high‑quality Belt and Road cooperation. Khalil reaffirmed Bangladesh’s adherence to the one‑China principle and said Dhaka will implement the visit outcomes and push forward cooperation on the China‑Myanmar‑Bangladesh economic corridor."
+    },
+    {
+      "id": "5002866",
+      "time": "2026-07-23 00:42:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌將Gemini Alpha內測專案更名為「Gemini Beta」。"
+    },
+    {
+      "id": "5002865",
+      "time": "2026-07-23 00:41:30",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見孟加拉國外長卡利勒】中共中央政治局委員、外交部長王毅22日在馬尼拉會見孟加拉國外長、候任聯大主席卡利勒。 王毅表示，塔裡克總理上個月對中國成功進行正式訪問，兩國領導人共同宣佈構建新時代中孟命運共同體，為兩國關係發展作出新的戰略指引，擘畫了新的藍圖。作為孟方值得信賴的好鄰居、好朋友，中方將一如既往支援孟政府順利施政，願同孟方落實好兩國領導人共識，增進戰略溝通，深化政治互信，推進高質量共建“一帶一路”，推動新時代中孟命運共同體建設走深走實，為兩國人民帶來更多福祉。（新華社）"
+    },
+    {
+      "id": "5002864",
+      "time": "2026-07-23 00:40:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府劃撥50億美元專項資金用於人工智慧研發。"
+    },
+    {
+      "id": "mkt:019f8ab3-4ea9-7aab-8e4d-f4044adcb323",
+      "time": "2026-07-23 00:40:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The deputy commander of Ukraine's armed forces said Ukraine will have laser weapons within 2–3 months and that they will be more effective than machine guns at downing aerial targets."
+    },
     {
       "id": "mkt:019f8ab1-c184-7aab-8e4d-e846f774808d",
       "time": "2026-07-23 00:38:52",
@@ -161402,72 +161451,6 @@
         "Important"
       ],
       "text": "【Trump urges New York to immediately reverse data-center policy】President Trump said data centers are among the biggest future job drivers and called them money machines. He criticized New York Governor Kathy Hochul for halting construction and planned data-center projects in the state for political reasons, saying companies are now seeking sites in Alabama, Florida, Texas, Arizona and other states. Trump warned tax revenue and jobs will flow to lower-tax states, including Republican-led and some Democratic-led states, and urged New York to change its policy immediately."
-    },
-    {
-      "id": "mkt:019f66a8-a5a7-7aab-8dac-6395c0b85517",
-      "time": "2026-07-16 00:42:36",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DLR.O",
-        "Impact bullish",
-        "EQIX.O",
-        "COR.O"
-      ],
-      "text": "President Trump said New York made a bad decision and should immediately reverse its data-center policy. New York's governor earlier halted all data-center projects that are under construction or planned."
-    },
-    {
-      "id": "4990514",
-      "time": "2026-07-16 00:42:13",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "白銀連續主力合約日內跌4%，現報13826.00元。"
-    },
-    {
-      "id": "4990513",
-      "time": "2026-07-16 00:41:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：紐約州應當立刻調整其資料中心相關政策。"
-    },
-    {
-      "id": "4990512",
-      "time": "2026-07-16 00:41:12",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：紐約州做出了一項糟糕至極的決定。"
-    },
-    {
-      "id": "mkt:019f66a7-30ea-7aab-8dac-5da98993b971",
-      "time": "2026-07-16 00:41:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Trump said New York Governor Kathy Hochul has, for political reasons, halted all data center projects in the state that are either under construction or planned."
-    },
-    {
-      "id": "4990511",
-      "time": "2026-07-16 00:40:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：凱西・霍楚州長出於政治考量，叫停了紐約州所有在建及規劃建設的資料中心專案。"
-    },
-    {
-      "id": "mkt:019f66a6-25c5-7aab-8dac-5015311e7c43",
-      "time": "2026-07-16 00:39:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Russian Defence Ministry said Russian forces used \"Geran-4\" drones to strike a cargo ship at the port of Chornomorsk in Odesa region and Ukrainian vessels in the Dnipro-Buh estuary."
     }
   ]
 }
