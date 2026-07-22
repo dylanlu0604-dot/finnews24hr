@@ -1,7 +1,54 @@
 {
   "date": "2026-07-22",
-  "count": 3085,
+  "count": 3090,
   "items": [
+    {
+      "id": "5002795",
+      "time": "2026-07-22 23:25:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財長貝森特：財政部核查華爾街涉嫌鑽稅法漏洞的稅務產品】美國財政部長貝森特表示，稅收規則應當鼓勵投資，而非縱容濫用金融工程的行為。他表示，財政部樂見金融市場創新，但不會對華爾街惡意避稅行為視而不見，也無法容忍旨在鑽聯邦稅法空子的金融產品。如果一項稅務方案聽上去好得令人難以置信，那它大機率存在問題，投資者務必三思。財政部與美國國稅局正在核查各類可能鑽稅法漏洞的華爾街稅務產品，以及存在越界風險的稅務籌劃方案。"
+    },
+    {
+      "id": "te:markets:568928",
+      "time": "2026-07-22 23:25:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Recovers from One-Year Low — Palladium futures rose above $1,200 per ounce, rebounding from a near one-year low hit at the end of June, as resilient hybrid vehicle demand more than offset expectations of a global market surplus. Demand for hybrid electric vehicles (HEVs) remained robust as major automakers expanded the use of software-defined technologies to HEVs, which continue to support palladium consumption through their use of catalytic converters. On the other hand, Nornickel, the world’s largest palladium producer, expects a global surplus in 2026, as rising electric vehicle adoption weighs on long-term demand and keeps prices below levels last seen at the start of the year. The Russian miner also plans to relocate its refining operations to Monchegorsk, a move expected to improve production efficiency and increase mined output. Meanwhile, expectations of at least one more Federal Reserve rate hike by year-end reduced demand for non-yielding assets, limiting further price gains."
+    },
+    {
+      "id": "mkt:019f8a6c-b894-7aab-8e4c-de79d4ffc081",
+      "time": "2026-07-22 23:23:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is monitoring tax strategies that may cross the line."
+    },
+    {
+      "id": "5002794",
+      "time": "2026-07-22 23:23:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：財政部核查華爾街相關稅務產品，關注存在違規風險的稅務籌劃手段。"
+    },
+    {
+      "id": "mkt:019f8a6c-5915-7aab-8e4c-d3612d6a0974",
+      "time": "2026-07-22 23:23:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury is reviewing some \"Wall Street tax products.\""
+    },
     {
       "id": "5002793",
       "time": "2026-07-22 23:22:20",

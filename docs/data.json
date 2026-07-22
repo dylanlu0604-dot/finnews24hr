@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-22 23:23:18",
-  "count": 17713,
+  "updated": "2026-07-22 23:27:42",
+  "count": 17708,
   "items": [
+    {
+      "id": "5002795",
+      "time": "2026-07-22 23:25:44",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【美財長貝森特：財政部核查華爾街涉嫌鑽稅法漏洞的稅務產品】美國財政部長貝森特表示，稅收規則應當鼓勵投資，而非縱容濫用金融工程的行為。他表示，財政部樂見金融市場創新，但不會對華爾街惡意避稅行為視而不見，也無法容忍旨在鑽聯邦稅法空子的金融產品。如果一項稅務方案聽上去好得令人難以置信，那它大機率存在問題，投資者務必三思。財政部與美國國稅局正在核查各類可能鑽稅法漏洞的華爾街稅務產品，以及存在越界風險的稅務籌劃方案。"
+    },
+    {
+      "id": "te:markets:568928",
+      "time": "2026-07-22 23:25:29",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Palladium Recovers from One-Year Low — Palladium futures rose above $1,200 per ounce, rebounding from a near one-year low hit at the end of June, as resilient hybrid vehicle demand more than offset expectations of a global market surplus. Demand for hybrid electric vehicles (HEVs) remained robust as major automakers expanded the use of software-defined technologies to HEVs, which continue to support palladium consumption through their use of catalytic converters. On the other hand, Nornickel, the world’s largest palladium producer, expects a global surplus in 2026, as rising electric vehicle adoption weighs on long-term demand and keeps prices below levels last seen at the start of the year. The Russian miner also plans to relocate its refining operations to Monchegorsk, a move expected to improve production efficiency and increase mined output. Meanwhile, expectations of at least one more Federal Reserve rate hike by year-end reduced demand for non-yielding assets, limiting further price gains."
+    },
+    {
+      "id": "5002794",
+      "time": "2026-07-22 23:23:28",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財長貝森特：財政部核查華爾街相關稅務產品，關注存在違規風險的稅務籌劃手段。"
+    },
+    {
+      "id": "mkt:019f8a6c-b894-7aab-8e4c-de79d4ffc081",
+      "time": "2026-07-22 23:23:28",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said he is monitoring tax strategies that may cross the line."
+    },
+    {
+      "id": "mkt:019f8a6c-5915-7aab-8e4c-d3612d6a0974",
+      "time": "2026-07-22 23:23:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)"
+      ],
+      "text": "U.S. Treasury Secretary Bessent said the Treasury is reviewing some \"Wall Street tax products.\""
+    },
     {
       "id": "5002793",
       "time": "2026-07-22 23:22:20",
@@ -161739,94 +161786,6 @@
         "其他"
       ],
       "text": "葉門交通與公共事務部長宣佈，薩那國際機場已完成因沙特領導聯軍空襲造成的損毀修復工作，全面恢復運營。"
-    },
-    {
-      "id": "mkt:019f6662-ff9b-7aab-8daa-6e3b5426528d",
-      "time": "2026-07-15 23:26:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Yemen's Sanaa International Airport resumed operations."
-    },
-    {
-      "id": "te:economy:567282",
-      "time": "2026-07-15 23:25:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Colombia Industrial Output Unexpectedly Falls in May — Colombia's industrial production fell 0.4% year-on-year in May 2026, reversing a 2.0% increase in the previous month and defying expectations of a 1.3% expansion. This marks the first decline following four consecutive months with increases, as output declined in 25 of the 39 industrial categories. The largest decreases were recorded in the processing and preserving of meat, fish, crustaceans, and molluscs (-10.7%), manufacture of apparel (-11.3%), spinning, weaving, and finishing of textiles (-20.8%), basic iron and steel industries (-10.6%), and manufacture of cocoa, chocolate, and confectionery (-18.1%). Offsetting part of the decline were gains in the manufacture of beverages (9.1%), sugar and unrefined cane sugar (62.1%), and soaps and detergents (5.7%). Meanwhile, industrial employment continued to contract, with the decline widening to 1.0% year-on-year in May from 0.9% in the previous month."
-    },
-    {
-      "id": "4990444",
-      "time": "2026-07-15 23:25:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾將於 7 月 22 日出席參議院小組聽證會並作證。"
-    },
-    {
-      "id": "4990443",
-      "time": "2026-07-15 23:25:00",
-      "tags": [
-        "市場"
-      ],
-      "text": "【瑞銀：若伯納姆堅守財政規則，英國國債收益率或將下行20個基點】瑞銀策略師表示，英國的政策不確定性為10年期英國國債（gilts）增加了約20個基點的額外風險溢價，而在安迪·伯納姆（Andy Burnham）正式確認成為工黨領袖之前，市場尚未將這部分溢價完全剔除。穆斯塔法·奧古茲·卡伊蘭（Mustafa Oguz Caylan）在週三釋出的一份報告中表示：“如果秋季預算符合當前的財政規則，這將為英國國債提供至少20個基點的反彈空間。”目前，英國10年期國債收益率已小幅下行4個基點，至4.94%。"
-    },
-    {
-      "id": "mkt:019f6661-9b3f-7aab-8daa-65b12ccbb0bf",
-      "time": "2026-07-15 23:25:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer will testify at a Senate panel hearing on July 22."
-    },
-    {
-      "id": "4990442",
-      "time": "2026-07-15 23:24:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "WTI原油日內跌1%，現報78.54美元/桶。"
-    },
-    {
-      "id": "mkt:019f6660-752a-7aab-8daa-5ae27929257d",
-      "time": "2026-07-15 23:23:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kevin Warsh said if policymakers had monitored money supply in 2021 they might have detected early signs of inflation."
-    },
-    {
-      "id": "4990441",
-      "time": "2026-07-15 23:23:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 倘若當時關注貨幣供應量，我們或許早在 2021 年就已察覺相關問題。"
-    },
-    {
-      "id": "mkt:019f6660-40fb-7aab-8daa-56a82667fa96",
-      "time": "2026-07-15 23:23:31",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed chair Kevin Warsh said monetary aggregates are not perfect but provide a useful cross-check."
-    },
-    {
-      "id": "4990440",
-      "time": "2026-07-15 23:23:28",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 貨幣總量指標並非盡善盡美，但不失為一項有效的交叉驗證工具。"
     }
   ]
 }
