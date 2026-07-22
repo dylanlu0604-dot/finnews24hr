@@ -1,7 +1,244 @@
 {
   "date": "2026-07-22",
-  "count": 1469,
+  "count": 1494,
   "items": [
+    {
+      "id": "mkt:019f88a5-5fe9-7aab-8e3e-432092bde778",
+      "time": "2026-07-22 15:06:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Huatai-PineBridge China-Korea Semiconductor ETF posts two days of heavy turnover】Huatai-PineBridge China-Korea Semiconductor ETF (513330) recorded turnover of CNY 23.18 bln today, its second-highest daily volume on record; it closed up 1.06% with assets under management of CNY 11.79 bln. Yesterday the ETF posted a record daily turnover of CNY 24.06 bln."
+    },
+    {
+      "id": "mkt:019f88a5-045e-7aab-8e3e-3ccd26a5f53e",
+      "time": "2026-07-22 15:05:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor expects global economic growth to remain at 3.0% in 2026."
+    },
+    {
+      "id": "5001670",
+      "time": "2026-07-22 15:05:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：預計2026年全球經濟增長將維持疲弱態勢，增速為3.0%。"
+    },
+    {
+      "id": "te:markets:568784",
+      "time": "2026-07-22 15:05:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares End Lower After Volatile Session — The Nikkei 225 Index slipped 0.18% to close at 66,115 on Wednesday, reversing gains from earlier in the session as the rally in semiconductor stocks lost steam. Investors also turned cautious ahead of earnings from major US technology companies, including Alphabet and Tesla, to gauge the outlook for the sector. Meanwhile, markets continued to monitor rising oil prices as the US carried out strikes on Iranian targets for an 11th consecutive night, while President Donald Trump downplayed the likelihood of near-term talks with Tehran. Among individual stocks, Tokyo Electron (-0.9%), SoftBank Group (-0.8%), and Fast Retailing (-2.8%) posted notable losses, while Kioxia Holdings (5.3%), Taiyo Yuden (6.7%), and Murata Manufacturing (4%) were among the strongest gainers. On the data front, Japan’s trade balance shifted to a deficit in June as import growth outpaced exports."
+    },
+    {
+      "id": "5001669",
+      "time": "2026-07-22 15:05:03",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "印尼基準股指<.JKSE>在央行決議公佈前下跌0.4%，報6312.038點。"
+    },
+    {
+      "id": "mkt:019f88a4-55cb-7aab-8e3e-327efe88b0cc",
+      "time": "2026-07-22 15:04:58",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Bank Indonesia governor said Middle East tensions have escalated again, raising uncertainty."
+    },
+    {
+      "id": "mkt:019f88a4-3dbc-7aab-8e3e-28f3ba39dfa2",
+      "time": "2026-07-22 15:04:52",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "SSE Composite",
+        "Impact mixed"
+      ],
+      "text": "【A-shares close: Shanghai Composite up 0.07%, power stocks broadly rebound】Shanghai Composite rose 0.07% after an intraday recovery; Shenzhen Composite fell 1.42% and ChiNext dropped 3.23% by the close. Oil & gas exploration led gains: Zhongman Petroleum hit the daily limit, Tongyuan Petroleum and Keli Co. rose over 8%. Coal rallied: Dayou Energy hit the limit and Yankuang Energy gained more than 6%. Power names broadly recovered — Jiuzhou Group and Jiawei New Energy surged over 11%, while Huadian LiaoNeng, Huadian Energy, Lixin New Energy and several peers hit limit-up. Baijiu stocks were active: Shede Spirits and Yingjia Gongjiu climbed over 4%. Insurance, shipping & ports, lithium mining, plantation, innovative drugs, banks and minor metals also outperformed. Underperformers included MLCC, PCB, gaming, digital media, glass substrates, humanoid robots and lithography-equipment sectors. Turnover across Shanghai and Shenzhen reached CNY2.65 trillion, down about CNY303.7 billion versus yesterday; roughly 1,500 stocks advanced and 3,900 fell."
+    },
+    {
+      "id": "mkt:019f88a4-3aaf-7aab-8e3e-20e4b7a9f9f0",
+      "time": "2026-07-22 15:04:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Shanghai to stabilize shipping index futures, strengthen underlying-index risk controls】Shanghai municipal government issued its 15th Five-Year Plan to accelerate development of an international shipping center, directing creation of an industry-leading international shipping trading platform offering one-stop ship and aviation asset trading. The plan mandates maintaining stable operation of shipping index futures, strengthening risk controls on underlying indices, cultivating industry clients and exploring new shipping-index futures products. It also calls for leveraging Shanghai’s local carbon market experience to orderly expand shipping and aviation firms’ participation in carbon emissions trading."
+    },
+    {
+      "id": "mkt:019f88a3-e047-7aab-8e3e-1f423c61af7d",
+      "time": "2026-07-22 15:04:28",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Shanghai to expand financing for aircraft, ships and core components】Shanghai will expand financing for aircraft, ships and core components, allowing qualified banks to provide cross-border and offshore syndicated loans and enabling eligible financing and financial leasing firms to set up SPVs to conduct leasing. The city will upgrade the Lingang New Area one‑stop financing‑leasing platform and encourage shipping companies to tap multi‑tier capital markets and explore industry funds to diversify funding channels. Financial institutions will be supported to use electronic documents recorded on‑chain and cross‑matching to provide verification for settlement, financing and insurance in shipping trade. Eligible shipping firms may establish global or regional cash management centres to centralise onshore management of domestic and foreign funds; authorities will improve cross‑border RMB usability and payment efficiency and guide shipping‑chain firms to prioritise RMB pricing or settlement."
+    },
+    {
+      "id": "5001668",
+      "time": "2026-07-22 15:04:20",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部：中國1-6月份全國一般公共預算支出同比增長1.5%。"
+    },
+    {
+      "id": "mkt:019f88a3-1321-7aab-8e3e-13c6109f54f6",
+      "time": "2026-07-22 15:03:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "【Shanghai aims to preliminarily establish Asia‑Pacific cruise economy center by 2030】Shanghai municipal government published its Plan to Accelerate Construction of an International Shipping Center (15th Five‑Year Plan), setting targets through 2030. By 2030 the city aims to have a globally leading hub‑portal capacity for shipping, high‑quality modern shipping services, smart low‑carbon shipping innovation, resilient governance, and materially stronger global shipping resource allocation. The plan commits to building a world‑class container hub and to playing a core leadership role within the Yangtze River Delta port cluster. It also targets an Asia‑Pacific leading aviation hub to drive high‑quality development of the Yangtze River Delta airport cluster. For the cruise sector, Shanghai will implement a “hub port + headquarters port + manufacturing port” model to concentrate international cruise headquarters, expand cruise shipbuilding and supporting industries, and preliminarily establish an Asia‑Pacific cruise economy center by 2030."
+    },
+    {
+      "id": "5001667",
+      "time": "2026-07-22 15:03:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中韓半導體ETF華泰柏瑞連續2日放量成交】中韓半導體ETF華泰柏瑞（513330）今日成交額231.8億元為歷史次高記錄，今日收漲1.06%最新規模為117.9億元；昨日該ETF放歷史天量全天成交額240.6億元，7月份以來日均成交額154億元相較上半年日均成交額72.47億元增長約110%。"
+    },
+    {
+      "id": "5001666",
+      "time": "2026-07-22 15:03:28",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部：中國1-6月份份全國稅收收入同比增長5.3%。"
+    },
+    {
+      "id": "5001665",
+      "time": "2026-07-22 15:03:19",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "財政部：中國1-6月份全國一般公共預算收入同比增長4.7%。"
+    },
+    {
+      "id": "mkt:019f88a2-81f7-7aab-8e3e-0d8719b30806",
+      "time": "2026-07-22 15:02:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks"
+      ],
+      "text": "Amazon (AMZN.O) opened its first Canadian disaster-relief center in Edmonton focused on wildfire response."
+    },
+    {
+      "id": "5001663",
+      "time": "2026-07-22 15:02:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "【14家企業聯合啟動低空航電飛控開放生態聯盟】今日舉行的2026國際低空經濟博覽會期間，昂際智航與凱天電子、芯動聯科、東方儀表、中航光電等14家低空產業鏈企業共同啟動低空航電飛控開放生態聯盟，透過開放系統整合能力及適航經驗，共建標準，解決行業缺少介面標準、技術標準、適航標準等難題。昂際智航還與兩家eVTOL製造商億維特航空和翊飛航空戰略簽約，分別在航電套件解決方案和飛控解決方案適航方面展開深入合作。"
+    },
+    {
+      "id": "mkt:019f88a2-1e37-7aab-8e3e-0556dd53f5c9",
+      "time": "2026-07-22 15:02:33",
+      "tags": [
+        "MKT News",
+        "SSE Composite",
+        "Impact bullish",
+        "SZSE Component",
+        "Impact bearish",
+        "CSI300"
+      ],
+      "text": "China's Shanghai Composite Index closed up 2.67 points (+0.07 pct) at 3,867.03 on Wed Jul 22; Shenzhen Composite fell 202.85 points (-1.42 pct) to 14,061.44; CSI 300 Index down 21.98 points (-0.46 pct) at 4,717.24; ChiNext Index down 119.24 points (-3.23 pct) at 3,566.73; STAR 50 Index down 43.08 points (-2.26 pct) at 1,860.08."
+    },
+    {
+      "id": "5001662",
+      "time": "2026-07-22 15:02:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國生物2026流感疫苗全新上市】國藥集團中國生物所屬上海生物製品研究所流感病毒裂解疫苗順利獲得批簽發證明，標誌著新一季中國生物流感病毒裂解疫苗正式投放市場，將為2026-2027年流感防控提供有力支援。中國生物流感病毒裂解疫苗採用世界衛生組織（WHO）推薦的2026-2027年北半球流感疫苗毒株研製。（中國生物）"
+    },
+    {
+      "id": "mkt:019f88a1-ee56-7aab-8e3d-f890b6efac8f",
+      "time": "2026-07-22 15:02:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Sinopharm CNBG launches 2026 influenza vaccine】Sinopharm CNBG’s Shanghai Institute of Biological Products has received a batch release certificate for its inactivated split‑virus influenza vaccine, marking the product’s market launch for the 2026–27 season. The vaccine was developed to the WHO‑recommended 2026–27 Northern Hemisphere influenza strains."
+    },
+    {
+      "id": "mkt:019f88a1-c6d5-7aab-8e3d-f689703cda8f",
+      "time": "2026-07-22 15:02:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China A‑share turnover CNY2.653 tln on July 22; Zhongji Xuchuang tops turnover】July 22 — Combined Shanghai–Shenzhen turnover was CNY2.653 tln, down CNY303.748 bln vs the previous session. Shanghai turnover CNY1,258.148 bln (prior CNY1,396.518 bln); volume 614 mln lots (prior 735 mln). Shenzhen turnover CNY1,395.197 bln (prior CNY1,560.575 bln); volume 681 mln lots (prior 836 mln). Top stock by turnover: Zhongji Xuchuang CNY40.56 bln; next Zhaoyi Innovation CNY36.826 bln, Xinyisheng CNY33.234 bln, Dongshan Precision CNY29.411 bln, Tsinghua Unigroup CNY24.152 bln."
+    },
+    {
+      "id": "mkt:019f88a1-8741-7aab-8e3d-eb0586e01ed2",
+      "time": "2026-07-22 15:01:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources say six Ukrainian companies have been authorized to export drones to the United States."
+    },
+    {
+      "id": "5001661",
+      "time": "2026-07-22 15:01:53",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "A股"
+      ],
+      "text": "【收盤：創業板指低開低走跌超3%，貴金屬、電力股逆勢大漲】滬指全天橫盤震盪，創業板指低開低走。貴金屬板塊集體大漲，山金國際、招金黃金漲停。煤炭板塊再度拉昇，大有能源、華電能源漲停。電力股反覆活躍，立新能源5連板，華電遼能等多股漲停。油氣股高開高走，中曼石油漲停，科力股份漲超10%。下跌方面，電池產業鏈下挫，鵬輝能源跌超10%。個股跌多漲少，滬深京三市近3900股飄綠，今日成交近2.67萬億。截止收盤滬指漲0.07%，深成指跌1.42%，創業板指跌3.23%。"
+    },
+    {
+      "id": "5001660",
+      "time": "2026-07-22 15:01:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【ETF收評：黃金股ETF領漲6.42%，科創綜指ETF領跌9.59%】ETF收盤漲跌不一，黃金股ETF（159321）領漲6.42%，黃金股ETF（517400）漲6.31%，黃金股ETF（159315）漲6.03%，科創綜指ETF（589060）領跌9.59%，科創成長ETF（588070）跌5.84%，科創成長ETF（588110）跌5.11%。"
+    },
+    {
+      "id": "mkt:019f88a1-4172-7aab-8e3d-e6730e7f7f8c",
+      "time": "2026-07-22 15:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "IF",
+        "Impact bearish",
+        "IH",
+        "Impact bullish",
+        "IC"
+      ],
+      "text": "【Index futures midday close】China's CSI 300 futures (IF) most-active contract fell 0.32%; SSE 50 futures (IH) most-active contract rose 0.70%; CSI 500 futures (IC) most-active contract fell 0.83%; CSI 1000 futures (IM) most-active contract fell 1.58%."
+    },
     {
       "id": "mkt:019f88a1-3b88-7aab-8e3d-d987872c3841",
       "time": "2026-07-22 15:01:35",
@@ -9,6 +246,14 @@
         "MKT News"
       ],
       "text": "European equities opened mixed on July 22. Germany's DAX opened up 33.76 points (+0.14%) at 25,026.13. The UK's FTSE 100 opened down 11.22 points (-0.11%) at 10,574.69. France's CAC 40 opened down 11.37 points (-0.14%) at 8,351.77. Euro Stoxx 50 opened down 27.98 points (-0.45%) at 6,257.65. Spain's IBEX 35 opened down 115.16 points (-0.59%) at 19,263.64. Italy's FTSE MIB opened down 160.09 points (-0.31%) at 52,125.00."
+    },
+    {
+      "id": "5001659",
+      "time": "2026-07-22 15:01:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "亞馬遜在埃德蒙頓開設加拿大首個救災中心，專門應對野火災害。"
     },
     {
       "id": "te:markets:568783",
