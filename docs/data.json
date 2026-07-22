@@ -1,7 +1,39 @@
 {
-  "updated": "2026-07-23 05:19:30",
-  "count": 17675,
+  "updated": "2026-07-23 05:23:54",
+  "count": 17677,
   "items": [
+    {
+      "id": "5003071",
+      "time": "2026-07-23 05:18:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet：將加快 AI 模型的釋出節奏。"
+    },
+    {
+      "id": "5003070",
+      "time": "2026-07-23 05:17:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet： 公司正將 AI 算力資源集中投入 Gemini 4 的研發訓練。"
+    },
+    {
+      "id": "5003069",
+      "time": "2026-07-23 05:17:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗邁赫爾通訊社：美軍襲擊擊中伊朗拉姆希爾附近一處瀝青倉庫。"
+    },
+    {
+      "id": "5003068",
+      "time": "2026-07-23 05:15:32",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時A50期指連續夜盤收漲0.31%，報15203點。"
+    },
     {
       "id": "mkt:019f8bac-8ffb-7aab-8e52-82458b887774",
       "time": "2026-07-23 05:12:49",
@@ -161436,22 +161468,6 @@
         "BA.O"
       ],
       "text": "The US State Department has approved the sale of C-17 transport aircraft to Kuwait, estimated at USD 484 mln."
-    },
-    {
-      "id": "mkt:019f67a8-c10c-7aab-8db0-b1f57884c3fb",
-      "time": "2026-07-16 05:22:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department approved the sale of advanced precision-strike weapons systems and related equipment to Saudi Arabia, estimated at $1.96 billion."
-    },
-    {
-      "id": "4990780",
-      "time": "2026-07-16 05:19:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦參議員湯姆·科頓：伊朗、真主黨、哈馬斯以及胡塞武裝，談判時毫無誠意。他們慣於撒謊、欺詐、撕毀協議。當該政權高呼消滅美國時，我們應當相信他們此言發自內心。特朗普在用德黑蘭唯一聽得懂的語言與之對話，那就是武力。"
     }
   ]
 }
