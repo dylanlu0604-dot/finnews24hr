@@ -1,7 +1,102 @@
 {
-  "updated": "2026-07-22 21:54:55",
-  "count": 17883,
+  "updated": "2026-07-22 21:58:59",
+  "count": 17885,
   "items": [
+    {
+      "id": "5002667",
+      "time": "2026-07-22 21:58:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲1.80%。"
+    },
+    {
+      "id": "5002666",
+      "time": "2026-07-22 21:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股光通訊板塊多數翻紅，Credo漲超2%，Lumentum漲1%，Coherent漲0.5%，康寧跌幅收窄至1%。"
+    },
+    {
+      "id": "5002665",
+      "time": "2026-07-22 21:57:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "油價飆升疊加美聯儲政策擔憂，10年期美債收益率觸及兩個月高位。"
+    },
+    {
+      "id": "5002664",
+      "time": "2026-07-22 21:57:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美沙協議預計於當地時間下午 1 點 30 分左右簽署。"
+    },
+    {
+      "id": "5002663",
+      "time": "2026-07-22 21:57:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數抹去開盤跌幅；納斯達克100指數跌幅收窄至0.2%。"
+    },
+    {
+      "id": "te:markets:568915",
+      "time": "2026-07-22 21:56:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Reachs Record High — The S&P/TSX Composite Index rose near 1% to trade above 35,500, reaching a record high as rising commodity prices supported related stocks. Gold prices gained on safe-haven demand amid escalating tensions between the US and Iran. Agnico Eagle, Barrick, WPM, and Franco-Nevada gained nearly 2%. The conflict also rose concerns over energy supply, lifting oil prices and improving the outlook for producers. Canadian Natural added 1.5%, Imperial Oil gained 1%, while Suncor and Cenovus advanced nearly 2%. Cenovus is scheduled to report earnings on Thursday. Elsewhere, Waste Connections edged higher ahead of its earnings release, due after today's closing bell. Investors are also focused on quarterly results from US tech giants Alphabet and Tesla, scheduled after the close. On the trade front, Prime Minister Carney said late Tuesday that he and US President Trump agreed to intensify trade negotiations after Trump unveiled plans to impose 50% tariffs on a broad range of Canadian imports."
+    },
+    {
+      "id": "5002662",
+      "time": "2026-07-22 21:56:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股儲存板塊走強，希捷科技、西部資料漲超1%，美光科技轉漲，閃迪跌幅收窄至不足1%，SK海力士ADR跌幅收窄至2.4%。"
+    },
+    {
+      "id": "mkt:019f8a1d-17b7-7aab-8e49-90f2f58cea90",
+      "time": "2026-07-22 21:56:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's benchmark equity index rose 1.3% in early trade."
+    },
+    {
+      "id": "5002661",
+      "time": "2026-07-22 21:56:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指早盤上漲1.3%。"
+    },
+    {
+      "id": "5002660",
+      "time": "2026-07-22 21:56:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股SaaS板塊盤初集體走低】美股SaaS板塊盤初集體走低，ServiceNow跌近4%，賽富時跌超2%，微軟、Adobe跌超1%。"
+    },
+    {
+      "id": "5002659",
+      "time": "2026-07-22 21:54:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【Kalshi在中期選舉前夕推出預測市場選舉中心】預測市場平臺Kalshi將推出一個新的中心，允許政治愛好者瞭解眾多事件合約的交易者對中期選舉走向的預期。Kalshi的“中期選舉中心”將讓觀察者基於每個市場的最新賠率以及全國地圖，看到投機者對美國參議院和眾議院各場單獨競選結果的預期。該中心還將提供民調平均值，以便觀眾瞭解預測市場賠率與選民統計調查結果之間的對比；提供針對個別候選人的最新聯邦選舉委員會（FEC）籌款報告；以及來自各大媒體的精選新聞和分析。"
+    },
     {
       "id": "5002658",
       "time": "2026-07-22 21:54:09",
@@ -163435,88 +163530,6 @@
         "Importance 1"
       ],
       "text": "Sri Lanka Manufacturing Activity Slows in June — Sri Lanka's Manufacturing PMI fell to 53.0 in June 2026 from 56.6 in the previous month, signaling a slower pace of manufacturing expansion. New orders eased to the neutral mark (50.0) from 52.6, indicating broadly unchanged demand from the previous month. Production continued to expand but at a slower pace (54.6 vs. 57.2), supported mainly by food and beverage manufacturing. Hiring remained robust and broadly in line with the previous month (59.7 vs. 60.5), although manufacturers continued to face challenges from skilled labor shortages and rising labor costs. Supplier delivery times lengthened further (66.3 vs. 61.6), while inventories increased (56.6 vs 52.6) as firms sought to mitigate supply disruptions linked to the conflict in the Middle East. Despite these headwinds, manufacturers' expectations remained positive, although geopolitical uncertainty continued to weigh on the outlook."
-    },
-    {
-      "id": "4990228",
-      "time": "2026-07-15 21:58:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北部灣港集團與海豐國際交流座談】7月14日，北部灣港集團與海豐國際控股有限公司（簡稱“海豐國際”）在南寧舉行座談，雙方圍繞織密航線網路、貨源組織、海鐵聯運、跨境過境班列等方面開展務實交流，攜手共拓東盟航線網路，共商紮實推進廣西向海經濟高質量發展。"
-    },
-    {
-      "id": "4990227",
-      "time": "2026-07-15 21:58:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【7月15日增減持彙總】7月15日盤後，據不完全統計，中創智領披露增持情況。科源製藥、獐子島、中洲特材、海星股份、京能熱力5家A股公司披露擬減持情況。"
-    },
-    {
-      "id": "4990226",
-      "time": "2026-07-15 21:58:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗此前聯絡過我，他們希望達成協議。"
-    },
-    {
-      "id": "4990225",
-      "time": "2026-07-15 21:57:51",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超3%，名創優品漲9.54%，阿特斯漲8.49%，阿里巴巴漲7.26%，貝殼漲7.17%，中比能源漲6.89%。"
-    },
-    {
-      "id": "4990224",
-      "time": "2026-07-15 21:56:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普： 即刻實施國會議員任期限制。"
-    },
-    {
-      "id": "4990223",
-      "time": "2026-07-15 21:56:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "墨西哥總統辛鮑姆將提交一項反女性謀殺新法案。"
-    },
-    {
-      "id": "mkt:019f6610-104c-7aab-8da5-e8165b9a88bc",
-      "time": "2026-07-15 21:55:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【BOC holds policy rate at 2.25% for sixth consecutive meeting; sees recovery, expects inflation to ease】The Bank of Canada held its policy rate at 2.25% on Wednesday for a sixth straight meeting, in line with market expectations. The BOC said the economy is showing signs of recovery after a weak year and that oil-driven inflationary pressure is easing. It judged current borrowing-costs appropriate to support the recovery and return inflation to its 2% target, while remaining prepared to adjust policy as needed. In its monetary policy report the BOC projected annualized GDP growth of 2.5% in Q2 and 1.5% in Q3. Officials cut their 2026 growth outlook sharply to 0.7% due to weak early-year activity but raised 2027 and 2028 forecasts to 1.8% each. The bank now expects average inflation of 2.5% in 2026 (previously 2.3%) and for inflation to return to 2% in early next year."
-    },
-    {
-      "id": "mkt:019f660f-9512-7aab-8da5-e154ae6fae79",
-      "time": "2026-07-15 21:55:24",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bullish"
-      ],
-      "text": "Alibaba (BABA.N) extends gains to 7%."
-    },
-    {
-      "id": "4990222",
-      "time": "2026-07-15 21:55:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【黎巴嫩媒體：沙特正透過卡達和阿曼來緩解緊張局勢】黎巴嫩報道稱，隨著胡塞武裝與沙特之間的緊張局勢加劇，沙特正尋求透過地區和國際斡旋來化解危機。 據知情人士透露，阿曼和卡達已啟動斡旋以降低緊張局勢。與此同時，沙特正試圖撇清自己對胡塞武裝機場遇襲事件的責任。一名胡塞武裝軍方訊息人士駁斥了沙特方面的說法，並表示已查明所用導彈的型號，確認襲擊是由一架沙特戰機發射“風暴陰影”（Storm Shadow）導彈實施的。"
     }
   ]
 }

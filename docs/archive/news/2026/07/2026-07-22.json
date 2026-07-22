@@ -1,7 +1,102 @@
 {
   "date": "2026-07-22",
-  "count": 2869,
+  "count": 2880,
   "items": [
+    {
+      "id": "5002667",
+      "time": "2026-07-22 21:58:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4150美元/盎司，日內漲1.80%。"
+    },
+    {
+      "id": "5002666",
+      "time": "2026-07-22 21:58:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "美股光通訊板塊多數翻紅，Credo漲超2%，Lumentum漲1%，Coherent漲0.5%，康寧跌幅收窄至1%。"
+    },
+    {
+      "id": "5002665",
+      "time": "2026-07-22 21:57:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "油價飆升疊加美聯儲政策擔憂，10年期美債收益率觸及兩個月高位。"
+    },
+    {
+      "id": "5002664",
+      "time": "2026-07-22 21:57:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：美沙協議預計於當地時間下午 1 點 30 分左右簽署。"
+    },
+    {
+      "id": "5002663",
+      "time": "2026-07-22 21:57:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "標普500指數抹去開盤跌幅；納斯達克100指數跌幅收窄至0.2%。"
+    },
+    {
+      "id": "te:markets:568915",
+      "time": "2026-07-22 21:56:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Reachs Record High — The S&P/TSX Composite Index rose near 1% to trade above 35,500, reaching a record high as rising commodity prices supported related stocks. Gold prices gained on safe-haven demand amid escalating tensions between the US and Iran. Agnico Eagle, Barrick, WPM, and Franco-Nevada gained nearly 2%. The conflict also rose concerns over energy supply, lifting oil prices and improving the outlook for producers. Canadian Natural added 1.5%, Imperial Oil gained 1%, while Suncor and Cenovus advanced nearly 2%. Cenovus is scheduled to report earnings on Thursday. Elsewhere, Waste Connections edged higher ahead of its earnings release, due after today's closing bell. Investors are also focused on quarterly results from US tech giants Alphabet and Tesla, scheduled after the close. On the trade front, Prime Minister Carney said late Tuesday that he and US President Trump agreed to intensify trade negotiations after Trump unveiled plans to impose 50% tariffs on a broad range of Canadian imports."
+    },
+    {
+      "id": "5002662",
+      "time": "2026-07-22 21:56:46",
+      "tags": [
+        "市場"
+      ],
+      "text": "美股儲存板塊走強，希捷科技、西部資料漲超1%，美光科技轉漲，閃迪跌幅收窄至不足1%，SK海力士ADR跌幅收窄至2.4%。"
+    },
+    {
+      "id": "mkt:019f8a1d-17b7-7aab-8e49-90f2f58cea90",
+      "time": "2026-07-22 21:56:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's benchmark equity index rose 1.3% in early trade."
+    },
+    {
+      "id": "5002661",
+      "time": "2026-07-22 21:56:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "墨西哥主要股指早盤上漲1.3%。"
+    },
+    {
+      "id": "5002660",
+      "time": "2026-07-22 21:56:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【美股SaaS板塊盤初集體走低】美股SaaS板塊盤初集體走低，ServiceNow跌近4%，賽富時跌超2%，微軟、Adobe跌超1%。"
+    },
+    {
+      "id": "5002659",
+      "time": "2026-07-22 21:54:59",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【Kalshi在中期選舉前夕推出預測市場選舉中心】預測市場平臺Kalshi將推出一個新的中心，允許政治愛好者瞭解眾多事件合約的交易者對中期選舉走向的預期。Kalshi的“中期選舉中心”將讓觀察者基於每個市場的最新賠率以及全國地圖，看到投機者對美國參議院和眾議院各場單獨競選結果的預期。該中心還將提供民調平均值，以便觀眾瞭解預測市場賠率與選民統計調查結果之間的對比；提供針對個別候選人的最新聯邦選舉委員會（FEC）籌款報告；以及來自各大媒體的精選新聞和分析。"
+    },
     {
       "id": "5002658",
       "time": "2026-07-22 21:54:09",
