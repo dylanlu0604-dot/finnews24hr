@@ -1,7 +1,81 @@
 {
   "date": "2026-07-22",
-  "count": 820,
+  "count": 828,
   "items": [
+    {
+      "id": "5001223",
+      "time": "2026-07-22 09:57:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克回應OpenAI模型逃逸：令人不安，"
+    },
+    {
+      "id": "mkt:019f878a-2ed1-7aab-8e37-7e12d5b1d81f",
+      "time": "2026-07-22 09:56:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "09926.HK",
+        "Impact bullish",
+        "02359.HK",
+        "01877.HK"
+      ],
+      "text": "Hong Kong biotech shares rallied: Kangfang Bio (09926.HK) rose over 7%; Rongchang Bio (09995.HK) and Tigermed (03347.HK) gained more than 4% each; Junshi Biosciences (01877.HK), WuXi AppTec (02359.HK) and several peers advanced over 3%; NuoCheng Jianhua (09969.HK) and Fuhong Hanlin (02696.HK) also climbed. U.S. President Trump said on social media on July 21 that all imported generic drugs will continue to be subject to zero tariffs for two years starting Aug. 1, 2026; after that two-year period the products would face a 100% tariff for one year, then a 200% tariff thereafter."
+    },
+    {
+      "id": "te:markets:568679",
+      "time": "2026-07-22 09:56:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Trades at 2-Month High — US heating oil prices rose to around $4.10 per gallon, the highest level in two months, as concerns over deeper supply disruptions intensified. The US continued strikes on Iranian military targets for an 11th consecutive night, while Yemen’s Iran-aligned Houthis threatened attacks on Saudi oil vessels in the Bab el-Mandeb Strait and announced a naval blockade of Saudi Arabia. President Donald Trump also downplayed the chances of imminent negotiations with Iran and threatened expanded strikes. Beyond the Middle East, supply risks extended to the Black Sea, where attacks targeted the Caspian Pipeline Consortium terminal, a key outlet for Kazakhstan’s crude exports. Markets also faced tighter refined fuel supplies from continued Ukrainian attacks on Russian refineries following Moscow’s diesel export ban, while seasonal refinery maintenance and years of refinery closures in the US and Europe added further pressure."
+    },
+    {
+      "id": "5001222",
+      "time": "2026-07-22 09:56:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨買入額達20億港元。"
+    },
+    {
+      "id": "5001221",
+      "time": "2026-07-22 09:55:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【杭州銀行與恒生電子達成全面戰略合作】7月21日，杭州銀行與恒生電子在杭州簽署全面戰略合作協議。雙方將共同圍繞金融科技發展戰略，推動金融科技賦能業務快速創新，在財富管理、資產管理、金融市場、資產託管、企業金融等領域深化合作。同時，雙方將聯合在自主可控升級、大模型應用、新一代系統升級、場景金融IT解決方案等領域探索聯合創新，共同推動新技術應用的研究和落地，共建創新實驗室，為持續合作注入新動能。"
+    },
+    {
+      "id": "mkt:019f8788-0983-7aab-8e37-7336d9da9c34",
+      "time": "2026-07-22 09:54:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Newly listed N Qiaoluming jumps over 30% on debut. The company develops, manufactures and sells automotive trim; principal products are interior trim, exterior trim and associated molds."
+    },
+    {
+      "id": "5001220",
+      "time": "2026-07-22 09:53:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【弘信電子在無錫新設科技公司 含多項AI業務】企查查APP顯示，近日，無錫燧弘華資科技有限公司成立，法定代表人為毛燕，註冊資本為2000萬元，經營範圍包含人工智慧應用軟體開發；人工智慧公共資料平臺；人工智慧基礎軟體開發；人工智慧雙創服務平臺等。企查查股權穿透顯示，該公司由弘信電子(300657)旗下江蘇燧弘華創科技有限公司全資持股。"
+    },
+    {
+      "id": "5001219",
+      "time": "2026-07-22 09:53:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【樂舒適預計2026年上半年營收利潤雙位數增長】在非洲等新興市場銷售衛生用品的樂舒適釋出正面盈利預告，預計2026年上半年營收不少於3.28億美元（約合人民幣22億元），同比增加不少於28%；利潤不少於0.73億美元（約合人民幣4.9億元），同比增加不少於40%；剔除上市開支及外匯波動影響的經調整淨利潤不少於0.75億美元（約合人民幣5.1億元），同比增加不少於47%。該公司表示，上半年收入增長得益於深化銷售渠道、最佳化生產佈局及開拓市場帶來的整體銷量提升，以及多數經營地區匯率利好令平均銷售單價提升；利潤增長得益於毛利增加、銀行結餘產生的收益增加，以及開支減少。樂舒適拆分自森大集團的快消衛品業務，於2025年11月在港交所上市。森大集團是一家總部位於廣州，主要做非洲市場貿易的大型跨國集團。"
+    },
     {
       "id": "mkt:019f8786-977d-7aab-8e37-6e3414a96cbe",
       "time": "2026-07-22 09:52:52",
