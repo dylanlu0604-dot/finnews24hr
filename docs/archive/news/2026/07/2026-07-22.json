@@ -1,7 +1,97 @@
 {
   "date": "2026-07-22",
-  "count": 2530,
+  "count": 2540,
   "items": [
+    {
+      "id": "5002422",
+      "time": "2026-07-22 19:59:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【立新能源：股價異常波動 提示多項經營及交易風險】立新能源公告稱，7月20 - 22日公司股票收盤價格漲幅偏離值累計超20%，屬異常波動情形。截至22日收盤，公司滾動市盈率和市淨率均高於行業均值。公司面臨可再生能源補貼回款不及時、市場化電價承壓等風險，無算力產業相關業務佈局。預計2026年半年度淨利潤6000 - 8000萬元，較2023、2024年同期下降。截至6月末，應收可再生能源補貼款餘額約31.35億元。近期股價波動受情緒因素驅動，存在回撥震盪風險。"
+    },
+    {
+      "id": "5002421",
+      "time": "2026-07-22 19:58:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【恩捷股份：擬以1億元至2億元回購股份用於股權激勵或員工持股計劃】恩捷股份(002812.SZ)公告稱，公司擬以集中競價方式回購股份，回購金額不低於1億元且不超過2億元，回購價格不超過93元/股。回購股份將用於實施股權激勵或員工持股計劃，回購期限自董事會審議透過之日起6個月內。"
+    },
+    {
+      "id": "5002420",
+      "time": "2026-07-22 19:58:23",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【經濟日報：穩市組合拳提振資本市場發展信心】近段時間，市場震盪加劇，科技板塊迎來階段性調整，部分投資者對市場長期走勢產生疑慮。面對市場波動，證監會連續兩天召開多場座談會，及時傳遞穩預期訊號。7月20日，主要聽取投資者的意見建議；7月21日，分別聽取上市公司、行業機構、專家學者的意見建議。回顧A股歷次關鍵調整節點，監管層組織座談會均是穩定市場預期、化解市場風險的重要舉措。這兩天的多場座談會同樣釋放出監管層穩市的堅定決心。對於本輪市場回撥的原因，市場普遍認為主要源於外部情緒擾動下的結構性調整，而非經濟基本面或產業趨勢逆轉，A股中長期向好格局仍具備支撐。從政策環境看，當前我國經濟呈現總體平穩、向新向優的發展態勢，新“國九條”釋出以來，資本市場整體生態發生深刻變化，投融資綜合改革效應持續釋放，上市公司質量和投資價值有效提升，保持市場穩健執行具備堅實基礎。從資金動向看，各類經營主體正以“真金白銀”逆勢加大布局力度，打出穩市“組合拳”，多方協同穩市，以實際行動傳遞對資本市場發展前景的堅定信心。近日密集的回購與增持，將更好維護公司價值和全體股東利益。相較於短期行情波動，上市公司實打實的經營業績是衡量價值的重要標準，也是消解市場疑慮的答案之一。從盈利資料看，截至7月19日，深市已披露業績預告的900家公司中，以預披露淨利潤上下限平均值計算，淨利潤合計約2307.36億元，同比增長147%。"
+    },
+    {
+      "id": "5002419",
+      "time": "2026-07-22 19:58:04",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【國務院國資委：深入實施“AI+”專項行動】7月21日至22日，國務院國資委舉辦中央企業負責人研討班。在著力推動產業深度轉型升級方面，會議強調，國資央企要制定實施好本企業“十五五”規劃。國資委將深化拓展中央企業數智化轉型行動，深入實施“AI+”專項行動，打造更多戰略性、高價值場景和高質量資料集，促進數智技術與企業生產經營深度融合，持續鞏固產業優勢。統籌推進鋼鐵、有色、建材、石化、化工等重點行業綠色化改造。堅持分類推進、梯次培育、長期主義，鞏固提升煥新、啟航行動成效，加快打造新興支柱產業。"
+    },
+    {
+      "id": "5002418",
+      "time": "2026-07-22 19:57:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "深圳市越疆科技股份有限公司稽核狀態變更為上市委會議透過。"
+    },
+    {
+      "id": "mkt:019f89af-9b08-7aab-8e47-1ce7a224ba11",
+      "time": "2026-07-22 19:56:54",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【SASAC: central SOEs logged 1.4 tln yuan profit in Jan-Jun】SASAC said central state-owned enterprises recorded aggregate profit of 1.4 tln yuan in Jan–Jun and their fixed-asset investment rose 4.5% YoY over the period. SASAC said central SOEs are focused on meeting annual targets and implementing targeted quality-and-efficiency improvement measures."
+    },
+    {
+      "id": "mkt:019f89af-2eaf-7aab-8e47-15b9d9ea61a8",
+      "time": "2026-07-22 19:56:27",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China Life Group holds 1H management meeting; domestic public-market equity holdings exceed 1.3 tln yuan】China Life Group held its 1H operations meeting in Beijing on July 22. Under new accounting standards, consolidated operating revenue topped 520 bln yuan in 1H, up over 60% YoY; consolidated net profit exceeded 130 bln yuan. Consolidated total assets surpassed 9.0 tln yuan and assets under management reached 18.5 tln yuan. Regulator-calculated consolidated premiums exceeded 620 bln yuan. Sum insured exceeded 1,000 tln yuan and claims paid totaled 278.6 bln yuan. As of end-June 2026, the group’s insurance-fund investments in the real economy exceeded 6.0 tln yuan; domestic public-market equity holdings exceeded 1.3 tln yuan, reaffirming support for capital-market development."
+    },
+    {
+      "id": "mkt:019f89ae-bf79-7aab-8e47-0da14c92c0b6",
+      "time": "2026-07-22 19:55:58",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Sources say Glencore plans large-scale withdrawals of lead from LME warehouses."
+    },
+    {
+      "id": "5002417",
+      "time": "2026-07-22 19:55:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "杜塞爾多夫德國檢察官就德意志銀行辦公室搜查事宜回應：經濟犯罪部門正在開展調查，但受稅務保密法限制，無法披露更多資訊。"
+    },
+    {
+      "id": "5002416",
+      "time": "2026-07-22 19:55:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，嘉能可計劃從倫敦金屬交易所（LME）倉庫提領大量鉛。"
+    },
     {
       "id": "5002415",
       "time": "2026-07-22 19:54:22",
