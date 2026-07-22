@@ -1,7 +1,35 @@
 {
-  "updated": "2026-07-23 03:28:36",
-  "count": 17669,
+  "updated": "2026-07-23 03:32:34",
+  "count": 17667,
   "items": [
+    {
+      "id": "5002985",
+      "time": "2026-07-23 03:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克埃爾比勒再次傳來爆炸聲。"
+    },
+    {
+      "id": "5002984",
+      "time": "2026-07-23 03:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西駐美大使：政府正評估在世貿組織重啟相關爭端程式。"
+    },
+    {
+      "id": "mkt:019f8b4d-941f-7aab-8e50-c4da9106a01b",
+      "time": "2026-07-23 03:29:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian media Fars News reported explosions heard in Erbil, Iraq."
+    },
     {
       "id": "mkt:019f8b4a-7292-7aab-8e50-be36fba78151",
       "time": "2026-07-23 03:25:39",
@@ -161221,50 +161249,6 @@
         "國際"
       ],
       "text": "市場資訊：特朗普傾向於擴大在伊朗的軍事行動。"
-    },
-    {
-      "id": "4990652",
-      "time": "2026-07-16 03:32:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗阿巴斯港傳出爆炸聲。"
-    },
-    {
-      "id": "4990651",
-      "time": "2026-07-16 03:31:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：以色列正在輸掉在美國國內的輿論戰。"
-    },
-    {
-      "id": "4990650",
-      "time": "2026-07-16 03:31:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西咖啡出口商會：2026/27作物年度巴西咖啡出口量將達4500萬袋。"
-    },
-    {
-      "id": "mkt:019f6741-8ae5-7aab-8daf-96079373b6f4",
-      "time": "2026-07-16 03:29:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "NewsNation reported that Trump said if a solution cannot be reached with Iran’s Islamic Revolutionary Guard Corps, the United States may seek to eliminate it as was done with ISIS."
-    },
-    {
-      "id": "4990647",
-      "time": "2026-07-16 03:28:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談以色列：我可以百分百確定，以色列政府內部部分人士正試圖推動美國調整現有政策，只因他們希望持續開展軍事行動。我們完全能夠證實，以色列體制記憶體在一部分人，一直在操縱輿論、試圖扭轉美國民眾態度，目的是讓戰爭無限期持續下去。重申一遍，他們沒有設定任何階段性目標，只是單純想讓戰事無休止延續。"
     }
   ]
 }

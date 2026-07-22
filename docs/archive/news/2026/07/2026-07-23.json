@@ -1,7 +1,35 @@
 {
   "date": "2026-07-23",
-  "count": 274,
+  "count": 277,
   "items": [
+    {
+      "id": "5002985",
+      "time": "2026-07-23 03:31:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：伊拉克埃爾比勒再次傳來爆炸聲。"
+    },
+    {
+      "id": "5002984",
+      "time": "2026-07-23 03:29:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西駐美大使：政府正評估在世貿組織重啟相關爭端程式。"
+    },
+    {
+      "id": "mkt:019f8b4d-941f-7aab-8e50-c4da9106a01b",
+      "time": "2026-07-23 03:29:04",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian media Fars News reported explosions heard in Erbil, Iraq."
+    },
     {
       "id": "mkt:019f8b4a-7292-7aab-8e50-be36fba78151",
       "time": "2026-07-23 03:25:39",
