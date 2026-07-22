@@ -1,7 +1,84 @@
 {
   "date": "2026-07-23",
-  "count": 392,
+  "count": 399,
   "items": [
+    {
+      "id": "mkt:019f8ba2-3e8c-7aab-8e52-56a8a704c9f0",
+      "time": "2026-07-23 05:01:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) CFO said the company is revising 2026 full-year capital expenditure guidance to $195–205 bln."
+    },
+    {
+      "id": "5003053",
+      "time": "2026-07-23 05:01:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet： 受算力產能瓶頸制約，我們計劃在第三季度加大第三方算力資源採購，同時持續擴建自有內部算力基礎設施。"
+    },
+    {
+      "id": "mkt:019f8ba1-8fec-7aab-8e52-4939a43e95c1",
+      "time": "2026-07-23 05:00:48",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Alphabet (GOOG.O) CFO said that, given current compute capacity constraints, the company plans to increase use of third-party compute resources in Q3 while continuing to expand its internal compute infrastructure."
+    },
+    {
+      "id": "5003052",
+      "time": "2026-07-23 05:00:40",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "Alphabet： 全年資本支出預期區間為 1950 億至 2050 億美元，此前指引為 1800 億至 1900 億美元。"
+    },
+    {
+      "id": "mkt:019f8ba0-3ea5-7aab-8e52-44fb05151ced",
+      "time": "2026-07-23 04:59:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "State-run Press TV reported multiple explosions in Sirik, southern Iran."
+    },
+    {
+      "id": "mkt:019f8ba0-170b-7aab-8e52-3dc579c2b963",
+      "time": "2026-07-23 04:59:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) CEO says the company will begin recognizing TPU sales revenue starting in Q2."
+    },
+    {
+      "id": "5003051",
+      "time": "2026-07-23 04:58:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊：公司預計外匯匯率波動將對第三季度合併營收產生小幅不利影響。"
+    },
     {
       "id": "5003050",
       "time": "2026-07-23 04:57:51",
