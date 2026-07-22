@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-22 08:54:57",
-  "count": 18082,
+  "updated": "2026-07-22 08:58:55",
+  "count": 18080,
   "items": [
+    {
+      "id": "te:markets:568656",
+      "time": "2026-07-22 08:58:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rally on Tech Boost — The Nikkei 225 Index jumped 2% to above 67,000, while the broader Topix Index gained 1% to 4,055 on Wednesday, extending the previous session’s advance as semiconductor stocks tracked a strong rally on Wall Street. Chipmakers supported the broader market after robust export data from Taiwan and South Korea boosted confidence in the sector. Super Micro Computer also soared in extended trading after announcing a record order backlog driven by strong demand for its AI-optimized servers. Leading technology gainers in Japan included Kioxia Holdings (8.2%), SoftBank Group (4.1%), Murata Manufacturing (6.9%), Taiyo Yuden (11%), and Advantest (4.3%). Meanwhile, the Japanese yen sank to a fresh 40-year low as higher oil prices, a stronger US dollar, and rising Treasury yields continued to weigh on the currency. On the data front, Japan’s trade balance shifted to a deficit in June as import growth outpaced exports."
+    },
+    {
+      "id": "mkt:019f8754-06e4-7aab-8e35-5066c8da0015",
+      "time": "2026-07-22 08:57:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Wistron’s Texas plant makes first U.S. NVIDIA GB300 substrate; Jensen Huang says more AI factories needed】Wistron opened its D1 AI factory in Fort Worth, Texas on the 21st (US Central Time), a roughly $700m, 324,000 sq ft facility. The plant has produced and begun volume production of the first U.S.-made NVIDIA GB300 compute substrate. NVIDIA CEO Jensen Huang attended and said AI demand remains strong, NVIDIA is growing ~doubling annually and will need more AI factories, making capacity expansion necessary. Wistron chairman Lin Xianming said the company will build a D2 plant twice the size of D1 and may evaluate additional D3 and D4 sites."
+    },
+    {
+      "id": "5001104",
+      "time": "2026-07-22 08:57:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普批准與沙特達成里程碑式核協議】據報道，美國官員透露，特朗普總統已正式批准與沙烏地阿拉伯簽署一項具有里程碑意義的協議。協議將為沙特搭建民用核專案體系，或為沙特本土開展鈾濃縮活動鋪平道路。這份新協議有效期 30 年，預估價值數百億美元。協議安排美國企業主導沙特核基礎設施建設，同時排擠其他海外競爭對手。協議一項核心條款規定：若美沙聯合評估認定具備實施條件，將由美國企業在沙特境內建設鈾濃縮設施。特朗普政府官員稱，此舉能夠讓美國對沙特核計劃保持影響力，同時防範相關核設施被挪用至軍事用途。"
+    },
+    {
+      "id": "5001103",
+      "time": "2026-07-22 08:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月21日429股獲融資買入超億元 中際旭創穫買入95.92億元居首】7月21日共有3507只個股獲融資資金買入，有429股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入95.92億元、65.09億元、48.47億元。"
+    },
+    {
+      "id": "mkt:019f8752-3dc0-7aab-8e35-4b80bfd9c1ff",
+      "time": "2026-07-22 08:55:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports President Trump approved a landmark nuclear agreement with Saudi Arabia."
+    },
+    {
+      "id": "5001102",
+      "time": "2026-07-22 08:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普批准與沙烏地阿拉伯達成具有里程碑意義的核協議。"
+    },
     {
       "id": "5001101",
       "time": "2026-07-22 08:54:00",
@@ -166170,83 +166229,6 @@
         "Importance 1"
       ],
       "text": "Canadian Dollar Hits 4-week High — The Canadian Dollar touched 1.40 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar gained 0.38%, and in the last 12 months, it increased 2.62%."
-    },
-    {
-      "id": "4988730",
-      "time": "2026-07-15 08:58:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【7月14日397股獲融資買入超億元 中際旭創穫買入64.73億元居首】7月14日共有3509只個股獲融資資金買入，有397股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入64.73億元、51.97億元、51.05億元。"
-    },
-    {
-      "id": "4988729",
-      "time": "2026-07-15 08:58:09",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金突破4060美元/盎司，日內漲0.16%。"
-    },
-    {
-      "id": "mkt:019f6347-6712-7aab-8d8c-a90458ffc07e",
-      "time": "2026-07-15 08:57:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact mixed",
-        "005930.KS"
-      ],
-      "text": "【BofA: SK Hynix's incremental capacity to 2028 may be only one-sixth of plan】BofA said technology-driven retirements of older fabs will limit South Korea's annual wafer capacity growth to under 10%, well short of the official 2030 doubling target. BofA estimates SK Hynix's incremental memory capacity through 2028 could be only one-sixth of its original plan. Construction and equipment-installation cycles for large new Samsung and SK Hynix wafer fabs in Gwangju and Jeollanam-do could stretch to as long as ten years."
-    },
-    {
-      "id": "4988728",
-      "time": "2026-07-15 08:57:27",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國券商商議上調晶片槓桿型ETF投資門檻】韓國金融投資協會訊息，十家韓國頭部資產管理公司執行長召開會議，商議推出針對單一股票槓桿型ETF的投資者保護舉措，內容包含提高最低投資保證金、分散調倉交易時點等。協會發布宣告稱，參會各方達成共識，計劃上調此類槓桿產品的最低投資准入資金，現行標準為1000萬韓元（摺合6714美元）。資管機構表示，為緩解每日調倉交易集中在收盤時段對市場造成的衝擊，需將調倉操作分散至全天交易時段開展。參會企業同時提出，要進一步強化流動性提供商的市場維穩作用。韓國金融投資協會援引韓國資本市場研究院的資料稱，自相關槓桿ETF上市以來，每日進行再平衡所需的股票交易量估計約為7000億至2.1萬億韓元。"
-    },
-    {
-      "id": "4988727",
-      "time": "2026-07-15 08:56:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上海釋出高溫橙色預警，中心城區大部最高氣溫將超37℃】上海市氣象臺2026年7月15日8時00分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。"
-    },
-    {
-      "id": "4988726",
-      "time": "2026-07-15 08:55:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【美銀：SK海力士2028年新增產能或僅為計劃的六分之一】當地時間7月14日，美銀髮布報告稱，由於技術升級導致舊廠關閉，韓國年均晶圓產能實際增速將低於10%，遠不及官方設定的2030年翻倍目標。SK海力士到2028年的新增記憶體產能可能僅為原計劃的六分之一。此外，三星與SK海力士在光州和全羅新建大型晶圓廠的建設及裝置鋪設週期恐拉長至十年。"
-    },
-    {
-      "id": "4988725",
-      "time": "2026-07-15 08:55:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：韓國券商討論提高晶片槓桿ETF的保證金。"
-    },
-    {
-      "id": "te:markets:566951",
-      "time": "2026-07-15 08:55:19",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Mitsui Stock Price Hits 4-week High — Mitsui shares increased to 4812.00 JPY, the highest since June 2026. Over the past 4 weeks, Mitsui lost 0.74%, and in the last 12 months, it increased 60.98%."
     }
   ]
 }

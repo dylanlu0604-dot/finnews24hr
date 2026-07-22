@@ -1,7 +1,66 @@
 {
   "date": "2026-07-22",
-  "count": 629,
+  "count": 635,
   "items": [
+    {
+      "id": "te:markets:568656",
+      "time": "2026-07-22 08:58:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Japanese Shares Rally on Tech Boost — The Nikkei 225 Index jumped 2% to above 67,000, while the broader Topix Index gained 1% to 4,055 on Wednesday, extending the previous session’s advance as semiconductor stocks tracked a strong rally on Wall Street. Chipmakers supported the broader market after robust export data from Taiwan and South Korea boosted confidence in the sector. Super Micro Computer also soared in extended trading after announcing a record order backlog driven by strong demand for its AI-optimized servers. Leading technology gainers in Japan included Kioxia Holdings (8.2%), SoftBank Group (4.1%), Murata Manufacturing (6.9%), Taiyo Yuden (11%), and Advantest (4.3%). Meanwhile, the Japanese yen sank to a fresh 40-year low as higher oil prices, a stronger US dollar, and rising Treasury yields continued to weigh on the currency. On the data front, Japan’s trade balance shifted to a deficit in June as import growth outpaced exports."
+    },
+    {
+      "id": "mkt:019f8754-06e4-7aab-8e35-5066c8da0015",
+      "time": "2026-07-22 08:57:38",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【Wistron’s Texas plant makes first U.S. NVIDIA GB300 substrate; Jensen Huang says more AI factories needed】Wistron opened its D1 AI factory in Fort Worth, Texas on the 21st (US Central Time), a roughly $700m, 324,000 sq ft facility. The plant has produced and begun volume production of the first U.S.-made NVIDIA GB300 compute substrate. NVIDIA CEO Jensen Huang attended and said AI demand remains strong, NVIDIA is growing ~doubling annually and will need more AI factories, making capacity expansion necessary. Wistron chairman Lin Xianming said the company will build a D2 plant twice the size of D1 and may evaluate additional D3 and D4 sites."
+    },
+    {
+      "id": "5001104",
+      "time": "2026-07-22 08:57:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普批准與沙特達成里程碑式核協議】據報道，美國官員透露，特朗普總統已正式批准與沙烏地阿拉伯簽署一項具有里程碑意義的協議。協議將為沙特搭建民用核專案體系，或為沙特本土開展鈾濃縮活動鋪平道路。這份新協議有效期 30 年，預估價值數百億美元。協議安排美國企業主導沙特核基礎設施建設，同時排擠其他海外競爭對手。協議一項核心條款規定：若美沙聯合評估認定具備實施條件，將由美國企業在沙特境內建設鈾濃縮設施。特朗普政府官員稱，此舉能夠讓美國對沙特核計劃保持影響力，同時防範相關核設施被挪用至軍事用途。"
+    },
+    {
+      "id": "5001103",
+      "time": "2026-07-22 08:55:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月21日429股獲融資買入超億元 中際旭創穫買入95.92億元居首】7月21日共有3507只個股獲融資資金買入，有429股買入金額超億元。其中，中際旭創、新易盛、兆易創新融資買入金額排名前三，分別獲買入95.92億元、65.09億元、48.47億元。"
+    },
+    {
+      "id": "mkt:019f8752-3dc0-7aab-8e35-4b80bfd9c1ff",
+      "time": "2026-07-22 08:55:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wall Street Journal reports President Trump approved a landmark nuclear agreement with Saudi Arabia."
+    },
+    {
+      "id": "5001102",
+      "time": "2026-07-22 08:55:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普批准與沙烏地阿拉伯達成具有里程碑意義的核協議。"
+    },
     {
       "id": "5001101",
       "time": "2026-07-22 08:54:00",
