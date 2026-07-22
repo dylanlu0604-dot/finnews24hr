@@ -1,7 +1,159 @@
 {
   "date": "2026-07-22",
-  "count": 2229,
+  "count": 2247,
   "items": [
+    {
+      "id": "5002200",
+      "time": "2026-07-22 18:25:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆】2026年7月21日，中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆，雙方就全球經濟金融形勢、中國宏觀經濟政策、加拿大養老基金投資公司在華展業等議題進行了交流。（中國人民銀行）"
+    },
+    {
+      "id": "5002199",
+      "time": "2026-07-22 18:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將閃迪（程式碼：SNDK.O）其目標股價從1250美元上調至1620美元。"
+    },
+    {
+      "id": "mkt:019f895b-b795-7aab-8e45-40c8b8a97e03",
+      "time": "2026-07-22 18:25:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【PBOC Deputy Governor Xuan Changneng meets CPPIB CEO John Graham】On July 21, 2026, PBOC Deputy Governor Xuan Changneng met with John Graham, president and CEO of the Canada Pension Plan Investment Board (CPPIB), to discuss the global economic and financial outlook, China’s macroeconomic policy and CPPIB’s business expansion in China."
+    },
+    {
+      "id": "mkt:019f895b-364c-7aab-8e45-3f243c664381",
+      "time": "2026-07-22 18:24:43",
+      "tags": [
+        "MKT News",
+        "GM.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raised its PT on GM to $61 from $60."
+    },
+    {
+      "id": "mkt:019f895b-130d-7aab-8e45-37e1171c86b1",
+      "time": "2026-07-22 18:24:34",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raised its PT on SanDisk (SNDK.O) to $1,620 from $1,250."
+    },
+    {
+      "id": "5002197",
+      "time": "2026-07-22 18:24:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電網路：聘任張延兵為總經理、王江紅為副總經理】廣電網路公告稱，2026年7月22日召開的第九屆董事會第三十六次會議，審議透過聘任張延兵為公司總經理、王江紅為公司副總經理的議案，表決結果均為7票同意、0票反對、0票棄權。"
+    },
+    {
+      "id": "mkt:019f895a-d68a-7aab-8e45-2cb672de7237",
+      "time": "2026-07-22 18:24:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian President Putin said fuel market difficulties are temporary."
+    },
+    {
+      "id": "5002196",
+      "time": "2026-07-22 18:24:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大晟文化：擬向控股股東展期借款1.48億元】大晟文化公告稱，公司擬向控股股東唐山文旅申請對仍在存續狀態下的合計1.48億元借款展期180天，展期期間利率不變，且無需提供擔保。該事項已透過2026年第三次獨立董事專門會議及第十二屆董事會第十五次會議審議，尚需提交股東會審議。截至公告披露日，公司累計向唐山文旅申請借款額度2.6億元，當前借款餘額2.01億元。"
+    },
+    {
+      "id": "mkt:019f895a-be2b-7aab-8e45-26a71cc0b72c",
+      "time": "2026-07-22 18:24:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Putin says Russia's five-month GDP growth is 0.2%."
+    },
+    {
+      "id": "mkt:019f895a-9f72-7aab-8e45-1a92bb89b2d8",
+      "time": "2026-07-22 18:24:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia's budget recorded a 196 billion ruble surplus in June."
+    },
+    {
+      "id": "5002195",
+      "time": "2026-07-22 18:23:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：6月份預算執行完畢，盈餘1960億盧布。"
+    },
+    {
+      "id": "mkt:019f895a-6ce1-7aab-8e45-13659b6c1c10",
+      "time": "2026-07-22 18:23:52",
+      "tags": [
+        "MKT News",
+        "Nasdaq100"
+      ],
+      "text": "Invesco Nasdaq Tech ETF said it will suspend trading from market open on July 23, 2026 and will resume at 10:30 on July 23, 2026. Redemption requests will be processed as normal during the suspension."
+    },
+    {
+      "id": "5002194",
+      "time": "2026-07-22 18:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯前五個月的GDP增長率為0.2%。"
+    },
+    {
+      "id": "5002193",
+      "time": "2026-07-22 18:22:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF匯添富：提示基金二級市場交易價格溢價風險】納指ETF匯添富公告稱，2026年7月22日，本基金二級市場收盤價為2.276元，收盤時基金份額參考淨值（IOPV）為2.1576元，交易價格明顯高於淨值，出現較大幅度溢價。提醒投資者關注溢價風險，審慎投資。若7月23日溢價幅度未有效回落，基金有權申請臨時停牌等措施。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "5002192",
+      "time": "2026-07-22 18:22:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：二級市場價格溢價 7月23日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月22日收盤價為2.604元，參考淨值為2.2434元。為保護投資者利益，基金於7月23日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月23日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "te:markets:568867",
+      "time": "2026-07-22 18:22:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "TE Connectivity earnings above expectations at 2.94 USD — TE Connectivity (TEL) released earnings per share at 2.94 USD, compared to market expectations of 2.84 USD."
+    },
+    {
+      "id": "5002191",
+      "time": "2026-07-22 18:21:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【GE Vernova美股盤前漲超5%】GE Vernova美股盤前漲超5%，現報1140.0美元。"
+    },
     {
       "id": "mkt:019f8958-61bb-7aab-8e45-0c45756f31d4",
       "time": "2026-07-22 18:21:38",
@@ -11,6 +163,14 @@
         "Impact bullish"
       ],
       "text": "Germany's DAX index up 1.00% intraday."
+    },
+    {
+      "id": "5002190",
+      "time": "2026-07-22 18:21:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：燃料市場的困境不會影響經濟。"
     },
     {
       "id": "mkt:019f8958-52ac-7aab-8e45-000011382e1f",

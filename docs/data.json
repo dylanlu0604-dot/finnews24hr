@@ -1,7 +1,159 @@
 {
-  "updated": "2026-07-22 18:22:14",
-  "count": 18006,
+  "updated": "2026-07-22 18:26:10",
+  "count": 18007,
   "items": [
+    {
+      "id": "5002200",
+      "time": "2026-07-22 18:25:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆】2026年7月21日，中國人民銀行副行長宣昌能會見加拿大養老基金投資公司總裁兼執行長約翰·格雷厄姆，雙方就全球經濟金融形勢、中國宏觀經濟政策、加拿大養老基金投資公司在華展業等議題進行了交流。（中國人民銀行）"
+    },
+    {
+      "id": "5002199",
+      "time": "2026-07-22 18:25:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "富國銀行將閃迪（程式碼：SNDK.O）其目標股價從1250美元上調至1620美元。"
+    },
+    {
+      "id": "mkt:019f895b-b795-7aab-8e45-40c8b8a97e03",
+      "time": "2026-07-22 18:25:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "【PBOC Deputy Governor Xuan Changneng meets CPPIB CEO John Graham】On July 21, 2026, PBOC Deputy Governor Xuan Changneng met with John Graham, president and CEO of the Canada Pension Plan Investment Board (CPPIB), to discuss the global economic and financial outlook, China’s macroeconomic policy and CPPIB’s business expansion in China."
+    },
+    {
+      "id": "mkt:019f895b-364c-7aab-8e45-3f243c664381",
+      "time": "2026-07-22 18:24:43",
+      "tags": [
+        "MKT News",
+        "GM.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raised its PT on GM to $61 from $60."
+    },
+    {
+      "id": "mkt:019f895b-130d-7aab-8e45-37e1171c86b1",
+      "time": "2026-07-22 18:24:34",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bullish"
+      ],
+      "text": "Wells Fargo raised its PT on SanDisk (SNDK.O) to $1,620 from $1,250."
+    },
+    {
+      "id": "5002197",
+      "time": "2026-07-22 18:24:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【廣電網路：聘任張延兵為總經理、王江紅為副總經理】廣電網路公告稱，2026年7月22日召開的第九屆董事會第三十六次會議，審議透過聘任張延兵為公司總經理、王江紅為公司副總經理的議案，表決結果均為7票同意、0票反對、0票棄權。"
+    },
+    {
+      "id": "mkt:019f895a-d68a-7aab-8e45-2cb672de7237",
+      "time": "2026-07-22 18:24:19",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Russian President Putin said fuel market difficulties are temporary."
+    },
+    {
+      "id": "5002196",
+      "time": "2026-07-22 18:24:17",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大晟文化：擬向控股股東展期借款1.48億元】大晟文化公告稱，公司擬向控股股東唐山文旅申請對仍在存續狀態下的合計1.48億元借款展期180天，展期期間利率不變，且無需提供擔保。該事項已透過2026年第三次獨立董事專門會議及第十二屆董事會第十五次會議審議，尚需提交股東會審議。截至公告披露日，公司累計向唐山文旅申請借款額度2.6億元，當前借款餘額2.01億元。"
+    },
+    {
+      "id": "mkt:019f895a-be2b-7aab-8e45-26a71cc0b72c",
+      "time": "2026-07-22 18:24:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Putin says Russia's five-month GDP growth is 0.2%."
+    },
+    {
+      "id": "mkt:019f895a-9f72-7aab-8e45-1a92bb89b2d8",
+      "time": "2026-07-22 18:24:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Putin said Russia's budget recorded a 196 billion ruble surplus in June."
+    },
+    {
+      "id": "5002195",
+      "time": "2026-07-22 18:23:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：6月份預算執行完畢，盈餘1960億盧布。"
+    },
+    {
+      "id": "mkt:019f895a-6ce1-7aab-8e45-13659b6c1c10",
+      "time": "2026-07-22 18:23:52",
+      "tags": [
+        "MKT News",
+        "Nasdaq100"
+      ],
+      "text": "Invesco Nasdaq Tech ETF said it will suspend trading from market open on July 23, 2026 and will resume at 10:30 on July 23, 2026. Redemption requests will be processed as normal during the suspension."
+    },
+    {
+      "id": "5002194",
+      "time": "2026-07-22 18:23:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：俄羅斯前五個月的GDP增長率為0.2%。"
+    },
+    {
+      "id": "5002193",
+      "time": "2026-07-22 18:22:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF匯添富：提示基金二級市場交易價格溢價風險】納指ETF匯添富公告稱，2026年7月22日，本基金二級市場收盤價為2.276元，收盤時基金份額參考淨值（IOPV）為2.1576元，交易價格明顯高於淨值，出現較大幅度溢價。提醒投資者關注溢價風險，審慎投資。若7月23日溢價幅度未有效回落，基金有權申請臨時停牌等措施。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "5002192",
+      "time": "2026-07-22 18:22:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指科技ETF景順：二級市場價格溢價 7月23日停牌後復牌】納指科技ETF景順公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價，7月22日收盤價為2.604元，參考淨值為2.2434元。為保護投資者利益，基金於7月23日開市起停牌，10:30起復牌，停牌期間贖回業務照常辦理。若7月23日溢價幅度未有效回落，基金有權採取進一步停牌措施。目前基金運作正常，無應披露而未披露的重大資訊。"
+    },
+    {
+      "id": "te:markets:568867",
+      "time": "2026-07-22 18:22:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "TE Connectivity earnings above expectations at 2.94 USD — TE Connectivity (TEL) released earnings per share at 2.94 USD, compared to market expectations of 2.84 USD."
+    },
+    {
+      "id": "5002191",
+      "time": "2026-07-22 18:21:44",
+      "tags": [
+        "市場"
+      ],
+      "text": "【GE Vernova美股盤前漲超5%】GE Vernova美股盤前漲超5%，現報1140.0美元。"
+    },
     {
       "id": "mkt:019f8958-61bb-7aab-8e45-0c45756f31d4",
       "time": "2026-07-22 18:21:38",
@@ -11,6 +163,14 @@
         "Impact bullish"
       ],
       "text": "Germany's DAX index up 1.00% intraday."
+    },
+    {
+      "id": "5002190",
+      "time": "2026-07-22 18:21:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "普京：燃料市場的困境不會影響經濟。"
     },
     {
       "id": "mkt:019f8958-52ac-7aab-8e45-000011382e1f",
@@ -164881,167 +165041,6 @@
         "公司"
       ],
       "text": "【中糧信託：2026年上半年營收9.07億元 淨利潤同比增長20.66%】糧信託公告稱，2026年上半年，公司營收9.07億元，同比增長6.61%；淨利潤4.87億元，同比增長20.66%。手續費及佣金淨收入為7.50億元，同比增長14.05%；利息淨收入為399.71萬元，上年同期為虧損282.73萬元。營業支出為2.83億元，同比減少2.52%。"
-    },
-    {
-      "id": "mkt:019f654f-f6ca-7aab-8d9e-16eb53ee67b9",
-      "time": "2026-07-15 18:26:07",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "【Trump expected to urge defense industry to boost weapons output on Wednesday】President Trump is expected on Wednesday to urge senior defense officials and industry executives to accelerate weapons production and expand manufacturing capacity, citing strains on U.S. stockpiles from the Ukraine and Middle East conflicts and industrial bottlenecks. He will attend the closing roundtable of a two-day Defense and Innovation Summit at the U.S. Army War College in Pennsylvania hosted by Republican Senator McCormick, meeting senior military leaders, defense contractors, investors and tech executives. Trump is expected to announce several Pennsylvania-focused defense investment plans. The move signals a White House push to use Pentagon policy and procurement to spur factory investment, advanced manufacturing and domestic supply-chain development; he previously pressed munitions makers in June to speed production."
-    },
-    {
-      "id": "4989772",
-      "time": "2026-07-15 18:25:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【江豐電子：預計2026年半年度淨利潤4.8億-5.6億元，同比增長89.99%-121.65%】江豐電子公告，預計2026年半年度歸屬於上市公司股東的淨利潤為4.8億元-5.6億元，比上年同期的2.53億元增長89.99%-121.65%；扣除非經常性損益後的淨利潤為1.8億元-2.3億元，同比增長2.37%-30.81%。公司預計實現營業收入約27億元，較上年同期增長約30%。業績增長主要得益於全球半導體產業拓展與AI算力需求釋放，公司超高純金屬濺射靶材收入持續穩步增長，半導體精密零部件（氣體分配盤、真空閥、加熱器等）核心產品持續放量，第二增長曲線收入持續增長。報告期內，公司非經常性損益金額約3億元-3.3億元，主要系戰略投資芯聯整合公允價值變動、轉讓聯營企業部分股權等因素的綜合影響。"
-    },
-    {
-      "id": "mkt:019f654f-d4ed-7aab-8d9e-09fb0bba8404",
-      "time": "2026-07-15 18:25:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Thai official said Thailand has invited Myanmar President Min Aung Hlaing for an official visit."
-    },
-    {
-      "id": "4989771",
-      "time": "2026-07-15 18:25:13",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "強生公司公佈第二季度業績後，股價下跌。"
-    },
-    {
-      "id": "4989770",
-      "time": "2026-07-15 18:25:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1294.00美元/盎司。"
-    },
-    {
-      "id": "4989769",
-      "time": "2026-07-15 18:24:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：強生公司目前預計2026年調整後運營銷售額增長區間為6.2%-6.8%，此前預期為5.6%-6.6%。"
-    },
-    {
-      "id": "4989768",
-      "time": "2026-07-15 18:24:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "【貝萊德美股盤前漲超5%】貝萊德美股盤前漲超5%，現報1080.0美元。"
-    },
-    {
-      "id": "mkt:019f654e-2a97-7aab-8d9e-076a63a5b15c",
-      "time": "2026-07-15 18:24:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "CENTCOM said US forces at 6:00 a.m. ET launched a series of strikes on Iran aimed at further degrading Iranian military capabilities used to attack commercial shipping in the Strait of Hormuz."
-    },
-    {
-      "id": "4989767",
-      "time": "2026-07-15 18:23:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【晨光生物：子公司借款擔保情況變動 累計擔保額度13.68億元】晨光生物公告稱，公司曾同意在2025年年度股東會審議透過日至2026年年度股東會召開日，向融資機構申請融資業務餘額不超70億元，為子公司提供擔保餘額不超28億元。截至公告披露日，控股子公司巴州晟源歸還2億元借款，公司減少對應擔保義務；全資子公司莎車晨光獲招商銀行3000萬元授信，公司為其提供連帶責任保證。變動後，公司及子公司累計決議擔保總額28億元，已籤協議擔保額度13.68億元，佔最近一期經審計淨資產的40.36%，無逾期對外擔保。"
-    },
-    {
-      "id": "mkt:019f654d-e7a6-7aab-8d9d-ff073245e303",
-      "time": "2026-07-15 18:23:52",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Xiaomi",
-        "01810.HK",
-        "Impact bullish"
-      ],
-      "text": "HKEX website showed Xiaomi Group (01810.HK) repurchased 3.9 mln shares on July 15 for about HKD101 mln."
-    },
-    {
-      "id": "4989766",
-      "time": "2026-07-15 18:23:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【安路科技：預計上半年營業收入同比增長83.57%-101.48%】安路科技7月15日公告，預計2026年上半年實現營業收入4.1億元-4.5億元，同比增長83.57%-101.48%。該公司稱，報告期內業績變化的主要原因是受益於公司下游市場需求的持續回暖，以及新產品、新專案順利匯入後的逐步上量，公司營業收入同比顯著增長。其中在工業領域中，運控與伺服、電力與新能源、機器視覺等細分領域市場需求的持續大幅增加，帶動公司晶片產品的銷售收入同比顯著增長。同時，通訊領域的需求恢復，使得公司晶片產品的出貨量同比有所提升。隨著資料中心基礎設施需求的快速增長，公司晶片產品在資料中心領域的出貨量也明顯增加。"
-    },
-    {
-      "id": "mkt:019f654d-c078-7aab-8d9d-f357b85864c0",
-      "time": "2026-07-15 18:23:42",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact bearish",
-        "USDJPY"
-      ],
-      "text": "Dollar index (DXY) climbed above 101, up 0.07% intraday."
-    },
-    {
-      "id": "te:markets:567185",
-      "time": "2026-07-15 18:23:35",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "J&J earnings above expectations at 2.90 USD — J&J (JNJ) released earnings per share at 2.90 USD, compared to market expectations of 2.85 USD."
-    },
-    {
-      "id": "mkt:019f654d-7db0-7aab-8d9d-eb187f2ede7b",
-      "time": "2026-07-15 18:23:24",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Axios reports wiring-harness startup Senra plans to open a third factory after completing a $65m Series B round."
-    },
-    {
-      "id": "4989765",
-      "time": "2026-07-15 18:23:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍中央司令部：今天東部時間上午6點，美國中央司令部部隊開始對伊朗發動一波打擊行動。這些打擊旨在進一步削弱伊朗部隊用於攻擊霍爾木茲海峽商業航運的軍事能力。"
-    },
-    {
-      "id": "mkt:019f654c-e73e-7aab-8d9d-e1853f331361",
-      "time": "2026-07-15 18:22:46",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "【EU exempts Ukraine to buy non-EU drone parts as European capacity falls short】The European Commission has approved an exemption allowing Ukraine to use part of the initial ~€5.9bn tranche for drone procurement — from a €90bn support-loan package — to purchase drone components from suppliers outside the EU/approved partner list. EU funding rules normally prioritize purchases from EU, Ukrainian and authorized partners, but officials granted the exception after Ukraine’s rapid drone consumption outpaced European and allied ability to supply certain critical components. The decision highlights continued reliance of European defence supply chains on non-European manufacturing."
-    },
-    {
-      "id": "4989764",
-      "time": "2026-07-15 18:22:21",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "谷歌敦促歐盟最高法院支援撤銷17億美元反壟斷罰款的裁決。"
     }
   ]
 }
