@@ -1,7 +1,57 @@
 {
   "date": "2026-07-23",
-  "count": 374,
+  "count": 379,
   "items": [
+    {
+      "id": "5003041",
+      "time": "2026-07-23 04:43:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊發言人：葉門武裝部隊即將釋出宣告，宣佈開展一次特種軍事行動。"
+    },
+    {
+      "id": "5003040",
+      "time": "2026-07-23 04:42:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌 CEO 皮查伊：Gemini 正在拉動谷歌雲業務增長。"
+    },
+    {
+      "id": "mkt:019f8b90-3fd1-7aab-8e52-136e4e71bf23",
+      "time": "2026-07-23 04:41:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "【U.S. House passes $1.15 trillion defense authorization bill】The U.S. House passed the $1.15 trillion National Defense Authorization Act by a 216-212 margin. Seven Republicans voted against and six Democrats voted in favor."
+    },
+    {
+      "id": "5003039",
+      "time": "2026-07-23 04:40:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院正式透過第 8800 號眾議院法案 ——《2027 財年國防授權法案》，全部計票完成，贊成票 216 票，反對票 212 票。"
+    },
+    {
+      "id": "te:markets:568961",
+      "time": "2026-07-23 04:39:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rallies on Vale and WEG Results — The Ibovespa rose 2.4% to close at 177,548 on Wednesday, supported by strong corporate earnings. Vale advanced 4% after reporting that iron ore production rose 0.8% year-on-year in the April-June period, marking its strongest second-quarter output since 2018. Bradesco BBI reiterated its Buy rating after the company's sales volumes exceeded expectations. WEG jumped 10% after reporting healthy operating margins and return on invested capital in the second quarter, despite lower year-on-year EBITDA and revenue. Revenue from international markets increased 14.7% in US dollar terms, although the company said the appreciation of the Brazilian real weighed on reported revenue in local currency. Petrobras rose 2.2% as oil prices climbed amid escalating tensions in the Middle East. On the trade front, a 25% US tariff on a range of Brazilian products took effect on Wednesday. However, key exports including beef, coffee, rare earths, energy products, aircraft, and aircraft parts remain exempt."
+    },
     {
       "id": "mkt:019f8b8e-2bc8-7aab-8e52-0c6965b3076e",
       "time": "2026-07-23 04:39:38",

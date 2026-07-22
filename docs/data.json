@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-23 04:40:26",
-  "count": 17663,
+  "updated": "2026-07-23 04:46:53",
+  "count": 17662,
   "items": [
+    {
+      "id": "5003041",
+      "time": "2026-07-23 04:43:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "葉門武裝部隊發言人：葉門武裝部隊即將釋出宣告，宣佈開展一次特種軍事行動。"
+    },
+    {
+      "id": "5003040",
+      "time": "2026-07-23 04:42:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌 CEO 皮查伊：Gemini 正在拉動谷歌雲業務增長。"
+    },
+    {
+      "id": "mkt:019f8b90-3fd1-7aab-8e52-136e4e71bf23",
+      "time": "2026-07-23 04:41:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "LMT.O",
+        "Impact bullish",
+        "NOC.O",
+        "RTX.O"
+      ],
+      "text": "【U.S. House passes $1.15 trillion defense authorization bill】The U.S. House passed the $1.15 trillion National Defense Authorization Act by a 216-212 margin. Seven Republicans voted against and six Democrats voted in favor."
+    },
+    {
+      "id": "5003039",
+      "time": "2026-07-23 04:40:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國眾議院正式透過第 8800 號眾議院法案 ——《2027 財年國防授權法案》，全部計票完成，贊成票 216 票，反對票 212 票。"
+    },
+    {
+      "id": "te:markets:568961",
+      "time": "2026-07-23 04:39:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Rallies on Vale and WEG Results — The Ibovespa rose 2.4% to close at 177,548 on Wednesday, supported by strong corporate earnings. Vale advanced 4% after reporting that iron ore production rose 0.8% year-on-year in the April-June period, marking its strongest second-quarter output since 2018. Bradesco BBI reiterated its Buy rating after the company's sales volumes exceeded expectations. WEG jumped 10% after reporting healthy operating margins and return on invested capital in the second quarter, despite lower year-on-year EBITDA and revenue. Revenue from international markets increased 14.7% in US dollar terms, although the company said the appreciation of the Brazilian real weighed on reported revenue in local currency. Petrobras rose 2.2% as oil prices climbed amid escalating tensions in the Middle East. On the trade front, a 25% US tariff on a range of Brazilian products took effect on Wednesday. However, key exports including beef, coffee, rare earths, energy products, aircraft, and aircraft parts remain exempt."
+    },
     {
       "id": "mkt:019f8b8e-2bc8-7aab-8e52-0c6965b3076e",
       "time": "2026-07-23 04:39:38",
@@ -161229,59 +161279,6 @@
         "其他"
       ],
       "text": "耐克：截至2026年5月31日，已收到3.02億美元《國際緊急經濟權力法》關稅退款，尚有6.84億美元未結清。"
-    },
-    {
-      "id": "4990748",
-      "time": "2026-07-16 04:45:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗多地傳出爆炸聲】伊朗胡齊斯坦省副省長當地時間15日晚表示，該省首府阿瓦士周邊4個地點遭到美軍襲擊。截至目前，襲擊未造成人員傷亡。15日晚，另據當地訊息人士稱，伊朗東南部錫斯坦-俾路支斯坦省的科納拉克傳出多聲爆炸聲，爆炸原因是美軍對當地發動襲擊。此外，伊朗南部阿巴斯港附近一個地點遭到美軍炮彈襲擊，傳出兩聲爆炸聲。據伊朗方面15日晚訊息，伊朗東南部錫斯坦-俾路支斯坦省的恰巴哈爾傳來3聲爆炸聲。"
-    },
-    {
-      "id": "4990747",
-      "time": "2026-07-16 04:44:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯：如果有民眾說我們處理愛潑斯坦檔案公佈一事失當，我認罪。我們確實處理得一塌糊塗。"
-    },
-    {
-      "id": "mkt:019f6786-2f3d-7aab-8db0-846a25317f91",
-      "time": "2026-07-16 04:44:34",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Oil prices edge up on 15th】At the close, NYMEX August WTI futures rose $0.26 to $79.60/bbl (+0.33%); ICE September Brent futures rose $0.22 to $84.95/bbl (+0.26%)."
-    },
-    {
-      "id": "4990746",
-      "time": "2026-07-16 04:43:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價15日微漲】國際油價15日微漲。截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格上漲26美分，收於每桶79.60美元，漲幅為0.33%；9月交貨的倫敦布倫特原油期貨價格上漲22美分，收於每桶84.95美元，漲幅為0.26%。"
-    },
-    {
-      "id": "4990745",
-      "time": "2026-07-16 04:41:46",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗阿瓦士一處醫院因周邊遭襲擊實施人員疏散。"
-    },
-    {
-      "id": "4990744",
-      "time": "2026-07-16 04:41:20",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談及伊朗： 倘若九千四百萬走投無路的民眾湧入歐洲、湧入美國，再加上到處滋生恐怖分子，形成完備的恐怖組織網路，這對美國又有什麼好處？ 這種局面我們以前已經見識過了。"
     }
   ]
 }
