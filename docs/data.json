@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-23 02:07:11",
-  "count": 17658,
+  "updated": "2026-07-23 02:11:15",
+  "count": 17662,
   "items": [
+    {
+      "id": "5002922",
+      "time": "2026-07-23 02:10:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令部：霍爾木茲海峽航道出入口已劃定，完全由我方掌控。替代航線危險且不安全，我方警告各方切勿選擇繞行，否則將引發嚴重且無法挽回的後果。"
+    },
+    {
+      "id": "mkt:019f8b04-b6ea-7aab-8e4f-6583dd550dfc",
+      "time": "2026-07-23 02:09:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jerusalem Post reports Israel is considering buying Boeing P-8 Poseidon maritime patrol aircraft to bolster anti-submarine capabilities amid rising concern over Turkish naval expansion."
+    },
+    {
+      "id": "mkt:019f8b03-bc49-7aab-8e4f-5c94012255df",
+      "time": "2026-07-23 02:08:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Greece's Supreme National Security Council is preparing to approve a $3.42 bln purchase of Israeli air-defence hardware to establish a multi-layer system named 'Achilles Shield'."
+    },
+    {
+      "id": "mkt:019f8b03-83d2-7aab-8e4f-509f52734a07",
+      "time": "2026-07-23 02:08:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Claude Code's Claude Security plugin has entered a testing phase."
+    },
+    {
+      "id": "5002921",
+      "time": "2026-07-23 02:07:27",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什將於7月29日下午2:30舉行FOMC會議後記者會。"
+    },
+    {
+      "id": "5002920",
+      "time": "2026-07-23 02:06:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "繼阿根廷主權評級上調後，穆迪上調了五家阿根廷銀行的評級。"
+    },
+    {
+      "id": "5002919",
+      "time": "2026-07-23 02:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：因愈發擔憂土耳其海軍擴張，以色列考慮採購波音P-8“海神”海上巡邏機以提升反潛能力。"
+    },
     {
       "id": "5002918",
       "time": "2026-07-23 02:03:29",
@@ -161137,45 +161195,6 @@
         "國際"
       ],
       "text": "印度上調柴油出口暴利稅，從每升 8.5 盧比提高至每升 15.5 盧比，7 月 16 日起生效。"
-    },
-    {
-      "id": "4990576",
-      "time": "2026-07-16 02:10:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "加拿大知情人士訊息：加拿大已達成協議，將以觀察員身份加入由日本、英國、義大利聯合推進的先進戰鬥機專案。該協議將於下週二範堡羅航展上正式公佈。"
-    },
-    {
-      "id": "mkt:019f66f9-7718-7aab-8dae-5d7a21dde150",
-      "time": "2026-07-16 02:10:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "Copper"
-      ],
-      "text": "【FED'S BEIGE: Employment Broadly Up, Wages Rose Modestly】FED'S BEIGE reports the U.S. labor market broadly expanded. Of 12 Fed districts, five saw job gains (ranging from mild to moderate-to-meaningful), seven were essentially unchanged; only one district showed an improvement versus the prior report. Employment gains were concentrated in manufacturing, construction and retail, while technicians and skilled trades remain hard to hire; a few districts reported limited job declines. Wages largely rose modestly to moderately, with some pay increases driven by competition for skilled labor. Several districts noted firms are increasingly using AI for candidate screening or to raise employee productivity."
-    },
-    {
-      "id": "mkt:019f66f8-1fe8-7aab-8dae-53e5946ee617",
-      "time": "2026-07-16 02:09:24",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact mixed",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "【FED'S BEIGE: U.S. economy modestly expands; consumption pressured, fuel-cost outlook uncertain】FED'S BEIGE reports that between late May and June U.S. economic activity expanded slightly to moderately in 11 of 12 Fed districts, roughly in line with the prior period. High oil prices and fuel costs weighed on parts of consumer spending, prompting cuts to discretionary purchases and shifts toward lower-priced goods. Travel activity picked up, with World Cup-related flows boosting some regions. Manufacturing showed moderate growth, supported by increased orders for data centers, machinery and defense. Construction and real estate activity edged up, led by data-center building. Energy-sector drilling increased. Financial conditions were broadly stable; commercial and consumer lending rose modestly. Agriculture weakened amid falling commodity prices, rising input costs and tighter credit. Most contacts expect continued expansion in the coming months, but the outlook for fuel costs remains a significant uncertainty."
     }
   ]
 }

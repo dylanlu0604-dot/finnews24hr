@@ -1,7 +1,65 @@
 {
   "date": "2026-07-23",
-  "count": 161,
+  "count": 168,
   "items": [
+    {
+      "id": "5002922",
+      "time": "2026-07-23 02:10:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊海軍司令部：霍爾木茲海峽航道出入口已劃定，完全由我方掌控。替代航線危險且不安全，我方警告各方切勿選擇繞行，否則將引發嚴重且無法挽回的後果。"
+    },
+    {
+      "id": "mkt:019f8b04-b6ea-7aab-8e4f-6583dd550dfc",
+      "time": "2026-07-23 02:09:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jerusalem Post reports Israel is considering buying Boeing P-8 Poseidon maritime patrol aircraft to bolster anti-submarine capabilities amid rising concern over Turkish naval expansion."
+    },
+    {
+      "id": "mkt:019f8b03-bc49-7aab-8e4f-5c94012255df",
+      "time": "2026-07-23 02:08:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Greece's Supreme National Security Council is preparing to approve a $3.42 bln purchase of Israeli air-defence hardware to establish a multi-layer system named 'Achilles Shield'."
+    },
+    {
+      "id": "mkt:019f8b03-83d2-7aab-8e4f-509f52734a07",
+      "time": "2026-07-23 02:08:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Claude Code's Claude Security plugin has entered a testing phase."
+    },
+    {
+      "id": "5002921",
+      "time": "2026-07-23 02:07:27",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "美聯儲主席沃什將於7月29日下午2:30舉行FOMC會議後記者會。"
+    },
+    {
+      "id": "5002920",
+      "time": "2026-07-23 02:06:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "繼阿根廷主權評級上調後，穆迪上調了五家阿根廷銀行的評級。"
+    },
+    {
+      "id": "5002919",
+      "time": "2026-07-23 02:06:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場資訊：因愈發擔憂土耳其海軍擴張，以色列考慮採購波音P-8“海神”海上巡邏機以提升反潛能力。"
+    },
     {
       "id": "5002918",
       "time": "2026-07-23 02:03:29",
