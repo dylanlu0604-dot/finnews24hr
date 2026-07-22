@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-23 01:05:07",
-  "count": 17690,
+  "updated": "2026-07-23 01:09:19",
+  "count": 17688,
   "items": [
+    {
+      "id": "mkt:019f8aca-3cad-7aab-8e4e-79ce53a1171a",
+      "time": "2026-07-23 01:05:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Deutsche Bank: Japan may shift policy focus from \"defending the yen\" to \"controlling yields\"】Deutsche Bank says Japan may need to shift policy emphasis from defending the yen to capping government bond yields to deliver its growth plan. Prime Minister TAKAICHI unveiled a roughly $2.3 trillion growth strategy at the end of last month that marks a major fiscal and industrial-policy inflection. Deutsche Bank strategist Malika Sahdevda notes Tokyo must preserve fiscal sustainability while freeing room for much larger spending; the plan relies on mobilizing domestic savings and steering large institutional investors into domestic assets to finance the package. Achieving that and ensuring nominal growth outpaces financing costs may require measures to limit JGB yield rises — a material policy pivot from FX defence toward yield control."
+    },
+    {
+      "id": "mkt:019f8ac9-6730-7aab-8e4e-7768111c841b",
+      "time": "2026-07-23 01:04:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 20-year Treasury yield continued to rise after the auction, up 1.91 bps at 5.163%."
+    },
     {
       "id": "5002882",
       "time": "2026-07-23 01:04:13",
@@ -161459,45 +161484,6 @@
         "Emerging Markets"
       ],
       "text": "Brazil's finance ministry projects 2026 GDP growth of 2.3%, unchanged from its prior forecast, and sees 2027 growth at 2.5%, below its earlier 2.6% projection."
-    },
-    {
-      "id": "4990526",
-      "time": "2026-07-16 01:08:53",
-      "tags": [
-        "公司"
-      ],
-      "text": "【英偉達CEO黃仁勳否認產品延期論 稱Vera Rubin將按計劃向客戶交付】針對有關製造問題可能導致產品延期的說法，英偉達創始人兼執行長黃仁勳表示，公司下一代人工智慧加速計算系統已進入生產階段，將按計劃向客戶交付。黃仁勳週三在東京對記者表示，Vera Rubin硬體正按計劃實現“大規模”生產，但未透露具體時間表。研究機構SemiAnalysis本月早些時候報告稱，由於連線電子模組的一種專用電路板在製造時遇到困難，英偉達下一代AI伺服器機架系統的推出將被推遲。黃仁勳回應稱：“這些說法並不屬實。Vera Rubin已經投入生產，大規模量產即將開始。”"
-    },
-    {
-      "id": "mkt:019f66bf-1cca-7aab-8dac-c4c61c2014b0",
-      "time": "2026-07-16 01:07:08",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "【Fed governor COOK: ready to act if inf does not slow quickly】Fed governor COOK said Wednesday it is prudent to allow more time to see how inf evolves, but she is prepared to act if inf does not slow quickly. She cited upside pressure from an AI investment boom, tariffs and price effects from an Iran war. COOK said the balance of risks has shifted markedly since a year ago, with inf risks now outweighing employment risks, and reaffirmed her firm commitment to achieving the Fed's inf target."
-    },
-    {
-      "id": "4990525",
-      "time": "2026-07-16 01:06:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐約市空氣質量指數惡化，達到 “全體人群均不健康” 級別。"
-    },
-    {
-      "id": "4990524",
-      "time": "2026-07-16 01:05:09",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "巴西財政部預測 2027 年通脹率為 3.6%，此前預期為 3.5%。"
     }
   ]
 }

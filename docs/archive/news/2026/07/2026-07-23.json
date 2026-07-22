@@ -1,7 +1,32 @@
 {
   "date": "2026-07-23",
-  "count": 93,
+  "count": 95,
   "items": [
+    {
+      "id": "mkt:019f8aca-3cad-7aab-8e4e-79ce53a1171a",
+      "time": "2026-07-23 01:05:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "Nikkei 225"
+      ],
+      "text": "【Deutsche Bank: Japan may shift policy focus from \"defending the yen\" to \"controlling yields\"】Deutsche Bank says Japan may need to shift policy emphasis from defending the yen to capping government bond yields to deliver its growth plan. Prime Minister TAKAICHI unveiled a roughly $2.3 trillion growth strategy at the end of last month that marks a major fiscal and industrial-policy inflection. Deutsche Bank strategist Malika Sahdevda notes Tokyo must preserve fiscal sustainability while freeing room for much larger spending; the plan relies on mobilizing domestic savings and steering large institutional investors into domestic assets to finance the package. Achieving that and ensuring nominal growth outpaces financing costs may require measures to limit JGB yield rises — a material policy pivot from FX defence toward yield control."
+    },
+    {
+      "id": "mkt:019f8ac9-6730-7aab-8e4e-7768111c841b",
+      "time": "2026-07-23 01:04:42",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 20-year Treasury yield continued to rise after the auction, up 1.91 bps at 5.163%."
+    },
     {
       "id": "5002882",
       "time": "2026-07-23 01:04:13",
