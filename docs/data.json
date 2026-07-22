@@ -1,7 +1,170 @@
 {
-  "updated": "2026-07-22 08:07:24",
-  "count": 18065,
+  "updated": "2026-07-22 08:11:20",
+  "count": 18075,
   "items": [
+    {
+      "id": "mkt:019f8729-4797-7aab-8e34-aba084da0c21",
+      "time": "2026-07-22 08:10:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【CITIC Securities continues to favor China's domestic compute-power industry chain】CITIC Securities says WAIC 2026 remained a high-focus event. Domestic compute-chip vendors Tianshu Zhixin and Dongfang Suanxin unveiled new products, accelerating performance catch-up with overseas advanced chips. Super-node architectures were the conference’s core focus, pointing to a system-level upgrade in future compute capacity. Interconnect and other AI-infrastructure technologies are accelerating deployment, lifting the domestic technology base. The industry is shifting from single-card compute rivalry to full-chain competition across chips, high-speed interconnect, rack/system architecture and industry applications. CITIC continues to favor the domestic compute-power supply chain."
+    },
+    {
+      "id": "5001050",
+      "time": "2026-07-22 08:10:48",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本5年期國債收益率上升2個基點，至1.960%。"
+    },
+    {
+      "id": "mkt:019f8729-246f-7aab-8e34-a2874e3b556a",
+      "time": "2026-07-22 08:10:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia's S&P/ASX 200 opened up 18.70 points (+0.21%) at 8,812.00 on Wednesday, July 22."
+    },
+    {
+      "id": "5001049",
+      "time": "2026-07-22 08:10:29",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元疲軟與伊朗戰事抬高進口成本 日本6月貿易逆差意外擴大】受日元走軟推高進口額以及伊朗戰事導致油價上漲影響，日本6月份貿易逆差意外擴大。日本財務省週三公佈的資料顯示，未經季節性調整的貿易逆差從5月修正後的3918億日元擴大至4069億日元（25億美元）。此前分析師預期逆差為1200億日元。6月進口額同比增長25.4%，出口額增長19.3%。"
+    },
+    {
+      "id": "5001048",
+      "time": "2026-07-22 08:10:24",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4090美元/盎司，日內漲0.32%。"
+    },
+    {
+      "id": "5001047",
+      "time": "2026-07-22 08:10:00",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI亞太指數上漲1%至269.25點。"
+    },
+    {
+      "id": "5001046",
+      "time": "2026-07-22 08:09:54",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "【中信證券：下半年紅利資產有望進入估值修復區間】中信證券研報稱，2026年上半年受到地緣形勢擾動、流動性收緊等多重因素衝擊，大類資產呈現出顯著的高分化、高波動特徵。展望2026年下半年，紅利資產有望進入估值修復區間；預計黃金短期震盪磨底而長期存在結構支撐；主動權益基金中的風格中性組合有望受益；量化基金超額收益或迎來改善；絕對收益型“固收+”基金在分化行情中的適應性更強；宏觀配置策略受流動性擾動影響有望減弱；主觀CTA策略預計更具優勢。"
+    },
+    {
+      "id": "mkt:019f8728-4e5c-7aab-8e34-9b96fd4a46a5",
+      "time": "2026-07-22 08:09:53",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold touched $4,090/oz, up 0.30% on the day."
+    },
+    {
+      "id": "mkt:019f8728-3d6e-7aab-8e34-900a69cd7f03",
+      "time": "2026-07-22 08:09:49",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iranian outlet Fars News, citing an East Azerbaijan provincial official, said a military facility near Tabriz was struck in a US airstrike."
+    },
+    {
+      "id": "te:economy:568645",
+      "time": "2026-07-22 08:09:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Balance of Trade",
+        "Importance 2"
+      ],
+      "text": "Japan Trade Balance Swings to Deficit as Imports Surge — Japan's trade balance posted a deficit of JPY 406.9 billion in June 2026, reversing from a JPY 122.3 billion surplus a year earlier and far exceeding market expectations for a JPY 120 billion shortfall. It marked the second consecutive monthly deficit as imports continued to outpace exports. Imports surged 25.4% year-on-year to a record JPY 11,335.9 billion, accelerating from May's 12.5% rise, beating forecasts of 21%, and marking the fifth straight month of growth and the strongest increase since November 2022. The sharp rise reflected robust domestic demand, supported by the government's late-2025 stimulus measures. Meanwhile, exports climbed 19.3% to JPY 10,929.0 billion, the strongest gain since November 2022, exceeding expectations of 18.6%. It was the tenth consecutive month of export growth, driven by resilient global demand for semiconductors despite ongoing Middle East-related supply chain disruptions."
+    },
+    {
+      "id": "5001045",
+      "time": "2026-07-22 08:08:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗半官方的法爾斯通訊社援引東亞塞拜然官員的話稱，大不里士附近一處軍事地點遭到美國空襲。"
+    },
+    {
+      "id": "mkt:019f8726-ed7a-7aab-8e34-8a42c51af347",
+      "time": "2026-07-22 08:08:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Jianyuan Technology completes second-stage aft-compartment vibration test for Yuanxingzhe-1 rocket】Jianyuan Technology said it completed vibration testing of the Yuanxingzhe-1 carrier rocket’s second-stage aft compartment. Tests showed the structure remained reliable under a full-flight vibration profile, the auxiliary power system met vibration-adaptation requirements, and transfer characteristics of key equipment mounts and dynamic data were captured as expected, supporting the upcoming maiden flight."
+    },
+    {
+      "id": "5001044",
+      "time": "2026-07-22 08:07:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數早盤上漲0.3%，報8,818點。"
+    },
+    {
+      "id": "5001043",
+      "time": "2026-07-22 08:07:21",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【工業和資訊化部組織開展國家級零碳工廠建設工作】近日，為貫徹落實黨中央、國務院決策部署，落實《關於開展零碳工廠建設工作的指導意見》（工信部聯節〔2026〕13號）有關要求，工業和資訊化部辦公廳印發《關於組織開展國家級零碳工廠建設工作的通知》（工信廳節函〔2026〕334號，以下簡稱《通知》），組織開展國家級零碳工廠（含零碳算力設施，下同）建設工作。《通知》對國家級零碳工廠建設工作提出具體安排，包括基本要求、申報條件、組織實施以及附件《國家級零碳工廠建設評估指標體系及指標說明（試行）》等內容。一是明確申報要求。選擇具備一定建設基礎、建設目標明確、實施路徑清晰，並承諾在規定期限內完成建設目標的製造型企業、算力設施，擇優納入國家級零碳工廠建設名單。設定單位能耗碳排放、非化石能源消費佔比、非化石能源電力消費物理認定量佔比三個核心指標，申報單位應滿足核心指標的基本要求，並在建設期內（不晚於2030年）承諾達到核心指標的目標要求。二是明確建設過程。零碳工廠建設工作“重技術、重建設、重實效”，而非一次性評價認定。國家級零碳工廠建設名單內的單位，應對照建設方案確定的年度目標和重點任務開展自我評估，並定期報送。各省級工業和資訊化主管部門應加強對名單內單位的指導和監督，建立常態化跟蹤機制。工業和資訊化部將不定期對建設單位開展抽查核驗，並按照“成熟一批，驗收一批”的原則組織驗收，透過驗收評估的，正式成為國家級零碳工廠。三是明確評估指標體系。指標體系包括核心指標和引導指標兩部分。核心指標是對零碳工廠建設具有基礎性、決定性和約束性的關鍵因素。同時，設定過程脫碳、協同降碳、智慧控碳、碳抵銷和資訊披露4類8項引導指標，系統引導企業在節能降碳改造、節能裝備應用、數字化能碳管理等方面持續提升。下一步，工業和資訊化部將按照《通知》要求，做好國家級零碳工廠建設培育工作，推動構建涵蓋能源供應、技術研發、標準制定、金融支援等的零碳工廠建設產業生態，增強產業低碳競爭優勢。"
+    },
+    {
+      "id": "5001042",
+      "time": "2026-07-22 08:07:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【摩科瑞與SuperX就AI基礎設施開發開展合作】當地時間7月21日，摩科瑞能源集團旗下亞太平臺摩科瑞亞洲與人工智慧基礎設施解決方案提供商SuperX AI Technology Limited宣佈建立戰略合作伙伴關係。作為此次合作的一部分，摩科瑞亞洲透過可轉換票據及認股權證認購協議對SuperX進行了戰略投資。雙方將聚焦全球人工智慧資料中心發展、電力資源最佳化配置和能源管理創新，探索能源、技術和資本協同發展的新模式。SuperX董事長兼CEO表示，合作將加速印尼、日本、泰國等地區海外專案的落地實施。"
+    },
+    {
+      "id": "5001041",
+      "time": "2026-07-22 08:07:13",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【中信證券：繼續全面看好國產算力產業鏈】中信證券研報稱，WAIC 2026維持高關注度，算力晶片領域天數智芯、東方算芯等釋出新產品，加速對海外先進產品的效能追趕；超節點是大會核心聚焦，成為指引未來算力發展向系統級層面升維的重要方向；互聯等AI Infra技術加速落地，國產底座進一步升維，行業從單卡算力競爭轉向晶片、高速互聯、整機架構與行業應用全鏈條生態協同競爭。繼續全面看好國產算力產業鏈。"
+    },
+    {
+      "id": "5001040",
+      "time": "2026-07-22 08:07:01",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化買盤。"
+    },
+    {
+      "id": "te:markets:568644",
+      "time": "2026-07-22 08:06:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Holds Gain Despite Rising Oil Prices — Silver traded near $59 an ounce on Wednesday after jumping 4% in the previous session, as investors continued to monitor Middle East uncertainties and rising oil prices and their impact on inflation and interest rates. President Donald Trump downplayed the chances of near-term talks with Iran and warned of additional strikes, lifting oil prices. Iran-backed Houthi rebels in Yemen also disrupted shipping through the Red Sea, while a series of attacks on the Caspian Pipeline Consortium terminal along Russia’s Black Sea coast added to supply concerns. Meanwhile, ADP data showed US private employers added an average of 16,500 jobs per week over the four weeks ending July 4, down from an average weekly gain of 19,250 in the prior four-week period, marking a fourth straight slowdown in hiring. Markets widely expect the Federal Reserve to leave interest rates unchanged at next week’s meeting, while pricing in more than a 55% chance of a rate hike in September."
+    },
     {
       "id": "mkt:019f8725-5ae2-7aab-8e34-879fcd4fa92a",
       "time": "2026-07-22 08:06:39",
@@ -166019,78 +166182,6 @@
         "其他"
       ],
       "text": "據巴林內政部訊息，當地時間今天（7月15日）凌晨3點左右，巴林防空警報再次拉響。（ CCTV國際時訊  ）"
-    },
-    {
-      "id": "mkt:019f632f-777d-7aab-8d8c-86d935723f2a",
-      "time": "2026-07-15 08:11:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Australia's S&P/ASX 200 opened 56.60 points higher on July 15 (Wednesday), up 0.64% at 8,865.10."
-    },
-    {
-      "id": "te:economy:566943",
-      "time": "2026-07-15 08:11:06",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Japan",
-        "Machinery Orders",
-        "Importance 2"
-      ],
-      "text": "Japan Machinery Orders Fall More than Expected — Japan’s core machinery orders, which exclude volatile sectors such as ships and electric utilities, plunged 12.4% mom to JPY 962.0 billion in May 2026, far worse than market forecasts for a 4.2% decline and a reversal from an 8.7% gain in the prior month. It was the third monthly decline so far this year and the steepest drop since December 2019, reflecting broad-based weakness in business investment. Orders from manufacturers dropped 14.9% (vs 5.1% in April), while non-manufacturing orders fell 9.3% (vs 6.7%). Among manufacturers, the steepest declines came from shipbuilding (-80.5%), information and communication electronics (-23.6%), and business-oriented machinery (-14.3%). In the non-manufacturing sector, orders weakened notably in real estate (-69.3%), transport and postal (-23.3%), and goods leasing (-18.6%). On an annual basis, machinery orders fell 1.5%, swinging from April's 15.6% surge and missing estimates for a 12.9% gain and pointing to the fastest drop in six months."
-    },
-    {
-      "id": "4988676",
-      "time": "2026-07-15 08:10:39",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數上漲1%，至68438.17點。"
-    },
-    {
-      "id": "4988675",
-      "time": "2026-07-15 08:10:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "OPENAI：在調查影響CHATGPT的登入問題和錯誤。"
-    },
-    {
-      "id": "4988674",
-      "time": "2026-07-15 08:09:55",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "日本電氣股份有限公司（NEC）股價下跌4%。"
-    },
-    {
-      "id": "4988673",
-      "time": "2026-07-15 08:09:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭革命衛隊15日發表宣告說，只要美國繼續對伊朗實施襲擊，該地區就不會出口“一滴石油”和天然氣。（新華社）"
-    },
-    {
-      "id": "4988672",
-      "time": "2026-07-15 08:08:10",
-      "tags": [
-        "其他"
-      ],
-      "text": "DOWNDETECTOR使用者報告顯示OPENAI 存在問題。"
-    },
-    {
-      "id": "mkt:019f6319-bedd-7aab-8d8c-28b9a9361d53",
-      "time": "2026-07-15 08:07:39",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange triggered a temporary halt on the KOSPI index; algorithmic trading suspended for 5 minutes."
     }
   ]
 }
