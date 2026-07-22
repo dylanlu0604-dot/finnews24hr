@@ -1,7 +1,71 @@
 {
   "date": "2026-07-23",
-  "count": 69,
+  "count": 76,
   "items": [
+    {
+      "id": "mkt:019f8ac0-4ade-7aab-8e4e-37cca2380d2c",
+      "time": "2026-07-23 00:54:45",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "Gulf Cooperation Council secretary-general condemned Houthi militants' hostile rhetoric toward Saudi Arabia and their threat to close the Bab el-Mandeb Strait."
+    },
+    {
+      "id": "5002873",
+      "time": "2026-07-23 00:53:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：當地時間週三凌晨，德黑蘭防空部隊探測並擊落了一架敵方無人機。"
+    },
+    {
+      "id": "5002872",
+      "time": "2026-07-23 00:53:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：週三凌晨德黑蘭省沒有任何地點遭到襲擊；首都部分割槽域傳出類似爆炸的巨響，是伊朗啟用新型重型防空火炮系統所致。"
+    },
+    {
+      "id": "5002871",
+      "time": "2026-07-23 00:52:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局：加強對從印度進口的辣木粉進行沙門氏菌篩查。"
+    },
+    {
+      "id": "5002870",
+      "time": "2026-07-23 00:52:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【烏總統與美總統特使討論烏俄恢復談判可能性事宜】烏克蘭總統澤連斯基當天與美國總統特使威特科夫和庫什納討論了與俄羅斯恢復談判的可能性。隨後，烏克蘭總統通訊事務顧問德米特里·利特溫確認了澤連斯基與美方當天進行了通話。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8abd-d62a-7aab-8e4e-2ef3b4ab11ca",
+      "time": "2026-07-23 00:52:04",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "XAUUSD"
+      ],
+      "text": "GCC secretary-general said the international community must take a firm stance against Houthi threats to shipping."
+    },
+    {
+      "id": "mkt:019f8abd-c8c1-7aab-8e4e-218dfc0a30d3",
+      "time": "2026-07-23 00:52:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Gulf Cooperation Council secretary-general condemned the Houthi armed group's accusations against Saudi Arabia."
+    },
     {
       "id": "5002869",
       "time": "2026-07-23 00:50:30",
