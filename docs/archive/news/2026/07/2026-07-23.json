@@ -1,7 +1,79 @@
 {
   "date": "2026-07-23",
-  "count": 427,
+  "count": 434,
   "items": [
+    {
+      "id": "mkt:019f8bbd-403a-7aab-8e52-a5448ebb2c7e",
+      "time": "2026-07-23 05:31:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Yemen's Houthi militants said they attacked two Saudi oil tankers."
+    },
+    {
+      "id": "5003079",
+      "time": "2026-07-23 05:30:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗法爾斯通訊社：布什爾周邊區域傳來兩聲爆炸巨響。"
+    },
+    {
+      "id": "mkt:019f8bbc-507c-7aab-8e52-9ee96fd7ca5f",
+      "time": "2026-07-23 05:30:02",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Iranian outlet Fars News reported two explosions were heard near Bushehr."
+    },
+    {
+      "id": "5003078",
+      "time": "2026-07-23 05:29:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet：旺盛需求將推動 2027 年算力產能相關投資。"
+    },
+    {
+      "id": "mkt:019f8bbb-d543-7aab-8e52-91da65cc195b",
+      "time": "2026-07-23 05:29:30",
+      "tags": [
+        "MKT News",
+        "IBM.O"
+      ],
+      "text": "IBM CFO said Q3 revenue growth is expected to be in line with the full-year trend."
+    },
+    {
+      "id": "5003077",
+      "time": "2026-07-23 05:29:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "Alphabet：收購Wiz對谷歌雲利潤構成拖累。"
+    },
+    {
+      "id": "mkt:019f8bba-0b54-7aab-8e52-8e10d5dcc5d2",
+      "time": "2026-07-23 05:27:33",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOGL.O",
+        "Impact bullish"
+      ],
+      "text": "【Alphabet Q2 investment gains $98.0 bln lift net profit to $116.9 bln, EPS $9.11 vs $2.90 est】Alphabet reported $98.0 billion of investment gains in Q2, which it said were \"primarily from unrealized net gains on equity securities.\" The gains helped drive EPS of $9.11, well above the $2.90 analyst consensus, and net income of $116.86 billion. Alphabet holds a large stake in SpaceX; SpaceX's IPO last month was the largest on record. Alphabet is also a major investor in AI startup Anthropic, which could IPO as early as October. Elon Musk liked the earnings report on social media."
+    },
     {
       "id": "5003076",
       "time": "2026-07-23 05:26:02",
