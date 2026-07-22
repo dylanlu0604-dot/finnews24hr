@@ -1,7 +1,52 @@
 {
   "date": "2026-07-22",
-  "count": 2591,
+  "count": 2596,
   "items": [
+    {
+      "id": "mkt:019f89bf-fdb5-7aab-8e47-8c667411be5e",
+      "time": "2026-07-22 20:14:48",
+      "tags": [
+        "MKT News",
+        "CME.O",
+        "Impact bullish"
+      ],
+      "text": "【CME Group profit rises as hedging demand lifts equity trading volumes】CME Group said on Wednesday that heightened equity volatility drove increased hedging activity and boosted equity trading volumes, lifting second-quarter adjusted net income attributable to common shareholders to $1.08 billion, or $2.99 a share, for the three months ended June 30, from $1.07 billion, or $2.96 a share, a year earlier."
+    },
+    {
+      "id": "5002463",
+      "time": "2026-07-22 20:14:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "【德媒：法國極右翼領導人確認將參選總統】據德新社7月21日報道，法國媒體21日援引司法部門訊息人士的話報道稱，法國極右翼領導人瑪麗娜·勒龐已按照此前宣佈的那樣，就她被判處挪用歐盟資金的案件向最高上訴法院提起上訴。因此，此前法國一家上訴法院對勒龐判處的一年監禁、佩戴電子腳鐐的刑罰暫時不會執行。勒龐因而可以不受阻礙地按計劃啟動2027年總統選舉的競選活動。在上訴法院作出裁決後，檢方決定不提出上訴。（參考訊息）"
+    },
+    {
+      "id": "5002462",
+      "time": "2026-07-22 20:14:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【盈新發展：擬與關聯方簽署最高2410萬元物業管理服務協議】盈新發展公告稱，公司擬與關聯方悅豪物業簽署《主服務協議》，由其向公司及控股子公司提供物業管理服務。該事項已透過相關會議審議，無需提交股東會，不構成重大資產重組。協議有效期至2028年12月31日，2026 - 2028年合同最高年度限額分別為800萬元、840萬元、770萬元，合計2410萬元。交易定價合理，不會損害公司及中小股東利益。"
+    },
+    {
+      "id": "mkt:019f89bf-3eb5-7aab-8e47-878d49d7459e",
+      "time": "2026-07-22 20:13:59",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "A US military base in Saudi Arabia was struck in a missile attack."
+    },
+    {
+      "id": "5002461",
+      "time": "2026-07-22 20:12:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息稱一處位於沙烏地阿拉伯的美軍基地遭到導彈襲擊。"
+    },
     {
       "id": "mkt:019f89bd-15e2-7aab-8e47-7d5c7bb2a534",
       "time": "2026-07-22 20:11:38",
