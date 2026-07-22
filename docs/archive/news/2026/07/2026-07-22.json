@@ -1,7 +1,188 @@
 {
   "date": "2026-07-22",
-  "count": 2880,
+  "count": 2900,
   "items": [
+    {
+      "id": "mkt:019f8a22-af7d-7aab-8e49-c54714409328",
+      "time": "2026-07-22 22:02:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot gold rose more than 2% intraday, breaching $4,160/oz. Spot silver jumped over 3% to $60.62/oz."
+    },
+    {
+      "id": "5002681",
+      "time": "2026-07-22 22:02:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14926.00元。"
+    },
+    {
+      "id": "5002680",
+      "time": "2026-07-22 22:01:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破61美元/盎司，日內漲3.20%。"
+    },
+    {
+      "id": "5002679",
+      "time": "2026-07-22 22:01:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4160.12美元/盎司。"
+    },
+    {
+      "id": "5002678",
+      "time": "2026-07-22 22:01:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4160美元/盎司，日內漲2.02%。"
+    },
+    {
+      "id": "5002677",
+      "time": "2026-07-22 22:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "喬治亞電力公司將為埃芬漢姆縣的OpenAI專案提供供電服務。"
+    },
+    {
+      "id": "5002676",
+      "time": "2026-07-22 22:01:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報60.56美元/盎司。"
+    },
+    {
+      "id": "mkt:019f8a20-e0ad-7aab-8e49-bed883579d2c",
+      "time": "2026-07-22 22:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Precious metals futures' most-active contracts extended gains: SHFE gold 2608 up 1.56% at 907.74 yuan/gram; SHFE silver 2610 up 2.46% at 14,847 yuan/kg."
+    },
+    {
+      "id": "mkt:019f8a20-c225-7aab-8e49-b7fa9a00154d",
+      "time": "2026-07-22 22:00:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports a meeting between US President Trump and Israeli Prime Minister Netanyahu is under discussion, but no specific date or arrangements have been confirmed."
+    },
+    {
+      "id": "mkt:019f8a20-4636-7aab-8e49-ae5350d8a80b",
+      "time": "2026-07-22 21:59:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday gain widened to 3.00%, trading at $60.53/oz."
+    },
+    {
+      "id": "5002675",
+      "time": "2026-07-22 21:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國參議員懷登建議立法，來限制總統特朗普的關稅權力】美國俄勒岡州民主黨參議員羅恩·懷登（Ron Wyden）提出了一項立法草案，旨在限制總統特朗普廣泛的關稅權力。該法案將設立一個國會關稅委員會，並將美國貿易代表辦公室（USTR）設為獨立機構，其中包含多項此類規定。懷登嚴厲抨擊特朗普，原因是特朗普援引一項近百年曆史、極少被啟用的貿易法，宣佈對一系列加拿大商品徵收50%的報復性關稅。"
+    },
+    {
+      "id": "5002674",
+      "time": "2026-07-22 21:59:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報60.88美元/盎司。"
+    },
+    {
+      "id": "5002673",
+      "time": "2026-07-22 21:59:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天目藥業：控股股東擬透過公開徵集轉讓方式協議轉讓公司20%股份】天目藥業公告，控股股東匯隆華澤持有公司29.99%股份，擬透過公開徵集受讓方的方式協議轉讓公司無限售流通股2435.58萬股，佔公司總股本的20%，本次公開徵集轉讓價格不低於22元/股（含）。若本次公開徵集轉讓實施完成，公司控股股東及實控人將可能發生變更。"
+    },
+    {
+      "id": "5002672",
+      "time": "2026-07-22 21:59:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲2.05%。"
+    },
+    {
+      "id": "5002671",
+      "time": "2026-07-22 21:59:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多綜合股指 漲幅擴大，上漲 1%。"
+    },
+    {
+      "id": "mkt:019f8a1f-6b9a-7aab-8e49-a2e952636f96",
+      "time": "2026-07-22 21:59:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed to $4,150/oz, its highest level since July 7, up 1.8% on the day."
+    },
+    {
+      "id": "5002670",
+      "time": "2026-07-22 21:58:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【港股IPO：上海生生醫藥冷鏈科技股份有限公司遞表港交所】利弗莫爾證券顯示，上海生生醫藥冷鏈科技股份有限公司向港交所提交上市申請書，聯席保薦人為中金公司、國金證券（香港）有限公司。"
+    },
+    {
+      "id": "5002669",
+      "time": "2026-07-22 21:58:53",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【7月22日增減持彙總】7月22日盤後，據不完全統計，包括興業證券、雷迪克、海倫哲、威馬農機、榮盛發展、通裕重工、神開股份在內的7家A股上市公司披露擬增持情況；百合花、大千生態披露擬減持情況。"
+    },
+    {
+      "id": "5002668",
+      "time": "2026-07-22 21:58:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4158.00美元/盎司。"
+    },
+    {
+      "id": "mkt:019f8a1e-f826-7aab-8e49-9b540b7d5f91",
+      "time": "2026-07-22 21:58:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reports the US and Saudi Arabia are expected to sign an agreement at about 1:30 PM local time (01:30 Beijing time next day)."
+    },
     {
       "id": "5002667",
       "time": "2026-07-22 21:58:08",

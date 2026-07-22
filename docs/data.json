@@ -1,7 +1,188 @@
 {
-  "updated": "2026-07-22 21:58:59",
-  "count": 17885,
+  "updated": "2026-07-22 22:03:10",
+  "count": 17878,
   "items": [
+    {
+      "id": "mkt:019f8a22-af7d-7aab-8e49-c54714409328",
+      "time": "2026-07-22 22:02:36",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot gold rose more than 2% intraday, breaching $4,160/oz. Spot silver jumped over 3% to $60.62/oz."
+    },
+    {
+      "id": "5002681",
+      "time": "2026-07-22 22:02:26",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲3%，現報14926.00元。"
+    },
+    {
+      "id": "5002680",
+      "time": "2026-07-22 22:01:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破61美元/盎司，日內漲3.20%。"
+    },
+    {
+      "id": "5002679",
+      "time": "2026-07-22 22:01:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內漲2%，現報4160.12美元/盎司。"
+    },
+    {
+      "id": "5002678",
+      "time": "2026-07-22 22:01:54",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4160美元/盎司，日內漲2.02%。"
+    },
+    {
+      "id": "5002677",
+      "time": "2026-07-22 22:01:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "喬治亞電力公司將為埃芬漢姆縣的OpenAI專案提供供電服務。"
+    },
+    {
+      "id": "5002676",
+      "time": "2026-07-22 22:01:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲3%，現報60.56美元/盎司。"
+    },
+    {
+      "id": "mkt:019f8a20-e0ad-7aab-8e49-bed883579d2c",
+      "time": "2026-07-22 22:00:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Precious metals futures' most-active contracts extended gains: SHFE gold 2608 up 1.56% at 907.74 yuan/gram; SHFE silver 2610 up 2.46% at 14,847 yuan/kg."
+    },
+    {
+      "id": "mkt:019f8a20-c225-7aab-8e49-b7fa9a00154d",
+      "time": "2026-07-22 22:00:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Axios reports a meeting between US President Trump and Israeli Prime Minister Netanyahu is under discussion, but no specific date or arrangements have been confirmed."
+    },
+    {
+      "id": "mkt:019f8a20-4636-7aab-8e49-ae5350d8a80b",
+      "time": "2026-07-22 21:59:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver's intraday gain widened to 3.00%, trading at $60.53/oz."
+    },
+    {
+      "id": "5002675",
+      "time": "2026-07-22 21:59:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國參議員懷登建議立法，來限制總統特朗普的關稅權力】美國俄勒岡州民主黨參議員羅恩·懷登（Ron Wyden）提出了一項立法草案，旨在限制總統特朗普廣泛的關稅權力。該法案將設立一個國會關稅委員會，並將美國貿易代表辦公室（USTR）設為獨立機構，其中包含多項此類規定。懷登嚴厲抨擊特朗普，原因是特朗普援引一項近百年曆史、極少被啟用的貿易法，宣佈對一系列加拿大商品徵收50%的報復性關稅。"
+    },
+    {
+      "id": "5002674",
+      "time": "2026-07-22 21:59:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲3%，現報60.88美元/盎司。"
+    },
+    {
+      "id": "5002673",
+      "time": "2026-07-22 21:59:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天目藥業：控股股東擬透過公開徵集轉讓方式協議轉讓公司20%股份】天目藥業公告，控股股東匯隆華澤持有公司29.99%股份，擬透過公開徵集受讓方的方式協議轉讓公司無限售流通股2435.58萬股，佔公司總股本的20%，本次公開徵集轉讓價格不低於22元/股（含）。若本次公開徵集轉讓實施完成，公司控股股東及實控人將可能發生變更。"
+    },
+    {
+      "id": "5002672",
+      "time": "2026-07-22 21:59:08",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4160美元/盎司，日內漲2.05%。"
+    },
+    {
+      "id": "5002671",
+      "time": "2026-07-22 21:59:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "多倫多綜合股指 漲幅擴大，上漲 1%。"
+    },
+    {
+      "id": "mkt:019f8a1f-6b9a-7aab-8e49-a2e952636f96",
+      "time": "2026-07-22 21:59:02",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Spot gold climbed to $4,150/oz, its highest level since July 7, up 1.8% on the day."
+    },
+    {
+      "id": "5002670",
+      "time": "2026-07-22 21:58:55",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【港股IPO：上海生生醫藥冷鏈科技股份有限公司遞表港交所】利弗莫爾證券顯示，上海生生醫藥冷鏈科技股份有限公司向港交所提交上市申請書，聯席保薦人為中金公司、國金證券（香港）有限公司。"
+    },
+    {
+      "id": "5002669",
+      "time": "2026-07-22 21:58:53",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點"
+      ],
+      "text": "【7月22日增減持彙總】7月22日盤後，據不完全統計，包括興業證券、雷迪克、海倫哲、威馬農機、榮盛發展、通裕重工、神開股份在內的7家A股上市公司披露擬增持情況；百合花、大千生態披露擬減持情況。"
+    },
+    {
+      "id": "5002668",
+      "time": "2026-07-22 21:58:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內漲2%，現報4158.00美元/盎司。"
+    },
+    {
+      "id": "mkt:019f8a1e-f826-7aab-8e49-9b540b7d5f91",
+      "time": "2026-07-22 21:58:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "CBS reports the US and Saudi Arabia are expected to sign an agreement at about 1:30 PM local time (01:30 Beijing time next day)."
+    },
     {
       "id": "5002667",
       "time": "2026-07-22 21:58:08",
@@ -163292,244 +163473,6 @@
         "公司"
       ],
       "text": "惠譽確認沙特能源公司評級為“A+”，展望穩定。"
-    },
-    {
-      "id": "4990245",
-      "time": "2026-07-15 22:02:48",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "澤連斯基表示，烏克蘭石油天然氣公司執行長科雷茨基是新任總理的最合適人選，籌備下一個供暖季是烏克蘭的首要任務。"
-    },
-    {
-      "id": "mkt:019f6615-fd4a-7aab-8da6-2c5a61f447e6",
-      "time": "2026-07-15 22:02:24",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Anthropic, Blackstone and Herman Friedman have jointly formed an AI services company."
-    },
-    {
-      "id": "4990244",
-      "time": "2026-07-15 22:02:06",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic、黑石集團、Hellman & Friedman 聯合成立人工智慧服務公司ODE 將由克里斯・泰勒擔任執行長。"
-    },
-    {
-      "id": "4990243",
-      "time": "2026-07-15 22:01:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技：與兆易創新之間不存在同業競爭或利益輸送】7月15日，長鑫科技副總裁、董事會秘書袁園在科創板上市網上投資者交流會上回應，公司與兆易創新在主營業務及業務模式、產品結構、下游應用領域、重合客戶供應商、未來工藝技術和業務佈局規劃等方面存在實質性差異。在DRAM業務方面，兆易創新DRAM業務的發展背景和產品結構、市場定位、業務發展階段和戰略發展目標等方面相較公司而言亦存在顯著差異。公司與兆易創新雙方業務及產品不存在實質競爭性、替代性，不存在構成重大不利影響的同業競爭或潛在同業競爭，不存在利益輸送或其他特殊安排。"
-    },
-    {
-      "id": "4990242",
-      "time": "2026-07-15 22:01:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "西門子醫療有限公司將投資7000萬歐元擴建肯納特生產基地。"
-    },
-    {
-      "id": "4990241",
-      "time": "2026-07-15 22:01:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic、黑石集團、Hellman & Friedman 聯合成立人工智慧服務公司。"
-    },
-    {
-      "id": "4990240",
-      "time": "2026-07-15 22:01:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行 6 月壞賬核銷率 2.22%。"
-    },
-    {
-      "id": "te:markets:567247",
-      "time": "2026-07-15 22:01:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Oat Hits 6-week High — Oat increased to 360.25 USd/Bu, the highest since May 2026. Over the past 4 weeks, Oat gained 17.66%, and in the last 12 months, it decreased 3.75%."
-    },
-    {
-      "id": "mkt:019f6614-bdeb-7aab-8da6-21f2bfe8a321",
-      "time": "2026-07-15 22:01:03",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian President Zelenskiy said the Defense Ministry and the armed forces need a unified stance on mobilization and airspace protection."
-    },
-    {
-      "id": "mkt:019f6614-a80e-7aab-8da6-1904a9a7b392",
-      "time": "2026-07-15 22:00:57",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK"
-      ],
-      "text": "Von der Leyen said the European Commission has approved using €10 billion in EU loans to buy drones, missiles and fighter jets for Ukraine."
-    },
-    {
-      "id": "4990239",
-      "time": "2026-07-15 22:00:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基表示，他希望歐洲在與俄羅斯的和平談判中發揮更大作用。"
-    },
-    {
-      "id": "4990238",
-      "time": "2026-07-15 22:00:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱，烏克蘭國防部與烏軍方需在動員問題及領空防務上達成統一立場。"
-    },
-    {
-      "id": "mkt:019f6614-7f7c-7aab-8da6-16915e67bf5f",
-      "time": "2026-07-15 22:00:47",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "International Monetary Fund says countries must closely monitor the financial impact of AI-driven transformation and strive to achieve inclusive growth."
-    },
-    {
-      "id": "4990237",
-      "time": "2026-07-15 22:00:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基稱正在討論更換烏克蘭外交使團人員。"
-    },
-    {
-      "id": "mkt:019f6614-6ab1-7aab-8da6-0f17063e73a8",
-      "time": "2026-07-15 22:00:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "IMF: Maintaining policy credibility and price stability is essential in an uncertain world."
-    },
-    {
-      "id": "4990236",
-      "time": "2026-07-15 22:00:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "歐盟委員會主席馮德萊恩宣佈，將從烏克蘭900億歐元歐盟貸款中撥付10億歐元用於採購無人機。"
-    },
-    {
-      "id": "mkt:019f6614-5597-7aab-8da6-0626c7416aa3",
-      "time": "2026-07-15 22:00:36",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "IMF says governments must closely monitor debt, inf, economic growth, employment and financial stability."
-    },
-    {
-      "id": "4990235",
-      "time": "2026-07-15 22:00:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織戰略主管：各國必須密切關注人工智慧轉型的金融影響，為實現包容性增長而努力。"
-    },
-    {
-      "id": "4990234",
-      "time": "2026-07-15 22:00:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際貨幣基金組織戰略部門主管：在充滿不確定性的全球環境中，維護政策可信度與物價穩定至關重要。"
-    },
-    {
-      "id": "4990233",
-      "time": "2026-07-15 22:00:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "Anthropic、黑石集團與 Hellman & Friedman 聯合推出 ODE 產品。"
-    },
-    {
-      "id": "mkt:019f6613-ece8-7aab-8da5-fdbdd7d45be0",
-      "time": "2026-07-15 22:00:09",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A U.S. Senate committee approved President Trump’s nominee to lead the Bureau of Labor Statistics by a 12-11 vote."
-    },
-    {
-      "id": "mkt:019f6613-dcab-7aab-8da5-f10e41dc71df",
-      "time": "2026-07-15 22:00:05",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. and Brent crude fell nearly $1 in intraday trade to $79.70/bbl and $84.70/bbl, respectively."
-    },
-    {
-      "id": "4990232",
-      "time": "2026-07-15 22:00:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美國參議院委員會以 12 票贊成、11 票反對的結果，透過特朗普提名的勞工統計局人選。"
-    },
-    {
-      "id": "4990231",
-      "time": "2026-07-15 21:59:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行訊息：2026年5月印度整體國際收支差額為負44億美元，2025年5月為順差44億美元。"
-    },
-    {
-      "id": "4990230",
-      "time": "2026-07-15 21:59:26",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "印度央行：2026年5月印度經常賬戶餘額為逆差20億美元，2025年5月為順差7億美元。"
-    },
-    {
-      "id": "4990229",
-      "time": "2026-07-15 21:59:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技：有序拓展海外市場】7月15日，長鑫科技董事長朱一明在科創板上市網上投資者交流會上回復投資者關於海外收入、蘋果測試進度等提問時表示，公司2023年至2025年公司境外收入佔比分別為79.95%、70.66%和57.21%。未來，公司將依託有競爭力的產品和穩定的供應能力，有序拓展海外市場，提升公司的全球化運營水平和品牌影響力。"
-    },
-    {
-      "id": "te:economy:567246",
-      "time": "2026-07-15 21:59:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Sri Lanka",
-        "Manufacturing PMI",
-        "Importance 1"
-      ],
-      "text": "Sri Lanka Manufacturing Activity Slows in June — Sri Lanka's Manufacturing PMI fell to 53.0 in June 2026 from 56.6 in the previous month, signaling a slower pace of manufacturing expansion. New orders eased to the neutral mark (50.0) from 52.6, indicating broadly unchanged demand from the previous month. Production continued to expand but at a slower pace (54.6 vs. 57.2), supported mainly by food and beverage manufacturing. Hiring remained robust and broadly in line with the previous month (59.7 vs. 60.5), although manufacturers continued to face challenges from skilled labor shortages and rising labor costs. Supplier delivery times lengthened further (66.3 vs. 61.6), while inventories increased (56.6 vs 52.6) as firms sought to mitigate supply disruptions linked to the conflict in the Middle East. Despite these headwinds, manufacturers' expectations remained positive, although geopolitical uncertainty continued to weigh on the outlook."
     }
   ]
 }
