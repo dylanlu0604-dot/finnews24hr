@@ -1,7 +1,21 @@
 {
   "date": "2026-07-23",
-  "count": 352,
+  "count": 353,
   "items": [
+    {
+      "id": "mkt:019f8b78-bb32-7aab-8e51-d141a4942cb8",
+      "time": "2026-07-23 04:16:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) has reached an equity allocation agreement and will issue up to $40 bln of Class A and Class C shares under a market trading plan."
+    },
     {
       "id": "5003026",
       "time": "2026-07-23 04:14:16",
