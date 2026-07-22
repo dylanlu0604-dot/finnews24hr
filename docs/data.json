@@ -1,7 +1,61 @@
 {
-  "updated": "2026-07-23 03:19:01",
-  "count": 17671,
+  "updated": "2026-07-23 03:24:26",
+  "count": 17666,
   "items": [
+    {
+      "id": "mkt:019f8b48-d6ac-7aab-8e50-ab4a3f4662f9",
+      "time": "2026-07-23 03:23:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CNN reports the UK government is withdrawing diplomatic staff from Iran."
+    },
+    {
+      "id": "5002982",
+      "time": "2026-07-23 03:23:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長：我方主張，301 條款相關關稅不應疊加徵收。"
+    },
+    {
+      "id": "mkt:019f8b48-19f0-7aab-8e50-a3fa9f70dea7",
+      "time": "2026-07-23 03:23:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration explores nuclear projects in federal waters】The Trump administration is exploring the possibility of deploying nuclear power projects within 3.2 bln acres of U.S. federal waters. The Department of the Interior’s Bureau of Ocean Energy Management (BOEM) and the NRC said on Wednesday they reached an agreement to strengthen cooperation in evaluating deployment of offshore/subsea nuclear plants. BOEM said there are currently no approved or planned commercial nuclear reactors in federal waters; the agreement is intended to assess whether and how the technology could be responsibly implemented in the future."
+    },
+    {
+      "id": "mkt:019f8b47-7b47-7aab-8e50-988565885784",
+      "time": "2026-07-23 03:22:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) — Falcon Heavy boosters completed additional pre-launch testing; preparations are underway for a Starship launch as early as July 23 local time (Thursday). Weather remains a key constraint on the attempt."
+    },
+    {
+      "id": "5002981",
+      "time": "2026-07-23 03:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長：關於強迫勞動豁免清單，相關關稅政策原則上適用於所有行業。"
+    },
+    {
+      "id": "mkt:019f8b44-d075-7aab-8e50-91431f5edfac",
+      "time": "2026-07-23 03:19:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. refiners push diesel output to near-record months early as global supply tightens】DOE data show U.S. refiners have ramped diesel production to near-historic levels, reversing usual seasonality. Refineries averaged 5.3 mln bpd of refined fuel oil (primarily diesel) this month; if sustained, it would be July’s highest on record and among the highest months outside the winter heating season. Refiners advanced output months early in response to acute global diesel supply tightness."
+    },
     {
       "id": "mkt:019f8b43-dd98-7aab-8e50-8f5f440f6f7e",
       "time": "2026-07-23 03:18:28",
@@ -161180,103 +161234,6 @@
         "國際"
       ],
       "text": "美國副總統萬斯談以色列：我可以百分百確定，以色列政府內部部分人士正試圖推動美國調整現有政策，只因他們希望持續開展軍事行動。我們完全能夠證實，以色列體制記憶體在一部分人，一直在操縱輿論、試圖扭轉美國民眾態度，目的是讓戰爭無限期持續下去。重申一遍，他們沒有設定任何階段性目標，只是單純想讓戰事無休止延續。"
-    },
-    {
-      "id": "4990646",
-      "time": "2026-07-16 03:24:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談及伊朗：倘若伊朗民眾想要奮起推翻現有政府，那是他們自己的選擇。但我們不會派遣15萬地面部隊去促成政權更迭，除非當地民眾本身主動想要實現這一結果。說到底，我們本就不會出兵；而主張派兵，本質上等同於要求美軍替伊朗民眾完成這件事。美國不再做這種事了，絕不會。"
-    },
-    {
-      "id": "mkt:019f673c-6cba-7aab-8daf-8c50afac676a",
-      "time": "2026-07-16 03:24:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr News Agency reports explosions heard in Ahvaz, Iran; origin of the blasts not yet determined."
-    },
-    {
-      "id": "4990645",
-      "time": "2026-07-16 03:23:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗南部城市阿瓦士傳出爆炸聲，爆炸確切起因與事發地點暫未查明。"
-    },
-    {
-      "id": "4990644",
-      "time": "2026-07-16 03:23:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國副總統萬斯談特朗普：在我看來，所謂特朗普遭人要挾的說法完全站不住腳。我瞭解他處理各類事務的行事風格。有人說他會隨便接起電話，然後對別人言聽計從——根本不可能。特朗普從來不是這種做事風格。"
-    },
-    {
-      "id": "4990643",
-      "time": "2026-07-16 03:22:34",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美中央司令部：針對伊朗發起當日第二波打擊行動】當地時間7月15日，美國中央司令部發布訊息稱，美國東部時間15時，美軍針對伊朗發起了當日第二波打擊行動。此次打擊的目標是伊朗用於威脅船隻在霍爾木茲海峽自由通行的軍事能力。"
-    },
-    {
-      "id": "mkt:019f673a-05b3-7aab-8daf-82c8c126979c",
-      "time": "2026-07-16 03:21:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "U.S. President Trump said Iran wants to meet."
-    },
-    {
-      "id": "4990641",
-      "time": "2026-07-16 03:20:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗希望展開會談。"
-    },
-    {
-      "id": "mkt:019f6739-3d94-7aab-8daf-783461b49dd4",
-      "time": "2026-07-16 03:20:32",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish",
-        "S&P500"
-      ],
-      "text": "President Trump said the US should have the world's lowest interest rates."
-    },
-    {
-      "id": "mkt:019f6738-b7ee-7aab-8daf-74c25dd78a35",
-      "time": "2026-07-16 03:19:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Mehr News Agency reports three explosions in Chabahar, Iran."
-    },
-    {
-      "id": "4990640",
-      "time": "2026-07-16 03:19:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗恰巴哈爾市傳出三起爆炸聲。"
-    },
-    {
-      "id": "4990639",
-      "time": "2026-07-16 03:19:07",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "特朗普表示他尊重美聯儲主席沃什。"
     }
   ]
 }

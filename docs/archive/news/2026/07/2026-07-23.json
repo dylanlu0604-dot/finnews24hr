@@ -1,7 +1,61 @@
 {
   "date": "2026-07-23",
-  "count": 265,
+  "count": 271,
   "items": [
+    {
+      "id": "mkt:019f8b48-d6ac-7aab-8e50-ab4a3f4662f9",
+      "time": "2026-07-23 03:23:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "CNN reports the UK government is withdrawing diplomatic staff from Iran."
+    },
+    {
+      "id": "5002982",
+      "time": "2026-07-23 03:23:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長：我方主張，301 條款相關關稅不應疊加徵收。"
+    },
+    {
+      "id": "mkt:019f8b48-19f0-7aab-8e50-a3fa9f70dea7",
+      "time": "2026-07-23 03:23:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump administration explores nuclear projects in federal waters】The Trump administration is exploring the possibility of deploying nuclear power projects within 3.2 bln acres of U.S. federal waters. The Department of the Interior’s Bureau of Ocean Energy Management (BOEM) and the NRC said on Wednesday they reached an agreement to strengthen cooperation in evaluating deployment of offshore/subsea nuclear plants. BOEM said there are currently no approved or planned commercial nuclear reactors in federal waters; the agreement is intended to assess whether and how the technology could be responsibly implemented in the future."
+    },
+    {
+      "id": "mkt:019f8b47-7b47-7aab-8e50-988565885784",
+      "time": "2026-07-23 03:22:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O) — Falcon Heavy boosters completed additional pre-launch testing; preparations are underway for a Starship launch as early as July 23 local time (Thursday). Weather remains a key constraint on the attempt."
+    },
+    {
+      "id": "5002981",
+      "time": "2026-07-23 03:21:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長：關於強迫勞動豁免清單，相關關稅政策原則上適用於所有行業。"
+    },
+    {
+      "id": "mkt:019f8b44-d075-7aab-8e50-91431f5edfac",
+      "time": "2026-07-23 03:19:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【U.S. refiners push diesel output to near-record months early as global supply tightens】DOE data show U.S. refiners have ramped diesel production to near-historic levels, reversing usual seasonality. Refineries averaged 5.3 mln bpd of refined fuel oil (primarily diesel) this month; if sustained, it would be July’s highest on record and among the highest months outside the winter heating season. Refiners advanced output months early in response to acute global diesel supply tightness."
+    },
     {
       "id": "mkt:019f8b43-dd98-7aab-8e50-8f5f440f6f7e",
       "time": "2026-07-23 03:18:28",
