@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-22 12:23:38",
-  "count": 18033,
+  "updated": "2026-07-22 12:27:41",
+  "count": 18032,
   "items": [
+    {
+      "id": "mkt:019f8813-9787-7aab-8e3a-4e8032a8994f",
+      "time": "2026-07-22 12:26:53",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "AAPL.O",
+        "MSI.O"
+      ],
+      "text": "【Counterpoint: Global foldable smartphone shipments set to rise 21% YoY in 2026; Samsung to lead】Counterpoint Research projects global foldable smartphone shipments will rise 21% YoY in 2026, extending expansion from 2025 driven by sustained demand for large premium foldables, intensifying competition among leading OEMs and Apple’s expected market entry. Samsung is forecast to retain the lead with a 32% share in 2026; Apple is projected at 25%, Huawei 24% (with particular strength in China), Motorola 8% and Honor 3%. Counterpoint notes the 2026 market structure will differ markedly from 2025."
+    },
+    {
+      "id": "5001459",
+      "time": "2026-07-22 12:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川6條地方貨運鐵路全面併入國鐵網 預計每年節省物流成本超1億元】7月21日，四川地方貨運鐵路——燕連鐵路開通了與國家鐵路貨運直通運輸業務，實現鐵路貨運“一票直通、全網通達”。至此，四川6條地方貨運鐵路全部併入全國鐵路路網。 橫跨樂山、眉山、內江3市的燕連鐵路從樂山燕崗南站起，經樂山港、井研至連界站，全長123.5公里，與歸連鐵路聯通並串聯成昆、成渝兩大國鐵幹線，是攀西地區礦石、工業原料等大宗物資外運的主要通道。四川已投運的燕連、敘大、歸連、金筠、隆敘、隆瀘敘6條地方貨運鐵路，與國家鐵路貨運直通後，將統一執行國家鐵路的平均運價水平，有效降低沿線工礦、商貿、物流各類經營主體運輸成本，預計每年可節約區域綜合物流成本超1億元。"
+    },
+    {
+      "id": "te:markets:568738",
+      "time": "2026-07-22 12:24:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Losing Streak to Third Day — India’s BSE Sensex fell about 0.8% to 76,876 on Wednesday, marking a third straight session of losses, as surging crude oil prices and cautious sentiment ahead of key corporate earnings weighed on investor appetite. The decline came after Brent crude climbed to around $92 a barrel, its highest level in five weeks, amid escalating Middle East tensions that raised concerns over potential supply disruptions. Among recent earnings updates, Bandhan Bank shares dropped about 14% despite improved profit and asset quality, while MedPlus Health fell 16.3% after reporting a decline in quarterly profit. Despite the market weakness, foreign portfolio investors remained net buyers, purchasing about 16.5 billion rupees of Indian equities in the previous session, putting July on track to become their first month of net inflows in five months. Domestic institutional investors, meanwhile, were net sellers. Other notable laggards included Gabriel India (-5.7%), SBI Funds (-2.9%), and Cupid (-1.6%)."
+    },
+    {
+      "id": "te:markets:568737",
+      "time": "2026-07-22 12:23:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Holds Advance on Tight China Supply — Copper futures held above $6.45 per pound on Wednesday after surging more than 3% in the previous session, supported by signs of tightening supply in top consumer China. China’s premium for imported copper climbed to $100 per tonne, the highest level since May last year, as Beijing’s crackdown on VAT fraud reduced scrap availability and increased demand for refined copper imports. Copper inventories across China have also continued to decline, while a series of temporary smelter maintenance outages further tightened supply. Meanwhile, stockpiles in LME warehouses dropped to their lowest level since March as traders withdrew copper for delivery into the Chinese market. By contrast, Comex-tracked copper inventories in the US climbed to a record high as shipments were redirected to the country ahead of potential US import tariffs."
+    },
+    {
+      "id": "5001458",
+      "time": "2026-07-22 12:23:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年世界網際網路大會數字絲路發展論壇開幕 】今天（7月22日）上午，由世界網際網路大會主辦，陝西省人民政府承辦的2026年世界網際網路大會數字絲路發展論壇在西安開幕。來自全球52個國家和地區以及7個國際組織約800名嘉賓共同出席論壇。這是世界網際網路大會連續第三年舉辦數字絲路發展論壇。本次論壇以“智匯絲路 數啟新程——攜手構建網路空間命運共同體”為主題，匯聚全球政產學研各界嘉賓，圍繞“絲路電商”合作與發展、智慧體協同創新發展、數智時代的文化遺產保護與傳承、數智健康等議題舉辦專題論壇。共謀數智技術創新發展之策，共商數字基礎設施互聯互通之道，共築數字文明交流互鑑之路，推動共建“一帶一路”國家凝聚共識、攜手合作，共同把握數智化發展新機遇。"
+    },
     {
       "id": "mkt:019f880f-dc71-7aab-8e3a-472c4b5f638d",
       "time": "2026-07-22 12:22:48",
@@ -165565,63 +165616,6 @@
         "公司"
       ],
       "text": "【麥當勞批次拋售香港商鋪，累計套現超10億港元】麥當勞正在加速處置其在香港的自持商鋪資產。7月14日，據《每日經濟新聞》報道，麥當勞集團近日再度出手，以1.26億港元的價格出售了位於香港大埔昌運中心的自用商鋪。至此，麥當勞自啟動香港商鋪出售計劃以來，已累計賣出11間商鋪，合計套現超過10億港元；僅2026年年內就已接連處置6處物業，套現金額突破6億港元。 香港作為全球租金最高的城市之一，其單店物業價值遠超運營利潤，出售自持商鋪可釋放鉅額資金，用於支援高增長市場的新店開發與技術投入。根據此前披露的資料，麥當勞在香港原本持有約23間自持門店物業，目前已售出11間，剩餘12間將按計劃逐步推向市場。首批8處待售物業市值約12億港元，總持有物業估值近30億港元。全部商鋪的處置可能在2026至2027年間完成。（21財經）"
-    },
-    {
-      "id": "4989082",
-      "time": "2026-07-15 12:27:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世界盃決賽用球等紀念品將拍賣】佳士得拍賣行將於7月22日至29日舉行線上拍賣活動，拍賣品包括世界盃決賽用球、主題曲演唱者夏奇拉穿過的演出服等。拍賣所得將捐贈給國際足聯“全球公民教育基金”，旨在為全球兒童籌集1億美元，提供接受優質教育和參與足球運動的機會。（新華社）"
-    },
-    {
-      "id": "4989081",
-      "time": "2026-07-15 12:26:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "【英國將對十六七歲青少年實施社媒“宵禁” 】英國政府14日宣佈，將對16歲至17歲青少年使用社交媒體實施“宵禁”。這是英國政府繼上月宣佈將禁止16歲以下人群使用一系列社交媒體應用程式後新的社媒限制舉措。英國政府表示，在預設設定狀態下，16歲至17歲青少年在0時至6時不能使用社交媒體；旨在誘使使用者更長時間瀏覽的功能，包括影片自動連續播放，也將預設關閉。英國政府6月表示，將效仿澳大利亞，禁止16歲以下人群使用一系列社交媒體應用程式。（新華社）"
-    },
-    {
-      "id": "mkt:019f6406-8663-7aab-8d93-5eb4ad458e9b",
-      "time": "2026-07-15 12:26:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's state broadcaster IRIB reported early on Wednesday that the U.S. attacked a wheat storage silo in Hoveyzeh."
-    },
-    {
-      "id": "4989080",
-      "time": "2026-07-15 12:24:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗伊斯蘭共和國廣播電視臺（IRIB）：美國於週三早些時候對伊朗霍維澤的一處小麥儲糧筒倉發動了空襲。"
-    },
-    {
-      "id": "4989079",
-      "time": "2026-07-15 12:24:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大麥娛樂啟動“麥芒計劃”  直播招募新生代演藝人才】大麥娛樂宣佈正式啟動“麥芒計劃”，即日起開放報名。據介紹，該計劃將透過網路直播形式公開招募新生代演藝人才、記錄青年藝人的成長過程，為行業輸送更多兼具唱、跳、演實力與現場舞臺感染力的演藝新人。“依託於大麥娛樂在現場演出領域的運營經驗與豐富資源，麥芒計劃將以專業訓練和長期主義建立演藝新人的供給體系，尋找對舞臺充滿熱愛與嚮往的高品質演藝人才。我們希望在滿足廣大觀眾審美需求的同時，也能為演藝行業持續輸送新鮮血液。”麥芒計劃相關負責人表示。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f6404-8d82-7aab-8d93-53c12413be8f",
-      "time": "2026-07-15 12:24:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "NIO.O",
-        "Impact bullish"
-      ],
-      "text": "【Li Bin responds to NIO's strategic investment in ChangXin Memory Technologies】July 14 — NIO was named a strategic investor in ChangXin Memory Technologies' IPO, committing 158 million yuan with an 18-month lock-up. Disclosures say NIO is a DRAM cornerstone strategic partner and will cooperate on automotive-grade LPDDR4X and LPDDR5X. NIO founder and chairman Li Bin said the partnership is proceeding smoothly and will help stabilise NIO's supply chain."
     }
   ]
 }

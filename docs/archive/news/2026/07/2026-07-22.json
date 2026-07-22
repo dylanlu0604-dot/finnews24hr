@@ -1,7 +1,58 @@
 {
   "date": "2026-07-22",
-  "count": 1170,
+  "count": 1175,
   "items": [
+    {
+      "id": "mkt:019f8813-9787-7aab-8e3a-4e8032a8994f",
+      "time": "2026-07-22 12:26:53",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bullish",
+        "AAPL.O",
+        "MSI.O"
+      ],
+      "text": "【Counterpoint: Global foldable smartphone shipments set to rise 21% YoY in 2026; Samsung to lead】Counterpoint Research projects global foldable smartphone shipments will rise 21% YoY in 2026, extending expansion from 2025 driven by sustained demand for large premium foldables, intensifying competition among leading OEMs and Apple’s expected market entry. Samsung is forecast to retain the lead with a 32% share in 2026; Apple is projected at 25%, Huawei 24% (with particular strength in China), Motorola 8% and Honor 3%. Counterpoint notes the 2026 market structure will differ markedly from 2025."
+    },
+    {
+      "id": "5001459",
+      "time": "2026-07-22 12:25:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川6條地方貨運鐵路全面併入國鐵網 預計每年節省物流成本超1億元】7月21日，四川地方貨運鐵路——燕連鐵路開通了與國家鐵路貨運直通運輸業務，實現鐵路貨運“一票直通、全網通達”。至此，四川6條地方貨運鐵路全部併入全國鐵路路網。 橫跨樂山、眉山、內江3市的燕連鐵路從樂山燕崗南站起，經樂山港、井研至連界站，全長123.5公里，與歸連鐵路聯通並串聯成昆、成渝兩大國鐵幹線，是攀西地區礦石、工業原料等大宗物資外運的主要通道。四川已投運的燕連、敘大、歸連、金筠、隆敘、隆瀘敘6條地方貨運鐵路，與國家鐵路貨運直通後，將統一執行國家鐵路的平均運價水平，有效降低沿線工礦、商貿、物流各類經營主體運輸成本，預計每年可節約區域綜合物流成本超1億元。"
+    },
+    {
+      "id": "te:markets:568738",
+      "time": "2026-07-22 12:24:19",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "India",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Sensex Extends Losing Streak to Third Day — India’s BSE Sensex fell about 0.8% to 76,876 on Wednesday, marking a third straight session of losses, as surging crude oil prices and cautious sentiment ahead of key corporate earnings weighed on investor appetite. The decline came after Brent crude climbed to around $92 a barrel, its highest level in five weeks, amid escalating Middle East tensions that raised concerns over potential supply disruptions. Among recent earnings updates, Bandhan Bank shares dropped about 14% despite improved profit and asset quality, while MedPlus Health fell 16.3% after reporting a decline in quarterly profit. Despite the market weakness, foreign portfolio investors remained net buyers, purchasing about 16.5 billion rupees of Indian equities in the previous session, putting July on track to become their first month of net inflows in five months. Domestic institutional investors, meanwhile, were net sellers. Other notable laggards included Gabriel India (-5.7%), SBI Funds (-2.9%), and Cupid (-1.6%)."
+    },
+    {
+      "id": "te:markets:568737",
+      "time": "2026-07-22 12:23:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Holds Advance on Tight China Supply — Copper futures held above $6.45 per pound on Wednesday after surging more than 3% in the previous session, supported by signs of tightening supply in top consumer China. China’s premium for imported copper climbed to $100 per tonne, the highest level since May last year, as Beijing’s crackdown on VAT fraud reduced scrap availability and increased demand for refined copper imports. Copper inventories across China have also continued to decline, while a series of temporary smelter maintenance outages further tightened supply. Meanwhile, stockpiles in LME warehouses dropped to their lowest level since March as traders withdrew copper for delivery into the Chinese market. By contrast, Comex-tracked copper inventories in the US climbed to a record high as shipments were redirected to the country ahead of potential US import tariffs."
+    },
+    {
+      "id": "5001458",
+      "time": "2026-07-22 12:23:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年世界網際網路大會數字絲路發展論壇開幕 】今天（7月22日）上午，由世界網際網路大會主辦，陝西省人民政府承辦的2026年世界網際網路大會數字絲路發展論壇在西安開幕。來自全球52個國家和地區以及7個國際組織約800名嘉賓共同出席論壇。這是世界網際網路大會連續第三年舉辦數字絲路發展論壇。本次論壇以“智匯絲路 數啟新程——攜手構建網路空間命運共同體”為主題，匯聚全球政產學研各界嘉賓，圍繞“絲路電商”合作與發展、智慧體協同創新發展、數智時代的文化遺產保護與傳承、數智健康等議題舉辦專題論壇。共謀數智技術創新發展之策，共商數字基礎設施互聯互通之道，共築數字文明交流互鑑之路，推動共建“一帶一路”國家凝聚共識、攜手合作，共同把握數智化發展新機遇。"
+    },
     {
       "id": "mkt:019f880f-dc71-7aab-8e3a-472c4b5f638d",
       "time": "2026-07-22 12:22:48",
