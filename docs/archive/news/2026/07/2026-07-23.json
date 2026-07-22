@@ -1,7 +1,131 @@
 {
   "date": "2026-07-23",
-  "count": 507,
+  "count": 519,
   "items": [
+    {
+      "id": "5003128",
+      "time": "2026-07-23 06:14:41",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【多家外資機構發聲看好A股市場看多中國股票】近日，在全球股票市場顯著回撥、A股市場波動加劇的背景下，外資機構密集釋出觀點，明確看好中國股市下半年表現。花旗將中國股票評級上調至“超配”，並將中國市場視為新興市場資本輪動的首選目標；渣打亦維持對中國股票市場的超配立場。外資機構一致看多的背後，是上半年中國宏觀經濟所展現出的韌性，以及人工智慧、生物科技等創新領域持續釋放的吸引力。（上證報）"
+    },
+    {
+      "id": "5003127",
+      "time": "2026-07-23 06:13:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱開始對伊朗軍事目標發起新一輪打擊】當地時間7月22日，美國中央司令部在社交媒體發文稱，美國東部時間當天下午5時30分，美軍開始對伊朗軍事目標發動新一輪打擊。(央視新聞)"
+    },
+    {
+      "id": "mkt:019f8be3-6438-7aab-8e53-d131d1a4e315",
+      "time": "2026-07-23 06:12:43",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7"
+      ],
+      "text": "Tesla (TSLA.O) CEO Elon Musk said areas of overlap between Tesla and SpaceX are increasing. He said he could not discuss any merger of the two companies on the earnings call."
+    },
+    {
+      "id": "5003126",
+      "time": "2026-07-23 06:12:39",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 其無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。"
+    },
+    {
+      "id": "5003125",
+      "time": "2026-07-23 06:12:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 特斯拉與SpaceX之間業務重合的領域正持續增多。"
+    },
+    {
+      "id": "mkt:019f8be2-e214-7aab-8e53-cc3c4cb9fc14",
+      "time": "2026-07-23 06:12:09",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【WSJ: US rushes forces, medics and equipment to Middle East to give Trump more options against Iran】The Wall Street Journal, citing flight-tracking data and US officials, reports the US is urgently deploying troops, medical personnel and equipment to the Middle East to expand military options as President Trump considers broader action against Iran. Over the past week special operations forces have been moved from US bases to the region. Multiple fighter squadrons have completed deployments across the Middle East and bombers at US and UK bases are on high alert to reinforce operations. More than 150 medical personnel arrived in recent days at Landstuhl Regional Medical Center in Germany, the primary treatment facility for US personnel wounded in Middle Eastern combat."
+    },
+    {
+      "id": "mkt:019f8be1-65d5-7aab-8e53-c0ba966c35fb",
+      "time": "2026-07-23 06:10:32",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) CEO Elon Musk said he expects demand for fully autonomous robotaxis will not face any challenges."
+    },
+    {
+      "id": "5003124",
+      "time": "2026-07-23 06:10:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 公司預計Robotaxi 不會面臨需求不足的問題。"
+    },
+    {
+      "id": "mkt:019f8bdf-e420-7aab-8e53-bafac8a05580",
+      "time": "2026-07-23 06:08:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude up more than 2.00% intraday at $88.64/bbl."
+    },
+    {
+      "id": "mkt:019f8bdf-cd8f-7aab-8e53-b1aef443f8a2",
+      "time": "2026-07-23 06:08:47",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "Star Stocks",
+        "Tesla",
+        "MU.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) CEO Elon Musk said Micron offered a substantial allocation of memory chips on reasonable terms."
+    },
+    {
+      "id": "5003123",
+      "time": "2026-07-23 06:08:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "馬斯克表示身體不適，在回答有關供應商滿足Optimus需求的問題時稱自己“今天有點病”。"
+    },
+    {
+      "id": "5003122",
+      "time": "2026-07-23 06:08:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 美光以合理的供貨條件向特斯拉供應了數量可觀的儲存晶片配額。"
+    },
     {
       "id": "5003121",
       "time": "2026-07-23 06:06:40",
