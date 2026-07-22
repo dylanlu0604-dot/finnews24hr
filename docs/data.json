@@ -1,7 +1,139 @@
 {
-  "updated": "2026-07-23 01:00:52",
-  "count": 17680,
+  "updated": "2026-07-23 01:05:07",
+  "count": 17690,
   "items": [
+    {
+      "id": "5002882",
+      "time": "2026-07-23 01:04:13",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見汶萊外交部長馬丁】中共中央政治局委員、外交部長王毅22日在馬尼拉會見汶萊外長馬丁王子。王毅轉達習近平主席對汶萊蘇丹哈桑納爾的親切問候，祝賀馬丁履新並表示，中文友誼跨越千年。在兩國元首戰略引領下，中文關係成為大小國家平等相待、合作共贏的典範。去年習近平主席同哈桑納爾蘇丹陛下就構建中文命運共同體達成重要共識，開啟中文關係嶄新篇章。今年是中文建交35週年，比拉王儲不久前成功訪華。中方願同文方一道，落實兩國元首重要共識，發揮中文政府間聯合指導委員會作用，加強經貿、能源、人工智慧等領域合作，推進海上共同開發，推動兩國務實合作結出更多成果，打造更高水平的中文戰略合作伙伴關係。（新華社）"
+    },
+    {
+      "id": "5002881",
+      "time": "2026-07-23 01:03:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "德意志交易所集團：維持2026年剔除財資業務收益後的淨收入約為57億歐元的預期。"
+    },
+    {
+      "id": "5002880",
+      "time": "2026-07-23 01:02:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國20年期國債收益率下降5.163%，高於預售時的5.158%。"
+    },
+    {
+      "id": "5002879",
+      "time": "2026-07-23 01:02:22",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣130億美元20年期國債，得標利率5.163%（6月16日為4.927%），投標倍數2.64（前次為2.75）。"
+    },
+    {
+      "id": "mkt:019f8ac7-326c-7aab-8e4e-6e392409b72b",
+      "time": "2026-07-23 01:02:18",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "U.S. 20-year Treasury auction as of July 22: percentage of awards at the winning yield 15.13% (previous 56.57%)."
+    },
+    {
+      "id": "mkt:019f8ac7-2eba-7aab-8e4e-61aa68a9a152",
+      "time": "2026-07-23 01:02:17",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "S&P500",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "U.S. 20-year Treasury auction on July 22 stop-out yield 5.163%, up from 4.93% previously (+23 bps)."
+    },
+    {
+      "id": "mkt:019f8ac7-286f-7aab-8e4e-5f521530094f",
+      "time": "2026-07-23 01:02:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US 20-year Treasury auction bid-cover ratio 2.64 on July 22, down from 2.75 previously."
+    },
+    {
+      "id": "mkt:019f8ac6-f9f1-7aab-8e4e-5462dceacd42",
+      "time": "2026-07-23 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Bid/Cover Ratio (Jul.22) | actual 2.64 | previous 2.75"
+    },
+    {
+      "id": "mkt:019f8ac6-f9ea-7aab-8e4e-49b37414faa6",
+      "time": "2026-07-23 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction High Yield Rate (Jul.22) | actual 5.163% | previous 4.93%"
+    },
+    {
+      "id": "mkt:019f8ac6-f9e0-7aab-8e4e-4594c4277b1a",
+      "time": "2026-07-23 01:02:03",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 20-Year Bond Auction Accepted at High (Jul.22) | actual 15.13% | previous 56.57%"
+    },
+    {
+      "id": "5002878",
+      "time": "2026-07-23 01:01:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "德意志交易所集團：第二季度歸屬於公司股東的淨利潤為5.69億歐元。"
+    },
+    {
+      "id": "mkt:019f8ac5-d10e-7aab-8e4e-3dbb4e708d7c",
+      "time": "2026-07-23 01:00:47",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "El Paso Natural Gas Company declared force majeure on its Line 1102 pipeline."
+    },
+    {
+      "id": "5002877",
+      "time": "2026-07-23 01:00:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債20年期收益率在130億美元拍賣前為5.158%。"
+    },
     {
       "id": "5002876",
       "time": "2026-07-23 01:00:02",
@@ -161366,30 +161498,6 @@
         "宏觀"
       ],
       "text": "巴西財政部預測 2027 年通脹率為 3.6%，此前預期為 3.5%。"
-    },
-    {
-      "id": "mkt:019f66bd-0efe-7aab-8dac-ba63f7854bdf",
-      "time": "2026-07-16 01:04:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Fars News reported the Iranian military destroyed a US Lucas drone at Bandar Abbas port."
-    },
-    {
-      "id": "mkt:019f66bc-fa97-7aab-8dac-b33bd45cf38a",
-      "time": "2026-07-16 01:04:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Politico reports the U.S. House could vote as soon as next week on legislation to restrict members' stock trading, with House Republicans pushing to revive the measure."
-    },
-    {
-      "id": "4990523",
-      "time": "2026-07-16 01:03:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "法爾斯通訊社訊息：伊朗軍方在阿巴斯港擊落美軍 “盧卡斯” 無人機。"
     }
   ]
 }
