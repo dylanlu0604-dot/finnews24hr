@@ -1,7 +1,92 @@
 {
   "date": "2026-07-22",
-  "count": 2900,
+  "count": 2909,
   "items": [
+    {
+      "id": "5002687",
+      "time": "2026-07-22 22:06:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【在預期蘋果將首次亮相摺疊屏手機之際，三星上調新款摺疊智慧手機價格】7月22日，三星在英國倫敦舉行的Unpacked活動上推出了Galaxy Z Fold8系列，這三款裝置及其售價分別為：Galaxy Z Fold8 Ultra（2099美元）、Galaxy Z Fold8（1899美元）、以及Galaxy Z Flip8（1199美元）。Fold8是三星摺疊屏產品陣容中的最新裝置。由於記憶體晶片成本不斷上升，這家韓國科技巨頭上調了其摺疊屏手機的價格。新裝置的釋出正值業界預期蘋果將推出其首款摺疊屏iPhone之前。"
+    },
+    {
+      "id": "5002686",
+      "time": "2026-07-22 22:05:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國防部證實，約旦 “塔樓” 基地遇襲事件中第三名美軍人員身亡。"
+    },
+    {
+      "id": "5002685",
+      "time": "2026-07-22 22:05:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "易捷航空<EZJ.L>股價延續跌勢，最新跌幅為13.4%，有望創下2020年3月以來最大單日跌幅。"
+    },
+    {
+      "id": "mkt:019f8a25-0b7b-7aab-8e49-d439c8d38309",
+      "time": "2026-07-22 22:05:11",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "OpenAI will provide up to 1,000 MW of flexible demand response to the state of Georgia as part of a Georgia data-center project."
+    },
+    {
+      "id": "5002684",
+      "time": "2026-07-22 22:04:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普華永道中國在上海成立人工智慧研究院】7月22日，普華永道中國宣佈在上海成立人工智慧研究院。在開幕儀式上，普華永道中國主席兼執行長何睦寧表示：“中國在AI技術研發、場景落地和生態建設方面等的優勢，已使其成為全球頂尖的創新高地。”普華永道中國諮詢業務主管合夥人黃啟佳指出，人工智慧的價值最終要落在產業實處。據悉，作為普華永道佈局中國AI生態的載體，該研究院涵蓋前沿研究、AI智造、生態聯盟、產業交流和人才發展等核心能力板塊，覆蓋從前沿研究到真實產業應用的全價值鏈。（澎湃）"
+    },
+    {
+      "id": "mkt:019f8a24-6875-7aab-8e49-cfade05edd19",
+      "time": "2026-07-22 22:04:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says Iran will pay a heavy price】President Trump said in a Wednesday interview that Iran will pay a heavy price and will not have nuclear weapons. He said an investigation is under way into the deaths of U.S. soldiers and that Iran will be held responsible. Trump added that Americans are not opposed to war and do not want gasoline prices to rise."
+    },
+    {
+      "id": "5002683",
+      "time": "2026-07-22 22:04:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲天化集團與華為簽署合作協議】7月22日，雲天化集團有限責任公司與華為技術有限公司在上海簽署合作協議。根據協議，雙方將在數智化轉型頂層規劃、工業網際網路、智慧礦山、智慧工廠、智慧園區等領域深化合作；加快磷基新材料綠色低碳迴圈經濟產業叢集建設。同時，雙方還將在數字化人才培養等方面深化合作。"
+    },
+    {
+      "id": "te:markets:568916",
+      "time": "2026-07-22 22:03:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Spain",
+        "stocks",
+        "Importance 0"
+      ],
+      "text": "Banco Bilbao Vizcaya Argentaria Stock Price Hits 28-year High — Banco Bilbao Vizcaya Argentaria shares increased to 23.11 EUR, the highest since July 1998. Over the past 4 weeks, Banco Bilbao Vizcaya Argentaria gained 6.5%, and in the last 12 months, it increased 79.77%."
+    },
+    {
+      "id": "5002682",
+      "time": "2026-07-22 22:03:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方公司旗下佐治亞電力公司：OpenAI承諾提供最高1000兆瓦的靈活性需求響應，為電網提供支撐。"
+    },
     {
       "id": "mkt:019f8a22-af7d-7aab-8e49-c54714409328",
       "time": "2026-07-22 22:02:36",
