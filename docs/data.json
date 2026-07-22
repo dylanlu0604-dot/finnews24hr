@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-23 03:11:08",
-  "count": 17684,
+  "updated": "2026-07-23 03:15:04",
+  "count": 17678,
   "items": [
+    {
+      "id": "5002975",
+      "time": "2026-07-23 03:11:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX： 超重助推器全部起飛前附加測試已完成。團隊現已啟動星艦發射籌備工作，最早將於當地時間明日（7 月 23 日週四）實施發射；目前天氣是影響本次發射的關鍵觀測因素。"
+    },
     {
       "id": "5002974",
       "time": "2026-07-23 03:08:57",
@@ -161347,67 +161355,6 @@
         "國際"
       ],
       "text": "特朗普：油價將在一段時間內波動。"
-    },
-    {
-      "id": "4990628",
-      "time": "2026-07-16 03:14:29",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國軍方：此次打擊目標為伊朗用於威脅自由通行霍爾木茲海峽船隻的軍事設施。"
-    },
-    {
-      "id": "4990627",
-      "time": "2026-07-16 03:14:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "美軍方面：美國東部時間今日下午3點，美軍已對伊朗發起今日第二波打擊行動。"
-    },
-    {
-      "id": "mkt:019f6733-7126-7aab-8daf-3cdc4d1dcf1c",
-      "time": "2026-07-16 03:14:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's foreign ministry said Foreign Minister Araghchi returned to Tehran from Doha."
-    },
-    {
-      "id": "4990626",
-      "time": "2026-07-16 03:14:07",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍：對伊朗發動打擊。"
-    },
-    {
-      "id": "4990625",
-      "time": "2026-07-16 03:12:30",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普重申國防企業不應回購股票。"
-    },
-    {
-      "id": "te:markets:567308",
-      "time": "2026-07-16 03:12:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Palladium Hits 4-week High — Palladium increased to 1327.00 USD/t.oz, the highest since June 2026. Over the past 4 weeks, Palladium lost 3.5%, and in the last 12 months, it increased 2.72%."
-    },
-    {
-      "id": "4990624",
-      "time": "2026-07-16 03:11:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗外交部：外交部長已返回德黑蘭。"
     }
   ]
 }
