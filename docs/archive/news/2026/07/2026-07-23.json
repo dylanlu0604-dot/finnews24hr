@@ -1,7 +1,39 @@
 {
   "date": "2026-07-23",
-  "count": 539,
+  "count": 542,
   "items": [
+    {
+      "id": "mkt:019f8bf9-3860-7aab-8e53-fa2ec69cfc0d",
+      "time": "2026-07-23 06:36:33",
+      "tags": [
+        "MKT News",
+        "005930.KS",
+        "Impact bearish",
+        "000660.KS"
+      ],
+      "text": "【Korean shareholder group files criminal complaint over profit-linked bonus deals at Samsung, SK Hynix】A Korean shareholder-rights group has filed a criminal complaint accusing SK Hynix’s chief executive and Samsung Electronics’ vice chairman and chief executive of breaching fiduciary duties by agreeing profit-linked bonus arrangements with labour unions. The group lodged the complaint with police and separately reported the labour minister to the unit that investigates crimes by senior public officials, alleging he abused his authority by intervening in Samsung’s May pay talks. The group argues profit-linked performance bonuses are profit distributions that require shareholder approval and should not be settled through collective bargaining."
+    },
+    {
+      "id": "5003143",
+      "time": "2026-07-23 06:35:25",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【7月23日隔夜要聞一覽】\n1、美軍稱開始對伊朗軍事目標發起新一輪打擊。\n2、特朗普：預計美聯邦政府在9月將出現“停擺”。\n3、美眾議院透過一項年度國防政策法案，總額超萬億美元。\n4、Alphabet第二季度營收同比增長24%，達到1198億美元。公司各業務板塊表現強勁，實現連續12個季度營收雙位數增長。\n5、特斯拉第二季度總營收282.36億美元，同比增長26%。運營利潤僅3.98億美元，同比下降57%，運營利潤率1.4%\n6、AMD週三宣佈與Anthropic建立戰略合作，計劃在未來向其投資高達50億美元。\n7、特斯拉CEO馬斯克：無法在財報電話會議上討論特斯拉與 SpaceX 合併相關事宜。\n8、WTI原油期貨價格上漲2.49美元，收於每桶86.83美元，漲2.95%；倫特原油期貨價格上漲3.06美元，收於每桶94.07美元，漲3.36%。\n9、歐盟委員會有條件批准派拉蒙天舞收購華納兄弟的交易。"
+    },
+    {
+      "id": "te:markets:568965",
+      "time": "2026-07-23 06:35:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Silver Gains by 1.30% — Top commodity gainers are Silver (1.30%) and Gold (1.18%). Biggest losers are Iron Ore CNY (-1.27%), Copper (-1.07%) and Lithium Carbonate (-0.69%)."
+    },
     {
       "id": "mkt:019f8bf7-0a32-7aab-8e53-f1161c3ac3c2",
       "time": "2026-07-23 06:34:10",
