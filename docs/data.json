@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-22 08:43:05",
-  "count": 18088,
+  "updated": "2026-07-22 08:47:04",
+  "count": 18084,
   "items": [
+    {
+      "id": "5001094",
+      "time": "2026-07-22 08:44:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "海南省氣象臺2026年07月22日08時41分發布海上雷雨大風黃色預警訊號：受對流雲團影響，北部灣北部海面22日08時45分到19時可能出現雷雨大風天氣，風力達7～9級並伴有強雷電，建議有關單位和人員做好防範工作。"
+    },
     {
       "id": "mkt:019f8746-522a-7aab-8e35-3f2364e1dcaf",
       "time": "2026-07-22 08:42:40",
@@ -166256,50 +166264,6 @@
         "其他"
       ],
       "text": "【兩市融資餘額較上日減少109.58億元】截至7月14日，上交所融資餘額報14520.14億元，較前一交易日減少55.03億元；深交所融資餘額報14172.64億元，較前一交易日減少54.55億元；兩市合計28692.78億元，較前一交易日減少109.58億元。"
-    },
-    {
-      "id": "4988717",
-      "time": "2026-07-15 08:46:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "【進度過四成，我國南方早稻迎來大面積收穫】農業農村部最新農情排程顯示，我國南方早稻迎來大面積收穫，收穫進度已過四成。"
-    },
-    {
-      "id": "te:markets:566947",
-      "time": "2026-07-15 08:46:04",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Japan",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "Japanese Shares Gain for Second Session — The Nikkei 225 Index climbed 0.9% to above 68,300, while the broader Topix Index advanced 1% to 4,080 on Wednesday, extending gains from the previous session as Japanese equities tracked Wall Street higher after softer-than-expected US inflation data reduced expectations of a near-term Federal Reserve interest rate hike. Investors also looked past escalating geopolitical tensions in the Middle East after President Donald Trump threatened additional strikes on Iran while reinstating a US blockade against Tehran in the Strait of Hormuz. On the domestic front, data showed Japan’s machinery orders fell more than expected in May, reflecting broad-based weakness in business investment. Technology and AI-related stocks led the advance, with Kioxia Holdings surging 6.7%, Advantest rising 4.4%, Tokyo Electron gaining 1.6%, Taiyo Yuden adding 5.7%, and Lasertec jumping 6.9%."
-    },
-    {
-      "id": "4988716",
-      "time": "2026-07-15 08:45:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【減肥藥大戰：諾和諾德口服藥遙遙領先禮來】減肥口服藥上市是製藥行業競爭最白熱化的戰場。目前來看，禮來公司(Eli Lilly)在與競爭對手諾和諾德(Novo Nordisk)的較量中處於下風。根據最新一週的資料，自其減肥口服藥Foundayo於4月上市以來，禮來公司佔據了新型口服藥處方量約11%的份額。諾和諾德於1月推出的維秀美(Wegovy)口服藥則佔據其餘份額。對於規模近800億美元的抗肥胖藥物市場而言，這是一個令人矚目的變局-該市場目前是製藥行業最炙手可熱的領域之一。禮來公司在注射劑銷售方面佔據主導地位。分析師原本認為該公司的口服藥也會同樣大獲全勝。醫生指出，禮來面臨的挑戰之一在於臨床研究資料：服用諾和諾德口服藥的患者在用藥一年多後，平均體重減輕了16.6%，而服用Foundayo的患者平均減重僅為12.4%。分析師表示，拖慢禮來步伐的另一個原因是，該公司花費了較長時間才爭取到健康保險計劃的報銷准入。"
-    },
-    {
-      "id": "4988715",
-      "time": "2026-07-15 08:44:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "【OpenAI：服務已恢復正常，系統運轉良好】7月15日，據OpenAI狀態頁面最新更新，此前遭遇故障的ChatGPT及其相關係統已完全恢復正常執行。頁面狀態現已轉為綠色的“服務正常運轉”。OpenAI官方表示，目前未監測到任何影響其系統執行的已知問題。"
-    },
-    {
-      "id": "4988714",
-      "time": "2026-07-15 08:43:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "OpenAI：系統全面恢復執行。"
     }
   ]
 }
