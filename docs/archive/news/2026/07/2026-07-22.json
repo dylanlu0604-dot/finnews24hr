@@ -1,7 +1,175 @@
 {
   "date": "2026-07-22",
-  "count": 1530,
+  "count": 1548,
   "items": [
+    {
+      "id": "5001698",
+      "time": "2026-07-22 15:18:05",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【英國通脹率降至15個月低點 消費者暫獲喘息之機】受汽油和食品價格下跌影響，英國通脹率降至一年多來低點，給民眾帶來一絲喘息之機。但隨著中東局勢再度緊張推高能源價格，這種緩和勢頭可能只是曇花一現。英國國家統計局週三公佈，6月英國消費者價格同比上漲2.6%，漲幅低於前月的2.8%，為去年3月以來最低水平。這一數字也低於經濟學家平均預期的2.7%，是連續第三個月低於預期。上月，隨著市場對美伊衝突有望結束的預期升溫，原油價格大幅下跌，汽油和柴油價格隨之下降3.1%。此外，食品通脹降至2024年以來最低水平，以及服裝行業大幅打折促銷，也對整體通脹形成下行壓力。服務業通脹率這一英國央行密切關注的國內壓力指標從3.7%降至3.6%，略高於預期。"
+    },
+    {
+      "id": "mkt:019f88b0-3ff3-7aab-8e3e-e8b157bb2f14",
+      "time": "2026-07-22 15:17:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Bank Indonesia governor says the central bank will strengthen its monetary policy response to keep headline inflation within the target range by 2027."
+    },
+    {
+      "id": "mkt:019f88af-eb45-7aab-8e3e-e1950954f63c",
+      "time": "2026-07-22 15:17:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Bank Indonesia governor said the central bank will take measures to mitigate potential El Niño-driven inflationary pressure on food prices."
+    },
+    {
+      "id": "5001697",
+      "time": "2026-07-22 15:17:33",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：截至7月21日，央行已購入188.68萬億印尼盾政府債券，含二級市場購入部分。"
+    },
+    {
+      "id": "5001696",
+      "time": "2026-07-22 15:17:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上海上半年伺服器及相關配件、積體電路、固態硬碟等五大類產品進出口達4712億元 同比增長71.8%】據上海海關統計分析處的資料顯示，今年1至6月，上海的工業級變壓器、儲能電池、伺服器及相關配件、積體電路、固態硬碟等五大類產品，合計進出口達4712億元，增長71.8%。這些產品緊密匹配全球AI算力建設、智慧產業升級的剛需，海外訂單穩定性強，且增量充足。"
+    },
+    {
+      "id": "mkt:019f88af-b269-7aab-8e3e-da0ffc36f4b3",
+      "time": "2026-07-22 15:17:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Interior Ministry spokesman said a post-war reconstruction command has been established and is operating at the highest levels of government, co-led by the first vice president and the head of the Plan and Budget Organization."
+    },
+    {
+      "id": "5001695",
+      "time": "2026-07-22 15:17:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長：已採取措施緩解厄爾尼諾現象影響食品價格所帶來的潛在通脹風險。"
+    },
+    {
+      "id": "5001694",
+      "time": "2026-07-22 15:17:16",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【上半年財政下達多筆“真金白銀”加力保民生】記者從7月22日舉行的財政部新聞釋出會上獲悉，今年上半年，財政加大保障和改善民生力度，下達基本養老保險補助資金1.2萬億元，支援地方按時足額髮放養老金；下達城鄉居民基本醫療保險補助資金3864億元，鞏固基本醫療保險參保率和保障水平；下達育兒補貼資金約1000億元、學前一年免保育教育費補助資金241億元，降低家庭生育養育成本；下達困難群眾救助補助資金1567億元，支援地方切實保障困難群眾基本生活。(新華社)"
+    },
+    {
+      "id": "5001693",
+      "time": "2026-07-22 15:16:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗內政部發言人：內政部長訪問巴基斯坦是事先計劃好的，旨在增加貿易往來。"
+    },
+    {
+      "id": "mkt:019f88af-0bbd-7aab-8e3e-d4d8b348dd8f",
+      "time": "2026-07-22 15:16:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's interior ministry spokesman said the interior minister's visit to Pakistan was pre-planned and aimed at increasing trade."
+    },
+    {
+      "id": "mkt:019f88af-0021-7aab-8e3e-ce0e08bec5bb",
+      "time": "2026-07-22 15:16:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures midday close】China bond futures midday close: 2-year (TS) most-active contract +0.02%, 5-year (TF) +0.10%, 10-year (T) +0.14%, 30-year (TL) +0.62%."
+    },
+    {
+      "id": "5001692",
+      "time": "2026-07-22 15:16:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印尼央行行長：印尼銀行將強化貨幣政策應對措施，以在2027年之前將整體通脹維持在目標區間內。"
+    },
+    {
+      "id": "te:markets:568792",
+      "time": "2026-07-22 15:16:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Shangai Composite Index Closes 0.07% Lower — The Shangai Composite Index decreased 3 points or 0.07 percent on Wednesday to close at 3862 points. The decline was led by Sanan Optoelectron (-1.20%), NARI Technology (-1.01%) and Yonghui Superstore (-0.96%). On the upside, the strongest performers were Zijin Mining (6.62%), LONGi Green (5.62%) and China Molybdenum (5.46%)."
+    },
+    {
+      "id": "mkt:019f88ae-1eb8-7aab-8e3e-c3b6c37b63d8",
+      "time": "2026-07-22 15:15:40",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "DXY",
+        "Impact bearish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Bank Indonesia governor said the rupiah should remain stable and is likely to strengthen going forward."
+    },
+    {
+      "id": "mkt:019f88ad-f63e-7aab-8e3e-bb42b217f2f6",
+      "time": "2026-07-22 15:15:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Bank Indonesia governor said the central bank will expand incentives to attract capital inflows, promote rupiah-denominated settlement and implement other measures to support the rupiah."
+    },
+    {
+      "id": "5001691",
+      "time": "2026-07-22 15:15:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨收盤】 30年期主力合約漲0.62%， 10年期主力合約漲0.14%， 5年期主力合約漲0.10%， 2年期主力合約漲0.02%。"
+    },
+    {
+      "id": "5001690",
+      "time": "2026-07-22 15:14:47",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長：未來印尼盾匯率將保持穩定，並存在走強趨勢。"
+    },
+    {
+      "id": "5001689",
+      "time": "2026-07-22 15:14:35",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "印度尼西亞央行行長：印尼央行將擴大激勵措施以吸引資本流入、推廣本幣結算使用，並採取其他措施支撐印尼盾。"
+    },
     {
       "id": "mkt:019f88ac-2736-7aab-8e3e-b3ec581c6635",
       "time": "2026-07-22 15:13:31",
