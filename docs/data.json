@@ -1,7 +1,167 @@
 {
-  "updated": "2026-07-22 23:32:01",
-  "count": 17696,
+  "updated": "2026-07-22 23:36:26",
+  "count": 17694,
   "items": [
+    {
+      "id": "5002807",
+      "time": "2026-07-22 23:34:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "OpenAI：作為美國能源部“創世紀”（Genesis）計劃的一部分，OpenAI將為參與該計劃的研究人員提供支援。"
+    },
+    {
+      "id": "5002806",
+      "time": "2026-07-22 23:34:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗布什爾省省長：哈爾克島未發生爆炸或火災。"
+    },
+    {
+      "id": "mkt:019f8a76-f3dc-7aab-8e4d-249e90ed45f6",
+      "time": "2026-07-22 23:34:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI will commit $3 million in API support to two large-scale scientific initiatives to test frontier models against major scientific challenges."
+    },
+    {
+      "id": "mkt:019f8a76-b470-7aab-8e4d-1beec22b0fa3",
+      "time": "2026-07-22 23:34:22",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. 4-month Treasury auction through July 22 — share of allotment at the stop-out (high) yield 63.29%, prior 21.99%."
+    },
+    {
+      "id": "mkt:019f8a76-9643-7aab-8e4d-156f5ff341c7",
+      "time": "2026-07-22 23:34:15",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "EURUSD"
+      ],
+      "text": "U.S. 4-month Treasury bill auction to July 22 stop-out yield 3.845%, prior 3.75%."
+    },
+    {
+      "id": "mkt:019f8a76-756d-7aab-8e4d-0b52c2788490",
+      "time": "2026-07-22 23:34:06",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "US 4-month Treasury auction bid-cover ratio 2.76, prior 3.35."
+    },
+    {
+      "id": "mkt:019f8a76-703e-7aab-8e4d-02b2e28e0b11",
+      "time": "2026-07-22 23:34:05",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.22) | actual 3.845% | previous 3.75%"
+    },
+    {
+      "id": "5002805",
+      "time": "2026-07-22 23:34:03",
+      "tags": [
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "【歐洲主要股指收盤普漲】歐洲斯托克600指數上漲0.6%，歐洲斯托克指數上漲0.55%，歐元區藍籌股指數上漲0.53%。英國富時100指數上漲1.28%，德國DAX指數上漲0.65%，法國CAC 40指數上漲0.95%，西班牙IBEX指數上漲1%。"
+    },
+    {
+      "id": "mkt:019f8a76-56e5-7aab-8e4c-fc0397609f7b",
+      "time": "2026-07-22 23:33:59",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.22) | actual 2.76 | previous 3.35"
+    },
+    {
+      "id": "5002804",
+      "time": "2026-07-22 23:33:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：財長貝森特肯定巴基斯坦為實施重大經濟改革所做的努力，並強調維持改革勢頭的重要性。"
+    },
+    {
+      "id": "5002803",
+      "time": "2026-07-22 23:33:14",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：美國財長貝森特會見巴基斯坦財政部長，對巴基斯坦在恢復宏觀經濟穩定方面取得的進展表示歡迎。"
+    },
+    {
+      "id": "5002802",
+      "time": "2026-07-22 23:33:00",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部：財長貝森特對巴基斯坦為實現更強的經濟自主所做的努力表示支援，並稱贊巴政府推動重返資本市場的舉措。"
+    },
+    {
+      "id": "5002801",
+      "time": "2026-07-22 23:32:46",
+      "tags": [
+        "國際"
+      ],
+      "text": "【保加利亞議會同意美國在保部署加油機】保加利亞議會22日投票批准美國在保加利亞貝茲梅爾空軍基地部署至多8架加油機的請求，部署期限為2026年7月24日至10月1日。（新華社）"
+    },
+    {
+      "id": "5002800",
+      "time": "2026-07-22 23:32:24",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部拍賣四個月期國債，得標利率3.845%，投標倍數2.76。"
+    },
+    {
+      "id": "5002799",
+      "time": "2026-07-22 23:31:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "Meta已從Qualtrics與PayPal挖來阿薩夫·克倫（Assaf Keren）出任新一任首席安全官。"
+    },
+    {
+      "id": "mkt:019f8a74-22c6-7aab-8e4c-f302a4d23ed2",
+      "time": "2026-07-22 23:31:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Securities and Exchange Commission (SEC) said deputy director of enforcement Walden will depart."
+    },
     {
       "id": "5002798",
       "time": "2026-07-22 23:31:14",
@@ -161496,196 +161656,6 @@
         "焦點"
       ],
       "text": "【阿斯麥據悉計劃提高晶片製造裝置價格】據四位知情人士透露，全球核心晶片裝置供應商阿斯麥計劃提高晶片製造裝置價格，而臺積電已開始抵制阿斯麥的定價方案。"
-    },
-    {
-      "id": "4990461",
-      "time": "2026-07-15 23:36:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 人工智慧企業估值大幅飆升現象值得關注。"
-    },
-    {
-      "id": "mkt:019f666b-e506-7aab-8daa-f61f8c2287c7",
-      "time": "2026-07-15 23:36:14",
-      "tags": [
-        "MKT News",
-        "Important",
-        "ASML.O",
-        "Impact bullish"
-      ],
-      "text": "According to The Information, ASML (ASML.O) plans to raise prices for semiconductor manufacturing equipment."
-    },
-    {
-      "id": "4990460",
-      "time": "2026-07-15 23:35:56",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 經濟繁榮與蕭條交替迴圈既無益於經濟，也不會讓美聯儲的工作變得輕鬆。"
-    },
-    {
-      "id": "mkt:019f666b-7613-7aab-8daa-edd254b6d620",
-      "time": "2026-07-15 23:35:46",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Sources say the White House is considering further extending a Jones Act waiver as escalation in the Iran conflict raises price concerns."
-    },
-    {
-      "id": "4990459",
-      "time": "2026-07-15 23:35:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "市場訊息：受伊朗衝突再起、市場擔憂物價上漲影響，白宮正考慮再度延長《瓊斯法案》豁免期限。"
-    },
-    {
-      "id": "4990458",
-      "time": "2026-07-15 23:35:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 若人工智慧企業令投資者失望，資金供給將會枯竭。"
-    },
-    {
-      "id": "mkt:019f666a-9c61-7aab-8daa-e6d4b49225c9",
-      "time": "2026-07-15 23:34:50",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed chair Kevin Warsh said if AI companies disappoint investors, capital will dry up."
-    },
-    {
-      "id": "4990457",
-      "time": "2026-07-15 23:34:43",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "歐洲央行管委穆蘭： 法國必須避免債務出現滾雪球效應， 削減法國財政赤字至關重要，法國的減赤字方案必須具備可信度。"
-    },
-    {
-      "id": "4990456",
-      "time": "2026-07-15 23:33:59",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國製裁支援伊朗革命衛隊武器專案的相關個人與實體。"
-    },
-    {
-      "id": "mkt:019f6669-cbf0-7aab-8daa-ded450ff3099",
-      "time": "2026-07-15 23:33:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【FT: Burnham expected to name Shabana Mahmood as UK chancellor】Financial Times, citing three people familiar with Andy Burnham’s thinking, reports Home Secretary Shabana Mahmood is expected to be appointed UK chancellor if Burnham becomes prime minister. Burnham’s spokesman declined to comment and said cabinet roles will be finalised on Monday only after he assumes office. One person familiar with the plan called the appointment a done deal; another said current energy secretary Ed Miliband—previously the frontrunner for chancellor—is now more likely to be foreign secretary. Colleagues said Mahmood discussed policy with Burnham this month, including economic issues, but has not been informed of any move and there is widespread speculation."
-    },
-    {
-      "id": "mkt:019f6669-aeca-7aab-8daa-d6d005f62c0e",
-      "time": "2026-07-15 23:33:49",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact bullish"
-      ],
-      "text": "ECB Governing Council member Moulin said reducing France's deficit is very important."
-    },
-    {
-      "id": "te:economy:567284",
-      "time": "2026-07-15 23:32:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Colombia",
-        "Retail Sales YoY",
-        "Importance 1"
-      ],
-      "text": "Colombia Retail Sales Rise in May — Colombia's real retail sales rose 11.7% year-on-year in May 2026, slightly above market expectations of 11.2%, but easing from a 14.9% increase in April. Eighteen merchandise categories recorded growth in real sales, while only one posted a decline. The largest contributions came from motor vehicles and motorcycles primarily for household use (40%), audio and video equipment (64.9%), and other motor vehicles and motorcycles (13.3%). Meanwhile, sales of books, stationery, newspapers, magazines, and school supplies surged 148%. In contrast, sales of motor vehicle fuels declined 1.7%. Employment in the retail sector increased 1.6% compared with May 2025."
-    },
-    {
-      "id": "mkt:019f6668-b8fa-7aab-8daa-cb2da5c3bf45",
-      "time": "2026-07-15 23:32:46",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "US 4-month Treasury auction through July 15: bid-cover ratio 3.35, prior 3.41."
-    },
-    {
-      "id": "mkt:019f6668-9f78-7aab-8daa-c33762292268",
-      "time": "2026-07-15 23:32:40",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US 4-month Treasury bill auction maturing Jul 15 — stop-out yield 3.35%, prior 3.79%."
-    },
-    {
-      "id": "mkt:019f6668-8e88-7aab-8daa-b833435fad62",
-      "time": "2026-07-15 23:32:35",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction Bid/Cover Ratio (Jul.15) | actual 3.35 | previous 3.41"
-    },
-    {
-      "id": "mkt:019f6668-8849-7aab-8daa-b63158bf2f5d",
-      "time": "2026-07-15 23:32:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "U.S. 4-month Treasury auction to July 15: allocation at the stop-out yield 21.99%, prior 80.43%."
-    },
-    {
-      "id": "mkt:019f6668-7c29-7aab-8daa-abaac7288f36",
-      "time": "2026-07-15 23:32:31",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "United States | 4-Month Bill Auction High Yield Rate (Jul.15) | actual 3.745% | previous 3.79%"
-    },
-    {
-      "id": "4990455",
-      "time": "2026-07-15 23:32:26",
-      "tags": [
-        "宏觀",
-        "市場",
-        "國際"
-      ],
-      "text": "美國財政部拍賣四個月期國債，得標利率3.745%，投標倍數3.35。"
     }
   ]
 }
