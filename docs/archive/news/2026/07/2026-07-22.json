@@ -1,7 +1,157 @@
 {
   "date": "2026-07-22",
-  "count": 2058,
+  "count": 2075,
   "items": [
+    {
+      "id": "mkt:019f8932-9e18-7aab-8e43-8afb225bd74f",
+      "time": "2026-07-22 17:40:23",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio said an Iran with nuclear weapons is intolerable."
+    },
+    {
+      "id": "5002084",
+      "time": "2026-07-22 17:40:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【南向資金今日淨買入75.17億港元】港股通（滬）方面，盈富基金、華虹宏力分別獲淨買入36.98億港元、7.22億港元；阿里巴巴-W淨賣出額居首，金額為13.74億港元；港股通（深）方面，盈富基金、中芯國際分別獲淨買入24.84億港元、7.72億港元；騰訊控股淨賣出額居首，金額為34.01億港元。"
+    },
+    {
+      "id": "5002083",
+      "time": "2026-07-22 17:39:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國今年麻疹病例已超去年全年】美國約翰斯·霍普金斯大學21日釋出的資料顯示，截至當天，美國今年以來麻疹確診病例已達2295例，超過2025年全年的2289例。約翰斯·霍普金斯大學布隆伯格公共衛生學院流行病學教授威廉·莫斯說，今年美國麻疹確診病例數在“如此早的時候就達到如此高”，主要與今年早些時候在南卡羅來納州、猶他州等地暴發大規模麻疹疫情有關。隨著美國各地持續報告新增病例，今年麻疹病例“幾乎肯定會繼續增加”。（新華社）"
+    },
+    {
+      "id": "5002082",
+      "time": "2026-07-22 17:39:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：伊朗擁有核武器是不可接受的。"
+    },
+    {
+      "id": "5002081",
+      "time": "2026-07-22 17:38:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "盧比奧拒評沙特核相關報道。"
+    },
+    {
+      "id": "mkt:019f8931-3ffd-7aab-8e43-85d9f052c37b",
+      "time": "2026-07-22 17:38:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio refused to comment on reports related to Saudi nuclear energy."
+    },
+    {
+      "id": "5002080",
+      "time": "2026-07-22 17:38:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "ETERNAL：高通的競爭依然激烈，但現在更易於預測了。"
+    },
+    {
+      "id": "mkt:019f8930-d408-7aab-8e43-7fae074ce5bc",
+      "time": "2026-07-22 17:38:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Democratic Republic of the Congo reports 2,473 confirmed Ebola cases, including 999 deaths."
+    },
+    {
+      "id": "mkt:019f8930-3e92-7aab-8e43-7098a14dd1c7",
+      "time": "2026-07-22 17:37:48",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Rubio: Iran can never possess nuclear weapons."
+    },
+    {
+      "id": "5002079",
+      "time": "2026-07-22 17:37:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龍旗科技：7月22日斥資999.43萬元回購26萬股】龍旗科技公告稱，7月22日，公司於上海證券交易所回購26萬股A股用於股權激勵計劃及/或員工持股計劃，佔有關事件前的現有已發行股份（不包括庫存股份）數目的0.0555%，每股回購價在37.86-38.75元之間，付出的價格總額為999.43萬元。截至7月22日，公司已發行股份總數為470,331,544股。"
+    },
+    {
+      "id": "mkt:019f8930-0e88-7aab-8e43-6c2f618aa647",
+      "time": "2026-07-22 17:37:35",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "U.S. Secretary of State Rubio said the United States is the only country capable of ending the conflict in Ukraine."
+    },
+    {
+      "id": "5002078",
+      "time": "2026-07-22 17:37:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "盧比奧：美國正尋求以建設性作用結束烏克蘭衝突。"
+    },
+    {
+      "id": "mkt:019f892f-ce11-7aab-8e43-60c2794798b0",
+      "time": "2026-07-22 17:37:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the US is focused on playing a constructive role in ending the conflict in Ukraine."
+    },
+    {
+      "id": "mkt:019f892f-b398-7aab-8e43-5d4fb0caae08",
+      "time": "2026-07-22 17:37:10",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Fars News Agency reported explosions heard in Sirik, southern Iran."
+    },
+    {
+      "id": "5002077",
+      "time": "2026-07-22 17:36:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗方面訊息：伊朗南部錫裡克地區傳出爆炸聲。"
+    },
+    {
+      "id": "mkt:019f892f-622f-7aab-8e43-55d2061798b8",
+      "time": "2026-07-22 17:36:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he will continue to safeguard maritime shipping security."
+    },
+    {
+      "id": "mkt:019f892f-2e11-7aab-8e43-4eeba8fef0a2",
+      "time": "2026-07-22 17:36:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Washington can cooperate with Russia in other areas."
+    },
     {
       "id": "mkt:019f892e-9888-7aab-8e43-4174332777fc",
       "time": "2026-07-22 17:35:59",
