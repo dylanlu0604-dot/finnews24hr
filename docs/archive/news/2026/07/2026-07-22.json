@@ -1,7 +1,165 @@
 {
   "date": "2026-07-22",
-  "count": 1973,
+  "count": 1990,
   "items": [
+    {
+      "id": "mkt:019f891c-5843-7aab-8e42-dc02626d1ba0",
+      "time": "2026-07-22 17:16:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose about 4% intraday to $88.42/bbl. Brent crude gained over 2% to $91.17/bbl."
+    },
+    {
+      "id": "5002024",
+      "time": "2026-07-22 17:15:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【撤換防長引抗議 澤連斯基又撤烏軍總司令】烏克蘭總統澤連斯基21日晚在社交媒體上宣佈，決定解除亞歷山大·瑟爾斯基的烏武裝部隊總司令職務，由米哈伊爾·德拉帕特接任。澤連斯基上週解職與瑟爾斯基不睦的國防部長米哈伊洛·費多羅夫，引發烏民眾持續抗議。英國《金融時報》將這一人事任免稱作烏軍事領導層自2024年以來的最大改組。按美國《華爾街日報》說法，這可能成為烏克蘭危機全面升級4年多來的一個關鍵時刻。（新華社）"
+    },
+    {
+      "id": "5002023",
+      "time": "2026-07-22 17:15:43",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【益方生物：新增子公司開立專戶並籤募集資金四方監管協議】益方生物公告稱，公司此前首次公開發行股票，募集資金淨額為19.82億元。2026 年7月2日，公司同意新增全資子公司益祺生物為“新藥研發專案”實施主體並開立募集資金專戶。近日，益祺生物在招商銀行上海分行開立專戶，並與公司、保薦機構中信證券、招行上海分行簽署《募集資金專戶儲存四方監管協議》。截至7月16日，專戶餘額為0萬元。"
+    },
+    {
+      "id": "5002022",
+      "time": "2026-07-22 17:15:43",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破88美元/桶，日內漲4.34%。"
+    },
+    {
+      "id": "5002021",
+      "time": "2026-07-22 17:15:38",
+      "tags": [
+        "公司",
+        "央行",
+        "國際"
+      ],
+      "text": "【大同證券：短期A股存在“被動”超跌可能，核心板塊基本面仍具備支撐力度】大同證券策略分析師景劍文7月22日釋出最新策略觀點，稱近期外部環境的劇烈波動或是拖累A股的主要原因之一，一方面美國通脹資料不佳，美聯儲緊縮預期反覆；另一方面美以伊衝突再度升溫，戰爭預期不可控性不斷提升。疊加海外主要股指高位回撥，引發跨境資本短期避險性流出，造成全球資本市場同步回落。景劍文表示，國內經濟基本面並未出現同步惡化，出口韌性和內需修復趨勢保持穩定，因此，A股在此輪調整中更多扮演“被動跟跌”角色，而非受自身經濟形勢惡化影響。景劍文表示，從結構性視角看，科技成長賽道的基本面仍具備強有力支撐，科技成長賽道雖整體承壓，但業績表現強勢。半導體裝置、AI算力硬體等細分領域的中報預增個股佔比超六成，國產替代與產業升級邏輯並未被破壞，龍頭公司合同負債及研發投入仍保持高增長，說明產業趨勢並未逆轉，當前回撥更多是資金面擾動而非基本面證偽。"
+    },
+    {
+      "id": "5002020",
+      "time": "2026-07-22 17:15:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "【《上海市人工智慧標準體系建設指南（2026—2028年）》印發】上海市市場監督管理局、上海市經濟和資訊化委員會、上海市科學技術委員會印發《上海市人工智慧標準體系建設指南（2026—2028年）》。到2028年，圍繞人工智慧基礎支撐、關鍵技術、行業應用等重點領域，牽頭或參與國際標準3項以上、國家標準10項以上、行業標準20項以上、國家標準參與率50％以上；打造一批標準化技術組織與標準化應用試點專案，重點標準應用實施率達到80％以上；推動AI和標準化雙向賦能，提高標準數智化水平；初步建成具有國際影響力的人工智慧“標準高地”。"
+    },
+    {
+      "id": "5002019",
+      "time": "2026-07-22 17:14:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮泰健康：2026年第一次臨時股東會審議透過參與設立投資基金議案】榮泰健康公告稱，公司2026年第一次臨時股東會於7月22日召開，由董事會召集。出席股東及股東代表共340人，代表有表決權股份76,482,448股，佔比38.5529%。會議審議透過了《關於公司擬參與設立投資基金暨關聯交易的議案》，關聯股東張波未參與投票表決。表決結果顯示，同意75,722,085股，佔出席非關聯股東有效表決權股份總數的99.0058%。"
+    },
+    {
+      "id": "5002018",
+      "time": "2026-07-22 17:14:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【貴州鋼繩：控股股東及實控人確認無影響股價異常波動重大事項】貴州鋼繩公告稱，公司就股票價格異常波動發函控股股東貴州鋼繩（集團）有限責任公司。經核查，控股股東及實際控制人貴州省國資委均表示不存在影響公司股票交易異常波動的重大事項，也不存在應披露而未披露的重大資訊，且異常波動期間控股股東未買賣公司股票。"
+    },
+    {
+      "id": "5002017",
+      "time": "2026-07-22 17:14:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大秦鐵路：董事長提議4億-5億元回購股份用於減資】大秦鐵路公告稱，7月22日，公司董事長陸勇提議透過集中競價交易方式回購股份，用於減少註冊資本。回購價格上限不高於董事會審議透過回購方案前30個交易日公司股票交易均價的150%，資金總額4億元-5億元，資金來源於公司自有資金，回購期限為股東會審議透過方案之日起6個月內。陸勇在提議前6個月內無買賣公司股份情況，回購期間暫無增減持計劃。該事項尚不確定，提醒投資者注意風險。"
+    },
+    {
+      "id": "mkt:019f891a-d520-7aab-8e42-d6ebac3a4ae0",
+      "time": "2026-07-22 17:14:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "【Monex: UK politics more likely than data to drive sterling】Monex Europe said this week’s inflation and jobs data left Bank of England rate expectations largely unchanged, so UK politics should remain the focus for sterling traders. The Bank is likely to hold rates on July 30. With new PM Burnham planning measures to ease living costs and seeking flexibility within fiscal rules, Monex retains a mild downside bias on sterling until budget details are released."
+    },
+    {
+      "id": "5002016",
+      "time": "2026-07-22 17:14:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迪哲醫藥：擬與阿斯利康簽署授權許可協議 涉15億美元款項】迪哲醫藥公告稱，公司擬與阿斯利康簽署《許可協議》，授予其在全球獨家開發、商業化舒沃哲®的權利。公司將獲6億美元首付款、最高4億美元臨床開發里程碑款、最高5億美元銷售里程碑款及按銷售額的特許權使用費。阿斯利康為關聯法人，本次交易構成關聯交易。協議最終生效需獲公司股東會及相關機構批准。"
+    },
+    {
+      "id": "mkt:019f891a-448d-7aab-8e42-cf3ec5776521",
+      "time": "2026-07-22 17:13:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Poland energy index extends gains, up 4.8%, on track for its strongest single-day performance since March."
+    },
+    {
+      "id": "te:markets:568856",
+      "time": "2026-07-22 17:13:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Gain Traction — Stocks in Europe rebounded form a subdued open, with the STOXX 50 adding 0.3% and the STOXX 600 rising 0.4%, as traders focus on corporate updates while keeping a close eye on the situation in the Middle East and awaiting key results from Alphabet and Tesla later in the day. Airbus soared more than 6% after the company unveiled a €5?billion share buyback programme and raised its guidance. Randstad also topped the STOXX 600 and gained nearly 8% after a revenue beat. Unicredit shares were up 1.3% to hit 16-year highs of €83.53 ahead of its earnings report. In addition, Santander rebounded to add almost 2% after reporting a 17% year-on-year increase in underlying net profit for the second quarter. In contrast, the tech sector was under pressure, with ASML Holding falling 2.1%, SAP losing 1.2%, and STMicroelectronics slipping 0.8%."
+    },
+    {
+      "id": "te:economy:568855",
+      "time": "2026-07-22 17:13:04",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Belgium Consumer Sentiment Improves in July — The consumer confidence indicator in Belgium rose to -5 in July 2026 from -7 in the previous month, improving for the fourth consecutive month and reaching its highest level in four months. Consumer sentiment strengthened across most components, with expectations for the country's economic outlook becoming less pessimistic (-27 vs. -31), although they remained firmly in negative territory. Expectations regarding households' financial situation were unchanged at -2, while views on savings capacity became more optimistic, rising to 23 from 19. In contrast, confidence in the labor market deteriorated slightly, as expectations for unemployment increased to 14 from 13, returning to the level recorded two months earlier and remaining in pessimistic territory."
+    },
+    {
+      "id": "5002015",
+      "time": "2026-07-22 17:13:02",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 安博最終收購報價對 Segro 每股估值最高達 1031.7 便士。"
+    },
+    {
+      "id": "5002014",
+      "time": "2026-07-22 17:12:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【通用股份：修訂內幕資訊知情人登記管理制度】通用股份公告稱，公司修訂《內幕資訊知情人登記管理制度》（2026年7月修訂稿）。明確董事會為內幕資訊管理機構，董事長是保密主要責任人。規定內幕資訊及知情人員範圍，要求在內幕資訊公開前填寫知情人檔案，記錄相關資訊並由知情人確認。發生重大事項時需報送檔案資訊，還應制作重大事項程序備忘錄。同時強調保密管理，對違規者追究責任，構成犯罪的移交司法機關。制度自董事會審議透過後實施。"
+    },
+    {
+      "id": "5002013",
+      "time": "2026-07-22 17:12:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 英國政府稱 BAE 自主飛行器驗證機將於 2027 年試飛。"
+    },
     {
       "id": "mkt:019f8918-db47-7aab-8e42-c61773649d45",
       "time": "2026-07-22 17:12:15",
