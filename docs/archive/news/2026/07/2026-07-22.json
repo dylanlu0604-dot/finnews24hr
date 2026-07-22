@@ -1,7 +1,71 @@
 {
   "date": "2026-07-22",
-  "count": 2780,
+  "count": 2787,
   "items": [
+    {
+      "id": "mkt:019f8a04-13cc-7aab-8e49-0fb9a1b668ec",
+      "time": "2026-07-22 21:29:10",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Wells Fargo CEO said the bank is very bullish on the U.S. market."
+    },
+    {
+      "id": "5002597",
+      "time": "2026-07-22 21:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：HCL 科技與巴西 TIM 達成合作。"
+    },
+    {
+      "id": "5002596",
+      "time": "2026-07-22 21:28:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "富國銀行執行長稱，該行 “極度看好美國（市場）前景”。"
+    },
+    {
+      "id": "5002595",
+      "time": "2026-07-22 21:27:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "T-Mobile：三星全系夏季新品登陸 T-Mobile，今日開啟預售，8 月 7 日正式開售。"
+    },
+    {
+      "id": "5002594",
+      "time": "2026-07-22 21:27:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓航空訂購9架A350-1000寬體飛機】7月22日，範堡羅航展期間，菲律賓航空宣佈訂購9架A350-1000寬體飛機。協議一旦落實，菲律賓航空的A350-1000飛機總訂單量將達到18架。"
+    },
+    {
+      "id": "te:markets:568906",
+      "time": "2026-07-22 21:27:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises to 1-Week High — The Baltic dry index rose 1.7% to 2,715 on Wednesday, recording its first gain since July 14. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 4.7% to 4,114, its highest level since July 16. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell 2.8% to 2,120, its lowest since June 29. The supramax index decreased 0.9% to 1,715."
+    },
+    {
+      "id": "5002593",
+      "time": "2026-07-22 21:27:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "網路安全公司CrowdStrike與晶片公司Cerebras達成合作，在全球最快推理平臺上賦能AI檢測與響應。"
+    },
     {
       "id": "5002592",
       "time": "2026-07-22 21:24:43",

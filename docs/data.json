@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-22 21:25:48",
-  "count": 17929,
+  "updated": "2026-07-22 21:29:48",
+  "count": 17917,
   "items": [
+    {
+      "id": "mkt:019f8a04-13cc-7aab-8e49-0fb9a1b668ec",
+      "time": "2026-07-22 21:29:10",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "Nasdaq100",
+        "Dow"
+      ],
+      "text": "Wells Fargo CEO said the bank is very bullish on the U.S. market."
+    },
+    {
+      "id": "5002597",
+      "time": "2026-07-22 21:28:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：HCL 科技與巴西 TIM 達成合作。"
+    },
+    {
+      "id": "5002596",
+      "time": "2026-07-22 21:28:01",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "富國銀行執行長稱，該行 “極度看好美國（市場）前景”。"
+    },
+    {
+      "id": "5002595",
+      "time": "2026-07-22 21:27:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "T-Mobile：三星全系夏季新品登陸 T-Mobile，今日開啟預售，8 月 7 日正式開售。"
+    },
+    {
+      "id": "5002594",
+      "time": "2026-07-22 21:27:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【菲律賓航空訂購9架A350-1000寬體飛機】7月22日，範堡羅航展期間，菲律賓航空宣佈訂購9架A350-1000寬體飛機。協議一旦落實，菲律賓航空的A350-1000飛機總訂單量將達到18架。"
+    },
+    {
+      "id": "te:markets:568906",
+      "time": "2026-07-22 21:27:31",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises to 1-Week High — The Baltic dry index rose 1.7% to 2,715 on Wednesday, recording its first gain since July 14. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 4.7% to 4,114, its highest level since July 16. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell 2.8% to 2,120, its lowest since June 29. The supramax index decreased 0.9% to 1,715."
+    },
+    {
+      "id": "5002593",
+      "time": "2026-07-22 21:27:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "網路安全公司CrowdStrike與晶片公司Cerebras達成合作，在全球最快推理平臺上賦能AI檢測與響應。"
+    },
     {
       "id": "5002592",
       "time": "2026-07-22 21:24:43",
@@ -163812,175 +163876,6 @@
         "Importance 1"
       ],
       "text": "Cape Verde Inflation Rate Hits 5-Month High of 1.1% — The annual inflation rate in Cape Verde rose for the second month to 1.1% in June 2026, up from 0.8% in May and reaching the highest level since January. Upward pressure came from several CPI categories, including transportation (5.4% vs 3.4% in May); clothing & footwear (4.7% vs 4.2%); alcoholic beverages & tobacco (4.3% vs 3.9%), furnishings & household equipment (5.9% vs 6.2%) and health (3.3% vs 2.9%). On the other hand, prices decreased for housing & utilities (-3.6% vs -3.8%) and communication (-0.3% vs -0.3%). On a monthly basis, the CPI rose by 0.5% in June, matching the pace seen in May."
-    },
-    {
-      "id": "4990145",
-      "time": "2026-07-15 21:29:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "俄羅斯國家杜馬資訊政策委員會主席博亞爾斯基表示，蘋果在政治壓力下表現得有些“不理智”，但目前並沒有迫切需要立刻轉向安卓系統。他還特別強調，俄羅斯的本土應用在 iPhone 上依然可以正常使用，只是暫時無法更新而已。"
-    },
-    {
-      "id": "te:markets:567236",
-      "time": "2026-07-15 21:29:33",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Natural Gas Falls to 2-Month Low — US natural gas prices fell to below $2.9 per MMBtu on Wednesday, a two-month low, contrasting with higher prices in other benchmarks as ample domestic supply shielded the US from the export pressures from the Middle East. Scheduled maintenance outages in Freeport LNG's export facility in Texas prevented gas flows from being ready for export, increasing the available supply of gas for domestic use. The plant is only expected to resume operations in late August. On top of that, the latest data showed that average gas production in the Lower 48 states increased to 110.2 billion cubic feet per day so far in July from 110.0 in the previous month. Meanwhile, solar and wind power generation stateside rose to their near record highs in July, taking market share from gas-powered power plants. The ample supply contrasted with limited LNG flows for major European and Asian consumers as the Iran and US resumed blockading tankers from leaving the Persian Gulf."
-    },
-    {
-      "id": "4990144",
-      "time": "2026-07-15 21:29:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【時代電氣：近期開始與客戶對功率半導體器件進行價格商談】時代電氣在互動平臺表示，受全球大宗金屬、原材料等價格持續大幅攀升影響，功率半導體全行業產能平衡狀態改變，公司近期開始與客戶對功率半導體器件進行價格商談。"
-    },
-    {
-      "id": "mkt:019f65f7-68e7-7aab-8da4-fbe75cd16f48",
-      "time": "2026-07-15 21:29:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Williams said low- to middle-income households are facing hardship."
-    },
-    {
-      "id": "mkt:019f65f7-6155-7aab-8da4-f3a06fb846cd",
-      "time": "2026-07-15 21:28:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Israel-Lebanon Rome talks end; sources say parties to advance 'pilot zones'】Talks between Israel and Lebanon in Rome concluded on the 15th (local time), with an Israeli official calling the round progressed smoothly. A Lebanese source said the sides reached preliminary agreement to establish two \"pilot zones\": one within an area currently under Israeli control and a second adjacent to Israeli deployments. The zones are intended as starting points to phase Israeli troop withdrawals and adjust military deployments. An Israeli official said additional preparatory work and further agreements are required before initiating phase one, work that is expected to conclude in the coming days. Sources added Israel wants the verification committee overseeing demilitarization of the pilot zones to include Israel, the US and a third party, excluding France and the UN. Israel has not commented officially."
-    },
-    {
-      "id": "4990143",
-      "time": "2026-07-15 21:28:54",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：中低收入家庭正面臨困境。"
-    },
-    {
-      "id": "mkt:019f65f6-fe54-7aab-8da4-ef25c7f6f844",
-      "time": "2026-07-15 21:28:33",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Fed's Williams said broader consumer credit growth is consistent with the economy and that a K-shaped economic divergence is real."
-    },
-    {
-      "id": "mkt:019f65f6-e1c4-7aab-8da4-e4cd0bcaad1a",
-      "time": "2026-07-15 21:28:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Capital Economics: Canadian manufacturing continues to recover】Capital Economics analyst Thomas Ryan says Canadian manufacturing sales rose further in May, with new orders and unfilled orders surging, supporting a cyclical uptrend despite US punitive tariffs on the sector. Sales climbed 1.3% MoM, slightly above Statistics Canada’s preliminary 1.1% estimate. Volumes rose 0.5% MoM and are more than 6% above their early‑year trough. Ryan says the data imply upside risk to the preliminary estimate of May GDP growth of 0.1% MoM."
-    },
-    {
-      "id": "4990142",
-      "time": "2026-07-15 21:28:25",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：K型經濟是真實存在的。"
-    },
-    {
-      "id": "4990141",
-      "time": "2026-07-15 21:28:12",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：整體消費信貸增速與經濟走勢相匹配。"
-    },
-    {
-      "id": "4990140",
-      "time": "2026-07-15 21:28:06",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【俄羅斯國家技術集團推出蛛網系統，保護設施安全】俄羅斯國家技術集團（Rostech）推出了“蛛網”綜合防禦系統，用於保護工業設施免受無人機襲擊。該系統由模組化金屬結構組成，能夠承受重達200公斤的無人機的直接撞擊。Rostech方面指出，該方案能夠有效保護儲油庫、變電站等設施的安全。"
-    },
-    {
-      "id": "4990139",
-      "time": "2026-07-15 21:27:59",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿斯麥執行長：需求仍存在波動。"
-    },
-    {
-      "id": "4990138",
-      "time": "2026-07-15 21:27:49",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲威廉姆斯：過去一年拖欠率大致穩定在疫情前水平。"
-    },
-    {
-      "id": "4990137",
-      "time": "2026-07-15 21:27:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以黎羅馬會談結束 訊息人士稱雙方將繼續推進“試點區”】總檯記者獲悉，據以色列當地時間15日訊息，以色列與黎巴嫩當天在義大利羅馬舉行的新一輪談判已經結束。一名以色列官員表示，此輪會談“進展順利”。另據黎巴嫩訊息人士透露，雙方就設立兩個“試點區”達成初步共識，其中一個位於以色列目前控制的區域，另一個毗鄰以軍部署地點。根據此前報道，雙方計劃以這兩個區域為起點，逐步推進以軍撤軍、調整軍事部署等相關安排。以方官員表示，在啟動“試點區”第一階段安排前，雙方仍需完成更多準備工作並達成進一步協議，相關工作預計將在未來幾天內完成。此外，據訊息人士透露，以色列希望負責監督“試點區域”解除武裝程序的核查委員會由以色列、美國及另一第三方組成，不包括法國和聯合國。但截至目前，以色列官方尚未就此次談判發表評論。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f65f6-3c35-7aab-8da4-df80bab9241a",
-      "time": "2026-07-15 21:27:43",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish"
-      ],
-      "text": "Fed's Williams said default rates have stabilized at pre-pandemic levels over the past year."
-    },
-    {
-      "id": "4990136",
-      "time": "2026-07-15 21:27:24",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿斯麥執行長：我們一直在不斷修正對市場需求規模的判斷。"
-    },
-    {
-      "id": "4990135",
-      "time": "2026-07-15 21:26:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "ElectroVaya 美股與亞馬遜達成合作協議後大漲 57%  。"
-    },
-    {
-      "id": "4990134",
-      "time": "2026-07-15 21:26:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "洲際交易所：英國現貨碳排放許可拍賣價 57.33 英鎊 / 噸。"
-    },
-    {
-      "id": "4990133",
-      "time": "2026-07-15 21:25:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上半年我國農村公路投資1443億元】今年1至6月，全國農村公路完成固定資產投資1443億元。今年我國積極加大農村交通基礎設施投入力度，推進精準有序補齊路網短板，加強公路間連線互通，強化安全整治和提質改造，推動農村公路從“通達”向“提升”轉變。（央視新聞）"
     }
   ]
 }
