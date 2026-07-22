@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-23 03:07:12",
-  "count": 17682,
+  "updated": "2026-07-23 03:11:08",
+  "count": 17684,
   "items": [
+    {
+      "id": "5002974",
+      "time": "2026-07-23 03:08:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長稱以牙還牙】伊朗外長阿拉格齊當地時間7月22日晚在社交媒體上表示，“伊朗的防禦原則非常明確：以牙還牙。任何針對伊朗的侵略行為，包括對我們基礎設施的攻擊，都將招致強有力且堅決的回應。任何對這類侵略行為提供支援的人，無論其提供何種支援，都將被視為合法打擊目標。”（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f8b3a-cc71-7aab-8e50-7bebca9f8010",
+      "time": "2026-07-23 03:08:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's trade minister said talks with the US are expected to resume soon."
+    },
+    {
+      "id": "mkt:019f8b3a-6eb6-7aab-8e50-73b8986b11f1",
+      "time": "2026-07-23 03:08:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bullish"
+      ],
+      "text": "Hang Seng Index futures closed up 0.33% in the night session at 24,997, trading 104 points above the cash index."
+    },
+    {
+      "id": "5002973",
+      "time": "2026-07-23 03:07:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長： 預計巴美兩國貿易談判將很快重啟。"
+    },
+    {
+      "id": "5002972",
+      "time": "2026-07-23 03:07:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西貿易部長：在上次與美國貿易代表格里爾的會晤中，雙方均有意繼續開展談判。  如有必要，將對美國實施對等反制措施。"
+    },
+    {
+      "id": "mkt:019f8b39-5f21-7aab-8e50-6f2a503b3cbf",
+      "time": "2026-07-23 03:07:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's trade minister said that in a recent meeting with U.S. Trade Representative Greer both sides expressed a desire to continue negotiations."
+    },
     {
       "id": "mkt:019f8b38-db87-7aab-8e50-61c60215aacb",
       "time": "2026-07-23 03:06:26",
@@ -161356,38 +161408,6 @@
         "國際"
       ],
       "text": "伊朗外交部：外交部長已返回德黑蘭。"
-    },
-    {
-      "id": "mkt:019f672f-e0b3-7aab-8daf-335a9f4e251b",
-      "time": "2026-07-16 03:10:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's outgoing defense minister Fedorov said Ukraine successfully conducted a ballistic missile test."
-    },
-    {
-      "id": "4990623",
-      "time": "2026-07-16 03:09:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭即將卸任的國防部長費奧多羅夫稱，烏克蘭成功完成了彈道導彈試射。"
-    },
-    {
-      "id": "4990622",
-      "time": "2026-07-16 03:09:23",
-      "tags": [
-        "其他"
-      ],
-      "text": "【森林野火致加拿大多地空氣質量惡化 鐵路交通受阻】連日來席捲加拿大安大略省西北部的森林野火導致該國多地空氣質量急劇惡化，鐵路交通受阻。 受野火煙霾影響，加拿大最大城市多倫多15日上午空氣質量指標在世界主要城市中排名墊底。加環境部發布的資料顯示，多倫多市當天空氣質量健康指數處於“高風險”級別。首都渥太華也因野火濃煙和高溫溼熱觸發空氣質量預警，高溼度使煙霧顆粒滯留在空氣中，天空呈黃色。"
-    },
-    {
-      "id": "4990621",
-      "time": "2026-07-16 03:08:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "STUBHUB股價暴跌12%，創3月初以來最大跌幅。"
     }
   ]
 }
