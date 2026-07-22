@@ -1,7 +1,69 @@
 {
   "date": "2026-07-23",
-  "count": 451,
+  "count": 458,
   "items": [
+    {
+      "id": "mkt:019f8bc8-0b78-7aab-8e53-0f3dc4d34c14",
+      "time": "2026-07-23 05:42:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) after-hours losses widened to 5% after Elon Musk said scaling production of the Optimus robot will face difficulties."
+    },
+    {
+      "id": "5003090",
+      "time": "2026-07-23 05:42:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： Optimus 將是首款可應用於日常生活、具備實用價值的人形機器人。"
+    },
+    {
+      "id": "5003089",
+      "time": "2026-07-23 05:42:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：“很快”就會宣佈Terafab的選址。"
+    },
+    {
+      "id": "mkt:019f8bc6-f65b-7aab-8e53-000dfce2ba0c",
+      "time": "2026-07-23 05:41:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Burnham appoints Jo White as Parliamentary Under-Secretary of State at the Home Office."
+    },
+    {
+      "id": "mkt:019f8bc5-e26e-7aab-8e52-facac3be1f53",
+      "time": "2026-07-23 05:40:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla CEO Elon Musk said scaling production of the Optimus robot will be difficult."
+    },
+    {
+      "id": "5003088",
+      "time": "2026-07-23 05:39:51",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： Optimus 人形機器人將是特斯拉最難量產擴產的產品。"
+    },
     {
       "id": "mkt:019f8bc4-ddf9-7aab-8e52-f30a977ea493",
       "time": "2026-07-23 05:39:22",
@@ -11,6 +73,14 @@
         "Impact bullish"
       ],
       "text": "Tesla CEO Elon Musk said he expects demand to rise as FSD gains approval in additional countries."
+    },
+    {
+      "id": "5003087",
+      "time": "2026-07-23 05:39:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：隨著FSD陸續獲得各國監管批准，市場需求將進一步攀升。"
     },
     {
       "id": "mkt:019f8bc4-34c3-7aab-8e52-efa5466f0424",

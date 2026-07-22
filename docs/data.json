@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-23 05:40:02",
-  "count": 17701,
+  "updated": "2026-07-23 05:43:55",
+  "count": 17706,
   "items": [
+    {
+      "id": "mkt:019f8bc8-0b78-7aab-8e53-0f3dc4d34c14",
+      "time": "2026-07-23 05:42:50",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) after-hours losses widened to 5% after Elon Musk said scaling production of the Optimus robot will face difficulties."
+    },
+    {
+      "id": "5003090",
+      "time": "2026-07-23 05:42:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： Optimus 將是首款可應用於日常生活、具備實用價值的人形機器人。"
+    },
+    {
+      "id": "5003089",
+      "time": "2026-07-23 05:42:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：“很快”就會宣佈Terafab的選址。"
+    },
+    {
+      "id": "mkt:019f8bc6-f65b-7aab-8e53-000dfce2ba0c",
+      "time": "2026-07-23 05:41:39",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK Prime Minister Burnham appoints Jo White as Parliamentary Under-Secretary of State at the Home Office."
+    },
+    {
+      "id": "mkt:019f8bc5-e26e-7aab-8e52-facac3be1f53",
+      "time": "2026-07-23 05:40:29",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla CEO Elon Musk said scaling production of the Optimus robot will be difficult."
+    },
+    {
+      "id": "5003088",
+      "time": "2026-07-23 05:39:51",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： Optimus 人形機器人將是特斯拉最難量產擴產的產品。"
+    },
     {
       "id": "mkt:019f8bc4-ddf9-7aab-8e52-f30a977ea493",
       "time": "2026-07-23 05:39:22",
@@ -11,6 +73,14 @@
         "Impact bullish"
       ],
       "text": "Tesla CEO Elon Musk said he expects demand to rise as FSD gains approval in additional countries."
+    },
+    {
+      "id": "5003087",
+      "time": "2026-07-23 05:39:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：隨著FSD陸續獲得各國監管批准，市場需求將進一步攀升。"
     },
     {
       "id": "mkt:019f8bc4-34c3-7aab-8e52-efa5466f0424",
@@ -161717,22 +161787,6 @@
         "國際"
       ],
       "text": "【特朗普在國防峰會上點名通用動力 稱美國需加快造潛艇】美國總統特朗普在出席旨在加強美國國防工業基礎的峰會時，敦促國防承包商加快生產，並點名通用動力。特朗普週三在賓夕法尼亞防務與創新峰會上發表講話。此次峰會吸引了多位美國頂尖企業高管出席，包括摩根大通的傑米·戴蒙和波音的Kelly Ortberg。特朗普在這場有時顯得散漫、話題廣泛的演講中，對一些公司表示不滿，指責它們交付武器系統和彈藥速度太慢。“我現在真不想提這個名字，因為他們的速度比我們預期的要慢一點，但沒關係，”特朗普在談到通用動力時表示。他提到該公司與潛艇建造相關的25億美元投資計劃。“他們製造世界上最出色的潛艇，”他接著說，“我們必須造得更快。問題只有這一點，我們需要潛艇。但他們的產品確實很棒。”"
-    },
-    {
-      "id": "4990785",
-      "time": "2026-07-16 05:42:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國炮彈擊中伊朗南部錫裡克附近區域。"
-    },
-    {
-      "id": "4990784",
-      "time": "2026-07-16 05:41:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國批准向沙烏地阿拉伯出售價值19.6億美元的武器系統。"
     }
   ]
 }
