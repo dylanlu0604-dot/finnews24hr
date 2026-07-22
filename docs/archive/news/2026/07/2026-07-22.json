@@ -1,7 +1,112 @@
 {
   "date": "2026-07-22",
-  "count": 2609,
+  "count": 2621,
   "items": [
+    {
+      "id": "5002483",
+      "time": "2026-07-22 20:27:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "DR REDDY'S 高管就關稅問題表示：不會因關稅公告立即採取任何特殊措施，將進行評估。"
+    },
+    {
+      "id": "5002482",
+      "time": "2026-07-22 20:27:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鴻合科技：擬設立半導體子公司】鴻合科技公告，擬以自有資金人民幣6億元設立全資子公司鴻合半導體有限公司。公司設立半導體業務平臺，圍繞車用半導體相關領域開展業務探索和產業佈局。"
+    },
+    {
+      "id": "5002481",
+      "time": "2026-07-22 20:27:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【昂際智航與翊飛航空簽署ES1000專案適航階段採購意向書】7月22日，2026國際低空經濟博覽會首日，昂際智航（成都）科技有限公司與翊飛航空科技（上海）有限公司在國家會展中心（上海）舉行簽約儀式，雙方正式簽署《ES1000飛控解決方案適航階段採購意向書》。根據協議，翊飛航空指定昂際智航為ES1000專案飛控解決方案（FCS）的供應商，昂際智航將為其提供飛控解決方案的設計、開發、製造和供應服務。"
+    },
+    {
+      "id": "5002480",
+      "time": "2026-07-22 20:26:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "DR REDDY'S 高管就關稅問題表示：此前已歷經多輪類似週期，立即遷往美國並不現實。"
+    },
+    {
+      "id": "mkt:019f89ca-25ea-7aab-8e47-c78986547a96",
+      "time": "2026-07-22 20:25:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Maersk Ukraine has announced it is suspending operations via Chornomorsk port."
+    },
+    {
+      "id": "5002478",
+      "time": "2026-07-22 20:25:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "知情人士透露，杜塞爾多夫檢方的搜查行動也涵蓋了德國郵政銀行位於波恩的網點。"
+    },
+    {
+      "id": "5002477",
+      "time": "2026-07-22 20:25:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴林軍方在一份宣告中表示，其於週三攔截了伊朗發動的襲擊。"
+    },
+    {
+      "id": "mkt:019f89c9-9565-7aab-8e47-bff4a313b48b",
+      "time": "2026-07-22 20:25:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Bahrain's military said it intercepted an Iranian attack on Wednesday."
+    },
+    {
+      "id": "5002476",
+      "time": "2026-07-22 20:24:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【機構：目前沒有大型國際營運商船穿越霍爾木茲海峽】一家海上風險管理企業負責人週三透露，儘管霍爾木茲海峽航道通行條件並未受阻，但目前沒有大型國際營運商船穿越該海峽。希臘海上風險管理公司Marisks首席季米特里斯・馬尼亞蒂斯接受採訪時表示：“對於任何打算穿越海峽的船隻而言，航道不存在實體阻礙。部分從事本地航運的船舶航行如常，並未受到局勢影響。但如果談及遠洋大型、由國際資本持有並運營的商船，眼下沒有一艘通行。”"
+    },
+    {
+      "id": "mkt:019f89c8-c2a7-7aab-8e47-b3ded1e7b8e7",
+      "time": "2026-07-22 20:24:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Yuejiang Technology cleared for ChiNext IPO】The Shenzhen Stock Exchange listing review committee at its 45th review meeting of 2026 on July 22 found that Shenzhen Yuejiang Technology Co., Ltd.'s ChiNext IPO meets issuance, listing and information-disclosure requirements."
+    },
+    {
+      "id": "mkt:019f89c8-9d7d-7aab-8e47-ae461b149748",
+      "time": "2026-07-22 20:24:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "India plans to build at least five small nuclear reactors by 2033 to expand nuclear power use and reduce reliance on coal."
+    },
+    {
+      "id": "5002475",
+      "time": "2026-07-22 20:24:04",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【克宮：俄方將派高階別代表參加今年在美國舉行的G20峰會】綜合塔斯社等媒體22日報道，俄羅斯總統新聞秘書、克里姆林宮發言人佩斯科夫稱，俄方將派高階別代表參加定於今年12月在美國舉行的二十國集團（G20）領導人峰會。佩斯科夫還對記者稱，俄方將高效且積極參加此次峰會。（環球網）"
+    },
     {
       "id": "5002474",
       "time": "2026-07-22 20:23:43",
