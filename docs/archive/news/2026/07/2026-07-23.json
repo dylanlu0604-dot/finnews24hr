@@ -1,7 +1,15 @@
 {
   "date": "2026-07-23",
-  "count": 551,
+  "count": 552,
   "items": [
+    {
+      "id": "mkt:019f8c0c-6aa0-7aab-8e54-0f1d7b26be06",
+      "time": "2026-07-23 06:57:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea, U.S. may announce first investment project as early as late August】South Korea’s minister of trade, industry and energy Kim Jung-kwan said the first Korea-to-U.S. investment project under the bilateral trade agreement could be announced as early as late August, with talks currently focused on energy. Kim, on a four-day visit to Washington, will meet U.S. Commerce Secretary Lutnick and other officials to discuss investment and trade. The move would implement last year’s deal under which Seoul pledged $350 billion of investment into the U.S., subject to an annual cap of $20 billion."
+    },
     {
       "id": "mkt:019f8c07-07a7-7aab-8e54-052b290e3ffc",
       "time": "2026-07-23 06:51:38",
