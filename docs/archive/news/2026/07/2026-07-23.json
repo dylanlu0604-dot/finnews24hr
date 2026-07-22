@@ -1,7 +1,152 @@
 {
   "date": "2026-07-23",
-  "count": 438,
+  "count": 451,
   "items": [
+    {
+      "id": "mkt:019f8bc4-ddf9-7aab-8e52-f30a977ea493",
+      "time": "2026-07-23 05:39:22",
+      "tags": [
+        "MKT News",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla CEO Elon Musk said he expects demand to rise as FSD gains approval in additional countries."
+    },
+    {
+      "id": "mkt:019f8bc4-34c3-7aab-8e52-efa5466f0424",
+      "time": "2026-07-23 05:38:39",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Financial Times: Under an EU sanctions package targeting Moscow set to be agreed, Greek shipper Dynagas will be permitted to continue transporting Russian liquefied natural gas (LNG)."
+    },
+    {
+      "id": "mkt:019f8bc4-1863-7aab-8e52-e6c44bbea7c0",
+      "time": "2026-07-23 05:38:32",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "Financial Times reports that as the EU prepares to finalize a new sanctions package, transportation of Russian gas will continue to be exempt."
+    },
+    {
+      "id": "mkt:019f8bc3-a63c-7aab-8e52-dbbb294954ec",
+      "time": "2026-07-23 05:38:02",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla CEO Elon Musk said the company is confident current spending will deliver its best capex returns to date."
+    },
+    {
+      "id": "5003086",
+      "time": "2026-07-23 05:37:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：公司將持續快速擴大Robotaxi運營規模，特斯拉需謹慎對待事故。"
+    },
+    {
+      "id": "5003085",
+      "time": "2026-07-23 05:37:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：歐盟即將達成新一輪制裁協議，俄羅斯天然氣貨運仍將獲得豁免。"
+    },
+    {
+      "id": "mkt:019f8bc2-f9cf-7aab-8e52-d5268dcbd3ae",
+      "time": "2026-07-23 05:37:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla CEO Elon Musk said this year will be a year of significant capex."
+    },
+    {
+      "id": "5003084",
+      "time": "2026-07-23 05:36:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：FSD是車輛銷售的一個“重大需求推手”。"
+    },
+    {
+      "id": "mkt:019f8bc2-6676-7aab-8e52-ca5e76acdb8f",
+      "time": "2026-07-23 05:36:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla CEO Elon Musk said the company's \"FSD\" subscription service is an important driver of demand."
+    },
+    {
+      "id": "mkt:019f8bc2-411b-7aab-8e52-c65cdc57d9f1",
+      "time": "2026-07-23 05:36:31",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla CEO Elon Musk said production of semi-trailer trucks has begun."
+    },
+    {
+      "id": "mkt:019f8bc2-34fa-7aab-8e52-ba2870c70cff",
+      "time": "2026-07-23 05:36:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Houthis in Yemen said they struck two Saudi oil tankers, ENCELA and LAYLIA, using ballistic missiles, cruise missiles and drones."
+    },
+    {
+      "id": "5003083",
+      "time": "2026-07-23 05:36:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： Semi 電動半掛卡車已投產。"
+    },
+    {
+      "id": "5003082",
+      "time": "2026-07-23 05:35:30",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：特斯拉仍計劃迎來 “大額資本開支年”。"
+    },
     {
       "id": "5003081",
       "time": "2026-07-23 05:34:18",
