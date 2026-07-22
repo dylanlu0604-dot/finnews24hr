@@ -1,7 +1,37 @@
 {
   "date": "2026-07-22",
-  "count": 1156,
+  "count": 1159,
   "items": [
+    {
+      "id": "5001450",
+      "time": "2026-07-22 12:14:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中汽協：1—6月銷量排名前十位的MPV生產企業共銷售39.4萬輛】據中國汽車工業協會統計分析，2026年1—6月，銷量排名前十位的MPV生產企業共銷售39.4萬輛，佔MPV銷售總量的80.6%。在上述十家企業中，與去年同期相比，廣汽傳祺、長城汽車、吉利汽車和東風公司銷量呈不同程度增長，其他企業銷量均呈不同程度下降。"
+    },
+    {
+      "id": "te:markets:568733",
+      "time": "2026-07-22 12:12:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Wheat Futures Return to Over 2-Year High — Wheat futures climbed to around $6.80 per bushel in late July, returning to their highest level since May 20, 2024, as worsening Black Sea tensions and deteriorating crop prospects in fueled supply concerns. Russia restricted access to certain Sea of Azov and Kavkaz ports while continuing strikes on Ukrainian port infrastructure, as Ukraine launched drone attacks on warehouses operated by Wildberries. The escalating tensions heightened concerns over grain shipments through the Black Sea, a critical export corridor for two of the world's largest wheat exporters. Further supporting prices, SovEcon reduced its forecast for Russia's 2026/27 wheat harvest by 0.7%, citing lower yield expectations in southern regions and reduced spring wheat acreage. Elsewhere, France's soft wheat production is expected to drop 7.6% this year following heat-wave damage, while US spring wheat conditions deteriorated, with the good-to-excellent rating falling five percentage points from a week earlier."
+    },
+    {
+      "id": "te:markets:568732",
+      "time": "2026-07-22 12:11:23",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Corn Nears 8-Week Top — Corn futures rose above $4.5 per bushel, approaching an eight-week high as higher crude oil prices outweighed better-than-expected US crop conditions. US-Iran fighting continued near the Strait of Hormuz, while Houthi militants in Yemen threatened shipping in the Red Sea, disrupting traffic through two of the world's most critical energy chokepoints. Supply concerns also spread to the Black Sea after attacks targeted the Caspian Pipeline Consortium, a key export route for Kazakhstan's crude. Higher oil prices boosted demand expectations for corn used in biofuel production. Meanwhile, the USDA rated 67% of US corn crops in good-to-excellent condition, down one percentage point from the previous week but above market expectations of 66%. The rating followed extreme heat across key growing regions, though forecasts for cooler temperatures and increased rainfall improved the production outlook."
+    },
     {
       "id": "5001449",
       "time": "2026-07-22 12:09:52",
