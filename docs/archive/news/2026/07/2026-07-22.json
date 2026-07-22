@@ -1,7 +1,93 @@
 {
   "date": "2026-07-22",
-  "count": 1439,
+  "count": 1448,
   "items": [
+    {
+      "id": "5001647",
+      "time": "2026-07-22 14:56:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瀾起科技A股成交額超200億元】7月22日下午，瀾起科技A股成交額超200億元，現漲1.68%。"
+    },
+    {
+      "id": "mkt:019f889c-bb6a-7aab-8e3d-988dca9d4f08",
+      "time": "2026-07-22 14:56:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "German two-year bond yield hit a two-year high at 2.8177%, up 2bps on the day."
+    },
+    {
+      "id": "5001646",
+      "time": "2026-07-22 14:56:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率<DE2YT=RR>觸及兩年新高，報2.8177%，上漲2個基點。"
+    },
+    {
+      "id": "5001645",
+      "time": "2026-07-22 14:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南開展墨江5.0級地震保通應急處置 全省道路通行秩序正常】7月21日19時43分，普洱市墨江縣發生5.0級地震，震源深度6公里。地震發生後，雲南省交通運輸廳立即啟動地震應急四級響應，排程力量開展災情排查與應急處置，保障抗震救災交通防線。截至記者發稿時，全省高速公路、普通國道通行秩序正常，未收到道路阻斷和人員傷亡報告。（央視新聞）"
+    },
+    {
+      "id": "5001644",
+      "time": "2026-07-22 14:56:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思瑞投資宣佈5000萬元自購旗下產品】7月22日，思瑞投資釋出公告稱，基於對中國資本市場長期穩定發展和公司資產管理能力的信心，以及與投資者共享收益、共擔風險的原則，思瑞投資及員工已於近期申購自有產品，金額為5000萬元。"
+    },
+    {
+      "id": "mkt:019f889b-59b6-7aab-8e3d-937240ac496e",
+      "time": "2026-07-22 14:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's prime minister said the government has begun preparing infrastructure and prefabricated housing to facilitate residents' return."
+    },
+    {
+      "id": "mkt:019f889a-d8ca-7aab-8e3d-8c215180ba36",
+      "time": "2026-07-22 14:54:37",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Burnham drops plan to raise UK personal allowance, sources say】UK's new prime minister Burnham has dropped consideration of raising the income tax personal allowance, people familiar with the matter said, aiming to signal fiscal discipline to a skeptical bond market. He had earlier floated increasing the current £12,570 (~$17,000) threshold, which would have cut taxes for millions, but the government is not including an increase in initial measures to tackle living costs. The personal allowance has been frozen for five years; inflation-driven wage growth has widened the tax base via fiscal drag."
+    },
+    {
+      "id": "mkt:019f889a-3190-7aab-8e3d-83382257e251",
+      "time": "2026-07-22 14:53:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK"
+      ],
+      "text": "【China, EU sign new joint R&D funding agreement for 2025–27】China’s Ministry of Science and Technology and the European Commission signed a 2025–27 China‑EU joint research funding agreement targeting Agriculture, Food and Biobased Solutions (FAB) and Climate Change and Biodiversity (CCB). The deal establishes joint grants to universities, research institutes and companies for applied R&D aimed at carbon‑neutral and low‑carbon solutions. China will channel support via the National Key R&D Program’s intergovernmental international S&T innovation cooperation key project; the EU will use Horizon Europe."
+    },
+    {
+      "id": "5001642",
+      "time": "2026-07-22 14:53:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：香港今年新股集資規模有望超逾4,000億港元。"
+    },
     {
       "id": "5001641",
       "time": "2026-07-22 14:53:04",

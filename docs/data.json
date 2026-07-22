@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-22 14:54:02",
-  "count": 17988,
+  "updated": "2026-07-22 14:58:09",
+  "count": 17985,
   "items": [
+    {
+      "id": "5001647",
+      "time": "2026-07-22 14:56:45",
+      "tags": [
+        "市場"
+      ],
+      "text": "【瀾起科技A股成交額超200億元】7月22日下午，瀾起科技A股成交額超200億元，現漲1.68%。"
+    },
+    {
+      "id": "mkt:019f889c-bb6a-7aab-8e3d-988dca9d4f08",
+      "time": "2026-07-22 14:56:40",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "EURUSD",
+        "Impact bullish",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "German two-year bond yield hit a two-year high at 2.8177%, up 2bps on the day."
+    },
+    {
+      "id": "5001646",
+      "time": "2026-07-22 14:56:37",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國兩年期國債收益率<DE2YT=RR>觸及兩年新高，報2.8177%，上漲2個基點。"
+    },
+    {
+      "id": "5001645",
+      "time": "2026-07-22 14:56:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【雲南開展墨江5.0級地震保通應急處置 全省道路通行秩序正常】7月21日19時43分，普洱市墨江縣發生5.0級地震，震源深度6公里。地震發生後，雲南省交通運輸廳立即啟動地震應急四級響應，排程力量開展災情排查與應急處置，保障抗震救災交通防線。截至記者發稿時，全省高速公路、普通國道通行秩序正常，未收到道路阻斷和人員傷亡報告。（央視新聞）"
+    },
+    {
+      "id": "5001644",
+      "time": "2026-07-22 14:56:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "【思瑞投資宣佈5000萬元自購旗下產品】7月22日，思瑞投資釋出公告稱，基於對中國資本市場長期穩定發展和公司資產管理能力的信心，以及與投資者共享收益、共擔風險的原則，思瑞投資及員工已於近期申購自有產品，金額為5000萬元。"
+    },
+    {
+      "id": "mkt:019f889b-59b6-7aab-8e3d-937240ac496e",
+      "time": "2026-07-22 14:55:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Lebanon's prime minister said the government has begun preparing infrastructure and prefabricated housing to facilitate residents' return."
+    },
+    {
+      "id": "mkt:019f889a-d8ca-7aab-8e3d-8c215180ba36",
+      "time": "2026-07-22 14:54:37",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Burnham drops plan to raise UK personal allowance, sources say】UK's new prime minister Burnham has dropped consideration of raising the income tax personal allowance, people familiar with the matter said, aiming to signal fiscal discipline to a skeptical bond market. He had earlier floated increasing the current £12,570 (~$17,000) threshold, which would have cut taxes for millions, but the government is not including an increase in initial measures to tackle living costs. The personal allowance has been frozen for five years; inflation-driven wage growth has widened the tax base via fiscal drag."
+    },
+    {
+      "id": "mkt:019f889a-3190-7aab-8e3d-83382257e251",
+      "time": "2026-07-22 14:53:54",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Europe & UK"
+      ],
+      "text": "【China, EU sign new joint R&D funding agreement for 2025–27】China’s Ministry of Science and Technology and the European Commission signed a 2025–27 China‑EU joint research funding agreement targeting Agriculture, Food and Biobased Solutions (FAB) and Climate Change and Biodiversity (CCB). The deal establishes joint grants to universities, research institutes and companies for applied R&D aimed at carbon‑neutral and low‑carbon solutions. China will channel support via the National Key R&D Program’s intergovernmental international S&T innovation cooperation key project; the EU will use Horizon Europe."
+    },
+    {
+      "id": "5001642",
+      "time": "2026-07-22 14:53:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：香港今年新股集資規模有望超逾4,000億港元。"
+    },
     {
       "id": "5001641",
       "time": "2026-07-22 14:53:04",
@@ -165052,119 +165138,6 @@
         "Impact bullish"
       ],
       "text": "【JP Morgan: ASML expansion plan points to 2028 earnings well above consensus】JP Morgan analysts say ASML's plan to raise lithography equipment output by about 30% in 2027 and a further 30% in 2028 implies 2028 EPS potential well above market consensus; JP Morgan estimates 2028 EPS could exceed €65. Analysts note ASML's Q2 results and Q3 outlook beat expectations, and after the company raised full-year guidance consensus 2026 EPS forecasts are likely to be revised up by roughly 25%."
-    },
-    {
-      "id": "4989279",
-      "time": "2026-07-15 14:58:05",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "以色列央行行長表示，無論哪個黨派贏得下次選舉，都必須阻止債務與GDP之比進一步攀升，並對教育等增長引擎加大投資。"
-    },
-    {
-      "id": "4989278",
-      "time": "2026-07-15 14:57:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【“巴威”殘餘環流影響持續，274縣（市、區）有山洪災害風險】水利部訊息，儘管目前第9號颱風“巴威”已停止編號，但其殘餘環流將繼續影響我國，國家山洪災害監測預報預警平臺提醒，颱風影響地區尤其需要防範山洪次生災害。國家山洪災害監測預報預警平臺提醒，未來三天，吉林、四川、山東、山西、廣西、新疆、河北、遼寧、陝西、黑龍江、青海、廣東、甘肅、河南、雲南等15個省（自治區）共274縣（市、區）存在山洪災害風險，其中，吉林15縣（市、區）、黑龍江3市、遼寧2縣發生山洪災害的可能性很大（紅色預警）。"
-    },
-    {
-      "id": "4989277",
-      "time": "2026-07-15 14:57:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本首相高市早苗：提升國際競爭力最終將鞏固日元信用。"
-    },
-    {
-      "id": "4989276",
-      "time": "2026-07-15 14:57:11",
-      "tags": [
-        "國際"
-      ],
-      "text": "塞爾維亞總統武契奇稱已抵達基輔。"
-    },
-    {
-      "id": "mkt:019f6490-980c-7aab-8d96-b2563afad650",
-      "time": "2026-07-15 14:57:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Serbian President Vucic has arrived in Kyiv."
-    },
-    {
-      "id": "mkt:019f6490-8960-7aab-8d96-aae1e121a231",
-      "time": "2026-07-15 14:57:01",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's prime minister Takaichi said foreign-exchange rates should be determined by the market."
-    },
-    {
-      "id": "4989275",
-      "time": "2026-07-15 14:56:38",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東陽光科旗下宜昌電池箔公司增資至9.7億 增幅約106%】天眼查App顯示，近日，宜昌東陽光電池箔有限公司發生工商變更，註冊資本由4.7億人民幣增至9.7億人民幣，增幅約106%。該公司成立於2022年1月，法定代表人為郭飛躍，經營範圍含電子專用材料製造、電子元器件製造、新能源原動裝置製造、有色金屬合金製造等。股東資訊顯示，該公司由廣東東陽光科技控股股份有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019f648f-8415-7aab-8d96-a627f190b9aa",
-      "time": "2026-07-15 14:55:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【Oriental Jincheng chief economist Wang Qing says economy to follow V-shaped path this year】Citing the latest NBS data, Oriental Jincheng chief economist Wang Qing said moderate growth-support measures lifting domestic demand and fading short-term drags should push Q3 GDP growth to about 4.6%, with further acceleration likely in Q4, producing a V-shaped annual trajectory. He added that new momentum led by high-tech manufacturing should remain strong in H2, while property-related activity will stay under pressure, extending a K-shaped divergence."
-    },
-    {
-      "id": "4989274",
-      "time": "2026-07-15 14:55:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【東方金誠王青：全年經濟將呈現“V型”走勢】據國家統計局7月15日公佈的資料，中國2026年二季度GDP同比增速為4.3%，一季度為5.0%，上半年GDP增速為4.7%。對此，東方金誠首席經濟學家王青表示，穩增長政策適度發力帶動內需回升，以及短期影響因素消退等帶動下，三季度GDP增速將回升至4.6%左右，四季度有望進一步加快，全年經濟將呈現“V型”走勢。其中，下半年以高技術製造業為代表的新動能還會保持較快發展勢頭，而以房地產為代表的老動能會繼續承壓，經濟“K型”分化格局也會延續。"
-    },
-    {
-      "id": "mkt:019f648f-0654-7aab-8d96-9e8ba6e53a1d",
-      "time": "2026-07-15 14:55:22",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "Treasury Yields",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "【Oil gains lift euro-area government bond yields, tracking U.S. Treasuries】Euro-area government bond yields opened higher Wednesday, tracking U.S. Treasuries. The rise was driven mainly by higher oil prices after military strikes in the Middle East, though U.S. 10-year yields eased off eight-week highs after Tuesday's U.S. inf data undershot expectations. Analysts at a Belgian bank said the move also reflected Fed Chair KEVIN WARSH reiterating a commitment to price stability in congressional testimony. According to Tradeweb, the 10-year German Bund yield rose 3.3 bps to 3.105%."
-    },
-    {
-      "id": "4989273",
-      "time": "2026-07-15 14:55:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "據伊朗塔斯尼姆通訊社：美國再次襲擊恰巴哈爾港海上交通管制中心。"
-    },
-    {
-      "id": "mkt:019f648e-7336-7aab-8d96-9205d3b486ff",
-      "time": "2026-07-15 14:54:44",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【ChangXin chairman says STAR Market listing to fund R&D and industrialisation】ChangXin Memory Technologies chairman Zhu Yiming told the company’s STAR Market IPO roadshow that proceeds will be used to strengthen R&D capacity and advance industrialisation. He said the firm will push to lead industry-chain coordination and support China’s integrated-circuit ecosystem, and will continue prioritising independent innovation and investment to become a globally influential semiconductor memory company."
     }
   ]
 }
