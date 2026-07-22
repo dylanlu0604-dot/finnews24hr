@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-22 14:21:43",
-  "count": 17999,
+  "updated": "2026-07-22 14:25:48",
+  "count": 17997,
   "items": [
+    {
+      "id": "5001598",
+      "time": "2026-07-22 14:24:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【遭美國加徵關稅 加拿大取消與美共同慶祝大橋通車】加拿大政府21日宣佈，取消原定本週與美國聯合舉行的戈迪·豪跨國大橋開通慶祝活動，理由是美方日前宣佈對加拿大特定商品加徵50%關稅。據美聯社報道，加拿大住房和基礎設施部長格雷戈爾·羅伯遜的發言人吉娜·加薩貝在一封電子郵件宣告中說：“鑑於美國本週早些時候發出的貿易行動威脅，此時舉行兩國間的慶祝活動並不合適。”宣告說，加方仍致力於按原定計劃於7月27日開通大橋，但將於24日自行慶祝。宣告同時表示，加美雙方就大橋達成的相關協議仍然有效。（新華社）"
+    },
+    {
+      "id": "mkt:019f887e-c0a3-7aab-8e3d-10c955c39a35",
+      "time": "2026-07-22 14:23:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Volkswagen Group China is accelerating L3 and L4 autonomous-driving development through deeper AI cooperation with Horizon Robotics. Deliveries of L3 autonomous-driving capability are planned to begin as early as H2 next year."
+    },
+    {
+      "id": "5001597",
+      "time": "2026-07-22 14:23:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【甘肅：上半年地區生產總值同比增長4.9%】甘肅省統計局公佈2026年上半年經濟資料，根據地區生產總值統一核算結果，上半年，甘肅全省地區生產總值6959.1億元，按不變價格計算，同比增長4.9%。分產業看，第一產業增加值450.2億元，同比增長5.9%；第二產業增加值2500.9億元，增長5.3%；第三產業增加值4008.0億元，增長4.6%。"
+    },
+    {
+      "id": "5001596",
+      "time": "2026-07-22 14:23:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報86.03美元/桶。"
+    },
+    {
+      "id": "5001595",
+      "time": "2026-07-22 14:22:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲2%，現報92.84美元/桶。"
+    },
+    {
+      "id": "5001594",
+      "time": "2026-07-22 14:22:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破86美元/桶，日內漲1.99%。"
+    },
+    {
+      "id": "5001593",
+      "time": "2026-07-22 14:22:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股指期貨延續跌勢，納斯達克100指數期貨下跌0.8%。"
+    },
+    {
+      "id": "5001592",
+      "time": "2026-07-22 14:22:07",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【SpaceX做空比例飆至32% 馬斯克警告空頭：幾無存活可能】據金融分析機構S3 Partners估算，目前約有2.06億股SpaceX股份被做空，約佔該公司可公開交易流通股的32%，名義空倉規模約250億美元。馬斯克對此警告稱，做空SpaceX的投資者幾無存活可能。SpaceX週二確認，將於8月4日美股盤後釋出上市以來的首份季度財報。"
+    },
+    {
+      "id": "te:markets:568758",
+      "time": "2026-07-22 14:22:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "European Stocks Poised for Higher Open — European equity markets were set to open higher on Wednesday, building on the previous session’s gains as investor sentiment remained resilient despite heightened uncertainty in the Middle East, which kept oil prices elevated and inflation and interest rate concerns in focus. On the economic front, data showed UK inflation eased to 2.6% in June from 2.8% in May, coming in below forecasts of 2.7%, helped by lower petrol and diesel prices. In corporate news, Spanish lender Banco Santander reported second-quarter net income that exceeded analyst expectations as it continued to attract millions of new customers. Investors will also monitor earnings from Roche Holdings, Iberdrola, UniCredit, and TE Connectivity, among others. In premarket trading, Euro Stoxx 50 and Stoxx 600 futures were both up about 0.2%."
+    },
+    {
+      "id": "5001591",
+      "time": "2026-07-22 14:21:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯商業遊說團體警告稱，如果利率維持不變，企業將面臨破產。"
+    },
     {
       "id": "5001590",
       "time": "2026-07-22 14:20:20",
@@ -165148,114 +165237,6 @@
         "國際"
       ],
       "text": "【歐洲央行管委Kocher：目前未看到第二輪通脹】歐洲央行管委會成員Martin Kocher在接受Boersen Zeitung報採訪時表示，該央行正特別關注中東衝突帶來的間接價格影響以及可能的第二輪影響；歐洲央行目前尚未看到第二輪影響，但必須根據預期調整貨幣政策，而市場預期正受到高度不確定性的影響；Kocher表示，如果必要，歐洲央行已做好準備採取措施；Kocher重申，下次利率決議將討論維持利率不變或加息的選項；每次會議都將根據現有資料做出決定；歐洲央行的溝通提供了必要的靈活性；Kocher表示，歐元區經濟與基線預測情景“相差不遠”，近幾周油價略低於預期，但中東衝突再次爆發。"
-    },
-    {
-      "id": "4989228",
-      "time": "2026-07-15 14:25:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西橫州清江水閘壩體振動減弱，總體執行可控】7月15日，橫州市水利局訊息，清江水閘位於橫州市橫州鎮清江村委下水李村附近。7月10日下午，因清江水閘內江（清江）水位比外江（鬱江）水位高出約9米，且清江水閘涉洪時水閘主體出現震感，水閘安全性難以確定。為了保障清江沿岸群眾生命財產安全，採取了清江水閘堤頂道路禁止通行、轉移疏散清江水閘沿岸低窪地區群眾的措施。透過持續洩洪以及清理上游影響行洪的水葫蘆、漂浮物等障礙物，截至7月15日11時，清江水閘水位49.40米，低於設計水位（51.67米）2.27米；下游水位46.8米，上下游水位差2.6米。目前，清江閘壩體工況抗傾覆和抗滑穩定安全，壩體振動減弱，水閘執行總體安全可控。"
-    },
-    {
-      "id": "4989227",
-      "time": "2026-07-15 14:25:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【長鑫科技朱一明：希望促進產業鏈協同發展 將堅持自主創新道路】長鑫科技董事長朱一明今日在科創板IPO路演中表示，登陸資本市場，對長鑫科技而言，既是新的起點，更意味著新的責任。希望透過本次募集資金投資專案，進一步提升公司技術研發能力和產業化水平，發揮龍頭企業的帶動作用，促進產業鏈協同發展，為我國積體電路、產業生態建設貢獻更大力量。面向未來，長鑫將始終堅持自主創新的發展道路，將繼續保持對技術的敬畏、對創新的投入和對產業的熱愛，努力建設具有全球影響力的半導體儲存企業。"
-    },
-    {
-      "id": "mkt:019f6473-0bbe-7aab-8d95-f330b055fa99",
-      "time": "2026-07-15 14:24:48",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "000001.SS"
-      ],
-      "text": "A-share aerospace equipment sector plunged; China Satellite hit limit-down, while Aerospace Electronics, Star-Net Yuda, CETC Blue Sky, Ligong Navigation and China Satcom also fell."
-    },
-    {
-      "id": "4989226",
-      "time": "2026-07-15 14:24:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家統計局：上半年我國晶片日均產量超15億塊】國家統計局新聞發言人、國民經濟綜合統計司負責人王冠華7月15日在國新辦新聞釋出會上表示，上半年規模以上高技術製造業增加值、數字產品製造業增加值分別增長13.3%和12.3%，比一季度都有所加快。特別是全球人工智慧技術變革帶來的高階算力晶片和儲存晶片的需求爆發，上半年我國規模以上工業企業的積體電路產量增長23.1%，產量規模達到2798億塊，這個數字非常龐大，換算下來平均每天生產積體電路超過15億塊。積體電路就是我們平時說的晶片，它廣泛應用於智慧裝備、電子產品當中，每天超過15億塊晶片的產出，不僅是數字的更新，更是中國半導體產業發展動力的生動寫照。"
-    },
-    {
-      "id": "4989225",
-      "time": "2026-07-15 14:24:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "【航天裝備板塊重挫，中國衛星跌停】航天裝備板塊重挫，中國衛星跌停，航天電子、星網宇達、電科藍天、理工導航、中國衛通等跟跌。"
-    },
-    {
-      "id": "4989224",
-      "time": "2026-07-15 14:24:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【微信治理“惡意挑動對立情緒”內容】據“微信珊瑚安全”訊息，為進一步淨化平臺內容生態，持續遏制惡意挑動對立、渲染負面情緒等“憤怒誘餌”突出問題，微信平臺主動加強排查與防控措施，持續加大治理力度。近期，平臺在專項治理基礎上，進一步強化對惡意挑動對立情緒內容的巡查處置力度，最佳化階梯規則和分級治理機制，累計處置相關違規內容4328條，對“覺醒XX”“銘記XX”“何必XX”“全蔣博XX”等35個違規賬號採取關閉、禁言等處置措施。"
-    },
-    {
-      "id": "4989223",
-      "time": "2026-07-15 14:23:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【遠景動力百GWh宜昌基地投產，790Ah電芯超50%產能被鎖定】7月15日，遠景動力宜昌超級工廠正式投產，其中全球最大方殼卷繞790Ah儲能電芯目前50%產能已被海外訂單鎖定。作為全球首個百GWh級儲能全產業鏈基地，該專案一期規劃40GWh電芯產能，於2025年10月開建；二期規劃 60GWh電芯產能與 60GWh儲能系統產能，於今年4月啟動建設。"
-    },
-    {
-      "id": "te:economy:567078",
-      "time": "2026-07-15 14:23:31",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Saudi Arabia",
-        "Inflation Rate",
-        "Importance 1"
-      ],
-      "text": "Saudi Arabia Inflation Rate Steady at 1.8% — The annual inflation rate in Saudi Arabia held steady at 1.8% in June 2026, unchanged from May and in line with market expectations. Price growth accelerated for food and beverages (1.4% vs 0.7% in May) and transportation (1.7% vs 1.5%). Meanwhile, inflation eased for housing and utilities (3.5% vs 3.7%), recreation, sport and culture (2.5% vs 2.6%), restaurants and accommodation services (1.5% vs 1.7%), insurance and financial services (2.1% vs 2.2%), and personal care and miscellaneous goods and services (3.8% vs 5.6%). Deflation deepened for clothing and footwear (-0.4% vs -0.1%), while health inflation edged up (0.4% vs 0.2%). Price growth was unchanged for tobacco (at 0.5%), information and communication (at 0.6%), and education services (at 1.1%). On a monthly basis, consumer prices rose 0.2% in June, matching the increase recorded in the previous month."
-    },
-    {
-      "id": "4989222",
-      "time": "2026-07-15 14:23:03",
-      "tags": [
-        "公司"
-      ],
-      "text": "阿斯麥美股夜盤一度漲超6%，公司Q2業績全面超預期，並上調全年業績指引。"
-    },
-    {
-      "id": "4989221",
-      "time": "2026-07-15 14:22:51",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【LG新能源將為谷歌規模最大的“光儲一體”專案供應電池】據業內人士週三透露，韓國LG新能源（LG Energy Solution）將為谷歌規模最大的太陽能與儲能專案供應電池，此舉標誌著該公司進一步拓展了與AI資料中心激增的電力需求相關的能源基礎設施業務。谷歌與可再生能源開發商Cypress Creek Energy在阿肯色州聯合公佈了“鋼鐵河能源中心”（Steel River Energy Center）專案。該專案初期將配置1.6吉瓦（GW）的太陽能發電能力與約2吉瓦時（GWh）的電池儲能系統；到2029年，規模將擴大至2.5吉瓦太陽能發電和2.9吉瓦時儲能容量。預計LG新能源將供應其在北美生產的JF2 DC Link系統，該系統採用磷酸鐵鋰電池技術。據訊息人士估算，該訂單價值達數千億韓元。"
-    },
-    {
-      "id": "4989220",
-      "time": "2026-07-15 14:22:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【金鉬股份等在安徽成立新科技公司 註冊資本10億】天眼查App顯示，近日，安徽金鉬華鑫科技有限公司成立，法定代表人為符新科，註冊資本10億人民幣，經營範圍含鐵合金冶煉、有色金屬合金製造、高效能有色金屬及合金材料銷售、稀有稀土金屬冶煉、金屬材料銷售等。股東資訊顯示，該公司由金堆城鉬業股份有限公司、安徽金沙鉬業有限公司、安徽省金福智慧能源有限公司共同持股。"
-    },
-    {
-      "id": "mkt:019f6470-3d86-7aab-8d95-ee400bb67648",
-      "time": "2026-07-15 14:21:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Henan 1H goods trade tops 520.36 bln yuan, imports exceed 200.88 bln for first time】Zhengzhou Customs reported Henan province’s 1H goods trade reached 520.36 bln yuan, up 26% YoY. Exports were 319.48 bln yuan, +14.6% YoY; imports 200.88 bln yuan, +49.8% YoY. Both the overall trade total and the import figure are first-time highs for the comparable period."
     }
   ]
 }
