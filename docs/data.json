@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-22 08:15:18",
-  "count": 18077,
+  "updated": "2026-07-22 08:19:17",
+  "count": 18076,
   "items": [
+    {
+      "id": "mkt:019f872f-e729-7aab-8e34-d1049fdc21c0",
+      "time": "2026-07-22 08:18:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "Market Regions",
+        "Japan & APAC",
+        "9984.T",
+        "Impact bullish",
+        "6969.T",
+        "Nikkei 225"
+      ],
+      "text": "Japanese chip-related stocks rose; Kioxia climbed 8.5%, ROHM Semiconductor gained 4.3% and SoftBank Group rose 3.4%."
+    },
+    {
+      "id": "5001065",
+      "time": "2026-07-22 08:17:40",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "日本晶片相關股大幅上漲，鎧俠股價上漲8.5%，羅姆半導體上漲4.3%，軟銀集團上漲3.4%。"
+    },
+    {
+      "id": "mkt:019f872f-0d6b-7aab-8e34-ce0cf549f707",
+      "time": "2026-07-22 08:17:15",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "New York gold futures rose above $4,100/oz, up 0.44% on the day."
+    },
+    {
+      "id": "5001064",
+      "time": "2026-07-22 08:17:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內漲0.61%。"
+    },
+    {
+      "id": "5001063",
+      "time": "2026-07-22 08:17:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克50指數期貨上漲0.2%，德國DAX指數期貨上漲0.3%，英國富時指數期貨上漲0.2%。"
+    },
+    {
+      "id": "5001062",
+      "time": "2026-07-22 08:16:15",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本東證指數上漲1%，至4055.42點。"
+    },
+    {
+      "id": "5001061",
+      "time": "2026-07-22 08:15:31",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "10年期日本國債收益率上升2.5個基點，至2.745%。"
+    },
+    {
+      "id": "5001059",
+      "time": "2026-07-22 08:15:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗塔斯尼姆通訊社22日報道，伊朗布什爾市當天凌晨遭到美軍空襲。當天稍早前，塔斯尼姆通訊社說坎加瓦爾地區遭到美軍導彈襲擊。（新華社）"
+    },
+    {
+      "id": "5001058",
+      "time": "2026-07-22 08:14:58",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數上漲1.3%，晶片和金屬股領漲】隔夜美國科技股反彈後，日本股市走高。晶片和金屬股領漲。東京電子上漲4.3%，軟銀集團上漲3.7%，JX Advanced Metals上漲4.1%。隨著近日美國和伊朗之間的衝突加劇，投資者正密切關注中東局勢的發展。日本政府官員對日元疲軟的任何評論也備受關注。日經指數上漲1.3%，報67101.42點。"
+    },
     {
       "id": "5001057",
       "time": "2026-07-22 08:14:28",
@@ -166105,93 +166197,6 @@
         "Nasdaq100"
       ],
       "text": "【CITIC Securities: June US CPI broadly below expectations; still expects Fed to keep rates on hold this year】CITIC Securities says June US CPI came in broadly below expectations: retail gasoline fell, core services were flat MoM, and second‑round inflation effects were weak. The firm assesses inflation lacks persistence; headline CPI YoY has passed this cycle’s peak, should drift down modestly in Q3 with a trough in September, rise to a secondary peak by year‑end and then fall sharply by March next year. CITIC still expects the Fed to keep policy rates unchanged through the year and sees room for derivatives‑implied hike probabilities to be revised lower. Market implications: US Treasuries are not attractive for allocation trades—short‑duration better than long‑duration; the dollar is unlikely to sustain a strong rally but retains support; US tech equities remain attractive."
-    },
-    {
-      "id": "mkt:019f6323-ead0-7aab-8d8c-4aa02cd71505",
-      "time": "2026-07-15 08:18:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Korea Exchange activated a temporary suspension mechanism for the KOSDAQ; algorithmic trading paused for 5 minutes."
-    },
-    {
-      "id": "mkt:019f6323-982d-7aab-8d8c-46276dcf52b8",
-      "time": "2026-07-15 08:18:24",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's military said its air defence forces are currently responding to hostile drones originating from Iran."
-    },
-    {
-      "id": "4988689",
-      "time": "2026-07-15 08:18:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "科威特軍方稱其防空系統正應對伊朗發動的\"敵對\"無人機襲擊。"
-    },
-    {
-      "id": "4988688",
-      "time": "2026-07-15 08:17:32",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停韓國創業板指（KOSDAQ）程式化買入5分鐘。"
-    },
-    {
-      "id": "4988687",
-      "time": "2026-07-15 08:17:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特軍隊在 X 上釋出訊息稱，科威特防空部隊應對敵對無人機威脅。"
-    },
-    {
-      "id": "4988686",
-      "time": "2026-07-15 08:16:40",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數期貨上漲0.1%，納斯達克指數期貨上漲0.3%。"
-    },
-    {
-      "id": "4988685",
-      "time": "2026-07-15 08:16:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特防空部隊應對敵對無人機威脅。"
-    },
-    {
-      "id": "4988684",
-      "time": "2026-07-15 08:16:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克歐洲50指數期貨下跌0.2%，德國DAX指數期貨下跌0.3%，富時指數期貨下跌0.2%。"
-    },
-    {
-      "id": "4988683",
-      "time": "2026-07-15 08:15:54",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本東證指數上漲1%，至4079.62。"
-    },
-    {
-      "id": "4988682",
-      "time": "2026-07-15 08:15:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【一批涉我國臺灣省的問題地圖被查獲】近日，大連海關所屬大窯灣海關關員在對一批申報為“船用資料”的進口保稅貨物進行實貨驗核時，發現其中一批地圖錯將我國臺灣省按照國家進行標識，嚴重損害我國主權和領土完整，違背一箇中國原則。經清點，共有“問題地圖”43張。目前，海關已依法對上述“問題地圖”作扣留處理。（海關釋出）"
     }
   ]
 }
