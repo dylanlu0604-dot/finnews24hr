@@ -1,7 +1,58 @@
 {
-  "updated": "2026-07-23 06:23:25",
-  "count": 17729,
+  "updated": "2026-07-23 06:27:23",
+  "count": 17730,
   "items": [
+    {
+      "id": "5003137",
+      "time": "2026-07-23 06:26:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4130美元/盎司，日內跌0.52%。"
+    },
+    {
+      "id": "mkt:019f8bee-b3d1-7aab-8e53-ec8d3c1cb7de",
+      "time": "2026-07-23 06:25:04",
+      "tags": [
+        "MKT News",
+        "LMT.O",
+        "Impact bullish",
+        "RTX.O",
+        "NOC.O"
+      ],
+      "text": "【U.S. House passes annual defense policy bill worth about $1.15 trillion】The U.S. House passed the annual National Defense Authorization Act (NDAA) 216-212, sending a bill that would authorize roughly $1.15 trillion to the Senate. The bill would expand U.S. defense production capacity and raise pay for all active-duty service members. It would authorize R&D funding for multiple aircraft programs, including a next-generation fighter, the B-21 Raider bomber, P-8 maritime patrol aircraft, F-35s, and Chinook and Black Hawk helicopters. It would also fund construction and support for the fourth Columbia-class SSBN, two Virginia-class submarines and two Arleigh Burke-class destroyers, and would codify several Trump administration executive orders into statute."
+    },
+    {
+      "id": "5003136",
+      "time": "2026-07-23 06:24:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美眾議院透過一項年度國防政策法案 總額超萬億美元】當地時間7月22日獲悉，美國眾議院當天以216票贊成、212票反對的投票結果透過一項總額近1.15萬億美元的年度國防政策法案。該法案將被送往參議院進行投票。據悉，這項《國防授權法案》（NDAA）旨在擴大美國的國防生產能力，將提高所有現役軍人薪酬，該法案授權撥款用於各類飛機的研發，涵蓋下一代戰鬥機、B-21“突襲者”（Raider）轟炸機、P-8海上巡邏機、F-35戰鬥機以及“支奴幹”（Chinook）和“黑鷹”（Blackhawk）直升機。該法案還批准資金用於建造和支援第四艘哥倫比亞級彈道導彈核潛艇、兩艘弗吉尼亞級核潛艇和兩艘阿利·伯克級驅逐艦。該法案還將特朗普政府多項行政命令編入法典。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8bed-1743-7aab-8e53-e63a4e3223b5",
+      "time": "2026-07-23 06:23:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla (TSLA.O) CEO Elon Musk said he expects the Semi truck to be equipped with autonomous driving technology by year-end or early next year."
+    },
+    {
+      "id": "5003135",
+      "time": "2026-07-23 06:23:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 預計旗下Semi卡車將在今年年底或明年初搭載自動駕駛技術。"
+    },
     {
       "id": "5003134",
       "time": "2026-07-23 06:18:20",
@@ -162046,38 +162097,6 @@
         "國際"
       ],
       "text": "【週四重要財經資訊提醒（以下均為北京時間）】 \n① 時間待定 APEC數字和人工智慧部長會議及數字周（7月16-24日）；\n② 時間待定 臺積電釋出業績報告，法說會將從14:00開始；\n③ 14:00 英國5月GDP，商品貿易帳，工業產出；\n④ 時間待定 國際能源署（IEA）釋出《全球關鍵礦產展望》報告；\n⑤ 15:30 瑞士央行披露6月18日利率決議的摘要；\n⑥ 20:30 美國6月零售銷售，7月11日當週首次申請失業救濟人數，7月費城聯儲製造業指數；\n⑦ 22:00 美國6月成屋簽約銷售指數，7月NAHB房產市場指數；\n⑧ 次日00:30 美國達拉斯聯儲主席Lorie Logan（2026年FOMC票委）談論美國經濟與美聯儲貨幣政策；\n⑨ 次日01:25 美國堪薩斯城聯儲主席Schmid在堪薩斯城聯儲經濟論壇講話；\n⑩ 次日07:00 美聯儲副主席Jefferson談論經濟與貨幣政策。"
-    },
-    {
-      "id": "mkt:019f67e4-0b17-7aab-8db1-3453217b4f0b",
-      "time": "2026-07-16 06:27:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pentagon bars public release of F-35 annual report for first time in over 20 years】The U.S. Department of Defense has, for the first time in more than 20 years, blocked public release of the annual F-35 program report compiled for Congress. The report, issued annually since 2005, was withheld after reviewers identified classified material unsuitable for disclosure. The F-35 program has repeatedly been criticized for budget overruns, engine delivery delays, postponed software updates and premature parts wear."
-    },
-    {
-      "id": "mkt:019f67e2-21a3-7aab-8db1-2b8b86ac1cf0",
-      "time": "2026-07-16 06:25:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Kyiv mayor reported a non-residential building was struck at an address in Darnytskyi district; a warehouse was struck in Sviatoshynskyi district; a fire erupted in a non-residential area in Darnytsia."
-    },
-    {
-      "id": "4990819",
-      "time": "2026-07-16 06:24:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "【執行基金資訊披露新規，多隻公募產品二季報首次披露長期業績】2026年基金二季報是公募基金資訊披露新規落地後的首批定期報告，成立期限滿足新規要求的公募基金在二季報中首次披露過去7年、10年的長期業績。業內人士表示，在資訊披露、績效考核等引導下，公募基金行業的長期價值導向愈發凸顯。7月15日，中歐鼎利債券釋出二季報，首次披露近7年淨值增長率；7月14日，平安基金髮布旗下多隻產品的二季報，平安策略先鋒混合、平安行業先鋒混合等均披露了過去7年、10年的淨值增長率。此外，華富基金、長城基金等公司旗下部分產品在二季報中披露了多維度的業績表現，為投資者瞭解產品中長期業績提供了便利。（上證報）"
-    },
-    {
-      "id": "4990818",
-      "time": "2026-07-16 06:23:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國中情局任命史蒂夫·布克拉蒂擔任首席安全官、邁克爾·馬爾科特擔任首席財務官。"
     }
   ]
 }
