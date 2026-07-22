@@ -1,7 +1,156 @@
 {
   "date": "2026-07-23",
-  "count": 483,
+  "count": 499,
   "items": [
+    {
+      "id": "mkt:019f8bd9-3d46-7aab-8e53-8e44d8a9a7a4",
+      "time": "2026-07-23 06:01:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold opened about $10 lower, slipped below $4,120/oz and was down 0.29% on the day."
+    },
+    {
+      "id": "5003116",
+      "time": "2026-07-23 06:01:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CFO： 公司將擇機籌措最高 300 億美元債務融資，用以加碼各類投資專案。"
+    },
+    {
+      "id": "mkt:019f8bd8-aff0-7aab-8e53-8619d30bb0d8",
+      "time": "2026-07-23 06:01:01",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures opened up about 1.3% after Houthi militants said they struck a Saudi oil tanker."
+    },
+    {
+      "id": "5003114",
+      "time": "2026-07-23 06:00:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4120美元/盎司，日內跌0.25%。"
+    },
+    {
+      "id": "mkt:019f8bd8-10d6-7aab-8e53-78af2c04cbf2",
+      "time": "2026-07-23 06:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Houthis say they attacked two Saudi oil tankers, warn of larger strikes inside Saudi】Yemen’s Houthi movement said on the 23rd it attacked two Saudi oil tankers, Encelia and Layla, using ballistic missiles, cruise missiles and drones in retaliation for what it called a Saudi blockade and to enforce a previously announced Red Sea shipping ban. The group said both vessels caught fire and it forced about 10 ships to turn back. It said it will continue maritime military operations and follow its “blockade for blockade” measures, and warned that any new Saudi military action in Yemen would prompt larger strikes on targets inside Saudi Arabia."
+    },
+    {
+      "id": "5003113",
+      "time": "2026-07-23 06:00:20",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4120美元/盎司，日內跌0.75%。"
+    },
+    {
+      "id": "5003112",
+      "time": "2026-07-23 06:00:18",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內跌0.95%。"
+    },
+    {
+      "id": "5003111",
+      "time": "2026-07-23 06:00:17",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【美聯儲7月維持利率不變的機率65.3%】據CME“美聯儲觀察”：美聯儲7月維持利率不變的機率為65.3%，累計加息25個基點的機率為34.7%。 美聯儲到9月維持利率不變的機率為22%，累計加息25個基點的機率為54.9%，累計加息50個基點的機率為23%。"
+    },
+    {
+      "id": "5003110",
+      "time": "2026-07-23 06:00:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲1%，現報87.76美元/桶。"
+    },
+    {
+      "id": "5003109",
+      "time": "2026-07-23 06:00:12",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4100美元/盎司，日內跌1.15%。"
+    },
+    {
+      "id": "5003108",
+      "time": "2026-07-23 06:00:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌1%，現報1295.00美元/盎司。"
+    },
+    {
+      "id": "5003107",
+      "time": "2026-07-23 06:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌2%，現報59.09美元/盎司。"
+    },
+    {
+      "id": "5003106",
+      "time": "2026-07-23 06:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4090美元/盎司，日內跌1.44%。"
+    },
+    {
+      "id": "5003105",
+      "time": "2026-07-23 06:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌1%，現報4089.30美元/盎司。"
+    },
+    {
+      "id": "5003104",
+      "time": "2026-07-23 06:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀突破60美元/盎司，日內跌1.55%。"
+    },
+    {
+      "id": "5003103",
+      "time": "2026-07-23 06:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌1%，現報59.37美元/盎司。"
+    },
     {
       "id": "5003102",
       "time": "2026-07-23 05:58:17",
