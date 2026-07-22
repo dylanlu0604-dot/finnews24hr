@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-23 01:21:45",
-  "count": 17683,
+  "updated": "2026-07-23 01:26:04",
+  "count": 17682,
   "items": [
+    {
+      "id": "5002893",
+      "time": "2026-07-23 01:23:50",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會表示，瑞安航空執行長奧利裡的言論違反了該機構對航空事故調查的規定。"
+    },
+    {
+      "id": "5002892",
+      "time": "2026-07-23 01:23:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家運輸安全委員會表示，尚未排除發動機在希臘上空發生故障事件中涉及機齡或維修因素的可能性。"
+    },
+    {
+      "id": "mkt:019f8ada-7b3a-7aab-8e4e-b866d2ed5071",
+      "time": "2026-07-23 01:23:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's president said the Iranian people will not yield to threats, that Tehran consistently emphasizes the importance of diplomacy and advocates resolving disputes through political means."
+    },
+    {
+      "id": "5002891",
+      "time": "2026-07-23 01:21:25",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見巴布亞紐幾內亞外長特卡琴科】中共中央政治局委員、外交部長王毅22日在馬尼拉會見巴布亞紐幾內亞外長特卡琴科。王毅表示，在兩國領導人戰略引領下，中巴新關係取得新的發展，政治互信進一步增強，互利合作持續深化，在國際和地區事務中的溝通更加緊密。中方高度重視對巴新關係，樂見巴新在國際事務中發揮更大作用。今年是中巴新建交50週年。中方願同巴新方一道努力，落實好兩國領導人重要共識，深化各領域合作，不斷充實兩國全面戰略伙伴關係內涵，更好造福兩國人民。（新華社）"
+    },
     {
       "id": "mkt:019f8ad8-64eb-7aab-8e4e-b4b6078cfa36",
       "time": "2026-07-23 01:21:05",
@@ -161372,65 +161406,6 @@
         "國際"
       ],
       "text": "美聯儲理事庫克： 當前貨幣政策處於適度收緊狀態，聯邦公開市場委員會可預留一段時間觀察更多資料以確認相關形勢。"
-    },
-    {
-      "id": "mkt:019f66cf-f0aa-7aab-8dad-289c0ccc424d",
-      "time": "2026-07-16 01:25:31",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Regions",
-        "Japan & APAC",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish",
-        "7012.T"
-      ],
-      "text": "Nikkei reports NVIDIA (NVDA.O) and Kawasaki Heavy Industries will partner to build a shipyard in Japan fitted with AI and robotics."
-    },
-    {
-      "id": "4990538",
-      "time": "2026-07-16 01:24:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "【郭明錤：蘋果下半年上漲趨勢未變】天風國際證券分析師郭明錤表示，蘋果(AAPL.O)股價近期走勢符合其此前預期。在WWDC26召開前，他曾看好蘋果2026年下半年的股價表現，並認為只要蘋果長期增長邏輯不變，短期訊息變化不會改變股價趨勢。他指出，蘋果股價此前因WWDC26後市場獲利了結以及產品漲價訊息出現回撥，但在近期市場震盪中仍創下盤中新高，驗證了此前對蘋果股價走勢的判斷。"
-    },
-    {
-      "id": "mkt:019f66cf-335a-7aab-8dad-214c69f721ca",
-      "time": "2026-07-16 01:24:42",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O",
-        "Impact bullish"
-      ],
-      "text": "【Kuo: Apple's H2 2026 uptrend intact】TF International Securities analyst Ming‑Chi Kuo said recent price action in Apple (AAPL.O) aligns with his prior expectations and he remains constructive on H2 2026. He said that if Apple's long-term growth thesis remains intact, short-term news should not change the stock's trend. Shares pulled back after WWDC26 on profit-taking and reports of product price increases but still hit intraday highs amid recent volatility, which he said validates his prior view."
-    },
-    {
-      "id": "4990536",
-      "time": "2026-07-16 01:24:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國聯邦通訊委員會（FCC）即將作出針對迪士尼的裁決，爭議圍繞《觀點》欄目及電視臺廣播牌照展開。"
-    },
-    {
-      "id": "mkt:019f66cd-cf95-7aab-8dad-1f228b20c389",
-      "time": "2026-07-16 01:23:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish"
-      ],
-      "text": "【German sovereign wealth fund to raise private markets allocation to 30% from 25%】German sovereign wealth fund Kenfo will raise its private markets allocation to 30% from 25% over the next two years and reduce private‑equity exposure, its annual report shows. The fund plans to expand real estate and infrastructure holdings. Kenfo flagged recent private‑equity underperformance and said it will adopt a more cautious stance; some investors have cut PE amid higher rates and AI‑related challenges to software investments. Kenfo trimmed US Treasury holdings from about €600m a year earlier to roughly €200m at end‑2025, then added more than €500m by end‑June. CEO Anja Mikus said the fund does not plan to stop investing in government bonds, noting yields of up to 2.8% are above many other sovereign bonds and that it will maintain flexibility."
     }
   ]
 }
