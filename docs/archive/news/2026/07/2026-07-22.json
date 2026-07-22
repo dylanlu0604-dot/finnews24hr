@@ -1,7 +1,102 @@
 {
   "date": "2026-07-22",
-  "count": 2104,
+  "count": 2115,
   "items": [
+    {
+      "id": "5002112",
+      "time": "2026-07-22 17:52:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【申達股份：2.13億股限售股7月28日上市流通】申達股份公告稱，本次限售股上市流通型別為2022年向特定物件發行A股股票形成的有限售條件流通股，上市流通總數為212,765,957股，佔公司總股本的16.11%，上市流通日期為2026年7月28日。發行物件上海紡織（集團）有限公司作出限售承諾且嚴格遵守。保薦機構對本次限售股上市流通事項無異議。"
+    },
+    {
+      "id": "mkt:019f893d-3794-7aab-8e43-ec9b8954ee82",
+      "time": "2026-07-22 17:51:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "WTI crude rose 4.69% intraday to $89/bbl."
+    },
+    {
+      "id": "5002111",
+      "time": "2026-07-22 17:51:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報88.56美元/桶。"
+    },
+    {
+      "id": "mkt:019f893c-15f1-7aab-8e43-e763e4853ee4",
+      "time": "2026-07-22 17:50:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DXY",
+        "Impact bullish",
+        "WTI",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "【Drone attacks kill three in Russia; Russia strikes Odesa port, destroys two ships】On the 22nd, Russian officials said Ukraine launched drone attacks on targets inside Russia over the prior 24 hours, killing three and injuring multiple people. Russian air defenses intercepted several Ukrainian drones. Russian forces said they struck Ukraine’s Odesa port, destroying two vessels and damaging port facilities."
+    },
+    {
+      "id": "5002110",
+      "time": "2026-07-22 17:50:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "【工信部：要堅持發展向智 大力發展新一代智慧製造】工業和資訊化部7月22日在浙江省寧波市召開國家新型工業化示範區建立工作座談會，會議指出，各建立城市要堅持動力向新，強化以企業為主體的自主創新，打造高水平產業創新平臺體系，促進創新成果高效轉移轉化，率先在產業科技創新體系建設上取得新突破。要堅持結構向優，推動傳統產業加速煥新升級，壯大新興產業打造新動能，找準未來產業發展新賽道，率先在產業結構最佳化升級上走出新路徑。要堅持發展向智，大力發展新一代智慧製造，全面推進綠色低碳轉型，積極發展服務型製造和生產性服務業，率先在工業智慧化、綠色化、融合化發展上形成新模式。要堅持主體向強，提升先進製造業叢集國際競爭力，加快推動科技產業園區高質量發展，培育壯大優質企業群體，率先在建設高能級產業載體上構築新優勢。"
+    },
+    {
+      "id": "mkt:019f893b-cbfb-7aab-8e43-dd47e4e47554",
+      "time": "2026-07-22 17:50:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "【Kuwait plans three-part USD bond; Goldman Sachs, Citigroup hired — sources】Sources say Kuwait plans to issue a three-part dollar bond on Wednesday with 3-, 5- and 10-year tranches and has hired banks including Goldman Sachs and Citigroup to arrange the deal. Final terms, including size and pricing, could be announced Wednesday evening. The move follows two weeks of daily missile and drone attacks on Kuwait by Iran, which officials say have left the economy under acute strain. Goldman Sachs analysts estimated in April that Kuwait’s fiscal deficit had surged to an annualised near 40% after a Strait of Hormuz closure forced most oil exports to stop."
+    },
+    {
+      "id": "5002109",
+      "time": "2026-07-22 17:50:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "習近平對基礎教育工作作出重要指示強調，全面貫徹黨的教育方針，落實立德樹人根本任務，不斷開創基礎教育高質量發展新局面。（新華社）"
+    },
+    {
+      "id": "mkt:019f893b-1446-7aab-8e43-d646bc6d15a9",
+      "time": "2026-07-22 17:49:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Xi Jinping instructed Chinese authorities to fully implement the Party's education policy, prioritize moral and ideological education, and accelerate high-quality development of the basic education sector."
+    },
+    {
+      "id": "5002108",
+      "time": "2026-07-22 17:49:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：一份檔案顯示，在近期發生多起船隻襲擊事件後，希臘建議希臘籍船隻在黑海加強安保措施。"
+    },
+    {
+      "id": "5002107",
+      "time": "2026-07-22 17:48:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【永太科技：電子氟化液產品在半導體溫控、工業潤滑等領域已完成目標客戶驗證 實現小批次訂單供貨】永太科技近日在投資者關係活動中表示，公司電子氟化液產品可適用於半導體溫控、資料中心冷卻、5G基站液冷、儲能熱管理、工業潤滑及晶片封裝測試等多個細分場景。在半導體溫控、工業潤滑等領域已完成目標客戶驗證，實現小批次訂單供貨，目前年貢獻營收達到數千萬元級別，在公司整體營收中佔比相對較小，處於商業化初期階段；在浸沒式液冷領域，目前該產品正處於市場推廣與客戶驗證階段，部分型號已透過部分下游廠商認證。"
+    },
     {
       "id": "mkt:019f893a-1ce7-7aab-8e43-cf240a4845e6",
       "time": "2026-07-22 17:48:34",
@@ -42,6 +137,14 @@
         "公司"
       ],
       "text": "【偉創電氣：2026年4-6月獲19項專利證書和2項軟體著作權證書】偉創電氣公告稱，2026年4月1日至6月30日，公司及控股子公司取得國家智慧財產權局頒發的19項專利證書，其中發明專利3項、實用新型專利9項、外觀設計專利7項；取得國家版權局頒發的2項計算機軟體著作權登記證書。上述發明專利是公司核心技術的體現和延伸，專利和軟體著作權獲得不會對近期經營產生重大影響，但利於完善智慧財產權保護體系，發揮技術優勢，提升核心競爭力。"
+    },
+    {
+      "id": "5002102",
+      "time": "2026-07-22 17:47:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【道通科技：披露回購股份前十大股東和無限售股東持股情況】道通科技公告稱，公司於2026年7月15日召開會議透過回購股份方案。現披露2026年7月15日登記在冊的前十大股東和前十大無限售條件股東持股情況，前十大股東中，李紅京持股252,169,993股，佔比37.63%；香港中央結算有限公司持股37,372,015股，佔比5.58%等。截至公告披露日，公司股份均為無限售條件流通股，前十大股東和前十大無限售條件股東一致。"
     },
     {
       "id": "5002101",
