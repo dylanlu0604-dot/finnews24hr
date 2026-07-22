@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-22 09:50:07",
-  "count": 18097,
+  "updated": "2026-07-22 09:54:00",
+  "count": 18096,
   "items": [
+    {
+      "id": "mkt:019f8786-977d-7aab-8e37-6e3414a96cbe",
+      "time": "2026-07-22 09:52:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "06693.HK",
+        "Impact bullish",
+        "03330.HK",
+        "02259.HK"
+      ],
+      "text": "Hong Kong-listed gold stocks traded higher amid volatile moves: Chifeng Gold (06693.HK) up over 9%, Lingbao Gold (03330.HK) up over 8%, Zijin Gold International (02259.HK) up over 7%, Zijin Mining (02899.HK) up over 5%; Shandong Gold (01787.HK) and Zhaojin Mining (01818.HK) also gained."
+    },
+    {
+      "id": "mkt:019f8786-917e-7aab-8e37-62b259145ac4",
+      "time": "2026-07-22 09:52:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai baht weakened further to 33.775 per US dollar, its weakest level since mid‑April 2025."
+    },
+    {
+      "id": "5001216",
+      "time": "2026-07-22 09:52:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元進一步走軟，一度跌至33.775，為2025年4月中旬以來最低。"
+    },
+    {
+      "id": "5001215",
+      "time": "2026-07-22 09:51:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.06%，成分股中，科力股份漲12.52%，並行科技漲5.07%，戈碧迦漲4.65%，錦波生物漲4.88%。"
+    },
+    {
+      "id": "5001214",
+      "time": "2026-07-22 09:51:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北證50指數漲幅擴大至2%】北證50指數漲幅擴大至2%，現報1100.725點。"
+    },
+    {
+      "id": "5001213",
+      "time": "2026-07-22 09:51:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京贏電子最新研發AI顯示器首批訂單已交付北美市場】據長江日報，“目前訂單已排至年底，海外訂單總額約1.5億元。”7月21日，武漢經開區泛半導體產業園，京贏電子（武漢）有限公司（簡稱“京贏電子”）的千級無塵車間內，生產線滿負荷運轉。京贏電子副總經理熊剛說，他們團隊最新研發的15.6英寸行動式AI顯示器，首批訂單已交付北美市場。"
+    },
+    {
+      "id": "mkt:019f8784-5818-7aab-8e37-5bc1c2b66bd6",
+      "time": "2026-07-22 09:50:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "07709.HK",
+        "Impact bullish",
+        "07747.HK",
+        "06809.HK"
+      ],
+      "text": "Hong Kong storage-related stocks rallied: Southern 2x long SK Hynix (07709.HK) rose more than 14%, Southern 2x long Samsung Electronics (07747.HK) gained over 11%, Lanqi Technology (06809.HK) climbed over 5%, GigaDevice (03986.HK) added about 4%, and VSTECS (00856.HK) advanced around 1%."
+    },
+    {
+      "id": "5001212",
+      "time": "2026-07-22 09:50:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受油價上漲影響，菲律賓比索跌至歷史新低。"
+    },
+    {
+      "id": "5001211",
+      "time": "2026-07-22 09:49:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正規化智慧2026年上半年業績預喜】7月22日，正規化智慧釋出2026上半年盈利預告，據初步評估，預計上半年公司錄得營業收入約32億元至40億元，同比增長約22%至52%。另外，公司擁有人應占利潤約為9000萬元至1.3億元，2025年同期錄得虧損。報告期內，在得到更多客戶青睞，需求增加的情況下，讓公司自有及租賃算力資源token吞吐效率大幅提高，加快了token生產力的釋放，從而推動業務收入加速增長。"
+    },
     {
       "id": "mkt:019f8782-0f15-7aab-8e37-557a7eb6e8de",
       "time": "2026-07-22 09:47:55",
@@ -166294,110 +166380,6 @@
         "國際"
       ],
       "text": "伊朗革命衛隊稱霍爾木茲海峽將保持關閉，直至\"美國邪惡終結\"。"
-    },
-    {
-      "id": "4988830",
-      "time": "2026-07-15 09:53:38",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報24587.182點；恒生科技指數現漲0.573%。"
-    },
-    {
-      "id": "4988829",
-      "time": "2026-07-15 09:53:08",
-      "tags": [
-        "其他"
-      ],
-      "text": "【受第9號颱風“巴威”影響，渾河、柴河、清河、輝發河發生超保洪水】7月14日晚，國家防總副總指揮、水利部部長李國英在水利部松遼水利委員會主持專題會商，分析研判第9號颱風“巴威”影響及松花江、遼河流域汛情形勢，進一步安排部署松花江、遼河流域洪水防禦工作。李國英指出，受第9號颱風“巴威”影響，渾河、柴河、清河、輝發河發生超保洪水，松花江吉林段發生第1號洪水，遼河可能出現編號洪水，牡丹江可能出現超保洪水，流域內多條中小河流超警、超保，部分河流堤段可能出現漫頂。據預報，未來10天流域仍有降雨過程，因土壤含水量已飽和，降雨產匯流加快，發生中小河流洪水和山洪災害的風險增大，流域防汛形勢依然嚴峻複雜。李國英要求，強化松遼水利委員會統一聯合排程，會同四省區水利部門，按照“系統、科學、安全、精準”原則，排程豐滿、白山、大夥房、柴河、清河等骨幹水庫，充分發揮攔洪削峰錯峰作用。"
-    },
-    {
-      "id": "mkt:019f6379-b9e5-7aab-8d8e-70320185a6fe",
-      "time": "2026-07-15 09:52:29",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "WTI",
-        "Impact bullish",
-        "Nasdaq100",
-        "Impact mixed",
-        "S&P500"
-      ],
-      "text": "【Oil returns to highs; growth-stock valuations face renewed pressure】US CPI surprised to the downside, briefly lifting the Nasdaq as rate-hike odds eased, but the move reflected cooling Fed expectations rather than an end to the energy shock. If oil stays elevated, higher gasoline, transport and production costs could push up forward inflation (secondary inflation risk) and may force the Fed and other central banks to keep rates higher for longer, applying material downward pressure on high-valuation assets via reduced forward discounting. On Monday the S&P 500 energy sector rose about 3.2%, signalling rapid fund flows back into high-cash-flow, defensive energy and value names."
-    },
-    {
-      "id": "mkt:019f6378-6ec8-7aab-8d8e-6cf674578eb1",
-      "time": "2026-07-15 09:51:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister said plans are underway to prepare measures and systems for offshore won trading by early next year."
-    },
-    {
-      "id": "4988828",
-      "time": "2026-07-15 09:51:01",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部長官：將在明年初之前制定離岸韓元交易的措施和系統。"
-    },
-    {
-      "id": "mkt:019f6378-4d2f-7aab-8d8e-664da956bace",
-      "time": "2026-07-15 09:50:56",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's finance minister said the government plans to finalize all measures by early next year to enable inclusion in MSCI."
-    },
-    {
-      "id": "4988827",
-      "time": "2026-07-15 09:50:39",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國財政部長官具潤哲：政府計劃明年初前落實所有措施，爭取納入MSCI指數。"
-    },
-    {
-      "id": "mkt:019f6377-f290-7aab-8d8e-5c6c73baedd3",
-      "time": "2026-07-15 09:50:32",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Brent"
-      ],
-      "text": "Iran's military said it carried out a second strike on U.S. facilities at the Azraq base in Jordan."
-    },
-    {
-      "id": "4988826",
-      "time": "2026-07-15 09:50:29",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方稱第二次襲擊了美國位於約旦阿茲拉克基地的軍事設施。"
-    },
-    {
-      "id": "mkt:019f6377-8ef5-7aab-8d8e-558ff20d8822",
-      "time": "2026-07-15 09:50:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "Impact mixed",
-        "Copper",
-        "XAUUSD"
-      ],
-      "text": "China will release Q2 GDP annual rate, June industrial production (enterprises above designated size) YoY and June retail sales YoY in 10 minutes."
     }
   ]
 }

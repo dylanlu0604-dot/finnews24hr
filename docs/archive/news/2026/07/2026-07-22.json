@@ -1,7 +1,93 @@
 {
   "date": "2026-07-22",
-  "count": 811,
+  "count": 820,
   "items": [
+    {
+      "id": "mkt:019f8786-977d-7aab-8e37-6e3414a96cbe",
+      "time": "2026-07-22 09:52:52",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "06693.HK",
+        "Impact bullish",
+        "03330.HK",
+        "02259.HK"
+      ],
+      "text": "Hong Kong-listed gold stocks traded higher amid volatile moves: Chifeng Gold (06693.HK) up over 9%, Lingbao Gold (03330.HK) up over 8%, Zijin Gold International (02259.HK) up over 7%, Zijin Mining (02899.HK) up over 5%; Shandong Gold (01787.HK) and Zhaojin Mining (01818.HK) also gained."
+    },
+    {
+      "id": "mkt:019f8786-917e-7aab-8e37-62b259145ac4",
+      "time": "2026-07-22 09:52:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Thai baht weakened further to 33.775 per US dollar, its weakest level since mid‑April 2025."
+    },
+    {
+      "id": "5001216",
+      "time": "2026-07-22 09:52:33",
+      "tags": [
+        "市場"
+      ],
+      "text": "泰銖兌美元進一步走軟，一度跌至33.775，為2025年4月中旬以來最低。"
+    },
+    {
+      "id": "5001215",
+      "time": "2026-07-22 09:51:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "北證50日內漲幅達2.06%，成分股中，科力股份漲12.52%，並行科技漲5.07%，戈碧迦漲4.65%，錦波生物漲4.88%。"
+    },
+    {
+      "id": "5001214",
+      "time": "2026-07-22 09:51:30",
+      "tags": [
+        "市場"
+      ],
+      "text": "【北證50指數漲幅擴大至2%】北證50指數漲幅擴大至2%，現報1100.725點。"
+    },
+    {
+      "id": "5001213",
+      "time": "2026-07-22 09:51:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【京贏電子最新研發AI顯示器首批訂單已交付北美市場】據長江日報，“目前訂單已排至年底，海外訂單總額約1.5億元。”7月21日，武漢經開區泛半導體產業園，京贏電子（武漢）有限公司（簡稱“京贏電子”）的千級無塵車間內，生產線滿負荷運轉。京贏電子副總經理熊剛說，他們團隊最新研發的15.6英寸行動式AI顯示器，首批訂單已交付北美市場。"
+    },
+    {
+      "id": "mkt:019f8784-5818-7aab-8e37-5bc1c2b66bd6",
+      "time": "2026-07-22 09:50:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "07709.HK",
+        "Impact bullish",
+        "07747.HK",
+        "06809.HK"
+      ],
+      "text": "Hong Kong storage-related stocks rallied: Southern 2x long SK Hynix (07709.HK) rose more than 14%, Southern 2x long Samsung Electronics (07747.HK) gained over 11%, Lanqi Technology (06809.HK) climbed over 5%, GigaDevice (03986.HK) added about 4%, and VSTECS (00856.HK) advanced around 1%."
+    },
+    {
+      "id": "5001212",
+      "time": "2026-07-22 09:50:02",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "受油價上漲影響，菲律賓比索跌至歷史新低。"
+    },
+    {
+      "id": "5001211",
+      "time": "2026-07-22 09:49:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【正規化智慧2026年上半年業績預喜】7月22日，正規化智慧釋出2026上半年盈利預告，據初步評估，預計上半年公司錄得營業收入約32億元至40億元，同比增長約22%至52%。另外，公司擁有人應占利潤約為9000萬元至1.3億元，2025年同期錄得虧損。報告期內，在得到更多客戶青睞，需求增加的情況下，讓公司自有及租賃算力資源token吞吐效率大幅提高，加快了token生產力的釋放，從而推動業務收入加速增長。"
+    },
     {
       "id": "mkt:019f8782-0f15-7aab-8e37-557a7eb6e8de",
       "time": "2026-07-22 09:47:55",
