@@ -1,7 +1,109 @@
 {
   "date": "2026-07-23",
-  "count": 234,
+  "count": 245,
   "items": [
+    {
+      "id": "mkt:019f8b34-d467-7aab-8e50-573ade26b3f5",
+      "time": "2026-07-23 03:02:02",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury data show that in the latest two-week reporting period investment funds bought $29.103 bln of 10-year Treasury notes maturing May 15, 2036 (prior: $28.962 bln). Foreign investors bought $5.788 bln of the same maturity (prior: $5.200 bln)."
+    },
+    {
+      "id": "5002966",
+      "time": "2026-07-23 03:01:56",
+      "tags": [
+        "宏觀",
+        "市場",
+        "國際"
+      ],
+      "text": "美國財政部：最新雙週報告期內，投資基金淨買入 291.03 億美元 2036 年 5 月 15 日到期的 10 年期國債，上月為 289.62 億美元。 \n買入 30 年期（2056 年 5 月 15 日到期）美債 30.65 億美元，上月買入規模為 22.71 億美元。"
+    },
+    {
+      "id": "5002965",
+      "time": "2026-07-23 03:00:25",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部：美國6月份牛奶產量為197.05億磅。"
+    },
+    {
+      "id": "5002964",
+      "time": "2026-07-23 03:00:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收漲0.38%，報25007.06點，高水114.40點。"
+    },
+    {
+      "id": "mkt:019f8b32-ec34-7aab-8e50-49f02a0f80d3",
+      "time": "2026-07-23 02:59:57",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazilian President Lula said negotiations remain ongoing and that, despite his personal trip to the United States, he has received no reciprocal response in the dialogue."
+    },
+    {
+      "id": "mkt:019f8b32-e165-7aab-8e50-4393d16d5767",
+      "time": "2026-07-23 02:59:55",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "Brazil's President Lula said export data clearly show the country can emerge stronger from this crisis."
+    },
+    {
+      "id": "5002963",
+      "time": "2026-07-23 02:59:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西總統盧拉：我們正坐在談判桌前。我曾親自前往美國，但我們在對話中從未感受到對等互惠。"
+    },
+    {
+      "id": "mkt:019f8b32-2c2b-7aab-8e50-3f13985b6ecc",
+      "time": "2026-07-23 02:59:08",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Meta Platforms",
+        "Market Themes",
+        "Magnificent 7",
+        "META.O"
+      ],
+      "text": "Meta Platforms (META.O): A minor plaintiff who alleged Meta harmed their mental health withdrew the lawsuit days before trial."
+    },
+    {
+      "id": "5002962",
+      "time": "2026-07-23 02:58:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西總統盧拉：巴西的出口成績清楚地表明，我們有條件從這場危機中變得更加強大。"
+    },
+    {
+      "id": "5002961",
+      "time": "2026-07-23 02:57:45",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "百勝餐飲集團股價轉跌，抹去了此前高達2%的漲幅。"
+    },
+    {
+      "id": "mkt:019f8b30-bcf6-7aab-8e50-34a60f9cccd5",
+      "time": "2026-07-23 02:57:34",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "【Iran urges Europe to condemn 'aggression', warns against allowing US use of bases】Iran's deputy foreign minister told ambassadors and chargés from 25 European countries that recent US military action had gained no strategic benefit and instead threatens regional and global peace and security. He urged European states to uphold the UN Charter and international law and to condemn what Tehran called 'aggression' against Iran. Tehran said some European countries, including Spain, have not followed the US position and have taken different approaches. It warned that any provision of bases or territory to the United States would be considered participation in the conflict. Iran added it inflicted heavy damage on the 'invaders' during a prior 40-day war and will continue to defend national interests in any new round of military operations."
+    },
     {
       "id": "mkt:019f8b2d-7108-7aab-8e50-2e7c76f7037e",
       "time": "2026-07-23 02:53:58",
