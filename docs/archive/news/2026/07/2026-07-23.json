@@ -1,7 +1,101 @@
 {
   "date": "2026-07-23",
-  "count": 195,
+  "count": 205,
   "items": [
+    {
+      "id": "mkt:019f8b1c-522c-7aab-8e4f-d5fc96f2a71a",
+      "time": "2026-07-23 02:35:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GMI Cloud committed $500m in capital expenditure to expand compute capacity to meet rising customer demand, and signed a nine-figure contract with a leading US frontier AI company."
+    },
+    {
+      "id": "mkt:019f8b1c-41a3-7aab-8e4f-cf58b0aabe93",
+      "time": "2026-07-23 02:35:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister says defensive principle is 'an eye for an eye'】Iran foreign minister Araghchi said Iran's defensive principle is 'an eye for an eye,' warning any aggression against Iran, including attacks on infrastructure, would force a strong, decisive response and that anyone supporting such aggression in any form would be treated as a lawful target."
+    },
+    {
+      "id": "5002942",
+      "time": "2026-07-23 02:34:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "GMI Cloud宣佈與英偉達達成戰略計算合作。"
+    },
+    {
+      "id": "5002941",
+      "time": "2026-07-23 02:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：任何對伊朗的侵略都將招致強有力且果斷的回應。"
+    },
+    {
+      "id": "5002940",
+      "time": "2026-07-23 02:33:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：任何助長此類侵略行為者，也將被視為合法打擊目標。"
+    },
+    {
+      "id": "5002939",
+      "time": "2026-07-23 02:32:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：三方協議旨在使黎巴嫩擁有主權，並確保以色列的安全。"
+    },
+    {
+      "id": "mkt:019f8b19-c216-7aab-8e4f-c72a7595fc08",
+      "time": "2026-07-23 02:32:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA",
+        "Impact bullish"
+      ],
+      "text": "U.S. data center operator GMI Cloud said it has formed a strategic computing partnership with NVIDIA."
+    },
+    {
+      "id": "5002938",
+      "time": "2026-07-23 02:32:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶86.83美元，上漲2.49美元，漲幅2.95%。"
+    },
+    {
+      "id": "5002937",
+      "time": "2026-07-23 02:32:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：我們的目標是維護黎巴嫩和以色列的主權，我們將繼續為此努力。"
+    },
+    {
+      "id": "5002936",
+      "time": "2026-07-23 02:31:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：我們在與敘利亞的會談中，重點關注其能否與鄰國和平共處。"
+    },
     {
       "id": "mkt:019f8b18-c545-7aab-8e4f-b92ecb245a8b",
       "time": "2026-07-23 02:31:24",

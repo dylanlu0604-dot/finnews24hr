@@ -1,7 +1,101 @@
 {
-  "updated": "2026-07-23 02:32:40",
-  "count": 17665,
+  "updated": "2026-07-23 02:36:53",
+  "count": 17668,
   "items": [
+    {
+      "id": "mkt:019f8b1c-522c-7aab-8e4f-d5fc96f2a71a",
+      "time": "2026-07-23 02:35:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "GMI Cloud committed $500m in capital expenditure to expand compute capacity to meet rising customer demand, and signed a nine-figure contract with a leading US frontier AI company."
+    },
+    {
+      "id": "mkt:019f8b1c-41a3-7aab-8e4f-cf58b0aabe93",
+      "time": "2026-07-23 02:35:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Iran foreign minister says defensive principle is 'an eye for an eye'】Iran foreign minister Araghchi said Iran's defensive principle is 'an eye for an eye,' warning any aggression against Iran, including attacks on infrastructure, would force a strong, decisive response and that anyone supporting such aggression in any form would be treated as a lawful target."
+    },
+    {
+      "id": "5002942",
+      "time": "2026-07-23 02:34:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "GMI Cloud宣佈與英偉達達成戰略計算合作。"
+    },
+    {
+      "id": "5002941",
+      "time": "2026-07-23 02:33:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：任何對伊朗的侵略都將招致強有力且果斷的回應。"
+    },
+    {
+      "id": "5002940",
+      "time": "2026-07-23 02:33:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗外長阿拉格齊：任何助長此類侵略行為者，也將被視為合法打擊目標。"
+    },
+    {
+      "id": "5002939",
+      "time": "2026-07-23 02:32:47",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：三方協議旨在使黎巴嫩擁有主權，並確保以色列的安全。"
+    },
+    {
+      "id": "mkt:019f8b19-c216-7aab-8e4f-c72a7595fc08",
+      "time": "2026-07-23 02:32:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA",
+        "Impact bullish"
+      ],
+      "text": "U.S. data center operator GMI Cloud said it has formed a strategic computing partnership with NVIDIA."
+    },
+    {
+      "id": "5002938",
+      "time": "2026-07-23 02:32:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國原油期貨收於每桶86.83美元，上漲2.49美元，漲幅2.95%。"
+    },
+    {
+      "id": "5002937",
+      "time": "2026-07-23 02:32:09",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：我們的目標是維護黎巴嫩和以色列的主權，我們將繼續為此努力。"
+    },
+    {
+      "id": "5002936",
+      "time": "2026-07-23 02:31:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國國務院發言人：我們在與敘利亞的會談中，重點關注其能否與鄰國和平共處。"
+    },
     {
       "id": "mkt:019f8b18-c545-7aab-8e4f-b92ecb245a8b",
       "time": "2026-07-23 02:31:24",
@@ -161166,72 +161260,6 @@
         "國際"
       ],
       "text": "【古特雷斯對中東軍事升級深表關切 呼籲各方立即降級局勢】當地時間7月15日，聯合國秘書長發言人迪雅裡克在紐約聯合國總部舉行的午間例行記者會上表示，聯合國秘書長古特雷斯對中東地區持續升級的軍事局勢深感關切，呼籲所有各方立即採取措施推動局勢降級，重返對話和外交解決的軌道。古特雷斯重申，全面敵對行動一旦恢復，將給平民造成難以承受的傷亡，並對國際和平與安全以及全球經濟帶來災難性後果。古特雷斯再次呼籲，全面恢復霍爾木茲海峽及其周邊海域的國際航行權利和自由。各方必須依照國際法，尊重有關航行權利和自由。（央視新聞）"
-    },
-    {
-      "id": "4990590",
-      "time": "2026-07-16 02:36:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：微軟新任安全負責人更換多名高管，推動 AI 安全全面改革。"
-    },
-    {
-      "id": "mkt:019f6710-950b-7aab-8dae-c153a630efdb",
-      "time": "2026-07-16 02:36:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump says he won't set a deadline for strikes on Iran】Asked whether he would set a deadline for strikes on Iran, U.S. President Trump said he does not like setting deadlines, adding, \"They basically know how this will play out. They'd better be honest.\""
-    },
-    {
-      "id": "mkt:019f670f-6f8c-7aab-8dae-ba6b5244831e",
-      "time": "2026-07-16 02:34:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "CBS reports the US explored the possibility of air strikes on Cuba."
-    },
-    {
-      "id": "4990589",
-      "time": "2026-07-16 02:33:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "【科威特一處美國軍事基地附近傳出爆炸聲】當地時間15日晚，總檯記者獲悉，科威特境內一處美國軍事基地附近傳出爆炸聲。初步評估顯示，美軍裝備和人員遭受嚴重損失。伊朗方面有訊息稱，伊朗針對相關目標的軍事行動仍在繼續。截至目前，上述內容尚未得到美國和科威特官方證實。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f670e-5637-7aab-8dae-b2dff43148c2",
-      "time": "2026-07-16 02:33:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "AAPL.O"
-      ],
-      "text": "Apple (AAPL.O) raised AppleCare+ prices: Mac and iPad monthly plans increased by $0.50 and annual plans by $5; change applies to new subscribers only."
-    },
-    {
-      "id": "4990588",
-      "time": "2026-07-16 02:33:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭國防部長宣佈辭職。"
-    },
-    {
-      "id": "4990587",
-      "time": "2026-07-16 02:32:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： 美國曾研究過對古巴發動空中打擊的可能性。"
     }
   ]
 }
