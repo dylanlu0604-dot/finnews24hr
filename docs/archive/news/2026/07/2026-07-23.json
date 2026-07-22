@@ -1,7 +1,59 @@
 {
   "date": "2026-07-23",
-  "count": 100,
+  "count": 106,
   "items": [
+    {
+      "id": "mkt:019f8ad4-533b-7aab-8e4e-997b8ab854a5",
+      "time": "2026-07-23 01:16:38",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "The Fed (FOMC)"
+      ],
+      "text": "The Federal Reserve accepted $376 mln from two counterparties in a fixed-rate reverse repo operation."
+    },
+    {
+      "id": "5002887",
+      "time": "2026-07-23 01:16:23",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "週三（7月22日），美聯儲隔夜逆回購協議（RRP）使用規模為3.76億美元（交易對手2家），上個交易日報2.75億美元。"
+    },
+    {
+      "id": "mkt:019f8ad2-2781-7aab-8e4e-92618b6038ac",
+      "time": "2026-07-23 01:14:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House officials said U.S. Middle East envoys Witkoff and Jared Kushner spoke by phone with Ukrainian President Zelenskiy on Wednesday to discuss diplomatic pathways to a resolution."
+    },
+    {
+      "id": "5002886",
+      "time": "2026-07-23 01:13:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名白宮官員表示，特朗普特使威特科夫和庫什納週三與烏克蘭總統澤連斯基通電話，討論外交解決路徑。"
+    },
+    {
+      "id": "mkt:019f8ad1-0403-7aab-8e4e-8a8e6b48afc1",
+      "time": "2026-07-23 01:13:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Yi meets Vietnam foreign minister Bui Thanh Son】Wang Yi said rising global disorder is creating severe challenges for regional countries and urged China and Vietnam, as socialist developing states, to implement high-level bilateral consensus and strengthen unity and cooperation. He called for continued close high-level exchanges, fuller use of the China‑Vietnam \"3+3\" strategic dialogue mechanism (diplomacy, defense, public security), and expanded practical cooperation on connectivity and artificial intelligence, saying the two sides should keep bilateral ties at the forefront regionally and jointly safeguard regional peace and development."
+    },
+    {
+      "id": "5002885",
+      "time": "2026-07-23 01:12:53",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見巴西外長維埃拉】中共中央政治局委員、外交部長王毅22日在馬尼拉會見巴西外長維埃拉。王毅表示，在兩國元首戰略引領下，中巴攜手構建更公正世界和更可持續星球的命運共同體取得積極進展。兩國全面戰略伙伴關係始終走在世界前列，雙方有必要保持戰略溝通，加強戰略協調，深化戰略合作。巴西是具有全球影響的新興經濟體和全球南方代表性力量，中方樂見巴西在國際事務中發揮更大作用，讚賞巴方為發展中國家伸張正義，主持公道。中方將繼續支援巴方維護自身主權、安全和發展利益，相信巴方將一如既往尊重和支援中方維護核心利益。中方願同巴方一道，落實兩國元首重要共識，在航天、互聯互通、人工智慧等領域加強合作，為各自發展提供更大助力。歡迎巴西加入世界人工智慧合作組織，在新一輪科技革命中維護共同利益，深化互利合作。維埃拉表示，巴中兩國領導人保持密切溝通，建立高度互信，共同引領兩國關係邁上高水平。巴中各層級交往頻密，雙邊貿易額去年再創新高。巴方期待同中方一道，進一步深化金融、貿易等領域合作，加強在聯合國、金磚等多邊平臺協作。巴西很高興加入中方倡議成立的世界人工智慧合作組織，期待以此為契機推進科技創新合作。(新華社)"
+    },
     {
       "id": "5002884",
       "time": "2026-07-23 01:12:01",
