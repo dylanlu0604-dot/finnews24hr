@@ -1,7 +1,103 @@
 {
   "date": "2026-07-22",
-  "count": 1410,
+  "count": 1421,
   "items": [
+    {
+      "id": "mkt:019f8892-02ba-7aab-8e3d-53562fa37987",
+      "time": "2026-07-22 14:44:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "Italy's foreign minister says Italy aims to reach NATO's 5% defence-spending target within the next decade."
+    },
+    {
+      "id": "5001625",
+      "time": "2026-07-22 14:44:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "義大利外交部長：義大利希望在未來十年內實現北約國防開支佔GDP 5%的目標。"
+    },
+    {
+      "id": "5001624",
+      "time": "2026-07-22 14:44:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國國務卿魯比奧與印度外長蘇傑生會晤 強調推進兩國貿易協議】美國國務卿馬爾科·魯比奧與印度外長蘇傑生週三在馬尼拉會晤期間，重申達成兩國臨時貿易協議的重要性，儘管美國總統唐納德·特朗普威脅對進口藥品徵收高額關稅，其中涉及的仿製藥可能對印度出口造成重大影響。美國會後釋出的宣告稱，兩人在菲律賓出席東盟系列會議期間舉行會談，並討論了敲定關鍵防務協議事宜。"
+    },
+    {
+      "id": "5001623",
+      "time": "2026-07-22 14:44:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026年上半年消費品以舊換新成效顯著】2026年以來，消費品以舊換新政策持續顯效，有效激發市場活力，帶動消費提質升級。商務部資料顯示，2026年上半年，消費品以舊換新累計帶動相關商品銷售額1.1萬億元，惠及1.5億人次。其中，汽車以舊換新370.7萬輛；家電以舊換新6326.6萬臺；數碼和智慧產品購新7909.8萬臺；19個地方實施自主品類補貼政策，帶動相關商品銷售99.2萬件。（央視新聞）"
+    },
+    {
+      "id": "te:markets:568777",
+      "time": "2026-07-22 14:44:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "UK Natural Gas Extends Gain — UK natural gas prices climbed past 146 pence per therm on Wednesday, reaching a fresh four-month high as the US and Iran continued to exchange strikes while President Donald Trump downplayed the likelihood of imminent talks. Trump said Iran “desperately wants to meet” but added that the US had no interest in talks. Iran, however, rejected these claims. Trump also warned of retaliation if Iran-backed Houthi rebels disrupted shipping in the Red Sea and renewed threats to attack a suspected Iranian nuclear site called Pickaxe Mountain. The escalating conflict has disrupted tanker traffic through the Strait of Hormuz and curtailed LNG exports from the Gulf, fueling concerns over tighter global gas supplies. Europe is currently in the process of refilling storage facilities ahead of the heating season, and reduced LNG availability from the Gulf could force the bloc into more intense and costly competition with Asian buyers for available cargoes."
+    },
+    {
+      "id": "5001622",
+      "time": "2026-07-22 14:43:59",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量2981億元。"
+    },
+    {
+      "id": "5001621",
+      "time": "2026-07-22 14:43:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "檔案顯示，迅銷集團創始人兼執行長柳井正將其持有的公司股份從15.15%減持至14.15%。"
+    },
+    {
+      "id": "5001620",
+      "time": "2026-07-22 14:42:55",
+      "tags": [
+        "公司"
+      ],
+      "text": "【榮旗科技等成立光電新公司 含半導體器件專用裝置製造業務】企查查APP顯示，近日，蘇州榮啟芯光電有限公司成立，經營範圍包含半導體器件專用裝置製造；半導體器件專用裝置銷售；機械裝置銷售；人工智慧行業應用系統整合服務等。企查查股權穿透顯示，該公司由榮旗科技(301360)等共同持股。"
+    },
+    {
+      "id": "mkt:019f888f-4800-7aab-8e3d-4b66bf90d7d7",
+      "time": "2026-07-22 14:41:59",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "【U.S. Treasury yields little changed as market awaits $13bn 20-year auction】In Asian trade, U.S. Treasury yields were little changed as investors weighed rising oil prices against hopes that U.S.-Iran hostilities may end. Market focus is on Wednesday's $13 billion 20-year Treasury auction. A JP Morgan strategist said in a note: \"Given current high Treasury yields and weak valuation support, we expect Wednesday's auction to be smoothly absorbed.\""
+    },
+    {
+      "id": "5001619",
+      "time": "2026-07-22 14:41:58",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【花旗：對安踏體育及李寧開啟30日正面催化劑觀察，維持“買入”評級】花旗發表研報，對安踏體育及李寧開啟為期30日的正面催化劑觀察。主要催化因素為耐克在中國市場的份額有可能被安踏及李寧奪取，帶來正面市場情緒。根據滔搏公告及耐克網站，耐克將自2027年1月起終止與中國零售商的大部分線上分銷業務，轉向線上DTC(直營)策略，預期將導致其未來在華市場份額流失，並對中國本土及競爭品牌產生積極影響。該行維持安踏及李寧“買入”評級，目標價分別為108.8港元及22.8港元，同時名列該行看好的10只具吸引估值的大型中國消費股之列。"
+    },
     {
       "id": "mkt:019f888e-8eec-7aab-8e3d-41149257e11c",
       "time": "2026-07-22 14:41:11",
@@ -9,6 +105,14 @@
         "MKT News"
       ],
       "text": "Hong Kong-listed internet and tech names dropped sharply: NetEase-S (09999.HK) and Tencent Holdings (00700.HK) down over 7%, Kuaishou (01024.HK) down over 6% and Bilibili (09626.HK) down over 5%. KE Holdings (02423.HK), Xiaomi Group (01810.HK), Alibaba Group (09988.HK) and Baidu (09888.HK) also fell."
+    },
+    {
+      "id": "5001618",
+      "time": "2026-07-22 14:41:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "港股明星科網股震盪走低，網易-S(09999.HK)、騰訊控股(00700.HK)雙雙跌超7%，快手(01024.HK)跌超6%，嗶哩嗶哩(09626.HK)跌超5%，貝殼(02423.HK)、小米集團(01810.HK)、阿里巴巴(09988.HK)、百度(09888.HK)等個股跟跌。"
     },
     {
       "id": "5001617",
