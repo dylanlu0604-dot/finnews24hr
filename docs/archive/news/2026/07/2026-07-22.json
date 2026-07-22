@@ -1,7 +1,112 @@
 {
   "date": "2026-07-22",
-  "count": 2596,
+  "count": 2607,
   "items": [
+    {
+      "id": "5002471",
+      "time": "2026-07-22 20:19:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國10年期金邊債券收益率觸及兩個月高點5.059%，最新報5.051%。"
+    },
+    {
+      "id": "mkt:019f89c4-38ea-7aab-8e47-a48d1ace51d4",
+      "time": "2026-07-22 20:19:25",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "UK 10-year government bond yield rose to a two-month high, last at 5.051%."
+    },
+    {
+      "id": "5002470",
+      "time": "2026-07-22 20:19:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東軟載波：南海產業集團已增持0.72%，擬繼續增持】東軟載波公告，控股股東的一致行動人南海產業集團於2026年7月21日至2026年7月22日透過集中競價方式增持333.72萬股，佔公司總股本的0.72%，增持金額3215.66萬元；本次增持後，其及一致行動人合計持有6549.67萬股，佔14.16%。南海產業集團計劃自公告披露之日起6個月內繼續增持，增持金額（含本次增持）不低於人民幣5000萬元，不高於人民幣1億元。"
+    },
+    {
+      "id": "mkt:019f89c4-03f2-7aab-8e47-9940ea50ec37",
+      "time": "2026-07-22 20:19:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Microsoft",
+        "Market Themes",
+        "Magnificent 7",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) pledged long-term support for the U.S. Department of Energy's (DOE) Genesis Mission program, backing it with a $60m commitment: $40m in Azure compute and AI credits and $20m for solutions engineering enablement services."
+    },
+    {
+      "id": "5002469",
+      "time": "2026-07-22 20:18:49",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "帝亞吉歐漲幅擴大，最新上漲2%；據悉公司部分部門正在裁減20%至30%的員工。"
+    },
+    {
+      "id": "5002468",
+      "time": "2026-07-22 20:18:34",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Alphabet財報公佈在即 雲端計算業務能否強勁增長將是關鍵】隨著人工智慧支出飆升，投資者期待Alphabet的財報能顯示其雲端計算業務實現強勁增長，從而證明該公司的投資正帶來明確回報。Alphabet股價在2025年飆升65%後，2026年迄今僅上漲了相對溫和的11%，原因是投資者越來越擔心大型科技公司為建設人工智慧能力而投入的資金規模。晶片製造商作為這輪鉅額支出的主要受益者，股價大幅上漲，而提供其中大部分資金的“科技股七巨頭”卻幾乎沒有動靜。"
+    },
+    {
+      "id": "5002467",
+      "time": "2026-07-22 20:18:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟：投資計劃結構如下——4000萬美元為Azure計算與人工智慧服務額度，2000萬美元為解決方案工程賦能服務。"
+    },
+    {
+      "id": "5002466",
+      "time": "2026-07-22 20:17:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗將領：第三輪反擊行動中，阿聯酋境內一處敵方大型資料中心已被摧毀。"
+    },
+    {
+      "id": "mkt:019f89c1-e284-7aab-8e47-91566aa5de31",
+      "time": "2026-07-22 20:16:52",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "TASNIM NEWS: Iran says strategic missile production has never stopped."
+    },
+    {
+      "id": "5002465",
+      "time": "2026-07-22 20:16:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗稱戰略導彈生產從未停止。"
+    },
+    {
+      "id": "5002464",
+      "time": "2026-07-22 20:16:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "微軟：助力美國\"創世紀\"任務。"
+    },
     {
       "id": "mkt:019f89bf-fdb5-7aab-8e47-8c667411be5e",
       "time": "2026-07-22 20:14:48",
