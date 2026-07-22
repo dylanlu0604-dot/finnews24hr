@@ -1,7 +1,71 @@
 {
   "date": "2026-07-22",
-  "count": 2723,
+  "count": 2729,
   "items": [
+    {
+      "id": "mkt:019f89f1-53f5-7aab-8e48-c3abd6bb28bc",
+      "time": "2026-07-22 21:08:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Qualcomm (QCOM.O) showed limited U.S. premarket volatility, trading down 1.84%."
+    },
+    {
+      "id": "mkt:019f89f1-167e-7aab-8e48-bc798e2b5963",
+      "time": "2026-07-22 21:08:26",
+      "tags": [
+        "MKT News",
+        "QCOM.O",
+        "Impact bullish",
+        "005930.KS",
+        "GOOGL.O"
+      ],
+      "text": "Qualcomm (QCOM.O): Qualcomm, Samsung and Google are expanding collaboration on Android XR to include smart glasses in addition to the Galaxy XR headset."
+    },
+    {
+      "id": "mkt:019f89f0-cc45-7aab-8e48-b4e2c5da34a1",
+      "time": "2026-07-22 21:08:07",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AI Revolution",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O): Samsung has launched its first smartwatch platform powered by a Snapdragon processor with integrated personal AI."
+    },
+    {
+      "id": "mkt:019f89f0-752e-7aab-8e48-aeb191c5acf8",
+      "time": "2026-07-22 21:07:44",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "QCOM.O",
+        "Impact bullish"
+      ],
+      "text": "Qualcomm (QCOM.O) and Samsung Electronics are expanding their partnership to advance AI development across the Galaxy ecosystem using Qualcomm's Snapdragon platform."
+    },
+    {
+      "id": "mkt:019f89ef-5353-7aab-8e48-a10d203f5f84",
+      "time": "2026-07-22 21:06:30",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI has launched OpenAI Presence, now in limited general availability. The product is offered as a deployed solution to eligible enterprise customers and is not yet available as a self-service offering."
+    },
+    {
+      "id": "mkt:019f89ee-3dca-7aab-8e48-997fa3283a5d",
+      "time": "2026-07-22 21:05:19",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Information reports SpaceXAI is exploring a data-center expansion in Texas."
+    },
     {
       "id": "5002551",
       "time": "2026-07-22 21:04:12",
