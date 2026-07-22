@@ -1,7 +1,106 @@
 {
-  "updated": "2026-07-22 12:02:47",
-  "count": 18024,
+  "updated": "2026-07-22 12:07:36",
+  "count": 18028,
   "items": [
+    {
+      "id": "5001440",
+      "time": "2026-07-22 12:05:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：馬來西亞受美國計劃中的301條款關稅影響料有限】Kenanga Investment Bank的經濟學家在一份報告中表示，如果實施擬議的美國301條款關稅，馬來西亞的經濟前景預計不會發生重大變化。他們表示，新的10%關稅將取代而不是疊加在根據第122條款實施的臨時關稅之上，實際上使整體關稅負擔保持在相似水平。這些經濟學家補充說，如果馬來西亞與地區同行相比仍處於較低的關稅層級，該國還可以保持相對的貿易優勢。他們寫道，預計投資者將關注最終的產品豁免清單，以及在美國結束其評估後，計劃對馬來西亞徵收的10%關稅是否會維持。"
+    },
+    {
+      "id": "5001439",
+      "time": "2026-07-22 12:05:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【山東墨龍擬配售2567.84萬股新H股】山東墨龍公告，公司於2026年7月21日召開董事會，審議透過了《關於公司根據一般性授權發行H股的議案》。公司與配售代理簽訂《配售協議》，擬配售2567.84萬股新H股，配售價格為每股4.58港元。配售事項所得款項總額預計約為1.18億元，淨額總額預計約為1.16億元。公司擬將所得款項用於償還未償還借款及營運資金。"
+    },
+    {
+      "id": "5001438",
+      "time": "2026-07-22 12:04:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【招商蛇口在北京成立房地產開發公司 註冊資本20億元】企查查APP顯示，近日，北京招融房地產開發有限公司成立，法定代表人為李昂，註冊資本為20億元，經營範圍包含房地產開發經營；房地產諮詢；物業管理；停車場服務；非居住房地產租賃。企查查股權穿透顯示，該公司由招商蛇口(001979)旗下招商局地產（北京）有限公司全資持股。"
+    },
+    {
+      "id": "5001437",
+      "time": "2026-07-22 12:04:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美媒稱特朗普批准美國與沙特民用核專案協議 】美國《華爾街日報》21日援引美官員的訊息報道說，美國總統特朗普日前正式批准美國與沙烏地阿拉伯達成一項為沙特提供民用核專案的協議。報道說，這“或為沙特開展鈾濃縮活動開啟大門”。據報道，協議中一項關鍵條款規定，如果美國和沙特聯合研究認定有必要，美國企業將在沙特建造一座鈾濃縮設施。美方官員稱，此舉有助於美國對沙特核專案施加影響，並防止其“被用於軍事目的”。報道稱，這份協議為期30年，估值達數百億美元。特朗普上週晚些時候已批准該協議，協議將在未來幾天內提交美國國會審議。（新華社）"
+    },
+    {
+      "id": "mkt:019f87fe-8dd5-7aab-8e3a-1a7974675bb6",
+      "time": "2026-07-22 12:03:54",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Anthropic to pay $1.5bln over pirated e‑book training data; court separates data acquisition from model training】Anthropic agreed to a $1.5bln settlement in a 2024 class action by authors alleging the company downloaded millions of pirated e‑books from LibGen and other shadow libraries and included about 482,000 copyrighted works in Claude’s training data. The court split the legal issues, finding that using lawfully obtained texts for model training can be fair use, but downloading and long‑term storage of works from pirate sites constitutes infringement. The settlement averages roughly $3,000 per work and requires destruction of the pirated files. Anthropic had earlier accused some Chinese AI teams of extracting Claude outputs via API for model distillation; the court noted those practices are legally distinct. Core takeaway: model training is not per se illegal, but data acquisition must comply with copyright law."
+    },
+    {
+      "id": "mkt:019f87fe-636a-7aab-8e3a-1311872a453b",
+      "time": "2026-07-22 12:03:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "06693.HK",
+        "Impact bullish",
+        "02259.HK",
+        "02899.HK"
+      ],
+      "text": "【Hong Kong midday: Hang Seng down 0.83%; gold miners rally】Hang Seng fell 0.83% at midday; Hang Seng Tech declined 2.11%. Gold miners outperformed: Chifeng Gold (06693.HK) +14%, Zijin Gold International (02259.HK) +11%, Zijin Mining (02899.HK) +7%. Chip names climbed: Montage Technology (06809.HK) +12%, ZTE (00763.HK) +10%. Power-equipment stocks extended gains—Xinyi Solar (00968.HK) +6%, Harbin Electric (01133.HK) +3%. Paper, nuclear power, ports & shipping, coal, heavy machinery and biopharma sectors were also stronger. Major internet names fell: NetEase-S (09999.HK) -6%, Tencent Holdings (00700.HK) -5%, Kuaishou (01024.HK) -4%; AI, ADAS, new-energy vehicle and battery stocks led sector declines. Company movers: Topsports (06110.HK) -24% after it said online sales of Nike products in mainland China will end next year; Zhipu (02513.HK) -2%; MINIMAX-W (00100.HK) -8%."
+    },
+    {
+      "id": "5001436",
+      "time": "2026-07-22 12:03:41",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【歐盟保險監管機構要求私募股權買家採取長遠眼光】歐洲保險監管機構表示，尋求收購歐洲保險公司的私募股權公司必須證明其能夠長期保障保單持有人權益，而非追求短期利潤。歐洲保險和職業養老金管理局（簡稱EIOPA）主席希爾克瑪（Petra Hielkema）表示，私募股權（簡稱PE）所有權可以帶來資本、專業知識和競爭。“如果你聲稱自己是長期投資者，就應該真正堅持長期投資，而所謂‘長期’絕非僅指五年，”她表示。"
+    },
+    {
+      "id": "5001435",
+      "time": "2026-07-22 12:03:11",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "三星或向Mistral投資高達10億歐元，尋求成為美國科技巨頭的主要替代選擇。"
+    },
+    {
+      "id": "5001434",
+      "time": "2026-07-22 12:02:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "【日本今年上半年貿易逆差超1萬億日元】日本財務省22日公佈的初步統計結果顯示，2026年上半年日本貿易逆差達1.01萬億日元（1美元約合157.75日元），連續第10個半年度出現貿易逆差。 資料顯示，今年上半年，日本貨物出口額同比增長13.7%，至60.66萬億日元；進口額同比增長10.7%，至61.68萬億日元。半導體等電子部件進出口均大幅增長，是進出口增長的主要動力。此外，出口增長還受汽車等商品出口增加帶動；進口增長還受有色金屬等商品進口增加影響。 從地區來看，日本減少了從中東的石油進口，但日本自美國進口的原油和石油製品進口額則分別同比大增355.4%和210.0%。 同日公佈的資料顯示，由於日本原油進口成本持續處於高位，6月日本貿易逆差為4069億日元。"
+    },
+    {
+      "id": "5001433",
+      "time": "2026-07-22 12:02:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國工程院院士李駿：自動駕駛汽車上路必須保證全生命週期安全】7月22日，中國工程院院士、清華大學車輛與運載學院教授李駿在2026中國汽車論壇上表示，安全第一是自動駕駛汽車進入道路的先決條件，且必須保證全生命週期安全。自動駕駛汽車投入市場執行後面臨多重壓力，一是責任主體之變，責任從駕駛員轉到車輛製造商與系統提供方；二是方式之變，傳統汽車獲得准入後即可銷售，自動駕駛汽車則需要對其安全性進行完整論證。三是過程之變，自動駕駛汽車不能僅僅是出廠時點合格，需要服役全程持續提供安全證據，提供全生命週期的保障。"
+    },
+    {
+      "id": "5001431",
+      "time": "2026-07-22 12:01:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【港股午評：恒生指數跌0.83%，恒生科技指數跌2.11%】港股午間收盤，恒生指數跌0.83%，恒生科技指數跌2.11%。恒指港股通ETF銀華（159318）跌0.54%，港股通科技ETF鵬華（159751）跌1.11%。板塊方面，金屬與採礦、容器與包裝板塊漲幅靠前；汽車、休閒裝置與用品板塊跌幅靠前。個股方面，靈寶黃金漲16.03%，華勤技術漲14.52%，赤峰黃金漲14.48%，瀾起科技漲12.95%，旺山旺水-B漲12.84%；MINIMAX-W跌8.0%，迅銷跌7.36%，聖邦股份跌6.39%，網易跌6.24%，騰訊控股-R跌5.85%。"
+    },
     {
       "id": "5001430",
       "time": "2026-07-22 12:01:19",
@@ -165480,77 +165579,6 @@
         "市場"
       ],
       "text": "【港股午評：恒生指數漲1.46%，恒生科技指數漲1.39%】港股午間收盤，恒生指數漲1.46%，恒生科技指數漲1.39%。恒指港股通ETF銀華（159318）漲0.95%，港股通科技ETF鵬華（159751）漲1.82%。板塊方面，生命科學工具、生物科技板塊漲幅靠前；客運航空公司板塊跌幅靠前。個股方面，昭衍新藥漲21.53%，維立志博-B漲15.6%，MINIMAX-W漲14.96%，英矽智慧漲12.91%，勁方醫藥-B漲12.81%；海光芯正跌11.47%，亮晴控股跌10.81%，中國建材跌10.47%，鼎泰高科跌5.24%，領益智造跌4.47%。"
-    },
-    {
-      "id": "mkt:019f63f4-d738-7aab-8d93-2fcc3f66bf9f",
-      "time": "2026-07-15 12:06:57",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "01211.HK",
-        "Impact bullish"
-      ],
-      "text": "Financial Times reports BYD (01211.HK) executive said the company can surpass Toyota and take the global sales crown even without entering the US market."
-    },
-    {
-      "id": "te:markets:567047",
-      "time": "2026-07-15 12:06:29",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Palm Oil Eases on China Demand Concerns, Stronger Ringgit — Malaysian palm oil futures edged lower after recent gains, hovering below MYR 4,600 per tonne amid a firmer ringgit and weaker demand prospects from major buyer China as the economy grew at its slowest pace in 3-1/2 years. In India, the top palm oil importer, purchases fell to a 14-month low in June as demand fell and a narrowing price discount to rival oils reduced buying interest. Meanwhile, the EU confirmed imports of palm oil derivatives will be subject to its anti-deforestation rules from December 2027. Still, losses were capped by strength in rival edible oils on the Dalian and Chicago markets, along with stronger crude oil prices after U.S. President Trump reimposed a naval blockade in the Strait of Hormuz. Meanwhile, the B50 biodiesel mandate in Indonesia, the largest supplier, is expected to spur domestic palm oil consumption. Traders now await export data for the first half of July, after shipments rose 1.6%–5.1% in the July 1–10 period compared with the same period in June."
-    },
-    {
-      "id": "4989062",
-      "time": "2026-07-15 12:04:57",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "甲骨文公司在向日本提供雲服務的競賽中領先。"
-    },
-    {
-      "id": "mkt:019f63f2-b4f9-7aab-8d93-217ad8b5efef",
-      "time": "2026-07-15 12:04:38",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【NHSA to publish disease-based payment DRG/DIP 3.0 grouping; holds stakeholder consultation】China’s National Healthcare Security Administration, ahead of the planned release of the disease-based payment (DRG/DIP) 3.0 grouping scheme, convened another consultation to solicit feedback. Participants included the National Health Commission Hospital Management Research Institute, the DRG/DIP technical guidance group, representatives from seven major hospitals (including Peking Union Medical College Hospital, Peking University People’s Hospital, the Second Affiliated Hospital of Zhejiang University School of Medicine and West China Hospital of Sichuan University), clinical staff, insurance experts and media representatives to refine pre-release communication and implementation details."
-    },
-    {
-      "id": "4989061",
-      "time": "2026-07-15 12:04:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "紐西蘭生物安全部部長：紐西蘭已確認發現H5型禽流感疫情。"
-    },
-    {
-      "id": "mkt:019f63f2-8dfb-7aab-8d93-1d0b7f88fca1",
-      "time": "2026-07-15 12:04:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "000660.KS",
-        "Impact bullish"
-      ],
-      "text": "【Korean broker: SK Hynix ADR premium could boost demand for local shares】Hyundai Motor Securities said on the 15th that SK Hynix's ADR listing has prompted concern foreign investors may sell Korea-listed common shares to buy ADRs, but a sustained ADR premium could instead increase foreign buying of the local shares. Analyst Kim Jae-seung said the ADR makes U.S. trading more convenient and some investors may shift to ADRs to avoid Korean market volatility and won/USD exchange-rate risk, yet a high ADR premium would raise the relative appeal of Korea-listed ordinary stock."
-    },
-    {
-      "id": "mkt:019f63f1-a4e6-7aab-8d93-135b60668fd2",
-      "time": "2026-07-15 12:03:28",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Japanese civic groups oppose plan for nuclear-powered submarines】Several Japanese civic groups on July 14 issued a joint statement opposing government moves to develop nuclear-powered submarines, saying the plan would contradict Japan’s long-standing support for nuclear disarmament and the Atomic Energy Basic Law’s restriction of nuclear energy to peaceful uses. NGO Peace Boat criticized proposals from the ruling party and a government expert panel as a dangerous shift, saying nuclear-powered submarines enable long-range submerged operations and strike capability and would depart from Japan’s postwar exclusive defense (senshu bōei) policy."
     }
   ]
 }
