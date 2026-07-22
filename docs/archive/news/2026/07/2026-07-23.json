@@ -1,7 +1,59 @@
 {
   "date": "2026-07-23",
-  "count": 379,
+  "count": 384,
   "items": [
+    {
+      "id": "mkt:019f8b97-a60c-7aab-8e52-2461f6c8c8b2",
+      "time": "2026-07-23 04:49:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US President Trump said the government will face a shutdown in September."
+    },
+    {
+      "id": "5003044",
+      "time": "2026-07-23 04:49:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：9 月政府將面臨停擺。"
+    },
+    {
+      "id": "5003043",
+      "time": "2026-07-23 04:48:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊：Alphabet 旗下無人機配送企業 Wing 已完成超 100 萬次住宅配送訂單。"
+    },
+    {
+      "id": "mkt:019f8b96-764b-7aab-8e52-190331e26f22",
+      "time": "2026-07-23 04:48:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) CEO said Google Cloud's Q2 backlog rose to $514 billion."
+    },
+    {
+      "id": "5003042",
+      "time": "2026-07-23 04:47:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊：市場對該公司人工智慧基礎設施的需求十分旺盛。"
+    },
     {
       "id": "5003041",
       "time": "2026-07-23 04:43:17",

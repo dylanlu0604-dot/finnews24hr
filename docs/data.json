@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-23 04:46:53",
-  "count": 17662,
+  "updated": "2026-07-23 04:50:50",
+  "count": 17663,
   "items": [
+    {
+      "id": "mkt:019f8b97-a60c-7aab-8e52-2461f6c8c8b2",
+      "time": "2026-07-23 04:49:59",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "US10Y"
+      ],
+      "text": "US President Trump said the government will face a shutdown in September."
+    },
+    {
+      "id": "5003044",
+      "time": "2026-07-23 04:49:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：9 月政府將面臨停擺。"
+    },
+    {
+      "id": "5003043",
+      "time": "2026-07-23 04:48:46",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊：Alphabet 旗下無人機配送企業 Wing 已完成超 100 萬次住宅配送訂單。"
+    },
+    {
+      "id": "mkt:019f8b96-764b-7aab-8e52-190331e26f22",
+      "time": "2026-07-23 04:48:41",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Alphabet (GOOG.O) CEO said Google Cloud's Q2 backlog rose to $514 billion."
+    },
+    {
+      "id": "5003042",
+      "time": "2026-07-23 04:47:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌CEO皮查伊：市場對該公司人工智慧基礎設施的需求十分旺盛。"
+    },
     {
       "id": "5003041",
       "time": "2026-07-23 04:43:17",
@@ -161245,40 +161297,6 @@
         "MKT News"
       ],
       "text": "SEC filing shows Nike (NKE) CEO Elliott Hill's total compensation for 2026 was $36.3 million."
-    },
-    {
-      "id": "mkt:019f678b-5dcc-7aab-8db0-8b1df2a49b67",
-      "time": "2026-07-16 04:50:14",
-      "tags": [
-        "MKT News",
-        "NKE.N",
-        "Impact bullish"
-      ],
-      "text": "Nike (NKE.N) said as of May 31, 2026 it had received $302 mln in IEEPA tariff refunds, with $684 mln pending refund."
-    },
-    {
-      "id": "4990754",
-      "time": "2026-07-16 04:49:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克：2026財年第四季度，依據《國際緊急經濟權力法》加徵的關稅在合併損益表的銷售成本中帶來9.86億美元的回收收益。"
-    },
-    {
-      "id": "4990753",
-      "time": "2026-07-16 04:49:32",
-      "tags": [
-        "公司"
-      ],
-      "text": "耐克：執行長埃利奧特·希爾2026財年總薪酬為3630萬美元。"
-    },
-    {
-      "id": "4990752",
-      "time": "2026-07-16 04:49:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "耐克：截至2026年5月31日，已收到3.02億美元《國際緊急經濟權力法》關稅退款，尚有6.84億美元未結清。"
     }
   ]
 }
