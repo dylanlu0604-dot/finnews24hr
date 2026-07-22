@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-23 00:56:42",
-  "count": 17688,
+  "updated": "2026-07-23 01:00:52",
+  "count": 17680,
   "items": [
+    {
+      "id": "5002876",
+      "time": "2026-07-23 01:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.06%，滬銅收跌0.16%，滬鋁收漲0.35%，滬鋅收漲0.98%，滬鉛收漲0.54%，滬鎳收漲0.62%，滬錫收跌0.22%。氧化鋁夜盤收跌1.72%，鋁合金收漲0.28%。不鏽鋼夜盤收漲0.20%。"
+    },
+    {
+      "id": "te:markets:568943",
+      "time": "2026-07-23 00:59:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Holds Near 2-Month Highs — US gasoline futures eased to $3.40 per gallon on Wednesday from the two-month high of $3.49 earlier in the session as positive signs for supply momentarily offset the impact of geopolitical tensions. Russia's gasoline market showed signs of stabilizing, with fuel availability improving after Ukraine shifted attacks from major oil refineries to maritime targets. Meanwhile, EIA data showed US gasoline inventories rose by 0.765 million barrels in the week ended July 17, improving from the previous week but remaining 7% below the five-year average for the period. Still, prices remained supported as the US and Iran head deep into a second week of hostilities, with President Donald Trump warning of strikes on Iranian infrastructure if Tehran continued attacks on vessels transiting the Strait of Hormuz. Threats from Yemen’s Houthi rebels in the Red Sea and attacks on the Caspian Pipeline Consortium's Black Sea terminal further fueled concerns over global oil supply disruptions."
+    },
+    {
+      "id": "5002875",
+      "time": "2026-07-23 00:58:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國消費品安全委員會：新版升級型全國電子傷害監測系統NEISS-R，將於2027年初實現全美50個州全覆蓋監測網路。"
+    },
+    {
+      "id": "5002874",
+      "time": "2026-07-23 00:56:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【共和黨釋出加密貨幣法案新版文字，納入特朗普認可的公職人員道德約束條款】美國參議院共和黨議員於週三對外分發這份里程碑式加密貨幣監管法案修訂稿，在擬於下週全院表決前，更新了《清晰法案》條文。這份新法案文字若要在參議院獲得透過，需要跨黨派支援，但目前尚無任何民主黨議員簽署認可。法案計劃全面重構聯邦金融監管規則，為加密貨幣交易建立合規框架。這份長達616頁的草案包含白宮認可的公職人員道德約束條款，針對聯邦官員參與數字資產相關活動設立全新規範。長期以來，民主黨一直要求加密貨幣法案增設道德約束條款，以回應市場對特朗普家族經營高額盈利加密貨幣業務的利益衝突擔憂；但民主黨已釋放訊號，認為共和黨目前敲定的這套約束力度不足，不足以換取其支援。該道德條款由共和黨參議員與白宮協商達成，當前仍未獲得任何民主黨議員認可。"
+    },
     {
       "id": "mkt:019f8ac0-4ade-7aab-8e4e-37cca2380d2c",
       "time": "2026-07-23 00:54:45",
@@ -161355,137 +161390,6 @@
         "國際"
       ],
       "text": "法爾斯通訊社訊息：伊朗軍方在阿巴斯港擊落美軍 “盧卡斯” 無人機。"
-    },
-    {
-      "id": "4990522",
-      "time": "2026-07-16 01:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【夜盤期貨收盤】國際銅夜盤收跌0.54%，滬銅收跌0.59%，滬鋁收跌0.62%，滬鋅收跌1.10%，滬鉛收跌0.64%，滬鎳收跌0.08%，滬錫收跌2.04%。氧化鋁夜盤收漲0.18%，鋁合金收跌0.28%。不鏽鋼夜盤收漲0.21%。"
-    },
-    {
-      "id": "em:qqyh_mlc:202607163807898066",
-      "time": "2026-07-16 00:59:49",
-      "tags": [
-        "央行",
-        "美聯儲"
-      ],
-      "text": "【美聯儲理事庫克表示 有理由相信通脹將繼續降溫】美聯儲理事庫克表示，有理由相信通脹將繼續降溫，但關稅、中東衝突以及人工智慧投資可能導致價格壓力持續；等待通脹進一步放緩一段時間是明智之舉，但若通脹未能很快回落，準備採取行動。"
-    },
-    {
-      "id": "mkt:019f66b8-4c2d-7aab-8dac-afc1bfc0f48d",
-      "time": "2026-07-16 00:59:41",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Amazon",
-        "Market Themes",
-        "Magnificent 7",
-        "AMZN.O"
-      ],
-      "text": "Amazon (AMZN.O): Dave Treadwell will succeed Dave Brown as head of AWS Compute and Machine Learning Services; Dave Brown is departing the company."
-    },
-    {
-      "id": "mkt:019f66b7-d325-7aab-8dac-a0e176dfa70c",
-      "time": "2026-07-16 00:59:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed Governor COOK said inflation expectations are currently stable but depend on appropriate monetary policy; the Fed must not let down its guard."
-    },
-    {
-      "id": "mkt:019f66b7-9658-7aab-8dac-9dffcf65ca98",
-      "time": "2026-07-16 00:58:55",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed Governor COOK said risks have shifted toward higher inflation since last summer, while labor-market risks have eased and the job market remains broadly stable."
-    },
-    {
-      "id": "mkt:019f66b7-6e3f-7aab-8dac-954f2cbd410b",
-      "time": "2026-07-16 00:58:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed Governor COOK said it is prudent to wait for inf to slow further for some time, but COOK is prepared to act if inf does not retreat quickly."
-    },
-    {
-      "id": "mkt:019f66b7-6238-7aab-8dac-89061b6f1f2f",
-      "time": "2026-07-16 00:58:41",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact mixed",
-        "Copper"
-      ],
-      "text": "Fed Governor COOK said there is reason to expect inflation to continue cooling, but tariffs, the Middle East conflict and AI-driven investment could sustain price pressures, and related risks remain."
-    },
-    {
-      "id": "4990521",
-      "time": "2026-07-16 00:58:31",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 審慎起見應再等待一段時間觀察通脹降溫，但若通脹遲遲未能回落，她已準備好採取相應政策行動。"
-    },
-    {
-      "id": "4990520",
-      "time": "2026-07-16 00:58:20",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 自去年夏季以來，風險重心出現 “明顯轉變”，通脹上行風險加劇，就業市場相關風險則有所緩解，當前就業市場整體保持穩定。"
-    },
-    {
-      "id": "4990519",
-      "time": "2026-07-16 00:58:08",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 有理由相信通脹將持續回落，但同時也存在風險：關稅、中東衝突以及人工智慧領域投資可能會使物價壓力持續存在。"
-    },
-    {
-      "id": "4990518",
-      "time": "2026-07-16 00:57:50",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲理事庫克： 通脹預期已趨於穩定，但這有賴於適宜的貨幣政策；美聯儲不可鬆懈。"
-    },
-    {
-      "id": "4990517",
-      "time": "2026-07-16 00:57:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "亞馬遜：戴夫・特雷德韋爾將執掌 AWS 計算與機器學習業務。"
     }
   ]
 }
