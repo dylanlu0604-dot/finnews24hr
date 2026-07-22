@@ -1,7 +1,35 @@
 {
   "date": "2026-07-22",
-  "count": 3136,
+  "count": 3139,
   "items": [
+    {
+      "id": "5002829",
+      "time": "2026-07-22 23:56:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國財長貝森特：（與巴基斯坦財長）討論了巴基斯坦重返全球資本市場的問題。"
+    },
+    {
+      "id": "te:markets:568933",
+      "time": "2026-07-22 23:56:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Rises to 2-Week High — Frankfurt's DAX 40 gained 0.7% to nearly 25,200 on Wednesday, its highest level in two weeks, as strong corporate earnings and upbeat guidance outweighed concerns over higher oil prices and the inflationary risks linked to escalating tensions in the Middle East. Airbus surged 6.9% after the aircraft manufacturer unveiled ambitious profit targets through 2029, citing sustained demand for commercial jets, while also announcing an earlier-than-expected share buyback program. The optimistic outlook also supported MTU Aero Engines, which rose more than 1%. Elsewhere, Gea jumped over 5% after the industrial equipment maker upgraded its full-year guidance on the back of stronger-than-expected quarterly results. Investors also looked ahead to Thursday's European Central Bank policy meeting, where officials are widely expected to leave interest rates unchanged following June's increase."
+    },
+    {
+      "id": "5002828",
+      "time": "2026-07-22 23:54:31",
+      "tags": [
+        "國際"
+      ],
+      "text": "【海上安全機構警示：胡塞武裝完成準備，擬襲擊曼德海峽通航船舶】由美國海軍牽頭的海上安全機構稱，葉門受伊朗支援的胡塞武裝已完成相關準備，準備襲擊途經紅海南部入口的船舶。聯合海上資訊中心週二向航海人員釋出通告表示：“接近該武裝的訊息人士稱，胡塞武裝已完成襲擊航運船隻的籌備工作，在曼德海峽周邊部署導彈與無人機。”"
+    },
     {
       "id": "te:markets:568931",
       "time": "2026-07-22 23:52:55",
