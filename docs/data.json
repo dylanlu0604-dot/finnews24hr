@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-22 14:50:03",
-  "count": 17994,
+  "updated": "2026-07-22 14:54:02",
+  "count": 17988,
   "items": [
+    {
+      "id": "5001641",
+      "time": "2026-07-22 14:53:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中歐簽署新一輪聯合科研資助協議】近日，中國科技部與歐盟委員會簽署了新一輪中歐聯合科研資助協議。根據該協議，中歐雙方於2025—2027年聚焦“農業、食品和生物解決方案”（FAB）及“氣候變化和生物多樣性”（CCB）等領域，聯合資助中歐大學、科研院所和企業開展務實研發專案合作，攜手應對氣候變化等全球性挑戰，為推動實現碳中和與綠色低碳發展提供科技解決方案。按照協議內容，中方透過“國家重點研發計劃”下設的“政府間國際科技創新合作重點專項”實施中歐聯合資助機制，歐盟透過“地平線歐洲”實施聯合資助機制。"
+    },
+    {
+      "id": "5001640",
+      "time": "2026-07-22 14:52:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【畢馬威：香港基金稅制迎重大改革 料吸引新一輪全球資產管理公司落戶】7月22日，畢馬威釋出最新《香港資產管理及私募股權展望》報告，指出基金免稅制度及附帶權益稅務寬減制度改革，預計將吸引新一輪區域及全球資產管理公司進駐香港。畢馬威預測，香港全年IPO集資額有望達約3500億港元。香港資本市場同樣展現出強勁勢頭。香港在2025年重奪全球首次公開招股(IPO)集資額冠軍寶座，相關升勢延續至2026年，目前集資規模仍穩居全球首兩位。畢馬威報告亦指出，ETF將成為香港資產管理業的重要增長引擎，今年上半年香港ETF平均每日成交額達396億港元，較去年同期增長17%。畢馬威中國香港特別行政區另類投資部主管包迪雲(DarrenBowdern)表示，透過對附帶權益及業績表現費提供具追溯力的0%實際稅率，香港進一步消除現行稅制中的不確定性，並提升對私募股權、私人信貸及對沖基金在香港設立及營運投資平臺的吸引力，預期措施將吸引更多國際資產管理機構在香港建立長遠投資團隊，並以香港作為管理亞洲高價值投資組合的重要基地。"
+    },
+    {
+      "id": "5001638",
+      "time": "2026-07-22 14:51:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度SENSEX指數下跌1%，至76,693.39點。"
+    },
+    {
+      "id": "mkt:019f8897-562b-7aab-8e3d-7dd55a4f08e4",
+      "time": "2026-07-22 14:50:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shanghai crude futures main contract (SC) rallied in short-term trade, up 5.43 pct at 559.5 yuan/barrel. Low-sulfur fuel oil (LU) rose 5.09 pct to 4,930 yuan/ton, while fuel oil gained 4.97 pct to 3,801 yuan/ton."
+    },
+    {
+      "id": "mkt:019f8896-e037-7aab-8e3d-75bdc8ebed46",
+      "time": "2026-07-22 14:50:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's interior ministry spokesman said the ministry is prioritizing provinces under attack, particularly in the south. Tunnels, bridges, roads and railway stations are being repaired as quickly as possible and traffic flow has been restored. Reconstruction of damaged power and desalination facilities is also proceeding rapidly."
+    },
+    {
+      "id": "5001637",
+      "time": "2026-07-22 14:49:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方證券：KIMI K3效能出色 國產算力需求高增】東方證券釋出研報稱，國產大模型效能持續迭代，將有效拓展國產AI應用場景，加速國內AI生態商業閉環。AI商業場景的拓展是AI科技行情核心，具備長程任務能力的AI Agent 落地預計將驅動新商業場景落地。國產大模型加速迭代將驅動國產算力與交換晶片需求高速增長。"
+    },
+    {
+      "id": "5001636",
+      "time": "2026-07-22 14:49:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報4930.00元。"
+    },
     {
       "id": "5001634",
       "time": "2026-07-22 14:48:07",
@@ -165101,134 +165165,6 @@
         "MKT News"
       ],
       "text": "【ChangXin chairman says STAR Market listing to fund R&D and industrialisation】ChangXin Memory Technologies chairman Zhu Yiming told the company’s STAR Market IPO roadshow that proceeds will be used to strengthen R&D capacity and advance industrialisation. He said the firm will push to lead industry-chain coordination and support China’s integrated-circuit ecosystem, and will continue prioritising independent innovation and investment to become a globally influential semiconductor memory company."
-    },
-    {
-      "id": "4989272",
-      "time": "2026-07-15 14:53:58",
-      "tags": [
-        "公司"
-      ],
-      "text": "【DeepSeek融資股權變更完成】企查查APP顯示，近日，DeepSeek關聯公司杭州深度求索人工智慧基礎技術研究有限公司發生工商變更，新增杭州程礪企業管理諮詢合夥企業（有限合夥）、國家人工智慧產業投資基金合夥企業（有限合夥）為股東，註冊資本增加至1644.75萬元。其中，DeepSeek創始人梁文鋒退出杭州程礪企業管理諮詢合夥企業（有限合夥）股東，新增騰訊關聯公司上海珩岫商業管理有限公司及上海知勉創合投資有限公司、寧德時代全資子公司寧波梅山保稅港區問鼎投資有限公司、江蘇京東邦能投資管理有限公司等為股東，同時註冊資本由0.4萬元增至14.02億元。"
-    },
-    {
-      "id": "mkt:019f648d-b362-7aab-8d96-8e6e634196bb",
-      "time": "2026-07-15 14:53:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Market sources: US forces struck Iran's Bushehr again."
-    },
-    {
-      "id": "4989271",
-      "time": "2026-07-15 14:53:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "【美團、青桔、哈囉共享單車調價】近期，美團單車、滴滴青桔、哈囉單車相繼在北京等多個城市上調計費規則，三大平臺不約而同地採取了“提高起步定價、拉長基礎騎行時長”的組合策略：起步價從此前的1.5元/30分鐘左右，普遍調整為1.88元至1.99元/60分鐘。這成為共享單車行業近年來較大範圍的一次集體調價。（中國金融時報）"
-    },
-    {
-      "id": "4989270",
-      "time": "2026-07-15 14:53:19",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超2.5萬億元，較上日此時縮量1282億元。"
-    },
-    {
-      "id": "4989269",
-      "time": "2026-07-15 14:53:15",
-      "tags": [
-        "公司"
-      ],
-      "text": "【阿斯麥CFO：2026年中國大陸市場銷售額佔比預計維持在20%左右 相比此前預期沒有變化】阿斯麥首席財務官戴厚傑（Roger Dassen）7月15日在回答有關中國大陸市場的區域更新時表示，目前預計2026年中國大陸市場將佔公司總淨銷售額的20%左右，這一比例與此前的預期相比沒有變化。戴厚傑指出，雖然佔比未變，但由於阿斯麥目前對全年的總淨銷售額預期比今年年初時更高，因此中國大陸市場的絕對銷售額基數實際上有所提升。從這個意義上說，中國大陸市場的表現正與全球市場的整體走勢保持同步。在談及中國大陸市場的具體需求來源時，他補充道，這部分增量需求主要集中在邏輯晶片業務上，並且主要是為了滿足其本土主導的市場需求。"
-    },
-    {
-      "id": "mkt:019f648c-e889-7aab-8d96-834b7fb0095e",
-      "time": "2026-07-15 14:53:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "The Fed (FOMC)",
-        "US10Y",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "【Oriental Jincheng says 10-year UST yield center likely to rise further】Oriental Jincheng said in a research note that renewed geopolitical tensions—US–Iran escalation and Iran’s Monday announcement it closed the Strait of Hormuz—should lift oil prices, revive inflation and raise rate expectations, making this the primary driver of higher 10-year U.S. Treasury yields. Fed Chair KEVIN WARSH is due to testify at Congress’s semiannual monetary policy hearing this week; the firm expects his remarks to skew hawkish and signal a stronger focus on inflation control, which would push up real rates. Partially offsetting factors include an overall June decline in oil and an expected drop in June U.S. CPI versus May, which should limit the magnitude of the yield rise. Net: with geopolitical shock plus hawkish central-bank guidance, the central tendency of the 10-year UST yield is most likely to move higher."
-    },
-    {
-      "id": "4989268",
-      "time": "2026-07-15 14:52:40",
-      "tags": [
-        "國際"
-      ],
-      "text": "【以總理遭議員呵斥可恥出去】當地時間7月14日，以色列議會就凍結逮捕逃避兵役的極端正統派猶太教徒的法案進行投票。以色列總理內塔尼亞胡在現場遭到反對派議員集體抗議。在內塔尼亞胡入場時，反對派議員向他大喊“可恥”“出去”。內塔尼亞胡幾分鐘後便離開會場，缺席了正式投票環節。當天投票表決的法案要求凍結對那些逃避兵役的極端正統派猶太教徒的逮捕行動，該法案最終獲得透過。 （CCTV國際時訊）"
-    },
-    {
-      "id": "4989267",
-      "time": "2026-07-15 14:52:24",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【上半年金融資料將出爐 這場釋出會三大看點值得關注】今天15時，國務院新聞辦公室將舉行新聞釋出會，中國人民銀行新聞發言人、副行長鄒瀾將介紹2026年上半年貨幣政策執行和金融統計資料情況。總體來看，本次釋出會有這樣幾個看點：首先是上半年金融總量資料。透過這些資料，大家可以更好地瞭解當前市場流動性充裕水平、信貸投放整體節奏以及金融對實體經濟的支撐力度等。其次是金融對重點領域精準支援情況。大家都很關注上半年資金重點流向了哪些領域？哪些領域獲得信貸支援力度比較大？今天釋出會上，如果披露普惠小微、科技創新等領域的信貸投放情況，透過這些可以更好地判斷上半年信貸資金流向。第三是對熱點問題的回應。對於大家非常關注的一些熱點問題，比如上半年貨幣政策執行情況、人民幣匯率等，透過釋出會上傳遞的資訊，也可以更好預判下半年貨幣政策走向以及政策著力點。（央視）"
-    },
-    {
-      "id": "4989266",
-      "time": "2026-07-15 14:51:33",
-      "tags": [
-        "公司"
-      ],
-      "text": "【三星釋出鈦金屬摺疊屏技術 下一代Galaxy Fold手機摺痕更淺、更耐用】三星電子週三公佈了一項用於下一代Galaxy摺疊手機的鈦基顯示技術。三星表示，該技術將降低摺疊屏摺痕的可見程度、提升螢幕耐用性，並使裝置實現更輕薄的設計和更高的能效表現。這項名為“Flex Titanium”的技術將首次應用於三星第八代摺疊屏智慧手機，該系列手機定於7月22日在倫敦舉行的釋出會上亮相。Flex Titanium技術凝聚了三星在七代摺疊屏裝置研發中積累的專業經驗，融合了顯示材料與精密機械工程領域的先進成果。該技術用鈦合金薄膜取代了OLED面板下方的聚合物薄膜，並搭配升級後的鈦合金板，構建出一種兼顧強度與柔韌性的雙重結構。"
-    },
-    {
-      "id": "mkt:019f648b-7103-7aab-8d96-7f74a2f5019a",
-      "time": "2026-07-15 14:51:27",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian government spokesman said U.S. strikes in southern Iran in recent days killed more than 30 civilians."
-    },
-    {
-      "id": "4989265",
-      "time": "2026-07-15 14:51:09",
-      "tags": [
-        "資料",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【東方金誠：10年期美債收益率中樞大機率將繼續抬升】東方金誠7月15日釋出研究報告稱，預計在地緣風險重新升級推動下，10年期美債收益率將呈現震盪上行趨勢。首先，考慮到週末以來美伊緊張局勢進一步升級、週一伊朗宣佈霍爾木茨海峽關閉，國際油價預計將重新上漲，這將再度推升市場通脹以及加息預期，成為推動10年期美債收益率上行的核心因素。其次，美聯儲主席沃什將在本週出席國會半年度貨幣政策聽證會，預計其證詞基調大機率偏鷹，料將明確傳遞控制通脹的訊號，從而推升實際利率。不過，考慮到6月國際油價整體下行，預計6月美國CPI資料將較5月回落，這將在一定程度上抑制美債收益率的上行幅度。總體來看，在地緣衝擊與央行鷹派指引的疊加下，10年期美債收益率中樞大機率將繼續抬升。"
-    },
-    {
-      "id": "mkt:019f648b-1966-7aab-8d96-74c7558a0059",
-      "time": "2026-07-15 14:51:05",
-      "tags": [
-        "MKT News",
-        "005930.KS"
-      ],
-      "text": "【Samsung unveils titanium-based foldable display tech; next-gen Galaxy fold to cut crease, boost durability】Samsung Electronics on Wednesday announced a titanium-based display technology for its next-generation Galaxy foldable phones. Branded Flex Titanium, Samsung says the technology will reduce visible crease depth, improve screen durability, enable thinner device designs and deliver higher energy efficiency. Flex Titanium will debut on the company’s eighth-generation Galaxy foldable smartphone at a July 22 launch in London. The solution replaces the polymer film beneath the OLED panel with a titanium-alloy thin film paired with an upgraded titanium-alloy plate, forming a dual structure that Samsung says balances strength and flexibility and builds on R&D from seven prior foldable generations."
-    },
-    {
-      "id": "mkt:019f648a-3197-7aab-8d96-696a73de7545",
-      "time": "2026-07-15 14:50:05",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CNH",
-        "CSI300"
-      ],
-      "text": "The Chinese State Council Information Office will hold a press conference in 10 minutes to present 1H 2026 monetary policy implementation and financial statistics."
     }
   ]
 }

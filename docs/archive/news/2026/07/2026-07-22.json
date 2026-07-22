@@ -1,7 +1,71 @@
 {
   "date": "2026-07-22",
-  "count": 1432,
+  "count": 1439,
   "items": [
+    {
+      "id": "5001641",
+      "time": "2026-07-22 14:53:04",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中歐簽署新一輪聯合科研資助協議】近日，中國科技部與歐盟委員會簽署了新一輪中歐聯合科研資助協議。根據該協議，中歐雙方於2025—2027年聚焦“農業、食品和生物解決方案”（FAB）及“氣候變化和生物多樣性”（CCB）等領域，聯合資助中歐大學、科研院所和企業開展務實研發專案合作，攜手應對氣候變化等全球性挑戰，為推動實現碳中和與綠色低碳發展提供科技解決方案。按照協議內容，中方透過“國家重點研發計劃”下設的“政府間國際科技創新合作重點專項”實施中歐聯合資助機制，歐盟透過“地平線歐洲”實施聯合資助機制。"
+    },
+    {
+      "id": "5001640",
+      "time": "2026-07-22 14:52:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【畢馬威：香港基金稅制迎重大改革 料吸引新一輪全球資產管理公司落戶】7月22日，畢馬威釋出最新《香港資產管理及私募股權展望》報告，指出基金免稅制度及附帶權益稅務寬減制度改革，預計將吸引新一輪區域及全球資產管理公司進駐香港。畢馬威預測，香港全年IPO集資額有望達約3500億港元。香港資本市場同樣展現出強勁勢頭。香港在2025年重奪全球首次公開招股(IPO)集資額冠軍寶座，相關升勢延續至2026年，目前集資規模仍穩居全球首兩位。畢馬威報告亦指出，ETF將成為香港資產管理業的重要增長引擎，今年上半年香港ETF平均每日成交額達396億港元，較去年同期增長17%。畢馬威中國香港特別行政區另類投資部主管包迪雲(DarrenBowdern)表示，透過對附帶權益及業績表現費提供具追溯力的0%實際稅率，香港進一步消除現行稅制中的不確定性，並提升對私募股權、私人信貸及對沖基金在香港設立及營運投資平臺的吸引力，預期措施將吸引更多國際資產管理機構在香港建立長遠投資團隊，並以香港作為管理亞洲高價值投資組合的重要基地。"
+    },
+    {
+      "id": "5001638",
+      "time": "2026-07-22 14:51:11",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度SENSEX指數下跌1%，至76,693.39點。"
+    },
+    {
+      "id": "mkt:019f8897-562b-7aab-8e3d-7dd55a4f08e4",
+      "time": "2026-07-22 14:50:47",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Shanghai crude futures main contract (SC) rallied in short-term trade, up 5.43 pct at 559.5 yuan/barrel. Low-sulfur fuel oil (LU) rose 5.09 pct to 4,930 yuan/ton, while fuel oil gained 4.97 pct to 3,801 yuan/ton."
+    },
+    {
+      "id": "mkt:019f8896-e037-7aab-8e3d-75bdc8ebed46",
+      "time": "2026-07-22 14:50:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's interior ministry spokesman said the ministry is prioritizing provinces under attack, particularly in the south. Tunnels, bridges, roads and railway stations are being repaired as quickly as possible and traffic flow has been restored. Reconstruction of damaged power and desalination facilities is also proceeding rapidly."
+    },
+    {
+      "id": "5001637",
+      "time": "2026-07-22 14:49:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【東方證券：KIMI K3效能出色 國產算力需求高增】東方證券釋出研報稱，國產大模型效能持續迭代，將有效拓展國產AI應用場景，加速國內AI生態商業閉環。AI商業場景的拓展是AI科技行情核心，具備長程任務能力的AI Agent 落地預計將驅動新商業場景落地。國產大模型加速迭代將驅動國產算力與交換晶片需求高速增長。"
+    },
+    {
+      "id": "5001636",
+      "time": "2026-07-22 14:49:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "低硫燃料油連續主力合約日內漲5%，現報4930.00元。"
+    },
     {
       "id": "5001634",
       "time": "2026-07-22 14:48:07",
