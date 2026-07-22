@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-22 21:33:59",
-  "count": 17919,
+  "updated": "2026-07-22 21:38:08",
+  "count": 17914,
   "items": [
+    {
+      "id": "mkt:019f8a0b-9086-7aab-8e49-34784cc5d237",
+      "time": "2026-07-22 21:37:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "FT reports Nestlé is close to selling a stake in its Perrier bottled-water unit at about a €5bn valuation."
+    },
+    {
+      "id": "5002623",
+      "time": "2026-07-22 21:37:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "芝加哥商業交易所集團第二季度調整後利潤超出預期，股價上漲5.4%。"
+    },
+    {
+      "id": "5002622",
+      "time": "2026-07-22 21:37:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海爾智家承建全國首個家居家電AI中試基地】7月22日，海爾集團公眾號釋出內容稱，海爾智家在2026世界人工智慧大會上宣佈承建全國首個家居家電方向的國家人工智慧應用中試基地，聚焦消費領域·家居家電方向，由海爾智家牽頭，聯合行業機構、高校院所及眾多企業共同建設。"
+    },
+    {
+      "id": "5002621",
+      "time": "2026-07-22 21:36:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【SpaceXAI籌劃在得克薩斯州大規模擴建資料中心】三名知情人士透露，埃隆・馬斯克旗下人工智慧業務主體SpaceXAI正在籌備，計劃在得克薩斯州至少新建一座大型資料中心。本次擴建將大幅擴充SpaceX在田納西州孟菲斯現有算力樞紐之外的AI計算資源。 SpaceXAI自有AI產品Grok商業化進展不及預期，公司近期接連達成算力對外出租協議，若順利落地本次擴建，SpaceXAI有望成長為重要的雲算力服務商。 兩名知情人士表示，近幾個月SpaceXAI已經在得州考察多處潛在地塊，並探討了多種建設方案：既可以全新徵地建設，也可改造現有倉庫興建資料中心，模式與SpaceXAI改造舊廠房打造孟菲斯首座資料中心如出一轍。 一名知情人士稱，得州新專案規劃規模將對標甚至超過孟菲斯現有算力叢集。SpaceX對外披露，兩座投運的資料中心總算力約1吉瓦，部署了數十萬顆英偉達GPU。 兩名訊息人士透露，SpaceXAI已經抽調現有資料中心員工前往得州，為擴建工作做前期籌備。上月公司在奧斯汀、巴斯特羅普招聘資料中心開發負責人，崗位描述顯示，該崗位負責資料中心落地，同時承擔“地塊篩選、租賃洽談、資產收購”等事務；本月早些時候，SpaceX還發布臨時崗位招聘，支撐康羅等地的資料中心建設、擴建與運營工作。（環球市場播報）"
+    },
+    {
+      "id": "5002620",
+      "time": "2026-07-22 21:36:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "淡水河谷股東選舉曼努埃爾・奧利韋拉出任董事長  。"
+    },
+    {
+      "id": "5002619",
+      "time": "2026-07-22 21:35:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "納斯達克中國金龍指數跌超1%，逸仙電商跌6.59%，網易跌5.39%，中進醫療跌4.57%，康迪車業跌4.55%，嗶哩嗶哩跌3.40%。"
+    },
+    {
+      "id": "5002618",
+      "time": "2026-07-22 21:35:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國菸草巨頭菲利普莫里斯盤初漲幅達6.2%，創下歷史新高。"
+    },
+    {
+      "id": "5002617",
+      "time": "2026-07-22 21:34:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【OpenAI推出工作流程AI智慧體部署產品 面向企業客戶】OpenAI表示，正推出一款名為OpenAI Presence的企業產品，可在客戶和內部工作流程中部署AI智慧體，用於回答問題、解決問題並呼叫公司系統。Presence支援語音和聊天場景下的實時互動體驗，包括客戶支援、外呼銷售以及高風險內部工作流程。目前透過有限正式開放計劃，以可部署產品形式向符合條件的企業客戶提供。"
+    },
+    {
+      "id": "5002616",
+      "time": "2026-07-22 21:33:55",
+      "tags": [
+        "其他"
+      ],
+      "text": "GE Vernova跌近7%，因其核心利潤未達預期。"
+    },
+    {
+      "id": "5002615",
+      "time": "2026-07-22 21:33:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：德克薩斯州馬拉松石油加爾維斯頓灣煉油廠釋出報告稱，初步估算顯示本次洩漏量超過了要求上報的規定閾值。"
+    },
+    {
+      "id": "mkt:019f8a08-4060-7aab-8e49-284a6c5622ab",
+      "time": "2026-07-22 21:33:44",
+      "tags": [
+        "MKT News",
+        "GE.O",
+        "Impact bearish"
+      ],
+      "text": "GE Vernova shares fell nearly 7% after the unit’s core profit missed expectations."
+    },
+    {
+      "id": "mkt:019f8a08-15fc-7aab-8e49-211553821da8",
+      "time": "2026-07-22 21:33:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Baltic Dry Index rebounds; capesize rates lead gains, panamax slips to June low】The Baltic Dry Index (BDI) rose 45 points (+1.69%) to 2,715, its first increase since July 14, led by capesize strength. The Baltic Capesize Index (BCI) climbed 184 points (+4.7%) to 4,114, the highest since July 16; capesize average daily earnings rose $1,668 to $33,805. The Baltic Panamax Index (BPI) fell 61 points (-2.8%) to 2,120, the lowest since June 29; panamax daily earnings declined $546 to $19,083. The Supramax Index (BSI) eased 15 points (-0.9%) to 1,715 for a second consecutive day of decline, while the Handysize Index (BHSI) ticked up 2 points to 905."
+    },
+    {
+      "id": "5002614",
+      "time": "2026-07-22 21:33:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：雀巢與鉑金股權競相在週四雀巢半年報釋出前，就出售巴黎水業務約50%股權達成條款。"
+    },
+    {
+      "id": "5002613",
+      "time": "2026-07-22 21:33:27",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4150美元/盎司，日內漲1.81%。"
+    },
     {
       "id": "5002612",
       "time": "2026-07-22 21:33:14",
@@ -163722,178 +163839,6 @@
         "其他"
       ],
       "text": "法律資訊網站 BLAW：法院暫緩執行加州可回收物標識法規。"
-    },
-    {
-      "id": "4990172",
-      "time": "2026-07-15 21:37:48",
-      "tags": [
-        "市場"
-      ],
-      "text": "AEHR 測試系統股價暴漲 51%，創 2021 年 7 月以來最大漲幅。"
-    },
-    {
-      "id": "4990171",
-      "time": "2026-07-15 21:37:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國預算責任辦公室提名候選人哈斯克爾：我對人工智慧提振英國生產率增長持樂觀態度。"
-    },
-    {
-      "id": "mkt:019f65ff-3b2b-7aab-8da5-32214399a80b",
-      "time": "2026-07-15 21:37:33",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "GBPUSD"
-      ],
-      "text": "Bank of England policymaker Haskel said he is optimistic AI will boost UK productivity growth."
-    },
-    {
-      "id": "4990170",
-      "time": "2026-07-15 21:37:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "據傳美國聯邦通訊委員會將廢除全國電視觀眾覆蓋上限規定，利好 Nexstar 媒體集團。"
-    },
-    {
-      "id": "4990169",
-      "time": "2026-07-15 21:37:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "證監會同意深圳嘉立創科技集團股份有限公司首次公開發行股票註冊。"
-    },
-    {
-      "id": "mkt:019f65fe-4f9e-7aab-8da5-2e65424821e0",
-      "time": "2026-07-15 21:36:33",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "CSRC approved registration for Shenzhen Jialichuang Technology Group Co., Ltd.'s initial public offering."
-    },
-    {
-      "id": "4990168",
-      "time": "2026-07-15 21:36:20",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "獅門影業股價上漲7.8%，此前有報道稱該公司吸引了博洛雷、巴尼傑的收購興趣。CENTENE股價下跌8%，信諾下跌3%，聯合健康下跌1.9%，MOLINA下跌4%，哈門那下跌1.2%，CVS HEALTH下跌2.2%。"
-    },
-    {
-      "id": "4990167",
-      "time": "2026-07-15 21:36:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "阿里巴巴美股股價上漲6%，報119.045美元/股，總市值報2853億美元。"
-    },
-    {
-      "id": "mkt:019f65fd-c8a1-7aab-8da5-270910a4b4a8",
-      "time": "2026-07-15 21:35:58",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "【US military says it forced two merchant vessels attempting to breach blockade to divert】US Central Command said on social media on the 15th that, since restarting a maritime blockade of Iranian ports 17 hours earlier, it had forced two merchant vessels attempting to breach the blockade to divert."
-    },
-    {
-      "id": "4990166",
-      "time": "2026-07-15 21:35:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國預算責任辦公室提名候選人哈斯克爾談英國經濟展望：我的預測是中期內利率將略高於多數人預期，而GDP增長將弱於多數人預期。"
-    },
-    {
-      "id": "4990165",
-      "time": "2026-07-15 21:35:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "智利國家銅業公司（CODELCO）董事會主席表示，馬裡昆加鹽沼鋰專案有望在八年內落地建成。"
-    },
-    {
-      "id": "4990164",
-      "time": "2026-07-15 21:35:18",
-      "tags": [
-        "公司"
-      ],
-      "text": "瑞銀將泛林集團目標價從375美元上調至435美元。"
-    },
-    {
-      "id": "mkt:019f65fc-f7cb-7aab-8da5-19041930cf2b",
-      "time": "2026-07-15 21:35:04",
-      "tags": [
-        "MKT News",
-        "Important",
-        "DXY",
-        "Impact mixed",
-        "XAUUSD"
-      ],
-      "text": "BOC to release its interest rate decision and Monetary Policy Report in 10 minutes."
-    },
-    {
-      "id": "4990163",
-      "time": "2026-07-15 21:35:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "獅門影業開盤大漲 7.5%。"
-    },
-    {
-      "id": "4990162",
-      "time": "2026-07-15 21:34:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "默沙東股價上漲3%，因其合作伙伴科倫博泰公佈可瑞達肺癌關鍵研究取得積極結果。"
-    },
-    {
-      "id": "4990161",
-      "time": "2026-07-15 21:34:45",
-      "tags": [
-        "市場"
-      ],
-      "text": "SK海力士美股上市股票在上一交易日暴漲超27%後，今日下跌9%。"
-    },
-    {
-      "id": "te:markets:567239",
-      "time": "2026-07-15 21:34:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "BlackRock Stock Price Hits 8-week High — BlackRock shares increased to 1099.00 USD, the highest since May 2026. Over the past 4 weeks, BlackRock lost 1.67%, and in the last 12 months, it decreased 1.98%."
-    },
-    {
-      "id": "4990160",
-      "time": "2026-07-15 21:34:33",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美軍中央司令部15日在社交媒體上發表宣告說，自17小時前重新啟動對伊朗港口的海上封鎖以來，美軍已迫使兩艘試圖衝破封鎖的商船改道。（新華社）"
-    },
-    {
-      "id": "4990159",
-      "time": "2026-07-15 21:34:26",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所阿拉比卡咖啡期貨<KCc2>上漲近3%，報每磅3.3460美元。"
     }
   ]
 }
