@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-23 07:47:31",
-  "count": 17696,
+  "updated": "2026-07-23 07:51:28",
+  "count": 17690,
   "items": [
+    {
+      "id": "mkt:019f8c3d-71db-7aab-8e54-8e73f43bc3fe",
+      "time": "2026-07-23 07:51:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said that after explosions south of the Strait of Hormuz, one of three oil tankers caught fire and the other two turned back."
+    },
+    {
+      "id": "5003207",
+      "time": "2026-07-23 07:50:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，兩艘其他油輪在霍爾木茲海峽以南海域發生事件後返航。"
+    },
+    {
+      "id": "5003206",
+      "time": "2026-07-23 07:50:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊稱，三艘油輪中的一艘在霍爾木茲海峽以南發生爆炸後起火。"
+    },
+    {
+      "id": "mkt:019f8c3c-c1ff-7aab-8e54-86ba97f6c277",
+      "time": "2026-07-23 07:50:19",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "The Trump Trade"
+      ],
+      "text": "【CITIC Securities: U.S. new tariffs are a replacement, not an escalation】CITIC Securities says U.S. Section 122 tariffs expire July 24 and Section 301 tariffs could become the primary substitute—essentially a replacement rather than an escalation. After IEEPA tariff authority was overturned, the Trump administration is building a new framework centered on routine executive trade powers—a one-framework, three-tool approach—distinct from prior large-scale reciprocal-tariff tactics. Overall, the latest tariff adjustments pose limited global shock. Separately, the U.S. is using USMCA reviews as leverage to press Mexico and Canada on rules of origin and market access; negotiations may oscillate between tariff threats and concessions."
+    },
+    {
+      "id": "5003205",
+      "time": "2026-07-23 07:49:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【呼和浩特經開區發放轄區首張自貿試驗區標識營業執照】據內蒙古日報，7月21日，呼和浩特經濟技術開發區正式發放轄區首張標註“中國（內蒙古）自由貿易試驗區”專屬標識的營業執照，內蒙古長時大規模儲能科技有限公司成為首家獲證企業，也是轄區首個使用內蒙古自貿試驗區冠名的企業。"
+    },
+    {
+      "id": "5003204",
+      "time": "2026-07-23 07:49:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "【趙一德與宇樹科技董事長王興興等企業家代表座談】據陝西日報，7月22日，陝西省委書記趙一德在西安與來陝參加世界網際網路大會數字絲路發展論壇的宇樹科技董事長兼執行長王興興、麒盛科技創始人唐國海、微醫集團董事長廖傑遠、遠江盛邦安全科技集團董事長權曉文等企業家代表座談。趙一德說，希望各位企業家以此次論壇為契機，在技術研發、成果轉化、算力建設、場景落地等方面共謀合作，加大在陝投資力度，推動更多優質專案落地陝西，攜手搶佔人工智慧新賽道。我們將持續營造一流營商環境，為企業在陝發展創造良好條件。王興興等與會企業家表示，陝西創新要素集聚、產業基礎紮實、區位戰略價值凸顯、能源供給優勢突出，與企業發展戰略高度契合。將積極推動人工智慧在智慧機器人、智慧睡眠、智慧醫療、網路空間安全等領域落地應用，加快拓展在陝產業佈局，為陝西高質量發展現代化建設貢獻力量。"
+    },
+    {
+      "id": "5003203",
+      "time": "2026-07-23 07:49:00",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【特斯拉第二財季營收飆升 向AI和機器人領域投入58億美元 公司股價盤後跌逾4%】為著眼於AI和機器人技術驅動的未來，汽車製造商特斯拉第二財季支出增至58億美元，導致其自由現金流兩年來首次轉為負值，儘管當季收入大幅增長。“今年是資本支出大年，但我相信我們投資的所有專案都將產生令人難以置信的回報，”執行長埃隆.馬斯克週三在電話會議上對投資者表示。儘管馬斯克信心滿滿，特斯拉股價在週三盤後交易中依然下跌逾4%。財報顯示，特斯拉第二季度自由現金流為負11億美元，淨利潤下降5%。該公司當季每股收益為33美分，不及華爾街預期。總體而言，特斯拉當季收入增至280億美元，較上年同期增長26%。儘管面臨美國需求疲軟和競爭加劇的雙重困境，其核心汽車業務收入仍同比增長了23%。"
+    },
+    {
+      "id": "5003202",
+      "time": "2026-07-23 07:47:54",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或維持區間震盪；市場關注伊朗衝突】隨著伊朗衝突的不確定性持續存在，日本股市可能維持區間震盪。新加坡交易所的日經指數期貨上漲0.4%，報66330點。在美國總統特朗普威脅稱如果伊朗攻擊過境霍爾木茲海峽的船隻，將摧毀伊朗基礎設施之後，投資者正關注中東局勢發展和原油價格。日經指數週三下跌0.2%，至66115.60點。"
+    },
+    {
+      "id": "5003201",
+      "time": "2026-07-23 07:47:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.25點。"
+    },
     {
       "id": "5003200",
       "time": "2026-07-23 07:44:50",
@@ -161669,154 +161747,6 @@
         "國際"
       ],
       "text": "5年期日本國債收益率下跌0.5個基點，至1.930%。"
-    },
-    {
-      "id": "4990913",
-      "time": "2026-07-16 07:51:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "2年期日本國債收益率上升0.5個基點，至1.435%。"
-    },
-    {
-      "id": "te:markets:567328",
-      "time": "2026-07-16 07:50:36",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 2"
-      ],
-      "text": "Gold Steadies as Traders Weigh Fed Outlook — Gold steadied around $4,050 an ounce on Thursday, trading in a narrow range for a second straight session as investors evaluated the Federal Reserve's policy outlook following softer US inflation data and escalating conflict in the Middle East. Data released on Wednesday showed US producer prices unexpectedly fell in June for the first time in nearly a year, driven by lower energy costs, while core PPI rose a softer-than-expected 0.2%. The report followed Tuesday’s weaker consumer inflation data, reducing concerns that the Fed would soon raise interest rates. Markets also scaled back expectations for a Fed rate hike in September, with the implied probability falling to around 44% from 50% a day earlier. Still, June’s inflation data did not capture the impact of the latest escalation in hostilities between the US and Iran, as the interim peace agreement reached last month has effectively unraveled."
-    },
-    {
-      "id": "mkt:019f6830-6cdf-7aab-8db2-39d453fabd16",
-      "time": "2026-07-16 07:50:31",
-      "tags": [
-        "MKT News",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Foreign investors were net buyers of JGBs to the tune of JPY 499.8 bln in the week to July 10, versus net selling of JPY 5.9 bln in the prior week."
-    },
-    {
-      "id": "em:jjsj_rbsj:202607163808085144",
-      "time": "2026-07-16 07:50:28",
-      "tags": [
-        "經濟數據",
-        "日本"
-      ],
-      "text": "日本至7月10日當週外資買進日股7456億日元，前值由-222億日元修正為-213億日元。"
-    },
-    {
-      "id": "4990912",
-      "time": "2026-07-16 07:50:25",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本至7月10日當週買進外國債券 10901億日元，前值由-2181億日元修正為-2175億日元。日本至7月10日當週外資買進日股 7456億日元，前值由-222億日元修正為-213億日元。日本至7月10日當週買進外國股票 1962億日元，前值8245億日元。日本至7月10日當週外資買進日債 4998億日元，前值-59億日元。"
-    },
-    {
-      "id": "mkt:019f6830-4516-7aab-8db2-37e5a70a6123",
-      "time": "2026-07-16 07:50:21",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY"
-      ],
-      "text": "Japan bought foreign equities worth 196.2 bln yen in the week to July 10, down from 824.5 bln yen in the prior week."
-    },
-    {
-      "id": "mkt:019f6830-40bb-7aab-8db2-2833d37b39c8",
-      "time": "2026-07-16 07:50:20",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jul.10) | actual 499800000000B | previous -5900000000B"
-    },
-    {
-      "id": "mkt:019f6830-275b-7aab-8db2-22e29b665ff5",
-      "time": "2026-07-16 07:50:13",
-      "tags": [
-        "MKT News",
-        "Nikkei 225",
-        "Impact bullish"
-      ],
-      "text": "Foreign investors bought JPY 745.6 bln of Japanese equities in the week to July 10; the prior net flow was revised from a net sale of JPY 22.2 bln to a net sale of JPY 21.3 bln."
-    },
-    {
-      "id": "mkt:019f6830-2691-7aab-8db2-1ab352ab2ab9",
-      "time": "2026-07-16 07:50:13",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Stocks Buying (Jul.10) | actual 196200000000B | previous 824500000000B"
-    },
-    {
-      "id": "mkt:019f6830-25db-7aab-8db2-143d666d233c",
-      "time": "2026-07-16 07:50:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish"
-      ],
-      "text": "Japan's net purchases of foreign bonds were ¥1.0901 tln in the week to July 10; the prior reading was revised from a net sale of ¥218.1 bln to a net sale of ¥217.5 bln."
-    },
-    {
-      "id": "mkt:019f682f-f3d7-7aab-8db2-0d193f3e2120",
-      "time": "2026-07-16 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jul.10) | actual 745600000000B | previous -22200000000B"
-    },
-    {
-      "id": "mkt:019f682f-f3cd-7aab-8db2-02ad052f8219",
-      "time": "2026-07-16 07:50:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Japan | Weekly Foreign Bonds Buying (Jul.10) | actual 1090100000000B | previous -218100000000B"
-    },
-    {
-      "id": "4990911",
-      "time": "2026-07-16 07:48:48",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【中東衝突升級前景下油價上漲】在中東衝突不斷升級的前景下，亞洲早盤油價上漲。近月西得州中質油期貨上漲0.8%，報每桶80.24美元。美國官員表示，在聽取了高階助手連續幾天的簡報後，美國總統特朗普傾向於擴大美國在伊朗的軍事行動。澳新銀行研究部分析師在一份研究報告中說：“特朗普承諾將加強對伊朗的轟炸，直到伊朗停止攻擊霍爾木茲海峽的船隻並同意重新開放。“這些分析師補充說，存在“對石油供應進一步受擾的擔憂“。霍爾木茲海峽是一條關鍵水道，全球五分之一的石油都要透過該海峽運輸。"
-    },
-    {
-      "id": "4990910",
-      "time": "2026-07-16 07:48:05",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【韓國金融服務委員會負責人表示將宣佈有關單一ETF的措施】韓國金融服務委員會主席Lee Eok-won表示，他將很快宣佈有關三星電子和SK海力士槓桿ETF加劇股市波動的措施。其表示，正在與包括財政經濟部、韓國銀行、金融監督院和金融服務委員會在內的相關部門密切磋商，並將宣佈投資者保護和市場穩定的措施。當被問及是否也在考慮暫時停止三星電子槓桿 ETF 的交易時，他表示：“我們正在進行全面審查，因為如果我們這樣做，可能會產生更大的副作用。”當被問及他是否認為槓桿 ETF 加劇了股市波動時，他避免直接回答，而是說：“這是一個程度問題。”"
-    },
-    {
-      "id": "4990909",
-      "time": "2026-07-16 07:47:45",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【中金：食品飲料行業板塊估值修復預期有望逐步落地】中金公司研報指出，當前食品飲料行業整體處於底部復甦、結構分化的核心配置視窗，估值整體回落至歷史低位區間，安全邊際足。行業追求高質價比、功能性、健康性趨勢延續，零食量販、會員商超、即時零售有望持續貢獻渠道增量。展望下半年，隨著新消費場景陸續湧現，板塊估值修復預期有望逐步落地。中金堅持堅守龍頭、佈局復甦、精選價值的投資策略，白酒板塊把握估值修復與高股息紅利，大眾食品聚焦競爭力突出及業績確定性強的板塊龍頭、估值合理及基本面持續改善的標的&高股息穩健增長的價值標的。"
     }
   ]
 }
