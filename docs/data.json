@@ -1,7 +1,252 @@
 {
-  "updated": "2026-07-22 08:58:55",
-  "count": 18080,
+  "updated": "2026-07-22 09:03:30",
+  "count": 18082,
   "items": [
+    {
+      "id": "mkt:019f8758-46ff-7aab-8e35-9eb53a9f82dc",
+      "time": "2026-07-22 09:02:17",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said the US-Iran situation has become very severe."
+    },
+    {
+      "id": "mkt:019f8757-ba02-7aab-8e35-90db2e9c2220",
+      "time": "2026-07-22 09:01:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's finance minister Katayama said authorities will take appropriate FX action as needed and declined to comment on specific exchange-rate levels."
+    },
+    {
+      "id": "mkt:019f8757-aa59-7aab-8e35-88938951c932",
+      "time": "2026-07-22 09:01:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) opened 965.53 points higher on Wednesday, July 22, up 2.18% at 45,198.4 points."
+    },
+    {
+      "id": "5001121",
+      "time": "2026-07-22 09:01:22",
+      "tags": [],
+      "text": "國內期貨主力合約漲多跌少，燃料油漲超4％，SC原油、滬銀漲超3％，鈀、鉑、集運歐線、低硫燃料油（LU）漲超2％，碳酸鋰、焦煤、乙二醇（EG）漲近2％。跌幅方面，純鹼、燒鹼、菜油跌超1％，滬鉛跌近1％。"
+    },
+    {
+      "id": "5001120",
+      "time": "2026-07-22 09:01:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加2.28噸】截至2026年07月21日，全球最大的黃金ETF SPDR Gold Trust持倉量為1005.87噸，較前一個交易日增加2.28噸。"
+    },
+    {
+      "id": "mkt:019f8757-2e66-7aab-8e35-85ac078bc80b",
+      "time": "2026-07-22 09:01:05",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 1.3% at the Wednesday morning open on July 22 to 893.72 yuan/gram. Silver T+D climbed 2.91% to 14,461 yuan/kg."
+    },
+    {
+      "id": "mkt:019f8757-07b3-7aab-8e35-7e8ebe9ef077",
+      "time": "2026-07-22 09:00:55",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Navigation warning: rocket debris reported in East China Sea】China Maritime Safety Administration website says Taizhou Maritime Safety Administration issued a navigation warning for July 22 09:30-11:30, prohibiting entry to portions of the East China Sea due to falling rocket debris."
+    },
+    {
+      "id": "5001119",
+      "time": "2026-07-22 09:00:51",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內漲4%，現報14560.00元。"
+    },
+    {
+      "id": "5001118",
+      "time": "2026-07-22 09:00:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊回應特朗普襲擊核設施言論 】伊朗武裝部隊哈塔姆安比亞中央總部22日說，若美軍襲擊伊朗核設施，伊朗將視其為地區衝突升級。稍早前，美國總統特朗普在白宮對媒體說，美國“可能很快”打擊伊朗“鎬山”地下核設施。伊朗武裝部隊哈塔姆安比亞中央總部對此發表宣告回應說，美國威脅要襲擊伊朗核設施和其他敏感設施。如果美軍採取此類行動，伊朗將視其為地區衝突升級，所有屬於美國、美國盟友及美國支持者的利益，都將成為伊朗武裝力量強力回擊的目標。“鎬山”位於伊朗中部伊斯法罕省納坦茲核設施附近，被認為是伊朗最堅固的地下核設施之一。"
+    },
+    {
+      "id": "5001117",
+      "time": "2026-07-22 09:00:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣證交所加權股價指數上漲2.1%至45,163.33點。"
+    },
+    {
+      "id": "mkt:019f8756-9952-7aab-8e35-744f9570d025",
+      "time": "2026-07-22 09:00:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "At the open, domestic futures main contracts were mostly higher. Fuel oil led gains, up over 4%; Shanghai crude (SC) and Shanghai silver rose more than 3%. Palladium, platinum, the container-shipping Europe route and low-sulfur fuel oil (LU) gained over 2%; lithium carbonate, coking coal and ethylene glycol (EG) were up about 2%. On the downside, soda ash, caustic soda and rapeseed oil fell over 1%, while Shanghai lead slipped about 1%."
+    },
+    {
+      "id": "mkt:019f8756-84bd-7aab-8e35-6ff3453f77e2",
+      "time": "2026-07-22 09:00:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver up more than 1.00% intraday at $59.36/oz."
+    },
+    {
+      "id": "5001116",
+      "time": "2026-07-22 09:00:15",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內漲1%，現報59.36美元/盎司。"
+    },
+    {
+      "id": "5001115",
+      "time": "2026-07-22 09:00:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4110美元/盎司，日內漲0.82%。"
+    },
+    {
+      "id": "mkt:019f8756-63bf-7aab-8e35-66a090c05f84",
+      "time": "2026-07-22 09:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures opened 0.23% higher."
+    },
+    {
+      "id": "5001114",
+      "time": "2026-07-22 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.6%報44,513.75。"
+    },
+    {
+      "id": "5001113",
+      "time": "2026-07-22 09:00:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內漲1%，現報59.70美元/盎司。"
+    },
+    {
+      "id": "5001112",
+      "time": "2026-07-22 09:00:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "焦煤連續主力合約日內漲2%，現報1278.50元。"
+    },
+    {
+      "id": "5001111",
+      "time": "2026-07-22 09:00:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】燃料油連續漲4.09%，白銀連續漲3.51%，上海原油連續漲3.45%，低硫燃料油連續漲2.30%，集運指數歐線期貨連續漲2.23%。"
+    },
+    {
+      "id": "5001110",
+      "time": "2026-07-22 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.23%。"
+    },
+    {
+      "id": "5001109",
+      "time": "2026-07-22 08:59:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【天汽模：近日與Tebis簽署燈塔客戶戰略合作協議】天汽模(002510)7月22日在互動平臺表示，公司參加了第二十五屆中國國際模具技術和裝置展覽會，並與Tebis簽署燈塔客戶戰略合作協議，圍繞CAD/CAM製造流程最佳化、智慧製造技術應用及經驗共享等核心領域展開深度協作。"
+    },
+    {
+      "id": "5001108",
+      "time": "2026-07-22 08:59:50",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【SpaceX、Grab和Sea將透過新加坡存託憑證在新加坡交易所掛牌交易】SpaceX、Grab和Sea料將於週三透過發行新加坡存託憑證(SDR)在新加坡交易所(Singapore Exchange)開始交易。新加坡交易所(SGX)在一份宣告中表示，這些新增的SDR將“以新加坡本地貨幣提供投資創新主題的直接渠道“。新加坡交易所稱：“這些SDR使投資者能夠以新加坡元無縫地交易和管理這些全球性公司，消除了外匯兌換摩擦，同時還能在新加坡市場時段進行交易。”該交易所運營商表示，此舉出臺的背景是，投資者對SDR的交易活動持續升溫。該交易所稱，在散戶參與度創下歷史新高的推動下，SDR的日均成交額強勁增長。"
+    },
+    {
+      "id": "mkt:019f8755-b9c4-7aab-8e35-587bb60f1edf",
+      "time": "2026-07-22 08:59:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "KYODO reported Japan's crude oil imports from the Middle East fell 26.4% in 1H 2026."
+    },
+    {
+      "id": "5001107",
+      "time": "2026-07-22 08:59:14",
+      "tags": [
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信期貨：逢低買盤推動黃金階段性反彈，4000關口支撐顯現，中期反彈仍需政策明朗】行情層面，受逢低買盤推動，黃金於4000美元關口附近企穩反彈，關鍵心理關口支撐顯現。宏觀層面，市場仍在權衡中東衝突對能源價格的傳導，以及美聯儲加息預期的變化。中東局勢仍存變數，油價波動反覆。美聯儲鷹派立場仍未根本轉變，高利率環境對金價仍構成中期壓制，上行空間受限。美元指數小幅走弱，對金價形成一定支撐。資金層面，黃金ETF整體仍處於減持趨勢，總持倉處於階段低位，但頭部產品出現分化，投機淨多頭倉位有所回升，市場悲觀情緒邊際緩和。實物層面，央行購金需求依然強勁，為金價提供堅實底部支撐。"
+    },
+    {
+      "id": "5001106",
+      "time": "2026-07-22 08:58:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【上半年廣州新簽約招商專案預計投資總額超6700億元 同比增長超50%】據廣州日報，初步統計，今年1—6月，廣州新簽約招商專案預計投資總額超6700億元，同比增長超50%。其中，製造業專案預計投資總額超2600億元，同比增長超50%。粵芯四期專案、STI功率半導體智造基地、融捷集團廣州開發區新能源智造基地專案、安捷利晶片封裝基板製造基地等一批優質專案加速落地。外資專案量質齊升。新引進外資專案平均規模達5.5億元，較去年同期實現翻番提升。"
+    },
+    {
+      "id": "5001105",
+      "time": "2026-07-22 08:58:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【機構：日本匯市干預取決於多種因素】SMBC日興證券策略師Rinto Maruyama表示，投資者越來越將日本政府的干預策略視為一個多因素等式，而不是一條嚴格的紅線。儘管美元兌日元已遠超160水平（該水平長期以來被視為政府採取行動的關鍵門檻），但該貨幣對仍在繼續緩慢震盪上行。交易員們正在擺脫簡單的價格水平觸發因素。Maruyama說，他們認識到，日本當局是基於多種因素的複雜組合來評估干預措施的，這些因素包括匯率變動的步伐、市場流動性、投機頭寸、國際協調以及基本經濟面。"
+    },
     {
       "id": "te:markets:568656",
       "time": "2026-07-22 08:58:12",
@@ -166005,230 +166250,6 @@
         "國際"
       ],
       "text": "韓國財政部長表示，韓國將努力把下半年消費者物價指數（CPI）漲幅控制在3%以下。"
-    },
-    {
-      "id": "4988746",
-      "time": "2026-07-15 09:02:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港股股票回購一覽：80只個股獲公司回購】Wind資料顯示，7月14日，共80只港股獲公司回購，6只個股回購金額超千萬港元。其中，極兔速遞-W、快手-W、協鑫科技回購金額最大，分別獲公司回購3916.37萬港元、2392.39萬港元、2031.38萬港元。截至7月14日，今年已有289只港股獲公司回購，81只個股年內累計回購金額超億港元。其中，騰訊控股、友邦保險、小米集團-W年內累計回購金額最大，分別獲公司回購261.28億港元、136.35億港元、109.63億港元。"
-    },
-    {
-      "id": "4988745",
-      "time": "2026-07-15 09:02:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【以史為鑑 國際清算銀行警告稱AI投資競賽恐令債務驅動的繁榮轉向蕭條】國際清算銀行(BIS)表示，當前全球圍繞人工智慧(AI)基礎設施展開的投資競賽，正朝著超越以往技術繁榮週期的方向發展，而那些繁榮最終都以嚴重市場動盪收場。總部位於巴塞爾的國際清算銀行週二釋出的一份研究報告警告稱，如果生產率增長最終無法證明這些鉅額投資是合理的，那麼超大規模雲服務提供商與人工智慧開發商之間不斷增加的債務融資和金融關聯，將提高更廣泛金融動盪的風險。國際清算銀行經濟學家Phurichai Rungcharoenkitkul在報告中寫道：“這個行業建設的產能越多，為維持繁榮所必須跨越的生產率門檻就越高。因此，規模越大的繁榮不僅越有可能令人失望，而且一旦令人失望，造成的損害也會更大。”"
-    },
-    {
-      "id": "mkt:019f634b-4c98-7aab-8d8c-e5faf42fadf0",
-      "time": "2026-07-15 09:01:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Shanghai Gold Exchange Gold T+D rose 0.9% in early trade on Wednesday, July 15, to 885.2 yuan/gram; Silver T+D gained 2.31% to 14,386 yuan/kg."
-    },
-    {
-      "id": "4988744",
-      "time": "2026-07-15 09:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【古巴國家電網已全面恢復】古巴能源部在X上釋出訊息稱，所有發電機組恢復執行後，古巴電網已恢復正常。"
-    },
-    {
-      "id": "mkt:019f634b-1377-7aab-8d8c-daa703c4e1e9",
-      "time": "2026-07-15 09:01:32",
-      "tags": [
-        "MKT News",
-        "TWII",
-        "Impact bullish"
-      ],
-      "text": "The Taiwan Weighted Index opened 446.25 points higher, or 1.0%, at 45,184.2 on Wednesday, July 15."
-    },
-    {
-      "id": "mkt:019f634a-973d-7aab-8d8c-d756c2308f46",
-      "time": "2026-07-15 09:01:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Implantable BCI system NEO completes first commercial surgery in Shanghai】The implantable brain–computer interface (BCI) hand motor function compensation system NEO, developed by Borui Kang Medical Technology (Shanghai) Co., Ltd., received market approval from Shanghai regulators and underwent its first commercial clinical surgery on July 13 at Huashan Hospital affiliated with Fudan University. Intraoperative testing showed the system recorded stable, high-quality epidural EEG signals. The patient is reported hemodynamically stable post‑op. Authorities describe NEO as a world‑first product."
-    },
-    {
-      "id": "4988743",
-      "time": "2026-07-15 09:00:48",
-      "tags": [],
-      "text": "國內期貨主力合約多數上漲。燃料油漲超5％，低硫燃料油（LU）漲超4％，SC原油漲近4％，乙二醇（EG）、苯乙烯（EB）漲超3％，滬銀、瀝青、純苯漲超2％。跌幅方面，滬鉛跌超1％，純鹼跌近1％。"
-    },
-    {
-      "id": "4988742",
-      "time": "2026-07-15 09:00:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "臺灣證交所加權股價指數上漲1.2%至45,255.20點。"
-    },
-    {
-      "id": "mkt:019f634a-4997-7aab-8d8c-c9522dea7cbd",
-      "time": "2026-07-15 09:00:40",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "At the morning open, China’s main futures contracts were mostly higher. Fuel oil led gains, up over 5%; low-sulfur fuel oil (LU) rose over 4%; Shanghai crude (SC) gained about 4%. Ethylene glycol (EG) and styrene (EB) advanced more than 3%. SHFE silver, asphalt and benzene climbed over 2%. Shanghai lead fell over 1% and soda ash slipped about 1%."
-    },
-    {
-      "id": "4988741",
-      "time": "2026-07-15 09:00:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "【北京35家貨車“涉牌”違法突出貨運企業被約談】近日，北京公安交管部門在持續開展路面貨運車輛交通違法整治的同時，全面強化源頭治理，對北京市今年上半年註冊貨車“涉牌”違法突出的35家貨運企業，會同行業主管部門依法進行約談。其中北京彬旗嘉業運輸有限公司名下注冊貨車已被查處49起“涉牌”違法，北京德鑫耀瑞物流有限公司已被查處45起“涉牌”違法，北京大愛園林綠化有限公司已被查處40起“涉牌”違法。交管部門分析發現，貨運企業車輛“涉牌”違法主要有不按規定安裝（使用翻牌器）、故意遮擋、故意汙損、未按規定懸掛4類。"
-    },
-    {
-      "id": "mkt:019f634a-0fb2-7aab-8d8c-c1a36c1f1947",
-      "time": "2026-07-15 09:00:25",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Front-month palladium contract extends intraday gain to 2.00%, trading at 309.15 yuan/gram."
-    },
-    {
-      "id": "4988740",
-      "time": "2026-07-15 09:00:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺灣證交所加權股價指數開高0.3%報44,850.69。"
-    },
-    {
-      "id": "mkt:019f6349-e9cb-7aab-8d8c-bad36b748817",
-      "time": "2026-07-15 09:00:15",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "Spot gold climbed above $4,060/oz, up 0.18% on the day."
-    },
-    {
-      "id": "mkt:019f6349-e669-7aab-8d8c-b7ca272f564e",
-      "time": "2026-07-15 09:00:15",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH",
-        "Impact bullish",
-        "CSI300",
-        "Hang Seng Index"
-      ],
-      "text": "FTSE China A50 futures opened 0.6% higher."
-    },
-    {
-      "id": "4988739",
-      "time": "2026-07-15 09:00:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "鈀連續主力合約日內漲4%，現報314.70元。"
-    },
-    {
-      "id": "4988738",
-      "time": "2026-07-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "瀝青連續主力合約日內漲2%，現報4087.00元。"
-    },
-    {
-      "id": "4988737",
-      "time": "2026-07-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "集運指數歐線期貨連續主力合約日內漲4%，現報2611.00點。"
-    },
-    {
-      "id": "4988736",
-      "time": "2026-07-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "低硫燃料油連續主力合約日內漲4%，現報4510.00元。"
-    },
-    {
-      "id": "4988735",
-      "time": "2026-07-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PTA連續主力合約日內漲1%，現報5816.00元。"
-    },
-    {
-      "id": "4988734",
-      "time": "2026-07-15 09:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "PVC連續主力合約日內漲1%，現報4594.00元。"
-    },
-    {
-      "id": "4988733",
-      "time": "2026-07-15 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【商品期貨開盤】燃料油連續漲5.16%，低硫燃料油連續漲4.68%，集運指數歐線期貨連續漲4.31%，鈀連續漲3.64%，上海原油連續漲3.59%，乙二醇連續漲3.27%，苯乙烯連續漲3.04%，瀝青連續漲2.63%，丙烯連續漲2.58%，白銀連續漲2.47%。"
-    },
-    {
-      "id": "4988732",
-      "time": "2026-07-15 09:00:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨開盤上漲0.63%。"
-    },
-    {
-      "id": "4988731",
-      "time": "2026-07-15 08:59:41",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率下跌1.0個基點，至2.695%。"
-    },
-    {
-      "id": "te:markets:566952",
-      "time": "2026-07-15 08:58:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Canadian Dollar Hits 4-week High — The Canadian Dollar touched 1.40 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Canadian Dollar gained 0.38%, and in the last 12 months, it increased 2.62%."
     }
   ]
 }
