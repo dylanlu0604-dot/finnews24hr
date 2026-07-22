@@ -1,7 +1,186 @@
 {
   "date": "2026-07-22",
-  "count": 694,
+  "count": 712,
   "items": [
+    {
+      "id": "5001152",
+      "time": "2026-07-22 09:21:45",
+      "tags": [],
+      "text": "港股恒指低開跌0.61％，國企指數跌0.88％，恒生科技指數開跌0.71%；人工智慧、晶片板塊漲幅居前。"
+    },
+    {
+      "id": "5001151",
+      "time": "2026-07-22 09:21:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠3,505.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019f8769-8621-7aab-8e36-324629c149fd",
+      "time": "2026-07-22 09:21:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "At the Hong Kong open on Wednesday, July 22, the Hang Seng Index (HSI) fell 153.39 points, or 0.61%, to 24,978.90; the Hang Seng Tech Index dropped 34.34 points, or 0.71%, to 4,780.49; the Hang Seng China Enterprises Index (HSCEI) slid 73.49 points, or 0.88%, to 8,287.19; the Hang Seng Red-chip Index rose 5.43 points, or 0.13%, to 4,089.10."
+    },
+    {
+      "id": "mkt:019f8769-6a18-7aab-8e36-2b85d7eb29e7",
+      "time": "2026-07-22 09:21:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "02513.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened lower: HSI down 0.61%, Hang Seng Tech Index down 0.71%. AI, chip, PCB and nonferrous metals sectors outperformed. Zhipu (02513.HK) up 6.64% at open."
+    },
+    {
+      "id": "mkt:019f8768-f847-7aab-8e36-2239e6fdf757",
+      "time": "2026-07-22 09:20:31",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 76 bln yuan 7-day reverse repo today; bid volume and allotment were both 76 bln yuan, operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "5001150",
+      "time": "2026-07-22 09:20:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展760億元7天逆回購操作，投標量760億元，中標量760億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "te:economy:568666",
+      "time": "2026-07-22 09:20:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises to 9-Week High — Australia’s 10-year government bond yield rose toward 5%, reaching its highest level in nine weeks as broader risks to global energy supplies fueled inflation concerns. US President Donald Trump played down the prospect of immediate talks with Iran as the two sides exchanged strikes near the Strait of Hormuz, while Houthi militants in Yemen threatened shipping in the Red Sea. The resulting surge in oil prices reinforced expectations that the Reserve Bank of Australia could tighten policy further after raising the cash rate three times to 4.35%, with markets pricing an 80% chance of another increase by December. Investors now await Australia's June employment report on Thursday, with forecasts pointing to a 15,000 rise in employment and an unchanged 4.4% unemployment rate. Inflation data for the second quarter are also due next week, with core inflation expected to accelerate to 3.7% annually from 3.5%, well above the RBA's target band, reinforcing the risk of another rate hike."
+    },
+    {
+      "id": "mkt:019f8766-f218-7aab-8e36-1efbb04f2b18",
+      "time": "2026-07-22 09:18:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump approves 30-year nuclear cooperation deal with Saudi Arabia】The Wall Street Journal reports President Trump has approved a 30-year US-Saudi nuclear cooperation agreement that would allow Saudi Arabia to develop civil nuclear projects and could permit uranium enrichment on Saudi soil. The deal, reported to be worth billions of dollars, aims to give US companies a dominant role in Saudi nuclear infrastructure and to exclude other foreign competitors; US firms would build enrichment facilities if joint US-Saudi research deems them necessary. Administration officials say the pact is intended to preserve US influence over Riyadh’s nuclear programme and reduce the risk of diversion for military use. The agreement will be sent to Congress for review in coming days and may face opposition from lawmakers citing proliferation risks amid regional instability."
+    },
+    {
+      "id": "mkt:019f8766-8ead-7aab-8e36-15b15fbd2448",
+      "time": "2026-07-22 09:17:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Main precious metals futures were stronger: Shanghai gold 2608 +2.20% at 898.58 yuan/gram; Shanghai silver 2610 +4.64% at 14,650 yuan/kg; platinum 2610 +3.42% at 413.2 yuan/gram; palladium 2610 +3.29% at 312.5 yuan/gram."
+    },
+    {
+      "id": "5001149",
+      "time": "2026-07-22 09:15:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【耐克限制批發分銷商的線上銷售 將透過天貓、京東和抖音上的品牌旗艦店進行線上銷售】據報道，隨著這家美國運動服飾巨頭繼續在與本土競爭對手的較量中失利，耐克正試圖透過控制其產品的線上銷售方式，引導消費者前往耐克官方渠道，以此贏回中國消費者的青睞。耐克大中華區副總裁兼總經理凱茜·斯帕克斯表示，透過限制批發分銷商的線上銷售，公司旨在重建與中國消費者的信任，並以全價銷售產品。斯帕克斯透露，從1月起，中國主要運動服飾零售商將停止線上銷售耐克的服裝和鞋類產品，轉而專注於實體店銷售。線上上渠道，耐克的產品將透過中國熱門電商平臺天貓、京東和抖音上的全新耐克品牌數字店鋪，以及耐克官網和 應用程式進行銷售。“我們的市場已經變得過於分散和雜亂，”斯帕克斯表示。這位在公司任職25年的資深高管於今年早些時候被任命負責中國業務。“消費者想要的是高階、忠於品牌、值得信賴，並且數字與實體渠道無縫銜接的購物體驗。”"
+    },
+    {
+      "id": "5001148",
+      "time": "2026-07-22 09:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！黃海南部實彈射擊】據中國海事局網站訊息，連雲港海事局釋出航行警告，7月22日10時至13時，黃海南部部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:019f8764-9327-7aab-8e36-08cd3f7aa537",
+      "time": "2026-07-22 09:15:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Navigation warning: live-fire exercise in southern Yellow Sea】Lianyungang Maritime Safety Administration posted on the China Maritime Safety Administration website a navigational warning: live-fire drills will close parts of the southern Yellow Sea to navigation from July 22 10:00 to 13:00 local time."
+    },
+    {
+      "id": "mkt:019f8764-91dd-7aab-8e36-00b04c4c6051",
+      "time": "2026-07-22 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.59% at 25,006, trading 125 points below the cash index."
+    },
+    {
+      "id": "mkt:019f8764-7cef-7aab-8e35-fafda5a11c8a",
+      "time": "2026-07-22 09:15:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "NKE.N",
+        "Impact mixed"
+      ],
+      "text": "Topsports International said it received notice from Nike (NKE.N) to terminate its existing online distribution agreement in mainland China and will focus on cooperating with Nike on offline sales."
+    },
+    {
+      "id": "5001147",
+      "time": "2026-07-22 09:15:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "中國人民銀行定於2026年7月27日發行北京中軸線金銀紀念幣一套。該套金銀紀念幣共6枚，其中金質紀念幣1枚，銀質紀念幣5枚，均為中華人民共和國法定貨幣。"
+    },
+    {
+      "id": "5001146",
+      "time": "2026-07-22 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7933元，下調16.00點。"
+    },
+    {
+      "id": "5001145",
+      "time": "2026-07-22 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.61%，報25003.00點，低水129.29點。"
+    },
+    {
+      "id": "5001144",
+      "time": "2026-07-22 09:14:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4120美元/盎司，日內漲1.05%。"
+    },
     {
       "id": "mkt:019f8763-c918-7aab-8e35-f088cfbd3f17",
       "time": "2026-07-22 09:14:51",

@@ -1,7 +1,186 @@
 {
-  "updated": "2026-07-22 09:15:16",
-  "count": 18092,
+  "updated": "2026-07-22 09:22:28",
+  "count": 18091,
   "items": [
+    {
+      "id": "5001152",
+      "time": "2026-07-22 09:21:45",
+      "tags": [],
+      "text": "港股恒指低開跌0.61％，國企指數跌0.88％，恒生科技指數開跌0.71%；人工智慧、晶片板塊漲幅居前。"
+    },
+    {
+      "id": "5001151",
+      "time": "2026-07-22 09:21:34",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行公開市場今日淨回籠3,505.0億元人民幣。"
+    },
+    {
+      "id": "mkt:019f8769-8621-7aab-8e36-324629c149fd",
+      "time": "2026-07-22 09:21:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Hang Seng Tech Index",
+        "HSCEI"
+      ],
+      "text": "At the Hong Kong open on Wednesday, July 22, the Hang Seng Index (HSI) fell 153.39 points, or 0.61%, to 24,978.90; the Hang Seng Tech Index dropped 34.34 points, or 0.71%, to 4,780.49; the Hang Seng China Enterprises Index (HSCEI) slid 73.49 points, or 0.88%, to 8,287.19; the Hang Seng Red-chip Index rose 5.43 points, or 0.13%, to 4,089.10."
+    },
+    {
+      "id": "mkt:019f8769-6a18-7aab-8e36-2b85d7eb29e7",
+      "time": "2026-07-22 09:21:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "Chip Wars",
+        "02513.HK",
+        "Impact bullish",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks opened lower: HSI down 0.61%, Hang Seng Tech Index down 0.71%. AI, chip, PCB and nonferrous metals sectors outperformed. Zhipu (02513.HK) up 6.64% at open."
+    },
+    {
+      "id": "mkt:019f8768-f847-7aab-8e36-2239e6fdf757",
+      "time": "2026-07-22 09:20:31",
+      "tags": [
+        "MKT News",
+        "CNH"
+      ],
+      "text": "PBOC conducted a 76 bln yuan 7-day reverse repo today; bid volume and allotment were both 76 bln yuan, operation rate 1.40%, unchanged."
+    },
+    {
+      "id": "5001150",
+      "time": "2026-07-22 09:20:27",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "央行今日開展760億元7天逆回購操作，投標量760億元，中標量760億元，操作利率為1.40%，與此前持平。"
+    },
+    {
+      "id": "te:economy:568666",
+      "time": "2026-07-22 09:20:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Rises to 9-Week High — Australia’s 10-year government bond yield rose toward 5%, reaching its highest level in nine weeks as broader risks to global energy supplies fueled inflation concerns. US President Donald Trump played down the prospect of immediate talks with Iran as the two sides exchanged strikes near the Strait of Hormuz, while Houthi militants in Yemen threatened shipping in the Red Sea. The resulting surge in oil prices reinforced expectations that the Reserve Bank of Australia could tighten policy further after raising the cash rate three times to 4.35%, with markets pricing an 80% chance of another increase by December. Investors now await Australia's June employment report on Thursday, with forecasts pointing to a 15,000 rise in employment and an unchanged 4.4% unemployment rate. Inflation data for the second quarter are also due next week, with core inflation expected to accelerate to 3.7% annually from 3.5%, well above the RBA's target band, reinforcing the risk of another rate hike."
+    },
+    {
+      "id": "mkt:019f8766-f218-7aab-8e36-1efbb04f2b18",
+      "time": "2026-07-22 09:18:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump approves 30-year nuclear cooperation deal with Saudi Arabia】The Wall Street Journal reports President Trump has approved a 30-year US-Saudi nuclear cooperation agreement that would allow Saudi Arabia to develop civil nuclear projects and could permit uranium enrichment on Saudi soil. The deal, reported to be worth billions of dollars, aims to give US companies a dominant role in Saudi nuclear infrastructure and to exclude other foreign competitors; US firms would build enrichment facilities if joint US-Saudi research deems them necessary. Administration officials say the pact is intended to preserve US influence over Riyadh’s nuclear programme and reduce the risk of diversion for military use. The agreement will be sent to Congress for review in coming days and may face opposition from lawmakers citing proliferation risks amid regional instability."
+    },
+    {
+      "id": "mkt:019f8766-8ead-7aab-8e36-15b15fbd2448",
+      "time": "2026-07-22 09:17:53",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Main precious metals futures were stronger: Shanghai gold 2608 +2.20% at 898.58 yuan/gram; Shanghai silver 2610 +4.64% at 14,650 yuan/kg; platinum 2610 +3.42% at 413.2 yuan/gram; palladium 2610 +3.29% at 312.5 yuan/gram."
+    },
+    {
+      "id": "5001149",
+      "time": "2026-07-22 09:15:52",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【耐克限制批發分銷商的線上銷售 將透過天貓、京東和抖音上的品牌旗艦店進行線上銷售】據報道，隨著這家美國運動服飾巨頭繼續在與本土競爭對手的較量中失利，耐克正試圖透過控制其產品的線上銷售方式，引導消費者前往耐克官方渠道，以此贏回中國消費者的青睞。耐克大中華區副總裁兼總經理凱茜·斯帕克斯表示，透過限制批發分銷商的線上銷售，公司旨在重建與中國消費者的信任，並以全價銷售產品。斯帕克斯透露，從1月起，中國主要運動服飾零售商將停止線上銷售耐克的服裝和鞋類產品，轉而專注於實體店銷售。線上上渠道，耐克的產品將透過中國熱門電商平臺天貓、京東和抖音上的全新耐克品牌數字店鋪，以及耐克官網和 應用程式進行銷售。“我們的市場已經變得過於分散和雜亂，”斯帕克斯表示。這位在公司任職25年的資深高管於今年早些時候被任命負責中國業務。“消費者想要的是高階、忠於品牌、值得信賴，並且數字與實體渠道無縫銜接的購物體驗。”"
+    },
+    {
+      "id": "5001148",
+      "time": "2026-07-22 09:15:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！黃海南部實彈射擊】據中國海事局網站訊息，連雲港海事局釋出航行警告，7月22日10時至13時，黃海南部部分海域進行實彈射擊，禁止駛入。"
+    },
+    {
+      "id": "mkt:019f8764-9327-7aab-8e36-08cd3f7aa537",
+      "time": "2026-07-22 09:15:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【Navigation warning: live-fire exercise in southern Yellow Sea】Lianyungang Maritime Safety Administration posted on the China Maritime Safety Administration website a navigational warning: live-fire drills will close parts of the southern Yellow Sea to navigation from July 22 10:00 to 13:00 local time."
+    },
+    {
+      "id": "mkt:019f8764-91dd-7aab-8e36-00b04c4c6051",
+      "time": "2026-07-22 09:15:42",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures opened the day session down 0.59% at 25,006, trading 125 points below the cash index."
+    },
+    {
+      "id": "mkt:019f8764-7cef-7aab-8e35-fafda5a11c8a",
+      "time": "2026-07-22 09:15:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "NKE.N",
+        "Impact mixed"
+      ],
+      "text": "Topsports International said it received notice from Nike (NKE.N) to terminate its existing online distribution agreement in mainland China and will focus on cooperating with Nike on offline sales."
+    },
+    {
+      "id": "5001147",
+      "time": "2026-07-22 09:15:31",
+      "tags": [
+        "觀點"
+      ],
+      "text": "中國人民銀行定於2026年7月27日發行北京中軸線金銀紀念幣一套。該套金銀紀念幣共6枚，其中金質紀念幣1枚，銀質紀念幣5枚，均為中華人民共和國法定貨幣。"
+    },
+    {
+      "id": "5001146",
+      "time": "2026-07-22 09:15:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "人民幣兌美元中間價報6.7933元，下調16.00點。"
+    },
+    {
+      "id": "5001145",
+      "time": "2026-07-22 09:15:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨日盤開盤跌0.61%，報25003.00點，低水129.29點。"
+    },
+    {
+      "id": "5001144",
+      "time": "2026-07-22 09:14:53",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金突破4120美元/盎司，日內漲1.05%。"
+    },
     {
       "id": "mkt:019f8763-c918-7aab-8e35-f088cfbd3f17",
       "time": "2026-07-22 09:14:51",
@@ -166153,194 +166332,6 @@
         "Importance 2"
       ],
       "text": "Dollar Extends Fall on Soft Inflation Data — The dollar index weakened below 101 on Wednesday, marking its second consecutive session of losses after softer-than-expected US inflation data reduced expectations of a near-term Federal Reserve interest rate hike. The annual US inflation rate eased to 3.5% in June from 4.2% in May, coming in below forecasts of 3.8% as lower oil prices helped moderate energy inflation. Consumer prices also fell 0.4% from the previous month, registering their first monthly decline since 2020. Meanwhile, Fed Chair Kevin Warsh reiterated the central bank’s commitment to restoring price stability during congressional testimony on Tuesday but stopped short of signaling a more hawkish policy stance. Markets continue to price in roughly a 50% chance of a Fed rate hike in September, as renewed tensions between the US and Iran lifted oil prices and kept inflationary pressures in focus."
-    },
-    {
-      "id": "mkt:019f635e-031f-7aab-8d8d-4f324c7bd141",
-      "time": "2026-07-15 09:22:13",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "Hang Seng Tech Index",
-        "Hang Seng China Enterprises Index"
-      ],
-      "text": "Hong Kong open, July 15: Hang Seng Index (HSI) up 210.61 pts (+0.87%) at 24,551.34; Hang Seng Tech Index up 36.72 pts (+0.78%) at 4,716.18; Hang Seng China Enterprises Index up 49.81 pts (+0.61%) at 8,152.89; Red Chip Index up 4.37 pts (+0.11%) at 3,939.77."
-    },
-    {
-      "id": "4988771",
-      "time": "2026-07-15 09:21:56",
-      "tags": [
-        "焦點"
-      ],
-      "text": "港股恒指高開漲0.87％，國企指數漲0.61％，恒生科技指數開漲0.78%。"
-    },
-    {
-      "id": "4988770",
-      "time": "2026-07-15 09:21:33",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行逆回購今日淨投放4,115.0億元人民幣。"
-    },
-    {
-      "id": "4988769",
-      "time": "2026-07-15 09:21:19",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "20年期日本國債收益率上漲2.0個基點，至3.515%。"
-    },
-    {
-      "id": "em:qqyh_zgyh:202607153806727681",
-      "time": "2026-07-15 09:21:17",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "央行今日開展4265億元7天期逆回購操作，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019f635c-f40b-7aab-8d8d-426b0343ad03",
-      "time": "2026-07-15 09:21:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "PBOC conducted 7-day reverse repos today totaling 426.5 billion yuan, accepting the full 426.5 billion yuan of bids at a 1.40% rate, unchanged from the previous operation."
-    },
-    {
-      "id": "4988768",
-      "time": "2026-07-15 09:21:01",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展4,265億元7天期逆回購操作，利率1.40%，與上次持平。"
-    },
-    {
-      "id": "te:markets:566957",
-      "time": "2026-07-15 09:20:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Heating Oil Holds Near 2-Month High — US heating oil prices held around $4.0 per gallon, near the highest level since May 21, driven by intensifying concerns over fuel supplies. US forces launched fresh strikes on Iranian targets and resumed a naval blockade of Iranian shipping through the Strait of Hormuz. President Donald Trump warned of further attacks unless Tehran returns to negotiations but also backed away from a proposed 20% charge on shipments through the strait. Adding to supply concerns, disruptions to Russian energy infrastructure following continued Ukrainian strikes prompted Russia to consider suspending diesel exports, as refinery outages and higher crude costs weighed on domestic fuel availability. Meanwhile, Kazakhstan’s Caspian Pipeline Consortium cut June shipments by 7% due to maintenance at the Tengiz oilfield and weaker Russian flows. At the same time, warmer-than-normal temperatures expected through July 28 are likely to sustain elevated fuel demand from the power sector."
-    },
-    {
-      "id": "4988767",
-      "time": "2026-07-15 09:20:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "【超威電源集團在新疆成立礦業新公司】企查查APP顯示，近日，新疆超威礦業有限公司成立，經營範圍包含：常用有色金屬冶煉；有色金屬合金銷售；鍛件及粉末冶金製品銷售等。企查查股權穿透顯示，該公司由超威電源集團有限公司全資持股。"
-    },
-    {
-      "id": "mkt:019f635c-4d9f-7aab-8d8d-38598715ab36",
-      "time": "2026-07-15 09:20:20",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "Brent",
-        "DXY"
-      ],
-      "text": "Sputnik reported Russian air strikes in Ukraine's Odesa region. Preliminary local reports said strikes hit Neptune and Flamingo missile launchers and the area near Shkolnyi airport, which Ukrainian forces have used to launch drones toward Crimea."
-    },
-    {
-      "id": "mkt:019f635c-1385-7aab-8d8d-32815eacb9da",
-      "time": "2026-07-15 09:20:06",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "The National Bureau of Statistics will release in 10 minutes its monthly residential sales-price report for 70 major and medium-sized Chinese cities."
-    },
-    {
-      "id": "te:markets:566956",
-      "time": "2026-07-15 09:19:55",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "Australia Stocks Rise to One-Week High — Australian shares rose 40 points, or 0.5%, to 8,848 in Wednesday morning trade, snapping a two-day lull and touching their highest level in a week. The rebound tracked firmer U.S. futures after semiconductor stocks rallied overnight, while cooler-than-expected U.S. inflation sharply reduced odds of a July rate hike. Local sentiment also improved, with July consumer sentiment and June business mood recovering as geopolitical tensions eased. Gains, however, were capped by caution ahead of China’s Q2 GDP release later today, with markets bracing for signs of slowing activity. Electronic tech led the advance alongside non-energy minerals, industrial services, and commercial services. Three of the big four banks posted modest rises, while heavyweight BHP Group surged nearly 4% on optimism over Chinese infrastructure demand. Other notable movers included Megaport (3.7%), Challenger Ltd. (2.6%), and Capricorn Metals (2.0%), underscoring broad-based though measured strength across sectors."
-    },
-    {
-      "id": "te:markets:566955",
-      "time": "2026-07-15 09:18:47",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Australia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Australian Dollar Hits 3-Week Top — The Australian dollar strengthened to around $0.698, reaching more than a three-week high as softer-than-expected US inflation data weighed on the greenback and reduced expectations for further rate hikes by the Federal Reserve. Investors also looked past renewed US-Iran tensions after President Donald Trump threatened additional strikes and reinstated a US blockade against Tehran, focusing instead on Washington's decision to abandon its proposed levy on cargoes transiting the Strait of Hormuz, which improved risk sentiment. In Australia, expectations for further policy tightening remained subdued after the Reserve Bank’s three rate hikes since February. Markets currently price only a 20% chance of a rate hike in August and around 60% odds by December. Meanwhile, recent business surveys showed operating conditions remained soft in June and cost pressures continued to ease somewhat, while consumer confidence improved modestly in July, though will be challenged by rising fuel prices."
-    },
-    {
-      "id": "mkt:019f6359-eb53-7aab-8d8d-2db74aba4487",
-      "time": "2026-07-15 09:17:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "【Strike disrupts release process; BOC cancels media preview of rate decision】The Bank of Canada will not provide a pre-release media preview of Wednesday’s rate decision due to a union-planned protest in support of striking security staff. The decision will be posted on the BOC website at 21:45 Beijing time; reporting may be slightly delayed. About 50 unionized employees at the BOC’s Ottawa and Montreal offices have been on strike since June 23. The bank had moved the certified reporters’ waiting room to an alternate Ottawa site earlier this week; planned protests at that site prompted cancellation of the preview arrangement."
-    },
-    {
-      "id": "mkt:019f6359-be82-7aab-8d8d-275043704c23",
-      "time": "2026-07-15 09:17:33",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Container shipping index (Europe route) lead contract intraday gains narrowed to 2.00%, trading at 2,570.0 points."
-    },
-    {
-      "id": "mkt:019f6359-13e8-7aab-8d8d-1bd7e0fecb48",
-      "time": "2026-07-15 09:16:49",
-      "tags": [
-        "MKT News",
-        "Copper",
-        "Impact bullish",
-        "Brent",
-        "Impact bearish"
-      ],
-      "text": "【South Korea to mandate 30% cut in medium and heavy commercial vehicle emissions by 2030】South Korea on Tuesday announced a plan to require medium and heavy commercial vehicles to reduce greenhouse gas emissions by 30% by 2030, shifting from a voluntary mechanism to mandatory compliance to meet the country’s mid-term national climate target."
-    },
-    {
-      "id": "4988766",
-      "time": "2026-07-15 09:15:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【人民幣兌美元中間價報6.7910，較上日調高80點】人民幣兌美元中間價報6.7910，較上日調高80點。"
-    },
-    {
-      "id": "4988765",
-      "time": "2026-07-15 09:15:22",
-      "tags": [
-        "市場"
-      ],
-      "text": "人民幣兌美元中間價報6.7910元。"
-    },
-    {
-      "id": "4988764",
-      "time": "2026-07-15 09:15:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣東建工：公司不具備製造生產風電電機的能力】廣東建工7月15日在互動平臺表示，公司不具備製造生產風電電機的能力。"
     }
   ]
 }
