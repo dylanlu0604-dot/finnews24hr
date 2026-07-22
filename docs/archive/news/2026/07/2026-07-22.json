@@ -1,7 +1,79 @@
 {
   "date": "2026-07-22",
-  "count": 686,
+  "count": 694,
   "items": [
+    {
+      "id": "mkt:019f8763-c918-7aab-8e35-f088cfbd3f17",
+      "time": "2026-07-22 09:14:51",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Spot gold rose more than 1% intraday, trading above $4,120/oz."
+    },
+    {
+      "id": "mkt:019f8763-1893-7aab-8e35-eebd5edb9e02",
+      "time": "2026-07-22 09:14:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Hanwei Technology: pipeline sensor orders booked through year-end; policy tailwinds continue】Hanwei Technology said chairman Ren Hongjun reported pipeline-related sensor orders are booked through year-end and 1H order growth for related products was generally above 30%. China’s urban underground pipeline investment rose markedly in the 15th Five-Year Plan versus the 14th, and ongoing smart upgrade work is providing sustained incremental demand for sensors, instruments and AI/information firms; policy benefits are still unfolding."
+    },
+    {
+      "id": "mkt:019f8762-e5bd-7aab-8e35-e56fe529a180",
+      "time": "2026-07-22 09:13:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Wistron said its Texas plant will involve a $700 million investment and will cover 324,000 sq ft."
+    },
+    {
+      "id": "5001143",
+      "time": "2026-07-22 09:13:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【委內瑞拉強震遇難人數升至5346人】當地時間21日，委內瑞拉全國代表大會主席豪爾赫·羅德里格斯透過社交媒體通報，該國6月24日發生的兩次強震造成遇難人數上升至5346人，受傷人數為16740人，強震之後發生餘震1405次。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8762-85b7-7aab-8e35-daec77b05194",
+      "time": "2026-07-22 09:13:28",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "Wistron Group said it will also produce NVIDIA (NVDA.O) Vera Rubin chips at its Texas plant."
+    },
+    {
+      "id": "5001142",
+      "time": "2026-07-22 09:11:28",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中共中央對外聯絡部副部長馬輝出席第二屆中意經貿合作交流會】7月21日下午，第二屆中意經貿合作交流會暨中國（浙江）—義大利經貿合作交流會在浙江杭州舉行。中共中央對外聯絡部副部長馬輝、浙江省副省長鬍偉、義大利議會“中國之友”協會主席佩魯弗、義大利駐上海總領事安緹雅等出席並致辭。本次合作交流會由中國經濟聯絡中心、浙江省外辦、浙江省商務廳、中國義大利商會共同舉辦，來自中國地方政府、企業界代表，以及佩魯弗率領的義大利多黨政治家代表團、工商界人士、義大利駐華使領館代表等80餘人參加。馬輝表示，在兩國領導人戰略引領下，中意加強全面戰略伙伴關係三年行動計劃穩步推進。今年是中國“十五五”規劃開局之年。當前，中國正大力推進高質量發展和高水平對外開放，中意合作潛力巨大，雙方應共同維護全球產業鏈供應鏈穩定暢通，依託雙邊合作機制和平臺常態化開展產業對接，深挖新能源、高階裝備、綠色低碳、人文科教等領域合作潛力。中聯部將進一步提升“政黨+務實合作”“政黨+地方”平臺效能，為兩國企業、地方交流合作提供更多支援。"
+    },
+    {
+      "id": "mkt:019f8760-5f36-7aab-8e35-d3f18ff91585",
+      "time": "2026-07-22 09:11:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Spot palladium rose 2.00% intraday to $1,302.34/oz."
+    },
+    {
+      "id": "5001141",
+      "time": "2026-07-22 09:10:53",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "30年期日本國債收益率上漲1.5個基點，至3.9%。"
+    },
     {
       "id": "mkt:019f875f-c04c-7aab-8e35-cf103ff61672",
       "time": "2026-07-22 09:10:26",
