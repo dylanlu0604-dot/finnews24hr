@@ -1,7 +1,75 @@
 {
-  "updated": "2026-07-23 05:43:55",
-  "count": 17706,
+  "updated": "2026-07-23 05:47:49",
+  "count": 17709,
   "items": [
+    {
+      "id": "5003093",
+      "time": "2026-07-23 05:45:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 公司將佈局一批 “高風險、高回報” 的 AI 晶片專案，研發重心主要服務於 Optimus 人形機器人。"
+    },
+    {
+      "id": "mkt:019f8bca-00b7-7aab-8e53-265281a70d0d",
+      "time": "2026-07-23 05:44:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish",
+        "AMAT.O",
+        "LRCX.O"
+      ],
+      "text": "Tesla CEO Elon Musk said he has ordered equipment for a wafer fab under development in Austin, Texas."
+    },
+    {
+      "id": "mkt:019f8bc9-fa17-7aab-8e53-1af56978e060",
+      "time": "2026-07-23 05:44:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla CEO Elon Musk said he will announce Terafab's site selection \"soon\"."
+    },
+    {
+      "id": "5003092",
+      "time": "2026-07-23 05:44:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 已為奧斯汀自研晶片工廠下達裝置採購訂單。"
+    },
+    {
+      "id": "mkt:019f8bc9-812b-7aab-8e53-104469d940d3",
+      "time": "2026-07-23 05:44:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla CEO Musk said the TeraFab chip fabrication facility is critical to scaling production of Optimus."
+    },
+    {
+      "id": "5003091",
+      "time": "2026-07-23 05:44:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：想要實現 Optimus 規模化量產，就必須落地 Terafab 晶片製造工廠。"
+    },
     {
       "id": "mkt:019f8bc8-0b78-7aab-8e53-0f3dc4d34c14",
       "time": "2026-07-23 05:42:50",
@@ -161761,32 +161829,6 @@
         "其他"
       ],
       "text": "本田越南總經理稱，本田汽車計劃最早於9月在越南啟動UC3電動摩托車的生產。"
-    },
-    {
-      "id": "mkt:019f67c0-0eb7-7aab-8db0-c0070cfca5d3",
-      "time": "2026-07-16 05:47:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump urges defense contractors to boost weapons output】At a Pennsylvania Defense and Innovation Summit hosted by Sen. McCormick on Wednesday, Trump told arms makers, \"Our products are world-class, but the pace needs to be faster.\" His appearance highlighted the administration's push to expand defense production as a prolonged Middle East conflict has depleted large numbers of missiles, interceptors and other munitions and exposed limits in U.S. military supply chains and production capacity. Earlier Wednesday the Department of Defense launched the National Security Finance Fund to provide funding and credit to companies addressing critical-minerals supply shortfalls deemed essential to national security."
-    },
-    {
-      "id": "4990787",
-      "time": "2026-07-16 05:47:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "本田最快將於9月在越南生產電動踏板摩托車。"
-    },
-    {
-      "id": "4990786",
-      "time": "2026-07-16 05:45:37",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【特朗普在國防峰會上點名通用動力 稱美國需加快造潛艇】美國總統特朗普在出席旨在加強美國國防工業基礎的峰會時，敦促國防承包商加快生產，並點名通用動力。特朗普週三在賓夕法尼亞防務與創新峰會上發表講話。此次峰會吸引了多位美國頂尖企業高管出席，包括摩根大通的傑米·戴蒙和波音的Kelly Ortberg。特朗普在這場有時顯得散漫、話題廣泛的演講中，對一些公司表示不滿，指責它們交付武器系統和彈藥速度太慢。“我現在真不想提這個名字，因為他們的速度比我們預期的要慢一點，但沒關係，”特朗普在談到通用動力時表示。他提到該公司與潛艇建造相關的25億美元投資計劃。“他們製造世界上最出色的潛艇，”他接著說，“我們必須造得更快。問題只有這一點，我們需要潛艇。但他們的產品確實很棒。”"
     }
   ]
 }

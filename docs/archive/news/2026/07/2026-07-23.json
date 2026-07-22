@@ -1,7 +1,75 @@
 {
   "date": "2026-07-23",
-  "count": 458,
+  "count": 464,
   "items": [
+    {
+      "id": "5003093",
+      "time": "2026-07-23 05:45:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 公司將佈局一批 “高風險、高回報” 的 AI 晶片專案，研發重心主要服務於 Optimus 人形機器人。"
+    },
+    {
+      "id": "mkt:019f8bca-00b7-7aab-8e53-265281a70d0d",
+      "time": "2026-07-23 05:44:59",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish",
+        "AMAT.O",
+        "LRCX.O"
+      ],
+      "text": "Tesla CEO Elon Musk said he has ordered equipment for a wafer fab under development in Austin, Texas."
+    },
+    {
+      "id": "mkt:019f8bc9-fa17-7aab-8e53-1af56978e060",
+      "time": "2026-07-23 05:44:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O"
+      ],
+      "text": "Tesla CEO Elon Musk said he will announce Terafab's site selection \"soon\"."
+    },
+    {
+      "id": "5003092",
+      "time": "2026-07-23 05:44:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克： 已為奧斯汀自研晶片工廠下達裝置採購訂單。"
+    },
+    {
+      "id": "mkt:019f8bc9-812b-7aab-8e53-104469d940d3",
+      "time": "2026-07-23 05:44:26",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bullish"
+      ],
+      "text": "Tesla CEO Musk said the TeraFab chip fabrication facility is critical to scaling production of Optimus."
+    },
+    {
+      "id": "5003091",
+      "time": "2026-07-23 05:44:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "特斯拉CEO埃隆·馬斯克：想要實現 Optimus 規模化量產，就必須落地 Terafab 晶片製造工廠。"
+    },
     {
       "id": "mkt:019f8bc8-0b78-7aab-8e53-0f3dc4d34c14",
       "time": "2026-07-23 05:42:50",
