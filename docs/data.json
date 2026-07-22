@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-22 12:48:06",
-  "count": 18025,
+  "updated": "2026-07-22 12:52:11",
+  "count": 18024,
   "items": [
+    {
+      "id": "te:markets:568741",
+      "time": "2026-07-22 12:51:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Eases from Over 2-Month High — The South Korean won traded around 1,483 per dollar, easing from an over two-month high near 1,475, as Middle East tensions supported demand for the US dollar. US strikes on Iran and threats by Houthi militants to blockade the Red Sea heightened concerns over potential disruptions to key shipping routes and global energy supplies. South Korea’s finance ministry said it would closely monitor developments in the region and maintain measures to ensure stable crude oil and naphtha supplies, as the country remains vulnerable to external energy shocks. Meanwhile, the won remained supported by foreign investor inflows into Korean equities as a rebound in semiconductor stocks improved market sentiment. Government efforts to encourage major exporters to convert foreign currency proceeds and repatriate overseas funds also helped improve dollar liquidity and stabilize the currency."
+    },
+    {
+      "id": "mkt:019f8828-83c9-7aab-8e3a-86d066e0ab3d",
+      "time": "2026-07-22 12:49:44",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "Kpler data show only three merchant vessels transited the Strait of Hormuz yesterday."
+    },
+    {
+      "id": "mkt:019f8828-5e72-7aab-8e3a-782c39399127",
+      "time": "2026-07-22 12:49:34",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bearish"
+      ],
+      "text": "【CAAM vice president Fu Bingfeng: China auto market entering stock‑competition phase; firms urged to adopt long‑termism】At the 2026 China Auto Forum on July 22, Fu Bingfeng, executive vice president and secretary‑general of the China Association of Automobile Manufacturers (CAAM), said the domestic auto market’s incremental growth is narrowing and the industry has entered a new phase of competition for existing market share. He said competition has intensified and firms should defend fundamentals, return to rational competition and pursue high‑quality, sustainable development. Fu flagged three policy and supply risks: governance and institutional mechanisms need urgent improvement to support sustainable industry development; the industrial and supply chains have gaps, including weak domestic control of core foundational technologies and high external dependence on upstream critical minerals; and globalization faces multiple challenges."
+    },
+    {
+      "id": "5001477",
+      "time": "2026-07-22 12:47:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國汽車工業協會付炳鋒：邁向存量競爭新階段 要堅持長期主義】7月22日，中國汽車工業協會常務副會長兼秘書長付炳鋒在2026中國汽車論壇上表示，汽車行業轉型過程中暴露出來的新問題、新挑戰，已成為新時期行業亟待突破的時代命題。第一，市場競爭加劇，產業問題凸顯。目前，國內汽車市場增量空間在收窄，邁向存量競爭新階段。企業競爭要守住底線，迴歸理性，實現高質量健康發展；第二，治理體制機制亟需進一步完善，要推動產業實現良性可持續發展；第三，產業鏈供應鏈還存在一定短板和斷點，包括底層核心技術自主可控能力不足、上游關鍵礦產資源對外依存度高等；第四，全球化發展仍存在諸多挑戰。展望未來，付炳鋒表示，汽車行業要堅持長期主義，在技術創新、綠色轉型、全球化發展和治理體系現代化等領域實現全面升級。"
+    },
     {
       "id": "mkt:019f8825-4b18-7aab-8e3a-76acdec66909",
       "time": "2026-07-22 12:46:13",
@@ -165496,50 +165537,6 @@
         "公司"
       ],
       "text": "【“eVTOL第一股”億航智慧確認裁員 一季度淨虧1.26億 僅交付4架】幾日前，一則關於“eVTOL（無人駕駛載人航空器）第一股”億航智慧（NASDAQ:EH）正在裁員的市場訊息在業內流傳。今日紅星資本局向億航智慧求證相關資訊，對方確認了該資訊，並表示，公司近期開展組織效能最佳化與人才結構煥新，屬於正常企業管理動作。"
-    },
-    {
-      "id": "4989106",
-      "time": "2026-07-15 12:52:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "【內蒙古烏蘭察布市發生一起落水事故 造成2人溺亡】記者15日從內蒙古自治區烏蘭察布市有關部門獲悉，13日15時許，烏蘭察布市察哈爾高新技術開發區一在建專案的2名工人不慎掉入冷凝水箱溺亡。目前，事故具體原因仍在進一步調查中，有關部門正在開展善後工作。（央視）"
-    },
-    {
-      "id": "4989105",
-      "time": "2026-07-15 12:51:44",
-      "tags": [
-        "觀點"
-      ],
-      "text": "傑富瑞將高盛目標股價從1202美元上調至1299美元。"
-    },
-    {
-      "id": "4989104",
-      "time": "2026-07-15 12:49:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紐西蘭首次檢出H5N1禽流感 病毒源自遷徙海鳥】紐西蘭生物安全部長安德魯・霍加德（Andrew Hoggard）週三通報，首都惠靈頓附近海灘發現一隻遷徙海鳥，其H5N1高致病性禽流感檢測結果呈陽性，系該國首例該病毒感染病例。此次染病的鳥類為棕賊鷗。上月澳大利亞剛檢出該病毒，大洋洲成為全球最後一個出現該毒株的大洲。自2021年起，高致病性H5型禽流感病毒已在野生鳥類及哺乳動物間廣泛傳播，造成數百萬只動物死亡，大量家禽、奶牛養殖場遭波及，部分養殖場工作人員也出現感染情況。霍加德在宣告中表示：“目前沒有跡象顯示紐西蘭出現野生動物大規模死亡，也未發現野鳥間病毒傳播，家禽養殖場暫未檢出該病毒。”紐西蘭此前已提前部署應對H5N1禽流感，聯合家禽行業制定生物安全防控方案與風險應對預案。"
-    },
-    {
-      "id": "te:economy:567061",
-      "time": "2026-07-15 12:49:02",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Vietnam",
-        "Government Bond 10Y",
-        "Importance 0"
-      ],
-      "text": "Vietnam 10Y Bond Yield Hits 3-year High — Vietnam 10 Year Government Bond Yield increased to 4.54%, the highest since March 2023. Over the past 4 weeks, Vietnam 10Y Bond Yield gained 4.69 basis points, and in the last 12 months, it increased 117.50 basis points."
-    },
-    {
-      "id": "4989103",
-      "time": "2026-07-15 12:48:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗駐聯合國大使週三表示，伊朗在一封正式致聯合國的信函中記錄了42起所謂美國“明確且根本性”違反兩國諒解備忘錄的事件。 這封信函向聯合國提供了該大使所描述的美國反覆違反協議下承諾的詳細情況。"
     }
   ]
 }
