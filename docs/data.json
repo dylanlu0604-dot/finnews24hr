@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-23 03:36:32",
-  "count": 17661,
+  "updated": "2026-07-23 03:40:29",
+  "count": 17655,
   "items": [
+    {
+      "id": "mkt:019f8b57-7ebd-7aab-8e50-d45129c684b5",
+      "time": "2026-07-23 03:39:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's trade minister said talks with U.S. Trade Representative Greer will resume, but timing is not yet determined."
+    },
+    {
+      "id": "5002986",
+      "time": "2026-07-23 03:37:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長：我們將重啟與格里爾的談判，具體日期尚未確定。"
+    },
     {
       "id": "mkt:019f8b50-ec12-7aab-8e50-cee2603e8eeb",
       "time": "2026-07-23 03:32:44",
@@ -161117,86 +161133,6 @@
         "國際"
       ],
       "text": "特朗普：美伊局勢目前進展向好，伊朗極度希望達成和解；後續將見分曉，要麼握手言和，要麼徹底了結衝突。"
-    },
-    {
-      "id": "4990663",
-      "time": "2026-07-16 03:39:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：宣佈將向國防產業投入近100億美元。"
-    },
-    {
-      "id": "mkt:019f6749-cb83-7aab-8daf-c63d308bcba2",
-      "time": "2026-07-16 03:38:37",
-      "tags": [
-        "MKT News",
-        "LMT.O",
-        "Impact bullish",
-        "RTX.O",
-        "NOC.O"
-      ],
-      "text": "US President Trump said he will announce nearly $10 billion in investment in the defense industrial sector."
-    },
-    {
-      "id": "mkt:019f6749-3adf-7aab-8daf-be46766c8312",
-      "time": "2026-07-16 03:38:00",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "U.S. President Trump said on Iran he would see if an agreement with them can be reached."
-    },
-    {
-      "id": "4990660",
-      "time": "2026-07-16 03:37:25",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普談伊朗：我們能否與伊朗達成和解，屆時自有分曉。"
-    },
-    {
-      "id": "mkt:019f6748-964f-7aab-8daf-b467b4981e8f",
-      "time": "2026-07-16 03:37:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "Trump on Iran: they want to reach an agreement."
-    },
-    {
-      "id": "4990659",
-      "time": "2026-07-16 03:36:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "特朗普：伊朗非常渴望達成和解。"
-    },
-    {
-      "id": "4990658",
-      "time": "2026-07-16 03:36:43",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "結算後交易中，原油價格延續漲勢，WTI原油價格突破80美元/桶。"
-    },
-    {
-      "id": "mkt:019f6748-0e4b-7aab-8daf-abff274c164a",
-      "time": "2026-07-16 03:36:43",
-      "tags": [
-        "MKT News",
-        "Important",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Wall Street Journal reports President Trump is considering expanded military action against Iran, including intensified airstrikes, deploying ground forces to seize islands near the Strait of Hormuz, and strikes on nuclear-related facilities, but no final decision has been made."
     }
   ]
 }

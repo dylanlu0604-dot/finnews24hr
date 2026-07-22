@@ -1,7 +1,23 @@
 {
   "date": "2026-07-23",
-  "count": 278,
+  "count": 280,
   "items": [
+    {
+      "id": "mkt:019f8b57-7ebd-7aab-8e50-d45129c684b5",
+      "time": "2026-07-23 03:39:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's trade minister said talks with U.S. Trade Representative Greer will resume, but timing is not yet determined."
+    },
+    {
+      "id": "5002986",
+      "time": "2026-07-23 03:37:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西貿易部長：我們將重啟與格里爾的談判，具體日期尚未確定。"
+    },
     {
       "id": "mkt:019f8b50-ec12-7aab-8e50-cee2603e8eeb",
       "time": "2026-07-23 03:32:44",
