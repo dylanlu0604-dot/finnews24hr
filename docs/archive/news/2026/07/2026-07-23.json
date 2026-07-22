@@ -1,7 +1,50 @@
 {
   "date": "2026-07-23",
-  "count": 287,
+  "count": 291,
   "items": [
+    {
+      "id": "mkt:019f8b5d-d0d3-7aab-8e50-fd77c902a06a",
+      "time": "2026-07-23 03:46:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian outlet Fars News, citing local sources, reported Iran attacked US military positions stationed in eastern Jordan."
+    },
+    {
+      "id": "mkt:019f8b5c-96bc-7aab-8e50-f200a64b8965",
+      "time": "2026-07-23 03:45:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "US President Trump said the United States does not need the Strait of Hormuz and that Venezuela is cooperating with the US to produce oil."
+    },
+    {
+      "id": "mkt:019f8b5c-222a-7aab-8e50-ef31d0e4e817",
+      "time": "2026-07-23 03:44:58",
+      "tags": [
+        "MKT News",
+        "SPCX.O",
+        "Impact bearish"
+      ],
+      "text": "SpaceX (SPCX.O) fell to an intraday low, trading down 6.16% after earlier gaining nearly 1%."
+    },
+    {
+      "id": "5002992",
+      "time": "2026-07-23 03:44:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在伊朗取得勝利。"
+    },
     {
       "id": "5002991",
       "time": "2026-07-23 03:43:41",
