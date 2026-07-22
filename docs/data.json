@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-22 08:35:10",
-  "count": 18083,
+  "updated": "2026-07-22 08:39:09",
+  "count": 18086,
   "items": [
+    {
+      "id": "te:markets:568651",
+      "time": "2026-07-22 08:38:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 2"
+      ],
+      "text": "Yen Sinks to Fresh 40-Year Low — The Japanese yen weakened beyond 163 per dollar on Wednesday, sinking to its lowest level since October 1986 and keeping markets on high alert for possible government intervention to support the currency. The move came as escalating tensions in the Middle East drove oil prices higher, pressuring Japan’s economy which relies heavily on oil imports from the region. A stronger US dollar and rising Treasury yields also weighed on the yen, as the wide interest rate gap continued to encourage carry trades. Additionally, mounting fiscal concerns in Japan after the government unveiled massive spending plans, coupled with the Bank of Japan’s cautious approach to policy normalization, added further downward pressure on the currency. On the economic front, Japan’s trade balance returned to a deficit in June as import growth outpaced exports."
+    },
+    {
+      "id": "mkt:019f8741-e899-7aab-8e35-2625ea63f027",
+      "time": "2026-07-22 08:37:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Chip Wars",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "MU.O",
+        "AVGO.O"
+      ],
+      "text": "【Samsung Electronics up nearly 6%; SK Hynix intraday reclaims 2,000,000 won】Korean semiconductor stocks jumped in early trade on the 22nd after overnight US tech strength. As of 09:11 local time (08:11 Beijing), Samsung Electronics rose 5.79% to 274,000 won; SK Hynix gained 8.50%, intraday topping 2,000,000 won for the first time since July 15. US drivers: NVIDIA +1.97% as its next‑generation AI server platform Vera Rubin enters mass production and begins shipments to major customers; Micron +12.17% and Broadcom +2.21% lifted the Philadelphia Semiconductor Index 5.21%. SK Hynix ADR jumped 13.75% to $171.94 overnight. Foreign investors net bought 717.6 bln won in Korea’s electrical and electronics sector; retail and institutional investors net sold 370.6 bln won and 345.8 bln won, respectively."
+    },
+    {
+      "id": "5001088",
+      "time": "2026-07-22 08:37:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍完成對伊朗的第11個夜晚空襲。"
+    },
+    {
+      "id": "5001087",
+      "time": "2026-07-22 08:36:44",
+      "tags": [
+        "公司"
+      ],
+      "text": "HMVOD影片有限公司在香港暫停交易。"
+    },
     {
       "id": "te:economy:568650",
       "time": "2026-07-22 08:34:08",
@@ -22,6 +67,15 @@
         "國際"
       ],
       "text": "【韓國三星、SK、Naver高管將與英偉達黃仁勳會面】據韓聯社援引未具名的行業人士訊息，三星電子執行董事長李在鎔、SK集團會長崔泰源以及Naver創始人李海珍將於本週在美國與英偉達執行長黃仁勳會面。 此次圓桌會議預計於7月24日在矽谷附近舉行，OpenAI執行長薩姆·奧特曼和Anthropic執行長達里奧·阿莫迪也可能出席。 此次會議將匯聚人工智慧記憶體、GPU及生成式AI服務領域的領軍企業代表。"
+    },
+    {
+      "id": "em:jjsj_ozsj:202607223816348045",
+      "time": "2026-07-22 08:32:21",
+      "tags": [
+        "經濟數據",
+        "澳洲"
+      ],
+      "text": "澳大利亞6月西太平洋領先指標環比0.04%，前值-0.04%。"
     },
     {
       "id": "mkt:019f873b-a6bb-7aab-8e35-1e1156f4cd05",
@@ -166233,25 +166287,6 @@
         "國際"
       ],
       "text": "【OpenAI正調查影響ChatGPT的登入故障和報錯問題】根據OpenAI狀態頁面釋出的資訊，該公司正在調查影響ChatGPT的登入問題以及間歇性報錯。故障監測網站Downdetector資料顯示，截至美國東部時間晚上7時45分，已有約5,100份使用者報告反映OpenAI服務出現問題。"
-    },
-    {
-      "id": "4988709",
-      "time": "2026-07-15 08:38:33",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【巴克萊給出330美元目標價 SK海力士股價大幅走高】受隔夜美國存託憑證大漲27%提振，SK海力士在韓國交易所盤中最大漲幅達12%。巴克萊將SK海力士的評級範圍覆蓋其美國存託憑證（ADR），初始評級為“增持”，目標價為330美元。據測算，該目標價較週二收盤價存在70%上漲空間。由西蒙・科爾斯（SimonColes ）牽頭的分析師團隊在研報中表示：“我們預計2027年儲存晶片行業供需緊張態勢將進一步加劇，2028年供需格局改善空間有限。”分析師補充稱，在美國佈局前端晶圓製造業務，有望縮小其與美光之間的估值差距。在韓上市的SK海力士今年以來累計漲幅達221%。基準韓國綜合指數盤中最大上漲7.3%，三星電子上漲8%。"
-    },
-    {
-      "id": "4988708",
-      "time": "2026-07-15 08:35:52",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本40年期國債收益率上升5個基點至3.8%。"
     }
   ]
 }
