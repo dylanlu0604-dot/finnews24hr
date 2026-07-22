@@ -1,7 +1,69 @@
 {
   "date": "2026-07-22",
-  "count": 601,
+  "count": 607,
   "items": [
+    {
+      "id": "te:economy:568650",
+      "time": "2026-07-22 08:34:08",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Japan",
+        "Imports YoY",
+        "Importance 1"
+      ],
+      "text": "Japan Imports Notch Record High — Japan’s imports soared 25.4% yoy to a record peak of JPY 11,335.9 billion, accelerating from May's 12.5% rise, beating market forecasts of 21% while marking the fifth straight month of growth and the strongest increase since November 2022. The sharp rise in purchases reflected robust domestic demand, supported by the government's late-2025 stimulus measures."
+    },
+    {
+      "id": "5001086",
+      "time": "2026-07-22 08:33:44",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國三星、SK、Naver高管將與英偉達黃仁勳會面】據韓聯社援引未具名的行業人士訊息，三星電子執行董事長李在鎔、SK集團會長崔泰源以及Naver創始人李海珍將於本週在美國與英偉達執行長黃仁勳會面。 此次圓桌會議預計於7月24日在矽谷附近舉行，OpenAI執行長薩姆·奧特曼和Anthropic執行長達里奧·阿莫迪也可能出席。 此次會議將匯聚人工智慧記憶體、GPU及生成式AI服務領域的領軍企業代表。"
+    },
+    {
+      "id": "mkt:019f873b-a6bb-7aab-8e35-1e1156f4cd05",
+      "time": "2026-07-22 08:31:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia Westpac leading index MoM +0.04% in June, previous -0.04%."
+    },
+    {
+      "id": "5001085",
+      "time": "2026-07-22 08:30:55",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美司法部提議2027年6月開審所謂馬杜羅涉嫌販毒案】當地時間7月21日，美國司法部提議，於2027年6月開始審理所謂委內瑞拉總統尼古拉斯·馬杜羅涉嫌販毒一案。"
+    },
+    {
+      "id": "mkt:019f873b-864f-7aab-8e35-14f642e0f1c6",
+      "time": "2026-07-22 08:30:52",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Westpac Leading Index (MoM) (Jun) | actual 0.04% | previous -0.04%"
+    },
+    {
+      "id": "mkt:019f873b-7fb8-7aab-8e35-0f702e06f454",
+      "time": "2026-07-22 08:30:51",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "【Yonhap: Samsung, SK and Naver leaders to meet NVIDIA CEO in Silicon Valley】Yonhap reports Samsung Electronics chairman Lee Jae‑yong, SK Group chairman Chey Tae‑won and Naver chairman Lee Hae‑jin plan to meet NVIDIA CEO Jensen Huang in the U.S. Senior executives from the four firms are scheduled for a roundtable near Silicon Valley this week, sources said; the meeting is likely on July 24."
+    },
     {
       "id": "5001084",
       "time": "2026-07-22 08:30:36",
