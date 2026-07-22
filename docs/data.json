@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-22 23:40:48",
-  "count": 17689,
+  "updated": "2026-07-22 23:45:13",
+  "count": 17690,
   "items": [
+    {
+      "id": "5002819",
+      "time": "2026-07-22 23:44:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "雀巢即將出售飲用水業務部分股權，估值接近50億歐元。"
+    },
+    {
+      "id": "5002818",
+      "time": "2026-07-22 23:42:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "達索航空：2026年業績指引維持不變。"
+    },
+    {
+      "id": "5002817",
+      "time": "2026-07-22 23:42:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "達索航空：截至6月30日可用現金為100.99億歐元。"
+    },
+    {
+      "id": "5002816",
+      "time": "2026-07-22 23:42:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "達索航空：上半年調整後淨銷售額為41.57億歐元。"
+    },
+    {
+      "id": "5002815",
+      "time": "2026-07-22 23:42:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "達索航空上半年訂單額為28.8億歐元。"
+    },
+    {
+      "id": "5002814",
+      "time": "2026-07-22 23:42:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "達索航空上半年訂單儲備453.6億歐元，市場預期470.4億歐元。"
+    },
+    {
+      "id": "5002813",
+      "time": "2026-07-22 23:41:38",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "美國財政部發布貝森特與巴基斯坦財長會談紀要，紀要並未提及巴基斯坦提出設立貨幣互換安排的申請。"
+    },
+    {
+      "id": "5002812",
+      "time": "2026-07-22 23:41:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "捷克總理巴比什表示，政府或於2028年將布拉格機場40%的股份在股市發行上市。"
+    },
     {
       "id": "5002811",
       "time": "2026-07-22 23:39:15",
@@ -161523,74 +161588,6 @@
         "US10Y"
       ],
       "text": "RUSSIAN CENBANK says risk balance has further tilted toward inf amid fiscal stimulus and the fuel crisis."
-    },
-    {
-      "id": "mkt:019f6674-1b8b-7aab-8dab-3b13b8bf77d4",
-      "time": "2026-07-15 23:45:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "RUSSIAN CENBANK says Q2 economic activity exceeded Q1, indicating GDP is likely to register YoY growth."
-    },
-    {
-      "id": "4990471",
-      "time": "2026-07-15 23:43:45",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲主席沃什： 美聯儲關鍵基礎設施屬於公共品，供各類新舊金融機構使用。"
-    },
-    {
-      "id": "4990470",
-      "time": "2026-07-15 23:43:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "【直布羅陀與西班牙拆除邊境圍欄】關於直布羅陀未來地位的協議15日開始臨時執行，直布羅陀與西班牙之間的陸路邊境圍欄被拆除，人員和車輛跨境通行的常規邊境檢查取消。"
-    },
-    {
-      "id": "mkt:019f6672-7deb-7aab-8dab-31ead650e373",
-      "time": "2026-07-15 23:43:26",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【Anthropic to hold investor meetings ahead of potential IPO, sources say】Anthropic is holding investor meetings in the coming weeks as it prepares for a potential large IPO, people familiar with the matter said. Lead underwriters are arranging the meetings and the company has discussed a possible IPO as early as October. If it proceeds, Anthropic would precede rival OpenAI, which had eyed a fall 2026 listing but is reportedly considering delaying to 2027; both firms have quietly filed related paperwork."
-    },
-    {
-      "id": "mkt:019f6671-0ce5-7aab-8dab-2ec7a361fb21",
-      "time": "2026-07-15 23:41:52",
-      "tags": [
-        "MKT News",
-        "ASML.O",
-        "Impact bearish",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "According to The Information, TSMC (TSM.N) has begun pushing back against ASML's (ASML.O) pricing plan."
-    },
-    {
-      "id": "4990469",
-      "time": "2026-07-15 23:41:19",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【伊朗外交部：若美方違約，伊朗則反制】伊朗“平衡”通訊社15日援引伊朗外交部發言人的話報道，伊美諒解備忘錄只有在維護國家利益和安全的條件下才對伊朗有價值。報道說，伊朗會在對方遵守承諾的前提下履行義務；若對方違約伊朗會在必要時停止履約、採取反制。（新華社）"
-    },
-    {
-      "id": "mkt:019f6670-6724-7aab-8dab-23a1ad6660b2",
-      "time": "2026-07-15 23:41:10",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran: No current plans to negotiate, focused on defense】Iran’s foreign ministry spokesperson said the armed forces have made clear any aggression against Iranian territory will be met with an equivalent response. We currently have no plans to negotiate and are focused on defense. Memoranda of understanding are mutual commitments; if the other party breaches them, we will cease fulfilling our obligations, and the same principle will be applied going forward."
     }
   ]
 }
