@@ -1,7 +1,178 @@
 {
-  "updated": "2026-07-22 21:01:08",
-  "count": 17948,
+  "updated": "2026-07-22 21:05:16",
+  "count": 17949,
   "items": [
+    {
+      "id": "5002551",
+      "time": "2026-07-22 21:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "道達爾能源將繼續在法國維持燃油價格上限。"
+    },
+    {
+      "id": "5002550",
+      "time": "2026-07-22 21:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：卡米莉亞專案將在埃芬漢縣創造數千個建築和永久性工作崗位。"
+    },
+    {
+      "id": "5002549",
+      "time": "2026-07-22 21:03:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通與三星擴大合作：為三星Galaxy生態系統人工智慧搭載驍龍方案。"
+    },
+    {
+      "id": "5002548",
+      "time": "2026-07-22 21:03:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通與三星擴大合作，Snapdragon為新Galaxy 系列提供支援，涵蓋智慧手機、手錶和智慧眼鏡。"
+    },
+    {
+      "id": "5002547",
+      "time": "2026-07-22 21:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：OPENAI PRESENCE作為已部署產品，透過有限通用可用性計劃向符合條件的企業客戶提供。"
+    },
+    {
+      "id": "5002546",
+      "time": "2026-07-22 21:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：符合條件的企業客戶可透過限量公開試用計劃，以部署產品形式使用OpenAI Presence服務。"
+    },
+    {
+      "id": "mkt:019f89eb-d13e-7aab-8e48-926331f26ab2",
+      "time": "2026-07-22 21:02:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI plans to spend more than $30 bln to build new data centers."
+    },
+    {
+      "id": "mkt:019f89eb-51fb-7aab-8e48-8a7b70521644",
+      "time": "2026-07-22 21:02:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "WSJ reports AMD (AMD.O) has signed a multi-year engineering collaboration with ANTHROPIC; AMD will use Claude to accelerate software development."
+    },
+    {
+      "id": "5002545",
+      "time": "2026-07-22 21:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX AI 考慮在得克薩斯州擴建資料中心。"
+    },
+    {
+      "id": "5002544",
+      "time": "2026-07-22 21:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD：將採用 Claude 加速軟體開發。"
+    },
+    {
+      "id": "5002543",
+      "time": "2026-07-22 21:01:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率小幅走高，5年期（2026年到期）國債收益率接近4.40%的高位。"
+    },
+    {
+      "id": "mkt:019f89ea-8c44-7aab-8e48-84f22c545ece",
+      "time": "2026-07-22 21:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources told the Wall Street Journal that OpenAI has resumed internal efforts to tighten control over its data centers."
+    },
+    {
+      "id": "mkt:019f89ea-6ec0-7aab-8e48-7a1ae0499aca",
+      "time": "2026-07-22 21:01:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Wall Street Journal, citing people familiar with the matter, reports OpenAI has hired senior XAI executive Brent Mayo to help ensure its data-center projects progress on schedule."
+    },
+    {
+      "id": "5002542",
+      "time": "2026-07-22 21:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 全新 3.2 吉瓦算力專案選址佐治亞州薩凡納附近。"
+    },
+    {
+      "id": "mkt:019f89ea-37bd-7aab-8e48-70dfb53d8486",
+      "time": "2026-07-22 21:00:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reports OpenAI has raised its projected cloud-services spending to $750 bln from $600 bln."
+    },
+    {
+      "id": "5002541",
+      "time": "2026-07-22 21:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 上調雲端計算投入預期至 7500 億美元。"
+    },
+    {
+      "id": "5002540",
+      "time": "2026-07-22 21:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 擬向 Anthropic 進行最高 50 億美元股權投資。"
+    },
+    {
+      "id": "mkt:019f89e9-b826-7aab-8e48-6f64c6829b34",
+      "time": "2026-07-22 21:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Night session opened: China's main futures contracts were mostly higher — SC crude, low-sulfur fuel oil (LU), LPG and fuel oil up >2%; p-xylene, bottle-grade PET chips, benzene, polypropylene and soda ash up >1%. Caustic soda and soybean oil edged down."
+    },
+    {
+      "id": "5002538",
+      "time": "2026-07-22 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】鈀連續漲4.15%，鉑連續漲3.13%，上海原油連續漲2.47%，碳酸鋰連續漲2.21%，低硫燃料油連續漲2.16%。"
+    },
     {
       "id": "mkt:019f89e9-5427-7aab-8e48-6642ede6ffeb",
       "time": "2026-07-22 20:59:57",
@@ -164044,170 +164215,6 @@
         "國際"
       ],
       "text": "美聯儲威廉姆斯：美國經濟活力充沛。"
-    },
-    {
-      "id": "4990085",
-      "time": "2026-07-15 21:05:11",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金突破4080美元/盎司，日內漲0.25%。"
-    },
-    {
-      "id": "4990084",
-      "time": "2026-07-15 21:05:00",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員威廉姆斯：美國新增企業數量大幅激增。"
-    },
-    {
-      "id": "4990083",
-      "time": "2026-07-15 21:04:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【沃華醫藥：2026年上半年淨利潤6756.63萬元，同比增長51.23%】沃華醫藥公告，2026年上半年營業收入3.93億元，同比下降7.53%。淨利潤6756.63萬元，同比增長51.23%。公司經本次董事會審議透過的利潤分配預案為：以5.77億為基數，向全體股東每10股派發現金紅利1.17元（含稅），送紅股0股（含稅），不以公積金轉增股本。"
-    },
-    {
-      "id": "4990082",
-      "time": "2026-07-15 21:04:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【TCL科技：深交所併購重組委擬稽核公司收購股權事項】TCL科技公告稱，公司擬發行股份及支付現金購買廣東恆健投資等合計持有的廣州華星光電半導體顯示技術有限公司45.00%股權。深交所併購重組稽核委員會擬於近期稽核該交易事項，具體會議時間待確定後另行公告。本次交易尚需透過深交所稽核並獲證監會同意註冊批覆，最終能否透過稽核及時間仍存不確定性。"
-    },
-    {
-      "id": "4990081",
-      "time": "2026-07-15 21:04:18",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "【美聯儲威廉姆斯：通脹率過高但可能已見頂 勞動力市場表現穩健】美聯儲威廉姆斯表示，目前通脹率居高不下，美聯儲必須確保通脹率持續回落至2.0%的目標水平，而當前的貨幣政策立場處於適宜狀態。不過，他認為有令人鼓舞的跡象表明通脹可能已經見頂，並預計未來幾個季度通脹將逐步回落：到今年年底降至3.25%，隨後向2.0%的目標靠攏，最終在2028年實現該目標。威廉姆斯預計，今年及未來兩年實際GDP增長率將保持在2.0%至2.25%之間。他預計失業率將小幅回落至4.0%左右，並指出勞動力市場展現出了韌性與穩定性。"
-    },
-    {
-      "id": "4990080",
-      "time": "2026-07-15 21:03:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：一架以色列無人機向加沙地帶中部布賴傑難民營東部開火。"
-    },
-    {
-      "id": "4990079",
-      "time": "2026-07-15 21:03:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用磨坊、ADM與沃爾瑪展開合作，在中西部4萬英畝小麥種植區推進再生農業發展。"
-    },
-    {
-      "id": "mkt:019f65e0-1fb3-7aab-8da4-02a4a4c291de",
-      "time": "2026-07-15 21:03:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "An Israeli drone fired on the eastern part of the Bureij refugee camp in the central Gaza Strip."
-    },
-    {
-      "id": "mkt:019f65e0-0dd2-7aab-8da3-ff92edfb1488",
-      "time": "2026-07-15 21:03:30",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact mixed",
-        "DXY",
-        "US10Y"
-      ],
-      "text": "【Williams: Inflation still high but may have peaked; labor market steady】Fed's Williams said inflation remains elevated and the Fed must ensure a sustained decline to the 2.0% target, while current monetary policy is appropriately set. He sees signs inflation may have peaked and expects it to fall gradually over the next few quarters to about 3.25% by year-end, then move toward 2.0%, reaching the target by 2028. Williams projects real GDP growth around 2.0–2.25% this year and over the next two years, and expects the unemployment rate to edge down to roughly 4.0%, noting the labor market is resilient and stable."
-    },
-    {
-      "id": "4990078",
-      "time": "2026-07-15 21:02:54",
-      "tags": [
-        "公司",
-        "觀點",
-        "國際"
-      ],
-      "text": "【摩根士丹利股票交易業務創紀錄 加入華爾街大行“豐收季”】摩根士丹利股票交易業務收入再次重新整理季度紀錄，大幅超出華爾街預期。在市場表現強勁、波動持續的推動下，華爾街各大銀行第二財季股票交易業務普遍迎來豐收。根據摩根士丹利週三釋出的宣告，公司當季股票交易收入達63億美元，增長69%，打破了第一財季創下的歷史最高紀錄。此外，其備受關注的財富管理業務實現1481億美元淨新增資產，遠高於分析師預期。摩根士丹利的業績也為美國大型銀行第二財季財報季畫上句號。當季堪稱華爾街的“豐收季”，摩根大通、高盛、美國銀行和花旗集團的股票交易收入均超過市場預期，並創下歷史新高。"
-    },
-    {
-      "id": "4990077",
-      "time": "2026-07-15 21:02:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "空中客車表示，其與泰雷茲及GreenerWave組成的聯合體已從法國國防採購局獲得一份衛星終端框架協議。"
-    },
-    {
-      "id": "4990076",
-      "time": "2026-07-15 21:02:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國就合規支付體系收費制度開展公眾諮詢。"
-    },
-    {
-      "id": "4990075",
-      "time": "2026-07-15 21:01:49",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "波蘭財政部：截至6月底，波蘭外匯賬戶餘額規模相當於232億歐元。"
-    },
-    {
-      "id": "4990074",
-      "time": "2026-07-15 21:01:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "3M：將在客服、財務、銷售與營銷領域部署微軟人工智慧技術。"
-    },
-    {
-      "id": "mkt:019f65de-7601-7aab-8da3-f67901f1704d",
-      "time": "2026-07-15 21:01:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Poland's Finance Ministry said the foreign exchange account balance was €23.2 billion at end-June."
-    },
-    {
-      "id": "4990073",
-      "time": "2026-07-15 21:01:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "3M：將運用微軟人工智慧及數字化能力開展企業轉型。"
-    },
-    {
-      "id": "mkt:019f65de-43fd-7aab-8da3-ed2fe3865c90",
-      "time": "2026-07-15 21:01:32",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Microsoft",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "MMM.O",
-        "Impact bullish",
-        "MSFT.O"
-      ],
-      "text": "3M and Microsoft announce a strategic partnership to accelerate AI data-center infrastructure deployment and enterprise transformation."
-    },
-    {
-      "id": "4990072",
-      "time": "2026-07-15 21:01:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "3M 公司與微軟宣佈達成合作。"
     }
   ]
 }

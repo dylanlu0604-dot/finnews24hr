@@ -1,7 +1,178 @@
 {
   "date": "2026-07-22",
-  "count": 2704,
+  "count": 2723,
   "items": [
+    {
+      "id": "5002551",
+      "time": "2026-07-22 21:04:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "道達爾能源將繼續在法國維持燃油價格上限。"
+    },
+    {
+      "id": "5002550",
+      "time": "2026-07-22 21:04:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：卡米莉亞專案將在埃芬漢縣創造數千個建築和永久性工作崗位。"
+    },
+    {
+      "id": "5002549",
+      "time": "2026-07-22 21:03:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通與三星擴大合作：為三星Galaxy生態系統人工智慧搭載驍龍方案。"
+    },
+    {
+      "id": "5002548",
+      "time": "2026-07-22 21:03:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "高通與三星擴大合作，Snapdragon為新Galaxy 系列提供支援，涵蓋智慧手機、手錶和智慧眼鏡。"
+    },
+    {
+      "id": "5002547",
+      "time": "2026-07-22 21:02:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "OPENAI：OPENAI PRESENCE作為已部署產品，透過有限通用可用性計劃向符合條件的企業客戶提供。"
+    },
+    {
+      "id": "5002546",
+      "time": "2026-07-22 21:02:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：符合條件的企業客戶可透過限量公開試用計劃，以部署產品形式使用OpenAI Presence服務。"
+    },
+    {
+      "id": "mkt:019f89eb-d13e-7aab-8e48-926331f26ab2",
+      "time": "2026-07-22 21:02:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI plans to spend more than $30 bln to build new data centers."
+    },
+    {
+      "id": "mkt:019f89eb-51fb-7aab-8e48-8a7b70521644",
+      "time": "2026-07-22 21:02:08",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "WSJ reports AMD (AMD.O) has signed a multi-year engineering collaboration with ANTHROPIC; AMD will use Claude to accelerate software development."
+    },
+    {
+      "id": "5002545",
+      "time": "2026-07-22 21:01:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX AI 考慮在得克薩斯州擴建資料中心。"
+    },
+    {
+      "id": "5002544",
+      "time": "2026-07-22 21:01:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD：將採用 Claude 加速軟體開發。"
+    },
+    {
+      "id": "5002543",
+      "time": "2026-07-22 21:01:18",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債收益率小幅走高，5年期（2026年到期）國債收益率接近4.40%的高位。"
+    },
+    {
+      "id": "mkt:019f89ea-8c44-7aab-8e48-84f22c545ece",
+      "time": "2026-07-22 21:01:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources told the Wall Street Journal that OpenAI has resumed internal efforts to tighten control over its data centers."
+    },
+    {
+      "id": "mkt:019f89ea-6ec0-7aab-8e48-7a1ae0499aca",
+      "time": "2026-07-22 21:01:10",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Wall Street Journal, citing people familiar with the matter, reports OpenAI has hired senior XAI executive Brent Mayo to help ensure its data-center projects progress on schedule."
+    },
+    {
+      "id": "5002542",
+      "time": "2026-07-22 21:01:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 全新 3.2 吉瓦算力專案選址佐治亞州薩凡納附近。"
+    },
+    {
+      "id": "mkt:019f89ea-37bd-7aab-8e48-70dfb53d8486",
+      "time": "2026-07-22 21:00:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "AI Revolution",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "The Wall Street Journal, citing people familiar with the matter, reports OpenAI has raised its projected cloud-services spending to $750 bln from $600 bln."
+    },
+    {
+      "id": "5002541",
+      "time": "2026-07-22 21:00:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI 上調雲端計算投入預期至 7500 億美元。"
+    },
+    {
+      "id": "5002540",
+      "time": "2026-07-22 21:00:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 擬向 Anthropic 進行最高 50 億美元股權投資。"
+    },
+    {
+      "id": "mkt:019f89e9-b826-7aab-8e48-6f64c6829b34",
+      "time": "2026-07-22 21:00:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Night session opened: China's main futures contracts were mostly higher — SC crude, low-sulfur fuel oil (LU), LPG and fuel oil up >2%; p-xylene, bottle-grade PET chips, benzene, polypropylene and soda ash up >1%. Caustic soda and soybean oil edged down."
+    },
+    {
+      "id": "5002538",
+      "time": "2026-07-22 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】鈀連續漲4.15%，鉑連續漲3.13%，上海原油連續漲2.47%，碳酸鋰連續漲2.21%，低硫燃料油連續漲2.16%。"
+    },
     {
       "id": "mkt:019f89e9-5427-7aab-8e48-6642ede6ffeb",
       "time": "2026-07-22 20:59:57",
