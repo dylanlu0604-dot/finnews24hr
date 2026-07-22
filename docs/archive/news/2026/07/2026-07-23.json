@@ -1,7 +1,83 @@
 {
   "date": "2026-07-23",
-  "count": 130,
+  "count": 138,
   "items": [
+    {
+      "id": "mkt:019f8aeb-072b-7aab-8e4f-0fbe7511bca9",
+      "time": "2026-07-23 01:41:26",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "A senior executive at Mexican copper giant Grupo México said expansion projects at the Yinzhong copper mine and the Rey concentrator will not be affected by tariffs."
+    },
+    {
+      "id": "5002905",
+      "time": "2026-07-23 01:41:06",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "派拉蒙股價上漲至2%，歐盟批准收購華納的交易。"
+    },
+    {
+      "id": "5002904",
+      "time": "2026-07-23 01:40:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：美以安全協同合作同時旨在讓以色列做好應對伊朗局勢升級與火箭彈襲擊的準備，一旦出現上述情況，以色列將重啟對伊朗的打擊行動。"
+    },
+    {
+      "id": "mkt:019f8aea-3122-7aab-8e4f-06436daa13d9",
+      "time": "2026-07-23 01:40:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "PARA.O",
+        "Impact bearish"
+      ],
+      "text": "EU antitrust regulator said Paramount will exit its European film-distribution joint venture with United International Pictures and has pledged that for the next 10 years it will not enter into any film distribution agreements in Europe with Universal, nor transfer Warner Bros. film distribution rights to its own cinema distributor."
+    },
+    {
+      "id": "5002903",
+      "time": "2026-07-23 01:40:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯聯邦統計局表示，俄羅斯6月汽車產量同比增長73%。"
+    },
+    {
+      "id": "5002902",
+      "time": "2026-07-23 01:40:13",
+      "tags": [
+        "國際"
+      ],
+      "text": "航運業內人士稱，儘管美國堅稱霍爾木茲海峽航道暢通，但目前並無船隻通行。"
+    },
+    {
+      "id": "5002901",
+      "time": "2026-07-23 01:39:57",
+      "tags": [
+        "國際"
+      ],
+      "text": "烏克蘭總統澤連斯基：與特朗普的特使威特科夫和庫什納就重振外交和推動和平更近一步舉行了有益且重要的會談；烏克蘭長期以來已準備好以尊嚴實現和平，雙方團隊將保持密切聯絡，感謝特朗普和美國人民一如既往的支援。"
+    },
+    {
+      "id": "mkt:019f8ae8-afe1-7aab-8e4e-fb81cc68a132",
+      "time": "2026-07-23 01:38:52",
+      "tags": [
+        "MKT News",
+        "Important",
+        "PSKY.O",
+        "Impact bullish",
+        "WBD.O",
+        "Impact bearish"
+      ],
+      "text": "EU antitrust regulator clears Paramount (PSKY.O) $110 billion acquisition of Warner Bros. Discovery (WBD.O)."
+    },
     {
       "id": "mkt:019f8ae6-bda8-7aab-8e4e-f33caa6bbb6f",
       "time": "2026-07-23 01:36:45",
