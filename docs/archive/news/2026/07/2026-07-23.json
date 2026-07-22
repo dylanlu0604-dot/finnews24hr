@@ -1,7 +1,47 @@
 {
   "date": "2026-07-23",
-  "count": 615,
+  "count": 619,
   "items": [
+    {
+      "id": "5003200",
+      "time": "2026-07-23 07:44:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優步裁減10%的客服崗位，理由是“擁抱”人工智慧】優步科技公司表示，作為精簡人員架構、全面擁抱人工智慧整體戰略的一環，公司已裁撤客服業務10%的崗位。優步一名發言人透過郵件透露，公司於週三公佈了社群運營團隊的裁員計劃，稱此次調整旨在“簡化運營流程、強化線下協作，並持續推進人工智慧落地應用”。該發言人補充，按照公司全員返崗辦公要求，該團隊原遠端辦公員工也需前往線下中心辦公室履職。"
+    },
+    {
+      "id": "mkt:019f8c37-64a0-7aab-8e54-7ad7a7075eee",
+      "time": "2026-07-23 07:44:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CSC Financial: Copper, aluminum demand growth to improve】CSC Financial says industrial metal prices reflect both financial and commodity attributes; the Fed has begun an easing cycle and global copper and aluminum inventories are relatively low. With an expected Chinese economic rebound and continued demand from the new energy sector, CSC says copper and aluminum demand growth should pick up."
+    },
+    {
+      "id": "5003199",
+      "time": "2026-07-23 07:43:56",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信建投：銅鋁需求增長將有所好轉】中信建投研報稱，工業金屬價格由“金融屬性”及“商品屬性”共同決定，從金融屬性來看，美聯儲已開啟降息週期；從商品屬性來看，全球銅鋁庫存均處於相對低位，中國經濟復甦可期，疊加新能源行業的拉動，銅鋁需求增長將有所好轉。"
+    },
+    {
+      "id": "5003198",
+      "time": "2026-07-23 07:43:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤上漲175點，報66235點。"
+    },
     {
       "id": "5003197",
       "time": "2026-07-23 07:40:40",

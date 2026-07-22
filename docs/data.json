@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-23 07:43:35",
-  "count": 17699,
+  "updated": "2026-07-23 07:47:31",
+  "count": 17696,
   "items": [
+    {
+      "id": "5003200",
+      "time": "2026-07-23 07:44:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【優步裁減10%的客服崗位，理由是“擁抱”人工智慧】優步科技公司表示，作為精簡人員架構、全面擁抱人工智慧整體戰略的一環，公司已裁撤客服業務10%的崗位。優步一名發言人透過郵件透露，公司於週三公佈了社群運營團隊的裁員計劃，稱此次調整旨在“簡化運營流程、強化線下協作，並持續推進人工智慧落地應用”。該發言人補充，按照公司全員返崗辦公要求，該團隊原遠端辦公員工也需前往線下中心辦公室履職。"
+    },
+    {
+      "id": "mkt:019f8c37-64a0-7aab-8e54-7ad7a7075eee",
+      "time": "2026-07-23 07:44:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "【CSC Financial: Copper, aluminum demand growth to improve】CSC Financial says industrial metal prices reflect both financial and commodity attributes; the Fed has begun an easing cycle and global copper and aluminum inventories are relatively low. With an expected Chinese economic rebound and continued demand from the new energy sector, CSC says copper and aluminum demand growth should pick up."
+    },
+    {
+      "id": "5003199",
+      "time": "2026-07-23 07:43:56",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【中信建投：銅鋁需求增長將有所好轉】中信建投研報稱，工業金屬價格由“金融屬性”及“商品屬性”共同決定，從金融屬性來看，美聯儲已開啟降息週期；從商品屬性來看，全球銅鋁庫存均處於相對低位，中國經濟復甦可期，疊加新能源行業的拉動，銅鋁需求增長將有所好轉。"
+    },
+    {
+      "id": "5003198",
+      "time": "2026-07-23 07:43:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤上漲175點，報66235點。"
+    },
     {
       "id": "5003197",
       "time": "2026-07-23 07:40:40",
@@ -161777,64 +161817,6 @@
         "觀點"
       ],
       "text": "【中金：食品飲料行業板塊估值修復預期有望逐步落地】中金公司研報指出，當前食品飲料行業整體處於底部復甦、結構分化的核心配置視窗，估值整體回落至歷史低位區間，安全邊際足。行業追求高質價比、功能性、健康性趨勢延續，零食量販、會員商超、即時零售有望持續貢獻渠道增量。展望下半年，隨著新消費場景陸續湧現，板塊估值修復預期有望逐步落地。中金堅持堅守龍頭、佈局復甦、精選價值的投資策略，白酒板塊把握估值修復與高股息紅利，大眾食品聚焦競爭力突出及業績確定性強的板塊龍頭、估值合理及基本面持續改善的標的&高股息穩健增長的價值標的。"
-    },
-    {
-      "id": "4990908",
-      "time": "2026-07-16 07:46:42",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤上漲0.11點。"
-    },
-    {
-      "id": "4990907",
-      "time": "2026-07-16 07:45:30",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經平均指數期貨早盤下跌1.6%。"
-    },
-    {
-      "id": "4990906",
-      "time": "2026-07-16 07:45:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【報道：歐洲冬季前補庫天然氣的行動愈發艱難】據報道，隨著伊朗戰爭推高價格，歐洲全力補充天然氣儲備的行動變得愈發艱難，交易商在冬季前購氣並儲存的利潤空間因此受到擠壓。衝突嚴重干擾了經由霍爾木茲海峽的LNG運輸流量；該海峽此前通常承載全球約20%的液化天然氣(LNG)運輸量；與此同時，伊朗的襲擊摧毀了卡達17%的LNG出口產能。自戰爭爆發以來，歐洲天然氣價格已飆升逾70%。目前，歐盟各地的天然氣儲氣設施儲量約為52%，注氣速度低於去年同期及過去10年的夏季平均水平，這引發了市場對部分國家可能難以重建儲備的擔憂。"
-    },
-    {
-      "id": "mkt:019f682b-1c2b-7aab-8db1-fa3dcdf65f63",
-      "time": "2026-07-16 07:44:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【CITIC JianTou: Watch green low‑carbon shift in energy mix, new energy and hydrogen‑based fuels】CITIC JianTou research note flagged the State Council’s “15th Five-Year Carbon Peak Action Plan,” which directs industrial greening, accelerated energy‑structure adjustment and deeper low‑carbon transitions in key sectors. The plan endorses a multi‑source power mix—wind, solar, hydro and nuclear—calls for stronger support for renewables and accelerated improvements in the power system’s renewable absorption capacity. On fuel consumption it seeks continued optimization of oil and gas use, orderly substitution of oil in chemical feedstocks, pilot applications of green hydrogen, ammonia and methanol in the chemical industry, and cautious replacement of oil for industrial power and heat."
-    },
-    {
-      "id": "4990905",
-      "time": "2026-07-16 07:44:42",
-      "tags": [
-        "公司"
-      ],
-      "text": "【A股分紅派息轉增一覽：62股今日股權登記】Wind資料顯示，根據上市公司權益分配方案梳理統計，62只A股今日股權登記。其中，57股擬派息，5股派息、轉增或送股同時實施。分紅派息方面，57只個股分紅派息的股權登記日為7月16日。古井貢酒、中國太保、瀚藍環境分紅力度最大，每10股分別派息34.00元、11.50元、8.00元。5股派息、轉增或送股同時實施，股權登記日為7月16日。華銳精密、信通電子、溯聯股份分紅力度最大，每10股分別派息6.00元、5.00元、5.00元。"
-    },
-    {
-      "id": "4990904",
-      "time": "2026-07-16 07:44:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "【深圳等一線城市租房需求攀升 租金房價比持續抬升】與房價相比，房租是和居民生活成本關聯更為直接的指標。隨著2026年暑期租賃高峰全面到來，深圳等一線城市租房需求快速攀升，租賃市場率先走出調整通道。近日，證券時報記者走訪深圳市羅湖區、龍崗區、福田區多個住宅小區與城中村發現，伴隨畢業季求職、換房需求集中釋放，深圳租賃市場活躍度顯著提升，城市人口吸引力與經濟活力在租房資料中得到直觀體現。從全國範圍來看，今年上半年一線城市平均租金實現小幅上漲，正式結束此前連續兩年的調整態勢。租金房價比是衡量住房資產配置價值的核心指標。中指研究院研究主管程威表示，近年來受房價持續調整而租金跌幅相對平緩影響，截至6月重點50城租金房價比已升至2.28%，較2023年初低點提高0.3個百分點，租賃資產配置價值逐漸提升。"
-    },
-    {
-      "id": "4990903",
-      "time": "2026-07-16 07:43:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "【科威特軍方稱正在攔截“敵方”空中目標】當地時間16日凌晨，科威特軍方釋出訊息稱，科防空系統正在攔截“敵方”空中目標。"
     }
   ]
 }
