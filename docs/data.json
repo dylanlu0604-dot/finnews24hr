@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-23 00:35:19",
-  "count": 17685,
+  "updated": "2026-07-23 00:39:30",
+  "count": 17684,
   "items": [
+    {
+      "id": "mkt:019f8ab1-c184-7aab-8e4d-e846f774808d",
+      "time": "2026-07-23 00:38:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Israeli Defense Forces said on Wednesday it stopped and detained several Israeli citizens attempting to cross into Syria in the Hermon area, condemning the attempt as a \"criminal act\" that endangered border security."
+    },
+    {
+      "id": "mkt:019f8ab0-42d1-7aab-8e4d-e006caf0cd9b",
+      "time": "2026-07-23 00:37:14",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish",
+        "Hang Seng Index",
+        "CSI300"
+      ],
+      "text": "【Wang Yi on China-ASEAN cooperation achievements】Chinese foreign minister Wang Yi said the China‑ASEAN Free Trade Area 3.0 upgrade protocol has been formally signed; China and ASEAN have been each other’s largest trading partner for six consecutive years, with bilateral trade exceeding US$1 trillion in 2025. Beijing launched an \"ASEAN visa\" and the China‑ASEAN Year of Cultural Exchanges (2024–2025) staged nearly 200 major events to boost cross‑border travel and services flows. China reached key consensus with eight ASEAN countries on building bilateral \"communities of shared destiny,\" strengthening the basis for closer China‑ASEAN integration. Beijing provided immediate disaster relief after earthquakes in Myanmar and the Philippines’ Mindanao, underscoring operational cooperation with ASEAN partners."
+    },
+    {
+      "id": "5002863",
+      "time": "2026-07-23 00:35:48",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "烏軍方副總司令：烏克蘭將在兩至三個月內部署鐳射武器，其攔截目標的效能優於機槍。"
+    },
+    {
+      "id": "5002862",
+      "time": "2026-07-23 00:35:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普社交媒體發文：以下是投票時完全不需要任何帶照片身份證件的州和哥倫比亞特區。你注意到這些州有什麼共同點嗎？\n加利福尼亞州 \n夏威夷州 \n伊利諾伊州 \n緬因州 \n馬里蘭州 \n馬薩諸塞州 \n明尼蘇達州 \n內華達州 \n新澤西州 \n新墨西哥州 \n紐約州 \n俄勒岡州 \n佛蒙特州 \n華盛頓州 \n華盛頓特區"
+    },
     {
       "id": "5002861",
       "time": "2026-07-23 00:34:12",
@@ -161431,50 +161468,6 @@
         "DXY"
       ],
       "text": "Russian Defence Ministry said Russian forces used \"Geran-4\" drones to strike a cargo ship at the port of Chornomorsk in Odesa region and Ukrainian vessels in the Dnipro-Buh estuary."
-    },
-    {
-      "id": "mkt:019f66a4-0ad4-7aab-8dac-493e1c54435c",
-      "time": "2026-07-16 00:37:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: a BP spokesperson said the company plans to close its BP Ventures team."
-    },
-    {
-      "id": "4990509",
-      "time": "2026-07-16 00:37:08",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：俄羅斯稱已打擊烏克蘭喬爾諾莫斯克港內船隻。"
-    },
-    {
-      "id": "4990508",
-      "time": "2026-07-16 00:36:36",
-      "tags": [
-        "市場"
-      ],
-      "text": "【英特爾股價跌破100整數關口】英特爾(INTC.O)跌超7%，股價跌破100美元，為6月5日以來首次。"
-    },
-    {
-      "id": "mkt:019f66a2-73aa-7aab-8dac-42c11ed1b321",
-      "time": "2026-07-16 00:35:50",
-      "tags": [
-        "MKT News",
-        "Important",
-        "INTC.O",
-        "Impact bearish"
-      ],
-      "text": "【Intel shares fall below $100】Intel (INTC.O) shares fell more than 7% to below $100, their lowest level since June 5."
-    },
-    {
-      "id": "4990507",
-      "time": "2026-07-16 00:35:23",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守57美元/盎司，日內跌3.59%。"
     }
   ]
 }
