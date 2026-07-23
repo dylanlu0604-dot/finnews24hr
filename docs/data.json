@@ -1,7 +1,48 @@
 {
-  "updated": "2026-07-24 00:35:14",
-  "count": 18016,
+  "updated": "2026-07-24 00:39:20",
+  "count": 18020,
   "items": [
+    {
+      "id": "5005202",
+      "time": "2026-07-24 00:38:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "提示：AMD 執行長蘇姿豐於舊金山舉辦的公司活動上發表講話。"
+    },
+    {
+      "id": "5005201",
+      "time": "2026-07-24 00:38:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 稱到 2030 年 AI 加速器市場規模將達 1.4 萬億美元。"
+    },
+    {
+      "id": "5005200",
+      "time": "2026-07-24 00:37:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科學家揭開木黴菌協同植物生長素轉運秘密】記者23日從南京農業大學獲悉，該校沈其榮院士團隊經過多年探索，首次揭示有益真菌木黴如何借用植物自身的生長素運輸系統，從而促進植物生長發育的分子機制，為微生物肥料提質、作物綠色增產開闢全新應用路徑。相關成果23日發表於國際學術期刊《細胞》。(新華社)"
+    },
+    {
+      "id": "5005199",
+      "time": "2026-07-24 00:37:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日元對美元匯率跌至新低】受中東局勢持續緊張、國際油價上漲等因素影響，紐約外匯市場美東時間23日日元對美元匯率一度跌至163.96日元兌換1美元，再創新低。分析人士認為，中東局勢持續緊張推動國際油價上漲，加劇市場對通脹的擔憂，投資者對美國提前加息的預期升溫，美元走強，日元進一步承壓。此前，美東時間21日日元對美元匯率一度跌至163.18日元兌換1美元，創1986年12月以來新低。(新華社)"
+    },
+    {
+      "id": "5005198",
+      "time": "2026-07-24 00:37:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：星艦第十三次發射測試將於今早6點12分開始。"
+    },
     {
       "id": "5005197",
       "time": "2026-07-24 00:34:30",
@@ -165086,19 +165127,6 @@
         "市場"
       ],
       "text": "【德國兩年期國債收益率漲超2個基點】週四（7月16日）歐市尾盤，德國10年期國債收益率漲1.2個基點，報3.134%，亞太尾盤以來持續走高，整體交投於3.122%-3.164%區間，北京時間20:42重新整理日高。兩年期德債收益率漲2.5個基點，報2.772%，日內交投於2.745%-2.791%區間；30年期德債收益率漲1.2個基點，報3.648%。2/10年期德債收益率利差跌1.236個基點，報+35.993個基點。"
-    },
-    {
-      "id": "mkt:019f6bc9-98f8-7aab-8dcd-681d9a0cbc86",
-      "time": "2026-07-17 00:36:41",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Wall Street (US)",
-        "BAC.O",
-        "C.O",
-        "GS.O"
-      ],
-      "text": "【Wall Street banks' Q2 job cuts largest in six years】Quarterly filings show BofA, Wells Fargo, Citigroup, Goldman Sachs and Morgan Stanley cut more than 10,000 employees in Q2, the biggest quarterly headcount drop since early 2020. Only JP Morgan reported a slight increase in staff since end-Q1. Major lenders have now reduced staff for three consecutive quarters. Citigroup has continued headcount trimming in recent months as CEO Jane Fraser pushes to lift returns. BofA CFO Alastair Borthwick said on the earnings call this week, \"Over the past six quarters we've executed very well on workforce management.\" BofA headcount was down nearly 1% YoY."
     }
   ]
 }
