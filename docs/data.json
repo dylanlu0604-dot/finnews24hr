@@ -1,7 +1,99 @@
 {
-  "updated": "2026-07-24 03:03:34",
-  "count": 18006,
+  "updated": "2026-07-24 03:07:29",
+  "count": 18011,
   "items": [
+    {
+      "id": "5005352",
+      "time": "2026-07-24 03:06:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：如果到8月19日（特朗普關稅生效日）仍然無法與美國達成和解方案，一切都是可能的。"
+    },
+    {
+      "id": "mkt:019f905e-3f5a-7aab-8e72-1207277b5e78",
+      "time": "2026-07-24 03:05:23",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "Canadian Prime Minister Carney said if an agreement cannot be reached on the latest US tariff threat, Canada will consider all options."
+    },
+    {
+      "id": "mkt:019f905e-0ff4-7aab-8e72-0b96a36248c9",
+      "time": "2026-07-24 03:05:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said contacts with the US this week demonstrated the level and breadth of interaction, underscoring the importance of bilateral trade ties."
+    },
+    {
+      "id": "5005351",
+      "time": "2026-07-24 03:05:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長：OpenAI 相關部署工作正按計劃推進， OpenAI 已重金押注 AMD。"
+    },
+    {
+      "id": "5005350",
+      "time": "2026-07-24 03:04:43",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：若雙方無法就美國最新關稅威脅達成協議，所有反制手段都將納入考量。"
+    },
+    {
+      "id": "5005349",
+      "time": "2026-07-24 03:03:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長： 預計旗下所有業務板塊增速均將跑贏行業大盤。"
+    },
+    {
+      "id": "5005348",
+      "time": "2026-07-24 03:03:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長：公司有信心在規模化算力領域佔據行業領先地位。"
+    },
+    {
+      "id": "mkt:019f905c-80bd-7aab-8e72-01948e38ed8d",
+      "time": "2026-07-24 03:03:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Hang Seng Index",
+        "Impact bearish"
+      ],
+      "text": "Hang Seng Index futures night session closed down 1.29% at 24,885, trading 326 points below the cash Hang Seng Index."
+    },
+    {
+      "id": "5005347",
+      "time": "2026-07-24 03:03:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：加拿大本週與美國開展的各項互動，無論溝通頻次還是覆蓋領域，都體現出雙方對雙邊貿易關係的高度重視。"
+    },
+    {
+      "id": "te:markets:569368",
+      "time": "2026-07-24 03:02:42",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Tops $100 — Brent surged more than 6% to trade above $100 per barrel on Thursday, extending gains for a fifth consecutive session and reaching its highest level since May as escalating hostilities in the Middle East heightened concerns over global supply disruptions. US President Trump warned that the US would hold Iran responsible for any future Houthi attacks on commercial shipping in the Red Sea, threatening Tehran and the Yemen-based militants with \"major military punishment.\" He also said he was \"considering a massive attack\" against Iran. The comments followed Houthi attacks on two Saudi oil tankers in the Red Sea, which the group said were intended to enforce a newly announced blockade of Saudi ports. Oil prices have now climbed more than 30% from the pre-conflict levels seen earlier this month. Adding to supply concerns, Kazakhstan's decision to suspend crude exports through the Caspian Pipeline Consortium terminal following drone attacks further tightened the market outlook."
+    },
     {
       "id": "5005346",
       "time": "2026-07-24 03:02:08",
@@ -164884,58 +164976,6 @@
         "XAUUSD"
       ],
       "text": "Mehr News Agency reports explosions heard in Ahvaz, Iran."
-    },
-    {
-      "id": "4992891",
-      "time": "2026-07-17 03:06:01",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗武裝部隊高階發言人：自停火協議宣佈以來，美軍戰機沒有一天離開過霍爾木茲海峽。"
-    },
-    {
-      "id": "mkt:019f6c52-4b7a-7aab-8dd0-1072ee8ea1c2",
-      "time": "2026-07-17 03:06:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bearish"
-      ],
-      "text": "Hang Seng Index futures night session closed down 0.29% at 24,917, trading 92 points below the cash index."
-    },
-    {
-      "id": "mkt:019f6c51-828e-7aab-8dd0-0debb384e4ec",
-      "time": "2026-07-17 03:05:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said if Iranian infrastructure is damaged it will treat all related infrastructure in the region as targets for strikes."
-    },
-    {
-      "id": "4992890",
-      "time": "2026-07-17 03:04:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗武裝部隊高階發言人：我們堅持要求美國撤出該地區，且我們在霍爾木茲海峽問題上絕不退讓。"
-    },
-    {
-      "id": "mkt:019f6c50-da55-7aab-8dd0-045d620ddfbb",
-      "time": "2026-07-17 03:04:25",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) says Iran can sustain prolonged combat against its adversaries."
     }
   ]
 }
