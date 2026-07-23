@@ -1,7 +1,65 @@
 {
   "date": "2026-07-23",
-  "count": 3345,
+  "count": 3351,
   "items": [
+    {
+      "id": "mkt:019f8f44-b80e-7aab-8e6d-7507e1d88359",
+      "time": "2026-07-23 21:57:53",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "South African rand fell more than 2% against the US dollar, the worst-performing emerging-market currency."
+    },
+    {
+      "id": "5004994",
+      "time": "2026-07-23 21:57:15",
+      "tags": [
+        "國際"
+      ],
+      "text": "【兩位中國籍數學家獲菲爾茲獎】在7月23日於美國費城舉行的2026年國際數學家大會開幕式上，中國籍數學家王虹獲得菲爾茲獎。菲爾茲獎被譽為“數學界諾貝爾獎”，此次鄧煜、王虹獲獎，也是中國籍數學家首次獲得菲爾茲獎。 （央視新聞）"
+    },
+    {
+      "id": "5004993",
+      "time": "2026-07-23 21:56:42",
+      "tags": [
+        "市場"
+      ],
+      "text": "義大利DOVALUE股票在暫停交易後恢復交易，股價下跌10.4%。"
+    },
+    {
+      "id": "te:markets:569333",
+      "time": "2026-07-23 21:56:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Cotton Near One-Week High — Cotton prices hovered around 80 cents per pound, rebounding toward a one-week high as weather-driven supply concerns outweighed robust Brazilian production outlook. In India, weather remained in focus, with the monsoon bringing the country's fifth-driest June on record and rainfall running nearly 40% below normal. As much of India's farmland still relies on rain-fed irrigation, prolonged dry spells interspersed with intense downpours raised concerns over disrupted summer crop sowing. Meanwhile, as domestic prices approach the minimum support price, increased government procurement reduce available cotton for private buyers, lifting prices. Still, higher crude oil prices improved cotton's competitiveness against synthetic fibres by raising polyester production costs, while expectations of ample global supply persisted as Brazil reported record cotton exports in the 2024/25 season and projected output to increase by a further 13% in 2025/26, limiting further gains in cotton prices."
+    },
+    {
+      "id": "5004992",
+      "time": "2026-07-23 21:55:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家能源輸送協調局官員表示：白宮無法容忍 PJM 電力系統持續故障。"
+    },
+    {
+      "id": "5004991",
+      "time": "2026-07-23 21:54:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中加舉行第三次高階別國家安全與法治對話】第三次中加高階別國家安全與法治對話22日在京舉行，雙方就打擊跨國犯罪、反恐、禁毒、移民執法合作等問題深入交換意見。中共中央政法委秘書長誾柏與加拿大總理外交和國際事務高階顧問莫里森共同主持對話。雙方一致表示，願共同落實好兩國領導人在安全領域達成的合作共識，發揮國家安全與法治對話機制作用，加強國家安全和執法司法等領域合作，助推構建兩國新型戰略伙伴關係。中央政法委、外交部、公安部、國家安全部有關人員參加對話。（新華社）"
+    },
     {
       "id": "mkt:019f8f3f-a299-7aab-8e6d-6d0556352d9a",
       "time": "2026-07-23 21:52:19",
