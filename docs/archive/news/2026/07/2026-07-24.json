@@ -1,7 +1,47 @@
 {
   "date": "2026-07-24",
-  "count": 227,
+  "count": 231,
   "items": [
+    {
+      "id": "mkt:019f9050-cb27-7aab-8e71-c803fef0ae38",
+      "time": "2026-07-24 02:50:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "President Trump said Iranians want talks but are not ready."
+    },
+    {
+      "id": "mkt:019f9050-0bb6-7aab-8e71-c494160e2e98",
+      "time": "2026-07-24 02:49:52",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "President Trump said the United States cannot allow Iran to possess nuclear weapons."
+    },
+    {
+      "id": "mkt:019f904f-85d4-7aab-8e71-ba9c94836b1a",
+      "time": "2026-07-24 02:49:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude futures settled at $100.69/bbl, up $6.62 or 7.04%."
+    },
+    {
+      "id": "5005336",
+      "time": "2026-07-24 02:47:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：我們在應對伊朗問題上處理得很好，絕不會允許其擁有核武器。"
+    },
     {
       "id": "5005335",
       "time": "2026-07-24 02:46:44",
