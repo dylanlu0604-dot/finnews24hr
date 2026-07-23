@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-24 01:21:22",
-  "count": 18030,
+  "updated": "2026-07-24 01:25:19",
+  "count": 18031,
   "items": [
+    {
+      "id": "5005262",
+      "time": "2026-07-24 01:23:09",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長表示 Venice 處理器已全面量產，市場客戶需求旺盛。"
+    },
+    {
+      "id": "mkt:019f9000-7bfb-7aab-8e70-a75b159c452d",
+      "time": "2026-07-24 01:22:58",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "AMD.O",
+        "Impact bullish",
+        "NVDA.O",
+        "Impact bearish"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said the new EPYC processors deliver about 20% higher CPU performance versus Nvidia's CPUs."
+    },
+    {
+      "id": "5005261",
+      "time": "2026-07-24 01:22:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長稱搭載 Venice 架構的系統將於第四季度上市。"
+    },
+    {
+      "id": "5005260",
+      "time": "2026-07-24 01:22:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列政府第14次將關閉半島電視臺駐耶路撒冷辦事處及禁止其在以運營的禁令延長90天。"
+    },
+    {
+      "id": "mkt:019f8fff-1fdb-7aab-8e70-9fa072b142c1",
+      "time": "2026-07-24 01:21:29",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said the company's new server CPU holds a clear lead over Arm-based chips."
+    },
+    {
+      "id": "5005259",
+      "time": "2026-07-24 01:21:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 表示全新 EPYC 處理器效能較英偉達 CPU 高出 20%。"
+    },
     {
       "id": "5005258",
       "time": "2026-07-24 01:19:33",
@@ -165115,49 +165176,6 @@
         "國際"
       ],
       "text": "美聯儲施密德：如果只關注供給衝擊，可能為時已晚，難以收緊政策。"
-    },
-    {
-      "id": "4992795",
-      "time": "2026-07-17 01:22:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "卡羅琳・萊維特再度公開讚揚沃爾瑪。"
-    },
-    {
-      "id": "mkt:019f6bf3-8770-7aab-8dce-3e65dc5a3c0f",
-      "time": "2026-07-17 01:22:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The White House said President Trump will travel to New York tomorrow (local time Friday)."
-    },
-    {
-      "id": "mkt:019f6bf2-f201-7aab-8dce-32f4b60ca68a",
-      "time": "2026-07-17 01:21:51",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says President Trump will attend the World Cup final."
-    },
-    {
-      "id": "4992794",
-      "time": "2026-07-17 01:21:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮稱特朗普將出席世界盃決賽。"
-    },
-    {
-      "id": "mkt:019f6bf2-7f19-7aab-8dce-2d1125865684",
-      "time": "2026-07-17 01:21:22",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "TASNIM NEWS reports the U.S. Embassy in Iraq has issued a security alert, urging U.S. citizens in Iraq to maintain heightened vigilance and warning that regional airspace may be temporarily closed."
     }
   ]
 }
