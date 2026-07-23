@@ -1,7 +1,166 @@
 {
   "date": "2026-07-23",
-  "count": 2742,
+  "count": 2760,
   "items": [
+    {
+      "id": "te:economy:569279",
+      "time": "2026-07-23 19:52:31",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Kosovo",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Kosovo Trade Deficit Widens in June — Kosovo recorded a trade deficit of €578.3 million in June 2026, widening from a €498.3 million in the same month a year earlir. Imports rose 17.6% year-on-year to EUR 680.3 million, driven by broad-based increases, with mineral products (15.2%), machinery and electrical equipment (13.0%), and transport equipment (12.0%) accounting for the largest shares. China (15.1%), Germany (13.3%), and Turkey (11.6%) remained the country's leading suppliers. Exports increased at a faster annual pace of 26.9% to EUR 102.0 million, supported by widespread gains, led by base metals and related products (27.4%) and prepared food, beverages, and tobacco (12.7%). North Macedonia (16.7%), Albania (14.3%), Germany (10.1%), and Switzerland (10.0%) were the main export destinations. In the first six months of 2026, Kosovo's cumulative trade deficit widened to EUR 3.09 billion."
+    },
+    {
+      "id": "5004673",
+      "time": "2026-07-23 19:52:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "【宏盛華源：大股東及其一致行動人擬合計減持不超1%股份】宏盛華源公告稱，截至公告披露日，大股東國新建源及其一致行動人建信投資合計持股457087744股，佔總股本17.09%。因自身經營發展需要，自公告披露之日起15個交易日後的3個月內（2026年8月17日-11月16日），二者擬透過集中競價合計減持不超26751550股，即不超總股本的1.00%。本次減持計劃實施存在不確定性，不會對公司治理結構、持續經營等產生重大影響。"
+    },
+    {
+      "id": "5004672",
+      "time": "2026-07-23 19:52:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "【蜜度CTO劉益東：大模型競賽轉向“真落地”，深耕辦公垂類AI】近兩年，國內大模型行業告別引數競賽的狂熱，迎來理性落地的新階段。從千億級通用模型密集迭代，到智慧體（Agent）成為產業核心風口，行業逐漸形成新共識：AI的核心價值不在於技術引數的堆砌，而在於真實場景的落地與業務效率的革新。作為深耕政企辦公垂直賽道多年的AI企業，蜜度CTO劉益東日前接受專訪時表示，企業始終堅持垂類大模型的深耕路線、以垂直智慧體賦能千行百業。在劉益東看來，AI行業的使用者需求已經發生迭代。前兩年AI應用尚未規模化普及，市場普遍追逐大模型引數規模、通用評測指標的高低。但從2026年年初開始，智慧體賽道集中爆發，市場關注點徹底迴歸業務本身，客戶不再看重模型有多“大”，更看重產品能不能解決真問題、交付真結果。（新華財經）"
+    },
+    {
+      "id": "te:markets:569278",
+      "time": "2026-07-23 19:51:57",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Union Pacific earnings above expectations at 3.41 USD — Union Pacific (UNP) released earnings per share at 3.41 USD, compared to market expectations of 3.17 USD."
+    },
+    {
+      "id": "5004671",
+      "time": "2026-07-23 19:51:17",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "美元兌日元上漲至163.65，創40年新高，最新報漲0.30%。"
+    },
+    {
+      "id": "5004670",
+      "time": "2026-07-23 19:51:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美沙核能合作背後的博弈與爭議】美國能源部22日表示，美國和沙烏地阿拉伯已簽署一項有關和平利用核能的合作協議。據多家美國媒體報道，該協議包含准許沙特在本土進行鈾濃縮活動的條款。分析人士認為，美沙此次達成核能合作協議，既是特朗普政府追求商業利益、沙特尋求核能技術自主的產物，也是兩國在當前中東變局大背景下采取的重要戰略舉措。協議的部分條款及示範效應暗藏核擴散風險。（新華社）"
+    },
+    {
+      "id": "5004669",
+      "time": "2026-07-23 19:50:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "耐克預計本財年毛利率小幅提升。"
+    },
+    {
+      "id": "5004668",
+      "time": "2026-07-23 19:50:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍方表示，襲擊造成了物質損失，目前尚無人員傷亡報告。"
+    },
+    {
+      "id": "5004667",
+      "time": "2026-07-23 19:50:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，他認為3%的預算赤字目標可以作為2030年的目標。"
+    },
+    {
+      "id": "mkt:019f8ed0-2d75-7aab-8e66-867c40cb8c05",
+      "time": "2026-07-23 19:50:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "magyar said he believes a 3% budget deficit target could be set as a 2030 goal."
+    },
+    {
+      "id": "5004666",
+      "time": "2026-07-23 19:50:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "科威特軍方表示，與伊拉克接壤的阿卜杜利邊境過境點週四遭無人機襲擊。"
+    },
+    {
+      "id": "mkt:019f8ecf-d06e-7aab-8e66-7f196acc0af9",
+      "time": "2026-07-23 19:50:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hungary's prime minister magyar said next year's budget deficit must be below 6% of GDP."
+    },
+    {
+      "id": "5004665",
+      "time": "2026-07-23 19:50:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，明年的預算赤字必須遠低於GDP的6%。"
+    },
+    {
+      "id": "mkt:019f8ecf-acfc-7aab-8e66-75798af8f889",
+      "time": "2026-07-23 19:50:02",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Hungary's prime minister magyar said reducing the 2026 budget deficit to 7% of GDP is an ambitious target."
+    },
+    {
+      "id": "5004664",
+      "time": "2026-07-23 19:49:36",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "傑尼亞集團執行主席：集團計劃2026年在全球新開14至15家門店，其中約半數將開設在美國。"
+    },
+    {
+      "id": "5004663",
+      "time": "2026-07-23 19:49:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理表示，將2026年預算赤字降至GDP的7%將是一項極具挑戰性的目標。"
+    },
+    {
+      "id": "mkt:019f8ecf-14d5-7aab-8e66-6eb99f4d1f17",
+      "time": "2026-07-23 19:49:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Iranian missiles hit Abdali crossing on Iraq–Kuwait border; crossing closed】Iraqi security sources said on the 23rd the Abdali border crossing on the Iraq–Kuwait border was struck by Iranian missiles. The Abdali crossing has been temporarily closed."
+    },
+    {
+      "id": "5004662",
+      "time": "2026-07-23 19:49:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【貴州省上半年地區生產總值同比增長4%】記者從貴州省政府新聞辦23日召開的新聞釋出會上獲悉，今年上半年，貴州省地區生產總值11990.08億元，按不變價格計算，同比增長4.0%。其中，第一產業增加值1198.27億元，同比增長4.6%；第二產業增加值4009.58億元，增長3.6%；第三產業增加值6782.22億元，增長4.1%。"
+    },
     {
       "id": "5004661",
       "time": "2026-07-23 19:47:59",
