@@ -1,7 +1,50 @@
 {
   "date": "2026-07-24",
-  "count": 150,
+  "count": 155,
   "items": [
+    {
+      "id": "mkt:019f9016-2438-7aab-8e71-0fc8a6a25af3",
+      "time": "2026-07-24 01:46:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tehran Times said Britain’s withdrawal of diplomatic staff from Tehran was US \"psychological warfare\" to pressure Iran. Germany’s ambassador said Britain, after listing the IRGC as a threat, likely pulled diplomats preemptively to avoid potential expulsion by Iran."
+    },
+    {
+      "id": "5005286",
+      "time": "2026-07-24 01:46:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "超威半導體與Cerebras宣佈合作開發超低延遲人工智慧推理基礎設施。"
+    },
+    {
+      "id": "5005285",
+      "time": "2026-07-24 01:46:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約聯邦儲備銀行全額接受了7月23日常備回購操作中申報的700萬美元申請量。"
+    },
+    {
+      "id": "5005284",
+      "time": "2026-07-24 01:45:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破95美元/桶，日內漲5.36%。"
+    },
+    {
+      "id": "5005283",
+      "time": "2026-07-24 01:44:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報603.40元。"
+    },
     {
       "id": "5005282",
       "time": "2026-07-24 01:44:40",

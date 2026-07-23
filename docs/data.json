@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-24 01:45:17",
-  "count": 18012,
+  "updated": "2026-07-24 01:49:15",
+  "count": 18006,
   "items": [
+    {
+      "id": "mkt:019f9016-2438-7aab-8e71-0fc8a6a25af3",
+      "time": "2026-07-24 01:46:37",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tehran Times said Britain’s withdrawal of diplomatic staff from Tehran was US \"psychological warfare\" to pressure Iran. Germany’s ambassador said Britain, after listing the IRGC as a threat, likely pulled diplomats preemptively to avoid potential expulsion by Iran."
+    },
+    {
+      "id": "5005286",
+      "time": "2026-07-24 01:46:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "超威半導體與Cerebras宣佈合作開發超低延遲人工智慧推理基礎設施。"
+    },
+    {
+      "id": "5005285",
+      "time": "2026-07-24 01:46:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "紐約聯邦儲備銀行全額接受了7月23日常備回購操作中申報的700萬美元申請量。"
+    },
+    {
+      "id": "5005284",
+      "time": "2026-07-24 01:45:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破95美元/桶，日內漲5.36%。"
+    },
+    {
+      "id": "5005283",
+      "time": "2026-07-24 01:44:55",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲7%，現報603.40元。"
+    },
     {
       "id": "5005282",
       "time": "2026-07-24 01:44:40",
@@ -164886,108 +164929,6 @@
         "國際"
       ],
       "text": "PIPER SANDLER：AEROVIRONMENT公司可能正在與美國陸軍進行合同談判。"
-    },
-    {
-      "id": "mkt:019f6c0b-ecba-7aab-8dcf-01ae161200b5",
-      "time": "2026-07-17 01:49:08",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve's LOGAN said he is very optimistic about long-term productivity gains from artificial intelligence, but that current strong, genuine AI investment demand will generate near-term inflationary pressure."
-    },
-    {
-      "id": "mkt:019f6c0a-d8e1-7aab-8dce-fb152a1c41a8",
-      "time": "2026-07-17 01:47:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "WHITE HOUSE says it will continue to monitor developments in Iran."
-    },
-    {
-      "id": "mkt:019f6c0a-c7b2-7aab-8dce-f51431db7a3d",
-      "time": "2026-07-17 01:47:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says President Trump remains willing to engage in diplomatic talks."
-    },
-    {
-      "id": "4992831",
-      "time": "2026-07-17 01:47:48",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "高盛股價下跌5.1%，摩根士丹利股價下跌5.1%，花旗集團股價下跌2.1%。"
-    },
-    {
-      "id": "mkt:019f6c0a-9cb7-7aab-8dce-ebe389de2c58",
-      "time": "2026-07-17 01:47:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says President Trump and Vice President Pence agree on the Iran conflict."
-    },
-    {
-      "id": "4992830",
-      "time": "2026-07-17 01:47:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：目前人工智慧的投資需求規模龐大、真實存在，並且會產生短期通脹效應。"
-    },
-    {
-      "id": "4992829",
-      "time": "2026-07-17 01:47:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：對人工智慧帶來的長期生產率提升持非常樂觀的態度。"
-    },
-    {
-      "id": "mkt:019f6c0a-1955-7aab-8dce-e78cca265c21",
-      "time": "2026-07-17 01:47:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House: On reports that some in Israel are seeking to prolong the war indefinitely, Trump said foreign powers will try to influence U.S. public opinion, calling that an objective fact."
-    },
-    {
-      "id": "4992828",
-      "time": "2026-07-17 01:46:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普總統不會允許伊朗在霍爾木茲海峽發動襲擊而不付出代價。美國可以在任何時間、任何地點打擊伊朗。"
-    },
-    {
-      "id": "4992827",
-      "time": "2026-07-17 01:45:52",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "市場訊息：紐約聯儲隔夜回購操作未收到任何投標。"
-    },
-    {
-      "id": "mkt:019f6c08-db10-7aab-8dce-da1296a60b85",
-      "time": "2026-07-17 01:45:47",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "White House: President Trump will not allow Iran to launch attacks in the Strait of Hormuz without consequences. The United States can strike Iran at any time and anywhere."
     }
   ]
 }
