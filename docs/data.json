@@ -1,7 +1,36 @@
 {
-  "updated": "2026-07-24 04:13:53",
+  "updated": "2026-07-24 04:17:47",
   "count": 18009,
   "items": [
+    {
+      "id": "5005389",
+      "time": "2026-07-24 04:17:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "英特爾美股盤後漲超11%。"
+    },
+    {
+      "id": "te:markets:569377",
+      "time": "2026-07-24 04:17:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Newmont Mining earnings below expectations at 2.10 USD — Newmont Mining (NEM) released earnings per share at 2.10 USD, compared to market expectations of 2.21 USD."
+    },
+    {
+      "id": "mkt:019f909d-84a3-7aab-8e73-18c0982da412",
+      "time": "2026-07-24 04:14:29",
+      "tags": [
+        "MKT News",
+        "INTC.O"
+      ],
+      "text": "Intel (INTC.O) Q2 2026 gross margin 40.4%."
+    },
     {
       "id": "te:markets:569374",
       "time": "2026-07-24 04:13:10",
@@ -164970,34 +164999,6 @@
         "宏觀"
       ],
       "text": "巴西財政部長：巴西的經濟政策服務本國民眾，而非取悅他國官員。"
-    },
-    {
-      "id": "4992942",
-      "time": "2026-07-17 04:16:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "可口可樂：正聯合外部顧問持續調查 Fairlife 系統遭攻擊事件。"
-    },
-    {
-      "id": "4992941",
-      "time": "2026-07-17 04:16:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "可口可樂：旗下 Fairlife 業務系統在勒索軟體攻擊事件中遭非法入侵，產品質量與安全未受影響。"
-    },
-    {
-      "id": "te:markets:567644",
-      "time": "2026-07-17 04:15:38",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Sweden",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Atlas Copco earnings in line with market expectations at 1.45 SEK — Atlas Copco (ATCOA) released earnings per share at 1.45 SEK, in line with market expectations."
     }
   ]
 }
