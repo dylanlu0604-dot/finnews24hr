@@ -1,7 +1,85 @@
 {
-  "updated": "2026-07-24 07:22:11",
-  "count": 17983,
+  "updated": "2026-07-24 07:26:11",
+  "count": 17990,
   "items": [
+    {
+      "id": "te:economy:569403",
+      "time": "2026-07-24 07:25:25",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "U.S. Sets 10%-12-1/2% Import Tariffs on 60 Trading Partners — The Trump administration announced new tariffs of 10% to 12.5% on imports from about 60 U.S. trading partners, replacing the temporary 10% Section 122 tariffs that expire Friday. The new duties will apply to nearly all U.S. imports, with the administration arguing that the targeted countries have failed to adequately prohibit or enforce restrictions on goods produced with forced labor. Economies with partial bans on forced labor or commitments to strengthen them, including the UK, Canada, Mexico, and India, will face 10% tariffs. Meanwhile, countries deemed to have insufficient safeguards, such as China, South Korea, and Japan, will be subject to 12-1/2% duties. Products already covered by sector-specific or national security-related tariffs are exempt. The move reflects the administration's broader strategy to restore its global tariff agenda after the Supreme Court struck down its earlier tariff framework in February."
+    },
+    {
+      "id": "5005495",
+      "time": "2026-07-24 07:25:05",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【 韓國將繼續與美國財政部在外匯市場開展合作 】 韓國財政部在一份宣告中表示，韓國政府將與美國財政部密切溝通，增進雙方在外匯市場上的相互瞭解和信任。該部表示，將繼續合作穩定外匯市場。此前，美國財政部將韓國繼續列入貨幣監測名單。"
+    },
+    {
+      "id": "5005494",
+      "time": "2026-07-24 07:24:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【 美軍稱連續第13晚空襲伊朗 】 當地時間7月23日，美軍中央司令部表示，美軍於美東時間當天18時45分開始針對伊朗軍事目標的新一輪打擊。美軍中央司令部稱，這是美軍連續第13晚對伊朗發動空襲，旨在“削弱伊朗伊斯蘭革命衛隊對商業航運構成的威脅”。（央視）"
+    },
+    {
+      "id": "mkt:019f914a-ff98-7aab-8e74-ba09ba7617a4",
+      "time": "2026-07-24 07:23:59",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI president Brockman said the company's goal is to provide the lowest-cost model that can perform any task users require."
+    },
+    {
+      "id": "5005493",
+      "time": "2026-07-24 07:23:23",
+      "tags": [
+        "公司",
+        "市場",
+        "觀點"
+      ],
+      "text": "【全球燃機行業景氣度高企 產業鏈公司出海加速跡象顯著】 全球電力結構轉型與算力基建擴張共同推升燃氣輪機需求，行業龍頭公司訂單爆滿、產能供給不足，行業長期供需缺口明確。在此背景下，國內燃機產業鏈迎來海外市場增量視窗，本土企業大額海外訂單落地，板塊上市公司業績與估值有望同步修復。產業鏈公司出海加速跡象顯著。早前，傑瑞股份釋出公告稱，其控股子公司與某國際知名雲服務提供商簽署了燃氣輪機發電機組供應合同，並接受了高達14.65億美元（約合99.5億元）的採購訂單。光大證券梳理了燃氣輪機國產產業鏈，合計有14家A股公司入選。從年內股價表現來看，傑瑞股份今年以來股價漲幅超90%，居首；萬澤股份和東方電氣股價均上漲超過14%。"
+    },
+    {
+      "id": "te:economy:569402",
+      "time": "2026-07-24 07:23:23",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "UK Consumer Confidence Improves in July — The UK GfK Consumer Confidence Index rose to -17 in July 2026, exceeding market expectations of -21 and up from -23 in the previous month. The latest figure also marked the highest level since January and the largest monthly improvement since November 2023, driven by optimism surrounding Andy Burnham's appointment as prime minister, hopes for easing Middle East tensions at the start of the month, and a boost from the summer weather and the FIFA World Cup. Households' assessment of the economy over the past year improved by 10 points to -39, the strongest reading since late 2024, while expectations for the next 12 months climbed 8 points to -28, the highest since October 2024. Intentions to make major purchases also increased by 8 points to -12, the strongest level this year. However, the survey was conducted before the latest escalation in the Middle East, which could weigh on confidence going forward."
+    },
+    {
+      "id": "5005492",
+      "time": "2026-07-24 07:22:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西貿易部長羅莎：約2000種產品（包括咖啡）獲豁免美國12.5%和25%關稅。"
+    },
+    {
+      "id": "5005491",
+      "time": "2026-07-24 07:22:06",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【王毅會見白俄羅斯外長雷任科夫】 當地時間2026年7月23日晚，中共中央政治局委員、外交部長王毅在吉爾吉斯斯坦出席上海合作組織外長會前會見白俄羅斯外長雷任科夫。王毅表示，中白是彼此可信賴的好夥伴。近年來，在習近平主席和盧卡申科總統戰略擘畫和親自關心下，中白全天候全面戰略伙伴關係保持高水平執行，各領域合作取得可喜成果。前不久，兩國元首在北京再度會晤，為雙邊關係下步發展作出新的部署。明年是中白建交35週年。站在新的歷史起點上，中方願同白方共同努力，按照兩國元首明確的方向，規劃好各層級交往，加強發展戰略對接，深化治國理政經驗交流，推動中白關係高質量發展，引領兩國合作全方位推進，為兩國人民帶來更多福祉。王毅表示，相互支援是中白全天候全面戰略伙伴關係的應有之義。中方將一如既往支援白方維護主權、獨立和領土完整，走符合本國國情的發展道路，反對外部勢力以任何藉口干涉白方內政。長期以來，白方在涉華核心利益問題上堅定不移同中方站在一起，中方對此表示讚賞。祝賀白方成為世界人工智慧合作組織創始成員國。期待同白方加強在上海合作組織框架內協作，推進安全領域“四個中心”建設和開發銀行籌建，推動上合組織進入高質量發展新階段。雷任科夫表示，白中元首保持高水平、高頻次溝通交流，引領兩國關係邁上前所未有的高水平，建立起鐵桿兄弟般的高度互信。白方感謝中方長期以來的大力支援和幫助，將堅定發展對華關係，推進雙方全面合作，借鑑中方成功經驗。期待以明年建交35週年為契機，加強雙方在產業、投資、資訊科技等領域合作，擴大地方、人文領域交流。白方很榮幸加入世界人工智慧合作組織，願同中方在上海合作組織等多邊平臺密切溝通協作。事實證明，白方選擇的道路是正確的，兩國未來合作空間更加廣闊。雙方共同簽署了兩國外交部2026-2027年磋商計劃。"
+    },
     {
       "id": "mkt:019f9148-e425-7aab-8e74-b3d8e9bf71ad",
       "time": "2026-07-24 07:21:41",
@@ -13,6 +91,14 @@
         "XAUUSD"
       ],
       "text": "Iran's state broadcaster IRIB said explosions were heard west of Bandar Abbas port."
+    },
+    {
+      "id": "5005490",
+      "time": "2026-07-24 07:21:39",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗國家廣播電臺稱，阿巴斯港西部傳出爆炸聲。"
     },
     {
       "id": "5005489",
@@ -164746,22 +164832,6 @@
         "國際"
       ],
       "text": "【鎧俠公司因專利侵權被陪審團裁定賠償2.29億美元】美國得克薩斯州聯邦陪審團週四判定，鎧俠公司侵犯威亞薩特公司（Viasat Inc. ）一項快閃記憶體相關專利，需向後者賠償 2.29 億美元。美國得克薩斯州西區聯邦地區法院陪審團認定，鎧俠侵犯了威亞薩特編號為 8,615,700 的美國專利。判決書載明，這筆 229,025,021 美元賠償金屬於持續許可費性質，僅用於彌補鎧俠截至 2026 年 3 月 30 日的過往侵權損失。"
-    },
-    {
-      "id": "4993048",
-      "time": "2026-07-17 07:25:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "【世衛組織歐洲辦事處：5國因高溫“額外死亡”近萬人】世衛組織歐洲區域辦事處16日說，極端高溫正成為歐洲地區日益嚴峻的公共衛生威脅。今夏受高溫影響的死亡人數仍在統計中，僅5個國家的資料顯示，因高溫造成的“額外死亡”人數已接近1萬。不過，該組織未說明資料來自哪些國家。世衛組織歐洲區域主任漢斯·克呂熱表示，過去4年，高溫已在世衛組織歐洲區域造成超過20萬人死亡。他同時表示，高溫導致的死亡並非不可避免。各國應提前向民眾發出預警，採取措施降低城市溫度，保障飲水和遮陰設施，關注高風險人群，並在氣溫達到峰值前做好衛生系統的準備。（新華社）"
-    },
-    {
-      "id": "4993047",
-      "time": "2026-07-17 07:24:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【紐西蘭與瑞士將於9月啟動自貿協定談判】紐西蘭貿易部長託德・麥克克萊（Todd McClay）週五表示，紐西蘭與瑞士已商定在9月開啟談判，磋商一份涵蓋貿易、經濟安全、投資及電子商務領域的雙邊協定。該訊息釋出前，麥克克萊與瑞士聯邦經濟事務國務秘書埃萊娜・佈德利格・阿爾蒂耶達在奧克蘭舉行了會晤。麥克克萊在宣告中稱：“瑞士是紐西蘭的重要合作伙伴，同時也是全球創新能力頂尖、經濟高度發達的國家之一。”“當前全球經濟不確定性持續加劇，理念相近的國家攜手深化貿易與投資合作，比以往任何時候都更為關鍵。”截至2025年12月的全年資料顯示，新瑞雙邊貿易總額達18.8億紐西蘭元（摺合11億美元）。"
     }
   ]
 }
