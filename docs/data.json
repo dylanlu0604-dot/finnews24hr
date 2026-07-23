@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-24 02:35:38",
-  "count": 17993,
+  "updated": "2026-07-24 02:39:31",
+  "count": 17995,
   "items": [
+    {
+      "id": "5005329",
+      "time": "2026-07-24 02:38:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將特斯拉目標價從每股475.00美元下調至445.00美元。"
+    },
+    {
+      "id": "5005328",
+      "time": "2026-07-24 02:37:24",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗衛生部：自6月27日以來，美國對伊朗的襲擊已造成55人死亡、629人受傷。"
+    },
+    {
+      "id": "mkt:019f9043-d025-7aab-8e71-a26325be3992",
+      "time": "2026-07-24 02:36:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "U.S. crude futures settled at $92.19 per barrel, up $5.36, or 6.17%."
+    },
+    {
+      "id": "5005327",
+      "time": "2026-07-24 02:36:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【拼產品，拼場景，拼渠道 食品飲料公司上半年業績可圈可點】在已披露上半年業績預告或業績快報的47家食品飲料公司中，有10家公司上半年業績預增，黑芝麻、洽洽食品、*ST尼雅、佳禾食品等公司同比增速達到三位數及以上。至於業績預喜原因，記者發現，主要包含開源和節流：一方面，持續最佳化產品結構，拓展多元消費場景，深化市場渠道建設等；另一方面，最佳化多項費用管控，加強供應鏈精益化管理，實現原料採購成本下降等。不過，也有部分食品飲料企業受終端需求不及預期、行業競爭加劇等因素影響而業績承壓。據統計，截至7月23日，共有27家食品飲料企業預虧或預減，主要分佈在酒類、食品加工、休閒食品、飲料乳品等細分賽道。(上證報)"
+    },
     {
       "id": "5005326",
       "time": "2026-07-24 02:34:09",
@@ -164792,26 +164828,6 @@
         "MKT News"
       ],
       "text": "CBS reports U.S. President Trump will visit an Atlanta-area high school on July 22 to promote a new 'Trump Account' investment plan."
-    },
-    {
-      "id": "mkt:019f6c37-e03e-7aab-8dcf-d52154c9a15e",
-      "time": "2026-07-17 02:37:08",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【Three explosions heard west of Bandar Abbas port】Three explosions were heard west of Iran's Bandar Abbas port on the 16th (local time)."
-    },
-    {
-      "id": "4992877",
-      "time": "2026-07-17 02:37:02",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美軍發動新一輪空襲 連續第五晚打擊伊朗】當地時間7月16日，美軍中央司令部宣佈，美軍於美東時間下午2時開始對伊朗發動新一輪空襲，這是美軍連續第五個夜晚對伊朗實施打擊。（央視新聞）"
     }
   ]
 }
