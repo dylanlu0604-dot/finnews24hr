@@ -1,7 +1,65 @@
 {
   "date": "2026-07-24",
-  "count": 293,
+  "count": 299,
   "items": [
+    {
+      "id": "5005373",
+      "time": "2026-07-24 03:56:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美25州起訴特朗普政府 反對將救災資金與選舉制度改革掛鉤】記者當地時間7月23日獲悉，美國25個州及哥倫比亞特區當天向羅得島州聯邦法院提起訴訟，要求阻止特朗普政府將部分災害應急資金與各州修改選舉管理制度掛鉤。美國國土安全部此前宣佈，將對總額超過10億美元的部分聯邦緊急事務管理局撥款設定條件。各州若未提交計劃，改用接收手工填寫紙質選票的裝置，而非依賴條形碼或二維碼計票的電子投票系統，相關撥款的20%將被暫緩發放。(央視新聞)"
+    },
+    {
+      "id": "mkt:019f908b-6206-7aab-8e72-a891eec0c6c2",
+      "time": "2026-07-24 03:54:41",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "Iran foreign ministry spokesman said Gulf Cooperation Council member states should respond regarding their participation in military action against Iran."
+    },
+    {
+      "id": "5005372",
+      "time": "2026-07-24 03:53:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "Alphabet持有的 Anthropic 股權價值飆升至約 1240 億美元。"
+    },
+    {
+      "id": "mkt:019f9087-b22e-7aab-8e72-a48f5659bc40",
+      "time": "2026-07-24 03:50:39",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iranian media Fars News reported the US Ali Al Salem Air Base in Kuwait was struck by missiles and drones, and that Kuwaiti air-defence systems were intercepting drones and missiles launched from Iran."
+    },
+    {
+      "id": "5005371",
+      "time": "2026-07-24 03:45:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "OpenAI：ChatGPT語音功能現在已在桌面應用中上線。"
+    },
+    {
+      "id": "mkt:019f9082-d22c-7aab-8e72-9a6c9fa5b551",
+      "time": "2026-07-24 03:45:20",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "OpenAI says ChatGPT voice capability is now available in the desktop app."
+    },
     {
       "id": "te:economy:569369",
       "time": "2026-07-24 03:42:00",
