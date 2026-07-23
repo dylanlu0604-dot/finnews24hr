@@ -1,7 +1,212 @@
 {
   "date": "2026-07-23",
-  "count": 2529,
+  "count": 2553,
   "items": [
+    {
+      "id": "5004531",
+      "time": "2026-07-23 19:02:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：營收增長勢頭預計將延續至今年下半年。"
+    },
+    {
+      "id": "5004530",
+      "time": "2026-07-23 19:02:49",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國航空公佈業績後，達美航空和聯合航空股價盤前下跌1.8%。"
+    },
+    {
+      "id": "5004529",
+      "time": "2026-07-23 19:02:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空：出行需求提升與運營最佳化抵消半數燃油成本漲幅。"
+    },
+    {
+      "id": "mkt:019f8ea4-19e3-7aab-8e64-daa0f5027165",
+      "time": "2026-07-23 19:02:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Central Bank of the Republic of Turkey said it will maintain restrictive monetary policy until price stability is achieved."
+    },
+    {
+      "id": "mkt:019f8ea3-ff36-7aab-8e64-d1a16432c558",
+      "time": "2026-07-23 19:02:20",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Central Bank of the Republic of Turkey (CBRT) said liquidity conditions will continue to be closely monitored and liquidity-management tools will remain in use. Tightening monetary policy will strengthen disinflation via demand, FX and expectations channels."
+    },
+    {
+      "id": "mkt:019f8ea3-b290-7aab-8e64-cb6c28c05a83",
+      "time": "2026-07-23 19:02:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank said it would tighten monetary policy if the inf outlook deteriorates significantly and persistently."
+    },
+    {
+      "id": "mkt:019f8ea3-a40c-7aab-8e64-c45602a07193",
+      "time": "2026-07-23 19:01:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Central Bank of the Republic of Turkey (CBRT) said it remains highly attentive to upside inflation risks and that recent data show domestic demand remains weak."
+    },
+    {
+      "id": "5004528",
+      "time": "2026-07-23 19:01:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國稀土公司簽署多項戰略投資合作協議。"
+    },
+    {
+      "id": "mkt:019f8ea3-7315-7aab-8e64-bf1f3e4f2a6e",
+      "time": "2026-07-23 19:01:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Changxin Technology said its shares will list on the Shanghai Stock Exchange Sci-Tech Innovation Board on July 27, 2026."
+    },
+    {
+      "id": "5004527",
+      "time": "2026-07-23 19:01:41",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "長鑫科技：公司股票將於2026年7月27日在上海證券交易所科創板上市。"
+    },
+    {
+      "id": "5004525",
+      "time": "2026-07-23 19:01:15",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空持續推進商業優先事項，創下公司史上最高季度營收，美國航空預計第三季度營收將增長16%-19%。"
+    },
+    {
+      "id": "5004524",
+      "time": "2026-07-23 19:01:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國航空第二季度營業利潤率為2.7%。"
+    },
+    {
+      "id": "5004523",
+      "time": "2026-07-23 19:00:56",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM 收購休斯研究實驗室，助力量子技術未來發展。"
+    },
+    {
+      "id": "mkt:019f8ea2-8ede-7aab-8e64-b778b1236c04",
+      "time": "2026-07-23 19:00:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Turkey's central bank left its policy rate at 37% unchanged, in line with market expectations."
+    },
+    {
+      "id": "5004522",
+      "time": "2026-07-23 19:00:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM：預計對HRL的交易將於2026年第三季度末前完成交割。"
+    },
+    {
+      "id": "5004521",
+      "time": "2026-07-23 19:00:25",
+      "tags": [
+        "其他"
+      ],
+      "text": "IBM擬收購休斯研究實驗室。"
+    },
+    {
+      "id": "mkt:019f8ea2-394d-7aab-8e64-ae6a830fd1be",
+      "time": "2026-07-23 19:00:23",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "Turkey one-week repo rate for week to July 23 37.00 pct; expected 37.00 pct; prior 37.00 pct."
+    },
+    {
+      "id": "5004520",
+      "time": "2026-07-23 19:00:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "土耳其將一週回購利率維持在37%；預計為37.00%。"
+    },
+    {
+      "id": "mkt:019f8ea2-2684-7aab-8e64-a3fe24d48271",
+      "time": "2026-07-23 19:00:19",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bullish"
+      ],
+      "text": "Blackstone (BX.N) reported Q2 2026 revenue of $5.04 bln, versus $3.712 bln a year earlier."
+    },
+    {
+      "id": "mkt:019f8ea2-163f-7aab-8e64-9865302f438d",
+      "time": "2026-07-23 19:00:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Turkey | 1-week Repo Rate (Jul.23) | actual 37% | consensus 37.00% | previous 37.00%"
+    },
+    {
+      "id": "5004519",
+      "time": "2026-07-23 18:59:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "【多瑙河匈牙利段水位下降再現飢餓巖】今年入夏以來，匈牙利全境遭遇持續高溫乾旱天氣，其境內多瑙河水位大幅下降，一塊被當地人稱為“飢餓巖”的石塊也露出水面。這種說法源自18世紀，當地人發現，每當這塊岩石浮出水面，就顯示多瑙河流域發生了嚴重的乾旱，引發糧食危機造成饑荒。此外，水位下降還導致航道水深不足，河道急劇變窄，對內河貨運及觀光旅遊業帶來巨大沖擊。（CCTV國際時訊）"
+    },
+    {
+      "id": "5004518",
+      "time": "2026-07-23 18:59:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "雷普索爾執行長：委內瑞拉債務仍然存在，但目前並非討論該問題的時機，這一問題留待未來商談。"
+    },
+    {
+      "id": "5004517",
+      "time": "2026-07-23 18:59:30",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【納指ETF匯添富：二級市場交易價格溢價 提醒投資風險】納指ETF匯添富公告稱，近期該基金二級市場交易價格明顯高於基金份額參考淨值，出現較大幅度溢價。2026年7月23日，收盤價為2.280元，收盤時基金份額參考淨值為2.1463元。若7月24日溢價幅度未有效回落，基金有權申請停牌等措施警示風險。提醒投資者關注溢價風險，審慎投資。目前基金運作正常，無應披露未披露重大資訊。"
+    },
+    {
+      "id": "5004516",
+      "time": "2026-07-23 18:59:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏：全球經營環境仍存不確定性。"
+    },
     {
       "id": "5004515",
       "time": "2026-07-23 18:58:58",
