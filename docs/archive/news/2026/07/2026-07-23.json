@@ -1,7 +1,111 @@
 {
   "date": "2026-07-23",
-  "count": 971,
+  "count": 982,
   "items": [
+    {
+      "id": "5003429",
+      "time": "2026-07-23 10:16:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高德宣佈ABot具身體系完成全棧升級，提升機器人自主執行通用任務能力】近日，阿里巴巴集團旗下高德宣佈ABot具身體系完成全棧升級，一次性發布ABot-N1、ABot-M0.5、ABot-ER、ABot-AgentOS、ABot-C0五款模型。透過一次覆蓋感知、決策、執行、記憶的體系化升級，全方位提升機器人自主執行通用任務的能力，推動具身智慧的演進。作為全球首個全棧具身技術體系，ABot將世界模型、基座模型與具身Agent架構耦合為一個高度協同的“有機生命體”。相比聚焦單模型能力的研究，體系化的核心價值在於打通自進化閉環飛輪：模擬訓練、物理互動與記憶排程彼此反哺，驅動整個系統持續提升。五款新模型分別對映機器人的“手、腳、腦、中樞和運動神經”，達成“身隨眼動、手腳並用、過目不忘”的里程碑。（新浪科技）"
+    },
+    {
+      "id": "mkt:019f8cc1-fb2b-7aab-8e57-94e50c87ed05",
+      "time": "2026-07-23 10:15:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "JAXA conducted a ground test of the Epsilon S small rocket's engine on Thursday; the 27-meter solid-fuel vehicle's test completed as scheduled. The rocket had recorded two consecutive failures in similar tests in recent years. Japan's last successful Epsilon-series launch was in 2021."
+    },
+    {
+      "id": "te:markets:569052",
+      "time": "2026-07-23 10:15:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "China Construction Bank Stock Price Hits 4-week High — China Construction Bank shares increased to 8.69 HKD, the highest since June 2026. Over the past 4 weeks, China Construction Bank gained 2.12%, and in the last 12 months, it increased 2.97%."
+    },
+    {
+      "id": "te:markets:569051",
+      "time": "2026-07-23 10:15:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Asia FX Updates: South Korean Won Increases by 0.65% — Top currency gainers are South Korean Won (0.65%) and Chinese Yuan (0.07%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "5003428",
+      "time": "2026-07-23 10:14:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鋰礦概念股震盪走強 *ST威領漲停】鋰礦概念股震盪走強，*ST威領漲停，國城礦業、永杉鋰業、盛新鋰能等股漲幅靠前。"
+    },
+    {
+      "id": "te:markets:569049",
+      "time": "2026-07-23 10:14:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "Asian Stocks Rise on Semiconductor Gains — Asian equity markets mostly rose on Thursday, led by gains in semiconductor stocks as investors bet regional chipmakers will benefit from increased artificial intelligence investment. South Korea outperformed as chip giants Samsung Electronics and SK Hynix climbing more than 3%. Japan also advanced over 1%, while shares in Australia, China, and Hong Kong opened higher. Meanwhile, markets continued to monitor Middle East tensions after Iran-backed Houthi militants claimed attacks on two Saudi oil tankers in the Red Sea, while President Trump warned of strikes on Iranian infrastructure if shipping through the Strait of Hormuz is targeted, intensifying concerns over supply disruptions and inflation risks."
+    },
+    {
+      "id": "5003427",
+      "time": "2026-07-23 10:14:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "【貴金屬概念再度走強 盛達資源3連板】貴金屬概念再度走強，盛達資源3連板，四川黃金漲超8%，興業銀錫、湖南白銀、赤峰黃金、山金國際跟漲。"
+    },
+    {
+      "id": "5003426",
+      "time": "2026-07-23 10:14:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達3％，成分股中，華虹宏力跌10.76％，拓荊科技跌6.81％，中科飛測跌6.35％，晶合整合跌5.51％。"
+    },
+    {
+      "id": "5003425",
+      "time": "2026-07-23 10:13:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：實施醫療衛生強基工程中醫藥行動】國家中醫藥管理局、國家發展和改革委員會印發《中醫藥振興發展“十五五”規劃》，其中提出，實施醫療衛生強基工程中醫藥行動。推動每個縣級中醫醫院至少建成2箇中醫特色優勢專科和1個縣域中醫適宜技術推廣中心，發揮其在縣域中醫醫療、預防保健、特色康復、人才培養、適宜技術推廣和健康宣教方面的龍頭作用。大力推廣基層中醫適宜技術，推進中醫館、中醫閣建設，支援基層醫療衛生機構提升中醫藥服務能力。持續開展巡迴醫療、健康幫扶。加強邊遠地區中醫醫療機構和綜合醫院中醫科（少數民族醫科室）建設。"
+    },
+    {
+      "id": "mkt:019f8cbf-c5c3-7aab-8e57-8ee7f1b677de",
+      "time": "2026-07-23 10:13:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "China A-share precious metals sector traded higher after volatile moves; Shengda Resources hit the daily limit-up, Sichuan Gold rose more than 7%, and Xingye Silver-Tin, Hunan Silver, Chifeng Gold, Shan Jin International, Zhongjin Gold and Western Gold also gained."
+    },
+    {
+      "id": "5003424",
+      "time": "2026-07-23 10:12:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "【法國6月至7月初熱浪期間全因超額死亡5764人】法國公共衛生署22日釋出的報告說，6月17日至7月2日席捲法國的熱浪期間，該國記錄了至少5764例全因超額死亡，較正常預期水平增加36%。"
+    },
     {
       "id": "te:markets:569046",
       "time": "2026-07-23 10:11:42",
