@@ -1,7 +1,122 @@
 {
   "date": "2026-07-24",
-  "count": 309,
+  "count": 320,
   "items": [
+    {
+      "id": "mkt:019f9095-0f3a-7aab-8e72-f217c8c72654",
+      "time": "2026-07-24 04:05:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) shares rose more than 9% in U.S. after-hours trading after the company said its third-quarter revenue outlook topped expectations."
+    },
+    {
+      "id": "5005383",
+      "time": "2026-07-24 04:04:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國未將任何國家列為匯率操縱國。"
+    },
+    {
+      "id": "5005382",
+      "time": "2026-07-24 04:04:13",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "美股科技七巨頭指數下跌4.8%，市值蒸發7970億美元。"
+    },
+    {
+      "id": "mkt:019f9093-d80f-7aab-8e72-e8897954feee",
+      "time": "2026-07-24 04:03:55",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Alibaba",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "GOOG.O",
+        "BABA.N"
+      ],
+      "text": "【US close: major indexes lower; Tesla plunges over 14%】U.S. equities closed lower Thursday: Dow -0.97%, S&P 500 -1.2%, Nasdaq -2.15%. Micron Technology (MU.O) +3%, SK Hynix (SKHY.O) +2.5%, Alphabet (GOOG.O) -7%, Tesla (TSLA.O) -14.5%, SpaceX (SPCX.O) +2%. Nasdaq Golden Dragon China Index -0.57%; Alibaba (BABA.N) -2%."
+    },
+    {
+      "id": "5005381",
+      "time": "2026-07-24 04:03:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國際油價23日大幅上漲】截至當天收盤，紐約商品交易所9月交貨的輕質原油期貨價格上漲5.36美元，收於每桶92.19美元，漲幅為6.17%；9月交貨的倫敦布倫特原油期貨價格上漲6.62美元，收於每桶100.69美元，漲幅為7.04%。"
+    },
+    {
+      "id": "te:economy:569371",
+      "time": "2026-07-24 04:03:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Producer Prices Change",
+        "Importance 0"
+      ],
+      "text": "Paraguay PPI Extends Annual Decline — Paraguay's Producer Price Index fell 1.8% year-on-year in June 2026, following a 1.5% decline in May and marking its fifth consecutive annual decrease. The decline was driven mainly by lower prices for domestically produced agricultural and horticultural products, as well as imported metal products, machinery and equipment, non-metallic manufactured goods, and food, beverages, tobacco, textiles, and leather products. Overall, the annual decline was primarily explained by falling prices of imported goods. This was partly offset by higher prices for domestically produced goods, particularly food, beverages, tobacco, textiles and leather products, forestry products, and non-metallic manufactured goods."
+    },
+    {
+      "id": "5005380",
+      "time": "2026-07-24 04:03:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "特斯拉股價暴跌15%，創下自2025年3月以來最大跌幅。"
+    },
+    {
+      "id": "5005379",
+      "time": "2026-07-24 04:02:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾CFO：英特爾計劃將2026年的資本支出從180億美元提高到200億美元。英特爾計劃在2027年大幅增加資本支出。英特爾已與客戶簽署長期協議，供應CPU和XPUS處理器。"
+    },
+    {
+      "id": "mkt:019f9092-a77b-7aab-8e72-e74ab361b7cd",
+      "time": "2026-07-24 04:02:37",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CFO said the company has signed long-term customer agreements to supply CPUs and XPUs."
+    },
+    {
+      "id": "5005378",
+      "time": "2026-07-24 04:02:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾執行長表示需求超過供應。"
+    },
+    {
+      "id": "mkt:019f9092-36dc-7aab-8e72-db20fef8cd13",
+      "time": "2026-07-24 04:02:09",
+      "tags": [
+        "MKT News",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel (INTC.O) CFO said the company plans to raise 2026 capital expenditure to $20 bln from $18 bln."
+    },
     {
       "id": "mkt:019f9091-b34b-7aab-8e72-d2eb5e317b3c",
       "time": "2026-07-24 04:01:35",
