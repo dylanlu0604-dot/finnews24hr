@@ -1,7 +1,99 @@
 {
   "date": "2026-07-24",
-  "count": 197,
+  "count": 208,
   "items": [
+    {
+      "id": "5005320",
+      "time": "2026-07-24 02:30:54",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMI宣佈AMI Rack Manager支援AMD Helios機架級解決方案，同時Aptio V和MegaRAC OneTree支援第六代AMD EPYC處理器，加速全球AI資料中心的部署。"
+    },
+    {
+      "id": "5005319",
+      "time": "2026-07-24 02:30:37",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將Alphabet Inc.目標股價從每股460.00美元下調至每股420.00美元。"
+    },
+    {
+      "id": "5005318",
+      "time": "2026-07-24 02:30:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "NOTA AI加入AMD機器人合作伙伴網路，加速下一代實體人工智慧解決方案開發，且將其裝置端人工智慧最佳化技術拓展至機器人領域。"
+    },
+    {
+      "id": "te:markets:569366",
+      "time": "2026-07-24 02:30:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Crypto",
+        "Importance 1"
+      ],
+      "text": "Crypto Updates: Ether Drops by 2.85% — Top crypto losers are Ether (-2.85%) and Bitcoin (-2.06%)."
+    },
+    {
+      "id": "5005317",
+      "time": "2026-07-24 02:30:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "上期所原油期貨夜盤收漲7.11%，報604.00元人民幣/桶。滬金夜盤收跌2.21%，滬銀收跌4.22%。"
+    },
+    {
+      "id": "mkt:019f903d-6497-7aab-8e71-845d88f1e2f3",
+      "time": "2026-07-24 02:29:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ICI: U.S. money market fund assets fell to $7.86 trillion."
+    },
+    {
+      "id": "5005316",
+      "time": "2026-07-24 02:29:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "賓州州長：就扣留公共安全資金提起訴訟。"
+    },
+    {
+      "id": "mkt:019f903c-ff88-7aab-8e71-78fcd2adc1e6",
+      "time": "2026-07-24 02:29:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【German military to pull two warships from Red Sea within days】The German defense ministry said on Thursday the military will move two vessels from the Red Sea to the Mediterranean \"in the coming days.\" The minesweeper Fulda and replenishment ship Mosel were deployed to Djibouti to be available to potentially operate in the Strait of Hormuz after a US-Iran war ended; they will now be partially withdrawn, the ministry said, citing the region's \"turbulent political situation.\""
+    },
+    {
+      "id": "5005315",
+      "time": "2026-07-24 02:29:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "賓州州長表示，他將起訴特朗普政府。"
+    },
+    {
+      "id": "5005314",
+      "time": "2026-07-24 02:28:05",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：在人工智慧領域領先其他國家。"
+    },
+    {
+      "id": "5005313",
+      "time": "2026-07-24 02:27:42",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國投資公司協會（ICI）資料：貨幣市場基金資產規模降至 7.86 萬億美元。"
+    },
     {
       "id": "5005312",
       "time": "2026-07-24 02:27:03",
