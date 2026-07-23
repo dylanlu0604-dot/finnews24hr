@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24 05:50:24",
-  "count": 18003,
+  "updated": "2026-07-24 05:54:17",
+  "count": 18001,
   "items": [
     {
       "id": "mkt:019f90f3-9daa-7aab-8e73-d1bec84f9720",
@@ -164945,24 +164945,6 @@
         "MKT News"
       ],
       "text": "Iranian Students' News Agency reports a fire at a US military base in Kuwait near the Iraqi border."
-    },
-    {
-      "id": "4992982",
-      "time": "2026-07-17 05:53:39",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "百勝餐飲集團美股盤後下跌4%，美國食品藥品監督管理局（FDA）將就塔可鍾（Taco Bell）的生菜問題釋出警告。"
-    },
-    {
-      "id": "mkt:019f6ce9-1a5b-7aab-8dd1-9e0c251dacf5",
-      "time": "2026-07-17 05:50:43",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Argentina protests UK warship operations near Malvinas (Falkland Islands)】Argentina's Foreign Ministry on the 15th strongly protested operations by a UK warship near the Malvinas (Falkland Islands), citing the ongoing sovereignty dispute. The disagreement dates back decades—UN General Assembly Resolution 2065 (1965) recognizes a sovereignty dispute—and erupted into the 1982 Falklands/Malvinas war. Argentina says it has not abandoned its claim; the UK refuses to negotiate sovereignty."
     }
   ]
 }
