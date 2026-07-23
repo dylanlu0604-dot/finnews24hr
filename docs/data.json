@@ -1,7 +1,111 @@
 {
-  "updated": "2026-07-24 03:58:08",
+  "updated": "2026-07-24 04:02:05",
   "count": 18006,
   "items": [
+    {
+      "id": "mkt:019f9091-b34b-7aab-8e72-d2eb5e317b3c",
+      "time": "2026-07-24 04:01:35",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Intel (INTC.O) CFO says the company plans to substantially raise capex in 2027."
+    },
+    {
+      "id": "mkt:019f9091-8999-7aab-8e72-ceca7d660438",
+      "time": "2026-07-24 04:01:24",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bearish"
+      ],
+      "text": "Intel (INTC.O) sees Q3 revenue of $15.8-16.8 bln, below IBES estimate of $15.1 bln."
+    },
+    {
+      "id": "mkt:019f9091-4b52-7aab-8e72-c7738fd6f16a",
+      "time": "2026-07-24 04:01:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "INTC.O",
+        "Impact bullish",
+        "Nasdaq100"
+      ],
+      "text": "Intel (INTC.O) Q2 2026 revenue $16.13 bln, up from $12.9 bln year-ago; consensus $14.43 bln."
+    },
+    {
+      "id": "5005377",
+      "time": "2026-07-24 04:00:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股收盤：三大股指集體收跌】道指跌0.97%，標普500指數跌1.21%，納指跌2.15%。T MOBILE US INC跌10.71%，Rollins Inc跌9.27%，美國都福集團跌7.85%，谷歌A類股跌7.13%。“七姐妹”方面：蘋果跌1.29%，英偉達跌1.56%，微軟跌2.25%，Meta Platforms跌3.39%，亞馬遜跌4.62%，谷歌跌6.91%，特斯拉跌14.55%。"
+    },
+    {
+      "id": "5005376",
+      "time": "2026-07-24 04:00:46",
+      "tags": [
+        "公司",
+        "其他",
+        "焦點",
+        "國際"
+      ],
+      "text": "英特爾第二季度營收 161.3 億美元，市場預期 144.2 億美元。"
+    },
+    {
+      "id": "5005375",
+      "time": "2026-07-24 04:00:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【納斯達克中國金龍指數收跌0.62%】中進醫療跌9.66%，康迪車業跌7.53%，塗鴉智慧跌7.14%，嘉楠科技跌6.22%，小牛電動跌6.02%。"
+    },
+    {
+      "id": "mkt:019f9090-3abf-7aab-8e72-be0d8b7547e0",
+      "time": "2026-07-24 03:59:58",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Alphabet (GOOG.O)'s stake in ANTHROPIC is now valued at about $124 billion."
+    },
+    {
+      "id": "5005374",
+      "time": "2026-07-24 03:59:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國參議院多數黨領袖約翰·圖恩：我們計劃於下週就俄羅斯制裁法案進行投票。"
+    },
+    {
+      "id": "mkt:019f908e-b463-7aab-8e72-b23059eb3dd5",
+      "time": "2026-07-24 03:58:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【25 US states and DC sue Trump administration to block tying disaster aid to election changes】Twenty-five US states and the District of Columbia sued in U.S. District Court in Rhode Island seeking to block the Trump administration from conditioning part of FEMA disaster aid on state changes to election administration. The Department of Homeland Security said it would attach conditions to more than $1 billion in FEMA grants; states that do not submit plans to replace barcode/QR-scanned electronic voting systems with devices that accept hand-marked paper ballots would face a 20% withholding of the related funds."
+    },
+    {
+      "id": "te:economy:569370",
+      "time": "2026-07-24 03:57:34",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Argentina Retail Sales Jump in May — Argentina's retail sales rose 33.1% year-on-year to ARS 670.2 billion in May 2026, up from 11.9% in April and marking a one-year high. The strongest growth was recorded in furniture, home decoration and household textiles (58.3%), followed by perfumery and pharmacies (46.9%), sporting goods (46.0%), and food courts, food stores and kiosks (40.3%). Sales also increased for toys (33.9%), bookstores and stationery (33.9%), clothing, footwear and leather goods (30.5%), and entertainment (20.5%). In contrast, electronics, home appliances and computers posted the weakest growth, rising 9.1% from a year earlier. By region, retail sales in the City of Buenos Aires increased 37.7%. In the 24 districts of Greater Buenos Aires, sales were up 33.1% Meanwhile, sales in the Pampeana Region grew 28.4%. Sales in the Cuyo Region rose 29.8%. Finally, the Northern Region and Patagonia rose 29.5% and 34.9%, respectively."
+    },
     {
       "id": "5005373",
       "time": "2026-07-24 03:56:36",
@@ -164854,98 +164958,6 @@
         "國際"
       ],
       "text": "美國財長貝森特強調與伊拉克協同行動以制衡伊朗。"
-    },
-    {
-      "id": "4992931",
-      "time": "2026-07-17 04:01:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛：維持 2026 財年營業利潤率 31.5% 的預期不變。"
-    },
-    {
-      "id": "mkt:019f6c85-50f1-7aab-8dd0-8992f5f91f24",
-      "time": "2026-07-17 04:01:43",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "【US close: major indexes down; SK Hynix ADR falls 13.6%】US stocks closed lower on Thursday: the Nasdaq Composite fell 1.47%, the Dow Jones Industrial Average fell 0.2% and the S&P 500 fell 0.5%. SK Hynix ADR (SKHY.O) dropped 13.6%, SanDisk (SNDK.O) fell 12.6%, Micron Technology (MU.O) fell 5.6%, Google (GOOG.O) fell more than 4% and NVIDIA (NVDA.O) fell more than 2%. The Nasdaq Golden Dragon China Index rose 1.8%; Tencent Music (TME.N) gained 4%."
-    },
-    {
-      "id": "4992930",
-      "time": "2026-07-17 04:01:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "奈飛預計三季度每股收益（EPS）為0.82美元，分析師預期0.84美元。"
-    },
-    {
-      "id": "4992929",
-      "time": "2026-07-17 04:01:04",
-      "tags": [
-        "市場"
-      ],
-      "text": "ALPHABET股價下跌4.4%，市值蒸發2000億美元。"
-    },
-    {
-      "id": "4992928",
-      "time": "2026-07-17 04:00:48",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【美股收盤：三大股指集體收跌】道指跌0.20%，標普500指數跌0.51%，納指跌1.46%。閃迪跌12.63%，希捷跌10.00%，西部資料跌9.25%，康寧跌9.20%。“七姐妹”方面：蘋果漲1.73%，微軟漲1.37%，特斯拉跌0.88%，亞馬遜跌1.98%，英偉達跌2.39%，Meta Platforms跌2.47%，谷歌跌4.43%。"
-    },
-    {
-      "id": "4992927",
-      "time": "2026-07-17 04:00:11",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "巴西外長：針對受美國關稅影響的行業，巴西將出臺並公佈相關應對措施。"
-    },
-    {
-      "id": "te:markets:567640",
-      "time": "2026-07-17 04:00:05",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Visa Stock Price Hits 13-month High — Visa shares increased to 365.14 USD, the highest since June 2025. Over the past 4 weeks, Visa gained 10.31%, and in the last 12 months, it increased 4.18%."
-    },
-    {
-      "id": "4992926",
-      "time": "2026-07-17 04:00:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【納斯達克中國金龍指數收漲1.79%】盛豐物流漲13.77%，愛奇藝漲4.62%，小牛電動漲4.96%，康迪車業漲4.51%，樂信漲4.79%。"
-    },
-    {
-      "id": "4992925",
-      "time": "2026-07-17 03:59:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西外長：盧拉一直希望與美國展開談判。"
-    },
-    {
-      "id": "mkt:019f6c82-dddb-7aab-8dd0-838c0943d6e8",
-      "time": "2026-07-17 03:59:03",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian media reported that after U.S. airstrikes on Qeshm Island, eight additional explosions were heard near Massan village."
     }
   ]
 }
