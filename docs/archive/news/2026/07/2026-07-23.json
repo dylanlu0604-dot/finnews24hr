@@ -1,7 +1,99 @@
 {
   "date": "2026-07-23",
-  "count": 1242,
+  "count": 1252,
   "items": [
+    {
+      "id": "5003614",
+      "time": "2026-07-23 13:00:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "雀巢上半年銷售額431.1億瑞士法郎，預估430.2億瑞士法郎。"
+    },
+    {
+      "id": "5003613",
+      "time": "2026-07-23 13:00:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾基亞 預計全年調整後營業利潤21億歐元至26億歐元，預估23.6億歐元。"
+    },
+    {
+      "id": "mkt:019f8d58-9e20-7aab-8e59-e777a31799c9",
+      "time": "2026-07-23 13:00:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "01986.HK",
+        "Impact bullish"
+      ],
+      "text": "Caike New Energy (01986.HK) shares rose over 12% in afternoon trade after the company forecast net profit attributable to owners of the parent for 1H 2026 of at least RMB 90 mln, implying YoY growth of at least 867.7%."
+    },
+    {
+      "id": "mkt:019f8d58-61f0-7aab-8e59-db358623f0c2",
+      "time": "2026-07-23 13:00:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Singapore June CPI YoY 1.9% vs 2.0% expected; May 1.8%."
+    },
+    {
+      "id": "mkt:019f8d58-47b6-7aab-8e59-d5731281a6dc",
+      "time": "2026-07-23 13:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Singapore | CPI (YoY) (Jun) | actual 1.9% | consensus 2% | previous 1.80%"
+    },
+    {
+      "id": "5003611",
+      "time": "2026-07-23 12:59:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中智人民幣跨境投融資推介會聚焦雙邊金融合作】由中國銀行和跨境銀行間支付清算有限責任公司聯合舉辦的中智人民幣跨境投融資推介會22日在智利首都聖地亞哥舉行，中智兩國金融界、政商界百餘名嘉賓出席。與會人士認為，中國金融市場持續擴大開放，將為中智經貿合作高質量發展貢獻更多金融力量。中國駐智利大使牛清報致辭說，深化金融互聯互通、擴大人民幣在雙邊貿易投資中的使用，既是兩國企業降本避險的務實選擇，更是中智合作向更深層次邁進的必然要求，希望金融合作成為中智全面戰略伙伴關係提質升級的新引擎。智利金融市場委員會委員貝爾特蘭·德拉蒙接受新華社記者採訪時表示，智中兩國經貿合作密切，不斷深化兩國金融合作是必然趨勢。雙邊金融和貿易往來有望加大本幣結算比例，造福廣大進出口企業和普通民眾。推介會上，中智工商企業界代表探討中國市場對外開放與投資機遇，圍繞完善人民幣產品體系、拓展雙邊金融合作等話題展開交流。2015年，中國人民銀行與智利中央銀行簽署人民幣/智利比索雙邊本幣互換協議，並於2021年續簽，為雙邊貿易投資提供流動性保障，也為人民幣在智利及拉美地區使用創造穩定的金融環境。（新華社）"
+    },
+    {
+      "id": "mkt:019f8d57-5223-7aab-8e59-c8c57dc15995",
+      "time": "2026-07-23 12:58:57",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "Hyundai Motor said Q2 production was disrupted by interruptions to auto-parts supplies in South Korea."
+    },
+    {
+      "id": "mkt:019f8d57-20f1-7aab-8e59-c49438e10da3",
+      "time": "2026-07-23 12:58:45",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【China, Chile push renminbi cross-border investment in Santiago】Bank of China and Cross‑Border Interbank Payment and Settlement Co., Ltd. (CIPS) jointly hosted a renminbi cross‑border investment and financing promotion event in Santiago on the 22nd; more than 100 finance, political and business representatives attended. Participants said China’s ongoing financial opening will expand renminbi use in bilateral trade and investment; China’s ambassador to Chile said deepening financial connectivity and broader renminbi usage is a pragmatic cost‑and‑risk management choice for firms and necessary to deepen bilateral cooperation, urging financial ties to become a new engine for upgrading the strategic partnership."
+    },
+    {
+      "id": "5003610",
+      "time": "2026-07-23 12:57:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗塔斯尼姆通訊社：伊朗打擊科威特境內美軍基地及通訊塔】伊朗半官方媒體塔斯尼姆通訊社報道，伊朗革命衛隊對科威特境內美軍薩勒姆基地與阿迪裡基地發動打擊，目標包含愛國者防空系統、直升機等軍用裝備，以及一座通訊塔。報道稱，此次針對通訊塔的打擊，是為報復美方此前對伊朗通訊塔實施的襲擊。塔斯尼姆另一則報道補充，數小時前伊朗軍方同樣襲擊了科威特美軍基地，打擊目標涵蓋薩勒姆基地燃料儲存區、多哈補給倉庫，以及阿里凡軍營彈藥庫。"
+    },
+    {
+      "id": "mkt:019f8d55-55b0-7aab-8e59-b910c6d864a7",
+      "time": "2026-07-23 12:56:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Hyundai Motor says hybrid vehicles accounted for 18.9% of its Q2 vehicle sales."
+    },
     {
       "id": "mkt:019f8d55-377c-7aab-8e59-b0e32f811f71",
       "time": "2026-07-23 12:56:39",
