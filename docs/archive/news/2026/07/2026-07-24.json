@@ -1,7 +1,78 @@
 {
   "date": "2026-07-24",
-  "count": 231,
+  "count": 239,
   "items": [
+    {
+      "id": "mkt:019f9054-5306-7aab-8e71-e7f9a070a85b",
+      "time": "2026-07-24 02:54:33",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish",
+        "005930.KS",
+        "000660.KS"
+      ],
+      "text": "【AI rally lifts hedge funds to largest quarterly AUM gain on record】FT reports AI-driven equity gains and investor exits from private equity and credit funds helped push hedge fund AUM up $409 bln last quarter to $5.6 tln, driven largely by strong investment performance. Funds suffered losses in volatile March after the outbreak of war in Iran but have since benefited from a rally led by chip names including Samsung, AMD and SK Hynix. HFR data show investor inflows of $134 bln over the past three quarters, the biggest three-quarter inflow since 2007. TriumCapital co-CEO Shenan Danani said he expects a ‘‘golden era’’ for hedge funds."
+    },
+    {
+      "id": "mkt:019f9054-2c97-7aab-8e71-d83a581c0990",
+      "time": "2026-07-24 02:54:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "U.S. President Trump says Iran is weaker than four months ago."
+    },
+    {
+      "id": "5005341",
+      "time": "2026-07-24 02:53:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：如果美國不對伊朗採取行動，就沒有任何人會對伊朗採取行動。"
+    },
+    {
+      "id": "5005340",
+      "time": "2026-07-24 02:53:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗今天的實力比四個月前更弱。"
+    },
+    {
+      "id": "5005339",
+      "time": "2026-07-24 02:52:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普： 多虧委內瑞拉，我們賺了一大筆錢。 這筆錢本就該歸我們。"
+    },
+    {
+      "id": "5005338",
+      "time": "2026-07-24 02:51:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱對伊朗海上封鎖已迫使12艘商船改道】當地時間7月23日，美軍中央司令部表示，自9天前恢復對伊朗的海上封鎖以來，美軍已迫使12艘商業船隻改變航向，並使1艘船失去航行能力，以阻止船隻進出伊朗港口或沿海地區。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9051-0b1c-7aab-8e71-d3ad350fe5cb",
+      "time": "2026-07-24 02:50:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US President Trump said progress in dealing with Iran has been very smooth and outcomes very good."
+    },
+    {
+      "id": "5005337",
+      "time": "2026-07-24 02:50:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "佳明（GARMIN）計劃到2028年在全美推廣移動清關配送服務。"
+    },
     {
       "id": "mkt:019f9050-cb27-7aab-8e71-c803fef0ae38",
       "time": "2026-07-24 02:50:41",
