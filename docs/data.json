@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-23 13:30:28",
-  "count": 17562,
+  "updated": "2026-07-23 13:34:38",
+  "count": 17557,
   "items": [
+    {
+      "id": "5003646",
+      "time": "2026-07-23 13:33:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面概念異動拉昇 創新醫療直線漲停】午後腦機介面概念異動拉昇，創新醫療直線漲停，三博腦科、塞力醫療、南京熊貓、愛朋醫療、美好醫療等跟漲。"
+    },
+    {
+      "id": "5003645",
+      "time": "2026-07-23 13:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數向上觸及7100點，日內漲4.48%。"
+    },
+    {
+      "id": "mkt:019f8d75-18cd-7aab-8e5a-e9a4971efadf",
+      "time": "2026-07-23 13:31:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "KOSPI",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI rose to 7,100, up 4.48% intraday."
+    },
+    {
+      "id": "mkt:019f8d74-d909-7aab-8e5a-e72302fd6055",
+      "time": "2026-07-23 13:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Indonesian sovereign wealth fund Danantara is exploring issuance of at least $500m of long-dated U.S.-dollar bonds."
+    },
+    {
+      "id": "mkt:019f8d73-d2a0-7aab-8e5a-df8443c950cf",
+      "time": "2026-07-23 13:30:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange triggered the automated trading-pause mechanism for the KOSDAQ."
+    },
+    {
+      "id": "5003644",
+      "time": "2026-07-23 13:29:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【雷諾集團：上半年全球銷量達116萬輛】據雷諾集團訊息，2026年上半年，雷諾集團全球銷量累計達到1,165,133輛（同比下降0.4%）。在歐洲市場，集團乘用車及輕型商用車銷量達821,092輛（-1.3%）。雷諾品牌銷量達528,849 輛（+2.6%），穩居歐洲市場第二。達契亞（Dacia）品牌乘用車銷量達到284,021輛（-8.7%）。Alpine品牌乘用車銷量達到8,222（+67.6%）。2026年上半年，歐洲市場電動化車型銷量佔集團銷量的52.0%，提升8.2個百分點，其中純電動車型（BEV）佔比為18.8%。下半年，雷諾Trafic Van E-Tech、面向拉丁美洲的雷諾Niagara、搭載全新混動動力總成的達契亞Sandero、全新達契亞Spring、達契亞 Striker以及Alpine A390 GTS將陸續釋出。"
+    },
     {
       "id": "5003643",
       "time": "2026-07-23 13:27:27",
@@ -160536,114 +160588,6 @@
         "觀點"
       ],
       "text": "摩根士丹利將阿斯麥目標價從 1830 歐元上調至 1930 歐元。"
-    },
-    {
-      "id": "4991461",
-      "time": "2026-07-16 13:34:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電第二季智慧手機業務營收環比下降4%。"
-    },
-    {
-      "id": "4991460",
-      "time": "2026-07-16 13:33:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電第二季高效能運算營收環比增長20%。"
-    },
-    {
-      "id": "4991459",
-      "time": "2026-07-16 13:33:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "瀾起科技盤中跌15.03%，現報214.67元。"
-    },
-    {
-      "id": "mkt:019f696a-7fe7-7aab-8dbb-2e19089f1ac5",
-      "time": "2026-07-16 13:33:34",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish",
-        "Nasdaq100",
-        "S&P500"
-      ],
-      "text": "TSMC's high-performance computing revenue rose 20% QoQ in Q2."
-    },
-    {
-      "id": "mkt:019f696a-4542-7aab-8dbb-22d89975eee0",
-      "time": "2026-07-16 13:33:19",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "TSMC (TSM.N) Q2 gross margin 67.7%, up 9.1 percentage points YoY."
-    },
-    {
-      "id": "4991458",
-      "time": "2026-07-16 13:33:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電第二季度營收為1.270萬億臺幣，上年同期為9337.9億臺幣。"
-    },
-    {
-      "id": "mkt:019f6969-f25f-7aab-8dbb-1c908e6ff3c6",
-      "time": "2026-07-16 13:32:58",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite",
-        "SZSE Component"
-      ],
-      "text": "A-share panel sector weakened in afternoon trade; Yushun Electronics hit the daily down limit, while Tianshan Electronics, Gelinda, Aisen Co., Tianlu Technology, Qiutian Micro and Ruilian New Materials also fell."
-    },
-    {
-      "id": "mkt:019f6968-e249-7aab-8dbb-13e1bab44364",
-      "time": "2026-07-16 13:31:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "TSMC reported Q2 net profit of NT$706.6 billion."
-    },
-    {
-      "id": "4991457",
-      "time": "2026-07-16 13:31:46",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【面板板塊震盪走弱，宇順電子跌停】面板板塊震盪走弱，宇順電子跌停，天山電子、格林達、艾森股份、天祿科技、秋田微、瑞聯新材等跟跌。"
-    },
-    {
-      "id": "4991456",
-      "time": "2026-07-16 13:31:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "臺積電第二季度毛利率67.7％，預估67.1％。"
-    },
-    {
-      "id": "4991455",
-      "time": "2026-07-16 13:30:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "中材科技觸及跌停，成交額29.81億元，封單337手。"
     }
   ]
 }

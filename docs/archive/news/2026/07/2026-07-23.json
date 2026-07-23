@@ -1,7 +1,59 @@
 {
   "date": "2026-07-23",
-  "count": 1315,
+  "count": 1321,
   "items": [
+    {
+      "id": "5003646",
+      "time": "2026-07-23 13:33:39",
+      "tags": [
+        "市場"
+      ],
+      "text": "【腦機介面概念異動拉昇 創新醫療直線漲停】午後腦機介面概念異動拉昇，創新醫療直線漲停，三博腦科、塞力醫療、南京熊貓、愛朋醫療、美好醫療等跟漲。"
+    },
+    {
+      "id": "5003645",
+      "time": "2026-07-23 13:31:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國KOSPI指數向上觸及7100點，日內漲4.48%。"
+    },
+    {
+      "id": "mkt:019f8d75-18cd-7aab-8e5a-e9a4971efadf",
+      "time": "2026-07-23 13:31:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "KOSPI",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI rose to 7,100, up 4.48% intraday."
+    },
+    {
+      "id": "mkt:019f8d74-d909-7aab-8e5a-e72302fd6055",
+      "time": "2026-07-23 13:31:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Sources said Indonesian sovereign wealth fund Danantara is exploring issuance of at least $500m of long-dated U.S.-dollar bonds."
+    },
+    {
+      "id": "mkt:019f8d73-d2a0-7aab-8e5a-df8443c950cf",
+      "time": "2026-07-23 13:30:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Korea Exchange triggered the automated trading-pause mechanism for the KOSDAQ."
+    },
+    {
+      "id": "5003644",
+      "time": "2026-07-23 13:29:55",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【雷諾集團：上半年全球銷量達116萬輛】據雷諾集團訊息，2026年上半年，雷諾集團全球銷量累計達到1,165,133輛（同比下降0.4%）。在歐洲市場，集團乘用車及輕型商用車銷量達821,092輛（-1.3%）。雷諾品牌銷量達528,849 輛（+2.6%），穩居歐洲市場第二。達契亞（Dacia）品牌乘用車銷量達到284,021輛（-8.7%）。Alpine品牌乘用車銷量達到8,222（+67.6%）。2026年上半年，歐洲市場電動化車型銷量佔集團銷量的52.0%，提升8.2個百分點，其中純電動車型（BEV）佔比為18.8%。下半年，雷諾Trafic Van E-Tech、面向拉丁美洲的雷諾Niagara、搭載全新混動動力總成的達契亞Sandero、全新達契亞Spring、達契亞 Striker以及Alpine A390 GTS將陸續釋出。"
+    },
     {
       "id": "5003643",
       "time": "2026-07-23 13:27:27",
