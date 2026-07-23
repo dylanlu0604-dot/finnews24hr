@@ -1,7 +1,194 @@
 {
   "date": "2026-07-23",
-  "count": 741,
+  "count": 761,
   "items": [
+    {
+      "id": "5003296",
+      "time": "2026-07-23 09:00:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "中國6月Swift人民幣在全球支付中佔比 3.1%，前值 2.75%。"
+    },
+    {
+      "id": "mkt:019f8c7c-ef4c-7aab-8e55-6eeb6293ed54",
+      "time": "2026-07-23 09:00:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "Shanghai Gold Exchange Gold T+D rose 0.58% to 902.5 yuan/gram in early trading on Thursday, July 23; Silver T+D rose 1.21% to 14,669 yuan/kg."
+    },
+    {
+      "id": "mkt:019f8c7c-dbc4-7aab-8e55-61226fb6439a",
+      "time": "2026-07-23 09:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "At the open, most-active domestic futures contracts were mixed: Shanghai crude (SC) rose over 3%; fuel oil, container freight (Europe route), low-sulfur fuel oil (LU) and soybean meal climbed nearly 2%; palm oil, Shanghai silver, rapeseed meal and lithium carbonate gained more than 1%. On the downside, alumina fell over 1%; synthetic rubber, eggs and live hogs declined about 1%."
+    },
+    {
+      "id": "mkt:019f8c7c-be14-7aab-8e55-5f4387cf1aa4",
+      "time": "2026-07-23 09:00:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "FTSE China A50 index futures rose 0.41% at the open."
+    },
+    {
+      "id": "5003295",
+      "time": "2026-07-23 09:00:12",
+      "tags": [
+        "其他"
+      ],
+      "text": "臺灣證交所加權股價指數開高0.2%報44,899.04。"
+    },
+    {
+      "id": "5003294",
+      "time": "2026-07-23 09:00:10",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金突破4140美元/盎司，日內跌0.28%。"
+    },
+    {
+      "id": "5003293",
+      "time": "2026-07-23 09:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "燃料油連續主力合約日內漲2%，現報3852.00元。"
+    },
+    {
+      "id": "5003292",
+      "time": "2026-07-23 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "富時中國A50指數期貨開盤上漲0.37%。"
+    },
+    {
+      "id": "5003291",
+      "time": "2026-07-23 09:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【商品期貨開盤】上海原油連續漲3.40%，燃料油連續漲2.09%，集運指數歐線期貨連續漲2.03%，低硫燃料油連續漲1.95%，豆粕連續漲1.94%。"
+    },
+    {
+      "id": "5003290",
+      "time": "2026-07-23 08:59:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【阿根廷足協闢謠：主席塔皮亞、財務主管並未被美國司法機關傳喚和出庭】7月23日，阿根廷足協官方宣告：各方報道中提及的檔案，並非針對阿根廷足協主席克勞迪奧·塔皮亞或足協財務主管巴勃羅·托維吉諾的傳票。美國佛羅里達南區聯邦地區法院發出的傳票實際針對的是第三方，要求該第三方在大陪審團前出庭，並提交與包括本協會官員在內的多方人員相關的檔案和通訊記錄。因此，所謂塔皮亞或托維吉諾被美國司法機關傳喚作證的說法純屬捏造，兩人手機等電子裝置被查扣的訊息也完全失實。該檔案未對阿根廷足協主席及財務主管採取任何個人限制措施，未要求二人出庭，未施加任何程式性義務，更無查封或扣押其個人財產的記錄。"
+    },
+    {
+      "id": "5003289",
+      "time": "2026-07-23 08:59:32",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "【機構：在印尼盾承壓之際，印尼央行加息預期依然存在】BMI在一份報告中表示，在國內政策擔憂和美伊緊張局勢重燃導致印尼盾承壓之際，預計印尼央行年底前仍將再加息50個基點至6.25%。該機構預計，儘管近期採取了干預措施並收緊了政策，但貨幣將持續疲軟。該機構稱，油價上漲可能會增加印尼的進口支出並加劇財政擔憂，而揮之不去的治理和政策不確定性可能會繼續拖累投資者情緒。不過BMI補充道，預計印尼支援增長的立場將限制進一步加息的幅度。"
+    },
+    {
+      "id": "mkt:019f8c7b-da83-7aab-8e55-520d65c51605",
+      "time": "2026-07-23 08:59:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Lebanon official says next round of Lebanon‑Israel talks to be held in Rome next month】UK media on July 22, citing a Lebanese government official, reported Lebanon and Israel plan to attend a new round of talks in Italy on Aug. 4. Italian Deputy Prime Minister and Foreign Minister Antonio Tajani confirmed the date and said Italy will continue to lead efforts to facilitate dialogue and regional stability."
+    },
+    {
+      "id": "5003288",
+      "time": "2026-07-23 08:59:04",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日元貿易加權指數下跌 凸顯兌主要貨幣呈全面頹勢】在日元兌美元匯率跌至四十年來低點佔據各大媒體頭條的同時，一項衡量日元強弱的更廣泛指標也向日本發出了同樣令人擔憂的訊號。日本央行的名義有效匯率指數——衡量日元兌一籃子貿易加權貨幣的指數——今年已跌至歷史新低，反映出日元兌歐元、英鎊和幾種亞洲主要貨幣普遍疲軟。日元貶值凸顯了其疲軟表現遠不止於兌美元，這也加劇了投資者對輸入型通脹和日本購買力下降的擔憂。貿易加權日元走弱，推高了來自更多貿易伙伴國產品的進口成本，使日本央行在不損害經濟復甦的前提下實現貨幣政策正常化的努力變得更加複雜。"
+    },
+    {
+      "id": "te:economy:569007",
+      "time": "2026-07-23 08:58:33",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "New Zealand",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "New Zealand to Launch Monthly CPI in July 2027 — Statistics New Zealand will begin publishing a monthly Consumer Price Index (CPI) from July 2027, responding to strong demand from financial markets and the wider public for more timely inflation data. The new monthly indicator is expected to improve inflation monitoring and provide the Reserve Bank of New Zealand with a clearer, more up-to-date picture of price pressures, helping policymakers make better-informed interest rate decisions amid ongoing geopolitical uncertainty. More frequent inflation data should reduce uncertainty and improve the timing and precision of policy responses. The monthly CPI will initially complement, rather than replace, the existing quarterly CPI, allowing both measures to be published in parallel."
+    },
+    {
+      "id": "5003287",
+      "time": "2026-07-23 08:57:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【中信期貨：白銀跟隨黃金反彈，但零售端參與不足，多頭格局仍有待確認】隔夜銀價反彈，倫敦銀現觸及60美元/盎司，波動彈性明顯大於黃金。但本輪反彈中零售投資者參與熱情明顯低於年初暴漲時期，這部分需求的缺失可能成為進一步上行的阻力。ETF方面有溫和流入，機構端情緒有所回暖，但零售端的冷淡形成對沖。短期形態改善，但反彈持續性需觀察黃金錶現及散戶資金能否迴流。"
+    },
+    {
+      "id": "5003286",
+      "time": "2026-07-23 08:57:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【7月22日421股獲融資買入超億元 中際旭創穫買入68.01億元居首】7月22日共有3510只個股獲融資資金買入，有421股買入金額超億元。其中，中際旭創、兆易創新、新易盛融資買入金額排名前三，分別獲買入68.01億元、47.76億元、45.85億元。"
+    },
+    {
+      "id": "5003285",
+      "time": "2026-07-23 08:57:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "【黎巴嫩政府官員：新一輪黎以會談下月在羅馬舉行】英國方面22日援引一名黎巴嫩政府官員的話稱，黎巴嫩和以色列計劃於8月4日參加在義大利舉行的新一輪會談。義大利副總理兼外長塔亞尼當天證實了這一訊息。他表示，義大利將繼續在促進雙方對話和地區穩定方面發揮主導作用。"
+    },
+    {
+      "id": "mkt:019f8c79-a89c-7aab-8e55-4833c52bf75e",
+      "time": "2026-07-23 08:56:50",
+      "tags": [
+        "MKT News",
+        "01788.HK"
+      ],
+      "text": "GUOTAI JUNAN INTERNATIONAL (01788.HK) will be temporarily suspended from trading from July 23."
+    },
+    {
+      "id": "5003284",
+      "time": "2026-07-23 08:56:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【香港住宅租金勢創十年來最大夏季漲幅】隨著香港房地產市場的復甦勢頭增強，當地住房租賃市場有望創下十年來最大的夏季漲幅。根據中原地產，今年上半年這個亞洲金融中心的租金環比上漲近4%。地產中介機構們預計，內地專業人士和學生穩定流入，疊加來自外籍人士的需求也在增長，將促使今年夏季租金錄得自2016年以來最大同期升幅。"
+    },
+    {
+      "id": "5003282",
+      "time": "2026-07-23 08:54:26",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【一名期權交易員豪擲逾2000萬美元 押注玉米價格將升至三年高位】一位期權交易員投入逾2000萬美元，押注玉米價格將升至2023年以來最高水平。在玉米出口量創紀錄之際，美國農戶在春播季縮減了玉米種植面積。週三，芝加哥期貨交易所成交了一筆規模達10.5萬份的11月5.50美元/6美元看漲價差期權交易，對應玉米數量超過5億蒲式耳。受高溫熱浪影響，美國農作物生長勢頭減弱，而7月通常是美國農作物生長發育最關鍵的月份。隨著美國玉米播種面積降至兩年來最低水平，分析師此前表示，無論是產量進一步下降還是需求繼續增長，都可能推動價格走高。週三，12月期貨價格上漲2%，至每蒲式耳4.8475美元，本月累計漲幅達11%。交投最活躍的期貨合約價格上次高於每蒲式耳5.50美元是在2023年7月。如果玉米價格較當前水平上漲近15%至每蒲式耳5.50美元，這筆押注便開始獲得回報；若價格升至每蒲式耳6美元，最大收益約可達到2.5億美元。這筆交易的規模引發了市場猜測，認為操盤手是對沖基金或其他大型投資者，而不是終端使用者的套保需求。"
+    },
     {
       "id": "5003281",
       "time": "2026-07-23 08:53:29",
