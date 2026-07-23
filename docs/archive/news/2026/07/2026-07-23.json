@@ -1,7 +1,157 @@
 {
   "date": "2026-07-23",
-  "count": 2910,
+  "count": 2927,
   "items": [
+    {
+      "id": "te:markets:569285",
+      "time": "2026-07-23 20:24:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Eases After ECB Decision — The euro fell below $1.139 on Thursday after the European Central Bank left its key interest rates unchanged at its July meeting, in line with market expectations. Policymakers maintained a cautious, data-dependent stance, stressing a wait-and-see approach amid heightened uncertainty, particularly around energy prices. After delivering its first rate increase in three years in June, the ECB reiterated that future policy decisions will depend on incoming economic data. Since then, softer inflation, weaker wage growth, slower economic activity and lower inflation expectations have reduced the urgency for further tightening. However, the recent surge in oil prices driven by escalating tensions in the Middle East has renewed concerns that higher energy costs could feed into inflation and delay policy easing. Despite those risks, money markets continue to price in at least two ECB rate cuts by year-end, with the next move fully expected in September."
+    },
+    {
+      "id": "5004772",
+      "time": "2026-07-23 20:24:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元跌至9日低點1.1381美元。"
+    },
+    {
+      "id": "5004771",
+      "time": "2026-07-23 20:24:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長：集團已在IT支援職能部門確定了到2030年約80%的目標降本額度。"
+    },
+    {
+      "id": "5004770",
+      "time": "2026-07-23 20:24:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長：約四分之一的目標節省額度最早將於2027年落實到位。"
+    },
+    {
+      "id": "5004769",
+      "time": "2026-07-23 20:24:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長表示：自2027年起，成本收入比的改善速度可加快至每年約2個百分點。"
+    },
+    {
+      "id": "5004768",
+      "time": "2026-07-23 20:24:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長認為，長期來看成本收入比有望逐步降至約50%。"
+    },
+    {
+      "id": "mkt:019f8eee-b769-7aab-8e68-5891aeaed37c",
+      "time": "2026-07-23 20:23:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Oppenheimer cut Alphabet (GOOG.O) PT to $400 from $445."
+    },
+    {
+      "id": "mkt:019f8eee-7383-7aab-8e68-54f3f504b60a",
+      "time": "2026-07-23 20:23:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "US stock index futures extended losses; Nasdaq-100 futures down more than 1%, S&P 500 futures down 0.73%, Dow futures down 0.83%."
+    },
+    {
+      "id": "5004767",
+      "time": "2026-07-23 20:23:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧本海默將ALPHABET目標價從445美元下調至400美元。"
+    },
+    {
+      "id": "5004766",
+      "time": "2026-07-23 20:22:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "靛藍航空首席財務官：目前已有規章制度明確要求機場與航空公司分開運營。"
+    },
+    {
+      "id": "5004765",
+      "time": "2026-07-23 20:22:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST宏達：控股股東擬轉讓5%股份 引入新控股股東】ST宏達公告稱，7月23日，公司控股股東、實際控制人朱恩偉與巨融科技簽署《合作框架協議》。朱恩偉擬將所持公司5%股份轉讓給巨融科技，巨融科技擬以6億元現金認購公司向特定物件發行不超總股本30%的股份，成為控股股東。交易完成後，朱恩偉不再實控公司。朱恩偉需協助處置兩家已停運營子公司，確保12個月內從上市公司剝離。協議轉讓及發行股份尚需相關稽核和批覆，存在不確定性。"
+    },
+    {
+      "id": "te:markets:569284",
+      "time": "2026-07-23 20:22:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Norfolk Southern earnings above expectations at 3.52 USD — Norfolk Southern (NSC) released earnings per share at 3.52 USD, compared to market expectations of 3.20 USD."
+    },
+    {
+      "id": "te:markets:569283",
+      "time": "2026-07-23 20:22:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Freeport-McMoran earnings above expectations at 0.74 USD — Freeport-McMoran (FCX) released earnings per share at 0.74 USD, compared to market expectations of 0.58 USD."
+    },
+    {
+      "id": "mkt:019f8eec-b40d-7aab-8e68-48160c9c3cc7",
+      "time": "2026-07-23 20:21:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump: If Houthis attack ships again, US will hold Iran responsible】Trump said on social media that a year ago the US carried out strong strikes against the Houthis after they attacked ships and disrupted shipping and trade. He said the Houthis had largely behaved responsibly since, including during US-Iran tensions, but resumed actions last night when they fired on two Saudi vessels. He warned that if they strike again the US will hold Iran responsible because the Houthis are Iranian proxies and/or affiliated forces, and that the US would carry out significant military strikes on Iran and would also target the Houthis."
+    },
+    {
+      "id": "5004764",
+      "time": "2026-07-23 20:21:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至1%。"
+    },
     {
       "id": "5004763",
       "time": "2026-07-23 20:21:13",
@@ -101,6 +251,15 @@
         "國際"
       ],
       "text": "【歐洲央行維持利率不變】歐洲央行週四維持利率不變，但投資者預計未來幾個月該行將加息以遏制由中東戰爭引發的通貨膨脹。歐洲央行存款機制利率維持在2.25%不變，符合市場普遍預期，上個月該行進行了近三年來的首次加息。隨著霍爾木茲海峽緊張局勢升級，全球油價已再度向每桶100美元逼近，重新引發因戰爭導致的通脹壓力風險。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819160130",
+      "time": "2026-07-23 20:19:46",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【交易員對歐洲央行的押注保持穩定】交易員對歐洲央行的押注保持穩定，預計年末前將加息48個基點。"
     },
     {
       "id": "5004760",
@@ -377,6 +536,15 @@
         "MKT News"
       ],
       "text": "ECB says it is closely monitoring the intensity and duration of the shock."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819158395",
+      "time": "2026-07-23 20:16:13",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行未對特定利率路徑作出預先承諾。"
     },
     {
       "id": "mkt:019f8ee7-93c3-7aab-8e67-c26f4aca7cbf",

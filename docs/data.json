@@ -1,7 +1,157 @@
 {
-  "updated": "2026-07-23 20:22:07",
-  "count": 17875,
+  "updated": "2026-07-23 20:26:10",
+  "count": 17884,
   "items": [
+    {
+      "id": "5004772",
+      "time": "2026-07-23 20:24:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "歐元跌至9日低點1.1381美元。"
+    },
+    {
+      "id": "te:markets:569285",
+      "time": "2026-07-23 20:24:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Currency",
+        "Importance 0"
+      ],
+      "text": "Euro Eases After ECB Decision — The euro fell below $1.139 on Thursday after the European Central Bank left its key interest rates unchanged at its July meeting, in line with market expectations. Policymakers maintained a cautious, data-dependent stance, stressing a wait-and-see approach amid heightened uncertainty, particularly around energy prices. After delivering its first rate increase in three years in June, the ECB reiterated that future policy decisions will depend on incoming economic data. Since then, softer inflation, weaker wage growth, slower economic activity and lower inflation expectations have reduced the urgency for further tightening. However, the recent surge in oil prices driven by escalating tensions in the Middle East has renewed concerns that higher energy costs could feed into inflation and delay policy easing. Despite those risks, money markets continue to price in at least two ECB rate cuts by year-end, with the next move fully expected in September."
+    },
+    {
+      "id": "5004771",
+      "time": "2026-07-23 20:24:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長：集團已在IT支援職能部門確定了到2030年約80%的目標降本額度。"
+    },
+    {
+      "id": "5004770",
+      "time": "2026-07-23 20:24:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長：約四分之一的目標節省額度最早將於2027年落實到位。"
+    },
+    {
+      "id": "5004769",
+      "time": "2026-07-23 20:24:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長表示：自2027年起，成本收入比的改善速度可加快至每年約2個百分點。"
+    },
+    {
+      "id": "5004768",
+      "time": "2026-07-23 20:24:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行執行長認為，長期來看成本收入比有望逐步降至約50%。"
+    },
+    {
+      "id": "mkt:019f8eee-b769-7aab-8e68-5891aeaed37c",
+      "time": "2026-07-23 20:23:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Oppenheimer cut Alphabet (GOOG.O) PT to $400 from $445."
+    },
+    {
+      "id": "mkt:019f8eee-7383-7aab-8e68-54f3f504b60a",
+      "time": "2026-07-23 20:23:39",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Wall Street (US)",
+        "Nasdaq100",
+        "Impact bearish",
+        "S&P500",
+        "Dow"
+      ],
+      "text": "US stock index futures extended losses; Nasdaq-100 futures down more than 1%, S&P 500 futures down 0.73%, Dow futures down 0.83%."
+    },
+    {
+      "id": "5004767",
+      "time": "2026-07-23 20:23:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "奧本海默將ALPHABET目標價從445美元下調至400美元。"
+    },
+    {
+      "id": "5004766",
+      "time": "2026-07-23 20:22:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "靛藍航空首席財務官：目前已有規章制度明確要求機場與航空公司分開運營。"
+    },
+    {
+      "id": "5004765",
+      "time": "2026-07-23 20:22:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST宏達：控股股東擬轉讓5%股份 引入新控股股東】ST宏達公告稱，7月23日，公司控股股東、實際控制人朱恩偉與巨融科技簽署《合作框架協議》。朱恩偉擬將所持公司5%股份轉讓給巨融科技，巨融科技擬以6億元現金認購公司向特定物件發行不超總股本30%的股份，成為控股股東。交易完成後，朱恩偉不再實控公司。朱恩偉需協助處置兩家已停運營子公司，確保12個月內從上市公司剝離。協議轉讓及發行股份尚需相關稽核和批覆，存在不確定性。"
+    },
+    {
+      "id": "te:markets:569284",
+      "time": "2026-07-23 20:22:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Norfolk Southern earnings above expectations at 3.52 USD — Norfolk Southern (NSC) released earnings per share at 3.52 USD, compared to market expectations of 3.20 USD."
+    },
+    {
+      "id": "te:markets:569283",
+      "time": "2026-07-23 20:22:05",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Freeport-McMoran earnings above expectations at 0.74 USD — Freeport-McMoran (FCX) released earnings per share at 0.74 USD, compared to market expectations of 0.58 USD."
+    },
+    {
+      "id": "mkt:019f8eec-b40d-7aab-8e68-48160c9c3cc7",
+      "time": "2026-07-23 20:21:44",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【Trump: If Houthis attack ships again, US will hold Iran responsible】Trump said on social media that a year ago the US carried out strong strikes against the Houthis after they attacked ships and disrupted shipping and trade. He said the Houthis had largely behaved responsibly since, including during US-Iran tensions, but resumed actions last night when they fired on two Saudi vessels. He warned that if they strike again the US will hold Iran responsible because the Houthis are Iranian proxies and/or affiliated forces, and that the US would carry out significant military strikes on Iran and would also target the Houthis."
+    },
+    {
+      "id": "5004764",
+      "time": "2026-07-23 20:21:41",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克100指數期貨跌幅擴大至1%。"
+    },
     {
       "id": "5004763",
       "time": "2026-07-23 20:21:13",
@@ -101,6 +251,15 @@
         "國際"
       ],
       "text": "【歐洲央行維持利率不變】歐洲央行週四維持利率不變，但投資者預計未來幾個月該行將加息以遏制由中東戰爭引發的通貨膨脹。歐洲央行存款機制利率維持在2.25%不變，符合市場普遍預期，上個月該行進行了近三年來的首次加息。隨著霍爾木茲海峽緊張局勢升級，全球油價已再度向每桶100美元逼近，重新引發因戰爭導致的通脹壓力風險。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819160130",
+      "time": "2026-07-23 20:19:46",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【交易員對歐洲央行的押注保持穩定】交易員對歐洲央行的押注保持穩定，預計年末前將加息48個基點。"
     },
     {
       "id": "5004760",
@@ -377,6 +536,15 @@
         "MKT News"
       ],
       "text": "ECB says it is closely monitoring the intensity and duration of the shock."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819158395",
+      "time": "2026-07-23 20:16:13",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行未對特定利率路徑作出預先承諾。"
     },
     {
       "id": "5004744",
@@ -163585,77 +163753,6 @@
         "公司"
       ],
       "text": "通用電氣航空執行長：我們不存在需求問題。"
-    },
-    {
-      "id": "4992384",
-      "time": "2026-07-16 20:25:53",
-      "tags": [
-        "公司",
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨漲跌不一，道指期貨漲0.17%，標普500指數期貨跌0.26%，納指期貨跌0.93%。\n②德國DAX指數跌0.90%，英國富時100指數跌0.19%，法國CAC40指數跌0.83%，歐洲斯托克50指數跌0.56%。\n③WTI原油漲0.18%，報79.74美元/桶。布倫特原油跌0.08%，報84.88美元/桶。\n④韓國央行三年半來首次加息：AI晶片熱潮驅動政策轉向，緊縮週期開啟。\n⑤IEA署長髮出“數週”最後通牒：霍爾木茲海峽若持續關閉，全球經濟將面臨新衝擊。\n⑥繼上週釋放本土投資訊號後，日本財長稱經濟增長或支援GPIF重新評估資產配置。\n⑦百度美股盤前最高漲至4%，百度釋出公告稱，公司董事會已授權管理層推進在香港聯交所主機板自願轉換為主要上市，預計於今年內生效。\n⑧小鵬集團盤前漲近4%，據報擬於明年在全球推出人形機器人。\n⑨谷歌盤前續漲近2%，巴菲特在最新的訪談中坦言自己早年沒能投資Alphabet是一大失誤。"
-    },
-    {
-      "id": "te:economy:567550",
-      "time": "2026-07-16 20:25:42",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Housing Starts",
-        "Importance 1"
-      ],
-      "text": "Canada Housing Starts Drop in June — Housing starts in Canada declined 6% from the previous month to a seasonally adjust annual rate of 239 thousand units in June 2026, compared to a downwardly revised 253 thousand units in May and falling short of markets expectations of 258 thousand units. The number of building permits fell 1.1% compared to the previous month, while units under construction in centers with a population above 50 thousand was flat, edging up 0.2% over the month to 375,469 units. Meanwhile, completed contructions totalled 18,298 units, up 8.4% compared to May. By region, Vancouver recorded the last decrease, by 35%, due to lower multi-unit and single-detached starts. In contrast, the largest increase was recorded in Toronto, up 25%, due to higher multi-unit starts, followed by Montreal (10%)."
-    },
-    {
-      "id": "4992383",
-      "time": "2026-07-16 20:25:37",
-      "tags": [
-        "市場"
-      ],
-      "text": "布倫特原油日內漲1%，現報85.84美元/桶。"
-    },
-    {
-      "id": "4992382",
-      "time": "2026-07-16 20:25:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國鐵建總裁裴岷山與中國銀行行長張輝舉行會談】7月16日，中國鐵建總裁、黨委副書記裴岷山與來訪的中國銀行行長、黨委副書記張輝舉行會談，雙方就深化銀企合作、促進共同發展進行深入交流，並達成共識。"
-    },
-    {
-      "id": "4992381",
-      "time": "2026-07-16 20:23:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "【DeepSeek估值超3500億元 開潤股份間接入股】7月16日晚間，上市公司開潤股份（300577）一紙投資進展公告，意外披露了國內頭部人工智慧企業“深度求索”（DeepSeek）的最新市場估值。按公告資料推算，DeepSeek本輪融資後估值已攀升至約3510億元。記者從接近DeepSeek處人士確認，隨著本輪融資完成，該公司目前已經開始啟動第二輪融資了，但是年底是否衝刺科創板，目前並未確定。不過，該人士並未透露更多細節。（上證報）"
-    },
-    {
-      "id": "4992380",
-      "time": "2026-07-16 20:22:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：在應用落地方面，小鵬IRON將率先進入商業場景。2027年，小鵬將把IRON推向全球市場。"
-    },
-    {
-      "id": "4992379",
-      "time": "2026-07-16 20:22:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【東風汽車與中國寶武簽署第四輪深化戰略合作協議】7月16日，東風汽車集團有限公司（簡稱“東風汽車”）與中國寶武鋼鐵集團有限公司（簡稱“中國寶武”）正式簽署第四輪深化戰略合作協議併為先進材料聯合創新中心揭牌。未來，雙方將持續深化科技創新、產業鏈供應鏈及汽車產品與服務等領域合作，共建協同創新與安全韌性的產供鏈生態，加速推動“東方風起2030”計劃的落地。"
-    },
-    {
-      "id": "4992378",
-      "time": "2026-07-16 20:22:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "【大疆智圖測繪珠峰昆布冰川 首次實現釐米級三維重建】記者從大疆方面獲悉，大疆行業應用聯合尼泊爾Airlift Technology團隊，藉助Matrice 4E與大疆智圖在珠穆朗瑪峰南坡昆布冰川完成核心區超3平方公里的釐米級三維重建，全程耗時3.5小時，這也是昆布冰川核心區首次實現釐米級精度全覆蓋建模。"
     }
   ]
 }
