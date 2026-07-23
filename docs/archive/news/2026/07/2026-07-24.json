@@ -1,7 +1,15 @@
 {
   "date": "2026-07-24",
-  "count": 421,
+  "count": 422,
   "items": [
+    {
+      "id": "mkt:019f9117-c570-7aab-8e74-1c2b15cbe53e",
+      "time": "2026-07-24 06:28:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Mexico's Economy Ministry said the United States and Mexico are scheduled to hold fourth-round review talks on the US-Mexico-Canada Agreement (USMCA) in the first two weeks of September."
+    },
     {
       "id": "5005440",
       "time": "2026-07-24 06:24:53",
