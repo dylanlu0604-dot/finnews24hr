@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-24 05:46:29",
-  "count": 18002,
+  "updated": "2026-07-24 05:50:24",
+  "count": 18003,
   "items": [
+    {
+      "id": "mkt:019f90f3-9daa-7aab-8e73-d1bec84f9720",
+      "time": "2026-07-24 05:48:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "AMAT.O",
+        "LRCX.O"
+      ],
+      "text": "Intel (INTC.O) CFO said the company will purchase 40% more semiconductor manufacturing equipment in 2026 than in 2025."
+    },
+    {
+      "id": "5005425",
+      "time": "2026-07-24 05:47:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾：公司 2026 年採購晶片製造裝置規模將較 2025 年提升 40%。"
+    },
     {
       "id": "mkt:019f90ef-2998-7aab-8e73-c91012541936",
       "time": "2026-07-24 05:43:40",
@@ -164941,14 +164963,6 @@
         "MKT News"
       ],
       "text": "【Argentina protests UK warship operations near Malvinas (Falkland Islands)】Argentina's Foreign Ministry on the 15th strongly protested operations by a UK warship near the Malvinas (Falkland Islands), citing the ongoing sovereignty dispute. The disagreement dates back decades—UN General Assembly Resolution 2065 (1965) recognizes a sovereignty dispute—and erupted into the 1982 Falklands/Malvinas war. Argentina says it has not abandoned its claim; the UK refuses to negotiate sovereignty."
-    },
-    {
-      "id": "4992981",
-      "time": "2026-07-17 05:49:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿根廷抗議英國軍艦在馬島附近海域開展行動】阿根廷外交部15日表示，強烈反對英國軍艦在馬爾維納斯群島（簡稱馬島，英國稱福克蘭群島）附近海域的行動。阿根廷和英國一直對馬島主權歸屬存有爭議。1965年聯合國大會透過第2065號決議，認定英國和阿根廷之間存在主權爭端。1982年4月2日，馬島戰爭爆發。阿根廷戰敗後一直沒有放棄對馬島主權的要求，英國則拒絕與阿根廷就馬島主權問題進行談判。（新華社）"
     }
   ]
 }

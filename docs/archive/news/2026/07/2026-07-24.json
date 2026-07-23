@@ -1,7 +1,29 @@
 {
   "date": "2026-07-24",
-  "count": 396,
+  "count": 398,
   "items": [
+    {
+      "id": "mkt:019f90f3-9daa-7aab-8e73-d1bec84f9720",
+      "time": "2026-07-24 05:48:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "INTC.O",
+        "Impact bullish",
+        "AMAT.O",
+        "LRCX.O"
+      ],
+      "text": "Intel (INTC.O) CFO said the company will purchase 40% more semiconductor manufacturing equipment in 2026 than in 2025."
+    },
+    {
+      "id": "5005425",
+      "time": "2026-07-24 05:47:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "英特爾：公司 2026 年採購晶片製造裝置規模將較 2025 年提升 40%。"
+    },
     {
       "id": "mkt:019f90ef-2998-7aab-8e73-c91012541936",
       "time": "2026-07-24 05:43:40",
