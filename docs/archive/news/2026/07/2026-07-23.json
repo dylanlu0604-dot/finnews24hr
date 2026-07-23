@@ -1,7 +1,142 @@
 {
   "date": "2026-07-23",
-  "count": 2448,
+  "count": 2464,
   "items": [
+    {
+      "id": "5004473",
+      "time": "2026-07-23 18:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中恆集團：控股子公司2800萬元受讓藥品上市許可】中恆集團公告稱，其控股子公司萊美藥業與天之海藥業簽署《藥品上市許可轉讓協議》，以2800萬元受讓維生素D₂軟膠囊的藥品註冊批文、商業和市場等權益。該交易不構成關聯交易和重大資產重組，無需董事會及股東會審議，但需經國家藥監局審批。過渡期產品生產或依賴原持有人，若受託方出現問題，可能導致供應不及時。此外，若產品未來集採未中選、價格下降或銷售不佳，批件存在減值風險。"
+    },
+    {
+      "id": "mkt:019f8e91-e0f9-7aab-8e64-24bd50a72042",
+      "time": "2026-07-23 18:42:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's finance minister said the country received a $690 mln disbursement from the IMF."
+    },
+    {
+      "id": "mkt:019f8e91-ab11-7aab-8e64-1aa5cb7b58a2",
+      "time": "2026-07-23 18:42:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Repsol CEO says the Russia-Ukraine conflict could have a greater impact on European refining margins than disruptions in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f8e91-8724-7aab-8e64-128ac2313902",
+      "time": "2026-07-23 18:42:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's minister of economic affairs said natural‑resource exporters from the United States, Canada and Australia will be allowed to retain more export proceeds under looser rules."
+    },
+    {
+      "id": "mkt:019f8e91-5f74-7aab-8e64-0dc56aa62293",
+      "time": "2026-07-23 18:41:59",
+      "tags": [
+        "MKT News",
+        "CMCSA.O",
+        "Impact bullish"
+      ],
+      "text": "Comcast (CMCSA.O) streaming service Peacock posted its first-ever quarterly profit on Thursday, driven by subscriber growth from the FIFA World Cup and reality hit Love Island."
+    },
+    {
+      "id": "5004471",
+      "time": "2026-07-23 18:41:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞經濟部長：來自美國、加拿大、澳大利亞的自然資源出口商將適用更寬鬆的出口收入留存規定。"
+    },
+    {
+      "id": "mkt:019f8e91-0192-7aab-8e64-078d70addbca",
+      "time": "2026-07-23 18:41:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Ministry of Finance to issue 2026 book-entry coupon-bearing (15th tranche) government bond】Five-year fixed-rate bond; competitive tender face amount CNY 130 bln; coupon rate to be set by competitive bidding; additional bids allowed from Class A members. Accrues from July 25, 2026; annual coupon paid each July 25 (holidays roll); principal and final coupon due July 25, 2031."
+    },
+    {
+      "id": "5004470",
+      "time": "2026-07-23 18:41:14",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬發行2026年記賬式附息（十五期）國債 招標面值總額1300億元】財政部擬發行2026年記賬式附息（十五期）國債。本期國債為5年期固定利率附息債。本期國債競爭性招標面值總額1300億元，進行甲類成員追加投標。本期國債票面利率透過競爭性招標確定。本期國債自2026年7月25日開始計息，每年支付利息，付息日為每年7月25日（節假日順延，下同），2031年7月25日償還本金並支付最後一次利息。招標時間為2026年7月24日上午10:35至11:35。"
+    },
+    {
+      "id": "5004469",
+      "time": "2026-07-23 18:41:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雷普索爾執行長：俄烏衝突對歐洲市場煉油利潤的影響可能超過霍爾木茲海峽。"
+    },
+    {
+      "id": "5004468",
+      "time": "2026-07-23 18:40:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "烏克蘭財政部長表示，烏克蘭收到國際貨幣基金組織6.9億美元撥付資金。"
+    },
+    {
+      "id": "5004467",
+      "time": "2026-07-23 18:40:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【百濟神州追加3億美元投資擴大美國生產佈局】7月23日，百濟神州宣佈將追加投資3億美元，擴建位於美國新澤西州霍普韋爾普林斯頓西部創新園區的旗艦生產基地和臨床研發中心，新增小分子藥物生產能力，完善公司全球化生產和供應體系。"
+    },
+    {
+      "id": "5004466",
+      "time": "2026-07-23 18:40:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Mobileye宣佈計劃進行領導層過渡，沙舒亞擬卸任CEO一職】Mobileye 7月23日宣佈，其創始人阿姆農·沙舒亞（Amnon Shashua）已向董事會表示，一旦繼任者就任，他將辭去公司執行長一職。董事會將開展全面的執行長遴選流程以確定繼任者。董事會已提議在新任執行長就職後，由沙舒亞出任公司董事長。"
+    },
+    {
+      "id": "5004465",
+      "time": "2026-07-23 18:40:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國海上風電已進入量質齊升新階段 部分概念股上半年業績高增】我國海上風電已進入量質齊升新階段，形成規模增長、技術領跑、政策護航的發展格局。2025全年，我國海上風電新增併網規模6.59GW，累計併網規模達到47.86GW，產業鏈與深遠海開發基礎持續夯實；全球海上風電新增併網容量9.25GW，累計併網容量達到92.5GW，距離100GW大關僅一步之遙。截至7月23日，已有7只海上風電概念股預告半年度業績。以預告中值統計，亨通光電、中天科技、振江股份、明陽智慧上半年淨利潤規模均超1億元，依次為32.92億元、24.3億元、1.6億元、1.25億元。從淨利潤變動來看，在去年同期盈利基礎上，振江股份、亨通光電、天順風能、中天科技淨利潤實現同比50%以上增長，增幅依次為928.53%、104.07%、74.37%、55%。"
+    },
+    {
+      "id": "5004464",
+      "time": "2026-07-23 18:39:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟官員：對俄第21輪制裁為四年來最大規模】當地時間23日，歐盟外交與安全政策高階代表卡拉斯表示，歐盟已就針對俄羅斯的第21輪制裁方案達成一致，她強調這是四年來規模最大的一輪制裁。（央視新聞）"
+    },
+    {
+      "id": "5004463",
+      "time": "2026-07-23 18:39:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國贈還中國一對清代石獅】韓國贈還中國一對清代石獅的交接儀式7月23日在位於首爾的韓國澗松美術館舉行，中國國家文物局從韓國國立中央博物館正式接收這對石獅。（新華社）"
+    },
     {
       "id": "5004462",
       "time": "2026-07-23 18:38:38",
@@ -18,6 +153,14 @@
         "其他"
       ],
       "text": "科威特透過三期債券發行融資 60 億美元。"
+    },
+    {
+      "id": "5004460",
+      "time": "2026-07-23 18:37:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普源精電：董事增持本公司港股股份】普源精電(00537.HK)公告，基於對本公司未來發展前景的信心以及對本公司價值的認可，本公司董事長王悅博士、執行董事王寧先生、孫寧霄博士、程建川先生自願增持本公司H股股份，以維護公司股價及資本市場穩定。截至本公告日期，董事長王悅博士、執行董事王寧先生、孫寧霄博士、程建川先生已透過二級市場使用自籌資金購入合計471,100股本公司H股股份，約 佔本公司已發行H股股份總數的1.90%。本公司未就上述購買或增持本公司H股股 份的行為，對該等董事提供任何財務資助。"
     },
     {
       "id": "mkt:019f8e8d-0e99-7aab-8e63-f9334f26cfb1",

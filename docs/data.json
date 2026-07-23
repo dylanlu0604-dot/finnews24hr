@@ -1,7 +1,142 @@
 {
-  "updated": "2026-07-23 18:39:32",
-  "count": 17726,
+  "updated": "2026-07-23 18:43:29",
+  "count": 17727,
   "items": [
+    {
+      "id": "5004473",
+      "time": "2026-07-23 18:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中恆集團：控股子公司2800萬元受讓藥品上市許可】中恆集團公告稱，其控股子公司萊美藥業與天之海藥業簽署《藥品上市許可轉讓協議》，以2800萬元受讓維生素D₂軟膠囊的藥品註冊批文、商業和市場等權益。該交易不構成關聯交易和重大資產重組，無需董事會及股東會審議，但需經國家藥監局審批。過渡期產品生產或依賴原持有人，若受託方出現問題，可能導致供應不及時。此外，若產品未來集採未中選、價格下降或銷售不佳，批件存在減值風險。"
+    },
+    {
+      "id": "mkt:019f8e91-e0f9-7aab-8e64-24bd50a72042",
+      "time": "2026-07-23 18:42:32",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Ukraine's finance minister said the country received a $690 mln disbursement from the IMF."
+    },
+    {
+      "id": "mkt:019f8e91-ab11-7aab-8e64-1aa5cb7b58a2",
+      "time": "2026-07-23 18:42:18",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Repsol CEO says the Russia-Ukraine conflict could have a greater impact on European refining margins than disruptions in the Strait of Hormuz."
+    },
+    {
+      "id": "mkt:019f8e91-8724-7aab-8e64-128ac2313902",
+      "time": "2026-07-23 18:42:09",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indonesia's minister of economic affairs said natural‑resource exporters from the United States, Canada and Australia will be allowed to retain more export proceeds under looser rules."
+    },
+    {
+      "id": "mkt:019f8e91-5f74-7aab-8e64-0dc56aa62293",
+      "time": "2026-07-23 18:41:59",
+      "tags": [
+        "MKT News",
+        "CMCSA.O",
+        "Impact bullish"
+      ],
+      "text": "Comcast (CMCSA.O) streaming service Peacock posted its first-ever quarterly profit on Thursday, driven by subscriber growth from the FIFA World Cup and reality hit Love Island."
+    },
+    {
+      "id": "5004471",
+      "time": "2026-07-23 18:41:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度尼西亞經濟部長：來自美國、加拿大、澳大利亞的自然資源出口商將適用更寬鬆的出口收入留存規定。"
+    },
+    {
+      "id": "mkt:019f8e91-0192-7aab-8e64-078d70addbca",
+      "time": "2026-07-23 18:41:35",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China's Ministry of Finance to issue 2026 book-entry coupon-bearing (15th tranche) government bond】Five-year fixed-rate bond; competitive tender face amount CNY 130 bln; coupon rate to be set by competitive bidding; additional bids allowed from Class A members. Accrues from July 25, 2026; annual coupon paid each July 25 (holidays roll); principal and final coupon due July 25, 2031."
+    },
+    {
+      "id": "5004470",
+      "time": "2026-07-23 18:41:14",
+      "tags": [
+        "宏觀",
+        "市場"
+      ],
+      "text": "【財政部擬發行2026年記賬式附息（十五期）國債 招標面值總額1300億元】財政部擬發行2026年記賬式附息（十五期）國債。本期國債為5年期固定利率附息債。本期國債競爭性招標面值總額1300億元，進行甲類成員追加投標。本期國債票面利率透過競爭性招標確定。本期國債自2026年7月25日開始計息，每年支付利息，付息日為每年7月25日（節假日順延，下同），2031年7月25日償還本金並支付最後一次利息。招標時間為2026年7月24日上午10:35至11:35。"
+    },
+    {
+      "id": "5004469",
+      "time": "2026-07-23 18:41:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雷普索爾執行長：俄烏衝突對歐洲市場煉油利潤的影響可能超過霍爾木茲海峽。"
+    },
+    {
+      "id": "5004468",
+      "time": "2026-07-23 18:40:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "烏克蘭財政部長表示，烏克蘭收到國際貨幣基金組織6.9億美元撥付資金。"
+    },
+    {
+      "id": "5004467",
+      "time": "2026-07-23 18:40:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【百濟神州追加3億美元投資擴大美國生產佈局】7月23日，百濟神州宣佈將追加投資3億美元，擴建位於美國新澤西州霍普韋爾普林斯頓西部創新園區的旗艦生產基地和臨床研發中心，新增小分子藥物生產能力，完善公司全球化生產和供應體系。"
+    },
+    {
+      "id": "5004466",
+      "time": "2026-07-23 18:40:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Mobileye宣佈計劃進行領導層過渡，沙舒亞擬卸任CEO一職】Mobileye 7月23日宣佈，其創始人阿姆農·沙舒亞（Amnon Shashua）已向董事會表示，一旦繼任者就任，他將辭去公司執行長一職。董事會將開展全面的執行長遴選流程以確定繼任者。董事會已提議在新任執行長就職後，由沙舒亞出任公司董事長。"
+    },
+    {
+      "id": "5004465",
+      "time": "2026-07-23 18:40:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【我國海上風電已進入量質齊升新階段 部分概念股上半年業績高增】我國海上風電已進入量質齊升新階段，形成規模增長、技術領跑、政策護航的發展格局。2025全年，我國海上風電新增併網規模6.59GW，累計併網規模達到47.86GW，產業鏈與深遠海開發基礎持續夯實；全球海上風電新增併網容量9.25GW，累計併網容量達到92.5GW，距離100GW大關僅一步之遙。截至7月23日，已有7只海上風電概念股預告半年度業績。以預告中值統計，亨通光電、中天科技、振江股份、明陽智慧上半年淨利潤規模均超1億元，依次為32.92億元、24.3億元、1.6億元、1.25億元。從淨利潤變動來看，在去年同期盈利基礎上，振江股份、亨通光電、天順風能、中天科技淨利潤實現同比50%以上增長，增幅依次為928.53%、104.07%、74.37%、55%。"
+    },
+    {
+      "id": "5004464",
+      "time": "2026-07-23 18:39:59",
+      "tags": [
+        "國際"
+      ],
+      "text": "【歐盟官員：對俄第21輪制裁為四年來最大規模】當地時間23日，歐盟外交與安全政策高階代表卡拉斯表示，歐盟已就針對俄羅斯的第21輪制裁方案達成一致，她強調這是四年來規模最大的一輪制裁。（央視新聞）"
+    },
+    {
+      "id": "5004463",
+      "time": "2026-07-23 18:39:14",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓國贈還中國一對清代石獅】韓國贈還中國一對清代石獅的交接儀式7月23日在位於首爾的韓國澗松美術館舉行，中國國家文物局從韓國國立中央博物館正式接收這對石獅。（新華社）"
+    },
     {
       "id": "5004462",
       "time": "2026-07-23 18:38:38",
@@ -18,6 +153,14 @@
         "其他"
       ],
       "text": "科威特透過三期債券發行融資 60 億美元。"
+    },
+    {
+      "id": "5004460",
+      "time": "2026-07-23 18:37:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【普源精電：董事增持本公司港股股份】普源精電(00537.HK)公告，基於對本公司未來發展前景的信心以及對本公司價值的認可，本公司董事長王悅博士、執行董事王寧先生、孫寧霄博士、程建川先生自願增持本公司H股股份，以維護公司股價及資本市場穩定。截至本公告日期，董事長王悅博士、執行董事王寧先生、孫寧霄博士、程建川先生已透過二級市場使用自籌資金購入合計471,100股本公司H股股份，約 佔本公司已發行H股股份總數的1.90%。本公司未就上述購買或增持本公司H股股 份的行為，對該等董事提供任何財務資助。"
     },
     {
       "id": "mkt:019f8e8d-0e99-7aab-8e63-f9334f26cfb1",
@@ -162106,130 +162249,6 @@
         "其他"
       ],
       "text": "瑞銀全球財富管理將全球農業板塊評級從適度增持下調至中性。"
-    },
-    {
-      "id": "4992150",
-      "time": "2026-07-16 18:43:15",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣航空分拆相關工作已基本完成。"
-    },
-    {
-      "id": "4992149",
-      "time": "2026-07-16 18:43:00",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣航空部門將2026年國防與推進技術業務營業利潤預期從15.5億-16.5億美元上調至160億-17億美元。"
-    },
-    {
-      "id": "mkt:019f6a85-bf7c-7aab-8dc5-a2472da7f706",
-      "time": "2026-07-16 18:42:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Northern Rare Earth commissions mass-production demonstration line for rare-earth magnetostrictive materials】Northern Rare Earth has commissioned a mass-production demonstration line for rare-earth magnetostrictive materials, marking what the company describes as a key breakthrough in scaling manufacture of high-end magnetostrictive products. The firm says the capability will accelerate the rare-earth industry’s shift from raw-material supply into high-end applications including aerospace, deep-sea exploration and precision braking."
-    },
-    {
-      "id": "mkt:019f6a85-b8b7-7aab-8dc5-9c8b746a1733",
-      "time": "2026-07-16 18:42:56",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "An Iranian army spokesman said Iran would take unexpected countermeasures if the US president continues to pursue adventurous, malicious policies that violate unilateral agreements."
-    },
-    {
-      "id": "4992148",
-      "time": "2026-07-16 18:42:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【北方稀土超磁致伸縮材料批次化示範線投產】近日，北方稀土成功建成並投產稀土超磁致伸縮材料批次化生產示範線，標誌著高階稀土超磁致伸縮材料的批次製造難題取得關鍵突破，將推動稀土產業從傳統原料供應向航空航天、深海探測、精密制動等高階核心應用領域加速升級。"
-    },
-    {
-      "id": "4992147",
-      "time": "2026-07-16 18:42:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "通用電氣航空股價走勢反轉，盤前最新下跌4%。"
-    },
-    {
-      "id": "4992146",
-      "time": "2026-07-16 18:42:16",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首批18家主動ETF正式上報 摩根、華泰柏瑞等在列】記者瞭解到，主動ETF首批試點已確定18家基金管理人，包括摩根、華泰柏瑞、易方達、南方、華夏、富國、永贏、大成、鵬華、工銀瑞信、匯添富、華寶、華安、國泰、招商、天弘、平安、建信基金。相關基金公司將於近期向證監會正式遞交產品註冊申請材料。這意味著，在深滬交易所釋出配套業務指引僅一個月後，這一創新產品將進入正式申報註冊階段，境內ETF市場即將迎來“主動時代”。6月17日，證監會主席吳清在2026陸家嘴論壇上表示，支援在滬深交易所推出主動ETF，首批產品將先行試點。同日，滬深交易所主動ETF業務指引落地。這意味著僅隔一個月，即迎來主動ETF首批試點。"
-    },
-    {
-      "id": "4992145",
-      "time": "2026-07-16 18:41:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣預計供應鏈瓶頸與通脹影響仍將持續。"
-    },
-    {
-      "id": "4992144",
-      "time": "2026-07-16 18:41:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國際貿易委員會：對部分動態隨機存取儲存器及包含該儲存器的產品啟動337調查。"
-    },
-    {
-      "id": "4992143",
-      "time": "2026-07-16 18:41:16",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗邊防部隊查獲一批走私武器】當地時間16日，伊朗東南部錫斯坦-俾路支斯坦省邊防部隊負責人表示，邊防人員近日挫敗一起武器走私行動，阻止一批武器被運入伊朗境內。據悉，邊防人員在現場查獲15支手槍、1支卡拉什尼科夫步槍以及186發軍用子彈。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6a84-09ec-7aab-8dc5-94462f69fcc1",
-      "time": "2026-07-16 18:41:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Iranian border guards seize smuggled weapons in Sistan and Baluchestan】On the 16th (local time) the head of Iran's border forces in southeast Sistan and Baluchestan province said border guards recently foiled a weapons-smuggling attempt and prevented a consignment from entering Iran. Authorities seized 15 handguns, one Kalashnikov rifle and 186 rounds of military ammunition."
-    },
-    {
-      "id": "4992142",
-      "time": "2026-07-16 18:40:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "通用電氣航空部門目前預計，其2026年商用發動機及服務業務收入將增長約20%。"
-    },
-    {
-      "id": "4992141",
-      "time": "2026-07-16 18:40:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗陸軍發言人穆罕默德・阿克拉米 - 內亞准將表示：倘若美國總統繼續推行冒險且充滿惡意、違背單邊協議的政策，伊朗伊斯蘭共和國陸軍將會拿出令其始料未及的反制舉措。"
-    },
-    {
-      "id": "4992140",
-      "time": "2026-07-16 18:40:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【廣聚能源：全資子公司加油站15日開業 或提升營收】廣聚能源公告稱，2025年8月11日，公司全資子公司深圳市南山石油有限公司以1.65億元競得兩宗國有建設用地使用權，用於建設兩座加油站。近日，兩座加油站已完成全部主體工程，透過各項專項驗收，並於2026年7月15日正式開業。新站地處深圳外環高速橫嶺服務區南北核心節點，區位優勢顯著，預計對公司未來經營收入產生積極影響，但實際運營存在不確定因素，提醒投資者注意風險。"
-    },
-    {
-      "id": "4992139",
-      "time": "2026-07-16 18:39:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "喜滿客控股股價盤前下跌4.5%，此前富國銀行將其股票評級從增持下調至持平。"
     }
   ]
 }
