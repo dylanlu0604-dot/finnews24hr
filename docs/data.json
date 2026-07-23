@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-24 00:02:26",
-  "count": 18030,
+  "updated": "2026-07-24 00:06:35",
+  "count": 18027,
   "items": [
+    {
+      "id": "mkt:019f8fb9-1108-7aab-8e70-76505b4f7df0",
+      "time": "2026-07-24 00:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Israel's Channel 12, the Prime Minister's Office will hold a limited security consultation meeting Friday afternoon local time."
+    },
+    {
+      "id": "5005166",
+      "time": "2026-07-24 00:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：貝萊德旗下GIP計劃將基金股份打包出售給證券化交易機構。"
+    },
+    {
+      "id": "mkt:019f8fb8-0a24-7aab-8e70-6964acf59e47",
+      "time": "2026-07-24 00:03:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reports an explosion in Kuwait."
+    },
+    {
+      "id": "5005165",
+      "time": "2026-07-24 00:03:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "EPC集團：獲得塞內加爾一座金礦的新合同。"
+    },
+    {
+      "id": "mkt:019f8fb6-5d46-7aab-8e70-61b8c25983c2",
+      "time": "2026-07-24 00:02:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Freddie Mac said the U.S. 30-year fixed mortgage rate averaged 6.58% in the week of July 23, 2023, up from 6.55% the prior week and the highest since August 21, 2025."
+    },
     {
       "id": "5005164",
       "time": "2026-07-24 00:00:22",
@@ -165179,81 +165224,6 @@
         "國際"
       ],
       "text": "【4名希臘議員因涉嫌歐盟農業補貼欺詐被起訴】歐洲檢察官辦公室16日宣佈，4名希臘議會現任議員和多名前高階公職人員等22人，因涉嫌歐盟農業補貼資金欺詐，當天在雅典被起訴。其中，3名議員被控教唆實施濫用信託罪，1名議員被控教唆非法管理歐盟資金。上述4人中的一人同時還被控計算機欺詐未遂和教唆出具虛假證明。檢方稱，這是一起大規模有組織欺詐案，涉案官員涉嫌透過偽造檔案等非法手段，協助將歐盟農業補貼違規發放給不符合條件的受益人，涉案金額或高達數億歐元。若罪名成立，被告最高將面臨5年監禁並處罰金。2025年6月，時任移民和庇護部長馬基斯·沃裡季斯等5名希臘政府高官因涉嫌透過偽造檔案向不具資格的希臘農戶發放歐盟農業補貼款項而辭職。今年4月，希臘政府因冒領歐盟農業補貼醜聞再次改組。（新華社）"
-    },
-    {
-      "id": "mkt:019f6bad-a9e5-7aab-8dcd-0d9d1df02afa",
-      "time": "2026-07-17 00:06:11",
-      "tags": [
-        "MKT News",
-        "INTC.O",
-        "GOOG.O"
-      ],
-      "text": "Intel (INTC.O) is exploring a Google Cloud (GOOG.O)-based solution to streamline its marketing and communications workflows."
-    },
-    {
-      "id": "mkt:019f6bad-23a8-7aab-8dcd-01a3ac8e4aea",
-      "time": "2026-07-17 00:05:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "President Zelenskiy named current Security Service chief Yevhen Khmara as acting defense minister and asked parliament to confirm the appointment."
-    },
-    {
-      "id": "4992735",
-      "time": "2026-07-17 00:05:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "英特爾：探索由谷歌雲提供技術支援的解決方案，助力團隊最佳化營銷與傳播工作流程。"
-    },
-    {
-      "id": "mkt:019f6bac-f0ad-7aab-8dcc-fda5294a0c4c",
-      "time": "2026-07-17 00:05:23",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "INTC.O",
-        "Impact bullish"
-      ],
-      "text": "Intel (INTC.O) will integrate advanced GEMINI-driven generative AI across its global workforce."
-    },
-    {
-      "id": "4992734",
-      "time": "2026-07-17 00:05:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "英特爾：英特爾將在其全球員工中整合先進的、由Gemini驅動的生成式人工智慧。"
-    },
-    {
-      "id": "mkt:019f6bac-8cfa-7aab-8dcc-f1f20d402023",
-      "time": "2026-07-17 00:04:58",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "INTC.O",
-        "Impact bullish",
-        "GOOG.O"
-      ],
-      "text": "Intel (INTC.O) and Google Cloud (GOOG.O) are partnering to accelerate Intel's enterprise AI transformation."
-    },
-    {
-      "id": "4992733",
-      "time": "2026-07-17 00:04:31",
-      "tags": [
-        "公司"
-      ],
-      "text": "市場訊息：英特爾與谷歌雲擴大合作。"
-    },
-    {
-      "id": "4992732",
-      "time": "2026-07-17 00:04:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：馬薩諸塞州總檢察長打算就取消風電租賃合同一事起訴特朗普政府。"
     }
   ]
 }

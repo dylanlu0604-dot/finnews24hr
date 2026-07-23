@@ -1,7 +1,52 @@
 {
   "date": "2026-07-24",
-  "count": 2,
+  "count": 7,
   "items": [
+    {
+      "id": "mkt:019f8fb9-1108-7aab-8e70-76505b4f7df0",
+      "time": "2026-07-24 00:04:58",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "According to Israel's Channel 12, the Prime Minister's Office will hold a limited security consultation meeting Friday afternoon local time."
+    },
+    {
+      "id": "5005166",
+      "time": "2026-07-24 00:04:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：貝萊德旗下GIP計劃將基金股份打包出售給證券化交易機構。"
+    },
+    {
+      "id": "mkt:019f8fb8-0a24-7aab-8e70-6964acf59e47",
+      "time": "2026-07-24 00:03:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency reports an explosion in Kuwait."
+    },
+    {
+      "id": "5005165",
+      "time": "2026-07-24 00:03:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "EPC集團：獲得塞內加爾一座金礦的新合同。"
+    },
+    {
+      "id": "mkt:019f8fb6-5d46-7aab-8e70-61b8c25983c2",
+      "time": "2026-07-24 00:02:01",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish",
+        "S&P500"
+      ],
+      "text": "Freddie Mac said the U.S. 30-year fixed mortgage rate averaged 6.58% in the week of July 23, 2023, up from 6.55% the prior week and the highest since August 21, 2025."
+    },
     {
       "id": "5005164",
       "time": "2026-07-24 00:00:22",
