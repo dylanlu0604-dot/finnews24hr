@@ -1,7 +1,107 @@
 {
   "date": "2026-07-23",
-  "count": 3433,
+  "count": 3444,
   "items": [
+    {
+      "id": "5005050",
+      "time": "2026-07-23 22:35:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：摩薩德挫敗了伊朗試圖滲透一個負責暗殺以色列高階官員小組的企圖。"
+    },
+    {
+      "id": "5005049",
+      "time": "2026-07-23 22:35:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破92美元/桶，日內漲5.96%。"
+    },
+    {
+      "id": "mkt:019f8f65-f40f-7aab-8e6e-6efcb3ebc07f",
+      "time": "2026-07-23 22:34:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's defense minister Pistorius said he is considering establishing a space launch site for the Bundeswehr."
+    },
+    {
+      "id": "5005048",
+      "time": "2026-07-23 22:34:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國國防部長：考慮為德國聯邦國防軍建立太空發射場。"
+    },
+    {
+      "id": "mkt:019f8f65-5aad-7aab-8e6e-67b31f3e7311",
+      "time": "2026-07-23 22:33:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Sources: ECB officials prepared to hike rates in September】ECB officials are prepared to raise rates in September unless the euro-area inflation outlook improves markedly, sources said. Citing current information and the economic impact of the Middle East conflict, officials judge another ~100 bps may be needed to curb price pressures, though no decision has been taken. The stance could shift quickly if a peace deal is reached or a deeper recession materializes, consistent with the ECB’s meeting-by-meeting approach. President Lagarde signalled the possibility on Thursday, saying some Governing Council members had asked whether to raise rates and that the bank is closely watching incoming data in the coming weeks."
+    },
+    {
+      "id": "5005047",
+      "time": "2026-07-23 22:32:52",
+      "tags": [
+        "資料"
+      ],
+      "text": "阿根廷7月消費者信心指數為40.67。"
+    },
+    {
+      "id": "mkt:019f8f64-a407-7aab-8e6e-5ef496a70a0d",
+      "time": "2026-07-23 22:32:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio announced a new global visa-restriction policy targeting individuals responsible for, or complicit in, cybercrime and those who support cyber-enabled criminal activity."
+    },
+    {
+      "id": "te:economy:569338",
+      "time": "2026-07-23 22:32:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Argentina Consumer Sentiment Deteriorates in July — Argentina's consumer confidence index fell 4.8% month-over-month to 40.67 points in July 2026, with all sub-indexes remaining in negative territory as sentiment weakened. Sentiment over current conditions edged down 1.2% to 34.2, reflecting an 8.5% drop in assessments of the country's economic situation to 46.7 and a 3.9% decline in views of personal finances to 39.98. Confidence over current purchases of durable goods and real estate eased 0.5% to 35.33. Sentiment deteriorated more sharply among lower-income households (-11.5%) than higher-income households (-1.5%), although the latter reported a 3.5% increase in sentiment toward durable goods and real estate purchases. Regionally, Greater Buenos Aires (-6.35%) and the City of Buenos Aires (-6.24%) posted the steepest declines, while the rest of the country recorded the highest confidence level at 45.55. Meanwhile, expectations regarding future conditions fell 7.2% to 47.14, remaining 11.4% below last years projections."
+    },
+    {
+      "id": "5005046",
+      "time": "2026-07-23 22:32:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧： 宣佈一項新的全球簽證限制政策 ， 政策針對的是對網路犯罪及網路助長犯罪負有責任或參與其中的個人。"
+    },
+    {
+      "id": "5005045",
+      "time": "2026-07-23 22:32:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "遠端醫療公司Hims & Hers在小組會議上敦促FDA擴大某些肽類藥物的獲取途徑後，股價上漲2%。"
+    },
+    {
+      "id": "5005044",
+      "time": "2026-07-23 22:31:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博傑股份：穩步推進AI伺服器相關檢測裝置的產品佈局】博傑股份7月23日在互動平臺表示，公司穩步推進AI伺服器相關檢測裝置的產品佈局，目前經營情況良好。未來公司將進一步開拓市場，提高公司及產品的競爭力，實現公司更為穩健、快速的增長。"
+    },
     {
       "id": "5005043",
       "time": "2026-07-23 22:30:37",

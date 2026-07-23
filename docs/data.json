@@ -1,7 +1,107 @@
 {
-  "updated": "2026-07-23 22:32:32",
-  "count": 17980,
+  "updated": "2026-07-23 22:36:32",
+  "count": 17982,
   "items": [
+    {
+      "id": "5005050",
+      "time": "2026-07-23 22:35:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：摩薩德挫敗了伊朗試圖滲透一個負責暗殺以色列高階官員小組的企圖。"
+    },
+    {
+      "id": "5005049",
+      "time": "2026-07-23 22:35:07",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破92美元/桶，日內漲5.96%。"
+    },
+    {
+      "id": "mkt:019f8f65-f40f-7aab-8e6e-6efcb3ebc07f",
+      "time": "2026-07-23 22:34:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Germany's defense minister Pistorius said he is considering establishing a space launch site for the Bundeswehr."
+    },
+    {
+      "id": "5005048",
+      "time": "2026-07-23 22:34:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國國防部長：考慮為德國聯邦國防軍建立太空發射場。"
+    },
+    {
+      "id": "mkt:019f8f65-5aad-7aab-8e6e-67b31f3e7311",
+      "time": "2026-07-23 22:33:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "【Sources: ECB officials prepared to hike rates in September】ECB officials are prepared to raise rates in September unless the euro-area inflation outlook improves markedly, sources said. Citing current information and the economic impact of the Middle East conflict, officials judge another ~100 bps may be needed to curb price pressures, though no decision has been taken. The stance could shift quickly if a peace deal is reached or a deeper recession materializes, consistent with the ECB’s meeting-by-meeting approach. President Lagarde signalled the possibility on Thursday, saying some Governing Council members had asked whether to raise rates and that the bank is closely watching incoming data in the coming weeks."
+    },
+    {
+      "id": "5005047",
+      "time": "2026-07-23 22:32:52",
+      "tags": [
+        "資料"
+      ],
+      "text": "阿根廷7月消費者信心指數為40.67。"
+    },
+    {
+      "id": "mkt:019f8f64-a407-7aab-8e6e-5ef496a70a0d",
+      "time": "2026-07-23 22:32:45",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio announced a new global visa-restriction policy targeting individuals responsible for, or complicit in, cybercrime and those who support cyber-enabled criminal activity."
+    },
+    {
+      "id": "te:economy:569338",
+      "time": "2026-07-23 22:32:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Argentina",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Argentina Consumer Sentiment Deteriorates in July — Argentina's consumer confidence index fell 4.8% month-over-month to 40.67 points in July 2026, with all sub-indexes remaining in negative territory as sentiment weakened. Sentiment over current conditions edged down 1.2% to 34.2, reflecting an 8.5% drop in assessments of the country's economic situation to 46.7 and a 3.9% decline in views of personal finances to 39.98. Confidence over current purchases of durable goods and real estate eased 0.5% to 35.33. Sentiment deteriorated more sharply among lower-income households (-11.5%) than higher-income households (-1.5%), although the latter reported a 3.5% increase in sentiment toward durable goods and real estate purchases. Regionally, Greater Buenos Aires (-6.35%) and the City of Buenos Aires (-6.24%) posted the steepest declines, while the rest of the country recorded the highest confidence level at 45.55. Meanwhile, expectations regarding future conditions fell 7.2% to 47.14, remaining 11.4% below last years projections."
+    },
+    {
+      "id": "5005046",
+      "time": "2026-07-23 22:32:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧： 宣佈一項新的全球簽證限制政策 ， 政策針對的是對網路犯罪及網路助長犯罪負有責任或參與其中的個人。"
+    },
+    {
+      "id": "5005045",
+      "time": "2026-07-23 22:32:17",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "遠端醫療公司Hims & Hers在小組會議上敦促FDA擴大某些肽類藥物的獲取途徑後，股價上漲2%。"
+    },
+    {
+      "id": "5005044",
+      "time": "2026-07-23 22:31:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【博傑股份：穩步推進AI伺服器相關檢測裝置的產品佈局】博傑股份7月23日在互動平臺表示，公司穩步推進AI伺服器相關檢測裝置的產品佈局，目前經營情況良好。未來公司將進一步開拓市場，提高公司及產品的競爭力，實現公司更為穩健、快速的增長。"
+    },
     {
       "id": "5005043",
       "time": "2026-07-23 22:30:37",
@@ -164727,81 +164827,6 @@
         "WTI"
       ],
       "text": "Russian attack on Ukraine's Zaporizhzhia killed three."
-    },
-    {
-      "id": "4992649",
-      "time": "2026-07-16 22:35:47",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國聯合航空公司執行長：預計收益率將持續回落至合理的疫情前水平，這最終將令航空業得以實現其資本成本回報。"
-    },
-    {
-      "id": "4992648",
-      "time": "2026-07-16 22:35:22",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國勞工部代理部長：特朗普總統就任以來，私營部門新增就業崗位逾 90 萬個，薪資水平持續上漲，401 (k) 養老賬戶資產創下歷史新高，當下就業的美國民眾數量達到美國曆史峰值。"
-    },
-    {
-      "id": "4992647",
-      "time": "2026-07-16 22:35:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中國聯通攜華為釋出全球最大規模5G-A百兆大上行網路】近日，中國聯通北京市分公司攜華為釋出全球最大規模5G-A大上行商用網路。該創新網路在北京全域重點區域實現百兆大上行網路連續覆蓋，基站數超10000。"
-    },
-    {
-      "id": "4992646",
-      "time": "2026-07-16 22:34:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【福建將開展安全隱患大排查大整治行動】為深刻汲取泉州晉江輝騰鞋業公司“7·9”重大火災事故教訓，福建省決定在全省範圍內進一步深化開展工貿及勞動密集型企業安全隱患大排查大整治行動。這是記者從7月16日在福建省福州市召開的“全省安全生產隱患大排查大整治工作部署推進會”瞭解到的。在開展工貿及勞動密集型企業安全隱患大排查大整治行動過程中，福建將堅持問題導向，深查、細查、嚴查，補短板、堵漏洞、掃死角，最大限度降低事故發生機率。深入細緻排查，全面摸清風險隱患底數。緊抓排查重點，開展拉網式、地毯式全覆蓋排查，督促企業全面開展自查，實行“臺賬式管理、銷號式整改”，推動風險隱患動態清零。同時，福建將重點抓好拆窗破網、全域“生命通道”暢通、消防設施維護提升、違章搭蓋拆除、生產作業規範等五個專項任務落實。福建還將嚴格監管執法，重拳鐵腕治違。注重改善監管執法方式，注重依法嚴肅查處，注重把握好加強安全領域監管執法與最佳化營商環境的關係，堅持“零容忍”，以“長牙齒”的監管硬措施守牢安全紅線。堅持標本兼治，健全安全生產長效機制。（新華社）"
-    },
-    {
-      "id": "4992645",
-      "time": "2026-07-16 22:34:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "Visa：面向選定客戶開啟 Beta 測試。"
-    },
-    {
-      "id": "4992644",
-      "time": "2026-07-16 22:33:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "Visa： 穩定幣平臺將接入美元開放標準體系。"
-    },
-    {
-      "id": "4992643",
-      "time": "2026-07-16 22:33:05",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國能源資訊署公佈天然氣庫存增幅符合預期後，美國天然氣期貨轉跌，跌幅達0.5%。"
-    },
-    {
-      "id": "4992642",
-      "time": "2026-07-16 22:32:43",
-      "tags": [
-        "公司"
-      ],
-      "text": "【明陽集團與柳鋼集團簽署戰略合作協議】近日，廣西柳州鋼鐵集團有限公司（簡稱“柳鋼集團”）黨委書記、董事長李斌到訪明陽集團總部，與明陽集團董事長張傳衛舉行會談。雙方就深化產業協同、推動綠色轉型、風電用鋼穩定供應與零碳綜合能源專案等議題深入交流，並簽署戰略合作協議。"
-    },
-    {
-      "id": "4992641",
-      "time": "2026-07-16 22:32:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：以色列批准 3.56 億美元用於定居點道路建設。"
     }
   ]
 }
