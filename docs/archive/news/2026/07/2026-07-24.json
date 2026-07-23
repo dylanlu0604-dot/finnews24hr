@@ -1,7 +1,31 @@
 {
   "date": "2026-07-24",
-  "count": 390,
+  "count": 393,
   "items": [
+    {
+      "id": "5005422",
+      "time": "2026-07-24 05:41:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西稱該關稅完全武斷且缺乏合理依據。"
+    },
+    {
+      "id": "mkt:019f90eb-fe74-7aab-8e73-c7511bc3a785",
+      "time": "2026-07-24 05:40:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's government rejected the U.S.-imposed 12.5% tariff on Brazilian goods, the statement said."
+    },
+    {
+      "id": "5005421",
+      "time": "2026-07-24 05:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府發表宣告，拒絕美國以強迫勞動為由對巴西商品徵收 12.5% 關稅的舉措。"
+    },
     {
       "id": "5005420",
       "time": "2026-07-24 05:34:35",

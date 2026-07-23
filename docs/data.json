@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-24 05:38:37",
+  "updated": "2026-07-24 05:42:33",
   "count": 18001,
   "items": [
+    {
+      "id": "5005422",
+      "time": "2026-07-24 05:41:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西稱該關稅完全武斷且缺乏合理依據。"
+    },
+    {
+      "id": "mkt:019f90eb-fe74-7aab-8e73-c7511bc3a785",
+      "time": "2026-07-24 05:40:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's government rejected the U.S.-imposed 12.5% tariff on Brazilian goods, the statement said."
+    },
+    {
+      "id": "5005421",
+      "time": "2026-07-24 05:39:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西政府發表宣告，拒絕美國以強迫勞動為由對巴西商品徵收 12.5% 關稅的舉措。"
+    },
     {
       "id": "5005420",
       "time": "2026-07-24 05:34:35",
@@ -164917,39 +164941,6 @@
         "其他"
       ],
       "text": "委內瑞拉臨時總統羅德里格斯： 地震已造成 4930 人遇難。"
-    },
-    {
-      "id": "mkt:019f6ce0-b8dd-7aab-8dd1-903ddfecaf4f",
-      "time": "2026-07-17 05:41:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Mehr News Agency reports 12 explosions heard in the Bushehr region."
-    },
-    {
-      "id": "4992978",
-      "time": "2026-07-17 05:41:05",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗議會國家安全和外交政策委員會主席易卜拉欣·阿齊茲： 美國在伊朗南部犯下諸多罪行，包括襲擊米納布學校、阿瓦士兒童癌症醫院、拉默德體育館，以及多處居民區和平民區域，這些行徑徹底暴露了那些鼓吹‘人權’者的虛偽面目。 伊朗武裝部隊必將討回公道。"
-    },
-    {
-      "id": "mkt:019f6cdf-7a70-7aab-8dd1-899333b0b1da",
-      "time": "2026-07-17 05:40:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【US strikes airports, bridges and rail hubs in parts of Iran】According to Chinese state TV, US forces struck multiple targets in southern and southeastern Iran, hitting Bandar Abbas port and its rail junction, Iranshahr airport in Sistan-and-Baluchestan province, and bridges in Hormozgan province. The strike on Bandar Abbas damaged a communications tower and caused partial power outages; the port's rail junction was hit, injuring two. US warplanes launched missile strikes on Iranshahr airport, with residents reporting three loud explosions. Hormozgan provincial authorities said two bridges — including at Bandar-e Khamir — were struck, killing two and wounding four."
     }
   ]
 }
