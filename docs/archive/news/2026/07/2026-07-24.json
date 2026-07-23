@@ -1,7 +1,47 @@
 {
   "date": "2026-07-24",
-  "count": 179,
+  "count": 183,
   "items": [
+    {
+      "id": "5005303",
+      "time": "2026-07-24 02:12:02",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗包括Andrew Gardiner在內的分析師在一份報告中指出：意法半導體（STMicroelectronics NV）業績展望顯示出終端市場正在建立週期性復甦，且AI/資料中心的增長持續加速。但相應的，市場預期和股價今年也已大幅上漲。在缺乏進一步上調盈利預期的動力下，該股短期內可能面臨壓力。"
+    },
+    {
+      "id": "5005302",
+      "time": "2026-07-24 02:10:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "訊息人士稱，歐洲央行政策制定者將就提高存款準備金率、分層存款利率及收費問題展開辯論。"
+    },
+    {
+      "id": "mkt:019f902c-2cf9-7aab-8e71-662befc51967",
+      "time": "2026-07-24 02:10:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WTI, Brent jump 8% and 6% intraday】Oil prices rallied intraday: WTI surged 8.00% to $93.87/bbl; Brent rose 6.00% to $96.11/bbl."
+    },
+    {
+      "id": "5005301",
+      "time": "2026-07-24 02:09:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西法院啟動調查，核查前巴西總統博索納羅與馬斯特銀行的關聯。"
+    },
     {
       "id": "mkt:019f902a-3185-7aab-8e71-5b1b963a9f96",
       "time": "2026-07-24 02:08:31",

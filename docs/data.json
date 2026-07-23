@@ -1,7 +1,47 @@
 {
-  "updated": "2026-07-24 02:08:59",
+  "updated": "2026-07-24 02:12:55",
   "count": 17991,
   "items": [
+    {
+      "id": "5005303",
+      "time": "2026-07-24 02:12:02",
+      "tags": [
+        "市場",
+        "觀點"
+      ],
+      "text": "花旗包括Andrew Gardiner在內的分析師在一份報告中指出：意法半導體（STMicroelectronics NV）業績展望顯示出終端市場正在建立週期性復甦，且AI/資料中心的增長持續加速。但相應的，市場預期和股價今年也已大幅上漲。在缺乏進一步上調盈利預期的動力下，該股短期內可能面臨壓力。"
+    },
+    {
+      "id": "5005302",
+      "time": "2026-07-24 02:10:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "訊息人士稱，歐洲央行政策制定者將就提高存款準備金率、分層存款利率及收費問題展開辯論。"
+    },
+    {
+      "id": "mkt:019f902c-2cf9-7aab-8e71-662befc51967",
+      "time": "2026-07-24 02:10:41",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【WTI, Brent jump 8% and 6% intraday】Oil prices rallied intraday: WTI surged 8.00% to $93.87/bbl; Brent rose 6.00% to $96.11/bbl."
+    },
+    {
+      "id": "5005301",
+      "time": "2026-07-24 02:09:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西法院啟動調查，核查前巴西總統博索納羅與馬斯特銀行的關聯。"
+    },
     {
       "id": "mkt:019f902a-3185-7aab-8e71-5b1b963a9f96",
       "time": "2026-07-24 02:08:31",
@@ -164769,39 +164809,6 @@
         "其他"
       ],
       "text": "市場訊息：達索系統洽談按大約20億美元收購ArisGlobal。"
-    },
-    {
-      "id": "4992859",
-      "time": "2026-07-17 02:12:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "Newell Brands目標價被瑞銀從4.25美元上調至4.75美元/股。"
-    },
-    {
-      "id": "mkt:019f6c20-340c-7aab-8dcf-78f259ab9e2f",
-      "time": "2026-07-17 02:11:17",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Trump to attend 2026 World Cup final in person】White House spokeswoman Leavitt said President Trump will attend the Argentina v Spain 2026 World Cup final at MetLife Stadium in New Jersey on Sunday local time (Mon July 20, 03:00 Beijing time). Leavitt said Trump is looking forward to the match and that his presence will cap the U.S.-hosted tournament; she said it is unclear which side he supports and expected the president to give \"an interesting answer.\""
-    },
-    {
-      "id": "4992858",
-      "time": "2026-07-17 02:10:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【報道：谷歌Gemini旗艦模型釋出推遲，技術能力未達預期目標】據知情人士透露，谷歌在交付其最強大的旗艦AI模型Gemini 3.5 Pro方面已落後於計劃數月，公司正試圖藉此機會提升其能力，尤其是在程式碼編寫方面。這一延遲在谷歌的工程師、AI研究人員和管理層中引發了挫敗感，他們擔心公司面臨被競爭對手 Anthropic和OpenAI奪走市場優勢的風險。谷歌一直致力於提升Gemini的能力，包括更新用於訓練模型的資料，同時也就其AI能力和安全標準與美國政府進行了溝通。"
-    },
-    {
-      "id": "4992857",
-      "time": "2026-07-17 02:09:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數跌0.6%，重新整理日低，道指跌0.3%，納指跌1.2%，納斯達克100指數跌1.6%，半導體指數跌4.8%。"
     }
   ]
 }
