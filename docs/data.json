@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-24 00:23:04",
-  "count": 18021,
+  "updated": "2026-07-24 00:27:11",
+  "count": 18020,
   "items": [
+    {
+      "id": "5005190",
+      "time": "2026-07-24 00:26:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALLEGION股價延續漲勢，最新上漲12.8%。"
+    },
+    {
+      "id": "5005189",
+      "time": "2026-07-24 00:25:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "RBC Capital維持特斯拉目標股價500美元/股。"
+    },
+    {
+      "id": "5005188",
+      "time": "2026-07-24 00:25:11",
+      "tags": [
+        "公司"
+      ],
+      "text": "道瓊斯指數幾乎大跌400點，其中Alphabet A類股與亞馬遜股價領跌。"
+    },
+    {
+      "id": "5005187",
+      "time": "2026-07-24 00:23:50",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛將Par Pacific Holdings的目標價從77.00美元上調至92.00美元。"
+    },
+    {
+      "id": "5005186",
+      "time": "2026-07-24 00:23:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "RADIANT：美國能源部選定RADIANT進行第二次高純度低濃縮鈾分配，以支援美國軍事基地首個商用微型反應堆。"
+    },
+    {
+      "id": "5005185",
+      "time": "2026-07-24 00:22:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國首相伯納姆在與蘇格蘭首席大臣會晤時表示：再次舉行獨立公投是不被允許的。"
+    },
     {
       "id": "5005184",
       "time": "2026-07-24 00:22:08",
@@ -165084,73 +165132,6 @@
         "市場"
       ],
       "text": "火箭實驗室下跌 13.1%，直覺機器下跌 9.1%，行星實驗室下跌 12.9%，Satellogic 下跌 9.6%。"
-    },
-    {
-      "id": "mkt:019f6bc0-963c-7aab-8dcd-5fe538bcc68b",
-      "time": "2026-07-17 00:26:51",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Nasdaq100",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Philadelphia Semiconductor Index (SOX) dropped to a more-than-one-month low, falling 4.45%."
-    },
-    {
-      "id": "4992757",
-      "time": "2026-07-17 00:26:50",
-      "tags": [
-        "市場"
-      ],
-      "text": "ROUNDHILL太空科技ETF下跌6.1%，PROCURE太空ETF下跌4%。"
-    },
-    {
-      "id": "4992756",
-      "time": "2026-07-17 00:26:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗：敵軍空襲阿巴斯港附近地區。"
-    },
-    {
-      "id": "4992755",
-      "time": "2026-07-17 00:26:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "香港天文臺釋出黃色暴雨警告。"
-    },
-    {
-      "id": "mkt:019f6bbf-890f-7aab-8dcd-54e6d0280f52",
-      "time": "2026-07-17 00:25:42",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【U.S. 30-year mortgage rate rises to 6.55%, highest since Aug 2025】The 30-year fixed-rate mortgage averaged 6.55% on Thursday, its highest since late August 2025 and up from 6.49% a week earlier, Freddie Mac said. Rates rose for a second straight week as U.S. Treasury yields climbed after a temporary U.S.-Iran peace accord broke down, reviving Middle East tensions and inflation concerns."
-    },
-    {
-      "id": "4992754",
-      "time": "2026-07-17 00:25:08",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場訊息：費城半導體指數創下一個多月以來新低；最新下跌4.4%。"
-    },
-    {
-      "id": "4992753",
-      "time": "2026-07-17 00:24:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：英國將禁止向16歲以下未成年人出售高咖啡因能量飲料。"
     }
   ]
 }
