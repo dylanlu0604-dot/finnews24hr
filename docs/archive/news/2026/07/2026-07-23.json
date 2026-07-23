@@ -1,7 +1,44 @@
 {
   "date": "2026-07-23",
-  "count": 1020,
+  "count": 1024,
   "items": [
+    {
+      "id": "5003459",
+      "time": "2026-07-23 10:40:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色·鋁板塊震盪走高 宏橋控股漲停】有色·鋁板塊盤中震盪走高，宏橋控股漲停，南山鋁業、中孚實業、天山鋁業、華峰鋁業、雲鋁股份均漲超5%。"
+    },
+    {
+      "id": "te:markets:569064",
+      "time": "2026-07-23 10:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Decline — The New Zealand dollar traded around $0.581 after two consecutive sessions of losses, as traders assessed the impact of persistent Middle East tensions on the country's inflation outlook and broader economic prospects. The US and Iran continued to exchange strikes, while Yemen’s Houthi militants said they had attacked two Saudi Arabian tankers in the Red Sea, fueling concerns over prolonged supply disruptions. While the conflict has heightened inflation concerns due to elevated oil prices, it has also put downside risks on the economy, as New Zealand remains heavily dependent on oil imports from the Middle East, leaving the kiwi vulnerable to higher energy costs. Still, the Reserve Bank of New Zealand is widely expected to deliver another 25-basis-point rate hike in September following higher-than-expected inflation in the second quarter, with rates seen reaching at least 3.0% by year-end."
+    },
+    {
+      "id": "5003458",
+      "time": "2026-07-23 10:39:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲科技等成立智匯科技公司】企查查APP顯示，近日，深圳市行雲智匯科技有限公司成立，法定代表人為張文，註冊資本為1000萬元，經營範圍包含人工智慧應用軟體開發；人工智慧硬體銷售；資料處理和儲存支援服務；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由行雲科技(300209)全資子公司深圳市行雲控股有限責任公司、深圳市匯池控股有限公司等共同持股。"
+    },
+    {
+      "id": "5003457",
+      "time": "2026-07-23 10:39:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "PIPER SANDLER 將Alphabet目標價從 445 美元下調至 395 美元."
+    },
     {
       "id": "mkt:019f8cd7-1f24-7aab-8e57-df157e7e5e20",
       "time": "2026-07-23 10:38:56",

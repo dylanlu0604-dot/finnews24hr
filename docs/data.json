@@ -1,7 +1,44 @@
 {
-  "updated": "2026-07-23 10:39:33",
-  "count": 17561,
+  "updated": "2026-07-23 10:43:31",
+  "count": 17555,
   "items": [
+    {
+      "id": "5003459",
+      "time": "2026-07-23 10:40:00",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【有色·鋁板塊震盪走高 宏橋控股漲停】有色·鋁板塊盤中震盪走高，宏橋控股漲停，南山鋁業、中孚實業、天山鋁業、華峰鋁業、雲鋁股份均漲超5%。"
+    },
+    {
+      "id": "te:markets:569064",
+      "time": "2026-07-23 10:39:50",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "New Zealand",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "New Zealand Dollar Holds Decline — The New Zealand dollar traded around $0.581 after two consecutive sessions of losses, as traders assessed the impact of persistent Middle East tensions on the country's inflation outlook and broader economic prospects. The US and Iran continued to exchange strikes, while Yemen’s Houthi militants said they had attacked two Saudi Arabian tankers in the Red Sea, fueling concerns over prolonged supply disruptions. While the conflict has heightened inflation concerns due to elevated oil prices, it has also put downside risks on the economy, as New Zealand remains heavily dependent on oil imports from the Middle East, leaving the kiwi vulnerable to higher energy costs. Still, the Reserve Bank of New Zealand is widely expected to deliver another 25-basis-point rate hike in September following higher-than-expected inflation in the second quarter, with rates seen reaching at least 3.0% by year-end."
+    },
+    {
+      "id": "5003458",
+      "time": "2026-07-23 10:39:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【行雲科技等成立智匯科技公司】企查查APP顯示，近日，深圳市行雲智匯科技有限公司成立，法定代表人為張文，註冊資本為1000萬元，經營範圍包含人工智慧應用軟體開發；人工智慧硬體銷售；資料處理和儲存支援服務；雲端計算裝置銷售等。企查查股權穿透顯示，該公司由行雲科技(300209)全資子公司深圳市行雲控股有限責任公司、深圳市匯池控股有限公司等共同持股。"
+    },
+    {
+      "id": "5003457",
+      "time": "2026-07-23 10:39:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "PIPER SANDLER 將Alphabet目標價從 445 美元下調至 395 美元."
+    },
     {
       "id": "mkt:019f8cd7-1f24-7aab-8e57-df157e7e5e20",
       "time": "2026-07-23 10:38:56",
@@ -160502,88 +160539,6 @@
         "Importance 1"
       ],
       "text": "STI Pulls Back from Record High on Profit-Taking — Singapore's stocks fell 21 points, or 0.4%, to 5,538 in Thursday morning trade, snapping a ten-session winning streak, as traders took profits after the index hit a new record high a day earlier. Rising oil prices pressured sentiment, as concerns over inflation raised expectations of further interest rate hikes. Disappointing data from China also pressured sentiment after Wednesday's figures showed that the country's economy grew at its slowest pace in 3-1/2 years. Health services led the decline, followed by producer manufacturing, energy minerals, utilities, and consumer non-durables. However, resilient expectations of non-oil export growth capped the fall, with the market expecting exports to increase 30.2% in June, though growth eased from 38.4% in May, driven by a surge in AI-related demand. Among the early losers were Venture Corp. (-1.4%), Yangzijiang Shipbuilding Holdings (-0.4%), United Overseas Bank (-1.4%), Singapore Tech (-1.1%), and Keppel (-1.1%)."
-    },
-    {
-      "id": "4991251",
-      "time": "2026-07-16 10:42:13",
-      "tags": [
-        "市場"
-      ],
-      "text": "【醫療服務板塊持續走高，昭衍新藥漲停】醫療服務板塊持續走高，昭衍新藥漲停，南華生物此前漲停，百奧賽圖、普蕊斯、泓博醫藥漲超10%。"
-    },
-    {
-      "id": "4991250",
-      "time": "2026-07-16 10:42:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：儘管近期企穩，但韓元依然疲軟。"
-    },
-    {
-      "id": "4991249",
-      "time": "2026-07-16 10:41:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【四方光電、高德紅外等在武漢成立感測科技公司 註冊資本500萬】天眼查App顯示，近日，武漢光谷芯微感測科技有限公司成立，法定代表人為施維軒，註冊資本500萬人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣、物聯網技術研發、企業管理諮詢等。股東資訊顯示，該公司由武漢匯科智感科技合夥企業（有限合夥）、武漢光谷新技術產業投資有限公司、武漢華工新高理電子有限公司、四方光電（688665）、高德紅外（002414）等共同持股。"
-    },
-    {
-      "id": "4991248",
-      "time": "2026-07-16 10:41:47",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4030美元/盎司，日內跌0.55%。"
-    },
-    {
-      "id": "4991247",
-      "time": "2026-07-16 10:41:36",
-      "tags": [
-        "其他"
-      ],
-      "text": "【B站給新號推薦擦邊影片？客服回應：涉違規可舉報，未成年人模式將限制內容推送】據媒體報道，多位網友反映，影片平臺B站在部分推薦頁面中，存在向未成年人推送不當內容的現象。在新註冊賬號、未登入狀態及特定關鍵詞搜尋場景下，平臺推薦內容及直播間封面出現部分涉及身體區域性展示，或帶有暗示性標題的情況。 對此，B站官方暫無回應。B站客服則表示：“我們致力於與廣大使用者共同打造一個健康、文明的網路社群，始終堅決抵制並嚴格治理包括低俗、軟色情在內的各類違規內容。站內的影片都有相關工作人員稽核，如果發現影片內容存在問題，可以點選舉報，舉報後會有相關工作人員進行核實。”客服還表示，如果對首頁推薦的內容不感興趣，可以在首頁推薦對應影片右下角點選三個點，選擇對應“不感興趣”的選項。同時，也可以多觀看自己喜歡的影片，並對喜歡的影片進行點贊、投幣、收藏，推薦系統也會據此不斷改善最佳化。（新浪科技）"
-    },
-    {
-      "id": "4991246",
-      "time": "2026-07-16 10:40:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【機構：位元組系短劇應用PineDrama二季度下載量環比增長460%】7月16日，Sensor Tower最新資料顯示，2026年第二季度，中國非遊戲移動應用出海市場延續增長態勢，不同賽道和產品間的表現進一步分化。從收入榜來看，短劇應用繼續保持領先的商業化能力，Top20產品共有8款短劇應用入圍；PictureThis收入環比增長237%，成為本季度增長最快的工具類應用之一，展現出垂類工具應用在海外市場穩健的商業化能力；AI影片生成平臺Kling AI（可靈）首次入圍收入榜，位列第17名。從下載榜來看，新品快速放量與頭部產品持續獲客並存，位元組跳動旗下PineDrama下載量環比增長460%，NetShort則實現下載量與收入同步增長。"
-    },
-    {
-      "id": "mkt:019f68cb-cd0b-7aab-8db7-94c07bc9486f",
-      "time": "2026-07-16 10:40:14",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "China A-share CRO stocks rallied, led by Baiao Saitu, which rose over 16%; Wanbang Pharma gained more than 15%. Boji Pharma, Baihua Pharma and Nuosige also advanced."
-    },
-    {
-      "id": "mkt:019f68cb-b74e-7aab-8db7-8e0424065b8e",
-      "time": "2026-07-16 10:40:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Bank of Korea rate hike pushes mortgage rates toward 8%】Bank of Korea raised its benchmark rate 25 bps to 2.75% on the 15th. As South Korea enters a rate-hike cycle, concern is growing that already-rising loan rates could climb further. Banking-sector data on the 15th showed five-year fixed mortgage rates at the five largest banks—KB Kookmin, Shinhan, Hana, Woori and NH Nonghyup—ranged 4.74%–7.41%, with the top rate approaching 8%. The lower bound has risen about 42 bps since late May. The data indicate market rates moved up ahead of the central bank and that regulatory limits on loan volumes are reducing banks’ incentives to keep lending rates low."
-    },
-    {
-      "id": "4991245",
-      "time": "2026-07-16 10:40:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【航天裝備板塊短線走低，航天環宇跌超6%】航天裝備板塊短線走低，航天環宇跌超6%，中國衛星、電科藍天、中天火箭、航天電子等跟跌。"
-    },
-    {
-      "id": "4991244",
-      "time": "2026-07-16 10:40:00",
-      "tags": [
-        "國際"
-      ],
-      "text": "【萬斯公開指責以色列政府：試圖破壞美伊談判，讓戰事無限期持續】據美國《紐約郵報》報道，美國副總統萬斯在15日播出的一檔播客節目中表示，以色列政府內部有人試圖破壞美國與伊朗的談判，以使戰事“無限期”持續下去。美國副總統萬斯在15日播出的一檔播客節目中接受採訪。圖源：美媒“我毫不懷疑，以色列政府內部有人試圖讓我們偏離（與伊朗的）談判，因為他們想要繼續推進軍事行動。”萬斯稱，“我們毫不懷疑，他們的體系內部有一些人正在操縱輿論，試圖改變美國公眾的看法，讓這場戰爭無限期持續下去。再說一遍，這並非出於任何目的，只是希望戰爭無限期持續下去。”（環球網）"
     }
   ]
 }
