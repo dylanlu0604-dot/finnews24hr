@@ -1,7 +1,55 @@
 {
-  "updated": "2026-07-24 02:01:09",
-  "count": 17989,
+  "updated": "2026-07-24 02:05:04",
+  "count": 17988,
   "items": [
+    {
+      "id": "mkt:019f9026-817b-7aab-8e71-45afd0beeee1",
+      "time": "2026-07-24 02:04:25",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "MORGAN STANLEY cut ALPHABET (GOOG.O) price target to $400 from $415."
+    },
+    {
+      "id": "mkt:019f9026-5a3c-7aab-8e71-3f2ebad89cad",
+      "time": "2026-07-24 02:04:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish"
+      ],
+      "text": "Morgan Stanley raised its price target on Apple (AAPL.O) to $364 from $360."
+    },
+    {
+      "id": "5005294",
+      "time": "2026-07-24 02:02:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：伊豫銀行與愛媛銀行正考慮組建控股公司，兩家銀行未來都將在該控股公司架構下運營，這一重組流程最早可於2027年4月完成。"
+    },
+    {
+      "id": "5005293",
+      "time": "2026-07-24 02:00:58",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將特斯拉目標價從417.00美元下調至400.00美元。"
+    },
+    {
+      "id": "5005292",
+      "time": "2026-07-24 02:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科研團隊實現植物免疫受體精準定製化設計】植物病害嚴重威脅全球農業生產和糧食安全，每年造成數千億美元的經濟損失。培育和推廣作物抗病品種是植物病害綠色防控的核心策略之一。中國科學院遺傳與發育生物學研究所高彩霞研究員團隊首次提出“可程式設計植物合成免疫”的新理念，透過整合人工智慧輔助蛋白質設計、模組化免疫受體工程和植物體內定向進化技術，建立了可程式設計的合成植物免疫受體設計平臺，實現了植物免疫受體的精準定製化設計。該成果突破了天然抗病基因資源的限制，為快速應對新發病害和病原物變異提供了全新的技術路線。相關成果7月24日在國際學術期刊《科學》發表。（央視新聞）"
+    },
     {
       "id": "mkt:019f9021-e56d-7aab-8e71-303bd7462d33",
       "time": "2026-07-24 01:59:28",
@@ -164729,63 +164777,6 @@
         "國際"
       ],
       "text": "洛根：有可能為銀行建立一個更最佳化的監管流動性機制，從而縮小美聯儲資產負債表規模。"
-    },
-    {
-      "id": "mkt:019f6c19-b379-7aab-8dcf-6b9a0ffb8a1f",
-      "time": "2026-07-17 02:04:11",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Ukrainian parliament approves new cabinet list】Ukraine’s parliament approved a new cabinet list with 264 votes, accepting the outgoing cabinet’s resignation and confirming a replacement slate. The approved list did not include nominees for defence and foreign ministers; the president will nominate those two posts. Six incumbent ministers were retained, including First Deputy Prime Minister and Energy Minister Denys Shmyhal, Deputy Prime Minister for Humanitarian Policy and Culture Tetiana Berezhna, Finance Minister Serhii Marchenko and Health Minister Viktor Liashko. Former head of Ukraine’s mission to the EU Vsevolod Chentsov was appointed Deputy Prime Minister for European affairs."
-    },
-    {
-      "id": "mkt:019f6c19-b14b-7aab-8dcf-63d0073c8c45",
-      "time": "2026-07-17 02:04:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Federal Reserve's Logan said the goal should be to build an efficient, effective balance sheet, not to pursue balance-sheet size for its own sake."
-    },
-    {
-      "id": "mkt:019f6c19-a0af-7aab-8dcf-5a25c2ee0d8b",
-      "time": "2026-07-17 02:04:06",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bearish",
-        "S&P500",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed's LOGAN said current wage levels are not creating inf pressure."
-    },
-    {
-      "id": "4992851",
-      "time": "2026-07-17 02:03:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：資產負債表的目標應當是兼具效率與效果，而非單純追求規模。"
-    },
-    {
-      "id": "4992850",
-      "time": "2026-07-17 02:01:57",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：不過仍擔憂相關風險。"
-    },
-    {
-      "id": "4992849",
-      "time": "2026-07-17 02:01:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：目前薪資並未帶來通脹壓力。"
     }
   ]
 }
