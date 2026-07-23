@@ -1,7 +1,57 @@
 {
   "date": "2026-07-24",
-  "count": 219,
+  "count": 224,
   "items": [
+    {
+      "id": "mkt:019f9048-7b4d-7aab-8e71-b2e3c136b8c2",
+      "time": "2026-07-24 02:41:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan cut Tesla price target from $475.00 to $445.00 per share."
+    },
+    {
+      "id": "5005332",
+      "time": "2026-07-24 02:41:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普稱讚佐治亞電力凍結基礎電價。"
+    },
+    {
+      "id": "5005331",
+      "time": "2026-07-24 02:40:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "超微電腦推出搭載第六代AMD EPYC 9006系列處理器的新伺服器產品組合，帶來1.7倍代際效能提升。"
+    },
+    {
+      "id": "5005330",
+      "time": "2026-07-24 02:39:53",
+      "tags": [
+        "宏觀",
+        "央行",
+        "國際"
+      ],
+      "text": "【逢低買入者或可無視油價波動，但絕不能無視美聯儲動向】在科技巨頭股價暴跌引發市場劇烈動盪後，美股股指目前已趨於企穩。儘管交易員們傾向於對地緣政治局勢的升級視而不見，但美聯儲加息機率的不斷攀升，卻成了他們無法忽視的焦點。正如Spectra的布倫特·唐納利（Brent Donnelly）所言，當前股市正遭受多重不利因素的衝擊。伊朗局勢的再次升級，以及迫在眉睫的關稅危機，進一步加劇了市場對通脹的擔憂，並重新引發了對貨幣政策收緊的風險預期。儘管得益於企業盈利表現良好，加之特朗普總統一貫的政策傾向，交易員們可能更傾向於等待地緣政治局勢的進一步明朗；但在市場劇烈波動之際，美聯儲採取更嚴格貨幣政策的風險正在上升，這可能會對股市造成進一步的下行壓力。"
+    },
+    {
+      "id": "mkt:019f9046-56a5-7aab-8e71-aab706aab088",
+      "time": "2026-07-24 02:39:16",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "Supermicro launched a new server lineup using AMD's sixth-generation EPYC 9006 series processors, reporting a 1.7x generational performance gain."
+    },
     {
       "id": "5005329",
       "time": "2026-07-24 02:38:18",
