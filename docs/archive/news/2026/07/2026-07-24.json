@@ -1,7 +1,31 @@
 {
   "date": "2026-07-24",
-  "count": 393,
+  "count": 396,
   "items": [
+    {
+      "id": "mkt:019f90ef-2998-7aab-8e73-c91012541936",
+      "time": "2026-07-24 05:43:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Brazil's government said it will invoke the reciprocity law and refer the matter to the WTO dispute settlement mechanism."
+    },
+    {
+      "id": "5005424",
+      "time": "2026-07-24 05:43:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴西：將啟動適用本國對等反制法案的相關程式，並就此向世界貿易組織爭端解決機制提起訴訟。"
+    },
+    {
+      "id": "5005423",
+      "time": "2026-07-24 05:43:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "巴西：美國貿易代表“操縱”強迫勞動議題。"
+    },
     {
       "id": "5005422",
       "time": "2026-07-24 05:41:44",
