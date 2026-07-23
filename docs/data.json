@@ -1,7 +1,42 @@
 {
-  "updated": "2026-07-24 00:43:27",
-  "count": 18025,
+  "updated": "2026-07-24 00:47:31",
+  "count": 18027,
   "items": [
+    {
+      "id": "5005214",
+      "time": "2026-07-24 00:46:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 釋出 Helios 人工智慧伺服器整機櫃。"
+    },
+    {
+      "id": "5005213",
+      "time": "2026-07-24 00:45:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【Kalshi在推進貴金屬業務後，計劃推出銅永續期貨】Kalshi Inc.正計劃推出銅永續期貨，為投資者提供一種押注這種紅色金屬的新方式，以應對人工智慧（AI）基礎設施建設帶來的需求增長。該公司首席風險官Udesh Jha表示，在貴金屬合約之後，他們正重點考慮將銅和鈀作為下一批推出的產品。Kalshi的銅永續期貨將進入一個競爭已經非常激烈的工業金屬交易市場，倫敦金屬交易所（LME）和紐約商品交易所（Comex）均已提供銅期貨和期權，且市場上還有相關的交易所交易基金（ETF）。"
+    },
+    {
+      "id": "5005212",
+      "time": "2026-07-24 00:45:33",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "美聯儲進行的10年期通脹保值國債投標總額為23億美元."
+    },
+    {
+      "id": "5005211",
+      "time": "2026-07-24 00:45:23",
+      "tags": [
+        "市場"
+      ],
+      "text": "納斯達克綜合指數下跌521.92點，跌幅2.03%."
+    },
     {
       "id": "5005210",
       "time": "2026-07-24 00:42:22",
@@ -165146,22 +165181,6 @@
         "MKT News"
       ],
       "text": "【OpenAI chairman says no update on IPO timing】OpenAI chairman Bret Taylor told CNBC there is no update on IPO timing. He reiterated that last month’s confidential filing with the US Securities and Exchange Commission was intended to preserve optionality rather than signal a firm timetable, and said the company has many priorities to address before going public."
-    },
-    {
-      "id": "4992769",
-      "time": "2026-07-17 00:46:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗最高領袖顧問：對基礎設施的襲擊將危及地區能源供應】當地時間16日，伊朗最高領袖顧問穆赫貝爾在社交媒體上發文警告稱，近期發生在阿瓦士和伊朗沙赫爾的襲擊，與此前針對米納卜一所學校的襲擊屬於同一行動脈絡，目標均為平民。穆赫貝爾表示，支援相關襲擊行動的各方應認識到，針對伊朗安全和基礎設施的攻擊，可能導致整個地區能源供應鏈遭到破壞。他稱，襲擊伊朗基礎設施將對地區能源安全造成嚴重後果。伊朗胡齊斯坦省副省長當地時間15日晚表示，該省首府阿瓦士周邊多地遭到美軍襲擊。有訊息稱，多枚炮彈擊中當地一家醫院附近區域。此外，伊朗錫斯坦-俾路支斯坦省副省長當地時間9日證實，伊朗沙赫爾機場當天凌晨遭到襲擊，一名消防員在襲擊中身亡。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6bd0-6bd3-7aab-8dcd-79f725d03678",
-      "time": "2026-07-17 00:44:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran’s Mehr News Agency reported a US strike near Bandar Abbas; Hormozgan provincial government said there were no casualties or property damage."
     }
   ]
 }
