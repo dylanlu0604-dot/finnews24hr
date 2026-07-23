@@ -1,7 +1,162 @@
 {
   "date": "2026-07-23",
-  "count": 783,
+  "count": 799,
   "items": [
+    {
+      "id": "mkt:019f8c88-5d31-7aab-8e55-d4b402809fda",
+      "time": "2026-07-23 09:12:54",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Lithium carbonate most-active futures contract extended intraday gains to 2.00%, trading at 144,280 yuan/ton."
+    },
+    {
+      "id": "mkt:019f8c87-97e5-7aab-8e55-cf0d32351c82",
+      "time": "2026-07-23 09:12:04",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Trade-weighted yen slides, signaling broad yen weakness】While USD/JPY's four-decade lows drew headlines, Japan's nominal effective exchange rate — a trade-weighted yen index — has fallen to fresh YTD lows, reflecting weakness versus the euro, pound sterling and several Asian currencies. Broad yen depreciation raises imported inflation (inf) risks and erodes Japanese purchasing power, boosting import costs across multiple trade partners and complicating the Bank of Japan's path to policy normalization without harming the recovery. Robeco senior portfolio manager Ugo Lancioni said the yen's value is deteriorating against a basket of currencies and may require stronger FX intervention, potentially combined with other measures, to be fully effective."
+    },
+    {
+      "id": "te:markets:569012",
+      "time": "2026-07-23 09:11:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Silver Prices Hold Steady — Silver hovered around $59 per ounce on Thursday, staying close to a nearly two-week high as safe-haven demand and bargain hunting helped counter concerns that rising oil prices could keep US interest rates higher for longer. Investors continued to monitor geopolitical developments after Iran-backed Houthi militants claimed attacks on two Saudi oil tankers in the Red Sea, a key route for Saudi crude exports, heightening fears of broader energy supply disruptions. President Donald Trump also warned of strikes on Iranian infrastructure if shipping through the Strait of Hormuz is attacked, adding to concerns over a wider military conflict. Despite recent gains, bullion remained well below its January record high as elevated oil prices reinforced expectations that inflation could keep interest rates higher for longer. Markets currently price in two 25 bps rate hikes by March 2027, with a 70% probability that the first move will come as early as September."
+    },
+    {
+      "id": "5003319",
+      "time": "2026-07-23 09:11:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：深入推動農村能源革命】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提到，提升農村能源自主保障能力。推進農村分散式新能源發電多場景融合開發利用，鼓勵依託生物質發電等支撐性調節性電源，加強源荷儲協同聚合管理與智慧化調控，因地制宜推廣可再生能源非電利用，提升農村用能清潔低碳水平和自主保障能力。推動建設一批村鎮微能網試點專案。推動農村能源基礎設施提質升級。建立農村電網長效發展機制，建設農村新型電網，全面提升新能源承載能力和供電保障能力。積極支援在農村地區建設可再生能源供暖（製冷）設施、儲熱蓄冷設施，滿足農村多元綠色用能需求。"
+    },
+    {
+      "id": "te:markets:569011",
+      "time": "2026-07-23 09:11:45",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "currency",
+        "Importance 1"
+      ],
+      "text": "South Korean Won Hits 10-week High — The South Korean Won touched 1471.00 against the USD, the highest since May 2026. Over the past 4 weeks, US Dollar South Korean Won lost 4.61%, and in the last 12 months, it increased 7.17%."
+    },
+    {
+      "id": "mkt:019f8c86-df63-7aab-8e55-c3efc8d2e7fd",
+      "time": "2026-07-23 09:11:16",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bullish"
+      ],
+      "text": "South Korea's KOSPI intraday gains widened to 4%, at 7,072.44. Japan's Nikkei 225 breached 67,000, up 1.36% intraday."
+    },
+    {
+      "id": "5003318",
+      "time": "2026-07-23 09:11:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "【理想汽車成立新公司 含積體電路晶片業務】企查查APP顯示，近日，芯創智核（上海）科技有限公司成立，經營範圍包含積體電路晶片設計及服務；積體電路晶片及產品銷售；大資料服務；資料處理服務等。企查查股權穿透顯示，該公司由上海理想汽車科技有限公司全資持股。"
+    },
+    {
+      "id": "5003317",
+      "time": "2026-07-23 09:10:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【韓國綜指漲幅擴大至4%】韓國綜指漲幅擴大至4%，現報7072.44點。個股方面，SK海力士漲超6%，三星電子漲超4%。"
+    },
+    {
+      "id": "5003316",
+      "time": "2026-07-23 09:10:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：促進抽水蓄能高質量發展】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提到，積極有序開發建設抽水蓄能電站。堅持生態優先、需求導向、最佳化佈局、有序建設，促進抽水蓄能高質量發展。滾動開展服務電力系統抽水蓄能需求規模論證研究，積極推進在建專案建設投運。到 2030 年，全國抽水蓄能電站裝機規模達到1.6億千瓦左右。"
+    },
+    {
+      "id": "mkt:019f8c85-a9b0-7aab-8e55-baffd70ffe92",
+      "time": "2026-07-23 09:09:57",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "【NDRC, NEA encourage offshore wind integration with oil & gas, desalination, marine farms and subsea computing】The NDRC and National Energy Administration issued the Renewable Energy Development 15th Five-Year Plan, calling for promotion of offshore wind integration with offshore PV and other marine energy. The plan encourages co-development of offshore wind with offshore oil & gas, seawater desalination, marine ranching and subsea computing capacity, urges integrated build-out with marine observation, ecological and seismic monitoring facilities, and directs exploration of offshore energy islands as a model for comprehensive green-energy development and higher-efficiency utilization."
+    },
+    {
+      "id": "5003315",
+      "time": "2026-07-23 09:09:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "【WAIC首個AI光算力產業論壇上演產業對談，騰訊雲、曦智科技肯定NPO價值】近日，在曦智科技主辦的世界人工智慧大會（WAIC）首個AI光算力產業論壇上，騰訊雲首次披露了國產算力和光互連的新部署計劃：公司將於明年及後年大規模部署國產化算力，並預計2026年第四季度部署NPO（近封裝光學）超級節點，同時呼籲推動國內外NPO行業標準統一。此舉再度引發了市場對NPO技術路線的關注。當前，AI算力的大規模部署，對資料中心內部互連提出了更高要求。傳統銅纜互連在頻寬密度與功耗上面臨瓶頸，光互連成為突破這一瓶頸的關鍵路徑。NPO技術透過將光引擎與計算晶片整合於同一板卡，縮短光電轉換距離，去除光模組中最昂貴的DSP晶片，從而大幅降低功耗與延遲。相較於CPO（共封裝光學），NPO工程適配難度更低，對現有產業鏈的擾動也更小。騰訊雲副總裁王亞晨在WAIC上的原話是：“隨著超節點規模擴大，光互連已成為突破頻寬和功耗瓶頸的關鍵，NPO是當前國產GPU構建超節點‘更務實的技術路線’。”曦智科技創始人沈亦晨也在會上判斷，NPO是目前“最容易第一步達到、對整個產業鏈生態擾動最小”的技術方案。核心原因在於：NPO去掉DSP（數字訊號處理器）後，雖然對光引擎效能要求大幅提高，但縮短的銅導線距離帶來的訊號降噪，可以部分彌補去掉DSP的損失。這使得NPO方案在功耗和成本上都有優勢。實際上，從光引擎設計到先進封裝工藝，從測試裝置到上層排程軟體，每一環的成熟度都將直接影響NPO超級節點的實際效能。王亞晨也在會上感謝了包括曦智科技在內業內合作伙伴對國產化NPO超節點建設的支援。作為光電混合算力供應商，曦智科技已在NPO和CPO兩端全面佈局：NPO領域與交換晶片和GPU廠商形成應用場景合作，CPO領域則和交換晶片與GPU都已經進行了相互技術驗證，凸顯在scale-up光互連產業佈局的前瞻性。“當前最亟需補強的，是在龐大算力產業鏈中構建真正開放的產業生態，使計算、儲存、交換、軟體、應用等各環節的優秀企業最大化發揮各自優勢，共同驅動中國算力基礎設施的升級。”沈亦晨表示。"
+    },
+    {
+      "id": "5003314",
+      "time": "2026-07-23 09:09:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【高瀾股份：子公司瀾科泵業研發的冷卻用遮蔽泵已在資料中心液冷專案批次應用】高瀾股份7月23日在互動平臺表示，子公司瀾科泵業研發的冷卻用遮蔽泵已在資料中心液冷專案批次應用。"
+    },
+    {
+      "id": "5003313",
+      "time": "2026-07-23 09:09:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：積極應用柔性彙集接入、車網互動等技術，拓展交能融合分散式新能源開發利用空間】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提到，推進分散式新能源與交通多場景融合。鼓勵交通基礎設施沿線分散式新能源與周邊用能設施一體化開發，建設一批“零碳公路”。積極應用柔性彙集接入、車網互動等技術，拓展交能融合分散式新能源開發利用空間。"
+    },
+    {
+      "id": "mkt:019f8c85-4958-7aab-8e55-b2daac247d1d",
+      "time": "2026-07-23 09:09:32",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Copper",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "【NDRC, NEA push coordinated planning of new data centres with renewable generation】NDRC and the National Energy Administration issued a notice releasing the Renewable Energy Development \"15th Five-Year Plan\". The plan directs: new data centres should be planned and sited in coordination with renewable power generation; computing loads should be classified to tap spatial‑temporal flexibility; promote green‑power direct connections and integrated source‑grid‑load‑storage solutions; and steadily increase green power consumption by digital infrastructure and raise the share of renewables in existing digital infrastructure consumption."
+    },
+    {
+      "id": "5003312",
+      "time": "2026-07-23 09:09:22",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【兩部門：研究面向太空的太陽能發電技術，推進關鍵技術驗證】發改委、能源局釋出關於印發《可再生能源發展“十五五”規劃》的通知。通知提到，加強可再生能源先進材料、核心元器件（零部件）、關鍵裝置及控制系統研發。研製變速、超高水頭、超高抽發比抽水蓄能機組和千米水頭段巨型衝擊式水電機組等裝備。開展高效可靠風力發電裝備技術研究，突破高可靠低成本葉片、超高塔架、新型漂浮式基礎等關鍵裝置製造技術，探索研究高空風電等新型風能利用技術。加速鈣鈦礦疊層電池等高效光伏電池製備及產業化生產技術研究，研究面向太空的太陽能發電技術，推進關鍵技術驗證。加強綠色氫氨醇柔性離網製取等關鍵技術研發與應用。"
+    },
+    {
+      "id": "5003311",
+      "time": "2026-07-23 09:09:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1.1%，至8,920.60點，創6月18日以來最高。"
+    },
     {
       "id": "mkt:019f8c84-834d-7aab-8e55-acc649666c4b",
       "time": "2026-07-23 09:08:42",
