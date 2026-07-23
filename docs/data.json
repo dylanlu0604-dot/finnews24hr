@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-24 04:06:01",
-  "count": 18007,
+  "updated": "2026-07-24 04:09:58",
+  "count": 18006,
   "items": [
+    {
+      "id": "5005387",
+      "time": "2026-07-24 04:09:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "SpaceX：受天氣影響，現計劃於週五開展飛行測試。"
+    },
+    {
+      "id": "5005386",
+      "time": "2026-07-24 04:08:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：專用定製晶片營收同比增長近兩倍。"
+    },
+    {
+      "id": "5005385",
+      "time": "2026-07-24 04:07:12",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美元指數23日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.32%，在匯市尾市收於101.445。截至紐約匯市尾市，1歐元兌換1.1377美元，低於前一交易日的1.1411美元；1英鎊兌換1.3318美元，低於前一交易日的1.3373美元。1美元兌換163.80日元，高於前一交易日的163.13日元；1美元兌換0.8169瑞士法郎，高於前一交易日的0.8146瑞士法郎；1美元兌換1.4076加元，低於前一交易日的1.4085加元；1美元兌換9.7663瑞典克朗，高於前一交易日的9.7014瑞典克朗。"
+    },
+    {
+      "id": "te:markets:569372",
+      "time": "2026-07-24 04:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Intel earnings above expectations at 0.42 USD — Intel (INTC) released earnings per share at 0.42 USD, compared to market expectations of 0.21 USD."
+    },
+    {
+      "id": "5005384",
+      "time": "2026-07-24 04:06:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國思愛普Sap二季度非IFRS雲營收62.8億歐元，分析師預期62.6億歐元。"
+    },
+    {
+      "id": "mkt:019f9095-9afc-7aab-8e72-fcaabd49bf00",
+      "time": "2026-07-24 04:05:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "On Thursday July 23, the Dow Jones Industrial Average closed down 507.59 points (-0.97%) at 51,710.99; the S&P 500 fell 90.79 points (-1.21%) to 7,408.17; the Nasdaq Composite dropped 553.21 points (-2.15%) to 25,137.69."
+    },
     {
       "id": "mkt:019f9095-0f3a-7aab-8e72-f217c8c72654",
       "time": "2026-07-24 04:05:15",
@@ -164899,76 +164957,6 @@
         "國際"
       ],
       "text": "美國財政部長週二與伊拉克總理通話。"
-    },
-    {
-      "id": "te:markets:567643",
-      "time": "2026-07-17 04:09:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Intuitive Surgical earnings above expectations at 2.80 USD — Intuitive Surgical (ISRG) released earnings per share at 2.80 USD, compared to market expectations of 2.51 USD."
-    },
-    {
-      "id": "mkt:019f6c8b-f51d-7aab-8dd0-cf293ccfc403",
-      "time": "2026-07-17 04:08:59",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Tasnim News Agency reported US fighter jets launched a missile strike on Iran's Shahr Airport."
-    },
-    {
-      "id": "mkt:019f6c8b-5be0-7aab-8dd0-c68474f5356a",
-      "time": "2026-07-17 04:08:20",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Oil edges lower on Aug/Sept futures】NYMEX light sweet crude for August delivery fell $0.65 to settle at $78.95/bbl, down 0.82%. ICE Brent for September delivery fell $0.72 to settle at $84.23/bbl, down 0.85%."
-    },
-    {
-      "id": "4992937",
-      "time": "2026-07-17 04:07:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：美軍戰鬥機對伊朗沙赫爾機場發動了導彈襲擊。"
-    },
-    {
-      "id": "4992936",
-      "time": "2026-07-17 04:07:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國際油價16日微跌】截至當天收盤，紐約商品交易所8月交貨的輕質原油期貨價格下跌65美分，收於每桶78.95美元，跌幅為0.82%；9月交貨的倫敦布倫特原油期貨價格下跌72美分，收於每桶84.23美元，跌幅為0.85%。"
-    },
-    {
-      "id": "4992935",
-      "time": "2026-07-17 04:06:49",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國宣佈針對恐怖分子的簽證限制政策。"
-    },
-    {
-      "id": "4992934",
-      "time": "2026-07-17 04:06:23",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "SpaceX收跌3.1%，報131.11美元，美國IPO以來首次收盤破發。"
     }
   ]
 }
