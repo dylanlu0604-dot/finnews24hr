@@ -1,7 +1,79 @@
 {
   "date": "2026-07-23",
-  "count": 1008,
+  "count": 1015,
   "items": [
+    {
+      "id": "te:economy:569063",
+      "time": "2026-07-23 10:34:17",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "Australia 10Y Yield Hits 9-Week High — Australia’s 10-year government bond yield climbed to around 5%, the highest level since May 20 as robust jobs data reinforced the case of another rise in interest rates. The economy added 76,300 jobs in June, the largest increase since April last year and far above forecasts of a 15,300 gain, while the jobless rate held at 4.4% as expected, with the participation rate rising to a one-year high of 67%. The upbeat data reinforced signs of tight labor conditions and prompted markets to boost the odds of another rate hike by year-end to 90%, up from 78% previously. Combined with higher oil prices amid renewed fighting in the Middle East, the strong jobs report added to uncertainty over the inflation outlook and increased pressure on the Reserve Bank of Australia to keep policy restrictive. Investors now await second-quarter inflation data due next week, with core inflation expected to accelerate to 3.7% annually from 3.5%, remaining well above the central bank’s 2%-3% target band."
+    },
+    {
+      "id": "5003453",
+      "time": "2026-07-23 10:32:58",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沙特證實一艘油輪在紅海遭襲起火】據沙特通訊社23日報道，沙烏地阿拉伯“恩塞利亞”號油輪在紅海航行時遭襲，襲擊造成船頭起火，船員均安全。此前，葉門胡塞武裝表示使用多枚彈道導彈、巡航導彈以及無人機，打擊違反該組織海上禁運令的沙特油輪“恩塞利亞”號和“萊拉”號。葉門胡塞武裝20日宣佈對沙特實施海上禁運，並警告國際航運公司稱，與沙特港口開展貿易往來的船隻可能面臨軍事打擊。（新華社）"
+    },
+    {
+      "id": "5003452",
+      "time": "2026-07-23 10:32:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國家藥監局批准2款創新藥上市】近日，國家藥品監督管理局透過優先審評審批程式批准Takeda Pharmaceuticals U.S.A., Inc.申報的1類創新藥奧普雷頓片（商品名稱：奧澤悅/ORZEYFUL）上市，用於16歲及以上青少年和成人1型發作性睡病患者。此外，近日，國家藥品監督管理局透過優先審評審批程式批准四川海思科製藥有限公司申報的1類創新藥琥珀酸思普可泮片上市，適用於治療既往未接受過補體抑制劑治療的陣發性睡眠性血紅蛋白尿症（PNH）成人患者。"
+    },
+    {
+      "id": "mkt:019f8cd0-ffa1-7aab-8e57-ca57a508308e",
+      "time": "2026-07-23 10:32:14",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "01347.HK",
+        "Impact bearish",
+        "00981.HK",
+        "00763.HK"
+      ],
+      "text": "Hong Kong-listed chip stocks slid; Hua Hong Hongli (01347.HK) dropped more than 6%, with Tianshu Zhixin (09903.HK), SMIC (00981.HK), Innosilicon (02577.HK), ZTE (00763.HK) and GigaDevice (03986.HK) also lower."
+    },
+    {
+      "id": "5003451",
+      "time": "2026-07-23 10:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "上海鋼聯釋出資料顯示，今日MMLC電池級碳酸鋰（早盤）中間價報145500元/噸，較上日16:30價格上漲3500元/噸。"
+    },
+    {
+      "id": "5003450",
+      "time": "2026-07-23 10:31:38",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25141.641點；恒生科技指數現漲0.379%。"
+    },
+    {
+      "id": "te:markets:569061",
+      "time": "2026-07-23 10:31:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "China",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Offshore Yuan Edges Higher — The offshore yuan edged up to around 6.77 per dollar on Thursday, as expanding liquidity in Hong Kong highlighted progress in China's efforts to internationalize its currency. Offshore yuan deposits in the city reached a record 1.13 trillion yuan at the end of May, while yuan clearance volume rose to 53.2 trillion yuan in June, surpassing settlements in both the Hong Kong dollar and US dollar. Strong demand for yuan financing, driven by China's relatively lower interest rates, has fueled growth in offshore yuan loans, bond issuance, and hedging activity. Earlier this year, President Xi Jinping reaffirmed yuan internationalization as a strategic priority, aiming to elevate the currency’s global role and reduce reliance on the US dollar. Meanwhile, investors now await the Politburo meeting later this month for clues on Beijing's second-half policy agenda, with any fresh stimulus measures likely to influence the yuan's trajectory."
+    },
     {
       "id": "mkt:019f8ccd-97c2-7aab-8e57-c7c18e8271cb",
       "time": "2026-07-23 10:28:31",
