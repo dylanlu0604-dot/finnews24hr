@@ -1,7 +1,46 @@
 {
   "date": "2026-07-24",
-  "count": 244,
+  "count": 248,
   "items": [
+    {
+      "id": "5005346",
+      "time": "2026-07-24 03:02:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元夜盤收盤報6.7777，較上一交易日下跌27點。"
+    },
+    {
+      "id": "mkt:019f905a-fb90-7aab-8e71-f967df7bbede",
+      "time": "2026-07-24 03:01:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS: Iran's parliamentary National Security Committee chair, citing the Revolutionary Guards' naval missile commander, said Iran's missile and drone stockpiles are several times what would be needed to confront the US."
+    },
+    {
+      "id": "te:markets:569367",
+      "time": "2026-07-24 03:01:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Soars — Crude oil surged more than 6% to trade above $92 per barrel on Thursday, extending gains for a fifth consecutive session and reaching its highest level since early June as escalating hostilities in the Middle East heightened concerns over global supply disruptions. US President Trump warned that the US would hold Iran responsible for any future Houthi attacks on commercial shipping in the Red Sea, threatening Tehran and the Yemen-based militants with \"major military punishment.\" He also said he was \"considering a massive attack\" against Iran. The comments followed Houthi attacks on two Saudi oil tankers in the Red Sea, which the group said were intended to enforce a newly announced blockade of Saudi ports. Oil prices have now climbed more than 30% from the pre-conflict levels seen earlier this month. Adding to supply concerns, Kazakhstan's decision to suspend crude exports through the Caspian Pipeline Consortium terminal following drone attacks further tightened the market outlook."
+    },
+    {
+      "id": "5005345",
+      "time": "2026-07-24 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌1.28%，報24877.22點，低水333.59點。"
+    },
     {
       "id": "5005344",
       "time": "2026-07-24 02:56:55",

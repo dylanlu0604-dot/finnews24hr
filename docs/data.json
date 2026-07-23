@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-24 02:59:05",
-  "count": 18008,
+  "updated": "2026-07-24 03:03:34",
+  "count": 18006,
   "items": [
+    {
+      "id": "5005346",
+      "time": "2026-07-24 03:02:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "在岸人民幣兌美元夜盤收盤報6.7777，較上一交易日下跌27點。"
+    },
+    {
+      "id": "mkt:019f905a-fb90-7aab-8e71-f967df7bbede",
+      "time": "2026-07-24 03:01:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "TASNIM NEWS: Iran's parliamentary National Security Committee chair, citing the Revolutionary Guards' naval missile commander, said Iran's missile and drone stockpiles are several times what would be needed to confront the US."
+    },
+    {
+      "id": "te:markets:569367",
+      "time": "2026-07-24 03:01:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Soars — Crude oil surged more than 6% to trade above $92 per barrel on Thursday, extending gains for a fifth consecutive session and reaching its highest level since early June as escalating hostilities in the Middle East heightened concerns over global supply disruptions. US President Trump warned that the US would hold Iran responsible for any future Houthi attacks on commercial shipping in the Red Sea, threatening Tehran and the Yemen-based militants with \"major military punishment.\" He also said he was \"considering a massive attack\" against Iran. The comments followed Houthi attacks on two Saudi oil tankers in the Red Sea, which the group said were intended to enforce a newly announced blockade of Saudi ports. Oil prices have now climbed more than 30% from the pre-conflict levels seen earlier this month. Adding to supply concerns, Kazakhstan's decision to suspend crude exports through the Caspian Pipeline Consortium terminal following drone attacks further tightened the market outlook."
+    },
+    {
+      "id": "5005345",
+      "time": "2026-07-24 03:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "恒指期貨夜盤收跌1.28%，報24877.22點，低水333.59點。"
+    },
     {
       "id": "5005344",
       "time": "2026-07-24 02:56:55",
@@ -164897,58 +164936,6 @@
         "XAUUSD"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) says Iran can sustain prolonged combat against its adversaries."
-    },
-    {
-      "id": "4992889",
-      "time": "2026-07-17 03:03:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【澤連斯基解除基輔及兩州軍政負責人職務】當地時間16日，烏克蘭總統網站釋出通報，烏總統澤連斯基簽署總統令，對烏克蘭多地軍事行政機構負責人實施人事調整。根據該總統令，基輔市、基輔州、尼古拉耶夫州軍事行政管理局原局長職務均被解除。目前基輔市軍事行政管理局新任負責人人選暫未公佈，魯斯蘭·奧利尼克出任基輔州軍事行政管理局代理局長，格奧爾基·列舍季洛夫出任尼古拉耶夫州軍事行政管理局代理局長。（央視新聞）"
-    },
-    {
-      "id": "4992888",
-      "time": "2026-07-17 03:03:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "在岸人民幣兌美元（CNY）北京時間03:00收報6.7711元，較週三夜盤收盤跌14點。成交量452.20億美元。"
-    },
-    {
-      "id": "mkt:019f6c4d-fbf0-7aab-8dcf-ffdcb26c0ca3",
-      "time": "2026-07-17 03:01:17",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's defense ministry spokesman said Kuwaiti armed forces have intercepted 32 hostile drones that entered the country's airspace since early today; several facilities were damaged but there were no casualties."
-    },
-    {
-      "id": "4992887",
-      "time": "2026-07-17 03:00:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "科威特國防部官方發言人：自今日拂曉起，武裝部隊在科威特領空共計偵測到 32 架敵方無人機，現已全部實施攔截處置。"
-    },
-    {
-      "id": "4992886",
-      "time": "2026-07-17 03:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "恒指期貨夜盤收跌0.30%，報24914.75點，低水93.85點。"
-    },
-    {
-      "id": "4992885",
-      "time": "2026-07-17 02:59:34",
-      "tags": [
-        "市場"
-      ],
-      "text": "【芝加哥玉米期貨跌約1.3%】週四（7月16日）紐約尾盤，彭博穀物分類指數跌0.77%，報31.5539點，北京時間16:00前後短線顯著衝高回落、最高達到32.2166點。CBOT玉米期貨跌1.28%，報4.6350美元/蒲式耳。CBOT小麥期貨跌0.48%，報6.7425美元/蒲式耳，15:57曾拉昇至6.9825美元。CBOT大豆期貨跌0.67%，報11.9375美元/蒲式耳，豆粕期貨漲0.72%，豆油期貨跌0.61%。CBOT瘦肉豬期貨漲0.29%，活牛期貨跌1.31%，飼牛期貨跌0.88%。"
     }
   ]
 }
