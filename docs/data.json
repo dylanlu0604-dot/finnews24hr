@@ -1,7 +1,100 @@
 {
-  "updated": "2026-07-23 15:45:26",
-  "count": 17538,
+  "updated": "2026-07-23 15:49:35",
+  "count": 17532,
   "items": [
+    {
+      "id": "mkt:019f8df2-04c8-7aab-8e5e-89c55ec28e7b",
+      "time": "2026-07-23 15:47:56",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "German 10-year Bund yield rose to 3.2014%, the highest level since 2011."
+    },
+    {
+      "id": "5003926",
+      "time": "2026-07-23 15:47:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "易捷航空執行長在媒體電話會上回應有關歐盟審議航空企業所有權法規的報道，表示歐盟此次公眾諮詢仍在推進過程中。"
+    },
+    {
+      "id": "5003925",
+      "time": "2026-07-23 15:47:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "德國10年期國債收益率觸及2011年以來新高，最新報3.2014%。"
+    },
+    {
+      "id": "mkt:019f8df1-2669-7aab-8e5e-8124fa2ae302",
+      "time": "2026-07-23 15:46:59",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact mixed"
+      ],
+      "text": "【SK Hynix 51% arbitrage blocked by strict ADR conversion cap】One of the market's most attractive arbitrage opportunities remains unavailable after the Korea Securities Depository (KSD) set a cap on converting Korea-listed SK Hynix shares into US-traded American depositary receipts at 2.5% of total share capital. KSD's CEO said the $26.5 bln ADR issued on July 10 has exhausted the issuance quota. Unless existing ADR holders first convert their US ADRs back into Korean shares to free up capacity, investors cannot convert Seoul-listed stock into ADRs. SK Hynix declined to comment."
+    },
+    {
+      "id": "mkt:019f8df0-c86e-7aab-8e5e-78179378b2c0",
+      "time": "2026-07-23 15:46:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude rose about 3% intraday to $93.40/bbl."
+    },
+    {
+      "id": "5003924",
+      "time": "2026-07-23 15:46:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【數碼視訊：獨立董事鄒峰因個人原因辭職】數碼視訊公告稱，公司近日收到獨立董事鄒峰書面辭職報告，其因個人原因申請辭去第七屆董事會獨立董事等職務，辭職後不再任職。原任期自2026年1月8日至第七屆董事會任期屆滿。因辭職將致董事會專門委員會中獨立董事未過半數，辭職申請將在股東會選舉出新任獨立董事後生效，補選前鄒峰將繼續履職。截至公告披露日，鄒峰未持股，無未履行承諾事項。"
+    },
+    {
+      "id": "5003923",
+      "time": "2026-07-23 15:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外交部長巴德爾·阿卜杜勒拉蒂表示，埃及認為，在經歷了大約兩週的針鋒相對的襲擊之後，美國和伊朗有辦法緩和緊張局勢並恢復和平談判。與此同時，開羅正與主要調解人一起推動外交解決方案。"
+    },
+    {
+      "id": "mkt:019f8def-f4ce-7aab-8e5e-743ed1b8901e",
+      "time": "2026-07-23 15:45:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan cut its price target for Tesla (TSLA.O) to $445 from $475."
+    },
+    {
+      "id": "5003922",
+      "time": "2026-07-23 15:45:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將特斯拉目標價從475美元下調至445美元。"
+    },
     {
       "id": "te:economy:569189",
       "time": "2026-07-23 15:43:35",
@@ -160342,143 +160435,6 @@
         "Importance 1"
       ],
       "text": "Rolls-Royce Stock Price Hits 4-week Low — Rolls-Royce shares decreased to 1375.00 GBp, the lowest since June 2026. Over the past 4 weeks, Rolls-Royce lost 0.95%, and in the last 12 months, it increased 36.32%."
-    },
-    {
-      "id": "4991744",
-      "time": "2026-07-16 15:49:27",
-      "tags": [
-        "市場"
-      ],
-      "text": "芝加哥小麥期貨價格攀升至2024年6月以來的最高水平。"
-    },
-    {
-      "id": "mkt:019f69e6-52aa-7aab-8dc1-8e3d07583da6",
-      "time": "2026-07-16 15:48:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Kung Fu Women's Football box office tops 900 million yuan】Lighthouse Professional real-time data shows the film Kung Fu Women's Football has surpassed 900 million yuan in box office receipts as of 15:42 on July 16."
-    },
-    {
-      "id": "mkt:019f69e5-da93-7aab-8dc1-84dfe2ca6032",
-      "time": "2026-07-16 15:48:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Pakistan urges US, Iran to halt military conflict and resume technical-level talks】On the 16th Pakistan's foreign ministry urged the US and Iran to stop military hostilities and quickly restore technical-level talks, calling for maximum restraint after a week of escalating hostile actions. A ministry spokesman said dialogue is the only route to lasting peace and said the Islamabad Memorandum of Understanding signed last month remains a durable framework for peace, mutual respect and shared prosperity, warning against actions that would further undermine regional stability."
-    },
-    {
-      "id": "4991743",
-      "time": "2026-07-16 15:47:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭議員：最高拉達委員會支援任命科列茨基（Koretskyi）為總理。"
-    },
-    {
-      "id": "mkt:019f69e5-4202-7aab-8dc1-7c79bfc6a8c0",
-      "time": "2026-07-16 15:47:40",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Regions",
-        "Japan & APAC",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact bullish"
-      ],
-      "text": "【Japan to buy 27,500 NVIDIA Rubin chips to build domestic robot AI models】Japan plans to procure 27,500 NVIDIA (NVDA.O) next‑generation Rubin chips to develop a domestic foundational robot AI model. Newly formed Noetra has been allocated JPY 387.3 bln in government funding to run the project and build a large data centre. Noetra aims to release its first AI model by March next year and to iterate continuously, with a long‑term goal of launching robot‑specific models over the coming years. The programme is part of Tokyo’s push to reduce reliance on foreign technology and strengthen national security; the government targets capturing over 30% of a JPY 60 tln global robot market by 2040."
-    },
-    {
-      "id": "mkt:019f69e5-3a28-7aab-8dc1-740148f902f2",
-      "time": "2026-07-16 15:47:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "A Ukrainian lawmaker said the Verkhovna Rada backed the appointment of Koretskyi as prime minister."
-    },
-    {
-      "id": "4991742",
-      "time": "2026-07-16 15:47:29",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【日本擬採購2.75萬顆英偉達Rubin晶片 開發本土機器人AI模型】據外媒報道，日本計劃採購2.75萬顆英偉達下一代Rubin晶片，用於開發本土基礎機器人AI模型。 新成立的Noetra公司已從政府財政中獲得3873億日元撥款，公司表示將負責統籌該專案並建設一座大型資料中心。這一計劃是日本政府降低對外國技術依賴、加強國家安全一系列舉措的一部分。Noetra計劃於明年3月前釋出首個AI模型，並持續進行更新。Noetra總裁Hironobu Tamba表示，長期目標是在未來幾年推出專門面向機器人應用的AI模型。開發本土物理人工智慧模型是日本打造全球領先人工智慧和機器人產業中心總體戰略的重要組成部分。日本政府的目標是，到2040年佔據全球約60萬億日元機器人市場30%以上的份額。"
-    },
-    {
-      "id": "mkt:019f69e4-e75b-7aab-8dc1-6960b4466999",
-      "time": "2026-07-16 15:47:16",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【Zhongji Xuchuang, Zhaoyi Innovation top A‑share net outflows on July 16】On July 16 in China’s A‑share market, Zhongji Xuchuang led net capital outflows at 34.74 bln yuan, followed by Zhaoyi Innovation at 28.71 bln yuan. Other top names by net outflow included Lanqi Technology, Jiangfeng Electronics, Hengtong Optic‑Electric, Xinyisheng, Changdian Technology, Huagong Technology, Zhongwei Company and Tianfu Communication."
-    },
-    {
-      "id": "4991741",
-      "time": "2026-07-16 15:46:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "【柬埔寨首相洪瑪奈抵達上海 出席2026世界人工智慧大會暨人工智慧全球治理高階別會議】16日下午，柬埔寨首相洪瑪奈乘機抵達上海虹橋國際機場，他將出席7月17日至20日在上海舉行的2026世界人工智慧大會暨人工智慧全球治理高階別會議。2025年中柬簽署關於深化人工智慧合作的諒解備忘錄，加強人工智慧發展和治理合作，推動人工智慧技術造福兩國人民。（央視新聞）"
-    },
-    {
-      "id": "4991740",
-      "time": "2026-07-16 15:46:19",
-      "tags": [
-        "公司"
-      ],
-      "text": "【瑞貝卡：控股股東解除質押5400萬股 佔總股本4.77%】瑞貝卡公告稱，公司控股股東瑞貝卡控股於2026年7月14日將5400萬股辦理了解除質押手續，佔其所持公司股份總數的21.47%，佔公司總股本的4.77%。截至公告披露日，瑞貝卡控股持有公司2.52億股，佔總股本22.22%，累計質押5000萬股，佔其所持公司股份總數的19.88%，佔公司總股本的4.42%。"
-    },
-    {
-      "id": "4991739",
-      "time": "2026-07-16 15:46:05",
-      "tags": [
-        "其他"
-      ],
-      "text": "【傳小紅書商業化核心高管納什離職，官方暫無回應】有訊息稱，小紅書商業化核心高管納什近期確認離職。據瞭解，納什是小紅書商業教育及到綜事業群總經理，負責平臺教育、本地生活、綜和行業商業化，是平臺變現板塊關鍵人物。對於“納什已於近期離職”的訊息，新浪科技向小紅書官方進行求證，截至發稿暫無回應。（新浪科技）"
-    },
-    {
-      "id": "4991738",
-      "time": "2026-07-16 15:46:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "【巴基斯坦呼籲美伊停止軍事衝突並恢復技術層級談判】當地時間16日，巴基斯坦外交部舉行記者會，呼籲美國和伊朗停止軍事衝突，儘快恢復技術層級談判。巴基斯坦外交部發言人安德拉比當天在例行記者會上表示，隨著過去一週敵對行動持續升級，巴基斯坦再次呼籲各方最大限度保持克制，避免採取任何進一步破壞地區和平與穩定的行動。他強調，巴基斯坦始終認為，實現持久和平、穩定與發展的共同目標，除了持續開展接觸、對話和外交之外，沒有其他選擇。他還指出，所有衝突和爭端最終都需要透過對話來解決，而美國與伊朗上月簽署的《伊斯蘭堡諒解備忘錄》仍然是促進和平、相互尊重和共同繁榮的持久框架。（央視新聞）"
-    },
-    {
-      "id": "4991737",
-      "time": "2026-07-16 15:45:32",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【預告：國新辦將於7月20日就上半年工業和資訊化發展情況舉行新聞釋出會】國務院新聞辦公室將於2026年7月20日（星期一）上午10時舉行新聞釋出會，請工業和資訊化部總工程師王衛明介紹2026年上半年工業和資訊化發展情況，並答記者問。"
-    },
-    {
-      "id": "mkt:019f69e3-4f5e-7aab-8dc1-674136acecf0",
-      "time": "2026-07-16 15:45:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Preview: China State Council Information Office to hold July 20 briefing on 1H industrial and information development】China's State Council Information Office will hold a press briefing at 10:00 on July 20 (Monday). Wang Weiming, chief engineer of the Ministry of Industry and Information Technology, will present 1H 2026 industrial and information sector developments and answer questions."
-    },
-    {
-      "id": "4991736",
-      "time": "2026-07-16 15:45:26",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中際旭創、兆易創新遭大額資金淨流出】Choice資料顯示，7月16日，資金淨流出額排名前十的個股依次是中際旭創、兆易創新、瀾起科技、江豐電子、亨通光電、新易盛、長電科技、華工科技、中微公司和天孚通訊。其中，中際旭創遭資金淨流出34.74億元，兆易創新遭資金淨流出28.71億元。"
     }
   ]
 }

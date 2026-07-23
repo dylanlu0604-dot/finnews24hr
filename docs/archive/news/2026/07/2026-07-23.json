@@ -1,7 +1,100 @@
 {
   "date": "2026-07-23",
-  "count": 1708,
+  "count": 1717,
   "items": [
+    {
+      "id": "mkt:019f8df2-04c8-7aab-8e5e-89c55ec28e7b",
+      "time": "2026-07-23 15:47:56",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "German 10-year Bund yield rose to 3.2014%, the highest level since 2011."
+    },
+    {
+      "id": "5003926",
+      "time": "2026-07-23 15:47:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "易捷航空執行長在媒體電話會上回應有關歐盟審議航空企業所有權法規的報道，表示歐盟此次公眾諮詢仍在推進過程中。"
+    },
+    {
+      "id": "5003925",
+      "time": "2026-07-23 15:47:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "德國10年期國債收益率觸及2011年以來新高，最新報3.2014%。"
+    },
+    {
+      "id": "mkt:019f8df1-2669-7aab-8e5e-8124fa2ae302",
+      "time": "2026-07-23 15:46:59",
+      "tags": [
+        "MKT News",
+        "000660.KS",
+        "Impact mixed"
+      ],
+      "text": "【SK Hynix 51% arbitrage blocked by strict ADR conversion cap】One of the market's most attractive arbitrage opportunities remains unavailable after the Korea Securities Depository (KSD) set a cap on converting Korea-listed SK Hynix shares into US-traded American depositary receipts at 2.5% of total share capital. KSD's CEO said the $26.5 bln ADR issued on July 10 has exhausted the issuance quota. Unless existing ADR holders first convert their US ADRs back into Korean shares to free up capacity, investors cannot convert Seoul-listed stock into ADRs. SK Hynix declined to comment."
+    },
+    {
+      "id": "mkt:019f8df0-c86e-7aab-8e5e-78179378b2c0",
+      "time": "2026-07-23 15:46:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude rose about 3% intraday to $93.40/bbl."
+    },
+    {
+      "id": "5003924",
+      "time": "2026-07-23 15:46:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【數碼視訊：獨立董事鄒峰因個人原因辭職】數碼視訊公告稱，公司近日收到獨立董事鄒峰書面辭職報告，其因個人原因申請辭去第七屆董事會獨立董事等職務，辭職後不再任職。原任期自2026年1月8日至第七屆董事會任期屆滿。因辭職將致董事會專門委員會中獨立董事未過半數，辭職申請將在股東會選舉出新任獨立董事後生效，補選前鄒峰將繼續履職。截至公告披露日，鄒峰未持股，無未履行承諾事項。"
+    },
+    {
+      "id": "5003923",
+      "time": "2026-07-23 15:45:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "埃及外交部長巴德爾·阿卜杜勒拉蒂表示，埃及認為，在經歷了大約兩週的針鋒相對的襲擊之後，美國和伊朗有辦法緩和緊張局勢並恢復和平談判。與此同時，開羅正與主要調解人一起推動外交解決方案。"
+    },
+    {
+      "id": "mkt:019f8def-f4ce-7aab-8e5e-743ed1b8901e",
+      "time": "2026-07-23 15:45:40",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "JP Morgan cut its price target for Tesla (TSLA.O) to $445 from $475."
+    },
+    {
+      "id": "5003922",
+      "time": "2026-07-23 15:45:35",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將特斯拉目標價從475美元下調至445美元。"
+    },
     {
       "id": "te:economy:569189",
       "time": "2026-07-23 15:43:35",
