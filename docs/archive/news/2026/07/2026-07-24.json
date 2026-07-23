@@ -1,7 +1,149 @@
 {
   "date": "2026-07-24",
-  "count": 557,
+  "count": 572,
   "items": [
+    {
+      "id": "5005534",
+      "time": "2026-07-24 07:53:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞貿易部長：將繼續遊說美國貿易代表撤銷所有關稅。"
+    },
+    {
+      "id": "5005533",
+      "time": "2026-07-24 07:53:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱用伊朗資金賠受損船隻 】美國總統特朗普當地時間7月23日在社交媒體發文稱，“在另行通知前，即日起，一切針對船隻、貨物及相關財產的損毀，均由美國所持有並掌控的伊朗資金予以賠付。此類損失或極為可觀，但此舉方顯公平合理。”美軍近日以伊朗襲擊霍爾木茲海峽的商船為由，連續對伊朗發動軍事打擊。（ CCTV國際時訊  ）"
+    },
+    {
+      "id": "5005532",
+      "time": "2026-07-24 07:53:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "澳大利亞貿易部長：美國新增關稅完全毫無根據。"
+    },
+    {
+      "id": "5005531",
+      "time": "2026-07-24 07:52:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美國最繁忙港口之一長灘港擬採用核能供電】美國最繁忙的港口之一正尋求採用核能供電。長灘港(Port of Long Beach)本週與聯邦監管機構簽署了一項協議，探討建設一座小型核反應堆，為這座耗能巨大的港口供電。這是迄今為止特朗普政府推動將核能引入航運業的最重要舉措之一。該計劃仍處於早期階段，最終不一定能落地。但若能成真，長灘港將成為全球首個採用核能供電的港口。下一個前沿領域可能是在美國造船廠建造核動力船舶，這是本屆政府在尋求重振日漸式微的國內造船業之際的另一個目標。"
+    },
+    {
+      "id": "mkt:019f9163-ef79-7aab-8e75-609fa33bcaf5",
+      "time": "2026-07-24 07:51:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Foreign investors were net sellers of Japanese government bonds (JGBs) by ¥185.1 bln in the week to July 17; the prior week's net purchases were revised from ¥499.8 bln to ¥501.5 bln."
+    },
+    {
+      "id": "mkt:019f9163-e668-7aab-8e75-5f9b1a2eeff1",
+      "time": "2026-07-24 07:51:11",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "Japan net sold foreign equities of 121.3 bln yen in the week to July 17, versus net purchases of 196.2 bln yen in the prior week."
+    },
+    {
+      "id": "mkt:019f9163-be8d-7aab-8e75-54adffc6f689",
+      "time": "2026-07-24 07:51:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Stocks Buying (Jul.17) | actual -121300000000B | previous 196200000000B"
+    },
+    {
+      "id": "mkt:019f9163-bc34-7aab-8e75-49e476d7a898",
+      "time": "2026-07-24 07:51:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Bonds (Jul.17) | actual -185100000000B | previous 499800000000B"
+    },
+    {
+      "id": "5005530",
+      "time": "2026-07-24 07:50:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "日本7月17日當週淨買進國外債券 -7144億日元，前值 10901億日元。日本7月17日當週外資淨買進日本債券 -1851億日元，前值 4998億日元。日本7月17日當週淨買進國外股票 -1213億日元，前值 1962億日元。日本7月17日當週外資淨買進日本股票 -796億日元，前值 7456億日元。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607243819540116",
+      "time": "2026-07-24 07:50:29",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本至7月17日當週外資買進日股-796億日元，前值由7456億日元修正為7426億日元。"
+    },
+    {
+      "id": "mkt:019f9163-0950-7aab-8e75-47ac8d74eccf",
+      "time": "2026-07-24 07:50:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "Japan's net purchases of foreign bonds in the week to July 17 were a net sale of ¥714.4 bln. The prior reading was revised slightly to ¥1,090.0 bln from ¥1,090.1 bln."
+    },
+    {
+      "id": "mkt:019f9162-fa98-7aab-8e75-3d56a7d2c3bc",
+      "time": "2026-07-24 07:50:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "Nikkei 225",
+        "Impact bearish"
+      ],
+      "text": "Foreign investors were net sellers of Japanese equities in the week to July 17, net outflows of 79.6 bln yen; prior week's net purchases revised from 745.6 bln yen to 742.6 bln yen."
+    },
+    {
+      "id": "mkt:019f9162-d4f5-7aab-8e75-311bed8fefd7",
+      "time": "2026-07-24 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign Bonds Buying (Jul.17) | actual -714400000000B | previous 1090100000000B"
+    },
+    {
+      "id": "mkt:019f9162-d4db-7aab-8e75-2929aa34aa0c",
+      "time": "2026-07-24 07:50:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Weekly Foreign investment in Japanese Stocks (Jul.17) | actual -79600000000B | previous 745600000000B"
+    },
+    {
+      "id": "5005529",
+      "time": "2026-07-24 07:49:59",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【日本6月消費者通脹回升 為進一步加息鋪平道路】日本6月消費者通脹小幅加速，為該國央行進一步加息鋪平了道路。週五公佈的政府資料顯示，日本6月剔除生鮮食品的核心消費者物價漲幅為1.6%，高於5月份的1.4%。該資料符合對經濟學家調查得出的平均預期。經濟學家稱，油價和食品成本仍是影響整體價格走勢的關鍵因素。他們還說，這些價格可能繼續受到多種因素的交織影響，包括中東局勢、日元疲軟、政府能源補貼、包裝成本上漲以及計劃中的食品銷售減稅措施。日本央行上月將其政策利率上調至1%，創31年來新高。此舉是因為該行政策委員會日益擔心，油價上漲會將日本的基本通脹率推高至央行2%的目標之上。日本央行決策者曾表示，中東衝突及隨後油價飆升的影響可能會在夏季開始顯現。該央行定於下週在公佈利率決定的同時，釋出最新的經濟增長和通脹預測。"
+    },
     {
       "id": "mkt:019f9162-6817-7aab-8e75-2622f17af1d0",
       "time": "2026-07-24 07:49:33",
