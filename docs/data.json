@@ -1,7 +1,1033 @@
 {
-  "updated": "2026-07-23 20:59:28",
-  "count": 17919,
+  "updated": "2026-07-23 21:17:39",
+  "count": 17957,
   "items": [
+    {
+      "id": "mkt:019f8f1e-6672-7aab-8e6b-f4b55c63e03e",
+      "time": "2026-07-23 21:16:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: LME spot aluminium average price forecast at $2,630/tonne in 2025, $3,307/tonne in 2026 and $3,075/tonne in 2027."
+    },
+    {
+      "id": "mkt:019f8f1e-2559-7aab-8e6b-ef0b47bdba5f",
+      "time": "2026-07-23 21:15:45",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: LME spot copper is forecast to average $13,169/tonne in 2026, $13,059/tonne in 2027 and $9,939/tonne in 2025."
+    },
+    {
+      "id": "5004922",
+      "time": "2026-07-23 21:15:10",
+      "tags": [
+        "行業"
+      ],
+      "text": "【乘聯分會：初步推算7月狹義乘用車總市場約為152萬輛】7月23日，據乘聯分會訊息，初步推算本月狹義乘用車總市場約為152萬輛，其中新能源零售可達98萬左右，滲透率預計提升至64.5%。"
+    },
+    {
+      "id": "mkt:019f8f1d-924f-7aab-8e6b-e611e1439da5",
+      "time": "2026-07-23 21:15:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "US10Y"
+      ],
+      "text": "【Lagarde: Inflation risks tilted to the upside】ECB President Lagarde said inflation risks are tilted to the upside. An energy shock could intensify and produce larger pass-through to wages and other prices than currently expected; the longer energy prices stay elevated, the greater the risk that indirect and second‑round effects lift headline inflation. Extreme weather, including prolonged heatwaves and broader climate-related shocks, could push food prices above expectations. Conversely, a sustainable resolution of the Middle East conflict or weaker-than-expected indirect/second‑round effects would reduce inflation risks."
+    },
+    {
+      "id": "mkt:019f8f1d-8c5c-7aab-8e6b-dcd2e1789202",
+      "time": "2026-07-23 21:15:06",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said the ECB is providing framework guidance."
+    },
+    {
+      "id": "mkt:019f8f1d-71af-7aab-8e6b-d267c57e19ce",
+      "time": "2026-07-23 21:14:59",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde says she will not provide any forward guidance."
+    },
+    {
+      "id": "mkt:019f8f1d-688b-7aab-8e6b-cf5819f0d78e",
+      "time": "2026-07-23 21:14:56",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "LAGARDE said she will remain at the ECB, saying she will \"stay on this ship\" and will continue in post \"as long as clouds lie ahead.\""
+    },
+    {
+      "id": "5004921",
+      "time": "2026-07-23 21:14:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：我們不提供任何前瞻性指引。"
+    },
+    {
+      "id": "mkt:019f8f1d-0e79-7aab-8e6b-c06174602d7a",
+      "time": "2026-07-23 21:14:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said she will not leave before 2027."
+    },
+    {
+      "id": "5004920",
+      "time": "2026-07-23 21:14:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：“這艘船的船長會堅守崗位”。"
+    },
+    {
+      "id": "5004919",
+      "time": "2026-07-23 21:14:05",
+      "tags": [
+        "市場"
+      ],
+      "text": "瑞士法郎兌美元跌至盤中低點，創2025年以來新低。"
+    },
+    {
+      "id": "mkt:019f8f1c-6ca4-7aab-8e6b-bb33e64eaa63",
+      "time": "2026-07-23 21:13:52",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY: copper market expected to record a 112,000-tonne surplus in 2026; a 50,000-tonne surplus is forecast for 2027."
+    },
+    {
+      "id": "5004918",
+      "time": "2026-07-23 21:13:44",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：已決定目前立場足以支援繼續觀望。"
+    },
+    {
+      "id": "mkt:019f8f1c-2f6a-7aab-8e6b-b7c5422d857c",
+      "time": "2026-07-23 21:13:36",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "REUTERS SURVEY: aluminium market expected to record a 1.0 mln t supply deficit in 2026; market projected to return to balance in 2027."
+    },
+    {
+      "id": "mkt:019f8f1c-1210-7aab-8e6b-ace947cefd7d",
+      "time": "2026-07-23 21:13:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "REUTERS SURVEY: Zinc market projected to record a 92,546-tonne surplus in 2026 and a 161,000-tonne surplus in 2027."
+    },
+    {
+      "id": "5004917",
+      "time": "2026-07-23 21:13:14",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長：若幾周前公佈財報，我們對2026年剩餘時間的業績指引可能同比提升四倍。"
+    },
+    {
+      "id": "5004916",
+      "time": "2026-07-23 21:12:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：LME現貨鉛2026年均價預計為每噸1,954美元，2027年為每噸1,975美元，2025年為每噸1,962美元。"
+    },
+    {
+      "id": "mkt:019f8f1b-276d-7aab-8e6b-a30e62ac38d7",
+      "time": "2026-07-23 21:12:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde said the current policy stance is sufficient to support remaining on hold."
+    },
+    {
+      "id": "mkt:019f8f1a-b572-7aab-8e6b-9a0c92e448f8",
+      "time": "2026-07-23 21:11:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said wages are still gradually declining."
+    },
+    {
+      "id": "mkt:019f8f1a-a8a4-7aab-8e6b-91bcad959b05",
+      "time": "2026-07-23 21:11:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "F.O",
+        "Impact mixed"
+      ],
+      "text": "Apple (AAPL.O): Apple Maps will be integrated into Ford's vehicle electronic platform UEV in 2027."
+    },
+    {
+      "id": "5004915",
+      "time": "2026-07-23 21:11:50",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【華峰測控：“華峰轉債”交易異常波動 提醒投資者注意風險】華峰測控公告稱，“華峰轉債”於2026年7月20日、7月21日連續兩個交易日內日收盤價格漲幅偏離值累計超30%，屬交易異常波動情形。截至7月23日，“華峰轉債”收盤價為214.810元/張，較票面溢價114.810%，轉股溢價率約為100.70%，且尚未進入轉股期。經自查，公司日常經營正常，無應披露未披露事項。公司提醒投資者注意交易、估值、流動性及價格波動等風險。"
+    },
+    {
+      "id": "mkt:019f8f1a-9043-7aab-8e6b-88117fc8dee8",
+      "time": "2026-07-23 21:11:50",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "ECB President Lagarde said a corporate telephone survey has not shown second‑round effects."
+    },
+    {
+      "id": "mkt:019f8f1a-72a7-7aab-8e6b-832edf936f8f",
+      "time": "2026-07-23 21:11:42",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB President Lagarde said she has not yet seen any second-round effects."
+    },
+    {
+      "id": "5004914",
+      "time": "2026-07-23 21:11:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：我們將高度警惕通脹的第二輪傳導效應， 目前尚未觀察到通脹第二輪傳導效應。"
+    },
+    {
+      "id": "mkt:019f8f1a-441d-7aab-8e6b-7c950004b180",
+      "time": "2026-07-23 21:11:30",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Capital Economics: Gulf recovery faces setback as Iranian strikes raise downside risk】Capital Economics assistant economist Nicolas Crittenden said a new round of Iranian strikes could derail an initial Gulf region economic recovery. The escalation risks reversing gains after last month’s US‑Iran ceasefire eased disruptions to regional trade and energy supplies. June private‑sector activity improved across the Gulf, led by Saudi Arabia; exports from key trading partners rose and flight volumes recovered to near pre‑conflict levels, signalling a rebound in tourism and logistics. Renewed disruption to traffic through the Strait of Hormuz could stall the recovery, and downside risks are mounting against Capital Economics’ forecast of roughly a 6% GDP contraction in the Gulf this year."
+    },
+    {
+      "id": "te:markets:569315",
+      "time": "2026-07-23 21:11:28",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Brent Rallies Toward $100 — Brent crude oil surged more than 6% toward $100 per barrel on Thursday, the highest level since May 22, as escalating geopolitical tensions intensified concerns over global supply. Iran-backed Houthi militants claimed responsibility for attacks on two Saudi oil tankers in the Red Sea, saying the strikes were aimed at enforcing a newly announced blockade of Saudi ports. The attacks raised fears of further disruptions to regional shipping, with buyers in Asia considering longer and more expensive alternative routes. Supply risks were compounded by continued attacks on vessels in the Strait of Hormuz, renewed US strikes on Iran, and Kazakhstan's decision to halt crude exports through the Caspian Pipeline Consortium terminal after drone attacks. Meanwhile, Washington and Tehran continued to rule out near-term peace talks, reinforcing expectations that tensions could keep oil prices elevated."
+    },
+    {
+      "id": "mkt:019f8f1a-143c-7aab-8e6b-77dd4614181a",
+      "time": "2026-07-23 21:11:18",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Apple",
+        "Market Themes",
+        "Magnificent 7",
+        "AAPL.O",
+        "Impact bullish",
+        "GM.O",
+        "F.O"
+      ],
+      "text": "Ford Motor Co (F.N) said Apple Maps will provide the navigation experience for General Motors' electric-vehicle platform."
+    },
+    {
+      "id": "mkt:019f8f19-c01f-7aab-8e6b-68d5f49e4194",
+      "time": "2026-07-23 21:10:57",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde: paying close attention to risks of any second-round effects."
+    },
+    {
+      "id": "5004913",
+      "time": "2026-07-23 21:10:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：就風險評估而言，已回到6月時的狀態。"
+    },
+    {
+      "id": "5004912",
+      "time": "2026-07-23 21:10:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：九月份會有更多資料公佈。"
+    },
+    {
+      "id": "te:economy:569313",
+      "time": "2026-07-23 21:10:12",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Belgium",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Belgium 10Y Bond Yield Hits 14-year High — Belgium 10 Year Government Bond Yield increased to 3.78%, the highest since March 2012. Over the past 4 weeks, Belgium 10Y Bond Yield gained 34.24 basis points, and in the last 12 months, it increased 52.30 basis points."
+    },
+    {
+      "id": "te:markets:569312",
+      "time": "2026-07-23 21:10:01",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Crude Oil Extends Gains for 5th Session — Crude oil surged 5% to above $91 per barrel on Thursday, extending gains for a fifth consecutive session to the highest level since June 8, as escalating geopolitical tensions intensified concerns over global supply. Iran-backed Houthi militants claimed responsibility for attacks on two Saudi oil tankers in the Red Sea, saying the strikes were aimed at enforcing a newly announced blockade of Saudi ports. The attacks raised fears of further disruptions to regional shipping, with buyers in Asia considering longer and more expensive alternative routes. Supply risks were compounded by continued attacks on vessels in the Strait of Hormuz, renewed US strikes on Iran, and Kazakhstan's decision to halt crude exports through the Caspian Pipeline Consortium terminal after drone attacks. Meanwhile, Washington and Tehran continued to rule out near-term peace talks, reinforcing expectations that tensions could keep oil prices elevated."
+    },
+    {
+      "id": "mkt:019f8f18-e62d-7aab-8e6b-63b83ffe02e3",
+      "time": "2026-07-23 21:10:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said a large volume of new data will arrive ahead of the September meeting."
+    },
+    {
+      "id": "5004911",
+      "time": "2026-07-23 21:09:41",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【布油期貨自5月以來首次突破100美元/桶】布倫特原油期貨上漲至100美元/桶，為兩個月來首次。此前，葉門胡塞武裝宣稱襲擊了兩艘在紅海航行的沙特油輪，加劇了中東衝突，並威脅進一步中斷石油供應。葉門胡塞武裝的襲擊開闢了地區衝突的新戰線，在此之前，由於美伊衝突，霍爾木茲海峽的交通已陷入困境。自衝突爆發以來，位於紅海的曼德海峽成為石油出口的生命線。近日，美伊雙方均淡化了和平談判的可能性，使長期敵對局勢的出現成為一種可能。"
+    },
+    {
+      "id": "mkt:019f8f18-6a35-7aab-8e6b-5df9be02c13c",
+      "time": "2026-07-23 21:09:29",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Brent crude futures top $100/bbl for first time since May】Brent crude futures rose to $100/bbl, the highest since May, after Yemen’s Houthi militia said it attacked two Saudi oil tankers in the Red Sea, escalating regional tensions and raising the risk of further supply disruption. The Houthi strikes open a new front; shipping through the Strait of Hormuz had already been strained by US‑Iran clashes and, since the conflict began, the Bab el‑Mandeb has become a critical oil export route. Both the US and Iran have downplayed prospects for peace talks, increasing the risk of prolonged hostilities."
+    },
+    {
+      "id": "5004910",
+      "time": "2026-07-23 21:09:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：有人詢問我們是否應該考慮加息。"
+    },
+    {
+      "id": "mkt:019f8f18-2092-7aab-8e6b-526b04d086a5",
+      "time": "2026-07-23 21:09:10",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "ECB President Lagarde said the ECB is fully prepared to wait."
+    },
+    {
+      "id": "mkt:019f8f17-f8b9-7aab-8e6b-4cfa9480f140",
+      "time": "2026-07-23 21:09:00",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates"
+      ],
+      "text": "ECB President Lagarde said some have asked whether the central bank should consider raising interest rates."
+    },
+    {
+      "id": "te:markets:569311",
+      "time": "2026-07-23 21:08:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Dollar Strengthens — The dollar index appreciated to 101.3 on Thursday, the highest level in about three weeks, as surging oil prices and escalating geopolitical tensions fueled expectations that the Fed will need to raise interest rates. Markets are now pricing in a more than 33% chance of a rate hike next week, while the probability of a September increase has climbed above 78%, up from 61% a day earlier. Hostilities in the Middle East continue to intensify, with no signs of a near-term resolution. As a result, oil prices have surged nearly 31% above their pre-conflict levels seen earlier this month. Although inflationary pressures have remained relatively contained so far, the latest spike in energy prices has renewed concerns that higher oil costs could feed into broader inflation, prompting the Fed to maintain a tighter monetary policy stance. The greenback advanced against the euro after the ECB left interest rates unchanged, as expected, while also posting gains against the yen and the pound."
+    },
+    {
+      "id": "5004909",
+      "time": "2026-07-23 21:08:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨黃金日內跌2%，現報4047.05美元/盎司。"
+    },
+    {
+      "id": "mkt:019f8f17-7765-7aab-8e6b-45cd81567657",
+      "time": "2026-07-23 21:08:27",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB President Lagarde said the decision was adopted unanimously."
+    },
+    {
+      "id": "5004908",
+      "time": "2026-07-23 21:08:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：辛特拉會議上關於風險更加平衡的表述已被刪除。"
+    },
+    {
+      "id": "mkt:019f8f17-6048-7aab-8e6b-3da2ba6d09d3",
+      "time": "2026-07-23 21:08:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said wording at the Sintra meeting that risks were more balanced has been removed."
+    },
+    {
+      "id": "mkt:019f8f16-a4f8-7aab-8e6b-305bb33c64af",
+      "time": "2026-07-23 21:07:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said she has studied the density, persistence and transmission of supply shocks."
+    },
+    {
+      "id": "5004907",
+      "time": "2026-07-23 21:07:31",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "南非央行維持基準利率不變後，南非蘭特兌美元走弱。"
+    },
+    {
+      "id": "mkt:019f8f16-390e-7aab-8e6b-2ebeaf1de6ff",
+      "time": "2026-07-23 21:07:05",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold fell 2.00% intraday to $4,046.92/oz. Spot silver fell 4.00% intraday to $57.30/oz."
+    },
+    {
+      "id": "5004906",
+      "time": "2026-07-23 21:07:03",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "歐洲斯托克 600 指數 <.STOXX> 隨拉加德講話延續跌勢，原油價格走高；指數最新下跌 1.4%。"
+    },
+    {
+      "id": "5004905",
+      "time": "2026-07-23 21:07:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Anthropic 醞釀特殊方案，擬在上市後安排員工出售所持股票】訊息人士稱，AI 企業 Anthropic 籌備 IPO 之際，考慮推行非常規安排，強制普通員工透過固定時間表減持股票，防範內幕交易風險。10b5-1 計劃以往大多僅限高管、財務及法務人員使用。訊息人士稱，AI 企業 Anthropic 籌備最早 9 月 IPO，正考慮一項特殊制度：要求普通員工採用 10b5-1 預設交易方案減持股票。此舉意在維持內部資訊開放的企業文化、防範內幕交易風險，分散集中拋售對股價的衝擊。公司同時還在協商上市首日股東減持限額與鎖定期安排。行業律師表示，越來越多科技初創企業開始推行類似政策，但該安排會剝奪員工自主擇機賣出股份的靈活性。"
+    },
+    {
+      "id": "5004904",
+      "time": "2026-07-23 21:06:59",
+      "tags": [
+        "市場"
+      ],
+      "text": "現貨白銀日內跌4%，現報57.28美元/盎司。"
+    },
+    {
+      "id": "5004903",
+      "time": "2026-07-23 21:06:42",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4050美元/盎司，日內跌1.94%。"
+    },
+    {
+      "id": "5004902",
+      "time": "2026-07-23 21:06:37",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4050美元/盎司，日內跌2.48%。"
+    },
+    {
+      "id": "5004901",
+      "time": "2026-07-23 21:06:31",
+      "tags": [
+        "其他"
+      ],
+      "text": "福特汽車：新款中型電動汽車售價約為3萬美元。"
+    },
+    {
+      "id": "te:markets:569310",
+      "time": "2026-07-23 21:06:24",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "currency",
+        "Importance 0"
+      ],
+      "text": "Swiss Franc Hits 13-month Low — The Swiss Franc touched 0.82 against the USD, the lowest since June 2025. Over the past 4 weeks, US Dollar Swiss Franc gained 0.59%, and in the last 12 months, it increased 2.8%."
+    },
+    {
+      "id": "5004900",
+      "time": "2026-07-23 21:06:15",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：自6月決策以來，情況相對平穩。"
+    },
+    {
+      "id": "mkt:019f8f14-d78b-7aab-8e6b-231687cea7a5",
+      "time": "2026-07-23 21:05:35",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "South Africa repo rate as of July 23: 7.00%; market expected 7.25%; previous 7.00%."
+    },
+    {
+      "id": "mkt:019f8f14-b909-7aab-8e6b-1dfcbc7207ce",
+      "time": "2026-07-23 21:05:27",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "South Africa | Repo Rate (Jul.23) | actual 7% | consensus 7.25% | previous 7.00%"
+    },
+    {
+      "id": "te:markets:569309",
+      "time": "2026-07-23 21:05:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Futures Slip as Geopolitical Risks Rise — Futures tracking the S&P/TSX Composite Index fell on Thursday amid escalating Middle East tensions and renewed concerns over AI spending. Oil prices surged after Yemeni Houthis struck two Saudi oil tankers, heightening fears of disruptions to global energy supplies. Rising energy prices fueled inflation concerns, raising expectations that central banks may keep interest rates higher for longer and pressuring financial stocks and the broader market. Gold prices slipped, weighing on mining shares. Meanwhile, technology stocks fell after Big Tech earnings in the US revived concerns over heavy AI-related capital spending. Elsewhere, Waste Connections, Mullen, and Teck Resources beat second-quarter profit estimates. Cenovus and Ovintiv are due to report later in the session. Separately, Panama is considering creating a state-owned mining company to partner with Canada's First Quantum in reopening the Cobre Panama copper mine."
+    },
+    {
+      "id": "mkt:019f8f14-8d66-7aab-8e6b-14b0866c7a84",
+      "time": "2026-07-23 21:05:16",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President LAGARDE said conditions have been relatively stable since the June policy decision."
+    },
+    {
+      "id": "mkt:019f8f14-7c2d-7aab-8e6b-0a0402ac4f92",
+      "time": "2026-07-23 21:05:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Shanghai silver front-month contract widened losses to 4.00%, trading at 14,141.00 yuan/kg."
+    },
+    {
+      "id": "mkt:019f8f14-6de9-7aab-8e6b-034c2ede234b",
+      "time": "2026-07-23 21:05:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "The Information reports Anthropic is considering imposing mandatory 10b5-1 trading plans for all employees to govern post-IPO stock sales."
+    },
+    {
+      "id": "5004899",
+      "time": "2026-07-23 21:05:03",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【油價飆升，美聯儲最快下週加息，美債收益率升至年內高點】由於伊朗戰爭升級的威脅推高了油價，美國國債收益率升至年內最高水平，市場預期美聯儲可能最快下週加息。受美聯儲政策預期影響較大的兩年期國債收益率週四上漲約4個基點，升至約4.34%，達到2025年初以來的最高水平。十年期國債收益率觸及年內新高，三十年期收益率升至5.19%，略低於2007年以來的最高水平。隨著胡塞武裝聲稱近幾個月首次襲擊了商船，布倫特原油價格正緩慢回升至每桶100美元。這一上漲持續施壓於美國國債市場，並促使交易員更可能認為，沃什領導下的美聯儲今年將很快加息。"
+    },
+    {
+      "id": "5004898",
+      "time": "2026-07-23 21:04:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：義大利聯合信貸銀行和德國商業銀行的執行長表示，將於下個月重啟談判。"
+    },
+    {
+      "id": "mkt:019f8f13-c553-7aab-8e6a-f9168ddf3707",
+      "time": "2026-07-23 21:04:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Macro & Rates",
+        "The Fed (FOMC)",
+        "Treasury Yields",
+        "Brent",
+        "Impact bullish",
+        "DXY",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "【Oil surge lifts rate-hike bets; US yields hit year highs】US Treasury yields rose to year highs as oil rallied on threats of escalation in the Iran conflict, prompting markets to price a possible Fed rate increase as soon as next week. The 2-year yield, most sensitive to Fed policy bets, gained about 4 bps to roughly 4.34%, its highest since early 2025. The 10-year hit a year high and the 30-year climbed to 5.19%, just below its highest level since 2007. Brent was edging back toward $100/bbl after Houthi militants said they struck a commercial vessel for the first time in months. The oil-driven move kept pressure on the Treasury market and raised odds of an earlier Fed hike this year."
+    },
+    {
+      "id": "mkt:019f8f13-8536-7aab-8e6a-f55bd7bbdf5e",
+      "time": "2026-07-23 21:04:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "Brent crude futures surged to $100/bbl on supply threats from Iran in the Red Sea."
+    },
+    {
+      "id": "5004897",
+      "time": "2026-07-23 21:03:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：Anthropic正在考慮在上市後對員工股票出售採取一項非常規安排，擬為所有員工強制推行10B5-1股票交易計劃。"
+    },
+    {
+      "id": "5004896",
+      "time": "2026-07-23 21:03:35",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌4%，現報14141.00元。"
+    },
+    {
+      "id": "5004895",
+      "time": "2026-07-23 21:03:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "蘋果公司：蘋果地圖將於2027年搭載至福特汽車的整車電子平臺UEV。"
+    },
+    {
+      "id": "mkt:019f8f11-fe33-7aab-8e6a-ee0f15d83118",
+      "time": "2026-07-23 21:02:28",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "SHFE most-active gold contract fell 2.00% intraday to 885.74 yuan/gram."
+    },
+    {
+      "id": "5004894",
+      "time": "2026-07-23 21:02:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "市場訊息：布倫特原油價格突破每桶100美元，伊朗供應面臨威脅。"
+    },
+    {
+      "id": "mkt:019f8f11-e573-7aab-8e6a-e3a6a3de118e",
+      "time": "2026-07-23 21:02:22",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "South African Reserve Bank says in its updated adverse scenario oil is assumed at $100/bbl in 2026 and inf will remain above target, necessitating additional rate hikes this year."
+    },
+    {
+      "id": "5004893",
+      "time": "2026-07-23 21:02:19",
+      "tags": [
+        "央行",
+        "資料"
+      ],
+      "text": "南非央行：2026年GDP增長預計為1.4%（前值1.2%），2027年GDP增長預計為1.7%（前值1.7%）。2026年核心CPI預期為3.8%（前值3.7%），2027年核心CPI預期為3.7%（前值3.7%）。"
+    },
+    {
+      "id": "mkt:019f8f11-ad4c-7aab-8e6a-dccae0593b06",
+      "time": "2026-07-23 21:02:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "South African Reserve Bank said recent oil-price volatility presents both upside and downside risks, depending on how the Middle East conflict develops."
+    },
+    {
+      "id": "mkt:019f8f11-8efd-7aab-8e6a-d7b9b6f459e0",
+      "time": "2026-07-23 21:02:00",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "South African Reserve Bank projects core CPI at 3.8% for 2026 (previously 3.7%) and 3.7% for 2027 (previously 3.7%)."
+    },
+    {
+      "id": "5004892",
+      "time": "2026-07-23 21:01:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "布倫特原油日內漲4%，現報93.85美元/桶。"
+    },
+    {
+      "id": "mkt:019f8f11-73b0-7aab-8e6a-c84352ea5813",
+      "time": "2026-07-23 21:01:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates"
+      ],
+      "text": "South African Reserve Bank forecasts 2026 GDP growth at 1.4% (previously 1.2%) and 2027 growth at 1.7% (previously 1.7%)."
+    },
+    {
+      "id": "5004891",
+      "time": "2026-07-23 21:01:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4060美元/盎司，日內跌1.77%。"
+    },
+    {
+      "id": "mkt:019f8f11-2304-7aab-8e6a-c11737509a3d",
+      "time": "2026-07-23 21:01:32",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "South African Reserve Bank said the war has disrupted global supply chains and is affecting incomes."
+    },
+    {
+      "id": "5004890",
+      "time": "2026-07-23 21:01:31",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4060美元/盎司，日內跌2.22%。"
+    },
+    {
+      "id": "5004889",
+      "time": "2026-07-23 21:01:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期銀日內跌4%，現報57.88美元/盎司。"
+    },
+    {
+      "id": "te:markets:569308",
+      "time": "2026-07-23 21:01:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Turkey",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "Turkish Lira Holds Devaluation Pace — The Turkish lira depreciated to a record low of 47.2 per USD in July, maintaining the controlled and slow devaluation rate by the Central Bank of Turkey as it intervenes in foreign exchange markets to prevent a slide. The TCMB held its key policy rate unchanged for the fourth straight decision in July, as expected by markets. The central bank also flagged that leading indicators had already pointed to a pickup in underlying inflation this month due to the fresh surge in energy prices, triggered by escalation in the Middle East war. The bank also warned that domestic demand was seen slowing due to the developments. The central bank had continued to sell liras in the open market to maintain the steady pace of devaluation. Support for the currency was also seen with policymakers downplaying an imminent return to one-week repo auctions, which has been suspended since March, forcing financial institutions to use the more expensive overnight rate."
+    },
+    {
+      "id": "mkt:019f8f10-cd13-7aab-8e6a-b882685bf0f4",
+      "time": "2026-07-23 21:01:10",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said financial conditions were slightly tighter than at the previous meeting."
+    },
+    {
+      "id": "5004888",
+      "time": "2026-07-23 21:01:07",
+      "tags": [
+        "市場"
+      ],
+      "text": "鈀金期貨日內跌4%，現報1257.00美元/盎司。"
+    },
+    {
+      "id": "5004887",
+      "time": "2026-07-23 21:00:57",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：美國司法部將減少對公司併購審查的要求。"
+    },
+    {
+      "id": "mkt:019f8f10-0a97-7aab-8e6a-b4793466c0f8",
+      "time": "2026-07-23 21:00:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "Impact bearish",
+        "Copper"
+      ],
+      "text": "Night session opened; China’s main futures contracts were mostly higher. Styrene (EB), SC crude and fuel oil rose over 3%. Ethylene glycol (EG), LPG, benzene, synthetic rubber, asphalt, low‑sulfur fuel oil (LU), methanol and plastics gained more than 2%. On the downside, SHFE silver fell over 3%, SHFE gold nearly 2%, LME copper over 1% and SHFE copper about 1%."
+    },
+    {
+      "id": "5004886",
+      "time": "2026-07-23 21:00:16",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：極端天氣事件與氣候危機可能推高食品價格。"
+    },
+    {
+      "id": "5004885",
+      "time": "2026-07-23 21:00:14",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "俄羅斯至7月17日當週央行黃金和外匯儲備 7229億美元，前值7224億美元。"
+    },
+    {
+      "id": "mkt:019f8f0f-ec14-7aab-8e6a-aee48b45d19e",
+      "time": "2026-07-23 21:00:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said a heatwave could push food prices higher than expected."
+    },
+    {
+      "id": "mkt:019f8f0f-ddc6-7aab-8e6a-a62f1a0c0a78",
+      "time": "2026-07-23 21:00:09",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Russia's central bank gold and FX reserves stood at $722.9 bln in the week to July 17, up from $722.4 bln the prior week."
+    },
+    {
+      "id": "5004884",
+      "time": "2026-07-23 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "白銀連續主力合約日內跌3%，現報14208.00元。"
+    },
+    {
+      "id": "5004883",
+      "time": "2026-07-23 21:00:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "苯乙烯連續主力合約日內漲3%，現報9048.00元。"
+    },
+    {
+      "id": "5004882",
+      "time": "2026-07-23 21:00:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國內期貨夜盤開盤】苯乙烯連續漲3.65%，白銀連續跌3.58%，上海原油連續漲3.21%，燃料油連續漲3.15%，乙二醇連續漲2.88%，丁二烯橡膠連續漲2.69%，純苯連續漲2.61%，碳酸鋰連續漲2.55%，液化石油氣連續漲2.51%，低硫燃料油連續漲2.34%。"
+    },
+    {
+      "id": "5004881",
+      "time": "2026-07-23 21:00:02",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：熱浪推高食品價格的幅度可能會超出預期。"
+    },
+    {
+      "id": "mkt:019f8f0f-c215-7aab-8e6a-9fb4d5819d7a",
+      "time": "2026-07-23 21:00:02",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB President LAGARDE expects inf to start easing after 1H 2027."
+    },
+    {
+      "id": "mkt:019f8f0f-bed3-7aab-8e6a-96e9e2d35282",
+      "time": "2026-07-23 21:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "Russia | International Reserves (Jul.17) | actual 722900000000B | previous 722400000000B"
+    },
+    {
+      "id": "mkt:019f8f0f-be72-7aab-8e6a-8d616867331a",
+      "time": "2026-07-23 21:00:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "【France urges Houthis to halt attacks on Saudi tankers】A French foreign ministry spokesman called Houthi strikes on Saudi tankers irresponsible and a serious escalation. The Houthis said on Thursday they had hit two Saudi tankers as part of a maritime blockade of Saudi Arabia, a move they say risks creating a second global oil bottleneck as the Strait of Hormuz is all but closed."
+    },
+    {
+      "id": "mkt:019f8f0f-5c1a-7aab-8e6a-8315d7ed44dd",
+      "time": "2026-07-23 20:59:36",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "ECB President Lagarde said extreme weather events and the climate crisis could push up food prices."
+    },
+    {
+      "id": "mkt:019f8f0f-2a80-7aab-8e6a-7e61fac92c6b",
+      "time": "2026-07-23 20:59:23",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President LAGARDE said energy prices remain elevated and could trigger second-round effects."
+    },
+    {
+      "id": "5004880",
+      "time": "2026-07-23 20:59:12",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：能源價格居高不下的時間越長，出現第二輪影響的可能性就越大。"
+    },
+    {
+      "id": "5004879",
+      "time": "2026-07-23 20:59:08",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：能源價格上漲將對實際收入造成壓力。通脹面臨上行偏斜的風險示。能源衝擊可能進一步加劇。"
+    },
+    {
+      "id": "5004878",
+      "time": "2026-07-23 20:59:02",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期銀失守58美元/盎司，日內跌3.85%。"
+    },
+    {
+      "id": "mkt:019f8f0e-d483-7aab-8e6a-7785cc927d48",
+      "time": "2026-07-23 20:59:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "ECB President LAGARDE said the energy shock could intensify further."
+    },
     {
       "id": "mkt:019f8f0e-a2da-7aab-8e6a-6e4f23b91948",
       "time": "2026-07-23 20:58:48",
@@ -48,6 +1074,15 @@
       "text": "拉加德：地緣衝突仍是不確定性的主要來源。"
     },
     {
+      "id": "em:qqyh_ozyh:202607233819194997",
+      "time": "2026-07-23 20:58:16",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長：能源將使通脹高於目標直至2027年上半年】歐洲央行行長拉加德表示，能源將使通脹高於目標直至2027年上半年。"
+    },
+    {
       "id": "5004875",
       "time": "2026-07-23 20:58:08",
       "tags": [
@@ -55,6 +1090,15 @@
         "國際"
       ],
       "text": "凱投宏觀經濟學家Jack Allen-Reynolds：歐洲央行維持利率不變的決定並不令人意外，隨附的新聞稿也沒有就其下一步行動發出明確訊號。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819194546",
+      "time": "2026-07-23 20:57:48",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長：近期資料表明經濟活動有所改善】7月23日，據報道，歐洲央行行長拉加德表示，近期的資料表明經濟活動有所改善。"
     },
     {
       "id": "5004874",
@@ -300,6 +1344,14 @@
         "其他"
       ],
       "text": "拉加德：企業預計將上調產品售價。"
+    },
+    {
+      "id": "5004863",
+      "time": "2026-07-23 20:55:14",
+      "tags": [
+        "其他"
+      ],
+      "text": "【四川省巴中市人大常委會黨組副書記李本勇接受審查調查】中央紀委國家監委網站7月23日通報，據四川省紀委監委訊息：四川省巴中市人大常委會黨組副書記、副主任李本勇涉嫌嚴重違紀違法，目前正接受四川省紀委監委紀律審查和監察調查。"
     },
     {
       "id": "5004862",
@@ -591,6 +1643,14 @@
         "國際"
       ],
       "text": "歐洲央行行長拉加德：最近的資料表明經濟活動有所改善。服務業活動部分恢復。"
+    },
+    {
+      "id": "5004845",
+      "time": "2026-07-23 20:51:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【廣島民間團體代表批評日防衛大臣涉核言論】針對日本防衛大臣小泉進次郎近日的涉核表態，廣島核爆受害者團體聯絡會議事務局長田中聰司22日批評說，這是“絕不能原諒的言論”。據日本媒體報道，田中批評說：“小泉作為內閣成員，竟發表了彷彿要重新審視‘無核三原則’的言論。‘無核三原則’是日本的國策。我們與政府之間出現如此巨大的分歧，可謂前所未有。”他表示，將繼續追究此事，努力推動日本政府走上和平國家的道路。小泉17日在一檔網路節目中提出，日本應“毫無禁忌地討論與核武器相關的政策”，引發日本國內和國際社會關注。（新華社）"
     },
     {
       "id": "mkt:019f8f07-b198-7aab-8e69-8d81a4185f60",
@@ -2153,6 +3213,15 @@
         "其他"
       ],
       "text": "哈薩克能源部：石油產量暫時下降。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819157661",
+      "time": "2026-07-23 20:18:20",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "歐洲央行表示，APP和PEPP持有量正以有度且可預測的速度下降。"
     },
     {
       "id": "mkt:019f8ee9-8fa4-7aab-8e67-ed05a518420c",
@@ -163463,621 +164532,6 @@
         "市場"
       ],
       "text": "雅培在業績指引上調後盤前股價上漲5.7%。"
-    },
-    {
-      "id": "4992515",
-      "time": "2026-07-16 21:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "標普全球能源研究發現，液化天然氣將在五年內成為美國第二大淨出口行業。"
-    },
-    {
-      "id": "mkt:019f6b12-fe74-7aab-8dc9-dfe153274504",
-      "time": "2026-07-16 21:17:14",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "SSE Composite",
-        "Impact bullish",
-        "CSI300"
-      ],
-      "text": "【More than 10 STAR Market firms to showcase AI supply‑chain products at WAIC 2026】More than 10 STAR Market-listed AI supply-chain companies will exhibit latest products at WAIC 2026 via booth displays covering the full chain from compute chips to terminal applications. By July 16 evening, 32 STAR Market firms had disclosed 2026 HY profit guidance; 30 were positive — 22 forecast YoY net profit growth and six expect to return to profit. The companies span semiconductors, electronic materials, high-end equipment, biopharma and lithium batteries."
-    },
-    {
-      "id": "4992514",
-      "time": "2026-07-16 21:16:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【五菱星光L正式上市】7月16日，上汽通用五菱旗下插混大六座SUV星光L正式上市，新車推出舒享、臻享、旗艦共3款配置，搭載基於Android 13研發的靈語智慧作業系統1.0架構，上市權益價10.98萬元起。"
-    },
-    {
-      "id": "4992513",
-      "time": "2026-07-16 21:16:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "理想汽車推出全新理想L6四輪驅動SUV，全國統一零售價24.98萬元。"
-    },
-    {
-      "id": "4992512",
-      "time": "2026-07-16 21:16:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "奈及利亞央行：伊朗地緣衝突帶來的衝擊對奈及利亞影響小於絕大多數其他國家。"
-    },
-    {
-      "id": "4992511",
-      "time": "2026-07-16 21:15:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【23股特大單淨流入超2億元】據資料寶，今日，23股特大單淨流入超2億元，紫光股份特大單淨流入20.35億元，淨流入資金規模居首；東山精密特大單淨流入資金18.34億元，位列第二；淨流入資金居前的還有景旺電子、瑞芯微、拓維資訊等。特大單淨流出股中，中際旭創特大單淨流出資金29.24億元，淨流出資金最多；瀾起科技、兆易創新特大單淨流出資金分別為20.78億元、11.77億元，淨流出資金規模位列第二、第三。"
-    },
-    {
-      "id": "4992510",
-      "time": "2026-07-16 21:15:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際紙業將關停得克薩斯州卡羅爾頓南部包裝工廠。"
-    },
-    {
-      "id": "4992509",
-      "time": "2026-07-16 21:15:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗外交部發言人：任何侵略行為都將遭到堅決回應】當地時間7月16日，伊朗外交部發言人巴加埃表示，伊朗武裝力量已為各種可能情形做好充分準備，這一點已經在實際行動中得到證明。巴加埃表示，伊朗不會束手旁觀，武裝力量、外交機構和全國人民將全力維護國家安全。任何針對伊朗伊斯蘭共和國的侵略，都將遭到堅決、直接且毫不遲疑地回應。談及有關諒解備忘錄問題時，巴加埃表示，伊朗立場自始至終都十分明確，堅持“承諾對承諾”（即對等履約）原則。（央視新聞）"
-    },
-    {
-      "id": "4992508",
-      "time": "2026-07-16 21:14:48",
-      "tags": [
-        "公司"
-      ],
-      "text": "【10餘家科創板企業將攜最新成果亮相WAIC2026】記者關注到，2026世界人工智慧大會暨人工智慧全球治理高階別會議即將啟幕，科創板人工智慧產業鏈企業也將攜最新成果組團亮相。從參展安排看，科創板已上市的10餘家人工智慧產業鏈企業均透過展廳形式亮相大會，覆蓋從算力晶片到終端應用的全鏈條。業績方面，截至7月16日晚間，科創板已有32家公司披露2026年半年度業績預告，其中30家預喜，包括22家預計淨利潤同比增長、6家預計扭虧為盈。相關公司覆蓋半導體、電子材料、高階裝備、生物醫藥、鋰電等多個領域。（介面）"
-    },
-    {
-      "id": "mkt:019f6b10-a375-7aab-8dc9-d77169903c9f",
-      "time": "2026-07-16 21:14:40",
-      "tags": [
-        "MKT News",
-        "02015.HK",
-        "Impact bullish"
-      ],
-      "text": "Li Auto (02015.HK) launched the new L6 four-wheel-drive SUV, priced at a nationwide unified retail price of 249,800 yuan."
-    },
-    {
-      "id": "4992507",
-      "time": "2026-07-16 21:14:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【1Password推出Claude瀏覽器整合，支援AI代理安全呼叫賬號憑證】7月16日，身份安全公司1Password宣佈推出面向Anthropic Claude的瀏覽器整合“1Password for Claude”，允許Claude在無需獲取或儲存密碼的情況下呼叫使用者儲存在1Password中的登入憑證，完成預訂行程、管理賬戶等任務。1Password同時推出“Agentic Mode”，在AI代理接管瀏覽器時自動限制其僅訪問使用者授權的憑證，防止敏感資訊暴露，並表示未來將把該框架擴充套件至更多瀏覽器AI代理平臺。"
-    },
-    {
-      "id": "mkt:019f6b10-94c1-7aab-8dc9-cd3a78dc10ab",
-      "time": "2026-07-16 21:14:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran Foreign Ministry spokesman Baghaei said Iran will not stand idly by in the face of aggression; its armed forces, diplomatic corps and the population will fully defend national security."
-    },
-    {
-      "id": "4992506",
-      "time": "2026-07-16 21:13:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "ASRC聯邦獲得美國空軍一項重要工業產品支援供應商合同。"
-    },
-    {
-      "id": "4992505",
-      "time": "2026-07-16 21:13:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：面向海外市場，小鵬引入Google Maps地圖服務，並透過Auto SDK打造更符合海外使用者習慣的原生車載導航體驗，成為亞太地區首家實現這一合作深度的車企。"
-    },
-    {
-      "id": "4992504",
-      "time": "2026-07-16 21:13:22",
-      "tags": [
-        "觀點",
-        "國際"
-      ],
-      "text": "【花旗：5 月外資增持 180 億美元機構抵押貸款支援證券】花旗研報顯示，5 月境外投資者增持 180 億美元機構抵押貸款支援證券（MBS），累計買入規模達 650 億美元，開曼群島增持約 100 億美元機構債券，盧森堡增持 60 億美元，日本增持 30 億美元。"
-    },
-    {
-      "id": "4992503",
-      "time": "2026-07-16 21:12:05",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "烏克蘭議會批准塔拉斯·維索茨基出任農業部長；任命弗謝沃洛德·琴佐夫（Vsevolod Chentsov）擔任負責歐洲一體化事務的副總理；批准謝爾蓋·馬爾琴科留任財政部長。"
-    },
-    {
-      "id": "mkt:019f6b0e-3409-7aab-8dc9-c77492f53db3",
-      "time": "2026-07-16 21:12:00",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Central Bank of Nigeria governor said Nigeria's net foreign-exchange reserves rose from roughly $3–4 bln in 2023 to over $40 bln."
-    },
-    {
-      "id": "4992502",
-      "time": "2026-07-16 21:11:40",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【特朗普在買入股票數日後便在“真實社交”平臺上為相關公司“帶貨”】據報道，去年，美國總統特朗普在“真實社交”（Truth Social）平臺上釋出了一則“非常重大且令人興奮的訊息”。當時，計算機晶片製造巨頭英偉達剛剛宣佈了在美國建造人工智慧超級計算機的計劃。特朗普在2025年4月15日向其超過900萬粉絲髮布的帖子中承諾“所有必要的許可證都將加快辦理並迅速交付給英偉達及類似公司”。然而，特朗普當時未透露的是，就在幾天前，他剛剛買入了價值20萬至50萬美元的該公司股票。"
-    },
-    {
-      "id": "mkt:019f6b0d-8f55-7aab-8dc9-b9499fdf16c7",
-      "time": "2026-07-16 21:11:18",
-      "tags": [
-        "MKT News",
-        "SHL.DE"
-      ],
-      "text": "【Siemens Healthineers breaks ground on phase II Wuxi R&D-manufacturing expansion】Siemens X-ray Vacuum Technology (Wuxi) Co. Ltd. has begun construction on the phase II expansion of its R&D and manufacturing base in Wuxi High‑tech Zone, Jiangsu. The project carries investment of over 100 mln yuan and will focus on R&D and production of new high‑end CT X‑ray tubes and high‑voltage generators, plus X‑ray tubes and high‑voltage generators for high‑end angiography systems."
-    },
-    {
-      "id": "4992501",
-      "time": "2026-07-16 21:11:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST東易：公司股票將於7月20日撤銷退市風險警示及其他風險警示】*ST東易公告，公司股票將於2026年7月20日開市起撤銷退市風險警示及其他風險警示，股票簡稱由“*ST東易”變更為“東易日盛”，股票程式碼仍為“002713”，股票交易的日漲跌幅限制為10%。公司股票將於2026年7月17日開市起停牌一天，並於2026年7月20日開市起復牌。"
-    },
-    {
-      "id": "4992500",
-      "time": "2026-07-16 21:10:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "小鵬汽車：小鵬海外車型正式接入谷歌地圖導航服務，成為亞太地區首個谷歌地圖車載SDK合作伙伴，並將在小鵬MONA L03首發落地。"
-    },
-    {
-      "id": "4992499",
-      "time": "2026-07-16 21:10:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "埃尼集團執行長表示，該集團正嘗試將生物燃料生產轉向產能更高、更可持續的航空燃油領域。"
-    },
-    {
-      "id": "4992498",
-      "time": "2026-07-16 21:10:18",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美媒：伊朗小學遭襲事件調查被美軍擱置】美國有線電視新聞網（CNN）16日以三名知情人士為訊息源報道，美國軍方已將伊朗米納卜小學遭襲事件的調查擱置數月，軍方高層遲遲沒有批准相關調查進入關鍵的情報審查程式。這些訊息人士說，2月28日米納卜小學遭空襲後的一週內，相關“戰鬥毀傷評估（BDA）”調查的前兩個階段已經完成，重點是釐清空襲是否擊中並毀傷預定目標等問題。前兩階段調查結果表明，美軍“意外”擊中小學的部分原因包括使用“過時”情報。（新華社）"
-    },
-    {
-      "id": "4992497",
-      "time": "2026-07-16 21:10:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將卡夫亨氏目標股價從24美元上調至25美元。"
-    },
-    {
-      "id": "4992496",
-      "time": "2026-07-16 21:09:50",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【布倫特原油突破85美元 中東石油運輸風險加劇】隨著人們對中東地區石油供應的擔憂加劇，以及美國繼續打擊伊朗，油價恢復上漲。全球基準的布倫特原油升至每桶85美元上方，扭轉了早些時候的小幅走低勢頭。此前三個交易日，布倫特原油價格累計上漲12%。報道稱，伊朗已告知葉門胡塞武裝，如果伊朗電力基礎設施遭到襲擊，就封鎖紅海航道。伊朗戰爭導致霍爾木茲海峽的石油運輸受到干擾之際，紅海航道已經成為沙烏地阿拉伯石油出口的重要生命線。"
-    },
-    {
-      "id": "te:economy:567572",
-      "time": "2026-07-16 21:09:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "10-Year Yield Drops Approaches 2-Month High — The yield on the 10-year US Treasury note rose to the 4.60% threshold on Thursday, approaching the near two-month high of 4.62% on July 13th, as markets positioned for a rate hike by the Federal Reserve this year. The wave of attacks between the US and Iran further lifted benchmark fuel prices, rekindling concerns of energy inflation from last quarter that triggered sharp increases in inflation since March. This coincided with fresh signals of a strong economy. Retail sales continued to grow at a solid pace in June, when net of lower fuel turnover due to the momentary drop in prices. On top of that, initial jobless claims fell to an over two-month low. The inflationary outlook and robust labor backdrop had driven the FOMC to project a rate hike this year, consistent with the current positioning in rate derivative markets."
-    },
-    {
-      "id": "4992495",
-      "time": "2026-07-16 21:09:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將可口可樂目標股價從92美元上調至98美元。"
-    },
-    {
-      "id": "4992494",
-      "time": "2026-07-16 21:08:59",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【資料顯示霍爾木茲海峽航運活動持續低迷】央視記者當地時間16日獲悉，霍爾木茲海峽的航運活動仍處於低位。國際市場服務機構克普勒公司釋出資料顯示，16日僅有13艘商船透過霍爾木茲海峽，其中8艘駛離波斯灣，5艘進入波斯灣，通行量約為戰前平均水平的十分之一。據悉，16日只有一艘駛入波斯灣的散貨船選擇了靠近阿曼海岸、由美軍推薦的南部航線，大多數船隻仍沿靠近伊朗海岸的航線航行。不過，由於部分船隻關閉了應答器，實際通行數量可能高於統計資料。（央視新聞）"
-    },
-    {
-      "id": "4992493",
-      "time": "2026-07-16 21:08:44",
-      "tags": [
-        "公司"
-      ],
-      "text": "【*ST摩登：申請撤銷退市風險警示 7月20日起復牌】*ST摩登公告稱，公司2024年度因經審計的利潤總額等三者孰低為負且營收低於3億元，股票於2025年4月29日起被實施退市風險警示。2025年度，公司實現營收4.88億元，但淨利潤虧損4491.13萬元。公司認為符合撤銷條件並向深交所申請，已獲稽核同意。公司股票將於7月17日停牌一天，7月20日開市起復牌，簡稱變更為“摩登大道”，漲跌幅限制仍為10%。"
-    },
-    {
-      "id": "mkt:019f6b0a-f2ae-7aab-8dc9-b78893211d85",
-      "time": "2026-07-16 21:08:27",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "NVIDIA",
-        "NVDA.O"
-      ],
-      "text": "【US media: Trump promoted companies on Truth Social days after buying their shares】CNN reports that last year President Trump posted a “very big and exciting announcement” on Truth Social after Nvidia (NVDA.O) announced plans to build a US AI supercomputer. In an April 15, 2025 post to his more than 9 million followers he pledged “all necessary permits will be expedited and quickly delivered to Nvidia and similar companies.” CNN says Trump bought $200,000–$500,000 of Nvidia stock days earlier. The network found Trump promoted more than 20 companies on Truth Social shortly after purchasing their shares and sometimes announced potential government actions that could benefit recent investments. The White House denies Trump used his office for personal gain and says trades are handled by external financial managers and that Trump and his family do not control individual transactions."
-    },
-    {
-      "id": "4992492",
-      "time": "2026-07-16 21:08:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "小鵬汽車：小鵬第二代VLA物理世界大模型，已經實現用同一套模型打通中國與歐洲，目前正加快推進歐洲市場的量產適配。"
-    },
-    {
-      "id": "te:markets:567569",
-      "time": "2026-07-16 21:08:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Dollar Rebounds — The dollar index strengthened to 100.6 on Thursday, rebounding after losses in each of the previous two sessions, as investors assessed fresh economic data pointing to continued resilience in the US economy. Retail sales rose in line with expectations, with lower gasoline prices weighing on receipts at gas stations, while sales at motor vehicle dealers and nonstore retailers were robust. Meanwhile, initial jobless claims fell to a two-month low of 208K. Markets also continued to monitor developments in the Middle East, with oil prices hovering near one-month highs after the US intensified its strikes against Iran. Against this backdrop, markets are currently pricing in around a 12% probability of a rate hike this month, while the odds of a hike in September stand at roughly 56%. The greenback was mostly higher against the British pound and the euro."
-    },
-    {
-      "id": "4992491",
-      "time": "2026-07-16 21:08:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "據燈塔專業版，截至7月16日21時，2026年暑期檔上半程票房35.34億，實現同比增長！《功夫女足》成為2026暑期檔上半程票房冠軍！"
-    },
-    {
-      "id": "4992490",
-      "time": "2026-07-16 21:07:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "【OpenAI將Eliza列為高階合作伙伴，雙方深化企業AI部署合作】7月16日，AI原生諮詢公司Eliza宣佈成為OpenAI合作伙伴網路高階合作伙伴，雙方將合作幫助企業部署和擴充套件AI解決方案，推動GPT-5.6、ChatGPT Work及Codex等產品在金融、醫療、製造、零售和科技等行業應用。Eliza表示，公司已為超過2萬名客戶使用者部署ChatGPT Enterprise和Codex，並開發支援逾14萬名員工使用的生產級AI代理系統。"
-    },
-    {
-      "id": "mkt:019f6b08-42e6-7aab-8dc9-a8f559181d3c",
-      "time": "2026-07-16 21:05:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukrainian parliament voted to reappoint Serhiy Marchenko as finance minister."
-    },
-    {
-      "id": "mkt:019f6b07-b78a-7aab-8dc9-a25a4e1ed847",
-      "time": "2026-07-16 21:04:55",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Iran says it found debris of shot-down US MQ-9 Reaper】Iran said early on the 16th that its IRGC Aerospace Force used a new air‑defence system to shoot down a US MQ-9 Reaper over Andimeshk; debris was later found and recovered in mountainous terrain of Dehloran county by local militia."
-    },
-    {
-      "id": "4992489",
-      "time": "2026-07-16 21:04:50",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守3980美元/盎司，日內跌1.78%。"
-    },
-    {
-      "id": "4992488",
-      "time": "2026-07-16 21:04:33",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭議會批准成立新政府。"
-    },
-    {
-      "id": "te:markets:567568",
-      "time": "2026-07-16 21:04:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Futures Fall as Gold Prices Slip — Futures tracking the S&P/TSX Composite Index fell on Thursday as gold prices slipped, while investors assessed worsening tensions in the Middle East. Lower gold prices weighed on mining stocks. Meanwhile, the conflict pushed oil prices higher on supply risks, fueling inflation concerns. Bond yields moved higher, pressuring financials and the broader market. Elsewhere, Cogeco Communications missed third-quarter revenue estimates after the market close on Wednesday, hurt by a decline in its US subscriber base. On the trade front, US Trade Representative Jamieson Greer said formal trade talks with Mexico were making progress, while discussions with Canada had yet to deliver the concessions sought by President Trump as he pushes to reduce US trade deficits with both countries. Earlier this month, the Trump administration said it would not renew the USMCA trade agreement, although the pact would remain in effect until the issues are resolved or the agreement is terminated."
-    },
-    {
-      "id": "4992487",
-      "time": "2026-07-16 21:04:23",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "特朗普媒體科技集團因推出Truth API，盤前股價上漲1.5%。"
-    },
-    {
-      "id": "4992486",
-      "time": "2026-07-16 21:04:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗方面稱發現被擊落的美軍MQ-9無人機殘骸】總檯記者當地時間16日獲悉，伊朗方面稱，當天凌晨，一架美軍MQ-9“死神”無人機在伊朗安迪梅什克上空被伊朗伊斯蘭革命衛隊空天部隊新型防空系統擊落。訊息稱，伊朗德赫洛蘭縣達什特阿巴斯地區民兵組織在搜尋過程中，在塞普通村附近山區發現了該無人機殘骸。伊方表示，無人機被擊落後，其殘骸散落在德赫洛蘭縣轄區內，隨後被當地人員發現並回收。（央視新聞）"
-    },
-    {
-      "id": "4992485",
-      "time": "2026-07-16 21:04:07",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內漲1%，現報2662.00元。"
-    },
-    {
-      "id": "mkt:019f6b06-e92c-7aab-8dc9-9fed3630a935",
-      "time": "2026-07-16 21:04:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Ukraine's parliament approved a new government."
-    },
-    {
-      "id": "4992484",
-      "time": "2026-07-16 21:03:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【知名基金經理管理的基金集中宣佈放鬆限購】近日，知名基金經理管理的基金集中宣佈放鬆限購。7月15日-16日，金梓才、張明昕管理的多隻基金均宣佈放鬆限購，部分基金更是取消限購。上述基金近一年收益都翻倍，業績十分搶眼。多隻績優基金放鬆限購。7月15日，財通基金公告稱，財通價值動量混合基金自7月15日起暫停接受單日單個基金賬戶超過1萬元的申購、定期定額投資及轉換轉入申請（基金A類和C類基金份額合併計算）。該基金此前曾限購100元。除了財通價值動量混合基金以外，金梓才管理的財通品質甄選混合基金、財通成長優選混合基金、財通積體電路產業股票基金也釋出類似的公告，限購金額均從100元調整至1萬元。放鬆限購的不止金梓才管理的基金。7月16日，華商基金也連發多則公告，自7月16日起，張明昕管理的華商均衡成長混合基金、華商優勢行業混合基金、華商致遠回報混合基金的限購金額均從1000元調整至10萬元。部分基金則取消限購。7月16日，鵬揚基金公告稱，鵬揚數字經濟先鋒混合基金此前暫停接受單個投資人單日累計申購（含轉換轉入、定期定額投資）A類和C類基金份額合計超過10萬元（申購、轉換轉入和定期定額投資的申請合併計算）的申請。自7月16日起取消上述限制。平安科技精選混合基金同樣自7月16日起取消限購。（上證報）"
-    },
-    {
-      "id": "4992483",
-      "time": "2026-07-16 21:03:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：小鵬圖靈第二代VLA模型是一套打通L2輔助駕駛與L4自動駕駛的統一架構。目前，搭載該模型的L4級小鵬Robotaxi已正式啟動員工內測。"
-    },
-    {
-      "id": "4992482",
-      "time": "2026-07-16 21:03:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：華納音樂與網易宣佈續簽多年音樂版權授權協議。"
-    },
-    {
-      "id": "mkt:019f6b06-4e67-7aab-8dc9-93f4914a3bdb",
-      "time": "2026-07-16 21:03:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Spot gold, silver slide】Spot gold fell 2.00% intraday to $3,977.25/oz. Spot silver fell 4.00% intraday to $55.44/oz."
-    },
-    {
-      "id": "te:economy:567567",
-      "time": "2026-07-16 21:03:12",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kyrgyzstan",
-        "Industrial Production",
-        "Importance 0"
-      ],
-      "text": "Kyrgyzstan Industrial Activity Slows to 8-Month Low — Industrial production in Kyrgyzstan grew by 5.0% year-on-year in June 2026, marking the lowest level in eight months and slowing further from a 13.4% increase in the previous month. Mining activities declined sharply by 13.8%, following a 6.4% increase in the previous month. Other sectors also eased significantly, with manufacturing activities slowing to 9.6% growth from 16.9% and supply of electricity, gas, steam, and air conditioning eased to 2.3% from 27.3%. A further decline in activity was halted by a 19.7% surge in water supply, sewerage, waste management and remediation activities, materials recovery, reversing a 3.4% decline in the previous period. Over the first half of the year, industrial output expanded 12.7%, a higher pace compared to 12.5% recorded in the same period a year earlier."
-    },
-    {
-      "id": "4992481",
-      "time": "2026-07-16 21:02:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌4%，現報55.42美元/盎司。"
-    },
-    {
-      "id": "4992480",
-      "time": "2026-07-16 21:02:49",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守3980美元/盎司，日內跌2.00%。"
-    },
-    {
-      "id": "4992479",
-      "time": "2026-07-16 21:02:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌2%，現報3978.94美元/盎司。"
-    },
-    {
-      "id": "4992478",
-      "time": "2026-07-16 21:02:41",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌3%，現報55.71美元/盎司。"
-    },
-    {
-      "id": "4992477",
-      "time": "2026-07-16 21:02:39",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守3990美元/盎司，日內跌1.58%。"
-    },
-    {
-      "id": "te:markets:567566",
-      "time": "2026-07-16 21:02:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "commodity",
-        "Importance 0"
-      ],
-      "text": "Silver Hits 32-week Low — Silver decreased to 55.56 USD/t.oz, the lowest since November 2025. Over the past 4 weeks, Silver lost 18.11%, and in the last 12 months, it increased 45.73%."
-    },
-    {
-      "id": "4992476",
-      "time": "2026-07-16 21:02:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "印度總理： 印度首列氫動力列車將於明日在金德鎮正式發車，線路連通金德與索尼帕特。"
-    },
-    {
-      "id": "4992475",
-      "time": "2026-07-16 21:02:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守3990美元/盎司，日內跌1.75%。"
-    },
-    {
-      "id": "4992474",
-      "time": "2026-07-16 21:01:25",
-      "tags": [
-        "公司"
-      ],
-      "text": "【RBC Capital：上調歷峰集團目標價至220瑞士法郎，評級升至“跑贏大市”】RBC Capital將瑞士奢侈品集團歷峰的評級由“與大市同步”上調至“跑贏大市”，並將目標價從200瑞士法郎上調至220瑞士法郎，理由是珠寶需求超出預期、鐘錶業務逐步復甦，以及盈利增長有望加速。"
-    },
-    {
-      "id": "4992473",
-      "time": "2026-07-16 21:01:11",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體科技集團推出真相應用程式介面（Truth API），這是一款面向金融服務合作方的全新授權資料服務，可實現最快調取真相社交平臺高影響力賬號相關資料。"
-    },
-    {
-      "id": "4992472",
-      "time": "2026-07-16 21:00:58",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "特朗普媒體與科技集團：Truth API正式推出前已提前完成客戶簽約，未來數週內將接入更多合作方。"
-    },
-    {
-      "id": "mkt:019f6b03-a248-7aab-8dc9-8ff6c2abac3c",
-      "time": "2026-07-16 21:00:27",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "New York silver futures fell to $56/oz, down 3.63% intraday."
-    },
-    {
-      "id": "mkt:019f6b03-904c-7aab-8dc9-86044e4c5926",
-      "time": "2026-07-16 21:00:23",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Precious Metals",
-        "Energy",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "China's night session opened with main futures contracts mixed. SHFE nickel, MEG, INE crude (SC) and low-sulfur fuel oil (LU) rose over 1%; stainless steel gained about 1%. Shanghai silver fell more than 3% and Shanghai gold dropped over 1%."
-    },
-    {
-      "id": "4992471",
-      "time": "2026-07-16 21:00:18",
-      "tags": [
-        "其他"
-      ],
-      "text": "美光透過戰略客戶協議強化汽車生態系統供應。"
-    },
-    {
-      "id": "mkt:019f6b03-6581-7aab-8dc9-7e5a38b88038",
-      "time": "2026-07-16 21:00:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Russia's central bank foreign exchange and gold reserves stood at $722.4 bln in the week to July 10, compared with $721.7 bln the previous week."
-    },
-    {
-      "id": "4992470",
-      "time": "2026-07-16 21:00:08",
-      "tags": [
-        "央行",
-        "市場",
-        "國際"
-      ],
-      "text": "俄羅斯至7月10日當週央行黃金和外匯儲備 7224億美元，前值7217億美元。"
-    },
-    {
-      "id": "4992469",
-      "time": "2026-07-16 21:00:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "玻璃連續主力合約日內跌1%，現報928.00元。"
-    },
-    {
-      "id": "4992468",
-      "time": "2026-07-16 21:00:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國內期貨夜盤開盤】白銀連續跌3.19%，集運指數歐線期貨連續跌2.12%，菜籽連續漲1.74%，尿素連續跌1.68%，黃金連續跌1.29%。"
-    },
-    {
-      "id": "mkt:019f6b03-3ed0-7aab-8dc9-740d1d7e1652",
-      "time": "2026-07-16 21:00:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar"
-      ],
-      "text": "Russia | International Reserves (Jul.10) | actual 722400000000B | previous 721700000000B"
-    },
-    {
-      "id": "4992467",
-      "time": "2026-07-16 21:00:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期銀失守56美元/盎司，日內跌2.50%。"
     }
   ]
 }
