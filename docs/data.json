@@ -1,7 +1,116 @@
 {
-  "updated": "2026-07-23 21:21:47",
-  "count": 17975,
+  "updated": "2026-07-23 21:25:58",
+  "count": 17978,
   "items": [
+    {
+      "id": "te:markets:569316",
+      "time": "2026-07-23 21:25:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Enel Stock Price Hits 4-week Low — Enel shares decreased to 9.81 EUR, the lowest since June 2026. Over the past 4 weeks, Enel lost 0.45%, and in the last 12 months, it increased 28.2%."
+    },
+    {
+      "id": "5004936",
+      "time": "2026-07-23 21:24:38",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度儲備銀行：印度將於7月28日透過拍賣回購2000億盧比證券。"
+    },
+    {
+      "id": "5004935",
+      "time": "2026-07-23 21:24:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國得州將不得關停與墮胎調查相關的醫療機構。"
+    },
+    {
+      "id": "mkt:019f8f25-5d91-7aab-8e6c-81a076bfdc6c",
+      "time": "2026-07-23 21:23:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said the mild scenario now looks rather unlikely."
+    },
+    {
+      "id": "5004934",
+      "time": "2026-07-23 21:23:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "拉加德：中東局勢可能瞬息萬變。溫和情景目前看來 “基本不可能出現”。"
+    },
+    {
+      "id": "mkt:019f8f24-fee1-7aab-8e6c-79ef122aa13a",
+      "time": "2026-07-23 21:23:14",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "ECB President Lagarde said the Middle East situation could reverse rapidly."
+    },
+    {
+      "id": "mkt:019f8f24-e946-7aab-8e6c-74f99b8d0d8b",
+      "time": "2026-07-23 21:23:08",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bullish"
+      ],
+      "text": "Blackstone (BX.N) president Gray said the firm has raised $14 billion to date for secondary-market funds."
+    },
+    {
+      "id": "5004933",
+      "time": "2026-07-23 21:22:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：最低儲備金要求在未來可能會進行討論。"
+    },
+    {
+      "id": "mkt:019f8f23-863c-7aab-8e6c-6b4b7139b3e8",
+      "time": "2026-07-23 21:21:37",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD"
+      ],
+      "text": "ECB President Lagarde said this does not rule out discussing minimum reserve requirements."
+    },
+    {
+      "id": "5004932",
+      "time": "2026-07-23 21:21:20",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【布倫特油價突破100美元】受中東地區軍事衝突升級影響，國際油價23日大幅上漲，布倫特原油期貨價格突破每桶100美元。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8f23-4478-7aab-8e6c-608865625f8a",
+      "time": "2026-07-23 21:21:20",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB President Lagarde said there was no discussion today on minimum reserve requirements."
+    },
     {
       "id": "mkt:019f8f23-2f3b-7aab-8e6c-5a6408a39f53",
       "time": "2026-07-23 21:21:15",
@@ -164623,85 +164732,6 @@
         "公司"
       ],
       "text": "【蘋果據悉最快今秋推出OLED版iPad mini，明年更新入門版及iPad Air】當地時間7月16日，科技記者馬克·古爾曼發文稱， 蘋果公司正準備推出五年來最大升級版iPad mini，最快將於今秋釋出、10月上市。新款iPad mini代號J510，將首次採用OLED顯示屏，以提升顯示效果。與此同時，蘋果還計劃於明年更新入門版iPad（代號J581）和11英寸、13英寸iPad Air（代號J807、J837），其中入門版主要升級處理器，iPad Air預計於春季釋出。蘋果預計今年9月釋出首款摺疊屏iPhone以及新款Apple Watch等產品，並已於上月上調包括iPad系列在內的多款產品售價。"
-    },
-    {
-      "id": "4992524",
-      "time": "2026-07-16 21:25:36",
-      "tags": [
-        "市場",
-        "央行",
-        "國際"
-      ],
-      "text": "【深夜跳水 現貨黃金跌破4000美元】7月16日晚，國際金銀現貨集體下跌。截至北京時間21:00，現貨黃金跌破4000美元/盎司，報3992.06美元/盎司，跌幅1.61%；現貨白銀下跌至55.78美元/盎司，跌幅3.43%。訊息面上，美國勞工部公佈資料，截至7月11日當週，首次申領失業救濟人數減少8000人，降至20.8萬人，預期值為21.7萬人。之前一週的持續申領失業救濟人數降至181萬人，也低於預期。此外，近日，美聯儲主席凱文·沃什上任以來首次在國會作證，宣示對通脹“零容忍”並堅定承諾恢復價格穩定。儘管沒有明確表示將收緊貨幣政策，但沃什表示，抑制通脹的選項包括動用利率。（中證金牛座）"
-    },
-    {
-      "id": "mkt:019f6b1a-3557-7aab-8dc9-f46f410340b1",
-      "time": "2026-07-16 21:25:07",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Houthi militants accused Israel of seeking to implement a \"Greater Israel\" plan to expand its influence across West Asia and said they will steadfastly defend their rights."
-    },
-    {
-      "id": "4992523",
-      "time": "2026-07-16 21:25:02",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【伯恩斯坦：上調阿斯麥目標價至2500歐元，列出三大上行驅動因素】伯恩斯坦將阿斯麥的目標價從2300歐元上調至2500歐元，維持“跑贏大市”評級。分析師David Dai指出，三大上行驅動因素：其一，阿斯麥計劃在2027年和2028年每年將低數值孔徑EUV及ArFi產能各提升30%；定價方面存在上行空間，估計2027年EUV平均售價將上漲10%，2028年有望再度實現高個位數百分比的漲幅；看好利潤率的改善空間，公司對2026年下半年毛利率指引為56%，高於市場普遍預期的52.6%。伯恩斯坦將阿斯麥2027年及2028年營收預測分別上調至560億和720億歐元，每股收益預測亦相應上調至53.6和75.3歐元。"
-    },
-    {
-      "id": "4992522",
-      "time": "2026-07-16 21:24:17",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織總幹事表示，由世界衛生組織與非洲疾控中心聯合制定的非洲大陸防疫準備與應對計劃資金缺口超過4億美元。"
-    },
-    {
-      "id": "4992521",
-      "time": "2026-07-16 21:23:51",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織呼籲各國及合作方消除各類加劇痴呆患病風險的誘因。"
-    },
-    {
-      "id": "4992520",
-      "time": "2026-07-16 21:23:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "胡塞武裝：受壓迫者若不尋求公道，暴君便會肆無忌憚地持續施行壓迫。猶太復國主義者是最殘暴的暴君。以色列圖謀推行 “大以色列” 計劃，擴張其在西亞地區的勢力範圍。我們堅定捍衛自身權益。"
-    },
-    {
-      "id": "mkt:019f6b18-26bc-7aab-8dc9-eb084d0aed08",
-      "time": "2026-07-16 21:22:52",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "【PENTAGON assessment: U.S. Iran operation costs may reach $100bn, far above official $30bn】A PENTAGON internal assessment reported July 15 says actual U.S. spending on military operations against Iran could be as high as $100bn, well above the roughly $30bn the U.S. government has disclosed. The gap is attributed to undisclosed operational expenses, losses of advanced aircraft and significant damage to U.S. military facilities in the Middle East. Senator Angus King said the public is very disappointed by the lack of transparency and highlighted follow-on consumer costs, including higher gasoline prices."
-    },
-    {
-      "id": "te:economy:567574",
-      "time": "2026-07-16 21:22:35",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Brazil",
-        "Retail Sales MoM",
-        "Importance 1"
-      ],
-      "text": "Brazil Retail Sales Edge Higher in May — Brazil's retail sales volume rose 0.1% month-over-month in May 2026, rebounding from a 1.6% decline in the previous month, but missing market expectations of a 0.5% increase. Among retail categories, the strongest monthly gains were recorded in books, newspapers, magazines, and stationery (15.2%), textiles, apparel, and footwear (3.1%), furniture and household appliances (2.7%), pharmaceuticals and personal care products (1.4%), and fuels and lubricants (1.1%). The largest declines were seen in office equipment, IT and communications (-1.7%), supermarkets, food, beverages, and tobacco (-1.5%), and other personal and household goods (-0.3%). Broad retail sales, which include vehicles, construction materials, and wholesale food, beverages, and tobacco, fell 0.2% in May from April, following a 0.7% decline in the previous month. On an annual basis, retail sales rose 0.4%, slowing from a 1.0% increase in April."
     }
   ]
 }
