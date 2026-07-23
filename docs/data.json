@@ -1,7 +1,216 @@
 {
-  "updated": "2026-07-23 17:58:54",
-  "count": 17651,
+  "updated": "2026-07-23 18:03:25",
+  "count": 17664,
   "items": [
+    {
+      "id": "mkt:019f8e6d-0170-7aab-8e62-fc5907fafe2b",
+      "time": "2026-07-23 18:02:16",
+      "tags": [
+        "MKT News",
+        "AMZN.O",
+        "Impact bullish"
+      ],
+      "text": "Market sources: Amazon (AMZN.O) founder Jeff Bezos is pushing an AI-led redesign of Amazon Prime Video."
+    },
+    {
+      "id": "5004347",
+      "time": "2026-07-23 18:02:08",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "谷歌表示，可能會向法院提起上訴，質疑歐盟的處罰決定。"
+    },
+    {
+      "id": "5004346",
+      "time": "2026-07-23 18:01:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迅捷興：2026年上半年營收5.18億元 同比增長77.19%】迅捷興公告稱，2026年1月1日至6月30日，公司預計實現營業收入5.18億元左右，同比增長77.19%；預計淨利潤1400萬元左右，同比扭虧為盈；扣非淨利潤1180萬元左右，同比扭虧為盈。業績增長得益於AI算力賽道高景氣，下游需求旺盛，產能利用率提升。不過，公司面臨原材料價格波動、下游需求與行業競爭、技術迭代與產品升級等風險。"
+    },
+    {
+      "id": "5004345",
+      "time": "2026-07-23 18:01:45",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會公告：谷歌 (GOOGL.O) 因違反歐盟相關法規，合計被罰 8.9 億歐元。"
+    },
+    {
+      "id": "mkt:019f8e6c-685e-7aab-8e62-f773bbac1a1b",
+      "time": "2026-07-23 18:01:36",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Amazon",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "AMZN.O"
+      ],
+      "text": "Market sources say Amazon (AMZN.O) is aiming to improve its reputation in AI."
+    },
+    {
+      "id": "mkt:019f8e6c-1a97-7aab-8e62-ee21c0644f35",
+      "time": "2026-07-23 18:01:17",
+      "tags": [
+        "MKT News",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK July CBI industrial price expectations net balance fell to 11, the weakest reading since October 2024."
+    },
+    {
+      "id": "mkt:019f8e6b-f6a7-7aab-8e62-e35d9860fa3a",
+      "time": "2026-07-23 18:01:07",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "FTSE100",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "UK July CBI industrial orders balance was -45, the weakest reading since September 2020."
+    },
+    {
+      "id": "5004344",
+      "time": "2026-07-23 18:01:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【傑富瑞：Meta智慧眼鏡硬體收入未來數年或達180億美元】傑富瑞在研報中表示，Meta智慧眼鏡硬體業務未來數年可能創造140億至180億美元收入。該機構維持Meta“買入”評級，並給予825美元目標價。"
+    },
+    {
+      "id": "5004343",
+      "time": "2026-07-23 18:00:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特第二季度國內寬頻使用者淨虧損16.7萬戶，FactSet市場預期為虧損16.53萬戶。"
+    },
+    {
+      "id": "5004342",
+      "time": "2026-07-23 18:00:32",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "英國7月CBI工業訂單差值 -45，前值-45。"
+    },
+    {
+      "id": "5004341",
+      "time": "2026-07-23 18:00:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東宏股份：中標1.52億元中色股份B專案】東宏股份公告，公司此前披露為中色股份B專案選廠預製管段及管件標段二的第一中標候選人，近日收到中標通知書，確定公司為該專案中標人，中標金額為人民幣1.52億元。公司還需與招標人簽訂書面合同，合同金額、條款等還需協商確定，存在一定不確定性。"
+    },
+    {
+      "id": "5004340",
+      "time": "2026-07-23 18:00:24",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印度Nifty 50指數初步收盤下跌0.52%。"
+    },
+    {
+      "id": "5004339",
+      "time": "2026-07-23 18:00:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特第二季度調整後每股收益1.04美元，低於預期97美分。"
+    },
+    {
+      "id": "mkt:019f8e6b-28ce-7aab-8e62-d9bf298331da",
+      "time": "2026-07-23 18:00:15",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish"
+      ],
+      "text": "UK July CBI industrial price expectations balance 11, down from 22 previously."
+    },
+    {
+      "id": "5004338",
+      "time": "2026-07-23 18:00:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特旗下的孔雀平臺首次實現盈利。"
+    },
+    {
+      "id": "mkt:019f8e6b-1097-7aab-8e62-d70868d3f61c",
+      "time": "2026-07-23 18:00:08",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CBI Industrial Trends Survey - Selling Prices (Jul) | actual 11 | previous 22"
+    },
+    {
+      "id": "mkt:019f8e6b-0b37-7aab-8e62-c80ee91efc11",
+      "time": "2026-07-23 18:00:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK July CBI industrial orders balance -45; previous -45."
+    },
+    {
+      "id": "mkt:019f8e6a-eea2-7aab-8e62-c4016b41cc89",
+      "time": "2026-07-23 18:00:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | CBI Industrial Trends Survey - Orders (Jul) | actual -45 | previous -45"
+    },
+    {
+      "id": "5004337",
+      "time": "2026-07-23 17:59:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "波音 737 MAX 7 同樣有望在 7 月至 8 月初獲得美國聯邦航空管理局（FAA）適航批准。"
+    },
+    {
+      "id": "5004336",
+      "time": "2026-07-23 17:59:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "【星輝娛樂：累計回購1.28%公司股份】星輝娛樂公告，截至2026年7月22日，公司透過股份回購專用證券賬戶以集中競價交易方式累計回購公司股份1586.9萬股，佔公司目前總股本的1.28%，最高成交價為4.98元/股，最低成交價為4.07元/股，成交總金額為6999.69萬元（不含交易費用）。"
+    },
+    {
+      "id": "5004335",
+      "time": "2026-07-23 17:59:17",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊朗武裝部隊稱若美國襲擊民用基礎設施將予以回擊】當地時間23日，伊朗武裝部隊哈塔姆·安比亞中央總部表示，如果美國襲擊伊朗民用基礎設施，伊朗將打擊該地區所有涉美能源和經濟基礎設施。（央視新聞）"
+    },
+    {
+      "id": "5004334",
+      "time": "2026-07-23 17:58:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "波音 737 MAX 10 將於 9 至 10 月取得美國聯邦航空管理局適航認證。"
+    },
     {
       "id": "5004333",
       "time": "2026-07-23 17:57:23",
@@ -161437,80 +161646,6 @@
         "國際"
       ],
       "text": "俄羅斯國家原子能公司：2026 年北方航道貨運量預計達 4000 萬噸。"
-    },
-    {
-      "id": "mkt:019f6a61-8550-7aab-8dc5-188dfa91be7a",
-      "time": "2026-07-16 18:03:23",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "HKEX filing: Immvira Bioscience Inc. - B has lodged a listing application with the exchange."
-    },
-    {
-      "id": "mkt:019f6a61-00cf-7aab-8dc5-103b0c59ed1c",
-      "time": "2026-07-16 18:02:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Zelenskiy’s nominee for Ukraine’s defence minister, Interior Minister Ihor Klymenko, reportedly failed to secure sufficient votes."
-    },
-    {
-      "id": "4992068",
-      "time": "2026-07-16 18:02:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【兩部門發文明確社會組織評比表彰活動禁止情形】7月16日，民政部、中央社會工作部公佈《社會組織評比表彰活動管理辦法》，明確社會組織評比表彰活動邊界、實施評比表彰專案的行為規範和禁止情形等。辦法自2026年8月1日起施行，原《社會組織評比達標表彰活動管理辦法》同時廢止。辦法明確，社會組織開展評比表彰專案清單之外的5類活動，不得以表彰、評選評獎等方式開展，不得以發文、授牌等形式認定命名。這5類活動包括業務活動範圍內的展示交流、學術評議、論文收錄、案例推薦及其他有關認定評定，行業、領域可公開資料資訊釋出，體育比賽、技能競賽、練兵比武等比賽競賽，改革試點、試驗、先行工作等。辦法要求，未經批准，社會組織不得開展以市、縣、鄉鎮（街道）、村（社群）等為物件的“城市”“之鄉”“基地”等授牌命名活動，不得開展包含“國家”“中國”“中華”“亞洲”“全球”等類似含義字樣，以及雖未冠以相關字樣但實質是具有類似含義的評比表彰活動，不得借舉辦峰會、論壇、盛典、慶典、展會等活動進行頒獎表彰、認定命名等7類活動。在組織實施評比表彰專案方面，辦法明確，社會組織不得面向各級黨委、政府或者黨政機關開展，一般不以黨政機關領導幹部或者事業單位領導人員為評選物件；不得與營利性組織合作開展或者委託營利性組織開展；不得收取或者變相收取任何費用等9項禁止情形。（新華社）"
-    },
-    {
-      "id": "4992067",
-      "time": "2026-07-16 18:02:38",
-      "tags": [
-        "其他"
-      ],
-      "text": "【安徽省黃山市委原常委、市政府原常務副市長王趙春接受審查調查】據安徽省紀委監委訊息：安徽省黃山市委原常委、市政府原常務副市長王趙春涉嫌嚴重違紀違法，目前正接受安徽省紀委監委紀律審查和監察調查。"
-    },
-    {
-      "id": "4992066",
-      "time": "2026-07-16 18:01:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：澤連斯基提名出任烏克蘭新任國防部長的候選人、烏克蘭內政部長伊霍爾・克利緬科，據悉未能獲得足夠票數支援。"
-    },
-    {
-      "id": "mkt:019f6a5e-d049-7aab-8dc5-0d00b06c984c",
-      "time": "2026-07-16 18:00:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Jiangsu unveils 15 measures to support firms' overseas patent佈局】Jiangsu province released 15 targeted measures to strengthen firms' overseas patent layouts and boost international IP competitiveness. Measures are grouped into five areas: industrial innovation quality, targeted enterprise guidance, professional service support, international cooperation and talent development, and enhanced coordination. The plan targets firms within Jiangsu’s '1650' industry framework and '51010' strategic emerging clusters; about 80 companies a year will receive 'patent micro-navigation' and bespoke R&D and overseas patenting plans. Authorities will compile a key list of outbound firms and implement one-company-one-policy tracking, aiming to provide services to at least 200 companies annually."
-    },
-    {
-      "id": "4992065",
-      "time": "2026-07-16 17:59:53",
-      "tags": [
-        "國際"
-      ],
-      "text": "【俄烏進行新一輪陣亡軍人遺體交換】據白俄羅斯方面7月16日訊息，俄羅斯和烏克蘭當天在白俄羅斯戈梅利州邊境地區完成了新一輪陣亡軍人遺體交換。俄方向烏方移交了501具遺體，烏方向俄方移交了31具遺體。訊息稱，白俄羅斯將繼續為俄烏兩國交換戰俘、平民以及陣亡軍人遺體提供安全通道和場地，保障相關交換工作的組織與實施。（央視新聞）"
-    },
-    {
-      "id": "4992064",
-      "time": "2026-07-16 17:59:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇加強海外專利佈局，15條舉措助企“走得穩、走得遠”】7月16日，江蘇省政府召開新聞釋出會，解讀省政府辦公廳近日印發的《關於加強海外專利佈局的實施意見》（簡稱《意見》）。《意見》圍繞產業創新、企業輔導、專業服務、國際合作和統籌保障等方面提出15條舉措，著力破解企業海外專利佈局方向不清、能力不足、成本較高、風險較大等難題，為江蘇企業拓展海外市場構築專利屏障。"
-    },
-    {
-      "id": "4992063",
-      "time": "2026-07-16 17:58:59",
-      "tags": [
-        "公司",
-        "市場",
-        "國際"
-      ],
-      "text": "【韓國股市再度暴跌 日本股市顯著下跌】韓國綜合股價指數（KOSPI）16日大幅下跌6.37%，再度失守7000點整數關口，收於6820.60點。日本東京股市兩大股指當天也顯著下跌。受中東局勢持續升級引發市場對地區能源供應擔憂，以及人工智慧概念股估值憂慮再度升溫等因素影響，韓國股市當天大幅低開並持續走低，KOSPI盤中跌幅一度超過7%。當天早些時候，因韓國KOSPI200指數期貨劇烈波動，韓國證券交易所今年以來第37次啟動“臨時停牌”措施，暫停程式化交易賣出操作5分鐘。受隔夜紐約股市SK海力士美國存託憑證暴跌影響，韓國股市科技股16日遭遇集中拋售，三星電子收跌8.77%，SK海力士收跌11.53%。與此同時，韓國銀行（中央銀行）釋放正式進入加息週期的訊號，進一步加劇了市場拋售情緒。韓國銀行金融貨幣委員會當天決定，將基準利率由2.50%上調至2.75%，加息25個基點。面對市場持續劇烈波動，韓國金融監管部門當天公佈針對單一股票交易型開放式指數基金（ETF）的監管措施。根據方案，投資此類產品所需基礎保證金將由1000萬韓元提高至3000萬韓元（1美元約合1479韓元），且必須全部以現金繳納。此外，產品最小交易單位也有所提高。日本東京股市兩大股指16日也顯著下跌，日經225種股票平均價格指數收盤下跌2.79%，東京證券交易所股票價格指數下跌1.45%。（新華社）"
     }
   ]
 }
