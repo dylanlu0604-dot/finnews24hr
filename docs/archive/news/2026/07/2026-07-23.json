@@ -1,7 +1,295 @@
 {
   "date": "2026-07-23",
-  "count": 3260,
+  "count": 3288,
   "items": [
+    {
+      "id": "mkt:019f8f2e-7744-7aab-8e6c-ebd60d4d74b3",
+      "time": "2026-07-23 21:33:34",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Tesla (TSLA.O) share decline widens to 10%."
+    },
+    {
+      "id": "5004957",
+      "time": "2026-07-23 21:33:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：黑石集團預計到 2027 年基礎管理費將實現兩位數增長。"
+    },
+    {
+      "id": "mkt:019f8f2e-4525-7aab-8e6c-e177d1ee0c95",
+      "time": "2026-07-23 21:33:21",
+      "tags": [
+        "MKT News",
+        "SKHY.O",
+        "Impact bullish"
+      ],
+      "text": "SK Hynix (SKHY.O) rose more than 3% after reports said the company set a 2.5% cap on the proportion of its Korean shares that can be converted into American Depositary Receipts."
+    },
+    {
+      "id": "mkt:019f8f2e-2452-7aab-8e6c-db1275c6174e",
+      "time": "2026-07-23 21:33:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Three large crude tankers exit Strait of Hormuz】Over the past 24 hours three large crude tankers carrying about 6 mln barrels of oil left the Persian Gulf via the Strait of Hormuz. One loaded in Iraq, one in Qatar and one in the UAE; all three had their automatic identification systems (AIS) switched off, making them harder to monitor and reducing their risk of attack."
+    },
+    {
+      "id": "5004956",
+      "time": "2026-07-23 21:33:10",
+      "tags": [
+        "公司"
+      ],
+      "text": "MOBILEYE GLOBAL股價暴跌9.3%；創始人AMNON SHASHUA將卸任CEO一職。"
+    },
+    {
+      "id": "mkt:019f8f2d-d742-7aab-8e6c-d2e714c846ff",
+      "time": "2026-07-23 21:32:53",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【LG Energy Solution sues EVE Energy in US over battery patents; EVE says no formal notice】On July 22 (US time) South Korea's LG Energy Solution filed a patent infringement suit in the US against China's EVE Energy and asked the US International Trade Commission (ITC) for an import exclusion. YONHAP reported the case cites five patents — four tied to cylindrical/tabless battery technology and one to battery separators — and alleges the accused cells are already widely used in the US power-tool market. EVE Energy said it has not received formal legal papers and its internal review found no evidence of infringement."
+    },
+    {
+      "id": "mkt:019f8f2d-a7f7-7aab-8e6c-ceda1c7c72f7",
+      "time": "2026-07-23 21:32:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President Lagarde's press conference has ended."
+    },
+    {
+      "id": "5004955",
+      "time": "2026-07-23 21:32:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "IMAX股價上漲高達12%，創5月22日以來最大漲幅。"
+    },
+    {
+      "id": "5004954",
+      "time": "2026-07-23 21:32:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "特斯拉股價下跌10%，此前該公司盈利不及預期，資本支出前景也令人擔憂。"
+    },
+    {
+      "id": "5004953",
+      "time": "2026-07-23 21:31:55",
+      "tags": [
+        "市場"
+      ],
+      "text": "T-MOBILE股價下跌8.8%，創2025年4月以來最大跌幅。"
+    },
+    {
+      "id": "mkt:019f8f2c-d519-7aab-8e6c-c04fe0ac7dd0",
+      "time": "2026-07-23 21:31:47",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde: medium-term inflation expectations remain well anchored."
+    },
+    {
+      "id": "5004952",
+      "time": "2026-07-23 21:31:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "庫穆魯賽公司與 AI 推理平臺服務商簽署價值 3200 萬美元、為期兩年的英偉達 Blackwell B300 採購協議。"
+    },
+    {
+      "id": "mkt:019f8f2c-74c9-7aab-8e6c-b9d733be33d9",
+      "time": "2026-07-23 21:31:23",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Dow",
+        "Impact bearish",
+        "S&P500",
+        "Nasdaq100"
+      ],
+      "text": "U.S. equities opened sharply lower on Thursday, July 23: the Dow Jones Industrial Average fell 626.57 points (-1.20%) to 51,592.01; the S&P 500 dropped 85.28 points (-1.14%) to 7,413.76; the Nasdaq Composite slipped 453.43 points (-1.77%) to 25,237.48."
+    },
+    {
+      "id": "5004951",
+      "time": "2026-07-23 21:31:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "RTX股價開盤上漲5.2%；洛克希德·馬丁股價上漲6%。"
+    },
+    {
+      "id": "te:markets:569323",
+      "time": "2026-07-23 21:31:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lowe's Companies Stock Price Hits 31-month Low — Lowe's Companies shares decreased to 200.27 USD, the lowest since December 2023. Over the past 4 weeks, Lowe's Companies lost 6.1%, and in the last 12 months, it decreased 12.29%."
+    },
+    {
+      "id": "5004950",
+      "time": "2026-07-23 21:31:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALPHABET股價下跌6.4%，市值蒸發2650億美元。"
+    },
+    {
+      "id": "5004949",
+      "time": "2026-07-23 21:30:57",
+      "tags": [
+        "其他"
+      ],
+      "text": "ALBERTSONS股價暴跌16%，創2022年以來最大跌幅，跌至歷史新低。"
+    },
+    {
+      "id": "5004948",
+      "time": "2026-07-23 21:30:48",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【美股開盤：三大股指齊跌】道指跌1.10%，標普500指數跌1.13%，納指跌1.82%。Rollins Inc跌15.83%，美國都福集團跌7.75%，T MOBILE US INC跌6.71%，德州儀器跌5.74%。“七姐妹”方面：微軟跌0.50%，蘋果跌1.39%，英偉達跌1.41%，Meta Platforms跌2.94%，亞馬遜跌3.38%，谷歌跌5.56%，特斯拉跌9.74%。"
+    },
+    {
+      "id": "5004947",
+      "time": "2026-07-23 21:30:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：中期通脹預期牢牢企穩。"
+    },
+    {
+      "id": "te:markets:569322",
+      "time": "2026-07-23 21:30:37",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Vertex Pharmaceuticals Stock Price Hits 4-week Low — Vertex Pharmaceuticals shares decreased to 465.80 USD, the lowest since June 2026. Over the past 4 weeks, Vertex Pharmaceuticals lost 0.33%, and in the last 12 months, it decreased 2.11%."
+    },
+    {
+      "id": "te:markets:569321",
+      "time": "2026-07-23 21:30:36",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walt Disney Stock Price Hits 16-week Low — Walt Disney shares decreased to 94.07 USD, the lowest since March 2026. Over the past 4 weeks, Walt Disney lost 8.68%, and in the last 12 months, it decreased 23.1%."
+    },
+    {
+      "id": "mkt:019f8f2b-baef-7aab-8e6c-b4cdefd3de0b",
+      "time": "2026-07-23 21:30:35",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "GOOG.O",
+        "Nasdaq100"
+      ],
+      "text": "【U.S. stocks open lower; Tesla down about 9%】U.S. equities opened lower: Dow -0.92%, S&P 500 -1.12%, Nasdaq -1.75%. Tesla (TSLA.O) opened about 9% lower after earnings as quarterly profit missed expectations and free cash flow turned negative for the first time in over two years. Alphabet (GOOG.O) fell about 6% after raising full-year capex guidance and warning cash-flow pressure will persist."
+    },
+    {
+      "id": "5004946",
+      "time": "2026-07-23 21:30:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【航行警告！東海海域軍事演習】據中國海事局網站訊息，浙江海事局釋出航行警告，7月24日4時至25日18時，東海部分海域進行軍事訓練，禁止駛入。"
+    },
+    {
+      "id": "te:markets:569320",
+      "time": "2026-07-23 21:30:25",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Lockheed Martin Stock Price Hits 5-week High — Lockheed Martin shares increased to 549.29 USD, the highest since June 2026. Over the past 4 weeks, Lockheed Martin gained 2.25%, and in the last 12 months, it increased 22.8%."
+    },
+    {
+      "id": "te:markets:569319",
+      "time": "2026-07-23 21:30:11",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Tesla Stock Price Hits 15-week Low — Tesla shares decreased to 338.86 USD, the lowest since April 2026. Over the past 4 weeks, Tesla lost 10.97%, and in the last 12 months, it increased 2.16%."
+    },
+    {
+      "id": "te:economy:569318",
+      "time": "2026-07-23 21:30:05",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Interest Rate",
+        "Importance 2"
+      ],
+      "text": "South Africa Unexpectedly Keeps Rates Steady — The South African Reserve Bank kept its key repo rate unchanged at 7% on July 23, surprising most analysts who had expected a 25-basis-point increase, as policymakers sought to support a fragile economic recovery despite persistent inflation risks. The Monetary Policy Committee voted 4–2 to hold rates, citing a slightly improved inflation outlook and weaker growth, while reaffirming its objective of steering inflation toward its 3% target over time. Governor Lesetja Kganyago warned that renewed conflict in the Middle East, which has driven up oil and fertilizer prices, could warrant further tightening if higher fuel costs spill over into food prices and core inflation. South Africa’s annual inflation accelerated to 5% in June, although the central bank now expects inflation to average 4% in 2026, down from its previous forecast of 4.4%. The SARB also raised its 2026 growth forecast to 1.4% from 1.2%, while cautioning that economic momentum could weaken in the coming quarters."
+    },
+    {
+      "id": "te:markets:569317",
+      "time": "2026-07-23 21:29:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Alphabet Stock Price Hits 14-week Low — Alphabet shares decreased to 320.94 USD, the lowest since April 2026. Over the past 4 weeks, Alphabet lost 1.18%, and in the last 12 months, it increased 79.8%."
+    },
+    {
+      "id": "mkt:019f8f2b-067e-7aab-8e6c-ac42389bb94a",
+      "time": "2026-07-23 21:29:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "ECB President Lagarde said she is concerned about the risk of second-round effects."
+    },
     {
       "id": "5004945",
       "time": "2026-07-23 21:29:17",
