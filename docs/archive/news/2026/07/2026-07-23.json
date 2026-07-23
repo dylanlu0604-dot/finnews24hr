@@ -1,7 +1,129 @@
 {
   "date": "2026-07-23",
-  "count": 900,
+  "count": 912,
   "items": [
+    {
+      "id": "5003386",
+      "time": "2026-07-23 09:44:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "【武漢：上半年全市地區生產總值11236.42億元 同比增長5.7%】武漢市統計局、國家統計局武漢調查隊釋出2026年上半年武漢市經濟執行情況，根據湖北省市州生產總值統一核算結果，初步核算，上半年全市地區生產總值（GDP）11236.42億元，按不變價格計算，同比增長5.7%。分產業看，第一產業增加值192.83億元，增長3.3%；第二產業增加值3815.69億元，增長8.9%；第三產業增加值7227.90億元，增長4.2%。"
+    },
+    {
+      "id": "mkt:019f8ca5-13b5-7aab-8e57-02284362ef56",
+      "time": "2026-07-23 09:44:16",
+      "tags": [
+        "MKT News",
+        "01072.HK",
+        "Impact bullish",
+        "01133.HK",
+        "02208.HK"
+      ],
+      "text": "Hong Kong-listed power-equipment stocks rallied: Dongfang Electric (01072.HK) rose over 5%, Harbin Electric (01133.HK) gained over 4%; Weichai Power (02338.HK), Goldwind (02208.HK) and Tianneng Power (00819.HK) also advanced."
+    },
+    {
+      "id": "5003385",
+      "time": "2026-07-23 09:43:53",
+      "tags": [
+        "公司"
+      ],
+      "text": "【兩部門部署開展汛期災害事故違法不良資訊集中清理整治】從中央網信辦獲悉，為進一步規範汛期災害事故資訊釋出行為，防止違法不良資訊誤導公眾、干擾救援秩序，中央網信辦和應急管理部近日聯合印發通知，在全國範圍內部署開展汛期災害事故違法不良資訊集中清理整治，重點整治五類突出問題。五類突出問題為移花接木與惡意剪輯、舊聞翻炒與歷史嫁接、誇大其詞與虛構資料、編造險情與冒充權威、技術偽造與藉機詐騙，包括杜撰編造受災情況，刻意捏造誇大傷亡人數、房屋損毀數量、經濟損失規模等核心資料，或篡改災害等級、虛構次生災害，干擾救援秩序；盜用官方機構、主流媒體名義或標識，偽造公文格式，釋出虛假公告；利用AI生成、拼湊剪輯、劇情擺拍等手段，製作災情圖片或影片，杜撰事故現場、救援細節等。通知要求，各地網信部門要聚焦災害事故違法不良資訊典型問題及隱形變異問題，開展全面排查，督導網站平臺壓實主體責任，健全內容稽核及賬號管理機制。各地應急管理部門要加強協同聯動，確保清理整治工作取得實效。（新華社）"
+    },
+    {
+      "id": "te:economy:569034",
+      "time": "2026-07-23 09:42:58",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Employment Change",
+        "Importance 1"
+      ],
+      "text": "Australia Employment Hits Fresh Peak — Employment in Australia rose by 76,300 to a record high of 14.82 million in June 2026, accelerating sharply from an upwardly revised 43,900 increase in May and easily surpassing market expectations for a 15,000 gain. It marked the strongest monthly job growth since April, driven by a 29,300 increase in full-time employment to 10.17 million and a 47,000 rise in part-time employment to 4.65 million. Reflecting the robust labor market, the employment-to-population ratio climbed to 64.0% from 63.7%, extending gains for a second consecutive month, while the participation rate increased to 67.0% from 66.7%. Compared with a year earlier, total employment was up by 252,000, or 1.7%."
+    },
+    {
+      "id": "te:markets:569033",
+      "time": "2026-07-23 09:42:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "EU Gas Extends Rally on Winter Supply Risks — European natural gas prices extended rally on Thursday, climbing toward €63 as escalating hostilities in the Middle East heightened concerns over Europe's LNG security ahead of winter. The US and Iran continued to trade strikes, with both sides playing down the prospect of peace talks, raising the risk of prolonged disruptions to energy exports from the region. Iran-backed Houthi militants also entered the conflict, claiming to have targeted two Saudi Arabian tankers in the Red Sea. EU gas prices are now at levels seen during the peak of the conflict, as reduced LNG supplies from the Persian Gulf increase competition with Asian buyers, while high temperatures across Europe are boosting power demand. Equinor, Europe's largest gas supplier, warned that the bloc is unlikely to reach its 80% gas storage target before the heating season, leaving the market more vulnerable to sharp price volatility when colder weather arrives."
+    },
+    {
+      "id": "5003384",
+      "time": "2026-07-23 09:42:49",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "碳酸鋰連續主力合約日內漲4%，現報147060.00元。"
+    },
+    {
+      "id": "mkt:019f8ca3-9bef-7aab-8e56-fc2d1273aad6",
+      "time": "2026-07-23 09:42:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share gas sector spiked intraday; Shuifa Gas hit the daily trading limit, while Kaitian Gas, Shengda Forestry, Hongtong Gas, Lantian Gas and Foran Energy also advanced."
+    },
+    {
+      "id": "mkt:019f8ca3-443f-7aab-8e56-f253639d114a",
+      "time": "2026-07-23 09:42:17",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share perovskite solar panel names opened firmer; Tuori New Energy hit the daily limit, Guosheng Technology rose more than 3%, while Inno Laser, Xizi Clean Energy, Longhua Technology, Zhonglai and Jushi Chemical also advanced. The Renewable Energy Development 15th Five-Year Plan calls for accelerating R&D and industrial-scale production technologies for high-efficiency photovoltaics including perovskite tandem cells, studying space-based solar power and advancing validation of key technologies."
+    },
+    {
+      "id": "mkt:019f8ca3-37e0-7aab-8e56-efbf6baf1358",
+      "time": "2026-07-23 09:42:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "Lithium carbonate most-active contract extended intraday gains to 3.58%, trading at 146,500 yuan/tonne."
+    },
+    {
+      "id": "5003383",
+      "time": "2026-07-23 09:42:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中煤能源在西安成立供應鏈管理公司】企查查APP顯示，近日，中煤能源供應鏈管理（西安）有限責任公司成立，經營範圍包含：計算機軟硬體及輔助裝置零售；電子產品銷售；五金產品零售；建築裝飾材料銷售等。企查查股權穿透顯示，該公司由中煤能源(601898)間接全資持股。"
+    },
+    {
+      "id": "5003382",
+      "time": "2026-07-23 09:41:19",
+      "tags": [
+        "市場"
+      ],
+      "text": "【燃氣板塊短線拉昇 水發燃氣漲停】燃氣板塊短線拉昇，水發燃氣漲停，凱添燃氣、升達林業、洪通燃氣、藍天燃氣、佛燃能源等紛紛走高。"
+    },
+    {
+      "id": "5003381",
+      "time": "2026-07-23 09:41:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "算力租賃概念反覆活躍，證通電子3連扳，鴻博股份漲停，利通電子、浪潮資訊、銅牛資訊、行雲科技漲幅居前。"
+    },
     {
       "id": "5003380",
       "time": "2026-07-23 09:40:40",
