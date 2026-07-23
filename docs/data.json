@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-23 23:57:42",
-  "count": 18033,
+  "updated": "2026-07-24 00:02:26",
+  "count": 18030,
   "items": [
+    {
+      "id": "5005164",
+      "time": "2026-07-24 00:00:22",
+      "tags": [
+        "國際"
+      ],
+      "text": "房地美：美國上週30年期按揭貸款/抵押貸款利率6.58%，前值6.55%。"
+    },
+    {
+      "id": "5005163",
+      "time": "2026-07-24 00:00:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "以色列媒體：在緊張局勢加劇之際，明天上午將以色列總理辦公室將舉行一次小範圍的安全討論。"
+    },
+    {
+      "id": "5005162",
+      "time": "2026-07-23 23:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯媒體報道，科威特發生爆炸事件。"
+    },
+    {
+      "id": "5005161",
+      "time": "2026-07-23 23:58:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國2/10年期國債收益率漲約7個基點】週四（7月23日）歐市尾盤，英國10年期國債收益率漲6.9個基點，報5.104%，北京時間19:00以來加速上漲、23:32達到5.122%。兩年期英債收益率漲6.8個基點，報4.490%，23:32也重新整理日高至4.507%。30年期英債收益率漲5.1個基點，50年期英債收益率漲3.3個基點。2/10年期英債收益率利差漲0.246個基點，報+61.427個基點。"
+    },
+    {
+      "id": "5005160",
+      "time": "2026-07-23 23:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：美國想要懲罰伊朗，卻用三位數的油價懲罰了自己，這個策略我給10分。"
+    },
+    {
+      "id": "te:markets:569350",
+      "time": "2026-07-23 23:57:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Fall Sharply — European stocks closed sharply lower on Thursday, as the surge in energy prices risked higher interest rates in the Eurozone, while markets parsed a series of earnings results. The Euro STOXX 50 fell 1.7% to 6,210 and the STOXX Europe 600 dropped 1.3% to 638. UniCredit sank 4.8% despite posting results that reflected a strong quarter, as its ambition to acquire Germany's Commerzbank jeopardized its share buyback program. Meanwhile, BNP Paribas lost 2.8% despite beating profit estimates, tracking other banks after amid tighter financial conditions. The ECB held rate unchanged, as expected, and signaled that pro-inflationary risks may warrant more rate hikes in the future. Such risks were consolidated by a surge in gas prices as escalation to the US-Iran war further dented tanker flows from the region. Meanwhile, luxury stocks fell with LVMH, Hermes, and Ferrari dropping over 3.5%, pressured by poor results from Moncler."
+    },
     {
       "id": "5005159",
       "time": "2026-07-23 23:55:46",
@@ -165202,89 +165254,6 @@
         "國際"
       ],
       "text": "市場訊息：馬薩諸塞州總檢察長打算就取消風電租賃合同一事起訴特朗普政府。"
-    },
-    {
-      "id": "4992731",
-      "time": "2026-07-17 00:02:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌幅達1.0%，報4005.81美元/盎司。"
-    },
-    {
-      "id": "4992730",
-      "time": "2026-07-17 00:01:23",
-      "tags": [
-        "市場"
-      ],
-      "text": "加拿大2059年到期票面利率3.750%國債拍賣收益率區間為3.89%（低位）至3.988%（高位）。"
-    },
-    {
-      "id": "mkt:019f6ba8-c99c-7aab-8dcc-e8eb44d6bc97",
-      "time": "2026-07-17 00:00:51",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US10Y",
-        "Impact bullish",
-        "DXY",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fannie Mae: U.S. 30-year fixed-rate mortgage averaged 6.55% in the week ending July 16, up from 6.49% the prior week and the highest since Aug. 28, 2025."
-    },
-    {
-      "id": "4992729",
-      "time": "2026-07-17 00:00:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國30年期固定利率升至6.55%，為2025年8月以來最高水平。"
-    },
-    {
-      "id": "4992728",
-      "time": "2026-07-17 00:00:27",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗稱阿巴斯港附近遭美國導彈襲擊】當地時間7月16日，伊朗霍爾木茲甘省政府釋出訊息稱，阿巴斯港附近區域遭到美國導彈襲擊。（央視新聞）"
-    },
-    {
-      "id": "4992727",
-      "time": "2026-07-16 23:58:45",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "GAMESTOP CEO 發表講話後，EBAY 股價跌至盤中低點 1.4%。"
-    },
-    {
-      "id": "4992726",
-      "time": "2026-07-16 23:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國將F、J簽證的停留期限限制為四年。"
-    },
-    {
-      "id": "mkt:019f6ba6-73ea-7aab-8dcc-e4f59380c815",
-      "time": "2026-07-16 23:58:18",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "Iranian media Fars News reported a US missile struck a target near Abbas Port."
-    },
-    {
-      "id": "4992725",
-      "time": "2026-07-16 23:58:17",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國發布關於部分學生簽證有效期的最終規定。"
     }
   ]
 }

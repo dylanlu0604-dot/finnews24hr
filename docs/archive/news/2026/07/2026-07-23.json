@@ -1,7 +1,43 @@
 {
   "date": "2026-07-23",
-  "count": 3619,
+  "count": 3623,
   "items": [
+    {
+      "id": "5005162",
+      "time": "2026-07-23 23:59:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "阿拉伯媒體報道，科威特發生爆炸事件。"
+    },
+    {
+      "id": "5005161",
+      "time": "2026-07-23 23:58:58",
+      "tags": [
+        "市場"
+      ],
+      "text": "【英國2/10年期國債收益率漲約7個基點】週四（7月23日）歐市尾盤，英國10年期國債收益率漲6.9個基點，報5.104%，北京時間19:00以來加速上漲、23:32達到5.122%。兩年期英債收益率漲6.8個基點，報4.490%，23:32也重新整理日高至4.507%。30年期英債收益率漲5.1個基點，50年期英債收益率漲3.3個基點。2/10年期英債收益率利差漲0.246個基點，報+61.427個基點。"
+    },
+    {
+      "id": "5005160",
+      "time": "2026-07-23 23:58:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗議長卡利巴夫：美國想要懲罰伊朗，卻用三位數的油價懲罰了自己，這個策略我給10分。"
+    },
+    {
+      "id": "te:markets:569350",
+      "time": "2026-07-23 23:57:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Fall Sharply — European stocks closed sharply lower on Thursday, as the surge in energy prices risked higher interest rates in the Eurozone, while markets parsed a series of earnings results. The Euro STOXX 50 fell 1.7% to 6,210 and the STOXX Europe 600 dropped 1.3% to 638. UniCredit sank 4.8% despite posting results that reflected a strong quarter, as its ambition to acquire Germany's Commerzbank jeopardized its share buyback program. Meanwhile, BNP Paribas lost 2.8% despite beating profit estimates, tracking other banks after amid tighter financial conditions. The ECB held rate unchanged, as expected, and signaled that pro-inflationary risks may warrant more rate hikes in the future. Such risks were consolidated by a surge in gas prices as escalation to the US-Iran war further dented tanker flows from the region. Meanwhile, luxury stocks fell with LVMH, Hermes, and Ferrari dropping over 3.5%, pressured by poor results from Moncler."
+    },
     {
       "id": "5005159",
       "time": "2026-07-23 23:55:46",
