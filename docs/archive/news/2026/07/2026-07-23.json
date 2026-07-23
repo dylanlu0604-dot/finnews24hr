@@ -1,7 +1,103 @@
 {
   "date": "2026-07-23",
-  "count": 993,
+  "count": 1003,
   "items": [
+    {
+      "id": "mkt:019f8ccb-f6e4-7aab-8e57-b1eb76b4debc",
+      "time": "2026-07-23 10:26:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "Copper",
+        "CNH"
+      ],
+      "text": "【Guangdong: 1H industrial robot output +34.2% YoY】Guangdong 1H industrial robot output rose 34.2% YoY; integrated circuit output climbed 29.7% YoY. Industrial value added at enterprises above designated size increased 5.8% YoY in 1H; by sector mining +8.8%, manufacturing +5.4%, utilities (power/heat/gas/water) +8.9%. By industry, computer, communications and other electronic equipment manufacturing +11.6% YoY, electrical machinery and equipment +4.2%, automobile manufacturing +9.9%."
+    },
+    {
+      "id": "5003445",
+      "time": "2026-07-23 10:26:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【第33屆東盟地區論壇在菲律賓馬尼拉舉行】當地時間23日，第33屆東盟地區論壇在菲律賓馬尼拉舉行。與會各國外長就地區政治安全問題舉行磋商。（央視新聞）"
+    },
+    {
+      "id": "5003444",
+      "time": "2026-07-23 10:26:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【海興電力等成立智聯科技新公司】企查查APP顯示，近日，杭州辰光智聯科技有限公司成立，經營範圍包含半導體照明器件銷售；新興能源技術研發；儲能技術服務；智慧控制系統整合等。企查查股權穿透顯示，該公司由海興電力(603556)等共同持股。"
+    },
+    {
+      "id": "5003443",
+      "time": "2026-07-23 10:26:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東：上半年工業機器人產品產量同比增長34.2%】據廣東統計資訊網，上半年，全省規模以上工業增加值同比增長5.8%。分門類看，上半年，採礦業增加值同比增長8.8%，製造業增加值增長5.4%，電力、熱力、燃氣及水生產和供應業增加值增長8.9%。分行業看，上半年，計算機、通訊和其他電子裝置製造業增加值同比增長11.6%，電氣機械和器材製造業增加值增長4.2%，汽車製造業增加值增長9.9%。分產品看，上半年，工業機器人產品產量同比增長34.2%，積體電路增長29.7%。"
+    },
+    {
+      "id": "mkt:019f8cca-c0b4-7aab-8e57-abe24fbbd240",
+      "time": "2026-07-23 10:25:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals"
+      ],
+      "text": "【Electrochemical additive manufacturing integrates Omega‑channel heat pipe with graded copper wick; doubles capillary force and single‑pipe cooling power】Researchers at the Institute of Metal Research, Chinese Academy of Sciences, together with the Belarusian National Academy of Sciences’ Science‑Practice Materials Research Center and Jiangxi Naile Copper Co., have developed an electrochemical deposition additive‑manufacturing process to in‑situ grow porous copper wicks on Omega‑channel surfaces. Atomic‑scale stacking control produces tunable pore‑size gradients from nanometre to micrometre scales; the resulting gradient electrochemical wick delivers roughly 2x the capillary force of conventional copper‑powder sintered wicks and doubles single‑pipe heat‑dissipation power versus standard grooved tubes. The method addresses integrated manufacturing of Omega channels with graded wicks and is presented as enabling next‑generation high‑thermal‑conductivity copper heat pipes for AI compute‑center cooling."
+    },
+    {
+      "id": "5003442",
+      "time": "2026-07-23 10:25:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【基於電化學沉積增材製造的新型熱管和梯度吸液芯結構一體化製造研究取得重要進展】據中國科學院金屬研究所訊息，近期材料控形控性研究部銅基材料與均質化課題組聯合白俄羅斯國家科學院科學-實踐材料研究中心和江西耐樂銅業有限公司，共同開發了電化學沉積增材製造技術，可在Ω槽道表面高效率原位生長多孔銅吸液芯結構，利用原子級堆垛方法實現了多孔銅孔徑從奈米到微米梯度分佈的可控調節。利用該方法制備的電化學增材梯度吸液芯結構的毛細力比傳統銅粉燒結吸液芯結構提高了2倍，帶有梯度吸液芯結構的Ω槽道比傳統溝槽管的單管可散熱功率提高了1倍。該方法解決了Ω槽道與梯度吸液芯結構的一體化製造難題，為新一代高導熱銅熱管在AI算力中心散熱中的應用提供了有力支撐。"
+    },
+    {
+      "id": "5003441",
+      "time": "2026-07-23 10:24:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張雪峰女兒張姩菡再接手三家公司股份】天眼查APP顯示，近日，蘇州峰學蔚來教育科技有限公司、蘇州峰閱萬卷文化圖書有限公司、蘇州峰峰火火闖九州旅行社有限責任公司發生工商變更，張子彪（張雪峰）退出股東、法定代表人等職務，新增劉巧麗、張姩菡為股東。"
+    },
+    {
+      "id": "5003440",
+      "time": "2026-07-23 10:24:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【長江商學院：7月中國企業經營狀況指數回升至50.1】長江商學院週四公佈的7月中國企業經營狀況指數（BCI ）錄得50.1，較6月的48.7小幅回升。該指數由四個分指數以算術平均的方式構成。本月四個分指數出現三升一降的局面。企業銷售前瞻指數由上月的57.3升至本月的60.0。企業利潤前瞻指數本月為45.7，上月為42.7。企業融資環境指數本月為44.3，上個月為47.9。企業庫存前瞻指數本月為50.3，上月為46.8。除上述四項指數，長江商學院在問卷中詢問了企業對成本、價格情況的預期。本月企業用工成本前瞻指數出現了明顯上升，上月該指數為63.6，本月為70.4。企業總成本前瞻指數本月出現了小幅上升，上月為68.2，本月為70.4。消費品價格前瞻指數本月出現了小幅上升，上月的指數為44.6，本月為46.6。"
+    },
+    {
+      "id": "5003439",
+      "time": "2026-07-23 10:24:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超1萬億元，較上日此時縮量2655億元。"
+    },
+    {
+      "id": "mkt:019f8cc8-d051-7aab-8e57-a5e9af1b6059",
+      "time": "2026-07-23 10:23:18",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "000300.SS",
+        "Impact bullish",
+        "000001.SS"
+      ],
+      "text": "China A-share power-grid equipment sector rallied; Yikun Electric, Zhongneng Electric, Han Cable, Xinya Cable and Hangdian hit daily limit-up, while Hongyuan, Tongguang Cable, Yangdian Technology and Heshun Electric rose. The 15th Five-Year Plan for Renewable Energy Development calls for improved coordinated planning and construction mechanisms for new energy, the grid and flexibility resources, and for appropriately advancing grid infrastructure construction ahead of schedule."
+    },
     {
       "id": "5003438",
       "time": "2026-07-23 10:22:42",
