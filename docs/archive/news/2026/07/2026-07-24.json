@@ -1,7 +1,88 @@
 {
   "date": "2026-07-24",
-  "count": 170,
+  "count": 179,
   "items": [
+    {
+      "id": "mkt:019f902a-3185-7aab-8e71-5b1b963a9f96",
+      "time": "2026-07-24 02:08:31",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Head of the International Maritime Organization said the agency is seriously concerned about pollution risks from reported incidents in the Red Sea and earlier incidents in the Strait of Hormuz."
+    },
+    {
+      "id": "5005300",
+      "time": "2026-07-24 02:07:16",
+      "tags": [
+        "宏觀",
+        "焦點",
+        "國際"
+      ],
+      "text": "美國財政部：對古巴實施新制裁。"
+    },
+    {
+      "id": "5005299",
+      "time": "2026-07-24 02:07:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際海事組織秘書長：對紅海這些已報告事件以及霍爾木茲海峽地區此前事件潛在汙染問題同樣關切。"
+    },
+    {
+      "id": "mkt:019f9028-cc5a-7aab-8e71-532bc115a0c7",
+      "time": "2026-07-24 02:07:00",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Treasury announces new sanctions on Cuba."
+    },
+    {
+      "id": "5005298",
+      "time": "2026-07-24 02:06:59",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將芝商所目標價從324.00美元上調至330.00美元。"
+    },
+    {
+      "id": "mkt:019f9028-7cd6-7aab-8e71-4e4a6528b04e",
+      "time": "2026-07-24 02:06:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The head of the International Maritime Organization strongly condemned recent attacks targeting international shipping in the Red Sea region."
+    },
+    {
+      "id": "5005297",
+      "time": "2026-07-24 02:06:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "國際海事組織負責人：明確譴責紅海地區最新報道的國際航運襲擊事件。"
+    },
+    {
+      "id": "5005296",
+      "time": "2026-07-24 02:05:52",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "市場訊息：美國財政部收到163.04億美元的回購要約，接受了20億美元。"
+    },
+    {
+      "id": "5005295",
+      "time": "2026-07-24 02:04:40",
+      "tags": [
+        "市場",
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "【摩根士丹利：10年期日債逼近3%具吸引力，提供良好買入機會 】隨著日本國債收益率攀升至“令人瞠目”的水平，摩根士丹利認為當前10年期日本國債收益率接近3%提供了良好的買入機會。摩根士丹利全球宏觀策略主管Matthew Hornbach在接受採訪時表示：“如果10年期日本國債收益率達到3%，我肯定會考慮買入。我認為這看起來非常有吸引力。”他指出，若買入名義收益率為3%的債券，並假設未來10年日本基礎通脹率接近1%，那麼實際利率將高達2%。在全球債券市場中，這樣的實際收益率具有相當的競爭力，尤其是考慮到日本持續面臨的人口老齡化挑戰及其對生產率增速的負面影響。近期，由於市場擔憂日本央行在加息問題上行動遲緩，以及對日本政府債務可持續性的疑慮，長期日本國債遭到大幅拋售。目前，10年期日本國債收益率徘徊在2.80%附近，即本月早些時候觸及的近30年來最高水平。基於當前的宏觀環境，Hornbach預計日本國債收益率曲線將進一步陡化，並認為5年期至10年期國債區間目前最具投資價值。"
+    },
     {
       "id": "mkt:019f9026-817b-7aab-8e71-45afd0beeee1",
       "time": "2026-07-24 02:04:25",
