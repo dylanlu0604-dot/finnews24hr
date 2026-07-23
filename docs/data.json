@@ -1,7 +1,27 @@
 {
-  "updated": "2026-07-24 06:10:26",
-  "count": 17997,
+  "updated": "2026-07-24 06:14:21",
+  "count": 17995,
   "items": [
+    {
+      "id": "mkt:019f9109-0fc4-7aab-8e74-0c59a210b5bf",
+      "time": "2026-07-24 06:11:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "After the US announced new tariff measures, Mexico's economy minister EBRARD said Mexico's effective tariff rate has not changed."
+    },
+    {
+      "id": "5005432",
+      "time": "2026-07-24 06:11:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：在美國政府宣佈新增關稅後，“墨西哥實際繳納的關稅並未發生變化”。"
+    },
     {
       "id": "mkt:019f9103-7570-7aab-8e74-01d86054446a",
       "time": "2026-07-24 06:05:50",
@@ -164880,39 +164900,6 @@
         "Importance 1"
       ],
       "text": "FX Updates: Swedish Krona Drops by 0.58% — Top currency losers are Swedish Krona (-0.58%), British Pound (-0.48%), Swiss Franc (-0.44%), Euro (-0.17%) and Japanese Yen (-0.10%). Gains are led by South Korean Won (0.51%) and Dollar Index (0.24%)."
-    },
-    {
-      "id": "mkt:019f6cfe-a81f-7aab-8dd1-caa9c771e255",
-      "time": "2026-07-17 06:14:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Fars News Agency, citing Iraqi sources, reports a power outage affecting most of Erbil, Iraq."
-    },
-    {
-      "id": "4992996",
-      "time": "2026-07-17 06:11:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "【中報業績預告披露收官疊加海外情緒擾動 科技板塊震盪中孕育新機】7月16日，A股科技板塊遭遇劇烈震盪，科創50指數收盤下跌4.02%，電子、通訊板塊主力資金合計淨流出逾300億元。當前，半年報業績預告披露已經收官，資金對利好的兌現意願強烈，以光模組、半導體為代表的科技龍頭紛紛遭遇集中拋售。分析人士認為，本輪科技股調整主要受中報業績兌現及海外情緒傳導雙重因素影響，屬於市場正常的估值消化過程。從產業基本面看，AI及半導體領域的景氣趨勢並未發生改變，經過短期調整後，科技板塊中長期配置價值依然值得關注。（中證報）"
-    },
-    {
-      "id": "mkt:019f6cfb-a34a-7aab-8dd1-c1c4db7e16f2",
-      "time": "2026-07-17 06:10:58",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【US tightens maximum stay for foreign students, exchange visitors to four years】The US Department of Homeland Security on the 16th announced a rule limiting stays for foreign students and exchange visitors to a maximum of four years; extensions must be applied for through US Citizenship and Immigration Services (USCIS). Stays for foreign media representatives are also being shortened. DHS said the final rule will be published in the Federal Register within days and will take effect 60 days after publication."
-    },
-    {
-      "id": "4992995",
-      "time": "2026-07-17 06:10:38",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "【美國政府新規收緊國際學生等入境居留期限】美國國土安全部16日公佈一項新規，將外國學生、交流訪問者的入境居留期限規定為最高4年，若需延期則須向美國公民及移民服務局提出申請。外國媒體代表在美居留期限也被收緊。美國國土安全部說，最終規定將於未來幾天內刊登在《聯邦公報》上，並於刊登60天后生效。（新華社）"
     }
   ]
 }

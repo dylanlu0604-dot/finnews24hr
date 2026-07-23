@@ -1,7 +1,27 @@
 {
   "date": "2026-07-24",
-  "count": 410,
+  "count": 412,
   "items": [
+    {
+      "id": "mkt:019f9109-0fc4-7aab-8e74-0c59a210b5bf",
+      "time": "2026-07-24 06:11:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "After the US announced new tariff measures, Mexico's economy minister EBRARD said Mexico's effective tariff rate has not changed."
+    },
+    {
+      "id": "5005432",
+      "time": "2026-07-24 06:11:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "墨西哥經濟部長：在美國政府宣佈新增關稅後，“墨西哥實際繳納的關稅並未發生變化”。"
+    },
     {
       "id": "mkt:019f9103-7570-7aab-8e74-01d86054446a",
       "time": "2026-07-24 06:05:50",
