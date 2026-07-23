@@ -1,7 +1,65 @@
 {
-  "updated": "2026-07-24 01:33:26",
-  "count": 18024,
+  "updated": "2026-07-24 01:37:22",
+  "count": 18017,
   "items": [
+    {
+      "id": "5005272",
+      "time": "2026-07-24 01:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 與 Cerebras 合作產品將於今年晚些時候推向市場。"
+    },
+    {
+      "id": "mkt:019f900c-552c-7aab-8e70-dcd6572093be",
+      "time": "2026-07-24 01:35:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said the company is partnering with chip-design firm Cerebras to offer high-speed inference capabilities via Cerebras' cloud services."
+    },
+    {
+      "id": "5005271",
+      "time": "2026-07-24 01:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cerebras Systems漲幅迅速擴大至11%，該公司與ADM針對快速推理提供捆綁式產品。"
+    },
+    {
+      "id": "mkt:019f900b-72c6-7aab-8e70-d034cb890a91",
+      "time": "2026-07-24 01:34:50",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Zelenskiy says Ukraine to co-produce \"Patriot\" interceptors with Raytheon】On July 23 Ukrainian President Zelenskiy said Ukraine will jointly produce interceptors for the \"Patriot\" air-defence system with US defence firm Raytheon. He said he met a Raytheon delegation led by Vice President Joseph DeAntona, that Raytheon is willing to deepen cooperation to a new level, and that the matter — discussed earlier with US President Trump in Ankara — is now being advanced."
+    },
+    {
+      "id": "mkt:019f900b-2496-7aab-8e70-cf69cf5e494b",
+      "time": "2026-07-24 01:34:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported a tanker belonging to Iran’s fleet minutes ago ignored a US-claimed blockade and moved from the high seas into the Gulf of Oman."
+    },
+    {
+      "id": "5005270",
+      "time": "2026-07-24 01:33:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長：公司正與晶片設計商Cerebras合作，透過Cerebras雲服務提供高速推理。"
+    },
     {
       "id": "5005269",
       "time": "2026-07-24 01:32:22",
@@ -164982,119 +165040,6 @@
         "市場"
       ],
       "text": "標準核公司股票在紐交所上市首日開盤價為13.5美元，低於15美元的首次公開募股發行價。"
-    },
-    {
-      "id": "4992812",
-      "time": "2026-07-17 01:36:14",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "白宮新聞秘書：“希望”哥倫比亞廣播公司今晚將播出特朗普的演講。"
-    },
-    {
-      "id": "te:markets:567631",
-      "time": "2026-07-17 01:35:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Advanced Micro Devices Stock Price Hits 4-week Low — Advanced Micro Devices shares decreased to 495.35 USD, the lowest since June 2026. Over the past 4 weeks, Advanced Micro Devices lost 3.14%, and in the last 12 months, it increased 209.46%."
-    },
-    {
-      "id": "mkt:019f6bff-6218-7aab-8dce-a67880945f3d",
-      "time": "2026-07-17 01:35:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says teleprompter staff have been suspended and placed on unpaid administrative leave."
-    },
-    {
-      "id": "mkt:019f6bff-41a1-7aab-8dce-9b0950eb4b3e",
-      "time": "2026-07-17 01:35:18",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Brazil's foreign minister VIEIRA said U.S. tariffs lack any logical basis."
-    },
-    {
-      "id": "4992811",
-      "time": "2026-07-17 01:34:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴西外長：徵收這些關稅毫無邏輯依據。"
-    },
-    {
-      "id": "4992810",
-      "time": "2026-07-17 01:34:38",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮新聞秘書：特朗普認為被指控賭博的運營商是“恥辱”。"
-    },
-    {
-      "id": "mkt:019f6bfe-887b-7aab-8dce-9075e27b62cf",
-      "time": "2026-07-17 01:34:30",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian Foreign Minister Vieira said the US is demanding that Brazil fully and unilaterally open its entire economy, but has not proposed any reciprocal measures."
-    },
-    {
-      "id": "4992809",
-      "time": "2026-07-17 01:34:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "巴西外長：美國要求巴西經濟全行業實現完全排他性開放，且不要求美方作出任何對等措施。儘管美國此舉帶有政治動機，巴西仍積極參與了相關調查。"
-    },
-    {
-      "id": "mkt:019f6bfe-2bee-7aab-8dce-882b1195aafb",
-      "time": "2026-07-17 01:34:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazilian Foreign Minister Vieira said U.S. Secretary of State Rubio's remarks are unacceptable and offensive to the Brazilian government and people."
-    },
-    {
-      "id": "4992808",
-      "time": "2026-07-17 01:33:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮新聞秘書：白宮提詞器操作員被停職。"
-    },
-    {
-      "id": "mkt:019f6bfd-c6f7-7aab-8dce-85712986a1f7",
-      "time": "2026-07-17 01:33:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil's foreign minister Vieira said President Lula sought dialogue from the start and is willing to negotiate."
-    },
-    {
-      "id": "mkt:019f6bfd-9f4f-7aab-8dce-7b28ad4055bd",
-      "time": "2026-07-17 01:33:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Brazil Foreign Minister VIEIRA said contacts with the U.S. government exceeded 30 and that negotiations began before the tariff increase was announced."
-    },
-    {
-      "id": "4992807",
-      "time": "2026-07-17 01:33:30",
-      "tags": [
-        "宏觀",
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟要求谷歌開放安卓AI功能並共享搜尋資料】歐盟委員會16日宣佈，依據《數字市場法案》向美國谷歌公司出臺兩項具有法律約束力的規範措施，要求谷歌向競爭對手開放安卓作業系統人工智慧（AI）相關功能，並向第三方搜尋引擎共享搜尋資料，以增強數字市場競爭。歐委會表示，根據第一項措施，第三方AI助手可與谷歌旗下Gemini等AI服務平等訪問谷歌安卓裝置上的功能。目前，第三方AI助手對安卓系統部分關鍵功能的訪問受限，難以與谷歌自有AI服務公平競爭。（新華社）"
     }
   ]
 }

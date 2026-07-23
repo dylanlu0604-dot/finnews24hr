@@ -1,7 +1,65 @@
 {
   "date": "2026-07-24",
-  "count": 129,
+  "count": 135,
   "items": [
+    {
+      "id": "5005272",
+      "time": "2026-07-24 01:36:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 與 Cerebras 合作產品將於今年晚些時候推向市場。"
+    },
+    {
+      "id": "mkt:019f900c-552c-7aab-8e70-dcd6572093be",
+      "time": "2026-07-24 01:35:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said the company is partnering with chip-design firm Cerebras to offer high-speed inference capabilities via Cerebras' cloud services."
+    },
+    {
+      "id": "mkt:019f900b-72c6-7aab-8e70-d034cb890a91",
+      "time": "2026-07-24 01:34:50",
+      "tags": [
+        "MKT News",
+        "RTX.O",
+        "Impact bullish"
+      ],
+      "text": "【Zelenskiy says Ukraine to co-produce \"Patriot\" interceptors with Raytheon】On July 23 Ukrainian President Zelenskiy said Ukraine will jointly produce interceptors for the \"Patriot\" air-defence system with US defence firm Raytheon. He said he met a Raytheon delegation led by Vice President Joseph DeAntona, that Raytheon is willing to deepen cooperation to a new level, and that the matter — discussed earlier with US President Trump in Ankara — is now being advanced."
+    },
+    {
+      "id": "5005271",
+      "time": "2026-07-24 01:34:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "Cerebras Systems漲幅迅速擴大至11%，該公司與ADM針對快速推理提供捆綁式產品。"
+    },
+    {
+      "id": "mkt:019f900b-2496-7aab-8e70-cf69cf5e494b",
+      "time": "2026-07-24 01:34:37",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS reported a tanker belonging to Iran’s fleet minutes ago ignored a US-claimed blockade and moved from the high seas into the Gulf of Oman."
+    },
+    {
+      "id": "5005270",
+      "time": "2026-07-24 01:33:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD執行長：公司正與晶片設計商Cerebras合作，透過Cerebras雲服務提供高速推理。"
+    },
     {
       "id": "5005269",
       "time": "2026-07-24 01:32:22",
