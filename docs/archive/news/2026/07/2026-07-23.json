@@ -1,7 +1,115 @@
 {
   "date": "2026-07-23",
-  "count": 3581,
+  "count": 3593,
   "items": [
+    {
+      "id": "5005140",
+      "time": "2026-07-23 23:42:38",
+      "tags": [
+        "公司"
+      ],
+      "text": "IBM 執行長：到 2035 年，科技支出佔預算比重將升至 10%。"
+    },
+    {
+      "id": "5005139",
+      "time": "2026-07-23 23:42:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普：我們在對伊朗的打擊中不需要以色列的幫助 】美國總統在接受以色列媒體採訪時表示：“如果提出要求，以色列將在兩分鐘內加入美國對伊朗的打擊行動，但他聲稱美國不需要任何國家。以色列參與對伊朗的打擊將帶來後果。如果我要求他們，以色列會在兩分鐘內加入我們，但我們不需要任何人。以色列參與對伊朗的打擊將會帶來後果。”"
+    },
+    {
+      "id": "mkt:019f8fa3-9716-7aab-8e70-2b3fa650d283",
+      "time": "2026-07-23 23:41:30",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "JP Morgan says Alphabet (GOOG.O) pullback offers a buying opportunity."
+    },
+    {
+      "id": "5005138",
+      "time": "2026-07-23 23:41:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "股市對特朗普最新針對伊朗的威脅反應冷淡。"
+    },
+    {
+      "id": "5005137",
+      "time": "2026-07-23 23:41:18",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通：Alphabet股價回撥帶來買入良機。"
+    },
+    {
+      "id": "5005136",
+      "time": "2026-07-23 23:41:04",
+      "tags": [
+        "其他"
+      ],
+      "text": "【我國科學家找到水稻抗旱“新開關” 有望讓多種作物無懼乾旱】7月23日，華中農業大學熊立仲教授團隊在國際學術期刊《細胞》線上發表題為《稻屬孤兒基因賦予跨物種抗旱性》的研究論文。該研究鑑定出一個名為“ROAD1”的稻屬特異抗旱孤兒基因，並發現攜帶其功能等位基因ROAD1C的水稻在田間乾旱條件下產量顯著提高。更令人振奮的是，研究團隊將ROAD1基因匯入擬南芥、油菜、玉米、小麥和楊樹中，均發現這些植物表現出更好的抗旱性。這意味著，這一源自水稻的基因有望成為多種農作物的“跨物種抗旱利器”。該研究不僅回答了植物如何透過新基因適應環境的科學問題，更為未來的農業抗旱育種提供了寶貴的基因資源和研究思路。(央視新聞)"
+    },
+    {
+      "id": "mkt:019f8fa2-a053-7aab-8e70-2086156bbf0b",
+      "time": "2026-07-23 23:40:27",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "【Trump: Iran not yet ready to reach agreement】Axios reports President Trump said Iran \"wants to negotiate\" but is not yet ready to reach an agreement, adding \"they're not hurting enough.\" Two regional sources familiar with mediation efforts said Iran's leadership has not accepted the latest proposal. \"We're trying, but Iran is not cooperating,\" one source said."
+    },
+    {
+      "id": "mkt:019f8fa1-f389-7aab-8e70-1aadc9d293a2",
+      "time": "2026-07-23 23:39:43",
+      "tags": [
+        "MKT News",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "IBM (IBM.N) CEO said many workloads are cheaper to run on mainframes."
+    },
+    {
+      "id": "5005135",
+      "time": "2026-07-23 23:39:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "IBM 執行長：多數工作負載保留在大型機上成本更低。"
+    },
+    {
+      "id": "5005134",
+      "time": "2026-07-23 23:39:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國貿易代表格里爾將於週四公佈針對122條款關稅的相關宣告。"
+    },
+    {
+      "id": "5005133",
+      "time": "2026-07-23 23:39:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "美官員穆勒納爾：福特應該與我們這些盟友合作，而不是與“敵人”合作。"
+    },
+    {
+      "id": "5005132",
+      "time": "2026-07-23 23:38:36",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普：伊朗還沒有受到足夠的懲罰。"
+    },
     {
       "id": "mkt:019f8fa0-988b-7aab-8e70-122a08ca582b",
       "time": "2026-07-23 23:38:14",
