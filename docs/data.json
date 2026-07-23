@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-23 08:15:03",
-  "count": 17690,
+  "updated": "2026-07-23 08:18:58",
+  "count": 17684,
   "items": [
+    {
+      "id": "te:markets:568978",
+      "time": "2026-07-23 08:18:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Australia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Stocks in Australia Hit 5-week High — ASX200 increased to 8873.00 Index Points, the highest since June 2026. Over the past 4 weeks, Australia Stock Market Index (AU200) gained 0.7%, and in the last 12 months, it increased 1.84%."
+    },
+    {
+      "id": "5003247",
+      "time": "2026-07-23 08:18:04",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【央行決策在即 亞市早盤金價企穩】亞洲早盤金價企穩。Critical Metals的Tony Sage在評論中表示，雖然美元小幅回落對金價構成了支撐，但由於主要經濟體債券收益率高企，該金屬的近期整體前景依然看跌。他說，在中東緊張局勢升級之際，油價上漲加劇了人們對全球通脹壓力的擔憂，並強化了偏緊縮的貨幣政策預期。隨著歐洲央行本週將公佈利率決定，以及美聯儲、日本央行和英國央行下週將公佈利率決定，在這些央行決策公佈前，金價面臨風險。較高的利率環境通常會拖累黃金等無息資產。現貨黃金持平，報每盎司4,133.08美元。"
+    },
+    {
+      "id": "mkt:019f8c55-ef8e-7aab-8e55-0359947ca704",
+      "time": "2026-07-23 08:17:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Nasdaq100",
+        "Impact mixed"
+      ],
+      "text": "【AI investment offsets Middle East risk; semiconductors push KOSPI past 7,000】KOSPI rose above 7,000 on the 23rd, advancing despite overnight U.S. stock weakness and higher oil on U.S.-Iran tensions, led by semiconductors, robotics and AI names. Market participants said continued AI infrastructure spending by global tech giants and bargain buying after earlier pullbacks supported the rally. Foreign investors were the primary force, net buying 213.4 bln won; retail and institutional investors net sold 65.3 bln won and 146.8 bln won, respectively. KOSDAQ opened up 1.65%; foreigners net bought 5.8 bln won while individuals and institutions net sold 5.0 bln won and 0.6 bln won."
+    },
+    {
+      "id": "5003246",
+      "time": "2026-07-23 08:16:35",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美國證券交易委員會批准新規，納斯達克將加速清退微型上市公司】納斯達克集團將修訂上市規則，加快清退經營狀況持續惡化的企業。此前監管機構持續聚焦微型市值股票交易中頻發的劇烈行情波動與市場操縱指控。美國證券交易委員會（SEC）於週三批准一項新規：若納斯達克上市公司的掛牌證券市值連續30日低於500萬美元，公司股票將被立刻暫停交易並啟動摘牌流程，且申訴渠道大幅收窄。這套更嚴苛的上市標準預計將全面衝擊微型股與低價便士股市場。監管機構此前已多次警示，該市場充斥依託數字化手段實施的“炒高拋售”證券欺詐行為。美國證券交易委員會在公告中表示：低市值低價股票更容易遭到操縱、出現劇烈交易波動，不法分子僅需少量資金即可左右其股價。該交易所運營商今年1月提出此項新規，獲得城堡證券、嘉信理財以及美國證券業與金融市場協會（SIFMA）等華爾街主流機構支援；但中小上市公司、相關律師及行業顧問強烈反對。多數反對者認為，這項旨在遏制違規操作的新規，會連累合規經營的初創企業。小型公眾公司聯盟主席馬克・因代利亞（該機構服務微型股、小型股市場投資者）表示：“該規則將對中小企業造成沉重打擊，阻礙企業融資，還會催生針對小型上市公司做空的不良投機動機。這與證監會當下‘重振IPO市場、拓寬企業融資渠道’的核心導向背道而馳。”資料顯示，目前納斯達克共有近180家上市公司總市值不足500萬美元，剛好觸及新規劃定的監管紅線。"
+    },
+    {
+      "id": "5003245",
+      "time": "2026-07-23 08:16:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日增加2.00噸】截至2026年07月22日，全球最大的黃金ETF SPDR Gold Trust持倉量為1007.87噸，較前一個交易日增加2.00噸。"
+    },
+    {
+      "id": "mkt:019f8c53-3254-7aab-8e54-f898556deaab",
+      "time": "2026-07-23 08:14:50",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Iran's SNN news agency, citing security officials, said a U.S. strike on the Shalamcheh border crossing killed two people."
+    },
+    {
+      "id": "5003244",
+      "time": "2026-07-23 08:14:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗通訊社援引安全官員訊息稱，美國對沙拉姆切赫邊境口岸發動襲擊，造成兩人死亡。"
+    },
     {
       "id": "5003243",
       "time": "2026-07-23 08:13:55",
@@ -161643,128 +161714,6 @@
         "國際"
       ],
       "text": "【日元期權顯示日本或容忍匯率貶至165後再出手干預】期權市場資料顯示，日本官方在出手支撐日元之前，可能仍會容忍日元進一步貶值。交易員目前願意將美元兌日元升至165納入定價，這意味著日元較當前水平還有約1.6%的貶值空間，而當前匯率已經接近近四十年來最弱水平。"
-    },
-    {
-      "id": "4990960",
-      "time": "2026-07-16 08:18:44",
-      "tags": [
-        "國際",
-        "原創"
-      ],
-      "text": "【民調顯示近半美國人認為美伊衝突還會再持續一年以上】一項最新民調顯示，隨著美伊緊張局勢再度升溫，近半數美國人認為美伊衝突從現在算起會持續一年甚至更久。 《經濟學人》聯合YouGov開展的民調顯示，46%的受訪者認為這場衝突 “會持續一年及以上”；另有46%的受訪者認為衝突將持續 “一個月以上、但不超過一年”。 6%的受訪者認為衝突會持續 “一週以上、一個月以內”，僅有2%的人認為這場對抗 “最多再持續一週”。此次民調於7 月 10 日至 13 日進行。"
-    },
-    {
-      "id": "mkt:019f684a-29d5-7aab-8db2-a09efda0b98c",
-      "time": "2026-07-16 08:18:38",
-      "tags": [
-        "MKT News",
-        "000660.KS",
-        "Impact bearish",
-        "005930.KS"
-      ],
-      "text": "SK Hynix shares extended losses to 10%; Samsung Electronics shares fell nearly 7%."
-    },
-    {
-      "id": "4990959",
-      "time": "2026-07-16 08:18:34",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【日經指數下跌2.1%，受AI相關擔憂影響】日本股市早盤走低，受戴爾和美光科技等美國儲存晶片概念股週三下跌引發的與人工智慧(AI)相關的擔憂影響。日經指數下跌2.1%，至67332.70點。IG首席市場分析師Chris Beauchamp在一封電子郵件中表示，日經指數和納斯達克綜合指數都“乘上了AI熱潮的東風，但現在這一交易似乎受到不確定性的衝擊，並面臨進一步下跌的風險“。在日本基準指數表現最差的成分股中，鎧俠下跌8.9%，國際電氣下跌6.7%，Ibiden下跌5.9%。"
-    },
-    {
-      "id": "4990958",
-      "time": "2026-07-16 08:17:23",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：下半年政府債對社融的支撐趨緩，增速中樞或繼續下移】中信證券研報稱，6月金融資料總量讀數明顯回落，但基數擾動是主因，結構層面積極訊號仍在累積。社融方面，政府債在去年同期集中發行的高基數下大幅少增，拖累存量增速回落至7.4%，企業債與股權融資延續多增，直接融資補位特徵強化。信貸方面，季末衝量強度弱化，企業中長貸同比繼續少增，出口高景氣支撐對公短貸保持較高投放，居民貸款單月轉正但同比仍少增。貨幣方面，M1、M2增速受高基數影響雙雙回落，剔除基數後的資金活化改善趨勢未變，上半年居民存款少增與非銀存款多增並存，“存款搬家”格局延續。我們認為，下半年政府債對社融的支撐趨緩，增速中樞或繼續下移，寬信用有賴促內需政策接續發力；關注存款活化與資本市場活躍正反饋的持續性。"
-    },
-    {
-      "id": "mkt:019f6848-cdea-7aab-8db2-9f023e51bb20",
-      "time": "2026-07-16 08:17:09",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "Impact bearish",
-        "DXY",
-        "Impact bullish",
-        "Nikkei 225"
-      ],
-      "text": "South Korea's KOSPI index plunged 5.00% intraday to 6,919.68 points."
-    },
-    {
-      "id": "4990957",
-      "time": "2026-07-16 08:16:53",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "韓國綜合股價指數（KOSPI）下跌5%，至6919.68點。"
-    },
-    {
-      "id": "4990956",
-      "time": "2026-07-16 08:16:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "【香港天文臺釋出紅色暴雨警告，上午校和全日制學校無需上課】7月16日7時40分，香港天文臺釋出紅色暴雨警告訊號。香港教育局宣佈，所有上午校及全日制學校的學生今日無需上課，但學校必須保持校舍開放，同時安排應變措施，照顧已返抵學校的學生。家長無需急於到校接子女回家。"
-    },
-    {
-      "id": "4990955",
-      "time": "2026-07-16 08:16:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【光郵星空連續完成Pre-A和Pre-A+輪融資】7月16日，據九合創投訊息，光郵星空連續完成Pre-A和Pre-A+輪融資，Pre-A輪由元起資本投資，Pre-A+輪由九合創投領投，同創偉業、中關村科學城跟投。資金將重點用於高速星地鐳射通訊核心技術迭代、產品規模化量產及市場拓展。"
-    },
-    {
-      "id": "4990954",
-      "time": "2026-07-16 08:15:44",
-      "tags": [
-        "市場"
-      ],
-      "text": "【全球最大的黃金ETF SPDR Gold Trust持倉較前日減少2.57噸】截至2026年07月15日，全球最大的黃金ETF SPDR Gold Trust持倉量為1001.88噸，較前一個交易日減少2.57噸。"
-    },
-    {
-      "id": "4990953",
-      "time": "2026-07-16 08:15:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國貿易代表稱今日將宣佈對巴西301條款調查的最終行動】美國貿易代表賈米森·格里爾在接受媒體採訪時表示，美國將宣佈其對巴西301條款調查的最終行動。格里爾表示，美國可能考慮25%的關稅。他說，美國和巴西之間仍然存在很多差距。"
-    },
-    {
-      "id": "mkt:019f6847-366e-7aab-8db2-90975c01e327",
-      "time": "2026-07-16 08:15:25",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "WTI",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. Trade Representative Greer said Section 301 investigations are being accelerated and are proceeding on their respective tracks; a Russia sanctions bill is progressing well and is expected to produce results within days."
-    },
-    {
-      "id": "em:qqyh_zgyh:202607153807655321",
-      "time": "2026-07-16 08:15:17",
-      "tags": [
-        "央行",
-        "中國央行"
-      ],
-      "text": "【央行貨政司謝光啟：逐步淡化數量型目標 轉向價格型調控】謝光啟解釋道，今年上半年人民幣貸款增速有所放緩，債券融資特別是企業債券融資明顯增加，上半年企業債券淨融資2.07萬億元，同比多9167億元。上述融資結構變化可能是長期性、趨勢性的，反映了中國經濟結構深度調整和經濟增長動能新舊轉換，也反映了金融體系的動態適配和金融供給側結構性改革持續深化。未來一段時期，貨幣信貸將繼續從外延式擴張轉向內涵式發展，貸款“降速提質”可能成為宏觀執行的新常態之一。"
-    },
-    {
-      "id": "mkt:019f6846-e64d-7aab-8db2-8afa1ec659d6",
-      "time": "2026-07-16 08:15:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. Trade Representative Greer said a separate investigation into Vietnam's intellectual property issues is underway and that the two sides have reached agreement on export controls."
     }
   ]
 }
