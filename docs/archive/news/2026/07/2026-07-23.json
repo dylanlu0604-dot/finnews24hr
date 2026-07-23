@@ -1,7 +1,100 @@
 {
   "date": "2026-07-23",
-  "count": 890,
+  "count": 900,
   "items": [
+    {
+      "id": "5003380",
+      "time": "2026-07-23 09:40:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【核裂變小堆企業鈞合原子獲數億元天使輪融資】近日，上海鈞合原子科技有限公司完成數億元天使輪融資，紅杉中國領投，上海未來產業基金、上海顛覆性技術基金、臨港科創、國泰海通等參與，遠景碳中和基金等產業資本加入，中科創星、厚實資本、東方富海、聚合資本、德聯資本、金沙江聯合、啟迪裕麟、達武創投、允泰資本、光躍投資等市場化機構共同下注。本輪資金將主要用於產品研發、工程驗證、團隊建設及示範專案開發。泰合資本擔任後續財務顧問。"
+    },
+    {
+      "id": "5003378",
+      "time": "2026-07-23 09:40:32",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達1.23%，成分股中，華虹宏力跌5.91%，拓荊科技跌3.61%，華海清科跌1.94%，恆玄科技跌2.87%。"
+    },
+    {
+      "id": "5003377",
+      "time": "2026-07-23 09:39:23",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【沃特股份：公司PTFE產品已成功進入全球主流半導體裝置廠商等供應鏈】沃特股份7月22日接受機構調研時表示，公司高階PTFE精密製品的技術體系源自原日本華爾卡的成熟技術積累，是業內少數具備半導體級PTFE精密加工、表面處理、高精度熔接及改性混料等全鏈條核心工藝技術的企業，工藝技術水平能夠滿足全球頭部客戶的高標準要求。目前，公司PTFE產品已成功進入全球主流半導體裝置廠商等供應鏈，積累了多年豐富的全球知名半導體客戶服務經驗。"
+    },
+    {
+      "id": "mkt:019f8ca0-0956-7aab-8e56-e618ce973350",
+      "time": "2026-07-23 09:38:46",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share compute-capacity stocks jumped at the open: Zhengtong Electronics and Hongbo hit daily up-limits, Ruijie Networks rose over 9%, with Litong Electronics, Dongyi Risheng, Jingang Photovoltaic, Qunxing Toys and Aoruid also higher. The 15th Five-Year Plan for Renewable Energy Development instructs that new data centers be co-planned with renewable generation and calls for categorically identifying and unlocking the temporal and spatial flexibility of computing loads."
+    },
+    {
+      "id": "5003376",
+      "time": "2026-07-23 09:38:39",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "元件板塊震盪走強，東晶電子漲停，紅板科技、三環集團、南亞新材、泰晶科技、艾華集團跟漲。"
+    },
+    {
+      "id": "te:markets:569024",
+      "time": "2026-07-23 09:38:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Near 2-Month High — US gasoline prices rose to around $3.45 per gallon, near their highest level since late May, as concerns over broader supply disruptions in the Middle East intensified. Iran-backed Houthi militants claimed attacks on two Saudi oil tankers, heightening fears of further disruptions to global oil flows as risks in the Red Sea added to those in the Strait of Hormuz. President Trump warned of strikes on Iranian infrastructure if shipping through the strait is attacked. Attacks on the Caspian Pipeline Consortium's Black Sea terminal also fueled supply concerns. Limiting some gains, fuel supplies in Russia showed signs of improving after Ukraine shifted attacks away from major oil refineries toward maritime targets. Meanwhile, EIA data showed US gasoline inventories increased by 0.765 million barrels in the week ended July 17, recovering from the previous week but remaining 7% below the five-year seasonal average."
+    },
+    {
+      "id": "5003375",
+      "time": "2026-07-23 09:38:16",
+      "tags": [
+        "市場"
+      ],
+      "text": "【港股人工智慧股走強 劍橋科技漲近6%】截至發稿，劍橋科技(06166.HK)漲5.85%，MINIMAX-W(00100.HK)漲4.37%，智譜(02513.HK)漲4.34%。"
+    },
+    {
+      "id": "5003374",
+      "time": "2026-07-23 09:38:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念震盪反彈 風華高科、火炬電子雙雙漲停】早盤MLCC概念震盪反彈，風華高科、火炬電子漲停，昀冢科技漲超16%，利和興、三環集團、博遷新材、國瓷材料跟漲。"
+    },
+    {
+      "id": "5003373",
+      "time": "2026-07-23 09:37:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【地平線贖回超額轉股權，CARIAD自願鎖定12個月】7月23日訊息，地平線近日與大眾汽車集團旗下CARIAD就其持有的可轉換債券簽署修訂協議，地平線擬贖回CARIAD超額轉股權，CARIAD擬提前轉股、成為地平線合計持股比例達到9.9%的重要股東，並自願鎖定12個月。為完成相關現金回購，地平線同時建議發行4.5億美元零息可轉換債券，到期日預計為2027年7月27日前後，轉股價格為5.55港元，較22日收盤價溢價約16.8%。其中約3.989億美元擬用於支付修訂協議項下的本息償付及贖回轉股權利，餘額用於補充營運資金及其他企業用途。"
+    },
+    {
+      "id": "5003372",
+      "time": "2026-07-23 09:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "沙特所屬船隻\"恩塞利亞\"號在紅海航行時遭襲，船頭起火；船員安全。"
+    },
     {
       "id": "mkt:019f8c9d-d5f2-7aab-8e56-dd0ba7cb75c2",
       "time": "2026-07-23 09:36:21",
