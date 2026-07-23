@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-24 03:15:19",
-  "count": 18014,
+  "updated": "2026-07-24 03:19:14",
+  "count": 18012,
   "items": [
+    {
+      "id": "mkt:019f906a-1900-7aab-8e72-47205a828325",
+      "time": "2026-07-24 03:18:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency said reports that Iran attacked a Kuwaiti power plant are Israeli propaganda."
+    },
+    {
+      "id": "mkt:019f9069-b79c-7aab-8e72-3f8a282b1825",
+      "time": "2026-07-24 03:17:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA CEO Jensen Huang backs Chinese open-source AI models】In an interview on June 22, NVIDIA CEO Jensen Huang said Chinese open-source large AI models are very strong and the US should not fear them. He opposed restricting or banning Chinese open-source models, saying the world needs both open- and closed-source large models and US companies should be allowed to use Chinese models. Huang added markets previously misread the impact of DeepSeek and Kimi and called the notion that Chinese models contain backdoors linking them to China mistaken."
+    },
     {
       "id": "mkt:019f9066-4f89-7aab-8e72-33d21ae0dfea",
       "time": "2026-07-24 03:14:11",
@@ -164964,42 +164986,6 @@
         "市場"
       ],
       "text": "因 Gemini 上線計劃推遲，Alphabet 股價下挫 5%，跌至盤中低點。"
-    },
-    {
-      "id": "4992897",
-      "time": "2026-07-17 03:19:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗革命衛隊：美國目前已陷入困境，唯一出路是撤出西亞地區。美國霸凌和挑釁的時代已經結束。伊朗絕不會允許美國介入霍爾木茲海峽事務。伊朗規定的航行路線是安全的，任何偏離該路線的航線都將面臨風險，相關船隻可能遭受損害。"
-    },
-    {
-      "id": "4992896",
-      "time": "2026-07-17 03:18:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【候任英國首相將支援北海石油開採，並接管泰晤士水務】即將上任的首相安迪·伯納姆在就職數日內，正準備宣佈在北海進行新的石油和天然氣鑽探，並將泰晤士水務收歸公有。據知情人士透露，伯納姆的團隊已要求公務員隊伍起草新的能源和水利政策計劃，這些計劃最早可能於下週公佈。他將於下週一接替基爾·斯塔默成為首相，並計劃在上任後的頭幾天發表一系列公開宣告，以標誌與前任政府的決裂。"
-    },
-    {
-      "id": "mkt:019f6c5d-be03-7aab-8dd0-31ca13920df4",
-      "time": "2026-07-17 03:18:30",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said Iran will not allow U.S. intervention in the Strait of Hormuz, adding that Iran's designated transit routes are safe and vessels deviating from them face risk and could be damaged."
-    },
-    {
-      "id": "mkt:019f6c5b-2a8d-7aab-8dd0-2ac6e86af0e2",
-      "time": "2026-07-17 03:15:41",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps says the United States is currently trapped and its only way out is to withdraw from West Asia, and that the era of US bullying and provocation has ended."
     }
   ]
 }

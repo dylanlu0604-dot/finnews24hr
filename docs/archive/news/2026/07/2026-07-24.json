@@ -1,7 +1,29 @@
 {
   "date": "2026-07-24",
-  "count": 268,
+  "count": 270,
   "items": [
+    {
+      "id": "mkt:019f906a-1900-7aab-8e72-47205a828325",
+      "time": "2026-07-24 03:18:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Mehr news agency said reports that Iran attacked a Kuwaiti power plant are Israeli propaganda."
+    },
+    {
+      "id": "mkt:019f9069-b79c-7aab-8e72-3f8a282b1825",
+      "time": "2026-07-24 03:17:55",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "【NVIDIA CEO Jensen Huang backs Chinese open-source AI models】In an interview on June 22, NVIDIA CEO Jensen Huang said Chinese open-source large AI models are very strong and the US should not fear them. He opposed restricting or banning Chinese open-source models, saying the world needs both open- and closed-source large models and US companies should be allowed to use Chinese models. Huang added markets previously misread the impact of DeepSeek and Kimi and called the notion that Chinese models contain backdoors linking them to China mistaken."
+    },
     {
       "id": "mkt:019f9066-4f89-7aab-8e72-33d21ae0dfea",
       "time": "2026-07-24 03:14:11",
