@@ -1,7 +1,35 @@
 {
   "date": "2026-07-24",
-  "count": 385,
+  "count": 388,
   "items": [
+    {
+      "id": "mkt:019f90de-6c22-7aab-8e73-bf4621a539c5",
+      "time": "2026-07-24 05:25:23",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "INTC.O",
+        "Impact bullish"
+      ],
+      "text": "Intel CFO said AI PC business revenue rose 26% QoQ and now accounts for two-thirds of its customer revenue mix."
+    },
+    {
+      "id": "5005418",
+      "time": "2026-07-24 05:25:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "英特爾：預計伺服器 CPU 業務將實現強勁兩位數增長。"
+    },
+    {
+      "id": "5005417",
+      "time": "2026-07-24 05:22:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：雷神、洛克希德・馬丁、帕蘭提爾三家企業高管週四與特朗普政府相關人員舉行會晤。"
+    },
     {
       "id": "5005416",
       "time": "2026-07-24 05:22:05",
