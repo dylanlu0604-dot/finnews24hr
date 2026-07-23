@@ -1,7 +1,45 @@
 {
   "date": "2026-07-24",
-  "count": 108,
+  "count": 112,
   "items": [
+    {
+      "id": "5005258",
+      "time": "2026-07-24 01:19:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長稱新款伺服器 CPU 相對 ARM 架構晶片具備大幅領先優勢。"
+    },
+    {
+      "id": "5005257",
+      "time": "2026-07-24 01:19:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "【資料中心業務推動納特·羅斯柴爾德旗下公司登陸倫交所主機板】納撒尼爾·羅斯柴爾德（Nathaniel Rothschild）旗下的Volex Plc擁有超百年電纜製造歷史，在數十億美元資金湧入AI基礎設施時，成功抓住了這一波紅利。資料中心訂單的激增幫助該公司提前一年達成銷售目標，推動其股價在過去一年飆升51%。在另類投資市場（AIM）上市近十年後，Volex將於本週五重返倫敦證券交易所主機板，羅斯柴爾德預計此舉將吸引機構投資者。"
+    },
+    {
+      "id": "mkt:019f8ffb-ebb2-7aab-8e70-96a1af864cf1",
+      "time": "2026-07-24 01:17:59",
+      "tags": [
+        "MKT News",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "FITCH says infrastructure financing is entering a new phase as public and private capital integrate."
+    },
+    {
+      "id": "mkt:019f8ffb-a380-7aab-8e70-891e9be50e6f",
+      "time": "2026-07-24 01:17:40",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Israeli defense minister KATZ said if Iran attacks Israel it would face a devastating strike."
+    },
     {
       "id": "5005256",
       "time": "2026-07-24 01:16:42",
