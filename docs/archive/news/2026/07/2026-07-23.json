@@ -1,7 +1,165 @@
 {
   "date": "2026-07-23",
-  "count": 2972,
+  "count": 2988,
   "items": [
+    {
+      "id": "5004805",
+      "time": "2026-07-23 20:38:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長表示：消費支出仍保持韌性，這得益於相較於其他可選消費品類，消費者對出行的偏好持續居高不下。"
+    },
+    {
+      "id": "5004804",
+      "time": "2026-07-23 20:37:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員對歐洲央行加息的押注維持不變 仍預計年底前加息48個基點】歐洲央行維持利率在2.25%不變，符合市場預期，交易員對9月加息的押注維持不變。決議公佈後，歐元區政府債券變動不大，德國2年期國債收益率上漲2個基點，報2.86%。互換合約顯示，市場預計歐洲央行9月將加息24個基點，同時年底前再加息25個基點的可能性幾乎也達到100%。歐元兌美元維持早前跌勢，最新下跌0.2%，報1.1392美元。"
+    },
+    {
+      "id": "mkt:019f8efb-6174-7aab-8e69-12ff703caba1",
+      "time": "2026-07-23 20:37:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver slid below $58/oz, down 2.86% intraday."
+    },
+    {
+      "id": "te:economy:569295",
+      "time": "2026-07-23 20:37:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Building Permits",
+        "Importance 1"
+      ],
+      "text": "South Africa Building Permits Drop in May — The value of building plans approved in South Africa declined 13.1% year-on-year to ZAR 8,021.9 million in May 2026, reversing a 16.9% increase in the previous month. The decline was broad-based across all categories, with the highest decline in non-residential buildings, plunging 10.5% after a 43.5% gain. Residential building approvals also decreased 13.4%, following an 18.0% rise. Meanwhile, additions and alterations also fell, contracting further to 14.2% from 2.2%."
+    },
+    {
+      "id": "5004803",
+      "time": "2026-07-23 20:37:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守58美元/盎司，日內跌2.82%。"
+    },
+    {
+      "id": "5004802",
+      "time": "2026-07-23 20:37:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4068.54美元/盎司。"
+    },
+    {
+      "id": "5004801",
+      "time": "2026-07-23 20:37:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長：由於航空旅行需求保持強勁，整個行業的收入環境仍向好。"
+    },
+    {
+      "id": "mkt:019f8efa-ae78-7aab-8e69-0c9ac5f34dc3",
+      "time": "2026-07-23 20:37:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "TOT.PA",
+        "Impact bullish"
+      ],
+      "text": "TotalEnergies CEO said July refining margins were $35/barrel."
+    },
+    {
+      "id": "5004800",
+      "time": "2026-07-23 20:36:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長稱，7月煉油毛利達每桶35美元。"
+    },
+    {
+      "id": "te:economy:569294",
+      "time": "2026-07-23 20:36:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "Canada Retail Sales Set to Rise Again in June — Retail sales in Canada increased by 0.4% from the previous month in June 2026, according to a preliminary estimate. If confirmed, it would mark a sixth straight increase in retail sales. In May, retail turnover rose by 1% to C$73.7 billion, in line with earlier estimates. Sales were up in all nine subsectors, led by increases at gasoline stations and fuel vendor (+3.1%). Sales at motor vehicle and parts dealers were up 0.7% in May, rising for a second consecutive month. All four store types within this subsector posted increases in May, with higher sales at new car dealers (+0.5%) leading the gain. Following a decrease of 0.7% in April, core retail sales rose 0.9% in May. The increase was led by higher sales at general merchandise retailers (+1.0%), which posted its first increase in three months. Retail sales increased in nine provinces in May, in particular British Columbia (+2.1%)."
+    },
+    {
+      "id": "5004799",
+      "time": "2026-07-23 20:36:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4070美元/盎司，日內跌1.98%。"
+    },
+    {
+      "id": "5004798",
+      "time": "2026-07-23 20:35:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：我們的目標是在11月前就巴布亞液化天然氣專案作出最終投資決定，目前正與有關部門加緊推進相關工作。"
+    },
+    {
+      "id": "mkt:019f8ef9-411e-7aab-8e69-02896f595dd9",
+      "time": "2026-07-23 20:35:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Institution says market expectations for ECB hikes may be overdone】Ed Hutchings, head of developed-market rates at Invesco in London, said the ECB’s primary task is clearly to tackle inflation, so markets’ expectation of further hikes is reasonable. But with one hike already delivered and markets pricing in more than two additional hikes, expectations may have gone too far, and signs of that are beginning to appear."
+    },
+    {
+      "id": "mkt:019f8ef8-f0e3-7aab-8e68-fd1c2776a82c",
+      "time": "2026-07-23 20:35:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "DAX"
+      ],
+      "text": "ECB President Lagarde will hold a monetary policy press conference in 10 minutes."
+    },
+    {
+      "id": "5004797",
+      "time": "2026-07-23 20:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【欣興工具：創業板IPO發行結果，發行價33.58元/股】 欣興工具公告，公司首次公開發行股票並在創業板上市發行結果已公佈。本次發行價格為33.58元/股，發行股份數量為2500萬股。網上投資者放棄認購數量為58490股，放棄認購金額為196.41萬元；網下投資者無放棄認購。網上、網下投資者放棄認購股數全部由保薦人主承銷商包銷，包銷股份數量為5.85萬股，佔發行總數量的0.23%。本次發行費用總額為8108.04萬元。"
+    },
+    {
+      "id": "5004796",
+      "time": "2026-07-23 20:33:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克首席財務官表示：此類創新若能持續發展，將為我們創造機遇，因為它們拓寬了市場準入範圍。"
+    },
     {
       "id": "te:markets:569292",
       "time": "2026-07-23 20:33:46",

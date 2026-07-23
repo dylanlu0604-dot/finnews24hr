@@ -1,7 +1,165 @@
 {
-  "updated": "2026-07-23 20:34:31",
-  "count": 17871,
+  "updated": "2026-07-23 20:38:33",
+  "count": 17868,
   "items": [
+    {
+      "id": "5004805",
+      "time": "2026-07-23 20:38:00",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長表示：消費支出仍保持韌性，這得益於相較於其他可選消費品類，消費者對出行的偏好持續居高不下。"
+    },
+    {
+      "id": "5004804",
+      "time": "2026-07-23 20:37:55",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【交易員對歐洲央行加息的押注維持不變 仍預計年底前加息48個基點】歐洲央行維持利率在2.25%不變，符合市場預期，交易員對9月加息的押注維持不變。決議公佈後，歐元區政府債券變動不大，德國2年期國債收益率上漲2個基點，報2.86%。互換合約顯示，市場預計歐洲央行9月將加息24個基點，同時年底前再加息25個基點的可能性幾乎也達到100%。歐元兌美元維持早前跌勢，最新下跌0.2%，報1.1392美元。"
+    },
+    {
+      "id": "mkt:019f8efb-6174-7aab-8e69-12ff703caba1",
+      "time": "2026-07-23 20:37:46",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Precious Metals"
+      ],
+      "text": "Spot silver slid below $58/oz, down 2.86% intraday."
+    },
+    {
+      "id": "te:economy:569295",
+      "time": "2026-07-23 20:37:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "South Africa",
+        "Building Permits",
+        "Importance 1"
+      ],
+      "text": "South Africa Building Permits Drop in May — The value of building plans approved in South Africa declined 13.1% year-on-year to ZAR 8,021.9 million in May 2026, reversing a 16.9% increase in the previous month. The decline was broad-based across all categories, with the highest decline in non-residential buildings, plunging 10.5% after a 43.5% gain. Residential building approvals also decreased 13.4%, following an 18.0% rise. Meanwhile, additions and alterations also fell, contracting further to 14.2% from 2.2%."
+    },
+    {
+      "id": "5004803",
+      "time": "2026-07-23 20:37:21",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨白銀失守58美元/盎司，日內跌2.82%。"
+    },
+    {
+      "id": "5004802",
+      "time": "2026-07-23 20:37:20",
+      "tags": [
+        "市場"
+      ],
+      "text": "紐約期金日內跌2%，現報4068.54美元/盎司。"
+    },
+    {
+      "id": "5004801",
+      "time": "2026-07-23 20:37:09",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國航空執行長：由於航空旅行需求保持強勁，整個行業的收入環境仍向好。"
+    },
+    {
+      "id": "mkt:019f8efa-ae78-7aab-8e69-0c9ac5f34dc3",
+      "time": "2026-07-23 20:37:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "TOT.PA",
+        "Impact bullish"
+      ],
+      "text": "TotalEnergies CEO said July refining margins were $35/barrel."
+    },
+    {
+      "id": "5004800",
+      "time": "2026-07-23 20:36:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長稱，7月煉油毛利達每桶35美元。"
+    },
+    {
+      "id": "te:economy:569294",
+      "time": "2026-07-23 20:36:43",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Canada",
+        "Retail Sales MoM",
+        "Importance 2"
+      ],
+      "text": "Canada Retail Sales Set to Rise Again in June — Retail sales in Canada increased by 0.4% from the previous month in June 2026, according to a preliminary estimate. If confirmed, it would mark a sixth straight increase in retail sales. In May, retail turnover rose by 1% to C$73.7 billion, in line with earlier estimates. Sales were up in all nine subsectors, led by increases at gasoline stations and fuel vendor (+3.1%). Sales at motor vehicle and parts dealers were up 0.7% in May, rising for a second consecutive month. All four store types within this subsector posted increases in May, with higher sales at new car dealers (+0.5%) leading the gain. Following a decrease of 0.7% in April, core retail sales rose 0.9% in May. The increase was led by higher sales at general merchandise retailers (+1.0%), which posted its first increase in three months. Retail sales increased in nine provinces in May, in particular British Columbia (+2.1%)."
+    },
+    {
+      "id": "5004799",
+      "time": "2026-07-23 20:36:40",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "紐約期金失守4070美元/盎司，日內跌1.98%。"
+    },
+    {
+      "id": "5004798",
+      "time": "2026-07-23 20:35:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：我們的目標是在11月前就巴布亞液化天然氣專案作出最終投資決定，目前正與有關部門加緊推進相關工作。"
+    },
+    {
+      "id": "mkt:019f8ef9-411e-7aab-8e69-02896f595dd9",
+      "time": "2026-07-23 20:35:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "【Institution says market expectations for ECB hikes may be overdone】Ed Hutchings, head of developed-market rates at Invesco in London, said the ECB’s primary task is clearly to tackle inflation, so markets’ expectation of further hikes is reasonable. But with one hike already delivered and markets pricing in more than two additional hikes, expectations may have gone too far, and signs of that are beginning to appear."
+    },
+    {
+      "id": "mkt:019f8ef8-f0e3-7aab-8e68-fd1c2776a82c",
+      "time": "2026-07-23 20:35:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed",
+        "DXY",
+        "DAX"
+      ],
+      "text": "ECB President Lagarde will hold a monetary policy press conference in 10 minutes."
+    },
+    {
+      "id": "5004797",
+      "time": "2026-07-23 20:33:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【欣興工具：創業板IPO發行結果，發行價33.58元/股】 欣興工具公告，公司首次公開發行股票並在創業板上市發行結果已公佈。本次發行價格為33.58元/股，發行股份數量為2500萬股。網上投資者放棄認購數量為58490股，放棄認購金額為196.41萬元；網下投資者無放棄認購。網上、網下投資者放棄認購股數全部由保薦人主承銷商包銷，包銷股份數量為5.85萬股，佔發行總數量的0.23%。本次發行費用總額為8108.04萬元。"
+    },
+    {
+      "id": "5004796",
+      "time": "2026-07-23 20:33:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "納斯達克首席財務官表示：此類創新若能持續發展，將為我們創造機遇，因為它們拓寬了市場準入範圍。"
+    },
     {
       "id": "te:markets:569292",
       "time": "2026-07-23 20:33:46",
@@ -163391,183 +163549,6 @@
         "國際"
       ],
       "text": "【伊朗外交部發言人：伊朗武裝部隊已為各類局勢做好萬全準備】伊朗外交部發言人：伊朗武裝部隊已為各類局勢做好萬全準備，實踐已經印證了這一點。伊朗不會束手束腳，軍隊、外交體系與全體民眾將傾盡全力捍衛國家安全。任何針對伊朗伊斯蘭共和國的侵略行為，都將迎來堅決、直接且毫不退讓的回擊。關於諒解備忘錄，德黑蘭的立場自始至終清晰明確，我方恪守“對等履約”原則。"
-    },
-    {
-      "id": "mkt:019f6aef-625e-7aab-8dc8-e8271a7c94ce",
-      "time": "2026-07-16 20:38:20",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian foreign ministry spokesman Baghaei said Tehran's stance on the memorandum of understanding has been clear from the outset and adheres to a \"commitment for commitment\" principle."
-    },
-    {
-      "id": "4992418",
-      "time": "2026-07-16 20:38:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦部長納克維會見波音全球總裁。"
-    },
-    {
-      "id": "mkt:019f6aef-3584-7aab-8dc8-e3825dbfb987",
-      "time": "2026-07-16 20:38:09",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iranian Foreign Ministry spokesman BAGHAEI said any aggression against Iran will be met with a decisive, direct and resolute response."
-    },
-    {
-      "id": "mkt:019f6aef-0b99-7aab-8dc8-d91cde428360",
-      "time": "2026-07-16 20:37:58",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY",
-        "Impact mixed"
-      ],
-      "text": "Iran Foreign Ministry spokesman BAGHAEI said Iran’s armed forces are fully prepared to respond to various contingencies, and that this readiness has been demonstrated in practice."
-    },
-    {
-      "id": "4992417",
-      "time": "2026-07-16 20:37:51",
-      "tags": [
-        "公司"
-      ],
-      "text": "【展芯股份：首次公開發行股票並在創業板上市提示】展芯股份公告稱，公司首次公開發行股票並在創業板上市申請已獲深交所上市稽核委員會透過，獲中國證監會同意註冊。本次發行網下、網上申購日為2026年7月27日，申購時無需繳付資金。發行採用戰略配售、網下詢價配售和網上定價發行相結合方式，戰略配售由保薦人相關子公司等組成。初步詢價時間為7月21日，發行人和保薦人將直接確定發行價格。網上發行股票無流通限制，網下發行部分10%股份限售6個月。"
-    },
-    {
-      "id": "4992416",
-      "time": "2026-07-16 20:37:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "CrowdStrike將收購XM Cyber相關智慧財產權。"
-    },
-    {
-      "id": "mkt:019f6aee-87bc-7aab-8dc8-d6b2c093e771",
-      "time": "2026-07-16 20:37:24",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bearish",
-        "Brent"
-      ],
-      "text": "【Iraq, Jordan revive Basra–Aqaba oil pipeline as Hormuz disruptions spur alternatives】Iraq and Jordan discussed restarting a dormant Basra–Aqaba oil pipeline to bypass the Strait of Hormuz, sources said. The meeting included Jordan’s deputy PM and foreign minister and Iraq’s prime minister, and was attended by U.S. ambassador to Turkey and Syria/Iraq envoy Tom Barrett. The initiative follows disruptions around the Hormuz corridor—including Iranian actions and a U.S. naval blockade—and the collapse in recent weeks of a prior agreement to reopen the strait. The planned pipeline is about 1,600 km long; it was approved by Iraq in July 2019 but remains unfinished. An original 2013 design envisaged 150,000 bpd at a cost of $18bn and completion in 2017. A new proposal would build the project in two phases: a ~700 km first leg with c.2.25 mln bpd capacity linking Rumaila near Basra to western Iraq, and a second leg to Jordan’s port of Aqaba with c.1.0 mln bpd capacity."
-    },
-    {
-      "id": "4992415",
-      "time": "2026-07-16 20:36:44",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國6月零售銷售速評】美國6月零售銷售環比增長0.2%，符合預期，前值由增長0.9%修正為增長1%。美國6月零售銷售溫和增長，因加油站收入下降拖累了整體資料，掩蓋了部分商家強勁的銷售表現。"
-    },
-    {
-      "id": "4992414",
-      "time": "2026-07-16 20:36:39",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "美國銀行執行長布萊恩·莫伊尼漢表示，該行併購儲備專案儲備充足。"
-    },
-    {
-      "id": "mkt:019f6aed-ac99-7aab-8dc8-cc576011ad2f",
-      "time": "2026-07-16 20:36:28",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Bank of America CEO Moynihan: consumers continue to spend."
-    },
-    {
-      "id": "4992413",
-      "time": "2026-07-16 20:35:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "雅培：旗下癌症診斷業務遭遇網路安全事件，此次事件未對運營及產品供應造成影響。"
-    },
-    {
-      "id": "te:economy:567552",
-      "time": "2026-07-16 20:35:52",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Initial Jobless Claims",
-        "Importance 2"
-      ],
-      "text": "US Initial Claims Fall to 2-Month Low — The number of people claiming unemployment benefits in the US fell by 8,000 to 208,000 on the week to July 11th, well under expectations that it would increase to 217,000, to mark the lowest initial claim count in over two months. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, fell by 16,000 to 1,805,000 on the week to July 4th, under expectations of 1,820,000. The improvements indicated that the labor market remains robust with low levels of firing, despite pressure from declining labor force growth. Meanwhile, initial claims filed by federal employees, which have been under scrutiny due the administration's efforts in decreasing the number of public workers, rose by 20 to 424."
-    },
-    {
-      "id": "4992412",
-      "time": "2026-07-16 20:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "7月16日，全球基金淨賣出421億印度盧比的印度股票。"
-    },
-    {
-      "id": "4992411",
-      "time": "2026-07-16 20:35:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "歐元下跌0.04%，報1.1458美元。"
-    },
-    {
-      "id": "4992410",
-      "time": "2026-07-16 20:35:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "美元兌日後設資料公佈後變動不大，最新上漲0.01%，報162.2。"
-    },
-    {
-      "id": "4992409",
-      "time": "2026-07-16 20:35:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "資料公佈後，美元指數上漲0.13%，報100.58點。"
-    },
-    {
-      "id": "4992408",
-      "time": "2026-07-16 20:35:05",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊下跌0.27%，報1.3502美元。"
-    },
-    {
-      "id": "4992407",
-      "time": "2026-07-16 20:34:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "澤連斯基：我與英國首相已舉行數十次會晤、磋商並共同作出多項決議。今天是他就任首相後第四次訪問烏克蘭，我們累計開展了 46 場正式會談與交流，平均每月至少兩次。我由衷感謝這段時間烏克蘭獲得的所有援助。"
-    },
-    {
-      "id": "4992406",
-      "time": "2026-07-16 20:34:32",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際穀物理事會（IGC）維持2026/27年度全球小麥產量預測不變，仍為8.21億公噸。"
     }
   ]
 }
