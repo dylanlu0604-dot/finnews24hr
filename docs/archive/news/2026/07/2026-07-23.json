@@ -1,7 +1,119 @@
 {
   "date": "2026-07-23",
-  "count": 1846,
+  "count": 1858,
   "items": [
+    {
+      "id": "mkt:019f8e0c-5700-7aab-8e60-184f2b616455",
+      "time": "2026-07-23 16:16:41",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bearish",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "【ING: Pound may fall further on Bank of England–ECB policy split and fiscal risks】ING analysts say the pound could give back recent gains if UK short-term rates fall and fiscal risks return. They view UK inflation as unlikely to hit the 4% threshold that would trigger further Bank of England tightening, while the ECB may still raise rates again. ING also flags that new UK prime minister Andy Burnham is open to larger policy changes, leaving open the possibility of a bolder budget in Oct or Nov. ING forecasts EUR/GBP 0.88 by year-end and 0.90 in 2027."
+    },
+    {
+      "id": "5004003",
+      "time": "2026-07-23 16:16:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【周大生：控股股東質押的1758萬股股份全部解除質押】周大生公告稱，近日，控股股東周氏投資將其質押的公司1758萬股股份（佔其所持股份比例2.89%，佔公司總股本比例1.62%）全部辦理了解除質押手續，質押起始日為2025年11月12日，解除日期為2026年7月22日，質權人為招商證券。截至公告披露日，控股股東及其一致行動人累計質押股份數量為0，其所持公司股份不存在質押、凍結的情況。"
+    },
+    {
+      "id": "mkt:019f8e0b-4999-7aab-8e60-16d99f42a121",
+      "time": "2026-07-23 16:15:32",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed"
+      ],
+      "text": "U.S. Secretary of State Rubio said the United States has fulfilled its agreement with Iran and that Iran may change its mind in the coming days."
+    },
+    {
+      "id": "te:economy:569214",
+      "time": "2026-07-23 16:15:27",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Industrial Production",
+        "Importance 1"
+      ],
+      "text": "Taiwan Industrial Output Hits 3-Month High — Industrial production in Taiwan climbed 22.95% year-on-year in June 2026, accelerating from an upwardly revised 11.85% in the previous month and marking the strongest annual growth since March. Output in the manufacturing sector almost doubled to 24.34% from 12.69% in May, supported by robust gains in the manufacture of electronic parts and components (30.37% vs 12.74%) and computers, electronic and optical products (45.05% vs 35.69%). Overall industrial activity was also supported by a softer contraction in mining and quarrying (-8.54% vs -8.86%) and a faster increase in electricity and gas supply (1.91% vs 0.08%). In contrast, output growth in water supply eased notably (1.42% vs 3.41%). On a seasonally adjusted monthly basis, industrial production jumped to 2.68%, from 1.6% in May and marking the strongest monthly increase since February."
+    },
+    {
+      "id": "mkt:019f8e0b-36e1-7aab-8e60-09129dc6322d",
+      "time": "2026-07-23 16:15:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Shanghai cultural and related industries' revenue tops 1.4 tln yuan in 2025】At a July 23 briefing, Shanghai reported 2025 operating revenue for cultural and related industry firms exceeded 1.4 tln yuan for the first time. Revenue from new cultural formats rose 10.0% YoY and accounted for 56.6% of the city's cultural revenue. Shanghai received 9.3602 mln inbound tourists in 2025, becoming China's primary inbound tourism gateway."
+    },
+    {
+      "id": "5004002",
+      "time": "2026-07-23 16:15:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中誠信託落地行政管理服務信託】近日，中誠信託成功落地一單行政管理服務信託，協助委託人投資某房地產專案破產重整中的共益債權，透過對信託資產進行持續跟蹤與清算分配，使委託人權益在獨立規範的信託架構內得到專業審慎管護。"
+    },
+    {
+      "id": "5004001",
+      "time": "2026-07-23 16:15:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "魯比奧：我方已履行對伊協議義務，未來數日伊朗或改變立場。"
+    },
+    {
+      "id": "te:economy:569213",
+      "time": "2026-07-23 16:14:53",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Taiwan",
+        "Retail Sales YoY",
+        "Importance 1"
+      ],
+      "text": "Taiwan Retail Sales Growth Accelerates to 2-Year High — Retail sales in Taiwan increased by 8% year-on-year in June 2026, accelerating from an upwardly revised 5.2% rise in the previous month. This marked the strongest growth since February 2024, driven by a sharp rebound in sales of motor vehicles, motorcycles, and related parts and accessories (19.1% vs -0.8% in May), as well as faster growth in food, beverages, and tobacco (4.3% vs 1.6%), information and communications equipment and electrical household appliances (6.4% vs 4.7%), and other retail sales (10.9% vs 9.8%). Meanwhile, growth slowed notably in fuel and related products (11.9% vs 17.5%), construction materials (5.0% vs 13.7%), cultural and recreational goods (4.2% vs 9.5%), pharmaceutical and medical goods and cosmetics (2.6% vs 5.6%), and household appliances and goods (3.6% vs 7.4%). On a monthly basis, retail sales rose by 1.1%, easing from an upwardly revised 3% increase in May."
+    },
+    {
+      "id": "5004000",
+      "time": "2026-07-23 16:14:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗科納拉克縣傳出爆炸聲】當地時間23日，伊朗錫斯坦-俾路支斯坦省的科納拉克縣傳出爆炸聲。（央視新聞）"
+    },
+    {
+      "id": "5003998",
+      "time": "2026-07-23 16:14:05",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【大商所就生豬交割發票型別相關規則修改公開徵求意見】7月23日，大連商品交易所釋出公告。根據《中華人民共和國期貨和衍生品法》《期貨交易管理條例》《期貨交易所管理辦法》等有關法律、法規和規章，大商所擬修改《大連商品交易所生豬期貨業務細則》，完善生豬交割發票型別相關規定，現向社會公開徵求意見。\n為維護生豬期貨合約的價格代表性，避免因賣方開具發票型別差異導致買方接貨成本不確定，大商所擬將生豬交割發票型別由增值稅普通發票，修改為農業生產者銷售自產農產品適用免徵增值稅政策而開具的增值稅普通發票和一般納稅人開具的增值稅專用發票，並對《大連商品交易所生豬期貨業務細則》相應條款進行修改。前述修改內容擬在已上市合約上實施。"
+    },
+    {
+      "id": "mkt:019f8e09-789b-7aab-8e60-03ce01e292aa",
+      "time": "2026-07-23 16:13:33",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "AI Revolution",
+        "Star Stocks",
+        "Tencent",
+        "00700.HK",
+        "Impact bullish"
+      ],
+      "text": "【Galaxy Overseas expects Tencent Q2 to hold up】Galaxy Overseas analysts say Tencent's Q2 results are likely to hold up, supported by games and advertising; they forecast domestic games revenue +8% YoY and international games revenue +15% YoY. They expect Tencent to boost AI-related investment in H2 to upgrade its Hunyuan large model, cloud infrastructure and AI agent services. Galaxy Overseas projects full-year capex of CNY103 bln and says Tencent may step up capex in H2. The broker maintains an Overweight rating on Tencent (00700.HK) with a target price of HK$702.00."
+    },
     {
       "id": "mkt:019f8e09-5da1-7aab-8e5f-fac8b78e710a",
       "time": "2026-07-23 16:13:26",
@@ -9,6 +121,14 @@
         "MKT News"
       ],
       "text": "U.S. Secretary of State Rubio said Iran, despite a show of toughness, is enduring severe pain and will continue to do so."
+    },
+    {
+      "id": "5003997",
+      "time": "2026-07-23 16:13:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年上海文化及相關產業企業實現營業收入首次突破1.4萬億元】上海市新聞釋出會7月23日舉行，解讀《上海市社會主義國際文化大都市建設“十五五”規劃》有關情況。上海市委宣傳部常務副部長、上海市精神文明辦主任方世忠表示，2025年，上海文化及相關產業企業實現營業收入首次突破1.4萬億元，文化新業態企業營收同比增長10.0%，佔全市文化營收56.6%。2025年，上海接待入境遊客936.02萬人次，已經成為“中國入境旅遊第一站”。"
     },
     {
       "id": "mkt:019f8e09-513a-7aab-8e5f-f01a6033c656",
