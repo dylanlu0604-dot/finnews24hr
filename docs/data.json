@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-24 00:06:35",
-  "count": 18027,
+  "updated": "2026-07-24 00:10:49",
+  "count": 18023,
   "items": [
+    {
+      "id": "mkt:019f8fbd-cd62-7aab-8e70-7c0a51e7f6de",
+      "time": "2026-07-24 00:10:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Trump‑nominated head of the U.S. Consumer Financial Protection Bureau said he would remain \"open\" to plans to cut most of the agency's staff."
+    },
+    {
+      "id": "5005170",
+      "time": "2026-07-24 00:09:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息稱西雅圖海鷹隊（NFL球隊）新任所有者正洽談引入新投資方。"
+    },
+    {
+      "id": "te:markets:569353",
+      "time": "2026-07-24 00:09:33",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 0"
+      ],
+      "text": "CAC 40 Slides on Geopolitical Risks — The CAC 40 fell 1.6% to close at 8,299 on Thursday on escalating geopolitical tensions. Oil prices surged as renewed attacks heightened concerns over global energy supplies, reigniting inflation fears and reinforcing expectations that interest rates could remain higher for longer. Financials traded lower, with Société Générale down 2.9% and BNP Paribas shedding 2.8% despite upbeat Q2 results. Luxury stocks tumbled on increased risk aversion, with LVMH down 4.3%, L'Oréal shedding 3.1%, Hermès losing 3.4%, and Kering falling 4.8%. STMicroelectronics plunged 17.7% after issuing weaker-than-expected Q3 sales guidance. In contrast, Thales gained 5.1% after reporting a surge in first-half orders and beating EPS forecasts, while TotalEnergies rose 2.5% after posting a 68% jump in adjusted net income to $6.03 billion and revenue above estimates. The ECB left interest rates unchanged, saying its energy price outlook remains broadly in line with its June projections despite ongoing volatility."
+    },
+    {
+      "id": "te:markets:569352",
+      "time": "2026-07-24 00:08:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "FTSE 100 Falls on Thursday — The FTSE 100 fell more than 0.5% on Thursday, as Brent extended gains for a fifth straight session to above $100 a barrel. Oil prices rallied after Iran-backed Houthi forces claimed attacks on two oil tankers in the Red Sea, reinforcing supply concerns. Shell and BP rose around 1.7% and 3%, respectively. RELX closed slightly lower, having opened around 2% higher, after reporting first-half operating profit in line with expectations, while reaffirming its full-year guidance. BT fell more than 1% after maintaining its annual outlook despite a slight decline in quarterly profit. Centrica (-10.4%) also reaffirmed guidance after posting stronger-than-expected first-half earnings. Meanwhile, EasyJet said profit fell by 70% in its fiscal third quarter, with its outlook still dependent on fuel prices and remaining summer demand. On the monetary policy front, the ECB kept rates unchanged, as expected."
+    },
+    {
+      "id": "5005169",
+      "time": "2026-07-24 00:07:31",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳力挺中國AI模型：DeepSeek、Kimi這樣優秀的大模型得到廣泛應用】據美國媒體當地時間22日報道，英偉達公司創始人兼執行長黃仁勳在接受採訪時談及中國人工智慧發展，稱中國開源AI模型非常優秀，美國不應懼怕中國的開源AI模型。黃仁勳表示，中國大模型非常出色，優秀的開源大模型應該得到使用，上一次市場誤解了DeepSeek的影響，這次又誤解了Kimi的影響。他認為優秀的開源AI大模型對整個行業大有裨益，技術將擴散到更多行業。黃仁勳認為，DeepSeek、Kimi這樣優秀的大模型得到廣泛應用，進而會帶來巨大的增長。（央視財經）"
+    },
+    {
+      "id": "te:markets:569351",
+      "time": "2026-07-24 00:07:03",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United Kingdom",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE 100 Index Closes 0.82% Lower — The FTSE 100 Index decreased 87 points or 0.82 percent on Thursday to close at 10630 points. The decline was led by Centrica (-10.37%), Fresnillo (-6.73%) and Endeavour (-5.26%). On the upside, the strongest performers were Segro (7.13%), 3i (4.70%) and BP (3.01%)."
+    },
+    {
+      "id": "5005168",
+      "time": "2026-07-24 00:06:07",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【年內科創債發行總規模超1萬億元】今年以來，科創債發行持續火熱，服務科技創新質效顯著提升。資料顯示，以上市日期計，截至7月23日，年內新增科創債數量1070只，發行總額為10573.13億元。中信證券首席經濟學家明明在接受記者採訪時表示，科創債發行活躍，一方面是因為政策層面持續釋放支援訊號，監管部門最佳化發行機制、拓寬科創主體認定標準；另一方面是因為科創債融資成本低於同級別普通訊用債，企業發債意願強，同時科創債ETF等投資工具快速擴容，機構配置需求持續釋放，供需兩端共同推高發行熱度。"
+    },
+    {
+      "id": "5005167",
+      "time": "2026-07-24 00:05:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外長阿拉格齊駁斥有關伊拉克總理將攜美方訊息前往德黑蘭的報道】伊朗外長阿巴斯・阿拉格齊表示，伊朗並不缺少與美國傳遞資訊的中間人，同時強調，雙方談判取得進展的核心阻礙在於美國採取 “非理性、過度且霸權主義” 的行事方式。"
+    },
     {
       "id": "mkt:019f8fb9-1108-7aab-8e70-76505b4f7df0",
       "time": "2026-07-24 00:04:58",
@@ -165104,126 +165181,6 @@
         "Importance 1"
       ],
       "text": "The DAX Index Closes 0.34% Lower — The DAX Index fell 84 points or 0.34 percent on Thursday to close at 24915 points. Leading the losses are Infineon (-4.23%), E.ON (-2.30%) and Siemens Energy (-2.26%). Top gainers were Symrise (2.01%), Beiersdorf (1.60%) and Henkel (1.19%)."
-    },
-    {
-      "id": "mkt:019f6bb1-bbf3-7aab-8dcd-2827f49264dd",
-      "time": "2026-07-17 00:10:37",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Sources say Saudi state-owned developer ROSHN is seeking investors for a World Cup stadium construction project."
-    },
-    {
-      "id": "mkt:019f6bb1-8d54-7aab-8dcd-25cdfa07de0a",
-      "time": "2026-07-17 00:10:25",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7"
-      ],
-      "text": "Google (GOOG.O) launches Gemini Omni integration and personal digital avatar features on Google Vids, available to Google AI Pro and AI Ultra subscribers and Workspace enterprise customers."
-    },
-    {
-      "id": "4992741",
-      "time": "2026-07-17 00:10:21",
-      "tags": [
-        "公司"
-      ],
-      "text": "谷歌： Gemini Omni及個人頭像現已面向谷歌AI Pro、谷歌AI Ultra訂閱使用者，以及Google Workspace企業客戶開放，可在Google Vids中使用。"
-    },
-    {
-      "id": "te:markets:567618",
-      "time": "2026-07-17 00:10:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The CAC 40 Index Closes 0.05% Lower — The CAC 40 Index dropped 5 points or 0.05 percent on Thursday to close at 8378 points. Losses were led by STMicroelectronics (-8.90%), TP (-4.06%) and Schneider Electric (-2.20%). Offsetting the fall, top gainers were Pernod Ricard (2.50%), Publicis (2.48%) and Michelin (1.68%)."
-    },
-    {
-      "id": "mkt:019f6bb0-b605-7aab-8dcd-18cf7c3ac2f8",
-      "time": "2026-07-17 00:09:30",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O"
-      ],
-      "text": "Google (GOOG.O) launched GEMINI Omni and updated Google Vids' personal digital avatar feature."
-    },
-    {
-      "id": "4992740",
-      "time": "2026-07-17 00:09:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "訊息人士稱，沙烏地阿拉伯國有開發商羅尚（Roshn）正為世界盃場館專案尋找投資者。"
-    },
-    {
-      "id": "4992739",
-      "time": "2026-07-17 00:08:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗方面訊息： 葉門軍方官員稱，以色列正協助沙烏地阿拉伯攔截葉門的報復性打擊行動。"
-    },
-    {
-      "id": "4992738",
-      "time": "2026-07-17 00:07:44",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "市場訊息：谷歌已在美國推出搜尋人工智慧模式下的應用整合功能。谷歌Vids支援透過自拍和錄音建立數字虛擬人。"
-    },
-    {
-      "id": "mkt:019f6bae-f7de-7aab-8dcd-106b3817afb2",
-      "time": "2026-07-17 00:07:36",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Iran's Mehr news agency cited Yemeni military officials saying Israel is assisting Saudi Arabia in intercepting Yemen's retaliatory attacks."
-    },
-    {
-      "id": "4992737",
-      "time": "2026-07-17 00:07:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：GOOGLE將NOTEBOOKLM更名為 GEMINI NOTEBOOK。"
-    },
-    {
-      "id": "te:markets:567617",
-      "time": "2026-07-17 00:07:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United Kingdom",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE 100 Index Closes 0.42% Higher — The FTSE 100 Index went up by 44 points or 0.42 percent on Thursday to close at 10560 points. The rise was led by Diploma (5.98%), Weir (4.15%) and Metlen Energy & Metals (3.98%). On the downside, the weakerst performers were St. Jamess (-7.87%), Antofagasta (-4.12%) and Fresnillo (-3.18%)."
-    },
-    {
-      "id": "4992736",
-      "time": "2026-07-17 00:06:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【4名希臘議員因涉嫌歐盟農業補貼欺詐被起訴】歐洲檢察官辦公室16日宣佈，4名希臘議會現任議員和多名前高階公職人員等22人，因涉嫌歐盟農業補貼資金欺詐，當天在雅典被起訴。其中，3名議員被控教唆實施濫用信託罪，1名議員被控教唆非法管理歐盟資金。上述4人中的一人同時還被控計算機欺詐未遂和教唆出具虛假證明。檢方稱，這是一起大規模有組織欺詐案，涉案官員涉嫌透過偽造檔案等非法手段，協助將歐盟農業補貼違規發放給不符合條件的受益人，涉案金額或高達數億歐元。若罪名成立，被告最高將面臨5年監禁並處罰金。2025年6月，時任移民和庇護部長馬基斯·沃裡季斯等5名希臘政府高官因涉嫌透過偽造檔案向不具資格的希臘農戶發放歐盟農業補貼款項而辭職。今年4月，希臘政府因冒領歐盟農業補貼醜聞再次改組。（新華社）"
     }
   ]
 }
