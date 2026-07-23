@@ -1,7 +1,71 @@
 {
   "date": "2026-07-23",
-  "count": 3574,
+  "count": 3581,
   "items": [
+    {
+      "id": "mkt:019f8fa0-988b-7aab-8e70-122a08ca582b",
+      "time": "2026-07-23 23:38:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish",
+        "FTSE100"
+      ],
+      "text": "European stocks closed sharply lower on July 23 (Thursday): Germany's DAX fell 419.90 points (-1.67%) to 24,754.20; the UK’s FTSE 100 dropped 77.81 points (-0.73%) to 10,639.16; France's CAC 40 slid 138.80 points (-1.64%) to 8,299.09; the STOXX Europe 50 lost 107.64 points (-1.70%) to 6,209.35; Spain's IBEX 35 fell 326.19 points (-1.67%) to 19,245.11; Italy's FTSE MIB declined 1,470.04 points (-2.78%) to 51,322.00."
+    },
+    {
+      "id": "5005131",
+      "time": "2026-07-23 23:37:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "IBM 執行長：7 月未觀察到客戶支出趨勢持續轉變。"
+    },
+    {
+      "id": "5005130",
+      "time": "2026-07-23 23:37:36",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【特朗普考慮重啟對伊朗重大軍事行動】據美國阿克西奧斯新聞網報道，美國總統特朗普7月23日表示，他正在認真考慮在伊朗重新啟動重大軍事行動。（CCTV國際時訊）"
+    },
+    {
+      "id": "5005129",
+      "time": "2026-07-23 23:37:16",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "白宮談全球關稅：美國貿易代表辦公室即將釋出公告。"
+    },
+    {
+      "id": "5005128",
+      "time": "2026-07-23 23:36:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "白宮：美沙協議仍在商討中。"
+    },
+    {
+      "id": "5005127",
+      "time": "2026-07-23 23:36:48",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【美科技巨頭被曝因AI背鉅額隱性債務】日本媒體《日經亞洲評論》7月21日報道稱，五家美國科技巨頭因為不透明的人工智慧融資，致使隱性債務規模飆升至1.65萬億美元。《日經亞洲評論》在查閱了谷歌的母公司“字母表”公司、微軟、亞馬遜、元宇宙公司和甲骨文公司的財報和其他資料後發現，這五家科技巨頭的隱性債務4年內增長了8倍，最近一個季度達到了1.65萬億美元，遠超表內約1.35萬億美元的負債規模。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f8f9e-9371-7aab-8e70-0a7784d5375e",
+      "time": "2026-07-23 23:36:01",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House: President Trump has not yet discussed terms of a nuclear deal with Saudi leadership."
+    },
     {
       "id": "mkt:019f8f9c-f441-7aab-8e70-0550c718c362",
       "time": "2026-07-23 23:34:15",
