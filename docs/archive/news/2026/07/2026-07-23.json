@@ -1,7 +1,244 @@
 {
   "date": "2026-07-23",
-  "count": 3551,
+  "count": 3574,
   "items": [
+    {
+      "id": "mkt:019f8f9c-f441-7aab-8e70-0550c718c362",
+      "time": "2026-07-23 23:34:15",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. 8-week Treasury auction through July 23: share of awards at the stop-out yield 87.33%, prior 46.6%."
+    },
+    {
+      "id": "mkt:019f8f9c-cca2-7aab-8e6f-fe1443b02cfc",
+      "time": "2026-07-23 23:34:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "US 8-week Treasury bill auction on July 23: stop-out yield 3.795% vs 3.65% previously."
+    },
+    {
+      "id": "mkt:019f8f9c-b2b4-7aab-8e6f-f0146f99e6fa",
+      "time": "2026-07-23 23:33:58",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction High Yield Rate (Jul.23) | actual 3.795% | previous 3.65%"
+    },
+    {
+      "id": "mkt:019f8f9c-a7d4-7aab-8e6f-ea645253e4f1",
+      "time": "2026-07-23 23:33:56",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "USDJPY"
+      ],
+      "text": "U.S. 8-week Treasury bill auction to July 23: bid-cover ratio 2.31, prior 2.84."
+    },
+    {
+      "id": "mkt:019f8f9c-8ce2-7aab-8e6f-e080f9c0ae58",
+      "time": "2026-07-23 23:33:49",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 8-Week Bill Auction Bid/Cover Ratio (Jul.23) | actual 2.31 | previous 2.84"
+    },
+    {
+      "id": "5005126",
+      "time": "2026-07-23 23:33:40",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮表示：美國將繼續與沙烏地阿拉伯展開對話。"
+    },
+    {
+      "id": "5005125",
+      "time": "2026-07-23 23:33:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "白宮：特朗普過去曾與沙烏地阿拉伯就相關協議進行過交談。"
+    },
+    {
+      "id": "mkt:019f8f9c-246d-7aab-8e6f-dd52557778fa",
+      "time": "2026-07-23 23:33:22",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says it will continue dialogue with Saudi Arabia."
+    },
+    {
+      "id": "mkt:019f8f9c-007f-7aab-8e6f-d47414235689",
+      "time": "2026-07-23 23:33:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says it will work to help finalize a US-Saudi agreement."
+    },
+    {
+      "id": "mkt:019f8f9b-f951-7aab-8e6f-cfcb9ffbba55",
+      "time": "2026-07-23 23:33:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "White House says it hopes Saudi Arabia can join the agreement as soon as possible."
+    },
+    {
+      "id": "mkt:019f8f9b-cc5c-7aab-8e6f-c1316c94100d",
+      "time": "2026-07-23 23:32:59",
+      "tags": [
+        "MKT News",
+        "Brent"
+      ],
+      "text": "White House says a Saudi energy agreement would be contingent on Riyadh joining the Abraham Accords."
+    },
+    {
+      "id": "mkt:019f8f9b-36ea-7aab-8e6f-bce8ac142bff",
+      "time": "2026-07-23 23:32:21",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "【Trump says he's close to deciding on large-scale strike against Iran】Axios reports President Trump said he is seriously considering a renewed large-scale military strike on Iran, including attacks more severe than during the “Epic Fury” action. He said the choice would have consequences, has not been finalized and no deadline has been set. Two U.S. officials confirmed no orders have been issued and no new directives have been sent to the military. Trump said Israel would join “in two minutes” if asked but that the U.S. “does not need anyone”; he warned Israel would face “consequences” if it participated, implying potential Iranian retaliation."
+    },
+    {
+      "id": "mkt:019f8f9b-21f4-7aab-8e6f-b42b26141261",
+      "time": "2026-07-23 23:32:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "U.S. 4-week Treasury bill auction settling July 23: stop-out yield 3.73% vs 3.66% previously."
+    },
+    {
+      "id": "mkt:019f8f9b-1aa7-7aab-8e6f-a9c5be386c73",
+      "time": "2026-07-23 23:32:14",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "US 4-week Treasury auction on July 23: bid-cover ratio 2.79, prior 2.57."
+    },
+    {
+      "id": "mkt:019f8f9b-17f9-7aab-8e6f-a6654a1e7b85",
+      "time": "2026-07-23 23:32:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "U.S. 4-week Treasury auction to July 23 — percentage of award allocated at the high (stop-out) rate 11.81%, prior 44.46%."
+    },
+    {
+      "id": "mkt:019f8f9a-fa80-7aab-8e6f-9e0faae09d81",
+      "time": "2026-07-23 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Bid/Cover Ratio (Jul.23) | actual 2.79 | previous 2.57"
+    },
+    {
+      "id": "mkt:019f8f9a-fa4e-7aab-8e6f-930acb6910ba",
+      "time": "2026-07-23 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction High Yield Rate (Jul.23) | actual 11.81% | previous 44.46%"
+    },
+    {
+      "id": "mkt:019f8f9a-fa4c-7aab-8e6f-8d44d682f8a7",
+      "time": "2026-07-23 23:32:06",
+      "tags": [
+        "MKT News",
+        "Economic Calendar"
+      ],
+      "text": "United States | 4-Week Bill Auction Accepted at High (Jul.23) | actual 3.73% | previous 3.66%"
+    },
+    {
+      "id": "te:economy:569348",
+      "time": "2026-07-23 23:31:15",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Netherlands",
+        "Government Bond 10Y",
+        "Importance 0"
+      ],
+      "text": "Netherlands 10Y Bond Yield Hits 33-month High — Netherlands 10 Year Government Bond Yield increased to 3.33%, the highest since October 2023. Over the past 4 weeks, Netherlands 10Y Bond Yield gained 33.96 basis points, and in the last 12 months, it increased 45.40 basis points."
+    },
+    {
+      "id": "te:markets:569347",
+      "time": "2026-07-23 23:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Comcast Stock Price Hits 4-week Low — Comcast shares decreased to 22.69 USD, the lowest since June 2026. Over the past 4 weeks, Comcast gained 0.31%, and in the last 12 months, it decreased 35.79%."
+    },
+    {
+      "id": "5005122",
+      "time": "2026-07-23 23:30:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "德國DAX 30指數初步收跌1.63%，報24744.16點。法國股指初步收跌1.72%，義大利股指初步收跌2.63%、銀行指數跌2.91%，英國股指初步收跌0.75%。"
+    },
+    {
+      "id": "5005121",
+      "time": "2026-07-23 23:30:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "歐洲STOXX 600指數初步收跌1.18%，報639.27點。歐元區STOXX 50指數初步收跌1.70%，報6209.46點。富時泛歐績優300指數初步收跌1.18%，報2555.81點。"
+    },
+    {
+      "id": "mkt:019f8f99-66ac-7aab-8e6f-85c4f22ee655",
+      "time": "2026-07-23 23:30:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Themes",
+        "The Trump Trade",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "S&P500",
+        "Impact bearish"
+      ],
+      "text": "Axios reports U.S. President Trump said on Thursday he is seriously considering restarting major military operations in Iran."
+    },
     {
       "id": "5005120",
       "time": "2026-07-23 23:29:57",
