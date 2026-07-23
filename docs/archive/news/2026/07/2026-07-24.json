@@ -1,7 +1,111 @@
 {
   "date": "2026-07-24",
-  "count": 464,
+  "count": 475,
   "items": [
+    {
+      "id": "5005477",
+      "time": "2026-07-24 07:09:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "【科技板塊持續調整 機構關注資源品與紅利低位股】近期，A股科技板塊明顯調整，市場風險偏好有所回落。Wind資料顯示，截至7月23日的近3個交易日，有色金屬、電氣裝置、石油石化等板塊率先獲得資金迴流，消費、紅利和金融板塊則呈現結構性機會。機構認為，本輪調整更多是外部擾動、交易擁擠和估值壓力集中釋放的結果，市場中長期執行邏輯並未發生根本變化。在半年報密集披露的視窗期，資金正由前期高彈性、高估值的方向，逐步轉向業績確定性更強、估值更具安全邊際的板塊。（中國證券報）"
+    },
+    {
+      "id": "5005476",
+      "time": "2026-07-24 07:08:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達：合作內容包括計算資源投入，每年將為至少10名韓國科學技術院研究人員提供資助，同時為韓國研究人員提供英偉達實習崗位及全職崗位。"
+    },
+    {
+      "id": "mkt:019f913c-9ab8-7aab-8e74-83e155fd6672",
+      "time": "2026-07-24 07:08:15",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "NVIDIA (NVDA.O) is committed to advancing a lab to develop agent-based AI models and agent systems tailored to South Korea’s industries, language and future needs."
+    },
+    {
+      "id": "5005475",
+      "time": "2026-07-24 07:08:11",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【7月以來機構調研近540家上市公司 多隻績優標的成“心頭好”】7月A股上市公司2026年上半年業績預告密集出爐，券商等市場重要機構對上市公司也加大調研力度，掘金績優股機遇。Wind資料顯示，截至7月23日記者發稿時，7月以來已有近540家上市公司接待機構調研，其中超110家公司預計上半年淨利潤同比增長，部分業績高增標的獲得機構密集關注。近期A股進入調整階段，對於後市走勢，業內人士認為，在政策支援以及科技產業趨勢仍在發展的背景下，未來市場情緒或逐步修復。對於科技板塊，需要在波浪式前進中把握投資節奏，消費板塊開始逐步具備配置價值，此外進入“擊球區”的黃金也值得關注。（中國證券報）"
+    },
+    {
+      "id": "mkt:019f913c-0a8a-7aab-8e74-7c8ae191bcc3",
+      "time": "2026-07-24 07:07:38",
+      "tags": [
+        "MKT News",
+        "00005.HK",
+        "Impact mixed",
+        "ALV.DE",
+        "Impact bullish"
+      ],
+      "text": "【HSBC to sell Singapore life and health business to Allianz】HSBC (00005.HK) has agreed to sell HSBC Life Insurance (Singapore) Pte Ltd to Allianz for SGD 2.7 bln, subject to regulatory approval and expected to close in 1H 2027. The deal includes a 15-year exclusive bancassurance distribution agreement under which HSBC will continue distributing insurance products to its Singapore customers. HSBC will receive an initial one-off cash payment of SGD 200 mln on signing the distribution agreement."
+    },
+    {
+      "id": "5005474",
+      "time": "2026-07-24 07:07:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達與韓國科學技術院（KAIST）聯合成立人工智慧研究實驗室，推動韓國人工智慧創新加速落地。"
+    },
+    {
+      "id": "5005473",
+      "time": "2026-07-24 07:06:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "【新機潮疊加AI機遇 消費電子產業鏈全速備貨】消費電子行業景氣度穩步回暖，業績端迎來明顯改善。Wind資料顯示，截至7月23日，A股已有32家消費電子公司披露上半年業績預告，逾七成預計盈利。AI已成為行業增長的核心引擎，AI智慧硬體放量與算力業務拓展支撐起多家公司上半年業績大幅預增。進入下半年，消費電子行業在傳統旺季中亮點紛呈：全球首款AI智慧體手機正式亮相，三星首款AI眼鏡釋出，蘋果首款摺疊屏手機組裝出貨量預計多達800萬臺。上述訊息持續催化市場熱度，A股產業鏈公司紛紛加快備貨節奏。隨著AI智慧硬體推動零部件價值量持續上行，行業正步入軟硬體協同升級的關鍵視窗期。（上海證券報）"
+    },
+    {
+      "id": "5005472",
+      "time": "2026-07-24 07:06:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【任正非：τ定律是華為唯一一條突圍道路】7月22日，華為心聲社群轉發了《人民日報》對何庭波的專訪文章，華為創始人任正非親自撰寫代序《道可，道非，常道》，完整發表對韜（τ）定律的權威定調。任正非表示：“道可，道非，常道。τ定律是華為可以選擇的唯一一條突圍道路。”"
+    },
+    {
+      "id": "te:economy:569393",
+      "time": "2026-07-24 07:06:28",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Services PMI",
+        "Importance 2"
+      ],
+      "text": "Australia Services Sector Growth Hits 6-Month High — The S&P Global Flash Australia Services PMI Business Activity Index increased to 53.0 in July 2026 from 50.5 in June, marking the strongest growth since January, preliminary estimates showed. It was the second consecutive month of expansion in the services sector, supported by higher output."
+    },
+    {
+      "id": "5005471",
+      "time": "2026-07-24 07:05:59",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "韓國將與美國財政部圍繞外匯問題繼續溝通。"
+    },
+    {
+      "id": "5005470",
+      "time": "2026-07-24 07:05:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "【墨西哥經濟部長：美國新關稅措施不會對本國出口品造成影響】墨西哥經濟部長埃布拉德(Marcelo Ebrard)週四表示，在美國政府宣佈將從週五起對60個貿易伙伴國加徵10%和12.5%新關稅後，墨西哥“實際繳納的關稅稅率不會出現變化”。根據特朗普政府一位高階官員的說法，許多商品將獲得豁免，包括符合美墨加協定（USMCA）貿易條款的商品。埃布拉德在社交媒體釋出的一段影片中表示，USMCA的豁免條款，意味著墨西哥對美國出口約85%的商品將繼續享有免關稅待遇。另外10%的商品受《1974年貿易法》第122條約束，該措施將於週五到期。埃布拉德補充道，新關稅將在原有的關稅到期之際生效，適用於相同的10%商品。他表示：“新關稅取代了舊關稅，因此關稅待遇維持不變。”"
+    },
     {
       "id": "5005469",
       "time": "2026-07-24 07:05:11",
