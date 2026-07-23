@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-24 01:57:10",
+  "updated": "2026-07-24 02:01:09",
   "count": 17989,
   "items": [
+    {
+      "id": "mkt:019f9021-e56d-7aab-8e71-303bd7462d33",
+      "time": "2026-07-24 01:59:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk says Grok 4.5 is now live on all platforms."
+    },
+    {
+      "id": "5005291",
+      "time": "2026-07-24 01:58:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將Alphabet的目標股價從每股415美元下調至每股400美元，維持Alphabet增持評級。"
+    },
+    {
+      "id": "mkt:019f9020-f2eb-7aab-8e71-2c2059878784",
+      "time": "2026-07-24 01:58:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Yi meets Belarus foreign minister】China said next year marks the 35th anniversary of diplomatic ties and that it will work with Belarus to plan multi-level exchanges, align development strategies, deepen governance-experience sharing, and advance higher-quality, all-round bilateral cooperation. Belarus thanked China for long-standing support, said frequent high-level leader contact has raised ties to an unprecedented level, and pledged to deepen comprehensive cooperation and draw on Chinese experience, using the 35th anniversary as an opportunity to expand cooperation in industry, investment and information technology and broaden local and people-to-people exchanges."
+    },
+    {
+      "id": "5005290",
+      "time": "2026-07-24 01:57:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將蘋果目標股價從每股360.00美元上調至364.00美元，維持蘋果公司增持評級。"
+    },
+    {
+      "id": "mkt:019f901f-c895-7aab-8e71-25aa7afbaf2e",
+      "time": "2026-07-24 01:57:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude briefly touched $96 a barrel, its highest since June 8, rising 5.89% intraday."
+    },
     {
       "id": "5005289",
       "time": "2026-07-24 01:54:30",
@@ -164740,50 +164786,6 @@
         "其他"
       ],
       "text": "洛根：目前薪資並未帶來通脹壓力。"
-    },
-    {
-      "id": "4992848",
-      "time": "2026-07-17 01:58:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：媒體今晚應該播出特朗普的演講。"
-    },
-    {
-      "id": "4992847",
-      "time": "2026-07-17 01:58:37",
-      "tags": [
-        "國際"
-      ],
-      "text": "【高溫持續 歐洲6月累計“超額死亡人數”已達1.2萬】今年6月，歐洲約10個國家累計記錄至少1.2萬例超額死亡。據悉，這一統計仍屬階段性資料，隨著各國後續公佈更多統計結果，死亡人數預計還將進一步上升。“超額死亡人數”是指特定地點和特定時期估計的總死亡人數與沒有健康危機情況下的估計死亡人數之間的差額。今年6月，歐洲多國遭遇持續高溫天氣，西歐和南歐部分地區氣溫突破40攝氏度，多國發布高溫預警。高溫還引發森林火災、電力供應緊張和公共衛生壓力等問題。（央視新聞）"
-    },
-    {
-      "id": "4992846",
-      "time": "2026-07-17 01:58:23",
-      "tags": [
-        "國際"
-      ],
-      "text": "白宮：特朗普讚賞美國與土耳其關係。"
-    },
-    {
-      "id": "mkt:019f6c13-aa62-7aab-8dcf-50361d70020c",
-      "time": "2026-07-17 01:57:35",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "LOGAN: The Federal Reserve's meeting mechanism, organizational structure and data-driven decision-making approach have not changed."
-    },
-    {
-      "id": "mkt:019f6c13-5965-7aab-8dcf-49dc5f475bb7",
-      "time": "2026-07-17 01:57:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "The Fed's Logan said Fed chair Kevin Warsh, like former chair Powell, has shown deep dedication to the Federal Reserve."
     }
   ]
 }

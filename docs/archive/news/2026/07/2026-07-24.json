@@ -1,7 +1,53 @@
 {
   "date": "2026-07-24",
-  "count": 160,
+  "count": 165,
   "items": [
+    {
+      "id": "mkt:019f9021-e56d-7aab-8e71-303bd7462d33",
+      "time": "2026-07-24 01:59:28",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Musk says Grok 4.5 is now live on all platforms."
+    },
+    {
+      "id": "mkt:019f9020-f2eb-7aab-8e71-2c2059878784",
+      "time": "2026-07-24 01:58:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wang Yi meets Belarus foreign minister】China said next year marks the 35th anniversary of diplomatic ties and that it will work with Belarus to plan multi-level exchanges, align development strategies, deepen governance-experience sharing, and advance higher-quality, all-round bilateral cooperation. Belarus thanked China for long-standing support, said frequent high-level leader contact has raised ties to an unprecedented level, and pledged to deepen comprehensive cooperation and draw on Chinese experience, using the 35th anniversary as an opportunity to expand cooperation in industry, investment and information technology and broaden local and people-to-people exchanges."
+    },
+    {
+      "id": "5005291",
+      "time": "2026-07-24 01:58:26",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將Alphabet的目標股價從每股415美元下調至每股400美元，維持Alphabet增持評級。"
+    },
+    {
+      "id": "5005290",
+      "time": "2026-07-24 01:57:24",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根士丹利將蘋果目標股價從每股360.00美元上調至364.00美元，維持蘋果公司增持評級。"
+    },
+    {
+      "id": "mkt:019f901f-c895-7aab-8e71-25aa7afbaf2e",
+      "time": "2026-07-24 01:57:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Brent crude briefly touched $96 a barrel, its highest since June 8, rising 5.89% intraday."
+    },
     {
       "id": "5005289",
       "time": "2026-07-24 01:54:30",
