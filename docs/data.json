@@ -1,7 +1,152 @@
 {
-  "updated": "2026-07-24 07:30:08",
-  "count": 17996,
+  "updated": "2026-07-24 07:34:08",
+  "count": 18004,
   "items": [
+    {
+      "id": "5005508",
+      "time": "2026-07-24 07:33:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將麥格理目標價上調3.8%，至每股273.00澳元。"
+    },
+    {
+      "id": "mkt:019f9153-37d2-7aab-8e74-ff3722eb1471",
+      "time": "2026-07-24 07:32:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan nationwide not-seasonally-adjusted CPI, June MoM 0.0%, prior 0.5%."
+    },
+    {
+      "id": "mkt:019f9153-1dd0-7aab-8e74-f23c5c73f435",
+      "time": "2026-07-24 07:32:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (MoM) (Jun) | actual 0% | previous 0.5%"
+    },
+    {
+      "id": "5005507",
+      "time": "2026-07-24 07:32:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多起致人死亡事故後，美國著手製定車門安全法規】美國汽車安全監管機構將起草全新規範，保障駕乘人員能夠安全下車，以此解決多起致人死亡的車內人員被困事故暴露出的安全隱患。監管檔案顯示，美國國家公路交通安全管理局於週四表示，將啟動聯邦新規制定流程，響應請願方訴求，要求 “所有機動車配備可靠、醒目的車內開門逃生裝置”。新規若正式落地，美國境內所有新車均需遵守相關標準。特斯拉及其他車企設計的隱藏式電動門把手車輛已發生多起事故：車輛斷電（含碰撞後斷電）時車內人員被困車內。多起案例中，特斯拉車主雖在高速撞擊中倖存，卻因無法開門逃生，最終葬身後續起火事故或身受重傷。"
+    },
+    {
+      "id": "5005506",
+      "time": "2026-07-24 07:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌750點，報65510點。"
+    },
+    {
+      "id": "5005505",
+      "time": "2026-07-24 07:31:07",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本核心-核心CPI漲幅創2022年8月以來最低。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607243819407618",
+      "time": "2026-07-24 07:30:56",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月份整體消費物價同比上漲1.7%；6月份核心消費物價同比上漲1.6%。"
+    },
+    {
+      "id": "te:markets:569407",
+      "time": "2026-07-24 07:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "U.S. Treasury Calls for More BoJ Tightening Amid Weak Yen — The U.S. Treasury Department said the Japanese yen has remained weak despite a narrowing in U.S.-Japan interest rate differentials, adding that excessive currency volatility is undesirable. In its semi-annual currency report released Thursday, the Treasury urged the Bank of Japan to continue raising interest rates, arguing that higher borrowing costs would help contain inflation and stabilize the exchange rate. \"Monetary policy normalisation would help anchor inflation expectations and reduce excessive exchange rate volatility,\" the report said. The Treasury noted that while nominal wages have risen significantly, inflation continues to erode households' purchasing power, underscoring the need for further policy normalization. The comments came as the yen fell to a fresh 40-year low against the U.S. dollar Thursday, heightening market expectations that Japanese authorities could intervene in the foreign exchange market after repeatedly warning they would act against excessive moves."
+    },
+    {
+      "id": "5005504",
+      "time": "2026-07-24 07:30:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本6月份核心消費物價同比上漲1.6%。日本6月份整體消費物價同比上漲1.7%。"
+    },
+    {
+      "id": "mkt:019f9150-b5ec-7aab-8e74-ebc751d4aaaf",
+      "time": "2026-07-24 07:30:13",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) has begun refusing commercial Falcon rocket launch bookings for flights scheduled after 2028, reallocating capacity as it bets on Starship."
+    },
+    {
+      "id": "mkt:019f9150-a84e-7aab-8e74-e47174a9fe91",
+      "time": "2026-07-24 07:30:09",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan national CPI YoY for June 1.7%, matching the expected 1.70% and up from 1.50% in May."
+    },
+    {
+      "id": "mkt:019f9150-a1fb-7aab-8e74-d9cb334435f7",
+      "time": "2026-07-24 07:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan June core CPI YoY 1.6% (exp 1.60%; prev 1.40%)."
+    },
+    {
+      "id": "mkt:019f9150-83d5-7aab-8e74-d68afa0579bd",
+      "time": "2026-07-24 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Jun) | actual 1.7% | consensus 1.70% | previous 1.50%"
+    },
+    {
+      "id": "mkt:019f9150-83cd-7aab-8e74-cf5c3e823f57",
+      "time": "2026-07-24 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Jun) | actual 1.6% | consensus 1.60% | previous 1.40%"
+    },
+    {
+      "id": "5005503",
+      "time": "2026-07-24 07:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國政府啟用“北方唐寧街10號” 】英國首相府23日發表宣告宣佈，在英格蘭西北部城市曼徹斯特啟用“北方唐寧街10號”，首相伯納姆及其他內閣大臣今後將定期在此辦公。宣告稱，此舉旨在改變英國經濟決策僅由位於倫敦的中央政府作出的局面。宣告說，“北方唐寧街10號”目前位於曼徹斯特市中心的赫倫大廈，將統籌地方經濟發展和分權政策。伯納姆24日將在此主持重啟後的國家經濟委員會首次會議，高階內閣成員和英格蘭各地區市長將出席。宣告稱，伯納姆預計今後每週都會到曼徹斯特辦公。"
+    },
     {
       "id": "5005502",
       "time": "2026-07-24 07:29:34",
@@ -164820,67 +164965,6 @@
         "Importance 2"
       ],
       "text": "Oil Heads for Weekly Gain — Crude oil steadied above $79 per barrel on Friday and was on track to gain more than 11% for the week, as escalating attacks between the US and Iran intensified concerns over supply disruptions in the Middle East. The US launched multiple strikes against Iran this week, reportedly hitting an oil tanker near the country's main export terminal for the first time since reimposing a blockade on Iranian ports. President Donald Trump also warned that the US could target Iran’s infrastructure next week unless diplomatic efforts produce a breakthrough. Meanwhile, Tehran reportedly instructed Yemen’s Houthi rebels to close the Bab el-Mandeb Strait, a critical route for Saudi Arabia’s oil exports through the Red Sea, if Iranian power infrastructure comes under attack. Shipping traffic through the Strait of Hormuz has fallen sharply since the latest escalation, although some vessels continue to transit the waterway."
-    },
-    {
-      "id": "4993056",
-      "time": "2026-07-17 07:34:04",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國內首個空天地一體化全域智慧產品矩陣釋出】在昨天（16日）舉行的2026空天資訊大會上，國內首個空天地一體化全域智慧產品矩陣釋出。這套產品覆蓋智慧地球、低空產業、商業航天三大方向，能服務氣象、應急、低空物流等眾多場景。（央視）"
-    },
-    {
-      "id": "4993055",
-      "time": "2026-07-17 07:33:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【機構一致預測業績向好的創新藥公司一覽】7月16日，A股市場創新藥概念股持續活躍，其中，哈藥股份、海南海藥、塞力醫療等個股漲停，普蕊斯漲超14%，萬邦醫藥漲超13%，泓博醫藥、常山藥業等紛紛跟漲。個股活躍的背後，是整個創新藥賽道景氣度的持續升溫。當前正值上半年業績預告披露高峰期，據證券時報·資料寶統計，截至7月16日收盤，根據目前披露的業績快報、預告淨利潤下限（無下限則取公告數值）計算，2026年上半年淨利潤同比增長（含扭虧為盈）的創新藥公司有20家。未來增長預期方面，機構預測或能提供一定的參考。據資料寶統計，根據5家及以上機構一致預測，2026年及2027年淨利潤增速均有望超20%的創新藥公司有22家。以最新收盤價與機構一致預測目標價相比，這22家當中，股價上漲空間逾12%的有13家，包括信立泰、億帆醫藥、東誠藥業、長春高新、泰格醫藥等。"
-    },
-    {
-      "id": "4993054",
-      "time": "2026-07-17 07:32:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家市場監督管理總局：抓好平臺“內卷”綜合治理】國家市場監督管理總局黨組書記、局長羅文在人民日報撰文稱，抓好平臺“內卷”綜合治理。依法查處平臺企業利用搜尋排名、使用者評價、演算法控制、限制流量等手段，強制或變相強制平臺內經營者以低於成本的價格銷售商品的行為，大力整治虛假榜單、網路測評虛假評價、違法廣告等問題，持續規範外賣平臺促銷補貼行為。督促落實《網際網路平臺價格行為規則》，依法查處先提價後打折、虛假比價等價格欺詐行為。依法查辦平臺經濟領域壟斷案件，強化經營者集中審查。開展落實網路交易平臺入駐商家核驗登記義務專項行動，整治平臺不履行法定義務等突出問題。"
-    },
-    {
-      "id": "4993053",
-      "time": "2026-07-17 07:32:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家市場監督管理總局：開展打擊劣質低價、反壟斷執法護企等專項行動】國家市場監督管理總局黨組書記、局長羅文在人民日報撰文稱，依法懲治“內卷”違法行為。開展打擊劣質低價、反壟斷執法護企等專項行動，加強重點領域壟斷案件查處，加力整治以“一口價”“秒殺價”等製造低價假象、誤導消費者的行為。依法開展成本調查和價格檢查，對帶頭超低價競標、違法實施傾銷的企業從嚴處理。加大產品質量監督抽查力度，提高重點領域抽查比重，堅決糾治質量低劣、製假售假問題。強化強制性認證有效性抽查和認證從業機構監督檢查，開展傳統工藝市場“打假清源”聯合執法行動和檢驗檢測機構“小散弱”綜合治理工作，大力整治行業亂象。"
-    },
-    {
-      "id": "4993052",
-      "time": "2026-07-17 07:31:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【儲存漲價週期下成本大增 手機企業紛紛轉戰海外市場】儲存漲價超級週期下，手機企業成本大增，行業調整不斷。7月16日，證券時報記者從OPPO獲悉，為了進一步整合集團資源，實現全球產品戰略的協同，未來realme新品將聚焦海外市場，在中國市場暫停產品更新；一加在中國市場的產品更新保持不變。realme和一加將持續聚焦遊戲和效能賽道。這意味著realme這個起家於海外市場的品牌，將重新聚焦海外市場，手機業在儲存漲價週期下，再迎來調整。值得一提的是，儲存漲價週期下，realme並非首家作出產品重心調整的公司。今年2月，魅族也曾對外官宣，在市場競爭激烈及記憶體價格持續上漲的環境下，公司將暫停國內手機新產品釋出。與此同時，海外手機業務、AI眼鏡和PANDAER科技潮流品牌業務，將啟動市場化運作，公司將從過去以硬體為主導轉向以Al驅動軟體產品為主導的發展方向。這表明，魅族手機將逐漸退出國內市場，轉而聚焦海外。中興通訊選擇牽手位元組跳動打造AI手機，也是行業競爭激烈背景下主動求變的選擇。"
-    },
-    {
-      "id": "4993051",
-      "time": "2026-07-17 07:31:17",
-      "tags": [
-        "宏觀"
-      ],
-      "text": "【國家市場監督管理總局局長羅文人民日報撰文：深入整治“內卷式”競爭 營造良好市場環境】國家市場監督管理總局黨組書記、局長羅文在人民日報撰文稱，當前，經過各方面共同努力，整治“內卷式”競爭成效不斷顯現，重點行業競爭生態持續改善，但部分行業“內卷式”競爭問題依然突出，有的領域出現新的變種和隱性操作，易引發新一輪風險。 深入整治“內卷式”競爭，既是攻堅戰，也是持久戰。市場監管部門要認真貫徹落實黨中央、國務院決策部署，堅持依法治理，用好法律“工具箱”，打好監管“組合拳”，切實淨化市場競爭生態，加快推動形成優質優價、良性競爭的市場秩序。完善規制“內卷”的制度體系。加快推動價格法修訂，健全行業成本調查、制止低價傾銷等配套規則；推動電子商務法修正，依法明確各類平臺企業主體責任，加快健全新興領域、新型壟斷行為等治理規則，更好保護各方合法權益。完善質量安全風險管理、監督抽查、缺陷召回等制度，修訂汽車、充電寶等重點產品強制性認證實施規則，持續豐富質量品牌建設、產品質量分級等方面的政策舉措，推動提升重點行業產品服務質量。"
-    },
-    {
-      "id": "mkt:019f6d44-4634-7aab-8dd3-17c1a78c1367",
-      "time": "2026-07-17 07:30:18",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "XAUUSD"
-      ],
-      "text": "Kuwait's military says its air defenses are currently responding to hostile missile and drone threats."
     }
   ]
 }

@@ -1,7 +1,152 @@
 {
   "date": "2026-07-24",
-  "count": 515,
+  "count": 530,
   "items": [
+    {
+      "id": "5005508",
+      "time": "2026-07-24 07:33:14",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根士丹利將麥格理目標價上調3.8%，至每股273.00澳元。"
+    },
+    {
+      "id": "mkt:019f9153-37d2-7aab-8e74-ff3722eb1471",
+      "time": "2026-07-24 07:32:57",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "Japan nationwide not-seasonally-adjusted CPI, June MoM 0.0%, prior 0.5%."
+    },
+    {
+      "id": "mkt:019f9153-1dd0-7aab-8e74-f23c5c73f435",
+      "time": "2026-07-24 07:32:51",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (MoM) (Jun) | actual 0% | previous 0.5%"
+    },
+    {
+      "id": "5005507",
+      "time": "2026-07-24 07:32:23",
+      "tags": [
+        "國際"
+      ],
+      "text": "【多起致人死亡事故後，美國著手製定車門安全法規】美國汽車安全監管機構將起草全新規範，保障駕乘人員能夠安全下車，以此解決多起致人死亡的車內人員被困事故暴露出的安全隱患。監管檔案顯示，美國國家公路交通安全管理局於週四表示，將啟動聯邦新規制定流程，響應請願方訴求，要求 “所有機動車配備可靠、醒目的車內開門逃生裝置”。新規若正式落地，美國境內所有新車均需遵守相關標準。特斯拉及其他車企設計的隱藏式電動門把手車輛已發生多起事故：車輛斷電（含碰撞後斷電）時車內人員被困車內。多起案例中，特斯拉車主雖在高速撞擊中倖存，卻因無法開門逃生，最終葬身後續起火事故或身受重傷。"
+    },
+    {
+      "id": "5005506",
+      "time": "2026-07-24 07:31:18",
+      "tags": [
+        "市場"
+      ],
+      "text": "日經指數期貨在新加坡交易所開盤下跌750點，報65510點。"
+    },
+    {
+      "id": "5005505",
+      "time": "2026-07-24 07:31:07",
+      "tags": [
+        "資料",
+        "國際"
+      ],
+      "text": "日本核心-核心CPI漲幅創2022年8月以來最低。"
+    },
+    {
+      "id": "em:jjsj_rbsj:202607243819407618",
+      "time": "2026-07-24 07:30:56",
+      "tags": [
+        "經濟數據",
+        "日本"
+      ],
+      "text": "日本6月份整體消費物價同比上漲1.7%；6月份核心消費物價同比上漲1.6%。"
+    },
+    {
+      "id": "te:markets:569407",
+      "time": "2026-07-24 07:30:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Japan",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "U.S. Treasury Calls for More BoJ Tightening Amid Weak Yen — The U.S. Treasury Department said the Japanese yen has remained weak despite a narrowing in U.S.-Japan interest rate differentials, adding that excessive currency volatility is undesirable. In its semi-annual currency report released Thursday, the Treasury urged the Bank of Japan to continue raising interest rates, arguing that higher borrowing costs would help contain inflation and stabilize the exchange rate. \"Monetary policy normalisation would help anchor inflation expectations and reduce excessive exchange rate volatility,\" the report said. The Treasury noted that while nominal wages have risen significantly, inflation continues to erode households' purchasing power, underscoring the need for further policy normalization. The comments came as the yen fell to a fresh 40-year low against the U.S. dollar Thursday, heightening market expectations that Japanese authorities could intervene in the foreign exchange market after repeatedly warning they would act against excessive moves."
+    },
+    {
+      "id": "mkt:019f9150-b5ec-7aab-8e74-ebc751d4aaaf",
+      "time": "2026-07-24 07:30:13",
+      "tags": [
+        "MKT News",
+        "SPCX.O"
+      ],
+      "text": "SpaceX (SPCX.O) has begun refusing commercial Falcon rocket launch bookings for flights scheduled after 2028, reallocating capacity as it bets on Starship."
+    },
+    {
+      "id": "5005504",
+      "time": "2026-07-24 07:30:13",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本6月份核心消費物價同比上漲1.6%。日本6月份整體消費物價同比上漲1.7%。"
+    },
+    {
+      "id": "mkt:019f9150-a84e-7aab-8e74-e47174a9fe91",
+      "time": "2026-07-24 07:30:09",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish"
+      ],
+      "text": "Japan national CPI YoY for June 1.7%, matching the expected 1.70% and up from 1.50% in May."
+    },
+    {
+      "id": "mkt:019f9150-a1fb-7aab-8e74-d9cb334435f7",
+      "time": "2026-07-24 07:30:08",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY"
+      ],
+      "text": "Japan June core CPI YoY 1.6% (exp 1.60%; prev 1.40%)."
+    },
+    {
+      "id": "mkt:019f9150-83d5-7aab-8e74-d68afa0579bd",
+      "time": "2026-07-24 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | CPI (YoY) (Jun) | actual 1.7% | consensus 1.70% | previous 1.50%"
+    },
+    {
+      "id": "mkt:019f9150-83cd-7aab-8e74-cf5c3e823f57",
+      "time": "2026-07-24 07:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Japan | Core CPI (YoY) (Jun) | actual 1.6% | consensus 1.60% | previous 1.40%"
+    },
+    {
+      "id": "5005503",
+      "time": "2026-07-24 07:29:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國政府啟用“北方唐寧街10號” 】英國首相府23日發表宣告宣佈，在英格蘭西北部城市曼徹斯特啟用“北方唐寧街10號”，首相伯納姆及其他內閣大臣今後將定期在此辦公。宣告稱，此舉旨在改變英國經濟決策僅由位於倫敦的中央政府作出的局面。宣告說，“北方唐寧街10號”目前位於曼徹斯特市中心的赫倫大廈，將統籌地方經濟發展和分權政策。伯納姆24日將在此主持重啟後的國家經濟委員會首次會議，高階內閣成員和英格蘭各地區市長將出席。宣告稱，伯納姆預計今後每週都會到曼徹斯特辦公。"
+    },
     {
       "id": "5005502",
       "time": "2026-07-24 07:29:34",
