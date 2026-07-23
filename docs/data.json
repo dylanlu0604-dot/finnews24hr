@@ -1,7 +1,191 @@
 {
-  "updated": "2026-07-23 16:05:44",
-  "count": 17553,
+  "updated": "2026-07-23 16:09:57",
+  "count": 17566,
   "items": [
+    {
+      "id": "5003976",
+      "time": "2026-07-23 16:09:03",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【港股收盤：恒生指數漲1.278%，恒生科技指數漲0.648%】中國鋁業漲6.773%，金沙中國有限公司漲4.924%，美團-W漲4.124%，零跑汽車漲3.407%，中國宏橋漲3.368%，新奧能源漲3.292%，信義玻璃漲3.101%。"
+    },
+    {
+      "id": "mkt:019f8e05-4265-7aab-8e5f-aa43c412f903",
+      "time": "2026-07-23 16:08:57",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Hang Seng Index",
+        "Impact bullish",
+        "Copper",
+        "01347.HK",
+        "Impact bearish"
+      ],
+      "text": "Hong Kong stocks closed higher; HSI up 1.28%, Hang Seng Tech Index up 0.65%. Heavy machinery, power equipment, building materials & cement and non-ferrous metals led gains. Semiconductor names retraced—Hua Hong Hongli (01347.HK) down 7.49%."
+    },
+    {
+      "id": "5003975",
+      "time": "2026-07-23 16:08:50",
+      "tags": [
+        "公司"
+      ],
+      "text": "【慧谷新材：2026年半年度淨利潤1.11億元，同比增長3.37%】慧谷新材釋出業績快報，2026年半年度實現營業總收入5.76億元，同比增長16.22%；淨利潤1.11億元，同比增長3.37%。報告期內，公司核心業務穩步開展，應用領域持續拓展，業務結構進一步最佳化，銷售收入穩步提升。公司家電業務基本穩定、包裝領域業務收入持續增長，新能源、電子等新興業務收入快速增長。"
+    },
+    {
+      "id": "5003974",
+      "time": "2026-07-23 16:08:17",
+      "tags": [
+        "公司",
+        "市場",
+        "焦點",
+        "國際"
+      ],
+      "text": "SK海力士美國上市股票盤前上漲5.2%；有報道稱該公司將韓國上市股份可轉換為美國存託憑證（ADR）的總額度限制為總流通股本的2.5%。"
+    },
+    {
+      "id": "5003973",
+      "time": "2026-07-23 16:08:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科匯股份：擬對全資子公司增資】科匯股份(688681)7月23日公告，為最佳化子公司資本結構，降低財務風險，更好地滿足子公司業務發展所產生的資金需求，公司擬以自有資金向全資子公司青島科匯增資7000萬元，向濟南科匯增資1200萬元，向山東科匯萬川增資5000萬元，向淄博科匯增資3000萬元。"
+    },
+    {
+      "id": "5003972",
+      "time": "2026-07-23 16:07:32",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華西證券：向專業投資者公開發行面值總額不超過170億元公司債券獲同意】華西證券公告，中國證券監督管理委員會同意公司向專業投資者公開發行面值總額不超過170億元公司債券的註冊申請。本次發行公司債券應嚴格按照報送深圳證券交易所的募集說明書進行。本批覆自同意註冊之日起24個月內有效，公司在註冊有效期內可以分期發行公司債券。"
+    },
+    {
+      "id": "5003971",
+      "time": "2026-07-23 16:07:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "據伊朗方面的報道，伊朗克科納拉克縣（Konarak）傳出爆炸聲。"
+    },
+    {
+      "id": "5003970",
+      "time": "2026-07-23 16:07:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音在寧夏中衛成立兩家新公司】企查查APP顯示，近日，中衛塞上鳴沙科技有限公司、中衛朔方星河科技有限公司成立，註冊資本分別為22億元、24億元，經營範圍均包含：資訊科技諮詢服務；非居住房地產租賃；軟體開發；資訊系統整合服務等。企查查股權穿透顯示，二者皆由抖音集團（香港）有限公司間接全資持股。"
+    },
+    {
+      "id": "mkt:019f8e03-9237-7aab-8e5f-a528b7f6573b",
+      "time": "2026-07-23 16:07:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian reports said explosions were heard in Iran's Konarak County."
+    },
+    {
+      "id": "5003969",
+      "time": "2026-07-23 16:06:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "三星電子：正考慮基於2026年業績，針對股權激勵開展股票回購，目前尚未確定回購時間表與規模。"
+    },
+    {
+      "id": "mkt:019f8e03-30fd-7aab-8e5f-9b29894d9458",
+      "time": "2026-07-23 16:06:41",
+      "tags": [
+        "MKT News",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【MOFCOM: number of foreign visitors claiming tax refunds in 1H rose about fourfold YoY】MOFCOM said on July 23 at a State Council Information Office briefing that the departure tax-refund 2.0 policy has boosted inbound consumption; tax-refund stores now exceed 15,000 and the number of foreign visitors claiming refunds in 1H rose about fourfold YoY."
+    },
+    {
+      "id": "5003968",
+      "time": "2026-07-23 16:06:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兆易創新與東軟智行達成戰略合作】7月22日，兆易創新（GigaDevice）宣佈與東軟智行達成戰略合作，回應產業之需。雙方將依託兆易創新高效能、高可靠車規級晶片與東軟智行在上車身電子全域的技術積累和量產經驗，在智慧座艙、智慧通訊、中央計算平臺、艙行泊一體、區域控制器等應用領域展開深度合作。"
+    },
+    {
+      "id": "te:markets:569210",
+      "time": "2026-07-23 16:06:30",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "DAX 40 Falls Ahead of ECB Decision Amid Inflation Concerns — Frankfurt's DAX 40 fell 0.7% to 24,990 on Thursday as investors remained cautious ahead of the European Central Bank's policy decision. Rising oil prices, driven by the ongoing conflict involving Iran, continued to stoke inflation concerns, while a mixed round of US corporate earnings weighed on market sentiment despite Alphabet posting better-than-expected quarterly results. Markets now await the ECB's policy announcement, with rates widely expected to remain unchanged. Investors will closely watch President Christine Lagarde's press conference for any signals on the outlook for monetary policy and the possibility of a rate hike in September. Among individual stocks, SAP edged lower ahead of its Q2 earnings release, Deutsche Börse dropped 2% after its Investment Management Solutions division slightly missed estimates, and Sartorius lost 3% despite reporting higher first-half revenue. Meanwhile, FlatexDEGIRO gained 0.5% after raising its full-year profit guidance following a strong Q2."
+    },
+    {
+      "id": "5003967",
+      "time": "2026-07-23 16:06:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：上半年辦理退稅境外旅客人數同比增長約四倍】7月23日，商務部市場執行和消費促進司司長楊沐在國新辦新聞釋出會上表示，離境退稅2.0版政策激發了入境消費活力，離境退稅商店已經超過1.5萬家，上半年辦理退稅的境外旅客人數同比增長了約4倍。"
+    },
+    {
+      "id": "mkt:019f8e02-5cd6-7aab-8e5f-92fbc8c49090",
+      "time": "2026-07-23 16:05:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【MOFCOM: prize-invoice pilot boosted consumption intent; 44.5% win rate】On July 23, Yang Mu, director of the Department of Market Operation and Consumption Promotion at MOFCOM, said at a State Council Information Office briefing that China’s prize-invoice pilot in 50 cities has deployed 9.05 bln yuan, generated more than 860 mln participations and 380 mln winning instances (44.5% win rate), and involved over 3.6 tln yuan in invoice value."
+    },
+    {
+      "id": "5003966",
+      "time": "2026-07-23 16:05:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：有獎發票試點提升了消費意願 中獎率44.5%】7月23日，商務部市場執行和消費促進司司長楊沐在國新辦新聞釋出會上表示，有獎發票試點提升了消費意願。目前50個試點城市投入資金90.5億元，超過8.6億人次參與，3.8億人次中獎，中獎率44.5%，參與活動發票金額超過3600億元。"
+    },
+    {
+      "id": "mkt:019f8e02-0933-7aab-8e5f-8ff395dd896c",
+      "time": "2026-07-23 16:05:25",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said any nuclear deal would require congressional approval."
+    },
+    {
+      "id": "te:markets:569207",
+      "time": "2026-07-23 16:05:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Steel Firms Despite Weak Demand — Steel rebar futures hovered around CNY 3,090 per ton, recovering after recent losses as higher iron ore prices and improving sentiment toward China's steel sector supported the market. Confidence was underpinned by resilient crude steel production, which averaged 2.79 million tons per day in June, the highest since March, while strong iron ore imports and expectations of additional policy stimulus from Beijing also buoyed sentiment. However, gains remained capped by persistent weakness in China's property sector, with first-half real estate investment falling 18% year-on-year and construction starts declining 23.4%. Persistent high temperatures and frequent rainfall across parts of China also continued to disrupt outdoor construction activity, keeping demand for construction steel subdued."
+    },
+    {
+      "id": "mkt:019f8e01-d96a-7aab-8e5f-86bc73f5063d",
+      "time": "2026-07-23 16:05:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iraqi media report the Iraqi prime minister has departed for Tehran."
+    },
+    {
+      "id": "te:markets:569206",
+      "time": "2026-07-23 16:05:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Metals Commodities Updates: Lithium Carbonate Gains by 2.45% — Top commodity gainers are Lithium Carbonate (2.45%), Iron Ore CNY (1.28%) and Silicon (0.67%). Biggest losers are Silver (-1.40%), Gold (-0.93%) and Platinum (-0.86%)."
+    },
     {
       "id": "mkt:019f8e01-b2a7-7aab-8e5f-7eb7c4b88ceb",
       "time": "2026-07-23 16:05:03",
@@ -160598,75 +160782,6 @@
         "Importance 1"
       ],
       "text": "Agricultural Commodities Updates: Wheat Rises by 1.79% — Top commodity gainers are Wheat (1.79%), Rice (1.13%) and Oat (0.92%). Biggest losers are Cotton (-0.75%), Sugar (-0.73%) and Palm Oil (-0.63%)."
-    },
-    {
-      "id": "4991783",
-      "time": "2026-07-16 16:09:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【優必選與哈薩克簽署全面戰略合作備忘錄】近日，優必選科技與哈薩克共和國代表團在上海舉行高層會晤，並在哈薩克總統託卡耶夫的親自見證下，正式簽署全面戰略合作備忘錄。此次合作將依託優必選全棧式人形機器人技術優勢，深度融合哈薩克的政策紅利與本土市場潛能，旨在打造中亞地區具身智慧領域的標杆企業，全面助推哈薩克科技人才培養體系與高階製造產業升級。根據協議，雙方將圍繞產業落地、科研創新、教育普及三大核心維度展開深度合作。"
-    },
-    {
-      "id": "mkt:019f69f8-ff79-7aab-8dc2-273ab3f9c172",
-      "time": "2026-07-16 16:09:13",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "01211.HK",
-        "09868.HK"
-      ],
-      "text": "At Hong Kong close, the Hang Seng Index rose 1.33% and the Hang Seng Tech Index gained 1.98%. Auto stocks led gains: BYD Co. (01211.HK) +4.60%, XPeng Inc. (09868.HK) +7.61%."
-    },
-    {
-      "id": "4991782",
-      "time": "2026-07-16 16:09:01",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "【港股收盤：恒生指數漲1.327%，恒生科技指數漲1.982%】小鵬集團-W漲7.326%，泡泡瑪特漲6.866%，同程旅行漲6.574%，小米集團-W漲6.419%，快手-W漲5.727%，騰訊音樂-SW漲5.427%，吉利汽車漲5.217%。"
-    },
-    {
-      "id": "4991781",
-      "time": "2026-07-16 16:08:39",
-      "tags": [
-        "公司"
-      ],
-      "text": "【同濟科技：2026年上半年新籤施工合同額3.53億元 同比降85.62%】同濟科技公告稱，2026年1月至6月，公司新籤施工合同額約3.53億元，較上年同期減少85.62%。其中，超1000萬元以上的施工合同8個，合同金額累計3.16億元，包括建築裝飾合同4個、金額1.99億元，房屋建設合同1個、金額1633.49萬元，專業工程合同3個、金額1.00億元。截至公告披露日，公司無已簽訂但未執行的重大專案。"
-    },
-    {
-      "id": "mkt:019f69f7-02cb-7aab-8dc2-1d1d52a83304",
-      "time": "2026-07-16 16:07:03",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "【Junpu Intelligent to showcase world's first multi-robot coordinated BMS autonomous pilot production line at WAIC 2026】Junpu Intelligent will demonstrate a self-developed pilot production line at WAIC 2026 billed as the world’s first to enable coordinated operation of multiple embodied intelligent robots for BMS mass-production validation. The line reproduces the full precision-assembly process for new-energy vehicle BMS controllers; internal pilot testing reported robot task success rates above 99.9% and per-step cycle times under 70 seconds."
-    },
-    {
-      "id": "4991780",
-      "time": "2026-07-16 16:06:37",
-      "tags": [
-        "公司"
-      ],
-      "text": "【中關村：下屬公司4個品種新進入、1個品種退出《基藥目錄》】中關村公告稱，《國家基本藥物目錄》（2026年版）自9月1日起施行，公司下屬公司14個在產品種（19個品規）納入該目錄，本次新進入4個品種（5個品規）、退出1個品種（1個品規）。公司戰略產品鹽酸羥考酮注射液2025年銷售收入同比增121.95%，其進入《基藥目錄》將強化公司優勢。新增產品進入有助於擴大覆蓋，預計對長遠發展有積極影響，但藥品銷售受多種因素影響，存在不確定性。"
-    },
-    {
-      "id": "4991779",
-      "time": "2026-07-16 16:06:32",
-      "tags": [
-        "公司",
-        "其他"
-      ],
-      "text": "【均普智慧將攜全球首條多臺機器人併線作業BMS自主量產中試產線亮相2026 WAIC】均普智慧將攜自研的全球首條實現多臺具身智慧機器人協同作業的BMS自主量產驗證產線亮相本屆2026世界人工智慧大會（WAIC），完整還原新能源汽車BMS控制器精密裝配全流程。經內部中試產線實測，機器人作業成功率突破99.9%，單工序節拍控制在70秒以內。"
     }
   ]
 }
