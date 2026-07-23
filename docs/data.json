@@ -1,7 +1,66 @@
 {
-  "updated": "2026-07-24 00:19:06",
-  "count": 18022,
+  "updated": "2026-07-24 00:23:04",
+  "count": 18021,
   "items": [
+    {
+      "id": "5005184",
+      "time": "2026-07-24 00:22:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "三位訊息人士表示，得到被罷免總理哈西娜支援的孟加拉國總統計劃於週五辭職。"
+    },
+    {
+      "id": "5005183",
+      "time": "2026-07-24 00:21:05",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐洲IT服務商埃科諾科姆集團預計全年營收增長 2% 至 3%。"
+    },
+    {
+      "id": "5005182",
+      "time": "2026-07-24 00:20:45",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【蘇州肯美特裝置整合股份有限公司啟動上市輔導】據證監會官網顯示，蘇州肯美特裝置整合股份有限公司於2026年7月23日正式啟動上市輔導，東吳證券擔任輔導機構。"
+    },
+    {
+      "id": "5005181",
+      "time": "2026-07-24 00:20:36",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "【蕪湖通潮精密機械股份有限公司啟動上市輔導】據證監會官網顯示，蕪湖通潮精密機械股份有限公司於2026年7月23日正式啟動上市輔導，中信建投證券擔任輔導機構。"
+    },
+    {
+      "id": "5005180",
+      "time": "2026-07-24 00:20:27",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇微特利電機股份有限公司啟動上市輔導】據證監會官網顯示，江蘇微特利電機股份有限公司於2026年7月23日正式啟動上市輔導，國聯民生證券承銷保薦有限公司擔任輔導機構。"
+    },
+    {
+      "id": "5005179",
+      "time": "2026-07-24 00:20:24",
+      "tags": [
+        "公司"
+      ],
+      "text": "【迅芯微電子（蘇州）股份有限公司啟動上市輔導】據證監會官網顯示，迅芯微電子（蘇州）股份有限公司於2026年7月23日正式啟動上市輔導，華泰聯合證券有限責任公司擔任輔導機構。"
+    },
+    {
+      "id": "5005178",
+      "time": "2026-07-24 00:18:59",
+      "tags": [
+        "公司"
+      ],
+      "text": "【Black Forest Labs推出機器人模型，進軍物理AI領域】德國人工智慧研究實驗室Black Forest Labs正在測試其首個可用於機器人（AI）的模型，將業務從照片級影象生成擴充套件至物理AI領域。該公司的Flux 3模型能夠從影象、影片和音訊中學習，並能根據所見預測下一步動作，使其能夠在“視覺智慧”領域展開競爭。Black Forest Labs已與Mimic Robotics AG合作開發了一款名為Flux-mimic的動作模型，並正在與包括奧迪（Audi AG）在內的製造合作伙伴進行測試。"
+    },
     {
       "id": "5005177",
       "time": "2026-07-24 00:17:59",
@@ -165092,86 +165151,6 @@
         "其他"
       ],
       "text": "市場訊息：英國將禁止向16歲以下未成年人出售高咖啡因能量飲料。"
-    },
-    {
-      "id": "te:markets:567625",
-      "time": "2026-07-17 00:22:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "Progressive Stock Price Hits 4-week Low — Progressive shares decreased to 203.41 USD, the lowest since June 2026. Over the past 4 weeks, Progressive lost 0.35%, and in the last 12 months, it decreased 17.62%."
-    },
-    {
-      "id": "4992752",
-      "time": "2026-07-17 00:22:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【NYMEX取暖油主力合約漲超3%】NYMEX取暖油主力合約漲超3%，現報3.97美元/加侖。"
-    },
-    {
-      "id": "4992751",
-      "time": "2026-07-17 00:21:10",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "市場訊息：迪拜市中心傳出爆炸聲。"
-    },
-    {
-      "id": "mkt:019f6bba-f021-7aab-8dcd-4f995d782fb8",
-      "time": "2026-07-17 00:20:40",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Market reports: sounds of explosions heard in downtown Dubai."
-    },
-    {
-      "id": "mkt:019f6bba-b8a7-7aab-8dcd-46def339d26f",
-      "time": "2026-07-17 00:20:26",
-      "tags": [
-        "MKT News",
-        "GBPUSD",
-        "Impact bearish"
-      ],
-      "text": "GBP/USD down 0.50% intraday at 1.3472."
-    },
-    {
-      "id": "mkt:019f6bba-6d98-7aab-8dcd-39e8c4f651c0",
-      "time": "2026-07-17 00:20:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Dallas Fed President Lorie Logan, a 2026 FOMC voting member, is due to speak in 10 minutes."
-    },
-    {
-      "id": "te:markets:567624",
-      "time": "2026-07-17 00:20:01",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Dips — The FTSE MIB edged down 0.1% to close at 52,374 on Thursday, as rising market uncertainty kept investor sentiment cautious. Semiconductor-firm STMicroelectronics led the losses, falling 4.8%, followed by Prysmian, down 2.3%, as renewed concerns over whether elevated AI-related investments justify current valuations weighed on the technology sector. Buzzi declined 2.5% amid weaker homebuilding sentiment and heightened economic uncertainty. Financial stocks were mixed as sovereign bond yields continue to rise on elevated tensions in the Middle East, with the BTP-Bund spread rising to 81 basis points. Banca Popolare di Sondrio (BPMS) slipped 1.0% while Unipol gained 1.6%. Fincantieri led gains at 4.2% after the EU allocated €1 billion in funding to strengthen Ukraine's drone capabilities. UniCredit advanced 1.7% after Bank of America reiterated its buy rating ahead of the bank's earnings report to be released next week."
-    },
-    {
-      "id": "4992750",
-      "time": "2026-07-17 00:19:15",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：GOODVISION AI將與AI STORM合作，在日本建設工廠。"
     }
   ]
 }
