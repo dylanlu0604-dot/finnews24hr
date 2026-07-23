@@ -1,7 +1,80 @@
 {
-  "updated": "2026-07-24 05:04:50",
-  "count": 17992,
+  "updated": "2026-07-24 05:08:42",
+  "count": 18000,
   "items": [
+    {
+      "id": "mkt:019f90ce-55f8-7aab-8e73-88902f9ab9ec",
+      "time": "2026-07-24 05:07:49",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A senior US official said the Section 301 investigation into overcapacity remains ongoing but will require extensive research and analysis."
+    },
+    {
+      "id": "5005409",
+      "time": "2026-07-24 05:07:28",
+      "tags": [
+        "公司",
+        "焦點",
+        "國際"
+      ],
+      "text": "英特爾CEO陳立武：晶片短缺問題在可預見的未來仍將持續。"
+    },
+    {
+      "id": "mkt:019f90cd-ac3a-7aab-8e73-802b94400ba5",
+      "time": "2026-07-24 05:07:05",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy"
+      ],
+      "text": "A senior U.S. official said the tariff measures are not a simple replay of the International Emergency Economic Powers Act tariffs the U.S. Supreme Court struck down."
+    },
+    {
+      "id": "5005408",
+      "time": "2026-07-24 05:07:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：特朗普將動用關稅等現有政策工具，以達成預期政策目標。"
+    },
+    {
+      "id": "5005407",
+      "time": "2026-07-24 05:06:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：關稅措施將針對60個經濟體，這些國家約佔美國貿易的99%。新的關稅將在美東時間7月28日00:01（北京時間7月28日中午12:01）生效。"
+    },
+    {
+      "id": "mkt:019f90cc-340b-7aab-8e73-7997a85915e6",
+      "time": "2026-07-24 05:05:29",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "A U.S. senior official said new tariffs will target 60 economies covering about 99% of U.S. trade, effective 00:01 ET on July 28 (12:01 Beijing time on July 28)."
+    },
+    {
+      "id": "5005406",
+      "time": "2026-07-24 05:05:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國官員：鑑於北美供應鏈一體化屬性、商品美國本土成分佔比高，符合《美墨加協定》標準的商品可獲關稅豁免。"
+    },
+    {
+      "id": "5005405",
+      "time": "2026-07-24 05:04:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "週四（7月23日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7775元，較週三紐約尾盤跌24點，日內整體交投於6.7676-6.7786元區間。"
+    },
     {
       "id": "5005404",
       "time": "2026-07-24 05:03:53",
