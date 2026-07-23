@@ -1,7 +1,42 @@
 {
   "date": "2026-07-23",
-  "count": 1046,
+  "count": 1050,
   "items": [
+    {
+      "id": "mkt:019f8ce8-b5ad-7aab-8e58-1d8182a733b8",
+      "time": "2026-07-23 10:58:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Aotewei ships 100-MW-class large-format mass-production perovskite vacuum evaporation system】Aotewei said it has delivered its first large-format, mass-production perovskite vacuum evaporation coating system to a leading domestic perovskite firm. The 100‑MW‑class unit marks commercial-scale deployment of the company’s perovskite vacuum-equipment products."
+    },
+    {
+      "id": "5003476",
+      "time": "2026-07-23 10:58:02",
+      "tags": [
+        "公司"
+      ],
+      "text": "【奧特維大寬幅量產蒸發鍍膜裝置正式發貨交付】據奧特維訊息，近日，奧特維自主研發的首臺大寬幅量產型鈣鈦礦蒸發鍍膜裝置正式發貨，交付國內鈣鈦礦領軍企業。公司表示，本次交付的百兆瓦級大幅寬量產型蒸發鍍膜裝置，實現公司鈣鈦礦真空裝備產品的規模化落地應用。"
+    },
+    {
+      "id": "5003475",
+      "time": "2026-07-23 10:56:54",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍稱結束連續第12晚對伊朗打擊行動】美軍中央司令部在社交媒體釋出訊息稱，美軍於美國東部時間7月22日晚10時30分，結束連續第12晚對伊朗打擊行動。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8ce6-2b4c-7aab-8e58-14ba0bd8b8c8",
+      "time": "2026-07-23 10:55:22",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "3382.T"
+      ],
+      "text": "Japan’s largest convenience-store operator 7-Eleven issued a nationwide warning after finding some franchise owners and employees illegally hoarding and pre-stocking high-demand items—including Pokemon trading cards and One Piece merchandise—for resale, and has begun penalising violators with early termination of franchise contracts."
+    },
     {
       "id": "te:markets:569069",
       "time": "2026-07-23 10:54:02",
