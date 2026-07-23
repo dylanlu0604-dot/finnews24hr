@@ -1,7 +1,72 @@
 {
-  "updated": "2026-07-24 00:39:20",
-  "count": 18020,
+  "updated": "2026-07-24 00:43:27",
+  "count": 18025,
   "items": [
+    {
+      "id": "5005210",
+      "time": "2026-07-24 00:42:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐：預計 2030 年整體計算市場規模將達 2 萬億美元。"
+    },
+    {
+      "id": "5005209",
+      "time": "2026-07-24 00:41:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美參院否決限制特朗普對伊動武決議】最新訊息：當地時間7月23日，美國國會參議院否決了旨在限制總統特朗普對伊朗戰爭權力的決議案。這一決議稍早前在國會眾議院以微弱優勢獲得透過。（CCTV國際時訊）"
+    },
+    {
+      "id": "5005208",
+      "time": "2026-07-24 00:41:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國食品藥品監督管理局顧問委員會投票決定，將BPC-157肽納入允許藥房配配製的名單。"
+    },
+    {
+      "id": "5005207",
+      "time": "2026-07-24 00:40:47",
+      "tags": [
+        "其他"
+      ],
+      "text": "三名訊息人士稱，石油輸出國組織與盟友（OPEC+）很可能會在8月2日的會議上，將9月的石油產量配額每日上調約18.8萬桶。"
+    },
+    {
+      "id": "5005206",
+      "time": "2026-07-24 00:40:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "蘇姿豐：受人工智慧推動，到2030年伺服器中央處理器市場規模將增長至2200億美元。"
+    },
+    {
+      "id": "5005205",
+      "time": "2026-07-24 00:40:22",
+      "tags": [
+        "公司",
+        "觀點"
+      ],
+      "text": "摩根大通預測：谷歌2027年資本支出或將猛增至近4000億美元。"
+    },
+    {
+      "id": "5005204",
+      "time": "2026-07-24 00:39:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "RBC Capital維持對Alphabet Inc.的目標股價為每股475.00美元。"
+    },
+    {
+      "id": "5005203",
+      "time": "2026-07-24 00:39:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "挪威加斯科公司修正7月27日至8月3日計劃天然氣活動規模：原計劃日供氣量為0.0百萬立方米，修正後為日停供8.4百萬立方米。"
+    },
     {
       "id": "5005202",
       "time": "2026-07-24 00:38:22",
@@ -165097,36 +165162,6 @@
         "MKT News"
       ],
       "text": "Iran’s Mehr News Agency reported a US strike near Bandar Abbas; Hormozgan provincial government said there were no casualties or property damage."
-    },
-    {
-      "id": "te:economy:567628",
-      "time": "2026-07-17 00:41:51",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "30 Year Mortgage Rate",
-        "Importance 1"
-      ],
-      "text": "US 30-Year Mortgage Rate Inches Higher — The average rate on a 30-year fixed mortgage inched higher by 6bps to 6.55% as of July 16, 2026, from 6.49% the previous week, marking the third consecutive week with increases. “Purchase application demand has weakened recently\", said Sam Khater, Freddie Mac’s Chief Economist. \"Although housing affordability is more favorable and housing inventory continues to rise, thus the backdrop for prospective homebuyers is modestly improving.” Contracts to buy existing US homes fell in June as elevated mortgage rates continued to weigh on buyer demand, remaining above levels seen at the start of the year. Meanwhile, minutes from the FOMC's June meeting showed that only a few policymakers favored a rate hike, although renewed hostilities in the Middle East could reinforce inflationary concerns. Markets continue to price in at least one Federal Reserve rate hike by the end of 2026."
-    },
-    {
-      "id": "mkt:019f6bcd-a3bb-7aab-8dcd-744ad7adc372",
-      "time": "2026-07-17 00:41:06",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "Canada plans to increase Vancouver port container terminal throughput capacity by 50%. Canada will launch a selection process to appoint an operator for a 40-acre Fraser Dock site on the west coast."
-    },
-    {
-      "id": "4992768",
-      "time": "2026-07-17 00:40:31",
-      "tags": [
-        "市場"
-      ],
-      "text": "【德國兩年期國債收益率漲超2個基點】週四（7月16日）歐市尾盤，德國10年期國債收益率漲1.2個基點，報3.134%，亞太尾盤以來持續走高，整體交投於3.122%-3.164%區間，北京時間20:42重新整理日高。兩年期德債收益率漲2.5個基點，報2.772%，日內交投於2.745%-2.791%區間；30年期德債收益率漲1.2個基點，報3.648%。2/10年期德債收益率利差跌1.236個基點，報+35.993個基點。"
     }
   ]
 }
