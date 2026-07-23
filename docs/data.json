@@ -1,7 +1,53 @@
 {
-  "updated": "2026-07-23 10:35:34",
-  "count": 17567,
+  "updated": "2026-07-23 10:39:33",
+  "count": 17561,
   "items": [
+    {
+      "id": "mkt:019f8cd7-1f24-7aab-8e57-df157e7e5e20",
+      "time": "2026-07-23 10:38:56",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Piper Sandler cut its PT on Alphabet (GOOG.O) to $395 from $445."
+    },
+    {
+      "id": "5003456",
+      "time": "2026-07-23 10:37:35",
+      "tags": [
+        "公司"
+      ],
+      "text": "【湘電集團與華潤電力開展座談交流】據湘電集團訊息，7月22日，湘電集團黨委副書記、副董事長、總經理，湘電股份董事長張越雷拜訪華潤電力控股有限公司，與華潤電力董事會主席史寶峰座談，就強化雙方合作、開創新型電力系統產業協同新局面交換意見。座談會上，雙方圍繞新型電力系統建設核心需求，聚焦新能源產業鏈核心技術，達成廣泛共識。雙方確定建立高層定期會晤、業務常態化對接機制，全速推動試點專案落地、技術成果轉化與產業協同升級。"
+    },
+    {
+      "id": "mkt:019f8cd5-449a-7aab-8e57-d41a1f0e22f9",
+      "time": "2026-07-23 10:36:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The Hill reported James Woolsey, who briefly led the CIA during the Clinton administration and whose tenure was contentious, died Wednesday aged 84."
+    },
+    {
+      "id": "5003455",
+      "time": "2026-07-23 10:35:53",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英國新首相下調部分地區公交票價】英國新任首相安迪·伯納姆22日說，他將下調英格蘭地區公交車票價，緩解民眾生活成本壓力。不過，觀察人士指出，伯納姆面對的是“堆積如山的民生挑戰”，長期高昂的公交車票價只是英國社會生活眾多棘手問題中的冰山一角。(新華社)"
+    },
+    {
+      "id": "5003454",
+      "time": "2026-07-23 10:35:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "【沙特阿聯酋高層罕見同框力證關係修復】沙烏地阿拉伯和阿拉伯聯合大公國，此前因葉門、伊朗問題“鬧掰”，如今，兩國高層不僅同框合影，而且高調發布照片。沙特王室顧問、娛樂事務總局局長圖爾基·謝赫21日在社交媒體平臺X釋出了沙特國防大臣哈立德·本·薩勒曼與阿聯酋副總統謝赫曼蘇爾·本·扎耶德·阿勒納哈揚“幾天前”的合影，並配文“沙特和阿聯酋：一個體現兄弟情誼和強勁夥伴關係的故事”。阿聯酋總統外交顧問安瓦爾·加爾賈什也分享了合影並寫道：“海灣地區最大的故事就在一張照片中。” 同一天，沙特新聞大臣薩勒曼·本·優素福·杜薩里、阿聯酋國家媒體管理局局長阿卜杜拉·本·穆罕默德·艾哈邁德也在社交媒體釋出了展現兩國團結、友好的帖文。法新社22日報道，沙特和阿聯酋高階別官員的帖文意味著兩國因葉門衝突等分歧公開鬧掰數月後走向和解。（新華社）"
+    },
     {
       "id": "te:economy:569063",
       "time": "2026-07-23 10:34:17",
@@ -160538,107 +160584,6 @@
         "國際"
       ],
       "text": "【萬斯公開指責以色列政府：試圖破壞美伊談判，讓戰事無限期持續】據美國《紐約郵報》報道，美國副總統萬斯在15日播出的一檔播客節目中表示，以色列政府內部有人試圖破壞美國與伊朗的談判，以使戰事“無限期”持續下去。美國副總統萬斯在15日播出的一檔播客節目中接受採訪。圖源：美媒“我毫不懷疑，以色列政府內部有人試圖讓我們偏離（與伊朗的）談判，因為他們想要繼續推進軍事行動。”萬斯稱，“我們毫不懷疑，他們的體系內部有一些人正在操縱輿論，試圖改變美國公眾的看法，讓這場戰爭無限期持續下去。再說一遍，這並非出於任何目的，只是希望戰爭無限期持續下去。”（環球網）"
-    },
-    {
-      "id": "4991243",
-      "time": "2026-07-16 10:39:09",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【瀾起科技：將積極配合韓國檢方調查 目前公司執行正常】據韓國媒體報道，7月15日韓國檢方突擊搜查瀾起科技、日本瑞薩電子和美國Rambus在韓國的辦公室，調查三家公司涉嫌半導體零部件價格操縱一事。瀾起科技董事會辦公室工作人員今日回應稱，事情於昨日發生，公司目前正在瞭解相關情況，公司一直以來合規經營，將會積極配合調查，目前公司執行正常。 (科創板日報)"
-    },
-    {
-      "id": "4991242",
-      "time": "2026-07-16 10:38:18",
-      "tags": [
-        "市場"
-      ],
-      "text": "【實驗動物概念震盪回升 昭衍新藥5天3板】實驗動物概念盤中震盪回升，昭衍新藥5天3板，百奧賽圖漲超10%，創上市新高，睿智醫藥、中賦科技、康龍化成跟漲。"
-    },
-    {
-      "id": "mkt:019f68c9-dea1-7aab-8db7-84ec3443759b",
-      "time": "2026-07-16 10:38:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "Japan's finance minister KATAYAMA said the government cannot intervene in or compel pension funds' portfolio management."
-    },
-    {
-      "id": "mkt:019f68c9-a949-7aab-8db7-7a398c312030",
-      "time": "2026-07-16 10:37:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "06127.HK",
-        "Impact bullish"
-      ],
-      "text": "Mainland A-share Zhaoyan New Drug surged to hit the limit-up; Hong Kong-listed Zhaoyan New Drug (06127.HK) recovered from intraday lows, rising over 7%."
-    },
-    {
-      "id": "4991241",
-      "time": "2026-07-16 10:37:13",
-      "tags": [
-        "公司"
-      ],
-      "text": "【貝瑞科技宣佈引進華大智造G400-ER奈米孔測序儀】7月15日，貝瑞基因控股子公司福建貝瑞科技有限公司與華大智造正式達成戰略合作，貝瑞科技宣佈引進3臺華大智造G400-ER奈米孔長讀長測序平臺。目前，貝瑞科技已基於G400-ER平臺完成超長建庫測序及重測序測試，未來將基於G400-ER測序平臺向客戶提供超長讀長基因組組裝整套解決方案。"
-    },
-    {
-      "id": "mkt:019f68c8-f31f-7aab-8db7-70d5853fb71f",
-      "time": "2026-07-16 10:37:07",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC"
-      ],
-      "text": "【Former Goldman MD Takehiro Sakuramoto joins UBS Japan as head of debt capital markets】UBS has hired former Goldman Sachs MD Takehiro Sakuramoto as head of Japan debt capital markets, aiming to rebuild its presence in the Japanese corporate bond market, an internal memo shows. Sakuramoto joined UBS Japan’s local investment bank on Thursday and will pursue underwriting mandates for corporate bond issuance, with an initial focus on foreign-currency bonds. He previously ran DCM at Goldman’s Tokyo office and is at least the fourth senior Goldman banker to join UBS Securities Japan in the past ten months; he also earlier worked in UBS’s capital markets team and at Morgan Stanley."
-    },
-    {
-      "id": "4991240",
-      "time": "2026-07-16 10:37:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：在下次政策會議上保留所有選項。"
-    },
-    {
-      "id": "mkt:019f68c8-82f2-7aab-8db7-6e52484999a3",
-      "time": "2026-07-16 10:36:38",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "Bank of Korea Governor Shin said an upgrade to South Korea's standing in MSCI indices would likely generate only modest additional capital inflows."
-    },
-    {
-      "id": "4991239",
-      "time": "2026-07-16 10:36:22",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行申鉉松：韓國若被納入MSCI指數，預計額外資金流入規模可能不大。"
-    },
-    {
-      "id": "mkt:019f68c8-0a43-7aab-8db7-65cc13319400",
-      "time": "2026-07-16 10:36:07",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Japan's finance minister Katayama said the Government Pension Investment Fund (GPIF) will review its baseline portfolio annually; the review's assumptions incorporate potential growth prospects and Japan's growth strategy could create a significant inflection point."
-    },
-    {
-      "id": "4991238",
-      "time": "2026-07-16 10:35:58",
-      "tags": [
-        "國際"
-      ],
-      "text": "日本財務大臣片山：GPIF將每年評估基本投資組合，相關假設包括因日本增長戰略效果而可能迎來重大轉折點的潛在增長。"
     }
   ]
 }
