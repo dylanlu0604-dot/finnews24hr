@@ -1,7 +1,343 @@
 # 24HR 財經快訊 - 第 4 部分（共 5 部分）
 
-_更新時間：2026-07-24 04:41:20_
-_本檔包含 3337 則快訊，約 688906 字_
+_更新時間：2026-07-24 05:38:37_
+_本檔包含 3375 則快訊，約 688373 字_
+
+---
+
+### 2026-07-20 19:33:12  #市場
+
+WTI原油日內跌2%，現報80.12美元/桶。
+
+---
+
+### 2026-07-20 19:32:58  #MKT News #Important #Commodities #Precious Metals #XAUUSD #Impact bullish
+
+Spot gold rose $15 intraday to $4,034.16/oz.
+
+---
+
+### 2026-07-20 19:32:57  #其他
+
+沙特公共投資基金旗下 TAWAL 正洽談電信塔資產交易。
+
+---
+
+### 2026-07-20 19:32:46  #公司
+
+【永和股份業績快報：上半年度歸母淨利潤5.13億元，同比增長89.01%】永和股份7月20日釋出2026年上半年度業績快報，報告期內實現營業收入31.34億元，同比增長28.16%；歸屬於上市公司股東的淨利潤5.13億元，同比增長89.01%；基本每股收益1.00元。
+
+---
+
+### 2026-07-20 19:32:32  #其他
+
+通用電氣航空：三井住友航空資本採購CFM LEAP-1A發動機，用於35架空客A320neo客機。
+
+---
+
+### 2026-07-20 19:32:16  #市場
+
+納斯達克100指數期貨延續漲勢，觸及盤中高點1%。
+
+---
+
+### 2026-07-20 19:31:56  #MKT News #Important #Commodities #Energy #WTI #Impact bearish #Brent
+
+U.S. and Brent crude fell just over $1 intraday; WTI slipped below $81/bbl, down 1.69% on the day, Brent down 1.00% at $85.88/bbl.
+
+---
+
+### 2026-07-20 19:31:34  #市場
+
+鈀金期貨日內漲2%，現報1278.00美元/盎司。
+
+---
+
+### 2026-07-20 19:31:32  #公司
+
+【大恆科技：擬以3000-5000萬元回購公司股份】大恆科技公告，擬以3000-5000萬元回購公司股份，回購價格不超過11.27元/股。
+
+---
+
+### 2026-07-20 19:31:29  #國際
+
+印度6月基礎設施產出同比增長5%。
+
+---
+
+### 2026-07-20 19:31:23  #市場
+
+標普500指數期貨漲幅擴大至0.5%。
+
+---
+
+### 2026-07-20 19:31:19  #國際
+
+印度已根據新基期系列釋出6月基礎設施產出資料。
+
+---
+
+### 2026-07-20 19:31:12  #公司
+
+【東山精密：擬使用2-3億元人民幣回購公司股份】東山精密公告，擬使用自籌資金或其他合法資金透過深圳證券交易所股票交易系統以集中競價交易方式回購公司已發行的人民幣普通股股票（A股），回購資金總額人民幣2-3億元，回購價格為不超過人民幣367.04元/股。
+
+---
+
+### 2026-07-20 19:31:10  #MKT News #Important #WTI #Impact bearish #Brent
+
+A senior Iranian source said mediators have proposed a 10-day pause in strikes to seek a way to restore the interim agreement between Iran and the US.
+
+---
+
+### 2026-07-20 19:30:58  #其他
+
+澳大利亞總理：祝賀伯納姆首相就任英國首相。澳大利亞與英國是長久以來的友好國家、盟友與合作伙伴，兩國擁有共同價值觀，民眾之間聯絡深厚。期待與你攜手合作，在未來數年深化雙邊夥伴關係，共同推動地區安全、增強韌性、促進繁榮。
+
+---
+
+### 2026-07-20 19:30:48  #市場 #焦點
+
+現貨黃金突破4030美元/盎司，日內漲0.38%。
+
+---
+
+### 2026-07-20 19:30:39  #市場 #焦點
+
+紐約期金突破4040美元/盎司，日內漲0.57%。
+
+---
+
+### 2026-07-20 19:30:35  #國際
+
+伊朗高階訊息人士表示：斡旋方已提議停火10天，以商討重振伊朗與美國臨時協議的方案。
+
+---
+
+### 2026-07-20 19:30:24  #公司
+
+【三花智控：控股股東三花控股集團提議以2億元-4億元回購公司A股股份】三花智控公告，公司控股股東三花控股集團有限公司提議以2億元-4億元回購公司A股股份，回購價格上限不超過人民幣60元/股。
+
+---
+
+### 2026-07-20 19:30:23  #市場 #焦點
+
+布倫特原油失守87美元/桶，日內跌1.39%。
+
+---
+
+### 2026-07-20 19:30:22  #MKT News #WTI #Impact bullish #Brent #XAUUSD
+
+Iran's military spokesman said Iran will continue the war until it achieves comprehensive deterrence, and that this stance is based on experience and reason rather than emotion or bellicosity.
+
+---
+
+### 2026-07-20 19:30:20  #市場
+
+布倫特原油日內跌1%，現報87.02美元/桶。
+
+---
+
+### 2026-07-20 19:30:17  #市場
+
+WTI原油日內跌1%，現報80.87美元/桶。
+
+---
+
+### 2026-07-20 19:30:16  #其他
+
+【上海釋出中心城區暴雨藍色預警訊號，市防汛指揮部啟動部分中心城區防汛防颱四級響應行動】預計今天半夜以前，靜安區、虹口區、楊浦區等地將出現一小時雨量30-50毫米的短時強降水天氣，上海市氣象臺2026年07月20日19時08分發布中心城區暴雨藍色預警訊號。市防汛指揮部決定同步啟動靜安區、虹口區、楊浦區等中心城區防汛防颱Ⅳ級響應行動。
+
+---
+
+### 2026-07-20 19:30:16  #MKT News #XAUUSD #Impact bullish #WTI #DXY
+
+Iran's military spokesman said the war must continue until Iran achieves comprehensive deterrence; otherwise adversaries, emboldened by miscalculation, will again invade Iran's sacred territory.
+
+---
+
+### 2026-07-20 19:29:32  #MKT News
+
+MERZ congratulated Andy Burnham on becoming UK prime minister and invited him to visit Berlin as soon as possible.
+
+---
+
+### 2026-07-20 19:29:28  #宏觀 #公司
+
+【工信部稱讚深企創新成果“打破技術瓶頸”】今天上午，國務院新聞辦公室舉辦新聞釋出會，工業和資訊化部相關負責人介紹今年上半年工業和資訊化發展情況。其中，深圳比亞迪公司在全球首推的第二代刀片電池、兆瓦閃充系統，被點贊“打破了技術瓶頸”。 （深圳釋出）
+
+---
+
+### 2026-07-20 19:29:01  #MKT News
+
+Brazil's central bank survey: economists expect the SELIC at 14.00% at end-2026 and 12.00% at end-2027, unchanged from prior estimates.
+
+---
+
+### 2026-07-20 19:28:52  #公司
+
+【蒙璽投資：公司及合夥人團隊出資3000萬元申購旗下指增產品】7月20日，百億量化私募蒙璽投資公告稱，基於對我國金融市場長期穩健發展的堅定信心，以及對公司投研能力的認可，決定由公司及合夥人團隊合計出資3000萬元於近期申購公司旗下指數增強類私募證券基金產品。這是繼玄信資產自購1000萬元、平方和投資自購1億元和靈均投資自購2億元后，又一家宣佈自購的量化私募。
+
+---
+
+### 2026-07-20 19:28:31  #MKT News #Important
+
+【Han's Laser Technology: 1H2026 net profit 1.286 bln yuan, up 163.47% YoY】Han's Laser Technology reported 1H2026 revenue of 13.413 bln yuan, up 76.19% YoY, and net profit of 1.286 bln yuan, up 163.47% YoY. Orders and revenue rose sharply YoY across PCB specialty equipment, consumer electronics equipment, lithium battery and semiconductor equipment, and general industrial laser processing equipment.
+
+---
+
+### 2026-07-20 19:28:26  #其他
+
+【“阿克蘇—寧波舟山港”海鐵聯運出口班列首發】新疆日報訊息，7月20日9時30分許，在阿克蘇紡織工業城（開發區）紡織物流園舉行的“阿克蘇—寧波舟山港”海鐵聯運出口班列首發儀式上，隨著一聲長笛鳴響，一列由47個集裝箱組成的出口班列沿鐵路線向東駛去。本次班列是阿克蘇地區首趟直達寧波舟山港的出口班列，鐵路運距超4900公里，標誌著阿克蘇地區成功打通南疆向東出海通道，直達全球第一大港寧波舟山港，阿克蘇從此邁向東西通、陸海連的對外開放新階段。
+
+---
+
+### 2026-07-20 19:28:19  #MKT News
+
+BRAZIL CENTRAL BANK survey: economists now expect 2026 annual IPCA inflation at 5.15%, down from 5.16% previously; 2027 annual IPCA inflation expected at 4.20%, unchanged.
+
+---
+
+### 2026-07-20 19:28:16  #其他
+
+【韋韜到自治區水利廳、自然資源廳、氣象局調研時強調 寧可十防九空不能萬一失防 堅決打贏防汛關鍵時期各場硬仗】7月20日，自治區主席韋韜到自治區水利廳、自然資源廳、氣象局調研督導防汛度汛、水庫隱患排查、地質災害防治等工作，強調要深入學習貫徹習近平總書記對防汛救災工作的重要指示精神，堅持人民至上、生命至上，牢固樹立底線思維、極限思維，全面壓實各方責任，細化各項防禦措施，寧可十防九空，也不能萬一失防，堅決打贏防汛關鍵時期各場硬仗。（廣西釋出）
+
+---
+
+### 2026-07-20 19:27:42  #其他
+
+德國總理祝賀伯納姆出任英國首相，並邀請他儘早訪問柏林。
+
+---
+
+### 2026-07-20 19:27:40  #MKT News
+
+Central Bank of Brazil survey: Brazilian economists expect BRL/USD at 5.20 at end-2026 and 5.28 at end-2027, unchanged from previous estimates.
+
+---
+
+### 2026-07-20 19:27:19  #公司 #市場
+
+【大族鐳射：2026年上半年營收134.13億元 同比增長76.19%】大族鐳射公告稱，2026年半年度營業總收入134.13億元，同比增長76.19%；歸屬於上市公司股東的淨利潤12.86億元，同比增長163.47%。報告期內，PCB、消費電子、鋰電等多個業務板塊訂單及營業收入均大幅增長，2026年半年度新簽訂單約160億元，同比增超100%。不過，公司持有的靈鴿科技股價下跌，公允價值變動收益為 -1.71億元；上半年匯兌損失約1.9億元。
+
+---
+
+### 2026-07-20 19:27:09  #公司
+
+【永和股份：擬以3000萬元-6000萬元回購公司股份】永和股份公告，擬以3000萬元-6000萬元回購公司股份，回購價格不超過38元/股。
+
+---
+
+### 2026-07-20 19:26:55  #其他
+
+【成果豐碩！世界人工智慧大會今天閉幕】2026世界人工智慧大會今天下午在上海落下帷幕。為期四天的大會取得豐碩成果。與會嘉賓表示，期待與中國深化合作，讓科技更好賦能各國發展。本次大會共吸引了1568位國內外頂尖專家參加，展品總數4486項，展商數量與展覽面積均較去年增長超三分之一。同時，大會期間還發布了一系列重磅成果：啟動“一網通辦·免申即享”創新型企業專項金融支援服務戰略合作，設立1.18萬億元創新企業意向性信貸支援額度；聚焦智慧體失控風險與應急管理等主題，釋出了多份人工智慧安全領域的重要報告和成果。（央視新聞）
+
+---
+
+### 2026-07-20 19:26:54  #MKT News
+
+Brazil central bank survey: Brazilian economists expect GDP to grow 1.99% in 2026 and 1.65% in 2027, unchanged from prior forecasts.
+
+---
+
+### 2026-07-20 19:26:36  #公司
+
+空中客車集團的直升機計劃於2027年至2028年間交付。
+
+---
+
+### 2026-07-20 19:26:32  #公司
+
+【新錦動力：控股子公司籤2800萬元燃氣輪機大修合同】新錦動力公告稱，近日，其控股子公司新錦化機與AMMK簽訂《工程採購協議》，為某型號15兆瓦燃氣輪機提供發動機及自動控制與調節系統的大修，合同總金額約2800萬元。工作履行期限至2028年3月31日，預計對2028年經營業績產生積極影響。不過，合同履行存在回款慢、政策及市場變化等風險。
+
+---
+
+### 2026-07-20 19:26:26  #公司 #國際
+
+空中客車歐洲公司：直升機企業追加訂購8架空客H145直升機。
+
+---
+
+### 2026-07-20 19:26:24  #MKT News #Market Regions #Greater China
+
+Shanghai Stock Exchange said registration for Jiangsu Gaokai Precision Fluid Technology Co., Ltd.'s Sci‑Tech Innovation Board (STAR Market) IPO has taken effect.
+
+---
+
+### 2026-07-20 19:26:22  #央行 #市場
+
+巴西央行調查：經濟學家預計2026年底巴西雷亞爾兌美元匯率為5.20雷亞爾兌1美元，與前次預估持平。
+
+---
+
+### 2026-07-20 19:26:16  #公司
+
+上交所：江蘇高凱精密流體技術股份有限公司科創板IPO註冊生效。
+
+---
+
+### 2026-07-20 19:26:08  #央行 #其他
+
+巴西央行調查：經濟學家預計2027年巴西GDP將增長1.65%，與此前預期一致。
+
+---
+
+### 2026-07-20 19:25:46  #央行 #其他
+
+巴西央行調查顯示，經濟學家預計2027年IPCA年通脹率將達4.20%，與前次預估持平。
+
+---
+
+### 2026-07-20 19:25:39  #公司
+
+【新錦動力：控股子公司簽訂19.68億堅戈合同】新錦動力公告，控股子公司錦州新錦化機械製造有限公司與阿克託別石油機械成套有限責任公司簽訂了《工程採購協議》，新錦化機將為某型號15兆瓦燃氣輪機提供發動機及自動控制與調節系統的大修，合同總金額為19.68億堅戈（KZT）（人民幣約2,800萬元）。預計本合同將對公司2028年經營業績產生積極的影響。
+
+---
+
+### 2026-07-20 19:25:22  #MKT News #Market Regions #Europe & UK
+
+Ireland's prime minister Martin congratulated UK prime minister Andy Burnham on taking office and said he looks forward to working with him to strengthen bilateral partnership.
+
+---
+
+### 2026-07-20 19:24:30  #其他
+
+SEC檔案顯示，HUT 8宣佈燈塔點資料中心第二階段商業化，簽署15年期352兆瓦租約。
+
+---
+
+### 2026-07-20 19:24:17  #公司
+
+【賽力斯：董監高及骨幹團隊已增持約1.48億元】賽力斯公告，公司更正董事、高階管理人員及骨幹團隊增持A股及H股股份結果：增持主體累計增持公司股份由255.13萬股更正為294.19萬股，佔公司總股份由0.146%更正為0.169%，累計增持金額約為人民幣1.48億元。
+
+---
+
+### 2026-07-20 19:23:23  #公司 #市場
+
+【融捷股份：擬增加20億向關聯方銷售鋰精礦交易額度】融捷股份公告稱，因2026年上半年鋰精礦價格大幅上漲，公司擬增加向關聯方成都融捷鋰業銷售鋰精礦交易額度，預計增加不超20億元，有效期自股東會批准日起1年。2025年度銷售類關聯交易實際發生額8.99億元。此前已批准額度15億元，增加後2026年度預計總額達35億元。該議案已透過董事會審議，需提交股東會，關聯股東應迴避表決。
+
+---
+
+### 2026-07-20 19:22:43  #公司
+
+【*ST準油：董秘呂佔民減持計劃屆滿未減持】*ST準油公告，公司董事、董事會秘書、副總經理呂佔民此前擬自2026年4月20日至2026年7月19日以集中競價方式減持公司股份不超過22.18萬股（佔公司總股本比例0.0846%）。截至2026年7月19日，減持期限屆滿，本次減持計劃期間呂佔民未減持公司股份，減持後合計持有股份88.72萬股，佔總股本比例0.3385%。
+
+---
+
+### 2026-07-20 19:22:34  #公司
+
+【長纜科技：董事長俞濤擬增持不低於3000萬元】長纜科技公告，公司董事長俞濤先生計劃自本公告披露之日起6個月內，透過集中競價、大宗交易等方式增持公司股份，增持金額不低於3000萬元。截至本公告日，俞濤先生持有公司股份71.2萬股，佔公司總股本的0.37%，並承諾在增持期間及法定期限內不減持公司股份。
+
+---
+
+### 2026-07-20 19:22:25  #公司
+
+【中科三環：上半年淨利潤4921.89萬元，同比增長11.88%】中科三環釋出業績快報，上半年營業收入36.14億元，同比增長23.67%。淨利潤4921.89萬元，同比增長11.88%。2026年上半年，面對日益激烈的市場競爭和複雜多變的外部環境，在全體員工的共同努力下，公司核心產品銷量同比增長，並透過最佳化配方工藝、降低重稀土用量等降本措施，帶動綜合毛利率同比提升；部分下屬子公司經營改善，實現減虧或扭虧；同時公司進一步完善庫存管理，關鍵原材料庫存結構最佳化，資產減值損失同比減少。受人民幣對美元、歐元升值影響，報告期內公司產生匯兌損失，財務費用同比增加，部分抵減了利潤增幅。
+
+---
+
+### 2026-07-20 19:22:19  #公司
+
+【融捷股份：擬5000萬-1億元回購股份用於維護股東權益】融捷股份公告稱，公司擬使用自有資金以集中競價交易方式回購部分A股，回購價格不超73元/股，資金總額不低於5000萬元且不高於1億元。按最高價格、資金上限測算，預計回購136.99萬股，佔總股本0.53%；按資金下限測算，預計回購68.49萬股，佔0.26%。回購期限自股東會審議透過起不超3個月，用於維護公司價值及股東權益，後續將出售，未出售部分將登出。方案尚需股東會審議，存在一定風險。
 
 ---
 
@@ -20026,113 +20362,5 @@ Kuwait Fire Department said firefighters and staff were injured while responding
 ### 2026-07-18 16:36:52  #公司
 
 【上海足協釋出對“禁足”人員申思的調查通報】上海市足球協會今日（18日）釋出情況通報：2026年7月13日，網傳申思涉嫌打罵參訓青少年球員，引發社會關注。上海市足協於7月14日開展專項調查，赴上海幸運星足球俱樂部進行現場核查、約談俱樂部相關負責人。網傳毆打青少年球員事宜，球員家長已報警。目前相關部門正依法調查處理。申思2013年被中國足球協會處以終身禁止從事任何足球相關活動的處罰。上海市足協已在會員註冊、賽事報名、教練員等級認證、青訓梯隊備案等全環節，設定禁足人員名單比對篩查機制。經回溯核查，2013年以來，均未出現申思參與上海市足協監管範圍內的所有官方活動。此次事件暴露出民營青訓機構市場化培訓業務存在監管盲區、俱樂部合規主體責任落實不到位等問題。經核查，申思為上海幸運星足球俱樂部有限公司創始股東（該公司2006年註冊成立），且股東身份一直保留至今。為嚴肅行業紀律、壓實主體責任，上海市足協已採取二項處置措施：一是根據《中國足球協會紀律準則》第七十九條，《上海市足球協會紀律準測》第三條、第十三條、第十六條、第九十六條規定，對上海幸運星足球俱樂部予以警告、禁止註冊新球員6個月及罰款人民幣兩萬元處罰。二是責成俱樂部限期完成股權變更，釐清股東財產權益與足球業務從業邊界，嚴禁行業禁足人員以任何名義參與足球相關業務，全面開展自查自糾。
-
----
-
-### 2026-07-18 16:36:00  #公司
-
-【騰訊首次升級釋出具身智慧全棧佈局】7月18日，在2026世界人工智慧大會（WAIC）上，騰訊正式升級釋出具身智慧全棧方案，該方案貫穿雲底座、模型層、平臺層與應用層，全面助力機器人本體及系統開發商提質提效。會上，騰訊首次系統性展示了具身智慧全棧佈局，實現從基座模型、原生智慧體到開發平臺的全面躍升。在模型層，騰訊持續投入基礎研發，構建起涵蓋Hy-Embodied-VLA-0.5、Hy-Embodied-VLM-1.0與Hy-Embodied-RxBrain-1.0的具身模型矩陣。目前，上述模型已被應用於真實工業場景，並在導購導覽、養老服務等多個任務中完成落地驗證，藉助軟硬一體的快速適配能力，同一套模型可支撐多形態機器人規模化應用。具身智慧體方面，騰訊同步釋出TairosAgent具身智慧體框架與Apexio智慧體，可將“左右腦”“大腦”“小腦”和身體整合成完整的系統，讓機器人形成一個持續感知、持續決策、持續行動的整體。於2025年釋出的鈦螺絲（Tairos）平臺也迎來升級，將為行業提供模型、智慧體與開發工具等一系列開源能力與服務，降低從模型到本體再到應用全鏈條的開發門檻。此外，在基礎設施能力上，騰訊雲圍繞具身智慧搭建從算力底座、模型服務到感知互動的三層體系，打造覆蓋研發、訓練與交付的具身智慧雲+AI底座。騰訊雲還攜手行業夥伴，打造業內首個雲端EaaS（Embodied-AI-as-a-Service）具身智慧服務，助力加速具身智慧從技術創新走向規模化應用。（上證報）
-
----
-
-### 2026-07-18 16:35:17  #MKT News #Market Themes #China Tech Giants #Star Stocks #Tencent #0700.HK
-
-【Tencent launches standalone WorkBuddy app on iOS, Android and HarmonyOS】Tencent's self-developed efficiency intelligent agent WorkBuddy has launched as a standalone app, with iOS, Android and HarmonyOS versions released simultaneously. As the first general intelligent-agent app to appear on HarmonyOS, the mobile client retains most desktop capabilities and allows users to remotely initiate tasks on their PC from a phone.
-
----
-
-### 2026-07-18 16:29:33  #MKT News #Market Themes #AI Revolution
-
-【China foreign minister Wang Yi meets Lesotho foreign minister Tao】Shanghai, July 18, 2026 — China foreign minister Wang Yi met Lesotho foreign minister Tao, who attended the World Artificial Intelligence Conference and signed on behalf of the Lesotho government an agreement to establish the World AI Cooperation Organization. Wang said no country, especially developing ones, should be left behind in AI development and presented the new body as a China-driven initiative to boost capacity in the Global South and promote AI for beneficial uses. He said China will continue to support Lesotho’s sovereignty, security and development, encourage Chinese firms to invest in Lesotho, and welcome more Lesotho exports to China.
-
----
-
-### 2026-07-18 16:28:17  #MKT News #Market Themes #AI Revolution #Star Stocks #Alibaba #BABA.N
-
-【Alibaba Cloud launches Agent Native Cloud full-stack platform to make AI agents an enterprise-native capability】On July 18 at the 2026 World Artificial Intelligence Conference, Alibaba Cloud launched Agent Native Cloud and enterprise-grade tools including AgentTeams and Agentic Computer, covering infrastructure, development platforms and cloud desktops to embed AI agents as native enterprise capabilities. The Infra layer provides a reliable runtime; the platform packages a one-stop infrastructure service AgentRun, multi-agent governance and collaboration via AgentTeams, and full-stack observability and continuous-optimization tooling AgentLoop to accelerate agent lifecycle build, governance, evaluation and optimization.
-
----
-
-### 2026-07-18 16:25:22  #宏觀 #國際
-
-【王毅會見賴索托外交大臣陶】2026年7月18日，中共中央政治局委員、外交部長王毅在上海會見來華出席世界人工智慧大會的賴索托外交大臣陶。王毅歡迎陶來華出席大會並代表萊政府簽署成立世界人工智慧合作組織協定。王毅表示，在人工智慧發展中，任何國家都不應掉隊，尤其是發展中國家，理應享有科技發展的正當權利。中方推動成立世界人工智慧合作組織，就是為提升全球南方國家的能力建設，各國共迎新科技時代潮流，實現人工智慧向善向上，造福全人類。王毅表示，中國外交歷來堅持大小國家一律平等。中萊面積和體量不同，但始終是相互信任、相互支援的戰略伙伴。中方將繼續支援萊維護主權、安全和發展利益，鼓勵中方企業赴萊投資興業，歡迎更多萊特色產品輸華，推動兩國關係向更寬領域、更高層次邁進。中國是非洲值得信賴的好朋友、好夥伴。中方認為，沒有非洲的現代化就沒有世界的現代化。習近平主席宣佈的零關稅舉措已在非落地，中方願繼續為包括萊在內的非洲國家發展振興作出自身努力。（外交部）
-
----
-
-### 2026-07-18 16:24:02  #MKT News #WTI #Impact bullish #Brent #DXY
-
-【US strikes in Iran's southern Hormozgan province kill 8 civilians】On the 18th local time, Hormozgan provincial security authorities said US strikes on parts of the province killed 8 civilians and left one child critically wounded. Early-hours strikes also damaged three bridges and a tunnel. A provincial official said airstrikes hit power facilities and a desalination pump station in the Jask area, disrupting local drinking water supply.
-
----
-
-### 2026-07-18 16:23:51  #其他
-
-【自主原創技術 中國天眼開闢宇宙研究新路徑】清華大學等多家單位組成的科研團隊，利用自主原創方法分析了“中國天眼”FAST對獵戶座星雲的高精度原子氫氣觀測，成功獲得低能宇宙線起源於恆星形成區域的關鍵證據。該研究開闢了利用原子氫觀測研究銀河系大尺度低能宇宙線分佈的全新路徑，彰顯了“中國天眼”對天文基礎研究的重要作用。相關成果在國際學術期刊《天體物理學快報》發表。
-
----
-
-### 2026-07-18 16:23:42  #國際
-
-【伊朗南部霍爾木茲甘省遭襲 已致8名平民死亡】當地時間18日，據霍爾木茲甘省安全部門統計，美軍當天對該省部分地區發動的襲擊已造成8名平民死亡，一名兒童重傷。另據瞭解，美軍當天凌晨持續襲擊還造成3座橋樑和一處隧道遭到破壞。當地時間18日，伊朗南部霍爾木茲甘省一名官員稱，美軍空襲擊中該省賈斯克地區的電力設施和海水淡化泵站，導致當地飲用水供應中斷。（央視新聞）
-
----
-
-### 2026-07-18 16:22:47  #MKT News #Market Themes #China Tech Giants #AI Revolution
-
-【Ant Group upgrades Secure Compute's trusted Intelligent Fabric solution】At the 2026 World Artificial Intelligence Conference and High-Level Conference on Global AI Governance (WAIC), Ant Group's Secure Compute launched HOP 3.0, an advanced agent architecture. It introduces an "agent-native language" that fuses explicit structured logic with large-model fuzzy reasoning, aiming to make industry agents trusted professional systems.
-
----
-
-### 2026-07-18 16:22:02  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
-
-【N. KOREA defense ministry says US-Japan-South Korea military collusion undermines regional peace and stability】KCNA on 18 reported a N. KOREA defense ministry spokesman condemned US, Japan and South Korea for military collusion, saying the US-hosted chiefs-of-staff meeting on the 15th showed an effort to secure military advantage in the region and pursue hegemonic geopolitical aims. The spokesman called the trilateral military alignment the root cause of instability on the Korean Peninsula and across the Asia-Pacific, and warned N. KOREA's armed forces will not allow a shift in the regional balance of power. He said they will faithfully carry out their constitutional mission to defeat present security challenges and potential threats and to defend national security and regional peace.
-
----
-
-### 2026-07-18 16:21:25  #國際
-
-【朝鮮國防省：美日韓軍事勾結破壞地區和平與穩定】據朝中社18日報道，朝鮮國防省發言人當天發表談話，譴責美國、日本和韓國軍事勾結破壞地區和平與穩定。該發言人說，15日在美國召開的美日韓總參謀長會議表明，美日韓企圖透過加強三角軍事共助在本地區佔據軍事優勢，謀求霸權主義的地緣政治利益。美日韓軍事勾結成為破壞朝鮮半島和亞太地區和平與穩定的根源。該發言人強調，朝鮮武裝力量決不允許美日韓軍事勾結導致地區實力失衡，始終忠實履行憲法所賦予的使命，粉碎現實的安全挑戰和潛在威脅，捍衛國家安全與地區和平。（新華社）
-
----
-
-### 2026-07-18 16:19:36  #MKT News #XAUUSD #Impact bullish #DXY #WTI
-
-【Iran's Islamic Revolutionary Guard Corps says it struck U.S. base in Azraq, Jordan】In a statement on the 18th local time, Iran's Islamic Revolutionary Guard Corps said it launched missile and drone strikes on the U.S. base in Azraq, Jordan on the night of the 17th, destroying at least two U.S. fighter jets and three other aircraft and severely damaging several more.
-
----
-
-### 2026-07-18 16:19:20  #國際
-
-【伊朗伊斯蘭革命衛隊稱襲擊約旦阿茲拉克美軍基地】當地時間18日，伊朗伊斯蘭革命衛隊發表宣告稱，17日晚對位於約旦阿茲拉克的美軍基地發動了導彈和無人機打擊，摧毀了至少2架美軍戰鬥機和3架飛機，並使其他數架飛機遭受重大損毀。（央視新聞）
-
----
-
-### 2026-07-18 16:19:08  #其他
-
-【螞蟻密算升級可信智慧Fabric解決方案】在2026世界人工智慧大會暨人工智慧全球治理高階別會議（WAIC）期間，螞蟻密算正式釋出高階智慧體架構HOP 3.0，創新提出“智慧體原生語言”，旨在透過顯性結構化邏輯與大模型模糊推理邏輯的雙態融合，幫助產業智慧體成為可信賴的專業智慧體。
-
----
-
-### 2026-07-18 16:18:10  #公司
-
-【阿里與榮耀共創面向手機場景的解決方案，已落地Robot Phone】7月18日，在WAIC 2026“從數字螢幕到具身智慧，開啟物理世界新正規化”分論壇，阿里巴巴宣佈聯合榮耀，基於“千問大模型”共創面向手機場景深度最佳化的解決方案，已在榮耀的Robot Phone落地。未來的手機Agent，核心問題是完成複雜長程任務，比如“預訂下週三上海參加智造大會的行程”，看似日常，但對於手機Agent來說並不容易。Agent需先結合使用者偏好，訂車程短的靠窗二等座高鐵票、挑選離會場最近的酒店；如果車票售罄，Agent需重新規劃，切換到臨近的車次；使用者上傳大會日程表的照片後，Agent 需看懂圖片、掃描二維碼、填寫表單報名。全程涉及意圖補全、記憶注入、skill呼叫、異常恢復和多工具複雜操作等，任何一個環節不穩健，都會導致任務失敗。阿里巴巴集團副總裁、ATH事業群Token Foundry多模態互動負責人許主洪博士在圓桌論壇中表示，在手機Agent火熱的當下，最需要做的“第一件事”，正是找到一個高頻、有價值的真實場景，構建模型-Harness工程-真實場景反饋的Agent閉環，讓模型被大量使用者真正用起來。（硬AI）
-
----
-
-### 2026-07-18 16:17:33  #MKT News #WTI #Impact bullish #Brent
-
-Zelenskiy said Ukraine struck two major logistics facilities in Russia's Moscow and Tambov regions and hit Russian oil facilities.
-
----
-
-### 2026-07-18 16:15:25  #國際
-
-【伊朗稱對特朗普和內塔尼亞胡提起訴訟】伊朗司法部門發言人阿斯加爾·賈漢吉爾週六表示，伊朗司法部門已就最近的戰爭對美國總統唐納德·特朗普和以色列總理本雅明·內塔尼亞胡提起訴訟。他表示，伊朗已“記錄了近期戰爭造成的所有損失”，並補充說，“根據國際法，任何侵略者都必須受到起訴並支付賠償。”賈漢吉爾表示，針對特朗普和內塔尼亞胡的法律訴訟“正在國際法庭進行”。上個月，伊朗總檢察長表示，司法部門已就近期衝突對內塔尼亞胡、特朗普和其他以色列官員提起201項刑事訴訟，並補充說，當局正在追究這些案件引發的賠償要求。
-
----
-
-### 2026-07-18 16:12:00  #國際
-
-澤連斯基：今天遠端打擊了位於莫斯科州和坦波夫州的兩處重要後勤設施，這兩處設施供應用於生產無人機和導航裝置的零部件。一處石油設施也遭到打擊。此外，烏克蘭特種作戰部隊還對亞速海、黑海以及克里米亞地區的目標實施了打擊。
 
 ---

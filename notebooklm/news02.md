@@ -1,7 +1,91 @@
 # 24HR 財經快訊 - 第 2 部分（共 5 部分）
 
-_更新時間：2026-07-24 04:41:20_
-_本檔包含 3555 則快訊，約 689245 字_
+_更新時間：2026-07-24 05:38:37_
+_本檔包含 3531 則快訊，約 688122 字_
+
+---
+
+### 2026-07-23 01:20:47  #國際
+
+【王毅會見巴布亞紐幾內亞外長特卡琴科】王毅表示，中方高度讚賞巴新政府宣佈關閉“駐巴新臺北經濟辦事處”。這是繼關閉“巴新駐臺灣商務代表處”後，巴新政府落實一箇中國原則的又一關鍵舉措，完全是正確之舉，符合巴新國家和人民根本利益，將進一步鞏固中巴新關係政治基礎，併為兩國全面戰略伙伴關係注入強勁動力，同時也為其他國家正確處理臺機構問題提供了示範。（新華社）
+
+---
+
+### 2026-07-23 01:19:59  #MKT News
+
+【Wang Yi meets Brazil foreign minister Vieira】Wang Yi met Brazil foreign minister Vieira. Wang said under their leaders' strategic guidance China and Brazil have advanced a comprehensive strategic partnership and should maintain strategic communication, strengthen coordination and deepen cooperation. China will continue to support Brazil's sovereignty, security and development and expects reciprocal respect for its core interests. China offered closer cooperation in space, connectivity and artificial intelligence and welcomed Brazil joining the World AI Cooperation Organization. Vieira said the leaders keep close communication and high mutual trust, bilateral exchanges are frequent and trade hit a record high last year; Brazil seeks deeper finance and trade ties and tighter coordination with China at the UN and BRICS.
+
+---
+
+### 2026-07-23 01:19:30  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
+
+A Grupo México executive expects a modest global copper supply shortfall in 2026, citing US economic resilience and rising demand from decarbonization technologies.
+
+---
+
+### 2026-07-23 01:18:18  #國際
+
+伊朗總統：我們的人民不會在威脅面前屈服，始終強調外交的重要性，並主張透過政治途徑解決分歧。
+
+---
+
+### 2026-07-23 01:17:01  #國際
+
+海灣阿拉伯國家合作委員會（海合會）秘書長呼籲聯合國及國際社會徹底終止伊朗針對地區的各類襲擊行動。
+
+---
+
+### 2026-07-23 01:16:38  #MKT News #Macro & Rates #The Fed (FOMC)
+
+The Federal Reserve accepted $376 mln from two counterparties in a fixed-rate reverse repo operation.
+
+---
+
+### 2026-07-23 01:16:23  #央行 #國際
+
+週三（7月22日），美聯儲隔夜逆回購協議（RRP）使用規模為3.76億美元（交易對手2家），上個交易日報2.75億美元。
+
+---
+
+### 2026-07-23 01:14:16  #MKT News
+
+White House officials said U.S. Middle East envoys Witkoff and Jared Kushner spoke by phone with Ukrainian President Zelenskiy on Wednesday to discuss diplomatic pathways to a resolution.
+
+---
+
+### 2026-07-23 01:13:32  #國際
+
+一名白宮官員表示，特朗普特使威特科夫和庫什納週三與烏克蘭總統澤連斯基通電話，討論外交解決路徑。
+
+---
+
+### 2026-07-23 01:13:01  #MKT News
+
+【Wang Yi meets Vietnam foreign minister Bui Thanh Son】Wang Yi said rising global disorder is creating severe challenges for regional countries and urged China and Vietnam, as socialist developing states, to implement high-level bilateral consensus and strengthen unity and cooperation. He called for continued close high-level exchanges, fuller use of the China‑Vietnam "3+3" strategic dialogue mechanism (diplomacy, defense, public security), and expanded practical cooperation on connectivity and artificial intelligence, saying the two sides should keep bilateral ties at the forefront regionally and jointly safeguard regional peace and development.
+
+---
+
+### 2026-07-23 01:12:53  #宏觀 #國際
+
+【王毅會見巴西外長維埃拉】中共中央政治局委員、外交部長王毅22日在馬尼拉會見巴西外長維埃拉。王毅表示，在兩國元首戰略引領下，中巴攜手構建更公正世界和更可持續星球的命運共同體取得積極進展。兩國全面戰略伙伴關係始終走在世界前列，雙方有必要保持戰略溝通，加強戰略協調，深化戰略合作。巴西是具有全球影響的新興經濟體和全球南方代表性力量，中方樂見巴西在國際事務中發揮更大作用，讚賞巴方為發展中國家伸張正義，主持公道。中方將繼續支援巴方維護自身主權、安全和發展利益，相信巴方將一如既往尊重和支援中方維護核心利益。中方願同巴方一道，落實兩國元首重要共識，在航天、互聯互通、人工智慧等領域加強合作，為各自發展提供更大助力。歡迎巴西加入世界人工智慧合作組織，在新一輪科技革命中維護共同利益，深化互利合作。維埃拉表示，巴中兩國領導人保持密切溝通，建立高度互信，共同引領兩國關係邁上高水平。巴中各層級交往頻密，雙邊貿易額去年再創新高。巴方期待同中方一道，進一步深化金融、貿易等領域合作，加強在聯合國、金磚等多邊平臺協作。巴西很高興加入中方倡議成立的世界人工智慧合作組織，期待以此為契機推進科技創新合作。(新華社)
+
+---
+
+### 2026-07-23 01:12:01  #其他
+
+Anthropic：將投入2億美元設立“Anthropic經濟未來研究基金”，用以資助高潛力外部研究專案。
+
+---
+
+### 2026-07-23 01:10:02  #Trading Economics #Markets #Commodity #Importance 0
+
+Brent Crude Inches Lower — Brent oil futures eased below $94 per barrel on Wednesday from the six-week high of $94.4 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets.
+
+---
+
+### 2026-07-23 01:09:03  #Trading Economics #Markets #Commodity #Importance 2
+
+Crude Oil Eases from 6-Week High — Crude oil futures eased below $86.5 per barrel on Wednesday from the six-week high of $88.6 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets.
 
 ---
 
@@ -21282,233 +21366,5 @@ COINBASE：7月14日出現服務中斷。
 ### 2026-07-21 21:53:47  #Trading Economics #Economy #Sweden #Government Bond 10Y #Importance 0
 
 Sweden 10Y Bond Yield Hits 32-month High — Sweden 10 Year Government Bond Yield increased to 2.98%, the highest since November 2023. Over the past 4 weeks, Sweden 10Y Bond Yield gained 21.80 basis points, and in the last 12 months, it increased 61.40 basis points.
-
----
-
-### 2026-07-21 21:53:10  #MKT News
-
-India will host the 16th BRICS health ministers meeting from July 22 to 24.
-
----
-
-### 2026-07-21 21:53:00  #其他
-
-瑞銀下調MATADOR RESOURCES CO <MTDR.N>目標價至56美元，此前為62美元。
-
----
-
-### 2026-07-21 21:52:39  #MKT News
-
-【Baltic Dry Index ticks down as Capesize rebound limits decline】Baltic Dry Index (BDI) fell 1 point (0.04%) to 2,670 as a rebound in Capesize rates capped the drop. The Capesize index (BCI) rose 41 points (1.1%) to 3,930 — its first gain since July 14 — with average daily earnings up $369 to $32,137. Panamax index (BPI) slipped 46 points (2.1%) to 2,181; Panamax daily earnings declined $416 to $19,629. Supramax index (BSI) dropped 8 points (0.5%) to 1,730, its first fall since early July. Handysize index (BHSI) edged up 2 points to 903.
-
----
-
-### 2026-07-21 21:51:54  #MKT News #Commodities #Energy #WTI #Impact bearish #Brent
-
-Petroecuador's oil shipments via the SOTE pipeline rose 11.7% in 1H.
-
----
-
-### 2026-07-21 21:51:29  #Trading Economics #Markets #Japan #currency #Importance 1
-
-Japanese Yen Hits 39-1/2-year Low — The Japanese Yen touched 162.84 against the USD, the lowest since December 1986. Over the past 4 weeks, US Dollar Japanese Yen gained 0.78%, and in the last 12 months, it increased 10.95%.
-
----
-
-### 2026-07-21 21:50:33  #公司
-
-厄瓜多國家石油公司：上半年透過 SOTE 管道輸送原油量同比上升 11.7% 。
-
----
-
-### 2026-07-21 21:50:00  #公司
-
-【中化裝備：發行股份購資產並募資報告書草案修訂說明】中化裝備公告稱，公司擬發行股份購買中國化工裝備持有的益陽橡膠塑膠機械100%股權、北京藍星節能持有的藍星（北京）化工機械100%股權，並向不超35名特定投資者募資。上交所重組委7月20日稽核透過本次交易，公司對相關報告書草案進行修訂，主要更新已履行程式、細化北化機業績承諾與補償安排描述，少許表述完善對方案無實質影響。
-
----
-
-### 2026-07-21 21:49:19  #其他
-
-【墨江縣發生5.0級地震，雲南啟動省級抗震救災四級應急響應】雲南省應急管理廳訊息，據中國地震臺網正式測定：7月21日19時43分06秒在雲南省普洱市墨江縣魚塘彝族鄉（北緯23.19度、東經101.46度）發生5.0級地震。暫未接到人員傷亡情況報告。目前，省抗震救災指揮部已啟動省級抗震救災四級應急響應，並派出工作組趕赴現場指導應急處置工作。
-
----
-
-### 2026-07-21 21:48:57  #其他
-
-美銀證券維持蘋果買入評級，維持目標價380美元。
-
----
-
-### 2026-07-21 21:48:51  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bullish #DXY #XAUUSD #Impact bearish
-
-U.S. 10-year and 30-year Treasury yields hit two-month highs.
-
----
-
-### 2026-07-21 21:48:46  #其他
-
-市場訊息： 聖克魯什 - 達什弗洛雷斯東北偏東 134 公里處發生 5.5 級地震。
-
----
-
-### 2026-07-21 21:48:12  #國際
-
-PURE DC獲得額外13億歐元資金，加速歐洲最大人工智慧園區之一的建設。
-
----
-
-### 2026-07-21 21:47:41  #央行 #其他
-
-市場訊息：加拿大央行將於週三拍賣50億加元14天期限不可替代現金管理券。
-
----
-
-### 2026-07-21 21:46:36  #公司 #觀點
-
-滙豐將高盛<GS.N>評級從"減持"上調至"持有"，目標價從834美元上調至995美元。
-
----
-
-### 2026-07-21 21:46:17  #市場
-
-【閃迪漲幅擴大至10%】閃迪股價上漲10.02%，報1530.385美元/股，總市值報2266億美元。
-
----
-
-### 2026-07-21 21:46:10  #公司
-
-【26東北Y1：30億元永續次級債券一期票面利率確定為2.40%】26東北Y1公告稱，東北證券公開發行不超50億元的永續次級公司債券已獲註冊。2026年面向專業投資者發行的永續次級債券（第一期）規模不超30億元，經7月21日詢價，最終確定票面利率為2.40%，該利率在2.00%-3.00%的詢價區間內。公司將按此利率於7月22日-23日面向專業機構投資者網下發行。
-
----
-
-### 2026-07-21 21:45:57  #MKT News #BA.L #Impact bullish
-
-UK defence minister said every penny spent on defence is "worth it".
-
----
-
-### 2026-07-21 21:45:43  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Slips as Financials Weigh — The Ibovespa edged down to hover below 173,000 on Tuesday, weighed down by losses in financial stocks. Financials traded lower as elevated oil prices fueled energy-driven inflation concerns. Itaúsa and Bradesco shed nearly 0.5%, while Itaú and Banco do Brasil edged lower. Utilities also posted losses, with Sabesp and Axia down around 0.5%. Other notable laggards included Rede D'Or (-3%) and Vivo (-0.5%). Meanwhile, hopes for diplomacy in the Middle East were boosted by reports that Iran is considering a proposal from mediators for a 10-day ceasefire aimed at paving the way for a lasting peace agreement. However, oil prices remained elevated, supporting Petrobras, which gained nearly 0.5%. Vale rebounded nearly 1% after retreating in the previous session on lower iron ore prices.
-
----
-
-### 2026-07-21 21:45:27  #其他
-
-英國國防大臣：國防上的每一分錢都“花得值”。
-
----
-
-### 2026-07-21 21:45:15  #Trading Economics #Economy #Denmark #Government Bond 10Y #Importance 0
-
-Denmark 10Y Bond Yield Hits 32-month High — Denmark 10 Year Government Bond Yield increased to 3.02%, the highest since November 2023. Over the past 4 weeks, Denmark 10Y Bond Yield gained 20.24 basis points, and in the last 12 months, it increased 55.62 basis points.
-
----
-
-### 2026-07-21 21:45:05  #MKT News #Important #Commodities #Energy #WTI #Impact bullish #Brent
-
-WTI crude extends intraday gains to about 3%, trading at $85.40/bbl; Brent crude up 2.16% at $89.40/bbl.
-
----
-
-### 2026-07-21 21:45:04  #其他
-
-英國國防大臣： 最大化威懾力量以防範衝突至關重要。
-
----
-
-### 2026-07-21 21:44:39  #Trading Economics #Markets #United States #stocks #Importance 1
-
-Home Depot Stock Price Hits 4-week Low — Home Depot shares decreased to 327.01 USD, the lowest since June 2026. Over the past 4 weeks, Home Depot gained 0.39%, and in the last 12 months, it decreased 9.93%.
-
----
-
-### 2026-07-21 21:43:37  #國際
-
-【科威特拉響防空警報】當地時間7月21日，科威特拉響防空警報。科威特軍方表示正在應對來自伊朗的導彈和無人機襲擊，任何爆炸聲都是防空系統攔截攻擊所致。伊朗方面對此暫無回應。（央視新聞）
-
----
-
-### 2026-07-21 21:43:02  #市場
-
-【美股加密貨幣概念股集體衝高】比特幣重回6.6萬美元上方，美股加密貨幣概念股集體衝高，Circle大漲超10%，Coinbase漲超9%，Robinhood漲超6%，TeraWulf、Strategy漲超4%，Riot Platforms、CleanSpark漲超2%。
-
----
-
-### 2026-07-21 21:41:28  #市場
-
-彭博美元現貨指數上漲0.1%，創一週以來新高。
-
----
-
-### 2026-07-21 21:41:17  #市場
-
-歐元兌英鎊上漲0.5%，報0.85386，料創5月份以來最大漲幅。
-
----
-
-### 2026-07-21 21:40:45  #國際
-
-【國際能源署：中東局勢惡化加劇全球能源安全風險】當地時間7月21日，國際能源署執行主任法提赫·比羅爾發表宣告稱，中東衝突升級波及霍爾木茲海峽及地區能源基礎設施，進一步加劇全球石油供應安全擔憂和市場不確定性；曼德海峽面臨的安全威脅也使能源運輸風險進一步上升。國際能源署介紹，自3月11日成員國決定向市場投放4億桶戰略石油儲備以來，已有約2.9億桶進入市場，成員國仍持有超過10億桶政府戰略儲備，可繼續應對供應風險。 (央視新聞)
-
----
-
-### 2026-07-21 21:40:10  #Trading Economics #Markets #United States #Stock Market #Importance 1
-
-The Dow Jones Index Opens 0.32% Higher — The Dow Jones Index is picking up 167 points or 0.32 percent on Tuesday. Gains are led by 3M (7.62%), Caterpillar (2.40%) and Goldman Sachs (1.91%). Biggest losers are Visa (-1.15%), Sherwin-Williams (-1.12%) and Home Depot (-1.04%).
-
----
-
-### 2026-07-21 21:39:47  #MKT News #Macro & Rates #Treasury Yields #US10Y #Impact bearish #WTI #Impact bullish #S&P500
-
-US Treasury yields continued to climb on rising oil prices; the 30-year Treasury yield hit its highest level since May 21.
-
----
-
-### 2026-07-21 21:39:36  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #WTI
-
-【CIBC: Trump’s new tariffs signal start of tough USMCA talks】CIBC analysts said President Trump’s latest tariff threat against Canada — a U.S. announcement on Monday to impose 50% duties on selected Canadian goods including alcohol, autos and dairy — marks the beginning of difficult negotiations over the USMCA. The tariffs are set to take effect in 30 days. CIBC noted the choice of goods appears politically driven and that the administration invoked Section 338 of the Tariff Act of 1930, which permits the president to levy duties up to 50% on countries deemed to discriminate against U.S. commerce.
-
----
-
-### 2026-07-21 21:39:34  #國際
-
-英國國防大臣就俄羅斯在英國海岸外舉行軍事演習發表看法：此舉不負責任。
-
----
-
-### 2026-07-21 21:39:24  #市場 #焦點
-
-納斯達克中國金龍指數跌超0.5%，康迪車業跌10.40%，新氧跌2.38%，網易跌2.26%，名創優品跌2.07%，汽車之家跌2.05%。
-
----
-
-### 2026-07-21 21:39:22  #市場 #國際
-
-隨著油價上漲，美國國債收益率繼續攀升，30年期美債收益率升至5月21日以來的最高水平。
-
----
-
-### 2026-07-21 21:39:20  #MKT News #XAUUSD #Impact bullish #DXY #Brent
-
-UK defence secretary described Russia's military exercises near the British coast as irresponsible.
-
----
-
-### 2026-07-21 21:39:04  #公司
-
-【信長星在省國信集團高投集團調研】7月21日，江蘇省委書記信長星到江蘇省國信集團、江蘇高科技投資集團調研。他強調，要深入學習貫徹習近平總書記對江蘇工作重要講話精神，強化使命擔當，堅守主責主業，做強做優做大國有企業和國有資本，為推動全省高質量發展貢獻更大力量。（微訊江蘇）
-
----
-
-### 2026-07-21 21:38:20  #市場
-
-諾斯羅普・格魯曼釋出第二季度業績後股價下跌 8%。
-
----
-
-### 2026-07-21 21:38:04  #MKT News
-
-【China rice institute touts one-line hybrid rice Yixi No.1 with >99% cloning efficiency】Wang Kejian’s team at the China Rice Research Institute reported development of a one-line hybrid rice, Yixi No.1, achieving stable cloning efficiency above 99% and normal fertility; the study was published July 21 in the journal Vita. By contrast, China’s widespread three-line and two-line hybrid systems suffer genetic segregation and cannot be used to retain seed, forcing annual production from male-sterile and restorer lines — a process the team says is technically demanding, higher risk and typically drives hybrid seed costs to more than 10x conventional rice seed. Experts note hybrid rice has been indispensable to China’s and global food security.
 
 ---

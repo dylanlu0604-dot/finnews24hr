@@ -1,7 +1,247 @@
 # 24HR 財經快訊 - 第 1 部分（共 5 部分）
 
-_更新時間：2026-07-24 04:41:20_
-_本檔包含 3876 則快訊，約 689369 字_
+_更新時間：2026-07-24 05:38:37_
+_本檔包含 3902 則快訊，約 688352 字_
+
+---
+
+### 2026-07-24 05:34:35  #國際
+
+英特爾：大部分投資將投向美國本土工廠。
+
+---
+
+### 2026-07-24 05:26:42  #其他
+
+英特爾：預計 2027 年資本支出將大幅高於 2026 年水平。
+
+---
+
+### 2026-07-24 05:25:23  #MKT News #Market Themes #AI Revolution #INTC.O #Impact bullish
+
+Intel CFO said AI PC business revenue rose 26% QoQ and now accounts for two-thirds of its customer revenue mix.
+
+---
+
+### 2026-07-24 05:25:19  #其他
+
+英特爾：預計伺服器 CPU 業務將實現強勁兩位數增長。
+
+---
+
+### 2026-07-24 05:22:28  #國際
+
+市場訊息：雷神、洛克希德・馬丁、帕蘭提爾三家企業高管週四與特朗普政府相關人員舉行會晤。
+
+---
+
+### 2026-07-24 05:22:05  #公司 #焦點 #國際
+
+【美國公佈新關稅措施 24日生效】美國貿易代表辦公室23日釋出公告，宣佈依據《1974年貿易法》第301條，以所謂“強迫勞動”為名對數十個國家和地區加徵10%至12.5%的關稅，以替代即將到期的全球進口關稅。新關稅將於美國東部時間24日生效。(新華社)
+
+---
+
+### 2026-07-24 05:21:28  #市場
+
+週四（7月23日）紐約尾盤，現貨黃金跌1.96%，報4049.48美元/盎司，亞太時段（至北京時間14:45）大致持平，之後持續下挫，22:08重新整理日低至4040.27美元，之後低位持平——大致交投於4040美元附近。COMEX黃金期貨跌2%，報4052.30美元/盎司。
+
+---
+
+### 2026-07-24 05:18:02  #國際
+
+美國貿易代表格里爾：需推動製藥產業迴流本土，保障供應鏈安全。
+
+---
+
+### 2026-07-24 05:17:23  #MKT News #Important #Macro & Rates #Treasury Yields #USDJPY #Impact bullish
+
+U.S. Treasury: despite a narrowing U.S.-Japan interest rate differential, yen weakness persists and excessive yen volatility is unwelcome.
+
+---
+
+### 2026-07-24 05:15:19  #市場
+
+富時A50期指連續夜盤收跌0.60%，報15140點。
+
+---
+
+### 2026-07-24 05:13:34  #宏觀 #國際
+
+美國財政部：儘管美日利差持續收窄，但日元仍持續走弱，市場不樂見日元匯率過度波動。
+
+---
+
+### 2026-07-24 05:13:09  #MKT News
+
+A senior US official said goods meeting USMCA rules will be exempt, citing highly integrated North American supply chains and a high share of US content.
+
+---
+
+### 2026-07-24 05:13:05  #國際
+
+伊朗塔斯尼姆通訊社：當地時間週四晚間，兩枚美國導彈擊中伊朗格什姆島馬桑村附近區域。
+
+---
+
+### 2026-07-24 05:12:55  #MKT News #Market Themes #The Trump Trade #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+A senior U.S. official said President Trump will use all tools at his disposal to achieve his objectives, including tariffs.
+
+---
+
+### 2026-07-24 05:12:21  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+A U.S. senior official said tariff measures on goods in transit will take effect at 12:01 a.m. ET on July 28 (12:01 p.m. Beijing time).
+
+---
+
+### 2026-07-24 05:09:23  #MKT News #S&P500 #Impact bullish #DXY #Impact bearish #EURUSD
+
+A senior U.S. official said tariffs for some countries, including India, will be reduced from 12.5% to 10%.
+
+---
+
+### 2026-07-24 05:08:50  #國際
+
+特朗普：價值 70 億美元的甲骨文合作協議將加速 “自由軍火庫” 計劃推進。
+
+---
+
+### 2026-07-24 05:07:49  #MKT News
+
+A senior US official said the Section 301 investigation into overcapacity remains ongoing but will require extensive research and analysis.
+
+---
+
+### 2026-07-24 05:07:28  #公司 #焦點 #國際
+
+英特爾CEO陳立武：晶片短缺問題在可預見的未來仍將持續。
+
+---
+
+### 2026-07-24 05:07:05  #MKT News #Macro & Rates #US Economy
+
+A senior U.S. official said the tariff measures are not a simple replay of the International Emergency Economic Powers Act tariffs the U.S. Supreme Court struck down.
+
+---
+
+### 2026-07-24 05:07:00  #國際
+
+美國官員：特朗普將動用關稅等現有政策工具，以達成預期政策目標。
+
+---
+
+### 2026-07-24 05:06:19  #國際
+
+美國官員：關稅措施將針對60個經濟體，這些國家約佔美國貿易的99%。新的關稅將在美東時間7月28日00:01（北京時間7月28日中午12:01）生效。
+
+---
+
+### 2026-07-24 05:05:29  #MKT News #DXY #Impact bullish #S&P500 #Impact bearish #XAUUSD
+
+A U.S. senior official said new tariffs will target 60 economies covering about 99% of U.S. trade, effective 00:01 ET on July 28 (12:01 Beijing time on July 28).
+
+---
+
+### 2026-07-24 05:05:16  #國際
+
+美國官員：鑑於北美供應鏈一體化屬性、商品美國本土成分佔比高，符合《美墨加協定》標準的商品可獲關稅豁免。
+
+---
+
+### 2026-07-24 05:04:47  #市場
+
+週四（7月23日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7775元，較週三紐約尾盤跌24點，日內整體交投於6.7676-6.7786元區間。
+
+---
+
+### 2026-07-24 05:03:53  #國際
+
+美國國防部宣佈與甲骨文達成價值近 70 億美元的軟體合作協議。
+
+---
+
+### 2026-07-24 05:00:28  #MKT News #Important #S&P500 #Impact bearish #DXY #Impact bullish #XAUUSD
+
+Senior U.S. official: U.S. has set tariffs of 10%-12.5% on imports from multiple countries and exempted oil, natural gas, fertilizer and food products.
+
+---
+
+### 2026-07-24 05:00:22  #公司
+
+新加坡政府投資公司（GIC）計劃三年內向對沖基金投資 300 億美元。
+
+---
+
+### 2026-07-24 04:59:39  #國際
+
+伊朗邁赫爾通訊社：胡塞武裝官員稱，沙特必須作出賠償，以彌補葉門封鎖造成的各類後果。
+
+---
+
+### 2026-07-24 04:59:00  #國際
+
+美國豁免石油、天然氣、化肥及食品類商品的勞工關稅。
+
+---
+
+### 2026-07-24 04:58:16  #國際
+
+美國強制勞工關稅正式生效，此前 10% 全球關稅政策到期。
+
+---
+
+### 2026-07-24 04:57:46  #焦點 #國際
+
+美國以強迫勞動為由，對多個國家加徵10%-12.5%的關稅。
+
+---
+
+### 2026-07-24 04:57:41  #MKT News
+
+Sources told the Wall Street Journal a deal for OpenRouter could be reached soon. The company was previously valued at about $1.3 bln; a sale could be worth roughly $10 bln.
+
+---
+
+### 2026-07-24 04:57:18  #其他
+
+市場訊息：派拉蒙擬申請於 8 月舉行為期三天的聽證會，為本次收購交易進行抗辯。
+
+---
+
+### 2026-07-24 04:55:23  #其他
+
+市場訊息：Stripe 正洽談收購 OpenRouter。
+
+---
+
+### 2026-07-24 04:54:33  #其他
+
+市場訊息：法院裁定，法官將派拉蒙收購華納兄弟的交易暫緩執行，延期 14 天至 8 月 17 日。
+
+---
+
+### 2026-07-24 04:47:32  #國際
+
+【巴西全力挽救對歐盟18億美元的肉類出口】巴西正緊急採取行動，以避免其動物產品對歐盟的出口遭到禁令。作為全球最大的牛肉和家禽出口國，其超過18億美元的貿易額正面臨風險。一位瞭解談判情況的巴西高階外交官表示，該國正在9月3日的最後期限前，與歐盟交換資訊並提供額外保證，以證明其符合歐盟關於在畜牧業中使用抗菌藥物的標準。在5月份公佈的一份授權出口國名單中，巴西未能上榜。
+
+---
+
+### 2026-07-24 04:46:22  #MKT News #LMT.O
+
+SEC filing shows Lockheed Martin received about $140 mln in refunds tied to prior tariff assessments in the six months ended June 28. The company currently expects the tariffs will not have a material long-term impact on operating results.
+
+---
+
+### 2026-07-24 04:44:26  #MKT News #USDJPY #Impact bullish #DXY
+
+【Napatha price surge turns Japan into net petrochemical importer】Iran war-related disruption to crude-derived napatha supply has driven a sharp rise in Japan's imports of basic petrochemical feedstocks for plastics, with buyers shifting to lower-cost sources in China and South Korea, Nikkei reports. Trade data show ethylene imports from March–May were 14x YoY, butadiene imports more than doubled, and benzene imports rose over 28x. Exports have fallen; ethylene exports in May were near zero. Per the Japan Petrochemical Industry Association, April ethylene imports exceeded exports by 19,000 tonnes and May by 15,000 tonnes — the first monthly net ethylene import since comparable data began in 2000.
+
+---
+
+### 2026-07-24 04:40:48  #觀點
+
+高盛推出 AI 高風險垃圾債交易渠道，單筆交易規模可達 2.5 億美元。
 
 ---
 
@@ -23320,89 +23560,5 @@ Iran's president said the Iranian people will not yield to threats, that Tehran 
 ### 2026-07-23 01:21:05  #MKT News
 
 【Wang Yi meets Papua New Guinea foreign minister Tkachenko】Wang Yi said China highly appreciates Papua New Guinea’s decision to close the Taipei Economic Office in Papua New Guinea. He called the move — following PNG’s earlier closure of its commercial representative office in Taiwan — another key step in implementing the One-China principle, saying it is entirely correct and in PNG’s national and public interest, will further consolidate the political foundation of China–Papua New Guinea ties, inject momentum into their comprehensive strategic partnership and serve as a model for other countries handling Taiwan-related institutions.
-
----
-
-### 2026-07-23 01:20:47  #國際
-
-【王毅會見巴布亞紐幾內亞外長特卡琴科】王毅表示，中方高度讚賞巴新政府宣佈關閉“駐巴新臺北經濟辦事處”。這是繼關閉“巴新駐臺灣商務代表處”後，巴新政府落實一箇中國原則的又一關鍵舉措，完全是正確之舉，符合巴新國家和人民根本利益，將進一步鞏固中巴新關係政治基礎，併為兩國全面戰略伙伴關係注入強勁動力，同時也為其他國家正確處理臺機構問題提供了示範。（新華社）
-
----
-
-### 2026-07-23 01:19:59  #MKT News
-
-【Wang Yi meets Brazil foreign minister Vieira】Wang Yi met Brazil foreign minister Vieira. Wang said under their leaders' strategic guidance China and Brazil have advanced a comprehensive strategic partnership and should maintain strategic communication, strengthen coordination and deepen cooperation. China will continue to support Brazil's sovereignty, security and development and expects reciprocal respect for its core interests. China offered closer cooperation in space, connectivity and artificial intelligence and welcomed Brazil joining the World AI Cooperation Organization. Vieira said the leaders keep close communication and high mutual trust, bilateral exchanges are frequent and trade hit a record high last year; Brazil seeks deeper finance and trade ties and tighter coordination with China at the UN and BRICS.
-
----
-
-### 2026-07-23 01:19:30  #MKT News #Commodities #Industrial Metals #Copper #Impact bullish
-
-A Grupo México executive expects a modest global copper supply shortfall in 2026, citing US economic resilience and rising demand from decarbonization technologies.
-
----
-
-### 2026-07-23 01:18:18  #國際
-
-伊朗總統：我們的人民不會在威脅面前屈服，始終強調外交的重要性，並主張透過政治途徑解決分歧。
-
----
-
-### 2026-07-23 01:17:01  #國際
-
-海灣阿拉伯國家合作委員會（海合會）秘書長呼籲聯合國及國際社會徹底終止伊朗針對地區的各類襲擊行動。
-
----
-
-### 2026-07-23 01:16:38  #MKT News #Macro & Rates #The Fed (FOMC)
-
-The Federal Reserve accepted $376 mln from two counterparties in a fixed-rate reverse repo operation.
-
----
-
-### 2026-07-23 01:16:23  #央行 #國際
-
-週三（7月22日），美聯儲隔夜逆回購協議（RRP）使用規模為3.76億美元（交易對手2家），上個交易日報2.75億美元。
-
----
-
-### 2026-07-23 01:14:16  #MKT News
-
-White House officials said U.S. Middle East envoys Witkoff and Jared Kushner spoke by phone with Ukrainian President Zelenskiy on Wednesday to discuss diplomatic pathways to a resolution.
-
----
-
-### 2026-07-23 01:13:32  #國際
-
-一名白宮官員表示，特朗普特使威特科夫和庫什納週三與烏克蘭總統澤連斯基通電話，討論外交解決路徑。
-
----
-
-### 2026-07-23 01:13:01  #MKT News
-
-【Wang Yi meets Vietnam foreign minister Bui Thanh Son】Wang Yi said rising global disorder is creating severe challenges for regional countries and urged China and Vietnam, as socialist developing states, to implement high-level bilateral consensus and strengthen unity and cooperation. He called for continued close high-level exchanges, fuller use of the China‑Vietnam "3+3" strategic dialogue mechanism (diplomacy, defense, public security), and expanded practical cooperation on connectivity and artificial intelligence, saying the two sides should keep bilateral ties at the forefront regionally and jointly safeguard regional peace and development.
-
----
-
-### 2026-07-23 01:12:53  #宏觀 #國際
-
-【王毅會見巴西外長維埃拉】中共中央政治局委員、外交部長王毅22日在馬尼拉會見巴西外長維埃拉。王毅表示，在兩國元首戰略引領下，中巴攜手構建更公正世界和更可持續星球的命運共同體取得積極進展。兩國全面戰略伙伴關係始終走在世界前列，雙方有必要保持戰略溝通，加強戰略協調，深化戰略合作。巴西是具有全球影響的新興經濟體和全球南方代表性力量，中方樂見巴西在國際事務中發揮更大作用，讚賞巴方為發展中國家伸張正義，主持公道。中方將繼續支援巴方維護自身主權、安全和發展利益，相信巴方將一如既往尊重和支援中方維護核心利益。中方願同巴方一道，落實兩國元首重要共識，在航天、互聯互通、人工智慧等領域加強合作，為各自發展提供更大助力。歡迎巴西加入世界人工智慧合作組織，在新一輪科技革命中維護共同利益，深化互利合作。維埃拉表示，巴中兩國領導人保持密切溝通，建立高度互信，共同引領兩國關係邁上高水平。巴中各層級交往頻密，雙邊貿易額去年再創新高。巴方期待同中方一道，進一步深化金融、貿易等領域合作，加強在聯合國、金磚等多邊平臺協作。巴西很高興加入中方倡議成立的世界人工智慧合作組織，期待以此為契機推進科技創新合作。(新華社)
-
----
-
-### 2026-07-23 01:12:01  #其他
-
-Anthropic：將投入2億美元設立“Anthropic經濟未來研究基金”，用以資助高潛力外部研究專案。
-
----
-
-### 2026-07-23 01:10:02  #Trading Economics #Markets #Commodity #Importance 0
-
-Brent Crude Inches Lower — Brent oil futures eased below $94 per barrel on Wednesday from the six-week high of $94.4 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets.
-
----
-
-### 2026-07-23 01:09:03  #Trading Economics #Markets #Commodity #Importance 2
-
-Crude Oil Eases from 6-Week High — Crude oil futures eased below $86.5 per barrel on Wednesday from the six-week high of $88.6 earlier in the session as higher inventories momentarily offset lower supply from the Middle East war. Data from the EIA showed that crude oil stocks unexpectedly rose by 1.4 million barrels last week, contrasting with expectations of a draw. Still, the escalatory war between the US and Iran continued to halt oil and fuel exports from the GCC. US Secretary of State Rubio accused Iran of failing to honor previous commitments and emphasized that any future agreement must guarantee freedom of navigation through the Strait of Hormuz and prevent Iran from developing nuclear weapons or supporting militant groups. Also, threats from Yemen’s Houthi rebels against shipping routes in the Red Sea increased fears of further disruptions to international oil trade. On top of that, attacks on the Caspian Pipeline Consortium terminal in the Black Sea added pressure on global energy markets.
 
 ---

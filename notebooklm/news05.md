@@ -1,7 +1,115 @@
 # 24HR 財經快訊 - 第 5 部分（共 5 部分）
 
-_更新時間：2026-07-24 04:41:20_
-_本檔包含 3477 則快訊，約 688993 字_
+_更新時間：2026-07-24 05:38:37_
+_本檔包含 3451 則快訊，約 687653 字_
+
+---
+
+### 2026-07-18 16:36:00  #公司
+
+【騰訊首次升級釋出具身智慧全棧佈局】7月18日，在2026世界人工智慧大會（WAIC）上，騰訊正式升級釋出具身智慧全棧方案，該方案貫穿雲底座、模型層、平臺層與應用層，全面助力機器人本體及系統開發商提質提效。會上，騰訊首次系統性展示了具身智慧全棧佈局，實現從基座模型、原生智慧體到開發平臺的全面躍升。在模型層，騰訊持續投入基礎研發，構建起涵蓋Hy-Embodied-VLA-0.5、Hy-Embodied-VLM-1.0與Hy-Embodied-RxBrain-1.0的具身模型矩陣。目前，上述模型已被應用於真實工業場景，並在導購導覽、養老服務等多個任務中完成落地驗證，藉助軟硬一體的快速適配能力，同一套模型可支撐多形態機器人規模化應用。具身智慧體方面，騰訊同步釋出TairosAgent具身智慧體框架與Apexio智慧體，可將“左右腦”“大腦”“小腦”和身體整合成完整的系統，讓機器人形成一個持續感知、持續決策、持續行動的整體。於2025年釋出的鈦螺絲（Tairos）平臺也迎來升級，將為行業提供模型、智慧體與開發工具等一系列開源能力與服務，降低從模型到本體再到應用全鏈條的開發門檻。此外，在基礎設施能力上，騰訊雲圍繞具身智慧搭建從算力底座、模型服務到感知互動的三層體系，打造覆蓋研發、訓練與交付的具身智慧雲+AI底座。騰訊雲還攜手行業夥伴，打造業內首個雲端EaaS（Embodied-AI-as-a-Service）具身智慧服務，助力加速具身智慧從技術創新走向規模化應用。（上證報）
+
+---
+
+### 2026-07-18 16:35:17  #MKT News #Market Themes #China Tech Giants #Star Stocks #Tencent #0700.HK
+
+【Tencent launches standalone WorkBuddy app on iOS, Android and HarmonyOS】Tencent's self-developed efficiency intelligent agent WorkBuddy has launched as a standalone app, with iOS, Android and HarmonyOS versions released simultaneously. As the first general intelligent-agent app to appear on HarmonyOS, the mobile client retains most desktop capabilities and allows users to remotely initiate tasks on their PC from a phone.
+
+---
+
+### 2026-07-18 16:29:33  #MKT News #Market Themes #AI Revolution
+
+【China foreign minister Wang Yi meets Lesotho foreign minister Tao】Shanghai, July 18, 2026 — China foreign minister Wang Yi met Lesotho foreign minister Tao, who attended the World Artificial Intelligence Conference and signed on behalf of the Lesotho government an agreement to establish the World AI Cooperation Organization. Wang said no country, especially developing ones, should be left behind in AI development and presented the new body as a China-driven initiative to boost capacity in the Global South and promote AI for beneficial uses. He said China will continue to support Lesotho’s sovereignty, security and development, encourage Chinese firms to invest in Lesotho, and welcome more Lesotho exports to China.
+
+---
+
+### 2026-07-18 16:28:17  #MKT News #Market Themes #AI Revolution #Star Stocks #Alibaba #BABA.N
+
+【Alibaba Cloud launches Agent Native Cloud full-stack platform to make AI agents an enterprise-native capability】On July 18 at the 2026 World Artificial Intelligence Conference, Alibaba Cloud launched Agent Native Cloud and enterprise-grade tools including AgentTeams and Agentic Computer, covering infrastructure, development platforms and cloud desktops to embed AI agents as native enterprise capabilities. The Infra layer provides a reliable runtime; the platform packages a one-stop infrastructure service AgentRun, multi-agent governance and collaboration via AgentTeams, and full-stack observability and continuous-optimization tooling AgentLoop to accelerate agent lifecycle build, governance, evaluation and optimization.
+
+---
+
+### 2026-07-18 16:25:22  #宏觀 #國際
+
+【王毅會見賴索托外交大臣陶】2026年7月18日，中共中央政治局委員、外交部長王毅在上海會見來華出席世界人工智慧大會的賴索托外交大臣陶。王毅歡迎陶來華出席大會並代表萊政府簽署成立世界人工智慧合作組織協定。王毅表示，在人工智慧發展中，任何國家都不應掉隊，尤其是發展中國家，理應享有科技發展的正當權利。中方推動成立世界人工智慧合作組織，就是為提升全球南方國家的能力建設，各國共迎新科技時代潮流，實現人工智慧向善向上，造福全人類。王毅表示，中國外交歷來堅持大小國家一律平等。中萊面積和體量不同，但始終是相互信任、相互支援的戰略伙伴。中方將繼續支援萊維護主權、安全和發展利益，鼓勵中方企業赴萊投資興業，歡迎更多萊特色產品輸華，推動兩國關係向更寬領域、更高層次邁進。中國是非洲值得信賴的好朋友、好夥伴。中方認為，沒有非洲的現代化就沒有世界的現代化。習近平主席宣佈的零關稅舉措已在非落地，中方願繼續為包括萊在內的非洲國家發展振興作出自身努力。（外交部）
+
+---
+
+### 2026-07-18 16:24:02  #MKT News #WTI #Impact bullish #Brent #DXY
+
+【US strikes in Iran's southern Hormozgan province kill 8 civilians】On the 18th local time, Hormozgan provincial security authorities said US strikes on parts of the province killed 8 civilians and left one child critically wounded. Early-hours strikes also damaged three bridges and a tunnel. A provincial official said airstrikes hit power facilities and a desalination pump station in the Jask area, disrupting local drinking water supply.
+
+---
+
+### 2026-07-18 16:23:51  #其他
+
+【自主原創技術 中國天眼開闢宇宙研究新路徑】清華大學等多家單位組成的科研團隊，利用自主原創方法分析了“中國天眼”FAST對獵戶座星雲的高精度原子氫氣觀測，成功獲得低能宇宙線起源於恆星形成區域的關鍵證據。該研究開闢了利用原子氫觀測研究銀河系大尺度低能宇宙線分佈的全新路徑，彰顯了“中國天眼”對天文基礎研究的重要作用。相關成果在國際學術期刊《天體物理學快報》發表。
+
+---
+
+### 2026-07-18 16:23:42  #國際
+
+【伊朗南部霍爾木茲甘省遭襲 已致8名平民死亡】當地時間18日，據霍爾木茲甘省安全部門統計，美軍當天對該省部分地區發動的襲擊已造成8名平民死亡，一名兒童重傷。另據瞭解，美軍當天凌晨持續襲擊還造成3座橋樑和一處隧道遭到破壞。當地時間18日，伊朗南部霍爾木茲甘省一名官員稱，美軍空襲擊中該省賈斯克地區的電力設施和海水淡化泵站，導致當地飲用水供應中斷。（央視新聞）
+
+---
+
+### 2026-07-18 16:22:47  #MKT News #Market Themes #China Tech Giants #AI Revolution
+
+【Ant Group upgrades Secure Compute's trusted Intelligent Fabric solution】At the 2026 World Artificial Intelligence Conference and High-Level Conference on Global AI Governance (WAIC), Ant Group's Secure Compute launched HOP 3.0, an advanced agent architecture. It introduces an "agent-native language" that fuses explicit structured logic with large-model fuzzy reasoning, aiming to make industry agents trusted professional systems.
+
+---
+
+### 2026-07-18 16:22:02  #MKT News #DXY #Impact bullish #XAUUSD #S&P500 #Impact bearish
+
+【N. KOREA defense ministry says US-Japan-South Korea military collusion undermines regional peace and stability】KCNA on 18 reported a N. KOREA defense ministry spokesman condemned US, Japan and South Korea for military collusion, saying the US-hosted chiefs-of-staff meeting on the 15th showed an effort to secure military advantage in the region and pursue hegemonic geopolitical aims. The spokesman called the trilateral military alignment the root cause of instability on the Korean Peninsula and across the Asia-Pacific, and warned N. KOREA's armed forces will not allow a shift in the regional balance of power. He said they will faithfully carry out their constitutional mission to defeat present security challenges and potential threats and to defend national security and regional peace.
+
+---
+
+### 2026-07-18 16:21:25  #國際
+
+【朝鮮國防省：美日韓軍事勾結破壞地區和平與穩定】據朝中社18日報道，朝鮮國防省發言人當天發表談話，譴責美國、日本和韓國軍事勾結破壞地區和平與穩定。該發言人說，15日在美國召開的美日韓總參謀長會議表明，美日韓企圖透過加強三角軍事共助在本地區佔據軍事優勢，謀求霸權主義的地緣政治利益。美日韓軍事勾結成為破壞朝鮮半島和亞太地區和平與穩定的根源。該發言人強調，朝鮮武裝力量決不允許美日韓軍事勾結導致地區實力失衡，始終忠實履行憲法所賦予的使命，粉碎現實的安全挑戰和潛在威脅，捍衛國家安全與地區和平。（新華社）
+
+---
+
+### 2026-07-18 16:19:36  #MKT News #XAUUSD #Impact bullish #DXY #WTI
+
+【Iran's Islamic Revolutionary Guard Corps says it struck U.S. base in Azraq, Jordan】In a statement on the 18th local time, Iran's Islamic Revolutionary Guard Corps said it launched missile and drone strikes on the U.S. base in Azraq, Jordan on the night of the 17th, destroying at least two U.S. fighter jets and three other aircraft and severely damaging several more.
+
+---
+
+### 2026-07-18 16:19:20  #國際
+
+【伊朗伊斯蘭革命衛隊稱襲擊約旦阿茲拉克美軍基地】當地時間18日，伊朗伊斯蘭革命衛隊發表宣告稱，17日晚對位於約旦阿茲拉克的美軍基地發動了導彈和無人機打擊，摧毀了至少2架美軍戰鬥機和3架飛機，並使其他數架飛機遭受重大損毀。（央視新聞）
+
+---
+
+### 2026-07-18 16:19:08  #其他
+
+【螞蟻密算升級可信智慧Fabric解決方案】在2026世界人工智慧大會暨人工智慧全球治理高階別會議（WAIC）期間，螞蟻密算正式釋出高階智慧體架構HOP 3.0，創新提出“智慧體原生語言”，旨在透過顯性結構化邏輯與大模型模糊推理邏輯的雙態融合，幫助產業智慧體成為可信賴的專業智慧體。
+
+---
+
+### 2026-07-18 16:18:10  #公司
+
+【阿里與榮耀共創面向手機場景的解決方案，已落地Robot Phone】7月18日，在WAIC 2026“從數字螢幕到具身智慧，開啟物理世界新正規化”分論壇，阿里巴巴宣佈聯合榮耀，基於“千問大模型”共創面向手機場景深度最佳化的解決方案，已在榮耀的Robot Phone落地。未來的手機Agent，核心問題是完成複雜長程任務，比如“預訂下週三上海參加智造大會的行程”，看似日常，但對於手機Agent來說並不容易。Agent需先結合使用者偏好，訂車程短的靠窗二等座高鐵票、挑選離會場最近的酒店；如果車票售罄，Agent需重新規劃，切換到臨近的車次；使用者上傳大會日程表的照片後，Agent 需看懂圖片、掃描二維碼、填寫表單報名。全程涉及意圖補全、記憶注入、skill呼叫、異常恢復和多工具複雜操作等，任何一個環節不穩健，都會導致任務失敗。阿里巴巴集團副總裁、ATH事業群Token Foundry多模態互動負責人許主洪博士在圓桌論壇中表示，在手機Agent火熱的當下，最需要做的“第一件事”，正是找到一個高頻、有價值的真實場景，構建模型-Harness工程-真實場景反饋的Agent閉環，讓模型被大量使用者真正用起來。（硬AI）
+
+---
+
+### 2026-07-18 16:17:33  #MKT News #WTI #Impact bullish #Brent
+
+Zelenskiy said Ukraine struck two major logistics facilities in Russia's Moscow and Tambov regions and hit Russian oil facilities.
+
+---
+
+### 2026-07-18 16:15:25  #國際
+
+【伊朗稱對特朗普和內塔尼亞胡提起訴訟】伊朗司法部門發言人阿斯加爾·賈漢吉爾週六表示，伊朗司法部門已就最近的戰爭對美國總統唐納德·特朗普和以色列總理本雅明·內塔尼亞胡提起訴訟。他表示，伊朗已“記錄了近期戰爭造成的所有損失”，並補充說，“根據國際法，任何侵略者都必須受到起訴並支付賠償。”賈漢吉爾表示，針對特朗普和內塔尼亞胡的法律訴訟“正在國際法庭進行”。上個月，伊朗總檢察長表示，司法部門已就近期衝突對內塔尼亞胡、特朗普和其他以色列官員提起201項刑事訴訟，並補充說，當局正在追究這些案件引發的賠償要求。
+
+---
+
+### 2026-07-18 16:12:00  #國際
+
+澤連斯基：今天遠端打擊了位於莫斯科州和坦波夫州的兩處重要後勤設施，這兩處設施供應用於生產無人機和導航裝置的零部件。一處石油設施也遭到打擊。此外，烏克蘭特種作戰部隊還對亞速海、黑海以及克里米亞地區的目標實施了打擊。
 
 ---
 
@@ -20790,269 +20898,5 @@ Iran's Mehr News Agency reports 12 explosions heard in the Bushehr region.
 ### 2026-07-17 05:40:12  #MKT News #Important #XAUUSD #Impact bullish #WTI #DXY
 
 【US strikes airports, bridges and rail hubs in parts of Iran】According to Chinese state TV, US forces struck multiple targets in southern and southeastern Iran, hitting Bandar Abbas port and its rail junction, Iranshahr airport in Sistan-and-Baluchestan province, and bridges in Hormozgan province. The strike on Bandar Abbas damaged a communications tower and caused partial power outages; the port's rail junction was hit, injuring two. US warplanes launched missile strikes on Iranshahr airport, with residents reporting three loud explosions. Hormozgan provincial authorities said two bridges — including at Bandar-e Khamir — were struck, killing two and wounding four.
-
----
-
-### 2026-07-17 05:35:21  #國際
-
-美國空氣質量監測平臺 AirNow 資料顯示：紐約市當前空氣質量等級為 “非常不利於健康”。
-
----
-
-### 2026-07-17 05:33:14  #國際
-
-美國國家航空航天局（NASA）委託SpaceX從“獵戶座”飛船傳輸“阿爾忒彌斯 3 號”的影像資料。SpaceX將提供鐳射通訊能力。
-
----
-
-### 2026-07-17 05:31:28  #MKT News #SPCX.O
-
-【Starship to launch SpaceX's first post-listing test flight】Launch window for Starship's 13th test opens at 06:45 BJT today (17th). It is SpaceX's first launch since listing (SPCX.O). The flight will validate the next‑generation Starship system and deploy 20 next‑generation Starlink satellites. The Super Heavy booster will test launch, ascent, stage separation, return burn and landing burn; the Starship vehicle will attempt an in‑orbit restart of one Raptor engine, perform controlled reentry and splashdown in a designated Indian Ocean area. The mission will also trial multiple heatshield upgrades to collect data for rapid, full reuse.
-
----
-
-### 2026-07-17 05:26:40  #公司 #國際
-
-通用動力公司：通用動力陸地系統加拿大分部獲得近 20 億美元合同，為加拿大增購 190 輛裝甲戰鬥支援車，併為烏克蘭提供 35 輛同型車輛.
-
----
-
-### 2026-07-17 05:26:18  #MKT News #WTI #Impact bullish #Brent #XAUUSD
-
-【CENTCOM: 11th Marine Expeditionary Unit boards, inspects tanker in Gulf of Oman】CENTCOM said on July 16 the U.S. Marine Corps' 11th Marine Expeditionary Unit boarded and inspected a tanker in the Gulf of Oman. As of now, U.S. forces have forced three merchant vessels attempting to breach the blockade to alter course, disabled one non-compliant vessel and boarded another to ensure full compliance with the U.S. maritime blockade on Iran. The Strait of Hormuz and surrounding waters remain open except to vessels attempting to break the blockade.
-
----
-
-### 2026-07-17 05:24:33  #國際
-
-美國中央司令部：截至今日，美軍已攔截 3 艘試圖突破封鎖的民用商船，迫使 1 艘拒不配合的船隻停航，並登船檢查 1 艘船舶，確保相關船隻完全遵守美國針對伊朗實施的海上封鎖行動。
-
----
-
-### 2026-07-17 05:23:01  #MKT News #Market Themes #AI Revolution #NFLX.O #Impact bullish
-
-Netflix (NFLX.O) says AI will improve film quality but will not replace human creators.
-
----
-
-### 2026-07-17 05:21:12  #其他
-
-奈飛：AI將讓電影（質量）變得更好，但不會取代人類。
-
----
-
-### 2026-07-17 05:21:10  #國際
-
-伊朗邁赫爾通訊社釋出了一張遭美方襲擊的橋樑的圖片。
-
----
-
-### 2026-07-17 05:15:21  #市場
-
-富時A50期指連續夜盤收跌0.26%，報14852點。
-
----
-
-### 2026-07-17 05:14:19  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O) co-CEO said price increases in the US, Mexico and Spain have been effective.
-
----
-
-### 2026-07-17 05:13:26  #國際
-
-【巴西外長：美國加徵關稅毫無理由 是“出於政治動機”】當地時間16日，巴西外長維埃拉在新聞釋出會上表示，美國對部分巴西進口商品加徵25%關稅的行為沒有任何現實依據，而是“出於政治動機”。維埃拉表示，根據《1974年貿易法》第301條款進行的調查是美國政府的單方面程式，美方沒有任何理由對巴西產品徵收關稅。維埃拉表示，美國的這些措施“不可接受”。此外，巴西副總統阿爾克明當天也表示，美國對部分巴西進口商品加徵25%關稅的行為“不公平且毫無根據”。阿爾克明稱，縱觀過去15年的資料，美國對巴西一直保持貿易順差，依據第301條款提出的徵稅理由“完全建立在虛假的基礎之上”，因此，“美方加稅的理由根本站不住腳且不公平”。（央視新聞）
-
----
-
-### 2026-07-17 05:13:16  #MKT News
-
-【Brazil foreign minister says U.S. 25% tariffs on some imports are politically motivated】On the 16th, Brazil foreign minister Vieira said the U.S. move to impose 25% tariffs on certain Brazilian imports has no factual basis and is politically motivated, calling the Section 301 investigation under the Trade Act of 1974 a unilateral U.S. procedure and the measures unacceptable. Vice President Alckmin said the tariffs are unfair and baseless, adding that U.S. data over the past 15 years show a trade surplus with Brazil and that the Section 301 rationale rests on false grounds.
-
----
-
-### 2026-07-17 05:11:59  #Trading Economics #Markets #Brazil #Stock Market #Importance 1
-
-Ibovespa Closes Lower on New US Tariffs — The Ibovespa fell 1.2% to close at 173,825 on Thursday after the US announced a new 25% tariff on Brazilian imports. According to the announcement, the new tariff will take effect on July 22. Vale fell 2.0%, while steelmakers also posted losses, with Gerdau down 1.2% and CSN shedding 2.7%. Meanwhile, the conflict in the Middle East pushed oil prices higher on supply concerns, fueling inflation worries. Bond yields also moved higher, weighing on financials and the broader market. Itaú shed 1.4%, Bradesco lost 1.0%, and Itaúsa was down 1.0%. Utilities also traded lower, with Axia losing 1.4% and Sabesp shedding 2.3%. Other notable laggards included Petrobras (-1.7%) and WEG (-1.7%).
-
----
-
-### 2026-07-17 05:11:37  #其他
-
-馬斯克評Kimi K3模型跑分情況：厲害。
-
----
-
-### 2026-07-17 05:10:26  #MKT News #Star Stocks #Tesla #Market Themes #Magnificent 7
-
-Elon Musk said the Kimi K3 model's benchmark performance was impressive.
-
----
-
-### 2026-07-17 05:04:05  #市場
-
-週四（7月16日）紐約尾盤（週五北京時間04:59），離岸人民幣（CNH）兌美元報6.7732元，較週三紐約尾盤跌45點，日內整體交投於6.7649-6.7755元區間。
-
----
-
-### 2026-07-17 05:03:16  #MKT News #Market Themes #AI Revolution
-
-SpaceX AI prices Grok 4.5 at USD2 per mln input tokens and USD6 per mln output tokens.
-
----
-
-### 2026-07-17 05:02:23  #MKT News #Market Themes #AI Revolution
-
-SpaceX AI: Grok 4.5 is now live on Grok Build, Cursor and the SpaceX AI Console.
-
----
-
-### 2026-07-17 05:01:50  #其他
-
-xAI：Grok 4.5 計費標準為每百萬輸入詞元 2 美元、每百萬輸出詞元 6 美元。
-
----
-
-### 2026-07-17 05:00:20  #其他
-
-xAI：Grok 4.5 現已登陸 Grok Build、Cursor 以及 xAI 控制檯。
-
----
-
-### 2026-07-17 04:59:33  #Trading Economics #Markets #Canada #Stock Market #Importance 1
-
-TSX Falls as Miners and Banks Weigh — The S&P/TSX Composite Index fell 0.2% to close at 35,340, weighed down by mining and banking stocks. Gold prices dropped as escalating tensions in the Middle East pushed oil prices higher, fueling concerns that inflation could keep interest rates elevated for longer. Agnico Eagle fell 3.6%, WPM lost 4%, and Barrick shed 3%. Financials also weakened, with RBC down 0.8%, TD Bank losing 0.7%, BMO slipping 0.5%, and Scotiabank retreating 0.7%. Energy shares outperformed on higher crude prices, with Tourmaline Oil gaining 1.5%. Elsewhere, TFI International jumped 7.3% after a Scotiabank rating upgrade. Investors also monitored USMCA developments after US Trade Representative Jamieson Greer said trade talks with Mexico were progressing, while negotiations with Canada remained stalled.
-
----
-
-### 2026-07-17 04:59:21  #其他
-
-xAI：自動化功能已在 Grok 官網，以及 iOS、安卓平臺的 Grok 客戶端上線。
-
----
-
-### 2026-07-17 04:58:37  #其他
-
-XAI 將為 Grok 上線自動化功能。
-
----
-
-### 2026-07-17 04:58:17  #公司 #市場
-
-盤後可口可樂公司股價下跌 1.4%；公司披露 Fairlife 業務遭遇技術系統故障。
-
----
-
-### 2026-07-17 04:57:51  #公司 #市場
-
-奈飛：公司預計今年內容投入將上漲 10%。
-
----
-
-### 2026-07-17 04:57:03  #MKT News
-
-Netflix (NFLX.O) expects 2026 content spend to rise about 10% YoY, above its five-year average of roughly 8% but below its ten-year average of about 14%.
-
----
-
-### 2026-07-17 04:56:45  #MKT News #WTI #Impact bullish #Brent #DXY
-
-U.S. forces struck a residential area in Bandar Abbas, Iran, killing one and wounding eight. The same night U.S. forces also attacked a bridge at Bandar Khamir in southern Hormozgan province. Reports say the driver of a private car was killed in the attack.
-
----
-
-### 2026-07-17 04:56:32  #MKT News
-
-Unverified social-media reports, citing a Middle East source, say the US has updated strike orders on Iran to include bridges and transport links to further pressure Tehran. The posts allege the US has carried out strikes on Iranian civilian infrastructure; Iranian media earlier reported attacks on several airports, rail hubs and bridges. Reports remain unverified.
-
----
-
-### 2026-07-17 04:55:43  #其他
-
-奈飛： 預計今年內容支出將增長約 10%，高於過去五年 8% 的平均增速，低於過去十年 14% 的平均增速。
-
----
-
-### 2026-07-17 04:54:51  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O) co-CEO said the company accounts for about 5% of global TV viewing time. Platform viewing time in 1H 2026 rose 2% YoY, an increase of roughly 1.5 billion hours versus the year-ago period.
-
----
-
-### 2026-07-17 04:53:37  #MKT News #Market Themes #AI Revolution #NVDA.O #Impact bearish #MSFT.O #GOOGL.O
-
-【DeepMind CEO proposes international pre-release review for frontier AI; Musk, Altman back plan】DeepMind CEO Demis Hassabis proposed creating an independent international body to test and review frontier AI models before public release and will meet US officials in Washington next week to discuss the plan. Hassabis cited advanced cyber-attack capabilities demonstrated by ANTHROPIC's MYTHOS as evidence of the need for stronger AI safety oversight. The proposal would place reviews in the hands of independent experts, be funded by major AI firms, allow up to 30 days of testing per model, and include provisions to coordinate industry slowdowns of frontier model development if necessary. OpenAI CEO Sam Altman and Elon Musk have publicly expressed support.
-
----
-
-### 2026-07-17 04:53:31  #其他
-
-奈飛： 2026 年上半年平臺觀看時長同比增長 2%，較去年同期新增 15 億小時觀看量。 平臺觀看時長與營收、利潤不存線上性關聯。
-
----
-
-### 2026-07-17 04:52:32  #市場
-
-鈀金期貨日內跌3%，現報1253.58美元/盎司。
-
----
-
-### 2026-07-17 04:52:26  #MKT News #NFLX.O #Impact bullish
-
-Netflix (NFLX.O) co-CEO says the company still has substantial room to grow in its addressable market.
-
----
-
-### 2026-07-17 04:51:50  #公司
-
-【7月17日美股成交額前20：谷歌推遲釋出Gemini旗艦模型】週四美股成交額第5名谷歌A類股收跌4.44%，成交146.69億美元。據知情人士透露，谷歌推遲釋出Gemini旗艦模型，因技術能力未達預期目標。谷歌最強旗艦AI模型Gemini 3.5 Pro的釋出時間已較原計劃推遲數月，已引起谷歌工程師、AI研究人員和管理層的不滿，他們擔心，隨著Anthropic和OpenAI相繼推出效能超越Gemini的模型，谷歌可能失去市場領先優勢。上述訊息人士稱，谷歌在模型釋出前需要經過多個利益相關方審批，同時還要將AI能力整合進搜尋、地圖和YouTube等產品中，這些因素都會拖慢產品釋出進度。由於涉及公司內部情況，相關人士要求匿名。
-
----
-
-### 2026-07-17 04:51:24  #公司
-
-奈飛：公司預估自身僅佔據全球電視總收視份額的 5%。
-
----
-
-### 2026-07-17 04:51:04  #MKT News #DXY #Impact bullish #USDJPY #EURUSD #Impact bearish
-
-【Dollar index up 0.27% to 100.76 at New York close】Dollar index (DXY) rose 0.27% to 100.76 at the New York FX close. EUR/USD 1.14 (previous close 1.15); GBP/USD 1.35, slightly below the prior session's 1.35; USD/JPY 162.39 (162.05); USD/CHF 0.8089 (0.8047); USD/CAD 1.40, marginally above the prior session's 1.40; USD/SEK 9.65 (9.59).
-
----
-
-### 2026-07-17 04:50:08  #其他
-
-奈飛：圍繞我們的一系列目標取得強勁的進展。 目前僅開發了不足五成的潛在市場。
-
----
-
-### 2026-07-17 04:48:54  #MKT News #Important #XAUUSD #Impact bullish #Brent #DXY
-
-Iranian media reported U.S. forces attacked the railway hub at Abbas Port, injuring two people.
-
----
-
-### 2026-07-17 04:48:35  #MKT News
-
-Iran's Fars news agency reported a bridge in Bandar-e Khamir was hit in a suspected US military strike at about 23:00 local time (03:30 Beijing). The bridge links the Port of Abbas and Lar city.
-
----
-
-### 2026-07-17 04:47:58  #市場
-
-【美元指數16日上漲】衡量美元對六種主要貨幣的美元指數當天上漲0.27%，在匯市尾市收於100.76。 截至紐約匯市尾市，1歐元兌換1.14美元，低於前一交易日的1.15美元；1英鎊兌換1.35美元，低於前一交易日的1.35美元。 1美元兌換162.39日元，高於前一交易日的162.05日元；1美元兌換0.8089瑞士法郎，高於前一交易日的0.8047瑞士法郎；1美元兌換1.4加元，高於前一交易日的1.4加元；1美元兌換9.65瑞典克朗，高於前一交易日的9.59瑞典克朗。(新華社)
-
----
-
-### 2026-07-17 04:47:50  #焦點 #國際
-
-市場訊息：伊朗阿巴斯港鐵路樞紐站遭美軍襲擊，兩人受傷。
-
----
-
-### 2026-07-17 04:42:59  #其他
-
-【國家統計局：2026年上半年社會商品和服務零售總額同比增長2.7%】國家統計局資料顯示，2026年上半年社會商品和服務零售總額同比增長2.7%，居民消費支出同步改善，上半年全國居民人均消費支出14836元，名義同比增長3.7%。在商品零售的幾個大類中，比如家電、手機、汽車、裝修，國家都給予了專項消費補貼。購物前，先問一句“有國補嗎？”，已經成為中國消費者的口頭禪。（央視新聞）
 
 ---
