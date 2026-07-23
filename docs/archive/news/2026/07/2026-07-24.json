@@ -1,7 +1,84 @@
 {
   "date": "2026-07-24",
-  "count": 99,
+  "count": 108,
   "items": [
+    {
+      "id": "5005256",
+      "time": "2026-07-24 01:16:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "BMO Capital將IBM目標價從270美元下調至230美元。"
+    },
+    {
+      "id": "5005255",
+      "time": "2026-07-24 01:16:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將啟動法規制定工作，旨在強化汽車車門安全效能。"
+    },
+    {
+      "id": "5005254",
+      "time": "2026-07-24 01:16:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲7月23日全額接受了提交至逆回購工具的9.04億美元申請，6 家交易商在美聯儲逆回購操作中獲得 9.04 億美元。"
+    },
+    {
+      "id": "5005253",
+      "time": "2026-07-24 01:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "DA Davidson將Alphabet目標價從每股375.00美元下調至350.00美元，維持Alphabet評級為“中性”。"
+    },
+    {
+      "id": "5005252",
+      "time": "2026-07-24 01:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 稱全新 EPYC 架構實現歷代產品中最大效能提升。"
+    },
+    {
+      "id": "5005251",
+      "time": "2026-07-24 01:14:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期通脹保值國債收益率在標售結束後延續漲勢，最新報2.429%，創2025年4月以來新高。"
+    },
+    {
+      "id": "5005250",
+      "time": "2026-07-24 01:13:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長表示全新 Venice 處理器將鞏固行業領先地位。"
+    },
+    {
+      "id": "5005249",
+      "time": "2026-07-24 01:13:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團執行長表示，該公司正在回應社會各界對人工智慧的關切。"
+    },
+    {
+      "id": "te:markets:569360",
+      "time": "2026-07-24 01:13:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Reaches Highest Since May — US gasoline futures rose above $3.48 per gallon, near the highest level since the end of May, as the US-Iran conflict escalated to the Bab el-Mandeb Strait, fueling concerns over further disruptions to energy supply. Nearing a second consecutive week of strikes, a new front in the conflict opened in the Red Sea after President Donald Trump said Iran would be held responsible for any further attacks, following claims by Iran-backed Houthi rebels of strikes on two Saudi oil tankers. Tankers have increasingly avoided the Bab el-Mandeb Strait, raising the risk of another disruption to a key global shipping route. Adding to the pressure, earlier Ukrainian strikes on 24 out of 34 largest Russian refineries, and US refineries running at 96.1% of their capacity, further weighed on refined supply outlook. Still, fuel supplies in Russia showed signs of improving after Ukraine shifted attacks away from major oil refineries toward maritime targets."
+    },
     {
       "id": "5005248",
       "time": "2026-07-24 01:11:57",

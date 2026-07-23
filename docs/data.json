@@ -1,7 +1,84 @@
 {
-  "updated": "2026-07-24 01:13:20",
-  "count": 18042,
+  "updated": "2026-07-24 01:17:21",
+  "count": 18037,
   "items": [
+    {
+      "id": "5005256",
+      "time": "2026-07-24 01:16:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "BMO Capital將IBM目標價從270美元下調至230美元。"
+    },
+    {
+      "id": "5005255",
+      "time": "2026-07-24 01:16:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國將啟動法規制定工作，旨在強化汽車車門安全效能。"
+    },
+    {
+      "id": "5005254",
+      "time": "2026-07-24 01:16:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "紐約聯儲7月23日全額接受了提交至逆回購工具的9.04億美元申請，6 家交易商在美聯儲逆回購操作中獲得 9.04 億美元。"
+    },
+    {
+      "id": "5005253",
+      "time": "2026-07-24 01:15:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "DA Davidson將Alphabet目標價從每股375.00美元下調至350.00美元，維持Alphabet評級為“中性”。"
+    },
+    {
+      "id": "5005252",
+      "time": "2026-07-24 01:14:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "AMD 稱全新 EPYC 架構實現歷代產品中最大效能提升。"
+    },
+    {
+      "id": "5005251",
+      "time": "2026-07-24 01:14:07",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國10年期通脹保值國債收益率在標售結束後延續漲勢，最新報2.429%，創2025年4月以來新高。"
+    },
+    {
+      "id": "5005250",
+      "time": "2026-07-24 01:13:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長表示全新 Venice 處理器將鞏固行業領先地位。"
+    },
+    {
+      "id": "5005249",
+      "time": "2026-07-24 01:13:20",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團執行長表示，該公司正在回應社會各界對人工智慧的關切。"
+    },
+    {
+      "id": "te:markets:569360",
+      "time": "2026-07-24 01:13:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Gasoline Reaches Highest Since May — US gasoline futures rose above $3.48 per gallon, near the highest level since the end of May, as the US-Iran conflict escalated to the Bab el-Mandeb Strait, fueling concerns over further disruptions to energy supply. Nearing a second consecutive week of strikes, a new front in the conflict opened in the Red Sea after President Donald Trump said Iran would be held responsible for any further attacks, following claims by Iran-backed Houthi rebels of strikes on two Saudi oil tankers. Tankers have increasingly avoided the Bab el-Mandeb Strait, raising the risk of another disruption to a key global shipping route. Adding to the pressure, earlier Ukrainian strikes on 24 out of 34 largest Russian refineries, and US refineries running at 96.1% of their capacity, further weighed on refined supply outlook. Still, fuel supplies in Russia showed signs of improving after Ukraine shifted attacks away from major oil refineries toward maritime targets."
+    },
     {
       "id": "5005248",
       "time": "2026-07-24 01:11:57",
@@ -165149,161 +165226,6 @@
         "AI Revolution"
       ],
       "text": "Fed's Logan said a surge in AI investment could trigger non-linear price increases."
-    },
-    {
-      "id": "mkt:019f6bee-4d2f-7aab-8dcd-f1711bdf3d2e",
-      "time": "2026-07-17 01:16:47",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Fed official Logan said labor, consumption and financial data indicate monetary policy has not restrained the economy."
-    },
-    {
-      "id": "mkt:019f6bee-45dc-7aab-8dcd-eae940c6b326",
-      "time": "2026-07-17 01:16:45",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "Federal Reserve's LOGAN said the labor market is well balanced and even slightly stronger."
-    },
-    {
-      "id": "4992788",
-      "time": "2026-07-17 01:16:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：利率應略高一些。"
-    },
-    {
-      "id": "mkt:019f6bee-3097-7aab-8dcd-e131ee2c634c",
-      "time": "2026-07-17 01:16:39",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "Fed's Logan: AI could ultimately trigger a surge in productivity, but demand effects are already evident."
-    },
-    {
-      "id": "mkt:019f6bee-2454-7aab-8dcd-dcbc26f9efcc",
-      "time": "2026-07-17 01:16:36",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact mixed"
-      ],
-      "text": "LOGAN: Downside risks to employment have diminished; inflation risks are primarily tilted to the upside."
-    },
-    {
-      "id": "mkt:019f6bee-1ae7-7aab-8dcd-d71822a9fe25",
-      "time": "2026-07-17 01:16:34",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "LOGAN: it is time to finish the job of restoring price stability; some policy restraint will be needed to help achieve that."
-    },
-    {
-      "id": "4992787",
-      "time": "2026-07-17 01:16:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：目前來看，進一步通貨緊縮的希望大於可能性。"
-    },
-    {
-      "id": "4992786",
-      "time": "2026-07-17 01:16:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：人工智慧的需求效應已經顯現，但供給效應尚不明朗。"
-    },
-    {
-      "id": "4992785",
-      "time": "2026-07-17 01:16:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：資料顯示貨幣政策並未抑制經濟。"
-    },
-    {
-      "id": "mkt:019f6bed-a321-7aab-8dcd-ce12f3a80500",
-      "time": "2026-07-17 01:16:03",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "LOGAN said a one-month decline in CPI inflation is \"not enough\"."
-    },
-    {
-      "id": "mkt:019f6bed-950e-7aab-8dcd-c38b6ac6ab3c",
-      "time": "2026-07-17 01:15:59",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y"
-      ],
-      "text": "Fed official LOGAN said a \"moderate rate increase\" would better balance the outlook and risks."
-    },
-    {
-      "id": "4992784",
-      "time": "2026-07-17 01:15:58",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：適度提高利率能更好地平衡風險。"
-    },
-    {
-      "id": "4992783",
-      "time": "2026-07-17 01:15:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲洛根：傾向於為了降低通脹率而適度加息。"
-    },
-    {
-      "id": "mkt:019f6bec-d806-7aab-8dcd-b909f04af794",
-      "time": "2026-07-17 01:15:11",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Kansas City Fed President Schmidt, an FOMC voting member for 2028, will speak in 10 minutes."
     }
   ]
 }
