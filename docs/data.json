@@ -1,7 +1,180 @@
 {
-  "updated": "2026-07-23 21:34:09",
-  "count": 17988,
+  "updated": "2026-07-23 21:38:29",
+  "count": 17996,
   "items": [
+    {
+      "id": "mkt:019f8f31-d1ae-7aab-8e6d-2337a2c7a035",
+      "time": "2026-07-23 21:37:14",
+      "tags": [
+        "MKT News",
+        "TMO.N",
+        "Impact bullish"
+      ],
+      "text": "Thermo Fisher Scientific (TMO.N) rose nearly 12%, its largest intraday gain in a year."
+    },
+    {
+      "id": "5004967",
+      "time": "2026-07-23 21:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體訊息：伊朗革命衛隊稱其打擊了科威特境內的阿爾 - 阿迪裡基地。"
+    },
+    {
+      "id": "mkt:019f8f31-697e-7aab-8e6d-1e8ad9cd2cd7",
+      "time": "2026-07-23 21:36:47",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines Group (AAL.O) shares fell 9.1%, the largest intraday decline in a year."
+    },
+    {
+      "id": "mkt:019f8f31-3082-7aab-8e6d-14fdc8a5f4d8",
+      "time": "2026-07-23 21:36:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Chinese national wins Fields Medal for first time】At the opening ceremony of the 2026 International Congress of Mathematicians in Philadelphia on the 23rd, a mathematician of Chinese nationality was awarded a Fields Medal — the first time a Chinese national has received the prize."
+    },
+    {
+      "id": "5004966",
+      "time": "2026-07-23 21:36:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "賽默飛股價大漲近 12%，創一年來最大日內漲幅。"
+    },
+    {
+      "id": "5004965",
+      "time": "2026-07-23 21:36:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國籍數學家首次獲得菲爾茲獎】在23日於美國費城舉行的2026年國際數學家大會開幕式上，中國籍數學家獲得菲爾茲獎，這是中國籍數學家首次獲得菲爾茲獎。"
+    },
+    {
+      "id": "5004964",
+      "time": "2026-07-23 21:35:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "洛克希德馬丁上調2026年銷售預測後，股價觸及三個月高位，最新上漲10%。"
+    },
+    {
+      "id": "5004963",
+      "time": "2026-07-23 21:35:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "坦尚尼亞財政部長表示，該國可能透過發行歐洲債券等多種方式，來滿足約10億美元的外部借款需求。"
+    },
+    {
+      "id": "mkt:019f8f30-3015-7aab-8e6d-0c4e5b7821b3",
+      "time": "2026-07-23 21:35:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said any bases used to attack Iran are legitimate targets."
+    },
+    {
+      "id": "5004962",
+      "time": "2026-07-23 21:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：任何用於攻擊伊朗的基地都是合法目標。"
+    },
+    {
+      "id": "mkt:019f8f2f-f685-7aab-8e6d-02dff673929b",
+      "time": "2026-07-23 21:35:12",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines (AAL.O) fell over 7% to a six-week low after the carrier said it expects a third-quarter loss, against prior market expectations for a profit."
+    },
+    {
+      "id": "mkt:019f8f2f-b9c6-7aab-8e6c-fd61ce228449",
+      "time": "2026-07-23 21:34:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "QumulusAI signed a two-year, $32 million agreement with an AI inference platform provider to acquire NVIDIA (NVDA.O) Blackwell B300 systems."
+    },
+    {
+      "id": "5004961",
+      "time": "2026-07-23 21:34:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "羅珀技術公司股價上漲7.4%，此前該公司公佈的2026年利潤預測高於市場預期。"
+    },
+    {
+      "id": "5004960",
+      "time": "2026-07-23 21:34:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國電信盤中最大跌幅達 3.9%，創日內低點。"
+    },
+    {
+      "id": "5004959",
+      "time": "2026-07-23 21:34:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國航空股價跌至六週新低，此前該公司公佈第三季度預期為虧損，市場預期為盈利，股價最新下跌7.2%。"
+    },
+    {
+      "id": "mkt:019f8f2e-c160-7aab-8e6c-f6929dfe09cc",
+      "time": "2026-07-23 21:33:53",
+      "tags": [
+        "MKT News",
+        "TMO.N",
+        "Impact bullish"
+      ],
+      "text": "Thermo Fisher Scientific (TMO.N) shares rose 9.9% after second-quarter profit beat expectations."
+    },
+    {
+      "id": "te:markets:569324",
+      "time": "2026-07-23 21:33:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SAP Stock Price Hits 32-month Low — SAP shares decreased to 130.24 EUR, the lowest since November 2023. Over the past 4 weeks, SAP lost 3.15%, and in the last 12 months, it decreased 46.93%."
+    },
+    {
+      "id": "5004958",
+      "time": "2026-07-23 21:33:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Alphabet公佈第二季度業績後，亞馬遜股價下跌3.4%，元宇宙平臺（Meta）股價下跌3.2%，微軟股價下跌0.5%。"
+    },
     {
       "id": "mkt:019f8f2e-7744-7aab-8e6c-ebd60d4d74b3",
       "time": "2026-07-23 21:33:34",
@@ -164772,94 +164945,6 @@
         "其他"
       ],
       "text": "馬士基透過在蘇阿佩設立配送中心，強化其在巴西東北部的綜合物流能力。"
-    },
-    {
-      "id": "4992556",
-      "time": "2026-07-16 21:38:17",
-      "tags": [
-        "市場"
-      ],
-      "text": "雅培股價攀升至盤中最高點11%，創2020年以來最大漲幅。"
-    },
-    {
-      "id": "4992555",
-      "time": "2026-07-16 21:37:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "胡塞武裝發表宣告：沙特與美國、以色列和英國合作，破壞伊斯蘭民族任何統一和團結的立場。必須對沙特予以懲處。"
-    },
-    {
-      "id": "te:markets:567580",
-      "time": "2026-07-16 21:37:28",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "stocks",
-        "Importance 1"
-      ],
-      "text": "ProLogis Stock Price Hits 4-week High — ProLogis shares increased to 146.41 USD, the highest since June 2026. Over the past 4 weeks, ProLogis lost 0.17%, and in the last 12 months, it increased 32.4%."
-    },
-    {
-      "id": "mkt:019f6b25-5e5b-7aab-8dca-1900a520f48c",
-      "time": "2026-07-16 21:37:18",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Houthis say Saudi Arabia complicit, must be punished】Houthi militants said Saudi Arabia, in cooperation with the US, Israel and the UK, is undermining Islamic unity and its role is now exposed. They called Saudi Arabia’s years-long aggression in Yemen unlawful and conducted within an alliance with the US and Israel. They said the primary victims are Palestinians, whom they described as suffering genocide, and demanded Saudi be punished and perpetrators held accountable."
-    },
-    {
-      "id": "4992554",
-      "time": "2026-07-16 21:37:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "美股盤初，主要行業ETF漲跌不一，半導體ETF跌近3%，全球科技股指數ETF跌近2%，日常消費品ETF漲1.5%。"
-    },
-    {
-      "id": "4992553",
-      "time": "2026-07-16 21:37:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：目前來看，本迪布焦埃博拉病毒毒株顯現的症狀暫無明顯差異。"
-    },
-    {
-      "id": "4992552",
-      "time": "2026-07-16 21:36:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "納斯達克100指數跌幅擴大至1%。"
-    },
-    {
-      "id": "4992551",
-      "time": "2026-07-16 21:35:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "韋德布什證券對Ebay啟動覆蓋，給予跑贏大盤評級，目標價為135美元。"
-    },
-    {
-      "id": "te:markets:567578",
-      "time": "2026-07-16 21:34:42",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Baltic Dry Index Falls for 2nd Day — The Baltic Exchange's dry bulk freight index, which monitors rates for ships carrying dry bulk commodities, was down for the second session on Thursday, dropping about 3% to its lowest since July 6 at 2,840 points, amid continued weakness in the larger segment. The capesize index, which typically transports 150,000-ton cargoes including iron ore and coal, also fell for the second day, slipping 5.6% to an over one-week low of 4,339 points. At the same time, the panamax index, which tracks vessels carrying around 60,000 to 70,000 tons of coal or grain, remained broadly steady at 2,257 points, supported by stable coal and grain cargo demand across both Atlantic and Pacific basins. Among smaller vessels, the supramax index went up 0.6% to a new high since August 2022 at 1,730 points, driven by firm demand across the minor bulk, steel, fertilizer, and grain segments."
-    },
-    {
-      "id": "4992550",
-      "time": "2026-07-16 21:34:37",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "【金價跌破每盎司4000美元關口】當地時間16日，中東緊張局勢加劇通脹擔憂，國際金銀價格在美國交易時段持續走低，黃金期貨和現貨價格均跌破每盎司4000美元關口。截至北京時間16日21時15分，紐約商品交易所8月交割的黃金期貨價格報每盎司3995.28美元，跌幅為1.39%；9月交割的白銀期貨價格報每盎司56.14美元，跌幅為2.25%。黃金現貨價格報每盎司3993.33美元，下跌1.65%；白銀現貨價格報每盎司55.899美元，跌幅為3.24%。（央視財經）"
     }
   ]
 }

@@ -1,7 +1,180 @@
 {
   "date": "2026-07-23",
-  "count": 3288,
+  "count": 3306,
   "items": [
+    {
+      "id": "mkt:019f8f31-d1ae-7aab-8e6d-2337a2c7a035",
+      "time": "2026-07-23 21:37:14",
+      "tags": [
+        "MKT News",
+        "TMO.N",
+        "Impact bullish"
+      ],
+      "text": "Thermo Fisher Scientific (TMO.N) rose nearly 12%, its largest intraday gain in a year."
+    },
+    {
+      "id": "5004967",
+      "time": "2026-07-23 21:37:08",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體訊息：伊朗革命衛隊稱其打擊了科威特境內的阿爾 - 阿迪裡基地。"
+    },
+    {
+      "id": "mkt:019f8f31-697e-7aab-8e6d-1e8ad9cd2cd7",
+      "time": "2026-07-23 21:36:47",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines Group (AAL.O) shares fell 9.1%, the largest intraday decline in a year."
+    },
+    {
+      "id": "mkt:019f8f31-3082-7aab-8e6d-14fdc8a5f4d8",
+      "time": "2026-07-23 21:36:33",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Chinese national wins Fields Medal for first time】At the opening ceremony of the 2026 International Congress of Mathematicians in Philadelphia on the 23rd, a mathematician of Chinese nationality was awarded a Fields Medal — the first time a Chinese national has received the prize."
+    },
+    {
+      "id": "5004966",
+      "time": "2026-07-23 21:36:28",
+      "tags": [
+        "市場"
+      ],
+      "text": "賽默飛股價大漲近 12%，創一年來最大日內漲幅。"
+    },
+    {
+      "id": "5004965",
+      "time": "2026-07-23 21:36:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國籍數學家首次獲得菲爾茲獎】在23日於美國費城舉行的2026年國際數學家大會開幕式上，中國籍數學家獲得菲爾茲獎，這是中國籍數學家首次獲得菲爾茲獎。"
+    },
+    {
+      "id": "5004964",
+      "time": "2026-07-23 21:35:52",
+      "tags": [
+        "市場"
+      ],
+      "text": "洛克希德馬丁上調2026年銷售預測後，股價觸及三個月高位，最新上漲10%。"
+    },
+    {
+      "id": "5004963",
+      "time": "2026-07-23 21:35:41",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "坦尚尼亞財政部長表示，該國可能透過發行歐洲債券等多種方式，來滿足約10億美元的外部借款需求。"
+    },
+    {
+      "id": "mkt:019f8f30-3015-7aab-8e6d-0c4e5b7821b3",
+      "time": "2026-07-23 21:35:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said any bases used to attack Iran are legitimate targets."
+    },
+    {
+      "id": "5004962",
+      "time": "2026-07-23 21:35:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗革命衛隊：任何用於攻擊伊朗的基地都是合法目標。"
+    },
+    {
+      "id": "mkt:019f8f2f-f685-7aab-8e6d-02dff673929b",
+      "time": "2026-07-23 21:35:12",
+      "tags": [
+        "MKT News",
+        "AAL.O",
+        "Impact bearish"
+      ],
+      "text": "American Airlines (AAL.O) fell over 7% to a six-week low after the carrier said it expects a third-quarter loss, against prior market expectations for a profit."
+    },
+    {
+      "id": "mkt:019f8f2f-b9c6-7aab-8e6c-fd61ce228449",
+      "time": "2026-07-23 21:34:57",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "NVIDIA",
+        "Market Themes",
+        "Magnificent 7",
+        "NVDA.O",
+        "Impact bullish"
+      ],
+      "text": "QumulusAI signed a two-year, $32 million agreement with an AI inference platform provider to acquire NVIDIA (NVDA.O) Blackwell B300 systems."
+    },
+    {
+      "id": "5004961",
+      "time": "2026-07-23 21:34:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "羅珀技術公司股價上漲7.4%，此前該公司公佈的2026年利潤預測高於市場預期。"
+    },
+    {
+      "id": "5004960",
+      "time": "2026-07-23 21:34:21",
+      "tags": [
+        "市場"
+      ],
+      "text": "德國電信盤中最大跌幅達 3.9%，創日內低點。"
+    },
+    {
+      "id": "5004959",
+      "time": "2026-07-23 21:34:16",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "美國航空股價跌至六週新低，此前該公司公佈第三季度預期為虧損，市場預期為盈利，股價最新下跌7.2%。"
+    },
+    {
+      "id": "mkt:019f8f2e-c160-7aab-8e6c-f6929dfe09cc",
+      "time": "2026-07-23 21:33:53",
+      "tags": [
+        "MKT News",
+        "TMO.N",
+        "Impact bullish"
+      ],
+      "text": "Thermo Fisher Scientific (TMO.N) shares rose 9.9% after second-quarter profit beat expectations."
+    },
+    {
+      "id": "te:markets:569324",
+      "time": "2026-07-23 21:33:44",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "SAP Stock Price Hits 32-month Low — SAP shares decreased to 130.24 EUR, the lowest since November 2023. Over the past 4 weeks, SAP lost 3.15%, and in the last 12 months, it decreased 46.93%."
+    },
+    {
+      "id": "5004958",
+      "time": "2026-07-23 21:33:35",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Alphabet公佈第二季度業績後，亞馬遜股價下跌3.4%，元宇宙平臺（Meta）股價下跌3.2%，微軟股價下跌0.5%。"
+    },
     {
       "id": "mkt:019f8f2e-7744-7aab-8e6c-ebd60d4d74b3",
       "time": "2026-07-23 21:33:34",
