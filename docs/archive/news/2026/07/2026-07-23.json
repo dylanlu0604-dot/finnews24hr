@@ -1,7 +1,85 @@
 {
   "date": "2026-07-23",
-  "count": 2259,
+  "count": 2267,
   "items": [
+    {
+      "id": "mkt:019f8e65-4dac-7aab-8e62-bbea41c084f7",
+      "time": "2026-07-23 17:53:51",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【Review: Four market-relevant ways events have contradicted Trump's Iran-war assessments】Four market-relevant judgments by Trump have been at odds with subsequent events: Iranian military capability, conflict duration, control of the Strait of Hormuz, and oil prices. On Iranian military capability: Trump repeatedly asserted Iran’s forces and command had been destroyed (statements on Mar 9, Apr 25, May 1 and Jul 8). In reality Iran retains strike capability and has continued attacks on US forces, regional US allies and commercial vessels, causing US casualties. On conflict duration: Trump forecast the campaign would conclude in roughly four weeks (Mar 1, Mar 26) and said it would end quickly (May 19). The conflict has persisted for nearly five months and Trump has recently threatened further escalation. On the Strait of Hormuz: Trump said the US was controlling the strait and that Iran could not interfere (Jul 13, Jul 20). Iran has claimed responsibility for recent attacks near the strait, and a US Navy–led maritime information center reported commercial shipping activity fell to a three-week low in the past 48 hours. On oil prices: Trump repeatedly said prices were falling back toward pre-conflict levels (statements Jun 17, Jul 8, Jul 19, Jul 22). Oil briefly dipped below pre-conflict levels but has since rebounded after the ceasefire collapsed and attacks resumed."
+    },
+    {
+      "id": "5004323",
+      "time": "2026-07-23 17:53:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【非洲本輪埃博拉疫情死亡病例已破千】剛果（金）衛生部7月22日宣佈，截至20日，全國累計報告2473例埃博拉確診病例，全國累計報告999例埃博拉死亡病例。而烏干達衛生部21日釋出的資料顯示，該國累計報告確診病例20例，其中死亡2例。至此，本輪由本迪布焦型埃博拉病毒引發的疫情在剛果（金）和烏干達兩國累計已報告1001例死亡病例。 非洲疾病預防控制中心5月15日宣佈，剛果（金）伊圖裡省暴發埃博拉疫情。世衛組織5月17日宣佈，剛果（金）和烏干達出現的埃博拉疫情構成“國際關注的突發公共衛生事件”。（CCTV國際時訊）"
+    },
+    {
+      "id": "mkt:019f8e65-314f-7aab-8e62-b5d0a08075b0",
+      "time": "2026-07-23 17:53:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Asian crude buyers in talks with Aramco to reroute shipments around Africa】At least two Asian crude buyers are negotiating with Aramco to reroute shipments around Africa after Houthi attacks on tankers in the Red Sea, traders said. Refiners are considering bypassing the Bab al-Mandeb, including sourcing barrels from Egypt’s Sidi Kerir in the eastern Mediterranean instead of Saudi Arabia’s Red Sea hub at Yanbu. Aramco could move cargoes from Yanbu to Egypt’s Ain Sokhna for northbound pipeline transfer, or buyers could take delivery at Yanbu and arrange Egyptian onward logistics themselves. Talks are ongoing and no final decision has been made."
+    },
+    {
+      "id": "5004322",
+      "time": "2026-07-23 17:53:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【亞洲石油買家正與沙特商討改變紅海輸油路線】據熟悉情況的交易商稱，至少有兩家亞洲原油買家正與沙特阿美公司談判，考慮在胡塞武裝襲擊紅海油輪後，將石油運輸路線重新繞過非洲。交易商表示，煉油廠正在考慮不使用曼德海峽的替代方案。這些替代方案可能包括從地中海的埃及西迪凱里爾港（Sidi Kerir）獲取石油，而非透過沙特在亞姆布的紅海樞紐港口。交易商表示，如果亞洲買家希望從地中海採購原油，沙特阿美（Aramco）可能會將油品從延布運往埃及紅海的艾因索赫納港，再透過管道向北輸送。另一種選擇是，買家在從延布提貨後，自行負責埃及的物流運輸。交易仍在進行中，目前尚未做出最終決定。"
+    },
+    {
+      "id": "5004321",
+      "time": "2026-07-23 17:52:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "沃爾夫研究將AT&T評級從與大盤持平上調至表現優於大盤。"
+    },
+    {
+      "id": "5004320",
+      "time": "2026-07-23 17:51:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）IBES資料顯示，歐洲企業二季度盈利預期增幅為17.3%，一週前市場預期增幅為16.7%。"
+    },
+    {
+      "id": "5004319",
+      "time": "2026-07-23 17:51:30",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "倫敦證券交易所集團（LSEG）IBES資料顯示，歐洲企業第二季度營收預計同比增長11.5%，一週前市場預期增速為11.1%。"
+    },
+    {
+      "id": "5004318",
+      "time": "2026-07-23 17:50:41",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗總統佩澤希齊揚在德黑蘭正式會見伊拉克總理扎伊迪。"
+    },
     {
       "id": "mkt:019f8e61-d51c-7aab-8e62-acc3984efcce",
       "time": "2026-07-23 17:50:03",
