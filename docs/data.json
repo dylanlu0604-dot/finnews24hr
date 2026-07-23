@@ -1,7 +1,69 @@
 {
-  "updated": "2026-07-23 13:18:08",
-  "count": 17560,
+  "updated": "2026-07-23 13:22:12",
+  "count": 17563,
   "items": [
+    {
+      "id": "5003637",
+      "time": "2026-07-23 13:20:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【因汽車需求疲軟及勞工騷亂拖累 現代汽車利潤下滑】在全球需求降溫導致汽車銷量下滑之際，現代汽車公佈的第二季度淨利潤走弱，這是這家韓國最大汽車製造商遭遇的最新挫折。在現代汽車公佈疲軟業績之際，該公司在韓國的工會工人為要求提高工資而連續第二週舉行部分罷工，本週每班罷工時間增加一倍，至四小時。在人工智慧和機器人技術發展之際，該工會還在尋求就業保護，反對管理層在兩年內部署人形機器人到裝配線的計劃。這家汽車製造商週四表示，在4-6月期間，其淨利潤同比下降11%，至2.888萬億韓元（合19.6億美元）。該業績好於FactSet彙總的2.661萬億韓元的平均預期。收入增長1.9%，至49.215萬億韓元，而營業利潤下降21%，至2.851萬億韓元。該公司表示，該季度全球汽車銷量同比下降6.9%，導致上半年銷量降幅達到4.9%。業績公佈後，現代汽車股價最新上漲2.5%。按銷量計算，現代汽車與其姊妹公司起亞是全球第三大汽車製造商。今年以來，該公司股價已上漲超過40%，落後於基準的韓國綜合指數(Kospi)超過60%的漲幅。"
+    },
+    {
+      "id": "te:markets:569115",
+      "time": "2026-07-23 13:20:39",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Copper Climbs Toward Seven-Week High — Copper futures rose toward $6.53 per pound on Thursday, hovering near their highest level in seven weeks, as tightening supply and falling inventories continued to support prices. Copper stockpiles in LME-registered and Shanghai-monitored warehouses have declined sharply in recent months, boosting the Yangshan copper premium, a gauge of China's import demand, to a multi-year high of $115 per ton. Supply was further constrained by smelter maintenance, typhoon-related stockpiling, and limited scrap availability in China, while traders continued shipping metal to the US ahead of a potential tariff on refined copper imports. However, gains were capped as rising oil prices renewed inflation concerns and strengthened expectations for higher interest rates, weighing on the demand outlook for industrial metals."
+    },
+    {
+      "id": "mkt:019f8d6a-2f2e-7aab-8e5a-9c3779b7914b",
+      "time": "2026-07-23 13:19:34",
+      "tags": [
+        "MKT News",
+        "IBM.O"
+      ],
+      "text": "Barclays cuts IBM (IBM.N) PT to $262 from $288."
+    },
+    {
+      "id": "5003636",
+      "time": "2026-07-23 13:19:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "巴克萊將 IBM 目標價從288美元下調至262美元。"
+    },
+    {
+      "id": "5003635",
+      "time": "2026-07-23 13:18:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "【珠江、長江、淮河、海河流域部分河流將出現漲水過程】今天上午，水利部舉行會商，分析研判全國的防汛形勢，安排部署暴雨洪水防禦工作。截至7月23日9時，吉林、遼寧、黑龍江、內蒙古、天津、河北、江蘇等地11條河流仍維持超警，最大超警幅度1.46米。據預報，7月23日至7月24日，受上游來水影響，松花江流域松花江幹流肇源江段、遼河流域渾河下游幹流邢家窩棚以下河段、海河流域薊運河等主要河流及江蘇裡下河地區部分河流將維持超警；受降雨影響，珠江流域桂南沿海、長江流域鄂東四水、淮河流域淠河及山東半島小清河、海河流域漳衛河上游等河流將出現漲水過程，暴雨區內部分中小河流可能發生超警洪水。"
+    },
+    {
+      "id": "5003634",
+      "time": "2026-07-23 13:18:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "【全國6條河流發生超警洪水】水利部7月23日訊息，受降雨影響，昨天8時到今天8時，廣西柳江支流浪溪河、古宜河、平等河，雲南南盤江支流瀘江，河北北澧河支流牛尾河，江蘇裡下河地區串場河等6條河流發生超警洪水，最大超警幅度2.87米，目前均已退至警戒以下。"
+    },
+    {
+      "id": "5003633",
+      "time": "2026-07-23 13:17:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "【意法半導體上調2026年與2027年人工智慧資料中心業務營收預期】意法半導體執行長稱，我們預計第四季度營收增長將加速，預計第四季度營收將超過40億美元。 意法半導體上調2026年與2027年人工智慧資料中心業務營收預期，預計2026年人工智慧資料中心收入將超過10億美元，此前預期約為10億美元。預計2027年人工智慧資料中心營收將遠超20億美元，此前預期約為20億美元。"
+    },
     {
       "id": "mkt:019f8d67-b363-7aab-8e5a-9409f762e7e2",
       "time": "2026-07-23 13:16:51",
@@ -160585,41 +160647,6 @@
         "其他"
       ],
       "text": "【上交所9只ETF正在發行，6只已完成募集】ETF產品陸續發行建倉。據瞭解，目前上交所有9只ETF正在發行，6只ETF已完成募集，既包括A股ETF等寬基ETF產品，又包括科創人工智慧、工程機械、光伏、食品等行業主題ETF，相關產品陸續發行建倉或將為市場引入增量資金。（第一財經）"
-    },
-    {
-      "id": "mkt:019f695f-7916-7aab-8dba-e1c2a3cd071c",
-      "time": "2026-07-16 13:21:32",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "In A-shares, GigaDevice's turnover exceeded RMB 20.0 bln; the stock is trading down 7.87%."
-    },
-    {
-      "id": "4991445",
-      "time": "2026-07-16 13:21:15",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【報告：美國PPI資料料將鞏固美聯儲的按兵不動立場】TruStage的Steve Rick在一份報告中表示，對美聯儲來說，低於預期的PPI報告是一個可喜的進展。該首席經濟學家表示：“這將表明通脹可能正在逐步接近美聯儲的目標，並可能鞏固決策者可以按兵不動而不是考慮進一步加息的預期。“他說，雖然抗通脹之戰尚未結束，但更疲軟的價格資料將是朝著實現價格穩定和健康勞動力市場之間更好平衡邁出的又一步。"
-    },
-    {
-      "id": "4991444",
-      "time": "2026-07-16 13:20:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "兆易創新A股成交額超200億元，現跌8.04%。"
-    },
-    {
-      "id": "4991442",
-      "time": "2026-07-16 13:18:36",
-      "tags": [
-        "公司"
-      ],
-      "text": "【榮耀機器人手機Robot Phone兩款配色亮相，即將開啟預約】榮耀CEO李健在微博中透露，全球首臺機器人手機榮耀Robot Phone已就緒，且同時釋出的海報中顯示新機有兩種配色。這也就意味著，繼Robot Phone亮相MWC2026之後，一款全新配色也將登場。據知情人士透露，榮耀Robot Phone即將正式開啟預約。有觀點認為，從iPhone到Robot Phone，被譽為“矽谷精神之父”的世界著名科技未來學家凱文·凱利在《5000天后的世界》中關於5000天為一個技術革命週期的預言再次成真，從多點觸控到多模態具身互動新時代即將到來。值得一提的是，凱文·凱利將作為此次榮耀WAIC 2026分論壇特邀嘉賓，與全球頂尖學者、技術領軍人物、產業先行者共同探討具身互動新正規化實踐。（新浪科技）"
     }
   ]
 }
