@@ -1,7 +1,341 @@
 {
   "date": "2026-07-23",
-  "count": 2939,
+  "count": 2972,
   "items": [
+    {
+      "id": "te:markets:569292",
+      "time": "2026-07-23 20:33:46",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Euro Area",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "European Stocks Down, Earnings in Focus — European stocks extended their losses on Thursday, with the STOXX 50 falling 1.1% and the STOXX 600 down 0.9%, as investors digested a fresh batch of corporate earnings while surging oil prices and escalating hostilities in the Middle East continued to weigh on sentiment. As expected, the ECB left interest rates unchanged. STMicroelectronics tumbled more than 16%, making it the worst performer in the STOXX 600 after missing profit expectations. Nestlé dropped 7% after announcing an agreement to sell its stake in its Waters business to private equity firm Platinum Equity. UniCredit declined 4.4% despite reporting a 6.6% year-on-year increase in revenue and reaffirming its goal of acquiring Commerzbank in the fourth quarter. BNP Paribas also fell 2.1%, despite posting better-than-expected profit and revenue. On the upside, TotalEnergies gained 2.9% after reporting its strongest quarterly profit in three years, while Dassault Aviation surged 8.3% following stronger first-half earnings."
+    },
+    {
+      "id": "5004795",
+      "time": "2026-07-23 20:33:43",
+      "tags": [
+        "市場"
+      ],
+      "text": "【由於汽油價格上漲，加拿大零售銷售額連續第五個月增長】由於汽油價格上漲，加拿大5月份零售銷售額連續第五個月增長。初步估計顯示，6月份零售銷售將進一步上升。加拿大統計局週四表示，5月份零售銷售額同比增長1.0%，符合市場預期。剔除汽車和汽油的非汽車類核心零售銷售額增長0.9%，扭轉了4月份下降0.7%的走勢。"
+    },
+    {
+      "id": "mkt:019f8ef7-a125-7aab-8e68-f5f631207a58",
+      "time": "2026-07-23 20:33:40",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Gasoline-driven rise pushes Canada's retail sales to fifth straight monthly gain】Canada's retail sales rose for a fifth consecutive month in May, helped by higher gasoline prices, Statistics Canada said; sales were up 1.0% YoY, in line with estimates. A preliminary estimate indicates retail sales will rise further in June. Core retail sales excluding autos and gasoline increased 0.9% in May, reversing April's 0.7% decline."
+    },
+    {
+      "id": "mkt:019f8ef7-5f09-7aab-8e68-ecdfb50a0d96",
+      "time": "2026-07-23 20:33:24",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "DAX",
+        "Impact bearish"
+      ],
+      "text": "Germany's DAX fell 1.00% intraday."
+    },
+    {
+      "id": "5004794",
+      "time": "2026-07-23 20:32:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "納斯達克首席財務官：即便美國證券交易委員會與美國商品期貨交易委員會擴大批准權益類產品的永續型衍生品，此類業務的交叉重疊也極少，其營收佔比不到1%。"
+    },
+    {
+      "id": "5004793",
+      "time": "2026-07-23 20:32:30",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國國債價格跌幅擴大。"
+    },
+    {
+      "id": "te:markets:569290",
+      "time": "2026-07-23 20:31:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Ameriprise Financial earnings above expectations at 11.07 USD — Ameriprise Financial (AMP) released earnings per share at 11.07 USD, compared to market expectations of 10.63 USD."
+    },
+    {
+      "id": "5004792",
+      "time": "2026-07-23 20:31:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "歐元下跌0.25%，報1.1384美元。"
+    },
+    {
+      "id": "5004791",
+      "time": "2026-07-23 20:31:48",
+      "tags": [
+        "市場"
+      ],
+      "text": "英鎊下跌0.25%，報1.3343美元。"
+    },
+    {
+      "id": "5004790",
+      "time": "2026-07-23 20:31:40",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元指數在初請失業金資料公佈後小幅擴大漲幅，最新上漲0.25%，報101.35點。"
+    },
+    {
+      "id": "mkt:019f8ef5-bc1f-7aab-8e68-e45c11733bfe",
+      "time": "2026-07-23 20:31:36",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact mixed"
+      ],
+      "text": "【Zhejiang city and rural commercial banks cut deposit-rate caps 5bp; expert says not a prelude to rate cuts】Rumors that some Zhejiang banks lowered deposit rates sparked sizable bond-market moves. Multiple sources confirmed the change is a regional self-discipline adjustment: Zhejiang’s deposit-rate mechanism cut the self‑regulated caps on two-, three- and five‑year deposits by 5bps, effective July 22, applied only to city commercial banks and rural commercial banks in Zhejiang. The move does not cover state-owned big banks or national joint-stock banks and, according to local banking officials and economists, is not a signal of a broader monetary policy rate cut."
+    },
+    {
+      "id": "5004789",
+      "time": "2026-07-23 20:31:36",
+      "tags": [
+        "市場"
+      ],
+      "text": "美元兌日元上漲0.28%，報163.59。"
+    },
+    {
+      "id": "5004787",
+      "time": "2026-07-23 20:31:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "現貨黃金失守4070美元/盎司，日內跌1.46%。"
+    },
+    {
+      "id": "5004786",
+      "time": "2026-07-23 20:31:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【浙江城農商行存款利率上限下調5BP，專家：不是降息前奏】 近日，一則“浙江部分地方銀行週三起下調存款利率”的傳聞震動市場，並引發債市較大波動。記者多方核實瞭解到，這次調整屬於一次地方性的、針對特定銀行的存款利率自律上限調整，並非全面的“降息”訊號。多名浙江銀行業人士向記者證實，浙江利率自律機制向轄內城商行和農商行下發通知，調整二年期、三年期及五年期存款利率自律上限，三個期限各下降5個BP，並於7月22日正式執行。招聯首席經濟學家董希淼向記者指出，此次調整範圍僅限浙江省內城商行與農商行，由地方自律機制下發通知，不涉及國有大行及全國性股份行，這是區域性自律機制的調整，也不代表新一輪全面“降息潮”開啟。（南方財經）"
+    },
+    {
+      "id": "mkt:019f8ef5-4e04-7aab-8e68-db10976b488a",
+      "time": "2026-07-23 20:31:08",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "XAUUSD",
+        "Impact bearish"
+      ],
+      "text": "Spot gold slipped after a data release, breaking below $4,070/oz and down 1.45% intraday."
+    },
+    {
+      "id": "em:jjsj_mgsj:202607233819162938",
+      "time": "2026-07-23 20:30:57",
+      "tags": [
+        "經濟數據",
+        "美國"
+      ],
+      "text": "【美國上週首次申領失業救濟人數為18.7萬人 低於市場預期】美國上週首次申領失業救濟人數為18.7萬人，預估為21.1萬人，前值為20.8萬人。"
+    },
+    {
+      "id": "5004785",
+      "time": "2026-07-23 20:30:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部資料顯示，當前營銷年度美國大豆每週出口淨銷售為56,400噸，當週新增出口銷售為116,900噸。"
+    },
+    {
+      "id": "5004784",
+      "time": "2026-07-23 20:30:48",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國農業部資料顯示，本營銷年度美國大豆粕出口周度淨銷量為18.5萬噸，新增銷量為20.89萬噸。"
+    },
+    {
+      "id": "mkt:019f8ef4-a544-7aab-8e68-d0444a4206e3",
+      "time": "2026-07-23 20:30:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "US10Y",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for the week ending July 18 fell to 187,000, the lowest level since the week of Sept. 24, 2022."
+    },
+    {
+      "id": "5004783",
+      "time": "2026-07-23 20:30:19",
+      "tags": [
+        "資料"
+      ],
+      "text": "加拿大5月核心零售銷售月率 1.2%，預期1.4%，前值由0.10%修正為0%。\n加拿大5月零售銷售月率 1%，預期1%，前值由0.50%修正為0.4%。"
+    },
+    {
+      "id": "mkt:019f8ef4-829d-7aab-8e68-cc9c2a694cdc",
+      "time": "2026-07-23 20:30:16",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "USDJPY"
+      ],
+      "text": "US initial jobless claims 4-week moving average for week ended July 18: 207,500; prior value revised from 214,250 to 214,750."
+    },
+    {
+      "id": "mkt:019f8ef4-7d11-7aab-8e68-c0f975cb9291",
+      "time": "2026-07-23 20:30:14",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Canada May retail sales MoM 1.0% (est. 1.0%); April revised to 0.4% from 0.5%."
+    },
+    {
+      "id": "mkt:019f8ef4-760b-7aab-8e68-baca042a5cfd",
+      "time": "2026-07-23 20:30:13",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US continuing jobless claims for week ended July 11: 1.796 mln vs 1.807 mln expected; prior week revised to 1.798 mln from 1.805 mln."
+    },
+    {
+      "id": "5004782",
+      "time": "2026-07-23 20:30:13",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國至7月18日當週初請失業金人數四周均值 20.75萬人，前值由21.425萬人修正為21.475萬人。\n美國至7月11日當週續請失業金人數 179.6萬人，預期180.7萬人，前值由180.5萬人修正為179.8萬人。\n美國至7月18日當週初請失業金人數 18.7萬人，預期21.2萬人，前值由20.8萬人修正為20.9萬人。"
+    },
+    {
+      "id": "mkt:019f8ef4-6863-7aab-8e68-b060a3a8007b",
+      "time": "2026-07-23 20:30:09",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "US Chicago Fed National Activity Index (CFNAI) for June -0.02; previous value revised from -0.10 to -0.19."
+    },
+    {
+      "id": "mkt:019f8ef4-67f7-7aab-8e68-abdcf880c042",
+      "time": "2026-07-23 20:30:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "US initial jobless claims for the week ended July 18: 187,000 vs consensus 212,000; prior week revised from 208,000 to 209,000."
+    },
+    {
+      "id": "mkt:019f8ef4-63a4-7aab-8e68-a558a0360879",
+      "time": "2026-07-23 20:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada core retail sales MoM (May) +1.2% vs +1.4% expected; April revised from +0.1% to 0.0%."
+    },
+    {
+      "id": "mkt:019f8ef4-4543-7aab-8e68-98c88e7315c8",
+      "time": "2026-07-23 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Continued Jobless Claims (Jul.11) | actual 1796000K | consensus 1807000K | previous 1805000K"
+    },
+    {
+      "id": "mkt:019f8ef4-44d8-7aab-8e68-92b0b5690442",
+      "time": "2026-07-23 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims 4-Week Average (Jul.18) | actual 207500K | previous 214250K"
+    },
+    {
+      "id": "mkt:019f8ef4-44c4-7aab-8e68-8f0158a56abe",
+      "time": "2026-07-23 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Retail Sales (MoM) (May) | actual 1% | consensus 1% | previous 0.50%"
+    },
+    {
+      "id": "mkt:019f8ef4-4495-7aab-8e68-83f5afb7e307",
+      "time": "2026-07-23 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Canada | Core Retail Sales (MoM) (May) | actual 1.2% | consensus 1.4% | previous 0.10%"
+    },
+    {
+      "id": "mkt:019f8ef4-442c-7aab-8e68-7a5661b556db",
+      "time": "2026-07-23 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Initial Jobless Claims (Jul.18) | actual 187000K | consensus 212000K | previous 208000K"
+    },
+    {
+      "id": "mkt:019f8ef4-4241-7aab-8e68-71076d2df2aa",
+      "time": "2026-07-23 20:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | Chicago Fed National Activity Index (Jun) | actual -0.02 | previous -0.1"
+    },
     {
       "id": "mkt:019f8ef3-a25b-7aab-8e68-6bb6fa4bf579",
       "time": "2026-07-23 20:29:19",
