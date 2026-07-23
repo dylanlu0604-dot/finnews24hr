@@ -1,7 +1,26 @@
 {
   "date": "2026-07-24",
-  "count": 350,
+  "count": 352,
   "items": [
+    {
+      "id": "mkt:019f90b8-ef33-7aab-8e73-5d84e4a75ada",
+      "time": "2026-07-24 04:44:26",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bullish",
+        "DXY"
+      ],
+      "text": "【Napatha price surge turns Japan into net petrochemical importer】Iran war-related disruption to crude-derived napatha supply has driven a sharp rise in Japan's imports of basic petrochemical feedstocks for plastics, with buyers shifting to lower-cost sources in China and South Korea, Nikkei reports. Trade data show ethylene imports from March–May were 14x YoY, butadiene imports more than doubled, and benzene imports rose over 28x. Exports have fallen; ethylene exports in May were near zero. Per the Japan Petrochemical Industry Association, April ethylene imports exceeded exports by 19,000 tonnes and May by 15,000 tonnes — the first monthly net ethylene import since comparable data began in 2000."
+    },
+    {
+      "id": "5005394",
+      "time": "2026-07-24 04:40:48",
+      "tags": [
+        "觀點"
+      ],
+      "text": "高盛推出 AI 高風險垃圾債交易渠道，單筆交易規模可達 2.5 億美元。"
+    },
     {
       "id": "5005393",
       "time": "2026-07-24 04:40:00",
