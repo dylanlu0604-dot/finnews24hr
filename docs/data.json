@@ -1,7 +1,50 @@
 {
-  "updated": "2026-07-24 03:26:58",
-  "count": 18015,
+  "updated": "2026-07-24 03:30:53",
+  "count": 18016,
   "items": [
+    {
+      "id": "mkt:019f9074-0e64-7aab-8e72-6fd447eab08c",
+      "time": "2026-07-24 03:29:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said parts of negotiations on a potential US-Mexico-Canada agreement will extend through year-end."
+    },
+    {
+      "id": "mkt:019f9073-daab-7aab-8e72-60f349fc9586",
+      "time": "2026-07-24 03:28:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【House passes War Powers resolution to limit Trump’s use of force against Iran; Senate blocks similar measure】On Thursday the US House passed a War Powers resolution calling on President Trump to halt military action against Iran, 214-208, with four Republicans joining Democrats. Hours later the Senate defeated its version of the War Powers measure in a 49-47 procedural vote; Maine Republican Susan Collins voted with Democrats to advance the measure, while Pennsylvania Democrat John Fetterman voted with Republicans against it, and four Republican senators did not vote. The split votes reflect rising congressional frustration over the conflict."
+    },
+    {
+      "id": "5005364",
+      "time": "2026-07-24 03:28:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼： 有關《美墨加協定》潛在協議的部分談判內容將持續至年底。"
+    },
+    {
+      "id": "mkt:019f9073-6bda-7aab-8e72-59ea30f1a8de",
+      "time": "2026-07-24 03:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry: Foreign Minister Araghchi has arrived in Cholpon-Ata, Kyrgyzstan."
+    },
+    {
+      "id": "5005363",
+      "time": "2026-07-24 03:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼： 加拿大尚未簽署《美墨加協定》區域性協議，原因是本國正聚焦關鍵產業領域。"
+    },
     {
       "id": "mkt:019f9071-9a2c-7aab-8e72-5167c74d597e",
       "time": "2026-07-24 03:26:31",
@@ -164971,39 +165014,6 @@
         "國際"
       ],
       "text": "市場訊息：美國聯邦官員正調查線上氯胺酮銷售商家，管控居家自行使用該藥物的行為。"
-    },
-    {
-      "id": "mkt:019f6c67-a18e-7aab-8dd0-416391b9d45f",
-      "time": "2026-07-17 03:29:18",
-      "tags": [
-        "MKT News",
-        "BA.N"
-      ],
-      "text": "The U.S. National Transportation Safety Board said it will lead the investigation into a Ryanair-operated Boeing 737 (BA.N) accident. A passenger was partially sucked out of the aircraft through a window following a window-related failure."
-    },
-    {
-      "id": "4992903",
-      "time": "2026-07-17 03:28:45",
-      "tags": [
-        "公司"
-      ],
-      "text": "【谷歌據悉推遲釋出Gemini 3.5 Pro 因持續提升模型程式設計能力】知情人士透露，谷歌最強旗艦AI模型Gemini 3.5 Pro的釋出時間已較原計劃推遲數月，因為該公司投入了更多時間提升模型能力，尤其是程式設計能力。據10名現任及前員工透露，Gemini 3.5 Pro延期釋出已引起谷歌工程師、AI研究人員和管理層的不滿，他們擔心，隨著Anthropic和OpenAI相繼推出效能超越Gemini的模型，谷歌可能失去市場領先優勢。上述訊息人士稱，谷歌在模型釋出前需要經過多個利益相關方審批，同時還要將AI能力整合進搜尋、地圖和YouTube等產品中，這些因素都會拖慢產品釋出進度。"
-    },
-    {
-      "id": "4992902",
-      "time": "2026-07-17 03:28:07",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家運輸安全委員會稱，該機構將牽頭調查瑞安航空一架波音 737 客機事故，事故中一名乘客身體部分被吸出機艙窗外。"
-    },
-    {
-      "id": "4992901",
-      "time": "2026-07-17 03:27:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大就業與社會發展部：將很快與各省及地區展開磋商，相關協議與資金安排將於 2026 至 2027 年度落實到位。"
     }
   ]
 }

@@ -1,7 +1,50 @@
 {
   "date": "2026-07-24",
-  "count": 277,
+  "count": 282,
   "items": [
+    {
+      "id": "mkt:019f9074-0e64-7aab-8e72-6fd447eab08c",
+      "time": "2026-07-24 03:29:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canada's Prime Minister Carney said parts of negotiations on a potential US-Mexico-Canada agreement will extend through year-end."
+    },
+    {
+      "id": "mkt:019f9073-daab-7aab-8e72-60f349fc9586",
+      "time": "2026-07-24 03:28:59",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact mixed",
+        "Brent"
+      ],
+      "text": "【House passes War Powers resolution to limit Trump’s use of force against Iran; Senate blocks similar measure】On Thursday the US House passed a War Powers resolution calling on President Trump to halt military action against Iran, 214-208, with four Republicans joining Democrats. Hours later the Senate defeated its version of the War Powers measure in a 49-47 procedural vote; Maine Republican Susan Collins voted with Democrats to advance the measure, while Pennsylvania Democrat John Fetterman voted with Republicans against it, and four Republican senators did not vote. The split votes reflect rising congressional frustration over the conflict."
+    },
+    {
+      "id": "5005364",
+      "time": "2026-07-24 03:28:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼： 有關《美墨加協定》潛在協議的部分談判內容將持續至年底。"
+    },
+    {
+      "id": "mkt:019f9073-6bda-7aab-8e72-59ea30f1a8de",
+      "time": "2026-07-24 03:28:31",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iranian Foreign Ministry: Foreign Minister Araghchi has arrived in Cholpon-Ata, Kyrgyzstan."
+    },
+    {
+      "id": "5005363",
+      "time": "2026-07-24 03:26:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "加拿大總理卡尼： 加拿大尚未簽署《美墨加協定》區域性協議，原因是本國正聚焦關鍵產業領域。"
+    },
     {
       "id": "mkt:019f9071-9a2c-7aab-8e72-5167c74d597e",
       "time": "2026-07-24 03:26:31",
