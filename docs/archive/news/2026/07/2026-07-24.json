@@ -1,7 +1,37 @@
 {
   "date": "2026-07-24",
-  "count": 362,
+  "count": 365,
   "items": [
+    {
+      "id": "5005404",
+      "time": "2026-07-24 05:03:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國防部宣佈與甲骨文達成價值近 70 億美元的軟體合作協議。"
+    },
+    {
+      "id": "mkt:019f90c7-9d7b-7aab-8e73-71a511b7f1b1",
+      "time": "2026-07-24 05:00:28",
+      "tags": [
+        "MKT News",
+        "Important",
+        "S&P500",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD"
+      ],
+      "text": "Senior U.S. official: U.S. has set tariffs of 10%-12.5% on imports from multiple countries and exempted oil, natural gas, fertilizer and food products."
+    },
+    {
+      "id": "5005403",
+      "time": "2026-07-24 05:00:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "新加坡政府投資公司（GIC）計劃三年內向對沖基金投資 300 億美元。"
+    },
     {
       "id": "5005402",
       "time": "2026-07-24 04:59:39",
