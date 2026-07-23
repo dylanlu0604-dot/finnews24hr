@@ -1,7 +1,48 @@
 {
   "date": "2026-07-24",
-  "count": 339,
+  "count": 343,
   "items": [
+    {
+      "id": "mkt:019f90aa-af6c-7aab-8e73-3ac57df2594f",
+      "time": "2026-07-24 04:28:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【WHITE HOUSE says US-Saudi civilian nuclear pact hinges on Saudi joining Abraham Accords】LEAVITT told reporters at the WHITE HOUSE on the 23rd the recently signed US-Saudi civilian nuclear agreement would be \"void\" if Saudi Arabia does not join the Abraham Accords. She reiterated President Trump’s condition that the pact’s activation \"depends on\" Saudi signing the Accords and said the president is the final decision-maker. LEAVITT added Trump has repeatedly urged Saudi counterparts to join the Accords promptly. The Abraham Accords are the normalization agreements Trump brokered between Israel and the UAE, Bahrain, Sudan and Morocco."
+    },
+    {
+      "id": "5005390",
+      "time": "2026-07-24 04:28:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美施壓沙特籤“亞伯拉罕協議” 否則核協議“作廢”】美國白宮新聞秘書萊維特23日在白宮記者會上稱，如果沙烏地阿拉伯不加入“亞伯拉罕協議”，美國同沙特日前簽署的民用核協議將“作廢”。美國和沙特能源部門22日分別發表宣告宣佈，兩國已簽署一項和平利用核能的合作協議。不過，美國總統特朗普23日早些時候在社交媒體發文稱，該協議將獲得批准，但前提條件是沙特加入“亞伯拉罕協議”。而這一前提條件在美沙兩國先前發表的宣告中均未提及。萊維特在回答記者提問時重申了特朗普的最新條件，稱該協議能否生效“取決於”沙特簽署“亞伯拉罕協議”，強調“總統始終是最終拍板的人”。她稱，特朗普曾多次就此事與沙特方面溝通，希望看到沙特儘快加入“亞伯拉罕協議”。萊維特同時表示，特朗普提出新條件後還未與沙特王儲兼首相穆罕默德交談過。穆罕默德王儲去年11月到訪白宮期間，特朗普“強烈要求”沙特加入“亞伯拉罕協議”，但遭拒絕。穆罕默德王儲直言，加沙戰事導致沙特國內反以情緒高漲，目前不會接受與以色列實現關係正常化。“亞伯拉罕協議”是特朗普在第一個總統任期“撮合”阿聯酋、巴林、蘇丹、摩洛哥等國與以色列實現關係正常化而簽署的協議。特朗普一直將此視為其重要“外交成就”。(新華社)"
+    },
+    {
+      "id": "mkt:019f90a9-b729-7aab-8e73-37682f254595",
+      "time": "2026-07-24 04:27:49",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "Brent",
+        "S&P500",
+        "Impact bullish"
+      ],
+      "text": "UN special envoy for Yemen said the priority is preserving the 2022 ceasefire agreement and preventing a return to large-scale conflict."
+    },
+    {
+      "id": "te:markets:569383",
+      "time": "2026-07-24 04:27:32",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Slips as Middle East Tensions Weigh — The Ibovespa fell 0.5% to close at 176,724 on Thursday as escalating Middle East tensions weighed on sentiment. Oil prices surged after renewed attacks heightened concerns over global energy supplies, reigniting inflation fears and reinforcing expectations that interest rates could remain higher for longer. Financials led the losses, with Itaú down 0.8%, Bradesco shedding 1.3%, Itaúsa losing 0.6%, and Banco do Brasil retreating 0.8%. Utilities also traded lower, with Axia down 0.6% and Sabesp falling 1%. WEG slipped 2.3% after soaring 10% in the previous session on strong operating margins and return on invested capital. Other notable laggards included Ambev (-1.3%), Rede D'Or (-2.4%), and Embraer (-0.5%). In contrast, Petrobras gained 0.9%, supported by higher oil prices."
+    },
     {
       "id": "te:markets:569382",
       "time": "2026-07-24 04:22:56",
