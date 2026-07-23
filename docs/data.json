@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-24 00:47:31",
-  "count": 18027,
+  "updated": "2026-07-24 00:51:35",
+  "count": 18031,
   "items": [
+    {
+      "id": "5005221",
+      "time": "2026-07-24 00:50:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "格里爾：歐盟的行動對跨大西洋貿易穩定構成風險。"
+    },
+    {
+      "id": "te:markets:569359",
+      "time": "2026-07-24 00:50:15",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Gasoline Hits 9-week High — Gasoline increased to 3.49 USD/Gal, the highest since May 2026. Over the past 4 weeks, Gasoline gained 20.88%, and in the last 12 months, it increased 65.17%."
+    },
+    {
+      "id": "5005220",
+      "time": "2026-07-24 00:49:51",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "市場訊息：特朗普政府表示，歐盟依據《數字市場法案》對谷歌處以10億美元罰款的決定威脅貿易穩定。"
+    },
+    {
+      "id": "5005219",
+      "time": "2026-07-24 00:49:10",
+      "tags": [
+        "國際"
+      ],
+      "text": "格里爾：歐盟的行動給美國出口帶來巨大不確定性。"
+    },
+    {
+      "id": "5005218",
+      "time": "2026-07-24 00:48:28",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "格里爾：歐盟繼續瞄準最具競爭力的美國公司。"
+    },
+    {
+      "id": "5005217",
+      "time": "2026-07-24 00:47:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "格里爾發表宣告，指控歐盟對谷歌處以罰款。"
+    },
+    {
+      "id": "5005216",
+      "time": "2026-07-24 00:47:48",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長稱 MI450 人工智慧加速器為業內效能最強產品。"
+    },
+    {
+      "id": "5005215",
+      "time": "2026-07-24 00:47:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普稱正“認真考慮”重啟對伊朗大規模作戰行動 】美國總統特朗普23日表示，他正在“認真考慮”重啟對伊朗的大規模作戰行動。 特朗普當天在接受美國阿克西奧斯新聞網站採訪時說：“我正在考慮發動一次大規模打擊，規模空前。我已接近作出決定。我們已為此做好了一切準備。”他說，伊朗方面“想要談判”，但目前尚未準備好達成協議，“他們受到的教訓還不夠深刻”。 特朗普還說，如果他提出要求，以色列“兩分鐘內就會加入”，但又補充說，針對伊朗發起新行動“不需要任何人”協助，並稱如果以色列參與打擊行動將會產生“後果”，暗示伊朗將對以色列進行報復。 特朗普當天早些時候在社交媒體發文稱，若葉門胡塞武裝再次襲擊沙烏地阿拉伯船隻，美國將追究伊朗責任，並對伊朗及胡塞武裝施以“重大軍事懲罰”。 自本月11日以來，美軍連續12天對伊朗境內目標發動空襲，而伊朗也對中東地區的美軍設施發動導彈和無人機襲擊。（新華社）"
+    },
     {
       "id": "5005214",
       "time": "2026-07-24 00:46:33",
@@ -165144,43 +165214,6 @@
         "其他"
       ],
       "text": "LME期銅收漲17美元，報13598美元/噸。LME期鋁收漲35美元，報3185美元/噸。LME期鋅收漲48美元，報3594美元/噸。LME期鉛收漲20美元，報1872美元/噸。LME期鎳收漲349美元，報17152美元/噸。LME期錫收漲376美元，報53156美元/噸。LME期鈷收平，報56290美元/噸。"
-    },
-    {
-      "id": "mkt:019f6bd6-c894-7aab-8dcd-9619229f5834",
-      "time": "2026-07-17 00:51:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Dubai Government Media Office denied reports of explosions in downtown Dubai, calling the information inaccurate and urging media and the public to rely on official sources and verify before sharing."
-    },
-    {
-      "id": "4992770",
-      "time": "2026-07-17 00:50:53",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：迪拜媒體辦公室在社交平臺上否認了迪拜市內出現爆炸聲的報道。"
-    },
-    {
-      "id": "mkt:019f6bd5-bc89-7aab-8dcd-89991889857d",
-      "time": "2026-07-17 00:49:57",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "【Iran adviser warns attacks on infrastructure could jeopardize regional energy supply】An adviser to Iran’s supreme leader warned on the 16th that recent attacks in Ahvaz and Iranshahr are part of the same campaign as an earlier strike on a Minab school and that assaults on Iranian security and infrastructure could disrupt regional energy supply chains and pose serious risks to regional energy security. Khuzestan deputy governor said on the 15th that areas around provincial capital Ahvaz were struck in attacks he blamed on US forces, with shells hitting near a local hospital. Sistan-Baluchestan deputy governor confirmed Iranshahr airport was attacked in the early hours of the 9th, and a firefighter was killed."
-    },
-    {
-      "id": "mkt:019f6bd4-340d-7aab-8dcd-864a8120b586",
-      "time": "2026-07-17 00:48:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【OpenAI chairman says no update on IPO timing】OpenAI chairman Bret Taylor told CNBC there is no update on IPO timing. He reiterated that last month’s confidential filing with the US Securities and Exchange Commission was intended to preserve optionality rather than signal a firm timetable, and said the company has many priorities to address before going public."
     }
   ]
 }
