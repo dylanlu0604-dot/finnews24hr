@@ -1,7 +1,331 @@
 {
-  "updated": "2026-07-23 20:55:17",
-  "count": 17896,
+  "updated": "2026-07-23 20:59:28",
+  "count": 17919,
   "items": [
+    {
+      "id": "mkt:019f8f0e-a2da-7aab-8e6a-6e4f23b91948",
+      "time": "2026-07-23 20:58:48",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde says inflation risks are skewed to the upside."
+    },
+    {
+      "id": "mkt:019f8f0e-5059-7aab-8e6a-62e16fe2d813",
+      "time": "2026-07-23 20:58:27",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DAX",
+        "XAUUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said rising energy prices will weigh on real incomes."
+    },
+    {
+      "id": "5004877",
+      "time": "2026-07-23 20:58:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "康卡斯特表示，寬頻領域競爭依舊激烈，衛星寬頻已成為新的競爭對手。"
+    },
+    {
+      "id": "5004876",
+      "time": "2026-07-23 20:58:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：地緣衝突仍是不確定性的主要來源。"
+    },
+    {
+      "id": "5004875",
+      "time": "2026-07-23 20:58:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "凱投宏觀經濟學家Jack Allen-Reynolds：歐洲央行維持利率不變的決定並不令人意外，隨附的新聞稿也沒有就其下一步行動發出明確訊號。"
+    },
+    {
+      "id": "5004874",
+      "time": "2026-07-23 20:57:38",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：能源價格上漲將對實際收入造成拖累。"
+    },
+    {
+      "id": "5004872",
+      "time": "2026-07-23 20:57:21",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：正密切監控能源價格上漲的幅度與持續性。"
+    },
+    {
+      "id": "mkt:019f8f0d-2e86-7aab-8e6a-5a7cffb033e9",
+      "time": "2026-07-23 20:57:13",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB President LAGARDE is closely monitoring the magnitude and persistence of rising energy prices."
+    },
+    {
+      "id": "mkt:019f8f0d-2447-7aab-8e6a-54c0d7875e1b",
+      "time": "2026-07-23 20:57:10",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said growth risks are tilted to the downside."
+    },
+    {
+      "id": "5004871",
+      "time": "2026-07-23 20:56:59",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：增長風險偏向下行。"
+    },
+    {
+      "id": "mkt:019f8f0c-f564-7aab-8e6a-4b948ff6e1bc",
+      "time": "2026-07-23 20:56:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets"
+      ],
+      "text": "India adjusts foreign investment rules for e-commerce; export restrictions will be lifted."
+    },
+    {
+      "id": "5004870",
+      "time": "2026-07-23 20:56:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "【華為雲與自變數科技簽署戰略合作協議】7月22日，華為雲與自變數科技在華為坂田基地正式簽署戰略合作協議。雙方將在工具鏈、模型和生態等多個領域展開戰略合作，共同推動具身智慧產業的發展，助力自變數穿越物理世界的智慧奇點。"
+    },
+    {
+      "id": "mkt:019f8f0c-d5bd-7aab-8e6a-468c927e5f2f",
+      "time": "2026-07-23 20:56:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Indian government revises foreign-investment rules for e-commerce to facilitate larger-scale exports."
+    },
+    {
+      "id": "5004869",
+      "time": "2026-07-23 20:56:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：能源通脹可能會使通脹在2027年上半年之前都持續遠高於目標水平。通脹隨後將會回落。衝突是主要的不確定性來源。"
+    },
+    {
+      "id": "mkt:019f8f0c-b7ae-7aab-8e6a-3cb57c9dfe02",
+      "time": "2026-07-23 20:56:43",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said conflicts are the main source of uncertainty."
+    },
+    {
+      "id": "mkt:019f8f0c-b58b-7aab-8e6a-35ba9e30eb5a",
+      "time": "2026-07-23 20:56:42",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said inflation will decline."
+    },
+    {
+      "id": "mkt:019f8f0c-a5e9-7aab-8e6a-2ef6d65f58e1",
+      "time": "2026-07-23 20:56:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said energy inflation could push overall inflation well above target in 1H 2027."
+    },
+    {
+      "id": "5004868",
+      "time": "2026-07-23 20:56:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：中期增長的驅動因素依然完好。潛在通脹得到控制，全部影響尚未完全顯現。"
+    },
+    {
+      "id": "mkt:019f8f0c-6398-7aab-8e6a-2556e81d9bae",
+      "time": "2026-07-23 20:56:21",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President LAGARDE said most long-term inf expectations measures remain stable at around 2%."
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819192717",
+      "time": "2026-07-23 20:56:18",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "【歐洲央行行長：應對能源衝擊的財政措施應是“臨時性”的】歐洲央行行長拉加德表示，應對能源衝擊的財政措施應是“臨時性”的，中期經濟增長的驅動因素依然完好。"
+    },
+    {
+      "id": "mkt:019f8f0c-3ab9-7aab-8e6a-1ae6ac048b49",
+      "time": "2026-07-23 20:56:11",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said surveys show wage growth will remain modest over the next few quarters."
+    },
+    {
+      "id": "5004867",
+      "time": "2026-07-23 20:56:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：多數長期通脹預期指標均維持在2%左右。"
+    },
+    {
+      "id": "mkt:019f8f0c-13b5-7aab-8e6a-10d8f9c61bcc",
+      "time": "2026-07-23 20:56:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President LAGARDE said rising labor productivity helps contain growth in unit labor costs."
+    },
+    {
+      "id": "5004866",
+      "time": "2026-07-23 20:55:58",
+      "tags": [
+        "公司"
+      ],
+      "text": "霍尼韋爾科技高管預計，公司到2026年末業務部門利潤率將超過22%。"
+    },
+    {
+      "id": "5004865",
+      "time": "2026-07-23 20:55:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行拉加德：多項調查顯示未來幾個季度工資增長將放緩。"
+    },
+    {
+      "id": "mkt:019f8f0b-e868-7aab-8e6a-0df7709b6271",
+      "time": "2026-07-23 20:55:49",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President LAGARDE said the wage tracker shows wage growth is moderate."
+    },
+    {
+      "id": "mkt:019f8f0b-9286-7aab-8e6a-044ea6951036",
+      "time": "2026-07-23 20:55:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President LAGARDE said underlying inflation is under control but the full effects have yet to materialize."
+    },
+    {
+      "id": "mkt:019f8f0b-904a-7aab-8e69-ff78d39214f5",
+      "time": "2026-07-23 20:55:27",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD"
+      ],
+      "text": "ECB President Lagarde said companies expect to raise selling prices."
+    },
+    {
+      "id": "5004864",
+      "time": "2026-07-23 20:55:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：企業預計將上調產品售價。"
+    },
+    {
+      "id": "5004862",
+      "time": "2026-07-23 20:55:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "拉加德：能源衝擊仍在持續推高物價。"
+    },
+    {
+      "id": "5004861",
+      "time": "2026-07-23 20:54:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度政府調整電商領域外資規則，將放寬出口相關限制。"
+    },
+    {
+      "id": "5004860",
+      "time": "2026-07-23 20:54:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "比亞迪：海豹08榮獲中汽院低風噪汽車A級認證。"
+    },
     {
       "id": "5004859",
       "time": "2026-07-23 20:54:30",
@@ -163754,81 +164078,6 @@
         "焦點"
       ],
       "text": "紐約期銀失守56美元/盎司，日內跌2.50%。"
-    },
-    {
-      "id": "4992466",
-      "time": "2026-07-16 20:59:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美國上週首次申請失業救濟人數低於預期 表明勞動力市場穩定】上週美國失業救濟申請人數下降，表明勞動力市場保持穩定。根據美國勞工部週四公佈的資料，截至7月11日當週，首次申領失業救濟人數減少8000人，降至20.8萬人。接受調查的經濟學家的預測中值為21.7萬人。之前一週的持續申領失業救濟人數降至181萬人，也低於預期。在5月份和6月初激增後，首次申領人數已回落至歷史低位。與此同時，失業率上月下降，進一步表明僱主正在儘量留住員工。首次申請失業救濟人數的四周移動均值上週降至214,250人。未經季節性因素調整的基礎上，首次申請人數升至244,826人，加利福尼亞州和密蘇里州增幅居首。"
-    },
-    {
-      "id": "4992465",
-      "time": "2026-07-16 20:58:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【今日多隻寬基ETF尾盤放量】7月16日，臨近尾盤，滬深300ETF華泰柏瑞、中證1000ETF南方、中證500ETF南方等多隻寬基ETF出現明顯買盤，滬深300ETF華泰柏瑞、中證1000ETF南方等今日成交額較昨日顯著放量，分別由昨日的34.98億元、36.69億元增至79.09億元、56.45億元。半導體、晶片等主題ETF今天普跌超5%，7月以來累計跌幅在20%以上；港股網際網路板塊繼續回暖，7月以來，多隻港股網際網路主題ETF累計漲超17%。（中證報）"
-    },
-    {
-      "id": "4992464",
-      "time": "2026-07-16 20:58:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：小鵬汽車通用智慧中心負責人劉先明表示，智慧化始終是小鵬最核心的能力。從智慧駕駛到智慧座艙，未來的汽車將不再只是交通工具，而是具備感知、思考和執行能力的AI汽車。"
-    },
-    {
-      "id": "mkt:019f6b01-c836-7aab-8dc9-68c030fdff9d",
-      "time": "2026-07-16 20:58:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market news: The U.S. Department of Homeland Security issued a final rule establishing fixed-duration U.S. stays for certain international students and foreign journalists."
-    },
-    {
-      "id": "4992463",
-      "time": "2026-07-16 20:58:13",
-      "tags": [
-        "國際"
-      ],
-      "text": "持有F-1簽證人員居留期限上限四年，須向美國國土安全部申請延期；國土安全部最終新規收緊外國留學生在美國居留限制。"
-    },
-    {
-      "id": "4992462",
-      "time": "2026-07-16 20:56:23",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃尼集團執行長：歐盟為摧毀化工行業竭盡所能，正將生產擠出歐洲。"
-    },
-    {
-      "id": "4992461",
-      "time": "2026-07-16 20:55:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "中國地震臺網自動測定：07月16日20時54分在雲南大理州祥雲縣附近（北緯25.68度，東經100.69度）發生3.2級左右地震，最終結果以正式速報為準。"
-    },
-    {
-      "id": "4992460",
-      "time": "2026-07-16 20:55:35",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【Truth Social將向華爾街授權資料服務】據報道，特朗普媒體與科技集團臨時執行長Kevin McGurn表示，公司將推出一套後臺介面，允許金融服務公司付費訪問Truth Social的實時資料。McGurn表示，這是公司首次將媒體業務拓展至資料授權領域。新推出的Truth API將為客戶提供平臺前十大熱門賬號釋出內容的實時訪問許可權。McGurn表示，未來願意支付更高費用的客戶還可獲得更多賬號的資料訪問許可權。這些賬號包括會影響政策制定和地緣政治走向的重要決策者，例如美國總統特朗普、白宮、聯邦調查局局長卡什·帕特爾、白宮副幕僚長丹·斯卡維諾，以及美國衛生與公眾服務部長小羅伯特·F·肯尼迪等。"
-    },
-    {
-      "id": "4992459",
-      "time": "2026-07-16 20:55:22",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "埃尼石油公司執行長表示，其歐洲地區的乙烯和聚乙烯生產業務已停止運營。"
     }
   ]
 }
