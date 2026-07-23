@@ -1,7 +1,108 @@
 {
-  "updated": "2026-07-23 13:22:12",
-  "count": 17563,
+  "updated": "2026-07-23 13:26:21",
+  "count": 17568,
   "items": [
+    {
+      "id": "5003640",
+      "time": "2026-07-23 13:25:19",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "南向資金淨賣出額達20億港元。"
+    },
+    {
+      "id": "mkt:019f8d6e-fa4b-7aab-8e5a-caddd55fe8f3",
+      "time": "2026-07-23 13:24:48",
+      "tags": [
+        "MKT News",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor plans to normalize incentive spending in H2."
+    },
+    {
+      "id": "mkt:019f8d6e-b296-7aab-8e5a-c43e0560bad5",
+      "time": "2026-07-23 13:24:29",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "Europe & UK",
+        "005380.KS",
+        "Impact mixed"
+      ],
+      "text": "Hyundai Motor increased sales incentives in the US and Europe in Q2."
+    },
+    {
+      "id": "5003639",
+      "time": "2026-07-23 13:24:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車：第二季度在美歐市場加大促銷力度。"
+    },
+    {
+      "id": "mkt:019f8d6e-62b6-7aab-8e5a-bb16c1982d27",
+      "time": "2026-07-23 13:24:09",
+      "tags": [
+        "MKT News",
+        "HPCL.NS"
+      ],
+      "text": "A Hindustan Petroleum executive said the company has diversified its liquefied petroleum gas (LPG) procurement."
+    },
+    {
+      "id": "5003638",
+      "time": "2026-07-23 13:24:06",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "印度斯坦石油公司高管：液化石油氣採購已實現多元化。"
+    },
+    {
+      "id": "mkt:019f8d6e-2cdc-7aab-8e5a-b1078774ed39",
+      "time": "2026-07-23 13:23:55",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "Hyundai Motor said the Middle East conflict pushed up raw material prices in the second quarter."
+    },
+    {
+      "id": "te:economy:569116",
+      "time": "2026-07-23 13:23:42",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Singapore",
+        "Inflation Rate",
+        "Importance 1"
+      ],
+      "text": "Singapore Inflation Rate Highest Since 2024 — Singapore’s annual inflation rate edged up to 1.9% in June 2026 from 1.8% in the previous month, slightly below market expectations of 2%. Still, it marked the highest level since September 2024, suggesting that recent increases in global energy prices and transportation costs are beginning to filter through to domestic prices. Price growth accelerated across several key categories, particularly food (2.1% vs 1.8% in May), housing and utilities (0.3% vs 0.2%), and transport (7.5% vs 7.4%). In addition, services inflation ticked higher to 1.5% from 1.4%, driven largely by higher airfares and holiday-related expenses. On a monthly basis, consumer prices stalled in June after rising 0.7% in the previous month. Meanwhile, core inflation, which excludes accommodation and private transport costs, accelerated to 1.6% from 1.4%. The MAS raised its 2026 core inflation forecast to 1.5%-2.5% from 1%-2%, citing risks that persistent price pressures could dampen household spending and demand."
+    },
+    {
+      "id": "mkt:019f8d6c-fb3d-7aab-8e5a-ac41912125f6",
+      "time": "2026-07-23 13:22:37",
+      "tags": [
+        "MKT News",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor says Genesis production disruption was caused by a parts supplier."
+    },
+    {
+      "id": "mkt:019f8d6c-5157-7aab-8e5a-a562316085f7",
+      "time": "2026-07-23 13:21:53",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "Hyundai Motor said inflation, tariffs and geopolitical issues affected global sales in Q2."
+    },
     {
       "id": "5003637",
       "time": "2026-07-23 13:20:39",
@@ -160601,52 +160702,6 @@
         "其他"
       ],
       "text": "烏干達稱最後一名埃博拉患者即將出院。"
-    },
-    {
-      "id": "mkt:019f6962-99e1-7aab-8dba-f71fe49e7291",
-      "time": "2026-07-16 13:24:57",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "ISNA reports Iran says the strait will remain closed until the US accepts Iranian law."
-    },
-    {
-      "id": "4991448",
-      "time": "2026-07-16 13:23:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗稱在美方接受伊朗規定前，霍爾木茲海峽將繼續關閉。"
-    },
-    {
-      "id": "mkt:019f6961-1c1f-7aab-8dba-ede29fb60da5",
-      "time": "2026-07-16 13:23:19",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【Multiple Chinese dividend ETFs complete fundraising, raise over 1 billion yuan】Several Chinese dividend-related ETFs, including dividend low-volatility and dividend-quality ETFs, have completed fundraising, raising a combined total of more than 1 billion yuan."
-    },
-    {
-      "id": "4991447",
-      "time": "2026-07-16 13:23:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗軍方就霍爾木茲海峽局勢發表宣告。"
-    },
-    {
-      "id": "4991446",
-      "time": "2026-07-16 13:22:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "【上交所9只ETF正在發行，6只已完成募集】ETF產品陸續發行建倉。據瞭解，目前上交所有9只ETF正在發行，6只ETF已完成募集，既包括A股ETF等寬基ETF產品，又包括科創人工智慧、工程機械、光伏、食品等行業主題ETF，相關產品陸續發行建倉或將為市場引入增量資金。（第一財經）"
     }
   ]
 }
