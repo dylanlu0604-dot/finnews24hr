@@ -1,7 +1,43 @@
 {
-  "updated": "2026-07-23 09:17:31",
-  "count": 17684,
+  "updated": "2026-07-23 09:21:28",
+  "count": 17673,
   "items": [
+    {
+      "id": "5003331",
+      "time": "2026-07-23 09:20:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "【拾玥科技完成數千萬元天使輪融資】近日，拾玥科技宣佈完成數千萬元天使輪融資。本輪融資由常州智融長優股權投資合夥企業（常友科技旗下基金）獨家投資，資金將主要用於Lumi-Dex靈巧手量產推進、Lumi-Tac視觸覺感測器等技術產品迭代，及核心團隊擴充。"
+    },
+    {
+      "id": "mkt:019f8c8e-ec61-7aab-8e55-f60aa25297c5",
+      "time": "2026-07-23 09:20:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Australia's June seasonally adjusted unemployment rate due in 10 minutes."
+    },
+    {
+      "id": "5003330",
+      "time": "2026-07-23 09:19:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【11.8% 我國企業數字化採購滲透率逐年提高】中國物流與採購聯合會昨天釋出《2026數智化採購發展報告》。根據報告，我國企業的數字化採購滲透率持續提升，為從招標、投標到採購、履約的全週期數字化管理創造條件。據介紹，涵蓋工業、建築業和零售批發業在內，2025年全國企業物資採購總額達196.3萬億元，同比增長4%，市場在高位執行中保持穩健擴張。其中，工業生產採購額達113.3萬億元，同比增長6%。隨著產業升級加速，企業對高品質產品與先進裝置的採購需求，由“量的積累”轉向“質的提升”，推動了採購結構的持續最佳化，尤其是生產性物資的數字化採購水平在進一步提升。"
+    },
+    {
+      "id": "te:markets:569017",
+      "time": "2026-07-23 09:18:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "commodity",
+        "Importance 0"
+      ],
+      "text": "Heating Oil Hits 15-week High — Heating Oil increased to 4.20 USD/Gal, the highest since April 2026. Over the past 4 weeks, Heating Oil gained 32.14%, and in the last 12 months, it increased 73.94%."
+    },
     {
       "id": "5003329",
       "time": "2026-07-23 09:16:40",
@@ -161596,155 +161632,6 @@
         "焦點"
       ],
       "text": "港股恒指高開漲0.58％，國企指數漲0.61％，科指開漲0.15%，生物醫藥板塊多股高開。"
-    },
-    {
-      "id": "mkt:019f6883-a431-7aab-8db3-e1370f83965a",
-      "time": "2026-07-16 09:21:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's first domestically built deep-sea, intelligent cable-laying ship enters service】China's first domestically designed and built deep-sea, intelligent cable-laying vessel \"Tianyi Navigator\" was commissioned in Shanghai on the 15th and has begun full-system subsea cable installation trials. The vessel is intended to underpin computing power and AI development."
-    },
-    {
-      "id": "4991056",
-      "time": "2026-07-16 09:21:18",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "央行今日開展6260億元7天逆回購操作，投標量6260億元，中標量6260億元，操作利率為1.40%，與此前持平。"
-    },
-    {
-      "id": "mkt:019f6883-895d-7aab-8db3-da486ae336dc",
-      "time": "2026-07-16 09:21:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "CNH"
-      ],
-      "text": "PBOC conducted CNY 626 billion of 7-day reverse repos today; bids and allotments both CNY 626 billion. Operation rate 1.40%, unchanged."
-    },
-    {
-      "id": "mkt:019f6883-5f0d-7aab-8db3-d27c2dcc67d4",
-      "time": "2026-07-16 09:21:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Hang Seng Index",
-        "Impact bullish",
-        "06990.HK",
-        "06127.HK"
-      ],
-      "text": "Hong Kong open: Hang Seng Index +0.58%, Hang Seng Tech +0.15%. Biotech names led early gains—06990.HK +4.19%, 06127.HK +1.89% at the open."
-    },
-    {
-      "id": "mkt:019f6883-5514-7aab-8db3-c88bf46f587e",
-      "time": "2026-07-16 09:21:05",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated an automated trading suspension mechanism for the KOSDAQ."
-    },
-    {
-      "id": "4991055",
-      "time": "2026-07-16 09:21:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "【硬蛋創新：戰略升級進軍垂直AI Token工廠賽道及簽訂意向服務訂單逾10億美元】7月16日，硬蛋創新(00400.HK)釋出公告稱，集團已完成戰略升級，由人工智慧硬體分銷商升級為垂直AI Token工廠運營商。集團已累計簽訂意向服務訂單合共逾10億美元(“意向訂單”)，客戶涵蓋全球一線雲服務供應商、具身智慧公司及AI模型公司。"
-    },
-    {
-      "id": "4991054",
-      "time": "2026-07-16 09:20:53",
-      "tags": [
-        "市場",
-        "焦點",
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化賣出。"
-    },
-    {
-      "id": "4991053",
-      "time": "2026-07-16 09:20:42",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國家醫保局：2025年協議期內談判藥品報銷2.48億人次】7月16日，國家醫保局釋出《2025年全國醫療保障事業發展統計公報》。公報顯示，《國家基本醫療保險、工傷保險和生育保險藥品目錄（2025年）》收載西藥和中成藥共3253種，其中西藥1857種，中成藥1396種。2025年新納入藥品114種。自2018年國家醫保局成立以來，每年調整醫保藥品目錄，累計949種藥品新增進入目錄範圍。2025年協議期內談判藥品報銷2.48億人次。2025年增設《商業健康保險創新藥品目錄》，重點納入創新程度高、臨床價值大、患者獲益顯著且超出基本醫保保障範圍的創新藥，首版目錄共納入19種藥品（一種藥因退市調出）。"
-    },
-    {
-      "id": "te:economy:567346",
-      "time": "2026-07-16 09:20:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Australia",
-        "Inflation Expectations",
-        "Importance 2"
-      ],
-      "text": "Australia Inflation Expectations Fall to Six-Month Low — Australia's consumer inflation expectations eased to 4.7% in July 2026, down from 5.5% the previous month, marking the lowest reading since January. The decline came as headline inflation continued to moderate, although it remained above the Reserve Bank of Australia's 2–3% target range. Governor Michele Bullock said the three rate hikes delivered since the start of the year had helped restrain domestic price pressures and limit second-round effects from higher oil and commodity costs. The RBA has reiterated its commitment to bringing inflation back to target, noting that while inflation accelerated in late 2025 due to supply shocks and higher energy prices, recent policy tightening is expected to gradually ease price pressures. Still, underlying inflation remained elevated, with the trimmed mean CPI rising 3.6% year-on-year in May, the fastest pace since September 2024."
-    },
-    {
-      "id": "4991052",
-      "time": "2026-07-16 09:20:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2025年全國醫保系統追回醫保基金342.19億元】7月16日，國家醫保局釋出《2025年全國醫療保障事業發展統計公報》。公報顯示，2025年，全國醫保系統共追回醫保基金342.19億元，其中醫保經辦挽回基金損失金額277.99億元，查實欺詐騙保機構1626家，協議處理定點醫藥機構47.17萬家，聯合公安機關偵辦醫保案件3776起，抓獲犯罪嫌疑人10357人。共釋出7批智慧監管規則，合計1.55萬條知識點，事前提醒1.24億人次，提醒金額181.26億元，事中拒付22.79億。全國共發放舉報獎勵595人，獎勵金額156.58萬元。全面實施定點醫藥機構相關人員醫保支付資格管理制度，全年共計分16.36萬人次，其中暫停2313人次，終止1245人，加快實現“監管到人”。“十四五”期間，全國醫保系統共追回醫保基金1181.98億元，其中醫保經辦挽回基金損失925億元，協議處理定點醫藥機構187.96萬家。醫保智慧監管事前提醒2.49億人次，提醒金額419.38億元，事中拒付82.68億元。至2025年底，全國事前提醒接入率達43.38%。全國共發放舉報獎勵4637人次，獎勵金額859.81萬元。"
-    },
-    {
-      "id": "4991050",
-      "time": "2026-07-16 09:18:29",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4040美元/盎司，日內跌0.51%。"
-    },
-    {
-      "id": "mkt:019f6880-cd28-7aab-8db3-c082a0d95883",
-      "time": "2026-07-16 09:18:19",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "Spot gold slipped below $4,040/oz, down 0.50% on the day."
-    },
-    {
-      "id": "4991049",
-      "time": "2026-07-16 09:18:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌1%，現報57.13美元/盎司。"
-    },
-    {
-      "id": "mkt:019f6880-aced-7aab-8db3-b8a3655e62d6",
-      "time": "2026-07-16 09:18:11",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals"
-      ],
-      "text": "LME tin fell 2.00% intraday to $52,400/tonne."
-    },
-    {
-      "id": "mkt:019f6880-a932-7aab-8db3-b7459fcb747a",
-      "time": "2026-07-16 09:18:10",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals"
-      ],
-      "text": "Spot silver fell more than 1.0% intraday to $57.18/oz."
     }
   ]
 }
