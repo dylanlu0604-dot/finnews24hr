@@ -1,7 +1,176 @@
 {
-  "updated": "2026-07-23 15:57:33",
-  "count": 17554,
+  "updated": "2026-07-23 16:01:39",
+  "count": 17548,
   "items": [
+    {
+      "id": "mkt:019f8dfd-d4e5-7aab-8e5f-2fdcb7e729cd",
+      "time": "2026-07-23 16:00:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio says the United States aims to be the preferred partner for civil nuclear cooperation agreements."
+    },
+    {
+      "id": "5003955",
+      "time": "2026-07-23 16:00:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美股盤前，谷歌A跌約3%，公司Q2自由現金流首次轉負，上調全年資本開支至最高2050億美元。特斯拉跌約5%，公司Q2營收大增26%但盈利降18%遠遜預期，現金流轉負，強調處最大投資階段。"
+    },
+    {
+      "id": "5003954",
+      "time": "2026-07-23 16:00:38",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開展1週期黃金兌換里拉賣方掉期拍賣，拍賣規模為5噸。"
+    },
+    {
+      "id": "5003953",
+      "time": "2026-07-23 16:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "水利部原黨組成員、副部長田學斌嚴重違紀違法被開除黨籍和公職。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8dfd-4cc3-7aab-8e5f-20069d3c978f",
+      "time": "2026-07-23 16:00:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio says he is always seeking opportunities for a nuclear deal."
+    },
+    {
+      "id": "te:markets:569202",
+      "time": "2026-07-23 16:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Gains by 3.74% — Top commodity gainers are Brent Crude Oil (3.74%), Crude Oil WTI (2.85%) and Heating Oil (2.17%)."
+    },
+    {
+      "id": "mkt:019f8dfd-34b8-7aab-8e5f-1ae097509ac4",
+      "time": "2026-07-23 16:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Taiwan June industrial production YoY 22.95%, prior 11.78%."
+    },
+    {
+      "id": "mkt:019f8dfd-185a-7aab-8e5f-106e96328bd8",
+      "time": "2026-07-23 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Industrial Production (YoY) (Jun) | actual 22.95% | previous 11.78%"
+    },
+    {
+      "id": "mkt:019f8dfd-1810-7aab-8e5f-09369f9e52da",
+      "time": "2026-07-23 16:00:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Liu Haixing meets Italian multiparty delegation】On July 23 in Beijing, Liu Haixing, minister of the International Liaison Department of the CPC Central Committee, met a multiparty Italian parliamentary delegation led by the chair of Italy’s \"Friends of China\" parliamentary group, Peruffo, to discuss implementing leaders’ consensus, strengthening interparty exchanges and advancing China‑Italy and China‑EU relations."
+    },
+    {
+      "id": "5003952",
+      "time": "2026-07-23 15:59:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【湖南黃金：獲原則同意發行股份購買資產並募集配套資金】湖南黃金公告，2026年7月23日，公司收到控股股東湖南省礦產資源集團有限責任公司轉發的《湖南省國資委關於湖南黃金股份有限公司發行股份購買資產並募集配套資金暨關聯交易有關事項的批覆》。主要內容為：原則同意公司透過發行股份的方式購買湖南黃金天嶽礦業有限公司100%股權及湖南中南黃金冶煉有限公司100%股權，購買價格不低於經湖南省國資委備案的資產評估值；原則同意公司非公開發行股票募集配套資金不超過10億元。本次交易尚需提交公司股東會審議及相關法律法規所要求的其他可能涉及的批准或核准。"
+    },
+    {
+      "id": "mkt:019f8dfc-d7b1-7aab-8e5f-0625cb201646",
+      "time": "2026-07-23 15:59:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Secretary of State Rubio said Saudi Arabia is an important strategic partner and it is reasonable to reach a nuclear agreement with them. Any civilian nuclear agreement would include safeguards."
+    },
+    {
+      "id": "5003951",
+      "time": "2026-07-23 15:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國國務卿魯比奧：沙特是重要的戰略伙伴，與他們達成核協議是合理的。任何民用核能協議都將包含安全保障措施。始終尋求核交易機會。"
+    },
+    {
+      "id": "5003950",
+      "time": "2026-07-23 15:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉海星會見義大利多黨政治家代表團】7月23日，中共中央對外聯絡部部長劉海星在北京會見由義大利議會“中國之友”協會主席佩魯弗率領的多黨政治家代表團，就共同落實兩國領導人共識、加強黨際交流合作、推動中意中歐關係發展等交換意見。（新華社）"
+    },
+    {
+      "id": "5003949",
+      "time": "2026-07-23 15:59:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富祥股份：董事長提議實施2026年度中期分紅方案 擬10派0.5元】富祥股份(300497)7月23日公告，公司控股股東、實際控制人、董事長兼總經理包建華向公司提議：制定並實施2026年度中期分紅方案，提議以公司未來實施權益分派股權登記日登記的公司股份總數為基數，向全體股東每10股派發現金紅利0.5元（含稅），不送紅股，不以資本公積金轉增股本。"
+    },
+    {
+      "id": "mkt:019f8dfb-e82d-7aab-8e5e-fb014f1c2dfd",
+      "time": "2026-07-23 15:58:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【MOFCOM: China's monthly import growth above 20% for four consecutive months】MOFCOM Director-General Yang Tao said at a State Council Information Office briefing on July 23 that China's goods imports rose 22.1% YoY in 1H, clearly outpacing exports, and monthly import growth has exceeded 20% for four consecutive months."
+    },
+    {
+      "id": "5003948",
+      "time": "2026-07-23 15:58:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：中國進口月度增速連續4個月保持兩成以上 展現擴大開放堅定決心和大國擔當】7月23日，商務部對外貿易司司長楊濤在國新辦新聞釋出會上表示，上半年中國貨物進出口平衡發展呈現新特徵。上半年，22.1%的進口增速，明顯快於出口，並且進口的月度增速連續4個月保持兩成以上，以實際行動展現了中國擴大開放的堅定決心和大國擔當。"
+    },
+    {
+      "id": "mkt:019f8dfa-96de-7aab-8e5e-f3ec86732c63",
+      "time": "2026-07-23 15:57:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said new proposals and ideas are needed to reach an acceptable agreement with Ukraine."
+    },
+    {
+      "id": "5003947",
+      "time": "2026-07-23 15:57:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：需就可接受的對烏協議提出新方案與新思路。"
+    },
     {
       "id": "mkt:019f8df9-fabd-7aab-8e5e-e9574c3a74fc",
       "time": "2026-07-23 15:56:37",
@@ -160449,229 +160618,6 @@
         "WDC.O"
       ],
       "text": "Pre-market U.S. equities: SK Hynix ADR (SKHY.O) down over 6%; SanDisk (SNDK.O) and Western Digital (WDC.O) down over 4%."
-    },
-    {
-      "id": "mkt:019f69f1-f7d5-7aab-8dc1-e66ce610fed2",
-      "time": "2026-07-16 16:01:32",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "EURUSD",
-        "Impact mixed"
-      ],
-      "text": "Italy June HICP final YoY 3.0% (expected 3.1%; prior 3.10%)."
-    },
-    {
-      "id": "mkt:019f69f1-dc06-7aab-8dc1-df309e896e63",
-      "time": "2026-07-16 16:01:25",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Italy | Harmonized CPI Final (YoY) (Jun) | actual 3% | consensus 3.1% | previous 3.10%"
-    },
-    {
-      "id": "4991770",
-      "time": "2026-07-16 16:01:16",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "美國標普500迷你股指期貨下跌0.2%，納斯達克100股指期貨下跌0.5%，道瓊斯股指期貨下跌0.1%。"
-    },
-    {
-      "id": "4991769",
-      "time": "2026-07-16 16:01:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "倫敦金屬交易所(LME)：鎳庫存增加300噸，銅庫存減少1675噸，鋅庫存減少575噸，錫庫存減少140噸，鉛庫存減少2550噸，鋁庫存減少1500噸。"
-    },
-    {
-      "id": "4991768",
-      "time": "2026-07-16 16:01:11",
-      "tags": [
-        "資料"
-      ],
-      "text": "義大利6月CPI同比終值 3%，預期 3%，初值 3%。義大利6月調和CPI環比終值 0%，預期 0.1%，初值 0.1%。"
-    },
-    {
-      "id": "4991767",
-      "time": "2026-07-16 16:01:06",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "美股盤前，儲存晶片概念股普跌，SK海力士跌約5%，閃迪跌約4%，西部資料跌約4%，希捷科技跌約3%。臺積電跌約2%，此前公佈二季度財報。"
-    },
-    {
-      "id": "mkt:019f69f1-8293-7aab-8dc1-d3d76d2a3c30",
-      "time": "2026-07-16 16:01:02",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "London Metal Exchange (LME) inventories: nickel +300 tonnes; copper -1,675 tonnes; zinc -575 tonnes; tin -140 tonnes; lead -2,550 tonnes; aluminium -1,500 tonnes."
-    },
-    {
-      "id": "4991766",
-      "time": "2026-07-16 16:00:52",
-      "tags": [
-        "央行",
-        "市場"
-      ],
-      "text": "土耳其央行透過傳統方式開展1周規模10噸的黃金兌里拉賣方掉期拍賣。"
-    },
-    {
-      "id": "4991765",
-      "time": "2026-07-16 16:00:46",
-      "tags": [
-        "其他"
-      ],
-      "text": "【習近平會見哈薩克總統託卡耶夫】7月16日下午，國家主席習近平在上海西郊賓館會見來華出席2026世界人工智慧大會暨人工智慧全球治理高階別會議的哈薩克總統託卡耶夫。（央視新聞）"
-    },
-    {
-      "id": "4991764",
-      "time": "2026-07-16 16:00:33",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行布里登表示，金融環境已經收緊。"
-    },
-    {
-      "id": "4991763",
-      "time": "2026-07-16 16:00:24",
-      "tags": [
-        "央行",
-        "其他"
-      ],
-      "text": "英國央行布里登：如果沒有戰爭，通脹目標現在將達到2%。"
-    },
-    {
-      "id": "te:markets:567480",
-      "time": "2026-07-16 16:00:14",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Falls by 1.11% — Top commodity losers are Natural gas (-1.11%), Natural Gas UK (-0.68%), Brent Crude Oil (-0.55%) and Crude Oil WTI (-0.11%)."
-    },
-    {
-      "id": "4991762",
-      "time": "2026-07-16 16:00:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "【港交所：港股6月平均日成交3191億港元 同比增38.6%】港交所發文稱，港股6月平均每日成交金額為3,191億港元，同比升38.6%；上半年平均每日成交金額為2,830億港元，同比升17.8%。"
-    },
-    {
-      "id": "mkt:019f69f0-8478-7aab-8dc1-caa392dda92d",
-      "time": "2026-07-16 15:59:57",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "cenc's automatic measurement recorded an approximately magnitude-3.0 earthquake at 15:57 on July 16 near Gong County, Yibin, Sichuan (28.50N, 104.74E). Preliminary automatic reading; final parameters await the formal quick report."
-    },
-    {
-      "id": "4991761",
-      "time": "2026-07-16 15:59:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2030年我國光熱發電規模將達1500萬千瓦】中國電力企業聯合會資料顯示，“十四五”以來，我國光熱發電產業年度複合增長率達11.7%，顯著高於全球4.24%的增速。“十五五”時期，我國光熱發電產業將進一步進入發展快車道，到2030年，我國光熱發電總裝機規模將達到1500萬千瓦左右。（央視新聞）"
-    },
-    {
-      "id": "te:markets:567479",
-      "time": "2026-07-16 15:59:40",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "FTSE MIB Extends Losses — The FTSE MIB fell to around 52,200 on Thursday, extending losses from the previous session, weighed down by declines in utility and tech-related stocks. Oil major Eni fell more than 1% as crude prices eased despite persistent tensions between the US and Iran, while utility stocks such as Snam (-0.8%), Terna (-0.6%), Italgas (-0.6%), and A2A (-0.7%) also traded lower. Meanwhile, semiconductor firm STMicroelectronics shed 2.6%, while Prysmian lost 1.9%, mirroring weakness among Asian technology peers amid renewed concerns over the sustainability of the AI trade. Defense contractor Leonardo and aerospace firm Avio also fell 1.1% and 2.5%, respectively. On the flip side, some financial stocks outperformed, with Mediobanca (+1.4%), Banca Monte dei Paschi di Siena (+0.9%), and UniCredit (+0.5%) posting gains."
-    },
-    {
-      "id": "4991760",
-      "time": "2026-07-16 15:59:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【中國足協推進教練員考培分離改革，社會力量可參與足球教練培訓】足球教練員培訓單一由中國足協及各省區市足協負責的局面將被打破。今後，高校、青訓機構、職業俱樂部等各類社會主體均可參與足球教練員（職業級除外）的培訓。（新華社）"
-    },
-    {
-      "id": "4991759",
-      "time": "2026-07-16 15:58:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "【2026世界人工智慧大會準備就緒 所有展覽明日展出】2026世界人工智慧大會暨人工智慧全球治理高階別會議明天將在上海開幕。目前，大會各項準備和服務保障工作已全部就緒。今年，大會全新升級為“三地四館”辦展模式，彙集1100多家參展企業和300多款全球首發AI產品。今天上午，展覽部分全部搭建完成，下午所有裝置和展品進行最後除錯。明天，所有展覽部分正式展出，參觀者可以順著展廳完整走完AI從底層算力、通用大模型，再到智慧機器人、民用創新產品的全產業鏈。（央視新聞）"
-    },
-    {
-      "id": "4991758",
-      "time": "2026-07-16 15:58:24",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【豐田子公司在日本召回逾1萬輛單座小型EV】豐田汽車子公司豐田車體7月15日向日本國土交通省報備，因駐車制動器（手剎）存在缺陷，對單座小型純電動汽車（EV）“COMS”共11467輛（2012年7月至2025年4月生產）實施召回。制動器失靈等故障報告共有32起。該公司今年1月也曾因駐車制動線缺陷實施召回，部分物件車輛存在重疊。"
-    },
-    {
-      "id": "mkt:019f69ee-fe5a-7aab-8dc1-c3aeb4fdd06e",
-      "time": "2026-07-16 15:58:17",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "TM.N"
-      ],
-      "text": "【Toyota unit recalls 11,467 single-seat COMS micro EVs in Japan over parking-brake defect】Toyota Auto Body notified Japan’s Ministry of Land, Infrastructure, Transport and Tourism it is recalling 11,467 single-seat pure-electric COMS vehicles produced July 2012–April 2025 due to a parking-brake defect. The firm reported 32 incidents, including brake failure. Toyota Auto Body implemented a January recall for a parking-brake cable defect that overlaps with some of the affected vehicles."
-    },
-    {
-      "id": "te:markets:567478",
-      "time": "2026-07-16 15:58:10",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "France",
-        "Stock Market",
-        "Importance 0"
-      ],
-      "text": "French Stocks Track European Peers Lower — The CAC 40 fell 0.6% to 8,329 on Thursday, reversing gains from the previous session and mirroring European peers lower as investors assessed corporate earnings and ongoing tensions in the Middle East. TotalEnergies dropped 1.6% as the company warned that LNG earnings would decline sharply due to softer European demand. However, the company expects higher Q2 profit, supported by a surge in energy prices linked to the Middle East conflict. STMicroelectronics also slipped 1.2%, tracking weakness across the technology sector as investors continued to question whether earnings growth can justify stretched AI-driven valuations. Meanwhile, sentiment remained fragile as the US continued strikes on Iran for a fifth consecutive day, with Iran retaliating by targeting US bases in Kuwait and Jordan. The latest escalation revived concerns over inflation and interest rates, with markets fully pricing in an ECB rate hike in September and another increase expected by spring 2027."
-    },
-    {
-      "id": "4991757",
-      "time": "2026-07-16 15:58:05",
-      "tags": [
-        "公司"
-      ],
-      "text": "【吉利銀河全球首款“雷霆16合1智慧電驅”釋出】7月16日，吉利汽車集團正式釋出吉利銀河全球首款“雷霆16合1智慧電驅”，依託星驅科技技術積澱，在節能、運動效能和安全可靠等代際領先，並首搭吉利銀河TT，創下“駕駛量產純電轎車環青海湖能耗最低記錄”和“溼滑路面最長連續雙車漂移(電動汽車)”兩項吉尼斯世界紀錄。"
-    },
-    {
-      "id": "4991756",
-      "time": "2026-07-16 15:57:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【千問首款AI智慧體耳機將在WAIC亮相】2026世界人工智慧大會（WAIC）期間，阿里巴巴旗下個人AI助手千問首款AI智慧體耳機將亮相。此前，千問曾宣佈年內將推出多款不同形態的AI硬體產品，AI耳機正是其中之一。接近千問AI硬體業務的人士表示，更多產品資訊將在WAIC期間正式釋出。 (財聯社)"
-    },
-    {
-      "id": "4991755",
-      "time": "2026-07-16 15:57:33",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "歐洲斯托克600指數跌幅擴大至0.5%。"
     }
   ]
 }

@@ -1,7 +1,176 @@
 {
   "date": "2026-07-23",
-  "count": 1756,
+  "count": 1774,
   "items": [
+    {
+      "id": "mkt:019f8dfd-d4e5-7aab-8e5f-2fdcb7e729cd",
+      "time": "2026-07-23 16:00:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio says the United States aims to be the preferred partner for civil nuclear cooperation agreements."
+    },
+    {
+      "id": "5003955",
+      "time": "2026-07-23 16:00:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美股盤前，谷歌A跌約3%，公司Q2自由現金流首次轉負，上調全年資本開支至最高2050億美元。特斯拉跌約5%，公司Q2營收大增26%但盈利降18%遠遜預期，現金流轉負，強調處最大投資階段。"
+    },
+    {
+      "id": "5003954",
+      "time": "2026-07-23 16:00:38",
+      "tags": [
+        "央行",
+        "市場"
+      ],
+      "text": "土耳其央行透過傳統方式開展1週期黃金兌換里拉賣方掉期拍賣，拍賣規模為5噸。"
+    },
+    {
+      "id": "5003953",
+      "time": "2026-07-23 16:00:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "水利部原黨組成員、副部長田學斌嚴重違紀違法被開除黨籍和公職。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8dfd-4cc3-7aab-8e5f-20069d3c978f",
+      "time": "2026-07-23 16:00:15",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bearish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "US Secretary of State Rubio says he is always seeking opportunities for a nuclear deal."
+    },
+    {
+      "id": "te:markets:569202",
+      "time": "2026-07-23 16:00:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Gains by 3.74% — Top commodity gainers are Brent Crude Oil (3.74%), Crude Oil WTI (2.85%) and Heating Oil (2.17%)."
+    },
+    {
+      "id": "mkt:019f8dfd-34b8-7aab-8e5f-1ae097509ac4",
+      "time": "2026-07-23 16:00:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish"
+      ],
+      "text": "Taiwan June industrial production YoY 22.95%, prior 11.78%."
+    },
+    {
+      "id": "mkt:019f8dfd-185a-7aab-8e5f-106e96328bd8",
+      "time": "2026-07-23 16:00:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Taiwan | Industrial Production (YoY) (Jun) | actual 22.95% | previous 11.78%"
+    },
+    {
+      "id": "mkt:019f8dfd-1810-7aab-8e5f-09369f9e52da",
+      "time": "2026-07-23 16:00:01",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "【Liu Haixing meets Italian multiparty delegation】On July 23 in Beijing, Liu Haixing, minister of the International Liaison Department of the CPC Central Committee, met a multiparty Italian parliamentary delegation led by the chair of Italy’s \"Friends of China\" parliamentary group, Peruffo, to discuss implementing leaders’ consensus, strengthening interparty exchanges and advancing China‑Italy and China‑EU relations."
+    },
+    {
+      "id": "5003952",
+      "time": "2026-07-23 15:59:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【湖南黃金：獲原則同意發行股份購買資產並募集配套資金】湖南黃金公告，2026年7月23日，公司收到控股股東湖南省礦產資源集團有限責任公司轉發的《湖南省國資委關於湖南黃金股份有限公司發行股份購買資產並募集配套資金暨關聯交易有關事項的批覆》。主要內容為：原則同意公司透過發行股份的方式購買湖南黃金天嶽礦業有限公司100%股權及湖南中南黃金冶煉有限公司100%股權，購買價格不低於經湖南省國資委備案的資產評估值；原則同意公司非公開發行股票募集配套資金不超過10億元。本次交易尚需提交公司股東會審議及相關法律法規所要求的其他可能涉及的批准或核准。"
+    },
+    {
+      "id": "mkt:019f8dfc-d7b1-7aab-8e5f-0625cb201646",
+      "time": "2026-07-23 15:59:45",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "US Secretary of State Rubio said Saudi Arabia is an important strategic partner and it is reasonable to reach a nuclear agreement with them. Any civilian nuclear agreement would include safeguards."
+    },
+    {
+      "id": "5003951",
+      "time": "2026-07-23 15:59:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "美國國務卿魯比奧：沙特是重要的戰略伙伴，與他們達成核協議是合理的。任何民用核能協議都將包含安全保障措施。始終尋求核交易機會。"
+    },
+    {
+      "id": "5003950",
+      "time": "2026-07-23 15:59:34",
+      "tags": [
+        "其他"
+      ],
+      "text": "【劉海星會見義大利多黨政治家代表團】7月23日，中共中央對外聯絡部部長劉海星在北京會見由義大利議會“中國之友”協會主席佩魯弗率領的多黨政治家代表團，就共同落實兩國領導人共識、加強黨際交流合作、推動中意中歐關係發展等交換意見。（新華社）"
+    },
+    {
+      "id": "5003949",
+      "time": "2026-07-23 15:59:00",
+      "tags": [
+        "公司"
+      ],
+      "text": "【富祥股份：董事長提議實施2026年度中期分紅方案 擬10派0.5元】富祥股份(300497)7月23日公告，公司控股股東、實際控制人、董事長兼總經理包建華向公司提議：制定並實施2026年度中期分紅方案，提議以公司未來實施權益分派股權登記日登記的公司股份總數為基數，向全體股東每10股派發現金紅利0.5元（含稅），不送紅股，不以資本公積金轉增股本。"
+    },
+    {
+      "id": "mkt:019f8dfb-e82d-7aab-8e5e-fb014f1c2dfd",
+      "time": "2026-07-23 15:58:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "Copper",
+        "Impact bullish",
+        "Brent",
+        "WTI"
+      ],
+      "text": "【MOFCOM: China's monthly import growth above 20% for four consecutive months】MOFCOM Director-General Yang Tao said at a State Council Information Office briefing on July 23 that China's goods imports rose 22.1% YoY in 1H, clearly outpacing exports, and monthly import growth has exceeded 20% for four consecutive months."
+    },
+    {
+      "id": "5003948",
+      "time": "2026-07-23 15:58:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：中國進口月度增速連續4個月保持兩成以上 展現擴大開放堅定決心和大國擔當】7月23日，商務部對外貿易司司長楊濤在國新辦新聞釋出會上表示，上半年中國貨物進出口平衡發展呈現新特徵。上半年，22.1%的進口增速，明顯快於出口，並且進口的月度增速連續4個月保持兩成以上，以實際行動展現了中國擴大開放的堅定決心和大國擔當。"
+    },
+    {
+      "id": "mkt:019f8dfa-96de-7aab-8e5e-f3ec86732c63",
+      "time": "2026-07-23 15:57:17",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said new proposals and ideas are needed to reach an acceptable agreement with Ukraine."
+    },
+    {
+      "id": "5003947",
+      "time": "2026-07-23 15:57:09",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：需就可接受的對烏協議提出新方案與新思路。"
+    },
     {
       "id": "mkt:019f8df9-fabd-7aab-8e5e-e9574c3a74fc",
       "time": "2026-07-23 15:56:37",
