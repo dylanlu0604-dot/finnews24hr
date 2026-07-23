@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-23 20:26:10",
-  "count": 17884,
+  "updated": "2026-07-23 20:30:21",
+  "count": 17865,
   "items": [
+    {
+      "id": "mkt:019f8ef3-a25b-7aab-8e68-6bb6fa4bf579",
+      "time": "2026-07-23 20:29:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【ECB holds rates steady, leaves room for September hike】The ECB kept policy rates unchanged on Thursday but signalled scope for a September rate rise as rising energy costs risk keeping inflation above its 2% target. The bank, which tightened in June, said recent data on prices, wages, activity and inflation expectations have been broadly stable, reducing near-term urgency for more tightening. Renewed U.S.-Iran tensions have pushed crude toward $100/bbl and European gas to their highest levels in over three years, intensifying price pressure. Market participants expect the ECB may act at its next meeting to prevent an energy-driven broader inflation pass-through. The ECB said uncertainty remains high, the full inflationary impact of the energy shock has yet to materialize, and it is closely monitoring the shock’s strength, persistence and indirect and second-round effects."
+    },
+    {
+      "id": "5004781",
+      "time": "2026-07-23 20:28:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英可瑞：特定股東合睿新盛實際減持89.52萬股，佔總股本0.5636%】英可瑞公告，特定股東深圳合睿新盛資訊科技合夥企業（有限合夥）此前披露減持計劃，擬在2026年4月24日至2026年7月23日期間以集中競價方式減持不超過131.81萬股（佔公司總股本比例0.8305%）。截至2026年7月23日，該減持計劃期限屆滿，合睿新盛在2026年5月7日至5月20日期間，透過集中競價交易實際累計減持公司股份89.52萬股，佔公司總股本比例為0.5636%，減持均價為18.53元/股。本次減持後，合睿新盛持有公司股份437.74萬股，佔公司總股本比例為2.76%。"
+    },
+    {
+      "id": "mkt:019f8ef3-16af-7aab-8e68-63cd64b1e17e",
+      "time": "2026-07-23 20:28:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "UK government bonds extended losses; 10-year Gilt yield rose 6bps to 5.09%."
+    },
+    {
+      "id": "5004780",
+      "time": "2026-07-23 20:28:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債跌幅擴大；英國10年期國債收益率上漲6個基點至5.09%。"
+    },
+    {
+      "id": "5004779",
+      "time": "2026-07-23 20:28:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源執行長：我們確實偶爾能從俄羅斯亞馬爾液化天然氣專案獲得現金，但這筆收入並不穩定，我們並未將其納入預期。"
+    },
+    {
+      "id": "5004778",
+      "time": "2026-07-23 20:27:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "克利夫蘭-克里夫斯公司股價漲幅進一步擴大，盤前交易時段最新上漲14.3%。"
+    },
+    {
+      "id": "5004777",
+      "time": "2026-07-23 20:27:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【晶晨股份：預計2026年上半年淨利潤6.08億元，同比增長22.44%】晶晨股份公告，預計2026年半年度實現營業收入43.91億元左右，同比增長31.85%左右；歸屬於母公司所有者的淨利潤6.08億元左右，同比增長22.44%左右；歸屬於母公司所有者的扣除非經常性損益的淨利潤5.6億元左右，同比增長22.54%左右。其中第二季度預計實現營業收入24.96億元左右，同比增長38.59%左右，環比增長31.66%左右；歸母淨利潤4.35億元左右，同比增長40.98%左右，環比增長151.02%左右，創單季度營收及歸母淨利潤歷史新高。業績增長主要因主力產品持續放量、高階電視SoC產品匯入加速及產品售價調整實現量價齊增。2025年半年度營業收入33.3億元，歸母淨利潤4.97億元。"
+    },
+    {
+      "id": "te:economy:569286",
+      "time": "2026-07-23 20:27:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "10-Year Bund Yield Holds at 5-Year High — The yield on the German 10-year Bund rose to 3.20% on Thursday, the highest in over five years, after the European Central Bank signaled that it remained alert against mounting pro-inflationary risks. The ECB held its key rates unchanged, as largely expected, and reiterated that soaring energy prices due to the war in the Middle East are yet to be fully transmitted to consumer prices in the Eurozone. Higher inflation had already made the ECB deliver a rate hike in June. Further, natural gas benchmarks surged back to three-year highs after blockades against tankers leaving the Red Sea and Persian Gulf threatened global LNG supply, worsening the inflationary outlook. Money markets continue to price in at least two additional rate hikes by the end of the year, with September seen as the most likely timing for the next move. Deficit spending in Germany, France, and Italy also raised yields across the curve, with higher Bund supply maintaining country spreads relatively stable."
+    },
+    {
+      "id": "5004776",
+      "time": "2026-07-23 20:26:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【酒鬼酒：2025年利潤分配方案將實施 每10股派3元】酒鬼酒公告稱，2025年利潤分配方案已獲2026年6月26日股東會審議透過，將以現有324,928,980股為基數，每10股派發現金紅利3元（含稅），共分配利潤9747.87萬元，不送紅股、不轉增股本。股權登記日為2026年7月30日，除權除息日為7月31日。中皇有限公司現金紅利由公司自行派發，其餘委託中國結算深圳分公司代派。"
+    },
+    {
+      "id": "5004775",
+      "time": "2026-07-23 20:26:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科威特稱邊境一口岸遭無人機襲擊】當地時間23日，科威特軍方釋出訊息稱，當天科北部與伊拉克接壤的阿卜杜利口岸遭遇無人機襲擊，造成現場設施損毀，事件未報告人員傷亡。（央視）"
+    },
+    {
+      "id": "5004774",
+      "time": "2026-07-23 20:26:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普23日稱，若葉門胡塞武裝再次襲擊沙烏地阿拉伯船隻，美國將追究伊朗責任，並對伊朗及胡塞武裝施以“重大軍事懲罰”。（新華社）"
+    },
+    {
+      "id": "5004773",
+      "time": "2026-07-23 20:26:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲知聲：擬以不超過1億港元回購H股】雲知聲公告，公司董事會決議批准一項計劃，自本公告日期起6個月內於公開市場回購總值不超過1億港元的H股，惟須受限於股東會授予的回購授權。回購股份將用於登出並相應減少註冊資本，或持作庫存股份。公司計劃以自有資金及自籌資金進行本次回購，董事會認為現有財務資源足以支援回購。"
+    },
     {
       "id": "5004772",
       "time": "2026-07-23 20:24:58",
@@ -163426,333 +163543,6 @@
         "Impact bearish"
       ],
       "text": "US July Philadelphia Fed manufacturing index at 41.4, highest since Nov 2021."
-    },
-    {
-      "id": "mkt:019f6ae8-0bd6-7aab-8dc8-3726086fd152",
-      "time": "2026-07-16 20:30:18",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "U.S. Philadelphia Fed manufacturing prices paid index for July 53.9, prior 53.2."
-    },
-    {
-      "id": "mkt:019f6ae8-0bc7-7aab-8dc8-2d03e5b78eaa",
-      "time": "2026-07-16 20:30:18",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US Philadelphia Fed manufacturing index 41.4 in July; consensus 13; prior 10.3."
-    },
-    {
-      "id": "4992397",
-      "time": "2026-07-16 20:30:14",
-      "tags": [
-        "資料",
-        "國際"
-      ],
-      "text": "美國6月零售銷售月率 0.2%，預期0.2%，前值由0.90%修正為1%。"
-    },
-    {
-      "id": "mkt:019f6ae8-03f7-7aab-8dc8-22de46df8eaa",
-      "time": "2026-07-16 20:30:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US Philadelphia Fed manufacturing new-orders index for July 37, prior 27.3."
-    },
-    {
-      "id": "mkt:019f6ae7-f39b-7aab-8dc8-1eea0a7314a5",
-      "time": "2026-07-16 20:30:13",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "U.S. continuing jobless claims for the week ending July 4: 1.805 mln vs 1.815 mln expected; prior week revised up to 1.821 mln from 1.814 mln."
-    },
-    {
-      "id": "mkt:019f6ae7-e779-7aab-8dc8-166cf7c244c4",
-      "time": "2026-07-16 20:30:10",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "US10Y",
-        "Impact bearish"
-      ],
-      "text": "US initial jobless claims four-week moving average for week ending July 11: 214,250; prior value revised from 218,750 to 219,000."
-    },
-    {
-      "id": "4992396",
-      "time": "2026-07-16 20:30:09",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "美國至7月11日當週初請失業金人數 20.8萬人，預期21.7萬人，前值由21.5萬人修正為21.6萬人。美國至7月11日當週初請失業金人數 20.8萬人，預期21.7萬人，前值由21.5萬人修正為21.6萬人。"
-    },
-    {
-      "id": "mkt:019f6ae7-e38d-7aab-8dc8-0c193192b569",
-      "time": "2026-07-16 20:30:09",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Core Retail Sales (MoM) (Jun) | actual -0.2% | consensus -0.10% | previous 0.80%"
-    },
-    {
-      "id": "mkt:019f6ae7-e070-7aab-8dc8-03e9525d204c",
-      "time": "2026-07-16 20:30:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "USDJPY",
-        "EURUSD",
-        "Impact bearish"
-      ],
-      "text": "US initial jobless claims for week to July 11: 208,000 vs 217,000 expected; prior revised from 215,000 to 216,000."
-    },
-    {
-      "id": "mkt:019f6ae7-e06f-7aab-8dc7-f9999f586aed",
-      "time": "2026-07-16 20:30:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US retail sales MoM +0.2% in June, matching +0.2% consensus; May revised up to +1.0% from +0.9%."
-    },
-    {
-      "id": "mkt:019f6ae7-d133-7aab-8dc7-f4b628cb5af2",
-      "time": "2026-07-16 20:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Philadelphia Fed Employment Index (Jul) | actual 10 | previous 7.9"
-    },
-    {
-      "id": "mkt:019f6ae7-d131-7aab-8dc7-e88c94d08ba6",
-      "time": "2026-07-16 20:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Philadelphia Fed New Orders Index (Jul) | actual 37 | previous 27.3"
-    },
-    {
-      "id": "mkt:019f6ae7-d12f-7aab-8dc7-e4b8c9ee76bf",
-      "time": "2026-07-16 20:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Philadelphia Fed Prices Paid Index (Jul) | actual 53.9 | previous 53.2"
-    },
-    {
-      "id": "mkt:019f6ae7-d003-7aab-8dc7-dc35477e299c",
-      "time": "2026-07-16 20:30:04",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Philadelphia Fed Manufacturing Index (Jul) | actual 41.4 | consensus 13 | previous 10.3"
-    },
-    {
-      "id": "mkt:019f6ae7-c5d1-7aab-8dc7-d51744a11380",
-      "time": "2026-07-16 20:30:02",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Continued Jobless Claims (Jul.4) | actual 1805000K | consensus 1815000K | previous 1814000K"
-    },
-    {
-      "id": "mkt:019f6ae7-c507-7aab-8dc7-cbeb42cced2a",
-      "time": "2026-07-16 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Retail Sales (MoM) (Jun) | actual 0.2% | consensus 0.2% | previous 0.90%"
-    },
-    {
-      "id": "mkt:019f6ae7-c4b4-7aab-8dc7-c7b087700583",
-      "time": "2026-07-16 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims 4-Week Average (Jul.11) | actual 214250K | previous 218750K"
-    },
-    {
-      "id": "mkt:019f6ae7-c34f-7aab-8dc7-bb126e81bbeb",
-      "time": "2026-07-16 20:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Initial Jobless Claims (Jul.11) | actual 208000K | consensus 217000K | previous 215000K"
-    },
-    {
-      "id": "4992395",
-      "time": "2026-07-16 20:29:14",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首華燃氣：多名董高擬於8-11月減持不超19.2萬股】首華燃氣公告稱，董事兼高管王志紅、高尚芳，董事羅傳容，高管張騫、李春南因自身資金需求，計劃於2026年8月10日至11月9日，以集中競價方式分別減持不超35,250股、72,000股、26,250股、26,250股、32,250股，分別佔總股本的0.009%、0.019%、0.007%、0.007%、0.008%。減持股份均為股權激勵授予且已歸屬股份。本次減持不會導致公司控制權變更。"
-    },
-    {
-      "id": "4992394",
-      "time": "2026-07-16 20:29:04",
-      "tags": [
-        "公司",
-        "市場",
-        "觀點"
-      ],
-      "text": "【摩根士丹利預計DRAM合約價增速預計在2026年四季度見頂】摩根士丹利預計DRAM合約價增速預計在2026年四季度見頂，隨後同比增速可能出現大幅下降，也就是再像之前那樣出現一年漲四倍的情況很難了，而儲存公司的估值（未來12個月預期市淨率）有待重估。"
-    },
-    {
-      "id": "4992393",
-      "time": "2026-07-16 20:28:39",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智微智慧將同步上市基於NVIDIA Jetson T3000 /T2000模組的產品矩陣】7月16日，NVIDIA釋出基於Blackwell架構的新一代Jetson T2000與T3000模組，旨在為下一代機器人及具身智慧系統提供強大、緊湊且高效的AI算力基座。作為NVIDIA優先順序合作伙伴，智微智慧將全面支援NVIDIA Jetson T3000 和T2000模組的應用開發，並計劃於2027年第一季度與NVIDIA同步上市相應產品和解決方案。"
-    },
-    {
-      "id": "mkt:019f6ae6-4238-7aab-8dc7-b74ece55bd69",
-      "time": "2026-07-16 20:28:22",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "China EV Leaders",
-        "09868.HK",
-        "Impact bullish"
-      ],
-      "text": "XPeng Inc. (09868.HK) said it will start mass production of its first flying car this year; the vehicle has received more than 7,000 orders."
-    },
-    {
-      "id": "4992392",
-      "time": "2026-07-16 20:28:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【Sharon AI簽署13.2億美元AI雲端計算合同，總簽約GPU部署規模升至6.2萬塊】澳大利亞AI雲服務商SharonAI Holdings當地時間7月16日宣佈，與一家全球人工智慧實驗室簽署一份為期五年、總價值13.2億美元的雲端計算服務協議。根據協議，公司將在紐西蘭資料中心部署雲端計算解決方案，相關收入預計自2027年第一季度至第二季度開始確認。Sharon AI表示，目前公司AI Factory總容量為132兆瓦，其中116兆瓦已簽約給終端客戶，預計到2027年年中部署超過6.2萬塊英偉達GPU。"
-    },
-    {
-      "id": "4992391",
-      "time": "2026-07-16 20:27:41",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：飛行汽車已收穫超過7000個訂單，並將在今年實現首款產品量產，推動低空出行從概念走向現實。"
-    },
-    {
-      "id": "4992390",
-      "time": "2026-07-16 20:27:13",
-      "tags": [
-        "其他"
-      ],
-      "text": "小鵬汽車：小鵬全球累計銷量突破120萬臺。"
-    },
-    {
-      "id": "4992389",
-      "time": "2026-07-16 20:27:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油突破86美元/桶，日內漲1.25%。"
-    },
-    {
-      "id": "4992388",
-      "time": "2026-07-16 20:27:02",
-      "tags": [
-        "國際"
-      ],
-      "text": "【北部灣港首次開通至約旦亞喀巴港滾裝航線 單航次發運量創歷史新高】7月16日5時，廣西北部灣港首次開通至約旦亞喀巴港滾裝航線，2600多輛中國國產汽車統一發運。據瞭解，此次發運進一步織密廣西北部灣港通往中東地區的海上物流通道，發運量創下北部灣港滾裝航線單航次歷史新高。（央視新聞）"
-    },
-    {
-      "id": "4992387",
-      "time": "2026-07-16 20:26:50",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【奇安信與哈薩克人工智慧和數字發展部簽署合作備忘錄】7月16日，哈薩克-中國高科技企業圓桌會議在上海舉行，哈薩克總統託卡耶夫出席了此次圓桌會議。奇安信集團董事長齊向東作為中方高科技企業代表受邀出席會議，並與哈薩克共和國副總理兼人工智慧和數字發展部部長馬季耶夫共同簽署《奇安信集團與哈薩克共和國人工智慧和數字發展部關於網路安全與網路空間合作諒解備忘錄》。雙方將圍繞網路安全風險資訊共享、網路安全事件聯合響應、人工智慧安全實驗室建設等領域開展深度合作。"
-    },
-    {
-      "id": "4992386",
-      "time": "2026-07-16 20:26:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "英國首相斯塔默：我擔任首相期間曾四次到訪烏克蘭。英國對烏克蘭的支援永遠不會動搖。"
-    },
-    {
-      "id": "mkt:019f6ae4-b16e-7aab-8dc7-aa6085f70526",
-      "time": "2026-07-16 20:26:40",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish"
-      ],
-      "text": "WTI crude reached $80.00 per barrel, up 0.35% intraday."
-    },
-    {
-      "id": "4992385",
-      "time": "2026-07-16 20:26:27",
-      "tags": [
-        "公司"
-      ],
-      "text": "通用電氣航空執行長：我們不存在需求問題。"
     }
   ]
 }

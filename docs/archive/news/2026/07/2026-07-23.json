@@ -1,7 +1,124 @@
 {
   "date": "2026-07-23",
-  "count": 2927,
+  "count": 2939,
   "items": [
+    {
+      "id": "mkt:019f8ef3-a25b-7aab-8e68-6bb6fa4bf579",
+      "time": "2026-07-23 20:29:19",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "WTI"
+      ],
+      "text": "【ECB holds rates steady, leaves room for September hike】The ECB kept policy rates unchanged on Thursday but signalled scope for a September rate rise as rising energy costs risk keeping inflation above its 2% target. The bank, which tightened in June, said recent data on prices, wages, activity and inflation expectations have been broadly stable, reducing near-term urgency for more tightening. Renewed U.S.-Iran tensions have pushed crude toward $100/bbl and European gas to their highest levels in over three years, intensifying price pressure. Market participants expect the ECB may act at its next meeting to prevent an energy-driven broader inflation pass-through. The ECB said uncertainty remains high, the full inflationary impact of the energy shock has yet to materialize, and it is closely monitoring the shock’s strength, persistence and indirect and second-round effects."
+    },
+    {
+      "id": "5004781",
+      "time": "2026-07-23 20:28:54",
+      "tags": [
+        "公司"
+      ],
+      "text": "【英可瑞：特定股東合睿新盛實際減持89.52萬股，佔總股本0.5636%】英可瑞公告，特定股東深圳合睿新盛資訊科技合夥企業（有限合夥）此前披露減持計劃，擬在2026年4月24日至2026年7月23日期間以集中競價方式減持不超過131.81萬股（佔公司總股本比例0.8305%）。截至2026年7月23日，該減持計劃期限屆滿，合睿新盛在2026年5月7日至5月20日期間，透過集中競價交易實際累計減持公司股份89.52萬股，佔公司總股本比例為0.5636%，減持均價為18.53元/股。本次減持後，合睿新盛持有公司股份437.74萬股，佔公司總股本比例為2.76%。"
+    },
+    {
+      "id": "mkt:019f8ef3-16af-7aab-8e68-63cd64b1e17e",
+      "time": "2026-07-23 20:28:43",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Treasury Yields",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "Impact bearish",
+        "DXY"
+      ],
+      "text": "UK government bonds extended losses; 10-year Gilt yield rose 6bps to 5.09%."
+    },
+    {
+      "id": "5004780",
+      "time": "2026-07-23 20:28:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國國債跌幅擴大；英國10年期國債收益率上漲6個基點至5.09%。"
+    },
+    {
+      "id": "5004779",
+      "time": "2026-07-23 20:28:10",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "道達爾能源執行長：我們確實偶爾能從俄羅斯亞馬爾液化天然氣專案獲得現金，但這筆收入並不穩定，我們並未將其納入預期。"
+    },
+    {
+      "id": "5004778",
+      "time": "2026-07-23 20:27:33",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "克利夫蘭-克里夫斯公司股價漲幅進一步擴大，盤前交易時段最新上漲14.3%。"
+    },
+    {
+      "id": "5004777",
+      "time": "2026-07-23 20:27:22",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【晶晨股份：預計2026年上半年淨利潤6.08億元，同比增長22.44%】晶晨股份公告，預計2026年半年度實現營業收入43.91億元左右，同比增長31.85%左右；歸屬於母公司所有者的淨利潤6.08億元左右，同比增長22.44%左右；歸屬於母公司所有者的扣除非經常性損益的淨利潤5.6億元左右，同比增長22.54%左右。其中第二季度預計實現營業收入24.96億元左右，同比增長38.59%左右，環比增長31.66%左右；歸母淨利潤4.35億元左右，同比增長40.98%左右，環比增長151.02%左右，創單季度營收及歸母淨利潤歷史新高。業績增長主要因主力產品持續放量、高階電視SoC產品匯入加速及產品售價調整實現量價齊增。2025年半年度營業收入33.3億元，歸母淨利潤4.97億元。"
+    },
+    {
+      "id": "te:economy:569286",
+      "time": "2026-07-23 20:27:06",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Germany",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "10-Year Bund Yield Holds at 5-Year High — The yield on the German 10-year Bund rose to 3.20% on Thursday, the highest in over five years, after the European Central Bank signaled that it remained alert against mounting pro-inflationary risks. The ECB held its key rates unchanged, as largely expected, and reiterated that soaring energy prices due to the war in the Middle East are yet to be fully transmitted to consumer prices in the Eurozone. Higher inflation had already made the ECB deliver a rate hike in June. Further, natural gas benchmarks surged back to three-year highs after blockades against tankers leaving the Red Sea and Persian Gulf threatened global LNG supply, worsening the inflationary outlook. Money markets continue to price in at least two additional rate hikes by the end of the year, with September seen as the most likely timing for the next move. Deficit spending in Germany, France, and Italy also raised yields across the curve, with higher Bund supply maintaining country spreads relatively stable."
+    },
+    {
+      "id": "5004776",
+      "time": "2026-07-23 20:26:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【酒鬼酒：2025年利潤分配方案將實施 每10股派3元】酒鬼酒公告稱，2025年利潤分配方案已獲2026年6月26日股東會審議透過，將以現有324,928,980股為基數，每10股派發現金紅利3元（含稅），共分配利潤9747.87萬元，不送紅股、不轉增股本。股權登記日為2026年7月30日，除權除息日為7月31日。中皇有限公司現金紅利由公司自行派發，其餘委託中國結算深圳分公司代派。"
+    },
+    {
+      "id": "5004775",
+      "time": "2026-07-23 20:26:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【科威特稱邊境一口岸遭無人機襲擊】當地時間23日，科威特軍方釋出訊息稱，當天科北部與伊拉克接壤的阿卜杜利口岸遭遇無人機襲擊，造成現場設施損毀，事件未報告人員傷亡。（央視）"
+    },
+    {
+      "id": "5004774",
+      "time": "2026-07-23 20:26:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國總統特朗普23日稱，若葉門胡塞武裝再次襲擊沙烏地阿拉伯船隻，美國將追究伊朗責任，並對伊朗及胡塞武裝施以“重大軍事懲罰”。（新華社）"
+    },
+    {
+      "id": "5004773",
+      "time": "2026-07-23 20:26:03",
+      "tags": [
+        "公司"
+      ],
+      "text": "【雲知聲：擬以不超過1億港元回購H股】雲知聲公告，公司董事會決議批准一項計劃，自本公告日期起6個月內於公開市場回購總值不超過1億港元的H股，惟須受限於股東會授予的回購授權。回購股份將用於登出並相應減少註冊資本，或持作庫存股份。公司計劃以自有資金及自籌資金進行本次回購，董事會認為現有財務資源足以支援回購。"
+    },
     {
       "id": "te:markets:569285",
       "time": "2026-07-23 20:24:58",
