@@ -1,13 +1,13 @@
 {
-  "updated": "2026-07-23 11:39:29",
+  "updated": "2026-07-23 12:40:47",
   "timezone": "Asia/Taipei",
   "source": "群益期貨 財經日曆",
   "source_home": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar",
   "important": 0,
-  "count": 433,
+  "count": 451,
   "history_summary": {
     "cached": 433,
-    "fetched": 0,
+    "fetched": 18,
     "pending": 0,
     "failed": 0,
     "limit": 120
@@ -7066,7 +7066,7 @@
               "title": "法國7月INSEE商業信心指數",
               "importance": 1,
               "previous": "94",
-              "forecast": "--",
+              "forecast": "95",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177131",
@@ -7124,7 +7124,7 @@
               "title": "法國7月INSEE製造業信心指數",
               "importance": 1,
               "previous": "100",
-              "forecast": "100",
+              "forecast": "101",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177132",
@@ -7936,7 +7936,7 @@
               "title": "美國至7月11日當週續請失業金人數(萬人)",
               "importance": 1,
               "previous": "180.5",
-              "forecast": "--",
+              "forecast": "180.7",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177144",
@@ -8284,7 +8284,7 @@
               "title": "歐元區7月消費者信心指數初值",
               "importance": 2,
               "previous": "-17.7",
-              "forecast": "-16.8",
+              "forecast": "-17",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177147",
@@ -8342,7 +8342,7 @@
               "title": "美國至7月17日當週EIA天然氣庫存(億立方英尺)",
               "importance": 2,
               "previous": "410",
-              "forecast": "--",
+              "forecast": "350",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177148",
@@ -9972,7 +9972,7 @@
               "title": "英國6月季調後核心零售銷售年率",
               "importance": 1,
               "previous": "4.6 %",
-              "forecast": "3.4 %",
+              "forecast": "3.2 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177174",
@@ -10030,7 +10030,7 @@
               "title": "英國6月季調後核心零售銷售月率",
               "importance": 1,
               "previous": "1.2 %",
-              "forecast": "-0.3 %",
+              "forecast": "-0.4 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177173",
@@ -10088,7 +10088,7 @@
               "title": "英國6月季調後零售銷售年率",
               "importance": 1,
               "previous": "3.2 %",
-              "forecast": "2.4 %",
+              "forecast": "2.3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177172",
@@ -10146,7 +10146,7 @@
               "title": "英國6月季調後零售銷售月率",
               "importance": 2,
               "previous": "1.2 %",
-              "forecast": "-0.2 %",
+              "forecast": "-0.3 %",
               "actual": "-- %",
               "actual_released": true,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177171",
@@ -10320,7 +10320,7 @@
               "title": "法國7月服務業PMI初值",
               "importance": 1,
               "previous": "46.8",
-              "forecast": "47.3",
+              "forecast": "47.5",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177178",
@@ -10378,7 +10378,7 @@
               "title": "法國7月綜合PMI初值",
               "importance": 1,
               "previous": "47.2",
-              "forecast": "--",
+              "forecast": "47.8",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177179",
@@ -10552,7 +10552,7 @@
               "title": "德國7月綜合PMI初值",
               "importance": 1,
               "previous": "49.5",
-              "forecast": "49.6",
+              "forecast": "49.8",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177182",
@@ -10842,7 +10842,7 @@
               "title": "歐元區7月綜合PMI初值",
               "importance": 1,
               "previous": "50",
-              "forecast": "50.2",
+              "forecast": "50.3",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177185",
@@ -10900,7 +10900,7 @@
               "title": "歐元區7月製造業PMI初值",
               "importance": 2,
               "previous": "51.4",
-              "forecast": "51.4",
+              "forecast": "51.5",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177183",
@@ -10958,7 +10958,7 @@
               "title": "英國7月服務業PMI初值",
               "importance": 2,
               "previous": "48.8",
-              "forecast": "49.3",
+              "forecast": "49.4",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177186",
@@ -11596,7 +11596,7 @@
               "title": "美國7月標普全球製造業PMI初值",
               "importance": 2,
               "previous": "53.9",
-              "forecast": "54.5",
+              "forecast": "54.3",
               "actual": "--",
               "actual_released": false,
               "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177192",
@@ -11946,7 +11946,7 @@
       "interval": "next_week",
       "label": "下週",
       "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
-      "count": 228,
+      "count": 246,
       "dates": [
         {
           "date": "2026-07-27",
@@ -14044,7 +14044,7 @@
         },
         {
           "date": "2026-07-28",
-          "count": 29,
+          "count": 31,
           "events": [
             {
               "id": "capital:1178352",
@@ -14637,7 +14637,7 @@
               "country": "美國",
               "title": "美國至7月11日當週ADP就業人數週度變動(萬人)",
               "importance": 2,
-              "previous": "--",
+              "previous": "1.65",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -14741,6 +14741,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-07-19 00:01:00"
+            },
+            {
+              "id": "capital:1181369",
+              "fid": "1181369",
+              "interval": "next_week",
+              "date": "2026-07-28",
+              "time": "20:55",
+              "datetime": "2026-07-28 20:55:00",
+              "display_time": "07/28 20:55",
+              "country": "美國",
+              "title": "美國至7月25日當週紅皮書商業零售銷售年率",
+              "importance": 1,
+              "previous": "7.8 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181369",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/21",
+                  "actual": "7.8",
+                  "forecast": "-",
+                  "previous": "8.2"
+                },
+                {
+                  "date": "07/14",
+                  "actual": "8.2",
+                  "forecast": "-",
+                  "previous": "11.5"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "11.5",
+                  "forecast": "-",
+                  "previous": "10.5"
+                },
+                {
+                  "date": "06/30",
+                  "actual": "10.5",
+                  "forecast": "-",
+                  "previous": "10"
+                },
+                {
+                  "date": "06/23",
+                  "actual": "10",
+                  "forecast": "-",
+                  "previous": "9.4"
+                },
+                {
+                  "date": "06/16",
+                  "actual": "9.4",
+                  "forecast": "-",
+                  "previous": "9.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
             },
             {
               "id": "capital:1180863",
@@ -15623,7 +15681,7 @@
               "country": "美國",
               "title": "美國至7月28日6周國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.65 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -15671,6 +15729,64 @@
               "history_checked_at": "2026-07-19 00:01:00"
             },
             {
+              "id": "capital:1181368",
+              "fid": "1181368",
+              "interval": "next_week",
+              "date": "2026-07-28",
+              "time": "23:30",
+              "datetime": "2026-07-28 23:30:00",
+              "display_time": "07/28 23:30",
+              "country": "美國",
+              "title": "美國至7月28日6周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "1.87 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181368",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/21",
+                  "actual": "1.87",
+                  "forecast": "-",
+                  "previous": "63.1"
+                },
+                {
+                  "date": "07/14",
+                  "actual": "63.1",
+                  "forecast": "-",
+                  "previous": "86.48"
+                },
+                {
+                  "date": "07/07",
+                  "actual": "86.48",
+                  "forecast": "-",
+                  "previous": "54.61"
+                },
+                {
+                  "date": "06/30",
+                  "actual": "54.61",
+                  "forecast": "-",
+                  "previous": "92.35"
+                },
+                {
+                  "date": "06/23",
+                  "actual": "92.35",
+                  "forecast": "-",
+                  "previous": "35.89"
+                },
+                {
+                  "date": "06/16",
+                  "actual": "35.89",
+                  "forecast": "-",
+                  "previous": "26.63"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
               "id": "capital:1178369",
               "fid": "1178369",
               "interval": "next_week",
@@ -15681,7 +15797,7 @@
               "country": "美國",
               "title": "美國至7月28日6周國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.79",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -15732,7 +15848,7 @@
         },
         {
           "date": "2026-07-29",
-          "count": 26,
+          "count": 39,
           "events": [
             {
               "id": "capital:1178371",
@@ -15907,6 +16023,470 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-07-19 00:01:00"
+            },
+            {
+              "id": "capital:1181370",
+              "fid": "1181370",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API原油庫存(萬桶)",
+              "importance": 2,
+              "previous": "260.3",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181370",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "260.3",
+                  "forecast": "-50",
+                  "previous": "-56.4"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-56.4",
+                  "forecast": "-273.6",
+                  "previous": "-39.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-39.9",
+                  "forecast": "-150",
+                  "previous": "-607.2"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-607.2",
+                  "forecast": "-405",
+                  "previous": "-76.5"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-76.5",
+                  "forecast": "-499.5",
+                  "previous": "-833"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-833",
+                  "forecast": "-451.5",
+                  "previous": "-911.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181375",
+              "fid": "1181375",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API原油進口(萬桶)",
+              "importance": 1,
+              "previous": "35.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181375",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "35.5",
+                  "forecast": "-",
+                  "previous": "-11.9"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-11.9",
+                  "forecast": "-",
+                  "previous": "15.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "15.9",
+                  "forecast": "-",
+                  "previous": "-18"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-18",
+                  "forecast": "-",
+                  "previous": "22.6"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "22.6",
+                  "forecast": "-",
+                  "previous": "-27.6"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-27.6",
+                  "forecast": "-",
+                  "previous": "-35.8"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181374",
+              "fid": "1181374",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API取暖油庫存(萬桶)",
+              "importance": 1,
+              "previous": "49.5",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181374",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "49.5",
+                  "forecast": "-",
+                  "previous": "-7.3"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-7.3",
+                  "forecast": "-",
+                  "previous": "-43.4"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-43.4",
+                  "forecast": "-",
+                  "previous": "20.5"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "20.5",
+                  "forecast": "-",
+                  "previous": "40.5"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "40.5",
+                  "forecast": "-",
+                  "previous": "-12.5"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-12.5",
+                  "forecast": "-",
+                  "previous": "-40.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181373",
+              "fid": "1181373",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API庫欣原油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-73.7",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181373",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "-73.7",
+                  "forecast": "-",
+                  "previous": "23.8"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "23.8",
+                  "forecast": "-",
+                  "previous": "-6.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-6.9",
+                  "forecast": "-",
+                  "previous": "50.3"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "50.3",
+                  "forecast": "-",
+                  "previous": "-98.2"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-98.2",
+                  "forecast": "-",
+                  "previous": "-152.3"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-152.3",
+                  "forecast": "-",
+                  "previous": "-112.5"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181376",
+              "fid": "1181376",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API成品油進口(萬桶/日)",
+              "importance": 1,
+              "previous": "4.3",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181376",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "4.3",
+                  "forecast": "-",
+                  "previous": "-18.8"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-18.8",
+                  "forecast": "-",
+                  "previous": "-32.5"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-32.5",
+                  "forecast": "-",
+                  "previous": "21.3"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "21.3",
+                  "forecast": "-",
+                  "previous": "-15.2"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-15.2",
+                  "forecast": "-",
+                  "previous": "-12.1"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-12.1",
+                  "forecast": "-",
+                  "previous": "-5.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181377",
+              "fid": "1181377",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API投產原油量(萬桶/日)",
+              "importance": 1,
+              "previous": "-9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181377",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "-9",
+                  "forecast": "-",
+                  "previous": "5.6"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "5.6",
+                  "forecast": "-",
+                  "previous": "3.4"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "3.4",
+                  "forecast": "-",
+                  "previous": "7.6"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "7.6",
+                  "forecast": "-",
+                  "previous": "-20.5"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "-20.5",
+                  "forecast": "-",
+                  "previous": "-1.7"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-1.7",
+                  "forecast": "-",
+                  "previous": "26.2"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181371",
+              "fid": "1181371",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API汽油庫存(萬桶)",
+              "importance": 1,
+              "previous": "-137.9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181371",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "-137.9",
+                  "forecast": "-181",
+                  "previous": "-166.4"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "-166.4",
+                  "forecast": "60",
+                  "previous": "-292.9"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-292.9",
+                  "forecast": "-155",
+                  "previous": "-210.6"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "-210.6",
+                  "forecast": "-90.6",
+                  "previous": "123.8"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "123.8",
+                  "forecast": "-35",
+                  "previous": "247.9"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "247.9",
+                  "forecast": "-140.1",
+                  "previous": "-119.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181372",
+              "fid": "1181372",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "04:30",
+              "datetime": "2026-07-29 04:30:00",
+              "display_time": "07/29 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週API精煉油庫存(萬桶)",
+              "importance": 1,
+              "previous": "175.9",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181372",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "175.9",
+                  "forecast": "100",
+                  "previous": "225.9"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "225.9",
+                  "forecast": "106",
+                  "previous": "-180.1"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "-180.1",
+                  "forecast": "100",
+                  "previous": "292.2"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "292.2",
+                  "forecast": "-85.2",
+                  "previous": "144.7"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "144.7",
+                  "forecast": "-38",
+                  "previous": "-46.1"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "-46.1",
+                  "forecast": "-19.8",
+                  "previous": "131.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
             },
             {
               "id": "capital:1178372",
@@ -16684,6 +17264,238 @@
               "history_checked_at": "2026-07-19 00:01:00"
             },
             {
+              "id": "capital:1181378",
+              "fid": "1181378",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "19:00",
+              "datetime": "2026-07-29 19:00:00",
+              "display_time": "07/29 19:00",
+              "country": "美國",
+              "title": "美國至7月24日當週MBA30年期固定抵押貸款利率",
+              "importance": 1,
+              "previous": "6.69 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181378",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "6.69",
+                  "forecast": "-",
+                  "previous": "6.65"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "6.65",
+                  "forecast": "-",
+                  "previous": "6.58"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "6.58",
+                  "forecast": "-",
+                  "previous": "6.57"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "6.57",
+                  "forecast": "-",
+                  "previous": "6.59"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "6.59",
+                  "forecast": "-",
+                  "previous": "6.6"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "6.6",
+                  "forecast": "-",
+                  "previous": "6.6"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181381",
+              "fid": "1181381",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "19:00",
+              "datetime": "2026-07-29 19:00:00",
+              "display_time": "07/29 19:00",
+              "country": "美國",
+              "title": "美國至7月24日當週MBA抵押貸款再融資活動指數",
+              "importance": 1,
+              "previous": "802.3",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181381",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "802.3",
+                  "forecast": "-",
+                  "previous": "821.9"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "821.9",
+                  "forecast": "-",
+                  "previous": "794.4"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "794.4",
+                  "forecast": "-",
+                  "previous": "828.7"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "828.7",
+                  "forecast": "-",
+                  "previous": "834.2"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "834.2",
+                  "forecast": "-",
+                  "previous": "810.2"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "810.2",
+                  "forecast": "-",
+                  "previous": "848.7"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181379",
+              "fid": "1181379",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "19:00",
+              "datetime": "2026-07-29 19:00:00",
+              "display_time": "07/29 19:00",
+              "country": "美國",
+              "title": "美國至7月24日當週MBA抵押貸款申請活動指數",
+              "importance": 1,
+              "previous": "264",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181379",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "264",
+                  "forecast": "-",
+                  "previous": "259.1"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "259.1",
+                  "forecast": "-",
+                  "previous": "266.3"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "266.3",
+                  "forecast": "-",
+                  "previous": "272.2"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "272.2",
+                  "forecast": "-",
+                  "previous": "272.1"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "272.1",
+                  "forecast": "-",
+                  "previous": "269.5"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "269.5",
+                  "forecast": "-",
+                  "previous": "280.1"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
+              "id": "capital:1181380",
+              "fid": "1181380",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "19:00",
+              "datetime": "2026-07-29 19:00:00",
+              "display_time": "07/29 19:00",
+              "country": "美國",
+              "title": "美國至7月24日當週MBA抵押貸款購買指數",
+              "importance": 1,
+              "previous": "165.8",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181380",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "165.8",
+                  "forecast": "-",
+                  "previous": "157.2"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "157.2",
+                  "forecast": "-",
+                  "previous": "169.5"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "169.5",
+                  "forecast": "-",
+                  "previous": "170.6"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "170.6",
+                  "forecast": "-",
+                  "previous": "169.7"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "169.7",
+                  "forecast": "-",
+                  "previous": "170.8"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "170.8",
+                  "forecast": "-",
+                  "previous": "176.9"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
               "id": "capital:1178386",
               "fid": "1178386",
               "interval": "next_week",
@@ -16694,7 +17506,7 @@
               "country": "美國",
               "title": "美國至7月24日當週EIA俄克拉荷馬州庫欣原油庫存(萬桶)",
               "importance": 2,
-              "previous": "--",
+              "previous": "-67.4",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -16752,7 +17564,7 @@
               "country": "美國",
               "title": "美國至7月24日當週EIA原油庫存(萬桶)",
               "importance": 3,
-              "previous": "--",
+              "previous": "201",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -16810,7 +17622,7 @@
               "country": "美國",
               "title": "美國至7月24日當週EIA原油產量引伸需求數據(萬桶/日)",
               "importance": 1,
-              "previous": "--",
+              "previous": "1931.7",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -16868,7 +17680,7 @@
               "country": "美國",
               "title": "美國至7月24日當週EIA汽油庫存(萬桶)",
               "importance": 1,
-              "previous": "--",
+              "previous": "76.5",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -16926,7 +17738,7 @@
               "country": "美國",
               "title": "美國至7月24日當週EIA精煉油庫存(萬桶)",
               "importance": 1,
-              "previous": "--",
+              "previous": "139.5",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -16984,7 +17796,7 @@
               "country": "美國",
               "title": "美國至7月24日當週EIA蒸餾燃油產量引伸需求數據(萬桶/日)",
               "importance": 1,
-              "previous": "--",
+              "previous": "532.27",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -17042,7 +17854,7 @@
               "country": "美國",
               "title": "美國至7月24日當週EIA車用汽油總產量引伸需求數據(萬桶/日)",
               "importance": 1,
-              "previous": "--",
+              "previous": "975.39",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -17100,7 +17912,7 @@
               "country": "美國",
               "title": "美國至7月29日4個月國債競拍-得標利率",
               "importance": 1,
-              "previous": "-- %",
+              "previous": "3.845 %",
               "forecast": "-- %",
               "actual": "-- %",
               "actual_released": true,
@@ -17148,6 +17960,64 @@
               "history_checked_at": "2026-07-19 00:01:00"
             },
             {
+              "id": "capital:1181382",
+              "fid": "1181382",
+              "interval": "next_week",
+              "date": "2026-07-29",
+              "time": "23:30",
+              "datetime": "2026-07-29 23:30:00",
+              "display_time": "07/29 23:30",
+              "country": "美國",
+              "title": "美國至7月29日4個月國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "63.29 %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181382",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/22",
+                  "actual": "63.29",
+                  "forecast": "-",
+                  "previous": "21.99"
+                },
+                {
+                  "date": "07/15",
+                  "actual": "21.99",
+                  "forecast": "-",
+                  "previous": "80.43"
+                },
+                {
+                  "date": "07/08",
+                  "actual": "80.43",
+                  "forecast": "-",
+                  "previous": "57.66"
+                },
+                {
+                  "date": "07/01",
+                  "actual": "57.66",
+                  "forecast": "-",
+                  "previous": "11.15"
+                },
+                {
+                  "date": "06/24",
+                  "actual": "11.15",
+                  "forecast": "-",
+                  "previous": "11.86"
+                },
+                {
+                  "date": "06/17",
+                  "actual": "11.86",
+                  "forecast": "-",
+                  "previous": "16.25"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
               "id": "capital:1178393",
               "fid": "1178393",
               "interval": "next_week",
@@ -17158,7 +18028,7 @@
               "country": "美國",
               "title": "美國至7月29日4個月國債競拍-投標倍數",
               "importance": 1,
-              "previous": "--",
+              "previous": "2.76",
               "forecast": "--",
               "actual": "--",
               "actual_released": false,
@@ -17209,7 +18079,7 @@
         },
         {
           "date": "2026-07-30",
-          "count": 72,
+          "count": 74,
           "events": [
             {
               "id": "capital:1178394",
@@ -21214,6 +22084,64 @@
               "history_checked_at": "2026-07-19 00:06:02"
             },
             {
+              "id": "capital:1181383",
+              "fid": "1181383",
+              "interval": "next_week",
+              "date": "2026-07-30",
+              "time": "23:30",
+              "datetime": "2026-07-30 23:30:00",
+              "display_time": "07/30 23:30",
+              "country": "美國",
+              "title": "美國至7月30日4周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "-- %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181383",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/16",
+                  "actual": "44.46",
+                  "forecast": "-",
+                  "previous": "26.29"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "24.04",
+                  "forecast": "-",
+                  "previous": "64.65"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "64.65",
+                  "forecast": "-",
+                  "previous": "70.32"
+                },
+                {
+                  "date": "06/11",
+                  "actual": "70.32",
+                  "forecast": "-",
+                  "previous": "27.64"
+                },
+                {
+                  "date": "06/04",
+                  "actual": "27.64",
+                  "forecast": "-",
+                  "previous": "41.91"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "41.91",
+                  "forecast": "-",
+                  "previous": "62.57"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
               "id": "capital:1178451",
               "fid": "1178451",
               "interval": "next_week",
@@ -21330,6 +22258,64 @@
               "history_checked_at": "2026-07-19 00:06:02"
             },
             {
+              "id": "capital:1181384",
+              "fid": "1181384",
+              "interval": "next_week",
+              "date": "2026-07-30",
+              "time": "23:30",
+              "datetime": "2026-07-30 23:30:00",
+              "display_time": "07/30 23:30",
+              "country": "美國",
+              "title": "美國至7月30日8周國債競拍-得標利率配置百分比",
+              "importance": 1,
+              "previous": "-- %",
+              "forecast": "-- %",
+              "actual": "-- %",
+              "actual_released": true,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181384",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/16",
+                  "actual": "46.6",
+                  "forecast": "-",
+                  "previous": "68.8"
+                },
+                {
+                  "date": "06/25",
+                  "actual": "70.5",
+                  "forecast": "-",
+                  "previous": "31.85"
+                },
+                {
+                  "date": "06/18",
+                  "actual": "31.85",
+                  "forecast": "-",
+                  "previous": "65.5"
+                },
+                {
+                  "date": "06/11",
+                  "actual": "65.5",
+                  "forecast": "-",
+                  "previous": "68.26"
+                },
+                {
+                  "date": "06/04",
+                  "actual": "68.26",
+                  "forecast": "-",
+                  "previous": "82.33"
+                },
+                {
+                  "date": "05/28",
+                  "actual": "82.33",
+                  "forecast": "-",
+                  "previous": "45.18"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
+            },
+            {
               "id": "capital:1178452",
               "fid": "1178452",
               "interval": "next_week",
@@ -21391,7 +22377,7 @@
         },
         {
           "date": "2026-07-31",
-          "count": 59,
+          "count": 60,
           "events": [
             {
               "id": "capital:1178503",
@@ -21450,6 +22436,64 @@
               ],
               "history_status": "cached",
               "history_checked_at": "2026-07-19 00:06:02"
+            },
+            {
+              "id": "capital:1181367",
+              "fid": "1181367",
+              "interval": "next_week",
+              "date": "2026-07-31",
+              "time": "04:30",
+              "datetime": "2026-07-31 04:30:00",
+              "display_time": "07/31 04:30",
+              "country": "美國",
+              "title": "美國至7月24日當週外國央行持有美國國債(億美元)",
+              "importance": 1,
+              "previous": "--",
+              "forecast": "--",
+              "actual": "--",
+              "actual_released": false,
+              "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181367",
+              "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+              "history": [
+                {
+                  "date": "07/17",
+                  "actual": "6.39",
+                  "forecast": "-",
+                  "previous": "-286.05"
+                },
+                {
+                  "date": "07/10",
+                  "actual": "-286.05",
+                  "forecast": "-",
+                  "previous": "-110.64"
+                },
+                {
+                  "date": "07/03",
+                  "actual": "-110.64",
+                  "forecast": "-",
+                  "previous": "56.56"
+                },
+                {
+                  "date": "06/26",
+                  "actual": "56.56",
+                  "forecast": "-",
+                  "previous": "-21.18"
+                },
+                {
+                  "date": "06/19",
+                  "actual": "-21.18",
+                  "forecast": "-",
+                  "previous": "-135.55"
+                },
+                {
+                  "date": "06/12",
+                  "actual": "-135.55",
+                  "forecast": "-",
+                  "previous": "-326.86"
+                }
+              ],
+              "history_status": "fetched",
+              "history_checked_at": "2026-07-23 12:40:38"
             },
             {
               "id": "capital:1178455",
@@ -32199,7 +33243,7 @@
       "title": "法國7月INSEE商業信心指數",
       "importance": 1,
       "previous": "94",
-      "forecast": "--",
+      "forecast": "95",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177131",
@@ -32257,7 +33301,7 @@
       "title": "法國7月INSEE製造業信心指數",
       "importance": 1,
       "previous": "100",
-      "forecast": "100",
+      "forecast": "101",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177132",
@@ -33069,7 +34113,7 @@
       "title": "美國至7月11日當週續請失業金人數(萬人)",
       "importance": 1,
       "previous": "180.5",
-      "forecast": "--",
+      "forecast": "180.7",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177144",
@@ -33417,7 +34461,7 @@
       "title": "歐元區7月消費者信心指數初值",
       "importance": 2,
       "previous": "-17.7",
-      "forecast": "-16.8",
+      "forecast": "-17",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177147",
@@ -33475,7 +34519,7 @@
       "title": "美國至7月17日當週EIA天然氣庫存(億立方英尺)",
       "importance": 2,
       "previous": "410",
-      "forecast": "--",
+      "forecast": "350",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177148",
@@ -35099,7 +36143,7 @@
       "title": "英國6月季調後核心零售銷售年率",
       "importance": 1,
       "previous": "4.6 %",
-      "forecast": "3.4 %",
+      "forecast": "3.2 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177174",
@@ -35157,7 +36201,7 @@
       "title": "英國6月季調後核心零售銷售月率",
       "importance": 1,
       "previous": "1.2 %",
-      "forecast": "-0.3 %",
+      "forecast": "-0.4 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177173",
@@ -35215,7 +36259,7 @@
       "title": "英國6月季調後零售銷售年率",
       "importance": 1,
       "previous": "3.2 %",
-      "forecast": "2.4 %",
+      "forecast": "2.3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177172",
@@ -35273,7 +36317,7 @@
       "title": "英國6月季調後零售銷售月率",
       "importance": 2,
       "previous": "1.2 %",
-      "forecast": "-0.2 %",
+      "forecast": "-0.3 %",
       "actual": "-- %",
       "actual_released": true,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177171",
@@ -35447,7 +36491,7 @@
       "title": "法國7月服務業PMI初值",
       "importance": 1,
       "previous": "46.8",
-      "forecast": "47.3",
+      "forecast": "47.5",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177178",
@@ -35505,7 +36549,7 @@
       "title": "法國7月綜合PMI初值",
       "importance": 1,
       "previous": "47.2",
-      "forecast": "--",
+      "forecast": "47.8",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177179",
@@ -35679,7 +36723,7 @@
       "title": "德國7月綜合PMI初值",
       "importance": 1,
       "previous": "49.5",
-      "forecast": "49.6",
+      "forecast": "49.8",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177182",
@@ -35969,7 +37013,7 @@
       "title": "歐元區7月綜合PMI初值",
       "importance": 1,
       "previous": "50",
-      "forecast": "50.2",
+      "forecast": "50.3",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177185",
@@ -36027,7 +37071,7 @@
       "title": "歐元區7月製造業PMI初值",
       "importance": 2,
       "previous": "51.4",
-      "forecast": "51.4",
+      "forecast": "51.5",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177183",
@@ -36085,7 +37129,7 @@
       "title": "英國7月服務業PMI初值",
       "importance": 2,
       "previous": "48.8",
-      "forecast": "49.3",
+      "forecast": "49.4",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177186",
@@ -36723,7 +37767,7 @@
       "title": "美國7月標普全球製造業PMI初值",
       "importance": 2,
       "previous": "53.9",
-      "forecast": "54.5",
+      "forecast": "54.3",
       "actual": "--",
       "actual_released": false,
       "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1177192",
@@ -39738,7 +40782,7 @@
       "country": "美國",
       "title": "美國至7月11日當週ADP就業人數週度變動(萬人)",
       "importance": 2,
-      "previous": "--",
+      "previous": "1.65",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -39842,6 +40886,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-07-19 00:01:00"
+    },
+    {
+      "id": "capital:1181369",
+      "fid": "1181369",
+      "interval": "next_week",
+      "date": "2026-07-28",
+      "time": "20:55",
+      "datetime": "2026-07-28 20:55:00",
+      "display_time": "07/28 20:55",
+      "country": "美國",
+      "title": "美國至7月25日當週紅皮書商業零售銷售年率",
+      "importance": 1,
+      "previous": "7.8 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181369",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/21",
+          "actual": "7.8",
+          "forecast": "-",
+          "previous": "8.2"
+        },
+        {
+          "date": "07/14",
+          "actual": "8.2",
+          "forecast": "-",
+          "previous": "11.5"
+        },
+        {
+          "date": "07/07",
+          "actual": "11.5",
+          "forecast": "-",
+          "previous": "10.5"
+        },
+        {
+          "date": "06/30",
+          "actual": "10.5",
+          "forecast": "-",
+          "previous": "10"
+        },
+        {
+          "date": "06/23",
+          "actual": "10",
+          "forecast": "-",
+          "previous": "9.4"
+        },
+        {
+          "date": "06/16",
+          "actual": "9.4",
+          "forecast": "-",
+          "previous": "9.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
     },
     {
       "id": "capital:1180863",
@@ -40724,7 +41826,7 @@
       "country": "美國",
       "title": "美國至7月28日6周國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.65 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -40772,6 +41874,64 @@
       "history_checked_at": "2026-07-19 00:01:00"
     },
     {
+      "id": "capital:1181368",
+      "fid": "1181368",
+      "interval": "next_week",
+      "date": "2026-07-28",
+      "time": "23:30",
+      "datetime": "2026-07-28 23:30:00",
+      "display_time": "07/28 23:30",
+      "country": "美國",
+      "title": "美國至7月28日6周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "1.87 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181368",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/21",
+          "actual": "1.87",
+          "forecast": "-",
+          "previous": "63.1"
+        },
+        {
+          "date": "07/14",
+          "actual": "63.1",
+          "forecast": "-",
+          "previous": "86.48"
+        },
+        {
+          "date": "07/07",
+          "actual": "86.48",
+          "forecast": "-",
+          "previous": "54.61"
+        },
+        {
+          "date": "06/30",
+          "actual": "54.61",
+          "forecast": "-",
+          "previous": "92.35"
+        },
+        {
+          "date": "06/23",
+          "actual": "92.35",
+          "forecast": "-",
+          "previous": "35.89"
+        },
+        {
+          "date": "06/16",
+          "actual": "35.89",
+          "forecast": "-",
+          "previous": "26.63"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
       "id": "capital:1178369",
       "fid": "1178369",
       "interval": "next_week",
@@ -40782,7 +41942,7 @@
       "country": "美國",
       "title": "美國至7月28日6周國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.79",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41002,6 +42162,470 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-07-19 00:01:00"
+    },
+    {
+      "id": "capital:1181370",
+      "fid": "1181370",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API原油庫存(萬桶)",
+      "importance": 2,
+      "previous": "260.3",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181370",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "260.3",
+          "forecast": "-50",
+          "previous": "-56.4"
+        },
+        {
+          "date": "07/15",
+          "actual": "-56.4",
+          "forecast": "-273.6",
+          "previous": "-39.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "-39.9",
+          "forecast": "-150",
+          "previous": "-607.2"
+        },
+        {
+          "date": "07/01",
+          "actual": "-607.2",
+          "forecast": "-405",
+          "previous": "-76.5"
+        },
+        {
+          "date": "06/24",
+          "actual": "-76.5",
+          "forecast": "-499.5",
+          "previous": "-833"
+        },
+        {
+          "date": "06/17",
+          "actual": "-833",
+          "forecast": "-451.5",
+          "previous": "-911.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181375",
+      "fid": "1181375",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API原油進口(萬桶)",
+      "importance": 1,
+      "previous": "35.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181375",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "35.5",
+          "forecast": "-",
+          "previous": "-11.9"
+        },
+        {
+          "date": "07/15",
+          "actual": "-11.9",
+          "forecast": "-",
+          "previous": "15.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "15.9",
+          "forecast": "-",
+          "previous": "-18"
+        },
+        {
+          "date": "07/01",
+          "actual": "-18",
+          "forecast": "-",
+          "previous": "22.6"
+        },
+        {
+          "date": "06/24",
+          "actual": "22.6",
+          "forecast": "-",
+          "previous": "-27.6"
+        },
+        {
+          "date": "06/17",
+          "actual": "-27.6",
+          "forecast": "-",
+          "previous": "-35.8"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181374",
+      "fid": "1181374",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API取暖油庫存(萬桶)",
+      "importance": 1,
+      "previous": "49.5",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181374",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "49.5",
+          "forecast": "-",
+          "previous": "-7.3"
+        },
+        {
+          "date": "07/15",
+          "actual": "-7.3",
+          "forecast": "-",
+          "previous": "-43.4"
+        },
+        {
+          "date": "07/08",
+          "actual": "-43.4",
+          "forecast": "-",
+          "previous": "20.5"
+        },
+        {
+          "date": "07/01",
+          "actual": "20.5",
+          "forecast": "-",
+          "previous": "40.5"
+        },
+        {
+          "date": "06/24",
+          "actual": "40.5",
+          "forecast": "-",
+          "previous": "-12.5"
+        },
+        {
+          "date": "06/17",
+          "actual": "-12.5",
+          "forecast": "-",
+          "previous": "-40.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181373",
+      "fid": "1181373",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API庫欣原油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-73.7",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181373",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "-73.7",
+          "forecast": "-",
+          "previous": "23.8"
+        },
+        {
+          "date": "07/15",
+          "actual": "23.8",
+          "forecast": "-",
+          "previous": "-6.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "-6.9",
+          "forecast": "-",
+          "previous": "50.3"
+        },
+        {
+          "date": "07/01",
+          "actual": "50.3",
+          "forecast": "-",
+          "previous": "-98.2"
+        },
+        {
+          "date": "06/24",
+          "actual": "-98.2",
+          "forecast": "-",
+          "previous": "-152.3"
+        },
+        {
+          "date": "06/17",
+          "actual": "-152.3",
+          "forecast": "-",
+          "previous": "-112.5"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181376",
+      "fid": "1181376",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API成品油進口(萬桶/日)",
+      "importance": 1,
+      "previous": "4.3",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181376",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "4.3",
+          "forecast": "-",
+          "previous": "-18.8"
+        },
+        {
+          "date": "07/15",
+          "actual": "-18.8",
+          "forecast": "-",
+          "previous": "-32.5"
+        },
+        {
+          "date": "07/08",
+          "actual": "-32.5",
+          "forecast": "-",
+          "previous": "21.3"
+        },
+        {
+          "date": "07/01",
+          "actual": "21.3",
+          "forecast": "-",
+          "previous": "-15.2"
+        },
+        {
+          "date": "06/24",
+          "actual": "-15.2",
+          "forecast": "-",
+          "previous": "-12.1"
+        },
+        {
+          "date": "06/17",
+          "actual": "-12.1",
+          "forecast": "-",
+          "previous": "-5.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181377",
+      "fid": "1181377",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API投產原油量(萬桶/日)",
+      "importance": 1,
+      "previous": "-9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181377",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "-9",
+          "forecast": "-",
+          "previous": "5.6"
+        },
+        {
+          "date": "07/15",
+          "actual": "5.6",
+          "forecast": "-",
+          "previous": "3.4"
+        },
+        {
+          "date": "07/08",
+          "actual": "3.4",
+          "forecast": "-",
+          "previous": "7.6"
+        },
+        {
+          "date": "07/01",
+          "actual": "7.6",
+          "forecast": "-",
+          "previous": "-20.5"
+        },
+        {
+          "date": "06/24",
+          "actual": "-20.5",
+          "forecast": "-",
+          "previous": "-1.7"
+        },
+        {
+          "date": "06/17",
+          "actual": "-1.7",
+          "forecast": "-",
+          "previous": "26.2"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181371",
+      "fid": "1181371",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API汽油庫存(萬桶)",
+      "importance": 1,
+      "previous": "-137.9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181371",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "-137.9",
+          "forecast": "-181",
+          "previous": "-166.4"
+        },
+        {
+          "date": "07/15",
+          "actual": "-166.4",
+          "forecast": "60",
+          "previous": "-292.9"
+        },
+        {
+          "date": "07/08",
+          "actual": "-292.9",
+          "forecast": "-155",
+          "previous": "-210.6"
+        },
+        {
+          "date": "07/01",
+          "actual": "-210.6",
+          "forecast": "-90.6",
+          "previous": "123.8"
+        },
+        {
+          "date": "06/24",
+          "actual": "123.8",
+          "forecast": "-35",
+          "previous": "247.9"
+        },
+        {
+          "date": "06/17",
+          "actual": "247.9",
+          "forecast": "-140.1",
+          "previous": "-119.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181372",
+      "fid": "1181372",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "04:30",
+      "datetime": "2026-07-29 04:30:00",
+      "display_time": "07/29 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週API精煉油庫存(萬桶)",
+      "importance": 1,
+      "previous": "175.9",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181372",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "175.9",
+          "forecast": "100",
+          "previous": "225.9"
+        },
+        {
+          "date": "07/15",
+          "actual": "225.9",
+          "forecast": "106",
+          "previous": "-180.1"
+        },
+        {
+          "date": "07/08",
+          "actual": "-180.1",
+          "forecast": "100",
+          "previous": "292.2"
+        },
+        {
+          "date": "07/01",
+          "actual": "292.2",
+          "forecast": "-85.2",
+          "previous": "144.7"
+        },
+        {
+          "date": "06/24",
+          "actual": "144.7",
+          "forecast": "-38",
+          "previous": "-46.1"
+        },
+        {
+          "date": "06/17",
+          "actual": "-46.1",
+          "forecast": "-19.8",
+          "previous": "131.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
     },
     {
       "id": "capital:1178372",
@@ -41779,6 +43403,238 @@
       "history_checked_at": "2026-07-19 00:01:00"
     },
     {
+      "id": "capital:1181378",
+      "fid": "1181378",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "19:00",
+      "datetime": "2026-07-29 19:00:00",
+      "display_time": "07/29 19:00",
+      "country": "美國",
+      "title": "美國至7月24日當週MBA30年期固定抵押貸款利率",
+      "importance": 1,
+      "previous": "6.69 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181378",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "6.69",
+          "forecast": "-",
+          "previous": "6.65"
+        },
+        {
+          "date": "07/15",
+          "actual": "6.65",
+          "forecast": "-",
+          "previous": "6.58"
+        },
+        {
+          "date": "07/08",
+          "actual": "6.58",
+          "forecast": "-",
+          "previous": "6.57"
+        },
+        {
+          "date": "07/01",
+          "actual": "6.57",
+          "forecast": "-",
+          "previous": "6.59"
+        },
+        {
+          "date": "06/24",
+          "actual": "6.59",
+          "forecast": "-",
+          "previous": "6.6"
+        },
+        {
+          "date": "06/17",
+          "actual": "6.6",
+          "forecast": "-",
+          "previous": "6.6"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181381",
+      "fid": "1181381",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "19:00",
+      "datetime": "2026-07-29 19:00:00",
+      "display_time": "07/29 19:00",
+      "country": "美國",
+      "title": "美國至7月24日當週MBA抵押貸款再融資活動指數",
+      "importance": 1,
+      "previous": "802.3",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181381",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "802.3",
+          "forecast": "-",
+          "previous": "821.9"
+        },
+        {
+          "date": "07/15",
+          "actual": "821.9",
+          "forecast": "-",
+          "previous": "794.4"
+        },
+        {
+          "date": "07/08",
+          "actual": "794.4",
+          "forecast": "-",
+          "previous": "828.7"
+        },
+        {
+          "date": "07/01",
+          "actual": "828.7",
+          "forecast": "-",
+          "previous": "834.2"
+        },
+        {
+          "date": "06/24",
+          "actual": "834.2",
+          "forecast": "-",
+          "previous": "810.2"
+        },
+        {
+          "date": "06/17",
+          "actual": "810.2",
+          "forecast": "-",
+          "previous": "848.7"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181379",
+      "fid": "1181379",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "19:00",
+      "datetime": "2026-07-29 19:00:00",
+      "display_time": "07/29 19:00",
+      "country": "美國",
+      "title": "美國至7月24日當週MBA抵押貸款申請活動指數",
+      "importance": 1,
+      "previous": "264",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181379",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "264",
+          "forecast": "-",
+          "previous": "259.1"
+        },
+        {
+          "date": "07/15",
+          "actual": "259.1",
+          "forecast": "-",
+          "previous": "266.3"
+        },
+        {
+          "date": "07/08",
+          "actual": "266.3",
+          "forecast": "-",
+          "previous": "272.2"
+        },
+        {
+          "date": "07/01",
+          "actual": "272.2",
+          "forecast": "-",
+          "previous": "272.1"
+        },
+        {
+          "date": "06/24",
+          "actual": "272.1",
+          "forecast": "-",
+          "previous": "269.5"
+        },
+        {
+          "date": "06/17",
+          "actual": "269.5",
+          "forecast": "-",
+          "previous": "280.1"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
+      "id": "capital:1181380",
+      "fid": "1181380",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "19:00",
+      "datetime": "2026-07-29 19:00:00",
+      "display_time": "07/29 19:00",
+      "country": "美國",
+      "title": "美國至7月24日當週MBA抵押貸款購買指數",
+      "importance": 1,
+      "previous": "165.8",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181380",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "165.8",
+          "forecast": "-",
+          "previous": "157.2"
+        },
+        {
+          "date": "07/15",
+          "actual": "157.2",
+          "forecast": "-",
+          "previous": "169.5"
+        },
+        {
+          "date": "07/08",
+          "actual": "169.5",
+          "forecast": "-",
+          "previous": "170.6"
+        },
+        {
+          "date": "07/01",
+          "actual": "170.6",
+          "forecast": "-",
+          "previous": "169.7"
+        },
+        {
+          "date": "06/24",
+          "actual": "169.7",
+          "forecast": "-",
+          "previous": "170.8"
+        },
+        {
+          "date": "06/17",
+          "actual": "170.8",
+          "forecast": "-",
+          "previous": "176.9"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
       "id": "capital:1178386",
       "fid": "1178386",
       "interval": "next_week",
@@ -41789,7 +43645,7 @@
       "country": "美國",
       "title": "美國至7月24日當週EIA俄克拉荷馬州庫欣原油庫存(萬桶)",
       "importance": 2,
-      "previous": "--",
+      "previous": "-67.4",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41847,7 +43703,7 @@
       "country": "美國",
       "title": "美國至7月24日當週EIA原油庫存(萬桶)",
       "importance": 3,
-      "previous": "--",
+      "previous": "201",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41905,7 +43761,7 @@
       "country": "美國",
       "title": "美國至7月24日當週EIA原油產量引伸需求數據(萬桶/日)",
       "importance": 1,
-      "previous": "--",
+      "previous": "1931.7",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -41963,7 +43819,7 @@
       "country": "美國",
       "title": "美國至7月24日當週EIA汽油庫存(萬桶)",
       "importance": 1,
-      "previous": "--",
+      "previous": "76.5",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -42021,7 +43877,7 @@
       "country": "美國",
       "title": "美國至7月24日當週EIA精煉油庫存(萬桶)",
       "importance": 1,
-      "previous": "--",
+      "previous": "139.5",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -42079,7 +43935,7 @@
       "country": "美國",
       "title": "美國至7月24日當週EIA蒸餾燃油產量引伸需求數據(萬桶/日)",
       "importance": 1,
-      "previous": "--",
+      "previous": "532.27",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -42137,7 +43993,7 @@
       "country": "美國",
       "title": "美國至7月24日當週EIA車用汽油總產量引伸需求數據(萬桶/日)",
       "importance": 1,
-      "previous": "--",
+      "previous": "975.39",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -42195,7 +44051,7 @@
       "country": "美國",
       "title": "美國至7月29日4個月國債競拍-得標利率",
       "importance": 1,
-      "previous": "-- %",
+      "previous": "3.845 %",
       "forecast": "-- %",
       "actual": "-- %",
       "actual_released": true,
@@ -42243,6 +44099,64 @@
       "history_checked_at": "2026-07-19 00:01:00"
     },
     {
+      "id": "capital:1181382",
+      "fid": "1181382",
+      "interval": "next_week",
+      "date": "2026-07-29",
+      "time": "23:30",
+      "datetime": "2026-07-29 23:30:00",
+      "display_time": "07/29 23:30",
+      "country": "美國",
+      "title": "美國至7月29日4個月國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "63.29 %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181382",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/22",
+          "actual": "63.29",
+          "forecast": "-",
+          "previous": "21.99"
+        },
+        {
+          "date": "07/15",
+          "actual": "21.99",
+          "forecast": "-",
+          "previous": "80.43"
+        },
+        {
+          "date": "07/08",
+          "actual": "80.43",
+          "forecast": "-",
+          "previous": "57.66"
+        },
+        {
+          "date": "07/01",
+          "actual": "57.66",
+          "forecast": "-",
+          "previous": "11.15"
+        },
+        {
+          "date": "06/24",
+          "actual": "11.15",
+          "forecast": "-",
+          "previous": "11.86"
+        },
+        {
+          "date": "06/17",
+          "actual": "11.86",
+          "forecast": "-",
+          "previous": "16.25"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
       "id": "capital:1178393",
       "fid": "1178393",
       "interval": "next_week",
@@ -42253,7 +44167,7 @@
       "country": "美國",
       "title": "美國至7月29日4個月國債競拍-投標倍數",
       "importance": 1,
-      "previous": "--",
+      "previous": "2.76",
       "forecast": "--",
       "actual": "--",
       "actual_released": false,
@@ -46303,6 +48217,64 @@
       "history_checked_at": "2026-07-19 00:06:02"
     },
     {
+      "id": "capital:1181383",
+      "fid": "1181383",
+      "interval": "next_week",
+      "date": "2026-07-30",
+      "time": "23:30",
+      "datetime": "2026-07-30 23:30:00",
+      "display_time": "07/30 23:30",
+      "country": "美國",
+      "title": "美國至7月30日4周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "-- %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181383",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/16",
+          "actual": "44.46",
+          "forecast": "-",
+          "previous": "26.29"
+        },
+        {
+          "date": "06/25",
+          "actual": "24.04",
+          "forecast": "-",
+          "previous": "64.65"
+        },
+        {
+          "date": "06/18",
+          "actual": "64.65",
+          "forecast": "-",
+          "previous": "70.32"
+        },
+        {
+          "date": "06/11",
+          "actual": "70.32",
+          "forecast": "-",
+          "previous": "27.64"
+        },
+        {
+          "date": "06/04",
+          "actual": "27.64",
+          "forecast": "-",
+          "previous": "41.91"
+        },
+        {
+          "date": "05/28",
+          "actual": "41.91",
+          "forecast": "-",
+          "previous": "62.57"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
       "id": "capital:1178451",
       "fid": "1178451",
       "interval": "next_week",
@@ -46419,6 +48391,64 @@
       "history_checked_at": "2026-07-19 00:06:02"
     },
     {
+      "id": "capital:1181384",
+      "fid": "1181384",
+      "interval": "next_week",
+      "date": "2026-07-30",
+      "time": "23:30",
+      "datetime": "2026-07-30 23:30:00",
+      "display_time": "07/30 23:30",
+      "country": "美國",
+      "title": "美國至7月30日8周國債競拍-得標利率配置百分比",
+      "importance": 1,
+      "previous": "-- %",
+      "forecast": "-- %",
+      "actual": "-- %",
+      "actual_released": true,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181384",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/16",
+          "actual": "46.6",
+          "forecast": "-",
+          "previous": "68.8"
+        },
+        {
+          "date": "06/25",
+          "actual": "70.5",
+          "forecast": "-",
+          "previous": "31.85"
+        },
+        {
+          "date": "06/18",
+          "actual": "31.85",
+          "forecast": "-",
+          "previous": "65.5"
+        },
+        {
+          "date": "06/11",
+          "actual": "65.5",
+          "forecast": "-",
+          "previous": "68.26"
+        },
+        {
+          "date": "06/04",
+          "actual": "68.26",
+          "forecast": "-",
+          "previous": "82.33"
+        },
+        {
+          "date": "05/28",
+          "actual": "82.33",
+          "forecast": "-",
+          "previous": "45.18"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
+    },
+    {
       "id": "capital:1178452",
       "fid": "1178452",
       "interval": "next_week",
@@ -46533,6 +48563,64 @@
       ],
       "history_status": "cached",
       "history_checked_at": "2026-07-19 00:06:02"
+    },
+    {
+      "id": "capital:1181367",
+      "fid": "1181367",
+      "interval": "next_week",
+      "date": "2026-07-31",
+      "time": "04:30",
+      "datetime": "2026-07-31 04:30:00",
+      "display_time": "07/31 04:30",
+      "country": "美國",
+      "title": "美國至7月24日當週外國央行持有美國國債(億美元)",
+      "importance": 1,
+      "previous": "--",
+      "forecast": "--",
+      "actual": "--",
+      "actual_released": false,
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/CalendarArticle?fid=1181367",
+      "source_url": "https://www.capitalfutures.com.tw/zh-tw/financial/calendar?interval=next_week&important=0",
+      "history": [
+        {
+          "date": "07/17",
+          "actual": "6.39",
+          "forecast": "-",
+          "previous": "-286.05"
+        },
+        {
+          "date": "07/10",
+          "actual": "-286.05",
+          "forecast": "-",
+          "previous": "-110.64"
+        },
+        {
+          "date": "07/03",
+          "actual": "-110.64",
+          "forecast": "-",
+          "previous": "56.56"
+        },
+        {
+          "date": "06/26",
+          "actual": "56.56",
+          "forecast": "-",
+          "previous": "-21.18"
+        },
+        {
+          "date": "06/19",
+          "actual": "-21.18",
+          "forecast": "-",
+          "previous": "-135.55"
+        },
+        {
+          "date": "06/12",
+          "actual": "-135.55",
+          "forecast": "-",
+          "previous": "-326.86"
+        }
+      ],
+      "history_status": "fetched",
+      "history_checked_at": "2026-07-23 12:40:38"
     },
     {
       "id": "capital:1178455",
