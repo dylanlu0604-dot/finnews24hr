@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-23 21:50:45",
-  "count": 17996,
+  "updated": "2026-07-23 21:55:12",
+  "count": 17982,
   "items": [
+    {
+      "id": "mkt:019f8f3f-a299-7aab-8e6d-6d0556352d9a",
+      "time": "2026-07-23 21:52:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Brent tops $95 for first time since June 8】Brent crude climbed above $95/barrel for the first time since June 8, extending intraday gains to 4.78%."
+    },
+    {
+      "id": "5004990",
+      "time": "2026-07-23 21:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026菲爾茲獎揭曉：美國數學家約翰·帕登獲獎】當地時間7月23日，國際數學家大會（ICM 2026）開幕式公佈第二位2026年菲爾茲獎獲得者——美國數學家約翰·帕登。約翰·帕登因其在辛幾何領域的開創性貢獻榮獲2026年菲爾茲獎。其成就包括在虛基本迴圈、特定流形上的福谷範疇以及全純曲線計數等方面提出的新方法。同時，他還因在幾何與拓撲學其他領域作出的貢獻獲獎，包括三維流形上的群作用研究和紐結理論研究。（科技日報）"
+    },
+    {
+      "id": "5004989",
+      "time": "2026-07-23 21:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱打擊駐科威特美軍電子戰部隊】當地時間23日，伊朗伊斯蘭革命衛隊公共關係部發表宣告稱，為回應美軍行動，伊朗伊斯蘭革命衛隊當天對位於科威特阿迪裡基地的美國特種電子戰部隊發起打擊，造成多名美軍人員傷亡。宣告稱，美軍在衝突重新開始後實施的侵略行動中，一直使用其部署在印度洋的艦艇發射巡航導彈。在其艦艇的導彈庫存耗盡後，從22日轉而使用從英國費爾福德空軍基地起飛的B-1轟炸機對伊朗發動襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8f3e-2abd-7aab-8e6d-67abe29b8c5a",
+      "time": "2026-07-23 21:50:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Venezuela's oil ministry is preparing to complete the transition of oil joint ventures and contracts by early next week to meet a July 28 deadline."
+    },
+    {
+      "id": "5004988",
+      "time": "2026-07-23 21:50:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，委內瑞拉石油部準備在下週初前完成石油合資企業及合同的遷移工作，維持7月28日的最後期限不變。"
+    },
     {
       "id": "mkt:019f8f3d-8fac-7aab-8e6d-5eefce580de0",
       "time": "2026-07-23 21:50:04",
@@ -164786,171 +164833,6 @@
         "其他"
       ],
       "text": "【伊拉克稱南部港口石油裝載正常進行】當地時間16日，伊拉克石油部發表宣告稱，伊拉克南部港口的石油裝載工作仍在進行中。宣告指出，伊拉克南部海域一艘油輪報告稱有不明物體墜落在該油輪附近，但未引起火災或對船隻造成損壞。當天早些時候，伊拉克安全部門訊息人士稱，一架無人機擊中了伊拉克南部巴士拉省港口附近海域的一艘油輪。事件發生後，巴士拉港石油裝載工作已全部暫停。（央視新聞）"
-    },
-    {
-      "id": "4992591",
-      "time": "2026-07-16 21:55:01",
-      "tags": [
-        "其他"
-      ],
-      "text": "ORTEX：做空SPACEX 的投資者賬面利潤估計增加約87億美元。"
-    },
-    {
-      "id": "mkt:019f6b35-2996-7aab-8dca-7ae457b6e672",
-      "time": "2026-07-16 21:54:33",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "Ukraine Sea Ports Authority said Russia attacked Ukrainian ports 23 times in the first two weeks of July."
-    },
-    {
-      "id": "mkt:019f6b35-195c-7aab-8dca-77839cf1d296",
-      "time": "2026-07-16 21:54:29",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "XAUUSD",
-        "DXY"
-      ],
-      "text": "Ukrainian Sea Ports Authority says Russia attacked Ukrainian ports 23 times in the first two weeks of July."
-    },
-    {
-      "id": "4992590",
-      "time": "2026-07-16 21:54:26",
-      "tags": [
-        "國際"
-      ],
-      "text": "烏克蘭海港管理局表示，7月前兩週俄羅斯對烏克蘭港口發動了23次襲擊。"
-    },
-    {
-      "id": "4992589",
-      "time": "2026-07-16 21:54:16",
-      "tags": [
-        "市場"
-      ],
-      "text": "拉夫勞倫股價延續漲勢，觸及盤中高點2.9%。"
-    },
-    {
-      "id": "4992588",
-      "time": "2026-07-16 21:53:55",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列軍方：加沙的挑戰“仍然存在”。"
-    },
-    {
-      "id": "mkt:019f6b34-86d0-7aab-8dca-6e7b768b1e58",
-      "time": "2026-07-16 21:53:52",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI",
-        "DXY"
-      ],
-      "text": "【Saudi-Houthi truce faces toughest test; renewed confrontation possible】The fragile ceasefire between Saudi Arabia and Yemen’s Houthi movement since April 2022 is under stress after the Houthis struck Abha airport on Monday in apparent retaliation for a Saudi airstrike on Sanaa international airport that took place while an Iranian passenger plane carrying a Houthi delegation was en route from Tehran. The aircraft ultimately diverted to Hodeidah, renewing Riyadh’s concern that restoring Tehran–Sanaa flights could facilitate transfers of weapons, technical support or advisers. The episode highlights that the 2022 truce never became a political settlement; Middle East Institute researcher Nadwa Al Dawsari says Iran appears to be testing red lines. Mohammed Al Basha of Basha Report expects attempts next week to reopen Tehran–Sanaa direct flights and a likely Saudi-led coalition response, though both sides have shown restraint so far—the coalition may allow the Houthi plane to land in Hodeidah, Sanaa airport damage is reportedly limited mainly to the runway, and the Houthis struck Abha rather than major international hubs, which reduces immediate escalation risk."
-    },
-    {
-      "id": "4992587",
-      "time": "2026-07-16 21:53:33",
-      "tags": [
-        "其他"
-      ],
-      "text": "【保險行業協會趙宇龍：保險業資訊科技資金加碼趨勢明確 投資領域、市場研判環節AI滲透率達31%】中國保險行業協會會長趙宇龍今日在麗澤全球保險科技大會上表示，2025年保險全行業資訊科技總投入增至480億元，AI專項投入15億元，同比增長50%，資金加碼的長期趨勢明確。從AI滲透率來看，2025年前臺業務領域、產品設計環節滲透率達28%，銷售環節達50%，承保環節達35%，理賠環節達35%，中後臺業務領域風控環節滲透率達30%，投資領域、市場研判環節的AI滲透率達31%，風險收益智慧建模滲透率達6.5%。人工智慧已成為保險業降本增效、最佳化服務體驗、強化風險防控的重要手段。(藍鯨新聞)"
-    },
-    {
-      "id": "mkt:019f6b34-34ed-7aab-8dca-6042ca077e00",
-      "time": "2026-07-16 21:53:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Israeli military says challenges in Gaza remain."
-    },
-    {
-      "id": "mkt:019f6b34-28a7-7aab-8dca-5cb37287d90a",
-      "time": "2026-07-16 21:53:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WHO: Ebola outbreak in Democratic Republic of Congo has killed 796】WHO director-general Tedros Adhanom Ghebreyesus said on July 16 the Ebola outbreak in the Democratic Republic of Congo is spreading faster than previous episodes and has killed 796 people. He said some transmission chains remain undetected and about two-thirds of cases are in areas without specialised treatment capacity. WHO has trained more than 21,000 community health workers and reports progress in vaccine R&D and deployment. Ongoing armed conflict is severely restricting medical access and some treatment centres have been attacked; WHO said it will prioritise strengthening patient care and ensuring safe, dignified burials."
-    },
-    {
-      "id": "4992586",
-      "time": "2026-07-16 21:53:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：各國需同心協力援助剛果民主共和國，共同抵禦埃博拉疫情帶來的衝擊。"
-    },
-    {
-      "id": "4992585",
-      "time": "2026-07-16 21:52:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息：國際奧委會一名發言人向媒體表示，即便收到歐洲多國聯名信函，威脅削減對該機構的資金支援，國際奧委會也不會改變其關於俄羅斯運動員參賽的立場。"
-    },
-    {
-      "id": "4992584",
-      "time": "2026-07-16 21:52:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "黑莓股價下挫9%，跌至三週以來的低點。"
-    },
-    {
-      "id": "4992583",
-      "time": "2026-07-16 21:52:28",
-      "tags": [
-        "其他"
-      ],
-      "text": "雅培漲幅擴大至 14%，創 2002 年以來最大單日漲幅。"
-    },
-    {
-      "id": "4992582",
-      "time": "2026-07-16 21:52:00",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "納斯達克中國金龍指數漲超2%，盛豐物流漲11.68%，騰訊音樂漲5.86%，小鵬汽車漲4.21%，百度漲3.98%，小牛電動漲4.74%。"
-    },
-    {
-      "id": "4992581",
-      "time": "2026-07-16 21:51:49",
-      "tags": [
-        "市場"
-      ],
-      "text": "【美股光通訊板塊跌幅擴大 康寧跌超8%】美股光通訊板塊低開低走，跌幅擴大，康寧跌超8%，邁威爾科技跌超6%，Lumentum、Coherent、Credo跌超5%。"
-    },
-    {
-      "id": "4992580",
-      "time": "2026-07-16 21:51:11",
-      "tags": [
-        "其他"
-      ],
-      "text": "【世衛組織：剛果（金）埃博拉疫情已致796人死亡】當地時間16日，世界衛生組織總幹事譚德塞表示，剛果（金）埃博拉疫情擴散速度超過以往歷次疫情，目前已造成796人死亡。譚德塞說，目前仍有部分傳播鏈未被發現，約三分之二的病例發生在缺乏專門救治條件的地區。世衛組織已培訓超過2.1萬名社群衛生工作者參與疫情防控，疫苗研發和應用取得積極進展。（央視新聞）"
-    },
-    {
-      "id": "4992579",
-      "time": "2026-07-16 21:50:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "世界衛生組織：目前我們尚未發現全部現存病例。"
-    },
-    {
-      "id": "mkt:019f6b31-bc5d-7aab-8dca-540157d84ee4",
-      "time": "2026-07-16 21:50:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【WHO: Ebola outbreak in DRC has killed 796】WHO director-general Tedros Adhanom Ghebreyesus said the Ebola outbreak in the Democratic Republic of Congo has killed 796 and is spreading faster than previous outbreaks. He warned some transmission chains remain undiscovered and about two-thirds of cases are occurring in areas without specialized treatment facilities. WHO has trained more than 21,000 community health workers to support the response, and vaccine research and deployment have made positive progress."
     }
   ]
 }

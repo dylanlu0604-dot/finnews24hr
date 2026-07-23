@@ -1,7 +1,54 @@
 {
   "date": "2026-07-23",
-  "count": 3340,
+  "count": 3345,
   "items": [
+    {
+      "id": "mkt:019f8f3f-a299-7aab-8e6d-6d0556352d9a",
+      "time": "2026-07-23 21:52:19",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish"
+      ],
+      "text": "【Brent tops $95 for first time since June 8】Brent crude climbed above $95/barrel for the first time since June 8, extending intraday gains to 4.78%."
+    },
+    {
+      "id": "5004990",
+      "time": "2026-07-23 21:51:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "【2026菲爾茲獎揭曉：美國數學家約翰·帕登獲獎】當地時間7月23日，國際數學家大會（ICM 2026）開幕式公佈第二位2026年菲爾茲獎獲得者——美國數學家約翰·帕登。約翰·帕登因其在辛幾何領域的開創性貢獻榮獲2026年菲爾茲獎。其成就包括在虛基本迴圈、特定流形上的福谷範疇以及全純曲線計數等方面提出的新方法。同時，他還因在幾何與拓撲學其他領域作出的貢獻獲獎，包括三維流形上的群作用研究和紐結理論研究。（科技日報）"
+    },
+    {
+      "id": "5004989",
+      "time": "2026-07-23 21:51:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗革命衛隊稱打擊駐科威特美軍電子戰部隊】當地時間23日，伊朗伊斯蘭革命衛隊公共關係部發表宣告稱，為回應美軍行動，伊朗伊斯蘭革命衛隊當天對位於科威特阿迪裡基地的美國特種電子戰部隊發起打擊，造成多名美軍人員傷亡。宣告稱，美軍在衝突重新開始後實施的侵略行動中，一直使用其部署在印度洋的艦艇發射巡航導彈。在其艦艇的導彈庫存耗盡後，從22日轉而使用從英國費爾福德空軍基地起飛的B-1轟炸機對伊朗發動襲擊。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8f3e-2abd-7aab-8e6d-67abe29b8c5a",
+      "time": "2026-07-23 21:50:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "Venezuela's oil ministry is preparing to complete the transition of oil joint ventures and contracts by early next week to meet a July 28 deadline."
+    },
+    {
+      "id": "5004988",
+      "time": "2026-07-23 21:50:26",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，委內瑞拉石油部準備在下週初前完成石油合資企業及合同的遷移工作，維持7月28日的最後期限不變。"
+    },
     {
       "id": "mkt:019f8f3d-8fac-7aab-8e6d-5eefce580de0",
       "time": "2026-07-23 21:50:04",
