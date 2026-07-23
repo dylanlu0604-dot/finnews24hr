@@ -1,7 +1,112 @@
 {
   "date": "2026-07-23",
-  "count": 3372,
+  "count": 3382,
   "items": [
+    {
+      "id": "5005012",
+      "time": "2026-07-23 22:09:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利Nexi公司股票在停牌後恢復交易，股價下跌5.4%。"
+    },
+    {
+      "id": "5005011",
+      "time": "2026-07-23 22:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【丘成桐回應王虹鄧煜獲菲爾茲獎】2026年7月23日，在2026年國際數學家大會開幕式上，國際數學聯盟正式公佈第二十一屆菲爾茲獎（Fields Medal）得主名單。中國數學家王虹、鄧煜雙雙獲獎，這也是中國數學家首次在同一屆菲爾茲獎中獲得兩枚獎章。 “我感到非常高興。對於中國數學界而言，這是幾十年來我們一直期盼實現的願望。”聽聞喜訊後，著名數學家、菲爾茲獎首位華人得主，清華大學丘成桐數學科學中心主任、求真書院院長丘成桐，在接受媒體採訪時說。 丘成桐表示，他一直期望至少有一位中國數學家能獲獎，沒想到這次有兩位傑出的年輕數學家獲此獎項，這令他尤為興奮。 他認為，王虹、鄧煜能在眾多優秀學者中脫穎而出，關鍵在於他們所做出成就的獨創性和重要性。他們解決的都是懸置已久的難題，歷經幾代學人的積累，最終由他們完成了關鍵的跨越，因此他們的成果獲得了國際數學界的廣泛認同。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019f8f4f-21b6-7aab-8e6d-ba324c5f9839",
+      "time": "2026-07-23 22:09:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reports Russia is discussing extending a ban on gasoline exports by six months."
+    },
+    {
+      "id": "mkt:019f8f4e-db3a-7aab-8e6d-b2074e1ae3db",
+      "time": "2026-07-23 22:08:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russia said navigation in the Black Sea exclusive economic zone is unsafe."
+    },
+    {
+      "id": "5005010",
+      "time": "2026-07-23 22:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國—捷克經貿交流會在京成功舉辦】7月23日，中國—捷克經貿交流會在北京舉辦，捷克眾議長岡村富夫出席並講話，中國貿促會會長任鴻斌出席並致辭。任鴻斌表示，今年是中捷建立戰略伙伴關係十週年。中國貿促會願與捷克工業和交通協會等對口機構保持密切合作，攜手搭建高質量交流平臺，為推動兩國企業務實合作作出更大貢獻。"
+    },
+    {
+      "id": "5005009",
+      "time": "2026-07-23 22:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯商討將柴油出口禁令延長一個月。將汽油出口禁令延長六個月。"
+    },
+    {
+      "id": "mkt:019f8f4e-921c-7aab-8e6d-a92beb132d30",
+      "time": "2026-07-23 22:08:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reports Russia is discussing extending a diesel export ban by one month."
+    },
+    {
+      "id": "mkt:019f8f4d-fc2b-7aab-8e6d-a1aa088660f8",
+      "time": "2026-07-23 22:08:00",
+      "tags": [
+        "MKT News",
+        "SBLK.O",
+        "Impact bullish"
+      ],
+      "text": "【Baltic Dry Index rises for second day on firmer cape rates】The Baltic Dry Index (BDI) rose for a second day, up 10 pts (0.37%) to 2,725, led by stronger cape rates. The Baltic Cape Index (BCI) gained 84 pts (2%) to 4,198, its highest since July 16; Cape daily earnings rose $764 to $34,569. The Panamax Index (BPI) fell 56 pts (2.6%) to 2,064, a one-month low; Panamax daily earnings dropped $509 to $18,574. The Supramax Index (BSI) slipped 13 pts (0.8%) to 1,702, its lowest since July 9. The Handysize Index (BHSI) rose 1 pt to 906."
+    },
+    {
+      "id": "te:economy:569336",
+      "time": "2026-07-23 22:07:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Euro Area Consumer Confidence at 5-Month High — Consumer confidence in the Euro Area improved for a third consecutive month to -15.9 in July 2026 from -17.6 in June and compared to forecasts of -16.8, preliminary estimates showed. Sentiment also strengthened across the broader European Union, with the index improving to -15.1 from -17 in the previous month. Despite three consecutive months of improvement, consumer confidence has not yet recovered the losses incurred since February and remains below its long-term average."
+    },
+    {
+      "id": "te:markets:569335",
+      "time": "2026-07-23 22:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PepsiCo Stock Price Hits 12-month Low — PepsiCo shares decreased to 133.94 USD, the lowest since July 2025. Over the past 4 weeks, PepsiCo lost 5.65%, and in the last 12 months, it decreased 7.98%."
+    },
     {
       "id": "5005008",
       "time": "2026-07-23 22:06:29",

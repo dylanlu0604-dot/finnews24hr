@@ -1,7 +1,112 @@
 {
-  "updated": "2026-07-23 22:07:29",
-  "count": 17968,
+  "updated": "2026-07-23 22:11:42",
+  "count": 17973,
   "items": [
+    {
+      "id": "5005012",
+      "time": "2026-07-23 22:09:37",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "義大利Nexi公司股票在停牌後恢復交易，股價下跌5.4%。"
+    },
+    {
+      "id": "5005011",
+      "time": "2026-07-23 22:09:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【丘成桐回應王虹鄧煜獲菲爾茲獎】2026年7月23日，在2026年國際數學家大會開幕式上，國際數學聯盟正式公佈第二十一屆菲爾茲獎（Fields Medal）得主名單。中國數學家王虹、鄧煜雙雙獲獎，這也是中國數學家首次在同一屆菲爾茲獎中獲得兩枚獎章。 “我感到非常高興。對於中國數學界而言，這是幾十年來我們一直期盼實現的願望。”聽聞喜訊後，著名數學家、菲爾茲獎首位華人得主，清華大學丘成桐數學科學中心主任、求真書院院長丘成桐，在接受媒體採訪時說。 丘成桐表示，他一直期望至少有一位中國數學家能獲獎，沒想到這次有兩位傑出的年輕數學家獲此獎項，這令他尤為興奮。 他認為，王虹、鄧煜能在眾多優秀學者中脫穎而出，關鍵在於他們所做出成就的獨創性和重要性。他們解決的都是懸置已久的難題，歷經幾代學人的積累，最終由他們完成了關鍵的跨越，因此他們的成果獲得了國際數學界的廣泛認同。（澎湃新聞）"
+    },
+    {
+      "id": "mkt:019f8f4f-21b6-7aab-8e6d-ba324c5f9839",
+      "time": "2026-07-23 22:09:15",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reports Russia is discussing extending a ban on gasoline exports by six months."
+    },
+    {
+      "id": "mkt:019f8f4e-db3a-7aab-8e6d-b2074e1ae3db",
+      "time": "2026-07-23 22:08:57",
+      "tags": [
+        "MKT News",
+        "Brent",
+        "Impact bullish",
+        "WTI",
+        "DXY"
+      ],
+      "text": "Russia said navigation in the Black Sea exclusive economic zone is unsafe."
+    },
+    {
+      "id": "5005010",
+      "time": "2026-07-23 22:08:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國—捷克經貿交流會在京成功舉辦】7月23日，中國—捷克經貿交流會在北京舉辦，捷克眾議長岡村富夫出席並講話，中國貿促會會長任鴻斌出席並致辭。任鴻斌表示，今年是中捷建立戰略伙伴關係十週年。中國貿促會願與捷克工業和交通協會等對口機構保持密切合作，攜手搭建高質量交流平臺，為推動兩國企業務實合作作出更大貢獻。"
+    },
+    {
+      "id": "5005009",
+      "time": "2026-07-23 22:08:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：俄羅斯商討將柴油出口禁令延長一個月。將汽油出口禁令延長六個月。"
+    },
+    {
+      "id": "mkt:019f8f4e-921c-7aab-8e6d-a92beb132d30",
+      "time": "2026-07-23 22:08:38",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Interfax reports Russia is discussing extending a diesel export ban by one month."
+    },
+    {
+      "id": "mkt:019f8f4d-fc2b-7aab-8e6d-a1aa088660f8",
+      "time": "2026-07-23 22:08:00",
+      "tags": [
+        "MKT News",
+        "SBLK.O",
+        "Impact bullish"
+      ],
+      "text": "【Baltic Dry Index rises for second day on firmer cape rates】The Baltic Dry Index (BDI) rose for a second day, up 10 pts (0.37%) to 2,725, led by stronger cape rates. The Baltic Cape Index (BCI) gained 84 pts (2%) to 4,198, its highest since July 16; Cape daily earnings rose $764 to $34,569. The Panamax Index (BPI) fell 56 pts (2.6%) to 2,064, a one-month low; Panamax daily earnings dropped $509 to $18,574. The Supramax Index (BSI) slipped 13 pts (0.8%) to 1,702, its lowest since July 9. The Handysize Index (BHSI) rose 1 pt to 906."
+    },
+    {
+      "id": "te:economy:569336",
+      "time": "2026-07-23 22:07:38",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Euro Area",
+        "Consumer Confidence",
+        "Importance 1"
+      ],
+      "text": "Euro Area Consumer Confidence at 5-Month High — Consumer confidence in the Euro Area improved for a third consecutive month to -15.9 in July 2026 from -17.6 in June and compared to forecasts of -16.8, preliminary estimates showed. Sentiment also strengthened across the broader European Union, with the index improving to -15.1 from -17 in the previous month. Despite three consecutive months of improvement, consumer confidence has not yet recovered the losses incurred since February and remains below its long-term average."
+    },
+    {
+      "id": "te:markets:569335",
+      "time": "2026-07-23 22:07:06",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "PepsiCo Stock Price Hits 12-month Low — PepsiCo shares decreased to 133.94 USD, the lowest since July 2025. Over the past 4 weeks, PepsiCo lost 5.65%, and in the last 12 months, it decreased 7.98%."
+    },
     {
       "id": "5005008",
       "time": "2026-07-23 22:06:29",
@@ -164631,51 +164736,6 @@
         "Importance 1"
       ],
       "text": "US Business Inventory Growth Softens in May — Business inventories in the US rose by 0.3% month-over-month in May 2026, following an upwardly revised 0.6% advance in April, matching market estimates. Stocks increased at a slower pace for merchant wholesalers (0.1% vs 0.7% in April); manufacturers (0.2% vs 0.3%) and retailers (0.6% vs 0.7%). Year-on-year, business inventories increased by 3.1%."
-    },
-    {
-      "id": "4992616",
-      "time": "2026-07-16 22:11:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【IMF敦促英國候任首相伯納姆避免財政冒進 稱特拉斯危機後英債傷痕未愈】國際貨幣基金組織(IMF)警告英國候任首相安迪·伯納姆稱，2022年莉茲·特拉斯預算危機造成了永久性傷痕，使英國國債市場對英國財政政策更加敏感。IMF表示，在前首相特拉斯近四年前的迷你預算案引發市場動盪後，債券市場出現了“機制性轉變”。特拉斯當時計劃提高支出並減稅，數百億英鎊資金來源不明，該計劃在遭到投資者強烈反對後，最終撤回。IMF週四隨第四條磋商報告發布的檔案顯示，在伯納姆面臨工黨左翼要求增加公共支出的壓力之際，國內因素在推動英國國債收益率方面變得更加重要。IMF敦促這位候任首相堅持可信、可預測的財政政策，以扭轉特拉斯事件的影響。"
-    },
-    {
-      "id": "4992615",
-      "time": "2026-07-16 22:10:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣汽正與華為聯合研發下一代智慧數字底盤】廣汽方面透露，已建成全固態電池中試產線，自主量產的夸克電驅電機最高效率突破99%，並正與華為聯合研發下一代智慧數字底盤。"
-    },
-    {
-      "id": "te:markets:567595",
-      "time": "2026-07-16 22:08:56",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Canada",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "TSX Falls as Financials and Gold Miners Retreat — The S&P/TSX Composite Index fell more than 0.5% to trade below 35,500 on Thursday as gold prices slipped, while investors assessed worsening tensions in the Middle East. Agnico Eagle shed 2.5%, while Barrick and WPM lost more than 3% each. Meanwhile, the conflict pushed oil prices higher on supply concerns, fueling inflation worries. Financials traded lower, with RBC, TD Bank, Scotiabank, and CIBC losing nearly 1% each. Elsewhere, Cogeco Communications gained 0.5% despite missing third-quarter revenue estimates after the market close on Wednesday. Meanwhile, US Trade Representative Jamieson Greer said formal trade talks with Mexico were making progress, while discussions with Canada had yet to deliver the concessions sought by President Trump as he pushes to reduce US trade deficits with both countries. Earlier this month, the US said it would not renew the USMCA, although the pact would remain in effect until the issues are resolved or the agreement is terminated."
-    },
-    {
-      "id": "4992614",
-      "time": "2026-07-16 22:08:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國全國房地產經紀人協會（NAR）首席經濟學家Lawrence Yun表示：近一年來的最高抵押貸款利率，加上創下歷史新高的全國房屋中位價，共同導致房地產市場表現疲軟，這對首次購房者來說尤其困難。"
-    },
-    {
-      "id": "4992613",
-      "time": "2026-07-16 22:07:47",
-      "tags": [
-        "公司"
-      ],
-      "text": "【白雲山天心公司地塞米松磷酸鈉注射液透過仿製藥質量和療效一致性評價】近日，廣藥集團旗下白雲山天心公司收到國家藥品監督管理局核准簽發的《藥品補充申請批准通知書》，地塞米松磷酸鈉注射液（1ml:5mg）正式透過仿製藥質量和療效一致性評價。該產品主要適用於過敏性與自身免疫性炎症性疾病，用於某些嚴重感染及中毒、惡性淋巴瘤的綜合治療，是國家基本藥物目錄品種和臨床剛需用藥。"
     }
   ]
 }
