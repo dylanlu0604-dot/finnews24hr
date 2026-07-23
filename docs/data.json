@@ -1,7 +1,169 @@
 {
-  "updated": "2026-07-23 18:47:31",
-  "count": 17729,
+  "updated": "2026-07-23 18:51:31",
+  "count": 17739,
   "items": [
+    {
+      "id": "te:markets:569264",
+      "time": "2026-07-23 18:49:58",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "PG&E earnings above expectations at 0.40 USD — PG&E (PCG) released earnings per share at 0.40 USD, compared to market expectations of 0.36 USD."
+    },
+    {
+      "id": "5004489",
+      "time": "2026-07-23 18:49:56",
+      "tags": [
+        "公司"
+      ],
+      "text": "【松霖科技：擬向越南全資子公司追加投資9700萬美元】松霖科技公告稱，公司基於下游海外客戶市場需求，擬對全資子公司松霖科技（越南）有限公司追加投資9700萬美元，以滿足未來經營需求。該事項已透過公司第四屆董事會第二次會議審議，無需提交股東會審議。本次投資尚需中國和越南相關部門審批或備案，存在不確定性。增資後公司仍持有其100%股權。目前公司財務狀況穩定，此次投資不會對其造成重大影響，長期看有利於提升國際競爭力。"
+    },
+    {
+      "id": "te:markets:569263",
+      "time": "2026-07-23 18:49:56",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Switzerland",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "STMicroelectronics earnings above expectations at 0.31 USD — STMicroelectronics (STM) released earnings per share at 0.31 USD, compared to market expectations of 0.25 USD."
+    },
+    {
+      "id": "te:markets:569262",
+      "time": "2026-07-23 18:49:54",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Honeywell International earnings below expectations at 1.95 USD — Honeywell International (HON) released earnings per share at 1.95 USD, compared to market expectations of 4.84 USD."
+    },
+    {
+      "id": "te:markets:569261",
+      "time": "2026-07-23 18:49:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Comcast earnings above expectations at 1.04 USD — Comcast (CMCSA) released earnings per share at 1.04 USD, compared to market expectations of 0.97 USD."
+    },
+    {
+      "id": "te:markets:569260",
+      "time": "2026-07-23 18:49:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Lockheed Martin earnings above expectations at 7.94 USD — Lockheed Martin (LMT) released earnings per share at 7.94 USD, compared to market expectations of 7.22 USD."
+    },
+    {
+      "id": "te:markets:569259",
+      "time": "2026-07-23 18:49:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Thermo Fisher Scientific earnings above expectations at 6.03 USD — Thermo Fisher Scientific (TMO) released earnings per share at 6.03 USD, compared to market expectations of 5.72 USD."
+    },
+    {
+      "id": "te:markets:569258",
+      "time": "2026-07-23 18:49:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "T-Mobile Us earnings above expectations at 2.85 USD — T-Mobile Us (TMUS) released earnings per share at 2.85 USD, compared to market expectations of 2.58 USD."
+    },
+    {
+      "id": "te:markets:569257",
+      "time": "2026-07-23 18:49:47",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Raytheon Technologies earnings above expectations at 1.89 USD — Raytheon Technologies (RTX) released earnings per share at 1.89 USD, compared to market expectations of 1.65 USD."
+    },
+    {
+      "id": "5004488",
+      "time": "2026-07-23 18:49:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "伯恩斯坦將德州儀器目標股價從250美元上調至290美元。"
+    },
+    {
+      "id": "5004487",
+      "time": "2026-07-23 18:49:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）提議允許投資組合管理人將客戶資金投資於場內交易衍生品。"
+    },
+    {
+      "id": "mkt:019f8e96-ca69-7aab-8e64-546ffb2617d0",
+      "time": "2026-07-23 18:47:54",
+      "tags": [
+        "MKT News",
+        "LLY.N",
+        "Impact bullish"
+      ],
+      "text": "Eli Lilly (LLY.N): Retatrutide produced significant weight loss and met primary endpoints across Phase III trials."
+    },
+    {
+      "id": "5004486",
+      "time": "2026-07-23 18:47:51",
+      "tags": [
+        "國際"
+      ],
+      "text": "禮來計劃於2027年第一季度向美國食品藥品監督管理局（FDA）提交瑞他魯肽（Retatrutide）的生物製品許可申請（BLA）。禮來稱，瑞他魯肽實現了顯著減重效果，瑞他魯肽在III期試驗中達到主要終點。"
+    },
+    {
+      "id": "5004485",
+      "time": "2026-07-23 18:47:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "印度證券交易委員會（SEBI）提議新增一類投資組合管理服務（PMS），該類別僅可投資於共同基金計劃。"
+    },
+    {
+      "id": "5004484",
+      "time": "2026-07-23 18:47:15",
+      "tags": [
+        "其他"
+      ],
+      "text": "水利部和中國氣象局7月23日18時聯合釋出黃色山洪災害氣象預警：預計，7月23日20時至24日20時，山西東部、雲南中部和東部等地部分地區可能發生山洪災害（藍色預警），其中局地發生山洪災害可能性較大（黃色預警）。"
+    },
+    {
+      "id": "5004483",
+      "time": "2026-07-23 18:46:51",
+      "tags": [
+        "其他"
+      ],
+      "text": "自然資源部與中國氣象局7月23日18時聯合釋出黃色地質災害氣象風險預警：預計，7月23日20時至24日20時，安徽西南部、雲南西南部等地部分地區發生地質災害的氣象風險較高（黃色預警）。各級政府及有關部門按照應急預案做好地質災害防禦工作。"
+    },
     {
       "id": "5004482",
       "time": "2026-07-23 18:46:41",
@@ -162216,63 +162378,6 @@
         "市場"
       ],
       "text": "【上半年廣東居民人均可支配收入29667元】7月16日，國家統計局廣東調查總隊釋出上半年主要民生資料。資料顯示，上半年廣東居民人均可支配收入29667元，同比增長4.7%，扣除價格因素實際增長3.9%。同期居民消費價格指數（CPI）同比上漲0.8%，漲幅比一季度擴大0.3個百分點；工業生產者出廠價格指數（PPI）同比上漲0.4%。 （南方日報）"
-    },
-    {
-      "id": "4992165",
-      "time": "2026-07-16 18:51:27",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "谷歌盤前漲近2%。"
-    },
-    {
-      "id": "4992164",
-      "time": "2026-07-16 18:51:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【雷神科技：推出智算中心全棧產品 液冷AI智算伺服器能耗減少33%】從雷神科技獲悉，公司於今日在青島釋出智算中心全棧產品，涵蓋AI智算伺服器、通用伺服器、高速交換機、海量儲存、桌面終端及工作站五大品類。其中，AI智算伺服器以8U16卡為旗艦型號，提供高密度模組型及液冷機型，滿足大模型訓練與高密度推理需求。公司相關負責人透露，10U/8U模組AI智算伺服器博越FX2-H2UG88支援國產化CPU和Intel至強系列CPU，相容多款國內外主流算力模組，風冷液冷雙技術已落地，液冷機型能耗減少33%。"
-    },
-    {
-      "id": "4992163",
-      "time": "2026-07-16 18:50:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【禮來28億美元收購AtaiBeckley，擴充難治性抑鬱症治療管線】禮來7月16日宣佈達成最終協議，將以每股6.75美元現金收購臨床階段生物製藥公司AtaiBeckley，交易股權價值約28億美元。此外，若其兩項精神疾病候選療法達到特定研發及監管里程碑，股東還可獲得每股最高2.50美元或有價值權，對應潛在額外股權價值約10億美元。AtaiBeckley專注於精神疾病創新療法開發，其核心產品BPL-003為治療難治性抑鬱症的鼻噴5-MeO-DMT製劑，已獲美國FDA突破性療法認定並啟動III期臨床準備；另一候選產品VLS-01目前處於IIb期臨床。交易預計於今年第三季度完成，仍需股東及監管批准。"
-    },
-    {
-      "id": "4992162",
-      "time": "2026-07-16 18:49:42",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【格力博：全資公司召回Kobalt品牌24V和48V園林電動工具】格力博公告稱，全資公司Greenworks Tools接美國消費品安全委員會通知，於當地時間2026年7月9日召回2026年1 - 5月在美國Lowe’s門店及網站銷售的Kobalt品牌部分園林電動工具所配備電池包，原因是未按指示充電或致電池包短路。目前未造成損失，大部分更新產品已恢復銷售。公司將承擔召回費用，因公告剛釋出，費用暫無法確定，且已購買召回保險，賠付情況待定。"
-    },
-    {
-      "id": "4992161",
-      "time": "2026-07-16 18:48:03",
-      "tags": [
-        "其他"
-      ],
-      "text": "富國銀行將阿斯麥目標價從2200美元上調至2500美元。"
-    },
-    {
-      "id": "mkt:019f6a8a-3850-7aab-8dc5-b1a49d6cee12",
-      "time": "2026-07-16 18:47:50",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) warned that if U.S. forces commit a strategic mistake, everyone would have to say goodbye to the region's energy."
     }
   ]
 }
