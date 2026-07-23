@@ -1,7 +1,54 @@
 {
-  "updated": "2026-07-24 03:07:29",
-  "count": 18011,
+  "updated": "2026-07-24 03:11:24",
+  "count": 18012,
   "items": [
+    {
+      "id": "5005355",
+      "time": "2026-07-24 03:09:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD ：公司計劃未來深耕人工智慧市場某一細分賽道，並在該領域取得無可爭議的行業領先地位。"
+    },
+    {
+      "id": "mkt:019f9061-4a25-7aab-8e72-21567ef5ef1f",
+      "time": "2026-07-24 03:08:42",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "MSFT.O",
+        "Impact bullish"
+      ],
+      "text": "Microsoft (MSFT.O) completed a rollback of a network update, saying the impact on the vast majority of Microsoft 365 users has been eliminated."
+    },
+    {
+      "id": "mkt:019f9060-86cb-7aab-8e72-1a13a630de79",
+      "time": "2026-07-24 03:07:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said OpenAI has \"placed a big bet\" on AMD."
+    },
+    {
+      "id": "5005354",
+      "time": "2026-07-24 03:07:39",
+      "tags": [
+        "公司"
+      ],
+      "text": "AMD 執行長：Anthropic 將透過公有云、新型雲服務商，或自建部分資料中心採購使用 AMD 的 CPU 與 GPU 產品。"
+    },
+    {
+      "id": "5005353",
+      "time": "2026-07-24 03:07:05",
+      "tags": [
+        "其他"
+      ],
+      "text": "微軟就 365 服務訪問故障釋出說明：已完成網路更新回滾操作，絕大多數微軟 365 使用者受影響問題已解決。"
+    },
     {
       "id": "5005352",
       "time": "2026-07-24 03:06:48",
@@ -164937,45 +164984,6 @@
         "Importance 1"
       ],
       "text": "Canada Bond Yields Hold Firm — The yield on Canada's 10-year government bond firmed at 3.54% after reaching a two-month high of 3.58% as a rebound in US Treasury yields supported global bond markets. US yields recovered after recent declines, while investors continued to assess the outlook for Federal Reserve policy. Still, a sharper decline in Canadian yields was prevented by the Bank of Canada's relatively hawkish rhetoric. The central bank left interest rates unchanged at its July meeting, as expected, but underscored that growth is set to remain robust in the coming quarters. This was accompanied by an upward revision to this year's inflation projections as the conflict in the Middle East pushed energy costs higher."
-    },
-    {
-      "id": "4992893",
-      "time": "2026-07-17 03:08:42",
-      "tags": [
-        "國際"
-      ],
-      "text": "伊朗邁赫爾通訊社報道，伊朗南部城市阿瓦士傳出爆炸聲，爆炸起因暫不明。"
-    },
-    {
-      "id": "mkt:019f6c54-a4ca-7aab-8dd0-219189411379",
-      "time": "2026-07-17 03:08:34",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "IRGC says since announcing a ceasefire US fighter jets have not left the Strait of Hormuz area for a single day and US military activity remains ongoing."
-    },
-    {
-      "id": "4992892",
-      "time": "2026-07-17 03:08:06",
-      "tags": [
-        "其他"
-      ],
-      "text": "邁赫爾通訊社訊息：阿巴斯港、格什姆島及阿瓦士多地再傳爆炸聲。"
-    },
-    {
-      "id": "mkt:019f6c54-0a3b-7aab-8dd0-1ca8f04171d0",
-      "time": "2026-07-17 03:07:54",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Mehr News Agency reports explosions heard in Ahvaz, Iran."
     }
   ]
 }
