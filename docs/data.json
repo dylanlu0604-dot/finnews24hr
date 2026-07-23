@@ -1,7 +1,93 @@
 {
-  "updated": "2026-07-24 07:46:09",
-  "count": 17996,
+  "updated": "2026-07-24 07:50:09",
+  "count": 18000,
   "items": [
+    {
+      "id": "mkt:019f9162-6817-7aab-8e75-2622f17af1d0",
+      "time": "2026-07-24 07:49:33",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "The New York Times reports Iran on Thursday rejected a ceasefire proposal from U.S. President Trump that had been delivered to Tehran by Iraq's prime minister. The mediation collapsed as Trump was threatening to escalate the conflict and was considering strikes on Iran's critical infrastructure."
+    },
+    {
+      "id": "5005528",
+      "time": "2026-07-24 07:49:12",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【構建中國產品出海核心優勢 跨境電商新生代換了一種打法】近段時間，一款精準適配歐洲老建築安裝痛點、符合歐盟嚴苛環保標準的國產行動式分體空調，在歐洲“一機難求”，成為中國產品拓展海外市場的又一典範。今年上半年，中國出口增速超過10%，已連續11個季度保持增長。海關總署副署長王軍近日在國新辦新聞釋出會上表示，出口增長的根本原因在於中國製造與全球各類需求的精準適配。在愈發激烈的海外市場競爭中，中國賣家們如何洞察並滿足市場需求？證券時報記者近期採訪多位跨境電商新生代企業負責人發現，中國賣家正憑藉敏銳的市場洞察力、極致的反應速度以及靈活的銷售策略，構建起中國產品出海的核心優勢。“新一批的跨境電商入局者換了一種打法：不靠低價，不走通貨，用真正的產品和技術創新，面向全球消費者爭取屬於自己的品牌位置。”亞馬遜中國副總裁、亞馬遜全球開店中國新賣家拓展、新興市場及企業購業務負責人宋曉俊表示，跨境電商正從一個貿易渠道，成為中國創新能力向全球展示的視窗。（證券時報）"
+    },
+    {
+      "id": "mkt:019f9161-d2e9-7aab-8e75-1d14431de3f5",
+      "time": "2026-07-24 07:48:54",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【South Korea advances cash deposit hike for single-stock leveraged ETFs by three days】The Financial Services Commission said on the 24th it will bring forward to the 31st of this month the strengthened base margin measures for single-stock leveraged ETFs originally scheduled for next month. In a supplemental plan released on the 16th, the FSC said the base margin will rise from 10 mln won to 30 mln won and must be held in cash only, a move described as intended to rapidly stabilize market demand."
+    },
+    {
+      "id": "5005527",
+      "time": "2026-07-24 07:48:21",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【日經指數或因能源成本擔憂下跌】由於能源成本上升再度引發擔憂，加之華爾街股市隔夜下跌，日本股市可能下跌。新加坡交易所的日經指數期貨下跌1.1%，報65505點。在布倫特原油兩個月來首次突破每桶100美元后，投資者正關注中東局勢的發展和油價走勢。日經指數週四上漲0.5%，至66422.60點。"
+    },
+    {
+      "id": "te:markets:569414",
+      "time": "2026-07-24 07:47:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "US Futures Steady After Selloff — US futures were little changed on Friday as investors looked to stabilize after a broad market selloff driven by soaring oil prices and disappointing earnings from major technology companies. During Thursday’s regular session, the Dow lost more than 500 points, while the S&P 500 and Nasdaq posted their biggest one-day declines since June 23, falling 1.2% and 2.2%, respectively. Brent crude climbed above $100 per barrel for the first time since late May after two Saudi oil tankers were reportedly struck in the Red Sea, intensifying concerns over Middle East supply disruptions. Meanwhile, Tesla tumbled nearly 15% after missing second-quarter earnings expectations, marking its worst daily decline since March 2025, while Alphabet fell 7% after raising its full-year capital expenditure guidance. The major indexes were also on track for weekly losses, with the Nasdaq leading the declines."
+    },
+    {
+      "id": "5005526",
+      "time": "2026-07-24 07:46:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "基準10年期日本國債期貨早盤下跌0.16點。"
+    },
+    {
+      "id": "5005525",
+      "time": "2026-07-24 07:46:51",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "日本日經平均指數期貨早盤下跌1.1%。"
+    },
+    {
+      "id": "5005524",
+      "time": "2026-07-24 07:46:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "【10個月落地近600家AI企業 張江人工智慧創新小鎮重塑AI產業轉化路徑】在上海浦東，有一片規劃面積約2平方公里的土地，集聚了近600家人工智慧（AI）垂類應用企業和3萬餘名AI從業者——張江AI創新小鎮。經過10個月的運營，小鎮公佈了最新的生態藍圖及發展座標：到2027年，集聚AI企業超800家，產業規模達650億元，30個示範應用場景落地；到2030年，落地AI企業超1000家，產業規模超1000億元。證券時報記者近日實探張江AI創新小鎮發現，這裡正以平臺賦能、生態聚變、場景落地等機制，重塑AI產業從實驗室到市場的轉化路徑。"
+    },
+    {
+      "id": "5005523",
+      "time": "2026-07-24 07:46:16",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗拒絕由美國提出的、伊拉克領導人轉交的停火協議】據伊朗與伊拉克官方訊息，伊朗於週四拒絕了由伊拉克總理轉交至德黑蘭的特朗普總統停火提議。此次調停宣告失敗之際，特朗普正揚言升級衝突、打擊伊朗關鍵基礎設施。相關官員因討論敏感國家安全事務要求匿名，他們表示，伊拉克總理阿里・扎伊迪此次出訪伊朗，是其近期前往白宮會見特朗普後的後續行動。這份停火提議的具體條款暫未對外披露。但伊朗官員表示，美方僅提出這一項方案，伊朗政府無意接受一份未能解決霍爾木茲海峽控制權爭端的臨時性協議。據當地媒體報道，扎伊迪總理率領伊拉克高階官員代表團前往德黑蘭，先後會見伊朗總統馬蘇德・佩澤希基揚、伊朗首席談判代表穆罕默德・巴蓋爾・加利巴夫准將以及伊朗外交部長阿巴斯・阿拉格奇。"
+    },
     {
       "id": "5005522",
       "time": "2026-07-24 07:44:43",
@@ -164840,50 +164926,6 @@
         "國際"
       ],
       "text": "【特朗普政府官員：美國將承辦2031年女足世界盃】據報道，一名特朗普政府高階官員週四稱，國際足聯已告知美國總統唐納德・特朗普，美國將承辦2031年國際足聯女子世界盃。白宮世界盃專項工作組執行董事安德魯・朱利安尼表示，國際足聯已通知特朗普，美國確定將舉辦這屆賽事。朱利安尼在採訪中表示：“我確認他們已經告知總統，美國會拿到2031年世界盃舉辦權，這著實是一件大好事。”但特朗普政府釋放訊號：美方能否全力配合辦好本屆賽事，部分取決於國際足聯的跨性別運動員參賽規則能否大幅靠攏美國現行政策——美國政策旨在禁止跨性別選手參與女子體育賽事。"
-    },
-    {
-      "id": "mkt:019f6d55-b9eb-7aab-8dd3-39c0d9fc2408",
-      "time": "2026-07-17 07:49:22",
-      "tags": [
-        "MKT News",
-        "CMCSA.O",
-        "DIS.O"
-      ],
-      "text": "White House communications director Zhang Zhenxi called NBC and ABC cowards, accusing the networks of trying to hide the truth and of not wanting viewers to hear it. Earlier reports said both networks would not televise Trump's prime-time address today."
-    },
-    {
-      "id": "4993078",
-      "time": "2026-07-17 07:48:21",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "10年期日本國債收益率上漲0.5個基點，至2.715%。"
-    },
-    {
-      "id": "4993077",
-      "time": "2026-07-17 07:46:27",
-      "tags": [
-        "其他"
-      ],
-      "text": "上海市氣象臺2026年07月17日07時40分發布中心城區高溫橙色預警訊號：預計今天中心城區大部的最高氣溫將超過37℃，請注意防範強高溫對城市執行、人體健康、大功率電氣裝置的不利影響，注意用火用電安全。"
-    },
-    {
-      "id": "4993076",
-      "time": "2026-07-17 07:46:20",
-      "tags": [
-        "市場"
-      ],
-      "text": "【7月16日主力資金淨流入居前影視院線股一覽】7月16日，影視院線板塊走強，其中，儒意電影、上海電影和歡瑞世紀漲停，光線傳媒漲9.52%，幸福藍海漲5.89%，橫店影視、金逸影視等個股跟漲。板塊走強核心催化來自暑期檔票房超預期，頭部影片持續拉動院線復甦。周星馳執導影片《功夫女足》上映以來，亮眼票房資料為影視板塊帶來顯著正向提振；《給阿嬤的情書》市場熱度居高不下，作為口碑黑馬持續貢獻票房增量。據證券時報·資料寶統計，11隻影視院線股在7月16日獲主力資金淨流入。儒意電影獲主力資金淨流入為1.87億元，居首；緊隨其後的是光線傳媒、歡瑞世紀，主力資金淨流入分別為1.64億元和1.28億元。"
-    },
-    {
-      "id": "4993075",
-      "time": "2026-07-17 07:46:10",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "基準10年期日本國債期貨早盤下跌0.1點。"
     }
   ]
 }
