@@ -1,7 +1,73 @@
 {
   "date": "2026-07-24",
-  "count": 326,
+  "count": 332,
   "items": [
+    {
+      "id": "te:markets:569374",
+      "time": "2026-07-24 04:13:10",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Fall as Tech Selloff Deepens — US stocks closed lower on Thursday amid deteriorating macroeconomic backdrop and renewed doubts over AI spending. The S&P 500 dropped 1.2%, the Nasdaq lost 1.9%, and the Dow Jones shed 507 points. Technology stocks came under pressure as investors questioned whether massive artificial intelligence investments will generate adequate returns. Nvidia lost 1.6% and Broadcom retreated 1.1%. Despite solid earnings, Alphabet fell % after raising its capital spending forecast, while Tesla tumbled 14.5% as profit declined despite strong electric-vehicle deliveries. Other hyperscalers also weakened, with Microsoft (-2.2%), Meta (-3.4%), Amazon (-4.6%), and Oracle (-4.6%) posting losses. Treasury yields rose as tighter naval blockades in the Middle East raised energy supply concerns and initial jobless claims fell to a 57-year low. Goldman Sachs shed 2.1%, while Visa fell 0.5%. Comcast lost 6.8% after repoting a declined in profits, while RTX added 7.3% after beating expectations."
+    },
+    {
+      "id": "5005388",
+      "time": "2026-07-24 04:12:56",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "【伊拉克總理：伊拉克不允許從其領土發起威脅伊朗的行動】據伊拉克總理新聞辦公室23日發表的宣告，當天伊拉克總理扎伊迪訪問伊朗，並在伊朗首都德黑蘭同伊朗總統佩澤希齊揚舉行會談。扎伊迪表示，伊拉克和伊朗的安全緊密相連，伊拉克絕不允許任何威脅伊朗的行動從其領土上發起。佩澤希齊揚說，安全與穩定對雙邊關係發展具有重要意義。（央視）"
+    },
+    {
+      "id": "mkt:019f909b-c352-7aab-8e73-11f88ba16054",
+      "time": "2026-07-24 04:12:34",
+      "tags": [
+        "MKT News",
+        "Important",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Iraqi PM says Iraq will not allow threats to Iran to be launched from its territory】Iraq's prime minister's office said on the 23rd that Prime Minister Zaidi visited Tehran and met Iranian President Pezeshkian. Zaidi said Iraq will not allow any action threatening Iran to be launched from its territory; Pezeshkian said security and stability are important for bilateral ties."
+    },
+    {
+      "id": "te:markets:569373",
+      "time": "2026-07-24 04:12:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Earnings",
+        "Importance 0"
+      ],
+      "text": "Hartford Financial Services earnings above expectations at 3.42 USD — Hartford Financial Services (HIG) released earnings per share at 3.42 USD, compared to market expectations of 3.22 USD."
+    },
+    {
+      "id": "mkt:019f9099-d917-7aab-8e73-0f34dbc851f5",
+      "time": "2026-07-24 04:10:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "SpaceX (SPCX.O): Citing weather, Starship's 13th flight test is scheduled for Friday, July 24."
+    },
+    {
+      "id": "mkt:019f9099-5b47-7aab-8e73-02eb33da169d",
+      "time": "2026-07-24 04:09:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "EURUSD",
+        "Impact bearish",
+        "USDJPY"
+      ],
+      "text": "【Dollar index up 0.32% to 101.445 at New York close on 23rd】The dollar index, measuring the dollar against six major currencies, rose 0.32% to 101.445 at the New York close on the 23rd. EUR/USD 1.1377, down from 1.1411; GBP/USD 1.3318, down from 1.3373. USD/JPY 163.80, up from 163.13; USD/CHF 0.8169, up from 0.8146; USD/CAD 1.4076, down from 1.4085; USD/SEK 9.7663, up from 9.7014."
+    },
     {
       "id": "5005387",
       "time": "2026-07-24 04:09:18",
