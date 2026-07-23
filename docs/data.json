@@ -1,7 +1,370 @@
 {
-  "updated": "2026-07-23 09:29:25",
-  "count": 17658,
+  "updated": "2026-07-23 09:33:22",
+  "count": 17661,
   "items": [
+    {
+      "id": "5003363",
+      "time": "2026-07-23 09:32:43",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "美容護理板塊盤初調整，依依股份跌停，愛美客、拉芳家化、珀萊雅、延江股份、華熙生物、豪悅護理等跟跌。"
+    },
+    {
+      "id": "5003362",
+      "time": "2026-07-23 09:32:31",
+      "tags": [
+        "市場"
+      ],
+      "text": "【石油概念盤初走強，中曼石油漲停】石油概念盤初走強，中曼石油漲停，和順石油、廣匯能源、中國海油、國際實業、中國石化、海南礦業等跟漲。"
+    },
+    {
+      "id": "5003361",
+      "time": "2026-07-23 09:32:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞6月就業資料公佈後，3年期國債收益率上升。"
+    },
+    {
+      "id": "5003360",
+      "time": "2026-07-23 09:31:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "受就業資料影響，澳大利亞ASX 200指數漲幅收窄至0.8%。"
+    },
+    {
+      "id": "mkt:019f8c99-5222-7aab-8e56-c68c1f90fae7",
+      "time": "2026-07-23 09:31:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bearish",
+        "Nikkei 225"
+      ],
+      "text": "Japan's 2-year bond yield rose 6bp to 1.500%, the highest since May 1995."
+    },
+    {
+      "id": "mkt:019f8c99-4fb2-7aab-8e56-bfac48217443",
+      "time": "2026-07-23 09:31:25",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-shares sports sector active: Jiaoyun Co. rose more than 5%, Zhongti Industry rose over 4%, Lisheng Sports rose over 3%. Chinese 15th Five-Year Plan for building a strong sports nation targets the sports industry to exceed 7 tln yuan by 2030."
+    },
+    {
+      "id": "te:markets:569020",
+      "time": "2026-07-23 09:31:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Heating Oil Climbs to 15-Week High — US heating oil prices rose above $4.20 per gallon, their highest level since early April, as concerns over broader supply disruptions in the Middle East intensified. Iran-backed Houthi militants claimed they fired missiles and drones at two Saudi oil tankers, raising the risk of a second chokehold on global oil supplies in the Red Sea, adding to the ongoing disruptions in the Strait of Hormuz. President Trump also warned of strikes on Iranian infrastructure in response to any attacks on ships transiting the strait. Attacks on the Caspian Pipeline Consortium's Black Sea terminal further fueled supply concerns. Meanwhile, signs of improving fuel supplies in Russia suggested refinery disruptions may be easing after Ukrainian attacks shifted away from major refining facilities. Elsewhere, EIA data showed that distillate stockpiles, which include diesel and heating oil, rose by 1.395 million barrels in the week ended July 17."
+    },
+    {
+      "id": "mkt:019f8c99-2707-7aab-8e56-b040d627eda8",
+      "time": "2026-07-23 09:31:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "【China bond futures open】At the morning open, Chinese bond futures: 2-year (TS) most-active contract unchanged; 5-year (TF) +0.02%; 10-year (T) +0.04%; 30-year (TL) +0.21%."
+    },
+    {
+      "id": "5003359",
+      "time": "2026-07-23 09:31:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "三星電機股價上漲6.9%，至1,438,000韓元。"
+    },
+    {
+      "id": "mkt:019f8c99-20f8-7aab-8e56-a8b83fbe93af",
+      "time": "2026-07-23 09:31:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "【China stock index futures open】At the morning open, main contracts: CSI 300 index futures (IF) +0.22%, SSE 50 index futures (IH) +0.05%, CSI 500 index futures (IC) +0.16%, CSI 1000 index futures (IM) +0.62%."
+    },
+    {
+      "id": "mkt:019f8c98-c0c8-7aab-8e56-a47ff29f3e65",
+      "time": "2026-07-23 09:30:48",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "China crude-related futures main contracts rose intraday: Shanghai crude main contract (SC) +4.03% at 572.4 yuan/barrel; low-sulfur fuel oil (LU) +2.41% at 4,939 yuan/ton; fuel oil +2.44% at 3,863 yuan/ton."
+    },
+    {
+      "id": "mkt:019f8c98-ae6f-7aab-8e56-99a6765da184",
+      "time": "2026-07-23 09:30:43",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude hit $89/bbl, up 2.43% intraday."
+    },
+    {
+      "id": "5003358",
+      "time": "2026-07-23 09:30:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞6月份就業人數增加76,300人；預估15,000。"
+    },
+    {
+      "id": "mkt:019f8c98-5771-7aab-8e56-948bf2bcec3a",
+      "time": "2026-07-23 09:30:21",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish",
+        "S&P500",
+        "Impact bullish",
+        "Copper"
+      ],
+      "text": "Australia June part-time employment rose by 47,000, compared with +35,200 previously."
+    },
+    {
+      "id": "5003357",
+      "time": "2026-07-23 09:30:16",
+      "tags": [
+        "其他"
+      ],
+      "text": "澳大利亞6月季調後失業率 4.4%，預期4.40%，前值4.40%。"
+    },
+    {
+      "id": "5003356",
+      "time": "2026-07-23 09:30:15",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "上海原油連續主力合約日內漲4%，現報572.40元。"
+    },
+    {
+      "id": "5003355",
+      "time": "2026-07-23 09:30:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【燃氣輪機概念走強 傑瑞股份一字漲停】早盤燃氣輪機概念大幅高開，傑瑞股份一字漲停，應流股份、聯德股份、萬澤股份、克萊特、崇德科技跟漲。"
+    },
+    {
+      "id": "mkt:019f8c98-3c5c-7aab-8e56-8ee363ba5daf",
+      "time": "2026-07-23 09:30:14",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Australia June employment change +76.3k, vs +15.0k expected; previous +40.3k."
+    },
+    {
+      "id": "mkt:019f8c98-3c04-7aab-8e56-8706b837d6fe",
+      "time": "2026-07-23 09:30:14",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Part-Time Employment (Jun) | actual 47000K | previous 35200K"
+    },
+    {
+      "id": "5003354",
+      "time": "2026-07-23 09:30:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲2%，現報88.58美元/桶。"
+    },
+    {
+      "id": "mkt:019f8c98-2514-7aab-8e56-7b10d781b985",
+      "time": "2026-07-23 09:30:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "AUDUSD",
+        "Impact bullish"
+      ],
+      "text": "Australia June full-time employment +29.3k, prior +5.2k."
+    },
+    {
+      "id": "mkt:019f8c98-2232-7aab-8e56-70af1b9a535c",
+      "time": "2026-07-23 09:30:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Australia June seasonally adjusted labour force participation rate 67.0% vs expected 66.7% and prior 66.7%."
+    },
+    {
+      "id": "mkt:019f8c98-21df-7aab-8e56-6bf18b8a8413",
+      "time": "2026-07-23 09:30:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Australia June seasonally adjusted unemployment rate 4.4% (consensus 4.4%, prior 4.4%)."
+    },
+    {
+      "id": "5003353",
+      "time": "2026-07-23 09:30:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "創業板指漲1.05%，現報3604.214點；上證指數漲0.04%，現報3868.560點；深證成指漲0.45%，現報14124.936點。"
+    },
+    {
+      "id": "5003352",
+      "time": "2026-07-23 09:30:04",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "中證1000指數期貨連續主力合約日內漲1%，現報7100.00點。"
+    },
+    {
+      "id": "5003351",
+      "time": "2026-07-23 09:30:03",
+      "tags": [
+        "市場"
+      ],
+      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續漲0.89%， 滬深300指數期貨連續漲0.48%， 中證500指數期貨連續漲0.54%， 上證50指數期貨連續漲0.52%。"
+    },
+    {
+      "id": "5003350",
+      "time": "2026-07-23 09:30:02",
+      "tags": [
+        "市場"
+      ],
+      "text": "【國債期貨開盤】 30年期主力合約漲0.28%， 10年期主力合約漲0.09%， 5年期主力合約漲0.06%， 2年期主力合約漲0.01%。"
+    },
+    {
+      "id": "mkt:019f8c98-05e8-7aab-8e56-627d5cd96926",
+      "time": "2026-07-23 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Employment (Jun) | actual 76300K | consensus 15000K | previous 40300K"
+    },
+    {
+      "id": "mkt:019f8c98-05d6-7aab-8e56-4d4fcc30b492",
+      "time": "2026-07-23 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Labour Force Participation Rate SA (Jun) | actual 67% | consensus 66.70% | previous 66.70%"
+    },
+    {
+      "id": "mkt:019f8c98-05e7-7aab-8e56-5ae0c717e936",
+      "time": "2026-07-23 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Full-Time Employment (Jun) | actual 29300K | previous 5200K"
+    },
+    {
+      "id": "mkt:019f8c98-05d7-7aab-8e56-578b96035dfd",
+      "time": "2026-07-23 09:30:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Australia | Unemployment Rate SA (Jun) | actual 4.4% | consensus 4.40% | previous 4.40%"
+    },
+    {
+      "id": "mkt:019f8c97-e8f4-7aab-8e56-4364a0c83f86",
+      "time": "2026-07-23 09:29:53",
+      "tags": [
+        "MKT News",
+        "07709.HK",
+        "Impact bullish",
+        "07747.HK"
+      ],
+      "text": "Southern 2x long SK Hynix (07709.HK) rose over 10%; Southern 2x long Samsung Electronics (07747.HK) rose over 8%."
+    },
+    {
+      "id": "5003349",
+      "time": "2026-07-23 09:29:51",
+      "tags": [
+        "公司"
+      ],
+      "text": "南方兩倍做多海力士(07709.HK)漲超10%，南方兩倍做多三星電子(07747.HK)漲超8%。"
+    },
+    {
+      "id": "5003348",
+      "time": "2026-07-23 09:29:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【深南電A、山東高速成立智慧能源新公司】企查查APP顯示，近日，深南電山高智慧能源（深圳）有限公司成立，經營範圍包含儲能技術服務；新興能源技術研發；合同能源管理；節能管理服務等。企查查股權穿透顯示，該公司由深南電A(000037)、山東高速(600350)旗下山東高速（深圳）投資有限公司共同持股。"
+    },
+    {
+      "id": "5003347",
+      "time": "2026-07-23 09:29:44",
+      "tags": [
+        "公司",
+        "觀點",
+        "原創"
+      ],
+      "text": "【花旗：騰訊股價下跌過度 遊戲業務依然穩健】花旗集團稱，騰訊股價週三下跌創造出更佳買點，市場對其第二季度遊戲收入放緩的擔憂過頭了。Alicia Yap等花旗分析師在報告中寫道，Sensor Tower資料顯示該公司第二季度的遊戲收入可能有所下降，但這並不能反映全貌，因為安卓使用者的消費行為可能有所不同。就算騰訊公佈的二季度遊戲收入令人失望，但得益於全球化不斷增強和遊戲產品組合多元化，這一波動也應該不會影響該公司遊戲業務的基礎實力。花旗預計騰訊第二季度國內遊戲收入環比下降3.9%，但同比增長8%。"
+    },
+    {
+      "id": "mkt:019f8c97-575a-7aab-8e56-39086a9d67d8",
+      "time": "2026-07-23 09:29:16",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Jereh shares hit the daily trading limit in the opening auction after a subsidiary signed a supply contract worth about 9.95 billion yuan to deliver gas-turbine power-generation units."
+    },
+    {
+      "id": "5003346",
+      "time": "2026-07-23 09:29:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【英偉達開源首個GPU加速醫療物理模擬框架】英偉達當地時間7月22日宣佈，正式開源其首個基於GPU加速的醫療物理模擬框架。該框架隸屬於英偉達Isaac for Healthcare醫療平臺，旨在幫助醫療機器人開發團隊透過高度逼真的虛擬模擬環境，模擬人體解剖結構與醫療器械的複雜物理互動，大幅提升醫療機器人的訓練、測試與研發效率。"
+    },
+    {
+      "id": "5003345",
+      "time": "2026-07-23 09:28:53",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【2025年度中央部門決算集中向社會公開】今天（23日），包括財政部、國家發展改革委、教育部等在內的中央部門將依法依規集中向社會公開2025年度決算，這是中央部門決算連續第16年公開。部門決算，是預算執行的最終結果報告，包括決算公開表、決算說明等。"
+    },
     {
       "id": "5003344",
       "time": "2026-07-23 09:27:39",
@@ -161167,332 +161530,6 @@
         "01024.HK"
       ],
       "text": "Hang Seng Tech Index rose over 1% in early trade as internet names rallied; Bilibili (09626.HK) and Alibaba (09988.HK) gained more than 4%, Kuaishou (01024.HK) rose over 3%, while Baidu (09888.HK) and JD.com (09618.HK) also advanced."
-    },
-    {
-      "id": "mkt:019f688e-560d-7aab-8db4-c6f54def54e5",
-      "time": "2026-07-16 09:33:06",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea says this year's core inflation may be slightly above its previous 2.4% forecast."
-    },
-    {
-      "id": "4991099",
-      "time": "2026-07-16 09:33:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達3％，成分股中，瀾起科技跌9.4％，中科飛測跌7.3％，拓荊科技跌5.9％，源傑科技跌5.8％。"
-    },
-    {
-      "id": "mkt:019f688e-30cc-7aab-8db4-bda9776778ef",
-      "time": "2026-07-16 09:32:56",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "Bank of Korea says house-price growth in Seoul and surrounding areas has accelerated."
-    },
-    {
-      "id": "4991098",
-      "time": "2026-07-16 09:32:52",
-      "tags": [
-        "公司"
-      ],
-      "text": "【鋰電池板塊短線走低】鋰電池板塊短線走低，鵬輝能源跌超10%，蔚藍鋰芯、德福科技、銅冠銅箔、諾德股份等跟跌。"
-    },
-    {
-      "id": "mkt:019f688e-1341-7aab-8db4-b4063897afcc",
-      "time": "2026-07-16 09:32:49",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "WTI",
-        "Impact mixed"
-      ],
-      "text": "Bank of Korea said uncertainty remains around the semiconductor industry, developments in the Middle East and shifts in the trade environment."
-    },
-    {
-      "id": "4991097",
-      "time": "2026-07-16 09:32:41",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：半導體行業、中東局勢發展、貿易環境變化仍存在不確定性。"
-    },
-    {
-      "id": "mkt:019f688d-d89d-7aab-8db4-aaeb9c66ceb4",
-      "time": "2026-07-16 09:32:34",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea: household loans rose sharply."
-    },
-    {
-      "id": "4991096",
-      "time": "2026-07-16 09:32:26",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深300指數期貨連續主力合約日內跌1%，現報4669.80點。"
-    },
-    {
-      "id": "4991095",
-      "time": "2026-07-16 09:32:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "【影視院線板塊拉昇，儒意電影漲停】影視院線板塊拉昇，儒意電影漲停，歡瑞世紀、光線傳媒、上海電影、中國電影、博納影業跟漲。"
-    },
-    {
-      "id": "4991094",
-      "time": "2026-07-16 09:32:17",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：需密切關注樓市及家庭債務增長。"
-    },
-    {
-      "id": "mkt:019f688d-75db-7aab-8db4-a488c8861af4",
-      "time": "2026-07-16 09:32:08",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea says it needs to monitor the real estate market and growth in household debt."
-    },
-    {
-      "id": "4991093",
-      "time": "2026-07-16 09:32:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：通脹壓力將繼續加大，預計將維持在目標水平之上。"
-    },
-    {
-      "id": "mkt:019f688d-3a9d-7aab-8db4-9fa58e08a163",
-      "time": "2026-07-16 09:31:53",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "BANK OF KOREA says inf pressures will continue to rise and are expected to remain above target."
-    },
-    {
-      "id": "4991092",
-      "time": "2026-07-16 09:31:44",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：預計通脹將在相當長一段時間內保持高位。"
-    },
-    {
-      "id": "mkt:019f688d-10b2-7aab-8db4-92c494cb9cd6",
-      "time": "2026-07-16 09:31:42",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea said it will assess the timing of any further rise in inflationary pressure, the trajectory of the domestic economic recovery, and implications for financial stability."
-    },
-    {
-      "id": "4991091",
-      "time": "2026-07-16 09:31:39",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：將評估通脹壓力進一步加劇的時機、國內經濟改善趨勢以及金融穩定性。"
-    },
-    {
-      "id": "4991090",
-      "time": "2026-07-16 09:31:35",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：有必要監控匯率的高波動性。"
-    },
-    {
-      "id": "mkt:019f688c-a803-7aab-8db4-8e65e4f83b00",
-      "time": "2026-07-16 09:31:16",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China government bond futures open - morning session】Front-month 2-year (TS) contract down 0.01%; 5-year (TF) down 0.02%; 10-year (T) down 0.02%; 30-year (TL) down 0.06%."
-    },
-    {
-      "id": "mkt:019f688c-a666-7aab-8db4-847eeeebfa59",
-      "time": "2026-07-16 09:31:15",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "【China stock index futures open】CSI 300 index futures (IF) main contract down 0.60%; SSE 50 index futures (IH) down 0.27%; CSI 500 index futures (IC) down 1.14%; CSI 1000 index futures (IM) down 0.92%."
-    },
-    {
-      "id": "4991089",
-      "time": "2026-07-16 09:31:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：預計今年經濟增長率將大幅超過5月預測的2.6%。"
-    },
-    {
-      "id": "mkt:019f688c-9a8b-7aab-8db4-7ddee86bc028",
-      "time": "2026-07-16 09:31:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "Shenzhen Composite Index extended early losses to around 2% in early trading."
-    },
-    {
-      "id": "4991088",
-      "time": "2026-07-16 09:31:04",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：週四的利率決定獲得一致透過。"
-    },
-    {
-      "id": "mkt:019f688c-79d5-7aab-8db4-73c537dbcd0f",
-      "time": "2026-07-16 09:31:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea expects this year's growth rate to significantly exceed its May projection of 2.6%."
-    },
-    {
-      "id": "4991087",
-      "time": "2026-07-16 09:30:59",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌2.03%，現報14478.699點；上證指數跌0.87%，現報3921.083點；創業板指跌2.63%，現報3704.726點。"
-    },
-    {
-      "id": "mkt:019f688c-4ce2-7aab-8db4-6b8fcc3b2fd3",
-      "time": "2026-07-16 09:30:52",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "Treasury Yields",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bearish"
-      ],
-      "text": "Japan 30-year government bond yield rose 5 bps to 3.805%."
-    },
-    {
-      "id": "mkt:019f688c-3cef-7aab-8db4-66b65b19243e",
-      "time": "2026-07-16 09:30:48",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea said Thursday's interest-rate decision was approved unanimously."
-    },
-    {
-      "id": "mkt:019f688c-3c00-7aab-8db4-5d7fb55b26f6",
-      "time": "2026-07-16 09:30:48",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "A-share fiber-optic sector opened lower; Changfei Optical Fiber fell more than 8%, with Zhengfan Technology, Changuang Huaxin, Changjiang Communication and Tianfu Communication also down."
-    },
-    {
-      "id": "4991086",
-      "time": "2026-07-16 09:30:32",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報24972.781點；恒生科技指數現漲1.011%。"
-    },
-    {
-      "id": "mkt:019f688b-c2ee-7aab-8db4-5147c5a34e4b",
-      "time": "2026-07-16 09:30:17",
-      "tags": [
-        "MKT News",
-        "CSI300",
-        "Impact bearish",
-        "SSE Composite"
-      ],
-      "text": "A-share CRO sector eased in early trade. Wanbang Pharmaceutical and Yinuosi slid over 6%, Pharmaron fell about 5%, while Nuosige and Yangguang Nuohe also weakened."
-    },
-    {
-      "id": "4991085",
-      "time": "2026-07-16 09:30:16",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生指數漲超1%，現報24932.160點；恒生科技指數現漲0.808%。"
-    },
-    {
-      "id": "4991084",
-      "time": "2026-07-16 09:30:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達2.67%，成分股中，瀾起科技跌7.78%，盛美上海跌6.37%，拓荊科技跌5.04%，中芯國際跌4.97%。"
-    },
-    {
-      "id": "4991083",
-      "time": "2026-07-16 09:30:03",
-      "tags": [
-        "市場"
-      ],
-      "text": "【股指期貨早盤開盤】 中證1000指數期貨連續跌0.78%， 滬深300指數期貨連續跌0.79%， 中證500指數期貨連續跌0.94%， 上證50指數期貨連續跌0.66%。"
-    },
-    {
-      "id": "4991082",
-      "time": "2026-07-16 09:30:03",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達1.21%，成分股中，戈碧迦跌5.53%，錦華新材跌4.61%，曙光數創跌3.43%，則成電子跌3.40%。"
-    },
-    {
-      "id": "4991081",
-      "time": "2026-07-16 09:30:02",
-      "tags": [
-        "市場"
-      ],
-      "text": "【國債期貨開盤】 30年期主力合約跌0.07%， 10年期主力合約基本持平， 5年期主力合約基本持平， 2年期主力合約基本持平。"
-    },
-    {
-      "id": "4991080",
-      "time": "2026-07-16 09:29:32",
-      "tags": [
-        "市場"
-      ],
-      "text": "【光纖概念板塊低開，長飛光纖跌超8%】光纖概念板塊低開，長飛光纖跌超8%，正帆科技、長光華芯、長江通訊、天孚通訊跟跌。"
     }
   ]
 }
