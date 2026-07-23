@@ -1,7 +1,297 @@
 {
-  "updated": "2026-07-23 20:51:12",
-  "count": 17879,
+  "updated": "2026-07-23 20:55:17",
+  "count": 17896,
   "items": [
+    {
+      "id": "5004859",
+      "time": "2026-07-23 20:54:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "戴安娜航運：直至2027年8月1日最低租期的總租船費率定為每日16500美元。"
+    },
+    {
+      "id": "5004858",
+      "time": "2026-07-23 20:54:19",
+      "tags": [
+        "觀點",
+        "央行",
+        "國際"
+      ],
+      "text": "摩根士丹利分析師在一份報告中表示，歐洲央行在週四維持利率不變後，可能會在9月份加息。"
+    },
+    {
+      "id": "5004857",
+      "time": "2026-07-23 20:54:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：應對能源危機的財政扶持政策需因地制宜、精準適配。"
+    },
+    {
+      "id": "mkt:019f8f0a-3ab5-7aab-8e69-f03888d65fa1",
+      "time": "2026-07-23 20:53:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President LAGARDE said fiscal measures to address the energy shock should be targeted and temporary."
+    },
+    {
+      "id": "5004856",
+      "time": "2026-07-23 20:53:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：應對能源衝擊的財政舉措應當具有臨時性。"
+    },
+    {
+      "id": "5004855",
+      "time": "2026-07-23 20:53:37",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "拉加德：針對能源衝擊出臺的財政應對措施需精準定向。"
+    },
+    {
+      "id": "mkt:019f8f09-b754-7aab-8e69-e93ca73e629b",
+      "time": "2026-07-23 20:53:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB President LAGARDE said urgent action is needed to strengthen the Eurozone economy."
+    },
+    {
+      "id": "5004854",
+      "time": "2026-07-23 20:53:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：亟需採取有力舉措提振歐元區經濟。"
+    },
+    {
+      "id": "mkt:019f8f09-6c8d-7aab-8e69-e73044025868",
+      "time": "2026-07-23 20:53:07",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "【Capital Economics: ECB offered almost no signal on next policy move】Capital Economics economist Jack Allen-Reynolds said the ECB's decision to hold rates unchanged was unsurprising and the accompanying statement offered almost no signal on the next policy move. He noted the commentary remained neutral despite recent oil price rises and that energy prices are close to the ECB's baseline assumption. Allen-Reynolds said if energy prices fall in the coming months the ECB is likely to keep rates unchanged for the year; if energy prices continue to rise another rate hike is likely. He added that if policymakers are targeting a September increase, President Lagarde could hint at that in the press conference."
+    },
+    {
+      "id": "mkt:019f8f09-4e33-7aab-8e69-d9422742c0ab",
+      "time": "2026-07-23 20:52:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said drivers of medium-term growth remain intact."
+    },
+    {
+      "id": "5004853",
+      "time": "2026-07-23 20:52:54",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "霍尼韋爾科技執行長認為中東局勢將維持現狀，戰爭不會顯著升級，供應鏈也不會受到進一步衝擊。"
+    },
+    {
+      "id": "mkt:019f8f09-3048-7aab-8e69-d01c6e24670c",
+      "time": "2026-07-23 20:52:51",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "ECB President LAGARDE said economic indicators point to continued moderate economic activity."
+    },
+    {
+      "id": "5004852",
+      "time": "2026-07-23 20:52:50",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：更高的國防支出正在支援製造業。製造業保持穩定。企業和家庭預計勞動力市場將持續弱於衝突前水平。"
+    },
+    {
+      "id": "5004851",
+      "time": "2026-07-23 20:52:37",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：短期內經濟增長將維持溫和態勢。"
+    },
+    {
+      "id": "5004850",
+      "time": "2026-07-23 20:52:27",
+      "tags": [
+        "其他"
+      ],
+      "text": "【河南濮陽啟動暴雨Ⅰ級應急響應】河南省濮陽市氣象災害防範應對指揮部發布通告，濮陽市氣象臺7月23日19時50分將暴雨橙色預警訊號升級為暴雨紅色預警訊號：預計未來3小時，濮陽市示範區所轄鄉鎮、街道降雨量將達100毫米以上。根據《濮陽市氣象災害防範應對工作機制（試行）》有關規定，濮陽市氣象災害防範應對指揮部經會商研判，決定自7月23日19時55分對示範區啟動暴雨Ⅰ級應急響應。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8f08-d414-7aab-8e69-c91a56e76d31",
+      "time": "2026-07-23 20:52:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said firms and households expect the labour market to remain weaker than pre-conflict levels."
+    },
+    {
+      "id": "5004849",
+      "time": "2026-07-23 20:52:14",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【中國建築：1-6月新籤合同總額24647億元，同比降1.5%】中國建築公告，2026年1-6月新籤合同總額（億元RMB）24647，比上年同期下降1.5%；建築業務新籤合同額（億元RMB）22911，下降1.5%；房屋建築（億元RMB）15511，增長3.7%，基礎設施7344，下降10.8%；地產業務合約銷售額（億元RMB）1736，下降0.5%，合約銷售面積（萬m2）470，下降25.8%。"
+    },
+    {
+      "id": "mkt:019f8f08-9f48-7aab-8e69-c08d86ac1b75",
+      "time": "2026-07-23 20:52:14",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish"
+      ],
+      "text": "ECB President Lagarde said higher defense spending is supporting manufacturing."
+    },
+    {
+      "id": "mkt:019f8f08-8678-7aab-8e69-bca5ec3b3cc2",
+      "time": "2026-07-23 20:52:08",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB President Lagarde said eurozone manufacturing remains stable."
+    },
+    {
+      "id": "5004848",
+      "time": "2026-07-23 20:51:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "拉加德：製造業表現保持韌性。"
+    },
+    {
+      "id": "mkt:019f8f08-492a-7aab-8e69-b2fa7932b008",
+      "time": "2026-07-23 20:51:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "France's foreign ministry spokesman urged Houthi forces to cease attacks."
+    },
+    {
+      "id": "mkt:019f8f08-3352-7aab-8e69-abfdb1c76aa8",
+      "time": "2026-07-23 20:51:46",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "ECB President Lagarde says digital services are strong, partly driven by artificial intelligence."
+    },
+    {
+      "id": "5004847",
+      "time": "2026-07-23 20:51:45",
+      "tags": [
+        "國際"
+      ],
+      "text": "法國外交部發言人：胡塞武裝襲擊沙特油輪是不負責任的行為，屬於嚴重的局勢升級。"
+    },
+    {
+      "id": "mkt:019f8f08-27dc-7aab-8e69-a68885071cb6",
+      "time": "2026-07-23 20:51:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "French foreign ministry spokesperson said a Houthi attack on a Saudi oil tanker was irresponsible and represents a serious escalation of the situation."
+    },
+    {
+      "id": "mkt:019f8f08-11f6-7aab-8e69-98a932035005",
+      "time": "2026-07-23 20:51:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said services activity has partially recovered."
+    },
+    {
+      "id": "mkt:019f8f07-f8dc-7aab-8e69-94f4dd598805",
+      "time": "2026-07-23 20:51:32",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "ECB President Lagarde said recent data show economic activity has improved."
+    },
+    {
+      "id": "5004846",
+      "time": "2026-07-23 20:51:25",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行行長拉加德：最近的資料表明經濟活動有所改善。服務業活動部分恢復。"
+    },
+    {
+      "id": "mkt:019f8f07-b198-7aab-8e69-8d81a4185f60",
+      "time": "2026-07-23 20:51:13",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "XAUUSD",
+        "Impact mixed"
+      ],
+      "text": "【Morgan Stanley: ECB likely to hike in September】Morgan Stanley analysts said that after the ECB held rates on Thursday the central bank is likely to raise rates in September. The ECB reiterated it remains well placed to respond to the energy-price shock; Morgan Stanley said this implies the ECB would consider further tightening if energy prices stay elevated, supporting a gradual policy squeeze. The ECB raised 25bps in June, and Morgan Stanley says a September hike would be consistent with its view."
+    },
+    {
+      "id": "5004844",
+      "time": "2026-07-23 20:51:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2026中國汽車論壇聚焦高質量發展】7月21日至23日，以“新開局 新機遇 新徵程——共繪汽車產業高質量發展新藍圖”為主題的“2026中國汽車論壇”在上海舉行，探討如何在複雜國內外形勢下樹立長遠信心、保持戰略定力，推動汽車產業發展由規模擴張轉向價值躍升。（新華社）"
+    },
     {
       "id": "mkt:019f8f06-f409-7aab-8e69-813aa66ac957",
       "time": "2026-07-23 20:50:25",
@@ -163539,120 +163829,6 @@
         "國際"
       ],
       "text": "埃尼石油公司執行長表示，其歐洲地區的乙烯和聚乙烯生產業務已停止運營。"
-    },
-    {
-      "id": "4992458",
-      "time": "2026-07-16 20:54:56",
-      "tags": [
-        "其他"
-      ],
-      "text": "【吳璟：二手房交易佔比過半 存量時代市場特徵全面顯現】當前，房地產交易結構正在發生深刻變化，傳統以新房銷售為主的增量交易格局正加快向新房和二手房並舉轉變，二手房交易已成為住宅交易的重要組成部分。這一轉變有其內在必然性：從供給看，龐大的城鎮存量住房規模為二手房交易提供了堅實基礎；從需求看，改善性需求已成為新增購房需求的主體，而這類需求大多透過“一買一賣”的置換模式實現，直接推動二手房交易規模擴張。值得注意的是，二手房佔比過半並非個別月份的偶然波動，2025年全年二手房交易佔比就已達到46%，今年4月以來持續處於50%以上高位，上半年整體過半是這一趨勢逐步確立的結果。（中國房地產報）"
-    },
-    {
-      "id": "mkt:019f6afe-6dd1-7aab-8dc9-65663cbc27a1",
-      "time": "2026-07-16 20:54:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Precious Metals",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "New York gold futures fell below $4,000/oz, down 1.65% intraday."
-    },
-    {
-      "id": "4992457",
-      "time": "2026-07-16 20:54:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨白銀失守56美元/盎司，日內跌3.08%。"
-    },
-    {
-      "id": "4992456",
-      "time": "2026-07-16 20:54:42",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨白銀日內跌3%，現報55.96美元/盎司。"
-    },
-    {
-      "id": "mkt:019f6afe-55e5-7aab-8dc9-5da651d8d770",
-      "time": "2026-07-16 20:54:40",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【U.S. media: Truth Social to license real-time data to Wall Street】Axios reports interim CEO Kevin McGurn said Truth Social will launch a backend Truth API offering financial services firms paid, real-time access to platform data. The API will provide live feeds of posts from the platform's top-10 trending accounts; firms paying higher fees can obtain access to additional accounts. McGurn said this is the company's first move into data licensing. Named accounts include President Trump, the White House, FBI Director Kash Patel, White House Deputy Chief of Staff Dan Scavino, and HHS Secretary Robert F. Kennedy Jr."
-    },
-    {
-      "id": "4992455",
-      "time": "2026-07-16 20:54:33",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4000美元/盎司，日內跌1.28%。"
-    },
-    {
-      "id": "4992454",
-      "time": "2026-07-16 20:54:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "紐約期銀日內跌2%，現報56.26美元/盎司。"
-    },
-    {
-      "id": "te:economy:567565",
-      "time": "2026-07-16 20:54:13",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Kyrgyzstan",
-        "Inflation Rate",
-        "Importance 0"
-      ],
-      "text": "Kyrgyzstan Inflation Rate Remains Steady — Kyrgyzstan's annual inflation rate held steady at 11.0% in June 2026, unchanged from the previous month. Price pressures accelerated for transport (12.0% vs. 11.8%), restaurants and hotels (25.7% vs. 24.4%), recreation and culture (14.0% vs. 11.5%), healthcare (11.5% vs. 11.4%), clothing and footwear (7.7% vs. 7.1%), household goods and appliances (9.8% vs. 9.3%), and alcoholic beverages and tobacco (12.1% vs. 11.7%). Price growth for education services remained elevated at 22.3%. Meanwhile, food inflation eased to 9.2% from 9.8%, while housing and utility costs slowed slightly to 9.5% from 9.7%, helping offset broader price pressures. On a monthly basis, consumer prices rose 0.7% in June, easing from a 0.8% increase in May."
-    },
-    {
-      "id": "mkt:019f6afd-b94e-7aab-8dc9-557e2f4865f9",
-      "time": "2026-07-16 20:54:00",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Europe & UK",
-        "ENI.MI",
-        "Impact bearish"
-      ],
-      "text": "ENI CEO says European ethylene and polyethylene production has stopped."
-    },
-    {
-      "id": "4992453",
-      "time": "2026-07-16 20:52:02",
-      "tags": [
-        "公司"
-      ],
-      "text": "【城投控股：2026年第二季度簽約銷售金額同比增加10.68%】城投控股公告，公司2026年第二季度新增竣工面積29494.7平方米，無新增開工面積。主要在售專案包括露香園二期、璟雲裡二期、虹盛裡、水尚華庭等，實現簽約銷售面積9822平方米，同比減少17.02%；實現簽約銷售金額13.15億元，同比增加10.68%。其中，銷售面積不包含車位，銷售金額包含車位。此外，公司主要在租專案總建築面積約55.97萬平方米，已出租經營面積約40.38萬平方米，實現租賃現金流入約1.27億元。"
-    },
-    {
-      "id": "te:markets:567562",
-      "time": "2026-07-16 20:51:50",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 2"
-      ],
-      "text": "US Futures Swing Lower — Futures for US equity indices turned lower on Thursday amid fresh volatility in the speculative chip sector and economic data that supports a hawkish Fed. Contracts for the S&P 500 dropped 0.5% and those for the Nasdaq 100 fell 1.5%, while the Dow was flat. Chip producers fell sharply, consistent with Asian counterparts on skepticism that AI hyperscalers could pull capital expenditure in coming quarters. Speculative demand in the sector was also dented by Korea prohibiting leveraged ETFs and signals of more efficient machines by ASML. Micron sank 5% while AMD, Sandisk, and Broadcom dropped around 4%. Meanwhiles, UnitedHealth surged 7% after beating earnings in its June quarter and raising its full-year guidance. New retail sales data reflected a strong US consumer net of lower fuel turnover, while low initial jobless claims extended the period of a strong labor market. The data added to bets of a Fed hike this year as more strikes between Iran and the US rekindled energy inflation."
-    },
-    {
-      "id": "4992452",
-      "time": "2026-07-16 20:51:19",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國銀行：Mythos相關安全問題是“重大隱患”。"
     }
   ]
 }
