@@ -1,7 +1,208 @@
 {
   "date": "2026-07-23",
-  "count": 2507,
+  "count": 2529,
   "items": [
+    {
+      "id": "5004515",
+      "time": "2026-07-23 18:58:58",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "黑石集團盤前漲2.73%。"
+    },
+    {
+      "id": "5004514",
+      "time": "2026-07-23 18:58:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【熵基科技：股東精英士君、精英和義已分別減持0.6649%和0.6205%】熵基科技公告，持股5%以上股東精英士君、精英和義決定提前終止本次減持計劃，剩餘未減持股份在剩餘減持期間內不再減持。2026年6月8日至7月10日，精英士君減持156.5萬股，減持均價26.64元/股，減持比例0.6649%；精英和義減持146.03萬股，減持均價26.76元/股，減持比例0.6205%。"
+    },
+    {
+      "id": "5004513",
+      "time": "2026-07-23 18:58:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【熵基科技：董事長提議以3000萬元-6000萬元回購公司股份】熵基科技公告，公司實際控制人、董事長車全宏提議使用自有資金回購公司股份，回購金額不低於人民幣3000萬元且不超過人民幣6000萬元，回購股份將用於實施員工持股計劃或股權激勵。"
+    },
+    {
+      "id": "mkt:019f8ea0-71d2-7aab-8e64-93fdc99587cd",
+      "time": "2026-07-23 18:58:27",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Wall Street (US)",
+        "BX.N",
+        "Impact bullish"
+      ],
+      "text": "US-listed shares of Blackstone (BX.N) rose 2.73% in pre-market trading."
+    },
+    {
+      "id": "5004512",
+      "time": "2026-07-23 18:58:03",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "雷普索爾執行長：我們已為上游勘探生產業務板塊在美國上市做好充分準備，但這並非我們當前的優先事項，今年也不會推進上市。"
+    },
+    {
+      "id": "mkt:019f8e9f-eaad-7aab-8e64-8ea6a7665d2f",
+      "time": "2026-07-23 18:57:52",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bullish"
+      ],
+      "text": "Blackstone (BX.N) said private equity assets under management were $454.15 bln in Q2 2026, above the market estimate of $441.97 bln."
+    },
+    {
+      "id": "mkt:019f8e9f-6c8b-7aab-8e64-87eeb1f0be08",
+      "time": "2026-07-23 18:57:20",
+      "tags": [
+        "MKT News",
+        "BX.N",
+        "Impact bullish"
+      ],
+      "text": "Blackstone (BX.N) said assets under management were $1.35 trillion in Q2 2026, above the $1.33 trillion market consensus."
+    },
+    {
+      "id": "5004511",
+      "time": "2026-07-23 18:57:16",
+      "tags": [
+        "公司"
+      ],
+      "text": "印孚瑟斯宣佈阿希什·達什將於明年4月接替帕雷克出任執行長。"
+    },
+    {
+      "id": "mkt:019f8e9f-58bc-7aab-8e64-7db726eb4efa",
+      "time": "2026-07-23 18:57:15",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "Hang Seng Index"
+      ],
+      "text": "【China Southern Power Grid backs market-value management for listed units】China Southern Power Grid said it remains positive on the long-term outlook for China’s capital markets and will implement the State-owned Assets Supervision and Administration Commission (SASAC) directive to improve listed-company quality. The company endorsed the industry value, growth potential and sector strengths of its four listed subsidiaries — Southern Grid Energy Storage, Southern Grid Energy, Southern Grid Digital and Southern Grid Technology — and said it will continue to empower these platforms, support listed companies in conducting market-value management in accordance with regulations, and act to stabilise market expectations and protect investors’ rights."
+    },
+    {
+      "id": "5004510",
+      "time": "2026-07-23 18:56:59",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【新能股份：股票交易異常波動 上半年業績預降】新能股份公告稱，公司股票於2026年7月22日和23日連續兩個交易日收盤價格漲幅偏離值累計達21.24%，屬異常波動。經核查，公司前期資訊無需更正補充，生產經營正常，未發現重大未披露資訊。控股股東寧夏電投7月2日至21日增持475萬股，佔總股本0.4172%，增持計劃已完成。公司預計2026年上半年淨利潤2300萬元 - 3400萬元，同比下降69.81%-79.58%。"
+    },
+    {
+      "id": "5004509",
+      "time": "2026-07-23 18:56:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團第二季度股息為每股1.29美元。"
+    },
+    {
+      "id": "5004508",
+      "time": "2026-07-23 18:56:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團第二季度資金流入規模為683億美元。"
+    },
+    {
+      "id": "5004507",
+      "time": "2026-07-23 18:56:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團第二季度可分配利潤為每股1.52美元。"
+    },
+    {
+      "id": "5004506",
+      "time": "2026-07-23 18:56:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團：依託人工智慧大趨勢的佈局已在多項策略中取得亮眼投資業績。"
+    },
+    {
+      "id": "5004505",
+      "time": "2026-07-23 18:56:31",
+      "tags": [
+        "宏觀",
+        "公司"
+      ],
+      "text": "【南方電網：堅定看好中國資本市場 支援上市公司依規開展各類市值管理工作】新“國九條”實施以來，我國資本市場總體呈現穩中向好發展態勢。南方電網公司堅定看好中國資本市場長遠發展前景，堅決貫徹落實國務院國資委提高上市公司質量工作部署，切實履行央企責任，積極穩定市場預期，維護廣大投資者合法權益。公司充分認可南網儲能、南網能源、南網數字、南網科技四家控股上市公司產業價值與成長潛力，各企業賽道優勢突出、經營執行穩健。公司將持續賦能上市平臺發展，支援上市公司依規開展各類市值管理工作，助力資本市場平穩健康執行。"
+    },
+    {
+      "id": "5004504",
+      "time": "2026-07-23 18:56:28",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團第二季度每股可分配收入為1.52美元，低於預期1.33美元。"
+    },
+    {
+      "id": "5004503",
+      "time": "2026-07-23 18:56:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏預計三季度高效能材料業務調整後息稅折舊攤銷前利潤約 3 億美元。"
+    },
+    {
+      "id": "5004502",
+      "time": "2026-07-23 18:56:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "匈牙利總理稱將對國家審計署的運營情況展開審查。"
+    },
+    {
+      "id": "mkt:019f8e9e-3105-7aab-8e64-7761046b31c5",
+      "time": "2026-07-23 18:55:59",
+      "tags": [
+        "MKT News",
+        "SMCI.O",
+        "Impact bearish"
+      ],
+      "text": "MIZUHO cut Super Micro Computer (SMCI.O) price target to $34 from $44."
+    },
+    {
+      "id": "5004501",
+      "time": "2026-07-23 18:55:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗銀行將特斯拉目標價從480美元下調至450美元。"
+    },
+    {
+      "id": "mkt:019f8e9d-aa0d-7aab-8e64-6b9a6ea987be",
+      "time": "2026-07-23 18:55:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Mizuho cut its PT on Tesla (TSLA.O) to $450 from $480."
+    },
+    {
+      "id": "5004500",
+      "time": "2026-07-23 18:54:51",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【南華期貨：境外子公司新增證券等業務資質】南華期貨公告稱，公司境外全資子公司南華新加坡近日取得新加坡金融管理局換髮的《資本市場服務牌照》。更新後，其業務範圍新增資本市場產品交易（證券、集體投資計劃份額）、產品融資、提供託管服務。此次業務資質擴充完善了公司境外業務矩陣，有助於深化其在東南亞市場佈局及完善國際化綜合金融服務能力。"
+    },
     {
       "id": "5004499",
       "time": "2026-07-23 18:53:31",
