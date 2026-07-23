@@ -1,7 +1,187 @@
 {
   "date": "2026-07-23",
-  "count": 2809,
+  "count": 2827,
   "items": [
+    {
+      "id": "mkt:019f8ee1-1cd2-7aab-8e67-1324f3a8fddf",
+      "time": "2026-07-23 20:09:05",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【CSRC holds party‑building and regulatory work forum】The China Securities Regulatory Commission said at a party‑building and regulatory forum that accelerating global shifts and persistent geopolitical conflict have increased the risk of cross‑market contagion, while a new wave of technological and industrial change plus accumulating positive macro, fundamental and liquidity factors — and ongoing capital‑market reform — have improved market allocation value. The CSRC urged maintaining confidence and the steady‑progress policy stance, balancing local vs. overall priorities, policy stability vs. flexibility, stock vs. incremental measures, and fairness vs. efficiency; it called for proactive adaptation, decisive problem‑solving, completion of this year’s targets and a strong start to the 15th Five‑Year period for China’s capital markets."
+    },
+    {
+      "id": "mkt:019f8ee0-e8d6-7aab-8e67-0b02d49f6d02",
+      "time": "2026-07-23 20:08:52",
+      "tags": [
+        "MKT News",
+        "S&P500",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【ZELENSKIY says Ukraine–US–Russia meeting expected before autumn】Ukrainian President ZELENSKIY told a Kyiv press briefing on the 23rd that a three-way meeting between Ukraine, the US and Russia is expected before autumn. He said he received US proposals after phone calls with US presidential envoy Witkoff and Kushner, and that Washington will discuss those proposals with Russia."
+    },
+    {
+      "id": "5004721",
+      "time": "2026-07-23 20:08:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【阿斯頓·馬丁宣佈完成一項5.5億英鎊的債務融資】當地時間7月22日，阿斯頓·馬丁宣佈完成一項總額5.5億英鎊的新債務融資，其中包括一筆4.5億英鎊的高階擔保定期貸款和一筆1億英鎊的延遲提取定期貸款，此次融資由HPS Investment Partners牽頭。此外，公司還獲得了1億英鎊的新增債務額度。阿斯頓·馬丁表示，本次融資以集團新設子公司內的部分資產及其他集團資產作為擔保，旨在增強財務實力並支援長期增長目標。"
+    },
+    {
+      "id": "5004720",
+      "time": "2026-07-23 20:08:23",
+      "tags": [
+        "其他"
+      ],
+      "text": "自由港：本季度工廠停工及復產修復費用合計2.84億美元。"
+    },
+    {
+      "id": "5004719",
+      "time": "2026-07-23 20:07:56",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【貝萊德稱高企的美債收益率為投資者提供穩健的抗跌保護】貝萊德表示，在收益率維持高位之際，美國國債正為投資者提供較強的抗跌保護。貝萊德資深投資組合經理Chi Chen在該公司第三季度固定收益展望中寫道，預計今年上半年之後通脹和經濟增長都將放緩。這一變化，加上人工智慧帶來的廣泛影響及經濟環境演變，正在固定收益市場創造“更豐富的投資機會”。Chen表示，10年期以內美國國債收益率遠高於4%，更長期限國債收益率則高於5%，意味著投資者持有債券所獲得的補償更高。同時，當前市場估值“愈發具有吸引力”。貝萊德作出上述判斷之際，30年期美債收益率的水平令一些投資者擔心不斷增加的債務和頑固的通脹。"
+    },
+    {
+      "id": "5004718",
+      "time": "2026-07-23 20:07:43",
+      "tags": [
+        "公司"
+      ],
+      "text": "納斯達克執行長：IPO環境強勁。"
+    },
+    {
+      "id": "5004717",
+      "time": "2026-07-23 20:07:35",
+      "tags": [
+        "國際"
+      ],
+      "text": "【澤連斯基稱烏美俄代表會晤預計將於秋季前舉行】烏克蘭總統澤連斯基23日在基輔舉行的新聞釋出會上表示，烏克蘭、美國和俄羅斯的三方會晤預計將在今年秋季前舉行。澤連斯基表示，在與美國總統特使威特科夫和特朗普女婿庫什納通電話後，他收到了美方提出的一些建議，美方隨後將與俄羅斯方面就這些建議進行討論。（央視新聞）"
+    },
+    {
+      "id": "5004716",
+      "time": "2026-07-23 20:07:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學：二季度透過降本增效舉措實現超3億美元收益。"
+    },
+    {
+      "id": "mkt:019f8edf-3689-7aab-8e67-019610fd1b92",
+      "time": "2026-07-23 20:07:00",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "CNH"
+      ],
+      "text": "【China's SAMR targets improper credit-evaluation barriers in regional bidding】As part of implementing central directives to deepen a unified national market, the State Administration for Market Regulation launched a special campaign in May to remove obstacles to market integration and fair competition, targeting four problem types including misuse of credit evaluations to create hidden regional barriers in bidding and procurement. On July 23 SAMR published interim results, saying the improper credit-evaluation barriers and related issues have been effectively rectified and announcing associated cases."
+    },
+    {
+      "id": "5004715",
+      "time": "2026-07-23 20:06:53",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉盤前跌幅擴大至7.4%。"
+    },
+    {
+      "id": "mkt:019f8ede-db84-7aab-8e66-fd7967786785",
+      "time": "2026-07-23 20:06:37",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Copper",
+        "XAUUSD"
+      ],
+      "text": "Freeport-McMoRan expects consolidated sales in 2026 of 3.1 mln lb copper, 650k oz gold and 93 mln lb molybdenum."
+    },
+    {
+      "id": "5004714",
+      "time": "2026-07-23 20:06:17",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "美國T-Mobile高管：公司預計第三季度後付費使用者淨增約25萬戶。"
+    },
+    {
+      "id": "5004713",
+      "time": "2026-07-23 20:06:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "自由港麥克莫蘭公司：已明確機會可將其位於亞利桑那州西北部的巴格達銅礦專案的選礦廠產能提升一倍以上。"
+    },
+    {
+      "id": "mkt:019f8ede-248d-7aab-8e66-f02f109176bb",
+      "time": "2026-07-23 20:05:50",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Precious Metals",
+        "Industrial Metals",
+        "Copper",
+        "XAUUSD"
+      ],
+      "text": "Freeport-McMoRan expects Q3 consolidated sales volumes of 710 mln lb copper, 123k oz gold and 25 mln lb molybdenum."
+    },
+    {
+      "id": "5004712",
+      "time": "2026-07-23 20:05:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【ST新華錦：解決資金佔用風險 但仍存多項不確定性】ST新華錦公告稱，公司股票自2026年4月27日起被實施其他風險警示。4月20日，公司解決了新華錦集團及其關聯方資金佔用問題，上交所已撤銷相關其他風險警示。公司將持續健全內控制度。此外，若連續2個會計年度內控審計報告被出具否定意見，公司股票將被實施退市風險警示；公司及實控人因信披違規被立案，行政處罰結果待定；控股股東等公司重整招募投資人，公司控制權變更存不確定性。"
+    },
+    {
+      "id": "mkt:019f8edd-883f-7aab-8e66-eaef1a979233",
+      "time": "2026-07-23 20:05:10",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Precious Metals",
+        "FCX.O",
+        "Impact bullish",
+        "Copper",
+        "XAUUSD"
+      ],
+      "text": "Freeport-McMoRan reported Q2 realized average prices: copper $6.17/lb, gold $4,520/oz, molybdenum $28.75/lb."
+    },
+    {
+      "id": "mkt:019f8edd-6f1e-7aab-8e66-e3df1744814b",
+      "time": "2026-07-23 20:05:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Macro & Rates",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB due to announce its interest rate decision in 10 minutes."
+    },
+    {
+      "id": "5004711",
+      "time": "2026-07-23 20:04:56",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "納斯達克執行長在財報電話會議上表示：依託企業盈利韌性強勁、人工智慧與數字基礎設施持續投入、居民消費態勢向好，美國經濟整體環境向好，公司業務將持續穩健運營。"
+    },
     {
       "id": "mkt:019f8edd-448c-7aab-8e66-db5e985365bd",
       "time": "2026-07-23 20:04:53",
