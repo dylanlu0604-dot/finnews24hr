@@ -1,7 +1,41 @@
 {
-  "updated": "2026-07-23 13:26:21",
-  "count": 17568,
+  "updated": "2026-07-23 13:30:28",
+  "count": 17562,
   "items": [
+    {
+      "id": "5003643",
+      "time": "2026-07-23 13:27:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "韓國交易所啟動SIDECAR機制，暫停KOSDAQ程式化買盤。"
+    },
+    {
+      "id": "5003642",
+      "time": "2026-07-23 13:27:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍週四清晨空襲了伊朗西部基亞爾地區。"
+    },
+    {
+      "id": "mkt:019f8d70-ea86-7aab-8e5a-d4314bce54c1",
+      "time": "2026-07-23 13:26:55",
+      "tags": [
+        "MKT News",
+        "005380.KS"
+      ],
+      "text": "Hyundai Motor says it does not plan to revise its 2026 operating profit margin target."
+    },
+    {
+      "id": "5003641",
+      "time": "2026-07-23 13:26:33",
+      "tags": [
+        "其他"
+      ],
+      "text": "現代汽車：不打算調整2026年營業利潤率目標。"
+    },
     {
       "id": "5003640",
       "time": "2026-07-23 13:25:19",
@@ -160610,98 +160644,6 @@
         "市場"
       ],
       "text": "中材科技觸及跌停，成交額29.81億元，封單337手。"
-    },
-    {
-      "id": "4991454",
-      "time": "2026-07-16 13:30:24",
-      "tags": [
-        "公司",
-        "焦點"
-      ],
-      "text": "臺積電第二季度淨利潤7,066億元臺幣，預估6,237.3億元臺幣。"
-    },
-    {
-      "id": "4991453",
-      "time": "2026-07-16 13:30:05",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "甲醇連續主力合約日內跌1%，現報2612.00元。"
-    },
-    {
-      "id": "te:markets:567413",
-      "time": "2026-07-16 13:29:27",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Indonesia",
-        "Currency",
-        "Importance 1"
-      ],
-      "text": "Rupiah Extends Winning Streak as Dollar Retreats — The Indonesian rupiah firmed to around IDR 18,000 per U.S. dollar on Thursday, strengthening for a third session as the U.S. dollar eased further after softer U.S. inflation reduced bets of an imminent Fed rate hike. Locally, sentiment was underpinned by government plans to intensify measures to stabilise food prices and curb inflation amid El Niño-related supply risks. In June, annual inflation accelerated, moving closer to the upper end of Bank Indonesia's 1-1/2%-3-1/2% target band. However, gains were capped by elevated crude oil prices, which renewed concerns over the import bill. Traders also stayed cautious as higher non-subsidized fuel costs, weak factory activity, and worries over household income and spending clouded the growth outlook. Focus now shifts to Bank Indonesia's policy meeting next week, with markets watching whether officials maintain their tightening bias after 100bp of rate hikes during May and June, as declining forex reserves continue to weigh on the currency."
-    },
-    {
-      "id": "mkt:019f6966-7d17-7aab-8dbb-0efeb7546e76",
-      "time": "2026-07-16 13:29:12",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【SocGen: Bank of Korea leaves door open for consecutive hikes】SocGen strategist Kiyong Seong says Bank of Korea Governor Shin signalled an \"indirect signal\" at a press conference after a 25bp policy-rate increase that the central bank may hike again in August. While Shin's comments were seen as \"genuinely hawkish\", markets had been pricing a more aggressive outcome—e.g. a one-off 50bp move or markedly tougher hawkish language. Seong warns that, given the policy outlook's sensitivity to imminent growth and inflation releases, bond investors may be quicker than usual to lock in gains ahead of key data."
-    },
-    {
-      "id": "4991452",
-      "time": "2026-07-16 13:28:47",
-      "tags": [
-        "國際"
-      ],
-      "text": "【阿里國際站：1-6月，其平臺移動房屋品類GMV同比增長超50%】據阿里國際站資料，今年1-6月，其平臺移動房屋品類GMV同比增長超50%，買家來源Top3為美國（佔比超20%）、澳大利亞和墨西哥。"
-    },
-    {
-      "id": "mkt:019f6966-168e-7aab-8dbb-0177c1ea79d2",
-      "time": "2026-07-16 13:28:45",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alibaba",
-        "BABA.N",
-        "Impact bullish",
-        "9988.HK"
-      ],
-      "text": "【Alibaba International Station: mobile-homes GMV +>50% YoY Jan–Jun】Alibaba International Station data show Jan–Jun GMV for the mobile homes category rose over 50% YoY; top buyer origins were the US (over 20%), Australia and Mexico."
-    },
-    {
-      "id": "mkt:019f6965-7997-7aab-8dba-fcc7365fdd5e",
-      "time": "2026-07-16 13:28:05",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "China A-share non-metal materials sector slipped intraday; Jinbo, Sanxiang New Materials, Liliang Diamond, Shiying and Tianma New Materials stocks fell."
-    },
-    {
-      "id": "4991451",
-      "time": "2026-07-16 13:27:29",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國KOSPI指數跌幅收窄至不足5%，市場預期將出臺ETF相關措施。"
-    },
-    {
-      "id": "4991450",
-      "time": "2026-07-16 13:26:34",
-      "tags": [
-        "公司"
-      ],
-      "text": "非金屬材料板塊短線走低，金博股份、三祥新材、力量鑽石、石英股份、天馬新材等走低。"
-    },
-    {
-      "id": "4991449",
-      "time": "2026-07-16 13:26:25",
-      "tags": [
-        "其他"
-      ],
-      "text": "烏干達稱最後一名埃博拉患者即將出院。"
     }
   ]
 }
