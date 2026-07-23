@@ -1,7 +1,23 @@
 {
-  "updated": "2026-07-24 01:53:12",
-  "count": 17999,
+  "updated": "2026-07-24 01:57:10",
+  "count": 17989,
   "items": [
+    {
+      "id": "5005289",
+      "time": "2026-07-24 01:54:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯國防部通報稱，俄防空系統在一天內擊落了172架烏克蘭無人機，目標分佈在俄羅斯多地以及黑海和亞速海水域上空。"
+    },
+    {
+      "id": "5005288",
+      "time": "2026-07-24 01:52:41",
+      "tags": [
+        "資料"
+      ],
+      "text": "AMD： Cerebras計劃在其資料中心部署AMD Helios晶片，聯合解決方案預計將於2026年下半年率先透過Cerebras雲服務上線 。"
+    },
     {
       "id": "5005287",
       "time": "2026-07-24 01:52:11",
@@ -164768,110 +164784,6 @@
         "The Fed (FOMC)"
       ],
       "text": "The Fed's Logan said Fed chair Kevin Warsh, like former chair Powell, has shown deep dedication to the Federal Reserve."
-    },
-    {
-      "id": "4992845",
-      "time": "2026-07-17 01:57:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "洛根：期待聽到沃什工作組的調查結果。"
-    },
-    {
-      "id": "4992844",
-      "time": "2026-07-17 01:56:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "洛根：美聯儲會議及其結構和以資料為導向的重點沒有絲毫改變。"
-    },
-    {
-      "id": "mkt:019f6c12-a4d1-7aab-8dcf-45397675e488",
-      "time": "2026-07-17 01:56:28",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Iranian Fars News reported Jordan’s foreign minister said the United States has no military bases in Jordan but does have US personnel stationed there as part of Jordan‑Washington military cooperation."
-    },
-    {
-      "id": "4992843",
-      "time": "2026-07-17 01:56:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "洛根：從鮑威爾到沃什的主席過渡非常順利。"
-    },
-    {
-      "id": "4992842",
-      "time": "2026-07-17 01:56:11",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "洛根：沃什與鮑威爾一樣，對美聯儲這一機構有著極大的奉獻精神。"
-    },
-    {
-      "id": "4992841",
-      "time": "2026-07-17 01:55:54",
-      "tags": [
-        "國際"
-      ],
-      "text": "約旦外交部長：美國在約旦沒有任何基地，但美國士兵作為約旦與華盛頓之間軍事合作的一部分，現身於我國。"
-    },
-    {
-      "id": "mkt:019f6c12-0c16-7aab-8dcf-3a303dcad833",
-      "time": "2026-07-17 01:55:49",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says it is closely monitoring a foodborne illness outbreak."
-    },
-    {
-      "id": "mkt:019f6c11-c4f2-7aab-8dcf-31996925b053",
-      "time": "2026-07-17 01:55:31",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy",
-        "WTI",
-        "Brent"
-      ],
-      "text": "White House says U.S. actions have helped stabilize global oil markets."
-    },
-    {
-      "id": "mkt:019f6c11-7517-7aab-8dcf-2cae4a70d118",
-      "time": "2026-07-17 01:55:11",
-      "tags": [
-        "MKT News",
-        "Macro & Rates"
-      ],
-      "text": "Fed's LOGAN says the scale and timing of AI-driven productivity gains remain uncertain."
-    },
-    {
-      "id": "4992840",
-      "time": "2026-07-17 01:54:53",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "【烏克蘭議會批准新一屆內閣成員名單】烏克蘭議會批准新一屆內閣成員名單，264名議員投票贊成上一屆內閣辭職並批准任命新一屆內閣成員。當天獲批名單不包括國防部長和外交部長，這兩個職務人選將由總統提名。6名前內閣成員得以繼續留任，包括第一副總理兼能源部長傑尼斯·什梅加爾、負責人道主義政策的副總理兼文化部長捷季揚娜·別列日娜、財政部長謝爾蓋·馬爾琴科和衛生部長維克托·利亞什科。此前擔任烏駐歐盟代表的弗謝沃洛德·琴佐夫被任命為負責涉歐洲事務的副總理。（新華社）"
-    },
-    {
-      "id": "4992839",
-      "time": "2026-07-17 01:54:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "白宮：正在監測農產品疫情。"
-    },
-    {
-      "id": "mkt:019f6c10-026e-7aab-8dcf-23b497ba4c02",
-      "time": "2026-07-17 01:53:36",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "White House says Trump will address Iran in a speech tonight, scheduled for 09:00 Beijing time."
     }
   ]
 }
