@@ -1,7 +1,99 @@
 {
   "date": "2026-07-23",
-  "count": 3014,
+  "count": 3025,
   "items": [
+    {
+      "id": "te:economy:569300",
+      "time": "2026-07-23 20:46:01",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Mexico",
+        "Monthly GDP YoY",
+        "Importance 1"
+      ],
+      "text": "Mexico Economic Growth Slows in May — Mexico's economic activity rose 1.1% year-on-year in May 2026, matching forecasts but easing from an upwardly revised 2.6% increase in April. The primary sector led growth, expanding 7.6% as agricultural output increased 8.7% and livestock production rose 5.0%. The tertiary sector advanced 1.7%, driven by wholesale trade (8.8%), government activities (4.9%), healthcare and social services (2.9%), and financial services and insurance (2.6%). Meanwhile, the secondary sector contracted 0.7%, as declines in manufacturing (-1.5%), utilities (-0.9%), and construction (-0.3%) outweighed a 3.9% increase in mining. On a monthly basis, economic activity fell 0.3% after rising 1.4% in April."
+    },
+    {
+      "id": "5004826",
+      "time": "2026-07-23 20:45:44",
+      "tags": [
+        "其他"
+      ],
+      "text": "【水利部：積極探索、規範推進非常規水用水權交易】7月23日，水利部黨組書記、部長李國英主持召開部務會議，研究華北等重點區域地下水超採綜合治理、非常規水開發利用專案實施工作。會議要求，要全面落實水資源剛性約束制度和《節約用水條例》，加強水資源總量管理和全面節約，將非常規水納入水資源統一配置體系，根據非常規水利用需求、潛力、分佈，因地制宜推進再生水、集蓄雨水、礦坑（井）水、鹹水等非常規水開發利用，積極探索、規範推進非常規水用水權交易，健全技術標準體系，加快提升非常規水開發利用能力。要建立健全專案管理制度機制，加強專案“儲備、評審、實施、評價”全生命週期動態管理，創新投融資和運營機制，推動“投資—生產—配置—利用”全鏈條順暢銜接，確保資金使用規範安全、專案如期建成併發揮效益。"
+    },
+    {
+      "id": "5004825",
+      "time": "2026-07-23 20:45:19",
+      "tags": [
+        "其他"
+      ],
+      "text": "【三百多名乘客被困機艙超10小時，阿聯酋航空致歉】7月23日，阿聯酋航空釋出致歉信：原計劃於7月22日從迪拜飛往上海的阿聯酋航空EK302航班，因惡劣天氣條件備降杭州。隨後，航班因技術故障進一步長時間延誤。所有乘客均已下機，且我們已根據乘客意願安排了餐食、酒店住宿以及返回上海的班車服務。對於因此造成的不便，阿聯酋航空深表歉意。我們理解乘客對此事件處理方式的不滿，我們的客戶事務團隊將與受影響的乘客聯絡處理。據瀟湘晨報報道，多名乘客反映，7月22日乘坐阿聯酋航空EK302航班從迪拜飛上海浦東，後於當晚9時許備降至杭州蕭山國際機場，三百多名乘客被困機艙內12小時，期間空調故障，有人因高溫暈倒。"
+    },
+    {
+      "id": "mkt:019f8f02-0a4b-7aab-8e69-6be6f2752883",
+      "time": "2026-07-23 20:45:03",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "Blackstone (BX.N) president Gray said trading in non-AI companies will remain subdued for some time."
+    },
+    {
+      "id": "5004824",
+      "time": "2026-07-23 20:44:19",
+      "tags": [
+        "公司"
+      ],
+      "text": "黑石集團： 短期內非人工智慧企業相關併購交易將趨於冷清。"
+    },
+    {
+      "id": "5004823",
+      "time": "2026-07-23 20:43:33",
+      "tags": [
+        "公司"
+      ],
+      "text": "【江蘇展芯：首次公開發行股票並在創業板上市提示投資風險】江蘇展芯公告稱，公司首次公開發行4112萬股股票，佔發行後股份總數10%，發行價23.45元/股，對應2025年扣非後攤薄市盈率44.23倍，低於行業平均。發行採用戰略配售、網下和網上發行相結合的方式，7月27日申購。戰略配售股份佔30%，網上發行股票無流通限制，網下部分10%限售6個月，戰略配售限售12個月。公司提請投資者關注投資風險，審慎決策。"
+    },
+    {
+      "id": "5004822",
+      "time": "2026-07-23 20:43:10",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學表示，尤其是建築施工終端市場的基本面整體仍疲軟。"
+    },
+    {
+      "id": "5004821",
+      "time": "2026-07-23 20:42:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "安聯首席顧問埃爾埃利安：剛剛公佈的周度初請失業金資料為美國勞動力市場的韌性提供了進一步證據。"
+    },
+    {
+      "id": "5004820",
+      "time": "2026-07-23 20:42:33",
+      "tags": [
+        "央行",
+        "公司",
+        "觀點"
+      ],
+      "text": "【央行將開展5000億元MLF操作】7月23日，央行釋出2026年7月中期借貸便利（MLF）招標公告稱，為保持銀行體系流動性充裕，2026年7月24日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展5000億元MLF操作，期限為1年期。“當月MLF到期4000億元，本次操作將實現1000億元流動性投放。”中信證券首席經濟學家明明分析。此外，當月6月期買斷式逆回購淨投放5000億元，3月期買斷式逆回購則是淨投放2000億元。結合本次MLF1000億元淨投放，截至目前，本月實現8000億元中期流動性投放。東方金誠首席宏觀分析師王青談到，7月MLF續作加量1000億元，為連續第三個月加量續作，加量規模較上月減少1000億元，基本符合市場預期。考慮到7月兩個期限品種的買斷式逆回購加量7000億元，這意味著當月央行中期流動性操作合計加量8000億元，扭轉了此前連續四個月的縮量勢頭，且7月三個中期流動性工具全面恢復淨投放。“此舉主要是為了對沖三季度政府債券加速發行、跨月資金需求上升以及稅期擾動等因素帶來的資金缺口，切實維護銀行體系流動性的合理充裕，保持金融市場平穩執行。”招聯首席經濟學家董希淼解釋。（金融時報）"
+    },
+    {
+      "id": "te:economy:569298",
+      "time": "2026-07-23 20:42:11",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United States",
+        "Initial Jobless Claims",
+        "Importance 2"
+      ],
+      "text": "US Initial Jobless Claims Plunge to 57-Year Low — The number of people claiming unemployment benefits in the US fell sank by 22,000 to 187,000 on the week to July 18th, well under expectations that it would increase to 212,000, for the lowest claim count in nearly 60 years. Continuing claims, which are seen as a gauge of outstanding unemployment in the US, fell by 2,000 to 1,796,000 on the previous week following an aggressive downward revision to the first period of July. The data continued to reflect a strong labor market in the US, aligned with statements from FOMC members that see the US economy in full employment."
+    },
     {
       "id": "mkt:019f8eff-2ad7-7aab-8e69-64bbbbdc2973",
       "time": "2026-07-23 20:41:54",
@@ -536,6 +628,16 @@
         "市場"
       ],
       "text": "美元兌日元上漲0.28%，報163.59。"
+    },
+    {
+      "id": "5004788",
+      "time": "2026-07-23 20:31:24",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行維持利率不變，但為9月加息保留空間】歐洲央行週四如預期般維持利率不變，但為9月再次加息留了空間，因為能源價格的進一步上漲可能使通脹率持續高於2%的目標。歐洲央行在6月加息，並暗示未來可能進一步加息，但此後數週內物價、工資、經濟活動和通脹預期等資料均表現平穩，使得後續的緊縮措施變得不那麼緊迫。隨著美國與伊朗再度爆發衝突，油價已回升至每桶近100美元，這持續施壓歐洲央行行動。金融投資者和市場經濟學家預計，該行在下次會議上將採取行動，以阻止能源危機引發更廣泛的物價上漲。天然氣價格在最近幾個月一直保持相對低位，如今也已升至三年多來的最高水平，進一步加劇了價格壓力。歐洲央行在一份宣告中表示：“不確定性仍然很高，能源衝擊帶來的全面通脹影響尚未完全顯現。因此，管委會正在密切監測衝擊的強度和持續時間，以及其間接和二次傳導效應。”"
     },
     {
       "id": "5004787",
