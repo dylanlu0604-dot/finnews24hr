@@ -1,7 +1,24 @@
 {
   "date": "2026-07-24",
-  "count": 352,
+  "count": 354,
   "items": [
+    {
+      "id": "5005395",
+      "time": "2026-07-24 04:47:32",
+      "tags": [
+        "國際"
+      ],
+      "text": "【巴西全力挽救對歐盟18億美元的肉類出口】巴西正緊急採取行動，以避免其動物產品對歐盟的出口遭到禁令。作為全球最大的牛肉和家禽出口國，其超過18億美元的貿易額正面臨風險。一位瞭解談判情況的巴西高階外交官表示，該國正在9月3日的最後期限前，與歐盟交換資訊並提供額外保證，以證明其符合歐盟關於在畜牧業中使用抗菌藥物的標準。在5月份公佈的一份授權出口國名單中，巴西未能上榜。"
+    },
+    {
+      "id": "mkt:019f90ba-b20f-7aab-8e73-64d1e939066d",
+      "time": "2026-07-24 04:46:22",
+      "tags": [
+        "MKT News",
+        "LMT.O"
+      ],
+      "text": "SEC filing shows Lockheed Martin received about $140 mln in refunds tied to prior tariff assessments in the six months ended June 28. The company currently expects the tariffs will not have a material long-term impact on operating results."
+    },
     {
       "id": "mkt:019f90b8-ef33-7aab-8e73-5d84e4a75ada",
       "time": "2026-07-24 04:44:26",
