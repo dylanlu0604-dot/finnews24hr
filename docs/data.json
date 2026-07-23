@@ -1,7 +1,329 @@
 {
-  "updated": "2026-07-23 20:13:39",
-  "count": 17842,
+  "updated": "2026-07-23 20:17:50",
+  "count": 17855,
   "items": [
+    {
+      "id": "5004747",
+      "time": "2026-07-23 20:16:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報91.24美元/桶。"
+    },
+    {
+      "id": "5004746",
+      "time": "2026-07-23 20:16:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：不確定性仍處於高位，能源衝擊對通脹的全部影響尚未完全顯現。"
+    },
+    {
+      "id": "mkt:019f8ee7-da92-7aab-8e67-d6a3f2c647ad",
+      "time": "2026-07-23 20:16:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says it is closely monitoring indirect and second‑round effects."
+    },
+    {
+      "id": "5004745",
+      "time": "2026-07-23 20:16:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：管委會目前正密切監測此次衝擊的強度、持續時長，及其間接影響與第二輪效應。"
+    },
+    {
+      "id": "mkt:019f8ee7-ba11-7aab-8e67-cffd061d1ebf",
+      "time": "2026-07-23 20:16:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says it is closely monitoring the intensity and duration of the shock."
+    },
+    {
+      "id": "5004744",
+      "time": "2026-07-23 20:16:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：利率決策將基於其對通脹前景及相關風險的評估作出。"
+    },
+    {
+      "id": "mkt:019f8ee7-93c3-7aab-8e67-c26f4aca7cbf",
+      "time": "2026-07-23 20:16:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB says uncertainty remains elevated."
+    },
+    {
+      "id": "mkt:019f8ee7-8d5f-7aab-8e67-bfab029d33d6",
+      "time": "2026-07-23 20:16:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European Central Bank says the outlook for energy prices is close to its June baseline projection."
+    },
+    {
+      "id": "5004743",
+      "time": "2026-07-23 20:16:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國神華：定州三期6號機組、滄東三期6號機組透過168小時試執行】中國神華(601088.SH)公告稱，公司定州三期6號機組、滄東三期6號機組均順利透過168小時試執行，正式轉入商業運營。兩臺機組執行平穩，環保指標優秀，實現大氣汙染物超低排放及廢水零排放。投運後，預計每年可供應清潔高效電能約119億千瓦時、採暖供熱量約2014萬吉焦，將有效緩解京津冀地區電力熱力保供壓力。"
+    },
+    {
+      "id": "mkt:019f8ee7-7813-7aab-8e67-b2969cdc766c",
+      "time": "2026-07-23 20:16:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB says the inflationary impact of the broad energy shock has not yet materialized."
+    },
+    {
+      "id": "5004742",
+      "time": "2026-07-23 20:15:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，其利率決定將尤其基於以下因素作出：結合最新經濟與金融資料，對通脹前景及其相關風險的評估，同時還會考量核心通脹走勢以及貨幣政策傳導的效力。"
+    },
+    {
+      "id": "mkt:019f8ee7-6202-7aab-8e67-ae30f032aac8",
+      "time": "2026-07-23 20:15:56",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB says it will base policy decisions on the inflation outlook and associated risks."
+    },
+    {
+      "id": "5004741",
+      "time": "2026-07-23 20:15:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，將採取依資料調整、逐次會議評估的方式確定合適的貨幣政策立場。"
+    },
+    {
+      "id": "5004740",
+      "time": "2026-07-23 20:15:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，目前不確定性仍處於高位，能源衝擊對通脹的全部影響尚未完全顯現。"
+    },
+    {
+      "id": "5004739",
+      "time": "2026-07-23 20:15:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，透過今日的決議，歐洲央行仍處於有利地位，足以應對沖突引發的不確定性。"
+    },
+    {
+      "id": "mkt:019f8ee7-4084-7aab-8e67-a3ee616169b8",
+      "time": "2026-07-23 20:15:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB says its Governing Council stands ready to adjust all instruments at any time."
+    },
+    {
+      "id": "mkt:019f8ee7-28ff-7aab-8e67-9cf67609d138",
+      "time": "2026-07-23 20:15:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Euro area ECB marginal lending facility rate 2.65% as of July 23; expected 2.65%, prior 2.65%."
+    },
+    {
+      "id": "mkt:019f8ee7-1e34-7aab-8e67-9483f749a447",
+      "time": "2026-07-23 20:15:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says it will adopt a data-driven, meeting-by-meeting approach to monetary policy decisions."
+    },
+    {
+      "id": "mkt:019f8ee7-0f7c-7aab-8e67-8ec2d3e78ea1",
+      "time": "2026-07-23 20:15:35",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "European Central Bank kept rates unchanged as expected; EUR/USD was little changed on the session, trading at 1.1390."
+    },
+    {
+      "id": "5004737",
+      "time": "2026-07-23 20:15:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示：歐洲央行隨時準備在授權範圍內調整所有政策工具，以確保通脹在中期穩定在2%的目標水平，並保障貨幣政策傳導機制平穩執行。"
+    },
+    {
+      "id": "mkt:019f8ee7-0658-7aab-8e67-816341389298",
+      "time": "2026-07-23 20:15:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Marginal Lending Facility Rate (Jul.23) | actual 2.65% | consensus 2.65% | previous 2.65%"
+    },
+    {
+      "id": "5004736",
+      "time": "2026-07-23 20:15:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，由於歐元體系不再對到期證券的本金償付進行再投資，資產購買計劃（APP）以及疫情緊急購買計劃（PEPP）的投資組合正以平緩且可預判的節奏縮減。"
+    },
+    {
+      "id": "5004735",
+      "time": "2026-07-23 20:15:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，其並未預先承諾遵循特定的利率路徑。"
+    },
+    {
+      "id": "mkt:019f8ee6-dcd0-7aab-8e67-7f4327986a4c",
+      "time": "2026-07-23 20:15:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "The ECB did not pre-commit to a specific interest-rate path."
+    },
+    {
+      "id": "mkt:019f8ee6-b85a-7aab-8e67-7247fcde9c07",
+      "time": "2026-07-23 20:15:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "DXY"
+      ],
+      "text": "【ECB holds rates steady as expected】The ECB kept the deposit facility rate at 2.25% as expected; the main refinancing rate and marginal lending rate remain at 2.40% and 2.65%, respectively."
+    },
+    {
+      "id": "5004734",
+      "time": "2026-07-23 20:15:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行如期按兵不動】歐洲央行將存款機制利率維持在2.25%不變，符合市場預期，主要再融資利率和邊際貸款利率維持在2.40%和2.65%不變。"
+    },
+    {
+      "id": "mkt:019f8ee6-ad4f-7aab-8e67-69977f5bd9b6",
+      "time": "2026-07-23 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "ECB deposit facility rate for the Euro area as of July 23: 2.25% (consensus 2.25%, prior 2.25%)."
+    },
+    {
+      "id": "mkt:019f8ee6-aa79-7aab-8e67-620ebe3b4bf7",
+      "time": "2026-07-23 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Euro area — ECB main refinancing rate 2.40% as of July 23; expected 2.40%; prior 2.40%."
+    },
+    {
+      "id": "mkt:019f8ee6-901d-7aab-8e67-58ffda148832",
+      "time": "2026-07-23 20:15:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Main Refinancing Rate (Jul.23) | actual 2.4% | consensus 2.40% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019f8ee6-901a-7aab-8e67-53fac091a294",
+      "time": "2026-07-23 20:15:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Deposit Facility Rate (Jul.23) | actual 2.25% | consensus 2.25% | previous 2.25%"
+    },
+    {
+      "id": "5004733",
+      "time": "2026-07-23 20:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率觸及兩個月新高5.088%。"
+    },
+    {
+      "id": "5004732",
+      "time": "2026-07-23 20:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學稱，地緣政治對能源與原料的影響持續推動風險溢價維持在高位。"
+    },
+    {
+      "id": "5004731",
+      "time": "2026-07-23 20:14:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興業科技：子公司5500萬元收購青島立昂磷化銦業務及資產】興業科技公告稱，2026年7月23日，公司全資子公司江蘇興光與青島立昂簽署協議，以5500萬元現金收購其磷化銦業務及資產。該業務截至2026年5月31日總資產1702.46萬元，淨資產637.04萬元；2026年1 - 5月收入234.38萬元，淨虧損144.09萬元。本次收購預計對公司當期利潤影響極小，但公司缺乏半導體領域經驗，且標的過去三年未盈利，存在市場開拓、客戶認證、手續辦理等風險。"
+    },
+    {
+      "id": "5004730",
+      "time": "2026-07-23 20:14:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：英國正在尋求與侵略者結盟】伊朗外交部：英國政府無論是作為國家主體，還是作為聯合國安理會常任理事國，都未能履行其譴責美國和以色列對伊朗實施的軍事侵略和戰爭罪行的法律和道德義務。相反，英國正在尋求與侵略者結盟，並將自身地位降低為美國和以色列對伊朗人民發動的殘酷戰爭的共犯。伊朗決心捍衛其國家主權、領土完整以及國家利益和安全，抵禦外國侵略，任何以任何方式參與對伊朗軍事侵略的一方，都將對其決定的後果負責。"
+    },
+    {
+      "id": "5004729",
+      "time": "2026-07-23 20:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航錦科技：擬公開掛牌轉讓子公司中電華星51%股權】航錦科技公告稱，為聚焦算力產業發展，全資子公司威科電子擬透過聯交所公開掛牌轉讓持有的中電華星51%股權，交易完成後將不再持有其股權。中電華星股東全部權益評估值為9498.31萬元，51%股權首次掛牌價不低於4844.14萬元。本次交易不構成重大資產重組，交易對方、價格等尚不確定，受讓方需借款給中電華星償還對公司的1500萬元借款本金及利息。"
+    },
     {
       "id": "5004728",
       "time": "2026-07-23 20:12:47",
@@ -163120,204 +163442,6 @@
         "Impact bearish"
       ],
       "text": "Spot gold slid below $4,020/oz, down more than 1% intraday."
-    },
-    {
-      "id": "mkt:019f6adc-6ad8-7aab-8dc7-7ba384894c8b",
-      "time": "2026-07-16 20:17:37",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "REUTERS SURVEY: UAE economy projected to contract 0.5% in 2026 and expand 5.8% in 2027, versus April survey estimates of 0.0% and 5.4%."
-    },
-    {
-      "id": "mkt:019f6adc-675c-7aab-8dc7-718528743178",
-      "time": "2026-07-16 20:17:36",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "REUTERS SURVEY: Qatar, Kuwait and Bahrain are forecast to see GDP contract 8.1%, 8.1% and 5.1% YoY in 2026, versus -6.0%, -4.4% and -2.9% in April's survey."
-    },
-    {
-      "id": "4992368",
-      "time": "2026-07-16 20:17:35",
-      "tags": [
-        "公司"
-      ],
-      "text": "【零跑汽車曹力：零跑全新B01/B10是10萬級價格50萬級配置，友商明年才能追上】在今日的零跑全新B01/B10上市釋出會上，零跑汽車高階副總裁曹力發表演講。他表示，去年零跑B系列首次將鐳射雷達帶入10萬級，讓高階智慧不再是高價專屬；而此次零跑全新B01/全新B10用全新車標準打造年款車，配備包括800V長續航、雙零重力座椅、AR-HUD、17.3英寸3K中控屏。“四張王牌一次集齊，友商今天開始追，可能明年才跟上。”售價方面，零跑全新B01售價9.58萬元-11.98萬元，零跑全新B10售價9.98萬元-12.58萬元。（新浪科技）"
-    },
-    {
-      "id": "4992367",
-      "time": "2026-07-16 20:17:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "Sharon AI 計劃到2027年年中部署超過62,000塊英偉達GPU。"
-    },
-    {
-      "id": "4992366",
-      "time": "2026-07-16 20:17:21",
-      "tags": [
-        "其他"
-      ],
-      "text": "路透調查：2026年卡達、科威特和巴林經濟將分別萎縮8.1%、8.1%和5.1%（4月調查預期分別為萎縮6.0%、4.4%和2.9%）；沙烏地阿拉伯經濟2026年將增長1.4%，2027年將增長6.0%（4月調查預期分別為2.6%和4.5%）。"
-    },
-    {
-      "id": "mkt:019f6adc-087c-7aab-8dc7-6d6300203c97",
-      "time": "2026-07-16 20:17:12",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Emerging Markets"
-      ],
-      "text": "REUTERS SURVEY: Saudi Arabia's economy is forecast to grow 1.4% in 2026 and 6.0% in 2027, versus April survey forecasts of 2.6% and 4.5%."
-    },
-    {
-      "id": "4992365",
-      "time": "2026-07-16 20:17:11",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨鈀金下跌3%，至每盎司1275.75美元。"
-    },
-    {
-      "id": "4992364",
-      "time": "2026-07-16 20:17:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "路透調查：阿拉伯聯合大公國經濟2026年將萎縮0.5%，2027年將增長5.8%；4月調查的預期分別為零增長、增長5.4%。"
-    },
-    {
-      "id": "4992363",
-      "time": "2026-07-16 20:16:54",
-      "tags": [
-        "公司"
-      ],
-      "text": "【西門子醫療無錫基地二期擴建專案動工，投資超1億元】7月16日，記者從西門子醫療獲悉，西門子愛克斯射線真空技術（無錫）有限公司（簡稱“無錫基地”）二期擴建專案，在江蘇省無錫高新區正式破土動工。該專案總投資超1億元人民幣，將聚焦全新高階CT用X射線球管及高壓發生器、高階血管造影系統用X射線球管及高壓發生器的研發與生產。據西門子醫療介紹，預計該擴建專案將在兩年完成，並將在未來五年內穩步擴大生產規模。此次擴建標誌著西門子醫療在推進高階醫療裝備核心零部件本土化程序中邁出了新一步。（澎湃）"
-    },
-    {
-      "id": "4992362",
-      "time": "2026-07-16 20:16:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "紐約期金失守4020美元/盎司，日內跌0.79%。"
-    },
-    {
-      "id": "te:markets:567549",
-      "time": "2026-07-16 20:16:32",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "ProLogis earnings above expectations at 1.13 USD — ProLogis (PLD) released earnings per share at 1.13 USD, compared to market expectations of 0.77 USD."
-    },
-    {
-      "id": "4992361",
-      "time": "2026-07-16 20:16:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "現貨黃金日內跌1%，現報4019.58美元/盎司。"
-    },
-    {
-      "id": "4992360",
-      "time": "2026-07-16 20:16:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "現貨黃金失守4020美元/盎司，日內跌1.00%。"
-    },
-    {
-      "id": "4992359",
-      "time": "2026-07-16 20:16:12",
-      "tags": [
-        "市場"
-      ],
-      "text": "鈀金期貨日內跌1%，現報1278.00美元/盎司。"
-    },
-    {
-      "id": "4992358",
-      "time": "2026-07-16 20:15:54",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【威爾高：擬定增募資不超13億元用於高階AI類PCB等專案】威爾高(301251.SZ)公告稱，公司擬向特定物件發行A股股票，募集資金總額不超過13億元，扣除發行費用後用於江西年產144萬平方米高階AI類PCB智慧製造專案、泰國年產120萬平方米高多層印製電路板智慧製造專案及補充流動資金及償還銀行貸款。"
-    },
-    {
-      "id": "mkt:019f6ada-32cd-7aab-8dc7-6638e36f062a",
-      "time": "2026-07-16 20:15:12",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Canada June housing starts 239k units, below consensus 257.9k; prior reading revised down to 253.1k from 261.4k."
-    },
-    {
-      "id": "4992357",
-      "time": "2026-07-16 20:15:07",
-      "tags": [
-        "其他"
-      ],
-      "text": "加拿大6月新屋開工 23.9萬戶，預期25.79萬戶，前值由26.14萬戶修正為25.31萬戶。"
-    },
-    {
-      "id": "mkt:019f6ada-0866-7aab-8dc7-5db3ced9b874",
-      "time": "2026-07-16 20:15:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "Canada | Housing Starts (Jun) | actual 239000K | consensus 257900K | previous 261400K"
-    },
-    {
-      "id": "mkt:019f6ad9-d891-7aab-8dc7-506802bbea20",
-      "time": "2026-07-16 20:14:49",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution"
-      ],
-      "text": "July 16 — A signing ceremony for the World Artificial Intelligence Cooperation Organization agreement was held in Shanghai."
-    },
-    {
-      "id": "4992356",
-      "time": "2026-07-16 20:14:20",
-      "tags": [
-        "公司"
-      ],
-      "text": "【報告稱AI收入已達臨界點 開始證明資料中心投資的經濟合理性】研究機構Exponential View的報告顯示，來自於人工智慧(AI)的收入已達臨界點，表明科技公司在這一領域投入數千億美元在經濟上可能具有可持續性。報告顯示，超大規模雲服務商和新興雲服務商的全球AI銷售收入達到250億美元，連續第二個季度超過該行業與資料中心和晶片投資相關的估計折舊成本210億美元。這一里程碑表明，AI公司的收入開始足以覆蓋其資本開支成本，但利潤空間仍然很薄。"
-    },
-    {
-      "id": "4992355",
-      "time": "2026-07-16 20:14:09",
-      "tags": [
-        "其他",
-        "焦點"
-      ],
-      "text": "【世界人工智慧合作組織協定簽署儀式舉行】7月16日，世界人工智慧合作組織協定簽署儀式在上海舉行。（新華社）"
-    },
-    {
-      "id": "4992354",
-      "time": "2026-07-16 20:13:41",
-      "tags": [
-        "國際"
-      ],
-      "text": "小鵬汽車： 目前，歐洲已有近6萬位車主選擇小鵬。"
     }
   ]
 }

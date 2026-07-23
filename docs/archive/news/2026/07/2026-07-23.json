@@ -1,7 +1,329 @@
 {
   "date": "2026-07-23",
-  "count": 2841,
+  "count": 2876,
   "items": [
+    {
+      "id": "5004747",
+      "time": "2026-07-23 20:16:50",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲5%，現報91.24美元/桶。"
+    },
+    {
+      "id": "5004746",
+      "time": "2026-07-23 20:16:29",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：不確定性仍處於高位，能源衝擊對通脹的全部影響尚未完全顯現。"
+    },
+    {
+      "id": "mkt:019f8ee7-da92-7aab-8e67-d6a3f2c647ad",
+      "time": "2026-07-23 20:16:27",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says it is closely monitoring indirect and second‑round effects."
+    },
+    {
+      "id": "5004745",
+      "time": "2026-07-23 20:16:22",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：管委會目前正密切監測此次衝擊的強度、持續時長，及其間接影響與第二輪效應。"
+    },
+    {
+      "id": "mkt:019f8ee7-ba11-7aab-8e67-cffd061d1ebf",
+      "time": "2026-07-23 20:16:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says it is closely monitoring the intensity and duration of the shock."
+    },
+    {
+      "id": "mkt:019f8ee7-93c3-7aab-8e67-c26f4aca7cbf",
+      "time": "2026-07-23 20:16:08",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "DAX"
+      ],
+      "text": "ECB says uncertainty remains elevated."
+    },
+    {
+      "id": "5004744",
+      "time": "2026-07-23 20:16:08",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行：利率決策將基於其對通脹前景及相關風險的評估作出。"
+    },
+    {
+      "id": "mkt:019f8ee7-8d5f-7aab-8e67-bfab029d33d6",
+      "time": "2026-07-23 20:16:07",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "European Central Bank says the outlook for energy prices is close to its June baseline projection."
+    },
+    {
+      "id": "5004743",
+      "time": "2026-07-23 20:16:05",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中國神華：定州三期6號機組、滄東三期6號機組透過168小時試執行】中國神華(601088.SH)公告稱，公司定州三期6號機組、滄東三期6號機組均順利透過168小時試執行，正式轉入商業運營。兩臺機組執行平穩，環保指標優秀，實現大氣汙染物超低排放及廢水零排放。投運後，預計每年可供應清潔高效電能約119億千瓦時、採暖供熱量約2014萬吉焦，將有效緩解京津冀地區電力熱力保供壓力。"
+    },
+    {
+      "id": "mkt:019f8ee7-7813-7aab-8e67-b2969cdc766c",
+      "time": "2026-07-23 20:16:01",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB says the inflationary impact of the broad energy shock has not yet materialized."
+    },
+    {
+      "id": "5004742",
+      "time": "2026-07-23 20:15:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，其利率決定將尤其基於以下因素作出：結合最新經濟與金融資料，對通脹前景及其相關風險的評估，同時還會考量核心通脹走勢以及貨幣政策傳導的效力。"
+    },
+    {
+      "id": "mkt:019f8ee7-6202-7aab-8e67-ae30f032aac8",
+      "time": "2026-07-23 20:15:56",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "ECB says it will base policy decisions on the inflation outlook and associated risks."
+    },
+    {
+      "id": "5004741",
+      "time": "2026-07-23 20:15:53",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，將採取依資料調整、逐次會議評估的方式確定合適的貨幣政策立場。"
+    },
+    {
+      "id": "5004740",
+      "time": "2026-07-23 20:15:51",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，目前不確定性仍處於高位，能源衝擊對通脹的全部影響尚未完全顯現。"
+    },
+    {
+      "id": "5004739",
+      "time": "2026-07-23 20:15:48",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，透過今日的決議，歐洲央行仍處於有利地位，足以應對沖突引發的不確定性。"
+    },
+    {
+      "id": "mkt:019f8ee7-4084-7aab-8e67-a3ee616169b8",
+      "time": "2026-07-23 20:15:47",
+      "tags": [
+        "MKT News",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "ECB says its Governing Council stands ready to adjust all instruments at any time."
+    },
+    {
+      "id": "mkt:019f8ee7-28ff-7aab-8e67-9cf67609d138",
+      "time": "2026-07-23 20:15:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Euro area ECB marginal lending facility rate 2.65% as of July 23; expected 2.65%, prior 2.65%."
+    },
+    {
+      "id": "mkt:019f8ee7-1e34-7aab-8e67-9483f749a447",
+      "time": "2026-07-23 20:15:38",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "ECB says it will adopt a data-driven, meeting-by-meeting approach to monetary policy decisions."
+    },
+    {
+      "id": "mkt:019f8ee7-0f7c-7aab-8e67-8ec2d3e78ea1",
+      "time": "2026-07-23 20:15:35",
+      "tags": [
+        "MKT News",
+        "EURUSD"
+      ],
+      "text": "European Central Bank kept rates unchanged as expected; EUR/USD was little changed on the session, trading at 1.1390."
+    },
+    {
+      "id": "5004737",
+      "time": "2026-07-23 20:15:34",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示：歐洲央行隨時準備在授權範圍內調整所有政策工具，以確保通脹在中期穩定在2%的目標水平，並保障貨幣政策傳導機制平穩執行。"
+    },
+    {
+      "id": "mkt:019f8ee7-0658-7aab-8e67-816341389298",
+      "time": "2026-07-23 20:15:32",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Marginal Lending Facility Rate (Jul.23) | actual 2.65% | consensus 2.65% | previous 2.65%"
+    },
+    {
+      "id": "5004736",
+      "time": "2026-07-23 20:15:30",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，由於歐元體系不再對到期證券的本金償付進行再投資，資產購買計劃（APP）以及疫情緊急購買計劃（PEPP）的投資組合正以平緩且可預判的節奏縮減。"
+    },
+    {
+      "id": "5004735",
+      "time": "2026-07-23 20:15:24",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "歐洲央行表示，其並未預先承諾遵循特定的利率路徑。"
+    },
+    {
+      "id": "mkt:019f8ee6-dcd0-7aab-8e67-7f4327986a4c",
+      "time": "2026-07-23 20:15:22",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact mixed"
+      ],
+      "text": "The ECB did not pre-commit to a specific interest-rate path."
+    },
+    {
+      "id": "mkt:019f8ee6-b85a-7aab-8e67-7247fcde9c07",
+      "time": "2026-07-23 20:15:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "DXY"
+      ],
+      "text": "【ECB holds rates steady as expected】The ECB kept the deposit facility rate at 2.25% as expected; the main refinancing rate and marginal lending rate remain at 2.40% and 2.65%, respectively."
+    },
+    {
+      "id": "5004734",
+      "time": "2026-07-23 20:15:10",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "【歐洲央行如期按兵不動】歐洲央行將存款機制利率維持在2.25%不變，符合市場預期，主要再融資利率和邊際貸款利率維持在2.40%和2.65%不變。"
+    },
+    {
+      "id": "mkt:019f8ee6-ad4f-7aab-8e67-69977f5bd9b6",
+      "time": "2026-07-23 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD"
+      ],
+      "text": "ECB deposit facility rate for the Euro area as of July 23: 2.25% (consensus 2.25%, prior 2.25%)."
+    },
+    {
+      "id": "mkt:019f8ee6-aa79-7aab-8e67-620ebe3b4bf7",
+      "time": "2026-07-23 20:15:09",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "Euro area — ECB main refinancing rate 2.40% as of July 23; expected 2.40%; prior 2.40%."
+    },
+    {
+      "id": "mkt:019f8ee6-901d-7aab-8e67-58ffda148832",
+      "time": "2026-07-23 20:15:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Main Refinancing Rate (Jul.23) | actual 2.4% | consensus 2.40% | previous 2.40%"
+    },
+    {
+      "id": "mkt:019f8ee6-901a-7aab-8e67-53fac091a294",
+      "time": "2026-07-23 20:15:02",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | ECB Deposit Facility Rate (Jul.23) | actual 2.25% | consensus 2.25% | previous 2.25%"
+    },
+    {
+      "id": "5004733",
+      "time": "2026-07-23 20:15:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "英國10年期國債收益率觸及兩個月新高5.088%。"
+    },
+    {
+      "id": "5004732",
+      "time": "2026-07-23 20:14:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "陶氏化學稱，地緣政治對能源與原料的影響持續推動風險溢價維持在高位。"
+    },
+    {
+      "id": "5004731",
+      "time": "2026-07-23 20:14:34",
+      "tags": [
+        "公司"
+      ],
+      "text": "【興業科技：子公司5500萬元收購青島立昂磷化銦業務及資產】興業科技公告稱，2026年7月23日，公司全資子公司江蘇興光與青島立昂簽署協議，以5500萬元現金收購其磷化銦業務及資產。該業務截至2026年5月31日總資產1702.46萬元，淨資產637.04萬元；2026年1 - 5月收入234.38萬元，淨虧損144.09萬元。本次收購預計對公司當期利潤影響極小，但公司缺乏半導體領域經驗，且標的過去三年未盈利，存在市場開拓、客戶認證、手續辦理等風險。"
+    },
+    {
+      "id": "5004730",
+      "time": "2026-07-23 20:14:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊朗外交部：英國正在尋求與侵略者結盟】伊朗外交部：英國政府無論是作為國家主體，還是作為聯合國安理會常任理事國，都未能履行其譴責美國和以色列對伊朗實施的軍事侵略和戰爭罪行的法律和道德義務。相反，英國正在尋求與侵略者結盟，並將自身地位降低為美國和以色列對伊朗人民發動的殘酷戰爭的共犯。伊朗決心捍衛其國家主權、領土完整以及國家利益和安全，抵禦外國侵略，任何以任何方式參與對伊朗軍事侵略的一方，都將對其決定的後果負責。"
+    },
+    {
+      "id": "5004729",
+      "time": "2026-07-23 20:13:47",
+      "tags": [
+        "公司"
+      ],
+      "text": "【航錦科技：擬公開掛牌轉讓子公司中電華星51%股權】航錦科技公告稱，為聚焦算力產業發展，全資子公司威科電子擬透過聯交所公開掛牌轉讓持有的中電華星51%股權，交易完成後將不再持有其股權。中電華星股東全部權益評估值為9498.31萬元，51%股權首次掛牌價不低於4844.14萬元。本次交易不構成重大資產重組，交易對方、價格等尚不確定，受讓方需借款給中電華星償還對公司的1500萬元借款本金及利息。"
+    },
     {
       "id": "5004728",
       "time": "2026-07-23 20:12:47",
