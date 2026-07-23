@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-24 00:31:16",
-  "count": 18017,
+  "updated": "2026-07-24 00:35:14",
+  "count": 18016,
   "items": [
+    {
+      "id": "5005197",
+      "time": "2026-07-24 00:34:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "特朗普政府致函國會議員，要求國會在交通法案中納入永久夏令時條款，並要求機動車道優先順序高於腳踏車道。"
+    },
+    {
+      "id": "5005196",
+      "time": "2026-07-24 00:32:27",
+      "tags": [
+        "焦點",
+        "國際"
+      ],
+      "text": "美國參議院否決了限制特朗普伊朗戰爭權力的決議。"
+    },
+    {
+      "id": "5005195",
+      "time": "2026-07-24 00:32:09",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗媒體：伊朗南部拉拉克島附近發生爆炸。"
+    },
     {
       "id": "5005194",
       "time": "2026-07-24 00:30:10",
@@ -165074,38 +165099,6 @@
         "GS.O"
       ],
       "text": "【Wall Street banks' Q2 job cuts largest in six years】Quarterly filings show BofA, Wells Fargo, Citigroup, Goldman Sachs and Morgan Stanley cut more than 10,000 employees in Q2, the biggest quarterly headcount drop since early 2020. Only JP Morgan reported a slight increase in staff since end-Q1. Major lenders have now reduced staff for three consecutive quarters. Citigroup has continued headcount trimming in recent months as CEO Jane Fraser pushes to lift returns. BofA CFO Alastair Borthwick said on the earnings call this week, \"Over the past six quarters we've executed very well on workforce management.\" BofA headcount was down nearly 1% YoY."
-    },
-    {
-      "id": "4992767",
-      "time": "2026-07-17 00:33:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "ARDIAN：AXA將出售該公司全部10%的股份。"
-    },
-    {
-      "id": "4992766",
-      "time": "2026-07-17 00:33:34",
-      "tags": [
-        "其他"
-      ],
-      "text": "【國際社會積極評價中國推動人工智慧向善普惠發展】2026世界人工智慧大會暨人工智慧全球治理高階別會議於7月17日至20日在上海舉行。受訪國際人士表示，中國積極倡導並以實際行動促進全球人工智慧向善普惠發展，推動形成具有廣泛共識的人工智慧全球治理體系，幫助全球南方國家加強能力建設、彌合智慧鴻溝，用技術創新與開放合作為全球人工智慧發展注入強勁動能。（新華社）"
-    },
-    {
-      "id": "4992765",
-      "time": "2026-07-17 00:32:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息： 阿根廷售出 1.41 億美元債券。"
-    },
-    {
-      "id": "4992764",
-      "time": "2026-07-17 00:31:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "美元兌瑞郎日內漲幅達0.5%，報0.8091。"
     }
   ]
 }
