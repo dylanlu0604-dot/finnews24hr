@@ -1,7 +1,78 @@
 {
   "date": "2026-07-23",
-  "count": 3364,
+  "count": 3372,
   "items": [
+    {
+      "id": "5005008",
+      "time": "2026-07-23 22:06:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI新興市場外匯指數抹去漲幅，南非蘭特和墨西哥比索跌至盤中低點。"
+    },
+    {
+      "id": "5005007",
+      "time": "2026-07-23 22:06:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：黑海專屬經濟區航行不安全。"
+    },
+    {
+      "id": "5005006",
+      "time": "2026-07-23 22:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本伊予金融控股與愛媛銀行展開合併談判。"
+    },
+    {
+      "id": "5005005",
+      "time": "2026-07-23 22:05:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（7月22日）擔保隔夜融資利率（SOFR）報3.62%，之前一天報3.61%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5005004",
+      "time": "2026-07-23 22:05:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "霍尼韋爾國際股價上漲7.2%，此前公司上調2026年利潤預測。"
+    },
+    {
+      "id": "5005003",
+      "time": "2026-07-23 22:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：7月23日，外國投資者淨賣出854億印度盧比印度股票衍生品。"
+    },
+    {
+      "id": "5005002",
+      "time": "2026-07-23 22:03:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【吉利與福特將在西班牙成立合資公司生產新能源汽車】據新華社西班牙巴倫西亞7月23日電 吉利汽車控股有限公司23日與美國福特汽車公司達成協議，雙方將在西班牙巴倫西亞成立合資公司，透過共享產能生產面向歐洲市場的新能源汽車。"
+    },
+    {
+      "id": "te:markets:569334",
+      "time": "2026-07-23 22:02:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Geopolitical Risks and AI Concerns — The S&P/TSX Composite Index fell nearly 1% to trade below 35,500 on Thursday on escalating Middle East tensions and renewed AI spending concerns. Oil prices surged after fresh strikes near the Strait of Hormuz heightened fears of supply disruptions, fueling inflation concerns and reinforcing expectations of hawkish central banks. Banks declined, with RBC and TD Bank down nearly 2%, while BMO and Scotiabank lost over 1%. Gold prices slipped, pressuring miners. Agnico Eagle shed about 2%, while Barrick and WPM lost over 1.5%. Tech stocks also weakened after Big Tech earnings revived concerns over heavy AI-related capital spending. Shopify fell more than 2% and Constellation Software lost over 2.5%. Meanwhile, Waste Connections (+1.4%), Mullen (+4.5%), and Teck Resources (+5%) beat profit estimates. Cenovus (+2.6%) and Ovintiv (+3%) report later today. Elsewhere, Panama is considering partnering with First Quantum (-0.6%) to reopen the Cobre Panama mine."
+    },
     {
       "id": "mkt:019f8f48-c558-7aab-8e6d-9c70081ed9fb",
       "time": "2026-07-23 22:02:18",

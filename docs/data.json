@@ -1,7 +1,78 @@
 {
-  "updated": "2026-07-23 22:03:19",
-  "count": 17969,
+  "updated": "2026-07-23 22:07:29",
+  "count": 17968,
   "items": [
+    {
+      "id": "5005008",
+      "time": "2026-07-23 22:06:29",
+      "tags": [
+        "市場"
+      ],
+      "text": "MSCI新興市場外匯指數抹去漲幅，南非蘭特和墨西哥比索跌至盤中低點。"
+    },
+    {
+      "id": "5005007",
+      "time": "2026-07-23 22:06:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "俄羅斯：黑海專屬經濟區航行不安全。"
+    },
+    {
+      "id": "5005006",
+      "time": "2026-07-23 22:06:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：日本伊予金融控股與愛媛銀行展開合併談判。"
+    },
+    {
+      "id": "5005005",
+      "time": "2026-07-23 22:05:56",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "據美國紐約聯儲資料，上個交易日（7月22日）擔保隔夜融資利率（SOFR）報3.62%，之前一天報3.61%。上個交易日有效的聯邦基金利率報3.63%，之前一天報3.63%。"
+    },
+    {
+      "id": "5005004",
+      "time": "2026-07-23 22:05:13",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "霍尼韋爾國際股價上漲7.2%，此前公司上調2026年利潤預測。"
+    },
+    {
+      "id": "5005003",
+      "time": "2026-07-23 22:04:30",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：7月23日，外國投資者淨賣出854億印度盧比印度股票衍生品。"
+    },
+    {
+      "id": "5005002",
+      "time": "2026-07-23 22:03:20",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【吉利與福特將在西班牙成立合資公司生產新能源汽車】據新華社西班牙巴倫西亞7月23日電 吉利汽車控股有限公司23日與美國福特汽車公司達成協議，雙方將在西班牙巴倫西亞成立合資公司，透過共享產能生產面向歐洲市場的新能源汽車。"
+    },
+    {
+      "id": "te:markets:569334",
+      "time": "2026-07-23 22:02:52",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Canada",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "TSX Falls on Geopolitical Risks and AI Concerns — The S&P/TSX Composite Index fell nearly 1% to trade below 35,500 on Thursday on escalating Middle East tensions and renewed AI spending concerns. Oil prices surged after fresh strikes near the Strait of Hormuz heightened fears of supply disruptions, fueling inflation concerns and reinforcing expectations of hawkish central banks. Banks declined, with RBC and TD Bank down nearly 2%, while BMO and Scotiabank lost over 1%. Gold prices slipped, pressuring miners. Agnico Eagle shed about 2%, while Barrick and WPM lost over 1.5%. Tech stocks also weakened after Big Tech earnings revived concerns over heavy AI-related capital spending. Shopify fell more than 2% and Constellation Software lost over 2.5%. Meanwhile, Waste Connections (+1.4%), Mullen (+4.5%), and Teck Resources (+5%) beat profit estimates. Cenovus (+2.6%) and Ovintiv (+3%) report later today. Elsewhere, Panama is considering partnering with First Quantum (-0.6%) to reopen the Cobre Panama mine."
+    },
     {
       "id": "mkt:019f8f48-c558-7aab-8e6d-9c70081ed9fb",
       "time": "2026-07-23 22:02:18",
@@ -164605,87 +164676,6 @@
         "公司"
       ],
       "text": "【白雲山天心公司地塞米松磷酸鈉注射液透過仿製藥質量和療效一致性評價】近日，廣藥集團旗下白雲山天心公司收到國家藥品監督管理局核准簽發的《藥品補充申請批准通知書》，地塞米松磷酸鈉注射液（1ml:5mg）正式透過仿製藥質量和療效一致性評價。該產品主要適用於過敏性與自身免疫性炎症性疾病，用於某些嚴重感染及中毒、惡性淋巴瘤的綜合治療，是國家基本藥物目錄品種和臨床剛需用藥。"
-    },
-    {
-      "id": "4992612",
-      "time": "2026-07-16 22:07:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "Visa出全新平臺，面向超 2 億商戶提供穩定幣服務。"
-    },
-    {
-      "id": "te:economy:567593",
-      "time": "2026-07-16 22:06:24",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Nahb Housing Market Index",
-        "Importance 1"
-      ],
-      "text": "US Homebuilder Sentiment Down in July — The NAHB/Wells Fargo Housing Market Index (HMI), which tracks US homebuilder confidence in the market for newly built single-family homes, edged down to 34 in July 2026 from 36 in June and below forecasts of 35. Current sales conditions fell one point to 37. Sales expectations in the next six months dropped two points to 43 and the gauge for traffic of prospective buyers posted a two-point decline to 23. Meanwhile, there were signs of market cooling. 37% of builders cut prices in July, up from 35% in June and 32% in May. The average price reduction was 6% in July, the same rate as the previous month. The use of sales incentives was 63%, up slightly from 62% in June, and marking the 16th consecutive month this share has reached 60% or higher."
-    },
-    {
-      "id": "mkt:019f6b3f-8495-7aab-8dca-ff3fb504b247",
-      "time": "2026-07-16 22:05:52",
-      "tags": [
-        "MKT News",
-        "Market Regions"
-      ],
-      "text": "【Luobo Kuaipao signs strategic cooperation with Kazakhstan firm TPH】Luobo Kuaipao and Kazakhstan’s Turlov Private Holding Ltd. (TPH) signed a strategic cooperation agreement in Shanghai to jointly explore introducing autonomous ride-hailing services in Kazakhstan."
-    },
-    {
-      "id": "4992611",
-      "time": "2026-07-16 22:05:50",
-      "tags": [
-        "其他"
-      ],
-      "text": "國際足聯就阿根廷打出 “馬爾維納斯群島屬於阿根廷” 標語一事展開調查。"
-    },
-    {
-      "id": "te:economy:567592",
-      "time": "2026-07-16 22:05:50",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "United States",
-        "Pending Home Sales MoM",
-        "Importance 2"
-      ],
-      "text": "US Pending Home Sales Post Biggest Drop in Six Months — US pending home sales fell 5.4% month-over-month in June 2026, ending a four-month streak of gains and marking the sharpest decline since December 2025. The drop was far steeper than market expectations for a 0.5% decline, with contract signings falling across all four major regions: the Northeast (-3.0%), Midwest (-8.9%), South (-4.1%), and West (-4.7%). Compared with a year earlier, pending home sales slipped 0.3%, reflecting weakness in the South and West. According to NAR Chief Economist Lawrence Yun, the combination of the highest mortgage rates in nearly a year and record-high home prices continues to weigh on affordability, particularly for first-time buyers, although a strong labor market should help support housing demand. The NAR also noted that pending sales reflect signed contracts rather than completed transactions, meaning they are only an indication of future home sales."
-    },
-    {
-      "id": "4992610",
-      "time": "2026-07-16 22:05:19",
-      "tags": [
-        "觀點"
-      ],
-      "text": "摩根大通汽車金融發行 2.34718 億美元優質汽車貸款擔保資產支援證券。"
-    },
-    {
-      "id": "4992609",
-      "time": "2026-07-16 22:04:57",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國參議員沃倫稱消費者金融保護局改革已令美國民眾損失 265 億美元。"
-    },
-    {
-      "id": "4992608",
-      "time": "2026-07-16 22:03:56",
-      "tags": [
-        "國際"
-      ],
-      "text": "市場訊息： TIKTOK與美國職業籃球聯賽（NBA）、美國女子職業籃球聯賽（WNBA）宣佈達成多年期全球內容合作協議。"
-    },
-    {
-      "id": "4992607",
-      "time": "2026-07-16 22:03:30",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞典銀行稱與 DFS 達成和解，所有反洗錢相關調查全部終結。"
     }
   ]
 }
