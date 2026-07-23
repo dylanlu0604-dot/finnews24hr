@@ -1,7 +1,54 @@
 {
   "date": "2026-07-23",
-  "count": 1003,
+  "count": 1008,
   "items": [
+    {
+      "id": "mkt:019f8ccd-97c2-7aab-8e57-c7c18e8271cb",
+      "time": "2026-07-23 10:28:31",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bearish",
+        "SSE Composite"
+      ],
+      "text": "China A-share benchmarks turned red; STAR 50 Index fell over 4%. Semiconductor, gaming and weight-loss drug sectors led declines, while power-grid equipment stocks outperformed."
+    },
+    {
+      "id": "mkt:019f8ccd-91ec-7aab-8e57-bce7c3d5b343",
+      "time": "2026-07-23 10:28:30",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The US Secret Service said threats against its protectees have risen about 40% YoY to nearly 10,000 incidents to date, and mental-health interventions have surged tenfold, straining resources for investigations and protection. The remarks came ahead of the rescheduled White House Correspondents' Dinner; the April event was postponed after an assassination attempt on Trump."
+    },
+    {
+      "id": "5003448",
+      "time": "2026-07-23 10:28:05",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "科創50日內跌幅達4％，成分股中，華虹宏力跌13.9％，盛科通訊跌8.8％，晶合整合跌7.6％，拓荊科技跌6.8％。"
+    },
+    {
+      "id": "5003447",
+      "time": "2026-07-23 10:27:49",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【馬尼拉舉行中國東盟外長會】中國－東盟外長會7月22日在菲律賓馬尼拉舉行，中共中央政治局委員、外交部長王毅同中國東盟關係協調國馬來西亞外長穆罕默德共同主持。王毅表示，今年是中國東盟全面戰略伙伴關係建立5週年，在雙方領導人共同戰略引領下，中國東盟合作取得累累碩果，惠及雙方20多億民眾。王毅還闡述了中方在南海問題上的原則立場，表示南海是我們的共同家園。當前我們面臨達成“南海行為準則”的重要時間視窗，必須把握機遇，排除干擾，力爭實現目標。 各方高度評價東盟中國全面戰略伙伴關係建立5年來取得的豐碩成果，支援中方提出的構建人類命運共同體理念和四大全球倡議。各方期待年內早日達成“南海行為準則”，共同維護南海和平穩定，將東盟中國關係打造成維護地區和平發展的穩定力量、對話夥伴的標杆。（CCTV國際時訊）"
+    },
+    {
+      "id": "5003446",
+      "time": "2026-07-23 10:27:06",
+      "tags": [
+        "其他"
+      ],
+      "text": "三大指數集體翻綠。"
+    },
     {
       "id": "mkt:019f8ccb-f6e4-7aab-8e57-b1eb76b4debc",
       "time": "2026-07-23 10:26:44",
