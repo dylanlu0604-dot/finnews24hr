@@ -1,7 +1,102 @@
 {
   "date": "2026-07-23",
-  "count": 2775,
+  "count": 2786,
   "items": [
+    {
+      "id": "mkt:019f8ed9-4c30-7aab-8e66-bde68238dfe7",
+      "time": "2026-07-23 20:00:33",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Shanghai Gold Exchange gold T+D opened 0.2% lower in Thursday evening trade (July 23) at 895.5 yuan/gram; silver T+D opened 0.03% higher at 14,499 yuan/kg."
+    },
+    {
+      "id": "5004691",
+      "time": "2026-07-23 20:00:33",
+      "tags": [
+        "宏觀"
+      ],
+      "text": "【整治信用評價設招投標區域壁壘 市場監管總局公佈專項行動成果】今天（23日），市場監管總局公佈破除妨礙統一市場和公平競爭卡點堵點專項行動階段性成果，不當實施信用評價設定招標投標區域壁壘等典型問題得到有效整治，併發布相關案件。據瞭解，市場監管總局今年5月組織開展破除妨礙統一市場和公平競爭卡點堵點專項行動，重點糾治不當實施信用評價設定招投標隱性壁壘等4類典型問題。（央視新聞）"
+    },
+    {
+      "id": "5004690",
+      "time": "2026-07-23 20:00:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國警方向美方遣返一名涉嫌嚴重暴力犯罪的美籍逃犯】7月23日，應美國執法部門請求，中國警方在上海浦東國際機場將一名在美涉嫌嚴重暴力犯罪的美籍紅通逃犯遣返美方，由美國相關執法部門押解回國。這是中美兩國執法部門又一合作成果。（央視新聞）"
+    },
+    {
+      "id": "5004689",
+      "time": "2026-07-23 19:59:50",
+      "tags": [
+        "其他"
+      ],
+      "text": "【高德上線包車業務：覆蓋全球 20 多個國家、國內 140 多個城市，不滿意包賠】高德今日宣佈正式上線包車業務，包車服務覆蓋全球 20 多個國家、國內 140 多個城市。覆蓋家庭出遊、商務接待、機場接送、跨城往返等多場景用車需求，同步推出極速接單、不滿意包賠等多項服務標準。"
+    },
+    {
+      "id": "5004688",
+      "time": "2026-07-23 19:59:39",
+      "tags": [
+        "公司",
+        "市場",
+        "國際"
+      ],
+      "text": "【美股盤前要聞速遞】\n①美股三大股指期貨齊跌，道指期貨跌0.60%，標普500指數期貨跌0.59%，納指期貨跌0.83%。\n②德國DAX指數跌0.87%，英國富時100指數跌0.27%，法國CAC40指數跌1.27%，歐洲斯托克50指數跌1.05%。\n③WTI原油漲4.57%，報90.80美元/桶。布倫特原油漲4.96%，報98.74美元/桶。\n④美軍連續第12晚打擊伊朗，持續5個小時。\n⑤紅海油輪首遭導彈襲擊，替代航道受阻，油價跳升。\n⑦美國經濟分析局(BEA)計劃調整個人消費支出價格指數(PCE)的計算方式，涉及投資組合管理費用、計算機軟體和法律服務三個類別。\n⑧谷歌母公司Alphabet股價盤前跌5%，Alphabet二季度自由現金流從去年同期的近250億美元驟降至負59億美元，為數十年來首次轉負。\n⑨洛克希德馬丁美股盤前漲7.5%，公司將2026全年銷售額預期上調至797.5-817.5億美元。"
+    },
+    {
+      "id": "5004687",
+      "time": "2026-07-23 19:59:28",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美的能源與OSW簽訂戰略合作協議】7月23日，澳洲頭部戶儲分銷商One Stop Warehouse Pty Ltd（OSW）與美的能源旗下合康新能簽署了年度戰略合作協議，OSW將代理美的品牌戶儲澳洲區域分銷業務。按照協議約定，雙方將圍繞產品市場推廣、渠道下沉、安裝商專業培訓、屬地售後服務四大板塊開展全方位合作與協同。 此外，雙方就未來在歐洲部分市場的合作也做了初步洽談。"
+    },
+    {
+      "id": "5004686",
+      "time": "2026-07-23 19:58:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【安凱微：打造差異化軟硬一體AI應用解決方案】7月23日，安凱微披露的投資者調研紀要顯示，公司研發了多種應用演算法模型和基於大語言模型和大視覺模型技術的中小模型，旨在解決通用大模型在端側和邊緣AI晶片上落地難、功耗高、速度慢痛點，打造差異化軟硬一體AI應用解決方案。"
+    },
+    {
+      "id": "5004685",
+      "time": "2026-07-23 19:58:08",
+      "tags": [
+        "央行",
+        "其他"
+      ],
+      "text": "瑞銀投資銀行經濟學家在一份報告中表示，英國通脹率在6月份放緩後預計將加速，並可能在11月達到3.3%的峰值。英國央行在未來幾個月加息的可能性下降。"
+    },
+    {
+      "id": "mkt:019f8ed6-c106-7aab-8e66-b2d08dd0395d",
+      "time": "2026-07-23 19:57:46",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Trump says U.S.-Saudi nuclear deal limited to civil use, no enrichment; approval contingent on Saudi joining Abraham Accords】Trump posted that the U.S. Department of Energy (DOE) and Saudi Arabia have reached a civil nuclear agreement that excludes fuel/uranium enrichment and any military use. He said U.S. approval is contingent on Saudi Arabia joining the Abraham Accords and that the U.S. does not oppose civil, non‑enrichment nuclear facilities."
+    },
+    {
+      "id": "mkt:019f8ed6-a915-7aab-8e66-a97f99e79145",
+      "time": "2026-07-23 19:57:40",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "TTE.PA",
+        "Impact bullish"
+      ],
+      "text": "TotalEnergies CEO said the company expects to take a final investment decision (FID) on the Kronos gas project in Cyprus by end-July."
+    },
+    {
+      "id": "5004684",
+      "time": "2026-07-23 19:57:21",
+      "tags": [
+        "公司"
+      ],
+      "text": "道達爾能源執行長：我們預計將於7月底就塞普勒斯克羅諾斯天然氣專案做出最終投資決定。"
+    },
     {
       "id": "5004683",
       "time": "2026-07-23 19:56:00",
