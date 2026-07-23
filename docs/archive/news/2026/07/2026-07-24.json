@@ -1,7 +1,107 @@
 {
   "date": "2026-07-24",
-  "count": 139,
+  "count": 150,
   "items": [
+    {
+      "id": "5005282",
+      "time": "2026-07-24 01:44:40",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "Cerebras Systems股價上漲5.6%，此前AMD與該公司合作開發整合晶片的人工智慧推理平臺。"
+    },
+    {
+      "id": "5005281",
+      "time": "2026-07-24 01:44:23",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "WTI原油突破93美元/桶，日內漲7.12%。"
+    },
+    {
+      "id": "mkt:019f9013-d2eb-7aab-8e71-04090b7d5f97",
+      "time": "2026-07-24 01:44:05",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Israel defense minister KATZ says Israel prepared for all contingencies amid Iran tensions】On 23rd local time Israel defense minister KATZ said Israel is prepared for “all contingencies” as tensions with Iran escalate. KATZ convened an emergency security assessment at defense ministry headquarters with IDF chief of staff Zamir and senior officers and warned that if Iran mounts any form of attack against Israel it would face a “devastating” response."
+    },
+    {
+      "id": "5005280",
+      "time": "2026-07-24 01:44:01",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國航空跌幅擴大至10%，創盤中新低。"
+    },
+    {
+      "id": "5005279",
+      "time": "2026-07-24 01:43:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "Truist Securities將特斯拉目標價從430.00美元下調至370.00美元。"
+    },
+    {
+      "id": "mkt:019f9012-ad22-7aab-8e70-fc97fb0929c0",
+      "time": "2026-07-24 01:42:50",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps (IRGC) said it previously launched attacks on the Adili camp in Kuwait and on US military positions."
+    },
+    {
+      "id": "5005278",
+      "time": "2026-07-24 01:42:27",
+      "tags": [
+        "市場"
+      ],
+      "text": "WTI原油日內漲7%，現報92.91美元/桶。"
+    },
+    {
+      "id": "5005277",
+      "time": "2026-07-24 01:42:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國國家颶風中心（NHC）表示，颶風貝爾莎預計將逐漸減弱， 預計其將於一天左右消散。"
+    },
+    {
+      "id": "5005276",
+      "time": "2026-07-24 01:41:03",
+      "tags": [
+        "國際"
+      ],
+      "text": "【以色列防長稱已為應對伊朗局勢做好“全方位準備”】當地時間23日，據以色列方面訊息，以色列國防部長卡茨當天表示，鑑於當前與伊朗的緊張局勢不斷升級，以色列方面目前已為“所有可能發生的情況”做好了準備。據稱，卡茨當天召集以軍總參謀長扎米爾及多名軍方高階官員，在國防部總部舉行了緊急局勢安全評估會議。卡茨在會議結束時向伊朗方面發出了嚴厲警告。他宣稱，如果伊朗選擇對以色列發動任何形式的襲擊，“都將承受來自以方的毀滅性打擊”。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f9011-2916-7aab-8e70-f0fe2afd1916",
+      "time": "2026-07-24 01:40:57",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "Impact bearish",
+        "EURUSD"
+      ],
+      "text": "【U.S. says EU fine on Google and loan to Airbus risk trade stability】The U.S. on Thursday renewed trade complaints against the EU, saying the bloc’s fine on Google and a recent loan to Airbus could undermine constructive negotiations and pose a concrete risk to the stability of transatlantic trade, U.S. Trade Representative Greer said. The European Commission on Thursday fined Google about $1 bln for breaching the Digital Markets Act. Greer called that decision and other recent rulings \"unreasonable financial penalties\" and said the EU’s actions are creating substantial uncertainty for U.S. exporters to Europe."
+    },
+    {
+      "id": "mkt:019f9011-099f-7aab-8e70-ef893d951b5a",
+      "time": "2026-07-24 01:40:57",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) and Cerebras Systems will launch an AI inference solution pairing AMD's Helios GPU server racks with Cerebras' wafer-scale chips."
+    },
     {
       "id": "5005275",
       "time": "2026-07-24 01:40:13",
