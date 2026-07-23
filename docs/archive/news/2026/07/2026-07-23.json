@@ -1,7 +1,144 @@
 {
   "date": "2026-07-23",
-  "count": 3306,
+  "count": 3320,
   "items": [
+    {
+      "id": "te:markets:569328",
+      "time": "2026-07-23 21:41:09",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Brazil",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Ibovespa Falls as Middle East Tensions Weigh — The Ibovespa shed about 0.5% to trade below 177,000 on Thursday on escalating Middle East tensions. Oil prices surged after renewed attacks heightened concerns over global energy supplies. Houthi rebels said they had struck two Saudi oil tankers as part of a naval blockade, adding to disruptions caused by Iran's near-total closure of the Strait of Hormuz. The spike in oil prices reignited inflation concerns, fueling expectations that interest rates could remain higher for longer. Financials traded lower, with Itaú, Bradesco, and Itaúsa retreating about 1%. Utilities also posted losses, with Axia down 1% and Sabesp losing more than 1.5%. WEG slipped about 0.5% after soaring 10% in the previous session on strong operating margins and return on invested capital. Other notable laggards included Ambev (-0.7%), Rede D'Or (-3%), and Embraer (-1%). In contrast, Petrobras gained 1.5% on higher oil prices."
+    },
+    {
+      "id": "5004975",
+      "time": "2026-07-23 21:40:24",
+      "tags": [
+        "市場"
+      ],
+      "text": "ALLEGION股價上漲8.1%，因第二季度業績超預期。"
+    },
+    {
+      "id": "te:markets:569327",
+      "time": "2026-07-23 21:40:14",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Opens 0.67% Lower — The Dow Jones Index is falling 349 points. Losses were driven by Alphabet (-5.92%), Amazon (-3.11%) and IBM (-2.90%). Biggest rises came from Chevron (1.77%), Merck (1.33%) and Travelers Companies (1.11%)."
+    },
+    {
+      "id": "5004974",
+      "time": "2026-07-23 21:39:57",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉股價創下 2025 年 6 月以來最大百分比跌幅，最新下跌 10.8%。"
+    },
+    {
+      "id": "te:markets:569326",
+      "time": "2026-07-23 21:39:41",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Africa",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "South African Rand Slides After SARB Surprises With Hold — The South African rand weakened to ZAR 16.7 per US dollar, its lowest level since May 19, after the South African Reserve Bank unexpectedly left its benchmark repo rate unchanged at 7.0% at its July meeting. The decision, approved by a 4–2 vote, defied market expectations for at least a 25-basis-point hike. The SARB cited a modestly improved inflation outlook and weaker economic growth, while reaffirming its commitment to bringing inflation back to its 3% target over time. Governor Lesetja Kganyago warned that renewed conflict in the Middle East, which has pushed up oil and fertilizer prices, could require further tightening if higher fuel costs feed through to food prices and core inflation. South Africa's annual inflation accelerated to 5.0% in June, the highest in two years, while core inflation rose to 4.1%, its strongest reading since September 2024. Both measures remain above the upper end of the SARB's 3% ±1 percentage point target range."
+    },
+    {
+      "id": "5004973",
+      "time": "2026-07-23 21:39:39",
+      "tags": [
+        "國際",
+        "兩會"
+      ],
+      "text": "【趙樂際同捷克眾議長岡村富夫會談】全國人大常委會委員長趙樂際23日在北京人民大會堂同捷克眾議長岡村富夫舉行會談。趙樂際表示，維護好、發展好中捷關係符合兩國根本和長遠利益，也符合兩國人民共同期待。今年是中捷戰略伙伴關係建立10週年，中方願同捷方共同努力，弘揚傳統友誼，增進了解互信，加強交流合作，推動中捷關係健康穩定向前發展。趙樂際指出，捷克新一屆政府和眾議院奉行積極務實的對華政策，中方對此高度讚賞。雙方要築牢政治基礎，鞏固兩國關係改善向好的勢頭，重啟並加強各領域、各層級交流交往。進一步挖掘合作潛力，發揮好中捷經濟聯委會、中國－中東歐國家博覽會等機制作用，探討加強新能源、電動汽車等領域合作，支援兩國企業擴大投資合作。深化人文交流，擴大教育、文化、科技、旅遊、地方等合作，鼓勵兩國民眾特別是年輕一代加強交往，促進民心相通。加強在國際事務中的協調配合，踐行真正的多邊主義，維護多邊貿易體制和產供鏈穩定暢通，推動構建人類命運共同體。（新華社）"
+    },
+    {
+      "id": "mkt:019f8f33-f34a-7aab-8e6d-36fbd665939f",
+      "time": "2026-07-23 21:39:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "Brent",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps warned Britain it forbids US bombers from taking off from British bases."
+    },
+    {
+      "id": "te:markets:569325",
+      "time": "2026-07-23 21:39:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 2"
+      ],
+      "text": "US Stocks Slip After Tech Earnings — US stocks fell on Thursday amid a deteriorating macroeconomic backdrop and fresh AI doubt on the latest earnings reports. The S&P 500 and the Dow lost around 0.8%, while the Nasdaq 100 lost nearly 2%. Alphabet dropped 6% after posting its Q2 results overnight. The Google parent raised its capital expenditure forecast to $205 billion this, double of last year, to reignite concerns of unsustainable spending in AI infrastructure. Meanwhile, Tesla slipped 10% after reporting lower profits despite a strong period for the overall electric vehicle sector. Meta and Amazon followed both companies by losing more than 3% each. Higher fuel prices lifted yields on greater escalation between Iran and the US, driving markets to position for a rate hike by this quarter. This was consolidated by initial jobless claims falling to six-decade lows. Financials remained under pressure with capital markets firms down. Among other earnings, Comcast and RTX were both higher topping their estimates."
+    },
+    {
+      "id": "5004972",
+      "time": "2026-07-23 21:38:52",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗官方媒體：伊朗革命衛隊就英國允許美軍轟炸機從其基地起飛一事向英國發出警告。"
+    },
+    {
+      "id": "5004971",
+      "time": "2026-07-23 21:38:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：JOHNSON MATTHEY (JMAT) 完成對 CORMETECH 的收購。"
+    },
+    {
+      "id": "mkt:019f8f32-b7c4-7aab-8e6d-2e9123c1284d",
+      "time": "2026-07-23 21:38:13",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "Iran's Islamic Revolutionary Guard Corps said it struck the US Al-Adidi base in Kuwait again on Thursday."
+    },
+    {
+      "id": "5004970",
+      "time": "2026-07-23 21:38:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "萊斯利公司股價暴跌37%至1.5美元，此前有報道稱該公司考慮可能申請第11章破產保護。"
+    },
+    {
+      "id": "5004969",
+      "time": "2026-07-23 21:38:06",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美政府被曝考慮在馬裡採取軍事行動】據美國媒體22日披露，特朗普政府正考慮在西非國家馬裡採取軍事行動，打擊一個與“基地”組織有關聯的極端組織。美國《華盛頓郵報》以多名前任和現任美政府官員為訊息源報道，特朗普政府考慮打擊“支援伊斯蘭教和穆斯林”組織。該極端組織2017年由“基地”組織多個分支合併而成。今年4月，該組織與馬裡分離主義武裝“阿扎瓦德解放陣線”協同在馬裡多地發動襲擊，時任國防部長薩迪奧·卡馬拉在襲擊中身亡。本月18日，這兩個組織聯合襲擊馬裡政府軍一支車隊，造成逾50人喪生。（新華社）"
+    },
+    {
+      "id": "5004968",
+      "time": "2026-07-23 21:38:03",
+      "tags": [],
+      "text": "【鄧煜獲菲爾茲獎】2026年國際數學家大會（ICM）揭曉獎項，北大數院2007級鄧煜榮獲被譽為“數學界諾貝爾獎”的菲爾茲獎（Fields Medal）。"
+    },
     {
       "id": "mkt:019f8f31-d1ae-7aab-8e6d-2337a2c7a035",
       "time": "2026-07-23 21:37:14",
