@@ -1,7 +1,97 @@
 {
   "date": "2026-07-23",
-  "count": 3423,
+  "count": 3433,
   "items": [
+    {
+      "id": "5005043",
+      "time": "2026-07-23 22:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "EIA天然氣報告：截至7月17日當週，美國天然氣庫存總量為30560億立方英尺，較此前一週增加320億立方英尺，較去年同期減少160億立方英尺，同比降幅0.5%，同時較5年均值高1830億立方英尺，增幅6.4%。美國至7月17日當週EIA天然氣庫存變化值錄得320億立方英尺，為2026年3月20日當週以來最小增幅。"
+    },
+    {
+      "id": "mkt:019f8f62-73f5-7aab-8e6e-529b3ac6a0d8",
+      "time": "2026-07-23 22:30:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US EIA natural gas inventories rose 32 Bcf in the week to July 17, the smallest weekly build since the week of March 20, 2026."
+    },
+    {
+      "id": "mkt:019f8f62-6df1-7aab-8e6e-4ff4481d4386",
+      "time": "2026-07-23 22:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly natural gas storage, week ended July 17: U.S. working gas in storage 3,056 Bcf, +32 Bcf week-on-week, -16 Bcf YoY (-0.5%), 183 Bcf (6.4%) above the 5-year average."
+    },
+    {
+      "id": "mkt:019f8f62-4139-7aab-8e6e-43cec34d7f67",
+      "time": "2026-07-23 22:30:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. EIA weekly natural gas storage injection for week to July 17: 32 Bcf, vs. 35 Bcf expected and 41 Bcf prior."
+    },
+    {
+      "id": "mkt:019f8f62-246f-7aab-8e6e-3d5fa0578650",
+      "time": "2026-07-23 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.17) | actual 32000000000B | consensus 35000000000B | previous 41000000000B"
+    },
+    {
+      "id": "5005042",
+      "time": "2026-07-23 22:29:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國人工智慧超大規模企業股價下跌，因Alphabet的AI支出引發現金消耗擔憂。"
+    },
+    {
+      "id": "5005041",
+      "time": "2026-07-23 22:29:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌下跌7.3%，亞馬遜下跌4.6%，微軟下跌1.8%，Meta Platforms下跌3.6%。"
+    },
+    {
+      "id": "5005040",
+      "time": "2026-07-23 22:29:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "TIMELINE：美國聯邦法院永久禁止19家銷售假冒Urolithin A補充劑的網路賣家，並判令其向TIMELINE賠償530萬美元。"
+    },
+    {
+      "id": "mkt:019f8f60-bde9-7aab-8e6e-333adf5d0d1b",
+      "time": "2026-07-23 22:28:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Justice said parties may still be required to fully comply with 'second requests' in M&A transactions."
+    },
+    {
+      "id": "5005039",
+      "time": "2026-07-23 22:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：仍可能要求企業全面配合二次資訊調取。"
+    },
     {
       "id": "5005038",
       "time": "2026-07-23 22:27:30",

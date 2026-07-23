@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-23 22:28:17",
-  "count": 17985,
+  "updated": "2026-07-23 22:32:32",
+  "count": 17980,
   "items": [
+    {
+      "id": "5005043",
+      "time": "2026-07-23 22:30:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "EIA天然氣報告：截至7月17日當週，美國天然氣庫存總量為30560億立方英尺，較此前一週增加320億立方英尺，較去年同期減少160億立方英尺，同比降幅0.5%，同時較5年均值高1830億立方英尺，增幅6.4%。美國至7月17日當週EIA天然氣庫存變化值錄得320億立方英尺，為2026年3月20日當週以來最小增幅。"
+    },
+    {
+      "id": "mkt:019f8f62-73f5-7aab-8e6e-529b3ac6a0d8",
+      "time": "2026-07-23 22:30:21",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "US EIA natural gas inventories rose 32 Bcf in the week to July 17, the smallest weekly build since the week of March 20, 2026."
+    },
+    {
+      "id": "mkt:019f8f62-6df1-7aab-8e6e-4ff4481d4386",
+      "time": "2026-07-23 22:30:20",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "EIA weekly natural gas storage, week ended July 17: U.S. working gas in storage 3,056 Bcf, +32 Bcf week-on-week, -16 Bcf YoY (-0.5%), 183 Bcf (6.4%) above the 5-year average."
+    },
+    {
+      "id": "mkt:019f8f62-4139-7aab-8e6e-43cec34d7f67",
+      "time": "2026-07-23 22:30:08",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "U.S. EIA weekly natural gas storage injection for week to July 17: 32 Bcf, vs. 35 Bcf expected and 41 Bcf prior."
+    },
+    {
+      "id": "mkt:019f8f62-246f-7aab-8e6e-3d5fa0578650",
+      "time": "2026-07-23 22:30:01",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.17) | actual 32000000000B | consensus 35000000000B | previous 41000000000B"
+    },
+    {
+      "id": "5005042",
+      "time": "2026-07-23 22:29:52",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國人工智慧超大規模企業股價下跌，因Alphabet的AI支出引發現金消耗擔憂。"
+    },
+    {
+      "id": "5005041",
+      "time": "2026-07-23 22:29:42",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "谷歌下跌7.3%，亞馬遜下跌4.6%，微軟下跌1.8%，Meta Platforms下跌3.6%。"
+    },
+    {
+      "id": "5005040",
+      "time": "2026-07-23 22:29:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "TIMELINE：美國聯邦法院永久禁止19家銷售假冒Urolithin A補充劑的網路賣家，並判令其向TIMELINE賠償530萬美元。"
+    },
+    {
+      "id": "mkt:019f8f60-bde9-7aab-8e6e-333adf5d0d1b",
+      "time": "2026-07-23 22:28:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Department of Justice said parties may still be required to fully comply with 'second requests' in M&A transactions."
+    },
+    {
+      "id": "5005039",
+      "time": "2026-07-23 22:28:20",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國司法部：仍可能要求企業全面配合二次資訊調取。"
+    },
     {
       "id": "5005038",
       "time": "2026-07-23 22:27:30",
@@ -164712,140 +164802,6 @@
         "國際"
       ],
       "text": "市場訊息：以色列批准 3.56 億美元用於定居點道路建設。"
-    },
-    {
-      "id": "4992640",
-      "time": "2026-07-16 22:31:37",
-      "tags": [
-        "其他"
-      ],
-      "text": "【通威TNC 3.0-G12 750W元件正式量產】7月16日，通威TNC 3.0-G12元件正式量產，以750W行業最高量產功率、24.14%+量產效率雙冠資料，成為該版型高效元件全球首家量產企業，並超越國家光伏一級能效標準。自TNC 3.0系列元件上市以來，反響遠超預期。6月訂單已全額覆蓋產能，部分規格需提前鎖定。通威正加速釋放稀缺產能，但高效產能仍供不應求。"
-    },
-    {
-      "id": "mkt:019f6b57-058f-7aab-8dcb-76b273555138",
-      "time": "2026-07-16 22:31:32",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Structural rift emerging in US-Israel alliance】Former Israeli ambassador Alon Pinkas said U.S. Vice President J.D. Vance’s public charge that Israel is undermining U.S.-Iran negotiations is unprecedented, reflecting a clear policy rift between Washington and Jerusalem over Iran. In the House, 103 of 212 Democrats voted to cancel the $3.3bn annual U.S. aid package to Israel; one Republican joined, signalling a marked Democratic shift on Israel aid. Reportedly, President Trump told Prime Minister Netanyahu last week Israeli forces should withdraw from Lebanon and Syria; Israel’s defence minister publicly rejected a withdrawal. White House response is pending."
-    },
-    {
-      "id": "4992639",
-      "time": "2026-07-16 22:30:36",
-      "tags": [
-        "國際"
-      ],
-      "text": "胡塞武裝：美國、以色列及其盟友透過挑起戰爭和掠奪各國財富，助長了世界的不穩定。沙特這個國家沒有自己的議程，只奉行服務於美國和以色列利益的政策。"
-    },
-    {
-      "id": "4992638",
-      "time": "2026-07-16 22:30:30",
-      "tags": [
-        "焦點",
-        "國際"
-      ],
-      "text": "EIA天然氣報告：截至7月10日當週，美國天然氣庫存總量為30240億立方英尺，較此前一週增加410億立方英尺，較去年同期減少210億立方英尺，同比降幅0.7%，同時較5年均值高1810億立方英尺，增幅6.4%。"
-    },
-    {
-      "id": "mkt:019f6b56-0808-7aab-8dcb-689a035cb41a",
-      "time": "2026-07-16 22:30:27",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "EIA: U.S. natural gas storage for week ended July 10 at 3,024 Bcf, up 41 Bcf week-on-week, down 21 Bcf YoY (-0.7%), and 181 Bcf above the 5-year average (+6.4%)."
-    },
-    {
-      "id": "mkt:019f6b55-e6d8-7aab-8dcb-639ad10b8333",
-      "time": "2026-07-16 22:30:19",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "U.S. EIA weekly natural gas storage rose 41 bcf in the week to July 10, the smallest build since the week to March 27, 2026."
-    },
-    {
-      "id": "mkt:019f6b55-cd17-7aab-8dcb-5924f430ab13",
-      "time": "2026-07-16 22:30:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "US EIA weekly natural gas storage build for week to July 10: 41 bcf, consensus 43 bcf, prior 61 bcf."
-    },
-    {
-      "id": "4992637",
-      "time": "2026-07-16 22:30:06",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國能源資訊署稱，上週美國天然氣庫存增加了410億立方英尺。"
-    },
-    {
-      "id": "mkt:019f6b55-a07e-7aab-8dcb-529bd7555df8",
-      "time": "2026-07-16 22:30:01",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | EIA Weekly Natural Gas Storage Change (Jul.10) | actual 41000000000B | consensus 43000000000B | previous 61000000000B"
-    },
-    {
-      "id": "mkt:019f6b55-5c9b-7aab-8dcb-48e54bd16d3f",
-      "time": "2026-07-16 22:29:44",
-      "tags": [
-        "MKT News",
-        "S&P500",
-        "Impact bearish"
-      ],
-      "text": "【U.S. homebuilder confidence falls again to year low】U.S. homebuilder confidence slipped for a second month to its lowest level this year as high borrowing costs and rising land and materials prices weigh, the National Association of Home Builders and Wells Fargo said on Thursday. The NAHB/Wells Fargo housing market index fell 2 points to 34, versus economists' forecast of 35, and has stayed below 40 for 15 straight months—the longest stretch since 2012. NAHB chief economist Robert Dietz said housing affordability remains the sector's primary challenge, citing elevated mortgage rates, costly land, rising materials and persistent skilled-labor shortages. Separately, the U.S. pending home sales index dropped 5.4% in June to 72.5, well below the consensus forecast for a 0.5% decline."
-    },
-    {
-      "id": "mkt:019f6b55-32ca-7aab-8dcb-41cec9c09522",
-      "time": "2026-07-16 22:29:33",
-      "tags": [
-        "MKT News",
-        "XAUUSD",
-        "Impact bullish",
-        "WTI"
-      ],
-      "text": "Houthi rebels said the United States, Israel and their allies have fueled global instability by provoking wars and plundering other countries' wealth."
-    },
-    {
-      "id": "4992636",
-      "time": "2026-07-16 22:29:31",
-      "tags": [
-        "其他"
-      ],
-      "text": "土耳其外長菲丹：一場常規戰爭已持續五年，破壞程度不斷加劇，這毫無正當理由可言。衝突升級的風險正在攀升：地域上戰火正蔓延至基礎設施等新目標，更可怕的是，新型武器恐將投入戰場。"
-    },
-    {
-      "id": "mkt:019f6b55-2454-7aab-8dcb-3e685bcbfa4b",
-      "time": "2026-07-16 22:29:29",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Houthi militia said Saudi Arabia has no independent agenda and only pursues policies serving US and Israeli interests."
-    },
-    {
-      "id": "4992635",
-      "time": "2026-07-16 22:28:48",
-      "tags": [
-        "國際"
-      ],
-      "text": "據以色列媒體，以色列預計將在兩年內實現本國版“聯合直接攻擊彈藥”（JDAM）炸彈的批次生產。"
-    },
-    {
-      "id": "4992634",
-      "time": "2026-07-16 22:28:26",
-      "tags": [
-        "其他"
-      ],
-      "text": "美防長： 空襲行動不會停止，直至對方士氣崩潰。"
     }
   ]
 }
