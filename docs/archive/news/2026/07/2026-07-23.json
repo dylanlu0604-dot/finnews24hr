@@ -1,7 +1,153 @@
 {
   "date": "2026-07-23",
-  "count": 876,
+  "count": 890,
   "items": [
+    {
+      "id": "mkt:019f8c9d-d5f2-7aab-8e56-dd0ba7cb75c2",
+      "time": "2026-07-23 09:36:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03200.HK",
+        "Impact bullish",
+        "02476.HK",
+        "01888.HK"
+      ],
+      "text": "Hong Kong PCB sector rallied; 03200.HK and 02476.HK rose over 5%, 01888.HK climbed more than 4%, while 01377.HK, 00148.HK and 01989.HK also advanced."
+    },
+    {
+      "id": "te:markets:569023",
+      "time": "2026-07-23 09:36:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Climb on AI Optimism — The benchmark KOSPI rose more than 3% to around 7,035 on Thursday, rallying for a third straight session as technology stocks advanced. Investor sentiment was buoyed by renewed optimism over artificial intelligence after Alphabet reported better-than-expected quarterly revenue, driven by strong cloud growth, and raised its capital spending outlook to support booming AI demand. The results reinforced expectations of sustained investment in AI infrastructure, boosting South Korean semiconductor shares. Samsung Electronics and SK Hynix led the advance, climbing more than 4% and 6%, respectively, alongside gains in SK Square (3.1%), Hyundai Motor (3.0%), and LG Energy Solution (3.0%). Separately, South Korea's economy expanded 0.6% in the second quarter, beating the Bank of Korea's 0.2% forecast as robust semiconductor exports and resilient private consumption supported growth. Meanwhile, Middle East tensions remained in focus after renewed US-Iran hostilities pushed oil prices higher."
+    },
+    {
+      "id": "5003371",
+      "time": "2026-07-23 09:36:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷IDC概念盤初走強，飛龍股份漲停】液冷IDC概念盤初走強，飛龍股份漲停，利通科技、長纜科技、冰輪環境、大元泵業、銳捷網路、克萊特等跟漲。"
+    },
+    {
+      "id": "5003370",
+      "time": "2026-07-23 09:35:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國數字化採購總額達23.2萬億元，數字化滲透率為11.8%】中國物流與採購聯合會昨天（7月22日）釋出《2026數智化採購發展報告》。據介紹，涵蓋工業、建築業和零售批發業在內，2025年全國企業物資採購總額達196.3萬億元，同比增長4%，市場在高位執行中保持穩健擴張。其中，工業生產採購額達113.3萬億元，同比增長6%。隨著產業升級加速，企業對高品質產品與先進裝置的採購需求，由“量的積累”轉向“質的提升”，推動了採購結構的持續最佳化，尤其是生產性物資的數字化採購水平在進一步提升。綜合來看，2025年我國數字化採購總額達23.2萬億元，數字化滲透率為11.8%，比上年提高0.3個百分點。從2022年以來，數字化採購滲透率逐年提高。企業調研顯示，在大模型和智慧體應用方面，招標、投標八大環節的20類場景AI應用逐步落地。"
+    },
+    {
+      "id": "5003369",
+      "time": "2026-07-23 09:35:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本菸草：已簽署協議，以約1.76億歐元的價格從斯堪的納維亞菸草集團收購香菸品牌Break與Moro。"
+    },
+    {
+      "id": "mkt:019f8c9c-a911-7aab-8e56-d5123a0f54ea",
+      "time": "2026-07-23 09:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share power sector opened stronger: several renewables stocks hit daily limit-up, Shimao Energy rose over 8%, and major generators including Huadian Liaoning, Huadian Energy, Chuaneng Power and Guodian Power also gained. China’s renewable-energy development 15th Five-Year Plan targets by 2030 roughly 3.5 billion kW of renewable installed capacity and about 6 trillion kWh of annual generation; wind and solar combined capacity is to exceed 2.8 billion kW and account for more than 50% of total capacity."
+    },
+    {
+      "id": "te:economy:569022",
+      "time": "2026-07-23 09:35:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Unemployment Rate",
+        "Importance 3"
+      ],
+      "text": "Australia Jobless Rate Unchanged at 4.4% in June — Australia’s seasonally adjusted unemployment rate stood at 4.4% in June, in line with both market expectations and May’s figure. The number of unemployed rose by 12,700 to 686,800 from 674,100 in May, while employment increased by 76,300 to 14.82 million, surpassing expectations of a 15,000 increase."
+    },
+    {
+      "id": "5003368",
+      "time": "2026-07-23 09:34:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念盤初走強，風華高科漲停】MLCC概念盤初走強，風華高科漲停，昀冢科技、三環集團、利和興、雙星新材、火炬電子、國瓷材料等跟漲。"
+    },
+    {
+      "id": "5003367",
+      "time": "2026-07-23 09:34:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加快推動新能源重卡規模化利用 推動新能源汽車“綠車充綠電”】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提出，大力推動交通運輸行業可再生能源消費。推廣綠電直連等新業態，推動車船充（換）電等補能基礎設施建設，加快推動新能源重卡規模化利用，推動新能源汽車“綠車充綠電”。推進加氣站、加氫站、醇氨加註設施等綠色補能服務網點建設，擴大綠色氫氨醇、可持續航空燃料、生物天然氣等在交通領域應用。"
+    },
+    {
+      "id": "5003366",
+      "time": "2026-07-23 09:34:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊短線走強 金冠股份漲超10%】電網裝置板塊短線走強，金冠股份漲超10%，寶光股份、積成電子、和順電氣、北京科銳、長纜科技等跟漲。"
+    },
+    {
+      "id": "5003365",
+      "time": "2026-07-23 09:33:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【體育概念表現活躍 舒華體育漲停】體育概念表現活躍，舒華體育漲停，金陵體育漲超14%，中體產業、力盛體育跟漲。"
+    },
+    {
+      "id": "5003364",
+      "time": "2026-07-23 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股油氣改革板塊異動拉昇】傑瑞股份、中曼石油觸及漲停，和順石油、潛能恆信、通源石油、海默科技、石化油服跟漲。"
+    },
+    {
+      "id": "mkt:019f8c9a-bea1-7aab-8e56-cbc5bb43b6d9",
+      "time": "2026-07-23 09:32:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "China A-share oilfield services and engineering stocks opened higher; Zhongman Petroleum rose over 9% and Keli Co. rose over 7%, with Qianneng Hengxin, Tongyuan Petroleum, Bomaike, Sinopec Oilfield Service and CNOOC Engineering also advancing. Former US president Trump posted on social media saying that if Iran fires on vessels in the Strait of Hormuz the US will bomb and destroy an Iranian bridge or a power plant."
+    },
+    {
+      "id": "te:markets:569021",
+      "time": "2026-07-23 09:32:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Edges Lower — The US dollar edged lower to around 101 on Thursday, extending modest losses from the previous session, as traders weighed renewed inflation concerns from surging energy costs against a softer US economic backdrop while seeking clues on the Federal Reserve’s rate outlook. While markets widely expect the Fed to hold rates steady at next week’s meeting, uncertainty has increased over the path of future policy amid unclear guidance from new Chair Kevin Warsh. Meanwhile, safe-haven demand helped limit further dollar losses as Middle East tensions remained in focus. President Donald Trump said the US would strike Iranian infrastructure in response to any attacks on vessels in the Strait of Hormuz, while Tehran vowed retaliation against regional energy and infrastructure targets. Elsewhere, attacks on Red Sea tankers, the first such incidents since late February, further raised concerns over a broader regional conflict and potential disruptions to global trade flows."
+    },
     {
       "id": "5003363",
       "time": "2026-07-23 09:32:43",

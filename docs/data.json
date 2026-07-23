@@ -1,7 +1,153 @@
 {
-  "updated": "2026-07-23 09:33:22",
-  "count": 17661,
+  "updated": "2026-07-23 09:37:23",
+  "count": 17647,
   "items": [
+    {
+      "id": "mkt:019f8c9d-d5f2-7aab-8e56-dd0ba7cb75c2",
+      "time": "2026-07-23 09:36:21",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "03200.HK",
+        "Impact bullish",
+        "02476.HK",
+        "01888.HK"
+      ],
+      "text": "Hong Kong PCB sector rallied; 03200.HK and 02476.HK rose over 5%, 01888.HK climbed more than 4%, while 01377.HK, 00148.HK and 01989.HK also advanced."
+    },
+    {
+      "id": "te:markets:569023",
+      "time": "2026-07-23 09:36:13",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "South Korea",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "South Korean Shares Climb on AI Optimism — The benchmark KOSPI rose more than 3% to around 7,035 on Thursday, rallying for a third straight session as technology stocks advanced. Investor sentiment was buoyed by renewed optimism over artificial intelligence after Alphabet reported better-than-expected quarterly revenue, driven by strong cloud growth, and raised its capital spending outlook to support booming AI demand. The results reinforced expectations of sustained investment in AI infrastructure, boosting South Korean semiconductor shares. Samsung Electronics and SK Hynix led the advance, climbing more than 4% and 6%, respectively, alongside gains in SK Square (3.1%), Hyundai Motor (3.0%), and LG Energy Solution (3.0%). Separately, South Korea's economy expanded 0.6% in the second quarter, beating the Bank of Korea's 0.2% forecast as robust semiconductor exports and resilient private consumption supported growth. Meanwhile, Middle East tensions remained in focus after renewed US-Iran hostilities pushed oil prices higher."
+    },
+    {
+      "id": "5003371",
+      "time": "2026-07-23 09:36:10",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【液冷IDC概念盤初走強，飛龍股份漲停】液冷IDC概念盤初走強，飛龍股份漲停，利通科技、長纜科技、冰輪環境、大元泵業、銳捷網路、克萊特等跟漲。"
+    },
+    {
+      "id": "5003370",
+      "time": "2026-07-23 09:35:42",
+      "tags": [
+        "其他"
+      ],
+      "text": "【2025年我國數字化採購總額達23.2萬億元，數字化滲透率為11.8%】中國物流與採購聯合會昨天（7月22日）釋出《2026數智化採購發展報告》。據介紹，涵蓋工業、建築業和零售批發業在內，2025年全國企業物資採購總額達196.3萬億元，同比增長4%，市場在高位執行中保持穩健擴張。其中，工業生產採購額達113.3萬億元，同比增長6%。隨著產業升級加速，企業對高品質產品與先進裝置的採購需求，由“量的積累”轉向“質的提升”，推動了採購結構的持續最佳化，尤其是生產性物資的數字化採購水平在進一步提升。綜合來看，2025年我國數字化採購總額達23.2萬億元，數字化滲透率為11.8%，比上年提高0.3個百分點。從2022年以來，數字化採購滲透率逐年提高。企業調研顯示，在大模型和智慧體應用方面，招標、投標八大環節的20類場景AI應用逐步落地。"
+    },
+    {
+      "id": "5003369",
+      "time": "2026-07-23 09:35:26",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "日本菸草：已簽署協議，以約1.76億歐元的價格從斯堪的納維亞菸草集團收購香菸品牌Break與Moro。"
+    },
+    {
+      "id": "mkt:019f8c9c-a911-7aab-8e56-d5123a0f54ea",
+      "time": "2026-07-23 09:35:04",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish"
+      ],
+      "text": "China A-share power sector opened stronger: several renewables stocks hit daily limit-up, Shimao Energy rose over 8%, and major generators including Huadian Liaoning, Huadian Energy, Chuaneng Power and Guodian Power also gained. China’s renewable-energy development 15th Five-Year Plan targets by 2030 roughly 3.5 billion kW of renewable installed capacity and about 6 trillion kWh of annual generation; wind and solar combined capacity is to exceed 2.8 billion kW and account for more than 50% of total capacity."
+    },
+    {
+      "id": "te:economy:569022",
+      "time": "2026-07-23 09:35:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Unemployment Rate",
+        "Importance 3"
+      ],
+      "text": "Australia Jobless Rate Unchanged at 4.4% in June — Australia’s seasonally adjusted unemployment rate stood at 4.4% in June, in line with both market expectations and May’s figure. The number of unemployed rose by 12,700 to 686,800 from 674,100 in May, while employment increased by 76,300 to 14.82 million, surpassing expectations of a 15,000 increase."
+    },
+    {
+      "id": "5003368",
+      "time": "2026-07-23 09:34:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【MLCC概念盤初走強，風華高科漲停】MLCC概念盤初走強，風華高科漲停，昀冢科技、三環集團、利和興、雙星新材、火炬電子、國瓷材料等跟漲。"
+    },
+    {
+      "id": "5003367",
+      "time": "2026-07-23 09:34:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【兩部門：加快推動新能源重卡規模化利用 推動新能源汽車“綠車充綠電”】國家發展改革委、國家能源局印發《可再生能源發展“十五五”規劃》，其中提出，大力推動交通運輸行業可再生能源消費。推廣綠電直連等新業態，推動車船充（換）電等補能基礎設施建設，加快推動新能源重卡規模化利用，推動新能源汽車“綠車充綠電”。推進加氣站、加氫站、醇氨加註設施等綠色補能服務網點建設，擴大綠色氫氨醇、可持續航空燃料、生物天然氣等在交通領域應用。"
+    },
+    {
+      "id": "5003366",
+      "time": "2026-07-23 09:34:08",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電網裝置板塊短線走強 金冠股份漲超10%】電網裝置板塊短線走強，金冠股份漲超10%，寶光股份、積成電子、和順電氣、北京科銳、長纜科技等跟漲。"
+    },
+    {
+      "id": "5003365",
+      "time": "2026-07-23 09:33:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【體育概念表現活躍 舒華體育漲停】體育概念表現活躍，舒華體育漲停，金陵體育漲超14%，中體產業、力盛體育跟漲。"
+    },
+    {
+      "id": "5003364",
+      "time": "2026-07-23 09:33:00",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "【A股油氣改革板塊異動拉昇】傑瑞股份、中曼石油觸及漲停，和順石油、潛能恆信、通源石油、海默科技、石化油服跟漲。"
+    },
+    {
+      "id": "mkt:019f8c9a-bea1-7aab-8e56-cbc5bb43b6d9",
+      "time": "2026-07-23 09:32:59",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "China A-share oilfield services and engineering stocks opened higher; Zhongman Petroleum rose over 9% and Keli Co. rose over 7%, with Qianneng Hengxin, Tongyuan Petroleum, Bomaike, Sinopec Oilfield Service and CNOOC Engineering also advancing. Former US president Trump posted on social media saying that if Iran fires on vessels in the Strait of Hormuz the US will bomb and destroy an Iranian bridge or a power plant."
+    },
+    {
+      "id": "te:markets:569021",
+      "time": "2026-07-23 09:32:53",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "US Dollar Edges Lower — The US dollar edged lower to around 101 on Thursday, extending modest losses from the previous session, as traders weighed renewed inflation concerns from surging energy costs against a softer US economic backdrop while seeking clues on the Federal Reserve’s rate outlook. While markets widely expect the Fed to hold rates steady at next week’s meeting, uncertainty has increased over the path of future policy amid unclear guidance from new Chair Kevin Warsh. Meanwhile, safe-haven demand helped limit further dollar losses as Middle East tensions remained in focus. President Donald Trump said the US would strike Iranian infrastructure in response to any attacks on vessels in the Strait of Hormuz, while Tehran vowed retaliation against regional energy and infrastructure targets. Elsewhere, attacks on Red Sea tankers, the first such incidents since late February, further raised concerns over a broader regional conflict and potential disruptions to global trade flows."
+    },
     {
       "id": "5003363",
       "time": "2026-07-23 09:32:43",
@@ -161251,285 +161397,6 @@
         "Tencent"
       ],
       "text": "【Where to Park Spare Change? Short-term Wealth-product Yield Snapshot】Tencent Licaitong (demand+) 7-day annualized yields ranged 0.7860%–1.3640%. WeChat Wallet’s change product 7-day annualized yields ranged 0.8410%–1.0380%. Alipay Yu'ebao 7-day annualized yields ranged 0.9020%–1.0680%."
-    },
-    {
-      "id": "4991116",
-      "time": "2026-07-16 09:36:58",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【化學制藥板塊拉昇，哈藥股份5連板】化學制藥板塊拉昇，哈藥股份5連板，永安藥業2連板，博瑞醫藥、海創藥業漲超10%，哈三聯、海南海藥、新贛江、津藥藥業、美諾華跟漲。"
-    },
-    {
-      "id": "mkt:019f6891-d4e3-7aab-8db5-11ad90256002",
-      "time": "2026-07-16 09:36:55",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Alibaba",
-        "09988.HK",
-        "Impact bullish",
-        "Hang Seng Index"
-      ],
-      "text": "Hang Seng Tech Index extended gains, rising more than 2%; Alibaba (09988.HK) led constituents with a gain of over 5%. Hang Seng Index up 1.77%."
-    },
-    {
-      "id": "4991115",
-      "time": "2026-07-16 09:36:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【網易給全體員工放看球假】7月15日晚，網易發文：“7月20日（週一）上午，全體網易員工放假半天，盡情享受決賽之夜，踏踏實實看到終場哨響。”"
-    },
-    {
-      "id": "4991114",
-      "time": "2026-07-16 09:36:14",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "恒生科技指數漲超2％，恒生指數現漲1.68％，阿里巴巴漲超5%。"
-    },
-    {
-      "id": "4991113",
-      "time": "2026-07-16 09:36:01",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：成本高企、匯率波動、需求壓力加劇通貨膨脹。"
-    },
-    {
-      "id": "4991112",
-      "time": "2026-07-16 09:35:35",
-      "tags": [
-        "市場"
-      ],
-      "text": "大盤主力淨流出超100億。"
-    },
-    {
-      "id": "mkt:019f6890-8e3c-7aab-8db5-0aa20cb1dae1",
-      "time": "2026-07-16 09:35:31",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish",
-        "CSI300"
-      ],
-      "text": "China's Sci‑Tech Innovation Board 50 Index fell more than 4% intraday."
-    },
-    {
-      "id": "mkt:019f6890-863b-7aab-8db5-00845cf0bf3e",
-      "time": "2026-07-16 09:35:29",
-      "tags": [
-        "MKT News",
-        "Brent",
-        "Impact bullish",
-        "WTI",
-        "XAUUSD"
-      ],
-      "text": "【Iran parliamentary speaker says Strait of Hormuz is pillar of national security】Iranian parliament speaker Mohammad Bagher Ghalibaf said the Strait of Hormuz is a pillar of Iran’s national security and Tehran must preserve Iran’s existing arrangements in the vital shipping route. In an address to the nation he said Iran is engaged in a complex struggle with the United States and must remain prepared to fight; he added US strategy toward Iran has not changed and aims not only to weaken Iran but to sow domestic divisions. Ghalibaf said Iran’s policy in both conflict and negotiations should be grounded in realism, national interest and a long-term perspective."
-    },
-    {
-      "id": "4991111",
-      "time": "2026-07-16 09:35:26",
-      "tags": [
-        "公司",
-        "觀點"
-      ],
-      "text": "【證券板塊短線走低，華安證券跌超8%】證券板塊短線走低，華安證券跌超8%，中金公司、招商證券、長江證券、中信建投等跟跌。"
-    },
-    {
-      "id": "4991110",
-      "time": "2026-07-16 09:35:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗議長說霍爾木茲海峽是伊朗的國家安全支柱】據伊朗邁赫爾通訊社15日報道，伊朗議長卡利巴夫說，霍爾木茲海峽是伊朗的國家安全支柱，必須維護伊朗在這一重要航道的既有安排。卡利巴夫在當晚發表的致伊朗全國人民的講話中說，伊朗正與美國進行一場複雜的鬥爭，必須時刻準備與美國作戰。美方對伊朗的戰略並未改變，其目標不僅在於削弱伊朗，還包括在伊朗國內製造分裂。因此，無論是在衝突還是在談判中，伊朗的方針都必須基於現實、國家利益和長遠眼光。（新華社）"
-    },
-    {
-      "id": "4991109",
-      "time": "2026-07-16 09:35:14",
-      "tags": [
-        "市場"
-      ],
-      "text": "富時中國A50指數期貨盤初跌逾1%。"
-    },
-    {
-      "id": "4991108",
-      "time": "2026-07-16 09:35:04",
-      "tags": [
-        "資料"
-      ],
-      "text": "【2026年二季度和上半年國內生產總值初步核算結果】根據有關基礎資料和國內生產總值（GDP）核算方法，經初步核算，我國2026年二季度和上半年GDP核算結果如下。"
-    },
-    {
-      "id": "te:markets:567355",
-      "time": "2026-07-16 09:34:49",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "European Gas Prices Climb for 4th Day — European natural gas extended its rally for a fourth consecutive session, climbing toward €55 per MWh on Thursday, the highest level since March 30, as continued US attacks on Iran heightened fears over LNG flows from the region. Following the reimposition of its naval blockade, the US launched another round of strikes targeting Iran's coastal defenses and missile sites and said it had fired on an empty oil tanker en route to an Iranian port. Tehran responded by warning it could disrupt more regional energy exports, describing the conflict as an \"existential war\" with the US. The latest escalation comes at a particularly sensitive time for Europe, which is in the middle of refilling its gas facilities ahead of winter. Any renewed disruption to Persian Gulf supplies would force European buyers into more intense and costly competition with Asian importers for available LNG cargoes."
-    },
-    {
-      "id": "4991107",
-      "time": "2026-07-16 09:34:42",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證1000指數期貨連續主力合約日內跌2%，現報7567.60點。"
-    },
-    {
-      "id": "mkt:019f688f-c1d9-7aab-8db4-f8148b8927b8",
-      "time": "2026-07-16 09:34:39",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bearish"
-      ],
-      "text": "FTSE China A50 index futures fell more than 1% in early trade."
-    },
-    {
-      "id": "4991106",
-      "time": "2026-07-16 09:34:35",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "科創50日內跌幅達4.10%，成分股中，瀾起科技跌12.05%，拓荊科技跌7.36%，中科飛測跌7.34%，華海清科跌6.89%。"
-    },
-    {
-      "id": "mkt:019f688f-49da-7aab-8db4-f2058b94a305",
-      "time": "2026-07-16 09:34:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "SZSE Component",
-        "Impact bearish"
-      ],
-      "text": "A-share ChiNext index fell more than 3% in early trade."
-    },
-    {
-      "id": "4991105",
-      "time": "2026-07-16 09:34:07",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新築股份與萬界資料將圍繞算電協同等領域深度合作】7月15日，成都市新築路橋機械股份有限公司（簡稱“新築股份”）與北京萬界資料科技有限責任公司（簡稱“萬界資料”）簽署戰略合作協議，雙方將圍繞綠色AIDC（智算中心）、算電協同、“AI+能源”等領域開展深度合作。根據協議，雙方將重點推進綠色AIDC專案開發運營和“AI+能源”數智平臺建設。"
-    },
-    {
-      "id": "4991104",
-      "time": "2026-07-16 09:34:04",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "北證50日內跌幅達2.04%，成分股中，戈碧迦跌8.07%，錦華新材跌6.65%，曙光數創跌4.43%，星圖測控跌4.04%。"
-    },
-    {
-      "id": "mkt:019f688f-1773-7aab-8db4-e8843e92580e",
-      "time": "2026-07-16 09:33:55",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Market reports: Tehran's air defenses activated; explosions reported in northern and western Iran."
-    },
-    {
-      "id": "4991103",
-      "time": "2026-07-16 09:33:53",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行：今年核心通脹率可能略高於此前預測的2.4%。"
-    },
-    {
-      "id": "mkt:019f688e-ee06-7aab-8db4-e352e54f41a6",
-      "time": "2026-07-16 09:33:45",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Bank of Korea says it is necessary to monitor elevated exchange-rate volatility."
-    },
-    {
-      "id": "4991102",
-      "time": "2026-07-16 09:33:44",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【豬肉板塊短線拉昇，大禹生物漲超9%】豬肉板塊短線拉昇，大禹生物漲超9%，天康生物、天邦食品、金新農、溫氏股份跟漲。"
-    },
-    {
-      "id": "4991101",
-      "time": "2026-07-16 09:33:44",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "創業板指跌3.04%，現報3689.053點；上證指數跌1.11%，現報3911.775點；深證成指跌2.30%，現報14440.059點。"
-    },
-    {
-      "id": "mkt:019f688e-e598-7aab-8db4-d84edd16b3e1",
-      "time": "2026-07-16 09:33:43",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade"
-      ],
-      "text": "【U.S. urges Vietnam to act on non-tariff barriers, economic security and IP】U.S. Trade Representative Greer said Thursday Washington is pressing Vietnam for more action on non-tariff barriers, economic-security cooperation and intellectual property as months-long trade talks continue. He said the U.S. would require Vietnam to align on export controls and related measures before allowing exports of certain high-tech equipment. Washington is also seeking tariff cuts, removal of NTBs that restrict U.S. goods and services, and IP standards consistent with U.S. firms. Vietnamese officials are in Washington this week for a new negotiating round amid three U.S. probes into Vietnam's trade practices; talks had stalled over stricter rules of origin, tougher anti-transshipment measures, market access and NTBs. Former President Trump had threatened a 40% tariff on goods deemed transshipped, though the definition remains unresolved."
-    },
-    {
-      "id": "4991100",
-      "time": "2026-07-16 09:33:40",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "中證500指數期貨連續主力合約日內跌2%，現報7885.00點。"
-    },
-    {
-      "id": "mkt:019f688e-b907-7aab-8db4-d66f5617b8e1",
-      "time": "2026-07-16 09:33:31",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The European-Mediterranean Seismological Centre reported a magnitude-5.8 earthquake at 10:57 local time on July 16 about 962 km south-southeast of Suva, Fiji, offshore; depth 340 km; epicenter 26.366°S, 178.694°W."
-    },
-    {
-      "id": "mkt:019f688e-937b-7aab-8db4-cb4fac812db7",
-      "time": "2026-07-16 09:33:22",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Regions",
-        "Greater China",
-        "Star Stocks",
-        "Alibaba",
-        "JD.com",
-        "09626.HK",
-        "Impact bullish",
-        "09988.HK",
-        "01024.HK"
-      ],
-      "text": "Hang Seng Tech Index rose over 1% in early trade as internet names rallied; Bilibili (09626.HK) and Alibaba (09988.HK) gained more than 4%, Kuaishou (01024.HK) rose over 3%, while Baidu (09888.HK) and JD.com (09618.HK) also advanced."
     }
   ]
 }
