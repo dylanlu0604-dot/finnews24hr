@@ -1,7 +1,273 @@
 {
-  "updated": "2026-07-23 16:34:29",
-  "count": 17578,
+  "updated": "2026-07-23 16:38:34",
+  "count": 17592,
   "items": [
+    {
+      "id": "5004062",
+      "time": "2026-07-23 16:37:15",
+      "tags": [
+        "公司"
+      ],
+      "text": "【鼎勝新材：董事陳魏新減持10.26萬股 減持計劃完成】鼎勝新材公告稱，董事陳魏新於2026年5月6日至7月21日透過集中競價方式減持公司股票102,600股，佔公司股份總數的0.0110%，減持價格區間為18.10 - 30.65元/股，減持總金額249.37萬元。本次減持後，陳魏新持股310,140股，佔比0.0334%，減持計劃已完成。"
+    },
+    {
+      "id": "5004061",
+      "time": "2026-07-23 16:36:52",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：新臺幣空頭倉位觸及三個月新高。"
+    },
+    {
+      "id": "5004060",
+      "time": "2026-07-23 16:36:49",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：對韓元的看空押注降至2月中旬以來最低水平。"
+    },
+    {
+      "id": "5004059",
+      "time": "2026-07-23 16:36:45",
+      "tags": [
+        "其他"
+      ],
+      "text": "路透調查：做空泰銖的頭寸規模升至4月初以來最高水平。"
+    },
+    {
+      "id": "mkt:019f8e1e-a804-7aab-8e60-a96869dde371",
+      "time": "2026-07-23 16:36:41",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "REUTERS SURVEY: Short positions on the Thai baht have risen to their highest level since early April."
+    },
+    {
+      "id": "mkt:019f8e1e-9e9f-7aab-8e60-a5d72e43401b",
+      "time": "2026-07-23 16:36:39",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "REUTERS SURVEY: Bearish bets on the South Korean won fell to their lowest level since mid-February."
+    },
+    {
+      "id": "5004058",
+      "time": "2026-07-23 16:36:37",
+      "tags": [
+        "公司"
+      ],
+      "text": "【國藥現代：獲得達格列淨片、阿卡波糖片《藥品註冊證書》】國藥現代公告稱，公司收到國家藥監局核准簽發的達格列淨片、阿卡波糖片《藥品註冊證書》，並視同透過一致性評價。達格列淨片適用於成人2型糖尿病等，2025年銷售額98.31億元，公司累計研發投入約986.99萬元；阿卡波糖片用於2型糖尿病等，2025年銷售額21.28億元，累計研發投入約1755.08萬元。此次獲證拓展產品群，增強競爭力，但對當期業績無重大影響，藥品銷售存不確定性。"
+    },
+    {
+      "id": "mkt:019f8e1e-8233-7aab-8e60-9d1cb78d66fb",
+      "time": "2026-07-23 16:36:31",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said Kazakhstan's Tengiz oilfield produced 406,000 bpd on Wednesday, down from a July average of 925,000 bpd."
+    },
+    {
+      "id": "5004057",
+      "time": "2026-07-23 16:36:30",
+      "tags": [
+        "公司"
+      ],
+      "text": "【嘉亨家化：杭州拼便宜要約收購期限屆滿 股票自7月24日起停牌】嘉亨家化公告，杭州拼便宜網路科技有限公司要約收購期限已屆滿。要約價格為33.21元/股，要約收購股份數量2126.88萬股，佔公司總股本的21.10%。公司股票自2026年7月24日（星期五）上午開市起停牌，並將在要約收購結果公告日開市起復牌。"
+    },
+    {
+      "id": "5004056",
+      "time": "2026-07-23 16:36:18",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行預計收購德國商業銀行交易將帶來 3.5 億歐元營收協同效應。"
+    },
+    {
+      "id": "5004055",
+      "time": "2026-07-23 16:36:12",
+      "tags": [
+        "國際"
+      ],
+      "text": "福特與吉利汽車攜手在歐洲合作，將在西班牙生產新一代多能源車型。"
+    },
+    {
+      "id": "mkt:019f8e1e-0b2d-7aab-8e60-9176ff3fffbc",
+      "time": "2026-07-23 16:36:01",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Sources said Kazakhstan oil and gas condensate output fell 21% on Wednesday to 1.63 mln bpd, below the July average of 2.07 mln bpd."
+    },
+    {
+      "id": "te:markets:569223",
+      "time": "2026-07-23 16:35:48",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 0"
+      ],
+      "text": "Crude Oil Rises for 5th Session — Crude oil rose more than 3% to around $89.5 a barrel on Thursday, extending gains for a fifth straight session to the highest since June 10, after fresh attacks on oil tankers near Saudi Arabia and renewed US threats against Iran heightened fears of supply disruptions. The UK Maritime Trade Operations agency reported that a tanker caught fire after being struck about 70 nautical miles southwest of Al Shuqaiq, with Yemen's Houthi rebels claiming responsibility, saying they had targeted two Saudi tankers with drones and missiles for violating their maritime blockade. The incident came hours after President Donald Trump warned that the US would strike an Iranian bridge or power plant every time Tehran attacked a vessel in the Strait of Hormuz, signaling a further escalation following the collapse of the US-Iran ceasefire. Iran responded by warning it would retaliate against US-linked infrastructure and energy assets across the region if Washington followed through on its threats."
+    },
+    {
+      "id": "5004054",
+      "time": "2026-07-23 16:35:47",
+      "tags": [
+        "國際"
+      ],
+      "text": "據韓聯社23日報道，韓國統一部長官鄭東泳表示，應調整對朝鮮政策思路，擺脫“無核化優先”政策框架。（新華社）"
+    },
+    {
+      "id": "te:economy:569222",
+      "time": "2026-07-23 16:35:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "United Kingdom",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "UK Gilt Yields Rise on Fiscal Concerns, Oil Surge — The UK 10-year gilt yield climbed toward 5.1% on Thursday, reaching its highest level since May 20, after Finance Minister John Healey warned about the rising cost of doing business alongside persistent cost-of-living pressures. The 30-year gilt yield, which is particularly sensitive to fiscal risks, also rose to 5.78%, its highest level since May 19. Earlier in the day, Prime Minister Andy Burnham announced a 20% cut in business rates for pubs, clubs, and live music venues starting in April, marking the third announcement of support measures for businesses and households in three days. He also reiterated his commitment to maintaining fiscal discipline. Adding to the upward pressure on yields, oil prices climbed to near two-month highs amid escalating tensions in the Middle East, fueling inflation concerns. Money markets now price in nearly two Bank of England's quarter-point interest rate hikes by the end of the year."
+    },
+    {
+      "id": "mkt:019f8e1d-ca14-7aab-8e60-8ed3698d9464",
+      "time": "2026-07-23 16:35:44",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "Two sources said Kazakhstan's daily oil output fell after loading was suspended at the CPC export terminal on the Black Sea."
+    },
+    {
+      "id": "5004053",
+      "time": "2026-07-23 16:35:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "訊息人士稱，黑海CPC終端暫停裝載後，哈薩克日均石油產量下降。"
+    },
+    {
+      "id": "5004052",
+      "time": "2026-07-23 16:35:24",
+      "tags": [
+        "其他"
+      ],
+      "text": "一名訊息人士稱，哈薩克週三石油與凝析油產量較7月日均207萬桶的平均水平下降21%，至日均163萬桶。"
+    },
+    {
+      "id": "mkt:019f8e1d-6edd-7aab-8e60-8103cde9a043",
+      "time": "2026-07-23 16:35:21",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "US Economy",
+        "DXY",
+        "Impact bullish",
+        "S&P500",
+        "US10Y",
+        "Impact mixed"
+      ],
+      "text": "UAE says its $1.4 trillion investment commitment to the US is being delivered ahead of schedule."
+    },
+    {
+      "id": "5004051",
+      "time": "2026-07-23 16:35:20",
+      "tags": [
+        "其他"
+      ],
+      "text": "一名訊息人士稱，哈薩克騰吉茲油田週三原油產量降至每日40.6萬桶，低於7月份每日92.5萬桶的平均水平。"
+    },
+    {
+      "id": "mkt:019f8e1d-42b1-7aab-8e60-7aa97c792967",
+      "time": "2026-07-23 16:35:09",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "01929.HK",
+        "Impact bullish"
+      ],
+      "text": "【Chow Tai Fook Q1 retail value up 15.1% YoY】Chow Tai Fook (01929.HK) said unaudited key operating data for the three months ended June 30, 2026 showed retail value rose 15.1% YoY. Same-store average selling price for priced gold jewellery remained strong: mainland ASP rose to HK$10,600 (Q1 FY2026: HK$8,400), while Hong Kong and Macau ASP rose to HK$17,100 (Q1 FY2026: HK$15,600)."
+    },
+    {
+      "id": "5004050",
+      "time": "2026-07-23 16:35:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【抖音集團副總裁：“平臺為了流量養營銷號”系誤解，長期看不符合平臺利益】抖音集團副總裁李亮表示，平臺為了流量去“養”營銷號，這完全是誤解。營銷號批次生產的套路化內容，不僅損害使用者體驗，也會擠壓認真創作者的空間，長期來看不符合平臺的利益。"
+    },
+    {
+      "id": "5004049",
+      "time": "2026-07-23 16:34:54",
+      "tags": [
+        "市場"
+      ],
+      "text": "【周大福：2026第一財季零售值同比增長15.1%】周大福(01929.HK)釋出截至2026年6月30日止三個月未經稽核主要經營資料，其中零售值同比增長15.1%。計價黃金首飾的同店平均售價於季內保持強勢。內地的平均售價持續上升至10,600港元（2026財政年度第一季度：8,400港元），香港及澳門的平均售價則上升至17,100港元（2026財政年度第一季度：15,600港元）。"
+    },
+    {
+      "id": "mkt:019f8e1c-ffb6-7aab-8e60-750fccc25787",
+      "time": "2026-07-23 16:34:52",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars"
+      ],
+      "text": "UAE minister of foreign trade says the UAE will soon import high-end AI chips from the US."
+    },
+    {
+      "id": "5004048",
+      "time": "2026-07-23 16:34:41",
+      "tags": [
+        "公司"
+      ],
+      "text": "泛歐法院向互聯數字公司頒發另一項針對迪士尼的禁令。"
+    },
+    {
+      "id": "mkt:019f8e1c-8eeb-7aab-8e60-68d019076e68",
+      "time": "2026-07-23 16:34:23",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "UAE minister for foreign trade said the UAE will announce this week a trade agreement reached with Canada."
+    },
+    {
+      "id": "5004047",
+      "time": "2026-07-23 16:34:12",
+      "tags": [
+        "公司"
+      ],
+      "text": "【科力遠：回應上交所2025年年報問詢 業務銷售及資金情況合規】科力遠公告稱，公司收到上交所對2025年年報的問詢函。2025年公司營收57.46億元，同比增長45.89%，其中儲能產品收入17.48億元，同比增長1668.95%。獨立董事核查後認為，公司儲能業務相關銷售基於真實商業需求，具備商業實質；應收賬款及合同資產相關披露真實準確，無異常逾期等情況。貨幣資金方面，利息收入與規模匹配，無資金流向關聯方等情形；新增借款用於專案建設等，有必要性與合理性，能防範償債風險；受限資金安排合理，餘額增加與業務擴張匹配；其他非流動資產預付安排合理，無資金流向關聯方情況。"
+    },
+    {
+      "id": "te:markets:569221",
+      "time": "2026-07-23 16:34:12",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 2"
+      ],
+      "text": "Brent Rises to 7-Week High — Brent crude oil surged 4% to around $97.9 a barrel on Thursday, the highest level since June 3, after fresh attacks on oil tankers near Saudi Arabia and renewed US threats against Iran heightened fears of supply disruptions. The UK Maritime Trade Operations agency reported that a tanker caught fire after being struck about 70 nautical miles southwest of Al Shuqaiq, with Yemen's Houthi rebels claiming responsibility, saying they had targeted two Saudi tankers with drones and missiles for violating their maritime blockade. The incident came hours after President Donald Trump warned that the US would strike an Iranian bridge or power plant every time Tehran attacked a vessel in the Strait of Hormuz, signaling a further escalation following the collapse of the US-Iran ceasefire. Iran responded by warning it would retaliate against US-linked infrastructure and energy assets across the region if Washington followed through on its threats."
+    },
     {
       "id": "5004046",
       "time": "2026-07-23 16:33:47",
@@ -160704,140 +160970,6 @@
         "公司"
       ],
       "text": "【久立特材：實際控制人之一致行動人一畝田完成增持公司0.06%股份】久立特材公告，公司實際控制人周志江先生之一致行動人湖州一畝田企業管理有限公司於2026年7月15日透過集中競價交易方式增持公司股份62.91萬股，佔公司總股本的0.06%，成交均價為17.48元/股，成交總金額為1099.5萬元。本次增持後，一畝田持股數量增至182.91萬股，佔總股本0.19%，公司實際控制人及其一致行動人合計持股比例由39.42%升至39.48%。"
-    },
-    {
-      "id": "4991845",
-      "time": "2026-07-16 16:38:31",
-      "tags": [
-        "宏觀",
-        "國際"
-      ],
-      "text": "韓國金融委員會官員：週四出臺的政策措施並非針對海外券商。"
-    },
-    {
-      "id": "4991844",
-      "time": "2026-07-16 16:38:12",
-      "tags": [
-        "公司"
-      ],
-      "text": "【首藥控股：SY-12321膠囊單藥在ALK陽性晚期實體瘤的臨床試驗申請獲得批准】首藥控股公告，公司於近日收到國家藥品監督管理局核准簽發的《藥物臨床試驗批准通知書》，作為第四代ALK抑制劑候選藥物，SY-12321膠囊單藥在間變性淋巴瘤激酶（ALK）陽性晚期實體瘤的臨床試驗申請獲得批准。"
-    },
-    {
-      "id": "4991843",
-      "time": "2026-07-16 16:37:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "【諾貝爾化學獎得主奧馬爾·亞吉：中國在人工智慧領域的成就絕非偶然】近日，在接受總檯《高階訪談》專訪時，2025年諾貝爾化學獎得主清華大學講席教授奧馬爾·亞吉高度讚揚了中國在推動人工智慧發展方面取得的成就。他表示，中國在眾多科技領域實現了快速發展，人工智慧是最具代表性的一個，而取得這些成就絕非偶然。（央視新聞）"
-    },
-    {
-      "id": "4991842",
-      "time": "2026-07-16 16:37:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "英國競爭與市場管理局：致函私營停車場運營商，概述對申訴流程及可能不公平附加收費的擔憂。"
-    },
-    {
-      "id": "4991841",
-      "time": "2026-07-16 16:37:11",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【Q2淨利為何環比下滑？德明利回應】7月16日，德明利再次跌停，連續兩日“一字”跌停。針對市場關注的公司二季度淨利潤環比下滑的情況，德明利回應稱，二季度淨利潤表現受多方面因素影響：一是費用端有所抬升，包括研發投入增加、產能建設帶來計提增加、股份支付費用提升等；二是公司持續看好後續行業景氣度繼續向上，積極加大戰略儲備支撐業務快速擴張，存貨戰略儲備充足；三是客戶拓展投入增加，公司企業級儲存、嵌入式儲存，記憶體等業務仍處於加速擴張階段，此類產品認證週期較長、前期適配測試投入較大，且研發費用、銷售費用亦有所增加，業務擴張期相應投入需逐步兌現業績。上述投入均為長期戰略佈局，並已在二季度開始逐步產生積極貢獻，後續將為公司業績釋放奠定紮實基礎。（上證報）"
-    },
-    {
-      "id": "4991840",
-      "time": "2026-07-16 16:36:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【格林美：擬1-1.6億元回購股份用於激勵計劃】格林美公告稱，公司於7月16日召開董事會，審議透過回購股份方案，擬用自有或自籌資金，以不超10.60元/股的價格，透過集中競價回購1-1.6億元股份，用於股權激勵或員工持股計劃。若按資金總額上限和價格上限測算，預計可回購股份約1509.43萬股，佔總股本0.30%；按下限測算，預計回購約943.40萬股，佔比0.18%。實施期限為12個月。本次回購存在價格、資金等不確定性風險。"
-    },
-    {
-      "id": "4991839",
-      "time": "2026-07-16 16:36:04",
-      "tags": [
-        "公司"
-      ],
-      "text": "【步長製藥：控股股東質押2900萬股 累計質押佔總股本9.63%】步長製藥公告稱，7月16日獲悉控股股東步長（香港）辦理股份質押手續，質押2900萬股，佔公司總股本2.75%，質權人為集友銀行有限公司，用於經營所需。截至公告披露日，步長（香港）累計質押1.02億股，佔其所持公司股份總數的20.68%，佔公司總股本的9.63%。步長（香港）及其一致行動人合計持有公司股份佔總股本56.72%，累計質押股份佔其所持公司股份總數的16.97%，佔公司總股本的9.63%。本次質押不會導致實控權變更，不影響公司生產經營和治理。"
-    },
-    {
-      "id": "mkt:019f6a11-69e9-7aab-8dc3-28c86d399abb",
-      "time": "2026-07-16 16:35:53",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "Nasdaq100"
-      ],
-      "text": "U.S. Commerce Department says TSMC investment will create substantial construction and high-tech jobs and generate billions of dollars in indirect economic output."
-    },
-    {
-      "id": "4991838",
-      "time": "2026-07-16 16:35:12",
-      "tags": [
-        "其他"
-      ],
-      "text": "【蜂巢能源釋出首款可規模化量產的混合固液6C超充電芯】7月16日，蜂巢能源於全球合作伙伴峰會發布首款可規模化量產的混合固液6C超充電芯，容量超150Ah，對應120+ kWh電池包，續航突破750km，能量密度達233Wh/kg，峰值充電倍率達8C，能夠實現7分鐘完成10%-80% SOC補能。據蜂巢能源介紹，該款電池計劃2027年三季度量產。此外，蜂巢能源還於會上釋出了蜂行短刀3.0、全新大電量磷酸鐵鋰HEV電池包等新品，覆蓋動力、儲能及新興市場的應用場景。與此同時，蜂巢能源宣佈第四代疊片技術“飛疊4.0”將於年內量產交付，憑藉全球首創16片同時疊技術，疊片效率將實現翻倍。"
-    },
-    {
-      "id": "mkt:019f6a10-c8be-7aab-8dc3-22b80ac2f387",
-      "time": "2026-07-16 16:35:12",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.O",
-        "Impact bullish"
-      ],
-      "text": "U.S. Commerce Department says additional investment marks a major expansion of TSMC's commitment to build fabs and facilities in the U.S."
-    },
-    {
-      "id": "mkt:019f6a10-c42f-7aab-8dc3-195cbd0d9157",
-      "time": "2026-07-16 16:35:11",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "U.S. Commerce Department: including newly added facilities, TSMC's $265 billion investment will result in a total of 12 facilities in the United States."
-    },
-    {
-      "id": "4991837",
-      "time": "2026-07-16 16:35:00",
-      "tags": [
-        "公司"
-      ],
-      "text": "【智翔金泰：泰利奇拜單抗注射液成人中、重度特應性皮炎適應症上市申請獲得受理】智翔金泰公告，近日，公司就泰利奇拜單抗注射液（GR1802注射液）用於成人中、重度特應性皮炎適應症向國家藥品監督管理局（NMPA）藥品審評中心（CDE）提交了新藥上市申請並獲得受理。泰利奇拜單抗注射液（GR1802注射液）是一款由公司自主研發的重組全人源抗IL-4Rα單克隆抗體，作用靶點為IL-4Rα。"
-    },
-    {
-      "id": "mkt:019f6a10-8070-7aab-8dc3-1477b04c140d",
-      "time": "2026-07-16 16:34:54",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "Chip Wars",
-        "TSM.N",
-        "Impact bullish"
-      ],
-      "text": "U.S. Commerce Department said the Trump administration secured an additional $100 billion in semiconductor manufacturing investment allocation for TSMC, bringing the total to $265 billion."
-    },
-    {
-      "id": "4991836",
-      "time": "2026-07-16 16:34:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國商務部：隨著新增設施的建設，臺積電2650億美元的投資將在美國總共提供12處設施。"
     }
   ]
 }
