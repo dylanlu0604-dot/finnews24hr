@@ -1,7 +1,97 @@
 {
   "date": "2026-07-23",
-  "count": 1321,
+  "count": 1330,
   "items": [
+    {
+      "id": "mkt:019f8d7a-d83c-7aab-8e5b-0bf883eb4181",
+      "time": "2026-07-23 13:37:45",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "WTI",
+        "Brent"
+      ],
+      "text": "TASNIM NEWS: the Islamic Revolutionary Guard Corps said it struck a US base in Jordan, destroying a THAAD radar; it said a Patriot system and a C-RAM radar were also hit and destroyed and the base's fuel depot was set ablaze."
+    },
+    {
+      "id": "5003651",
+      "time": "2026-07-23 13:37:26",
+      "tags": [
+        "國際"
+      ],
+      "text": "【伊媒：兩艘搜救船隻遭美軍襲擊受損】伊朗法爾斯通訊社23日援引伊朗地方官員的話報道說，兩艘搜救船隻在伊朗霍爾木茲甘省附近海域遭美軍襲擊受損。（新華社）"
+    },
+    {
+      "id": "mkt:019f8d7a-6eb1-7aab-8e5b-027d8fd66e1f",
+      "time": "2026-07-23 13:37:18",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China EV Leaders",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "【Hyundai Motor Q2 operating profit misses as global retail vehicle sales fall】Hyundai Motor said Q2 operating profit for the three months to June 30 was KRW 2.85 tln (USD 1.9 bln), down about 21% YoY and below analysts’ KRW 3.1 tln forecast. Revenue rose roughly 2% to KRW 49.2 tln, a quarterly record. The company cited weaker global retail vehicle sales, U.S. cancellation of EV support measures and intensifying competition—particularly from Chinese automakers—as key demand pressures; tariffs are also weighing on performance in Europe and Asia despite increased North American sales. Wage talks with unions remain deadlocked, and strike-related stoppages are costing the company millions of dollars per hour."
+    },
+    {
+      "id": "mkt:019f8d79-89df-7aab-8e5a-ff2ceac875b0",
+      "time": "2026-07-23 13:36:20",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China"
+      ],
+      "text": "Taiwan Stock Exchange Weighted Index (TAIEX) closed up 25.03 points, or 0.06%, at 44,850.81 on Thursday, July 23."
+    },
+    {
+      "id": "5003650",
+      "time": "2026-07-23 13:36:17",
+      "tags": [
+        "宏觀",
+        "公司",
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【槓桿ETF被限 韓國散戶湧向高風險差價合約】韓國金融服務委員會、財政部和韓國央行7月16日舉行聯合會議後決定，收緊韓國單一股票槓桿交易保證金要求，最低保證金從1000萬韓元提高至3000萬韓元，且僅認可現金作為保證金。然而，追逐風險的散戶投資者正湧向差價合約（CFDs）。根據韓國金融投資協會的資料，截至週一（7月20日），韓國綜合KOSPI指數的CFDs的持有量在過去一年中躍升了近三分之二，達到約3.3萬億韓元（22億美元）接近峰值，它們的槓桿率可能高達2.5倍。在單一股票層面，過去一年的流量追蹤了市場的明星股：SK海力士的CFDs的持有量飆升了近2500%，達到2350億韓元。三星電子的持股量躍升了五倍，達到2170億韓元。CFDs是一種以資產價格變化差額進行結算的金融衍生品，交易者無需實際持有標的資產即可參與市場漲跌，被廣泛應用於股票、外匯、指數、大宗商品以及加密貨幣市場，並通常結合槓桿機制放大交易敞口。"
+    },
+    {
+      "id": "mkt:019f8d79-66b6-7aab-8e5a-f63b7b3e0f2b",
+      "time": "2026-07-23 13:36:11",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "China Tech Giants",
+        "09888.HK",
+        "Impact bullish"
+      ],
+      "text": "Baidu (09888.HK) rose as much as 4% in afternoon trade, trimming gains to 2.59%."
+    },
+    {
+      "id": "5003649",
+      "time": "2026-07-23 13:35:46",
+      "tags": [
+        "其他"
+      ],
+      "text": "【“太空光伏工作組”將成立 擬構建太空光伏領域標準體系框架】為補齊我國太空光伏領域標準空白，規範技術研發、試驗驗證與工程應用，推動太空光伏產業規範化、高質量、體系化發展，中國材料與試驗標準化委員會建築材料標準化領域委員會太陽能光伏系統應用標準化技術委員會（CSTM/FC03/TC22）擬正式籌備成立太空光伏工作組。工作組主要職責包括開展太空光伏領域國內外標準現狀、技術現狀、產業需求調研，構建領域標準體系框架；圍繞太空光伏極端環境測試、可靠性評價、在軌驗證、系統整合等關鍵技術開展技術研討與課題研究；推動太空光伏先進技術、測試方法、創新成果的標準化轉化與行業推廣應用等。"
+    },
+    {
+      "id": "5003648",
+      "time": "2026-07-23 13:35:13",
+      "tags": [
+        "市場"
+      ],
+      "text": "臺灣加權股價指數收盤變動不大，報44,850.81。"
+    },
+    {
+      "id": "5003647",
+      "time": "2026-07-23 13:34:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "伊朗襲擊了位於約旦的美國導彈防禦系統和雷達。"
+    },
     {
       "id": "5003646",
       "time": "2026-07-23 13:33:39",
