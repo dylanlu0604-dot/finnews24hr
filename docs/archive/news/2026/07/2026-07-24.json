@@ -1,7 +1,57 @@
 {
   "date": "2026-07-24",
-  "count": 289,
+  "count": 293,
   "items": [
+    {
+      "id": "te:economy:569369",
+      "time": "2026-07-24 03:42:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Holds Interest Rate at 5.5% — Paraguay's central bank kept its benchmark interest rate unchanged at 5.5% in July 2026. Policymakers noted that domestic economic activity continues to outperform expectations, prompting an upward revision to the country's 2026 GDP growth forecast to 4.5% from 4.2%, supported by stronger prospects for agriculture, manufacturing, utilities, and services. At the same time, the inflation forecast for 2026 was lowered to 3.3% from 3.5%, reflecting softer price pressures for non-energy goods. Headline inflation eased to 2.1% in June, while core inflation remained at 1.1%, with inflation expectations anchored at 3.5%. Despite the favorable domestic outlook, the central bank highlighted rising external risks, including higher oil prices driven by Middle East tensions and expectations of further Federal Reserve rate hikes."
+    },
+    {
+      "id": "mkt:019f907f-77b0-7aab-8e72-9538b97b0040",
+      "time": "2026-07-24 03:41:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Tesla (TSLA.O) hit an intraday low, trading down more than 15%."
+    },
+    {
+      "id": "5005370",
+      "time": "2026-07-24 03:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉跌幅擴大至15%，觸及盤中低點。"
+    },
+    {
+      "id": "mkt:019f907d-9c43-7aab-8e72-8f7d61439024",
+      "time": "2026-07-24 03:39:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Sources: OPEC+ likely to raise production quota by 188,000 bpd】Sources say OPEC+ is likely to agree at its Aug. 2 meeting to raise the September production target by about 188,000 bpd, matching the June–August increases, though the war in Iran is preventing some members from boosting output. OPEC+ output remains well below quotas: June production was 36.28 mln bpd versus nearly 43.0 mln bpd in February before the conflict. Refinitiv calculations show that, after accounting for the UAE’s exit, a further ~188,000 bpd increase in the September target would fully unwind the 2023 production cuts."
+    },
     {
       "id": "mkt:019f9077-76c9-7aab-8e72-809c5a2d60ea",
       "time": "2026-07-24 03:32:55",

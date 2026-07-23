@@ -1,7 +1,57 @@
 {
-  "updated": "2026-07-24 03:38:42",
-  "count": 18015,
+  "updated": "2026-07-24 03:42:37",
+  "count": 18017,
   "items": [
+    {
+      "id": "te:economy:569369",
+      "time": "2026-07-24 03:42:00",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Paraguay",
+        "Interest Rate",
+        "Importance 1"
+      ],
+      "text": "Paraguay Holds Interest Rate at 5.5% — Paraguay's central bank kept its benchmark interest rate unchanged at 5.5% in July 2026. Policymakers noted that domestic economic activity continues to outperform expectations, prompting an upward revision to the country's 2026 GDP growth forecast to 4.5% from 4.2%, supported by stronger prospects for agriculture, manufacturing, utilities, and services. At the same time, the inflation forecast for 2026 was lowered to 3.3% from 3.5%, reflecting softer price pressures for non-energy goods. Headline inflation eased to 2.1% in June, while core inflation remained at 1.1%, with inflation expectations anchored at 3.5%. Despite the favorable domestic outlook, the central bank highlighted rising external risks, including higher oil prices driven by Middle East tensions and expectations of further Federal Reserve rate hikes."
+    },
+    {
+      "id": "mkt:019f907f-77b0-7aab-8e72-9538b97b0040",
+      "time": "2026-07-24 03:41:40",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish",
+        "Nasdaq100",
+        "S&P500"
+      ],
+      "text": "Tesla (TSLA.O) hit an intraday low, trading down more than 15%."
+    },
+    {
+      "id": "5005370",
+      "time": "2026-07-24 03:40:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "特斯拉跌幅擴大至15%，觸及盤中低點。"
+    },
+    {
+      "id": "mkt:019f907d-9c43-7aab-8e72-8f7d61439024",
+      "time": "2026-07-24 03:39:38",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bearish",
+        "Brent"
+      ],
+      "text": "【Sources: OPEC+ likely to raise production quota by 188,000 bpd】Sources say OPEC+ is likely to agree at its Aug. 2 meeting to raise the September production target by about 188,000 bpd, matching the June–August increases, though the war in Iran is preventing some members from boosting output. OPEC+ output remains well below quotas: June production was 36.28 mln bpd versus nearly 43.0 mln bpd in February before the conflict. Refinitiv calculations show that, after accounting for the UAE’s exit, a further ~188,000 bpd increase in the September target would fully unwind the 2023 production cuts."
+    },
     {
       "id": "mkt:019f9077-76c9-7aab-8e72-809c5a2d60ea",
       "time": "2026-07-24 03:32:55",
@@ -164986,22 +165036,6 @@
         "其他"
       ],
       "text": "市場訊息：五角大樓與共和黨參議員召開會議，核心議題為 Anthropic 旗下 Mythos 大模型。"
-    },
-    {
-      "id": "4992911",
-      "time": "2026-07-17 03:40:19",
-      "tags": [
-        "市場"
-      ],
-      "text": "【紐約可可期貨跌7.5%】週四（7月16日）紐約尾盤，ICE原糖期貨跌2.96%，ICE白糖期貨跌1.50%。ICE咖啡“C”期貨跌3.92%。羅布斯塔咖啡期貨跌2.74%。紐約可可期貨跌7.51%，報5441美元/噸。倫敦可可期貨跌8.81%。芝加哥WCE雙低油菜籽期貨跌1.20%。ICE棉花期貨跌2.84%。"
-    },
-    {
-      "id": "mkt:019f6c71-38db-7aab-8dd0-5bf5b8d60def",
-      "time": "2026-07-17 03:39:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "The U.S. State Department approved a potential foreign military sale to the government of Greece of a lethal micro loitering munitions system."
     }
   ]
 }
