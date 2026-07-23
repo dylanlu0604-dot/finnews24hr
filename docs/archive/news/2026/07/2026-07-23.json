@@ -1,7 +1,46 @@
 {
   "date": "2026-07-23",
-  "count": 1078,
+  "count": 1082,
   "items": [
+    {
+      "id": "mkt:019f8cfe-bf01-7aab-8e58-6543712e7296",
+      "time": "2026-07-23 11:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【Navigation warning: Taiwan Strait live-fire exercises】Zhangzhou Maritime Safety Administration posted on the China Maritime Safety Administration website a navigation warning banning entry to parts of the Taiwan Strait for live-fire exercises from July 23 06:00–18:00 and July 24 06:00–18:00."
+    },
+    {
+      "id": "mkt:019f8cfe-815d-7aab-8e58-5ed70a448379",
+      "time": "2026-07-23 11:21:57",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bearish"
+      ],
+      "text": "Susquehanna cuts SanDisk (SNDK.O) PT to $3,050 from $3,250."
+    },
+    {
+      "id": "5003499",
+      "time": "2026-07-23 11:19:18",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【航行警告 臺灣海峽軍事演習】據中國海事局網站訊息，漳州海事局釋出航行警告，7月23日6時至18時、7月24日6時至18時，臺灣海峽部分海域進行實彈射擊，禁止進入。"
+    },
+    {
+      "id": "5003498",
+      "time": "2026-07-23 11:19:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍連續第12晚打擊伊朗 持續5個小時】美軍中央司令部22日在社交媒體發表宣告稱，美軍已完成最新一輪對伊朗的打擊行動。這是美軍連續第12晚打擊伊朗，打擊共持續5個小時。宣告稱，美軍於美國東部時間22日22時30分（北京時間23日10時30分）完成針對伊朗的最新一輪打擊，目標包括伊朗海上作戰設施、導彈和無人機儲存設施、沿海監視站點以及防空設施等。宣告稱，美軍本月已對伊朗境內數十處軍事目標實施打擊，同時重啟了海上封鎖行動。截至目前，美軍已迫使9艘商船改變航線，令一艘船隻喪失航行能力，阻止它們進出伊朗港口。美軍於美國東部時間22日17時30分開始當天對伊朗的新一輪打擊。（新華社）"
+    },
     {
       "id": "5003497",
       "time": "2026-07-23 11:18:11",

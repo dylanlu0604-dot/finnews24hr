@@ -1,7 +1,46 @@
 {
-  "updated": "2026-07-23 11:19:28",
+  "updated": "2026-07-23 11:23:28",
   "count": 17556,
   "items": [
+    {
+      "id": "mkt:019f8cfe-bf01-7aab-8e58-6543712e7296",
+      "time": "2026-07-23 11:22:12",
+      "tags": [
+        "MKT News",
+        "Important",
+        "DXY",
+        "Impact bullish",
+        "XAUUSD",
+        "WTI"
+      ],
+      "text": "【Navigation warning: Taiwan Strait live-fire exercises】Zhangzhou Maritime Safety Administration posted on the China Maritime Safety Administration website a navigation warning banning entry to parts of the Taiwan Strait for live-fire exercises from July 23 06:00–18:00 and July 24 06:00–18:00."
+    },
+    {
+      "id": "mkt:019f8cfe-815d-7aab-8e58-5ed70a448379",
+      "time": "2026-07-23 11:21:57",
+      "tags": [
+        "MKT News",
+        "SNDK.O",
+        "Impact bearish"
+      ],
+      "text": "Susquehanna cuts SanDisk (SNDK.O) PT to $3,050 from $3,250."
+    },
+    {
+      "id": "5003499",
+      "time": "2026-07-23 11:19:18",
+      "tags": [
+        "焦點"
+      ],
+      "text": "【航行警告 臺灣海峽軍事演習】據中國海事局網站訊息，漳州海事局釋出航行警告，7月23日6時至18時、7月24日6時至18時，臺灣海峽部分海域進行實彈射擊，禁止進入。"
+    },
+    {
+      "id": "5003498",
+      "time": "2026-07-23 11:19:00",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍連續第12晚打擊伊朗 持續5個小時】美軍中央司令部22日在社交媒體發表宣告稱，美軍已完成最新一輪對伊朗的打擊行動。這是美軍連續第12晚打擊伊朗，打擊共持續5個小時。宣告稱，美軍於美國東部時間22日22時30分（北京時間23日10時30分）完成針對伊朗的最新一輪打擊，目標包括伊朗海上作戰設施、導彈和無人機儲存設施、沿海監視站點以及防空設施等。宣告稱，美軍本月已對伊朗境內數十處軍事目標實施打擊，同時重啟了海上封鎖行動。截至目前，美軍已迫使9艘商船改變航線，令一艘船隻喪失航行能力，阻止它們進出伊朗港口。美軍於美國東部時間22日17時30分開始當天對伊朗的新一輪打擊。（新華社）"
+    },
     {
       "id": "5003497",
       "time": "2026-07-23 11:18:11",
@@ -160530,47 +160569,6 @@
         "國際"
       ],
       "text": "菲律賓股市指數上漲1%至6366.16點。"
-    },
-    {
-      "id": "4991305",
-      "time": "2026-07-16 11:22:48",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "日本央行高階官員：日本央行政策調整延遲或將對經濟造成壓力。"
-    },
-    {
-      "id": "mkt:019f68f1-8e8f-7aab-8db8-bce5065c24c5",
-      "time": "2026-07-16 11:21:28",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "The Trump Trade",
-        "S&P500",
-        "Impact bullish",
-        "Nasdaq100",
-        "DXY",
-        "Impact bearish"
-      ],
-      "text": "【U.S. trade representative says Switzerland made positive progress in talks with U.S.】U.S. Trade Representative Greer praised Switzerland’s stance in negotiations with Washington, saying talks are ongoing and the direction is positive though no guarantees can be made. After President Trump’s surprise 39% tariff announcement last August, Swiss and U.S. officials reached a preliminary framework three months later to cap tariffs at 15% (in line with EU levels) in exchange for U.S. tariff reductions; Switzerland offered duty‑free import quotas for U.S. meat, eased access for some other agricultural products, and Swiss firms committed about $200bn of U.S. investment — Greer also highlighted Swiss investment projects in Utah."
-    },
-    {
-      "id": "em:qqyh_rbyh:202607163808794390",
-      "time": "2026-07-16 11:20:03",
-      "tags": [
-        "央行",
-        "日本央行"
-      ],
-      "text": "【日本央行高階官員：若延遲調整刺激力度 可能使風險變成現實】日本央行高階官員表示，當前通脹上行風險較高，若延遲調整刺激力度，可能使風險變成現實，導致未來經濟下行。"
-    },
-    {
-      "id": "4991304",
-      "time": "2026-07-16 11:19:52",
-      "tags": [
-        "其他"
-      ],
-      "text": "【最高40-42℃，重慶釋出高溫紅色預警】重慶市氣象臺釋出高溫紅色預警訊號：預計16日11:00-22:00，兩江新區、渝中、沙坪壩、大渡口、九龍坡、南岸、高新區、北碚、潼南、合川、銅梁、璧山、江津、綦江、長壽、墊江、豐都、忠縣、萬州、開州、雲陽、奉節、巫溪、巫山、彭水等25個區縣，日最高氣溫將升至40-42℃；巴南、大足、榮昌、永川、萬盛經開區、南川、涪陵、梁平、城口、武隆、石柱等11個區縣，日最高氣溫將升至37-40℃。"
     }
   ]
 }
