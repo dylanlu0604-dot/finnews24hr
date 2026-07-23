@@ -1,7 +1,124 @@
 {
-  "updated": "2026-07-23 21:59:15",
-  "count": 17977,
+  "updated": "2026-07-23 22:03:19",
+  "count": 17969,
   "items": [
+    {
+      "id": "mkt:019f8f48-c558-7aab-8e6d-9c70081ed9fb",
+      "time": "2026-07-23 22:02:18",
+      "tags": [
+        "MKT News",
+        "LMT.N",
+        "Impact bullish"
+      ],
+      "text": "Lockheed Martin (LMT.N) gains widened to 12%, its largest intraday increase since 2020."
+    },
+    {
+      "id": "5005001",
+      "time": "2026-07-23 22:01:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "洛克希德·馬丁公司股價漲幅擴大至12%，創2020年以來最大盤中漲幅。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607233819270047",
+      "time": "2026-07-23 22:01:26",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "歐元區7月消費者信心指數初值為-15.9，預期為-17，前值為-17.7。"
+    },
+    {
+      "id": "mkt:019f8f47-a9b8-7aab-8e6d-920bcb2c33f9",
+      "time": "2026-07-23 22:01:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Eurozone preliminary July consumer confidence -15.9, versus -17 expected and -17.7 previously."
+    },
+    {
+      "id": "mkt:019f8f47-88de-7aab-8e6d-8ad44916c231",
+      "time": "2026-07-23 22:00:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Consumer Confidence Flash Estimate (Jul) | actual -15.9 | consensus -17 | previous -17.7"
+    },
+    {
+      "id": "5005000",
+      "time": "2026-07-23 22:00:49",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區7月消費者信心指數初值為-15.9；預期值為-17.0。"
+    },
+    {
+      "id": "5004999",
+      "time": "2026-07-23 22:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：預計委內瑞拉地震造成196億美元的直接物理損失。"
+    },
+    {
+      "id": "5004998",
+      "time": "2026-07-23 22:00:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：本週單晶矽片市場情緒消極 矽片價格承壓下行】據安泰科統計，本週矽片價格承壓下行。其中，N型G10L單晶矽片(182*183.75mm/130μm)成交均價在0.83元/片，環比上週下跌2.35%；N型G12R單晶矽片(182*210mm/130μm)成交均價在0.93元/片，環比上週下跌2.11%；N型G12單晶矽片(210*210 mm/130μm)成交均價在1.12元/片，環比上週下跌1.75%。據調研瞭解，本週下游電池片和元件價格較上週小幅下跌，其中電池片主流價格0.25-0.27元/W，環比上週下跌1.89%；元件主流價格0.67-0.70元/W，環比上週下跌2.17%。（矽業分會）"
+    },
+    {
+      "id": "5004997",
+      "time": "2026-07-23 22:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 阿拉克斯簽署最終協議，以 30 億美元收購 RIA Transcend Capital。"
+    },
+    {
+      "id": "mkt:019f8f46-f532-7aab-8e6d-8366c1ac8055",
+      "time": "2026-07-23 22:00:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG estimates the Venezuela earthquake caused $19.6 billion in direct physical losses."
+    },
+    {
+      "id": "5004996",
+      "time": "2026-07-23 22:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普擔心政府停擺】當地時間7月22日，美國總統特朗普在美國佐治亞州表示：“我不是愛哭的人，我想你們也不願看到我哭。”根據美國參議院“冗長辯論”規則，普通法案透過需獲得100個席位中至少60票贊成。但共和黨只有53個席位，不佔有絕對多數，如果民主黨參議員全員否決，普通法案或將止步於參議院。特朗普說：“一旦讓他們（民主黨）得逞，到那時候（政府‘停擺’），我只能在家閒著了。” （央視財經）"
+    },
+    {
+      "id": "5004995",
+      "time": "2026-07-23 21:59:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "奧地利奧合國際銀行：該行與俄羅斯AO Raiffeisenbank將在奧地利對Rasperia提起訴訟。"
+    },
+    {
+      "id": "mkt:019f8f45-b627-7aab-8e6d-7ba427ab1d17",
+      "time": "2026-07-23 21:58:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Wang Hong and Deng Yu awarded Fields Medals; first Chinese winners】At the International Congress of Mathematicians in Philadelphia on July 23, 2026, Chinese mathematicians Wang Hong (b.1991) and Deng Yu (b.1989) were awarded Fields Medals. Both completed their undergraduate studies at Peking University. This is the first time Chinese mathematicians have won the Fields Medal and the first instance of two Chinese recipients being named at the same ICM."
+    },
     {
       "id": "mkt:019f8f44-b80e-7aab-8e6d-7507e1d88359",
       "time": "2026-07-23 21:57:53",
@@ -164569,229 +164686,6 @@
         "其他"
       ],
       "text": "瑞典銀行稱與 DFS 達成和解，所有反洗錢相關調查全部終結。"
-    },
-    {
-      "id": "4992606",
-      "time": "2026-07-16 22:03:14",
-      "tags": [
-        "其他"
-      ],
-      "text": "【廣西橫州鎮龍鄉11個行政村道路已通】從廣西應急廳獲悉，截至7月16日的統計，今年第10號颱風“美莎克”已造成廣西全區14個市78個縣（市、區）受災，此次中斷各類道路831條，已搶通728條。目前，所有行政村均已打通一條生命通道，可保障人員和物資運輸。重災區如橫州市鎮龍鄉的11個行政村道路已通，通往自然村的道路力爭7月18日打通。（央視新聞）"
-    },
-    {
-      "id": "4992605",
-      "time": "2026-07-16 22:02:04",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月份二手房簽約量環比-5.4%；預估為-0.5%。美國6月份二手房簽約量同比增長2.3%。"
-    },
-    {
-      "id": "4992604",
-      "time": "2026-07-16 22:01:20",
-      "tags": [
-        "其他"
-      ],
-      "text": "巴基斯坦政府：目前國內石油產品儲備充足，可滿足國家需求，且未來供應已得到保障。"
-    },
-    {
-      "id": "mkt:019f6b3a-bb5c-7aab-8dca-f5a89aa8eac6",
-      "time": "2026-07-16 22:00:38",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy",
-        "S&P500",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "US pending home sales index down 5.4% MoM in June, the largest monthly decline since December 2025."
-    },
-    {
-      "id": "4992603",
-      "time": "2026-07-16 22:00:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "以色列媒體報道：辛貝特事務部長委員會已批准為薩拉・內塔尼亞胡提供終身安保保護。"
-    },
-    {
-      "id": "mkt:019f6b3a-812a-7aab-8dca-efddadd7ea9b",
-      "time": "2026-07-16 22:00:23",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "US unadjusted pending home sales index YoY +2.3% in June, prior +2.1%."
-    },
-    {
-      "id": "4992602",
-      "time": "2026-07-16 22:00:22",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國6月成屋簽約銷售指數環比 -5.4%，預期 -0.5%，前值 3.8%。\n美國6月成屋簽約銷售指數同比 2.3%，預期 2%，前值 2.1%。\n美國5月商業庫存環比 0.3%，預期 0.3%，前值 0.5%。"
-    },
-    {
-      "id": "mkt:019f6b3a-59b4-7aab-8dca-e453119a23d5",
-      "time": "2026-07-16 22:00:13",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales (YoY) (Jun) | actual -0.3% | previous 2.10%"
-    },
-    {
-      "id": "mkt:019f6b3a-5632-7aab-8dca-df655cbd79f8",
-      "time": "2026-07-16 22:00:12",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "US Economy"
-      ],
-      "text": "US business inventories rose 0.3% MoM in May, matching the 0.3% consensus; April was revised up to 0.6% from 0.5%."
-    },
-    {
-      "id": "mkt:019f6b3a-468f-7aab-8dca-d03735970474",
-      "time": "2026-07-16 22:00:08",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Macro & Rates",
-        "S&P500",
-        "Impact bearish",
-        "US10Y",
-        "Impact bullish",
-        "DXY"
-      ],
-      "text": "U.S. pending home sales index MoM -5.4% in June vs -0.5% expected; May revised to 3.5% from 3.8%."
-    },
-    {
-      "id": "mkt:019f6b3a-42a9-7aab-8dca-cfc3ca7caed8",
-      "time": "2026-07-16 22:00:07",
-      "tags": [
-        "MKT News",
-        "Important",
-        "S&P500",
-        "DXY",
-        "Impact bearish",
-        "XAUUSD",
-        "Impact bullish"
-      ],
-      "text": "US July NAHB housing market index 34, expected 35; June reading revised up to 36 from 35."
-    },
-    {
-      "id": "mkt:019f6b3a-4254-7aab-8dca-c09387ed95a9",
-      "time": "2026-07-16 22:00:07",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "US Economy",
-        "XAUUSD",
-        "Impact bullish",
-        "DXY",
-        "Impact bearish",
-        "US10Y"
-      ],
-      "text": "US pending home sales index (June) 72.5; prior revised to 76.6 from 76.8."
-    },
-    {
-      "id": "mkt:019f6b3a-25dc-7aab-8dca-ba209e9dcae9",
-      "time": "2026-07-16 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Business Inventories (MoM) (May) | actual 0.3% | consensus 0.3% | previous 0.50%"
-    },
-    {
-      "id": "mkt:019f6b3a-255b-7aab-8dca-b29e66da36a7",
-      "time": "2026-07-16 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales (Jun) | actual 72.5 | previous 76.8"
-    },
-    {
-      "id": "mkt:019f6b3a-2525-7aab-8dca-afae21f859a1",
-      "time": "2026-07-16 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | Existing Home Sales (MoM) (Jun) | actual -5.4% | consensus -0.5% | previous 3.80%"
-    },
-    {
-      "id": "mkt:019f6b3a-2516-7aab-8dca-a485133a179c",
-      "time": "2026-07-16 22:00:00",
-      "tags": [
-        "MKT News",
-        "Economic Calendar",
-        "Important"
-      ],
-      "text": "United States | NAHB Housing Market Index (Jul) | actual 34 | consensus 35 | previous 35"
-    },
-    {
-      "id": "4992601",
-      "time": "2026-07-16 21:59:52",
-      "tags": [
-        "國際"
-      ],
-      "text": "魯比奧：在美國本土，左翼恐怖襲擊及相關謀劃活動的佔比已攀升至數十年來從未出現過的高位。"
-    },
-    {
-      "id": "te:markets:567591",
-      "time": "2026-07-16 21:59:51",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 0"
-      ],
-      "text": "Brent Hovers at $85 — Brent swung between gains and losses around the $85 level on Thursday, remaining at one-month highs as escalating hostilities in the Middle East continued to support prices and weigh on investor sentiment. Reports showed that Iranian government had asked Houthis to stand ready to close the Red Sea oil route should US forces carry out President Trump’s threat to target the country’s infrastructure next week if a diplomatic breakthrough is not achieved. The US intensified its strikes against Iran, reportedly targeting an oil tanker near the country's main export terminal for the first time since reimposing a blockade on the country's ports. In response, Iran launched attacks on US bases in Kuwait and Jordan. According to Reuters, tanker traffic through the Strait has fallen to two-month lows as the conflict has intensified. Only seven vessels transited the waterway on Wednesday, the first full day after the US reimposed its naval blockade on Iran, down from 13 the previous day."
-    },
-    {
-      "id": "mkt:019f6b39-ee52-7aab-8dca-9de0f4d35fdd",
-      "time": "2026-07-16 21:59:46",
-      "tags": [
-        "MKT News",
-        "Commodities",
-        "Energy"
-      ],
-      "text": "Pakistan government says domestic petroleum product stocks are sufficient to meet national demand and future supplies have been secured."
-    },
-    {
-      "id": "4992600",
-      "time": "2026-07-16 21:59:33",
-      "tags": [
-        "公司",
-        "市場",
-        "焦點",
-        "A股"
-      ],
-      "text": "【7月16日增減持彙總】7月16日盤後，據不完全統計，雪龍集團、歐菲光、大地熊3家A股公司披露增持情況，首華燃氣披露擬減持情況。"
-    },
-    {
-      "id": "4992599",
-      "time": "2026-07-16 21:59:17",
-      "tags": [
-        "公司"
-      ],
-      "text": "【港交所：上半年香港現貨市場日均成交金額同比增17.8%】香港交易所（港交所）16日表示，2026年上半年香港市場延續去年的強勁增長態勢，證券、衍生產品和滬深港通均交投活躍。香港現貨市場平均每日成交金額達2830億港元，同比增長17.8%。 港交所表示，增長主要受科技和人工智慧股吸引資金流入、滬深港通成交創新高及新股上市持續增加帶動。其中，二季度平均每日成交金額達2895億港元，創季度新高。 股權資本市場方面，今年上半年，香港新股集資額創下歷史同期第二高水平，共有87家公司上市，集資總額達2102億港元，同比增長92.1%。赴港上市的公司來自各行各業，涵蓋人工智慧價值鏈的各個環節。首次公開招股後交易活動同樣表現活躍，包括各型別股權再融資和股權相關交易在內的再融資額達2960億港元。 上半年，中國內地和國際投資者繼續透過滬深港通積極參與香港市場，北向和南向交易成交金額同創新高。統計顯示，今年前6個月，滬股通和深股通平均每日成交金額達3453億元人民幣，遠高於2025全年的2124億元人民幣；港股通平均每日成交金額達1231億港元，打破2025全年1211億港元的紀錄；滬深港通合資格ETF的交投增長顯著，南向ETF平均每日成交金額達61億港元，北向ETF則達49億元人民幣，同比分別增長61%和84%。 港交所表示，得益於創新科技企業和國際公司踴躍申請上市，以及交易所產品組合的持續最佳化，6月市場活動尤為強勁，為今年下半年市場穩健發展奠定堅實基礎。（新華社）"
     }
   ]
 }

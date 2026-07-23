@@ -1,7 +1,124 @@
 {
   "date": "2026-07-23",
-  "count": 3351,
+  "count": 3364,
   "items": [
+    {
+      "id": "mkt:019f8f48-c558-7aab-8e6d-9c70081ed9fb",
+      "time": "2026-07-23 22:02:18",
+      "tags": [
+        "MKT News",
+        "LMT.N",
+        "Impact bullish"
+      ],
+      "text": "Lockheed Martin (LMT.N) gains widened to 12%, its largest intraday increase since 2020."
+    },
+    {
+      "id": "5005001",
+      "time": "2026-07-23 22:01:47",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "洛克希德·馬丁公司股價漲幅擴大至12%，創2020年以來最大盤中漲幅。"
+    },
+    {
+      "id": "em:jjsj_oyqsj:202607233819270047",
+      "time": "2026-07-23 22:01:26",
+      "tags": [
+        "經濟數據",
+        "歐元區"
+      ],
+      "text": "歐元區7月消費者信心指數初值為-15.9，預期為-17，前值為-17.7。"
+    },
+    {
+      "id": "mkt:019f8f47-a9b8-7aab-8e6d-920bcb2c33f9",
+      "time": "2026-07-23 22:01:06",
+      "tags": [
+        "MKT News",
+        "Important",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish",
+        "DAX"
+      ],
+      "text": "Eurozone preliminary July consumer confidence -15.9, versus -17 expected and -17.7 previously."
+    },
+    {
+      "id": "mkt:019f8f47-88de-7aab-8e6d-8ad44916c231",
+      "time": "2026-07-23 22:00:57",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "Eurozone | Consumer Confidence Flash Estimate (Jul) | actual -15.9 | consensus -17 | previous -17.7"
+    },
+    {
+      "id": "5005000",
+      "time": "2026-07-23 22:00:49",
+      "tags": [
+        "資料"
+      ],
+      "text": "歐元區7月消費者信心指數初值為-15.9；預期值為-17.0。"
+    },
+    {
+      "id": "5004999",
+      "time": "2026-07-23 22:00:40",
+      "tags": [
+        "其他"
+      ],
+      "text": "世界銀行：預計委內瑞拉地震造成196億美元的直接物理損失。"
+    },
+    {
+      "id": "5004998",
+      "time": "2026-07-23 22:00:35",
+      "tags": [
+        "市場"
+      ],
+      "text": "【機構：本週單晶矽片市場情緒消極 矽片價格承壓下行】據安泰科統計，本週矽片價格承壓下行。其中，N型G10L單晶矽片(182*183.75mm/130μm)成交均價在0.83元/片，環比上週下跌2.35%；N型G12R單晶矽片(182*210mm/130μm)成交均價在0.93元/片，環比上週下跌2.11%；N型G12單晶矽片(210*210 mm/130μm)成交均價在1.12元/片，環比上週下跌1.75%。據調研瞭解，本週下游電池片和元件價格較上週小幅下跌，其中電池片主流價格0.25-0.27元/W，環比上週下跌1.89%；元件主流價格0.67-0.70元/W，環比上週下跌2.17%。（矽業分會）"
+    },
+    {
+      "id": "5004997",
+      "time": "2026-07-23 22:00:35",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息： 阿拉克斯簽署最終協議，以 30 億美元收購 RIA Transcend Capital。"
+    },
+    {
+      "id": "mkt:019f8f46-f532-7aab-8e6d-8366c1ac8055",
+      "time": "2026-07-23 22:00:19",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "WBG estimates the Venezuela earthquake caused $19.6 billion in direct physical losses."
+    },
+    {
+      "id": "5004996",
+      "time": "2026-07-23 22:00:02",
+      "tags": [
+        "國際"
+      ],
+      "text": "【特朗普擔心政府停擺】當地時間7月22日，美國總統特朗普在美國佐治亞州表示：“我不是愛哭的人，我想你們也不願看到我哭。”根據美國參議院“冗長辯論”規則，普通法案透過需獲得100個席位中至少60票贊成。但共和黨只有53個席位，不佔有絕對多數，如果民主黨參議員全員否決，普通法案或將止步於參議院。特朗普說：“一旦讓他們（民主黨）得逞，到那時候（政府‘停擺’），我只能在家閒著了。” （央視財經）"
+    },
+    {
+      "id": "5004995",
+      "time": "2026-07-23 21:59:33",
+      "tags": [
+        "國際"
+      ],
+      "text": "奧地利奧合國際銀行：該行與俄羅斯AO Raiffeisenbank將在奧地利對Rasperia提起訴訟。"
+    },
+    {
+      "id": "mkt:019f8f45-b627-7aab-8e6d-7ba427ab1d17",
+      "time": "2026-07-23 21:58:58",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "【Wang Hong and Deng Yu awarded Fields Medals; first Chinese winners】At the International Congress of Mathematicians in Philadelphia on July 23, 2026, Chinese mathematicians Wang Hong (b.1991) and Deng Yu (b.1989) were awarded Fields Medals. Both completed their undergraduate studies at Peking University. This is the first time Chinese mathematicians have won the Fields Medal and the first instance of two Chinese recipients being named at the same ICM."
+    },
     {
       "id": "mkt:019f8f44-b80e-7aab-8e6d-7507e1d88359",
       "time": "2026-07-23 21:57:53",
