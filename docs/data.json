@@ -1,7 +1,51 @@
 {
-  "updated": "2026-07-24 03:11:24",
-  "count": 18012,
+  "updated": "2026-07-24 03:15:19",
+  "count": 18014,
   "items": [
+    {
+      "id": "mkt:019f9066-4f89-7aab-8e72-33d21ae0dfea",
+      "time": "2026-07-24 03:14:11",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. prosecutors will withdraw a subpoena for a New York Times reporter in the probe of classified leaks from Trump’s aircraft."
+    },
+    {
+      "id": "5005358",
+      "time": "2026-07-24 03:13:47",
+      "tags": [
+        "市場"
+      ],
+      "text": "【芝加哥小麥期貨回撤約1.6%】週四（7月23日）紐約尾盤，彭博穀物分類指數跌0.08%，報32.97點。CBOT玉米期貨漲0.41%，報4.8675元/蒲式耳。CBOT小麥期貨跌1.59%，報6.9450美元/蒲式耳。CBOT大豆期貨漲0.16%，報12.41美元/蒲式耳，豆粕期貨跌0.39%，豆油期貨漲0.04%。CBOT瘦肉豬期貨漲0.65%，活牛期貨漲1.04%，飼牛期貨漲1.17%。"
+    },
+    {
+      "id": "mkt:019f9065-257d-7aab-8e72-2fbe201ccdf0",
+      "time": "2026-07-24 03:12:55",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "Chip Wars",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said ANTHROPIC will deploy AMD CPUs and GPUs with cloud providers, on next-generation cloud platforms and potentially in its own data centers."
+    },
+    {
+      "id": "5005357",
+      "time": "2026-07-24 03:12:50",
+      "tags": [
+        "國際"
+      ],
+      "text": "法庭聽證訊息：美國檢察官將撤銷在特朗普航班資訊洩露調查中針對《紐約時報》記者的傳票。"
+    },
+    {
+      "id": "5005356",
+      "time": "2026-07-24 03:11:42",
+      "tags": [
+        "國際"
+      ],
+      "text": "一名資深政情安全訊息人士向邁亞丁電視臺表示：有關伊朗襲擊科威特發電廠的新聞報道純屬蓄意編造的虛假資訊，意在刻意誤導輿論。"
+    },
     {
       "id": "5005355",
       "time": "2026-07-24 03:09:37",
@@ -164956,34 +165000,6 @@
         "MKT News"
       ],
       "text": "Iran's Islamic Revolutionary Guard Corps says the United States is currently trapped and its only way out is to withdraw from West Asia, and that the era of US bullying and provocation has ended."
-    },
-    {
-      "id": "4992895",
-      "time": "2026-07-17 03:13:30",
-      "tags": [
-        "市場"
-      ],
-      "text": "標普500指數觸及盤中低點，下跌0.7%。"
-    },
-    {
-      "id": "4992894",
-      "time": "2026-07-17 03:11:46",
-      "tags": [
-        "公司"
-      ],
-      "text": "七國集團就蘇丹局勢發表宣告，敦促快速支援部隊停止在歐拜伊德的軍事行動。"
-    },
-    {
-      "id": "te:economy:567637",
-      "time": "2026-07-17 03:11:40",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Canada",
-        "Government Bond 10Y",
-        "Importance 1"
-      ],
-      "text": "Canada Bond Yields Hold Firm — The yield on Canada's 10-year government bond firmed at 3.54% after reaching a two-month high of 3.58% as a rebound in US Treasury yields supported global bond markets. US yields recovered after recent declines, while investors continued to assess the outlook for Federal Reserve policy. Still, a sharper decline in Canadian yields was prevented by the Bank of Canada's relatively hawkish rhetoric. The central bank left interest rates unchanged at its July meeting, as expected, but underscored that growth is set to remain robust in the coming quarters. This was accompanied by an upward revision to this year's inflation projections as the conflict in the Middle East pushed energy costs higher."
     }
   ]
 }
