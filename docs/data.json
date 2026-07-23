@@ -1,7 +1,52 @@
 {
-  "updated": "2026-07-24 02:55:11",
-  "count": 18004,
+  "updated": "2026-07-24 02:59:05",
+  "count": 18008,
   "items": [
+    {
+      "id": "5005344",
+      "time": "2026-07-24 02:56:55",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "【美國原油期貨收漲約6.2%，布油站上100美元整數位心理關口】WTI 9月原油期貨收漲5.36美元，漲幅超過6.17%，報92.19美元/桶，逼近5月18日收盤位94.79美元，全天持續上漲。布倫特9月原油期貨收漲6.62美元，漲幅將近7.04%，報100.69美元/桶，逼近5月18日收盤位102.77美元。中東Abu Dhabi Murban原油期貨漲20.71%，報108.00美元/桶，北京時間18:39曾達到114.92美元。NYMEX 8月天然氣期貨收報2.9160美元/百萬英熱單位。NYMEX 8月汽油期貨收報3.4964美元/加侖，NYMEX 8月取暖油期貨收報4.3416美元/加侖。"
+    },
+    {
+      "id": "mkt:019f9055-8b33-7aab-8e71-f47c350c3b64",
+      "time": "2026-07-24 02:55:52",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. President Trump said 159 Iranian warships have been sunk."
+    },
+    {
+      "id": "5005343",
+      "time": "2026-07-24 02:55:32",
+      "tags": [
+        "觀點"
+      ],
+      "text": "摩根大通將Raymond James的目標價從175.00美元上調至179.00美元。"
+    },
+    {
+      "id": "5005342",
+      "time": "2026-07-24 02:55:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "提示：特朗普結束講話。"
+    },
+    {
+      "id": "mkt:019f9054-ed49-7aab-8e71-efec90e12e4b",
+      "time": "2026-07-24 02:55:12",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "DXY"
+      ],
+      "text": "US President Trump said if the US does not act against Iran, no one will."
+    },
     {
       "id": "mkt:019f9054-5306-7aab-8e71-e7f9a070a85b",
       "time": "2026-07-24 02:54:33",
@@ -164904,17 +164949,6 @@
         "市場"
       ],
       "text": "【芝加哥玉米期貨跌約1.3%】週四（7月16日）紐約尾盤，彭博穀物分類指數跌0.77%，報31.5539點，北京時間16:00前後短線顯著衝高回落、最高達到32.2166點。CBOT玉米期貨跌1.28%，報4.6350美元/蒲式耳。CBOT小麥期貨跌0.48%，報6.7425美元/蒲式耳，15:57曾拉昇至6.9825美元。CBOT大豆期貨跌0.67%，報11.9375美元/蒲式耳，豆粕期貨漲0.72%，豆油期貨跌0.61%。CBOT瘦肉豬期貨漲0.29%，活牛期貨跌1.31%，飼牛期貨跌0.88%。"
-    },
-    {
-      "id": "mkt:019f6c49-d120-7aab-8dcf-f41ee6460f54",
-      "time": "2026-07-17 02:56:44",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent"
-      ],
-      "text": "Iran's Islamic Revolutionary Guard Corps said security in the Strait of Hormuz can only be fully guaranteed if the United States is no longer present in the region."
     }
   ]
 }
