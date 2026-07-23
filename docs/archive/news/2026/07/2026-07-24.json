@@ -1,7 +1,34 @@
 {
   "date": "2026-07-24",
-  "count": 545,
+  "count": 548,
   "items": [
+    {
+      "id": "5005522",
+      "time": "2026-07-24 07:44:43",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏總統稱與美企聯合生產愛國者導彈 】烏克蘭總統澤連斯基當地時間7月23日晚在社交媒體發文稱，他當天會見了到訪的美國雷神公司代表團，烏克蘭將與雷神公司聯合生產“愛國者”防空系統攔截彈，雙方後續將保持聯絡、敲定所有細節。 美國總統特朗普和澤連斯基7月8日在北約峰會期間會晤，特朗普稱將授權烏克蘭生產“愛國者”系統。"
+    },
+    {
+      "id": "5005521",
+      "time": "2026-07-24 07:44:21",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：伊朗拒絕由美國提出的、伊拉克領導人轉交的停火協議。"
+    },
+    {
+      "id": "mkt:019f915c-622f-7aab-8e75-169a29853408",
+      "time": "2026-07-24 07:42:58",
+      "tags": [
+        "MKT News",
+        "IBM.N",
+        "Impact bullish"
+      ],
+      "text": "IBM (IBM.N) CEO said roughly 70% of daily financial transaction activity by value runs on mainframes. Clients typically spend $3–4 across IBM for every $1 invested in a mainframe. The AI boom will boost revenue because most clients require hands-on guidance."
+    },
     {
       "id": "mkt:019f915a-b7c2-7aab-8e75-0b67d579372e",
       "time": "2026-07-24 07:41:09",
