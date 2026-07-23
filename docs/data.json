@@ -1,7 +1,33 @@
 {
-  "updated": "2026-07-23 08:50:33",
-  "count": 17676,
+  "updated": "2026-07-23 08:54:31",
+  "count": 17674,
   "items": [
+    {
+      "id": "5003281",
+      "time": "2026-07-23 08:53:29",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國務卿魯比奧將於當地時間週四上午9:30在馬尼拉會見越南外交部長。"
+    },
+    {
+      "id": "mkt:019f8c75-f265-7aab-8e55-4292853933ec",
+      "time": "2026-07-23 08:52:47",
+      "tags": [
+        "MKT News",
+        "USDJPY",
+        "Impact bearish"
+      ],
+      "text": "Japan's 2-year government bond yield rose 5 bps to 1.490%, the highest since May 1995."
+    },
+    {
+      "id": "5003280",
+      "time": "2026-07-23 08:50:58",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：美國國國務卿魯比奧將於週四上午11點50分在馬尼拉會見俄羅斯外長拉夫羅夫。"
+    },
     {
       "id": "mkt:019f8c73-7d81-7aab-8e55-3c3c26d24287",
       "time": "2026-07-23 08:50:06",
@@ -161613,55 +161639,6 @@
         "國際"
       ],
       "text": "韓元維持漲勢，韓國央行加息25個基點。"
-    },
-    {
-      "id": "4991007",
-      "time": "2026-07-16 08:54:24",
-      "tags": [
-        "其他"
-      ],
-      "text": "【工信部公開徵求《大資料產品功能要求》等20項行業標準報批意見】據工信部官網，根據行業標準制修訂計劃，相關標準化技術組織已完成電子行業《大資料產品功能要求》等20項行業標準的編制工作。為進一步聽取社會各界意見，現予以公示。"
-    },
-    {
-      "id": "mkt:019f686a-5727-7aab-8db3-29a7d14ce940",
-      "time": "2026-07-16 08:53:47",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Hanmi Semiconductor plans new South Korea plant】Hanmi Semiconductor is weighing construction of an eighth and largest production facility, to be sited next to its seventh plant now under construction in Incheon, after forecasting an AI-semiconductor equipment shortage from next year. Chairman Guo Dongxin said equipment demand will exceed supply beginning next year. The company expects rapid growth in demand for hot-press and hybrid bonders as global chipmakers increase investment, and plans to open a U.S. subsidiary in San Jose by end-2026 to strengthen technical support."
-    },
-    {
-      "id": "4991006",
-      "time": "2026-07-16 08:52:01",
-      "tags": [
-        "公司"
-      ],
-      "text": "恆富控股有限公司在香港暫停交易。"
-    },
-    {
-      "id": "mkt:019f6868-966d-7aab-8db3-264d1f554e14",
-      "time": "2026-07-16 08:51:52",
-      "tags": [
-        "MKT News",
-        "WTI",
-        "Impact bullish",
-        "Brent",
-        "XAUUSD"
-      ],
-      "text": "Iran's health ministry said recent US strikes have killed 35 people and injured 300."
-    },
-    {
-      "id": "mkt:019f6867-d800-7aab-8db3-1dfefaee3f1f",
-      "time": "2026-07-16 08:51:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Commodities",
-        "Industrial Metals",
-        "Copper",
-        "Impact bullish"
-      ],
-      "text": "【Strong winter storm in Chile may temporarily disrupt copper exports】Chile is being hit by a strong winter front expected to peak July 16-17 and possibly persist through July 20-21. Northern high-altitude and mountainous mining districts including Antofagasta and Atacama are forecast to see moderate-to-heavy snow and high winds; central to southern Chile face sustained heavy rain with elevated flood, landslide and mudslide risk. The government has activated preventive emergency measures and the mining regulator is coordinating contingency plans with major producers. SMM and local industry sources say heavy snow and rain could temporarily disrupt mine road transport and port loading, creating short-term delays to copper concentrate and electrolytic copper shipments; the actual impact will depend on storm duration and mine operational responses."
     }
   ]
 }
