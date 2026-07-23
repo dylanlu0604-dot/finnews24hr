@@ -1,7 +1,15 @@
 {
-  "updated": "2026-07-24 03:19:14",
-  "count": 18012,
+  "updated": "2026-07-24 03:23:05",
+  "count": 18011,
   "items": [
+    {
+      "id": "5005359",
+      "time": "2026-07-24 03:20:01",
+      "tags": [
+        "國際"
+      ],
+      "text": "加拿大總理卡尼：加拿大與美國正就全部關稅及貿易舉措展開談判。"
+    },
     {
       "id": "mkt:019f906a-1900-7aab-8e72-47205a828325",
       "time": "2026-07-24 03:18:19",
@@ -164963,29 +164971,6 @@
         "國際"
       ],
       "text": "據伊朗米贊通訊社：卡達否認參與針對伊朗的軍事行動。"
-    },
-    {
-      "id": "mkt:019f6c60-7fbd-7aab-8dd0-3979adbfd41e",
-      "time": "2026-07-17 03:21:31",
-      "tags": [
-        "MKT News",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "Star Stocks",
-        "Alphabet",
-        "GOOG.O",
-        "Impact bearish"
-      ],
-      "text": "【Google shares fall over 4% intraday on reports Gemini 3.5 Pro delayed】Google (GOOG.O) shares fell more than 4% intraday on Thursday after reports said the company delayed the release of flagship AI model Gemini 3.5 Pro, with the model’s coding capabilities reportedly falling short of internal expectations. Google unveiled Gemini 3.5 Pro as internal-use only at its May I/O developer conference. CNBC cited a company spokesperson saying Google is rapidly rolling out multiple models while keeping cost-efficiency, is testing 3.5 Pro—described as an upgraded Flash model—with partners, and is actively working with the U.S. government."
-    },
-    {
-      "id": "4992898",
-      "time": "2026-07-17 03:20:28",
-      "tags": [
-        "市場"
-      ],
-      "text": "因 Gemini 上線計劃推遲，Alphabet 股價下挫 5%，跌至盤中低點。"
     }
   ]
 }
