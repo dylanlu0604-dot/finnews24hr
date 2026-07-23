@@ -1,7 +1,31 @@
 {
-  "updated": "2026-07-23 08:18:58",
-  "count": 17684,
+  "updated": "2026-07-23 08:22:52",
+  "count": 17677,
   "items": [
+    {
+      "id": "5003250",
+      "time": "2026-07-23 08:22:00",
+      "tags": [
+        "其他"
+      ],
+      "text": "【首屆北京市中學生人形機器人足球賽收官】昨天（22日），北京市中學生人形機器人足球賽總決賽圓滿收官。賽事自今年4月11日啟動以來，覆蓋北京各區及雄安新區，共吸引55支中學生代表隊參賽，設甲、乙兩大競賽組別。歷經賽前培訓、小組賽和淘汰賽多輪層層比拼，最終會師總決賽賽場，兩組分別決出冠亞季軍。據瞭解，決賽獲勝隊伍將被推薦參加世界人形機器人運動會U19相關組別比賽。（央視）"
+    },
+    {
+      "id": "5003249",
+      "time": "2026-07-23 08:20:01",
+      "tags": [
+        "市場"
+      ],
+      "text": "澳大利亞S&P/ASX 200指數上漲1%，至8912.30。"
+    },
+    {
+      "id": "5003248",
+      "time": "2026-07-23 08:19:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【韓美首個投資專案或於8月公佈 或聚焦能源領域】據韓聯社援引韓國產業通商部長金正官的話報道，韓國依據雙邊貿易協議推進的首個對美投資專案，最快可能於8月下旬公佈，雙方討論重點集中在能源領域。金正官在抵達美國展開為期四天訪問後向韓國媒體作出上述表示。此次訪美期間，他將與美國商務部長霍華德·盧特尼克等官員舉行會談。"
+    },
     {
       "id": "te:markets:568978",
       "time": "2026-07-23 08:18:17",
@@ -161622,98 +161646,6 @@
         "國際"
       ],
       "text": "【韓國綜合股價指數跌超5% SK海力士和三星股價延續跌勢】韓國股市基準股指Kospi下跌高達5.7%，SK海力士和三星電子跟隨美國晶片同行走低，此前兩日反彈後回落。SK海力士在韓國交易所股價下跌高達10%，此前其美國存託憑證（ADR）週三暴跌9%。三星股價下跌高達7.3%。費城半導體指數週三收盤下跌2.1%，其中美光科技下跌8%。"
-    },
-    {
-      "id": "mkt:019f684e-0756-7aab-8db2-b3739e673dd2",
-      "time": "2026-07-16 08:22:51",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China",
-        "CSI300",
-        "Impact bullish"
-      ],
-      "text": "【CITIC Securities: China’s innovative drugmakers and global pharma supply-chain firms poised for steady earnings growth over next 3–5 years】CITIC Securities says China’s pharmaceutical sector combines essential demand with high certainty, supported by continued strong growth in domestic biopharma financing. Starting Q3, core pipelines of domestic innovative drugs are expected to produce major data readouts that could act as catalysts and accelerate value realization for assets with global potential. Policy reforms are gradually shifting pricing back toward a clinical-value and demand-driven market pricing mechanism, creating a more stable domestic market environment and a longer-term supportive growth backdrop. CITIC recommends focusing on healthcare industry investment opportunities, citing higher conviction for both alpha and beta from the sector over the next 3–5 years."
-    },
-    {
-      "id": "4990968",
-      "time": "2026-07-16 08:22:43",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國綜合指數跌幅擴大，最新跌5.6%，報6874.16點。"
-    },
-    {
-      "id": "4990967",
-      "time": "2026-07-16 08:22:32",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【歐盟代表尚未就針對俄羅斯的第21輪制裁方案達成一致】一名歐盟外交官週三表示，歐盟各國代表尚未就針對俄羅斯的第21輪制裁方案達成一致。該外交官補充稱，在就第21輪制裁方案繼續磋商期間，歐盟各國代表已同意將俄羅斯石油價格上限維持在目前的每桶44.10美元水平，直到7月23日。這個由歐盟和七國集團（G7）盟國支援的價格上限機制去年經過重新設計，使其更具靈活性，並能隨油價波動而調整。歐盟外交及安全政策高階代表卡拉斯本週早些時候已警告稱，歐盟各國尚未就範圍廣泛的第21輪制裁方案達成一致。"
-    },
-    {
-      "id": "mkt:019f684d-b274-7aab-8db2-a82294a78395",
-      "time": "2026-07-16 08:22:30",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Japan & APAC",
-        "USDJPY",
-        "Impact bullish",
-        "DXY",
-        "XAUUSD",
-        "Impact bearish"
-      ],
-      "text": "【Yen options imply Japan may tolerate depreciation to 165 before acting】Options market pricing suggests Japanese authorities may tolerate further yen weakness before intervening. Traders are pricing USD/JPY around 165, implying roughly 1.6% additional yen depreciation from current levels; the spot rate is already near a four-decade low."
-    },
-    {
-      "id": "4990966",
-      "time": "2026-07-16 08:21:00",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本日經指數擴大跌幅，最新下跌2.6%，報66,956.44點。"
-    },
-    {
-      "id": "4990965",
-      "time": "2026-07-16 08:20:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "【美軍稱擊中一艘試圖駛向伊朗港口的油輪 】美軍中央司令部15日在社交媒體釋出訊息說，美軍機當天向一艘試圖駛向伊朗港口的空載油輪發射導彈，使其失去航行能力。美軍稱，遭襲的是懸掛庫拉索旗幟的“貝爾馬”號油輪，該油輪當時正經公海駛向伊朗石油出口樞紐哈爾克島，違反美國“封鎖令”並無視多次警告。一架美軍飛機向該船發射“地獄火”導彈，使其喪失航行能力。美軍於美國東部時間14日16時恢復對往返伊朗港口及沿海地區船隻的海上封鎖行動。美軍中央司令部發布訊息說，在執行封鎖任務後的24小時內，美軍已迫使兩艘商船改變航向，並使一艘“不配合”的船隻喪失航行能力。"
-    },
-    {
-      "id": "4990964",
-      "time": "2026-07-16 08:19:59",
-      "tags": [],
-      "text": "SK海力士跌幅擴大至10％，三星電子跌近7％。"
-    },
-    {
-      "id": "4990963",
-      "time": "2026-07-16 08:19:54",
-      "tags": [
-        "觀點"
-      ],
-      "text": "【中信證券：醫藥創新企業和全球醫藥產業鏈企業有望在未來3-5年持續迎來業績的穩健增長】中信證券認為，醫藥板塊繼續凸顯出剛需的高確定性，同時疊加國內生物醫藥融資資料的持續高增長，中信證券認為醫藥創新企業和全球醫藥產業鏈企業有望在未來3-5年持續迎來業績的穩健增長。同時疊加今年Q3開始，國產創新藥核心管線即將迎來重磅資料讀出催化、具有全球潛力的資產國際化價值有望加速兌現。同時政策大變革也開始逐步重新迴歸到臨床價值和需求導向的市場價格定價體系，帶來穩定且持續的國內醫藥市場環境和長坡厚雪的發展主基調，帶來行業成長確定性較高的阿爾法和貝塔。建議重點關注醫療健康產業投資機會。"
-    },
-    {
-      "id": "4990962",
-      "time": "2026-07-16 08:19:32",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "斯托克歐洲50指數期貨上漲0.2%，德國DAX指數期貨持穩，富時指數期貨下跌0.3%。"
-    },
-    {
-      "id": "4990961",
-      "time": "2026-07-16 08:19:21",
-      "tags": [
-        "國際"
-      ],
-      "text": "【日元期權顯示日本或容忍匯率貶至165後再出手干預】期權市場資料顯示，日本官方在出手支撐日元之前，可能仍會容忍日元進一步貶值。交易員目前願意將美元兌日元升至165納入定價，這意味著日元較當前水平還有約1.6%的貶值空間，而當前匯率已經接近近四十年來最弱水平。"
     }
   ]
 }
