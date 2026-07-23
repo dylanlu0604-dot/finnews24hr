@@ -1,7 +1,110 @@
 {
   "date": "2026-07-24",
-  "count": 453,
+  "count": 464,
   "items": [
+    {
+      "id": "5005469",
+      "time": "2026-07-24 07:05:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "【上半年量價承壓 光伏產業鏈反轉拐點或臨近】2026年上半年，光伏行業進入調整階段，主產業鏈各環節產量普遍下行，產品價格震盪走弱，新增裝機規模明顯回落。7月23日，在中國光伏行業協會主辦的光伏行業2026年上半年發展回顧與下半年形勢展望研討會上，多位專家剖析了行業當下遭遇的多重挑戰。業內專家認為，伴隨強制性國家標準落地，低效產能加速出清，行業競爭邏輯正發生轉變，逐步由以往“比拼價格，擴張規模”，轉向以技術、品質、差異化優勢為核心的價值競爭賽道。樂觀預期下，頭部企業經營狀況有望在下半年迎來拐點。此外，隨著資料中心與AI算力用電需求快速增長，算電協同正成為光伏業極具發展潛力的新興賽道。（上海證券報）"
+    },
+    {
+      "id": "5005466",
+      "time": "2026-07-24 07:04:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐港交所公告，將出售其新加坡人壽及健康保險業務。擬向安聯出售其新加坡人壽及健康保險業務，代價為27億新加坡元。"
+    },
+    {
+      "id": "te:economy:569392",
+      "time": "2026-07-24 07:03:45",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Australia",
+        "Composite PMI",
+        "Importance 1"
+      ],
+      "text": "Australia Composite Flash PMI Hits 6-Month High — Australia's composite PMI rose to 52.6 in July 2026 from a final 50.4, flash data showed. It was the highest reading since January and marking the second straight month of growth in private-sector business activity."
+    },
+    {
+      "id": "5005463",
+      "time": "2026-07-24 07:02:26",
+      "tags": [
+        "公司"
+      ],
+      "text": "【滙豐擬向安聯出售其新加坡人壽及健康保險業務】滙豐銀行擬將其新加坡人壽及健康保險業務出售給安聯集團， 本次資產處置預計將產生 18 億美元稅前收益，且滙豐集團核心一級資本充足率（CET1）預計最高提升 15 個基點。 交易完成後，滙豐將與安聯簽署一份為期 15 年的獨家銀保分銷協議。"
+    },
+    {
+      "id": "mkt:019f9136-f1a0-7aab-8e74-7401a531b970",
+      "time": "2026-07-24 07:02:04",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【South Korea may bring forward minimum cash margin increase for single-stock leveraged ETFs】South Korean financial regulators are studying a plan to bring forward a planned increase in minimum cash margin requirements for single-stock leveraged ETFs from next month to the end of this month. The move is being advanced after calls from South Korea's President Lee to expedite supplementary measures for single-stock leveraged ETFs. The Korea Financial Investment Association on the 21st held a technical meeting with brokers, the Korea Exchange and Koscom IT staff to discuss implementation. Regulators are still finalising the precise timing and how the new margin will be applied."
+    },
+    {
+      "id": "em:jjsj_ygsj:202607243819397612",
+      "time": "2026-07-24 07:01:25",
+      "tags": [
+        "經濟數據",
+        "英國"
+      ],
+      "text": "英國7月Gfk消費者信心指數為-17，預期-21，前值-23。"
+    },
+    {
+      "id": "5005462",
+      "time": "2026-07-24 07:01:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "韓國將在需要時尋求對個股槓桿ETF採取更多措施。"
+    },
+    {
+      "id": "mkt:019f9136-1324-7aab-8e74-6c215151d52a",
+      "time": "2026-07-24 07:01:07",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Europe & UK",
+        "GBPUSD",
+        "Impact bullish",
+        "FTSE100",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "UK July GfK consumer confidence index -17; consensus -21; prior -23."
+    },
+    {
+      "id": "5005461",
+      "time": "2026-07-24 07:01:06",
+      "tags": [
+        "資料"
+      ],
+      "text": "英國7月Gfk消費者信心指數 -17，預期-21，前值-23。"
+    },
+    {
+      "id": "mkt:019f9135-f513-7aab-8e74-67bee0c1cc0e",
+      "time": "2026-07-24 07:01:00",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United Kingdom | GfK Consumer Confidence Index (Jul) | actual -17 | consensus -21 | previous -23"
+    },
+    {
+      "id": "5005459",
+      "time": "2026-07-24 07:00:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "英偉達與韓國科學技術院（KAIST）共建聯合人工智慧研究實驗室，助力韓國人工智慧創新提速。"
+    },
     {
       "id": "5005458",
       "time": "2026-07-24 07:00:16",
