@@ -1,7 +1,114 @@
 {
   "date": "2026-07-23",
-  "count": 912,
+  "count": 923,
   "items": [
+    {
+      "id": "mkt:019f8ca7-f6f1-7aab-8e57-198e7dad8523",
+      "time": "2026-07-23 09:47:25",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share CRO sector opened lower then rebounded; Zhaoyan Xinyao and Chengdu Xiandao each rose more than 6%, Medicilon climbed over 5%, with Haofan Shengwu, Yangguang Nuohuo and Kailaiying also advancing."
+    },
+    {
+      "id": "te:economy:569036",
+      "time": "2026-07-23 09:46:57",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Hong Kong",
+        "Government Bond 10Y",
+        "Importance 1"
+      ],
+      "text": "HK 10Y Bond Yield Hits 15-month High — HK 10 Year Government Bond Yield increased to 3.54%, the highest since March 2025. Over the past 4 weeks, Hong Kong 10Y Bond Yield gained 11.79 basis points, and in the last 12 months, it increased 43.59 basis points."
+    },
+    {
+      "id": "5003393",
+      "time": "2026-07-23 09:46:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東山精密回應索爾思光電光模組產品失竊：已就相關產品足額投保貨物運輸險】東山精密子公司索爾思光電光模組產品失竊事項，東山精密(002384)7月23日在互動平臺回應稱，公司子公司索爾思光電在2026年6月有一批光模組產品在運輸過程中發生了損失，公司於第一時間報警並通知貨物運輸險的承保方。經確認，公司已經就相關產品足額投保了貨物運輸險，公司綜合保險條款、保險專家意見判斷本次出險預計能夠得到足額賠付。經公司預估，本批次貨值損失不會對公司利潤產生重大影響且未達到公司上一年度經審計淨利潤的10%，對經營業績的影響極低，公司生產經營平穩有序。"
+    },
+    {
+      "id": "5003392",
+      "time": "2026-07-23 09:46:41",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "PCB概念震盪反彈，杭電股份直線漲停，吉和昌、民爆光電、南亞新材、紅板科技、斯迪克、光韻達等跟漲。"
+    },
+    {
+      "id": "5003391",
+      "time": "2026-07-23 09:46:34",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "滬深兩市成交額超5000億元，較上日此時縮量1805億元。"
+    },
+    {
+      "id": "5003390",
+      "time": "2026-07-23 09:46:31",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "【電梯概念震盪反彈，快意電梯漲停】電梯概念震盪反彈，快意電梯漲停，同力天啟、展鵬科技、世嘉科技、森赫股份、華菱精工、通用電梯等跟漲。"
+    },
+    {
+      "id": "5003389",
+      "time": "2026-07-23 09:46:17",
+      "tags": [
+        "國際"
+      ],
+      "text": "【美軍連續第12晚襲擊伊朗】美軍中央司令部7月22日在社交媒體釋出訊息稱，美軍於美東時間當天17時30分開始對伊朗軍事目標發動新一輪打擊，以繼續削弱伊朗威脅該地區海域航運的能力。這是美軍連續第12晚襲擊伊朗。 據伊朗伊斯蘭共和國廣播電視臺今天（7月23日）凌晨報道，伊朗南部和西南部多地遭導彈襲擊，傳出爆炸聲。另據伊朗媒體援引伊朗官員的話報道說，美軍導彈襲擊了伊朗同伊拉克接壤的沙拉姆切赫邊境口岸。襲擊已造成2人死亡。"
+    },
+    {
+      "id": "5003388",
+      "time": "2026-07-23 09:45:38",
+      "tags": [
+        "其他"
+      ],
+      "text": "白酒板塊震盪下挫，古井貢酒跌超6%，山西汾酒、金種子酒、迎駕貢酒、今世緣跟跌。"
+    },
+    {
+      "id": "mkt:019f8ca5-dcc2-7aab-8e57-137fe1f8bd0d",
+      "time": "2026-07-23 09:45:07",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Wuhan 1H GDP 1.1236 tln yuan, +5.7% YoY】Wuhan Bureau of Statistics and the NBS Wuhan survey team reported 1H 2026 GDP at constant prices of 1.1236 tln yuan, up 5.7% YoY. By sector, primary industry added 19.28 bln yuan (+3.3%); secondary 381.57 bln yuan (+8.9%); tertiary 722.79 bln yuan (+4.2%)."
+    },
+    {
+      "id": "mkt:019f8ca5-aff8-7aab-8e57-0b27d84e3d29",
+      "time": "2026-07-23 09:44:56",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC",
+        "USDJPY",
+        "Impact bullish",
+        "DXY",
+        "EURUSD",
+        "Impact bearish"
+      ],
+      "text": "【Mizuho: BOJ Governor UEDA's remarks next week unlikely to reverse yen weakness】Mizuho economist Yusuke Matsuo said Bank of Japan Governor UEDA is likely to reiterate a push for further rate hikes at next week’s press conference, but that is unlikely to reverse the yen’s weakness. Markets have largely priced in roughly one hike every six months, limiting the currency impact of repeat hawkish signals. Matsuo warned that any tone read as dovish could deepen yen weakness amid broad dollar strength. Markets expect the BOJ to hold its policy rate at 1% next week to assess the effect of the previous hike."
+    },
+    {
+      "id": "5003387",
+      "time": "2026-07-23 09:44:45",
+      "tags": [
+        "公司"
+      ],
+      "text": "【乾圖投資宣佈5000萬元自購旗下私募證券基金產品】近日，深圳市乾圖私募證券基金管理有限公司公告稱，基於對我國經濟前景和資本市場穩健發展的堅定信心，以及對公司投研能力的認可，踐行長期投資理念，公司投委會決定以公司自有資金人民幣5000萬元，於近期申購公司旗下私募證券投資基金。"
+    },
     {
       "id": "5003386",
       "time": "2026-07-23 09:44:33",
