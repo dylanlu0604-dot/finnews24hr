@@ -1,7 +1,97 @@
 {
-  "updated": "2026-07-23 10:47:26",
-  "count": 17559,
+  "updated": "2026-07-23 10:51:24",
+  "count": 17564,
   "items": [
+    {
+      "id": "mkt:019f8ce1-e76b-7aab-8e58-0f4c8833e920",
+      "time": "2026-07-23 10:50:42",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "NHC: Tropical Storm Bertha located about 135 miles (215 km) east-southeast of Lake Charles, Louisiana, with maximum sustained winds of 45 mph (75 km/h)."
+    },
+    {
+      "id": "mkt:019f8ce0-b39d-7aab-8e58-007c1c7d59f6",
+      "time": "2026-07-23 10:49:23",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "XAUUSD",
+        "DXY"
+      ],
+      "text": "CENTCOM said US forces struck Iranian military targets, including maritime warfare capabilities, missile and drone storage facilities, coastal surveillance sites and air-defense assets. The strikes further degraded Iran’s ability to attack civilian mariners and merchant ships."
+    },
+    {
+      "id": "mkt:019f8ce0-9c18-7aab-8e57-faa646b1be48",
+      "time": "2026-07-23 10:49:17",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent",
+        "XAUUSD"
+      ],
+      "text": "CENTCOM said its forces had carried out a new round of strikes against Iran for a 12th consecutive night, as of 22:30 ET on July 22 (10:30 BJT)."
+    },
+    {
+      "id": "5003468",
+      "time": "2026-07-23 10:48:37",
+      "tags": [
+        "國際"
+      ],
+      "text": "美國中央司令部：美軍已連續第12晚完成針對伊朗的又一輪打擊。"
+    },
+    {
+      "id": "5003467",
+      "time": "2026-07-23 10:48:18",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍宣佈於美國東部時間晚上10:30完成對伊朗的最新一次空襲。"
+    },
+    {
+      "id": "5003466",
+      "time": "2026-07-23 10:48:06",
+      "tags": [
+        "公司"
+      ],
+      "text": "【寧德時代“天價鋰礦”斯諾威環評獲受理】近日，甘孜州生態環境局受理《雅江縣斯諾威礦業發展有限公司斯諾威礦業新能源鋰礦開發專案》建設專案環境影響評價檔案，並對外公告。根據環評受理公示，該專案位於甘孜州雅江縣、康定市，建設單位為雅江縣斯諾威礦業發展有限公司。環評檔案披露，斯諾威專案建成後採礦規模將達150萬噸/年。斯諾威礦業因2022年其54.2857%股權拍賣引發行業“天價鋰礦”爭奪戰而聞名。最終寧德時代以逾64億元的重整方案成為其100%控股股東和實際控制人。本次環評受理，標誌礦山開發由前期手續籌備階段邁入實質性建設籌備階段。"
+    },
+    {
+      "id": "5003465",
+      "time": "2026-07-23 10:47:53",
+      "tags": [
+        "國際"
+      ],
+      "text": "美軍完成對伊朗新一輪打擊。"
+    },
+    {
+      "id": "mkt:019f8cdf-0a2b-7aab-8e57-f0b854a2e541",
+      "time": "2026-07-23 10:47:34",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Emerging Markets",
+        "DXY",
+        "Impact bullish",
+        "USDJPY",
+        "Brent"
+      ],
+      "text": "【BMI: Bank Indonesia still expected to hike as rupiah comes under pressure】BMI expects Bank Indonesia to raise rates by a further 50 bps to 6.25% by year-end as policy concerns and renewed US–Iran tensions weigh on the Indonesian rupiah. The agency says the currency is likely to remain weak despite recent intervention and policy tightening. Rising oil prices could boost Indonesia’s import bill and heighten fiscal risks, while persistent governance and policy uncertainty may continue to sap investor sentiment; BMI adds that BI’s growth-supportive stance should limit the scope for further hikes."
+    },
+    {
+      "id": "mkt:019f8cde-7fea-7aab-8e57-e9016a689d69",
+      "time": "2026-07-23 10:46:59",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "EURUSD",
+        "S&P500"
+      ],
+      "text": "Dollar index (DXY) fell below 101, down 12 bps intraday (−0.12%)."
+    },
     {
       "id": "5003464",
       "time": "2026-07-23 10:45:59",
@@ -160536,40 +160626,6 @@
         "國際"
       ],
       "text": "韓國央行行長：不認同今日加息將加劇股市波動的觀點。"
-    },
-    {
-      "id": "4991256",
-      "time": "2026-07-16 10:50:35",
-      "tags": [
-        "其他"
-      ],
-      "text": "【江蘇釋出高溫橙色預警 最高氣溫可達37℃】江蘇省氣象臺7月16日9時22分繼續釋出高溫橙色預警：預計16日無錫、常州、蘇州和南通等地區最高氣溫可達37℃，南京、鎮江、揚州南部和泰州中南部等地區最高氣溫可達35~36℃。江蘇省應急廳（省防減救災辦）、省氣象局提醒注意防範。（央視新聞）"
-    },
-    {
-      "id": "4991255",
-      "time": "2026-07-16 10:49:52",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長申鉉松：中東衝突對就業產生了巨大影響。"
-    },
-    {
-      "id": "4991254",
-      "time": "2026-07-16 10:49:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【港股汽車股持續走高，小鵬集團-W漲超7%】港股汽車股持續走高，小鵬集團-W漲超7%，小米集團-W漲超6%，零跑汽車漲超5%，理想汽車-W、比亞迪股份跟漲。"
-    },
-    {
-      "id": "4991253",
-      "time": "2026-07-16 10:47:48",
-      "tags": [
-        "其他"
-      ],
-      "text": "【智界V9電磁熱控壓鑄件獲行業金獎】7月16日，智界汽車電磁熱控一體壓鑄鑄件在2026上海國際壓鑄展上獲得行業金獎，該技術將冷卻效率提升約20%，並將78個零件整合為一體，已應用於智界V9的後地板生產中。"
     }
   ]
 }
