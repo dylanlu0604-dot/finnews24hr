@@ -1,7 +1,113 @@
 {
-  "updated": "2026-07-23 22:15:46",
-  "count": 17981,
+  "updated": "2026-07-23 22:19:56",
+  "count": 17986,
   "items": [
+    {
+      "id": "mkt:019f8f58-64c8-7aab-8e6d-f4d3e869f20e",
+      "time": "2026-07-23 22:19:22",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "ECB officials are prepared to raise rates in September, sources say."
+    },
+    {
+      "id": "5005026",
+      "time": "2026-07-23 22:17:48",
+      "tags": [
+        "央行",
+        "焦點",
+        "國際"
+      ],
+      "text": "歐洲央行官員：準備於 9 月加息。"
+    },
+    {
+      "id": "5005025",
+      "time": "2026-07-23 22:16:45",
+      "tags": [
+        "宏觀",
+        "公司",
+        "國際"
+      ],
+      "text": "【黃仁勳駁斥AI末日論 暗懟OpenAI、Anthropic遊說白宮收緊監管】英偉達執行長黃仁勳向特朗普政府及其他政策制定者發出警示：不要基於對人工智慧如同科幻小說般的恐慌情緒來制定監管政策。他認為，監管層面反應過度會阻礙人工智慧技術落地應用，削弱美國的競爭優勢。 黃仁勳在接受採訪時，猛烈抨擊了人工智慧末日論，間接反駁了其他科技企業CEO反覆強調AI可能引發災難性風險的論調。 “所謂人工智慧會終結人類文明，純屬無稽之談；聲稱它會讓美國半數崗位消失，同樣完全站不住腳。”黃仁勳表示。他提出，真正更大的風險，是製造恐慌導致企業和勞動者不敢使用人工智慧。 黃仁勳呼籲政策制定者多方聽取意見，不要只徵詢一兩位企業高管的觀點，切勿依據尚未發生的假想場景對AI技術設限。 他還隱晦點出，部分企業打著安全旗號謀求對自身有利的監管規則：“有些企業寄希望於政府出臺偏向自己的監管條款，從中獲益。” 當被問及是否擔心本屆政府監管矯枉過正時，黃仁勳給出了肯定答案。 Anthropic與OpenAI一直在遊說華盛頓高度警惕頂尖AI系統的潛在風險。不少批評者認為，這類安全造勢本質上是為了鞏固兩家實驗室的市場壟斷地位。"
+    },
+    {
+      "id": "5005024",
+      "time": "2026-07-23 22:16:36",
+      "tags": [
+        "焦點",
+        "A股"
+      ],
+      "text": "【7月23日增減持彙總】7月23日盤後，據不完全統計，宏盛華源、華安證券披露擬減持情況，松井股份、洽洽食品披露擬增持情況。"
+    },
+    {
+      "id": "5005023",
+      "time": "2026-07-23 22:16:34",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "美國股市跌幅擴大，納斯達克綜合指數<.IXIC>下跌2.00%。"
+    },
+    {
+      "id": "5005022",
+      "time": "2026-07-23 22:16:25",
+      "tags": [
+        "公司"
+      ],
+      "text": "瑞銀集團：將特斯拉(TSLA.O)目標價從442美元下調至385美元。"
+    },
+    {
+      "id": "mkt:019f8f55-9f35-7aab-8e6d-e84604238659",
+      "time": "2026-07-23 22:16:20",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "UBS cuts Tesla (TSLA.O) PT to $385 from $442."
+    },
+    {
+      "id": "5005021",
+      "time": "2026-07-23 22:16:03",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞銀下調SERVICENOW INC <NOW.N>目標價至110美元，原為115美元。"
+    },
+    {
+      "id": "5005020",
+      "time": "2026-07-23 22:15:44",
+      "tags": [
+        "國際"
+      ],
+      "text": "卡尼：加拿大將在與美國的貿易戰中毫不猶豫地捍衛自身利益。加拿大當前處境優於貿易戰爆發之初，將採取一切必要措施捍衛自身利益。"
+    },
+    {
+      "id": "mkt:019f8f54-d84e-7aab-8e6d-e0e3f595dedf",
+      "time": "2026-07-23 22:15:29",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada entered the trade war in a stronger position and will take all necessary measures to defend its interests."
+    },
+    {
+      "id": "mkt:019f8f54-c04e-7aab-8e6d-d8069e6047fa",
+      "time": "2026-07-23 22:15:23",
+      "tags": [
+        "MKT News",
+        "CADUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "S&P500"
+      ],
+      "text": "Canadian Prime Minister Carney said Canada will not hesitate to defend its interests in a trade war with the U.S."
+    },
     {
       "id": "mkt:019f8f54-a6c2-7aab-8e6d-d62757563dba",
       "time": "2026-07-23 22:15:17",
@@ -164748,62 +164854,6 @@
         "Energy"
       ],
       "text": "U.S. EIA weekly natural gas storage for the week to July 10 due in 10 minutes."
-    },
-    {
-      "id": "te:economy:567599",
-      "time": "2026-07-16 22:19:00",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "Belarus",
-        "Industrial Production",
-        "Importance 1"
-      ],
-      "text": "Belarus Industrial Output Falls — Industrial production in Belarus declined 0.7% year-on-year to BYN 107.2 billion in the first half of 2026, following a 1.4% decrease in the January–May period. The contraction was driven by a 2.1% decline in manufacturing output to BYN 94.0 billion. In contrast, mining and quarrying (2.6%), electricity, gas, steam, hot water, and air conditioning supply (7.9%), and water supply, waste collection, treatment and disposal, and pollution remediation activities (1.4%) all expanded. By region, output declined in Mogilev (-4.5%), Grodno (-4.0%), Minsk City (-3.9%), and Vitebsk (-0.8%), while Brest (5.5%), the Minsk Region (2.4%), and Gomel (0.5%) recorded growth."
-    },
-    {
-      "id": "4992620",
-      "time": "2026-07-16 22:18:06",
-      "tags": [
-        "市場"
-      ],
-      "text": "洲際交易所阿拉比卡咖啡期貨跌幅超過3%，報每磅3.15美元。"
-    },
-    {
-      "id": "4992619",
-      "time": "2026-07-16 22:17:47",
-      "tags": [
-        "其他"
-      ],
-      "text": "【魏牌V9X家庭版上市，限時31.68萬元起】7月16日晚，長城汽車旗下魏牌正式推出V9X豪華家庭版Ultra及Ultra+兩款新增車型。其中，豪華家庭版Ultra官方指導價33.18萬元，限時權益價31.68萬元；豪華家庭版Ultra+官方指導價35.98萬元，限時權益價34.48萬元。"
-    },
-    {
-      "id": "4992618",
-      "time": "2026-07-16 22:17:32",
-      "tags": [
-        "國際"
-      ],
-      "text": "馬來西亞外交部譴責以色列政權耗資23億美元在巴勒斯坦被佔領土擴建定居點的新計劃。"
-    },
-    {
-      "id": "mkt:019f6b49-c4a5-7aab-8dcb-013d33a2df1f",
-      "time": "2026-07-16 22:17:04",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "【Malaysia condemns Israeli settlement expansion plan】Malaysia's foreign ministry condemned Israel's plan to spend $2.3 billion to expand settlements in the occupied Palestinian territories, calling it a deliberate entrenchment of occupation, deprivation of Palestinian rights and a direct blow to prospects for a just and lasting peace."
-    },
-    {
-      "id": "te:markets:567597",
-      "time": "2026-07-16 22:16:37",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Sweden",
-        "Earnings",
-        "Importance 0"
-      ],
-      "text": "Investor B earnings in line with market expectations at 38.26 SEK — Investor B (INVEB) released earnings per share at 38.26 SEK."
     }
   ]
 }
