@@ -1,7 +1,60 @@
 {
-  "updated": "2026-07-24 00:10:49",
-  "count": 18023,
+  "updated": "2026-07-24 00:15:03",
+  "count": 18021,
   "items": [
+    {
+      "id": "5005172",
+      "time": "2026-07-24 00:13:52",
+      "tags": [
+        "公司"
+      ],
+      "text": "加拿大皇家銀行資本市場維持IBM目標股價為每股270.00美元。"
+    },
+    {
+      "id": "5005171",
+      "time": "2026-07-24 00:13:29",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "【烏總統澤連斯基：與雷神公司商討聯合生產“愛國者”攔截彈，推進安卡拉峰會共識 】烏克蘭總統澤連斯基釋出訊息，他近日與由雷神公司（Raytheon）副總裁約瑟夫·德安託納（Joseph DeAntona）率領的代表團舉行了會晤。澤連斯基表示，雷神公司作為實力雄厚的防務企業，其裝備在保護烏克蘭免受俄羅斯襲擊方面發揮了重要作用。在會晤中，雙方重點探討了將雙邊合作提升至新層級的可能性，即由烏克蘭與雷神公司聯合生產“愛國者”（Patriot）防空攔截彈等關鍵防空資產。澤連斯基指出，這正是此前他與美國總統特朗普在安卡拉會談時達成的共識，當前亟需推動該計劃取得實質性進展。此外，雙方還就非進攻性軍事裝備領域的其他合作方向進行了探討。澤連斯基表示，烏美兩國政府及私營部門團隊將保持密切溝通以落實相關細節，並對美國持續支援烏克蘭表示感謝。"
+    },
+    {
+      "id": "mkt:019f8fbf-9848-7aab-8e70-87307bbdbd16",
+      "time": "2026-07-24 00:12:05",
+      "tags": [
+        "MKT News",
+        "XAUUSD",
+        "Impact bullish",
+        "DXY",
+        "WTI"
+      ],
+      "text": "The U.S. State Department warned U.S. citizens in the Middle East that host countries' airspace may face closure risk amid potential escalation."
+    },
+    {
+      "id": "te:markets:569357",
+      "time": "2026-07-24 00:12:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Italy",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The FTSE MIB Index Closes 2.80% Lower — The FTSE MIB Index decreased 1476 points or 2.80 percent on Thursday to close at 51316 points. The decline was led by STMicroelectronics (-18.18%), Moncler (-9.01%) and Nexi (-5.62%)."
+    },
+    {
+      "id": "te:markets:569356",
+      "time": "2026-07-24 00:11:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Germany",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The DAX Index Closes 1.56% Lower — The DAX Index fell 392 points or 1.56 percent on Thursday to close at 24763 points. Leading the losses are Infineon (-6.56%), Commerzbank (-5.44%) and Deutsche Telekom (-4.04%)."
+    },
     {
       "id": "mkt:019f8fbd-cd62-7aab-8e70-7c0a51e7f6de",
       "time": "2026-07-24 00:10:08",
@@ -9,6 +62,18 @@
         "MKT News"
       ],
       "text": "The Trump‑nominated head of the U.S. Consumer Financial Protection Bureau said he would remain \"open\" to plans to cut most of the agency's staff."
+    },
+    {
+      "id": "te:markets:569354",
+      "time": "2026-07-24 00:10:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "France",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The CAC 40 Index Closes 1.88% Lower — The CAC 40 Index dropped 158 points or 1.88 percent on Thursday to close at 8280 points. Losses were led by STMicroelectronics (-16.72%), Eurofins Scientific SE (-6.09%) and Kering (-4.96%)."
     },
     {
       "id": "5005170",
@@ -165098,89 +165163,6 @@
         "公司"
       ],
       "text": "巴黎機場集團（ADP）下調巴黎年度旅客吞吐量增長預測：2026年旅客吞吐量預計僅增長約0.5%，此前給出的年度增長預測區間為1.5%-2.5%。"
-    },
-    {
-      "id": "te:markets:567621",
-      "time": "2026-07-17 00:14:44",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Euro Area",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "European Stocks Hold Muted Momentum — European stock indices closed flat on Thursday, extending the muted momentum from the two prior sessions as concerns of energy-driven inflation weighed against positive corporate news. The Euro STOXX 50 closed flat at 6,268 and the STOXX Europe 600 closed flat at 643. Luxury brands gained on further support from the strong Richemont earnings yesterday, with LVMH and Hermes adding 1.5%. Also, Publicis rose 3% after raising its full-year guidance. On the other hand, higher gas prices pressured utilities and magnified uncertainty for the power-hungry AI infrastructure producers and operators. Enel, Schneider, and Siemens Electric dropped between 2.5% and 1.5%. For energy producers, TotalEnergies fell 1.5% after its earnings preview indicated that Q2 profits are expected to benefit from higher oil prices, although LNG earnings are projected to decline sharply."
-    },
-    {
-      "id": "4992745",
-      "time": "2026-07-17 00:13:15",
-      "tags": [
-        "市場"
-      ],
-      "text": "AST SpaceMobile在發行10億美元可轉換債券後，股價下跌17%。"
-    },
-    {
-      "id": "4992744",
-      "time": "2026-07-17 00:12:47",
-      "tags": [
-        "市場"
-      ],
-      "text": "市場訊息：CSQUARE在紐約證券交易所上市首日開盤價為20.9美元，低於21美元的IPO發行價。"
-    },
-    {
-      "id": "4992743",
-      "time": "2026-07-17 00:12:25",
-      "tags": [
-        "市場"
-      ],
-      "text": "英鎊兌美元日內跌幅達0.5%，報1.3471。"
-    },
-    {
-      "id": "4992742",
-      "time": "2026-07-17 00:12:09",
-      "tags": [
-        "其他"
-      ],
-      "text": "瑞銀將Church & Dwight目標價從每股100美元上調至104美元。"
-    },
-    {
-      "id": "te:markets:567620",
-      "time": "2026-07-17 00:12:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Italy",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The FTSE MIB Index Closes 0.07% Lower — The FTSE MIB Index decreased 37 points or 0.07 percent on Thursday to close at 52374 points. The decline was led by STMicroelectronics (-5.03%), Prysmian (-2.92%) and Buzzi Unicem (-2.47%). On the upside, the strongest performers were Fincantieri (4.18%), Assicurazioni Generali (2.24%) and Moncler (1.99%)."
-    },
-    {
-      "id": "mkt:019f6bb2-9de1-7aab-8dcd-379899381b23",
-      "time": "2026-07-17 00:11:35",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "Alphabet",
-        "Market Themes",
-        "AI Revolution",
-        "Magnificent 7",
-        "GOOG.O",
-        "Impact bullish"
-      ],
-      "text": "Google (GOOG.O) launched in the US a search AI app-integration feature that allows its AI search mode to collaborate with additional apps."
-    },
-    {
-      "id": "te:markets:567619",
-      "time": "2026-07-17 00:11:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The DAX Index Closes 0.34% Lower — The DAX Index fell 84 points or 0.34 percent on Thursday to close at 24915 points. Leading the losses are Infineon (-4.23%), E.ON (-2.30%) and Siemens Energy (-2.26%). Top gainers were Symrise (2.01%), Beiersdorf (1.60%) and Henkel (1.19%)."
     }
   ]
 }
