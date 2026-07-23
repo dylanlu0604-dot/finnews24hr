@@ -1,7 +1,68 @@
 {
-  "updated": "2026-07-23 10:51:24",
+  "updated": "2026-07-23 10:55:20",
   "count": 17564,
   "items": [
+    {
+      "id": "te:markets:569069",
+      "time": "2026-07-23 10:54:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Indonesia",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "Indonesian Equities Hit Five-Week High as BI Holds Rates, Fiscal Cuts Loom — Indonesian stocks jumped 73 points or 1.2% to 6,405 in early deals on Thursday, marking a five-week peak after a modest dip the day before. Sentiment improved as Bank Indonesia held its benchmark rate steady at 5.75%, pausing after a cumulative 100bps of hikes since May, while unveiling fresh incentives to attract foreign inflows. On the fiscal side, the government trimmed its free school meals budget to IDR 229 trillion from IDR 268 trillion, with Finance Minister Purbaya Yudhi hinting defense allocations may also be pared back to prioritize poverty reduction. However, gains were capped by weaker U.S. futures and higher oil prices, after President Trump threatened strikes on Iranian infrastructure in response to potential shipping attacks in the Strait of Hormuz. Still, all major sectors advanced, led by technology, energy, basic materials, and non-cyclicals. Standout movers included Darma Henwa (8.6%), Petrosea (6.4%), Erajaya Swasembada (5.0%), and Raharja Energi Cepu (4.9%)."
+    },
+    {
+      "id": "5003474",
+      "time": "2026-07-23 10:53:36",
+      "tags": [
+        "公司"
+      ],
+      "text": "【張雪峰女兒再接手張雪峰三家公司 張雪峰妻子接手兩家公司董事】天眼查App顯示，近日，張雪峰（張子彪）名下蘇州峰學蔚來教育科技有限公司、蘇州峰閱萬卷文化圖書有限公司、蘇州峰峰火火闖九州旅行社有限責任公司發生工商變更，張雪峰均退出上述公司股東，卸任法定代表人及執行董事職務，同時新增劉巧麗、張雪峰女兒張姩菡為股東。此外，蘇州峰學蔚來教育科技有限公司、蘇州峰閱萬卷文化圖書有限公司新增張雪峰妻子李麗婧任董事職務。蘇州峰學蔚來教育科技有限公司成立於2021年5月，法定代表人為劉巧麗，註冊資本1000萬人民幣，經營範圍包括第二類增值電信業務、出版物零售、廣播電視節目製作經營等，由蘇州研途教育科技有限公司及上述新增股東等共同持股。"
+    },
+    {
+      "id": "5003473",
+      "time": "2026-07-23 10:53:22",
+      "tags": [
+        "市場"
+      ],
+      "text": "【工業金屬板塊走強 宏橋控股等多股漲停】工業金屬板塊走強，宏橋控股、國城礦業、南山鋁業漲停，新威凌、天山鋁業、中孚實業等股漲幅靠前。"
+    },
+    {
+      "id": "5003472",
+      "time": "2026-07-23 10:52:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "【業內專家：量化交易不是不能做，但絕不能成為市場波動的“放大器”】7月20日至21日，從投資者、上市公司到行業機構、專家學者，中國證監會以少見的密度和廣度舉行系列座談會，圍繞促進資本市場穩定健康發展聽取意見建議。其中，“規範量化交易和AI應用”“加大市場違法違規懲處力度”成為討論的核心話題。業內專家認為，量化交易不是不能做，但絕不能成為市場波動的“放大器”。不是技術本身有問題，而是技術應用的行為邊界需要明確界定。從投資者代表建議“規範發展量化交易和AI應用”，到後續系列座談會提出“進一步規範量化交易行為”——從“規範發展”到“規範行為”，這意味著具體政策或正在路上。（上證報）"
+    },
+    {
+      "id": "5003471",
+      "time": "2026-07-23 10:51:49",
+      "tags": [
+        "國際"
+      ],
+      "text": "【泰國南部一檢查站遭炸彈襲擊 5名士兵死亡】據泰國媒體23日報道，一夥不明身份人員22日在泰國南部那拉提瓦府一檢查站開槍並投擲管狀炸彈，造成5名士兵死亡、6名平民受傷。 報道說，襲擊發生在當地時間18時45分許，6名襲擊者駕駛皮卡車到達那拉提瓦府拉昂縣一檢查站門口，開槍並投擲炸彈，隨後駕車逃逸。 目前，泰國安全部門正全力追捕襲擊者，同時下令在該地區採取最高階別安保措施，指示所有檢查站保持高度警惕。 泰國總理阿努廷22日晚針對這一襲擊事件敦促相關部門採取有效應對措施。他還表示，南部邊境省份的和平談判程序將繼續進行。(新華社)"
+    },
+    {
+      "id": "5003470",
+      "time": "2026-07-23 10:51:40",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "印尼股市自6月低點上漲20%，有望進入技術性牛市。"
+    },
+    {
+      "id": "5003469",
+      "time": "2026-07-23 10:50:49",
+      "tags": [
+        "市場"
+      ],
+      "text": "【鋰礦概念持續走強 國城礦業、永杉鋰業雙雙漲停】鋰礦概念盤中持續走強，國城礦業、永杉鋰業漲停，盛新鋰能、天華新能、大中礦業、中礦資源等漲超6%。"
+    },
     {
       "id": "mkt:019f8ce1-e76b-7aab-8e58-0f4c8833e920",
       "time": "2026-07-23 10:50:42",
@@ -160563,69 +160624,6 @@
         "公司"
       ],
       "text": "【四方光電、高德紅外等在武漢成立芯微感測科技公司】天眼查App顯示，7月13日，武漢光谷芯微感測科技有限公司成立，法定代表人為施維軒，註冊資本500萬人民幣，經營範圍包括技術服務、技術開發、技術諮詢、技術交流、技術轉讓、技術推廣、物聯網技術研發、企業管理諮詢等。股東資訊顯示，該公司由武漢匯科智感科技合夥企業（有限合夥）、武漢光谷新技術產業投資有限公司、武漢華工新高理電子有限公司、四方光電（688665）、高德紅外（002414）等共同持股。"
-    },
-    {
-      "id": "4991262",
-      "time": "2026-07-16 10:54:45",
-      "tags": [
-        "其他"
-      ],
-      "text": "申鉉松：人工智慧領域的進展仍將是貨幣政策的關鍵因素。"
-    },
-    {
-      "id": "4991261",
-      "time": "2026-07-16 10:53:38",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：比起晶片製造商的股票價格，我更關注晶片價格。"
-    },
-    {
-      "id": "4991260",
-      "time": "2026-07-16 10:53:25",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【鋰電池概念震盪反彈 華盛鋰電漲超10%】鋰電池概念震盪反彈，華盛鋰電漲超10%，此前孚日股份漲停，富祥股份、濱海能源、領湃科技、珠海冠宇、海科新源跟漲。"
-    },
-    {
-      "id": "4991259",
-      "time": "2026-07-16 10:53:16",
-      "tags": [
-        "其他"
-      ],
-      "text": "【荷蘭高溫期間兩週內超額死亡人數超900】荷蘭國家公共衛生與環境研究所15日說，6月22日至7月5日的兩週內，荷蘭超額死亡人數達到911人，高溫“極有可能”是導致超額死亡的原因之一。"
-    },
-    {
-      "id": "4991258",
-      "time": "2026-07-16 10:52:55",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：股市回撥的系統性影響有限。"
-    },
-    {
-      "id": "te:markets:567385",
-      "time": "2026-07-16 10:52:48",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Platinum Rises to 3-Week High — Platinum futures rose to around $1,670 an ounce, reaching more than a three-week high as softer US inflation data offset concerns over the escalating Middle East conflict. US producer prices unexpectedly fell in June for the first time in nearly a year, and together with surprisingly soft consumer inflation, an interest rate hike this month by the Federal Reserve has been effectively ruled out. This weakened the US dollar to a one-month low, boosting demand for dollar-denominated commodities such as platinum. However, the escalation in hostilities between US and Iran kept oil prices sharply higher, maintaining pressure on the inflation outlook. Meanwhile, platinum prices continued to draw support from expectations of a fourth consecutive global supply deficit this year, as constrained South African mine output, limited recycling supply, and dwindling above-ground inventories kept the physical market tight. Industrial demand also remained resilient, supported by the automotive sector."
-    },
-    {
-      "id": "4991257",
-      "time": "2026-07-16 10:52:14",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "韓國央行行長：不認同今日加息將加劇股市波動的觀點。"
     }
   ]
 }
