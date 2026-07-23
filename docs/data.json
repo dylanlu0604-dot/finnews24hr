@@ -1,7 +1,77 @@
 {
-  "updated": "2026-07-23 13:01:22",
-  "count": 17547,
+  "updated": "2026-07-23 13:05:41",
+  "count": 17543,
   "items": [
+    {
+      "id": "mkt:019f8d5c-ae73-7aab-8e5a-05548a90dea0",
+      "time": "2026-07-23 13:04:49",
+      "tags": [
+        "MKT News",
+        "STM.O",
+        "Impact bearish"
+      ],
+      "text": "STMicroelectronics expects Q3 net revenue of $3.70 bln, versus consensus $3.79 bln."
+    },
+    {
+      "id": "5003618",
+      "time": "2026-07-23 13:04:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25254.311點；恒生科技指數現漲1.021%。"
+    },
+    {
+      "id": "mkt:019f8d5c-5519-7aab-8e59-fd7e7d549ae1",
+      "time": "2026-07-23 13:04:26",
+      "tags": [
+        "MKT News",
+        "STM.PA"
+      ],
+      "text": "STMicroelectronics reported Q2 net profit of $222 mln, gross profit about $1.22 bln and a gross margin of 34.8%."
+    },
+    {
+      "id": "5003617",
+      "time": "2026-07-23 13:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行第二季度營收65.2億歐元，預估65億歐元。裕信銀行第二季度淨利息收入36.6億歐元，預估36.6億歐元。"
+    },
+    {
+      "id": "mkt:019f8d59-b6f7-7aab-8e59-f7dbaaeb0218",
+      "time": "2026-07-23 13:01:34",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "Hyundai Motor to pay a quarterly dividend of KRW2,500 per share."
+    },
+    {
+      "id": "5003616",
+      "time": "2026-07-23 13:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾基亞第二季度調整後營業利潤4.34億歐元，預估3.723億歐元。"
+    },
+    {
+      "id": "mkt:019f8d59-6826-7aab-8e59-e98b452c544f",
+      "time": "2026-07-23 13:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mossad chief visited Washington, provided U.S. intelligence on Iran site, uranium feedstock and economy】U.S. media on the 22nd, citing sources, reported Mossad director Roman Gofman visited Washington two weeks ago to meet U.S. officials on Iran’s regional situation and its nuclear program. CNN reported Gofman provided U.S. authorities with intelligence on an Iran site referred to as Gaoshan, on uranium feedstock and on Iran’s economic conditions."
+    },
+    {
+      "id": "5003615",
+      "time": "2026-07-23 13:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行有限公司 第二季度營收140.9億歐元，預估134.8億歐元。法國巴黎銀行有限公司 第二季度淨利潤43.5億歐元，預估42.3億歐元。"
+    },
     {
       "id": "5003614",
       "time": "2026-07-23 13:00:44",
@@ -160377,119 +160447,6 @@
         "其他"
       ],
       "text": "ABB公佈第二季度營收為94.8億美元，預期為94.8億美元。ABB第二季息稅折舊攤銷前利潤為19.25億美元."
-    },
-    {
-      "id": "mkt:019f6950-e9ec-7aab-8dba-a91596c73975",
-      "time": "2026-07-16 13:05:38",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "XAUUSD",
-        "Impact mixed",
-        "USDJPY"
-      ],
-      "text": "【South Korea FSS flags rate-hike risks, urges measures to secure corporate financing】South Korea's Financial Supervisory Service held a financial-situation meeting on the 16th, chaired by FSS chief Lee Chan-jin, to assess market moves after the Bank of Korea MPC raised its policy rate by 25bp. Lee said the BOK hike was in line with market expectations but warned that sharply higher domestic equity volatility, ongoing Middle East geopolitical tensions and the risk of further US rate hikes warrant preparedness and measures to safeguard corporate financing and limit potential wider market stress."
-    },
-    {
-      "id": "4991430",
-      "time": "2026-07-16 13:04:50",
-      "tags": [
-        "公司"
-      ],
-      "text": "【量子計算企業本源量子增資，增幅達1100%】企查查APP顯示，近日，本源量子計算科技（合肥）股份有限公司發生工商變更，註冊資本從3000萬元增加至3.6億元，增幅約為1100.00%。企查查顯示，該公司成立於2017年9月，法定代表人為張輝，由郭國平、中科大資產經營有限責任公司等共同持股。官網顯示，本源量子專注量子計算全領域開發，打造中國量子計算第一產業。"
-    },
-    {
-      "id": "4991429",
-      "time": "2026-07-16 13:04:33",
-      "tags": [
-        "市場"
-      ],
-      "text": "巴基斯坦KSE-100指數上漲1%，至177,130.20。"
-    },
-    {
-      "id": "4991428",
-      "time": "2026-07-16 13:04:19",
-      "tags": [
-        "其他"
-      ],
-      "text": "【多隻紅利相關ETF完成募集 募資額超10億元】近期，多隻紅利相關ETF完成募集，包括紅利低波ETF、紅利質量ETF等，合計募資規模超10億元。"
-    },
-    {
-      "id": "4991427",
-      "time": "2026-07-16 13:03:55",
-      "tags": [
-        "其他"
-      ],
-      "text": "ABB：建議以每股503便士全現金收購Rotork。"
-    },
-    {
-      "id": "4991426",
-      "time": "2026-07-16 13:02:40",
-      "tags": [
-        "其他"
-      ],
-      "text": "【MiniMax Code更新2.0版本】MiniMax宣佈正式更新MiniMaxCode2.0桌面端，重點提升會話啟動速度、長任務執行穩定性和工具呼叫的上下文銜接能力。同時，新版本對檔案預覽、圖表互動等功能進行了最佳化，並將進一步拓展金融研究能力。據介紹，MiniMaxCode將在本月上線遠端控制、瀏覽器操控、目標模式和計劃模式等功能，進一步擴充套件複雜任務處理與跨環境協作能力。"
-    },
-    {
-      "id": "mkt:019f694d-d5a0-7aab-8dba-a7f85b51340a",
-      "time": "2026-07-16 13:02:16",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Market sources: South Korea will issue a statement on leveraged ETFs at 4:00 PM local time on Thursday."
-    },
-    {
-      "id": "4991425",
-      "time": "2026-07-16 13:02:08",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "深證成指跌1.02%，現報14628.779點；上證指數跌0.94%，現報3918.284點；創業板指跌1.88%，現報3733.216點。"
-    },
-    {
-      "id": "4991424",
-      "time": "2026-07-16 13:01:57",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "港股泡泡瑪特(09992.HK)午後直線拉昇漲逾8%，午間蘋果CEO庫克微博發文歡迎泡泡瑪特創始人王寧到訪蘋果總部。"
-    },
-    {
-      "id": "4991423",
-      "time": "2026-07-16 13:01:37",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "滬深兩市成交額超1.5萬億元，較上日此時縮量2472億元。"
-    },
-    {
-      "id": "mkt:019f694d-3ec7-7aab-8dba-9a42907b6931",
-      "time": "2026-07-16 13:01:37",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Star Stocks",
-        "Apple",
-        "Market Themes",
-        "Magnificent 7",
-        "09992.HK",
-        "Impact bullish"
-      ],
-      "text": "Hong Kong-listed Pop Mart (09992.HK) rallied more than 8% in afternoon trade after Apple (AAPL.O) CEO Tim Cook posted on Weibo welcoming Pop Mart founder Wang Ning to visit Apple's headquarters."
-    },
-    {
-      "id": "mkt:019f694d-12a7-7aab-8dba-92e17f2cb2f6",
-      "time": "2026-07-16 13:01:26",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "UK Prime Minister Starmer will visit Kyiv on Thursday to meet Ukrainian President Zelenskiy."
     }
   ]
 }

@@ -1,7 +1,77 @@
 {
   "date": "2026-07-23",
-  "count": 1252,
+  "count": 1260,
   "items": [
+    {
+      "id": "mkt:019f8d5c-ae73-7aab-8e5a-05548a90dea0",
+      "time": "2026-07-23 13:04:49",
+      "tags": [
+        "MKT News",
+        "STM.O",
+        "Impact bearish"
+      ],
+      "text": "STMicroelectronics expects Q3 net revenue of $3.70 bln, versus consensus $3.79 bln."
+    },
+    {
+      "id": "5003618",
+      "time": "2026-07-23 13:04:36",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "恒生指數漲超1%，現報25254.311點；恒生科技指數現漲1.021%。"
+    },
+    {
+      "id": "mkt:019f8d5c-5519-7aab-8e59-fd7e7d549ae1",
+      "time": "2026-07-23 13:04:26",
+      "tags": [
+        "MKT News",
+        "STM.PA"
+      ],
+      "text": "STMicroelectronics reported Q2 net profit of $222 mln, gross profit about $1.22 bln and a gross margin of 34.8%."
+    },
+    {
+      "id": "5003617",
+      "time": "2026-07-23 13:02:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "裕信銀行第二季度營收65.2億歐元，預估65億歐元。裕信銀行第二季度淨利息收入36.6億歐元，預估36.6億歐元。"
+    },
+    {
+      "id": "mkt:019f8d59-b6f7-7aab-8e59-f7dbaaeb0218",
+      "time": "2026-07-23 13:01:34",
+      "tags": [
+        "MKT News",
+        "005380.KS",
+        "Impact bearish"
+      ],
+      "text": "Hyundai Motor to pay a quarterly dividend of KRW2,500 per share."
+    },
+    {
+      "id": "5003616",
+      "time": "2026-07-23 13:01:17",
+      "tags": [
+        "其他"
+      ],
+      "text": "諾基亞第二季度調整後營業利潤4.34億歐元，預估3.723億歐元。"
+    },
+    {
+      "id": "mkt:019f8d59-6826-7aab-8e59-e98b452c544f",
+      "time": "2026-07-23 13:01:14",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Mossad chief visited Washington, provided U.S. intelligence on Iran site, uranium feedstock and economy】U.S. media on the 22nd, citing sources, reported Mossad director Roman Gofman visited Washington two weeks ago to meet U.S. officials on Iran’s regional situation and its nuclear program. CNN reported Gofman provided U.S. authorities with intelligence on an Iran site referred to as Gaoshan, on uranium feedstock and on Iran’s economic conditions."
+    },
+    {
+      "id": "5003615",
+      "time": "2026-07-23 13:01:01",
+      "tags": [
+        "公司"
+      ],
+      "text": "法國巴黎銀行有限公司 第二季度營收140.9億歐元，預估134.8億歐元。法國巴黎銀行有限公司 第二季度淨利潤43.5億歐元，預估42.3億歐元。"
+    },
     {
       "id": "5003614",
       "time": "2026-07-23 13:00:44",
