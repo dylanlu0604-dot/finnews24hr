@@ -1,7 +1,104 @@
 {
   "date": "2026-07-23",
-  "count": 3330,
+  "count": 3340,
   "items": [
+    {
+      "id": "mkt:019f8f3d-8fac-7aab-8e6d-5eefce580de0",
+      "time": "2026-07-23 21:50:04",
+      "tags": [
+        "MKT News",
+        "Important"
+      ],
+      "text": "Eurozone preliminary July consumer confidence index due in 10 minutes."
+    },
+    {
+      "id": "5004987",
+      "time": "2026-07-23 21:49:41",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍尼韋爾：截至6月30日的三個月及六個月期間，因分拆Quantinuum業務不再合併報表，確認66.29億美元收益。"
+    },
+    {
+      "id": "te:markets:569331",
+      "time": "2026-07-23 21:49:26",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "stocks",
+        "Importance 1"
+      ],
+      "text": "Walmart Stock Price Hits 34-week Low — Walmart shares decreased to 107.11 USD, the lowest since November 2025. Over the past 4 weeks, Walmart lost 9.86%, and in the last 12 months, it increased 12.5%."
+    },
+    {
+      "id": "5004986",
+      "time": "2026-07-23 21:49:11",
+      "tags": [
+        "國際"
+      ],
+      "text": "【中國氣象局啟動颱風、暴雨、強對流三級應急響應】中央氣象臺預報，菲律賓以東熱帶低壓預計將發展為今年第12號颱風“紅霞”，並於25日晚上至26日早晨在廣東珠海到福建漳浦一帶沿海登陸。對此，中國氣象局23日18時30分調整暴雨、強對流三級應急響應為颱風、暴雨、強對流三級應急響應。（新華社）"
+    },
+    {
+      "id": "5004985",
+      "time": "2026-07-23 21:47:43",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞安航空：投資 5000 萬歐元新建四機位飛機維修機庫及工程學院，創造逾 400 個高技能崗位."
+    },
+    {
+      "id": "mkt:019f8f3b-2347-7aab-8e6d-570f08e44901",
+      "time": "2026-07-23 21:47:25",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Energy",
+        "WTI",
+        "Impact bullish"
+      ],
+      "text": "WTI crude futures jumped 6.00% intraday to $91.69/bbl."
+    },
+    {
+      "id": "5004984",
+      "time": "2026-07-23 21:47:01",
+      "tags": [
+        "市場",
+        "焦點"
+      ],
+      "text": "布倫特原油突破94美元/桶，日內漲4.26%。"
+    },
+    {
+      "id": "5004983",
+      "time": "2026-07-23 21:46:34",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息：無人機夜間襲擊了兩艘接近俄羅斯黑海CPC油輪碼頭的油輪。"
+    },
+    {
+      "id": "mkt:019f8f3a-0a26-7aab-8e6d-4bd53cb75bc1",
+      "time": "2026-07-23 21:46:13",
+      "tags": [
+        "MKT News",
+        "Macro & Rates",
+        "Commodities",
+        "XAUUSD",
+        "Impact bearish",
+        "DXY",
+        "Impact bullish",
+        "US10Y"
+      ],
+      "text": "【Middle East conflict fuels inflation fears; gold falls over 2%】Gold fell more than 2% on Thursday after fighting in the Middle East pushed oil prices higher, stoking inflation concerns, lifting Treasury yields and reinforcing expectations for further US rate hikes this year. American Gold Exchange analyst Jim Wyckoff said rising crude is driving yields up because investors see the Fed as less able to cut rates amid inflation; markets expect the Fed to hold rates next week, possibly with hawkish rhetoric, but would react to any surprise dovish or hawkish shift."
+    },
+    {
+      "id": "5004982",
+      "time": "2026-07-23 21:45:58",
+      "tags": [
+        "其他"
+      ],
+      "text": "市場訊息：巴基斯坦中央銀行外匯儲備增加3300萬美元，達到173億美元。"
+    },
     {
       "id": "te:economy:569330",
       "time": "2026-07-23 21:45:45",
