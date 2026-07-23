@@ -1,7 +1,86 @@
 {
   "date": "2026-07-23",
-  "count": 3403,
+  "count": 3412,
   "items": [
+    {
+      "id": "5005031",
+      "time": "2026-07-23 22:22:27",
+      "tags": [
+        "國際"
+      ],
+      "text": "【算力即控制權：資料中心成全球FDI審查新重點】在歐洲，“數字基礎設施”已經明確被列為具有戰略相關性的領域，荷蘭、德國和英國都已經收緊對資料中心投資的審查。在美國，雖然資料中心投資所受到的政策約束相對較少，但美國外國投資委員會（CFIUS）的審查環境並不寬鬆。在亞洲，部分市場正積極吸引資本，而另一些市場則在收緊對資料、網路安全、外資持股及關鍵基礎設施的管控。富而德律師事務所反壟斷、競爭及貿易業務合夥人博加德（Laurent Bougard）在接受記者採訪時表示，FDI審查與限制正塑造資本流動方向與規模。（第一財經）"
+    },
+    {
+      "id": "5005030",
+      "time": "2026-07-23 22:22:14",
+      "tags": [
+        "市場"
+      ],
+      "text": "IMAX公佈第二季業績超預期 股價應聲大漲11.2%。"
+    },
+    {
+      "id": "5005029",
+      "time": "2026-07-23 22:21:42",
+      "tags": [
+        "公司"
+      ],
+      "text": "【龔正調研上海機場集團、國泰海通證券，要求持續增強核心功能和核心競爭力】上海市委副書記、市長龔正今天（7月23日）調研重點市屬國企時指出，要深入學習貫徹習近平總書記考察上海重要講話精神和對上海工作重要指示要求，按照市委部署，牢固樹立和踐行正確政績觀，勇立潮頭、乘勢而上，堅定不移深化國企改革，持續增強核心功能和核心競爭力，更好承擔國家戰略使命、服務高質量發展，為上海“五個中心”建設提供更加有力的支撐保障。（澎湃）"
+    },
+    {
+      "id": "mkt:019f8f5a-6af9-7aab-8e6e-06e977dd4efd",
+      "time": "2026-07-23 22:21:35",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "The U.S. Department of Justice will resume issuing \"second requests\" for in-depth investigations of M&A transactions."
+    },
+    {
+      "id": "5005028",
+      "time": "2026-07-23 22:21:07",
+      "tags": [
+        "國際"
+      ],
+      "text": "市場訊息： 美國司法部將恢復併購交易的 “二次資訊調取” 調查流程。"
+    },
+    {
+      "id": "te:markets:569337",
+      "time": "2026-07-23 22:20:20",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Baltic Dry Index Rises for 2nd Session — The Baltic dry index increased 0.4% to 2,725 on Thursday, extending a 1.7% rise in the previous session. The capesize index, which typically transports 150,000-ton cargoes, including iron ore and coal, advanced 2% to 4,198, its highest level since July 16. On the other hand, the panamax index, which usually carries 60,000 to 70,000 tons of coal or grain, fell 2.6% to a one-month low of 2,064. Among smaller vessels, the supramax index decreased 0.8% to 1,702, its lowest since July 9."
+    },
+    {
+      "id": "mkt:019f8f59-062f-7aab-8e6d-fea268753260",
+      "time": "2026-07-23 22:20:03",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy"
+      ],
+      "text": "U.S. EIA weekly natural gas storage for the week to July 17 due in 10 minutes."
+    },
+    {
+      "id": "5005027",
+      "time": "2026-07-23 22:19:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【內蒙古自治區安委會對3個地區開展安全生產約談】根據《自治區安全生產約談辦法》有關規定，按照自治區黨委和政府要求，7月23日，自治區黨委常委、自治區人民政府常務副主席黃志強對包頭市昆都侖區、鄂爾多斯市東勝區、烏海市烏達區政府主要負責同志進行了約談。約談指出，今年以來，三個地區事故起數和死亡人數上升較多，充分暴露出安全發展理念不牢固、吸取事故教訓不深刻、形勢風險分析不深入、問題隱患整改不徹底等問題。約談要求，要堅決貫徹落實習近平總書記關於安全生產的重要指示精神，時刻繃緊安全生產這根弦，深刻汲取事故教訓，全力整治安全生產隱患，加強行刑、行紀銜接，寸步不讓嚴守安全生產底線紅線，堅決扭轉安全事故頻發多發的被動局面。約談會上，三個地區政府主要負責同志作了表態發言，自治區有關部門和三個盟市政府負責同志也參加了約談。"
+    },
+    {
+      "id": "em:qqyh_ozyh:202607233819282094",
+      "time": "2026-07-23 22:19:26",
+      "tags": [
+        "央行",
+        "歐洲央行"
+      ],
+      "text": "據報道，歐洲央行官員已準備好於9月上調利率。"
+    },
     {
       "id": "mkt:019f8f58-64c8-7aab-8e6d-f4d3e869f20e",
       "time": "2026-07-23 22:19:22",
