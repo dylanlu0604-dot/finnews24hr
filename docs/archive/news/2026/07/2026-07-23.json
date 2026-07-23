@@ -1,7 +1,315 @@
 {
   "date": "2026-07-23",
-  "count": 2299,
+  "count": 2331,
   "items": [
+    {
+      "id": "5004368",
+      "time": "2026-07-23 18:06:23",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中航重機：吸收合併全資子公司並通知債權人申報債權】中航重機公告稱，公司2026年7月23日召開臨時股東會，審議透過吸收合併全資子公司中航檢測的議案。完成後，中航檢測將登出，其全部資產、債權等由公司承繼。根據相關法規，債權人自接到通知30日內、未接到通知自公告披露45日內，有權要求公司清償債務或提供擔保。申報時間為2026年7月24日至9月7日，可透過現場、郵寄或電子郵件方式申報。"
+    },
+    {
+      "id": "5004367",
+      "time": "2026-07-23 18:06:08",
+      "tags": [
+        "市場"
+      ],
+      "text": "康卡斯特二季度業績好於預期，盤前股價上漲2.5%。"
+    },
+    {
+      "id": "mkt:019f8e70-791e-7aab-8e63-4f70a801966a",
+      "time": "2026-07-23 18:06:03",
+      "tags": [
+        "MKT News",
+        "WTI",
+        "Impact bullish",
+        "Brent"
+      ],
+      "text": "【EU member states reach political agreement on 21st Russia sanctions package】European Commission President von der Leyen said on social media on the 23rd that EU member states have reached a political agreement on the 21st package of sanctions against Russia. The deal requires further technical work and formal approval via written procedure; the package, proposed in June, focuses on energy, finance and trade."
+    },
+    {
+      "id": "mkt:019f8e70-5f8f-7aab-8e63-432ce78a7a42",
+      "time": "2026-07-23 18:05:56",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "Magnificent 7",
+        "Star Stocks",
+        "Amazon",
+        "AMZN.O"
+      ],
+      "text": "【Bezos pushes Prime Video redesign to center on AI】Jeff Bezos has urged Prime Video chief Mike Hopkins to overhaul the streaming service and place artificial intelligence at its core, according to four people. The internally named Lighthouse project is designed to showcase Amazon’s AI to more than 200 million Prime Video users and is seen as a key move to bolster the company’s AI standing; other AI efforts, including multi-year Alexa upgrades for more natural dialogue, have produced mixed results and remain loss-making."
+    },
+    {
+      "id": "5004366",
+      "time": "2026-07-23 18:05:49",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌：谷歌即將推出人工智慧與經濟圖譜第一版。"
+    },
+    {
+      "id": "5004365",
+      "time": "2026-07-23 18:05:40",
+      "tags": [
+        "公司"
+      ],
+      "text": "【中集安瑞科聯合國家電網、大唐山東公司達成東營綠色甲醇一體化專案合作】記者獲悉，7月22日，東營經濟技術開發區風光耦合綠甲醇一體化專案在山東東營正式簽約。中集安瑞科控股有限公司執行董事、總裁楊曉虎出席簽約儀式，與東營經濟技術開發區管理委員會、大唐山東發電有限公司、國網山東省電力公司共同簽署合作協議。根據協議，各方將依託東營市優質的風光資源和園區配套優勢，共同部署開展綠色甲醇產業合作專案，致力於新能源制綠氫、綠氨、綠色甲醇等綠色燃料的產業化發展，積極培育綠色化工、氫基能源等產業，助力東營打造新型能源經濟示範區。"
+    },
+    {
+      "id": "5004364",
+      "time": "2026-07-23 18:05:22",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍尼韋爾二季度內生營收同比增長 4%。"
+    },
+    {
+      "id": "5004363",
+      "time": "2026-07-23 18:05:18",
+      "tags": [
+        "公司"
+      ],
+      "text": "【東風股份：預計2026年上半年淨利潤同比增長23.45%到33.74%】東風股份公告，預計2026年半年度實現歸屬於母公司所有者的淨利潤為1.2億元到1.3億元，與上年同期相比，將增加2279.39萬元到3279.39萬元，同比增加23.45%到33.74%。預計2026年半年度實現歸屬於母公司所有者的扣除非經常性損益的淨利潤-2500萬元到-1500萬元，與上年同期相比，將減虧6206.63萬元到7206.63萬元。報告期內，公司在國內新能源產品佈局持續完善，新能源整車銷售1.9萬輛，同比增長100.3%；加速完善海外市場佈局，出口整車1.3萬輛，同比增長81.4%；發動機銷量16萬臺，同比增長26%，發電機組用發動機業務大幅增長，對公司經營有積極貢獻。"
+    },
+    {
+      "id": "mkt:019f8e6f-b244-7aab-8e63-3dc673a41f70",
+      "time": "2026-07-23 18:05:12",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O"
+      ],
+      "text": "Google (GOOG.O) Chief Legal Officer Kent Walker said an EU decision has reduced product quality and was driven by a small group of selfish complainants."
+    },
+    {
+      "id": "5004362",
+      "time": "2026-07-23 18:05:10",
+      "tags": [
+        "公司",
+        "焦點"
+      ],
+      "text": "特斯拉：目前預計我們2026年的資本支出將超過250億美元。"
+    },
+    {
+      "id": "5004361",
+      "time": "2026-07-23 18:04:57",
+      "tags": [
+        "宏觀",
+        "國際"
+      ],
+      "text": "【歐盟成員國就第21輪對俄製裁達成一致】歐盟委員會主席馮德萊恩23日在社交媒體上說，歐盟成員國當天已就第21輪對俄羅斯制裁達成政治協議。馮德萊恩說，新一輪制裁將增加32家俄羅斯銀行進入交易禁令名單，同時制裁相關加密資產企業和石油交易平臺。歐盟還將把針對俄羅斯石油的限價動態機制暫停一年，以防俄羅斯從國際油價劇烈波動中獲益。馮德萊恩還表示，歐盟將首次對為俄“影子艦隊”提供協助的船隻實施制裁，並正在推進出臺禁止曾參與對烏作戰的俄方人員進入歐盟的政策。據悉，上述協議還需完成技術工作並透過書面程式正式批准。今年6月，歐盟委員會提出第21輪對俄製裁方案，重點涉及能源、金融和貿易等領域。（新華社）"
+    },
+    {
+      "id": "em:qqyh_zgyh:202607233819037991",
+      "time": "2026-07-23 18:04:39",
+      "tags": [
+        "央行",
+        "中國央行"
+      ],
+      "text": "【央行：7月24日將開展5000億元MLF操作】為保持銀行體系流動性充裕，2026年7月24日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展5000億元MLF操作，期限為1年期。"
+    },
+    {
+      "id": "5004360",
+      "time": "2026-07-23 18:04:37",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "中國人民銀行：為保持銀行體系流動性充裕，2026年7月24日，中國人民銀行將以固定數量、利率招標、多重價位中標方式開展5000億元MLF操作，期限為1年期。"
+    },
+    {
+      "id": "5004359",
+      "time": "2026-07-23 18:04:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【惠威科技：擬4000萬-8000萬元回購股份用於出售】惠威科技公告稱，公司擬使用自有資金以集中競價交易方式回購股份，資金總額不低於4000萬元且不超過8000萬元，回購價格不超過18.50元/股。若按上限測算，預計可回購約432.43萬股，佔總股本2.93%；按下限測算，預計可回購約216.22萬股，佔總股本1.46%。回購用於維護公司價值及股東權益（出售），期限自董事會審議透過日起不超3個月。本次回購存在價格、資金、方案變更等風險。"
+    },
+    {
+      "id": "mkt:019f8e6e-f281-7aab-8e63-365cf88c202e",
+      "time": "2026-07-23 18:04:23",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish",
+        "CSI300"
+      ],
+      "text": "On July 24, 2026 the People's Bank of China (PBOC) will conduct a CNY500 billion, one-year medium-term lending facility (MLF) operation via a fixed-quantity, rate tender with multiple-price allotment to keep banking-system liquidity ample."
+    },
+    {
+      "id": "5004358",
+      "time": "2026-07-23 18:04:22",
+      "tags": [
+        "公司"
+      ],
+      "text": "【*ST元道：控股股東部分股份被輪候凍結 佔總股本26.85%】*ST元道公告稱，控股股東李晉部分股份被輪候凍結。其中，2026年5月20日，630萬股被江蘇省江陰市人民法院輪候凍結，佔其所持股份19.30%、公司總股本5.18%；7月9日，3264.413萬股被河北省邢臺市襄都區人民法院輪候凍結，佔其所持股份100%、公司總股本26.85%。截至公告披露日，李晉及其一致行動人累計被凍結股份佔其所持股份84.47%、公司總股本26.85%。本次輪候凍結暫不會導致公司控制權變更，控股股東及其一致行動人無侵害公司利益情況。"
+    },
+    {
+      "id": "5004357",
+      "time": "2026-07-23 18:04:06",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "雷神技術公司盤前股價上漲3.5%，此前該公司上調了2026年銷售額及利潤預期。"
+    },
+    {
+      "id": "5004356",
+      "time": "2026-07-23 18:03:56",
+      "tags": [
+        "國際"
+      ],
+      "text": "訊息稱，一艘懸掛土耳其國旗、從俄羅斯港口運載煤炭的貨船遭到襲擊。"
+    },
+    {
+      "id": "5004355",
+      "time": "2026-07-23 18:03:46",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟委員會：谷歌有60天的時間公平對待競爭對手，並允許應用開發者引導使用者離開其應用商店。谷歌在遵守歐盟規則方面已取得重大進展，談判將繼續進行。"
+    },
+    {
+      "id": "mkt:019f8e6e-553d-7aab-8e63-28c5c2eb16b3",
+      "time": "2026-07-23 18:03:43",
+      "tags": [
+        "MKT News",
+        "GOOG.O",
+        "Impact mixed"
+      ],
+      "text": "Google (GOOG.O) said it may challenge the European Union's penalty decision in court."
+    },
+    {
+      "id": "mkt:019f8e6e-1041-7aab-8e63-22fee48ede89",
+      "time": "2026-07-23 18:03:25",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bullish"
+      ],
+      "text": "European Commission says Google (GOOG.O) has made significant progress in complying with EU rules and negotiations will continue."
+    },
+    {
+      "id": "5004354",
+      "time": "2026-07-23 18:03:21",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍尼韋爾第二季度營收 97.2 億美元。"
+    },
+    {
+      "id": "5004353",
+      "time": "2026-07-23 18:03:14",
+      "tags": [
+        "公司"
+      ],
+      "text": "谷歌部落格推出自拍影片功能，將其作為谷歌賬號全新登入方式。"
+    },
+    {
+      "id": "5004352",
+      "time": "2026-07-23 18:03:04",
+      "tags": [
+        "公司"
+      ],
+      "text": "【華西醫院與聯影集團達成全方位戰略合作】近日，四川大學華西醫院與聯影集團簽署“十五五”戰略合作框架協議。雙方將在高階診療裝備與AI聯合開發、產教融合、人才培養、重大課題攻關、成果轉化等領域展開深度合作，協同打造醫工交叉、產教融合、臨床轉化一體化創新高地。"
+    },
+    {
+      "id": "mkt:019f8e6d-b282-7aab-8e63-1f22f4448e79",
+      "time": "2026-07-23 18:03:01",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Regions",
+        "Europe & UK",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "European Commission gave Google (GOOG.O) 60 days to treat rivals fairly and to allow app developers to direct users away from its app store."
+    },
+    {
+      "id": "mkt:019f8e6d-8927-7aab-8e63-1320a5c36046",
+      "time": "2026-07-23 18:02:50",
+      "tags": [
+        "MKT News",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Google (GOOG.O) shares traded in a narrow range in U.S. premarket trade, down 4.2%."
+    },
+    {
+      "id": "5004351",
+      "time": "2026-07-23 18:02:48",
+      "tags": [
+        "其他"
+      ],
+      "text": "霍尼韋爾預計 2026 年自由現金流約 20 億美元，此前預期同樣約 20 億美元。"
+    },
+    {
+      "id": "mkt:019f8e6d-5c58-7aab-8e63-0a2f3405305a",
+      "time": "2026-07-23 18:02:39",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution"
+      ],
+      "text": "【Xunjiexing forecasts ~RMB14m 1H 2026 net profit; returns to profit YoY】Xunjiexing expects 1H 2026 net profit attributable to shareholders of about RMB14m, up roughly RMB16.77m YoY, turning from a loss to a profit. The company attributes the improvement to robust demand in the AI compute sector and higher capacity utilisation that boosted revenue; economies of scale from expanded sales partially offset increased depreciation and amortisation from last year’s Zhuhai plant start-up and raw-material cost pressures, lifting overall profitability."
+    },
+    {
+      "id": "5004350",
+      "time": "2026-07-23 18:02:33",
+      "tags": [
+        "公司",
+        "國際"
+      ],
+      "text": "歐盟方面稱，谷歌計劃依據本次歐盟裁決確立的準則，整改其 AI 摘要與 AI 模式相關問題。"
+    },
+    {
+      "id": "5004349",
+      "time": "2026-07-23 18:02:29",
+      "tags": [
+        "公司"
+      ],
+      "text": "【同有科技：持股5%以上股東部分股權解除質押及延期購回】同有科技公告稱，持股5%以上股東周澤湘將其所持公司部分股權辦理了解除質押及延期購回業務。本次解除質押股份289.00萬股，佔其所持股份比例3.46%，佔公司總股本比例0.60%；延期購回股份1125.00萬股，佔其所持股份比例13.48%，佔公司總股本比例2.35%。截至公告披露日，周澤湘累計質押股份2052.00萬股，佔其所持股份比例24.60%，佔公司總股本比例4.28%。其質押股份不存在平倉風險，不會對公司產生影響。"
+    },
+    {
+      "id": "mkt:019f8e6d-2584-7aab-8e63-02ff0a13b3f3",
+      "time": "2026-07-23 18:02:25",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "European Commission fines Google (GOOG.O) €890 million for breaching EU rules."
+    },
     {
       "id": "mkt:019f8e6d-0170-7aab-8e62-fc5907fafe2b",
       "time": "2026-07-23 18:02:16",
@@ -11,6 +319,14 @@
         "Impact bullish"
       ],
       "text": "Market sources: Amazon (AMZN.O) founder Jeff Bezos is pushing an AI-led redesign of Amazon Prime Video."
+    },
+    {
+      "id": "5004348",
+      "time": "2026-07-23 18:02:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "CEMEX第二季度控股權益淨利潤為3.47億美元，高於預期的3.278億美元。"
     },
     {
       "id": "5004347",
