@@ -1,7 +1,29 @@
 {
-  "updated": "2026-07-24 06:29:56",
-  "count": 17993,
+  "updated": "2026-07-24 06:33:51",
+  "count": 17991,
   "items": [
+    {
+      "id": "5005441",
+      "time": "2026-07-24 06:30:39",
+      "tags": [
+        "公司",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 07:30 日本6月CPI；\n② 08:30 日本7月製造業、服務業、綜合PMI初值；\n③ 13:00 印度7月製造業、服務業、綜合PMI初值；\n④ 14:00 英國6月零售銷售；\n⑤ 15:15 法國7月製造業、服務業、綜合PMI初值；\n⑥ 15:30 德國7月製造業、服務業、綜合PMI初值；\n⑦ 16:00 歐元區7月製造業、服務業、綜合PMI初值；\n⑧ 16:30 英國7月製造業、服務業、綜合PMI初值；\n⑨ 18:30 俄羅斯央行公佈利率決議，央行行長納比烏琳娜隨後將舉行貨幣政策新聞釋出會；\n⑩ 時間待定 韓國總統+AI儲存雙雄同赴美國，與黃仁勳、OpenAI CEO共議AI；\n⑪ 21:45 美國7月標普全球製造業、服務業、綜合PMI初值；\n⑫ 23:30 歐洲央行首席經濟學家Lane講話。"
+    },
+    {
+      "id": "te:markets:569386",
+      "time": "2026-07-24 06:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Spikes by 6.87% — Top commodity gainers are Brent Crude Oil (6.87%), Crude Oil WTI (6.20%) and Heating Oil (5.03%). Biggest losers are Natural gas (-0.99%), Liquefied Natural Gas Japan Korea (-0.80%) and Germany Natural Gas THE (-0.70%)."
+    },
     {
       "id": "mkt:019f9117-c570-7aab-8e74-1c2b15cbe53e",
       "time": "2026-07-24 06:28:01",
@@ -164830,43 +164852,6 @@
         "MKT News"
       ],
       "text": "【Iran denies any US national released from its prisons】On the 16th local time, Iran rejected U.S. President Trump's claim that a U.S. detainee had been released, saying checks found no U.S. national matching Trump's description had left Iranian prisons and that no U.S. prisoner swap occurred. Trump had posted that Iran had allowed a U.S. citizen to leave, saying she was \"wrongfully detained\" in December 2024 under the Biden administration and is \"safe and well.\""
-    },
-    {
-      "id": "4993003",
-      "time": "2026-07-17 06:33:28",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗方面否認有美籍人員從該國監獄獲釋】當地時間16日，伊朗方面駁斥美國總統特朗普有關美籍囚犯獲釋的說法。伊朗方面稱，經核查，目前沒有符合特朗普所述情況的美籍囚犯從伊朗監獄獲釋，也未發生任何美籍囚犯交換事件。特朗普此前在社交媒體平臺發文表示，伊朗已允許一名美國公民離開該國。特朗普稱，這名美國公民於2024年12月在拜登政府時期被“錯誤扣留”。“她目前已安全離開伊朗，狀況良好”。（央視新聞）"
-    },
-    {
-      "id": "mkt:019f6d0f-d978-7aab-8dd2-03dfd9b85b9d",
-      "time": "2026-07-17 06:33:02",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Independent reporter Breanna Morello said NBC News and ABC News will not carry Trump's prime-time address on their television networks, scheduled for 09:00 Beijing time. She said the networks would not disclose the speech topics in advance."
-    },
-    {
-      "id": "4993002",
-      "time": "2026-07-17 06:31:01",
-      "tags": [
-        "資料",
-        "央行",
-        "國際"
-      ],
-      "text": "【週四重要財經資訊（以下均為北京時間）】\n① 07:00 美聯儲副主席Jefferson談論經濟與貨幣政策；\n② 時間待定 世界人工智慧大會（WAIC）在上海舉辦（7月17-20日）；\n③ 17:00 歐元區6月CPI終值；\n④ 18:00 歐洲央行執委Cipollone談論數字歐元；\n⑤ 20:30 美國6月營建許可初值，6月新屋開工，6月進口價格指數；\n⑥ 21:15 美國6月工業產出；\n⑦ 22:00 美國7月密歇根大學消費者信心指數初值；\n⑧ 週六 美聯儲進入7月28-29日FOMC貨幣政策會議之前的噤聲期。"
-    },
-    {
-      "id": "te:markets:567653",
-      "time": "2026-07-17 06:30:13",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Liquefied Natural Gas Japan Korea Spikes by 18.54% — Top commodity gainers are Liquefied Natural Gas Japan Korea (18.54%), Heating Oil (3.34%) and Natural Gas EU (1.41%). Biggest losers are Methanol (-1.67%), Naphtha (-1.33%) and Natural gas (-0.97%). Meanwhile, Crude Oil WTI and Brent Crude Oil were little changed."
     }
   ]
 }

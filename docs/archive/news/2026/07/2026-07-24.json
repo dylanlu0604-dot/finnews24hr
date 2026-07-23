@@ -1,7 +1,29 @@
 {
   "date": "2026-07-24",
-  "count": 422,
+  "count": 424,
   "items": [
+    {
+      "id": "5005441",
+      "time": "2026-07-24 06:30:39",
+      "tags": [
+        "公司",
+        "資料",
+        "央行",
+        "國際"
+      ],
+      "text": "【週五重要財經資訊提醒（以下均為北京時間）】\n① 07:30 日本6月CPI；\n② 08:30 日本7月製造業、服務業、綜合PMI初值；\n③ 13:00 印度7月製造業、服務業、綜合PMI初值；\n④ 14:00 英國6月零售銷售；\n⑤ 15:15 法國7月製造業、服務業、綜合PMI初值；\n⑥ 15:30 德國7月製造業、服務業、綜合PMI初值；\n⑦ 16:00 歐元區7月製造業、服務業、綜合PMI初值；\n⑧ 16:30 英國7月製造業、服務業、綜合PMI初值；\n⑨ 18:30 俄羅斯央行公佈利率決議，央行行長納比烏琳娜隨後將舉行貨幣政策新聞釋出會；\n⑩ 時間待定 韓國總統+AI儲存雙雄同赴美國，與黃仁勳、OpenAI CEO共議AI；\n⑪ 21:45 美國7月標普全球製造業、服務業、綜合PMI初值；\n⑫ 23:30 歐洲央行首席經濟學家Lane講話。"
+    },
+    {
+      "id": "te:markets:569386",
+      "time": "2026-07-24 06:30:16",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Spikes by 6.87% — Top commodity gainers are Brent Crude Oil (6.87%), Crude Oil WTI (6.20%) and Heating Oil (5.03%). Biggest losers are Natural gas (-0.99%), Liquefied Natural Gas Japan Korea (-0.80%) and Germany Natural Gas THE (-0.70%)."
+    },
     {
       "id": "mkt:019f9117-c570-7aab-8e74-1c2b15cbe53e",
       "time": "2026-07-24 06:28:01",
