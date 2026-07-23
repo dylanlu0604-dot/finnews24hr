@@ -1,7 +1,32 @@
 {
   "date": "2026-07-24",
-  "count": 183,
+  "count": 185,
   "items": [
+    {
+      "id": "te:markets:569363",
+      "time": "2026-07-24 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Rallies by 8.09% — Top commodity gainers are Brent Crude Oil (8.09%), Crude Oil WTI (7.41%) and Heating Oil (5.13%). Biggest losers are Germany Natural Gas THE (-0.70%) and Natural Gas UK (-0.67%)."
+    },
+    {
+      "id": "mkt:019f902e-1677-7aab-8e71-6f1ce9cea5ec",
+      "time": "2026-07-24 02:12:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Sources say ECB policymakers will discuss raising reserve requirements, implementing tiered deposit rates and introducing charging mechanisms; political sensitivity around ECB balance-sheet losses is intensifying."
+    },
     {
       "id": "5005303",
       "time": "2026-07-24 02:12:02",

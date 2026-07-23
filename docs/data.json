@@ -1,7 +1,32 @@
 {
-  "updated": "2026-07-24 02:12:55",
-  "count": 17991,
+  "updated": "2026-07-24 02:16:51",
+  "count": 17990,
   "items": [
+    {
+      "id": "te:markets:569363",
+      "time": "2026-07-24 02:15:04",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Commodity",
+        "Importance 1"
+      ],
+      "text": "Energy Commodities Updates: Brent Crude Oil Rallies by 8.09% — Top commodity gainers are Brent Crude Oil (8.09%), Crude Oil WTI (7.41%) and Heating Oil (5.13%). Biggest losers are Germany Natural Gas THE (-0.70%) and Natural Gas UK (-0.67%)."
+    },
+    {
+      "id": "mkt:019f902e-1677-7aab-8e71-6f1ce9cea5ec",
+      "time": "2026-07-24 02:12:47",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK",
+        "EURUSD",
+        "Impact bullish",
+        "DXY",
+        "Impact bearish"
+      ],
+      "text": "Sources say ECB policymakers will discuss raising reserve requirements, implementing tiered deposit rates and introducing charging mechanisms; political sensitivity around ECB balance-sheet losses is intensifying."
+    },
     {
       "id": "5005303",
       "time": "2026-07-24 02:12:02",
@@ -164781,34 +164806,6 @@
         "Impact bearish"
       ],
       "text": "【Google delays GEMINI 3.5 Pro release as model lags months behind schedule】Google’s rollout of flagship AI model GEMINI 3.5 Pro is reportedly months behind schedule as the company seeks to shore up capabilities, notably in code generation. The delay has triggered frustration among engineers, AI researchers and management, who warn it could cede competitive ground to ANTHROPIC and OpenAI. Multiple stakeholder layers and efforts to integrate the model across Search, Maps and YouTube are cited as contributing factors to the holdup."
-    },
-    {
-      "id": "4992861",
-      "time": "2026-07-17 02:16:15",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "布倫特原油失守84美元/桶，日內跌1.13%。"
-    },
-    {
-      "id": "te:markets:567632",
-      "time": "2026-07-17 02:15:03",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Energy Commodities Updates: Natural gas Falls by 2.45% — Top commodity losers are Natural gas (-2.45%), Crude Oil WTI (-1.21%) and Brent Crude Oil (-1.01%). Gains are led by Heating Oil (1.72%), Natural Gas EU (1.03%) and Natural Gas UK (0.64%)."
-    },
-    {
-      "id": "4992860",
-      "time": "2026-07-17 02:14:29",
-      "tags": [
-        "其他"
-      ],
-      "text": "市場訊息：達索系統洽談按大約20億美元收購ArisGlobal。"
     }
   ]
 }
