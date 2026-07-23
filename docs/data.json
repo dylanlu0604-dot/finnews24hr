@@ -1,7 +1,74 @@
 {
-  "updated": "2026-07-24 04:33:29",
-  "count": 18002,
+  "updated": "2026-07-24 04:37:24",
+  "count": 18005,
   "items": [
+    {
+      "id": "te:markets:569384",
+      "time": "2026-07-24 04:35:17",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "United States",
+        "Stock Market",
+        "Importance 1"
+      ],
+      "text": "The Dow Jones Index Closes 1.04% Lower — The Dow Jones Index decreased 545 points or 1.04 percent on Thursday to close at 51673 points. The decline was led by Alphabet (-6.93%), Amazon (-4.51%) and Salesforce (-3.64%)."
+    },
+    {
+      "id": "5005392",
+      "time": "2026-07-24 04:34:56",
+      "tags": [
+        "央行",
+        "市場",
+        "國際"
+      ],
+      "text": "美國至7月17日當週外國央行持有美國國債 248.14億美元，前值6.39億美元。"
+    },
+    {
+      "id": "mkt:019f90af-8b4e-7aab-8e73-549cc6d8d161",
+      "time": "2026-07-24 04:34:11",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Commodities",
+        "Energy",
+        "Brent",
+        "Impact bullish",
+        "WTI"
+      ],
+      "text": "【Brent futures settle above $100】Oil rallied on the 23rd. At the close, NYMEX September light crude rose $5.36 to $92.19/bbl (+6.17%); ICE Brent September added $6.62 to $100.69/bbl, its first close above $100 since May (+7.04%)."
+    },
+    {
+      "id": "mkt:019f90af-3b3f-7aab-8e73-4c5c54cb5e80",
+      "time": "2026-07-24 04:33:50",
+      "tags": [
+        "MKT News",
+        "US10Y",
+        "Impact bullish"
+      ],
+      "text": "Foreign central banks' holdings of US Treasuries rose by $24.814bn in the week ended July 17, versus $0.639bn in the prior week."
+    },
+    {
+      "id": "mkt:019f90af-0623-7aab-8e73-4266bbfcbf15",
+      "time": "2026-07-24 04:33:37",
+      "tags": [
+        "MKT News",
+        "Economic Calendar",
+        "Important"
+      ],
+      "text": "United States | US Treasuries held by Foreign Central Banks (Jul.17) | actual 24814000000B | previous 639000000B"
+    },
+    {
+      "id": "5005391",
+      "time": "2026-07-24 04:33:24",
+      "tags": [
+        "公司",
+        "資料",
+        "市場",
+        "觀點"
+      ],
+      "text": "【7月24日美股成交額前20：特斯拉業績欠佳股價重挫14.5%】週四美股成交額第2名特斯拉收跌14.52%，創下2025年6月以來單日最大跌幅，成交371.77億美元。這家電動汽車廠商二季度業績不及預期，同時宣佈將大幅加碼開支，引發投資者恐慌。特斯拉公司二季度資本開支達到57.9億美元，同比暴漲142%，規模翻倍有餘。特斯拉預計全年資本總投入將突破250億美元。大規模投入導致本季度自由現金流由正轉負。雖然整車營收超出市場預期，但盈利水平有所惡化。受車輛平均售價走低、高利潤碳積分收入下滑影響，毛利率不及分析師預期。市場再度擔憂，特斯拉難以在大舉投資和利潤增長之間實現平衡。"
+    },
     {
       "id": "mkt:019f90aa-af6c-7aab-8e73-3ac57df2594f",
       "time": "2026-07-24 04:28:52",
@@ -164920,34 +164987,6 @@
         "國際"
       ],
       "text": "市場訊息：特朗普準備在演講中談及委內瑞拉大選相關事宜。"
-    },
-    {
-      "id": "4992951",
-      "time": "2026-07-17 04:35:44",
-      "tags": [
-        "其他"
-      ],
-      "text": "委內瑞拉臨時總統羅德里格斯：委內瑞拉目前正在磋商 30 項能源合作協議，尚不確定她是否會參選委內瑞拉大選。"
-    },
-    {
-      "id": "te:markets:567649",
-      "time": "2026-07-17 04:35:18",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "United States",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "The Dow Jones Index Closes 0.20% Lower — The Dow Jones Index decreased 105 points or 0.20 percent on Thursday to close at 52554 points. The decline was led by Goldman Sachs (-5.02%), Alphabet (-4.64%) and Caterpillar (-4.15%). On the upside, the strongest performers were Nike (4.04%), IBM (3.90%) and Salesforce (3.36%)."
-    },
-    {
-      "id": "4992950",
-      "time": "2026-07-17 04:34:51",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國國家颶風中心（NHC）：颶風埃莉達強度小幅增強，預計於今晚至週五轉向西北方向移動。"
     }
   ]
 }
