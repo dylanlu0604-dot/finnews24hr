@@ -1,7 +1,96 @@
 {
-  "updated": "2026-07-23 13:13:59",
-  "count": 17557,
+  "updated": "2026-07-23 13:18:08",
+  "count": 17560,
   "items": [
+    {
+      "id": "mkt:019f8d67-b363-7aab-8e5a-9409f762e7e2",
+      "time": "2026-07-23 13:16:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Iranian armed forces will conduct controlled explosions to destroy ammunition in areas outside Dezful today between 09:00 and 11:00 local time."
+    },
+    {
+      "id": "5003632",
+      "time": "2026-07-23 13:16:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐將沃爾沃汽車公司目標價從22瑞典克朗下調至17.5瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f8d66-df96-7aab-8e5a-8efb39fb8be2",
+      "time": "2026-07-23 13:15:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share military-equipment restructuring concept stocks extended gains; Great Wall Military Industry hit the daily trading limit. Construction Industry, Hunan Tianyan, Zhongguang Optics, Huaqiang Technology and Dong'an Power also rose."
+    },
+    {
+      "id": "5003631",
+      "time": "2026-07-23 13:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兵裝重組概念板塊持續走高 長城軍工漲停】兵裝重組概念板塊持續走高，長城軍工漲停，建設工業、湖南天雁、中光學、華強科技、東安動力等紛紛走高。"
+    },
+    {
+      "id": "te:markets:569114",
+      "time": "2026-07-23 13:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.60% — Top currency gainers are South Korean Won (0.60%), Norwegian Krone (0.32%), Australian Dollar (0.25%), Euro (0.19%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.15%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "mkt:019f8d65-88ea-7aab-8e5a-830338f1e545",
+      "time": "2026-07-23 13:14:29",
+      "tags": [
+        "MKT News",
+        "STM.O",
+        "Impact bullish"
+      ],
+      "text": "STMicroelectronics expects AI data-center revenue to exceed $1 bln in 2026, versus prior guidance of about $1 bln, and to top $2 bln in 2027, versus prior guidance of about $2 bln."
+    },
+    {
+      "id": "5003630",
+      "time": "2026-07-23 13:14:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞銀：金價料將在2026年底前反彈】瑞銀的Joni Teves對中長期黃金走勢保持樂觀。該黃金策略師在評論中表示，一個積極跡象是，金價自本週初以來有所上漲，而香港和中國內地的黃金股在三天內上漲了約20%。“我們認為對黃金的市場情緒正開始改善，（並且）繼續預計金價將在年底前從目前水平反彈，“她說。瑞銀的全球團隊對黃金的中期前景保持樂觀，並預計到2026年底和2027年底，金價將分別達到每盎司4,675美元和每盎司4,800美元。她說，下一個需要關注的關鍵事件是美聯儲在7月底美國聯邦公開市場委員會會議上的政策基調，以及中東地區的進一步事態發展。"
+    },
+    {
+      "id": "mkt:019f8d64-c3a3-7aab-8e5a-7b9fdcde20fc",
+      "time": "2026-07-23 13:13:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share chemical and pharmaceutical sector surged intraday; Lianhuan Pharmaceutical hit the daily limit, Ha Sanlian had earlier hit limit-up. Gongtong Pharmaceutical, Yahong Pharmaceutical, Keyuan Pharmaceutical, Haisco and Kelun Pharmaceutical also rose."
+    },
+    {
+      "id": "5003629",
+      "time": "2026-07-23 13:13:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國超級跑車錦標賽回應安保升級】7月23日，@CHINAGT中國超級跑車錦標賽發文稱，本次賽事全程嚴格依照大型群眾性活動管理相關法規，規範開展賽事統籌、證件製作與人員核發全流程工作。組委會已將通行證發放數量及所需資訊統一下發至各參賽車隊，同步明確人員註冊申報截止時限，已於賽前完成全部通行證件資訊登記。結合本場賽事預估人流規模，相關賽事組織各單位對安保方案進行合規升級與細化完善，核心目標是全面保障參賽車手、車隊工作人員及到場觀賽群眾的人身安全，確保賽事平穩推進。"
+    },
     {
       "id": "5003628",
       "time": "2026-07-23 13:12:58",
@@ -160531,69 +160620,6 @@
         "公司"
       ],
       "text": "【榮耀機器人手機Robot Phone兩款配色亮相，即將開啟預約】榮耀CEO李健在微博中透露，全球首臺機器人手機榮耀Robot Phone已就緒，且同時釋出的海報中顯示新機有兩種配色。這也就意味著，繼Robot Phone亮相MWC2026之後，一款全新配色也將登場。據知情人士透露，榮耀Robot Phone即將正式開啟預約。有觀點認為，從iPhone到Robot Phone，被譽為“矽谷精神之父”的世界著名科技未來學家凱文·凱利在《5000天后的世界》中關於5000天為一個技術革命週期的預言再次成真，從多點觸控到多模態具身互動新時代即將到來。值得一提的是，凱文·凱利將作為此次榮耀WAIC 2026分論壇特邀嘉賓，與全球頂尖學者、技術領軍人物、產業先行者共同探討具身互動新正規化實踐。（新浪科技）"
-    },
-    {
-      "id": "mkt:019f695c-4d3a-7aab-8dba-df9ff79e4a62",
-      "time": "2026-07-16 13:18:04",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China reopens public consultation on 'Good Housing' construction guide】The Ministry of Housing and Urban-Rural Development said the \"Good Housing Construction Guide (trial) (draft for comments)\", first opened for public comment in March, has been revised and is again being publicly circulated. The revised guide narrows technical requirements to address residents' pain points, covering site structural safety, indoor healthy environments, energy-saving and carbon-reduction technologies, and smart communities and smart homes. It also specifies human-centered design elements such as age-friendly/all-age accessibility, separation of utility pipelines, and flexible interior layouts, and targets common residential defects including leaks, poor sound insulation, odor and blockages, and high energy consumption."
-    },
-    {
-      "id": "mkt:019f695b-9538-7aab-8dba-d311e3c56673",
-      "time": "2026-07-16 13:17:17",
-      "tags": [
-        "MKT News",
-        "Important",
-        "Market Themes",
-        "China EV Leaders",
-        "Market Regions",
-        "Greater China",
-        "01211.HK",
-        "Impact bullish",
-        "09868.HK",
-        "09866.HK"
-      ],
-      "text": "Hong Kong-listed auto stocks extended gains in the afternoon session; BYD Co. (01211.HK) rose over 5%, after XPeng Inc. (09868.HK) earlier jumped more than 8%. NIO-SW (09866.HK) and Li Auto Inc. (02015.HK) also advanced."
-    },
-    {
-      "id": "4991441",
-      "time": "2026-07-16 13:16:49",
-      "tags": [
-        "其他"
-      ],
-      "text": "【事關“好房子”建設 再次公開徵求意見】記者今天從住房城鄉建設部獲悉，於今年3月向社會公開徵求意見的《“好房子”建設指南（試行）（徵求意見稿）》，在進行相關修改後，於近日再次向社會公開徵求意見。經過相關修改後的《“好房子”建設指南（試行）（徵求意見稿）》，共分為“好房子”內涵與實施路徑、安全耐久、舒適健康、綠色低碳、智慧便捷五大部分，系統界定了新時代“好房子”安全、舒適、綠色、智慧四大核心內涵，覆蓋住房規劃、設計、建造、運維全流程，明確完善標準、精心設計、優選材料、精工建造、長效運維等實施路徑。據瞭解，經過修改後的《指南》，內容聚焦群眾居住痛點，從場地結構安全、室內健康環境、節能降碳技術、智慧小區與智慧家居等維度細化技術要求，兼顧適老適幼、全齡友好、管線分離、空間可變等人性化設計，著力解決滲漏、隔聲差、反味堵塞、能耗偏高等民生難題。（央視）"
-    },
-    {
-      "id": "mkt:019f695a-299e-7aab-8dba-c8907a46a9e0",
-      "time": "2026-07-16 13:15:44",
-      "tags": [
-        "MKT News",
-        "ASML.AS",
-        "Impact bullish"
-      ],
-      "text": "HSBC raises ASML PT to €2,149 from €1,883."
-    },
-    {
-      "id": "4991440",
-      "time": "2026-07-16 13:15:09",
-      "tags": [
-        "國際"
-      ],
-      "text": "【伊朗軍方稱使用無人機打擊科威特和巴林美軍基地】當地時間16日，伊朗軍方釋出宣告稱，在“雷霆”行動第十階段中，伊朗陸軍出動“阿拉什”無人機，對位於科威特和巴林的美軍基地發動打擊。（央視）"
-    },
-    {
-      "id": "mkt:019f6958-f667-7aab-8dba-c1d75ac62dab",
-      "time": "2026-07-16 13:14:25",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "Hongban Technology on the A-share market reversed from intraday low to hit the daily limit-up; last price 93.56 yuan, turnover 1.343 bln yuan."
     }
   ]
 }

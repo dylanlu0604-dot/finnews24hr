@@ -1,7 +1,96 @@
 {
   "date": "2026-07-23",
-  "count": 1285,
+  "count": 1294,
   "items": [
+    {
+      "id": "mkt:019f8d67-b363-7aab-8e5a-9409f762e7e2",
+      "time": "2026-07-23 13:16:51",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "IRNA reports Iranian armed forces will conduct controlled explosions to destroy ammunition in areas outside Dezful today between 09:00 and 11:00 local time."
+    },
+    {
+      "id": "5003632",
+      "time": "2026-07-23 13:16:07",
+      "tags": [
+        "公司"
+      ],
+      "text": "滙豐將沃爾沃汽車公司目標價從22瑞典克朗下調至17.5瑞典克朗。"
+    },
+    {
+      "id": "mkt:019f8d66-df96-7aab-8e5a-8efb39fb8be2",
+      "time": "2026-07-23 13:15:57",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite",
+        "SZSE Component"
+      ],
+      "text": "China A-share military-equipment restructuring concept stocks extended gains; Great Wall Military Industry hit the daily trading limit. Construction Industry, Hunan Tianyan, Zhongguang Optics, Huaqiang Technology and Dong'an Power also rose."
+    },
+    {
+      "id": "5003631",
+      "time": "2026-07-23 13:15:38",
+      "tags": [
+        "市場"
+      ],
+      "text": "【兵裝重組概念板塊持續走高 長城軍工漲停】兵裝重組概念板塊持續走高，長城軍工漲停，建設工業、湖南天雁、中光學、華強科技、東安動力等紛紛走高。"
+    },
+    {
+      "id": "te:markets:569114",
+      "time": "2026-07-23 13:15:02",
+      "tags": [
+        "Trading Economics",
+        "Markets",
+        "Currency",
+        "Importance 1"
+      ],
+      "text": "FX Updates: South Korean Won Appreciates by 0.60% — Top currency gainers are South Korean Won (0.60%), Norwegian Krone (0.32%), Australian Dollar (0.25%), Euro (0.19%) and British Pound (0.09%). Biggest loser is Dollar Index (-0.15%). Meanwhile Japanese Yen was little changed."
+    },
+    {
+      "id": "mkt:019f8d65-88ea-7aab-8e5a-830338f1e545",
+      "time": "2026-07-23 13:14:29",
+      "tags": [
+        "MKT News",
+        "STM.O",
+        "Impact bullish"
+      ],
+      "text": "STMicroelectronics expects AI data-center revenue to exceed $1 bln in 2026, versus prior guidance of about $1 bln, and to top $2 bln in 2027, versus prior guidance of about $2 bln."
+    },
+    {
+      "id": "5003630",
+      "time": "2026-07-23 13:14:17",
+      "tags": [
+        "市場",
+        "央行",
+        "國際"
+      ],
+      "text": "【瑞銀：金價料將在2026年底前反彈】瑞銀的Joni Teves對中長期黃金走勢保持樂觀。該黃金策略師在評論中表示，一個積極跡象是，金價自本週初以來有所上漲，而香港和中國內地的黃金股在三天內上漲了約20%。“我們認為對黃金的市場情緒正開始改善，（並且）繼續預計金價將在年底前從目前水平反彈，“她說。瑞銀的全球團隊對黃金的中期前景保持樂觀，並預計到2026年底和2027年底，金價將分別達到每盎司4,675美元和每盎司4,800美元。她說，下一個需要關注的關鍵事件是美聯儲在7月底美國聯邦公開市場委員會會議上的政策基調，以及中東地區的進一步事態發展。"
+    },
+    {
+      "id": "mkt:019f8d64-c3a3-7aab-8e5a-7b9fdcde20fc",
+      "time": "2026-07-23 13:13:38",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CSI300",
+        "Impact bullish",
+        "SZSE Component",
+        "SSE Composite"
+      ],
+      "text": "China A-share chemical and pharmaceutical sector surged intraday; Lianhuan Pharmaceutical hit the daily limit, Ha Sanlian had earlier hit limit-up. Gongtong Pharmaceutical, Yahong Pharmaceutical, Keyuan Pharmaceutical, Haisco and Kelun Pharmaceutical also rose."
+    },
+    {
+      "id": "5003629",
+      "time": "2026-07-23 13:13:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "【中國超級跑車錦標賽回應安保升級】7月23日，@CHINAGT中國超級跑車錦標賽發文稱，本次賽事全程嚴格依照大型群眾性活動管理相關法規，規範開展賽事統籌、證件製作與人員核發全流程工作。組委會已將通行證發放數量及所需資訊統一下發至各參賽車隊，同步明確人員註冊申報截止時限，已於賽前完成全部通行證件資訊登記。結合本場賽事預估人流規模，相關賽事組織各單位對安保方案進行合規升級與細化完善，核心目標是全面保障參賽車手、車隊工作人員及到場觀賽群眾的人身安全，確保賽事平穩推進。"
+    },
     {
       "id": "5003628",
       "time": "2026-07-23 13:12:58",
