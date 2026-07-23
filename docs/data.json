@@ -1,7 +1,59 @@
 {
-  "updated": "2026-07-24 01:25:19",
-  "count": 18031,
+  "updated": "2026-07-24 01:29:22",
+  "count": 18024,
   "items": [
+    {
+      "id": "5005265",
+      "time": "2026-07-24 01:27:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將特斯拉目標價從480.00美元下調至450.00美元，且將特斯拉評級維持在強於大盤。"
+    },
+    {
+      "id": "mkt:019f9004-25a8-7aab-8e70-bd72ee2f12c6",
+      "time": "2026-07-24 01:26:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government spokesman, responding to warnings from Iran's Islamic Revolutionary Guard Corps (IRGC), said UK armed forces are prepared to protect the country from any form of attack, remain ready to defend round-the-clock and are coordinating closely with NATO allies."
+    },
+    {
+      "id": "5005264",
+      "time": "2026-07-24 01:26:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府發言人針對伊朗革命衛隊的警告作出回應：我國武裝力量已做好準備，保障英國免受任何形式的襲擊。"
+    },
+    {
+      "id": "5005263",
+      "time": "2026-07-24 01:26:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府發言人表示：英國隨時全天候待命保衛本土，並將與北約盟國開展密切協作。"
+    },
+    {
+      "id": "mkt:019f9003-7553-7aab-8e70-b21403477304",
+      "time": "2026-07-24 01:26:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A fuel station in Sumy, Ukraine, caught fire. Local officials said the site was struck in a targeted Russian strike."
+    },
+    {
+      "id": "mkt:019f9003-2726-7aab-8e70-ac72f49d737a",
+      "time": "2026-07-24 01:25:53",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said Venice is now in full production and customer demand is strong. Systems based on Venice will begin shipping in Q4."
+    },
     {
       "id": "5005262",
       "time": "2026-07-24 01:23:09",
@@ -165037,145 +165089,6 @@
         "公司"
       ],
       "text": "市場訊息：阿波羅公司押注墨西哥，計劃斥資200億美元進行私人信貸投資。"
-    },
-    {
-      "id": "mkt:019f6bf9-054c-7aab-8dce-6a85f7310f23",
-      "time": "2026-07-17 01:28:29",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)"
-      ],
-      "text": "Schmid of the Federal Reserve said the central bank must open its decision-making process, increase transparency and accept public criticism to be accountable."
-    },
-    {
-      "id": "4992802",
-      "time": "2026-07-17 01:28:08",
-      "tags": [
-        "公司"
-      ],
-      "text": "【新突破 中國企業釋出全球最大規模的開源模型Kimi K3】2026世界人工智慧大會暨人工智慧全球治理高階別會議即將舉行之際，新一代模型Kimi K3於16日釋出，引數規模達2.8萬億。這是目前全球引數最大的開源模型，標誌著我國人工智慧模型發展邁出新的一步。釋出模型的北京月之暗面科技有限公司介紹，Kimi K3原生支援視覺理解，具備100萬詞元上下文視窗，面向軟體工程、知識工作、深度研究、多模態理解等複雜任務場景進行最佳化，進一步提升了大模型複雜任務的處理能力。“引數越大，能力上限越高，可以提供更智慧的模型表現。”月之暗面有關負責人表示，引數就像人腦裡的神經連線，近3萬億引數意味著這個模型能把更多的知識和規律裝進“腦子”，懂得更多、想得更深、答得更準。（新華社）"
-    },
-    {
-      "id": "4992801",
-      "time": "2026-07-17 01:27:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：通脹問題並非僅由能源導致。"
-    },
-    {
-      "id": "mkt:019f6bf7-e2fd-7aab-8dce-678ee1af4257",
-      "time": "2026-07-17 01:27:15",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Schmid said inf shocks are not inherently transitory and he disagrees that the Fed should \"ignore\" certain types of price increases."
-    },
-    {
-      "id": "mkt:019f6bf7-97f3-7aab-8dce-5c4fa9b21714",
-      "time": "2026-07-17 01:26:56",
-      "tags": [
-        "MKT News",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Federal Reserve's Schmid says it's time to stop excluding food prices from core inflation measures."
-    },
-    {
-      "id": "mkt:019f6bf7-5dd3-7aab-8dce-56c2cd603ac5",
-      "time": "2026-07-17 01:26:41",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "Federal Reserve official Schmid said inflation is a focus when setting monetary policy."
-    },
-    {
-      "id": "4992800",
-      "time": "2026-07-17 01:26:32",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲官員施密德：通脹過熱，高於目標的時間太久。"
-    },
-    {
-      "id": "mkt:019f6bf6-f4b5-7aab-8dce-4c8179c918ac",
-      "time": "2026-07-17 01:26:14",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "US10Y",
-        "Impact bearish",
-        "S&P500"
-      ],
-      "text": "Fed's Schmid: Labor market appears broadly stable. Inflation persists across a wide range of goods and services and remains 'concerning'."
-    },
-    {
-      "id": "4992799",
-      "time": "2026-07-17 01:26:02",
-      "tags": [
-        "其他"
-      ],
-      "text": "施密德：持續的、廣泛的通貨膨脹令人擔憂。"
-    },
-    {
-      "id": "mkt:019f6bf6-bf7e-7aab-8dce-43d4bd7be8c7",
-      "time": "2026-07-17 01:26:00",
-      "tags": [
-        "MKT News",
-        "Macro & Rates",
-        "The Fed (FOMC)",
-        "DXY",
-        "Impact bullish",
-        "EURUSD",
-        "Impact bearish",
-        "XAUUSD"
-      ],
-      "text": "Fed official Schmid said recent inf data are encouraging, but it is too early to draw firm conclusions."
-    },
-    {
-      "id": "4992798",
-      "time": "2026-07-17 01:25:54",
-      "tags": [
-        "其他"
-      ],
-      "text": "施密德：勞動力市場平衡，增長依然強勁。"
-    },
-    {
-      "id": "4992797",
-      "time": "2026-07-17 01:25:47",
-      "tags": [
-        "資料"
-      ],
-      "text": "施密德：6月份CPI資料令人鼓舞，但這只是一個單一的資料點。"
-    },
-    {
-      "id": "4992796",
-      "time": "2026-07-17 01:25:34",
-      "tags": [
-        "央行",
-        "國際"
-      ],
-      "text": "美聯儲施密德：如果只關注供給衝擊，可能為時已晚，難以收緊政策。"
     }
   ]
 }

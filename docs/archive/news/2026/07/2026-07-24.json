@@ -1,7 +1,59 @@
 {
   "date": "2026-07-24",
-  "count": 118,
+  "count": 124,
   "items": [
+    {
+      "id": "5005265",
+      "time": "2026-07-24 01:27:30",
+      "tags": [
+        "其他"
+      ],
+      "text": "瑞穗將特斯拉目標價從480.00美元下調至450.00美元，且將特斯拉評級維持在強於大盤。"
+    },
+    {
+      "id": "mkt:019f9004-25a8-7aab-8e70-bd72ee2f12c6",
+      "time": "2026-07-24 01:26:58",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Europe & UK"
+      ],
+      "text": "UK government spokesman, responding to warnings from Iran's Islamic Revolutionary Guard Corps (IRGC), said UK armed forces are prepared to protect the country from any form of attack, remain ready to defend round-the-clock and are coordinating closely with NATO allies."
+    },
+    {
+      "id": "5005264",
+      "time": "2026-07-24 01:26:19",
+      "tags": [
+        "國際"
+      ],
+      "text": "英國政府發言人針對伊朗革命衛隊的警告作出回應：我國武裝力量已做好準備，保障英國免受任何形式的襲擊。"
+    },
+    {
+      "id": "5005263",
+      "time": "2026-07-24 01:26:08",
+      "tags": [
+        "其他"
+      ],
+      "text": "英國政府發言人表示：英國隨時全天候待命保衛本土，並將與北約盟國開展密切協作。"
+    },
+    {
+      "id": "mkt:019f9003-7553-7aab-8e70-b21403477304",
+      "time": "2026-07-24 01:26:06",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "A fuel station in Sumy, Ukraine, caught fire. Local officials said the site was struck in a targeted Russian strike."
+    },
+    {
+      "id": "mkt:019f9003-2726-7aab-8e70-ac72f49d737a",
+      "time": "2026-07-24 01:25:53",
+      "tags": [
+        "MKT News",
+        "AMD.O",
+        "Impact bullish"
+      ],
+      "text": "AMD (AMD.O) CEO Lisa Su said Venice is now in full production and customer demand is strong. Systems based on Venice will begin shipping in Q4."
+    },
     {
       "id": "5005262",
       "time": "2026-07-24 01:23:09",
