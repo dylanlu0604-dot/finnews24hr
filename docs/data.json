@@ -1,7 +1,206 @@
 {
-  "updated": "2026-07-23 16:01:39",
-  "count": 17548,
+  "updated": "2026-07-23 16:05:44",
+  "count": 17553,
   "items": [
+    {
+      "id": "mkt:019f8e01-b2a7-7aab-8e5f-7eb7c4b88ceb",
+      "time": "2026-07-23 16:05:03",
+      "tags": [
+        "MKT News",
+        "CSI300",
+        "Impact bullish",
+        "CNH",
+        "Copper"
+      ],
+      "text": "【MOFCOM: Trade-in program for consumer goods lifts funding leverage to 1:10.3】On July 23, MOFCOM said year-to-date the consumer-goods trade-in-for-new policy raised funding leverage to 1:10.3 from 1:7.8 last year, driving over 1.25 trillion yuan in sales and benefiting about 169 million people. MOFCOM said the measure has supported consumption stability, promoted industrial upgrading and increased resource recycling."
+    },
+    {
+      "id": "5003965",
+      "time": "2026-07-23 16:04:39",
+      "tags": [
+        "其他"
+      ],
+      "text": "【商務部：消費品以舊換新政策投入資金撬動比提升至1:10.3】7月23日，商務部市場執行和消費促進司司長楊沐在國新辦新聞釋出會上表示，今年以來，消費品以舊換新政策穩住了消費市場基本盤，投入資金撬動比由去年的1:7.8提升至了目前的1:10.3，帶動銷售額超過1.25萬億元，受益面達到了1.69億人次，有力支撐了消費平穩增長，促進了產業升級發展，帶動了資源迴圈利用。"
+    },
+    {
+      "id": "mkt:019f8e01-42d2-7aab-8e5f-70117c730fc9",
+      "time": "2026-07-23 16:04:34",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio: Any government's primary responsibility is to safeguard national security."
+    },
+    {
+      "id": "mkt:019f8e01-22cd-7aab-8e5f-6b670230c937",
+      "time": "2026-07-23 16:04:26",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said he hoped countries would assume greater responsibility for their own security."
+    },
+    {
+      "id": "mkt:019f8e01-025d-7aab-8e5f-620e46a49f12",
+      "time": "2026-07-23 16:04:18",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said the Cuban people deserve a better life."
+    },
+    {
+      "id": "mkt:019f8e00-ec63-7aab-8e5f-5c16a2d3612a",
+      "time": "2026-07-23 16:04:12",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "US Secretary of State Rubio said Cuba's rulers do not know how to manage the economy."
+    },
+    {
+      "id": "5003964",
+      "time": "2026-07-23 16:04:07",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：我們希望各國為自身安全承擔更多責任。"
+    },
+    {
+      "id": "mkt:019f8e00-a595-7aab-8e5f-577463aa2c9e",
+      "time": "2026-07-23 16:03:54",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "U.S. Secretary of State Rubio said Cuba's rulers don't know what they're doing and voiced hope for a prosperous, free Cuba."
+    },
+    {
+      "id": "5003963",
+      "time": "2026-07-23 16:03:53",
+      "tags": [
+        "公司",
+        "市場"
+      ],
+      "text": "ServiceNow股價盤前上漲5.8%，此前該公司再次上調年度訂閱收入預期。"
+    },
+    {
+      "id": "mkt:019f8e00-080a-7aab-8e5f-4f5ce8a99b3f",
+      "time": "2026-07-23 16:03:14",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Tesla",
+        "Market Themes",
+        "Magnificent 7",
+        "TSLA.O",
+        "Impact bearish"
+      ],
+      "text": "Tesla (TSLA.O) fell about 5% in pre-market trading after quarterly profit missed estimates and free cash flow turned negative for the first time in over two years."
+    },
+    {
+      "id": "5003962",
+      "time": "2026-07-23 16:03:11",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：我們不會拋棄盟友。"
+    },
+    {
+      "id": "5003961",
+      "time": "2026-07-23 16:03:01",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：只要古巴現任掌權者仍採取這種行事方式，古巴就很難擁有未來。"
+    },
+    {
+      "id": "5003960",
+      "time": "2026-07-23 16:02:57",
+      "tags": [
+        "央行",
+        "國際"
+      ],
+      "text": "一位官員表示，馬科斯對菲律賓央行採取行動應對比索充滿信心。"
+    },
+    {
+      "id": "mkt:019f8dff-85f6-7aab-8e5f-415d149cff54",
+      "time": "2026-07-23 16:02:41",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【Egypt says US–Iran crisis negotiable, seeks mediation】Egyptian Foreign Minister Abdel Ati said Cairo believes de‑escalation and a restart of talks remain possible after nearly two weeks of reciprocal strikes between the US and Iran. Cairo is coordinating with lead mediators and is in daily contact with both parties, Gulf states, Pakistan and Turkey to push for a diplomatic resolution and a return to the terms of the mid‑June memorandum of understanding. Abdel Ati said a concrete plan is under discussion and he will meet an Omani diplomat on Thursday evening; he said Oman is playing a key coordinating role."
+    },
+    {
+      "id": "5003959",
+      "time": "2026-07-23 16:02:36",
+      "tags": [
+        "其他"
+      ],
+      "text": "魯比奧：掌管古巴的人不知道自己在做什麼。"
+    },
+    {
+      "id": "5003958",
+      "time": "2026-07-23 16:01:56",
+      "tags": [
+        "市場"
+      ],
+      "text": "【美股中概股盤前普漲，盛美漲16%】美股中概股盤前普漲，盛美漲16%，攜程漲3%，理想汽車漲2%，蔚來漲1%，京東、網易漲0.9%，百度漲0.7%，拼多多漲0.5%。"
+    },
+    {
+      "id": "5003957",
+      "time": "2026-07-23 16:01:32",
+      "tags": [
+        "其他"
+      ],
+      "text": "【西藏自治區人大常委會原黨組副書記、副主任王峻被“雙開”】經中共中央批准，中央紀委國家監委對西藏自治區人大常委會原黨組副書記、副主任王峻嚴重違紀違法問題進行了立案審查調查。\n\n經查，王峻喪失理想信念，背棄初心使命，政績觀偏差，背離黨中央對西藏生態環境保護和礦產資源開發的重要要求，不作為、亂作為，對抗組織審查；違反中央八項規定精神，接受可能影響公正執行公務的宴請；無視組織原則，在組織函詢時不如實說明問題，在幹部選拔任用工作中為他人謀利並收受財物；廉潔底線失守，違規收受禮金；洩露工作秘密；毫無紀法意識，將黨和人民賦予的公權力異化為謀取私利的工具，大搞權錢交易，利用職務便利為他人在礦產資源開發、獲取建設用地等方面謀利，並非法收受鉅額財物。\n\n王峻嚴重違反黨的政治紀律、組織紀律、廉潔紀律和工作紀律，構成嚴重職務違法並涉嫌受賄犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中央紀委常委會會議研究並報中共中央批准，決定給予王峻開除黨籍處分；由國家監委給予其開除公職處分；終止其西藏自治區第十次黨代會代表資格；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。（央視新聞）"
+    },
+    {
+      "id": "mkt:019f8dfe-6626-7aab-8e5f-381fe3153792",
+      "time": "2026-07-23 16:01:27",
+      "tags": [
+        "MKT News",
+        "Important",
+        "Star Stocks",
+        "Alphabet",
+        "Market Themes",
+        "Magnificent 7",
+        "GOOG.O",
+        "Impact bearish"
+      ],
+      "text": "Alphabet (GOOG.O) fell more than 3% in premarket trading after reporting Q2 results and raising its full-year capital expenditure forecast."
+    },
+    {
+      "id": "te:economy:569203",
+      "time": "2026-07-23 16:01:22",
+      "tags": [
+        "Trading Economics",
+        "Economy",
+        "Palestine",
+        "Balance of Trade",
+        "Importance 1"
+      ],
+      "text": "Palestine Trade Gap Widens in May — Palestine’s trade deficit widened to USD 526.4 million in May 2026 from USD 455.9 million in the same month a year earlier. Exports increased 25% from a year earlier to USD 193.3 million, driven mainly by a 33% rise in shipments to Israel, which accounted for 96% of total exports. In contrast, exports to other countries decreased by 45%. Meanwhile, imports rose 18% year-on-year to USD 719.7 million. Imports from Israel surged 42% and representing 65% of total imports, while purchases from other countries declined 10% compared with May 2025. Over the January-May period, the trade gap expanded to USD 2,573.5 million from USD 2,322.0 million in the corresponding period of 2025."
+    },
+    {
+      "id": "mkt:019f8dfe-3a97-7aab-8e5f-368a4814772b",
+      "time": "2026-07-23 16:01:16",
+      "tags": [
+        "MKT News",
+        "Commodities",
+        "Industrial Metals",
+        "Copper",
+        "Impact bullish",
+        "Nickel",
+        "Aluminium"
+      ],
+      "text": "London Metal Exchange (LME) stocks: tin down 125 tonnes, zinc down 1,575 tonnes, copper down 2,750 tonnes, nickel down 1,980 tonnes, aluminium down 1,600 tonnes; lead unchanged."
+    },
+    {
+      "id": "5003956",
+      "time": "2026-07-23 16:01:02",
+      "tags": [
+        "其他",
+        "焦點"
+      ],
+      "text": "【中南大學原黨委常委、副校長郭學益嚴重違紀違法被開除黨籍和公職】經中共中央批准，中央紀委國家監委對中南大學原黨委常委、副校長郭學益嚴重違紀違法問題進行了立案審查調查。\n\n經查，郭學益喪失理想信念，背棄初心使命，對抗組織審查；違反中央八項規定精神，違規收受禮金、接受宴請，為獲取學術獎項、學術稱號送給他人禮品、禮金；違規為本人及他人在職務提拔等方面謀取利益；違規經商辦企業；貪慾膨脹，以權謀私，與私營企業主大搞權錢交易，利用職務便利為他人在企業經營、專案合作等方面謀利，並非法收受鉅額財物；為謀取職務提拔向有關人員行賄；非法套取會議經費佔為己有。\n\n郭學益嚴重違反黨的政治紀律、組織紀律和廉潔紀律，構成嚴重職務違法並涉嫌受賄、行賄、貪汙犯罪，且在黨的十八大後不收斂、不收手，性質嚴重，影響惡劣，應予嚴肅處理。依據《中國共產黨紀律處分條例》《中華人民共和國監察法》《中華人民共和國公職人員政務處分法》等有關規定，經中央紀委常委會會議研究並報中共中央批准，決定給予郭學益開除黨籍處分；由國家監委給予其開除公職處分；收繳其違紀違法所得；將其涉嫌犯罪問題移送檢察機關依法審查起訴，所涉財物一併移送。（央視新聞）"
+    },
     {
       "id": "mkt:019f8dfd-d4e5-7aab-8e5f-2fdcb7e729cd",
       "time": "2026-07-23 16:00:50",
@@ -160468,156 +160667,6 @@
         "其他"
       ],
       "text": "【均普智慧將攜全球首條多臺機器人併線作業BMS自主量產中試產線亮相2026 WAIC】均普智慧將攜自研的全球首條實現多臺具身智慧機器人協同作業的BMS自主量產驗證產線亮相本屆2026世界人工智慧大會（WAIC），完整還原新能源汽車BMS控制器精密裝配全流程。經內部中試產線實測，機器人作業成功率突破99.9%，單工序節拍控制在70秒以內。"
-    },
-    {
-      "id": "4991778",
-      "time": "2026-07-16 16:05:39",
-      "tags": [
-        "國際"
-      ],
-      "text": "敘利亞國家通訊社援引訊息人士稱，初步調查顯示，這些武器原計劃透過敘利亞領土運往真主黨。"
-    },
-    {
-      "id": "te:markets:567487",
-      "time": "2026-07-16 16:05:15",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Commodity",
-        "Importance 1"
-      ],
-      "text": "Metals Commodities Updates: Lithium Carbonate Drops by 1.95% — Top commodity losers are Lithium Carbonate (-1.95%), Silver (-1.48%) and Gold (-0.74%). Gains are led by Platinum (1.28%) and Copper (0.99%)."
-    },
-    {
-      "id": "4991777",
-      "time": "2026-07-16 16:05:07",
-      "tags": [
-        "市場"
-      ],
-      "text": "納斯達克100指數期貨跌幅擴大至0.6%，創盤中新低。"
-    },
-    {
-      "id": "mkt:019f69f4-e837-7aab-8dc2-177d9a802698",
-      "time": "2026-07-16 16:04:45",
-      "tags": [
-        "MKT News",
-        "Market Regions",
-        "Greater China"
-      ],
-      "text": "【China's solar thermal capacity to reach 15 GW by 2030】China Electricity Council says China’s solar thermal power sector posted an 11.7% CAGR since the 14th Five-Year Plan, versus a 4.24% global pace. The council expects the sector to accelerate during the 15th Five-Year Plan, with total installed solar thermal (concentrated solar power) capacity reaching about 15 GW by 2030."
-    },
-    {
-      "id": "mkt:019f69f4-7839-7aab-8dc2-093a6623eb96",
-      "time": "2026-07-16 16:04:16",
-      "tags": [
-        "MKT News",
-        "UAL.O",
-        "Impact bearish"
-      ],
-      "text": "United Airlines shares fell 2.4% in pre-market trading after the company said it expects third-quarter profit to be below expectations."
-    },
-    {
-      "id": "mkt:019f69f4-60aa-7aab-8dc2-05b5cf281d76",
-      "time": "2026-07-16 16:04:10",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "Syria's state news agency, citing sources, said authorities foiled an attempt to smuggle weapons and missiles via the Iraqi border."
-    },
-    {
-      "id": "4991776",
-      "time": "2026-07-16 16:04:10",
-      "tags": [
-        "國際"
-      ],
-      "text": "據敘利亞官方通訊社援引訊息人士的話報道，敘利亞稱挫敗了一起經由伊拉克邊境走私武器和導彈的企圖。"
-    },
-    {
-      "id": "4991775",
-      "time": "2026-07-16 16:04:03",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "聯合航空盤前股價下跌2.4%，此前公司預計第三季度利潤低於市場預期。"
-    },
-    {
-      "id": "mkt:019f69f4-3b07-7aab-8dc1-fb4b8f597b53",
-      "time": "2026-07-16 16:04:01",
-      "tags": [
-        "MKT News"
-      ],
-      "text": "South Korea's Financial Services Commission (FSC) will raise the minimum margin required to buy single-stock leveraged ETFs to 30 million won, applying to products listed domestically and overseas."
-    },
-    {
-      "id": "mkt:019f69f3-ecaa-7aab-8dc1-f08eec7db418",
-      "time": "2026-07-16 16:03:41",
-      "tags": [
-        "MKT News",
-        "Important",
-        "TSM.N",
-        "Impact bearish"
-      ],
-      "text": "TSMC (TSM.N) shares fell more than 2.8% in US premarket trade."
-    },
-    {
-      "id": "4991774",
-      "time": "2026-07-16 16:03:30",
-      "tags": [
-        "公司"
-      ],
-      "text": "【大地熊：實控人、董事擬增持1000萬-2000萬元股份】大地熊公告稱，公司實控人、董事曹慶香基於對公司未來發展信心和長期投資價值認可，擬自公告披露日起6個月內，用自有及自籌資金，透過上交所集中競價交易增持公司A股股份，金額不低於1000萬元且不超2000萬元，數量為40萬-80萬股，佔總股本0.35%-0.70%，不超1%。增持期間及法定期限內不減持，該計劃可能因市場或政策因素無法實施。"
-    },
-    {
-      "id": "4991773",
-      "time": "2026-07-16 16:03:24",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國金融委員會官員：將境內外上市單股槓桿ETF的最低買入保證金提高至3000萬韓元"
-    },
-    {
-      "id": "4991772",
-      "time": "2026-07-16 16:02:41",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股中概股盤前普漲，小鵬集團漲4%】美股中概股盤前普漲，小鵬集團漲4%，嗶哩嗶哩漲3%，攜程、貝殼漲2%，京東、理想汽車、蔚來、阿里巴巴漲1%。"
-    },
-    {
-      "id": "4991771",
-      "time": "2026-07-16 16:02:38",
-      "tags": [
-        "公司",
-        "市場"
-      ],
-      "text": "【美股大型科技股盤前多數上漲，SK海力士跌5%】美股大型科技股盤前多數上漲，微軟漲0.6%，谷歌A漲0.3%，SpaceX、亞馬遜漲0.2%，蘋果漲0.1%，特斯拉跌0.1%，Meta跌0.2%，英偉達跌0.9%，美光科技跌1%，SK海力士跌5%。"
-    },
-    {
-      "id": "te:markets:567484",
-      "time": "2026-07-16 16:02:09",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "Germany",
-        "Stock Market",
-        "Importance 1"
-      ],
-      "text": "DAX Falls for 2nd Day — The DAX 40 edged down 0.3% to around 24,900 on Thursday, extending losses from the prior day, as traders parsed the latest batch of corporate earnings and corporate updates, against the backdrop of persistent Middle East tensions. Rumors that US President Donald Trump is considering expanding military operations against Iran after a series of briefings with his closest aides are causing concern. Meanwhile, technology shares continued to struggle, with chipmaker Infineon Technologies declining alongside AI-exposed industrials Siemens Energy and Hochtief."
-    },
-    {
-      "id": "mkt:019f69f2-6fc6-7aab-8dc1-e8b49d7cefec",
-      "time": "2026-07-16 16:02:03",
-      "tags": [
-        "MKT News",
-        "Important",
-        "SKHY.O",
-        "Impact bearish",
-        "SNDK.O",
-        "WDC.O"
-      ],
-      "text": "Pre-market U.S. equities: SK Hynix ADR (SKHY.O) down over 6%; SanDisk (SNDK.O) and Western Digital (WDC.O) down over 4%."
     }
   ]
 }
