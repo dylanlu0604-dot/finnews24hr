@@ -1,7 +1,83 @@
 {
-  "updated": "2026-07-23 10:05:05",
+  "updated": "2026-07-23 10:09:05",
   "count": 17612,
   "items": [
+    {
+      "id": "mkt:019f8cbb-347e-7aab-8e57-7ec90e80a71e",
+      "time": "2026-07-23 10:08:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share traditional Chinese medicine sector spiked intraday; Hansen Pharmaceutical hit the daily price limit, Zhenbaodao rose over 7%, and Yisheng Pharmaceutical, Enwei Pharmaceutical, Xinguang Pharmaceutical and Teyi Pharmaceutical also gained. The move followed publication of the 15th Five-Year Plan for the Revitalization and Development of Traditional Chinese Medicine."
+    },
+    {
+      "id": "mkt:019f8cba-90c2-7aab-8e57-747d74c7e858",
+      "time": "2026-07-23 10:07:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【U.S., Japan split over liability for $40bn nuclear project】The Financial Times reports Prime Minister Takaichi agreed in March to fund and provide industrial cooperation to build next‑generation small modular reactors in Tennessee and Alabama, part of Tokyo’s $550bn investment pledge tied to U.S. tariff concessions under Trump’s “liberation day” policy. Four sources said Tokyo and Washington remain in talks after Japan raised concerns about potential liability for a nuclear accident. The U.S. Commerce Department has given a verbal assurance that the Japan Bank for International Cooperation (JBIC) and other Japanese institutions would not bear accident liability, but that guarantee is not yet written into legal documents and could require months or years of regulatory negotiation to finalize. The impasse is the latest hurdle to delivering Tokyo’s investment pledge; several Japanese industrial groups have declined to lead U.S. projects."
+    },
+    {
+      "id": "mkt:019f8cba-7781-7aab-8e57-6f4ebe581aae",
+      "time": "2026-07-23 10:07:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "USD/KRW hit 1,466.90, the highest level since May 11."
+    },
+    {
+      "id": "5003419",
+      "time": "2026-07-23 10:07:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大華股份7月22日起全系產品調價，部分品類漲幅高達50%】記者從經銷商處獲悉，大華股份全系產品將於7月22日起執行新調價方案。由於大華產品線品類繁雜，各型號上調幅度存在分化，最終定價以官方最新報價單為準，其中部分產品漲幅最高達50%。據前述知情人士透露，本輪調價源於全球供應鏈供需持續失衡；自2025年下半年起，SoC主控晶片、記憶體、PCB板材、貴金屬等安防核心原材料價格持續走高，漲價趨勢在2026年延續，大幅抬升企業生產成本。(藍鯨新聞)"
+    },
+    {
+      "id": "5003418",
+      "time": "2026-07-23 10:07:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元匯率一度升至1466.90，為5月11日以來最高水平。"
+    },
+    {
+      "id": "mkt:019f8cb9-9feb-7aab-8e57-645453c5075e",
+      "time": "2026-07-23 10:06:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Guangdong 1H GDP up 4.5% YoY】Guangdong provincial statistics bureau said on July 23 Guangdong’s GDP totaled 7.2281 trillion yuan in 1H, up 4.5% YoY at constant prices. Value added: primary sector 224.894 billion yuan (+3.8% YoY); secondary sector 2,732.761 billion yuan (+4.7% YoY); tertiary sector 4,270.450 billion yuan (+4.5% YoY)."
+    },
+    {
+      "id": "5003417",
+      "time": "2026-07-23 10:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體板塊震盪走弱 華虹宏力跌超8%】半導體板塊震盪走弱，華虹宏力跌超8%，拓荊科技、燕東微、樂鑫科技、甬矽電子跟跌。"
+    },
+    {
+      "id": "5003416",
+      "time": "2026-07-23 10:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東上半年GDP同比增長4.5%】廣東統計官微7月23日公佈資料顯示，根據地區生產總值統一核算結果，上半年，廣東實現地區生產總值72281.05億元，按不變價格計算，同比增長4.5%。其中，第一產業增加值2248.94億元，增長3.8%；第二產業增加值27327.61億元，增長4.7%；第三產業增加值42704.50億元，增長4.5%。"
+    },
     {
       "id": "5003415",
       "time": "2026-07-23 10:02:43",
@@ -160978,84 +161054,6 @@
         "AI Revolution"
       ],
       "text": "【South Korea minister: AI, regional development and industrial ecosystems are three key economic battlegrounds】South Korea’s minister of trade, industry and energy Kim Jung-kwan said AI, regional development and industrial ecosystems are the government’s three priority battlegrounds to pull the economy back from a ‘zero-growth’ risk, urging corporate cooperation to expand global market share. He warned the era of relying on free trade and exports is waning, saying ‘going it alone’ and ‘survival of the fittest’ are becoming the norm and that firms, industries and national standing could shift without heightened vigilance. On AI, Kim cautioned against complacency despite the semiconductor upcycle, noting most non-chip firms remain under strain and the chip-driven boom risks creating a misleading sense of broad prosperity."
-    },
-    {
-      "id": "mkt:019f68ae-74f6-7aab-8db6-45e2519f9b19",
-      "time": "2026-07-16 10:08:11",
-      "tags": [
-        "MKT News",
-        "CNH",
-        "Impact bearish",
-        "CSI300",
-        "DXY",
-        "Impact bullish"
-      ],
-      "text": "【Ministry of Water Resources: China enters 2026 \"seven down, eight up\" flood-control critical period from today】The Ministry of Water Resources said China enters the 2026 \"seven down, eight up\" flood-control critical period from today. Since the start of the flood season, major rivers have recorded 25 numbered floods; 609 rivers exceeded warning levels—about 35% above the five-year average; 97 small-to-medium rivers surpassed guaranteed water levels; 14 rivers experienced their highest measured floods on record. Forecasts indicate multiple rainy zones in both north and south, flooding likely to outweigh drought, frequent/recurrent localized heavy rains, and strong typhoons tracking north into inland areas, leaving flood control under severe strain."
-    },
-    {
-      "id": "4991182",
-      "time": "2026-07-16 10:08:09",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本財務大臣片山：將提高日本國債對個人的吸引力。"
-    },
-    {
-      "id": "4991181",
-      "time": "2026-07-16 10:07:59",
-      "tags": [
-        "其他"
-      ],
-      "text": "【水利部：今起我國進入“七下八上”防汛關鍵期】從今天（16日）起，我國正式進入2026年“七下八上”防汛關鍵期。水利部今天上午舉行新聞釋出會，介紹今年的防汛形勢。今年入汛以來，我國主要江河共發生25次編號洪水，有609條河流發生超警洪水，數量較近五年同期均值偏多35%，97條中小河流出現超保證水位洪水，14條河流發生有實測記錄以來最大洪水。據預測，今年防汛關鍵期，我國南北方均有多雨區，澇重於旱，局地暴雨洪水多發重發，有較強颱風北上影響內陸，防汛工作依舊面臨嚴峻考驗。"
-    },
-    {
-      "id": "4991180",
-      "time": "2026-07-16 10:07:45",
-      "tags": [
-        "市場",
-        "國際"
-      ],
-      "text": "日本財務大臣片山：各方共識一致，擴大日本國債投資者群體是關鍵。"
-    },
-    {
-      "id": "mkt:019f68ad-68c1-7aab-8db6-3caf8354bc50",
-      "time": "2026-07-16 10:07:02",
-      "tags": [
-        "MKT News",
-        "Star Stocks",
-        "NVIDIA",
-        "Market Themes",
-        "Magnificent 7",
-        "NVDA.O",
-        "Impact mixed"
-      ],
-      "text": "【Earnings lull leaves options the hidden driver of tech stocks】Analyst Navellier says short-term moves in popular tech names are increasingly driven by short-dated options rather than fundamentals. As the stock of short-dated contracts grows, market-makers’ hedging and option-related trading can become a material price lever: heavy sales of calls on names such as NVIDIA can force market-makers into larger hedges and payout risk if shares rally past strikes, prompting algorithmic and hedging flows that cap gains and pull prices back toward recent averages. The firm warns this can cause spikes followed by quick fades or extended sideways action even when company fundamentals remain strong, and that outside earnings seasons 0DTE options, expiries and algo flow may amplify intraday moves. Navellier frames this as a market-structure explanation, not proof that option concentration will necessarily suppress prices."
-    },
-    {
-      "id": "4991179",
-      "time": "2026-07-16 10:06:55",
-      "tags": [
-        "公司"
-      ],
-      "text": "標準核能公司（STANDARD NUCLEAR ）公佈首次公開募股定價，計劃以每股15美元的價格首次公開發行1000萬股股票。"
-    },
-    {
-      "id": "4991178",
-      "time": "2026-07-16 10:06:20",
-      "tags": [
-        "市場",
-        "焦點"
-      ],
-      "text": "南向資金淨買入額達10億港元。"
-    },
-    {
-      "id": "4991177",
-      "time": "2026-07-16 10:06:11",
-      "tags": [
-        "公司"
-      ],
-      "text": "【蘋果考慮收購晶片公司，據悉因自研AI伺服器效能面臨挑戰】據報道，蘋果已接觸部分晶片初創公司，探詢其被收購的意願，意在加強其構建用於執行人工智慧的伺服器晶片的能力。報道稱，蘋果之所以產生收購意向，是因其自研AI伺服器的效能面臨挑戰。知情人士表示，蘋果原計劃今年推出AI伺服器晶片的後續版本（內部代號為“Baltra”），但該專案已被推遲。"
     }
   ]
 }

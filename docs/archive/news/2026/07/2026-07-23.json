@@ -1,7 +1,83 @@
 {
   "date": "2026-07-23",
-  "count": 954,
+  "count": 962,
   "items": [
+    {
+      "id": "mkt:019f8cbb-347e-7aab-8e57-7ec90e80a71e",
+      "time": "2026-07-23 10:08:26",
+      "tags": [
+        "MKT News",
+        "Important",
+        "CSI300",
+        "Impact bullish",
+        "SSE Composite"
+      ],
+      "text": "China A-share traditional Chinese medicine sector spiked intraday; Hansen Pharmaceutical hit the daily price limit, Zhenbaodao rose over 7%, and Yisheng Pharmaceutical, Enwei Pharmaceutical, Xinguang Pharmaceutical and Teyi Pharmaceutical also gained. The move followed publication of the 15th Five-Year Plan for the Revitalization and Development of Traditional Chinese Medicine."
+    },
+    {
+      "id": "mkt:019f8cba-90c2-7aab-8e57-747d74c7e858",
+      "time": "2026-07-23 10:07:44",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Japan & APAC"
+      ],
+      "text": "【U.S., Japan split over liability for $40bn nuclear project】The Financial Times reports Prime Minister Takaichi agreed in March to fund and provide industrial cooperation to build next‑generation small modular reactors in Tennessee and Alabama, part of Tokyo’s $550bn investment pledge tied to U.S. tariff concessions under Trump’s “liberation day” policy. Four sources said Tokyo and Washington remain in talks after Japan raised concerns about potential liability for a nuclear accident. The U.S. Commerce Department has given a verbal assurance that the Japan Bank for International Cooperation (JBIC) and other Japanese institutions would not bear accident liability, but that guarantee is not yet written into legal documents and could require months or years of regulatory negotiation to finalize. The impasse is the latest hurdle to delivering Tokyo’s investment pledge; several Japanese industrial groups have declined to lead U.S. projects."
+    },
+    {
+      "id": "mkt:019f8cba-7781-7aab-8e57-6f4ebe581aae",
+      "time": "2026-07-23 10:07:38",
+      "tags": [
+        "MKT News",
+        "DXY",
+        "Impact bullish"
+      ],
+      "text": "USD/KRW hit 1,466.90, the highest level since May 11."
+    },
+    {
+      "id": "5003419",
+      "time": "2026-07-23 10:07:31",
+      "tags": [
+        "公司"
+      ],
+      "text": "【大華股份7月22日起全系產品調價，部分品類漲幅高達50%】記者從經銷商處獲悉，大華股份全系產品將於7月22日起執行新調價方案。由於大華產品線品類繁雜，各型號上調幅度存在分化，最終定價以官方最新報價單為準，其中部分產品漲幅最高達50%。據前述知情人士透露，本輪調價源於全球供應鏈供需持續失衡；自2025年下半年起，SoC主控晶片、記憶體、PCB板材、貴金屬等安防核心原材料價格持續走高，漲價趨勢在2026年延續，大幅抬升企業生產成本。(藍鯨新聞)"
+    },
+    {
+      "id": "5003418",
+      "time": "2026-07-23 10:07:11",
+      "tags": [
+        "市場"
+      ],
+      "text": "韓元兌美元匯率一度升至1466.90，為5月11日以來最高水平。"
+    },
+    {
+      "id": "mkt:019f8cb9-9feb-7aab-8e57-645453c5075e",
+      "time": "2026-07-23 10:06:43",
+      "tags": [
+        "MKT News",
+        "Market Regions",
+        "Greater China",
+        "CNH",
+        "Impact bullish"
+      ],
+      "text": "【Guangdong 1H GDP up 4.5% YoY】Guangdong provincial statistics bureau said on July 23 Guangdong’s GDP totaled 7.2281 trillion yuan in 1H, up 4.5% YoY at constant prices. Value added: primary sector 224.894 billion yuan (+3.8% YoY); secondary sector 2,732.761 billion yuan (+4.7% YoY); tertiary sector 4,270.450 billion yuan (+4.5% YoY)."
+    },
+    {
+      "id": "5003417",
+      "time": "2026-07-23 10:06:29",
+      "tags": [
+        "其他"
+      ],
+      "text": "【半導體板塊震盪走弱 華虹宏力跌超8%】半導體板塊震盪走弱，華虹宏力跌超8%，拓荊科技、燕東微、樂鑫科技、甬矽電子跟跌。"
+    },
+    {
+      "id": "5003416",
+      "time": "2026-07-23 10:06:13",
+      "tags": [
+        "其他"
+      ],
+      "text": "【廣東上半年GDP同比增長4.5%】廣東統計官微7月23日公佈資料顯示，根據地區生產總值統一核算結果，上半年，廣東實現地區生產總值72281.05億元，按不變價格計算，同比增長4.5%。其中，第一產業增加值2248.94億元，增長3.8%；第二產業增加值27327.61億元，增長4.7%；第三產業增加值42704.50億元，增長4.5%。"
+    },
     {
       "id": "5003415",
       "time": "2026-07-23 10:02:43",
