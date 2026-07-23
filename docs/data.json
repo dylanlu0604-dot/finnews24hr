@@ -1,7 +1,71 @@
 {
-  "updated": "2026-07-23 08:11:07",
-  "count": 17692,
+  "updated": "2026-07-23 08:15:03",
+  "count": 17690,
   "items": [
+    {
+      "id": "5003243",
+      "time": "2026-07-23 08:13:55",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通將菲律賓股票評級下調至減持。"
+    },
+    {
+      "id": "5003242",
+      "time": "2026-07-23 08:13:41",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通將泰國股票評級上調至中性。"
+    },
+    {
+      "id": "5003241",
+      "time": "2026-07-23 08:12:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：AI眼鏡有望成為AI Agent進入物理世界的高頻入口】華泰證券研報稱，AI產業正從“模型能力競爭”進入“終端執行與應用落地”階段，大模型多模態能力成熟，使AI具備“看、聽、理解”現實世界的能力。在眾多終端形態中，AI眼鏡憑藉第一視角感知、低行為成本、低打擾接入和全天候佩戴屬性，有望成為AI Agent進入物理世界的高頻入口。華泰證券認為，AI眼鏡並非單一硬體創新，而是AI生產力向真實場景滲透的關鍵載體，有望推動人機互動從“主動搜尋”走向“所見即所得”的被動式智慧服務。"
+    },
+    {
+      "id": "mkt:019f8c51-165c-7aab-8e54-f7f641776df0",
+      "time": "2026-07-23 08:12:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "UBER.N",
+        "Impact bullish"
+      ],
+      "text": "【Uber cuts 10% of customer service roles to \"embrace\" AI】Uber (UBER.N) said it cut 10% of its customer service positions as part of a broader organizational simplification and to \"embrace\" artificial intelligence."
+    },
+    {
+      "id": "5003240",
+      "time": "2026-07-23 08:11:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲4.0個基點，至2.000%。"
+    },
+    {
+      "id": "mkt:019f8c4f-e550-7aab-8e54-eea55ce4d54e",
+      "time": "2026-07-23 08:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SEC approves Nasdaq rule to delist securities under $5m market value】The SEC approved a Nasdaq rule change to accelerate removal of weak issuers: Nasdaq-listed securities with market value below $5 million for 30 consecutive days will face immediate suspension and delisting with limited appeal rights. The tighter threshold is aimed at microcap and penny-stock markets amid regulator concerns over sharp volatility and manipulation, including tech-enabled pump-and-dump schemes. The SEC said low-priced, low-market-cap stocks require less capital to manipulate and are therefore more susceptible to manipulation and extreme swings."
+    },
+    {
+      "id": "5003239",
+      "time": "2026-07-23 08:11:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：中國AI初創公司靈初智慧正以14.8億美元的估值進行融資。"
+    },
     {
       "id": "mkt:019f8c4e-ffb0-7aab-8e54-e45d610982b2",
       "time": "2026-07-23 08:10:15",
@@ -161701,87 +161765,6 @@
         "MKT News"
       ],
       "text": "U.S. Trade Representative Greer said a separate investigation into Vietnam's intellectual property issues is underway and that the two sides have reached agreement on export controls."
-    },
-    {
-      "id": "4990952",
-      "time": "2026-07-16 08:14:34",
-      "tags": [
-        "國際"
-      ],
-      "text": "格里爾：美國在推進稀土生產。"
-    },
-    {
-      "id": "4990951",
-      "time": "2026-07-16 08:14:27",
-      "tags": [
-        "資料",
-        "觀點"
-      ],
-      "text": "【中信證券：經濟資料最差的時候已經過去】中信證券研報稱，二季度實際GDP增速較一季度回落0.7個百分點，但單月來看6月景氣已經出現回升，工業生產、消費、投資增速均有不同程度回升。從生產側來看，出口加速擴張、油價回落及AI行業高景氣促使工業增加值增速顯著回升，服務業生產指數增速也小幅回升。從需求側來看，受補貼資金髮放、端午備貨、618購物節三重錯位因素帶動，社零增速高於前值和預期；固投增速低於市場預期，但單月增速跌幅有所收窄。向後看，出口受到AI產品驅動仍將保持高速增長，補貼資金的波動可能會繼續成為消費增長的擾動但韌性仍在，三季度往往是加速全年逆週期工具下達使用的重要視窗，投資將有望觸底回升，再疊加基數效應，我們預計下半年GDP實際增速將逐季走高。同時，PPI已經觸及年內高點，預計下半年將進入到“剪刀差”收斂的階段，部分中下游行業的盈利壓力有望緩解。宏觀政策方面，考慮到當前出口結構亮眼、增速持續超預期以及內需已經見到改善跡象，我們認為下半年國內政策將更多聚焦已有政策工具的加速落實及產業結構持續最佳化升級。"
-    },
-    {
-      "id": "te:markets:567335",
-      "time": "2026-07-16 08:14:06",
-      "tags": [
-        "Trading Economics",
-        "Markets",
-        "China",
-        "currency",
-        "Importance 1"
-      ],
-      "text": "Chinese Yuan Hits 4-week High — The Chinese Yuan touched 6.77 against the USD, the highest since June 2026. Over the past 4 weeks, US Dollar Chinese Yuan lost 0.16%, and in the last 12 months, it decreased 5.82%."
-    },
-    {
-      "id": "te:economy:567334",
-      "time": "2026-07-16 08:13:48",
-      "tags": [
-        "Trading Economics",
-        "Economy",
-        "India",
-        "Total Vehicle Sales",
-        "Importance 1"
-      ],
-      "text": "India Car Sales Rise 18.2% in June — Passenger vehicle sales in India increased 18.2% year-on-year in June 2026, slowing from a 25.3% surge in the previous month to 326,068 units, according to data from the Society of Indian Automobile Manufacturers (SIAM). The strong performance was attributed to supportive domestic demand, aided by lower Goods and Services Tax rates, softer financing costs, and the introduction of new models, though growth eased compared to May. However, the industry continues to closely monitor geopolitical developments and the progress of the monsoon, given their implications for agricultural output and rural demand. In May, SIAM stated that the positive momentum seen in the second half of FY 2025–26 continued into the first month of FY 2026–27."
-    },
-    {
-      "id": "4990950",
-      "time": "2026-07-16 08:13:03",
-      "tags": [
-        "國際"
-      ],
-      "text": "美國貿易代表格里爾：在301調查方面正在快速推進。"
-    },
-    {
-      "id": "4990949",
-      "time": "2026-07-16 08:12:37",
-      "tags": [
-        "公司",
-        "國際"
-      ],
-      "text": "【陽光電源：公司出口到美國的逆變器沒有遠端通訊功能 滿足美國相關標準】陽光電源(300274)7月15日在機構調研時表示，公司出口到美國的逆變器沒有遠端升級功能，也沒有遠端通訊功能，滿足美國相關標準。公司將持續深耕全球清潔能源市場。"
-    },
-    {
-      "id": "4990948",
-      "time": "2026-07-16 08:11:45",
-      "tags": [
-        "國際"
-      ],
-      "text": "韓國交易所啟動SIDECAR機制，暫停KOSPI程式化交易。"
-    },
-    {
-      "id": "4990947",
-      "time": "2026-07-16 08:11:38",
-      "tags": [],
-      "text": "韓國交易所對KOSPI指數啟動臨時停牌機制。"
-    },
-    {
-      "id": "mkt:019f6843-5229-7aab-8db2-80be3467f325",
-      "time": "2026-07-16 08:11:10",
-      "tags": [
-        "MKT News",
-        "Important"
-      ],
-      "text": "Korea Exchange activated a temporary suspension mechanism for the KOSPI index."
     }
   ]
 }

@@ -1,7 +1,71 @@
 {
   "date": "2026-07-23",
-  "count": 671,
+  "count": 678,
   "items": [
+    {
+      "id": "5003243",
+      "time": "2026-07-23 08:13:55",
+      "tags": [
+        "公司",
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通將菲律賓股票評級下調至減持。"
+    },
+    {
+      "id": "5003242",
+      "time": "2026-07-23 08:13:41",
+      "tags": [
+        "觀點",
+        "國際"
+      ],
+      "text": "摩根大通將泰國股票評級上調至中性。"
+    },
+    {
+      "id": "5003241",
+      "time": "2026-07-23 08:12:51",
+      "tags": [
+        "觀點"
+      ],
+      "text": "【華泰證券：AI眼鏡有望成為AI Agent進入物理世界的高頻入口】華泰證券研報稱，AI產業正從“模型能力競爭”進入“終端執行與應用落地”階段，大模型多模態能力成熟，使AI具備“看、聽、理解”現實世界的能力。在眾多終端形態中，AI眼鏡憑藉第一視角感知、低行為成本、低打擾接入和全天候佩戴屬性，有望成為AI Agent進入物理世界的高頻入口。華泰證券認為，AI眼鏡並非單一硬體創新，而是AI生產力向真實場景滲透的關鍵載體，有望推動人機互動從“主動搜尋”走向“所見即所得”的被動式智慧服務。"
+    },
+    {
+      "id": "mkt:019f8c51-165c-7aab-8e54-f7f641776df0",
+      "time": "2026-07-23 08:12:32",
+      "tags": [
+        "MKT News",
+        "Market Themes",
+        "AI Revolution",
+        "UBER.N",
+        "Impact bullish"
+      ],
+      "text": "【Uber cuts 10% of customer service roles to \"embrace\" AI】Uber (UBER.N) said it cut 10% of its customer service positions as part of a broader organizational simplification and to \"embrace\" artificial intelligence."
+    },
+    {
+      "id": "5003240",
+      "time": "2026-07-23 08:11:16",
+      "tags": [
+        "市場",
+        "國際"
+      ],
+      "text": "5年期日本國債收益率上漲4.0個基點，至2.000%。"
+    },
+    {
+      "id": "mkt:019f8c4f-e550-7aab-8e54-eea55ce4d54e",
+      "time": "2026-07-23 08:11:13",
+      "tags": [
+        "MKT News"
+      ],
+      "text": "【SEC approves Nasdaq rule to delist securities under $5m market value】The SEC approved a Nasdaq rule change to accelerate removal of weak issuers: Nasdaq-listed securities with market value below $5 million for 30 consecutive days will face immediate suspension and delisting with limited appeal rights. The tighter threshold is aimed at microcap and penny-stock markets amid regulator concerns over sharp volatility and manipulation, including tech-enabled pump-and-dump schemes. The SEC said low-priced, low-market-cap stocks require less capital to manipulate and are therefore more susceptible to manipulation and extreme swings."
+    },
+    {
+      "id": "5003239",
+      "time": "2026-07-23 08:11:08",
+      "tags": [
+        "公司"
+      ],
+      "text": "市場訊息：中國AI初創公司靈初智慧正以14.8億美元的估值進行融資。"
+    },
     {
       "id": "mkt:019f8c4e-ffb0-7aab-8e54-e45d610982b2",
       "time": "2026-07-23 08:10:15",
